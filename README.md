@@ -93,6 +93,9 @@ Luftmarinegade 38,1432 København K,2485131,137,18139
 "Store Kongensgade 90, 2. TH",1264 København K,7500000,158,47468
 "Gothersgade 147, 3. TV",1123 København K,3622500,68,53272
 
+### The image
+
+![alt text](https://raw.githubusercontent.com/ovi28/BI-Group/master/prices.png)
 
 ## The output: 3307228.119047619
 

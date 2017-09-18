@@ -1,0 +1,694 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Syrenvænget 9 5631 Ebberup,9,1240000.0,09-05-2017,Alm.,16103,5,Sommerhus,77,1971,-10 %
+Topshøj 24 5631 Ebberup,24,555000.0,13-04-2017,Alm.,8283,2,Rækkehus,67,1979,-3 %
+Højtoften 12 5631 Ebberup,12,1062000.0,11-04-2017,Alm.,7426,5,Villa,143,1976,-10 %
+Topshøj 4A 5631 Ebberup,0,500000.0,06-04-2017,Fam.,7352,2,Villa,68,1979,
+Gammelhave 9 5631 Ebberup,9,1150000.0,31-03-2017,Alm.,15753,3,Sommerhus,73,1974,-18 %
+Ryet 19 5631 Ebberup,19,800000.0,10-02-2017,Alm.,6106,5,Villa,131,1969,
+Strandbakken 53 5631 Ebberup,53,2300000.0,06-02-2017,Alm.,17692,5,Sommerhus,130,1870,-8 %
+Pilehøjen 9 5631 Ebberup,9,2300000.0,03-02-2017,Alm.,12041,7,Villa,191,1977,0 %
+Topshøj 32 5631 Ebberup,32,600000.0,03-02-2017,Alm.,7894,2,Rækkehus,76,1979,
+Rybergsvej 41 5631 Ebberup,41,1300000.0,03-02-2017,Alm.,8227,6,Villa,158,1950,
+Bjørnemosevej 23 5631 Ebberup,23,1700000.0,21-11-2016,Alm.,10625,5,Villa,160,1927,-3 %
+Rybergsvej 11 5631 Ebberup,11,60000.0,19-11-2016,Alm.,833,2,Villa,72,1877,-60 %
+Topshøj 8A 5631 Ebberup,0,550000.0,24-10-2016,Alm.,7236,3,Rækkehus,76,1979,-8 %
+Ebberupvej 14A 5631 Ebberup,0,650000.0,20-10-2016,Alm.,4577,5,Villa,142,1976,
+Brombærvænget 14 5631 Ebberup,14,1295000.0,19-10-2016,Alm.,14388,3,Sommerhus,90,1998,-7 %
+Ebberupvej 48 5631 Ebberup,48,2170000.0,18-10-2016,Alm.,11243,7,Villa,193,1896,-1 %
+Ebberupvej 108 5631 Ebberup,108,1181000.0,01-10-2016,Alm.,4900,9,Villa,241,1936,0 %
+Å Strandvej 39 5631 Ebberup,39,80000.0,26-09-2016,Fam.,1176,4,Villa,68,1850,
+Banevænget 2 5631 Ebberup,2,685000.0,25-09-2016,Alm.,6650,4,Villa,103,1933,0 %
+Prinsevej 10 5631 Ebberup,10,2900000.0,14-09-2016,Alm.,9863,12,Villa,294,1911,-3 %
+Prinsevej 19 5631 Ebberup,19,775000.0,02-09-2016,Alm.,4558,7,Villa,170,1900,-13 %
+Prinsevej 47 5631 Ebberup,47,1450000.0,28-06-2016,Alm.,10357,4,Villa,140,1877,0 %
+Ræveskoven 15 5631 Ebberup,15,60000.0,13-06-2016,Fam.,535,4,Villa,112,1827,
+Pilehøjen 15 5631 Ebberup,15,1095000.0,26-05-2016,Alm.,8171,5,Villa,134,1974,0 %
+Thinggyden 28 5631 Ebberup,28,750000.0,26-05-2016,Alm.,3588,6,Villa,209,1697,0 %
+Ebberupvej 20 5631 Ebberup,20,90000.0,24-05-2016,Alm.,1084,4,Villa,83,1896,-55 %
+Ravnekærvej 39 5631 Ebberup,39,870000.0,18-05-2016,Alm.,6444,5,Villa,135,1800,-3 %
+Topshøj 12 5631 Ebberup,12,2250000.0,06-05-2016,Alm.,37500,2,Rækkehus,60,1979,
+Topshøj 18 5631 Ebberup,18,450000.0,06-05-2016,Alm.,7500,2,Rækkehus,60,1979,
+Poppelvænget 32 5631 Ebberup,32,750000.0,19-04-2016,Alm.,7500,4,Sommerhus,100,1973,-21 %
+Ravnekærvej 7 5631 Ebberup,7,650000.0,21-03-2016,Alm.,6500,4,Villa,100,1953,-6 %
+Prinsevej 1 5631 Ebberup,1,2150000.0,21-03-2016,Alm.,6635,7,Villa,324,1913,-2 %
+Nyvej 8 5631 Ebberup,8,555000.0,18-03-2016,Alm.,4911,4,Villa,113,1967,-7 %
+Ebberupvej 69 5631 Ebberup,69,210000.0,11-03-2016,Alm.,2210,3,Villa,95,1883,-40 %
+Ravnekærvej 31 5631 Ebberup,31,490000.0,28-02-2016,Alm.,4260,5,Villa,115,1940,
+Gammelhave 14 5631 Ebberup,14,1575000.0,26-02-2016,Alm.,17119,4,Sommerhus,92,1976,-7 %
+Helnæs Byvej 36 5631 Ebberup,36,465000.0,22-02-2016,Alm.,4227,5,Villa,110,1896,
+Snaven 14 5631 Ebberup,14,879590.0,15-02-2016,Alm.,5943,5,Villa,148,1900,
+Bøgevænget 1 5631 Ebberup,1,739057.0,12-02-2016,Fam.,3695,6,Villa,200,1972,
+Degnegyden 4 5631 Ebberup,4,470000.0,03-02-2016,Alm.,4895,4,Villa,96,1947,-21 %
+Birkevænget 5 5631 Ebberup,5,596625.0,13-01-2016,Alm.,4419,5,Villa,135,1969,-14 %
+Åhaven 4 5631 Ebberup,4,950000.0,26-12-2015,Alm.,12500,4,Sommerhus,76,1890,-5 %
+Nyvej 7 5631 Ebberup,7,700000.0,22-12-2015,Alm.,6481,3,Villa,108,1962,-6 %
+Hasselvænget 6 5631 Ebberup,6,1000000.0,16-12-2015,Alm.,14285,4,Sommerhus,70,1972,
+Toftedalsvej 20 5631 Ebberup,20,595000.0,01-12-2015,Alm.,4250,4,Villa,140,1974,-14 %
+Uglebjergsvej 5 5631 Ebberup,5,4122500.0,01-12-2015,Fam.,19174,7,Stuehus,215,1933,
+Bjørnemosevej 6 5631 Ebberup,6,925000.0,30-11-2015,Alm.,5854,5,Villa,158,1928,-7 %
+Ågyden 2 5631 Ebberup,2,1250000.0,20-11-2015,Alm.,13020,4,Villa,96,1953,0 %
+Rybergsvej 49 5631 Ebberup,49,550000.0,26-10-2015,Fam.,6111,4,Villa,90,1850,
+Ebberupvej 45 5631 Ebberup,45,989863.0,22-10-2015,Fam.,4458,7,Villa,222,1920,
+Jasminvænget 4 5631 Ebberup,4,250000.0,21-10-2015,Alm.,3378,3,Villa,74,1962,
+Johan Rantzaus Vej 3 5631 Ebberup,3,14373970.0,24-09-2015,Alm.,71512,8,Stuehus,201,1966,
+Snaven 7 5631 Ebberup,7,995000.0,21-08-2015,Alm.,6633,5,Villa,150,1970,0 %
+Ryet 28 5631 Ebberup,28,25000.0,18-08-2015,Alm.,166,5,Villa,150,1877,
+Gammelhave 8 5631 Ebberup,8,935000.0,11-08-2015,Alm.,14609,3,Sommerhus,64,1971,-19 %
+Pilehøjen 7 5631 Ebberup,7,735000.0,13-07-2015,Alm.,5975,4,Villa,123,1978,-8 %
+Gammelhave 5 5631 Ebberup,5,915000.0,05-07-2015,Alm.,16052,3,Sommerhus,57,1971,-16 %
+Skolevej 13 5631 Ebberup,13,625000.0,30-06-2015,Alm.,5482,6,Villa,114,1961,-10 %
+Ebberupvej 18 5631 Ebberup,18,1300000.0,30-06-2015,Alm.,6878,4,Villa,189,1933,-13 %
+Ryet 3 5631 Ebberup,3,29000000.0,30-06-2015,Andet,181250,5,Stuehus,160,1970,
+Ryet 22 5631 Ebberup,22,2000000.0,29-06-2015,Alm.,13071,5,Villa,153,1939,-20 %
+Nyvej 15 5631 Ebberup,15,1050000.0,04-06-2015,Fam.,8536,5,Villa,123,1962,
+Søvangen 5 5631 Ebberup,5,18025000.0,03-06-2015,Alm.,69326,7,Stuehus,260,1867,
+Prinsevej 7 5631 Ebberup,7,1000000.0,28-05-2015,Alm.,9090,4,Villa,110,1938,
+Strandbakken 43 5631 Ebberup,43,2425000.0,27-05-2015,Alm.,13108,7,Sommerhus,185,1930,-3 %
+Stævnevej 26 5631 Ebberup,26,76000.0,26-05-2015,Auktion,330,8,Stuehus,230,1848,
+Tjørnevænget 9 5631 Ebberup,9,1500000.0,04-05-2015,Alm.,15000,3,Sommerhus,100,1972,-12 %
+Å Strandvej 61 5631 Ebberup,61,2600000.0,17-04-2015,Alm.,22033,3,Villa,118,2008,
+Mosemarksvej 1 5631 Ebberup,1,1300000.0,10-04-2015,Alm.,5963,6,Villa,218,1898,-13 %
+Ebberupvej 49 5631 Ebberup,49,2025000.0,22-03-2015,Alm.,9507,5,Villa,213,1934,-7 %
+Topshøj 26 5631 Ebberup,26,475000.0,16-03-2015,Alm.,7089,2,Rækkehus,67,1979,-5 %
+Stensland 10 5631 Ebberup,10,397500.0,09-02-2015,Andet,4184,2,Villa,95,1943,
+Ravnekærvej 37 5631 Ebberup,37,1226000.0,07-12-2014,Alm.,4574,8,Villa,268,1930,-12 %
+Helnæs Byvej 51 5631 Ebberup,51,1150000.0,06-11-2014,Alm.,7371,5,Villa,156,1914,-8 %
+Helnæs Byvej 76 5631 Ebberup,76,130000.0,04-11-2014,Auktion,1547,3,Sommerhus,84,1870,
+Gammelhave 18 5631 Ebberup,18,2440000.0,01-11-2014,Alm.,14610,5,Sommerhus,167,2005,-19 %
+Ågyden 18 5631 Ebberup,18,816000.0,29-10-2014,Fam.,13600,4,Sommerhus,60,1952,
+Nyvej 24 5631 Ebberup,24,500000.0,24-10-2014,Alm.,5813,3,Villa,86,1963,-17 %
+Hegningen 5 5631 Ebberup,5,250000.0,21-10-2014,Fam.,3205,2,Sommerhus,78,1890,
+Helnæs Byvej 73 5631 Ebberup,73,625000.0,05-09-2014,Alm.,6009,5,Villa,104,1912,-10 %
+Å Strandvej 26 5631 Ebberup,26,1300000.0,01-09-2014,Fam.,9558,5,Villa,136,1907,
+Brombærvænget 6 5631 Ebberup,6,825000.0,25-08-2014,Fam.,13750,4,Sommerhus,60,1971,
+Hasselvænget 8 5631 Ebberup,8,1200000.0,22-08-2014,Alm.,17142,4,Sommerhus,70,1975,-14 %
+Brombærvænget 13 5631 Ebberup,13,900000.0,16-08-2014,Alm.,15517,4,Sommerhus,58,1977,-10 %
+Nyvej 30 5631 Ebberup,30,250000.0,15-08-2014,Alm.,2659,4,Villa,94,1967,-47 %
+Mosemarksvej 6 5631 Ebberup,6,665000.0,30-07-2014,Alm.,3694,7,Stuehus,180,1893,0 %
+Ebberupvej 39 5631 Ebberup,39,905000.0,29-07-2014,Alm.,6198,4,Villa,146,1935,-16 %
+Snaven 19 5631 Ebberup,19,350000.0,29-07-2014,Alm.,3398,3,Villa,103,1953,0 %
+Bjørnemosevej 3 5631 Ebberup,3,1137500.0,23-07-2014,Fam.,5803,7,Villa,196,1927,
+Topshøj 4 5631 Ebberup,4,590000.0,11-07-2014,Alm.,7763,3,Villa,76,1979,-9 %
+Stensland 8 5631 Ebberup,8,685000.0,04-07-2014,Alm.,5569,3,Villa,123,1944,-8 %
+Helnæs Byvej 47 5631 Ebberup,47,1200000.0,16-06-2014,Alm.,10434,5,Villa,115,1953,-7 %
+Strandbakken 21 5631 Ebberup,21,3250000.0,04-06-2014,Alm.,21381,8,Villa,152,1906,
+Ebberupvej 60 5631 Ebberup,60,325000.0,30-05-2014,Alm.,3693,4,Villa,88,1897,-18 %
+Rønnevej 2 5631 Ebberup,2,1300000.0,27-05-2014,Alm.,5327,6,Villa,244,1973,-13 %
+Tjørnevænget 19 5631 Ebberup,19,1675000.0,17-05-2014,Alm.,22635,4,Sommerhus,74,1972,-4 %
+Å Strandvej 79 5631 Ebberup,79,500000.0,15-05-2014,Alm.,3623,3,Villa,138,1848,-16 %
+Thinggyden 6 5631 Ebberup,6,650000.0,13-05-2014,Alm.,7142,4,Stuehus,91,1900,
+Søvangen 29 5631 Ebberup,29,595000.0,08-05-2014,Alm.,4877,5,Villa,122,1812,-21 %
+Hegnet 10 5631 Ebberup,10,610000.0,28-04-2014,Alm.,5258,4,Villa,116,1976,-12 %
+Å Strandvej 13 5631 Ebberup,13,1125000.0,16-04-2014,Andet,8395,6,Villa,134,1937,
+Syrenvænget 14 5631 Ebberup,14,490000.0,28-03-2014,Fam.,8032,4,Sommerhus,61,1984,
+Hasselvænget 20 5631 Ebberup,20,1900000.0,20-03-2014,Alm.,18627,3,Sommerhus,102,1974,-5 %
+Stubben 3 5631 Ebberup,3,546714.0,14-03-2014,Alm.,4444,4,Villa,123,1976,-52 %
+Ravnekærvej 73 5631 Ebberup,73,695000.0,25-02-2014,Alm.,9652,3,Villa,72,1900,
+Nyvej 4 5631 Ebberup,4,885000.0,17-02-2014,Alm.,6321,3,Villa,140,1970,-11 %
+Prinsevej 16 5631 Ebberup,16,1845000.0,28-01-2014,Alm.,10250,5,Villa,180,1902,0 %
+Ravnekærvej 22 5631 Ebberup,22,1159000.0,23-01-2014,Alm.,8104,4,Villa,143,1900,-3 %
+Ravnekærvej 26 5631 Ebberup,26,340000.0,14-01-2014,Auktion,2428,7,Villa,140,1930,-66 %
+Ravnekærvej 13 5631 Ebberup,13,56000.0,03-01-2014,Alm.,589,4,Villa,95,1900,
+Rybergsvej 10 5631 Ebberup,10,510000.0,20-12-2013,Alm.,4636,4,Villa,110,1897,
+Helnæs Byvej 63 5631 Ebberup,63,800000.0,13-12-2013,Alm.,1526,25,Kollegium,524,1993,
+Poppelvænget 42 5631 Ebberup,42,910000.0,09-12-2013,Alm.,10459,4,Sommerhus,87,1976,-27 %
+Klinteskovsvej 4 5631 Ebberup,4,885000.0,05-12-2013,Auktion,5673,5,Villa,156,2009,
+Stensland 12 5631 Ebberup,12,1485000.0,04-12-2013,Alm.,6780,7,Villa,219,1917,0 %
+Helnæs Byvej 20 5631 Ebberup,20,900000.0,03-12-2013,Auktion,5421,6,Villa,166,1933,
+Prinsevej 39 5631 Ebberup,39,240000.0,05-11-2013,Auktion,2666,3,Villa,90,1950,
+Helnæs Byvej 55 5631 Ebberup,55,375000.0,16-10-2013,Alm.,2952,4,Villa,127,1930,-37 %
+Hasselvænget 1 5631 Ebberup,1,1050000.0,23-09-2013,Alm.,10294,5,Sommerhus,102,1975,-12 %
+Topshøj 6 5631 Ebberup,6,275000.0,17-09-2013,Auktion,3618,3,Villa,76,1979,
+Krogen 7 5631 Ebberup,7,2250000.0,16-09-2013,Alm.,18595,5,Stuehus,121,1942,
+Helnæs Byvej 60 5631 Ebberup,60,360000.0,06-09-2013,Alm.,2790,6,Villa,129,1827,-39 %
+Thinggyden 1 5631 Ebberup,1,960000.0,26-08-2013,Alm.,7559,5,Villa,127,1966,-12 %
+Ryet 23 5631 Ebberup,23,325000.0,02-08-2013,Alm.,2096,3,Villa,155,1953,
+Ryet 11 5631 Ebberup,11,340000.0,20-07-2013,Alm.,2677,5,Villa,127,1880,-20 %
+Helnæs Byvej 15 5631 Ebberup,15,2250000.0,01-07-2013,Fam.,12295,4,Villa,183,1989,-18 %
+Helnæs Byvej 58 5631 Ebberup,58,440000.0,17-06-2013,Alm.,3577,5,Villa,123,1913,-19 %
+Ræveskoven 10 5631 Ebberup,10,750000.0,17-06-2013,Alm.,5136,5,Villa,146,1850,-3 %
+Højtoften 16 5631 Ebberup,16,497212.0,03-06-2013,Fam.,3946,4,Villa,126,1977,
+Ryet 6 5631 Ebberup,6,605000.0,26-03-2013,Alm.,5215,4,Villa,116,1920,
+Ebberupvej 24 5631 Ebberup,24,408500.0,27-02-2013,Alm.,5106,3,Villa,80,1878,
+Poppelvænget 2 5631 Ebberup,2,1000000.0,18-01-2013,Alm.,8771,5,Sommerhus,114,1976,-33 %
+Ebberupvej 40 5631 Ebberup,40,628011.0,02-01-2013,Andet,2462,7,Villa,255,1900,
+"Rybergsvej 19, ST 5631 Ebberup",0,51701.0,27-11-2012,Auktion,329,4,Lejlighed,157,1890,
+Strandbakken 7 5631 Ebberup,7,370000.0,26-11-2012,Fam.,5211,4,Sommerhus,71,1900,
+Kirkebakken 15 5631 Ebberup,15,499000.0,05-11-2012,Alm.,3080,3,Villa,162,2015,0 %
+Hasselvænget 5 5631 Ebberup,5,1250000.0,14-10-2012,Alm.,19230,4,Sommerhus,65,1973,
+Rybergsvej 9 5631 Ebberup,9,750000.0,29-08-2012,Alm.,3968,5,Stuehus,189,1938,-16 %
+Stævnevej 20 5631 Ebberup,20,790500.0,27-08-2012,Fam.,6426,6,Villa,123,1967,
+Kirkebakken 7 5631 Ebberup,7,505000.0,30-07-2012,Alm.,5101,4,Villa,99,1937,-15 %
+Strandbakken 27 5631 Ebberup,27,1495000.0,04-07-2012,Alm.,14238,4,Sommerhus,105,1900,0 %
+Nyvej 6 5631 Ebberup,6,615000.0,28-06-2012,Alm.,7151,3,Villa,86,1961,
+Tjørnevænget 16 5631 Ebberup,16,2350000.0,27-06-2012,Alm.,28658,4,Sommerhus,82,1961,
+Syrenvænget 4 5631 Ebberup,4,1488000.0,25-06-2012,Fam.,14880,5,Sommerhus,100,1971,-21 %
+Syrenvænget 2 5631 Ebberup,2,1250000.0,20-06-2012,Alm.,20491,4,Sommerhus,61,1971,-10 %
+Søstien 7 5631 Ebberup,7,690000.0,20-06-2012,Alm.,10615,3,Villa,65,1860,-1 %
+Prinsevej 37 5631 Ebberup,37,700000.0,12-05-2012,Alm.,5468,5,Villa,128,1949,-12 %
+Ravnekærvej 69 5631 Ebberup,69,395000.0,07-05-2012,Alm.,3657,3,Villa,108,1900,0 %
+Poppelvænget 4 5631 Ebberup,4,1150000.0,24-04-2012,Alm.,19491,4,Sommerhus,59,1977,
+Hegnet 13 5631 Ebberup,13,650000.0,21-03-2012,Fam.,4276,6,Villa,152,1978,
+Toftedalsvej 14 5631 Ebberup,14,1100000.0,15-03-2012,Alm.,9090,4,Villa,121,1976,-6 %
+Rybergsvej 29 5631 Ebberup,29,440000.0,09-03-2012,Auktion,5365,4,Villa,82,1965,
+Nørremarksgyden 8 5631 Ebberup,8,260000.0,08-03-2012,Auktion,2476,4,Villa,105,1890,-63 %
+Nyvej 16 5631 Ebberup,16,1000000.0,02-02-2012,Alm.,9803,4,Villa,102,1963,-9 %
+Poppelvænget 44 5631 Ebberup,44,902600.0,23-12-2011,Fam.,13675,5,Sommerhus,66,1976,
+Sommersgyde 18 5631 Ebberup,18,900000.0,16-12-2011,Alm.,1449,19,Døgninstitution,621,1900,
+Søren Nordbys Vej 23 5631 Ebberup,23,1500000.0,13-12-2011,Auktion,6097,8,Stuehus,246,1872,
+Langegyde 27 5631 Ebberup,27,13600000.0,30-11-2011,Alm.,48398,7,Stuehus,281,1884,
+Ågyden 7 5631 Ebberup,7,550000.0,30-11-2011,Alm.,7333,4,Sommerhus,75,1956,
+Strandbakken 43A 5631 Ebberup,0,2450000.0,12-11-2011,Andet,18992,6,Villa,129,1992,
+Rybergsvej 50 5631 Ebberup,50,830000.0,01-11-2011,Alm.,7094,5,Villa,117,1951,-15 %
+Ågyden 6 5631 Ebberup,6,487500.0,01-10-2011,Alm.,6964,3,Sommerhus,70,1930,
+Åvangen 20 5631 Ebberup,20,1500000.0,28-09-2011,Alm.,18750,3,Sommerhus,80,1962,-14 %
+Skovsbjergvej 16 5631 Ebberup,16,28000.0,27-09-2011,Auktion,411,3,Villa,68,1750,-92 %
+Ebberupvej 114 5631 Ebberup,114,1320000.0,27-09-2011,Auktion,8198,4,Villa,161,1962,
+Poppelvænget 7 5631 Ebberup,7,1065500.0,26-09-2011,Fam.,15442,4,Sommerhus,69,1972,
+Ebberupvej 102 5631 Ebberup,102,1225000.0,23-09-2011,Alm.,10040,4,Villa,122,1953,
+Nyvej 26 5631 Ebberup,26,677831.0,05-09-2011,Andet,6645,4,Villa,102,1964,
+Ågyden 10 5631 Ebberup,10,935000.0,19-08-2011,Fam.,14384,3,Sommerhus,65,1943,
+Stævnevej 3 5631 Ebberup,3,750000.0,09-08-2011,Alm.,3260,6,Villa,230,1925,
+Rybergsvej 24 5631 Ebberup,24,1045000.0,05-07-2011,Alm.,7798,5,Villa,134,1940,-13 %
+Ågyden 14 5631 Ebberup,14,500000.0,01-07-2011,Alm.,3906,4,Sommerhus,128,1947,
+Strandbakken 33 5631 Ebberup,33,375000.0,29-06-2011,Andet,4807,4,Sommerhus,78,1969,
+Helnæs Byvej 52 5631 Ebberup,52,360000.0,01-06-2011,Alm.,5714,3,Sommerhus,63,1877,-9 %
+Toftedalsvej 7 5631 Ebberup,7,850000.0,16-05-2011,Alm.,8500,4,Villa,100,1971,
+Nyvej 9 5631 Ebberup,9,900000.0,18-04-2011,Alm.,8823,3,Villa,102,1964,-5 %
+Bøgeskovsvej 16 5631 Ebberup,16,2850000.0,11-04-2011,Alm.,8769,10,Stuehus,325,1869,
+Jasminvænget 15 5631 Ebberup,15,830000.0,28-03-2011,Alm.,5928,5,Villa,140,1974,-10 %
+Banevænget 3 5631 Ebberup,3,1195000.0,10-03-2011,Alm.,9053,4,Villa,132,1976,0 %
+Birkevænget 8 5631 Ebberup,8,715000.0,09-02-2011,Alm.,6217,3,Villa,115,1971,-10 %
+Å Strandvej 80 5631 Ebberup,80,584605.0,27-01-2011,Alm.,3438,5,Villa,170,1934,-72 %
+Hasselvænget 7 5631 Ebberup,7,1220000.0,12-01-2011,Alm.,15061,4,Sommerhus,81,2011,-9 %
+Å Strandvej 56 5631 Ebberup,56,1150000.0,11-01-2011,Fam.,10454,5,Villa,110,1962,
+Hegnet 1 5631 Ebberup,1,1150000.0,11-01-2011,Fam.,8098,5,Villa,142,1975,
+Wittenbergvej 71 5631 Ebberup,71,902721.0,30-12-2010,Alm.,4653,5,Villa,194,2007,
+Hegnet 15 5631 Ebberup,15,1470000.0,23-12-2010,Alm.,9865,5,Villa,149,1979,-2 %
+Topshøj 2A 5631 Ebberup,0,685000.0,23-12-2010,Alm.,9013,3,Villa,76,1979,
+Højtoften 11 5631 Ebberup,11,850000.0,07-12-2010,Auktion,5944,4,Villa,143,1976,
+Strandbakken 49 5631 Ebberup,49,1030000.0,19-11-2010,Alm.,7923,5,Villa,130,1900,-20 %
+Gammelhave 4 5631 Ebberup,4,847500.0,13-10-2010,Alm.,12282,4,Sommerhus,69,1971,
+Å Strandvej 73 5631 Ebberup,73,1800000.0,04-10-2010,Alm.,21686,4,Sommerhus,83,2007,-5 %
+Topshøj 30 5631 Ebberup,30,625000.0,20-08-2010,Alm.,8223,2,Rækkehus,76,1979,-11 %
+Brombærvænget 1 5631 Ebberup,1,1300000.0,09-07-2010,Alm.,17105,4,Sommerhus,76,1979,-10 %
+Poppelvænget 14 5631 Ebberup,14,810000.0,21-06-2010,Alm.,8350,4,Sommerhus,97,2011,-19 %
+Ryet 13B 5631 Ebberup,0,375000.0,21-06-2010,Alm.,2027,5,Rækkehus,185,1887,-19 %
+Å Strandvej 47 5631 Ebberup,47,760000.0,16-06-2010,Fam.,3568,5,Stuehus,213,1852,
+Hegningen 4 5631 Ebberup,4,1400000.0,12-05-2010,Fam.,17948,3,Sommerhus,78,2007,
+Jasminvænget 10 5631 Ebberup,10,900000.0,06-05-2010,Auktion,7826,4,Villa,115,1972,
+Bøgeskovsvej 13 5631 Ebberup,13,95000.0,10-04-2010,Alm.,664,5,Stuehus,143,1900,
+Ræveskoven 21 5631 Ebberup,21,2857300.0,02-04-2010,Fam.,26955,3,Stuehus,106,1962,
+Rybergsvej 15 5631 Ebberup,15,493000.0,31-03-2010,Andet,4401,5,Villa,112,1965,
+Stævnevej 11 5631 Ebberup,11,925000.0,23-03-2010,Alm.,5316,7,Stuehus,174,1947,-7 %
+Ebberupvej 52D 5631 Ebberup,0,403723.0,23-03-2010,Alm.,5243,3,Rækkehus,77,1990,
+Ebberupvej 52B 5631 Ebberup,0,410519.0,23-03-2010,Alm.,5401,3,Rækkehus,76,1990,
+Prinsevej 9 5631 Ebberup,9,850000.0,15-03-2010,Alm.,8415,3,Villa,101,1933,-5 %
+Prinsevej 43 5631 Ebberup,43,1530000.0,12-03-2010,Alm.,8742,6,Villa,175,1930,-9 %
+Strandbakken 55 5631 Ebberup,55,2185000.0,10-03-2010,Alm.,16937,6,Villa,129,1948,-9 %
+Gudøgyden 10 5631 Ebberup,10,2400000.0,04-02-2010,Alm.,8988,9,Stuehus,267,1880,-8 %
+Ravnekærvej 11 5631 Ebberup,11,1275000.0,25-01-2010,Alm.,5985,7,Villa,213,1900,-9 %
+Å Strandvej 90 5631 Ebberup,90,1000000.0,21-01-2010,Alm.,15873,3,Sommerhus,63,1957,-16 %
+Poppelvænget 24 5631 Ebberup,24,1775000.0,13-12-2009,Alm.,17574,6,Sommerhus,101,1972,-5 %
+Helnæs Byvej 28 5631 Ebberup,28,672500.0,02-12-2009,Andet,3674,5,Villa,183,1900,
+Ebberupvej 55 5631 Ebberup,55,993063.0,23-11-2009,Andet,6168,6,Villa,161,1897,18 %
+Søvangen 39 5631 Ebberup,39,776576.0,12-11-2009,Alm.,3021,8,Villa,257,1827,
+Tjørnevænget 14 5631 Ebberup,14,2195000.0,10-11-2009,Alm.,22864,4,Sommerhus,96,1990,0 %
+Jasminvænget 7 5631 Ebberup,7,1685000.0,09-11-2009,Alm.,10150,5,Villa,166,1972,-1 %
+Stensland 6 5631 Ebberup,6,830000.0,06-11-2009,Alm.,7980,4,Villa,104,1927,-7 %
+Højtoften 21 5631 Ebberup,21,1000000.0,06-11-2009,Alm.,7042,4,Villa,142,1974,-26 %
+Gammelhave 15 5631 Ebberup,15,2150000.0,21-10-2009,Alm.,28666,4,Sommerhus,75,1972,
+Ebberupvej 15 5631 Ebberup,15,695000.0,04-10-2009,Alm.,5515,7,Villa,126,1961,0 %
+Wittenbergvej 59 5631 Ebberup,59,1655000.0,15-09-2009,Alm.,13346,5,Villa,124,1999,-2 %
+Pilehøjen 25 5631 Ebberup,25,1100000.0,02-09-2009,Alm.,9482,4,Villa,116,1977,-4 %
+Ravnekærvej 68 5631 Ebberup,68,550000.0,13-08-2009,Alm.,8461,3,Villa,65,1850,-6 %
+Åvangen 14 5631 Ebberup,14,1232500.0,06-08-2009,Fam.,16883,2,Sommerhus,73,1964,
+Krogen 6 5631 Ebberup,6,10619907.0,25-06-2009,Alm.,52835,7,Stuehus,201,1877,
+Wittenbergvej 67 5631 Ebberup,67,580926.0,11-06-2009,Fam.,4503,5,Villa,129,2003,
+Hegnet 5 5631 Ebberup,5,1395000.0,09-06-2009,Alm.,9823,5,Villa,142,1975,0 %
+Bøgevænget 3 5631 Ebberup,3,890000.0,14-05-2009,Alm.,8811,4,Villa,101,1972,-6 %
+Toftedalsvej 28 5631 Ebberup,28,855000.0,30-04-2009,Alm.,7500,3,Villa,114,1967,-4 %
+Højtoften 13 5631 Ebberup,13,1000000.0,08-04-2009,Alm.,8130,4,Villa,123,1976,-9 %
+Skovsbjergvej 10 5631 Ebberup,10,1300000.0,21-03-2009,Alm.,7386,6,Villa,176,1900,
+Ebberupvej 57 5631 Ebberup,57,600000.0,18-03-2009,Alm.,5660,4,Villa,106,1915,-20 %
+Tjørnevænget 6 5631 Ebberup,6,1500000.0,25-02-2009,Alm.,33333,3,Sommerhus,45,1970,
+Banevænget 4 5631 Ebberup,4,850000.0,23-02-2009,Alm.,7203,5,Villa,118,1933,-5 %
+Bjørnemosevej 8 5631 Ebberup,8,6650000.0,16-02-2009,Alm.,47163,5,Stuehus,141,1928,
+Prinsevej 53 5631 Ebberup,53,10850000.0,16-02-2009,Alm.,60277,5,Stuehus,180,1927,
+Bøgevænget 5 5631 Ebberup,5,450000.0,09-02-2009,Auktion,4017,4,Villa,112,1971,-25 %
+Stævnevej 24B 5631 Ebberup,0,800000.0,02-02-2009,Alm.,7766,3,Villa,103,1989,-6 %
+Toftedalsvej 30 5631 Ebberup,30,820000.0,01-02-2009,Alm.,5942,4,Villa,138,1966,-18 %
+Toftedalsvej 26 5631 Ebberup,26,1145000.0,31-01-2009,Alm.,6775,6,Villa,169,1967,-4 %
+Poppelvænget 17 5631 Ebberup,17,1700000.0,23-01-2009,Fam.,17171,3,Sommerhus,99,1977,
+Å Strandvej 49 5631 Ebberup,49,1460000.0,29-12-2008,Alm.,16043,4,Sommerhus,91,2014,-14 %
+Syrenvænget 10 5631 Ebberup,10,1742500.0,24-12-2008,Fam.,16134,5,Sommerhus,108,1974,
+Prinsevej 5 5631 Ebberup,5,550000.0,12-12-2008,Alm.,3985,5,Villa,138,1943,
+Gammelhave 10 5631 Ebberup,10,810000.0,08-12-2008,Andet,9529,4,Sommerhus,85,1971,
+Lindhovedvej 5 5631 Ebberup,5,12195000.0,26-11-2008,Fam.,44184,9,Stuehus,276,1970,
+Å Strandvej 84 5631 Ebberup,84,860000.0,20-11-2008,Fam.,10238,4,Sommerhus,84,2013,
+Åvangen 6 5631 Ebberup,6,1457000.0,31-10-2008,Alm.,25561,3,Sommerhus,57,1960,-12 %
+Prinsevej 6 5631 Ebberup,6,1245280.0,15-09-2008,Fam.,8769,5,Villa,142,1900,
+Nyvej 19 5631 Ebberup,19,1145000.0,12-09-2008,Alm.,7736,5,Villa,148,1961,-4 %
+Lærkevænget 2 5631 Ebberup,2,508397.0,01-09-2008,Alm.,2905,7,Villa,175,1969,
+Jasminvænget 8 5631 Ebberup,8,1355000.0,28-08-2008,Alm.,10111,5,Villa,134,1972,-3 %
+Strandbakken 4 5631 Ebberup,4,650000.0,13-08-2008,Alm.,4276,4,Sommerhus,152,1887,
+Ebberupvej 77 5631 Ebberup,77,10000000.0,12-08-2008,Andet,44843,6,Villa,223,1912,
+Rybergsvej 18 5631 Ebberup,18,1130000.0,28-07-2008,Alm.,0,6,Villa,180,1875,-5 %
+Lærkevænget 1 5631 Ebberup,1,950000.0,21-07-2008,Alm.,5397,5,Villa,176,1970,
+Bjergegyden 12 5631 Ebberup,12,13000000.0,01-07-2008,Alm.,58558,6,Stuehus,222,1884,
+Å Strandvej 53 5631 Ebberup,53,2350000.0,23-06-2008,Alm.,19583,7,Sommerhus,120,1930,-9 %
+Ryet 24 5631 Ebberup,24,750000.0,15-06-2008,Alm.,6410,3,Villa,117,1958,
+Ræveskoven 7 5631 Ebberup,7,600000.0,24-05-2008,Alm.,4316,5,Villa,139,1967,
+Ebberupvej 35 5631 Ebberup,35,1100000.0,03-05-2008,Fam.,10091,3,Villa,109,1934,
+Strandbakken 59 5631 Ebberup,59,575000.0,30-04-2008,Fam.,9913,4,Sommerhus,58,1930,
+Snaven 16 5631 Ebberup,16,1575000.0,08-04-2008,Alm.,0,6,Villa,231,1927,-5 %
+Poppelvænget 18 5631 Ebberup,18,2175000.0,31-03-2008,Alm.,23641,4,Sommerhus,92,1999,-3 %
+Ebberupvej 89 5631 Ebberup,89,1200000.0,27-03-2008,Alm.,8219,6,Villa,146,1910,
+Ravnekærvej 85 5631 Ebberup,85,699000.0,19-03-2008,Alm.,8223,3,Villa,85,1770,0 %
+Ravnekærvej 16 5631 Ebberup,16,740734.0,07-03-2008,Andet,4208,5,Villa,176,1932,
+Ebberupvej 91 5631 Ebberup,91,850000.0,04-03-2008,Fam.,9883,4,Villa,86,1900,
+Toftedalsvej 16 5631 Ebberup,16,650000.0,26-02-2008,Alm.,5652,4,Villa,115,1977,
+Prinsevej 8 5631 Ebberup,8,985000.0,21-02-2008,Alm.,8565,6,Villa,115,1910,-21 %
+Prinsevej 27 5631 Ebberup,27,995000.0,13-02-2008,Alm.,9299,4,Villa,107,1964,
+Nyvej 20 5631 Ebberup,20,855000.0,23-01-2008,Alm.,8814,3,Villa,97,1963,
+Å Strandvej 76 5631 Ebberup,76,1450000.0,09-01-2008,Fam.,22656,5,Sommerhus,64,1947,
+Snaven 1 5631 Ebberup,1,1770000.0,16-12-2007,Alm.,8428,6,Villa,210,1880,
+Gammelhave 19 5631 Ebberup,19,2082500.0,10-12-2007,Fam.,13264,5,Sommerhus,157,1975,
+Poppelvænget 28 5631 Ebberup,28,1585000.0,28-11-2007,Alm.,15095,5,Sommerhus,105,1972,-1 %
+Å Strandvej 22 5631 Ebberup,22,1856000.0,20-11-2007,Alm.,38666,3,Sommerhus,48,2009,
+Ravnekærvej 87 5631 Ebberup,87,800000.0,05-11-2007,Alm.,6956,4,Stuehus,115,1850,
+Helnæs Byvej 56 5631 Ebberup,56,1800000.0,16-10-2007,Alm.,17647,4,Villa,102,1870,
+Sommersgyde 4 5631 Ebberup,4,924500.0,09-10-2007,Alm.,8404,4,Villa,110,1777,
+Wittenbergvej 75 5631 Ebberup,75,223890.0,08-10-2007,Alm.,1913,3,Villa,117,2012,
+Å Strandvej 51 5631 Ebberup,51,1093400.0,03-10-2007,Alm.,7289,5,Villa,150,1923,
+Topshøj 28 5631 Ebberup,28,720000.0,27-09-2007,Alm.,9473,3,Rækkehus,76,1979,
+Kovejen 2 5631 Ebberup,2,680000.0,14-09-2007,Alm.,6071,4,Villa,112,1962,
+Prinsevej 18 5631 Ebberup,18,2570000.0,11-09-2007,Alm.,7342,12,Villa,350,1900,
+Kirkebakken 24 5631 Ebberup,24,735000.0,11-09-2007,Alm.,4803,6,Villa,153,1880,
+Ravnekærvej 63 5631 Ebberup,63,635000.0,06-09-2007,Alm.,7055,4,Villa,90,1825,-6 %
+Ebberupvej 88 5631 Ebberup,88,1200000.0,05-09-2007,Alm.,9160,4,Villa,131,1936,
+Poppelvænget 12 5631 Ebberup,12,2175000.0,23-08-2007,Alm.,20714,4,Sommerhus,105,1973,
+Wittenbergvej 77 5631 Ebberup,77,252500.0,06-08-2007,Alm.,1174,7,Villa,215,2008,
+Uglebjergsvej 14 5631 Ebberup,14,1195000.0,04-07-2007,Alm.,7966,5,Villa,150,1910,
+Ravnekærvej 51 5631 Ebberup,51,940000.0,26-06-2007,Alm.,12051,2,Villa,78,1989,
+Nyvej 1 5631 Ebberup,1,1545000.0,26-06-2007,Alm.,7087,7,Villa,218,1960,
+Jasminvænget 3 5631 Ebberup,3,895000.0,13-06-2007,Alm.,8774,4,Villa,102,1972,
+Poppelvænget 3 5631 Ebberup,3,1920000.0,07-06-2007,Alm.,27826,4,Sommerhus,69,1994,
+Poppelvænget 48 5631 Ebberup,48,3020000.0,18-05-2007,Alm.,0,6,Sommerhus,92,1975,
+Stævnevej 24 5631 Ebberup,24,1345000.0,13-05-2007,Alm.,8005,8,Villa,168,1940,
+Ravnekærvej 77 5631 Ebberup,77,1085000.0,03-05-2007,Alm.,7695,7,Villa,141,1900,
+Nørremarksgyden 17 5631 Ebberup,17,1935000.0,01-05-2007,Alm.,8958,7,Villa,216,1900,
+Lærkevænget 8 5631 Ebberup,8,420000.0,30-04-2007,Fam.,2675,4,Villa,157,1971,
+Wittenbergvej 73 5631 Ebberup,73,224910.0,19-04-2007,Alm.,1076,6,Villa,209,2008,
+Gudøgyden 4 5631 Ebberup,4,1250000.0,11-04-2007,Alm.,11160,3,Stuehus,112,1953,
+Højtoften 7 5631 Ebberup,7,1105000.0,04-04-2007,Alm.,0,5,Villa,156,1976,
+Ravnekærvej 5 5631 Ebberup,5,357146.0,27-03-2007,Alm.,0,5,Villa,136,1917,
+Helnæs Byvej 46 5631 Ebberup,46,876000.0,26-03-2007,Alm.,8342,4,Villa,105,1960,
+Skovsbjergvej 9 5631 Ebberup,9,650000.0,15-03-2007,Alm.,6310,3,Villa,103,1900,
+Ebberupvej 53 5631 Ebberup,53,1335000.0,27-02-2007,Alm.,4784,6,Villa,279,1900,
+Ebberupvej 99 5631 Ebberup,99,725000.0,27-02-2007,Alm.,7880,4,Villa,92,1939,
+Snaven 10 5631 Ebberup,10,2000679.0,27-02-2007,Alm.,0,7,Villa,248,1927,
+Poppelvænget 22 5631 Ebberup,22,790500.0,16-02-2007,Fam.,10540,3,Sommerhus,75,1974,
+Å Strandvej 60 5631 Ebberup,60,1000000.0,14-02-2007,Alm.,11363,3,Villa,88,1750,
+Å Strandvej 62 5631 Ebberup,62,5000000.0,14-02-2007,Alm.,20000,7,Stuehus,250,1964,
+Å Strandvej 38 5631 Ebberup,38,3177500.0,25-01-2007,Fam.,18367,7,Stuehus,173,1877,
+Helnæs Byvej 43 5631 Ebberup,43,4601480.0,25-01-2007,Alm.,18332,7,Stuehus,251,1917,
+Thinggyden 20 5631 Ebberup,20,995000.0,19-01-2007,Alm.,8432,5,Villa,118,1870,
+Ebberupvej 104 5631 Ebberup,104,740000.0,18-01-2007,Alm.,6727,5,Villa,110,1954,
+Ravnekærvej 56 5631 Ebberup,56,2600000.0,08-01-2007,Fam.,10833,9,Stuehus,240,1897,
+"Ebberupvej 67, 1 5631 Ebberup",1,1200000.0,03-01-2007,Alm.,0,8,Lejlighed,301,1933,
+Ebberupvej 27 5631 Ebberup,27,980000.0,29-12-2006,Alm.,5444,6,Villa,180,1936,
+Stævnevej 14 5631 Ebberup,14,710000.0,12-12-2006,Fam.,7888,4,Villa,90,1965,
+Prinsevej 13 5631 Ebberup,13,999000.0,11-12-2006,Alm.,10627,4,Villa,94,1936,
+Ebberupvej 66 5631 Ebberup,66,1325000.0,16-11-2006,Alm.,8179,7,Villa,162,1877,
+Snaven 12 5631 Ebberup,12,1995000.0,07-11-2006,Alm.,9366,6,Stuehus,213,1928,
+Ebberupvej 46 5631 Ebberup,46,885000.0,31-10-2006,Alm.,6860,4,Villa,129,1935,
+Elmebjergvej 4 5631 Ebberup,4,2230000.0,25-10-2006,Fam.,26235,3,Sommerhus,85,1856,
+Rybergsvej 44 5631 Ebberup,44,2860000.0,12-10-2006,Alm.,10631,9,Stuehus,269,1923,
+Brombærvænget 5 5631 Ebberup,5,1165000.0,04-10-2006,Alm.,0,4,Sommerhus,58,1973,
+Nørremarksgyden 19 5631 Ebberup,19,2495000.0,30-09-2006,Alm.,0,12,Stuehus,328,1861,
+Helnæs Byvej 50 5631 Ebberup,50,1580000.0,27-09-2006,Alm.,11532,3,Villa,137,1912,
+Ravnekærvej 93 5631 Ebberup,93,650000.0,13-09-2006,Alm.,6632,5,Stuehus,98,1900,
+Ågyden 12 5631 Ebberup,12,710000.0,12-09-2006,Fam.,20285,3,Sommerhus,35,1963,
+Strandbakken 2 5631 Ebberup,2,2625000.0,11-08-2006,Alm.,20192,12,Servicevirksomhed,130,1854,
+Rybergsvej 28 5631 Ebberup,28,1069000.0,11-08-2006,Alm.,8620,5,Villa,124,1777,
+Ravnekærvej 79 5631 Ebberup,79,799000.0,04-08-2006,Alm.,7910,2,Villa,101,1959,
+Degnegyden 2 5631 Ebberup,2,1395000.0,02-08-2006,Alm.,0,7,Villa,190,1849,
+Ågyden 5 5631 Ebberup,5,1150000.0,01-08-2006,Alm.,15333,5,Sommerhus,75,1950,
+Strandbakken 14 5631 Ebberup,14,1020000.0,30-07-2006,Fam.,14571,3,Sommerhus,70,1888,
+Søvangen 7 5631 Ebberup,7,1365000.0,30-06-2006,Alm.,8029,5,Villa,170,1770,
+Søstien 9 5631 Ebberup,9,394159.0,29-06-2006,Fam.,4748,3,Villa,83,1877,
+Stævnevej 18 5631 Ebberup,18,391463.0,23-06-2006,Alm.,3208,5,Villa,122,1930,
+Tjørnevænget 17 5631 Ebberup,17,1485000.0,18-06-2006,Alm.,15797,4,Sommerhus,94,2012,
+Ebberupvej 28 5631 Ebberup,28,645000.0,15-06-2006,Alm.,5466,5,Villa,118,1909,
+Højtoften 15 5631 Ebberup,15,1250000.0,24-05-2006,Alm.,8445,4,Villa,148,1976,
+Helnæs Byvej 27 5631 Ebberup,27,2520000.0,03-05-2006,Alm.,9163,5,Villa,275,1802,
+Hegnet 7 5631 Ebberup,7,960000.0,07-04-2006,Alm.,5680,6,Villa,169,1978,
+Helnæs Byvej 42 5631 Ebberup,42,895000.0,29-03-2006,Alm.,5000,6,Villa,179,1890,
+Løkkegravevej 2 5631 Ebberup,2,1735000.0,28-03-2006,Alm.,5783,8,Villa,300,1867,
+Ebberupvej 25 5631 Ebberup,25,2800000.0,11-03-2006,Alm.,19310,3,Villa,145,1932,
+Stubben 2 5631 Ebberup,2,1235000.0,24-02-2006,Alm.,8636,5,Villa,143,1974,
+Bøgeskovsvej 7 5631 Ebberup,7,500000.0,20-02-2006,Fam.,4310,4,Stuehus,116,1775,
+Rybergsvej 39 5631 Ebberup,39,1195000.0,20-02-2006,Alm.,7563,6,Stuehus,158,1747,
+Prinsevej 12 5631 Ebberup,12,2195000.0,08-02-2006,Alm.,10975,8,Villa,200,1912,
+Hegnet 3 5631 Ebberup,3,950000.0,08-02-2006,Alm.,6690,5,Villa,142,1975,
+Ravnekærvej 19 5631 Ebberup,19,595000.0,30-01-2006,Alm.,5173,4,Villa,115,1870,
+Ravnekærvej 12 5631 Ebberup,12,745000.0,15-12-2005,Alm.,5775,5,Villa,129,1930,
+Strandbakken 37 5631 Ebberup,37,2800000.0,09-12-2005,Alm.,15819,6,Villa,177,2000,
+Syrenvænget 8 5631 Ebberup,8,671500.0,08-12-2005,Alm.,9326,4,Sommerhus,72,1974,
+Åvangen 8 5631 Ebberup,8,1445000.0,08-12-2005,Alm.,18766,6,Sommerhus,77,1962,
+Banevænget 6 5631 Ebberup,6,699000.0,27-10-2005,Alm.,6078,3,Villa,115,1933,
+Strandbakken 16 5631 Ebberup,16,475246.0,18-10-2005,Alm.,5795,5,Sommerhus,82,1966,
+Rybergsvej 47 5631 Ebberup,47,364725.0,12-10-2005,Alm.,2237,8,Stuehus,163,1847,
+Ebberupvej 42 5631 Ebberup,42,675000.0,07-10-2005,Alm.,0,4,Villa,146,1976,
+Tjørnevænget 1 5631 Ebberup,1,1480000.0,01-10-2005,Alm.,18734,5,Sommerhus,79,1971,
+Krogen 5 5631 Ebberup,5,1850000.0,30-09-2005,Alm.,8564,7,Villa,216,1927,
+Lindhovedvej 15 5631 Ebberup,15,445198.0,30-09-2005,Fam.,4122,4,Villa,108,1939,
+Birkevænget 6 5631 Ebberup,6,835000.0,21-09-2005,Alm.,7260,3,Villa,115,1969,
+Gudøgyden 12 5631 Ebberup,12,1600000.0,17-09-2005,Alm.,4071,9,Stuehus,393,1854,
+Ryet 34 5631 Ebberup,34,575000.0,05-09-2005,Alm.,5324,5,Sommerhus,108,1938,
+Ebberupvej 23 5631 Ebberup,23,525297.0,01-09-2005,Auktion,5588,4,Villa,94,1935,
+Ravnekærvej 4 5631 Ebberup,4,780000.0,30-08-2005,Alm.,4588,8,Villa,170,1907,
+Tjørnevænget 12 5631 Ebberup,12,630000.0,18-08-2005,Fam.,6847,4,Sommerhus,92,2009,
+Topshøj 10A 5631 Ebberup,0,750000.0,15-08-2005,Alm.,7075,5,Villa,106,1979,
+Ebberupvej 83 5631 Ebberup,83,1095000.0,06-08-2005,Alm.,6117,10,Villa,179,1914,
+Kirkebakken 26 5631 Ebberup,26,790000.0,25-07-2005,Alm.,5851,5,Villa,135,1750,
+Tjørnevænget 22 5631 Ebberup,22,2295000.0,08-07-2005,Alm.,26379,3,Sommerhus,87,2002,
+Åhaven 2 5631 Ebberup,2,1030000.0,09-06-2005,Alm.,9449,4,Sommerhus,109,1977,
+Syrenvænget 1 5631 Ebberup,1,1350000.0,06-06-2005,Alm.,12980,5,Sommerhus,104,1972,
+Kovejen 4 5631 Ebberup,4,1275000.0,02-06-2005,Alm.,28333,3,Sommerhus,45,1965,
+Kirkebakken 9 5631 Ebberup,9,200000.0,19-05-2005,Alm.,766,7,Villa,261,2008,
+Kirkebakken 23 5631 Ebberup,23,1232500.0,10-05-2005,Alm.,8055,5,Villa,153,1997,
+Wittenbergvej 61 5631 Ebberup,61,1195000.0,04-05-2005,Alm.,7376,4,Villa,162,1998,
+Brombærvænget 7 5631 Ebberup,7,1175000.0,02-05-2005,Alm.,14329,5,Sommerhus,82,1972,
+Helnæs Byvej 3 5631 Ebberup,3,375000.0,25-04-2005,Fam.,1644,10,Villa,228,1787,
+Nyvej 22 5631 Ebberup,22,680000.0,20-04-2005,Fam.,7555,4,Villa,90,1962,
+Prinsevej 2 5631 Ebberup,2,1200000.0,15-04-2005,Alm.,6382,6,Villa,188,1895,
+Hasselvænget 16 5631 Ebberup,16,1000000.0,14-04-2005,Fam.,14492,4,Sommerhus,69,1994,
+Ebberupvej 50 5631 Ebberup,50,755000.0,05-04-2005,Alm.,5898,4,Villa,128,1900,
+Brombærvænget 9 5631 Ebberup,9,1255000.0,05-04-2005,Alm.,16298,4,Sommerhus,77,1972,
+Lindhovedvej 2 5631 Ebberup,2,680000.0,24-03-2005,Alm.,7816,3,Sommerhus,87,1878,
+Ebberupvej 73 5631 Ebberup,73,598000.0,17-03-2005,Alm.,3517,4,Villa,170,1885,
+Højtoften 27 5631 Ebberup,27,970000.0,02-03-2005,Alm.,6783,5,Villa,143,1976,
+Helnæs Byvej 52B 5631 Ebberup,0,30000.0,27-02-2005,Alm.,120,6,Villa,249,2014,
+Bøgeskovsvej 3 5631 Ebberup,3,1400000.0,21-02-2005,Fam.,12962,5,Stuehus,108,1957,
+Tjørnevænget 11 5631 Ebberup,11,399500.0,14-02-2005,Fam.,5789,3,Sommerhus,69,1972,
+Ræveskoven 4 5631 Ebberup,4,17531212.0,06-01-2005,Fam.,69845,11,Stuehus,251,1953,
+Tjørnevænget 26 5631 Ebberup,26,1062500.0,24-12-2004,Fam.,12073,6,Sommerhus,88,1984,
+Gammelhave 12 5631 Ebberup,12,1075000.0,17-12-2004,Alm.,15357,4,Sommerhus,70,1971,
+Å Strandvej 92 5631 Ebberup,92,748000.0,16-12-2004,Fam.,9121,3,Sommerhus,82,2009,
+Pilehøjen 4 5631 Ebberup,4,1099000.0,24-11-2004,Alm.,5664,5,Villa,194,1976,
+Hegningen 15 5631 Ebberup,15,3257000.0,08-11-2004,Alm.,17510,6,Stuehus,186,1834,
+Pilehøjen 6 5631 Ebberup,6,775000.0,04-11-2004,Alm.,6102,4,Villa,127,1977,
+Hasselvænget 18 5631 Ebberup,18,1110000.0,03-11-2004,Alm.,16567,4,Sommerhus,67,1972,
+Strandbakken 9 5631 Ebberup,9,672500.0,01-11-2004,Alm.,0,6,Villa,124,1900,
+Ræveskoven 3 5631 Ebberup,3,539000.0,22-10-2004,Alm.,6195,6,Villa,87,1887,
+Uglebjergsvej 10 5631 Ebberup,10,325000.0,24-09-2004,Alm.,3009,3,Villa,108,1964,
+Søstien 15 5631 Ebberup,15,545000.0,02-09-2004,Alm.,4160,3,Villa,131,1880,
+Søvangen 13 5631 Ebberup,13,895000.0,30-08-2004,Alm.,0,5,Villa,145,1863,
+Å Strandvej 67 5631 Ebberup,67,650000.0,30-07-2004,Alm.,17567,3,Sommerhus,37,1942,
+Ulvemosevej 5 5631 Ebberup,5,788142.0,14-07-2004,Alm.,5881,4,Villa,134,1927,
+Strandbakken 8 5631 Ebberup,8,775000.0,21-05-2004,Alm.,5496,3,Sommerhus,141,1948,
+Ravnekærvej 15 5631 Ebberup,15,220203.0,03-05-2004,Andet,1835,5,Villa,120,1917,
+Helnæs Byvej 38 5631 Ebberup,38,500000.0,03-05-2004,Alm.,5813,5,Villa,86,1866,
+Gammelhave 13 5631 Ebberup,13,1050000.0,20-04-2004,Alm.,7777,5,Sommerhus,135,2015,
+Brombærvænget 23 5631 Ebberup,23,1100000.0,04-04-2004,Alm.,9821,5,Sommerhus,112,2008,
+Syrenvænget 16 5631 Ebberup,16,875000.0,25-03-2004,Alm.,0,3,Sommerhus,96,1971,
+Helnæs Byvej 41 5631 Ebberup,41,830000.0,18-03-2004,Alm.,4278,6,Villa,194,1827,
+Jasminvænget 2 5631 Ebberup,2,575000.0,08-03-2004,Alm.,5927,3,Villa,97,1963,
+Nyvej 5 5631 Ebberup,5,745811.0,29-02-2004,Alm.,7768,4,Villa,96,1962,
+Brombærvænget 17 5631 Ebberup,17,1150000.0,25-02-2004,Alm.,10952,4,Sommerhus,105,1973,
+Højtoften 2 5631 Ebberup,2,730000.0,30-01-2004,Alm.,5069,4,Villa,144,1975,
+Jasminvænget 17 5631 Ebberup,17,988000.0,30-01-2004,Alm.,6292,5,Villa,157,1976,
+Hegningen 11 5631 Ebberup,11,250000.0,28-01-2004,Fam.,3125,3,Sommerhus,80,1872,
+Poppelvænget 34 5631 Ebberup,34,705500.0,30-12-2003,Fam.,0,5,Sommerhus,124,1979,
+Birkevænget 2 5631 Ebberup,2,870000.0,22-12-2003,Alm.,6126,5,Villa,142,1972,
+Poppelvænget 20 5631 Ebberup,20,476000.0,21-12-2003,Andet,6611,4,Sommerhus,72,1995,
+Søren Nordbys Vej 21 5631 Ebberup,21,2000000.0,11-12-2003,Alm.,5102,13,Stuehus,392,1856,
+Åhaven 5 5631 Ebberup,5,1900000.0,17-10-2003,Alm.,11046,5,Villa,172,1850,
+Thinggyden 2 5631 Ebberup,2,840000.0,04-10-2003,Alm.,3559,8,Villa,236,1850,
+Søvangen 33 5631 Ebberup,33,570000.0,01-10-2003,Alm.,6627,4,Villa,86,1870,
+Ebberupvej 106 5631 Ebberup,106,990000.0,17-09-2003,Alm.,6827,6,Villa,145,1939,
+Ravnekærvej 54 5631 Ebberup,54,937908.0,05-09-2003,Alm.,5718,4,Villa,164,1928,
+Skovsbjergvej 4 5631 Ebberup,4,475000.0,08-08-2003,Alm.,5722,4,Villa,83,1937,
+Å Strandvej 71 5631 Ebberup,71,925000.0,07-08-2003,Alm.,0,5,Sommerhus,151,1830,
+Højtoften 9 5631 Ebberup,9,800000.0,04-08-2003,Alm.,6250,4,Villa,128,1978,
+Ebberupvej 37 5631 Ebberup,37,659000.0,31-07-2003,Alm.,6158,3,Villa,107,1930,
+Poppelvænget 1 5631 Ebberup,1,995000.0,22-07-2003,Alm.,13266,4,Sommerhus,75,1976,
+Prinsevej 17 5631 Ebberup,17,920000.0,08-07-2003,Alm.,0,4,Villa,123,1954,
+Hasselvænget 21 5631 Ebberup,21,790500.0,09-06-2003,Alm.,11625,6,Sommerhus,68,1971,
+Poppelvænget 13 5631 Ebberup,13,448577.0,18-05-2003,Fam.,5607,4,Sommerhus,80,1975,
+Egevænget 4 5631 Ebberup,4,675000.0,15-05-2003,Alm.,6750,4,Villa,100,1970,
+Ebberupvej 30 5631 Ebberup,30,1075000.0,02-05-2003,Alm.,5718,7,Villa,188,1916,
+Hasselvænget 17 5631 Ebberup,17,965000.0,20-04-2003,Alm.,12062,4,Sommerhus,80,1972,
+Stensland 2 5631 Ebberup,2,600000.0,03-04-2003,Alm.,4000,6,Villa,150,1930,
+Prinsevej 11 5631 Ebberup,11,570000.0,24-03-2003,Alm.,5588,3,Villa,102,1934,
+Wittenbergvej 65 5631 Ebberup,65,845000.0,04-03-2003,Alm.,6926,4,Villa,122,1985,
+Syrenvænget 3 5631 Ebberup,3,748735.0,19-02-2003,Alm.,14398,4,Sommerhus,52,1969,
+Syrenvænget 5 5631 Ebberup,5,760000.0,11-02-2003,Alm.,11515,4,Sommerhus,66,1971,
+Brombærvænget 10 5631 Ebberup,10,495000.0,30-01-2003,Alm.,7071,4,Sommerhus,70,1972,
+Topshøj 2 5631 Ebberup,2,495000.0,27-01-2003,Alm.,6513,3,Villa,76,1979,
+Gammelhave 11 5631 Ebberup,11,310000.0,16-01-2003,Fam.,3483,5,Sommerhus,89,1971,
+Rønnevej 1 5631 Ebberup,1,820000.0,30-12-2002,Alm.,5466,4,Villa,150,1974,
+Å Strandvej 57 5631 Ebberup,57,22000.0,28-11-2002,Alm.,611,2,Sommerhus,36,1955,
+Lærkevænget 3 5631 Ebberup,3,686517.0,23-10-2002,Alm.,4767,4,Villa,144,1969,
+Ebberupvej 98 5631 Ebberup,98,989000.0,07-10-2002,Alm.,6339,5,Villa,156,1936,
+Søvangen 35 5631 Ebberup,35,593000.0,04-10-2002,Alm.,5542,3,Villa,107,1907,
+Lindhovedvej 11 5631 Ebberup,11,875000.0,03-10-2002,Alm.,7352,5,Villa,119,1850,
+Helnæs Byvej 69 5631 Ebberup,69,664086.0,30-09-2002,Alm.,7812,5,Villa,85,1865,
+Bjørnemosevej 21 5631 Ebberup,21,2050000.0,25-09-2002,Alm.,17226,3,Stuehus,119,1927,
+Stævnevej 24A 5631 Ebberup,0,790000.0,02-09-2002,Alm.,5524,5,Sommerhus,143,1977,
+Hasselvænget 3 5631 Ebberup,3,760000.0,28-06-2002,Alm.,9620,5,Sommerhus,79,1979,
+Ravnekærvej 47 5631 Ebberup,47,4273642.0,22-06-2002,Fam.,14437,7,Stuehus,296,1850,
+Ågyden 9 5631 Ebberup,9,677212.0,18-06-2002,Alm.,10107,3,Sommerhus,67,1958,
+Ravnekærvej 73A 5631 Ebberup,0,382995.0,13-06-2002,Fam.,2923,5,Villa,131,1979,
+Slots Alle 8 5631 Ebberup,8,712779.0,29-05-2002,Alm.,8909,2,Villa,80,1880,
+"Helnæs Byvej 21, ST. TV 5631 Ebberup",0,91554.0,21-05-2002,Alm.,880,5,Villa,104,1843,
+Ravnekærvej 48 5631 Ebberup,48,540000.0,18-05-2002,Alm.,2596,6,Villa,208,1885,
+Ebberupvej 96 5631 Ebberup,96,700000.0,01-05-2002,Alm.,5000,6,Villa,140,1915,
+Dyrevænget 1 5631 Ebberup,1,1133368.0,01-05-2002,Alm.,4927,9,Villa,230,1923,
+Topshøj 10 5631 Ebberup,10,455000.0,23-04-2002,Alm.,5986,3,Villa,76,1979,
+Lindhovedvej 17 5631 Ebberup,17,8084109.0,18-03-2002,Fam.,43462,7,Stuehus,186,1882,
+Brombærvænget 2 5631 Ebberup,2,612000.0,05-02-2002,Fam.,0,4,Sommerhus,85,1973,
+Uglebjergsvej 4 5631 Ebberup,4,535000.0,13-12-2001,Alm.,4863,3,Villa,110,1911,
+Rybergsvej 27 5631 Ebberup,27,705963.0,20-11-2001,Alm.,4614,3,Villa,153,1914,
+Ebberupvej 94 5631 Ebberup,94,290000.0,10-10-2001,Fam.,2101,5,Villa,138,1954,
+Roveltsgyden 25 5631 Ebberup,25,510000.0,05-10-2001,Fam.,4322,5,Sommerhus,118,1850,
+Slots Alle 10 5631 Ebberup,10,1950000.0,29-09-2001,Andet,4665,10,Villa,418,1800,
+Højtoften 3 5631 Ebberup,3,815000.0,24-09-2001,Alm.,6367,4,Villa,128,1976,
+Lindhovedvej 18 5631 Ebberup,18,715000.0,16-09-2001,Alm.,5860,5,Stuehus,122,1951,
+Banevænget 8 5631 Ebberup,8,659000.0,24-08-2001,Alm.,5230,4,Villa,126,1933,
+Ebberupvej 87 5631 Ebberup,87,535000.0,17-08-2001,Alm.,2675,7,Villa,200,1902,
+Nyvej 34 5631 Ebberup,34,580000.0,16-08-2001,Alm.,6373,4,Villa,91,1964,
+Bjergegyden 4 5631 Ebberup,4,336527.0,05-07-2001,Alm.,2926,4,Villa,115,1850,
+Ravnekærvej 6 5631 Ebberup,6,1950000.0,28-06-2001,Alm.,7862,7,Villa,248,1901,
+Stævnevej 22 5631 Ebberup,22,554552.0,15-06-2001,Alm.,8402,3,Villa,66,1981,
+Flædekærvej 17 5631 Ebberup,17,525000.0,14-06-2001,Alm.,4772,3,Villa,110,1900,
+Nyvej 2 5631 Ebberup,2,495000.0,11-06-2001,Alm.,5322,4,Villa,93,1918,
+Topshøj 40 5631 Ebberup,40,525000.0,30-05-2001,Alm.,6907,2,Rækkehus,76,1979,
+Ebberupvej 63 5631 Ebberup,63,960000.0,28-05-2001,Alm.,6000,4,Villa,160,1959,
+Poppelvænget 26 5631 Ebberup,26,680000.0,21-05-2001,Alm.,8395,4,Sommerhus,81,1972,
+Ravnekærvej 34 5631 Ebberup,34,760000.0,19-05-2001,Alm.,0,6,Villa,168,1900,
+Nyvej 12 5631 Ebberup,12,321625.0,08-05-2001,Alm.,0,5,Villa,143,1966,
+Skovsbjergvej 20 5631 Ebberup,20,17600000.0,30-03-2001,Alm.,157142,4,Villa,112,1951,
+Toftedalsvej 12 5631 Ebberup,12,825000.0,19-03-2001,Alm.,6547,4,Villa,126,1969,
+Ebberupvej 120 5631 Ebberup,120,100000.0,18-02-2001,Alm.,1098,3,Villa,91,1884,
+Å Strandvej 40 5631 Ebberup,40,391000.0,30-01-2001,Fam.,5835,3,Sommerhus,67,1961,
+Hasselvænget 15 5631 Ebberup,15,862792.0,14-01-2001,Alm.,11503,5,Sommerhus,75,1972,
+Wittenbergvej 63 5631 Ebberup,63,870000.0,08-12-2000,Alm.,7909,5,Villa,110,1988,
+Å Strandvej 64 5631 Ebberup,64,1340000.0,30-10-2000,Alm.,7657,6,Villa,175,1947,
+Ravnekærvej 97 5631 Ebberup,97,502836.0,27-10-2000,Alm.,7183,4,Villa,70,1956,
+Strandbakken 39 5631 Ebberup,39,473750.0,27-09-2000,Alm.,3458,6,Villa,137,1947,
+Ebberupvej 41 5631 Ebberup,41,640000.0,14-09-2000,Alm.,0,5,Villa,145,1930,
+Å Strandvej 86 5631 Ebberup,86,1639320.0,12-09-2000,Alm.,11228,5,Sommerhus,146,1770,
+Hegnet 6 5631 Ebberup,6,970000.0,05-09-2000,Alm.,7028,4,Villa,138,1975,
+Højtoften 6 5631 Ebberup,6,735000.0,05-08-2000,Alm.,6336,4,Villa,116,1978,
+Å Strandvej 78 5631 Ebberup,78,255000.0,05-07-2000,Fam.,4722,4,Sommerhus,54,1937,
+Stubben 4 5631 Ebberup,4,890000.0,27-06-2000,Alm.,6054,5,Villa,147,1975,
+Fåborgvej 112 5631 Ebberup,112,349000.0,26-06-2000,Alm.,3597,5,Villa,97,1880,
+Toftedalsvej 4 5631 Ebberup,4,535392.0,06-05-2000,Alm.,3936,5,Villa,136,1970,
+Klinteskovsvej 6 5631 Ebberup,6,530000.0,30-04-2000,Alm.,3630,7,Villa,146,1864,
+Ulvemosevej 4 5631 Ebberup,4,279000.0,19-04-2000,Alm.,0,3,Villa,144,1880,
+Rybergsvej 25 5631 Ebberup,25,1027403.0,08-04-2000,Alm.,9173,4,Villa,112,1900,
+Prinsevej 41 5631 Ebberup,41,649000.0,28-03-2000,Alm.,6425,4,Villa,101,1953,
+Ebberupvej 81 5631 Ebberup,81,906237.0,02-03-2000,Alm.,5663,6,Villa,160,1932,
+Højtoften 25 5631 Ebberup,25,876733.0,15-02-2000,Andet,3578,8,Villa,245,1973,
+Tjørnevænget 4 5631 Ebberup,4,355000.0,11-02-2000,Alm.,5546,4,Sommerhus,64,1969,
+Bjørnemosevej 15 5631 Ebberup,15,850000.0,09-01-2000,Alm.,0,5,Stuehus,164,1927,
+Ebberupvej 31 5631 Ebberup,31,895000.0,24-11-1999,Alm.,4917,5,Villa,182,1939,
+Nyvej 17 5631 Ebberup,17,713157.0,20-10-1999,Alm.,6483,3,Villa,110,1962,
+Lindhovedvej 4 5631 Ebberup,4,720000.0,13-10-1999,Alm.,0,8,Villa,240,1867,
+Jasminvænget 1 5631 Ebberup,1,455000.0,09-09-1999,Alm.,6500,3,Villa,70,1961,
+Ebberupvej 93 5631 Ebberup,93,650000.0,01-09-1999,Alm.,0,8,Villa,215,1912,
+Syrenvænget 17 5631 Ebberup,17,891605.0,27-08-1999,Alm.,12213,4,Sommerhus,73,1974,
+Strandbakken 47 5631 Ebberup,47,1400000.0,25-08-1999,Alm.,6060,9,Villa,231,1895,
+Rybergsvej 30 5631 Ebberup,30,210000.0,07-07-1999,Fam.,1653,4,Villa,127,1827,
+Jasminvænget 9 5631 Ebberup,9,849273.0,03-07-1999,Alm.,6687,4,Villa,127,1976,
+Ravnekærvej 57 5631 Ebberup,57,425979.0,02-07-1999,Alm.,3251,4,Villa,131,1850,
+Topshøj 8 5631 Ebberup,8,535000.0,02-07-1999,Alm.,7039,3,Villa,76,1979,
+Bjørnemosevej 17 5631 Ebberup,17,850000.0,01-07-1999,Alm.,0,8,Villa,227,1927,
+Ebberupvej 84 5631 Ebberup,84,370000.0,01-07-1999,Alm.,3189,5,Villa,116,1914,
+Ræveskoven 12 5631 Ebberup,12,625000.0,22-06-1999,Alm.,5681,6,Villa,110,1915,
+Gammelhave 3 5631 Ebberup,3,735000.0,17-06-1999,Alm.,12049,3,Sommerhus,61,1972,
+Brombærvænget 15 5631 Ebberup,15,1250000.0,03-05-1999,Alm.,9920,4,Sommerhus,126,1972,
+Strandbakken 20 5631 Ebberup,20,755047.0,28-04-1999,Alm.,3561,7,Villa,212,1903,
+Stensland 4 5631 Ebberup,4,679000.0,26-04-1999,Alm.,6656,5,Villa,102,1922,
+Poppelvænget 50 5631 Ebberup,50,1200000.0,15-04-1999,Alm.,17391,5,Sommerhus,69,1975,
+Ebberupvej 17 5631 Ebberup,17,578848.0,08-04-1999,Alm.,5460,5,Villa,106,1956,
+Strandbakken 5 5631 Ebberup,5,770000.0,04-04-1999,Fam.,8461,3,Stuehus,91,1995,
+Søvangen 16 5631 Ebberup,16,370000.0,03-03-1999,Alm.,7400,3,Villa,50,1770,
+Bjørnemosevej 12 5631 Ebberup,12,863399.0,12-02-1999,Alm.,5264,4,Stuehus,164,1947,
+Ravnekærvej 8 5631 Ebberup,8,890000.0,22-01-1999,Alm.,4341,5,Villa,205,1910,
+Søren Nordbys Vej 18 5631 Ebberup,18,319198.0,07-12-1998,Alm.,5148,2,Villa,62,1770,
+Thinggyden 21 5631 Ebberup,21,735000.0,17-11-1998,Alm.,4323,6,Villa,170,1917,
+Stævnevej 19 5631 Ebberup,19,558263.0,30-10-1998,Alm.,3342,7,Villa,167,1850,
+Ryet 5 5631 Ebberup,5,271518.0,19-10-1998,Fam.,3824,5,Villa,71,1906,
+Syrenvænget 18 5631 Ebberup,18,980000.0,17-09-1998,Alm.,0,4,Sommerhus,79,1972,
+Helnæs Byvej 26A 5631 Ebberup,0,115000.0,09-09-1998,Alm.,737,6,Villa,156,2005,
+Stævnevej 9 5631 Ebberup,9,535000.0,03-09-1998,Alm.,1606,7,Villa,333,2000,
+Snaven 11 5631 Ebberup,11,995000.0,07-08-1998,Fam.,6589,5,Villa,151,1965,
+Pilehøjen 19 5631 Ebberup,19,750000.0,05-08-1998,Fam.,5859,4,Villa,128,1977,
+Wittenbergvej 69 5631 Ebberup,69,950006.0,22-07-1998,Alm.,6291,6,Villa,151,1984,
+Strandbakken 26 5631 Ebberup,26,1434000.0,15-07-1998,Alm.,9075,4,Sommerhus,158,1932,
+Strandbakken 12 5631 Ebberup,12,650000.0,13-07-1998,Alm.,4545,6,Villa,143,1905,
+Bøgeskovsvej 2 5631 Ebberup,2,315000.0,06-07-1998,Alm.,0,5,Villa,197,1907,
+Banevænget 5 5631 Ebberup,5,531684.0,06-07-1998,Alm.,4505,3,Villa,118,1945,
+Ebberupvej 21 5631 Ebberup,21,550000.0,25-06-1998,Alm.,5500,4,Villa,100,1938,
+Bøgevænget 9 5631 Ebberup,9,650000.0,19-05-1998,Alm.,6500,4,Villa,100,1970,
+Bjørnemosevej 19 5631 Ebberup,19,1000000.0,19-05-1998,Alm.,7812,7,Villa,128,1927,
+Topshøj 34 5631 Ebberup,34,411558.0,04-05-1998,Alm.,5415,3,Rækkehus,76,1979,
+Poppelvænget 6 5631 Ebberup,6,627580.0,29-04-1998,Alm.,0,4,Sommerhus,86,1973,
+Syrenvænget 7 5631 Ebberup,7,695000.0,25-04-1998,Alm.,10692,4,Sommerhus,65,1970,
+"Rybergsvej 19, 1 5631 Ebberup",1,325000.0,07-04-1998,Alm.,2685,3,Lejlighed,121,1890,
+Rybergsvej 48 5631 Ebberup,48,380000.0,12-03-1998,Alm.,5277,3,Villa,72,1950,
+Å Strandvej 102 5631 Ebberup,102,142470.0,06-03-1998,Alm.,1565,3,Villa,91,1830,
+Prinsevej 14 5631 Ebberup,14,764587.0,30-01-1998,Alm.,3640,6,Villa,210,1910,
+Søstien 11 5631 Ebberup,11,715000.0,16-12-1997,Alm.,0,5,Villa,140,1900,
+Topshøj 36 5631 Ebberup,36,436000.0,01-12-1997,Alm.,5736,2,Rækkehus,76,1979,
+Ebberupvej 61 5631 Ebberup,61,303550.0,25-11-1997,Alm.,0,8,Villa,197,1886,
+Poppelvænget 9 5631 Ebberup,9,870000.0,23-11-1997,Alm.,10357,4,Sommerhus,84,1974,
+Rybergsvej 26 5631 Ebberup,26,75000.0,14-11-1997,Alm.,382,6,Villa,196,1998,
+Tjørnevænget 15 5631 Ebberup,15,960000.0,06-11-1997,Alm.,16000,4,Sommerhus,60,1973,
+Åvangen 18 5631 Ebberup,18,850000.0,19-09-1997,Alm.,8500,4,Sommerhus,100,1963,
+Ravnekærvej 71 5631 Ebberup,71,204465.0,29-08-1997,Alm.,4543,2,Sommerhus,45,1900,
+Rybergsvej 34 5631 Ebberup,34,573922.0,29-08-1997,Alm.,0,4,Villa,102,1935,
+Bjørnemosevej 10 5631 Ebberup,10,495000.0,22-08-1997,Alm.,2877,5,Villa,172,1927,
+Poppelvænget 15 5631 Ebberup,15,950000.0,03-08-1997,Alm.,12025,4,Sommerhus,79,1973,
+Rybergsvej 55 5631 Ebberup,55,386051.0,30-06-1997,Alm.,1762,6,Villa,219,1900,
+Hasselvænget 23 5631 Ebberup,23,1015971.0,23-06-1997,Alm.,13917,4,Sommerhus,73,1973,
+Ravnekærvej 49 5631 Ebberup,49,268000.0,23-05-1997,Alm.,3884,3,Rækkehus,69,1850,
+Stævnevej 22A 5631 Ebberup,0,706178.0,14-05-1997,Alm.,8938,4,Villa,79,1995,
+Hasselvænget 12 5631 Ebberup,12,525000.0,09-05-1997,Alm.,6562,4,Sommerhus,80,1973,
+Brombærvænget 25 5631 Ebberup,25,909000.0,06-05-1997,Alm.,9568,4,Sommerhus,95,2007,
+Hasselvænget 22 5631 Ebberup,22,575000.0,01-05-1997,Alm.,6764,4,Sommerhus,85,1997,
+Ravnekærvej 29 5631 Ebberup,29,564646.0,29-04-1997,Alm.,5703,5,Villa,99,1942,
+Ravnekærvej 24 5631 Ebberup,24,535000.0,17-04-1997,Alm.,0,6,Villa,137,1934,
+Rybergsvej 7 5631 Ebberup,7,2000000.0,04-04-1997,Fam.,19607,3,Villa,102,1900,
+Odensevej 96 5631 Ebberup,96,993940.0,26-03-1997,Alm.,7150,5,Villa,139,1923,
+Ravnekærvej 58 5631 Ebberup,58,350000.0,21-03-1997,Alm.,3500,4,Stuehus,100,1877,
+Strandbakken 22 5631 Ebberup,22,490000.0,24-02-1997,Alm.,4188,5,Villa,117,1902,
+Langegyde 9 5631 Ebberup,9,350000.0,16-02-1997,Alm.,4375,7,Villa,80,1951,
+Ebberupvej 10 5631 Ebberup,10,550198.0,12-02-1997,Alm.,3217,6,Villa,171,1948,
+Å Strandvej 36 5631 Ebberup,36,148750.0,09-12-1996,Fam.,2479,4,Sommerhus,60,1959,
+Lindhovedvej 21 5631 Ebberup,21,257490.0,29-11-1996,Alm.,0,8,Stuehus,214,1870,
+Ågyden 24 5631 Ebberup,24,576332.0,20-11-1996,Alm.,5386,3,Sommerhus,107,2007,
+Snaven 2 5631 Ebberup,2,307000.0,20-11-1996,Alm.,3488,4,Villa,88,1900,
+Strandbakken 45 5631 Ebberup,45,700000.0,28-10-1996,Alm.,0,7,Villa,89,1965,
+Kirkebakken 1 5631 Ebberup,1,267609.0,04-10-1996,Alm.,1057,6,Villa,253,1847,
+Nyvej 28 5631 Ebberup,28,475000.0,02-09-1996,Alm.,5588,4,Villa,85,1964,
+Strandbakken 28 5631 Ebberup,28,450000.0,28-08-1996,Fam.,0,5,Villa,141,1872,
+Helnæs Byvej 45 5631 Ebberup,45,300000.0,16-08-1996,Alm.,3529,3,Villa,85,1938,
+Ebberupvej 54 5631 Ebberup,54,395000.0,14-08-1996,Alm.,3237,4,Villa,122,1890,
+Bøgeskovsvej 11 5631 Ebberup,11,246200.0,12-08-1996,Alm.,2930,3,Villa,84,1910,
+Ravnekærvej 14 5631 Ebberup,14,192250.0,08-08-1996,Andet,1716,4,Villa,112,1935,
+Ryet 25 5631 Ebberup,25,666000.0,28-06-1996,Alm.,0,7,Stuehus,231,1857,
+Ågyden 1 5631 Ebberup,1,325000.0,21-06-1996,Alm.,5803,3,Sommerhus,56,1959,
+Bjørnemosevej 7 5631 Ebberup,7,653585.0,17-06-1996,Alm.,0,5,Villa,194,1927,
+Brombærvænget 16 5631 Ebberup,16,780000.0,20-05-1996,Alm.,13220,4,Sommerhus,59,1988,
+Bøgeskovsvej 18 5631 Ebberup,18,1700000.0,17-05-1996,Alm.,8333,9,Stuehus,204,1833,
+Birkevænget 10 5631 Ebberup,10,715000.0,17-05-1996,Alm.,3994,7,Villa,179,1970,
+Hasselvænget 10 5631 Ebberup,10,450000.0,05-05-1996,Alm.,5921,4,Sommerhus,76,1972,
+Ravnekærvej 21 5631 Ebberup,21,450000.0,03-04-1996,Alm.,3383,5,Villa,133,1925,
+Ravnekærvej 40 5631 Ebberup,40,713604.0,03-04-1996,Alm.,2820,9,Stuehus,253,1880,
+Lindhovedvej 25 5631 Ebberup,25,2000000.0,02-04-1996,Fam.,8810,7,Stuehus,227,1858,
+Fåborgvej 143 5631 Ebberup,143,425000.0,26-03-1996,Alm.,0,5,Villa,110,1930,
+Lindhovedvej 7 5631 Ebberup,7,648000.0,04-03-1996,Alm.,6680,4,Villa,97,1951,
+Jasminvænget 5 5631 Ebberup,5,485000.0,29-02-1996,Fam.,3540,5,Villa,137,1973,
+Krogen 11 5631 Ebberup,11,738000.0,23-02-1996,Alm.,3989,5,Villa,185,1870,
+Ebberupvej 56 5631 Ebberup,56,265000.0,30-01-1996,Fam.,2500,4,Villa,106,1915,
+Brombærvænget 3 5631 Ebberup,3,395000.0,23-01-1996,Alm.,6583,4,Sommerhus,60,1976,
+Ryet 4 5631 Ebberup,4,250000.0,31-12-1995,Fam.,1736,4,Villa,144,1964,
+Ebberupvej 64 5631 Ebberup,64,640000.0,21-12-1995,Alm.,4413,5,Villa,145,1900,
+Ågyden 8 5631 Ebberup,8,225000.0,30-10-1995,Fam.,0,4,Sommerhus,66,1935,
+Åvangen 12 5631 Ebberup,12,620000.0,28-10-1995,Alm.,0,4,Sommerhus,69,1965,
+Stævnevej 10 5631 Ebberup,10,280000.0,23-10-1995,Alm.,1958,4,Villa,143,1977,
+Birkevænget 3 5631 Ebberup,3,634000.0,16-09-1995,Alm.,3234,6,Villa,196,1973,
+Thinggyden 11 5631 Ebberup,11,170000.0,13-09-1995,Fam.,1700,3,Villa,100,1770,
+Strandbakken 51 5631 Ebberup,51,330000.0,24-05-1995,Alm.,3113,5,Villa,106,1869,
+Ravnekærvej 64 5631 Ebberup,64,365000.0,15-05-1995,Alm.,1409,10,Villa,259,1877,
+Højtoften 5 5631 Ebberup,5,430000.0,07-04-1995,Alm.,3495,4,Villa,123,1977,
+Nyvej 21 5631 Ebberup,21,410000.0,04-04-1995,Alm.,2397,6,Villa,171,1930,
+Ræveskoven 16 5631 Ebberup,16,680000.0,20-01-1995,Alm.,3597,6,Stuehus,189,1777,
+"Rybergsvej 19A, ST 5631 Ebberup",0,290000.0,13-12-1994,Alm.,2416,3,Lejlighed,120,1890,
+Klinteskovsvej 3 5631 Ebberup,3,230000.0,10-12-1994,Fam.,2277,4,Villa,101,1979,
+Ravnekærvej 46 5631 Ebberup,46,400000.0,11-10-1994,Alm.,3669,3,Villa,109,1822,
+Poppelvænget 40 5631 Ebberup,40,420000.0,19-08-1994,Fam.,5250,3,Sommerhus,80,1972,
+Ebberupvej 105 5631 Ebberup,105,925000.0,03-08-1994,Alm.,2899,8,Villa,319,1911,
+Åvangen 2 5631 Ebberup,2,905000.0,28-07-1994,Alm.,5084,7,Villa,178,1966,
+Å Strandvej 24 5631 Ebberup,24,790000.0,14-07-1994,Alm.,0,7,Villa,261,1895,
+Ravnekærvej 32 5631 Ebberup,32,2900000.0,09-07-1994,Alm.,10394,11,Stuehus,279,1910,
+Stævnevej 7 5631 Ebberup,7,561000.0,06-07-1994,Fam.,2573,8,Villa,218,1860,
+Helnæs Byvej 35 5631 Ebberup,35,270000.0,26-06-1994,Alm.,964,6,Villa,280,1998,
+Å Strandvej 81 5631 Ebberup,81,800000.0,24-06-1994,Alm.,4597,3,Stuehus,174,1800,
+Højtoften 17 5631 Ebberup,17,578000.0,23-06-1994,Fam.,0,7,Villa,196,1976,
+Højtoften 19 5631 Ebberup,19,630000.0,14-06-1994,Alm.,3750,6,Villa,168,1975,
+Langegyde 35 5631 Ebberup,35,290000.0,13-06-1994,Alm.,1666,5,Villa,174,2006,
+Bøgeskovsvej 5 5631 Ebberup,5,1455675.0,08-06-1994,Alm.,6441,8,Stuehus,226,1877,
+Ebberupvej 85 5631 Ebberup,85,350000.0,26-05-1994,Alm.,2611,5,Villa,134,1900,
+Vintergårdsvej 2 5631 Ebberup,2,1000000.0,18-05-1994,Alm.,5555,7,Stuehus,180,1827,
+Syrenvænget 20 5631 Ebberup,20,300000.0,10-05-1994,Fam.,2343,4,Sommerhus,128,2014,
+Højtoften 14 5631 Ebberup,14,595000.0,08-05-1994,Alm.,3520,4,Villa,169,1976,
+Prinsevej 35 5631 Ebberup,35,375000.0,30-04-1994,Alm.,3826,4,Villa,98,1942,
+Poppelvænget 30 5631 Ebberup,30,188000.0,28-04-1994,Alm.,2473,4,Sommerhus,76,1994,
+Ravnekærvej 53 5631 Ebberup,53,310000.0,26-04-1994,Alm.,2198,5,Rækkehus,141,1920,
+Thinggyden 5 5631 Ebberup,5,610000.0,18-04-1994,Alm.,2563,6,Villa,238,1825,
+Syrenvænget 12 5631 Ebberup,12,198000.0,16-04-1994,Alm.,2129,4,Sommerhus,93,1995,
+Ebberupvej 90 5631 Ebberup,90,405000.0,13-04-1994,Alm.,0,4,Villa,130,1935,
+Ågyden 16 5631 Ebberup,16,497137.0,12-04-1994,Alm.,6062,3,Sommerhus,82,1955,
+Å Strandvej 94 5631 Ebberup,94,686000.0,19-03-1994,Alm.,6017,5,Villa,114,1902,
+Dyrevænget 2 5631 Ebberup,2,372938.0,07-03-1994,Alm.,2095,8,Villa,178,1896,
+Helnæs Byvej 61 5631 Ebberup,61,205000.0,04-02-1994,Fam.,2070,4,Sommerhus,99,1895,
+Bøgevænget 4 5631 Ebberup,4,470000.0,21-01-1994,Alm.,0,5,Villa,182,1973,
+Ravnekærvej 20 5631 Ebberup,20,3293000.0,03-01-1994,Alm.,7675,11,Stuehus,429,1893,
+Kirkebakken 8 5631 Ebberup,8,710000.0,15-12-1993,Alm.,3944,6,Villa,180,1912,
+Ravnekærvej 45 5631 Ebberup,45,440000.0,30-11-1993,Alm.,0,5,Villa,146,1948,
+Kirkebakken 22 5631 Ebberup,22,200000.0,27-10-1993,Fam.,833,7,Villa,240,1924,
+Søvangen 23 5631 Ebberup,23,545000.0,03-09-1993,Alm.,2930,6,Villa,186,1875,
+Uglebjergsvej 6 5631 Ebberup,6,195000.0,24-08-1993,Alm.,3305,3,Villa,59,1869,
+Syrenvænget 11 5631 Ebberup,11,360000.0,12-07-1993,Alm.,6428,4,Sommerhus,56,1971,
+Topshøj 6A 5631 Ebberup,0,275000.0,25-06-1993,Alm.,4044,2,Villa,68,1979,
+Strandbakken 29B 5631 Ebberup,0,450000.0,19-06-1993,Alm.,5625,4,Sommerhus,80,1979,
+Ravnekærvej 59 5631 Ebberup,59,241000.0,18-06-1993,Alm.,3171,4,Villa,76,1949,
+Helnæs Byvej 9 5631 Ebberup,9,901470.0,11-06-1993,Fam.,3756,7,Stuehus,240,1872,
+Rybergsvej 42 5631 Ebberup,42,610000.0,29-04-1993,Alm.,0,8,Villa,220,1857,
+Søvangen 17 5631 Ebberup,17,400000.0,19-04-1993,Alm.,0,7,Villa,161,1952,
+Helnæs Byvej 11 5631 Ebberup,11,1350000.0,18-04-1993,Alm.,5672,7,Stuehus,238,1951,
+Lærkevænget 7 5631 Ebberup,7,500000.0,09-02-1993,Alm.,3623,4,Villa,138,1970,
+Helnæs Byvej 18 5631 Ebberup,18,586773.0,21-01-1993,Alm.,2807,8,Stuehus,209,1923,
+Åvangen 16 5631 Ebberup,16,306000.0,12-01-1993,Fam.,5275,2,Sommerhus,58,1963,
+Helnæs Byvej 49 5631 Ebberup,49,270000.0,18-12-1992,Alm.,3000,2,Villa,90,1773,
+Ebberupvej 58 5631 Ebberup,58,425000.0,04-12-1992,Alm.,2777,3,Villa,153,1897,
+Nyvej 36 5631 Ebberup,36,270000.0,23-10-1992,Alm.,3000,5,Villa,90,1955,
+Banevænget 1 5631 Ebberup,1,240000.0,19-10-1992,Alm.,2033,4,Villa,118,1948,
+Prinsevej 20 5631 Ebberup,20,700000.0,07-10-1992,Alm.,5343,3,Stuehus,131,1927,
+Prinsevej 57 5631 Ebberup,57,650000.0,23-09-1992,Alm.,3186,4,Villa,204,1925,
+Pilehøjen 10 5631 Ebberup,10,550000.0,22-09-1992,Alm.,3125,6,Villa,176,1980,
+Ravnekærvej 23 5631 Ebberup,23,360000.0,18-09-1992,Alm.,4337,4,Villa,83,1899,
+Lindhovedvej 6 5631 Ebberup,6,350000.0,01-09-1992,Alm.,1767,5,Stuehus,198,1844,
+Slots Alle 26 5631 Ebberup,26,420000.0,27-07-1992,Alm.,2500,6,Villa,168,1623,
+Åvangen 4 5631 Ebberup,4,255528.0,19-06-1992,Alm.,2028,3,Sommerhus,126,2008,
+Rybergsvej 53 5631 Ebberup,53,450000.0,04-06-1992,Alm.,0,3,Villa,103,1933,
+Jasminvænget 12 5631 Ebberup,12,490000.0,03-05-1992,Fam.,3101,5,Villa,158,1972,
+Å Strandvej 55 5631 Ebberup,55,474000.0,09-04-1992,Alm.,7074,4,Villa,67,1840,
+Bjergegyden 9 5631 Ebberup,9,370000.0,26-03-1992,Alm.,1510,12,Villa,245,1868,
+Søvangen 31 5631 Ebberup,31,805000.0,03-02-1992,Fam.,3096,6,Stuehus,260,1888,

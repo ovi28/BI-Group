@@ -1,0 +1,674 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Tårupvej 4 5591 Gelsted,4,420374.0,26-04-2017,Fam.,2402,6,Villa,175,1924,
+Tanderupvej 75 5591 Gelsted,75,950000.0,24-04-2017,Alm.,6506,8,Stuehus,146,1928,-13 %
+Søndergade 154 5591 Gelsted,154,500000.0,30-03-2017,Alm.,3676,5,Villa,136,1910,-16 %
+Søndergade 21 5591 Gelsted,21,450000.0,17-03-2017,Alm.,4285,4,Villa,105,1930,-24 %
+Tjørnevej 6 5591 Gelsted,6,895000.0,15-03-2017,Alm.,4282,3,Villa,209,1933,0 %
+Søndergade 177B 5591 Gelsted,0,1750000.0,10-03-2017,Alm.,11075,5,Villa,158,1984,-5 %
+Grønnegade 37 5591 Gelsted,37,695000.0,07-03-2017,Alm.,5840,5,Villa,119,1967,-4 %
+Gl. Odensevej 17 5591 Gelsted,17,925000.0,03-03-2017,Alm.,6379,6,Villa,145,1950,-7 %
+Lundevej 24 5591 Gelsted,24,850000.0,01-03-2017,Alm.,7727,4,Villa,110,1973,-5 %
+Tårupvej 53 5591 Gelsted,53,400000.0,27-02-2017,Fam.,2941,4,Villa,136,1970,
+Søndergade 107 5591 Gelsted,107,1125000.0,15-02-2017,Alm.,9375,4,Villa,120,1906,
+Hønnerupvej 18 5591 Gelsted,18,1055000.0,10-02-2017,Alm.,7482,5,Villa,141,1780,-4 %
+Birkehøjvej 8 5591 Gelsted,8,220000.0,30-01-2017,Alm.,1264,6,Villa,174,1925,-25 %
+Odensevej 35 5591 Gelsted,35,16758959.0,20-01-2017,Andet,133007,7,Villa,126,1912,
+Hårevej 64 5591 Gelsted,64,200000.0,11-01-2017,Alm.,2816,4,Villa,71,1953,-27 %
+Søndergade 53 5591 Gelsted,53,500000.0,28-12-2016,Alm.,3875,6,Villa,129,1935,0 %
+Toftevej 13 5591 Gelsted,13,1100000.0,24-12-2016,Alm.,8461,4,Villa,130,1977,-14 %
+Østergade 13 5591 Gelsted,13,1180000.0,09-12-2016,Alm.,8740,5,Villa,135,1929,-1 %
+Tornhøjvangen 9 5591 Gelsted,9,2425000.0,17-11-2016,Alm.,12064,5,Villa,201,2007,0 %
+Søndergade 163 5591 Gelsted,163,950000.0,16-11-2016,Fam.,4523,6,Villa,210,1912,
+Koldinghave 20 5591 Gelsted,20,320000.0,13-11-2016,Alm.,2711,3,Villa,118,1946,-19 %
+Østergade 3 5591 Gelsted,3,233699.0,07-11-2016,Alm.,3540,2,Rækkehus,66,1887,
+Aulbjergvej 12 5591 Gelsted,12,1525000.0,28-10-2016,Alm.,9838,5,Villa,155,1900,-10 %
+Tårupvej 34 5591 Gelsted,34,1500000.0,18-10-2016,Alm.,9803,5,Villa,153,1987,-5 %
+Rødstenvej 4 5591 Gelsted,4,585000.0,18-10-2016,Alm.,4875,3,Stuehus,120,1827,2 %
+Møllevej 32 5591 Gelsted,32,635000.0,17-10-2016,Alm.,4847,5,Villa,131,1910,-9 %
+Kingstrupvej 98 5591 Gelsted,98,1250000.0,11-10-2016,Alm.,5681,7,Stuehus,220,1908,-7 %
+Søndergade 137 5591 Gelsted,137,1227000.0,09-10-2016,Alm.,3556,8,Villa,345,1905,-9 %
+Tårupvej 46 5591 Gelsted,46,800000.0,07-10-2016,Alm.,8888,4,Villa,90,1992,-11 %
+Søndergade 156 5591 Gelsted,156,1100000.0,07-10-2016,Alm.,11000,4,Villa,100,1943,-8 %
+Søndergade 77 5591 Gelsted,77,1095000.0,26-09-2016,Alm.,8358,4,Villa,131,1903,0 %
+Højbovænget 4 5591 Gelsted,4,850000.0,06-09-2016,Alm.,7456,3,Villa,114,1972,0 %
+Hørkærvej 3 5591 Gelsted,3,272207.0,25-08-2016,Fam.,2408,5,Villa,113,1910,
+Skaboes Gyde 24 5591 Gelsted,24,145000.0,23-08-2016,Alm.,1746,3,Villa,83,1902,
+Nymarksvej 12 5591 Gelsted,12,1290000.0,19-08-2016,Alm.,4558,11,Villa,283,1848,-10 %
+Hønnerupvej 83 5591 Gelsted,83,300000.0,18-08-2016,Alm.,2586,4,Stuehus,116,1903,
+Odensevej 42 5591 Gelsted,42,400000.0,26-07-2016,Alm.,3252,4,Villa,123,1934,-11 %
+Kingstrupvej 109 5591 Gelsted,109,243000.0,18-07-2016,Fam.,3626,5,Villa,67,1864,-51 %
+Birkehøjvej 9 5591 Gelsted,9,64501.0,28-06-2016,Auktion,575,5,Villa,112,1962,
+Hønnerupvej 36 5591 Gelsted,36,925000.0,14-06-2016,Alm.,5473,5,Villa,169,1877,-7 %
+Søndergade 96 5591 Gelsted,96,603306.0,18-05-2016,Alm.,4945,6,Villa,122,1900,
+Gl. Odensevej 26 5591 Gelsted,26,1900000.0,29-04-2016,Alm.,10795,6,Villa,176,1933,0 %
+Søndergade 54 5591 Gelsted,54,400000.0,15-04-2016,Alm.,4494,4,Villa,89,1914,-27 %
+Aulbjergvej 3 5591 Gelsted,3,1475000.0,06-04-2016,Alm.,10172,6,Villa,145,1827,
+Kingstrupvej 99 5591 Gelsted,99,1500000.0,16-03-2016,Alm.,7692,5,Stuehus,195,1903,
+Kingstrup Mosevej 28 5591 Gelsted,28,425740.0,11-03-2016,Fam.,4257,3,Stuehus,100,1800,
+Ruerne 12 5591 Gelsted,12,1395000.0,26-02-2016,Alm.,7750,6,Villa,180,1892,-7 %
+Gelsted Mose 34 5591 Gelsted,34,1425000.0,24-02-2016,Alm.,7872,5,Stuehus,181,1907,-3 %
+Hønnerupvej 24 5591 Gelsted,24,75000.0,04-02-2016,Alm.,765,4,Villa,98,1860,
+Tanderupvej 22 5591 Gelsted,22,525000.0,19-01-2016,Alm.,3620,6,Villa,145,1975,-11 %
+Hønnerupvej 64 5591 Gelsted,64,50000.0,14-01-2016,Auktion,568,3,Villa,88,1915,
+Hovvej 40 5591 Gelsted,40,859107.0,10-11-2015,Fam.,3977,6,Villa,216,1870,
+Søndergade 95 5591 Gelsted,95,400000.0,03-11-2015,Alm.,2439,7,Villa,164,1923,0 %
+Tårup Udlod 36 5591 Gelsted,36,300000.0,19-10-2015,Alm.,6000,2,Villa,50,1880,
+Gl. Odensevej 21 5591 Gelsted,21,435000.0,15-10-2015,Alm.,4182,4,Villa,104,1960,0 %
+Kløvervænget 11 5591 Gelsted,11,585000.0,13-10-2015,Alm.,6030,5,Villa,97,1971,
+Skaboes Gyde 26 5591 Gelsted,26,175000.0,30-09-2015,Alm.,1988,3,Villa,88,1956,-46 %
+Søndergade 85 5591 Gelsted,85,925000.0,29-09-2015,Alm.,7115,6,Villa,130,1952,-12 %
+Toftevangen 13 5591 Gelsted,13,1100000.0,23-09-2015,Alm.,8800,4,Villa,125,1980,
+Hørkærvej 5 5591 Gelsted,5,1175000.0,21-09-2015,Alm.,5465,6,Villa,215,1907,-6 %
+Søndergade 98 5591 Gelsted,98,640000.0,21-09-2015,Alm.,6274,6,Villa,102,1906,-8 %
+Gelsted Mose 43 5591 Gelsted,43,250000.0,17-07-2015,Alm.,2336,4,Villa,107,1900,
+Fyrrevej 7 5591 Gelsted,7,1580000.0,11-07-2015,Alm.,6810,5,Villa,232,1900,-4 %
+Odensevej 36 5591 Gelsted,36,700000.0,07-07-2015,Auktion,3317,4,Villa,211,1886,-30 %
+Ludvigsgårdevej 20 5591 Gelsted,20,1200000.0,06-07-2015,Alm.,7843,5,Stuehus,153,1900,-14 %
+Tårupvej 25 5591 Gelsted,25,550000.0,23-06-2015,Alm.,5445,4,Villa,101,1965,
+Mølletoften 3 5591 Gelsted,3,900000.0,26-05-2015,Alm.,4545,5,Villa,198,1964,-10 %
+Sivkærvej 27 5591 Gelsted,27,700000.0,18-05-2015,Alm.,5185,4,Villa,135,1964,-7 %
+Søndergade 103 5591 Gelsted,103,36000.0,12-05-2015,Auktion,346,5,Villa,104,1909,
+Gelsted Mose 16 5591 Gelsted,16,350000.0,27-04-2015,Alm.,3181,3,Villa,110,1931,-11 %
+Tellerupvej 40 5591 Gelsted,40,3900000.0,26-03-2015,Alm.,16595,6,Stuehus,235,1944,145 %
+Gelstedvej 25 5591 Gelsted,25,1020000.0,11-03-2015,Alm.,7846,5,Villa,130,1928,-5 %
+Agerstien 48 5591 Gelsted,48,390684.0,10-03-2015,Alm.,2639,7,Villa,148,1900,-59 %
+Grønnegade 26 5591 Gelsted,26,1095000.0,05-03-2015,Alm.,8295,4,Villa,132,1976,-8 %
+Lundevej 2 5591 Gelsted,2,700000.0,27-02-2015,Alm.,5691,3,Villa,123,1971,0 %
+Søndergade 29 5591 Gelsted,29,116250.0,25-02-2015,Alm.,894,3,Villa,130,1900,
+Grønnegade 5 5591 Gelsted,5,450000.0,06-01-2015,Auktion,3629,6,Villa,124,1962,
+Grønnegade 7 5591 Gelsted,7,510000.0,19-12-2014,Alm.,4553,4,Villa,112,1963,-7 %
+Lungeskovvej 5 5591 Gelsted,5,587500.0,11-12-2014,Alm.,4589,6,Villa,128,1907,
+Gelsted Byvej 21 5591 Gelsted,21,1925000.0,03-12-2014,Alm.,10519,6,Villa,183,1900,-4 %
+Rødstenvej 8 5591 Gelsted,8,50000.0,28-11-2014,Alm.,462,5,Villa,108,1931,
+Gelstedvej 43 5591 Gelsted,43,2865000.0,23-11-2014,Alm.,14844,7,Stuehus,193,1877,
+Hylkedamvej 74 5591 Gelsted,74,1500000.0,21-11-2014,Andet,7936,4,Villa,189,1961,
+Møllevej 26 5591 Gelsted,26,725000.0,18-11-2014,Alm.,4289,4,Villa,169,1897,-8 %
+Tanderupvej 53 5591 Gelsted,53,400000.0,22-10-2014,Alm.,2395,4,Villa,167,1907,
+Aulbjergvej 6 5591 Gelsted,6,1750000.0,09-10-2014,Alm.,8177,9,Stuehus,214,1902,-50 %
+Lundevej 15 5591 Gelsted,15,1100000.0,06-10-2014,Alm.,5789,5,Villa,190,1974,-12 %
+Præstegårdsvej 5 5591 Gelsted,5,483500.0,16-09-2014,Fam.,4649,4,Villa,104,1958,
+Søndergade 43 5591 Gelsted,43,700000.0,15-09-2014,Alm.,5384,4,Villa,130,1905,
+Søndergade 45 5591 Gelsted,45,4000000.0,15-09-2014,Alm.,22988,10,Villa,174,1906,
+Gl. Odensevej 25K 5591 Gelsted,0,960000.0,06-09-2014,Alm.,10105,3,Rækkehus,95,2007,-4 %
+Lungeskovvej 27 5591 Gelsted,27,250000.0,08-08-2014,Alm.,1712,4,Villa,146,2016,
+"Gelsted Byvej 2, 1 5591 Gelsted",1,350000.0,11-07-2014,Alm.,1955,5,Lejlighed,179,1971,
+Svinget 2B 5591 Gelsted,0,1200000.0,27-06-2014,Alm.,7643,4,Villa,157,2012,-11 %
+Toftevej 15 5591 Gelsted,15,900000.0,23-06-2014,Alm.,6428,4,Villa,140,1976,-10 %
+Fredensgade 13 5591 Gelsted,13,1200000.0,23-06-2014,Alm.,6000,6,Villa,200,1964,-11 %
+Søndergade 172 5591 Gelsted,172,1525000.0,13-06-2014,Alm.,9713,5,Villa,157,1979,-10 %
+Skaboes Gyde 10 5591 Gelsted,10,650000.0,13-06-2014,Alm.,3631,6,Villa,179,1967,
+Kingstrupvej 150 5591 Gelsted,150,650000.0,11-06-2014,Alm.,1683,5,Villa,386,1902,0 %
+Lundevej 22 5591 Gelsted,22,200000.0,21-05-2014,Auktion,1960,5,Villa,102,1973,
+Lundevej 17 5591 Gelsted,17,1070000.0,14-05-2014,Alm.,7985,5,Villa,134,1973,-2 %
+Dyregårdsvej 21 5591 Gelsted,21,1715000.0,09-05-2014,Alm.,8406,7,Villa,204,1927,-9 %
+Birkehøjvej 2 5591 Gelsted,2,475000.0,29-04-2014,Alm.,5000,4,Villa,95,1892,-14 %
+Hårevej 75 5591 Gelsted,75,675000.0,28-04-2014,Alm.,4166,4,Villa,162,1977,-10 %
+Søndergade 151 5591 Gelsted,151,535000.0,25-04-2014,Fam.,6294,2,Villa,85,1890,
+Hårevej 54 5591 Gelsted,54,890000.0,22-04-2014,Alm.,5235,5,Villa,170,1925,-23 %
+Tårup Udlod 27 5591 Gelsted,27,885000.0,02-04-2014,Alm.,5709,4,Villa,155,1938,-7 %
+Assensvej 28 5591 Gelsted,28,350000.0,27-03-2014,Alm.,1988,7,Stuehus,176,1802,-50 %
+Kingstrupvej 128B 5591 Gelsted,0,2750000.0,26-03-2014,Alm.,9683,8,Villa,284,1990,-8 %
+Søndergade 81 5591 Gelsted,81,569500.0,21-03-2014,Fam.,5273,3,Villa,108,1949,-40 %
+Gelsted Byvej 8 5591 Gelsted,8,425000.0,14-03-2014,Alm.,3541,4,Villa,120,1857,-13 %
+Dammen 3 5591 Gelsted,3,475000.0,01-03-2014,Alm.,6333,4,Villa,75,1868,-27 %
+Toftevej 18 5591 Gelsted,18,1000000.0,25-02-2014,Alm.,7812,4,Villa,128,1978,-9 %
+Rolundvej 19 5591 Gelsted,19,635000.0,25-02-2014,Alm.,4177,5,Villa,152,1961,-6 %
+Højsholmvej 19 5591 Gelsted,19,900000.0,15-02-2014,Alm.,3688,7,Villa,244,1851,-10 %
+Ørsbjergskov 6 5591 Gelsted,6,498836.0,03-02-2014,Alm.,5542,3,Villa,90,1900,
+Tanderupvej 7 5591 Gelsted,7,470000.0,09-01-2014,Alm.,5340,3,Villa,88,1959,-5 %
+Søndergade 101 5591 Gelsted,101,585111.0,30-12-2013,Alm.,6725,5,Villa,87,1904,-6 %
+Grønnegade 52 5591 Gelsted,52,339100.0,14-11-2013,Auktion,2354,4,Villa,144,1911,
+Tårup Udlod 35 5591 Gelsted,35,1370000.0,12-11-2013,Alm.,10000,4,Stuehus,137,1870,
+Vinkelvej 12 5591 Gelsted,12,86094.0,22-10-2013,Auktion,711,3,Villa,121,1910,
+Hovvej 17 5591 Gelsted,17,875000.0,08-10-2013,Auktion,2946,8,Villa,297,1927,-33 %
+Grønnegade 3 5591 Gelsted,3,411000.0,15-08-2013,Alm.,3210,3,Villa,128,1961,3 %
+Gl. Odensevej 25G 5591 Gelsted,0,975000.0,01-08-2013,Alm.,8478,4,Rækkehus,115,2007,-11 %
+Grønnegade 13 5591 Gelsted,13,700000.0,22-07-2013,Alm.,6306,5,Villa,111,1963,-30 %
+Gelstedskovvej 14 5591 Gelsted,14,1100000.0,15-07-2013,Fam.,7801,3,Stuehus,141,1977,
+Tornhøjvangen 5 5591 Gelsted,5,1575000.0,08-07-2013,Alm.,9843,5,Villa,160,1988,-12 %
+Skaboes Gyde 8 5591 Gelsted,8,750000.0,03-07-2013,Auktion,2640,7,Villa,284,1968,-25 %
+Grønnegade 22 5591 Gelsted,22,685000.0,01-07-2013,Alm.,6061,4,Villa,113,1965,0 %
+Vinkelvej 8 5591 Gelsted,8,600000.0,24-06-2013,Alm.,2752,5,Villa,218,1905,-20 %
+Gl. Odensevej 25B 5591 Gelsted,0,975000.0,14-06-2013,Alm.,10263,3,Rækkehus,95,2006,-2 %
+Birkehøjvej 1 5591 Gelsted,1,500000.0,06-03-2013,Fam.,3571,5,Villa,140,1917,
+Gelstedskovvej 12 5591 Gelsted,12,2195000.0,27-02-2013,Alm.,9932,8,Villa,221,1870,0 %
+Enggårdsvej 25 5591 Gelsted,25,520000.0,04-02-2013,Alm.,3466,5,Villa,150,1947,-8 %
+Gelsted Byvej 26 5591 Gelsted,26,1210000.0,26-01-2013,Alm.,9307,5,Villa,130,1933,
+Mølletoften 5 5591 Gelsted,5,510000.0,21-01-2013,Alm.,4146,4,Villa,123,1964,-10 %
+Fredensgade 11C 5591 Gelsted,0,555000.0,03-01-2013,Alm.,7115,3,Rækkehus,78,1965,-27 %
+Kingstrupvej 102 5591 Gelsted,102,200000.0,20-12-2012,Alm.,2666,4,Villa,75,1890,
+Gelstedskovvej 17 5591 Gelsted,17,560000.0,04-12-2012,Alm.,4444,6,Villa,126,2013,
+Hylkedamvej 35 5591 Gelsted,35,1100000.0,29-11-2012,Alm.,8208,4,Villa,134,1946,-15 %
+Assensvej 42 5591 Gelsted,42,450000.0,27-11-2012,Auktion,4166,5,Villa,108,1950,
+Højbovænget 1 5591 Gelsted,1,655500.0,22-11-2012,Alm.,4370,5,Villa,150,1973,
+Søndergade 161 5591 Gelsted,161,200000.0,22-11-2012,Alm.,2272,3,Villa,88,1886,-32 %
+Søndergade 55 5591 Gelsted,55,725000.0,10-11-2012,Alm.,4531,5,Villa,160,1939,-9 %
+Gelsted Mose 40 5591 Gelsted,40,30000.0,30-10-2012,Alm.,333,5,Villa,90,1892,
+Højbovænget 5 5591 Gelsted,5,544000.0,24-10-2012,Fam.,3830,5,Villa,142,1977,-31 %
+Gelsted Mose 4 5591 Gelsted,4,650000.0,23-10-2012,Alm.,6018,3,Villa,108,1911,-6 %
+Tårupvej 35 5591 Gelsted,35,995000.0,02-10-2012,Alm.,6546,5,Villa,152,1968,0 %
+Hylkedamvej 37 5591 Gelsted,37,1195000.0,27-09-2012,Alm.,8298,4,Villa,144,1946,0 %
+Hønnerupvej 17 5591 Gelsted,17,1000000.0,14-09-2012,Alm.,6451,4,Villa,155,1977,
+Søndergade 19 5591 Gelsted,19,395000.0,19-08-2012,Andet,3726,5,Villa,106,1888,
+Gl. Odensevej 25M 5591 Gelsted,0,980000.0,24-07-2012,Alm.,10315,3,Rækkehus,95,2007,-11 %
+Fredensgade 7 5591 Gelsted,7,510000.0,13-07-2012,Alm.,3669,5,Villa,139,1962,-36 %
+Søndergade 16 5591 Gelsted,16,820000.0,11-07-2012,Alm.,7321,4,Villa,112,1900,-9 %
+Kingstrupvej 100 5591 Gelsted,100,450000.0,18-06-2012,Alm.,4945,4,Villa,91,1860,-14 %
+Svinget 6 5591 Gelsted,6,625000.0,06-06-2012,Alm.,6510,4,Villa,96,1900,0 %
+Agerstien 38 5591 Gelsted,38,662500.0,23-05-2012,Alm.,6134,4,Villa,108,1905,-2 %
+Tjørnevej 10 5591 Gelsted,10,675000.0,18-05-2012,Fam.,3515,5,Villa,192,1916,
+Hylkedamvej 32 5591 Gelsted,32,338000.0,03-05-2012,Alm.,2964,6,Villa,114,1936,
+Tårupvej 33 5591 Gelsted,33,421581.0,10-04-2012,Alm.,3665,4,Villa,115,1965,
+Mølletoften 2 5591 Gelsted,2,460000.0,04-03-2012,Alm.,3680,4,Villa,125,1963,
+Hårevej 68 5591 Gelsted,68,470000.0,21-02-2012,Alm.,4700,4,Villa,100,1968,-5 %
+Hørkærvej 32 5591 Gelsted,32,1750000.0,22-12-2011,Alm.,16990,3,Sommerhus,103,1967,
+Fyrrevej 22 5591 Gelsted,22,1600000.0,21-12-2011,Alm.,10884,5,Villa,147,2004,-6 %
+Enggårdsvej 20 5591 Gelsted,20,100000.0,07-12-2011,Alm.,666,7,Stuehus,150,1958,
+Fredensgade 4 5591 Gelsted,4,550000.0,07-11-2011,Alm.,5092,4,Villa,108,1964,-34 %
+Søndergade 26 5591 Gelsted,26,400000.0,02-11-2011,Alm.,2325,7,Villa,172,1904,
+Søndergade 6 5591 Gelsted,6,296000.0,24-10-2011,Fam.,1793,5,Villa,165,1906,
+Østergade 15 5591 Gelsted,15,1232000.0,24-10-2011,Fam.,8000,6,Villa,154,1914,
+Hovvej 15 5591 Gelsted,15,5780000.0,28-09-2011,Fam.,22145,8,Stuehus,261,1933,
+Fyrrevej 12 5591 Gelsted,12,635000.0,26-09-2011,Alm.,5039,4,Villa,126,1975,-23 %
+Hylkedamvej 92 5591 Gelsted,92,65000.0,22-09-2011,Auktion,764,5,Villa,85,1942,
+Aulbjergvej 7 5591 Gelsted,7,1650000.0,20-09-2011,Alm.,10576,6,Stuehus,156,1938,-2 %
+Lungeskovvej 46 5591 Gelsted,46,1610000.0,24-08-2011,Alm.,10805,7,Stuehus,149,1951,
+Hønnerupvej 59 5591 Gelsted,59,6184010.0,22-08-2011,Alm.,30920,7,Stuehus,200,1916,
+Aulbjergvej 10 5591 Gelsted,10,525000.0,15-08-2011,Fam.,3409,5,Villa,154,1870,
+Sivkærvej 6 5591 Gelsted,6,420000.0,09-08-2011,Alm.,4375,3,Villa,96,1907,-24 %
+Birkehøjvej 6 5591 Gelsted,6,935000.0,18-07-2011,Alm.,7480,3,Villa,125,1942,-1 %
+Fyrrevej 26 5591 Gelsted,26,850000.0,27-06-2011,Alm.,7798,4,Villa,109,1975,0 %
+Galvanovænget 8 5591 Gelsted,8,1175000.0,22-06-2011,Alm.,4957,5,Villa,237,1977,-9 %
+Skyttevej 6 5591 Gelsted,6,2600000.0,18-06-2011,Alm.,10833,7,Villa,240,1966,-26 %
+Gelsted Mose 1 5591 Gelsted,1,500000.0,07-06-2011,Alm.,4761,3,Villa,105,1917,-33 %
+Hovvej 24 5591 Gelsted,24,1575000.0,19-05-2011,Alm.,4787,11,Stuehus,329,1890,0 %
+Møllevej 18A 5591 Gelsted,0,1020000.0,06-05-2011,Fam.,7445,4,Villa,137,1994,
+Hylkedamvej 50 5591 Gelsted,50,300000.0,29-04-2011,Alm.,2255,3,Villa,133,1930,-8 %
+Højbovænget 11 5591 Gelsted,11,750000.0,29-04-2011,Alm.,6000,3,Villa,125,1973,-25 %
+Gelsted Byvej 16 5591 Gelsted,16,520000.0,11-04-2011,Alm.,5977,5,Villa,87,1907,
+Gelstedvej 35 5591 Gelsted,35,947283.0,08-02-2011,Alm.,9021,4,Villa,105,1963,
+Tårup Udlod 7 5591 Gelsted,7,1400000.0,29-01-2011,Alm.,9790,5,Stuehus,143,1897,-6 %
+Agerstien 24 5591 Gelsted,24,2950000.0,12-01-2011,Alm.,11346,8,Stuehus,260,1899,
+Hylkedamvej 78 5591 Gelsted,78,750000.0,19-12-2010,Andet,2757,5,Villa,272,1994,
+Søndergade 171 5591 Gelsted,171,219577.0,16-12-2010,Alm.,1728,4,Villa,127,1949,
+Hønnerupvej 16 5591 Gelsted,16,1150000.0,12-12-2010,Alm.,4893,5,Stuehus,235,1756,
+Dyregårdsvej 18 5591 Gelsted,18,1450000.0,08-12-2010,Alm.,7213,6,Villa,201,1927,
+Lundevej 6 5591 Gelsted,6,900000.0,02-12-2010,Alm.,6122,5,Villa,147,1972,-14 %
+Fyrrevej 1A 5591 Gelsted,0,1400000.0,22-11-2010,Alm.,5907,8,Villa,237,1977,-12 %
+Søndergade 117 5591 Gelsted,117,372000.0,16-11-2010,Fam.,4087,3,Villa,91,1948,
+Østergade 11A 5591 Gelsted,0,440000.0,11-11-2010,Alm.,3142,6,Villa,140,1955,
+Gl. Odensevej 25A 5591 Gelsted,0,1460000.0,29-10-2010,Alm.,12695,4,Rækkehus,115,2006,-6 %
+Hørkærvej 18 5591 Gelsted,18,362500.0,27-10-2010,Alm.,1878,5,Villa,193,2011,
+Kingstrupvej 111 5591 Gelsted,111,500000.0,25-10-2010,Alm.,5154,3,Villa,97,1880,-9 %
+Tanderupvej 32 5591 Gelsted,32,1000000.0,25-10-2010,Alm.,6329,4,Lejlighed,158,1912,
+Assensvej 44 5591 Gelsted,44,550000.0,30-09-2010,Alm.,4583,4,Villa,120,1931,-5 %
+Søndergade 127 5591 Gelsted,127,495000.0,28-09-2010,Alm.,6600,3,Villa,75,1934,0 %
+Svinget 7 5591 Gelsted,7,860000.0,27-09-2010,Alm.,5548,5,Villa,155,1875,-4 %
+Tårupvej 6 5591 Gelsted,6,850000.0,31-08-2010,Alm.,8762,3,Villa,97,1935,-5 %
+Odensevej 38 5591 Gelsted,38,1100000.0,24-08-2010,Auktion,5213,7,Stuehus,211,1855,-39 %
+Tanderupvej 55 5591 Gelsted,55,940000.0,19-08-2010,Alm.,4104,9,Villa,229,1910,-6 %
+Søndergade 159 5591 Gelsted,159,723000.0,07-07-2010,Fam.,7303,3,Villa,99,1864,-5 %
+Agerstien 39 5591 Gelsted,39,1550000.0,24-06-2010,Alm.,9064,6,Villa,171,1913,-3 %
+Søndergade 118 5591 Gelsted,118,860000.0,20-06-2010,Alm.,10750,4,Villa,80,1933,-2 %
+Hovvej 59 5591 Gelsted,59,1425000.0,15-06-2010,Alm.,9313,3,Stuehus,153,1907,-5 %
+Hørkærvej 30 5591 Gelsted,30,408000.0,11-06-2010,Fam.,7555,2,Sommerhus,54,1962,
+Toftevej 11 5591 Gelsted,11,1150000.0,07-06-2010,Alm.,5424,7,Villa,212,1977,0 %
+Dyregårdsvej 17 5591 Gelsted,17,11050000.0,03-06-2010,Auktion,29545,9,Stuehus,374,1866,
+Grønnegade 61 5591 Gelsted,61,310000.0,03-06-2010,Auktion,2421,4,Villa,128,1911,-55 %
+Tårupvej 24 5591 Gelsted,24,900000.0,18-05-2010,Alm.,7317,5,Villa,123,1962,-3 %
+Kingstrupvej 88 5591 Gelsted,88,667536.0,23-03-2010,Fam.,4572,7,Villa,146,1877,
+Dyregårdsvej 3 5591 Gelsted,3,159480.0,17-03-2010,Alm.,553,10,Stuehus,288,1916,
+Ruerne 14 5591 Gelsted,14,1000000.0,08-03-2010,Alm.,8064,4,Stuehus,124,1890,
+Hårevej 71 5591 Gelsted,71,825000.0,25-02-2010,Alm.,3044,8,Villa,271,1911,-8 %
+Enggårdsvej 21 5591 Gelsted,21,2969990.0,15-02-2010,Alm.,8485,7,Stuehus,350,1866,
+Højbovænget 3 5591 Gelsted,3,780000.0,10-02-2010,Alm.,6842,4,Villa,114,1973,-13 %
+Tårup Udlod 11 5591 Gelsted,11,900000.0,22-12-2009,Alm.,4306,3,Stuehus,209,1870,-28 %
+Ludvigsgårdevej 11 5591 Gelsted,11,350000.0,02-12-2009,Alm.,3571,3,Villa,98,1880,-46 %
+Toftevangen 53 5591 Gelsted,53,547000.0,30-11-2009,Fam.,3798,4,Villa,144,1980,
+Søndergade 155A 5591 Gelsted,0,1200000.0,26-11-2009,Alm.,10169,3,Villa,118,1864,-7 %
+Gelsted Byvej 23 5591 Gelsted,23,695000.0,23-10-2009,Alm.,7473,6,Villa,93,1892,0 %
+Tårup Udlod 42 5591 Gelsted,42,82000.0,18-08-2009,Auktion,766,3,Villa,107,1907,
+Koldinghave 6 5591 Gelsted,6,820000.0,05-08-2009,Alm.,8118,4,Villa,101,1965,-6 %
+Østergade 4 5591 Gelsted,4,825000.0,17-07-2009,Alm.,4940,4,Villa,167,1906,-8 %
+Møllevej 3 5591 Gelsted,3,316500.0,15-07-2009,Andet,2344,4,Villa,135,1900,
+Banevolden 9 5591 Gelsted,9,595000.0,03-06-2009,Fam.,4131,4,Villa,144,1910,
+Rødstenvej 6 5591 Gelsted,6,135000.0,14-05-2009,Auktion,1273,2,Villa,106,1827,
+Hylkedamvej 82 5591 Gelsted,82,1035000.0,04-05-2009,Alm.,9583,5,Villa,108,1907,
+Tanderupvej 63 5591 Gelsted,63,975000.0,30-04-2009,Alm.,7500,4,Villa,130,1954,-2 %
+Rolundvej 15 5591 Gelsted,15,395000.0,28-04-2009,Alm.,3657,3,Villa,108,1962,-34 %
+Højbovænget 6 5591 Gelsted,6,950000.0,07-04-2009,Auktion,7983,4,Villa,119,1972,
+Søndergade 105 5591 Gelsted,105,425000.0,30-03-2009,Alm.,3346,5,Villa,127,1906,-25 %
+Tanderupvej 25 5591 Gelsted,25,250000.0,20-03-2009,Alm.,1748,4,Villa,143,1933,0 %
+Fyrrevej 19 5591 Gelsted,19,1250000.0,17-03-2009,Alm.,9469,4,Villa,132,1985,-16 %
+Hårevej 62 5591 Gelsted,62,375000.0,03-03-2009,Auktion,3712,5,Villa,101,1952,
+Hylkedamvej 66 5591 Gelsted,66,583792.0,29-01-2009,Andet,4785,3,Villa,122,1956,
+Tårup Udlod 9 5591 Gelsted,9,185000.0,19-01-2009,Alm.,3083,3,Villa,60,1880,
+Østergade 23 5591 Gelsted,23,620000.0,14-01-2009,Alm.,4189,5,Villa,148,1912,-17 %
+Gl. Odensevej 25H 5591 Gelsted,0,1425000.0,13-01-2009,Alm.,15000,3,Rækkehus,95,2007,
+Lungeskovvej 31 5591 Gelsted,31,906500.0,31-12-2008,Andet,4796,6,Villa,189,1880,
+Kingstrupvej 122 5591 Gelsted,122,728028.0,15-12-2008,Alm.,4044,4,Villa,180,1967,-54 %
+Tårupvej 18 5591 Gelsted,18,900000.0,29-10-2008,Alm.,7692,3,Villa,117,1898,-4 %
+Østergade 6 5591 Gelsted,6,2415000.0,29-10-2008,Alm.,9217,8,Villa,262,1900,-6 %
+Hovvej 49 5591 Gelsted,49,1074000.0,01-10-2008,Alm.,5239,7,Stuehus,205,1880,
+Hylkedamvej 86 5591 Gelsted,86,710000.0,29-09-2008,Alm.,8875,3,Villa,80,1962,-11 %
+Agerstien 40 5591 Gelsted,40,370000.0,20-08-2008,Andet,1468,6,Villa,252,1866,
+Toftevej 10 5591 Gelsted,10,1475000.0,26-07-2008,Alm.,12291,5,Villa,120,1977,0 %
+Enggårdsvej 24 5591 Gelsted,24,904000.0,22-07-2008,Alm.,8000,6,Villa,113,1870,-4 %
+Ludvigsgårdevej 18 5591 Gelsted,18,1495000.0,11-07-2008,Alm.,6361,7,Stuehus,235,1877,0 %
+Gl. Odensevej 25F 5591 Gelsted,0,1485000.0,30-05-2008,Alm.,15631,3,Rækkehus,95,2007,0 %
+Odensevej 34 5591 Gelsted,34,731000.0,27-05-2008,Fam.,6645,6,Villa,110,1906,
+Kingstrupvej 149 5591 Gelsted,149,930000.0,26-05-2008,Alm.,7622,3,Villa,122,1917,-2 %
+Kobbermosevej 5 5591 Gelsted,5,748000.0,15-05-2008,Fam.,7123,4,Villa,105,1902,
+Grønnegade 19 5591 Gelsted,19,1050000.0,14-05-2008,Alm.,10396,4,Villa,101,1965,0 %
+Dyregårdsvej 1 5591 Gelsted,1,159480.0,14-05-2008,Alm.,711,4,Stuehus,224,1700,
+Kløvervænget 4 5591 Gelsted,4,1200000.0,24-04-2008,Alm.,7692,5,Villa,156,1977,-8 %
+Møllevej 11 5591 Gelsted,11,135000.0,14-04-2008,Alm.,828,5,Villa,163,2009,
+Møllevej 13 5591 Gelsted,13,196800.0,04-04-2008,Alm.,1207,5,Villa,163,2009,
+Hasselvej 17 5591 Gelsted,17,925000.0,28-02-2008,Alm.,7283,4,Villa,127,1902,0 %
+Søndergade 11 5591 Gelsted,11,800000.0,19-02-2008,Alm.,7142,4,Villa,112,1900,-6 %
+Hovgårdsvej 4 5591 Gelsted,4,773000.0,12-02-2008,Fam.,3303,10,Villa,234,1915,
+Gelsted Byvej 25 5591 Gelsted,25,750000.0,10-02-2008,Alm.,7653,3,Villa,98,1899,
+Gelsted Byvej 24 5591 Gelsted,24,1575000.0,06-02-2008,Alm.,11666,5,Villa,135,1930,0 %
+Agerstien 34 5591 Gelsted,34,1850000.0,15-01-2008,Fam.,15289,4,Stuehus,121,2008,
+Enggårdsvej 1 5591 Gelsted,1,1375000.0,20-12-2007,Alm.,5500,7,Villa,250,1900,-7 %
+Hylkedamvej 69 5591 Gelsted,69,431295.0,20-11-2007,Fam.,5074,3,Villa,85,1946,
+Værkstedsvej 6 5591 Gelsted,6,1300000.0,17-10-2007,Alm.,17808,5,Industri o.l.,73,1988,
+Kingstrupvej 132 5591 Gelsted,132,555000.0,11-10-2007,Alm.,7207,3,Villa,77,1880,
+Fyrrevej 24 5591 Gelsted,24,767711.0,02-10-2007,Andet,4337,5,Villa,177,1977,
+Gl. Odensevej 12 5591 Gelsted,12,2000000.0,02-10-2007,Fam.,0,12,Engroshandel,148,1965,
+Grønnegade 21 5591 Gelsted,21,1150000.0,24-09-2007,Alm.,7666,6,Villa,150,1969,
+Ludvigsgårdevej 21 5591 Gelsted,21,1495000.0,21-09-2007,Alm.,10992,4,Villa,136,1976,
+Rolundvej 25 5591 Gelsted,25,1145000.0,14-09-2007,Alm.,8945,4,Villa,128,1852,
+Agerstien 36 5591 Gelsted,36,2075000.0,06-09-2007,Alm.,9834,4,Villa,211,1915,
+Tårup Udlod 3 5591 Gelsted,3,3500000.0,05-09-2007,Alm.,21875,7,Stuehus,160,1924,
+Gl. Odensevej 25L 5591 Gelsted,0,1295000.0,24-08-2007,Alm.,13631,4,Rækkehus,95,2007,
+Højsholmvej 14 5591 Gelsted,14,722500.0,21-08-2007,Fam.,5473,5,Stuehus,132,1864,
+Toftevej 2 5591 Gelsted,2,1000000.0,07-08-2007,Alm.,10309,4,Villa,97,1973,
+Søndergade 64 5591 Gelsted,64,1295000.0,27-07-2007,Alm.,11163,4,Villa,116,1897,0 %
+Gl. Odensevej 25E 5591 Gelsted,0,1445000.0,22-07-2007,Alm.,12565,4,Rækkehus,115,2007,
+Rolundvej 23 5591 Gelsted,23,425000.0,11-07-2007,Alm.,4722,4,Villa,90,1963,
+Gl. Odensevej 25I 5591 Gelsted,0,1299000.0,10-07-2007,Alm.,13673,3,Rækkehus,95,2007,
+Møllevej 15 5591 Gelsted,15,135000.0,29-06-2007,Alm.,1350,3,Villa,100,2008,
+Højbovænget 9 5591 Gelsted,9,750000.0,23-06-2007,Alm.,5905,5,Villa,127,1973,
+Gl. Odensevej 25C 5591 Gelsted,0,1459000.0,16-06-2007,Alm.,12686,4,Rækkehus,115,2006,
+Agerstien 33 5591 Gelsted,33,1295000.0,15-06-2007,Alm.,6851,5,Villa,189,1917,0 %
+Lundevej 11 5591 Gelsted,11,1625000.0,15-06-2007,Alm.,6526,7,Villa,249,1973,-4 %
+Gelsted Byvej 10 5591 Gelsted,10,880000.0,11-06-2007,Alm.,4559,7,Villa,193,1918,1 %
+Lundevej 12 5591 Gelsted,12,895000.0,06-06-2007,Alm.,8136,4,Villa,110,1972,
+Birkehøjvej 4 5591 Gelsted,4,1040000.0,21-05-2007,Alm.,0,9,Villa,178,1920,-3 %
+Gl. Odensevej 9 5591 Gelsted,9,1050000.0,15-05-2007,Alm.,9210,4,Villa,114,1976,-4 %
+Agerstien 45 5591 Gelsted,45,1230000.0,14-05-2007,Alm.,7278,6,Villa,169,1860,
+Kingstrupvej 110 5591 Gelsted,110,920000.0,11-05-2007,Alm.,6571,5,Villa,140,1912,0 %
+Gl. Odensevej 4 5591 Gelsted,4,710000.0,08-05-2007,Auktion,6228,6,Villa,114,1961,
+Tårup Udlod 28 5591 Gelsted,28,575000.0,07-05-2007,Alm.,0,3,Villa,174,1900,
+Møllevej 29 5591 Gelsted,29,518500.0,03-05-2007,Fam.,4756,3,Villa,109,1970,
+Sivkærvej 23 5591 Gelsted,23,1800000.0,01-05-2007,Alm.,5787,10,Stuehus,311,1880,
+Tårup Udlod 39 5591 Gelsted,39,650000.0,30-04-2007,Alm.,6565,5,Villa,99,1860,
+Agerstien 29 5591 Gelsted,29,1600000.0,27-04-2007,Alm.,9302,7,Stuehus,172,1895,
+Hønnerupvej 13 5591 Gelsted,13,700000.0,19-04-2007,Alm.,0,5,Villa,168,1998,
+Tårup Udlod 34 5591 Gelsted,34,1175000.0,22-03-2007,Alm.,5964,6,Stuehus,197,1856,
+Søndergade 94 5591 Gelsted,94,1250000.0,19-03-2007,Andet,7763,5,Stuehus,161,1890,
+Gelstedskovvej 7 5591 Gelsted,7,750000.0,05-03-2007,Alm.,6818,4,Villa,110,1969,
+Hårevej 73 5591 Gelsted,73,1545000.0,01-03-2007,Alm.,7923,4,Villa,195,1972,
+Ludvigsgårdevej 16 5591 Gelsted,16,436731.0,08-02-2007,Alm.,0,5,Villa,187,1909,
+Hasselvej 9 5591 Gelsted,9,750000.0,23-01-2007,Alm.,5244,9,Villa,143,1949,
+Birkehøjvej 3 5591 Gelsted,3,1100000.0,16-01-2007,Alm.,10280,4,Villa,107,2006,
+Tjørnevej 8 5591 Gelsted,8,700000.0,09-01-2007,Alm.,7142,2,Villa,98,1922,
+Gelstedvej 58 5591 Gelsted,58,274811.0,30-12-2006,Alm.,1221,7,Stuehus,225,1905,
+Kingstrup Mosevej 2 5591 Gelsted,2,315020.0,29-12-2006,Andet,2561,4,Villa,123,1875,
+Tornhøjvangen 11 5591 Gelsted,11,156470.0,14-12-2006,Alm.,597,7,Villa,262,2008,
+Hønnerupvej 90 5591 Gelsted,90,1325000.0,13-12-2006,Alm.,9397,6,Stuehus,141,1919,
+Gelsted Mose 31 5591 Gelsted,31,346000.0,22-11-2006,Alm.,3931,4,Villa,88,1951,
+Toftevangen 55 5591 Gelsted,55,130535.0,20-11-2006,Alm.,0,6,Villa,221,2007,
+Søndergade 147 5591 Gelsted,147,1575000.0,17-11-2006,Alm.,8422,6,Villa,187,1892,
+Grønnegade 16 5591 Gelsted,16,825000.0,13-11-2006,Alm.,6653,4,Villa,124,1963,
+Søndergade 180 5591 Gelsted,180,975000.0,12-11-2006,Alm.,6964,7,Villa,140,1965,
+Søndergade 27 5591 Gelsted,27,125000.0,01-11-2006,Alm.,576,8,Villa,217,1927,
+"Søndergade 71, ST 5591 Gelsted",0,1195000.0,11-10-2006,Alm.,9637,6,Villa,124,1912,
+Gelstedvej 55 5591 Gelsted,55,710000.0,06-10-2006,Alm.,8068,3,Villa,88,1959,
+Søndergade 123 5591 Gelsted,123,718251.0,05-10-2006,Fam.,5700,4,Villa,126,1943,
+Tornhøjvangen 21 5591 Gelsted,21,152670.0,04-10-2006,Alm.,759,5,Villa,201,2007,
+Gelstedskovvej 23 5591 Gelsted,23,772000.0,15-09-2006,Alm.,3658,3,Stuehus,211,1885,
+Søndergade 168 5591 Gelsted,168,600000.0,08-09-2006,Alm.,6451,4,Villa,93,1939,
+Fredensgade 11 5591 Gelsted,11,785000.0,30-08-2006,Alm.,7850,4,Rækkehus,100,1965,
+Hylkedamvej 83 5591 Gelsted,83,282500.0,16-08-2006,Alm.,2825,3,Villa,100,1900,
+Gelsted Mose 11 5591 Gelsted,11,1025000.0,10-08-2006,Alm.,9490,4,Villa,108,1894,
+Rolundvej 24 5591 Gelsted,24,1195000.0,15-06-2006,Alm.,6638,6,Villa,180,1958,
+Hasselvej 14 5591 Gelsted,14,1125000.0,29-05-2006,Alm.,8035,5,Villa,140,1975,
+Hylkedamvej 34 5591 Gelsted,34,435500.0,20-04-2006,Andet,1901,6,Villa,229,1946,
+Tornhøjvangen 17 5591 Gelsted,17,108400.0,10-04-2006,Alm.,542,5,Villa,200,2008,
+Tanderupvej 12 5591 Gelsted,12,940000.0,04-04-2006,Alm.,7230,4,Villa,130,1973,
+Hjortegyden 25 5591 Gelsted,25,180000.0,30-03-2006,Alm.,1636,3,Villa,110,1780,
+Lundevej 20 5591 Gelsted,20,538239.0,27-03-2006,Andet,3986,5,Villa,135,1972,
+Gl. Odensevej 25D 5591 Gelsted,0,1245000.0,15-03-2006,Alm.,13105,3,Rækkehus,95,2006,
+Tornhøjvangen 19 5591 Gelsted,19,88185.0,14-03-2006,Alm.,521,5,Villa,169,2006,
+Gelstedvej 36A 5591 Gelsted,0,5006000.0,08-03-2006,Alm.,0,5,Rækkehus,105,1976,
+Søndergade 139 5591 Gelsted,139,2150000.0,08-03-2006,Alm.,4594,10,Villa,468,1900,
+Hylkedamvej 39 5591 Gelsted,39,845000.0,07-03-2006,Alm.,8989,4,Villa,94,1946,
+Tårupvej 20 5591 Gelsted,20,1125000.0,07-03-2006,Alm.,9375,4,Villa,120,1964,
+Søndergade 121 5591 Gelsted,121,650000.0,28-02-2006,Alm.,4779,6,Villa,136,1957,
+Tanderupvej 26 5591 Gelsted,26,725000.0,13-02-2006,Alm.,5291,4,Villa,137,1925,
+Hylkedamvej 81 5591 Gelsted,81,850000.0,09-01-2006,Alm.,6250,5,Villa,136,1931,
+Kingstrupvej 153 5591 Gelsted,153,1375000.0,02-01-2006,Alm.,9821,3,Stuehus,140,1902,
+Gelsted Mose 9C 5591 Gelsted,0,1770000.0,30-12-2005,Alm.,7344,7,Villa,241,1977,
+Tornhøjvangen 15 5591 Gelsted,15,89255.0,21-12-2005,Alm.,554,5,Villa,161,2006,
+Tårupvej 49 5591 Gelsted,49,760000.0,12-12-2005,Alm.,6909,3,Villa,110,1968,
+Tårup Udlod 18 5591 Gelsted,18,1525000.0,12-12-2005,Alm.,8664,5,Villa,176,1890,
+Tornhøjvangen 13 5591 Gelsted,13,89355.0,12-12-2005,Alm.,624,5,Villa,143,2006,
+Søndergade 42 5591 Gelsted,42,845000.0,07-12-2005,Alm.,8894,3,Villa,95,1910,
+Gelsted Byvej 15 5591 Gelsted,15,840000.0,06-12-2005,Alm.,5250,5,Villa,160,1900,
+Søndergade 115 5591 Gelsted,115,140000.0,01-12-2005,Alm.,725,5,Villa,193,2007,
+Gelstedvej 63 5591 Gelsted,63,420000.0,24-11-2005,Alm.,1438,9,Villa,292,1912,
+Birkehøjvej 7A 5591 Gelsted,0,820000.0,07-11-2005,Fam.,4939,6,Villa,166,1968,
+Tanderupvej 2 5591 Gelsted,2,485000.0,26-09-2005,Alm.,8660,3,Villa,56,1953,
+Fyrrevej 15 5591 Gelsted,15,875000.0,23-09-2005,Alm.,7113,4,Villa,123,1976,
+Søndergade 83 5591 Gelsted,83,750000.0,17-09-2005,Alm.,8241,3,Villa,91,1920,
+Hovvej 20 5591 Gelsted,20,450000.0,01-09-2005,Alm.,3515,4,Stuehus,128,1905,
+Hylkedamvej 36 5591 Gelsted,36,710000.0,29-08-2005,Alm.,9220,3,Villa,77,1954,
+Tanderupvej 17 5591 Gelsted,17,885000.0,08-08-2005,Alm.,7436,4,Villa,119,1973,
+Dyregårdsvej 25 5591 Gelsted,25,1640000.0,02-08-2005,Alm.,6235,6,Villa,263,1890,
+Toftevangen 37 5591 Gelsted,37,1200000.0,28-07-2005,Alm.,8633,6,Villa,139,1997,
+Tjørnevej 14C 5591 Gelsted,0,700000.0,11-07-2005,Alm.,7526,2,Rækkehus,93,1979,
+Kingstrupvej 81 5591 Gelsted,81,1075000.0,04-07-2005,Alm.,4756,4,Villa,226,1896,
+Gelsted Mose 10 5591 Gelsted,10,540000.0,29-06-2005,Alm.,0,4,Villa,142,1935,
+Gelsted Byvej 9 5591 Gelsted,9,600000.0,20-06-2005,Alm.,4918,4,Villa,122,1890,
+Grønnegade 1 5591 Gelsted,1,935000.0,18-06-2005,Alm.,6360,5,Villa,147,1960,
+Søndergade 112 5591 Gelsted,112,798000.0,30-05-2005,Alm.,5700,5,Villa,140,1933,
+Tanderupvej 68 5591 Gelsted,68,80000.0,23-05-2005,Auktion,0,3,Villa,74,1951,
+Tårupvej 2 5591 Gelsted,2,425000.0,18-05-2005,Alm.,3512,6,Villa,121,1909,
+Dyregårdsvej 15 5591 Gelsted,15,75000.0,12-05-2005,Alm.,0,5,Stuehus,149,1885,
+Søndergade 10 5591 Gelsted,10,595000.0,11-05-2005,Alm.,2975,8,Villa,200,1910,
+Fredensgade 3 5591 Gelsted,3,1250000.0,10-05-2005,Alm.,5656,7,Villa,221,1964,
+Grønnegade 11 5591 Gelsted,11,675000.0,15-04-2005,Alm.,7105,4,Villa,95,1960,
+Toftevangen 27 5591 Gelsted,27,970000.0,21-03-2005,Alm.,6598,4,Villa,147,1984,
+Søndergade 7 5591 Gelsted,7,920000.0,14-03-2005,Alm.,8214,4,Villa,112,1890,
+Tårupvej 26 5591 Gelsted,26,440000.0,08-03-2005,Alm.,5789,3,Villa,76,1908,
+Sivkærvej 19 5591 Gelsted,19,225000.0,25-02-2005,Alm.,2647,4,Villa,85,1897,
+Gelsted Byvej 17 5591 Gelsted,17,670000.0,07-02-2005,Alm.,3544,8,Villa,189,1890,
+Skaboes Gyde 12 5591 Gelsted,12,950000.0,07-02-2005,Fam.,3392,8,Villa,280,1970,
+Østergade 21 5591 Gelsted,21,850000.0,13-01-2005,Alm.,5743,6,Villa,148,1909,
+Tjørnevej 16 5591 Gelsted,16,1035000.0,10-01-2005,Alm.,6349,4,Villa,163,1978,
+Toftevangen 11 5591 Gelsted,11,1160000.0,16-12-2004,Alm.,7733,6,Villa,150,1986,
+Hørkærvej 19 5591 Gelsted,19,995000.0,14-12-2004,Alm.,6218,5,Villa,160,1900,
+Banevolden 11 5591 Gelsted,11,765000.0,09-12-2004,Alm.,5884,5,Villa,130,1907,
+Hårevej 65 5591 Gelsted,65,1500000.0,04-12-2004,Alm.,0,7,Villa,192,1966,
+Hønnerupvej 55 5591 Gelsted,55,590000.0,02-12-2004,Alm.,3907,5,Stuehus,151,1877,
+Koldinghave 1 5591 Gelsted,1,640000.0,29-11-2004,Alm.,5423,3,Villa,118,1964,
+Hønnerupvej 73 5591 Gelsted,73,950000.0,24-11-2004,Alm.,2357,8,Villa,403,1906,
+Tårupvej 29 5591 Gelsted,29,545000.0,23-11-2004,Alm.,5561,4,Villa,98,1963,
+Møllevej 14 5591 Gelsted,14,300000.0,08-11-2004,Alm.,4285,4,Villa,70,1924,
+Tårupvej 45 5591 Gelsted,45,679653.0,01-11-2004,Fam.,4531,7,Villa,150,1969,
+Kingstrupvej 112 5591 Gelsted,112,627128.0,28-10-2004,Andet,3895,6,Stuehus,161,1860,
+Hjortegyden 23 5591 Gelsted,23,1665000.0,04-10-2004,Alm.,8451,7,Stuehus,197,1748,
+Gelsted Mose 42 5591 Gelsted,42,293500.0,20-09-2004,Alm.,0,3,Villa,91,1900,
+Grønnegade 47 5591 Gelsted,47,1581225.0,16-08-2004,Alm.,7713,8,Stuehus,205,1924,
+Hårevej 47 5591 Gelsted,47,1700000.0,08-07-2004,Alm.,12408,4,Villa,137,1902,
+Toftevangen 15 5591 Gelsted,15,1145000.0,01-07-2004,Alm.,6856,5,Villa,167,1986,
+Gelstedskovvej 5 5591 Gelsted,5,640000.0,26-06-2004,Alm.,4155,6,Villa,154,1857,
+Troldemoseled 7 5591 Gelsted,7,1200000.0,21-06-2004,Alm.,0,8,Stuehus,186,1912,
+Gelsted Mose 37 5591 Gelsted,37,1180000.0,02-06-2004,Alm.,4836,7,Villa,244,1976,
+Søndergade 104 5591 Gelsted,104,755000.0,01-06-2004,Alm.,6138,5,Villa,123,1910,
+Tårupvej 32 5591 Gelsted,32,1185000.0,31-05-2004,Alm.,5925,7,Villa,200,1978,
+Hørkærvej 11 5591 Gelsted,11,400000.0,31-05-2004,Alm.,3149,4,Villa,127,2005,
+Dammen 8 5591 Gelsted,8,995000.0,26-05-2004,Alm.,8089,4,Villa,123,1968,
+Hylkedamvej 60 5591 Gelsted,60,400000.0,19-05-2004,Alm.,5128,3,Villa,78,1870,
+Hylkedamvej 45 5591 Gelsted,45,555000.0,05-05-2004,Alm.,7928,3,Villa,70,1940,
+Mølletoften 4 5591 Gelsted,4,625000.0,04-05-2004,Alm.,4960,5,Villa,126,1964,
+Grønnegade 8 5591 Gelsted,8,525000.0,05-04-2004,Alm.,5585,4,Villa,94,1961,
+Lundevej 13 5591 Gelsted,13,1060000.0,30-03-2004,Alm.,5578,7,Villa,190,1974,
+Tårupvej 8 5591 Gelsted,8,433500.0,29-03-2004,Fam.,4013,3,Villa,108,1963,
+Kingstrupvej 86 5591 Gelsted,86,245593.0,19-03-2004,Alm.,1436,5,Villa,171,1941,
+Ludvigsgårdevej 22 5591 Gelsted,22,935000.0,23-02-2004,Fam.,7480,4,Stuehus,125,1988,
+Hårevej 46 5591 Gelsted,46,465000.0,03-02-2004,Alm.,7500,3,Villa,62,1925,
+Grønnegade 9 5591 Gelsted,9,500000.0,20-01-2004,Alm.,5102,3,Villa,98,1962,
+Hovvej 21 5591 Gelsted,21,1085000.0,05-01-2004,Alm.,14090,4,Villa,77,1917,
+Assensvej 23 5591 Gelsted,23,900000.0,21-11-2003,Alm.,5294,7,Villa,170,1941,
+Hønnerupvej 23 5591 Gelsted,23,1250000.0,19-11-2003,Fam.,4545,12,Stuehus,275,1870,
+Dyregårdsvej 22 5591 Gelsted,22,1000000.0,31-10-2003,Alm.,0,4,Stuehus,129,1927,
+Hovvej 23 5591 Gelsted,23,499000.0,28-10-2003,Alm.,7128,2,Villa,70,1850,
+Sivkærvej 8 5591 Gelsted,8,375000.0,28-10-2003,Alm.,4870,3,Villa,77,1950,
+Fredehjemsvej 3 5591 Gelsted,3,595000.0,22-10-2003,Alm.,5666,4,Villa,105,1873,
+Hovgårdsvej 6 5591 Gelsted,6,204365.0,13-10-2003,Alm.,442,8,Stuehus,462,1918,
+Grønnegade 18 5591 Gelsted,18,650000.0,01-10-2003,Alm.,5855,3,Villa,111,1963,
+Hørkærvej 34 5591 Gelsted,34,100000.0,29-09-2003,Alm.,5000,1,Sommerhus,20,1945,
+Gelstedvej 47 5591 Gelsted,47,600000.0,22-09-2003,Alm.,2264,7,Stuehus,265,1918,
+Ørsbjergskov 4 5591 Gelsted,4,516606.0,15-09-2003,Alm.,5166,3,Villa,100,1876,
+Assensvej 41 5591 Gelsted,41,663000.0,25-08-2003,Alm.,4984,5,Villa,133,1931,
+Søndergade 33 5591 Gelsted,33,690000.0,06-08-2003,Fam.,3270,9,Villa,211,1900,
+Højsholmvej 4 5591 Gelsted,4,825000.0,21-06-2003,Alm.,3571,6,Villa,231,1850,
+Hønneruplundvej 9 5591 Gelsted,9,545000.0,12-06-2003,Alm.,5141,5,Villa,106,1935,
+Søndergade 8 5591 Gelsted,8,939416.0,24-05-2003,Alm.,2771,8,Villa,339,1900,
+Gl. Odensevej 22 5591 Gelsted,22,750000.0,17-05-2003,Alm.,6521,4,Villa,115,1942,
+Gelsted Byvej 14 5591 Gelsted,14,314500.0,02-05-2003,Fam.,2154,5,Villa,146,1892,
+Tanderupvej 61 5591 Gelsted,61,700000.0,03-02-2003,Alm.,4487,6,Villa,156,1912,
+Dyregårdsvej 5 5591 Gelsted,5,685000.0,02-02-2003,Alm.,3914,6,Villa,175,1964,
+Agerstien 46 5591 Gelsted,46,306000.0,17-01-2003,Fam.,3600,3,Villa,85,1932,
+Søndergade 20 5591 Gelsted,20,400000.0,08-01-2003,Alm.,3076,4,Villa,130,1910,
+Tjørnevej 9 5591 Gelsted,9,475000.0,22-12-2002,Alm.,3598,4,Villa,132,1911,
+Tornhøjvangen 7 5591 Gelsted,7,1295000.0,20-12-2002,Alm.,0,8,Villa,178,1998,
+Sivkærvej 14 5591 Gelsted,14,594000.0,10-12-2002,Alm.,0,3,Villa,108,1968,
+Søndergade 30 5591 Gelsted,30,596087.0,02-12-2002,Alm.,3973,4,Villa,150,1931,
+Agerstien 37 5591 Gelsted,37,981113.0,28-10-2002,Alm.,5274,5,Stuehus,186,1880,
+Annexvej 4 5591 Gelsted,4,1650000.0,23-10-2002,Alm.,0,9,Villa,246,1927,
+Hovvej 28 5591 Gelsted,28,525000.0,22-10-2002,Alm.,0,5,Villa,240,1916,
+Gelstedskovvej 10 5591 Gelsted,10,625000.0,07-10-2002,Alm.,6127,7,Villa,102,1877,
+Dalbovej 8 5591 Gelsted,8,700000.0,02-10-2002,Alm.,4666,6,Villa,150,1902,
+Søndergade 158 5591 Gelsted,158,795000.0,23-09-2002,Alm.,4056,6,Villa,196,1897,
+Tellerupvej 32 5591 Gelsted,32,1320000.0,18-07-2002,Fam.,5387,8,Stuehus,245,1886,
+"Søndergade 1, 1 5591 Gelsted",1,1600000.0,24-06-2002,Alm.,14678,6,Lejlighed,109,1902,
+Søndergade 50 5591 Gelsted,50,935000.0,24-06-2002,Alm.,6678,7,Villa,140,1920,
+Kingstrupvej 119 5591 Gelsted,119,1137000.0,14-06-2002,Alm.,3841,14,Stuehus,296,1880,
+Kingstrupvej 96 5591 Gelsted,96,785000.0,09-05-2002,Alm.,7072,3,Villa,111,1969,
+Assensvej 29 5591 Gelsted,29,1050000.0,07-05-2002,Alm.,7954,5,Villa,132,1948,
+Tårupvej 28 5591 Gelsted,28,560000.0,29-04-2002,Alm.,0,6,Villa,180,1877,
+Assensvej 40 5591 Gelsted,40,525000.0,25-04-2002,Alm.,5048,4,Villa,104,1952,
+Gelstedskovvej 13 5591 Gelsted,13,1240000.0,15-04-2002,Alm.,8322,6,Stuehus,149,1998,
+Toftevej 3 5591 Gelsted,3,955000.0,27-03-2002,Alm.,6678,5,Villa,143,1977,
+Tårup Udlod 30 5591 Gelsted,30,600000.0,16-02-2002,Alm.,0,6,Villa,243,1932,
+Gl. Odensevej 6 5591 Gelsted,6,810000.0,12-02-2002,Alm.,5364,6,Villa,151,1954,
+Kingstrup Mosevej 22 5591 Gelsted,22,350000.0,21-01-2002,Alm.,3888,4,Villa,90,1890,
+Sivkærvej 21 5591 Gelsted,21,390000.0,24-11-2001,Alm.,5000,4,Villa,78,1953,
+Vinkelvej 10 5591 Gelsted,10,750000.0,21-11-2001,Alm.,7653,4,Villa,98,1906,
+Koldinghave 4 5591 Gelsted,4,320000.0,01-10-2001,Fam.,4102,4,Villa,78,1850,
+Lungeskovvej 29 5591 Gelsted,29,363900.0,15-09-2001,Alm.,1724,7,Villa,211,1905,
+Hørkærvej 26 5591 Gelsted,26,283932.0,10-09-2001,Andet,4056,4,Villa,70,1875,
+Hylkedamvej 47 5591 Gelsted,47,660000.0,03-09-2001,Alm.,4551,6,Villa,145,1950,
+Birkehøjvej 1A 5591 Gelsted,0,376000.0,29-08-2001,Alm.,3298,4,Villa,114,1902,
+Hasselvej 19 5591 Gelsted,19,650000.0,21-08-2001,Fam.,3155,6,Villa,206,1890,
+Hasselvej 1 5591 Gelsted,1,855000.0,19-08-2001,Alm.,5777,6,Villa,148,1959,
+Agerstien 47 5591 Gelsted,47,480000.0,19-08-2001,Alm.,5647,4,Villa,85,1927,
+Gl. Odensevej 31 5591 Gelsted,31,800000.0,17-08-2001,Alm.,0,13,Villa,232,1890,
+Hylkedamvej 43 5591 Gelsted,43,625583.0,13-08-2001,Alm.,7108,3,Villa,88,1952,
+Fredensgade 11A 5591 Gelsted,0,460956.0,29-06-2001,Alm.,4390,4,Rækkehus,105,1965,
+Gelsted Byvej 22 5591 Gelsted,22,319588.0,25-06-2001,Andet,2959,4,Villa,108,1900,
+Toftevangen 9 5591 Gelsted,9,1095000.0,19-06-2001,Alm.,7398,6,Villa,148,1986,
+Søndergade 150 5591 Gelsted,150,220000.0,16-06-2001,Alm.,2135,4,Villa,103,1930,
+Søndergade 120 5591 Gelsted,120,579000.0,15-06-2001,Alm.,5790,4,Villa,100,1928,
+Hovvej 16 5591 Gelsted,16,796185.0,08-05-2001,Alm.,5854,5,Stuehus,136,1800,
+Søndergade 24 5591 Gelsted,24,537106.0,19-04-2001,Alm.,4711,5,Villa,114,1886,
+Møllevej 5 5591 Gelsted,5,996860.0,01-03-2001,Alm.,5138,8,Villa,194,1900,
+Tårupvej 30 5591 Gelsted,30,300000.0,22-02-2001,Alm.,3000,4,Villa,100,1958,
+Tårupvej 50 5591 Gelsted,50,100000.0,22-02-2001,Alm.,555,6,Villa,180,2001,
+Tårupvej 41 5591 Gelsted,41,1078344.0,19-01-2001,Alm.,5924,6,Villa,182,1969,
+Tanderupvej 1 5591 Gelsted,1,1050000.0,17-01-2001,Fam.,4150,11,Villa,253,1849,
+Gl. Odensevej 24 5591 Gelsted,24,580000.0,12-12-2000,Alm.,3790,6,Villa,153,1935,
+Agerstien 44 5591 Gelsted,44,349145.0,11-12-2000,Alm.,1781,6,Villa,196,1913,
+Skaboes Gyde 4 5591 Gelsted,4,414174.0,05-12-2000,Alm.,6680,3,Villa,62,1951,
+Møllevej 51 5591 Gelsted,51,975000.0,23-11-2000,Alm.,5386,10,Villa,181,1890,
+Grønnegade 12 5591 Gelsted,12,300000.0,20-11-2000,Fam.,3571,3,Villa,84,1963,
+Søndergade 133 5591 Gelsted,133,453094.0,05-11-2000,Fam.,3512,6,Villa,129,1897,
+Dalbovej 12 5591 Gelsted,12,424990.0,06-10-2000,Alm.,5312,3,Villa,80,1904,
+Kingstrupvej 103 5591 Gelsted,103,685000.0,19-09-2000,Alm.,5805,4,Villa,118,1964,
+Kingstrup Mosevej 4 5591 Gelsted,4,550000.0,12-09-2000,Alm.,4782,5,Villa,115,1900,
+Søndergade 178 5591 Gelsted,178,485554.0,01-09-2000,Andet,2822,4,Villa,172,1905,
+Søndergade 9 5591 Gelsted,9,511110.0,24-08-2000,Alm.,5679,3,Villa,90,1870,
+Kobbermosevej 14 5591 Gelsted,14,726000.0,21-08-2000,Alm.,0,7,Villa,225,1948,
+Agerstien 31 5591 Gelsted,31,476000.0,21-08-2000,Fam.,4212,6,Stuehus,113,1904,
+Søndergade 38 5591 Gelsted,38,662000.0,17-08-2000,Alm.,7438,4,Rækkehus,89,1905,
+Søndergade 75 5591 Gelsted,75,550000.0,07-08-2000,Fam.,2910,8,Rækkehus,189,1912,
+Søndergade 108 5591 Gelsted,108,586000.0,03-08-2000,Alm.,5745,4,Villa,102,1912,
+Enggårdsvej 4 5591 Gelsted,4,434571.0,26-07-2000,Alm.,4099,3,Villa,106,1953,
+Sivkærvej 12 5591 Gelsted,12,500000.0,26-07-2000,Alm.,5376,3,Villa,93,1964,
+Kingstrupvej 124 5591 Gelsted,124,500000.0,03-07-2000,Alm.,3521,6,Villa,142,1910,
+Nymarksvej 16 5591 Gelsted,16,850000.0,30-06-2000,Alm.,5089,7,Stuehus,167,1902,
+Toftevangen 49 5591 Gelsted,49,920000.0,29-06-2000,Alm.,0,5,Villa,162,1989,
+Fredensgade 15 5591 Gelsted,15,1163000.0,29-06-2000,Alm.,4886,6,Villa,238,1964,
+Fredensgade 11B 5591 Gelsted,0,375000.0,28-06-2000,Alm.,3571,4,Rækkehus,105,1965,
+Hovvej 14 5591 Gelsted,14,650000.0,05-06-2000,Alm.,3066,7,Stuehus,212,1914,
+Hovvej 42 5591 Gelsted,42,1281392.0,23-05-2000,Alm.,5644,7,Villa,227,1860,
+Kingstrupvej 104 5591 Gelsted,104,280000.0,15-05-2000,Alm.,2333,4,Villa,120,1895,
+Søndergade 157 5591 Gelsted,157,1045000.0,08-05-2000,Alm.,5903,5,Villa,177,1976,
+Ruerne 16 5591 Gelsted,16,350000.0,18-04-2000,Fam.,3500,3,Villa,100,1840,
+Ludvigsgårdevej 14 5591 Gelsted,14,75000.0,12-04-2000,Alm.,669,3,Villa,112,1907,
+Østergade 11 5591 Gelsted,11,403750.0,07-04-2000,Fam.,3105,4,Villa,130,1910,
+Hasselvej 11 5591 Gelsted,11,584000.0,04-04-2000,Alm.,4527,6,Villa,129,1960,
+Hønneruplundvej 8 5591 Gelsted,8,935000.0,30-03-2000,Alm.,3116,7,Stuehus,300,1939,
+Tanderupvej 37 5591 Gelsted,37,100000.0,28-03-2000,Alm.,555,8,Villa,180,1910,
+Rolundvej 13 5591 Gelsted,13,425000.0,26-03-2000,Alm.,3935,3,Villa,108,1962,
+Nymarksvej 15 5591 Gelsted,15,3624000.0,10-03-2000,Fam.,16777,7,Stuehus,216,1974,
+Søndergade 3 5591 Gelsted,3,510000.0,09-03-2000,Alm.,0,4,Villa,121,1885,
+Tårupvej 51 5591 Gelsted,51,960000.0,11-02-2000,Alm.,6114,4,Villa,157,1968,
+Hårevej 66 5591 Gelsted,66,639802.0,09-02-2000,Alm.,7439,3,Villa,86,1960,
+Annexvej 2 5591 Gelsted,2,655900.0,04-02-2000,Alm.,2246,9,Stuehus,292,1874,
+Kingstrupvej 130 5591 Gelsted,130,2525200.0,29-12-1999,Alm.,7560,10,Villa,334,1870,
+Tanderupvej 5 5591 Gelsted,5,534164.0,13-12-1999,Alm.,5564,4,Villa,96,1928,
+Søndergade 39 5591 Gelsted,39,510000.0,30-11-1999,Alm.,0,3,Villa,152,1902,
+Sivkærvej 10 5591 Gelsted,10,550000.0,04-11-1999,Alm.,6043,3,Villa,91,1964,
+Dammen 10 5591 Gelsted,10,251899.0,25-10-1999,Alm.,2738,4,Villa,92,1900,
+Grønnegade 23 5591 Gelsted,23,990000.0,27-09-1999,Alm.,5789,7,Villa,171,1900,
+Ørsbjergskov 2 5591 Gelsted,2,395000.0,27-09-1999,Alm.,2781,4,Villa,142,2002,
+Præstegårdsvej 1 5591 Gelsted,1,330000.0,26-09-1999,Alm.,2750,4,Villa,120,1913,
+Tornhøjvangen 1 5591 Gelsted,1,174033.0,16-09-1999,Alm.,972,7,Villa,179,2001,
+Lundevej 7 5591 Gelsted,7,975001.0,07-09-1999,Alm.,4333,7,Villa,225,1974,
+Tanderupvej 66 5591 Gelsted,66,543000.0,24-08-1999,Alm.,6464,6,Villa,84,1927,
+Søndergade 99 5591 Gelsted,99,486000.0,17-08-1999,Alm.,4153,6,Villa,117,1900,
+Assensvej 50 5591 Gelsted,50,1980000.0,05-08-1999,Alm.,9611,6,Stuehus,206,1950,
+Fyrrevej 3 5591 Gelsted,3,761899.0,30-07-1999,Alm.,6683,5,Villa,114,1984,
+Østergade 9 5591 Gelsted,9,430000.0,08-07-1999,Alm.,2239,6,Villa,192,1900,
+Tårup Udlod 38 5591 Gelsted,38,615974.0,24-06-1999,Alm.,0,7,Villa,193,1952,
+Tanderupvej 67 5591 Gelsted,67,975000.0,09-06-1999,Alm.,4028,8,Villa,242,1876,
+Søndergade 25 5591 Gelsted,25,496000.0,01-04-1999,Alm.,3468,8,Villa,143,1900,
+Agerstien 7 5591 Gelsted,7,575210.0,30-03-1999,Alm.,3640,6,Stuehus,158,1877,
+Agerstien 27 5591 Gelsted,27,1109000.0,29-03-1999,Alm.,7493,6,Stuehus,148,1894,
+Birkehøjvej 5 5591 Gelsted,5,350000.0,29-03-1999,Alm.,2734,4,Villa,128,1944,
+Birkehøjvej 7 5591 Gelsted,7,210000.0,29-03-1999,Andet,1206,5,Villa,174,1999,
+Gl. Odensevej 28 5591 Gelsted,28,440000.0,16-03-1999,Alm.,5238,3,Villa,84,1935,
+Enggårdsvej 16 5591 Gelsted,16,1763818.0,02-03-1999,Alm.,12334,5,Stuehus,143,1980,
+Tårupvej 1 5591 Gelsted,1,749000.0,04-02-1999,Alm.,4380,6,Villa,171,1917,
+Tårupvej 31 5591 Gelsted,31,688922.0,02-02-1999,Alm.,0,4,Villa,120,1964,
+Østergade 19 5591 Gelsted,19,455000.0,25-01-1999,Auktion,2808,6,Villa,162,1920,
+Dalbovej 4 5591 Gelsted,4,370000.0,17-12-1998,Alm.,0,8,Stuehus,182,1908,
+Rolundvej 26 5591 Gelsted,26,420000.0,11-11-1998,Alm.,4000,5,Villa,105,1966,
+Agerstien 21 5591 Gelsted,21,1195000.0,27-10-1998,Alm.,6096,7,Stuehus,196,1877,
+Søndergade 181 5591 Gelsted,181,1073840.0,26-10-1998,Alm.,8135,4,Villa,132,1930,
+Hasselvej 3 5591 Gelsted,3,455000.0,04-09-1998,Alm.,4212,4,Villa,108,1963,
+Aulbjergvej 1 5591 Gelsted,1,70000.0,31-08-1998,Alm.,1129,2,Villa,62,1900,
+Søndergade 73 5591 Gelsted,73,815500.0,03-08-1998,Alm.,6085,5,Villa,134,1910,
+Hønnerupvej 12 5591 Gelsted,12,186000.0,06-07-1998,Alm.,2214,4,Villa,84,1850,
+Svinget 11 5591 Gelsted,11,1125000.0,29-06-1998,Alm.,3879,6,Villa,290,1900,
+Hylkedamvej 62 5591 Gelsted,62,410000.0,03-06-1998,Alm.,0,8,Villa,205,1872,
+Lungeskovvej 19 5591 Gelsted,19,585000.0,25-05-1998,Alm.,0,6,Villa,245,1880,
+Østergade 2 5591 Gelsted,2,532000.0,25-05-1998,Alm.,5066,5,Villa,105,1922,
+Toftevangen 7 5591 Gelsted,7,946240.0,25-05-1998,Alm.,7569,4,Villa,125,1986,
+Dyregårdsvej 19 5591 Gelsted,19,780000.0,12-05-1998,Fam.,6000,6,Stuehus,130,1927,
+Fredehjemsvej 6 5591 Gelsted,6,400000.0,29-04-1998,Fam.,3361,5,Stuehus,119,1905,
+Hedestedvej 5 5591 Gelsted,5,768000.0,16-03-1998,Alm.,8727,4,Stuehus,88,1930,
+Søndergade 116 5591 Gelsted,116,384000.0,23-02-1998,Alm.,5120,3,Villa,75,1936,
+Ludvigsgårdevej 2 5591 Gelsted,2,953800.0,21-01-1998,Fam.,6911,5,Stuehus,138,1906,
+Lundevej 26 5591 Gelsted,26,419412.0,12-01-1998,Alm.,0,6,Villa,140,1974,
+Kobbermosevej 1 5591 Gelsted,1,495000.0,28-11-1997,Alm.,2690,6,Villa,184,1938,
+Tjørnevej 14B 5591 Gelsted,0,524000.0,30-10-1997,Alm.,5634,2,Rækkehus,93,1979,
+Ørsbjergskov 7 5591 Gelsted,7,831000.0,18-10-1997,Alm.,4350,5,Villa,191,1917,
+Aulbjergvej 5 5591 Gelsted,5,500000.0,27-08-1997,Alm.,3012,6,Stuehus,166,1924,
+Gelsted Byvej 11 5591 Gelsted,11,266000.0,15-08-1997,Alm.,3325,3,Villa,80,1900,
+Tjørnevej 14A 5591 Gelsted,0,465000.0,14-08-1997,Andet,5000,2,Villa,93,1979,
+Hovvej 6 5591 Gelsted,6,700000.0,14-08-1997,Andet,4242,7,Villa,165,1910,
+Møllevej 21 5591 Gelsted,21,700000.0,01-08-1997,Fam.,4827,4,Villa,145,1968,
+Hylkedamvej 73 5591 Gelsted,73,335000.0,21-07-1997,Alm.,4135,4,Villa,81,1880,
+Agerstien 11 5591 Gelsted,11,600000.0,23-06-1997,Alm.,5000,4,Stuehus,120,1860,
+Hylkedamvej 71 5591 Gelsted,71,237573.0,05-05-1997,Alm.,3599,3,Villa,66,1943,
+Toftevangen 47 5591 Gelsted,47,53795.0,02-05-1997,Alm.,316,7,Villa,170,1998,
+Toftevangen 51 5591 Gelsted,51,71155.0,14-04-1997,Alm.,390,7,Villa,182,1997,
+Koldinghave 13 5591 Gelsted,13,300000.0,31-03-1997,Fam.,2654,5,Villa,113,1830,
+Gelsted Byvej 20 5591 Gelsted,20,280500.0,20-03-1997,Fam.,2077,6,Villa,135,1913,
+Grønnegade 14 5591 Gelsted,14,278000.0,13-01-1997,Alm.,2504,4,Villa,111,1964,
+Tellerupvej 24 5591 Gelsted,24,306800.0,30-12-1996,Alm.,3652,3,Villa,84,1910,
+Toftevangen 35 5591 Gelsted,35,52080.0,18-12-1996,Alm.,349,5,Villa,149,1997,
+Søndergade 52 5591 Gelsted,52,235000.0,16-12-1996,Alm.,0,6,Villa,127,1917,
+Møllevej 40 5591 Gelsted,40,360000.0,12-12-1996,Alm.,0,7,Villa,141,1890,
+Gelstedvej 44 5591 Gelsted,44,327023.0,12-11-1996,Alm.,4360,3,Villa,75,1950,
+Tanderupvej 9 5591 Gelsted,9,383200.0,04-11-1996,Auktion,0,4,Villa,125,1965,
+Kingstrupvej 126 5591 Gelsted,126,272519.0,08-10-1996,Alm.,3539,4,Villa,77,1964,
+Hovvej 25 5591 Gelsted,25,100000.0,23-09-1996,Alm.,0,4,Villa,150,1867,
+Toftevangen 33 5591 Gelsted,33,91192.0,19-08-1996,Alm.,0,7,Villa,205,1997,
+Hylkedamvej 64 5591 Gelsted,64,410000.0,19-08-1996,Alm.,3445,3,Villa,119,1942,
+Tårup Udlod 26 5591 Gelsted,26,65000.0,29-07-1996,Alm.,1015,3,Villa,64,1973,
+Tanderupvej 59 5591 Gelsted,59,326000.0,15-07-1996,Alm.,2202,4,Villa,148,1915,
+Sivkærvej 11 5591 Gelsted,11,189070.0,11-07-1996,Andet,1488,4,Villa,127,1907,
+Hønnerupvej 15 5591 Gelsted,15,295000.0,24-06-1996,Alm.,1832,3,Villa,161,1867,
+Sivkærvej 28 5591 Gelsted,28,275000.0,17-06-1996,Alm.,1858,6,Villa,148,1952,
+Møllevej 18 5591 Gelsted,18,608000.0,10-05-1996,Alm.,0,7,Villa,185,1872,
+Kingstrupvej 101 5591 Gelsted,101,325000.0,08-04-1996,Alm.,4850,2,Villa,67,1880,
+Dalbovej 13 5591 Gelsted,13,320000.0,29-01-1996,Alm.,3555,2,Stuehus,90,1800,
+Søndergade 177A 5591 Gelsted,0,700000.0,08-01-1996,Alm.,3500,6,Villa,200,1977,
+Østergade 18 5591 Gelsted,18,485000.0,21-12-1995,Alm.,4008,5,Villa,121,1930,
+Søndergade 169 5591 Gelsted,169,504000.0,11-12-1995,Andet,3625,3,Villa,139,1965,
+Møllevej 34 5591 Gelsted,34,542968.0,16-11-1995,Andet,2561,5,Villa,212,1973,
+Gl. Odensevej 14 5591 Gelsted,14,280000.0,30-10-1995,Alm.,2857,4,Villa,98,1955,
+Søndergade 188 5591 Gelsted,188,440000.0,18-10-1995,Alm.,4190,4,Villa,105,1912,
+Gelsted Byvej 30 5591 Gelsted,30,203631.0,11-10-1995,Andet,2036,4,Villa,100,1947,
+Hønnerupvej 14 5591 Gelsted,14,1125000.0,22-09-1995,Alm.,0,6,Stuehus,178,1720,
+Hovvej 48 5591 Gelsted,48,545000.0,13-09-1995,Alm.,5677,3,Villa,96,1900,
+Tellerupvej 15 5591 Gelsted,15,6000000.0,24-06-1995,Alm.,27272,11,Stuehus,220,1929,
+Gelstedvej 59 5591 Gelsted,59,250000.0,21-06-1995,Alm.,1893,5,Villa,132,1920,
+Gelsted Byvej 12 5591 Gelsted,12,295000.0,08-06-1995,Alm.,2360,6,Villa,125,1892,
+Gelstedskovvej 9 5591 Gelsted,9,650000.0,08-05-1995,Fam.,7647,3,Stuehus,85,1888,
+Gelstedvej 42 5591 Gelsted,42,200325.0,08-05-1995,Alm.,927,9,Stuehus,216,1953,
+Troldemoseled 5 5591 Gelsted,5,650000.0,23-03-1995,Fam.,0,3,Stuehus,149,1877,
+Møllevej 28 5591 Gelsted,28,415000.0,20-03-1995,Alm.,2748,8,Villa,151,1970,
+Banevolden 8 5591 Gelsted,8,395000.0,10-03-1995,Alm.,3160,5,Villa,125,1924,
+Lundevej 14 5591 Gelsted,14,455000.0,24-01-1995,Alm.,0,5,Villa,210,1971,
+Søndergade 48 5591 Gelsted,48,350000.0,22-12-1994,Alm.,3153,5,Villa,111,1911,
+Kirkebakken 4 5591 Gelsted,4,190000.0,20-11-1994,Alm.,2714,3,Villa,70,1802,
+Enggårdsvej 6 5591 Gelsted,6,120000.0,07-10-1994,Alm.,1290,4,Villa,93,1912,
+Hasselvej 5 5591 Gelsted,5,325000.0,15-09-1994,Alm.,3571,3,Villa,91,1950,
+Fredensgade 10 5591 Gelsted,10,290000.0,29-08-1994,Alm.,2735,3,Villa,106,1962,
+Fyrrevej 20 5591 Gelsted,20,925000.0,14-08-1994,Alm.,6045,6,Villa,153,1987,
+Tellerupvej 44 5591 Gelsted,44,1005000.0,29-07-1994,Alm.,4222,8,Stuehus,238,1902,
+Søndergade 140 5591 Gelsted,140,470000.0,29-03-1994,Alm.,0,7,Villa,74,1906,
+Søndergade 131 5591 Gelsted,131,175000.0,14-03-1994,Alm.,2692,4,Villa,65,1896,
+Søndergade 173 5591 Gelsted,173,325000.0,14-02-1994,Alm.,2754,4,Villa,118,1962,
+Hårevej 67 5591 Gelsted,67,400000.0,05-02-1994,Alm.,0,5,Villa,112,1969,
+Gelsted Mose 5 5591 Gelsted,5,136792.0,31-01-1994,Fam.,1455,3,Villa,94,1938,
+Søndergade 166 5591 Gelsted,166,150000.0,20-01-1994,Alm.,1442,4,Villa,104,1925,
+Dyregårdsvej 8 5591 Gelsted,8,625000.0,12-01-1994,Alm.,8928,3,Stuehus,70,1852,
+Tårupvej 47 5591 Gelsted,47,310000.0,05-11-1993,Alm.,2330,5,Villa,133,1965,
+Agerstien 5 5591 Gelsted,5,375000.0,04-11-1993,Alm.,0,7,Stuehus,172,1938,
+Hørkærvej 21 5591 Gelsted,21,237000.0,29-10-1993,Andet,2154,5,Villa,110,1900,
+Tårup Udlod 10 5591 Gelsted,10,426000.0,29-10-1993,Alm.,1463,4,Stuehus,291,1870,
+Hønnerupvej 5 5591 Gelsted,5,1000000.0,27-10-1993,Alm.,3717,7,Villa,269,1914,
+Hedestedvej 6 5591 Gelsted,6,465000.0,26-10-1993,Alm.,0,5,Stuehus,128,1680,
+Søndergade 36 5591 Gelsted,36,250000.0,26-10-1993,Alm.,2906,4,Rækkehus,86,1897,
+Søndergade 62 5591 Gelsted,62,425000.0,23-09-1993,Alm.,0,6,Villa,171,1972,
+Søndergade 183 5591 Gelsted,183,510000.0,16-08-1993,Alm.,0,6,Villa,153,1952,
+Hasselvej 7 5591 Gelsted,7,132000.0,21-06-1993,Auktion,1941,3,Villa,68,1960,
+Søndergade 40 5591 Gelsted,40,140500.0,21-06-1993,Auktion,1170,5,Villa,120,1900,
+Søndergade 186 5591 Gelsted,186,229799.0,18-06-1993,Andet,0,3,Villa,138,1906,
+Agerstien 2 5591 Gelsted,2,650000.0,15-06-1993,Alm.,3080,7,Stuehus,211,1905,
+Toftevangen 19 5591 Gelsted,19,660000.0,27-05-1993,Alm.,0,7,Villa,171,1986,
+Lungeskovvej 23 5591 Gelsted,23,650000.0,06-04-1993,Alm.,5000,3,Stuehus,130,1920,
+Møllevej 54 5591 Gelsted,54,524000.0,27-02-1993,Alm.,3589,7,Stuehus,146,1909,
+Agerstien 18 5591 Gelsted,18,1080000.0,19-02-1993,Fam.,7200,6,Stuehus,150,1914,
+Gelsted Byvej 18 5591 Gelsted,18,314500.0,29-09-1992,Fam.,1621,5,Villa,194,1910,
+Dalbovej 7 5591 Gelsted,7,335000.0,03-09-1992,Alm.,3681,4,Villa,91,1827,
+Fyrrevej 8 5591 Gelsted,8,670000.0,17-08-1992,Fam.,3333,7,Villa,201,1973,
+Gelsted Byvej 27 5591 Gelsted,27,365000.0,15-07-1992,Alm.,0,6,Villa,104,1897,
+Højbovænget 13 5591 Gelsted,13,510000.0,15-06-1992,Alm.,5049,4,Villa,101,1974,
+Brændemøllevej 7 5591 Gelsted,7,485000.0,20-04-1992,Alm.,3880,5,Villa,125,1919,
+Toftevej 12 5591 Gelsted,12,403000.0,16-04-1992,Alm.,0,5,Villa,143,1978,
+Gelstedvej 53 5591 Gelsted,53,300000.0,02-04-1992,Alm.,2586,4,Villa,116,1964,
+Toftevej 16 5591 Gelsted,16,143445.0,02-03-1992,Andet,0,6,Villa,156,1978,
+Søndergade 138 5591 Gelsted,138,385000.0,17-02-1992,Alm.,0,6,Villa,124,1903,
+Dalbovej 10 5591 Gelsted,10,550000.0,10-02-1992,Alm.,3741,5,Villa,147,1970,
+Assensvej 30 5591 Gelsted,30,1969250.0,29-01-1992,Fam.,6115,12,Stuehus,322,1912,
+Hjortegyden 30 5591 Gelsted,30,550000.0,24-01-1992,Alm.,0,11,Stuehus,414,1857,

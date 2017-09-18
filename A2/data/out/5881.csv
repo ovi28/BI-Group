@@ -1,0 +1,672 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Skårup Vinkelvej 13 5881 Skårup Fyn,5881,1350000.0,20-04-2017,Alm.,9183,6,Villa,147,1914,-3 %
+Plovskiftet 16 5881 Skårup Fyn,5881,2760000.0,12-04-2017,Alm.,14918,5,Villa,185,2008,-5 %
+Skårup Vesterløkke 14 5881 Skårup Fyn,5881,2750000.0,11-04-2017,Alm.,12731,6,Villa,216,1967,
+Skårup Vestergade 49 5881 Skårup Fyn,5881,685000.0,15-03-2017,Alm.,8253,2,Villa,83,1959,-9 %
+Toftevej 8 5881 Skårup Fyn,5881,1025000.0,22-02-2017,Alm.,10677,4,Villa,96,1965,-11 %
+Åbyskovvej 3B 5881 Skårup Fyn,5881,2000000.0,16-02-2017,Fam.,12345,6,Villa,162,1985,
+Vidjekrogen 6 5881 Skårup Fyn,5881,2195000.0,10-02-2017,Alm.,13065,6,Villa,168,2000,0 %
+Skårup Stationsvej 1 5881 Skårup Fyn,5881,725000.0,27-01-2017,Alm.,4898,3,Villa,148,1901,-9 %
+Nyborgvej 443 5881 Skårup Fyn,5881,1225000.0,27-01-2017,Alm.,9800,3,Villa,125,1870,-6 %
+Holmdrup Huse 1 5881 Skårup Fyn,5881,1000000.0,08-01-2017,Fam.,3937,9,Stuehus,254,1877,
+Vildmarken 12 5881 Skårup Fyn,5881,1193844.0,04-01-2017,Alm.,13881,4,Villa,86,1957,
+Nyborgvej 508 5881 Skårup Fyn,5881,478266.0,08-12-2016,Alm.,3985,5,Villa,120,1900,
+Skårupøre Strandvej 52C 5881 Skårup Fyn,5881,1950000.0,07-12-2016,Alm.,9653,4,Villa,202,1850,
+Ulkens Dal 4 5881 Skårup Fyn,5881,755000.0,01-12-2016,Alm.,12583,3,Villa,60,1950,9 %
+Nyborgvej 516 5881 Skårup Fyn,5881,450000.0,01-12-2016,Alm.,3947,4,Villa,114,1900,
+Skårupørevej 38 5881 Skårup Fyn,5881,822000.0,29-11-2016,Fam.,5871,4,Villa,140,1870,
+Skibsbakken 47 5881 Skårup Fyn,5881,2250000.0,22-11-2016,Fam.,13005,5,Villa,173,2004,-19 %
+Åbyskovvej 72 5881 Skårup Fyn,5881,4350000.0,27-09-2016,Alm.,16666,6,Villa,261,2006,0 %
+Østergade 54 5881 Skårup Fyn,5881,1105000.0,22-09-2016,Fam.,10523,4,Villa,105,1827,
+Åbyskovvænget 5 5881 Skårup Fyn,5881,1650000.0,12-09-2016,Alm.,8461,7,Villa,195,1971,10 %
+Åbyskovvej 43 5881 Skårup Fyn,5881,950000.0,26-08-2016,Alm.,7364,5,Villa,129,1878,-12 %
+Brohave 1 5881 Skårup Fyn,5881,775000.0,29-07-2016,Fam.,19375,4,Sommerhus,40,1934,
+Mosegårdsvej 12 5881 Skårup Fyn,5881,1025000.0,28-07-2016,Alm.,9318,4,Villa,110,1964,-13 %
+Skårupørevej 26 5881 Skårup Fyn,5881,3425000.0,19-07-2016,Alm.,16387,6,Villa,209,1877,-7 %
+Traverskiftet 14 5881 Skårup Fyn,5881,1600000.0,06-07-2016,Alm.,9696,6,Villa,165,1973,-6 %
+P A Wedels Vej 1 5881 Skårup Fyn,5881,1235000.0,30-06-2016,Alm.,10291,4,Villa,120,1971,-5 %
+Åbyvænget 10 5881 Skårup Fyn,5881,1100000.0,29-06-2016,Fam.,6875,6,Villa,160,2006,
+Vidjekrogen 10B 5881 Skårup Fyn,5881,2100000.0,27-06-2016,Alm.,16935,4,Villa,124,2005,-3 %
+Skårupøre Strandvej 53B 5881 Skårup Fyn,5881,1700000.0,21-06-2016,Alm.,17708,4,Villa,96,1986,
+Åbyvænget 7 5881 Skårup Fyn,5881,1187500.0,09-06-2016,Alm.,7711,6,Villa,154,2005,
+Skårupørevej 8 5881 Skårup Fyn,5881,1395000.0,31-05-2016,Alm.,8506,4,Villa,164,1905,0 %
+Emil Rostrups Vej 20 5881 Skårup Fyn,5881,915000.0,17-05-2016,Alm.,7561,4,Rækkehus,121,1981,-16 %
+Vidjekrogen 4 5881 Skårup Fyn,5881,1800000.0,12-05-2016,Alm.,10714,6,Villa,168,2000,-8 %
+Nørremarken 19 5881 Skårup Fyn,5881,2000000.0,06-05-2016,Alm.,13071,6,Villa,153,1950,-9 %
+Skibsvej 6B 5881 Skårup Fyn,5881,600000.0,30-03-2016,Alm.,7500,3,Villa,80,1963,-14 %
+Toftevej 2 5881 Skårup Fyn,5881,1495000.0,16-03-2016,Alm.,8794,4,Villa,170,1950,0 %
+Holmdrup Huse 3 5881 Skårup Fyn,5881,1800000.0,10-03-2016,Fam.,8294,8,Stuehus,217,1892,
+Lærketoften 1 5881 Skårup Fyn,5881,1425000.0,18-02-2016,Andet,11875,4,Villa,120,1966,
+Nørremarken 42 5881 Skårup Fyn,5881,1887000.0,11-02-2016,Alm.,12750,5,Stuehus,148,1972,-16 %
+Åbyskovvej 45 5881 Skårup Fyn,5881,1300000.0,04-02-2016,Alm.,8724,5,Villa,149,1877,2 %
+Skårupørevej 6 5881 Skårup Fyn,5881,1000000.0,29-01-2016,Alm.,11363,3,Villa,88,1906,
+Agerskiftet 6 5881 Skårup Fyn,5881,2625000.0,20-01-2016,Alm.,15261,5,Villa,172,2008,-5 %
+P A Wedels Vej 7 5881 Skårup Fyn,5881,1425000.0,23-12-2015,Alm.,10106,5,Villa,141,1973,-5 %
+Lærketoften 6 5881 Skårup Fyn,5881,1000000.0,10-12-2015,Alm.,6250,6,Villa,160,1971,-16 %
+Skårupøre Strandvej 106 5881 Skårup Fyn,5881,1600000.0,01-12-2015,Alm.,17021,2,Sommerhus,94,1727,
+Plovskiftet 3 5881 Skårup Fyn,5881,2025000.0,06-11-2015,Alm.,11250,5,Villa,180,2009,-12 %
+Skårupørevej 41 5881 Skårup Fyn,5881,1435000.0,06-11-2015,Alm.,8294,7,Stuehus,173,1939,
+Traverskiftet 5A 5881 Skårup Fyn,5881,492455.0,22-09-2015,Andet,3877,4,Villa,127,1979,
+Vængemosevej 1 5881 Skårup Fyn,5881,1075000.0,21-09-2015,Alm.,4182,9,Villa,257,1912,-53 %
+Skårupøre Strandvej 133 5881 Skårup Fyn,5881,254400.0,27-08-2015,Auktion,2035,3,Villa,125,1875,-57 %
+Vildmarken 9 5881 Skårup Fyn,5881,650000.0,14-08-2015,Alm.,7558,4,Villa,86,1954,-23 %
+Skårup Stationsvej 9 5881 Skårup Fyn,5881,370000.0,06-08-2015,Alm.,2824,5,Rækkehus,131,1893,-25 %
+Nørremarken 21 5881 Skårup Fyn,5881,1225000.0,23-07-2015,Alm.,11036,4,Villa,111,1985,-5 %
+Åbyskovtoften 10 5881 Skårup Fyn,5881,1300000.0,22-07-2015,Alm.,7975,4,Villa,163,1976,-18 %
+Plovskiftet 60 5881 Skårup Fyn,5881,2722500.0,11-07-2015,Alm.,16702,5,Villa,163,2008,
+Åbyvejen 12 5881 Skårup Fyn,5881,660000.0,10-07-2015,Alm.,5280,5,Villa,125,1952,
+Nyborgvej 406 5881 Skårup Fyn,5881,710000.0,10-07-2015,Alm.,5725,4,Villa,124,1972,-25 %
+Skårupøre Strandvej 64 5881 Skårup Fyn,5881,3800000.0,30-06-2015,Alm.,23312,6,Villa,163,1768,
+Holmdrup Huse 17 5881 Skårup Fyn,5881,500000.0,29-06-2015,Alm.,3521,6,Villa,142,1875,
+Nyborgvej 405 5881 Skårup Fyn,5881,645500.0,23-06-2015,Andet,5517,5,Villa,117,1936,
+"P A Wedels Vej 2, ST 5881 Skårup Fyn",5881,503000.0,02-06-2015,Alm.,1352,3,Villa,372,1880,1 %
+Vidjekrogen 5A 5881 Skårup Fyn,5881,75000.0,27-05-2015,Alm.,362,5,Stuehus,207,1987,
+Plovskiftet 14 5881 Skårup Fyn,5881,1875000.0,24-04-2015,Alm.,13204,5,Villa,142,2008,-11 %
+Vildmarken 6 5881 Skårup Fyn,5881,800000.0,21-04-2015,Alm.,7766,4,Villa,103,1946,-20 %
+Holmdrup Stævning 1 5881 Skårup Fyn,5881,1750000.0,21-04-2015,Alm.,15909,5,Villa,110,1947,-8 %
+Agerskiftet 5 5881 Skårup Fyn,5881,325000.0,16-04-2015,Alm.,1766,5,Villa,184,2016,-13 %
+Åbyvejen 56 5881 Skårup Fyn,5881,1975000.0,13-04-2015,Alm.,9101,7,Villa,217,1827,-1 %
+Nyborgvej 464 5881 Skårup Fyn,5881,1296000.0,13-04-2015,Alm.,5837,9,Stuehus,222,1960,
+Nyborgvej 404 5881 Skårup Fyn,5881,1020000.0,19-03-2015,Alm.,8500,5,Villa,120,1951,-11 %
+Skårupørevej 37 5881 Skårup Fyn,5881,280000.0,16-03-2015,Alm.,1048,7,Stuehus,267,1947,
+Skovmøllevej 16 5881 Skårup Fyn,5881,650000.0,09-03-2015,Alm.,2697,8,Villa,241,1827,-18 %
+Dalmosevej 5 5881 Skårup Fyn,5881,590000.0,07-03-2015,Alm.,6020,4,Villa,98,1827,
+Skibsbakken 41 5881 Skårup Fyn,5881,1500000.0,05-03-2015,Andet,8241,4,Villa,182,2005,-56 %
+Skårupørevej 3 5881 Skårup Fyn,5881,1100000.0,04-03-2015,Alm.,10476,4,Villa,105,1973,
+Skårupørevej 33 5881 Skårup Fyn,5881,250000.0,03-03-2015,Alm.,2252,4,Stuehus,111,1852,
+Traverskiftet 2D 5881 Skårup Fyn,5881,580000.0,16-02-2015,Alm.,7160,3,Rækkehus,81,1979,-27 %
+Skovmøllevej 18 5881 Skårup Fyn,5881,1750000.0,03-02-2015,Alm.,17500,4,Stuehus,100,1877,-5 %
+Klingstrup Løkke 1 5881 Skårup Fyn,5881,1950000.0,30-01-2015,Alm.,11271,5,Villa,173,1989,-9 %
+Østergade 66A 5881 Skårup Fyn,5881,510000.0,08-01-2015,Andet,3445,5,Villa,148,1961,-57 %
+Plovskiftet 28 5881 Skårup Fyn,5881,1800000.0,08-01-2015,Alm.,15000,4,Villa,120,2010,-6 %
+Rosenkildevej 1 5881 Skårup Fyn,5881,154850.0,01-12-2014,Alm.,614,8,Stuehus,252,1900,
+Skårup Vestergade 48 5881 Skårup Fyn,5881,350000.0,27-11-2014,Alm.,2413,2,Villa,145,1917,
+Traverskiftet 7 5881 Skårup Fyn,5881,1350000.0,19-11-2014,Alm.,8653,6,Villa,156,1973,-10 %
+Skårup Vestergade 1 5881 Skårup Fyn,5881,1175000.0,13-11-2014,Alm.,10779,4,Villa,109,1925,-6 %
+Skårup Vestergade 53 5881 Skårup Fyn,5881,1000000.0,09-10-2014,Alm.,6993,6,Villa,143,1930,-7 %
+Skårup Vestergade 27 5881 Skårup Fyn,5881,200000.0,02-10-2014,Alm.,1086,6,Villa,184,1856,
+Skårup Stationsvej 7 5881 Skårup Fyn,5881,613354.0,29-08-2014,Andet,4791,5,Villa,128,1897,
+Østergade 59 5881 Skårup Fyn,5881,620000.0,20-08-2014,Alm.,2707,10,Villa,229,1908,
+Åbyskovvej 32 5881 Skårup Fyn,5881,1170000.0,17-08-2014,Alm.,9512,5,Villa,123,1969,-2 %
+Skårupøre Strandvej 86 5881 Skårup Fyn,5881,2925000.0,15-08-2014,Alm.,17620,5,Villa,166,1777,-2 %
+Skårup Vestergade 40 5881 Skårup Fyn,5881,1025000.0,07-08-2014,Alm.,5570,6,Villa,184,1827,0 %
+Skårup Stationsvej 11 5881 Skårup Fyn,5881,1395000.0,21-07-2014,Alm.,7622,6,Villa,183,1900,-7 %
+Ulkens Dal 7 5881 Skårup Fyn,5881,4400000.0,10-07-2014,Alm.,13580,7,Stuehus,324,1834,34 %
+Agerskiftet 7 5881 Skårup Fyn,5881,326151.0,03-07-2014,Alm.,1885,6,Villa,173,2015,-13 %
+Skårupøre Strandvej 60 5881 Skårup Fyn,5881,4850000.0,19-06-2014,Alm.,14306,8,Villa,339,1975,-3 %
+Nyborgvej 436 5881 Skårup Fyn,5881,575000.0,05-06-2014,Alm.,5989,4,Villa,96,1959,-17 %
+Nyborgvej 439 5881 Skårup Fyn,5881,479104.0,04-06-2014,Alm.,3685,7,Villa,130,1888,
+Nyborgvej 430 5881 Skårup Fyn,5881,950000.0,20-05-2014,Alm.,7539,4,Villa,126,1942,-5 %
+Nyborgvej 431 5881 Skårup Fyn,5881,825000.0,19-04-2014,Alm.,6547,5,Villa,126,1934,-6 %
+Skibsbakken 9 5881 Skårup Fyn,5881,1925000.0,05-04-2014,Alm.,12581,5,Villa,153,2006,-4 %
+Nørremarken 38 5881 Skårup Fyn,5881,350000.0,04-04-2014,Alm.,1643,9,Villa,213,1800,-50 %
+Skovmøllevej 3 5881 Skårup Fyn,5881,625000.0,27-03-2014,Alm.,4401,5,Villa,142,1947,-16 %
+Åbyskovvej 28 5881 Skårup Fyn,5881,980000.0,11-03-2014,Alm.,10537,3,Villa,93,1960,-2 %
+Skovdongvej 8 5881 Skårup Fyn,5881,650000.0,18-02-2014,Fam.,4276,5,Villa,152,1924,
+Åbyvejen 34 5881 Skårup Fyn,5881,1140000.0,14-02-2014,Alm.,8837,4,Villa,129,1970,-1 %
+Åbyskovvej 4 5881 Skårup Fyn,5881,230000.0,14-02-2014,Alm.,1074,5,Stuehus,214,1925,
+Åbyskovvej 44 5881 Skårup Fyn,5881,975000.0,05-12-2013,Alm.,9466,3,Villa,103,1961,-7 %
+Østergade 33 5881 Skårup Fyn,5881,215000.0,03-10-2013,Alm.,1396,4,Villa,154,1927,-46 %
+Vesterled 8 5881 Skårup Fyn,5881,549004.0,17-09-2013,Andet,5718,4,Villa,96,1957,
+Brohave 18 5881 Skårup Fyn,5881,1475000.0,14-09-2013,Alm.,26339,2,Sommerhus,56,2015,-6 %
+Åbyskovvej 8 5881 Skårup Fyn,5881,2300000.0,22-08-2013,Alm.,11794,7,Stuehus,195,1892,-11 %
+Lærketoften 2 5881 Skårup Fyn,5881,1012500.0,08-08-2013,Alm.,9288,3,Villa,109,1966,-6 %
+Åbyskovvej 50 5881 Skårup Fyn,5881,2300000.0,23-07-2013,Alm.,13855,6,Villa,166,1998,-4 %
+Nyborgvej 381 5881 Skårup Fyn,5881,1000000.0,03-07-2013,Alm.,7246,5,Villa,138,1916,-9 %
+Vesterled 7 5881 Skårup Fyn,5881,1155000.0,27-06-2013,Alm.,9625,4,Villa,120,1981,-3 %
+Nyborgvej 410 5881 Skårup Fyn,5881,150000.0,21-06-2013,Alm.,1181,5,Villa,127,1906,-65 %
+Skårupøre Strandvej 52 5881 Skårup Fyn,5881,725000.0,13-06-2013,Fam.,5330,5,Villa,136,1907,
+Østergade 20 5881 Skårup Fyn,5881,1360000.0,01-06-2013,Alm.,7311,7,Villa,186,1727,
+Nørremarken 22 5881 Skårup Fyn,5881,4631000.0,30-05-2013,Alm.,22925,8,Stuehus,202,1979,
+Østergade 21 5881 Skårup Fyn,5881,775505.0,29-05-2013,Alm.,4757,6,Villa,163,1907,-59 %
+Skårup Vestergade 16 5881 Skårup Fyn,5881,1235000.0,24-05-2013,Alm.,11026,4,Villa,112,1935,-11 %
+Åbyvejen 4 5881 Skårup Fyn,5881,875000.0,21-05-2013,Alm.,10937,2,Villa,80,1959,-8 %
+Østergade 49 5881 Skårup Fyn,5881,1875000.0,23-04-2013,Alm.,9191,7,Villa,204,1899,0 %
+"Agerskiftet 3, ST 5881 Skårup Fyn",5881,439950.0,14-02-2013,Alm.,2221,5,Villa,198,2013,
+Åbyvænget 13 5881 Skårup Fyn,5881,838893.0,28-01-2013,Alm.,4877,5,Villa,172,2005,
+Traverskiftet 35 5881 Skårup Fyn,5881,1000000.0,27-01-2013,Alm.,6410,5,Villa,156,1976,-16 %
+Skårup Vestergade 30 5881 Skårup Fyn,5881,945000.0,28-12-2012,Alm.,8437,4,Villa,112,1931,-5 %
+Skårup Vesterløkke 10 5881 Skårup Fyn,5881,1375000.0,25-12-2012,Alm.,10826,4,Villa,127,1962,-8 %
+Plovskiftet 56 5881 Skårup Fyn,5881,2400000.0,17-12-2012,Alm.,14634,5,Villa,164,2008,-8 %
+Skovdongvej 3 5881 Skårup Fyn,5881,1000000.0,16-11-2012,Alm.,6622,6,Villa,151,1792,-37 %
+Agerskiftet 9 5881 Skårup Fyn,5881,236057.0,21-09-2012,Fam.,1198,4,Villa,197,2013,
+Oluf Rings Vej 7 5881 Skårup Fyn,5881,1250000.0,13-09-2012,Alm.,6578,6,Villa,190,1962,-10 %
+Åbyvejen 26 5881 Skårup Fyn,5881,750000.0,29-08-2012,Andet,4385,4,Villa,171,1877,
+Plovskiftet 6 5881 Skårup Fyn,5881,439950.0,24-08-2012,Alm.,2894,5,Villa,152,2013,
+Vildmarken 8 5881 Skårup Fyn,5881,750000.0,18-07-2012,Alm.,4934,6,Villa,152,1944,-6 %
+Østermarken 125 5881 Skårup Fyn,5881,1100000.0,09-07-2012,Fam.,7913,5,Villa,139,2003,
+Rosenkildevej 6 5881 Skårup Fyn,5881,450000.0,29-06-2012,Alm.,3600,5,Villa,125,1900,-24 %
+Plovskiftet 4 5881 Skårup Fyn,5881,439950.0,26-06-2012,Alm.,3410,3,Villa,129,2013,
+Skovdongvej 9 5881 Skårup Fyn,5881,1175000.0,13-06-2012,Alm.,8703,4,Villa,135,2015,-13 %
+P A Wedels Vej 6 5881 Skårup Fyn,5881,673500.0,29-05-2012,Andet,5026,6,Villa,134,1970,-57 %
+Skårupøre Strandvej 103 5881 Skårup Fyn,5881,1100000.0,21-05-2012,Alm.,8730,5,Villa,126,1827,
+"Agerskiftet 12, ST 5881 Skårup Fyn",5881,580734.0,09-05-2012,Alm.,3396,5,Villa,171,2013,
+Emil Rostrups Vej 32 5881 Skårup Fyn,5881,1600000.0,26-04-2012,Alm.,10322,4,Villa,155,1998,-6 %
+Skårup Vestergade 51 5881 Skårup Fyn,5881,1655000.0,17-04-2012,Alm.,11033,6,Villa,150,1930,-6 %
+Traverskiftet 37 5881 Skårup Fyn,5881,800000.0,23-03-2012,Alm.,6722,4,Villa,119,1977,
+Skårup Vesterløkke 15 5881 Skårup Fyn,5881,1395000.0,23-03-2012,Alm.,10568,4,Villa,132,1961,0 %
+Plovskiftet 25 5881 Skårup Fyn,5881,465000.0,23-02-2012,Alm.,2235,6,Villa,208,2012,
+Emil Rostrups Vej 22 5881 Skårup Fyn,5881,900000.0,17-02-2012,Alm.,10465,4,Rækkehus,86,1981,-16 %
+Skovmøllevej 2 5881 Skårup Fyn,5881,512069.0,18-01-2012,Alm.,4655,4,Villa,110,1949,-53 %
+Skårupørevej 35 5881 Skårup Fyn,5881,1950000.0,17-01-2012,Alm.,16250,2,Stuehus,120,1827,-6 %
+Nørremarken 14 5881 Skårup Fyn,5881,600000.0,13-01-2012,Alm.,5042,5,Villa,119,1777,-25 %
+Skibsbakken 20 5881 Skårup Fyn,5881,913750.0,12-01-2012,Fam.,4993,6,Villa,183,2006,
+Plovskiftet 58 5881 Skårup Fyn,5881,1107500.0,05-01-2012,Fam.,6794,5,Villa,163,2008,
+Nyborgvej 419 5881 Skårup Fyn,5881,920000.0,02-11-2011,Alm.,8363,5,Villa,110,1942,
+Holmdrupvej 11 5881 Skårup Fyn,5881,1575000.0,24-10-2011,Alm.,4659,9,Stuehus,338,1907,
+Plovskiftet 54 5881 Skårup Fyn,5881,2450000.0,10-10-2011,Alm.,15605,5,Villa,157,2008,-2 %
+Traverskiftet 30 5881 Skårup Fyn,5881,850000.0,23-09-2011,Alm.,7727,4,Villa,110,1972,
+Traverskiftet 20 5881 Skårup Fyn,5881,800000.0,15-09-2011,Fam.,6250,4,Villa,128,1973,
+Nyborgvej 401A 5881 Skårup Fyn,5881,2400000.0,06-09-2011,Alm.,15094,5,Villa,159,2006,-6 %
+Brohave 10 5881 Skårup Fyn,5881,1450000.0,25-08-2011,Alm.,29591,2,Sommerhus,49,2013,
+Skovmøllevej 22 5881 Skårup Fyn,5881,1800000.0,19-08-2011,Alm.,8653,6,Villa,208,1827,-4 %
+Åbyskovvej 3 5881 Skårup Fyn,5881,1175000.0,22-07-2011,Alm.,11190,4,Villa,105,1880,-13 %
+Plovskiftet 8 5881 Skårup Fyn,5881,439950.0,12-07-2011,Alm.,2256,6,Villa,195,2012,
+Skårupørevej 28 5881 Skårup Fyn,5881,1900000.0,27-06-2011,Andet,11875,3,Villa,160,1850,
+Østergade 23 5881 Skårup Fyn,5881,995000.0,05-06-2011,Alm.,5467,5,Villa,182,1900,0 %
+Bjergagervej 2 5881 Skårup Fyn,5881,1800000.0,08-05-2011,Alm.,14516,3,Villa,124,1930,
+Skårupøre Strandvej 93 5881 Skårup Fyn,5881,2600000.0,06-05-2011,Alm.,15853,5,Villa,164,1893,
+Åbyvejen 51 5881 Skårup Fyn,5881,1725000.0,13-04-2011,Alm.,7912,9,Villa,218,1827,-4 %
+Åbyvænget 1 5881 Skårup Fyn,5881,1057046.0,16-03-2011,Alm.,6445,6,Villa,164,2006,
+Skovdongvej 10 5881 Skårup Fyn,5881,1050000.0,07-03-2011,Alm.,4150,6,Villa,253,1850,-19 %
+Oluf Rings Vej 15A 5881 Skårup Fyn,5881,2015000.0,02-03-2011,Alm.,12212,5,Villa,165,1969,
+Elletoften 2 5881 Skårup Fyn,5881,900000.0,15-02-2011,Alm.,8571,3,Villa,105,1964,-18 %
+Nyborgvej 499 5881 Skårup Fyn,5881,660000.0,04-02-2011,Fam.,5454,4,Villa,121,1877,
+Rønnowsvej 2 5881 Skårup Fyn,5881,5960800.0,12-01-2011,Fam.,27724,7,Stuehus,215,1931,
+Plovskiftet 10 5881 Skårup Fyn,5881,376000.0,09-12-2010,Alm.,2410,4,Villa,156,2012,
+Vestergårds Allé 24 5881 Skårup Fyn,5881,440000.0,07-12-2010,Alm.,2619,4,Villa,168,2011,
+Åbyvejen 45 5881 Skårup Fyn,5881,2275000.0,06-12-2010,Alm.,12569,6,Villa,181,1998,-3 %
+Østermarken 5 5881 Skårup Fyn,5881,870000.0,26-10-2010,Alm.,14500,2,Rækkehus,60,1980,-3 %
+Brohave 17 5881 Skårup Fyn,5881,1600000.0,06-10-2010,Alm.,30769,3,Sommerhus,52,2013,-16 %
+Traverskiftet 45 5881 Skårup Fyn,5881,1100000.0,29-09-2010,Alm.,8088,5,Villa,136,1973,
+Skårupøre Strandvej 125A 5881 Skårup Fyn,5881,600000.0,29-09-2010,Alm.,9836,3,Sommerhus,61,2012,
+Skovmøllevej 4 5881 Skårup Fyn,5881,845565.0,23-09-2010,Alm.,3676,8,Villa,230,1913,
+Skårupøre Strandvej 68 5881 Skårup Fyn,5881,1753125.0,20-09-2010,Alm.,9739,6,Villa,180,1880,
+Åbyvænget 15 5881 Skårup Fyn,5881,2500000.0,13-09-2010,Alm.,14792,4,Villa,169,2005,-3 %
+Holmdrup Stævning 2 5881 Skårup Fyn,5881,1480000.0,09-09-2010,Alm.,9487,5,Villa,156,1915,-7 %
+Åbyskovvej 7 5881 Skårup Fyn,5881,700000.0,03-09-2010,Alm.,6250,4,Villa,112,1907,-30 %
+Skårup Vinkelvej 11 5881 Skårup Fyn,5881,1310000.0,10-08-2010,Alm.,9225,6,Villa,142,1907,-6 %
+Agerskiftet 4 5881 Skårup Fyn,5881,425000.0,15-07-2010,Alm.,2814,6,Villa,151,2011,
+Skårup Vesterløkke 4 5881 Skårup Fyn,5881,2100000.0,13-07-2010,Alm.,13636,8,Villa,154,1955,-8 %
+Åbyvænget 20 5881 Skårup Fyn,5881,2225000.0,10-07-2010,Alm.,10906,6,Villa,204,2008,-5 %
+Skårup Vesterløkke 13 5881 Skårup Fyn,5881,1000000.0,02-07-2010,Alm.,8695,5,Villa,115,1961,
+Plovskiftet 50 5881 Skårup Fyn,5881,495000.0,01-07-2010,Alm.,2487,7,Villa,199,2011,
+Plovskiftet 17 5881 Skårup Fyn,5881,495000.0,18-06-2010,Alm.,2028,6,Villa,244,2012,
+Åbyskovvej 58B 5881 Skårup Fyn,5881,1300000.0,08-06-2010,Fam.,4037,8,Villa,322,1975,-54 %
+Skårupørevej 5 5881 Skårup Fyn,5881,1172500.0,08-06-2010,Alm.,14126,3,Villa,83,1957,-2 %
+Rosenkildevej 2 5881 Skårup Fyn,5881,1485000.0,04-06-2010,Alm.,14702,4,Villa,101,1924,-10 %
+"Rosenkildevej 5, ST 5881 Skårup Fyn",5881,610000.0,01-06-2010,Alm.,1783,7,Lejlighed,342,1916,
+Emil Rostrups Vej 3 5881 Skårup Fyn,5881,1275000.0,06-05-2010,Alm.,13421,3,Villa,95,1981,
+Skårupøre Strandvej 102B 5881 Skårup Fyn,5881,791300.0,22-04-2010,Fam.,31652,1,Sommerhus,25,1950,
+Mosegårdsvej 14 5881 Skårup Fyn,5881,1450000.0,20-04-2010,Alm.,12184,4,Villa,119,1969,
+Nyborgvej 494 5881 Skårup Fyn,5881,45000.0,22-03-2010,Alm.,145,10,Villa,309,1890,
+Vestergårds Allé 26 5881 Skårup Fyn,5881,440000.0,10-03-2010,Alm.,2732,4,Villa,161,2010,
+Vesterled 15 5881 Skårup Fyn,5881,2000000.0,15-02-2010,Alm.,10362,5,Villa,193,1980,-7 %
+Skårupøre Strandvej 75 5881 Skårup Fyn,5881,3400000.0,25-01-2010,Alm.,11805,10,Villa,288,1974,-3 %
+Plovskiftet 23 5881 Skårup Fyn,5881,495000.0,13-01-2010,Alm.,1995,6,Villa,248,2012,
+Skårup Vestergade 36 5881 Skårup Fyn,5881,1270000.0,02-12-2009,Alm.,10241,4,Villa,124,1935,-9 %
+Skårup Vestergade 11 5881 Skårup Fyn,5881,1800000.0,01-12-2009,Alm.,13235,5,Villa,136,1927,-5 %
+Åbyskovtoften 5 5881 Skårup Fyn,5881,1700000.0,24-11-2009,Auktion,8717,6,Villa,195,1971,-32 %
+Skårupøre Strandvej 91 5881 Skårup Fyn,5881,2925000.0,11-11-2009,Alm.,19500,5,Villa,150,1965,
+Skårupøre Strandvej 78A 5881 Skårup Fyn,5881,4400000.0,30-09-2009,Alm.,47311,4,Sommerhus,93,2002,
+P A Wedels Vej 8 5881 Skårup Fyn,5881,1570000.0,28-09-2009,Alm.,14403,4,Villa,109,1970,-5 %
+Rønnowsvej 3 5881 Skårup Fyn,5881,1825000.0,18-09-2009,Alm.,10798,6,Villa,169,1924,-9 %
+Dalmosevej 3 5881 Skårup Fyn,5881,2800000.0,17-08-2009,Alm.,14141,5,Villa,198,1727,-7 %
+Vidjekrogen 1A 5881 Skårup Fyn,5881,1985000.0,16-08-2009,Alm.,16404,4,Villa,121,2001,-4 %
+Agerskiftet 1 5881 Skårup Fyn,5881,375000.0,11-08-2009,Alm.,2314,6,Villa,162,2010,
+Traverskiftet 18 5881 Skårup Fyn,5881,1150000.0,31-07-2009,Fam.,10360,4,Villa,111,1973,
+Nyborgvej 432 5881 Skårup Fyn,5881,1400000.0,16-07-2009,Alm.,11111,5,Villa,126,1941,-5 %
+Agerskiftet 8 5881 Skårup Fyn,5881,425000.0,09-07-2009,Alm.,2741,5,Villa,155,2010,
+Skårupøre Strandvej 135 5881 Skårup Fyn,5881,1150000.0,26-06-2009,Alm.,7823,5,Villa,147,1850,-16 %
+Plovskiftet 38 5881 Skårup Fyn,5881,500101.0,16-06-2009,Alm.,2632,5,Villa,190,2010,-7 %
+Holmdrup Huse 4 5881 Skårup Fyn,5881,1750000.0,11-06-2009,Andet,8064,7,Villa,217,1852,
+Agerskiftet 11 5881 Skårup Fyn,5881,375000.0,09-06-2009,Alm.,2884,4,Villa,130,2010,
+Skårupøre Strandvej 89 5881 Skårup Fyn,5881,2000000.0,07-06-2009,Alm.,9216,5,Villa,217,2011,
+Ågårdsvej 5 5881 Skårup Fyn,5881,1200000.0,18-05-2009,Andet,10169,6,Stuehus,118,1800,
+Nyborgvej 417 5881 Skårup Fyn,5881,1550000.0,11-05-2009,Alm.,11742,3,Villa,132,1933,-21 %
+Vestergårds Allé 13 5881 Skårup Fyn,5881,400000.0,15-04-2009,Alm.,3571,4,Villa,112,2009,
+Åbyskovvej 25 5881 Skårup Fyn,5881,1172358.0,07-04-2009,Alm.,9159,6,Stuehus,128,1910,
+P A Wedels Vej 16 5881 Skårup Fyn,5881,1883000.0,12-03-2009,Alm.,15561,5,Villa,121,1964,-10 %
+Åbyvejen 55 5881 Skårup Fyn,5881,1000000.0,23-02-2009,Alm.,8547,5,Villa,117,1926,-23 %
+Emil Rostrups Vej 30 5881 Skårup Fyn,5881,1025000.0,21-02-2009,Alm.,11918,4,Rækkehus,86,1982,-14 %
+Skovmøllevej 7 5881 Skårup Fyn,5881,4200000.0,18-02-2009,Alm.,16216,8,Villa,259,1907,-11 %
+Skårupøre Strandvej 102A 5881 Skårup Fyn,5881,3750000.0,17-02-2009,Alm.,16741,4,Villa,224,2011,
+Nørremarken 34 5881 Skårup Fyn,5881,5000000.0,08-12-2008,Alm.,75757,4,Villa,66,1850,
+Skårupøre Strandvej 66 5881 Skårup Fyn,5881,4000000.0,05-12-2008,Fam.,16326,8,Villa,245,1967,
+Skibsbakken 22 5881 Skårup Fyn,5881,2245000.0,10-11-2008,Fam.,16268,5,Villa,138,2002,
+Toftevej 7 5881 Skårup Fyn,5881,2000000.0,23-10-2008,Alm.,13157,5,Villa,152,1967,-5 %
+Skårupøre Strandvej 76 5881 Skårup Fyn,5881,1456250.0,19-10-2008,Fam.,13483,5,Sommerhus,108,1827,
+Holmdrupvej 17 5881 Skårup Fyn,5881,1450000.0,06-10-2008,Alm.,8011,7,Villa,181,1889,
+Skårupøre Strandvej 117 5881 Skårup Fyn,5881,2500000.0,30-09-2008,Fam.,10729,8,Villa,233,1962,
+Emil Rostrups Vej 12 5881 Skårup Fyn,5881,1220000.0,16-09-2008,Alm.,12842,4,Rækkehus,95,1981,-2 %
+Skårupøre Strandvej 62 5881 Skårup Fyn,5881,2475000.0,15-09-2008,Andet,11049,6,Villa,224,2006,
+Skårupøre Strandvej 105 5881 Skårup Fyn,5881,2420000.0,14-09-2008,Alm.,23495,4,Villa,103,1869,-18 %
+Traverskiftet 4D 5881 Skårup Fyn,5881,1250000.0,12-09-2008,Alm.,15432,3,Rækkehus,81,1979,-3 %
+Åbyvejen 32 5881 Skårup Fyn,5881,1295000.0,10-09-2008,Fam.,10038,4,Villa,129,1967,0 %
+Agerskiftet 2 5881 Skårup Fyn,5881,425000.0,09-09-2008,Alm.,2814,5,Villa,151,2009,
+Ulkens Dal 11 5881 Skårup Fyn,5881,1326000.0,08-09-2008,Alm.,9750,5,Villa,136,1899,4 %
+Plovskiftet 20 5881 Skårup Fyn,5881,375000.0,28-08-2008,Alm.,2329,4,Villa,161,2009,
+Ågårdsvej 2 5881 Skårup Fyn,5881,700000.0,19-07-2008,Alm.,8235,4,Stuehus,85,1777,
+Plovskiftet 48 5881 Skårup Fyn,5881,495000.0,09-07-2008,Alm.,3018,5,Villa,164,2009,
+Skårupørevej 40 5881 Skårup Fyn,5881,795000.0,30-06-2008,Alm.,8641,5,Villa,92,1867,0 %
+Skårup Vinkelvej 3 5881 Skårup Fyn,5881,1950000.0,30-06-2008,Alm.,10597,6,Villa,184,1916,-11 %
+Kærvej 14 5881 Skårup Fyn,5881,1650000.0,22-06-2008,Alm.,12222,4,Villa,135,1934,0 %
+Ågårdsvej 7 5881 Skårup Fyn,5881,2525000.0,04-06-2008,Alm.,12688,8,Villa,199,1900,-3 %
+Åbyvejen 10B 5881 Skårup Fyn,5881,1475000.0,20-05-2008,Alm.,12291,5,Villa,120,1967,
+Skårupøre Strandvej 65 5881 Skårup Fyn,5881,1250000.0,13-05-2008,Fam.,6510,5,Stuehus,192,2009,
+Åbyskovvej 47 5881 Skårup Fyn,5881,1510000.0,28-04-2008,Alm.,8388,6,Villa,180,1872,-11 %
+Plovskiftet 46 5881 Skårup Fyn,5881,510000.0,18-04-2008,Alm.,3017,5,Villa,169,2009,
+Plovskiftet 15 5881 Skårup Fyn,5881,495000.0,18-04-2008,Alm.,2462,6,Villa,201,2009,
+Plovskiftet 42 5881 Skårup Fyn,5881,495000.0,17-04-2008,Alm.,2647,5,Villa,187,2009,
+Plovskiftet 32 5881 Skårup Fyn,5881,495000.0,17-04-2008,Alm.,2812,4,Villa,176,2012,
+Emil Rostrups Vej 19 5881 Skårup Fyn,5881,1900000.0,03-04-2008,Alm.,9268,7,Villa,205,1985,-5 %
+Skårup Vesterløkke 12 5881 Skårup Fyn,5881,2095000.0,02-04-2008,Alm.,15181,5,Villa,138,1963,
+Østergade 12 5881 Skårup Fyn,5881,1255000.0,30-03-2008,Alm.,9365,5,Villa,134,1827,2 %
+P A Wedels Vej 10 5881 Skårup Fyn,5881,1350000.0,27-03-2008,Alm.,11946,3,Villa,113,1969,-15 %
+Plovskiftet 36 5881 Skårup Fyn,5881,495000.0,13-02-2008,Alm.,2861,5,Villa,173,2009,
+Nyborgvej 429 5881 Skårup Fyn,5881,1250000.0,01-02-2008,Alm.,6868,6,Villa,182,1930,
+Plovskiftet 22 5881 Skårup Fyn,5881,375000.0,01-02-2008,Alm.,2604,5,Villa,144,2009,
+Plovskiftet 24 5881 Skårup Fyn,5881,375000.0,28-01-2008,Alm.,2622,4,Villa,143,2009,
+Nyborgvej 412 5881 Skårup Fyn,5881,1900000.0,25-01-2008,Alm.,11111,7,Villa,171,1950,-3 %
+Holmdrup Stævning 4 5881 Skårup Fyn,5881,1375000.0,17-01-2008,Alm.,11956,5,Villa,115,1850,-8 %
+Traverskiftet 26 5881 Skårup Fyn,5881,2085000.0,16-01-2008,Alm.,13807,4,Villa,151,1972,0 %
+Nyborgvej 416 5881 Skårup Fyn,5881,1355000.0,16-01-2008,Alm.,13415,5,Villa,101,1964,
+Plovskiftet 7 5881 Skårup Fyn,5881,495000.0,14-01-2008,Alm.,2379,6,Villa,208,2011,
+Åbyvænget 16 5881 Skårup Fyn,5881,510000.0,28-12-2007,Alm.,3017,4,Villa,169,2008,
+Nyborgvej 489 5881 Skårup Fyn,5881,2500000.0,28-12-2007,Alm.,21186,3,Villa,118,1963,
+Agerskiftet 16 5881 Skårup Fyn,5881,495000.0,21-12-2007,Alm.,3055,4,Villa,162,2008,
+Østergade 22 5881 Skårup Fyn,5881,2100000.0,20-12-2007,Alm.,9051,6,Villa,232,1920,-4 %
+Agerskiftet 14 5881 Skårup Fyn,5881,548313.0,19-12-2007,Alm.,3655,5,Villa,150,2009,
+Plovskiftet 26 5881 Skårup Fyn,5881,386500.0,19-12-2007,Alm.,2477,5,Villa,156,2008,
+Plovskiftet 40 5881 Skårup Fyn,5881,546150.0,19-12-2007,Alm.,2395,5,Villa,228,2010,
+Agerskiftet 10 5881 Skårup Fyn,5881,430300.0,13-12-2007,Alm.,2218,5,Villa,194,2011,
+Vildmarken 20 5881 Skårup Fyn,5881,1595000.0,10-12-2007,Alm.,18546,3,Villa,86,1954,0 %
+P A Wedels Vej 5 5881 Skårup Fyn,5881,2100000.0,17-11-2007,Alm.,12209,5,Villa,172,1971,
+Skårupørevej 51 5881 Skårup Fyn,5881,2375000.0,08-11-2007,Alm.,13571,7,Villa,175,1967,
+Skårupørevej 4 5881 Skårup Fyn,5881,1290000.0,30-10-2007,Alm.,11120,5,Villa,116,1963,
+Holmdrup Huse 21 5881 Skårup Fyn,5881,3575000.0,27-10-2007,Alm.,17354,6,Stuehus,206,1860,0 %
+Plovskiftet 1 5881 Skårup Fyn,5881,500500.0,24-10-2007,Alm.,2502,6,Villa,200,2008,
+Åbyvejen 22 5881 Skårup Fyn,5881,1550000.0,19-10-2007,Alm.,18023,3,Villa,86,1953,-2 %
+Vildmarken 3 5881 Skårup Fyn,5881,1625000.0,18-10-2007,Alm.,13655,4,Villa,119,1925,0 %
+Nyborgvej 398 5881 Skårup Fyn,5881,1150000.0,03-09-2007,Alm.,6845,6,Villa,168,1937,-4 %
+Nørremarken 45 5881 Skårup Fyn,5881,2550000.0,24-08-2007,Alm.,16346,4,Villa,156,1967,-2 %
+Skårupørevej 20 5881 Skårup Fyn,5881,2150000.0,21-08-2007,Alm.,17916,4,Villa,120,1880,-2 %
+Skårup Vestergade 26 5881 Skårup Fyn,5881,600511.0,10-08-2007,Andet,6065,4,Villa,99,1914,
+Emil Rostrups Vej 14 5881 Skårup Fyn,5881,1050000.0,26-07-2007,Alm.,12209,4,Rækkehus,86,1981,
+Vildmarken 16 5881 Skårup Fyn,5881,1465000.0,23-07-2007,Alm.,12107,4,Villa,121,1953,-2 %
+Nyborgvej 441 5881 Skårup Fyn,5881,1250000.0,23-07-2007,Alm.,7485,4,Villa,167,1890,
+Plovskiftet 18 5881 Skårup Fyn,5881,407900.0,16-07-2007,Alm.,2549,5,Villa,160,2008,
+Brohave 2 5881 Skårup Fyn,5881,70000.0,13-07-2007,Alm.,2692,2,Sommerhus,26,1934,
+Åbyvænget 18 5881 Skårup Fyn,5881,2150000.0,28-06-2007,Alm.,16929,5,Villa,127,2006,
+Plovskiftet 64 5881 Skårup Fyn,5881,425000.0,25-06-2007,Alm.,3014,3,Villa,141,2013,
+Skibsbakken 35 5881 Skårup Fyn,5881,3715000.0,24-06-2007,Alm.,18033,5,Villa,206,2006,-2 %
+Åbyvejen 47 5881 Skårup Fyn,5881,1398000.0,19-06-2007,Alm.,11365,4,Villa,123,1908,0 %
+Åbyvejen 30 5881 Skårup Fyn,5881,465863.0,24-05-2007,Andet,2545,6,Villa,183,1968,
+Plovskiftet 12 5881 Skårup Fyn,5881,375000.0,20-05-2007,Alm.,2314,6,Villa,162,2008,
+Smutvej 4 5881 Skårup Fyn,5881,1300000.0,14-05-2007,Alm.,11403,3,Villa,114,1870,-5 %
+Åbyskovvej 11 5881 Skårup Fyn,5881,535771.0,14-05-2007,Alm.,5151,3,Villa,104,1911,
+Østermarken 123 5881 Skårup Fyn,5881,2700000.0,11-04-2007,Alm.,18000,5,Villa,150,2003,8 %
+Smutvej 5B 5881 Skårup Fyn,5881,950000.0,04-04-2007,Alm.,11875,3,Rækkehus,80,1984,
+Skovmøllevej 14 5881 Skårup Fyn,5881,1200000.0,10-03-2007,Fam.,5970,4,Villa,201,1947,
+Skårupøre Strandvej 78 5881 Skårup Fyn,5881,2175000.0,02-03-2007,Alm.,0,7,Villa,211,1800,
+Traverskiftet 4C 5881 Skårup Fyn,5881,885000.0,15-02-2007,Alm.,10925,3,Rækkehus,81,1979,
+Nyborgvej 422 5881 Skårup Fyn,5881,1250000.0,06-02-2007,Alm.,9191,4,Villa,136,1920,
+Nyborgvej 400 5881 Skårup Fyn,5881,1075000.0,24-01-2007,Alm.,7263,3,Villa,148,1948,
+Traverskiftet 19 5881 Skårup Fyn,5881,1495000.0,11-01-2007,Alm.,13348,3,Villa,112,1972,
+Plovskiftet 27 5881 Skårup Fyn,5881,425000.0,09-01-2007,Alm.,2485,5,Villa,171,2008,
+Skårup Vestergade 44 5881 Skårup Fyn,5881,1695000.0,23-12-2006,Alm.,10462,6,Villa,162,1932,
+Skårup Vestergade 57 5881 Skårup Fyn,5881,825000.0,20-12-2006,Alm.,7236,3,Villa,114,1935,
+Oluf Rings Vej 2 5881 Skårup Fyn,5881,650000.0,15-12-2006,Alm.,6074,3,Villa,107,1965,
+Plovskiftet 52 5881 Skårup Fyn,5881,425000.0,05-12-2006,Alm.,2428,4,Villa,175,2008,
+Oluf Rings Vej 20 5881 Skårup Fyn,5881,1195000.0,05-12-2006,Alm.,12578,4,Villa,95,1969,
+Vidjekrogen 1C 5881 Skårup Fyn,5881,4000000.0,29-11-2006,Alm.,12578,10,Stuehus,318,1870,
+Østergade 7 5881 Skårup Fyn,5881,1375000.0,28-11-2006,Alm.,8435,5,Villa,163,1897,
+Toftevej 5 5881 Skårup Fyn,5881,1150000.0,10-11-2006,Alm.,13690,2,Villa,84,1958,
+Åbyskovvej 60 5881 Skårup Fyn,5881,1785000.0,01-11-2006,Alm.,6050,5,Villa,295,1971,
+Åbyskovvej 6A 5881 Skårup Fyn,5881,536650.0,01-11-2006,Alm.,3806,7,Villa,141,1952,
+Traverskiftet 24 5881 Skårup Fyn,5881,1195000.0,31-10-2006,Alm.,10765,4,Villa,111,1972,
+Åbyvænget 12 5881 Skårup Fyn,5881,778240.0,25-10-2006,Alm.,3970,6,Villa,196,2007,
+Holmdrup Huse 25 5881 Skårup Fyn,5881,2800000.0,13-10-2006,Alm.,8722,6,Villa,321,1750,
+Østergade 16 5881 Skårup Fyn,5881,1050000.0,09-10-2006,Alm.,7241,6,Villa,145,1880,
+Østermarken 139 5881 Skårup Fyn,5881,2100000.0,09-10-2006,Alm.,15555,5,Villa,135,2000,
+Åbyvejen 6 5881 Skårup Fyn,5881,1025000.0,06-10-2006,Alm.,6446,5,Villa,159,1961,
+Vildmarken 11 5881 Skårup Fyn,5881,660000.0,03-10-2006,Fam.,4520,5,Villa,146,1956,
+Rønnowsvej 1 5881 Skårup Fyn,5881,3710000.0,27-09-2006,Alm.,19025,11,Stuehus,195,1914,
+Vidjekrogen 8A 5881 Skårup Fyn,5881,1122721.0,27-09-2006,Alm.,5909,6,Villa,190,2005,
+Skårupøre Strandvej 127 5881 Skårup Fyn,5881,2995000.0,26-09-2006,Alm.,30252,3,Villa,99,1948,
+Østergade 11 5881 Skårup Fyn,5881,1150000.0,26-09-2006,Alm.,11500,4,Villa,100,1899,
+Skibsbakken 21 5881 Skårup Fyn,5881,2825000.0,21-09-2006,Alm.,21564,4,Villa,131,2004,
+Skovmøllevej 5 5881 Skårup Fyn,5881,1795000.0,19-09-2006,Alm.,10945,6,Villa,164,1947,
+Skårupøre Strandvej 58A 5881 Skårup Fyn,5881,1190000.0,25-08-2006,Alm.,0,1,Sommerhus,46,1938,
+Skibsbakken 17 5881 Skårup Fyn,5881,3500000.0,23-08-2006,Alm.,21212,5,Villa,165,2001,
+Skårup Vinkelvej 5 5881 Skårup Fyn,5881,1395000.0,12-08-2006,Alm.,11625,4,Villa,120,1900,
+Degnetoften 9 5881 Skårup Fyn,5881,1495000.0,09-08-2006,Alm.,9285,5,Villa,161,1973,
+Åbyskovvej 15 5881 Skårup Fyn,5881,550000.0,20-07-2006,Alm.,8593,3,Rækkehus,64,1827,
+Elletoften 1 5881 Skårup Fyn,5881,1200000.0,13-07-2006,Alm.,11881,4,Villa,101,1965,
+Skårup Stationsvej 13 5881 Skårup Fyn,5881,860000.0,08-06-2006,Alm.,5477,6,Villa,157,1911,
+Nyborgvej 396 5881 Skårup Fyn,5881,695000.0,08-06-2006,Alm.,0,7,Villa,127,1944,
+Rønnowsvej 4 5881 Skårup Fyn,5881,1895000.0,01-06-2006,Alm.,11017,6,Villa,172,1877,
+Skibsbakken 11 5881 Skårup Fyn,5881,3575000.0,04-05-2006,Alm.,17105,5,Villa,209,2002,
+Vesterled 6 5881 Skårup Fyn,5881,1395000.0,03-05-2006,Alm.,10730,4,Villa,130,1950,
+Skovmøllevej 17 5881 Skårup Fyn,5881,2945000.0,31-03-2006,Alm.,6770,10,Villa,435,1827,
+Åbyskovvej 28C 5881 Skårup Fyn,5881,1465000.0,24-03-2006,Alm.,8932,5,Villa,164,1978,
+Østermarken 131 5881 Skårup Fyn,5881,2065000.0,22-03-2006,Alm.,14856,5,Villa,139,2003,
+Aspedam 5 5881 Skårup Fyn,5881,3600000.0,19-03-2006,Alm.,13688,6,Villa,263,1837,
+Smutvej 5A 5881 Skårup Fyn,5881,945000.0,06-03-2006,Alm.,11812,3,Rækkehus,80,1984,
+Åbyskovvænget 2 5881 Skårup Fyn,5881,1000000.0,03-03-2006,Fam.,5434,7,Villa,184,1970,
+Nyborgvej 428 5881 Skårup Fyn,5881,1440000.0,05-02-2006,Alm.,12100,4,Villa,119,1942,
+Skovdongvej 18 5881 Skårup Fyn,5881,3000000.0,29-01-2006,Andet,12711,6,Stuehus,236,1918,
+P A Wedels Vej 14 5881 Skårup Fyn,5881,1985000.0,03-01-2006,Alm.,10179,6,Villa,195,1965,
+Nyborgvej 504 5881 Skårup Fyn,5881,1090000.0,02-01-2006,Alm.,6812,5,Villa,160,1877,
+P A Wedels Vej 3 5881 Skårup Fyn,5881,1265000.0,06-12-2005,Alm.,10630,4,Villa,119,1971,
+Åbyskovtoften 6 5881 Skårup Fyn,5881,1525000.0,25-11-2005,Alm.,0,6,Villa,183,1971,
+Skårupørevej 49 5881 Skårup Fyn,5881,2600000.0,24-11-2005,Alm.,13756,5,Stuehus,189,1924,
+Vesterled 3 5881 Skårup Fyn,5881,2045000.0,07-11-2005,Alm.,0,6,Villa,185,1986,
+Åbyvejen 42 5881 Skårup Fyn,5881,1600000.0,19-10-2005,Alm.,8290,4,Villa,193,1979,
+Skårup Vestergade 50 5881 Skårup Fyn,5881,1045000.0,18-10-2005,Alm.,9330,4,Villa,112,1777,
+Skårupøre Strandvej 59 5881 Skårup Fyn,5881,912500.0,30-09-2005,Fam.,7733,4,Villa,118,1940,
+Østermarken 13 5881 Skårup Fyn,5881,780000.0,19-09-2005,Alm.,9629,3,Rækkehus,81,1980,
+Skibsbakken 15 5881 Skårup Fyn,5881,2425000.0,11-09-2005,Alm.,16724,5,Villa,145,2002,
+P A Wedels Vej 4 5881 Skårup Fyn,5881,1032000.0,07-09-2005,Alm.,6834,6,Villa,151,1969,
+Åbyvejen 14 5881 Skårup Fyn,5881,1175000.0,03-09-2005,Alm.,13662,4,Villa,86,1952,
+Skårupøre Strandvej 55 5881 Skårup Fyn,5881,1795000.0,31-08-2005,Alm.,9547,6,Villa,188,1902,
+Åbyvænget 24 5881 Skårup Fyn,5881,250000.0,12-08-2005,Alm.,1250,6,Villa,200,2007,
+Skårup Vestergade 6 5881 Skårup Fyn,5881,500000.0,10-08-2005,Alm.,3355,7,Villa,149,1916,
+Åbyvænget 8 5881 Skårup Fyn,5881,250000.0,10-08-2005,Alm.,1497,5,Villa,167,2006,
+Åbyvænget 22 5881 Skårup Fyn,5881,250000.0,09-08-2005,Alm.,1366,5,Villa,183,2008,
+Smutvej 3 5881 Skårup Fyn,5881,1150000.0,02-08-2005,Alm.,8984,4,Villa,128,1750,
+Skibsbakken 3 5881 Skårup Fyn,5881,250000.0,01-08-2005,Alm.,1748,5,Villa,143,2008,
+Holmdrup Huse 9 5881 Skårup Fyn,5881,1800000.0,11-07-2005,Alm.,15652,5,Villa,115,1930,
+Åbyvejen 20 5881 Skårup Fyn,5881,790000.0,07-07-2005,Alm.,9186,4,Villa,86,1952,
+Skårupørevej 45 5881 Skårup Fyn,5881,720000.0,04-07-2005,Alm.,8674,3,Villa,83,1901,
+Skibsbakken 25 5881 Skårup Fyn,5881,275000.0,01-07-2005,Alm.,1797,4,Villa,153,2008,
+Skibsbakken 27 5881 Skårup Fyn,5881,310000.0,29-06-2005,Alm.,1347,5,Villa,230,2010,
+Aspedam 1 5881 Skårup Fyn,5881,1750000.0,18-06-2005,Alm.,11290,5,Sommerhus,155,1998,
+Østermarken 127 5881 Skårup Fyn,5881,1595000.0,08-06-2005,Alm.,11557,5,Villa,138,1999,
+Skårup Kirkebakke 3 5881 Skårup Fyn,5881,2995000.0,19-05-2005,Alm.,10851,8,Villa,276,1846,
+Åbyvænget 14 5881 Skårup Fyn,5881,250000.0,08-05-2005,Alm.,1207,7,Villa,207,2008,
+Åbyvænget 26 5881 Skårup Fyn,5881,250000.0,03-05-2005,Alm.,1879,5,Villa,133,2006,
+Ørbækvej 199 5881 Skårup Fyn,5881,860000.0,03-05-2005,Alm.,6466,4,Villa,133,1943,
+Åbyskovvej 30 5881 Skårup Fyn,5881,1295000.0,29-04-2005,Alm.,10702,5,Villa,121,1967,
+Skibsvej 2 5881 Skårup Fyn,5881,1089938.0,28-04-2005,Alm.,0,6,Villa,192,1955,
+Ørbækvej 197 5881 Skårup Fyn,5881,2200000.0,19-04-2005,Alm.,11702,5,Stuehus,188,1884,
+Skibsbakken 26 5881 Skårup Fyn,5881,474078.0,31-03-2005,Alm.,2008,6,Villa,236,2007,
+Dalmosevej 6 5881 Skårup Fyn,5881,975000.0,23-03-2005,Alm.,8552,3,Stuehus,114,1877,
+Åbyskovvænget 3 5881 Skårup Fyn,5881,1350000.0,21-03-2005,Alm.,9712,5,Villa,139,1971,
+Åbyvænget 3 5881 Skårup Fyn,5881,195000.0,17-03-2005,Alm.,1535,4,Villa,127,2005,
+Skibsbakken 33 5881 Skårup Fyn,5881,384078.0,16-03-2005,Alm.,2630,4,Villa,146,2006,
+Nørremarken 36 5881 Skårup Fyn,5881,1545000.0,13-03-2005,Alm.,10729,4,Villa,144,1847,
+Nørremarken 17 5881 Skårup Fyn,5881,730000.0,11-03-2005,Alm.,7373,4,Villa,99,1949,
+Østermarken 7 5881 Skårup Fyn,5881,496500.0,05-03-2005,Alm.,8275,2,Rækkehus,60,1980,
+Toftevej 11 5881 Skårup Fyn,5881,1575000.0,03-03-2005,Alm.,7720,6,Villa,204,1973,
+Nyborgvej 480 5881 Skårup Fyn,5881,500000.0,03-03-2005,Alm.,6250,4,Villa,80,1900,
+Skårupøre Strandvej 83 5881 Skårup Fyn,5881,2100000.0,02-03-2005,Alm.,12209,6,Villa,172,1963,
+Nørremarken 43B 5881 Skårup Fyn,5881,525000.0,17-02-2005,Alm.,4200,6,Villa,125,1910,
+Traverskiftet 5B 5881 Skårup Fyn,5881,883254.0,01-02-2005,Andet,4266,4,Villa,207,1965,
+Brohave 20 5881 Skårup Fyn,5881,621000.0,28-01-2005,Fam.,8871,3,Sommerhus,70,2011,
+Brohave 11 5881 Skårup Fyn,5881,332000.0,28-01-2005,Fam.,6264,2,Sommerhus,53,2014,
+Åbyvejen 44 5881 Skårup Fyn,5881,800000.0,27-01-2005,Alm.,7476,4,Villa,107,1984,
+Toftevej 12 5881 Skårup Fyn,5881,1180000.0,14-01-2005,Alm.,10825,4,Villa,109,1970,
+Traverskiftet 41 5881 Skårup Fyn,5881,1100000.0,10-01-2005,Fam.,8270,5,Villa,133,1973,
+Skårupøre Strandvej 74 5881 Skårup Fyn,5881,4300000.0,05-01-2005,Alm.,45263,3,Villa,95,1777,
+Dalmosevej 4 5881 Skårup Fyn,5881,1200000.0,17-12-2004,Alm.,14457,4,Villa,83,1846,
+Skårupørevej 39 5881 Skårup Fyn,5881,560000.0,08-12-2004,Alm.,6588,3,Villa,85,1951,
+Skårupøre Strandvej 87 5881 Skårup Fyn,5881,1020000.0,06-12-2004,Fam.,5284,6,Villa,193,1820,
+Toftevej 13 5881 Skårup Fyn,5881,1360000.0,28-11-2004,Alm.,6415,9,Villa,212,1972,
+Åbyvænget 5 5881 Skårup Fyn,5881,195000.0,25-11-2004,Alm.,1572,3,Villa,124,2005,
+Ågårdsvej 1 5881 Skårup Fyn,5881,2100000.0,16-11-2004,Fam.,11475,8,Stuehus,183,1850,
+Skårupøre Strandvej 51 5881 Skårup Fyn,5881,2200000.0,25-10-2004,Alm.,15602,4,Villa,141,1780,
+Nyborgvej 420 5881 Skårup Fyn,5881,875000.0,25-10-2004,Alm.,7954,5,Villa,110,1926,
+Vildmarken 18 5881 Skårup Fyn,5881,1620000.0,11-10-2004,Alm.,8709,7,Villa,186,1953,
+Skårup Vestergade 18 5881 Skårup Fyn,5881,1420000.0,28-09-2004,Alm.,7553,7,Villa,188,1906,
+Skårupørevej 46 5881 Skårup Fyn,5881,90000.0,27-09-2004,Alm.,459,10,Stuehus,196,1966,
+Skovdongvej 19 5881 Skårup Fyn,5881,476190.0,03-09-2004,Alm.,2088,6,Stuehus,228,2001,
+Skibsbakken 18 5881 Skårup Fyn,5881,2895000.0,16-07-2004,Alm.,14331,6,Villa,202,2003,
+Nyborgvej 403 5881 Skårup Fyn,5881,736748.0,16-07-2004,Alm.,8372,2,Villa,88,1957,
+Åbyskovvej 37 5881 Skårup Fyn,5881,3000000.0,26-05-2004,Fam.,9174,13,Stuehus,327,1802,
+Skårupøre Strandvej 82 5881 Skårup Fyn,5881,2900000.0,25-05-2004,Alm.,15760,6,Villa,184,1928,
+Vidjekrogen 8B 5881 Skårup Fyn,5881,270000.0,19-05-2004,Alm.,1125,4,Villa,240,2006,
+Nørremarken 35 5881 Skårup Fyn,5881,920000.0,08-05-2004,Alm.,12957,3,Villa,71,1945,
+Åbyvænget 2 5881 Skårup Fyn,5881,250000.0,05-04-2004,Alm.,1351,5,Villa,185,2005,
+Østergade 8 5881 Skårup Fyn,5881,860000.0,26-03-2004,Alm.,7350,4,Villa,117,1899,
+Åbyskovvej 20 5881 Skårup Fyn,5881,705000.0,25-03-2004,Alm.,6527,4,Villa,108,1969,
+Vængemosevej 11 5881 Skårup Fyn,5881,1075000.0,09-03-2004,Alm.,8739,4,Villa,123,1867,
+Skårupøre Strandvej 98 5881 Skårup Fyn,5881,412250.0,04-02-2004,Alm.,3680,6,Sommerhus,112,1837,
+P A Wedels Vej 12 5881 Skårup Fyn,5881,750000.0,21-01-2004,Alm.,7653,3,Villa,98,1964,
+Holmdrup Huse 11 5881 Skårup Fyn,5881,1715000.0,17-01-2004,Alm.,9074,4,Stuehus,189,1970,
+Oluf Rings Vej 18 5881 Skårup Fyn,5881,3500000.0,29-12-2003,Alm.,17156,9,Stuehus,204,1976,
+Emil Rostrups Vej 17 5881 Skårup Fyn,5881,1385000.0,26-11-2003,Alm.,6856,6,Villa,202,1982,
+Holmdrup Huse 23 5881 Skårup Fyn,5881,1725000.0,25-11-2003,Alm.,9636,6,Villa,179,1800,
+Vængemosevej 15 5881 Skårup Fyn,5881,765000.0,20-11-2003,Alm.,4526,4,Villa,169,2008,
+Skibsbakken 37 5881 Skårup Fyn,5881,320000.0,20-11-2003,Alm.,1454,6,Villa,220,2004,
+Åbyvænget 4 5881 Skårup Fyn,5881,230000.0,20-11-2003,Alm.,1619,6,Villa,142,2004,
+Østergade 38 5881 Skårup Fyn,5881,805000.0,15-11-2003,Alm.,4849,8,Villa,166,1927,
+Skårupøre Strandvej 108 5881 Skårup Fyn,5881,2050000.0,14-11-2003,Alm.,14642,4,Villa,140,1880,
+Åbyvænget 11 5881 Skårup Fyn,5881,225000.0,07-11-2003,Alm.,1480,6,Villa,152,2005,
+Ågårdsvej 3 5881 Skårup Fyn,5881,1200000.0,24-10-2003,Alm.,3351,8,Villa,358,1869,
+Ulkens Dal 2 5881 Skårup Fyn,5881,1600000.0,22-10-2003,Alm.,0,5,Stuehus,187,1870,
+Åbyvænget 9 5881 Skårup Fyn,5881,225000.0,18-10-2003,Alm.,1271,4,Villa,177,2010,
+Rønnowsvej 6 5881 Skårup Fyn,5881,1050000.0,13-10-2003,Alm.,7000,6,Villa,150,1869,
+Åbyskovtoften 9 5881 Skårup Fyn,5881,1490000.0,08-10-2003,Alm.,8514,6,Villa,175,1973,
+Åbyvænget 17 5881 Skårup Fyn,5881,225000.0,02-10-2003,Alm.,1363,5,Villa,165,2010,
+P A Wedels Vej 13 5881 Skårup Fyn,5881,1175000.0,26-09-2003,Alm.,8901,4,Villa,132,1979,
+Åbyskovvej 54 5881 Skårup Fyn,5881,985000.0,22-09-2003,Alm.,6936,5,Villa,142,1960,
+Åbyskovvej 40 5881 Skårup Fyn,5881,950000.0,19-09-2003,Alm.,8715,4,Villa,109,1969,
+Emil Rostrups Vej 16 5881 Skårup Fyn,5881,760000.0,26-08-2003,Alm.,8837,4,Rækkehus,86,1981,
+Åbyskovvej 41 5881 Skårup Fyn,5881,600000.0,22-08-2003,Fam.,7228,4,Villa,83,1885,
+Skårup Mellemvej 5 5881 Skårup Fyn,5881,489630.0,19-08-2003,Andet,4663,4,Villa,105,1929,
+Brohave 3 5881 Skårup Fyn,5881,510000.0,10-08-2003,Fam.,11860,3,Sommerhus,43,1935,
+Ulkens Dal 3 5881 Skårup Fyn,5881,187000.0,04-08-2003,Alm.,1161,5,Villa,161,1780,
+Skårup Vestergade 13 5881 Skårup Fyn,5881,1095000.0,31-07-2003,Alm.,9605,5,Villa,114,1926,
+Skårupøre Strandvej 85 5881 Skårup Fyn,5881,1300000.0,28-07-2003,Alm.,14606,4,Villa,89,1953,
+Skibsbakken 39 5881 Skårup Fyn,5881,320000.0,24-07-2003,Alm.,2222,5,Villa,144,2004,
+Traverskiftet 27 5881 Skårup Fyn,5881,1165000.0,03-07-2003,Alm.,7281,5,Villa,160,1973,
+Åbyvejen 38 5881 Skårup Fyn,5881,1125000.0,19-06-2003,Alm.,4934,8,Villa,228,1973,
+Nyborgvej 409 5881 Skårup Fyn,5881,1365000.0,17-06-2003,Alm.,9161,6,Villa,149,1933,
+Skårupøre Strandvej 81 5881 Skårup Fyn,5881,1740000.0,12-06-2003,Alm.,13488,6,Villa,129,1952,
+Ulkens Dal 6 5881 Skårup Fyn,5881,6750000.0,23-05-2003,Alm.,29735,4,Stuehus,227,1987,
+Østermarken 3 5881 Skårup Fyn,5881,685000.0,29-04-2003,Alm.,8562,3,Rækkehus,80,1980,
+Brohave 5 5881 Skårup Fyn,5881,365000.0,10-04-2003,Alm.,6636,3,Sommerhus,55,2006,
+Brohave 15 5881 Skårup Fyn,5881,460000.0,10-04-2003,Alm.,9583,3,Sommerhus,48,1957,
+Brohave 14 5881 Skårup Fyn,5881,495000.0,09-04-2003,Alm.,8389,3,Sommerhus,59,2007,
+Brohave 6 5881 Skårup Fyn,5881,390000.0,08-04-2003,Alm.,9750,2,Sommerhus,40,1917,
+Skårupøre Strandvej 58 5881 Skårup Fyn,5881,950000.0,31-03-2003,Fam.,12179,3,Villa,78,1843,
+Vildmarken 7A 5881 Skårup Fyn,5881,595000.0,29-03-2003,Alm.,4648,5,Villa,128,1964,
+Holmdrupvej 21 5881 Skårup Fyn,5881,1000000.0,21-03-2003,Alm.,0,10,Stuehus,257,1890,
+Skibsbakken 45 5881 Skårup Fyn,5881,340000.0,17-03-2003,Alm.,2635,3,Villa,129,2005,
+Bjergagervej 1 5881 Skårup Fyn,5881,1285000.0,14-03-2003,Alm.,7060,6,Villa,182,1914,
+Skårup Tværvej 2 5881 Skårup Fyn,5881,950000.0,31-01-2003,Alm.,4241,8,Stuehus,224,2006,
+Holmdrup Huse 12 5881 Skårup Fyn,5881,629000.0,12-12-2002,Alm.,4368,5,Villa,144,1964,
+Ågårdsvej 4 5881 Skårup Fyn,5881,900000.0,27-11-2002,Fam.,5142,6,Stuehus,175,1933,
+Åbyskovvej 58 5881 Skårup Fyn,5881,1030000.0,26-11-2002,Alm.,7744,5,Villa,133,1963,
+Åbyvejen 24 5881 Skårup Fyn,5881,380000.0,22-10-2002,Alm.,4810,3,Villa,79,1951,
+Åbyskovvej 49 5881 Skårup Fyn,5881,995000.0,24-09-2002,Alm.,4163,7,Villa,239,1877,
+Skårupørevej 31 5881 Skårup Fyn,5881,18000.0,28-08-2002,Alm.,105,7,Villa,170,1800,
+Skårupøre Strandvej 80 5881 Skårup Fyn,5881,2090000.0,23-08-2002,Alm.,0,6,Villa,130,1963,
+Skovmøllevej 13 5881 Skårup Fyn,5881,1440000.0,16-08-2002,Alm.,7826,6,Villa,184,1906,
+Holmdrup Stævning 9 5881 Skårup Fyn,5881,1600000.0,15-08-2002,Alm.,7920,5,Villa,202,1902,
+Østergade 32 5881 Skårup Fyn,5881,558000.0,08-08-2002,Alm.,3487,6,Villa,160,1802,
+Nyborgvej 512 5881 Skårup Fyn,5881,307065.0,26-07-2002,Andet,2869,5,Villa,107,1900,
+Skårupøre Strandvej 88 5881 Skårup Fyn,5881,1525000.0,26-07-2002,Alm.,11730,6,Villa,130,1931,
+Skårupøre Strandvej 96B 5881 Skårup Fyn,5881,550000.0,30-06-2002,Alm.,17741,1,Sommerhus,31,2010,
+Ågårdsvej 9 5881 Skårup Fyn,5881,365000.0,28-06-2002,Alm.,2570,6,Villa,142,1794,
+Skårupøre Strandvej 123 5881 Skårup Fyn,5881,1217152.0,16-05-2002,Alm.,10492,4,Stuehus,116,1825,
+Emil Rostrups Vej 26 5881 Skårup Fyn,5881,770000.0,29-04-2002,Alm.,8105,4,Rækkehus,95,1982,
+Holmdrup Huse 5 5881 Skårup Fyn,5881,2000000.0,19-04-2002,Alm.,8928,8,Stuehus,224,1954,
+Skibsbakken 29 5881 Skårup Fyn,5881,285000.0,09-04-2002,Alm.,2209,4,Villa,129,2006,
+Skårup Vestergade 31 5881 Skårup Fyn,5881,960000.0,07-04-2002,Alm.,8347,4,Villa,115,1970,
+Nyborgvej 514 5881 Skårup Fyn,5881,1000000.0,05-04-2002,Alm.,9523,4,Villa,105,1942,
+Skårup Vestergade 42 5881 Skårup Fyn,5881,625000.0,14-03-2002,Alm.,5681,4,Villa,110,1928,
+Skårupørevej 48 5881 Skårup Fyn,5881,2395000.0,14-03-2002,Alm.,13232,4,Villa,181,1996,
+Skårupørevej 43 5881 Skårup Fyn,5881,895000.0,01-03-2002,Alm.,5811,8,Villa,154,1897,
+Vængemosevej 9 5881 Skårup Fyn,5881,1200000.0,18-12-2001,Alm.,4240,10,Villa,283,1900,
+Åbyskovvej 29 5881 Skårup Fyn,5881,344000.0,10-12-2001,Fam.,2439,6,Stuehus,141,1825,
+P A Wedels Vej 11 5881 Skårup Fyn,5881,378136.0,12-11-2001,Fam.,2173,5,Villa,174,1973,
+Traverskiftet 2A 5881 Skårup Fyn,5881,725000.0,10-11-2001,Alm.,8950,3,Rækkehus,81,1979,
+Skårup Stationsvej 3 5881 Skårup Fyn,5881,901654.0,09-11-2001,Alm.,4927,4,Villa,183,1920,
+Skibsbakken 31 5881 Skårup Fyn,5881,310000.0,05-11-2001,Alm.,2313,5,Villa,134,2005,
+Åbyskovvej 33 5881 Skårup Fyn,5881,1115000.0,10-10-2001,Alm.,0,4,Villa,132,1777,
+Vildmarken 5 5881 Skårup Fyn,5881,895000.0,05-10-2001,Alm.,7458,5,Villa,120,1951,
+Holmdrup Stævning 5 5881 Skårup Fyn,5881,500000.0,03-10-2001,Fam.,10000,2,Villa,50,1848,
+Skårupørevej 23 5881 Skårup Fyn,5881,225250.0,25-09-2001,Fam.,2780,3,Villa,81,1937,
+Skårupøre Strandvej 95 5881 Skårup Fyn,5881,800000.0,18-09-2001,Alm.,3846,6,Villa,208,2004,
+Skibsbakken 19 5881 Skårup Fyn,5881,310000.0,13-09-2001,Alm.,2108,4,Villa,147,2006,
+Skårupørevej 12 5881 Skårup Fyn,5881,995000.0,07-09-2001,Alm.,5467,6,Villa,182,2012,
+Skibsbakken 23 5881 Skårup Fyn,5881,310000.0,21-08-2001,Alm.,1845,5,Villa,168,2003,
+Skårup Vestergade 33 5881 Skårup Fyn,5881,1050000.0,21-08-2001,Alm.,7241,5,Villa,145,1938,
+Vængemosevej 5 5881 Skårup Fyn,5881,6822000.0,16-08-2001,Alm.,25646,9,Stuehus,266,1919,
+Elletoften 3 5881 Skårup Fyn,5881,835000.0,08-08-2001,Alm.,4883,7,Villa,171,1966,
+Åbyskovvej 55 5881 Skårup Fyn,5881,1402500.0,04-08-2001,Alm.,9672,6,Villa,145,1900,
+Skibsbakken 24 5881 Skårup Fyn,5881,325000.0,30-07-2001,Alm.,1477,6,Villa,220,2006,
+Skårupørevej 22 5881 Skårup Fyn,5881,1346500.0,03-07-2001,Alm.,6381,5,Villa,211,1800,
+Vængemosevej 3 5881 Skårup Fyn,5881,859151.0,28-06-2001,Andet,3801,8,Stuehus,226,1828,
+Østergade 3 5881 Skårup Fyn,5881,700331.0,12-06-2001,Alm.,6545,4,Villa,107,1928,
+Åbyskovvej 21 5881 Skårup Fyn,5881,1491751.0,07-06-2001,Alm.,7892,6,Villa,189,1977,
+Åbyskovvej 38 5881 Skårup Fyn,5881,930000.0,06-06-2001,Alm.,3333,10,Villa,279,1961,
+Skibsbakken 16 5881 Skårup Fyn,5881,250000.0,29-05-2001,Alm.,1908,4,Villa,131,2002,
+Åbyskovvej 16 5881 Skårup Fyn,5881,320119.0,08-05-2001,Alm.,6276,2,Villa,51,1879,
+Østermarken 129 5881 Skårup Fyn,5881,195000.0,14-04-2001,Alm.,1242,5,Villa,157,2001,
+Vidjekrogen 1B 5881 Skårup Fyn,5881,180000.0,09-04-2001,Alm.,1046,5,Villa,172,2010,
+Rosenkildevej 10 5881 Skårup Fyn,5881,1379550.0,25-03-2001,Alm.,7074,7,Villa,195,1895,
+Skibsbakken 5 5881 Skårup Fyn,5881,570000.0,14-03-2001,Alm.,3413,6,Villa,167,2002,
+Skårupøre Strandvej 70B 5881 Skårup Fyn,5881,60000.0,28-02-2001,Alm.,674,5,Sommerhus,89,1927,
+Rosenkildevej 3 5881 Skårup Fyn,5881,370000.0,16-02-2001,Alm.,2402,5,Lejlighed,154,1916,
+Åbyskovvej 13 5881 Skårup Fyn,5881,475000.0,02-02-2001,Alm.,6089,3,Rækkehus,78,1927,
+Skovdongvej 14 5881 Skårup Fyn,5881,1125094.0,10-01-2001,Alm.,5232,4,Villa,215,1777,
+Skårupøre Strandvej 131 5881 Skårup Fyn,5881,437500.0,30-12-2000,Alm.,3038,4,Villa,144,1949,
+Åbyskovvej 23 5881 Skårup Fyn,5881,1500000.0,06-12-2000,Fam.,6818,7,Stuehus,220,1878,
+Skibsbakken 13 5881 Skårup Fyn,5881,295000.0,04-12-2000,Alm.,1953,4,Villa,151,2003,
+Skårupøre Strandvej 70 5881 Skårup Fyn,5881,2525100.0,28-11-2000,Alm.,13798,8,Stuehus,183,1877,
+Skårupørevej 52 5881 Skårup Fyn,5881,1110000.0,14-11-2000,Alm.,5022,4,Villa,221,1948,
+Skårupørevej 34 5881 Skårup Fyn,5881,599503.0,02-11-2000,Alm.,8688,3,Villa,69,1870,
+Dalmosevej 9 5881 Skårup Fyn,5881,780000.0,20-09-2000,Alm.,6782,5,Villa,115,1877,
+Nyborgvej 435 5881 Skårup Fyn,5881,350000.0,19-09-2000,Alm.,3723,4,Villa,94,1916,
+Skårupøre Strandvej 101 5881 Skårup Fyn,5881,588000.0,10-08-2000,Andet,3438,7,Stuehus,171,1888,
+Vildmarken 14 5881 Skårup Fyn,5881,700000.0,04-08-2000,Alm.,6862,4,Villa,102,1953,
+Østergade 5 5881 Skårup Fyn,5881,1038874.0,27-07-2000,Alm.,8116,5,Villa,128,1912,
+Emil Rostrups Vej 28 5881 Skårup Fyn,5881,700000.0,16-07-2000,Alm.,7368,4,Rækkehus,95,1982,
+Nørremarken 20 5881 Skårup Fyn,5881,995000.0,16-06-2000,Alm.,6104,7,Villa,163,1889,
+Klingstrupvej 22 5881 Skårup Fyn,5881,1375000.0,29-05-2000,Alm.,5826,5,Villa,236,1850,
+Skårupøre Strandvej 96A 5881 Skårup Fyn,5881,425000.0,25-04-2000,Alm.,5666,4,Sommerhus,75,1952,
+Åbyskovvej 22B 5881 Skårup Fyn,5881,1535000.0,16-04-2000,Alm.,5685,5,Villa,270,1979,
+Skårup Vestergade 55 5881 Skårup Fyn,5881,413586.0,29-02-2000,Alm.,3565,4,Villa,116,1934,
+Østermarken 135 5881 Skårup Fyn,5881,205000.0,15-02-2000,Alm.,1062,6,Villa,193,2002,
+Nyborgvej 421 5881 Skårup Fyn,5881,684000.0,04-02-2000,Alm.,5385,5,Villa,127,1902,
+Åbyskovvej 62 5881 Skårup Fyn,5881,1277750.0,29-01-2000,Alm.,6055,6,Villa,211,1965,
+Skovmøllevej 20 5881 Skårup Fyn,5881,2175000.0,31-10-1999,Alm.,7937,9,Stuehus,274,1789,
+Åbyskovvej 14 5881 Skårup Fyn,5881,1041450.0,25-10-1999,Fam.,9825,4,Stuehus,106,1960,
+Østermarken 137 5881 Skårup Fyn,5881,185000.0,12-10-1999,Alm.,1170,5,Villa,158,2000,
+Holmdrupvej 8 5881 Skårup Fyn,5881,3500000.0,08-10-1999,Alm.,8120,7,Villa,431,1789,
+Skårup Vestergade 12 5881 Skårup Fyn,5881,660529.0,29-09-1999,Alm.,0,5,Villa,146,1935,
+Nyborgvej 401 5881 Skårup Fyn,5881,665334.0,24-09-1999,Alm.,3655,6,Villa,182,1953,
+Åbyskovvej 22A 5881 Skårup Fyn,5881,559810.0,18-08-1999,Fam.,2081,8,Villa,269,1980,
+Traverskiftet 2B 5881 Skårup Fyn,5881,643000.0,30-06-1999,Alm.,7938,3,Rækkehus,81,1979,
+Åbyskovvej 78 5881 Skårup Fyn,5881,1200000.0,26-06-1999,Alm.,7058,6,Villa,170,1978,
+Skårup Kirkebakke 6 5881 Skårup Fyn,5881,1750598.0,17-06-1999,Alm.,7204,7,Villa,243,1838,
+Klingstrupvej 1 5881 Skårup Fyn,5881,1350000.0,27-05-1999,Alm.,8544,6,Villa,158,1907,
+Traverskiftet 17 5881 Skårup Fyn,5881,925209.0,21-05-1999,Alm.,6753,5,Villa,137,1973,
+Skovmøllevej 1 5881 Skårup Fyn,5881,882711.0,14-05-1999,Alm.,6587,3,Villa,134,1955,
+Traverskiftet 23 5881 Skårup Fyn,5881,950000.0,06-05-1999,Alm.,7196,6,Villa,132,1972,
+Skårup Kirkebakke 5 5881 Skårup Fyn,5881,704000.0,27-04-1999,Alm.,4400,3,Villa,160,1888,
+Åbyskovvej 1 5881 Skårup Fyn,5881,825000.0,09-04-1999,Alm.,5221,6,Villa,158,1930,
+Nyborgvej 438 5881 Skårup Fyn,5881,3100000.0,28-03-1999,Alm.,16230,11,Servicevirksomhed,191,1962,
+Østergade 47 5881 Skårup Fyn,5881,1067096.0,26-03-1999,Alm.,5033,5,Villa,212,1914,
+Østergade 25 5881 Skårup Fyn,5881,625000.0,12-01-1999,Alm.,4562,5,Villa,137,1903,
+Åbyvejen 8 5881 Skårup Fyn,5881,635000.0,25-12-1998,Fam.,2602,8,Villa,244,1950,
+Nyborgvej 407 5881 Skårup Fyn,5881,457922.0,03-12-1998,Alm.,2475,9,Villa,185,1932,
+Skibsvej 5 5881 Skårup Fyn,5881,1010000.0,02-11-1998,Alm.,4549,6,Villa,222,1975,
+Oluf Rings Vej 6 5881 Skårup Fyn,5881,1107716.0,26-10-1998,Alm.,8266,4,Villa,134,1973,
+Skårup Tværvej 6 5881 Skårup Fyn,5881,164632.0,14-09-1998,Alm.,688,6,Stuehus,239,1866,
+Åbyskovtoften 8 5881 Skårup Fyn,5881,260000.0,11-09-1998,Alm.,1595,4,Villa,163,2000,
+Dalmosevej 8 5881 Skårup Fyn,5881,260000.0,06-08-1998,Alm.,1511,6,Stuehus,172,1956,
+Nørremarken 13 5881 Skårup Fyn,5881,348779.0,01-07-1998,Alm.,3229,5,Villa,108,1949,
+Holmdrup Huse 7 5881 Skårup Fyn,5881,408000.0,29-06-1998,Alm.,2632,6,Villa,155,1677,
+Skårupørevej 16 5881 Skårup Fyn,5881,700000.0,26-06-1998,Alm.,8536,4,Villa,82,1777,
+Emil Rostrups Vej 24 5881 Skårup Fyn,5881,685000.0,15-06-1998,Alm.,7965,4,Rækkehus,86,1982,
+Østergade 1 5881 Skårup Fyn,5881,780000.0,10-06-1998,Alm.,5000,4,Lejlighed,156,1902,
+Åbyvejen 40 5881 Skårup Fyn,5881,1078000.0,02-06-1998,Alm.,7045,5,Villa,153,1979,
+Skårup Vestergade 10 5881 Skårup Fyn,5881,565000.0,29-05-1998,Alm.,3766,6,Villa,150,1925,
+Klingstrupvej 5A 5881 Skårup Fyn,5881,3040300.0,19-05-1998,Fam.,36194,3,Lejlighed,84,1857,
+Oluf Rings Vej 11 5881 Skårup Fyn,5881,627500.0,15-05-1998,Alm.,5317,5,Villa,118,1963,
+Vesterled 13 5881 Skårup Fyn,5881,165000.0,13-05-1998,Andet,1130,6,Villa,146,1981,
+"Østergade 52, 1 5881 Skårup Fyn",5881,795000.0,11-05-1998,Alm.,6360,4,Villa,125,1934,
+Åbyvejen 53 5881 Skårup Fyn,5881,668000.0,30-04-1998,Alm.,4771,6,Villa,140,1877,
+Skårup Tværvej 5 5881 Skårup Fyn,5881,250000.0,27-03-1998,Alm.,0,6,Villa,247,2000,
+Skårup Vestergade 39B 5881 Skårup Fyn,5881,750000.0,18-03-1998,Alm.,5859,5,Villa,128,1975,
+Skovdongvej 11 5881 Skårup Fyn,5881,828000.0,27-02-1998,Fam.,6133,5,Stuehus,135,1936,
+Emil Rostrups Vej 15 5881 Skårup Fyn,5881,1021000.0,16-02-1998,Alm.,0,6,Villa,192,1981,
+Nyborgvej 402 5881 Skårup Fyn,5881,481000.0,24-01-1998,Alm.,0,6,Villa,138,1952,
+Skårup Vestergade 9 5881 Skårup Fyn,5881,918480.0,20-01-1998,Alm.,5248,6,Villa,175,1935,
+Skårupøre Strandvej 73 5881 Skårup Fyn,5881,70670.0,02-12-1997,Alm.,436,4,Stuehus,162,1905,
+Skårupøre Strandvej 99 5881 Skårup Fyn,5881,418114.0,06-05-1997,Alm.,3604,3,Villa,116,1883,
+Åbyskovtoften 15 5881 Skårup Fyn,5881,465000.0,22-04-1997,Alm.,3940,4,Villa,118,1998,
+Aspedam 4 5881 Skårup Fyn,5881,442000.0,15-04-1997,Fam.,3877,3,Villa,114,1970,
+Skårupørevej 9 5881 Skårup Fyn,5881,1500000.0,26-03-1997,Alm.,4335,10,Stuehus,346,1867,
+Skårupøre Strandvej 107 5881 Skårup Fyn,5881,527958.0,19-03-1997,Alm.,4512,4,Villa,117,1877,
+Dalmosevej 11 5881 Skårup Fyn,5881,509000.0,14-03-1997,Alm.,2766,5,Villa,184,1959,
+Toftevej 3 5881 Skårup Fyn,5881,840000.0,23-01-1997,Alm.,6614,6,Villa,127,1947,
+Nørremarken 41 5881 Skårup Fyn,5881,780000.0,06-12-1996,Fam.,4406,6,Stuehus,177,1827,
+Skovmøllevej 6 5881 Skårup Fyn,5881,605000.0,06-11-1996,Alm.,4321,5,Villa,140,1777,
+P A Wedels Vej 9 5881 Skårup Fyn,5881,610000.0,06-11-1996,Fam.,4178,4,Villa,146,1970,
+Østergade 24 5881 Skårup Fyn,5881,615000.0,02-09-1996,Alm.,0,6,Villa,106,1951,
+Skårup Vestergade 39 5881 Skårup Fyn,5881,433000.0,24-07-1996,Alm.,3207,4,Villa,135,1933,
+Bjergagervej 4 5881 Skårup Fyn,5881,136500.0,12-07-1996,Fam.,685,7,Stuehus,199,1777,
+Skårupøre Strandvej 110 5881 Skårup Fyn,5881,1350000.0,05-07-1996,Alm.,7988,4,Stuehus,169,2000,
+Åbyvejen 16 5881 Skårup Fyn,5881,300000.0,01-07-1996,Alm.,3488,3,Villa,86,1953,
+Skårup Vinkelvej 6 5881 Skårup Fyn,5881,830000.0,01-07-1996,Alm.,4009,6,Villa,207,1910,
+Skovmøllevej 26 5881 Skårup Fyn,5881,584000.0,20-06-1996,Alm.,3539,7,Villa,165,1900,
+Åbyskovvej 80 5881 Skårup Fyn,5881,951580.0,03-06-1996,Alm.,5286,5,Villa,180,1978,
+Nyborgvej 414 5881 Skårup Fyn,5881,612000.0,30-05-1996,Alm.,0,4,Villa,133,1948,
+Skibsvej 3 5881 Skårup Fyn,5881,500000.0,25-04-1996,Alm.,2747,4,Villa,182,1970,
+Toftevej 9 5881 Skårup Fyn,5881,757000.0,22-01-1996,Alm.,4915,6,Villa,154,1966,
+Østergade 63 5881 Skårup Fyn,5881,739000.0,29-12-1995,Alm.,3453,9,Villa,214,1892,
+Skårupørevej 7 5881 Skårup Fyn,5881,515000.0,29-12-1995,Alm.,4813,3,Villa,107,1950,
+Skårupøre Strandvej 113 5881 Skårup Fyn,5881,380000.0,11-12-1995,Alm.,3725,3,Villa,102,1957,
+Skårup Vestergade 32 5881 Skårup Fyn,5881,515000.0,01-12-1995,Alm.,3410,5,Villa,151,1930,
+Lærketoften 8 5881 Skårup Fyn,5881,287938.0,19-11-1995,Fam.,2303,4,Villa,125,1970,
+Skårup Vestergade 3 5881 Skårup Fyn,5881,740000.0,07-11-1995,Alm.,5563,7,Villa,133,1935,
+Østergade 40 5881 Skårup Fyn,5881,671140.0,03-11-1995,Alm.,3835,6,Villa,175,1880,
+Åbyskovvej 56 5881 Skårup Fyn,5881,340000.0,23-10-1995,Fam.,3777,3,Villa,90,1963,
+Skovmøllevej 19 5881 Skårup Fyn,5881,95300.0,16-10-1995,Alm.,925,3,Villa,103,1800,
+Åbyskovvej 12 5881 Skårup Fyn,5881,900000.0,09-10-1995,Alm.,4090,6,Stuehus,220,1777,
+Traverskiftet 12 5881 Skårup Fyn,5881,683800.0,03-10-1995,Alm.,5180,4,Villa,132,1975,
+Skovmøllevej 31 5881 Skårup Fyn,5881,420000.0,10-08-1995,Alm.,0,8,Villa,232,1872,
+Holmdrup Huse 2 5881 Skårup Fyn,5881,290000.0,09-08-1995,Alm.,0,10,Villa,219,1870,
+Skårup Vestergade 46 5881 Skårup Fyn,5881,368000.0,31-05-1995,Alm.,3914,4,Villa,94,1926,
+Østermarken 9 5881 Skårup Fyn,5881,382650.0,24-03-1995,Alm.,6377,2,Rækkehus,60,1980,
+Østergade 6 5881 Skårup Fyn,5881,310000.0,20-01-1995,Alm.,2246,6,Villa,138,1930,
+Skibsvej 6A 5881 Skårup Fyn,5881,362818.0,14-12-1994,Fam.,2015,6,Villa,180,1979,
+Østergade 26 5881 Skårup Fyn,5881,625000.0,07-12-1994,Alm.,4340,7,Villa,144,1948,
+Skårup Vestergade 28 5881 Skårup Fyn,5881,250000.0,05-12-1994,Alm.,2717,4,Villa,92,1930,
+Nyborgvej 424 5881 Skårup Fyn,5881,475000.0,23-11-1994,Alm.,2861,11,Villa,166,1920,
+Skovmøllevej 29 5881 Skårup Fyn,5881,525000.0,15-11-1994,Alm.,4007,4,Villa,131,1881,
+Skovdongvej 6 5881 Skårup Fyn,5881,275000.0,20-10-1994,Alm.,2722,5,Villa,101,1902,
+Åbyskovvej 9 5881 Skårup Fyn,5881,516683.0,26-09-1994,Alm.,4133,3,Villa,125,1867,
+Skårupørevej 47 5881 Skårup Fyn,5881,390000.0,03-08-1994,Alm.,0,6,Villa,148,1860,
+Vidjekrogen 18 5881 Skårup Fyn,5881,158868.0,08-07-1994,Alm.,999,6,Villa,159,1930,
+Skårupøre Strandvej 71 5881 Skårup Fyn,5881,1375000.0,20-06-1994,Alm.,5036,5,Villa,273,2016,
+Traverskiftet 16 5881 Skårup Fyn,5881,617000.0,05-04-1994,Alm.,0,5,Villa,171,1974,
+Traverskiftet 2C 5881 Skårup Fyn,5881,445000.0,21-03-1994,Alm.,5493,3,Rækkehus,81,1979,
+Åbyskovvej 52 5881 Skårup Fyn,5881,410000.0,15-03-1994,Fam.,5189,5,Villa,79,1865,
+Skovmøllevej 9 5881 Skårup Fyn,5881,525000.0,25-02-1994,Alm.,0,9,Villa,191,1907,
+Skårupøre Strandvej 109 5881 Skårup Fyn,5881,750000.0,23-02-1994,Alm.,0,7,Villa,157,1961,
+Emil Rostrups Vej 21 5881 Skårup Fyn,5881,746000.0,03-11-1993,Alm.,5290,5,Villa,141,1984,
+Vængemosevej 2 5881 Skårup Fyn,5881,100000.0,14-10-1993,Fam.,636,4,Stuehus,157,1770,
+Skibsvej 11 5881 Skårup Fyn,5881,825000.0,05-10-1993,Alm.,5156,5,Villa,160,1877,
+Skovmøllevej 27 5881 Skårup Fyn,5881,430000.0,05-10-1993,Alm.,2107,5,Villa,204,1840,
+Skårupøre Strandvej 113A 5881 Skårup Fyn,5881,400000.0,31-08-1993,Alm.,2000,5,Villa,200,1994,
+Nyborgvej 500 5881 Skårup Fyn,5881,620000.0,17-05-1993,Alm.,0,8,Villa,243,1777,
+Østergade 28 5881 Skårup Fyn,5881,370000.0,10-02-1993,Alm.,3592,5,Villa,103,1948,
+Åbyvejen 48 5881 Skårup Fyn,5881,490000.0,08-02-1993,Alm.,2899,6,Villa,169,1827,
+Nyborgvej 434 5881 Skårup Fyn,5881,600000.0,11-11-1992,Fam.,2727,8,Villa,220,1930,
+Nyborgvej 497 5881 Skårup Fyn,5881,480000.0,16-10-1992,Alm.,3200,3,Villa,150,1927,
+Vesterled 11 5881 Skårup Fyn,5881,525000.0,15-10-1992,Alm.,0,5,Villa,151,1980,
+Østergade 10 5881 Skårup Fyn,5881,300000.0,07-10-1992,Alm.,0,3,Villa,86,1890,
+Nyborgvej 415 5881 Skårup Fyn,5881,470000.0,25-07-1992,Alm.,3730,5,Villa,126,1927,
+Traverskiftet 39 5881 Skårup Fyn,5881,580000.0,24-07-1992,Alm.,0,4,Villa,111,1972,
+Østergade 58 5881 Skårup Fyn,5881,365500.0,29-06-1992,Fam.,2971,4,Villa,123,1962,
+Skårup Vestergade 15 5881 Skårup Fyn,5881,382000.0,11-06-1992,Alm.,3007,6,Villa,127,1928,
+Brohave 19 5881 Skårup Fyn,5881,110000.0,25-05-1992,Fam.,1100,4,Sommerhus,100,2004,
+Traverskiftet 4A 5881 Skårup Fyn,5881,320000.0,02-05-1992,Fam.,3950,3,Rækkehus,81,1979,
+Skovmøllevej 37A 5881 Skårup Fyn,5881,422400.0,17-01-1992,Alm.,1519,8,Stuehus,278,1908,
+Skovmøllevej 39 5881 Skårup Fyn,5881,440000.0,08-01-1992,Alm.,3358,4,Villa,131,1800,

@@ -1,0 +1,543 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Sigurd Hoels Vej 15 9381 Sulsted,15,1025000.0,09-05-2017,Alm.,10250,5,Villa,100,1932,-6 %
+Milbakvej 64 9381 Sulsted,64,1874500.0,07-03-2017,Alm.,7651,8,Stuehus,245,1924,
+Elkærvej 14 9381 Sulsted,14,600000.0,23-02-2017,Fam.,9523,3,Villa,63,1927,
+Sigurd Hoels Vej 11 9381 Sulsted,11,1200112.0,09-02-2017,Alm.,9524,5,Villa,126,1927,
+Elkærvej 72 9381 Sulsted,72,1577000.0,26-01-2017,Alm.,5776,8,Villa,273,1922,-4 %
+Bjørnsonparken 78 9381 Sulsted,78,1075000.0,24-01-2017,Alm.,9033,4,Villa,119,1973,-6 %
+Holtevej 14 9381 Sulsted,14,900000.0,12-01-2017,Fam.,10227,2,Villa,88,1959,
+Doktorstien 1 9381 Sulsted,1,1350000.0,02-01-2017,Alm.,14062,4,Villa,96,2007,-2 %
+Bjørnsonparken 10 9381 Sulsted,10,1650000.0,22-12-2016,Alm.,10248,4,Villa,161,1976,-3 %
+Sulsted Engvej 2 9381 Sulsted,2,620000.0,19-12-2016,Alm.,5535,3,Villa,112,1958,
+Niels Anesens Vej 19 9381 Sulsted,19,1085000.0,08-11-2016,Alm.,8282,5,Villa,131,1907,-5 %
+Sindholtvej 10 9381 Sulsted,10,610000.0,03-11-2016,Alm.,4388,4,Villa,139,1980,-12 %
+Byrholtvej 22 9381 Sulsted,22,2390000.0,29-10-2016,Alm.,13277,7,Stuehus,180,1919,-11 %
+Toftegårdsparken 27A 9381 Sulsted,0,1575000.0,28-10-2016,Alm.,10361,5,Villa,152,1973,
+Tvedens Alle 79 9381 Sulsted,79,775000.0,26-10-2016,Alm.,6681,4,Villa,116,1987,-8 %
+Stokbrovej 50A 9381 Sulsted,0,865000.0,17-10-2016,Alm.,6134,5,Villa,141,1920,-3 %
+Strindbergparken 50 9381 Sulsted,50,1100000.0,13-10-2016,Alm.,9166,4,Villa,120,1974,-8 %
+Elkærvej 70 9381 Sulsted,70,610000.0,06-10-2016,Alm.,3446,6,Villa,177,1949,0 %
+Småengevej 33 9381 Sulsted,33,1168518.0,23-09-2016,Alm.,6282,6,Villa,186,2005,-60 %
+Melkærvej 5 9381 Sulsted,5,675000.0,05-09-2016,Alm.,5443,4,Villa,124,1973,
+Toftegårdsparken 16 9381 Sulsted,16,1645000.0,30-08-2016,Alm.,7946,8,Villa,207,1968,-3 %
+Holtevej 8 9381 Sulsted,8,950000.0,23-08-2016,Alm.,6884,6,Villa,138,1910,
+Holtevej 4 9381 Sulsted,4,1200000.0,12-08-2016,Alm.,9022,6,Villa,133,2016,
+Tvedens Alle 97 9381 Sulsted,97,1245000.0,08-08-2016,Alm.,7500,5,Villa,166,1968,0 %
+Sulsted Kærvej 17 9381 Sulsted,17,1395000.0,14-07-2016,Alm.,12681,4,Villa,110,1969,0 %
+Niels Anesens Vej 13 9381 Sulsted,13,545000.0,13-07-2016,Alm.,5396,3,Villa,101,1956,
+Staprisvej 7 9381 Sulsted,7,4600000.0,08-07-2016,Alm.,16974,8,Stuehus,271,1969,-2 %
+Staprisvej 10 9381 Sulsted,10,5000000.0,21-06-2016,Alm.,27624,6,Stuehus,181,1964,
+Elkærvej 71 9381 Sulsted,71,1015000.0,27-05-2016,Alm.,7807,4,Villa,130,1959,-7 %
+Knut Hamsuns Vej 8 9381 Sulsted,8,1330000.0,19-05-2016,Alm.,11565,5,Villa,115,1962,-1 %
+Ajstrup Nørrehede 4 9381 Sulsted,4,540000.0,07-04-2016,Alm.,5000,4,Stuehus,108,1876,
+Strindbergparken 21 9381 Sulsted,21,1380500.0,18-03-2016,Alm.,9586,4,Villa,144,1979,-1 %
+Bjørnsonparken 45 9381 Sulsted,45,1160000.0,15-03-2016,Alm.,8285,5,Villa,140,1976,-3 %
+Elkærvej 1 9381 Sulsted,1,430000.0,03-03-2016,Fam.,2738,5,Villa,157,1960,
+Tvedens Alle 31 9381 Sulsted,31,1175000.0,29-02-2016,Alm.,5875,6,Villa,200,1975,-6 %
+Alexander Kiellands Vej 11 9381 Sulsted,11,793179.0,23-02-2016,Andet,7081,4,Villa,112,1967,
+Tvedens Alle 39 9381 Sulsted,39,830000.0,08-02-2016,Alm.,5845,4,Villa,142,1973,-13 %
+Bjørnsonparken 44A 9381 Sulsted,0,1020000.0,25-01-2016,Alm.,8225,4,Villa,124,1979,-7 %
+Elkærvej 141 9381 Sulsted,141,100000.0,20-01-2016,Alm.,307,9,Stuehus,325,1900,
+Elkærvej 9 9381 Sulsted,9,1000000.0,31-12-2015,Alm.,6451,5,Villa,155,1938,
+Bredholtvej 38 9381 Sulsted,38,1250000.0,31-12-2015,Andet,7062,5,Villa,177,1957,
+Strindbergparken 20 9381 Sulsted,20,1500000.0,20-12-2015,Alm.,7653,6,Villa,196,1976,-6 %
+Kuskgårdsvej 16 9381 Sulsted,16,600500.0,04-12-2015,Andet,3849,4,Villa,156,1985,
+Mindevej 8 9381 Sulsted,8,1100000.0,03-12-2015,Alm.,8029,6,Villa,137,1921,
+Troldelunden 5 9381 Sulsted,5,1765000.0,20-11-2015,Alm.,11314,5,Villa,156,2001,-2 %
+Sølgårdvej 70 9381 Sulsted,70,1720000.0,17-11-2015,Auktion,6490,5,Villa,265,1921,-34 %
+Milbakvej 29 9381 Sulsted,29,900000.0,03-11-2015,Alm.,5625,5,Stuehus,160,1969,-18 %
+Korsbrovej 27 9381 Sulsted,27,550000.0,19-10-2015,Alm.,4583,5,Stuehus,120,1890,
+Troldelunden 6 9381 Sulsted,6,2100000.0,14-10-2015,Alm.,12727,5,Villa,165,2000,-4 %
+Elkærvej 146 9381 Sulsted,146,690000.0,09-10-2015,Alm.,7666,5,Stuehus,90,1921,
+Strindbergparken 38 9381 Sulsted,38,1050000.0,09-10-2015,Alm.,8750,4,Villa,120,1974,-4 %
+Hammervej 26 9381 Sulsted,26,1600000.0,07-10-2015,Alm.,9302,6,Stuehus,172,1989,
+Kuskgårdsvej 9 9381 Sulsted,9,1675000.0,01-10-2015,Alm.,10601,5,Villa,158,1877,-1 %
+Bredholtvej 28 9381 Sulsted,28,1190000.0,30-09-2015,Alm.,6839,6,Villa,174,1964,
+Mindevej 30 9381 Sulsted,30,1530000.0,04-09-2015,Alm.,8453,5,Villa,181,1921,-4 %
+Strindbergparken 52 9381 Sulsted,52,1010000.0,03-09-2015,Alm.,8487,4,Villa,119,1973,-3 %
+Troldelunden 7 9381 Sulsted,7,1630000.0,25-08-2015,Alm.,11013,5,Villa,148,2000,-1 %
+Milbakvej 90 9381 Sulsted,90,1299500.0,23-08-2015,Andet,5282,6,Villa,246,1920,
+Præstegårds Mark 2 9381 Sulsted,2,2145000.0,20-08-2015,Fam.,12921,7,Stuehus,166,1924,
+Sulsted Kærvej 14 9381 Sulsted,14,775000.0,20-08-2015,Alm.,7045,4,Villa,110,1969,-3 %
+Bjørnsonparken 80 9381 Sulsted,80,1025000.0,15-08-2015,Alm.,6833,5,Villa,150,1973,-6 %
+Sulsted Kirkevej 21 9381 Sulsted,21,2000000.0,29-07-2015,Fam.,10000,7,Stuehus,200,1976,
+Sulsted Engvej 6 9381 Sulsted,6,1000000.0,08-07-2015,Alm.,8333,4,Villa,120,1964,-9 %
+Strindbergparken 25 9381 Sulsted,25,780000.0,25-06-2015,Alm.,4041,8,Villa,193,1997,
+Elkærvej 77 9381 Sulsted,77,465000.0,13-06-2015,Alm.,3394,8,Villa,137,1927,
+Strindbergparken 32 9381 Sulsted,32,1375000.0,26-05-2015,Alm.,7902,6,Villa,174,1977,-8 %
+Sulsted Kærvej 6 9381 Sulsted,6,1150000.0,25-05-2015,Alm.,7324,5,Villa,157,1968,-4 %
+Strindbergparken 19A 9381 Sulsted,0,875000.0,21-04-2015,Alm.,9615,3,Rækkehus,91,1982,-8 %
+Strindbergparken 16 9381 Sulsted,16,1000000.0,08-04-2015,Alm.,7092,4,Villa,141,1976,-9 %
+Bjørnsonparken 18A 9381 Sulsted,0,665000.0,26-03-2015,Alm.,4523,4,Villa,147,1932,-5 %
+Milbakvej 110 9381 Sulsted,110,2000000.0,15-03-2015,Alm.,10928,6,Villa,183,1931,-5 %
+Milbakvej 40 9381 Sulsted,40,1575000.0,08-03-2015,Alm.,7954,7,Stuehus,198,1923,-12 %
+Bjørnsonparken 71 9381 Sulsted,71,1200000.0,03-03-2015,Alm.,7741,6,Villa,155,1973,-7 %
+Elkærvej 27 9381 Sulsted,27,650000.0,24-02-2015,Alm.,6565,4,Villa,99,1966,-18 %
+Milbakvej 56 9381 Sulsted,56,1795000.0,19-02-2015,Alm.,9348,6,Villa,192,1975,0 %
+Tvedens Alle 49 9381 Sulsted,49,1495000.0,05-02-2015,Alm.,9966,5,Villa,150,1971,0 %
+Småengevej 25 9381 Sulsted,25,1685000.0,23-01-2015,Alm.,11308,5,Villa,149,2001,0 %
+Bjørnsonparken 11 9381 Sulsted,11,1075000.0,29-12-2014,Alm.,8958,4,Villa,120,1974,-9 %
+Strindbergparken 2 9381 Sulsted,2,1100000.0,23-12-2014,Alm.,9166,3,Villa,120,1976,-8 %
+Milbakvej 60 9381 Sulsted,60,306653.0,22-12-2014,Alm.,1782,6,Villa,172,1960,-56 %
+Elkærvej 121 9381 Sulsted,121,986526.0,18-12-2014,Fam.,8290,4,Stuehus,119,1968,
+Engvej 77 9381 Sulsted,77,2525000.0,03-12-2014,Alm.,14595,6,Stuehus,173,1925,33 %
+Ajstrup Mosevej 8 9381 Sulsted,8,925000.0,26-11-2014,Alm.,7644,3,Villa,121,1902,-7 %
+Elkærvej 74 9381 Sulsted,74,715000.0,26-11-2014,Alm.,3885,6,Villa,184,1921,-28 %
+Sulsted Landevej 69 9381 Sulsted,69,617348.0,10-11-2014,Andet,4861,5,Villa,127,1943,
+Sulstedvej 102 9381 Sulsted,102,1500000.0,31-10-2014,Alm.,12295,5,Stuehus,122,1851,-6 %
+Elkærvej 44 9381 Sulsted,44,372131.0,21-10-2014,Auktion,4770,2,Villa,78,1943,
+Sulsted Landevej 55 9381 Sulsted,55,670200.0,07-10-2014,Auktion,2577,6,Villa,260,1920,
+Sulsted Landevej 148 9381 Sulsted,148,675000.0,17-09-2014,Alm.,6081,4,Villa,111,1952,-3 %
+Ajstrup Nørrehede 22 9381 Sulsted,22,985000.0,19-08-2014,Alm.,12160,3,Stuehus,81,1829,
+Toftegårdsparken 20 9381 Sulsted,20,825000.0,15-08-2014,Fam.,3666,7,Villa,225,1971,
+Gartnerkrogen 5 9381 Sulsted,5,1500000.0,05-08-2014,Alm.,8771,9,Villa,171,1967,-6 %
+Bjørnsonparken 46 9381 Sulsted,46,1425000.0,11-06-2014,Alm.,5480,6,Villa,260,1977,-11 %
+Skråvej 110 9381 Sulsted,110,1725000.0,26-05-2014,Alm.,11577,5,Villa,149,1927,-4 %
+Sulsted Kærvej 4 9381 Sulsted,4,850000.0,26-05-2014,Alm.,6296,4,Villa,135,1971,-10 %
+Harald Branths Vej 10 9381 Sulsted,10,935000.0,20-05-2014,Alm.,6584,4,Villa,142,1969,-4 %
+Ajstrup Sønderhede 20 9381 Sulsted,20,11800000.0,13-05-2014,Alm.,103508,5,Stuehus,114,1870,
+Hammervej 6 9381 Sulsted,6,615000.0,01-05-2014,Fam.,3435,8,Villa,179,1957,
+Bjørnsonparken 14 9381 Sulsted,14,1050000.0,17-04-2014,Alm.,8750,4,Villa,120,1976,-4 %
+Strindbergparken 5 9381 Sulsted,5,1110000.0,14-04-2014,Alm.,9568,4,Villa,116,1985,-5 %
+Sigurd Hoels Vej 13 9381 Sulsted,13,498000.0,09-04-2014,Alm.,5595,3,Villa,89,1948,0 %
+Aksel Sandemose Vej 3 9381 Sulsted,3,750000.0,06-04-2014,Alm.,8333,3,Villa,90,1963,-6 %
+Hammervej 9 9381 Sulsted,9,561000.0,07-03-2014,Fam.,5783,4,Villa,97,1964,
+Milbakvej 96 9381 Sulsted,96,750000.0,25-02-2014,Auktion,8152,3,Stuehus,92,1921,
+Byrholtvej 25 9381 Sulsted,25,515782.0,23-02-2014,Alm.,6447,3,Stuehus,80,1934,
+Bjørnsonparken 64 9381 Sulsted,64,1375000.0,18-02-2014,Alm.,6806,7,Villa,202,1975,-7 %
+Vestergårdsvej 9 9381 Sulsted,9,1420000.0,17-02-2014,Alm.,8711,6,Villa,163,1969,2 %
+Engvej 122 9381 Sulsted,122,559782.0,13-02-2014,Fam.,3198,6,Stuehus,175,1980,
+Jonas Lies Vej 2 9381 Sulsted,2,727000.0,10-02-2014,Alm.,3972,6,Villa,183,1922,-9 %
+Strindbergparken 60 9381 Sulsted,60,1076896.0,14-01-2014,Auktion,6903,5,Villa,156,1978,
+Bjørnsonparken 76 9381 Sulsted,76,905000.0,23-12-2013,Alm.,7541,4,Villa,120,1973,-9 %
+Bjørnsonparken 59 9381 Sulsted,59,1375000.0,18-12-2013,Alm.,11458,4,Villa,120,1973,-5 %
+Vestergårdsvej 7 9381 Sulsted,7,650000.0,20-11-2013,Alm.,6770,3,Villa,96,1961,-18 %
+Harald Branths Vej 9 9381 Sulsted,9,364242.0,10-11-2013,Alm.,3195,4,Villa,114,1975,
+Sulsted Engvej 4 9381 Sulsted,4,840000.0,10-10-2013,Alm.,6222,4,Villa,135,1966,-6 %
+Tvedens Alle 27 9381 Sulsted,27,1440000.0,10-10-2013,Alm.,7783,6,Villa,185,1972,-4 %
+Kuskgårdsvej 23 9381 Sulsted,23,2100000.0,05-09-2013,Alm.,8823,9,Stuehus,238,1968,
+Elkærvej 78 9381 Sulsted,78,1725000.0,31-08-2013,Alm.,5324,11,Villa,324,1901,-18 %
+Sigurd Hoels Vej 10 9381 Sulsted,10,370000.0,21-07-2013,Alm.,4457,3,Villa,83,1933,-6 %
+Niels Anesens Vej 20 9381 Sulsted,20,2440000.0,12-07-2013,Alm.,9348,8,Villa,261,1917,-6 %
+Holtevej 20 9381 Sulsted,20,462000.0,04-07-2013,Fam.,3526,4,Villa,131,1974,
+Sulsted Landevej 125 9381 Sulsted,125,718175.0,04-07-2013,Andet,1889,9,Villa,380,1885,
+Elkærvej 62 9381 Sulsted,62,500000.0,26-06-2013,Alm.,5555,4,Villa,90,1959,-28 %
+Strindbergparken 27 9381 Sulsted,27,2375000.0,20-06-2013,Alm.,15522,4,Villa,153,2003,-1 %
+Bjørnsonparken 73 9381 Sulsted,73,998000.0,10-06-2013,Alm.,6835,5,Villa,146,1974,-9 %
+Bjørnsonparken 55 9381 Sulsted,55,850000.0,04-06-2013,Auktion,4106,5,Villa,207,1975,
+Sindholtvej 38 9381 Sulsted,38,885000.0,28-05-2013,Alm.,7695,3,Villa,115,1942,0 %
+Bjørnsonparken 60 9381 Sulsted,60,1250000.0,14-03-2013,Alm.,8333,4,Villa,150,1976,-3 %
+Ajstrupvej 21 9381 Sulsted,21,1495000.0,05-03-2013,Alm.,7786,6,Villa,192,1910,0 %
+Jonas Lies Vej 6 9381 Sulsted,6,500000.0,18-02-2013,Alm.,3571,5,Villa,140,1936,-33 %
+Tvedens Alle 71 9381 Sulsted,71,1650000.0,29-01-2013,Alm.,10185,4,Villa,162,1969,-3 %
+Knut Hamsuns Vej 5 9381 Sulsted,5,690000.0,02-01-2013,Alm.,4233,4,Villa,163,1933,-23 %
+Tvedens Alle 83 9381 Sulsted,83,1300000.0,17-12-2012,Alm.,9489,4,Villa,137,1970,-7 %
+Kuskgårdsvej 13 9381 Sulsted,13,225000.0,11-12-2012,Alm.,1562,4,Villa,144,2013,
+Bjørnsonparken 35 9381 Sulsted,35,1200000.0,10-12-2012,Alm.,8823,5,Villa,136,1974,-4 %
+Sulsted Kirkevej 10 9381 Sulsted,10,1330000.0,01-12-2012,Alm.,11769,4,Villa,113,2000,
+Tvedens Alle 45 9381 Sulsted,45,332889.0,05-11-2012,Fam.,3026,4,Villa,110,1971,
+Tvedens Alle 75 9381 Sulsted,75,485103.0,06-09-2012,Alm.,3109,5,Villa,156,1970,
+Elkærvej 48 9381 Sulsted,48,721435.0,20-06-2012,Alm.,5465,6,Villa,132,1943,
+Sulsted Landevej 67 9381 Sulsted,67,1525000.0,23-05-2012,Alm.,10892,5,Villa,140,1940,-4 %
+Sulsted Engvej 27 9381 Sulsted,27,1766000.0,15-05-2012,Alm.,5606,7,Stuehus,315,1850,-65 %
+Toftegårdsparken 17 9381 Sulsted,17,1458800.0,20-04-2012,Alm.,9117,5,Villa,160,1973,
+Bredholtvej 89 9381 Sulsted,89,1600000.0,19-04-2012,Alm.,6451,10,Villa,248,1897,-6 %
+Sulsted Landevej 86 9381 Sulsted,86,1260000.0,03-04-2012,Auktion,6774,4,Villa,186,1916,
+Tvedens Alle 21 9381 Sulsted,21,754209.0,30-03-2012,Andet,4773,6,Villa,158,1972,-58 %
+Milbakvej 95 9381 Sulsted,95,1300000.0,26-01-2012,Auktion,5416,7,Stuehus,240,1910,
+Milbakvej 61 9381 Sulsted,61,1650000.0,25-01-2012,Alm.,10509,5,Stuehus,157,1922,-8 %
+Tvedens Alle 47 9381 Sulsted,47,605555.0,20-12-2011,Andet,4119,4,Villa,147,1971,
+Toftegårdsvej 18 9381 Sulsted,18,125000.0,21-11-2011,Alm.,413,7,Stuehus,302,2011,
+Kuskgårdsvej 49 9381 Sulsted,49,2160000.0,03-11-2011,Alm.,7081,11,Stuehus,305,1930,-6 %
+Toftegårdsparken 12 9381 Sulsted,12,1325000.0,07-10-2011,Alm.,7658,7,Villa,173,1968,-7 %
+Sindholtvej 54 9381 Sulsted,54,1700000.0,06-10-2011,Alm.,8095,5,Villa,210,1920,-5 %
+Sulsted Landevej 152 9381 Sulsted,152,787500.0,26-09-2011,Alm.,6730,3,Villa,117,1954,-7 %
+Hammervej 8 9381 Sulsted,8,574500.0,20-09-2011,Andet,3524,5,Villa,163,1973,
+Knut Hamsuns Vej 4 9381 Sulsted,4,755000.0,20-09-2011,Alm.,5279,5,Villa,143,1950,-5 %
+Engvej 93 9381 Sulsted,93,1735000.0,19-08-2011,Alm.,13769,4,Villa,126,1962,-7 %
+Hammerhusvej 35A 9381 Sulsted,0,467568.0,24-07-2011,Alm.,2174,7,Rækkehus,215,1991,
+Skråvej 112 9381 Sulsted,112,1740000.0,13-07-2011,Alm.,8656,8,Stuehus,201,1912,
+Elkærvej 35 9381 Sulsted,35,1400000.0,06-07-2011,Alm.,7142,7,Stuehus,196,1877,-6 %
+Elkærvej 64 9381 Sulsted,64,1120000.0,05-07-2011,Alm.,7943,5,Villa,141,1958,-6 %
+Sulsted Landevej 97A 9381 Sulsted,0,1230000.0,21-06-2011,Alm.,8482,4,Villa,145,1969,-5 %
+Alexander Kiellands Vej 4 9381 Sulsted,4,1100000.0,16-06-2011,Alm.,6470,5,Villa,170,1957,-15 %
+Strindbergparken 34 9381 Sulsted,34,1195000.0,01-06-2011,Alm.,10301,4,Villa,116,1978,0 %
+Sulsted Landevej 150 9381 Sulsted,150,700000.0,21-04-2011,Alm.,5109,5,Rækkehus,137,1952,-6 %
+Ajstrup Mosevej 15 9381 Sulsted,15,1300000.0,19-04-2011,Alm.,6310,8,Villa,206,1900,-7 %
+Sølgårdvej 94 9381 Sulsted,94,725000.0,13-04-2011,Alm.,4531,6,Villa,160,1916,-15 %
+Strindbergparken 4 9381 Sulsted,4,1298000.0,04-04-2011,Alm.,0,6,Villa,162,1976,0 %
+Milbakvej 99 9381 Sulsted,99,1205000.0,17-03-2011,Alm.,5906,6,Villa,204,1927,-5 %
+Sølgårdvej 92 9381 Sulsted,92,1400000.0,18-02-2011,Alm.,10000,3,Stuehus,140,1925,
+Strindbergparken 13B 9381 Sulsted,0,735000.0,13-01-2011,Alm.,8076,4,Rækkehus,91,1983,-8 %
+Stokbrovej 49 9381 Sulsted,49,582391.0,16-12-2010,Alm.,3639,5,Villa,160,1920,
+Sulsted Engvej 16 9381 Sulsted,16,433000.0,14-12-2010,Fam.,7216,2,Villa,60,1907,
+Holtevej 16 9381 Sulsted,16,500000.0,28-10-2010,Alm.,6097,2,Villa,82,1959,-16 %
+Milbakvej 44 9381 Sulsted,44,1050000.0,26-09-2010,Alm.,3750,9,Villa,280,1928,-12 %
+Strindbergparken 9 9381 Sulsted,9,1600000.0,13-09-2010,Alm.,11510,5,Villa,139,1986,-4 %
+Vestergårdsvej 19 9381 Sulsted,19,870000.0,09-09-2010,Alm.,7909,4,Villa,110,1969,-3 %
+Bjørnsonparken 52 9381 Sulsted,52,1200000.0,08-09-2010,Alm.,10000,2,Villa,120,1975,-4 %
+Kuskgårdsvej 32 9381 Sulsted,32,680000.0,10-08-2010,Alm.,5312,5,Rækkehus,128,1877,-24 %
+Elkærvej 38 9381 Sulsted,38,835000.0,05-08-2010,Alm.,8697,3,Villa,96,1955,-2 %
+Elkærvej 138 9381 Sulsted,138,1495000.0,13-07-2010,Alm.,12254,5,Stuehus,122,1927,7 %
+Staprisvej 8 9381 Sulsted,8,1950000.0,10-06-2010,Alm.,0,6,Villa,236,1870,
+Sulsted Kærvej 8 9381 Sulsted,8,810000.0,02-06-2010,Alm.,7500,4,Villa,108,1968,-5 %
+Toftegårdsparken 19 9381 Sulsted,19,1230000.0,01-06-2010,Alm.,9840,5,Villa,125,1975,-2 %
+Niels Anesens Vej 3 9381 Sulsted,3,1025000.0,30-05-2010,Alm.,8200,4,Villa,125,1973,-6 %
+Sulsted Landevej 84 9381 Sulsted,84,730000.0,21-05-2010,Alm.,7525,5,Villa,97,1938,-2 %
+Strindbergparken 46 9381 Sulsted,46,600000.0,18-05-2010,Auktion,4316,4,Villa,139,1975,
+Sulsted Kirkevej 14 9381 Sulsted,14,300000.0,28-04-2010,Alm.,1048,6,Stuehus,286,2013,
+Larsgårds Mark 36 9381 Sulsted,36,2850000.0,22-04-2010,Alm.,12555,5,Stuehus,227,2004,-5 %
+Harald Branths Vej 7 9381 Sulsted,7,845000.0,26-02-2010,Alm.,6983,4,Villa,121,1981,0 %
+Bjørnsonparken 47 9381 Sulsted,47,1130000.0,05-02-2010,Alm.,8248,4,Villa,137,1974,-5 %
+"Elkærvej 3, 1 9381 Sulsted",1,900000.0,18-01-2010,Alm.,8823,2,Lejlighed,102,1954,
+Ryetvej 10 9381 Sulsted,10,1340000.0,16-12-2009,Alm.,6203,7,Stuehus,216,1914,-16 %
+Sølgårdvej 60 9381 Sulsted,60,569120.0,11-12-2009,Fam.,7488,3,Stuehus,76,1903,
+Bjørnsonparken 5 9381 Sulsted,5,1225000.0,25-11-2009,Alm.,10208,4,Villa,120,1976,-1 %
+Ryetvej 20 9381 Sulsted,20,5136450.0,04-11-2009,Alm.,22528,8,Stuehus,228,1920,
+Tvedens Alle 15 9381 Sulsted,15,1400000.0,03-11-2009,Alm.,9459,6,Villa,148,1972,-6 %
+Alexander Kiellands Vej 2 9381 Sulsted,2,1800000.0,29-09-2009,Alm.,13138,5,Villa,137,1956,-5 %
+Elkærvej 73 9381 Sulsted,73,1025000.0,17-09-2009,Alm.,4555,6,Villa,225,1920,-6 %
+Stokbrovej 46 9381 Sulsted,46,522500.0,30-08-2009,Andet,5741,3,Villa,91,1943,
+Troldelunden 12 9381 Sulsted,12,735000.0,06-08-2009,Alm.,4200,6,Villa,175,2002,
+Sulsted Engvej 25 9381 Sulsted,25,590000.0,23-07-2009,Alm.,5566,4,Villa,106,1870,-9 %
+Tvedens Alle 11 9381 Sulsted,11,660990.0,10-07-2009,Alm.,4183,5,Villa,158,1977,
+Bredholtvej 25 9381 Sulsted,25,1150000.0,22-06-2009,Alm.,6052,6,Villa,190,1963,
+Vestergårdsvej 12 9381 Sulsted,12,400000.0,15-05-2009,Auktion,3571,5,Villa,112,1948,
+Småengevej 14 9381 Sulsted,14,1000000.0,24-04-2009,Alm.,6849,5,Villa,146,2013,
+Doktorstien 7 9381 Sulsted,7,420000.0,22-04-2009,Fam.,3652,3,Villa,115,1940,
+Bjørnsonparken 20 9381 Sulsted,20,1380000.0,03-04-2009,Alm.,8571,6,Villa,161,1980,
+Sulsted Landevej 132 9381 Sulsted,132,1500000.0,20-03-2009,Fam.,10563,4,Stuehus,142,2011,-21 %
+Bjørnsonparken 18B 9381 Sulsted,0,493500.0,16-03-2009,Alm.,4328,4,Villa,114,1977,
+Elkærvej 18 9381 Sulsted,18,578100.0,02-03-2009,Alm.,4624,4,Villa,125,1930,
+Holtevej 6 9381 Sulsted,6,360000.0,30-01-2009,Alm.,2748,5,Villa,131,1890,-20 %
+Sigurd Hoels Vej 7 9381 Sulsted,7,518345.0,26-01-2009,Andet,3839,5,Villa,135,1915,
+Elkærvej 65 9381 Sulsted,65,885000.0,29-12-2008,Alm.,5900,5,Villa,150,1930,-6 %
+Alexander Kiellands Vej 6 9381 Sulsted,6,795000.0,21-12-2008,Alm.,6022,4,Villa,132,1957,-11 %
+Niels Anesens Vej 12 9381 Sulsted,12,1267100.0,13-10-2008,Alm.,9181,5,Villa,138,1933,
+Niels Anesens Vej 21 9381 Sulsted,21,800000.0,08-10-2008,Fam.,8163,4,Villa,98,1960,
+Strindbergparken 13A 9381 Sulsted,0,698000.0,08-10-2008,Alm.,7670,4,Rækkehus,91,1983,
+Bjørnsonparken 8 9381 Sulsted,8,895000.0,07-10-2008,Alm.,6258,5,Villa,143,1975,-10 %
+Sulsted Kirkevej 40 9381 Sulsted,40,318500.0,27-09-2008,Fam.,4900,2,Sommerhus,65,1958,
+Hammervej 16 9381 Sulsted,16,2220000.0,07-09-2008,Alm.,12685,5,Villa,175,2008,-3 %
+Strindbergparken 1 9381 Sulsted,1,1560000.0,04-09-2008,Alm.,10196,6,Villa,153,1979,-5 %
+Strindbergparken 40 9381 Sulsted,40,1670000.0,15-08-2008,Alm.,9823,5,Villa,170,1973,-1 %
+Sigurd Hoels Vej 1 9381 Sulsted,1,949000.0,11-07-2008,Alm.,8111,4,Villa,117,1928,-5 %
+Bjørnsonparken 6 9381 Sulsted,6,2195000.0,27-05-2008,Alm.,11737,5,Villa,187,2006,0 %
+Sigurd Hoels Vej 2 9381 Sulsted,2,1157500.0,14-05-2008,Alm.,8094,4,Villa,143,1936,-3 %
+Bjørnsonparken 66 9381 Sulsted,66,400000.0,08-05-2008,Alm.,1532,6,Villa,261,2009,
+Kuskgårdsvej 47 9381 Sulsted,47,1300000.0,06-05-2008,Alm.,6372,6,Stuehus,204,1971,
+Toftegårdsparken 24 9381 Sulsted,24,1100000.0,03-05-2008,Alm.,8800,4,Villa,125,1969,0 %
+Bjørnsonparken 38 9381 Sulsted,38,1340000.0,28-04-2008,Alm.,10806,4,Villa,124,1976,-4 %
+Bjørnsonparken 24 9381 Sulsted,24,800000.0,15-04-2008,Alm.,5714,4,Villa,140,1974,
+Sindholtvej 6 9381 Sulsted,6,1000000.0,14-04-2008,Alm.,8547,4,Villa,117,1940,-5 %
+Bjørnsonparken 48 9381 Sulsted,48,1395000.0,14-03-2008,Alm.,10984,4,Villa,127,1977,0 %
+Byrholtvej 28 9381 Sulsted,28,57000.0,03-02-2008,Alm.,0,9,Stuehus,340,1980,
+Bredholtvej 27 9381 Sulsted,27,1495000.0,31-01-2008,Alm.,14238,5,Villa,105,1936,-6 %
+Engvej 95 9381 Sulsted,95,1295000.0,08-01-2008,Alm.,10791,6,Villa,120,1917,
+Sølgårdvej 15 9381 Sulsted,15,4335000.0,17-12-2007,Fam.,25203,7,Stuehus,172,1890,
+Milbakvej 84 9381 Sulsted,84,2725000.0,12-12-2007,Alm.,13762,6,Stuehus,198,1923,-2 %
+Elkærvej 15 9381 Sulsted,15,700000.0,30-11-2007,Alm.,5000,10,Servicevirksomhed,140,1930,
+Birkestien 4 9381 Sulsted,4,1112500.0,27-11-2007,Alm.,11125,3,Villa,100,1967,-1 %
+Sulsted Kirkevej 3 9381 Sulsted,3,475000.0,23-11-2007,Alm.,9134,2,Villa,52,1928,
+Ajstrup Mosevej 9 9381 Sulsted,9,430000.0,20-11-2007,Fam.,6142,3,Stuehus,70,1902,-46 %
+Småengevej 27 9381 Sulsted,27,923500.0,08-11-2007,Andet,6368,5,Villa,145,2003,
+Elkærvej 131 9381 Sulsted,131,1004860.0,08-11-2007,Alm.,5288,8,Stuehus,190,1901,
+Toftelodden 9 9381 Sulsted,9,760000.0,06-11-2007,Alm.,8539,3,Villa,89,1946,-2 %
+Ajstrup Nørrehede 9 9381 Sulsted,9,1812500.0,26-09-2007,Alm.,9108,7,Stuehus,199,1905,-2 %
+Bredholtvej 36 9381 Sulsted,36,1199000.0,18-09-2007,Alm.,6055,4,Villa,198,1907,
+Elkærvej 20 9381 Sulsted,20,565000.0,17-09-2007,Fam.,5947,3,Villa,95,1932,
+Vestergårdsvej 10 9381 Sulsted,10,935000.0,19-08-2007,Alm.,9946,4,Villa,94,1948,-4 %
+Tvedens Alle 85 9381 Sulsted,85,1595000.0,17-08-2007,Alm.,12460,6,Villa,128,2007,
+Vestergårdsvej 24 9381 Sulsted,24,765000.0,08-08-2007,Alm.,6538,5,Villa,117,1967,
+Toftegårdsparken 23 9381 Sulsted,23,2025000.0,25-06-2007,Alm.,11571,8,Villa,175,1973,
+Mindevej 22 9381 Sulsted,22,1995000.0,23-06-2007,Alm.,10611,6,Villa,188,1923,
+Sulsted Landevej 110 9381 Sulsted,110,1300000.0,05-06-2007,Fam.,9285,4,Stuehus,140,1890,
+Milbakvej 31 9381 Sulsted,31,993750.0,01-06-2007,Alm.,5777,6,Stuehus,172,1921,
+Kuskgårdsvej 27 9381 Sulsted,27,1395000.0,22-05-2007,Alm.,8611,6,Villa,162,1969,
+Sigurd Hoels Vej 4 9381 Sulsted,4,900000.0,02-04-2007,Alm.,7258,4,Villa,124,1928,
+Niels Anesens Vej 15B 9381 Sulsted,0,1475000.0,21-03-2007,Alm.,12291,4,Villa,120,1953,
+Tvedens Alle 53 9381 Sulsted,53,1300000.0,14-03-2007,Alm.,7222,5,Villa,180,1971,
+Milbakvej 46 9381 Sulsted,46,540120.0,08-01-2007,Alm.,2500,5,Stuehus,216,1922,
+Hammervej 28 9381 Sulsted,28,1400000.0,05-01-2007,Fam.,12727,5,Stuehus,110,1930,
+Bjørnsonparken 30 9381 Sulsted,30,465000.0,06-12-2006,Fam.,3974,5,Villa,117,1975,
+Engvej 119 9381 Sulsted,119,2511525.0,16-11-2006,Alm.,13288,5,Stuehus,189,1929,
+Engvej 117A 9381 Sulsted,0,125000.0,02-11-2006,Fam.,576,6,Stuehus,217,1941,
+Byrholtvej 6 9381 Sulsted,6,588270.0,19-10-2006,Alm.,3795,5,Villa,155,2008,
+Alexander Kiellands Vej 15 9381 Sulsted,15,745000.0,19-10-2006,Alm.,7303,3,Villa,102,1965,
+Ajstrupvej 19 9381 Sulsted,19,510000.0,17-10-2006,Alm.,4553,3,Villa,112,1898,
+"Bredholtvej 33, 1. TH 9381 Sulsted",0,1500000.0,04-10-2006,Alm.,24590,2,Villa,61,1907,
+Sigurd Hoels Vej 9 9381 Sulsted,9,390000.0,18-09-2006,Andet,3979,3,Villa,98,1932,
+Elkærvej 115 9381 Sulsted,115,1450000.0,07-09-2006,Alm.,7671,6,Villa,189,1927,
+Kuskgårdsvej 28 9381 Sulsted,28,450500.0,04-09-2006,Alm.,6435,4,Villa,70,1910,
+Melkærvej 6 9381 Sulsted,6,400000.0,31-08-2006,Fam.,3571,5,Villa,112,1900,
+Sulsted Kærvej 2 9381 Sulsted,2,1360000.0,14-08-2006,Alm.,8831,4,Villa,154,1978,
+Strindbergparken 17A 9381 Sulsted,0,795000.0,27-07-2006,Alm.,8457,4,Rækkehus,94,1981,
+Sulsted Engvej 10 9381 Sulsted,10,1055000.0,06-07-2006,Alm.,10144,3,Villa,104,1957,
+Bjørnsonparken 21 9381 Sulsted,21,1310000.0,04-07-2006,Alm.,10564,4,Villa,124,1974,
+Elkærvej 140 9381 Sulsted,140,960000.0,06-06-2006,Alm.,0,8,Villa,309,1925,
+Kuskgårdsvej 51 9381 Sulsted,51,30000.0,19-05-2006,Alm.,291,4,Villa,103,1907,
+Niels Anesens Vej 4 9381 Sulsted,4,885000.0,18-05-2006,Alm.,8850,4,Villa,100,1965,
+Niels Anesens Vej 23 9381 Sulsted,23,1000000.0,05-04-2006,Alm.,4761,8,Villa,210,1924,
+Småengevej 39 9381 Sulsted,39,175000.0,22-03-2006,Fam.,1011,5,Villa,173,2007,
+Bjørnsonparken 1 9381 Sulsted,1,1050000.0,20-03-2006,Alm.,7191,4,Villa,146,1979,
+Milbakvej 76 9381 Sulsted,76,3145000.0,06-03-2006,Alm.,23296,5,Stuehus,135,1929,
+Staprisvej 4 9381 Sulsted,4,76740.0,07-02-2006,Alm.,902,3,Stuehus,85,1902,
+Sulsted Landevej 80 9381 Sulsted,80,635000.0,01-02-2006,Alm.,6479,5,Villa,98,1910,
+Strindbergparken 10 9381 Sulsted,10,1100000.0,05-01-2006,Alm.,5612,6,Villa,196,1975,
+Hammervej 2 9381 Sulsted,2,456000.0,18-10-2005,Auktion,4342,5,Villa,105,1958,
+Sulsted Kærvej 13 9381 Sulsted,13,1085000.0,04-10-2005,Alm.,7185,5,Villa,151,1969,
+Ajstrup Sønderhede 10 9381 Sulsted,10,1395000.0,28-09-2005,Alm.,5557,10,Stuehus,251,1941,
+Tvedens Alle 91 9381 Sulsted,91,895000.0,25-09-2005,Alm.,5700,4,Villa,157,1971,
+Sindholtvej 27 9381 Sulsted,27,1650000.0,17-09-2005,Fam.,7710,5,Stuehus,214,1927,
+Elkærvej 25 9381 Sulsted,25,848000.0,14-09-2005,Alm.,7066,4,Villa,120,1966,
+Troldelunden 11 9381 Sulsted,11,140000.0,13-09-2005,Fam.,843,5,Villa,166,2008,
+Harald Branths Vej 3 9381 Sulsted,3,2300000.0,30-08-2005,Alm.,14197,9,Villa,162,2002,
+Sulsted Kærvej 11 9381 Sulsted,11,1195000.0,18-08-2005,Alm.,6713,5,Villa,178,1970,
+Elkærvej 130 9381 Sulsted,130,1495000.0,18-08-2005,Alm.,8169,7,Villa,183,1922,
+Sølgårdvej 88 9381 Sulsted,88,855000.0,07-08-2005,Alm.,5411,5,Villa,158,1878,
+Bjørnsonparken 17 9381 Sulsted,17,985000.0,19-07-2005,Alm.,4477,6,Villa,220,1975,
+Harald Branths Vej 6 9381 Sulsted,6,280000.0,27-06-2005,Alm.,1489,6,Villa,188,2007,
+Mindevej 16 9381 Sulsted,16,760000.0,20-06-2005,Alm.,0,8,Stuehus,178,1930,
+Strindbergparken 44 9381 Sulsted,44,1035000.0,14-06-2005,Alm.,8414,5,Villa,123,1974,
+Sulsted Kirkevej 4 9381 Sulsted,4,1235000.0,18-05-2005,Alm.,10122,4,Villa,122,1986,
+Toftegårdsparken 36 9381 Sulsted,36,1015000.0,20-04-2005,Alm.,7250,5,Villa,140,1973,
+Tvedens Alle 14 9381 Sulsted,14,925000.0,20-04-2005,Alm.,6514,4,Villa,142,1973,
+Milbakvej 106 9381 Sulsted,106,1274475.0,19-04-2005,Alm.,7965,5,Stuehus,160,1925,
+Stokbrovej 54 9381 Sulsted,54,530000.0,14-03-2005,Alm.,3045,5,Villa,174,2011,
+Småengevej 31 9381 Sulsted,31,165000.0,03-03-2005,Alm.,916,5,Villa,180,2006,
+Toftegårdsparken 6 9381 Sulsted,6,785000.0,15-02-2005,Alm.,6038,4,Villa,130,1972,
+Toftegårdsparken 32 9381 Sulsted,32,968000.0,06-02-2005,Alm.,5660,7,Villa,171,1969,
+Strindbergparken 14 9381 Sulsted,14,990000.0,10-12-2004,Alm.,6187,5,Villa,160,1975,
+Niels Anesens Vej 27 9381 Sulsted,27,670000.0,14-10-2004,Alm.,6380,5,Villa,105,1900,
+Bredholtvej 54 9381 Sulsted,54,470000.0,11-10-2004,Alm.,3133,5,Villa,150,1927,
+Hammervej 1 9381 Sulsted,1,895000.0,08-10-2004,Alm.,5593,6,Villa,160,1939,
+Stokbrovej 44 9381 Sulsted,44,545000.0,05-10-2004,Alm.,6193,3,Villa,88,1952,
+Kuskgårdsvej 15 9381 Sulsted,15,370000.0,16-08-2004,Alm.,2298,4,Villa,161,2009,
+Sulsted Landevej 47 9381 Sulsted,47,245000.0,13-08-2004,Alm.,0,6,Villa,111,1877,
+Elkærvej 32 9381 Sulsted,32,100000.0,09-08-2004,Alm.,549,4,Villa,182,2005,
+Milbakvej 62 9381 Sulsted,62,650000.0,23-07-2004,Alm.,4779,4,Villa,136,1922,
+Stokbrovej 55 9381 Sulsted,55,830000.0,15-07-2004,Andet,5320,8,Stuehus,156,1910,
+Tvedens Alle 5 9381 Sulsted,5,890000.0,12-07-2004,Alm.,7007,5,Villa,127,1973,
+Ajstrup Sønderhede 40 9381 Sulsted,40,1850000.0,30-06-2004,Alm.,8851,10,Stuehus,209,1908,
+Bjørnsonparken 67 9381 Sulsted,67,998000.0,28-05-2004,Alm.,7231,5,Villa,138,1974,
+Stokbrovej 48 9381 Sulsted,48,331500.0,07-04-2004,Alm.,2933,4,Villa,113,1927,
+Sulsted Kærvej 10 9381 Sulsted,10,939000.0,02-04-2004,Alm.,7007,4,Villa,134,1968,
+Tvedens Alle 69 9381 Sulsted,69,725000.0,20-03-2004,Alm.,7967,3,Villa,91,1969,
+Toftegårdsparken 8 9381 Sulsted,8,680000.0,16-03-2004,Alm.,6071,4,Villa,112,1963,
+Småengevej 8 9381 Sulsted,8,415000.0,29-02-2004,Alm.,0,5,Villa,197,1900,
+Hammerhusvej 25 9381 Sulsted,25,2395000.0,27-02-2004,Alm.,25752,3,Sommerhus,93,1937,
+Niels Anesens Vej 14 9381 Sulsted,14,845000.0,08-01-2004,Alm.,4162,5,Villa,203,1959,
+Sigurd Hoels Vej 17 9381 Sulsted,17,650000.0,30-12-2003,Alm.,6500,3,Villa,100,1913,
+Tvedens Alle 33 9381 Sulsted,33,1025000.0,12-11-2003,Alm.,8760,3,Villa,117,1972,
+Korsbrovej 33 9381 Sulsted,33,450000.0,05-11-2003,Alm.,3103,4,Villa,145,1940,
+Holtevej 2 9381 Sulsted,2,1349999.0,08-10-2003,Alm.,6221,9,Museum o.l.,217,1935,
+Bjørnsonparken 74 9381 Sulsted,74,1000000.0,01-10-2003,Alm.,5649,5,Villa,177,1975,
+Sølgårdvej 79 9381 Sulsted,79,725000.0,29-09-2003,Alm.,0,5,Villa,197,1881,
+Ajstrupvej 45A 9381 Sulsted,0,43800.0,22-09-2003,Fam.,284,5,Villa,154,1827,
+Sulsted Kirkevej 41 9381 Sulsted,41,2280000.0,01-08-2003,Alm.,12063,6,Villa,189,1968,
+Doktorstien 9 9381 Sulsted,9,300000.0,07-07-2003,Alm.,2777,4,Villa,108,1928,
+Bredholtvej 68 9381 Sulsted,68,669000.0,26-05-2003,Alm.,3758,5,Villa,178,1921,
+Staprisvej 18 9381 Sulsted,18,2088800.0,18-05-2003,Alm.,9946,6,Villa,210,1928,
+Bjørnsonparken 53 9381 Sulsted,53,975000.0,06-05-2003,Alm.,7386,5,Villa,132,1974,
+Elkærvej 85 9381 Sulsted,85,725000.0,17-03-2003,Alm.,3502,7,Villa,207,1925,
+Bjørnsonparken 39 9381 Sulsted,39,875000.0,14-03-2003,Alm.,7056,4,Villa,124,1976,
+Niels Anesens Vej 9 9381 Sulsted,9,780000.0,02-02-2003,Alm.,0,5,Villa,134,1960,
+Toftegårdsparken 1 9381 Sulsted,1,670000.0,18-12-2002,Fam.,5775,4,Villa,116,1978,
+Toftegårdsparken 9 9381 Sulsted,9,1003050.0,29-11-2002,Alm.,5451,8,Villa,184,1974,
+Bjørnsonparken 65 9381 Sulsted,65,825000.0,27-10-2002,Alm.,7300,4,Villa,113,1974,
+Stokbrovej 36 9381 Sulsted,36,965000.0,24-10-2002,Alm.,5026,6,Villa,192,1935,
+Bjørnsonparken 68 9381 Sulsted,68,200000.0,03-10-2002,Alm.,1265,4,Villa,158,2004,
+Sulsted Engvej 12A 9381 Sulsted,0,525000.0,01-10-2002,Alm.,5412,3,Villa,97,1960,
+Byrholtvej 34 9381 Sulsted,34,2460500.0,26-09-2002,Fam.,20504,5,Stuehus,120,1898,
+Ajstrupvej 27 9381 Sulsted,27,137000.0,13-09-2002,Alm.,951,6,Stuehus,144,1912,
+Milbakvej 100 9381 Sulsted,100,408611.0,26-08-2002,Alm.,3192,5,Stuehus,128,1922,
+Sulstedvej 115 9381 Sulsted,115,725000.0,30-07-2002,Alm.,0,5,Stuehus,190,1900,
+Engvej 116 9381 Sulsted,116,480000.0,22-07-2002,Alm.,0,6,Stuehus,250,1924,
+Bjørnsonparken 16B 9381 Sulsted,0,225000.0,17-07-2002,Alm.,1442,5,Villa,156,2003,
+Niels Anesens Vej 29 9381 Sulsted,29,1045000.0,18-06-2002,Alm.,9500,6,Villa,110,1942,
+Sulsted Landevej 82 9381 Sulsted,82,530000.0,07-06-2002,Alm.,0,5,Villa,144,1950,
+Troldelunden 3 9381 Sulsted,3,150000.0,13-05-2002,Alm.,882,6,Villa,170,2003,
+Vestergårdsvej 22 9381 Sulsted,22,690000.0,08-04-2002,Alm.,7187,4,Villa,96,1967,
+Elkærvej 86 9381 Sulsted,86,1300000.0,11-03-2002,Alm.,6878,6,Villa,189,1920,
+Ajstrupvej 15 9381 Sulsted,15,435000.0,27-10-2001,Alm.,7250,2,Villa,60,1929,
+Sulsted Landevej 154 9381 Sulsted,154,791721.0,25-10-2001,Alm.,7197,4,Villa,110,1970,
+Sulsted Kærvej 9 9381 Sulsted,9,1200000.0,17-10-2001,Alm.,6896,5,Villa,174,1984,
+Troldelunden 9 9381 Sulsted,9,155000.0,15-10-2001,Alm.,1040,6,Villa,149,2004,
+Elkærvej 21 9381 Sulsted,21,600000.0,08-10-2001,Alm.,7142,3,Villa,84,1951,
+Sulsted Landevej 45 9381 Sulsted,45,540000.0,31-08-2001,Alm.,5242,4,Villa,103,1930,
+Aksel Sandemose Vej 1 9381 Sulsted,1,450000.0,29-08-2001,Alm.,3461,5,Villa,130,1962,
+Ajstrupvej 45 9381 Sulsted,45,773000.0,25-08-2001,Fam.,3168,9,Villa,244,1870,
+Milbakvej 50 9381 Sulsted,50,750000.0,24-08-2001,Alm.,5769,3,Stuehus,130,1922,
+Småengevej 37 9381 Sulsted,37,152000.0,01-07-2001,Alm.,980,5,Villa,155,2002,
+Bredholtvej 2 9381 Sulsted,2,1210000.0,11-06-2001,Alm.,6875,7,Stuehus,176,1885,
+Småengevej 35 9381 Sulsted,35,144000.0,08-06-2001,Alm.,1133,5,Villa,127,2001,
+Kuskgårdsvej 42 9381 Sulsted,42,200000.0,28-04-2001,Alm.,1273,5,Villa,157,2003,
+Sigurd Hoels Vej 6 9381 Sulsted,6,425000.0,29-03-2001,Alm.,3102,6,Villa,137,1900,
+Bredholtvej 51 9381 Sulsted,51,880000.0,04-02-2001,Andet,8301,2,Villa,106,1922,
+Milbakvej 77 9381 Sulsted,77,380000.0,12-01-2001,Alm.,3518,3,Villa,108,1923,
+Kuskgårdsvej 39 9381 Sulsted,39,575000.0,12-01-2001,Alm.,3859,5,Villa,149,1903,
+Sulsted Kirkevej 1 9381 Sulsted,1,1700000.0,08-09-2000,Andet,10625,5,Villa,160,1978,
+Bredholtvej 26 9381 Sulsted,26,550000.0,15-08-2000,Fam.,3395,5,Villa,162,1875,
+Niels Anesens Vej 31 9381 Sulsted,31,730000.0,11-08-2000,Alm.,6186,5,Villa,118,1920,
+Sulsted Landevej 128B 9381 Sulsted,0,605000.0,27-06-2000,Alm.,6237,3,Villa,97,1980,
+Vestergårdsvej 18 9381 Sulsted,18,624000.0,16-06-2000,Alm.,5157,3,Villa,121,1968,
+Troldelunden 8 9381 Sulsted,8,140000.0,09-06-2000,Alm.,1068,5,Villa,131,2002,
+Sulsted Landevej 146 9381 Sulsted,146,595000.0,09-06-2000,Alm.,6467,3,Villa,92,1951,
+Larsgårds Mark 40 9381 Sulsted,40,100000.0,08-05-2000,Alm.,495,6,Stuehus,202,1969,
+Strindbergparken 15B 9381 Sulsted,0,627215.0,02-05-2000,Alm.,6892,4,Rækkehus,91,1982,
+Bredholtvej 3 9381 Sulsted,3,685000.0,30-04-2000,Alm.,5269,6,Villa,130,1937,
+Toftegårdsparken 10 9381 Sulsted,10,871000.0,26-04-2000,Alm.,6751,4,Villa,129,1968,
+Hammervej 60 9381 Sulsted,60,1284000.0,20-03-2000,Alm.,7133,6,Villa,180,1914,
+Kuskgårdsvej 34 9381 Sulsted,34,530018.0,22-02-2000,Alm.,6235,3,Villa,85,1972,
+Aksel Sandemose Vej 11 9381 Sulsted,11,1030000.0,07-02-2000,Alm.,6358,6,Villa,162,1974,
+Sulsted Landevej 64 9381 Sulsted,64,565000.0,07-02-2000,Fam.,6208,3,Villa,91,1877,
+Gartnerkrogen 8 9381 Sulsted,8,1203784.0,03-02-2000,Alm.,9948,6,Villa,121,1857,
+Sulsted Landevej 51 9381 Sulsted,51,421545.0,17-01-2000,Alm.,3903,3,Villa,108,1953,
+Holtevej 50 9381 Sulsted,50,3020000.0,26-12-1999,Fam.,8388,8,Stuehus,360,1900,
+Toftegårdsvej 22 9381 Sulsted,22,1850000.0,05-11-1999,Alm.,9736,23,Døgninstitution,190,1900,
+Bredholtvej 29 9381 Sulsted,29,963606.0,22-10-1999,Alm.,7834,4,Villa,123,1969,
+Sulsted Landevej 48 9381 Sulsted,48,520000.0,22-08-1999,Alm.,3421,8,Villa,152,1912,
+Alexander Kiellands Vej 1 9381 Sulsted,1,727000.0,16-08-1999,Alm.,5345,4,Villa,136,1954,
+Melkærvej 3 9381 Sulsted,3,708043.0,06-08-1999,Alm.,3175,6,Villa,223,1897,
+Hammervej 12 9381 Sulsted,12,327500.0,27-07-1999,Alm.,3852,2,Villa,85,1917,
+Bjørnsonparken 32 9381 Sulsted,32,780000.0,06-07-1999,Fam.,4968,5,Villa,157,1977,
+Sindholtvej 2 9381 Sulsted,2,403619.0,20-06-1999,Alm.,1949,6,Rækkehus,207,1883,
+Bredholtvej 44 9381 Sulsted,44,490070.0,31-05-1999,Alm.,3769,7,Villa,130,1924,
+Milbakvej 32 9381 Sulsted,32,875000.0,11-05-1999,Alm.,0,7,Villa,239,1922,
+Kuskgårdsvej 31 9381 Sulsted,31,450000.0,07-05-1999,Alm.,5357,3,Villa,84,1965,
+Ajstrupvej 32 9381 Sulsted,32,495000.0,05-05-1999,Alm.,0,6,Villa,173,1939,
+Bredholtvej 15 9381 Sulsted,15,1100000.0,03-05-1999,Alm.,0,6,Stuehus,204,1880,
+Ajstrupvej 6 9381 Sulsted,6,1269000.0,21-04-1999,Alm.,7377,5,Villa,172,1947,
+Melkærvej 11 9381 Sulsted,11,5750000.0,14-04-1999,Andet,28750,8,Stuehus,200,1864,
+Knut Hamsuns Vej 7 9381 Sulsted,7,550000.0,14-04-1999,Alm.,3525,5,Villa,156,1956,
+Toftegårdsparken 4 9381 Sulsted,4,995000.0,12-02-1999,Alm.,6419,5,Villa,155,1972,
+Sølgårdvej 25 9381 Sulsted,25,620000.0,19-01-1999,Alm.,4960,4,Stuehus,125,1890,
+Niels Anesens Vej 5 9381 Sulsted,5,15672.0,30-11-1998,Andet,137,4,Villa,114,1964,
+Tvedens Alle 12 9381 Sulsted,12,885000.0,21-10-1998,Alm.,7901,4,Villa,112,1985,
+Jonas Lies Vej 14 9381 Sulsted,14,618538.0,20-10-1998,Alm.,7363,3,Villa,84,1964,
+Kuskgårdsvej 25 9381 Sulsted,25,745000.0,01-09-1998,Alm.,6592,5,Villa,113,1677,
+Sulsted Landevej 140 9381 Sulsted,140,359000.0,21-08-1998,Alm.,4273,3,Villa,84,1964,
+Elkærvej 22 9381 Sulsted,22,852000.0,16-08-1998,Alm.,6553,6,Villa,130,1936,
+Larsgårds Mark 16 9381 Sulsted,16,53189.0,04-08-1998,Fam.,454,5,Villa,117,1714,
+Ajstrupvej 16 9381 Sulsted,16,315000.0,20-07-1998,Alm.,2812,3,Villa,112,1909,
+Milbakvej 85 9381 Sulsted,85,975000.0,01-07-1998,Alm.,8705,4,Stuehus,112,1921,
+Elkærvej 50 9381 Sulsted,50,380000.0,28-06-1998,Alm.,3454,3,Villa,110,1943,
+Jonas Lies Vej 12 9381 Sulsted,12,666000.0,23-06-1998,Alm.,5203,5,Villa,128,1953,
+Sulsted Kirkevej 12 9381 Sulsted,12,500000.0,22-06-1998,Alm.,0,4,Villa,136,1960,
+Ajstrup Nørrehede 15 9381 Sulsted,15,414000.0,17-06-1998,Fam.,3869,3,Villa,107,1903,
+Småengevej 29 9381 Sulsted,29,238000.0,28-05-1998,Alm.,2125,3,Villa,112,1998,
+Gartnerkrogen 7 9381 Sulsted,7,1000000.0,28-05-1998,Alm.,5181,8,Villa,193,1967,
+Elkærvej 40 9381 Sulsted,40,496000.0,23-05-1998,Alm.,4133,3,Villa,120,1947,
+Korsbrovej 54 9381 Sulsted,54,600000.0,19-05-1998,Alm.,3428,5,Stuehus,175,2004,
+Doktorstien 3 9381 Sulsted,3,730000.0,05-05-1998,Alm.,5367,4,Villa,136,1968,
+Milbakvej 36 9381 Sulsted,36,968802.0,24-04-1998,Alm.,4892,4,Villa,198,1921,
+Sindholtvej 50 9381 Sulsted,50,480000.0,10-04-1998,Andet,2242,5,Villa,214,2010,
+Milbakvej 92 9381 Sulsted,92,166000.0,26-03-1998,Alm.,922,6,Stuehus,180,1922,
+Bredholtvej 50 9381 Sulsted,50,527000.0,18-03-1998,Alm.,4149,4,Villa,127,1880,
+Sølgårdvej 48 9381 Sulsted,48,1300000.0,11-03-1998,Alm.,5777,7,Stuehus,225,1989,
+Sigurd Hoels Vej 21 9381 Sulsted,21,405190.0,29-01-1998,Alm.,2701,5,Villa,150,1914,
+Strindbergparken 24 9381 Sulsted,24,740000.0,27-12-1997,Alm.,6548,4,Villa,113,1977,
+Bredholtvej 90 9381 Sulsted,90,568480.0,09-12-1997,Alm.,2429,7,Villa,234,1938,
+Sølgårdvej 14 9381 Sulsted,14,1425000.0,06-11-1997,Alm.,7500,4,Stuehus,190,1877,
+Toftegårdsparken 7 9381 Sulsted,7,890000.0,21-10-1997,Alm.,6095,4,Villa,146,1974,
+Toftelodden 13 9381 Sulsted,13,520000.0,26-09-1997,Fam.,3939,4,Villa,132,1980,
+Gårdhusevej 16 9381 Sulsted,16,217111.0,08-09-1997,Alm.,0,5,Villa,204,1903,
+Sølgårdvej 90 9381 Sulsted,90,930000.0,05-09-1997,Alm.,5000,7,Stuehus,186,1974,
+Knut Hamsuns Vej 1 9381 Sulsted,1,433840.0,15-08-1997,Alm.,2745,3,Villa,158,1909,
+Niels Anesens Vej 1 9381 Sulsted,1,511000.0,11-07-1997,Andet,4120,4,Villa,124,1972,
+Elkærvej 80 9381 Sulsted,80,720000.0,08-07-1997,Alm.,4235,5,Villa,170,1938,
+Hammervej 8B 9381 Sulsted,0,1002035.0,30-06-1997,Alm.,5387,7,Stuehus,186,1900,
+Bredholtvej 75 9381 Sulsted,75,3299334.0,23-06-1997,Alm.,10151,9,Stuehus,325,1800,
+Jonas Lies Vej 5 9381 Sulsted,5,615000.0,18-06-1997,Alm.,5442,4,Villa,113,1954,
+Sølgårdvej 100 9381 Sulsted,100,810000.0,18-06-1997,Alm.,5000,4,Stuehus,162,1935,
+Elkærvej 7 9381 Sulsted,7,515000.0,18-06-1997,Alm.,6280,3,Villa,82,1954,
+Bjørnsonparken 62 9381 Sulsted,62,545000.0,18-06-1997,Alm.,5000,4,Villa,109,1974,
+Bredholtvej 52 9381 Sulsted,52,540000.0,13-06-1997,Alm.,5400,3,Villa,100,1905,
+Jonas Lies Vej 10 9381 Sulsted,10,817080.0,08-06-1997,Alm.,3118,6,Anden beboelse,262,1927,
+Milbakvej 55 9381 Sulsted,55,1025000.0,25-05-1997,Alm.,0,3,Stuehus,184,1922,
+Sindholtvej 30 9381 Sulsted,30,2100000.0,18-04-1997,Fam.,15328,4,Stuehus,137,1984,
+Hammervej 49 9381 Sulsted,49,971488.0,17-03-1997,Alm.,5714,5,Villa,170,1920,
+Tvedens Alle 63 9381 Sulsted,63,665000.0,14-03-1997,Alm.,6045,4,Villa,110,1971,
+Sulsted Landevej 90 9381 Sulsted,90,355000.0,17-02-1997,Alm.,3227,4,Villa,110,1937,
+Staprisvej 5 9381 Sulsted,5,300000.0,13-02-1997,Alm.,1630,4,Villa,184,1998,
+Mindevej 20 9381 Sulsted,20,246166.0,28-01-1997,Alm.,1641,4,Stuehus,150,1925,
+Kuskgårdsvej 29 9381 Sulsted,29,799000.0,27-11-1996,Alm.,5256,4,Villa,152,1971,
+Bjørnsonparken 37 9381 Sulsted,37,616360.0,14-10-1996,Alm.,0,5,Villa,172,1973,
+Sulsted Kærvej 15 9381 Sulsted,15,792845.0,20-09-1996,Alm.,5216,4,Villa,152,1969,
+Bredholtvej 32 9381 Sulsted,32,545000.0,21-08-1996,Alm.,3343,5,Villa,163,1977,
+Gårdhusevej 10 9381 Sulsted,10,850000.0,07-08-1996,Alm.,2544,10,Villa,334,1965,
+Vestergårdsvej 11 9381 Sulsted,11,550000.0,20-06-1996,Alm.,3716,5,Villa,148,1967,
+Ajstrup Mosevej 30 9381 Sulsted,30,1300000.0,19-06-1996,Alm.,6989,6,Stuehus,186,1980,
+Stokbrovej 13 9381 Sulsted,13,500000.0,24-05-1996,Fam.,2732,6,Stuehus,183,1914,
+Præstegårds Mark 4 9381 Sulsted,4,850000.0,13-05-1996,Alm.,7391,4,Stuehus,115,1922,
+Niels Anesens Vej 16 9381 Sulsted,16,369020.0,11-05-1996,Alm.,2292,6,Villa,161,1955,
+Tvedens Alle 81 9381 Sulsted,81,550000.0,19-04-1996,Alm.,4782,4,Villa,115,1987,
+Elkærvej 68 9381 Sulsted,68,645535.0,17-04-1996,Alm.,3452,5,Villa,187,1956,
+Kuskgårdsvej 11 9381 Sulsted,11,600960.0,02-04-1996,Alm.,2276,8,Villa,264,1900,
+Aksel Sandemose Vej 9 9381 Sulsted,9,808000.0,01-04-1996,Alm.,5812,5,Villa,139,1973,
+Stokbrovej 39 9381 Sulsted,39,220000.0,28-03-1996,Alm.,2444,2,Villa,90,1897,
+Toftegårdsparken 2 9381 Sulsted,2,597000.0,19-03-1996,Alm.,4700,4,Villa,127,1972,
+Ajstrup Sønderhede 30 9381 Sulsted,30,240000.0,07-03-1996,Alm.,2181,5,Villa,110,1900,
+Bredholtvej 24 9381 Sulsted,24,553000.0,27-02-1996,Alm.,3686,6,Villa,150,1900,
+Milbakvej 68 9381 Sulsted,68,595000.0,11-12-1995,Alm.,3305,5,Villa,180,1921,
+Tvedens Alle 7 9381 Sulsted,7,680000.0,11-12-1995,Alm.,4689,5,Villa,145,1973,
+Sulsted Kirkevej 8 9381 Sulsted,8,429860.0,30-10-1995,Alm.,2543,7,Villa,169,1970,
+Kuskgårdsvej 21 9381 Sulsted,21,125000.0,12-10-1995,Alm.,706,7,Villa,177,1995,
+Tvedens Alle 17 9381 Sulsted,17,675000.0,05-10-1995,Alm.,4530,6,Villa,149,1972,
+Holtevej 24 9381 Sulsted,24,347810.0,26-09-1995,Alm.,3161,4,Villa,110,1963,
+Bjørnsonparken 9 9381 Sulsted,9,750000.0,21-09-1995,Alm.,4411,5,Villa,170,1974,
+Strindbergparken 3 9381 Sulsted,3,575000.0,15-09-1995,Alm.,4291,4,Villa,134,1980,
+Bjørnsonparken 2 9381 Sulsted,2,671000.0,30-06-1995,Alm.,4533,6,Villa,148,1978,
+Bjørnsonparken 19 9381 Sulsted,19,651820.0,26-06-1995,Alm.,5092,3,Villa,128,1978,
+Elkærvej 55 9381 Sulsted,55,1091330.0,03-06-1995,Alm.,5743,7,Stuehus,190,1965,
+Hammervej 59 9381 Sulsted,59,872500.0,25-05-1995,Alm.,2528,5,Villa,345,1972,
+Elkærvej 23 9381 Sulsted,23,500000.0,03-05-1995,Alm.,3937,6,Villa,127,1960,
+Sulsted Engvej 18 9381 Sulsted,18,85556.0,24-04-1995,Andet,712,3,Villa,120,1922,
+Strindbergparken 36 9381 Sulsted,36,760000.0,24-04-1995,Alm.,5428,4,Villa,140,1973,
+Hammervej 15 9381 Sulsted,15,1237000.0,19-04-1995,Alm.,0,4,Stuehus,207,1922,
+Bredholtvej 40 9381 Sulsted,40,620000.0,30-03-1995,Alm.,2246,7,Villa,276,1875,
+Strindbergparken 17B 9381 Sulsted,0,420000.0,19-02-1995,Alm.,4615,4,Rækkehus,91,1981,
+Sølgårdvej 58 9381 Sulsted,58,485000.0,18-02-1995,Alm.,2650,9,Stuehus,183,1932,
+Bredholtvej 31 9381 Sulsted,31,600000.0,17-11-1994,Alm.,4615,5,Villa,130,1870,
+Elkærvej 76A 9381 Sulsted,0,355000.0,15-11-1994,Alm.,0,5,Villa,178,1900,
+Bjørnsonparken 16A 9381 Sulsted,0,791850.0,08-11-1994,Alm.,5738,5,Villa,138,1987,
+Strindbergparken 7 9381 Sulsted,7,660000.0,31-10-1994,Alm.,5689,4,Villa,116,1985,
+Mindevej 14 9381 Sulsted,14,635000.0,15-09-1994,Alm.,4233,6,Stuehus,150,1921,
+Bredholtvej 43 9381 Sulsted,43,200000.0,29-08-1994,Alm.,1785,4,Villa,112,1919,
+Sulsted Landevej 78 9381 Sulsted,78,710000.0,18-08-1994,Alm.,3697,6,Villa,192,1964,
+Engvej 197 9381 Sulsted,197,822000.0,24-06-1994,Alm.,5708,3,Stuehus,144,1920,
+Ajstrupvej 44 9381 Sulsted,44,380750.0,08-06-1994,Alm.,2293,7,Villa,166,1914,
+Milbakvej 58 9381 Sulsted,58,575000.0,30-05-1994,Alm.,2254,9,Villa,255,1840,
+Bjørnsonparken 82 9381 Sulsted,82,551000.0,24-05-1994,Alm.,3697,5,Villa,149,1974,
+Bjørnsonparken 56 9381 Sulsted,56,550000.0,25-03-1994,Alm.,3021,6,Villa,182,1976,
+Alexander Kiellands Vej 9 9381 Sulsted,9,658960.0,19-03-1994,Alm.,3993,6,Villa,165,1966,
+Elkærvej 66 9381 Sulsted,66,515000.0,01-03-1994,Alm.,2440,5,Villa,211,1966,
+Elkærvej 134 9381 Sulsted,134,172027.0,28-12-1993,Andet,0,5,Villa,174,1921,
+Kuskgårdsvej 17 9381 Sulsted,17,315000.0,25-11-1993,Alm.,2460,3,Villa,128,1796,
+Korsbrovej 39 9381 Sulsted,39,1200000.0,11-11-1993,Alm.,5504,5,Stuehus,218,1939,
+Bjørnsonparken 3 9381 Sulsted,3,510000.0,19-10-1993,Fam.,3333,4,Villa,153,1974,
+Hammervej 85 9381 Sulsted,85,535000.0,30-09-1993,Alm.,2972,6,Villa,180,1897,
+Byrholtvej 16 9381 Sulsted,16,700000.0,30-09-1993,Fam.,3645,6,Stuehus,192,1908,
+Milbakvej 101 9381 Sulsted,101,480000.0,11-09-1993,Alm.,4324,4,Villa,111,1978,
+Bjørnsonparken 42A 9381 Sulsted,0,650000.0,03-08-1993,Alm.,3299,5,Villa,197,1977,
+Stidsholtvej 3 9381 Sulsted,3,470000.0,16-06-1993,Alm.,2422,5,Stuehus,194,1900,
+Hammervej 40 9381 Sulsted,40,450000.0,15-06-1993,Alm.,2812,7,Villa,160,1920,
+Elkærvej 46 9381 Sulsted,46,137874.0,24-05-1993,Auktion,0,4,Villa,169,1942,
+Sølgårdvej 40 9381 Sulsted,40,1413533.0,14-05-1993,Fam.,8725,8,Stuehus,162,1882,
+Sulsted Kirkevej 34 9381 Sulsted,34,70000.0,26-01-1993,Alm.,2333,1,Sommerhus,30,1950,
+Elkærvej 60 9381 Sulsted,60,285000.0,20-01-1993,Fam.,2544,3,Villa,112,1958,
+Milbakvej 51 9381 Sulsted,51,372500.0,15-01-1993,Alm.,0,6,Stuehus,192,1922,
+Bjørnsonparken 40 9381 Sulsted,40,620000.0,19-10-1992,Alm.,3780,5,Villa,164,1974,
+Milbakvej 22 9381 Sulsted,22,584534.0,12-10-1992,Alm.,3247,6,Stuehus,180,1921,
+Sølgårdvej 31 9381 Sulsted,31,62653.0,29-09-1992,Alm.,384,5,Stuehus,163,1928,
+Byrholtvej 3 9381 Sulsted,3,212500.0,21-09-1992,Fam.,0,6,Villa,176,1968,
+Præstegårds Mark 1 9381 Sulsted,1,365000.0,13-08-1992,Alm.,3146,3,Villa,116,1917,
+Bredholtvej 46 9381 Sulsted,46,393500.0,06-08-1992,Alm.,2261,5,Villa,174,1928,
+Bjørnsonparken 34 9381 Sulsted,34,445000.0,14-07-1992,Alm.,3560,5,Villa,125,1976,
+Tvedens Alle 37 9381 Sulsted,37,440000.0,03-07-1992,Alm.,3793,4,Villa,116,1972,
+Bredholtvej 22 9381 Sulsted,22,570000.0,18-06-1992,Alm.,2908,5,Villa,196,1882,
+Tvedens Alle 9 9381 Sulsted,9,284946.0,14-05-1992,Andet,2110,4,Villa,135,1974,
+Bredholtvej 30 9381 Sulsted,30,521716.0,30-04-1992,Alm.,2850,6,Villa,183,1980,
+Jonas Lies Vej 7 9381 Sulsted,7,455000.0,05-04-1992,Alm.,4642,4,Villa,98,1947,
+Gårdhusevej 20 9381 Sulsted,20,293319.0,01-04-1992,Alm.,4190,2,Stuehus,70,1870,
+Sigurd Hoels Vej 3 9381 Sulsted,3,330000.0,15-03-1992,Alm.,1157,9,Villa,285,1910,

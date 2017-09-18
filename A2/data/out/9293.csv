@@ -1,0 +1,689 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Nyvej 2 9293 Kongerslev,2,1100000.0,12-04-2017,Alm.,9016,4,Villa,122,1942,-4 %
+Danmarksgade 32 9293 Kongerslev,32,1600000.0,31-03-2017,Alm.,7207,6,Villa,222,1921,8 %
+Sigsgaardvej 43 9293 Kongerslev,43,67700000.0,23-03-2017,Andet,217684,8,Stuehus,311,1928,
+Skibsted Østergade 8 9293 Kongerslev,8,5453500.0,01-03-2017,Alm.,35643,5,Stuehus,153,1918,
+Kærvej 18 9293 Kongerslev,18,275000.0,28-01-2017,Alm.,2619,4,Villa,105,1969,
+Kongensgade 24 9293 Kongerslev,24,819000.0,23-01-2017,Alm.,4287,4,Villa,191,1974,-8 %
+Fyrrebakken 7 9293 Kongerslev,7,800000.0,17-01-2017,Alm.,6611,4,Villa,121,1968,-5 %
+Lunavej 6A 9293 Kongerslev,0,100000.0,04-01-2017,Alm.,2325,1,Rækkehus,43,1978,
+Jasminvej 9 9293 Kongerslev,9,1495000.0,08-12-2016,Alm.,7400,4,Villa,202,1973,
+Kongerslevvej 14 9293 Kongerslev,14,1200000.0,23-11-2016,Alm.,4615,7,Villa,260,1910,-7 %
+Landmandsgade 44 9293 Kongerslev,44,550000.0,16-11-2016,Alm.,3846,4,Villa,143,1979,-15 %
+Baggesdamvej 7 9293 Kongerslev,7,875000.0,03-11-2016,Alm.,4629,6,Villa,189,1939,-5 %
+Sigsgaardvej 33 9293 Kongerslev,33,945000.0,27-10-2016,Alm.,8437,4,Stuehus,112,1948,-5 %
+Magnoliehaven 17 9293 Kongerslev,17,675000.0,27-10-2016,Fam.,3668,7,Villa,184,1979,
+Fyrrebakken 3 9293 Kongerslev,3,525000.0,17-10-2016,Alm.,4338,5,Villa,121,1965,-4 %
+Lykkevej 18 9293 Kongerslev,18,500000.0,13-10-2016,Alm.,5154,3,Villa,97,1970,-8 %
+Kongerslevvej 8 9293 Kongerslev,8,1487500.0,10-10-2016,Alm.,6640,6,Stuehus,224,1870,-7 %
+Gartnervænget 2 9293 Kongerslev,2,660000.0,26-08-2016,Alm.,7500,3,Rækkehus,88,1979,-6 %
+Danmarksgade 33 9293 Kongerslev,33,382500.0,16-08-2016,Fam.,3415,4,Villa,112,1900,
+Vestergaardsvej 27 9293 Kongerslev,27,1100000.0,19-07-2016,Alm.,6432,6,Villa,171,1976,-4 %
+Myrtevej 3 9293 Kongerslev,3,1060000.0,15-07-2016,Alm.,9636,4,Villa,110,1974,-3 %
+Havevej 5 9293 Kongerslev,5,300000.0,11-07-2016,Alm.,2941,3,Villa,102,1957,-24 %
+Møllebakken 11 9293 Kongerslev,11,1495000.0,04-07-2016,Alm.,9645,5,Villa,155,2002,0 %
+Lunavej 6B 9293 Kongerslev,0,130000.0,29-06-2016,Alm.,3095,1,Rækkehus,42,1978,
+Møllebakken 6 9293 Kongerslev,6,725000.0,14-06-2016,Alm.,4769,5,Villa,152,1947,-3 %
+Jyllandsgade 18 9293 Kongerslev,18,500000.0,13-06-2016,Alm.,2500,7,Villa,200,1929,-15 %
+Myrtevej 10 9293 Kongerslev,10,880000.0,08-06-2016,Alm.,7333,5,Villa,120,1975,-2 %
+Solvej 14 9293 Kongerslev,14,1025000.0,24-05-2016,Alm.,10049,4,Villa,102,1966,-5 %
+Sigsgaardvej 17 9293 Kongerslev,17,595000.0,10-05-2016,Auktion,2220,9,Villa,268,1900,-14 %
+Syrenvej 4 9293 Kongerslev,4,345000.0,29-04-2016,Alm.,4928,2,Villa,70,1947,-13 %
+Landmandsgade 8 9293 Kongerslev,8,12030000.0,27-04-2016,Alm.,39185,8,Stuehus,307,1825,
+Vestergaardsvej 3 9293 Kongerslev,3,1075000.0,20-04-2016,Alm.,7166,5,Villa,150,1977,-6 %
+Baggesdamvej 3 9293 Kongerslev,3,545000.0,15-04-2016,Alm.,2853,6,Villa,191,1937,-22 %
+Skibstedvej 10 9293 Kongerslev,10,1300000.0,06-04-2016,Alm.,4482,5,Villa,290,1900,
+Lindenborgvej 4 9293 Kongerslev,4,250000.0,06-04-2016,Alm.,2747,3,Villa,91,1938,-28 %
+Kongensgade 8 9293 Kongerslev,8,350000.0,04-04-2016,Alm.,3211,4,Villa,109,1940,
+Skibsted Nyvej 3 9293 Kongerslev,3,590000.0,22-03-2016,Alm.,5000,4,Villa,118,1974,-1 %
+Solvej 4 9293 Kongerslev,4,591826.0,17-03-2016,Alm.,4931,4,Villa,120,1960,
+Dalsgaardvej 6 9293 Kongerslev,6,1755000.0,17-03-2016,Alm.,12446,4,Villa,141,2008,-2 %
+Solvej 15 9293 Kongerslev,15,750000.0,15-03-2016,Alm.,5357,4,Villa,140,1962,-12 %
+Danmarksgade 12 9293 Kongerslev,12,1200000.0,09-03-2016,Alm.,6451,7,Detailhandel,186,1940,
+Gartnervænget 23 9293 Kongerslev,23,2200000.0,04-03-2016,Alm.,10232,7,Villa,215,2009,-8 %
+Baggesdamvej 4 9293 Kongerslev,4,7470000.0,03-03-2016,Alm.,50134,4,Stuehus,149,1982,
+Danmarksgade 45 9293 Kongerslev,45,400000.0,22-02-2016,Andet,5633,3,Villa,71,1900,
+Lundensvej 1 9293 Kongerslev,1,2200000.0,11-02-2016,Alm.,6285,11,Stuehus,350,1938,
+Solvej 21 9293 Kongerslev,21,1495000.0,15-01-2016,Fam.,9707,6,Villa,154,1960,
+Skibstedvej 35 9293 Kongerslev,35,300000.0,12-01-2016,Alm.,2255,5,Villa,133,1939,-13 %
+Kildevej 20 9293 Kongerslev,20,655000.0,17-12-2015,Alm.,7797,3,Villa,84,1956,-4 %
+Kongensgade 45 9293 Kongerslev,45,630000.0,24-11-2015,Andet,3298,7,Villa,191,1900,
+Højmarken 24C 9293 Kongerslev,0,455000.0,24-11-2015,Alm.,6791,3,Rækkehus,67,1985,-3 %
+Rolighedsvej 2F 9293 Kongerslev,0,219965.0,12-11-2015,Fam.,3605,2,Rækkehus,61,1991,
+Skibstedbrovej 19 9293 Kongerslev,19,235000.0,05-11-2015,Alm.,1895,4,Villa,124,1984,-53 %
+Skibstedvej 14 9293 Kongerslev,14,1495000.0,29-10-2015,Alm.,6857,4,Stuehus,218,1930,0 %
+Mygdalsvej 4 9293 Kongerslev,4,600000.0,12-10-2015,Alm.,7317,3,Villa,82,1953,-7 %
+Jyllandsgade 7 9293 Kongerslev,7,607500.0,29-09-2015,Auktion,4673,6,Villa,130,1930,-50 %
+Kongensgade 51B 9293 Kongerslev,0,350000.0,19-09-2015,Alm.,5223,2,Rækkehus,67,1975,
+Guldrankevej 3 9293 Kongerslev,3,440000.0,15-09-2015,Auktion,2802,4,Villa,157,1978,
+Tinghøjvej 1 9293 Kongerslev,1,255000.0,09-09-2015,Alm.,1482,5,Villa,172,1946,-15 %
+Vestergaardsvej 25 9293 Kongerslev,25,600000.0,14-08-2015,Fam.,5000,4,Villa,120,1976,
+Svanfolk Bakker 9 9293 Kongerslev,9,1025000.0,12-08-2015,Alm.,7765,6,Villa,132,1950,-2 %
+Skibstedbrovej 3 9293 Kongerslev,3,65000.0,11-08-2015,Alm.,738,4,Villa,88,1928,
+Nyvej 8 9293 Kongerslev,8,680000.0,06-08-2015,Alm.,6476,3,Villa,105,1942,-2 %
+J.F.La Cours Vej 3 9293 Kongerslev,3,250000.0,17-07-2015,Alm.,1644,5,Villa,152,1952,-29 %
+Gartnervænget 20 9293 Kongerslev,20,625000.0,30-06-2015,Alm.,6793,4,Rækkehus,92,1988,
+Svanholmsmindevej 2 9293 Kongerslev,2,795000.0,17-06-2015,Alm.,4676,5,Stuehus,170,1922,-20 %
+Havevej 1A 9293 Kongerslev,0,97000.0,16-06-2015,Auktion,577,5,Villa,168,1926,
+Skibsted Nyvej 8 9293 Kongerslev,8,510000.0,28-04-2015,Fam.,6538,3,Villa,78,1970,
+Skibstedbrovej 10 9293 Kongerslev,10,350000.0,24-04-2015,Alm.,3333,4,Villa,105,1966,-11 %
+Dalsgaardvej 23 9293 Kongerslev,23,600000.0,14-04-2015,Alm.,4026,4,Villa,149,1964,-8 %
+Vestergaardsvej 7 9293 Kongerslev,7,970000.0,13-04-2015,Alm.,6423,4,Villa,151,1976,
+Kongerslevvej 7 9293 Kongerslev,7,459000.0,19-03-2015,Fam.,4371,3,Villa,105,1887,
+Solvej 1 9293 Kongerslev,1,400000.0,12-03-2015,Alm.,3508,3,Villa,114,1964,
+Kongensgade 40 9293 Kongerslev,40,517407.0,10-03-2015,Alm.,3295,6,Villa,157,1943,
+Danmarksgade 4 9293 Kongerslev,4,1250000.0,01-03-2015,Alm.,8928,5,Industri o.l.,140,1958,
+Vindevej 3A 9293 Kongerslev,0,800000.0,16-02-2015,Alm.,4678,5,Villa,171,1980,-11 %
+Marsvej 2 9293 Kongerslev,2,600000.0,12-02-2015,Alm.,5217,4,Villa,115,1964,-4 %
+Kildevej 34 9293 Kongerslev,34,125000.0,12-02-2015,Alm.,2604,2,Villa,48,1955,
+Skibsted Nyvej 5 9293 Kongerslev,5,100000.0,06-01-2015,Auktion,925,4,Villa,108,1977,
+"Jyllandsgade 10C, ST 9293 Kongerslev",0,335000.0,12-12-2014,Alm.,3895,3,Lejlighed,86,1917,
+"Jyllandsgade 10A, ST 9293 Kongerslev",0,373000.0,12-12-2014,Alm.,4548,3,Lejlighed,82,1917,
+Alfred Mørchs Vej 6 9293 Kongerslev,6,600000.0,04-12-2014,Fam.,5940,4,Villa,101,1963,
+Skibstedvej 43 9293 Kongerslev,43,1785000.0,14-11-2014,Alm.,8707,7,Villa,205,1900,-6 %
+Nyvej 15 9293 Kongerslev,15,315000.0,12-11-2014,Alm.,3841,5,Villa,82,1962,-9 %
+Sigsgaardvej 37 9293 Kongerslev,37,700000.0,10-11-2014,Alm.,5982,3,Stuehus,117,1948,-6 %
+Baggesdamvej 1A 9293 Kongerslev,0,300000.0,14-10-2014,Auktion,1875,4,Villa,160,1887,-57 %
+Regelvej 3 9293 Kongerslev,3,1850000.0,08-10-2014,Alm.,9250,6,Stuehus,200,1874,
+Landmandsgade 18 9293 Kongerslev,18,300000.0,07-10-2014,Auktion,2654,4,Villa,113,1900,
+Lergravsvej 1 9293 Kongerslev,1,135000.0,01-10-2014,Alm.,1483,3,Villa,91,1943,-23 %
+Fyrrebakken 4 9293 Kongerslev,4,595000.0,24-09-2014,Alm.,3993,6,Villa,149,1967,0 %
+J.F.La Cours Vej 8 9293 Kongerslev,8,625000.0,21-09-2014,Alm.,6720,3,Villa,93,1927,-10 %
+Højmarken 3 9293 Kongerslev,3,1060000.0,18-09-2014,Alm.,7210,7,Villa,147,1974,-7 %
+Guldrankevej 10 9293 Kongerslev,10,950000.0,11-09-2014,Alm.,6333,5,Villa,150,1975,-5 %
+Venusvej 8 9293 Kongerslev,8,495000.0,08-09-2014,Alm.,2928,4,Villa,169,1972,-17 %
+Magnoliehaven 11 9293 Kongerslev,11,936000.0,05-09-2014,Alm.,7255,4,Villa,129,1978,10 %
+Vestergaardsvej 19 9293 Kongerslev,19,595000.0,05-09-2014,Alm.,5219,4,Villa,114,1978,0 %
+Gartnervænget 18 9293 Kongerslev,18,950000.0,28-08-2014,Alm.,8189,4,Villa,116,1987,-13 %
+Vildmosevej 17 9293 Kongerslev,17,700000.0,08-08-2014,Alm.,3684,5,Villa,190,1930,-12 %
+Landmandsgade 20 9293 Kongerslev,20,570000.0,10-07-2014,Alm.,5700,3,Villa,100,1964,-1 %
+Møllebakken 17 9293 Kongerslev,17,1715000.0,10-07-2014,Alm.,10786,6,Villa,159,2009,-7 %
+Skibstedvej 8 9293 Kongerslev,8,1345000.0,08-07-2014,Alm.,10846,3,Villa,124,1897,-7 %
+N.P. Gravesensvej 4 9293 Kongerslev,4,329000.0,07-07-2014,Alm.,3290,4,Villa,100,1926,0 %
+"Kongensgade 43, 1 9293 Kongerslev",1,550000.0,27-06-2014,Alm.,5045,5,Lejlighed,109,1960,
+Kærvej 20 9293 Kongerslev,20,1399000.0,23-06-2014,Alm.,11855,4,Stuehus,118,1900,0 %
+Magnoliehaven 9 9293 Kongerslev,9,867500.0,19-06-2014,Alm.,7052,4,Villa,123,1978,-7 %
+Vestergaardsvej 43A 9293 Kongerslev,0,245000.0,26-05-2014,Alm.,3310,3,Rækkehus,74,1985,
+Skibstedvej 44 9293 Kongerslev,44,630000.0,06-05-2014,Alm.,4228,5,Stuehus,149,1827,-9 %
+Dalsgaardvej 17A 9293 Kongerslev,0,120000.0,22-04-2014,Auktion,1071,6,Villa,112,1777,
+Sigsgaardvej 5 9293 Kongerslev,5,179200.0,01-04-2014,Auktion,1389,5,Villa,129,1877,
+Nyvej 1 9293 Kongerslev,1,855000.0,11-02-2014,Auktion,8906,4,Villa,96,1953,
+Hyldevej 6 9293 Kongerslev,6,74000.0,11-02-2014,Auktion,544,3,Villa,136,1827,
+Vindevej 2 9293 Kongerslev,2,595000.0,02-01-2014,Alm.,4576,5,Villa,130,1875,0 %
+Østergårdsvej 1A 9293 Kongerslev,0,250000.0,07-12-2013,Alm.,2016,4,Villa,124,1978,-44 %
+Kongensgade 53 9293 Kongerslev,53,37501.0,19-11-2013,Auktion,180,8,Villa,208,1946,
+Gartnervænget 16 9293 Kongerslev,16,1650000.0,11-11-2013,Alm.,10714,5,Villa,154,1988,-3 %
+Skibstedvej 17 9293 Kongerslev,17,280000.0,08-11-2013,Alm.,4000,3,Villa,70,1900,
+Lindenborgvej 3 9293 Kongerslev,3,1935000.0,09-10-2013,Fam.,10238,8,Stuehus,189,1877,
+Skovkrogen 22 9293 Kongerslev,22,1400000.0,26-09-2013,Alm.,6222,6,Villa,225,1972,-6 %
+Hestholmvej 1 9293 Kongerslev,1,1350000.0,17-09-2013,Alm.,7377,7,Villa,183,1932,-10 %
+Havevej 8 9293 Kongerslev,8,1140000.0,14-09-2013,Alm.,8382,5,Villa,136,1965,0 %
+Skovkrogen 14 9293 Kongerslev,14,940000.0,27-08-2013,Alm.,6438,5,Villa,146,1973,-6 %
+Sigsgaardvej 14 9293 Kongerslev,14,497693.0,21-08-2013,Alm.,4365,3,Villa,114,1958,
+Seefeldtslundvej 7 9293 Kongerslev,7,1550000.0,17-08-2013,Alm.,18902,3,Stuehus,82,1921,-18 %
+Møllebakken 8 9293 Kongerslev,8,600000.0,13-08-2013,Alm.,8108,3,Villa,74,1959,
+Landmandsgade 27 9293 Kongerslev,27,375000.0,30-07-2013,Alm.,1875,9,Villa,200,1930,-24 %
+Kildevej 30 9293 Kongerslev,30,1445000.0,16-07-2013,Alm.,6450,9,Villa,224,1979,-6 %
+Danmarksgade 9 9293 Kongerslev,9,600000.0,23-04-2013,Auktion,3921,7,Villa,153,1945,
+Fyrrebakken 13 9293 Kongerslev,13,1900000.0,10-04-2013,Alm.,9500,4,Villa,200,1974,-9 %
+Sigsgaardvej 34 9293 Kongerslev,34,739500.0,22-03-2013,Andet,4770,4,Villa,155,1966,
+Skibstedvej 22 9293 Kongerslev,22,600000.0,14-03-2013,Alm.,4687,6,Villa,128,1878,
+Refsnæsvej 28 9293 Kongerslev,28,750000.0,01-03-2013,Alm.,6756,4,Villa,111,1977,-2 %
+Ålykkevej 9 9293 Kongerslev,9,150000.0,18-02-2013,Alm.,1875,3,Villa,80,1960,-11 %
+Østergårdsvej 1 9293 Kongerslev,1,365000.0,29-01-2013,Alm.,3842,3,Villa,95,1961,
+Vildmosevej 8 9293 Kongerslev,8,660000.0,21-01-2013,Alm.,4520,7,Villa,146,1927,
+Landmandsgade 43 9293 Kongerslev,43,35000.0,17-01-2013,Auktion,227,5,Villa,154,1877,
+Fyrrebakken 15 9293 Kongerslev,15,1700000.0,03-01-2013,Alm.,9604,5,Villa,177,2005,-5 %
+Fladen 3 9293 Kongerslev,3,500000.0,08-12-2012,Alm.,4201,5,Villa,119,1937,-24 %
+Skibstedvej 15 9293 Kongerslev,15,270000.0,06-12-2012,Alm.,2045,5,Villa,132,1930,-32 %
+Ålykkevej 15 9293 Kongerslev,15,645000.0,08-11-2012,Alm.,4387,7,Stuehus,147,1887,
+Skibstedbrovej 41 9293 Kongerslev,41,1000000.0,31-10-2012,Alm.,10000,3,Stuehus,100,1935,
+Skibstedbrovej 1 9293 Kongerslev,1,90000.0,29-10-2012,Alm.,796,4,Villa,113,1929,-40 %
+Rolighedsvej 2C 9293 Kongerslev,0,440000.0,17-10-2012,Alm.,7213,2,Rækkehus,61,1991,-22 %
+Jyllandsgade 24 9293 Kongerslev,24,109812.0,16-10-2012,Auktion,549,6,Villa,200,1900,
+Guldrankevej 5 9293 Kongerslev,5,514635.0,05-10-2012,Alm.,3729,5,Villa,138,1974,
+Danmarksgade 20 9293 Kongerslev,20,200000.0,19-09-2012,Alm.,3076,4,Servicevirksomhed,65,1904,0 %
+Skovkrogen 8 9293 Kongerslev,8,300000.0,30-08-2012,Auktion,2380,4,Villa,126,1974,
+Skibstedvej 39 9293 Kongerslev,39,633957.0,13-07-2012,Alm.,3390,5,Villa,187,1955,-47 %
+Skibstedvej 21 9293 Kongerslev,21,450500.0,04-07-2012,Fam.,4644,3,Villa,97,1930,
+Svanfolkvej 19 9293 Kongerslev,19,1300000.0,20-06-2012,Alm.,10077,4,Stuehus,129,1929,
+Gartnervænget 35 9293 Kongerslev,35,205000.0,20-06-2012,Alm.,1348,5,Villa,152,2013,
+Valdemarsgade 10 9293 Kongerslev,10,1400000.0,24-04-2012,Alm.,6698,5,Villa,209,1905,-5 %
+Lindevej 4 9293 Kongerslev,4,980000.0,18-04-2012,Alm.,5632,5,Villa,174,1971,
+Kongerslevvej 9 9293 Kongerslev,9,388692.0,27-03-2012,Alm.,3599,4,Villa,108,1961,
+Kildevej 16 9293 Kongerslev,16,250000.0,17-03-2012,Alm.,2083,4,Villa,120,1860,
+Højmarken 20 9293 Kongerslev,20,645000.0,24-02-2012,Alm.,4574,5,Villa,141,1981,-5 %
+Lykkevej 14 9293 Kongerslev,14,730000.0,13-02-2012,Alm.,5328,5,Villa,137,1967,-8 %
+Kærvej 57 9293 Kongerslev,57,600000.0,02-02-2012,Alm.,4137,5,Villa,145,1906,
+Nyvej 16 9293 Kongerslev,16,250000.0,19-01-2012,Auktion,1157,5,Villa,216,1942,-15 %
+Bugdalsvej 1 9293 Kongerslev,1,625000.0,11-01-2012,Alm.,8333,3,Stuehus,75,1875,
+Lindenborgvej 30 9293 Kongerslev,30,275000.0,03-01-2012,Auktion,1580,4,Villa,174,1947,
+Jyllandsgade 14 9293 Kongerslev,14,460000.0,13-12-2011,Alm.,0,4,Villa,145,1910,-12 %
+Hestholmvej 6 9293 Kongerslev,6,525000.0,10-11-2011,Alm.,5250,3,Villa,100,1941,
+Dalsgaardvej 7 9293 Kongerslev,7,360000.0,21-10-2011,Alm.,3025,3,Villa,119,1902,-9 %
+Lykkevej 11 9293 Kongerslev,11,525000.0,19-10-2011,Alm.,3571,5,Villa,147,1967,-5 %
+Myrtevej 23 9293 Kongerslev,23,800000.0,11-10-2011,Alm.,6153,4,Villa,130,1974,
+Havevej 19 9293 Kongerslev,19,1600000.0,13-09-2011,Alm.,7272,8,Villa,220,1935,
+Skovkrogen 4 9293 Kongerslev,4,1210000.0,07-09-2011,Alm.,5041,8,Villa,240,1972,-7 %
+Jasminvej 2 9293 Kongerslev,2,975000.0,26-07-2011,Alm.,6500,5,Villa,150,1974,-13 %
+Kongensgade 12 9293 Kongerslev,12,385000.0,28-06-2011,Alm.,3468,4,Villa,111,1957,-27 %
+Vinkelvej 1 9293 Kongerslev,1,145000.0,26-05-2011,Auktion,1160,4,Villa,125,1877,-79 %
+Marsvej 4 9293 Kongerslev,4,425000.0,19-05-2011,Alm.,3761,4,Villa,113,1966,
+N.P. Gravesensvej 8 9293 Kongerslev,8,1425000.0,03-04-2011,Alm.,9827,6,Villa,145,1930,-7 %
+Kærvej 65 9293 Kongerslev,65,100000.0,04-03-2011,Alm.,763,4,Stuehus,131,1892,
+Vinkelvej 4 9293 Kongerslev,4,670000.0,17-02-2011,Alm.,6836,3,Villa,98,1964,-10 %
+Danmarksgade 11 9293 Kongerslev,11,1275000.0,10-02-2011,Alm.,5691,6,Villa,224,1900,-9 %
+Magnoliehaven 4 9293 Kongerslev,4,1680000.0,08-02-2011,Alm.,9081,5,Villa,185,2001,-1 %
+Vestergaardsvej 57 9293 Kongerslev,57,1600000.0,25-01-2011,Alm.,8888,9,Villa,180,1996,-6 %
+Landmandsgade 39 9293 Kongerslev,39,568032.0,20-01-2011,Alm.,3104,7,Villa,183,1940,
+Sigsgaardvej 23 9293 Kongerslev,23,200000.0,16-12-2010,Alm.,1204,5,Stuehus,166,1947,
+Sigsgaardvej 30 9293 Kongerslev,30,200000.0,16-12-2010,Alm.,1000,12,Stuehus,200,1869,
+Rolighedsvej 10 9293 Kongerslev,10,595000.0,19-11-2010,Alm.,5666,3,Villa,105,1960,-12 %
+Kirkestræde 3 9293 Kongerslev,3,350000.0,27-10-2010,Alm.,3240,5,Villa,108,1947,-33 %
+Gartnervænget 33 9293 Kongerslev,33,205000.0,25-10-2010,Alm.,1025,4,Villa,200,2012,
+Jyllandsgade 9 9293 Kongerslev,9,950000.0,20-10-2010,Alm.,5937,4,Villa,160,1928,-13 %
+Sigsgaardvej 16 9293 Kongerslev,16,597850.0,28-09-2010,Alm.,3933,5,Villa,152,1912,
+Kærvej 39 9293 Kongerslev,39,500000.0,22-09-2010,Auktion,4761,4,Stuehus,105,1907,
+Rolighedsvej 2A 9293 Kongerslev,0,515000.0,14-09-2010,Alm.,8442,2,Rækkehus,61,1991,-2 %
+Vestergaardsvej 6 9293 Kongerslev,6,950000.0,24-08-2010,Alm.,7723,5,Villa,123,1978,
+Havevej 9 9293 Kongerslev,9,250000.0,19-07-2010,Alm.,2659,4,Villa,94,1930,-16 %
+Lundensvej 5 9293 Kongerslev,5,1000000.0,13-07-2010,Andet,3952,7,Stuehus,253,1987,
+Skibstedbrovej 11 9293 Kongerslev,11,395000.0,08-07-2010,Alm.,2194,7,Villa,180,1928,0 %
+Kongensgade 36 9293 Kongerslev,36,200000.0,14-06-2010,Alm.,1869,3,Villa,107,1937,-38 %
+Thyge Hvass Vej 4 9293 Kongerslev,4,575000.0,09-06-2010,Alm.,6845,4,Villa,84,1962,-11 %
+Svanholmsmindevej 12 9293 Kongerslev,12,710000.0,08-06-2010,Alm.,3796,4,Villa,187,1900,-5 %
+Havevej 3 9293 Kongerslev,3,300000.0,26-05-2010,Alm.,4838,3,Villa,62,1940,-33 %
+Sigsgaardvej 3 9293 Kongerslev,3,1425000.0,11-05-2010,Alm.,7620,6,Stuehus,187,1937,-5 %
+Mygdalsvej 5 9293 Kongerslev,5,1054700.0,08-05-2010,Alm.,5326,5,Villa,198,1972,
+Lykkevej 16 9293 Kongerslev,16,1075000.0,25-04-2010,Alm.,9188,7,Villa,117,1969,-2 %
+Mygdalsvej 28 9293 Kongerslev,28,260000.0,20-04-2010,Alm.,1897,6,Stuehus,137,1936,
+Jasminvej 10 9293 Kongerslev,10,810124.0,11-04-2010,Fam.,6231,3,Villa,130,1974,
+Kongensgade 49C 9293 Kongerslev,0,350000.0,25-03-2010,Alm.,5147,2,Lejlighed,68,1975,-18 %
+Randrupvej 9 9293 Kongerslev,9,369668.0,22-03-2010,Alm.,739,20,Stuehus,500,1536,
+Myrtevej 1 9293 Kongerslev,1,1147000.0,18-03-2010,Alm.,7546,6,Villa,152,1975,-4 %
+Østergårdsvej 10 9293 Kongerslev,10,331000.0,17-02-2010,Alm.,1225,9,Villa,270,1914,-38 %
+Vestergaardsvej 31 9293 Kongerslev,31,1220000.0,17-02-2010,Alm.,8026,6,Villa,152,1978,-2 %
+Jasminvej 1 9293 Kongerslev,1,999533.0,26-01-2010,Alm.,6663,5,Villa,150,1974,
+Vinkelvej 6 9293 Kongerslev,6,775000.0,18-01-2010,Alm.,6512,4,Villa,119,1965,-6 %
+Svanholmsmindevej 21 9293 Kongerslev,21,128770.0,13-01-2010,Alm.,919,4,Stuehus,140,1930,
+Højmarken 7 9293 Kongerslev,7,500000.0,12-01-2010,Auktion,3333,5,Villa,150,1976,
+Skibstedvej 3 9293 Kongerslev,3,500000.0,04-01-2010,Alm.,8333,2,Villa,60,1877,
+Svanholmsmindevej 8 9293 Kongerslev,8,1420000.0,28-12-2009,Alm.,4176,7,Stuehus,340,1856,-14 %
+Lykkevej 3 9293 Kongerslev,3,800000.0,22-12-2009,Alm.,8791,3,Villa,91,1960,
+Komdrupvej 1 9293 Kongerslev,1,1870000.0,22-12-2009,Alm.,11402,9,Stuehus,164,1900,-6 %
+Lindenborgvej 28A 9293 Kongerslev,0,250000.0,09-12-2009,Alm.,2100,4,Stuehus,119,1880,-37 %
+Svanfolkvej 31 9293 Kongerslev,31,1100000.0,14-11-2009,Alm.,6508,6,Villa,169,1991,-12 %
+Skibstedvej 38 9293 Kongerslev,38,950000.0,06-11-2009,Alm.,6250,5,Villa,152,1967,
+Danmarksgade 25 9293 Kongerslev,25,1000000.0,26-10-2009,Alm.,7042,4,Villa,142,1939,-16 %
+Skibstedbrovej 26 9293 Kongerslev,26,475000.0,26-08-2009,Alm.,3958,4,Villa,120,1907,-20 %
+Rolighedsvej 2E 9293 Kongerslev,0,478000.0,06-08-2009,Alm.,7836,2,Rækkehus,61,1991,-9 %
+Skibstedbrovej 31 9293 Kongerslev,31,1100000.0,07-07-2009,Alm.,6395,5,Villa,172,1969,-12 %
+Rolighedsvej 5 9293 Kongerslev,5,260000.0,01-07-2009,Alm.,1710,3,Villa,152,1960,-9 %
+Nyvej 19 9293 Kongerslev,19,610000.0,25-05-2009,Alm.,2772,6,Villa,220,1957,-12 %
+Lindenborgvej 24 9293 Kongerslev,24,1230000.0,07-05-2009,Alm.,9919,5,Villa,124,1999,-1 %
+Danmarksgade 37 9293 Kongerslev,37,1655000.0,24-04-2009,Alm.,7522,5,Stuehus,220,1875,-8 %
+Jyllandsgade 8 9293 Kongerslev,8,575000.0,03-04-2009,Alm.,2963,6,Villa,194,1922,
+Svanfolkvej 6 9293 Kongerslev,6,705000.0,01-04-2009,Alm.,4700,6,Villa,150,1912,-5 %
+Lykkevej 7 9293 Kongerslev,7,895000.0,27-02-2009,Alm.,7276,5,Villa,123,1960,0 %
+Kongensgade 6 9293 Kongerslev,6,1450000.0,27-02-2009,Alm.,8430,5,Villa,172,1944,-3 %
+Vestergaardsvej 53 9293 Kongerslev,53,1745000.0,26-02-2009,Alm.,12202,5,Villa,143,1996,-3 %
+Kongensgade 11 9293 Kongerslev,11,650000.0,24-02-2009,Alm.,6989,3,Villa,93,1952,0 %
+Østergårdsvej 6 9293 Kongerslev,6,500000.0,29-01-2009,Alm.,2032,6,Stuehus,246,1857,
+Havevej 16 9293 Kongerslev,16,540000.0,28-01-2009,Alm.,4821,3,Villa,112,1930,-46 %
+Refsnæsvej 30 9293 Kongerslev,30,340000.0,23-12-2008,Fam.,3541,3,Stuehus,96,1937,
+Landmandsgade 57 9293 Kongerslev,57,450000.0,19-12-2008,Auktion,2743,7,Villa,164,1934,
+Lindenborgvej 22 9293 Kongerslev,22,885000.0,18-12-2008,Alm.,5331,5,Villa,166,1946,-1 %
+Erantisvej 10 9293 Kongerslev,10,1585000.0,29-11-2008,Alm.,5096,7,Villa,311,1975,-8 %
+Skibstedbrovej 9 9293 Kongerslev,9,580000.0,10-11-2008,Alm.,3204,5,Villa,181,1977,
+Komdrupvej 2A 9293 Kongerslev,0,1525000.0,07-11-2008,Alm.,10166,5,Stuehus,150,1869,-7 %
+Højmarken 8 9293 Kongerslev,8,1150000.0,16-10-2008,Alm.,8098,5,Villa,142,1983,-6 %
+N.P. Gravesensvej 9 9293 Kongerslev,9,475000.0,10-10-2008,Alm.,5277,3,Villa,90,1920,-10 %
+Sigsgaardvej 25 9293 Kongerslev,25,2295000.0,27-08-2008,Alm.,13421,5,Stuehus,171,1947,-4 %
+Sigsgaardvej 32 9293 Kongerslev,32,4000000.0,26-08-2008,Alm.,43956,3,Stuehus,91,1897,
+Havevej 13 9293 Kongerslev,13,525000.0,31-07-2008,Alm.,4952,3,Villa,106,1931,
+Tinghøjvej 6 9293 Kongerslev,6,1800000.0,29-07-2008,Alm.,6666,11,Stuehus,270,1930,-4 %
+Mygdalsvej 9 9293 Kongerslev,9,971884.0,15-07-2008,Fam.,3811,7,Villa,255,1977,
+Danmarksgade 8A 9293 Kongerslev,0,171000.0,02-07-2008,Alm.,2948,2,Lejlighed,58,1902,
+Danmarksgade 8C 9293 Kongerslev,0,235000.0,02-07-2008,Alm.,2670,3,Lejlighed,88,1902,
+Danmarksgade 8B 9293 Kongerslev,0,198000.0,02-07-2008,Alm.,2675,2,Lejlighed,74,1902,
+Danmarksgade 8E 9293 Kongerslev,0,235000.0,02-07-2008,Alm.,2732,3,Lejlighed,86,1902,
+Danmarksgade 8D 9293 Kongerslev,0,235000.0,02-07-2008,Alm.,2670,3,Lejlighed,88,1902,
+Jyllandsgade 4C 9293 Kongerslev,0,154000.0,02-07-2008,Alm.,3142,2,Lejlighed,49,1902,
+Jyllandsgade 4B 9293 Kongerslev,0,162000.0,02-07-2008,Alm.,3115,2,Lejlighed,52,1902,
+Jyllandsgade 4D 9293 Kongerslev,0,162000.0,02-07-2008,Alm.,3115,2,Lejlighed,52,1902,
+Jyllandsgade 4F 9293 Kongerslev,0,162000.0,02-07-2008,Alm.,3115,2,Lejlighed,52,1902,
+Jyllandsgade 4H 9293 Kongerslev,0,145000.0,02-07-2008,Alm.,2788,2,Lejlighed,52,1902,
+Jyllandsgade 4I 9293 Kongerslev,0,136000.0,02-07-2008,Alm.,2833,2,Lejlighed,48,1902,
+Jyllandsgade 4G 9293 Kongerslev,0,154000.0,02-07-2008,Alm.,3142,2,Lejlighed,49,1902,
+Jyllandsgade 4E 9293 Kongerslev,0,136000.0,02-07-2008,Alm.,2833,2,Lejlighed,48,1902,
+Skibsted Østergade 2 9293 Kongerslev,2,225000.0,25-06-2008,Alm.,0,5,Villa,145,1913,-20 %
+Nyvej 14 9293 Kongerslev,14,745000.0,21-06-2008,Alm.,6834,3,Villa,109,1943,0 %
+Kærvej 71 9293 Kongerslev,71,925000.0,28-05-2008,Alm.,6166,4,Villa,150,1942,
+Thyge Hvass Vej 8 9293 Kongerslev,8,820000.0,22-05-2008,Alm.,6456,4,Villa,127,1966,-2 %
+Jernbanegade 4 9293 Kongerslev,4,750000.0,15-05-2008,Alm.,5769,4,Villa,130,1960,
+Randrupvej 7 9293 Kongerslev,7,925000.0,15-05-2008,Alm.,6514,6,Villa,142,1920,-7 %
+Sigsgaardvej 29 9293 Kongerslev,29,1986492.0,13-05-2008,Alm.,7882,5,Villa,252,1800,
+Vestergaardsvej 48 9293 Kongerslev,48,1795000.0,04-05-2008,Alm.,11580,6,Villa,155,2000,0 %
+Kongensgade 49B 9293 Kongerslev,0,450000.0,14-04-2008,Alm.,6716,2,Lejlighed,67,1975,-5 %
+Svanholmsmindevej 15 9293 Kongerslev,15,369668.0,02-04-2008,Alm.,2213,4,Stuehus,167,2010,
+Skovkrogen 5 9293 Kongerslev,5,1750000.0,01-04-2008,Alm.,8928,5,Villa,196,1973,
+Dalsgaardvej 5 9293 Kongerslev,5,530000.0,27-03-2008,Alm.,4240,5,Villa,125,1900,-3 %
+Danmarksgade 24 9293 Kongerslev,24,1145000.0,22-03-2008,Alm.,6580,5,Villa,174,1898,
+Skibstedbrovej 21 9293 Kongerslev,21,825000.0,22-03-2008,Alm.,5978,6,Villa,138,1961,0 %
+Danmarksgade 15 9293 Kongerslev,15,1248000.0,11-03-2008,Alm.,5804,5,Villa,215,1900,-7 %
+Sigsgaardvej 35 9293 Kongerslev,35,1770000.0,28-02-2008,Alm.,10231,7,Villa,173,1947,
+Kongensgade 21 9293 Kongerslev,21,600000.0,26-02-2008,Alm.,3870,6,Villa,155,1920,
+Refsnæsvej 14 9293 Kongerslev,14,640279.0,26-02-2008,Andet,3857,9,Stuehus,166,1936,
+Thyge Hvass Vej 2 9293 Kongerslev,2,590000.0,22-02-2008,Alm.,4916,4,Villa,120,1967,
+Kongensgade 51A 9293 Kongerslev,0,450000.0,15-02-2008,Alm.,6617,2,Rækkehus,68,1975,
+Kongensgade 51C 9293 Kongerslev,0,425000.0,15-02-2008,Alm.,6250,2,Rækkehus,68,1975,
+Randrupvej 10 9293 Kongerslev,10,1486350.0,14-02-2008,Alm.,5566,5,Stuehus,267,2010,
+Baggesdamvej 23 9293 Kongerslev,23,1150000.0,14-02-2008,Alm.,4356,8,Stuehus,264,1914,-17 %
+Solvej 19 9293 Kongerslev,19,870000.0,07-02-2008,Alm.,6444,5,Villa,135,1961,-3 %
+Landmandsgade 1 9293 Kongerslev,1,1117000.0,03-02-2008,Alm.,7446,4,Villa,150,1968,-7 %
+Lykkevej 17 9293 Kongerslev,17,1495000.0,22-01-2008,Alm.,7550,5,Villa,198,1974,0 %
+Baggesdamvej 1 9293 Kongerslev,1,580000.0,02-01-2008,Alm.,6590,3,Villa,88,1935,-2 %
+Svanholmsmindevej 7 9293 Kongerslev,7,578000.0,28-12-2007,Fam.,5160,3,Stuehus,112,1933,
+Rolighedsvej 4 9293 Kongerslev,4,296099.0,23-12-2007,Andet,2643,6,Villa,112,1947,
+Lykkevej 1 9293 Kongerslev,1,1045000.0,22-12-2007,Alm.,11000,4,Villa,95,1957,0 %
+Rolighedsvej 12 9293 Kongerslev,12,725000.0,17-12-2007,Alm.,7552,5,Villa,96,1947,0 %
+Møllevej 2 9293 Kongerslev,2,495000.0,01-12-2007,Alm.,6780,2,Villa,73,1897,
+Danmarksgade 41 9293 Kongerslev,41,600000.0,28-11-2007,Alm.,4054,3,Villa,148,1925,-7 %
+Regelvej 10 9293 Kongerslev,10,270000.0,22-11-2007,Alm.,2410,3,Villa,112,1800,-8 %
+Svanholmsmindevej 23 9293 Kongerslev,23,565000.0,21-11-2007,Alm.,3104,4,Villa,182,2010,-7 %
+Gartnervænget 19 9293 Kongerslev,19,154456.0,08-11-2007,Alm.,812,6,Villa,190,2009,
+Nyvej 7 9293 Kongerslev,7,525000.0,05-11-2007,Alm.,5833,3,Villa,90,1951,-12 %
+Landmandsgade 40 9293 Kongerslev,40,400000.0,14-10-2007,Fam.,4444,2,Villa,90,1837,
+Sigsgaardvej 15 9293 Kongerslev,15,600000.0,11-10-2007,Fam.,5357,5,Villa,112,1962,
+Kærvej 29 9293 Kongerslev,29,300000.0,09-10-2007,Alm.,1200,6,Stuehus,250,1870,
+Vesterkærvej 4 9293 Kongerslev,4,250000.0,06-10-2007,Alm.,791,6,Villa,316,2013,-13 %
+Vestergaardsvej 46 9293 Kongerslev,46,1675000.0,20-09-2007,Alm.,11166,5,Villa,150,1998,-4 %
+Kildevej 12C 9293 Kongerslev,0,498000.0,10-09-2007,Alm.,7432,2,Rækkehus,67,1976,
+Erantisvej 9 9293 Kongerslev,9,1295000.0,03-09-2007,Alm.,6815,5,Villa,190,1973,0 %
+Kærvej 26 9293 Kongerslev,26,365000.0,29-08-2007,Alm.,4055,4,Villa,90,1877,-8 %
+Vindevej 4 9293 Kongerslev,4,492000.0,15-08-2007,Alm.,2981,5,Villa,165,2014,
+Sigsgaardvej 28 9293 Kongerslev,28,1600000.0,14-08-2007,Alm.,9302,6,Stuehus,172,1940,
+Kildevej 12A 9293 Kongerslev,0,420000.0,29-07-2007,Alm.,6086,2,Rækkehus,69,1976,
+Dalsgaardvej 3 9293 Kongerslev,3,695000.0,25-07-2007,Alm.,5072,5,Villa,137,1875,
+Skibstedbrovej 13 9293 Kongerslev,13,430000.0,08-06-2007,Alm.,2756,4,Villa,156,1940,
+Skibsted Østergade 4 9293 Kongerslev,4,370000.0,29-05-2007,Alm.,1450,7,Stuehus,255,1832,0 %
+Gartnervænget 25 9293 Kongerslev,25,146544.0,25-05-2007,Alm.,927,5,Villa,158,2009,
+Kongensgade 13 9293 Kongerslev,13,300000.0,23-05-2007,Alm.,0,3,Villa,120,1943,
+Danmarksgade 18 9293 Kongerslev,18,525000.0,01-05-2007,Alm.,5585,4,Villa,94,1902,0 %
+Skibstedvej 11 9293 Kongerslev,11,340000.0,27-04-2007,Fam.,2266,4,Villa,150,1910,
+Rolighedsvej 8 9293 Kongerslev,8,413000.0,20-04-2007,Alm.,3226,6,Villa,128,1960,
+Svanfolk Bakker 3 9293 Kongerslev,3,117215.0,15-04-2007,Fam.,1953,2,Sommerhus,60,2000,
+Kærvej 45 9293 Kongerslev,45,785000.0,02-04-2007,Alm.,5451,4,Villa,144,1877,
+Kongensgade 35 9293 Kongerslev,35,750000.0,01-04-2007,Fam.,3768,6,Villa,199,1900,
+Monshøjvej 4 9293 Kongerslev,4,1400000.0,27-03-2007,Alm.,8750,5,Villa,160,1975,
+Gartnervænget 27 9293 Kongerslev,27,140000.0,26-03-2007,Fam.,891,6,Villa,157,2009,
+Kærvej 73 9293 Kongerslev,73,1375000.0,23-03-2007,Alm.,7432,7,Villa,185,1983,0 %
+Lindenborgvej 36 9293 Kongerslev,36,605000.0,20-03-2007,Alm.,6576,5,Villa,92,1955,-3 %
+Nyvej 9 9293 Kongerslev,9,790000.0,18-03-2007,Alm.,8681,4,Villa,91,1951,-1 %
+Nyvej 10 9293 Kongerslev,10,825000.0,09-03-2007,Alm.,5851,6,Villa,141,1943,
+Lykkevej 4 9293 Kongerslev,4,650000.0,08-03-2007,Alm.,5603,4,Villa,116,1960,
+Bugdalsvej 7 9293 Kongerslev,7,1400000.0,08-03-2007,Alm.,8383,4,Stuehus,167,1931,-7 %
+Vestergaardsvej 38 9293 Kongerslev,38,1860000.0,28-02-2007,Alm.,11341,5,Villa,164,1998,
+Kongensgade 9 9293 Kongerslev,9,885000.0,10-02-2007,Alm.,9516,3,Villa,93,1952,0 %
+Kongensgade 46 9293 Kongerslev,46,1750000.0,10-02-2007,Alm.,6076,7,Villa,288,1980,-7 %
+Lykkevej 6 9293 Kongerslev,6,600000.0,05-02-2007,Alm.,4687,4,Villa,128,1961,
+Landmandsgade 22 9293 Kongerslev,22,2720000.0,05-02-2007,Fam.,14545,4,Stuehus,187,1855,
+Baggesdamvej 27 9293 Kongerslev,27,12100000.0,05-02-2007,Fam.,40604,6,Stuehus,298,1933,
+Treskelvej 7 9293 Kongerslev,7,14315805.0,01-02-2007,Fam.,66276,9,Stuehus,216,1930,
+Kærvej 34 9293 Kongerslev,34,325000.0,01-02-2007,Fam.,3250,3,Stuehus,100,1897,
+Vestergaardsvej 21 9293 Kongerslev,21,985000.0,23-01-2007,Alm.,7817,5,Villa,126,1977,
+Svanfolkvej 10 9293 Kongerslev,10,600000.0,11-01-2007,Alm.,3797,6,Villa,158,1907,
+Østergårdsvej 3 9293 Kongerslev,3,6000000.0,15-12-2006,Alm.,28846,8,Stuehus,208,1914,
+Lykkevej 12 9293 Kongerslev,12,680000.0,29-11-2006,Alm.,5483,5,Villa,124,1966,
+Skibstedvej 1 9293 Kongerslev,1,1050000.0,10-11-2006,Alm.,6907,6,Villa,152,1961,
+Alfred Mørchs Vej 1 9293 Kongerslev,1,320000.0,18-10-2006,Andet,2461,3,Villa,130,1963,
+Treskelvej 5 9293 Kongerslev,5,515000.0,12-10-2006,Alm.,6437,3,Villa,80,1965,
+Monshøjvej 10 9293 Kongerslev,10,1410000.0,05-10-2006,Alm.,11280,5,Stuehus,125,1890,
+Danmarksgade 6 9293 Kongerslev,6,528317.0,26-09-2006,Andet,2121,6,Villa,249,1900,
+Gartnervænget 31 9293 Kongerslev,31,150844.0,18-09-2006,Alm.,838,5,Villa,180,2008,
+Landmandsgade 12 9293 Kongerslev,12,400000.0,08-09-2006,Alm.,5063,3,Villa,79,1884,
+Nyvej 11 9293 Kongerslev,11,635000.0,06-09-2006,Alm.,6225,3,Villa,102,1965,
+Vestergaardsvej 28 9293 Kongerslev,28,59345.0,06-09-2006,Alm.,581,3,Villa,102,2007,
+Kærvej 59 9293 Kongerslev,59,1200000.0,05-09-2006,Alm.,10344,4,Stuehus,116,1906,
+Skibsted Østergade 1 9293 Kongerslev,1,420000.0,03-09-2006,Alm.,4375,4,Villa,96,1960,
+Mygdalsvej 7 9293 Kongerslev,7,2200000.0,28-08-2006,Alm.,8333,6,Stuehus,264,1903,
+Regelvej 6 9293 Kongerslev,6,880000.0,21-08-2006,Alm.,4018,5,Villa,219,1900,
+"Danmarksgade 26, 1 9293 Kongerslev",1,2100000.0,15-08-2006,Alm.,6501,10,Lejlighed,323,1907,
+Danmarksgade 40 9293 Kongerslev,40,830000.0,09-08-2006,Alm.,6335,4,Villa,131,1934,
+Vestergaardsvej 56 9293 Kongerslev,56,1845000.0,01-08-2006,Alm.,9813,5,Villa,188,1984,
+Ålykkevej 6 9293 Kongerslev,6,45000.0,12-07-2006,Alm.,362,4,Villa,124,1924,
+Vildmosevej 2 9293 Kongerslev,2,1000000.0,19-06-2006,Alm.,12500,4,Stuehus,80,1856,
+Kongensgade 59 9293 Kongerslev,59,510000.0,17-06-2006,Alm.,5049,3,Villa,101,1932,
+Skibsted Østergade 10 9293 Kongerslev,10,399521.0,30-05-2006,Alm.,1832,8,Villa,218,1910,
+Jyllandsgade 1 9293 Kongerslev,1,525000.0,29-05-2006,Alm.,4525,5,Villa,116,1904,
+Lindenborgvej 16 9293 Kongerslev,16,510000.0,17-05-2006,Alm.,4322,5,Villa,118,1929,
+Kildevej 18 9293 Kongerslev,18,895000.0,08-05-2006,Alm.,5774,4,Villa,155,1863,
+Mygdalsvej 8 9293 Kongerslev,8,1200000.0,29-04-2006,Alm.,6153,6,Villa,195,1971,
+Myrtevej 4 9293 Kongerslev,4,1150000.0,09-04-2006,Alm.,6609,7,Villa,174,1974,
+Venusvej 6 9293 Kongerslev,6,600000.0,23-03-2006,Fam.,4166,4,Villa,144,1971,
+Dalsgaardvej 15 9293 Kongerslev,15,102875.0,17-03-2006,Alm.,1196,5,Villa,86,1800,
+Gartnervænget 21 9293 Kongerslev,21,144480.0,14-03-2006,Alm.,989,5,Villa,146,2008,
+Kongerslevvej 12 9293 Kongerslev,12,1475000.0,08-03-2006,Alm.,8240,5,Villa,179,1929,
+Kongensgade 27 9293 Kongerslev,27,865000.0,01-03-2006,Alm.,5372,6,Villa,161,1914,
+Kærvej 14 9293 Kongerslev,14,100000.0,25-02-2006,Alm.,746,6,Stuehus,134,1928,
+Landmandsgade 32 9293 Kongerslev,32,645000.0,13-02-2006,Alm.,4031,3,Rækkehus,160,1860,
+Neptunvej 2 9293 Kongerslev,2,985000.0,07-02-2006,Alm.,7137,3,Villa,138,1974,
+Fælledvej 7 9293 Kongerslev,7,100000.0,01-02-2006,Alm.,2380,2,Villa,42,1800,
+Højmarken 14 9293 Kongerslev,14,795000.0,29-01-2006,Alm.,7162,4,Villa,111,1977,
+Højmarken 16 9293 Kongerslev,16,740000.0,21-01-2006,Alm.,4868,6,Villa,152,1977,
+Vestergaardsvej 47 9293 Kongerslev,47,87360.0,09-01-2006,Alm.,448,6,Villa,195,2006,
+Jasminvej 3 9293 Kongerslev,3,945000.0,26-12-2005,Alm.,6019,5,Villa,157,1973,
+Fælledvej 1 9293 Kongerslev,1,430000.0,21-12-2005,Alm.,0,5,Villa,144,1922,
+Møllebakken 5 9293 Kongerslev,5,275000.0,12-12-2005,Fam.,2391,4,Villa,115,1944,
+Møllebakken 15 9293 Kongerslev,15,115000.0,28-11-2005,Alm.,804,4,Villa,143,2007,
+Møllebakken 13 9293 Kongerslev,13,115000.0,26-11-2005,Alm.,653,5,Villa,176,2008,
+Nyvej 5 9293 Kongerslev,5,655000.0,25-11-2005,Alm.,4962,4,Villa,132,1948,
+Østerkærvej 13 9293 Kongerslev,13,2050000.0,21-11-2005,Alm.,5616,11,Villa,365,1991,
+Rosevej 14 9293 Kongerslev,14,325000.0,01-11-2005,Alm.,2124,4,Villa,153,2006,
+Kildevej 10A 9293 Kongerslev,0,115000.0,29-10-2005,Alm.,1306,3,Villa,88,1923,
+Rosevej 12 9293 Kongerslev,12,295000.0,28-10-2005,Alm.,1260,7,Villa,234,2006,
+Guldrankevej 7 9293 Kongerslev,7,750000.0,11-10-2005,Alm.,5067,4,Villa,148,1974,
+Myrtevej 17 9293 Kongerslev,17,700000.0,29-09-2005,Alm.,5000,4,Villa,140,1973,
+Erantisvej 14 9293 Kongerslev,14,1020000.0,10-09-2005,Alm.,6580,5,Villa,155,1976,
+Kongensgade 29 9293 Kongerslev,29,450000.0,07-09-2005,Alm.,2586,6,Villa,174,1917,
+Kongerslevvej 1 9293 Kongerslev,1,262500.0,04-09-2005,Alm.,1973,3,Villa,133,1877,
+Regelvej 4 9293 Kongerslev,4,275000.0,01-09-2005,Alm.,3666,4,Villa,75,1917,
+Komdrupvej 2 9293 Kongerslev,2,1030000.0,22-08-2005,Alm.,8956,2,Villa,115,1909,
+Kærvej 61 9293 Kongerslev,61,750000.0,17-08-2005,Alm.,8333,4,Stuehus,90,1928,
+Skibstedbrovej 20 9293 Kongerslev,20,390000.0,13-08-2005,Alm.,0,4,Villa,118,1972,
+Regelvej 8 9293 Kongerslev,8,575000.0,11-08-2005,Alm.,8984,3,Villa,64,1877,
+Gartnervænget 29 9293 Kongerslev,29,153080.0,18-07-2005,Andet,732,4,Villa,209,2008,
+Bugdalsvej 3 9293 Kongerslev,3,250000.0,08-07-2005,Alm.,2293,3,Villa,109,1904,
+Kærvej 31 9293 Kongerslev,31,900000.0,06-07-2005,Alm.,4411,8,Villa,204,1900,
+Kongerslevvej 13 9293 Kongerslev,13,995000.0,30-06-2005,Alm.,6461,4,Villa,154,1927,
+Svanholmsmindevej 25 9293 Kongerslev,25,2400000.0,17-06-2005,Alm.,13407,5,Stuehus,179,1900,
+Kærvej 53 9293 Kongerslev,53,445000.0,02-06-2005,Alm.,0,5,Villa,203,1875,
+Fyrrebakken 1 9293 Kongerslev,1,498000.0,30-05-2005,Alm.,4980,4,Villa,100,1964,
+Skovkrogen 3 9293 Kongerslev,3,1220000.0,29-05-2005,Alm.,5304,5,Villa,230,1972,
+Kongensgade 23 9293 Kongerslev,23,725000.0,24-05-2005,Alm.,6971,5,Villa,104,1957,
+Kongensgade 22 9293 Kongerslev,22,635000.0,06-05-2005,Alm.,5291,5,Villa,120,1940,
+Svanfolkvej 15 9293 Kongerslev,15,1160000.0,11-04-2005,Alm.,5225,7,Villa,222,1928,
+Solvej 7 9293 Kongerslev,7,520000.0,24-03-2005,Alm.,5777,3,Villa,90,1961,
+Vestergaardsvej 61 9293 Kongerslev,61,945000.0,23-03-2005,Alm.,7105,4,Villa,133,1988,
+Danmarksgade 34 9293 Kongerslev,34,530000.0,17-03-2005,Alm.,4416,8,Villa,120,1925,
+Lindenborgvej 28 9293 Kongerslev,28,337500.0,08-03-2005,Alm.,2096,6,Stuehus,161,1900,
+Kærvej 28 9293 Kongerslev,28,20000.0,04-03-2005,Alm.,235,3,Villa,85,1905,
+Vestergaardsvej 41 9293 Kongerslev,41,980000.0,03-03-2005,Alm.,7903,5,Villa,124,1996,
+Erantisvej 4 9293 Kongerslev,4,1385000.0,02-03-2005,Alm.,7694,4,Villa,180,1973,
+Havevej 7 9293 Kongerslev,7,427319.0,14-02-2005,Andet,3652,4,Villa,117,1967,
+Slotsgårdsvej 1 9293 Kongerslev,1,625000.0,01-02-2005,Alm.,3906,6,Villa,160,1927,
+Vestergaardsvej 30 9293 Kongerslev,30,59930.0,30-01-2005,Alm.,402,5,Villa,149,2005,
+Skibstedbrovej 12 9293 Kongerslev,12,375000.0,18-01-2005,Alm.,3409,4,Villa,110,1969,
+Danmarksgade 38A 9293 Kongerslev,0,810000.0,16-01-2005,Alm.,7641,4,Villa,106,1992,
+Lykkevej 10 9293 Kongerslev,10,570000.0,22-12-2004,Alm.,6333,3,Villa,90,1966,
+"Danmarksgade 28, 1 9293 Kongerslev",1,800000.0,08-12-2004,Fam.,6153,4,Anden beboelse,130,1928,
+Jyllandsgade 3 9293 Kongerslev,3,620000.0,07-12-2004,Alm.,5740,6,Villa,108,1954,
+Skibsted Nyvej 6 9293 Kongerslev,6,395000.0,25-11-2004,Alm.,4072,4,Villa,97,1971,
+Skibsted Østergade 3 9293 Kongerslev,3,466640.0,14-10-2004,Alm.,4860,4,Villa,96,1951,
+Landmandsgade 47 9293 Kongerslev,47,875000.0,05-10-2004,Alm.,5912,5,Villa,148,1848,
+Dalsgaardvej 27 9293 Kongerslev,27,590000.0,07-09-2004,Alm.,1475,7,Villa,400,2006,
+Skibstedbrovej 39 9293 Kongerslev,39,430000.0,05-08-2004,Alm.,3583,5,Villa,120,1897,
+Østerkærvej 1 9293 Kongerslev,1,260000.0,30-07-2004,Fam.,2031,4,Stuehus,128,1881,
+Skibstedvej 18 9293 Kongerslev,18,475000.0,02-07-2004,Alm.,3518,7,Stuehus,135,1921,
+Kongensgade 19 9293 Kongerslev,19,290000.0,18-06-2004,Alm.,2710,3,Villa,107,1944,
+Kildevej 24 9293 Kongerslev,24,625000.0,01-06-2004,Alm.,5208,3,Villa,120,1920,
+Vestergaardsvej 55 9293 Kongerslev,55,835000.0,17-05-2004,Alm.,7731,3,Villa,108,1995,
+Skovbrynet 8 9293 Kongerslev,8,1100000.0,05-05-2004,Alm.,3283,8,Villa,335,1969,
+Ranksvej 3 9293 Kongerslev,3,350000.0,28-03-2004,Alm.,4268,3,Villa,82,1930,
+Jasminvej 4 9293 Kongerslev,4,720000.0,19-03-2004,Alm.,4800,5,Villa,150,1974,
+Skovbrynet 5 9293 Kongerslev,5,940000.0,19-03-2004,Alm.,5433,6,Villa,173,1972,
+Kildevej 26 9293 Kongerslev,26,450000.0,19-02-2004,Alm.,3333,6,Villa,135,1940,
+Danmarksgade 39 9293 Kongerslev,39,133680.0,30-01-2004,Alm.,568,8,Stuehus,235,2002,
+Landmandsgade 49 9293 Kongerslev,49,422138.0,29-01-2004,Alm.,5025,3,Villa,84,1962,
+Svanholmsmindevej 9 9293 Kongerslev,9,218891.0,27-01-2004,Fam.,1683,4,Stuehus,130,1937,
+Vestergaardsvej 58 9293 Kongerslev,58,1065000.0,16-01-2004,Alm.,8658,4,Villa,123,2000,
+Lunavej 6C 9293 Kongerslev,0,238000.0,27-10-2003,Alm.,5666,1,Rækkehus,42,1978,
+Dalsgaardvej 8 9293 Kongerslev,8,330000.0,23-09-2003,Fam.,2229,5,Villa,148,1927,
+Erantisvej 18 9293 Kongerslev,18,698000.0,09-09-2003,Alm.,5170,5,Villa,135,1975,
+Havevej 11 9293 Kongerslev,11,500000.0,08-09-2003,Alm.,7812,3,Villa,64,1927,
+Venusvej 3 9293 Kongerslev,3,975000.0,21-08-2003,Alm.,6587,6,Villa,148,1972,
+Rolighedsvej 3 9293 Kongerslev,3,681408.0,01-08-2003,Fam.,6489,3,Villa,105,1934,
+Hyldevej 8 9293 Kongerslev,8,790000.0,23-07-2003,Alm.,3744,5,Villa,211,2007,
+Seefeldtslundvej 4 9293 Kongerslev,4,1190000.0,17-07-2003,Alm.,5409,8,Stuehus,220,1923,
+Venusvej 7 9293 Kongerslev,7,849000.0,11-07-2003,Alm.,4121,6,Villa,206,1971,
+Landmandsgade 25 9293 Kongerslev,25,640000.0,02-07-2003,Alm.,2909,7,Villa,220,1870,
+Danmarksgade 56 9293 Kongerslev,56,320000.0,01-07-2003,Alm.,4000,2,Villa,80,1911,
+Svanfolk Bakker 11 9293 Kongerslev,11,525000.0,26-06-2003,Alm.,0,7,Villa,187,1887,
+Nyvej 17 9293 Kongerslev,17,300000.0,22-06-2003,Alm.,3296,3,Villa,91,1962,
+Møllebakken 9 9293 Kongerslev,9,650000.0,20-06-2003,Alm.,3080,7,Villa,211,1949,
+Gartnervænget 6 9293 Kongerslev,6,445000.0,06-06-2003,Alm.,5056,3,Rækkehus,88,1979,
+Havevej 4 9293 Kongerslev,4,430000.0,03-06-2003,Auktion,3909,5,Villa,110,1931,
+Seefeldtslundvej 9 9293 Kongerslev,9,1260000.0,02-06-2003,Alm.,5000,8,Villa,252,1923,
+Alfred Mørchs Vej 4 9293 Kongerslev,4,814652.0,28-05-2003,Alm.,5028,7,Villa,162,1963,
+Højmarken 9 9293 Kongerslev,9,835000.0,28-05-2003,Alm.,4798,6,Villa,174,1976,
+Kildevej 12B 9293 Kongerslev,0,390000.0,27-05-2003,Alm.,5820,2,Rækkehus,67,1976,
+Fogedvej 5 9293 Kongerslev,5,481017.0,18-05-2003,Fam.,6246,3,Villa,77,1991,
+Mygdalsvej 24 9293 Kongerslev,24,600000.0,16-05-2003,Alm.,2955,5,Stuehus,203,1847,
+Kongensgade 31 9293 Kongerslev,31,630000.0,29-04-2003,Alm.,6057,3,Villa,104,1966,
+Nyvej 13 9293 Kongerslev,13,525000.0,16-04-2003,Alm.,6481,3,Villa,81,1960,
+Kærvej 35 9293 Kongerslev,35,167000.0,06-04-2003,Alm.,1897,3,Stuehus,88,1911,
+Magnoliehaven 16 9293 Kongerslev,16,81520.0,19-03-2003,Alm.,473,5,Villa,172,2003,
+Kongensgade 32 9293 Kongerslev,32,410000.0,17-03-2003,Alm.,3253,3,Villa,126,1923,
+Kildevej 8 9293 Kongerslev,8,505000.0,05-03-2003,Alm.,4316,4,Villa,117,1994,
+Skibstedvej 19 9293 Kongerslev,19,445000.0,28-02-2003,Alm.,3178,6,Villa,140,1936,
+Højmarken 24A 9293 Kongerslev,0,450000.0,25-02-2003,Fam.,6716,3,Rækkehus,67,1985,
+Tinghøjvej 7 9293 Kongerslev,7,550000.0,22-02-2003,Alm.,3928,4,Villa,140,1920,
+Guldrankevej 8 9293 Kongerslev,8,835000.0,28-01-2003,Alm.,5680,4,Villa,147,1976,
+Danmarksgade 46 9293 Kongerslev,46,650000.0,10-01-2003,Alm.,4710,5,Villa,138,1947,
+Danmarksgade 44 9293 Kongerslev,44,319048.0,09-01-2003,Alm.,2954,4,Villa,108,1909,
+Dalsgaardvej 31 9293 Kongerslev,31,995000.0,07-01-2003,Alm.,6546,8,Villa,152,1938,
+Sigsgaardvej 39 9293 Kongerslev,39,3825000.0,18-12-2002,Fam.,50328,3,Stuehus,76,1947,
+Skibstedvej 4 9293 Kongerslev,4,300000.0,05-12-2002,Alm.,4166,2,Villa,72,1860,
+Danmarksgade 35 9293 Kongerslev,35,280000.0,29-11-2002,Alm.,2800,3,Villa,100,1947,
+Monshøjvej 12 9293 Kongerslev,12,1100000.0,04-11-2002,Alm.,4400,7,Villa,250,1969,
+Møllevej 1 9293 Kongerslev,1,365000.0,28-10-2002,Alm.,3016,6,Villa,121,1944,
+Magnoliehaven 18 9293 Kongerslev,18,550000.0,26-10-2002,Alm.,2879,7,Villa,191,1979,
+Kærvej 67 9293 Kongerslev,67,478181.0,20-10-2002,Alm.,5313,3,Villa,90,1865,
+Vestergaardsvej 2 9293 Kongerslev,2,561000.0,18-10-2002,Fam.,4348,4,Villa,129,1975,
+Møllebakken 12 9293 Kongerslev,12,400000.0,12-09-2002,Alm.,4000,3,Villa,100,1969,
+Vestergaardsvej 34 9293 Kongerslev,34,65390.0,08-09-2002,Alm.,406,5,Villa,161,2004,
+Landmandsgade 14 9293 Kongerslev,14,610618.0,23-08-2002,Alm.,3230,6,Villa,189,1900,
+Kongensgade 67 9293 Kongerslev,67,160000.0,23-08-2002,Alm.,1167,4,Villa,137,2005,
+Vestergaardsvej 17 9293 Kongerslev,17,281608.0,21-08-2002,Alm.,2025,4,Villa,139,1978,
+Danmarksgade 5 9293 Kongerslev,5,263923.0,09-08-2002,Alm.,2030,4,Villa,130,1940,
+Kongerslevvej 10 9293 Kongerslev,10,540000.0,22-07-2002,Alm.,3941,6,Villa,137,1877,
+Kongensgade 7 9293 Kongerslev,7,425000.0,01-07-2002,Fam.,4569,3,Villa,93,1952,
+Hyldevej 2 9293 Kongerslev,2,4060000.0,01-07-2002,Alm.,21711,6,Stuehus,187,1870,
+Møllebakken 19 9293 Kongerslev,19,15000.0,16-06-2002,Alm.,123,6,Villa,121,2006,
+Kærvej 55 9293 Kongerslev,55,1300000.0,07-06-2002,Fam.,13541,4,Stuehus,96,1938,
+Havevej 14 9293 Kongerslev,14,675000.0,31-05-2002,Alm.,4856,6,Villa,139,1931,
+Niels Eriksensvej 3 9293 Kongerslev,3,345000.0,28-05-2002,Alm.,4312,4,Villa,80,1915,
+Skibstedbrovej 35 9293 Kongerslev,35,16800000.0,10-05-2002,Alm.,140000,6,Stuehus,120,1887,
+Solvej 24 9293 Kongerslev,24,435984.0,18-04-2002,Alm.,2179,6,Villa,200,1972,
+Rolighedsvej 2B 9293 Kongerslev,0,425000.0,17-04-2002,Alm.,6967,2,Rækkehus,61,1991,
+Danmarksgade 58 9293 Kongerslev,58,435000.0,08-03-2002,Alm.,4350,4,Villa,100,1962,
+Solvej 5 9293 Kongerslev,5,620000.0,06-03-2002,Alm.,4335,3,Villa,143,1962,
+Tinghøjvej 3 9293 Kongerslev,3,178102.0,04-03-2002,Alm.,1633,4,Villa,109,1958,
+Slotsgårdsvej 3 9293 Kongerslev,3,1170000.0,28-02-2002,Alm.,4062,6,Stuehus,288,1890,
+Vestergaardsvej 32 9293 Kongerslev,32,60840.0,27-02-2002,Alm.,440,6,Villa,138,2002,
+Danmarksgade 29 9293 Kongerslev,29,280000.0,05-02-2002,Alm.,2121,7,Villa,132,1800,
+Vestergaardsvej 51 9293 Kongerslev,51,471081.0,04-02-2002,Fam.,3317,6,Villa,142,1998,
+Solvej 12 9293 Kongerslev,12,750000.0,01-02-2002,Alm.,3865,7,Villa,194,1964,
+Vestergaardsvej 8 9293 Kongerslev,8,308436.0,17-01-2002,Alm.,2507,5,Villa,123,1977,
+Kongensgade 27A 9293 Kongerslev,0,480000.0,27-12-2001,Alm.,4173,5,Villa,115,1987,
+Skibstedvej 16 9293 Kongerslev,16,1290000.0,19-12-2001,Fam.,5837,4,Stuehus,221,2006,
+Danmarksgade 6A 9293 Kongerslev,0,890000.0,17-12-2001,Alm.,4494,6,Villa,198,1986,
+"Landmandsgade 33, 1 9293 Kongerslev",1,340000.0,07-12-2001,Alm.,2266,6,Anden beboelse,150,1904,
+Solvej 6 9293 Kongerslev,6,445000.0,01-12-2001,Fam.,4120,2,Villa,108,1948,
+Skibstedvej 2 9293 Kongerslev,2,96000.0,23-11-2001,Fam.,774,3,Villa,124,2002,
+Mygdalsvej 14 9293 Kongerslev,14,725000.0,22-11-2001,Alm.,4965,4,Villa,146,1973,
+Dalsgaardvej 13 9293 Kongerslev,13,500388.0,30-10-2001,Alm.,4276,5,Villa,117,1927,
+Lundensvej 2 9293 Kongerslev,2,700000.0,12-10-2001,Alm.,4666,6,Stuehus,150,1854,
+Slotsgårdsvej 4 9293 Kongerslev,4,600000.0,07-10-2001,Alm.,0,11,Villa,320,1880,
+Slotsgårdsvej 2 9293 Kongerslev,2,310000.0,02-10-2001,Alm.,2080,3,Villa,149,1877,
+Møllebakken 10 9293 Kongerslev,10,564000.0,16-09-2001,Alm.,4947,4,Villa,114,1975,
+Vestergaardsvej 42 9293 Kongerslev,42,69745.0,24-08-2001,Alm.,441,5,Villa,158,2001,
+Jyllandsgade 6 9293 Kongerslev,6,270000.0,14-08-2001,Alm.,1875,4,Villa,144,1907,
+N.P. Gravesensvej 6 9293 Kongerslev,6,695000.0,23-07-2001,Alm.,6261,4,Villa,111,1930,
+Sigsgaardvej 6 9293 Kongerslev,6,348000.0,24-06-2001,Alm.,3411,4,Villa,102,1925,
+Ranksvej 2 9293 Kongerslev,2,220000.0,18-06-2001,Fam.,0,3,Villa,125,1908,
+Møllebakken 14 9293 Kongerslev,14,1250000.0,09-05-2001,Alm.,8445,5,Villa,148,1999,
+Refsnæsvej 4 9293 Kongerslev,4,535000.0,08-05-2001,Alm.,5144,4,Villa,104,1960,
+Skibsted Nyvej 1 9293 Kongerslev,1,615000.0,08-05-2001,Alm.,5082,4,Villa,121,1978,
+Erantisvej 20 9293 Kongerslev,20,975000.0,20-04-2001,Alm.,6250,5,Villa,156,1974,
+Tinghøjvej 4 9293 Kongerslev,4,465000.0,16-04-2001,Alm.,3974,4,Villa,117,1953,
+Kongerslevvej 4 9293 Kongerslev,4,1995000.0,11-04-2001,Alm.,5700,9,Stuehus,350,1870,
+Vestergaardsvej 39 9293 Kongerslev,39,1098000.0,09-04-2001,Alm.,7369,5,Villa,149,1997,
+Fyrrebakken 2 9293 Kongerslev,2,801565.0,30-01-2001,Alm.,4978,6,Villa,161,1966,
+Dalsgaardvej 4 9293 Kongerslev,4,409547.0,09-01-2001,Alm.,3412,4,Villa,120,1927,
+Lunavej 6E 9293 Kongerslev,0,188380.0,04-01-2001,Alm.,4186,1,Rækkehus,45,1978,
+Østergårdsvej 5 9293 Kongerslev,5,543000.0,10-11-2000,Alm.,2770,8,Villa,196,1919,
+Fyrrebakken 10 9293 Kongerslev,10,865000.0,29-10-2000,Alm.,4528,7,Villa,191,1979,
+Gartnervænget 22 9293 Kongerslev,22,501500.0,15-09-2000,Fam.,5451,3,Rækkehus,92,1988,
+Kildevej 12E 9293 Kongerslev,0,385000.0,14-09-2000,Alm.,5661,2,Rækkehus,68,1976,
+Rolighedsvej 7 9293 Kongerslev,7,220000.0,07-09-2000,Fam.,1506,5,Villa,146,1909,
+Svanholmsmindevej 10 9293 Kongerslev,10,140000.0,07-07-2000,Alm.,1206,5,Villa,116,1844,
+Vestergaardsvej 44 9293 Kongerslev,44,65910.0,28-06-2000,Alm.,0,6,Villa,170,2002,
+Højmarken 22 9293 Kongerslev,22,924000.0,21-06-2000,Alm.,5566,3,Villa,166,1987,
+Seefeldtslundvej 11 9293 Kongerslev,11,130000.0,24-05-2000,Alm.,1150,5,Stuehus,113,1922,
+Mygdalsvej 10 9293 Kongerslev,10,750000.0,09-05-2000,Alm.,4870,5,Villa,154,1973,
+Sigsgaardvej 27 9293 Kongerslev,27,642500.0,20-04-2000,Alm.,0,7,Villa,209,1947,
+Jernbanegade 2 9293 Kongerslev,2,835000.0,13-04-2000,Alm.,5318,3,Villa,157,1905,
+Svanfolk Bakker 5 9293 Kongerslev,5,400000.0,04-04-2000,Alm.,2484,6,Stuehus,161,1850,
+Treskelvej 1 9293 Kongerslev,1,1331125.0,14-03-2000,Alm.,6106,5,Stuehus,218,1962,
+Skibstedvej 13 9293 Kongerslev,13,300000.0,22-02-2000,Alm.,4477,3,Villa,67,1877,
+Myrtevej 15 9293 Kongerslev,15,780000.0,30-01-2000,Alm.,4000,5,Villa,195,1973,
+Nyvej 4 9293 Kongerslev,4,375000.0,14-01-2000,Fam.,4687,2,Villa,80,1943,
+Baggesdamvej 11 9293 Kongerslev,11,5000000.0,11-01-2000,Fam.,18796,6,Stuehus,266,1933,
+Skibstedbrovej 5 9293 Kongerslev,5,264999.0,08-01-2000,Alm.,2944,4,Villa,90,1929,
+Svanholmsmindevej 14 9293 Kongerslev,14,517000.0,07-11-1999,Alm.,4456,4,Villa,116,1900,
+Lindenborgvej 6 9293 Kongerslev,6,323000.0,20-10-1999,Fam.,2963,4,Villa,109,1915,
+Vestergaardsvej 40 9293 Kongerslev,40,65520.0,14-09-1999,Alm.,595,3,Villa,110,2000,
+Danmarksgade 38 9293 Kongerslev,38,499191.0,30-08-1999,Alm.,3565,3,Villa,140,1927,
+Lindenborgvej 2A 9293 Kongerslev,0,250000.0,31-07-1999,Alm.,2976,6,Villa,84,1946,
+Havevej 18 9293 Kongerslev,18,585301.0,25-06-1999,Alm.,3800,7,Villa,154,1928,
+Østerkærvej 11 9293 Kongerslev,11,340000.0,16-06-1999,Alm.,0,5,Stuehus,114,1875,
+Kongensgade 42 9293 Kongerslev,42,1826955.0,14-06-1999,Alm.,9822,7,Villa,186,1930,
+Refsnæsvej 10 9293 Kongerslev,10,998001.0,03-06-1999,Alm.,7447,5,Villa,134,1936,
+Gartnervænget 3 9293 Kongerslev,3,1100436.0,21-05-1999,Alm.,7749,6,Villa,142,1984,
+"Jyllandsgade 10D, 1 9293 Kongerslev",1,265000.0,16-05-1999,Alm.,5196,2,Lejlighed,51,1917,
+Skibstedvej 31 9293 Kongerslev,31,269000.0,16-05-1999,Alm.,1935,4,Villa,139,1949,
+Mygdalsvej 2 9293 Kongerslev,2,699000.0,14-05-1999,Alm.,6131,3,Villa,114,1927,
+Lindenborgvej 18 9293 Kongerslev,18,257000.0,04-05-1999,Alm.,1797,5,Villa,143,1920,
+Myrtevej 11 9293 Kongerslev,11,573885.0,20-04-1999,Alm.,4219,5,Villa,136,1975,
+J.F.La Cours Vej 6 9293 Kongerslev,6,1150000.0,30-03-1999,Alm.,0,4,Stuehus,271,1927,
+Skovkrogen 20 9293 Kongerslev,20,775000.0,22-03-1999,Alm.,3875,5,Villa,200,1975,
+Kildevej 1 9293 Kongerslev,1,512000.0,12-03-1999,Alm.,3282,7,Villa,156,1902,
+Marsvej 8 9293 Kongerslev,8,907000.0,09-03-1999,Alm.,4580,8,Villa,198,1932,
+Mygdalsvej 26 9293 Kongerslev,26,1155000.0,01-02-1999,Alm.,13750,3,Stuehus,84,1913,
+Landmandsgade 21 9293 Kongerslev,21,695000.0,25-01-1999,Alm.,2545,7,Villa,273,1875,
+Hestholmvej 5 9293 Kongerslev,5,840000.0,22-01-1999,Alm.,7241,3,Stuehus,116,1959,
+Skibstedbrovej 15 9293 Kongerslev,15,339000.0,20-11-1998,Alm.,2922,4,Villa,116,1929,
+Svanfolkvej 16 9293 Kongerslev,16,1946000.0,06-11-1998,Alm.,9266,7,Stuehus,210,1850,
+Bugdalsvej 5 9293 Kongerslev,5,775000.0,30-10-1998,Alm.,7242,3,Stuehus,107,1930,
+Landmandsgade 45 9293 Kongerslev,45,568334.0,27-10-1998,Alm.,2291,11,Villa,248,1870,
+N.P. Gravesensvej 10 9293 Kongerslev,10,238000.0,16-10-1998,Fam.,1239,6,Villa,192,1900,
+Havevej 10 9293 Kongerslev,10,348500.0,29-09-1998,Fam.,3168,3,Villa,110,1971,
+Kongerslevvej 5 9293 Kongerslev,5,732930.0,21-09-1998,Alm.,7115,3,Villa,103,1951,
+Skibstedbrovej 45 9293 Kongerslev,45,897220.0,17-09-1998,Alm.,4929,6,Villa,182,1912,
+Kærvej 30 9293 Kongerslev,30,161654.0,01-09-1998,Alm.,1554,2,Stuehus,104,1897,
+Skibstedvej 23 9293 Kongerslev,23,455000.0,14-08-1998,Alm.,3250,6,Villa,140,1931,
+Seefeldtslundvej 3 9293 Kongerslev,3,1184771.0,23-07-1998,Alm.,0,7,Villa,275,1921,
+Lykkevej 13 9293 Kongerslev,13,798000.0,20-07-1998,Alm.,4639,6,Villa,172,1978,
+Kongerslevvej 17 9293 Kongerslev,17,1610000.0,22-06-1998,Alm.,4820,9,Stuehus,334,1905,
+Danmarksgade 16 9293 Kongerslev,16,360000.0,18-06-1998,Fam.,4000,5,Villa,90,1906,
+Kongensgade 34 9293 Kongerslev,34,1016065.0,10-06-1998,Alm.,8194,4,Villa,124,1997,
+Guldrankevej 4 9293 Kongerslev,4,810720.0,29-05-1998,Alm.,3806,7,Villa,213,1973,
+Mygdalsvej 20 9293 Kongerslev,20,762000.0,28-05-1998,Alm.,5080,5,Villa,150,1973,
+Møllebakken 1 9293 Kongerslev,1,388608.0,20-05-1998,Alm.,2625,4,Villa,148,1944,
+Svanholmsmindevej 19 9293 Kongerslev,19,1280000.0,18-05-1998,Alm.,0,5,Villa,268,1981,
+Jyllandsgade 5 9293 Kongerslev,5,743522.0,18-05-1998,Alm.,4647,7,Villa,160,1910,
+Vildmosevej 6 9293 Kongerslev,6,238040.0,16-03-1998,Alm.,1935,8,Stuehus,123,1900,
+Østergårdsvej 14 9293 Kongerslev,14,512000.0,17-02-1998,Alm.,3141,4,Villa,163,1867,
+Vestergaardsvej 52 9293 Kongerslev,52,650000.0,17-02-1998,Alm.,3266,6,Villa,199,1997,
+Vesterkærvej 6 9293 Kongerslev,6,357000.0,19-12-1997,Fam.,0,8,Stuehus,303,2004,
+Skibstedbrovej 27 9293 Kongerslev,27,292400.0,18-12-1997,Alm.,2542,4,Villa,115,1952,
+Skibstedbrovej 24 9293 Kongerslev,24,5887500.0,18-12-1997,Alm.,25822,8,Stuehus,228,1971,
+Lindenborgvej 2B 9293 Kongerslev,0,562634.0,04-11-1997,Alm.,4077,4,Villa,138,1980,
+Erantisvej 8 9293 Kongerslev,8,715000.0,28-10-1997,Alm.,3310,6,Villa,216,1977,
+Østerkærvej 5 9293 Kongerslev,5,628172.0,23-10-1997,Fam.,2595,5,Villa,242,1950,
+Dalsgaardvej 17 9293 Kongerslev,17,338000.0,19-09-1997,Alm.,2964,5,Villa,114,1877,
+Guldrankevej 1 9293 Kongerslev,1,750000.0,10-09-1997,Fam.,3731,5,Villa,201,1974,
+Svanfolkvej 24 9293 Kongerslev,24,440000.0,06-09-1997,Alm.,3666,4,Stuehus,120,1914,
+Kongensgade 49A 9293 Kongerslev,0,250000.0,03-09-1997,Alm.,3676,2,Lejlighed,68,1975,
+Østerkærvej 3 9293 Kongerslev,3,950000.0,08-08-1997,Fam.,6209,5,Stuehus,153,1973,
+Svanholmsmindevej 35 9293 Kongerslev,35,955960.0,03-07-1997,Alm.,3950,9,Stuehus,242,1928,
+Landmandsgade 10 9293 Kongerslev,10,300000.0,20-05-1997,Alm.,0,9,Stuehus,250,1857,
+Myrtevej 9 9293 Kongerslev,9,666539.0,17-04-1997,Alm.,4829,3,Villa,138,1975,
+Lindevej 3 9293 Kongerslev,3,773720.0,10-04-1997,Alm.,3907,6,Villa,198,1976,
+Jernbanestien 4 9293 Kongerslev,4,608000.0,11-03-1997,Alm.,3730,5,Villa,163,1907,
+Randrupvej 8 9293 Kongerslev,8,384000.0,03-02-1997,Alm.,5189,5,Stuehus,74,1914,
+Vestergaardsvej 26 9293 Kongerslev,26,51984.0,31-12-1996,Alm.,316,5,Villa,164,1997,
+Kildevej 11 9293 Kongerslev,11,357000.0,07-11-1996,Fam.,2550,5,Villa,140,1877,
+Erantisvej 7 9293 Kongerslev,7,575000.0,13-09-1996,Alm.,4136,4,Villa,139,1975,
+Magnoliehaven 14 9293 Kongerslev,14,660000.0,02-09-1996,Alm.,3707,6,Villa,178,1978,
+Svanholmsmindevej 29 9293 Kongerslev,29,550000.0,01-08-1996,Alm.,3021,7,Villa,182,1939,
+Skibstedbrovej 7 9293 Kongerslev,7,170000.0,25-06-1996,Alm.,1214,4,Villa,140,1860,
+N.P. Gravesensvej 7 9293 Kongerslev,7,330000.0,21-06-1996,Alm.,3402,5,Villa,97,1923,
+Kildevej 12D 9293 Kongerslev,0,288124.0,20-06-1996,Alm.,4300,2,Rækkehus,67,1976,
+Kærvej 33 9293 Kongerslev,33,200000.0,11-06-1996,Alm.,1428,3,Villa,140,1913,
+Kongensgade 44 9293 Kongerslev,44,820795.0,10-05-1996,Alm.,3109,5,Villa,264,1973,
+Solvej 8 9293 Kongerslev,8,250000.0,05-05-1996,Alm.,2717,3,Villa,92,1949,
+Erantisvej 5 9293 Kongerslev,5,605000.0,26-03-1996,Alm.,4143,6,Villa,146,1973,
+Svanfolkvej 29 9293 Kongerslev,29,217800.0,13-03-1996,Alm.,1555,5,Villa,140,1910,
+Lykkevej 5 9293 Kongerslev,5,380000.0,24-01-1996,Alm.,2923,6,Villa,130,1960,
+Østergårdsvej 8 9293 Kongerslev,8,428800.0,09-01-1996,Alm.,2522,6,Villa,170,1955,
+Jernbanestien 2 9293 Kongerslev,2,290000.0,18-12-1995,Alm.,0,5,Villa,158,1912,
+N.P. Gravesensvej 2 9293 Kongerslev,2,163505.0,13-12-1995,Alm.,0,6,Villa,214,1929,
+Landmandsgade 16 9293 Kongerslev,16,575000.0,12-12-1995,Alm.,2686,5,Villa,214,1874,
+Skovbrynet 9 9293 Kongerslev,9,713020.0,14-11-1995,Alm.,4600,5,Villa,155,1967,
+Møllebakken 7 9293 Kongerslev,7,256866.0,12-11-1995,Alm.,0,5,Villa,129,1934,
+Lethsvej 4 9293 Kongerslev,4,241000.0,20-09-1995,Fam.,2410,2,Villa,100,1928,
+Vestergaardsvej 59 9293 Kongerslev,59,57798.0,14-09-1995,Alm.,271,6,Villa,213,1996,
+Rolighedsvej 6 9293 Kongerslev,6,125000.0,04-09-1995,Alm.,0,3,Villa,80,1940,
+Komdrupvej 4 9293 Kongerslev,4,455000.0,08-08-1995,Alm.,3095,4,Villa,147,1909,
+Højmarken 10 9293 Kongerslev,10,567500.0,17-07-1995,Alm.,2689,6,Villa,211,1977,
+Gartnervænget 10 9293 Kongerslev,10,1045302.0,13-06-1995,Alm.,6922,6,Villa,151,1986,
+Sigsgaardvej 8 9293 Kongerslev,8,495000.0,01-06-1995,Alm.,2690,4,Villa,184,1935,
+Vestergaardsvej 49 9293 Kongerslev,49,51129.0,22-05-1995,Alm.,440,4,Villa,116,1996,
+Højmarken 1 9293 Kongerslev,1,750000.0,28-04-1995,Fam.,3456,5,Villa,217,1971,
+Ranksvej 1 9293 Kongerslev,1,295000.0,24-04-1995,Alm.,4097,4,Villa,72,1877,
+Hestholmvej 4 9293 Kongerslev,4,40000.0,22-03-1995,Alm.,416,3,Villa,96,1929,
+Westend 2 9293 Kongerslev,2,418780.0,20-02-1995,Alm.,3807,5,Villa,110,1952,
+Svanholmsmindevej 6 9293 Kongerslev,6,518500.0,30-01-1995,Fam.,4629,4,Stuehus,112,1973,
+Sigsgaardvej 21 9293 Kongerslev,21,321000.0,29-01-1995,Alm.,849,8,Villa,378,1903,
+Kærvej 16 9293 Kongerslev,16,300000.0,07-11-1994,Alm.,2830,4,Stuehus,106,1928,
+Kirkestræde 1 9293 Kongerslev,1,230000.0,24-10-1994,Alm.,3770,3,Villa,61,1920,
+Kærvej 41 9293 Kongerslev,41,450000.0,17-10-1994,Alm.,2922,5,Villa,154,1934,
+Guldrankevej 14 9293 Kongerslev,14,566000.0,24-09-1994,Alm.,3876,5,Villa,146,1974,
+Randrupvej 4 9293 Kongerslev,4,2200579.0,21-09-1994,Alm.,10787,8,Stuehus,204,1887,
+Havevej 6 9293 Kongerslev,6,461000.0,07-08-1994,Alm.,5065,4,Villa,91,1987,
+Skibsted Østergade 6 9293 Kongerslev,6,210000.0,26-06-1994,Alm.,2019,4,Stuehus,104,1817,
+Myrtevej 25 9293 Kongerslev,25,306033.0,02-06-1994,Alm.,1912,6,Villa,160,1974,
+Solvej 11 9293 Kongerslev,11,311080.0,01-06-1994,Alm.,2853,4,Villa,109,1963,
+Magnoliehaven 13 9293 Kongerslev,13,500000.0,14-04-1994,Alm.,0,4,Villa,118,1981,
+Dalsgaardvej 12 9293 Kongerslev,12,372000.0,27-03-1994,Alm.,3720,3,Villa,100,1950,
+Regelvej 1 9293 Kongerslev,1,187402.0,23-01-1994,Alm.,1703,3,Villa,110,1845,
+Kongensgade 33 9293 Kongerslev,33,430000.0,18-01-1994,Alm.,2471,6,Villa,174,1917,
+Hestholmvej 8 9293 Kongerslev,8,210000.0,14-01-1994,Alm.,1666,4,Stuehus,126,1927,
+Danmarksgade 43 9293 Kongerslev,43,1144000.0,10-12-1993,Andet,19066,4,Engroshandel,60,1946,
+Landmandsgade 25A 9293 Kongerslev,0,490000.0,05-12-1993,Alm.,2552,5,Stuehus,192,1919,
+Svanholmsmindevej 3 9293 Kongerslev,3,83111.0,15-11-1993,Alm.,0,6,Stuehus,161,1877,
+Jasminvej 8 9293 Kongerslev,8,474000.0,31-08-1993,Alm.,2890,6,Villa,164,1976,
+Kærvej 63 9293 Kongerslev,63,205000.0,26-08-1993,Alm.,2440,4,Stuehus,84,1880,
+Svanholmsmindevej 1 9293 Kongerslev,1,137000.0,28-07-1993,Fam.,1593,3,Villa,86,1947,
+Landmandsgade 9 9293 Kongerslev,9,420000.0,14-07-1993,Alm.,2000,7,Stuehus,210,1857,
+Svanfolk Bakker 1 9293 Kongerslev,1,150000.0,17-06-1993,Alm.,0,4,Villa,117,1900,
+Vildmosevej 4 9293 Kongerslev,4,265939.0,06-04-1993,Alm.,0,8,Stuehus,170,1925,
+Tinghøjvej 2 9293 Kongerslev,2,175000.0,23-11-1992,Alm.,2536,5,Villa,69,1954,
+Kærvej 12 9293 Kongerslev,12,110783.0,23-11-1992,Alm.,1230,3,Villa,90,1928,
+Kongerslevvej 3 9293 Kongerslev,3,2950000.0,31-10-1992,Fam.,12040,8,Stuehus,245,1975,
+Vindevej 3 9293 Kongerslev,3,505000.0,16-10-1992,Alm.,4391,4,Stuehus,115,1900,
+Hestholmvej 2 9293 Kongerslev,2,450000.0,07-10-1992,Alm.,3214,4,Villa,140,1877,
+Svanholmsmindevej 13 9293 Kongerslev,13,310000.0,28-08-1992,Alm.,0,5,Stuehus,136,1921,
+Ålykkevej 13 9293 Kongerslev,13,890000.0,13-08-1992,Alm.,6793,4,Stuehus,131,2008,
+Østerkærvej 7 9293 Kongerslev,7,560000.0,05-08-1992,Alm.,2901,5,Villa,193,1897,
+Møllebakken 2 9293 Kongerslev,2,195000.0,21-07-1992,Alm.,3000,2,Villa,65,1952,
+Dalsgaardvej 5A 9293 Kongerslev,0,196000.0,05-06-1992,Alm.,2130,3,Villa,92,1900,
+Højmarken 2 9293 Kongerslev,2,650000.0,04-06-1992,Alm.,2981,5,Villa,218,1972,
+Højmarken 24B 9293 Kongerslev,0,315000.0,22-04-1992,Alm.,0,3,Rækkehus,67,1985,
+Refsnæsvej 16 9293 Kongerslev,16,470000.0,03-04-1992,Alm.,2781,6,Villa,169,1936,
+N.P. Gravesensvej 5 9293 Kongerslev,5,94500.0,20-03-1992,Fam.,1166,3,Villa,81,1920,
+N.P. Gravesensvej 1 9293 Kongerslev,1,240000.0,04-02-1992,Alm.,1500,7,Villa,160,1924,
+Gartnervænget 17 9293 Kongerslev,17,824602.0,25-01-1992,Alm.,4937,5,Villa,167,1987,
+Erantisvej 1 9293 Kongerslev,1,209838.0,06-01-1992,Auktion,1398,5,Villa,150,1974,

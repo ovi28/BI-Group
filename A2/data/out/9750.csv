@@ -1,0 +1,790 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Rosenlundsvej 4 9750 Østervrå,4,1982000.0,16-05-2017,Alm.,7053,7,Stuehus,281,1907,
+Hjørringvej 304 9750 Østervrå,304,300500.0,28-04-2017,Alm.,2504,4,Villa,120,1937,
+Floravej 8 9750 Østervrå,8,700000.0,31-03-2017,Alm.,3225,7,Villa,217,1963,
+"Liljevej 8B, ST. TV 9750 Østervrå",0,70000.0,29-03-2017,Alm.,1093,2,Lejlighed,64,1912,
+Vrængmosevej 81 9750 Østervrå,81,550000.0,17-03-2017,Alm.,1041,9,Villa,528,1966,
+Hjørringvej 231 9750 Østervrå,231,150000.0,15-03-2017,Alm.,1363,4,Villa,110,1959,-50 %
+Hjørringvej 238 9750 Østervrå,238,200000.0,10-03-2017,Alm.,1307,4,Villa,153,1904,
+Møllegade 38 9750 Østervrå,38,500000.0,22-02-2017,Fam.,3355,4,Villa,149,1976,
+"Liljevej 8B, 1. TH 9750 Østervrå",0,15000.0,09-02-2017,Alm.,238,2,Lejlighed,63,1912,
+Blomstervænget 10 9750 Østervrå,10,1725000.0,05-02-2017,Alm.,7949,7,Villa,217,1980,0 %
+Nellikevej 20 9750 Østervrå,20,1225000.0,05-02-2017,Alm.,9423,4,Villa,130,1973,
+Bakkevænget 21 9750 Østervrå,21,2000000.0,01-02-2017,Alm.,10256,5,Villa,195,2015,-11 %
+Fasanvej 8 9750 Østervrå,8,730000.0,28-01-2017,Alm.,2862,6,Villa,255,1971,-3 %
+Hjørringvej 232 9750 Østervrå,232,150000.0,27-01-2017,Alm.,1034,6,Villa,145,1929,
+Møllegade 10A 9750 Østervrå,0,400000.0,25-01-2017,Alm.,4000,5,Villa,100,1960,
+Lendumvej 27 9750 Østervrå,27,555000.0,10-01-2017,Alm.,5336,3,Villa,104,1929,-7 %
+Rubinvej 3 9750 Østervrå,3,275000.0,04-01-2017,Alm.,1950,4,Villa,141,1977,
+Tryvej 177 9750 Østervrå,177,1400000.0,23-12-2016,Alm.,6666,7,Villa,210,1926,-12 %
+Højlundsvej 10 9750 Østervrå,10,705000.0,14-12-2016,Alm.,4930,5,Villa,143,1985,-24 %
+Nymøllevej 4 9750 Østervrå,4,1310000.0,08-12-2016,Alm.,8343,5,Villa,157,1877,-18 %
+Tryvej 2 9750 Østervrå,2,130000.0,01-12-2016,Alm.,1238,3,Villa,105,1942,-21 %
+Brøndenvej 78 9750 Østervrå,78,1135000.0,28-11-2016,Alm.,8533,4,Stuehus,133,1940,-9 %
+Ålborggårdvej 44 9750 Østervrå,44,275000.0,25-11-2016,Alm.,2007,6,Villa,137,1877,-31 %
+Nellikevej 14 9750 Østervrå,14,150000.0,22-11-2016,Alm.,1785,3,Villa,84,1827,
+Blomstervænget 7 9750 Østervrå,7,785000.0,21-11-2016,Alm.,7136,4,Villa,110,1981,0 %
+Primulavej 1B 9750 Østervrå,0,855000.0,18-11-2016,Alm.,5700,6,Villa,150,1927,-11 %
+"Liljevej 8B, ST. TH 9750 Østervrå",0,52001.0,14-11-2016,Auktion,787,2,Lejlighed,66,1912,
+Vrængmosevej 69 9750 Østervrå,69,225000.0,09-11-2016,Alm.,2008,3,Stuehus,112,1927,0 %
+Fældenvej 10 9750 Østervrå,10,1465000.0,08-11-2016,Alm.,13080,3,Stuehus,112,1877,
+Høngårdsvej 18 9750 Østervrå,18,167000.0,07-11-2016,Auktion,1546,4,Villa,108,1924,
+"Liljevej 8B, KL. 1 9750 Østervrå",1,120000.0,07-11-2016,Auktion,1538,3,Lejlighed,78,1912,
+"Liljevej 8A, 1 9750 Østervrå",1,42000.0,07-11-2016,Auktion,700,2,Lejlighed,60,1912,
+Liljevej 9 9750 Østervrå,9,205000.0,07-11-2016,Auktion,1576,5,Villa,130,1913,
+Vrængmosevej 15 9750 Østervrå,15,85000.0,07-11-2016,Auktion,620,5,Villa,137,1926,
+Sølvvej 2 9750 Østervrå,2,400000.0,04-11-2016,Alm.,3773,3,Villa,106,1969,-20 %
+Nellikevej 5 9750 Østervrå,5,240951.0,02-11-2016,Alm.,2294,4,Villa,105,1935,
+Primulavej 5 9750 Østervrå,5,1060000.0,27-10-2016,Alm.,7066,6,Villa,150,1927,-3 %
+Hjørringvej 495 9750 Østervrå,495,80000.0,18-10-2016,Alm.,800,3,Villa,100,1952,
+Stasigvej 10 9750 Østervrå,10,1235000.0,28-09-2016,Alm.,12350,4,Stuehus,100,1877,
+Kirkholtvej 10 9750 Østervrå,10,705354.0,20-09-2016,Fam.,3792,7,Stuehus,186,1936,-54 %
+Højstrupvej 31 9750 Østervrå,31,360000.0,13-09-2016,Alm.,2727,5,Villa,132,1906,0 %
+Tryvej 32 9750 Østervrå,32,525000.0,07-09-2016,Auktion,4007,4,Villa,131,1986,-19 %
+Brøndenvej 92B 9750 Østervrå,0,70312.0,06-09-2016,Alm.,2130,2,Sommerhus,33,1962,
+Mimosevej 12 9750 Østervrå,12,400000.0,01-09-2016,Alm.,4166,3,Villa,96,1961,-24 %
+Tryvej 45 9750 Østervrå,45,1084000.0,22-08-2016,Alm.,9426,4,Stuehus,115,1920,
+Bakkevænget 8 9750 Østervrå,8,1860000.0,19-08-2016,Alm.,11698,5,Villa,159,2007,
+Søholtvej 59 9750 Østervrå,59,1495000.0,04-08-2016,Alm.,6028,7,Stuehus,248,1937,0 %
+Mimosevej 1 9750 Østervrå,1,188500.0,11-07-2016,Auktion,1923,4,Villa,98,1954,
+Toftensvej 20 9750 Østervrå,20,1200000.0,24-06-2016,Alm.,6779,4,Stuehus,177,1880,
+Strømgade 2B 9750 Østervrå,0,373000.0,24-06-2016,Alm.,4662,3,Rækkehus,80,1988,
+Hjørringvej 220 9750 Østervrå,220,295000.0,23-06-2016,Alm.,2201,4,Stuehus,134,1951,-80 %
+Blomstervænget 60 9750 Østervrå,60,1062500.0,22-06-2016,Alm.,8780,5,Villa,121,1988,-11 %
+Hjørringvej 208 9750 Østervrå,208,190000.0,08-06-2016,Alm.,1583,3,Villa,120,1958,-5 %
+Kobberholmvej 21 9750 Østervrå,21,1160000.0,08-06-2016,Alm.,8854,3,Stuehus,131,1900,-14 %
+Hjørringvej 421E 9750 Østervrå,0,384000.0,06-06-2016,Auktion,3072,3,Villa,125,1950,
+Kobberholmvej 25 9750 Østervrå,25,421000.0,24-05-2016,Alm.,2461,3,Stuehus,171,1939,-62 %
+Hjørringvej 404 9750 Østervrå,404,668000.0,22-05-2016,Alm.,5613,4,Villa,119,1960,-4 %
+Danebovej 5 9750 Østervrå,5,780000.0,17-05-2016,Alm.,4382,6,Villa,178,1965,-2 %
+"Hjørringvej 245A, ST. MF 9750 Østervrå",0,500000.0,13-05-2016,Alm.,7462,2,Lejlighed,67,1890,
+Strømgade 4 9750 Østervrå,4,647001.0,04-05-2016,Alm.,6161,5,Villa,105,1956,
+Donskovvej 6 9750 Østervrå,6,80000.0,02-05-2016,Alm.,320,5,Stuehus,250,1950,
+Lendumvej 23A 9750 Østervrå,0,500000.0,28-04-2016,Alm.,4854,3,Rækkehus,103,1964,
+Blomstervænget 44 9750 Østervrå,44,1375000.0,23-04-2016,Alm.,7681,7,Villa,179,1995,-2 %
+Vangvej 22 9750 Østervrå,22,1047000.0,29-03-2016,Alm.,5341,6,Stuehus,196,1955,-5 %
+Blomstervænget 66 9750 Østervrå,66,1298000.0,22-03-2016,Alm.,10220,5,Villa,127,1987,
+Brøndenvej 11 9750 Østervrå,11,1130000.0,21-03-2016,Alm.,4448,7,Villa,254,1961,-13 %
+Højlundsvej 13 9750 Østervrå,13,459952.0,21-03-2016,Fam.,1940,5,Villa,237,1973,
+Hjørringvej 480 9750 Østervrå,480,1000000.0,18-03-2016,Alm.,3759,8,Villa,266,1900,-9 %
+Højstrupvej 60 9750 Østervrå,60,200000.0,15-03-2016,Alm.,1298,6,Stuehus,154,1917,
+Bakkevænget 27 9750 Østervrå,27,180000.0,07-02-2016,Alm.,1011,5,Villa,178,2016,
+Højstrupvej 38 9750 Østervrå,38,390000.0,23-01-2016,Alm.,4382,3,Villa,89,1919,-10 %
+Vibevej 7 9750 Østervrå,7,823784.0,01-12-2015,Andet,7163,4,Villa,115,1971,
+Højstrupvej 55 9750 Østervrå,55,400000.0,30-11-2015,Alm.,3738,3,Villa,107,1875,-6 %
+Primulavej 2 9750 Østervrå,2,1095000.0,23-11-2015,Alm.,8975,5,Villa,122,1938,
+Bakkevænget 4 9750 Østervrå,4,1298000.0,16-11-2015,Alm.,12601,4,Villa,103,2000,
+Lendumvej 3 9750 Østervrå,3,320000.0,29-10-2015,Alm.,2352,4,Villa,136,1961,
+Skarpholtvej 20 9750 Østervrå,20,2200000.0,29-10-2015,Alm.,12359,5,Stuehus,178,1984,
+Højlundsvej 55 9750 Østervrå,55,838000.0,27-10-2015,Alm.,4929,6,Villa,170,1975,-7 %
+Rosenvangsvej 5 9750 Østervrå,5,1798000.0,27-10-2015,Alm.,7523,6,Villa,239,1930,0 %
+Mimosevej 13 9750 Østervrå,13,265000.0,19-10-2015,Alm.,2789,4,Villa,95,1956,-11 %
+Ormholtvej 22 9750 Østervrå,22,305000.0,15-09-2015,Alm.,3546,3,Villa,86,1932,-6 %
+Enghavevej 1 9750 Østervrå,1,411030.0,17-08-2015,Andet,3914,5,Villa,105,1923,
+Blomstervænget 54 9750 Østervrå,54,800000.0,07-08-2015,Fam.,5797,5,Villa,138,1986,
+Strømgade 21 9750 Østervrå,21,770000.0,05-08-2015,Alm.,4695,5,Villa,164,1959,-4 %
+Hjørringvej 409 9750 Østervrå,409,130000.0,03-08-2015,Alm.,783,5,Villa,166,1917,-45 %
+Vangvej 14 9750 Østervrå,14,1750000.0,10-07-2015,Alm.,8974,7,Stuehus,195,1993,-8 %
+Tryvej 58 9750 Østervrå,58,75000.0,06-07-2015,Alm.,852,3,Villa,88,1937,
+Hjørringvej 230 9750 Østervrå,230,360000.0,02-07-2015,Alm.,2627,4,Villa,137,1925,-9 %
+Lendumvej 95 9750 Østervrå,95,699224.0,09-06-2015,Alm.,3410,7,Villa,205,1973,
+Bakkevænget 25 9750 Østervrå,25,180000.0,26-05-2015,Alm.,1077,5,Villa,167,2016,
+Ålborggårdvej 15 9750 Østervrå,15,800000.0,19-05-2015,Fam.,6153,4,Villa,130,1897,
+Bjergetsvej 5 9750 Østervrå,5,1368000.0,18-05-2015,Alm.,7772,6,Stuehus,176,1880,0 %
+Lendumvej 19 9750 Østervrå,19,180000.0,26-04-2015,Alm.,1406,4,Villa,128,1963,-64 %
+Brøndenvej 2 9750 Østervrå,2,475000.0,20-03-2015,Alm.,5792,3,Rækkehus,82,1988,-4 %
+Vibevej 6 9750 Østervrå,6,825000.0,04-03-2015,Alm.,4661,6,Villa,177,1975,
+Høngårdsvej 21 9750 Østervrå,21,530000.0,02-03-2015,Andet,6235,3,Villa,85,1953,
+Platinvej 8 9750 Østervrå,8,370000.0,20-01-2015,Alm.,3217,4,Villa,115,1980,-7 %
+Bredgade 23 9750 Østervrå,23,705000.0,04-12-2014,Fam.,4862,4,Villa,145,1972,
+Langmosevej 15 9750 Østervrå,15,1900000.0,02-12-2014,Alm.,7786,4,Villa,244,1969,-5 %
+Tranevej 5 9750 Østervrå,5,950000.0,29-11-2014,Alm.,6690,4,Villa,142,1973,-5 %
+Møllegade 40 9750 Østervrå,40,73000.0,12-11-2014,Auktion,802,4,Villa,91,1950,
+Hjørringvej 259 9750 Østervrå,259,748000.0,22-10-2014,Alm.,5381,3,Villa,139,1924,0 %
+Koldbromøllevej 27 9750 Østervrå,27,13631325.0,10-10-2014,Alm.,85195,5,Stuehus,160,1920,
+Møllegårdsvej 2 9750 Østervrå,2,1875000.0,10-10-2014,Alm.,11718,6,Stuehus,160,1960,
+Hjørringvej 302 9750 Østervrå,302,150000.0,10-10-2014,Alm.,937,4,Villa,160,1939,-16 %
+Stadionvej 11 9750 Østervrå,11,650000.0,06-10-2014,Alm.,2789,4,Villa,233,1913,
+Tryvej 94 9750 Østervrå,94,350000.0,05-10-2014,Alm.,3333,3,Villa,105,1934,-7 %
+Primulavej 23 9750 Østervrå,23,695000.0,05-10-2014,Alm.,8687,3,Villa,80,1922,0 %
+Hjørringvej 449 9750 Østervrå,449,610000.0,02-10-2014,Alm.,3050,8,Villa,200,1937,-6 %
+Hjørringvej 508 9750 Østervrå,508,1317500.0,02-10-2014,Fam.,11260,4,Stuehus,117,1926,
+Begonievej 6 9750 Østervrå,6,75000.0,19-09-2014,Alm.,833,5,Villa,90,1945,
+Koldbromøllevej 34 9750 Østervrå,34,5600000.0,15-09-2014,Auktion,26415,7,Stuehus,212,2000,
+Højstrupvej 46 9750 Østervrå,46,1200000.0,15-09-2014,Alm.,5150,7,Stuehus,233,1850,-4 %
+Bredgade 29 9750 Østervrå,29,670000.0,13-09-2014,Alm.,5583,4,Villa,120,1973,-14 %
+Møllegade 19 9750 Østervrå,19,30001.0,10-09-2014,Auktion,333,4,Villa,90,1952,
+Højlundsvej 79 9750 Østervrå,79,1050000.0,06-09-2014,Alm.,6034,4,Villa,174,1974,-12 %
+Højstrupvej 16 9750 Østervrå,16,936081.0,25-08-2014,Andet,4800,5,Stuehus,195,1936,-57 %
+Tranevej 8 9750 Østervrå,8,728000.0,18-07-2014,Fam.,3294,6,Villa,221,1973,
+Tryvej 76 9750 Østervrå,76,500000.0,14-07-2014,Alm.,2976,3,Sommerhus,168,1905,-16 %
+Brøndenvej 94 9750 Østervrå,94,3950000.0,14-07-2014,Andet,27241,5,Sommerhus,145,1959,
+Hjørringvej 315 9750 Østervrå,315,250000.0,11-07-2014,Alm.,1562,4,Villa,160,1940,-50 %
+Højlundsvej 88 9750 Østervrå,88,710000.0,12-06-2014,Alm.,5819,4,Villa,122,1983,-11 %
+Tryvej 115 9750 Østervrå,115,464500.0,19-05-2014,Andet,3096,5,Villa,150,1877,
+Nejsumvej 4 9750 Østervrå,4,13950000.0,09-05-2014,Alm.,35406,7,Stuehus,394,2015,
+Blomstervænget 29 9750 Østervrå,29,1400000.0,24-04-2014,Alm.,8383,5,Villa,167,1997,-11 %
+Strømgade 3 9750 Østervrå,3,320000.0,13-04-2014,Alm.,3368,3,Villa,95,1953,-20 %
+Lendumvej 91 9750 Østervrå,91,100000.0,09-04-2014,Auktion,781,3,Villa,128,1906,
+Høngårdsvej 26 9750 Østervrå,26,140000.0,31-03-2014,Auktion,1250,3,Villa,112,1948,
+Møllegade 17 9750 Østervrå,17,220000.0,25-03-2014,Alm.,1476,4,Villa,149,1922,-26 %
+Tryvej 153 9750 Østervrå,153,540000.0,12-03-2014,Auktion,1671,6,Villa,323,1957,
+Primulavej 12 9750 Østervrå,12,930000.0,16-02-2014,Alm.,4920,6,Villa,189,1922,-7 %
+Hjørringvej 214 9750 Østervrå,214,275000.0,21-01-2014,Alm.,3235,4,Villa,85,1949,-8 %
+Kirkholtvej 5 9750 Østervrå,5,4870000.0,13-01-2014,Fam.,17581,7,Stuehus,277,1931,
+Hjørringvej 464 9750 Østervrå,464,45100.0,06-01-2014,Auktion,250,7,Villa,180,1897,
+Tranevej 10 9750 Østervrå,10,639352.0,05-12-2013,Alm.,2791,8,Villa,229,1974,
+Strømgade 2 9750 Østervrå,2,170000.0,22-11-2013,Alm.,1603,4,Villa,106,1952,-14 %
+Brøndenvej 79 9750 Østervrå,79,450000.0,11-11-2013,Alm.,5844,3,Sommerhus,77,1932,
+Floravej 2 9750 Østervrå,2,950000.0,31-10-2013,Alm.,9500,4,Villa,100,1961,
+Vrængmosevej 64 9750 Østervrå,64,1425000.0,31-10-2013,Alm.,7916,6,Villa,180,1941,
+Gjersholtvej 15 9750 Østervrå,15,290000.0,21-10-2013,Alm.,1666,4,Villa,174,1983,
+Enghøjvej 12 9750 Østervrå,12,1390000.0,14-10-2013,Alm.,7942,6,Stuehus,175,1800,
+Blomstervænget 34 9750 Østervrå,34,1500000.0,16-09-2013,Alm.,8771,5,Villa,171,2008,-3 %
+Hjørringvej 476 9750 Østervrå,476,15584200.0,13-09-2013,Alm.,73510,5,Stuehus,212,1916,
+Blomstervænget 13 9750 Østervrå,13,890000.0,12-09-2013,Alm.,6953,4,Villa,128,1982,-1 %
+Perlevej 2 9750 Østervrå,2,254500.0,12-08-2013,Alm.,2313,4,Villa,110,1979,
+Møllegade 22 9750 Østervrå,22,700000.0,04-07-2013,Alm.,6796,3,Villa,103,1941,-3 %
+Hjørringvej 513 9750 Østervrå,513,900000.0,04-07-2013,Alm.,5000,6,Stuehus,180,1907,-9 %
+Ålborggårdvej 20 9750 Østervrå,20,450000.0,14-06-2013,Alm.,2500,4,Villa,180,2014,
+Tranevej 9 9750 Østervrå,9,910000.0,16-05-2013,Alm.,4866,3,Villa,187,1972,-17 %
+Tranevej 6 9750 Østervrå,6,500000.0,18-04-2013,Alm.,5494,4,Villa,91,1972,
+Fasanvej 5 9750 Østervrå,5,425000.0,05-04-2013,Fam.,2689,5,Villa,158,1972,
+Rævmosevej 119 9750 Østervrå,119,1475000.0,25-03-2013,Alm.,8625,4,Stuehus,171,1914,
+Høngårdsvej 22 9750 Østervrå,22,845000.0,18-03-2013,Alm.,6760,4,Villa,125,1955,0 %
+Tryvej 163 9750 Østervrå,163,215000.0,18-03-2013,Alm.,1791,5,Villa,120,1942,
+Højlundsvej 22 9750 Østervrå,22,595000.0,13-03-2013,Alm.,4958,3,Villa,120,1977,-8 %
+Ågårdsvej 4 9750 Østervrå,4,1300000.0,02-03-2013,Alm.,7065,5,Villa,184,1915,-11 %
+Brøndenvej 48 9750 Østervrå,48,1780000.0,03-02-2013,Alm.,6953,5,Stuehus,256,1927,
+Bredgade 11 9750 Østervrå,11,915000.0,24-01-2013,Alm.,7148,4,Villa,128,1969,
+Tryvej 148 9750 Østervrå,148,400000.0,21-12-2012,Alm.,3333,4,Villa,120,1963,-20 %
+Højlundsvej 90 9750 Østervrå,90,700000.0,12-12-2012,Alm.,5468,3,Villa,128,1981,-10 %
+Ålborggårdvej 13 9750 Østervrå,13,1295000.0,08-12-2012,Alm.,8691,5,Villa,149,1991,0 %
+Højlundsvej 5 9750 Østervrå,5,580000.0,04-12-2012,Auktion,3452,6,Villa,168,1974,
+Højlundsvej 40 9750 Østervrå,40,975000.0,23-11-2012,Alm.,4096,8,Villa,238,1977,-13 %
+Begonievej 11 9750 Østervrå,11,440000.0,22-11-2012,Alm.,3666,4,Villa,120,1963,-12 %
+Mellergårdsvej 5 9750 Østervrå,5,620000.0,12-11-2012,Alm.,3315,5,Villa,187,1951,-11 %
+Højlundsvej 17 9750 Østervrå,17,998000.0,06-11-2012,Alm.,5544,6,Villa,180,1975,
+Højlundsvej 51 9750 Østervrå,51,484000.0,22-10-2012,Andet,4067,5,Villa,119,1973,
+Vibevej 2 9750 Østervrå,2,1000000.0,10-10-2012,Alm.,5988,5,Villa,167,1973,-21 %
+Nellikevej 9 9750 Østervrå,9,625000.0,21-09-2012,Alm.,4464,4,Villa,140,1922,0 %
+Højlundsvej 26 9750 Østervrå,26,511263.0,11-09-2012,Alm.,2061,7,Villa,248,1977,
+Hjørringvej 541 9750 Østervrå,541,610000.0,06-09-2012,Alm.,4841,4,Stuehus,126,1900,
+Hjørringvej 452 9750 Østervrå,452,150000.0,29-08-2012,Alm.,1111,3,Villa,135,2012,
+Hjørringvej 410 9750 Østervrå,410,375000.0,25-08-2012,Alm.,3318,5,Villa,113,1917,
+Møllegade 11 9750 Østervrå,11,338891.0,22-08-2012,Alm.,2606,3,Villa,130,1930,-55 %
+Hyllestedvej 9 9750 Østervrå,9,75000.0,17-08-2012,Alm.,750,3,Villa,100,1948,
+Hjørringvej 496 9750 Østervrå,496,7019880.0,19-07-2012,Alm.,37539,5,Stuehus,187,1915,
+Brønderslevvej 249 9750 Østervrå,249,732934.0,09-07-2012,Alm.,5552,4,Stuehus,132,1976,
+Koldbromøllevej 25 9750 Østervrå,25,698000.0,01-07-2012,Alm.,4985,4,Stuehus,140,1852,0 %
+Hjørringvej 206 9750 Østervrå,206,350000.0,27-06-2012,Alm.,3804,3,Villa,92,1960,
+Højlundsvej 65 9750 Østervrå,65,545000.0,21-06-2012,Alm.,5291,4,Villa,103,1974,-8 %
+Møllegade 10 9750 Østervrå,10,304212.0,19-06-2012,Alm.,2304,5,Villa,132,1948,
+Hjørringvej 311 9750 Østervrå,311,625000.0,17-06-2012,Alm.,4562,5,Villa,137,1867,-10 %
+Høngårdsvej 13 9750 Østervrå,13,1000000.0,15-06-2012,Alm.,5988,5,Villa,167,1991,
+Hjørringvej 181 9750 Østervrå,181,150000.0,06-06-2012,Auktion,612,9,Stuehus,245,1870,
+Kobberholmvej 11 9750 Østervrå,11,1398000.0,24-05-2012,Alm.,7681,6,Stuehus,182,1997,
+Vrængmosevej 77 9750 Østervrå,77,705000.0,14-05-2012,Alm.,7050,3,Stuehus,100,1965,
+Kobberholmvej 12 9750 Østervrå,12,700000.0,02-04-2012,Alm.,5511,4,Stuehus,127,1917,
+Primulavej 20 9750 Østervrå,20,560000.0,28-03-2012,Alm.,0,7,Villa,170,1965,
+Hjortholmvej 6 9750 Østervrå,6,2260800.0,23-02-2012,Alm.,9420,9,Stuehus,240,1913,
+Vibevej 1 9750 Østervrå,1,532500.0,16-02-2012,Fam.,2285,6,Villa,233,1973,-51 %
+Kirkevej 39 9750 Østervrå,39,41369594.0,16-01-2012,Fam.,459662,2,Stuehus,90,1892,
+Bjergetsvej 11 9750 Østervrå,11,41369594.0,16-01-2012,Fam.,183864,7,Stuehus,225,1885,
+Hjørringvej 295 9750 Østervrå,295,180000.0,06-01-2012,Alm.,1440,4,Villa,125,1910,-33 %
+Søholtvej 22 9750 Østervrå,22,2050000.0,13-12-2011,Alm.,10621,6,Stuehus,193,1931,-11 %
+Blomstervænget 64 9750 Østervrå,64,850000.0,02-12-2011,Alm.,6640,4,Villa,128,1988,
+Floravej 1 9750 Østervrå,1,412500.0,02-12-2011,Alm.,3750,4,Villa,110,1962,
+Kobberholmvej 23 9750 Østervrå,23,750000.0,01-12-2011,Alm.,5067,4,Villa,148,1920,-12 %
+Mimosevej 15 9750 Østervrå,15,316100.0,01-12-2011,Fam.,3675,4,Villa,86,1956,
+Hjørringvej 203 9750 Østervrå,203,600000.0,28-11-2011,Alm.,7894,3,Villa,76,1947,-7 %
+Søholtvej 20 9750 Østervrå,20,414000.0,07-10-2011,Alm.,2365,5,Villa,175,1935,-12 %
+Skarpholtvej 24 9750 Østervrå,24,275000.0,04-10-2011,Alm.,1447,6,Stuehus,190,1923,-38 %
+Brøndenvej 10 9750 Østervrå,10,940000.0,01-09-2011,Alm.,5696,4,Villa,165,1974,-3 %
+Hjørringvej 235 9750 Østervrå,235,220000.0,15-08-2011,Alm.,2444,5,Villa,90,1959,-31 %
+Grønskovvej 10 9750 Østervrå,10,802000.0,29-07-2011,Alm.,4030,5,Villa,199,1930,-43 %
+Bredgade 13 9750 Østervrå,13,1015000.0,13-07-2011,Alm.,4432,7,Villa,229,1967,-3 %
+Hjørringvej 291 9750 Østervrå,291,230587.0,04-07-2011,Fam.,1281,3,Stuehus,180,1920,-73 %
+Erantisvej 7 9750 Østervrå,7,352000.0,29-06-2011,Alm.,2588,5,Villa,136,1919,-33 %
+Brønderslevvej 234 9750 Østervrå,234,628000.0,13-05-2011,Alm.,4391,7,Stuehus,143,1780,-10 %
+Tryvej 63 9750 Østervrå,63,1200000.0,05-05-2011,Alm.,6741,5,Stuehus,178,1965,-9 %
+Lendumvej 1 9750 Østervrå,1,250000.0,02-05-2011,Alm.,2100,4,Villa,119,1935,-16 %
+Ågårdsvej 18 9750 Østervrå,18,1100000.0,12-04-2011,Alm.,9565,5,Stuehus,115,1920,-8 %
+Søholtvej 41 9750 Østervrå,41,345000.0,11-04-2011,Alm.,2555,5,Villa,135,1956,-5 %
+Hjørringvej 463 9750 Østervrå,463,341447.0,04-04-2011,Andet,0,8,Villa,178,1942,
+Vrængmosevej 48 9750 Østervrå,48,1120000.0,14-03-2011,Alm.,8818,4,Stuehus,127,1937,-10 %
+Tryvej 44 9750 Østervrå,44,356500.0,11-03-2011,Fam.,1681,8,Stuehus,212,1900,
+Brøndenvej 41B 9750 Østervrå,0,875000.0,11-03-2011,Alm.,2410,7,Villa,363,1999,
+Floravej 3 9750 Østervrå,3,750000.0,05-03-2011,Alm.,6250,3,Villa,120,1962,-6 %
+Lendumvej 74 9750 Østervrå,74,730000.0,24-02-2011,Alm.,5328,4,Villa,137,1993,
+Donskovvej 30 9750 Østervrå,30,525000.0,23-02-2011,Alm.,5585,3,Stuehus,94,1922,
+Hjørringvej 260 9750 Østervrå,260,75000.0,22-02-2011,Auktion,572,5,Villa,131,1900,
+Højlundsvej 94 9750 Østervrå,94,750000.0,10-02-2011,Alm.,6756,4,Villa,111,1982,-6 %
+Rolighedsvej 3 9750 Østervrå,3,335000.0,27-01-2011,Alm.,3190,4,Villa,105,1950,
+Tryvej 150 9750 Østervrå,150,325000.0,12-01-2011,Alm.,1633,6,Villa,199,1957,-18 %
+Nygade 5 9750 Østervrå,5,886928.0,11-01-2011,Andet,8062,3,Villa,110,1945,
+Tryvej 4 9750 Østervrå,4,260000.0,07-01-2011,Alm.,2385,4,Villa,109,1962,-16 %
+Brøndenvej 6 9750 Østervrå,6,475000.0,07-01-2011,Alm.,5722,3,Rækkehus,83,1981,
+Møllegade 26 9750 Østervrå,26,170000.0,14-12-2010,Auktion,1717,3,Villa,99,1911,
+"Hjørringvej 245A, ST. TV 9750 Østervrå",0,63000.0,13-12-2010,Alm.,887,2,Lejlighed,71,1890,
+"Hjørringvej 245A, ST. TH 9750 Østervrå",0,63000.0,13-12-2010,Alm.,724,2,Lejlighed,87,1890,
+"Hjørringvej 245A, 1. MF 9750 Østervrå",0,65000.0,13-12-2010,Alm.,1101,2,Lejlighed,59,1890,
+"Hjørringvej 245A, 1. TH 9750 Østervrå",0,65000.0,13-12-2010,Alm.,1354,2,Lejlighed,48,1890,
+"Hjørringvej 245A, 1. TV 9750 Østervrå",0,65000.0,13-12-2010,Alm.,1226,2,Lejlighed,53,1890,
+Hjørringvej 407 9750 Østervrå,407,412500.0,02-11-2010,Fam.,3784,5,Villa,109,1996,
+Erantisvej 5 9750 Østervrå,5,1000000.0,20-10-2010,Alm.,7407,4,Villa,135,1917,-13 %
+Skovendevej 9 9750 Østervrå,9,375000.0,17-10-2010,Alm.,4687,3,Stuehus,80,1907,-21 %
+Blomstervænget 62 9750 Østervrå,62,225000.0,17-10-2010,Alm.,1433,5,Villa,157,2011,
+Nymøllevej 17 9750 Østervrå,17,3293000.0,14-10-2010,Alm.,26134,4,Stuehus,126,1925,-6 %
+Strømgade 17 9750 Østervrå,17,650000.0,02-10-2010,Alm.,4220,4,Villa,154,1960,-5 %
+Kobberholmvej 7 9750 Østervrå,7,150000.0,07-09-2010,Alm.,1181,3,Villa,127,1933,-40 %
+Højstrupvej 30 9750 Østervrå,30,100000.0,06-09-2010,Fam.,1190,2,Villa,84,1900,
+Strømgade 16 9750 Østervrå,16,595000.0,06-09-2010,Alm.,4722,4,Villa,126,1963,-8 %
+Blomstervænget 8 9750 Østervrå,8,687236.0,03-09-2010,Alm.,4268,5,Villa,161,2002,
+Mimosevej 19 9750 Østervrå,19,350000.0,02-09-2010,Alm.,3181,3,Villa,110,1962,
+Hjørringvej 195 9750 Østervrå,195,370500.0,26-08-2010,Alm.,1843,7,Villa,201,1917,
+Vibevej 10 9750 Østervrå,10,446961.0,25-08-2010,Alm.,2539,5,Villa,176,1973,
+Nørre Alle 4 9750 Østervrå,4,635000.0,23-08-2010,Alm.,5336,4,Villa,119,1962,-9 %
+Blomstervænget 19 9750 Østervrå,19,1000000.0,03-08-2010,Alm.,8064,5,Villa,124,1985,
+Sølvvej 3 9750 Østervrå,3,498000.0,22-07-2010,Alm.,4150,4,Villa,120,1973,
+Hjørringvej 253 9750 Østervrå,253,145000.0,16-06-2010,Alm.,847,6,Villa,171,1930,-36 %
+Dalbovej 5 9750 Østervrå,5,1298000.0,08-06-2010,Alm.,6151,6,Villa,211,1905,0 %
+Hjørringvej 258 9750 Østervrå,258,200000.0,21-05-2010,Alm.,1869,3,Villa,107,1914,
+Lendumvej 105 9750 Østervrå,105,675000.0,12-05-2010,Alm.,2509,9,Stuehus,269,1877,-10 %
+Tryvej 138 9750 Østervrå,138,160000.0,05-05-2010,Alm.,1702,2,Villa,94,1938,
+Højstrupvej 34 9750 Østervrå,34,150000.0,22-04-2010,Alm.,789,8,Stuehus,190,1928,
+Hjørringvej 256 9750 Østervrå,256,175000.0,20-04-2010,Alm.,1325,4,Villa,132,1906,
+Vibevej 5 9750 Østervrå,5,865000.0,18-04-2010,Alm.,3914,5,Villa,221,1974,-3 %
+Søndergårdsvej 2 9750 Østervrå,2,412500.0,08-02-2010,Alm.,3525,4,Villa,117,1969,
+Nejsumvej 8 9750 Østervrå,8,750000.0,21-01-2010,Alm.,4120,4,Villa,182,2011,
+Lendumvej 53 9750 Østervrå,53,700000.0,08-01-2010,Fam.,3553,5,Villa,197,1910,
+Hjørringvej 185 9750 Østervrå,185,250000.0,05-01-2010,Auktion,1213,4,Stuehus,206,1870,
+Møllegade 30 9750 Østervrå,30,140000.0,16-12-2009,Alm.,1206,4,Villa,116,1936,-59 %
+Brøndenvej 4 9750 Østervrå,4,570000.0,16-12-2009,Alm.,6951,3,Rækkehus,82,1988,
+Kirkevej 32 9750 Østervrå,32,870000.0,12-12-2009,Alm.,4578,9,Stuehus,190,1890,-3 %
+Højlundsvej 81 9750 Østervrå,81,935000.0,02-12-2009,Alm.,0,7,Villa,184,1975,-11 %
+Hjørringvej 456 9750 Østervrå,456,340000.0,19-11-2009,Alm.,3063,3,Villa,111,1917,-7 %
+Bakkevænget 15 9750 Østervrå,15,2088000.0,11-11-2009,Alm.,12000,5,Villa,174,2007,0 %
+Toftensvej 14 9750 Østervrå,14,60000.0,29-10-2009,Alm.,504,3,Villa,119,1880,
+Nellikevej 16 9750 Østervrå,16,400000.0,16-10-2009,Alm.,3149,4,Villa,127,1969,-13 %
+Bjergetsvej 26 9750 Østervrå,26,150000.0,12-10-2009,Alm.,1388,3,Villa,108,1927,
+Ormholtvej 5 9750 Østervrå,5,1925000.0,05-10-2009,Alm.,10461,5,Stuehus,184,1897,-4 %
+Søholtvej 6 9750 Østervrå,6,2400000.0,10-09-2009,Alm.,9302,5,Stuehus,258,1913,
+Hjørringvej 468 9750 Østervrå,468,185000.0,12-08-2009,Alm.,1681,4,Villa,110,1897,-33 %
+Langmosevej 8 9750 Østervrå,8,178500.0,03-08-2009,Fam.,815,8,Stuehus,219,2017,
+Enghavevej 2 9750 Østervrå,2,605000.0,25-07-2009,Alm.,4290,4,Villa,141,1950,-4 %
+Mølbakvej 12 9750 Østervrå,12,1985000.0,03-07-2009,Fam.,7089,8,Stuehus,280,1930,
+Dalbovej 9 9750 Østervrå,9,1565000.0,03-07-2009,Alm.,8598,5,Villa,182,2009,
+Brøndenvej 45 9750 Østervrå,45,1030550.0,12-06-2009,Alm.,3435,8,Stuehus,300,1923,
+Bredgade 21B 9750 Østervrå,0,595000.0,28-05-2009,Alm.,8263,3,Rækkehus,72,1986,
+Blomstervænget 3 9750 Østervrå,3,860000.0,25-05-2009,Alm.,6142,5,Villa,140,1983,-1 %
+Højlundsvej 16 9750 Østervrå,16,1150000.0,20-04-2009,Alm.,8273,5,Villa,139,1984,
+Gjersholtvej 9 9750 Østervrå,9,23000000.0,08-03-2009,Andet,63013,8,Stuehus,365,1864,
+Blomstervænget 28 9750 Østervrå,28,500000.0,02-03-2009,Fam.,3597,4,Villa,139,1986,
+Primulavej 15 9750 Østervrå,15,625000.0,01-03-2009,Alm.,4629,6,Villa,135,1949,-3 %
+Primulavej 19 9750 Østervrå,19,960000.0,20-02-2009,Alm.,9600,3,Villa,100,1920,-4 %
+Tryvej 28 9750 Østervrå,28,496436.0,09-02-2009,Alm.,3571,4,Stuehus,139,1900,
+Bredgade 21C 9750 Østervrå,0,600000.0,06-02-2009,Alm.,8333,3,Rækkehus,72,1986,-4 %
+Højlundsvej 18 9750 Østervrå,18,1325000.0,08-01-2009,Alm.,5735,6,Villa,231,1977,-2 %
+Nymøllevej 27 9750 Østervrå,27,950000.0,07-01-2009,Alm.,9693,4,Villa,98,1941,-17 %
+Primulavej 27 9750 Østervrå,27,725000.0,29-12-2008,Alm.,5664,4,Villa,128,1923,0 %
+Hjørringvej 474 9750 Østervrå,474,1635000.0,03-12-2008,Alm.,10480,5,Villa,156,2000,-9 %
+Søholtvej 43 9750 Østervrå,43,410000.0,27-11-2008,Alm.,3904,3,Villa,105,1947,
+Søholtvej 35 9750 Østervrå,35,590000.0,20-11-2008,Alm.,3314,4,Villa,178,1910,-1 %
+Floravej 7 9750 Østervrå,7,668000.0,31-10-2008,Alm.,6423,4,Villa,104,1963,
+Hjørringvej 257 9750 Østervrå,257,351222.0,25-10-2008,Alm.,3054,5,Villa,115,1914,
+Skarpholtvej 12 9750 Østervrå,12,3700000.0,21-10-2008,Alm.,14682,8,Stuehus,252,1980,-3 %
+Platinvej 6 9750 Østervrå,6,732000.0,10-09-2008,Alm.,6777,4,Villa,108,1984,
+Toftensvej 10 9750 Østervrå,10,300000.0,25-08-2008,Auktion,2970,3,Villa,101,1897,
+Møllegade 6 9750 Østervrå,6,304669.0,07-08-2008,Andet,3423,5,Villa,89,1929,
+Blomstervænget 30 9750 Østervrå,30,1240000.0,07-08-2008,Alm.,9253,4,Villa,134,2001,-4 %
+Nødbakvej 9 9750 Østervrå,9,1000000.0,05-08-2008,Alm.,5649,7,Stuehus,177,1957,
+Primulavej 1A 9750 Østervrå,0,830000.0,10-07-2008,Alm.,7217,4,Villa,115,1984,-2 %
+Lendumvej 57 9750 Østervrå,57,1400000.0,07-07-2008,Alm.,5600,6,Villa,250,2006,
+Hjørringvej 470 9750 Østervrå,470,600000.0,27-06-2008,Alm.,3680,6,Villa,163,1935,-4 %
+Mellergårdsvej 6 9750 Østervrå,6,665000.0,26-06-2008,Alm.,6333,3,Villa,105,1952,0 %
+Vibevej 4 9750 Østervrå,4,1050000.0,20-06-2008,Alm.,6481,4,Villa,162,1973,-4 %
+Mimosevej 5 9750 Østervrå,5,725000.0,17-06-2008,Alm.,5034,3,Villa,144,1952,0 %
+Ålborggårdvej 54 9750 Østervrå,54,850000.0,04-06-2008,Fam.,5059,7,Stuehus,168,1964,
+Brønderslevvej 252 9750 Østervrå,252,1250000.0,03-06-2008,Alm.,6410,3,Villa,195,1984,-2 %
+Højlundsvej 24 9750 Østervrå,24,885000.0,27-05-2008,Alm.,6459,4,Villa,137,1976,
+Mellergårdsvej 1 9750 Østervrå,1,1100000.0,23-05-2008,Alm.,6358,6,Villa,173,1945,-10 %
+Tryvej 152 9750 Østervrå,152,1528000.0,16-05-2008,Alm.,7640,5,Stuehus,200,1902,0 %
+Koldbromøllevej 26 9750 Østervrå,26,350000.0,28-04-2008,Alm.,3763,4,Villa,93,1925,-18 %
+Sølvvej 5 9750 Østervrå,5,735000.0,16-04-2008,Alm.,4176,5,Villa,176,1974,
+Høngårdsvej 4 9750 Østervrå,4,209449.0,17-03-2008,Fam.,2137,3,Villa,98,1955,
+Safirvej 5 9750 Østervrå,5,695000.0,17-03-2008,Alm.,3736,7,Villa,186,1956,
+Højlundsvej 33 9750 Østervrå,33,975000.0,12-03-2008,Alm.,4493,7,Villa,217,1973,-2 %
+Hjørringvej 529 9750 Østervrå,529,4210104.0,11-03-2008,Alm.,25210,4,Stuehus,167,1922,
+Dalbækvej 5 9750 Østervrå,5,4020000.0,10-03-2008,Fam.,18108,6,Stuehus,222,1977,
+Hjørringvej 204 9750 Østervrå,204,285000.0,24-02-2008,Alm.,3701,3,Villa,77,1950,
+Mellergårdsvej 4 9750 Østervrå,4,485000.0,09-02-2008,Alm.,3592,5,Villa,135,1946,0 %
+Hjørringvej 223 9750 Østervrå,223,260000.0,08-02-2008,Alm.,2300,3,Villa,113,1959,-17 %
+Erantisvej 3 9750 Østervrå,3,505000.0,01-02-2008,Alm.,4508,4,Villa,112,1924,
+Gjersholtvej 19 9750 Østervrå,19,11330000.0,30-01-2008,Alm.,43576,9,Stuehus,260,1877,
+Rolighedsvej 1 9750 Østervrå,1,375000.0,28-01-2008,Alm.,2551,4,Villa,147,1945,
+Brøndenvej 102 9750 Østervrå,102,250750.0,23-12-2007,Fam.,3742,4,Sommerhus,67,1964,
+Brøndenvej 52 9750 Østervrå,52,2750000.0,20-12-2007,Fam.,9105,7,Stuehus,302,1999,
+Tryvej 140 9750 Østervrå,140,360000.0,20-12-2007,Alm.,2571,5,Villa,140,1967,-3 %
+Nørre Alle 1 9750 Østervrå,1,451082.0,20-12-2007,Alm.,2854,5,Villa,158,1963,
+Bakkevænget 11 9750 Østervrå,11,179170.0,18-12-2007,Fam.,1141,5,Villa,157,2008,
+Højlundsvej 31 9750 Østervrå,31,825000.0,13-12-2007,Alm.,6875,4,Villa,120,1973,
+Begonievej 5 9750 Østervrå,5,565000.0,13-12-2007,Alm.,4913,4,Villa,115,1908,-6 %
+Blomstervænget 2 9750 Østervrå,2,80000.0,10-12-2007,Alm.,375,5,Villa,213,2009,
+Oustrupmøllevej 151 9750 Østervrå,151,7900000.0,28-11-2007,Alm.,42702,8,Stuehus,185,1935,
+Hjørringvej 210 9750 Østervrå,210,415000.0,12-11-2007,Alm.,3915,3,Villa,106,1957,
+Møllegade 2 9750 Østervrå,2,1000000.0,12-11-2007,Alm.,6410,4,Villa,156,1927,
+Brøndenvej 20 9750 Østervrå,20,875000.0,01-11-2007,Alm.,6835,4,Villa,128,1965,
+Højstrupvej 51 9750 Østervrå,51,1245000.0,29-10-2007,Alm.,8892,5,Stuehus,140,1902,
+Perlevej 3 9750 Østervrå,3,720000.0,20-10-2007,Alm.,5714,5,Villa,126,1975,
+Hjørringvej 269 9750 Østervrå,269,400000.0,19-10-2007,Alm.,4444,3,Villa,90,1950,
+Rosenlundsvej 13 9750 Østervrå,13,645000.0,17-09-2007,Alm.,5375,4,Stuehus,120,1914,0 %
+Hjørringvej 252 9750 Østervrå,252,740000.0,31-08-2007,Alm.,6115,5,Villa,121,1900,
+Søholtvej 60 9750 Østervrå,60,1325000.0,30-08-2007,Alm.,4537,6,Villa,292,1910,
+Strømgade 12 9750 Østervrå,12,620000.0,18-08-2007,Alm.,7045,4,Villa,88,1954,
+Højstrupvej 20 9750 Østervrå,20,533650.0,14-08-2007,Alm.,0,8,Villa,209,1936,
+Primulavej 6 9750 Østervrå,6,640000.0,19-07-2007,Alm.,4324,7,Villa,148,1940,-1 %
+Tryvej 133 9750 Østervrå,133,250000.0,22-06-2007,Alm.,1666,5,Villa,150,1902,
+Hjørringvej 297 9750 Østervrå,297,331000.0,19-06-2007,Alm.,2451,4,Villa,135,1924,
+Højlundsvej 77 9750 Østervrå,77,765000.0,14-06-2007,Alm.,5387,4,Villa,142,1974,
+Floravej 10 9750 Østervrå,10,230000.0,29-05-2007,Alm.,2421,4,Villa,95,1964,
+Søndergårdsvej 19 9750 Østervrå,19,790000.0,25-05-2007,Alm.,4876,4,Villa,162,1971,
+Donskovvej 19 9750 Østervrå,19,2600000.0,19-05-2007,Alm.,13612,7,Stuehus,191,1915,
+Hjørringvej 266 9750 Østervrå,266,495000.0,18-05-2007,Alm.,3807,7,Industri o.l.,130,1910,
+Ålborggårdvej 27 9750 Østervrå,27,665000.0,24-04-2007,Alm.,4854,4,Stuehus,137,1927,
+Søndergårdsvej 1 9750 Østervrå,1,1667000.0,18-04-2007,Alm.,11113,4,Lejlighed,150,1972,
+Vrængmosevej 13 9750 Østervrå,13,925000.0,05-04-2007,Alm.,6045,3,Villa,153,1940,
+Langoddevej 25 9750 Østervrå,25,2310000.0,30-03-2007,Alm.,11435,7,Stuehus,202,1985,-4 %
+Tranholmvej 5 9750 Østervrå,5,640000.0,27-03-2007,Alm.,4705,3,Stuehus,136,1907,
+Floravej 9 9750 Østervrå,9,290540.0,14-03-2007,Andet,1898,8,Villa,153,1962,
+Ålborggårdvej 53 9750 Østervrå,53,540000.0,14-02-2007,Alm.,0,7,Stuehus,185,1914,
+Krogsdamvej 9 9750 Østervrå,9,940000.0,08-02-2007,Fam.,7230,5,Stuehus,130,1916,
+Vangvej 4 9750 Østervrå,4,565000.0,01-02-2007,Alm.,0,3,Stuehus,146,1894,
+Brøndenvej 7 9750 Østervrå,7,590000.0,26-01-2007,Alm.,4876,4,Villa,121,1960,
+Hjørringvej 422 9750 Østervrå,422,425000.0,26-01-2007,Alm.,3373,6,Villa,126,1925,
+Højstrupvej 12 9750 Østervrå,12,1250000.0,24-01-2007,Alm.,0,3,Stuehus,185,1972,
+Bakkevænget 1 9750 Østervrå,1,157018.0,19-01-2007,Alm.,1440,3,Villa,109,2008,
+Ganevej 6 9750 Østervrå,6,2436316.0,10-01-2007,Fam.,12367,7,Stuehus,197,1997,
+Søholtvej 18 9750 Østervrå,18,2500000.0,09-01-2007,Alm.,5102,15,Stuehus,490,1886,
+Hjørringvej 244 9750 Østervrå,244,1050000.0,23-12-2006,Alm.,5497,13,Villa,191,1960,
+Langmosevej 14 9750 Østervrå,14,900000.0,11-12-2006,Alm.,7086,3,Villa,127,1989,
+Nørkærvej 18 9750 Østervrå,18,2419375.0,04-12-2006,Andet,12096,5,Stuehus,200,1930,
+Højlundsvej 45 9750 Østervrå,45,910000.0,24-11-2006,Alm.,6363,6,Villa,143,1973,
+Hjørringvej 447 9750 Østervrå,447,1600000.0,20-11-2006,Alm.,13793,6,Detailhandel,116,1987,
+Erantisvej 9 9750 Østervrå,9,350000.0,01-11-2006,Alm.,3723,3,Villa,94,1926,
+Hjørringvej 237 9750 Østervrå,237,280000.0,16-10-2006,Alm.,1971,5,Villa,142,1907,
+Nellikevej 10 9750 Østervrå,10,798000.0,11-10-2006,Alm.,4987,5,Villa,160,1925,
+Vrængmosevej 86 9750 Østervrå,86,2610000.0,07-10-2006,Alm.,13593,5,Stuehus,192,1933,
+Hjørringvej 242 9750 Østervrå,242,425000.0,06-10-2006,Alm.,3971,5,Villa,107,1916,
+Hjørringvej 430 9750 Østervrå,430,330000.0,03-10-2006,Alm.,962,6,Rækkehus,343,1898,
+Hjørringvej 488 9750 Østervrå,488,965000.0,25-09-2006,Alm.,4573,6,Villa,211,1936,
+Ormholtvej 9 9750 Østervrå,9,602698.0,22-08-2006,Alm.,3205,4,Stuehus,188,1927,
+Hjørringvej 240 9750 Østervrå,240,620000.0,21-08-2006,Alm.,3563,8,Villa,174,1916,
+Rolighedsvej 2 9750 Østervrå,2,425000.0,21-08-2006,Alm.,4166,4,Villa,102,1958,
+Hjørringvej 217 9750 Østervrå,217,127500.0,16-08-2006,Fam.,1118,3,Villa,114,1956,
+Hjørringvej 222C 9750 Østervrå,0,875000.0,09-08-2006,Alm.,5434,5,Villa,161,1930,
+Søholtvej 46 9750 Østervrå,46,392000.0,06-08-2006,Alm.,2214,4,Villa,177,1890,
+Møllegade 21 9750 Østervrå,21,1300000.0,26-07-2006,Alm.,13000,9,Industri o.l.,100,1927,
+Hjørringvej 420 9750 Østervrå,420,295000.0,16-07-2006,Alm.,2500,4,Villa,118,1900,
+Højlundsvej 2 9750 Østervrå,2,417150.0,13-07-2006,Alm.,2937,5,Villa,142,1977,
+Hyllestedvej 5 9750 Østervrå,5,1900000.0,30-06-2006,Alm.,16521,4,Stuehus,115,1932,
+Hjørringvej 439B 9750 Østervrå,0,1350000.0,19-06-2006,Alm.,6136,8,Lejlighed,220,1927,
+Vrængmosevej 53 9750 Østervrå,53,550000.0,13-06-2006,Alm.,3437,4,Stuehus,160,1926,
+Strømgade 15 9750 Østervrå,15,575000.0,29-05-2006,Alm.,6117,2,Villa,94,1962,
+Lærkevej 8 9750 Østervrå,8,700000.0,24-05-2006,Alm.,5147,4,Villa,136,1971,
+Hjørringvej 446 9750 Østervrå,446,625000.0,19-05-2006,Alm.,3720,5,Villa,168,1900,
+Høngårdsvej 8 9750 Østervrå,8,350000.0,18-05-2006,Alm.,4022,5,Villa,87,1936,
+Elbækvej 5 9750 Østervrå,5,1498000.0,13-05-2006,Alm.,5487,7,Villa,273,2006,
+Sølvvej 6 9750 Østervrå,6,23431.0,26-04-2006,Alm.,207,4,Villa,113,1972,
+Fjeldgårdsvej 4 9750 Østervrå,4,1375000.0,20-04-2006,Alm.,0,7,Stuehus,192,1940,
+Enghavevej 3 9750 Østervrå,3,575000.0,12-04-2006,Alm.,4492,4,Villa,128,1929,
+Rosenvangsvej 9 9750 Østervrå,9,850000.0,11-04-2006,Alm.,12500,2,Stuehus,68,1938,
+Tranevej 7 9750 Østervrå,7,810000.0,10-04-2006,Alm.,4500,4,Villa,180,1972,
+Nellikevej 1 9750 Østervrå,1,320000.0,10-04-2006,Alm.,2909,3,Villa,110,1930,
+Møllegade 42 9750 Østervrå,42,390737.0,22-03-2006,Alm.,4596,3,Villa,85,1948,
+Nellikevej 3 9750 Østervrå,3,435000.0,16-03-2006,Alm.,3686,3,Villa,118,1920,
+Safirvej 1 9750 Østervrå,1,488000.0,04-03-2006,Alm.,3588,3,Villa,136,1935,
+Tryvej 130 9750 Østervrå,130,748000.0,10-02-2006,Alm.,2579,6,Stuehus,290,2011,
+Højlundsvej 73A 9750 Østervrå,0,740000.0,25-01-2006,Alm.,3854,5,Villa,192,1974,
+Floravej 4 9750 Østervrå,4,707728.0,20-01-2006,Alm.,6433,3,Villa,110,1968,
+Nørregårdsvej 4 9750 Østervrå,4,995000.0,14-12-2005,Alm.,5292,6,Stuehus,188,1916,
+Bredgade 31 9750 Østervrå,31,650000.0,01-12-2005,Alm.,0,5,Villa,151,1973,
+Hjørringvej 250 9750 Østervrå,250,772000.0,30-11-2005,Alm.,3658,8,Villa,211,1948,
+Rubinvej 1 9750 Østervrå,1,550000.0,08-11-2005,Alm.,3873,3,Villa,142,1978,
+Ålborggårdvej 19 9750 Østervrå,19,980000.0,08-11-2005,Alm.,6322,5,Stuehus,155,1929,
+Primulavej 22 9750 Østervrå,22,610000.0,14-10-2005,Alm.,0,6,Villa,170,1965,
+Mellergårdsvej 10 9750 Østervrå,10,770000.0,07-10-2005,Alm.,3774,4,Villa,204,1974,
+Bakkevænget 5 9750 Østervrå,5,157096.0,03-10-2005,Alm.,1172,5,Villa,134,2006,
+Nørkærvej 14 9750 Østervrå,14,450000.0,26-09-2005,Alm.,2586,10,Villa,174,1902,
+Kirkholtvej 18 9750 Østervrå,18,725000.0,13-09-2005,Alm.,4617,4,Villa,157,1916,
+Høngårdsvej 24 9750 Østervrå,24,250000.0,05-09-2005,Alm.,2272,3,Villa,110,1948,
+Tryvej 146 9750 Østervrå,146,280000.0,31-08-2005,Alm.,2545,4,Villa,110,1926,
+Langoddevej 38 9750 Østervrå,38,300000.0,30-08-2005,Alm.,1298,8,Villa,231,1900,
+Tryvej 161 9750 Østervrå,161,370000.0,30-08-2005,Alm.,3394,4,Villa,109,1947,
+Kolonihavevej 5 9750 Østervrå,5,755000.0,28-08-2005,Alm.,5719,5,Villa,132,1977,
+Floravej 6 9750 Østervrå,6,750000.0,19-08-2005,Alm.,5952,4,Villa,126,1965,
+Ålborggårdvej 36 9750 Østervrå,36,1350000.0,12-07-2005,Alm.,10384,4,Stuehus,130,1877,
+Hjørringvej 472 9750 Østervrå,472,475000.0,05-07-2005,Alm.,5053,3,Villa,94,1941,
+Primulavej 11 9750 Østervrå,11,855000.0,03-06-2005,Alm.,3685,6,Villa,232,1930,
+Kolonihavevej 3 9750 Østervrå,3,550000.0,31-05-2005,Alm.,4230,3,Villa,130,1959,
+Tryvej 26 9750 Østervrå,26,598289.0,24-05-2005,Andet,2624,6,Villa,228,1976,
+Hjørringvej 255 9750 Østervrå,255,280000.0,12-05-2005,Alm.,2333,5,Villa,120,1910,
+Lendumvej 45 9750 Østervrå,45,295000.0,12-05-2005,Alm.,5363,2,Villa,55,1914,
+Ormholtvej 25 9750 Østervrå,25,540000.0,28-04-2005,Alm.,3648,4,Villa,148,1890,
+Højlundsvej 36 9750 Østervrå,36,800000.0,27-04-2005,Alm.,3333,8,Villa,240,1976,
+Møllegade 13 9750 Østervrå,13,800000.0,27-04-2005,Alm.,5714,5,Villa,140,1962,
+Møllegade 5 9750 Østervrå,5,128602.0,08-04-2005,Fam.,684,4,Villa,188,2014,
+Møllegade 20 9750 Østervrå,20,320851.0,08-04-2005,Fam.,2970,3,Villa,108,1926,
+Kirkholtvej 19 9750 Østervrå,19,795773.0,29-03-2005,Alm.,5724,5,Villa,139,1915,
+Møllegade 14 9750 Østervrå,14,555000.0,29-03-2005,Alm.,5285,4,Villa,105,1966,
+Kirkevej 35 9750 Østervrå,35,1180000.0,18-03-2005,Alm.,7515,5,Stuehus,157,1902,
+Koldbromøllevej 13 9750 Østervrå,13,800000.0,02-03-2005,Alm.,3265,4,Stuehus,245,2015,
+Tranholmvej 6 9750 Østervrå,6,915000.0,25-02-2005,Alm.,3978,7,Stuehus,230,1963,
+Blomstervænget 20 9750 Østervrå,20,550000.0,24-02-2005,Alm.,4782,3,Villa,115,1980,
+Tryvej 151 9750 Østervrå,151,220000.0,24-02-2005,Alm.,1803,5,Villa,122,1942,
+Langmosevej 9 9750 Østervrå,9,575000.0,21-02-2005,Alm.,7666,3,Stuehus,75,1918,
+Fjeldgårdsvej 29 9750 Østervrå,29,1100000.0,15-02-2005,Alm.,8800,4,Stuehus,125,1938,
+Tranevej 3 9750 Østervrå,3,648000.0,25-01-2005,Alm.,4207,5,Villa,154,1972,
+Primulavej 17 9750 Østervrå,17,375000.0,13-01-2005,Alm.,3826,5,Villa,98,1942,
+Brønderslevvej 264 9750 Østervrå,264,2565422.0,30-12-2004,Fam.,6859,9,Stuehus,374,1979,
+Høngårdsvej 25A 9750 Østervrå,0,450000.0,22-12-2004,Alm.,1875,5,Villa,240,1850,
+Liljevej 6 9750 Østervrå,6,575000.0,15-12-2004,Alm.,2395,7,Villa,240,1920,
+Tryvej 80 9750 Østervrå,80,225000.0,10-12-2004,Alm.,2368,5,Villa,95,1900,
+Tryvej 48 9750 Østervrå,48,265000.0,06-12-2004,Alm.,2731,3,Villa,97,1957,
+Brønderslevvej 292 9750 Østervrå,292,325000.0,03-12-2004,Alm.,3611,3,Stuehus,90,1898,
+Lendumvej 11 9750 Østervrå,11,90000.0,19-11-2004,Alm.,1343,3,Villa,67,1913,
+Stasigvej 12 9750 Østervrå,12,1275000.0,18-11-2004,Alm.,6343,8,Stuehus,201,1897,
+Høngårdsvej 1 9750 Østervrå,1,190000.0,03-11-2004,Alm.,1557,6,Villa,122,1910,
+Strømgade 8 9750 Østervrå,8,665000.0,26-10-2004,Alm.,7471,3,Villa,89,1960,
+Mimosevej 21 9750 Østervrå,21,475000.0,12-10-2004,Alm.,4241,3,Villa,112,1963,
+Brønderslevvej 293 9750 Østervrå,293,165000.0,07-10-2004,Alm.,1736,3,Villa,95,1925,
+Lendumvej 17 9750 Østervrå,17,470000.0,30-09-2004,Alm.,2410,7,Villa,195,1968,
+Enghøjvej 5 9750 Østervrå,5,313000.0,23-09-2004,Alm.,1549,4,Villa,202,2010,
+Enghøjvej 8 9750 Østervrå,8,667600.0,29-08-2004,Alm.,0,4,Stuehus,188,1931,
+Højlundsvej 9 9750 Østervrå,9,550000.0,27-08-2004,Fam.,9016,3,Villa,61,1973,
+Hjørringvej 503 9750 Østervrå,503,975000.0,17-08-2004,Alm.,5603,8,Stuehus,174,1937,
+Kolonihavevej 6 9750 Østervrå,6,555000.0,12-07-2004,Alm.,0,6,Villa,180,1940,
+Stadionvej 15 9750 Østervrå,15,350000.0,05-07-2004,Alm.,2464,5,Villa,142,1960,
+Høngårdsvej 29 9750 Østervrå,29,540000.0,02-07-2004,Alm.,3857,5,Villa,140,1947,
+Ålborggårdvej 31 9750 Østervrå,31,275000.0,18-06-2004,Alm.,0,5,Stuehus,190,1929,
+Højlundsvej 42 9750 Østervrå,42,775000.0,28-05-2004,Alm.,0,4,Villa,139,1978,
+Højlundsvej 75 9750 Østervrå,75,770000.0,28-05-2004,Alm.,4325,7,Villa,178,1974,
+Åvangvej 5 9750 Østervrå,5,566369.0,25-05-2004,Alm.,0,7,Stuehus,240,1900,
+Lendumvej 100 9750 Østervrå,100,13600000.0,24-05-2004,Alm.,54618,9,Stuehus,249,1986,
+Øster Grønskovvej 26 9750 Østervrå,26,1543508.0,12-05-2004,Alm.,14841,6,Stuehus,104,1917,
+Blomstervænget 22 9750 Østervrå,22,1298000.0,05-05-2004,Alm.,7016,5,Villa,185,1986,
+Brønderslevvej 245 9750 Østervrå,245,710773.0,03-05-2004,Alm.,3701,5,Stuehus,192,1930,
+Kobberholmvej 20 9750 Østervrå,20,1315000.0,15-04-2004,Alm.,9813,4,Stuehus,134,1927,
+Vrængmosevej 73 9750 Østervrå,73,1045000.0,30-03-2004,Alm.,8228,5,Stuehus,127,1950,
+Strømgade 23 9750 Østervrå,23,450000.0,27-02-2004,Alm.,2331,5,Villa,193,1953,
+Højlundsvej 30 9750 Østervrå,30,748000.0,19-02-2004,Alm.,0,6,Villa,181,1976,
+Nørregårdsvej 8 9750 Østervrå,8,1525000.0,17-02-2004,Alm.,7780,7,Stuehus,196,1935,
+Lendumvej 12 9750 Østervrå,12,435000.0,05-02-2004,Alm.,3246,5,Villa,134,1916,
+Primulavej 29 9750 Østervrå,29,205185.0,04-02-2004,Andet,2889,4,Villa,71,1924,
+Møllegade 32 9750 Østervrå,32,346272.0,12-01-2004,Alm.,3462,3,Villa,100,1934,
+Brøndenvej 100 9750 Østervrå,100,40000.0,10-12-2003,Fam.,2666,1,Sommerhus,15,1927,
+Hjørringvej 412 9750 Østervrå,412,395000.0,27-11-2003,Alm.,3038,5,Villa,130,1907,
+Hjørringvej 228 9750 Østervrå,228,698000.0,24-11-2003,Alm.,4335,4,Villa,161,1970,
+Langoddevej 22 9750 Østervrå,22,7820000.0,17-11-2003,Auktion,59694,4,Stuehus,131,1947,
+Brøndenvej 61 9750 Østervrå,61,625000.0,31-10-2003,Alm.,5208,3,Stuehus,120,1870,
+Skarpholtvej 19 9750 Østervrå,19,1235000.0,29-10-2003,Alm.,4062,8,Stuehus,304,1850,
+Lendumvej 5 9750 Østervrå,5,325000.0,13-10-2003,Alm.,2559,5,Villa,127,1942,
+Tryvej 85 9750 Østervrå,85,780999.0,08-10-2003,Alm.,7036,5,Villa,111,1942,
+Lærkevej 7 9750 Østervrå,7,775150.0,06-10-2003,Alm.,6201,4,Villa,125,1964,
+Vangvej 18 9750 Østervrå,18,850000.0,22-09-2003,Alm.,6028,5,Villa,141,1909,
+Ålborggårdvej 32 9750 Østervrå,32,800000.0,12-09-2003,Alm.,4210,8,Stuehus,190,1928,
+Søholtvej 26 9750 Østervrå,26,85000.0,04-09-2003,Alm.,833,3,Villa,102,1907,
+Nørre Alle 6 9750 Østervrå,6,714330.0,03-09-2003,Alm.,5370,6,Villa,133,1970,
+Blomstervænget 68 9750 Østervrå,68,850000.0,15-08-2003,Alm.,7456,4,Villa,114,1989,
+Nødbakvej 10 9750 Østervrå,10,1075000.0,10-07-2003,Alm.,7312,6,Stuehus,147,1938,
+Hjørringvej 229 9750 Østervrå,229,260000.0,06-07-2003,Alm.,1843,4,Villa,141,1913,
+Gydejevej 4 9750 Østervrå,4,5770000.0,01-07-2003,Alm.,21135,4,Stuehus,273,1890,
+Brøndenvej 56 9750 Østervrå,56,146700.0,30-06-2003,Alm.,589,6,Stuehus,249,1969,
+Blomstervænget 48 9750 Østervrå,48,880000.0,25-06-2003,Alm.,0,6,Villa,156,1986,
+Nymøllevej 16 9750 Østervrå,16,398000.0,25-06-2003,Fam.,2948,4,Villa,135,1937,
+Hjørringvej 440 9750 Østervrå,440,700000.0,14-06-2003,Alm.,5691,4,Villa,123,1880,
+Hjørringvej 453 9750 Østervrå,453,275000.0,11-06-2003,Alm.,1718,6,Villa,160,1907,
+Hjørringvej 241 9750 Østervrå,241,190000.0,10-06-2003,Alm.,1881,3,Villa,101,1926,
+Danebovej 1 9750 Østervrå,1,600000.0,02-06-2003,Alm.,3797,7,Villa,158,1965,
+Floravej 5 9750 Østervrå,5,337000.0,23-05-2003,Alm.,2880,5,Villa,117,1963,
+Blomstervænget 11 9750 Østervrå,11,1200000.0,22-05-2003,Alm.,6593,6,Villa,182,1983,
+Høngårdsvej 5 9750 Østervrå,5,940000.0,12-05-2003,Alm.,3760,8,Villa,250,1934,
+Høngårdsvej 19 9750 Østervrå,19,485000.0,09-04-2003,Alm.,4898,4,Villa,99,1955,
+Brønderslevvej 278 9750 Østervrå,278,870000.0,26-03-2003,Alm.,4677,5,Stuehus,186,1958,
+Tryvej 137 9750 Østervrå,137,140000.0,05-03-2003,Alm.,1029,4,Villa,136,1907,
+Strømgade 10 9750 Østervrå,10,530000.0,22-01-2003,Alm.,5096,4,Villa,104,1960,
+Søhedenvej 179 9750 Østervrå,179,1650000.0,13-01-2003,Alm.,27500,2,Stuehus,60,1900,
+Skovvej 37 9750 Østervrå,37,350000.0,13-01-2003,Alm.,3500,3,Villa,100,1903,
+Lendumvej 96 9750 Østervrå,96,800000.0,07-01-2003,Alm.,3125,9,Stuehus,256,1893,
+Krogsdamvej 21 9750 Østervrå,21,990000.0,08-11-2002,Alm.,4520,9,Stuehus,219,1912,
+Tryvej 143 9750 Østervrå,143,110000.0,06-11-2002,Alm.,1009,5,Villa,109,1890,
+Høngårdsvej 14 9750 Østervrå,14,400000.0,31-10-2002,Alm.,3100,6,Villa,129,1955,
+Søndergårdsvej 8 9750 Østervrå,8,584848.0,30-10-2002,Alm.,4569,4,Villa,128,1974,
+Hjørringvej 455 9750 Østervrå,455,255000.0,24-10-2002,Alm.,3493,4,Villa,73,1900,
+Bjergetsvej 25 9750 Østervrå,25,425000.0,22-10-2002,Alm.,4670,4,Stuehus,91,1950,
+Lendumvej 21 9750 Østervrå,21,300000.0,27-09-2002,Alm.,2564,4,Villa,117,1966,
+Mimosevej 6 9750 Østervrå,6,630000.0,20-09-2002,Alm.,4500,6,Villa,140,1961,
+Nørkærvej 6 9750 Østervrå,6,238000.0,12-09-2002,Alm.,2644,2,Villa,90,1940,
+Vrængmosevej 45 9750 Østervrå,45,2800000.0,02-09-2002,Alm.,24137,4,Stuehus,116,1937,
+Hjørringvej 263 9750 Østervrå,263,195000.0,29-08-2002,Fam.,1107,5,Villa,176,1904,
+Mimosevej 11 9750 Østervrå,11,625000.0,03-06-2002,Alm.,6510,2,Villa,96,1963,
+Tryvej 54 9750 Østervrå,54,200000.0,30-05-2002,Alm.,2500,2,Villa,80,1955,
+Tryvej 117 9750 Østervrå,117,250000.0,20-05-2002,Alm.,2173,4,Villa,115,1944,
+Bjergetsvej 31 9750 Østervrå,31,500000.0,14-05-2002,Alm.,6250,3,Villa,80,1895,
+Bakkevænget 10 9750 Østervrå,10,196252.0,02-04-2002,Alm.,1055,5,Villa,186,2005,
+Lendumvej 7 9750 Østervrå,7,395000.0,01-03-2002,Alm.,3237,4,Villa,122,1920,
+Vrængmosevej 90 9750 Østervrå,90,2600000.0,31-01-2002,Alm.,15384,5,Stuehus,169,2002,
+Primulavej 21 9750 Østervrå,21,798493.0,27-01-2002,Alm.,5703,4,Villa,140,1922,
+Højlundsvej 11 9750 Østervrå,11,790000.0,19-12-2001,Alm.,4413,6,Villa,179,1973,
+Stasigvej 4 9750 Østervrå,4,1325000.0,17-12-2001,Alm.,8333,6,Stuehus,159,1910,
+Langoddevej 17 9750 Østervrå,17,900000.0,12-12-2001,Alm.,0,3,Stuehus,140,1925,
+Fasanvej 2 9750 Østervrå,2,525000.0,12-12-2001,Alm.,4952,4,Villa,106,1969,
+Høngårdsvej 27 9750 Østervrå,27,365000.0,12-12-2001,Alm.,3509,5,Villa,104,1950,
+Vester Gydejevej 6 9750 Østervrå,6,380000.0,18-11-2001,Alm.,2500,5,Villa,152,1955,
+Møllegade 34 9750 Østervrå,34,585000.0,14-11-2001,Alm.,4301,3,Villa,136,1932,
+Lendumvej 6 9750 Østervrå,6,170000.0,14-11-2001,Alm.,1734,4,Villa,98,1924,
+Safirvej 4 9750 Østervrå,4,510485.0,19-10-2001,Alm.,3272,6,Villa,156,1961,
+Højlundsvej 37 9750 Østervrå,37,630000.0,18-10-2001,Alm.,4436,5,Villa,142,1973,
+Danebovej 7 9750 Østervrå,7,250000.0,12-09-2001,Alm.,0,7,Villa,199,1966,
+Erantisvej 4 9750 Østervrå,4,735000.0,20-08-2001,Alm.,5833,4,Villa,126,1915,
+Vangvej 10 9750 Østervrå,10,1425000.0,24-07-2001,Alm.,7661,4,Stuehus,186,1927,
+Lærkevej 5 9750 Østervrå,5,550000.0,28-05-2001,Alm.,0,4,Villa,130,1967,
+Krogsdamvej 22 9750 Østervrå,22,9218000.0,22-05-2001,Alm.,177269,2,Villa,52,1914,
+Nørregårdsvej 9 9750 Østervrå,9,336000.0,18-05-2001,Alm.,1012,6,Villa,332,2006,
+"Liljevej 8B, 1. TV 9750 Østervrå",0,133950.0,15-05-2001,Alm.,2575,2,Lejlighed,52,1912,
+Tryvej 96 9750 Østervrå,96,298000.0,13-05-2001,Alm.,2838,3,Villa,105,1924,
+Lendumvej 8 9750 Østervrå,8,375000.0,30-04-2001,Alm.,2976,5,Villa,126,1962,
+Blomstervænget 26 9750 Østervrå,26,1047000.0,18-04-2001,Alm.,0,7,Villa,168,1986,
+"Liljevej 8A, ST 9750 Østervrå",0,220000.0,18-04-2001,Alm.,2650,3,Lejlighed,83,1912,
+Bakkevænget 2 9750 Østervrå,2,210000.0,16-04-2001,Alm.,1288,5,Villa,163,2001,
+Liljevej 7 9750 Østervrå,7,165750.0,04-04-2001,Fam.,1127,5,Villa,147,1922,
+Hjørringvej 186 9750 Østervrå,186,1000000.0,05-03-2001,Alm.,3278,8,Stuehus,305,1917,
+Primulavej 3 9750 Østervrå,3,615000.0,25-02-2001,Alm.,4330,7,Villa,142,1930,
+Vrængmosevej 65 9750 Østervrå,65,1400000.0,20-02-2001,Fam.,9271,5,Stuehus,151,1897,
+Elbækvej 10 9750 Østervrå,10,24520.0,14-02-2001,Alm.,130,6,Stuehus,188,1952,
+Fældenvej 6 9750 Østervrå,6,935000.0,29-01-2001,Fam.,5223,5,Stuehus,179,1932,
+Primulavej 25 9750 Østervrå,25,520000.0,29-01-2001,Fam.,3333,5,Villa,156,1912,
+Højlundsvej 92 9750 Østervrå,92,725000.0,18-01-2001,Alm.,6092,4,Villa,119,1983,
+Blomstervænget 32 9750 Østervrå,32,138289.0,15-01-2001,Alm.,1223,4,Villa,113,2001,
+Elbækvej 6 9750 Østervrå,6,2065612.0,11-01-2001,Alm.,10076,6,Stuehus,205,2010,
+Brøndenvej 69 9750 Østervrå,69,655000.0,04-01-2001,Alm.,5325,5,Stuehus,123,1880,
+Brøndenvej 14 9750 Østervrå,14,675000.0,28-12-2000,Alm.,5400,5,Villa,125,1967,
+Hjørringvej 261 9750 Østervrå,261,150000.0,13-11-2000,Alm.,1079,3,Villa,139,1903,
+Krogsdamvej 6 9750 Østervrå,6,860000.0,26-10-2000,Alm.,5548,4,Stuehus,155,1865,
+Blomstervænget 21 9750 Østervrå,21,1095000.0,24-10-2000,Alm.,7551,5,Villa,145,1986,
+Mimosevej 14 9750 Østervrå,14,595000.0,22-09-2000,Alm.,6197,5,Villa,96,1965,
+Søholtvej 34 9750 Østervrå,34,780000.0,12-09-2000,Fam.,5571,5,Villa,140,1900,
+Fjeldgårdsvej 34 9750 Østervrå,34,640591.0,01-09-2000,Alm.,2669,7,Stuehus,240,1907,
+Hjørringvej 458 9750 Østervrå,458,533456.0,01-09-2000,Alm.,3233,4,Villa,165,1877,
+Blomstervænget 46 9750 Østervrå,46,850000.0,22-08-2000,Alm.,7657,4,Villa,111,1986,
+Hjørringvej 267 9750 Østervrå,267,410000.0,15-08-2000,Alm.,2411,5,Villa,170,1902,
+Hjørringvej 320 9750 Østervrå,320,6125000.0,11-08-2000,Alm.,20416,7,Stuehus,300,1920,
+Hjørringvej 417A 9750 Østervrå,0,432263.0,29-07-2000,Alm.,6003,3,Rækkehus,72,1986,
+Vrængmosevej 49 9750 Østervrå,49,1050000.0,27-07-2000,Alm.,0,5,Villa,174,1964,
+Blomstervænget 39 9750 Østervrå,39,124146.0,26-07-2000,Alm.,790,4,Villa,157,2001,
+Skarpholtvej 23 9750 Østervrå,23,2550000.0,21-07-2000,Alm.,13858,8,Stuehus,184,1944,
+Blomstervænget 31 9750 Østervrå,31,119575.0,17-07-2000,Alm.,738,5,Villa,162,2001,
+Strømgade 6 9750 Østervrå,6,410000.0,07-07-2000,Alm.,2928,5,Villa,140,1959,
+Rolighedsvej 5 9750 Østervrå,5,339000.0,29-06-2000,Alm.,3198,3,Villa,106,1957,
+Møllegade 3 9750 Østervrå,3,329000.0,13-06-2000,Alm.,2006,4,Villa,164,1946,
+Bakkevænget 17 9750 Østervrå,17,176440.0,07-06-2000,Alm.,1242,6,Villa,142,2001,
+Hjørringvej 190 9750 Østervrå,190,195000.0,31-05-2000,Alm.,1989,3,Villa,98,1887,
+Hjørringvej 219 9750 Østervrå,219,234000.0,29-05-2000,Alm.,3342,3,Villa,70,1949,
+Nejsumvej 5 9750 Østervrå,5,360000.0,26-05-2000,Fam.,2432,4,Villa,148,1952,
+Bakkevænget 6 9750 Østervrå,6,173398.0,12-05-2000,Alm.,907,7,Villa,191,2001,
+Primulavej 8 9750 Østervrå,8,392000.0,01-04-2000,Alm.,4666,4,Villa,84,1956,
+Fasanvej 6 9750 Østervrå,6,305968.0,09-03-2000,Alm.,1593,5,Villa,192,1971,
+Vrængmosevej 18 9750 Østervrå,18,280000.0,28-02-2000,Alm.,2641,5,Villa,106,1947,
+Højlundsvej 21 9750 Østervrå,21,925000.0,22-02-2000,Alm.,6514,5,Villa,142,1973,
+Ågårdsvej 21 9750 Østervrå,21,240000.0,20-02-2000,Alm.,1714,5,Stuehus,140,1939,
+Tryvej 30 9750 Østervrå,30,610000.0,14-02-2000,Fam.,3388,6,Villa,180,1973,
+Krogsdamvej 5 9750 Østervrå,5,859113.0,06-02-2000,Alm.,4295,5,Stuehus,200,1916,
+Koldbromøllevej 21 9750 Østervrå,21,2550000.0,26-01-2000,Fam.,10851,7,Stuehus,235,2008,
+Brøndenvej 41C 9750 Østervrå,0,75000.0,14-12-1999,Alm.,274,7,Villa,273,2000,
+Rolighedsvej 4 9750 Østervrå,4,350000.0,02-12-1999,Alm.,3301,3,Villa,106,1960,
+Hjørringvej 226 9750 Østervrå,226,325000.0,23-11-1999,Alm.,1805,6,Villa,180,1944,
+Lærkevej 1 9750 Østervrå,1,532500.0,22-11-1999,Alm.,3287,4,Villa,162,1970,
+Nørkærvej 3 9750 Østervrå,3,350000.0,15-11-1999,Alm.,2500,5,Villa,140,1922,
+Hjørringvej 445 9750 Østervrå,445,250000.0,04-11-1999,Alm.,1937,5,Villa,129,1877,
+Kobberholmvej 6 9750 Østervrå,6,650000.0,26-08-1999,Alm.,4333,5,Villa,150,1880,
+Høngårdsvej 2 9750 Østervrå,2,707130.0,24-08-1999,Alm.,4392,6,Villa,161,1919,
+Søholtvej 42 9750 Østervrå,42,240000.0,24-08-1999,Alm.,0,10,Villa,352,1919,
+Hjørringvej 317 9750 Østervrå,317,420000.0,16-07-1999,Alm.,3088,4,Villa,136,1928,
+Vrængmosevej 40 9750 Østervrå,40,740092.0,13-07-1999,Alm.,3289,6,Stuehus,225,1859,
+Lendumvej 16 9750 Østervrå,16,373169.0,06-07-1999,Alm.,2376,6,Villa,157,1964,
+Hjørringvej 475 9750 Østervrå,475,860000.0,02-07-1999,Alm.,0,6,Stuehus,241,1907,
+Hjørringvej 536 9750 Østervrå,536,204998.0,30-06-1999,Alm.,1366,4,Stuehus,150,1942,
+Møllegade 1 9750 Østervrå,1,300000.0,24-06-1999,Alm.,1898,5,Villa,158,1902,
+Koldbromøllevej 22 9750 Østervrå,22,300000.0,21-06-1999,Alm.,2702,1,Stuehus,111,2005,
+Vangvej 23 9750 Østervrå,23,800000.0,10-06-1999,Alm.,0,4,Stuehus,110,1939,
+Hjørringvej 221 9750 Østervrå,221,750000.0,03-06-1999,Alm.,5000,6,Villa,150,1989,
+Høngårdsvej 7 9750 Østervrå,7,210000.0,25-05-1999,Alm.,0,4,Villa,130,1936,
+Højlundsvej 67 9750 Østervrå,67,950000.0,12-05-1999,Alm.,3877,7,Villa,245,1975,
+Bredgade 25 9750 Østervrå,25,500000.0,06-05-1999,Alm.,3787,4,Villa,132,1973,
+Søndergårdsvej 18 9750 Østervrå,18,500000.0,21-04-1999,Alm.,4237,4,Villa,118,1969,
+Vibevej 8 9750 Østervrå,8,675000.0,21-04-1999,Alm.,4041,4,Villa,167,1974,
+Tryvej 135 9750 Østervrå,135,49675.0,19-04-1999,Fam.,331,4,Villa,150,1951,
+Horshavevej 6 9750 Østervrå,6,957000.0,26-03-1999,Alm.,3000,9,Stuehus,319,1907,
+Skarpholtvej 4 9750 Østervrå,4,660000.0,19-03-1999,Alm.,4370,7,Stuehus,151,1877,
+Bredgade 27 9750 Østervrå,27,1133000.0,04-03-1999,Alm.,4701,7,Villa,241,1973,
+Vangvej 27 9750 Østervrå,27,1010000.0,24-02-1999,Alm.,6312,6,Stuehus,160,1962,
+Søholtvej 30 9750 Østervrå,30,691427.0,22-02-1999,Alm.,4609,8,Stuehus,150,1890,
+Vrængmosevej 28 9750 Østervrå,28,570000.0,04-02-1999,Alm.,0,5,Villa,137,1963,
+Lendumvej 4 9750 Østervrå,4,140000.0,03-02-1999,Alm.,580,8,Villa,241,1925,
+Hjørringvej 224 9750 Østervrå,224,308000.0,20-01-1999,Alm.,2825,4,Villa,109,1935,
+Hjørringvej 433 9750 Østervrå,433,1137500.0,22-12-1998,Alm.,5416,17,Detailhandel,210,1937,
+Brøndenvej 12 9750 Østervrå,12,550000.0,12-12-1998,Alm.,3793,4,Villa,145,1967,
+Tryvej 128 9750 Østervrå,128,116657.0,25-11-1998,Alm.,1132,5,Villa,103,1930,
+Langoddevej 6 9750 Østervrå,6,205000.0,25-11-1998,Andet,1178,5,Villa,174,1950,
+Bakkevænget 7 9750 Østervrå,7,179170.0,16-11-1998,Alm.,1060,4,Villa,169,2000,
+Bakkevænget 9 9750 Østervrå,9,173164.0,16-11-1998,Alm.,1075,5,Villa,161,1999,
+Kirkevej 31 9750 Østervrå,31,287054.0,26-10-1998,Fam.,1594,4,Stuehus,180,1900,
+Fjeldgårdsvej 5 9750 Østervrå,5,350000.0,15-10-1998,Alm.,2380,5,Stuehus,147,1999,
+Hjørringvej 489 9750 Østervrå,489,684000.0,29-09-1998,Alm.,4000,5,Stuehus,171,1937,
+Møllegade 24 9750 Østervrå,24,378789.0,23-09-1998,Alm.,0,3,Villa,165,1928,
+Vester Gydejevej 9 9750 Østervrå,9,840000.0,28-07-1998,Alm.,7500,5,Stuehus,112,1950,
+Nørkærvej 5 9750 Østervrå,5,397000.0,17-07-1998,Alm.,3308,5,Villa,120,1935,
+Kolonihavevej 4 9750 Østervrå,4,400000.0,13-06-1998,Alm.,4166,3,Villa,96,1958,
+Blomstervænget 42 9750 Østervrå,42,1237000.0,08-06-1998,Alm.,7191,6,Villa,172,1990,
+Hjørringvej 265 9750 Østervrå,265,75000.0,28-05-1998,Alm.,396,4,Villa,189,1900,
+Højlundsvej 32 9750 Østervrå,32,923000.0,16-05-1998,Alm.,4195,6,Villa,220,1976,
+Hjørringvej 402 9750 Østervrå,402,301875.0,14-05-1998,Alm.,4312,3,Villa,70,1952,
+Høngårdsvej 17 9750 Østervrå,17,336000.0,11-05-1998,Alm.,3733,2,Villa,90,1955,
+Stadionvej 2 9750 Østervrå,2,281500.0,31-03-1998,Alm.,3804,3,Villa,74,1937,
+Mimosevej 10 9750 Østervrå,10,439464.0,26-03-1998,Alm.,3010,6,Villa,146,1827,
+Tryvej 88 9750 Østervrå,88,30000.0,18-03-1998,Auktion,389,3,Villa,77,1895,
+Brøndenvej 57 9750 Østervrå,57,484500.0,11-03-1998,Fam.,4404,4,Stuehus,110,1881,
+Liljevej 4 9750 Østervrå,4,660000.0,21-11-1997,Alm.,3666,6,Villa,180,1923,
+Høngårdsvej 15 9750 Østervrå,15,475000.0,30-10-1997,Alm.,3958,6,Villa,120,1950,
+Ormholtvej 6 9750 Østervrå,6,64325.0,29-10-1997,Alm.,536,4,Stuehus,120,1827,
+Brønderslevvej 283 9750 Østervrå,283,94253.0,29-10-1997,Alm.,693,4,Stuehus,136,1900,
+Ormholtvej 27 9750 Østervrå,27,236000.0,21-08-1997,Alm.,1661,4,Villa,142,1900,
+Hjørringvej 331 9750 Østervrå,331,65000.0,21-08-1997,Alm.,0,5,Stuehus,140,1939,
+Hjørringvej 521 9750 Østervrå,521,755000.0,15-08-1997,Alm.,2949,8,Stuehus,256,1928,
+Vrængmosevej 22 9750 Østervrå,22,165000.0,13-08-1997,Alm.,1736,3,Villa,95,1960,
+Langoddevej 13 9750 Østervrå,13,442000.0,07-08-1997,Alm.,0,4,Villa,158,1877,
+Strømgade 19 9750 Østervrå,19,335000.0,29-07-1997,Alm.,2791,4,Villa,120,1960,
+Blomstervænget 58 9750 Østervrå,58,114615.0,29-07-1997,Alm.,749,5,Villa,153,1998,
+Brøndenvej 18 9750 Østervrå,18,492000.0,18-06-1997,Alm.,3346,4,Villa,147,1977,
+Tryvej 104 9750 Østervrå,104,297500.0,16-06-1997,Alm.,0,5,Villa,161,1907,
+Hjørringvej 437 9750 Østervrå,437,535000.0,13-06-1997,Alm.,3302,10,Industri o.l.,162,1998,
+Brøndenvej 74 9750 Østervrå,74,263812.0,28-05-1997,Alm.,2144,4,Stuehus,123,1938,
+Søhedenvej 191 9750 Østervrå,191,975000.0,06-05-1997,Alm.,4276,9,Stuehus,228,1920,
+Vibevej 9 9750 Østervrå,9,735000.0,17-04-1997,Alm.,4083,5,Villa,180,1972,
+Højlundsvej 28 9750 Østervrå,28,695000.0,26-03-1997,Alm.,4017,6,Villa,173,1978,
+Bredgade 21A 9750 Østervrå,0,400000.0,20-03-1997,Alm.,5555,3,Rækkehus,72,1986,
+Koldbromøllevej 17 9750 Østervrå,17,630000.0,15-03-1997,Alm.,0,6,Stuehus,187,1941,
+Fasanvej 3 9750 Østervrå,3,775000.0,05-03-1997,Alm.,3522,9,Villa,220,1972,
+Lendumvej 92 9750 Østervrå,92,400000.0,26-02-1997,Alm.,3636,5,Villa,110,1908,
+Gjersholtvej 18 9750 Østervrå,18,503000.0,19-01-1997,Alm.,3143,6,Villa,160,1980,
+Brøndenvej 41A 9750 Østervrå,0,629000.0,09-12-1996,Alm.,2808,7,Villa,224,1930,
+Blomstervænget 27 9750 Østervrå,27,964000.0,07-11-1996,Alm.,0,6,Villa,144,1986,
+Hjørringvej 406 9750 Østervrå,406,1049000.0,07-11-1996,Alm.,4948,6,Villa,212,1977,
+Bjergetsvej 21 9750 Østervrå,21,658000.0,06-11-1996,Alm.,3635,7,Stuehus,181,1875,
+Fjeldgårdsvej 21 9750 Østervrå,21,751812.0,05-11-1996,Alm.,3936,5,Stuehus,191,1938,
+Møllegade 16 9750 Østervrå,16,297000.0,02-11-1996,Alm.,0,6,Villa,145,1943,
+Tryvej 71 9750 Østervrå,71,494140.0,30-10-1996,Alm.,3660,3,Stuehus,135,1980,
+Møllegade 18 9750 Østervrå,18,359000.0,21-10-1996,Alm.,0,5,Villa,112,1937,
+Kobberholmvej 24 9750 Østervrå,24,467000.0,01-10-1996,Alm.,4324,3,Stuehus,108,1960,
+Brøndenvej 8 9750 Østervrå,8,395000.0,08-09-1996,Alm.,4759,3,Rækkehus,83,1981,
+Danebovej 4 9750 Østervrå,4,250000.0,14-08-1996,Alm.,2232,4,Villa,112,1940,
+Hjørringvej 254 9750 Østervrå,254,205000.0,02-08-1996,Alm.,1114,9,Villa,184,1947,
+Hjørringvej 462 9750 Østervrå,462,200000.0,01-07-1996,Alm.,2040,3,Villa,98,1877,
+Lendumvej 10 9750 Østervrå,10,250000.0,22-05-1996,Alm.,0,2,Villa,81,1915,
+Hjørringvej 305 9750 Østervrå,305,48524.0,20-05-1996,Alm.,485,3,Stuehus,100,1910,
+Hjørringvej 286 9750 Østervrå,286,1700000.0,15-05-1996,Alm.,9444,8,Stuehus,180,1902,
+Hjørringvej 512 9750 Østervrå,512,612500.0,15-05-1996,Alm.,3109,9,Stuehus,197,1965,
+Hjørringvej 466 9750 Østervrå,466,240000.0,19-04-1996,Alm.,0,7,Villa,145,1902,
+Søholtvej 68 9750 Østervrå,68,2800000.0,21-03-1996,Fam.,14070,7,Stuehus,199,1900,
+Fredensvej 3 9750 Østervrå,3,460000.0,19-03-1996,Alm.,3801,3,Villa,121,1925,
+Fjeldgårdsvej 17 9750 Østervrå,17,255000.0,15-03-1996,Alm.,0,6,Stuehus,142,1912,
+Lendumvej 37 9750 Østervrå,37,505000.0,05-03-1996,Fam.,3098,3,Stuehus,163,1880,
+Hjørringvej 202 9750 Østervrå,202,320000.0,05-03-1996,Fam.,2689,3,Villa,119,1950,
+Høngårdsvej 23A 9750 Østervrå,0,365000.0,22-02-1996,Fam.,3041,4,Villa,120,1962,
+Blomstervænget 37 9750 Østervrå,37,113837.0,08-02-1996,Alm.,875,7,Villa,130,1996,
+Brønderslevvej 260 9750 Østervrå,260,750000.0,03-02-1996,Alm.,5395,3,Stuehus,139,1974,
+Begonievej 4 9750 Østervrå,4,430000.0,25-01-1996,Alm.,3233,3,Villa,133,1958,
+Vester Gydejevej 5 9750 Østervrå,5,580000.0,13-01-1996,Alm.,3258,4,Stuehus,178,1950,
+Stadionvej 9 9750 Østervrå,9,195000.0,12-12-1995,Alm.,1788,4,Villa,109,1958,
+Brinken 5 9750 Østervrå,5,925000.0,14-11-1995,Alm.,5891,4,Villa,157,2009,
+Stasigvej 11 9750 Østervrå,11,695000.0,12-11-1995,Alm.,3657,6,Stuehus,190,2016,
+Brønderslevvej 256 9750 Østervrå,256,950000.0,11-11-1995,Alm.,4871,4,Stuehus,195,1971,
+Høngårdsvej 12 9750 Østervrå,12,190000.0,08-11-1995,Alm.,0,5,Villa,105,1947,
+Donskovvej 10 9750 Østervrå,10,355000.0,30-10-1995,Alm.,3349,4,Villa,106,1915,
+Mellergårdsvej 8 9750 Østervrå,8,675000.0,11-10-1995,Alm.,3729,6,Villa,181,1979,
+Ormholtvej 14 9750 Østervrå,14,126000.0,22-09-1995,Alm.,2625,2,Sommerhus,48,1877,
+Hjørringvej 493 9750 Østervrå,493,275000.0,19-09-1995,Alm.,0,5,Villa,171,1930,
+Erantisvej 11 9750 Østervrå,11,267000.0,18-09-1995,Alm.,0,6,Villa,158,1942,
+Gjersholtvej 5 9750 Østervrå,5,453966.0,15-09-1995,Alm.,4407,3,Stuehus,103,1930,
+Oustrupmøllevej 116 9750 Østervrå,116,440000.0,15-09-1995,Alm.,1888,4,Villa,233,2016,
+Højlundsvej 46 9750 Østervrå,46,624000.0,18-08-1995,Alm.,4000,4,Villa,156,1978,
+Gydejevej 10 9750 Østervrå,10,4300000.0,05-08-1995,Fam.,21938,8,Stuehus,196,1875,
+Nellikevej 11 9750 Østervrå,11,508000.0,23-07-1995,Alm.,3320,4,Villa,153,1971,
+Strømgade 2C 9750 Østervrå,0,399700.0,11-07-1995,Alm.,4996,3,Rækkehus,80,1988,
+Højbjergvej 6 9750 Østervrå,6,2150000.0,06-07-1995,Alm.,14930,5,Stuehus,144,2007,
+Bjergetsvej 18 9750 Østervrå,18,350000.0,26-06-1995,Alm.,2000,7,Stuehus,175,1960,
+Brøndenvej 104 9750 Østervrå,104,500000.0,20-06-1995,Alm.,3571,4,Villa,140,1936,
+Brønderslevvej 241 9750 Østervrå,241,6335000.0,15-06-1995,Alm.,26395,6,Stuehus,240,1877,
+Safirvej 3 9750 Østervrå,3,140000.0,02-05-1995,Alm.,1609,3,Villa,87,1933,
+Søhedenvej 119 9750 Østervrå,119,2000000.0,01-05-1995,Alm.,8620,6,Stuehus,232,1981,
+Søndergårdsvej 3 9750 Østervrå,3,690000.0,28-04-1995,Alm.,3432,4,Lejlighed,201,1972,
+Nellikevej 18 9750 Østervrå,18,515000.0,27-04-1995,Alm.,3576,5,Villa,144,1972,
+Lystagervej 4 9750 Østervrå,4,209484.0,05-04-1995,Alm.,1342,5,Villa,156,1922,
+Tryvej 114 9750 Østervrå,114,160000.0,03-04-1995,Alm.,0,5,Villa,160,1897,
+Søhedenvej 80 9750 Østervrå,80,325000.0,30-03-1995,Alm.,3217,4,Villa,101,1930,
+Horshavevej 7 9750 Østervrå,7,1200000.0,10-03-1995,Fam.,9375,3,Stuehus,128,1877,
+Højlundsvej 19 9750 Østervrå,19,660000.0,25-02-1995,Alm.,0,6,Villa,157,1973,
+Hjørringvej 227 9750 Østervrå,227,140000.0,20-01-1995,Alm.,0,3,Villa,98,1916,
+Langoddevej 37 9750 Østervrå,37,850000.0,12-11-1994,Alm.,3794,6,Villa,224,1951,
+Højlundsvej 41 9750 Østervrå,41,451000.0,22-10-1994,Alm.,0,6,Villa,224,1973,
+Hjørringvej 517 9750 Østervrå,517,340000.0,16-09-1994,Alm.,1619,5,Villa,210,2002,
+Mølbakvej 5 9750 Østervrå,5,839686.0,29-08-1994,Alm.,4798,6,Stuehus,175,1937,
+Brønderslevvej 295 9750 Østervrå,295,1800000.0,25-08-1994,Fam.,9625,6,Stuehus,187,1920,
+Brønderslevvej 290 9750 Østervrå,290,330000.0,25-08-1994,Fam.,2773,3,Villa,119,1861,
+Højstrupvej 8 9750 Østervrå,8,425000.0,14-06-1994,Fam.,0,5,Stuehus,174,1936,
+Ormholtvej 26 9750 Østervrå,26,200000.0,14-06-1994,Alm.,1183,7,Villa,169,1827,
+Tryvej 10 9750 Østervrå,10,438000.0,12-06-1994,Alm.,2179,7,Villa,201,1965,
+Rishøjvej 5 9750 Østervrå,5,1200000.0,03-06-1994,Fam.,0,5,Stuehus,212,1898,
+Perlevej 7 9750 Østervrå,7,590000.0,08-05-1994,Alm.,3470,5,Villa,170,1976,
+Tryvej 175 9750 Østervrå,175,100000.0,24-03-1994,Alm.,1388,2,Villa,72,1900,
+Blomstervænget 70 9750 Østervrå,70,125000.0,21-03-1994,Alm.,0,7,Villa,191,1994,
+Højlundsvej 57 9750 Østervrå,57,336500.0,15-03-1994,Alm.,0,3,Villa,103,1974,
+Stadionvej 5 9750 Østervrå,5,310000.0,14-03-1994,Alm.,2719,4,Villa,114,1966,
+Nørre Alle 5 9750 Østervrå,5,370000.0,01-02-1994,Fam.,0,4,Villa,149,1965,
+Tryvej 119 9750 Østervrå,119,52065.0,19-01-1994,Fam.,0,5,Villa,95,1887,
+Højlundsvej 15 9750 Østervrå,15,500000.0,25-11-1993,Fam.,3205,5,Villa,156,1973,
+Høngårdsvej 11 9750 Østervrå,11,120000.0,19-11-1993,Alm.,952,4,Villa,126,1945,
+Koldbromøllevej 30 9750 Østervrå,30,1710000.0,18-11-1993,Alm.,9344,5,Stuehus,183,1877,
+Perlevej 5 9750 Østervrå,5,410000.0,18-11-1993,Alm.,0,5,Villa,145,1976,
+Højlundsvej 12 9750 Østervrå,12,560000.0,15-11-1993,Alm.,0,6,Villa,187,1979,
+Brønderslevvej 285 9750 Østervrå,285,920000.0,31-10-1993,Alm.,0,7,Stuehus,230,1928,
+Hjørringvej 415 9750 Østervrå,415,500000.0,30-09-1993,Alm.,2252,7,Villa,222,1895,
+Lendumvej 13 9750 Østervrå,13,155000.0,12-08-1993,Auktion,0,5,Villa,104,1930,
+Lendumvej 85 9750 Østervrå,85,350000.0,07-08-1993,Alm.,2822,5,Villa,124,1927,
+Højlundsvej 63 9750 Østervrå,63,414420.0,24-05-1993,Fam.,2240,5,Villa,185,1976,
+Hjørringvej 523 9750 Østervrå,523,430000.0,18-05-1993,Alm.,0,5,Villa,182,1850,
+Høngårdsvej 6 9750 Østervrå,6,320000.0,10-05-1993,Alm.,2285,7,Villa,140,1930,
+Brønderslevvej 268 9750 Østervrå,268,360000.0,28-04-1993,Alm.,4137,2,Stuehus,87,1850,
+Tryvej 81 9750 Østervrå,81,582000.0,21-04-1993,Auktion,0,7,Stuehus,175,1953,
+Nellikevej 12 9750 Østervrå,12,232500.0,24-03-1993,Alm.,4305,2,Villa,54,1938,
+Liljevej 3 9750 Østervrå,3,290000.0,23-03-1993,Alm.,2761,3,Villa,105,1936,
+Nymøllevej 12 9750 Østervrå,12,2243902.0,08-03-1993,Fam.,8975,7,Stuehus,250,1962,
+Fjeldgårdsvej 9 9750 Østervrå,9,613113.0,05-02-1993,Alm.,3606,5,Stuehus,170,1965,
+Blomstervænget 45 9750 Østervrå,45,500000.0,25-01-1993,Alm.,4347,4,Villa,115,1988,
+Søndergårdsvej 14 9750 Østervrå,14,285000.0,25-01-1993,Alm.,1815,3,Villa,157,1970,
+Rubinvej 6 9750 Østervrå,6,213666.0,18-01-1993,Alm.,1515,5,Villa,141,1980,
+Strømgade 7 9750 Østervrå,7,178500.0,13-01-1993,Fam.,0,3,Villa,167,1954,
+Hjørringvej 535 9750 Østervrå,535,225000.0,20-11-1992,Alm.,0,5,Stuehus,220,1940,
+Brinken 12 9750 Østervrå,12,885000.0,19-11-1992,Alm.,5822,5,Villa,152,1987,
+Mimosevej 9 9750 Østervrå,9,135100.0,03-11-1992,Alm.,2078,3,Villa,65,1956,
+Brøndenvej 43 9750 Østervrå,43,795000.0,28-10-1992,Alm.,0,5,Villa,139,1987,
+Hjørringvej 212 9750 Østervrå,212,195000.0,20-10-1992,Alm.,2468,3,Villa,79,1952,
+Søhedenvej 192 9750 Østervrå,192,252500.0,06-10-1992,Alm.,1213,9,Villa,208,1900,
+Møllegade 8 9750 Østervrå,8,310000.0,01-10-1992,Alm.,0,4,Villa,134,1948,
+Hjørringvej 418 9750 Østervrå,418,170000.0,23-09-1992,Fam.,1545,4,Villa,110,1906,
+Hyllestedvej 10 9750 Østervrå,10,450000.0,17-07-1992,Fam.,2571,4,Stuehus,175,1900,
+Hjørringvej 334 9750 Østervrå,334,225000.0,29-06-1992,Andet,1814,3,Villa,124,1973,
+Nødbakvej 5 9750 Østervrå,5,400000.0,26-06-1992,Alm.,3030,4,Villa,132,1940,
+Tryvej 8 9750 Østervrå,8,320000.0,21-05-1992,Alm.,2909,4,Villa,110,1964,
+Søndergårdsvej 20 9750 Østervrå,20,450000.0,05-05-1992,Alm.,3284,5,Villa,137,1972,
+Kobbervænget 5 9750 Østervrå,5,450000.0,05-05-1992,Alm.,3515,4,Villa,128,1973,

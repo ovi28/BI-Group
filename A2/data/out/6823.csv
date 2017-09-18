@@ -1,0 +1,904 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Søgårdsvej 24 6823 Ansager,24,582500.0,05-05-2017,Alm.,9708,4,Sommerhus,60,1977,-2 %
+Mølbyvej 3 6823 Ansager,3,200000.0,28-04-2017,Alm.,2222,2,Villa,90,1926,-20 %
+Søgårdsvej 57 6823 Ansager,57,375000.0,27-04-2017,Alm.,7978,3,Sommerhus,47,1980,-5 %
+Østergade 45 6823 Ansager,45,600000.0,18-04-2017,Fam.,5309,4,Villa,113,1965,
+Søgårdsvej 44 6823 Ansager,44,715000.0,06-04-2017,Alm.,12543,4,Sommerhus,57,1982,-10 %
+Østre Alle 11 6823 Ansager,11,650000.0,29-03-2017,Alm.,7738,3,Villa,84,1964,-6 %
+Søgårdsvej 21 6823 Ansager,21,835000.0,23-03-2017,Alm.,9709,3,Sommerhus,86,1988,-7 %
+Vejlevej 63 6823 Ansager,63,1179747.0,26-02-2017,Fam.,6703,6,Stuehus,176,1908,
+Krogagervej 11 6823 Ansager,11,1942000.0,22-02-2017,Alm.,6814,5,Stuehus,285,1920,-3 %
+Sønderbro 38 6823 Ansager,38,1435000.0,20-02-2017,Alm.,7000,8,Stuehus,205,1900,
+Frifeltvej 14 6823 Ansager,14,2800000.0,16-02-2017,Alm.,11764,6,Villa,238,2015,-7 %
+Allegade 15 6823 Ansager,15,495000.0,10-02-2017,Alm.,2812,4,Villa,176,1931,
+Lindegade 1 6823 Ansager,1,190000.0,03-02-2017,Alm.,1027,3,Villa,185,1900,
+Hovedgaden 29 6823 Ansager,29,1535000.0,02-02-2017,Alm.,10659,6,Villa,144,1942,
+Fiskerivej 10 6823 Ansager,10,1000000.0,25-01-2017,Alm.,5434,7,Villa,184,1972,
+Lærkevænget 3 6823 Ansager,3,2635000.0,25-01-2017,Alm.,10711,11,Villa,246,1921,-1 %
+Skovlundvej 9 6823 Ansager,9,565500.0,10-01-2017,Alm.,2618,10,Stuehus,216,1910,
+Kvievej 11 6823 Ansager,11,68707.0,04-01-2017,Auktion,6870,1,Rækkehus,10,1977,
+Frifeltvej 5 6823 Ansager,5,1600000.0,02-01-2017,Alm.,9248,6,Stuehus,173,1929,0 %
+Kvievej 22 6823 Ansager,22,1216616.0,04-12-2016,Alm.,12414,4,Stuehus,98,1882,-3 %
+Gårdevej 33 6823 Ansager,33,1512500.0,29-11-2016,Andet,7378,6,Stuehus,205,1896,
+Søknudevej 8 6823 Ansager,8,1225000.0,25-11-2016,Alm.,14244,4,Sommerhus,86,1996,-12 %
+Søgårdsvej 78 6823 Ansager,78,635000.0,19-11-2016,Alm.,8466,1,Sommerhus,75,1976,-6 %
+Allegade 11 6823 Ansager,11,250000.0,12-11-2016,Alm.,1851,4,Villa,135,1960,
+Lærkevej 19 6823 Ansager,19,1395000.0,04-11-2016,Alm.,8205,5,Villa,170,1996,
+Kølbanken 8 6823 Ansager,8,589264.0,05-10-2016,Alm.,2753,4,Villa,214,1943,-58 %
+Gartnerhaven 8 6823 Ansager,8,365000.0,03-10-2016,Alm.,2324,5,Villa,157,1969,
+Stationsvej 20 6823 Ansager,20,450000.0,29-09-2016,Alm.,3750,3,Villa,120,1973,-31 %
+Hestkærbrovej 42 6823 Ansager,42,19062317.0,28-09-2016,Alm.,98768,6,Stuehus,193,1911,
+Kanalvej 14 6823 Ansager,14,220000.0,27-09-2016,Alm.,1571,6,Stuehus,140,1916,-91 %
+Lindegade 3 6823 Ansager,3,1900000.0,13-09-2016,Alm.,9644,8,Villa,197,1930,-5 %
+Søknudevej 19 6823 Ansager,19,599000.0,28-08-2016,Alm.,7986,4,Sommerhus,75,1979,-4 %
+Søvej 44 6823 Ansager,44,620000.0,28-08-2016,Alm.,9538,4,Sommerhus,65,1991,-11 %
+Nørregade 26 6823 Ansager,26,495000.0,24-08-2016,Alm.,3214,5,Villa,154,1964,0 %
+Nygade 1 6823 Ansager,1,90000.0,18-08-2016,Alm.,584,5,Villa,154,1952,
+Nygårdsvej 15 6823 Ansager,15,150000.0,14-08-2016,Alm.,1071,5,Villa,140,1920,-43 %
+Starupvej 1A 6823 Ansager,0,1200000.0,10-08-2016,Alm.,6382,7,Villa,188,1929,
+Søgårdsvej 45 6823 Ansager,45,385000.0,05-08-2016,Alm.,7403,3,Sommerhus,52,1977,
+Præstevangen 9 6823 Ansager,9,1460000.0,28-07-2016,Alm.,9125,5,Villa,160,1976,-2 %
+Gårdevej 22 6823 Ansager,22,583414.0,28-07-2016,Alm.,2592,6,Stuehus,225,2006,
+Søndergade 22 6823 Ansager,22,580000.0,20-07-2016,Alm.,8923,3,Villa,65,1955,-3 %
+Borgergade 22 6823 Ansager,22,189000.0,20-07-2016,Auktion,1389,3,Villa,136,1923,-45 %
+Sømosen 25 6823 Ansager,25,754474.0,01-07-2016,Andet,5350,5,Sommerhus,141,2009,-62 %
+Krogagervej 31 6823 Ansager,31,1650000.0,29-06-2016,Alm.,7081,3,Stuehus,233,1919,-8 %
+Lindegade 23 6823 Ansager,23,400000.0,18-05-2016,Alm.,4301,3,Villa,93,1934,-15 %
+Søgårdsvej 62 6823 Ansager,62,910000.0,13-05-2016,Alm.,10459,4,Sommerhus,87,2004,-9 %
+"Torvet 11, 1 6823 Ansager",1,1300000.0,19-04-2016,Alm.,13978,4,Anden beboelse,93,1963,
+H C Eskildsensvej 4 6823 Ansager,4,570000.0,08-04-2016,Alm.,4160,4,Villa,137,1961,
+Vibevej 19 6823 Ansager,19,425000.0,17-03-2016,Alm.,3601,5,Villa,118,1981,
+Syrenvej 1B 6823 Ansager,0,625000.0,04-03-2016,Alm.,4882,4,Villa,128,1987,-19 %
+Grødevej 37 6823 Ansager,37,1575000.0,29-02-2016,Alm.,8076,10,Villa,195,1938,-6 %
+Ållingvej 7 6823 Ansager,7,1350000.0,22-02-2016,Alm.,7541,5,Stuehus,179,1899,
+Borgergade 41 6823 Ansager,41,450000.0,25-01-2016,Alm.,5172,3,Villa,87,1965,-9 %
+Søknudevej 51 6823 Ansager,51,750000.0,08-01-2016,Alm.,11194,4,Sommerhus,67,1976,-6 %
+Åparken 3 6823 Ansager,3,525000.0,05-01-2016,Alm.,4233,4,Villa,124,1977,-19 %
+Søvej 38 6823 Ansager,38,650000.0,23-12-2015,Alm.,8783,2,Sommerhus,74,1982,-11 %
+Ållingvej 11 6823 Ansager,11,252744.0,08-12-2015,Andet,1805,6,Stuehus,140,1882,
+Søgårdsvej 42 6823 Ansager,42,459000.0,20-11-2015,Fam.,6750,3,Sommerhus,68,1979,
+Lærkeholtvej 4 6823 Ansager,4,1250000.0,16-11-2015,Alm.,10080,5,Stuehus,124,1910,0 %
+Borgergade 18 6823 Ansager,18,100000.0,13-11-2015,Alm.,1041,4,Villa,96,1898,
+Starupvej 21 6823 Ansager,21,1000000.0,02-11-2015,Fam.,5319,6,Villa,188,2016,
+Starupvej 6 6823 Ansager,6,412500.0,27-10-2015,Alm.,3078,5,Villa,134,1960,-21 %
+Søvej 8 6823 Ansager,8,1245000.0,26-10-2015,Alm.,8469,6,Sommerhus,147,2013,
+Skolegade 12 6823 Ansager,12,278000.0,14-10-2015,Alm.,2417,4,Villa,115,1947,-6 %
+Søgårdsvej 32C 6823 Ansager,0,1056000.0,02-10-2015,Alm.,11354,4,Sommerhus,93,2005,-8 %
+Gårdevej 27 6823 Ansager,27,1550000.0,09-09-2015,Alm.,5575,8,Stuehus,278,2001,0 %
+Egedalen 33 6823 Ansager,33,550000.0,02-09-2015,Alm.,3928,5,Villa,140,1998,
+Søknudevej 25 6823 Ansager,25,470000.0,31-08-2015,Alm.,9038,2,Sommerhus,52,1976,-5 %
+Søndergade 14 6823 Ansager,14,355000.0,20-08-2015,Fam.,2840,4,Villa,125,1928,
+Søknudevej 15 6823 Ansager,15,460000.0,26-07-2015,Alm.,8518,4,Sommerhus,54,1979,
+Gårdevej 29 6823 Ansager,29,1675000.0,19-07-2015,Alm.,10213,8,Stuehus,164,1930,-7 %
+Sømosen 63 6823 Ansager,63,1210000.0,17-07-2015,Alm.,11634,5,Sommerhus,104,2009,-13 %
+Søknudevej 49 6823 Ansager,49,450000.0,11-07-2015,Alm.,9000,3,Sommerhus,50,1979,-24 %
+Allegade 1 6823 Ansager,1,750000.0,08-07-2015,Alm.,6818,3,Villa,110,1930,-6 %
+Syrenvej 6 6823 Ansager,6,104000.0,10-06-2015,Auktion,385,9,Villa,270,1919,
+Solbakken 19 6823 Ansager,19,1250000.0,09-06-2015,Alm.,6544,6,Villa,191,1970,-3 %
+Lundvej 27 6823 Ansager,27,1195000.0,07-06-2015,Alm.,4561,8,Stuehus,262,1915,-6 %
+Kornvangen 24 6823 Ansager,24,585000.0,03-06-2015,Alm.,4717,4,Villa,124,1980,-10 %
+Solbakken 13 6823 Ansager,13,895000.0,01-06-2015,Alm.,5457,7,Villa,164,1967,0 %
+Vinkelvej 26 6823 Ansager,26,745000.0,29-05-2015,Alm.,5000,4,Villa,149,1988,-5 %
+Vejlevej 73 6823 Ansager,73,480000.0,21-05-2015,Auktion,2086,5,Stuehus,230,1923,-46 %
+Østergade 13 6823 Ansager,13,695000.0,20-05-2015,Alm.,4212,5,Villa,165,1914,0 %
+H C Eskildsensvej 2A 6823 Ansager,0,480000.0,18-05-2015,Fam.,6075,3,Villa,79,1950,
+Fredensalle 4 6823 Ansager,4,550000.0,12-05-2015,Alm.,3873,4,Villa,142,1972,-21 %
+Østergade 8 6823 Ansager,8,390000.0,06-05-2015,Fam.,5131,3,Villa,76,1958,
+Hovedgaden 3 6823 Ansager,3,90000.0,30-04-2015,Alm.,967,3,Villa,93,1911,
+Skolegade 6 6823 Ansager,6,342500.0,24-04-2015,Andet,1703,6,Villa,201,1935,
+Starupvej 33 6823 Ansager,33,3800000.0,12-04-2015,Alm.,16964,5,Stuehus,224,1984,-7 %
+Adelvej 27 6823 Ansager,27,1000000.0,24-03-2015,Alm.,5617,8,Stuehus,178,1948,-17 %
+Præstevangen 19 6823 Ansager,19,1175000.0,16-03-2015,Alm.,8392,5,Villa,140,1977,-2 %
+Tiphedevej 6 6823 Ansager,6,735000.0,16-03-2015,Alm.,9800,3,Stuehus,75,1860,-5 %
+Hovedgaden 14 6823 Ansager,14,50000.0,12-03-2015,Alm.,561,5,Villa,89,1900,-33 %
+Østre Alle 18 6823 Ansager,18,475000.0,09-03-2015,Alm.,4896,3,Villa,97,1965,
+Vestergade 1A 6823 Ansager,0,420000.0,18-02-2015,Auktion,2800,5,Villa,150,1952,-29 %
+Kvie Søvej 7 6823 Ansager,7,250000.0,18-02-2015,Alm.,1269,7,Stuehus,197,1913,
+Hoddemarkvej 18 6823 Ansager,18,949000.0,12-02-2015,Alm.,8252,6,Stuehus,115,1855,-14 %
+Østre Alle 19 6823 Ansager,19,498000.0,06-02-2015,Alm.,4788,5,Villa,104,1960,0 %
+Tyndkærvej 13 6823 Ansager,13,224000.0,15-01-2015,Alm.,1566,7,Stuehus,143,1906,
+Gartnerhaven 2 6823 Ansager,2,350000.0,15-01-2015,Alm.,2447,6,Villa,143,1951,
+Lundvej 3 6823 Ansager,3,496000.0,08-01-2015,Fam.,3306,7,Stuehus,150,1912,-50 %
+Kvievej 16 6823 Ansager,16,1288000.0,06-01-2015,Fam.,9200,6,Stuehus,140,1918,
+Græsvangen 1 6823 Ansager,1,1695000.0,19-12-2014,Andet,11452,5,Villa,148,1965,
+Mejlsbækvej 2 6823 Ansager,2,6000000.0,16-12-2014,Alm.,38961,5,Stuehus,154,1907,
+Søgårdsvej 43 6823 Ansager,43,425000.0,03-12-2014,Fam.,7727,4,Sommerhus,55,1972,
+Kvievej 72 6823 Ansager,72,2594000.0,21-11-2014,Fam.,20919,3,Stuehus,124,1947,
+Markvangen 4 6823 Ansager,4,200000.0,21-11-2014,Alm.,1204,6,Villa,166,1914,-25 %
+Gartnerhaven 3 6823 Ansager,3,675000.0,21-11-2014,Alm.,3571,9,Villa,189,1948,-25 %
+Bakkegårdsvej 2 6823 Ansager,2,325000.0,18-11-2014,Alm.,2241,5,Villa,145,1900,-24 %
+Østre Alle 9 6823 Ansager,9,510000.0,17-11-2014,Alm.,4766,4,Villa,107,1964,-24 %
+Søgårdsvej 17 6823 Ansager,17,550000.0,13-11-2014,Alm.,6875,4,Sommerhus,80,1977,
+Præstevangen 26 6823 Ansager,26,1140000.0,11-11-2014,Alm.,7755,4,Villa,147,1975,-12 %
+Hovedgaden 7 6823 Ansager,7,600000.0,05-11-2014,Alm.,4137,6,Villa,145,1938,-8 %
+Vejlevej 75 6823 Ansager,75,400000.0,03-11-2014,Alm.,1809,6,Stuehus,221,1929,
+Søvej 32 6823 Ansager,32,700000.0,30-10-2014,Alm.,7000,6,Sommerhus,100,1981,0 %
+Vibevej 11 6823 Ansager,11,725000.0,22-10-2014,Fam.,5620,4,Villa,129,1981,
+Tiphedevej 31 6823 Ansager,31,1375000.0,11-10-2014,Alm.,9417,7,Stuehus,146,1888,
+Hovedgaden 22 6823 Ansager,22,199826.0,02-10-2014,Auktion,1737,4,Villa,115,1915,-53 %
+Søgårdsvej 63 6823 Ansager,63,1140000.0,17-09-2014,Alm.,15833,4,Sommerhus,72,1999,-5 %
+H C Eskildsensvej 6 6823 Ansager,6,825000.0,15-09-2014,Alm.,4714,6,Villa,175,1960,0 %
+Søvej 5 6823 Ansager,5,800000.0,29-08-2014,Alm.,11111,4,Sommerhus,72,1976,-11 %
+Søknudevej 41 6823 Ansager,41,950000.0,15-08-2014,Alm.,13013,4,Sommerhus,73,1999,
+Åparken 21 6823 Ansager,21,575500.0,14-08-2014,Alm.,3530,5,Villa,163,1979,
+Solsortevej 1 6823 Ansager,1,305611.0,17-07-2014,Fam.,1512,6,Villa,202,1967,-68 %
+Søgårdsvej 95 6823 Ansager,95,216750.0,03-07-2014,Fam.,4168,4,Sommerhus,52,1972,
+Kornvangen 4 6823 Ansager,4,1930000.0,23-06-2014,Alm.,9103,5,Stuehus,212,2009,-3 %
+Søvej 56 6823 Ansager,56,580000.0,16-06-2014,Alm.,7733,3,Sommerhus,75,1978,-17 %
+Starupvej 16 6823 Ansager,16,500000.0,13-05-2014,Alm.,4761,3,Villa,105,1966,-13 %
+Grødevej 12 6823 Ansager,12,650000.0,03-05-2014,Alm.,5416,5,Villa,120,1895,
+Østergade 16B 6823 Ansager,0,620500.0,24-04-2014,Fam.,4496,5,Villa,138,1978,
+Søgårdsvej 32L 6823 Ansager,0,1075000.0,15-04-2014,Alm.,11559,4,Sommerhus,93,2009,-16 %
+Fårholtvej 5 6823 Ansager,5,1752123.0,15-04-2014,Alm.,8760,7,Stuehus,200,1958,
+Kornvangen 14 6823 Ansager,14,525000.0,01-04-2014,Alm.,3697,4,Villa,142,1979,-15 %
+Søknudevej 53 6823 Ansager,53,290000.0,31-03-2014,Fam.,3152,5,Sommerhus,92,1997,
+Skrænten 4 6823 Ansager,4,580000.0,21-03-2014,Alm.,4264,5,Villa,136,1960,-17 %
+Hoddemarkvej 16 6823 Ansager,16,320000.0,20-03-2014,Auktion,2539,5,Villa,126,1885,
+Egedalen 7 6823 Ansager,7,1600000.0,07-03-2014,Alm.,10810,5,Villa,148,2005,-6 %
+"Søndergade 9, 1 6823 Ansager",1,960000.0,19-02-2014,Alm.,6530,4,Anden beboelse,147,1919,
+Fredensgade 5 6823 Ansager,5,625000.0,14-02-2014,Alm.,4562,4,Villa,137,1954,-7 %
+Sønderbro 17 6823 Ansager,17,1175000.0,02-02-2014,Alm.,8901,4,Villa,132,2000,-6 %
+Starupvej 38 6823 Ansager,38,5990000.0,23-01-2014,Alm.,133111,3,Sommerhus,45,1962,
+Kærbækvej 30 6823 Ansager,30,875000.0,22-01-2014,Fam.,5794,7,Villa,151,1904,-5 %
+Vinkelvej 12 6823 Ansager,12,525000.0,18-12-2013,Alm.,9051,2,Rækkehus,58,1982,
+Sønderbro 29 6823 Ansager,29,267000.0,14-11-2013,Alm.,2542,3,Villa,105,1966,
+"Østergade 1A, ST 6823 Ansager",0,450000.0,10-11-2013,Alm.,5921,2,Lejlighed,76,2000,0 %
+Åparken 19 6823 Ansager,19,300000.0,08-11-2013,Alm.,3061,3,Villa,98,1979,-39 %
+Sønderbro 25 6823 Ansager,25,272117.0,06-11-2013,Auktion,2864,4,Villa,95,1948,-36 %
+Nørregade 10 6823 Ansager,10,500000.0,22-10-2013,Alm.,3289,6,Villa,152,1912,-9 %
+Egelunden 8 6823 Ansager,8,950000.0,18-10-2013,Alm.,9500,4,Sommerhus,100,2009,-5 %
+Sømosen 24 6823 Ansager,24,350000.0,10-10-2013,Andet,2464,5,Sommerhus,142,2014,
+Vibevej 13 6823 Ansager,13,1080000.0,09-10-2013,Alm.,4716,6,Villa,229,1980,-6 %
+Eghøjvej 3 6823 Ansager,3,225000.0,04-10-2013,Alm.,1607,5,Villa,140,1930,-43 %
+Ansagervej 5 6823 Ansager,5,165000.0,30-09-2013,Alm.,1064,5,Villa,155,1921,-54 %
+Nygårdsvej 19 6823 Ansager,19,3100000.0,25-09-2013,Alm.,12970,5,Rækkehus,239,2010,
+Lærkevej 13 6823 Ansager,13,1000000.0,17-09-2013,Alm.,8064,4,Villa,124,1973,-5 %
+Ålling Søvej 1 6823 Ansager,1,5770000.0,03-09-2013,Alm.,28994,8,Stuehus,199,1910,
+Solbakken 15 6823 Ansager,15,1270000.0,18-08-2013,Alm.,6256,5,Villa,203,1967,-2 %
+Krogagervej 19 6823 Ansager,19,350000.0,06-08-2013,Alm.,3500,4,Stuehus,100,1948,-59 %
+Skolegade 19 6823 Ansager,19,225000.0,05-08-2013,Alm.,2556,3,Rækkehus,88,1900,
+Adelvej 3 6823 Ansager,3,675000.0,02-08-2013,Alm.,2547,7,Villa,265,1914,-3 %
+Vejlevej 59 6823 Ansager,59,243000.0,29-07-2013,Alm.,1252,5,Villa,194,1802,-18 %
+Fårholtvej 7 6823 Ansager,7,3480000.0,04-07-2013,Alm.,16415,8,Stuehus,212,1890,
+Sømosen 50 6823 Ansager,50,210083.0,24-06-2013,Alm.,2917,3,Sommerhus,72,2014,
+Højbovej 3 6823 Ansager,3,1500000.0,12-06-2013,Alm.,12500,4,Stuehus,120,1906,-15 %
+Søgårdsvej 8 6823 Ansager,8,600000.0,11-06-2013,Alm.,7792,4,Sommerhus,77,1981,-24 %
+Hejrevej 11 6823 Ansager,11,192994.0,24-05-2013,Alm.,946,6,Villa,204,2015,
+Rotvigvej 2A 6823 Ansager,0,1090000.0,16-05-2013,Alm.,5589,7,Stuehus,195,1925,
+Søbredden 19 6823 Ansager,19,600000.0,15-05-2013,Auktion,9836,1,Sommerhus,61,2007,
+Søknudevej 29 6823 Ansager,29,600000.0,02-05-2013,Fam.,10344,3,Sommerhus,58,1985,
+Allegade 5 6823 Ansager,5,130000.0,20-02-2013,Auktion,1368,2,Rækkehus,95,1931,
+Allegade 13 6823 Ansager,13,175000.0,20-02-2013,Auktion,1483,4,Villa,118,1944,
+Adelvej 12 6823 Ansager,12,285448.0,19-02-2013,Alm.,2038,3,Stuehus,140,1911,
+Søgårdsvej 52 6823 Ansager,52,595000.0,28-01-2013,Alm.,11900,3,Sommerhus,50,1972,0 %
+Sønderbro 5 6823 Ansager,5,600000.0,24-01-2013,Alm.,3157,7,Villa,190,1961,
+Søgårdsvej 80 6823 Ansager,80,740000.0,19-01-2013,Alm.,10724,5,Sommerhus,69,1977,-7 %
+Borgergade 37 6823 Ansager,37,6700000.0,11-01-2013,Alm.,18457,9,Villa,363,1994,-4 %
+Kærbækvej 36 6823 Ansager,36,997500.0,31-12-2012,Fam.,6045,6,Stuehus,165,1892,
+Grønmosevej 2 6823 Ansager,2,4260000.0,12-12-2012,Alm.,26625,5,Stuehus,160,1937,
+Kornvangen 19 6823 Ansager,19,600000.0,10-12-2012,Alm.,4411,4,Villa,136,1977,-14 %
+Møllegade 10 6823 Ansager,10,495000.0,27-11-2012,Alm.,4342,6,Villa,114,1899,-4 %
+Nørre Alle 5B 6823 Ansager,0,586000.0,22-11-2012,Alm.,3329,6,Villa,176,1967,-58 %
+Fårholtvej 4 6823 Ansager,4,2850000.0,15-10-2012,Andet,15240,7,Stuehus,187,1943,
+Grødevej 35 6823 Ansager,35,648000.0,12-10-2012,Alm.,4378,4,Villa,148,1890,0 %
+Krogagervej 27 6823 Ansager,27,494300.0,09-10-2012,Alm.,4576,3,Stuehus,108,1911,
+Søvej 11 6823 Ansager,11,1050000.0,29-09-2012,Alm.,11797,4,Sommerhus,89,2005,-4 %
+Kvievej 42 6823 Ansager,42,400000.0,26-09-2012,Auktion,4000,2,Villa,100,1920,
+Kølbanken 2 6823 Ansager,2,465000.0,24-09-2012,Alm.,5224,4,Villa,89,1916,-2 %
+Søknudevej 27 6823 Ansager,27,975000.0,20-09-2012,Alm.,12037,3,Sommerhus,81,2001,-2 %
+Tiphedevej 29 6823 Ansager,29,13575000.0,06-09-2012,Alm.,113125,3,Stuehus,120,2000,
+Søknudevej 18 6823 Ansager,18,1343000.0,24-08-2012,Alm.,0,3,Sommerhus,104,1979,
+Søknudevej 12 6823 Ansager,12,1360000.0,22-08-2012,Alm.,19428,4,Sommerhus,70,1979,-8 %
+Søgårdsvej 86 6823 Ansager,86,517500.0,11-08-2012,Alm.,10147,3,Sommerhus,51,1976,
+Lærkeholtvej 10 6823 Ansager,10,950000.0,15-07-2012,Alm.,5937,6,Stuehus,160,1911,-13 %
+Præstevangen 3 6823 Ansager,3,600000.0,12-07-2012,Alm.,4444,5,Villa,135,1976,-14 %
+Søgårdsvej 65 6823 Ansager,65,985000.0,19-06-2012,Alm.,19313,4,Sommerhus,51,1995,-1 %
+Søgårdsvej 81 6823 Ansager,81,395000.0,07-06-2012,Alm.,6171,4,Sommerhus,64,1973,0 %
+Søvej 15 6823 Ansager,15,420000.0,05-06-2012,Alm.,7000,3,Sommerhus,60,1968,
+Søvej 54 6823 Ansager,54,620000.0,29-05-2012,Alm.,9117,3,Sommerhus,68,1977,-22 %
+Kvievej 43 6823 Ansager,43,900000.0,26-05-2012,Fam.,10227,3,Villa,88,1961,
+Vejlevej 56 6823 Ansager,56,950000.0,23-05-2012,Alm.,6690,5,Stuehus,142,1958,-5 %
+Søgårdsvej 37 6823 Ansager,37,815000.0,27-04-2012,Alm.,0,4,Sommerhus,77,1977,-9 %
+Søvej 26 6823 Ansager,26,612500.0,25-04-2012,Alm.,12250,2,Sommerhus,50,1978,-6 %
+Søgårdsvej 32B 6823 Ansager,0,221309.0,23-04-2012,Alm.,2258,4,Sommerhus,98,2009,
+Præstevangen 34 6823 Ansager,34,615000.0,16-04-2012,Alm.,3892,7,Villa,158,1975,
+Søknudevej 33 6823 Ansager,33,575000.0,02-04-2012,Alm.,9126,4,Sommerhus,63,1977,-15 %
+Nørregade 13 6823 Ansager,13,340000.0,26-03-2012,Fam.,2931,4,Villa,116,1895,
+Østergade 24 6823 Ansager,24,200000.0,20-03-2012,Alm.,2222,5,Villa,90,1951,-60 %
+Grødevej 33 6823 Ansager,33,7500000.0,07-03-2012,Alm.,48701,4,Stuehus,154,1959,
+Egelunden 14 6823 Ansager,14,950000.0,23-02-2012,Alm.,8119,5,Sommerhus,117,2012,-40 %
+Hovedgaden 21 6823 Ansager,21,313040.0,16-02-2012,Alm.,2675,5,Villa,117,1948,-54 %
+Østergade 21 6823 Ansager,21,190000.0,13-02-2012,Alm.,2111,4,Villa,90,1924,-55 %
+Nørregade 19 6823 Ansager,19,785000.0,09-02-2012,Fam.,6767,5,Villa,116,1900,
+Østergade 14 6823 Ansager,14,425000.0,03-02-2012,Alm.,4521,3,Villa,94,1953,-14 %
+Egelunden 1 6823 Ansager,1,1007000.0,27-01-2012,Alm.,8833,4,Sommerhus,114,2009,-40 %
+Fredensgade 6 6823 Ansager,6,820000.0,24-01-2012,Alm.,6259,7,Villa,131,1955,-6 %
+Fredensalle 5 6823 Ansager,5,600000.0,23-01-2012,Alm.,4838,4,Villa,124,1973,-6 %
+Starupvej 4 6823 Ansager,4,885000.0,30-12-2011,Alm.,6755,5,Villa,131,1928,-1 %
+Mølbyvej 16 6823 Ansager,16,2125000.0,28-11-2011,Fam.,15178,5,Stuehus,140,1904,
+Nørregade 28 6823 Ansager,28,750000.0,28-11-2011,Alm.,5859,5,Villa,128,1964,-9 %
+Solsortevej 8 6823 Ansager,8,530000.0,23-11-2011,Andet,2598,7,Villa,204,1971,
+Sønderbro 16 6823 Ansager,16,780000.0,19-11-2011,Alm.,6393,3,Villa,122,1969,-5 %
+Østergade 40A 6823 Ansager,0,450000.0,16-11-2011,Alm.,3333,3,Rækkehus,135,1980,
+Søgårdsvej 67 6823 Ansager,67,198417.0,16-11-2011,Andet,3607,3,Sommerhus,55,1979,
+Fredensgade 11 6823 Ansager,11,413447.0,08-11-2011,Andet,3758,6,Villa,110,1954,
+Søgårdsvej 72 6823 Ansager,72,493000.0,27-10-2011,Fam.,7250,4,Sommerhus,68,1970,
+Kvie Søvej 3 6823 Ansager,3,2375000.0,27-10-2011,Alm.,14221,3,Stuehus,167,1910,0 %
+Kvievej 57 6823 Ansager,57,3466250.0,20-10-2011,Alm.,24758,6,Stuehus,140,1902,
+Søvej 13 6823 Ansager,13,250000.0,11-10-2011,Fam.,5208,4,Sommerhus,48,1971,
+Sønderbro 13 6823 Ansager,13,1750000.0,02-09-2011,Alm.,10479,4,Villa,167,2000,-5 %
+Markvangen 16 6823 Ansager,16,2085000.0,09-08-2011,Alm.,20441,3,Stuehus,102,2001,
+Søgårdsvej 68 6823 Ansager,68,650000.0,04-08-2011,Alm.,8783,3,Sommerhus,74,1972,-2 %
+Kornvangen 26 6823 Ansager,26,500000.0,15-07-2011,Andet,3246,5,Villa,154,1980,
+Tværvej 1 6823 Ansager,1,400000.0,08-07-2011,Alm.,2739,6,Villa,146,1922,-6 %
+Ulknudvej 2 6823 Ansager,2,950000.0,02-07-2011,Alm.,5523,5,Stuehus,172,1925,
+Vinkelvej 10 6823 Ansager,10,680000.0,29-06-2011,Alm.,7640,3,Rækkehus,89,1980,-6 %
+Kærbækvej 32 6823 Ansager,32,2050000.0,01-06-2011,Alm.,13486,5,Stuehus,152,1925,
+Søknudevej 7 6823 Ansager,7,660000.0,28-04-2011,Alm.,11785,3,Sommerhus,56,1976,-5 %
+Mejsevej 1 6823 Ansager,1,487500.0,24-04-2011,Alm.,3558,3,Villa,137,1970,
+Skolegade 11 6823 Ansager,11,675000.0,11-04-2011,Alm.,4354,5,Villa,155,1948,-15 %
+Lundvej 20 6823 Ansager,20,745000.0,06-04-2011,Alm.,5960,5,Villa,125,1947,-6 %
+Fredensgade 2 6823 Ansager,2,900000.0,05-04-2011,Alm.,7826,5,Villa,115,1955,
+Borgergade 25 6823 Ansager,25,350000.0,22-03-2011,Alm.,2966,4,Villa,118,1902,-22 %
+Ansagervej 7 6823 Ansager,7,475000.0,18-03-2011,Alm.,4025,8,Villa,118,1919,
+Sønderbro 8 6823 Ansager,8,520000.0,28-02-2011,Alm.,7222,2,Villa,72,1946,
+Kvie Søvej 5 6823 Ansager,5,12000000.0,23-02-2011,Alm.,63157,10,Stuehus,190,1935,-37 %
+Sømosen 20 6823 Ansager,20,450000.0,22-02-2011,Alm.,3750,5,Sommerhus,120,2012,
+Søgårdsvej 53 6823 Ansager,53,625000.0,17-02-2011,Alm.,11363,3,Sommerhus,55,1974,-10 %
+Sømosen 41 6823 Ansager,41,224133.0,07-02-2011,Alm.,1266,5,Sommerhus,177,2015,
+Egelunden 11 6823 Ansager,11,1843000.0,26-01-2011,Alm.,9034,4,Sommerhus,204,2012,
+Østergade 5 6823 Ansager,5,375000.0,24-01-2011,Alm.,4464,4,Villa,84,1913,0 %
+Toftegårdsvej 2 6823 Ansager,2,1848000.0,17-01-2011,Fam.,5566,7,Stuehus,332,1920,
+Kanalvej 12 6823 Ansager,12,598500.0,17-01-2011,Fam.,3740,5,Villa,160,1932,
+Vejlevej 65 6823 Ansager,65,1147500.0,14-01-2011,Fam.,8563,6,Stuehus,134,1900,
+Hovedgaden 1 6823 Ansager,1,845000.0,12-01-2011,Alm.,3477,6,Villa,243,1911,
+Sømosen 16 6823 Ansager,16,430133.0,29-12-2010,Alm.,3094,5,Sommerhus,139,2015,-6 %
+Lindegade 5B 6823 Ansager,0,1075000.0,16-12-2010,Alm.,4714,6,Villa,228,1973,-2 %
+Bjælkager 4 6823 Ansager,4,190829.0,09-12-2010,Alm.,1192,4,Villa,160,2011,
+Søvej 3 6823 Ansager,3,425000.0,22-11-2010,Alm.,8673,3,Sommerhus,49,1971,
+Tyndkærvej 3 6823 Ansager,3,2600000.0,19-11-2010,Alm.,21666,5,Stuehus,120,1912,
+Hestkærbrovej 32 6823 Ansager,32,1280000.0,15-11-2010,Alm.,7398,7,Stuehus,173,1943,-14 %
+Sømosen 47 6823 Ansager,47,190000.0,02-11-2010,Alm.,1428,4,Sommerhus,133,2014,
+Egedalen 23 6823 Ansager,23,211382.0,06-10-2010,Alm.,1124,6,Villa,188,2011,
+Sømosen 71 6823 Ansager,71,330133.0,29-09-2010,Alm.,3028,3,Sommerhus,109,2015,
+Søgårdsvej 75 6823 Ansager,75,660000.0,28-09-2010,Alm.,13750,3,Sommerhus,48,1982,
+Søknudevej 17 6823 Ansager,17,1025000.0,23-09-2010,Alm.,12654,3,Sommerhus,81,2003,0 %
+Borgergade 10 6823 Ansager,10,425000.0,13-09-2010,Andet,3541,4,Villa,120,1900,-53 %
+Fuglebakken 7 6823 Ansager,7,445000.0,09-09-2010,Alm.,4362,3,Villa,102,1963,0 %
+Fredensgade 8 6823 Ansager,8,675000.0,24-08-2010,Alm.,4687,6,Villa,144,1954,0 %
+Grønmosevej 6 6823 Ansager,6,1175000.0,23-08-2010,Alm.,8103,4,Villa,145,1937,-9 %
+Søgårdsvej 89 6823 Ansager,89,820000.0,23-08-2010,Alm.,8631,5,Sommerhus,95,1971,-11 %
+Kærbækvej 34 6823 Ansager,34,390000.0,13-08-2010,Andet,0,5,Stuehus,87,1928,
+Søknudevej 5 6823 Ansager,5,144215.0,08-08-2010,Alm.,3204,3,Sommerhus,45,1981,
+Kvievej 51 6823 Ansager,51,1295000.0,06-08-2010,Alm.,7038,4,Villa,184,1988,-6 %
+Fuglebakken 9 6823 Ansager,9,1040000.0,02-08-2010,Alm.,7027,5,Villa,148,1971,-1 %
+Egedalen 17 6823 Ansager,17,1525000.0,15-07-2010,Alm.,8068,5,Villa,189,1998,-6 %
+Vinkelvej 6 6823 Ansager,6,567500.0,13-07-2010,Alm.,6376,3,Rækkehus,89,1980,0 %
+Kvievej 47 6823 Ansager,47,350000.0,30-06-2010,Alm.,4729,3,Villa,74,1928,-7 %
+Starupvej 14 6823 Ansager,14,551000.0,21-06-2010,Fam.,4443,4,Villa,124,1967,-51 %
+Mølbyvej 2 6823 Ansager,2,525000.0,31-05-2010,Alm.,4233,2,Villa,124,1951,
+Søknudevej 45 6823 Ansager,45,1150000.0,28-05-2010,Fam.,15972,4,Sommerhus,72,2004,
+Ansagervej 4 6823 Ansager,4,450000.0,27-05-2010,Auktion,2319,5,Villa,194,1928,
+Gårdevej 18 6823 Ansager,18,890000.0,27-05-2010,Alm.,3771,6,Stuehus,236,1867,
+Åparken 26 6823 Ansager,26,1100000.0,25-05-2010,Alm.,6707,7,Villa,164,1978,-4 %
+Grønmosevej 4 6823 Ansager,4,550000.0,25-05-2010,Alm.,2925,6,Villa,188,2011,
+Fuglebakken 4 6823 Ansager,4,625000.0,24-05-2010,Alm.,5165,4,Villa,121,1967,0 %
+Hoddemarkvej 10 6823 Ansager,10,359290.0,20-05-2010,Andet,1542,5,Villa,233,1917,
+Skolegade 7 6823 Ansager,7,440000.0,18-05-2010,Alm.,4782,3,Rækkehus,92,1914,
+Kølbanken 1 6823 Ansager,1,925000.0,12-05-2010,Alm.,6250,5,Villa,148,1914,-10 %
+Allegade 2 6823 Ansager,2,695000.0,12-05-2010,Alm.,4760,6,Villa,146,1935,0 %
+Gartnerhaven 6 6823 Ansager,6,373211.0,12-05-2010,Alm.,4013,5,Villa,93,1958,
+Lundvej 34 6823 Ansager,34,2650000.0,11-05-2010,Alm.,17666,5,Stuehus,150,1920,
+Krogagervej 1 6823 Ansager,1,323000.0,08-05-2010,Alm.,2111,6,Stuehus,153,1915,
+Åparken 13B 6823 Ansager,0,510000.0,04-05-2010,Alm.,5730,3,Rækkehus,89,1980,0 %
+Starupvej 30 6823 Ansager,30,1350000.0,29-04-2010,Alm.,6818,6,Villa,198,2013,
+Vinkelvej 20 6823 Ansager,20,1095000.0,20-04-2010,Alm.,7934,5,Villa,138,1989,0 %
+Porskærvej 7 6823 Ansager,7,279900.0,19-04-2010,Alm.,1817,6,Stuehus,154,1928,
+Egedalen 15 6823 Ansager,15,975808.0,14-04-2010,Andet,6215,5,Villa,157,2005,-55 %
+Østre Alle 17 6823 Ansager,17,1025000.0,29-03-2010,Alm.,11516,2,Villa,89,1961,0 %
+Møllegade 3 6823 Ansager,3,755000.0,29-03-2010,Alm.,6565,4,Villa,115,1906,-1 %
+Søbredden 7 6823 Ansager,7,672500.0,18-03-2010,Alm.,6004,4,Sommerhus,112,2006,
+Vinkelvej 24 6823 Ansager,24,629368.0,07-03-2010,Alm.,4495,5,Villa,140,1998,
+Hovedgaden 20 6823 Ansager,20,155000.0,02-03-2010,Auktion,1230,3,Villa,126,1907,-73 %
+Vibevej 8 6823 Ansager,8,1395000.0,15-02-2010,Alm.,10035,3,Villa,139,1980,0 %
+Østre Alle 21 6823 Ansager,21,1248000.0,20-12-2009,Alm.,12000,4,Villa,104,1962,6 %
+Fredensalle 6 6823 Ansager,6,735000.0,08-12-2009,Alm.,6336,4,Villa,116,1973,0 %
+Skovlundvej 6 6823 Ansager,6,723390.0,02-12-2009,Alm.,4988,7,Stuehus,145,1909,
+Adelvej 2 6823 Ansager,2,723390.0,02-12-2009,Alm.,2165,9,Stuehus,334,1978,
+Søndergade 13 6823 Ansager,13,795000.0,09-11-2009,Alm.,5977,6,Rækkehus,133,1984,0 %
+Nygårdsvej 2 6823 Ansager,2,80000.0,04-11-2009,Alm.,462,5,Villa,173,1910,
+Søvej 22 6823 Ansager,22,985000.0,28-10-2009,Alm.,13310,3,Sommerhus,74,2005,0 %
+Vejlevej 71 6823 Ansager,71,1075000.0,22-10-2009,Auktion,5748,8,Stuehus,187,1910,-17 %
+Kvievej 45 6823 Ansager,45,430000.0,20-09-2009,Alm.,2828,5,Villa,152,1904,-9 %
+H C Eskildsensvej 1C 6823 Ansager,0,425000.0,28-08-2009,Alm.,5059,2,Villa,84,1957,0 %
+Vejlevej 50 6823 Ansager,50,1100000.0,12-08-2009,Alm.,7692,5,Villa,143,1924,-15 %
+Østergade 6 6823 Ansager,6,340000.0,29-07-2009,Alm.,3238,4,Villa,105,1910,-20 %
+Vinkelvej 14 6823 Ansager,14,365000.0,23-07-2009,Alm.,6293,2,Rækkehus,58,1982,-3 %
+Skolegade 4 6823 Ansager,4,310000.0,21-06-2009,Alm.,2262,5,Villa,137,1928,-31 %
+Kanalvej 9 6823 Ansager,9,1775000.0,05-05-2009,Alm.,0,5,Villa,188,1963,0 %
+Starupvej 1B 6823 Ansager,0,1203968.0,01-05-2009,Alm.,7296,4,Villa,165,1976,
+Krogagervej 6 6823 Ansager,6,538768.0,23-04-2009,Fam.,3132,5,Villa,172,1917,
+Præstevangen 7 6823 Ansager,7,575000.0,14-04-2009,Andet,3885,4,Villa,148,1986,
+Ulknudvej 25 6823 Ansager,25,68724.0,31-03-2009,Alm.,587,6,Fritid,117,2005,
+Søknudevej 39 6823 Ansager,39,825000.0,27-03-2009,Alm.,15277,3,Sommerhus,54,1989,-1 %
+Porskærvej 5 6823 Ansager,5,300000.0,12-03-2009,Auktion,5000,3,Villa,60,1910,-40 %
+Ansagervej 6 6823 Ansager,6,962651.0,10-02-2009,Andet,3198,6,Villa,301,1927,
+Hestkærbrovej 12 6823 Ansager,12,1225000.0,28-01-2009,Alm.,8812,3,Villa,139,1926,0 %
+H C Eskildsensvej 1A 6823 Ansager,0,315000.0,24-01-2009,Alm.,3315,3,Villa,95,1951,
+Grødevej 29 6823 Ansager,29,2500000.0,08-01-2009,Alm.,9469,8,Stuehus,264,1932,-22 %
+Stationsvej 14A 6823 Ansager,0,450500.0,15-12-2008,Fam.,2396,3,Villa,188,1940,
+Rugvænget 13 6823 Ansager,13,1250000.0,05-12-2008,Fam.,8928,5,Villa,140,1979,
+Hovedgaden 16 6823 Ansager,16,260000.0,02-12-2008,Alm.,1925,5,Villa,135,1900,
+Grødevej 21 6823 Ansager,21,705984.0,01-12-2008,Alm.,3165,5,Villa,223,1900,
+Hovedgaden 26 6823 Ansager,26,595000.0,28-11-2008,Alm.,10084,2,Villa,59,1937,0 %
+Nygade 8 6823 Ansager,8,1035000.0,26-11-2008,Alm.,7500,6,Villa,138,1941,0 %
+Præstevangen 20 6823 Ansager,20,685000.0,20-11-2008,Alm.,6116,4,Villa,112,1974,
+Gartnerhaven 4 6823 Ansager,4,860000.0,05-11-2008,Alm.,7818,3,Villa,110,1951,
+Nørregade 16 6823 Ansager,16,217000.0,03-11-2008,Alm.,1496,3,Villa,145,1908,-45 %
+Ansagervej 13 6823 Ansager,13,380000.0,31-10-2008,Andet,4367,3,Villa,87,1930,
+Irisvej 1 6823 Ansager,1,1000000.0,28-10-2008,Andet,7092,4,Villa,141,1977,
+Tistrupvej 13 6823 Ansager,13,25287949.0,20-10-2008,Fam.,105366,6,Stuehus,240,1912,
+Adelvej 7A 6823 Ansager,0,1500000.0,20-10-2008,Fam.,4983,7,Villa,301,2009,
+Skolegade 3 6823 Ansager,3,485000.0,09-10-2008,Alm.,4008,6,Villa,121,1908,-8 %
+Søgårdsvej 69 6823 Ansager,69,974500.0,09-10-2008,Alm.,8779,4,Sommerhus,111,1978,-7 %
+Møllegade 7 6823 Ansager,7,600933.0,24-09-2008,Alm.,3664,5,Villa,164,1907,
+Søknudevej 4 6823 Ansager,4,1770000.0,18-09-2008,Alm.,13937,4,Sommerhus,127,2001,-4 %
+Østergade 43 6823 Ansager,43,590000.0,17-09-2008,Fam.,5784,4,Villa,102,1964,
+Ansagervej 11 6823 Ansager,11,735000.0,04-09-2008,Alm.,5250,3,Villa,140,1936,-1 %
+Søgårdsvej 14 6823 Ansager,14,900000.0,18-08-2008,Alm.,11538,3,Sommerhus,78,1980,
+Præstevangen 22 6823 Ansager,22,510451.0,08-08-2008,Andet,3472,5,Villa,147,1974,-53 %
+Ansagervej 15 6823 Ansager,15,725000.0,04-08-2008,Alm.,9931,3,Villa,73,1913,
+Vestergade 6 6823 Ansager,6,785000.0,03-07-2008,Alm.,5607,4,Villa,140,1932,-1 %
+Søndergade 25 6823 Ansager,25,325000.0,02-07-2008,Alm.,3385,3,Villa,96,1906,0 %
+Allegade 3 6823 Ansager,3,760000.0,30-06-2008,Alm.,0,6,Villa,195,1931,-4 %
+Fuglebakken 2A 6823 Ansager,0,660000.0,19-06-2008,Alm.,5500,4,Villa,120,1962,-26 %
+Egelunden 31 6823 Ansager,31,300000.0,02-06-2008,Alm.,3370,4,Sommerhus,89,2008,
+Søgårdsvej 23 6823 Ansager,23,340000.0,28-05-2008,Fam.,4657,4,Sommerhus,73,1981,
+Borgergade 29 6823 Ansager,29,785000.0,27-05-2008,Alm.,5946,4,Villa,132,1977,-1 %
+Ulknudvej 19 6823 Ansager,19,279900.0,27-05-2008,Alm.,1590,7,Stuehus,176,1941,
+Skrænten 2 6823 Ansager,2,1200000.0,21-05-2008,Alm.,5150,7,Villa,233,1960,
+Søknudevej 20 6823 Ansager,20,895000.0,21-05-2008,Alm.,12430,3,Sommerhus,72,1979,0 %
+Starupvej 3 6823 Ansager,3,865000.0,21-05-2008,Alm.,8917,4,Villa,97,1966,0 %
+Grønmosevej 1 6823 Ansager,1,1195000.0,12-05-2008,Alm.,5532,3,Villa,216,1909,0 %
+Sømosen 18 6823 Ansager,18,526437.0,12-05-2008,Alm.,4080,5,Sommerhus,129,2011,
+Sømosen 27 6823 Ansager,27,401437.0,11-05-2008,Alm.,3649,3,Sommerhus,110,2014,
+Sømosen 22 6823 Ansager,22,526437.0,11-05-2008,Alm.,3152,5,Sommerhus,167,2013,
+Søndergade 17 6823 Ansager,17,695000.0,02-05-2008,Alm.,6096,4,Villa,114,1943,0 %
+Kvievej 18 6823 Ansager,18,3033960.0,30-04-2008,Alm.,16855,8,Stuehus,180,1911,
+Solbakken 23 6823 Ansager,23,875000.0,28-04-2008,Alm.,5116,6,Villa,171,1972,
+Adelvej 25 6823 Ansager,25,1465000.0,24-04-2008,Alm.,6910,5,Villa,212,1910,-2 %
+Egedalen 29 6823 Ansager,29,212540.0,24-04-2008,Alm.,1328,5,Villa,160,2010,
+Parkvænget 15 6823 Ansager,15,1287000.0,23-04-2008,Alm.,7993,5,Villa,161,1987,
+Søgårdsvej 36 6823 Ansager,36,1195000.0,20-04-2008,Alm.,16148,4,Sommerhus,74,2000,0 %
+Adelvej 14 6823 Ansager,14,2100000.0,20-04-2008,Alm.,12000,7,Villa,175,1860,
+Kvievej 40 6823 Ansager,40,1045000.0,02-04-2008,Alm.,5971,6,Villa,175,1957,0 %
+Nygade 5 6823 Ansager,5,540000.0,10-03-2008,Alm.,4821,3,Villa,112,1941,-10 %
+Hovedgaden 17 6823 Ansager,17,357000.0,01-03-2008,Alm.,4697,4,Villa,76,1936,
+Tyndkærvej 5 6823 Ansager,5,1057000.0,22-02-2008,Alm.,6254,5,Villa,169,1936,-3 %
+Egedalen 25 6823 Ansager,25,206923.0,19-02-2008,Alm.,1175,5,Villa,176,2009,
+Kølbanken 3 6823 Ansager,3,1070000.0,18-02-2008,Alm.,7229,6,Villa,148,1913,0 %
+Søgårdsvej 74 6823 Ansager,74,800000.0,14-02-2008,Alm.,13333,4,Sommerhus,60,1972,-6 %
+Kornvangen 10B 6823 Ansager,0,645000.0,08-02-2008,Alm.,6084,3,Rækkehus,106,1981,-2 %
+Borgergade 11 6823 Ansager,11,1050000.0,08-02-2008,Alm.,7446,4,Villa,141,1900,-4 %
+Holtgårdvej 7 6823 Ansager,7,80000.0,04-02-2008,Alm.,437,6,Stuehus,183,1909,
+Østre Alle 10 6823 Ansager,10,1648000.0,31-01-2008,Alm.,9581,7,Villa,172,1968,0 %
+Møllegade 8 6823 Ansager,8,250000.0,30-01-2008,Alm.,2688,2,Villa,93,1926,-15 %
+Søbredden 13 6823 Ansager,13,715050.0,28-01-2008,Alm.,6875,5,Sommerhus,104,2007,
+Borgergade 33 6823 Ansager,33,475000.0,23-01-2008,Alm.,6785,2,Villa,70,1958,
+Solbakken 12 6823 Ansager,12,825000.0,17-01-2008,Alm.,5221,5,Villa,158,1965,-3 %
+Starupvej 18 6823 Ansager,18,675000.0,10-01-2008,Alm.,6136,4,Villa,110,1969,
+Skovlundvej 3 6823 Ansager,3,4150000.0,07-01-2008,Alm.,15601,4,Stuehus,266,1923,
+Kvievej 74 6823 Ansager,74,2344626.0,03-01-2008,Alm.,20566,6,Stuehus,114,1933,
+Kvievej 76 6823 Ansager,76,1978326.0,03-01-2008,Alm.,18841,5,Stuehus,105,1931,
+Tiphedevej 24 6823 Ansager,24,4500000.0,02-01-2008,Alm.,25000,8,Stuehus,180,1891,
+"Nørregade 3, 1 6823 Ansager",1,430000.0,18-12-2007,Alm.,2965,7,Anden beboelse,145,1900,
+Starupvej 36 6823 Ansager,36,1200000.0,13-12-2007,Fam.,6122,6,Stuehus,196,1925,
+Skolegade 15 6823 Ansager,15,548000.0,06-12-2007,Alm.,5372,3,Rækkehus,102,1913,0 %
+Åvænget 3 6823 Ansager,3,620000.0,03-12-2007,Alm.,7750,3,Villa,80,1964,0 %
+Fredensgade 13 6823 Ansager,13,540000.0,30-11-2007,Alm.,5869,2,Villa,92,1950,-2 %
+Kvievej 14 6823 Ansager,14,945000.0,29-11-2007,Alm.,5869,5,Villa,161,1890,0 %
+Solbakken 11 6823 Ansager,11,395000.0,27-11-2007,Alm.,4340,3,Villa,91,1967,-12 %
+Søgårdsvej 93 6823 Ansager,93,785000.0,18-10-2007,Alm.,0,4,Sommerhus,71,1972,
+Kvievej 62 6823 Ansager,62,695000.0,12-10-2007,Alm.,4760,6,Villa,146,1929,0 %
+Mølbyvej 15 6823 Ansager,15,2500000.0,03-10-2007,Alm.,27173,3,Stuehus,92,1938,
+Åparken 15 6823 Ansager,15,770000.0,02-10-2007,Alm.,6209,4,Villa,124,1979,-3 %
+Hestkærbrovej 48 6823 Ansager,48,1095000.0,28-09-2007,Alm.,8295,4,Villa,132,1924,
+Søgårdsvej 9 6823 Ansager,9,1460000.0,26-09-2007,Alm.,17176,3,Sommerhus,85,2006,0 %
+Søgårdsvej 66 6823 Ansager,66,950000.0,24-09-2007,Alm.,12837,5,Sommerhus,74,1974,
+Sønderbro 43 6823 Ansager,43,3200000.0,21-09-2007,Alm.,16666,6,Stuehus,192,1931,
+Tistrupvej 18 6823 Ansager,18,575000.0,05-09-2007,Alm.,5133,5,Stuehus,112,1906,-4 %
+Græsvangen 3 6823 Ansager,3,390000.0,03-09-2007,Alm.,0,4,Villa,110,1961,-13 %
+Sønderbro 34 6823 Ansager,34,1685000.0,29-08-2007,Alm.,0,6,Stuehus,249,1909,0 %
+Havrevænget 1 6823 Ansager,1,475000.0,28-08-2007,Alm.,3392,4,Villa,140,1932,-14 %
+Kvievej 41 6823 Ansager,41,650000.0,18-08-2007,Alm.,6372,3,Villa,102,1952,0 %
+Søgårdsvej 25 6823 Ansager,25,635000.0,30-07-2007,Alm.,6978,3,Sommerhus,91,1977,-9 %
+Kvievej 59 6823 Ansager,59,1095000.0,13-07-2007,Alm.,8975,4,Villa,122,1950,0 %
+Kærbækvej 15 6823 Ansager,15,1175000.0,13-07-2007,Alm.,4875,11,Stuehus,241,1983,9 %
+Vestergade 4 6823 Ansager,4,905000.0,29-06-2007,Alm.,5027,3,Villa,180,1932,
+Søgårdsvej 11 6823 Ansager,11,812500.0,28-06-2007,Alm.,9672,4,Sommerhus,84,1977,0 %
+Fredensalle 1 6823 Ansager,1,700000.0,26-06-2007,Alm.,4895,5,Villa,143,1974,
+Vejlevej 77 6823 Ansager,77,1290000.0,18-06-2007,Alm.,6084,8,Stuehus,212,1909,4 %
+Markvangen 14 6823 Ansager,14,3000000.0,15-06-2007,Fam.,20689,4,Stuehus,145,1906,
+Hovedgaden 13 6823 Ansager,13,300000.0,09-06-2007,Alm.,1898,7,Villa,158,1919,-20 %
+Hovedgaden 18 6823 Ansager,18,625000.0,08-06-2007,Alm.,4401,5,Villa,142,1909,-4 %
+Kvievej 52 6823 Ansager,52,665000.0,07-06-2007,Fam.,5541,3,Villa,120,1966,
+Vibevej 14 6823 Ansager,14,1100000.0,07-06-2007,Alm.,8270,4,Villa,133,1987,-8 %
+Søvej 9 6823 Ansager,9,745000.0,06-05-2007,Alm.,10642,4,Sommerhus,70,1973,
+Skolegade 9 6823 Ansager,9,715000.0,25-04-2007,Alm.,5542,4,Villa,129,1941,-4 %
+Kornvangen 31 6823 Ansager,31,1095000.0,24-04-2007,Alm.,7500,6,Villa,146,1980,0 %
+Søgårdsvej 32K 6823 Ansager,0,1377000.0,21-04-2007,Alm.,14806,4,Sommerhus,93,2007,6 %
+Østergade 20 6823 Ansager,20,570000.0,20-04-2007,Alm.,9500,2,Villa,60,1951,
+Adelvej 13 6823 Ansager,13,617050.0,16-04-2007,Alm.,3264,7,Stuehus,189,1876,
+Tyndkærvej 8 6823 Ansager,8,372960.0,16-04-2007,Alm.,2486,7,Stuehus,150,1922,
+Allegade 4 6823 Ansager,4,346261.0,12-04-2007,Andet,3119,5,Villa,111,1930,
+Solsortevej 9 6823 Ansager,9,725000.0,02-03-2007,Alm.,5576,5,Villa,130,1969,-3 %
+Lundvej 10 6823 Ansager,10,480000.0,28-02-2007,Alm.,4137,3,Villa,116,1961,
+Lundvej 7 6823 Ansager,7,725000.0,31-01-2007,Alm.,5000,5,Villa,145,1931,0 %
+Tiphedevej 33 6823 Ansager,33,2050000.0,29-01-2007,Alm.,17672,5,Villa,116,1958,-7 %
+Rolighedsvej 1 6823 Ansager,1,750000.0,25-01-2007,Alm.,4237,5,Villa,177,1920,-3 %
+Søgårdsvej 79 6823 Ansager,79,745000.0,23-01-2007,Alm.,12627,3,Sommerhus,59,1987,-5 %
+Borgergade 23B 6823 Ansager,0,605000.0,18-01-2007,Alm.,5654,5,Villa,107,1935,
+Tistrupvej 9 6823 Ansager,9,30000.0,11-01-2007,Alm.,109,7,Stuehus,275,1898,
+Tiphedevej 9 6823 Ansager,9,850000.0,06-01-2007,Alm.,3541,6,Stuehus,240,1930,
+Kølbanken 12A 6823 Ansager,0,560000.0,05-01-2007,Alm.,6436,3,Villa,87,1968,-6 %
+Kornvangen 8 6823 Ansager,8,400000.0,25-12-2006,Alm.,5333,3,Rækkehus,75,1981,
+Fredensalle 2 6823 Ansager,2,710000.0,11-12-2006,Alm.,6120,3,Villa,116,1973,
+Ansagervej 9 6823 Ansager,9,375000.0,24-10-2006,Alm.,2678,6,Villa,140,1935,
+"Doktorvej 4, 1 6823 Ansager",1,820000.0,23-10-2006,Alm.,7454,4,Lejlighed,110,1932,
+"Østergade 9, ST 6823 Ansager",0,725000.0,23-10-2006,Fam.,4264,4,Villa,170,1908,
+Solbakken 10 6823 Ansager,10,347500.0,12-10-2006,Alm.,3475,4,Villa,100,1963,
+Tiphedevej 4 6823 Ansager,4,586485.0,10-10-2006,Alm.,3833,6,Stuehus,153,1965,
+Egedalen 13 6823 Ansager,13,168766.0,04-10-2006,Alm.,1250,5,Villa,135,2007,
+Søvej 4 6823 Ansager,4,190000.0,03-10-2006,Alm.,2289,4,Sommerhus,83,2010,
+Østre Alle 5 6823 Ansager,5,740000.0,29-09-2006,Alm.,5211,5,Villa,142,1965,
+Bjælkager 3 6823 Ansager,3,192189.0,28-09-2006,Alm.,1085,6,Villa,177,2008,
+Møllegade 4 6823 Ansager,4,550000.0,25-09-2006,Alm.,2972,7,Villa,185,1900,
+Østergade 44B 6823 Ansager,0,912500.0,21-09-2006,Alm.,6471,4,Villa,141,1978,
+Kornvangen 20 6823 Ansager,20,1170000.0,01-09-2006,Alm.,6062,8,Villa,193,1978,
+Søvej 50 6823 Ansager,50,760000.0,25-08-2006,Alm.,10270,4,Sommerhus,74,1979,
+Skovlundvej 4 6823 Ansager,4,1100000.0,24-08-2006,Alm.,5339,7,Stuehus,206,1910,
+Mølgårdvej 24 6823 Ansager,24,447500.0,23-08-2006,Alm.,1834,0,Villa,244,1919,
+Skolegade 13 6823 Ansager,13,375000.0,07-08-2006,Alm.,5859,2,Rækkehus,64,1915,
+Vibevej 4 6823 Ansager,4,1275000.0,07-08-2006,Alm.,9172,5,Villa,139,1996,
+Søgårdsvej 18 6823 Ansager,18,830000.0,05-08-2006,Alm.,9880,3,Sommerhus,84,1979,
+Hovedgaden 24 6823 Ansager,24,340000.0,03-08-2006,Alm.,2222,3,Villa,153,1920,
+Nørregade 11 6823 Ansager,11,1000000.0,25-07-2006,Alm.,7142,5,Villa,140,1925,
+Syrenvej 11 6823 Ansager,11,850000.0,18-07-2006,Alm.,6028,3,Villa,141,1980,
+Fredensgade 3 6823 Ansager,3,483000.0,07-07-2006,Fam.,4274,3,Villa,113,1946,
+Stationsvej 18 6823 Ansager,18,150000.0,07-07-2006,Alm.,3000,3,Villa,50,1932,
+Søbredden 9 6823 Ansager,9,295000.0,26-06-2006,Alm.,2587,4,Sommerhus,114,2010,
+Åparken 6 6823 Ansager,6,960000.0,19-06-2006,Alm.,6760,6,Villa,142,1978,
+Lindegade 10 6823 Ansager,10,645000.0,10-06-2006,Alm.,5330,6,Villa,121,1928,
+Præstegårdsvej 15 6823 Ansager,15,1430000.0,06-06-2006,Alm.,4281,10,Villa,334,1916,
+Parkvænget 3 6823 Ansager,3,730000.0,06-06-2006,Alm.,6403,4,Villa,114,1986,
+Mølbyvej 11 6823 Ansager,11,1150000.0,16-05-2006,Alm.,11165,6,Stuehus,103,1890,
+Tyndkærvej 9 6823 Ansager,9,4575000.0,09-05-2006,Fam.,19719,7,Stuehus,232,1936,
+Kvievej 10 6823 Ansager,10,150000.0,28-04-2006,Alm.,819,5,Villa,183,2015,
+Højbovej 2 6823 Ansager,2,137100.0,19-04-2006,Alm.,678,5,Stuehus,202,1912,
+Sønderbro 27 6823 Ansager,27,335000.0,11-04-2006,Alm.,2745,4,Villa,122,1949,
+Præstevangen 10 6823 Ansager,10,500000.0,09-04-2006,Alm.,5434,3,Villa,92,1975,
+Sønderbro 39 6823 Ansager,39,610000.0,22-03-2006,Alm.,3050,6,Stuehus,200,2009,
+Vibevej 6 6823 Ansager,6,855000.0,16-03-2006,Alm.,6576,4,Villa,130,1987,
+Solbakken 2A 6823 Ansager,0,299000.0,10-03-2006,Alm.,2768,4,Villa,108,1923,
+Vejlevej 64 6823 Ansager,64,1300000.0,06-03-2006,Alm.,9027,5,Stuehus,144,1897,
+Søbredden 4 6823 Ansager,4,380000.0,10-02-2006,Alm.,4470,3,Sommerhus,85,2010,
+Fredensgade 9 6823 Ansager,9,348000.0,10-02-2006,Alm.,4142,3,Villa,84,1949,
+Krogagervej 39 6823 Ansager,39,570000.0,09-02-2006,Alm.,3562,5,Villa,160,2007,
+Søbredden 33 6823 Ansager,33,325000.0,09-02-2006,Alm.,3217,4,Sommerhus,101,2007,
+Præstevangen 23 6823 Ansager,23,675000.0,09-02-2006,Alm.,3947,7,Villa,171,1976,
+Egedalen 19 6823 Ansager,19,166436.0,01-02-2006,Alm.,1364,4,Villa,122,2007,
+Søbredden 1 6823 Ansager,1,295000.0,01-02-2006,Alm.,2706,4,Sommerhus,109,2009,
+Bjælkager 10 6823 Ansager,10,219696.0,01-02-2006,Alm.,1515,1,Villa,145,2007,
+Søbredden 29 6823 Ansager,29,308000.0,31-01-2006,Alm.,2825,3,Sommerhus,109,2007,
+Søbredden 27 6823 Ansager,27,305000.0,31-01-2006,Alm.,2798,4,Sommerhus,109,2009,
+Søbredden 25 6823 Ansager,25,307000.0,31-01-2006,Alm.,2842,4,Sommerhus,108,2009,
+Søknudevej 9 6823 Ansager,9,400000.0,28-01-2006,Alm.,7843,3,Sommerhus,51,1976,
+Søbredden 8 6823 Ansager,8,380000.0,26-01-2006,Alm.,3220,4,Sommerhus,118,2009,
+Søbredden 2 6823 Ansager,2,380000.0,26-01-2006,Alm.,2483,6,Sommerhus,153,2014,
+Fårholtvej 9 6823 Ansager,9,600000.0,13-01-2006,Alm.,3125,5,Stuehus,192,1930,
+Solsortevej 6 6823 Ansager,6,630000.0,21-12-2005,Alm.,5163,4,Villa,122,1969,
+Søknudevej 10 6823 Ansager,10,1100000.0,19-12-2005,Alm.,13253,4,Sommerhus,83,1977,
+Starupvej 12 6823 Ansager,12,330000.0,16-12-2005,Alm.,4852,3,Villa,68,1959,
+Hoddeskovvej 9 6823 Ansager,9,480000.0,12-12-2005,Andet,3840,5,Villa,125,1890,
+Grødevej 1 6823 Ansager,1,650000.0,06-12-2005,Alm.,0,6,Villa,163,1930,
+Hoddemarkvej 6 6823 Ansager,6,547263.0,01-12-2005,Alm.,6515,3,Villa,84,1930,
+Egedalen 6 6823 Ansager,6,191880.0,20-10-2005,Alm.,1360,5,Villa,141,2006,
+Søgårdsvej 26 6823 Ansager,26,700000.0,14-10-2005,Alm.,0,4,Sommerhus,74,1981,
+Søgårdsvej 47 6823 Ansager,47,810000.0,05-10-2005,Alm.,11408,3,Sommerhus,71,1972,
+Søgårdsvej 5 6823 Ansager,5,765000.0,29-09-2005,Alm.,11086,4,Sommerhus,69,1977,
+Østergade 34 6823 Ansager,34,685000.0,29-09-2005,Alm.,5524,5,Villa,124,1976,
+Syrenvej 4 6823 Ansager,4,400000.0,16-09-2005,Alm.,3508,4,Villa,114,1934,
+Mølbyvej 20 6823 Ansager,20,880000.0,16-09-2005,Alm.,5116,5,Villa,172,1920,
+Hovedgaden 25 6823 Ansager,25,484375.0,10-09-2005,Fam.,4843,2,Villa,100,1942,
+Frifeltvej 12 6823 Ansager,12,3100000.0,01-09-2005,Fam.,18902,6,Stuehus,164,1876,
+Søknudevej 13 6823 Ansager,13,600000.0,12-08-2005,Alm.,0,5,Sommerhus,99,1976,
+Søbredden 31 6823 Ansager,31,270000.0,27-07-2005,Alm.,2389,4,Sommerhus,113,2014,
+Sønderbro 2 6823 Ansager,2,500000.0,22-07-2005,Alm.,5555,4,Villa,90,1961,
+Søgårdsvej 34 6823 Ansager,34,550000.0,14-07-2005,Alm.,9166,4,Sommerhus,60,1971,
+Søgårdsvej 40 6823 Ansager,40,635000.0,12-07-2005,Alm.,12700,3,Sommerhus,50,1979,
+Søgårdsvej 32G 6823 Ansager,0,235000.0,09-07-2005,Alm.,2422,4,Sommerhus,97,2009,
+Østergade 7 6823 Ansager,7,688000.0,25-06-2005,Alm.,4246,4,Villa,162,1914,
+Ållingvej 1 6823 Ansager,1,980000.0,24-06-2005,Alm.,6853,5,Stuehus,143,1931,
+Søgårdsvej 32D 6823 Ansager,0,235000.0,17-06-2005,Alm.,2397,4,Sommerhus,98,2007,
+Søgårdsvej 32E 6823 Ansager,0,220000.0,17-06-2005,Alm.,0,3,Sommerhus,69,2006,
+Skovlundvej 11 6823 Ansager,11,116098.0,16-06-2005,Alm.,921,5,Stuehus,126,1902,
+Søgårdsvej 64 6823 Ansager,64,605000.0,15-06-2005,Alm.,0,4,Sommerhus,75,1973,
+Søgårdsvej 32 6823 Ansager,32,650000.0,01-06-2005,Alm.,8227,5,Sommerhus,79,1976,
+"Søndergade 2, 1 6823 Ansager",1,3150000.0,27-05-2005,Alm.,196875,1,Lejlighed,16,1907,
+Hoddeskovvej 11 6823 Ansager,11,400000.0,24-05-2005,Alm.,0,11,Stuehus,225,1941,
+Søgårdsvej 41 6823 Ansager,41,825000.0,23-05-2005,Alm.,7500,4,Sommerhus,110,1971,
+Kærbækvej 44 6823 Ansager,44,1365000.0,18-05-2005,Alm.,0,4,Stuehus,165,1910,
+Søgårdsvej 97 6823 Ansager,97,1175000.0,13-05-2005,Alm.,9631,5,Sommerhus,122,1999,
+Krogagervej 12 6823 Ansager,12,450000.0,07-05-2005,Alm.,6000,3,Sommerhus,75,1961,
+Krogagervej 37 6823 Ansager,37,655000.0,26-04-2005,Alm.,5117,4,Stuehus,128,1910,
+Ållingvej 3 6823 Ansager,3,416000.0,21-04-2005,Fam.,1691,2,Stuehus,246,1885,
+Kvievej 23 6823 Ansager,23,700000.0,16-04-2005,Alm.,3181,6,Stuehus,220,1935,
+Mellemvej 3 6823 Ansager,3,142625.0,09-04-2005,Alm.,1072,4,Villa,133,2009,
+Solbakken 9 6823 Ansager,9,495000.0,07-04-2005,Alm.,3991,4,Villa,124,1966,
+Starupvej 37 6823 Ansager,37,2251000.0,17-03-2005,Alm.,83370,3,Sommerhus,27,1960,
+Kærbækvej 19 6823 Ansager,19,1098000.0,15-03-2005,Alm.,5935,5,Villa,185,1906,
+Tistrupvej 5 6823 Ansager,5,850000.0,11-03-2005,Alm.,5151,3,Stuehus,165,1870,
+Hovedgaden 11 6823 Ansager,11,520000.0,01-03-2005,Alm.,3851,6,Villa,135,1935,
+Nygade 6 6823 Ansager,6,795000.0,26-02-2005,Alm.,5300,5,Villa,150,1941,
+Lærkevej 5 6823 Ansager,5,1799999.0,21-02-2005,Fam.,7563,7,Villa,238,1969,
+Søgårdsvej 73 6823 Ansager,73,220000.0,27-01-2005,Alm.,2244,2,Sommerhus,98,2006,
+Ålling Søvej 4 6823 Ansager,4,2710000.0,19-01-2005,Fam.,25566,5,Stuehus,106,1925,
+Eghøjvej 7 6823 Ansager,7,1155000.0,11-01-2005,Alm.,9094,6,Stuehus,127,1923,
+Søbredden 6 6823 Ansager,6,380000.0,10-01-2005,Alm.,2602,4,Sommerhus,146,2009,
+Gårdevej 23 6823 Ansager,23,6409249.0,07-01-2005,Alm.,32046,6,Stuehus,200,1914,
+Mølgårdvej 22 6823 Ansager,22,1841000.0,26-12-2004,Alm.,0,3,Stuehus,223,1927,
+Nørregade 30 6823 Ansager,30,755000.0,18-11-2004,Alm.,5431,6,Villa,139,1966,
+Åvænget 1 6823 Ansager,1,580000.0,16-11-2004,Alm.,6516,3,Villa,89,1961,
+Sønderbro 7 6823 Ansager,7,540000.0,05-11-2004,Alm.,6067,3,Villa,89,1959,
+Præstevangen 6 6823 Ansager,6,765000.0,02-11-2004,Alm.,4935,3,Villa,155,1978,
+Søvej 14 6823 Ansager,14,225000.0,29-10-2004,Alm.,2045,3,Sommerhus,110,2006,
+Tyndkærvej 7 6823 Ansager,7,2180000.0,07-10-2004,Alm.,13132,5,Stuehus,166,1876,
+Søknudevej 1 6823 Ansager,1,730000.0,28-07-2004,Alm.,8690,4,Sommerhus,84,1989,
+Kvievej 36 6823 Ansager,36,540000.0,05-07-2004,Alm.,5046,3,Villa,107,1969,
+Skolegade 5 6823 Ansager,5,289448.0,01-07-2004,Alm.,2584,4,Rækkehus,112,1947,
+Fredensgade 7 6823 Ansager,7,440000.0,28-06-2004,Alm.,4000,7,Villa,110,1954,
+Hovedgaden 6 6823 Ansager,6,525000.0,18-06-2004,Alm.,4525,5,Villa,116,1915,
+Østergade 26 6823 Ansager,26,670000.0,17-06-2004,Alm.,7362,4,Villa,91,1953,
+Hovedgaden 19 6823 Ansager,19,250000.0,17-06-2004,Fam.,1984,4,Villa,126,1940,
+Søgårdsvej 13 6823 Ansager,13,750000.0,15-06-2004,Alm.,9740,4,Sommerhus,77,1994,
+Søndergade 10 6823 Ansager,10,1075000.0,27-05-2004,Alm.,0,8,Villa,180,1917,
+Fredensgade 1 6823 Ansager,1,495000.0,30-04-2004,Alm.,4852,4,Villa,102,1953,
+Østergade 42 6823 Ansager,42,925000.0,23-04-2004,Alm.,5538,6,Villa,167,1977,
+Rugvænget 1 6823 Ansager,1,725000.0,22-04-2004,Alm.,4865,5,Villa,149,1979,
+Solbakken 22 6823 Ansager,22,740000.0,20-04-2004,Alm.,5103,5,Villa,145,1971,
+Borgergade 23A 6823 Ansager,0,660000.0,17-04-2004,Alm.,4647,3,Villa,142,1913,
+Søgårdsvej 61 6823 Ansager,61,1200000.0,16-04-2004,Alm.,11764,5,Sommerhus,102,1997,
+Præstegårdsvej 7E 6823 Ansager,0,320000.0,07-04-2004,Fam.,4705,2,Rækkehus,68,1978,
+Markvangen 9 6823 Ansager,9,1537960.0,01-04-2004,Alm.,7767,6,Stuehus,198,1920,
+Åparken 24 6823 Ansager,24,535500.0,29-03-2004,Fam.,4250,4,Villa,126,1977,
+Østergade 23 6823 Ansager,23,250000.0,10-03-2004,Alm.,2500,1,Villa,100,1925,
+Ansagervej 16 6823 Ansager,16,640000.0,10-03-2004,Alm.,4050,6,Villa,158,1940,
+H C Eskildsensvej 5 6823 Ansager,5,1173800.0,05-03-2004,Alm.,7877,6,Stuehus,149,1910,
+Kvievej 2 6823 Ansager,2,390627.0,10-02-2004,Alm.,1869,7,Villa,209,1927,
+Vestergade 8 6823 Ansager,8,775000.0,02-02-2004,Alm.,3571,9,Villa,217,1930,
+Rotvigvej 1 6823 Ansager,1,900202.0,01-02-2004,Alm.,6251,5,Stuehus,144,1901,
+Adelvej 6 6823 Ansager,6,2506175.0,26-01-2004,Alm.,11089,5,Stuehus,226,1909,
+Mellemvej 1 6823 Ansager,1,159640.0,09-01-2004,Alm.,1191,4,Villa,134,2004,
+Søndergade 24 6823 Ansager,24,1200000.0,19-12-2003,Alm.,7407,3,Villa,162,1981,
+Lindegade 11 6823 Ansager,11,320000.0,10-12-2003,Alm.,2857,4,Villa,112,1923,
+Ansagervej 20 6823 Ansager,20,745000.0,24-10-2003,Alm.,4331,5,Villa,172,1961,
+Østergade 46 6823 Ansager,46,565000.0,20-10-2003,Alm.,4154,4,Villa,136,1967,
+Kvievej 24 6823 Ansager,24,170000.0,10-10-2003,Alm.,1349,5,Stuehus,126,1910,
+Fredensgade 10 6823 Ansager,10,380000.0,29-09-2003,Alm.,5428,3,Villa,70,1951,
+Søgårdsvej 99 6823 Ansager,99,530000.0,26-09-2003,Alm.,8548,3,Sommerhus,62,1972,
+Søknudevej 26 6823 Ansager,26,557325.0,17-09-2003,Alm.,9952,4,Sommerhus,56,1977,
+Østre Alle 14 6823 Ansager,14,490000.0,08-09-2003,Alm.,4016,4,Villa,122,1961,
+Præstegårdsvej 7B 6823 Ansager,0,355000.0,07-09-2003,Alm.,5220,2,Rækkehus,68,1978,
+Egedalen 4 6823 Ansager,4,221485.0,05-09-2003,Alm.,1310,5,Villa,169,2004,
+Frifeltvej 7 6823 Ansager,7,875000.0,02-09-2003,Alm.,4127,6,Stuehus,212,1905,
+Græsvangen 24 6823 Ansager,24,500000.0,27-08-2003,Alm.,4545,4,Villa,110,1966,
+Tiphedevej 8 6823 Ansager,8,368103.0,23-08-2003,Andet,0,9,Villa,216,1888,
+Søgårdsvej 60 6823 Ansager,60,496000.0,07-08-2003,Alm.,8857,3,Sommerhus,56,1976,
+Adelvej 15 6823 Ansager,15,2900000.0,05-08-2003,Alm.,14720,8,Stuehus,197,1877,
+Havrevænget 8 6823 Ansager,8,185000.0,25-06-2003,Alm.,3245,2,Villa,57,1949,
+Præstevangen 40 6823 Ansager,40,725000.0,20-06-2003,Alm.,5105,5,Villa,142,1978,
+Søgårdsvej 39 6823 Ansager,39,368000.0,12-06-2003,Alm.,7360,3,Sommerhus,50,1972,
+Vejlevej 62 6823 Ansager,62,950000.0,11-06-2003,Alm.,4059,6,Villa,234,1932,
+Vibevej 33 6823 Ansager,33,800000.0,09-05-2003,Alm.,6060,4,Villa,132,1981,
+Søvej 42 6823 Ansager,42,775000.0,30-04-2003,Alm.,10763,3,Sommerhus,72,2001,
+Kærbækvej 38 6823 Ansager,38,2500000.0,22-04-2003,Alm.,11261,7,Stuehus,222,1991,
+Kvievej 33 6823 Ansager,33,277554.0,29-03-2003,Alm.,0,4,Villa,122,1975,
+Lundvej 4 6823 Ansager,4,205000.0,26-03-2003,Alm.,1067,7,Villa,192,1915,
+Lindegade 7B 6823 Ansager,0,1125000.0,06-03-2003,Alm.,7812,4,Villa,144,1973,
+Kornvangen 2 6823 Ansager,2,1300000.0,05-03-2003,Alm.,7738,5,Villa,168,1987,
+Søgårdsvej 16 6823 Ansager,16,685000.0,25-02-2003,Alm.,12454,2,Sommerhus,55,2002,
+Østergade 22 6823 Ansager,22,520000.0,07-02-2003,Alm.,0,3,Villa,129,1951,
+Tiphedevej 20 6823 Ansager,20,44900.0,05-02-2003,Alm.,217,6,Stuehus,206,1927,
+Nørregade 7 6823 Ansager,7,300000.0,18-12-2002,Alm.,3370,2,Villa,89,1900,
+Hestkærvej 23 6823 Ansager,23,1650000.0,16-12-2002,Alm.,10185,8,Stuehus,162,1928,
+Præstegårdsvej 7C 6823 Ansager,0,375000.0,02-12-2002,Alm.,5514,2,Rækkehus,68,1978,
+Fårholtvej 3 6823 Ansager,3,70000.0,30-10-2002,Alm.,560,5,Stuehus,125,1953,
+Parkvænget 1 6823 Ansager,1,86068.0,24-10-2002,Alm.,470,6,Villa,183,2003,
+Allegade 14 6823 Ansager,14,350000.0,19-10-2002,Alm.,4069,3,Villa,86,1961,
+Ulknudvej 18 6823 Ansager,18,2200000.0,11-10-2002,Alm.,11340,4,Stuehus,194,1930,
+Vejlevej 58 6823 Ansager,58,5700000.0,03-10-2002,Alm.,36075,7,Stuehus,158,1860,
+Syrenvej 7 6823 Ansager,7,800000.0,02-10-2002,Alm.,5263,5,Villa,152,1976,
+Lindegade 7A 6823 Ansager,0,1150000.0,25-09-2002,Fam.,5867,6,Villa,196,1912,
+Lindegade 29 6823 Ansager,29,194311.0,25-09-2002,Andet,1605,5,Villa,121,1915,
+Hoddeskovvej 6 6823 Ansager,6,595000.0,18-09-2002,Alm.,4103,8,Stuehus,145,1912,
+Søgårdsvej 54 6823 Ansager,54,543100.0,15-09-2002,Alm.,8620,4,Sommerhus,63,1971,
+Rødsandvej 7 6823 Ansager,7,220000.0,07-09-2002,Alm.,1111,3,Stuehus,198,1941,
+Ansagervej 26 6823 Ansager,26,837500.0,03-09-2002,Alm.,6113,4,Villa,137,1979,
+Åparken 10 6823 Ansager,10,730000.0,09-08-2002,Alm.,5251,5,Villa,139,1977,
+Krogagervej 45 6823 Ansager,45,600000.0,05-08-2002,Alm.,4316,3,Villa,139,1935,
+Tiphedevej 26 6823 Ansager,26,1015000.0,12-06-2002,Alm.,4043,9,Stuehus,251,1912,
+Søknudevej 16 6823 Ansager,16,600000.0,11-05-2002,Alm.,8000,4,Sommerhus,75,1987,
+Gårdevej 31 6823 Ansager,31,648522.0,08-05-2002,Alm.,2747,8,Stuehus,236,1911,
+Irisvej 5 6823 Ansager,5,795000.0,07-05-2002,Alm.,5845,6,Villa,136,1972,
+Kærbækvej 17 6823 Ansager,17,815000.0,22-04-2002,Alm.,0,9,Villa,240,1900,
+Eghøjvej 5 6823 Ansager,5,244000.0,15-04-2002,Alm.,2301,4,Stuehus,106,1912,
+Torvet 15 6823 Ansager,15,385000.0,11-04-2002,Alm.,3500,5,Rækkehus,110,1888,
+Holtgårdvej 5 6823 Ansager,5,995000.0,19-03-2002,Alm.,6546,5,Stuehus,152,1986,
+Præstevangen 8 6823 Ansager,8,740000.0,10-01-2002,Alm.,4966,5,Villa,149,1974,
+Nørregade 18 6823 Ansager,18,250000.0,31-12-2001,Alm.,2252,3,Rækkehus,111,1907,
+Præstevangen 46 6823 Ansager,46,357700.0,13-12-2001,Andet,2772,4,Villa,129,1977,
+Ansagervej 22 6823 Ansager,22,640000.0,30-11-2001,Alm.,4324,5,Villa,148,1962,
+Adelvej 19 6823 Ansager,19,1850000.0,29-11-2001,Fam.,0,8,Stuehus,264,1896,
+Kvievej 50 6823 Ansager,50,675000.0,29-10-2001,Alm.,5273,6,Villa,128,1945,
+Søgårdsvej 48 6823 Ansager,48,335000.0,29-10-2001,Alm.,7444,3,Sommerhus,45,1976,
+Hestkærbrovej 20 6823 Ansager,20,435000.0,11-10-2001,Alm.,3175,4,Villa,137,1924,
+Mølgårdvej 30 6823 Ansager,30,335000.0,05-10-2001,Alm.,7444,3,Sommerhus,45,1963,
+Vibevej 15 6823 Ansager,15,880000.0,04-09-2001,Alm.,6470,4,Villa,136,1981,
+Egedalen 11 6823 Ansager,11,1480000.0,01-09-2001,Alm.,9367,6,Villa,158,2001,
+Mølbyvej 1 6823 Ansager,1,699370.0,31-08-2001,Alm.,3780,7,Villa,185,1954,
+Hovedgaden 15 6823 Ansager,15,205000.0,27-07-2001,Alm.,1385,5,Villa,148,1928,
+Adelvej 7 6823 Ansager,7,650000.0,29-06-2001,Alm.,2765,6,Stuehus,235,1922,
+Søvej 30 6823 Ansager,30,410000.0,25-06-2001,Alm.,8200,3,Sommerhus,50,1979,
+Søgårdsvej 1 6823 Ansager,1,80000.0,08-05-2001,Alm.,784,2,Sommerhus,102,2008,
+Kornvangen 11 6823 Ansager,11,670000.0,20-04-2001,Alm.,5826,4,Villa,115,1976,
+Søgårdsvej 88 6823 Ansager,88,351620.0,03-04-2001,Alm.,6278,3,Sommerhus,56,1976,
+Tyndkærvej 4 6823 Ansager,4,5275000.0,30-03-2001,Alm.,42200,5,Stuehus,125,1867,
+Kvievej 64 6823 Ansager,64,130000.0,19-03-2001,Andet,1192,3,Villa,109,1900,
+Præstegårdsvej 7A 6823 Ansager,0,345000.0,16-03-2001,Alm.,5073,2,Rækkehus,68,1978,
+Bjælkager 2 6823 Ansager,2,1525000.0,08-03-2001,Alm.,7159,8,Villa,213,2000,
+Grødevej 25 6823 Ansager,25,75000.0,04-03-2001,Alm.,0,8,Stuehus,261,1910,
+Parkvænget 5 6823 Ansager,5,109175.0,09-01-2001,Alm.,814,4,Villa,134,2001,
+Vibevej 12 6823 Ansager,12,685000.0,20-12-2000,Alm.,3071,6,Villa,223,1980,
+Hoddemarkvej 14 6823 Ansager,14,440000.0,07-11-2000,Alm.,0,7,Stuehus,177,1900,
+Sønderbro 23 6823 Ansager,23,335000.0,03-11-2000,Alm.,0,4,Villa,106,1923,
+Bjælkager 8 6823 Ansager,8,1307000.0,26-10-2000,Alm.,8891,6,Villa,147,2000,
+Søgårdsvej 6 6823 Ansager,6,685000.0,16-10-2000,Alm.,7696,4,Sommerhus,89,1995,
+Søgårdsvej 3 6823 Ansager,3,660000.0,26-09-2000,Alm.,8250,4,Sommerhus,80,1994,
+Kornvangen 13 6823 Ansager,13,460000.0,25-08-2000,Alm.,5000,3,Villa,92,1976,
+Skovlundvej 8 6823 Ansager,8,404109.0,19-08-2000,Alm.,2377,5,Villa,170,2006,
+Søgårdsvej 28 6823 Ansager,28,574000.0,25-07-2000,Alm.,4100,5,Sommerhus,140,1982,
+Lindegade 19 6823 Ansager,19,100000.0,27-06-2000,Alm.,961,0,Stuehus,104,1917,
+Gårdevej 35 6823 Ansager,35,780000.0,26-06-2000,Alm.,0,9,Stuehus,210,1923,
+Sønderbro 40 6823 Ansager,40,835000.0,13-06-2000,Alm.,4911,9,Stuehus,170,1929,
+Lærkevej 1 6823 Ansager,1,750000.0,31-05-2000,Alm.,4687,5,Villa,160,1967,
+Vejlevej 69 6823 Ansager,69,196550.0,25-05-2000,Alm.,761,8,Stuehus,258,1914,
+Solbakken 5 6823 Ansager,5,116000.0,20-03-2000,Auktion,1288,4,Villa,90,1933,
+Grødevej 22 6823 Ansager,22,868668.0,07-03-2000,Alm.,2838,13,Stuehus,306,1870,
+Lundvej 21 6823 Ansager,21,168960.0,02-03-2000,Alm.,870,6,Stuehus,194,1850,
+Søgårdsvej 92 6823 Ansager,92,450000.0,01-03-2000,Alm.,8035,3,Sommerhus,56,1976,
+Hestkærbrovej 24 6823 Ansager,24,765515.0,21-02-2000,Alm.,0,6,Stuehus,190,1982,
+Søgårdsvej 2 6823 Ansager,2,460000.0,17-02-2000,Alm.,7301,4,Sommerhus,63,1986,
+Skolegade 1 6823 Ansager,1,225000.0,07-02-2000,Fam.,0,4,Villa,153,1912,
+Søgårdsvej 56 6823 Ansager,56,263491.0,04-02-2000,Alm.,3421,4,Sommerhus,77,1970,
+Nørregade 20 6823 Ansager,20,178283.0,02-02-2000,Alm.,2377,4,Rækkehus,75,1900,
+Kærbækvej 28 6823 Ansager,28,1160000.0,24-01-2000,Alm.,6946,4,Stuehus,167,1907,
+Hestkærbrovej 22 6823 Ansager,22,1220000.0,07-01-2000,Alm.,0,7,Stuehus,172,1900,
+Søndergade 7 6823 Ansager,7,350000.0,06-01-2000,Alm.,2554,6,Rækkehus,137,1910,
+Søgårdsvej 15 6823 Ansager,15,450000.0,15-12-1999,Alm.,0,4,Sommerhus,78,1977,
+Åparken 18 6823 Ansager,18,615000.0,24-11-1999,Alm.,0,5,Villa,129,1979,
+Vibevej 25 6823 Ansager,25,873781.0,17-11-1999,Alm.,6619,4,Villa,132,1980,
+Østergade 40B 6823 Ansager,0,550000.0,12-11-1999,Alm.,4135,5,Rækkehus,133,1980,
+Tistrupvej 7 6823 Ansager,7,4095000.0,11-11-1999,Alm.,18039,6,Stuehus,227,1929,
+Sønderbro 41 6823 Ansager,41,1217708.0,08-11-1999,Alm.,7162,5,Stuehus,170,1940,
+Søgårdsvej 101 6823 Ansager,101,445000.0,01-10-1999,Alm.,6013,3,Sommerhus,74,1970,
+Solbakken 18 6823 Ansager,18,615000.0,02-09-1999,Alm.,4920,4,Villa,125,1967,
+Lundvej 8 6823 Ansager,8,615000.0,01-09-1999,Fam.,0,6,Villa,198,1925,
+Søvej 7 6823 Ansager,7,370000.0,21-08-1999,Alm.,6166,3,Sommerhus,60,1974,
+Præstevangen 15 6823 Ansager,15,605000.0,16-08-1999,Alm.,5307,4,Villa,114,1976,
+Hoddemarkvej 4 6823 Ansager,4,508876.0,16-08-1999,Alm.,0,5,Stuehus,163,1890,
+Præstevangen 21 6823 Ansager,21,564463.0,12-07-1999,Alm.,6968,3,Villa,81,1976,
+Ållingvej 13 6823 Ansager,13,1100000.0,05-07-1999,Alm.,5188,6,Stuehus,212,1867,
+Hestkærbrovej 28 6823 Ansager,28,1300000.0,12-06-1999,Alm.,0,6,Stuehus,207,1935,
+Mølgårdvej 26 6823 Ansager,26,1053898.0,10-06-1999,Alm.,9409,5,Stuehus,112,1925,
+Søgårdsvej 19 6823 Ansager,19,625000.0,04-06-1999,Alm.,8561,3,Sommerhus,73,1997,
+Hestkærbrovej 34 6823 Ansager,34,423776.0,11-05-1999,Fam.,2407,6,Stuehus,176,1928,
+Sønderbro 42 6823 Ansager,42,571000.0,10-05-1999,Fam.,5144,4,Stuehus,111,1930,
+Søgårdsvej 29 6823 Ansager,29,70000.0,07-04-1999,Alm.,760,3,Sommerhus,92,2003,
+Østergade 28 6823 Ansager,28,300000.0,15-03-1999,Alm.,3797,3,Villa,79,1955,
+Skolegade 31 6823 Ansager,31,684000.0,09-03-1999,Alm.,4412,4,Villa,155,1947,
+Hestkærbrovej 16 6823 Ansager,16,270000.0,28-01-1999,Alm.,1788,5,Stuehus,151,1926,
+Søknudevej 47 6823 Ansager,47,380845.0,15-01-1999,Alm.,0,4,Sommerhus,82,1979,
+Solbakken 16 6823 Ansager,16,455645.0,14-11-1998,Alm.,5177,4,Villa,88,1964,
+Åparken 11 6823 Ansager,11,880000.0,02-11-1998,Alm.,4782,3,Villa,184,1979,
+Starupvej 7 6823 Ansager,7,262500.0,28-10-1998,Alm.,2822,3,Villa,93,1959,
+Kølbanken 4 6823 Ansager,4,285000.0,18-09-1998,Alm.,3433,4,Villa,83,1913,
+Porskærvej 3 6823 Ansager,3,613000.0,14-09-1998,Alm.,0,7,Stuehus,217,1916,
+Lindegade 13 6823 Ansager,13,659033.0,10-09-1998,Alm.,4335,5,Villa,152,1916,
+Vinkelvej 8 6823 Ansager,8,453978.0,28-08-1998,Alm.,5100,3,Villa,89,1980,
+Rugvænget 16 6823 Ansager,16,654500.0,24-08-1998,Fam.,4513,5,Villa,145,1978,
+Hestkærbrovej 30 6823 Ansager,30,890783.0,11-08-1998,Alm.,4409,7,Stuehus,202,1903,
+Åparken 34 6823 Ansager,34,650000.0,08-08-1998,Alm.,5241,4,Villa,124,1978,
+Kornvangen 15 6823 Ansager,15,585000.0,21-07-1998,Alm.,4875,4,Villa,120,1976,
+Søknudevej 35 6823 Ansager,35,255000.0,25-06-1998,Alm.,4180,3,Sommerhus,61,1976,
+Østre Alle 3 6823 Ansager,3,500000.0,28-05-1998,Alm.,5000,4,Villa,100,1964,
+Lundvej 15 6823 Ansager,15,545000.0,25-05-1998,Alm.,3364,6,Villa,162,1933,
+Søgårdsvej 33 6823 Ansager,33,352828.0,15-05-1998,Alm.,4582,4,Sommerhus,77,1973,
+Søgårdsvej 35 6823 Ansager,35,384000.0,12-05-1998,Alm.,0,4,Sommerhus,109,1976,
+Vinkelvej 58 6823 Ansager,58,87780.0,11-05-1998,Alm.,631,4,Villa,139,2003,
+Søknudevej 24 6823 Ansager,24,50000.0,01-05-1998,Alm.,649,3,Sommerhus,77,2001,
+Søvej 40 6823 Ansager,40,38000.0,30-04-1998,Alm.,622,3,Sommerhus,61,2001,
+Fårholtvej 1 6823 Ansager,1,1720000.0,29-04-1998,Alm.,7350,7,Stuehus,234,1993,
+Sønderbro 21 6823 Ansager,21,80000.0,20-04-1998,Alm.,540,4,Villa,148,1999,
+Kvievej 37 6823 Ansager,37,467500.0,20-04-1998,Alm.,4973,4,Villa,94,1962,
+Hestkærbrovej 38 6823 Ansager,38,2320000.0,08-04-1998,Fam.,11836,7,Stuehus,196,1904,
+Søgårdsvej 20 6823 Ansager,20,118000.0,02-04-1998,Alm.,1685,4,Sommerhus,70,2000,
+Vinkelvej 54 6823 Ansager,54,800000.0,02-04-1998,Alm.,4733,4,Villa,169,1985,
+Skovlundvej 5 6823 Ansager,5,552897.0,23-03-1998,Alm.,2750,5,Stuehus,201,1914,
+Søndergade 19 6823 Ansager,19,260000.0,20-03-1998,Alm.,3466,4,Villa,75,1915,
+Kvievej 39 6823 Ansager,39,650000.0,11-03-1998,Alm.,0,9,Villa,271,1929,
+Lærkevej 9 6823 Ansager,9,550000.0,20-02-1998,Alm.,4435,4,Villa,124,1969,
+Lundvej 17 6823 Ansager,17,170000.0,12-01-1998,Alm.,2361,3,Villa,72,1957,
+Mølbyvej 12 6823 Ansager,12,1500000.0,02-01-1998,Alm.,6944,7,Stuehus,216,1909,
+Vibevej 21 6823 Ansager,21,488000.0,23-12-1997,Alm.,3614,6,Villa,135,1981,
+Rotvigvej 6 6823 Ansager,6,930000.0,17-12-1997,Alm.,5812,5,Stuehus,160,1910,
+Søknudevej 6 6823 Ansager,6,85000.0,02-12-1997,Alm.,955,4,Sommerhus,89,2001,
+Hestkærvej 50 6823 Ansager,50,204544.0,28-11-1997,Alm.,1649,4,Villa,124,1878,
+Nørregade 22 6823 Ansager,22,148699.0,21-11-1997,Alm.,1315,5,Rækkehus,113,1908,
+Grødevej 39 6823 Ansager,39,638009.0,06-11-1997,Alm.,3666,7,Stuehus,174,1850,
+Vibevej 10 6823 Ansager,10,645000.0,31-10-1997,Alm.,4886,4,Villa,132,1980,
+Vinkelvej 18 6823 Ansager,18,298500.0,02-10-1997,Alm.,5146,2,Rækkehus,58,1982,
+Hovedgaden 9 6823 Ansager,9,448000.0,16-09-1997,Alm.,4148,3,Villa,108,1961,
+Tyndkærvej 1 6823 Ansager,1,1480000.0,05-09-1997,Alm.,10068,8,Stuehus,147,1930,
+Allegade 7 6823 Ansager,7,466000.0,18-08-1997,Alm.,4524,3,Rækkehus,103,1990,
+Søknudevej 37 6823 Ansager,37,419279.0,14-08-1997,Alm.,4460,3,Sommerhus,94,1980,
+Kløvermarken 7 6823 Ansager,7,728000.0,13-08-1997,Alm.,4918,4,Villa,148,1976,
+Krogagervej 8 6823 Ansager,8,380000.0,30-06-1997,Fam.,3114,4,Stuehus,122,1890,
+Borgergade 8 6823 Ansager,8,325000.0,30-06-1997,Alm.,2500,5,Villa,130,1900,
+Skolegade 29 6823 Ansager,29,297500.0,26-06-1997,Fam.,1859,6,Villa,160,1930,
+Åparken 38 6823 Ansager,38,838931.0,22-06-1997,Alm.,4194,7,Villa,200,1979,
+Sønderbro 36 6823 Ansager,36,633728.0,13-06-1997,Alm.,3168,7,Stuehus,200,1934,
+Tistrupvej 11 6823 Ansager,11,376000.0,05-05-1997,Alm.,2685,5,Villa,140,1948,
+Østergade 12 6823 Ansager,12,410000.0,22-04-1997,Alm.,4939,3,Villa,83,1956,
+Starupvej 34 6823 Ansager,34,766204.0,14-04-1997,Alm.,7297,5,Stuehus,105,1900,
+Kvievej 6 6823 Ansager,6,350000.0,04-04-1997,Alm.,0,3,Villa,86,1954,
+Borgergade 38 6823 Ansager,38,500000.0,19-03-1997,Alm.,3048,5,Villa,164,1959,
+Kølbanken 14 6823 Ansager,14,485000.0,10-03-1997,Alm.,4254,5,Villa,114,1942,
+Vinkelvej 16 6823 Ansager,16,300000.0,10-03-1997,Alm.,5172,2,Rækkehus,58,1982,
+Norddalsvej 6 6823 Ansager,6,314500.0,27-02-1997,Alm.,2329,4,Villa,135,1923,
+Kvievej 60 6823 Ansager,60,443614.0,17-02-1997,Alm.,2624,6,Anden beboelse,169,1956,
+Hestkærbrovej 10 6823 Ansager,10,725000.0,07-02-1997,Alm.,5800,4,Villa,125,1912,
+Hestkærbrovej 36 6823 Ansager,36,285000.0,15-01-1997,Alm.,1676,3,Stuehus,170,1918,
+Sønderbro 45 6823 Ansager,45,628434.0,01-01-1997,Alm.,0,4,Stuehus,183,1916,
+Søndergade 11 6823 Ansager,11,300000.0,18-12-1996,Alm.,2727,4,Rækkehus,110,1908,
+Fredensgade 12 6823 Ansager,12,315000.0,08-12-1996,Alm.,3500,4,Villa,90,1963,
+Lærkevej 4 6823 Ansager,4,731000.0,23-11-1996,Alm.,4201,6,Villa,174,1973,
+Hoddemarkvej 3 6823 Ansager,3,265512.0,12-11-1996,Alm.,1552,8,Stuehus,171,1947,
+Grønmosevej 11 6823 Ansager,11,304913.0,11-11-1996,Alm.,1859,8,Stuehus,164,1983,
+Ansagervej 17 6823 Ansager,17,380000.0,17-10-1996,Alm.,2753,5,Villa,138,1919,
+Præstegårdsvej 1 6823 Ansager,1,283000.0,26-09-1996,Alm.,2572,3,Villa,110,1954,
+Krogagervej 4 6823 Ansager,4,200000.0,24-09-1996,Alm.,0,4,Stuehus,171,1926,
+Borgergade 28 6823 Ansager,28,290000.0,09-09-1996,Alm.,2543,5,Rækkehus,114,1960,
+Stationsvej 8 6823 Ansager,8,400000.0,03-09-1996,Alm.,2857,6,Rækkehus,140,1917,
+Egedalen 9 6823 Ansager,9,50000.0,29-08-1996,Alm.,320,6,Villa,156,1997,
+Åparken 30 6823 Ansager,30,747000.0,27-08-1996,Alm.,0,8,Villa,134,1978,
+Sønderbro 19 6823 Ansager,19,515000.0,26-08-1996,Alm.,3065,5,Villa,168,1996,
+Vibevej 3 6823 Ansager,3,640000.0,16-08-1996,Alm.,0,3,Villa,120,1986,
+Østergade 15 6823 Ansager,15,305000.0,13-08-1996,Alm.,3588,4,Villa,85,1918,
+Kvievej 17 6823 Ansager,17,864000.0,10-08-1996,Alm.,5503,8,Villa,157,1892,
+Egedalen 3 6823 Ansager,3,50000.0,31-07-1996,Alm.,318,5,Villa,157,1997,
+Egedalen 1 6823 Ansager,1,50000.0,24-07-1996,Alm.,370,5,Villa,135,1997,
+Hasselvej 1 6823 Ansager,1,475000.0,03-07-1996,Alm.,4846,4,Villa,98,1966,
+Østergade 30 6823 Ansager,30,623000.0,28-06-1996,Alm.,4238,6,Villa,147,1960,
+Irisvej 8 6823 Ansager,8,325000.0,10-06-1996,Fam.,0,5,Villa,155,1978,
+Lindegade 15 6823 Ansager,15,363000.0,07-06-1996,Alm.,0,4,Villa,208,1919,
+Fårholtvej 11 6823 Ansager,11,2290000.0,22-05-1996,Alm.,9786,11,Stuehus,234,1883,
+Ulknudvej 14 6823 Ansager,14,900000.0,22-05-1996,Fam.,7086,5,Stuehus,127,1929,
+Præstevangen 44 6823 Ansager,44,733000.0,17-05-1996,Alm.,5235,4,Villa,140,1978,
+Åparken 9 6823 Ansager,9,728257.0,26-04-1996,Alm.,5315,5,Villa,137,1979,
+Søvej 34 6823 Ansager,34,260000.0,23-04-1996,Alm.,5200,3,Sommerhus,50,1985,
+Hoddemarkvej 1 6823 Ansager,1,420000.0,22-04-1996,Alm.,0,4,Stuehus,108,1925,
+Kornvangen 17 6823 Ansager,17,659305.0,13-04-1996,Alm.,0,4,Villa,179,1980,
+Solbakken 7 6823 Ansager,7,320000.0,02-04-1996,Alm.,3168,4,Villa,101,1961,
+Søgårdsvej 58 6823 Ansager,58,246480.0,23-03-1996,Alm.,4650,4,Sommerhus,53,1978,
+Adelvej 10 6823 Ansager,10,650000.0,04-03-1996,Alm.,4577,8,Stuehus,142,1917,
+Kornvangen 29 6823 Ansager,29,286345.0,01-03-1996,Alm.,3579,3,Villa,80,1984,
+Bygvænget 2 6823 Ansager,2,768750.0,17-01-1996,Andet,6005,4,Villa,128,1995,
+Bygvænget 1 6823 Ansager,1,768750.0,17-01-1996,Andet,6005,4,Villa,128,1995,
+Kornvangen 18 6823 Ansager,18,590000.0,13-01-1996,Alm.,3782,5,Villa,156,1977,
+Borgergade 35 6823 Ansager,35,530000.0,06-01-1996,Alm.,3354,5,Villa,158,1960,
+Torvet 2 6823 Ansager,2,498000.0,05-01-1996,Alm.,2912,6,Villa,171,1900,
+Mølbyvej 19 6823 Ansager,19,2300000.0,19-12-1995,Fam.,12432,7,Stuehus,185,1940,
+Søknudevej 3 6823 Ansager,3,395000.0,14-12-1995,Alm.,5486,4,Sommerhus,72,1987,
+Mejsevej 3 6823 Ansager,3,554860.0,01-12-1995,Alm.,4268,5,Villa,130,1972,
+Solbakken 6 6823 Ansager,6,212500.0,29-11-1995,Fam.,1344,5,Villa,158,1966,
+Allegade 8 6823 Ansager,8,85000.0,24-11-1995,Alm.,1808,2,Villa,47,1950,
+Østre Alle 13 6823 Ansager,13,649000.0,07-11-1995,Alm.,2923,8,Villa,222,1962,
+Hestkærbrovej 2 6823 Ansager,2,715000.0,06-11-1995,Alm.,3470,6,Stuehus,206,2008,
+Krogagervej 29 6823 Ansager,29,400000.0,03-11-1995,Alm.,0,7,Villa,150,1914,
+Sønderbro 6 6823 Ansager,6,470000.0,03-11-1995,Alm.,2993,6,Villa,157,1955,
+Ulknudvej 10 6823 Ansager,10,620000.0,09-10-1995,Alm.,0,6,Stuehus,172,1930,
+Østergade 33 6823 Ansager,33,330000.0,11-08-1995,Alm.,2519,4,Villa,131,1956,
+Præstegårdsvej 7D 6823 Ansager,0,315000.0,01-08-1995,Alm.,4632,2,Rækkehus,68,1978,
+Hestkærbrovej 3 6823 Ansager,3,960000.0,25-07-1995,Fam.,4897,10,Stuehus,196,1930,
+Lundvej 12 6823 Ansager,12,445040.0,23-06-1995,Alm.,3134,7,Villa,142,1938,
+Solbakken 4 6823 Ansager,4,305000.0,13-06-1995,Alm.,3719,4,Villa,82,1938,
+Vinkelvej 40 6823 Ansager,40,330000.0,18-05-1995,Fam.,2024,5,Villa,163,1981,
+Kvievej 4 6823 Ansager,4,667000.0,15-05-1995,Alm.,3994,8,Villa,167,1976,
+Solbakken 20 6823 Ansager,20,475000.0,25-04-1995,Alm.,3830,5,Villa,124,1967,
+Lundvej 2 6823 Ansager,2,415000.0,18-04-1995,Alm.,1966,5,Villa,211,1952,
+Ansagervej 8 6823 Ansager,8,325000.0,12-04-1995,Alm.,2018,4,Villa,161,1892,
+Hoddeskovvej 4 6823 Ansager,4,710000.0,12-04-1995,Alm.,6120,3,Stuehus,116,1970,
+Østre Alle 23 6823 Ansager,23,375000.0,03-04-1995,Alm.,3605,5,Villa,104,1961,
+Østre Alle 6 6823 Ansager,6,524630.0,30-03-1995,Alm.,3278,6,Villa,160,1966,
+Irisvej 3 6823 Ansager,3,571000.0,26-03-1995,Alm.,0,5,Villa,171,1977,
+Fårholtvej 13 6823 Ansager,13,640000.0,15-03-1995,Alm.,3091,5,Stuehus,207,1929,
+Ansagervej 25 6823 Ansager,25,468000.0,08-03-1995,Alm.,2752,5,Stuehus,170,1880,
+Lundvej 13 6823 Ansager,13,540000.0,09-02-1995,Alm.,2186,8,Villa,247,1913,
+Søknudevej 21 6823 Ansager,21,170000.0,17-01-1995,Fam.,0,4,Sommerhus,87,1977,
+Nygade 9 6823 Ansager,9,425000.0,13-01-1995,Fam.,0,4,Villa,239,1959,
+Starupvej 5 6823 Ansager,5,428000.0,06-01-1995,Alm.,3343,4,Villa,128,1966,
+Lundvej 18 6823 Ansager,18,268000.0,03-01-1995,Alm.,2350,4,Villa,114,1943,
+Starupvej 31 6823 Ansager,31,250000.0,02-01-1995,Alm.,0,7,Villa,186,1963,
+Østergade 11 6823 Ansager,11,239000.0,16-12-1994,Alm.,3734,3,Villa,64,1920,
+Parkvænget 13 6823 Ansager,13,772500.0,03-12-1994,Alm.,0,6,Villa,201,1986,
+H C Eskildsensvej 2C 6823 Ansager,0,437600.0,11-11-1994,Alm.,3340,5,Villa,131,1959,
+Søgårdsvej 90 6823 Ansager,90,325000.0,09-11-1994,Alm.,4276,4,Sommerhus,76,1976,
+Mejsevej 2 6823 Ansager,2,437039.0,07-11-1994,Alm.,3641,4,Villa,120,1972,
+Gårdevej 25 6823 Ansager,25,7800000.0,11-10-1994,Alm.,33333,7,Stuehus,234,1930,
+Ansagervej 18 6823 Ansager,18,231000.0,15-09-1994,Alm.,1686,5,Villa,137,1941,
+Åvænget 5 6823 Ansager,5,355000.0,02-09-1994,Alm.,3287,4,Villa,108,1967,
+Borgergade 31 6823 Ansager,31,451000.0,02-09-1994,Alm.,3666,3,Villa,123,1962,
+Parkvænget 2 6823 Ansager,2,950000.0,02-09-1994,Alm.,5135,5,Villa,185,1987,
+Vinkelvej 46 6823 Ansager,46,300000.0,03-08-1994,Fam.,2307,5,Villa,130,1986,
+Vinkelvej 28 6823 Ansager,28,61320.0,28-07-1994,Alm.,0,4,Villa,125,1994,
+Havevej 1 6823 Ansager,1,500000.0,21-07-1994,Alm.,2604,5,Villa,192,1939,
+Søvej 58 6823 Ansager,58,305000.0,18-06-1994,Alm.,4919,3,Sommerhus,62,1977,
+Syrenvej 15 6823 Ansager,15,500000.0,14-06-1994,Alm.,2777,5,Villa,180,1919,
+Ulknudvej 6 6823 Ansager,6,738000.0,02-06-1994,Alm.,4641,7,Stuehus,159,1925,
+Præstevangen 42 6823 Ansager,42,491000.0,16-05-1994,Alm.,0,7,Villa,200,1975,
+Mølgårdvej 20 6823 Ansager,20,851200.0,28-04-1994,Alm.,8775,3,Stuehus,97,1955,
+Doktorvej 3 6823 Ansager,3,305000.0,13-04-1994,Alm.,2346,3,Villa,130,1909,
+Lundvej 5 6823 Ansager,5,440000.0,18-03-1994,Alm.,3384,6,Villa,130,1909,
+Fuglebakken 1 6823 Ansager,1,375000.0,24-02-1994,Alm.,3205,4,Villa,117,1928,
+Tiphedevej 13 6823 Ansager,13,793295.0,16-02-1994,Alm.,7082,3,Stuehus,112,1929,
+Kvievej 66 6823 Ansager,66,150000.0,06-01-1994,Alm.,1293,3,Villa,116,1913,
+Søgårdsvej 77 6823 Ansager,77,225000.0,23-12-1993,Alm.,0,4,Sommerhus,90,1973,
+Sønderbro 1 6823 Ansager,1,227000.0,21-12-1993,Alm.,1644,5,Villa,138,1918,
+Toftegårdsvej 4 6823 Ansager,4,95000.0,15-12-1993,Fam.,1666,3,Stuehus,57,1900,
+Præstevangen 13 6823 Ansager,13,572000.0,09-11-1993,Alm.,4085,4,Villa,140,1976,
+Sønderbro 3 6823 Ansager,3,100000.0,29-10-1993,Alm.,0,4,Rækkehus,132,1920,
+Åparken 12 6823 Ansager,12,645000.0,22-10-1993,Alm.,4673,5,Villa,138,1978,
+Solsortevej 4 6823 Ansager,4,250000.0,15-10-1993,Alm.,2840,4,Villa,88,1965,
+Svinget 3 6823 Ansager,3,395283.0,15-10-1993,Fam.,3266,2,Villa,121,1960,
+Irisvej 10 6823 Ansager,10,530000.0,02-09-1993,Alm.,0,4,Villa,124,1976,
+Solbakken 25 6823 Ansager,25,73300.0,23-08-1993,Alm.,488,6,Villa,150,1994,
+Kvievej 8 6823 Ansager,8,216000.0,12-08-1993,Alm.,2297,4,Villa,94,1948,
+Østre Alle 20 6823 Ansager,20,365000.0,03-07-1993,Alm.,0,4,Villa,167,1964,
+Højbovej 1 6823 Ansager,1,265000.0,02-07-1993,Alm.,0,7,Villa,285,1904,
+Tiphedevej 12 6823 Ansager,12,350000.0,29-06-1993,Fam.,3125,2,Villa,112,1942,
+Vejlevej 61 6823 Ansager,61,250000.0,28-06-1993,Alm.,2314,4,Stuehus,108,1850,
+Nørregade 17 6823 Ansager,17,320000.0,05-06-1993,Alm.,0,7,Rækkehus,172,1903,
+Lindegade 5A 6823 Ansager,0,245000.0,01-06-1993,Alm.,2606,4,Villa,94,1923,
+Adelvej 21 6823 Ansager,21,313597.0,27-05-1993,Alm.,0,7,Stuehus,300,1902,
+Sønderbro 22 6823 Ansager,22,245000.0,18-05-1993,Alm.,2882,3,Villa,85,1958,
+Porskærvej 1 6823 Ansager,1,1002105.0,23-04-1993,Fam.,6185,5,Stuehus,162,1926,
+Søgårdsvej 87 6823 Ansager,87,325000.0,01-04-1993,Alm.,5909,3,Sommerhus,55,1981,
+Åparken 13D 6823 Ansager,0,295000.0,26-01-1993,Alm.,3314,3,Rækkehus,89,1980,
+Hestkærbrovej 46 6823 Ansager,46,180000.0,14-12-1992,Alm.,1153,6,Villa,156,1932,
+Østergade 35 6823 Ansager,35,130000.0,30-11-1992,Alm.,1111,5,Villa,117,1942,
+Stationsvej 4B 6823 Ansager,0,310000.0,02-10-1992,Alm.,2583,6,Villa,120,1918,
+Ansagervej 19 6823 Ansager,19,464000.0,11-09-1992,Alm.,0,5,Villa,146,1918,
+Hestkærbrovej 1 6823 Ansager,1,300000.0,21-08-1992,Alm.,1456,7,Stuehus,206,1920,
+Østergade 48 6823 Ansager,48,190000.0,14-08-1992,Fam.,1130,5,Villa,168,1963,
+Sønderbro 14 6823 Ansager,14,419749.0,14-08-1992,Alm.,3747,4,Villa,112,1973,
+Åparken 13A 6823 Ansager,0,525000.0,07-08-1992,Alm.,4375,4,Villa,120,1980,
+Søknudevej 11 6823 Ansager,11,315000.0,05-08-1992,Alm.,4038,4,Sommerhus,78,1979,
+Østergade 52 6823 Ansager,52,470000.0,31-07-1992,Fam.,3643,4,Villa,129,1969,
+Lundvej 28 6823 Ansager,28,67650.0,29-07-1992,Alm.,290,6,Stuehus,233,1924,
+Søvej 52 6823 Ansager,52,260000.0,24-07-1992,Alm.,5200,3,Sommerhus,50,1977,
+Mejsevej 4 6823 Ansager,4,331903.0,01-07-1992,Alm.,2861,5,Villa,116,1973,
+Hestkærbrovej 18 6823 Ansager,18,450000.0,19-06-1992,Fam.,0,5,Villa,127,1905,
+Grødevej 3 6823 Ansager,3,615000.0,31-03-1992,Fam.,3575,6,Villa,172,1934,
+Syrenvej 1A 6823 Ansager,0,310000.0,26-03-1992,Alm.,2137,6,Villa,145,1902,
+Vinkelvej 56 6823 Ansager,56,773486.0,13-03-1992,Alm.,5815,4,Villa,133,1988,
+Kanalvej 13 6823 Ansager,13,23438.0,14-01-1992,Alm.,0,6,Stuehus,183,1927,

@@ -1,0 +1,389 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Dybdalsvej 31 8641 Sorring,31,2295000.0,30-03-2017,Alm.,14079,6,Stuehus,163,1924,
+Høngevej 25 8641 Sorring,25,2250000.0,13-03-2017,Alm.,13636,7,Stuehus,165,1925,-2 %
+Møllebakken 17 8641 Sorring,17,900000.0,21-01-2017,Alm.,6976,5,Villa,129,1980,-18 %
+Silkeborgvej 26 8641 Sorring,26,1250000.0,09-01-2017,Alm.,5952,7,Villa,210,1947,-4 %
+Dybdalsvej 49 8641 Sorring,49,2598000.0,04-01-2017,Alm.,15938,5,Stuehus,163,1870,0 %
+Hjejlevej 65 8641 Sorring,65,616250.0,22-12-2016,Andet,4370,5,Villa,141,1978,
+Hjejlevej 41 8641 Sorring,41,798458.0,06-12-2016,Alm.,5958,4,Villa,134,1975,
+Ebbesensvej 15 8641 Sorring,15,1975000.0,21-11-2016,Alm.,15192,4,Villa,130,1898,-1 %
+Høghgårdsvej 14 8641 Sorring,14,875000.0,20-11-2016,Alm.,5303,5,Villa,165,2001,
+Ryttervej 10 8641 Sorring,10,325000.0,02-11-2016,Fam.,2425,6,Rækkehus,134,1877,
+Skolebakken 13C 8641 Sorring,0,1950000.0,21-10-2016,Alm.,8552,8,Villa,228,1967,-2 %
+Klintrupvej 2 8641 Sorring,2,188265.0,16-10-2016,Alm.,913,7,Stuehus,206,1911,-92 %
+Klintrup Hedevej 125 8641 Sorring,125,1150000.0,28-09-2016,Alm.,7232,4,Villa,159,1765,-4 %
+Hovedgaden 14 8641 Sorring,14,1525000.0,29-08-2016,Alm.,10517,5,Villa,145,1890,
+Hjejlevej 61 8641 Sorring,61,1283000.0,13-07-2016,Alm.,9230,4,Villa,139,1978,-8 %
+Silkeborgvej 20 8641 Sorring,20,1200000.0,20-05-2016,Alm.,8000,4,Villa,150,1946,-7 %
+Johannes Jensens Vej 18 8641 Sorring,18,80000.0,10-05-2016,Alm.,493,5,Villa,162,1910,
+Drosselvej 6 8641 Sorring,6,1700000.0,10-05-2016,Alm.,9090,5,Villa,187,1966,-5 %
+Hovedgaden 10 8641 Sorring,10,695000.0,10-03-2016,Alm.,5604,4,Villa,124,1820,0 %
+Terpvej 65 8641 Sorring,65,2400000.0,29-01-2016,Alm.,12765,7,Villa,188,2005,-8 %
+Ryttervej 8 8641 Sorring,8,605000.0,11-12-2015,Alm.,4959,4,Rækkehus,122,1877,-7 %
+Dallerupvej 40 8641 Sorring,40,400000.0,27-11-2015,Alm.,3448,4,Villa,116,1901,
+Skolebakken 13A 8641 Sorring,0,2085000.0,23-11-2015,Alm.,13365,6,Villa,156,2008,0 %
+Dybdalsvej 12 8641 Sorring,12,600000.0,31-10-2015,Fam.,4255,4,Villa,141,1890,
+Solbærmarken 26 8641 Sorring,26,1450000.0,30-10-2015,Alm.,12831,5,Villa,113,1999,-3 %
+Hovedgaden 22 8641 Sorring,22,560000.0,16-10-2015,Alm.,9655,2,Villa,58,1946,-6 %
+Skolebakken 30 8641 Sorring,30,156500.0,15-09-2015,Andet,926,7,Stuehus,169,1899,
+Hjejlevej 53 8641 Sorring,53,1100000.0,22-07-2015,Alm.,9016,4,Villa,122,1978,-8 %
+Hjejlevej 97 8641 Sorring,97,2490000.0,03-07-2015,Alm.,15465,5,Villa,161,2008,-4 %
+Ternevej 1 8641 Sorring,1,1300000.0,25-06-2015,Alm.,8280,6,Villa,157,1977,
+Dallerup Kirkevej 59 8641 Sorring,59,1770000.0,12-05-2015,Alm.,12206,6,Stuehus,145,1928,
+Solbærmarken 36 8641 Sorring,36,2275000.0,24-03-2015,Alm.,14218,6,Villa,160,2000,-1 %
+Klintrup Hedevej 160 8641 Sorring,160,2185000.0,11-03-2015,Alm.,12630,5,Villa,173,1962,-5 %
+Solbærmarken 31 8641 Sorring,31,2175000.0,05-03-2015,Alm.,14215,6,Villa,153,2007,-3 %
+Hjejlevej 89 8641 Sorring,89,1150000.0,13-02-2015,Alm.,8846,4,Villa,130,1976,-4 %
+Hjejlevej 37 8641 Sorring,37,1260000.0,12-02-2015,Alm.,8689,6,Villa,145,1977,
+Hovedgaden 13 8641 Sorring,13,1175000.0,03-02-2015,Alm.,8103,6,Villa,145,1963,-9 %
+Terpvej 59 8641 Sorring,59,1705000.0,27-01-2015,Alm.,21312,3,Villa,80,1920,-15 %
+Vibevej 12 8641 Sorring,12,1200000.0,22-01-2015,Alm.,8888,4,Villa,135,1971,-14 %
+Møllebakken 3 8641 Sorring,3,1600000.0,04-12-2014,Alm.,9467,5,Villa,169,1900,-8 %
+Bundgårdsvej 10 8641 Sorring,10,2791000.0,21-11-2014,Alm.,13816,5,Villa,202,2008,-4 %
+Hjejlevej 32 8641 Sorring,32,2750000.0,29-10-2014,Alm.,16176,5,Villa,170,2009,0 %
+Solbærmarken 50 8641 Sorring,50,2425000.0,07-10-2014,Alm.,13857,6,Villa,175,2003,-3 %
+Dallerup Kirkevej 25 8641 Sorring,25,2300000.0,01-10-2014,Alm.,12637,5,Villa,182,1903,
+Bangsvej 5 8641 Sorring,5,1000000.0,12-09-2014,Alm.,8771,4,Villa,114,1962,-9 %
+Hjejlevej 69 8641 Sorring,69,1198000.0,08-09-2014,Alm.,8557,4,Villa,140,1974,0 %
+Ryttervej 5 8641 Sorring,5,250000.0,13-08-2014,Fam.,3205,3,Villa,78,1850,
+Dybdalsvej 18 8641 Sorring,18,1400000.0,10-08-2014,Alm.,8695,5,Villa,161,1965,-7 %
+Silkeborgvej 58 8641 Sorring,58,2500000.0,31-07-2014,Alm.,12626,7,Villa,198,1900,-4 %
+Herredsvejen 32 8641 Sorring,32,2283000.0,24-06-2014,Alm.,11246,6,Villa,203,1917,-9 %
+Drosselvej 11 8641 Sorring,11,1190000.0,17-06-2014,Alm.,10818,4,Villa,110,1969,-5 %
+Herredsvejen 27 8641 Sorring,27,75000.0,09-04-2014,Alm.,493,6,Stuehus,152,1928,
+Skolebakken 35 8641 Sorring,35,8690231.0,02-04-2014,Andet,32186,10,Villa,270,1908,
+Johannes Jensens Vej 36 8641 Sorring,36,855000.0,25-03-2014,Alm.,9193,3,Villa,93,1930,-5 %
+Hovedgaden 39 8641 Sorring,39,1450000.0,27-02-2014,Alm.,9602,6,Villa,151,1923,-3 %
+Bredsig 27 8641 Sorring,27,600000.0,03-01-2014,Alm.,3726,6,Villa,161,2015,-8 %
+Bredsig 28 8641 Sorring,28,440000.0,10-12-2013,Alm.,2913,6,Villa,151,2014,-11 %
+Høghgårdsvej 1 8641 Sorring,1,1350000.0,25-11-2013,Alm.,6279,7,Villa,215,1964,-10 %
+Høghgårdsvej 37 8641 Sorring,37,2048000.0,28-10-2013,Alm.,12800,6,Villa,160,1997,-2 %
+Terpvej 35 8641 Sorring,35,250000.0,22-10-2013,Alm.,793,14,Stuehus,315,1935,
+Hovedgaden 46 8641 Sorring,46,850000.0,04-10-2013,Alm.,4381,7,Villa,194,1936,
+Drosselvej 8 8641 Sorring,8,1150000.0,03-10-2013,Alm.,9583,4,Villa,120,1967,-4 %
+Solbærmarken 8 8641 Sorring,8,1050000.0,25-09-2013,Alm.,5497,6,Villa,191,1903,-4 %
+Sanddalen 10 8641 Sorring,10,2400000.0,20-09-2013,Alm.,12182,7,Villa,197,2005,-4 %
+Mågevej 4 8641 Sorring,4,1150000.0,30-08-2013,Alm.,13529,3,Villa,85,1971,-4 %
+Høngevej 35 8641 Sorring,35,2600000.0,04-07-2013,Alm.,15204,6,Villa,171,1931,-4 %
+Silkeborgvej 30 8641 Sorring,30,1525000.0,03-07-2013,Alm.,12708,4,Villa,120,1961,-1 %
+Solbærmarken 24 8641 Sorring,24,1600000.0,06-06-2013,Alm.,9523,6,Villa,168,2003,-11 %
+Solbærmarken 33 8641 Sorring,33,2400000.0,14-05-2013,Fam.,11940,5,Villa,201,2006,
+Johannes Jensens Vej 70 8641 Sorring,70,6150000.0,14-05-2013,Fam.,27092,7,Stuehus,227,1770,
+Hjejlevej 9 8641 Sorring,9,1200000.0,10-05-2013,Alm.,8391,5,Villa,143,1974,-8 %
+Ebbesensvej 13 8641 Sorring,13,620000.0,09-05-2013,Alm.,5438,3,Villa,114,1900,-5 %
+Svinget 3 8641 Sorring,3,294618.0,22-04-2013,Alm.,1753,7,Stuehus,168,1890,
+Dybdalsvej 25 8641 Sorring,25,950000.0,11-04-2013,Alm.,5428,4,Villa,175,2014,
+Hjejlevej 93 8641 Sorring,93,1000000.0,22-01-2013,Alm.,7692,4,Villa,130,1973,-9 %
+Silkeborgvej 4 8641 Sorring,4,975000.0,04-07-2012,Alm.,8552,4,Villa,114,1929,-2 %
+Silkeborgvej 8 8641 Sorring,8,860000.0,19-06-2012,Alm.,4725,7,Villa,182,1948,-14 %
+Terpvej 51 8641 Sorring,51,870000.0,29-04-2012,Fam.,6444,5,Villa,135,1900,
+Solbærmarken 35 8641 Sorring,35,2400000.0,25-04-2012,Alm.,13714,6,Villa,175,2011,-4 %
+Solbærmarken 48 8641 Sorring,48,2500000.0,12-04-2012,Alm.,14204,6,Villa,176,2008,
+Johannes Jensens Vej 29 8641 Sorring,29,8200000.0,12-04-2012,Alm.,32800,9,Stuehus,250,1740,
+Hovedgaden 23 8641 Sorring,23,1530000.0,28-02-2012,Alm.,12240,5,Villa,125,1949,-4 %
+Toustrup Stationsvej 6 8641 Sorring,6,945000.0,14-02-2012,Alm.,9356,5,Villa,101,1949,
+Ebbesensvej 20A 8641 Sorring,0,700000.0,01-02-2012,Alm.,6250,2,Villa,112,1902,
+Hovedgaden 38 8641 Sorring,38,555000.0,28-10-2011,Alm.,4302,6,Villa,129,1900,
+Jordbærvej 5 8641 Sorring,5,615000.0,26-10-2011,Alm.,3494,5,Villa,176,2014,
+Bundgårdsvej 12 8641 Sorring,12,1100000.0,12-10-2011,Andet,6962,6,Villa,158,2008,
+Hjejlevej 45 8641 Sorring,45,1300000.0,27-09-2011,Alm.,8280,5,Villa,157,1977,-4 %
+Vibevej 5 8641 Sorring,5,1225000.0,23-09-2011,Alm.,12760,4,Villa,96,1972,-6 %
+Skolebakken 9 8641 Sorring,9,1598000.0,05-09-2011,Alm.,7990,7,Villa,200,1966,
+Møllebakken 31 8641 Sorring,31,548065.0,03-08-2011,Andet,4567,4,Villa,120,1935,
+Vibevej 7 8641 Sorring,7,1798000.0,04-07-2011,Alm.,9666,6,Villa,186,1972,0 %
+Hovedgaden 41 8641 Sorring,41,1395000.0,03-06-2011,Alm.,11250,3,Villa,124,1905,0 %
+Ebbesensvej 9 8641 Sorring,9,1000000.0,01-06-2011,Alm.,5000,5,Rækkehus,200,1907,75 %
+Hjejlevej 103 8641 Sorring,103,2200000.0,09-05-2011,Alm.,15492,6,Villa,142,2008,-2 %
+Herredsvejen 30 8641 Sorring,30,2090000.0,11-04-2011,Alm.,13660,4,Stuehus,153,2013,-5 %
+Bredsig 8 8641 Sorring,8,2450000.0,24-03-2011,Alm.,16013,6,Villa,153,2007,-5 %
+Hjejlevej 30 8641 Sorring,30,650000.0,09-03-2011,Alm.,3987,5,Villa,163,2012,
+Hovedgaden 45 8641 Sorring,45,2600000.0,28-02-2011,Alm.,12380,8,Villa,210,1875,
+Høngevej 27 8641 Sorring,27,2050000.0,10-01-2011,Alm.,7854,8,Stuehus,261,1877,-2 %
+Silkeborgvej 16 8641 Sorring,16,684479.0,06-01-2011,Alm.,5751,4,Villa,119,1932,
+Johannes Jensens Vej 22 8641 Sorring,22,1035000.0,17-12-2010,Alm.,7288,4,Villa,142,1877,-6 %
+Jordbærvej 9 8641 Sorring,9,575000.0,15-12-2010,Alm.,3125,5,Villa,184,2012,
+Høngevej 1 8641 Sorring,1,188409.0,14-12-2010,Fam.,744,8,Villa,253,2013,
+Bredsigbakke 21 8641 Sorring,21,2498000.0,07-12-2010,Alm.,15048,6,Villa,166,2007,0 %
+Ebbesensvej 29 8641 Sorring,29,650000.0,30-11-2010,Alm.,10000,4,Villa,65,1945,-13 %
+Mågevej 3 8641 Sorring,3,725000.0,20-10-2010,Alm.,8950,3,Villa,81,1972,-5 %
+Dallerup Kirkevej 45 8641 Sorring,45,1800000.0,11-10-2010,Alm.,7792,6,Villa,231,1910,-5 %
+Høghgårdsvej 35 8641 Sorring,35,1710000.0,27-09-2010,Alm.,13153,5,Villa,130,1996,-4 %
+Johannes Jensens Vej 26 8641 Sorring,26,1220000.0,10-09-2010,Alm.,10166,3,Villa,120,1874,-2 %
+Sanddalen 5 8641 Sorring,5,860000.0,05-09-2010,Alm.,7889,3,Villa,109,1967,0 %
+Bredsig 16 8641 Sorring,16,2225000.0,05-07-2010,Alm.,13819,6,Villa,161,2006,-11 %
+Skolebakken 15 8641 Sorring,15,825000.0,29-06-2010,Alm.,9593,4,Landbrug o.l.,86,1956,
+Vibevej 14 8641 Sorring,14,1500000.0,20-05-2010,Alm.,4870,9,Villa,308,1974,-12 %
+Høghgårdsvej 10 8641 Sorring,10,2098000.0,08-03-2010,Alm.,12871,7,Villa,163,2000,0 %
+Solbærmarken 27 8641 Sorring,27,2252500.0,01-03-2010,Alm.,11610,8,Villa,194,2009,-6 %
+Møllebakken 29 8641 Sorring,29,1135000.0,01-02-2010,Alm.,8730,5,Villa,130,1935,-5 %
+Høghgårdsvej 12 8641 Sorring,12,1745000.0,25-01-2010,Alm.,13022,5,Villa,134,2000,0 %
+Møllebakken 23 8641 Sorring,23,1575000.0,16-01-2010,Alm.,10937,7,Villa,144,1979,-4 %
+Hjejlevej 34 8641 Sorring,34,550000.0,10-11-2009,Alm.,2763,7,Villa,199,2011,-8 %
+Tingvejen 40 8641 Sorring,40,825000.0,30-09-2009,Fam.,6395,6,Villa,129,1910,
+Johannes Jensens Vej 43 8641 Sorring,43,535000.0,15-09-2009,Alm.,7753,3,Villa,69,1777,-4 %
+Solbærmarken 3 8641 Sorring,3,999500.0,12-09-2009,Andet,6663,6,Villa,150,2006,
+Bredsig 20 8641 Sorring,20,2550000.0,13-08-2009,Alm.,13010,6,Villa,196,2007,-3 %
+Hovedgaden 17 8641 Sorring,17,1095000.0,30-07-2009,Alm.,11406,4,Villa,96,1900,-5 %
+Hjejlevej 11 8641 Sorring,11,1945000.0,30-07-2009,Alm.,9628,6,Villa,202,1975,-3 %
+Dallerup Kirkevej 5 8641 Sorring,5,1075000.0,14-07-2009,Alm.,13782,3,Villa,78,1880,-2 %
+Høghgårdsvej 3 8641 Sorring,3,1450000.0,09-07-2009,Alm.,8950,5,Villa,162,1965,-3 %
+Høngevej 39 8641 Sorring,39,1695000.0,15-06-2009,Alm.,12463,4,Stuehus,136,1890,0 %
+Hjejlevej 26 8641 Sorring,26,587500.0,01-06-2009,Alm.,2532,5,Villa,232,2010,
+Silkeborgvej 42 8641 Sorring,42,1500000.0,23-03-2009,Alm.,8823,6,Villa,170,1877,-6 %
+Silkeborgvej 41 8641 Sorring,41,1075000.0,11-03-2009,Alm.,10141,3,Stuehus,106,1907,-23 %
+Horskildevej 5 8641 Sorring,5,1500000.0,08-01-2009,Alm.,9868,5,Villa,152,2016,-6 %
+Haldgårdsvej 6 8641 Sorring,6,1413403.0,15-12-2008,Fam.,9118,6,Villa,155,2008,-60 %
+Dallerup Kirkevej 60 8641 Sorring,60,8100000.0,26-10-2008,Alm.,41326,6,Stuehus,196,1973,
+Skolebakken 7 8641 Sorring,7,1898000.0,24-09-2008,Alm.,12569,6,Villa,151,1968,0 %
+Hjejlevej 21 8641 Sorring,21,636097.0,17-09-2008,Alm.,4609,5,Villa,138,1975,
+Skolebakken 13B 8641 Sorring,0,2425000.0,18-08-2008,Alm.,15544,6,Villa,156,2008,1 %
+Hjejlevej 28 8641 Sorring,28,2595000.0,09-07-2008,Alm.,17416,5,Villa,149,2008,0 %
+Solbærmarken 40 8641 Sorring,40,2350000.0,07-07-2008,Alm.,16785,6,Villa,140,2006,-2 %
+Sanddalen 15 8641 Sorring,15,875000.0,26-06-2008,Alm.,12500,3,Villa,70,1930,-12 %
+Hovedgaden 49 8641 Sorring,49,750000.0,11-06-2008,Alm.,8333,4,Villa,90,1900,
+Hjejlevej 101 8641 Sorring,101,550000.0,18-05-2008,Alm.,3691,6,Villa,149,2011,
+Bangsvej 3 8641 Sorring,3,700000.0,16-05-2008,Alm.,0,5,Villa,141,1960,
+Klintrupvej 5 8641 Sorring,5,1325000.0,29-04-2008,Alm.,8493,5,Villa,156,1890,
+Bredsig 19 8641 Sorring,19,1141984.0,31-03-2008,Alm.,6639,4,Villa,172,2007,
+Bangsvej 1 8641 Sorring,1,1398000.0,13-03-2008,Alm.,15195,3,Villa,92,1946,0 %
+Terpvej 45 8641 Sorring,45,1275000.0,05-03-2008,Fam.,3717,9,Villa,343,1965,
+Silkeborgvej 53 8641 Sorring,53,1835000.0,25-02-2008,Alm.,10251,4,Villa,179,1877,-1 %
+Høngevej 36 8641 Sorring,36,2950000.0,14-02-2008,Alm.,13594,6,Stuehus,217,1910,-10 %
+Dallerup Kirkevej 70 8641 Sorring,70,1400000.0,15-01-2008,Alm.,11764,4,Stuehus,119,1976,
+Klintrupvej 3 8641 Sorring,3,1595000.0,19-12-2007,Alm.,12269,4,Stuehus,130,1854,0 %
+Mågevej 8 8641 Sorring,8,1850000.0,18-12-2007,Alm.,10882,5,Villa,170,1971,-3 %
+Solbærmarken 6 8641 Sorring,6,2495000.0,06-12-2007,Alm.,13861,5,Villa,180,2007,
+Toustrup Stationsvej 4 8641 Sorring,4,1450000.0,12-11-2007,Alm.,10740,4,Villa,135,1916,
+Dybdalsvej 17 8641 Sorring,17,1700000.0,09-11-2007,Fam.,9444,6,Villa,180,1964,
+Høngevej 2 8641 Sorring,2,1050000.0,07-11-2007,Alm.,8400,4,Villa,125,1972,
+Bredsig 18 8641 Sorring,18,2787968.0,16-10-2007,Alm.,17104,7,Villa,163,2007,
+Johannes Jensens Vej 25 8641 Sorring,25,2760000.0,13-09-2007,Fam.,25794,4,Villa,107,1860,
+Høghgårdsvej 22 8641 Sorring,22,2050000.0,13-09-2007,Alm.,15769,5,Villa,130,1997,
+Ryttervej 11 8641 Sorring,11,768000.0,11-09-2007,Alm.,9974,3,Rækkehus,77,1852,
+Dybdalsvej 11 8641 Sorring,11,711878.0,24-08-2007,Andet,3727,6,Villa,191,1928,
+Møllebakken 13 8641 Sorring,13,1875000.0,16-08-2007,Alm.,13020,6,Villa,144,1980,
+Sanddalen 13 8641 Sorring,13,1470000.0,15-08-2007,Alm.,13486,5,Villa,109,1986,
+Bredsig 25 8641 Sorring,25,550000.0,31-07-2007,Alm.,3503,5,Villa,157,2009,
+Hjejlevej 25 8641 Sorring,25,1498000.0,06-07-2007,Alm.,11795,4,Villa,127,1977,
+Hjejlevej 99 8641 Sorring,99,556000.0,04-07-2007,Alm.,3329,6,Villa,167,2011,1 %
+Bredsig 30 8641 Sorring,30,439687.0,12-06-2007,Alm.,2007,7,Villa,219,2008,
+Møllebakken 8 8641 Sorring,8,950000.0,07-06-2007,Alm.,15322,3,Villa,62,1867,
+Bredsig 26 8641 Sorring,26,2595000.0,05-06-2007,Alm.,16424,6,Villa,158,2007,0 %
+Bredsig 31 8641 Sorring,31,2406000.0,31-05-2007,Alm.,16147,6,Villa,149,2007,-5 %
+Hjejlevej 91 8641 Sorring,91,1425000.0,30-05-2007,Alm.,10961,5,Villa,130,1974,
+Sanddalen 2 8641 Sorring,2,956393.0,11-05-2007,Andet,6595,5,Villa,145,2007,
+Ebbesensvej 26 8641 Sorring,26,1660000.0,17-04-2007,Alm.,15370,4,Villa,108,1942,
+Terpvej 47 8641 Sorring,47,1440000.0,09-03-2007,Alm.,6400,6,Villa,225,1900,
+Toustrup Stationsvej 8 8641 Sorring,8,2300000.0,06-03-2007,Alm.,12105,7,Villa,190,2007,
+Møllebakken 5 8641 Sorring,5,1540000.0,07-02-2007,Alm.,14528,5,Villa,106,1945,
+Bredsig 32 8641 Sorring,32,2495000.0,29-01-2007,Alm.,16414,6,Villa,152,2007,0 %
+Bredsig 23 8641 Sorring,23,454687.0,21-12-2006,Alm.,2877,6,Villa,158,2007,
+Bredsig 29 8641 Sorring,29,519687.0,21-12-2006,Alm.,3289,4,Villa,158,2011,
+Bredsig 34 8641 Sorring,34,454687.0,21-12-2006,Alm.,2380,4,Stuehus,191,2011,
+Bundgårdsvej 8 8641 Sorring,8,469687.0,21-12-2006,Alm.,2972,4,Villa,158,2008,
+Bredsig 21 8641 Sorring,21,479687.0,21-12-2006,Alm.,2942,6,Villa,163,2012,
+Dybdalsvej 2 8641 Sorring,2,825000.0,13-11-2006,Alm.,7783,3,Villa,106,1976,
+Bundgårdsvej 6 8641 Sorring,6,519687.0,24-10-2006,Alm.,2887,6,Villa,180,2007,
+Solbærmarken 29 8641 Sorring,29,355892.0,09-10-2006,Alm.,2655,5,Villa,134,2008,
+Silkeborgvej 10 8641 Sorring,10,750000.0,30-09-2006,Andet,5281,4,Villa,142,1966,
+Hovedgaden 5 8641 Sorring,5,1550000.0,12-09-2006,Alm.,8959,7,Villa,173,1910,
+Silkeborgvej 28 8641 Sorring,28,569500.0,08-09-2006,Fam.,7493,3,Villa,76,1950,
+Herredsvejen 34 8641 Sorring,34,1845000.0,16-08-2006,Alm.,14414,4,Villa,128,1977,
+Johannes Jensens Vej 75 8641 Sorring,75,1300000.0,14-07-2006,Alm.,8609,5,Villa,151,1939,
+Johannes Jensens Vej 45 8641 Sorring,45,850000.0,29-05-2006,Fam.,5312,5,Villa,160,1827,
+Solbærmarken 22 8641 Sorring,22,2410000.0,23-05-2006,Alm.,16174,6,Villa,149,2001,
+Bredsig 5 8641 Sorring,5,600000.0,22-05-2006,Alm.,3797,6,Villa,158,2007,
+Bredsig 10 8641 Sorring,10,2350000.0,04-05-2006,Alm.,15460,6,Villa,152,2006,
+Bredsig 12 8641 Sorring,12,345000.0,30-03-2006,Alm.,2536,6,Villa,136,2007,
+Haldgårdsvej 8 8641 Sorring,8,590000.0,16-03-2006,Alm.,2731,5,Villa,216,2009,
+Haldgårdsvej 4 8641 Sorring,4,440000.0,16-03-2006,Alm.,1760,7,Villa,250,2007,
+Haldgårdsvej 2 8641 Sorring,2,400000.0,16-03-2006,Alm.,2666,6,Villa,150,2012,
+Bredsig 1 8641 Sorring,1,2537500.0,14-03-2006,Alm.,16584,5,Villa,153,2006,
+Sanddalen 12 8641 Sorring,12,550000.0,02-03-2006,Alm.,2644,7,Villa,208,2007,
+Ebbesensvej 14 8641 Sorring,14,1375000.0,02-03-2006,Alm.,10496,6,Villa,131,1920,
+Bredsig 6 8641 Sorring,6,305000.0,27-02-2006,Alm.,1763,4,Villa,173,2007,
+Haldgårdsvej 10 8641 Sorring,10,550000.0,21-02-2006,Alm.,3089,6,Villa,178,2006,
+Haldgårdsvej 11 8641 Sorring,11,672000.0,21-02-2006,Alm.,2666,7,Villa,252,2007,
+Bredsig 13 8641 Sorring,13,310000.0,02-02-2006,Alm.,2026,6,Villa,153,2009,
+Møllebakken 9 8641 Sorring,9,1650000.0,26-01-2006,Alm.,8870,5,Villa,186,1884,
+Bredsig 22 8641 Sorring,22,290000.0,20-01-2006,Alm.,1400,7,Villa,207,2007,
+Bredsig 4 8641 Sorring,4,290000.0,13-12-2005,Alm.,1847,6,Villa,157,2007,
+Bredsig 14 8641 Sorring,14,365000.0,02-12-2005,Alm.,2385,6,Villa,153,2007,
+Hovedgaden 51 8641 Sorring,51,795000.0,07-11-2005,Alm.,5719,6,Villa,139,1909,
+Bangsvej 7 8641 Sorring,7,1520000.0,04-11-2005,Alm.,10857,5,Villa,140,1962,
+Høghgårdsvej 16 8641 Sorring,16,2215000.0,04-11-2005,Alm.,13588,6,Villa,163,1998,
+Mågevej 10 8641 Sorring,10,600000.0,27-10-2005,Alm.,0,6,Villa,135,1970,
+Bredsig 11 8641 Sorring,11,385000.0,24-10-2005,Alm.,2655,6,Villa,145,2007,
+Silkeborgvej 12B 8641 Sorring,0,1000000.0,17-10-2005,Alm.,0,4,Lejlighed,97,1947,
+Bredsig 15 8641 Sorring,15,305000.0,15-10-2005,Alm.,2019,6,Villa,151,2006,
+Johannes Jensens Vej 62 8641 Sorring,62,1453500.0,10-10-2005,Alm.,6921,4,Villa,210,1904,
+Høngevej 41 8641 Sorring,41,1650000.0,03-10-2005,Alm.,5500,8,Villa,300,1877,
+Bredsig 3 8641 Sorring,3,335000.0,30-09-2005,Alm.,2042,6,Villa,164,2007,
+Hjejlevej 35 8641 Sorring,35,1285000.0,30-09-2005,Alm.,9734,4,Villa,132,1977,
+Solbærmarken 37 8641 Sorring,37,466480.0,23-09-2005,Alm.,2332,6,Villa,200,2007,
+Sanddalen 8 8641 Sorring,8,425000.0,04-08-2005,Alm.,2485,5,Villa,171,2008,
+Ebbesensvej 1 8641 Sorring,1,1100000.0,25-07-2005,Alm.,0,5,Villa,155,1963,
+Bredsig 9 8641 Sorring,9,360000.0,24-07-2005,Alm.,2500,5,Villa,144,2006,
+Bredsigbakke 5 8641 Sorring,5,237500.0,18-07-2005,Alm.,1334,6,Villa,178,2006,
+Solbærmarken 5 8641 Sorring,5,200000.0,07-07-2005,Alm.,1369,6,Villa,146,2006,
+Sanddalen 4 8641 Sorring,4,125000.0,29-06-2005,Fam.,744,6,Villa,168,2005,
+Bredsig 7 8641 Sorring,7,375000.0,25-06-2005,Alm.,2300,5,Villa,163,2008,
+Hovedgaden 58 8641 Sorring,58,4500000.0,14-06-2005,Alm.,20270,8,Stuehus,222,1880,
+Ebbesensvej 18 8641 Sorring,18,750000.0,08-06-2005,Fam.,6198,4,Villa,121,1960,
+Solbærmarken 46 8641 Sorring,46,184400.0,25-05-2005,Alm.,1189,7,Villa,155,2006,
+Drosselvej 7 8641 Sorring,7,1300000.0,23-05-2005,Alm.,7831,6,Villa,166,1969,
+Jordbærvej 60 8641 Sorring,60,1948000.0,23-05-2005,Alm.,8506,6,Villa,229,1897,
+Ebbesensvej 18B 8641 Sorring,0,270000.0,15-05-2005,Alm.,0,5,Villa,165,1914,
+Solbærmarken 32 8641 Sorring,32,185600.0,10-05-2005,Alm.,1354,5,Villa,137,2006,
+Vibevej 1 8641 Sorring,1,1295000.0,26-04-2005,Alm.,9664,5,Villa,134,1969,
+Johannes Jensens Vej 23 8641 Sorring,23,895000.0,20-04-2005,Alm.,6215,4,Villa,144,1877,
+Silkeborgvej 14 8641 Sorring,14,1698000.0,18-04-2005,Alm.,9988,6,Villa,170,1932,
+Møllebakken 25 8641 Sorring,25,1145000.0,06-04-2005,Alm.,7111,7,Villa,161,1979,
+Herredsvejen 31 8641 Sorring,31,500000.0,31-03-2005,Fam.,2747,9,Villa,182,1900,
+Silkeborgvej 18 8641 Sorring,18,437500.0,17-03-2005,Alm.,3417,5,Villa,128,1936,
+Hjejlevej 20 8641 Sorring,20,926121.0,17-03-2005,Alm.,3589,7,Villa,258,1975,
+Bangsvej 9 8641 Sorring,9,990000.0,15-03-2005,Alm.,7615,3,Villa,130,1980,
+Herredsvejen 24 8641 Sorring,24,826166.0,10-03-2005,Alm.,4215,6,Villa,196,1900,
+Sanddalen 7 8641 Sorring,7,525000.0,19-01-2005,Alm.,4338,4,Villa,121,1951,
+Solbærmarken 38 8641 Sorring,38,185600.0,16-01-2005,Alm.,1008,5,Villa,184,2007,
+Solbærmarken 42 8641 Sorring,42,185600.0,12-01-2005,Alm.,923,6,Villa,201,2007,
+Horskildevej 9 8641 Sorring,9,2060000.0,05-01-2005,Alm.,8078,8,Villa,255,1972,
+Bredsigbakke 1 8641 Sorring,1,160000.0,16-12-2004,Alm.,1019,7,Villa,157,2005,
+Sanddalen 14 8641 Sorring,14,260000.0,10-11-2004,Alm.,1420,6,Villa,183,2005,
+Ebbesensvej 27 8641 Sorring,27,820000.0,09-11-2004,Alm.,10649,3,Villa,77,1962,
+Bredsigbakke 11 8641 Sorring,11,263250.0,03-10-2004,Alm.,1290,7,Villa,204,2005,
+Klintrup Hedevej 140 8641 Sorring,140,202000.0,25-08-2004,Alm.,645,10,Stuehus,313,1922,
+Horskildevej 11 8641 Sorring,11,1055000.0,10-08-2004,Alm.,13187,3,Stuehus,80,1900,
+Møllebakken 10 8641 Sorring,10,750000.0,27-07-2004,Alm.,4310,5,Villa,174,1930,
+Møllebakken 14 8641 Sorring,14,1249000.0,23-07-2004,Alm.,9682,5,Villa,129,1912,
+Sanddalen 6 8641 Sorring,6,240000.0,23-07-2004,Alm.,1250,5,Villa,192,2009,
+Sanddalen 16 8641 Sorring,16,260000.0,12-07-2004,Alm.,1420,7,Villa,183,2007,
+Bredsigbakke 17 8641 Sorring,17,299000.0,29-06-2004,Alm.,0,8,Villa,201,2005,
+Hovedgaden 6 8641 Sorring,6,1400000.0,03-06-2004,Fam.,9790,6,Villa,143,2004,
+Ryttervej 9 8641 Sorring,9,849000.0,28-05-2004,Alm.,6335,6,Villa,134,1827,
+Johannes Jensens Vej 15 8641 Sorring,15,1175000.0,27-05-2004,Alm.,6317,4,Villa,186,1875,
+Herredsvejen 29 8641 Sorring,29,1980000.0,16-04-2004,Alm.,16229,4,Stuehus,122,1938,
+Solbærmarken 30 8641 Sorring,30,185600.0,20-03-2004,Alm.,1160,6,Villa,160,2004,
+Bredsigbakke 7 8641 Sorring,7,246180.0,02-03-2004,Alm.,1893,5,Villa,130,2005,
+Dallerup Kirkevej 65 8641 Sorring,65,300000.0,22-02-2004,Alm.,1666,5,Stuehus,180,2006,
+Solbærmarken 34 8641 Sorring,34,185600.0,20-02-2004,Alm.,1025,6,Villa,181,2005,
+Møllebakken 12 8641 Sorring,12,860000.0,16-01-2004,Alm.,0,7,Villa,150,1877,
+Hjejlevej 49 8641 Sorring,49,912500.0,12-01-2004,Alm.,6709,5,Villa,136,1975,
+Dallerup Kirkevej 35 8641 Sorring,35,110000.0,11-01-2004,Auktion,1666,2,Villa,66,1850,
+Johannes Jensens Vej 30 8641 Sorring,30,555000.0,13-12-2003,Alm.,3189,6,Villa,174,1870,
+Klintrup Hedevej 120 8641 Sorring,120,2125000.0,26-11-2003,Alm.,0,7,Stuehus,231,1915,
+Bredsigbakke 15 8641 Sorring,15,223550.0,24-11-2003,Alm.,1064,5,Villa,210,2004,
+Møllebakken 37 8641 Sorring,37,1250000.0,01-10-2003,Alm.,6648,7,Villa,188,2005,
+Ryttervej 7 8641 Sorring,7,899000.0,24-09-2003,Alm.,6514,5,Villa,138,1854,
+Drosselvej 3 8641 Sorring,3,620500.0,03-09-2003,Alm.,5491,4,Villa,113,1968,
+Bredsigbakke 3 8641 Sorring,3,160000.0,01-08-2003,Alm.,1684,3,Villa,95,2004,
+Bredsigbakke 13 8641 Sorring,13,240000.0,24-07-2003,Alm.,960,8,Villa,250,2004,
+Bredsigbakke 19 8641 Sorring,19,245000.0,31-05-2003,Alm.,1644,5,Villa,149,2004,
+Dybdalsvej 8 8641 Sorring,8,550000.0,07-05-2003,Alm.,4435,4,Villa,124,1880,
+Solbærmarken 7 8641 Sorring,7,201400.0,09-04-2003,Alm.,1325,5,Villa,152,2004,
+Silkeborgvej 46 8641 Sorring,46,336000.0,17-03-2003,Alm.,2645,6,Stuehus,127,1864,
+Sanddalen 1 8641 Sorring,1,673000.0,24-02-2003,Alm.,0,6,Villa,160,1948,
+Hjejlevej 17 8641 Sorring,17,1175000.0,14-12-2002,Alm.,5788,6,Villa,203,1975,
+Hovedgaden 33 8641 Sorring,33,1235000.0,25-11-2002,Alm.,6569,7,Villa,188,1923,
+Hovedgaden 28 8641 Sorring,28,728000.0,07-11-2002,Alm.,4952,6,Villa,147,1900,
+Dallerup Kirkevej 3 8641 Sorring,3,1335000.0,28-09-2002,Alm.,9673,6,Villa,138,1907,
+Hjejlevej 77 8641 Sorring,77,1025000.0,11-09-2002,Alm.,6250,5,Villa,164,1974,
+Dybdalsvej 4B 8641 Sorring,0,615000.0,23-07-2002,Alm.,7884,3,Rækkehus,78,1985,
+Hovedgaden 19 8641 Sorring,19,830000.0,13-07-2002,Alm.,6287,6,Villa,132,1920,
+Skanderborgvej 290 8641 Sorring,290,1890000.0,17-06-2002,Alm.,6385,8,Stuehus,296,1974,
+Silkeborgvej 2 8641 Sorring,2,800000.0,30-05-2002,Alm.,4733,9,Villa,169,1900,
+Johannes Jensens Vej 64 8641 Sorring,64,1440000.0,17-05-2002,Alm.,6990,5,Villa,206,1919,
+Hovedgaden 55 8641 Sorring,55,75000.0,06-05-2002,Alm.,0,9,Stuehus,227,1928,
+Terpvej 6 8641 Sorring,6,527000.0,03-05-2002,Alm.,4182,4,Villa,126,1930,
+Sanddalen 9 8641 Sorring,9,775000.0,11-04-2002,Alm.,8516,4,Villa,91,1949,
+Hovedgaden 32 8641 Sorring,32,770000.0,15-01-2002,Alm.,3928,9,Villa,196,1904,
+Skolebakken 5 8641 Sorring,5,750000.0,30-11-2001,Alm.,7352,4,Villa,102,1964,
+Møllebakken 33 8641 Sorring,33,224408.0,29-10-2001,Alm.,1320,5,Stuehus,170,1917,
+Klintrupvej 15 8641 Sorring,15,1722074.0,18-09-2001,Alm.,0,7,Stuehus,235,1979,
+Ebbesensvej 22 8641 Sorring,22,210000.0,30-06-2001,Alm.,1779,4,Villa,118,2003,
+Silkeborgvej 6 8641 Sorring,6,1088000.0,28-06-2001,Alm.,7661,4,Villa,142,1930,
+Silkeborgvej 24 8641 Sorring,24,630000.0,21-05-2001,Alm.,5526,3,Villa,114,1950,
+Hovedgaden 24 8641 Sorring,24,650000.0,06-04-2001,Alm.,4887,4,Villa,133,1880,
+Terpvej 49 8641 Sorring,49,900000.0,23-02-2001,Alm.,7758,3,Stuehus,116,1903,
+Hjejlevej 71 8641 Sorring,71,504000.0,21-02-2001,Alm.,2847,8,Villa,177,1976,
+Høngevej 33 8641 Sorring,33,1325000.0,08-02-2001,Alm.,0,7,Villa,223,1900,
+Johannes Jensens Vej 21 8641 Sorring,21,771720.0,14-01-2001,Alm.,5982,5,Villa,129,1907,
+Mågevej 12 8641 Sorring,12,1020000.0,16-12-2000,Alm.,5204,5,Villa,196,1980,
+Hjejlevej 85 8641 Sorring,85,898000.0,01-12-2000,Fam.,0,5,Villa,231,1978,
+Johannes Jensens Vej 60 8641 Sorring,60,631040.0,19-09-2000,Alm.,4322,4,Villa,146,1930,
+Hjejlevej 63 8641 Sorring,63,1294267.0,30-06-2000,Alm.,8571,6,Villa,151,1977,
+Hjejlevej 33 8641 Sorring,33,698000.0,29-06-2000,Alm.,5021,5,Villa,139,1977,
+Horskildevej 12 8641 Sorring,12,1600509.0,26-04-2000,Alm.,11855,4,Villa,135,1807,
+Dybdalsvej 50 8641 Sorring,50,1339000.0,15-04-2000,Alm.,8926,6,Stuehus,150,1900,
+Dybdalsvej 6 8641 Sorring,6,1038870.0,23-03-2000,Alm.,6492,7,Villa,160,1910,
+Klintrupvej 6 8641 Sorring,6,590000.0,23-12-1999,Alm.,0,6,Villa,225,1928,
+Solbærmarken 4 8641 Sorring,4,143700.0,26-11-1999,Alm.,958,6,Villa,150,2001,
+Drosselvej 12 8641 Sorring,12,1085000.0,27-10-1999,Alm.,7138,6,Villa,152,1972,
+Svinget 4 8641 Sorring,4,904178.0,25-10-1999,Alm.,6150,4,Villa,147,1989,
+Johannes Jensens Vej 44 8641 Sorring,44,1784400.0,21-10-1999,Alm.,9913,6,Stuehus,180,1848,
+Silkeborgvej 56 8641 Sorring,56,176808.0,13-10-1999,Alm.,718,9,Stuehus,246,2006,
+Høngevej 37 8641 Sorring,37,82747.0,07-10-1999,Alm.,464,9,Stuehus,178,1920,
+Høngevej 29 8641 Sorring,29,82743.0,07-10-1999,Alm.,0,7,Stuehus,224,1999,
+Skanderborgvej 292 8641 Sorring,292,68100.0,07-09-1999,Alm.,376,6,Villa,181,2007,
+Hjejlevej 59 8641 Sorring,59,957848.0,21-08-1999,Alm.,6841,4,Villa,140,1974,
+Dybdalsvej 34 8641 Sorring,34,500000.0,10-08-1999,Alm.,0,9,Villa,240,1920,
+Hovedgaden 40 8641 Sorring,40,510000.0,21-07-1999,Alm.,4180,6,Villa,122,1888,
+Ebbesensvej 12 8641 Sorring,12,574810.0,23-06-1999,Alm.,5635,4,Villa,102,1953,
+Dybdalsvej 35 8641 Sorring,35,547968.0,14-06-1999,Andet,2302,7,Stuehus,238,1920,
+Terpvej 42 8641 Sorring,42,1400000.0,04-06-1999,Alm.,7526,7,Stuehus,186,1965,
+Sanddalen 20 8641 Sorring,20,3000000.0,20-05-1999,Alm.,0,7,Stuehus,272,1911,
+Hjejlevej 7 8641 Sorring,7,745000.0,04-05-1999,Alm.,6106,4,Villa,122,1975,
+Møllebakken 15 8641 Sorring,15,1129413.0,19-04-1999,Alm.,7735,5,Villa,146,1979,
+Ryttervej 14 8641 Sorring,14,1777000.0,26-03-1999,Alm.,8226,8,Villa,216,1882,
+Silkeborgvej 54 8641 Sorring,54,433500.0,25-02-1999,Fam.,2833,5,Villa,153,1900,
+Høghgårdsvej 33 8641 Sorring,33,54800.0,15-12-1998,Alm.,375,5,Villa,146,2000,
+Johannes Jensens Vej 57 8641 Sorring,57,2001000.0,14-12-1998,Alm.,10531,7,Villa,190,1850,
+Drosselvej 13 8641 Sorring,13,516500.0,26-11-1998,Alm.,0,4,Villa,88,1969,
+Dallerupvej 50 8641 Sorring,50,1113053.0,21-10-1998,Alm.,0,5,Villa,147,1963,
+Drosselvej 15 8641 Sorring,15,793000.0,04-08-1998,Alm.,6777,3,Villa,117,1971,
+Tingvejen 38 8641 Sorring,38,625000.0,08-07-1998,Fam.,0,3,Villa,145,1938,
+Dybdalsvej 14 8641 Sorring,14,616700.0,03-07-1998,Alm.,5506,4,Villa,112,1906,
+Ryttervej 12 8641 Sorring,12,659123.0,16-06-1998,Alm.,5189,6,Villa,127,1877,
+Klintrupvej 11 8641 Sorring,11,940691.0,15-06-1998,Alm.,5140,7,Villa,183,1920,
+Høghgårdsvej 7 8641 Sorring,7,110000.0,25-05-1998,Alm.,670,6,Villa,164,1999,
+Høngevej 34 8641 Sorring,34,608731.0,17-12-1997,Alm.,4475,4,Stuehus,136,1777,
+Svinget 6 8641 Sorring,6,308000.0,31-10-1997,Alm.,5403,2,Villa,57,1900,
+Hjejlevej 39 8641 Sorring,39,797925.0,20-10-1997,Alm.,0,8,Villa,254,1973,
+Johannes Jensens Vej 41 8641 Sorring,41,670858.0,13-10-1997,Alm.,0,5,Villa,130,1777,
+Møllebakken 22 8641 Sorring,22,164183.0,09-07-1997,Fam.,1234,5,Villa,133,1908,
+Skolebakken 1 8641 Sorring,1,990674.0,03-07-1997,Alm.,5133,8,Villa,193,1983,
+Dallerupvej 45 8641 Sorring,45,1700005.0,23-06-1997,Fam.,7555,6,Stuehus,225,2005,
+Høghgårdsvej 31 8641 Sorring,31,66900.0,19-06-1997,Alm.,491,6,Villa,136,1997,
+Dallerupvej 10 8641 Sorring,10,829000.0,10-06-1997,Alm.,4145,5,Villa,200,1910,
+Skolebakken 3A 8641 Sorring,0,1012000.0,04-06-1997,Alm.,3892,8,Villa,260,1950,
+Høghgårdsvej 20 8641 Sorring,20,1087000.0,14-05-1997,Alm.,8909,5,Villa,122,1997,
+Hjejlevej 16 8641 Sorring,16,924223.0,08-04-1997,Alm.,6202,5,Villa,149,1975,
+Johannes Jensens Vej 16 8641 Sorring,16,1200000.0,13-12-1996,Alm.,3883,9,Stuehus,309,1875,
+Ebbesensvej 24 8641 Sorring,24,957000.0,02-12-1996,Alm.,5117,6,Villa,187,1979,
+Johannes Jensens Vej 42 8641 Sorring,42,1260000.0,18-11-1996,Alm.,0,7,Villa,288,1850,
+Hjejlevej 27 8641 Sorring,27,563000.0,24-10-1996,Alm.,4398,4,Villa,128,1978,
+Svinget 5 8641 Sorring,5,1250000.0,19-09-1996,Alm.,0,7,Stuehus,239,1906,
+Silkeborgvej 50 8641 Sorring,50,5317000.0,29-08-1996,Alm.,23218,9,Stuehus,229,1908,
+Ryttervej 18 8641 Sorring,18,130000.0,08-08-1996,Alm.,0,4,Rækkehus,87,1802,
+Hjejlevej 31 8641 Sorring,31,580000.0,04-05-1996,Alm.,0,5,Villa,161,1974,
+Møllebakken 20 8641 Sorring,20,619000.0,09-02-1996,Fam.,3578,5,Villa,173,1930,
+Hjejlevej 47 8641 Sorring,47,626000.0,27-11-1995,Alm.,5131,4,Villa,122,1977,
+Klintrupvej 8 8641 Sorring,8,1200000.0,13-11-1995,Alm.,0,5,Stuehus,177,1914,
+Drosselvej 10 8641 Sorring,10,462500.0,10-08-1995,Alm.,0,6,Villa,149,1967,
+Herredsvejen 22 8641 Sorring,22,1200000.0,25-07-1995,Alm.,5333,6,Villa,225,1900,
+Dallerup Kirkevej 55 8641 Sorring,55,700000.0,14-07-1995,Alm.,3211,8,Stuehus,218,1997,
+Hjejlevej 5 8641 Sorring,5,540000.0,01-03-1995,Alm.,4320,4,Villa,125,1975,
+Hjejlevej 2 8641 Sorring,2,301000.0,17-02-1995,Alm.,3762,3,Villa,80,1900,
+Ryttervej 16 8641 Sorring,16,102000.0,14-02-1995,Alm.,1961,2,Rækkehus,52,1800,
+Høngevej 15 8641 Sorring,15,1298298.0,11-12-1994,Alm.,7133,5,Stuehus,182,1978,
+Hovedgaden 31 8641 Sorring,31,458000.0,18-11-1994,Alm.,2245,7,Villa,204,1922,
+Terpvej 44 8641 Sorring,44,725000.0,27-06-1994,Alm.,0,4,Villa,212,1840,
+Johannes Jensens Vej 50 8641 Sorring,50,250000.0,22-06-1994,Alm.,0,8,Villa,221,1847,
+Hjejlevej 18 8641 Sorring,18,999000.0,26-04-1994,Alm.,5519,7,Villa,181,1975,
+Ebbesensvej 6 8641 Sorring,6,310000.0,25-02-1994,Alm.,3734,3,Villa,83,1964,
+Ryttervej 6 8641 Sorring,6,552500.0,30-11-1993,Alm.,0,6,Villa,155,1920,
+Silkeborgvej 22 8641 Sorring,22,250000.0,28-01-1993,Alm.,3472,3,Villa,72,1954,
+Hovedgaden 99 8641 Sorring,99,739000.0,30-09-1992,Alm.,3185,8,Villa,232,1907,
+Høngevej 30 8641 Sorring,30,870000.0,29-09-1992,Alm.,0,6,Stuehus,188,1930,
+Tingvejen 39 8641 Sorring,39,54000.0,31-01-1992,Fam.,0,9,Villa,299,1926,
+Klintrupvej 4 8641 Sorring,4,770000.0,04-01-1992,Alm.,0,8,Villa,229,1922,

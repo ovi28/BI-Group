@@ -1,0 +1,478 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Østre Hovedgade 31 7560 Hjerm,31,240000.0,28-03-2017,Alm.,1875,3,Villa,128,1931,
+Vestre Hovedgade 40 7560 Hjerm,40,1600000.0,28-03-2017,Alm.,12403,4,Villa,129,1960,
+Altonavej 5 7560 Hjerm,5,527000.0,14-02-2017,Fam.,8639,4,Sommerhus,61,1976,
+Gartnervej 7 7560 Hjerm,7,373314.0,04-02-2017,Andet,3456,4,Villa,108,1961,
+Kongsgårdvej 13 7560 Hjerm,13,1200000.0,04-01-2017,Fam.,8108,5,Villa,148,1914,
+Møllevangsvej 9 7560 Hjerm,9,189218.0,08-12-2016,Auktion,1075,4,Villa,176,1900,
+Livbjerggårdvej 15 7560 Hjerm,15,370000.0,04-11-2016,Fam.,5606,3,Sommerhus,66,1968,
+Bjerregårdsparken 102 7560 Hjerm,102,512374.0,21-10-2016,Alm.,3911,5,Villa,131,1980,
+Østervang 13 7560 Hjerm,13,635000.0,23-09-2016,Alm.,5825,4,Villa,109,1968,-9 %
+Altonavej 3 7560 Hjerm,3,782000.0,01-09-2016,Fam.,10712,4,Sommerhus,73,1971,
+Hjermvej 67 7560 Hjerm,67,75000.0,09-08-2016,Alm.,535,4,Villa,140,1850,
+Skolevej 24 7560 Hjerm,24,1020000.0,27-06-2016,Alm.,11086,3,Rækkehus,92,2007,-5 %
+Lindevænget 18 7560 Hjerm,18,1375000.0,24-06-2016,Alm.,10110,4,Villa,136,1974,
+Haubovænget 1 7560 Hjerm,1,1225000.0,06-05-2016,Alm.,10208,5,Villa,120,2003,0 %
+Vinderupvej 21 7560 Hjerm,21,1685000.0,15-04-2016,Andet,11385,3,Villa,148,1988,
+Villemoesvej 1 7560 Hjerm,1,2595000.0,28-03-2016,Alm.,7070,10,Villa,367,1993,-7 %
+Højgårdsparken 4 7560 Hjerm,4,675000.0,08-03-2016,Alm.,5152,5,Villa,131,1961,-15 %
+Bjerregårdsparken 92 7560 Hjerm,92,1395000.0,03-03-2016,Alm.,9964,5,Villa,140,1980,0 %
+Sønder Hjermvej 15 7560 Hjerm,15,9555000.0,15-01-2016,Alm.,30625,5,Stuehus,312,1974,
+Altonavej 9 7560 Hjerm,9,600000.0,12-01-2016,Fam.,8000,4,Sommerhus,75,1973,
+Øksenbjergvej 4 7560 Hjerm,4,1700000.0,12-12-2015,Alm.,12592,6,Stuehus,135,1912,-15 %
+Østervang 9 7560 Hjerm,9,550000.0,11-11-2015,Alm.,5238,4,Villa,105,1965,-15 %
+Haubovænget 12 7560 Hjerm,12,1845000.0,06-11-2015,Alm.,11903,5,Villa,155,2002,-3 %
+Skolevej 14 7560 Hjerm,14,1147000.0,05-11-2015,Alm.,11135,4,Rækkehus,103,2007,
+Altonavej 23 7560 Hjerm,23,395000.0,30-09-2015,Alm.,6810,3,Sommerhus,58,1973,-12 %
+Gartnervej 6 7560 Hjerm,6,550000.0,29-09-2015,Fam.,3716,6,Villa,148,1963,
+Bjerregårdsparken 28 7560 Hjerm,28,1150000.0,12-09-2015,Alm.,10176,4,Villa,113,1977,-4 %
+Sofienlundvej 20 7560 Hjerm,20,3549999.0,09-09-2015,Alm.,16745,8,Stuehus,212,2010,
+Livbjerggårdvej 37 7560 Hjerm,37,570000.0,24-07-2015,Alm.,8769,4,Sommerhus,65,1976,-12 %
+Haubovænget 5 7560 Hjerm,5,1672189.0,12-05-2015,Andet,9722,6,Villa,172,1999,
+Højgårdsparken 53 7560 Hjerm,53,274200.0,05-05-2015,Alm.,1364,6,Villa,201,2015,
+Sofienlundvej 4 7560 Hjerm,4,10000.0,28-04-2015,Alm.,43,9,Stuehus,229,1923,
+Lindevænget 19 7560 Hjerm,19,1400000.0,10-04-2015,Alm.,6603,7,Villa,212,1971,-3 %
+Hjermvej 98 7560 Hjerm,98,8130000.0,07-04-2015,Alm.,20024,7,Stuehus,406,1880,
+Skolevej 22 7560 Hjerm,22,1185000.0,01-04-2015,Alm.,11504,4,Rækkehus,103,2007,-1 %
+Øksenbjergvej 5 7560 Hjerm,5,1115000.0,30-03-2015,Fam.,5575,8,Villa,200,1895,
+Kongsgårdvej 8 7560 Hjerm,8,1370000.0,18-03-2015,Alm.,7210,5,Villa,190,1905,-14 %
+Østre Hovedgade 27 7560 Hjerm,27,200000.0,09-02-2015,Alm.,2083,5,Villa,96,1902,-43 %
+"Mosevej 1, ST. 6 7560 Hjerm",6,370000.0,04-02-2015,Alm.,3936,2,Lejlighed,94,1923,-6 %
+Bjerregårdsparken 142 7560 Hjerm,142,1445000.0,29-01-2015,Alm.,8652,5,Villa,167,1986,-3 %
+Vestre Hovedgade 26 7560 Hjerm,26,325000.0,28-11-2014,Alm.,1795,4,Villa,181,1889,-34 %
+Østre Hovedgade 35 7560 Hjerm,35,440000.0,20-11-2014,Alm.,3437,4,Villa,128,1937,
+Bjerregårdsparken 70 7560 Hjerm,70,795000.0,20-11-2014,Alm.,5977,5,Villa,133,1979,-11 %
+Gartnervej 9 7560 Hjerm,9,700000.0,24-10-2014,Alm.,6666,4,Villa,105,1959,0 %
+Bjerregårdsparken 148 7560 Hjerm,148,1475000.0,01-10-2014,Alm.,10766,4,Villa,137,1984,
+Tellingvej 9 7560 Hjerm,9,150000.0,28-09-2014,Alm.,1562,3,Stuehus,96,1944,1 %
+Kirkevej 4 7560 Hjerm,4,680000.0,25-09-2014,Alm.,6601,5,Villa,103,1934,-9 %
+Bjerregårdsparken 24 7560 Hjerm,24,750000.0,20-09-2014,Alm.,5813,4,Villa,129,1979,-16 %
+Vestre Hovedgade 30 7560 Hjerm,30,907500.0,19-09-2014,Alm.,8402,4,Villa,108,1958,
+Bjerregårdsparken 80 7560 Hjerm,80,740000.0,19-09-2014,Alm.,9367,3,Villa,79,1981,0 %
+Skolevej 20 7560 Hjerm,20,503487.0,19-09-2014,Alm.,4888,4,Rækkehus,103,2007,
+Østre Hovedgade 28 7560 Hjerm,28,857500.0,05-09-2014,Andet,5014,7,Villa,171,1937,
+Altonavej 33 7560 Hjerm,33,250000.0,03-09-2014,Alm.,4807,3,Sommerhus,52,1984,
+Lindevænget 42 7560 Hjerm,42,865000.0,23-08-2014,Alm.,6091,5,Villa,142,1973,-3 %
+Engvej 4 7560 Hjerm,4,580000.0,18-07-2014,Alm.,3558,5,Villa,163,1973,-11 %
+Bjerregårdsparken 110 7560 Hjerm,110,1650000.0,17-07-2014,Fam.,11148,5,Villa,148,1989,-3 %
+Vestre Hovedgade 33 7560 Hjerm,33,542463.0,04-07-2014,Andet,2916,7,Villa,186,1965,
+Kviumvej 1 7560 Hjerm,1,3584415.0,23-06-2014,Alm.,22402,6,Stuehus,160,1910,
+Villemoesvej 6 7560 Hjerm,6,200000.0,14-05-2014,Alm.,1104,5,Stuehus,181,1984,
+Øster Hjermvej 6 7560 Hjerm,6,818827.0,24-04-2014,Alm.,4705,7,Villa,174,1959,
+Jegbjergvej 13 7560 Hjerm,13,1260545.0,24-03-2014,Andet,6926,8,Stuehus,182,1934,
+Møllevangsvej 6 7560 Hjerm,6,890000.0,05-03-2014,Alm.,4944,7,Villa,180,1884,-1 %
+Skarbyvej 9 7560 Hjerm,9,620000.0,18-02-2014,Fam.,6078,3,Villa,102,1962,
+Christiansborgvej 1 7560 Hjerm,1,1400000.0,29-01-2014,Alm.,7106,6,Villa,197,1979,-6 %
+Altonavej 41 7560 Hjerm,41,400000.0,07-01-2014,Alm.,4210,4,Sommerhus,95,1975,
+Gartnervej 10 7560 Hjerm,10,600000.0,22-11-2013,Alm.,8000,3,Villa,75,1981,-6 %
+"Mosevej 1, 1. 1 7560 Hjerm",1,600000.0,08-11-2013,Alm.,2597,8,Lejlighed,231,1923,-39 %
+Lindevænget 17 7560 Hjerm,17,720000.0,24-09-2013,Alm.,6728,4,Villa,107,1968,-4 %
+Møllevangsvej 7 7560 Hjerm,7,970000.0,16-09-2013,Alm.,5705,4,Villa,170,1895,-3 %
+Livbjerggårdvej 31 7560 Hjerm,31,445000.0,23-08-2013,Alm.,8090,3,Sommerhus,55,1973,-6 %
+Kirkevej 21 7560 Hjerm,21,2750000.0,20-08-2013,Alm.,15277,6,Villa,180,1927,-2 %
+Kirkevej 19 7560 Hjerm,19,250000.0,20-08-2013,Alm.,2631,3,Villa,95,1962,
+Vinderupvej 13 7560 Hjerm,13,1100000.0,08-08-2013,Alm.,5882,5,Villa,187,1914,-20 %
+Vestre Hovedgade 16 7560 Hjerm,16,117000.0,11-07-2013,Andet,1218,4,Rækkehus,96,1900,
+Villemoesvej 8 7560 Hjerm,8,1500000.0,24-06-2013,Alm.,12096,5,Stuehus,124,1975,
+Gartnervej 12 7560 Hjerm,12,635000.0,31-05-2013,Alm.,8466,4,Villa,75,1981,-6 %
+Korsbjergvej 2 7560 Hjerm,2,1250000.0,07-05-2013,Alm.,7621,4,Stuehus,164,1900,-7 %
+Højgårdsparken 76 7560 Hjerm,76,400000.0,03-05-2013,Alm.,2614,6,Villa,153,1976,
+Højgårdsparken 58 7560 Hjerm,58,1500000.0,02-05-2013,Alm.,9615,5,Villa,156,1977,
+Livbjerggårdvej 19 7560 Hjerm,19,728000.0,25-03-2013,Fam.,8987,4,Sommerhus,81,1969,
+Jernbanevej 10 7560 Hjerm,10,1485000.0,26-02-2013,Alm.,7983,7,Villa,186,1948,-7 %
+Sofienlundvej 10 7560 Hjerm,10,850000.0,19-02-2013,Fam.,4521,6,Stuehus,188,2016,
+Øster Hjermvej 4 7560 Hjerm,4,375772.0,16-02-2013,Alm.,2348,4,Villa,160,1965,-62 %
+Tellingvej 1 7560 Hjerm,1,1895000.0,17-01-2013,Alm.,12147,7,Villa,156,1918,0 %
+Bjerregårdsparken 98 7560 Hjerm,98,1100000.0,17-01-2013,Alm.,9322,5,Villa,118,1980,
+Livbjerggårdvej 41 7560 Hjerm,41,195000.0,10-01-2013,Alm.,1423,6,Sommerhus,137,2014,-13 %
+Volstrupvej 7 7560 Hjerm,7,2624000.0,23-10-2012,Alm.,20992,4,Stuehus,125,1916,
+Sønder Hjermvej 1 7560 Hjerm,1,1198000.0,11-10-2012,Alm.,6440,6,Stuehus,186,1907,
+Vestre Hovedgade 31 7560 Hjerm,31,985000.0,04-10-2012,Alm.,5441,6,Villa,181,1971,0 %
+Øster Hjermvej 13 7560 Hjerm,13,368807.0,21-09-2012,Alm.,3099,4,Villa,119,1893,
+Livbjerggårdvej 51 7560 Hjerm,51,475000.0,29-08-2012,Alm.,9313,3,Sommerhus,51,1977,-13 %
+Kviumvej 4 7560 Hjerm,4,1950000.0,29-08-2012,Alm.,6964,9,Stuehus,280,1974,-7 %
+Lindevænget 16 7560 Hjerm,16,550000.0,19-07-2012,Alm.,3072,5,Villa,179,1974,-35 %
+Altonavej 15 7560 Hjerm,15,612000.0,12-07-2012,Fam.,12240,3,Sommerhus,50,1969,
+Vestre Hovedgade 10 7560 Hjerm,10,320000.0,25-06-2012,Fam.,2622,4,Villa,122,1898,
+Bjerregårdsparken 122 7560 Hjerm,122,970000.0,18-06-2012,Alm.,8434,4,Villa,115,1987,-3 %
+Tellingvej 4 7560 Hjerm,4,235909.0,13-04-2012,Alm.,951,7,Stuehus,248,1904,
+Gartnervej 3 7560 Hjerm,3,251000.0,12-04-2012,Auktion,1619,8,Villa,155,1962,
+Dalbyvej 5 7560 Hjerm,5,1000000.0,12-04-2012,Alm.,4484,6,Villa,223,1910,-20 %
+Volstrupby 2 7560 Hjerm,2,1337500.0,26-03-2012,Alm.,8629,5,Stuehus,155,1941,-4 %
+Villemoesvej 10 7560 Hjerm,10,4795000.0,26-03-2012,Alm.,13700,7,Stuehus,350,1995,
+Engvej 11 7560 Hjerm,11,100000.0,26-03-2012,Alm.,641,6,Villa,156,2013,
+Bjerregårdsparken 138 7560 Hjerm,138,1595000.0,15-03-2012,Alm.,10924,4,Villa,146,1999,0 %
+Volstrupvej 3 7560 Hjerm,3,1375980.0,12-03-2012,Alm.,6198,16,Villa,222,1929,
+Vestre Hovedgade 37 7560 Hjerm,37,57100.0,08-03-2012,Auktion,341,5,Villa,167,1966,
+Øster Hjermvej 9 7560 Hjerm,9,963000.0,27-02-2012,Alm.,3930,4,Stuehus,245,1968,
+Højgårdsparken 6 7560 Hjerm,6,682500.0,28-12-2011,Alm.,4490,3,Villa,152,1960,-12 %
+Haubovænget 18 7560 Hjerm,18,1785000.0,28-10-2011,Fam.,10625,5,Villa,168,2001,
+Jernbanevej 6 7560 Hjerm,6,380000.0,22-08-2011,Alm.,3838,5,Villa,99,1950,
+Østervang 20 7560 Hjerm,20,625000.0,01-08-2011,Alm.,4595,5,Villa,136,1972,
+Tellingvej 2 7560 Hjerm,2,1800000.0,06-07-2011,Alm.,13636,6,Stuehus,132,1920,
+Højgårdsparken 102 7560 Hjerm,102,835000.0,20-04-2011,Alm.,5921,6,Villa,141,1977,-7 %
+Bjerregårdsparken 130 7560 Hjerm,130,535345.0,13-04-2011,Alm.,3264,8,Villa,164,1877,-10 %
+Engvej 8 7560 Hjerm,8,1125000.0,29-03-2011,Alm.,6016,8,Villa,187,1917,
+Østervang 18 7560 Hjerm,18,1400000.0,25-03-2011,Alm.,7035,7,Villa,199,1966,-3 %
+Bjerregårdsparken 62 7560 Hjerm,62,895000.0,17-02-2011,Alm.,7649,4,Villa,117,1979,0 %
+Østre Hovedgade 15 7560 Hjerm,15,995000.0,16-02-2011,Alm.,6815,4,Villa,146,1900,0 %
+Livbjerggårdvej 27 7560 Hjerm,27,290000.0,04-02-2011,Fam.,3766,3,Sommerhus,77,1968,
+Skarbyvej 2 7560 Hjerm,2,250000.0,20-01-2011,Alm.,1543,6,Stuehus,162,1930,
+Lindevænget 10 7560 Hjerm,10,649142.0,21-12-2010,Alm.,4539,5,Villa,143,1973,
+Sønder Hjermvej 3 7560 Hjerm,3,1760000.0,21-12-2010,Fam.,10931,6,Stuehus,161,1906,
+Vestre Hovedgade 20 7560 Hjerm,20,395000.0,16-11-2010,Alm.,2862,5,Rækkehus,138,1897,-15 %
+Højgårdsparken 24 7560 Hjerm,24,900000.0,13-10-2010,Alm.,6293,5,Villa,143,1977,-10 %
+Tellingvej 17 7560 Hjerm,17,1100000.0,24-09-2010,Alm.,6508,4,Stuehus,169,2013,
+Højgårdsparken 65 7560 Hjerm,65,405871.0,23-08-2010,Alm.,2705,5,Villa,150,2011,
+Altonavej 2 7560 Hjerm,2,1085000.0,07-08-2010,Alm.,14662,4,Sommerhus,74,1912,-10 %
+Christiansborgvej 4 7560 Hjerm,4,1616900.0,04-08-2010,Alm.,8693,6,Villa,186,1977,
+Jernbanevej 5 7560 Hjerm,5,640000.0,30-06-2010,Alm.,5378,3,Villa,119,1964,-4 %
+Livbjerggårdvej 7 7560 Hjerm,7,286700.0,16-06-2010,Fam.,3723,4,Sommerhus,77,1972,
+Højgårdsparken 72 7560 Hjerm,72,1325000.0,07-06-2010,Alm.,6022,6,Villa,220,1975,-5 %
+Østervang 4 7560 Hjerm,4,630000.0,07-06-2010,Alm.,6428,6,Villa,98,1967,-3 %
+Haubovænget 11 7560 Hjerm,11,1750000.0,06-05-2010,Alm.,11824,6,Villa,148,2006,-3 %
+Lindevænget 11 7560 Hjerm,11,892500.0,27-04-2010,Alm.,6660,4,Villa,134,1970,
+Bjerregårdsparken 10 7560 Hjerm,10,1050000.0,09-04-2010,Alm.,7446,5,Villa,141,1979,
+Kærgårdmark 4 7560 Hjerm,4,1950000.0,07-04-2010,Alm.,11206,7,Villa,174,1960,
+Vestre Hovedgade 17 7560 Hjerm,17,440000.0,26-03-2010,Alm.,4112,4,Villa,107,1923,-7 %
+Øster Hjermvej 22 7560 Hjerm,22,725000.0,25-03-2010,Alm.,8734,3,Villa,83,1902,-6 %
+Haubovænget 14 7560 Hjerm,14,2095000.0,20-03-2010,Alm.,12470,5,Villa,168,2001,
+Højgårdsparken 110 7560 Hjerm,110,1400000.0,11-03-2010,Alm.,9210,5,Villa,152,1979,-12 %
+Bjerregårdsparken 72 7560 Hjerm,72,825406.0,11-03-2010,Fam.,6499,4,Villa,127,1980,
+Skolevej 46 7560 Hjerm,46,330000.0,10-03-2010,Alm.,2062,6,Villa,160,2010,0 %
+Højgårdsparken 82 7560 Hjerm,82,925000.0,16-02-2010,Alm.,6801,3,Villa,136,1975,-7 %
+Højvang 10 7560 Hjerm,10,675000.0,15-02-2010,Alm.,5672,3,Villa,119,1900,-3 %
+Sønder Hjermvej 4 7560 Hjerm,4,400000.0,10-02-2010,Alm.,2484,5,Stuehus,161,1916,
+Jegbjergvej 9 7560 Hjerm,9,1230000.0,02-02-2010,Alm.,7321,5,Stuehus,168,1952,
+Højgårdsparken 69 7560 Hjerm,69,264000.0,02-02-2010,Alm.,1771,6,Villa,149,2010,
+"Mosevej 1, ST. 5 7560 Hjerm",5,464000.0,15-01-2010,Alm.,7365,2,Lejlighed,63,1923,
+Sofienlundvej 8 7560 Hjerm,8,60357.0,13-01-2010,Alm.,386,6,Villa,156,1904,
+Skolevej 26 7560 Hjerm,26,1150000.0,29-12-2009,Alm.,12500,3,Rækkehus,92,2007,
+Østre Hovedgade 33 7560 Hjerm,33,396000.0,23-12-2009,Andet,4551,6,Villa,87,1954,
+Bjerregårdsparken 112 7560 Hjerm,112,1250000.0,25-11-2009,Alm.,7530,5,Villa,166,1981,-3 %
+Lindeborgvej 3 7560 Hjerm,3,945000.0,20-11-2009,Alm.,10271,3,Villa,92,1964,0 %
+Højvang 4 7560 Hjerm,4,895000.0,17-11-2009,Alm.,7850,5,Villa,114,1900,
+Villemoesvej 2 7560 Hjerm,2,2650000.0,16-10-2009,Alm.,12619,9,Stuehus,210,1927,-5 %
+Øster Hjermvej 12 7560 Hjerm,12,975000.0,16-10-2009,Alm.,7617,5,Villa,128,1914,-9 %
+Stationsvej 10 7560 Hjerm,10,1395000.0,01-10-2009,Alm.,8718,6,Villa,160,1932,-7 %
+Gartnervej 15 7560 Hjerm,15,650000.0,23-09-2009,Auktion,7386,3,Villa,88,1959,-15 %
+Sofienlundvej 2 7560 Hjerm,2,550000.0,18-09-2009,Alm.,4014,5,Villa,137,1920,-8 %
+Højgårdsparken 55 7560 Hjerm,55,254100.0,08-09-2009,Alm.,1452,5,Villa,175,2010,
+Altonavej 49 7560 Hjerm,49,223333.0,01-08-2009,Fam.,3661,4,Sommerhus,61,1976,
+Bjerregårdsparken 126 7560 Hjerm,126,1855000.0,10-07-2009,Alm.,12045,5,Villa,154,1997,-1 %
+Dalbyvej 6 7560 Hjerm,6,655500.0,08-07-2009,Alm.,3724,4,Stuehus,176,2011,
+Østervang 7 7560 Hjerm,7,807500.0,01-07-2009,Fam.,5607,5,Villa,144,1971,
+Skarbyvej 5 7560 Hjerm,5,1185000.0,18-04-2009,Alm.,8116,4,Villa,146,1920,-1 %
+Livbjerggårdvej 53 7560 Hjerm,53,650000.0,15-04-2009,Fam.,9420,5,Sommerhus,69,1976,
+Skarbyvej 4 7560 Hjerm,4,345000.0,07-04-2009,Alm.,1408,6,Villa,245,2013,
+Bjerregårdsparken 56 7560 Hjerm,56,895000.0,18-03-2009,Alm.,11329,3,Villa,79,1981,0 %
+Skarbyvej 3 7560 Hjerm,3,2165000.0,13-03-2009,Alm.,10989,7,Villa,197,1912,-6 %
+Øster Hjermvej 18 7560 Hjerm,18,214240.0,07-03-2009,Alm.,1110,9,Stuehus,193,1946,
+Engvej 2 7560 Hjerm,2,826000.0,26-02-2009,Auktion,6353,5,Villa,130,1977,4 %
+Villemoesvej 14 7560 Hjerm,14,335000.0,25-02-2009,Fam.,2294,8,Villa,146,1968,
+Skolevej 38 7560 Hjerm,38,1345000.0,31-01-2009,Alm.,12453,4,Rækkehus,108,2009,
+Skolevej 40 7560 Hjerm,40,1345000.0,31-01-2009,Alm.,12453,4,Rækkehus,108,2009,
+Haubovænget 7 7560 Hjerm,7,1850000.0,30-01-2009,Alm.,11562,5,Villa,160,1999,-4 %
+Bjerregårdsparken 38 7560 Hjerm,38,767464.0,24-11-2008,Andet,3799,6,Villa,202,1977,
+Østervang 14 7560 Hjerm,14,1450000.0,14-11-2008,Alm.,7837,6,Villa,185,1968,-2 %
+Skolevej 42 7560 Hjerm,42,1345000.0,03-11-2008,Alm.,12453,4,Rækkehus,108,2009,0 %
+Skolevej 44 7560 Hjerm,44,1345000.0,10-10-2008,Alm.,12453,4,Rækkehus,108,2009,0 %
+Jegbjergvej 14 7560 Hjerm,14,11431300.0,08-09-2008,Alm.,42026,8,Stuehus,272,1890,
+Kirkevej 16 7560 Hjerm,16,133910.0,30-08-2008,Alm.,425,9,Stuehus,315,1931,
+Jegbjergvej 2 7560 Hjerm,2,2350000.0,07-08-2008,Alm.,16549,5,Villa,142,2001,-6 %
+Møllevangsvej 5 7560 Hjerm,5,775000.0,31-07-2008,Alm.,6458,4,Villa,120,1895,0 %
+Kirkevej 8 7560 Hjerm,8,1225000.0,30-07-2008,Fam.,8687,6,Villa,141,1947,
+Østre Hovedgade 44 7560 Hjerm,44,1578745.0,28-07-2008,Alm.,8770,4,Stuehus,180,1918,
+Altonavej 35 7560 Hjerm,35,150000.0,10-07-2008,Alm.,1260,4,Sommerhus,119,2009,-14 %
+Jernbanevej 8 7560 Hjerm,8,1695000.0,10-07-2008,Alm.,7369,8,Villa,230,1925,0 %
+Øster Hjermvej 10 7560 Hjerm,10,2562500.0,16-05-2008,Alm.,12812,5,Villa,200,1890,-4 %
+Haubovænget 6 7560 Hjerm,6,1850000.0,02-05-2008,Alm.,11144,6,Villa,166,1998,-2 %
+Vestre Hovedgade 22 7560 Hjerm,22,720000.0,30-04-2008,Alm.,6371,3,Villa,113,1907,
+Højgårdsparken 128A 7560 Hjerm,0,664845.0,07-04-2008,Alm.,4207,3,Stuehus,158,1994,
+Skolevej 36 7560 Hjerm,36,350000.0,13-03-2008,Alm.,2397,5,Villa,146,2008,0 %
+Bjerregårdsparken 34 7560 Hjerm,34,1145000.0,27-02-2008,Alm.,9015,4,Villa,127,1977,-4 %
+Tellingvej 7 7560 Hjerm,7,1515000.0,20-02-2008,Alm.,8808,6,Villa,172,1900,-5 %
+Øksenbjergvej 2 7560 Hjerm,2,500000.0,14-02-2008,Alm.,2325,4,Villa,215,2006,
+Tusgårdvej 1 7560 Hjerm,1,1895000.0,07-02-2008,Alm.,6966,8,Stuehus,272,1914,-5 %
+Øster Hjermvej 26 7560 Hjerm,26,12750000.0,06-02-2008,Alm.,55434,8,Stuehus,230,1872,
+Livbjerggårdvej 59 7560 Hjerm,59,740000.0,21-12-2007,Alm.,16444,3,Sommerhus,45,1977,-3 %
+Jegbjergvej 3 7560 Hjerm,3,1300000.0,17-12-2007,Alm.,8125,4,Villa,160,1910,-7 %
+Skarbyvej 6 7560 Hjerm,6,2170220.0,10-12-2007,Fam.,18391,6,Stuehus,118,1912,
+Altonavej 47 7560 Hjerm,47,695000.0,08-12-2007,Alm.,9520,4,Sommerhus,73,1978,
+Vestre Hovedgade 39 7560 Hjerm,39,397500.0,03-12-2007,Andet,3822,4,Villa,104,1966,
+"Mosevej 1, ST. 4 7560 Hjerm",4,435000.0,29-11-2007,Alm.,6796,2,Lejlighed,64,1923,
+Sofienlundvej 6B 7560 Hjerm,0,580000.0,29-11-2007,Alm.,2871,6,Villa,202,2009,-7 %
+Hummelmosevej 5 7560 Hjerm,5,1670000.0,02-11-2007,Alm.,8028,7,Villa,208,1914,
+Lindevænget 29 7560 Hjerm,29,835000.0,30-10-2007,Alm.,6574,3,Villa,127,1970,
+Øksenbjergvej 9 7560 Hjerm,9,491306.0,06-10-2007,Andet,2481,8,Villa,198,1895,
+Vinderupvej 19 7560 Hjerm,19,2125000.0,22-09-2007,Alm.,9320,6,Stuehus,228,1910,
+Jegbjergvej 22 7560 Hjerm,22,1680000.0,19-09-2007,Alm.,10120,5,Villa,166,1972,
+Vestre Hovedgade 3 7560 Hjerm,3,1175000.0,14-09-2007,Alm.,5568,6,Villa,211,1911,-2 %
+Højgårdsparken 52 7560 Hjerm,52,925000.0,31-08-2007,Alm.,7905,4,Villa,117,1976,0 %
+Østervang 22 7560 Hjerm,22,800000.0,18-07-2007,Alm.,6349,5,Villa,126,1969,
+Kviumvej 6 7560 Hjerm,6,12700000.0,13-07-2007,Alm.,66492,6,Stuehus,191,1894,
+Skolevej 10 7560 Hjerm,10,1090000.0,26-06-2007,Alm.,11595,3,Villa,94,2007,0 %
+Skarbyvej 14 7560 Hjerm,14,2845000.0,21-05-2007,Alm.,13946,8,Villa,204,1991,
+Gartnervej 1B 7560 Hjerm,0,350000.0,07-05-2007,Alm.,8536,2,Rækkehus,41,1980,-9 %
+Sofienlundvej 6A 7560 Hjerm,0,1365000.0,19-04-2007,Alm.,8639,8,Villa,158,1912,
+Engvej 7 7560 Hjerm,7,150000.0,18-04-2007,Auktion,1829,5,Villa,82,1900,
+Østre Hovedgade 41 7560 Hjerm,41,1600000.0,26-03-2007,Alm.,10322,5,Villa,155,1940,
+Gartnervej 1A 7560 Hjerm,0,220000.0,26-03-2007,Alm.,5365,2,Rækkehus,41,1980,
+Østervang 16 7560 Hjerm,16,1175000.0,21-03-2007,Alm.,7532,6,Villa,156,1967,
+Skolevej 32 7560 Hjerm,32,1090000.0,20-03-2007,Alm.,11595,3,Villa,94,2007,0 %
+Lindeborgvej 17 7560 Hjerm,17,1674000.0,04-03-2007,Alm.,9457,6,Stuehus,177,1974,
+Skolevej 28 7560 Hjerm,28,1080000.0,28-02-2007,Alm.,10485,4,Rækkehus,103,2007,
+Kirkevej 15 7560 Hjerm,15,1575000.0,26-02-2007,Alm.,11580,4,Villa,136,1819,
+Lindevænget 22 7560 Hjerm,22,1285000.0,19-02-2007,Alm.,8398,4,Villa,153,1973,0 %
+Skarbyvej 1A 7560 Hjerm,0,625000.0,18-02-2007,Alm.,5896,5,Villa,106,1968,
+Skolevej 3 7560 Hjerm,3,1208750.0,29-01-2007,Fam.,6198,7,Villa,195,1926,
+Lindevænget 23 7560 Hjerm,23,1385000.0,22-01-2007,Alm.,9172,5,Villa,151,1972,
+Dalbyvej 8 7560 Hjerm,8,1400500.0,22-01-2007,Alm.,6089,7,Villa,230,1902,
+Tellingvej 3 7560 Hjerm,3,635000.0,16-01-2007,Fam.,0,5,Villa,175,1850,
+Jernbanevej 1 7560 Hjerm,1,498000.0,15-01-2007,Alm.,4446,3,Villa,112,1902,0 %
+Vestervang 3 7560 Hjerm,3,1115000.0,07-12-2006,Alm.,11377,2,Villa,98,1956,
+Skolevej 16 7560 Hjerm,16,1015000.0,05-12-2006,Alm.,11032,3,Rækkehus,92,2007,
+Vestre Hovedgade 15 7560 Hjerm,15,1025000.0,27-10-2006,Alm.,6487,4,Villa,158,1950,
+Skolevej 18 7560 Hjerm,18,1015000.0,24-10-2006,Alm.,11032,3,Rækkehus,92,2007,
+Møllevangsvej 1 7560 Hjerm,1,865000.0,23-10-2006,Alm.,6407,6,Villa,135,1886,
+Haubovænget 9 7560 Hjerm,9,1665000.0,11-10-2006,Alm.,11808,5,Villa,141,2004,
+Vestre Hovedgade 12 7560 Hjerm,12,1125000.0,09-10-2006,Alm.,9375,5,Villa,120,1898,
+Østre Hovedgade 16 7560 Hjerm,16,1325000.0,06-10-2006,Alm.,8030,8,Villa,165,1915,
+Skolevej 12 7560 Hjerm,12,1080000.0,14-09-2006,Alm.,10485,4,Rækkehus,103,2007,
+Gartnervej 8 7560 Hjerm,8,940000.0,13-09-2006,Alm.,6911,4,Villa,136,1975,
+Skolevej 34 7560 Hjerm,34,1400000.0,06-09-2006,Alm.,9395,4,Villa,149,2006,
+Hjermvej 63 7560 Hjerm,63,2950000.0,10-08-2006,Alm.,17878,5,Stuehus,165,1868,
+Skolevej 4 7560 Hjerm,4,360000.0,13-07-2006,Alm.,3050,4,Rækkehus,118,1909,
+Skolevej 58 7560 Hjerm,58,478125.0,19-06-2006,Alm.,2716,9,Villa,176,1925,
+Lindeborgvej 6 7560 Hjerm,6,229200.0,01-06-2006,Alm.,1507,5,Villa,152,2007,
+Skarbyvej 1B 7560 Hjerm,0,870000.0,18-05-2006,Alm.,4728,6,Villa,184,1912,
+Volstrupby 4 7560 Hjerm,4,2225000.0,10-04-2006,Alm.,10113,7,Stuehus,220,1938,
+Kviumvej 3 7560 Hjerm,3,1318000.0,29-03-2006,Alm.,7163,5,Villa,184,1880,
+Dalbyvej 4 7560 Hjerm,4,2400000.0,24-03-2006,Alm.,11428,7,Stuehus,210,1900,
+Bjerregårdsparken 132 7560 Hjerm,132,1200000.0,07-02-2006,Alm.,8108,5,Villa,148,1987,
+Højgårdsparken 26 7560 Hjerm,26,1035000.0,02-02-2006,Alm.,7900,5,Villa,131,1976,
+Kærgårdmark 6 7560 Hjerm,6,1050000.0,25-01-2006,Alm.,4183,8,Stuehus,251,1910,
+Østre Hovedgade 37 7560 Hjerm,37,1125000.0,02-01-2006,Alm.,6777,6,Villa,166,1910,
+Kongsgårdvej 6 7560 Hjerm,6,825000.0,15-12-2005,Alm.,6707,5,Villa,123,1939,
+Højgårdsparken 108 7560 Hjerm,108,1078000.0,09-12-2005,Alm.,8693,4,Villa,124,1977,
+Møllevangsvej 3 7560 Hjerm,3,400000.0,04-11-2005,Alm.,5405,3,Villa,74,1934,
+Tusgårdvej 4 7560 Hjerm,4,2005000.0,01-11-2005,Alm.,9780,11,Villa,205,1932,
+Vestre Hovedgade 14 7560 Hjerm,14,750000.0,28-10-2005,Alm.,6756,7,Villa,111,1900,
+Sportsvej 14 7560 Hjerm,14,560000.0,17-10-2005,Alm.,7088,4,Villa,79,1957,
+Vestre Hovedgade 27 7560 Hjerm,27,760000.0,31-08-2005,Alm.,6333,4,Villa,120,1936,
+Lindevænget 9 7560 Hjerm,9,550000.0,29-08-2005,Alm.,3618,7,Villa,152,1971,
+Lindevænget 45 7560 Hjerm,45,1140000.0,25-07-2005,Alm.,7125,5,Villa,160,1971,
+Christiansborgvej 6 7560 Hjerm,6,1462500.0,01-07-2005,Alm.,4352,5,Villa,336,1978,
+Altonavej 39 7560 Hjerm,39,600000.0,20-05-2005,Alm.,8108,4,Sommerhus,74,1978,
+Volstrupvej 8 7560 Hjerm,8,11306400.0,14-05-2005,Alm.,45960,8,Stuehus,246,1924,
+Højgårdsparken 106 7560 Hjerm,106,900000.0,26-04-2005,Alm.,6293,4,Villa,143,1977,
+Jernbanevej 3 7560 Hjerm,3,30500.0,15-04-2005,Alm.,406,3,Villa,75,1907,
+Lindevænget 6 7560 Hjerm,6,995000.0,06-04-2005,Alm.,6030,4,Villa,165,1972,
+Kobberbrovej 3 7560 Hjerm,3,100000.0,21-02-2005,Alm.,724,5,Stuehus,138,1895,
+"Østre Hovedgade 20, 1 7560 Hjerm",1,650000.0,15-02-2005,Alm.,14444,3,Lejlighed,45,1927,
+Kirkevej 17 7560 Hjerm,17,2858000.0,15-02-2005,Alm.,16911,6,Stuehus,169,1932,
+Livbjerggårdvej 61 7560 Hjerm,61,210000.0,04-02-2005,Fam.,2876,4,Sommerhus,73,1977,
+Livbjerggårdvej 9 7560 Hjerm,9,500000.0,31-01-2005,Fam.,4587,5,Sommerhus,109,1971,
+Haubovænget 13 7560 Hjerm,13,193755.0,16-12-2004,Alm.,1146,5,Villa,169,2006,
+Haubovænget 3 7560 Hjerm,3,152470.0,06-12-2004,Alm.,802,8,Villa,190,2006,
+Gartnervej 5 7560 Hjerm,5,650000.0,22-11-2004,Alm.,5508,3,Villa,118,1962,
+Bjerregårdsparken 104 7560 Hjerm,104,740000.0,05-11-2004,Alm.,6915,4,Villa,107,1980,
+Bjerregårdsparken 46 7560 Hjerm,46,655000.0,20-10-2004,Alm.,5745,4,Villa,114,1978,
+Vestre Hovedgade 21 7560 Hjerm,21,1095000.0,19-10-2004,Alm.,7348,5,Villa,149,1931,
+Jernbanevej 7 7560 Hjerm,7,495000.0,28-09-2004,Alm.,5561,3,Villa,89,1964,
+Bjerregårdsparken 16 7560 Hjerm,16,1050000.0,08-09-2004,Alm.,6953,5,Villa,151,1978,
+Østervang 10 7560 Hjerm,10,795000.0,19-06-2004,Alm.,4968,3,Villa,160,1969,
+Altonavej 27 7560 Hjerm,27,495000.0,12-05-2004,Alm.,8389,3,Sommerhus,59,1972,
+Haubovænget 15 7560 Hjerm,15,182508.0,13-04-2004,Alm.,1119,5,Villa,163,2005,
+Vestre Hovedgade 49 7560 Hjerm,49,780000.0,25-03-2004,Alm.,5306,3,Villa,147,1971,
+Lindeborgvej 18 7560 Hjerm,18,1325000.0,18-03-2004,Alm.,8079,7,Villa,164,1939,
+Haubovænget 16 7560 Hjerm,16,173869.0,01-03-2004,Alm.,1136,6,Villa,153,2004,
+Vestre Hovedgade 41 7560 Hjerm,41,767500.0,26-02-2004,Alm.,6977,5,Villa,110,1965,
+Kongsgårdvej 4 7560 Hjerm,4,945000.0,04-02-2004,Alm.,5727,5,Villa,165,1930,
+Livbjerggårdvej 47 7560 Hjerm,47,345000.0,04-02-2004,Alm.,5227,4,Sommerhus,66,1977,
+Villemoesvej 12 7560 Hjerm,12,690328.0,04-02-2004,Alm.,2595,5,Stuehus,266,1900,
+Bjerregårdsparken 134 7560 Hjerm,134,600000.0,29-01-2004,Alm.,4687,4,Villa,128,1999,
+Sønder Hjermvej 17 7560 Hjerm,17,4400000.0,21-01-2004,Alm.,19730,6,Stuehus,223,1900,
+Bjerregårdsparken 18 7560 Hjerm,18,1035000.0,27-12-2003,Alm.,7446,4,Villa,139,1978,
+Højgårdsparken 2 7560 Hjerm,2,640000.0,04-12-2003,Alm.,4413,5,Villa,145,1957,
+Øster Hjermvej 28 7560 Hjerm,28,481735.0,28-11-2003,Alm.,2646,7,Stuehus,182,1961,
+Bjerregårdsparken 42 7560 Hjerm,42,945000.0,03-11-2003,Alm.,5308,4,Villa,178,1978,
+Livbjerggårdvej 13 7560 Hjerm,13,825000.0,03-11-2003,Alm.,10312,5,Sommerhus,80,1970,
+Tellingvej 5 7560 Hjerm,5,830832.0,31-10-2003,Fam.,3811,6,Villa,218,1900,
+Vestre Hovedgade 24 7560 Hjerm,24,480000.0,15-09-2003,Fam.,4948,5,Rækkehus,97,1887,
+Bjerregårdsparken 64 7560 Hjerm,64,1050000.0,15-09-2003,Alm.,6176,6,Villa,170,1980,
+Kirkevej 7 7560 Hjerm,7,680000.0,14-09-2003,Alm.,7234,4,Villa,94,1953,
+Vestre Hovedgade 34 7560 Hjerm,34,290000.0,08-09-2003,Fam.,2377,5,Villa,122,1960,
+Sønder Hjermvej 13 7560 Hjerm,13,1225000.0,05-09-2003,Alm.,0,6,Villa,250,1880,
+Sønder Hjermvej 10 7560 Hjerm,10,620000.0,11-08-2003,Alm.,2719,6,Stuehus,228,1860,
+Altonavej 45 7560 Hjerm,45,398543.0,02-07-2003,Alm.,6991,3,Sommerhus,57,1975,
+Hjermvej 92 7560 Hjerm,92,723333.0,25-06-2003,Alm.,4696,6,Stuehus,154,1877,
+Livbjerggårdvej 23 7560 Hjerm,23,485000.0,19-06-2003,Alm.,10104,2,Sommerhus,48,1968,
+Bjerregårdsparken 50 7560 Hjerm,50,1170000.0,18-06-2003,Alm.,6428,4,Villa,182,1980,
+Livbjerggårdvej 45 7560 Hjerm,45,427000.0,17-06-2003,Alm.,7625,3,Sommerhus,56,1983,
+Bjerregårdsparken 108 7560 Hjerm,108,960000.0,10-06-2003,Alm.,0,6,Villa,169,1987,
+Livbjerggårdvej 11 7560 Hjerm,11,690000.0,23-05-2003,Alm.,0,3,Sommerhus,57,1970,
+Tellingvej 19 7560 Hjerm,19,2219713.0,15-05-2003,Alm.,13873,6,Stuehus,160,1988,
+Østre Hovedgade 21 7560 Hjerm,21,750000.0,19-02-2003,Alm.,0,5,Villa,171,1920,
+Haubovænget 17 7560 Hjerm,17,193760.0,29-01-2003,Alm.,1242,5,Villa,156,2003,
+Haubovænget 10 7560 Hjerm,10,210060.0,20-12-2002,Alm.,1355,5,Villa,155,2003,
+Livbjerggårdvej 3 7560 Hjerm,3,710000.0,02-12-2002,Alm.,9861,4,Sommerhus,72,1983,
+Bjerregårdsparken 54 7560 Hjerm,54,615000.0,28-11-2002,Alm.,4767,4,Villa,129,2012,
+Stationsvej 8 7560 Hjerm,8,865000.0,14-11-2002,Alm.,5029,5,Villa,172,1921,
+Sofienlundvej 7 7560 Hjerm,7,1970000.0,14-11-2002,Alm.,10260,7,Villa,192,1900,
+Ausumvej 8 7560 Hjerm,8,40000.0,30-10-2002,Alm.,236,5,Villa,169,1993,
+Ausumvej 10 7560 Hjerm,10,360000.0,30-10-2002,Alm.,1690,4,Villa,213,1959,
+Vestervang 1 7560 Hjerm,1,975000.0,07-10-2002,Alm.,6132,6,Villa,159,1963,
+Kongsgårdvej 2 7560 Hjerm,2,643455.0,26-08-2002,Alm.,3217,5,Stuehus,200,1974,
+Lindevænget 27 7560 Hjerm,27,750000.0,21-08-2002,Alm.,0,4,Villa,120,1972,
+Vestre Hovedgade 47 7560 Hjerm,47,785000.0,09-08-2002,Alm.,5607,5,Villa,140,1969,
+Livbjerggårdvej 33 7560 Hjerm,33,460000.0,29-07-2002,Alm.,5287,3,Sommerhus,87,1973,
+Østre Hovedgade 5 7560 Hjerm,5,550000.0,27-06-2002,Alm.,2631,5,Villa,209,1909,
+Altonavej 17 7560 Hjerm,17,325000.0,18-06-2002,Alm.,6132,3,Sommerhus,53,1971,
+Gartnervej 2 7560 Hjerm,2,657000.0,09-06-2002,Alm.,7141,3,Villa,92,1966,
+Skarbyvej 7B 7560 Hjerm,0,2400000.0,07-05-2002,Alm.,14634,6,Stuehus,164,1910,
+Øster Hjermvej 3 7560 Hjerm,3,3850000.0,26-03-2002,Alm.,20370,5,Stuehus,189,1864,
+Østre Hovedgade 17 7560 Hjerm,17,710966.0,24-01-2002,Alm.,5687,7,Villa,125,1900,
+Højgårdsparken 40 7560 Hjerm,40,820000.0,21-01-2002,Alm.,5430,6,Villa,151,1976,
+Bjerregårdsparken 136 7560 Hjerm,136,855000.0,19-01-2002,Alm.,6627,4,Villa,129,1987,
+Lindevænget 41 7560 Hjerm,41,390000.0,29-11-2001,Alm.,2085,6,Villa,187,1970,
+Lindeborgvej 10 7560 Hjerm,10,675000.0,20-11-2001,Alm.,6250,3,Villa,108,1963,
+Vestre Hovedgade 11 7560 Hjerm,11,990060.0,25-10-2001,Auktion,2820,9,Villa,351,1978,
+Jegbjergvej 6 7560 Hjerm,6,3175000.0,24-10-2001,Alm.,14431,5,Stuehus,220,1930,
+Sønder Hjermvej 8 7560 Hjerm,8,1050000.0,14-10-2001,Alm.,4085,6,Villa,257,1905,
+Jernbanevej 18 7560 Hjerm,18,290506.0,12-10-2001,Fam.,2848,5,Villa,102,1897,
+Lindevænget 5 7560 Hjerm,5,805000.0,28-09-2001,Alm.,5669,5,Villa,142,1971,
+Lindevænget 12 7560 Hjerm,12,702000.0,25-09-2001,Alm.,5200,5,Villa,135,1972,
+Jernbanevej 12 7560 Hjerm,12,452214.0,20-09-2001,Alm.,5024,3,Villa,90,1943,
+Østervang 11 7560 Hjerm,11,760000.0,12-09-2001,Alm.,6031,4,Villa,126,1968,
+Hummelmosevej 1 7560 Hjerm,1,90000.0,23-07-2001,Alm.,725,4,Villa,124,1925,
+Bjerregårdsparken 14 7560 Hjerm,14,735000.0,05-07-2001,Alm.,0,4,Villa,113,1977,
+Vinderupvej 11 7560 Hjerm,11,6900000.0,02-07-2001,Fam.,27710,8,Stuehus,249,1973,
+Jernbanevej 9 7560 Hjerm,9,1150000.0,23-06-2001,Alm.,6052,6,Villa,190,1920,
+Bjerregårdsparken 114 7560 Hjerm,114,550000.0,18-06-2001,Alm.,0,7,Villa,168,1981,
+Altonavej 31 7560 Hjerm,31,350000.0,30-05-2001,Alm.,0,3,Sommerhus,59,1973,
+Kærgårdmark 1 7560 Hjerm,1,16000.0,12-03-2001,Alm.,275,2,Villa,58,1904,
+Bjerregårdsparken 52 7560 Hjerm,52,1033000.0,06-03-2001,Alm.,7766,5,Villa,133,1979,
+Volstrupvej 11 7560 Hjerm,11,1390800.0,19-02-2001,Fam.,8429,5,Stuehus,165,1910,
+Højgårdsparken 68 7560 Hjerm,68,900000.0,05-02-2001,Alm.,3614,5,Villa,249,1977,
+Bjerregårdsparken 76 7560 Hjerm,76,1098000.0,15-01-2001,Alm.,4880,8,Villa,225,1980,
+Lindevænget 8 7560 Hjerm,8,725000.0,27-12-2000,Alm.,4215,4,Villa,172,1972,
+Østre Hovedgade 12 7560 Hjerm,12,285000.0,21-12-2000,Alm.,3518,4,Villa,81,1890,
+Hummelmosevej 6 7560 Hjerm,6,1612221.0,11-12-2000,Alm.,7941,4,Villa,203,1913,
+Bjerregårdsparken 124 7560 Hjerm,124,1180000.0,13-11-2000,Alm.,6982,5,Villa,169,1987,
+Stationsvej 6 7560 Hjerm,6,466347.0,06-11-2000,Alm.,5422,3,Villa,86,1921,
+Kviumvej 8 7560 Hjerm,8,2360000.0,05-11-2000,Alm.,14750,6,Stuehus,160,1917,
+Bjerregårdsparken 96 7560 Hjerm,96,961382.0,09-06-2000,Alm.,7068,5,Villa,136,1984,
+Bjerregårdsparken 106 7560 Hjerm,106,500000.0,08-06-2000,Alm.,6329,3,Villa,79,1981,
+Lindeborgvej 11 7560 Hjerm,11,2300000.0,28-04-2000,Fam.,10697,6,Stuehus,215,1930,
+Højvang 2 7560 Hjerm,2,543000.0,28-03-2000,Alm.,0,4,Villa,170,1955,
+Sofienlundvej 3 7560 Hjerm,3,997000.0,01-02-2000,Alm.,0,8,Villa,232,1920,
+Haubovænget 8 7560 Hjerm,8,202650.0,05-11-1999,Alm.,0,6,Villa,224,2000,
+Haubovænget 4 7560 Hjerm,4,154593.0,23-10-1999,Alm.,1236,5,Villa,125,2000,
+Højvang 6 7560 Hjerm,6,495000.0,27-09-1999,Alm.,5689,3,Rækkehus,87,1900,
+Vestervang 5 7560 Hjerm,5,874000.0,02-09-1999,Alm.,6069,5,Villa,144,1961,
+Villemoesvej 16 7560 Hjerm,16,218127.0,30-08-1999,Alm.,1246,7,Stuehus,175,1917,
+Bjerregårdsparken 120 7560 Hjerm,120,1238000.0,16-08-1999,Fam.,7197,5,Villa,172,1986,
+Hummelmosevej 4 7560 Hjerm,4,937000.0,22-07-1999,Alm.,5385,6,Villa,174,1910,
+Mosevej 4 7560 Hjerm,4,900000.0,09-07-1999,Fam.,2678,13,Villa,336,1909,
+Stationsvej 4 7560 Hjerm,4,120000.0,08-07-1999,Alm.,863,4,Villa,139,2000,
+Kærgårdmark 7 7560 Hjerm,7,254236.0,30-06-1999,Fam.,1041,5,Villa,244,1909,
+Østre Hovedgade 10 7560 Hjerm,10,630000.0,07-06-1999,Alm.,2307,7,Villa,273,1919,
+Bjerregårdsparken 30 7560 Hjerm,30,615000.0,29-05-1999,Alm.,5256,4,Villa,117,1978,
+Vestre Hovedgade 35 7560 Hjerm,35,650000.0,22-05-1999,Alm.,3457,5,Villa,188,1967,
+Bjerregårdsparken 144 7560 Hjerm,144,1372000.0,12-05-1999,Alm.,9594,5,Villa,143,1999,
+Dalbyvej 3 7560 Hjerm,3,775000.0,21-04-1999,Alm.,7380,5,Villa,105,1902,
+Haubovænget 2 7560 Hjerm,2,149768.0,19-04-1999,Alm.,0,6,Villa,199,1999,
+Vestre Hovedgade 7 7560 Hjerm,7,415000.0,12-04-1999,Alm.,3346,7,Villa,124,1912,
+Lindeborgvej 15 7560 Hjerm,15,1574791.0,18-03-1999,Alm.,8847,4,Villa,178,1947,
+Øster Hjermvej 32 7560 Hjerm,32,884000.0,19-02-1999,Alm.,5932,5,Villa,149,1885,
+Hjermvej 69 7560 Hjerm,69,98085.0,04-01-1999,Alm.,658,4,Villa,149,1997,
+Højvang 8 7560 Hjerm,8,410000.0,12-11-1998,Alm.,4606,4,Rækkehus,89,1901,
+Østre Hovedgade 46 7560 Hjerm,46,795000.0,04-11-1998,Alm.,5932,7,Villa,134,1931,
+Altonavej 21 7560 Hjerm,21,250000.0,30-10-1998,Fam.,3968,4,Sommerhus,63,1972,
+Engvej 5 7560 Hjerm,5,442890.0,01-09-1998,Alm.,3330,4,Villa,133,1907,
+Øksenbjergvej 6 7560 Hjerm,6,1300000.0,21-08-1998,Fam.,9027,8,Stuehus,144,1914,
+"Mosevej 1, ST. 2 7560 Hjerm",2,544999.0,13-08-1998,Alm.,3784,3,Lejlighed,144,1923,
+Skarbyvej 10 7560 Hjerm,10,1200000.0,05-08-1998,Alm.,4477,6,Villa,268,1902,
+Sønder Hjermvej 6 7560 Hjerm,6,510000.0,03-08-1998,Alm.,0,4,Villa,136,1958,
+Sofienlundvej 12 7560 Hjerm,12,2100000.0,01-07-1998,Fam.,14383,5,Stuehus,146,1904,
+Sofienlundvej 5 7560 Hjerm,5,1390000.0,30-06-1998,Alm.,7897,5,Villa,176,1880,
+Christiansborgvej 5 7560 Hjerm,5,1510170.0,24-06-1998,Andet,8935,7,Villa,169,1977,
+Øster Hjermvej 24 7560 Hjerm,24,809000.0,08-06-1998,Alm.,4148,6,Villa,195,1892,
+Bjerregårdsparken 116 7560 Hjerm,116,678000.0,27-05-1998,Alm.,4159,5,Villa,163,1980,
+Tellingvej 15 7560 Hjerm,15,400000.0,07-04-1998,Alm.,1923,8,Villa,208,1902,
+Vestre Hovedgade 43 7560 Hjerm,43,744000.0,30-03-1998,Alm.,4800,5,Villa,155,1971,
+Lindevænget 2 7560 Hjerm,2,900000.0,23-03-1998,Alm.,4945,4,Villa,182,1975,
+Lindevænget 1 7560 Hjerm,1,983500.0,29-01-1998,Alm.,4617,7,Villa,213,1969,
+Vinderupvej 15 7560 Hjerm,15,450000.0,22-01-1998,Alm.,2393,4,Stuehus,188,2003,
+Skarbyvej 16 7560 Hjerm,16,3400000.0,09-12-1997,Alm.,10897,7,Stuehus,312,1999,
+Tellingvej 11 7560 Hjerm,11,249000.0,14-10-1997,Alm.,1976,4,Villa,126,1941,
+Hjortborgvej 4 7560 Hjerm,4,76545.0,15-09-1997,Alm.,458,4,Villa,167,1998,
+Højgårdsparken 64 7560 Hjerm,64,933000.0,29-08-1997,Alm.,5831,6,Villa,160,1977,
+Sønder Hjermvej 12 7560 Hjerm,12,1620000.0,05-08-1997,Fam.,6480,10,Stuehus,250,1909,
+Livbjerggårdvej 43 7560 Hjerm,43,230000.0,19-07-1997,Alm.,0,4,Sommerhus,86,1967,
+Volstrupvej 9 7560 Hjerm,9,350000.0,04-07-1997,Alm.,1666,5,Villa,210,1999,
+Vestre Hovedgade 19 7560 Hjerm,19,695000.0,16-06-1997,Alm.,6318,3,Villa,110,1923,
+Livbjerggårdvej 17 7560 Hjerm,17,185000.0,13-06-1997,Alm.,0,4,Sommerhus,72,1971,
+Altonavej 25 7560 Hjerm,25,226664.0,05-04-1997,Alm.,3541,4,Sommerhus,64,1970,
+Lindevænget 30 7560 Hjerm,30,602961.0,01-04-1997,Alm.,5531,4,Villa,109,1972,
+Skarbyvej 12 7560 Hjerm,12,429684.0,03-03-1997,Alm.,4015,3,Villa,107,1961,
+Bjerregårdsparken 12 7560 Hjerm,12,736000.0,12-02-1997,Alm.,4111,5,Villa,179,1978,
+Volstrupby 1 7560 Hjerm,1,350000.0,30-12-1996,Fam.,1707,6,Villa,205,1850,
+Lindeborgvej 16 7560 Hjerm,16,1196380.0,26-11-1996,Alm.,8607,5,Villa,139,1986,
+Livbjerggårdvej 25 7560 Hjerm,25,168500.0,18-11-1996,Fam.,1831,3,Sommerhus,92,1972,
+Volstrupby 3 7560 Hjerm,3,3400000.0,12-11-1996,Fam.,17171,7,Stuehus,198,1913,
+Skarbyvej 8 7560 Hjerm,8,805000.0,18-10-1996,Alm.,0,6,Villa,227,1914,
+Volstrupvej 6 7560 Hjerm,6,1111020.0,27-09-1996,Alm.,0,9,Villa,257,1817,
+Lindeborgvej 13 7560 Hjerm,13,1300000.0,19-08-1996,Alm.,4642,6,Villa,280,1827,
+Livbjerggårdvej 39 7560 Hjerm,39,334000.0,08-08-1996,Alm.,3752,4,Sommerhus,89,1972,
+Øksenbjergvej 11 7560 Hjerm,11,2500000.0,10-07-1996,Fam.,17361,6,Stuehus,144,1914,
+Bjerregårdsparken 94 7560 Hjerm,94,1027000.0,04-07-1996,Alm.,6892,5,Villa,149,1980,
+Jernbanevej 11 7560 Hjerm,11,269000.0,25-06-1996,Alm.,2186,4,Villa,123,1902,
+Øster Hjermvej 15 7560 Hjerm,15,418000.0,20-06-1996,Alm.,2259,4,Villa,185,1890,
+Lindevænget 20 7560 Hjerm,20,692000.0,19-03-1996,Alm.,4839,5,Villa,143,1972,
+Villemoesvej 3 7560 Hjerm,3,400000.0,01-03-1996,Alm.,4597,4,Villa,87,1906,
+Møllevangsvej 8 7560 Hjerm,8,1000000.0,29-02-1996,Alm.,4255,9,Villa,235,1940,
+Højgårdsparken 114 7560 Hjerm,114,680000.0,29-01-1996,Alm.,0,6,Villa,153,1979,
+Lindeborgvej 19 7560 Hjerm,19,850061.0,29-12-1995,Fam.,4474,5,Stuehus,190,1913,
+Livbjerggårdvej 29 7560 Hjerm,29,265000.0,13-12-1995,Alm.,3785,4,Sommerhus,70,1973,
+Livbjerggårdvej 21 7560 Hjerm,21,325000.0,23-10-1995,Alm.,4924,4,Sommerhus,66,1970,
+Vestervang 4 7560 Hjerm,4,595494.0,07-10-1995,Alm.,3308,6,Villa,180,1959,
+Kirkevej 6 7560 Hjerm,6,435000.0,28-09-1995,Alm.,3815,5,Villa,114,1944,
+Kirkevej 22 7560 Hjerm,22,982200.0,21-08-1995,Fam.,7015,5,Villa,140,1906,
+Stationsvej 14 7560 Hjerm,14,390000.0,17-07-1995,Alm.,0,5,Rækkehus,115,1887,
+Lindevænget 51 7560 Hjerm,51,400000.0,30-06-1995,Alm.,0,5,Villa,164,1965,
+Sønder Hjermvej 11 7560 Hjerm,11,430000.0,26-04-1995,Alm.,0,3,Villa,102,1910,
+Mosevej 2 7560 Hjerm,2,504000.0,25-04-1995,Alm.,0,3,Villa,101,1935,
+Sønder Hjermvej 9 7560 Hjerm,9,634000.0,03-04-1995,Alm.,0,6,Villa,144,1913,
+Højgårdsparken 44 7560 Hjerm,44,580000.0,25-03-1995,Alm.,4566,5,Villa,127,1977,
+Lindevænget 4 7560 Hjerm,4,802204.0,06-03-1995,Alm.,4951,4,Villa,162,1973,
+Højgårdsparken 112 7560 Hjerm,112,855000.0,23-02-1995,Alm.,0,7,Villa,186,1983,
+Højgårdsparken 42B 7560 Hjerm,0,728000.0,15-02-1995,Alm.,5275,5,Villa,138,1977,
+Tusgårdvej 6 7560 Hjerm,6,2325000.0,24-01-1995,Alm.,19375,5,Stuehus,120,1900,
+Højgårdsparken 28 7560 Hjerm,28,695000.0,31-12-1994,Alm.,4112,7,Villa,169,1976,
+Bjerregårdsparken 100 7560 Hjerm,100,595000.0,28-11-1994,Alm.,0,6,Villa,157,1980,
+Kongsgårdvej 11 7560 Hjerm,11,565000.0,21-10-1994,Alm.,3192,6,Villa,177,1877,
+Jegbjergvej 8 7560 Hjerm,8,700000.0,03-10-1994,Alm.,0,7,Villa,234,1900,
+Højgårdsparken 90 7560 Hjerm,90,601380.0,22-07-1994,Alm.,0,7,Villa,176,1977,
+Østre Hovedgade 18 7560 Hjerm,18,479000.0,29-06-1994,Alm.,3742,4,Villa,128,1900,
+Vestre Hovedgade 13 7560 Hjerm,13,715000.0,10-06-1994,Alm.,5107,6,Villa,140,1959,
+Kobberbrovej 1 7560 Hjerm,1,425000.0,08-06-1994,Alm.,0,8,Villa,204,1895,
+Vestervang 2 7560 Hjerm,2,285000.0,19-05-1994,Alm.,3701,2,Villa,77,1952,
+Lindeborgvej 2 7560 Hjerm,2,445000.0,18-04-1994,Alm.,4944,3,Villa,90,1952,
+Hummelmosevej 2 7560 Hjerm,2,425000.0,15-04-1994,Alm.,0,6,Villa,232,1905,
+Højgårdsparken 32 7560 Hjerm,32,713000.0,08-04-1994,Alm.,5242,3,Villa,136,1977,
+Højgårdsparken 94 7560 Hjerm,94,610000.0,14-03-1994,Alm.,4841,4,Villa,126,1977,
+Sofienlundvej 1 7560 Hjerm,1,550000.0,02-09-1993,Alm.,4135,4,Villa,133,1877,
+Lindevænget 3 7560 Hjerm,3,500000.0,24-08-1993,Alm.,0,5,Villa,197,1970,
+Højgårdsparken 96 7560 Hjerm,96,545000.0,24-06-1993,Alm.,4325,4,Villa,126,1977,
+Vestre Hovedgade 25 7560 Hjerm,25,588000.0,04-06-1993,Alm.,3920,8,Villa,150,1936,
+Villemoesvej 4 7560 Hjerm,4,1979393.0,09-05-1993,Fam.,4064,13,Stuehus,487,1936,
+Sønder Hjermvej 2 7560 Hjerm,2,560000.0,17-02-1993,Alm.,3733,3,Villa,150,1903,
+Kongsgårdvej 15 7560 Hjerm,15,750000.0,29-09-1992,Alm.,2225,6,Stuehus,337,1920,
+Højgårdsparken 36 7560 Hjerm,36,595000.0,28-09-1992,Alm.,3993,4,Villa,149,1977,
+Jegbjergvej 7 7560 Hjerm,7,713000.0,21-08-1992,Fam.,7922,5,Stuehus,90,1907,
+Højgårdsparken 60 7560 Hjerm,60,490000.0,06-03-1992,Andet,3656,5,Villa,134,1978,
+Hummelmosevej 8 7560 Hjerm,8,1420000.0,23-01-1992,Alm.,9342,6,Villa,152,1877,
+Kongsgårdvej 3 7560 Hjerm,3,204173.0,06-01-1992,Alm.,1379,7,Villa,148,1958,
+Bjerregårdsparken 78 7560 Hjerm,78,460000.0,02-01-1992,Alm.,2893,5,Villa,159,1980,

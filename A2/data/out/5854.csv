@@ -1,0 +1,484 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Faaborgvej 8 5854 Gislev,8,295000.0,01-05-2017,Alm.,3072,6,Villa,96,1884,
+Engdraget 1 5854 Gislev,1,460000.0,03-04-2017,Alm.,3172,4,Villa,145,1973,-34 %
+Slipager 1 5854 Gislev,1,1150000.0,24-03-2017,Alm.,7876,6,Villa,146,1980,-2 %
+Søndervangen 15 5854 Gislev,15,800000.0,17-03-2017,Alm.,4301,7,Villa,186,1971,-10 %
+Faaborgvej 30 5854 Gislev,30,625000.0,15-03-2017,Alm.,3742,6,Villa,167,1777,0 %
+Sandagervej 19A 5854 Gislev,0,550000.0,10-03-2017,Alm.,4741,4,Villa,116,1978,-12 %
+Håndværkervej 2 5854 Gislev,2,700000.0,07-03-2017,Alm.,3825,7,Villa,183,1957,-7 %
+Kærsangervænget 3 5854 Gislev,3,900000.0,16-01-2017,Alm.,5454,5,Villa,165,1976,-10 %
+Rørsangervænget 2 5854 Gislev,2,570000.0,09-01-2017,Alm.,3257,1,Villa,175,1977,-18 %
+Gransangervænget 2 5854 Gislev,2,700000.0,28-12-2016,Alm.,5223,4,Villa,134,1975,-5 %
+Søndervangen 23 5854 Gislev,23,675000.0,22-12-2016,Alm.,5400,4,Villa,125,1973,4 %
+Kildemarken 3 5854 Gislev,3,875000.0,12-12-2016,Alm.,4943,5,Villa,177,1971,-12 %
+Engdraget 12 5854 Gislev,12,987500.0,03-12-2016,Alm.,6810,4,Villa,145,1972,-17 %
+Lamdrupvej 4 5854 Gislev,4,140000.0,16-11-2016,Alm.,945,7,Villa,148,1915,
+"Ørbækvej 30, ST. TV 5854 Gislev",0,900000.0,07-11-2016,Alm.,6923,5,Villa,130,1948,
+Stenhuggervej 6 5854 Gislev,6,700000.0,03-11-2016,Alm.,4895,4,Villa,143,1974,
+Ravndrupvej 11A 5854 Gislev,0,650000.0,31-10-2016,Alm.,3095,6,Stuehus,210,1915,
+Ravndrupvej 8 5854 Gislev,8,180000.0,27-10-2016,Alm.,947,8,Stuehus,190,1900,
+Apotekervej 5 5854 Gislev,5,995000.0,12-10-2016,Alm.,7370,6,Villa,135,1907,
+Sandagervej 20 5854 Gislev,20,1992000.0,12-10-2016,Alm.,10375,7,Stuehus,192,1858,0 %
+Lykkesholmsvej 2 5854 Gislev,2,225000.0,21-09-2016,Alm.,1500,4,Villa,150,1902,-55 %
+Holmevænget 8 5854 Gislev,8,629000.0,07-09-2016,Fam.,5072,5,Villa,124,1972,
+Holmevænget 20 5854 Gislev,20,635000.0,29-08-2016,Alm.,5336,4,Villa,119,1972,-9 %
+Lamdrupvej 49 5854 Gislev,49,635000.0,22-08-2016,Alm.,5381,5,Villa,118,1890,
+Ørbækvej 84 5854 Gislev,84,300000.0,22-08-2016,Alm.,2027,3,Villa,148,1877,0 %
+Genvej 1 5854 Gislev,1,730000.0,20-06-2016,Alm.,6083,4,Villa,120,1976,-6 %
+Præstevænget 6 5854 Gislev,6,800000.0,17-06-2016,Alm.,9876,3,Stuehus,81,1931,-68 %
+Lykkesholmsvej 7 5854 Gislev,7,1795000.0,09-05-2016,Alm.,6084,10,Stuehus,295,1850,
+Ravndrupvej 23 5854 Gislev,23,211400.0,07-01-2016,Auktion,1438,4,Villa,147,1867,
+Blåmejsevænget 3 5854 Gislev,3,500000.0,13-12-2015,Alm.,3968,4,Villa,126,1974,-9 %
+Svinget 4 5854 Gislev,4,200000.0,24-11-2015,Andet,1388,5,Villa,144,1900,
+Lykkesholmsvej 3 5854 Gislev,3,700000.0,19-10-2015,Alm.,5303,4,Villa,132,1931,-6 %
+Degnemarken 1 5854 Gislev,1,240000.0,08-10-2015,Auktion,2033,4,Villa,118,1964,-58 %
+Rørsangervænget 1 5854 Gislev,1,458300.0,08-10-2015,Auktion,2995,7,Villa,153,1977,-34 %
+Ørbækvej 1 5854 Gislev,1,155000.0,07-10-2015,Auktion,1383,5,Villa,112,1850,
+Holmevej 25 5854 Gislev,25,200000.0,01-10-2015,Alm.,2469,6,Villa,81,1959,-32 %
+Mosevej 11 5854 Gislev,11,75000.0,24-09-2015,Alm.,1630,3,Villa,46,1942,
+Ravndrupvej 13 5854 Gislev,13,575000.0,21-07-2015,Alm.,4423,3,Villa,130,1857,-17 %
+Ørbækvej 98 5854 Gislev,98,350000.0,08-07-2015,Fam.,2966,3,Villa,118,1930,-11 %
+Sandagervej 26 5854 Gislev,26,1095000.0,25-06-2015,Alm.,5214,5,Villa,210,1900,0 %
+Degnemarken 2 5854 Gislev,2,350000.0,09-06-2015,Andet,3211,4,Villa,109,1964,
+Faaborgvej 22 5854 Gislev,22,450000.0,21-05-2015,Fam.,3571,5,Villa,126,1950,
+Bytoften 7 5854 Gislev,7,600000.0,16-04-2015,Alm.,4477,5,Villa,134,1967,-8 %
+Løvsangervænget 2 5854 Gislev,2,300000.0,31-03-2015,Alm.,2362,4,Villa,127,1978,
+Ørbækvej 47 5854 Gislev,47,1450000.0,18-03-2015,Alm.,6196,5,Villa,234,1880,-6 %
+Sveltekrogen 6 5854 Gislev,6,380000.0,11-03-2015,Andet,2000,7,Villa,190,1860,
+Østervang 2 5854 Gislev,2,665000.0,04-03-2015,Alm.,5541,4,Villa,120,1970,-4 %
+Ørbækvej 96 5854 Gislev,96,750000.0,22-02-2015,Alm.,5859,5,Villa,128,1932,-3 %
+Lamdrupvej 33 5854 Gislev,33,1350000.0,15-02-2015,Alm.,7803,6,Villa,173,1914,-3 %
+Præstevænget 12 5854 Gislev,12,1050000.0,13-02-2015,Alm.,6645,6,Stuehus,158,1931,
+Tornsangervænget 1 5854 Gislev,1,440000.0,09-02-2015,Alm.,2682,6,Villa,164,1976,
+Kildemarken 7 5854 Gislev,7,500000.0,06-02-2015,Alm.,4166,4,Villa,120,1973,-16 %
+Gislev Lærkevej 24 5854 Gislev,24,315000.0,02-02-2015,Andet,2863,4,Villa,110,1967,
+Kohavevej 7 5854 Gislev,7,1088000.0,02-02-2015,Alm.,6886,5,Stuehus,158,1900,
+Ørbækvej 27 5854 Gislev,27,582754.0,15-01-2015,Andet,4075,6,Villa,143,1929,
+Ørbækvej 4 5854 Gislev,4,675000.0,12-01-2015,Alm.,5869,3,Villa,115,1977,-3 %
+Nordsangervænget 2 5854 Gislev,2,320000.0,17-12-2014,Andet,5423,1,Rækkehus,59,1977,
+Bygmestervej 2 5854 Gislev,2,3150000.0,17-12-2014,Andet,17119,8,Villa,184,1969,
+Gislev Lærkevej 13 5854 Gislev,13,850000.0,23-11-2014,Alm.,7798,3,Villa,109,1968,-5 %
+Bytoften 5 5854 Gislev,5,419728.0,18-11-2014,Andet,2874,5,Villa,146,1970,
+Apotekervej 6 5854 Gislev,6,595000.0,13-11-2014,Alm.,5721,3,Villa,104,1982,-14 %
+Holmevænget 12 5854 Gislev,12,780000.0,23-10-2014,Alm.,6842,4,Villa,114,1972,-2 %
+Skelvænget 34 5854 Gislev,34,650000.0,11-09-2014,Alm.,7386,3,Villa,88,2000,-6 %
+Søndervangen 13 5854 Gislev,13,867500.0,05-09-2014,Alm.,6673,3,Villa,130,1973,-2 %
+Bjergager 17 5854 Gislev,17,1400000.0,01-08-2014,Alm.,10447,5,Villa,134,1999,-6 %
+Lykkesholmsvej 4 5854 Gislev,4,539500.0,03-06-2014,Fam.,3695,5,Villa,146,1900,
+Stenhuggervej 4 5854 Gislev,4,1200000.0,03-06-2014,Alm.,8219,5,Villa,146,1976,-5 %
+Skolegyden 1 5854 Gislev,1,275000.0,22-05-2014,Alm.,2291,5,Villa,120,1922,-8 %
+Søltvej 30 5854 Gislev,30,865000.0,01-04-2014,Alm.,8238,3,Villa,105,1907,
+Skelvænget 30 5854 Gislev,30,775000.0,19-03-2014,Alm.,8806,3,Villa,88,2000,
+Faaborgvej 15 5854 Gislev,15,685000.0,10-03-2014,Alm.,2464,10,Villa,278,1938,-28 %
+Lykkesholmsvej 6 5854 Gislev,6,310000.0,19-02-2014,Alm.,3195,3,Villa,97,1957,-22 %
+Sandagervej 18 5854 Gislev,18,550000.0,23-01-2014,Alm.,4365,5,Villa,126,1915,-8 %
+Bogfinkevænget 6 5854 Gislev,6,500000.0,07-01-2014,Alm.,4000,4,Villa,125,1975,-16 %
+Faaborgvej 41 5854 Gislev,41,893000.0,14-12-2013,Fam.,6765,4,Villa,132,1976,
+Faaborgvej 42 5854 Gislev,42,706000.0,14-12-2013,Fam.,6723,5,Stuehus,105,1949,
+Faaborgvej 49 5854 Gislev,49,1063000.0,14-12-2013,Fam.,4447,6,Stuehus,239,1860,
+Faaborgvej 34 5854 Gislev,34,970000.0,28-11-2013,Alm.,6298,4,Villa,154,1990,-11 %
+Damgårdsvej 3 5854 Gislev,3,2350000.0,26-09-2013,Alm.,15259,5,Villa,154,1925,
+Sandagervej 7 5854 Gislev,7,650000.0,14-09-2013,Alm.,6132,3,Villa,106,1949,
+Smedeager 10 5854 Gislev,10,365601.0,19-08-2013,Alm.,2405,4,Villa,152,2014,
+Gislev Lærkevej 7 5854 Gislev,7,371500.0,15-08-2013,Auktion,3439,3,Villa,108,1969,
+Søltvej 22 5854 Gislev,22,1200000.0,15-08-2013,Alm.,4494,6,Stuehus,267,1852,
+Søndervangen 22 5854 Gislev,22,1050000.0,18-07-2013,Alm.,0,4,Villa,140,1973,-4 %
+Sandagervej 1 5854 Gislev,1,625000.0,17-07-2013,Alm.,4032,9,Villa,155,1907,-9 %
+Lamdrupvej 6 5854 Gislev,6,11425000.0,19-06-2013,Alm.,40803,10,Stuehus,280,1873,
+Kildemarken 25 5854 Gislev,25,975000.0,03-06-2013,Alm.,7500,3,Villa,130,1968,-7 %
+Skelvænget 40 5854 Gislev,40,270896.0,18-05-2013,Andet,3429,3,Villa,79,2000,
+Ørbækvej 10B 5854 Gislev,0,3650000.0,30-04-2013,Alm.,51408,3,Rækkehus,71,2005,
+Bakkevej 5 5854 Gislev,5,500000.0,22-03-2013,Alm.,3571,4,Villa,140,1978,-58 %
+Kildemarken 23 5854 Gislev,23,815000.0,17-03-2013,Alm.,6367,3,Villa,128,1968,-4 %
+Ørbækvej 62 5854 Gislev,62,325000.0,19-12-2012,Auktion,2338,6,Villa,139,1948,
+Faaborgvej 9 5854 Gislev,9,700000.0,06-12-2012,Alm.,4516,7,Villa,155,1944,-12 %
+Vibevej 2 5854 Gislev,2,825000.0,04-12-2012,Alm.,6600,5,Villa,125,1967,
+Lykkevænget 7 5854 Gislev,7,320000.0,15-10-2012,Andet,4155,3,Rækkehus,77,1987,
+Ørbækvej 17 5854 Gislev,17,350000.0,21-09-2012,Alm.,3211,6,Villa,109,1918,-29 %
+Holmevej 12 5854 Gislev,12,835000.0,13-09-2012,Alm.,6185,5,Villa,135,1677,-7 %
+Kildemarken 21 5854 Gislev,21,520000.0,13-09-2012,Alm.,6117,3,Villa,85,1969,-13 %
+Holmevænget 1 5854 Gislev,1,865000.0,28-08-2012,Alm.,6757,5,Villa,128,1975,-6 %
+Søltvej 15 5854 Gislev,15,471500.0,31-07-2012,Andet,2840,7,Villa,166,1875,
+Bjergager 21 5854 Gislev,21,1795000.0,07-07-2012,Alm.,10141,5,Villa,177,1998,0 %
+Bakkevej 3 5854 Gislev,3,900000.0,27-04-2012,Alm.,6428,5,Villa,140,1974,-18 %
+Engdraget 5 5854 Gislev,5,1450000.0,17-04-2012,Alm.,8381,6,Villa,173,1974,-3 %
+Slipager 30 5854 Gislev,30,962500.0,27-03-2012,Alm.,6459,4,Villa,149,1979,-6 %
+Søndervangen 44 5854 Gislev,44,455000.0,16-03-2012,Alm.,3855,4,Villa,118,1975,
+Faaborgvej 4 5854 Gislev,4,1362156.0,20-02-2012,Alm.,6365,6,Villa,214,1911,
+Holmevej 27 5854 Gislev,27,277000.0,09-02-2012,Auktion,2473,5,Villa,112,1947,-53 %
+Ravndrupvej 24 5854 Gislev,24,650000.0,24-01-2012,Auktion,2674,9,Villa,243,1877,-48 %
+Vænget 1 5854 Gislev,1,890000.0,14-01-2012,Fam.,5144,4,Villa,173,1973,
+Bakkevej 7 5854 Gislev,7,700000.0,12-01-2012,Alm.,5691,4,Villa,123,1975,-15 %
+Faaborgvej 2 5854 Gislev,2,1350000.0,31-12-2011,Alm.,7105,5,Villa,190,1922,
+Ørbækvej 26 5854 Gislev,26,495350.0,04-11-2011,Andet,3488,4,Villa,142,1938,
+Faaborgvej 36 5854 Gislev,36,1075000.0,24-10-2011,Alm.,7517,3,Villa,143,1881,-17 %
+Ørbækvej 64 5854 Gislev,64,975000.0,13-10-2011,Auktion,7116,6,Villa,137,1955,
+Hylshusevej 3 5854 Gislev,3,325000.0,23-09-2011,Alm.,2731,4,Villa,119,1937,-18 %
+Kildemarken 14 5854 Gislev,14,626478.0,22-08-2011,Fam.,6023,2,Villa,104,1976,
+Blåmejsevænget 4 5854 Gislev,4,1350000.0,20-08-2011,Alm.,10714,4,Villa,126,1977,
+Nørrevænget 8 5854 Gislev,8,802000.0,19-08-2011,Alm.,5455,4,Villa,147,1978,
+Ravndrupvej 3 5854 Gislev,3,1260000.0,09-08-2011,Alm.,6086,7,Villa,207,1970,-3 %
+Engdraget 14 5854 Gislev,14,700000.0,01-07-2011,Alm.,6481,4,Villa,108,1977,-24 %
+Vibevej 13 5854 Gislev,13,550000.0,21-06-2011,Alm.,5789,4,Villa,95,1967,-15 %
+Høgesangervænget 2 5854 Gislev,2,615000.0,03-06-2011,Alm.,4100,4,Villa,150,1984,
+Vibevej 6 5854 Gislev,6,595000.0,18-05-2011,Alm.,5219,3,Villa,114,1967,0 %
+Dongsvej 9 5854 Gislev,9,1350000.0,20-04-2011,Alm.,8653,4,Villa,156,2008,0 %
+Holmevej 35 5854 Gislev,35,690000.0,24-03-2011,Alm.,6388,3,Villa,108,1952,-8 %
+Fjellerupvej 2 5854 Gislev,2,1350000.0,03-03-2011,Alm.,13917,2,Stuehus,97,1907,-3 %
+Søndervangen 16 5854 Gislev,16,850000.0,17-02-2011,Alm.,7589,4,Villa,112,1974,
+Tornsangervænget 2 5854 Gislev,2,1050000.0,28-12-2010,Alm.,8823,4,Villa,119,1978,-11 %
+Sorteåvej 11 5854 Gislev,11,4375000.0,14-10-2010,Alm.,25289,6,Stuehus,173,1880,
+Søndervangen 32 5854 Gislev,32,418690.0,16-09-2010,Andet,3322,4,Villa,126,1976,
+Gislev Lærkevej 12 5854 Gislev,12,850000.0,19-08-2010,Alm.,7327,4,Villa,116,1972,0 %
+Søndervangen 20 5854 Gislev,20,1350000.0,16-08-2010,Alm.,9642,5,Villa,140,1974,-3 %
+Nordsangervænget 12 5854 Gislev,12,395000.0,21-06-2010,Alm.,6810,1,Rækkehus,58,1977,0 %
+Råstrupvej 6 5854 Gislev,6,11982255.0,16-06-2010,Fam.,74889,5,Stuehus,160,1974,
+Faaborgvej 21 5854 Gislev,21,860000.0,04-06-2010,Alm.,8037,4,Villa,107,1958,-2 %
+Sandagervej 6 5854 Gislev,6,595000.0,04-06-2010,Alm.,7256,3,Villa,82,1850,0 %
+Kærsangervænget 1 5854 Gislev,1,995000.0,28-05-2010,Alm.,8432,4,Villa,118,1976,0 %
+Smedeager 22 5854 Gislev,22,358100.0,20-05-2010,Alm.,1935,4,Villa,185,2011,
+Lykkevænget 1 5854 Gislev,1,715000.0,12-05-2010,Alm.,9285,3,Rækkehus,77,1987,-10 %
+Sveltekrogen 2 5854 Gislev,2,1195000.0,07-05-2010,Alm.,8298,7,Stuehus,144,1976,0 %
+Sandagervej 32 5854 Gislev,32,670000.0,05-05-2010,Auktion,2557,6,Villa,262,1960,
+Degnemarken 3 5854 Gislev,3,875000.0,14-04-2010,Alm.,9722,3,Villa,90,1967,0 %
+Rødmejsevænget 1 5854 Gislev,1,800000.0,06-04-2010,Alm.,4848,5,Villa,165,1977,-5 %
+Skolevej 7 5854 Gislev,7,795000.0,19-02-2010,Alm.,5678,5,Villa,140,1962,-11 %
+Mosevej 5 5854 Gislev,5,800000.0,26-01-2010,Fam.,4419,6,Villa,181,1907,
+Ørbækvej 29 5854 Gislev,29,620000.0,19-01-2010,Alm.,2767,7,Villa,224,1900,
+Bogfinkevænget 9 5854 Gislev,9,1250000.0,19-01-2010,Alm.,9398,5,Villa,133,1975,-3 %
+Svinget 2A 5854 Gislev,0,1700000.0,05-12-2009,Alm.,14912,4,Rækkehus,114,2008,-3 %
+Sandagervej 42 5854 Gislev,42,1225000.0,18-11-2009,Alm.,10937,2,Stuehus,112,1905,-12 %
+Lamdrupvej 21 5854 Gislev,21,750000.0,23-10-2009,Alm.,5319,4,Villa,141,1872,-6 %
+Vibevej 3 5854 Gislev,3,860000.0,11-10-2009,Alm.,8775,4,Villa,98,1967,-2 %
+Skolevej 1 5854 Gislev,1,650000.0,23-09-2009,Auktion,6914,3,Villa,94,1960,
+Holmevej 17 5854 Gislev,17,350000.0,02-09-2009,Auktion,4545,4,Villa,77,1777,
+Ørbækvej 60 5854 Gislev,60,755000.0,27-08-2009,Alm.,8579,3,Villa,88,1947,-3 %
+Lamdrupvej 1 5854 Gislev,1,727000.0,11-08-2009,Alm.,12982,3,Villa,56,1958,-7 %
+Høgesangervænget 4 5854 Gislev,4,1185000.0,08-07-2009,Alm.,7406,5,Villa,160,1976,-8 %
+Vibevej 7 5854 Gislev,7,885000.0,25-06-2009,Alm.,8428,4,Villa,105,1968,-11 %
+Gislev Lærkevej 2 5854 Gislev,2,780000.0,19-05-2009,Alm.,7222,3,Villa,108,1971,-11 %
+Vænget 6 5854 Gislev,6,700000.0,27-04-2009,Alm.,5343,4,Villa,131,1974,-22 %
+Slipager 4 5854 Gislev,4,1150000.0,07-04-2009,Alm.,9745,4,Villa,118,1980,-4 %
+Vibevej 15 5854 Gislev,15,795000.0,28-03-2009,Alm.,7571,4,Villa,105,1967,-4 %
+Lamdrup Møllevej 8 5854 Gislev,8,1500000.0,18-03-2009,Alm.,7936,7,Stuehus,189,1857,
+Stenhuggervej 2 5854 Gislev,2,7712000.0,30-12-2008,Alm.,57552,5,Villa,134,1975,
+Bytoften 6 5854 Gislev,6,1150000.0,18-09-2008,Alm.,9126,3,Villa,126,1965,
+Grønneparken 10 5854 Gislev,10,1163000.0,22-07-2008,Alm.,11630,4,Villa,100,2010,-12 %
+Gislev Lærkevej 14 5854 Gislev,14,1020000.0,09-07-2008,Alm.,10408,3,Villa,98,1970,-9 %
+Sandagervej 34 5854 Gislev,34,725000.0,05-07-2008,Alm.,6092,5,Villa,119,1777,-3 %
+Sandagervej 44 5854 Gislev,44,756500.0,17-06-2008,Fam.,5111,5,Villa,148,1948,
+Ørbækvej 59 5854 Gislev,59,18105210.0,12-06-2008,Andet,77372,6,Stuehus,234,1911,
+Havesangervænget 2 5854 Gislev,2,378250.0,20-05-2008,Andet,2701,5,Villa,140,1977,
+Hovvænget 8 5854 Gislev,8,850000.0,15-05-2008,Alm.,4126,5,Villa,206,1900,
+Søltvej 6 5854 Gislev,6,125000.0,01-05-2008,Andet,606,7,Villa,206,1902,
+Sandagervej 22 5854 Gislev,22,325000.0,30-04-2008,Alm.,3611,2,Villa,90,1900,
+Grønneparken 2 5854 Gislev,2,1536500.0,23-04-2008,Alm.,10744,3,Villa,143,1988,-2 %
+Sandagervej 36 5854 Gislev,36,807500.0,14-04-2008,Fam.,5767,4,Villa,140,1827,
+Bytoften 9 5854 Gislev,9,1415000.0,07-04-2008,Alm.,9826,4,Villa,144,1967,-2 %
+Svinget 2B 5854 Gislev,0,1640000.0,27-03-2008,Alm.,14385,3,Rækkehus,114,2008,
+Ørbækvej 52 5854 Gislev,52,950000.0,20-02-2008,Alm.,10326,4,Villa,92,1944,-5 %
+Faaborgvej 43 5854 Gislev,43,1400000.0,06-02-2008,Alm.,7106,5,Villa,197,1986,
+Bogfinkevænget 5 5854 Gislev,5,1450000.0,04-02-2008,Alm.,11068,4,Villa,131,1976,0 %
+Hovvænget 2 5854 Gislev,2,2550000.0,18-01-2008,Alm.,23831,4,Stuehus,107,1900,
+Kildemarken 20 5854 Gislev,20,885000.0,11-12-2007,Alm.,6914,4,Villa,128,1973,0 %
+Råstrupvej 9 5854 Gislev,9,1875000.0,11-12-2007,Alm.,11503,7,Villa,163,1777,-6 %
+Gislev Lærkevej 6 5854 Gislev,6,825000.0,04-12-2007,Alm.,8250,3,Villa,100,1970,-3 %
+Sandagervej 46 5854 Gislev,46,1715000.0,29-11-2007,Alm.,5134,9,Villa,334,1850,-2 %
+Slipager 32 5854 Gislev,32,1050000.0,16-11-2007,Alm.,8898,4,Villa,118,1979,
+Ørbækvej 76 5854 Gislev,76,950000.0,31-10-2007,Alm.,4947,7,Villa,192,1900,
+Holmevej 29 5854 Gislev,29,795000.0,24-10-2007,Alm.,6625,3,Villa,120,1946,0 %
+Kildemarken 19 5854 Gislev,19,840000.0,15-10-2007,Alm.,7241,5,Villa,116,1969,
+Bogfinkevænget 3 5854 Gislev,3,975000.0,13-10-2007,Alm.,7677,4,Villa,127,1977,
+Præstevænget 11 5854 Gislev,11,750000.0,19-09-2007,Alm.,5905,5,Villa,127,1830,
+Mosevej 10 5854 Gislev,10,417500.0,18-09-2007,Fam.,3261,5,Villa,128,1973,
+Råstrupvej 3 5854 Gislev,3,750000.0,11-09-2007,Alm.,5395,3,Villa,139,1930,
+Lamdrupvej 11 5854 Gislev,11,825000.0,28-08-2007,Alm.,6600,3,Villa,125,1776,
+Lamdrupvej 23 5854 Gislev,23,2500000.0,21-08-2007,Alm.,13020,4,Villa,192,1998,-4 %
+Ørbækvej 10D 5854 Gislev,0,804700.0,09-08-2007,Alm.,11333,3,Rækkehus,71,2005,
+Ørbækvej 10E 5854 Gislev,0,804700.0,09-08-2007,Alm.,11333,3,Rækkehus,71,2005,
+Ørbækvej 10C 5854 Gislev,0,804700.0,09-08-2007,Alm.,11495,3,Rækkehus,70,2005,
+Ørbækvej 10F 5854 Gislev,0,804700.0,09-08-2007,Alm.,11495,3,Rækkehus,70,2005,
+Ørbækvej 10G 5854 Gislev,0,804700.0,09-08-2007,Alm.,11333,3,Rækkehus,71,2005,
+Kildemarken 1 5854 Gislev,1,612000.0,06-08-2007,Fam.,5666,4,Villa,108,1971,
+Holmevej 23 5854 Gislev,23,995000.0,27-07-2007,Alm.,6503,6,Villa,153,1957,
+Holmevej 31 5854 Gislev,31,750000.0,29-06-2007,Alm.,7142,2,Villa,105,1947,
+Sandagervej 13 5854 Gislev,13,900000.0,19-06-2007,Alm.,6923,4,Villa,130,1940,
+Ørbækvej 44 5854 Gislev,44,850000.0,11-06-2007,Alm.,8762,4,Villa,97,1970,
+Bjergager 19 5854 Gislev,19,85743.0,17-04-2007,Fam.,495,5,Villa,173,2008,
+Vibevej 11 5854 Gislev,11,501716.0,27-03-2007,Alm.,3484,4,Villa,144,1968,
+Ørbækvej 65 5854 Gislev,65,13100000.0,16-02-2007,Alm.,51574,5,Stuehus,254,1916,
+Faaborgvej 27 5854 Gislev,27,1000000.0,08-02-2007,Alm.,7874,4,Villa,127,1939,
+Ravndrupvej 1 5854 Gislev,1,1975000.0,16-01-2007,Alm.,9875,7,Villa,200,1965,
+Slipager 18 5854 Gislev,18,785000.0,15-01-2007,Alm.,7548,3,Villa,104,1977,
+Kildemarken 13 5854 Gislev,13,825000.0,13-01-2007,Alm.,7173,5,Villa,115,1972,
+Lamdrup Møllevej 4 5854 Gislev,4,1275000.0,24-11-2006,Alm.,10365,3,Villa,123,1800,
+Gislev Lærkevej 22 5854 Gislev,22,750000.0,13-11-2006,Alm.,6410,4,Villa,117,1968,
+Nørremarksvej 6 5854 Gislev,6,575000.0,08-10-2006,Alm.,3343,5,Stuehus,172,2016,
+Degnemarken 6 5854 Gislev,6,621000.0,28-09-2006,Alm.,6272,4,Villa,99,1965,
+Bjergager 29 5854 Gislev,29,1500011.0,25-09-2006,Alm.,11111,5,Villa,135,1999,
+Sveltekrogen 10 5854 Gislev,10,1100000.0,08-09-2006,Alm.,5000,8,Villa,220,1870,
+Søndervangen 40 5854 Gislev,40,985000.0,31-08-2006,Alm.,8640,4,Villa,114,1973,
+Sveltekrogen 8 5854 Gislev,8,181790.0,28-08-2006,Alm.,2330,3,Villa,78,1877,
+Lamdrupvej 24 5854 Gislev,24,1495000.0,28-08-2006,Alm.,9285,5,Villa,161,1877,
+Solvænget 2 5854 Gislev,2,1600000.0,26-08-2006,Alm.,7239,7,Villa,221,1966,
+Kærsangervænget 2 5854 Gislev,2,1040000.0,21-08-2006,Alm.,8813,4,Villa,118,1976,
+Vibevej 4 5854 Gislev,4,725000.0,11-08-2006,Alm.,7038,3,Villa,103,1967,
+Dongsvej 11 5854 Gislev,11,900000.0,30-06-2006,Alm.,6000,6,Villa,150,1800,
+"Ørbækvej 11, 1. TH 5854 Gislev",0,1620000.0,12-06-2006,Alm.,13846,4,Villa,117,1908,
+Lamdrupvej 15 5854 Gislev,15,1350000.0,08-06-2006,Alm.,7297,5,Villa,185,1857,
+Holmevej 16 5854 Gislev,16,1500000.0,26-05-2006,Alm.,12195,7,Stuehus,123,1874,
+Ørbækvej 16 5854 Gislev,16,775000.0,24-05-2006,Alm.,5419,5,Villa,143,1920,
+Slipager 26 5854 Gislev,26,106190.0,15-05-2006,Alm.,515,5,Villa,206,2008,
+Faaborgvej 25 5854 Gislev,25,775000.0,05-05-2006,Alm.,5032,7,Villa,154,1952,
+Dongsvej 16 5854 Gislev,16,660000.0,03-05-2006,Alm.,4285,4,Stuehus,154,1915,
+Genvej 2 5854 Gislev,2,1350000.0,02-05-2006,Alm.,6367,7,Villa,212,1972,
+Faaborgvej 10 5854 Gislev,10,825666.0,01-05-2006,Alm.,4944,5,Villa,167,1893,
+Faaborgvej 38 5854 Gislev,38,770000.0,24-04-2006,Alm.,5099,5,Villa,151,1940,
+Ørbækvej 50 5854 Gislev,50,1025000.0,21-04-2006,Alm.,7167,5,Villa,143,1902,
+Lamdrupvej 9 5854 Gislev,9,650000.0,06-04-2006,Alm.,5508,4,Villa,118,1946,
+Sandagervej 3 5854 Gislev,3,995000.0,24-03-2006,Alm.,6067,5,Villa,164,1777,
+Lamdrupvej 8 5854 Gislev,8,425670.0,23-02-2006,Alm.,3405,6,Villa,125,1905,
+Bjergager 41 5854 Gislev,41,88075.0,13-02-2006,Alm.,615,5,Villa,143,2006,
+Holmevej 21 5854 Gislev,21,501500.0,13-02-2006,Fam.,4559,3,Villa,110,1956,
+Høgesangervænget 7 5854 Gislev,7,875000.0,25-01-2006,Alm.,7608,4,Villa,115,1976,
+Søndervangen 5 5854 Gislev,5,870000.0,24-01-2006,Alm.,0,6,Villa,120,1973,
+Lykkesholmsvej 10 5854 Gislev,10,2050000.0,05-01-2006,Alm.,7118,8,Stuehus,288,1916,
+Sveltekrogen 3 5854 Gislev,3,420196.0,22-12-2005,Andet,3819,4,Stuehus,110,1850,
+Kildemarken 6 5854 Gislev,6,895000.0,20-12-2005,Alm.,6392,4,Villa,140,1973,
+Ørbækvej 34 5854 Gislev,34,225000.0,15-12-2005,Alm.,4591,3,Villa,49,1946,
+Søndervangen 48 5854 Gislev,48,795000.0,12-12-2005,Alm.,6115,4,Villa,130,1971,
+Ravndrupvej 15 5854 Gislev,15,1020000.0,12-12-2005,Fam.,12000,7,Stuehus,85,1827,
+Gislev Lærkevej 20 5854 Gislev,20,735000.0,28-11-2005,Alm.,5880,3,Villa,125,1972,
+Hovvænget 4 5854 Gislev,4,695000.0,12-11-2005,Alm.,4455,6,Villa,156,1896,
+Pilekrogen 7 5854 Gislev,7,570000.0,01-11-2005,Alm.,6705,3,Villa,85,1907,
+Lykkesholmsvej 12 5854 Gislev,12,843000.0,19-10-2005,Fam.,7025,5,Stuehus,120,1850,
+Ravndrupvej 17 5854 Gislev,17,65000.0,14-10-2005,Andet,464,5,Stuehus,140,1860,
+Kohavevej 1 5854 Gislev,1,1800000.0,12-10-2005,Alm.,8695,5,Villa,207,1902,
+Søltvej 7 5854 Gislev,7,1827500.0,29-08-2005,Fam.,11280,7,Stuehus,162,1820,
+Råstruphave 2 5854 Gislev,2,710000.0,19-08-2005,Alm.,4201,3,Villa,169,1900,
+Holmevænget 14 5854 Gislev,14,1075000.0,11-08-2005,Alm.,6677,7,Villa,161,1972,
+Dongsvej 5 5854 Gislev,5,1940000.0,04-07-2005,Alm.,11479,5,Villa,169,1937,
+Havesangervænget 4 5854 Gislev,4,760000.0,06-06-2005,Alm.,6440,4,Villa,118,1977,
+Bøgesangervænget 2 5854 Gislev,2,685000.0,03-06-2005,Alm.,5956,5,Villa,115,1974,
+Holmevej 1 5854 Gislev,1,875000.0,05-04-2005,Alm.,7812,5,Villa,112,1968,
+Søltvej 28 5854 Gislev,28,1185000.0,30-03-2005,Alm.,0,6,Stuehus,233,1900,
+Råstrupvej 1 5854 Gislev,1,1350000.0,20-03-2005,Alm.,5487,8,Villa,246,1900,
+Skelvænget 2 5854 Gislev,2,500000.0,09-03-2005,Alm.,7246,3,Rækkehus,69,1982,
+Nordsangervænget 4 5854 Gislev,4,365000.0,04-03-2005,Alm.,6403,2,Rækkehus,57,1977,
+Løvsangervænget 6 5854 Gislev,6,760000.0,02-03-2005,Alm.,5846,5,Villa,130,1974,
+Lamdrupvej 45 5854 Gislev,45,380000.0,14-02-2005,Alm.,2676,3,Villa,142,1900,
+Vibevej 1 5854 Gislev,1,795000.0,14-02-2005,Alm.,5598,5,Villa,142,1966,
+Degnemarken 8 5854 Gislev,8,700000.0,07-02-2005,Alm.,5468,4,Villa,128,1966,
+Søltvej 14 5854 Gislev,14,248400.0,01-01-2005,Alm.,2003,4,Stuehus,124,1850,
+Ørbækvej 72 5854 Gislev,72,835000.0,30-12-2004,Alm.,5529,6,Villa,151,1939,
+Råstrupvej 4 5854 Gislev,4,599000.0,30-12-2004,Alm.,4188,4,Villa,143,1870,
+Ravndrupvej 12 5854 Gislev,12,150000.0,15-12-2004,Andet,757,6,Stuehus,198,1994,
+Ravndrupvej 14 5854 Gislev,14,260000.0,15-12-2004,Andet,1209,5,Stuehus,215,1916,
+Bjergager 15 5854 Gislev,15,48950.0,22-11-2004,Alm.,326,4,Villa,150,2006,
+Ørbækvej 14 5854 Gislev,14,1150000.0,14-10-2004,Alm.,5528,7,Villa,208,1951,
+Engdraget 6 5854 Gislev,6,635000.0,16-09-2004,Alm.,5474,4,Villa,116,1974,
+Holmevej 22 5854 Gislev,22,580000.0,26-07-2004,Alm.,5800,3,Villa,100,1827,
+Kildemarken 9 5854 Gislev,9,765000.0,23-07-2004,Alm.,5100,4,Villa,150,1972,
+Nyhave 4 5854 Gislev,4,360727.0,22-07-2004,Alm.,2073,6,Villa,174,1914,
+Fjellerupvej 10 5854 Gislev,10,660000.0,16-07-2004,Alm.,4313,4,Villa,153,1954,
+Nordsangervænget 6 5854 Gislev,6,370000.0,08-07-2004,Alm.,6491,1,Rækkehus,57,1977,
+Bygmestervej 9 5854 Gislev,9,48460.0,10-06-2004,Alm.,329,5,Villa,147,2005,
+Lykkevænget 9 5854 Gislev,9,600000.0,03-06-2004,Alm.,7792,3,Rækkehus,77,1987,
+Dongsvej 7 5854 Gislev,7,835000.0,31-05-2004,Alm.,4970,6,Villa,168,1900,
+Ørbækvej 61 5854 Gislev,61,300639.0,26-05-2004,Fam.,1717,7,Villa,175,1887,
+Svinget 3 5854 Gislev,3,625000.0,22-04-2004,Alm.,5081,5,Villa,123,1965,
+Gislev Lærkevej 1 5854 Gislev,1,897472.0,30-03-2004,Alm.,6747,5,Villa,133,1974,
+Ørbækvej 68 5854 Gislev,68,6050000.0,29-01-2004,Alm.,21607,11,Stuehus,280,1877,
+Dongsvej 14 5854 Gislev,14,800000.0,22-12-2003,Fam.,3720,9,Stuehus,215,1863,
+Rødmejsevænget 3 5854 Gislev,3,630000.0,09-12-2003,Alm.,4772,4,Villa,132,1983,
+Skolegyden 3 5854 Gislev,3,310000.0,24-11-2003,Alm.,0,3,Villa,121,1920,
+Sandagervej 40 5854 Gislev,40,840000.0,23-09-2003,Alm.,7179,3,Villa,117,1953,
+Sandagervej 27 5854 Gislev,27,650000.0,16-09-2003,Alm.,5555,4,Villa,117,1948,
+Bakkevej 2 5854 Gislev,2,1010000.0,15-09-2003,Alm.,5771,6,Villa,175,1974,
+Eskelundsvej 2 5854 Gislev,2,481666.0,21-08-2003,Fam.,2784,7,Villa,173,1910,
+Nordsangervænget 10 5854 Gislev,10,350000.0,01-08-2003,Alm.,6250,1,Rækkehus,56,1977,
+Damgårdsvej 5 5854 Gislev,5,690000.0,21-07-2003,Alm.,5433,6,Stuehus,127,1839,
+Søndervangen 50 5854 Gislev,50,995000.0,10-07-2003,Alm.,4481,8,Villa,222,1972,
+Bøgesangervænget 3 5854 Gislev,3,926456.0,15-06-2003,Alm.,5790,6,Villa,160,1974,
+Åløkkevej 5 5854 Gislev,5,1625000.0,02-06-2003,Alm.,6202,5,Villa,262,1930,
+Søltvej 24A 5854 Gislev,0,950000.0,14-05-2003,Alm.,5163,6,Villa,184,1850,
+Engdraget 4 5854 Gislev,4,775000.0,07-04-2003,Alm.,6512,4,Villa,119,1975,
+Dongsvej 10 5854 Gislev,10,485000.0,13-03-2003,Alm.,0,9,Stuehus,354,1887,
+Ravndrupvej 21 5854 Gislev,21,1593578.0,01-03-2003,Alm.,6639,8,Stuehus,240,1922,
+Søltvej 20 5854 Gislev,20,277510.0,26-02-2003,Andet,2413,5,Villa,115,1836,
+Holmevej 20 5854 Gislev,20,950000.0,21-02-2003,Alm.,6551,4,Villa,145,1940,
+Ørbækvej 45 5854 Gislev,45,275000.0,19-02-2003,Fam.,1233,5,Villa,223,1942,
+Slipager 8 5854 Gislev,8,555000.0,03-02-2003,Alm.,5091,4,Villa,109,1979,
+Damgårdsvej 1 5854 Gislev,1,725000.0,03-01-2003,Andet,0,8,Stuehus,137,1925,
+Åløkkevej 3 5854 Gislev,3,919464.0,02-01-2003,Fam.,5894,4,Stuehus,156,1880,
+"Faaborgvej 5, 1 5854 Gislev",1,2552113.0,20-12-2002,Andet,13223,3,Villa,193,1874,
+Holmevej 37 5854 Gislev,37,1425000.0,02-12-2002,Alm.,5864,7,Villa,243,1996,
+Degnemarken 17 5854 Gislev,17,953871.0,18-11-2002,Alm.,4316,7,Villa,221,1870,
+Faaborgvej 11 5854 Gislev,11,475000.0,14-11-2002,Alm.,4567,4,Villa,104,1947,
+Vænget 2 5854 Gislev,2,912500.0,11-10-2002,Alm.,7358,3,Villa,124,1990,
+Råstrupvej 2 5854 Gislev,2,220000.0,03-10-2002,Alm.,0,4,Villa,179,1910,
+Søltvej 26 5854 Gislev,26,241289.0,01-10-2002,Fam.,1641,4,Villa,147,1860,
+Bogfinkevænget 1 5854 Gislev,1,695000.0,21-09-2002,Alm.,6150,5,Villa,113,1976,
+Bogfinkevænget 4 5854 Gislev,4,650000.0,16-09-2002,Alm.,5118,4,Villa,127,1976,
+Ørbækvej 18 5854 Gislev,18,460410.0,14-08-2002,Alm.,3312,6,Villa,139,1926,
+Ørbækvej 33 5854 Gislev,33,958000.0,31-07-2002,Alm.,4238,7,Villa,226,1940,
+Ravndrupvej 22 5854 Gislev,22,1425000.0,17-06-2002,Alm.,7539,5,Villa,189,1897,
+Hylshusevej 5 5854 Gislev,5,595000.0,16-06-2002,Alm.,4020,5,Villa,148,1936,
+Ørbækvej 43 5854 Gislev,43,42990.0,03-06-2002,Alm.,227,6,Stuehus,189,1899,
+Høgesangervænget 1 5854 Gislev,1,450000.0,14-05-2002,Alm.,4166,4,Villa,108,1977,
+Holmevej 26 5854 Gislev,26,931126.0,08-04-2002,Fam.,3739,8,Villa,249,1677,
+Engdraget 8 5854 Gislev,8,754359.0,30-03-2002,Alm.,6234,4,Villa,121,1972,
+Holmevej 15 5854 Gislev,15,398000.0,15-03-2002,Alm.,6218,3,Villa,64,1877,
+Hylshusevej 7 5854 Gislev,7,425000.0,24-02-2002,Fam.,2591,6,Villa,164,1853,
+Holmevænget 18 5854 Gislev,18,775000.0,21-02-2002,Alm.,6739,4,Villa,115,1974,
+Rolighedsvej 2 5854 Gislev,2,579962.0,27-12-2001,Alm.,4495,4,Villa,129,1971,
+Præstevænget 9 5854 Gislev,9,95000.0,17-12-2001,Alm.,863,4,Stuehus,110,1964,
+Skolevej 5 5854 Gislev,5,320000.0,26-11-2001,Alm.,3595,3,Villa,89,1960,
+Bøgesangervænget 1 5854 Gislev,1,745000.0,21-11-2001,Alm.,0,5,Villa,187,1976,
+Blåmejsevænget 10 5854 Gislev,10,917500.0,29-10-2001,Alm.,5125,8,Villa,179,1974,
+Præstevænget 7 5854 Gislev,7,1050000.0,16-10-2001,Alm.,4487,6,Villa,234,1877,
+Bystævnevej 2 5854 Gislev,2,840000.0,01-07-2001,Alm.,0,8,Stuehus,323,1877,
+Solvænget 1 5854 Gislev,1,625000.0,15-06-2001,Alm.,5081,3,Villa,123,1973,
+Ravndrupvej 4 5854 Gislev,4,450934.0,03-04-2001,Fam.,0,6,Villa,178,1953,
+Ørbækvej 55 5854 Gislev,55,965500.0,05-03-2001,Alm.,5887,8,Villa,164,1931,
+Fjellerupvej 3 5854 Gislev,3,198000.0,28-02-2001,Alm.,1222,8,Villa,162,1877,
+Skelvænget 36 5854 Gislev,36,790000.0,23-02-2001,Alm.,10000,3,Villa,79,2000,
+Kohavevej 5 5854 Gislev,5,930226.0,14-02-2001,Alm.,9791,3,Villa,95,1818,
+Skelvænget 38 5854 Gislev,38,790000.0,08-02-2001,Alm.,10000,3,Villa,79,2000,
+Slipager 24 5854 Gislev,24,605029.0,02-02-2001,Alm.,4879,4,Villa,124,1978,
+Søltvej 2 5854 Gislev,2,280000.0,09-12-2000,Alm.,4666,3,Villa,60,1790,
+Søndervangen 34 5854 Gislev,34,720950.0,23-10-2000,Alm.,6614,4,Villa,109,1977,
+Bjergager 1A 5854 Gislev,0,360293.0,12-10-2000,Alm.,3753,4,Rækkehus,96,1984,
+Skolegyden 5 5854 Gislev,5,685000.0,09-10-2000,Alm.,6116,4,Villa,112,1980,
+Sandagervej 24 5854 Gislev,24,910000.0,12-09-2000,Alm.,0,7,Stuehus,237,1860,
+Ørbækvej 70 5854 Gislev,70,958977.0,06-09-2000,Alm.,5047,8,Stuehus,190,1877,
+Bjergager 25 5854 Gislev,25,74250.0,04-09-2000,Alm.,530,5,Villa,140,2001,
+Bjergager 35 5854 Gislev,35,76500.0,04-09-2000,Alm.,546,5,Villa,140,2001,
+Fjellerupvej 1 5854 Gislev,1,1109798.0,02-09-2000,Alm.,6270,6,Villa,177,1927,
+Gislev Lærkevej 4 5854 Gislev,4,700000.0,29-08-2000,Alm.,5303,4,Villa,132,1972,
+Mosevej 14 5854 Gislev,14,550000.0,06-08-2000,Alm.,4661,6,Villa,118,1892,
+Sandagervej 4 5854 Gislev,4,1541000.0,13-07-2000,Alm.,6066,8,Villa,254,1854,
+Solvænget 3 5854 Gislev,3,840000.0,12-07-2000,Alm.,4666,6,Villa,180,1964,
+Søltvej 13 5854 Gislev,13,1650000.0,04-07-2000,Alm.,4969,11,Stuehus,332,1885,
+Ørbækvej 90 5854 Gislev,90,725000.0,26-06-2000,Fam.,25000,1,Stuehus,29,1957,
+Søltvej 11 5854 Gislev,11,135596.0,25-05-2000,Andet,1369,4,Villa,99,1910,
+Råmaen 2 5854 Gislev,2,1275000.0,20-03-2000,Fam.,7203,5,Stuehus,177,1872,
+Bakkevej 9 5854 Gislev,9,815000.0,17-02-2000,Alm.,6848,3,Villa,119,1976,
+Skelvænget 32 5854 Gislev,32,125000.0,10-02-2000,Alm.,1582,3,Villa,79,2000,
+Sandagervej 2 5854 Gislev,2,711419.0,03-02-2000,Fam.,2694,8,Stuehus,264,1750,
+Eskelundsvej 4 5854 Gislev,4,24000.0,13-12-1999,Alm.,106,4,Villa,225,1996,
+Råmaen 4 5854 Gislev,4,156000.0,13-12-1999,Alm.,939,4,Stuehus,166,1872,
+Holmevej 8 5854 Gislev,8,780000.0,03-12-1999,Alm.,5165,4,Villa,151,1980,
+Bytoften 4 5854 Gislev,4,455000.0,01-11-1999,Alm.,4642,4,Villa,98,1950,
+Bygmestervej 6 5854 Gislev,6,1200000.0,29-10-1999,Fam.,0,6,Villa,225,1973,
+Allegaarden 8 5854 Gislev,8,253000.0,23-09-1999,Alm.,3953,3,Rækkehus,64,1964,
+Degnemarken 5 5854 Gislev,5,550000.0,08-09-1999,Alm.,0,3,Villa,117,1963,
+Bøgesangervænget 4 5854 Gislev,4,997820.0,17-08-1999,Alm.,6010,6,Villa,166,1974,
+Allegaarden 5 5854 Gislev,5,849000.0,08-07-1999,Fam.,13265,3,Rækkehus,64,1964,
+Engdraget 10 5854 Gislev,10,640000.0,07-07-1999,Alm.,3902,5,Villa,164,1973,
+Lamdrupvej 22 5854 Gislev,22,669000.0,15-06-1999,Alm.,5973,4,Villa,112,1972,
+Mosevej 2 5854 Gislev,2,355000.0,23-05-1999,Alm.,2958,5,Villa,120,1964,
+Holmevej 18 5854 Gislev,18,660126.0,21-04-1999,Alm.,3860,6,Villa,171,1677,
+Apotekervej 2 5854 Gislev,2,790000.0,18-04-1999,Alm.,5486,4,Villa,144,1973,
+Lamdrupvej 39 5854 Gislev,39,728919.0,30-03-1999,Alm.,6687,5,Stuehus,109,1914,
+Fjellerupvej 4 5854 Gislev,4,1580000.0,13-03-1999,Fam.,9461,6,Stuehus,167,1937,
+Sandagervej 12 5854 Gislev,12,640000.0,04-01-1999,Alm.,2962,8,Stuehus,216,1910,
+Ørbækvej 56 5854 Gislev,56,567000.0,09-12-1998,Alm.,4887,4,Villa,116,1947,
+Gislev Lærkevej 5 5854 Gislev,5,711000.0,21-09-1998,Alm.,6348,4,Villa,112,1972,
+Bjergager 9 5854 Gislev,9,55080.0,07-09-1998,Alm.,459,3,Villa,120,1999,
+Tornsangervænget 3 5854 Gislev,3,800000.0,03-06-1998,Alm.,5263,4,Villa,152,1976,
+Bogfinkevænget 10 5854 Gislev,10,581000.0,01-06-1998,Alm.,4923,4,Villa,118,1977,
+Ravndrupvej 7 5854 Gislev,7,900000.0,30-05-1998,Alm.,0,7,Stuehus,290,1930,
+Nordsangervænget 3 5854 Gislev,3,770000.0,12-05-1998,Alm.,5422,5,Villa,142,1978,
+Faaborgvej 44 5854 Gislev,44,900000.0,29-04-1998,Alm.,0,6,Villa,165,1939,
+"Faaborgvej 12, ST 5854 Gislev",0,230843.0,22-04-1998,Alm.,1078,8,Villa,214,1930,
+Råstrupvej 7 5854 Gislev,7,1600000.0,30-03-1998,Fam.,6808,5,Stuehus,235,1890,
+Lamdrupvej 2 5854 Gislev,2,750000.0,24-03-1998,Alm.,0,6,Villa,249,1850,
+Degnemarken 7 5854 Gislev,7,103677.0,06-03-1998,Andet,878,3,Villa,118,1967,
+Bjergager 33 5854 Gislev,33,39780.0,16-02-1998,Alm.,308,5,Villa,129,1998,
+Ørbækvej 48 5854 Gislev,48,392000.0,02-02-1998,Alm.,2265,7,Villa,173,1900,
+Præstevænget 8 5854 Gislev,8,285872.0,09-12-1997,Alm.,0,5,Stuehus,160,1928,
+Gransangervænget 5 5854 Gislev,5,580000.0,07-12-1997,Fam.,4328,5,Villa,134,1974,
+Ravndrupvej 5 5854 Gislev,5,630000.0,17-11-1997,Fam.,2863,10,Villa,220,1904,
+Slipager 28 5854 Gislev,28,470000.0,07-08-1997,Alm.,0,3,Villa,128,1978,
+Allegaarden 4 5854 Gislev,4,233635.0,22-06-1997,Alm.,3650,3,Rækkehus,64,1964,
+Holmevænget 9 5854 Gislev,9,607000.0,02-06-1997,Alm.,5016,4,Villa,121,1975,
+Sandagervej 1A 5854 Gislev,0,75000.0,16-05-1997,Alm.,250,8,Villa,300,2002,
+Faaborgvej 18 5854 Gislev,18,317000.0,29-04-1997,Alm.,3408,3,Villa,93,1958,
+Solvænget 9 5854 Gislev,9,685000.0,21-04-1997,Alm.,4506,4,Villa,152,1966,
+Faaborgvej 16 5854 Gislev,16,538000.0,21-04-1997,Alm.,3842,5,Villa,140,1950,
+Faaborgvej 20 5854 Gislev,20,535000.0,04-04-1997,Alm.,3614,4,Villa,148,1960,
+Sandagervej 30 5854 Gislev,30,500000.0,01-04-1997,Alm.,0,8,Stuehus,246,1862,
+Ravndrupvej 9 5854 Gislev,9,1164000.0,27-03-1997,Alm.,6689,6,Stuehus,174,1918,
+Slipager 7 5854 Gislev,7,592000.0,11-02-1997,Alm.,4974,4,Villa,119,1978,
+Bjergager 37 5854 Gislev,37,38250.0,06-01-1997,Alm.,263,4,Villa,145,1997,
+Fjellerupvej 8 5854 Gislev,8,143875.0,28-12-1996,Alm.,1733,3,Villa,83,1951,
+Lamdrupvej 27 5854 Gislev,27,570000.0,22-10-1996,Alm.,0,6,Villa,209,1852,
+Vibevej 5 5854 Gislev,5,550000.0,14-10-1996,Alm.,4782,3,Villa,115,1967,
+Slipager 34 5854 Gislev,34,450000.0,07-10-1996,Alm.,3813,4,Villa,118,1978,
+Ørbækvej 24 5854 Gislev,24,434000.0,27-09-1996,Alm.,3287,6,Villa,132,1935,
+Ørbækvej 39 5854 Gislev,39,335000.0,28-08-1996,Alm.,0,9,Villa,227,1877,
+Holmevej 7 5854 Gislev,7,411000.0,17-08-1996,Alm.,3113,6,Villa,132,1867,
+Rørsangervænget 6 5854 Gislev,6,495000.0,15-08-1996,Alm.,4304,4,Villa,115,1977,
+Slipager 6 5854 Gislev,6,545000.0,12-07-1996,Alm.,4618,4,Villa,118,1980,
+Mosevej 4 5854 Gislev,4,532595.0,08-07-1996,Alm.,3598,9,Villa,148,1827,
+Ørbækvej 9 5854 Gislev,9,200000.0,07-07-1996,Alm.,1550,5,Villa,129,1907,
+Bygmestervej 4 5854 Gislev,4,831674.0,12-06-1996,Alm.,3998,7,Villa,208,1970,
+Bygmestervej 1 5854 Gislev,1,1638000.0,31-05-1996,Alm.,8621,5,Villa,190,1973,
+Sandagervej 5 5854 Gislev,5,320000.0,01-05-1996,Alm.,2253,5,Villa,142,1867,
+Kullerupvej 1 5854 Gislev,1,780000.0,26-04-1996,Alm.,2943,6,Villa,265,2008,
+Ørbækvej 7 5854 Gislev,7,756000.0,11-04-1996,Alm.,3286,8,Villa,230,1909,
+Holmevænget 11 5854 Gislev,11,605000.0,26-03-1996,Fam.,3903,6,Villa,155,1974,
+Nordsangervænget 8 5854 Gislev,8,250000.0,25-03-1996,Alm.,4464,1,Rækkehus,56,1977,
+Ørbækvej 36 5854 Gislev,36,598000.0,18-03-1996,Alm.,0,6,Villa,251,1890,
+Slipager 10 5854 Gislev,10,529000.0,07-03-1996,Alm.,4943,4,Villa,107,1987,
+Kærvej 2 5854 Gislev,2,224815.0,16-11-1995,Alm.,2141,4,Villa,105,1971,
+Kærvej 3 5854 Gislev,3,600000.0,13-11-1995,Alm.,3821,4,Villa,157,1974,
+Kildemarken 18 5854 Gislev,18,584000.0,03-11-1995,Alm.,3972,4,Villa,147,1973,
+Ørbækvej 94 5854 Gislev,94,860500.0,27-10-1995,Alm.,5516,4,Villa,156,1930,
+Skolegyden 4 5854 Gislev,4,362033.0,18-09-1995,Alm.,2549,5,Villa,142,1918,
+Gransangervænget 3 5854 Gislev,3,430000.0,07-09-1995,Fam.,3495,3,Villa,123,1975,
+Ørbækvej 57 5854 Gislev,57,400000.0,27-07-1995,Alm.,3960,3,Villa,101,1911,
+Dongsvej 13 5854 Gislev,13,393000.0,17-07-1995,Alm.,2932,4,Villa,134,1900,
+Søltvej 8 5854 Gislev,8,270000.0,29-06-1995,Alm.,0,5,Villa,184,1911,
+Kildemarken 22 5854 Gislev,22,350000.0,10-04-1995,Alm.,0,3,Villa,119,1969,
+Bytoften 2 5854 Gislev,2,280000.0,28-03-1995,Alm.,3500,4,Villa,80,1937,
+Slipager 11 5854 Gislev,11,460000.0,23-03-1995,Alm.,3565,3,Villa,129,1979,
+Østervang 8 5854 Gislev,8,417000.0,20-03-1995,Alm.,3088,5,Villa,135,1969,
+Kildemarken 2 5854 Gislev,2,530000.0,01-03-1995,Alm.,0,3,Villa,174,1975,
+Søndervangen 17 5854 Gislev,17,522000.0,12-01-1995,Alm.,4015,5,Villa,130,1973,
+Faaborgvej 17 5854 Gislev,17,495000.0,13-12-1994,Alm.,2812,6,Villa,176,1939,
+Bytoften 8 5854 Gislev,8,338000.0,03-07-1994,Alm.,2864,4,Villa,118,1968,
+Slipager 12 5854 Gislev,12,497000.0,01-07-1994,Alm.,3913,4,Villa,127,1980,
+Sandagervej 14 5854 Gislev,14,320878.0,17-06-1994,Andet,3208,5,Villa,100,1777,
+Ørbækvej 74 5854 Gislev,74,1147500.0,26-05-1994,Fam.,8563,5,Stuehus,134,1800,
+Kildemarken 17 5854 Gislev,17,430000.0,12-03-1994,Alm.,3583,4,Villa,120,1968,
+Søndervangen 38 5854 Gislev,38,746000.0,08-03-1994,Alm.,6065,3,Villa,123,1973,
+Faaborgvej 32 5854 Gislev,32,245000.0,07-03-1994,Alm.,1884,5,Villa,130,1918,
+Præstevænget 10 5854 Gislev,10,1640000.0,11-02-1994,Alm.,6721,7,Stuehus,244,1931,
+Sorteåvej 6 5854 Gislev,6,385000.0,06-12-1993,Alm.,2750,3,Villa,140,1924,
+Søndervangen 14 5854 Gislev,14,475000.0,06-12-1993,Alm.,2714,5,Villa,175,1974,
+Søltvej 17 5854 Gislev,17,21893.0,29-11-1993,Fam.,0,6,Stuehus,230,1885,
+Holmevej 5 5854 Gislev,5,130000.0,24-10-1993,Alm.,792,4,Villa,164,1900,
+Blåmejsevænget 6 5854 Gislev,6,233802.0,15-10-1993,Andet,1623,4,Villa,144,1977,
+Råstrupvej 8 5854 Gislev,8,300000.0,12-10-1993,Fam.,1785,5,Villa,168,1873,
+Skelvænget 6 5854 Gislev,6,310000.0,20-09-1993,Alm.,4492,3,Rækkehus,69,1983,
+Søndervangen 11 5854 Gislev,11,323000.0,03-09-1993,Alm.,0,5,Villa,153,1974,
+Faaborgvej 28 5854 Gislev,28,300000.0,17-08-1993,Alm.,3061,4,Villa,98,1890,
+Slipager 14 5854 Gislev,14,450000.0,13-05-1993,Alm.,3688,4,Villa,122,1980,
+Apotekervej 1 5854 Gislev,1,61305.0,16-03-1993,Alm.,681,3,Villa,90,1946,
+Søndervangen 36 5854 Gislev,36,425000.0,02-03-1993,Alm.,3455,4,Villa,123,1972,
+Bakkevej 1 5854 Gislev,1,550000.0,22-02-1993,Alm.,2488,5,Villa,221,1974,
+Faaborgvej 7 5854 Gislev,7,450000.0,18-02-1993,Alm.,1500,11,Villa,300,1939,
+Kullerupvej 2 5854 Gislev,2,517000.0,02-02-1993,Alm.,0,9,Villa,245,1852,
+Sandagervej 25 5854 Gislev,25,263500.0,16-11-1992,Fam.,1401,5,Villa,188,1949,
+Sandagervej 48 5854 Gislev,48,1484474.0,16-11-1992,Fam.,6185,8,Stuehus,240,1915,
+Søltvej 12 5854 Gislev,12,395000.0,07-09-1992,Alm.,2969,4,Stuehus,133,1903,
+Søndervangen 9 5854 Gislev,9,495000.0,12-08-1992,Alm.,3639,4,Villa,136,1971,
+Lamdrupvej 25 5854 Gislev,25,240552.0,14-07-1992,Alm.,0,4,Villa,165,1877,
+Lamdrupvej 16 5854 Gislev,16,1350000.0,10-07-1992,Alm.,6026,7,Stuehus,224,1881,
+Kærsangervænget 4 5854 Gislev,4,462000.0,02-06-1992,Alm.,3915,4,Villa,118,1977,
+Lamdrupvej 19 5854 Gislev,19,4100000.0,19-05-1992,Alm.,18222,4,Stuehus,225,1922,
+Søltvej 3 5854 Gislev,3,417000.0,19-05-1992,Alm.,3690,5,Villa,113,1777,
+Råstruphave 1 5854 Gislev,1,665000.0,24-02-1992,Alm.,2015,10,Villa,330,1928,
+Sandagervej 9 5854 Gislev,9,625000.0,17-01-1992,Alm.,0,6,Villa,190,1963,

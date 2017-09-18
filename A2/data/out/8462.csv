@@ -1,0 +1,900 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Ketting Parkvej 24 8462 Harlev J,8462,2114000.0,24-04-2017,Alm.,18707,5,Rækkehus,113,2009,-2 %
+Labing Møllevej 5 8462 Harlev J,8462,1830000.0,31-03-2017,Alm.,8798,8,Stuehus,208,1914,
+Acervej 8 8462 Harlev J,8462,1850000.0,31-03-2017,Alm.,14919,5,Villa,124,1964,-3 %
+Framlevvej 11 8462 Harlev J,8462,2200000.0,30-03-2017,Alm.,8208,7,Villa,268,1962,-6 %
+Grønhøjvej 19 8462 Harlev J,8462,1780000.0,27-03-2017,Alm.,14240,4,Villa,125,1964,-4 %
+Nytoften 11 8462 Harlev J,8462,1525000.0,26-02-2017,Alm.,14523,3,Rækkehus,105,1983,-5 %
+Rødlundvænget 21 8462 Harlev J,8462,3850000.0,25-02-2017,Alm.,19444,8,Villa,198,2000,
+Sydbakken 16 8462 Harlev J,8462,3200000.0,23-02-2017,Alm.,14285,7,Villa,224,1973,
+Edelhoffvej 2C 8462 Harlev J,8462,1090000.0,08-02-2017,Alm.,12386,3,Rækkehus,88,1971,-9 %
+Gammel Stillingvej 438 8462 Harlev J,8462,2025000.0,25-01-2017,Alm.,18409,4,Villa,110,1992,-3 %
+Grønhøjvej 56D 8462 Harlev J,8462,2440000.0,19-01-2017,Alm.,15541,5,Villa,157,1978,-2 %
+Damkærvej 10 8462 Harlev J,8462,1084000.0,10-01-2017,Fam.,8089,4,Villa,134,1960,
+Stallinggårdvej 2 8462 Harlev J,8462,3360000.0,29-12-2016,Alm.,17319,6,Villa,194,2008,-4 %
+Havremarksvej 2 8462 Harlev J,8462,1780000.0,28-12-2016,Alm.,16952,4,Villa,105,1968,-5 %
+Nytoften 13 8462 Harlev J,8462,1799000.0,23-12-2016,Alm.,15643,4,Rækkehus,115,1983,0 %
+Florasvej 15 8462 Harlev J,8462,2775000.0,13-12-2016,Alm.,16323,4,Villa,170,1968,-1 %
+Florasvej 16 8462 Harlev J,8462,2600000.0,12-12-2016,Alm.,15294,4,Villa,170,1970,4 %
+Kettinggårdsvej 13 8462 Harlev J,8462,4165000.0,06-12-2016,Alm.,18108,7,Villa,230,2009,-3 %
+Kettingvej 26 8462 Harlev J,8462,1870000.0,06-12-2016,Alm.,12142,5,Villa,154,1963,-4 %
+Bygmarksvej 10 8462 Harlev J,8462,1950000.0,02-12-2016,Alm.,19117,4,Villa,102,1969,-2 %
+Tandrupvej 10 8462 Harlev J,8462,1272310.0,23-11-2016,Andet,4479,9,Villa,284,1877,-66 %
+Ketting Parkvej 233 8462 Harlev J,8462,2455048.0,08-11-2016,Alm.,18321,4,Rækkehus,134,2016,
+Kornelvej 38 8462 Harlev J,8462,2498000.0,02-11-2016,Alm.,7955,10,Stuehus,314,1928,
+Stallinggårdvej 4 8462 Harlev J,8462,1655000.0,28-10-2016,Andet,8152,6,Villa,203,2005,
+Nytoften 8 8462 Harlev J,8462,1375000.0,19-10-2016,Alm.,13480,5,Rækkehus,102,1984,-8 %
+Hvedemarksvej 5 8462 Harlev J,8462,2890000.0,19-10-2016,Alm.,17730,5,Villa,163,1968,-4 %
+Araliavej 43 8462 Harlev J,8462,750000.0,17-10-2016,Alm.,4838,5,Villa,155,1979,-47 %
+Grønhøjvej 47 8462 Harlev J,8462,2300000.0,13-10-2016,Alm.,14838,4,Villa,155,1969,-2 %
+Framlev Korsvej 29 8462 Harlev J,8462,2000000.0,03-10-2016,Alm.,12048,5,Villa,166,1991,
+Ketting Parkvej 225 8462 Harlev J,8462,2275000.0,30-09-2016,Alm.,21462,4,Rækkehus,106,2015,-1 %
+Højlundvej 30 8462 Harlev J,8462,2100000.0,27-09-2016,Alm.,10714,8,Villa,196,1969,-8 %
+Sydbakken 30 8462 Harlev J,8462,1515000.0,19-09-2016,Fam.,9837,4,Villa,154,1972,
+Tåstrupvej 110 8462 Harlev J,8462,1250000.0,09-09-2016,Andet,7267,6,Villa,172,1877,
+Vingetoften 14 8462 Harlev J,8462,2100000.0,06-09-2016,Andet,15555,5,Villa,135,2004,
+Spiræavej 16 8462 Harlev J,8462,2375000.0,29-08-2016,Alm.,11046,6,Villa,215,1976,-5 %
+Højbyvej 21 8462 Harlev J,8462,1450000.0,25-08-2016,Alm.,17261,3,Villa,84,1910,-3 %
+Vårgyvelvej 9 8462 Harlev J,8462,2500000.0,19-08-2016,Alm.,16025,5,Villa,156,1969,0 %
+Engsvinget 29 8462 Harlev J,8462,2374000.0,18-08-2016,Alm.,14387,5,Villa,165,1973,-1 %
+Tandrupvej 18 8462 Harlev J,8462,3428804.0,17-08-2016,Alm.,9768,8,Stuehus,351,1845,
+Kettingvej 18 8462 Harlev J,8462,1900000.0,15-08-2016,Alm.,13286,4,Villa,143,1973,-5 %
+Åbovej 51 8462 Harlev J,8462,2430000.0,04-08-2016,Alm.,18134,4,Villa,134,1960,-3 %
+Grønhøjvej 71 8462 Harlev J,8462,1500000.0,03-08-2016,Alm.,11811,4,Villa,127,1967,-9 %
+Engsvinget 23 8462 Harlev J,8462,1936000.0,21-07-2016,Alm.,14892,5,Villa,130,1973,-3 %
+Florasvej 2 8462 Harlev J,8462,1775000.0,16-07-2016,Alm.,14087,5,Villa,126,1967,-6 %
+Labing Landevej 1 8462 Harlev J,8462,2400000.0,08-07-2016,Alm.,14285,4,Stuehus,168,1911,-4 %
+Sydbakken 23 8462 Harlev J,8462,2175000.0,01-07-2016,Alm.,10357,4,Villa,210,1969,-3 %
+Ketting Parkvej 213 8462 Harlev J,8462,2150000.0,30-06-2016,Alm.,20283,4,Rækkehus,106,2016,3 %
+Labingvej 1 8462 Harlev J,8462,17750000.0,29-06-2016,Alm.,42261,12,Stuehus,420,1927,
+Gammel Mosevej 11A 8462 Harlev J,8462,2225000.0,29-06-2016,Alm.,15892,5,Villa,140,1990,-5 %
+Sydbakken 57 8462 Harlev J,8462,4300000.0,23-06-2016,Alm.,21608,7,Villa,199,1970,
+Sydbakken 15 8462 Harlev J,8462,516960.0,07-06-2016,Fam.,2872,6,Villa,180,1970,
+Tåstrup Byvej 11 8462 Harlev J,8462,1955000.0,06-06-2016,Fam.,11432,6,Villa,171,2003,
+Nyvangsvej 1 8462 Harlev J,8462,2250000.0,31-05-2016,Alm.,18750,3,Villa,120,1968,-2 %
+Skibbyvej 51 8462 Harlev J,8462,4325000.0,10-05-2016,Alm.,41190,3,Villa,105,2008,-13 %
+Grønhøjvej 73 8462 Harlev J,8462,1471238.0,02-05-2016,Fam.,8862,7,Villa,166,1969,
+Ketting Parkvej 215 8462 Harlev J,8462,2200000.0,02-05-2016,Alm.,20754,4,Rækkehus,106,2016,
+Rødlundvej 497 8462 Harlev J,8462,2998000.0,24-04-2016,Alm.,20256,5,Villa,148,2003,0 %
+Vårgyvelvej 3 8462 Harlev J,8462,2685000.0,13-04-2016,Alm.,14752,8,Villa,182,1967,
+Ketting Parkvej 38 8462 Harlev J,8462,2049000.0,11-04-2016,Alm.,19701,4,Rækkehus,104,2009,0 %
+Nyvangsvej 12A 8462 Harlev J,8462,1400000.0,23-03-2016,Alm.,15909,3,Villa,88,1966,-6 %
+Ketting Parkvej 18 8462 Harlev J,8462,2075000.0,21-03-2016,Alm.,19951,3,Rækkehus,104,2008,-2 %
+Ketting Parkvej 217 8462 Harlev J,8462,2125000.0,11-03-2016,Alm.,20047,4,Rækkehus,106,2016,
+Spiræavej 31 8462 Harlev J,8462,1600000.0,09-03-2016,Alm.,11764,5,Villa,136,1976,-3 %
+Storringvej 16 8462 Harlev J,8462,1880000.0,29-02-2016,Alm.,10742,5,Villa,175,1904,-1 %
+Lærkesvinget 18 8462 Harlev J,8462,1550000.0,25-02-2016,Alm.,13247,5,Villa,117,1962,-3 %
+Brombærvej 19 8462 Harlev J,8462,1100000.0,17-02-2016,Alm.,7586,6,Villa,145,1956,-8 %
+Ketting Parkvej 219 8462 Harlev J,8462,2100000.0,11-02-2016,Alm.,19811,4,Rækkehus,106,2016,
+Engsvinget 14 8462 Harlev J,8462,2650000.0,10-02-2016,Alm.,14171,7,Villa,187,1972,
+Bygmarksvej 20 8462 Harlev J,8462,1400000.0,10-02-2016,Alm.,11382,4,Villa,123,1968,-15 %
+Ketting Parkvej 211 8462 Harlev J,8462,2100000.0,07-02-2016,Alm.,19811,4,Rækkehus,106,2016,
+Ketting Parkvej 221 8462 Harlev J,8462,2085000.0,07-02-2016,Alm.,19669,4,Rækkehus,106,2016,
+Vingetoften 25 8462 Harlev J,8462,2050000.0,05-02-2016,Alm.,16400,4,Villa,125,1979,-2 %
+Lærkesvinget 21 8462 Harlev J,8462,1800000.0,25-01-2016,Alm.,17821,4,Villa,101,1962,-5 %
+Engsvinget 41 8462 Harlev J,8462,1700000.0,21-01-2016,Alm.,10897,4,Villa,156,1970,
+Åbovej 53 8462 Harlev J,8462,2875000.0,06-01-2016,Alm.,10727,7,Villa,268,1962,-7 %
+Kirkesvinget 3 8462 Harlev J,8462,4300000.0,30-12-2015,Alm.,12427,12,Stuehus,346,1894,-4 %
+Grønhøjvej 75 8462 Harlev J,8462,2298000.0,21-12-2015,Alm.,15527,5,Villa,148,1970,0 %
+Tiliavej 7 8462 Harlev J,8462,1580000.0,14-12-2015,Alm.,11366,5,Villa,139,1967,-8 %
+Hørslevvej 131 8462 Harlev J,8462,1360000.0,10-12-2015,Alm.,10225,4,Villa,133,1969,-9 %
+Stillingvej 513 8462 Harlev J,8462,1250000.0,09-12-2015,Andet,12019,4,Stuehus,104,1909,
+Rødlundvej 521 8462 Harlev J,8462,3365000.0,06-12-2015,Alm.,18189,6,Villa,185,2001,-4 %
+Rødlundvænget 5 8462 Harlev J,8462,2980000.0,30-11-2015,Alm.,17225,6,Villa,173,2002,-1 %
+Hørslevvej 134 8462 Harlev J,8462,1700000.0,26-11-2015,Alm.,12781,5,Villa,133,1827,-6 %
+Acervej 14 8462 Harlev J,8462,1650000.0,25-11-2015,Alm.,15277,4,Villa,108,1963,-3 %
+Lærkesvinget 24 8462 Harlev J,8462,2412500.0,23-11-2015,Alm.,15078,5,Villa,160,1963,-3 %
+Nytoften 14 8462 Harlev J,8462,3648000.0,06-11-2015,Alm.,19934,7,Villa,183,2001,
+Ketting Parkvej 53 8462 Harlev J,8462,4498000.0,06-11-2015,Alm.,21018,8,Villa,214,2011,0 %
+Framlevvej 27 8462 Harlev J,8462,2195000.0,19-10-2015,Alm.,13143,5,Villa,167,1961,0 %
+Gammel Stillingvej 461 8462 Harlev J,8462,1900000.0,16-10-2015,Alm.,13868,5,Villa,137,1919,-5 %
+Ketting Parkvej 96 8462 Harlev J,8462,1275000.0,09-10-2015,Fam.,14325,3,Rækkehus,89,2012,-29 %
+Acervej 23 8462 Harlev J,8462,2170000.0,07-10-2015,Alm.,15724,5,Villa,138,1965,-1 %
+Ketting Parkvej 231 8462 Harlev J,8462,2395000.0,02-10-2015,Alm.,17873,4,Rækkehus,134,2015,
+Højbyvej 9 8462 Harlev J,8462,3400000.0,01-10-2015,Alm.,22818,6,Villa,149,1964,-15 %
+Engsvinget 25 8462 Harlev J,8462,1998000.0,30-09-2015,Alm.,10515,5,Villa,190,1971,0 %
+Tiliavej 2 8462 Harlev J,8462,2150000.0,22-09-2015,Alm.,8600,8,Villa,250,1964,-2 %
+Araliavej 6 8462 Harlev J,8462,2450000.0,18-09-2015,Alm.,18014,5,Villa,136,1998,-6 %
+Ketting Parkvej 223 8462 Harlev J,8462,2135000.0,17-09-2015,Alm.,20141,4,Rækkehus,106,2015,
+Sydbakken 59 8462 Harlev J,8462,1999000.0,15-09-2015,Alm.,12339,5,Villa,162,1970,0 %
+Frøkjærvænget 5 8462 Harlev J,8462,2098000.0,10-09-2015,Alm.,15313,5,Villa,137,1984,0 %
+"Edelhoffvej 2A, 1. TV 8462 Harlev J",8462,1198000.0,06-09-2015,Alm.,15763,3,Lejlighed,76,1972,0 %
+Engsvinget 5 8462 Harlev J,8462,2195000.0,27-08-2015,Alm.,11492,7,Villa,191,1969,0 %
+Nytoften 16 8462 Harlev J,8462,3300000.0,24-08-2015,Alm.,19411,6,Villa,170,2007,-2 %
+Holmbækvej 7 8462 Harlev J,8462,1950000.0,22-08-2015,Alm.,12580,4,Villa,155,1830,-7 %
+Tåstrupvej 150 8462 Harlev J,8462,369271.0,20-08-2015,Alm.,5769,2,Villa,64,1937,
+Parcelvej 6 8462 Harlev J,8462,1275000.0,20-08-2015,Alm.,13709,3,Villa,93,1949,-9 %
+Bøgebakken 2 8462 Harlev J,8462,2630000.0,03-08-2015,Alm.,14530,4,Villa,181,1945,-8 %
+Engsvinget 30 8462 Harlev J,8462,2075000.0,29-07-2015,Alm.,16210,4,Villa,128,1971,-1 %
+Florasvej 12 8462 Harlev J,8462,400000.0,27-07-2015,Andet,3007,6,Villa,133,1967,
+Ketting Parkvej 52 8462 Harlev J,8462,2000000.0,06-07-2015,Alm.,19230,4,Rækkehus,104,2009,-2 %
+Storringvej 22 8462 Harlev J,8462,4250000.0,26-06-2015,Fam.,20047,8,Stuehus,212,1928,
+Rødlundvej 284 8462 Harlev J,8462,1325000.0,19-06-2015,Andet,8179,5,Villa,162,1998,
+Rødlundvej 3 8462 Harlev J,8462,4010000.0,15-06-2015,Alm.,27465,5,Villa,146,1994,-2 %
+Gammel Stillingvej 458 8462 Harlev J,8462,1750000.0,02-06-2015,Alm.,15086,3,Villa,116,1988,-3 %
+Guldregnvej 41 8462 Harlev J,8462,2112000.0,31-05-2015,Alm.,15529,4,Villa,136,1975,-2 %
+Stillingvej 507 8462 Harlev J,8462,7982300.0,30-05-2015,Alm.,22741,9,Stuehus,351,1974,
+Grønhøjvej 29 8462 Harlev J,8462,1950000.0,12-05-2015,Alm.,15234,4,Villa,128,1969,
+Framlevvej 6 8462 Harlev J,8462,2700000.0,12-05-2015,Alm.,18750,4,Villa,144,1942,-4 %
+Lærkesvinget 11 8462 Harlev J,8462,1954000.0,06-05-2015,Alm.,15886,4,Villa,123,1975,-1 %
+Tandrupvej 9 8462 Harlev J,8462,2595000.0,04-05-2015,Alm.,17533,6,Stuehus,148,1910,0 %
+Spiræavej 23 8462 Harlev J,8462,1945000.0,03-05-2015,Alm.,16208,4,Villa,120,1977,0 %
+Framlev Korsvej 32 8462 Harlev J,8462,3998000.0,30-04-2015,Alm.,17085,4,Stuehus,234,1909,
+Vårgyvelvej 6 8462 Harlev J,8462,2475000.0,28-04-2015,Alm.,16500,5,Villa,150,1968,-1 %
+Espevej 2 8462 Harlev J,8462,2150000.0,27-04-2015,Andet,13354,7,Villa,161,1935,
+Skibbyvej 53 8462 Harlev J,8462,290000.0,22-04-2015,Fam.,2000,4,Stuehus,145,1964,
+Ketting Parkvej 229 8462 Harlev J,8462,2425000.0,20-04-2015,Alm.,18097,4,Rækkehus,134,2015,
+Gammel Stillingvej 452 8462 Harlev J,8462,1250000.0,14-04-2015,Fam.,10162,4,Villa,123,1965,
+Nyvangsvej 21 8462 Harlev J,8462,2750000.0,10-04-2015,Alm.,17187,4,Villa,160,1967,-3 %
+Lærkesvinget 29 8462 Harlev J,8462,1048250.0,09-04-2015,Fam.,8592,5,Villa,122,1964,
+Ketting Parkvej 227 8462 Harlev J,8462,2425000.0,26-03-2015,Alm.,18097,4,Rækkehus,134,2015,
+Bøgebakken 5 8462 Harlev J,8462,1400000.0,25-03-2015,Alm.,7734,5,Villa,181,1914,-17 %
+Ketting Parkvej 28 8462 Harlev J,8462,2198000.0,23-03-2015,Alm.,18627,5,Rækkehus,118,2008,0 %
+Framlevvej 1 8462 Harlev J,8462,1650000.0,23-03-2015,Alm.,8250,12,Villa,200,1923,
+Ketting Parkvej 16 8462 Harlev J,8462,2098000.0,22-03-2015,Alm.,20173,4,Rækkehus,104,2008,0 %
+Bygmarksvej 12 8462 Harlev J,8462,2435000.0,19-03-2015,Alm.,15915,5,Villa,153,1971,-3 %
+Ulmusvej 9 8462 Harlev J,8462,2050000.0,19-03-2015,Alm.,13141,3,Villa,156,1966,-7 %
+Labingvej 7A 8462 Harlev J,8462,1480000.0,17-03-2015,Alm.,9866,4,Villa,150,2000,-5 %
+Sydbakken 45 8462 Harlev J,8462,1970000.0,11-03-2015,Alm.,11726,6,Villa,168,1970,-1 %
+Tåstrupvej 105 8462 Harlev J,8462,3335000.0,04-03-2015,Alm.,22233,5,Stuehus,150,1797,
+Kettingvej 8 8462 Harlev J,8462,1300000.0,03-03-2015,Alm.,5909,6,Villa,220,2017,-7 %
+Højlundvej 28 8462 Harlev J,8462,1950000.0,02-03-2015,Alm.,13087,5,Villa,149,1969,-11 %
+Grønhøjvej 22 8462 Harlev J,8462,1800000.0,27-02-2015,Alm.,12676,4,Villa,142,1961,-10 %
+Framlev Korsvej 1 8462 Harlev J,8462,1450000.0,26-01-2015,Alm.,8381,5,Villa,173,1963,-15 %
+Araliavej 45 8462 Harlev J,8462,2210000.0,21-01-2015,Alm.,16014,5,Villa,138,1980,
+Ketting Parkvej 54 8462 Harlev J,8462,1950000.0,19-01-2015,Alm.,18750,4,Rækkehus,104,2009,0 %
+Ketting Parkvej 55 8462 Harlev J,8462,3200000.0,19-01-2015,Fam.,18181,5,Villa,176,2009,
+Edelhoffvej 6 8462 Harlev J,8462,4725000.0,07-01-2015,Alm.,15802,8,Villa,299,2008,-5 %
+Bøgebakken 1A 8462 Harlev J,8462,772000.0,07-01-2015,Fam.,8577,2,Villa,90,1974,
+Framlev Korsvej 25 8462 Harlev J,8462,2425000.0,11-12-2014,Alm.,9661,7,Villa,251,1949,-2 %
+Harlev Kirkevej 9 8462 Harlev J,8462,2450000.0,24-11-2014,Alm.,9879,6,Villa,248,1910,-9 %
+Tåstrupvej 129 8462 Harlev J,8462,1500000.0,24-11-2014,Alm.,12605,4,Villa,119,1910,-16 %
+Grøntoften 1 8462 Harlev J,8462,1850000.0,19-11-2014,Alm.,13120,4,Villa,141,1968,-7 %
+Florasvej 13 8462 Harlev J,8462,1625000.0,07-11-2014,Alm.,14508,4,Villa,112,1967,-10 %
+Gammel Stillingvej 446 8462 Harlev J,8462,1983000.0,06-11-2014,Alm.,11140,6,Villa,178,1906,-10 %
+Vestervej 12 8462 Harlev J,8462,1330000.0,15-10-2014,Alm.,9637,6,Villa,138,1957,-11 %
+Nytoften 23 8462 Harlev J,8462,2225000.0,06-10-2014,Alm.,17382,4,Villa,128,1998,-3 %
+Ketting Parkvej 42 8462 Harlev J,8462,2000000.0,03-10-2014,Alm.,16949,5,Rækkehus,118,2009,-2 %
+Lilleringvej 45 8462 Harlev J,8462,975000.0,01-10-2014,Fam.,5873,5,Villa,166,1969,
+Nytoften 10 8462 Harlev J,8462,1750000.0,26-09-2014,Alm.,15909,3,Rækkehus,110,1984,
+Nytoften 9 8462 Harlev J,8462,1660000.0,13-09-2014,Alm.,15660,5,Rækkehus,106,1983,-2 %
+Florasvej 25 8462 Harlev J,8462,2250000.0,08-09-2014,Alm.,17578,4,Villa,128,1972,
+Sydbakken 55 8462 Harlev J,8462,1203277.0,04-09-2014,Fam.,6915,6,Villa,174,1970,
+Spiræavej 20 8462 Harlev J,8462,2500000.0,04-09-2014,Alm.,14367,4,Villa,174,1975,-4 %
+Labingvej 10 8462 Harlev J,8462,475000.0,19-08-2014,Auktion,4439,4,Rækkehus,107,1777,
+Ulmusvej 5 8462 Harlev J,8462,2450000.0,08-08-2014,Alm.,9919,7,Villa,247,1965,-2 %
+Grønhøjvej 37 8462 Harlev J,8462,980000.0,07-08-2014,Fam.,7368,4,Villa,133,1972,
+Sydbakken 34 8462 Harlev J,8462,2368000.0,04-08-2014,Alm.,12800,7,Villa,185,1972,-9 %
+Hørslevvej 129 8462 Harlev J,8462,2000000.0,30-07-2014,Alm.,7751,4,Stuehus,258,1890,-11 %
+Kirkesvinget 2 8462 Harlev J,8462,2000000.0,30-07-2014,Alm.,11363,6,Villa,176,1800,-11 %
+Grøntoften 17 8462 Harlev J,8462,1675000.0,17-07-2014,Alm.,11166,6,Villa,150,1968,-16 %
+Ulmusvej 1 8462 Harlev J,8462,1790000.0,11-07-2014,Alm.,12013,5,Villa,149,1963,-6 %
+Framlev Korsvej 5A 8462 Harlev J,8462,1500000.0,08-07-2014,Alm.,8333,5,Villa,180,1975,-17 %
+Araliavej 67 8462 Harlev J,8462,750000.0,07-07-2014,Alm.,5102,5,Villa,147,1985,-67 %
+Sydbakken 32 8462 Harlev J,8462,1530000.0,04-07-2014,Fam.,12047,4,Villa,127,1972,
+"Edelhoffvej 2A, ST. TV 8462 Harlev J",8462,875000.0,02-07-2014,Alm.,11075,2,Lejlighed,79,1972,-3 %
+Nyvangsvej 22 8462 Harlev J,8462,1800000.0,01-07-2014,Alm.,11842,5,Villa,152,1965,-10 %
+Rødlundvej 292 8462 Harlev J,8462,1247500.0,30-06-2014,Fam.,8785,5,Villa,142,1996,
+Rødlundvej 290 8462 Harlev J,8462,2587500.0,20-06-2014,Alm.,16801,5,Villa,154,1997,-4 %
+Araliavej 63 8462 Harlev J,8462,2210000.0,19-06-2014,Alm.,13987,5,Villa,158,1985,-2 %
+Lilleringvej 9 8462 Harlev J,8462,1550000.0,10-06-2014,Alm.,17032,3,Villa,91,1961,-9 %
+Sydbakken 69 8462 Harlev J,8462,2600000.0,02-06-2014,Alm.,11504,8,Villa,226,1973,-4 %
+Lilleringvej 49 8462 Harlev J,8462,2800000.0,26-05-2014,Alm.,9459,7,Villa,296,1877,-15 %
+Framlev Korsvej 5 8462 Harlev J,8462,1650000.0,13-05-2014,Alm.,11000,4,Villa,150,1932,-3 %
+Lærkesvinget 4 8462 Harlev J,8462,1745000.0,07-05-2014,Alm.,11258,5,Villa,155,1959,-6 %
+Vestervej 32 8462 Harlev J,8462,1498000.0,30-04-2014,Alm.,11795,5,Villa,127,1960,0 %
+Kettingvej 27A 8462 Harlev J,8462,1675000.0,29-04-2014,Alm.,12884,4,Villa,130,1971,-7 %
+Sydbakken 107 8462 Harlev J,8462,1720000.0,28-04-2014,Alm.,13437,4,Villa,128,1971,-4 %
+Ketting Parkvej 86 8462 Harlev J,8462,2168000.0,14-04-2014,Alm.,18852,4,Rækkehus,115,2011,-1 %
+Espevej 3A 8462 Harlev J,8462,2150000.0,11-04-2014,Alm.,14429,6,Villa,149,1989,-2 %
+Araliavej 61 8462 Harlev J,8462,2175000.0,19-03-2014,Alm.,15425,5,Villa,141,1985,-5 %
+Vestervej 18 8462 Harlev J,8462,1900000.0,02-03-2014,Alm.,16666,4,Villa,114,1958,-2 %
+Hørslevvej 109 8462 Harlev J,8462,200000.0,24-02-2014,Alm.,1136,6,Stuehus,176,1755,
+Rødlundvej 310 8462 Harlev J,8462,2500000.0,09-02-2014,Alm.,16025,6,Villa,156,1996,-7 %
+Harlev Kirkevej 3 8462 Harlev J,8462,1550000.0,31-01-2014,Alm.,10915,7,Villa,142,1870,-3 %
+Tandrupvej 3 8462 Harlev J,8462,645000.0,30-01-2014,Alm.,6323,1,Villa,102,1873,
+Lilleringvej 5 8462 Harlev J,8462,1650000.0,23-01-2014,Alm.,15277,4,Villa,108,1961,-3 %
+Engsvinget 45 8462 Harlev J,8462,1275000.0,21-01-2014,Alm.,11283,4,Villa,113,1969,-6 %
+Vingetoften 33 8462 Harlev J,8462,1950000.0,10-01-2014,Alm.,15000,4,Villa,130,1970,-2 %
+Sydbakken 53 8462 Harlev J,8462,1700000.0,17-12-2013,Alm.,14166,4,Villa,120,1970,-10 %
+Snåstrupvej 9 8462 Harlev J,8462,3888750.0,04-12-2013,Fam.,11505,10,Stuehus,338,2002,
+Grønhøjvej 78 8462 Harlev J,8462,2030000.0,29-11-2013,Alm.,11666,4,Villa,174,1971,-3 %
+Gammel Stillingvej 437 8462 Harlev J,8462,1800000.0,22-11-2013,Alm.,13333,4,Villa,135,1969,-10 %
+Grønhøjvej 4 8462 Harlev J,8462,1999000.0,18-11-2013,Alm.,14278,4,Villa,140,1984,0 %
+Framlevvej 4 8462 Harlev J,8462,1550000.0,14-11-2013,Fam.,9872,5,Villa,157,1912,
+Nyvangsvej 8 8462 Harlev J,8462,1510000.0,04-11-2013,Alm.,16063,4,Villa,94,1963,-6 %
+Stillingvej 508 8462 Harlev J,8462,2900000.0,31-10-2013,Alm.,19078,4,Villa,152,1898,-3 %
+Gammel Stillingvej 420 8462 Harlev J,8462,1825000.0,31-10-2013,Alm.,17892,5,Villa,102,1934,-3 %
+Lærkesvinget 22 8462 Harlev J,8462,2050000.0,29-10-2013,Alm.,15298,5,Villa,134,1961,-2 %
+Engsvinget 18 8462 Harlev J,8462,1450000.0,25-10-2013,Alm.,9177,6,Villa,158,1968,-6 %
+Sydbakken 83 8462 Harlev J,8462,2250000.0,15-10-2013,Alm.,9698,6,Villa,232,1973,
+Lærkesvinget 12 8462 Harlev J,8462,1375000.0,01-10-2013,Alm.,12387,3,Villa,111,1961,-8 %
+Rugmarksvej 4 8462 Harlev J,8462,2150000.0,09-09-2013,Fam.,12285,10,Villa,175,1969,-14 %
+Framlev Korsvej 7 8462 Harlev J,8462,367500.0,08-09-2013,Andet,3675,4,Villa,100,1932,
+Grønhøjvej 63 8462 Harlev J,8462,1750000.0,02-09-2013,Alm.,11666,5,Villa,150,1969,0 %
+Espevej 1 8462 Harlev J,8462,1300000.0,29-08-2013,Alm.,11111,4,Villa,117,1936,-13 %
+Grønhøjvej 21 8462 Harlev J,8462,1400000.0,27-08-2013,Alm.,15909,4,Villa,88,1962,-12 %
+Damkærvej 12 8462 Harlev J,8462,1485000.0,21-08-2013,Alm.,12172,5,Villa,122,1957,-7 %
+Ketting Parkvej 46 8462 Harlev J,8462,2000000.0,31-07-2013,Alm.,16949,5,Rækkehus,118,2009,-5 %
+Lilleringvej 42 8462 Harlev J,8462,750000.0,29-07-2013,Alm.,7731,2,Villa,97,1853,
+Bygmarksvej 32 8462 Harlev J,8462,1700000.0,29-07-2013,Alm.,12592,4,Villa,135,1968,-3 %
+Hørslevvej 143 8462 Harlev J,8462,1950000.0,24-07-2013,Alm.,12187,5,Villa,160,1966,-2 %
+Sydbakken 3 8462 Harlev J,8462,1600000.0,10-07-2013,Alm.,12500,4,Villa,128,1970,-11 %
+Lærkesvinget 19 8462 Harlev J,8462,2050000.0,28-06-2013,Alm.,13141,5,Villa,156,1969,-7 %
+Højbyvej 11B 8462 Harlev J,8462,3585000.0,17-05-2013,Alm.,15519,8,Villa,231,2006,-6 %
+Ketting Parkvej 114 8462 Harlev J,8462,2198000.0,17-05-2013,Alm.,16161,6,Rækkehus,136,2013,-4 %
+Lilleringvej 43 8462 Harlev J,8462,1600000.0,24-04-2013,Alm.,10000,4,Villa,160,1920,-6 %
+Araliavej 25 8462 Harlev J,8462,2200000.0,17-04-2013,Alm.,13750,6,Villa,160,1980,-8 %
+Bøgebakken 2A 8462 Harlev J,8462,2465500.0,12-04-2013,Alm.,16009,5,Villa,154,1987,-1 %
+Ketting Parkvej 21 8462 Harlev J,8462,2700000.0,06-04-2013,Alm.,17419,5,Villa,155,2009,-2 %
+Damkærvej 4 8462 Harlev J,8462,1325000.0,24-03-2013,Alm.,6495,4,Villa,204,1951,-5 %
+Grønhøjvej 59 8462 Harlev J,8462,2395000.0,21-03-2013,Alm.,16404,5,Villa,146,1969,0 %
+Åbovej 55 8462 Harlev J,8462,2350000.0,18-03-2013,Alm.,14156,5,Stuehus,166,1910,
+Labingvej 5 8462 Harlev J,8462,700000.0,25-02-2013,Alm.,6140,4,Villa,114,1870,-12 %
+Kettingvej 32 8462 Harlev J,8462,701600.0,25-02-2013,Alm.,6208,4,Villa,113,1961,
+Bøgebakken 15 8462 Harlev J,8462,3000000.0,22-02-2013,Alm.,12448,6,Villa,241,1960,-6 %
+Nyvangsvej 11 8462 Harlev J,8462,1900000.0,31-01-2013,Alm.,11656,6,Villa,163,1968,-5 %
+Ketting Parkvej 44 8462 Harlev J,8462,2000000.0,28-01-2013,Alm.,16949,5,Rækkehus,118,2009,-5 %
+Snåstrupvej 5 8462 Harlev J,8462,1582100.0,16-01-2013,Alm.,5418,7,Stuehus,292,1915,
+Frøkjærvænget 1 8462 Harlev J,8462,1087676.0,15-01-2013,Fam.,5816,5,Villa,187,2004,
+Havremarksvej 22 8462 Harlev J,8462,2350000.0,11-12-2012,Alm.,13428,3,Villa,175,1970,-6 %
+Rugmarksvej 7 8462 Harlev J,8462,1573795.0,28-11-2012,Alm.,10491,6,Villa,150,1972,
+Grønhøjvej 50 8462 Harlev J,8462,1898000.0,26-11-2012,Alm.,12245,5,Villa,155,1970,0 %
+Spiræavej 35 8462 Harlev J,8462,1750000.0,22-11-2012,Alm.,13888,4,Villa,126,1976,-12 %
+Bygmarksvej 14 8462 Harlev J,8462,1475000.0,30-10-2012,Alm.,15526,4,Villa,95,1970,-2 %
+Brombærvej 2B 8462 Harlev J,8462,2350000.0,22-10-2012,Alm.,16319,5,Villa,144,1986,-2 %
+Guldregnvej 25 8462 Harlev J,8462,1875000.0,17-10-2012,Alm.,14880,4,Villa,126,1975,-4 %
+Birkesvinget 14 8462 Harlev J,8462,1600000.0,16-10-2012,Alm.,9248,6,Villa,173,1960,-16 %
+Gammel Stillingvej 439 8462 Harlev J,8462,1572500.0,10-10-2012,Fam.,10080,6,Villa,156,1910,
+Framlevvej 10 8462 Harlev J,8462,1425000.0,20-09-2012,Alm.,13194,4,Villa,108,1952,0 %
+Tåstrupvej 130 8462 Harlev J,8462,950000.0,31-08-2012,Fam.,5080,8,Villa,187,1910,
+Guldregnvej 3 8462 Harlev J,8462,2125000.0,31-08-2012,Alm.,13198,6,Villa,161,1973,-3 %
+Tåstrupvej 133 8462 Harlev J,8462,1495000.0,23-08-2012,Alm.,14514,4,Villa,103,1958,0 %
+Bøgebakken 6 8462 Harlev J,8462,2998000.0,12-08-2012,Alm.,26530,4,Stuehus,113,1984,0 %
+Grønhøjvej 41 8462 Harlev J,8462,1500000.0,14-07-2012,Alm.,11029,4,Villa,136,1969,-6 %
+Tarskovvænget 4 8462 Harlev J,8462,290000.0,09-07-2012,Andet,2660,3,Villa,109,2016,-57 %
+Ketting Parkvej 112 8462 Harlev J,8462,2252866.0,02-07-2012,Alm.,17067,6,Rækkehus,132,2012,-2 %
+Edelhoffvej 11 8462 Harlev J,8462,2000000.0,27-06-2012,Alm.,8510,6,Villa,235,1910,-9 %
+Sydbakken 10 8462 Harlev J,8462,1720000.0,26-06-2012,Auktion,9052,5,Villa,190,1973,-31 %
+Ketting Parkvej 30 8462 Harlev J,8462,2150000.0,25-06-2012,Alm.,18220,5,Rækkehus,118,2009,0 %
+Vårgyvelvej 4 8462 Harlev J,8462,2500000.0,14-06-2012,Alm.,17241,5,Villa,145,1967,-7 %
+Araliavej 53 8462 Harlev J,8462,2000000.0,12-06-2012,Alm.,17699,4,Villa,113,1980,0 %
+Ketting Parkvej 12 8462 Harlev J,8462,2117000.0,26-04-2012,Alm.,17940,5,Rækkehus,118,2009,
+Kettingvej 30 8462 Harlev J,8462,825000.0,19-04-2012,Alm.,4435,5,Villa,186,2013,-17 %
+Guldregnvej 4 8462 Harlev J,8462,1700000.0,01-04-2012,Alm.,9770,6,Villa,174,1974,-15 %
+Lilleringvej 52 8462 Harlev J,8462,1970000.0,22-03-2012,Alm.,11257,6,Villa,175,1870,-1 %
+Tåstrupvej 131 8462 Harlev J,8462,1998000.0,16-03-2012,Alm.,12726,5,Villa,157,1996,0 %
+Snåstrupvej 6 8462 Harlev J,8462,1750000.0,14-03-2012,Alm.,14583,4,Villa,120,1964,
+Grønhøjvej 39 8462 Harlev J,8462,2095000.0,14-02-2012,Alm.,16496,4,Villa,127,1968,
+Birkesvinget 7 8462 Harlev J,8462,1675000.0,13-02-2012,Alm.,12984,5,Villa,129,1963,-4 %
+Tandrupvej 8 8462 Harlev J,8462,1500000.0,03-02-2012,Alm.,11904,5,Villa,126,1912,-6 %
+Ulmusvej 4 8462 Harlev J,8462,2795000.0,01-02-2012,Alm.,11047,8,Villa,253,1966,0 %
+Labingvej 6 8462 Harlev J,8462,2275000.0,22-01-2012,Alm.,18346,5,Villa,124,1930,-9 %
+Araliavej 5 8462 Harlev J,8462,2000000.0,20-01-2012,Alm.,11560,7,Villa,173,1980,
+Lærkesvinget 8 8462 Harlev J,8462,1650000.0,13-01-2012,Alm.,13983,5,Villa,118,1962,-7 %
+Grønhøjvej 74 8462 Harlev J,8462,1760000.0,11-01-2012,Alm.,12571,4,Villa,140,1925,-12 %
+Havremarksvej 8 8462 Harlev J,8462,872500.0,10-01-2012,Alm.,6462,5,Villa,135,1969,
+Araliavej 12 8462 Harlev J,8462,2260000.0,21-12-2011,Alm.,15694,4,Villa,144,1997,-6 %
+Engsvinget 6 8462 Harlev J,8462,2200000.0,08-12-2011,Alm.,14473,5,Villa,152,1970,-12 %
+Framlevvej 7 8462 Harlev J,8462,1375000.0,07-12-2011,Alm.,12500,4,Villa,110,1966,-8 %
+Gammel Mosevej 1A 8462 Harlev J,8462,137200.0,05-12-2011,Alm.,591,7,Stuehus,232,1929,
+Vestervej 23 8462 Harlev J,8462,1150000.0,04-12-2011,Alm.,10747,4,Villa,107,1962,-14 %
+Sydbakken 115 8462 Harlev J,8462,2050000.0,14-11-2011,Alm.,12812,5,Villa,160,1969,-7 %
+Ketting Parkvej 98 8462 Harlev J,8462,1798000.0,10-11-2011,Alm.,20202,3,Rækkehus,89,2012,
+Ketting Parkvej 84 8462 Harlev J,8462,2098000.0,08-11-2011,Alm.,18086,4,Rækkehus,116,2012,
+Grønhøjvej 15 8462 Harlev J,8462,1850000.0,07-11-2011,Alm.,9736,4,Villa,190,1962,
+Sydbakken 93 8462 Harlev J,8462,2250000.0,04-11-2011,Alm.,10714,6,Villa,210,1973,-6 %
+Ketting Parkvej 90 8462 Harlev J,8462,2098000.0,30-10-2011,Alm.,18243,4,Rækkehus,115,2012,0 %
+Ketting Parkvej 92 8462 Harlev J,8462,2110050.0,26-10-2011,Alm.,18348,4,Rækkehus,115,2012,
+Engsvinget 48 8462 Harlev J,8462,1950000.0,25-10-2011,Alm.,14338,5,Villa,136,1968,-7 %
+Lærkesvinget 26 8462 Harlev J,8462,1300000.0,24-10-2011,Alm.,9285,6,Villa,140,1961,-13 %
+Sydbakken 65 8462 Harlev J,8462,1825000.0,24-10-2011,Alm.,11550,3,Villa,158,1970,11 %
+Ketting Parkvej 102 8462 Harlev J,8462,1817609.0,03-10-2011,Alm.,20422,3,Rækkehus,89,2012,
+Grønhøjvej 56A 8462 Harlev J,8462,1805000.0,30-09-2011,Alm.,13370,5,Villa,135,1978,-5 %
+Ketting Parkvej 100 8462 Harlev J,8462,1839000.0,28-09-2011,Alm.,20662,3,Rækkehus,89,2012,
+Hørslevvej 106 8462 Harlev J,8462,685000.0,21-09-2011,Alm.,9513,3,Villa,72,1907,-6 %
+Spiræavej 13 8462 Harlev J,8462,1900000.0,21-09-2011,Alm.,15833,3,Villa,120,1976,-9 %
+Vestervej 7 8462 Harlev J,8462,1750000.0,17-09-2011,Fam.,12500,7,Villa,140,1944,-20 %
+Engsvinget 33 8462 Harlev J,8462,1900000.0,16-09-2011,Alm.,11801,6,Villa,161,1970,-5 %
+Grønhøjvej 45 8462 Harlev J,8462,2350000.0,11-09-2011,Alm.,13352,7,Villa,176,1969,-2 %
+Guldregnvej 23 8462 Harlev J,8462,2730000.0,29-08-2011,Alm.,15689,6,Villa,174,1982,-6 %
+Nytoften 15 8462 Harlev J,8462,1150000.0,28-08-2011,Alm.,10952,5,Rækkehus,105,1983,-4 %
+Frøkjærvænget 2B 8462 Harlev J,8462,2498000.0,26-07-2011,Alm.,13358,7,Villa,187,1988,0 %
+Vårgyvelvej 11 8462 Harlev J,8462,2000000.0,15-07-2011,Alm.,11627,6,Villa,172,1968,-5 %
+Silkeborgvej 941 8462 Harlev J,8462,5380000.0,08-07-2011,Alm.,48035,4,Stuehus,112,1939,
+Damkærvej 8 8462 Harlev J,8462,1875000.0,07-07-2011,Alm.,19946,3,Villa,94,1956,-6 %
+Havremarksvej 26 8462 Harlev J,8462,1180000.0,23-06-2011,Alm.,0,6,Villa,115,1970,-13 %
+Vestervej 19 8462 Harlev J,8462,2125000.0,22-06-2011,Alm.,16601,5,Villa,128,1944,-2 %
+Sydbakken 97 8462 Harlev J,8462,2375000.0,20-06-2011,Alm.,11418,6,Villa,208,1973,-5 %
+Ketting Parkvej 36 8462 Harlev J,8462,1800000.0,01-06-2011,Alm.,17307,4,Rækkehus,104,2009,-5 %
+Sydbakken 121 8462 Harlev J,8462,2100000.0,25-05-2011,Alm.,12804,7,Villa,164,1968,-7 %
+Rødlundvej 296 8462 Harlev J,8462,1200000.0,19-05-2011,Alm.,8571,5,Villa,140,1996,
+Espevej 8 8462 Harlev J,8462,998000.0,18-05-2011,Alm.,14257,3,Villa,70,1954,0 %
+Gammel Stillingvej 405 8462 Harlev J,8462,1198000.0,26-04-2011,Alm.,13311,3,Villa,90,1948,
+Engsvinget 35 8462 Harlev J,8462,1995000.0,19-04-2011,Alm.,15346,5,Villa,130,1972,0 %
+Gammel Silkeborgvej 5 8462 Harlev J,8462,1200000.0,18-04-2011,Alm.,15000,3,Stuehus,80,1910,-4 %
+Lilleringvej 39 8462 Harlev J,8462,2300000.0,11-04-2011,Alm.,16428,5,Villa,140,1922,-8 %
+Vestervej 8 8462 Harlev J,8462,2175000.0,05-04-2011,Alm.,14309,5,Villa,152,1973,-5 %
+Edelhoffvej 10 8462 Harlev J,8462,3150000.0,10-02-2011,Alm.,17403,6,Villa,181,1909,-10 %
+Havremarksvej 4 8462 Harlev J,8462,1740000.0,28-01-2011,Alm.,17400,4,Villa,100,1969,-5 %
+Ketting Parkvej 94 8462 Harlev J,8462,1998000.0,28-01-2011,Alm.,17224,4,Rækkehus,116,2012,
+Kettingvej 14 8462 Harlev J,8462,995000.0,18-01-2011,Alm.,10585,3,Villa,94,1967,0 %
+Ketting Parkvej 88 8462 Harlev J,8462,1998000.0,17-01-2011,Alm.,17373,4,Rækkehus,115,2012,
+Araliavej 26 8462 Harlev J,8462,2650000.0,13-01-2011,Alm.,20703,5,Villa,128,1997,0 %
+Framlev Korsvej 3 8462 Harlev J,8462,938000.0,11-01-2011,Auktion,9474,4,Villa,99,1938,
+Damkærvej 6 8462 Harlev J,8462,825000.0,30-12-2010,Alm.,8168,4,Villa,101,1955,-56 %
+Blomsterhaven 8 8462 Harlev J,8462,4100000.0,30-12-2010,Alm.,38317,4,Rækkehus,107,2011,106 %
+Blomsterhaven 4 8462 Harlev J,8462,4100000.0,30-12-2010,Alm.,38317,4,Rækkehus,107,2011,116 %
+Blomsterhaven 10 8462 Harlev J,8462,4100000.0,30-12-2010,Alm.,38317,4,Rækkehus,107,2011,106 %
+Blomsterhaven 6 8462 Harlev J,8462,4100000.0,30-12-2010,Alm.,38317,4,Rækkehus,107,2011,116 %
+Gammel Stillingvej 403 8462 Harlev J,8462,1550000.0,20-12-2010,Alm.,10264,6,Villa,151,1957,-9 %
+Tåstrupvej 104 8462 Harlev J,8462,1350000.0,09-12-2010,Alm.,11157,5,Villa,121,1850,-3 %
+Labing Landevej 5 8462 Harlev J,8462,2850000.0,07-12-2010,Alm.,20357,6,Stuehus,140,1850,
+Bygmarksvej 17 8462 Harlev J,8462,2585000.0,24-11-2010,Alm.,14604,5,Villa,177,1969,-4 %
+Engsvinget 43 8462 Harlev J,8462,2199000.0,18-11-2010,Alm.,10180,5,Villa,216,1970,0 %
+Nyvangsvej 6 8462 Harlev J,8462,1440000.0,12-11-2010,Alm.,13090,4,Villa,110,1962,-10 %
+Skibbyvej 62 8462 Harlev J,8462,1000000.0,07-11-2010,Fam.,11904,3,Villa,84,1877,
+Rødlundvænget 23 8462 Harlev J,8462,2735000.0,27-10-2010,Alm.,19676,5,Villa,139,1999,-1 %
+Gammel Stillingvej 447 8462 Harlev J,8462,1250000.0,25-10-2010,Alm.,8223,5,Villa,152,1907,-17 %
+Havremarksvej 12 8462 Harlev J,8462,1150000.0,20-10-2010,Andet,0,6,Villa,181,1969,
+Grønhøjvej 72 8462 Harlev J,8462,2040000.0,08-10-2010,Alm.,12215,4,Villa,167,1969,-7 %
+Araliavej 57 8462 Harlev J,8462,1875000.0,01-10-2010,Alm.,16891,4,Villa,111,1985,-6 %
+Rødlundvej 300 8462 Harlev J,8462,2900000.0,22-09-2010,Alm.,14948,6,Villa,194,1997,
+Labing Møllevej 6 8462 Harlev J,8462,2675000.0,26-08-2010,Alm.,13788,4,Stuehus,194,1938,-42 %
+Snåstrupvej 2 8462 Harlev J,8462,1600000.0,05-08-2010,Alm.,10191,5,Villa,157,1905,3 %
+Framlevvej 2 8462 Harlev J,8462,750000.0,12-07-2010,Fam.,3086,7,Villa,243,2010,
+Parcelvej 10 8462 Harlev J,8462,1575000.0,29-06-2010,Alm.,11250,6,Villa,140,1939,-7 %
+Hørslevvej 126 8462 Harlev J,8462,1190000.0,26-05-2010,Alm.,7933,6,Stuehus,150,1970,
+Højlundvej 21 8462 Harlev J,8462,1895000.0,26-05-2010,Alm.,15160,5,Villa,125,1969,-5 %
+Frøkjærvej 13 8462 Harlev J,8462,4200000.0,19-05-2010,Alm.,27814,5,Stuehus,151,1970,
+Gammel Stillingvej 416 8462 Harlev J,8462,2199000.0,18-05-2010,Alm.,16410,4,Villa,134,1919,0 %
+Ketting Parkvej 67 8462 Harlev J,8462,807000.0,10-05-2010,Alm.,4890,6,Villa,165,2010,
+Nyvangsvej 30 8462 Harlev J,8462,1200000.0,06-05-2010,Alm.,14285,2,Villa,84,1961,-7 %
+Guldregnvej 17 8462 Harlev J,8462,2998000.0,05-05-2010,Alm.,16032,6,Villa,187,1977,0 %
+Ketting Parkvej 10 8462 Harlev J,8462,2175000.0,03-05-2010,Alm.,18432,5,Rækkehus,118,2009,
+Rødlundvej 308 8462 Harlev J,8462,2340000.0,19-04-2010,Alm.,17205,5,Villa,136,1998,-6 %
+Gammel Mosevej 1 8462 Harlev J,8462,40000.0,17-04-2010,Alm.,190,7,Stuehus,210,1928,
+Rødlundvej 5 8462 Harlev J,8462,2475000.0,09-04-2010,Alm.,11785,6,Stuehus,210,2012,-17 %
+Højlundvej 33 8462 Harlev J,8462,2750000.0,11-03-2010,Alm.,16666,7,Villa,165,1913,-8 %
+Tåstrupvej 112 8462 Harlev J,8462,600000.0,08-03-2010,Alm.,0,5,Villa,171,1917,-33 %
+Storringvej 18 8462 Harlev J,8462,1400000.0,05-03-2010,Alm.,13861,3,Villa,101,1850,-11 %
+Rødlundvej 294 8462 Harlev J,8462,1284546.0,04-03-2010,Alm.,9445,5,Villa,136,1997,
+Grønhøjvej 23 8462 Harlev J,8462,1650000.0,16-02-2010,Alm.,11379,5,Villa,145,1967,-11 %
+Araliavej 21 8462 Harlev J,8462,1600000.0,16-01-2010,Alm.,11678,4,Villa,137,1979,-9 %
+Gammel Stillingvej 455 8462 Harlev J,8462,1825000.0,17-12-2009,Alm.,11477,6,Villa,159,1906,-9 %
+Lærkesvinget 9 8462 Harlev J,8462,310000.0,16-12-2009,Alm.,0,7,Villa,176,1975,
+"Edelhoffvej 2A, ST. TH 8462 Harlev J",8462,1175000.0,04-12-2009,Alm.,13505,4,Lejlighed,87,1972,
+Sydbakken 28 8462 Harlev J,8462,1000000.0,27-11-2009,Andet,3937,9,Villa,254,1972,
+Skibbyvej 69 8462 Harlev J,8462,2980000.0,12-11-2009,Fam.,12064,4,Stuehus,247,1995,
+Havremarksvej 28 8462 Harlev J,8462,1325000.0,04-11-2009,Alm.,13947,4,Villa,95,1970,0 %
+Grønhøjvej 60A 8462 Harlev J,8462,1100000.0,29-10-2009,Alm.,11224,4,Rækkehus,98,1981,
+Guldregnvej 5 8462 Harlev J,8462,2400000.0,20-10-2009,Alm.,15894,5,Villa,151,1973,-6 %
+Tandrupvej 1A 8462 Harlev J,8462,1016000.0,19-10-2009,Andet,4703,6,Villa,216,2010,
+Ketting Parkvej 48 8462 Harlev J,8462,2050000.0,07-10-2009,Alm.,17372,5,Rækkehus,118,2009,-5 %
+Grønhøjvej 65 8462 Harlev J,8462,1450000.0,02-10-2009,Alm.,10661,5,Villa,136,1968,-14 %
+Ketting Parkvej 26 8462 Harlev J,8462,2150000.0,30-09-2009,Alm.,18220,5,Lejlighed,118,2009,-2 %
+Araliavej 9 8462 Harlev J,8462,1190000.0,29-09-2009,Auktion,9153,4,Villa,130,1979,
+Tåstrupvej 93 8462 Harlev J,8462,1050000.0,06-09-2009,Alm.,10396,3,Villa,101,1902,-19 %
+Storringvej 1A 8462 Harlev J,8462,250000.0,08-08-2009,Fam.,1562,4,Villa,160,2008,
+Ketting Parkvej 62 8462 Harlev J,8462,853000.0,30-07-2009,Alm.,5169,5,Villa,165,2011,
+Nytoften 2 8462 Harlev J,8462,2250000.0,28-07-2009,Alm.,12640,7,Villa,178,1969,-4 %
+Harlev Møllevej 8 8462 Harlev J,8462,2825000.0,28-07-2009,Alm.,16815,5,Stuehus,168,1897,-6 %
+Tåstrupvej 85 8462 Harlev J,8462,3375000.0,30-06-2009,Fam.,15271,7,Stuehus,221,1910,
+Grønhøjvej 40 8462 Harlev J,8462,1900000.0,23-06-2009,Alm.,13475,5,Villa,141,1968,-5 %
+Spiræavej 1 8462 Harlev J,8462,847500.0,22-06-2009,Alm.,7062,4,Villa,120,1977,
+Højlundvej 19 8462 Harlev J,8462,2250000.0,16-06-2009,Alm.,12362,4,Villa,182,1971,-8 %
+Florasvej 6 8462 Harlev J,8462,2100000.0,14-06-2009,Alm.,11797,5,Villa,178,1968,-8 %
+Sydbakken 2 8462 Harlev J,8462,1930000.0,11-06-2009,Alm.,13040,6,Villa,148,1970,-3 %
+Bygmarksvej 19 8462 Harlev J,8462,1850000.0,27-05-2009,Alm.,14230,4,Villa,130,1969,-7 %
+Brombærvej 15 8462 Harlev J,8462,1300000.0,05-05-2009,Alm.,9701,5,Villa,134,1949,-13 %
+Nytoften 20 8462 Harlev J,8462,1800000.0,29-04-2009,Alm.,17142,4,Villa,105,2004,-10 %
+Stillingvej 509 8462 Harlev J,8462,2700000.0,22-04-2009,Alm.,17197,6,Villa,157,1904,-10 %
+Birkesvinget 2 8462 Harlev J,8462,1635000.0,07-04-2009,Alm.,0,5,Villa,140,1961,-9 %
+Gammel Stillingvej 450A 8462 Harlev J,8462,1250000.0,06-04-2009,Alm.,12376,6,Villa,101,1908,-16 %
+Guldregnvej 13 8462 Harlev J,8462,1800000.0,26-03-2009,Alm.,12000,5,Villa,150,1974,-10 %
+Bygmarksvej 11 8462 Harlev J,8462,1498000.0,23-03-2009,Alm.,8511,9,Villa,176,1969,-6 %
+Hvedemarksvej 2 8462 Harlev J,8462,1350000.0,13-03-2009,Alm.,0,4,Villa,144,1969,-8 %
+Vårgyvelvej 1 8462 Harlev J,8462,2025000.0,02-03-2009,Alm.,16200,4,Villa,125,1969,-8 %
+Labing Landevej 9 8462 Harlev J,8462,2500000.0,16-02-2009,Alm.,12195,4,Stuehus,205,1932,
+Labingvej 8 8462 Harlev J,8462,7740000.0,16-02-2009,Fam.,34864,10,Stuehus,222,1892,
+Storringvej 11 8462 Harlev J,8462,975000.0,10-02-2009,Alm.,8944,4,Villa,109,1960,
+Vestervej 4 8462 Harlev J,8462,1000000.0,08-02-2009,Alm.,11111,2,Villa,90,1955,-16 %
+Sydbakken 33 8462 Harlev J,8462,1430000.0,30-01-2009,Fam.,11532,4,Villa,124,1971,
+Tarskovvej 1 8462 Harlev J,8462,3140550.0,15-12-2008,Alm.,8534,12,Stuehus,368,1777,
+Kettinggårdsvej 6 8462 Harlev J,8462,889500.0,10-12-2008,Fam.,5082,5,Villa,175,2008,
+Hørslevvej 135 8462 Harlev J,8462,6897330.0,11-11-2008,Alm.,40572,6,Stuehus,170,1893,
+Sydbakken 14 8462 Harlev J,8462,2900000.0,29-10-2008,Alm.,19594,6,Villa,148,1973,-3 %
+Ketting Parkvej 82 8462 Harlev J,8462,2900000.0,01-10-2008,Alm.,18238,5,Villa,159,2008,
+Stallinggårdvej 1 8462 Harlev J,8462,2375000.0,07-09-2008,Alm.,14053,6,Villa,169,1936,-5 %
+Engsvinget 10 8462 Harlev J,8462,1990000.0,03-09-2008,Alm.,14014,5,Villa,142,1970,0 %
+Højbyvej 3 8462 Harlev J,8462,4250000.0,27-08-2008,Alm.,17418,6,Stuehus,244,1917,-9 %
+Hørslevvej 149 8462 Harlev J,8462,1110000.0,11-08-2008,Auktion,8161,5,Villa,136,2009,
+Tarskovvænget 6 8462 Harlev J,8462,2125000.0,14-07-2008,Alm.,10572,4,Villa,201,1991,-6 %
+Rødlundvej 298 8462 Harlev J,8462,3400000.0,03-07-2008,Alm.,18681,5,Villa,182,1997,
+Framlev Korsvej 10 8462 Harlev J,8462,12750000.0,30-06-2008,Andet,85000,15,Servicevirksomhed,150,1957,
+Framlev Korsvej 12 8462 Harlev J,8462,7040091.0,30-06-2008,Andet,52933,5,Villa,133,1950,
+Snåstrupvej 3 8462 Harlev J,8462,9804575.0,30-06-2008,Andet,45391,7,Stuehus,216,1907,
+Birkesvinget 9 8462 Harlev J,8462,1450000.0,25-06-2008,Alm.,11693,5,Villa,124,1971,-3 %
+Ketting Parkvej 23 8462 Harlev J,8462,892000.0,03-06-2008,Alm.,4091,6,Villa,218,2010,
+Tiliavej 1 8462 Harlev J,8462,2425000.0,01-06-2008,Alm.,14969,7,Villa,162,1968,-7 %
+Højlundvej 36 8462 Harlev J,8462,1500000.0,27-05-2008,Alm.,14851,4,Villa,101,1969,-6 %
+Ketting Parkvej 65 8462 Harlev J,8462,951200.0,30-04-2008,Alm.,5530,5,Villa,172,2009,
+Ketting Parkvej 69 8462 Harlev J,8462,740000.0,25-04-2008,Alm.,5211,6,Villa,142,2009,
+Ketting Parkvej 51 8462 Harlev J,8462,976005.0,23-04-2008,Alm.,6550,5,Villa,149,2009,
+Ketting Parkvej 49 8462 Harlev J,8462,850555.0,23-04-2008,Alm.,5154,5,Villa,165,2009,
+Araliavej 37 8462 Harlev J,8462,1900000.0,21-04-2008,Alm.,16666,4,Villa,114,1979,-5 %
+Ketting Parkvej 47 8462 Harlev J,8462,788755.0,21-04-2008,Alm.,3755,7,Villa,210,2009,
+Ketting Parkvej 20 8462 Harlev J,8462,2145000.0,17-04-2008,Alm.,20625,4,Rækkehus,104,2008,
+Havremarksvej 5 8462 Harlev J,8462,1100000.0,14-04-2008,Alm.,5945,8,Villa,185,1973,
+Rødlundvænget 15 8462 Harlev J,8462,2950000.0,31-03-2008,Alm.,20205,5,Villa,146,2000,-8 %
+Vestervej 28 8462 Harlev J,8462,1550000.0,13-03-2008,Alm.,10915,5,Villa,142,1957,-16 %
+Ketting Parkvej 32 8462 Harlev J,8462,2445000.0,01-03-2008,Alm.,20720,5,Rækkehus,118,2008,
+Sydbakken 67 8462 Harlev J,8462,2385000.0,27-02-2008,Alm.,17536,4,Villa,136,1971,0 %
+Vestervej 34 8462 Harlev J,8462,1700000.0,15-02-2008,Alm.,8673,6,Villa,196,1961,-15 %
+Guldregnvej 16 8462 Harlev J,8462,1925000.0,01-02-2008,Alm.,0,7,Villa,200,1974,-1 %
+Ketting Parkvej 59 8462 Harlev J,8462,1156005.0,04-01-2008,Alm.,7135,5,Villa,162,2010,
+Edelhoffvej 2B 8462 Harlev J,8462,1500000.0,03-01-2008,Alm.,12711,4,Rækkehus,118,1971,
+Brydehøjvej 50 8462 Harlev J,8462,799000.0,31-12-2007,Fam.,8877,4,Villa,90,1910,
+Ketting Parkvej 63 8462 Harlev J,8462,939863.0,20-12-2007,Alm.,5661,6,Villa,166,2009,
+Ketting Parkvej 56 8462 Harlev J,8462,2095000.0,19-12-2007,Alm.,20144,4,Rækkehus,104,2007,
+Ketting Parkvej 50 8462 Harlev J,8462,2095000.0,19-12-2007,Alm.,20144,3,Rækkehus,104,2007,
+Ketting Parkvej 29 8462 Harlev J,8462,851000.0,19-12-2007,Alm.,4919,5,Villa,173,2009,
+Ketting Parkvej 31 8462 Harlev J,8462,919000.0,18-12-2007,Alm.,5502,5,Villa,167,2008,
+Ketting Parkvej 33 8462 Harlev J,8462,917180.0,18-12-2007,Alm.,4984,5,Villa,184,2010,
+Ketting Parkvej 35 8462 Harlev J,8462,807221.0,17-12-2007,Alm.,4982,5,Villa,162,2009,
+Ketting Parkvej 25 8462 Harlev J,8462,1111111.0,17-12-2007,Alm.,5341,6,Villa,208,2009,
+Ketting Parkvej 61 8462 Harlev J,8462,1134000.0,17-12-2007,Alm.,6631,4,Villa,171,2010,
+Storringvej 13 8462 Harlev J,8462,1150000.0,14-12-2007,Alm.,7187,6,Villa,160,1850,
+Ketting Parkvej 37 8462 Harlev J,8462,995213.0,13-12-2007,Alm.,5591,5,Villa,178,2009,
+Ketting Parkvej 27 8462 Harlev J,8462,860000.0,12-12-2007,Alm.,5058,5,Villa,170,2008,
+Rødlundvej 529 8462 Harlev J,8462,3500000.0,11-12-2007,Alm.,20114,5,Villa,174,2008,
+Ketting Parkvej 57 8462 Harlev J,8462,1035555.0,10-12-2007,Alm.,5508,6,Villa,188,2009,
+Kettingvej 29 8462 Harlev J,8462,1275000.0,30-11-2007,Alm.,0,6,Villa,212,1928,-15 %
+Engsvinget 28 8462 Harlev J,8462,2100000.0,20-11-2007,Alm.,16030,4,Villa,131,1970,-7 %
+Framlevvej 35 8462 Harlev J,8462,1775000.0,13-11-2007,Alm.,17067,5,Villa,104,1951,-6 %
+Sydbakken 123 8462 Harlev J,8462,2000000.0,08-11-2007,Alm.,11834,4,Villa,169,1968,-9 %
+Acervej 4 8462 Harlev J,8462,1730000.0,04-10-2007,Alm.,14065,4,Villa,123,1965,-9 %
+Ketting Parkvej 74 8462 Harlev J,8462,3287575.0,11-09-2007,Alm.,20807,4,Villa,158,2008,3 %
+Grønhøjvej 30 8462 Harlev J,8462,2100000.0,11-09-2007,Alm.,16406,4,Villa,128,1967,-3 %
+Framlev Korsvej 11 8462 Harlev J,8462,850000.0,03-09-2007,Fam.,7456,4,Villa,114,1923,
+Guldregnvej 29 8462 Harlev J,8462,2250000.0,30-08-2007,Alm.,18000,4,Villa,125,1977,-6 %
+Ketting Parkvej 2 8462 Harlev J,8462,1730000.0,17-08-2007,Alm.,15727,4,Villa,110,1961,
+Rugmarksvej 5 8462 Harlev J,8462,2075000.0,15-08-2007,Alm.,18863,4,Villa,110,1965,-1 %
+Florasvej 29 8462 Harlev J,8462,1600000.0,11-08-2007,Alm.,0,8,Villa,183,1976,
+Vestervej 30 8462 Harlev J,8462,1575000.0,03-07-2007,Alm.,15750,4,Villa,100,1959,-2 %
+Grønhøjvej 64 8462 Harlev J,8462,2750000.0,31-05-2007,Alm.,13480,7,Villa,204,1974,
+Framlevvej 9 8462 Harlev J,8462,2345000.0,27-05-2007,Alm.,22990,4,Villa,102,1964,
+Storringvej 3 8462 Harlev J,8462,1200000.0,24-05-2007,Alm.,11538,5,Villa,104,1877,-20 %
+Rødlundvej 495 8462 Harlev J,8462,3125000.0,13-05-2007,Alm.,19290,5,Villa,162,2004,
+Rødlundvej 517 8462 Harlev J,8462,3550000.0,08-05-2007,Alm.,18586,7,Villa,191,2004,
+Guldregnvej 15 8462 Harlev J,8462,1670000.0,26-04-2007,Alm.,10308,4,Villa,162,1975,
+Florasvej 17 8462 Harlev J,8462,2000000.0,25-04-2007,Alm.,17699,4,Villa,113,1966,
+Ketting Parkvej 70 8462 Harlev J,8462,2995000.0,22-04-2007,Alm.,19198,5,Villa,156,2008,
+Engsvinget 34 8462 Harlev J,8462,3000000.0,14-04-2007,Alm.,19354,5,Villa,155,1968,
+Tåstrupvej 121 8462 Harlev J,8462,2300000.0,29-03-2007,Alm.,0,6,Villa,222,1882,
+Ketting Parkvej 66 8462 Harlev J,8462,956000.0,21-03-2007,Alm.,6289,5,Villa,152,2008,
+Sydbakken 26 8462 Harlev J,8462,2400000.0,19-03-2007,Alm.,15686,5,Villa,153,1972,
+Ketting Parkvej 72 8462 Harlev J,8462,1010551.0,18-03-2007,Alm.,7017,5,Villa,144,2008,
+Ketting Parkvej 60 8462 Harlev J,8462,1061223.0,18-03-2007,Alm.,5077,4,Villa,209,2008,
+Acervej 21 8462 Harlev J,8462,2005000.0,13-03-2007,Alm.,18564,4,Villa,108,1965,-4 %
+Kettinggårdsvej 2 8462 Harlev J,8462,1152432.0,12-03-2007,Alm.,5971,5,Villa,193,2009,
+Ketting Parkvej 64 8462 Harlev J,8462,1070123.0,09-03-2007,Alm.,7698,4,Villa,139,2007,
+Sydbakken 41 8462 Harlev J,8462,2945000.0,06-03-2007,Alm.,13206,9,Villa,223,1971,
+Nyvangsvej 4 8462 Harlev J,8462,2035000.0,05-03-2007,Alm.,18500,4,Villa,110,1961,
+Tåstrupvej 98 8462 Harlev J,8462,2750000.0,28-02-2007,Alm.,16666,5,Villa,165,1930,-4 %
+Kettinggårdsvej 4 8462 Harlev J,8462,1052800.0,15-02-2007,Alm.,7018,5,Villa,150,2008,
+Ketting Parkvej 78 8462 Harlev J,8462,1037000.0,15-02-2007,Alm.,6361,5,Villa,163,2008,
+Ketting Parkvej 80 8462 Harlev J,8462,795000.0,15-02-2007,Alm.,5129,5,Villa,155,2008,
+Lilleringvej 41 8462 Harlev J,8462,5331800.0,08-02-2007,Fam.,20909,8,Stuehus,255,1907,
+Acervej 17 8462 Harlev J,8462,2175000.0,17-01-2007,Alm.,15760,5,Villa,138,1964,
+Spiræavej 7 8462 Harlev J,8462,1860000.0,16-01-2007,Alm.,16460,4,Villa,113,1975,
+Rødlundvej 505 8462 Harlev J,8462,2695000.0,15-01-2007,Alm.,21388,4,Villa,126,2001,
+Labing Møllevej 3 8462 Harlev J,8462,1690000.0,02-01-2007,Alm.,18172,4,Villa,93,1956,
+Guldregnvej 21 8462 Harlev J,8462,375000.0,29-12-2006,Alm.,2218,5,Villa,169,1975,
+Gammel Stillingvej 436 8462 Harlev J,8462,1220000.0,21-12-2006,Alm.,16944,3,Villa,72,1914,
+Rødlundvej 509 8462 Harlev J,8462,2945000.0,17-12-2006,Alm.,20034,4,Villa,147,2001,
+Edelhoffvej 8A 8462 Harlev J,8462,1500000.0,12-12-2006,Fam.,14150,4,Stuehus,106,1938,
+Nyvangsvej 14 8462 Harlev J,8462,1915000.0,11-12-2006,Alm.,17568,4,Villa,109,1967,
+Gammel Stillingvej 463 8462 Harlev J,8462,2000000.0,04-12-2006,Alm.,14285,5,Villa,140,1920,
+Harlevholmvej 26 8462 Harlev J,8462,4190000.0,29-11-2006,Alm.,14753,8,Stuehus,284,1908,
+Gammel Mosevej 11 8462 Harlev J,8462,2450000.0,15-10-2006,Alm.,11448,6,Villa,214,1960,
+Acervej 11 8462 Harlev J,8462,1795000.0,03-10-2006,Alm.,16026,4,Villa,112,1965,
+Nytoften 4 8462 Harlev J,8462,1062500.0,25-09-2006,Andet,6400,6,Villa,166,1981,
+Havremarksvej 3 8462 Harlev J,8462,2030000.0,03-09-2006,Alm.,20099,4,Villa,101,1968,
+Acervej 20 8462 Harlev J,8462,2070000.0,30-08-2006,Alm.,15681,4,Villa,132,1964,
+Vestervej 24 8462 Harlev J,8462,2000000.0,25-08-2006,Fam.,17699,3,Villa,113,1957,
+Vestervej 10 8462 Harlev J,8462,1925000.0,20-08-2006,Alm.,18333,4,Villa,105,1959,
+Lilleringvej 12A 8462 Harlev J,8462,2400000.0,17-08-2006,Alm.,17647,6,Villa,136,1980,
+Tåstrupvej 123 8462 Harlev J,8462,5200000.0,08-08-2006,Fam.,19771,8,Stuehus,263,1850,
+Damkærvej 13 8462 Harlev J,8462,663000.0,05-07-2006,Alm.,0,5,Villa,179,1952,
+Engsvinget 13 8462 Harlev J,8462,1700000.0,29-06-2006,Alm.,16666,3,Villa,102,1969,
+Toftlundvej 6 8462 Harlev J,8462,1965000.0,30-05-2006,Alm.,0,4,Villa,184,1969,
+Hørslevvej 137 8462 Harlev J,8462,4900000.0,29-05-2006,Alm.,18846,5,Stuehus,260,1897,
+Grønhøjvej 31 8462 Harlev J,8462,1798000.0,10-05-2006,Alm.,18161,4,Villa,99,1968,
+Harlev Kirkevej 7 8462 Harlev J,8462,1990000.0,09-05-2006,Alm.,9386,8,Villa,212,1868,
+Florasvej 23 8462 Harlev J,8462,2350000.0,08-05-2006,Alm.,17153,4,Villa,137,1976,
+Højlundvej 22 8462 Harlev J,8462,2100000.0,12-04-2006,Alm.,15909,6,Villa,132,1969,
+Højlundvej 8 8462 Harlev J,8462,2200000.0,07-04-2006,Alm.,14965,6,Villa,147,1969,
+Birkesvinget 12 8462 Harlev J,8462,1458500.0,03-04-2006,Alm.,13890,4,Villa,105,1961,
+Parcelvej 8 8462 Harlev J,8462,1630000.0,24-03-2006,Alm.,0,5,Villa,115,1960,
+Frøkjærvej 19 8462 Harlev J,8462,1300000.0,20-03-2006,Alm.,7647,5,Villa,170,2007,
+Araliavej 13 8462 Harlev J,8462,400000.0,10-02-2006,Alm.,2325,6,Villa,172,1980,
+Nytoften 19 8462 Harlev J,8462,1800000.0,09-02-2006,Alm.,18556,3,Villa,97,1997,
+Birkesvinget 8 8462 Harlev J,8462,2295000.0,08-02-2006,Alm.,16510,4,Villa,139,1962,
+Storringvej 19 8462 Harlev J,8462,1475000.0,07-02-2006,Alm.,0,8,Stuehus,307,1890,
+Damkærvej 14 8462 Harlev J,8462,297397.0,05-02-2006,Alm.,2417,3,Villa,123,1958,
+Sydbakken 51 8462 Harlev J,8462,2450000.0,30-01-2006,Alm.,17753,6,Villa,138,1971,
+Acervej 9 8462 Harlev J,8462,2350000.0,30-01-2006,Alm.,18650,4,Villa,126,1969,
+Bygmarksvej 28 8462 Harlev J,8462,2400000.0,25-01-2006,Alm.,13043,5,Villa,184,1969,
+Guldregnvej 33 8462 Harlev J,8462,350000.0,23-01-2006,Alm.,3043,4,Villa,115,1976,
+Engsvinget 44 8462 Harlev J,8462,2300000.0,21-12-2005,Alm.,15540,6,Villa,148,1971,
+Sydbakken 63 8462 Harlev J,8462,1248187.0,14-12-2005,Alm.,8790,5,Villa,142,1969,
+Acervej 18 8462 Harlev J,8462,2100000.0,13-12-2005,Alm.,11052,6,Villa,190,1964,
+Nytoften 12 8462 Harlev J,8462,1748000.0,21-11-2005,Alm.,15890,3,Rækkehus,110,1984,
+Edelhoffvej 2 8462 Harlev J,8462,1600000.0,19-10-2005,Alm.,21333,3,Stuehus,75,1887,
+Tåstrupvej 122 8462 Harlev J,8462,1995000.0,10-10-2005,Alm.,0,7,Villa,222,1995,
+Storringvej 17 8462 Harlev J,8462,1500000.0,23-09-2005,Alm.,7936,5,Stuehus,189,2008,
+Acervej 5 8462 Harlev J,8462,2125000.0,23-09-2005,Alm.,11548,6,Villa,184,1967,
+Tåstrupvej 117 8462 Harlev J,8462,1589000.0,09-09-2005,Alm.,14061,5,Villa,113,1887,
+Labingvej 3 8462 Harlev J,8462,739500.0,05-09-2005,Fam.,7042,4,Villa,105,1900,
+Framlev Korsvej 55 8462 Harlev J,8462,400000.0,05-09-2005,Alm.,5333,3,Villa,75,1938,
+Lilleringvej 11 8462 Harlev J,8462,1675000.0,12-08-2005,Alm.,10339,5,Villa,162,1964,
+Araliavej 23 8462 Harlev J,8462,1500000.0,11-08-2005,Alm.,15000,4,Villa,100,1980,
+Araliavej 49 8462 Harlev J,8462,565023.0,19-06-2005,Andet,4346,4,Villa,130,1979,
+Hørslevvej 141 8462 Harlev J,8462,1025000.0,13-06-2005,Alm.,8333,6,Villa,123,1825,
+Hørslevvej 163 8462 Harlev J,8462,1590000.0,13-06-2005,Fam.,10600,5,Stuehus,150,1914,
+Tåstrupvej 119 8462 Harlev J,8462,825000.0,10-06-2005,Alm.,5851,5,Villa,141,2007,
+Gammel Silkeborgvej 7 8462 Harlev J,8462,1300000.0,09-06-2005,Alm.,10000,5,Villa,130,2008,
+Skibbyvej 55 8462 Harlev J,8462,825000.0,09-06-2005,Alm.,4661,4,Villa,177,2016,
+Florasvej 21 8462 Harlev J,8462,1041968.0,25-05-2005,Alm.,5370,4,Villa,194,1971,
+Brombærvej 2A 8462 Harlev J,8462,1475000.0,22-05-2005,Alm.,12606,4,Villa,117,1985,
+Edelhoffvej 13 8462 Harlev J,8462,1500000.0,18-05-2005,Alm.,5016,7,Villa,299,2007,
+Framlev Korsvej 9 8462 Harlev J,8462,1998000.0,02-05-2005,Alm.,15488,3,Villa,129,1930,
+Bøgebakken 10 8462 Harlev J,8462,3500000.0,19-04-2005,Alm.,38888,6,Stuehus,90,1875,
+Lærkesvinget 20 8462 Harlev J,8462,1830000.0,22-03-2005,Alm.,9481,6,Villa,193,1962,
+Grønhøjvej 58 8462 Harlev J,8462,950000.0,16-03-2005,Alm.,9595,3,Villa,99,1975,
+Vestervej 21A 8462 Harlev J,8462,1750000.0,15-03-2005,Alm.,10057,7,Villa,174,1910,
+Araliavej 51 8462 Harlev J,8462,361500.0,07-03-2005,Alm.,2780,4,Villa,130,1979,
+Espevej 3 8462 Harlev J,8462,1244000.0,04-03-2005,Alm.,9718,5,Villa,128,1962,
+Framlev Korsvej 19 8462 Harlev J,8462,1100000.0,01-03-2005,Alm.,6470,6,Villa,170,1929,
+Vestervej 22 8462 Harlev J,8462,1035000.0,16-02-2005,Alm.,0,5,Villa,164,1959,
+Grøntoften 4 8462 Harlev J,8462,1695000.0,11-02-2005,Alm.,10593,5,Villa,160,1969,
+Brombærvej 5 8462 Harlev J,8462,1625000.0,02-02-2005,Alm.,7775,7,Villa,209,1955,
+Frøkjærvænget 10 8462 Harlev J,8462,1195000.0,28-01-2005,Alm.,8535,2,Villa,140,1964,
+Tåstrupvej 118 8462 Harlev J,8462,700000.0,30-12-2004,Alm.,8235,5,Villa,85,1955,
+Framlevvej 12 8462 Harlev J,8462,175000.0,17-12-2004,Alm.,583,6,Stuehus,300,1855,
+Frøkjærvej 17 8462 Harlev J,8462,5375924.0,17-11-2004,Alm.,24436,7,Stuehus,220,1903,
+Vårgyvelvej 7 8462 Harlev J,8462,1651907.0,15-11-2004,Alm.,8137,6,Villa,203,1968,
+Gammel Mosevej 17 8462 Harlev J,8462,1525000.0,20-10-2004,Alm.,0,5,Stuehus,233,1900,
+Rødlundvænget 1 8462 Harlev J,8462,1750000.0,23-09-2004,Alm.,7608,6,Villa,230,1880,
+Labing Landevej 4 8462 Harlev J,8462,1830000.0,17-09-2004,Alm.,9150,5,Villa,200,1904,
+Grønhøjvej 44 8462 Harlev J,8462,1598000.0,06-09-2004,Alm.,11414,5,Villa,140,1972,
+Tandrupvej 1 8462 Harlev J,8462,868000.0,23-08-2004,Alm.,6834,6,Villa,127,1930,
+Araliavej 69 8462 Harlev J,8462,1625000.0,22-07-2004,Alm.,11524,5,Villa,141,1985,
+Florasvej 20 8462 Harlev J,8462,1600000.0,20-07-2004,Alm.,8791,6,Villa,182,1973,
+Araliavej 71 8462 Harlev J,8462,349200.0,07-07-2004,Alm.,3063,4,Villa,114,1985,
+"Gammel Stillingvej 444, 1 8462 Harlev J",8462,900000.0,30-06-2004,Alm.,12162,3,Lejlighed,74,1915,
+Bygmarksvej 16 8462 Harlev J,8462,1900000.0,29-06-2004,Alm.,10052,8,Villa,189,1968,
+Grønhøjvej 70 8462 Harlev J,8462,1575000.0,14-06-2004,Alm.,9603,5,Villa,164,1968,
+Spiræavej 37 8462 Harlev J,8462,1425000.0,10-05-2004,Alm.,9437,6,Villa,151,1977,
+Rødlundvej 511 8462 Harlev J,8462,450000.0,05-05-2004,Alm.,2571,5,Villa,175,2008,
+Framlevvej 25 8462 Harlev J,8462,1250000.0,30-04-2004,Alm.,9765,5,Villa,128,1960,
+Florasvej 7 8462 Harlev J,8462,1625000.0,02-04-2004,Alm.,9908,5,Villa,164,1967,
+Spiræavej 17 8462 Harlev J,8462,1235000.0,31-03-2004,Alm.,0,4,Villa,153,1974,
+Spiræavej 6 8462 Harlev J,8462,1750000.0,29-03-2004,Alm.,10542,5,Villa,166,1983,
+Havremarksvej 16 8462 Harlev J,8462,1250000.0,29-03-2004,Alm.,9615,3,Villa,130,1969,
+Nyvangsvej 12B 8462 Harlev J,8462,1398000.0,22-03-2004,Alm.,12594,4,Villa,111,1989,
+Grøntoften 2 8462 Harlev J,8462,1725000.0,19-03-2004,Alm.,8891,7,Villa,194,1970,
+Stillingvej 505 8462 Harlev J,8462,1100000.0,16-03-2004,Alm.,6832,4,Stuehus,161,1909,
+Ulmusvej 2 8462 Harlev J,8462,1242500.0,02-03-2004,Alm.,8174,6,Villa,152,1964,
+Bygmarksvej 15 8462 Harlev J,8462,1430000.0,16-02-2004,Alm.,7988,5,Villa,179,1971,
+Acervej 3 8462 Harlev J,8462,1195000.0,11-02-2004,Alm.,10863,4,Villa,110,1965,
+Grønhøjvej 46 8462 Harlev J,8462,1699000.0,27-01-2004,Alm.,7386,6,Villa,230,1969,
+Storringvej 15A 8462 Harlev J,8462,2400000.0,23-01-2004,Alm.,12000,5,Stuehus,200,2004,
+Rødlundvej 507 8462 Harlev J,8462,1865000.0,18-01-2004,Alm.,13321,6,Villa,140,2001,
+Tåstrup Byvej 14 8462 Harlev J,8462,7450000.0,16-01-2004,Alm.,34651,7,Stuehus,215,1964,
+Labingvej 7 8462 Harlev J,8462,1500000.0,07-01-2004,Alm.,0,9,Stuehus,250,1876,
+Tåstrupvej 81 8462 Harlev J,8462,1550000.0,05-01-2004,Fam.,8072,7,Stuehus,192,1877,
+Engsvinget 9 8462 Harlev J,8462,1127500.0,29-12-2003,Alm.,9555,3,Villa,118,1969,
+Gammel Stillingvej 410 8462 Harlev J,8462,599105.0,06-12-2003,Andet,5931,3,Villa,101,1929,
+Birkesvinget 4 8462 Harlev J,8462,850000.0,13-11-2003,Alm.,0,5,Villa,138,1961,
+Nyvangsvej 19 8462 Harlev J,8462,1691000.0,28-10-2003,Alm.,16104,9,Villa,105,1969,
+Engsvinget 20 8462 Harlev J,8462,1200000.0,23-10-2003,Alm.,9090,4,Villa,132,1969,
+Gammel Stillingvej 466A 8462 Harlev J,8462,1260000.0,21-10-2003,Alm.,10677,4,Villa,118,1978,
+Araliavej 29 8462 Harlev J,8462,362400.0,16-10-2003,Alm.,2787,4,Villa,130,1979,
+Parcelvej 1 8462 Harlev J,8462,1060000.0,10-10-2003,Alm.,9814,3,Villa,108,1968,
+Vingetoften 18 8462 Harlev J,8462,1225000.0,08-10-2003,Alm.,0,6,Villa,175,1966,
+Havremarksvej 14 8462 Harlev J,8462,810000.0,17-09-2003,Alm.,8709,4,Villa,93,1968,
+Engsvinget 40 8462 Harlev J,8462,1250000.0,15-09-2003,Alm.,9615,4,Villa,130,1969,
+Labing Landevej 6 8462 Harlev J,8462,1698000.0,04-09-2003,Alm.,10167,3,Villa,167,1890,
+Gammel Mosevej 13 8462 Harlev J,8462,398000.0,03-09-2003,Alm.,0,6,Villa,223,2006,
+Grønhøjvej 52 8462 Harlev J,8462,1230000.0,24-08-2003,Alm.,10695,4,Villa,115,1978,
+Engsvinget 3 8462 Harlev J,8462,1325000.0,11-08-2003,Alm.,7443,7,Villa,178,1969,
+Framlevvej 16 8462 Harlev J,8462,825000.0,03-08-2003,Alm.,8250,4,Villa,100,1825,
+Araliavej 11 8462 Harlev J,8462,1350000.0,24-07-2003,Alm.,10074,5,Villa,134,1980,
+Havremarksvej 10 8462 Harlev J,8462,75000.0,22-07-2003,Andet,493,5,Villa,152,1969,
+Lilleringvej 3 8462 Harlev J,8462,1050000.0,18-07-2003,Alm.,7500,4,Villa,140,1959,
+Tåstrup Byvej 13 8462 Harlev J,8462,2100000.0,11-07-2003,Alm.,12068,6,Villa,174,1998,
+Lærkesvinget 13 8462 Harlev J,8462,1250000.0,09-07-2003,Alm.,8445,5,Villa,148,1974,
+Rødlundvej 533 8462 Harlev J,8462,373825.0,02-07-2003,Alm.,2492,5,Villa,150,2003,
+Rugmarksvej 10 8462 Harlev J,8462,1700000.0,10-06-2003,Alm.,6614,7,Villa,257,1974,
+Tandrupvej 7 8462 Harlev J,8462,700000.0,03-06-2003,Fam.,6140,4,Villa,114,1966,
+Spiræavej 4 8462 Harlev J,8462,1404930.0,20-05-2003,Alm.,10976,4,Villa,128,1974,
+Gammel Silkeborgvej 9 8462 Harlev J,8462,985000.0,01-04-2003,Alm.,8565,4,Villa,115,1907,
+Havremarksvej 24 8462 Harlev J,8462,825000.0,26-03-2003,Alm.,0,7,Villa,208,1970,
+Vestervej 20 8462 Harlev J,8462,1215000.0,05-03-2003,Alm.,10848,4,Villa,112,1958,
+Højbyvej 15 8462 Harlev J,8462,670000.0,28-02-2003,Alm.,0,4,Villa,116,1870,
+Skibbyvej 60 8462 Harlev J,8462,2125000.0,31-01-2003,Alm.,10365,6,Stuehus,205,1830,
+Vestervej 17 8462 Harlev J,8462,1080000.0,29-01-2003,Alm.,8571,4,Villa,126,1959,
+Rugmarksvej 8 8462 Harlev J,8462,1300000.0,17-12-2002,Alm.,8843,4,Villa,147,1972,
+Labingvej 9 8462 Harlev J,8462,544080.0,09-12-2002,Andet,4423,4,Villa,123,1903,
+Kettingvej 38 8462 Harlev J,8462,700000.0,04-12-2002,Andet,3225,8,Villa,217,1902,
+Tåstrup Byvej 7 8462 Harlev J,8462,1539000.0,02-12-2002,Alm.,8744,6,Villa,176,1997,
+Tåstrup Byvej 9 8462 Harlev J,8462,1240000.0,26-11-2002,Alm.,6560,7,Villa,189,1964,
+Nytoften 24 8462 Harlev J,8462,350000.0,18-11-2002,Alm.,2229,5,Villa,157,2003,
+Grønhøjvej 8 8462 Harlev J,8462,1087000.0,14-11-2002,Alm.,7295,5,Villa,149,1964,
+Guldregnvej 31 8462 Harlev J,8462,1079000.0,12-11-2002,Alm.,7875,4,Villa,137,1978,
+Engsvinget 39 8462 Harlev J,8462,1305537.0,10-10-2002,Alm.,0,5,Villa,157,1970,
+Silkeborgvej 937 8462 Harlev J,8462,500000.0,30-09-2002,Alm.,3125,5,Stuehus,160,1910,
+Birkesvinget 3 8462 Harlev J,8462,998000.0,23-09-2002,Alm.,7503,5,Villa,133,1962,
+Rødlundvej 527 8462 Harlev J,8462,337250.0,20-09-2002,Alm.,2698,4,Villa,125,2003,
+Rugmarksvej 1 8462 Harlev J,8462,1160000.0,08-09-2002,Alm.,8055,4,Villa,144,1966,
+Gammel Stillingvej 407 8462 Harlev J,8462,1825000.0,27-08-2002,Alm.,7156,9,Villa,255,1936,
+Havremarksvej 20 8462 Harlev J,8462,1285000.0,26-07-2002,Alm.,8290,8,Villa,155,1971,
+Rødlundvej 525 8462 Harlev J,8462,337725.0,22-07-2002,Alm.,2520,5,Villa,134,2003,
+Højlundvej 17 8462 Harlev J,8462,1665000.0,22-07-2002,Alm.,10741,6,Villa,155,1970,
+Rødlundvej 531 8462 Harlev J,8462,396466.0,15-07-2002,Alm.,2591,5,Villa,153,2003,
+Bygmarksvej 7 8462 Harlev J,8462,1025000.0,03-07-2002,Alm.,7649,5,Villa,134,1969,
+Rødlundvej 513 8462 Harlev J,8462,349600.0,17-06-2002,Alm.,0,5,Villa,167,2003,
+Damkærvej 9 8462 Harlev J,8462,29000.0,02-06-2002,Alm.,166,8,Villa,174,1956,
+Nytoften 18 8462 Harlev J,8462,370000.0,27-05-2002,Alm.,0,6,Villa,174,2002,
+Lærkesvinget 16 8462 Harlev J,8462,1330000.0,30-04-2002,Alm.,8471,4,Villa,157,1962,
+Grøntoften 9 8462 Harlev J,8462,1250000.0,14-04-2002,Alm.,6613,5,Villa,189,1969,
+Guldregnvej 43 8462 Harlev J,8462,1325000.0,08-04-2002,Alm.,8386,6,Villa,158,1982,
+Grønhøjvej 27 8462 Harlev J,8462,1325000.0,24-03-2002,Alm.,7361,7,Villa,180,1965,
+Grønhøjvej 33 8462 Harlev J,8462,1030000.0,22-03-2002,Alm.,7686,4,Villa,134,1969,
+Rødlundvænget 17 8462 Harlev J,8462,326250.0,16-03-2002,Alm.,1930,5,Villa,169,2002,
+Hørslevvej 112 8462 Harlev J,8462,500000.0,08-03-2002,Alm.,3333,6,Villa,150,1932,
+Sydbakken 47 8462 Harlev J,8462,1195000.0,28-02-2002,Alm.,9192,4,Villa,130,1971,
+Labing Landevej 2 8462 Harlev J,8462,331096.0,25-02-2002,Andet,2854,5,Stuehus,116,1912,
+Spiræavej 2 8462 Harlev J,8462,1375000.0,22-02-2002,Alm.,7681,7,Villa,179,1977,
+Rødlundvej 515 8462 Harlev J,8462,349600.0,22-01-2002,Alm.,2226,5,Villa,157,2002,
+Rødlundvej 499 8462 Harlev J,8462,373825.0,22-01-2002,Alm.,2508,5,Villa,149,2002,
+Sydbakken 1 8462 Harlev J,8462,1175000.0,14-01-2002,Alm.,9179,4,Villa,128,1970,
+Lilleringvej 17 8462 Harlev J,8462,1050000.0,11-01-2002,Alm.,6774,5,Villa,155,1971,
+Grønhøjvej 48 8462 Harlev J,8462,1364102.0,02-01-2002,Alm.,6200,8,Villa,220,1972,
+Gammel Stillingvej 456 8462 Harlev J,8462,1220000.0,29-12-2001,Alm.,6703,6,Villa,182,1932,
+Tåstrupvej 102 8462 Harlev J,8462,2765000.0,14-12-2001,Alm.,13042,5,Villa,212,1904,
+Damkærvej 1 8462 Harlev J,8462,799216.0,12-12-2001,Alm.,4646,6,Villa,172,2013,
+Engsvinget 52 8462 Harlev J,8462,1350000.0,10-12-2001,Alm.,9642,4,Villa,140,1970,
+Bygmarksvej 6 8462 Harlev J,8462,1320000.0,09-12-2001,Alm.,8148,5,Villa,162,1969,
+Grønhøjvej 25 8462 Harlev J,8462,1199793.0,26-11-2001,Alm.,0,5,Villa,186,1963,
+Harlev Kirkevej 11 8462 Harlev J,8462,100000.0,22-10-2001,Alm.,352,10,Stuehus,284,1732,
+Lærkesvinget 5 8462 Harlev J,8462,380000.0,22-10-2001,Alm.,2773,6,Villa,137,1975,
+Storringvej 5 8462 Harlev J,8462,1127809.0,02-09-2001,Andet,6336,7,Stuehus,178,1914,
+Damkærvej 5 8462 Harlev J,8462,1080000.0,14-08-2001,Alm.,11368,3,Villa,95,1951,
+Storringvej 14 8462 Harlev J,8462,1235142.0,23-07-2001,Alm.,0,7,Rækkehus,158,1855,
+Sydbakken 29 8462 Harlev J,8462,1149420.0,29-06-2001,Alm.,9195,4,Villa,125,1970,
+Gammel Mosevej 15 8462 Harlev J,8462,725000.0,21-06-2001,Alm.,4833,5,Villa,150,1927,
+Grøntoften 3 8462 Harlev J,8462,1250000.0,19-06-2001,Alm.,9920,5,Villa,126,1969,
+Rødlundvej 519 8462 Harlev J,8462,347225.0,18-06-2001,Alm.,2183,6,Villa,159,2002,
+Rødlundvej 523 8462 Harlev J,8462,355775.0,10-06-2001,Alm.,2325,5,Villa,153,2001,
+Rødlundvej 503 8462 Harlev J,8462,335350.0,31-05-2001,Alm.,2177,6,Villa,154,2002,
+Hørslevvej 159 8462 Harlev J,8462,1699641.0,21-04-2001,Alm.,0,10,Stuehus,308,1957,
+Florasvej 9 8462 Harlev J,8462,1310000.0,27-03-2001,Alm.,7705,6,Villa,170,1967,
+Damkærvej 2 8462 Harlev J,8462,1135216.0,16-03-2001,Alm.,8226,3,Villa,138,1951,
+Rødlundvej 501 8462 Harlev J,8462,394062.0,16-01-2001,Alm.,2277,6,Villa,173,2002,
+Labingvej 2 8462 Harlev J,8462,480000.0,21-12-2000,Alm.,9230,2,Villa,52,1900,
+Grønhøjvej 77 8462 Harlev J,8462,1170000.0,21-12-2000,Alm.,8417,5,Villa,139,1970,
+Engsvinget 12 8462 Harlev J,8462,1280000.0,08-11-2000,Alm.,8648,5,Villa,148,1969,
+Harlev Kirkevej 5 8462 Harlev J,8462,750000.0,30-10-2000,Alm.,9375,3,Villa,80,1850,
+Bygmarksvej 18 8462 Harlev J,8462,547012.0,25-10-2000,Andet,3462,6,Villa,158,1969,
+Rødlundvænget 33 8462 Harlev J,8462,475000.0,04-10-2000,Alm.,2827,6,Villa,168,2001,
+Rødlundvej 276 8462 Harlev J,8462,345000.0,03-10-2000,Alm.,0,5,Villa,158,2001,
+Labing Landevej 7 8462 Harlev J,8462,798241.0,02-10-2000,Alm.,0,5,Villa,151,1940,
+Højlundvej 20 8462 Harlev J,8462,1161805.0,01-10-2000,Alm.,7306,5,Villa,159,1969,
+Højlundvej 18 8462 Harlev J,8462,1269511.0,15-09-2000,Alm.,5472,7,Villa,232,1969,
+Tåstrupvej 125 8462 Harlev J,8462,1200000.0,14-09-2000,Fam.,7547,5,Villa,159,1977,
+Vestervej 11 8462 Harlev J,8462,940000.0,25-08-2000,Alm.,6619,4,Villa,142,1943,
+Bøgebakken 7 8462 Harlev J,8462,1200000.0,22-08-2000,Alm.,7453,3,Stuehus,161,1905,
+Grønhøjvej 61 8462 Harlev J,8462,1249554.0,21-08-2000,Alm.,9538,4,Villa,131,1968,
+Florasvej 18 8462 Harlev J,8462,1475000.0,03-08-2000,Alm.,8240,5,Villa,179,1976,
+Lilleringvej 21 8462 Harlev J,8462,1304308.0,22-07-2000,Alm.,6521,7,Villa,200,1917,
+Nyvangsvej 24 8462 Harlev J,8462,1029044.0,16-07-2000,Alm.,9354,4,Villa,110,1965,
+Tåstrupvej 82 8462 Harlev J,8462,924970.0,07-06-2000,Alm.,4999,6,Stuehus,185,2013,
+Espevej 6 8462 Harlev J,8462,1464867.0,31-05-2000,Alm.,10771,5,Villa,136,1953,
+Framlevvej 13 8462 Harlev J,8462,58000.0,24-05-2000,Alm.,0,7,Stuehus,241,1856,
+Brydehøjvej 31 8462 Harlev J,8462,1466000.0,24-05-2000,Alm.,5574,6,Villa,263,1870,
+Rødlundvænget 7 8462 Harlev J,8462,350550.0,18-05-2000,Alm.,2291,5,Villa,153,2001,
+Araliavej 2 8462 Harlev J,8462,1481070.0,07-05-2000,Alm.,10285,5,Villa,144,1997,
+Framlev Korsvej 27 8462 Harlev J,8462,923826.0,05-05-2000,Alm.,7450,4,Villa,124,1956,
+Nytoften 21 8462 Harlev J,8462,1231868.0,21-04-2000,Alm.,0,5,Villa,152,1998,
+Acervej 25 8462 Harlev J,8462,1138206.0,11-04-2000,Alm.,8431,4,Villa,135,1964,
+Gammel Stillingvej 434A 8462 Harlev J,8462,1200000.0,08-04-2000,Alm.,10434,4,Villa,115,1970,
+Nyvangsvej 18 8462 Harlev J,8462,517500.0,04-04-2000,Fam.,2681,6,Villa,193,1969,
+Bygmarksvej 21 8462 Harlev J,8462,1068000.0,16-03-2000,Alm.,8279,5,Villa,129,1969,
+Bøgebakken 9 8462 Harlev J,8462,2273000.0,16-03-2000,Alm.,9315,9,Stuehus,244,1910,
+Vestervej 2 8462 Harlev J,8462,936000.0,13-02-2000,Alm.,6281,4,Villa,149,1959,
+Rødlundvænget 9 8462 Harlev J,8462,397050.0,19-01-2000,Alm.,3545,4,Villa,112,2000,
+Vårgyvelvej 5 8462 Harlev J,8462,1327270.0,10-01-2000,Alm.,7456,6,Villa,178,1970,
+Framlevvej 29 8462 Harlev J,8462,1040000.0,19-12-1999,Alm.,6540,5,Villa,159,1950,
+Højlundvej 11 8462 Harlev J,8462,1264809.0,01-12-1999,Alm.,7712,7,Villa,164,1969,
+Harlevholmvej 24 8462 Harlev J,8462,1020000.0,29-11-1999,Alm.,2914,8,Stuehus,350,1843,
+Engsvinget 31 8462 Harlev J,8462,1114960.0,09-11-1999,Alm.,7533,5,Villa,148,1969,
+Edelhoffvej 3 8462 Harlev J,8462,942375.0,22-10-1999,Alm.,6731,5,Villa,140,1959,
+Harlev Kirkevej 4 8462 Harlev J,8462,875000.0,04-10-1999,Alm.,9408,3,Villa,93,1864,
+Rødlundvænget 13 8462 Harlev J,8462,390600.0,04-10-1999,Alm.,2981,5,Villa,131,2000,
+Toftlundvej 4 8462 Harlev J,8462,1064844.0,02-10-1999,Alm.,7946,3,Villa,134,1968,
+Grønhøjvej 10B 8462 Harlev J,8462,1770000.0,30-09-1999,Alm.,11879,4,Villa,149,1998,
+Brombærvej 17 8462 Harlev J,8462,705000.0,26-09-1999,Alm.,8011,5,Industri o.l.,88,1959,
+Havremarksvej 6 8462 Harlev J,8462,920000.0,04-09-1999,Alm.,9583,4,Villa,96,1970,
+Bygmarksvej 27 8462 Harlev J,8462,940000.0,15-06-1999,Alm.,0,4,Villa,124,1969,
+Rødlundvænget 19 8462 Harlev J,8462,333642.0,10-06-1999,Alm.,2125,5,Villa,157,2000,
+Sydbakken 39 8462 Harlev J,8462,1241645.0,02-06-1999,Alm.,7177,6,Villa,173,1970,
+Hørslevvej 123 8462 Harlev J,8462,659628.0,28-05-1999,Alm.,0,7,Villa,194,1721,
+Lilleringvej 15 8462 Harlev J,8462,1239520.0,27-05-1999,Alm.,6963,6,Villa,178,1980,
+Framlevvej 23 8462 Harlev J,8462,824730.0,24-05-1999,Alm.,7930,3,Villa,104,1961,
+Sydbakken 13 8462 Harlev J,8462,1473993.0,20-05-1999,Alm.,6887,6,Villa,214,1970,
+Frøkjærvænget 6 8462 Harlev J,8462,898000.0,19-05-1999,Alm.,0,7,Villa,155,1966,
+Hørslevvej 130 8462 Harlev J,8462,700000.0,08-05-1999,Alm.,3255,6,Stuehus,215,2000,
+Engsvinget 50 8462 Harlev J,8462,1074329.0,30-03-1999,Alm.,6356,9,Villa,169,1969,
+Rødlundvænget 29 8462 Harlev J,8462,315450.0,11-02-1999,Alm.,2354,4,Villa,134,1999,
+Højbyvej 19 8462 Harlev J,8462,182039.0,26-01-1999,Andet,6067,2,Rækkehus,30,1802,
+Ulmusvej 7 8462 Harlev J,8462,1200000.0,11-01-1999,Alm.,0,8,Villa,214,1965,
+Gammel Stillingvej 467 8462 Harlev J,8462,1475000.0,11-01-1999,Alm.,7845,7,Villa,188,1925,
+Labing Møllevej 8 8462 Harlev J,8462,450500.0,22-12-1998,Fam.,4290,3,Villa,105,1963,
+Rødlundvænget 11 8462 Harlev J,8462,376650.0,21-12-1998,Alm.,2189,6,Villa,172,1999,
+Rødlundvænget 27 8462 Harlev J,8462,315450.0,18-12-1998,Alm.,1971,5,Villa,160,2010,
+Blomsterhaven 2 8462 Harlev J,8462,1020000.0,14-12-1998,Fam.,6754,5,Villa,151,1985,
+Tåstrupvej 101 8462 Harlev J,8462,517200.0,03-12-1998,Alm.,7836,3,Villa,66,1877,
+Rødlundvænget 31 8462 Harlev J,8462,315450.0,01-12-1998,Alm.,0,6,Villa,200,1999,
+Rødlundvænget 25 8462 Harlev J,8462,375750.0,30-11-1998,Alm.,2573,5,Villa,146,1999,
+Araliavej 65 8462 Harlev J,8462,238875.0,25-11-1998,Alm.,2253,4,Villa,106,1985,
+Bøgebakken 14 8462 Harlev J,8462,1873000.0,23-11-1998,Alm.,14984,5,Stuehus,125,1965,
+Engsvinget 21 8462 Harlev J,8462,1183320.0,28-10-1998,Alm.,5744,5,Villa,206,1970,
+Rødlundvej 282 8462 Harlev J,8462,243125.0,27-10-1998,Alm.,1800,5,Villa,135,1999,
+Hørslevvej 157 8462 Harlev J,8462,909000.0,26-10-1998,Alm.,0,6,Villa,134,1959,
+Araliavej 10 8462 Harlev J,8462,994010.0,16-09-1998,Alm.,12743,4,Villa,78,1996,
+Højbyvej 7 8462 Harlev J,8462,1099489.0,12-09-1998,Alm.,8393,6,Villa,131,1987,
+Lilleringvej 4 8462 Harlev J,8462,763000.0,28-08-1998,Alm.,5086,6,Villa,150,1956,
+Højbyvej 4 8462 Harlev J,8462,1650000.0,21-08-1998,Alm.,7932,6,Stuehus,208,1910,
+Harlev Kirkevej 2 8462 Harlev J,8462,38780.0,10-08-1998,Alm.,260,6,Stuehus,149,1865,
+Damkærvej 3 8462 Harlev J,8462,675000.0,05-08-1998,Alm.,7258,2,Villa,93,1948,
+Højbyvej 6 8462 Harlev J,8462,879280.0,14-07-1998,Alm.,0,7,Villa,233,1912,
+Araliavej 47 8462 Harlev J,8462,251250.0,14-07-1998,Alm.,2026,4,Villa,124,1980,
+Højlundvej 15 8462 Harlev J,8462,1045000.0,29-05-1998,Alm.,6220,7,Villa,168,1970,
+Storringvej 20 8462 Harlev J,8462,1277120.0,27-05-1998,Alm.,9390,5,Villa,136,1860,
+Lærkesvinget 7 8462 Harlev J,8462,1014000.0,15-05-1998,Alm.,0,4,Villa,149,1974,
+Labingvej 14 8462 Harlev J,8462,2400000.0,14-05-1998,Alm.,0,6,Stuehus,248,1902,
+Harlev Møllevej 2 8462 Harlev J,8462,639000.0,14-05-1998,Alm.,8298,3,Villa,77,1932,
+Skibbyvej 64 8462 Harlev J,8462,2700000.0,29-04-1998,Fam.,14594,6,Stuehus,185,1847,
+Acervej 22 8462 Harlev J,8462,879330.0,15-04-1998,Alm.,5673,5,Villa,155,1964,
+Rødlundvej 278 8462 Harlev J,8462,246250.0,15-04-1998,Alm.,1641,5,Villa,150,1998,
+Sydbakken 21 8462 Harlev J,8462,925000.0,06-04-1998,Alm.,7708,3,Villa,120,1970,
+Frøkjærvænget 3 8462 Harlev J,8462,300000.0,03-04-1998,Alm.,0,7,Villa,198,1998,
+Højbyvej 11A 8462 Harlev J,8462,295000.0,13-03-1998,Alm.,1657,5,Villa,178,1999,
+Tarskovvej 5 8462 Harlev J,8462,1045000.0,04-03-1998,Alm.,0,7,Villa,198,1897,
+Grønhøjvej 68 8462 Harlev J,8462,1186260.0,21-02-1998,Alm.,8069,6,Villa,147,1970,
+Birkesvinget 6 8462 Harlev J,8462,949140.0,02-02-1998,Alm.,5683,6,Villa,167,1967,
+Araliavej 4 8462 Harlev J,8462,258625.0,29-12-1997,Alm.,1887,5,Villa,137,1998,
+Gammel Stillingvej 465 8462 Harlev J,8462,342000.0,17-12-1997,Alm.,4384,3,Villa,78,1959,
+Labing Landevej 7A 8462 Harlev J,8462,170000.0,08-12-1997,Alm.,1125,4,Villa,151,1999,
+Højbyvej 17 8462 Harlev J,8462,490000.0,04-12-1997,Alm.,7313,4,Rækkehus,67,1802,
+Araliavej 8 8462 Harlev J,8462,239250.0,27-10-1997,Alm.,1733,4,Villa,138,1998,
+Toftlundvej 2 8462 Harlev J,8462,1145817.0,24-10-1997,Alm.,6902,5,Villa,166,1968,
+Lærkesvinget 14 8462 Harlev J,8462,876410.0,12-10-1997,Alm.,0,5,Villa,130,1962,
+Rødlundvej 312 8462 Harlev J,8462,252625.0,24-09-1997,Alm.,1742,5,Villa,145,1998,
+Bygmarksvej 25 8462 Harlev J,8462,1131003.0,20-09-1997,Alm.,7800,7,Villa,145,1969,
+Edelhoffvej 9 8462 Harlev J,8462,993000.0,11-09-1997,Fam.,11033,2,Stuehus,90,1910,
+Rødlundvej 288 8462 Harlev J,8462,252500.0,04-09-1997,Alm.,1494,5,Villa,169,1998,
+Bygmarksvej 3 8462 Harlev J,8462,1216000.0,28-08-1997,Alm.,7369,7,Villa,165,1969,
+Højbyvej 11 8462 Harlev J,8462,1188000.0,26-08-1997,Alm.,0,5,Villa,200,1925,
+Grønhøjvej 56B 8462 Harlev J,8462,999000.0,12-08-1997,Alm.,7400,5,Villa,135,1978,
+Holmbækvej 3 8462 Harlev J,8462,997139.0,08-08-1997,Alm.,8983,4,Villa,111,1847,
+Lilleringvej 23 8462 Harlev J,8462,846000.0,05-08-1997,Alm.,6220,4,Villa,136,1972,
+Hørslevvej 127 8462 Harlev J,8462,1875000.0,15-07-1997,Fam.,10416,7,Stuehus,180,1914,
+Sydbakken 85 8462 Harlev J,8462,1350000.0,28-06-1997,Alm.,7105,4,Villa,190,1970,
+Parcelvej 2 8462 Harlev J,8462,1321197.0,20-06-1997,Alm.,8362,6,Villa,158,1937,
+Grønhøjvej 17 8462 Harlev J,8462,1086000.0,14-06-1997,Alm.,8044,6,Villa,135,1962,
+Toftlundvej 8 8462 Harlev J,8462,773823.0,11-06-1997,Fam.,3599,8,Villa,215,1968,
+Højlundvej 12 8462 Harlev J,8462,819000.0,28-05-1997,Fam.,4627,6,Villa,177,1968,
+Engsvinget 17 8462 Harlev J,8462,1182930.0,04-05-1997,Alm.,7486,6,Villa,158,1970,
+Gammel Stillingvej 441 8462 Harlev J,8462,1305000.0,04-05-1997,Alm.,10875,4,Villa,120,1929,
+Rødlundvej 302 8462 Harlev J,8462,243625.0,23-04-1997,Alm.,1804,5,Villa,135,1997,
+Kettingvej 22 8462 Harlev J,8462,731750.0,22-04-1997,Alm.,0,7,Villa,208,1877,
+Harlev Møllevej 6 8462 Harlev J,8462,651000.0,09-04-1997,Alm.,0,8,Villa,230,1998,
+Gammel Stillingvej 448 8462 Harlev J,8462,964000.0,11-03-1997,Alm.,6885,5,Villa,140,1997,
+Rødlundvej 286 8462 Harlev J,8462,247125.0,25-02-1997,Alm.,1604,6,Villa,154,1997,
+Brydehøjvej 24 8462 Harlev J,8462,1270000.0,20-01-1997,Alm.,0,8,Stuehus,198,1873,
+Rødlundvej 306 8462 Harlev J,8462,242250.0,05-12-1996,Alm.,0,5,Villa,168,1997,
+Nytoften 17 8462 Harlev J,8462,1108000.0,29-09-1996,Alm.,8656,4,Villa,128,1996,
+Araliavej 20 8462 Harlev J,8462,238000.0,25-09-1996,Alm.,2051,4,Villa,116,1997,
+Tåstrupvej 152 8462 Harlev J,8462,1007000.0,23-09-1996,Alm.,7192,5,Villa,140,1986,
+Rødlundvej 304 8462 Harlev J,8462,244625.0,12-09-1996,Alm.,2329,4,Villa,105,1997,
+Vestervej 3 8462 Harlev J,8462,951000.0,28-08-1996,Alm.,5594,6,Villa,170,1906,
+Benneshede 1 8462 Harlev J,8462,585000.0,21-08-1996,Alm.,6882,3,Stuehus,85,1882,
+Rødlundvej 280 8462 Harlev J,8462,254250.0,07-08-1996,Alm.,1531,5,Villa,166,1997,
+Tåstrup Byvej 15 8462 Harlev J,8462,104300.0,19-06-1996,Fam.,724,5,Villa,144,1996,
+Kettinggårdsvej 1 8462 Harlev J,8462,1422000.0,07-06-1996,Alm.,0,7,Villa,231,1875,
+Snåstrupvej 7 8462 Harlev J,8462,2510000.0,30-05-1996,Alm.,12364,7,Stuehus,203,1911,
+Skibbyvej 54 8462 Harlev J,8462,1270000.0,29-05-1996,Fam.,9548,4,Stuehus,133,1955,
+Rugmarksvej 6 8462 Harlev J,8462,415310.0,11-05-1996,Alm.,2768,8,Villa,150,1968,
+Birkesvinget 5 8462 Harlev J,8462,615000.0,06-05-1996,Alm.,6406,4,Villa,96,1962,
+Gammel Stillingvej 468 8462 Harlev J,8462,705904.0,02-05-1996,Alm.,0,3,Villa,84,1952,
+Araliavej 59 8462 Harlev J,8462,239250.0,01-05-1996,Alm.,0,7,Villa,169,1986,
+Grønhøjvej 55 8462 Harlev J,8462,1041200.0,23-04-1996,Alm.,5480,5,Villa,190,1971,
+Sydbakken 111 8462 Harlev J,8462,1240000.0,18-04-1996,Alm.,5040,6,Villa,246,1967,
+Grønhøjvej 18 8462 Harlev J,8462,1295000.0,17-04-1996,Alm.,8093,6,Villa,160,1962,
+Sydbakken 22 8462 Harlev J,8462,1058000.0,17-04-1996,Alm.,4898,4,Villa,216,1974,
+Engsvinget 47 8462 Harlev J,8462,870000.0,15-04-1996,Alm.,6444,4,Villa,135,1972,
+Storringvej 24 8462 Harlev J,8462,1295000.0,11-04-1996,Fam.,13350,4,Stuehus,97,1911,
+Araliavej 1 8462 Harlev J,8462,242625.0,07-03-1996,Alm.,1866,4,Villa,130,1980,
+Højbyvej 12 8462 Harlev J,8462,500000.0,18-01-1996,Alm.,0,4,Villa,201,1910,
+Acervej 7 8462 Harlev J,8462,987000.0,16-01-1996,Alm.,4910,7,Villa,201,1968,
+Hørslevvej 132 8462 Harlev J,8462,438550.0,15-01-1996,Alm.,2610,4,Villa,168,1906,
+Florasvej 31 8462 Harlev J,8462,806850.0,30-11-1995,Alm.,4314,6,Villa,187,1970,
+Engsvinget 7 8462 Harlev J,8462,935000.0,08-11-1995,Alm.,6775,4,Villa,138,1971,
+Gammel Stillingvej 440 8462 Harlev J,8462,1030000.0,23-10-1995,Alm.,8373,4,Villa,123,1912,
+Vestervej 26 8462 Harlev J,8462,480329.0,03-10-1995,Alm.,6861,3,Villa,70,1959,
+Vestervej 38 8462 Harlev J,8462,515000.0,07-09-1995,Alm.,3301,7,Villa,156,1902,
+Næshøjvej 1 8462 Harlev J,8462,672110.0,04-08-1995,Alm.,5420,4,Villa,124,1967,
+Tandrupvej 4 8462 Harlev J,8462,1078000.0,03-07-1995,Alm.,0,8,Stuehus,398,1879,
+Hvedemarksvej 8 8462 Harlev J,8462,848000.0,03-07-1995,Alm.,5542,6,Villa,153,1969,
+Engsvinget 4 8462 Harlev J,8462,1125000.0,24-06-1995,Alm.,5681,7,Villa,198,1969,
+Gammel Silkeborgvej 11 8462 Harlev J,8462,368000.0,15-06-1995,Alm.,2628,4,Villa,140,1890,
+Grønhøjvej 10A 8462 Harlev J,8462,898000.0,01-06-1995,Alm.,5907,5,Villa,152,1965,
+Tiliavej 10 8462 Harlev J,8462,840000.0,04-05-1995,Alm.,0,4,Villa,153,1972,
+Sydbakken 37 8462 Harlev J,8462,881000.0,21-04-1995,Alm.,5575,5,Villa,158,1971,
+Harlev Kirkevej 6 8462 Harlev J,8462,1239500.0,13-04-1995,Alm.,6197,8,Villa,200,1738,
+Bøgebakken 1 8462 Harlev J,8462,630000.0,10-04-1995,Alm.,4736,4,Villa,133,1912,
+Gammel Stillingvej 459 8462 Harlev J,8462,550000.0,05-04-1995,Alm.,4782,3,Villa,115,1920,
+Tandrupvej 5 8462 Harlev J,8462,1575000.0,16-03-1995,Alm.,10500,6,Stuehus,150,1831,
+Gammel Stillingvej 435 8462 Harlev J,8462,717252.0,24-02-1995,Alm.,0,8,Villa,253,1907,
+Snåstrupvej 1 8462 Harlev J,8462,360000.0,09-02-1995,Alm.,3000,5,Villa,120,1882,
+Gammel Stillingvej 464 8462 Harlev J,8462,686000.0,17-01-1995,Alm.,3090,10,Villa,222,1930,
+Tåstrupvej 108 8462 Harlev J,8462,250000.0,08-12-1994,Alm.,0,4,Villa,186,1902,
+Hvedemarksvej 3 8462 Harlev J,8462,798000.0,11-11-1994,Alm.,6650,4,Villa,120,1969,
+Vestervej 15 8462 Harlev J,8462,677000.0,31-10-1994,Alm.,0,4,Villa,150,1942,
+Gammel Stillingvej 425B 8462 Harlev J,8462,610000.0,25-07-1994,Alm.,6224,4,Rækkehus,98,1981,
+Hvedemarksvej 1 8462 Harlev J,8462,910000.0,19-07-1994,Alm.,5582,8,Villa,163,1969,
+Havremarksvej 13 8462 Harlev J,8462,892000.0,12-07-1994,Alm.,5068,8,Villa,176,1969,
+Skibbyvej 52 8462 Harlev J,8462,660758.0,05-07-1994,Alm.,0,5,Stuehus,183,1909,
+Damkærvej 11 8462 Harlev J,8462,590000.0,22-06-1994,Alm.,0,3,Villa,122,1954,
+Tåstrup Søvej 6 8462 Harlev J,8462,186000.0,20-05-1994,Alm.,0,7,Villa,153,1870,
+Bygmarksvej 1 8462 Harlev J,8462,912000.0,18-05-1994,Alm.,5364,7,Villa,170,1968,
+Sydbakken 9 8462 Harlev J,8462,870050.0,08-04-1994,Alm.,5029,8,Villa,173,1971,
+Gammel Stillingvej 418 8462 Harlev J,8462,607715.0,18-03-1994,Alm.,0,4,Villa,126,1932,
+Grønhøjvej 13 8462 Harlev J,8462,500000.0,02-03-1994,Alm.,4504,4,Villa,111,1964,
+Sydbakken 109 8462 Harlev J,8462,725000.0,01-03-1994,Alm.,5000,5,Villa,145,1971,
+Grønhøjvej 34 8462 Harlev J,8462,643000.0,11-01-1994,Alm.,0,7,Villa,183,1966,
+Rugmarksvej 2 8462 Harlev J,8462,956000.0,20-12-1993,Alm.,7081,4,Villa,135,1967,
+Sydbakken 49 8462 Harlev J,8462,813000.0,28-11-1993,Alm.,4567,5,Villa,178,1969,
+Grønhøjvej 53 8462 Harlev J,8462,796000.0,31-10-1993,Alm.,0,7,Villa,204,1968,
+Sydbakken 87 8462 Harlev J,8462,890000.0,29-10-1993,Alm.,4120,7,Villa,216,1970,
+Gammel Stillingvej 434 8462 Harlev J,8462,411333.0,13-10-1993,Alm.,45703,6,Erhverv,9,1927,
+Hørslevvej 121 8462 Harlev J,8462,1600000.0,13-09-1993,Fam.,13675,5,Stuehus,117,1905,
+Snåstrupvej 4B 8462 Harlev J,8462,633000.0,07-09-1993,Alm.,5807,4,Villa,109,1961,
+Sydbakken 19 8462 Harlev J,8462,775000.0,05-09-1993,Alm.,4479,6,Villa,173,1970,
+Sydbakken 27 8462 Harlev J,8462,820000.0,04-09-1993,Alm.,4823,5,Villa,170,1970,
+Skibbyvej 57 8462 Harlev J,8462,439000.0,31-08-1993,Alm.,6271,2,Villa,70,1900,
+Lilleringvej 16D 8462 Harlev J,8462,725000.0,01-07-1993,Alm.,5370,4,Villa,135,1989,
+Framlev Korsvej 15 8462 Harlev J,8462,630000.0,11-06-1993,Alm.,4500,6,Villa,140,1924,
+Engsvinget 2 8462 Harlev J,8462,625000.0,24-05-1993,Alm.,4844,4,Villa,129,1969,
+Tåstrupvej 146 8462 Harlev J,8462,670000.0,14-04-1993,Alm.,4855,6,Villa,138,1907,
+Framlevvej 23A 8462 Harlev J,8462,783720.0,29-03-1993,Andet,4637,6,Villa,169,1977,
+Brydehøjvej 28 8462 Harlev J,8462,32729.0,04-11-1992,Alm.,0,7,Stuehus,228,1994,
+Framlevvej 17 8462 Harlev J,8462,610000.0,23-10-1992,Alm.,3546,11,Villa,172,1912,
+Tåstrupvej 106 8462 Harlev J,8462,645000.0,16-10-1992,Alm.,0,5,Villa,131,1910,
+Grønhøjvej 51 8462 Harlev J,8462,805000.0,29-09-1992,Alm.,0,6,Villa,201,1970,
+Bygmarksvej 4 8462 Harlev J,8462,535000.0,24-09-1992,Alm.,3039,7,Villa,176,1969,
+Engsvinget 24 8462 Harlev J,8462,323726.0,28-07-1992,Alm.,1505,7,Villa,215,1968,
+Sydbakken 7 8462 Harlev J,8462,737000.0,22-06-1992,Alm.,0,6,Villa,203,1970,
+Engsvinget 36 8462 Harlev J,8462,720000.0,17-06-1992,Alm.,0,8,Villa,186,1969,
+Nyvangsvej 9 8462 Harlev J,8462,900000.0,15-06-1992,Fam.,5660,6,Villa,159,1969,
+Lilleringvej 38 8462 Harlev J,8462,525000.0,09-06-1992,Alm.,5833,5,Stuehus,90,1910,
+Spiræavej 27 8462 Harlev J,8462,825000.0,27-04-1992,Alm.,4004,7,Villa,206,1976,
+Gammel Stillingvej 414 8462 Harlev J,8462,530000.0,23-04-1992,Alm.,0,4,Villa,107,1932,
+Araliavej 24 8462 Harlev J,8462,239816.0,09-03-1992,Alm.,1577,5,Villa,152,1992,
+Spiræavej 33 8462 Harlev J,8462,700000.0,27-02-1992,Alm.,5555,4,Villa,126,1976,
+Guldregnvej 45 8462 Harlev J,8462,950000.0,20-02-1992,Fam.,0,8,Villa,209,1978,
+Brydehøjvej 52 8462 Harlev J,8462,674574.0,13-02-1992,Alm.,0,5,Stuehus,116,1905,

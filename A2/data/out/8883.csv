@@ -1,0 +1,621 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Egholmvej 14 8883 Gjern,14,1200000.0,05-04-2017,Fam.,15584,4,Sommerhus,77,1977,
+Troldbjergvej 17F 8883 Gjern,0,1300000.0,31-03-2017,Alm.,11818,5,Sommerhus,110,2006,-3 %
+Kragholt 6 8883 Gjern,6,395000.0,29-03-2017,Alm.,5266,3,Villa,75,1952,-12 %
+Skovvejen 1 8883 Gjern,1,1075000.0,26-03-2017,Alm.,8811,3,Villa,122,1967,-14 %
+Troldbjergvej 11C 8883 Gjern,0,1200000.0,13-02-2017,Alm.,10909,5,Sommerhus,110,2007,-7 %
+Karolinelundsvej 5A 8883 Gjern,0,2950000.0,09-02-2017,Alm.,64130,1,Rækkehus,46,1971,
+Østergade 14 8883 Gjern,14,1900000.0,06-02-2017,Alm.,10052,4,Villa,189,1907,-5 %
+Østergade 20 8883 Gjern,20,2000000.0,12-01-2017,Alm.,11764,6,Villa,170,1954,-9 %
+Skovbakken 6 8883 Gjern,6,1760000.0,04-01-2017,Alm.,11069,5,Villa,159,1978,-2 %
+Ellerupvej 34 8883 Gjern,34,6587500.0,02-01-2017,Fam.,33609,7,Stuehus,196,1896,
+Frederiksberggade 12 8883 Gjern,12,1274000.0,02-01-2017,Fam.,7238,7,Villa,176,1932,8 %
+Højholt 13 8883 Gjern,13,894160.0,29-12-2016,Andet,6723,4,Villa,133,1973,
+Falkenkær 38 8883 Gjern,38,1465000.0,08-12-2016,Alm.,11445,4,Villa,128,1972,-2 %
+Troldbjergvej 11D 8883 Gjern,0,1275000.0,07-12-2016,Alm.,11590,5,Sommerhus,110,2007,-2 %
+Lille Amerika 2 8883 Gjern,2,2300000.0,21-11-2016,Fam.,8013,8,Stuehus,287,1975,
+Teglværksvej 12 8883 Gjern,12,500000.0,16-11-2016,Alm.,5000,3,Rækkehus,100,1908,-16 %
+Århusvej 38 8883 Gjern,38,540000.0,11-11-2016,Alm.,3312,4,Stuehus,163,1911,-9 %
+Mølhaugevej 11 8883 Gjern,11,13040000.0,23-09-2016,Alm.,58475,8,Stuehus,223,1870,
+Østergade 2 8883 Gjern,2,1825000.0,21-09-2016,Alm.,15598,9,Servicevirksomhed,117,1936,
+Frederiksberggade 1 8883 Gjern,1,975000.0,14-09-2016,Alm.,12662,2,Villa,77,1954,-2 %
+Højholt 33 8883 Gjern,33,1020000.0,08-09-2016,Alm.,8292,4,Villa,123,1973,-15 %
+Højholt 35 8883 Gjern,35,1325000.0,22-08-2016,Alm.,8281,5,Villa,160,1973,-17 %
+Amerikavej 13 8883 Gjern,13,2025000.0,16-08-2016,Alm.,13235,6,Villa,153,2003,-3 %
+Amerikavej 8 8883 Gjern,8,1200000.0,28-07-2016,Alm.,16666,3,Villa,72,1958,
+Falkenkær 25 8883 Gjern,25,2600000.0,23-07-2016,Alm.,16560,5,Villa,157,2001,-4 %
+Frederiksberggade 3 8883 Gjern,3,880000.0,21-07-2016,Alm.,4731,5,Villa,186,1951,-54 %
+Ejnar Nielsens Vej 1 8883 Gjern,1,775000.0,09-07-2016,Alm.,4015,9,Industri o.l.,193,1948,
+Østergade 22 8883 Gjern,22,800000.0,27-06-2016,Alm.,6060,5,Villa,132,1964,-20 %
+Troldbjergvej 2 8883 Gjern,2,300000.0,23-06-2016,Andet,2112,3,Stuehus,142,1900,
+Finmarken 1 8883 Gjern,1,1100000.0,21-06-2016,Alm.,9482,3,Villa,116,1947,
+Lille Amerika 18A. 101 8883 Gjern,101,65000000.0,09-06-2016,Andet,1477272,2,Sommerhus,44,1990,9978 %
+Hornvej 7 8883 Gjern,7,1115000.0,13-05-2016,Alm.,7964,6,Villa,140,1923,-7 %
+Troldbjergvej 11F 8883 Gjern,0,1062500.0,27-04-2016,Fam.,9659,5,Sommerhus,110,2007,
+Troldbjergvej 11A 8883 Gjern,0,1160000.0,26-04-2016,Alm.,10545,5,Sommerhus,110,2007,0 %
+Troldbjergvej 9D 8883 Gjern,0,570000.0,21-04-2016,Fam.,5181,5,Sommerhus,110,2007,
+Lille Amerika 12H. 508 8883 Gjern,508,562275.0,20-04-2016,Alm.,13076,2,Sommerhus,43,1990,
+Nørrebakken 2 8883 Gjern,2,1275000.0,14-04-2016,Auktion,5357,11,Villa,238,1973,
+Troldbjergvej 9A 8883 Gjern,0,1240000.0,15-03-2016,Alm.,11272,5,Sommerhus,110,2007,
+Tvilumvej 17 8883 Gjern,17,1500000.0,15-03-2016,Alm.,10714,5,Villa,140,1972,-3 %
+Højholt 6 8883 Gjern,6,1120000.0,19-02-2016,Fam.,8115,4,Villa,138,1974,
+Frederiksberggade 26 8883 Gjern,26,400000.0,08-12-2015,Auktion,5128,3,Villa,78,1947,-42 %
+Troldbjergvej 15C 8883 Gjern,0,1345000.0,07-12-2015,Alm.,12227,5,Sommerhus,110,2006,0 %
+Bjergvej 4 8883 Gjern,4,1157500.0,30-11-2015,Alm.,6690,6,Villa,173,1968,-11 %
+Søndergade 18 8883 Gjern,18,490643.0,13-11-2015,Andet,4460,3,Villa,110,1954,-48 %
+Møllevangsvej 2 8883 Gjern,2,432000.0,02-11-2015,Alm.,2541,5,Villa,170,2016,-20 %
+Tingbakken 104 8883 Gjern,104,384012.0,09-10-2015,Alm.,2370,5,Villa,162,2016,-15 %
+Højholt 9 8883 Gjern,9,1195000.0,16-09-2015,Alm.,16597,3,Villa,72,1963,0 %
+Højholt 1 8883 Gjern,1,1150000.0,10-09-2015,Alm.,10176,4,Villa,113,1974,-4 %
+Foldagervej 11A 8883 Gjern,0,2895000.0,04-09-2015,Alm.,11352,6,Villa,255,1900,0 %
+Tingvejen 7 8883 Gjern,7,127740.0,01-09-2015,Andet,905,4,Stuehus,141,1700,
+Østergade 15 8883 Gjern,15,331882.0,24-08-2015,Alm.,2861,4,Villa,116,1900,
+Erik Raadals Vej 7 8883 Gjern,7,960000.0,16-08-2015,Fam.,7559,5,Villa,127,1907,
+Tingbakken 41 8883 Gjern,41,3300000.0,12-08-2015,Alm.,16176,6,Villa,204,2009,-3 %
+Kukbakken 6 8883 Gjern,6,1995000.0,31-07-2015,Alm.,9684,9,Villa,206,1970,0 %
+Højholt 18 8883 Gjern,18,850000.0,21-07-2015,Alm.,6296,5,Villa,135,1973,-15 %
+Tingbakken 9 8883 Gjern,9,2245000.0,15-07-2015,Alm.,9472,6,Villa,237,2009,-2 %
+Østergade 26 8883 Gjern,26,156240.0,03-07-2015,Alm.,818,6,Villa,191,1964,
+Troldbjergvej 15A 8883 Gjern,0,1150000.0,26-06-2015,Alm.,10454,5,Sommerhus,110,2006,-15 %
+Tvilumvej 31 8883 Gjern,31,2100000.0,23-06-2015,Alm.,11931,4,Stuehus,176,1947,0 %
+Søndergade 24 8883 Gjern,24,1250000.0,13-06-2015,Andet,12376,5,Villa,101,1948,
+Herredsvejen 9 8883 Gjern,9,3000000.0,10-06-2015,Alm.,16759,5,Stuehus,179,1900,
+Borgergade 1 8883 Gjern,1,1695000.0,30-05-2015,Alm.,10335,7,Villa,164,1899,0 %
+Troldbjergvej 1H 8883 Gjern,0,1223000.0,27-05-2015,Alm.,11118,5,Sommerhus,110,2006,-5 %
+Foldagervej 4 8883 Gjern,4,700000.0,27-05-2015,Alm.,6481,3,Villa,108,1969,-12 %
+Hornvej 5 8883 Gjern,5,673677.0,22-05-2015,Andet,6355,4,Villa,106,1907,
+Troldbjergvej 15H 8883 Gjern,0,1175000.0,20-05-2015,Alm.,10681,5,Sommerhus,110,2006,-2 %
+Søndergade 28 8883 Gjern,28,2185000.0,13-05-2015,Alm.,11380,7,Villa,192,1962,
+Frederiksberggade 15 8883 Gjern,15,675000.0,13-05-2015,Alm.,6553,3,Rækkehus,103,1948,-3 %
+Troldbjergvej 15F 8883 Gjern,0,1125000.0,27-04-2015,Alm.,10227,5,Sommerhus,110,2006,-10 %
+Nårupvej 18 8883 Gjern,18,1213000.0,10-04-2015,Alm.,6971,7,Villa,174,1919,-51 %
+Hornvej 13 8883 Gjern,13,2150000.0,02-04-2015,Alm.,11082,6,Villa,194,1935,-6 %
+Amerikavej 31 8883 Gjern,31,2377000.0,02-04-2015,Alm.,15335,6,Villa,155,2004,-8 %
+Lille Amerika 4 8883 Gjern,4,675000.0,24-03-2015,Alm.,2986,5,Villa,226,2016,
+Krogsholmvej 1 8883 Gjern,1,1150000.0,12-03-2015,Alm.,9829,5,Villa,117,1988,-11 %
+Foldagervej 2 8883 Gjern,2,1585000.0,24-02-2015,Alm.,9548,5,Villa,166,1900,-4 %
+Amerikavej 20 8883 Gjern,20,2050000.0,05-02-2015,Alm.,15413,5,Anden beboelse,133,2015,-11 %
+Teglværksvej 8 8883 Gjern,8,1695000.0,15-01-2015,Alm.,12107,4,Villa,140,1970,0 %
+Falkenkær 10 8883 Gjern,10,2175000.0,05-01-2015,Alm.,10875,6,Villa,200,1991,
+Søndergade 70 8883 Gjern,70,301129.0,13-12-2014,Andet,3717,6,Villa,81,1940,
+Finmarken 8 8883 Gjern,8,905158.0,11-12-2014,Alm.,4171,6,Villa,217,1966,
+Frederiksberggade 10 8883 Gjern,10,900000.0,25-11-2014,Auktion,6569,6,Villa,137,1920,
+Troldbjergvej 3G 8883 Gjern,0,350000.0,19-11-2014,Andet,3181,5,Sommerhus,110,2006,
+Tingbakken 44 8883 Gjern,44,2000000.0,14-11-2014,Alm.,10810,6,Villa,185,2006,-9 %
+Tingbakken 42 8883 Gjern,42,2095000.0,05-11-2014,Alm.,15518,5,Villa,135,2007,-5 %
+Fussingbjerg 6 8883 Gjern,6,1185000.0,06-10-2014,Alm.,10871,3,Villa,109,1983,-5 %
+Falkenkær 32 8883 Gjern,32,1800000.0,19-09-2014,Alm.,14285,6,Villa,126,1999,
+Falkenkær 13 8883 Gjern,13,437500.0,17-09-2014,Alm.,2430,6,Villa,180,2016,-20 %
+Den Grønne Vej 6 8883 Gjern,6,600000.0,13-09-2014,Fam.,5825,3,Villa,103,1931,
+Århusvej 37 8883 Gjern,37,998000.0,22-08-2014,Alm.,7179,4,Villa,139,1913,
+"Stationsvej 6A, 1 8883 Gjern",1,1000000.0,12-08-2014,Auktion,13888,2,Lejlighed,72,1916,
+"Stationsvej 6B, ST 8883 Gjern",0,1000000.0,12-08-2014,Auktion,10989,3,Lejlighed,91,1916,
+Stationsvej 4 8883 Gjern,4,500000.0,12-08-2014,Auktion,4237,4,Villa,118,1902,
+Stationsvej 3 8883 Gjern,3,695000.0,11-08-2014,Alm.,6318,5,Rækkehus,110,1910,0 %
+Egholmvej 8 8883 Gjern,8,995000.0,07-08-2014,Alm.,10050,4,Villa,99,1964,0 %
+Hornvej 11 8883 Gjern,11,900000.0,30-07-2014,Fam.,5960,5,Villa,151,1939,
+Hornvej 18 8883 Gjern,18,85397.0,11-07-2014,Alm.,328,6,Stuehus,260,2016,
+Hammelvej 7 8883 Gjern,7,1050000.0,08-07-2014,Alm.,5801,10,Villa,181,1920,-4 %
+Højholt 31 8883 Gjern,31,3250000.0,02-07-2014,Alm.,15776,6,Villa,206,1977,-4 %
+Østergade 7A 8883 Gjern,0,1257000.0,02-07-2014,Alm.,10219,3,Villa,123,2000,-7 %
+"Stationsvej 6C, ST 8883 Gjern",0,650000.0,01-07-2014,Auktion,9701,2,Lejlighed,67,1916,
+Amerikabakken 553 8883 Gjern,553,875000.0,30-06-2014,Alm.,13888,3,Sommerhus,63,2009,0 %
+Amerikavej 23 8883 Gjern,23,1160000.0,12-06-2014,Auktion,7341,5,Villa,158,2005,
+Svostrupvej 22 8883 Gjern,22,650000.0,11-06-2014,Alm.,10156,2,Sommerhus,64,1960,-6 %
+Amerikavej 27 8883 Gjern,27,3195000.0,06-06-2014,Alm.,15509,7,Villa,206,2003,0 %
+Troldbjergvej 9B 8883 Gjern,0,1410000.0,03-06-2014,Alm.,12818,5,Sommerhus,110,2007,-3 %
+Lille Amerika 6 8883 Gjern,6,750000.0,31-05-2014,Alm.,4360,4,Villa,172,1926,
+Foldagervej 7 8883 Gjern,7,1060000.0,30-05-2014,Alm.,8412,4,Villa,126,1913,-3 %
+Glimshøjvej 2 8883 Gjern,2,1450000.0,13-05-2014,Alm.,13809,4,Villa,105,1914,-3 %
+Amerikabakken 543 8883 Gjern,543,1295000.0,20-03-2014,Alm.,14715,4,Sommerhus,88,2009,
+Vedskovvej 3 8883 Gjern,3,34000.0,17-03-2014,Alm.,138,6,Stuehus,245,1898,
+Herredsvejen 18 8883 Gjern,18,39940.0,17-03-2014,Alm.,232,8,Stuehus,172,1908,
+Svostrupvej 25 8883 Gjern,25,9200000.0,08-03-2014,Alm.,153333,3,Villa,60,1994,
+Amerikabakken 501 8883 Gjern,501,1270000.0,06-03-2014,Alm.,14431,4,Sommerhus,88,2008,-2 %
+Teglværksvej 11 8883 Gjern,11,1050000.0,17-02-2014,Alm.,13815,2,Villa,76,1997,-8 %
+Lille Amerika 20L. 216 8883 Gjern,216,1000000.0,05-02-2014,Alm.,12820,3,Sommerhus,78,1990,
+Nørregårdsvej 2 8883 Gjern,2,2250000.0,03-02-2014,Alm.,14516,5,Villa,155,1917,-2 %
+Amerikabakken 539 8883 Gjern,539,1250000.0,03-02-2014,Alm.,14204,4,Sommerhus,88,2009,
+Falkenkær 24 8883 Gjern,24,1800000.0,16-01-2014,Alm.,13740,5,Villa,131,1997,0 %
+Amerikavej 6 8883 Gjern,6,1100000.0,06-01-2014,Alm.,15277,4,Villa,72,1956,-15 %
+Tingbakken 31 8883 Gjern,31,466000.0,02-01-2014,Alm.,2365,6,Villa,197,2014,0 %
+Frederiksberggade 13 8883 Gjern,13,635000.0,30-12-2013,Alm.,6684,4,Rækkehus,95,1947,-2 %
+Nårupvej 17 8883 Gjern,17,280330.0,25-11-2013,Alm.,1328,7,Villa,211,1920,
+Hornvej 23 8883 Gjern,23,1450000.0,31-10-2013,Alm.,13425,4,Villa,108,1954,-2 %
+Lille Amerika 31 8883 Gjern,31,2800000.0,30-10-2013,Alm.,19047,5,Villa,147,1910,-18 %
+Egholmvej 5C 8883 Gjern,0,387500.0,17-09-2013,Alm.,2214,4,Villa,175,2015,-9 %
+Søndergade 44 8883 Gjern,44,1000000.0,16-07-2013,Alm.,8403,3,Villa,119,1969,-20 %
+Amerikabakken 503 8883 Gjern,503,1295000.0,12-07-2013,Alm.,14715,4,Sommerhus,88,2009,
+Troldbjergvej 1F 8883 Gjern,0,1085000.0,10-07-2013,Alm.,9863,5,Sommerhus,110,2006,-22 %
+Stationsvej 10 8883 Gjern,10,575000.0,01-07-2013,Fam.,3593,5,Villa,160,1915,
+Søndergade 34 8883 Gjern,34,890000.0,16-06-2013,Alm.,11710,2,Villa,76,1951,-11 %
+Amerikabakken 569 8883 Gjern,569,1495000.0,13-06-2013,Alm.,13715,5,Sommerhus,109,2009,
+Ejnar Nielsens Vej 11 8883 Gjern,11,1105000.0,13-06-2013,Alm.,6207,5,Villa,178,1910,-8 %
+Amerikabakken 527 8883 Gjern,527,1275000.0,08-06-2013,Alm.,14488,4,Sommerhus,88,2009,
+Lille Amerika 20S. 204 8883 Gjern,204,845000.0,24-05-2013,Alm.,13629,2,Sommerhus,62,1990,
+Amerikabakken 525 8883 Gjern,525,1295000.0,18-05-2013,Alm.,14715,4,Sommerhus,88,2009,
+Amerikabakken 541 8883 Gjern,541,1295000.0,18-05-2013,Alm.,14715,4,Sommerhus,88,2009,
+Lille Amerika 20E. 210 8883 Gjern,210,1070000.0,18-05-2013,Alm.,13375,3,Sommerhus,80,1990,
+Lille Amerika 12M. 512 8883 Gjern,512,995000.0,24-04-2013,Alm.,12756,3,Sommerhus,78,1990,
+Lille Amerika 14K. 610 8883 Gjern,610,620000.0,02-04-2013,Alm.,14418,2,Sommerhus,43,1990,
+Svostrupvej 8 8883 Gjern,8,302500.0,30-03-2013,Alm.,4321,3,Villa,70,1952,
+Mølhaugevej 3 8883 Gjern,3,1543520.0,18-02-2013,Alm.,6149,8,Stuehus,251,1872,
+Mølhaugevej 14 8883 Gjern,14,504344.0,18-02-2013,Alm.,3274,5,Villa,154,1879,
+Tingvejen 20 8883 Gjern,20,1151000.0,07-02-2013,Alm.,7937,5,Villa,145,1907,-54 %
+Tingbakken 11 8883 Gjern,11,1700000.0,22-12-2012,Alm.,13385,6,Villa,127,2006,-15 %
+Amerikabakken 545 8883 Gjern,545,1295000.0,17-12-2012,Alm.,14715,4,Sommerhus,88,2009,
+Århusvej 41 8883 Gjern,41,750000.0,11-12-2012,Auktion,3712,5,Villa,202,1920,-37 %
+Tingvejen 33 8883 Gjern,33,2950000.0,26-11-2012,Alm.,14390,8,Stuehus,205,1949,
+Herredsvejen 1 8883 Gjern,1,2225000.0,25-11-2012,Alm.,9309,5,Stuehus,239,1974,-11 %
+Østergade 9 8883 Gjern,9,335000.0,20-11-2012,Alm.,3641,3,Villa,92,1887,
+Amerikabakken 507 8883 Gjern,507,1295000.0,06-11-2012,Alm.,14715,4,Sommerhus,88,2009,
+Lille Amerika 20D. 209 8883 Gjern,209,1095000.0,02-11-2012,Alm.,13687,3,Sommerhus,80,1990,
+Østergade 21 8883 Gjern,21,250000.0,31-10-2012,Alm.,4310,2,Villa,58,1908,
+Troldbjergvej 17C 8883 Gjern,0,1335000.0,24-10-2012,Alm.,12136,5,Sommerhus,110,2006,
+Nørrebakken 5 8883 Gjern,5,650000.0,23-10-2012,Fam.,4961,4,Villa,131,1973,-58 %
+Hammelvej 15 8883 Gjern,15,1350000.0,17-08-2012,Alm.,6136,5,Villa,220,1917,-25 %
+Hammelvej 14 8883 Gjern,14,385000.0,24-07-2012,Fam.,2984,5,Villa,129,1920,
+Hestehavevej 12 8883 Gjern,12,2595000.0,17-07-2012,Alm.,20273,6,Stuehus,128,2003,
+Troldbjergvej 3L 8883 Gjern,0,1325000.0,30-06-2012,Alm.,12045,5,Sommerhus,110,2006,-5 %
+Tingbakken 24 8883 Gjern,24,2700000.0,12-06-2012,Alm.,13846,6,Villa,195,2008,-10 %
+Sportsvej 6 8883 Gjern,6,1350000.0,11-06-2012,Alm.,13917,3,Villa,97,1950,-3 %
+Lille Amerika 18I. 109 8883 Gjern,109,995000.0,30-05-2012,Alm.,12756,3,Sommerhus,78,1990,
+Amerikabakken 509 8883 Gjern,509,1295000.0,20-05-2012,Alm.,16392,4,Sommerhus,79,2009,8 %
+Lille Amerika 20T. 205 8883 Gjern,205,1045000.0,17-05-2012,Alm.,13062,3,Sommerhus,80,1990,
+Lille Amerika 16K. 710 8883 Gjern,710,1195000.0,17-05-2012,Alm.,14937,3,Sommerhus,80,1990,
+Amerikabakken 515 8883 Gjern,515,400000.0,01-05-2012,Alm.,6349,3,Sommerhus,63,2009,
+Amerikabakken 549 8883 Gjern,549,1195000.0,18-04-2012,Alm.,15126,4,Sommerhus,79,2009,0 %
+Teglværksvej 10 8883 Gjern,10,1000000.0,03-04-2012,Alm.,7874,3,Villa,127,1963,-16 %
+Erik Raadals Vej 11 8883 Gjern,11,2000000.0,28-03-2012,Fam.,12903,5,Villa,155,1908,
+Borgergade 5 8883 Gjern,5,483000.0,06-03-2012,Alm.,4431,4,Rækkehus,109,1932,-19 %
+Egholmvej 5A 8883 Gjern,0,2400000.0,18-01-2012,Alm.,7792,9,Villa,308,1974,0 %
+Nårupvej 7 8883 Gjern,7,2250000.0,05-01-2012,Alm.,9183,7,Stuehus,245,1912,
+Tingbakken 60 8883 Gjern,60,2175000.0,14-12-2011,Alm.,10820,5,Villa,201,2006,-9 %
+Ellerupvej 43 8883 Gjern,43,1100000.0,25-11-2011,Alm.,10784,3,Villa,102,1954,-19 %
+Stationsvej 11C 8883 Gjern,0,500000.0,12-10-2011,Alm.,6578,2,Rækkehus,76,1982,-23 %
+Kukbakken 3 8883 Gjern,3,1325000.0,02-09-2011,Alm.,8229,6,Villa,161,1965,-4 %
+Hornvej 24 8883 Gjern,24,2976632.0,14-08-2011,Fam.,0,9,Stuehus,297,1886,
+Tingbakken 15 8883 Gjern,15,2615000.0,10-07-2011,Alm.,11033,7,Villa,237,2006,-5 %
+Tingbakken 80 8883 Gjern,80,528000.0,21-06-2011,Alm.,3034,6,Villa,174,2012,
+Tingbakken 33 8883 Gjern,33,454000.0,23-05-2011,Alm.,3219,5,Villa,141,2011,
+Tingbakken 35 8883 Gjern,35,553000.0,15-05-2011,Alm.,2765,7,Villa,200,2012,
+Møllevangsvej 6 8883 Gjern,6,1445000.0,09-05-2011,Fam.,6538,6,Villa,221,1973,
+Falkenkær 28 8883 Gjern,28,2560000.0,07-05-2011,Alm.,16953,5,Villa,151,1998,-1 %
+Skovbakken 1 8883 Gjern,1,1150000.0,19-04-2011,Alm.,8098,5,Villa,142,1975,
+Møllevangsvej 10 8883 Gjern,10,1710000.0,18-04-2011,Alm.,7467,5,Villa,229,1973,-5 %
+Søndergade 6 8883 Gjern,6,1358000.0,06-04-2011,Alm.,6790,7,Villa,200,1910,
+Østergade 10 8883 Gjern,10,650000.0,05-03-2011,Alm.,4193,6,Villa,155,1890,-19 %
+Finmarken 2 8883 Gjern,2,900000.0,02-03-2011,Alm.,13235,4,Villa,68,1947,-10 %
+Bjergvej 6 8883 Gjern,6,898754.0,09-02-2011,Andet,5617,5,Villa,160,1967,-50 %
+Tingbakken 68 8883 Gjern,68,2050000.0,27-01-2011,Alm.,13486,6,Villa,152,2008,
+Amerikabakken 511 8883 Gjern,511,1195000.0,11-01-2011,Alm.,15126,4,Sommerhus,79,2009,
+Frederiksberggade 21 8883 Gjern,21,800000.0,10-01-2011,Alm.,5882,5,Villa,136,1890,
+Amerikabakken 537 8883 Gjern,537,1395000.0,22-12-2010,Alm.,15852,4,Sommerhus,88,2009,
+Teglværksvej 4 8883 Gjern,4,1025000.0,21-12-2010,Alm.,8913,4,Villa,115,1967,
+Søndergade 16 8883 Gjern,16,1450000.0,01-12-2010,Alm.,11788,4,Villa,123,1930,-3 %
+Amerikabakken 565 8883 Gjern,565,1595000.0,08-11-2010,Alm.,14633,5,Sommerhus,109,2009,
+Tingbakken 37 8883 Gjern,37,459821.0,01-11-2010,Alm.,3065,5,Villa,150,2011,
+Amerikabakken 563 8883 Gjern,563,1395000.0,29-10-2010,Alm.,15852,4,Sommerhus,88,2009,
+Egholmvej 5B 8883 Gjern,0,1075000.0,05-10-2010,Fam.,5168,5,Villa,208,1974,
+Amerikabakken 555 8883 Gjern,555,590200.0,24-09-2010,Alm.,9368,3,Sommerhus,63,2009,
+Egholmvej 6 8883 Gjern,6,2295000.0,23-09-2010,Alm.,17255,4,Villa,133,2000,0 %
+Amerikabakken 567 8883 Gjern,567,1575000.0,21-09-2010,Alm.,14449,5,Sommerhus,109,2009,
+Tingbakken 90 8883 Gjern,90,428921.0,01-09-2010,Alm.,2523,6,Villa,170,2011,
+Tingvejen 23 8883 Gjern,23,2400000.0,30-08-2010,Alm.,10714,8,Stuehus,224,1850,-8 %
+Ellerupvej 47 8883 Gjern,47,660000.0,12-06-2010,Alm.,12692,1,Sommerhus,52,1954,-5 %
+Amerikabakken 547 8883 Gjern,547,1395000.0,11-06-2010,Alm.,15852,4,Sommerhus,88,2009,
+Troldbjergvej 1E 8883 Gjern,0,650000.0,17-05-2010,Andet,5909,5,Sommerhus,110,2006,-69 %
+Hjarddalsvej 10B 8883 Gjern,0,960000.0,07-04-2010,Alm.,10549,3,Rækkehus,91,1981,-11 %
+Søndergade 77 8883 Gjern,77,1000000.0,30-03-2010,Alm.,6849,5,Villa,146,1966,-9 %
+Tingbakken 25 8883 Gjern,25,469121.0,24-03-2010,Alm.,2369,6,Villa,198,2011,
+Tingbakken 39 8883 Gjern,39,2100000.0,08-03-2010,Alm.,11602,6,Villa,181,2008,
+Amerikavej 4 8883 Gjern,4,1000000.0,04-03-2010,Alm.,8196,4,Villa,122,1953,-17 %
+Mølhaugevej 17 8883 Gjern,17,1400000.0,02-03-2010,Alm.,6194,4,Stuehus,226,2012,
+Hornvej 17 8883 Gjern,17,1100000.0,22-02-2010,Alm.,5641,5,Villa,195,1946,-26 %
+Egholmvej 12A 8883 Gjern,0,3400000.0,19-02-2010,Alm.,17801,8,Villa,191,1999,-8 %
+Svostrupvej 6 8883 Gjern,6,1500000.0,19-02-2010,Alm.,10948,5,Villa,137,1964,-6 %
+Troldbjergvej 13K 8883 Gjern,0,1220000.0,16-02-2010,Auktion,11090,5,Sommerhus,110,2007,
+Tingbakken 62 8883 Gjern,62,1850000.0,04-02-2010,Alm.,13214,6,Villa,140,2006,-5 %
+Søndergade 10 8883 Gjern,10,1660000.0,29-12-2009,Alm.,10184,6,Villa,163,1939,-2 %
+Troldbjergvej 3B 8883 Gjern,0,2248000.0,25-12-2009,Alm.,20436,5,Sommerhus,110,2006,
+Troldbjergvej 17D 8883 Gjern,0,1495000.0,17-12-2009,Alm.,13590,5,Sommerhus,110,2006,0 %
+Vedskovvej 7 8883 Gjern,7,3280000.0,07-10-2009,Alm.,11156,9,Stuehus,294,2017,
+Østergade 8 8883 Gjern,8,712500.0,23-09-2009,Andet,4687,5,Villa,152,1951,
+Ejnar Nielsens Vej 6 8883 Gjern,6,800000.0,14-09-2009,Andet,3809,6,Villa,210,1905,
+Tingbakken 27 8883 Gjern,27,459221.0,10-08-2009,Alm.,2685,6,Villa,171,2011,
+Søndergade 11 8883 Gjern,11,1350000.0,26-06-2009,Alm.,7541,5,Villa,179,1958,4 %
+Tingvejen 34 8883 Gjern,34,2995000.0,08-06-2009,Alm.,14399,6,Villa,208,2006,-25 %
+Toften 4 8883 Gjern,4,300000.0,26-05-2009,Alm.,1554,7,Stuehus,193,1916,
+Glimshøjvej 8 8883 Gjern,8,2360000.0,15-05-2009,Alm.,14303,6,Stuehus,165,1924,-5 %
+Mølhaugevej 10 8883 Gjern,10,178710.0,11-05-2009,Alm.,935,5,Villa,191,1900,
+Skovbrynet 3 8883 Gjern,3,1050000.0,14-04-2009,Alm.,8606,5,Villa,122,1963,-11 %
+Karolinelundsvej 8 8883 Gjern,8,1035000.0,09-03-2009,Alm.,8214,4,Villa,126,1970,-23 %
+Borgergade 6 8883 Gjern,6,800000.0,05-02-2009,Alm.,7142,5,Villa,112,1906,-27 %
+Troldbjergvej 13C 8883 Gjern,0,850000.0,03-01-2009,Fam.,7727,5,Sommerhus,110,2007,
+Tingbakken 72 8883 Gjern,72,1995000.0,17-12-2008,Alm.,14352,6,Villa,139,2008,0 %
+Amerikavej 16 8883 Gjern,16,2830000.0,15-12-2008,Alm.,14512,6,Villa,195,2007,-14 %
+Teglværksvej 2 8883 Gjern,2,1290000.0,30-11-2008,Alm.,8113,6,Villa,159,1952,-3 %
+Søndergade 66 8883 Gjern,66,9780000.0,17-11-2008,Andet,38503,9,Stuehus,254,1860,
+Højholt 16 8883 Gjern,16,1850000.0,23-10-2008,Alm.,10571,6,Villa,175,1974,-2 %
+Troldbjergvej 3H 8883 Gjern,0,1750000.0,16-10-2008,Alm.,15909,5,Sommerhus,110,2006,-12 %
+Tingbakken 32 8883 Gjern,32,2695000.0,01-09-2008,Alm.,13611,7,Villa,198,2007,-10 %
+Troldbjergvej 13F 8883 Gjern,0,986658.0,30-08-2008,Alm.,8969,5,Sommerhus,110,2007,
+Amerikabakken 559 8883 Gjern,559,1998000.0,22-08-2008,Alm.,22704,4,Sommerhus,88,2009,
+Erik Raadals Vej 5 8883 Gjern,5,227500.0,19-08-2008,Alm.,3791,3,Villa,60,1910,-42 %
+Møllevangsvej 14 8883 Gjern,14,1525000.0,18-08-2008,Alm.,9242,6,Villa,165,1976,-4 %
+Stationsvej 12 8883 Gjern,12,1250000.0,06-08-2008,Alm.,8445,6,Villa,148,1922,-7 %
+Herredsvejen 6 8883 Gjern,6,940000.0,22-07-2008,Alm.,6025,5,Villa,156,1964,-6 %
+Amerikabakken 523 8883 Gjern,523,1948000.0,11-07-2008,Alm.,22136,4,Sommerhus,88,2008,
+Borgergade 11 8883 Gjern,11,1348000.0,01-07-2008,Alm.,8425,5,Villa,160,1919,-4 %
+Kragholt 8 8883 Gjern,8,850000.0,17-06-2008,Alm.,8500,2,Villa,100,1948,0 %
+Karolinelundsvej 5B 8883 Gjern,0,4021370.0,17-06-2008,Andet,89363,1,Rækkehus,45,1971,
+Karolinelundsvej 5C 8883 Gjern,0,4021370.0,17-06-2008,Andet,89363,1,Rækkehus,45,1971,
+Karolinelundsvej 5E 8883 Gjern,0,4021370.0,17-06-2008,Andet,78850,1,Rækkehus,51,1971,
+Karolinelundsvej 5F 8883 Gjern,0,4021370.0,17-06-2008,Andet,63831,1,Rækkehus,63,1971,
+Karolinelundsvej 5G 8883 Gjern,0,4021370.0,17-06-2008,Andet,87421,1,Rækkehus,46,1971,
+Karolinelundsvej 5H 8883 Gjern,0,4021370.0,17-06-2008,Andet,87421,1,Rækkehus,46,1971,
+Karolinelundsvej 5J 8883 Gjern,0,4021370.0,17-06-2008,Andet,87421,1,Rækkehus,46,1971,
+Karolinelundsvej 5D 8883 Gjern,0,4021370.0,17-06-2008,Andet,89363,1,Rækkehus,45,1971,
+Karolinelundsvej 5I 8883 Gjern,0,4021370.0,17-06-2008,Andet,89363,1,Rækkehus,45,1971,
+Østergade 18 8883 Gjern,18,702427.0,12-06-2008,Fam.,4621,5,Villa,152,1911,
+Tingbakken 50 8883 Gjern,50,2375000.0,10-06-2008,Alm.,13121,8,Villa,181,2006,-5 %
+Amerikabakken 517 8883 Gjern,517,1998000.0,29-05-2008,Alm.,22704,4,Sommerhus,88,2009,
+Sportsvej 2 8883 Gjern,2,1760000.0,28-05-2008,Alm.,10476,5,Villa,168,1934,-10 %
+Amerikabakken 561 8883 Gjern,561,1948000.0,21-05-2008,Alm.,22136,4,Sommerhus,88,2009,
+Hornvej 9 8883 Gjern,9,1650000.0,09-05-2008,Alm.,13524,5,Villa,122,1949,-3 %
+Møllevangsvej 11A 8883 Gjern,0,263999.0,23-04-2008,Andet,3069,3,Rækkehus,86,1982,
+Svostrupvej 7 8883 Gjern,7,1080000.0,15-04-2008,Alm.,11134,3,Villa,97,1900,-5 %
+Trehøjevej 4 8883 Gjern,4,4200000.0,08-04-2008,Alm.,31343,4,Stuehus,134,1904,
+Amerikabakken 551 8883 Gjern,551,1848000.0,26-03-2008,Alm.,23392,4,Sommerhus,79,2009,
+Tingbakken 92 8883 Gjern,92,435821.0,24-03-2008,Alm.,2421,6,Villa,180,2008,
+Nårupvej 26 8883 Gjern,26,1500000.0,19-03-2008,Alm.,9493,7,Stuehus,158,1912,
+Borgergade 3 8883 Gjern,3,685000.0,06-03-2008,Alm.,9256,4,Villa,74,1952,0 %
+Amerikabakken 521 8883 Gjern,521,1948000.0,28-02-2008,Alm.,22136,4,Sommerhus,88,2009,
+Ellerupvej 41 8883 Gjern,41,2500000.0,30-01-2008,Alm.,14534,6,Villa,172,1870,-5 %
+Hornvej 21 8883 Gjern,21,663000.0,01-01-2008,Fam.,3471,5,Villa,191,1954,
+Amerikavej 15 8883 Gjern,15,2800000.0,03-12-2007,Alm.,14736,7,Villa,190,2005,-3 %
+Møllevangsvej 11B 8883 Gjern,0,1100000.0,27-11-2007,Alm.,12790,3,Rækkehus,86,1982,-8 %
+Tingbakken 66 8883 Gjern,66,2998000.0,02-11-2007,Alm.,18060,6,Villa,166,2005,
+Tingbakken 29 8883 Gjern,29,407321.0,30-10-2007,Alm.,2868,5,Villa,142,2008,
+Nårupvej 21 8883 Gjern,21,480000.0,26-10-2007,Alm.,3503,6,Stuehus,137,1911,-80 %
+Møllevangsvej 8 8883 Gjern,8,1670000.0,10-10-2007,Alm.,7292,7,Villa,229,1973,0 %
+Fussingbjerg 12 8883 Gjern,12,2095000.0,10-10-2007,Alm.,13343,5,Villa,157,2000,
+Tingbakken 70 8883 Gjern,70,401321.0,19-09-2007,Alm.,2090,7,Villa,192,2008,
+Amerikabakken 557 8883 Gjern,557,1998000.0,17-09-2007,Alm.,22704,4,Sommerhus,88,2008,
+Vedskovvej 2 8883 Gjern,2,214673.0,14-09-2007,Alm.,1068,5,Stuehus,201,2011,-85 %
+Stationsvej 11A 8883 Gjern,0,975000.0,13-09-2007,Alm.,12341,2,Rækkehus,79,1982,
+Amerikavej 3 8883 Gjern,3,962000.0,06-09-2007,Alm.,11590,4,Villa,83,1945,-4 %
+Tingbakken 21 8883 Gjern,21,421121.0,02-09-2007,Alm.,2904,3,Villa,145,2008,
+Herredsvejen 2A 8883 Gjern,0,18000000.0,01-09-2007,Alm.,96774,5,Stuehus,186,1924,
+Søndergade 48 8883 Gjern,48,1245000.0,31-08-2007,Alm.,12450,3,Villa,100,1969,-4 %
+Østergade 23 8883 Gjern,23,1298000.0,22-08-2007,Alm.,8653,6,Rækkehus,150,1909,0 %
+Tingbakken 43 8883 Gjern,43,484121.0,02-08-2007,Alm.,2602,6,Villa,186,2009,
+Højholt 26 8883 Gjern,26,1700000.0,20-06-2007,Alm.,12977,5,Villa,131,1975,
+"Stationsvej 9, 1 8883 Gjern",1,450000.0,08-06-2007,Alm.,4285,3,Lejlighed,105,1915,
+Troldbjergvej 7E 8883 Gjern,0,1998000.0,29-05-2007,Alm.,18163,5,Sommerhus,110,2007,
+Amerikabakken 513 8883 Gjern,513,1598000.0,28-05-2007,Alm.,25365,3,Sommerhus,63,2009,
+Amerikabakken 519 8883 Gjern,519,1998000.0,28-05-2007,Alm.,22704,4,Sommerhus,88,2009,
+Nørreholmvej 6 8883 Gjern,6,2675000.0,16-05-2007,Alm.,16823,4,Stuehus,159,1911,
+Tingbakken 78 8883 Gjern,78,436121.0,15-05-2007,Alm.,2520,5,Villa,173,2008,
+Tingbakken 74 8883 Gjern,74,405221.0,15-05-2007,Alm.,2775,6,Villa,146,2008,
+Tvilumvej 4 8883 Gjern,4,1525000.0,11-05-2007,Alm.,12603,6,Villa,121,1963,
+Søndergade 81 8883 Gjern,81,1630000.0,09-05-2007,Alm.,13360,5,Villa,122,1930,
+Egholmvej 7B 8883 Gjern,0,630000.0,01-05-2007,Alm.,3298,5,Villa,191,2001,
+Sportsvej 3 8883 Gjern,3,2550000.0,01-05-2007,Alm.,11184,9,Villa,228,1971,
+Troldbjergvej 7F 8883 Gjern,0,1948000.0,25-04-2007,Alm.,17709,5,Sommerhus,110,2007,
+Karolinelundsvej 14 8883 Gjern,14,1350000.0,25-04-2007,Alm.,9854,4,Villa,137,1974,
+Glimshøjvej 1 8883 Gjern,1,5720490.0,28-03-2007,Alm.,28041,7,Stuehus,204,1974,
+Møllevangsvej 18 8883 Gjern,18,750000.0,13-03-2007,Fam.,4166,5,Villa,180,1976,
+Tingbakken 94 8883 Gjern,94,425921.0,03-03-2007,Alm.,2520,7,Villa,169,2007,
+Stationsvej 11E 8883 Gjern,0,620000.0,22-02-2007,Fam.,7948,2,Rækkehus,78,1982,
+Glimshøjvej 7 8883 Gjern,7,1414000.0,21-12-2006,Fam.,9957,5,Villa,142,1903,
+Tingbakken 82 8883 Gjern,82,323700.0,19-12-2006,Alm.,2528,5,Villa,128,2007,
+Tingbakken 84 8883 Gjern,84,307500.0,15-12-2006,Alm.,2063,6,Villa,149,2007,
+Nørrebakken 8 8883 Gjern,8,3350000.0,12-12-2006,Alm.,12835,8,Villa,261,1973,
+Tingbakken 76 8883 Gjern,76,291300.0,21-11-2006,Alm.,1787,4,Villa,163,2007,
+Troldbjergvej 5F 8883 Gjern,0,1998000.0,16-11-2006,Alm.,18163,5,Sommerhus,110,2007,
+Tingbakken 23 8883 Gjern,23,348300.0,04-11-2006,Alm.,1527,6,Villa,228,2009,
+Østergade 13 8883 Gjern,13,930000.0,27-10-2006,Alm.,5000,8,Villa,186,1934,
+Tingbakken 86 8883 Gjern,86,410192.0,27-10-2006,Alm.,2040,6,Villa,201,2013,
+Egholmvej 11 8883 Gjern,11,2895000.0,25-10-2006,Alm.,17335,6,Villa,167,1999,
+Tingbakken 88 8883 Gjern,88,380110.0,24-10-2006,Alm.,2054,8,Villa,185,2008,
+Troldbjergvej 5D 8883 Gjern,0,1998000.0,20-10-2006,Alm.,18163,5,Sommerhus,110,2007,
+Tingbakken 52 8883 Gjern,52,459923.0,10-10-2006,Alm.,2200,6,Villa,209,2008,
+Troldbjergvej 13G 8883 Gjern,0,1998000.0,28-09-2006,Alm.,18163,5,Sommerhus,110,2007,
+Troldbjergvej 13H 8883 Gjern,0,1998000.0,27-09-2006,Alm.,18163,5,Sommerhus,110,2007,
+Troldbjergvej 5E 8883 Gjern,0,1998000.0,25-09-2006,Alm.,18163,5,Sommerhus,110,2007,
+Falkenkær 4 8883 Gjern,4,1735000.0,08-09-2006,Alm.,6750,7,Villa,257,1968,
+Hammelvej 2 8883 Gjern,2,1265000.0,07-09-2006,Alm.,10905,5,Villa,116,1953,
+Troldbjergvej 15G 8883 Gjern,0,1798000.0,17-08-2006,Alm.,16345,5,Sommerhus,110,2006,
+Troldbjergvej 11E 8883 Gjern,0,1998000.0,09-08-2006,Alm.,18163,5,Sommerhus,110,2007,
+Ejnar Nielsens Vej 7 8883 Gjern,7,1200000.0,03-08-2006,Alm.,9230,4,Villa,130,1840,
+Lille Amerika 1 8883 Gjern,1,1600000.0,14-06-2006,Alm.,10958,5,Villa,146,1920,
+Troldbjergvej 7D 8883 Gjern,0,1998000.0,12-06-2006,Alm.,18163,5,Sommerhus,110,2007,
+Hjarddalsvej 12A 8883 Gjern,0,900000.0,08-06-2006,Alm.,10465,3,Rækkehus,86,1981,
+Troldbjergvej 7C 8883 Gjern,0,1998000.0,30-05-2006,Alm.,18163,5,Sommerhus,110,2007,
+Troldbjergvej 5B 8883 Gjern,0,1998000.0,23-05-2006,Alm.,18163,5,Sommerhus,110,2007,
+Troldbjergvej 7B 8883 Gjern,0,1998000.0,22-05-2006,Alm.,18163,5,Sommerhus,110,2007,
+Videhøjvej 3 8883 Gjern,3,850000.0,17-05-2006,Alm.,6204,4,Villa,137,1906,
+Troldbjergvej 5A 8883 Gjern,0,1998000.0,15-05-2006,Alm.,21031,4,Sommerhus,95,2007,
+Troldbjergvej 11B 8883 Gjern,0,1998000.0,15-05-2006,Alm.,18163,5,Sommerhus,110,2007,
+Troldbjergvej 1A 8883 Gjern,0,1798000.0,05-05-2006,Alm.,16345,5,Sommerhus,110,2006,
+Hjarddalsvej 24 8883 Gjern,24,302250.0,30-04-2006,Alm.,1331,7,Villa,227,2007,
+Nårupvej 9 8883 Gjern,9,595000.0,26-04-2006,Alm.,5950,3,Villa,100,1927,
+Troldbjergvej 7A 8883 Gjern,0,1998000.0,19-04-2006,Alm.,21031,4,Sommerhus,95,2007,
+Troldbjergvej 9C 8883 Gjern,0,1998000.0,04-04-2006,Alm.,18163,5,Sommerhus,110,2007,
+Tingbakken 56 8883 Gjern,56,285000.0,23-03-2006,Alm.,1417,5,Villa,201,2006,
+Fussingbjerg 8 8883 Gjern,8,880000.0,22-03-2006,Alm.,7586,3,Villa,116,1983,
+Troldbjergvej 3A 8883 Gjern,0,1800000.0,14-03-2006,Alm.,16363,5,Sommerhus,110,2006,
+Tingbakken 54 8883 Gjern,54,266250.0,13-03-2006,Alm.,1318,7,Villa,202,2008,
+Hjarddalsvej 20 8883 Gjern,20,234000.0,15-02-2006,Alm.,1613,5,Villa,145,2007,
+Troldbjergvej 13E 8883 Gjern,0,1998000.0,13-02-2006,Alm.,18163,5,Sommerhus,110,2007,
+Egholmvej 10 8883 Gjern,10,943750.0,08-02-2006,Fam.,3899,5,Villa,242,1950,
+Troldbjergvej 9E 8883 Gjern,0,1838000.0,31-01-2006,Alm.,19347,4,Sommerhus,95,2007,
+Skovvejen 35 8883 Gjern,35,565000.0,25-01-2006,Alm.,4448,5,Villa,127,2012,
+Tingbakken 34 8883 Gjern,34,260500.0,22-01-2006,Alm.,1157,7,Villa,225,2010,
+Hjarddalsvej 22 8883 Gjern,22,226500.0,11-01-2006,Alm.,1053,8,Villa,215,2008,
+"Stationsvej 9, ST 8883 Gjern",0,437565.0,01-01-2006,Andet,3017,5,Lejlighed,145,1915,
+Domdalsvej 4 8883 Gjern,4,5517500.0,01-01-2006,Fam.,31172,7,Stuehus,177,1966,
+Tingbakken 36 8883 Gjern,36,295500.0,20-12-2005,Alm.,2787,4,Villa,106,2007,
+Tingbakken 30 8883 Gjern,30,204750.0,18-12-2005,Alm.,1013,6,Villa,202,2006,
+Troldbjergvej 3N 8883 Gjern,0,1868000.0,15-12-2005,Alm.,16981,5,Sommerhus,110,2006,
+Tingbakken 22 8883 Gjern,22,308000.0,15-12-2005,Alm.,1655,7,Villa,186,2007,
+Tingbakken 5 8883 Gjern,5,267000.0,14-12-2005,Alm.,1517,6,Villa,176,2007,
+Tingbakken 26 8883 Gjern,26,301500.0,08-12-2005,Alm.,1957,6,Villa,154,2007,
+Fussingbjerg 10 8883 Gjern,10,850000.0,08-12-2005,Alm.,10119,3,Villa,84,1983,
+Sportsvej 5 8883 Gjern,5,70000.0,05-12-2005,Alm.,411,4,Stuehus,170,1900,
+Troldbjergvej 1G 8883 Gjern,0,1898000.0,03-12-2005,Alm.,17254,5,Sommerhus,110,2006,
+Skovbakken 5 8883 Gjern,5,1525000.0,14-11-2005,Alm.,8111,7,Villa,188,1973,
+Tingbakken 48 8883 Gjern,48,206750.0,08-11-2005,Alm.,1202,7,Villa,172,2007,
+Troldbjergvej 13D 8883 Gjern,0,1998000.0,07-11-2005,Alm.,18163,5,Sommerhus,110,2007,
+Troldbjergvej 13L 8883 Gjern,0,1998000.0,05-11-2005,Alm.,18163,5,Sommerhus,110,2007,
+Tingbakken 17 8883 Gjern,17,275250.0,29-10-2005,Alm.,1071,6,Villa,257,2009,
+Troldbjergvej 13B 8883 Gjern,0,1998000.0,25-10-2005,Alm.,18163,5,Sommerhus,110,2007,
+Troldbjergvej 1B 8883 Gjern,0,1898000.0,21-10-2005,Alm.,17254,5,Sommerhus,110,2006,
+Troldbjergvej 3M 8883 Gjern,0,1898000.0,18-10-2005,Alm.,17254,5,Sommerhus,110,2006,
+Troldbjergvej 1D 8883 Gjern,0,1868000.0,18-10-2005,Alm.,16981,5,Sommerhus,110,2006,
+Troldbjergvej 9H 8883 Gjern,0,1868000.0,18-10-2005,Alm.,16981,5,Sommerhus,110,2007,
+Troldbjergvej 1C 8883 Gjern,0,1898000.0,18-10-2005,Alm.,17254,5,Sommerhus,110,2006,
+Troldbjergvej 3F 8883 Gjern,0,1898000.0,18-10-2005,Alm.,17254,5,Sommerhus,110,2006,
+Troldbjergvej 3D 8883 Gjern,0,1898000.0,18-10-2005,Alm.,17254,5,Sommerhus,110,2006,
+Troldbjergvej 3C 8883 Gjern,0,1898000.0,18-10-2005,Alm.,17254,5,Sommerhus,110,2006,
+Troldbjergvej 9F 8883 Gjern,0,1998000.0,18-10-2005,Alm.,18163,5,Sommerhus,110,2007,
+Troldbjergvej 5C 8883 Gjern,0,1948000.0,18-10-2005,Alm.,17709,5,Sommerhus,110,2007,
+Troldbjergvej 9G 8883 Gjern,0,1708000.0,18-10-2005,Alm.,17978,4,Sommerhus,95,2007,
+Troldbjergvej 3K 8883 Gjern,0,1798000.0,18-10-2005,Alm.,16345,5,Sommerhus,110,2006,
+Troldbjergvej 13A 8883 Gjern,0,1838000.0,18-10-2005,Alm.,19347,4,Sommerhus,95,2007,
+Troldbjergvej 15E 8883 Gjern,0,1848000.0,18-10-2005,Alm.,16800,5,Sommerhus,110,2006,
+Troldbjergvej 15B 8883 Gjern,0,1898000.0,18-10-2005,Alm.,17254,5,Sommerhus,110,2006,
+Troldbjergvej 15D 8883 Gjern,0,1868000.0,18-10-2005,Alm.,16981,5,Sommerhus,110,2006,
+Troldbjergvej 17A 8883 Gjern,0,1848000.0,18-10-2005,Alm.,16800,5,Sommerhus,110,2006,
+Troldbjergvej 17E 8883 Gjern,0,1868000.0,18-10-2005,Alm.,16981,5,Sommerhus,110,2006,
+Troldbjergvej 17B 8883 Gjern,0,1848000.0,18-10-2005,Alm.,16800,5,Sommerhus,110,2006,
+Hestehavevej 6 8883 Gjern,6,1035000.0,16-10-2005,Alm.,9159,4,Villa,113,1870,
+Falkenkær 2 8883 Gjern,2,998000.0,24-09-2005,Alm.,8048,4,Villa,124,1968,
+Glimshøjvej 4B 8883 Gjern,0,1200000.0,16-09-2005,Alm.,8510,4,Villa,141,1980,
+Skannerupgade 3 8883 Gjern,3,1195000.0,08-09-2005,Alm.,0,5,Villa,205,1915,
+Tingvejen 36 8883 Gjern,36,1434500.0,26-08-2005,Alm.,7712,4,Stuehus,186,1870,
+Herredsvejen 15 8883 Gjern,15,1445000.0,01-08-2005,Alm.,14744,4,Villa,98,1925,
+Tingbakken 13 8883 Gjern,13,266250.0,28-07-2005,Alm.,1566,6,Villa,170,2008,
+Hestehavevej 14 8883 Gjern,14,1635000.0,24-07-2005,Alm.,10973,7,Villa,149,1870,
+Tingbakken 7 8883 Gjern,7,278000.0,20-07-2005,Alm.,1383,5,Villa,201,2006,
+Svostrupvej 14 8883 Gjern,14,1575000.0,14-07-2005,Alm.,13938,4,Sommerhus,113,1965,
+Tingbakken 40 8883 Gjern,40,245250.0,13-07-2005,Alm.,2060,4,Villa,119,2006,
+Søndergade 12 8883 Gjern,12,1398000.0,27-06-2005,Alm.,7988,5,Villa,175,1902,
+Hornvej 1 8883 Gjern,1,1300000.0,26-06-2005,Alm.,4561,9,Villa,285,1915,
+Svostrupvej 15 8883 Gjern,15,1100000.0,22-06-2005,Alm.,5500,6,Villa,200,1946,
+Skovbrynet 4 8883 Gjern,4,1088607.0,21-06-2005,Andet,6366,5,Villa,171,1965,
+Hjarddalsvej 1 8883 Gjern,1,1050000.0,17-06-2005,Alm.,9905,4,Villa,106,1965,
+Tingbakken 64 8883 Gjern,64,223750.0,16-06-2005,Alm.,1070,7,Villa,209,2006,
+Tingbakken 38 8883 Gjern,38,309750.0,15-06-2005,Alm.,1248,8,Villa,248,2007,
+Hornvej 22 8883 Gjern,22,600000.0,01-06-2005,Alm.,4316,4,Villa,139,1907,
+Nørrebakken 9 8883 Gjern,9,1770000.0,25-04-2005,Alm.,10473,4,Villa,169,1979,
+Kragholt 2 8883 Gjern,2,900000.0,04-04-2005,Alm.,10588,3,Villa,85,1942,
+Skovvejen 15 8883 Gjern,15,1295000.0,30-03-2005,Alm.,9055,4,Villa,143,1948,
+Tingbakken 46 8883 Gjern,46,198750.0,23-03-2005,Alm.,1024,6,Villa,194,2006,
+Tingbakken 58 8883 Gjern,58,290000.0,23-03-2005,Alm.,1380,6,Villa,210,2006,
+Tvilumvej 29 8883 Gjern,29,1343589.0,01-02-2005,Fam.,11196,3,Stuehus,120,1887,
+Søndergade 75 8883 Gjern,75,645000.0,22-12-2004,Fam.,6262,3,Villa,103,1964,
+Egholmvej 7A 8883 Gjern,0,1887000.0,07-12-2004,Alm.,12496,6,Villa,151,2000,
+Århusvej 45 8883 Gjern,45,1235660.0,22-08-2004,Alm.,8237,8,Stuehus,150,1932,
+Glimshøjvej 5 8883 Gjern,5,971290.0,19-08-2004,Alm.,4223,6,Stuehus,230,2001,
+Tingvejen 1 8883 Gjern,1,840000.0,06-08-2004,Alm.,3387,7,Villa,248,1902,
+Stationsvej 13 8883 Gjern,13,1225000.0,27-05-2004,Alm.,9074,2,Villa,135,1920,
+Tingvejen 16 8883 Gjern,16,225000.0,19-05-2004,Alm.,1339,6,Stuehus,168,1870,
+Amerikavej 7 8883 Gjern,7,230800.0,06-04-2004,Alm.,1148,6,Villa,201,2004,
+Fussingbjerg 16 8883 Gjern,16,1198000.0,05-04-2004,Alm.,10417,5,Villa,115,1996,
+Amerikavej 33 8883 Gjern,33,257800.0,29-03-2004,Alm.,1674,5,Villa,154,2005,
+Bjergvej 10 8883 Gjern,10,1240000.0,05-01-2004,Alm.,6458,6,Villa,192,1969,
+Svostrupvej 24 8883 Gjern,24,416500.0,22-12-2003,Fam.,10158,2,Sommerhus,41,1979,
+Søndergade 15 8883 Gjern,15,596440.0,12-12-2003,Alm.,3388,7,Villa,176,1923,
+Amerikavej 21 8883 Gjern,21,192800.0,08-12-2003,Alm.,2008,3,Villa,96,2005,
+Hornvej 27 8883 Gjern,27,194124.0,10-11-2003,Alm.,1043,7,Villa,186,1880,
+Teglværksvej 6 8883 Gjern,6,875000.0,14-10-2003,Alm.,7056,4,Villa,124,1969,
+Amerikavej 29 8883 Gjern,29,236400.0,02-10-2003,Alm.,1335,7,Villa,177,2004,
+Højholt 20 8883 Gjern,20,1195000.0,29-08-2003,Alm.,6988,5,Villa,171,1976,
+Falkenkær 1 8883 Gjern,1,1250000.0,26-08-2003,Alm.,6127,7,Villa,204,1971,
+Finmarken 6 8883 Gjern,6,110000.0,12-07-2003,Alm.,1000,4,Villa,110,2005,
+Teglværksvej 9 8883 Gjern,9,1735000.0,05-07-2003,Alm.,8504,8,Villa,204,1990,
+Hornvej 4 8883 Gjern,4,730000.0,25-06-2003,Alm.,5983,4,Villa,122,1924,
+Højholt 41 8883 Gjern,41,1300000.0,09-05-2003,Alm.,4744,9,Villa,274,1975,
+Mølhaugevej 18 8883 Gjern,18,150000.0,17-02-2003,Alm.,1851,2,Sommerhus,81,1880,
+Svostrupvej 1 8883 Gjern,1,930000.0,15-02-2003,Alm.,6788,4,Villa,137,1964,
+Nørrebakken 6 8883 Gjern,6,850000.0,15-01-2003,Alm.,6692,4,Villa,127,1972,
+Teglværksvej 3 8883 Gjern,3,875000.0,08-01-2003,Alm.,7231,5,Villa,121,1923,
+Frederiksberggade 25 8883 Gjern,25,1250000.0,12-12-2002,Alm.,8169,5,Villa,153,1981,
+Hornvej 19 8883 Gjern,19,650000.0,06-12-2002,Alm.,9027,3,Villa,72,1955,
+Falkenkær 3 8883 Gjern,3,180900.0,27-10-2002,Alm.,869,6,Villa,208,2005,
+Sportsvej 1 8883 Gjern,1,4754258.0,30-09-2002,Andet,0,4,Lejlighed,128,1910,
+Falkenkær 30 8883 Gjern,30,1299516.0,10-08-2002,Alm.,9626,6,Villa,135,1997,
+Svostrupvej 12 8883 Gjern,12,975000.0,05-08-2002,Alm.,13356,4,Sommerhus,73,1989,
+Svostrupvej 28 8883 Gjern,28,1685936.0,31-07-2002,Alm.,5268,12,Stuehus,320,1947,
+Søndergade 5 8883 Gjern,5,548000.0,15-07-2002,Alm.,3859,6,Villa,142,1880,
+Tingbakken 3 8883 Gjern,3,256250.0,22-05-2002,Alm.,2017,6,Villa,127,2006,
+Skovvejen 5 8883 Gjern,5,590000.0,06-05-2002,Alm.,5462,4,Villa,108,1965,
+Foldagervej 8 8883 Gjern,8,200000.0,05-04-2002,Alm.,0,6,Villa,162,1810,
+Ellerupvej 31 8883 Gjern,31,1310000.0,14-03-2002,Fam.,5240,10,Villa,250,1897,
+Søndergade 73A 8883 Gjern,0,650000.0,10-01-2002,Alm.,6018,4,Villa,108,1970,
+Mølhaugevej 2 8883 Gjern,2,13363000.0,02-01-2002,Fam.,42022,9,Stuehus,318,1900,
+Stationspladsen 3 8883 Gjern,3,500000.0,22-12-2001,Andet,2415,4,Villa,207,1908,
+Mølhaugevej 15 8883 Gjern,15,1940000.0,30-09-2001,Alm.,7185,8,Villa,270,1902,
+Amerikavej 9 8883 Gjern,9,164400.0,23-09-2001,Alm.,1417,5,Villa,116,2002,
+Nørbækvej 7 8883 Gjern,7,1575000.0,18-09-2001,Alm.,7608,6,Stuehus,207,1972,
+Falkenkær 11 8883 Gjern,11,280000.0,30-08-2001,Alm.,1866,6,Villa,150,2002,
+Højholt 39 8883 Gjern,39,906000.0,26-07-2001,Alm.,6761,5,Villa,134,1973,
+Søndergade 13 8883 Gjern,13,500000.0,26-06-2001,Alm.,0,7,Villa,199,1922,
+Tvilumvej 3 8883 Gjern,3,525000.0,23-06-2001,Alm.,5833,3,Villa,90,1906,
+Tvilumvej 15 8883 Gjern,15,1100000.0,13-06-2001,Alm.,8088,4,Villa,136,1972,
+Hjarddalsvej 12B 8883 Gjern,0,698000.0,17-05-2001,Alm.,6176,4,Rækkehus,113,1981,
+Nørregårdsvej 1 8883 Gjern,1,100000.0,07-05-2001,Alm.,1041,3,Villa,96,1874,
+Amerikavej 19 8883 Gjern,19,236800.0,03-05-2001,Alm.,1644,6,Villa,144,2002,
+Foldagervej 14 8883 Gjern,14,998000.0,25-04-2001,Alm.,0,6,Villa,186,1970,
+Nårupvej 23 8883 Gjern,23,2250000.0,24-04-2001,Fam.,12295,6,Stuehus,183,1911,
+Amerikavej 17 8883 Gjern,17,197000.0,18-03-2001,Alm.,1179,5,Villa,167,2002,
+Toften 2 8883 Gjern,2,913750.0,05-03-2001,Alm.,0,7,Villa,162,1985,
+Frederiksberggade 18 8883 Gjern,18,650000.0,05-03-2001,Alm.,6632,4,Villa,98,1956,
+Højholt 12 8883 Gjern,12,825000.0,18-02-2001,Alm.,6547,4,Villa,126,1972,
+Ejnar Nielsens Vej 2 8883 Gjern,2,1350000.0,07-02-2001,Alm.,7105,8,Villa,190,1900,
+Amerikavej 25 8883 Gjern,25,239600.0,06-02-2001,Alm.,1401,5,Villa,171,2002,
+Falkenkær 15 8883 Gjern,15,276975.0,30-01-2001,Alm.,1658,4,Villa,167,2004,
+Amerikavej 35 8883 Gjern,35,243200.0,30-11-2000,Alm.,1762,5,Villa,138,2001,
+Lyngbyvej 95 8883 Gjern,95,594988.0,18-11-2000,Alm.,5408,4,Villa,110,1900,
+Nørregårdsvej 3 8883 Gjern,3,2281940.0,17-10-2000,Alm.,12268,8,Villa,186,1910,
+Stationsvej 11B 8883 Gjern,0,444847.0,17-10-2000,Alm.,5777,2,Rækkehus,77,1982,
+Højholt 11 8883 Gjern,11,1285000.0,01-10-2000,Alm.,6457,6,Villa,199,1972,
+Skovbakken 2 8883 Gjern,2,1036208.0,18-09-2000,Alm.,6095,6,Villa,170,1974,
+Østergade 7B 8883 Gjern,0,1280000.0,14-09-2000,Alm.,7804,3,Villa,164,1968,
+Herredsvejen 2B 8883 Gjern,0,925000.0,07-09-2000,Alm.,5929,4,Villa,156,1980,
+Svostrupvej 30 8883 Gjern,30,382500.0,25-08-2000,Fam.,4967,4,Sommerhus,77,1900,
+Tingvejen 32 8883 Gjern,32,1094755.0,29-06-2000,Fam.,9862,3,Stuehus,111,1865,
+Søndergade 71B 8883 Gjern,0,500000.0,29-05-2000,Alm.,0,6,Villa,165,1962,
+Tinghøjvej 2 8883 Gjern,2,1950000.0,07-04-2000,Fam.,11206,5,Stuehus,174,1973,
+Falkenkær 5 8883 Gjern,5,186450.0,08-03-2000,Alm.,1234,5,Villa,151,2001,
+Søndergade 73B 8883 Gjern,0,1068252.0,01-02-2000,Alm.,6069,6,Villa,176,1974,
+Tingvejen 19 8883 Gjern,19,1475000.0,06-01-2000,Alm.,0,7,Stuehus,195,1922,
+Stationsvej 16 8883 Gjern,16,478000.0,16-12-1999,Alm.,3514,6,Villa,136,1910,
+Amerikavej 5 8883 Gjern,5,831298.0,06-12-1999,Alm.,0,6,Villa,137,1942,
+Glimshøjvej 3 8883 Gjern,3,770000.0,29-11-1999,Alm.,4031,7,Stuehus,191,1879,
+Teglværksvej 1 8883 Gjern,1,885594.0,24-11-1999,Alm.,3267,10,Villa,271,1907,
+Frederiksberggade 20 8883 Gjern,20,1195000.0,01-10-1999,Alm.,8535,6,Villa,140,1958,
+Domdalsvej 2 8883 Gjern,2,179256.0,24-09-1999,Alm.,924,7,Stuehus,194,1948,
+Falkenkær 7 8883 Gjern,7,186150.0,10-09-1999,Alm.,1000,6,Villa,186,2001,
+Svostrupvej 31 8883 Gjern,31,247000.0,23-08-1999,Fam.,3012,4,Sommerhus,82,1920,
+Skovvejen 23 8883 Gjern,23,1100000.0,25-06-1999,Alm.,5445,9,Villa,202,1915,
+Herredsvejen 4 8883 Gjern,4,820252.0,04-06-1999,Alm.,5579,6,Villa,147,1907,
+Mølhaugevej 7 8883 Gjern,7,1200000.0,02-06-1999,Alm.,4669,10,Stuehus,257,1961,
+Fussingbjerg 4 8883 Gjern,4,25751.0,17-03-1999,Alm.,306,3,Villa,84,2003,
+Mølhaugevej 13 8883 Gjern,13,406244.0,25-02-1999,Alm.,4145,4,Villa,98,1903,
+Frederiksberggade 5 8883 Gjern,5,550732.0,14-02-1999,Alm.,3990,5,Villa,138,1902,
+Engvej 1 8883 Gjern,1,200000.0,11-02-1999,Alm.,2298,6,Villa,87,1921,
+Engvej 3 8883 Gjern,3,225000.0,28-01-1999,Alm.,1844,4,Villa,122,1920,
+Fussingbjerg 2 8883 Gjern,2,40050.0,28-01-1999,Alm.,276,6,Villa,145,1999,
+Tingvejen 27 8883 Gjern,27,305861.0,21-01-1999,Andet,1499,8,Villa,204,1942,
+Domdalsvej 1 8883 Gjern,1,1340000.0,05-01-1999,Alm.,0,8,Stuehus,380,1844,
+Tvilumvej 14 8883 Gjern,14,104970.0,28-11-1998,Alm.,549,6,Stuehus,191,1977,
+Mølhaugevej 9 8883 Gjern,9,1575000.0,13-11-1998,Alm.,11250,6,Stuehus,140,1936,
+Egholmvej 12B 8883 Gjern,0,316425.0,01-11-1998,Alm.,1917,7,Villa,165,1999,
+Hornvej 25 8883 Gjern,25,1047000.0,02-10-1998,Alm.,5721,6,Villa,183,1974,
+Karolinelundsvej 6 8883 Gjern,6,787631.0,25-09-1998,Alm.,4802,5,Villa,164,1969,
+Falkenkær 18 8883 Gjern,18,150600.0,17-09-1998,Alm.,805,7,Villa,187,1999,
+Falkenkær 34 8883 Gjern,34,96300.0,11-09-1998,Alm.,802,4,Villa,120,1999,
+Vanhøjvej 3 8883 Gjern,3,622265.0,02-09-1998,Andet,3703,7,Villa,168,1926,
+Østergade 33 8883 Gjern,33,1150000.0,30-07-1998,Alm.,8778,7,Villa,131,1963,
+Hjarddalsvej 6 8883 Gjern,6,810000.0,15-07-1998,Alm.,5472,5,Villa,148,1967,
+Lille Amerika 37 8883 Gjern,37,600000.0,12-06-1998,Alm.,0,7,Stuehus,339,2007,
+Tvilumvej 23 8883 Gjern,23,1300000.0,30-05-1998,Alm.,8609,5,Stuehus,151,1917,
+Foldagervej 10 8883 Gjern,10,380000.0,27-05-1998,Alm.,4222,3,Villa,90,1897,
+Østergade 12 8883 Gjern,12,445000.0,11-05-1998,Alm.,0,7,Villa,167,1900,
+Møllevangsvej 16 8883 Gjern,16,910000.0,24-03-1998,Alm.,5200,4,Villa,175,1977,
+Frederiksberggade 29 8883 Gjern,29,610000.0,16-02-1998,Alm.,2760,6,Villa,221,1908,
+Tingvejen 24 8883 Gjern,24,1125000.0,13-02-1998,Alm.,6502,4,Villa,173,1999,
+Amerikavej 22 8883 Gjern,22,2048000.0,20-01-1998,Alm.,7262,7,Stuehus,282,1900,
+Erik Raadals Vej 9 8883 Gjern,9,363000.0,19-01-1998,Alm.,3781,3,Villa,96,1900,
+Østergade 11C 8883 Gjern,0,775000.0,29-12-1997,Alm.,5272,6,Villa,147,1973,
+Erik Raadals Vej 1 8883 Gjern,1,430000.0,22-12-1997,Alm.,3208,4,Rækkehus,134,1927,
+Østergade 3A 8883 Gjern,0,900000.0,18-12-1997,Alm.,0,10,Villa,198,1907,
+Egholmvej 9 8883 Gjern,9,654340.0,24-11-1997,Alm.,3782,5,Villa,173,1850,
+Nørreholmvej 4 8883 Gjern,4,1339282.0,13-11-1997,Alm.,7358,8,Stuehus,182,1912,
+Falkenkær 26 8883 Gjern,26,99300.0,15-10-1997,Alm.,704,5,Villa,141,1998,
+Hornvej 6 8883 Gjern,6,389155.0,15-09-1997,Alm.,0,5,Villa,162,1933,
+Nørbækvej 9 8883 Gjern,9,742877.0,04-07-1997,Alm.,0,7,Villa,261,1907,
+Bjerrehave 1 8883 Gjern,1,1262000.0,15-06-1997,Alm.,3636,12,Villa,347,1911,
+Kragholt 3 8883 Gjern,3,769666.0,14-06-1997,Alm.,4500,7,Villa,171,1973,
+Tingvejen 10 8883 Gjern,10,137000.0,02-06-1997,Auktion,1902,2,Stuehus,72,1885,
+Lille Amerika 34 8883 Gjern,34,223550.0,27-05-1997,Fam.,7451,2,Sommerhus,30,1929,
+Egholmvej 20 8883 Gjern,20,450000.0,01-05-1997,Alm.,3333,4,Villa,135,1900,
+Ellerupvej 49 8883 Gjern,49,345000.0,21-04-1997,Alm.,2899,6,Villa,119,1910,
+Vanhøjvej 2 8883 Gjern,2,378681.0,03-04-1997,Alm.,0,8,Stuehus,185,1911,
+Bjergvej 2 8883 Gjern,2,669722.0,21-03-1997,Alm.,4818,4,Villa,139,1967,
+Videhøjvej 2 8883 Gjern,2,619296.0,13-02-1997,Alm.,3944,6,Villa,157,1910,
+Hornvej 10 8883 Gjern,10,460000.0,17-01-1997,Alm.,5476,4,Villa,84,1957,
+Tingvejen 21 8883 Gjern,21,700000.0,20-12-1996,Alm.,3867,6,Stuehus,181,1914,
+Herredsvejen 20 8883 Gjern,20,1610319.0,12-12-1996,Alm.,7031,5,Stuehus,229,1993,
+Hjarddalsvej 19 8883 Gjern,19,682411.0,06-11-1996,Alm.,4431,4,Villa,154,1980,
+Tvilumvej 33 8883 Gjern,33,564000.0,09-09-1996,Alm.,5875,3,Villa,96,1961,
+Svostrupvej 17 8883 Gjern,17,163000.0,28-08-1996,Fam.,3975,2,Sommerhus,41,1965,
+Trehøjevej 8 8883 Gjern,8,10000.0,29-07-1996,Alm.,81,5,Stuehus,122,1890,
+Frederiksberggade 28 8883 Gjern,28,764000.0,22-06-1996,Alm.,3958,6,Villa,193,1959,
+Falkenkær 36 8883 Gjern,36,925103.0,10-05-1996,Alm.,4719,7,Villa,196,1973,
+Nørrebakken 4 8883 Gjern,4,614000.0,27-04-1996,Alm.,4514,5,Villa,136,1972,
+Hjarddalsvej 15 8883 Gjern,15,670000.0,03-03-1996,Alm.,5929,4,Villa,113,1978,
+Mølhaugevej 4 8883 Gjern,4,705000.0,10-02-1996,Fam.,5640,5,Stuehus,125,1926,
+Højholt 23 8883 Gjern,23,700000.0,01-02-1996,Fam.,4046,6,Villa,173,1974,
+Hjarddalsvej 11 8883 Gjern,11,530000.0,11-01-1996,Fam.,2944,6,Villa,180,1974,
+Højholt 10 8883 Gjern,10,722000.0,01-11-1995,Alm.,5194,5,Villa,139,1974,
+Hammelvej 27 8883 Gjern,27,650000.0,10-10-1995,Fam.,3217,6,Stuehus,202,1936,
+Hammelvej 10 8883 Gjern,10,498000.0,17-09-1995,Alm.,0,6,Villa,146,1953,
+Østergade 19 8883 Gjern,19,475000.0,17-09-1995,Alm.,0,8,Villa,279,1906,
+Svostrupvej 33 8883 Gjern,33,125000.0,28-08-1995,Alm.,1736,3,Sommerhus,72,1964,
+Bjergvej 1 8883 Gjern,1,732000.0,15-08-1995,Alm.,4305,5,Villa,170,1967,
+Nårupvej 25 8883 Gjern,25,224054.0,11-08-1995,Alm.,0,4,Villa,82,1825,
+Nårupvej 15 8883 Gjern,15,575000.0,07-08-1995,Alm.,7187,6,Erhverv,80,1872,
+Møllevangsvej 9 8883 Gjern,9,646000.0,28-07-1995,Alm.,3712,6,Villa,174,1971,
+Søndergade 69 8883 Gjern,69,455000.0,13-07-1995,Alm.,3446,5,Villa,132,1967,
+Søndergade 14 8883 Gjern,14,420000.0,04-07-1995,Fam.,5060,2,Villa,83,1951,
+Søndergade 26 8883 Gjern,26,450000.0,04-07-1995,Alm.,5000,4,Villa,90,1950,
+Hammelvej 8 8883 Gjern,8,800000.0,04-07-1995,Alm.,4907,4,Villa,163,1900,
+Vejlmosevej 5 8883 Gjern,5,1324000.0,03-07-1995,Alm.,9258,5,Stuehus,143,2008,
+Den Grønne Vej 8 8883 Gjern,8,400000.0,03-07-1995,Fam.,3773,4,Villa,106,1915,
+Foldagervej 9 8883 Gjern,9,325000.0,12-06-1995,Alm.,3385,3,Villa,96,1958,
+Søndergade 71A 8883 Gjern,0,300000.0,06-04-1995,Fam.,2307,5,Villa,130,2000,
+Skovvejen 7 8883 Gjern,7,350180.0,06-04-1995,Alm.,3242,4,Villa,108,1964,
+Frederiksberggade 4 8883 Gjern,4,395000.0,05-04-1995,Alm.,3834,3,Villa,103,1910,
+"Stationspladsen 2B, 1 8883 Gjern",1,156000.0,02-02-1995,Auktion,1209,4,Lejlighed,129,1906,
+Falkenkær 12 8883 Gjern,12,74625.0,04-01-1995,Alm.,478,4,Villa,156,1995,
+Nårupvej 20 8883 Gjern,20,2534600.0,03-01-1995,Fam.,12424,5,Stuehus,204,1930,
+Hestehavevej 2 8883 Gjern,2,963219.0,12-12-1994,Alm.,0,7,Stuehus,197,1875,
+Søndergade 79 8883 Gjern,79,450000.0,04-11-1994,Alm.,0,6,Villa,157,1967,
+Erik Raadals Vej 3 8883 Gjern,3,260000.0,14-10-1994,Alm.,3250,3,Villa,80,1860,
+Glimshøjvej 4 8883 Gjern,4,161459.0,12-08-1994,Alm.,1302,3,Villa,124,1850,
+Borgergade 7 8883 Gjern,7,185000.0,19-06-1994,Alm.,2466,3,Rækkehus,75,1932,
+Højholt 19 8883 Gjern,19,580000.0,01-06-1994,Alm.,4393,4,Villa,132,1974,
+Kragholt 4 8883 Gjern,4,420000.0,17-03-1994,Fam.,4242,3,Villa,99,1944,
+Højholt 4 8883 Gjern,4,518000.0,09-03-1994,Alm.,0,5,Villa,179,1974,
+Foldagervej 13 8883 Gjern,13,549000.0,07-02-1994,Alm.,0,7,Villa,197,1900,
+Hestehavevej 8 8883 Gjern,8,270000.0,27-01-1994,Alm.,2030,4,Villa,133,2015,
+Videhøjvej 11 8883 Gjern,11,268000.0,01-12-1993,Alm.,3080,4,Villa,87,1966,
+"Stationspladsen 2B, ST 8883 Gjern",0,200000.0,16-11-1993,Alm.,1626,5,Lejlighed,123,1906,
+Hjarddalsvej 10A 8883 Gjern,0,204000.0,26-10-1993,Fam.,1672,5,Rækkehus,122,1981,
+Østergade 17 8883 Gjern,17,478000.0,01-10-1993,Alm.,0,6,Villa,162,1900,
+Herredsvejen 14 8883 Gjern,14,583000.0,12-08-1993,Andet,3939,5,Villa,148,1880,
+Skovvejen 3 8883 Gjern,3,358068.0,29-07-1993,Alm.,3934,4,Villa,91,1950,
+Frederiksberggade 7 8883 Gjern,7,275000.0,13-05-1993,Alm.,2864,4,Villa,96,1927,
+Skovvejen 24 8883 Gjern,24,547000.0,07-01-1993,Alm.,3143,6,Villa,174,1972,
+Højholt 8 8883 Gjern,8,238378.0,27-10-1992,Fam.,1589,7,Villa,150,1976,
+Svostrupvej 16 8883 Gjern,16,320000.0,23-10-1992,Alm.,0,8,Villa,210,1952,
+Fussingbjerg 14 8883 Gjern,14,415000.0,21-10-1992,Alm.,0,5,Villa,142,1986,
+Nørbækvej 4 8883 Gjern,4,850000.0,17-08-1992,Alm.,3307,7,Stuehus,257,1915,
+Højholt 2 8883 Gjern,2,510000.0,07-08-1992,Alm.,3591,5,Villa,142,1973,
+Møllevangsvej 3 8883 Gjern,3,700000.0,27-07-1992,Alm.,3482,6,Villa,201,1972,
+Tvilumvej 11 8883 Gjern,11,545000.0,01-07-1992,Alm.,4430,4,Villa,123,1966,
+Svostrupvej 3 8883 Gjern,3,775000.0,25-06-1992,Alm.,5615,6,Villa,138,1960,
+Tvilumvej 35 8883 Gjern,35,1900000.0,02-06-1992,Alm.,8482,10,Stuehus,224,1939,
+Højholt 25 8883 Gjern,25,648000.0,28-04-1992,Alm.,3240,7,Villa,200,1973,
+Østergade 28 8883 Gjern,28,60000.0,23-04-1992,Alm.,0,11,Villa,272,1924,
+Højholt 37 8883 Gjern,37,445000.0,02-04-1992,Alm.,2696,6,Villa,165,1974,
+Nørrebakken 3 8883 Gjern,3,715000.0,16-03-1992,Alm.,3763,6,Villa,190,1973,
+Foldagervej 20 8883 Gjern,20,310000.0,27-02-1992,Alm.,0,6,Villa,246,1905,
+Herredsvejen 12 8883 Gjern,12,390000.0,07-02-1992,Alm.,3482,4,Stuehus,112,1875,
+Amerikavej 2B 8883 Gjern,0,348160.0,29-01-1992,Alm.,2522,5,Villa,138,1920,
+Hjarddalsvej 8 8883 Gjern,8,500000.0,24-01-1992,Alm.,3906,4,Villa,128,1973,
+Møllevangsvej 5 8883 Gjern,5,612000.0,12-01-1992,Alm.,2956,7,Villa,207,1970,

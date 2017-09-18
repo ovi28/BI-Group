@@ -1,0 +1,593 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Sønder Bjergevej 69 4261 Dalmose,69,767477.0,01-05-2017,Alm.,1387,13,Villa,553,1925,
+Ørnevej 64 4261 Dalmose,64,660000.0,01-05-2017,Alm.,6226,3,Rækkehus,106,1989,
+Ørnevej 37 4261 Dalmose,37,1300000.0,18-04-2017,Alm.,9558,5,Villa,136,1979,-2 %
+Liljevænget 9 4261 Dalmose,9,845000.0,22-03-2017,Alm.,6601,4,Villa,128,1968,0 %
+Skælskørvej 105 4261 Dalmose,105,2273750.0,15-03-2017,Fam.,11781,5,Stuehus,193,1890,
+Skælskørvej 99 4261 Dalmose,99,2150000.0,27-02-2017,Alm.,10046,7,Stuehus,214,1912,-4 %
+Sønder Bjergevej 250 4261 Dalmose,250,60000.0,13-02-2017,Alm.,545,6,Villa,110,1908,
+Hovedgaden 51 4261 Dalmose,51,550000.0,12-02-2017,Alm.,4166,3,Villa,132,1924,
+Ørnevej 60 4261 Dalmose,60,755000.0,10-02-2017,Alm.,8779,4,Rækkehus,86,1989,-5 %
+Vibevej 27 4261 Dalmose,27,1695000.0,19-01-2017,Alm.,7811,7,Villa,217,1977,0 %
+Hyllestedvej 45 4261 Dalmose,45,1985000.0,19-01-2017,Alm.,7971,8,Villa,249,1800,0 %
+Skælskørvej 95 4261 Dalmose,95,2210000.0,12-01-2017,Fam.,20090,4,Stuehus,110,1852,
+Ørnevej 14 4261 Dalmose,14,1407500.0,14-12-2016,Alm.,10744,4,Villa,131,2000,-3 %
+Øllemosevej 2 4261 Dalmose,2,317553.0,13-12-2016,Alm.,2145,5,Villa,148,1940,
+Hyllestedvej 1 4261 Dalmose,1,1050000.0,06-12-2016,Alm.,6818,4,Villa,154,1928,0 %
+Vibevej 17 4261 Dalmose,17,990000.0,17-11-2016,Alm.,8389,4,Villa,118,1977,
+Hovedgaden 63 4261 Dalmose,63,458500.0,17-11-2016,Alm.,3668,5,Villa,125,1925,
+Hovedgaden 47 4261 Dalmose,47,200000.0,04-11-2016,Alm.,2298,4,Villa,87,1917,-45 %
+Tværvej 7 4261 Dalmose,7,330000.0,24-10-2016,Alm.,2750,4,Villa,120,1897,-16 %
+Hovedgaden 40 4261 Dalmose,40,645000.0,15-10-2016,Alm.,6323,6,Villa,102,1912,-19 %
+Vemmeløsevej 22 4261 Dalmose,22,1360000.0,06-10-2016,Alm.,4415,8,Villa,308,1907,-22 %
+Østervej 6 4261 Dalmose,6,1225000.0,04-10-2016,Alm.,8750,5,Villa,140,1974,-4 %
+Enghavevej 10 4261 Dalmose,10,695000.0,27-09-2016,Alm.,5940,5,Villa,117,1905,0 %
+Banevej 16 4261 Dalmose,16,370000.0,27-09-2016,Alm.,3425,3,Villa,108,1917,-6 %
+Sønder Bjergevej 248 4261 Dalmose,248,714000.0,13-09-2016,Fam.,4547,5,Villa,157,1907,
+Falkevej 34 4261 Dalmose,34,1240000.0,18-08-2016,Alm.,8551,5,Villa,145,1974,-4 %
+Enghavevej 12 4261 Dalmose,12,1285000.0,05-08-2016,Alm.,7427,4,Villa,173,1906,-4 %
+Ørnevej 39 4261 Dalmose,39,1175000.0,01-08-2016,Alm.,9325,4,Villa,126,1979,-4 %
+Blomstervænget 3A 4261 Dalmose,0,693000.0,28-07-2016,Alm.,5330,4,Villa,130,1988,-13 %
+Præstemarken 51 4261 Dalmose,51,12276500.0,19-07-2016,Alm.,46326,10,Stuehus,265,1927,
+Sønder Bjergevej 240 4261 Dalmose,240,250000.0,18-07-2016,Alm.,1329,8,Villa,188,1900,-37 %
+Venslevvej 17 4261 Dalmose,17,911574.0,13-07-2016,Alm.,9025,4,Stuehus,101,1923,
+Ørnevej 2 4261 Dalmose,2,1449000.0,04-07-2016,Alm.,11061,4,Villa,131,1998,-3 %
+Rosenvænget 7 4261 Dalmose,7,600000.0,29-06-2016,Alm.,5263,4,Villa,114,1970,-14 %
+Skælskørvej 87 4261 Dalmose,87,425000.0,24-06-2016,Andet,3455,3,Villa,123,1965,
+Liljevænget 4 4261 Dalmose,4,578150.0,15-06-2016,Alm.,4282,5,Villa,135,1973,
+Vibevej 4 4261 Dalmose,4,660000.0,12-05-2016,Alm.,4342,7,Villa,152,1974,
+Skælskørvej 142 4261 Dalmose,142,831121.0,14-04-2016,Fam.,3661,7,Villa,227,1892,
+Sønder Bjergevej 258 4261 Dalmose,258,650000.0,06-04-2016,Auktion,2850,10,Villa,228,1887,
+Ågårdsvej 4 4261 Dalmose,4,5190000.0,05-04-2016,Alm.,19584,7,Stuehus,265,1931,
+Sønder Bjergevej 269 4261 Dalmose,269,3150000.0,02-04-2016,Alm.,17027,6,Stuehus,185,1900,
+Flakkebjergvej 8 4261 Dalmose,8,245000.0,21-03-2016,Alm.,2149,3,Villa,114,1900,
+Hyllestedvej 64 4261 Dalmose,64,14800000.0,14-03-2016,Alm.,71153,8,Stuehus,208,1892,
+Bygaden 13 4261 Dalmose,13,895000.0,01-03-2016,Alm.,8689,4,Villa,103,1974,0 %
+Ørnevej 25 4261 Dalmose,25,1040000.0,11-02-2016,Alm.,7761,5,Villa,134,1979,-5 %
+Vibevej 2 4261 Dalmose,2,946000.0,09-02-2016,Alm.,7448,5,Villa,127,1975,7 %
+Banevej 5 4261 Dalmose,5,625000.0,05-02-2016,Alm.,5296,2,Villa,118,1886,-4 %
+Bygaden 38 4261 Dalmose,38,357500.0,22-01-2016,Alm.,2883,3,Villa,124,1880,
+Flakkebjergvej 4 4261 Dalmose,4,2422500.0,16-12-2015,Fam.,11215,5,Stuehus,216,1880,
+Enghavevej 8 4261 Dalmose,8,520737.0,09-12-2015,Auktion,8265,3,Stuehus,63,1877,
+Lundbyvej 10 4261 Dalmose,10,400000.0,27-10-2015,Alm.,2366,4,Villa,169,1875,-47 %
+Præstemarken 71 4261 Dalmose,71,450000.0,20-10-2015,Alm.,3488,5,Villa,129,1920,-9 %
+Hovedgaden 14 4261 Dalmose,14,665000.0,17-09-2015,Alm.,6927,3,Villa,96,1930,-4 %
+Lærkevej 17 4261 Dalmose,17,1339000.0,20-08-2015,Alm.,10460,4,Villa,128,2003,-1 %
+Ågårdsvej 2 4261 Dalmose,2,1150000.0,20-08-2015,Alm.,4372,6,Villa,263,1900,-32 %
+Ting Jellinge Vej 8 4261 Dalmose,8,170000.0,19-08-2015,Alm.,1133,5,Villa,150,1880,
+Sorø Landevej 303 4261 Dalmose,303,2400000.0,30-07-2015,Alm.,9836,7,Stuehus,244,1880,
+Fresiavænget 7 4261 Dalmose,7,1155000.0,14-07-2015,Alm.,7700,5,Villa,150,1973,-3 %
+Lundbyvej 18 4261 Dalmose,18,425000.0,08-07-2015,Alm.,5059,3,Villa,84,1898,0 %
+Sønder Bjergevej 185 4261 Dalmose,185,1250000.0,30-06-2015,Alm.,8680,5,Villa,144,2005,-6 %
+Sønder Jellinge Vej 2 4261 Dalmose,2,50000.0,30-06-2015,Fam.,724,3,Villa,69,1800,
+Astersvænget 1 4261 Dalmose,1,860000.0,19-06-2015,Alm.,6615,4,Villa,130,1972,-4 %
+Høvevej 16 4261 Dalmose,16,850000.0,03-06-2015,Auktion,7657,4,Villa,111,1906,
+Hovedgaden 38 4261 Dalmose,38,378250.0,02-06-2015,Andet,2278,8,Villa,166,1903,
+Banevej 17 4261 Dalmose,17,500000.0,17-05-2015,Alm.,3401,4,Villa,147,1979,-8 %
+Violvænget 3 4261 Dalmose,3,650000.0,27-04-2015,Alm.,4710,4,Villa,138,1977,-4 %
+Sorø Landevej 305 4261 Dalmose,305,895000.0,01-04-2015,Alm.,3623,5,Villa,247,1877,-10 %
+Skælskørvej 128 4261 Dalmose,128,775000.0,23-03-2015,Alm.,4725,3,Villa,164,1890,-3 %
+Bygaden 5B 4261 Dalmose,0,1650000.0,27-02-2015,Alm.,6626,6,Villa,249,1887,-7 %
+Stationsvej 13 4261 Dalmose,13,330000.0,20-02-2015,Alm.,2323,4,Villa,142,1900,-37 %
+Marbæksvej 16 4261 Dalmose,16,695000.0,17-02-2015,Auktion,7315,3,Villa,95,1920,
+Stationsvej 3 4261 Dalmose,3,534166.0,21-01-2015,Andet,3257,5,Villa,164,1917,
+Hovedgaden 54 4261 Dalmose,54,995000.0,20-01-2015,Auktion,3886,7,Villa,256,1928,-29 %
+Enghavevej 3 4261 Dalmose,3,656200.0,13-01-2015,Auktion,2543,9,Stuehus,258,1915,-53 %
+Venslevvej 13 4261 Dalmose,13,500000.0,13-01-2015,Alm.,4504,3,Villa,111,1950,-9 %
+Vemmeløsevej 21 4261 Dalmose,21,8571738.0,02-01-2015,Fam.,25435,8,Stuehus,337,1877,
+Orebyvej 102 4261 Dalmose,102,1572500.0,14-12-2014,Fam.,6290,5,Villa,250,1900,
+Ørnevej 7 4261 Dalmose,7,1150000.0,18-11-2014,Alm.,5111,7,Villa,225,1978,-4 %
+Fresiavænget 10 4261 Dalmose,10,600000.0,27-10-2014,Alm.,4166,5,Villa,144,1973,-18 %
+Nyvej 7 4261 Dalmose,7,530000.0,19-08-2014,Alm.,3464,6,Villa,153,1954,-15 %
+Banevej 20 4261 Dalmose,20,1290000.0,13-08-2014,Alm.,6028,7,Villa,214,1978,0 %
+Tværvej 3 4261 Dalmose,3,250000.0,16-07-2014,Alm.,3623,2,Villa,69,1954,-15 %
+Jellingevej 5 4261 Dalmose,5,1650000.0,08-07-2014,Alm.,6420,8,Villa,257,1925,
+Nyvej 16 4261 Dalmose,16,370746.0,06-07-2014,Fam.,3707,4,Villa,100,1920,
+Marbæksvej 6 4261 Dalmose,6,150000.0,22-05-2014,Alm.,2272,4,Villa,66,1955,-14 %
+Lærkevej 16 4261 Dalmose,16,745000.0,21-05-2014,Alm.,7095,4,Rækkehus,105,1980,-6 %
+Venslevvej 18 4261 Dalmose,18,1355000.0,07-05-2014,Alm.,9217,4,Stuehus,147,1892,-3 %
+Maglebjergvej 8 4261 Dalmose,8,515000.0,11-03-2014,Alm.,5099,2,Villa,101,1912,-9 %
+Bygaden 11 4261 Dalmose,11,475000.0,02-02-2014,Alm.,3893,5,Villa,122,1896,-4 %
+Orebyvej 116 4261 Dalmose,116,100000.0,31-01-2014,Alm.,1098,3,Villa,91,1850,-59 %
+Hyllestedvej 32 4261 Dalmose,32,252599.0,17-12-2013,Alm.,1778,5,Villa,142,1927,
+Venslevvej 4 4261 Dalmose,4,1845000.0,04-12-2013,Alm.,4589,8,Villa,402,1721,-8 %
+Sønder Bjergevej 210 4261 Dalmose,210,885000.0,25-11-2013,Alm.,7080,3,Villa,125,1890,0 %
+Østervej 9 4261 Dalmose,9,980000.0,19-11-2013,Alm.,6621,5,Villa,148,1974,-2 %
+Pilevej 2 4261 Dalmose,2,1395000.0,01-11-2013,Alm.,7265,4,Villa,192,1877,0 %
+Hovedgaden 69 4261 Dalmose,69,363000.0,08-10-2013,Auktion,4078,5,Villa,89,1930,
+Vemmeløsevej 15 4261 Dalmose,15,280000.0,08-10-2013,Alm.,4666,3,Villa,60,1914,-11 %
+Sorø Landevej 309 4261 Dalmose,309,1170000.0,03-10-2013,Alm.,4208,5,Villa,278,1927,-6 %
+Bygaden 7 4261 Dalmose,7,550000.0,03-10-2013,Alm.,3525,3,Villa,156,1912,-8 %
+Hovedgaden 43B 4261 Dalmose,0,850000.0,16-09-2013,Alm.,0,2,Lejlighed,75,1900,
+Vandværksvej 3 4261 Dalmose,3,600000.0,26-08-2013,Alm.,4651,5,Villa,129,1915,
+Sønder Bjergevej 174 4261 Dalmose,174,74900.0,21-08-2013,Auktion,640,3,Villa,117,1930,-60 %
+Bygaden 40 4261 Dalmose,40,112000.0,01-08-2013,Alm.,1333,4,Villa,84,1850,-30 %
+Vemmeløsevej 18 4261 Dalmose,18,3500000.0,15-07-2013,Alm.,15283,7,Stuehus,229,1904,0 %
+Skælskørvej 134 4261 Dalmose,134,550000.0,03-07-2013,Alm.,5092,5,Villa,108,1913,-27 %
+Sorø Landevej 312 4261 Dalmose,312,1700000.0,26-06-2013,Alm.,7906,9,Stuehus,215,1876,-5 %
+Banevej 26 4261 Dalmose,26,660000.0,17-06-2013,Alm.,4748,4,Villa,139,1890,-5 %
+Fresiavænget 9 4261 Dalmose,9,1100000.0,11-06-2013,Alm.,9016,4,Villa,122,1976,-6 %
+Viaduktvej 8 4261 Dalmose,8,625000.0,30-05-2013,Alm.,4222,5,Villa,148,1900,-10 %
+Lodsvej 8 4261 Dalmose,8,750000.0,04-04-2013,Alm.,7211,4,Villa,104,1920,-3 %
+Jellingevej 1B 4261 Dalmose,0,1128000.0,11-02-2013,Auktion,6097,7,Villa,185,1942,26 %
+Engvej 1 4261 Dalmose,1,1445000.0,29-01-2013,Alm.,6509,6,Villa,222,1981,-3 %
+Marbæksvej 10 4261 Dalmose,10,685000.0,07-01-2013,Fam.,5756,4,Villa,119,1887,
+Øllemosevej 10 4261 Dalmose,10,587500.0,04-12-2012,Alm.,4166,5,Villa,141,1852,-13 %
+Sønder Bjergevej 101 4261 Dalmose,101,825000.0,14-11-2012,Alm.,6445,5,Villa,128,1900,0 %
+Bygaden 20 4261 Dalmose,20,1100000.0,29-10-2012,Auktion,3188,11,Villa,345,1850,-59 %
+Sønder Bjergevej 112 4261 Dalmose,112,175000.0,26-09-2012,Alm.,2083,3,Villa,84,1800,-49 %
+Hyllestedvej 12 4261 Dalmose,12,625000.0,26-09-2012,Alm.,5040,4,Villa,124,1928,
+Skælskørvej 93 4261 Dalmose,93,4650000.0,25-09-2012,Alm.,20305,8,Stuehus,229,1870,
+Hyllestedvej 16 4261 Dalmose,16,586000.0,26-07-2012,Alm.,0,5,Villa,144,1900,
+Øllemosevej 14 4261 Dalmose,14,593200.0,13-07-2012,Andet,4563,5,Villa,130,1880,
+Industrivej 8 4261 Dalmose,8,2083407.0,04-07-2012,Auktion,8790,6,Villa,237,2011,
+Liljevænget 1 4261 Dalmose,1,1180000.0,19-06-2012,Auktion,8939,4,Villa,132,1972,
+Nyvej 15 4261 Dalmose,15,525000.0,12-06-2012,Alm.,6325,3,Villa,83,1964,-12 %
+Tårsgårdsvej 55 4261 Dalmose,55,2700000.0,21-03-2012,Alm.,9854,9,Stuehus,274,1916,-10 %
+Ørnevej 70 4261 Dalmose,70,900000.0,21-03-2012,Alm.,10465,4,Rækkehus,86,1989,-10 %
+Hovedgaden 9 4261 Dalmose,9,361000.0,07-03-2012,Auktion,2865,4,Villa,126,1946,-10 %
+Lærkevej 19 4261 Dalmose,19,1450000.0,03-02-2012,Alm.,11328,4,Villa,128,2003,-3 %
+Hyllestedvej 55 4261 Dalmose,55,1200000.0,24-01-2012,Auktion,4152,4,Villa,289,1911,
+Kærvej 2 4261 Dalmose,2,495000.0,24-01-2012,Auktion,2450,5,Villa,202,1907,-50 %
+Sønder Bjergevej 228 4261 Dalmose,228,250000.0,02-01-2012,Alm.,3623,3,Villa,69,1900,-9 %
+Appelsbjergvej 2 4261 Dalmose,2,2610000.0,19-12-2011,Alm.,13050,5,Stuehus,200,1985,-3 %
+Lindevej 1 4261 Dalmose,1,250000.0,13-12-2011,Auktion,1953,4,Villa,128,1905,
+Mosevej 14 4261 Dalmose,14,500000.0,25-11-2011,Alm.,5555,4,Villa,90,1964,-16 %
+Lundbyvej 24 4261 Dalmose,24,787500.0,08-11-2011,Alm.,12304,3,Sommerhus,64,1877,
+Ørnevej 66 4261 Dalmose,66,850000.0,21-10-2011,Alm.,9883,4,Rækkehus,86,1989,-13 %
+Bygaden 18 4261 Dalmose,18,375000.0,18-10-2011,Alm.,1856,8,Stuehus,202,1934,
+Banevej 10 4261 Dalmose,10,622825.0,11-10-2011,Alm.,4208,4,Villa,148,1875,
+Sønder Bjergevej 196 4261 Dalmose,196,587643.0,23-09-2011,Andet,3561,6,Villa,165,1931,
+Brambjergvej 29 4261 Dalmose,29,1075000.0,21-09-2011,Alm.,7166,5,Villa,150,1900,-17 %
+Ørnevej 41 4261 Dalmose,41,1600000.0,05-09-2011,Alm.,10062,5,Villa,159,1979,
+Flakkebjergvej 11 4261 Dalmose,11,763154.0,31-08-2011,Fam.,3376,8,Stuehus,226,1902,
+Rosenvænget 4 4261 Dalmose,4,1050000.0,15-08-2011,Alm.,5737,8,Villa,183,1969,-19 %
+Pilevej 4 4261 Dalmose,4,4150000.0,18-07-2011,Alm.,31923,7,Stuehus,130,1900,
+Lindevej 2 4261 Dalmose,2,1325000.0,13-07-2011,Alm.,12383,4,Villa,107,2005,-11 %
+Sorø Landevej 301 4261 Dalmose,301,950000.0,30-06-2011,Alm.,7089,4,Stuehus,134,1882,
+Hovedgaden 2 4261 Dalmose,2,2400000.0,10-05-2011,Auktion,16000,5,Engroshandel,150,1968,
+Sønder Bjergevej 244 4261 Dalmose,244,825000.0,11-04-2011,Fam.,3855,5,Villa,214,2014,
+Høvevej 15 4261 Dalmose,15,750000.0,05-04-2011,Alm.,7575,4,Villa,99,1963,-17 %
+Banevej 4 4261 Dalmose,4,995000.0,05-04-2011,Auktion,6030,2,Villa,165,1886,
+Sønder Jellinge Vej 9 4261 Dalmose,9,232060.0,05-04-2011,Alm.,1365,7,Stuehus,170,1850,
+Astersvænget 9 4261 Dalmose,9,1100000.0,30-03-2011,Alm.,6918,5,Villa,159,1972,-8 %
+Sønder Bjergevej 79 4261 Dalmose,79,2000000.0,24-02-2011,Alm.,26666,3,Stuehus,75,1900,-20 %
+Kikvej 3 4261 Dalmose,3,2350000.0,23-02-2011,Alm.,11691,7,Stuehus,201,1894,-9 %
+Venslevvej 8 4261 Dalmose,8,420000.0,03-02-2011,Fam.,3500,4,Villa,120,1877,
+Nyvej 25 4261 Dalmose,25,500000.0,01-02-2011,Auktion,3703,5,Villa,135,1912,
+Venslevvej 23 4261 Dalmose,23,158000.0,10-01-2011,Alm.,858,6,Stuehus,184,1961,
+Hyllestedvej 37 4261 Dalmose,37,96250.0,26-11-2010,Alm.,203,6,Villa,472,1892,
+Præstemarken 50 4261 Dalmose,50,1000000.0,17-11-2010,Alm.,7633,4,Villa,131,1929,
+Sønder Bjergevej 198 4261 Dalmose,198,790000.0,12-10-2010,Fam.,7181,7,Villa,110,1870,-16 %
+Bygaden 19 4261 Dalmose,19,998000.0,08-10-2010,Alm.,11471,4,Villa,87,1932,0 %
+Skælskørvej 110 4261 Dalmose,110,550000.0,05-10-2010,Alm.,6250,4,Villa,88,1878,-15 %
+Hovedgaden 41 4261 Dalmose,41,925000.0,28-09-2010,Auktion,6335,7,Villa,146,1927,9 %
+Øllemosevej 12 4261 Dalmose,12,501597.0,23-09-2010,Alm.,3194,6,Villa,157,1877,
+Maglebjergvej 10 4261 Dalmose,10,615000.0,13-09-2010,Alm.,8200,2,Villa,75,1912,-8 %
+Stationsvej 27 4261 Dalmose,27,1140000.0,06-09-2010,Alm.,5480,7,Villa,208,1900,-5 %
+Lærkevej 18 4261 Dalmose,18,860000.0,21-08-2010,Alm.,8514,4,Rækkehus,101,1980,-2 %
+Hyllestedvej 8 4261 Dalmose,8,1645000.0,17-08-2010,Alm.,12751,5,Villa,129,1964,
+Præstemarken 66 4261 Dalmose,66,2500000.0,28-07-2010,Alm.,24752,4,Stuehus,101,1930,-7 %
+Banevej 3 4261 Dalmose,3,325000.0,12-07-2010,Auktion,0,4,Villa,140,1886,
+Viaduktvej 1 4261 Dalmose,1,81000.0,12-07-2010,Alm.,296,8,Stuehus,273,1864,
+Mosevej 21 4261 Dalmose,21,1025000.0,26-06-2010,Alm.,8200,4,Villa,125,1966,-6 %
+Ørnevej 68 4261 Dalmose,68,875000.0,12-06-2010,Alm.,10174,4,Rækkehus,86,1989,-2 %
+Hyllestedvej 24 4261 Dalmose,24,610000.0,31-05-2010,Alm.,2293,8,Villa,266,1910,-6 %
+Sønder Bjergevej 118 4261 Dalmose,118,575000.0,27-05-2010,Andet,4166,5,Villa,138,1900,
+Hyllestedvej 25 4261 Dalmose,25,890000.0,26-04-2010,Alm.,0,9,Villa,397,1874,-11 %
+Banevej 6 4261 Dalmose,6,1434508.0,26-04-2010,Alm.,9893,4,Villa,145,1850,
+Hovedgaden 16 4261 Dalmose,16,1095000.0,03-04-2010,Alm.,9521,5,Villa,115,1900,-8 %
+Skælskørvej 108 4261 Dalmose,108,500000.0,11-03-2010,Auktion,2008,8,Villa,249,1850,-50 %
+Liljevænget 10 4261 Dalmose,10,1070000.0,09-03-2010,Alm.,8916,3,Villa,120,1969,-2 %
+Hyllestedvej 30 4261 Dalmose,30,600000.0,05-03-2010,Alm.,7142,4,Villa,84,1961,-4 %
+Åvej 8A 4261 Dalmose,0,414500.0,03-03-2010,Fam.,2939,4,Villa,141,2013,
+Hyllestedvej 41 4261 Dalmose,41,1293000.0,25-02-2010,Auktion,8288,3,Villa,156,1900,-24 %
+Sorø Landevej 310 4261 Dalmose,310,947470.0,05-02-2010,Alm.,5322,6,Stuehus,178,1927,
+Stationsvej 31 4261 Dalmose,31,400000.0,17-12-2009,Auktion,1186,8,Villa,337,1907,-80 %
+Vibevej 3 4261 Dalmose,3,1270000.0,07-12-2009,Alm.,10583,4,Villa,120,1975,-2 %
+Lundsgårdsvej 4 4261 Dalmose,4,2200000.0,27-11-2009,Alm.,18965,4,Stuehus,116,1905,-17 %
+Ørnevej 36 4261 Dalmose,36,850000.0,24-11-2009,Alm.,6800,4,Villa,125,2000,
+Hovedgaden 15D 4261 Dalmose,0,772500.0,02-11-2009,Alm.,10582,3,Rækkehus,73,1987,-3 %
+Hovedgaden 27 4261 Dalmose,27,1200000.0,11-10-2009,Alm.,8823,4,Villa,136,1890,-7 %
+Mosevej 1B 4261 Dalmose,0,1250000.0,09-09-2009,Alm.,9765,4,Villa,128,1973,-7 %
+Mosevej 9 4261 Dalmose,9,1000000.0,14-08-2009,Alm.,10000,3,Villa,100,1968,0 %
+Orebyvej 110A 4261 Dalmose,0,745000.0,05-08-2009,Alm.,6711,4,Villa,111,1930,-5 %
+Hyllestedvej 39 4261 Dalmose,39,1000000.0,27-07-2009,Alm.,6896,6,Villa,145,1800,-9 %
+Øllemosevej 3 4261 Dalmose,3,2500000.0,24-07-2009,Alm.,12500,6,Stuehus,200,1924,-7 %
+Lundsgårdsvej 6 4261 Dalmose,6,305000.0,21-07-2009,Alm.,3244,3,Villa,94,1850,-38 %
+Banevej 22 4261 Dalmose,22,785000.0,02-07-2009,Alm.,8722,4,Villa,90,1875,0 %
+Aadalsvej 95 4261 Dalmose,95,1025000.0,18-05-2009,Alm.,6972,6,Villa,147,1900,-9 %
+Ting Jellinge Vej 19 4261 Dalmose,19,553000.0,13-05-2009,Alm.,7181,4,Villa,77,1914,
+Lundsgårdsvej 7 4261 Dalmose,7,1400000.0,06-05-2009,Alm.,9859,4,Villa,142,1870,-10 %
+Skælskørvej 116 4261 Dalmose,116,675000.0,18-03-2009,Fam.,4655,6,Villa,145,1936,
+Hyllestedvej 20 4261 Dalmose,20,1050000.0,11-03-2009,Alm.,9722,5,Villa,108,1870,-3 %
+Hyllestedvej 23 4261 Dalmose,23,950000.0,16-02-2009,Alm.,2065,8,Stuehus,460,1827,-24 %
+Høvevej 4B 4261 Dalmose,0,600000.0,24-11-2008,Auktion,3726,5,Villa,161,1925,
+Vibevej 7 4261 Dalmose,7,1300000.0,13-10-2008,Alm.,10236,4,Villa,127,1977,
+Hovedgaden 29 4261 Dalmose,29,825000.0,01-10-2008,Alm.,11301,3,Villa,73,1877,0 %
+Stationsvej 43 4261 Dalmose,43,185000.0,30-09-2008,Alm.,1813,5,Villa,102,1923,
+Stationsvej 11 4261 Dalmose,11,860000.0,19-09-2008,Alm.,7350,4,Rækkehus,117,1900,
+Ellekærvej 5 4261 Dalmose,5,1000000.0,05-09-2008,Alm.,5025,7,Stuehus,199,1946,
+Hyllestedvej 34 4261 Dalmose,34,675000.0,22-08-2008,Alm.,4753,7,Villa,142,1850,
+Ørnevej 30 4261 Dalmose,30,1760000.0,26-07-2008,Alm.,14308,4,Villa,123,2000,-1 %
+Hyllestedvej 18 4261 Dalmose,18,1400000.0,14-07-2008,Alm.,6363,5,Villa,220,1897,
+Sorø Landevej 311 4261 Dalmose,311,3495000.0,11-07-2008,Alm.,16105,7,Villa,217,1910,0 %
+Vemmeløsevej 19B 4261 Dalmose,0,173215.0,11-07-2008,Alm.,946,7,Villa,183,1923,
+Lærkevej 4 4261 Dalmose,4,1525000.0,30-06-2008,Alm.,12103,4,Villa,126,1979,-4 %
+Husrækken 10 4261 Dalmose,10,935000.0,20-06-2008,Alm.,5807,5,Villa,161,1949,-2 %
+Skælskørvej 130 4261 Dalmose,130,1111500.0,20-06-2008,Alm.,9262,4,Stuehus,120,1877,
+Tværvej 1 4261 Dalmose,1,720000.0,04-06-2008,Andet,5714,4,Villa,126,1913,
+Maglebjergvej 12 4261 Dalmose,12,2550000.0,02-06-2008,Alm.,10669,7,Villa,239,1907,
+Astersvænget 8 4261 Dalmose,8,605279.0,19-05-2008,Andet,3169,6,Villa,191,1909,
+Sønder Bjergevej 176 4261 Dalmose,176,1450000.0,22-04-2008,Alm.,10069,5,Villa,144,2005,-2 %
+Høvevej 8 4261 Dalmose,8,2200000.0,21-04-2008,Alm.,16417,3,Stuehus,134,1979,
+Hyllestedvej 26 4261 Dalmose,26,1295000.0,01-04-2008,Alm.,10791,4,Villa,120,1923,0 %
+Nyvej 9 4261 Dalmose,9,1650000.0,28-03-2008,Alm.,8593,8,Villa,192,1939,
+Ørnevej 50 4261 Dalmose,50,1300000.0,05-03-2008,Alm.,15116,4,Rækkehus,86,1989,-7 %
+Vibevej 15 4261 Dalmose,15,1770000.0,02-03-2008,Alm.,13308,5,Villa,133,1976,-1 %
+Ørnevej 22 4261 Dalmose,22,1625000.0,29-02-2008,Alm.,14130,5,Villa,115,1998,
+Østervej 7 4261 Dalmose,7,1850000.0,21-01-2008,Alm.,10277,5,Villa,180,1974,-5 %
+Bygaden 16A 4261 Dalmose,0,1395000.0,31-12-2007,Alm.,16220,3,Rækkehus,86,2006,0 %
+Sønder Jellinge Vej 11 4261 Dalmose,11,1050000.0,20-12-2007,Alm.,10606,3,Villa,99,1870,-4 %
+Vemmeløsevej 13A 4261 Dalmose,0,2300000.0,20-12-2007,Alm.,9623,8,Villa,239,1902,
+Sønder Bjergevej 85 4261 Dalmose,85,2375000.0,18-12-2007,Alm.,12500,7,Stuehus,190,1881,
+Enghavevej 18 4261 Dalmose,18,788337.0,09-12-2007,Fam.,6461,4,Villa,122,1800,
+Enghavevej 6 4261 Dalmose,6,300000.0,06-12-2007,Fam.,5084,3,Villa,59,1828,
+Ågårdsvej 6 4261 Dalmose,6,2100000.0,26-11-2007,Alm.,10000,6,Villa,210,1947,
+Banevej 14 4261 Dalmose,14,2550000.0,22-11-2007,Alm.,13144,5,Villa,194,1850,-8 %
+Brambjergvej 10 4261 Dalmose,10,2245000.0,08-11-2007,Alm.,11395,6,Stuehus,197,1926,0 %
+Hovedgaden 5 4261 Dalmose,5,1265000.0,02-11-2007,Alm.,11000,4,Villa,115,1946,
+Marbæksvej 2 4261 Dalmose,2,1200000.0,20-10-2007,Alm.,0,6,Villa,160,1930,
+Sønder Bjergevej 208 4261 Dalmose,208,680000.0,18-10-2007,Alm.,7640,4,Villa,89,1890,
+Hyllestedvej 22 4261 Dalmose,22,1075000.0,27-09-2007,Alm.,9598,5,Villa,112,1963,-10 %
+Sorø Landevej 316 4261 Dalmose,316,1515000.0,22-09-2007,Alm.,11222,4,Stuehus,135,1907,-9 %
+Rosenvænget 1 4261 Dalmose,1,1275000.0,13-09-2007,Alm.,10119,4,Villa,126,1973,
+Aadalsvej 16 4261 Dalmose,16,8440000.0,21-08-2007,Alm.,48505,6,Stuehus,174,1973,
+Aadalsvej 15 4261 Dalmose,15,15655000.0,21-08-2007,Alm.,52009,6,Stuehus,301,1910,
+Flakkebjergvej 13 4261 Dalmose,13,1725000.0,01-08-2007,Alm.,9801,5,Villa,176,1922,-4 %
+Hyllestedvej 51A 4261 Dalmose,0,980000.0,26-07-2007,Alm.,0,6,Villa,174,1920,
+Stationsvej 21 4261 Dalmose,21,995000.0,14-06-2007,Alm.,9045,2,Villa,110,1892,
+Fresiavænget 4 4261 Dalmose,4,1650000.0,12-06-2007,Alm.,10784,9,Villa,153,1973,
+Hyllestedvej 4 4261 Dalmose,4,775000.0,08-06-2007,Alm.,6512,5,Rækkehus,119,1900,
+Vibevej 12 4261 Dalmose,12,1695000.0,06-06-2007,Alm.,14125,4,Villa,120,1977,0 %
+Mosevej 10 4261 Dalmose,10,1245000.0,02-06-2007,Alm.,9431,4,Villa,132,1978,
+Lodsvej 2 4261 Dalmose,2,965000.0,20-05-2007,Alm.,7255,6,Villa,133,1918,0 %
+Rosenvænget 3 4261 Dalmose,3,1225000.0,16-05-2007,Alm.,11666,3,Villa,105,1970,
+Sønder Bjergevej 246 4261 Dalmose,246,950000.0,09-05-2007,Alm.,9895,4,Villa,96,1944,
+Falkevej 46 4261 Dalmose,46,1849000.0,09-05-2007,Alm.,13798,4,Villa,134,1976,
+Stationsvej 19 4261 Dalmose,19,1250000.0,07-05-2007,Alm.,9259,5,Villa,135,1902,
+Skælskørvej 140 4261 Dalmose,140,572079.0,01-05-2007,Fam.,4206,3,Stuehus,136,1862,
+Bygaden 26 4261 Dalmose,26,995000.0,30-04-2007,Alm.,7370,5,Villa,135,1925,
+Venslevvej 7A 4261 Dalmose,0,1195000.0,24-04-2007,Alm.,10575,4,Villa,113,1910,0 %
+Sønder Bjergevej 266 4261 Dalmose,266,1090000.0,15-04-2007,Alm.,11473,3,Villa,95,1949,
+Hovedgaden 65 4261 Dalmose,65,1345000.0,14-04-2007,Alm.,10674,5,Villa,126,1961,
+Marbæksvej 8 4261 Dalmose,8,898000.0,05-04-2007,Alm.,10321,4,Villa,87,1879,
+Stationsvej 1 4261 Dalmose,1,1250000.0,30-03-2007,Alm.,8741,5,Villa,143,1896,
+Mosevej 4 4261 Dalmose,4,1825000.0,26-03-2007,Alm.,10195,7,Villa,179,1962,
+Sønder Bjergevej 224 4261 Dalmose,224,978000.0,18-03-2007,Alm.,7086,3,Villa,138,1890,
+Stationsvej 29 4261 Dalmose,29,560000.0,12-03-2007,Fam.,5333,4,Villa,105,1900,
+Hyllestedvej 5 4261 Dalmose,5,2745000.0,06-03-2007,Alm.,15421,7,Villa,178,1940,
+Ørnevej 54 4261 Dalmose,54,1065000.0,01-03-2007,Alm.,12383,4,Rækkehus,86,1989,
+Lærkevej 22 4261 Dalmose,22,1295000.0,15-02-2007,Alm.,12950,4,Rækkehus,100,1980,
+Vådagervej 5 4261 Dalmose,5,2100000.0,25-01-2007,Fam.,16279,5,Stuehus,129,1930,
+Skælskørvej 112 4261 Dalmose,112,1275000.0,09-01-2007,Alm.,10365,3,Villa,123,1905,0 %
+Skælskørvej 89 4261 Dalmose,89,943480.0,21-12-2006,Andet,7995,6,Villa,118,1934,
+Viaduktvej 4 4261 Dalmose,4,1955000.0,19-12-2006,Alm.,11500,5,Villa,170,1880,
+Østervej 2 4261 Dalmose,2,1900000.0,07-12-2006,Alm.,10857,5,Villa,175,1973,
+Sønder Bjergevej 183 4261 Dalmose,183,325000.0,01-12-2006,Fam.,3037,4,Villa,107,1900,
+Vandværksvej 1 4261 Dalmose,1,1900000.0,17-11-2006,Alm.,8558,7,Villa,222,1880,
+Sønder Bjergevej 187 4261 Dalmose,187,1450000.0,16-11-2006,Alm.,11788,2,Villa,123,1990,
+Lundbyvej 9 4261 Dalmose,9,200000.0,12-11-2006,Fam.,947,4,Stuehus,211,1906,
+Vandværksvej 50 4261 Dalmose,50,1325000.0,03-11-2006,Alm.,9201,4,Stuehus,144,1850,
+Stationsvej 5 4261 Dalmose,5,850000.0,31-10-2006,Alm.,5704,6,Villa,149,1900,
+Sønder Bjergevej 66 4261 Dalmose,66,1750000.0,23-10-2006,Alm.,13461,5,Stuehus,130,1870,
+Lundsgårdsvej 12 4261 Dalmose,12,1495000.0,12-10-2006,Alm.,9462,3,Villa,158,1982,
+Hyllestedvej 58 4261 Dalmose,58,1045000.0,30-09-2006,Alm.,4976,5,Villa,210,1890,
+Venslevvej 20 4261 Dalmose,20,2110000.0,15-09-2006,Alm.,7728,13,Villa,273,1867,
+Mosevej 6 4261 Dalmose,6,1265000.0,12-09-2006,Alm.,8784,4,Villa,144,1966,
+Lundbyvej 16 4261 Dalmose,16,995000.0,11-09-2006,Alm.,9950,4,Villa,100,1877,
+Sønder Bjergevej 109 4261 Dalmose,109,1600000.0,09-09-2006,Alm.,7142,5,Villa,224,1802,
+Falkevej 42 4261 Dalmose,42,1570000.0,30-08-2006,Alm.,11214,3,Villa,140,1975,
+Astersvænget 4 4261 Dalmose,4,1900000.0,28-08-2006,Alm.,9644,7,Villa,197,1972,
+Ørnevej 28 4261 Dalmose,28,1698000.0,22-08-2006,Alm.,13804,4,Villa,123,1999,
+Sønder Bjergevej 234 4261 Dalmose,234,850000.0,14-08-2006,Alm.,7589,5,Villa,112,1890,
+Ørnevej 34 4261 Dalmose,34,2145000.0,07-08-2006,Alm.,13662,5,Villa,157,2002,
+Hyllestedvej 28 4261 Dalmose,28,850000.0,31-07-2006,Alm.,9042,3,Villa,94,1872,
+Sønder Bjergevej 98 4261 Dalmose,98,485000.0,24-07-2006,Andet,3344,5,Villa,145,1917,
+Bygaden 16B 4261 Dalmose,0,1250000.0,06-07-2006,Alm.,14534,3,Rækkehus,86,2006,
+Sorø Landevej 307 4261 Dalmose,307,600000.0,30-06-2006,Alm.,4687,5,Villa,128,1925,
+Marbæksvej 1 4261 Dalmose,1,300000.0,23-06-2006,Alm.,4000,1,Villa,75,1920,
+Hovedgaden 15B 4261 Dalmose,0,895000.0,26-05-2006,Alm.,12260,3,Rækkehus,73,1987,
+Øllemosevej 16 4261 Dalmose,16,1550000.0,03-05-2006,Alm.,9117,7,Villa,170,1800,
+Bygaden 12 4261 Dalmose,12,725000.0,02-05-2006,Alm.,6041,5,Villa,120,1900,
+Skælskørvej 85 4261 Dalmose,85,1750000.0,12-04-2006,Alm.,16203,5,Villa,108,1800,
+Ørnevej 26 4261 Dalmose,26,1798000.0,07-04-2006,Alm.,11600,4,Villa,155,2001,
+Vandværksvej 30 4261 Dalmose,30,995000.0,03-04-2006,Alm.,6218,8,Villa,160,1900,
+Nyvej 31 4261 Dalmose,31,1395000.0,01-04-2006,Alm.,7190,6,Villa,194,1900,
+Hyllestedvej 54 4261 Dalmose,54,675000.0,21-03-2006,Alm.,6367,5,Villa,106,1880,
+Enghavevej 20 4261 Dalmose,20,4231021.0,14-03-2006,Fam.,26117,5,Stuehus,162,1976,
+Enghavevej 2 4261 Dalmose,2,357000.0,15-02-2006,Alm.,3534,3,Villa,101,1878,
+Præstemarken 62 4261 Dalmose,62,1895000.0,13-02-2006,Alm.,7734,7,Stuehus,245,1929,
+Nyvej 8 4261 Dalmose,8,1150000.0,04-02-2006,Alm.,21296,3,Villa,54,1950,
+Lærkevej 8 4261 Dalmose,8,1255000.0,02-02-2006,Alm.,9653,5,Villa,130,1979,
+Kragevej 1 4261 Dalmose,1,2165000.0,12-01-2006,Alm.,10879,12,Villa,199,1837,
+Hovedgaden 11 4261 Dalmose,11,765000.0,05-01-2006,Fam.,4090,6,Villa,187,1912,
+Lundbyvej 4 4261 Dalmose,4,950000.0,15-12-2005,Alm.,8189,5,Villa,116,1979,
+Tværvej 8 4261 Dalmose,8,1675000.0,30-11-2005,Alm.,8589,6,Villa,195,1955,
+Nyvej 33 4261 Dalmose,33,950000.0,28-11-2005,Alm.,0,8,Villa,196,1912,
+Hovedgaden 45 4261 Dalmose,45,1420000.0,08-11-2005,Alm.,5795,24,Engroshandel,245,1960,
+Stationsvej 7 4261 Dalmose,7,675000.0,08-11-2005,Alm.,3110,11,Villa,217,1900,
+Sønder Bjergevej 239 4261 Dalmose,239,995000.0,02-11-2005,Alm.,4288,6,Villa,232,1894,
+Blomstervænget 1 4261 Dalmose,1,1100000.0,26-10-2005,Andet,6470,8,Villa,170,1972,
+Sønder Bjergevej 178 4261 Dalmose,178,960000.0,04-10-2005,Alm.,6530,5,Villa,147,1915,
+Høvevej 19 4261 Dalmose,19,655000.0,22-09-2005,Alm.,6550,3,Villa,100,1925,
+Vemmeløsevej 25 4261 Dalmose,25,695000.0,16-09-2005,Alm.,6495,3,Villa,107,1850,
+Falkevej 2 4261 Dalmose,2,1280000.0,24-08-2005,Alm.,9142,4,Villa,140,1974,
+Kikvej 4 4261 Dalmose,4,1895000.0,17-08-2005,Alm.,8536,7,Villa,222,1951,
+Skælskørvej 118 4261 Dalmose,118,1045000.0,29-07-2005,Alm.,6075,6,Villa,172,1890,
+Jellingevej 8 4261 Dalmose,8,2430000.0,08-06-2005,Alm.,11462,9,Villa,212,1982,
+Hovedgaden 25 4261 Dalmose,25,277126.0,07-06-2005,Alm.,2389,5,Villa,116,1922,
+Orebyvej 108 4261 Dalmose,108,1525000.0,07-06-2005,Alm.,5187,8,Villa,294,1875,
+Ørnevej 62 4261 Dalmose,62,845000.0,02-06-2005,Alm.,9825,4,Rækkehus,86,1989,
+Høvevej 7 4261 Dalmose,7,1105000.0,25-05-2005,Alm.,10523,4,Villa,105,1962,
+Falkevej 30 4261 Dalmose,30,1450000.0,25-05-2005,Alm.,7923,5,Villa,183,1978,
+Vemmeløsevej 24B 4261 Dalmose,0,5600000.0,12-05-2005,Alm.,25112,7,Stuehus,223,1875,
+Øllemosevej 5 4261 Dalmose,5,572731.0,03-05-2005,Andet,3095,5,Villa,185,1897,
+Sønder Bjergevej 138 4261 Dalmose,138,930000.0,25-04-2005,Alm.,5740,5,Stuehus,162,1936,
+Vemmeløsevej 31 4261 Dalmose,31,135000.0,09-04-2005,Alm.,535,6,Stuehus,252,1872,
+Lærkevej 14 4261 Dalmose,14,730000.0,07-04-2005,Fam.,6952,4,Rækkehus,105,1980,
+"Hovedgaden 15A, 1 4261 Dalmose",1,585000.0,23-03-2005,Alm.,6358,4,Lejlighed,92,1904,
+Sønder Bjergevej 189 4261 Dalmose,189,385000.0,18-03-2005,Alm.,0,5,Villa,182,1800,
+Skælskørvej 146 4261 Dalmose,146,1395000.0,03-02-2005,Alm.,9489,5,Villa,147,1966,
+Fresiavænget 1 4261 Dalmose,1,1085000.0,14-01-2005,Alm.,8680,4,Villa,125,1973,
+Falkevej 12 4261 Dalmose,12,1145000.0,11-01-2005,Alm.,8178,4,Villa,140,1975,
+Ørnevej 29 4261 Dalmose,29,651000.0,03-01-2005,Alm.,5292,4,Villa,123,1979,
+Falkevej 8 4261 Dalmose,8,1185000.0,13-12-2004,Alm.,8345,5,Villa,142,1975,
+Lærkevej 24 4261 Dalmose,24,950000.0,08-12-2004,Alm.,9405,4,Rækkehus,101,1980,
+Hovedgaden 13 4261 Dalmose,13,600000.0,01-11-2004,Fam.,4761,4,Villa,126,1917,
+Fresiavænget 8 4261 Dalmose,8,1160000.0,11-10-2004,Alm.,7295,5,Villa,159,1972,
+Kikvej 5 4261 Dalmose,5,1300000.0,04-10-2004,Alm.,0,4,Stuehus,289,1896,
+Sorø Landevej 300 4261 Dalmose,300,8930000.0,04-10-2004,Fam.,24266,12,Stuehus,368,1918,
+Venslevvej 5 4261 Dalmose,5,975000.0,23-09-2004,Alm.,4826,5,Villa,202,1934,
+Sønder Bjergevej 264 4261 Dalmose,264,995000.0,07-09-2004,Alm.,4830,8,Villa,206,1947,
+Hyllestedvej 2 4261 Dalmose,2,1000000.0,26-08-2004,Alm.,7751,4,Rækkehus,129,1911,
+Hovedgaden 49 4261 Dalmose,49,650000.0,02-08-2004,Fam.,4814,5,Villa,135,1910,
+Maglebjergvej 5 4261 Dalmose,5,1600000.0,01-08-2004,Alm.,13913,5,Stuehus,115,1909,
+Mosevej 16 4261 Dalmose,16,441954.0,07-07-2004,Alm.,3682,4,Villa,120,1962,
+Ørnevej 52 4261 Dalmose,52,845000.0,29-06-2004,Alm.,9825,4,Rækkehus,86,1989,
+Nyvej 17 4261 Dalmose,17,850000.0,24-06-2004,Alm.,8333,4,Villa,102,1961,
+Lundbyvej 11 4261 Dalmose,11,9800000.0,06-06-2004,Alm.,53551,7,Stuehus,183,1798,
+Tårsgårdsvej 60 4261 Dalmose,60,118500.0,28-05-2004,Alm.,1048,4,Stuehus,113,1911,
+Hyllestedvej 38 4261 Dalmose,38,565000.0,15-05-2004,Alm.,10089,2,Villa,56,1871,
+Ørnevej 9 4261 Dalmose,9,1175000.0,10-05-2004,Alm.,8576,5,Villa,137,1978,
+Hyllestedvej 48 4261 Dalmose,48,611541.0,10-05-2004,Alm.,7029,3,Villa,87,1910,
+Skælskørvej 136 4261 Dalmose,136,2580000.0,03-05-2004,Alm.,9214,11,Villa,280,1875,
+Vibevej 10 4261 Dalmose,10,1180000.0,02-05-2004,Alm.,8194,4,Villa,144,1975,
+Præstemarken 60 4261 Dalmose,60,1335000.0,23-04-2004,Alm.,0,6,Villa,242,1929,
+Lundbyvej 5B 4261 Dalmose,0,571309.0,21-04-2004,Alm.,1503,12,Villa,380,2007,
+Falkevej 10 4261 Dalmose,10,1195000.0,07-04-2004,Alm.,8722,5,Villa,137,1973,
+Engvej 7 4261 Dalmose,7,745000.0,22-03-2004,Alm.,7095,4,Villa,105,1885,
+Kikvej 2 4261 Dalmose,2,2558000.0,22-03-2004,Alm.,17520,5,Stuehus,146,1900,
+Sorø Landevej 320 4261 Dalmose,320,544000.0,22-03-2004,Fam.,7253,4,Stuehus,75,1905,
+Engvej 15 4261 Dalmose,15,255794.0,22-01-2004,Alm.,0,3,Villa,91,1945,
+Aadalsvej 20 4261 Dalmose,20,545000.0,15-01-2004,Alm.,3949,5,Villa,138,1900,
+Hovedgaden 28 4261 Dalmose,28,620320.0,12-01-2004,Alm.,5852,5,Villa,106,1900,
+Lodsvej 6 4261 Dalmose,6,984670.0,27-11-2003,Alm.,4948,6,Villa,199,1920,
+Hovedgaden 15C 4261 Dalmose,0,600000.0,22-11-2003,Fam.,10169,2,Rækkehus,59,1987,
+Hovedgaden 21 4261 Dalmose,21,395524.0,09-11-2003,Fam.,2260,7,Villa,175,1954,
+Banevej 12 4261 Dalmose,12,1062000.0,14-10-2003,Fam.,9234,8,Stuehus,115,1870,
+Mosevej 17 4261 Dalmose,17,714000.0,26-09-2003,Fam.,0,6,Villa,176,1964,
+Hyllestedvej 56 4261 Dalmose,56,1150000.0,05-09-2003,Alm.,0,10,Stuehus,278,1900,
+Hovedgaden 71 4261 Dalmose,71,730000.0,29-08-2003,Fam.,6576,6,Villa,111,1922,
+Bygaden 15 4261 Dalmose,15,500000.0,23-08-2003,Alm.,3521,3,Villa,142,1930,
+Hovedgaden 46 4261 Dalmose,46,325000.0,03-07-2003,Alm.,2500,6,Villa,130,1940,
+Mosevej 15 4261 Dalmose,15,795736.0,28-05-2003,Alm.,0,4,Villa,130,1964,
+Jellingevej 7 4261 Dalmose,7,5500000.0,20-05-2003,Fam.,21153,7,Stuehus,260,1920,
+Enghavevej 14 4261 Dalmose,14,665000.0,19-05-2003,Alm.,0,5,Villa,125,1910,
+Bygaden 30 4261 Dalmose,30,1650000.0,11-05-2003,Alm.,5305,10,Villa,311,1857,
+Ørnevej 24 4261 Dalmose,24,1000000.0,02-04-2003,Alm.,0,5,Villa,174,1998,
+Falkevej 28 4261 Dalmose,28,1095000.0,31-03-2003,Alm.,6596,5,Villa,166,1976,
+Vibevej 11 4261 Dalmose,11,925000.0,27-02-2003,Alm.,7170,5,Villa,129,1977,
+Liljevænget 11 4261 Dalmose,11,830000.0,29-01-2003,Alm.,6384,4,Villa,130,1970,
+Hovedgaden 53 4261 Dalmose,53,565000.0,03-12-2002,Alm.,5136,3,Villa,110,1928,
+Lodsvej 4 4261 Dalmose,4,940000.0,18-11-2002,Alm.,0,5,Villa,140,1919,
+Hyllestedvej 47 4261 Dalmose,47,425000.0,15-11-2002,Fam.,4775,4,Villa,89,1869,
+Ørnevej 56 4261 Dalmose,56,685000.0,04-11-2002,Alm.,7965,4,Rækkehus,86,1989,
+Tværvej 14 4261 Dalmose,14,626210.0,10-10-2002,Alm.,0,2,Villa,111,1919,
+Bygaden 3 4261 Dalmose,3,707056.0,23-09-2002,Alm.,6931,4,Villa,102,1880,
+Brambjergvej 40 4261 Dalmose,40,765000.0,09-09-2002,Alm.,5708,6,Stuehus,134,1830,
+Østervej 1 4261 Dalmose,1,980000.0,29-08-2002,Alm.,7259,5,Villa,135,1973,
+Banevej 2 4261 Dalmose,2,931238.0,19-08-2002,Alm.,5088,3,Villa,183,1886,
+Skælskørvej 124 4261 Dalmose,124,575000.0,15-08-2002,Alm.,4752,4,Villa,121,1907,
+Falkevej 38 4261 Dalmose,38,1135000.0,15-08-2002,Alm.,6837,6,Villa,166,1979,
+Gartnerhaven 7 4261 Dalmose,7,725773.0,02-07-2002,Alm.,6978,4,Rækkehus,104,1979,
+Vibevej 25 4261 Dalmose,25,773995.0,01-07-2002,Fam.,5999,5,Villa,129,1977,
+Lundbyvej 20 4261 Dalmose,20,550000.0,07-06-2002,Alm.,3273,6,Villa,168,1880,
+Lærkevej 2 4261 Dalmose,2,900000.0,23-03-2002,Alm.,6521,4,Villa,138,1979,
+Lundbyvej 12 4261 Dalmose,12,5200000.0,05-03-2002,Alm.,0,10,Stuehus,254,1914,
+Venslevvej 7B 4261 Dalmose,0,525000.0,19-02-2002,Alm.,6034,3,Villa,87,1800,
+Rosenvænget 9 4261 Dalmose,9,118360.0,15-02-2002,Alm.,574,5,Villa,206,1971,
+Åvej 2 4261 Dalmose,2,100000.0,29-11-2001,Alm.,0,4,Villa,119,1877,
+Fresiavænget 3 4261 Dalmose,3,780000.0,26-11-2001,Alm.,7090,5,Villa,110,1972,
+Tværvej 9 4261 Dalmose,9,548223.0,16-11-2001,Alm.,0,4,Villa,109,1925,
+Kærvej 4 4261 Dalmose,4,350000.0,07-11-2001,Alm.,0,5,Villa,192,1800,
+Mosevej 12 4261 Dalmose,12,790753.0,01-11-2001,Alm.,6589,4,Villa,120,1962,
+Jellingevej 4 4261 Dalmose,4,652987.0,25-09-2001,Alm.,0,7,Villa,174,1850,
+Øllemosevej 1 4261 Dalmose,1,629102.0,25-09-2001,Alm.,8987,3,Villa,70,1941,
+Banevej 15 4261 Dalmose,15,1298000.0,22-09-2001,Alm.,6867,5,Villa,189,1777,
+Orebyvej 110B 4261 Dalmose,0,528000.0,10-09-2001,Alm.,2640,6,Villa,200,1870,
+Sønder Jellinge Vej 10 4261 Dalmose,10,519896.0,28-08-2001,Alm.,7534,3,Villa,69,1800,
+Sønder Bjergevej 126 4261 Dalmose,126,2000000.0,12-07-2001,Alm.,11560,6,Stuehus,173,1930,
+Bygaden 1 4261 Dalmose,1,1215000.0,22-06-2001,Alm.,3670,3,Villa,331,1910,
+Orebyvej 131 4261 Dalmose,131,488460.0,29-05-2001,Alm.,4608,2,Villa,106,1900,
+Husrækken 4 4261 Dalmose,4,815000.0,14-05-2001,Alm.,9476,4,Villa,86,1903,
+Ørnevej 16 4261 Dalmose,16,1020343.0,14-05-2001,Alm.,8228,4,Villa,124,1998,
+Sønder Jellinge Vej 5 4261 Dalmose,5,1394000.0,10-05-2001,Alm.,6060,8,Stuehus,230,1800,
+Nyvej 18 4261 Dalmose,18,910333.0,17-04-2001,Alm.,5386,6,Villa,169,1909,
+Tværvej 4 4261 Dalmose,4,625000.0,21-03-2001,Alm.,5296,5,Villa,118,1903,
+Hyllestedvej 9 4261 Dalmose,9,1325399.0,02-03-2001,Alm.,8283,6,Stuehus,160,1927,
+Hovedgaden 26 4261 Dalmose,26,340000.0,22-02-2001,Fam.,3300,7,Villa,103,1900,
+Lundbyvej 5A 4261 Dalmose,0,750000.0,05-02-2001,Alm.,5813,3,Villa,129,1974,
+Sønder Bjergevej 180 4261 Dalmose,180,865000.0,19-01-2001,Alm.,5924,4,Villa,146,1800,
+Præstemarksvej 3 4261 Dalmose,3,1450000.0,15-12-2000,Auktion,0,5,Stuehus,230,1922,
+Ørnevej 32 4261 Dalmose,32,1100000.0,15-12-2000,Alm.,8593,4,Villa,128,2001,
+Nyvej 23 4261 Dalmose,23,875000.0,28-11-2000,Alm.,6118,3,Villa,143,1921,
+Hyllestedvej 40 4261 Dalmose,40,440687.0,15-11-2000,Alm.,4896,4,Villa,90,1898,
+Ørnevej 4 4261 Dalmose,4,246550.0,10-11-2000,Andet,1882,4,Villa,131,1999,
+Banevej 11 4261 Dalmose,11,150000.0,15-09-2000,Alm.,588,6,Stuehus,255,1886,
+Skælskørvej 144 4261 Dalmose,144,697000.0,08-09-2000,Alm.,5014,4,Villa,139,1930,
+Sønder Bjergevej 230 4261 Dalmose,230,463533.0,07-08-2000,Alm.,4030,3,Villa,115,1870,
+Banevej 13 4261 Dalmose,13,592044.0,17-07-2000,Alm.,6435,4,Villa,92,1857,
+Vibevej 13 4261 Dalmose,13,945000.0,14-07-2000,Alm.,7052,5,Villa,134,1977,
+Husrækken 8 4261 Dalmose,8,647749.0,03-06-2000,Alm.,4693,3,Villa,138,1942,
+Ørnevej 20 4261 Dalmose,20,890806.0,08-05-2000,Alm.,6598,6,Villa,135,1990,
+Viaduktvej 103 4261 Dalmose,103,817296.0,27-03-2000,Alm.,6868,4,Villa,119,1944,
+Falkevej 20 4261 Dalmose,20,950000.0,08-02-2000,Alm.,6785,5,Villa,140,1976,
+Lundbyvej 2 4261 Dalmose,2,475000.0,24-01-2000,Alm.,4318,4,Villa,110,1730,
+Hovedgaden 36 4261 Dalmose,36,650000.0,18-01-2000,Alm.,5909,4,Villa,110,1927,
+Brambjergvej 50 4261 Dalmose,50,1035000.0,27-12-1999,Fam.,7392,6,Stuehus,140,1910,
+Vemmeløsevej 27 4261 Dalmose,27,316600.0,07-12-1999,Alm.,0,5,Villa,90,1880,
+Nyvej 1 4261 Dalmose,1,252427.0,01-12-1999,Andet,0,4,Villa,120,1935,
+Venslevvej 9 4261 Dalmose,9,426426.0,02-11-1999,Alm.,0,5,Villa,106,1916,
+Stationsvej 20 4261 Dalmose,20,300000.0,20-10-1999,Alm.,1840,6,Villa,163,1919,
+Næstved Landevej 404 4261 Dalmose,404,390000.0,20-10-1999,Alm.,2826,5,Stuehus,138,1912,
+Hyllestedvej 10 4261 Dalmose,10,329945.0,18-10-1999,Alm.,0,6,Villa,167,1892,
+Ørnevej 11 4261 Dalmose,11,892962.0,12-10-1999,Alm.,6764,5,Villa,132,1979,
+Aadalsvej 85 4261 Dalmose,85,875000.0,15-09-1999,Alm.,6161,5,Stuehus,142,1910,
+Vibevej 1 4261 Dalmose,1,904994.0,03-09-1999,Alm.,6464,5,Villa,140,1976,
+Ørnevej 72 4261 Dalmose,72,287000.0,27-08-1999,Andet,2682,3,Rækkehus,107,1989,
+Sorø Landevej 319 4261 Dalmose,319,598000.0,24-08-1999,Alm.,3934,5,Villa,152,1916,
+Bygaden 8 4261 Dalmose,8,180000.0,31-07-1999,Alm.,1747,4,Villa,103,1930,
+Pilevej 6 4261 Dalmose,6,618181.0,09-07-1999,Andet,4985,3,Stuehus,124,1877,
+Ting Jellinge Vej 17 4261 Dalmose,17,959000.0,25-06-1999,Alm.,5448,5,Villa,176,1856,
+Lundsgårdsvej 10B 4261 Dalmose,0,145000.0,17-06-1999,Alm.,1380,3,Villa,105,1943,
+Stationsvej 23 4261 Dalmose,23,345556.0,04-06-1999,Alm.,0,4,Villa,133,1898,
+Orebyvej 112 4261 Dalmose,112,438309.0,22-05-1999,Alm.,0,7,Villa,169,1930,
+Sønder Jellinge Vej 1 4261 Dalmose,1,895108.0,11-05-1999,Alm.,5424,6,Villa,165,1932,
+Ørnevej 5 4261 Dalmose,5,714260.0,28-04-1999,Alm.,6934,4,Villa,103,1979,
+Engvej 5 4261 Dalmose,5,840159.0,27-04-1999,Alm.,3256,7,Villa,258,1972,
+Præstemarken 52 4261 Dalmose,52,940200.0,12-04-1999,Alm.,8547,4,Stuehus,110,1929,
+Bygaden 14 4261 Dalmose,14,320861.0,03-04-1999,Alm.,3208,4,Villa,100,1875,
+Hovedgaden 17 4261 Dalmose,17,300016.0,09-03-1999,Alm.,4477,2,Lejlighed,67,1904,
+Industrivej 9 4261 Dalmose,9,782613.0,02-03-1999,Alm.,5287,5,Villa,148,1981,
+Vandværksvej 13 4261 Dalmose,13,65000.0,12-02-1999,Alm.,928,3,Villa,70,1887,
+Sorø Landevej 304 4261 Dalmose,304,2890000.0,30-12-1998,Fam.,14029,7,Stuehus,206,1966,
+Venslevvej 15 4261 Dalmose,15,464968.0,29-12-1998,Alm.,0,4,Villa,153,1900,
+Skælskørvej 122 4261 Dalmose,122,760000.0,23-12-1998,Alm.,5984,6,Stuehus,127,1890,
+Bygaden 22 4261 Dalmose,22,542200.0,09-11-1998,Alm.,3845,4,Villa,141,1900,
+Hyllestedvej 19 4261 Dalmose,19,790440.0,17-09-1998,Alm.,6995,4,Villa,113,1900,
+Husrækken 2 4261 Dalmose,2,210000.0,14-08-1998,Alm.,0,4,Villa,130,1870,
+Hyllestedvej 15 4261 Dalmose,15,1206000.0,20-07-1998,Alm.,2610,13,Villa,462,1953,
+Sønder Bjergevej 236 4261 Dalmose,236,500000.0,30-06-1998,Alm.,3703,3,Villa,135,1965,
+Skælskørvej 120 4261 Dalmose,120,387000.0,17-06-1998,Alm.,3198,4,Villa,121,1900,
+Nyvej 12 4261 Dalmose,12,420000.0,16-04-1998,Alm.,2978,5,Villa,141,1933,
+Lundsgårdsvej 3 4261 Dalmose,3,830000.0,07-04-1998,Alm.,0,5,Stuehus,145,1925,
+Høvevej 14 4261 Dalmose,14,924701.0,24-03-1998,Alm.,5673,6,Villa,163,1890,
+Hyllestedvej 21 4261 Dalmose,21,1292000.0,20-03-1998,Alm.,6460,6,Stuehus,200,1860,
+Ørnevej 58 4261 Dalmose,58,501000.0,14-03-1998,Alm.,0,4,Rækkehus,86,1989,
+Vibevej 19 4261 Dalmose,19,700000.0,07-03-1998,Alm.,5426,5,Villa,129,1978,
+"Hovedgaden 24, 1 4261 Dalmose",1,700000.0,22-02-1998,Fam.,5468,5,Lejlighed,128,1899,
+Hyllestedvej 6 4261 Dalmose,6,935000.0,30-12-1997,Fam.,6032,6,Stuehus,155,1934,
+Ørnevej 21 4261 Dalmose,21,772731.0,03-11-1997,Alm.,5990,4,Villa,129,1979,
+Stationsvej 17 4261 Dalmose,17,700554.0,28-10-1997,Alm.,4933,6,Villa,142,1900,
+Skælskørvej 97 4261 Dalmose,97,615000.0,20-10-1997,Alm.,3867,7,Villa,159,1927,
+Ørnevej 12 4261 Dalmose,12,910000.0,09-10-1997,Alm.,6026,5,Villa,151,1997,
+Orebyvej 133 4261 Dalmose,133,365000.0,25-09-1997,Fam.,2225,6,Villa,164,1918,
+Sønder Bjergevej 181 4261 Dalmose,181,463466.0,23-08-1997,Alm.,0,9,Villa,154,1922,
+Østervej 8 4261 Dalmose,8,794700.0,15-08-1997,Alm.,4674,4,Villa,170,1973,
+Stationsvej 41 4261 Dalmose,41,1111420.0,17-07-1997,Alm.,4729,9,Villa,235,1917,
+Vemmeløsevej 12 4261 Dalmose,12,381000.0,25-06-1997,Alm.,0,5,Villa,202,1910,
+Næstved Landevej 408 4261 Dalmose,408,740000.0,20-06-1997,Alm.,6607,5,Stuehus,112,1935,
+Sønder Jellinge Vej 8 4261 Dalmose,8,438000.0,18-06-1997,Alm.,4211,5,Villa,104,1914,
+Falkevej 16 4261 Dalmose,16,770000.0,28-05-1997,Alm.,5460,5,Villa,141,1975,
+Sønder Jellinge Vej 12 4261 Dalmose,12,1900000.0,21-04-1997,Alm.,13194,6,Stuehus,144,1924,
+Vibevej 14 4261 Dalmose,14,692000.0,02-04-1997,Alm.,4552,5,Villa,152,1974,
+Ørnevej 10 4261 Dalmose,10,559000.0,02-04-1997,Alm.,0,4,Villa,122,1982,
+Rosenvænget 5 4261 Dalmose,5,480000.0,26-03-1997,Alm.,4444,3,Villa,108,1970,
+Ørnevej 18 4261 Dalmose,18,40000.0,03-01-1997,Alm.,197,8,Villa,203,1998,
+Kærvej 6 4261 Dalmose,6,209400.0,03-01-1997,Alm.,3490,3,Villa,60,1850,
+Hovedgaden 67 4261 Dalmose,67,495000.0,13-11-1996,Alm.,4500,7,Villa,110,1910,
+Enghavevej 16 4261 Dalmose,16,380000.0,14-10-1996,Alm.,3454,5,Villa,110,1939,
+Vemmeløsevej 17 4261 Dalmose,17,30000.0,28-09-1996,Alm.,163,7,Stuehus,183,1912,
+Sønder Bjergevej 91 4261 Dalmose,91,512000.0,30-08-1996,Alm.,2337,6,Stuehus,219,1907,
+Husrækken 12 4261 Dalmose,12,212500.0,16-08-1996,Alm.,2992,3,Villa,71,1800,
+Banevej 30 4261 Dalmose,30,1250000.0,12-08-1996,Alm.,6510,7,Stuehus,192,1888,
+Ørnevej 6 4261 Dalmose,6,36150.0,23-07-1996,Alm.,237,5,Villa,152,1998,
+Høvevej 18 4261 Dalmose,18,803000.0,04-07-1996,Fam.,3506,9,Stuehus,229,1930,
+Tværvej 10 4261 Dalmose,10,285000.0,02-07-1996,Alm.,3562,2,Villa,80,1927,
+Hyllestedvej 27 4261 Dalmose,27,307000.0,29-06-1996,Alm.,2790,2,Villa,110,1800,
+Åvej 10 4261 Dalmose,10,320000.0,29-06-1996,Alm.,3678,4,Sommerhus,87,1910,
+Nyvej 5A 4261 Dalmose,0,414000.0,30-05-1996,Alm.,5914,3,Rækkehus,70,1983,
+Præstemarken 44 4261 Dalmose,44,600000.0,20-05-1996,Alm.,3703,6,Stuehus,162,1929,
+Ørnevej 8 4261 Dalmose,8,588340.0,09-05-1996,Alm.,0,6,Villa,178,1982,
+Høvevej 11 4261 Dalmose,11,860000.0,24-04-1996,Alm.,0,9,Stuehus,320,1905,
+Orebyvej 129 4261 Dalmose,129,400000.0,22-04-1996,Fam.,2816,6,Villa,142,1895,
+Skælskørvej 138 4261 Dalmose,138,821000.0,22-04-1996,Alm.,7463,4,Stuehus,110,1800,
+Vibevej 18 4261 Dalmose,18,625000.0,30-03-1996,Alm.,4844,5,Villa,129,1977,
+Venslevvej 3B 4261 Dalmose,0,183000.0,29-03-1996,Alm.,0,4,Villa,127,1902,
+Skælskørvej 103 4261 Dalmose,103,308000.0,12-03-1996,Fam.,1913,5,Stuehus,161,1900,
+Sønder Bjergevej 169 4261 Dalmose,169,1198500.0,03-03-1996,Fam.,5707,7,Stuehus,210,1948,
+Maglebjergvej 4 4261 Dalmose,4,746760.0,15-02-1996,Alm.,0,7,Villa,244,1910,
+Enghavevej 22 4261 Dalmose,22,300000.0,01-01-1996,Alm.,3030,3,Stuehus,99,1927,
+Hovedgaden 32 4261 Dalmose,32,225000.0,20-12-1995,Alm.,0,3,Villa,133,1898,
+Venslevvej 21 4261 Dalmose,21,529420.0,18-11-1995,Alm.,3042,6,Villa,174,1900,
+Vådagervej 3 4261 Dalmose,3,372000.0,27-10-1995,Alm.,4133,3,Villa,90,1959,
+Mosevej 2 4261 Dalmose,2,695000.0,26-10-1995,Alm.,3797,7,Villa,183,1962,
+Venslevvej 12 4261 Dalmose,12,195150.0,28-07-1995,Alm.,2828,3,Villa,69,1890,
+Skælskørvej 114 4261 Dalmose,114,350000.0,26-06-1995,Alm.,2966,3,Villa,118,1900,
+Østervej 11 4261 Dalmose,11,514000.0,15-06-1995,Alm.,3984,4,Villa,129,1975,
+Bygaden 10 4261 Dalmose,10,345000.0,08-05-1995,Alm.,3670,5,Villa,94,1877,
+Vandværksvej 9 4261 Dalmose,9,124000.0,24-04-1995,Alm.,2137,2,Villa,58,1905,
+Østervej 10 4261 Dalmose,10,480000.0,30-01-1995,Alm.,4000,5,Villa,120,1976,
+Kragevej 3 4261 Dalmose,3,1657500.0,01-01-1995,Fam.,5983,6,Stuehus,277,2007,
+Lundbyvej 7 4261 Dalmose,7,523100.0,12-12-1994,Alm.,2955,5,Villa,177,1893,
+Næstved Landevej 406 4261 Dalmose,406,463600.0,12-12-1994,Alm.,5390,2,Stuehus,86,1900,
+Ørnevej 27 4261 Dalmose,27,525000.0,16-10-1994,Alm.,0,5,Villa,132,1978,
+Hovedgaden 23 4261 Dalmose,23,375994.0,12-09-1994,Andet,0,5,Villa,130,1924,
+Sønder Jellinge Vej 3 4261 Dalmose,3,802400.0,29-08-1994,Alm.,4665,7,Stuehus,172,1934,
+Ørnevej 19 4261 Dalmose,19,592905.0,02-07-1994,Alm.,4820,4,Villa,123,1979,
+Hyllestedvej 11 4261 Dalmose,11,455000.0,14-06-1994,Alm.,0,5,Stuehus,125,1927,
+Maglebjergvej 6 4261 Dalmose,6,350400.0,27-04-1994,Alm.,2037,6,Villa,172,1908,
+Ørnevej 23 4261 Dalmose,23,538835.0,22-03-1994,Alm.,4082,5,Villa,132,1979,
+Sønder Bjergevej 226 4261 Dalmose,226,300000.0,07-03-1994,Alm.,2752,5,Villa,109,1925,
+Falkevej 40 4261 Dalmose,40,542200.0,24-02-1994,Alm.,4518,4,Villa,120,1977,
+Aadalsvej 3 4261 Dalmose,3,190000.0,19-02-1994,Alm.,1357,3,Villa,140,1910,
+Vemmeløsevej 16 4261 Dalmose,16,1126000.0,17-02-1994,Alm.,7985,3,Stuehus,141,1914,
+Vibevej 21 4261 Dalmose,21,640000.0,15-02-1994,Alm.,2935,6,Villa,218,1977,
+Bygaden 5C 4261 Dalmose,0,575000.0,14-02-1994,Alm.,4227,4,Villa,136,1981,
+Sønder Bjergevej 220 4261 Dalmose,220,136000.0,17-01-1994,Auktion,1182,5,Villa,115,1907,
+Tværvej 12 4261 Dalmose,12,130000.0,09-11-1993,Auktion,1300,5,Villa,100,1930,
+Viaduktvej 6 4261 Dalmose,6,1350000.0,30-10-1993,Fam.,9310,5,Stuehus,145,1892,
+Sønder Bjergevej 191 4261 Dalmose,191,275000.0,25-10-1993,Alm.,1697,7,Villa,162,1936,
+Venslevvej 16 4261 Dalmose,16,255000.0,20-09-1993,Alm.,1517,5,Stuehus,168,1909,
+Flakkebjergvej 6 4261 Dalmose,6,420000.0,12-08-1993,Alm.,5121,4,Villa,82,1936,
+Jellingevej 11 4261 Dalmose,11,625000.0,08-07-1993,Alm.,3834,5,Villa,163,1963,
+Maglebjergvej 1 4261 Dalmose,1,1275000.0,07-07-1993,Fam.,10039,4,Stuehus,127,1807,
+Tværvej 5 4261 Dalmose,5,234350.0,04-06-1993,Alm.,4339,2,Villa,54,1952,
+Sønder Bjergevej 214 4261 Dalmose,214,548000.0,02-06-1993,Alm.,3261,7,Villa,168,1900,
+Bygaden 25 4261 Dalmose,25,428750.0,04-05-1993,Alm.,2784,5,Villa,154,1730,
+Præstemarken 39 4261 Dalmose,39,400000.0,26-04-1993,Alm.,2094,7,Stuehus,191,1900,
+Vemmeløsevej 30 4261 Dalmose,30,250000.0,16-04-1993,Alm.,0,8,Villa,302,1877,
+Hyllestedvej 46 4261 Dalmose,46,200000.0,30-03-1993,Alm.,2197,3,Villa,91,1897,
+Hovedgaden 55 4261 Dalmose,55,370000.0,15-02-1993,Alm.,2387,6,Villa,155,1928,
+Høvevej 4A 4261 Dalmose,0,618226.0,07-02-1993,Alm.,3532,5,Villa,175,1980,
+Bygaden 29 4261 Dalmose,29,2650000.0,01-02-1993,Alm.,10474,6,Stuehus,253,1897,
+Sønder Bjergevej 192 4261 Dalmose,192,430000.0,29-01-1993,Alm.,2756,5,Villa,156,1920,
+Rosenvænget 2 4261 Dalmose,2,665000.0,06-01-1993,Alm.,0,4,Villa,170,1970,
+Lærkevej 12 4261 Dalmose,12,271855.0,10-11-1992,Alm.,2589,4,Rækkehus,105,1980,
+Sønder Bjergevej 115 4261 Dalmose,115,879900.0,09-11-1992,Alm.,7095,5,Stuehus,124,1936,
+Vibevej 6 4261 Dalmose,6,460000.0,01-10-1992,Alm.,3650,4,Villa,126,1977,
+Venslevvej 19 4261 Dalmose,19,531000.0,30-09-1992,Alm.,0,5,Stuehus,152,1887,
+Maglebjergvej 2 4261 Dalmose,2,505000.0,02-09-1992,Alm.,0,5,Stuehus,210,1907,
+Sønder Bjergevej 252 4261 Dalmose,252,129975.0,31-08-1992,Alm.,855,6,Villa,152,1925,
+Astersvænget 2 4261 Dalmose,2,570000.0,28-08-1992,Alm.,4596,3,Villa,124,1972,
+Vemmeløsevej 20 4261 Dalmose,20,1000000.0,28-08-1992,Alm.,4716,6,Stuehus,212,1929,
+Høvevej 2B 4261 Dalmose,0,149817.0,24-08-1992,Alm.,1198,4,Villa,125,1920,
+Sorø Landevej 318 4261 Dalmose,318,487500.0,18-05-1992,Fam.,3779,5,Villa,129,1938,
+Stationsvej 18 4261 Dalmose,18,450000.0,18-05-1992,Fam.,0,5,Villa,122,1964,
+Hovedgaden 61 4261 Dalmose,61,525000.0,06-05-1992,Alm.,3052,8,Villa,172,1962,
+Aadalsvej 5 4261 Dalmose,5,476000.0,06-05-1992,Fam.,4175,5,Villa,114,1900,
+Violvænget 5 4261 Dalmose,5,475000.0,05-03-1992,Alm.,3442,4,Villa,138,1976,
+Stationsvej 15 4261 Dalmose,15,75000.0,17-02-1992,Alm.,0,3,Villa,101,1916,
+Mosevej 3 4261 Dalmose,3,669015.0,15-02-1992,Alm.,3484,5,Villa,192,1969,
+Høvevej 17 4261 Dalmose,17,325000.0,16-01-1992,Alm.,0,0,Grund,0,0,

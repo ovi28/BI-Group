@@ -1,0 +1,1406 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Kirkegade 4 7790 Thyholm,4,300000.0,29-04-2017,Alm.,2362,5,Villa,127,1980,
+Agertoften 5 7790 Thyholm,5,500000.0,25-04-2017,Alm.,6578,4,Sommerhus,76,1974,-16 %
+Søndervænget 12 7790 Thyholm,12,408000.0,03-04-2017,Fam.,3777,5,Villa,108,1969,
+Skovstien 31 7790 Thyholm,31,600000.0,29-03-2017,Fam.,4347,6,Sommerhus,138,1972,-33 %
+Hamletsvej 10 7790 Thyholm,10,187000.0,27-03-2017,Alm.,2561,4,Sommerhus,73,1962,
+Baldersvej 2 7790 Thyholm,2,390000.0,27-03-2017,Alm.,7222,3,Sommerhus,54,1962,-21 %
+Kongevejen 23 7790 Thyholm,23,193007.0,21-03-2017,Fam.,1206,6,Villa,160,1973,
+Vesterfjordsvej 5A 7790 Thyholm,0,675000.0,20-03-2017,Andet,4017,7,Villa,168,2003,
+"Ålkærvej 29, 1 7790 Thyholm",1,995000.0,17-03-2017,Alm.,3015,5,Villa,330,1901,0 %
+Hellerødvej 5 7790 Thyholm,5,2647000.0,16-03-2017,Alm.,16042,7,Stuehus,165,1916,
+Tambobakken 10 7790 Thyholm,10,750000.0,13-03-2017,Alm.,7894,3,Villa,95,1993,
+Tambobakken 8 7790 Thyholm,8,750000.0,13-03-2017,Alm.,7894,4,Villa,95,1993,
+Mellemvej 7 7790 Thyholm,7,565000.0,01-03-2017,Alm.,3766,5,Villa,150,1928,-5 %
+Aavej 1 7790 Thyholm,1,381000.0,28-02-2017,Alm.,2241,7,Villa,170,1873,
+Søndbjerg Strandvej 10 7790 Thyholm,10,25000.0,13-02-2017,Alm.,221,4,Villa,113,1911,-94 %
+Ballevej 5 7790 Thyholm,5,50000.0,13-02-2017,Alm.,471,5,Villa,106,1875,-90 %
+Søndbjerg Strandvej 4 7790 Thyholm,4,25000.0,13-02-2017,Alm.,211,4,Villa,118,1917,-94 %
+Havnevej 3 7790 Thyholm,3,375000.0,12-02-2017,Alm.,2329,7,Villa,161,1965,-13 %
+Dagmarsvej 7 7790 Thyholm,7,425000.0,08-02-2017,Alm.,5592,3,Sommerhus,76,1959,-14 %
+Mærkedalsvej 3 7790 Thyholm,3,2795000.0,06-02-2017,Alm.,30714,3,Stuehus,91,1862,
+Lærkevej 8 7790 Thyholm,8,1355000.0,29-01-2017,Alm.,12783,4,Sommerhus,106,2009,-8 %
+Hindselsvej 9 7790 Thyholm,9,110000.0,27-01-2017,Alm.,1170,4,Stuehus,94,1890,-63 %
+Fasanvej 5 7790 Thyholm,5,489000.0,26-01-2017,Alm.,3304,6,Villa,148,1973,-18 %
+Frejasvej 17 7790 Thyholm,17,1900000.0,23-01-2017,Alm.,17924,5,Sommerhus,106,1991,
+Bjørndalvej 1 7790 Thyholm,1,545000.0,23-01-2017,Alm.,1981,8,Villa,275,1916,-16 %
+Valmuevej 21 7790 Thyholm,21,450000.0,16-01-2017,Alm.,4090,4,Villa,110,2009,-53 %
+Fjordstien 4 7790 Thyholm,4,250000.0,13-01-2017,Fam.,3787,3,Sommerhus,66,1968,-64 %
+Trinoddevej 3 7790 Thyholm,3,316000.0,10-01-2017,Alm.,1580,5,Stuehus,200,1900,
+Trinoddevej 6 7790 Thyholm,6,2022400.0,10-01-2017,Alm.,9406,10,Stuehus,215,1915,
+Bjørndalvej 4 7790 Thyholm,4,50000.0,05-01-2017,Alm.,390,5,Villa,128,1897,
+Mellemvej 4 7790 Thyholm,4,188200.0,05-01-2017,Auktion,807,9,Stuehus,233,1900,
+Grøndalvej 22 7790 Thyholm,22,2090000.0,02-01-2017,Alm.,9288,7,Stuehus,225,1938,-22 %
+Gl Landevej 9 7790 Thyholm,9,4750000.0,22-12-2016,Alm.,31250,4,Stuehus,152,2003,-5 %
+Tambogade 6 7790 Thyholm,6,1050000.0,09-12-2016,Alm.,7142,4,Villa,147,1907,-34 %
+Fjordglimt 5 7790 Thyholm,5,259736.0,02-12-2016,Fam.,2885,3,Villa,90,1967,
+Tambogade 7 7790 Thyholm,7,300000.0,30-11-2016,Alm.,2097,5,Villa,143,1940,-29 %
+Kløvervænget 9 7790 Thyholm,9,950000.0,29-11-2016,Alm.,7600,4,Villa,125,1967,
+Munkevej 12 7790 Thyholm,12,2190000.0,29-11-2016,Alm.,10682,6,Stuehus,205,1900,
+Kalkværksvej 10 7790 Thyholm,10,12175000.0,24-11-2016,Alm.,73787,5,Stuehus,165,1910,
+Hindselsvej 20 7790 Thyholm,20,65000.0,16-11-2016,Alm.,485,5,Villa,134,1883,-32 %
+Birkevej 23 7790 Thyholm,23,663000.0,11-11-2016,Fam.,6765,4,Sommerhus,98,1971,
+Valmuevej 23 7790 Thyholm,23,700000.0,19-10-2016,Alm.,4761,4,Villa,147,1998,
+Vinkelvej 4 7790 Thyholm,4,60000.0,19-10-2016,Alm.,895,3,Villa,67,1916,0 %
+Sønderlandsgade 6 7790 Thyholm,6,1300000.0,11-10-2016,Alm.,8125,6,Villa,160,1935,5 %
+Østergade 29 7790 Thyholm,29,800000.0,11-10-2016,Alm.,4819,5,Villa,166,1963,
+Rolighedsvej 20 7790 Thyholm,20,650000.0,10-10-2016,Alm.,4545,5,Villa,143,1976,-4 %
+Stokhøjvej 14 7790 Thyholm,14,3095000.0,07-10-2016,Alm.,21198,5,Stuehus,146,1880,
+Søndergade 5 7790 Thyholm,5,245000.0,04-10-2016,Alm.,3062,3,Villa,80,1900,
+Nygade 16 7790 Thyholm,16,350000.0,01-10-2016,Alm.,3500,3,Villa,100,1971,-7 %
+Fjordglimt 11 7790 Thyholm,11,566132.0,28-09-2016,Alm.,5550,5,Sommerhus,102,1867,-54 %
+Gravgårdsvej 11 7790 Thyholm,11,2200000.0,26-09-2016,Alm.,5116,10,Stuehus,430,1863,0 %
+Serup Kirkevej 19 7790 Thyholm,19,865000.0,14-09-2016,Alm.,6223,5,Stuehus,139,1903,-11 %
+Engblommevej 12 7790 Thyholm,12,475000.0,09-09-2016,Alm.,7539,3,Sommerhus,63,1986,-13 %
+Gl Landevej 7B 7790 Thyholm,0,950000.0,09-09-2016,Alm.,13970,3,Sommerhus,68,1986,-21 %
+Lyngs Kirkevej 1 7790 Thyholm,1,200000.0,08-09-2016,Auktion,1960,5,Villa,102,1938,
+Kongevejen 9 7790 Thyholm,9,425000.0,02-09-2016,Fam.,3728,5,Villa,114,1929,
+Firhøjvej 3 7790 Thyholm,3,527000.0,02-09-2016,Fam.,7319,2,Sommerhus,72,1972,
+"Bredgade 19, 1 7790 Thyholm",1,400000.0,31-08-2016,Alm.,3773,5,Anden beboelse,106,1929,
+Orkidevej 10A 7790 Thyholm,0,380000.0,31-08-2016,Alm.,3838,4,Rækkehus,99,1982,
+Skovvej 17A 7790 Thyholm,0,380000.0,18-08-2016,Alm.,5588,4,Sommerhus,68,1972,0 %
+Søvej 5 7790 Thyholm,5,575000.0,12-08-2016,Alm.,7012,3,Sommerhus,82,1971,0 %
+Rosenvænget 5 7790 Thyholm,5,1275000.0,28-07-2016,Alm.,8673,5,Villa,147,1972,
+Gormsvej 15 7790 Thyholm,15,885000.0,28-07-2016,Alm.,10925,4,Sommerhus,81,2005,-1 %
+Havnegade 17 7790 Thyholm,17,1200000.0,21-07-2016,Alm.,6896,5,Villa,174,1957,-20 %
+Vestergade 25 7790 Thyholm,25,370000.0,15-07-2016,Alm.,2936,3,Villa,126,1967,-6 %
+Merkurvej 3 7790 Thyholm,3,350000.0,14-07-2016,Alm.,2651,6,Villa,132,1907,-11 %
+Rønbakken 15 7790 Thyholm,15,500000.0,13-07-2016,Alm.,10000,2,Sommerhus,50,1926,-16 %
+J P Lauritsensvej 10 7790 Thyholm,10,150000.0,08-07-2016,Alm.,1442,2,Villa,104,1964,
+Teglbjergvej 3 7790 Thyholm,3,320000.0,04-07-2016,Alm.,2285,5,Villa,140,1900,-15 %
+Tambogade 17 7790 Thyholm,17,312500.0,29-06-2016,Fam.,2200,5,Villa,142,1907,
+Bøhlørevej 10 7790 Thyholm,10,860000.0,27-06-2016,Alm.,8600,3,Sommerhus,100,1900,-4 %
+Søndervænget 54 7790 Thyholm,54,800000.0,25-06-2016,Alm.,4444,8,Villa,180,1972,
+Tambogade 49 7790 Thyholm,49,500000.0,24-06-2016,Alm.,10416,3,Sommerhus,48,1967,-29 %
+Ibstedvej 18 7790 Thyholm,18,200000.0,09-06-2016,Auktion,1000,6,Villa,200,1842,
+Birkevej 24 7790 Thyholm,24,816000.0,01-06-2016,Fam.,8774,5,Sommerhus,93,1968,
+Siriusvej 23 7790 Thyholm,23,395000.0,23-05-2016,Alm.,2453,5,Villa,161,1973,0 %
+Ringvejen 22 7790 Thyholm,22,375000.0,18-05-2016,Alm.,5281,2,Sommerhus,71,1973,-25 %
+Munkevej 4 7790 Thyholm,4,300001.0,12-05-2016,Auktion,1546,8,Villa,194,1972,
+Skovvej 1A 7790 Thyholm,0,485000.0,04-05-2016,Alm.,7348,3,Sommerhus,66,1978,-3 %
+Stokhøjvej 15 7790 Thyholm,15,850000.0,02-05-2016,Alm.,4009,6,Stuehus,212,1903,
+Gl Landevej 4 7790 Thyholm,4,650000.0,28-04-2016,Andet,2407,7,Villa,270,1907,
+Sommerstedvej 22 7790 Thyholm,22,275000.0,27-04-2016,Alm.,3716,4,Sommerhus,74,1973,-27 %
+Havnevej 44 7790 Thyholm,44,375000.0,21-04-2016,Alm.,5681,3,Villa,66,1960,-16 %
+Helgesvej 7 7790 Thyholm,7,500000.0,19-04-2016,Alm.,5434,6,Sommerhus,92,1977,-8 %
+Vestergade 15 7790 Thyholm,15,65000.0,14-04-2016,Alm.,698,4,Villa,93,1908,-13 %
+Fuglebakken 1 7790 Thyholm,1,735000.0,13-04-2016,Alm.,5787,4,Villa,127,1976,-6 %
+Torpvej 1 7790 Thyholm,1,1100000.0,05-04-2016,Alm.,5263,6,Villa,209,1996,
+Mosevej 10 7790 Thyholm,10,1172000.0,05-04-2016,Alm.,12739,2,Stuehus,92,1930,-6 %
+Skibdalvej 16 7790 Thyholm,16,2750000.0,31-03-2016,Alm.,20370,4,Sommerhus,135,1975,0 %
+Nygade 9 7790 Thyholm,9,1012500.0,28-03-2016,Alm.,8035,4,Villa,126,1970,
+Skibdalvej 10 7790 Thyholm,10,800000.0,21-03-2016,Alm.,15686,3,Sommerhus,51,1967,-20 %
+Skovstien 33 7790 Thyholm,33,544000.0,15-03-2016,Fam.,7555,2,Sommerhus,72,1969,
+Møllegade 11 7790 Thyholm,11,245000.0,07-03-2016,Andet,1750,4,Villa,140,1977,
+Fjordvej 4 7790 Thyholm,4,995000.0,26-02-2016,Alm.,18090,4,Sommerhus,55,1965,
+Jestrupvej 10 7790 Thyholm,10,725000.0,19-02-2016,Alm.,4264,7,Stuehus,170,1910,-9 %
+Hellerødvej 7 7790 Thyholm,7,500000.0,14-02-2016,Fam.,2617,7,Villa,191,1887,
+Fasanvej 1 7790 Thyholm,1,298000.0,12-02-2016,Alm.,2310,4,Villa,129,1973,0 %
+Østergade 23 7790 Thyholm,23,295000.0,12-02-2016,Alm.,2304,5,Villa,128,1957,-9 %
+Orkidevej 17 7790 Thyholm,17,500000.0,12-02-2016,Alm.,4032,5,Villa,124,1979,-16 %
+Aavej 8 7790 Thyholm,8,210000.0,04-02-2016,Alm.,2333,4,Villa,90,1905,-18 %
+Engblommevej 32 7790 Thyholm,32,260000.0,22-01-2016,Alm.,2736,4,Sommerhus,95,1974,
+Siriusvej 16 7790 Thyholm,16,275000.0,07-01-2016,Alm.,2370,4,Villa,116,1976,0 %
+Havnefronten 18 7790 Thyholm,18,1600000.0,10-12-2015,Alm.,12500,4,Rækkehus,128,2007,-3 %
+Orionsgade 26 7790 Thyholm,26,100000.0,27-11-2015,Alm.,714,6,Villa,140,1920,
+Hovedvejen 126 7790 Thyholm,126,20000.0,26-11-2015,Auktion,173,4,Villa,115,1910,
+Hyldagervej 6 7790 Thyholm,6,349000.0,26-11-2015,Auktion,1171,9,Villa,298,1909,
+Hovedvejen 49 7790 Thyholm,49,2000000.0,26-11-2015,Alm.,17391,4,Stuehus,115,1897,-17 %
+Kirkebakken 2 7790 Thyholm,2,330000.0,23-11-2015,Alm.,2946,3,Villa,112,1929,-15 %
+Hindselsvej 7 7790 Thyholm,7,345000.0,15-11-2015,Andet,2363,6,Villa,146,1880,
+Barslevvej 10 7790 Thyholm,10,314686.0,12-11-2015,Alm.,2579,5,Villa,122,1954,
+Mosevej 1 7790 Thyholm,1,795000.0,11-11-2015,Alm.,5300,6,Stuehus,150,1825,
+Tambogade 24 7790 Thyholm,24,1757500.0,08-10-2015,Fam.,8966,7,Sommerhus,196,1920,
+Fasanvej 8 7790 Thyholm,8,230000.0,18-09-2015,Alm.,1385,5,Villa,166,1973,-33 %
+Helligkildevej 24 7790 Thyholm,24,320878.0,17-09-2015,Auktion,1688,7,Villa,190,1917,-54 %
+Trekløvervej 7 7790 Thyholm,7,650000.0,24-08-2015,Andet,6018,4,Villa,108,1900,
+Havnevej 42 7790 Thyholm,42,700000.0,24-08-2015,Alm.,5223,4,Villa,134,1915,-12 %
+Havnevej 17 7790 Thyholm,17,800000.0,19-08-2015,Alm.,7142,3,Stuehus,112,1879,-16 %
+Sortevej 3 7790 Thyholm,3,750000.0,17-08-2015,Alm.,7425,3,Villa,101,1942,-6 %
+Nannasvej 9 7790 Thyholm,9,290000.0,06-08-2015,Alm.,14500,1,Sommerhus,20,1961,-13 %
+Ulvkærvej 3 7790 Thyholm,3,650000.0,01-08-2015,Alm.,5000,6,Villa,130,1900,0 %
+Ternevej 12 7790 Thyholm,12,1075000.0,26-07-2015,Alm.,6039,6,Stuehus,178,1959,-9 %
+Orionsgade 38 7790 Thyholm,38,270000.0,21-07-2015,Alm.,2250,4,Villa,120,1960,-8 %
+Valborgsvej 4 7790 Thyholm,4,461000.0,19-07-2015,Fam.,5554,4,Sommerhus,83,1970,
+Elmevej 7 7790 Thyholm,7,550000.0,17-07-2015,Fam.,5555,7,Sommerhus,99,1966,
+A C Hoppesvej 7 7790 Thyholm,7,6625000.0,14-07-2015,Alm.,18661,13,Stuehus,355,1892,
+Havrelandsvej 27 7790 Thyholm,27,762000.0,09-07-2015,Alm.,5644,5,Stuehus,135,1777,
+Vestergade 53 7790 Thyholm,53,2160275.0,09-07-2015,Fam.,7942,7,Villa,272,1900,
+Østergade 26 7790 Thyholm,26,800000.0,09-07-2015,Fam.,5128,5,Villa,156,1971,
+Kalkværksvej 1 7790 Thyholm,1,1050000.0,08-07-2015,Alm.,6176,4,Villa,170,1909,-11 %
+Rønvej 49 7790 Thyholm,49,2350000.0,04-07-2015,Alm.,18951,3,Sommerhus,124,1989,-9 %
+Hærvej 15 7790 Thyholm,15,315000.0,22-06-2015,Alm.,5526,3,Sommerhus,57,1971,-16 %
+Sommerstedvej 21 7790 Thyholm,21,299000.0,22-06-2015,Alm.,5537,3,Sommerhus,54,2004,0 %
+Orionsgade 37 7790 Thyholm,37,70000.0,17-06-2015,Alm.,843,4,Villa,83,1952,
+Munkevej 11 7790 Thyholm,11,1005000.0,13-06-2015,Alm.,4902,6,Villa,205,1875,1 %
+Østergade 30 7790 Thyholm,30,187000.0,04-06-2015,Auktion,1289,7,Villa,145,1957,-76 %
+Valborgsvej 1 7790 Thyholm,1,640000.0,28-05-2015,Alm.,11034,3,Sommerhus,58,1967,-2 %
+Niels Lousdahls Vej 3 7790 Thyholm,3,400000.0,22-05-2015,Fam.,5000,2,Sommerhus,80,1972,
+Hærvej 18 7790 Thyholm,18,575000.0,20-05-2015,Alm.,8582,3,Sommerhus,67,1980,-12 %
+Tjørnevej 1 7790 Thyholm,1,300000.0,19-05-2015,Alm.,4477,4,Sommerhus,67,1972,-24 %
+Søndergade 20 7790 Thyholm,20,325000.0,13-05-2015,Alm.,2500,6,Villa,130,1926,-18 %
+Sønderlandsgade 24 7790 Thyholm,24,200000.0,13-05-2015,Alm.,1562,6,Villa,128,1887,
+Fjordstien 17 7790 Thyholm,17,104795.0,11-05-2015,Fam.,1277,5,Sommerhus,82,1961,
+Kongevejen 22 7790 Thyholm,22,815000.0,05-05-2015,Alm.,3899,6,Villa,209,1878,-7 %
+Hovedvejen 152 7790 Thyholm,152,400000.0,27-04-2015,Alm.,5714,2,Villa,70,1887,-6 %
+Orionsgade 4 7790 Thyholm,4,170000.0,27-04-2015,Alm.,2266,3,Villa,75,1900,-14 %
+Møllegade 28 7790 Thyholm,28,460000.0,22-04-2015,Alm.,2674,8,Villa,172,1887,-7 %
+Rolighedsvej 12 7790 Thyholm,12,450000.0,22-04-2015,Alm.,3543,5,Villa,127,1978,-10 %
+Søndergade 6 7790 Thyholm,6,250000.0,20-04-2015,Alm.,1302,7,Villa,192,1899,-44 %
+Skibdalvej 7 7790 Thyholm,7,612500.0,09-04-2015,Alm.,7954,3,Sommerhus,77,1971,-18 %
+Birkevej 14 7790 Thyholm,14,795000.0,02-04-2015,Alm.,7794,6,Sommerhus,102,1969,0 %
+Gl Landevej 18 7790 Thyholm,18,560000.0,30-03-2015,Fam.,11200,4,Sommerhus,50,1958,
+Kongevejen 5 7790 Thyholm,5,280000.0,24-03-2015,Alm.,2692,4,Villa,104,1920,
+Fjordglimt 15 7790 Thyholm,15,416666.0,18-03-2015,Fam.,3472,5,Stuehus,120,1885,
+Nygade 8 7790 Thyholm,8,550000.0,13-03-2015,Alm.,6547,4,Villa,84,1963,-13 %
+Nylandsvej 2A 7790 Thyholm,0,350000.0,12-03-2015,Alm.,2916,5,Villa,120,1966,-11 %
+Sembvej 3 7790 Thyholm,3,1907450.0,11-03-2015,Alm.,11220,11,Stuehus,170,1857,
+Engblommevej 4 7790 Thyholm,4,385000.0,10-03-2015,Alm.,5923,5,Sommerhus,65,1974,-3 %
+Tjørnevej 12 7790 Thyholm,12,275000.0,24-02-2015,Alm.,4365,3,Sommerhus,63,2016,
+Bøhlvej 5 7790 Thyholm,5,2022455.0,19-02-2015,Auktion,6280,8,Stuehus,322,1989,-3 %
+Østerled 6 7790 Thyholm,6,650000.0,17-02-2015,Alm.,4744,5,Villa,137,1965,-7 %
+Møllegade 50 7790 Thyholm,50,280000.0,14-02-2015,Alm.,2204,5,Stuehus,127,1947,
+Rughavevej 2 7790 Thyholm,2,765000.0,10-02-2015,Alm.,3011,9,Villa,254,1963,-15 %
+Hovedvejen 96 7790 Thyholm,96,25000.0,03-02-2015,Alm.,227,5,Villa,110,1908,
+Hovedvejen 102 7790 Thyholm,102,1100000.0,30-01-2015,Alm.,6790,5,Villa,162,1877,-8 %
+Aavej 4 7790 Thyholm,4,2195000.0,28-01-2015,Alm.,24388,3,Stuehus,90,1890,
+Mejerivej 11 7790 Thyholm,11,225000.0,13-01-2015,Alm.,2472,3,Villa,91,1964,-24 %
+Havnegade 1 7790 Thyholm,1,255000.0,09-01-2015,Alm.,1197,10,Stuehus,213,1916,
+Kongevejen 21 7790 Thyholm,21,20000.0,09-01-2015,Andet,238,4,Villa,84,1960,
+Mejerivej 19 7790 Thyholm,19,755000.0,09-01-2015,Alm.,5510,5,Stuehus,137,1889,
+Kalkværksvej 2 7790 Thyholm,2,1535000.0,30-12-2014,Alm.,5256,6,Villa,292,1920,
+Søndbjerg Strandvej 20 7790 Thyholm,20,220000.0,22-12-2014,Alm.,1746,4,Villa,126,1866,
+Søndervænget 44 7790 Thyholm,44,820000.0,08-12-2014,Alm.,4100,7,Villa,200,1972,
+Limfjordsvej 1 7790 Thyholm,1,525000.0,03-12-2014,Fam.,5645,3,Villa,93,1900,
+Niels Lousdahls Vej 7 7790 Thyholm,7,906270.0,01-12-2014,Fam.,13731,3,Sommerhus,66,1994,
+Rønnebærvej 19 7790 Thyholm,19,527000.0,01-12-2014,Fam.,9410,4,Sommerhus,56,1968,
+Ahornvej 4 7790 Thyholm,4,475000.0,29-11-2014,Alm.,7539,3,Sommerhus,63,1992,-4 %
+Siriusvej 17 7790 Thyholm,17,270000.0,28-11-2014,Alm.,2076,4,Villa,130,1978,-32 %
+Orkidevej 39 7790 Thyholm,39,1495000.0,26-11-2014,Alm.,9343,5,Villa,160,1986,7 %
+Kildevænget 8 7790 Thyholm,8,495000.0,26-11-2014,Alm.,4541,4,Villa,109,1974,0 %
+Kongevejen 33 7790 Thyholm,33,250000.0,13-11-2014,Alm.,1256,7,Villa,199,1907,-55 %
+Hovedvejen 100 7790 Thyholm,100,106304.0,13-11-2014,Auktion,708,5,Villa,150,1920,-76 %
+Valborgsvej 5 7790 Thyholm,5,170000.0,12-11-2014,Fam.,2207,4,Sommerhus,77,1972,
+Møllegade 3 7790 Thyholm,3,375000.0,07-11-2014,Alm.,2884,4,Villa,130,1969,-5 %
+Fasanvej 12 7790 Thyholm,12,495000.0,06-11-2014,Alm.,3390,4,Villa,146,1974,0 %
+Nissumvej 1 7790 Thyholm,1,650000.0,31-10-2014,Alm.,3186,6,Villa,204,1890,-18 %
+Søndervænget 7 7790 Thyholm,7,350000.0,27-10-2014,Alm.,3398,4,Villa,103,1967,
+Fjordglimt 3 7790 Thyholm,3,750000.0,22-10-2014,Alm.,7653,5,Stuehus,98,1870,
+Nygade 14 7790 Thyholm,14,750000.0,22-10-2014,Alm.,7731,4,Villa,97,1972,
+Sommerstedvej 12 7790 Thyholm,12,141659.0,22-10-2014,Alm.,2146,4,Sommerhus,66,1975,
+Søndervænget 52 7790 Thyholm,52,500000.0,10-10-2014,Alm.,2840,5,Villa,176,1973,-5 %
+Rønnebærvej 11 7790 Thyholm,11,550000.0,01-10-2014,Fam.,0,5,Sommerhus,65,1969,
+Søndervænget 33 7790 Thyholm,33,375000.0,27-09-2014,Alm.,2906,4,Villa,129,1974,-6 %
+Havrelandsvej 5 7790 Thyholm,5,50000.0,26-09-2014,Alm.,641,3,Villa,78,1910,
+Sortevej 19 7790 Thyholm,19,600000.0,24-09-2014,Alm.,2843,7,Villa,211,1900,-11 %
+Thorsvej 3 7790 Thyholm,3,275000.0,20-09-2014,Fam.,3716,5,Sommerhus,74,1957,
+Tjørnevej 17 7790 Thyholm,17,300000.0,16-09-2014,Alm.,5000,3,Sommerhus,60,1975,-13 %
+Munkevej 5 7790 Thyholm,5,882061.0,16-09-2014,Fam.,4846,7,Villa,182,1875,
+Hærvej 8 7790 Thyholm,8,315000.0,15-09-2014,Alm.,5833,3,Sommerhus,54,1977,-18 %
+Jestrupvej 9 7790 Thyholm,9,120000.0,09-09-2014,Alm.,1200,4,Villa,100,1959,-20 %
+Lavbjergvej 1 7790 Thyholm,1,324000.0,25-08-2014,Alm.,1550,6,Villa,209,1905,
+Søndervænget 42 7790 Thyholm,42,400000.0,18-08-2014,Alm.,3200,4,Villa,125,1976,0 %
+Tjørnevej 7 7790 Thyholm,7,560000.0,31-07-2014,Alm.,8000,4,Sommerhus,70,1972,-6 %
+Kongevejen 30C 7790 Thyholm,0,200000.0,10-07-2014,Alm.,1818,8,Stuehus,110,1891,
+Baldersvej 3 7790 Thyholm,3,555000.0,06-07-2014,Alm.,8671,5,Sommerhus,64,1969,-7 %
+Ydesvej 2 7790 Thyholm,2,500000.0,03-07-2014,Fam.,4504,3,Villa,111,1907,
+Munkevej 16 7790 Thyholm,16,3750000.0,03-07-2014,Fam.,27573,5,Stuehus,136,1986,
+Lorens Vej 3 7790 Thyholm,3,527000.0,02-07-2014,Fam.,7026,3,Sommerhus,75,1937,
+Aggerholmsvej 11 7790 Thyholm,11,174038.0,26-06-2014,Andet,1261,5,Villa,138,1974,
+Skærshøjvej 4 7790 Thyholm,4,375000.0,14-06-2014,Alm.,2130,5,Villa,176,1882,
+Hovedvejen 75 7790 Thyholm,75,225000.0,12-06-2014,Alm.,1470,4,Villa,153,1780,-55 %
+Limfjordsgade 3 7790 Thyholm,3,120000.0,03-06-2014,Alm.,888,5,Villa,135,1912,-70 %
+Kappelvej 4 7790 Thyholm,4,1100000.0,30-05-2014,Fam.,5789,6,Stuehus,190,1876,
+Orkidevej 8A 7790 Thyholm,0,295000.0,27-05-2014,Alm.,2979,4,Rækkehus,99,1982,-34 %
+Kappelvej 17 7790 Thyholm,17,1376272.0,13-05-2014,Alm.,15819,3,Stuehus,87,1862,
+Nylandsvej 14 7790 Thyholm,14,150000.0,12-05-2014,Alm.,1875,3,Villa,80,1953,-14 %
+Søndbjerg Strandvej 38 7790 Thyholm,38,435000.0,08-05-2014,Alm.,8365,4,Sommerhus,52,1972,-2 %
+Rønbakken 1 7790 Thyholm,1,432600.0,27-04-2014,Fam.,6655,3,Sommerhus,65,1902,
+Sønderlandsgade 3 7790 Thyholm,3,525000.0,26-04-2014,Alm.,5706,3,Villa,92,1961,-15 %
+Helligkildevej 25 7790 Thyholm,25,925000.0,14-04-2014,Alm.,5110,7,Villa,181,1979,-6 %
+Havnevej 10 7790 Thyholm,10,130344.0,10-04-2014,Auktion,880,7,Villa,148,1903,
+Hjalmarsvej 2 7790 Thyholm,2,975000.0,09-04-2014,Alm.,14772,6,Sommerhus,66,1966,0 %
+Mejerivej 9 7790 Thyholm,9,400000.0,07-04-2014,Alm.,2877,6,Villa,139,1918,
+Bøhlvej 6 7790 Thyholm,6,529500.0,06-04-2014,Alm.,3228,5,Stuehus,164,1900,
+Valborgsvej 6 7790 Thyholm,6,310000.0,04-04-2014,Alm.,3604,3,Sommerhus,86,2017,-17 %
+Grøndalvej 20 7790 Thyholm,20,950000.0,31-03-2014,Alm.,5107,6,Villa,186,1986,-3 %
+Venusvej 1 7790 Thyholm,1,425000.0,28-03-2014,Alm.,2972,6,Villa,143,1981,-27 %
+Ålkærvej 8A 7790 Thyholm,0,2450000.0,28-03-2014,Alm.,32236,2,Rækkehus,76,1986,
+Jegindøvej 21 7790 Thyholm,21,2300000.0,27-03-2014,Auktion,6052,13,Stuehus,380,1972,-53 %
+Stokhøjvej 5 7790 Thyholm,5,310000.0,18-03-2014,Andet,1490,5,Stuehus,208,1998,
+Kongevejen 4 7790 Thyholm,4,255000.0,17-03-2014,Alm.,2361,5,Villa,108,1921,-40 %
+Søndervænget 20 7790 Thyholm,20,395000.0,12-03-2014,Alm.,3376,3,Villa,117,1972,0 %
+Møllegade 49 7790 Thyholm,49,650000.0,26-02-2014,Andet,3631,7,Villa,179,1952,
+Kongevejen 62 7790 Thyholm,62,100000.0,14-02-2014,Alm.,757,4,Villa,132,1924,-20 %
+Orkidevej 41 7790 Thyholm,41,1350000.0,07-02-2014,Alm.,7670,6,Villa,176,1987,-7 %
+Vestergade 1 7790 Thyholm,1,475000.0,07-02-2014,Alm.,2638,7,Villa,180,1966,0 %
+Frederiksgade 7 7790 Thyholm,7,155000.0,20-01-2014,Alm.,1068,6,Villa,145,1915,
+Skovstien 2 7790 Thyholm,2,367900.0,20-12-2013,Fam.,9197,3,Sommerhus,40,1975,
+Kongevejen 72A 7790 Thyholm,0,300000.0,19-12-2013,Auktion,1500,7,Villa,200,1978,
+Klintevej 4 7790 Thyholm,4,1699000.0,18-12-2013,Alm.,12871,7,Stuehus,132,1900,
+Hindselsvej 6 7790 Thyholm,6,6860000.0,18-12-2013,Alm.,36684,7,Stuehus,187,1877,
+Søndergade 32A 7790 Thyholm,0,600000.0,17-12-2013,Alm.,2553,10,Stuehus,235,1841,
+Søndervænget 43 7790 Thyholm,43,500000.0,17-12-2013,Alm.,4385,4,Villa,114,1973,
+Vestergade 34 7790 Thyholm,34,800000.0,17-12-2013,Alm.,5333,10,Stuehus,150,1907,
+Teglbjergvej 6 7790 Thyholm,6,297500.0,16-12-2013,Fam.,3305,5,Sommerhus,90,1947,
+Skovvej 37 7790 Thyholm,37,1334000.0,11-12-2013,Alm.,14659,4,Sommerhus,91,2007,
+Jegindøvej 19 7790 Thyholm,19,191000.0,05-12-2013,Auktion,1374,6,Villa,139,1933,
+Mellemvej 3 7790 Thyholm,3,92617.0,21-11-2013,Auktion,1102,3,Villa,84,1900,
+Søndervænget 39 7790 Thyholm,39,365000.0,19-11-2013,Alm.,2991,5,Villa,122,1976,-8 %
+Helligkildevej 9 7790 Thyholm,9,100000.0,17-10-2013,Alm.,800,2,Villa,125,1940,0 %
+Stokhøjvej 16 7790 Thyholm,16,203000.0,17-10-2013,Auktion,875,7,Villa,232,1917,
+Munkevej 6 7790 Thyholm,6,121040.0,15-10-2013,Alm.,699,5,Stuehus,173,1982,
+Valborgsvej 11 7790 Thyholm,11,841500.0,12-10-2013,Fam.,10262,4,Sommerhus,82,2005,
+Tværvej 4 7790 Thyholm,4,70000.0,03-10-2013,Alm.,368,6,Stuehus,190,1941,
+Grøndalvej 16 7790 Thyholm,16,1485000.0,09-09-2013,Alm.,8296,5,Villa,179,1933,0 %
+Sommerstedvej 32 7790 Thyholm,32,500000.0,08-09-2013,Alm.,7462,4,Sommerhus,67,1980,-7 %
+Polarisvej 22 7790 Thyholm,22,270000.0,06-09-2013,Alm.,2250,3,Villa,120,1893,-8 %
+Tjørnevej 8 7790 Thyholm,8,452600.0,05-09-2013,Fam.,5143,3,Sommerhus,88,1974,
+Jegindøvej 3 7790 Thyholm,3,895000.0,03-09-2013,Alm.,5774,7,Stuehus,155,1904,
+Bjørndalvej 15 7790 Thyholm,15,770000.0,30-08-2013,Alm.,8555,5,Villa,90,1910,-3 %
+Tjørnevej 3 7790 Thyholm,3,550000.0,29-08-2013,Alm.,8870,3,Sommerhus,62,1976,
+Rønvej 3 7790 Thyholm,3,1200000.0,28-08-2013,Fam.,4000,6,Villa,300,1805,
+Kongevejen 27 7790 Thyholm,27,396000.0,23-08-2013,Alm.,3000,5,Villa,132,1903,
+Kongevejen 6 7790 Thyholm,6,140000.0,22-08-2013,Alm.,1400,4,Villa,100,1924,-28 %
+Vestergade 31 7790 Thyholm,31,644118.0,22-08-2013,Fam.,4600,5,Villa,140,1928,
+Hovedvejen 26 7790 Thyholm,26,187500.0,12-08-2013,Fam.,2038,5,Villa,92,1902,
+Skovstien 32 7790 Thyholm,32,890000.0,10-08-2013,Alm.,14833,3,Sommerhus,60,1973,-1 %
+Hovedvejen 56 7790 Thyholm,56,2350000.0,15-07-2013,Alm.,26111,3,Villa,90,1955,
+Rosenvænget 2 7790 Thyholm,2,50000.0,28-06-2013,Alm.,202,8,Villa,247,1970,
+Bøhlørevej 15 7790 Thyholm,15,1650000.0,27-06-2013,Alm.,12406,4,Villa,133,1896,-17 %
+Firhøjvej 6 7790 Thyholm,6,640000.0,24-06-2013,Alm.,9846,4,Sommerhus,65,1972,-8 %
+Søndervænget 10 7790 Thyholm,10,670000.0,19-06-2013,Alm.,3641,6,Villa,184,1966,-1 %
+Kalkværksvej 4 7790 Thyholm,4,9075000.0,19-06-2013,Alm.,23881,11,Stuehus,380,1980,
+Kalkværksvej 14 7790 Thyholm,14,410000.0,19-06-2013,Alm.,3253,5,Villa,126,1910,-17 %
+Ahornvej 12 7790 Thyholm,12,699000.0,13-06-2013,Alm.,9575,4,Sommerhus,73,1985,-12 %
+Ålkærvej 23 7790 Thyholm,23,530486.0,13-06-2013,Auktion,3120,4,Villa,170,1908,-62 %
+Havnefronten 12 7790 Thyholm,12,1500000.0,05-06-2013,Alm.,11718,4,Villa,128,2007,-16 %
+Helligkildevej 15 7790 Thyholm,15,240000.0,23-05-2013,Alm.,1726,5,Villa,139,1914,
+Østergade 25 7790 Thyholm,25,250000.0,10-05-2013,Alm.,3048,3,Villa,82,1959,0 %
+Skovstien 23 7790 Thyholm,23,545000.0,01-05-2013,Alm.,12111,3,Sommerhus,45,1977,0 %
+Ternevej 14 7790 Thyholm,14,675000.0,20-04-2013,Alm.,8544,4,Sommerhus,79,1877,
+Fasanvej 10 7790 Thyholm,10,760000.0,18-03-2013,Alm.,4750,4,Villa,160,1973,-4 %
+Drosselvej 15 7790 Thyholm,15,1120000.0,08-03-2013,Alm.,5258,6,Villa,213,1976,0 %
+Nørbyvej 7 7790 Thyholm,7,450000.0,07-03-2013,Alm.,3308,5,Villa,136,1975,0 %
+Nørskovvej 4 7790 Thyholm,4,400000.0,01-03-2013,Alm.,2197,5,Sommerhus,182,1927,
+Sommerstedvej 18 7790 Thyholm,18,725000.0,13-02-2013,Alm.,10661,4,Sommerhus,68,1978,24 %
+Nylandsvej 22 7790 Thyholm,22,425000.0,31-01-2013,Alm.,3219,4,Villa,132,1964,-14 %
+Hovedvejen 90 7790 Thyholm,90,90000.0,29-01-2013,Alm.,818,3,Villa,110,1907,-67 %
+Jestrupvej 16 7790 Thyholm,16,150000.0,11-01-2013,Alm.,1056,4,Stuehus,142,1900,
+Storegade 15B 7790 Thyholm,0,180000.0,04-01-2013,Alm.,2307,3,Rækkehus,78,1912,-8 %
+Storegade 15C 7790 Thyholm,0,100000.0,03-01-2013,Auktion,1315,3,Rækkehus,76,1912,
+Møllevænget 11 7790 Thyholm,11,395000.0,20-12-2012,Alm.,3434,4,Villa,115,1979,
+Solsortevej 4 7790 Thyholm,4,2025000.0,20-12-2012,Alm.,11312,5,Villa,179,2000,
+Kongevejen 52 7790 Thyholm,52,350000.0,19-12-2012,Alm.,6034,4,Villa,58,1916,
+J P Lauritsensvej 4 7790 Thyholm,4,330000.0,19-12-2012,Alm.,4459,4,Villa,74,1897,
+Jestrupvej 4 7790 Thyholm,4,100000.0,12-12-2012,Alm.,1000,4,Villa,100,1900,
+Tambogade 15 7790 Thyholm,15,800000.0,19-11-2012,Alm.,6153,4,Villa,130,1935,-19 %
+Søstjernevej 19 7790 Thyholm,19,800000.0,15-11-2012,Alm.,4081,6,Villa,196,1980,
+Engblommevej 22 7790 Thyholm,22,400000.0,01-11-2012,Alm.,7142,4,Sommerhus,56,1979,-38 %
+Mejerivej 17 7790 Thyholm,17,885000.0,01-11-2012,Alm.,5673,6,Villa,156,1930,0 %
+Rønhegnet 17 7790 Thyholm,17,570000.0,17-10-2012,Alm.,6195,4,Sommerhus,92,2006,
+Lysterkjærvej 4 7790 Thyholm,4,525000.0,11-10-2012,Auktion,2397,7,Villa,219,1966,-46 %
+Skovvej 18 7790 Thyholm,18,500000.0,03-10-2012,Alm.,7812,3,Sommerhus,64,1967,
+Kappelvej 18 7790 Thyholm,18,350000.0,03-10-2012,Alm.,2845,5,Stuehus,123,1825,
+Møllegade 31 7790 Thyholm,31,830000.0,02-10-2012,Alm.,4150,6,Villa,200,1904,
+Kildevænget 11 7790 Thyholm,11,1110000.0,02-10-2012,Alm.,5935,6,Villa,187,1972,-7 %
+"Bredgade 15, 1 7790 Thyholm",1,750000.0,01-10-2012,Fam.,5357,6,Rækkehus,140,1887,
+Fjordlystvej 8 7790 Thyholm,8,103500.0,26-09-2012,Alm.,1112,3,Villa,93,1906,
+Sønderlandsgade 26 7790 Thyholm,26,470000.0,24-09-2012,Alm.,5000,4,Villa,94,1962,-5 %
+Fyrrevej 1 7790 Thyholm,1,510000.0,24-09-2012,Alm.,7846,5,Sommerhus,65,1970,
+Kongevejen 51 7790 Thyholm,51,330000.0,21-09-2012,Alm.,3402,4,Villa,97,1920,-22 %
+Engblommevej 3 7790 Thyholm,3,765000.0,18-09-2012,Alm.,10928,3,Sommerhus,70,1973,0 %
+Fuglebakken 3 7790 Thyholm,3,525000.0,17-09-2012,Alm.,4200,6,Villa,125,1976,-19 %
+Jupitervej 18 7790 Thyholm,18,450000.0,12-09-2012,Alm.,3169,5,Villa,142,1966,
+Fjordstien 9 7790 Thyholm,9,650000.0,27-08-2012,Alm.,8125,5,Sommerhus,80,1957,
+Skolegade 4 7790 Thyholm,4,200000.0,16-08-2012,Auktion,2040,3,Villa,98,1963,
+Tambogade 18 7790 Thyholm,18,331667.0,16-08-2012,Fam.,4738,4,Sommerhus,70,1905,
+Hærvej 17 7790 Thyholm,17,195500.0,15-08-2012,Fam.,3153,3,Sommerhus,62,1970,
+Aggerholmsvej 7 7790 Thyholm,7,620000.0,03-08-2012,Alm.,4626,6,Villa,134,1970,-8 %
+Danavej 10 7790 Thyholm,10,424000.0,02-08-2012,Auktion,2538,6,Stuehus,167,1912,
+Sommerstedvej 58 7790 Thyholm,58,172152.0,28-07-2012,Alm.,2326,4,Sommerhus,74,1972,
+Søndergade 24 7790 Thyholm,24,300000.0,22-07-2012,Alm.,2654,5,Villa,113,1931,-24 %
+Skovbrynet 4 7790 Thyholm,4,600000.0,15-06-2012,Alm.,6451,4,Sommerhus,93,1994,
+Hærvej 23 7790 Thyholm,23,800000.0,15-06-2012,Alm.,11111,4,Sommerhus,72,1973,-14 %
+Skovstien 37 7790 Thyholm,37,1700000.0,07-06-2012,Alm.,25373,3,Sommerhus,67,2016,
+Aggerholmsvej 10 7790 Thyholm,10,260000.0,30-05-2012,Alm.,2476,3,Villa,105,1888,-25 %
+Søndervænget 21 7790 Thyholm,21,595000.0,30-05-2012,Alm.,4507,4,Villa,132,1972,0 %
+Sortevej 5 7790 Thyholm,5,300000.0,07-05-2012,Alm.,3797,3,Villa,79,1893,
+Kildevænget 5 7790 Thyholm,5,700000.0,03-05-2012,Alm.,4761,3,Villa,147,1973,-12 %
+Kirkegade 2 7790 Thyholm,2,100000.0,03-05-2012,Auktion,961,4,Villa,104,1880,
+Havnegade 3 7790 Thyholm,3,396205.0,13-04-2012,Alm.,2956,4,Stuehus,134,1882,
+Sommerstedvej 51 7790 Thyholm,51,385000.0,10-04-2012,Alm.,5500,4,Sommerhus,70,1976,
+Engblommevej 28 7790 Thyholm,28,435000.0,03-04-2012,Alm.,5117,5,Sommerhus,85,1984,
+Skovstien 28 7790 Thyholm,28,960000.0,01-04-2012,Alm.,15238,4,Sommerhus,63,1972,
+Ålkærvej 17 7790 Thyholm,17,165000.0,28-03-2012,Alm.,953,7,Villa,173,1920,-40 %
+Skovstien 10 7790 Thyholm,10,1200000.0,11-03-2012,Alm.,13636,4,Sommerhus,88,2008,
+Hærvej 32 7790 Thyholm,32,130000.0,04-03-2012,Alm.,1511,4,Sommerhus,86,2014,-33 %
+Ballevej 9 7790 Thyholm,9,435000.0,01-03-2012,Alm.,3320,8,Villa,131,1903,
+Følhøjvej 2 7790 Thyholm,2,682000.0,16-02-2012,Alm.,2706,8,Stuehus,252,1920,-72 %
+Lærkevej 15 7790 Thyholm,15,314070.0,30-01-2012,Alm.,3341,5,Sommerhus,94,1973,
+Hovedvejen 84 7790 Thyholm,84,270000.0,12-01-2012,Auktion,1084,8,Villa,249,1900,
+Klintevej 1 7790 Thyholm,1,550000.0,05-01-2012,Alm.,3293,5,Villa,167,1902,
+Hamletsvej 8 7790 Thyholm,8,600000.0,05-01-2012,Fam.,8219,5,Sommerhus,73,1973,-45 %
+Hovedvejen 94 7790 Thyholm,94,65000.0,05-01-2012,Auktion,546,5,Villa,119,1908,
+Skovstien 21 7790 Thyholm,21,502000.0,01-01-2012,Fam.,9127,3,Sommerhus,55,1970,
+Havnevej 30 7790 Thyholm,30,65000.0,23-12-2011,Alm.,361,4,Villa,180,1900,
+Skibstedvej 7 7790 Thyholm,7,1785000.0,23-12-2011,Fam.,6611,5,Stuehus,270,1875,
+Søndergade 23 7790 Thyholm,23,150000.0,21-12-2011,Alm.,1363,4,Villa,110,1954,
+Orionsgade 43 7790 Thyholm,43,125000.0,18-12-2011,Alm.,862,2,Villa,145,1955,
+Thorsvej 14 7790 Thyholm,14,393300.0,15-12-2011,Fam.,6666,3,Sommerhus,59,1962,
+Danavej 2 7790 Thyholm,2,1075000.0,11-12-2011,Alm.,4673,8,Stuehus,230,1999,
+Ålkærvej 2 7790 Thyholm,2,160000.0,01-12-2011,Auktion,761,8,Villa,210,1916,-71 %
+Hovedvejen 7 7790 Thyholm,7,575000.0,07-11-2011,Andet,4674,4,Villa,123,2000,-59 %
+Teglbjergvej 1 7790 Thyholm,1,645000.0,03-11-2011,Auktion,3115,6,Villa,207,1907,-28 %
+Skovstien 8 7790 Thyholm,8,1200000.0,12-10-2011,Alm.,13793,3,Sommerhus,87,2005,
+Bøgevej 5 7790 Thyholm,5,940000.0,09-10-2011,Alm.,12207,4,Sommerhus,77,1982,
+Skolegade 7 7790 Thyholm,7,575000.0,08-10-2011,Fam.,3304,7,Villa,174,1949,-42 %
+Helligkildevej 10 7790 Thyholm,10,425000.0,08-10-2011,Fam.,3195,5,Villa,133,1960,-49 %
+Odinsvej 3 7790 Thyholm,3,568000.0,29-09-2011,Alm.,13523,2,Sommerhus,42,1947,
+Orionsgade 28 7790 Thyholm,28,217231.0,29-09-2011,Andet,974,8,Villa,223,1979,
+Fælledvej 5 7790 Thyholm,5,367845.0,13-09-2011,Alm.,1760,7,Villa,209,1917,
+Baldersvej 1 7790 Thyholm,1,100000.0,08-09-2011,Fam.,1000,6,Sommerhus,100,1966,
+Valmuevej 39 7790 Thyholm,39,1235000.0,29-08-2011,Alm.,8178,4,Villa,151,1987,
+Hamletsvej 4 7790 Thyholm,4,425000.0,20-08-2011,Alm.,6439,4,Sommerhus,66,1962,
+Hellerødvej 3 7790 Thyholm,3,2300000.0,21-07-2011,Alm.,26136,4,Stuehus,88,1876,-13 %
+Flovlevvej 17 7790 Thyholm,17,600000.0,21-07-2011,Alm.,4687,4,Villa,128,1940,
+Orkidevej 23 7790 Thyholm,23,1040000.0,18-07-2011,Alm.,7761,6,Villa,134,1981,
+Krumborgvej 4 7790 Thyholm,4,335000.0,16-07-2011,Alm.,4187,4,Villa,80,1905,-4 %
+Hovedvejen 78 7790 Thyholm,78,1700000.0,14-07-2011,Andet,4250,9,Døgninstitution,400,1908,
+Ulvkærvej 17 7790 Thyholm,17,995000.0,06-07-2011,Fam.,5887,5,Villa,169,1894,
+Tjørnevej 16 7790 Thyholm,16,550000.0,01-07-2011,Alm.,7971,5,Sommerhus,69,1971,-12 %
+Havnevej 24 7790 Thyholm,24,1050000.0,14-06-2011,Alm.,6140,5,Villa,171,2012,
+Kappelvej 7 7790 Thyholm,7,100000.0,14-06-2011,Alm.,869,4,Villa,115,1948,0 %
+Søndbjerg Strandvej 11 7790 Thyholm,11,590000.0,31-05-2011,Alm.,5412,2,Villa,109,1895,0 %
+Skærshøjvej 3 7790 Thyholm,3,1125000.0,17-05-2011,Alm.,5710,6,Stuehus,197,1905,-18 %
+Rønbakken 6 7790 Thyholm,6,365000.0,17-05-2011,Alm.,4866,5,Sommerhus,75,1900,
+Lærkevej 22 7790 Thyholm,22,2175000.0,11-05-2011,Alm.,25588,4,Sommerhus,85,1966,10 %
+Havnevej 31 7790 Thyholm,31,600000.0,09-05-2011,Alm.,6000,3,Villa,100,1956,-4 %
+Kildevænget 22 7790 Thyholm,22,1050000.0,09-05-2011,Alm.,6481,9,Villa,162,1972,-11 %
+Søndervænget 38 7790 Thyholm,38,850000.0,22-04-2011,Alm.,5151,11,Villa,165,1975,-3 %
+Orkidevej 12 7790 Thyholm,12,925000.0,20-04-2011,Alm.,7400,4,Villa,125,1987,0 %
+Søndervænget 36 7790 Thyholm,36,510000.0,13-04-2011,Alm.,4903,4,Rækkehus,104,1973,-3 %
+Skovvej 25 7790 Thyholm,25,322103.0,07-04-2011,Alm.,3834,4,Sommerhus,84,1972,
+Helligkildevej 21 7790 Thyholm,21,495000.0,05-04-2011,Alm.,4805,5,Villa,103,1949,
+Saturnvej 28 7790 Thyholm,28,265000.0,31-03-2011,Alm.,2304,4,Villa,115,1962,
+Storegade 3 7790 Thyholm,3,1300000.0,29-03-2011,Alm.,10743,9,Villa,121,1925,
+Tambobakken 28 7790 Thyholm,28,1626000.0,24-03-2011,Auktion,6663,6,Villa,244,1991,-31 %
+Tambohusvej 5 7790 Thyholm,5,800000.0,18-03-2011,Alm.,4571,5,Stuehus,175,1866,-9 %
+Storegade 15A 7790 Thyholm,0,300000.0,08-03-2011,Fam.,3947,3,Rækkehus,76,1912,
+Hærvej 26 7790 Thyholm,26,600000.0,07-03-2011,Alm.,6000,5,Sommerhus,100,1976,-17 %
+Rønvej 43 7790 Thyholm,43,681600.0,24-02-2011,Fam.,5496,5,Sommerhus,124,1968,
+Møllegade 42 7790 Thyholm,42,500000.0,21-02-2011,Fam.,4629,3,Villa,108,1905,
+Helligkildevej 17A 7790 Thyholm,0,555000.0,11-02-2011,Alm.,6851,2,Villa,81,1985,-6 %
+Ydesvej 5 7790 Thyholm,5,300000.0,11-02-2011,Andet,2290,6,Villa,131,1903,
+Merkurvej 4 7790 Thyholm,4,825000.0,31-01-2011,Alm.,6875,5,Villa,120,2004,-8 %
+Østergade 14 7790 Thyholm,14,815000.0,26-01-2011,Alm.,5905,5,Villa,138,1900,
+Sommerstedvej 62 7790 Thyholm,62,360000.0,06-01-2011,Auktion,5714,4,Sommerhus,63,2010,
+Søndervænget 14 7790 Thyholm,14,600000.0,27-12-2010,Alm.,4195,4,Villa,143,1972,-14 %
+Skovstien 19 7790 Thyholm,19,476000.0,22-12-2010,Fam.,8500,3,Sommerhus,56,1969,
+Thorsvej 10 7790 Thyholm,10,210000.0,22-12-2010,Alm.,3684,3,Sommerhus,57,1966,
+Tambogade 3 7790 Thyholm,3,290000.0,21-12-2010,Alm.,3118,4,Villa,93,1935,
+Valmuevej 24 7790 Thyholm,24,219868.0,19-12-2010,Alm.,1270,5,Villa,173,2013,
+Valmuevej 37 7790 Thyholm,37,82368.0,15-12-2010,Alm.,499,5,Villa,165,2015,
+Bøhlørevej 3A 7790 Thyholm,0,845000.0,06-12-2010,Alm.,8047,5,Sommerhus,105,1927,-11 %
+Møllegade 51 7790 Thyholm,51,150000.0,29-11-2010,Alm.,1282,5,Villa,117,1955,
+Rønvej 47 7790 Thyholm,47,1630000.0,21-11-2010,Alm.,0,5,Villa,143,1975,
+Havnefronten 8 7790 Thyholm,8,2040000.0,18-11-2010,Alm.,15937,4,Villa,128,2007,-13 %
+Hovedvejen 58 7790 Thyholm,58,180000.0,18-11-2010,Alm.,1636,4,Villa,110,1930,
+Vestergade 20 7790 Thyholm,20,300000.0,16-11-2010,Alm.,3092,3,Villa,97,1948,-39 %
+Helligkildevej 7 7790 Thyholm,7,565000.0,09-11-2010,Alm.,3210,5,Villa,176,1915,0 %
+Ålkærvej 8B 7790 Thyholm,0,1000000.0,08-11-2010,Alm.,13157,2,Rækkehus,76,1986,
+Ålkærvej 8C 7790 Thyholm,0,1000000.0,08-11-2010,Alm.,13157,2,Rækkehus,76,1986,
+Roarsvej 4 7790 Thyholm,4,246500.0,04-11-2010,Fam.,3331,4,Sommerhus,74,1969,
+Skovstien 27 7790 Thyholm,27,1000000.0,24-10-2010,Alm.,16666,3,Sommerhus,60,1969,-4 %
+Stellavej 3 7790 Thyholm,3,345000.0,08-10-2010,Alm.,2183,7,Villa,158,1917,-5 %
+Thorsvej 6 7790 Thyholm,6,433500.0,26-09-2010,Fam.,6880,4,Sommerhus,63,1969,
+A C Hoppesvej 14 7790 Thyholm,14,1705000.0,23-09-2010,Auktion,3229,12,Villa,528,1872,
+Bøgevej 3 7790 Thyholm,3,875000.0,23-09-2010,Alm.,10937,4,Sommerhus,80,1975,
+Grøndalvej 1 7790 Thyholm,1,4150000.0,17-09-2010,Alm.,15036,6,Stuehus,276,1950,-9 %
+Skovvej 2 7790 Thyholm,2,835000.0,16-09-2010,Alm.,10437,3,Sommerhus,80,1971,-5 %
+Frejasvej 20 7790 Thyholm,20,1200000.0,12-09-2010,Alm.,12500,5,Sommerhus,96,1979,
+Søndergade 25 7790 Thyholm,25,425000.0,11-09-2010,Alm.,4473,3,Villa,95,1961,-6 %
+Hindselsvej 15 7790 Thyholm,15,1100000.0,07-09-2010,Alm.,7482,5,Villa,147,1881,-8 %
+Thyrasvej 2 7790 Thyholm,2,840000.0,04-09-2010,Alm.,9333,5,Sommerhus,90,1975,-4 %
+Tambogade 25 7790 Thyholm,25,450000.0,27-08-2010,Alm.,3435,3,Sommerhus,131,2015,
+Marendal 1 7790 Thyholm,1,841200.0,25-08-2010,Alm.,6324,5,Villa,133,1857,
+Kallerupvej 3 7790 Thyholm,3,650000.0,19-08-2010,Alm.,1867,8,Villa,348,1914,
+Ballevej 10 7790 Thyholm,10,1739044.0,16-08-2010,Alm.,15122,6,Stuehus,115,1914,
+Skibdalvej 8 7790 Thyholm,8,1075000.0,06-08-2010,Alm.,20673,3,Sommerhus,52,1972,-5 %
+Tjørnevej 2 7790 Thyholm,2,2025000.0,02-08-2010,Alm.,12816,5,Sommerhus,158,2005,-7 %
+Orionsgade 14 7790 Thyholm,14,520000.0,31-07-2010,Alm.,3270,5,Villa,159,1935,
+Sommerstedvej 64 7790 Thyholm,64,150000.0,31-07-2010,Alm.,4285,1,Sommerhus,35,2012,0 %
+Bøhlvej 7 7790 Thyholm,7,7000000.0,28-07-2010,Alm.,48951,7,Stuehus,143,1924,
+Tambohusvej 8 7790 Thyholm,8,150000.0,21-07-2010,Alm.,1500,4,Villa,100,1957,
+Skovvej 5 7790 Thyholm,5,250000.0,19-07-2010,Alm.,5000,3,Sommerhus,50,1969,-64 %
+Stokhøjvej 6 7790 Thyholm,6,610000.0,13-07-2010,Alm.,3388,4,Villa,180,2011,
+Skovvej 39 7790 Thyholm,39,1625000.0,09-07-2010,Alm.,12795,4,Sommerhus,127,2008,
+Havnevej 40 7790 Thyholm,40,60000.0,09-07-2010,Fam.,1500,2,Sommerhus,40,1957,
+Rughavevej 1 7790 Thyholm,1,715000.0,06-07-2010,Alm.,4205,5,Villa,170,1963,
+Ringvejen 3 7790 Thyholm,3,205000.0,23-06-2010,Alm.,5125,2,Sommerhus,40,1968,-23 %
+Havnegade 4 7790 Thyholm,4,395000.0,18-06-2010,Alm.,2170,6,Villa,182,1913,0 %
+Søndbjerg Strandvej 44 7790 Thyholm,44,600000.0,03-06-2010,Alm.,15000,3,Sommerhus,40,1940,-4 %
+Kildevænget 17 7790 Thyholm,17,1300000.0,03-06-2010,Alm.,8965,3,Villa,145,1972,
+Markvejen 4 7790 Thyholm,4,283610.0,31-05-2010,Alm.,3049,3,Sommerhus,93,2011,
+Sembvej 9 7790 Thyholm,9,910000.0,27-05-2010,Alm.,8834,5,Villa,103,1910,-6 %
+Hovedvejen 77 7790 Thyholm,77,1225000.0,25-05-2010,Alm.,4785,6,Stuehus,256,2015,-12 %
+Tjørnevej 19 7790 Thyholm,19,665000.0,24-05-2010,Alm.,8012,5,Sommerhus,83,1974,0 %
+Lysterkjærvej 2 7790 Thyholm,2,1250000.0,24-05-2010,Alm.,8223,6,Stuehus,152,1930,-3 %
+Roarsvej 2 7790 Thyholm,2,860000.0,14-05-2010,Alm.,9148,5,Sommerhus,94,1966,-3 %
+Stadionalle 6 7790 Thyholm,6,135396.0,06-05-2010,Auktion,1471,4,Villa,92,1964,-77 %
+J P Lauritsensvej 21 7790 Thyholm,21,1000000.0,29-04-2010,Alm.,7092,6,Villa,141,1948,
+Gravgårdsvej 8 7790 Thyholm,8,1400000.0,28-04-2010,Alm.,7000,5,Stuehus,200,1862,-5 %
+Sandkrogvej 7 7790 Thyholm,7,775000.0,20-04-2010,Alm.,11397,4,Villa,68,1890,-3 %
+Nørskovvej 7 7790 Thyholm,7,1235000.0,16-04-2010,Alm.,9573,4,Villa,129,1931,0 %
+Sundvej 3 7790 Thyholm,3,935000.0,16-04-2010,Fam.,4560,7,Villa,205,2004,
+Sommerstedvej 31 7790 Thyholm,31,475000.0,15-04-2010,Alm.,7307,4,Sommerhus,65,1974,-8 %
+Følhøjvej 3 7790 Thyholm,3,2850000.0,15-04-2010,Alm.,10836,5,Stuehus,263,1912,
+Mellemvej 20 7790 Thyholm,20,9615000.0,08-04-2010,Alm.,51972,5,Stuehus,185,1882,
+Nygade 6 7790 Thyholm,6,700000.0,03-04-2010,Alm.,5343,5,Villa,131,1962,-21 %
+Nygade 6B 7790 Thyholm,0,715000.0,25-03-2010,Alm.,7944,4,Villa,90,1980,-7 %
+Fjordlystvej 1 7790 Thyholm,1,710000.0,24-03-2010,Alm.,6574,3,Villa,108,1959,-5 %
+Hovedvejen 118 7790 Thyholm,118,990000.0,21-03-2010,Alm.,4342,7,Villa,228,1925,-8 %
+Hamletsvej 5 7790 Thyholm,5,670000.0,10-03-2010,Alm.,8815,5,Sommerhus,76,1964,-4 %
+Havnevej 6 7790 Thyholm,6,265000.0,10-03-2010,Fam.,3785,3,Villa,70,1898,
+Sønderlandsgade 11 7790 Thyholm,11,598000.0,08-03-2010,Andet,2990,5,Villa,200,1910,
+Barslevvej 37 7790 Thyholm,37,1095000.0,08-03-2010,Alm.,7348,4,Villa,149,1904,
+Frederiksgade 13 7790 Thyholm,13,1250000.0,20-02-2010,Alm.,11467,4,Villa,109,1905,-2 %
+Tværdalvej 3 7790 Thyholm,3,1050000.0,19-02-2010,Alm.,4411,10,Stuehus,238,1840,
+Havrelandsvej 17 7790 Thyholm,17,6804933.0,17-02-2010,Fam.,25391,8,Stuehus,268,2007,
+Kongevejen 60 7790 Thyholm,60,435000.0,08-02-2010,Alm.,5649,3,Villa,77,1910,-2 %
+Limfjordsgade 5 7790 Thyholm,5,250000.0,26-01-2010,Alm.,3676,2,Villa,68,1910,
+Søndervænget 35 7790 Thyholm,35,700000.0,20-01-2010,Alm.,5468,4,Villa,128,1973,
+Hovedvejen 3 7790 Thyholm,3,2357500.0,18-01-2010,Fam.,12215,6,Stuehus,193,1880,
+Aggerholmsvej 9 7790 Thyholm,9,754028.0,10-01-2010,Alm.,5164,5,Villa,146,1973,
+Lyngs Kirkevej 7 7790 Thyholm,7,2148300.0,28-12-2009,Alm.,13426,6,Stuehus,160,1971,
+Vestergade 39 7790 Thyholm,39,211390.0,18-12-2009,Andet,1806,5,Villa,117,1928,-56 %
+Rosenvænget 19 7790 Thyholm,19,1100000.0,14-12-2009,Alm.,5092,5,Villa,216,1976,-14 %
+Søndergade 30 7790 Thyholm,30,470000.0,09-12-2009,Alm.,3175,4,Villa,148,1938,
+Hovedvejen 63 7790 Thyholm,63,7350000.0,09-12-2009,Fam.,28053,7,Stuehus,262,1988,
+Havnevej 29 7790 Thyholm,29,385000.0,02-12-2009,Alm.,3532,4,Villa,109,1888,0 %
+Orkidevej 29 7790 Thyholm,29,1280000.0,27-11-2009,Alm.,6274,6,Villa,204,1979,-7 %
+Østerled 3 7790 Thyholm,3,450000.0,18-11-2009,Alm.,4017,4,Villa,112,1967,
+Orionsgade 35 7790 Thyholm,35,995000.0,14-11-2009,Alm.,6503,6,Villa,153,1938,0 %
+Sønderlandsgade 18 7790 Thyholm,18,25000.0,28-10-2009,Alm.,213,4,Villa,117,1877,-96 %
+Nannasvej 4 7790 Thyholm,4,700000.0,27-10-2009,Alm.,9210,4,Villa,76,1973,-17 %
+Rønbakken 10 7790 Thyholm,10,1200000.0,23-10-2009,Fam.,10909,5,Sommerhus,110,1890,
+Tambogade 18B 7790 Thyholm,0,300000.0,22-10-2009,Alm.,10000,2,Sommerhus,30,1900,
+Østergade 20 7790 Thyholm,20,530000.0,22-10-2009,Alm.,6235,3,Villa,85,1964,-14 %
+Frejasvej 15 7790 Thyholm,15,1250000.0,09-10-2009,Alm.,8445,3,Sommerhus,148,2011,
+Meldgårdsvej 3 7790 Thyholm,3,820000.0,07-10-2009,Alm.,5394,4,Villa,152,1907,-7 %
+Kirkebakken 14 7790 Thyholm,14,570000.0,29-09-2009,Alm.,4253,6,Villa,134,1924,
+Frejasvej 21 7790 Thyholm,21,253159.0,17-09-2009,Alm.,6174,4,Sommerhus,41,1965,
+Ulvkærvej 5 7790 Thyholm,5,575000.0,16-09-2009,Alm.,3402,4,Villa,169,1928,-14 %
+Havnevej 7 7790 Thyholm,7,625000.0,11-08-2009,Alm.,4432,5,Villa,141,1969,
+Ydunsvej 2 7790 Thyholm,2,700000.0,06-08-2009,Fam.,9589,4,Sommerhus,73,1993,
+Valborgsvej 2 7790 Thyholm,2,475000.0,10-07-2009,Alm.,6597,4,Sommerhus,72,1968,-4 %
+J P Lauritsensvej 17 7790 Thyholm,17,230000.0,07-07-2009,Alm.,2804,4,Villa,82,1935,-34 %
+Sommerstedvej 39 7790 Thyholm,39,550000.0,06-07-2009,Alm.,9482,3,Sommerhus,58,1976,-6 %
+Sommerstedvej 46 7790 Thyholm,46,995000.0,01-07-2009,Alm.,10153,4,Sommerhus,98,1986,0 %
+Bragesvej 4 7790 Thyholm,4,920000.0,29-06-2009,Alm.,10454,4,Sommerhus,88,1990,-7 %
+Hovedvejen 60 7790 Thyholm,60,565000.0,26-06-2009,Alm.,4708,5,Villa,120,1907,0 %
+Valmuevej 35 7790 Thyholm,35,166616.0,19-06-2009,Alm.,925,5,Villa,180,2012,
+Birkevej 6 7790 Thyholm,6,740000.0,12-06-2009,Alm.,12982,3,Sommerhus,57,1970,36 %
+Søndergade 9 7790 Thyholm,9,90000.0,22-05-2009,Alm.,0,3,Villa,88,1900,
+Valmuevej 26 7790 Thyholm,26,181995.0,19-05-2009,Alm.,791,6,Villa,230,2009,
+Kildevænget 16 7790 Thyholm,16,1435000.0,18-05-2009,Alm.,9566,4,Villa,150,1971,
+Lavbjergvej 9 7790 Thyholm,9,1200000.0,07-05-2009,Alm.,5454,6,Stuehus,220,1911,
+Søndervænget 19 7790 Thyholm,19,1200000.0,18-04-2009,Alm.,6857,6,Villa,175,1973,
+Stokhøjvej 11 7790 Thyholm,11,741000.0,08-04-2009,Fam.,2470,9,Villa,300,1893,
+Hindselsvej 16 7790 Thyholm,16,1650000.0,28-03-2009,Alm.,6600,8,Stuehus,250,1972,
+Nørregade 15 7790 Thyholm,15,335000.0,24-03-2009,Alm.,2445,5,Villa,137,1902,-11 %
+Ydesvej 3 7790 Thyholm,3,1135828.0,18-03-2009,Fam.,7833,5,Stuehus,145,1908,
+Søndergade 36 7790 Thyholm,36,860000.0,10-03-2009,Alm.,4673,8,Villa,184,1952,
+Munkevej 14 7790 Thyholm,14,1995000.0,09-03-2009,Alm.,0,9,Stuehus,262,1875,0 %
+Polarisvej 28 7790 Thyholm,28,120000.0,27-02-2009,Fam.,1428,4,Villa,84,1893,
+Lyngs Kirkevej 11 7790 Thyholm,11,2148300.0,27-02-2009,Alm.,14322,5,Stuehus,150,1916,
+Mejerivej 6 7790 Thyholm,6,500000.0,27-02-2009,Alm.,3906,3,Villa,128,1973,-13 %
+Siriusvej 10 7790 Thyholm,10,815000.0,26-02-2009,Alm.,6572,4,Villa,124,1973,-12 %
+Vestergade 7 7790 Thyholm,7,500000.0,12-02-2009,Alm.,5208,4,Villa,96,1908,-16 %
+Søndergade 28 7790 Thyholm,28,1185000.0,08-02-2009,Alm.,8116,4,Villa,146,1937,-4 %
+Kalkværksvej 3 7790 Thyholm,3,1750000.0,30-01-2009,Alm.,9459,8,Stuehus,185,1907,
+Kappelvej 3 7790 Thyholm,3,150000.0,30-01-2009,Fam.,666,7,Villa,225,1870,
+Firhøjvej 5 7790 Thyholm,5,300000.0,27-01-2009,Andet,4109,3,Villa,73,1980,
+Lærkevej 12 7790 Thyholm,12,874144.0,19-12-2008,Andet,11655,3,Sommerhus,75,2007,
+Storegade 6B 7790 Thyholm,0,834784.0,15-12-2008,Alm.,5317,2,Rækkehus,157,1900,
+Enghavevej 20 7790 Thyholm,20,340024.0,08-12-2008,Andet,1976,7,Villa,172,1928,
+Skovvej 1 7790 Thyholm,1,575000.0,08-12-2008,Alm.,7666,4,Sommerhus,75,1977,0 %
+Kongevejen 26 7790 Thyholm,26,225269.0,06-12-2008,Fam.,2085,4,Villa,108,1903,
+Birkevej 12 7790 Thyholm,12,1420000.0,05-12-2008,Alm.,9861,4,Sommerhus,144,2008,
+Nylandsvej 4 7790 Thyholm,4,275000.0,28-11-2008,Alm.,4583,3,Villa,60,1953,
+Kirkebakken 16 7790 Thyholm,16,810000.0,28-11-2008,Alm.,9000,4,Villa,90,1924,
+Lærkevej 14 7790 Thyholm,14,630000.0,21-11-2008,Alm.,11666,5,Sommerhus,54,1972,
+Vesterfjordsvej 9 7790 Thyholm,9,575000.0,14-11-2008,Alm.,2738,7,Villa,210,1925,-17 %
+Stubbevej 4 7790 Thyholm,4,800000.0,12-11-2008,Alm.,6106,4,Villa,131,1975,-3 %
+Vesterfjordsvej 7 7790 Thyholm,7,540000.0,05-11-2008,Alm.,5625,4,Villa,96,1953,0 %
+Stadionalle 4 7790 Thyholm,4,435000.0,22-10-2008,Alm.,4484,4,Villa,97,1962,-15 %
+Østergade 9 7790 Thyholm,9,865000.0,22-10-2008,Alm.,3878,7,Villa,223,1930,
+Aggerholmsvej 3 7790 Thyholm,3,845000.0,18-10-2008,Alm.,5827,6,Villa,145,1960,-6 %
+Vinkelvej 3 7790 Thyholm,3,285000.0,14-10-2008,Alm.,1900,7,Villa,150,1885,-28 %
+Kongevejen 50 7790 Thyholm,50,475000.0,09-10-2008,Alm.,6785,4,Villa,70,1917,-8 %
+Orkidevej 33 7790 Thyholm,33,77870.0,08-10-2008,Alm.,564,4,Villa,138,2009,
+Plantagevej 8 7790 Thyholm,8,335000.0,29-09-2008,Alm.,3190,4,Villa,105,1927,
+Storegade 19 7790 Thyholm,19,295000.0,27-09-2008,Alm.,4214,2,Villa,70,1901,
+Gl Landevej 10 7790 Thyholm,10,740000.0,26-09-2008,Alm.,8222,4,Villa,90,1900,
+Skovstien 7 7790 Thyholm,7,525000.0,21-09-2008,Alm.,7720,2,Sommerhus,68,1969,
+Plantagevej 12 7790 Thyholm,12,475000.0,08-09-2008,Alm.,3925,4,Villa,121,1924,
+Skovstien 34 7790 Thyholm,34,3200000.0,05-09-2008,Alm.,13559,9,Sommerhus,236,1900,
+Saturnvej 30 7790 Thyholm,30,725000.0,05-09-2008,Alm.,6304,6,Villa,115,1954,-9 %
+Grønholmevej 11 7790 Thyholm,11,2600000.0,30-08-2008,Alm.,10924,9,Stuehus,238,1929,
+Østergade 12 7790 Thyholm,12,450000.0,29-08-2008,Alm.,2616,4,Villa,172,1930,0 %
+Havnevej 16 7790 Thyholm,16,795000.0,18-08-2008,Alm.,7950,4,Villa,100,1895,
+Meldgårdsvej 2 7790 Thyholm,2,1322386.0,08-08-2008,Fam.,6959,5,Stuehus,190,1972,
+Hovedvejen 146 7790 Thyholm,146,750000.0,07-08-2008,Alm.,3363,5,Stuehus,223,1950,-6 %
+Sønderlandsgade 28 7790 Thyholm,28,625000.0,30-07-2008,Alm.,0,3,Villa,85,1984,
+Havnevej 38 7790 Thyholm,38,462573.0,25-07-2008,Andet,4093,5,Villa,113,1924,
+Birkevej 2 7790 Thyholm,2,790000.0,25-07-2008,Alm.,8315,4,Sommerhus,95,1968,-9 %
+Søndergade 27 7790 Thyholm,27,695000.0,24-07-2008,Alm.,6435,4,Villa,108,1961,0 %
+Valmuevej 27 7790 Thyholm,27,1875000.0,24-07-2008,Alm.,8223,8,Villa,228,1998,
+Hovedvejen 119 7790 Thyholm,119,740000.0,18-07-2008,Alm.,7115,4,Villa,104,1957,-7 %
+Bøhlørevej 4 7790 Thyholm,4,1185000.0,17-07-2008,Alm.,7596,5,Villa,156,1916,-1 %
+Tambogade 11 7790 Thyholm,11,530000.0,11-07-2008,Alm.,3706,4,Villa,143,1910,-5 %
+Valmuevej 20 7790 Thyholm,20,177805.0,08-07-2008,Alm.,1111,5,Villa,160,2009,
+Bøhlvej 7A 7790 Thyholm,0,900000.0,07-07-2008,Alm.,13043,4,Sommerhus,69,1978,
+Nylandsvej 18 7790 Thyholm,18,645000.0,01-07-2008,Alm.,7771,3,Villa,83,1953,0 %
+Valborgsvej 3 7790 Thyholm,3,760000.0,30-06-2008,Alm.,11176,3,Sommerhus,68,1975,-4 %
+Vestergade 12 7790 Thyholm,12,475000.0,02-06-2008,Andet,3800,5,Villa,125,1948,
+Drosselvej 9 7790 Thyholm,9,1475000.0,23-05-2008,Alm.,8194,8,Villa,180,1978,
+Ringvejen 9 7790 Thyholm,9,265000.0,23-05-2008,Alm.,3533,2,Sommerhus,75,2014,
+Hamletsvej 9 7790 Thyholm,9,362500.0,16-05-2008,Andet,4367,4,Sommerhus,83,2009,
+Ydunsvej 3 7790 Thyholm,3,985000.0,14-05-2008,Alm.,14071,3,Sommerhus,70,1990,0 %
+Baldersvej 9 7790 Thyholm,9,591620.0,13-05-2008,Alm.,5916,6,Sommerhus,100,1964,-9 %
+Styvelvej 10 7790 Thyholm,10,300000.0,28-04-2008,Fam.,3000,5,Villa,100,1908,
+Hovedvejen 55 7790 Thyholm,55,3330000.0,24-04-2008,Fam.,18920,5,Stuehus,176,1883,
+Bøhlvej 10 7790 Thyholm,10,865000.0,23-04-2008,Alm.,6360,5,Villa,136,1907,0 %
+Lunavej 4 7790 Thyholm,4,540000.0,22-04-2008,Alm.,3724,5,Villa,145,1977,
+Birkevej 18 7790 Thyholm,18,300000.0,21-04-2008,Fam.,3157,5,Sommerhus,95,1964,
+Flovlevvej 10 7790 Thyholm,10,616922.0,20-04-2008,Andet,4140,5,Villa,149,1880,
+Mejerivej 22 7790 Thyholm,22,536000.0,20-04-2008,Fam.,7052,4,Sommerhus,76,1959,
+Vesterfjordsvej 1 7790 Thyholm,1,300000.0,19-04-2008,Alm.,2500,4,Villa,120,1953,-10 %
+Ålkærvej 4 7790 Thyholm,4,950000.0,19-04-2008,Fam.,5900,5,Stuehus,161,1893,
+Ibstedvej 4 7790 Thyholm,4,395000.0,17-04-2008,Alm.,3590,6,Villa,110,1900,
+Sommerstedvej 37 7790 Thyholm,37,565000.0,12-04-2008,Alm.,8188,4,Sommerhus,69,1978,-5 %
+Hovedvejen 5 7790 Thyholm,5,930000.0,07-04-2008,Alm.,5438,5,Villa,171,1922,-6 %
+Orkidevej 35 7790 Thyholm,35,80100.0,31-03-2008,Alm.,365,7,Villa,219,2008,
+Ternevej 4 7790 Thyholm,4,357156.0,30-03-2008,Fam.,3571,5,Stuehus,100,1881,
+Orkidevej 4C 7790 Thyholm,0,425000.0,11-03-2008,Alm.,7203,2,Rækkehus,59,1979,0 %
+Nylandsvej 12 7790 Thyholm,12,865000.0,07-03-2008,Alm.,4138,9,Villa,209,1966,-3 %
+Sommerstedvej 1 7790 Thyholm,1,425000.0,07-03-2008,Alm.,7083,4,Sommerhus,60,1979,-14 %
+Helligkildevej 12 7790 Thyholm,12,625000.0,21-02-2008,Alm.,7621,4,Villa,82,1963,
+Vibevej 1 7790 Thyholm,1,1000000.0,21-02-2008,Alm.,5952,5,Villa,168,1965,
+Havnegade 2 7790 Thyholm,2,725000.0,20-02-2008,Alm.,4801,6,Villa,151,1926,-9 %
+Kongevejen 43 7790 Thyholm,43,1150000.0,19-02-2008,Alm.,7931,7,Stuehus,145,1902,-4 %
+Grønholmevej 8 7790 Thyholm,8,1575000.0,15-02-2008,Alm.,7572,5,Villa,208,1933,0 %
+Østergade 21 7790 Thyholm,21,625000.0,21-01-2008,Alm.,5208,5,Villa,120,1957,-6 %
+Storegade 14 7790 Thyholm,14,575000.0,21-01-2008,Alm.,4107,5,Villa,140,1923,-8 %
+Østerled 4 7790 Thyholm,4,900000.0,21-01-2008,Alm.,4712,7,Villa,191,1963,-9 %
+Søndergade 4 7790 Thyholm,4,325000.0,10-01-2008,Alm.,3823,4,Villa,85,1877,-6 %
+Grønholmevej 19 7790 Thyholm,19,32000000.0,08-01-2008,Alm.,156862,8,Stuehus,204,1928,
+Engblommevej 10 7790 Thyholm,10,371605.0,01-01-2008,Alm.,4371,4,Sommerhus,85,2010,
+Enghavevej 3 7790 Thyholm,3,550000.0,21-12-2007,Alm.,3437,4,Villa,160,1897,-7 %
+Jegindøvej 12 7790 Thyholm,12,3442500.0,18-12-2007,Fam.,13240,5,Stuehus,260,1917,
+Ahornvej 17 7790 Thyholm,17,1487500.0,16-12-2007,Fam.,8451,5,Sommerhus,176,2006,
+Frejasvej 3 7790 Thyholm,3,200000.0,10-12-2007,Fam.,11764,1,Sommerhus,17,1978,
+Rosenalle 6 7790 Thyholm,6,250000.0,07-12-2007,Alm.,3125,3,Villa,80,1900,
+Sommerstedvej 2 7790 Thyholm,2,520000.0,06-12-2007,Alm.,7761,3,Sommerhus,67,1973,-7 %
+Lunavej 11 7790 Thyholm,11,860000.0,08-11-2007,Alm.,7107,4,Villa,121,1977,
+Havnevej 11 7790 Thyholm,11,865000.0,25-10-2007,Alm.,4528,8,Villa,191,1933,
+Vestergade 16 7790 Thyholm,16,495000.0,10-10-2007,Alm.,4125,5,Villa,120,1948,0 %
+Tambogade 8A 7790 Thyholm,0,2150000.0,08-10-2007,Alm.,29054,3,Sommerhus,74,1917,-10 %
+Kalkværksvej 7 7790 Thyholm,7,2056400.0,28-09-2007,Andet,9520,7,Stuehus,216,1929,
+Orionsgade 31 7790 Thyholm,31,385000.0,27-09-2007,Andet,3080,5,Villa,125,1949,
+Oddevej 4 7790 Thyholm,4,100000.0,26-09-2007,Alm.,495,6,Stuehus,202,1926,
+Søndbjerg Strandvej 9 7790 Thyholm,9,465000.0,24-09-2007,Alm.,5284,3,Villa,88,1978,
+Tambobakken 12 7790 Thyholm,12,1350000.0,13-09-2007,Alm.,10150,4,Villa,133,1998,-3 %
+Kongevejen 31 7790 Thyholm,31,400000.0,10-09-2007,Fam.,3539,3,Villa,113,1929,
+Sommerstedvej 44 7790 Thyholm,44,615000.0,07-09-2007,Alm.,10250,4,Sommerhus,60,1980,-8 %
+Kirkebakken 10 7790 Thyholm,10,690000.0,05-09-2007,Alm.,6216,4,Villa,111,1934,
+Helligkildevej 14 7790 Thyholm,14,465000.0,31-08-2007,Alm.,4043,3,Villa,115,1946,
+Søndervænget 40 7790 Thyholm,40,735000.0,30-08-2007,Alm.,5833,5,Villa,126,1976,
+Østergade 31 7790 Thyholm,31,465000.0,22-08-2007,Alm.,6200,2,Villa,75,1953,
+Havrelandsvej 25B 7790 Thyholm,0,1400000.0,17-08-2007,Alm.,8284,7,Villa,169,1978,0 %
+Bragesvej 2 7790 Thyholm,2,860000.0,11-08-2007,Alm.,14333,4,Sommerhus,60,1989,
+Skovvej 20 7790 Thyholm,20,1025000.0,08-08-2007,Alm.,20500,4,Sommerhus,50,1965,0 %
+Ringvejen 55 7790 Thyholm,55,600000.0,03-08-2007,Fam.,10000,2,Sommerhus,60,1975,
+Møllegade 25 7790 Thyholm,25,310000.0,01-08-2007,Alm.,2767,5,Villa,112,1908,
+Fælledvej 4 7790 Thyholm,4,24000000.0,31-07-2007,Alm.,150000,7,Stuehus,160,1924,
+Søndbjerg Strandvej 28 7790 Thyholm,28,470000.0,20-07-2007,Alm.,11750,2,Sommerhus,40,1973,-11 %
+Råkjærvej 1 7790 Thyholm,1,2795000.0,20-07-2007,Alm.,15527,8,Stuehus,180,1880,
+Orkidevej 25 7790 Thyholm,25,1125000.0,10-07-2007,Alm.,7258,6,Villa,155,1986,
+Hovedvejen 66 7790 Thyholm,66,420000.0,06-07-2007,Alm.,5454,4,Villa,77,1905,
+Sommerstedvej 30 7790 Thyholm,30,75000.0,28-06-2007,Alm.,1136,4,Sommerhus,66,2010,
+Flovlevvej 11 7790 Thyholm,11,115000.0,25-06-2007,Alm.,532,5,Villa,216,2011,
+Orkidevej 21 7790 Thyholm,21,965000.0,18-06-2007,Alm.,6225,7,Villa,155,1981,
+Enghavevej 10 7790 Thyholm,10,700000.0,13-06-2007,Alm.,4000,6,Villa,175,1954,
+Hovedvejen 50 7790 Thyholm,50,616537.0,12-06-2007,Fam.,2802,7,Stuehus,220,1880,
+Hovedvejen 71 7790 Thyholm,71,2350000.0,12-06-2007,Alm.,17669,2,Stuehus,133,1906,
+Søndergade 26 7790 Thyholm,26,515000.0,06-06-2007,Alm.,4517,5,Villa,114,1935,-2 %
+Sommerstedvej 50A 7790 Thyholm,0,1145386.0,20-05-2007,Alm.,13968,3,Sommerhus,82,2007,
+Jupitervej 22 7790 Thyholm,22,475000.0,03-05-2007,Alm.,4523,5,Villa,105,1915,-11 %
+Kongevejen 84 7790 Thyholm,84,480000.0,25-04-2007,Alm.,2823,8,Villa,170,1960,
+Rønhegnet 5 7790 Thyholm,5,600000.0,24-04-2007,Alm.,2181,6,Sommerhus,275,2011,
+Møllegade 5 7790 Thyholm,5,515000.0,22-04-2007,Alm.,3786,5,Villa,136,1966,-6 %
+Møllegade 8 7790 Thyholm,8,260000.0,15-04-2007,Alm.,2708,2,Villa,96,1913,
+Enghavevej 11 7790 Thyholm,11,401829.0,08-04-2007,Alm.,3189,5,Villa,126,1909,-2 %
+Søndbjerg Strandvej 42 7790 Thyholm,42,467500.0,01-04-2007,Fam.,6678,4,Sommerhus,70,1952,
+Hovedvejen 140 7790 Thyholm,140,189189.0,29-03-2007,Andet,1719,2,Villa,110,1880,
+Hovedvejen 82 7790 Thyholm,82,330000.0,17-03-2007,Alm.,3173,6,Stuehus,104,1900,-26 %
+Hovedvejen 87 7790 Thyholm,87,725000.0,27-02-2007,Alm.,3125,6,Villa,232,1897,0 %
+Ibstedvej 8 7790 Thyholm,8,425000.0,26-02-2007,Alm.,5182,3,Villa,82,1903,
+Kongevejen 30A 7790 Thyholm,0,25000.0,22-02-2007,Fam.,143,4,Villa,174,2007,
+Kongevejen 76 7790 Thyholm,76,450000.0,14-02-2007,Alm.,4455,4,Villa,101,1936,
+Jupitervej 10 7790 Thyholm,10,715000.0,08-02-2007,Alm.,5107,6,Villa,140,1965,
+Firhøjvej 7 7790 Thyholm,7,960625.0,29-01-2007,Alm.,9236,5,Sommerhus,104,1980,
+Mellemvej 10 7790 Thyholm,10,440000.0,22-01-2007,Alm.,2146,7,Villa,205,1869,-7 %
+Orkidevej 27 7790 Thyholm,27,77869.0,15-01-2007,Alm.,648,3,Villa,120,2007,
+Orionsgade 47 7790 Thyholm,47,365000.0,11-01-2007,Alm.,3348,5,Villa,109,1960,
+Kongevejen 42 7790 Thyholm,42,300000.0,01-01-2007,Andet,2205,7,Villa,136,1926,
+Industrivej 4 7790 Thyholm,4,1500000.0,20-12-2006,Alm.,0,5,Anden beboelse,210,1973,
+Tambogade 28 7790 Thyholm,28,1000000.0,19-12-2006,Alm.,5376,5,Villa,186,2011,
+Nørbyvej 10 7790 Thyholm,10,340000.0,16-12-2006,Fam.,3777,2,Villa,90,1974,
+Ålkærvej 6 7790 Thyholm,6,770000.0,23-11-2006,Auktion,3850,9,Stuehus,200,1903,
+Engvej 3 7790 Thyholm,3,850000.0,03-11-2006,Alm.,4047,6,Villa,210,1902,
+Orkidevej 10B 7790 Thyholm,0,325000.0,26-10-2006,Alm.,3282,4,Rækkehus,99,1982,
+Kildevænget 9 7790 Thyholm,9,800000.0,25-10-2006,Alm.,6060,5,Villa,132,1971,
+Skovstien 11 7790 Thyholm,11,610000.0,24-10-2006,Alm.,13260,3,Sommerhus,46,1966,
+Tambobakken 16 7790 Thyholm,16,158236.0,24-10-2006,Alm.,645,6,Villa,245,2009,
+Thyrasvej 3 7790 Thyholm,3,735000.0,17-10-2006,Alm.,15978,3,Sommerhus,46,1969,
+Sommerstedvej 49 7790 Thyholm,49,565000.0,10-10-2006,Alm.,7635,4,Sommerhus,74,1974,
+Polarisvej 14 7790 Thyholm,14,660000.0,03-10-2006,Alm.,5641,6,Villa,117,1911,
+Orkidevej 7 7790 Thyholm,7,845000.0,27-09-2006,Alm.,5671,6,Villa,149,1980,
+Kongevejen 18 7790 Thyholm,18,510000.0,25-09-2006,Alm.,3923,6,Villa,130,1909,
+Gravgårdsvej 9 7790 Thyholm,9,1390000.0,21-09-2006,Alm.,15444,6,Villa,90,1936,
+Jens Globs Alle 8 7790 Thyholm,8,1500000.0,20-09-2006,Alm.,12295,4,Villa,122,1926,
+J P Lauritsensvej 6 7790 Thyholm,6,580000.0,20-09-2006,Auktion,4677,5,Villa,124,1931,
+Vestergade 29 7790 Thyholm,29,617870.0,20-09-2006,Andet,3286,8,Villa,188,1900,
+Orionsgade 39 7790 Thyholm,39,220000.0,08-09-2006,Auktion,2200,4,Villa,100,1952,
+Hovedvejen 53 7790 Thyholm,53,1260000.0,06-09-2006,Alm.,6631,7,Stuehus,190,1889,
+Helligkildevej 27 7790 Thyholm,27,247525.0,01-09-2006,Andet,2115,4,Villa,117,1947,
+Orionsgade 42 7790 Thyholm,42,14808.0,29-08-2006,Fam.,197,4,Villa,75,1963,
+Fasanvej 11 7790 Thyholm,11,845000.0,23-08-2006,Alm.,4912,6,Villa,172,1973,
+Tambohusvej 17 7790 Thyholm,17,5500000.0,14-08-2006,Alm.,12528,7,Stuehus,439,2009,
+Ålkærvej 16 7790 Thyholm,16,205000.0,10-08-2006,Alm.,2070,4,Villa,99,1900,
+Kongevejen 35 7790 Thyholm,35,250000.0,09-08-2006,Alm.,1666,5,Villa,150,1904,
+Jernbanegade 6 7790 Thyholm,6,600000.0,04-08-2006,Alm.,3921,4,Villa,153,1968,
+Fjordglimt 17 7790 Thyholm,17,895000.0,25-07-2006,Alm.,6215,4,Villa,144,1897,
+Hovedvejen 83 7790 Thyholm,83,290000.0,24-07-2006,Alm.,2230,3,Villa,130,1905,
+Barslevvej 45 7790 Thyholm,45,400000.0,11-07-2006,Alm.,3960,4,Villa,101,1900,
+Rosenvænget 6 7790 Thyholm,6,795000.0,05-07-2006,Alm.,3533,7,Villa,225,1971,
+Fuglebakken 9 7790 Thyholm,9,570000.0,04-07-2006,Alm.,4596,4,Villa,124,1976,
+Sønderlandsgade 4 7790 Thyholm,4,320000.0,27-06-2006,Alm.,3018,4,Villa,106,1905,
+Hærvej 19 7790 Thyholm,19,350000.0,26-06-2006,Alm.,6363,3,Sommerhus,55,1972,
+Siriusvej 6 7790 Thyholm,6,475000.0,24-06-2006,Alm.,3653,4,Villa,130,1965,
+Vibevej 3 7790 Thyholm,3,850000.0,20-06-2006,Alm.,5666,4,Villa,150,1965,
+Orionsgade 29 7790 Thyholm,29,335000.0,16-06-2006,Alm.,3190,3,Villa,105,1910,
+Havnevej 22 7790 Thyholm,22,537663.0,06-06-2006,Alm.,11688,4,Sommerhus,46,1962,
+Sommerstedvej 42 7790 Thyholm,42,667500.0,04-06-2006,Alm.,13350,3,Sommerhus,50,1970,
+Mejerivej 24 7790 Thyholm,24,785000.0,01-06-2006,Alm.,6132,5,Villa,128,1873,
+Mærkedalsvej 5 7790 Thyholm,5,465150.0,01-06-2006,Fam.,3578,5,Stuehus,130,1877,
+Bjørndalvej 10 7790 Thyholm,10,425000.0,25-05-2006,Alm.,2260,9,Villa,188,1901,
+Tjørnevej 25 7790 Thyholm,25,585000.0,20-05-2006,Alm.,7597,4,Sommerhus,77,1975,
+Lavbjergvej 2 7790 Thyholm,2,348995.0,18-05-2006,Alm.,1753,6,Stuehus,199,1892,
+Nylandsvej 15 7790 Thyholm,15,200000.0,06-05-2006,Alm.,2941,3,Villa,68,1925,
+Kirkestræde 9 7790 Thyholm,9,485000.0,27-04-2006,Alm.,4369,3,Villa,111,1942,
+Mejerivej 16 7790 Thyholm,16,246666.0,27-04-2006,Alm.,2466,4,Stuehus,100,1912,
+Tjørnevej 20 7790 Thyholm,20,860000.0,10-04-2006,Alm.,11466,4,Sommerhus,75,1974,
+Birkevej 11 7790 Thyholm,11,500000.0,28-03-2006,Fam.,7812,3,Sommerhus,64,1973,
+Nygade 2 7790 Thyholm,2,305000.0,14-03-2006,Alm.,3315,4,Villa,92,1908,
+Rosenalle 8 7790 Thyholm,8,145000.0,28-02-2006,Alm.,1510,4,Villa,96,1892,
+Sommerstedvej 15 7790 Thyholm,15,495000.0,28-02-2006,Alm.,9519,4,Sommerhus,52,1972,
+Tambobakken 20 7790 Thyholm,20,158236.0,28-02-2006,Alm.,690,5,Villa,229,2008,
+Tambobakken 22 7790 Thyholm,22,158236.0,27-02-2006,Alm.,601,7,Villa,263,2008,
+Firhøjvej 10 7790 Thyholm,10,650000.0,27-02-2006,Alm.,9848,3,Sommerhus,66,1973,
+Hovedvejen 35 7790 Thyholm,35,870000.0,09-02-2006,Alm.,9157,4,Villa,95,1956,
+Havnegade 5 7790 Thyholm,5,640000.0,06-02-2006,Alm.,5333,4,Villa,120,1940,
+Skibstedvej 8 7790 Thyholm,8,610000.0,03-02-2006,Alm.,3244,7,Stuehus,188,1860,
+Grøndalvej 15 7790 Thyholm,15,1385000.0,13-01-2006,Alm.,0,11,Villa,370,1900,
+Hovedvejen 92 7790 Thyholm,92,400000.0,11-01-2006,Alm.,4000,3,Villa,100,1892,
+"Storegade 17A, ST 7790 Thyholm",0,675000.0,10-01-2006,Alm.,14062,2,Lejlighed,48,1890,
+Jens Globs Alle 2 7790 Thyholm,2,585000.0,05-01-2006,Alm.,3441,6,Villa,170,1947,
+Kappelvej 11 7790 Thyholm,11,109415.0,04-01-2006,Alm.,1094,3,Stuehus,100,1900,
+Saturnvej 16 7790 Thyholm,16,240000.0,04-01-2006,Alm.,2000,5,Villa,120,1910,
+Tambobakken 14 7790 Thyholm,14,157669.0,02-01-2006,Alm.,1087,3,Villa,145,2008,
+Ibstedvej 12 7790 Thyholm,12,2050000.0,26-12-2005,Fam.,15769,6,Stuehus,130,1894,
+Sønderlandsgade 30 7790 Thyholm,30,550000.0,12-12-2005,Alm.,5445,3,Villa,101,1984,
+Krumborgvej 3 7790 Thyholm,3,295000.0,11-12-2005,Alm.,5086,2,Villa,58,1952,
+Siriusvej 9 7790 Thyholm,9,650000.0,08-12-2005,Fam.,5200,5,Villa,125,1978,
+Sommerstedvej 53 7790 Thyholm,53,26010.0,28-11-2005,Fam.,243,5,Sommerhus,107,2007,
+Møllegade 46 7790 Thyholm,46,275000.0,24-11-2005,Alm.,2669,4,Villa,103,1960,
+Kongevejen 15 7790 Thyholm,15,850000.0,18-11-2005,Alm.,0,4,Villa,134,1867,
+Rønvej 25 7790 Thyholm,25,315000.0,18-11-2005,Fam.,3795,4,Sommerhus,83,2007,
+Kirkebakken 5 7790 Thyholm,5,975000.0,04-11-2005,Alm.,8628,5,Stuehus,113,1958,
+Søndergade 3 7790 Thyholm,3,600000.0,01-11-2005,Alm.,6521,4,Villa,92,1900,
+Jegindøvej 9 7790 Thyholm,9,685100.0,01-11-2005,Alm.,3764,6,Stuehus,182,1909,
+Råkjærvej 7 7790 Thyholm,7,1800000.0,01-11-2005,Alm.,9424,5,Stuehus,191,1992,
+Svinget 16 7790 Thyholm,16,1150000.0,31-10-2005,Alm.,0,4,Sommerhus,86,1978,
+Barslevvej 22 7790 Thyholm,22,790000.0,21-10-2005,Alm.,2862,10,Stuehus,276,1852,
+Birkevej 7 7790 Thyholm,7,898000.0,20-10-2005,Alm.,11086,3,Sommerhus,81,1971,
+Saturnvej 17 7790 Thyholm,17,275000.0,20-10-2005,Alm.,2115,6,Villa,130,1950,
+Flovlevvej 7 7790 Thyholm,7,1300000.0,16-10-2005,Alm.,9848,4,Villa,132,2004,
+Kildevænget 14 7790 Thyholm,14,600000.0,15-10-2005,Fam.,4511,5,Villa,133,1971,
+Elmevej 6 7790 Thyholm,6,331500.0,10-10-2005,Alm.,6500,3,Sommerhus,51,1967,
+Fjordglimt 1 7790 Thyholm,1,900000.0,04-10-2005,Alm.,5882,5,Stuehus,153,1924,
+Møllegade 47 7790 Thyholm,47,245000.0,01-10-2005,Alm.,2578,6,Villa,95,1905,
+Søndbjerg Strandvej 36 7790 Thyholm,36,850000.0,29-09-2005,Alm.,10897,5,Sommerhus,78,1966,
+Jestrupvej 17 7790 Thyholm,17,875000.0,17-09-2005,Alm.,3365,7,Villa,260,1898,
+Lærkevej 21 7790 Thyholm,21,700000.0,12-09-2005,Alm.,0,4,Sommerhus,121,1971,
+Møllegade 6 7790 Thyholm,6,400000.0,08-09-2005,Alm.,1666,5,Villa,240,1933,
+Skovvej 22 7790 Thyholm,22,1121121.0,08-09-2005,Alm.,14014,2,Sommerhus,80,1976,
+Bakkedalvej 4 7790 Thyholm,4,1650000.0,01-09-2005,Fam.,4714,6,Sommerhus,350,1848,
+Søndbjerg Strandvej 22 7790 Thyholm,22,250000.0,30-08-2005,Alm.,1162,4,Stuehus,215,1907,
+Fjordlystvej 12 7790 Thyholm,12,2575354.0,04-08-2005,Alm.,11653,5,Stuehus,221,1915,
+Sandkrogvej 11 7790 Thyholm,11,671000.0,08-07-2005,Fam.,3727,8,Stuehus,180,1909,
+Hærvej 9A 7790 Thyholm,0,125000.0,05-07-2005,Alm.,1893,4,Sommerhus,66,2010,
+Kalkværksvej 16 7790 Thyholm,16,672000.0,01-07-2005,Fam.,3796,7,Villa,177,1925,
+Lunavej 6 7790 Thyholm,6,445000.0,29-06-2005,Alm.,3647,4,Villa,122,1978,
+"Søndergade 34, 1 7790 Thyholm",1,2375000.0,27-06-2005,Alm.,15522,4,Anden beboelse,153,1972,
+Sommerstedvej 38 7790 Thyholm,38,715000.0,24-06-2005,Alm.,9533,4,Sommerhus,75,1972,
+Østergade 17 7790 Thyholm,17,730000.0,20-06-2005,Alm.,4371,5,Villa,167,1969,
+Havnevej 12 7790 Thyholm,12,1400000.0,15-06-2005,Alm.,11023,6,Stuehus,127,1939,
+Tjørnevej 23 7790 Thyholm,23,540000.0,12-06-2005,Alm.,10800,3,Sommerhus,50,1973,
+Kongevejen 70 7790 Thyholm,70,582500.0,30-05-2005,Alm.,4379,7,Villa,133,1908,
+Bøhlvej 8 7790 Thyholm,8,944000.0,26-05-2005,Alm.,0,8,Stuehus,227,1883,
+Frederiksgade 19 7790 Thyholm,19,635000.0,24-05-2005,Alm.,4018,6,Villa,158,1883,
+Thyrasvej 4 7790 Thyholm,4,455000.0,18-05-2005,Alm.,8750,4,Sommerhus,52,1972,
+Møllegade 39 7790 Thyholm,39,545000.0,11-05-2005,Alm.,4325,5,Villa,126,1905,
+Søstjernevej 27 7790 Thyholm,27,705000.0,07-05-2005,Alm.,6130,4,Villa,115,1985,
+Hindselsvej 3 7790 Thyholm,3,675000.0,06-05-2005,Alm.,4591,7,Stuehus,147,1895,
+Sommerstedvej 48 7790 Thyholm,48,275000.0,29-04-2005,Alm.,3437,6,Sommerhus,80,1975,
+Birkevej 10 7790 Thyholm,10,645000.0,28-04-2005,Alm.,12900,3,Sommerhus,50,1973,
+Kløvervænget 6 7790 Thyholm,6,500000.0,28-04-2005,Alm.,4545,3,Villa,110,1969,
+Grønholmevej 12 7790 Thyholm,12,120000.0,28-04-2005,Alm.,1200,3,Villa,100,1897,
+Sommerstedvej 45 7790 Thyholm,45,535000.0,19-04-2005,Alm.,5350,5,Sommerhus,100,1973,
+Aggerholmsvej 27 7790 Thyholm,27,895000.0,18-04-2005,Alm.,3698,8,Villa,242,1877,
+Bøhlvej 7B 7790 Thyholm,0,460000.0,18-04-2005,Alm.,6216,5,Sommerhus,74,1976,
+Skolegade 3 7790 Thyholm,3,700000.0,15-04-2005,Alm.,5833,6,Villa,120,1960,
+Søndbjerg Strandvej 23 7790 Thyholm,23,545000.0,11-04-2005,Alm.,8257,2,Sommerhus,66,1945,
+Niels Lousdahls Vej 1 7790 Thyholm,1,1180000.0,06-04-2005,Alm.,9593,5,Sommerhus,123,1973,
+Østergade 18 7790 Thyholm,18,395000.0,05-04-2005,Alm.,4647,3,Villa,85,1964,
+Rosenalle 2 7790 Thyholm,2,495000.0,02-04-2005,Alm.,2894,5,Villa,171,1906,
+Rønhegnet 3 7790 Thyholm,3,240000.0,28-03-2005,Alm.,3076,4,Sommerhus,78,2006,
+Tambohusvej 6 7790 Thyholm,6,690000.0,17-03-2005,Alm.,2760,6,Villa,250,1892,
+Skovstien 16 7790 Thyholm,16,530000.0,11-03-2005,Fam.,0,4,Sommerhus,93,1971,
+Drosselvej 6 7790 Thyholm,6,806000.0,08-03-2005,Alm.,5233,5,Villa,154,1979,
+Kongevejen 56 7790 Thyholm,56,575000.0,08-03-2005,Alm.,5180,4,Villa,111,1951,
+Hindselsvej 14 7790 Thyholm,14,3700000.0,04-03-2005,Fam.,15102,9,Stuehus,245,1878,
+Ringvejen 7 7790 Thyholm,7,270000.0,25-02-2005,Alm.,5094,3,Sommerhus,53,1972,
+Markvejen 7 7790 Thyholm,7,250000.0,10-02-2005,Alm.,2427,4,Sommerhus,103,2006,
+Svinget 7 7790 Thyholm,7,850000.0,09-02-2005,Alm.,11184,4,Sommerhus,76,1974,
+Søstjernevej 9 7790 Thyholm,9,510000.0,20-01-2005,Alm.,5049,4,Villa,101,1980,
+Hovedvejen 41 7790 Thyholm,41,8500000.0,07-01-2005,Alm.,27419,11,Stuehus,310,1870,
+Thorsvej 2 7790 Thyholm,2,272000.0,03-01-2005,Fam.,5440,4,Sommerhus,50,1969,
+Solsortevej 3 7790 Thyholm,3,143535.0,28-12-2004,Alm.,963,4,Villa,149,2005,
+Vestergade 2 7790 Thyholm,2,635000.0,23-12-2004,Alm.,4409,5,Villa,144,1907,
+Tjørnevej 6 7790 Thyholm,6,350000.0,19-12-2004,Fam.,6603,3,Sommerhus,53,1971,
+J P Lauritsensvej 18 7790 Thyholm,18,750000.0,15-12-2004,Alm.,2640,5,Villa,284,1972,
+Rønhegnet 1 7790 Thyholm,1,235000.0,13-12-2004,Alm.,2098,4,Sommerhus,112,2009,
+Skolegade 6 7790 Thyholm,6,725000.0,11-12-2004,Alm.,5451,4,Villa,133,1978,
+Svinget 5 7790 Thyholm,5,725000.0,08-12-2004,Alm.,9931,4,Sommerhus,73,1973,
+Jestrupvej 11 7790 Thyholm,11,325000.0,22-11-2004,Alm.,2901,4,Villa,112,1969,
+J P Lauritsensvej 2 7790 Thyholm,2,295000.0,17-11-2004,Alm.,2398,5,Villa,123,1898,
+Sandkrogvej 9 7790 Thyholm,9,266667.0,12-11-2004,Fam.,2777,5,Sommerhus,96,1907,
+Vesterfjordsvej 3 7790 Thyholm,3,645160.0,12-11-2004,Alm.,0,5,Stuehus,214,1778,
+Skovvej 23 7790 Thyholm,23,595000.0,04-11-2004,Alm.,7256,4,Sommerhus,82,1975,
+Vestergade 23 7790 Thyholm,23,375000.0,04-11-2004,Alm.,2976,8,Villa,126,1918,
+Vestergade 10 7790 Thyholm,10,310000.0,18-10-2004,Alm.,0,6,Villa,134,1919,
+Firhøjvej 11 7790 Thyholm,11,105000.0,17-10-2004,Alm.,3281,2,Sommerhus,32,2006,
+Sommerstedvej 9 7790 Thyholm,9,445000.0,16-10-2004,Alm.,8240,3,Sommerhus,54,1978,
+A C Hoppesvej 8 7790 Thyholm,8,1138000.0,22-09-2004,Alm.,5419,7,Stuehus,210,1877,
+J P Lauritsensvej 19 7790 Thyholm,19,425000.0,08-09-2004,Alm.,4829,5,Sommerhus,88,1975,
+Teglbjergvej 5 7790 Thyholm,5,3726030.0,02-09-2004,Alm.,18723,8,Stuehus,199,1905,
+Ahornvej 5 7790 Thyholm,5,110000.0,01-09-2004,Alm.,1527,3,Sommerhus,72,2010,
+Tambogade 8 7790 Thyholm,8,575000.0,01-09-2004,Alm.,4136,6,Villa,139,1902,
+Hærvej 10 7790 Thyholm,10,395000.0,12-08-2004,Alm.,5642,4,Sommerhus,70,1970,
+Svinget 17 7790 Thyholm,17,140000.0,10-08-2004,Alm.,1944,2,Sommerhus,72,2007,
+Kongevejen 46 7790 Thyholm,46,575000.0,08-07-2004,Alm.,5088,4,Villa,113,1934,
+Kongevejen 20 7790 Thyholm,20,300000.0,07-07-2004,Alm.,3296,4,Villa,91,1961,
+Drosselvej 7 7790 Thyholm,7,924000.0,01-07-2004,Alm.,5049,6,Villa,183,1978,
+Gyvelvej 5 7790 Thyholm,5,720000.0,25-06-2004,Alm.,5454,6,Sommerhus,132,1984,
+Havnevej 25A 7790 Thyholm,0,45000.0,25-06-2004,Alm.,223,5,Villa,201,2005,
+Sdr Ringvej 2 7790 Thyholm,2,1170000.0,24-06-2004,Alm.,11700,4,Stuehus,100,1903,
+Hovedvejen 28 7790 Thyholm,28,545000.0,20-06-2004,Alm.,4395,4,Sommerhus,124,1895,
+Fyrrevej 7 7790 Thyholm,7,200000.0,15-06-2004,Alm.,0,4,Sommerhus,58,1977,
+Firhøjvej 2 7790 Thyholm,2,391000.0,14-06-2004,Fam.,6015,4,Sommerhus,65,1971,
+Lærkevej 23 7790 Thyholm,23,250000.0,10-06-2004,Fam.,2873,5,Sommerhus,87,1969,
+Bøgevej 1 7790 Thyholm,1,450000.0,05-06-2004,Alm.,5056,4,Sommerhus,89,1967,
+Skovvej 11 7790 Thyholm,11,455000.0,04-06-2004,Alm.,9479,2,Sommerhus,48,1970,
+Ålkærvej 12 7790 Thyholm,12,333568.0,04-06-2004,Alm.,3005,5,Villa,111,1909,
+Ålkærvej 3 7790 Thyholm,3,890000.0,03-06-2004,Fam.,7606,3,Villa,117,1893,
+Lorens Vej 6 7790 Thyholm,6,270000.0,28-05-2004,Alm.,5744,3,Sommerhus,47,1976,
+Hærvej 1 7790 Thyholm,1,365000.0,08-05-2004,Alm.,5367,3,Sommerhus,68,1967,
+Nannasvej 5 7790 Thyholm,5,370000.0,01-05-2004,Fam.,5285,4,Sommerhus,70,1976,
+Firhøjvej 9 7790 Thyholm,9,552500.0,01-05-2004,Alm.,7673,4,Sommerhus,72,1978,
+Bragesvej 6 7790 Thyholm,6,65000.0,01-05-2004,Alm.,866,4,Sommerhus,75,2005,
+Sommerstedvej 29 7790 Thyholm,29,410000.0,30-04-2004,Alm.,4659,4,Sommerhus,88,1974,
+Hovedvejen 122 7790 Thyholm,122,263500.0,28-04-2004,Fam.,2352,4,Stuehus,112,1877,
+Søndervænget 34 7790 Thyholm,34,420000.0,28-04-2004,Alm.,4038,4,Rækkehus,104,1973,
+Søstjernevej 23 7790 Thyholm,23,460000.0,28-04-2004,Alm.,4554,4,Villa,101,1983,
+Sandkrogvej 10 7790 Thyholm,10,900000.0,26-04-2004,Alm.,7500,5,Stuehus,120,1880,
+Rønhegnet 11 7790 Thyholm,11,170000.0,17-04-2004,Alm.,1349,5,Sommerhus,126,2005,
+Ahornvej 7 7790 Thyholm,7,120000.0,08-04-2004,Alm.,1052,5,Sommerhus,114,2009,
+Rønhegnet 9 7790 Thyholm,9,180000.0,31-03-2004,Alm.,2857,4,Sommerhus,63,2004,
+Møllegade 27 7790 Thyholm,27,200000.0,29-03-2004,Alm.,2352,4,Villa,85,1905,
+Søndbjerg Strandvej 8 7790 Thyholm,8,417938.0,12-03-2004,Alm.,5159,3,Villa,81,1948,
+Skibdalvej 5 7790 Thyholm,5,515000.0,09-03-2004,Alm.,7152,2,Sommerhus,72,1968,
+Birkevej 1 7790 Thyholm,1,475000.0,03-03-2004,Alm.,7089,3,Sommerhus,67,1976,
+Mejerivej 3 7790 Thyholm,3,270000.0,01-03-2004,Alm.,1719,5,Villa,157,1911,
+Følhøjvej 10 7790 Thyholm,10,1840000.0,27-02-2004,Alm.,8518,8,Stuehus,216,1882,
+Bjørndalvej 6 7790 Thyholm,6,360000.0,19-02-2004,Alm.,3461,4,Villa,104,1947,
+Havnevej 32 7790 Thyholm,32,570000.0,17-02-2004,Alm.,4100,5,Villa,139,1902,
+Hjalmarsvej 4 7790 Thyholm,4,450000.0,10-02-2004,Alm.,11250,3,Sommerhus,40,1972,
+Rønhegnet 8 7790 Thyholm,8,210000.0,04-02-2004,Alm.,2121,4,Sommerhus,99,2005,
+Vestergade 5 7790 Thyholm,5,184334.0,30-01-2004,Alm.,1326,6,Villa,139,1907,
+Svinget 6 7790 Thyholm,6,885000.0,23-01-2004,Alm.,10662,5,Sommerhus,83,1978,
+Nørregade 5 7790 Thyholm,5,495000.0,22-01-2004,Alm.,0,8,Villa,196,1892,
+Merkurvej 1 7790 Thyholm,1,570000.0,14-01-2004,Alm.,2298,5,Villa,248,1960,
+Skibdalvej 24 7790 Thyholm,24,315000.0,26-12-2003,Alm.,3315,5,Sommerhus,95,1966,
+Østergade 6 7790 Thyholm,6,335000.0,24-11-2003,Alm.,3316,5,Villa,101,1932,
+Tambogade 39 7790 Thyholm,39,247000.0,24-11-2003,Fam.,1829,6,Villa,135,1907,
+Birkevej 3 7790 Thyholm,3,300000.0,23-11-2003,Alm.,0,4,Sommerhus,93,1972,
+Hærvej 11 7790 Thyholm,11,430000.0,17-11-2003,Alm.,8958,3,Sommerhus,48,1979,
+J P Lauritsensvej 11 7790 Thyholm,11,297000.0,04-11-2003,Alm.,5210,3,Villa,57,1958,
+Tjørnevej 4 7790 Thyholm,4,385000.0,29-10-2003,Alm.,6311,3,Sommerhus,61,1975,
+Lavbjergvej 4 7790 Thyholm,4,1204200.0,27-10-2003,Alm.,4410,12,Stuehus,273,1925,
+Kirkegade 6A 7790 Thyholm,0,745000.0,23-10-2003,Alm.,4745,5,Villa,157,1978,
+Orionsgade 25 7790 Thyholm,25,170000.0,22-10-2003,Alm.,965,7,Villa,176,1903,
+Nørskovvej 5 7790 Thyholm,5,535000.0,04-10-2003,Alm.,3203,9,Villa,167,1908,
+Vestergade 21 7790 Thyholm,21,520000.0,24-09-2003,Alm.,5148,3,Villa,101,1968,
+Skovvej 35 7790 Thyholm,35,196594.0,16-09-2003,Andet,3332,3,Sommerhus,59,1972,
+Elmevej 4 7790 Thyholm,4,400000.0,12-09-2003,Alm.,6349,3,Sommerhus,63,1971,
+Nylandsvej 5 7790 Thyholm,5,435000.0,10-09-2003,Alm.,3000,7,Villa,145,1935,
+Solsortevej 2 7790 Thyholm,2,146592.0,09-09-2003,Alm.,904,4,Villa,162,2005,
+Vesterfjordsvej 4 7790 Thyholm,4,3000000.0,06-09-2003,Fam.,12000,6,Stuehus,250,1873,
+Sommerstedvej 25 7790 Thyholm,25,350000.0,01-09-2003,Alm.,4605,5,Sommerhus,76,1975,
+Hovedvejen 73 7790 Thyholm,73,1600000.0,29-08-2003,Alm.,7804,8,Villa,205,1902,
+Kirkestræde 2 7790 Thyholm,2,622500.0,26-08-2003,Alm.,4042,5,Villa,154,1907,
+Helligkildevej 17B 7790 Thyholm,0,655000.0,20-08-2003,Alm.,6298,4,Villa,104,1985,
+Baldersvej 7 7790 Thyholm,7,90000.0,18-08-2003,Alm.,1764,2,Sommerhus,51,1960,
+Orionsgade 44 7790 Thyholm,44,375000.0,18-08-2003,Alm.,3787,3,Villa,99,1962,
+Jernbanegade 8 7790 Thyholm,8,450000.0,15-08-2003,Alm.,5357,3,Villa,84,1897,
+Agertoften 12 7790 Thyholm,12,70000.0,06-08-2003,Alm.,1029,4,Sommerhus,68,2005,
+Tjørnevej 27 7790 Thyholm,27,365000.0,05-08-2003,Alm.,0,3,Sommerhus,89,1976,
+Solsortevej 1 7790 Thyholm,1,1000000.0,24-07-2003,Alm.,8064,4,Villa,124,2002,
+Dagmarsvej 1 7790 Thyholm,1,535000.0,17-07-2003,Alm.,7430,5,Sommerhus,72,1960,
+Valmuevej 29 7790 Thyholm,29,88592.0,10-07-2003,Alm.,515,4,Villa,172,2003,
+Møllegade 4 7790 Thyholm,4,271000.0,03-07-2003,Auktion,1715,3,Villa,158,1930,
+Vestergade 19 7790 Thyholm,19,500000.0,25-06-2003,Alm.,3968,5,Villa,126,1970,
+Ahornvej 6 7790 Thyholm,6,120000.0,18-06-2003,Alm.,1739,3,Sommerhus,69,2007,
+Kongevejen 44 7790 Thyholm,44,298000.0,16-06-2003,Alm.,2013,5,Villa,148,1926,
+Ålkærvej 5 7790 Thyholm,5,370000.0,16-06-2003,Alm.,2868,5,Stuehus,129,1900,
+Ternevej 3 7790 Thyholm,3,940000.0,16-06-2003,Alm.,9591,4,Stuehus,98,1930,
+Skovstien 24 7790 Thyholm,24,415000.0,05-06-2003,Alm.,7830,4,Sommerhus,53,1971,
+Tambogade 14 7790 Thyholm,14,750000.0,04-06-2003,Alm.,8333,4,Sommerhus,90,1907,
+Stadionalle 1 7790 Thyholm,1,300000.0,26-05-2003,Alm.,4285,5,Villa,70,1907,
+Meldgårdsvej 4 7790 Thyholm,4,378735.0,26-05-2003,Alm.,1932,5,Stuehus,196,1910,
+Hærvej 12 7790 Thyholm,12,315000.0,25-05-2003,Alm.,5338,3,Sommerhus,59,1975,
+Orkidevej 19 7790 Thyholm,19,570000.0,13-05-2003,Alm.,3904,5,Villa,146,1980,
+Jestrupvej 19 7790 Thyholm,19,465000.0,12-05-2003,Alm.,2527,5,Villa,184,1900,
+Uraniavej 4 7790 Thyholm,4,470000.0,30-04-2003,Alm.,2175,8,Villa,216,1904,
+Valborgsvej 8 7790 Thyholm,8,450000.0,29-04-2003,Alm.,5232,3,Sommerhus,86,2005,
+Flovlevvej 9 7790 Thyholm,9,707680.0,25-04-2003,Alm.,0,4,Stuehus,175,1918,
+Ringvejen 16 7790 Thyholm,16,250000.0,23-04-2003,Alm.,5208,2,Sommerhus,48,1970,
+Havnevej 9 7790 Thyholm,9,515000.0,22-04-2003,Fam.,3301,6,Villa,156,1967,
+Tambobakken 32 7790 Thyholm,32,156795.0,15-04-2003,Alm.,743,4,Villa,211,2005,
+Hærvej 3 7790 Thyholm,3,460000.0,07-04-2003,Alm.,5348,5,Sommerhus,86,1974,
+Møllevænget 15 7790 Thyholm,15,650000.0,31-03-2003,Alm.,5416,5,Villa,120,1987,
+Fasanvej 9 7790 Thyholm,9,880000.0,27-03-2003,Alm.,6111,5,Villa,144,1973,
+Tambobakken 24 7790 Thyholm,24,156795.0,25-03-2003,Alm.,979,5,Villa,160,2004,
+Torvegade 14 7790 Thyholm,14,379130.0,19-03-2003,Alm.,3415,3,Lejlighed,111,1990,
+Skovstien 9 7790 Thyholm,9,340000.0,08-03-2003,Alm.,0,4,Sommerhus,79,1969,
+Ahornvej 2 7790 Thyholm,2,153000.0,08-03-2003,Fam.,1821,5,Sommerhus,84,1991,
+Skovvej 24 7790 Thyholm,24,118750.0,16-02-2003,Andet,2473,3,Sommerhus,48,1975,
+Søndervænget 9 7790 Thyholm,9,630000.0,07-02-2003,Alm.,5080,3,Villa,124,1967,
+Hovedvejen 68 7790 Thyholm,68,565000.0,07-02-2003,Alm.,2897,5,Villa,195,1914,
+Polarisvej 9 7790 Thyholm,9,651807.0,29-01-2003,Alm.,4622,6,Villa,141,1957,
+Nylandsvej 2 7790 Thyholm,2,656198.0,03-01-2003,Alm.,3280,7,Villa,200,1965,
+A C Hoppesvej 9 7790 Thyholm,9,4929420.0,31-12-2002,Fam.,21908,7,Stuehus,225,1917,
+Sommerstedvej 10 7790 Thyholm,10,306283.0,06-12-2002,Alm.,3403,4,Sommerhus,90,1974,
+Søndervænget 23 7790 Thyholm,23,820000.0,03-12-2002,Alm.,5256,4,Villa,156,1973,
+Lyngs Kirkevej 12 7790 Thyholm,12,5588017.0,02-12-2002,Fam.,24401,7,Stuehus,229,1872,
+Orkidevej 4A 7790 Thyholm,0,365000.0,01-12-2002,Alm.,6186,2,Rækkehus,59,1979,
+Havrelandsvej 1 7790 Thyholm,1,275000.0,18-11-2002,Alm.,0,7,Villa,195,1910,
+Søvej 4 7790 Thyholm,4,331500.0,18-11-2002,Fam.,5525,4,Sommerhus,60,1971,
+Serup Kirkevej 10 7790 Thyholm,10,875000.0,28-10-2002,Alm.,8750,3,Villa,100,1877,
+Saturnvej 11 7790 Thyholm,11,615000.0,17-10-2002,Alm.,4241,3,Villa,145,1920,
+Hovedvejen 110 7790 Thyholm,110,780000.0,17-10-2002,Alm.,4534,4,Stuehus,172,1917,
+Svinget 18 7790 Thyholm,18,880000.0,14-10-2002,Alm.,10114,4,Sommerhus,87,1980,
+Engblommevej 7 7790 Thyholm,7,330000.0,01-10-2002,Alm.,7333,3,Sommerhus,45,1974,
+Merkurvej 7 7790 Thyholm,7,188000.0,27-09-2002,Alm.,1861,4,Villa,101,1900,
+Sommerstedvej 4 7790 Thyholm,4,350000.0,17-09-2002,Alm.,6034,3,Sommerhus,58,1972,
+Drosselvej 5 7790 Thyholm,5,900000.0,07-09-2002,Alm.,4522,6,Villa,199,1977,
+Fælledvej 2 7790 Thyholm,2,1500000.0,01-09-2002,Fam.,10344,4,Stuehus,145,1938,
+Møllegade 30 7790 Thyholm,30,650000.0,15-08-2002,Alm.,7222,3,Villa,90,1905,
+Fjordstien 1 7790 Thyholm,1,385000.0,13-08-2002,Alm.,6015,2,Sommerhus,64,1968,
+Kærvej 7 7790 Thyholm,7,375000.0,11-08-2002,Alm.,2884,5,Stuehus,130,1827,
+Skovvej 9 7790 Thyholm,9,450000.0,12-07-2002,Alm.,6164,4,Sommerhus,73,1973,
+Skærshøjvej 15 7790 Thyholm,15,595000.0,27-06-2002,Alm.,2575,6,Villa,231,1900,
+Ternevej 5 7790 Thyholm,5,730000.0,27-06-2002,Alm.,4506,7,Villa,162,1914,
+Styvelvej 5 7790 Thyholm,5,4838910.0,06-06-2002,Fam.,21796,9,Stuehus,222,1857,
+Styvelvej 3 7790 Thyholm,3,2811250.0,06-06-2002,Fam.,7744,7,Stuehus,363,1864,
+Skovvej 7 7790 Thyholm,7,250000.0,29-05-2002,Alm.,4032,3,Sommerhus,62,1968,
+Søndergade 29 7790 Thyholm,29,645000.0,28-05-2002,Alm.,4006,6,Villa,161,1962,
+Saturnvej 6 7790 Thyholm,6,520000.0,20-05-2002,Alm.,2888,6,Villa,180,1931,
+Barslevvej 7 7790 Thyholm,7,400000.0,13-05-2002,Alm.,0,8,Villa,217,1960,
+Kongevejen 88 7790 Thyholm,88,4550000.0,03-05-2002,Alm.,23333,8,Stuehus,195,1885,
+Hærvej 2 7790 Thyholm,2,285000.0,15-04-2002,Alm.,3352,5,Sommerhus,85,1971,
+J P Lauritsensvej 5 7790 Thyholm,5,435000.0,10-04-2002,Alm.,4142,4,Villa,105,1897,
+Havnevej 14 7790 Thyholm,14,545000.0,09-04-2002,Alm.,5190,4,Stuehus,105,1876,
+Nørskovvej 6 7790 Thyholm,6,220000.0,28-03-2002,Alm.,0,6,Villa,143,1930,
+Orionsgade 27 7790 Thyholm,27,220000.0,25-03-2002,Alm.,2500,3,Villa,88,1902,
+Sembvej 8 7790 Thyholm,8,4125000.0,14-03-2002,Alm.,16700,10,Stuehus,247,1908,
+Sommerstedvej 11 7790 Thyholm,11,380000.0,13-03-2002,Alm.,4871,3,Sommerhus,78,1978,
+Kongevejen 55 7790 Thyholm,55,360000.0,05-03-2002,Alm.,3600,4,Villa,100,1914,
+Vibevej 2 7790 Thyholm,2,1050000.0,04-03-2002,Alm.,3312,9,Villa,317,1962,
+Havrelandsvej 7 7790 Thyholm,7,450000.0,18-02-2002,Alm.,2848,5,Stuehus,158,1882,
+Orkidevej 8B 7790 Thyholm,0,465000.0,17-02-2002,Alm.,4696,4,Rækkehus,99,1981,
+Grøndalvej 11A 7790 Thyholm,0,2000000.0,08-02-2002,Fam.,14285,7,Stuehus,140,1911,
+Søndbjerg Strandvej 34 7790 Thyholm,34,410000.0,24-01-2002,Alm.,4100,4,Sommerhus,100,1968,
+Østergade 28 7790 Thyholm,28,600000.0,24-01-2002,Alm.,4000,5,Villa,150,1965,
+Mellemvej 12 7790 Thyholm,12,475000.0,23-01-2002,Alm.,3064,4,Villa,155,1890,
+Hamletsvej 6 7790 Thyholm,6,200000.0,26-12-2001,Fam.,3174,4,Sommerhus,63,1967,
+Enghavevej 8 7790 Thyholm,8,536397.0,20-12-2001,Alm.,5108,5,Villa,105,1948,
+Vestergade 33 7790 Thyholm,33,295000.0,18-12-2001,Alm.,3277,4,Villa,90,1955,
+Søndervænget 30 7790 Thyholm,30,460000.0,14-12-2001,Alm.,4423,3,Rækkehus,104,1974,
+Firhøjvej 1 7790 Thyholm,1,430000.0,10-12-2001,Alm.,6935,4,Sommerhus,62,1971,
+Tambohusvej 11 7790 Thyholm,11,514000.0,10-12-2001,Alm.,3864,4,Villa,133,1936,
+Enghavevej 1 7790 Thyholm,1,240848.0,06-12-2001,Alm.,1911,5,Villa,126,1890,
+Helligkildevej 6 7790 Thyholm,6,285000.0,24-11-2001,Alm.,2192,4,Villa,130,1907,
+Østergade 3 7790 Thyholm,3,445000.0,21-11-2001,Alm.,2317,7,Villa,192,1926,
+Fuglebakken 7 7790 Thyholm,7,1115000.0,09-11-2001,Alm.,4424,7,Villa,252,1975,
+Serup Kirkevej 9 7790 Thyholm,9,2026752.0,09-11-2001,Alm.,14476,5,Stuehus,140,1900,
+Odinsvej 5 7790 Thyholm,5,400000.0,20-10-2001,Alm.,4000,4,Sommerhus,100,1973,
+Fjordstien 11 7790 Thyholm,11,430000.0,19-10-2001,Alm.,4432,5,Sommerhus,97,1961,
+Jens Globs Alle 12 7790 Thyholm,12,595000.0,18-10-2001,Fam.,3541,6,Villa,168,1950,
+Birkevej 17 7790 Thyholm,17,340000.0,14-10-2001,Alm.,5151,3,Sommerhus,66,1971,
+Kærvej 4 7790 Thyholm,4,314530.0,13-10-2001,Alm.,3310,4,Villa,95,1889,
+Orionsgade 34 7790 Thyholm,34,310000.0,10-10-2001,Alm.,3604,4,Villa,86,1953,
+Valborgsvej 7 7790 Thyholm,7,425000.0,30-09-2001,Alm.,6854,4,Sommerhus,62,1980,
+Hjalmarsvej 8 7790 Thyholm,8,375000.0,30-09-2001,Alm.,6818,3,Sommerhus,55,1957,
+Jens Globs Alle 6 7790 Thyholm,6,226055.0,25-09-2001,Fam.,1395,7,Villa,162,1934,
+Drosselvej 12 7790 Thyholm,12,535000.0,24-09-2001,Alm.,4314,5,Villa,124,1978,
+Tambogade 47 7790 Thyholm,47,785000.0,21-09-2001,Alm.,9573,4,Sommerhus,82,1998,
+Sembvej 6 7790 Thyholm,6,1052000.0,20-09-2001,Alm.,0,14,Stuehus,312,1882,
+Skovvej 33B 7790 Thyholm,0,65000.0,19-09-2001,Alm.,764,3,Sommerhus,85,2004,
+Lunavej 19 7790 Thyholm,19,610549.0,19-09-2001,Alm.,5130,4,Villa,119,1977,
+Barslevvej 9 7790 Thyholm,9,525000.0,14-09-2001,Alm.,4449,5,Villa,118,1961,
+Tambogade 20 7790 Thyholm,20,556000.0,10-09-2001,Alm.,3971,3,Villa,140,1910,
+Hovedvejen 27 7790 Thyholm,27,303000.0,04-09-2001,Alm.,2061,5,Villa,147,1895,
+Lunavej 8 7790 Thyholm,8,620000.0,03-09-2001,Alm.,4428,6,Villa,140,1979,
+Hybenvej 4 7790 Thyholm,4,535000.0,31-08-2001,Alm.,5459,4,Sommerhus,98,1976,
+Siriusvej 20 7790 Thyholm,20,420000.0,26-08-2001,Alm.,3529,4,Villa,119,1976,
+Lorens Vej 2 7790 Thyholm,2,178500.0,17-08-2001,Fam.,1983,4,Villa,90,2006,
+Nørregade 14 7790 Thyholm,14,360000.0,14-08-2001,Alm.,2117,6,Villa,170,1937,
+J P Lauritsensvej 7 7790 Thyholm,7,195000.0,08-08-2001,Alm.,1666,5,Villa,117,1800,
+Sommerstedvej 3 7790 Thyholm,3,145000.0,07-08-2001,Alm.,2735,4,Sommerhus,53,1974,
+Enghavevej 15 7790 Thyholm,15,725000.0,06-07-2001,Alm.,4833,5,Villa,150,1967,
+Polarisvej 3 7790 Thyholm,3,100000.0,25-06-2001,Alm.,1111,4,Villa,90,1905,
+Ballevej 11 7790 Thyholm,11,575000.0,22-06-2001,Alm.,0,10,Villa,339,1939,
+Orkidevej 2 7790 Thyholm,2,480000.0,14-06-2001,Alm.,3809,4,Villa,126,1974,
+Søndergade 7 7790 Thyholm,7,295000.0,08-06-2001,Alm.,2864,4,Villa,103,1920,
+Kirkegade 6 7790 Thyholm,6,610000.0,04-06-2001,Alm.,4692,3,Villa,130,1976,
+J P Lauritsensvej 25 7790 Thyholm,25,370000.0,29-05-2001,Alm.,2846,5,Villa,130,1900,
+Gormsvej 11 7790 Thyholm,11,495000.0,27-05-2001,Alm.,7857,4,Sommerhus,63,1985,
+Ahornvej 8 7790 Thyholm,8,776481.0,24-05-2001,Alm.,7466,5,Sommerhus,104,1992,
+Skovvej 33A 7790 Thyholm,0,374999.0,23-05-2001,Alm.,4934,4,Sommerhus,76,2006,
+Tambobakken 6 7790 Thyholm,6,134961.0,30-04-2001,Alm.,937,4,Villa,144,2005,
+Agertoften 4 7790 Thyholm,4,350000.0,28-04-2001,Alm.,5147,3,Sommerhus,68,1976,
+Jens Globs Alle 4 7790 Thyholm,4,425000.0,26-04-2001,Alm.,3695,5,Villa,115,1933,
+Ahornvej 3 7790 Thyholm,3,275000.0,25-04-2001,Alm.,4166,3,Sommerhus,66,1980,
+Tambogade 1 7790 Thyholm,1,840095.0,24-04-2001,Alm.,3605,5,Villa,233,1894,
+Hyldagervej 1 7790 Thyholm,1,250000.0,12-04-2001,Alm.,1865,3,Villa,134,1902,
+Thybanevej 2 7790 Thyholm,2,336111.0,04-04-2001,Alm.,3693,3,Villa,91,1898,
+Limfjordsgade 2 7790 Thyholm,2,314888.0,26-03-2001,Alm.,2811,4,Villa,112,1956,
+Sønderlandsgade 9 7790 Thyholm,9,292573.0,06-03-2001,Alm.,2659,3,Villa,110,1912,
+Fjordglimt 9 7790 Thyholm,9,320985.0,04-03-2001,Alm.,3209,5,Stuehus,100,1877,
+Birkevej 4 7790 Thyholm,4,535000.0,02-03-2001,Alm.,0,5,Sommerhus,123,1965,
+Søndervænget 25 7790 Thyholm,25,615000.0,02-02-2001,Alm.,4804,4,Villa,128,1972,
+Søndervænget 50 7790 Thyholm,50,850000.0,25-01-2001,Alm.,4722,5,Villa,180,1974,
+Mellemvej 15A 7790 Thyholm,0,500000.0,08-12-2000,Alm.,2702,3,Stuehus,185,1864,
+Fjordlystvej 4 7790 Thyholm,4,95000.0,30-11-2000,Alm.,1055,4,Villa,90,1920,
+Søstjernevej 19C 7790 Thyholm,0,686340.0,29-11-2000,Fam.,3855,6,Villa,178,1996,
+Kongevejen 59 7790 Thyholm,59,288639.0,28-11-2000,Alm.,3900,3,Villa,74,1929,
+Følhøjvej 4 7790 Thyholm,4,1501200.0,24-11-2000,Fam.,10425,5,Stuehus,144,1800,
+Hærvej 39 7790 Thyholm,39,485000.0,17-11-2000,Andet,5987,4,Sommerhus,81,1973,
+Kirkestræde 5 7790 Thyholm,5,265000.0,16-11-2000,Alm.,4015,4,Villa,66,1895,
+Orionsgade 32 7790 Thyholm,32,200000.0,15-11-2000,Alm.,2702,3,Villa,74,1956,
+Dagmarsvej 5 7790 Thyholm,5,575000.0,15-11-2000,Alm.,8846,4,Sommerhus,65,1986,
+Lærkevej 19 7790 Thyholm,19,720000.0,30-10-2000,Alm.,9600,2,Sommerhus,75,1968,
+Stubbevej 3 7790 Thyholm,3,216663.0,27-10-2000,Alm.,2329,3,Villa,93,1959,
+Hovedvejen 25 7790 Thyholm,25,125000.0,09-10-2000,Fam.,1388,4,Villa,90,1902,
+Frederiksgade 15 7790 Thyholm,15,330000.0,05-10-2000,Alm.,0,4,Villa,132,1906,
+Kildevænget 29 7790 Thyholm,29,660000.0,02-10-2000,Fam.,4177,4,Villa,158,1974,
+Rønvej 35 7790 Thyholm,35,525000.0,29-09-2000,Alm.,4069,5,Sommerhus,129,1976,
+Kongevejen 3 7790 Thyholm,3,384975.0,23-09-2000,Alm.,3104,6,Villa,124,1947,
+Havrelandsvej 6 7790 Thyholm,6,525555.0,18-09-2000,Alm.,0,5,Villa,112,1950,
+Serup Kirkevej 7 7790 Thyholm,7,430650.0,18-09-2000,Alm.,5126,4,Stuehus,84,1950,
+"Jernbanegade 10, 1 7790 Thyholm",1,885000.0,30-08-2000,Fam.,4515,6,Lejlighed,196,1910,
+Orkidevej 6C 7790 Thyholm,0,320547.0,30-08-2000,Alm.,5433,2,Rækkehus,59,1979,
+Storegade 10 7790 Thyholm,10,340000.0,18-08-2000,Alm.,3238,5,Villa,105,1906,
+Rosenalle 4 7790 Thyholm,4,359919.0,15-08-2000,Alm.,2768,7,Villa,130,1887,
+Jestrupvej 7 7790 Thyholm,7,495000.0,15-08-2000,Alm.,2564,6,Villa,193,1900,
+Grøndalvej 12 7790 Thyholm,12,656814.0,22-07-2000,Alm.,1784,9,Villa,368,1792,
+Stubbevej 12 7790 Thyholm,12,460000.0,04-07-2000,Alm.,4181,4,Villa,110,1979,
+Ibstedvej 14 7790 Thyholm,14,610000.0,23-06-2000,Alm.,2824,6,Stuehus,216,1901,
+Engblommevej 18 7790 Thyholm,18,355000.0,22-06-2000,Alm.,4176,4,Sommerhus,85,1974,
+Rolighedsvej 6 7790 Thyholm,6,619000.0,22-06-2000,Alm.,4210,5,Villa,147,1975,
+Serup Kirkevej 4 7790 Thyholm,4,717249.0,17-06-2000,Alm.,4627,5,Stuehus,155,1906,
+Gl Landevej 3 7790 Thyholm,3,399740.0,15-06-2000,Alm.,4078,4,Villa,98,1950,
+Tambogade 12 7790 Thyholm,12,780000.0,09-06-2000,Alm.,5064,4,Villa,154,1920,
+Rønvej 37A 7790 Thyholm,0,560000.0,08-06-2000,Alm.,4912,4,Sommerhus,114,2015,
+Niels Lousdahls Vej 5 7790 Thyholm,5,995000.0,05-06-2000,Alm.,10153,4,Sommerhus,98,1972,
+Havnevej 26 7790 Thyholm,26,280000.0,26-05-2000,Alm.,3111,4,Villa,90,1900,
+Søndbjerg Strandvej 14 7790 Thyholm,14,182484.0,20-05-2000,Alm.,1862,3,Villa,98,1920,
+Thorsvej 12 7790 Thyholm,12,250000.0,15-05-2000,Fam.,3906,4,Sommerhus,64,1967,
+Sundvej 7 7790 Thyholm,7,865000.0,27-04-2000,Alm.,0,6,Villa,242,1939,
+Orionsgade 8 7790 Thyholm,8,140000.0,17-04-2000,Alm.,2000,2,Villa,70,1902,
+Møllegade 19 7790 Thyholm,19,425000.0,01-04-2000,Alm.,2833,5,Villa,150,1947,
+Nylandsvej 7 7790 Thyholm,7,615000.0,27-03-2000,Alm.,4880,3,Villa,126,1985,
+Søndbjerg Strandvej 27 7790 Thyholm,27,120000.0,24-03-2000,Fam.,1818,4,Sommerhus,66,1955,
+Nannasvej 1 7790 Thyholm,1,488636.0,07-03-2000,Alm.,4212,4,Sommerhus,116,1969,
+Hovedvejen 31 7790 Thyholm,31,240000.0,07-03-2000,Alm.,2727,3,Villa,88,1906,
+Grøndalvej 17 7790 Thyholm,17,1020000.0,23-02-2000,Fam.,5100,6,Stuehus,200,1903,
+Serup Kirkevej 11 7790 Thyholm,11,488884.0,22-02-2000,Alm.,3789,6,Stuehus,129,1875,
+Stubbevej 14 7790 Thyholm,14,500000.0,21-02-2000,Alm.,0,5,Villa,168,1974,
+Flovlevvej 15 7790 Thyholm,15,525000.0,08-02-2000,Alm.,3750,5,Villa,140,1905,
+Mellemvej 18 7790 Thyholm,18,5370000.0,02-02-2000,Alm.,26850,11,Stuehus,200,1911,
+Grøndalvej 9A 7790 Thyholm,0,300000.0,20-01-2000,Alm.,4166,2,Villa,72,1950,
+Havnevej 15 7790 Thyholm,15,300000.0,04-01-2000,Alm.,1898,6,Villa,158,1917,
+Helligkildevej 29 7790 Thyholm,29,800000.0,22-12-1999,Alm.,0,5,Villa,199,1971,
+Jegindøvej 8 7790 Thyholm,8,683775.0,20-12-1999,Fam.,4355,5,Stuehus,157,1909,
+Mosevej 3 7790 Thyholm,3,140000.0,20-12-1999,Alm.,1000,3,Villa,140,2003,
+Kappelvej 9 7790 Thyholm,9,430000.0,09-12-1999,Alm.,0,6,Villa,153,1907,
+Kappelvej 19 7790 Thyholm,19,1500000.0,09-12-1999,Alm.,12396,6,Villa,121,1930,
+Orkidevej 16 7790 Thyholm,16,66200.0,21-11-1999,Alm.,662,4,Villa,100,2000,
+Grøndalvej 19 7790 Thyholm,19,1400000.0,31-10-1999,Alm.,5363,7,Stuehus,261,1988,
+Råkjærvej 5 7790 Thyholm,5,536000.0,24-10-1999,Fam.,3171,5,Stuehus,169,1953,
+Vesterfjordsvej 10 7790 Thyholm,10,134200.0,22-10-1999,Alm.,479,10,Stuehus,280,1920,
+Serup Kirkevej 12 7790 Thyholm,12,706990.0,12-10-1999,Alm.,0,7,Stuehus,247,1870,
+Nylandsvej 20 7790 Thyholm,20,559000.0,29-09-1999,Alm.,3855,5,Villa,145,1937,
+A C Hoppesvej 10 7790 Thyholm,10,684200.0,28-09-1999,Alm.,3305,8,Villa,207,1883,
+Svinget 10 7790 Thyholm,10,520000.0,26-09-1999,Alm.,6046,4,Sommerhus,86,1970,
+Tambohusvej 14 7790 Thyholm,14,3900803.0,24-09-1999,Fam.,12583,10,Stuehus,310,1954,
+Helligkildevej 33 7790 Thyholm,33,900000.0,11-09-1999,Alm.,5084,5,Villa,177,1977,
+Ålkærvej 19 7790 Thyholm,19,250000.0,10-09-1999,Alm.,2272,4,Villa,110,1933,
+Krumborgvej 5 7790 Thyholm,5,146000.0,01-09-1999,Alm.,2027,3,Villa,72,1825,
+Råkjærvej 6 7790 Thyholm,6,4800000.0,26-08-1999,Fam.,29090,7,Stuehus,165,1905,
+Danavej 3 7790 Thyholm,3,571000.0,15-08-1999,Alm.,3756,4,Villa,152,1942,
+J P Lauritsensvej 8 7790 Thyholm,8,350000.0,06-08-1999,Alm.,2592,4,Villa,135,1961,
+Stubbevej 8 7790 Thyholm,8,423662.0,03-08-1999,Alm.,3309,4,Villa,128,1972,
+Porsevej 4 7790 Thyholm,4,620000.0,27-07-1999,Alm.,6458,5,Sommerhus,96,1987,
+Ulvkærvej 9 7790 Thyholm,9,442773.0,20-07-1999,Alm.,4974,4,Villa,89,1909,
+Torpvej 8 7790 Thyholm,8,225000.0,19-07-1999,Alm.,1061,6,Stuehus,212,1922,
+A C Hoppesvej 1 7790 Thyholm,1,269908.0,19-07-1999,Alm.,2142,5,Villa,126,1855,
+Fyrrevej 5 7790 Thyholm,5,154140.0,19-07-1999,Alm.,2569,3,Sommerhus,60,1970,
+Råkjærvej 4 7790 Thyholm,4,132750.0,19-07-1999,Alm.,1770,3,Stuehus,75,1959,
+Nylandsvej 1 7790 Thyholm,1,363876.0,08-07-1999,Alm.,2934,5,Villa,124,1955,
+Nylandsvej 10 7790 Thyholm,10,380000.0,08-07-1999,Alm.,2375,9,Villa,160,1935,
+Østergade 19 7790 Thyholm,19,335000.0,07-07-1999,Alm.,5877,3,Villa,57,1953,
+Nygade 7 7790 Thyholm,7,650000.0,06-07-1999,Alm.,3532,5,Villa,184,1972,
+Limfjordsvej 4 7790 Thyholm,4,315500.0,01-07-1999,Fam.,3943,4,Sommerhus,80,1780,
+"Frederiksgade 17, 1 7790 Thyholm",1,132745.0,29-06-1999,Fam.,1659,3,Villa,80,1902,
+Kløvervænget 8 7790 Thyholm,8,620000.0,29-06-1999,Alm.,5000,4,Villa,124,1969,
+Hærvej 14 7790 Thyholm,14,350000.0,24-06-1999,Alm.,2023,7,Sommerhus,173,1977,
+Vitasvej 1 7790 Thyholm,1,865000.0,21-06-1999,Alm.,5148,10,Stuehus,168,1906,
+Plantagevej 4 7790 Thyholm,4,136302.0,26-05-1999,Alm.,1135,4,Villa,120,1900,
+Fasanvej 4 7790 Thyholm,4,695000.0,21-05-1999,Alm.,5036,2,Villa,138,1974,
+Hærvej 9B 7790 Thyholm,0,262000.0,18-05-1999,Alm.,4225,3,Sommerhus,62,1972,
+Elmevej 1 7790 Thyholm,1,144500.0,10-05-1999,Fam.,2125,4,Sommerhus,68,2007,
+Sønderlandsgade 14 7790 Thyholm,14,259000.0,04-05-1999,Alm.,3363,4,Villa,77,1875,
+Mosevej 8 7790 Thyholm,8,830000.0,01-05-1999,Alm.,3562,8,Villa,233,1907,
+Svinget 1 7790 Thyholm,1,300000.0,22-04-1999,Alm.,5555,2,Sommerhus,54,1969,
+Ahornvej 9 7790 Thyholm,9,125000.0,19-04-1999,Alm.,1562,4,Sommerhus,80,2001,
+Bøhlvej 11 7790 Thyholm,11,270000.0,03-04-1999,Alm.,2523,6,Villa,107,1916,
+Møllegade 16 7790 Thyholm,16,240000.0,23-03-1999,Fam.,1348,3,Villa,178,1920,
+Kirkestræde 14 7790 Thyholm,14,105000.0,11-03-1999,Alm.,1093,3,Villa,96,1907,
+Flovlevvej 2 7790 Thyholm,2,750000.0,20-02-1999,Alm.,3061,7,Villa,245,1892,
+Rønvej 33 7790 Thyholm,33,1050000.0,15-02-1999,Alm.,9545,5,Stuehus,110,1897,
+Bakkevej 3 7790 Thyholm,3,30000.0,22-01-1999,Alm.,188,4,Villa,159,1869,
+Bakkevej 14 7790 Thyholm,14,410000.0,15-01-1999,Alm.,0,4,Sommerhus,82,1972,
+Kongevejen 82 7790 Thyholm,82,472000.0,14-01-1999,Alm.,4538,4,Villa,104,1950,
+Jernbanegade 5 7790 Thyholm,5,410000.0,15-11-1998,Alm.,4141,3,Villa,99,1900,
+Kongevejen 65 7790 Thyholm,65,275000.0,05-11-1998,Alm.,3197,5,Villa,86,1932,
+Orionsgade 3 7790 Thyholm,3,310000.0,27-10-1998,Alm.,3875,5,Villa,80,1906,
+Sandkrogvej 12 7790 Thyholm,12,625000.0,14-10-1998,Alm.,0,8,Villa,232,1865,
+Vesterfjordsvej 8 7790 Thyholm,8,657956.0,30-09-1998,Fam.,3289,4,Stuehus,200,2005,
+Søndbjerg Strandvej 40 7790 Thyholm,40,240000.0,13-09-1998,Fam.,2637,5,Sommerhus,91,1972,
+Stadionalle 8 7790 Thyholm,8,519500.0,02-09-1998,Alm.,4058,4,Villa,128,1964,
+Lunavej 15 7790 Thyholm,15,537500.0,31-08-1998,Alm.,3631,3,Villa,148,1977,
+Enghavevej 9 7790 Thyholm,9,560822.0,26-08-1998,Alm.,4314,5,Villa,130,1946,
+Søndergade 18 7790 Thyholm,18,160000.0,20-08-1998,Alm.,0,5,Villa,130,1922,
+Kirkegade 3 7790 Thyholm,3,663603.0,18-08-1998,Alm.,3252,6,Villa,204,1907,
+Søndbjerg Strandvej 30 7790 Thyholm,30,265000.0,13-08-1998,Alm.,4274,4,Sommerhus,62,1968,
+Helligkildevej 37 7790 Thyholm,37,500000.0,28-07-1998,Alm.,1250,11,Stuehus,400,1919,
+Rønnebærvej 9 7790 Thyholm,9,166667.0,18-07-1998,Fam.,1207,6,Sommerhus,138,1969,
+Søndbjerg Strandvej 3 7790 Thyholm,3,56180.0,03-07-1998,Alm.,567,3,Villa,99,2002,
+Valborgsvej 15 7790 Thyholm,15,272000.0,30-06-1998,Fam.,3942,4,Sommerhus,69,1978,
+Limfjordsgade 15 7790 Thyholm,15,223000.0,30-06-1998,Alm.,2027,4,Villa,110,1910,
+Ålkærvej 25 7790 Thyholm,25,314610.0,29-06-1998,Alm.,3346,4,Villa,94,1850,
+Sommerstedvej 47 7790 Thyholm,47,85000.0,26-06-1998,Alm.,1180,4,Sommerhus,72,1973,
+Enghavevej 17 7790 Thyholm,17,199617.0,22-06-1998,Alm.,1523,5,Villa,131,1902,
+Kildevænget 25 7790 Thyholm,25,680000.0,22-06-1998,Alm.,4331,4,Villa,157,1972,
+Mellemvej 19 7790 Thyholm,19,365000.0,18-06-1998,Alm.,4147,5,Stuehus,88,1900,
+Grønholmevej 17 7790 Thyholm,17,180000.0,17-06-1998,Alm.,2337,3,Sommerhus,77,1915,
+Ålkærvej 10 7790 Thyholm,10,1050000.0,15-06-1998,Alm.,6603,6,Stuehus,159,1950,
+Stellavej 6 7790 Thyholm,6,695000.0,10-06-1998,Alm.,0,9,Villa,285,1926,
+Havrelandsvej 15 7790 Thyholm,15,1705000.0,08-06-1998,Fam.,8197,7,Stuehus,208,1911,
+Ålkærvej 9 7790 Thyholm,9,655000.0,02-06-1998,Fam.,6179,4,Stuehus,106,1850,
+Skovstjernevej 6 7790 Thyholm,6,195316.0,29-05-1998,Alm.,3051,3,Sommerhus,64,1974,
+Jupitervej 17 7790 Thyholm,17,230000.0,21-05-1998,Alm.,2421,2,Villa,95,1956,
+Barslevvej 41 7790 Thyholm,41,385000.0,04-05-1998,Alm.,1954,6,Villa,197,2007,
+Skovvej 3 7790 Thyholm,3,382500.0,20-04-1998,Alm.,4722,4,Sommerhus,81,2005,
+Nørregade 12 7790 Thyholm,12,260000.0,01-04-1998,Alm.,1111,7,Villa,234,1919,
+Møllegade 32 7790 Thyholm,32,1003360.0,30-03-1998,Alm.,7432,4,Stuehus,135,1910,
+Ringvejen 5 7790 Thyholm,5,418000.0,10-03-1998,Alm.,0,4,Sommerhus,91,1987,
+Hovedvejen 48 7790 Thyholm,48,385000.0,09-03-1998,Alm.,2692,5,Stuehus,143,1885,
+Lavbjergvej 11 7790 Thyholm,11,310598.0,18-02-1998,Fam.,2677,4,Stuehus,116,1953,
+Helligkildevej 4 7790 Thyholm,4,350752.0,17-02-1998,Alm.,2657,5,Villa,132,1902,
+Gravgårdsvej 5 7790 Thyholm,5,600000.0,30-01-1998,Alm.,4687,3,Stuehus,128,1999,
+Nørregade 4 7790 Thyholm,4,417541.0,29-01-1998,Alm.,2577,7,Villa,162,1947,
+Kirkestræde 8 7790 Thyholm,8,760000.0,10-01-1998,Alm.,0,6,Villa,183,1912,
+Fyrrevej 19 7790 Thyholm,19,210000.0,09-01-1998,Fam.,4666,3,Sommerhus,45,1975,
+Grønholmevej 9 7790 Thyholm,9,2117400.0,07-01-1998,Fam.,14911,6,Stuehus,142,1911,
+Lunavej 14 7790 Thyholm,14,484000.0,05-01-1998,Alm.,3841,5,Villa,126,1976,
+Dagmarsvej 9 7790 Thyholm,9,272000.0,05-01-1998,Alm.,4184,4,Sommerhus,65,1976,
+Kildevænget 26 7790 Thyholm,26,470000.0,04-01-1998,Alm.,3455,5,Villa,136,1973,
+Helligkildevej 11 7790 Thyholm,11,366000.0,02-01-1998,Alm.,1936,7,Villa,189,1909,
+Skovstien 18 7790 Thyholm,18,74375.0,29-12-1997,Alm.,1814,4,Sommerhus,41,1994,
+Vitasvej 4 7790 Thyholm,4,260000.0,23-12-1997,Alm.,2524,3,Villa,103,2012,
+Kongevejen 34 7790 Thyholm,34,379500.0,16-12-1997,Fam.,0,8,Stuehus,201,1906,
+Solsortevej 5 7790 Thyholm,5,131875.0,10-12-1997,Alm.,728,6,Villa,181,1998,
+Bakkevej 10 7790 Thyholm,10,50000.0,08-12-1997,Alm.,595,4,Sommerhus,84,1998,
+Hovedvejen 22 7790 Thyholm,22,270000.0,27-10-1997,Alm.,2347,4,Villa,115,1852,
+Rolighedsvej 28 7790 Thyholm,28,750000.0,19-10-1997,Alm.,3571,6,Villa,210,1978,
+Engblommevej 9 7790 Thyholm,9,273000.0,10-10-1997,Alm.,3689,4,Sommerhus,74,1985,
+Kappelvej 10 7790 Thyholm,10,110500.0,24-09-1997,Alm.,1782,3,Villa,62,1920,
+Bjørndalvej 7 7790 Thyholm,7,390000.0,18-09-1997,Alm.,4020,5,Villa,97,1950,
+Sandkrogvej 4 7790 Thyholm,4,425000.0,04-09-1997,Alm.,3695,5,Villa,115,1914,
+Sommerstedvej 33 7790 Thyholm,33,254000.0,01-09-1997,Alm.,5080,4,Sommerhus,50,1973,
+Ulvkærvej 6 7790 Thyholm,6,360000.0,31-08-1997,Alm.,0,4,Villa,162,1898,
+Rønbakken 11 7790 Thyholm,11,440000.0,29-08-1997,Alm.,4489,3,Sommerhus,98,1885,
+Skovvej 21 7790 Thyholm,21,265000.0,22-08-1997,Alm.,3897,4,Sommerhus,68,1972,
+Hærvej 6 7790 Thyholm,6,200000.0,18-08-1997,Alm.,3571,4,Sommerhus,56,1972,
+Kallerupvej 5 7790 Thyholm,5,4204000.0,08-08-1997,Fam.,12700,4,Stuehus,331,1941,
+Kongevejen 74 7790 Thyholm,74,332000.0,05-08-1997,Alm.,3320,5,Villa,100,1950,
+Grøndalvej 3 7790 Thyholm,3,273150.0,05-08-1997,Alm.,925,8,Stuehus,295,1976,
+Østergade 7 7790 Thyholm,7,783000.0,04-08-1997,Alm.,4745,7,Villa,165,1928,
+Torvegade 3 7790 Thyholm,3,75000.0,30-07-1997,Alm.,1027,2,Villa,73,1908,
+Jernbanegade 1 7790 Thyholm,1,250000.0,29-07-1997,Alm.,0,6,Villa,144,1904,
+Ternevej 18 7790 Thyholm,18,1219000.0,28-07-1997,Alm.,4049,12,Stuehus,301,1900,
+Nissumvej 4 7790 Thyholm,4,400000.0,18-07-1997,Alm.,0,8,Sommerhus,290,1900,
+Kallerupvej 1 7790 Thyholm,1,1019532.0,18-07-1997,Alm.,5664,6,Stuehus,180,1880,
+Limfjordsgade 1 7790 Thyholm,1,169500.0,16-07-1997,Alm.,1219,2,Villa,139,1850,
+A C Hoppesvej 6 7790 Thyholm,6,449000.0,14-07-1997,Alm.,0,5,Villa,156,1852,
+J P Lauritsensvej 15 7790 Thyholm,15,315000.0,30-06-1997,Alm.,2739,5,Villa,115,1929,
+Fuglebakken 5 7790 Thyholm,5,600000.0,30-06-1997,Alm.,3750,7,Villa,160,1979,
+Stokhøjvej 4 7790 Thyholm,4,650000.0,30-06-1997,Alm.,4037,7,Villa,161,1983,
+Nørregade 12A 7790 Thyholm,0,221000.0,29-06-1997,Alm.,1740,7,Villa,127,1890,
+Bøhlvej 3 7790 Thyholm,3,307000.0,25-06-1997,Alm.,1764,6,Villa,174,1885,
+Skibdalvej 22 7790 Thyholm,22,300000.0,24-06-1997,Fam.,5660,3,Sommerhus,53,1973,
+Vinkelvej 5 7790 Thyholm,5,187000.0,20-06-1997,Alm.,2397,4,Villa,78,1903,
+Hindselsvej 19 7790 Thyholm,19,623000.0,19-06-1997,Alm.,3461,6,Villa,180,1902,
+Hovedvejen 15 7790 Thyholm,15,315000.0,12-06-1997,Alm.,1909,4,Villa,165,1912,
+Skibdalvej 12 7790 Thyholm,12,850000.0,09-06-1997,Alm.,8500,6,Sommerhus,100,1974,
+J P Lauritsensvej 12 7790 Thyholm,12,295000.0,09-06-1997,Alm.,3072,4,Villa,96,1966,
+Kongevejen 67 7790 Thyholm,67,115000.0,04-06-1997,Alm.,821,3,Villa,140,1909,
+Jestrupvej 8B 7790 Thyholm,0,550000.0,22-05-1997,Alm.,3985,6,Villa,138,1956,
+Bøhlørevej 2 7790 Thyholm,2,294473.0,16-05-1997,Alm.,4089,4,Sommerhus,72,1973,
+Hamletsvej 3 7790 Thyholm,3,161500.0,13-05-1997,Fam.,2936,4,Sommerhus,55,1967,
+Dagmarsvej 4 7790 Thyholm,4,274000.0,09-05-1997,Alm.,4151,4,Sommerhus,66,1971,
+Barslevvej 14 7790 Thyholm,14,126934.0,02-05-1997,Alm.,0,8,Villa,194,1957,
+Hovedvejen 36 7790 Thyholm,36,408000.0,02-05-1997,Fam.,4483,4,Stuehus,91,1903,
+Enghavevej 2 7790 Thyholm,2,180000.0,28-04-1997,Alm.,1363,6,Villa,132,1900,
+Fasanvej 7 7790 Thyholm,7,733000.0,21-04-1997,Alm.,3919,6,Villa,187,1973,
+Møllevej 4 7790 Thyholm,4,294672.0,15-04-1997,Alm.,0,6,Villa,144,1890,
+Kirkebakken 14A 7790 Thyholm,0,782000.0,15-04-1997,Alm.,4030,7,Villa,194,1986,
+Bøhlvej 16 7790 Thyholm,16,225000.0,04-04-1997,Fam.,1771,4,Villa,127,1923,
+Orionsgade 15 7790 Thyholm,15,350000.0,01-04-1997,Alm.,3097,4,Villa,113,1975,
+Skibdalvej 16A 7790 Thyholm,0,490000.0,31-03-1997,Alm.,5157,6,Sommerhus,95,1965,
+Kildevænget 4 7790 Thyholm,4,620000.0,08-03-1997,Alm.,4558,4,Villa,136,1972,
+Enghavevej 5 7790 Thyholm,5,412000.0,07-03-1997,Alm.,2203,6,Villa,187,1902,
+Sønderlandsgade 22 7790 Thyholm,22,220000.0,07-03-1997,Alm.,2268,4,Villa,97,1883,
+Slejpnersvej 8 7790 Thyholm,8,93500.0,05-03-1997,Fam.,1870,3,Sommerhus,50,1945,
+Mellemvej 8 7790 Thyholm,8,440000.0,08-02-1997,Alm.,3893,4,Stuehus,113,1914,
+Sortevej 11 7790 Thyholm,11,165000.0,07-02-1997,Alm.,2115,3,Villa,78,1938,
+Kongevejen 58 7790 Thyholm,58,405000.0,03-02-1997,Alm.,1995,8,Villa,203,1933,
+Grønholmevej 15 7790 Thyholm,15,470000.0,27-01-1997,Alm.,3012,3,Villa,156,1915,
+Nylandsvej 3 7790 Thyholm,3,67000.0,13-01-1997,Alm.,870,3,Villa,77,1961,
+Vitasvej 5 7790 Thyholm,5,830000.0,06-01-1997,Alm.,2964,11,Villa,280,1920,
+Havnevej 28A 7790 Thyholm,0,210000.0,05-01-1997,Alm.,801,5,Villa,262,2004,
+Birkevej 26 7790 Thyholm,26,306000.0,03-01-1997,Fam.,3221,4,Sommerhus,95,1969,
+Vitasvej 6 7790 Thyholm,6,470000.0,13-12-1996,Alm.,0,8,Villa,270,1972,
+Møllegade 23 7790 Thyholm,23,109108.0,12-12-1996,Alm.,839,5,Villa,130,1910,
+Storegade 5 7790 Thyholm,5,247170.0,09-12-1996,Alm.,1931,4,Villa,128,1887,
+Skærshøjvej 17 7790 Thyholm,17,100000.0,28-11-1996,Alm.,0,5,Stuehus,168,1902,
+Firhøjvej 4 7790 Thyholm,4,110000.0,26-11-1996,Alm.,0,4,Sommerhus,70,2004,
+Skovstien 25 7790 Thyholm,25,362000.0,15-11-1996,Alm.,0,5,Sommerhus,73,1970,
+Ålkærvej 7 7790 Thyholm,7,150000.0,15-11-1996,Alm.,1875,2,Villa,80,1941,
+Niels Lousdahls Vej 2 7790 Thyholm,2,335000.0,01-11-1996,Andet,5491,4,Sommerhus,61,1980,
+Søndergade 2 7790 Thyholm,2,310000.0,31-10-1996,Alm.,1448,6,Villa,214,1900,
+Nissumvej 3 7790 Thyholm,3,225000.0,31-10-1996,Fam.,2250,5,Stuehus,100,1900,
+Gravgårdsvej 7 7790 Thyholm,7,463500.0,29-10-1996,Alm.,2694,5,Stuehus,172,1875,
+Østerled 5 7790 Thyholm,5,233000.0,28-10-1996,Alm.,2427,3,Villa,96,1965,
+Kappelvej 14 7790 Thyholm,14,466410.0,22-10-1996,Alm.,0,4,Villa,179,1900,
+Rolighedsvej 4 7790 Thyholm,4,517000.0,10-10-1996,Alm.,4203,3,Villa,123,1975,
+Kongevejen 38 7790 Thyholm,38,276967.0,07-10-1996,Alm.,2429,5,Villa,114,1933,
+Frederiksgade 5 7790 Thyholm,5,390000.0,05-10-1996,Alm.,2635,6,Villa,148,1932,
+Hærvej 31 7790 Thyholm,31,38000.0,03-10-1996,Alm.,655,3,Sommerhus,58,1998,
+Helligkildevej 16 7790 Thyholm,16,330000.0,01-10-1996,Alm.,2185,5,Villa,151,1962,
+Søndervænget 18 7790 Thyholm,18,377000.0,23-09-1996,Fam.,2464,5,Villa,153,1972,
+Møllegade 17 7790 Thyholm,17,150000.0,26-08-1996,Alm.,1612,4,Villa,93,1949,
+Storegade 17B 7790 Thyholm,0,110000.0,17-08-1996,Alm.,1746,2,Lejlighed,63,1890,
+Roarsvej 1 7790 Thyholm,1,120000.0,14-08-1996,Alm.,1428,4,Sommerhus,84,1998,
+Grønholmevej 21 7790 Thyholm,21,160000.0,10-08-1996,Alm.,658,7,Stuehus,243,1978,
+Trekløvervej 3 7790 Thyholm,3,668231.0,09-08-1996,Alm.,0,7,Stuehus,172,1940,
+Sundvej 5 7790 Thyholm,5,1013594.0,06-08-1996,Alm.,4205,5,Stuehus,241,1911,
+Firhøjvej 8 7790 Thyholm,8,95000.0,31-07-1996,Alm.,896,4,Sommerhus,106,1999,
+"Storegade 17A, 1 7790 Thyholm",1,75625.0,30-07-1996,Alm.,879,2,Lejlighed,86,1890,
+Bøhlvej 12 7790 Thyholm,12,159340.0,22-07-1996,Fam.,1852,3,Villa,86,1913,
+Hindselsvej 23 7790 Thyholm,23,220000.0,04-07-1996,Alm.,0,6,Villa,225,1887,
+Drosselvej 10 7790 Thyholm,10,670000.0,01-07-1996,Alm.,4962,4,Villa,135,1978,
+Gl Landevej 14 7790 Thyholm,14,152000.0,28-06-1996,Alm.,0,5,Stuehus,143,1827,
+Havnegade 25 7790 Thyholm,25,425000.0,13-06-1996,Alm.,0,9,Villa,164,1937,
+Niels Lousdahls Vej 6 7790 Thyholm,6,505000.0,10-06-1996,Alm.,0,6,Sommerhus,132,1976,
+Rønbakken 2 7790 Thyholm,2,660000.0,10-06-1996,Alm.,8250,4,Sommerhus,80,1988,
+Bjørndalvej 11 7790 Thyholm,11,2119292.0,24-05-1996,Alm.,10596,6,Stuehus,200,1863,
+Skovvej 28 7790 Thyholm,28,640000.0,15-05-1996,Alm.,5981,5,Sommerhus,107,1995,
+Fyrrevej 3 7790 Thyholm,3,290000.0,08-05-1996,Alm.,4461,4,Sommerhus,65,1974,
+Gravgårdsvej 6 7790 Thyholm,6,1000000.0,29-04-1996,Fam.,4608,6,Stuehus,217,1923,
+Håndværkervej 9 7790 Thyholm,9,684000.0,18-04-1996,Alm.,0,6,Villa,192,1981,
+Saturnvej 7 7790 Thyholm,7,225000.0,27-03-1996,Alm.,1130,4,Villa,199,1918,
+Rønvej 39 7790 Thyholm,39,302746.0,17-03-1996,Fam.,2883,5,Villa,105,1777,
+Rolighedsvej 24 7790 Thyholm,24,500000.0,12-03-1996,Alm.,3906,5,Villa,128,1978,
+Tambogade 10 7790 Thyholm,10,354000.0,12-02-1996,Alm.,1233,6,Villa,287,1997,
+Grøndalvej 21 7790 Thyholm,21,991000.0,01-02-1996,Fam.,4857,8,Stuehus,204,1925,
+Klintevej 9 7790 Thyholm,9,250000.0,29-01-1996,Alm.,1524,8,Stuehus,164,1912,
+Bjørndalvej 3 7790 Thyholm,3,125000.0,29-01-1996,Alm.,2155,3,Rækkehus,58,1908,
+Serup Kirkevej 14 7790 Thyholm,14,532000.0,19-01-1996,Alm.,2111,6,Villa,252,1900,
+Marendal 3 7790 Thyholm,3,315000.0,21-12-1995,Fam.,2404,5,Villa,131,1952,
+Lyngs Kirkevej 6 7790 Thyholm,6,354000.0,06-12-1995,Alm.,2344,8,Villa,151,1928,
+Fjordlystvej 6 7790 Thyholm,6,180000.0,16-11-1995,Alm.,1538,4,Villa,117,1910,
+Sommerstedvej 7 7790 Thyholm,7,85000.0,14-11-1995,Alm.,2236,2,Sommerhus,38,1973,
+Birkevej 21 7790 Thyholm,21,348000.0,14-11-1995,Alm.,5523,4,Sommerhus,63,1985,
+Orkidevej 4B 7790 Thyholm,0,232700.0,13-11-1995,Alm.,4012,2,Rækkehus,58,1979,
+Møllegade 1 7790 Thyholm,1,335000.0,27-10-1995,Alm.,2278,4,Villa,147,1970,
+Nørbyvej 11 7790 Thyholm,11,430639.0,24-10-1995,Alm.,3588,4,Villa,120,1978,
+Skovstjernevej 9 7790 Thyholm,9,28500.0,20-10-1995,Fam.,323,2,Sommerhus,88,2008,
+Kalkværksvej 12 7790 Thyholm,12,570000.0,19-10-1995,Alm.,3750,5,Villa,152,1923,
+Siriusvej 3 7790 Thyholm,3,239000.0,29-09-1995,Alm.,2879,3,Villa,83,1964,
+Valborgsvej 17 7790 Thyholm,17,240000.0,05-09-1995,Alm.,3243,3,Sommerhus,74,1969,
+Mejerivej 15 7790 Thyholm,15,270000.0,17-08-1995,Alm.,2477,4,Villa,109,1968,
+Siriusvej 30 7790 Thyholm,30,310000.0,13-08-1995,Alm.,0,6,Villa,195,1974,
+Bøhlørevej 9 7790 Thyholm,9,405000.0,22-07-1995,Alm.,0,3,Villa,72,1877,
+Bjørndalvej 17 7790 Thyholm,17,60000.0,30-06-1995,Alm.,344,5,Stuehus,174,1898,
+Hovedvejen 51 7790 Thyholm,51,60000.0,30-06-1995,Alm.,504,8,Stuehus,119,1890,
+Siriusvej 19 7790 Thyholm,19,369591.0,29-06-1995,Alm.,1508,8,Villa,245,1972,
+Rosenvænget 17 7790 Thyholm,17,740000.0,27-06-1995,Alm.,4352,5,Villa,170,1978,
+Søndervænget 37 7790 Thyholm,37,425765.0,07-06-1995,Alm.,2172,7,Villa,196,1974,
+Nørbyvej 20 7790 Thyholm,20,350000.0,17-05-1995,Alm.,2430,3,Villa,144,1973,
+Gyvelvej 1 7790 Thyholm,1,260000.0,16-05-1995,Alm.,4333,4,Sommerhus,60,1968,
+Søndervænget 46 7790 Thyholm,46,412500.0,15-05-1995,Alm.,2304,6,Villa,179,1972,
+Serup Kirkevej 15 7790 Thyholm,15,480000.0,15-05-1995,Alm.,3609,5,Stuehus,133,1896,
+Sommerstedvej 17 7790 Thyholm,17,162683.0,01-05-1995,Alm.,2905,2,Sommerhus,56,1972,
+Ulvkærvej 7A 7790 Thyholm,0,165000.0,30-03-1995,Alm.,2088,3,Villa,79,1900,
+Thyrasvej 5 7790 Thyholm,5,190000.0,28-03-1995,Alm.,1727,3,Sommerhus,110,1968,
+Munkevej 1 7790 Thyholm,1,490000.0,10-02-1995,Alm.,4375,5,Villa,112,1907,
+Møllegade 26 7790 Thyholm,26,70000.0,02-02-1995,Alm.,564,4,Villa,124,1900,
+Ballevej 4 7790 Thyholm,4,136000.0,30-01-1995,Fam.,1307,4,Villa,104,1897,
+Bøhlvej 1 7790 Thyholm,1,425000.0,30-12-1994,Fam.,2656,5,Stuehus,160,1907,
+Kongevejen 47 7790 Thyholm,47,90000.0,19-12-1994,Alm.,434,6,Villa,207,1879,
+Thorsvej 3A 7790 Thyholm,0,40000.0,29-11-1994,Fam.,408,4,Sommerhus,98,2007,
+Tambogade 41 7790 Thyholm,41,365000.0,10-11-1994,Alm.,0,4,Villa,218,1945,
+Kongevejen 53 7790 Thyholm,53,215000.0,05-11-1994,Alm.,2193,4,Villa,98,1934,
+Søstjernevej 18 7790 Thyholm,18,485869.0,27-10-1994,Alm.,2944,7,Villa,165,1978,
+Skærshøjvej 11 7790 Thyholm,11,454000.0,26-10-1994,Alm.,2000,10,Villa,227,1934,
+Orionsgade 41 7790 Thyholm,41,500000.0,17-10-1994,Alm.,3424,4,Villa,146,1949,
+Nørbyvej 3 7790 Thyholm,3,576000.0,03-10-1994,Alm.,0,10,Villa,226,1978,
+Havrelandsvej 25 7790 Thyholm,25,90000.0,01-10-1994,Fam.,978,4,Sommerhus,92,1892,
+Østergade 34 7790 Thyholm,34,460000.0,30-09-1994,Alm.,2408,6,Villa,191,1922,
+Sundvej 4 7790 Thyholm,4,180000.0,29-09-1994,Fam.,1800,4,Sommerhus,100,1876,
+Mejerivej 7 7790 Thyholm,7,160000.0,20-09-1994,Alm.,2285,3,Villa,70,1918,
+Tambohusvej 3 7790 Thyholm,3,1300000.0,12-09-1994,Alm.,5909,5,Stuehus,220,1887,
+Rønnebærvej 17 7790 Thyholm,17,343000.0,01-09-1994,Alm.,4971,3,Sommerhus,69,1969,
+Søndervænget 32 7790 Thyholm,32,275000.0,26-08-1994,Fam.,2644,4,Rækkehus,104,1973,
+Thorsvej 8 7790 Thyholm,8,245000.0,22-08-1994,Alm.,4454,3,Sommerhus,55,1967,
+Kløvervænget 1 7790 Thyholm,1,356000.0,08-08-1994,Alm.,2894,5,Villa,123,1967,
+Bakkedalvej 10 7790 Thyholm,10,2000000.0,25-07-1994,Fam.,6557,8,Stuehus,305,2003,
+Nylandsvej 9 7790 Thyholm,9,92000.0,21-07-1994,Alm.,0,6,Villa,160,1933,
+Hellerødvej 17 7790 Thyholm,17,1800000.0,07-07-1994,Fam.,9230,6,Stuehus,195,1995,
+Tambobakken 4 7790 Thyholm,4,150000.0,07-07-1994,Alm.,806,5,Villa,186,1995,
+Hærvej 21 7790 Thyholm,21,80000.0,01-07-1994,Fam.,1600,3,Sommerhus,50,1972,
+Hellerødvej 10 7790 Thyholm,10,155000.0,27-06-1994,Alm.,1550,5,Villa,100,1887,
+Kildevænget 7 7790 Thyholm,7,350000.0,27-06-1994,Alm.,2095,4,Villa,167,1971,
+Vestergade 18 7790 Thyholm,18,405000.0,26-06-1994,Alm.,3022,5,Villa,134,1947,
+Trekløvervej 4 7790 Thyholm,4,550000.0,24-06-1994,Alm.,0,8,Stuehus,230,2005,
+Østergade 10 7790 Thyholm,10,264253.0,16-06-1994,Alm.,0,6,Villa,125,1938,
+Nannasvej 3 7790 Thyholm,3,260000.0,07-06-1994,Alm.,3714,3,Sommerhus,70,1971,
+Søndervænget 6 7790 Thyholm,6,275000.0,27-05-1994,Alm.,2500,4,Villa,110,1967,
+Grøndalvej 7 7790 Thyholm,7,2000000.0,27-05-1994,Alm.,6896,7,Stuehus,290,1923,
+Lavbjergvej 8 7790 Thyholm,8,1300000.0,26-05-1994,Alm.,0,7,Stuehus,126,1956,
+Helligkildevej 19 7790 Thyholm,19,352000.0,17-05-1994,Alm.,0,6,Villa,132,1927,
+Kongevejen 32 7790 Thyholm,32,107000.0,22-04-1994,Alm.,0,6,Villa,184,1900,
+Ibstedvej 16 7790 Thyholm,16,236159.0,30-03-1994,Alm.,0,5,Villa,176,1896,
+Hærvej 35 7790 Thyholm,35,40000.0,24-03-1994,Alm.,0,2,Sommerhus,42,1960,
+Ballevej 6 7790 Thyholm,6,976300.0,21-02-1994,Fam.,4263,6,Stuehus,229,2010,
+Limfjordsgade 17 7790 Thyholm,17,220000.0,13-02-1994,Alm.,1466,4,Villa,150,1912,
+Kongevejen 80 7790 Thyholm,80,340000.0,10-02-1994,Alm.,2881,5,Villa,118,1928,
+Polarisvej 10 7790 Thyholm,10,90000.0,09-02-1994,Fam.,584,6,Villa,154,2005,
+Orkidevej 3 7790 Thyholm,3,450000.0,31-01-1994,Alm.,3781,4,Villa,119,1983,
+Vestergade 9 7790 Thyholm,9,185000.0,25-01-1994,Alm.,1681,4,Villa,110,1908,
+Vestergade 11 7790 Thyholm,11,250000.0,19-01-1994,Alm.,2083,4,Villa,120,1932,
+Rønvej 29 7790 Thyholm,29,161500.0,19-01-1994,Fam.,2563,4,Sommerhus,63,1967,
+Kongevejen 45 7790 Thyholm,45,100000.0,23-10-1993,Fam.,1111,4,Villa,90,1892,
+Tjørnevej 11 7790 Thyholm,11,135000.0,29-09-1993,Alm.,1391,5,Sommerhus,97,1972,
+Hovedvejen 72 7790 Thyholm,72,360000.0,15-09-1993,Alm.,2880,5,Villa,125,1963,
+Hovedvejen 43 7790 Thyholm,43,410000.0,13-09-1993,Alm.,2369,3,Stuehus,173,1877,
+Frejasvej 11 7790 Thyholm,11,250000.0,06-09-1993,Alm.,3571,2,Sommerhus,70,1970,
+Mellemvej 5 7790 Thyholm,5,155000.0,31-08-1993,Alm.,698,7,Stuehus,222,1893,
+Orionsgade 30 7790 Thyholm,30,90000.0,25-08-1993,Alm.,671,4,Villa,134,1927,
+Kongevejen 63 7790 Thyholm,63,200000.0,24-08-1993,Alm.,1785,4,Villa,112,1930,
+Ringvejen 53 7790 Thyholm,53,205000.0,21-08-1993,Alm.,0,2,Sommerhus,79,1968,
+Skovvej 10 7790 Thyholm,10,322500.0,10-08-1993,Alm.,5758,2,Sommerhus,56,1970,
+Havnevej 23 7790 Thyholm,23,240000.0,09-07-1993,Alm.,0,6,Villa,172,1960,
+Hindselsvej 5 7790 Thyholm,5,650000.0,05-07-1993,Fam.,4062,5,Stuehus,160,1895,
+Hellerødvej 19 7790 Thyholm,19,115000.0,01-07-1993,Alm.,912,6,Villa,126,1909,
+Klintevej 7 7790 Thyholm,7,589000.0,29-06-1993,Alm.,3201,7,Villa,184,1961,
+Bakkevej 2 7790 Thyholm,2,384000.0,29-06-1993,Alm.,0,4,Sommerhus,77,1974,
+Søndbjerg Strandvej 46 7790 Thyholm,46,138000.0,23-06-1993,Alm.,1483,4,Sommerhus,93,1939,
+Kallerupvej 10 7790 Thyholm,10,153000.0,22-06-1993,Fam.,1593,2,Sommerhus,96,1900,
+Barslevvej 15 7790 Thyholm,15,425000.0,18-06-1993,Alm.,3079,4,Villa,138,1972,
+Grøndalvej 8 7790 Thyholm,8,235000.0,08-06-1993,Alm.,1958,5,Villa,120,1887,
+Tjørnevej 14 7790 Thyholm,14,60000.0,05-06-1993,Alm.,722,4,Sommerhus,83,2013,
+Skibstedvej 4 7790 Thyholm,4,93000.0,02-06-1993,Alm.,1148,3,Villa,81,1877,
+Hovedvejen 142 7790 Thyholm,142,425000.0,26-05-1993,Alm.,3899,2,Stuehus,109,1877,
+Barslevvej 43 7790 Thyholm,43,1000000.0,13-05-1993,Fam.,4694,6,Stuehus,213,2007,
+Kirkestræde 12 7790 Thyholm,12,300000.0,09-05-1993,Fam.,2439,3,Villa,123,1905,
+Stokhøjvej 9 7790 Thyholm,9,829260.0,09-05-1993,Alm.,3821,5,Stuehus,217,1932,
+Kallerupvej 6 7790 Thyholm,6,1450000.0,29-04-1993,Alm.,6682,7,Stuehus,217,1935,
+Skovstien 30 7790 Thyholm,30,350000.0,25-03-1993,Alm.,5147,4,Sommerhus,68,1978,
+Ibstedvej 5 7790 Thyholm,5,275000.0,25-03-1993,Alm.,1858,5,Villa,148,1911,
+"Søndergade 19, 1 7790 Thyholm",1,160000.0,11-01-1993,Fam.,1860,3,Villa,86,1926,
+Hovedvejen 45 7790 Thyholm,45,170000.0,11-01-1993,Alm.,2207,2,Villa,77,1900,
+Hamletsvej 1 7790 Thyholm,1,116395.0,22-12-1992,Alm.,0,4,Sommerhus,88,1963,
+Hovedvejen 67 7790 Thyholm,67,35000.0,03-12-1992,Alm.,350,4,Villa,100,1900,
+Birkevej 19 7790 Thyholm,19,220000.0,09-11-1992,Alm.,3384,3,Sommerhus,65,1967,
+Torvegade 1 7790 Thyholm,1,185000.0,06-11-1992,Alm.,1850,4,Villa,100,1937,
+Porsevej 2 7790 Thyholm,2,370000.0,20-10-1992,Alm.,4302,7,Sommerhus,86,1979,
+Hovedvejen 32 7790 Thyholm,32,52000.0,09-10-1992,Alm.,403,3,Stuehus,129,2007,
+Gl Landevej 12 7790 Thyholm,12,500000.0,09-10-1992,Alm.,0,7,Stuehus,144,1903,
+Orkidevej 6A 7790 Thyholm,0,190000.0,26-09-1992,Alm.,3220,2,Rækkehus,59,1979,
+Kongevejen 25 7790 Thyholm,25,160000.0,09-09-1992,Alm.,0,7,Villa,156,1914,
+Havnevej 28 7790 Thyholm,28,1000000.0,28-07-1992,Alm.,5128,4,Villa,195,1976,
+A C Hoppesvej 5 7790 Thyholm,5,1100000.0,09-07-1992,Fam.,5641,9,Stuehus,195,1912,
+Birkevej 15 7790 Thyholm,15,238000.0,09-07-1992,Fam.,3305,4,Sommerhus,72,1970,
+Søndergade 40 7790 Thyholm,40,315000.0,02-07-1992,Alm.,0,5,Villa,149,1953,
+Søndergade 17E 7790 Thyholm,0,170000.0,01-07-1992,Andet,2615,2,Rækkehus,65,1968,
+Nygade 5 7790 Thyholm,5,350000.0,18-06-1992,Alm.,2713,4,Villa,129,1971,
+Mejerivej 26 7790 Thyholm,26,464000.0,05-06-1992,Fam.,3314,3,Stuehus,140,1912,
+Gormsvej 3 7790 Thyholm,3,180000.0,04-06-1992,Alm.,0,2,Sommerhus,54,1957,
+Vesterfjordsvej 2 7790 Thyholm,2,310000.0,29-05-1992,Alm.,2672,4,Villa,116,1894,
+Polarisvej 26 7790 Thyholm,26,538000.0,28-05-1992,Alm.,4106,4,Villa,131,1924,
+Søstjernevej 21 7790 Thyholm,21,325000.0,12-05-1992,Alm.,2685,4,Villa,121,1978,
+Helligkildevej 23 7790 Thyholm,23,435000.0,13-04-1992,Alm.,4438,4,Villa,98,1950,
+Hellerødvej 1 7790 Thyholm,1,372500.0,07-04-1992,Fam.,0,7,Villa,198,1945,
+Hovedvejen 85 7790 Thyholm,85,265000.0,28-03-1992,Alm.,2172,4,Villa,122,1957,
+Søndergade 15 7790 Thyholm,15,160000.0,16-03-1992,Alm.,0,5,Villa,129,1912,
+Orkidevej 9 7790 Thyholm,9,484004.0,02-03-1992,Alm.,3457,4,Villa,140,1985,
+Vestergade 22 7790 Thyholm,22,150000.0,18-02-1992,Alm.,2343,2,Villa,64,1938,

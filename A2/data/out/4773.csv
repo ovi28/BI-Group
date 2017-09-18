@@ -1,0 +1,445 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Vordingborgvej 97 4773 Stensved,97,464321.0,28-03-2017,Alm.,4259,5,Villa,109,1955,
+Kastanievej 36 4773 Stensved,36,800000.0,17-02-2017,Alm.,6250,4,Villa,128,1978,-9 %
+Vordingborgvej 45 4773 Stensved,45,497500.0,09-01-2017,Fam.,3948,4,Villa,126,1934,
+Pilevej 5 4773 Stensved,5,575000.0,22-12-2016,Alm.,6052,3,Villa,95,1889,0 %
+Parkvej 39 4773 Stensved,39,1250000.0,20-12-2016,Fam.,8333,4,Villa,150,1973,
+Kullevej 2 4773 Stensved,2,335000.0,25-11-2016,Alm.,3018,5,Sommerhus,111,1825,-15 %
+Pilevej 9 4773 Stensved,9,150000.0,23-11-2016,Alm.,1875,3,Villa,80,1963,-23 %
+Mågevej 9 4773 Stensved,9,905000.0,17-11-2016,Alm.,8537,4,Villa,106,1964,
+Stensbyvej 28B 4773 Stensved,0,1540000.0,14-11-2016,Alm.,6553,6,Rækkehus,235,1903,-4 %
+Pilevej 6 4773 Stensved,6,670310.0,08-11-2016,Andet,3419,5,Villa,196,1907,
+Vibevej 1 4773 Stensved,1,1095000.0,04-11-2016,Alm.,8051,4,Villa,136,1959,0 %
+Vordingborgvej 54 4773 Stensved,54,660000.0,01-11-2016,Alm.,4714,5,Villa,140,2015,
+Kastanievej 17 4773 Stensved,17,925000.0,12-10-2016,Alm.,8409,4,Villa,110,1978,
+Drosselvej 3 4773 Stensved,3,437500.0,22-09-2016,Fam.,3556,4,Villa,123,1964,
+Mosevangen 68 4773 Stensved,68,804000.0,24-08-2016,Andet,4757,5,Villa,169,2008,
+Kastanievej 21 4773 Stensved,21,1168000.0,09-08-2016,Alm.,10715,4,Villa,109,1978,-3 %
+Skovhusevej 32 4773 Stensved,32,180000.0,15-07-2016,Alm.,2117,3,Villa,85,1855,-27 %
+Stensbyvej 35 4773 Stensved,35,400000.0,03-07-2016,Alm.,1379,9,Villa,290,1867,
+Stensbyvej 54 4773 Stensved,54,750000.0,23-06-2016,Alm.,6818,4,Stuehus,110,1807,
+Skyttemarksvej 32 4773 Stensved,32,1350000.0,13-06-2016,Alm.,9246,4,Villa,146,1968,-3 %
+Skovstræde 13 4773 Stensved,13,900000.0,09-06-2016,Fam.,8737,4,Villa,103,1957,
+Stensbyvej 20 4773 Stensved,20,995000.0,08-06-2016,Auktion,5527,9,Villa,180,1947,
+Vibevej 10 4773 Stensved,10,595000.0,26-05-2016,Alm.,5085,5,Villa,117,1964,0 %
+Skyttemarksvej 14 4773 Stensved,14,551734.0,25-05-2016,Alm.,3998,4,Villa,138,2003,
+Skovstræde 8 4773 Stensved,8,1000000.0,20-05-2016,Alm.,6993,5,Villa,143,1970,-13 %
+Skolevej 2 4773 Stensved,2,460000.0,11-05-2016,Alm.,4000,5,Villa,115,1961,
+Skovhusevej 15 4773 Stensved,15,255000.0,03-05-2016,Alm.,1770,6,Villa,144,1925,-15 %
+Svalevej 3 4773 Stensved,3,371500.0,21-04-2016,Fam.,3045,4,Villa,122,1966,
+Parkvej 35 4773 Stensved,35,1370000.0,02-04-2016,Alm.,9448,6,Villa,145,1973,-2 %
+Skovhuse Gade 14 4773 Stensved,14,1600000.0,23-03-2016,Alm.,13675,4,Stuehus,117,1967,-20 %
+Skovhuse Gade 3 4773 Stensved,3,1150000.0,17-02-2016,Alm.,7876,4,Villa,146,1877,-10 %
+Skovhusevej 7 4773 Stensved,7,690000.0,17-02-2016,Auktion,4964,5,Villa,139,1913,
+Skovhusevej 26 4773 Stensved,26,1250000.0,15-02-2016,Alm.,7485,7,Villa,167,1947,-3 %
+Lupinvej 30 4773 Stensved,30,450000.0,02-02-2016,Alm.,3543,4,Villa,127,1972,-43 %
+Primulavej 2 4773 Stensved,2,1600000.0,22-01-2016,Andet,11111,5,Villa,144,2000,-6 %
+Kastanievej 35 4773 Stensved,35,855000.0,21-01-2016,Alm.,6286,4,Villa,136,1978,-4 %
+Kastanievej 4 4773 Stensved,4,700000.0,14-01-2016,Alm.,5185,4,Villa,135,1978,-12 %
+Stensbyvej 26 4773 Stensved,26,3000000.0,09-12-2015,Alm.,9966,6,Stuehus,301,1922,
+Skovhusevej 12 4773 Stensved,12,315000.0,18-11-2015,Alm.,2863,4,Villa,110,1948,7 %
+Vordingborgvej 28 4773 Stensved,28,600800.0,16-11-2015,Alm.,3778,5,Villa,159,1935,-8 %
+Lupinvej 31 4773 Stensved,31,500000.0,10-11-2015,Fam.,4385,4,Villa,114,1980,
+Mosevangen 31 4773 Stensved,31,1200000.0,24-10-2015,Alm.,10909,4,Rækkehus,110,2008,-6 %
+Lupinvej 1 4773 Stensved,1,1475000.0,22-10-2015,Alm.,12291,4,Villa,120,1969,-1 %
+Mosevangen 39 4773 Stensved,39,1170000.0,25-09-2015,Alm.,10636,4,Rækkehus,110,2008,-6 %
+Drosselvej 14 4773 Stensved,14,915000.0,23-09-2015,Alm.,8883,4,Villa,103,1965,-6 %
+Møllevej 1 4773 Stensved,1,235000.0,11-09-2015,Alm.,1654,3,Villa,142,1962,-45 %
+Skyttemarksvej 42B 4773 Stensved,0,425000.0,24-07-2015,Alm.,3541,4,Villa,120,1971,
+Kastanievej 16 4773 Stensved,16,538000.0,15-07-2015,Auktion,4803,4,Villa,112,1978,
+Drejervej 10 4773 Stensved,10,1550000.0,09-07-2015,Alm.,11923,5,Villa,130,1920,
+Vordingborgvej 29 4773 Stensved,29,600000.0,26-06-2015,Alm.,5454,5,Villa,110,1954,-8 %
+Kastanievej 11 4773 Stensved,11,1100000.0,24-06-2015,Alm.,5729,5,Villa,192,1978,-6 %
+Skovhuse Gade 2 4773 Stensved,2,995000.0,19-06-2015,Alm.,10153,2,Villa,98,1900,0 %
+Stensbyvej 12 4773 Stensved,12,338000.0,18-06-2015,Alm.,1681,8,Villa,201,1890,
+Drosselvej 5 4773 Stensved,5,750000.0,08-06-2015,Alm.,5813,4,Villa,129,1968,-11 %
+Stensbyvej 48 4773 Stensved,48,1175000.0,07-05-2015,Alm.,7532,6,Villa,156,1947,-9 %
+Skyttemarksvej 40A 4773 Stensved,0,115900.0,20-04-2015,Alm.,619,5,Villa,187,2016,
+Drosselvej 4 4773 Stensved,4,610000.0,11-04-2015,Alm.,4357,4,Villa,140,1966,-23 %
+Stensbyvej 33 4773 Stensved,33,3650000.0,28-03-2015,Alm.,14717,7,Stuehus,248,1700,-3 %
+Vordingborgvej 8 4773 Stensved,8,105000.0,27-03-2015,Alm.,1235,3,Villa,85,1937,-64 %
+Parkvej 16 4773 Stensved,16,1145000.0,24-03-2015,Alm.,7951,5,Villa,144,1973,-4 %
+Åløkkevej 14 4773 Stensved,14,2000000.0,21-03-2015,Alm.,12195,5,Villa,164,2007,-9 %
+Skyttemarksvej 19 4773 Stensved,19,983000.0,20-03-2015,Fam.,4447,7,Villa,221,1967,
+Vordingborgvej 33 4773 Stensved,33,220000.0,09-02-2015,Alm.,2750,3,Villa,80,1878,-10 %
+Vordingborgvej 67 4773 Stensved,67,380750.0,09-02-2015,Fam.,4881,3,Villa,78,1950,
+Stensby Mark 11 4773 Stensved,11,3229400.0,31-12-2014,Fam.,17841,8,Stuehus,181,1840,
+Skovbækvej 2 4773 Stensved,2,1700000.0,30-12-2014,Alm.,9826,4,Villa,173,2008,-5 %
+Skyttemarksvej 10 4773 Stensved,10,1350000.0,10-12-2014,Auktion,10150,5,Villa,133,2012,
+Skovhusevej 2 4773 Stensved,2,320000.0,09-12-2014,Alm.,1951,6,Stuehus,164,1912,-85 %
+Stensbyvej 17 4773 Stensved,17,1000000.0,11-11-2014,Andet,6289,4,Villa,159,1900,
+Vordingborgvej 99 4773 Stensved,99,825000.0,08-10-2014,Alm.,10312,3,Villa,80,1960,-3 %
+Skovstræde 3 4773 Stensved,3,400000.0,02-10-2014,Alm.,3571,3,Villa,112,1963,-42 %
+Stensby Mark 9 4773 Stensved,9,874500.0,06-09-2014,Alm.,3904,7,Villa,224,1899,-56 %
+Kirsebærvej 14 4773 Stensved,14,602840.0,06-09-2014,Andet,4245,5,Villa,142,1999,
+Skovhusevej 6 4773 Stensved,6,1104000.0,01-09-2014,Alm.,6690,4,Villa,165,1907,
+Pilevej 4 4773 Stensved,4,350000.0,02-07-2014,Alm.,3271,4,Villa,107,1879,-11 %
+Skovstræde 15 4773 Stensved,15,539656.0,01-07-2014,Andet,7195,5,Villa,75,1957,
+Kastanievej 6 4773 Stensved,6,830000.0,18-05-2014,Alm.,5928,4,Villa,140,1978,-15 %
+Lupinvej 32 4773 Stensved,32,950000.0,09-04-2014,Alm.,9223,5,Villa,103,1971,0 %
+Drosselvej 16 4773 Stensved,16,650000.0,16-03-2014,Alm.,6250,4,Villa,104,1968,-13 %
+Stensbyvej 30 4773 Stensved,30,115000.0,14-02-2014,Alm.,1854,3,Villa,62,1900,
+Mosevangen 11 4773 Stensved,11,2110000.0,12-02-2014,Alm.,12196,6,Villa,173,2005,-8 %
+Vordingborgvej 73 4773 Stensved,73,595000.0,31-12-2013,Alm.,3520,5,Villa,169,1902,0 %
+Parkvej 29 4773 Stensved,29,1150000.0,18-12-2013,Alm.,6052,4,Villa,190,1973,-11 %
+Vordingborgvej 4 4773 Stensved,4,476000.0,16-12-2013,Alm.,2720,4,Villa,175,1972,
+Vordingborgvej 103 4773 Stensved,103,1500000.0,12-12-2013,Alm.,8333,4,Villa,180,1900,
+Skånningevej 30 4773 Stensved,30,500000.0,20-11-2013,Alm.,4310,5,Villa,116,1962,-9 %
+Lupinvej 20 4773 Stensved,20,930000.0,05-11-2013,Alm.,7440,4,Villa,125,1976,-5 %
+Parkvej 26 4773 Stensved,26,795000.0,31-10-2013,Alm.,6625,4,Villa,120,1976,-6 %
+Drosselvej 12 4773 Stensved,12,885000.0,18-10-2013,Alm.,8592,4,Villa,103,1966,-6 %
+Skånningevej 25 4773 Stensved,25,760000.0,18-10-2013,Alm.,6386,4,Villa,119,1964,-8 %
+Bakkevej 22 4773 Stensved,22,640000.0,16-10-2013,Auktion,3926,5,Villa,163,1974,
+Skyttemarksvej 36A 4773 Stensved,0,800000.0,14-10-2013,Alm.,5194,5,Villa,154,1972,-20 %
+Lupinvej 38 4773 Stensved,38,675000.0,13-09-2013,Alm.,4655,5,Villa,145,1972,-3 %
+Vordingborgvej 35 4773 Stensved,35,325000.0,04-09-2013,Alm.,3693,3,Villa,88,1957,0 %
+Kastanievej 26 4773 Stensved,26,825000.0,28-08-2013,Alm.,5978,4,Villa,138,1978,-3 %
+Parkvej 56 4773 Stensved,56,1190000.0,22-07-2013,Alm.,7933,4,Villa,150,1980,-5 %
+Vordingborgvej 87 4773 Stensved,87,895000.0,20-07-2013,Alm.,7458,5,Villa,120,1959,0 %
+Skovhuse Gade 10 4773 Stensved,10,593968.0,27-06-2013,Andet,0,7,Villa,179,1870,
+Vådebjergvej 6 4773 Stensved,6,2300000.0,01-06-2013,Alm.,10599,6,Villa,217,2004,0 %
+Møllevej 10 4773 Stensved,10,2130000.0,20-05-2013,Alm.,13921,6,Villa,153,2008,
+Bakkevej 21 4773 Stensved,21,900000.0,05-04-2013,Alm.,5769,5,Villa,156,1973,-10 %
+Pilevej 11 4773 Stensved,11,675000.0,31-03-2013,Alm.,5921,4,Villa,114,1827,0 %
+Mosevangen 35 4773 Stensved,35,1175000.0,17-12-2012,Alm.,10681,4,Rækkehus,110,2008,-2 %
+Kastanievej 7 4773 Stensved,7,410478.0,14-12-2012,Andet,3232,4,Villa,127,1978,
+Mosevangen 55 4773 Stensved,55,600000.0,01-11-2012,Alm.,5454,4,Rækkehus,110,2008,
+Skovhusevej 24 4773 Stensved,24,868000.0,23-10-2012,Fam.,8112,4,Villa,107,1777,
+Åløkkevej 12 4773 Stensved,12,1800000.0,21-10-2012,Alm.,11842,5,Villa,152,2007,-10 %
+Mosevangen 37 4773 Stensved,37,603500.0,17-10-2012,Andet,5486,4,Rækkehus,110,2008,
+Lupinvej 10 4773 Stensved,10,659093.0,20-09-2012,Alm.,3766,5,Villa,175,1969,
+Mejerivænget 8 4773 Stensved,8,50000.0,11-09-2012,Alm.,500,4,Villa,100,1966,
+Mosevangen 2A 4773 Stensved,0,1100000.0,21-07-2012,Alm.,7236,6,Villa,152,1910,
+Lupinvej 34 4773 Stensved,34,560000.0,08-06-2012,Fam.,4028,4,Villa,139,1970,-53 %
+Parkvej 33 4773 Stensved,33,1130000.0,26-05-2012,Alm.,5916,6,Villa,191,1973,-16 %
+Skyttemarksvej 17 4773 Stensved,17,750000.0,30-04-2012,Alm.,3024,9,Villa,248,1877,-25 %
+Vordingborgvej 69 4773 Stensved,69,680000.0,17-01-2012,Alm.,5573,3,Villa,122,1944,
+Skovstræde 5 4773 Stensved,5,530000.0,23-12-2011,Alm.,4240,4,Villa,125,1959,-17 %
+Vordingborgvej 61 4773 Stensved,61,356452.0,15-12-2011,Andet,2475,2,Villa,144,1902,
+Skovstræde 18 4773 Stensved,18,2225000.0,26-09-2011,Alm.,16481,3,Stuehus,135,1955,
+Skovhuse Gade 12 4773 Stensved,12,1218725.0,19-09-2011,Alm.,6217,5,Stuehus,196,1939,
+Kirsebærvej 7 4773 Stensved,7,1495000.0,21-07-2011,Alm.,0,6,Villa,198,2007,0 %
+Skovhusevej 10 4773 Stensved,10,1053582.0,12-07-2011,Alm.,8104,5,Stuehus,130,1919,
+Pilevej 13 4773 Stensved,13,1350000.0,06-07-2011,Alm.,8653,4,Stuehus,156,1942,-15 %
+Skånningevej 55 4773 Stensved,55,765000.0,30-06-2011,Alm.,7285,4,Villa,105,1967,-12 %
+Mosevangen 27 4773 Stensved,27,1475000.0,04-04-2011,Alm.,13409,4,Rækkehus,110,2008,
+Skånningevej 47 4773 Stensved,47,1200000.0,04-04-2011,Alm.,9448,4,Villa,127,1960,-14 %
+Industrivej 6 4773 Stensved,6,1595000.0,06-03-2011,Alm.,10493,4,Villa,152,1973,0 %
+Kastanievej 15 4773 Stensved,15,950000.0,28-12-2010,Alm.,8333,4,Villa,114,1978,-17 %
+Skovhuse Gade 11 4773 Stensved,11,500000.0,14-12-2010,Alm.,6666,3,Villa,75,1850,-16 %
+Skovstræde 21 4773 Stensved,21,2395000.0,09-12-2010,Alm.,13159,5,Stuehus,182,1900,0 %
+Mosevangen 7 4773 Stensved,7,260000.0,22-11-2010,Alm.,1547,5,Villa,168,2015,
+Pilegårdsvej 1B 4773 Stensved,0,473590.0,01-10-2010,Andet,6314,3,Villa,75,1957,
+Skyttemarksvej 5 4773 Stensved,5,1080000.0,29-09-2010,Alm.,8372,4,Villa,129,1967,-6 %
+Mågevej 1 4773 Stensved,1,688000.0,20-09-2010,Andet,5212,5,Villa,132,1971,
+Lupinvej 24 4773 Stensved,24,1100000.0,16-09-2010,Alm.,6918,4,Villa,159,1969,-12 %
+Skovbrynet 2 4773 Stensved,2,1950000.0,07-09-2010,Alm.,11676,4,Villa,167,1975,
+Vibevej 9 4773 Stensved,9,1950000.0,07-09-2010,Alm.,13000,6,Villa,150,1964,
+Violvej 2 4773 Stensved,2,955000.0,20-08-2010,Alm.,10852,3,Villa,88,1966,-4 %
+Stensbyvej 16 4773 Stensved,16,770000.0,22-07-2010,Alm.,6209,4,Villa,124,1900,0 %
+Stensbyvej 25 4773 Stensved,25,366326.0,07-07-2010,Alm.,0,4,Villa,189,1850,
+Parkvej 8 4773 Stensved,8,502607.0,20-06-2010,Alm.,3221,4,Villa,156,1976,
+Kastanievej 34 4773 Stensved,34,1625000.0,16-06-2010,Alm.,12126,5,Villa,134,1979,-4 %
+Lupinvej 11 4773 Stensved,11,1065000.0,27-05-2010,Alm.,7830,4,Villa,136,1969,-11 %
+Skovstræde 11 4773 Stensved,11,800000.0,22-05-2010,Alm.,7142,5,Villa,112,1957,-6 %
+Sommerdalen 3 4773 Stensved,3,475000.0,28-04-2010,Auktion,5277,5,Villa,90,1966,-32 %
+Bakkevej 25 4773 Stensved,25,798000.0,24-04-2010,Alm.,4134,8,Villa,193,1974,
+Skovstræde 23 4773 Stensved,23,350000.0,12-04-2010,Fam.,1724,5,Villa,203,1870,
+Mågevej 5 4773 Stensved,5,980000.0,02-04-2010,Alm.,9702,4,Villa,101,1966,-6 %
+Birkebakken 6 4773 Stensved,6,975000.0,29-03-2010,Alm.,9558,4,Villa,102,1960,-2 %
+Kastanievej 44 4773 Stensved,44,1150000.0,19-03-2010,Alm.,10267,4,Villa,112,1977,
+Åløkkevej 1 4773 Stensved,1,1970000.0,11-02-2010,Alm.,11726,6,Villa,168,2007,-1 %
+Stensbyvej 39 4773 Stensved,39,654423.0,27-01-2010,Alm.,5112,4,Villa,128,1940,
+Åløkkevej 6 4773 Stensved,6,2000000.0,09-12-2009,Alm.,10869,7,Villa,184,1807,
+Lindevej 7 4773 Stensved,7,1360000.0,29-10-2009,Fam.,6126,8,Villa,222,1967,-15 %
+Vordingborgvej 34 4773 Stensved,34,625000.0,15-09-2009,Alm.,5896,3,Villa,106,1890,-10 %
+Vordingborgvej 44 4773 Stensved,44,850000.0,27-08-2009,Alm.,6439,5,Villa,132,1907,-15 %
+Parkvej 4 4773 Stensved,4,850000.0,14-08-2009,Alm.,5704,4,Villa,149,1976,
+Stivænget 1 4773 Stensved,1,83350.0,12-07-2009,Alm.,646,4,Stuehus,129,1914,
+Parkvej 58 4773 Stensved,58,700000.0,17-06-2009,Alm.,5185,4,Villa,135,1976,-28 %
+Bakkevej 14 4773 Stensved,14,825000.0,09-06-2009,Alm.,5221,4,Villa,158,1973,-2 %
+Lupinvej 3 4773 Stensved,3,850000.0,02-06-2009,Alm.,6746,4,Villa,126,1970,-19 %
+Kastanievej 20 4773 Stensved,20,1000000.0,26-05-2009,Alm.,9090,4,Villa,110,1978,-16 %
+Skovstræde 7 4773 Stensved,7,616315.0,30-04-2009,Andet,5135,3,Villa,120,1965,
+Drosselvej 20 4773 Stensved,20,1455000.0,26-03-2009,Alm.,8712,5,Villa,167,1958,
+Vordingborgvej 3 4773 Stensved,3,700000.0,13-03-2009,Alm.,7291,3,Villa,96,1961,-12 %
+Lupinvej 8 4773 Stensved,8,969243.0,31-01-2009,Alm.,7342,5,Villa,132,1966,-15 %
+Mosevangen 29 4773 Stensved,29,1595000.0,01-11-2008,Alm.,14500,4,Rækkehus,110,2008,0 %
+Mosevangen 53 4773 Stensved,53,1550000.0,08-10-2008,Alm.,14090,4,Rækkehus,110,2008,
+Vordingborgvej 2 4773 Stensved,2,425000.0,21-07-2008,Alm.,0,4,Villa,177,1900,
+Irisvej 6 4773 Stensved,6,1150000.0,28-06-2008,Alm.,9745,3,Villa,118,1968,-13 %
+Skovstræde 22 4773 Stensved,22,74925.0,10-06-2008,Alm.,960,3,Villa,78,1900,
+Vestenbækvej 40 4773 Stensved,40,1053000.0,09-06-2008,Alm.,6664,6,Villa,158,1907,
+Mosevangen 23 4773 Stensved,23,268307.0,19-05-2008,Alm.,2217,4,Villa,121,2009,
+Mosevangen 43 4773 Stensved,43,1525000.0,14-04-2008,Alm.,13863,4,Rækkehus,110,2008,
+Kastanievej 1 4773 Stensved,1,997500.0,13-04-2008,Alm.,6739,5,Villa,148,1979,
+Mosevangen 41 4773 Stensved,41,1475000.0,10-04-2008,Alm.,13409,4,Rækkehus,110,2008,
+Birkebakken 4 4773 Stensved,4,1200000.0,03-04-2008,Alm.,11650,4,Villa,103,1961,-4 %
+Vordingborgvej 32 4773 Stensved,32,671500.0,31-03-2008,Fam.,5739,3,Villa,117,1944,
+Mosevangen 33 4773 Stensved,33,1475000.0,13-03-2008,Alm.,13409,4,Rækkehus,110,2008,
+Vordingborgvej 50 4773 Stensved,50,2650000.0,07-03-2008,Alm.,8862,6,Villa,299,1948,-5 %
+Mosevangen 57 4773 Stensved,57,1525000.0,15-02-2008,Alm.,13863,4,Rækkehus,110,2008,
+Mosevangen 51 4773 Stensved,51,1525000.0,12-02-2008,Alm.,13863,4,Rækkehus,110,2008,
+Mosevangen 47 4773 Stensved,47,1525000.0,12-02-2008,Alm.,13863,4,Rækkehus,110,2008,
+Mosevangen 62 4773 Stensved,62,1200000.0,28-01-2008,Alm.,15789,3,Rækkehus,76,2007,-4 %
+Skovstræde 14 4773 Stensved,14,1948000.0,25-01-2008,Alm.,13342,4,Villa,146,1932,-2 %
+Parkvej 1B 4773 Stensved,0,1550000.0,25-01-2008,Alm.,10197,4,Villa,152,1976,-3 %
+Skovhusevej 16 4773 Stensved,16,695000.0,16-01-2008,Alm.,9652,3,Villa,72,1944,0 %
+Irisvej 4 4773 Stensved,4,1560000.0,20-12-2007,Alm.,11818,4,Villa,132,1971,0 %
+Skånningevej 42 4773 Stensved,42,995000.0,19-12-2007,Alm.,9851,4,Villa,101,1964,0 %
+Vordingborgvej 65 4773 Stensved,65,1225000.0,29-10-2007,Alm.,11556,5,Villa,106,1957,-4 %
+Parkvej 13 4773 Stensved,13,1520000.0,17-10-2007,Alm.,10270,5,Villa,148,1973,-5 %
+Drejervej 4 4773 Stensved,4,1375000.0,11-09-2007,Alm.,10742,5,Villa,128,1935,-5 %
+Lupinvej 19 4773 Stensved,19,1685000.0,27-08-2007,Alm.,11783,5,Villa,143,1969,0 %
+Mosevangen 5 4773 Stensved,5,2450000.0,17-08-2007,Alm.,13535,5,Villa,181,2006,-2 %
+Vordingborgvej 9 4773 Stensved,9,675000.0,13-08-2007,Alm.,11637,1,Villa,58,1948,
+Stensbyvej 24 4773 Stensved,24,1800000.0,30-07-2007,Alm.,10650,6,Villa,169,1897,-3 %
+Mosevangen 25 4773 Stensved,25,2630000.0,24-07-2007,Alm.,15939,5,Villa,165,2006,-2 %
+Bakkevej 38 4773 Stensved,38,1600000.0,12-07-2007,Alm.,10191,5,Villa,157,1974,-6 %
+Åløkkevej 7 4773 Stensved,7,350000.0,30-06-2007,Alm.,0,5,Villa,195,2008,
+Kirsebærvej 2 4773 Stensved,2,1615000.0,29-06-2007,Alm.,15528,4,Villa,104,2004,1 %
+Mosevangen 49 4773 Stensved,49,1525000.0,19-06-2007,Alm.,13863,4,Rækkehus,110,2008,
+Mosevangen 45 4773 Stensved,45,1525000.0,29-05-2007,Alm.,13863,4,Rækkehus,110,2008,
+Kirsebærvej 12 4773 Stensved,12,1850000.0,25-05-2007,Alm.,14566,5,Villa,127,1998,-2 %
+Industrivej 4A 4773 Stensved,0,1000000.0,19-05-2007,Alm.,9009,3,Villa,111,1976,
+Skovstræde 10 4773 Stensved,10,1275000.0,10-05-2007,Alm.,10714,3,Villa,119,1955,-7 %
+Vordingborgvej 63 4773 Stensved,63,1750000.0,01-05-2007,Alm.,11513,3,Villa,152,1959,-3 %
+Sommerdalen 2 4773 Stensved,2,758000.0,10-04-2007,Alm.,12633,3,Villa,60,1966,
+Sommerdalen 6 4773 Stensved,6,1750000.0,29-03-2007,Alm.,8928,5,Villa,196,1990,-5 %
+Skånningevej 37 4773 Stensved,37,1095000.0,14-03-2007,Alm.,0,3,Villa,136,1963,
+Åløkkevej 9 4773 Stensved,9,2200000.0,01-03-2007,Alm.,11167,5,Villa,197,2007,-7 %
+Bakkevej 24 4773 Stensved,24,1375000.0,20-02-2007,Alm.,8040,6,Villa,171,1974,-5 %
+Lupinvej 12 4773 Stensved,12,816000.0,02-02-2007,Fam.,6375,4,Villa,128,1971,
+Vordingborgvej 13 4773 Stensved,13,675000.0,26-01-2007,Fam.,6683,4,Villa,101,2007,
+Lindevej 14 4773 Stensved,14,392979.0,18-01-2007,Andet,2910,5,Villa,135,1977,
+Bakkevej 43 4773 Stensved,43,1965000.0,12-01-2007,Alm.,11981,5,Villa,164,1973,
+Skånningevej 52 4773 Stensved,52,445000.0,19-12-2006,Fam.,6357,3,Villa,70,1965,
+Vordingborgvej 81 4773 Stensved,81,370000.0,18-12-2006,Alm.,3303,5,Villa,112,1954,
+Bakkevej 29 4773 Stensved,29,623747.0,30-11-2006,Alm.,2887,6,Villa,216,1973,
+Kirsebærvej 3 4773 Stensved,3,2075000.0,09-11-2006,Alm.,15257,4,Villa,136,1997,
+Skovhuse Gade 1 4773 Stensved,1,679051.0,31-10-2006,Alm.,3880,4,Villa,175,1936,
+Pilevej 15 4773 Stensved,15,2795000.0,26-10-2006,Alm.,9671,9,Villa,289,1942,
+Møllevej 6 4773 Stensved,6,1375000.0,13-10-2006,Alm.,14322,3,Villa,96,1961,
+Lindevej 5 4773 Stensved,5,1650000.0,11-10-2006,Fam.,14347,5,Villa,115,1975,
+Mejerivænget 6A 4773 Stensved,0,1500000.0,04-10-2006,Alm.,11278,2,Rækkehus,133,1963,
+Stensbyvej 44 4773 Stensved,44,1495000.0,10-08-2006,Alm.,12887,3,Villa,116,1927,
+Skovbrynet 18 4773 Stensved,18,265000.0,26-07-2006,Andet,4206,2,Villa,63,2004,
+Lindevej 4 4773 Stensved,4,1475000.0,18-07-2006,Alm.,8676,5,Villa,170,1972,
+Vestenbækvej 5 4773 Stensved,5,1715000.0,05-07-2006,Alm.,10923,6,Stuehus,157,1928,
+Skovhuse Gade 7 4773 Stensved,7,1245000.0,04-07-2006,Alm.,13833,4,Villa,90,1787,
+Skovstræde 26 4773 Stensved,26,995000.0,08-06-2006,Alm.,0,5,Villa,182,1940,
+Kastanievej 38 4773 Stensved,38,1145000.0,31-05-2006,Alm.,10504,4,Villa,109,1978,
+Lindevej 11 4773 Stensved,11,1150000.0,15-05-2006,Andet,5476,7,Villa,210,1961,
+Kastanievej 12 4773 Stensved,12,600000.0,06-05-2006,Alm.,4379,5,Villa,137,1978,
+Skånningevej 32 4773 Stensved,32,1075000.0,02-05-2006,Alm.,13607,3,Villa,79,1962,
+Skovstræde 12 4773 Stensved,12,1225000.0,19-04-2006,Alm.,9722,3,Villa,126,1930,
+Bakkevej 3 4773 Stensved,3,1395000.0,11-04-2006,Alm.,10730,5,Villa,130,1973,
+Skyttemarksvej 6 4773 Stensved,6,800000.0,07-04-2006,Alm.,0,2,Villa,96,1962,
+Mejerivænget 1 4773 Stensved,1,1200000.0,30-03-2006,Fam.,4669,5,Villa,257,1970,
+Åløkkevej 5 4773 Stensved,5,295000.0,30-01-2006,Alm.,1915,5,Villa,154,2007,
+Åløkkevej 3 4773 Stensved,3,375000.0,19-01-2006,Alm.,1205,7,Villa,311,2011,
+Vordingborgvej 26 4773 Stensved,26,1100000.0,18-01-2006,Alm.,10091,4,Villa,109,1937,
+Mosevangen 1 4773 Stensved,1,195000.0,30-12-2005,Alm.,1444,4,Villa,135,2006,
+Vibevej 6 4773 Stensved,6,1295000.0,28-11-2005,Alm.,7115,6,Villa,182,1964,
+Åløkkevej 16 4773 Stensved,16,280000.0,24-11-2005,Alm.,1521,5,Villa,184,2007,
+Lupinvej 17 4773 Stensved,17,1155000.0,16-11-2005,Alm.,8250,6,Villa,140,1968,
+Åløkkevej 11 4773 Stensved,11,295000.0,12-10-2005,Alm.,1446,5,Villa,204,2007,
+Åløkkevej 10 4773 Stensved,10,280000.0,12-10-2005,Alm.,1581,5,Villa,177,2006,
+Skovbrynet 4 4773 Stensved,4,1575000.0,06-10-2005,Alm.,0,5,Anden beboelse,324,1974,
+Kastanievej 40 4773 Stensved,40,1300000.0,09-09-2005,Alm.,8609,4,Villa,151,1980,
+Stivænget 6 4773 Stensved,6,1375000.0,07-09-2005,Alm.,18092,3,Stuehus,76,1961,
+Mosevangen 13 4773 Stensved,13,220000.0,31-08-2005,Alm.,1309,5,Villa,168,2006,
+Bakkevej 56 4773 Stensved,56,1485000.0,24-08-2005,Alm.,9900,3,Villa,150,1973,
+Mosevangen 19 4773 Stensved,19,245000.0,21-07-2005,Alm.,1521,4,Villa,161,2011,
+Ternevej 5 4773 Stensved,5,1805000.0,07-07-2005,Alm.,12711,3,Villa,142,1970,
+Pilegårdsvej 2 4773 Stensved,2,165000.0,05-07-2005,Alm.,1085,6,Villa,152,2006,
+Irisvej 5 4773 Stensved,5,1025000.0,14-06-2005,Alm.,6406,4,Villa,160,1966,
+Irisvej 18 4773 Stensved,18,1095000.0,01-06-2005,Alm.,10233,4,Villa,107,1969,
+Mosevangen 3 4773 Stensved,3,195000.0,09-05-2005,Alm.,1031,7,Villa,189,2006,
+Mosevangen 15 4773 Stensved,15,220000.0,28-04-2005,Alm.,1410,5,Villa,156,2006,
+Pilegårdsvej 4 4773 Stensved,4,3375000.0,27-04-2005,Alm.,0,9,Stuehus,285,1883,
+Skovhuse Gade 8 4773 Stensved,8,1300000.0,25-04-2005,Alm.,8280,5,Villa,157,1902,
+Parkvej 23 4773 Stensved,23,1195000.0,19-04-2005,Alm.,8917,5,Villa,134,1973,
+Mosevangen 17 4773 Stensved,17,220000.0,06-04-2005,Alm.,1913,5,Villa,115,2006,
+Vådebjergvej 1 4773 Stensved,1,203775.0,21-03-2005,Alm.,2239,3,Villa,91,2007,
+Parkvej 41 4773 Stensved,41,1345000.0,18-03-2005,Alm.,8621,4,Villa,156,1973,
+Lupinvej 40 4773 Stensved,40,504577.0,28-02-2005,Alm.,3911,4,Villa,129,1972,
+Birkebakken 1 4773 Stensved,1,835000.0,13-02-2005,Alm.,9709,3,Villa,86,1965,
+Stensbyvej 29 4773 Stensved,29,757500.0,11-02-2005,Alm.,1856,7,Villa,408,1827,
+Lupinvej 7 4773 Stensved,7,1395000.0,10-02-2005,Alm.,7750,8,Villa,180,1972,
+Irisvej 14 4773 Stensved,14,1030000.0,08-02-2005,Alm.,9363,3,Villa,110,1969,
+Bakkevej 5 4773 Stensved,5,1280000.0,03-01-2005,Alm.,9552,4,Villa,134,1974,
+Vordingborgvej 5 4773 Stensved,5,995000.0,23-12-2004,Alm.,4326,10,Villa,230,1864,
+Vibevej 12 4773 Stensved,12,1165000.0,14-11-2004,Alm.,9708,4,Villa,120,1964,
+Mosevangen 21 4773 Stensved,21,240000.0,10-11-2004,Alm.,1875,4,Villa,128,2005,
+Kirsebærvej 18 4773 Stensved,18,2100000.0,28-10-2004,Alm.,12804,5,Villa,164,2002,
+Lupinvej 44 4773 Stensved,44,1350000.0,07-09-2004,Alm.,7584,6,Villa,178,1976,
+Skovbrynet 6 4773 Stensved,6,2200000.0,13-08-2004,Alm.,12941,7,Villa,170,1977,
+Vordingborgvej 77 4773 Stensved,77,725000.0,19-07-2004,Alm.,6304,5,Villa,115,1938,
+Vestenbækvej 22 4773 Stensved,22,1750000.0,30-06-2004,Alm.,7777,10,Stuehus,225,1800,
+Vordingborgvej 62 4773 Stensved,62,1060000.0,12-06-2004,Alm.,0,6,Stuehus,130,1930,
+Bakkevej 26 4773 Stensved,26,1175000.0,21-05-2004,Alm.,7532,5,Villa,156,1973,
+Bakkevej 41 4773 Stensved,41,1130000.0,19-05-2004,Alm.,9416,4,Villa,120,1973,
+Skovstræde 6 4773 Stensved,6,595000.0,13-05-2004,Alm.,6263,3,Villa,95,1948,
+Pilevej 3 4773 Stensved,3,510000.0,01-05-2004,Alm.,5930,4,Sommerhus,86,1877,
+Parkvej 20 4773 Stensved,20,1140000.0,28-04-2004,Alm.,7500,5,Villa,152,1973,
+Vordingborgvej 10 4773 Stensved,10,885000.0,20-04-2004,Alm.,5636,4,Villa,157,1936,
+Skovhusevej 8 4773 Stensved,8,1475000.0,16-04-2004,Alm.,6441,7,Villa,229,1971,
+Vordingborgvej 101 4773 Stensved,101,495000.0,15-04-2004,Alm.,5210,2,Villa,95,1850,
+Kastanievej 27 4773 Stensved,27,1119000.0,17-03-2004,Alm.,8742,4,Villa,128,1979,
+Birkebakken 8 4773 Stensved,8,1195000.0,12-03-2004,Alm.,8659,4,Villa,138,1960,
+Skånningevej 29 4773 Stensved,29,700000.0,16-02-2004,Alm.,5833,4,Villa,120,1963,
+Bakkevej 30 4773 Stensved,30,1125000.0,29-01-2004,Alm.,0,7,Villa,160,1974,
+Mosevangen 9 4773 Stensved,9,220000.0,21-01-2004,Alm.,1476,4,Villa,149,2005,
+Parkvej 1A 4773 Stensved,0,1050000.0,16-09-2003,Alm.,0,6,Villa,186,1877,
+Vordingborgvej 48 4773 Stensved,48,650000.0,04-09-2003,Alm.,5158,6,Villa,126,1804,
+Pilevej 16 4773 Stensved,16,2300000.0,29-08-2003,Alm.,14649,5,Stuehus,157,1865,
+Skovhusevej 14 4773 Stensved,14,725000.0,18-07-2003,Alm.,0,3,Villa,109,1946,
+Vordingborgvej 58 4773 Stensved,58,276221.0,13-06-2003,Alm.,3368,3,Villa,82,1876,
+Stensby Linie 13 4773 Stensved,13,250000.0,19-05-2003,Alm.,0,8,Villa,273,1956,
+Skovhuse Gade 4 4773 Stensved,4,300000.0,14-05-2003,Alm.,0,5,Villa,168,1922,
+Kirsebærvej 9 4773 Stensved,9,80000.0,16-04-2003,Alm.,451,5,Villa,177,2004,
+Birkebakken 5 4773 Stensved,5,680329.0,31-03-2003,Alm.,0,4,Villa,105,1964,
+Bakkevej 16 4773 Stensved,16,925000.0,19-03-2003,Alm.,9250,4,Villa,100,1975,
+Stensbyvej 31 4773 Stensved,31,1075000.0,12-03-2003,Alm.,7570,4,Villa,142,1890,
+Mejerivænget 4 4773 Stensved,4,310000.0,26-01-2003,Alm.,3039,4,Villa,102,1962,
+Vordingborgvej 95 4773 Stensved,95,610000.0,09-12-2002,Alm.,6224,4,Villa,98,1850,
+Parkvej 36 4773 Stensved,36,825000.0,27-09-2002,Alm.,6932,4,Villa,119,1974,
+Birkebakken 10 4773 Stensved,10,998000.0,24-09-2002,Alm.,5870,6,Villa,170,1960,
+Møllevej 3 4773 Stensved,3,426939.0,16-09-2002,Andet,3361,4,Villa,127,1960,
+Skyttemarksvej 44 4773 Stensved,44,100000.0,10-08-2002,Alm.,847,5,Villa,118,2003,
+Kastanievej 14 4773 Stensved,14,1045000.0,02-08-2002,Alm.,8164,4,Villa,128,1980,
+Vordingborgvej 14 4773 Stensved,14,565000.0,04-07-2002,Alm.,3575,6,Villa,158,1932,
+Kastanievej 33 4773 Stensved,33,1250000.0,30-06-2002,Alm.,7022,4,Villa,178,1979,
+Vordingborgvej 25 4773 Stensved,25,665000.0,18-04-2002,Alm.,7823,3,Villa,85,1954,
+Lindevej 12 4773 Stensved,12,875000.0,07-03-2002,Alm.,6481,4,Villa,135,1962,
+Skyttemarksvej 7 4773 Stensved,7,745000.0,06-02-2002,Alm.,6592,4,Villa,113,1964,
+Kirsebærvej 11 4773 Stensved,11,80000.0,15-01-2002,Alm.,0,4,Villa,160,2003,
+Lupinvej 23 4773 Stensved,23,849846.0,03-12-2001,Alm.,5861,5,Villa,145,1969,
+Kastanievej 46 4773 Stensved,46,1050000.0,06-09-2001,Alm.,0,6,Villa,210,1978,
+Bakkevej 15 4773 Stensved,15,1080000.0,27-08-2001,Alm.,7297,5,Villa,148,1972,
+Vordingborgvej 89 4773 Stensved,89,690000.0,21-08-2001,Alm.,7113,3,Villa,97,1951,
+Kirsebærvej 4 4773 Stensved,4,1351600.0,05-07-2001,Alm.,10477,3,Villa,129,1989,
+Skyttemarksvej 46 4773 Stensved,46,100000.0,21-06-2001,Alm.,584,4,Villa,171,2004,
+Parkvej 22 4773 Stensved,22,1088153.0,15-06-2001,Alm.,6113,4,Villa,178,1973,
+Stensbyvej 36 4773 Stensved,36,810000.0,05-06-2001,Alm.,6428,3,Villa,126,1780,
+Kirsebærvej 16 4773 Stensved,16,100000.0,01-05-2001,Alm.,769,5,Villa,130,2002,
+Stensbyvej 32 4773 Stensved,32,475000.0,02-04-2001,Fam.,1907,9,Villa,249,1907,
+Skyttemarksvej 16 4773 Stensved,16,789500.0,01-03-2001,Alm.,7591,4,Villa,104,1966,
+Stensbyvej 50 4773 Stensved,50,35000.0,01-02-2001,Alm.,291,3,Villa,120,1877,
+Møllevej 4 4773 Stensved,4,823715.0,22-01-2001,Alm.,5148,6,Villa,160,1959,
+Skånningevej 36 4773 Stensved,36,730324.0,03-01-2001,Alm.,6889,4,Villa,106,1963,
+Stensbyvej 14 4773 Stensved,14,252500.0,27-12-2000,Alm.,0,3,Villa,80,1880,
+Skånningevej 28 4773 Stensved,28,616900.0,22-12-2000,Alm.,7808,3,Villa,79,1962,
+Parkvej 52 4773 Stensved,52,945000.0,21-12-2000,Alm.,5833,5,Villa,162,1972,
+Pilegårdsvej 5 4773 Stensved,5,1800000.0,15-12-2000,Alm.,0,7,Villa,229,1877,
+Skovbrynet 9 4773 Stensved,9,699000.0,22-11-2000,Alm.,0,6,Villa,145,1978,
+Vordingborgvej 24 4773 Stensved,24,875000.0,31-10-2000,Alm.,5756,3,Rækkehus,152,1979,
+Vordingborgvej 85 4773 Stensved,85,579090.0,26-10-2000,Alm.,5463,4,Villa,106,1962,
+Irisvej 12 4773 Stensved,12,695000.0,16-10-2000,Alm.,6318,4,Villa,110,1966,
+Lupinvej 28 4773 Stensved,28,957478.0,25-09-2000,Alm.,7145,4,Villa,134,1968,
+Sommerdalen 4 4773 Stensved,4,449339.0,21-09-2000,Alm.,5164,3,Villa,87,1965,
+Skånningevej 50 4773 Stensved,50,950000.0,21-09-2000,Alm.,4822,7,Villa,197,1969,
+Parkvej 44 4773 Stensved,44,1050000.0,20-09-2000,Alm.,5526,6,Villa,190,1973,
+Skånningevej 33 4773 Stensved,33,626937.0,25-08-2000,Alm.,6146,3,Villa,102,1962,
+Kirsebærvej 26 4773 Stensved,26,100000.0,10-08-2000,Alm.,0,6,Villa,178,2000,
+Sommerdalen 1 4773 Stensved,1,329000.0,07-07-2000,Alm.,4700,3,Villa,70,1965,
+Lupinvej 21 4773 Stensved,21,1152000.0,07-07-2000,Alm.,6939,4,Villa,166,1970,
+Stensbyvej 63 4773 Stensved,63,825000.0,27-06-2000,Alm.,4661,5,Villa,177,1875,
+Skovhusevej 22 4773 Stensved,22,965136.0,09-06-2000,Alm.,5677,6,Villa,170,1921,
+Ternevej 1 4773 Stensved,1,867020.0,17-04-2000,Alm.,0,6,Villa,200,1965,
+Skovhusevej 3 4773 Stensved,3,785000.0,27-03-2000,Alm.,4644,6,Villa,169,1970,
+Skovstræde 9 4773 Stensved,9,555000.0,20-03-2000,Alm.,0,6,Villa,144,1954,
+Drosselvej 8 4773 Stensved,8,676100.0,31-01-2000,Alm.,5681,4,Villa,119,1968,
+Skyttemarksvej 48 4773 Stensved,48,100000.0,13-12-1999,Alm.,552,5,Villa,181,2001,
+Kirsebærvej 20 4773 Stensved,20,100000.0,03-11-1999,Alm.,714,4,Villa,140,1999,
+Kirsebærvej 24 4773 Stensved,24,100000.0,29-10-1999,Alm.,680,4,Villa,147,2000,
+Skyttemarksvej 20 4773 Stensved,20,1068960.0,21-10-1999,Alm.,8351,5,Villa,128,1966,
+Kirsebærvej 22 4773 Stensved,22,100000.0,19-10-1999,Alm.,735,6,Villa,136,2001,
+Pilegårdsvej 3 4773 Stensved,3,2127340.0,04-10-1999,Alm.,17155,3,Stuehus,124,1900,
+Skovhusevej 30 4773 Stensved,30,362000.0,30-08-1999,Alm.,6581,2,Villa,55,1970,
+Vordingborgvej 42 4773 Stensved,42,292244.0,28-05-1999,Andet,2435,4,Villa,120,1964,
+Lupinvej 14 4773 Stensved,14,795000.0,28-03-1999,Alm.,5598,4,Villa,142,1969,
+Skånningevej 27 4773 Stensved,27,249299.0,15-01-1999,Andet,2094,4,Villa,119,1964,
+Vestenbækvej 11 4773 Stensved,11,514204.0,24-11-1998,Alm.,4285,4,Villa,120,1860,
+Parkvej 3 4773 Stensved,3,1076785.0,15-10-1998,Alm.,4543,6,Villa,237,1974,
+Lupinvej 18 4773 Stensved,18,945000.0,02-09-1998,Andet,5526,5,Villa,171,1970,
+Pilevej 14 4773 Stensved,14,459800.0,07-08-1998,Alm.,6298,3,Villa,73,1827,
+Parkvej 24 4773 Stensved,24,691820.0,05-08-1998,Alm.,0,4,Villa,138,1975,
+Skyttemarksvej 26 4773 Stensved,26,591574.0,03-08-1998,Alm.,5915,4,Villa,100,1968,
+Kirsebærvej 6 4773 Stensved,6,25000.0,09-03-1998,Alm.,0,5,Villa,200,1998,
+Bakkevej 4 4773 Stensved,4,590000.0,16-02-1998,Alm.,4338,3,Villa,136,1975,
+Vordingborgvej 46 4773 Stensved,46,1798000.0,30-01-1998,Alm.,7368,9,Villa,244,1928,
+Vordingborgvej 27B 4773 Stensved,0,635000.0,19-01-1998,Alm.,6350,3,Villa,100,1950,
+Vordingborgvej 17 4773 Stensved,17,601000.0,02-12-1997,Alm.,3020,8,Villa,199,1964,
+Lupinvej 37 4773 Stensved,37,484999.0,17-11-1997,Alm.,5574,4,Villa,87,1969,
+Irisvej 20 4773 Stensved,20,682000.0,30-09-1997,Alm.,4371,5,Villa,156,1971,
+Primulavej 3 4773 Stensved,3,316000.0,26-09-1997,Alm.,3950,3,Villa,80,1967,
+Kirsebærvej 8 4773 Stensved,8,25000.0,23-09-1997,Alm.,137,7,Villa,182,1998,
+Parkvej 46 4773 Stensved,46,655100.0,19-09-1997,Alm.,0,6,Villa,179,1979,
+Birkebakken 2 4773 Stensved,2,365500.0,01-09-1997,Alm.,3583,4,Villa,102,1960,
+Kirsebærvej 1 4773 Stensved,1,30000.0,14-08-1997,Alm.,0,6,Villa,164,1998,
+Stensbyvej 34 4773 Stensved,34,447000.0,11-08-1997,Alm.,4561,4,Villa,98,1940,
+Vordingborgvej 75 4773 Stensved,75,540000.0,25-07-1997,Alm.,5094,4,Villa,106,1935,
+Vestenbækvej 7 4773 Stensved,7,2673551.0,04-07-1997,Alm.,14373,6,Stuehus,186,1937,
+Stivænget 4 4773 Stensved,4,750000.0,09-06-1997,Alm.,2906,7,Stuehus,258,1919,
+Skyttemarksvej 4 4773 Stensved,4,385000.0,20-05-1997,Alm.,3850,3,Villa,100,1963,
+Bakkevej 23 4773 Stensved,23,723335.0,21-03-1997,Alm.,4181,6,Villa,173,1974,
+Drejervej 6 4773 Stensved,6,342800.0,06-03-1997,Alm.,3895,4,Sommerhus,88,1777,
+Skånningevej 21 4773 Stensved,21,604000.0,31-12-1996,Alm.,5162,4,Villa,117,1966,
+Pilevej 2 4773 Stensved,2,393626.0,26-11-1996,Alm.,3335,6,Villa,118,1907,
+Sommerdalen 5 4773 Stensved,5,209395.0,21-11-1996,Alm.,0,6,Villa,108,1984,
+Lindevej 6 4773 Stensved,6,540500.0,29-10-1996,Alm.,4430,5,Villa,122,1965,
+Skovstræde 16 4773 Stensved,16,501550.0,09-10-1996,Alm.,4323,4,Villa,116,1926,
+Bakkevej 18 4773 Stensved,18,585000.0,26-09-1996,Alm.,5223,5,Villa,112,1974,
+Mågevej 3 4773 Stensved,3,772252.0,06-09-1996,Alm.,5516,6,Villa,140,1964,
+Skovhusevej 18 4773 Stensved,18,249000.0,29-08-1996,Alm.,1791,4,Villa,139,1944,
+Vordingborgvej 52 4773 Stensved,52,1142000.0,29-08-1996,Alm.,7093,5,Stuehus,161,1948,
+Vordingborgvej 56 4773 Stensved,56,552370.0,19-08-1996,Alm.,3249,4,Stuehus,170,1900,
+Kastanievej 3 4773 Stensved,3,241847.0,13-08-1996,Fam.,2159,4,Villa,112,1979,
+Kirsebærvej 5 4773 Stensved,5,25000.0,01-08-1996,Alm.,156,5,Villa,160,1997,
+Skånningevej 44 4773 Stensved,44,434000.0,17-06-1996,Alm.,4428,4,Villa,98,1969,
+Skånningevej 40 4773 Stensved,40,544000.0,28-03-1996,Alm.,3400,4,Villa,160,1965,
+Parkvej 15 4773 Stensved,15,595000.0,27-02-1996,Alm.,5219,4,Villa,114,1975,
+Kastanievej 9 4773 Stensved,9,570000.0,24-02-1996,Alm.,0,6,Villa,154,1979,
+Stensbyvej 27 4773 Stensved,27,534800.0,13-12-1995,Alm.,4113,5,Villa,130,1890,
+Stensby Linie 3 4773 Stensved,3,500000.0,10-12-1995,Alm.,4347,4,Sommerhus,115,1857,
+Skovhusevej 36 4773 Stensved,36,837880.0,05-12-1995,Alm.,4680,6,Stuehus,179,1943,
+Vordingborgvej 105 4773 Stensved,105,428070.0,26-09-1995,Alm.,3856,3,Villa,111,1927,
+Stensbyvej 10 4773 Stensved,10,321000.0,20-09-1995,Alm.,3821,4,Villa,84,1877,
+Lupinvej 2 4773 Stensved,2,295000.0,05-09-1995,Alm.,3687,3,Villa,80,1960,
+Lupinvej 26 4773 Stensved,26,471000.0,14-08-1995,Alm.,4617,3,Villa,102,1968,
+Skovhusevej 19 4773 Stensved,19,801000.0,24-07-1995,Alm.,3191,8,Villa,251,1890,
+Parkvej 11 4773 Stensved,11,649880.0,16-06-1995,Alm.,3938,4,Villa,165,1976,
+Vordingborgvej 31 4773 Stensved,31,323000.0,29-05-1995,Alm.,0,3,Villa,115,1961,
+Bakkevej 6 4773 Stensved,6,825000.0,08-05-1995,Alm.,3495,9,Villa,236,1973,
+Ternevej 2 4773 Stensved,2,450000.0,19-01-1995,Alm.,4128,4,Villa,109,1965,
+Bakkevej 17 4773 Stensved,17,625662.0,12-12-1994,Alm.,5257,4,Villa,119,1974,
+Syrenvej 1 4773 Stensved,1,440000.0,28-11-1994,Fam.,3055,5,Villa,144,1964,
+Parkvej 27 4773 Stensved,27,542960.0,28-10-1994,Alm.,0,6,Villa,198,1979,
+Vordingborgvej 71 4773 Stensved,71,291000.0,27-09-1994,Alm.,2020,6,Villa,144,1929,
+Kirsebærvej 10 4773 Stensved,10,676000.0,21-09-1994,Alm.,4121,5,Villa,164,1989,
+Bakkevej 37 4773 Stensved,37,614800.0,27-05-1994,Alm.,4520,4,Villa,136,1974,
+Lindevej 9 4773 Stensved,9,655000.0,18-05-1994,Alm.,0,4,Villa,122,1968,
+Lupinvej 4 4773 Stensved,4,595000.0,22-04-1994,Alm.,3650,6,Villa,163,1967,
+Skånningevej 38 4773 Stensved,38,200000.0,15-03-1994,Andet,2222,4,Villa,90,1963,
+Parkvej 17 4773 Stensved,17,639750.0,21-02-1994,Alm.,4704,4,Villa,136,1973,
+Skovhusevej 1 4773 Stensved,1,270000.0,07-02-1994,Alm.,2621,4,Villa,103,1936,
+Skyttemarksvej 34A 4773 Stensved,0,490000.0,22-12-1993,Alm.,2425,7,Villa,202,1972,
+Bakkevej 1 4773 Stensved,1,610000.0,10-10-1993,Alm.,3588,6,Villa,170,1973,
+Lupinvej 27 4773 Stensved,27,697000.0,03-09-1993,Alm.,4874,6,Villa,143,1968,
+Stensby Linie 7 4773 Stensved,7,495000.0,18-08-1993,Alm.,5755,4,Villa,86,1870,
+Parkvej 34 4773 Stensved,34,595000.0,18-08-1993,Alm.,4131,4,Villa,144,1974,
+Parkvej 21 4773 Stensved,21,650000.0,16-08-1993,Alm.,5603,5,Villa,116,1984,
+Bakkevej 58 4773 Stensved,58,451000.0,13-08-1993,Alm.,4100,3,Villa,110,1974,
+Bakkevej 20 4773 Stensved,20,458000.0,09-08-1993,Alm.,3948,4,Villa,116,1976,
+Parkvej 28 4773 Stensved,28,423500.0,26-03-1993,Alm.,4111,4,Villa,103,1975,
+Kastanievej 32 4773 Stensved,32,291855.0,05-03-1993,Auktion,1737,5,Villa,168,1977,
+Vordingborgvej 12 4773 Stensved,12,285000.0,30-10-1992,Alm.,0,5,Villa,132,1933,
+Lupinvej 29 4773 Stensved,29,350000.0,28-09-1992,Alm.,2380,5,Villa,147,1971,
+Parkvej 5 4773 Stensved,5,132553.0,27-07-1992,Fam.,914,6,Villa,145,1974,
+Bakkevej 28 4773 Stensved,28,460000.0,17-06-1992,Alm.,2948,5,Villa,156,1970,
+Vordingborgvej 40 4773 Stensved,40,515000.0,10-06-1992,Fam.,3652,4,Villa,141,1926,
+Skyttemarksvej 28 4773 Stensved,28,620002.0,05-05-1992,Alm.,4428,5,Villa,140,1968,
+Lupinvej 22 4773 Stensved,22,325000.0,09-04-1992,Alm.,3316,4,Villa,98,1968,
+Syrenvej 2 4773 Stensved,2,255000.0,06-04-1992,Alm.,0,5,Villa,159,1964,

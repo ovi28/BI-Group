@@ -1,0 +1,657 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Ulkjærvej 53 6771 Gredstedbro,53,583000.0,26-04-2017,Alm.,9253,2,Rækkehus,63,1978,-3 %
+Vestergade 39 6771 Gredstedbro,39,569500.0,25-04-2017,Fam.,4668,4,Villa,122,1956,
+Møgelhøjvej 11 6771 Gredstedbro,11,560000.0,19-04-2017,Fam.,1985,5,Villa,282,1905,
+Plougsvadvej 25 6771 Gredstedbro,25,438450.0,08-03-2017,Fam.,4097,3,Villa,107,1955,
+Plougstrupvej 5 6771 Gredstedbro,5,729000.0,22-02-2017,Fam.,4673,6,Villa,156,1930,
+Jedstedvej 10 6771 Gredstedbro,10,420000.0,13-02-2017,Alm.,2187,6,Stuehus,192,1879,
+Ulkjærvej 27 6771 Gredstedbro,27,695000.0,08-02-2017,Alm.,9266,3,Villa,75,1966,-4 %
+Plougstrupvej 91 6771 Gredstedbro,91,988000.0,28-01-2017,Alm.,4704,5,Villa,210,1740,-1 %
+Kløvermarken 3 6771 Gredstedbro,3,950000.0,24-01-2017,Alm.,6506,4,Villa,146,1971,-5 %
+Lupinmarken 1 6771 Gredstedbro,1,659510.0,20-01-2017,Fam.,5234,4,Villa,126,1975,
+Gørdingvej 55 6771 Gredstedbro,55,50000.0,21-12-2016,Alm.,649,3,Villa,77,1885,
+Nørrebyvej 8 6771 Gredstedbro,8,1898000.0,09-12-2016,Alm.,9258,6,Villa,205,1775,0 %
+Hjortlundvej 101 6771 Gredstedbro,101,450000.0,30-11-2016,Auktion,3214,6,Villa,140,1933,
+Hans Jensens Vej 8 6771 Gredstedbro,8,775000.0,28-11-2016,Alm.,6054,4,Villa,128,1963,
+Lucernemarken 1 6771 Gredstedbro,1,750000.0,21-11-2016,Alm.,5725,4,Villa,131,1975,
+Vestergade 10 6771 Gredstedbro,10,775000.0,09-11-2016,Alm.,6150,7,Villa,126,1887,-6 %
+Sennepsmarken 2 6771 Gredstedbro,2,1000000.0,04-11-2016,Alm.,9090,4,Villa,110,1968,
+Majsmarken 14 6771 Gredstedbro,14,1400000.0,02-11-2016,Alm.,7106,7,Villa,197,1968,-3 %
+Vinkelvej 10 6771 Gredstedbro,10,550000.0,28-10-2016,Fam.,4230,4,Villa,130,1977,
+Vestergade 29 6771 Gredstedbro,29,225000.0,28-10-2016,Fam.,1347,4,Villa,167,1946,
+Langbjergvej 13 6771 Gredstedbro,13,670000.0,11-10-2016,Alm.,5677,4,Villa,118,1953,-10 %
+Kløvermarken 10 6771 Gredstedbro,10,1465000.0,29-09-2016,Alm.,8093,8,Villa,181,1972,-2 %
+Jedsted Bjerge Vej 57 6771 Gredstedbro,57,2040000.0,24-09-2016,Alm.,10000,6,Villa,204,1929,
+Sennepsmarken 3 6771 Gredstedbro,3,550000.0,21-09-2016,Alm.,3956,6,Villa,139,1969,
+Puggårdsvej 80 6771 Gredstedbro,80,2000000.0,17-09-2016,Alm.,8000,7,Villa,250,1930,-5 %
+Vestparken 4 6771 Gredstedbro,4,650000.0,16-09-2016,Alm.,4113,7,Villa,158,1968,-6 %
+Ulkjærvej 51 6771 Gredstedbro,51,578000.0,16-09-2016,Alm.,9174,2,Rækkehus,63,1978,0 %
+Vilslevvej 35 6771 Gredstedbro,35,400000.0,15-09-2016,Alm.,4651,3,Villa,86,1900,-10 %
+Jernvedvej 221 6771 Gredstedbro,221,998000.0,08-09-2016,Alm.,7796,4,Stuehus,128,1975,0 %
+Rugmarken 6 6771 Gredstedbro,6,700000.0,07-09-2016,Auktion,3977,6,Villa,176,1973,-30 %
+Gulerodsmarken 7 6771 Gredstedbro,7,1258000.0,03-09-2016,Alm.,12580,3,Villa,100,2004,-3 %
+Bjergvej 8 6771 Gredstedbro,8,18379700.0,01-09-2016,Alm.,102679,7,Stuehus,179,1957,
+Kirkebakken 29 6771 Gredstedbro,29,700000.0,01-09-2016,Alm.,3743,7,Villa,187,1922,
+Jedsted Klostervej 39 6771 Gredstedbro,39,965000.0,26-08-2016,Alm.,6390,5,Villa,151,1860,-8 %
+Kongeåvej 23 6771 Gredstedbro,23,2025000.0,23-08-2016,Alm.,8100,6,Villa,250,1898,-8 %
+Rugmarken 3 6771 Gredstedbro,3,1200000.0,23-08-2016,Alm.,7792,5,Villa,154,1972,-9 %
+Jedsted Bjerge Vej 63 6771 Gredstedbro,63,1700000.0,21-08-2016,Fam.,6800,8,Villa,250,1880,
+Kjærmarken 125 6771 Gredstedbro,125,182600.0,19-08-2016,Alm.,1003,6,Villa,182,2017,
+Ulkjærvej 21 6771 Gredstedbro,21,1200000.0,29-07-2016,Alm.,10526,4,Villa,114,1972,-4 %
+Gulerodsmarken 2 6771 Gredstedbro,2,1200000.0,10-07-2016,Alm.,12631,3,Villa,95,2008,-2 %
+Jedsted Klostervej 36 6771 Gredstedbro,36,550000.0,30-06-2016,Alm.,3374,6,Villa,163,1916,-8 %
+Vilslevvej 13 6771 Gredstedbro,13,998000.0,07-06-2016,Alm.,9240,4,Villa,108,1963,0 %
+Mejerivej 4 6771 Gredstedbro,4,98000.0,02-06-2016,Alm.,1361,2,Villa,72,1870,0 %
+Vestparken 14 6771 Gredstedbro,14,695000.0,20-05-2016,Alm.,4398,5,Villa,158,1967,0 %
+Sennepsmarken 8 6771 Gredstedbro,8,800000.0,09-05-2016,Alm.,7272,4,Villa,110,1976,-6 %
+Vestparken 7 6771 Gredstedbro,7,1098000.0,04-05-2016,Alm.,6134,6,Villa,179,1968,0 %
+Rolighedsvej 11 6771 Gredstedbro,11,752800.0,03-05-2016,Alm.,7380,3,Villa,102,1967,
+Rolighedsvej 27 6771 Gredstedbro,27,700000.0,21-04-2016,Alm.,5000,5,Villa,140,1973,
+Tværvej 4 6771 Gredstedbro,4,442551.0,31-03-2016,Andet,2486,7,Villa,178,1927,
+Toldgårdsvej 16 6771 Gredstedbro,16,3912800.0,30-03-2016,Alm.,25243,5,Stuehus,155,2009,0 %
+Mejerivej 6 6771 Gredstedbro,6,900000.0,16-03-2016,Alm.,5660,6,Villa,159,1884,-10 %
+Majsmarken 11 6771 Gredstedbro,11,600000.0,29-02-2016,Alm.,6976,3,Villa,86,1968,0 %
+Gørdingvej 34 6771 Gredstedbro,34,500000.0,25-02-2016,Alm.,3333,4,Villa,150,1971,
+Gulerodsmarken 8 6771 Gredstedbro,8,1250000.0,22-02-2016,Alm.,12500,3,Villa,100,2006,-2 %
+Aavej 5 6771 Gredstedbro,5,1650000.0,20-01-2016,Alm.,5809,8,Villa,284,1923,
+Møgelhøjvej 7 6771 Gredstedbro,7,2150000.0,20-01-2016,Alm.,16666,3,Stuehus,129,1958,
+Plougstrupvej 45 6771 Gredstedbro,45,4780000.0,08-01-2016,Alm.,32739,5,Stuehus,146,1869,
+Kløvermarken 1 6771 Gredstedbro,1,1290000.0,05-01-2016,Alm.,7413,5,Villa,174,1971,-3 %
+Toldgårdsvej 14 6771 Gredstedbro,14,1342500.0,28-12-2015,Alm.,5593,7,Stuehus,240,2004,-62 %
+Gørdingvej 27 6771 Gredstedbro,27,130000.0,12-11-2015,Alm.,1313,4,Villa,99,1963,-13 %
+Bøjhøjvej 4 6771 Gredstedbro,4,2600000.0,12-11-2015,Alm.,20634,4,Stuehus,126,1902,
+Jernvedvej 36 6771 Gredstedbro,36,625000.0,11-11-2015,Alm.,4251,4,Villa,147,1957,
+Lucernemarken 10 6771 Gredstedbro,10,736220.0,28-10-2015,Alm.,6034,4,Villa,122,1977,-18 %
+Sennepsmarken 10 6771 Gredstedbro,10,1145000.0,08-10-2015,Alm.,9462,4,Villa,121,1977,0 %
+Kirkebakken 17 6771 Gredstedbro,17,750000.0,07-10-2015,Alm.,5859,3,Villa,128,1960,
+Holtsagervej 8 6771 Gredstedbro,8,937500.0,07-10-2015,Alm.,3537,5,Villa,265,1930,-6 %
+Jernvedvej 6 6771 Gredstedbro,6,12614450.0,02-10-2015,Alm.,58671,9,Stuehus,215,1886,
+Vestparken 10 6771 Gredstedbro,10,476000.0,02-10-2015,Fam.,2850,5,Villa,167,1972,
+Hjortlundvej 99 6771 Gredstedbro,99,2045000.0,02-10-2015,Alm.,11054,5,Villa,185,1832,-3 %
+Hjortlundvej 69 6771 Gredstedbro,69,1007500.0,02-08-2015,Fam.,5660,8,Stuehus,178,1912,
+Gyden 13 6771 Gredstedbro,13,685000.0,22-07-2015,Alm.,6523,4,Villa,105,1981,-1 %
+Kongeåvej 8 6771 Gredstedbro,8,1380000.0,17-07-2015,Fam.,13018,4,Villa,106,1929,
+Langbjergvej 1 6771 Gredstedbro,1,635000.0,10-07-2015,Alm.,4379,5,Villa,145,1913,-6 %
+Gredstedvej 6 6771 Gredstedbro,6,2640000.0,08-07-2015,Fam.,10645,8,Stuehus,248,1997,
+Jernvedvej 234 6771 Gredstedbro,234,1435000.0,23-06-2015,Alm.,7247,6,Villa,198,1918,-3 %
+Aavej 10 6771 Gredstedbro,10,635000.0,08-06-2015,Alm.,5570,4,Villa,114,1965,-12 %
+Gulerodsmarken 4 6771 Gredstedbro,4,265000.0,10-05-2015,Alm.,1698,4,Villa,156,2016,-4 %
+Jedstedvej 49 6771 Gredstedbro,49,1300150.0,03-05-2015,Alm.,5394,12,Villa,241,1877,
+Vesterbyvej 27 6771 Gredstedbro,27,1066000.0,30-04-2015,Andet,4037,8,Villa,264,1989,
+Grøftevej 3 6771 Gredstedbro,3,647000.0,28-04-2015,Alm.,3423,5,Stuehus,189,1925,
+Bygmarken 2 6771 Gredstedbro,2,1025000.0,23-04-2015,Alm.,7218,5,Villa,142,1974,-2 %
+Vestergade 38 6771 Gredstedbro,38,825000.0,14-04-2015,Alm.,7300,4,Villa,113,1957,-11 %
+Gørdingvej 43 6771 Gredstedbro,43,350000.0,13-04-2015,Alm.,2287,3,Villa,153,1897,-11 %
+Rugmarken 7 6771 Gredstedbro,7,885000.0,09-04-2015,Alm.,5979,5,Villa,148,1972,5 %
+Kjærmarken 201 6771 Gredstedbro,201,1100000.0,24-03-2015,Alm.,4977,6,Villa,221,1880,
+Vinkelvej 5 6771 Gredstedbro,5,500000.0,24-03-2015,Fam.,4065,4,Villa,123,1973,
+Jernvedvej 29 6771 Gredstedbro,29,798000.0,02-03-2015,Alm.,6333,4,Villa,126,1914,14 %
+Kjærmarken 8 6771 Gredstedbro,8,1575000.0,20-02-2015,Alm.,10227,7,Villa,154,2003,0 %
+Våesvej 3 6771 Gredstedbro,3,1145000.0,20-02-2015,Alm.,6815,6,Villa,168,1956,-8 %
+Gørdingvej 36 6771 Gredstedbro,36,161110.0,18-02-2015,Auktion,1342,4,Villa,120,1951,
+Sennepsmarken 7 6771 Gredstedbro,7,820000.0,06-02-2015,Alm.,7321,3,Villa,112,1976,-3 %
+Lucernemarken 5 6771 Gredstedbro,5,1415000.0,28-01-2015,Alm.,8274,4,Villa,171,1973,-2 %
+Ulkjærvej 25 6771 Gredstedbro,25,900000.0,26-01-2015,Fam.,9473,4,Villa,95,1961,
+Sennepsmarken 39 6771 Gredstedbro,39,600000.0,14-01-2015,Fam.,4838,3,Villa,124,1988,-25 %
+Langbjergvej 15 6771 Gredstedbro,15,11900000.0,12-01-2015,Alm.,50854,7,Stuehus,234,1897,
+Lucernemarken 7 6771 Gredstedbro,7,750000.0,09-01-2015,Alm.,6578,2,Villa,114,1974,-10 %
+Aavej 17 6771 Gredstedbro,17,895000.0,15-12-2014,Alm.,7521,3,Villa,119,1945,
+Bjergvej 20 6771 Gredstedbro,20,42001.0,03-12-2014,Auktion,420,4,Villa,100,1954,
+Gørdingvej 26 6771 Gredstedbro,26,206594.0,29-10-2014,Alm.,2718,3,Villa,76,1956,
+Kjærmarken 121 6771 Gredstedbro,121,149280.0,24-10-2014,Alm.,739,6,Villa,202,2016,
+Valmuemarken 7 6771 Gredstedbro,7,680000.0,30-09-2014,Alm.,5074,4,Villa,134,1971,-9 %
+Vestergade 31 6771 Gredstedbro,31,895000.0,25-09-2014,Alm.,6130,5,Villa,146,1907,0 %
+Holtsagervej 5 6771 Gredstedbro,5,548018.0,24-09-2014,Alm.,4281,5,Villa,128,1953,
+Vilslevvej 70 6771 Gredstedbro,70,800000.0,08-09-2014,Fam.,6611,4,Villa,121,1949,
+"Andelsgade 2, 1 6771 Gredstedbro",1,2400000.0,03-09-2014,Alm.,16326,5,Lejlighed,147,1903,
+Puggårdsvej 26 6771 Gredstedbro,26,4475000.0,01-09-2014,Alm.,13478,8,Stuehus,332,2008,79 %
+Sønderbyvej 11 6771 Gredstedbro,11,485000.0,29-08-2014,Alm.,6062,4,Villa,80,1964,-2 %
+Jedsted Klostervej 2 6771 Gredstedbro,2,1273059.0,26-08-2014,Alm.,7715,6,Villa,165,1915,34 %
+Jedsted Klostervej 6 6771 Gredstedbro,6,886000.0,21-07-2014,Alm.,5986,6,Villa,148,2006,
+Vestergade 1 6771 Gredstedbro,1,2100000.0,17-07-2014,Alm.,8898,7,Villa,236,1936,
+Ulkjærvej 54 6771 Gredstedbro,54,325000.0,29-06-2014,Alm.,2500,5,Villa,130,1902,
+Puggårdsvej 73 6771 Gredstedbro,73,200000.0,24-06-2014,Alm.,1801,3,Villa,111,1910,-27 %
+Jedsted Klostervej 73 6771 Gredstedbro,73,1225000.0,11-06-2014,Alm.,6250,6,Villa,196,1877,-2 %
+Darumvej 30 6771 Gredstedbro,30,558000.0,14-05-2014,Alm.,5214,4,Villa,107,2006,
+Jernvedvej 38 6771 Gredstedbro,38,12685700.0,01-05-2014,Alm.,39032,14,Stuehus,325,1900,
+Mejerivej 1 6771 Gredstedbro,1,1335000.0,11-04-2014,Alm.,7335,3,Villa,182,1911,-6 %
+Kjærmarken 20 6771 Gredstedbro,20,138719.0,11-04-2014,Alm.,651,7,Villa,213,2016,
+Vilslevvej 53 6771 Gredstedbro,53,276500.0,26-02-2014,Alm.,3544,3,Villa,78,1860,-15 %
+Valmuemarken 22 6771 Gredstedbro,22,725000.0,23-12-2013,Alm.,8630,3,Villa,84,1978,-7 %
+Vestergade 13B 6771 Gredstedbro,0,1998000.0,18-12-2013,Alm.,8575,6,Villa,233,1972,0 %
+Rolighedsvej 9 6771 Gredstedbro,9,302000.0,10-12-2013,Alm.,3822,3,Villa,79,1962,-24 %
+"Vestergade 17, 1 6771 Gredstedbro",1,750000.0,04-12-2013,Auktion,3926,7,Lejlighed,191,1976,
+Aavej 35 6771 Gredstedbro,35,985000.0,26-11-2013,Alm.,7137,6,Villa,138,1965,-8 %
+Vestergade 9 6771 Gredstedbro,9,161000.0,07-11-2013,Auktion,2439,3,Villa,66,1939,
+Vilslevvej 54 6771 Gredstedbro,54,762500.0,25-10-2013,Alm.,7402,3,Villa,103,1940,-10 %
+Jedsted Møllevej 17 6771 Gredstedbro,17,1900000.0,23-10-2013,Alm.,11656,7,Villa,163,1931,-5 %
+Plougstrupvej 12 6771 Gredstedbro,12,400000.0,04-09-2013,Alm.,2877,4,Villa,139,1935,-6 %
+Vilslevvej 31 6771 Gredstedbro,31,200000.0,22-08-2013,Alm.,1960,3,Villa,102,1892,-32 %
+Rolighedsvej 4 6771 Gredstedbro,4,800000.0,07-08-2013,Alm.,9411,3,Rækkehus,85,1986,
+Jedsted Klostervej 47 6771 Gredstedbro,47,100000.0,20-07-2013,Alm.,689,5,Villa,145,1892,
+Rolighedsvej 22 6771 Gredstedbro,22,1250000.0,15-07-2013,Alm.,7102,5,Villa,176,1973,
+Jernvedvej 239 6771 Gredstedbro,239,1500000.0,05-07-2013,Alm.,7692,5,Villa,195,2010,
+Puggårdsvej 79 6771 Gredstedbro,79,2300000.0,13-06-2013,Alm.,10222,5,Villa,225,1892,-4 %
+Gørdingvej 22 6771 Gredstedbro,22,443000.0,13-06-2013,Alm.,2531,6,Villa,175,1923,-55 %
+Vilslevvej 34 6771 Gredstedbro,34,345000.0,05-06-2013,Alm.,2613,5,Villa,132,1978,
+Kirkegade 1 6771 Gredstedbro,1,1250000.0,02-06-2013,Alm.,12500,4,Villa,100,1936,-3 %
+Ulkjærvej 3 6771 Gredstedbro,3,1450000.0,27-05-2013,Andet,7286,5,Villa,199,1920,
+Lucernemarken 4 6771 Gredstedbro,4,1095000.0,23-05-2013,Alm.,8975,3,Villa,122,1975,-8 %
+Vilslev Spang 4 6771 Gredstedbro,4,948000.0,21-05-2013,Alm.,5096,7,Villa,186,1877,-5 %
+Sennepsmarken 5 6771 Gredstedbro,5,1075000.0,14-05-2013,Alm.,7904,6,Villa,136,1976,-2 %
+Hjortlundvej 123 6771 Gredstedbro,123,1650000.0,11-05-2013,Alm.,5030,7,Villa,328,1912,-3 %
+Gyden 6 6771 Gredstedbro,6,1500000.0,02-04-2013,Alm.,6493,6,Villa,231,1978,
+Kjærmarken 32 6771 Gredstedbro,32,98351.0,02-04-2013,Alm.,588,6,Villa,167,2013,
+Jedsted Bjerge Vej 61 6771 Gredstedbro,61,250000.0,23-03-2013,Alm.,2032,4,Villa,123,1925,0 %
+Langbjergvej 4 6771 Gredstedbro,4,1660000.0,21-03-2013,Alm.,9120,6,Villa,182,1919,-10 %
+Majsmarken 15 6771 Gredstedbro,15,430800.0,09-02-2013,Fam.,3846,4,Villa,112,1969,
+Kjærmarken 40 6771 Gredstedbro,40,145086.0,25-01-2013,Alm.,838,6,Villa,173,2013,
+Plougstrupvej 27 6771 Gredstedbro,27,214500.0,04-01-2013,Alm.,0,6,Villa,177,1951,
+Valmuemarken 20 6771 Gredstedbro,20,800000.0,07-12-2012,Alm.,9523,3,Villa,84,1978,
+Nørrebyvej 10 6771 Gredstedbro,10,1998000.0,05-12-2012,Alm.,10978,8,Stuehus,182,1955,0 %
+Valmuemarken 18 6771 Gredstedbro,18,320000.0,26-11-2012,Alm.,1939,5,Villa,165,1974,-35 %
+Jedstedvej 31 6771 Gredstedbro,31,2000000.0,12-11-2012,Alm.,9433,6,Stuehus,212,1847,
+Forbrovej 11 6771 Gredstedbro,11,1425000.0,25-10-2012,Fam.,3290,12,Villa,433,1900,
+Aavej 3 6771 Gredstedbro,3,1375000.0,16-10-2012,Alm.,7681,4,Villa,179,1924,-18 %
+Aavej 21 6771 Gredstedbro,21,650000.0,15-10-2012,Alm.,6989,3,Villa,93,1958,
+Hjortlundvej 94 6771 Gredstedbro,94,1750000.0,09-10-2012,Alm.,8838,9,Villa,198,1926,17 %
+Jedstedvej 26 6771 Gredstedbro,26,687500.0,27-09-2012,Fam.,4493,5,Villa,153,1850,
+Plougstrupvej 37 6771 Gredstedbro,37,1150000.0,21-09-2012,Alm.,5450,5,Stuehus,211,1869,15 %
+Hjortlundvej 61 6771 Gredstedbro,61,730000.0,20-09-2012,Alm.,5367,4,Villa,136,1933,-2 %
+Vinkelvej 12 6771 Gredstedbro,12,900000.0,18-09-2012,Alm.,6818,4,Villa,132,1974,-17 %
+Præstegårdsvej 2 6771 Gredstedbro,2,1725000.0,07-09-2012,Alm.,6927,6,Villa,249,1894,-4 %
+Vestergade 26 6771 Gredstedbro,26,250000.0,07-09-2012,Alm.,2252,6,Villa,111,1938,-48 %
+Vilslev Spang 11 6771 Gredstedbro,11,950000.0,03-09-2012,Alm.,3310,6,Villa,287,1827,-27 %
+Mejerivej 10 6771 Gredstedbro,10,850000.0,29-08-2012,Alm.,4594,5,Stuehus,185,1929,-5 %
+Kjærmarken 4 6771 Gredstedbro,4,87117.0,27-08-2012,Alm.,604,5,Villa,144,2013,
+Plougstrupvej 2A 6771 Gredstedbro,0,390000.0,01-07-2012,Alm.,2805,6,Villa,139,1975,
+Vestergade 46 6771 Gredstedbro,46,400000.0,29-06-2012,Alm.,2985,5,Villa,134,1943,-20 %
+Kjærmarken 30 6771 Gredstedbro,30,150000.0,05-06-2012,Alm.,986,6,Villa,152,2013,
+Rolighedsvej 21 6771 Gredstedbro,21,850000.0,25-05-2012,Alm.,6538,4,Villa,130,1973,-8 %
+Jedstedvej 66 6771 Gredstedbro,66,220000.0,10-05-2012,Auktion,1964,4,Villa,112,1950,
+Jedsted Klostervej 67 6771 Gredstedbro,67,460000.0,30-04-2012,Alm.,0,5,Villa,175,1964,-7 %
+Bykrogen 2 6771 Gredstedbro,2,680000.0,29-04-2012,Alm.,5271,4,Villa,129,1986,-14 %
+Vesterbyvej 25 6771 Gredstedbro,25,945000.0,11-04-2012,Alm.,8513,6,Villa,111,1877,-5 %
+Plougstrupvej 56 6771 Gredstedbro,56,8700000.0,04-04-2012,Alm.,35510,10,Stuehus,245,1920,
+Sønderbyvej 17 6771 Gredstedbro,17,496901.0,29-03-2012,Fam.,4436,3,Villa,112,1973,
+Rørskiftevej 3 6771 Gredstedbro,3,998000.0,09-03-2012,Alm.,0,5,Villa,190,1920,0 %
+Hjortlundvej 119 6771 Gredstedbro,119,1195000.0,08-03-2012,Alm.,8659,5,Villa,138,1897,0 %
+Sønderbyvej 19 6771 Gredstedbro,19,480000.0,05-03-2012,Alm.,4948,4,Villa,97,1917,-4 %
+Jedstedvej 36 6771 Gredstedbro,36,490000.0,01-03-2012,Alm.,7101,4,Villa,69,1900,-2 %
+Hjortlundvej 104 6771 Gredstedbro,104,14200000.0,15-02-2012,Alm.,47019,10,Stuehus,302,1955,
+Ulkjærvej 43 6771 Gredstedbro,43,550000.0,16-01-2012,Alm.,6547,3,Rækkehus,84,1978,-8 %
+Vestergade 49 6771 Gredstedbro,49,550000.0,22-12-2011,Alm.,6875,3,Villa,80,1960,-12 %
+Kongeådal 13 6771 Gredstedbro,13,680000.0,20-12-2011,Alm.,6071,3,Villa,112,1971,
+Aavej 2 6771 Gredstedbro,2,1400000.0,21-11-2011,Alm.,8187,6,Villa,171,1924,-6 %
+Vesterbyvej 3 6771 Gredstedbro,3,870000.0,15-11-2011,Auktion,4780,5,Villa,182,1700,
+Vestergade 4 6771 Gredstedbro,4,397000.0,10-11-2011,Alm.,3053,5,Villa,130,1981,
+Vilslevvej 12 6771 Gredstedbro,12,850000.0,01-11-2011,Fam.,8947,4,Villa,95,1964,
+Kongeådal 15 6771 Gredstedbro,15,1195000.0,12-10-2011,Alm.,8917,5,Villa,134,1951,
+Vilslevvej 28 6771 Gredstedbro,28,850000.0,06-10-2011,Alm.,9883,3,Villa,86,1952,
+Plougstrupvej 107 6771 Gredstedbro,107,1836000.0,29-09-2011,Auktion,10431,5,Stuehus,176,1868,
+Kløvermarken 8 6771 Gredstedbro,8,900000.0,20-09-2011,Alm.,7438,4,Villa,121,1972,-3 %
+Vilslevvej 68 6771 Gredstedbro,68,2098000.0,28-08-2011,Fam.,5245,11,Villa,400,1780,
+Ulkjærvej 35 6771 Gredstedbro,35,975000.0,02-08-2011,Alm.,5909,5,Villa,165,1969,-15 %
+Vesterbyvej 2 6771 Gredstedbro,2,550000.0,28-06-2011,Auktion,3666,5,Villa,150,1924,
+Jedsted Møllevej 1 6771 Gredstedbro,1,545000.0,09-06-2011,Alm.,0,6,Villa,132,1953,-5 %
+Vilslevvej 16 6771 Gredstedbro,16,8334103.0,06-05-2011,Fam.,51129,7,Stuehus,163,1906,
+Plougstrupvej 50 6771 Gredstedbro,50,550000.0,02-05-2011,Alm.,4104,3,Villa,134,1912,
+Hjortlundvej 26 6771 Gredstedbro,26,1050000.0,29-04-2011,Alm.,6176,5,Villa,170,1974,
+Sønderbyvej 6 6771 Gredstedbro,6,550000.0,20-04-2011,Alm.,3956,6,Villa,139,1870,-12 %
+Gørdingvej 3 6771 Gredstedbro,3,175000.0,14-04-2011,Alm.,1767,3,Villa,99,1906,
+Majsmarken 3 6771 Gredstedbro,3,604245.0,12-04-2011,Andet,4285,5,Villa,141,1969,
+Ulkjærvej 37 6771 Gredstedbro,37,1800000.0,01-04-2011,Alm.,12000,5,Villa,150,1969,
+Hvedemarken 1 6771 Gredstedbro,1,900000.0,01-04-2011,Alm.,7758,5,Villa,116,1973,
+Kongeåvej 36B 6771 Gredstedbro,0,1019000.0,30-03-2011,Fam.,10190,2,Villa,100,1994,
+Puggårdsvej 89 6771 Gredstedbro,89,580000.0,08-03-2011,Fam.,3152,7,Villa,184,1878,
+Kongeåvej 6 6771 Gredstedbro,6,740000.0,02-03-2011,Alm.,7047,4,Villa,105,1966,
+Gredstedvej 10 6771 Gredstedbro,10,650000.0,02-03-2011,Alm.,5200,5,Villa,125,1907,0 %
+Plougstrupvej 11 6771 Gredstedbro,11,540000.0,24-01-2011,Alm.,4000,4,Villa,135,1927,-9 %
+Drævtvej 4 6771 Gredstedbro,4,1825000.0,06-12-2010,Alm.,0,9,Villa,226,1918,-8 %
+Kjærmarken 10 6771 Gredstedbro,10,131240.0,29-11-2010,Alm.,776,6,Villa,169,2012,
+Sønderbyvej 7 6771 Gredstedbro,7,940000.0,08-11-2010,Alm.,7230,4,Villa,130,1987,
+Puggårdsvej 85 6771 Gredstedbro,85,920000.0,01-11-2010,Alm.,4554,5,Villa,202,1906,
+Vestergade 50 6771 Gredstedbro,50,1050000.0,28-09-2010,Alm.,6287,5,Villa,167,1911,-12 %
+Jernvedvej 25 6771 Gredstedbro,25,643100.0,31-08-2010,Alm.,7477,3,Villa,86,1870,-49 %
+Vestparken 5 6771 Gredstedbro,5,575000.0,26-08-2010,Alm.,4291,4,Villa,134,1971,-4 %
+Gørdingvej 16 6771 Gredstedbro,16,625000.0,13-08-2010,Alm.,6377,4,Villa,98,1943,0 %
+Brokærvej 3 6771 Gredstedbro,3,775000.0,13-08-2010,Alm.,12916,2,Villa,60,1956,-3 %
+Rolighedsvej 3 6771 Gredstedbro,3,585000.0,09-08-2010,Alm.,7312,3,Villa,80,1961,-10 %
+Skråvej 3 6771 Gredstedbro,3,1365000.0,23-07-2010,Alm.,7222,6,Villa,189,1965,-2 %
+Puggårdsvej 28 6771 Gredstedbro,28,1900000.0,02-07-2010,Alm.,9359,7,Villa,203,1915,
+Sønderbyvej 1 6771 Gredstedbro,1,759000.0,22-06-2010,Auktion,3123,6,Villa,243,1930,-5 %
+Vestparken 12 6771 Gredstedbro,12,700000.0,31-05-2010,Alm.,5000,5,Villa,140,1972,-10 %
+Rolighedsvej 25 6771 Gredstedbro,25,795000.0,03-05-2010,Alm.,6360,4,Villa,125,1973,0 %
+Vesterbyvej 8 6771 Gredstedbro,8,650000.0,22-04-2010,Alm.,11607,6,Villa,56,1955,
+Vestergade 14 6771 Gredstedbro,14,575000.0,22-04-2010,Alm.,8984,5,Villa,64,1907,
+Vilslevvej 51 6771 Gredstedbro,51,447740.0,25-03-2010,Alm.,3794,5,Villa,118,1937,
+Jedsted Klostervej 4 6771 Gredstedbro,4,250000.0,05-03-2010,Alm.,1633,5,Villa,153,2009,
+Forbrovej 5 6771 Gredstedbro,5,950000.0,01-03-2010,Alm.,6934,4,Villa,137,1979,-8 %
+Kongeådal 11 6771 Gredstedbro,11,810000.0,24-02-2010,Alm.,6090,5,Villa,133,1973,
+Jedstedvej 39 6771 Gredstedbro,39,560000.0,15-12-2009,Alm.,6588,4,Villa,85,1885,-25 %
+Lupinmarken 6 6771 Gredstedbro,6,539117.0,01-12-2009,Alm.,3327,3,Villa,162,1973,
+Hvedemarken 6 6771 Gredstedbro,6,1100000.0,17-11-2009,Alm.,7236,5,Villa,152,1973,-6 %
+Vilslevvej 52 6771 Gredstedbro,52,684273.0,13-11-2009,Alm.,3932,7,Villa,174,1927,
+Forbrovej 1 6771 Gredstedbro,1,1300000.0,09-10-2009,Alm.,7471,4,Villa,174,1973,-10 %
+Plougstrupvej 9 6771 Gredstedbro,9,660000.0,21-09-2009,Alm.,0,5,Villa,161,1951,-5 %
+Darumvej 3 6771 Gredstedbro,3,550000.0,10-09-2009,Alm.,3985,4,Villa,138,1943,
+Kongeåvej 9 6771 Gredstedbro,9,775000.0,24-08-2009,Alm.,7828,4,Villa,99,1944,-3 %
+Jedstedvej 41 6771 Gredstedbro,41,549500.0,08-07-2009,Alm.,2189,7,Stuehus,251,1912,
+Vesterbyvej 31 6771 Gredstedbro,31,11000000.0,02-07-2009,Fam.,39145,6,Stuehus,281,2010,
+Jedsted Klostervej 16 6771 Gredstedbro,16,250000.0,25-06-2009,Alm.,1923,5,Villa,130,1904,
+Jernvedvej 227 6771 Gredstedbro,227,1885000.0,15-06-2009,Alm.,11424,8,Villa,165,1916,-16 %
+Gørdingvej 37 6771 Gredstedbro,37,1050000.0,24-04-2009,Alm.,9130,5,Villa,115,1979,-4 %
+Sennepsmarken 28 6771 Gredstedbro,28,1300000.0,11-03-2009,Alm.,8552,6,Villa,152,1977,-10 %
+Sennepsmarken 25 6771 Gredstedbro,25,900000.0,25-02-2009,Alm.,6428,5,Villa,140,1974,-6 %
+Gørdingvej 5A 6771 Gredstedbro,0,6400000.0,20-02-2009,Andet,69565,3,Villa,92,1929,
+Kjærmarken 50 6771 Gredstedbro,50,1910000.0,30-01-2009,Alm.,11790,5,Villa,162,2005,-4 %
+Kirkegade 8 6771 Gredstedbro,8,875000.0,26-01-2009,Alm.,0,8,Villa,257,1925,-10 %
+Aavej 33 6771 Gredstedbro,33,1395000.0,15-01-2009,Alm.,7540,7,Villa,185,1957,-7 %
+Nørrebyvej 22 6771 Gredstedbro,22,1260000.0,29-11-2008,Alm.,0,5,Villa,171,1850,-5 %
+Hjortlundvej 70 6771 Gredstedbro,70,2450000.0,25-11-2008,Alm.,15312,7,Stuehus,160,2003,
+Vesterbyvej 29 6771 Gredstedbro,29,310250.0,18-11-2008,Fam.,4432,3,Villa,70,1912,
+Gørdingvej 14 6771 Gredstedbro,14,275000.0,12-11-2008,Alm.,3089,5,Villa,89,1932,-27 %
+Vilslevvej 58 6771 Gredstedbro,58,1275000.0,07-11-2008,Alm.,8388,5,Villa,152,1915,
+Gørdingvej 20 6771 Gredstedbro,20,775000.0,31-10-2008,Alm.,5166,6,Villa,150,1961,-6 %
+Ulkjærvej 66 6771 Gredstedbro,66,500000.0,20-10-2008,Fam.,5154,4,Villa,97,1924,
+Jernvedvej 199 6771 Gredstedbro,199,7014312.0,25-09-2008,Alm.,27082,5,Stuehus,259,1908,
+Kjærmarken 111 6771 Gredstedbro,111,188577.0,25-09-2008,Alm.,1071,5,Villa,176,2014,
+Kjærmarken 52 6771 Gredstedbro,52,151320.0,18-09-2008,Alm.,669,7,Villa,226,2013,
+Sennepsmarken 20 6771 Gredstedbro,20,1180000.0,30-08-2008,Alm.,9833,5,Villa,120,1977,-9 %
+Ulkjærvej 49 6771 Gredstedbro,49,775000.0,29-08-2008,Alm.,9226,3,Rækkehus,84,1978,-6 %
+Vestergade 11 6771 Gredstedbro,11,695000.0,24-07-2008,Alm.,0,6,Villa,93,1952,0 %
+Puggårdsvej 64 6771 Gredstedbro,64,7711600.0,27-06-2008,Alm.,41684,4,Stuehus,185,1934,
+Sportsvej 1 6771 Gredstedbro,1,406622.0,19-06-2008,Alm.,2085,6,Villa,195,1952,
+Jedstedvej 44 6771 Gredstedbro,44,3900000.0,02-06-2008,Alm.,13780,6,Villa,283,2000,-12 %
+Lupinmarken 5 6771 Gredstedbro,5,1575000.0,30-05-2008,Alm.,7062,5,Villa,223,1976,-3 %
+Vesterbyvej 16 6771 Gredstedbro,16,3500000.0,22-05-2008,Alm.,24137,4,Villa,145,1910,
+Valmuemarken 21 6771 Gredstedbro,21,2005000.0,21-05-2008,Alm.,0,8,Villa,300,1932,8 %
+Valmuemarken 16 6771 Gredstedbro,16,940000.0,10-05-2008,Alm.,6438,5,Villa,146,1970,
+Hjortlundvej 66 6771 Gredstedbro,66,620500.0,21-04-2008,Fam.,4279,4,Villa,145,1913,
+Aavej 6 6771 Gredstedbro,6,985000.0,16-04-2008,Alm.,12628,4,Villa,78,1953,-1 %
+Havremarken 10 6771 Gredstedbro,10,1455000.0,11-04-2008,Alm.,9267,4,Villa,157,1973,
+Sandvej 4 6771 Gredstedbro,4,850000.0,04-04-2008,Alm.,7870,5,Villa,108,1970,-5 %
+Kirkegade 10 6771 Gredstedbro,10,1876355.0,01-04-2008,Alm.,6677,11,Villa,281,1925,6 %
+Vestergade 20 6771 Gredstedbro,20,750000.0,01-04-2008,Alm.,4777,7,Villa,157,1907,-6 %
+Ribe Landevej 71 6771 Gredstedbro,71,2700000.0,04-03-2008,Alm.,9246,7,Villa,292,1915,-10 %
+Bygmarken 4 6771 Gredstedbro,4,1185000.0,16-02-2008,Alm.,8061,3,Villa,147,1971,-3 %
+Jernvedvej 241 6771 Gredstedbro,241,10000000.0,17-01-2008,Alm.,47619,9,Stuehus,210,1903,
+Kirkegade 6 6771 Gredstedbro,6,703049.0,10-01-2008,Andet,4478,6,Villa,157,1929,
+Gulerodsmarken 5 6771 Gredstedbro,5,1225000.0,07-01-2008,Alm.,12250,3,Villa,100,2004,-2 %
+Vestergade 43 6771 Gredstedbro,43,545000.0,19-12-2007,Alm.,6055,3,Villa,90,1952,-9 %
+Ulkjærvej 9 6771 Gredstedbro,9,920000.0,08-12-2007,Alm.,6666,5,Villa,138,1922,-3 %
+Ulkjærvej 47 6771 Gredstedbro,47,650000.0,02-11-2007,Alm.,10317,2,Rækkehus,63,1978,-5 %
+Vilslev Spang 13 6771 Gredstedbro,13,1327500.0,29-10-2007,Fam.,0,7,Villa,217,1877,
+Kjærmarken 93 6771 Gredstedbro,93,116400.0,15-08-2007,Alm.,741,6,Villa,157,2009,
+Ulkjærvej 67 6771 Gredstedbro,67,10690000.0,19-07-2007,Fam.,50904,5,Stuehus,210,1964,
+Jernvedvej 209 6771 Gredstedbro,209,2167500.0,27-06-2007,Fam.,13546,8,Stuehus,160,1832,
+Kjærmarken 18 6771 Gredstedbro,18,126700.0,15-06-2007,Alm.,715,5,Villa,177,2008,
+Havremarken 12 6771 Gredstedbro,12,326000.0,11-06-2007,Alm.,0,7,Villa,189,1973,
+Hjortlundvej 88 6771 Gredstedbro,88,700000.0,30-05-2007,Alm.,9722,3,Villa,72,1952,
+Kjærmarken 2 6771 Gredstedbro,2,103000.0,26-05-2007,Alm.,804,4,Villa,128,2016,
+Vilslevvej 39B 6771 Gredstedbro,0,395000.0,25-05-2007,Alm.,4340,3,Villa,91,1808,0 %
+Kjærmarken 103 6771 Gredstedbro,103,157500.0,22-05-2007,Alm.,910,5,Villa,173,2008,
+Vilslevvej 41 6771 Gredstedbro,41,225000.0,14-05-2007,Alm.,1875,4,Villa,120,1971,
+"Vestergade 2, 1 6771 Gredstedbro",1,975000.0,22-04-2007,Alm.,23780,3,Lejlighed,41,1909,
+Brandvej 1 6771 Gredstedbro,1,735000.0,20-04-2007,Alm.,0,4,Villa,184,1930,-5 %
+Vestergade 47 6771 Gredstedbro,47,900000.0,17-04-2007,Alm.,4972,5,Villa,181,1953,-9 %
+Hans Jensens Vej 10 6771 Gredstedbro,10,885000.0,30-03-2007,Alm.,9030,3,Villa,98,1964,
+Ulkjærvej 2 6771 Gredstedbro,2,475000.0,27-03-2007,Alm.,6690,3,Lejlighed,71,1976,
+Havremarken 5 6771 Gredstedbro,5,1300000.0,27-03-2007,Fam.,8965,4,Villa,145,1974,
+Jedstedvej 18 6771 Gredstedbro,18,750000.0,27-03-2007,Fam.,6097,6,Villa,123,1957,
+Kjærmarken 89 6771 Gredstedbro,89,1345000.0,24-03-2007,Alm.,8907,5,Villa,151,1986,-4 %
+Darumvej 5 6771 Gredstedbro,5,561000.0,20-03-2007,Alm.,4348,4,Villa,129,1943,
+Hans Jensens Vej 43 6771 Gredstedbro,43,880000.0,19-03-2007,Alm.,10476,4,Villa,84,1959,-1 %
+Havfoldvej 1 6771 Gredstedbro,1,1595000.0,28-02-2007,Alm.,15637,2,Stuehus,102,1915,
+Jedsted Engevej 7 6771 Gredstedbro,7,10995000.0,24-02-2007,Alm.,99954,6,Stuehus,110,1927,
+Kirkebakken 42 6771 Gredstedbro,42,595000.0,19-02-2007,Alm.,6134,4,Villa,97,1925,0 %
+Fårevej 10 6771 Gredstedbro,10,27400900.0,09-02-2007,Alm.,133014,5,Stuehus,206,1937,
+Kongeåvej 32 6771 Gredstedbro,32,515000.0,05-02-2007,Alm.,4291,6,Villa,120,1933,-21 %
+Plougstrupvej 73 6771 Gredstedbro,73,161000.0,02-02-2007,Alm.,1916,3,Stuehus,84,1865,
+Jedsted Klostervej 22 6771 Gredstedbro,22,663000.0,22-01-2007,Alm.,4735,4,Villa,140,1979,
+Gørdingvej 70 6771 Gredstedbro,70,812000.0,02-01-2007,Alm.,4511,5,Stuehus,180,1958,
+Plougstrupvej 36 6771 Gredstedbro,36,635000.0,25-12-2006,Alm.,7055,2,Villa,90,1884,
+Plougstrupvej 30A 6771 Gredstedbro,0,675000.0,04-12-2006,Alm.,3096,5,Villa,218,1870,
+Vilslevvej 24 6771 Gredstedbro,24,785000.0,06-10-2006,Alm.,5097,6,Villa,154,1955,
+Kongeåvej 4 6771 Gredstedbro,4,1000000.0,18-09-2006,Alm.,4878,8,Villa,205,1910,
+Holtsagervej 18 6771 Gredstedbro,18,371434.0,15-09-2006,Andet,2947,4,Villa,126,1860,
+Kongeåvej 28 6771 Gredstedbro,28,1000000.0,11-09-2006,Alm.,6060,6,Villa,165,1957,
+Puggårdsvej 57 6771 Gredstedbro,57,1500000.0,30-08-2006,Alm.,9615,4,Villa,156,1897,
+Kjærmarken 81 6771 Gredstedbro,81,1300000.0,28-08-2006,Alm.,8724,5,Villa,149,1984,
+Ulkjærvej 24 6771 Gredstedbro,24,49000.0,11-08-2006,Alm.,283,7,Villa,173,2008,
+Kjærmarken 113 6771 Gredstedbro,113,143340.0,10-08-2006,Alm.,955,5,Villa,150,2007,
+Plougstrupvej 44 6771 Gredstedbro,44,648000.0,06-07-2006,Alm.,5890,3,Villa,110,1982,
+Jedsted Klostervej 14 6771 Gredstedbro,14,1995000.0,30-06-2006,Alm.,9779,8,Villa,204,2002,
+Holtsagervej 26 6771 Gredstedbro,26,903527.0,27-06-2006,Fam.,6547,5,Villa,138,1947,
+Jernved Hedevej 10 6771 Gredstedbro,10,880000.0,20-06-2006,Alm.,6068,11,Villa,145,1906,
+Jernvedvej 212 6771 Gredstedbro,212,995000.0,18-06-2006,Alm.,5958,7,Villa,167,1920,
+Ulkjærvej 33 6771 Gredstedbro,33,800000.0,28-05-2006,Alm.,5333,3,Villa,150,1965,
+Rolighedsvej 1 6771 Gredstedbro,1,650000.0,26-05-2006,Alm.,5078,5,Villa,128,1925,
+Møgelhøjvej 15 6771 Gredstedbro,15,1000000.0,19-05-2006,Alm.,10416,3,Stuehus,96,2004,
+Gørdingvej 38 6771 Gredstedbro,38,317000.0,03-05-2006,Alm.,2805,4,Villa,113,1978,
+Jernvedvej 206 6771 Gredstedbro,206,665000.0,11-04-2006,Alm.,6157,5,Villa,108,1935,
+Kirkebakken 46 6771 Gredstedbro,46,337500.0,06-04-2006,Alm.,2045,5,Villa,165,1928,
+Vesterbyvej 23 6771 Gredstedbro,23,1450000.0,05-04-2006,Alm.,7671,6,Villa,189,1910,
+Holtsagervej 22 6771 Gredstedbro,22,630000.0,23-03-2006,Alm.,3841,4,Villa,164,1870,
+Gredsted Hedevej 5 6771 Gredstedbro,5,1248000.0,17-03-2006,Alm.,5914,10,Villa,211,1860,
+Vilslevvej 39A 6771 Gredstedbro,0,700000.0,14-03-2006,Alm.,6250,4,Villa,112,1981,
+Ulkjærvej 59 6771 Gredstedbro,59,3959358.0,15-02-2006,Alm.,17754,8,Stuehus,223,1877,
+Plougsvadvej 23 6771 Gredstedbro,23,1148000.0,03-02-2006,Alm.,5466,5,Villa,210,1948,
+Vestergade 5 6771 Gredstedbro,5,720000.0,18-01-2006,Alm.,4363,6,Villa,165,1944,
+Rugmarken 5 6771 Gredstedbro,5,825000.0,19-12-2005,Alm.,7236,6,Villa,114,1973,
+Kirkegade 12 6771 Gredstedbro,12,1095000.0,14-12-2005,Alm.,7934,5,Villa,138,1920,
+Plougstrupvej 115 6771 Gredstedbro,115,850000.0,02-12-2005,Alm.,6488,5,Villa,131,1948,
+Aavej 39 6771 Gredstedbro,39,735000.0,15-11-2005,Alm.,6562,4,Villa,112,1973,
+Ulkjærvej 15 6771 Gredstedbro,15,700000.0,08-11-2005,Fam.,5982,4,Villa,117,1954,
+Gørdingvej 41 6771 Gredstedbro,41,715000.0,04-11-2005,Alm.,4735,5,Villa,151,1916,
+Gørdingvej 39B 6771 Gredstedbro,0,1005000.0,02-11-2005,Alm.,5677,7,Villa,177,1920,
+Aavej 13 6771 Gredstedbro,13,810000.0,27-10-2005,Alm.,7363,3,Villa,110,1966,
+Sønderbyvej 2 6771 Gredstedbro,2,870000.0,13-10-2005,Alm.,6796,5,Villa,128,1986,
+Kjærmarken 109 6771 Gredstedbro,109,209019.0,12-10-2005,Alm.,1306,6,Villa,160,2006,
+Brokærvej 2 6771 Gredstedbro,2,513569.0,11-10-2005,Fam.,4244,4,Villa,121,1945,
+Hjortlundvej 117 6771 Gredstedbro,117,675000.0,29-09-2005,Alm.,0,7,Villa,207,1902,
+Vesterbyvej 1C 6771 Gredstedbro,0,995000.0,28-09-2005,Alm.,5922,6,Villa,168,1915,
+Jernvedvej 1 6771 Gredstedbro,1,1450000.0,28-09-2005,Alm.,8841,5,Villa,164,1999,
+Vesterbyvej 7 6771 Gredstedbro,7,975000.0,25-09-2005,Alm.,5945,5,Villa,164,1800,
+Sønderbyvej 5 6771 Gredstedbro,5,998000.0,23-09-2005,Alm.,5544,7,Villa,180,1986,
+Kjærmarken 77 6771 Gredstedbro,77,893000.0,21-09-2005,Alm.,6714,5,Villa,133,1979,
+Plougstrupvej 31 6771 Gredstedbro,31,425000.0,09-09-2005,Alm.,3244,6,Villa,131,1916,
+Vilslevvej 26 6771 Gredstedbro,26,1150000.0,27-08-2005,Alm.,4509,8,Villa,255,1907,
+Jedsted Klostervej 57 6771 Gredstedbro,57,495000.0,22-08-2005,Alm.,3322,5,Villa,149,1897,
+Sportsvej 3 6771 Gredstedbro,3,780000.0,14-08-2005,Alm.,4357,6,Villa,179,1964,
+Majsmarken 23 6771 Gredstedbro,23,1130000.0,25-07-2005,Alm.,7957,5,Villa,142,1973,
+Plougstrupvej 6 6771 Gredstedbro,6,384000.0,13-07-2005,Alm.,3339,4,Villa,115,1967,
+Vestparken 11 6771 Gredstedbro,11,910000.0,11-07-2005,Alm.,6691,4,Villa,136,1969,
+Holtsagervej 4 6771 Gredstedbro,4,557500.0,08-07-2005,Alm.,4495,6,Villa,124,1876,
+Jernvedvej 251 6771 Gredstedbro,251,1450000.0,29-06-2005,Alm.,5846,6,Villa,248,1860,
+Hans Jensens Vej 2 6771 Gredstedbro,2,460000.0,06-06-2005,Auktion,0,7,Villa,177,1956,
+Jedsted Klostervej 30 6771 Gredstedbro,30,500000.0,06-06-2005,Auktion,2463,4,Villa,203,1850,
+Darumvej 2 6771 Gredstedbro,2,875000.0,03-06-2005,Alm.,3739,5,Villa,234,1934,
+Jernvedvej 17 6771 Gredstedbro,17,800000.0,30-05-2005,Alm.,8000,4,Villa,100,1885,
+Gørdingvej 9 6771 Gredstedbro,9,175000.0,29-05-2005,Alm.,1346,4,Villa,130,1929,
+Gørdingvej 4 6771 Gredstedbro,4,520000.0,25-05-2005,Alm.,4000,5,Villa,130,1914,
+Præstegårdsvej 12 6771 Gredstedbro,12,898000.0,25-05-2005,Alm.,5986,6,Villa,150,1916,
+Grønnevej 4 6771 Gredstedbro,4,665000.0,26-04-2005,Alm.,8750,4,Villa,76,1925,
+Hjortlundvej 76 6771 Gredstedbro,76,1300000.0,21-04-2005,Alm.,0,7,Villa,241,1876,
+Vestergade 40 6771 Gredstedbro,40,600000.0,12-04-2005,Alm.,5769,3,Villa,104,1942,
+Jedstedvej 16 6771 Gredstedbro,16,494775.0,04-04-2005,Andet,2356,8,Villa,210,1827,
+Puggårdsvej 69 6771 Gredstedbro,69,625000.0,26-03-2005,Alm.,2248,11,Villa,278,1903,
+Kongeåvej 36 6771 Gredstedbro,36,750000.0,13-03-2005,Alm.,6818,4,Villa,110,1961,
+Vestergade 36 6771 Gredstedbro,36,420000.0,09-03-2005,Alm.,4719,3,Villa,89,1960,
+Aavej 41 6771 Gredstedbro,41,715000.0,07-03-2005,Alm.,6441,4,Villa,111,1978,
+Jernvedvej 252 6771 Gredstedbro,252,570000.0,24-02-2005,Alm.,2878,7,Villa,198,1857,
+Kjærmarken 34 6771 Gredstedbro,34,111000.0,22-02-2005,Alm.,730,5,Villa,152,2005,
+Gørdingvej 48 6771 Gredstedbro,48,860000.0,02-02-2005,Alm.,4699,7,Villa,183,1973,
+Præstegårdsvej 9 6771 Gredstedbro,9,1450000.0,01-02-2005,Alm.,12946,4,Villa,112,1827,
+Hjortlundvej 39 6771 Gredstedbro,39,476000.0,30-01-2005,Fam.,4327,3,Villa,110,1951,
+Kirkebakken 32 6771 Gredstedbro,32,730000.0,24-01-2005,Alm.,6186,4,Villa,118,1947,
+Kjærmarken 91 6771 Gredstedbro,91,70000.0,20-01-2005,Alm.,434,5,Villa,161,2005,
+Sandvej 3 6771 Gredstedbro,3,625000.0,20-01-2005,Alm.,3698,4,Villa,169,2009,
+Kjærmarken 6 6771 Gredstedbro,6,115000.0,11-01-2005,Alm.,550,5,Villa,209,2005,
+Kjærmarken 24 6771 Gredstedbro,24,113000.0,05-01-2005,Alm.,795,4,Villa,142,2005,
+Jedstedvej 57 6771 Gredstedbro,57,7374600.0,17-12-2004,Fam.,43636,5,Stuehus,169,1898,
+Kongeåvej 35 6771 Gredstedbro,35,354400.0,14-12-2004,Alm.,2060,7,Stuehus,172,1928,
+Bygmarken 8 6771 Gredstedbro,8,950000.0,08-12-2004,Alm.,7196,4,Villa,132,1972,
+Sennepsmarken 19 6771 Gredstedbro,19,875000.0,12-11-2004,Alm.,6294,2,Villa,139,1982,
+Jernvedvej 215 6771 Gredstedbro,215,860000.0,11-11-2004,Alm.,4699,4,Villa,183,1919,
+Kongeåvej 5 6771 Gredstedbro,5,535000.0,06-11-2004,Alm.,5194,4,Villa,103,1929,
+Plougstrupvej 30 6771 Gredstedbro,30,1075000.0,06-11-2004,Alm.,6323,5,Villa,170,1916,
+Hvedemarken 3 6771 Gredstedbro,3,600000.0,25-10-2004,Alm.,5454,4,Villa,110,1976,
+Jedsted Klostervej 15 6771 Gredstedbro,15,2100000.0,25-10-2004,Alm.,10880,5,Stuehus,193,1815,
+Plougstrupvej 13 6771 Gredstedbro,13,450000.0,04-10-2004,Alm.,5487,3,Villa,82,1935,
+Jedsted Klostervej 9 6771 Gredstedbro,9,710000.0,24-09-2004,Alm.,9594,3,Villa,74,1877,
+Puggårdsvej 68 6771 Gredstedbro,68,760000.0,13-08-2004,Alm.,4720,6,Villa,161,1906,
+Vilslevvej 46 6771 Gredstedbro,46,795000.0,22-06-2004,Fam.,6162,5,Villa,129,1915,
+Plougstrupvej 41 6771 Gredstedbro,41,1100000.0,22-06-2004,Alm.,5314,5,Villa,207,1869,
+Sportsvej 9 6771 Gredstedbro,9,570000.0,08-06-2004,Alm.,4750,4,Villa,120,1929,
+Vilslevvej 44 6771 Gredstedbro,44,400000.0,01-06-2004,Alm.,0,5,Villa,131,1877,
+Plougstrupvej 53 6771 Gredstedbro,53,3800000.0,14-05-2004,Alm.,28148,5,Stuehus,135,1965,
+Vestergade 22 6771 Gredstedbro,22,750000.0,08-05-2004,Alm.,4237,6,Villa,177,1917,
+Jedsted Klostervej 79 6771 Gredstedbro,79,400000.0,01-05-2004,Alm.,5405,2,Villa,74,1950,
+Sennepsmarken 35 6771 Gredstedbro,35,1295000.0,26-04-2004,Alm.,8248,6,Villa,157,1984,
+Gørdingvej 35 6771 Gredstedbro,35,350000.0,05-03-2004,Alm.,2941,4,Villa,119,1777,
+Plougstrupvej 95 6771 Gredstedbro,95,870000.0,19-02-2004,Alm.,5958,5,Villa,146,1966,
+Puggårdsvej 84 6771 Gredstedbro,84,70000.0,18-02-2004,Alm.,304,7,Stuehus,230,1835,
+Plougstrupvej 4 6771 Gredstedbro,4,800000.0,18-02-2004,Alm.,5714,5,Villa,140,1969,
+Plougstrupvej 7 6771 Gredstedbro,7,750000.0,15-02-2004,Alm.,6000,4,Villa,125,1934,
+Aavej 7 6771 Gredstedbro,7,945000.0,12-02-2004,Alm.,10384,4,Villa,91,1944,
+Kjærmarken 44 6771 Gredstedbro,44,187400.0,08-02-2004,Alm.,1083,6,Villa,173,2004,
+Gørdingvej 10 6771 Gredstedbro,10,500000.0,29-01-2004,Alm.,3424,8,Villa,146,1934,
+Vesterbyvej 11 6771 Gredstedbro,11,89143.0,27-01-2004,Alm.,627,4,Villa,142,2004,
+Kjærmarken 54 6771 Gredstedbro,54,97491.0,29-12-2003,Alm.,0,7,Villa,193,2004,
+Plougstrupvej 32 6771 Gredstedbro,32,1420000.0,21-12-2003,Alm.,5461,9,Villa,260,1876,
+Gørdingvej 78 6771 Gredstedbro,78,830000.0,30-11-2003,Alm.,3672,6,Villa,226,1974,
+Gørdingvej 11 6771 Gredstedbro,11,300000.0,28-11-2003,Alm.,2380,5,Villa,126,1948,
+Plougstrupvej 49 6771 Gredstedbro,49,660000.0,22-11-2003,Alm.,3473,4,Villa,190,1905,
+Kirkegade 7 6771 Gredstedbro,7,860000.0,18-11-2003,Alm.,5088,8,Villa,169,1935,
+Puggårdsvej 40 6771 Gredstedbro,40,765000.0,12-11-2003,Alm.,0,5,Villa,190,1922,
+Havfoldvej 2 6771 Gredstedbro,2,1750000.0,12-11-2003,Alm.,7142,5,Villa,245,1995,
+Sennepsmarken 23 6771 Gredstedbro,23,737500.0,01-11-2003,Alm.,0,5,Villa,161,1976,
+Vilslevvej 25 6771 Gredstedbro,25,61500.0,29-10-2003,Alm.,297,7,Stuehus,207,1894,
+Ulkjærvej 38 6771 Gredstedbro,38,400000.0,06-10-2003,Alm.,5194,3,Villa,77,1964,
+Sønderbyvej 3 6771 Gredstedbro,3,1230000.0,20-08-2003,Alm.,6373,7,Villa,193,1988,
+Kjærmarken 48 6771 Gredstedbro,48,111000.0,08-08-2003,Alm.,874,5,Villa,127,2003,
+Kongeådal 6 6771 Gredstedbro,6,790000.0,01-08-2003,Alm.,5851,5,Villa,135,1962,
+Jedsted Møllevej 6 6771 Gredstedbro,6,1550000.0,31-07-2003,Alm.,6485,8,Villa,239,1840,
+Jedsted Klostervej 10 6771 Gredstedbro,10,313693.0,24-07-2003,Andet,0,5,Villa,185,1877,
+Jedsted Engevej 11 6771 Gredstedbro,11,69410.0,09-07-2003,Alm.,0,5,Stuehus,131,1927,
+Sennepsmarken 9 6771 Gredstedbro,9,596638.0,02-07-2003,Alm.,0,6,Villa,162,1977,
+Vilslevvej 36 6771 Gredstedbro,36,1125000.0,12-06-2003,Alm.,5890,8,Villa,191,1979,
+Lucernemarken 3 6771 Gredstedbro,3,890000.0,10-06-2003,Alm.,7295,3,Villa,122,1975,
+Sandvej 6 6771 Gredstedbro,6,1450000.0,10-06-2003,Alm.,9731,5,Villa,149,1996,
+Kirkebakken 36 6771 Gredstedbro,36,720000.0,23-05-2003,Alm.,5142,5,Villa,140,1958,
+Gørdingvej 63 6771 Gredstedbro,63,199630.0,28-04-2003,Alm.,0,5,Villa,178,1954,
+Jedsted Bjerge Vej 65 6771 Gredstedbro,65,544364.0,27-04-2003,Fam.,0,6,Villa,210,1943,
+Jedsted Klostervej 71 6771 Gredstedbro,71,300000.0,24-04-2003,Andet,3947,3,Villa,76,1700,
+Hjortlundvej 60 6771 Gredstedbro,60,1742500.0,08-04-2003,Fam.,7510,7,Stuehus,232,1927,
+Hjortlundvej 91 6771 Gredstedbro,91,280500.0,08-04-2003,Fam.,1689,7,Villa,166,1927,
+Kjærmarken 36 6771 Gredstedbro,36,109000.0,06-03-2003,Alm.,741,6,Villa,147,2003,
+Jedsted Klostervej 21 6771 Gredstedbro,21,665000.0,01-02-2003,Alm.,5406,5,Villa,123,1800,
+Ulkjærvej 36 6771 Gredstedbro,36,595000.0,30-01-2003,Alm.,5560,4,Villa,107,1966,
+Hans Jensens Vej 6 6771 Gredstedbro,6,600000.0,29-01-2003,Alm.,6666,3,Villa,90,1960,
+Vilslevvej 48 6771 Gredstedbro,48,618714.0,21-01-2003,Alm.,3991,4,Villa,155,1917,
+Puggårdsvej 72 6771 Gredstedbro,72,1350963.0,22-12-2002,Alm.,7463,7,Stuehus,181,1890,
+Kongeådal 22 6771 Gredstedbro,22,1434425.0,04-12-2002,Alm.,0,8,Villa,350,1917,
+Hjortlundvej 44 6771 Gredstedbro,44,250000.0,25-11-2002,Alm.,2016,5,Villa,124,1903,
+Gørdingvej 74 6771 Gredstedbro,74,97000.0,31-10-2002,Alm.,0,8,Villa,218,2003,
+Kjærmarken 28 6771 Gredstedbro,28,1150000.0,11-10-2002,Alm.,9200,4,Villa,125,1998,
+Jernvedvej 246 6771 Gredstedbro,246,1620000.0,03-10-2002,Alm.,11489,6,Stuehus,141,1915,
+Jedstedvej 17 6771 Gredstedbro,17,450000.0,28-08-2002,Alm.,1821,6,Stuehus,247,1920,
+Vestergade 35 6771 Gredstedbro,35,360000.0,26-08-2002,Alm.,3529,5,Villa,102,1914,
+Kongeåvej 1 6771 Gredstedbro,1,495000.0,20-08-2002,Alm.,4159,5,Villa,119,1937,
+Jedsted Klostervej 28 6771 Gredstedbro,28,629020.0,16-08-2002,Alm.,4398,4,Villa,143,1800,
+Rørskiftevej 2 6771 Gredstedbro,2,650000.0,15-08-2002,Alm.,6500,4,Villa,100,1800,
+Hjortlundvej 16B 6771 Gredstedbro,0,898034.0,12-07-2002,Alm.,0,5,Rækkehus,235,1977,
+Vilslevvej 49 6771 Gredstedbro,49,337738.0,24-05-2002,Fam.,3671,4,Villa,92,1934,
+Plougstrupvej 18 6771 Gredstedbro,18,1950000.0,01-05-2002,Fam.,9466,6,Stuehus,206,1908,
+Kirkegade 11 6771 Gredstedbro,11,575000.0,27-04-2002,Alm.,4197,5,Villa,137,1949,
+Sennepsmarken 26 6771 Gredstedbro,26,1230000.0,08-03-2002,Alm.,9179,5,Villa,134,1996,
+Bygmarken 3 6771 Gredstedbro,3,765000.0,15-01-2002,Alm.,6169,3,Villa,124,1972,
+Vestparken 2 6771 Gredstedbro,2,575000.0,15-11-2001,Alm.,0,4,Villa,124,1967,
+Aavej 11 6771 Gredstedbro,11,830000.0,18-10-2001,Fam.,0,9,Villa,230,1978,
+Hjortlundvej 87 6771 Gredstedbro,87,650000.0,20-09-2001,Alm.,5603,5,Villa,116,1961,
+Sennepsmarken 37 6771 Gredstedbro,37,993518.0,19-09-2001,Alm.,0,6,Villa,158,1986,
+Jedsted Klostervej 8 6771 Gredstedbro,8,1330956.0,15-09-2001,Alm.,8423,6,Villa,158,1999,
+Puggårdsvej 76 6771 Gredstedbro,76,1225000.0,24-08-2001,Alm.,5542,7,Villa,221,1911,
+Jedstedvej 21 6771 Gredstedbro,21,1048577.0,17-08-2001,Alm.,7884,5,Villa,133,1992,
+Kirkebakken 34 6771 Gredstedbro,34,461918.0,15-08-2001,Alm.,3849,5,Villa,120,1923,
+Jedsted Klostervej 24 6771 Gredstedbro,24,1055000.0,23-07-2001,Alm.,5494,7,Villa,192,1877,
+Lucernemarken 2 6771 Gredstedbro,2,886576.0,04-07-2001,Alm.,4262,8,Villa,208,1973,
+Jedstedvej 13 6771 Gredstedbro,13,425000.0,04-07-2001,Alm.,4336,3,Villa,98,1900,
+Havremarken 7 6771 Gredstedbro,7,625000.0,28-06-2001,Alm.,5040,4,Villa,124,1975,
+Jedsted Klostervej 23 6771 Gredstedbro,23,506150.0,12-06-2001,Alm.,4049,4,Villa,125,1940,
+Sennepsmarken 24 6771 Gredstedbro,24,110000.0,10-05-2001,Alm.,625,6,Villa,176,2004,
+Vilslevvej 4 6771 Gredstedbro,4,505000.0,04-05-2001,Alm.,5489,2,Villa,92,1957,
+Sønderbyvej 15 6771 Gredstedbro,15,975000.0,14-03-2001,Alm.,5838,5,Villa,167,1870,
+Hjortlundvej 33 6771 Gredstedbro,33,270000.0,12-03-2001,Fam.,2755,3,Villa,98,1968,
+Jedstedvej 35 6771 Gredstedbro,35,630000.0,09-03-2001,Fam.,4809,5,Villa,131,1945,
+Gørdingvej 60 6771 Gredstedbro,60,538124.0,08-03-2001,Alm.,4762,5,Villa,113,1928,
+Vestergade 37 6771 Gredstedbro,37,801000.0,08-03-2001,Alm.,5167,6,Villa,155,1924,
+Sønderbyvej 13B 6771 Gredstedbro,0,90000.0,07-03-2001,Alm.,671,5,Villa,134,2001,
+Hjortlundvej 52 6771 Gredstedbro,52,1338700.0,23-02-2001,Fam.,3618,8,Stuehus,370,2009,
+Kongeåvej 27 6771 Gredstedbro,27,550000.0,23-01-2001,Alm.,0,6,Villa,192,2003,
+Hjortlundvej 93 6771 Gredstedbro,93,625000.0,08-01-2001,Fam.,5000,4,Villa,125,1930,
+Jernvedvej 229 6771 Gredstedbro,229,490000.0,04-01-2001,Alm.,3379,6,Villa,145,1915,
+Vilslevvej 57 6771 Gredstedbro,57,720000.0,20-12-2000,Alm.,6857,4,Villa,105,1780,
+Aavej 1 6771 Gredstedbro,1,1050000.0,06-12-2000,Alm.,6176,5,Villa,170,1904,
+Plougsvadvej 22 6771 Gredstedbro,22,577027.0,29-11-2000,Alm.,4371,5,Villa,132,1947,
+Vilslev Spang 8 6771 Gredstedbro,8,625000.0,10-09-2000,Alm.,0,4,Villa,101,1802,
+Sennepsmarken 1 6771 Gredstedbro,1,737052.0,30-08-2000,Alm.,5943,4,Villa,124,1969,
+Nørrebyvej 2 6771 Gredstedbro,2,953000.0,22-08-2000,Fam.,6618,5,Villa,144,1984,
+Gørdingvej 29 6771 Gredstedbro,29,575000.0,14-08-2000,Alm.,4356,4,Villa,132,1973,
+Rolighedsvej 2 6771 Gredstedbro,2,555000.0,28-07-2000,Alm.,6529,3,Rækkehus,85,1986,
+Jernvedvej 7 6771 Gredstedbro,7,1098420.0,20-07-2000,Alm.,6461,5,Villa,170,1890,
+Sandvej 1 6771 Gredstedbro,1,860000.0,30-06-2000,Alm.,4550,7,Villa,189,1900,
+Fårevej 14 6771 Gredstedbro,14,1025000.0,13-05-2000,Alm.,6366,6,Villa,161,1968,
+Brokærvej 8 6771 Gredstedbro,8,465000.0,23-02-2000,Alm.,5670,3,Villa,82,1966,
+Bjergvej 22 6771 Gredstedbro,22,640000.0,17-02-2000,Alm.,8533,4,Villa,75,1954,
+Vestergade 48 6771 Gredstedbro,48,450000.0,15-02-2000,Alm.,4787,4,Villa,94,1947,
+Plougstrupvej 20 6771 Gredstedbro,20,90000.0,11-01-2000,Alm.,520,6,Villa,173,2000,
+Hjortlundvej 35 6771 Gredstedbro,35,365500.0,23-12-1999,Fam.,3514,3,Villa,104,1966,
+Kongeåvej 3 6771 Gredstedbro,3,282270.0,14-12-1999,Andet,1721,6,Villa,164,1938,
+Plougstrupvej 10 6771 Gredstedbro,10,585000.0,19-10-1999,Alm.,5969,3,Villa,98,1956,
+Gørdingvej 24 6771 Gredstedbro,24,610000.0,17-10-1999,Alm.,4326,3,Villa,141,1938,
+Rugmarken 2 6771 Gredstedbro,2,789966.0,11-10-1999,Alm.,5266,5,Villa,150,1973,
+Gyden 10 6771 Gredstedbro,10,635013.0,29-09-1999,Alm.,0,6,Villa,170,1787,
+Gyden 7 6771 Gredstedbro,7,660000.0,10-09-1999,Alm.,4782,6,Villa,138,1979,
+Jernvedvej 220 6771 Gredstedbro,220,287670.0,20-08-1999,Alm.,3595,4,Villa,80,1935,
+Puggårdsvej 60 6771 Gredstedbro,60,500000.0,05-08-1999,Alm.,3355,5,Villa,149,1911,
+Jedsted Klostervej 75 6771 Gredstedbro,75,380000.0,26-07-1999,Alm.,4367,4,Villa,87,1951,
+Bygmarken 9 6771 Gredstedbro,9,850000.0,02-07-1999,Alm.,6250,5,Villa,136,1973,
+Kjærmarken 38 6771 Gredstedbro,38,92818.0,22-06-1999,Alm.,653,6,Villa,142,1999,
+Hjortlundvej 86 6771 Gredstedbro,86,490000.0,12-06-1999,Alm.,4083,4,Villa,120,1968,
+Ulkjærvej 29 6771 Gredstedbro,29,679685.0,01-06-1999,Alm.,5351,5,Villa,127,1964,
+Vestergade 13A 6771 Gredstedbro,0,375000.0,23-03-1999,Alm.,0,5,Villa,114,1958,
+Havfoldvej 4 6771 Gredstedbro,4,550545.0,22-03-1999,Fam.,5345,3,Stuehus,103,1927,
+Rolighedsvej 6 6771 Gredstedbro,6,540000.0,12-02-1999,Alm.,6352,3,Rækkehus,85,1986,
+Vestergade 34 6771 Gredstedbro,34,443395.0,28-11-1998,Alm.,4105,4,Villa,108,1962,
+Vesterbyvej 37 6771 Gredstedbro,37,436000.0,23-11-1998,Alm.,0,6,Villa,189,1910,
+Rolighedsvej 7 6771 Gredstedbro,7,849971.0,26-10-1998,Alm.,4775,5,Villa,178,1976,
+Hjortlundvej 25B 6771 Gredstedbro,0,620500.0,19-10-1998,Fam.,0,3,Villa,125,1989,
+Kirkebakken 40 6771 Gredstedbro,40,421000.0,11-09-1998,Alm.,0,6,Villa,138,1924,
+Brokærvej 7 6771 Gredstedbro,7,571372.0,28-08-1998,Alm.,3809,7,Villa,150,1961,
+Bjergvej 11 6771 Gredstedbro,11,1164758.0,27-08-1998,Alm.,0,6,Stuehus,156,1958,
+Kjærmarken 12 6771 Gredstedbro,12,73208.0,18-08-1998,Alm.,443,7,Villa,165,1999,
+Vesterbyvej 24A 6771 Gredstedbro,0,763387.0,20-05-1998,Alm.,5301,4,Villa,144,1941,
+Vinkelvej 2 6771 Gredstedbro,2,602499.0,15-05-1998,Alm.,0,6,Villa,163,1963,
+Plougstrupvej 109 6771 Gredstedbro,109,220551.0,11-04-1998,Alm.,0,3,Villa,123,1950,
+Holtsagervej 13A 6771 Gredstedbro,0,450000.0,30-03-1998,Alm.,2601,6,Villa,173,2011,
+Jernvedvej 16 6771 Gredstedbro,16,970000.0,13-03-1998,Alm.,6258,8,Stuehus,155,1918,
+Jedsted Klostervej 55 6771 Gredstedbro,55,329596.0,23-02-1998,Alm.,0,6,Villa,195,1760,
+Sennepsmarken 18 6771 Gredstedbro,18,793000.0,17-11-1997,Alm.,6608,5,Villa,120,1977,
+Vilslevvej 11 6771 Gredstedbro,11,741000.0,23-10-1997,Alm.,0,5,Stuehus,139,1903,
+Plougstrupvej 99 6771 Gredstedbro,99,433500.0,16-10-1997,Fam.,4711,5,Stuehus,92,1929,
+Blomstergangen 16 6771 Gredstedbro,16,300000.0,08-10-1997,Alm.,0,0,Fritid,0,1979,
+Holtsagervej 13 6771 Gredstedbro,13,1024806.0,15-09-1997,Alm.,0,6,Villa,250,1840,
+Bøjhøjvej 8 6771 Gredstedbro,8,1600000.0,29-08-1997,Fam.,9937,5,Stuehus,161,1942,
+Jedsted Klostervej 18 6771 Gredstedbro,18,263500.0,19-08-1997,Fam.,0,5,Villa,164,1951,
+Holtsagervej 9 6771 Gredstedbro,9,800000.0,19-08-1997,Alm.,4761,5,Stuehus,168,1955,
+Vestergade 24 6771 Gredstedbro,24,515423.0,22-07-1997,Alm.,2643,5,Villa,195,1912,
+Gørdingvej 52 6771 Gredstedbro,52,650000.0,21-07-1997,Alm.,3170,7,Villa,205,1914,
+Kjærmarken 73 6771 Gredstedbro,73,907500.0,17-07-1997,Alm.,4630,4,Villa,196,1978,
+Hjortlundvej 23 6771 Gredstedbro,23,1514000.0,09-06-1997,Alm.,5505,8,Villa,275,1972,
+Vestergade 44A 6771 Gredstedbro,0,650000.0,09-06-1997,Alm.,4276,5,Villa,152,1979,
+Gredstedvej 11 6771 Gredstedbro,11,637612.0,09-05-1997,Alm.,2979,6,Villa,214,1890,
+Gørdingvej 47 6771 Gredstedbro,47,195000.0,01-04-1997,Alm.,0,4,Villa,171,1925,
+Holtsagervej 30 6771 Gredstedbro,30,560000.0,30-03-1997,Alm.,4666,5,Villa,120,1955,
+Holtsagervej 10 6771 Gredstedbro,10,403732.0,17-02-1997,Alm.,2091,6,Villa,193,1948,
+Hjortlundvej 37 6771 Gredstedbro,37,800000.0,13-02-1997,Alm.,5333,5,Villa,150,1973,
+Jedsted Bjerge Vej 67 6771 Gredstedbro,67,108000.0,22-01-1997,Alm.,1928,3,Sommerhus,56,1964,
+Jernvedvej 217 6771 Gredstedbro,217,337516.0,21-01-1997,Alm.,1985,7,Villa,170,1936,
+Hjortlundvej 22 6771 Gredstedbro,22,550000.0,20-01-1997,Alm.,4135,4,Villa,133,1972,
+Kongeådal 21 6771 Gredstedbro,21,300000.0,06-01-1997,Alm.,2857,4,Villa,105,1943,
+Jedsted Klostervej 33 6771 Gredstedbro,33,380000.0,04-12-1996,Alm.,3362,4,Villa,113,1850,
+Lucernemarken 13 6771 Gredstedbro,13,575000.0,09-11-1996,Alm.,4492,4,Villa,128,1975,
+Præstegårdsvej 18 6771 Gredstedbro,18,33400.0,31-10-1996,Alm.,185,7,Villa,180,1964,
+Sportsvej 7 6771 Gredstedbro,7,340000.0,11-10-1996,Alm.,3333,3,Villa,102,1963,
+Bjergvej 5 6771 Gredstedbro,5,519105.0,09-10-1996,Alm.,3264,5,Stuehus,159,1955,
+Jernvedvej 21 6771 Gredstedbro,21,227500.0,05-10-1996,Alm.,0,4,Villa,148,1875,
+Kongeåvej 43 6771 Gredstedbro,43,758304.0,22-09-1996,Fam.,2962,7,Villa,256,1971,
+Kjærmarken 71 6771 Gredstedbro,71,716000.0,20-09-1996,Alm.,0,3,Villa,157,1979,
+Ulkjærvej 34 6771 Gredstedbro,34,550000.0,13-09-1996,Alm.,4824,4,Villa,114,1967,
+Jedsted Klostervej 61 6771 Gredstedbro,61,270000.0,26-08-1996,Alm.,1719,6,Villa,157,2014,
+Kongeåvej 40 6771 Gredstedbro,40,380000.0,13-08-1996,Alm.,3333,4,Villa,114,1954,
+Jernvedvej 42 6771 Gredstedbro,42,150000.0,31-07-1996,Alm.,980,5,Villa,153,1997,
+Jedsted Klostervej 81 6771 Gredstedbro,81,998581.0,23-07-1996,Alm.,4518,5,Villa,221,1965,
+Sennepsmarken 21 6771 Gredstedbro,21,725000.0,19-07-1996,Alm.,4677,5,Villa,155,1986,
+Ambolten 6 6771 Gredstedbro,6,200000.0,30-05-1996,Alm.,1869,6,Villa,107,1946,
+Hjortlundvej 41 6771 Gredstedbro,41,500000.0,30-05-1996,Fam.,3378,5,Stuehus,148,1918,
+Kongeåvej 2 6771 Gredstedbro,2,975000.0,22-05-1996,Alm.,0,6,Villa,150,1900,
+Vesterbyvej 4 6771 Gredstedbro,4,1230000.0,25-04-1996,Fam.,7987,4,Stuehus,154,1972,
+Sennepsmarken 6 6771 Gredstedbro,6,683000.0,16-04-1996,Alm.,0,6,Villa,135,1976,
+Hjortlundvej 77 6771 Gredstedbro,77,750000.0,11-04-1996,Alm.,0,8,Villa,209,1785,
+Kirkebakken 27 6771 Gredstedbro,27,405385.0,01-04-1996,Alm.,3192,4,Villa,127,1932,
+Majsmarken 2 6771 Gredstedbro,2,460000.0,29-03-1996,Alm.,4000,3,Villa,115,1978,
+Majsmarken 16 6771 Gredstedbro,16,665000.0,27-02-1996,Alm.,0,7,Villa,159,1969,
+Gredstedvej 7 6771 Gredstedbro,7,590000.0,27-02-1996,Alm.,0,6,Villa,160,1887,
+Vilslevvej 27 6771 Gredstedbro,27,539764.0,23-02-1996,Alm.,0,8,Villa,219,1972,
+Plougstrupvej 61 6771 Gredstedbro,61,200000.0,08-02-1996,Alm.,0,6,Villa,215,1854,
+Kjærmarken 83 6771 Gredstedbro,83,601582.0,04-12-1995,Alm.,5323,4,Villa,113,1979,
+Rolighedsvej 18 6771 Gredstedbro,18,575000.0,24-11-1995,Alm.,0,5,Villa,148,1973,
+Ulkjærvej 19 6771 Gredstedbro,19,702491.0,21-11-1995,Alm.,4283,5,Villa,164,1965,
+Vilslevvej 21 6771 Gredstedbro,21,300000.0,14-11-1995,Fam.,2400,5,Villa,125,1930,
+Jedsted Møllevej 21 6771 Gredstedbro,21,499000.0,26-09-1995,Alm.,2918,6,Villa,171,1933,
+Jedsted Klostervej 35 6771 Gredstedbro,35,395000.0,01-09-1995,Alm.,0,6,Villa,199,1942,
+Jedstedvej 20 6771 Gredstedbro,20,443000.0,30-08-1995,Alm.,5679,3,Villa,78,1956,
+Hans Jensens Vej 12 6771 Gredstedbro,12,300000.0,28-08-1995,Alm.,3000,3,Villa,100,1963,
+Hvedemarken 4 6771 Gredstedbro,4,750000.0,31-07-1995,Alm.,4573,3,Villa,164,1973,
+Vestergade 28 6771 Gredstedbro,28,440000.0,27-07-1995,Alm.,4400,3,Villa,100,1937,
+Vestparken 9 6771 Gredstedbro,9,100000.0,19-07-1995,Fam.,1063,4,Villa,94,1965,
+Aavej 9 6771 Gredstedbro,9,546000.0,01-06-1995,Fam.,3391,4,Villa,161,1927,
+Rolighedsvej 5 6771 Gredstedbro,5,435000.0,23-05-1995,Alm.,2403,6,Villa,181,1960,
+Rørskiftevej 4 6771 Gredstedbro,4,520000.0,11-05-1995,Alm.,3823,4,Villa,136,1877,
+"Vestergade 15, 1 6771 Gredstedbro",1,415000.0,10-05-1995,Alm.,4560,3,Lejlighed,91,1978,
+Mådevej 2 6771 Gredstedbro,2,290000.0,27-04-1995,Alm.,3118,3,Villa,93,1963,
+Puggårdsvej 56 6771 Gredstedbro,56,413200.0,21-04-1995,Alm.,2582,6,Stuehus,160,1942,
+Kongeådal 3 6771 Gredstedbro,3,250000.0,18-04-1995,Andet,1612,6,Villa,155,1978,
+Puggårdsvej 44 6771 Gredstedbro,44,258688.0,22-03-1995,Alm.,0,10,Villa,218,1862,
+Jernvedvej 190 6771 Gredstedbro,190,225000.0,15-12-1994,Alm.,1859,5,Villa,121,1950,
+Ribe Landevej 50 6771 Gredstedbro,50,770000.0,12-12-1994,Alm.,0,6,Stuehus,205,1900,
+Jernved Hedevej 9 6771 Gredstedbro,9,500000.0,28-11-1994,Alm.,0,10,Villa,298,1908,
+Hjortlundvej 102 6771 Gredstedbro,102,200000.0,16-11-1994,Alm.,1562,4,Villa,128,1925,
+Majsmarken 20 6771 Gredstedbro,20,296206.0,28-09-1994,Alm.,2115,4,Villa,140,1973,
+Hjortlundvej 2 6771 Gredstedbro,2,645000.0,27-09-1994,Alm.,5466,3,Villa,118,1987,
+Hjortlundvej 63 6771 Gredstedbro,63,632420.0,22-09-1994,Alm.,3903,5,Villa,162,1924,
+Kongeåvej 46 6771 Gredstedbro,46,1360000.0,14-09-1994,Fam.,6538,8,Stuehus,208,1959,
+Kirkebakken 38 6771 Gredstedbro,38,295743.0,25-08-1994,Alm.,0,5,Villa,170,1924,
+Kjærmarken 99 6771 Gredstedbro,99,785000.0,19-08-1994,Alm.,5607,5,Villa,140,1986,
+Sennepsmarken 17 6771 Gredstedbro,17,565000.0,09-08-1994,Alm.,4035,5,Villa,140,1982,
+Puggårdsvej 49 6771 Gredstedbro,49,900000.0,08-07-1994,Alm.,0,6,Stuehus,140,1870,
+Kirkebakken 23 6771 Gredstedbro,23,492000.0,28-06-1994,Alm.,0,7,Villa,172,1979,
+Skråvej 5 6771 Gredstedbro,5,640000.0,31-05-1994,Alm.,4129,4,Villa,155,1977,
+Majsmarken 17 6771 Gredstedbro,17,414000.0,18-05-1994,Alm.,3600,4,Villa,115,1969,
+Jernvedvej 28 6771 Gredstedbro,28,531740.0,05-04-1994,Alm.,3475,5,Villa,153,1867,
+Vilslevvej 43 6771 Gredstedbro,43,500000.0,30-03-1994,Alm.,2762,3,Villa,181,1925,
+Vesterbyvej 19 6771 Gredstedbro,19,350000.0,19-03-1994,Alm.,0,7,Villa,174,1913,
+Bjergvej 4 6771 Gredstedbro,4,1390000.0,17-03-1994,Alm.,12870,4,Stuehus,108,1957,
+Vesterbyvej 12 6771 Gredstedbro,12,182000.0,27-01-1994,Alm.,2716,2,Villa,67,1900,
+Grønnevej 8 6771 Gredstedbro,8,464002.0,29-12-1993,Alm.,2955,5,Villa,157,1917,
+Vilslevvej 29 6771 Gredstedbro,29,361130.0,23-12-1993,Fam.,0,8,Villa,180,1895,
+Sennepsmarken 13 6771 Gredstedbro,13,630000.0,22-12-1993,Alm.,4344,5,Villa,145,1976,
+Sennepsmarken 12 6771 Gredstedbro,12,550000.0,23-11-1993,Alm.,0,4,Villa,154,1977,
+Forbrovej 15 6771 Gredstedbro,15,95000.0,15-10-1993,Alm.,678,8,Stuehus,140,1881,
+Rolighedsvej 17 6771 Gredstedbro,17,430000.0,07-10-1993,Alm.,4673,3,Villa,92,1967,
+Sennepsmarken 29 6771 Gredstedbro,29,85000.0,04-10-1993,Alm.,643,5,Villa,132,1994,
+Jedsted Klostervej 51 6771 Gredstedbro,51,584530.0,22-09-1993,Alm.,0,8,Villa,195,1919,
+Plougstrupvej 68 6771 Gredstedbro,68,455480.0,26-08-1993,Alm.,3036,8,Stuehus,150,1925,
+Mejerivej 3 6771 Gredstedbro,3,85000.0,05-07-1993,Alm.,477,5,Villa,178,1993,
+Præstegårdsvej 11 6771 Gredstedbro,11,400000.0,15-06-1993,Alm.,0,9,Villa,242,1922,
+Sønderbyvej 13 6771 Gredstedbro,13,348000.0,24-05-1993,Alm.,0,5,Villa,108,1913,
+Vilslev Spang 6 6771 Gredstedbro,6,380000.0,28-03-1993,Alm.,2420,6,Villa,157,1720,
+Darumvej 7 6771 Gredstedbro,7,520000.0,04-02-1993,Alm.,3095,5,Villa,168,1947,
+Gørdingvej 2 6771 Gredstedbro,2,475000.0,25-01-1993,Alm.,3467,3,Villa,137,1908,
+Fårevej 17 6771 Gredstedbro,17,1224000.0,31-12-1992,Fam.,7746,5,Stuehus,158,1980,
+Valmuemarken 15 6771 Gredstedbro,15,420000.0,21-11-1992,Alm.,0,6,Villa,158,1970,
+Kirkegade 9 6771 Gredstedbro,9,436250.0,19-10-1992,Alm.,0,5,Villa,168,1959,
+Darumvej 22 6771 Gredstedbro,22,600000.0,15-10-1992,Fam.,4615,5,Villa,130,1940,
+Kongeåvej 31 6771 Gredstedbro,31,50000.0,29-09-1992,Alm.,0,7,Stuehus,380,1892,
+Kjærmarken 87 6771 Gredstedbro,87,535000.0,28-07-1992,Alm.,4083,5,Villa,131,1979,
+Plougstrupvej 57 6771 Gredstedbro,57,177524.0,17-07-1992,Alm.,1365,4,Villa,130,1911,
+Vilslevvej 47 6771 Gredstedbro,47,125473.0,07-07-1992,Andet,1151,3,Villa,109,1950,
+Jedsted Klostervej 77 6771 Gredstedbro,77,351000.0,02-07-1992,Alm.,4618,2,Villa,76,1951,
+Kjærmarken 101 6771 Gredstedbro,101,96000.0,16-06-1992,Alm.,615,5,Villa,156,1992,
+Valmuemarken 10 6771 Gredstedbro,10,715000.0,20-03-1992,Fam.,3994,5,Villa,179,1971,
+Jernvedvej 243 6771 Gredstedbro,243,170000.0,14-03-1992,Alm.,0,6,Villa,162,1908,
+Hjortlundvej 31 6771 Gredstedbro,31,645000.0,09-02-1992,Alm.,4742,4,Villa,136,1973,
+"Jernvedvej 242, ST. TV 6771 Gredstedbro",0,725000.0,07-01-1992,Alm.,0,8,Villa,211,1909,
+Jernvedvej 253 6771 Gredstedbro,253,260000.0,07-01-1992,Alm.,0,5,Villa,131,1900,

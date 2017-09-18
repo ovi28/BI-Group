@@ -1,0 +1,767 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Ballumvej 23 6280 Højer,23,350000.0,22-05-2017,Alm.,2500,4,Villa,140,1900,
+Nørreager 1 6280 Højer,1,600000.0,24-04-2017,Fam.,4081,4,Villa,147,1978,
+Østerbyvej 8 6280 Højer,8,580000.0,08-04-2017,Alm.,4360,3,Villa,133,1880,-14 %
+Poppenbølvej 4 6280 Højer,4,300000.0,30-03-2017,Alm.,2608,4,Villa,115,1962,
+Sejerslevvej 9 6280 Højer,9,315000.0,29-03-2017,Alm.,1666,8,Villa,189,1938,-9 %
+Syrenvej 2 6280 Højer,2,430000.0,22-03-2017,Alm.,5119,3,Villa,84,1848,-9 %
+Sønderbyvej 17 6280 Højer,17,35000.0,21-03-2017,Alm.,253,4,Villa,138,1875,
+Nørrebyen 1 6280 Højer,1,265000.0,20-03-2017,Alm.,2623,4,Villa,101,1870,0 %
+Vadehavsvej 12 6280 Højer,12,760000.0,10-03-2017,Alm.,10270,3,Sommerhus,74,2005,-4 %
+Emmerlev Klev 15 6280 Højer,15,725000.0,06-03-2017,Fam.,10211,4,Sommerhus,71,1935,
+Højer Dige 1 6280 Højer,1,9779834.0,02-03-2017,Fam.,63920,5,Stuehus,153,1962,
+Ballumvej 40 6280 Højer,40,9779834.0,02-03-2017,Fam.,56530,8,Villa,173,1947,
+Nørrebyen 2 6280 Højer,2,270000.0,24-02-2017,Alm.,2700,3,Villa,100,1930,-7 %
+Storegade 6 6280 Højer,6,50000.0,23-02-2017,Alm.,390,10,Engroshandel,128,1800,
+Hvidstrengvej 1 6280 Højer,1,259712.0,07-02-2017,Alm.,1731,6,Stuehus,150,1911,
+Hemvej 10 6280 Højer,10,150000.0,24-01-2017,Fam.,1530,3,Villa,98,1960,
+Nørremarken 20 6280 Højer,20,376000.0,20-01-2017,Alm.,3241,4,Villa,116,1981,7 %
+Kogsgade 6 6280 Højer,6,145000.0,17-01-2017,Alm.,1250,4,Villa,116,1900,
+Nørrevej 64C 6280 Højer,0,1340000.0,17-01-2017,Alm.,3383,5,Villa,396,1956,-10 %
+Hjerpstedvej 1 6280 Højer,1,420000.0,16-01-2017,Alm.,3750,4,Villa,112,1924,-7 %
+Lille Møllevej 2 6280 Højer,2,21400000.0,15-12-2016,Fam.,49651,10,Stuehus,431,1900,
+Byvej 8 6280 Højer,8,670000.0,12-12-2016,Alm.,5826,4,Villa,115,1820,-4 %
+Buen 13 6280 Højer,13,350000.0,08-12-2016,Alm.,2500,4,Villa,140,1969,-26 %
+Kærgårdvej 10 6280 Højer,10,1040000.0,18-11-2016,Alm.,6753,4,Stuehus,154,1953,-3 %
+Sønderhedevej 11 6280 Højer,11,425000.0,06-11-2016,Alm.,4336,3,Villa,98,1955,0 %
+Sejerslevvej 40 6280 Højer,40,150000.0,03-11-2016,Alm.,1973,2,Villa,76,1937,
+Hjerpstedvej 26 6280 Højer,26,100000.0,01-11-2016,Alm.,793,4,Sommerhus,126,1908,-90 %
+Rudbølvej 16 6280 Højer,16,1600000.0,21-10-2016,Alm.,9142,4,Villa,175,1850,-11 %
+Emmerlevvej 13 6280 Højer,13,418318.0,20-10-2016,Fam.,2614,7,Stuehus,160,1960,
+Hjerpstedvej 22 6280 Højer,22,1317500.0,16-10-2016,Fam.,3513,10,Villa,375,1843,
+Ballumvej 26 6280 Højer,26,585000.0,11-10-2016,Alm.,4333,7,Villa,135,1955,-10 %
+Siltoftvej 4 6280 Højer,4,357000.0,10-10-2016,Fam.,2586,5,Villa,138,1967,-60 %
+Strandvej 5 6280 Højer,5,600000.0,05-10-2016,Andet,4285,4,Villa,140,1967,
+Nørremølle 12 6280 Højer,12,898000.0,30-09-2016,Alm.,9553,4,Villa,94,1888,0 %
+Hvidstrengvej 4 6280 Højer,4,1090000.0,26-09-2016,Alm.,5505,6,Stuehus,198,1908,
+Nørrevej 36 6280 Højer,36,190000.0,23-09-2016,Alm.,2375,3,Villa,80,1965,-16 %
+Nørregade 32 6280 Højer,32,500000.0,22-09-2016,Alm.,4629,3,Rækkehus,108,1997,
+Ternholm 3 6280 Højer,3,300000.0,20-09-2016,Alm.,2027,6,Villa,148,1969,
+Emmerlevvej 3 6280 Højer,3,435000.0,19-09-2016,Alm.,2770,4,Villa,157,1960,-3 %
+Poppenbølvej 1 6280 Højer,1,13400002.0,19-09-2016,Alm.,67000,11,Stuehus,200,1897,
+Nørrevej 21 6280 Højer,21,500000.0,19-08-2016,Alm.,3355,5,Villa,149,1963,-16 %
+Nørregade 26 6280 Højer,26,590650.0,01-08-2016,Auktion,1763,14,Villa,335,1858,
+Nørregade 37 6280 Højer,37,200000.0,29-07-2016,Alm.,1538,4,Villa,130,1900,
+Østerbyvej 32 6280 Højer,32,68293.0,11-07-2016,Auktion,355,6,Villa,192,1797,
+Vadehavsvej 22 6280 Højer,22,1000000.0,28-06-2016,Andet,13513,3,Sommerhus,74,2005,
+Ballumvej 3 6280 Højer,3,200000.0,16-06-2016,Fam.,1315,4,Villa,152,1903,
+Østerbyvej 7 6280 Højer,7,210000.0,06-06-2016,Alm.,1381,4,Stuehus,152,1930,
+Rudbølkogvej 1 6280 Højer,1,446400.0,01-06-2016,Alm.,4555,3,Stuehus,98,1950,-31 %
+Strandvej 29 6280 Højer,29,395000.0,01-06-2016,Alm.,4293,5,Villa,92,1928,0 %
+Storegade 20 6280 Højer,20,575000.0,23-05-2016,Fam.,6534,8,BygningTilHandel,88,1900,
+Prilen 13 6280 Højer,13,235000.0,19-05-2016,Alm.,2373,4,Villa,99,1968,-21 %
+Vrågård 3 6280 Højer,3,250000.0,19-05-2016,Alm.,3246,3,Villa,77,1867,-9 %
+Sejerslevvej 50 6280 Højer,50,70000.0,25-04-2016,Alm.,700,4,Villa,100,1912,
+Storegade 17 6280 Højer,17,1800000.0,18-04-2016,Alm.,4761,7,Villa,378,1855,
+Storegade 23 6280 Højer,23,700000.0,18-04-2016,Alm.,3181,7,Villa,220,1890,
+Storegade 35 6280 Højer,35,330000.0,18-04-2016,Alm.,2558,5,Rækkehus,129,1827,
+Emmerlevvej 8 6280 Højer,8,475000.0,16-04-2016,Alm.,2878,6,Villa,165,1897,-5 %
+Kogsbølvej 9 6280 Højer,9,745000.0,15-04-2016,Alm.,5209,3,Villa,143,1827,-2 %
+Nørrevej 30 6280 Højer,30,295000.0,15-04-2016,Alm.,1528,4,Villa,193,1855,0 %
+Møllegade 8 6280 Højer,8,385000.0,15-04-2016,Alm.,4812,3,Villa,80,1880,-9 %
+Østerende 13B 6280 Højer,0,295000.0,31-03-2016,Alm.,2218,4,Villa,133,1968,-25 %
+Tøndervej 8 6280 Højer,8,475000.0,21-03-2016,Fam.,3442,4,Villa,138,1968,
+Sønderhedevej 13 6280 Højer,13,50000.0,17-03-2016,Alm.,625,4,Villa,80,1956,
+Sejerslevvej 48 6280 Højer,48,30000.0,22-02-2016,Alm.,136,6,Villa,220,1942,
+Nørrehedevej 21 6280 Højer,21,50000.0,11-02-2016,Auktion,490,4,Villa,102,1887,
+Møllegade 9 6280 Højer,9,315000.0,01-02-2016,Alm.,1125,6,Villa,280,1757,
+Byvej 25 6280 Højer,25,950000.0,28-01-2016,Alm.,3958,6,Villa,240,1863,0 %
+Torvet 9 6280 Højer,9,200000.0,25-01-2016,Alm.,2000,4,Villa,100,1827,0 %
+Strandvej 23 6280 Højer,23,975000.0,19-01-2016,Alm.,6372,5,Villa,153,1935,
+Nørrehedevej 1 6280 Højer,1,1145000.0,15-01-2016,Alm.,4163,5,Villa,275,1817,
+Nørrevej 1 6280 Højer,1,1195000.0,12-01-2016,Alm.,4237,7,Villa,282,1760,0 %
+Nørrebyen 3 6280 Højer,3,550000.0,06-01-2016,Alm.,8088,3,Rækkehus,68,1880,
+Emmerlevvej 14 6280 Højer,14,400000.0,30-11-2015,Andet,3149,4,Villa,127,1887,
+"Nørrevej 32, 1 6280 Højer",1,625000.0,30-11-2015,Alm.,4770,4,Lejlighed,131,1875,
+Vesterled 14 6280 Højer,14,350000.0,30-10-2015,Alm.,4117,3,Sommerhus,85,1850,-11 %
+Havnevej 10 6280 Højer,10,487500.0,09-10-2015,Fam.,4556,4,Villa,107,1943,
+Sejerslevvej 54 6280 Højer,54,300000.0,02-10-2015,Auktion,1875,6,Villa,160,1856,
+Emmerlev Klev 13 6280 Højer,13,750000.0,26-09-2015,Alm.,15625,3,Sommerhus,48,1942,-21 %
+Emmerlevvej 9 6280 Højer,9,995000.0,03-09-2015,Alm.,5407,5,Villa,184,1862,0 %
+Østerbyvej 2 6280 Højer,2,4527500.0,03-09-2015,Fam.,21058,9,Stuehus,215,1870,
+Slusevej 13 6280 Højer,13,225000.0,25-08-2015,Alm.,2064,4,Villa,109,1967,
+Søndervej 6 6280 Højer,6,125000.0,19-08-2015,Fam.,827,4,Villa,151,1900,
+Agertoften 10 6280 Højer,10,600000.0,12-08-2015,Alm.,3947,4,Villa,152,1975,-20 %
+Østerbyvej 19 6280 Højer,19,1450000.0,11-08-2015,Alm.,7795,8,Stuehus,186,1930,-3 %
+Siltoftvej 5 6280 Højer,5,4823600.0,28-07-2015,Alm.,32591,4,Stuehus,148,1924,
+Gærupvej 3 6280 Højer,3,690000.0,10-07-2015,Alm.,3593,7,Villa,192,1908,-8 %
+Ved Gaden 11 6280 Højer,11,492000.0,05-07-2015,Alm.,6389,3,Villa,77,1877,
+Strandmeden 3 6280 Højer,3,395000.0,17-06-2015,Alm.,2862,4,Villa,138,1964,0 %
+Nørrevej 14 6280 Højer,14,450000.0,12-06-2015,Alm.,2727,5,Villa,165,1963,
+Nørregade 13 6280 Højer,13,350000.0,27-04-2015,Alm.,3846,3,Villa,91,1800,
+Sejerslevvej 44 6280 Højer,44,150000.0,24-04-2015,Alm.,1666,4,Villa,90,1962,0 %
+Storegade 22 6280 Højer,22,550000.0,04-03-2015,Alm.,4583,5,Villa,120,1900,
+Skolegade 3 6280 Højer,3,280000.0,23-02-2015,Alm.,3733,3,Villa,75,1708,
+Emmerlevvej 21 6280 Højer,21,200000.0,09-02-2015,Auktion,1041,6,Villa,192,1964,
+Hvedemarken 15 6280 Højer,15,650000.0,19-01-2015,Alm.,4276,5,Villa,152,1975,-18 %
+Tøndervej 7 6280 Højer,7,995000.0,14-01-2015,Alm.,6067,7,Villa,164,1877,-10 %
+Højervej 40 6280 Højer,40,50000.0,15-12-2014,Alm.,403,4,Villa,124,1944,
+Buen 2 6280 Højer,2,250000.0,05-12-2014,Alm.,2500,4,Villa,100,1963,-15 %
+Vesterende 3 6280 Højer,3,825000.0,14-11-2014,Alm.,5536,5,Villa,149,1978,
+Hjerpstedvej 12 6280 Højer,12,555000.0,23-10-2014,Alm.,3468,4,Villa,160,1931,-14 %
+Nørrevej 60 6280 Højer,60,70000.0,20-10-2014,Alm.,573,5,Villa,122,1907,-26 %
+Hjerpstedvej 4 6280 Højer,4,200000.0,20-09-2014,Alm.,1666,2,Villa,120,1930,
+Søndergade 19 6280 Højer,19,250000.0,22-08-2014,Alm.,2450,4,Villa,102,1891,
+Kogsgade 3 6280 Højer,3,450000.0,05-08-2014,Alm.,4411,4,Villa,102,1880,0 %
+Søndergade 11 6280 Højer,11,435000.0,01-07-2014,Alm.,4780,5,Villa,91,1670,0 %
+Sejerslevvej 21 6280 Højer,21,430000.0,22-06-2014,Alm.,5375,4,Villa,80,1755,0 %
+Højmarksvej 1 6280 Højer,1,1100000.0,20-05-2014,Alm.,7857,5,Villa,140,1960,
+Slusevej 5 6280 Højer,5,545000.0,05-05-2014,Alm.,5677,4,Villa,96,1960,0 %
+Kirkegårdsgade 1 6280 Højer,1,762000.0,05-05-2014,Auktion,1863,10,Villa,409,1806,-54 %
+Nørrehedevej 10 6280 Højer,10,2690000.0,07-04-2014,Alm.,12748,5,Stuehus,211,1874,
+Møllegade 4 6280 Højer,4,450000.0,07-04-2014,Alm.,6000,3,Villa,75,1700,
+Strandvej 25A 6280 Højer,0,810000.0,06-04-2014,Andet,6694,4,Villa,121,1985,
+Stampemøllevej 11A 6280 Højer,0,1000000.0,03-04-2014,Alm.,5494,6,Stuehus,182,1862,
+Storegade 37 6280 Højer,37,330000.0,31-03-2014,Alm.,3666,3,Villa,90,1777,-28 %
+Tøndervej 11 6280 Højer,11,175000.0,20-03-2014,Alm.,1590,4,Stuehus,110,1929,-30 %
+Langagervej 2 6280 Højer,2,10150000.0,12-03-2014,Alm.,43562,5,Stuehus,233,1975,
+Herbergsgade 11 6280 Højer,11,100000.0,12-02-2014,Alm.,769,4,Villa,130,1900,
+Østerbyvej 18 6280 Højer,18,1100000.0,29-01-2014,Alm.,12222,6,Stuehus,90,1850,
+Buen 9 6280 Højer,9,290000.0,25-01-2014,Alm.,2989,4,Villa,97,1964,-2 %
+Nørrevej 8 6280 Højer,8,425000.0,10-01-2014,Alm.,2833,6,Villa,150,1964,-15 %
+Prilen 23 6280 Højer,23,750000.0,09-01-2014,Alm.,4120,6,Villa,182,1972,-11 %
+Nørreager 3 6280 Højer,3,420000.0,20-12-2013,Fam.,4158,3,Villa,101,1978,
+Nørregade 17 6280 Højer,17,347000.0,18-11-2013,Alm.,1668,13,Lejlighed,208,1947,-30 %
+Frifelt 5 6280 Højer,5,892500.0,14-10-2013,Alm.,6972,4,Villa,128,1990,
+Vesterkær 7 6280 Højer,7,1455000.0,12-10-2013,Alm.,9831,5,Villa,148,2004,-1 %
+Gærupvej 10 6280 Højer,10,50000.0,11-10-2013,Alm.,446,5,Villa,112,1778,
+Lyst 2 6280 Højer,2,1787650.0,18-09-2013,Alm.,23835,3,Villa,75,1875,
+Strandvej 15 6280 Højer,15,600000.0,05-09-2013,Alm.,3000,6,Villa,200,1901,-14 %
+Emmerlev Klev 9 6280 Højer,9,470000.0,08-08-2013,Alm.,11190,3,Sommerhus,42,1969,
+Nørremarken 12 6280 Højer,12,740000.0,12-07-2013,Alm.,6166,5,Villa,120,1980,-10 %
+Sejerslevvej 28 6280 Højer,28,75000.0,05-07-2013,Alm.,872,3,Villa,86,1680,
+Nylandsvej 5 6280 Højer,5,130000.0,01-07-2013,Alm.,1340,4,Villa,97,1967,4 %
+Møllegade 11 6280 Højer,11,330000.0,18-06-2013,Alm.,3203,4,Villa,103,1972,
+Sejerslevvej 5A 6280 Højer,0,550000.0,17-06-2013,Andet,4074,4,Villa,135,1938,
+Syrenvej 1 6280 Højer,1,400000.0,12-06-2013,Alm.,8000,2,Sommerhus,50,1750,-18 %
+Møllegade 7 6280 Højer,7,165000.0,07-06-2013,Alm.,1701,3,Villa,97,1875,
+Storegade 7 6280 Højer,7,50000.0,29-05-2013,Alm.,347,4,Villa,144,1750,
+Nylandsvej 9 6280 Højer,9,450000.0,14-05-2013,Alm.,3750,5,Villa,120,1802,-18 %
+Skytvej 2 6280 Højer,2,400000.0,07-05-2013,Alm.,3333,4,Villa,120,1827,
+Søndergade 6 6280 Højer,6,145000.0,29-04-2013,Alm.,1367,4,Villa,106,1900,0 %
+Vadehavsvej 8 6280 Højer,8,463000.0,26-03-2013,Alm.,6256,3,Sommerhus,74,2005,
+Nørremarken 2 6280 Højer,2,320000.0,13-03-2013,Andet,2162,4,Villa,148,1979,
+Nørreager 21 6280 Højer,21,885000.0,27-02-2013,Alm.,5601,6,Villa,158,1985,-11 %
+Prilen 22 6280 Højer,22,775000.0,22-02-2013,Alm.,4144,5,Villa,187,1965,-6 %
+Sejerslevvej 35 6280 Højer,35,950000.0,03-12-2012,Alm.,5080,6,Villa,187,1850,-4 %
+Søndergade 7 6280 Højer,7,364667.0,30-11-2012,Alm.,3540,8,Villa,103,1898,
+Sønderbygade 11 6280 Højer,11,950000.0,16-11-2012,Alm.,6129,4,Villa,155,1910,-27 %
+Vadehavsvej 4 6280 Højer,4,790000.0,12-11-2012,Auktion,10675,3,Sommerhus,74,2005,
+Møllegade 6 6280 Højer,6,150000.0,06-11-2012,Alm.,1948,2,Villa,77,1785,
+Østerbyvej 34 6280 Højer,34,165000.0,26-10-2012,Alm.,1434,4,Villa,115,1956,-34 %
+Sejerslevvej 63 6280 Højer,63,225000.0,26-10-2012,Alm.,1406,5,Villa,160,1927,-25 %
+Kovej 11 6280 Højer,11,387500.0,22-10-2012,Alm.,2618,6,Villa,148,1907,
+Agertoften 2 6280 Højer,2,850000.0,02-10-2012,Alm.,7083,3,Villa,120,1976,
+Sejerslevvej 30 6280 Højer,30,142500.0,17-09-2012,Auktion,1140,4,Villa,125,1937,
+Tøndervej 1 6280 Højer,1,1250000.0,27-08-2012,Alm.,4629,10,Stuehus,270,1875,-13 %
+Kogsbøl-Ladegårdvej 2 6280 Højer,2,16122200.0,18-07-2012,Alm.,64488,10,Stuehus,250,1830,
+Sejerslevvej 51 6280 Højer,51,475000.0,15-07-2012,Alm.,4318,3,Villa,110,1770,-20 %
+Nørrevej 23 6280 Højer,23,500000.0,10-07-2012,Alm.,1930,6,Villa,259,1900,-14 %
+Duborgvej 5A 6280 Højer,0,650000.0,21-06-2012,Alm.,5327,3,Villa,122,1850,
+Ved Gaden 15 6280 Højer,15,590000.0,18-06-2012,Fam.,4682,5,Villa,126,1800,
+Kærgårdvej 1 6280 Højer,1,450000.0,18-06-2012,Alm.,3813,3,Villa,118,1942,
+Emmerlevvej 6 6280 Højer,6,550000.0,22-05-2012,Alm.,2894,6,Villa,190,1913,-19 %
+Nørregade 16 6280 Højer,16,200000.0,22-04-2012,Alm.,2469,6,Villa,81,1892,
+Nørrehedevej 13 6280 Højer,13,189000.0,14-04-2012,Alm.,1968,5,Villa,96,1842,
+Nørrehedevej 23 6280 Højer,23,799000.0,12-04-2012,Alm.,4488,6,Villa,178,1865,0 %
+Nørrevej 26 6280 Højer,26,378000.0,22-03-2012,Alm.,3150,7,Villa,120,1951,
+Kirkevej 1 6280 Højer,1,1475000.0,19-03-2012,Alm.,5363,8,Villa,275,1851,-5 %
+Kannikhusvej 3 6280 Højer,3,5900000.0,26-02-2012,Fam.,47580,6,Stuehus,124,1962,
+Kanalvej 2 6280 Højer,2,775000.0,07-02-2012,Alm.,4258,7,Villa,182,1944,-6 %
+Klintvej 1 6280 Højer,1,350000.0,28-01-2012,Alm.,1923,7,Villa,182,1969,-49 %
+Hjerpstedvej 11 6280 Højer,11,400000.0,27-01-2012,Alm.,2857,4,Villa,140,1902,-27 %
+Kogsbølvej 2 6280 Højer,2,3480000.0,25-01-2012,Alm.,21219,5,Stuehus,164,1977,
+Siltoftvej 9 6280 Højer,9,1100000.0,24-01-2012,Alm.,6586,6,Villa,167,1923,-25 %
+Stationsvej 1 6280 Højer,1,750000.0,11-01-2012,Alm.,4807,7,Villa,156,1929,-6 %
+Nørrehedevej 11 6280 Højer,11,61250.0,08-01-2012,Alm.,775,3,Villa,79,1845,
+Søndergade 27 6280 Højer,27,2376572.0,21-12-2011,Alm.,6601,12,Kollegium,360,1997,
+Klintvej 3 6280 Højer,3,530000.0,25-11-2011,Alm.,2944,6,Villa,180,1970,
+Nylandsvej 2 6280 Højer,2,190000.0,24-11-2011,Alm.,950,7,Villa,200,1797,
+Kannikhusvej 10 6280 Højer,10,850000.0,14-11-2011,Alm.,6967,4,Stuehus,122,1962,-5 %
+Sejerslevvej 27 6280 Højer,27,220000.0,08-11-2011,Alm.,1419,4,Villa,155,1847,-20 %
+Vesterkobbel 9 6280 Højer,9,765000.0,01-11-2011,Alm.,6270,4,Villa,122,1977,0 %
+Kobbervold 2 6280 Højer,2,1809000.0,27-10-2011,Alm.,16445,5,Stuehus,110,1900,
+Kovej 1 6280 Højer,1,480000.0,26-10-2011,Alm.,6857,3,Villa,70,1910,-3 %
+Emmerlev Klev 5 6280 Højer,5,302600.0,22-10-2011,Fam.,7565,2,Sommerhus,40,1958,
+Østerende 18 6280 Højer,18,734721.0,19-10-2011,Alm.,4150,5,Villa,177,2015,
+Vadehavsvej 34 6280 Højer,34,900000.0,11-10-2011,Alm.,12162,3,Sommerhus,74,2005,
+Sønderbygade 3 6280 Højer,3,385000.0,10-10-2011,Alm.,4325,3,Villa,89,1900,
+Stampemøllevej 4 6280 Højer,4,3243000.0,07-10-2011,Alm.,24946,5,Stuehus,130,1969,
+Klostergade 2 6280 Højer,2,250000.0,26-09-2011,Andet,2272,2,Villa,110,1876,
+Byvej 27 6280 Højer,27,1550000.0,16-09-2011,Alm.,6054,5,Villa,256,1972,-9 %
+Søndervej 14 6280 Højer,14,110000.0,15-08-2011,Auktion,1000,2,Villa,110,1886,-78 %
+Kathale 2 6280 Højer,2,449000.0,09-07-2011,Alm.,4276,4,Stuehus,105,1756,
+Emmerlevvej 11 6280 Højer,11,400000.0,05-07-2011,Alm.,4040,1,Villa,99,1677,0 %
+Nylandsvej 10 6280 Højer,10,850000.0,27-06-2011,Alm.,4250,5,Villa,200,1965,
+Nørrevej 75 6280 Højer,75,830000.0,24-06-2011,Fam.,4970,5,Villa,167,1912,
+Nørreled 3 6280 Højer,3,51100.0,20-06-2011,Alm.,350,5,Villa,146,2012,
+Ballumvej 44 6280 Højer,44,430000.0,18-06-2011,Alm.,3233,4,Villa,133,1946,-28 %
+Stampemøllevej 5 6280 Højer,5,368311.0,16-06-2011,Auktion,2593,3,Villa,142,1941,
+Sejerslevvej 14 6280 Højer,14,950000.0,11-06-2011,Alm.,2905,8,Villa,327,1911,-5 %
+Nørregade 50 6280 Højer,50,233262.0,17-05-2011,Alm.,1740,5,Villa,134,1870,
+Nørreled 1 6280 Højer,1,987500.0,08-05-2011,Alm.,6810,4,Villa,145,2004,-1 %
+Nylandsvej 12 6280 Højer,12,510000.0,26-04-2011,Alm.,6071,2,Villa,84,1865,
+Ballumvej 84 6280 Højer,84,1045000.0,09-04-2011,Alm.,8100,7,Stuehus,129,1801,0 %
+Emmerlev Klev 17 6280 Højer,17,741300.0,06-04-2011,Fam.,11404,4,Sommerhus,65,1935,
+Emmerlev Klev 6 6280 Højer,6,1805572.0,24-03-2011,Alm.,10030,9,Stuehus,180,1801,
+Højervej 36 6280 Højer,36,40000.0,14-03-2011,Auktion,210,7,Rækkehus,190,1886,
+Sejerslevvej 33 6280 Højer,33,250000.0,03-03-2011,Alm.,1811,5,Villa,138,1937,-23 %
+Nørreager 19 6280 Højer,19,1250000.0,03-03-2011,Alm.,7142,5,Villa,175,2001,-7 %
+Ballumvej 46 6280 Højer,46,730000.0,15-02-2011,Fam.,5840,4,Villa,125,1946,
+Højer Dige 3 6280 Højer,3,1048000.0,13-01-2011,Alm.,6238,5,Stuehus,168,1939,-4 %
+Duborgvej 4 6280 Højer,4,2725000.0,14-12-2010,Fam.,21975,4,Stuehus,124,1905,
+Strandvej 21 6280 Højer,21,585000.0,01-11-2010,Alm.,5366,4,Villa,109,1929,-10 %
+Østergade 4 6280 Højer,4,977106.0,26-10-2010,Fam.,4720,6,Villa,207,1727,-48 %
+Kirstine Svendsdattervej 10 6280 Højer,10,620000.0,12-10-2010,Alm.,1163,9,Villa,533,1890,
+Ballumvej 7 6280 Højer,7,760000.0,29-09-2010,Alm.,8351,7,Servicevirksomhed,91,1925,-35 %
+"Storegade 10B, 1 6280 Højer",1,450000.0,22-09-2010,Alm.,4891,3,Lejlighed,92,1878,-33 %
+Østerbyvej 9 6280 Højer,9,688631.0,07-09-2010,Alm.,4250,4,Villa,162,1893,-56 %
+Nørrevej 12 6280 Højer,12,815000.0,27-08-2010,Alm.,6082,4,Villa,134,1965,-4 %
+Østerende 1 6280 Højer,1,773500.0,12-08-2010,Fam.,2907,10,BygningTilHandel,266,1827,
+Stampemøllevej 1 6280 Højer,1,381500.0,11-08-2010,Alm.,7064,2,Sommerhus,54,1948,-1 %
+Emmerlev Klev 3 6280 Højer,3,1295000.0,30-06-2010,Alm.,27553,3,Sommerhus,47,1934,0 %
+Ny Møllevej 8 6280 Højer,8,200000.0,22-06-2010,Fam.,2500,2,Villa,80,1958,
+Siltoftvej 2 6280 Højer,2,1250000.0,21-06-2010,Andet,5434,29,Stuehus,230,1880,
+Sejerslevvej 85 6280 Højer,85,214236.0,17-06-2010,Alm.,357,14,Stuehus,600,1905,
+Sejerslevvej 89 6280 Højer,89,3516142.0,17-06-2010,Alm.,20929,5,Stuehus,168,1850,
+Stampemøllevej 9 6280 Højer,9,960000.0,12-06-2010,Alm.,0,5,Villa,216,1937,-4 %
+Agertoften 5 6280 Højer,5,770000.0,04-06-2010,Alm.,6209,4,Villa,124,1977,-3 %
+Sejerslevvej 93 6280 Højer,93,992000.0,14-05-2010,Alm.,7936,3,Rækkehus,125,1880,-9 %
+Sejerslevvej 65 6280 Højer,65,150000.0,05-05-2010,Alm.,612,9,Stuehus,245,1802,
+Klintvej 11 6280 Højer,11,830000.0,01-05-2010,Alm.,0,5,Villa,196,1973,-7 %
+Ballumvej 82 6280 Højer,82,550000.0,18-04-2010,Alm.,4508,3,Villa,122,1953,0 %
+Nørregade 23 6280 Højer,23,325000.0,16-04-2010,Alm.,1511,5,Villa,215,1906,-59 %
+Sejerslevvej 8 6280 Højer,8,806973.0,07-04-2010,Alm.,5107,4,Villa,158,1928,
+Østerbyvej 13 6280 Højer,13,1295000.0,31-03-2010,Alm.,6108,6,Villa,212,1932,0 %
+Tøndervej 5 6280 Højer,5,900000.0,23-03-2010,Fam.,6569,5,Stuehus,137,1937,
+Nørrebyen 15 6280 Højer,15,560849.0,02-03-2010,Fam.,3338,5,Stuehus,168,1845,
+Gærupvej 1 6280 Højer,1,400000.0,15-02-2010,Alm.,4347,3,Villa,92,1961,-18 %
+Skolegade 4 6280 Højer,4,600000.0,11-02-2010,Alm.,8333,3,Villa,72,1850,-6 %
+Østergade 5 6280 Højer,5,267000.0,01-02-2010,Alm.,2567,5,Villa,104,1878,
+Ballumvej 28 6280 Højer,28,685000.0,22-01-2010,Alm.,5269,5,Villa,130,1956,
+Storegade 29 6280 Højer,29,255000.0,18-01-2010,Alm.,1746,5,Villa,146,1896,-22 %
+Sønderhedevej 10 6280 Højer,10,1855000.0,07-01-2010,Alm.,6022,9,Stuehus,308,1912,
+Havnevej 2 6280 Højer,2,710000.0,18-12-2009,Alm.,6228,3,Anden beboelse,114,1917,
+A R Kjærbysvej 11 6280 Højer,11,171250.0,19-11-2009,Alm.,973,6,Villa,176,2010,
+Nørregade 48 6280 Højer,48,290000.0,12-11-2009,Alm.,2871,6,Villa,101,1880,-11 %
+Ved Gaden 5 6280 Højer,5,640000.0,09-11-2009,Alm.,4000,5,Stuehus,160,1828,
+Sejerslevvej 73 6280 Højer,73,90000.0,22-10-2009,Auktion,825,4,Villa,109,1827,
+Siltoftvej 30 6280 Højer,30,450000.0,28-09-2009,Alm.,5625,3,Villa,80,1952,
+Siltoftvej 3 6280 Højer,3,730000.0,25-09-2009,Alm.,3560,6,Villa,205,1877,-14 %
+Sejerslevvej 91 6280 Højer,91,560000.0,15-09-2009,Alm.,4666,4,Villa,120,1860,-6 %
+Nørremarken 14 6280 Højer,14,930000.0,03-09-2009,Alm.,6326,5,Villa,147,1980,-6 %
+Engsvinget 1 6280 Højer,1,1400000.0,26-08-2009,Alm.,4666,5,Villa,300,1848,-12 %
+Hvedemarken 17 6280 Højer,17,745000.0,10-07-2009,Alm.,4570,4,Villa,163,1977,-15 %
+Margrethevej 1 6280 Højer,1,810000.0,06-07-2009,Alm.,5328,4,Villa,152,1973,
+Nørremølle 10 6280 Højer,10,760000.0,02-07-2009,Alm.,8444,4,Stuehus,90,1909,-4 %
+Ballumvej 81 6280 Højer,81,575000.0,26-06-2009,Alm.,5750,3,Villa,100,1960,
+Tøndervej 2 6280 Højer,2,660000.0,10-06-2009,Alm.,4647,6,Villa,142,1966,-17 %
+Møllegade 3 6280 Højer,3,500000.0,06-06-2009,Andet,7692,4,Rækkehus,65,1777,
+Buen 7 6280 Højer,7,690000.0,28-05-2009,Alm.,4859,6,Villa,142,1964,-10 %
+Nørregade 11 6280 Højer,11,480000.0,20-05-2009,Alm.,3750,3,Villa,128,1800,0 %
+Strandvej 7 6280 Højer,7,330000.0,16-04-2009,Fam.,3113,4,Villa,106,1938,
+Mellemgade 4 6280 Højer,4,1350000.0,17-03-2009,Alm.,6683,9,Villa,202,1924,-10 %
+Østerbyvej 17 6280 Højer,17,1215000.0,16-03-2009,Alm.,4418,7,Villa,275,1931,
+Nørremølle 6 6280 Højer,6,755000.0,23-02-2009,Alm.,6508,3,Villa,116,1928,-11 %
+Ved Gamle Dige 6 6280 Højer,6,7450000.0,27-01-2009,Andet,76020,3,Villa,98,1963,
+Siltoftvej 16 6280 Højer,16,300000.0,27-01-2009,Alm.,2419,4,Villa,124,1958,
+Nørregade 14 6280 Højer,14,430000.0,11-11-2008,Alm.,3981,4,Villa,108,1900,0 %
+Tøndervej 13 6280 Højer,13,8040000.0,04-11-2008,Auktion,57428,5,Stuehus,140,1934,
+Gærupvej 1A 6280 Højer,0,245000.0,17-10-2008,Alm.,6447,2,Villa,38,1964,-29 %
+Hjerpstedvej 14 6280 Højer,14,350000.0,07-10-2008,Alm.,3888,4,Villa,90,1939,-7 %
+Emmerlevvej 15 6280 Højer,15,1250000.0,28-09-2008,Alm.,4901,7,Villa,255,1700,-7 %
+Herbergsgade 1 6280 Højer,1,800000.0,25-09-2008,Alm.,6451,4,Villa,124,1931,-6 %
+Nørrehedevej 7 6280 Højer,7,450000.0,18-09-2008,Alm.,6000,3,Villa,75,1877,
+Vesterled 12 6280 Højer,12,560000.0,12-09-2008,Alm.,9333,5,Villa,60,1800,-7 %
+Emmerlevvej 31 6280 Højer,31,525000.0,26-08-2008,Alm.,4133,3,Villa,127,1947,-9 %
+Sønderbyvej 15 6280 Højer,15,260000.0,22-08-2008,Alm.,2321,3,Villa,112,1792,-20 %
+Kannikhusvej 14 6280 Højer,14,835000.0,20-08-2008,Alm.,4638,4,Villa,180,2010,0 %
+Torvegade 1 6280 Højer,1,321533.0,13-08-2008,Andet,3215,4,Villa,100,1850,
+Østerbyvej 44 6280 Højer,44,1795000.0,08-08-2008,Alm.,14360,4,Villa,125,1949,0 %
+Sejerslevvej 43 6280 Højer,43,500000.0,14-07-2008,Alm.,4672,4,Villa,107,1800,
+Nylandsvej 3 6280 Højer,3,530000.0,11-07-2008,Alm.,3509,5,Villa,151,1878,-4 %
+Byvej 17 6280 Højer,17,460017.0,11-06-2008,Alm.,6389,3,Villa,72,1820,
+Siltoftvej 8 6280 Højer,8,1520000.0,06-06-2008,Alm.,6386,8,Villa,238,1952,
+Nørregade 24 6280 Højer,24,350000.0,22-05-2008,Fam.,2991,5,Villa,117,1860,
+Kanalvej 8 6280 Højer,8,775000.0,21-05-2008,Alm.,7828,4,Villa,99,1861,-3 %
+Ny Møllevej 2 6280 Højer,2,390000.0,21-05-2008,Alm.,3513,3,Villa,111,1951,-12 %
+Søndervej 16 6280 Højer,16,600000.0,21-05-2008,Alm.,7058,3,Stuehus,85,1753,-14 %
+Højervej 7 6280 Højer,7,250000.0,20-05-2008,Fam.,1953,4,Villa,128,1948,
+Rudbølvej 1 6280 Højer,1,3000000.0,19-05-2008,Fam.,11111,5,Villa,270,1878,-24 %
+Nørremølle 7 6280 Højer,7,900000.0,06-05-2008,Alm.,6428,5,Villa,140,1925,
+Kannikhusvej 8 6280 Højer,8,6109500.0,15-04-2008,Fam.,58745,5,Stuehus,104,1963,
+Nørregade 46 6280 Højer,46,100000.0,15-04-2008,Alm.,1136,2,Villa,88,1825,
+Frifelt 2 6280 Højer,2,550000.0,15-04-2008,Alm.,5339,4,Villa,103,1950,-4 %
+Stampemøllevej 13 6280 Højer,13,1700000.0,31-03-2008,Fam.,9189,5,Stuehus,185,1934,
+Nylandsvej 8 6280 Højer,8,810000.0,25-03-2008,Alm.,6694,4,Villa,121,1870,-4 %
+Nørreager 15 6280 Højer,15,700000.0,11-03-2008,Alm.,6481,3,Villa,108,1986,
+Agertoften 1 6280 Højer,1,970000.0,03-03-2008,Alm.,5187,5,Villa,187,1976,-3 %
+Sejerslevvej 29 6280 Højer,29,400000.0,25-02-2008,Fam.,2777,5,Villa,144,1969,
+Nørrevej 76 6280 Højer,76,408000.0,19-02-2008,Fam.,2632,6,Villa,155,1960,
+Klintvej 17 6280 Højer,17,930000.0,07-02-2008,Alm.,5027,7,Villa,185,1971,-5 %
+Søndervej 12 6280 Højer,12,290000.0,07-02-2008,Fam.,2929,3,Villa,99,1967,
+Siltoftvej 13 6280 Højer,13,600000.0,29-01-2008,Alm.,4878,3,Stuehus,123,1970,
+Højervej 24 6280 Højer,24,550000.0,20-12-2007,Alm.,4867,4,Villa,113,1954,
+Emmerlevvej 35 6280 Højer,35,650000.0,12-12-2007,Alm.,3186,5,Villa,204,1787,
+Siltoftvej 36 6280 Højer,36,600000.0,11-12-2007,Alm.,4109,5,Stuehus,146,1908,
+Vesterende 9 6280 Højer,9,1100000.0,06-12-2007,Alm.,6432,6,Villa,171,1977,
+Nørrevej 7 6280 Højer,7,395000.0,22-10-2007,Alm.,5808,3,Villa,68,1777,0 %
+Slusevej 7 6280 Højer,7,550000.0,21-10-2007,Alm.,4782,4,Villa,115,1973,
+Storegade 12 6280 Højer,12,450000.0,18-10-2007,Fam.,3461,5,Villa,130,1870,
+Rudbølvej 26 6280 Højer,26,650000.0,18-10-2007,Fam.,6132,5,Villa,106,1870,
+Emmerlevvej 19 6280 Højer,19,630000.0,27-09-2007,Alm.,9130,2,Villa,69,1890,
+Sejerslevvej 7 6280 Højer,7,680000.0,27-09-2007,Alm.,2821,7,Villa,241,1938,
+Sønderbyvej 23 6280 Højer,23,1919200.0,25-09-2007,Alm.,9139,7,Stuehus,210,1850,
+Præstevænget 22 6280 Højer,22,845000.0,14-09-2007,Alm.,5382,4,Villa,157,1979,
+Østerbyvej 14 6280 Højer,14,715000.0,17-08-2007,Alm.,5143,5,Villa,139,1978,
+Kovej 3 6280 Højer,3,375000.0,16-08-2007,Alm.,5136,2,Villa,73,1877,
+Nørremarken 13 6280 Højer,13,615000.0,05-08-2007,Alm.,4804,4,Villa,128,1980,
+Prilen 30 6280 Højer,30,695000.0,30-07-2007,Alm.,6619,4,Villa,105,1969,
+Tøndervej 12 6280 Højer,12,435000.0,23-07-2007,Alm.,4103,5,Villa,106,1956,-13 %
+"Kovej 2, 1 6280 Højer",1,1041113.0,23-07-2007,Alm.,3203,8,Villa,325,1939,
+Kolkvej 4 6280 Højer,4,600000.0,12-07-2007,Alm.,4347,5,Stuehus,138,1935,
+Engsvinget 2 6280 Højer,2,450000.0,11-07-2007,Alm.,3103,5,Villa,145,1880,
+Herbergsgade 3 6280 Højer,3,132000.0,06-07-2007,Alm.,830,7,Villa,159,1900,
+Ballumvej 18 6280 Højer,18,500000.0,05-07-2007,Alm.,4545,5,Villa,110,1937,
+Nørrebyen 4 6280 Højer,4,550000.0,04-07-2007,Alm.,4044,4,Villa,136,1967,
+Nørremarken 6 6280 Højer,6,1350000.0,19-06-2007,Alm.,7803,5,Villa,173,1979,-7 %
+Kærengvej 4 6280 Højer,4,625000.0,19-06-2007,Alm.,5208,5,Stuehus,120,1750,-4 %
+Ved Gaden 6 6280 Højer,6,500000.0,09-06-2007,Alm.,4273,4,Villa,117,1922,
+Højervej 1 6280 Højer,1,1000000.0,04-06-2007,Alm.,5494,6,Stuehus,182,1950,
+Højervej 32 6280 Højer,32,385000.0,04-06-2007,Alm.,3737,3,Villa,103,1962,
+Storegade 32 6280 Højer,32,562500.0,01-06-2007,Alm.,5625,5,Villa,100,1708,
+Rudbølvej 30 6280 Højer,30,870000.0,01-06-2007,Alm.,7565,3,Villa,115,1700,
+Præstevænget 21 6280 Højer,21,690000.0,25-05-2007,Alm.,5476,5,Villa,126,1979,-3 %
+Sejerslevvej 1 6280 Højer,1,296849.0,25-05-2007,Andet,2800,4,Villa,106,1950,
+Højervej 16A 6280 Højer,0,5549201.0,25-05-2007,Andet,29206,7,Villa,190,1870,
+Højervej 14 6280 Højer,14,476431.0,25-05-2007,Andet,7940,6,Ukendt,60,1870,
+Højervej 22 6280 Højer,22,239367.0,25-05-2007,Andet,3108,4,Villa,77,1956,
+Nørregade 28 6280 Højer,28,800000.0,15-05-2007,Alm.,4571,4,Villa,175,1900,
+Østerende 5 6280 Højer,5,300000.0,03-04-2007,Alm.,3896,2,Villa,77,1871,
+Højervej 3 6280 Højer,3,1600000.0,29-03-2007,Alm.,40000,3,Ukendt,40,1920,
+Sønderbyvej 19 6280 Højer,19,2393475.0,23-03-2007,Alm.,7847,9,Stuehus,305,1864,
+Siltoftvej 22 6280 Højer,22,400000.0,22-03-2007,Alm.,4210,4,Villa,95,1957,
+Nørregade 25 6280 Højer,25,1200000.0,20-03-2007,Alm.,8333,6,Villa,144,1870,
+Hemvej 2 6280 Højer,2,396793.0,20-03-2007,Fam.,5511,3,Villa,72,1790,
+Ballumvej 48 6280 Højer,48,400000.0,20-03-2007,Alm.,2898,6,Villa,138,1947,-16 %
+Nørregade 34 6280 Højer,34,760000.0,16-03-2007,Alm.,3781,4,Villa,201,1937,-8 %
+Møgeltøndervej 7 6280 Højer,7,485000.0,12-03-2007,Alm.,5639,3,Villa,86,1954,
+Torvet 8 6280 Højer,8,750033.0,04-03-2007,Alm.,5474,6,Villa,137,1790,
+Nørrehedevej 4 6280 Højer,4,1550000.0,28-02-2007,Alm.,8378,6,Stuehus,185,1857,
+Nørrehedevej 15 6280 Højer,15,153000.0,19-02-2007,Fam.,1530,4,Villa,100,1880,
+Sejerslevvej 56 6280 Højer,56,800000.0,19-02-2007,Alm.,7207,5,Stuehus,111,1916,
+Østergade 9 6280 Højer,9,710000.0,02-02-2007,Alm.,3678,5,Villa,193,1857,
+Vestervang 6 6280 Højer,6,875000.0,26-01-2007,Alm.,7172,5,Villa,122,1977,
+Skippergade 2 6280 Højer,2,200000.0,24-01-2007,Alm.,3333,3,Villa,60,1901,
+Kirstine Svendsdattervej 1 6280 Højer,1,585000.0,19-01-2007,Alm.,0,5,Villa,201,1900,
+Højervej 42 6280 Højer,42,2750000.0,21-12-2006,Fam.,13285,6,Stuehus,207,1750,
+Rosenborgvej 2 6280 Højer,2,6977000.0,20-12-2006,Alm.,51681,7,Stuehus,135,1909,
+Klostervej 4 6280 Højer,4,494708.0,15-12-2006,Alm.,2893,5,Stuehus,171,1777,
+Nørregade 38 6280 Højer,38,825000.0,01-12-2006,Alm.,2304,8,Villa,358,1902,
+Ved Gaden 3 6280 Højer,3,925000.0,01-12-2006,Alm.,4111,8,Stuehus,225,1907,
+Byvej 13 6280 Højer,13,625000.0,26-11-2006,Alm.,2500,6,Villa,250,1870,
+Nørregade 15 6280 Højer,15,795000.0,10-10-2006,Alm.,4818,5,Villa,165,1927,
+Østermarkvej 3 6280 Højer,3,375000.0,10-10-2006,Alm.,3989,4,Villa,94,1951,
+Ballumvej 38 6280 Højer,38,375000.0,05-10-2006,Alm.,3865,4,Villa,97,1945,
+Ved Gaden 1 6280 Højer,1,8000000.0,03-10-2006,Alm.,32128,12,Stuehus,249,1970,
+Vestervang 1 6280 Højer,1,700000.0,15-09-2006,Alm.,6086,4,Villa,115,1977,
+Vestervang 4 6280 Højer,4,820000.0,05-09-2006,Alm.,4939,5,Villa,166,1979,
+Sønderbygade 2 6280 Højer,2,450000.0,29-08-2006,Alm.,8181,3,Sommerhus,55,1910,
+Nørrebyen 11 6280 Højer,11,12000000.0,22-08-2006,Alm.,57142,5,Stuehus,210,1898,
+Sejerslevvej 16 6280 Højer,16,795000.0,21-08-2006,Alm.,4704,4,Villa,169,1800,
+Søndervej 3 6280 Højer,3,315000.0,25-07-2006,Alm.,1789,4,Sommerhus,176,1900,
+Rudbølvej 7 6280 Højer,7,755000.0,20-07-2006,Alm.,9437,4,Villa,80,1870,
+Nørremølle 9 6280 Højer,9,490000.0,15-07-2006,Alm.,2899,6,Villa,169,1739,
+Vestkystvej 1 6280 Højer,1,2800000.0,13-07-2006,Alm.,9150,7,Villa,306,1825,
+Sejerslevvej 37 6280 Højer,37,395000.0,12-07-2006,Fam.,4388,5,Villa,90,1850,
+Sejerslevvej 31 6280 Højer,31,595000.0,05-07-2006,Alm.,4722,4,Villa,126,1876,
+Klintvej 19 6280 Højer,19,810000.0,30-06-2006,Alm.,5785,4,Villa,140,1972,
+Præstevænget 16 6280 Højer,16,475000.0,29-06-2006,Alm.,3958,3,Villa,120,1976,
+Emmerlevvej 34 6280 Højer,34,90000.0,17-06-2006,Alm.,1250,5,Villa,72,1910,
+Slusevej 19 6280 Højer,19,1025000.0,10-06-2006,Alm.,6743,6,Villa,152,1942,
+Ballumvej 17 6280 Højer,17,455000.0,14-05-2006,Alm.,1552,9,Villa,293,1961,
+Vesterende 4 6280 Højer,4,1100000.0,10-05-2006,Alm.,5670,6,Villa,194,1977,
+Præstevænget 3 6280 Højer,3,650000.0,24-04-2006,Alm.,4710,4,Villa,138,1975,
+Hjerpstedvej 16 6280 Højer,16,1600000.0,23-04-2006,Alm.,9523,4,Stuehus,168,1929,
+Ballumvej 83 6280 Højer,83,650000.0,07-04-2006,Fam.,5603,4,Villa,116,1960,
+Strandvej 8 6280 Højer,8,1098000.0,14-03-2006,Alm.,7842,6,Villa,140,1933,
+Sejerslevvej 32B 6280 Højer,0,160000.0,09-03-2006,Andet,692,9,Anden beboelse,231,1912,
+Slusevej 4 6280 Højer,4,840000.0,08-03-2006,Alm.,6829,7,Villa,123,1973,
+Østerbyvej 15 6280 Højer,15,1145000.0,08-03-2006,Alm.,6396,4,Villa,179,1931,
+Østerbyvej 52 6280 Højer,52,750000.0,03-03-2006,Alm.,3488,7,Villa,215,1912,
+Nørrevej 20 6280 Højer,20,352547.0,02-02-2006,Andet,2797,3,Villa,126,1961,
+Ballumvej 32 6280 Højer,32,468000.0,14-01-2006,Alm.,4254,4,Villa,110,1957,
+Nørreager 9 6280 Højer,9,840000.0,18-12-2005,Alm.,5753,4,Villa,146,1979,
+Præstevænget 2 6280 Højer,2,640000.0,08-12-2005,Alm.,5245,5,Villa,122,1976,
+Tøndervej 6 6280 Højer,6,600000.0,01-12-2005,Alm.,4347,5,Villa,138,1969,
+Rudbølvej 18 6280 Højer,18,498000.0,25-11-2005,Alm.,5081,4,Villa,98,1958,
+Nørrehedevej 9 6280 Højer,9,220000.0,12-11-2005,Alm.,1913,4,Stuehus,115,1877,
+Rudbølvej 8 6280 Højer,8,1716250.0,08-11-2005,Fam.,17162,4,Stuehus,100,1850,
+Nørrevej 73 6280 Højer,73,600000.0,30-10-2005,Alm.,4724,3,Villa,127,1959,
+Nørregade 7 6280 Højer,7,935000.0,20-10-2005,Alm.,6192,7,Villa,151,1898,
+Gærupvej 2 6280 Højer,2,355000.0,12-10-2005,Alm.,1888,6,Villa,188,1958,
+Kolkvej 3 6280 Højer,3,675000.0,05-10-2005,Alm.,7031,4,Stuehus,96,1876,
+Banegårdsgade 1 6280 Højer,1,550000.0,03-10-2005,Alm.,2750,6,Villa,200,1903,
+Møgeltøndervej 11 6280 Højer,11,507000.0,26-09-2005,Alm.,3091,6,Villa,164,1973,
+Rudbølvej 6 6280 Højer,6,475000.0,15-09-2005,Alm.,1637,6,Villa,290,1923,
+Postgade 12 6280 Højer,12,330000.0,14-09-2005,Alm.,1907,6,Villa,173,1870,
+Strandvej 2 6280 Højer,2,956000.0,08-09-2005,Alm.,5112,8,Villa,187,1757,
+Højervej 46 6280 Højer,46,150000.0,07-09-2005,Fam.,1304,4,Villa,115,1936,
+Vesterled 6 6280 Højer,6,855000.0,30-08-2005,Fam.,4275,9,Stuehus,200,1800,
+Gærupvej 11 6280 Højer,11,500000.0,25-08-2005,Alm.,3968,7,Stuehus,126,1896,
+Vadehavsvej 6 6280 Højer,6,1250000.0,24-08-2005,Alm.,16891,3,Sommerhus,74,2005,
+Hjerpstedvej 15 6280 Højer,15,525000.0,19-08-2005,Alm.,3697,4,Villa,142,1872,
+Vadehavsvej 18 6280 Højer,18,1150000.0,15-08-2005,Alm.,15540,3,Sommerhus,74,2005,
+Vadehavsvej 20 6280 Højer,20,1150000.0,15-08-2005,Alm.,15540,3,Sommerhus,74,2005,
+Sejerslevvej 77 6280 Højer,77,3650000.0,10-08-2005,Alm.,40555,4,Villa,90,1953,
+Østerbyvej 16 6280 Højer,16,200000.0,29-06-2005,Alm.,873,4,Villa,229,1790,
+Kanalvej 12 6280 Højer,12,1491680.0,14-06-2005,Alm.,17758,2,Villa,84,1877,
+Sønderbyvej 11 6280 Højer,11,320000.0,09-06-2005,Alm.,1904,4,Villa,168,1850,
+Østerbyvej 11 6280 Højer,11,65000.0,19-05-2005,Alm.,416,4,Stuehus,156,1870,
+Vadehavsvej 10 6280 Højer,10,1250000.0,14-05-2005,Alm.,16891,3,Sommerhus,74,2005,
+Højervej 34 6280 Højer,34,725000.0,12-05-2005,Alm.,4769,5,Villa,152,1975,
+Østerbyvej 42 6280 Højer,42,65000.0,02-05-2005,Alm.,541,3,Stuehus,120,1932,
+Østerbyvej 26 6280 Højer,26,850000.0,29-04-2005,Alm.,5312,5,Villa,160,1858,
+Nørrevej 13 6280 Højer,13,250000.0,26-04-2005,Alm.,1250,6,Villa,200,1900,
+Nygade 2 6280 Højer,2,485000.0,18-04-2005,Alm.,4330,5,Villa,112,1935,
+Møllegade 5 6280 Højer,5,548000.0,16-04-2005,Alm.,8562,3,Rækkehus,64,1790,
+Kærgårdvej 2 6280 Højer,2,1366111.0,03-04-2005,Alm.,4568,11,Stuehus,299,1980,
+Østervej 3 6280 Højer,3,631218.0,03-04-2005,Alm.,2963,3,Stuehus,213,1870,
+Vadehavsvej 2 6280 Højer,2,1250000.0,29-03-2005,Alm.,16025,3,Sommerhus,78,2005,
+Gærupvej 15 6280 Højer,15,170000.0,25-03-2005,Alm.,2361,3,Villa,72,1900,
+Hemvej 12 6280 Højer,12,8000.0,21-03-2005,Auktion,90,4,Villa,88,1860,
+Rudbølvej 17 6280 Højer,17,135000.0,12-03-2005,Alm.,402,9,Villa,335,1880,
+Præstevænget 7 6280 Højer,7,815000.0,07-03-2005,Alm.,4075,6,Villa,200,2013,
+Sønderbygade 7 6280 Højer,7,1047016.0,04-03-2005,Alm.,5132,6,Villa,204,1868,
+Vadehavsvej 16 6280 Højer,16,1250000.0,10-02-2005,Alm.,16891,3,Sommerhus,74,2005,
+Vadehavsvej 24 6280 Højer,24,1250000.0,10-02-2005,Alm.,16891,3,Sommerhus,74,2005,
+Vadehavsvej 26 6280 Højer,26,1250000.0,03-02-2005,Alm.,16891,3,Sommerhus,74,2005,
+Vadehavsvej 28 6280 Højer,28,1250000.0,02-02-2005,Alm.,16891,3,Sommerhus,74,2005,
+Vadehavsvej 14 6280 Højer,14,1250000.0,01-02-2005,Alm.,16891,3,Sommerhus,74,2005,
+Sejerslevvej 107 6280 Højer,107,395000.0,01-02-2005,Alm.,4388,3,Villa,90,1843,
+Søndergade 10 6280 Højer,10,710000.0,26-01-2005,Alm.,4409,6,Villa,161,1825,
+Nørregade 36 6280 Højer,36,800000.0,23-01-2005,Alm.,2777,13,Villa,288,1906,
+Vadehavsvej 30 6280 Højer,30,1250000.0,30-12-2004,Alm.,16891,3,Sommerhus,74,2005,
+Rudbølvej 5 6280 Højer,5,570000.0,20-12-2004,Alm.,4042,5,Villa,141,1850,
+Vadehavsvej 36 6280 Højer,36,1250000.0,13-12-2004,Alm.,16025,3,Sommerhus,78,2005,
+Slusevej 23 6280 Højer,23,600000.0,26-11-2004,Fam.,6122,3,Villa,98,1957,
+Hvedemarken 10 6280 Højer,10,473000.0,24-11-2004,Alm.,4826,3,Villa,98,1975,
+Klostergade 3 6280 Højer,3,212500.0,18-11-2004,Fam.,2213,3,Villa,96,1877,
+Emmerlev Klev 2 6280 Højer,2,650000.0,11-11-2004,Alm.,4362,5,Villa,149,1873,
+Siltoftvej 48 6280 Højer,48,2699647.0,11-11-2004,Fam.,18240,5,Stuehus,148,1926,
+Galgevej 3 6280 Højer,3,845500.0,29-10-2004,Alm.,6503,5,Stuehus,130,1964,
+Søndervej 4 6280 Højer,4,595000.0,28-10-2004,Alm.,8263,3,Villa,72,1878,
+Højervej 5 6280 Højer,5,190000.0,25-10-2004,Alm.,1727,6,Villa,110,1946,
+Klintvej 2 6280 Højer,2,540000.0,15-10-2004,Alm.,4285,4,Villa,126,1969,
+Kovej 15 6280 Højer,15,374000.0,14-10-2004,Fam.,2239,6,Villa,167,1905,
+Nørrehedevej 25 6280 Højer,25,2700000.0,02-09-2004,Alm.,28421,5,Stuehus,95,1939,
+Østerende 7 6280 Højer,7,100000.0,16-06-2004,Alm.,1333,3,Villa,75,1907,
+Gærupvej 16 6280 Højer,16,420722.0,11-06-2004,Fam.,3005,4,Stuehus,140,1675,
+Emmerlev Klev 11 6280 Højer,11,710000.0,10-06-2004,Alm.,16904,3,Sommerhus,42,1930,
+Hvedemarken 23 6280 Højer,23,595000.0,28-05-2004,Alm.,4440,4,Villa,134,1976,
+Havnevej 6 6280 Højer,6,350000.0,04-05-2004,Alm.,3333,2,Villa,105,1954,
+Postgade 3 6280 Højer,3,400000.0,28-04-2004,Alm.,2580,5,Villa,155,1900,
+Digevej 7 6280 Højer,7,315000.0,24-04-2004,Alm.,3937,3,Villa,80,1912,
+Herbergsgade 5 6280 Højer,5,235000.0,21-04-2004,Alm.,2061,6,Villa,114,1867,
+Gærupvej 19 6280 Højer,19,100000.0,13-04-2004,Alm.,1666,2,Villa,60,1948,
+Ved Gamle Dige 3 6280 Højer,3,800000.0,10-04-2004,Alm.,3149,8,Villa,254,1940,
+Frifelt 4 6280 Højer,4,393000.0,18-03-2004,Alm.,3707,3,Villa,106,1964,
+Lille Møllevej 4 6280 Højer,4,300000.0,01-03-2004,Alm.,3333,3,Villa,90,1831,
+Prilen 36 6280 Højer,36,540000.0,09-02-2004,Alm.,3600,6,Villa,150,1969,
+Emmerlevvej 24 6280 Højer,24,325000.0,04-02-2004,Alm.,3611,3,Villa,90,1965,
+Hvedemarken 9 6280 Højer,9,560000.0,13-01-2004,Alm.,4516,4,Villa,124,1975,
+Torvet 1 6280 Højer,1,1100000.0,26-11-2003,Alm.,3013,11,Villa,365,1777,
+Søndervej 5 6280 Højer,5,201000.0,17-11-2003,Auktion,948,6,Villa,212,2012,
+Nørregade 42 6280 Højer,42,172068.0,14-11-2003,Alm.,2000,3,Villa,86,1825,
+Nørregade 22 6280 Højer,22,375000.0,11-11-2003,Alm.,3571,3,Villa,105,1807,
+Nørrebyen 7 6280 Højer,7,610000.0,05-11-2003,Alm.,3860,3,Villa,158,1793,
+Mellemgade 6 6280 Højer,6,425000.0,03-11-2003,Alm.,1486,7,Villa,286,1897,
+Vesterkær 8 6280 Højer,8,1050000.0,16-10-2003,Alm.,6140,6,Villa,171,1999,
+Duborgvej 5B 6280 Højer,0,750000.0,14-10-2003,Fam.,2798,6,Villa,268,1980,
+Kanalvej 16 6280 Højer,16,740000.0,10-10-2003,Alm.,6607,3,Villa,112,1775,
+Hvedemarken 1 6280 Højer,1,750000.0,08-10-2003,Alm.,4166,5,Villa,180,1974,
+Ballumvej 30 6280 Højer,30,520000.0,29-09-2003,Alm.,6117,3,Villa,85,1951,
+Siltoftvej 38 6280 Højer,38,480000.0,26-09-2003,Alm.,3200,3,Villa,150,1906,
+Præstevænget 5 6280 Højer,5,900000.0,08-09-2003,Fam.,4663,5,Villa,193,1976,
+Prilen 1 6280 Højer,1,750000.0,05-08-2003,Alm.,4010,5,Villa,187,1955,
+Kirstine Svendsdattervej 5 6280 Højer,5,320000.0,14-07-2003,Alm.,4571,3,Villa,70,1900,
+Præstevænget 1 6280 Højer,1,660000.0,08-07-2003,Alm.,4177,5,Villa,158,1974,
+Sønderbyvej 13 6280 Højer,13,340000.0,30-06-2003,Alm.,3953,3,Villa,86,1800,
+Siltoftvej 46 6280 Højer,46,34000.0,30-06-2003,Alm.,425,3,Villa,80,1913,
+Sejerslevvej 67 6280 Højer,67,312000.0,20-06-2003,Alm.,3391,3,Villa,92,1922,
+Hvedemarken 4 6280 Højer,4,680000.0,16-06-2003,Alm.,5483,4,Villa,124,1976,
+Højvej 1 6280 Højer,1,995000.0,11-06-2003,Alm.,5527,4,Villa,180,1846,
+Vestervang 3 6280 Højer,3,870000.0,06-06-2003,Alm.,5028,5,Villa,173,1977,
+Kovej 19 6280 Højer,19,225000.0,05-06-2003,Alm.,1771,5,Villa,127,1898,
+Slusevej 9 6280 Højer,9,630000.0,02-06-2003,Alm.,5206,5,Villa,121,1952,
+Frifelt 3 6280 Højer,3,295000.0,02-06-2003,Alm.,3172,3,Villa,93,1950,
+Sejerslevvej 103 6280 Højer,103,500000.0,26-05-2003,Alm.,2127,7,Villa,235,1860,
+Søndervej 1 6280 Højer,1,400000.0,02-05-2003,Alm.,2877,4,Villa,139,1800,
+Nørregade 27 6280 Højer,27,256480.0,30-04-2003,Alm.,2249,6,Villa,114,1850,
+Sønderhedevej 4 6280 Højer,4,350000.0,29-03-2003,Alm.,2536,3,Villa,138,1950,
+Nørremarken 9 6280 Højer,9,820000.0,27-03-2003,Alm.,5503,5,Villa,149,1978,
+Ballumvej 20 6280 Højer,20,440000.0,26-03-2003,Alm.,3606,4,Villa,122,1926,
+Nørregade 3 6280 Højer,3,188475.0,13-03-2003,Alm.,1983,2,Villa,95,1827,
+Sejerslevvej 11 6280 Højer,11,390000.0,13-03-2003,Alm.,3545,3,Villa,110,1868,
+Nylandsvej 4 6280 Højer,4,295831.0,03-03-2003,Andet,1661,4,Villa,178,1778,
+Østerende 15 6280 Højer,15,470000.0,17-02-2003,Alm.,2061,10,Villa,228,1800,
+Galgevej 2 6280 Højer,2,415000.0,13-02-2003,Alm.,1660,7,Villa,250,1954,
+Emmerlevvej 22 6280 Højer,22,405000.0,20-12-2002,Fam.,3616,5,Villa,112,1933,
+Ballumvej 77 6280 Højer,77,1500000.0,20-12-2002,Alm.,9259,4,Stuehus,162,1903,
+Kogsbølvej 3 6280 Højer,3,180000.0,17-12-2002,Alm.,2727,3,Villa,66,1852,
+Ballumvej 29 6280 Højer,29,625000.0,25-10-2002,Alm.,6250,5,Villa,100,1952,
+Nørremarken 23 6280 Højer,23,500000.0,23-10-2002,Alm.,3311,5,Villa,151,1979,
+Søndervej 18 6280 Højer,18,255000.0,16-09-2002,Fam.,2276,4,Villa,112,1868,
+Nørreled 9 6280 Højer,9,68775.0,13-09-2002,Alm.,414,5,Villa,166,2003,
+Sejerslevvej 53 6280 Højer,53,300000.0,09-09-2002,Alm.,949,7,Villa,316,1952,
+Sejerslevvej 13 6280 Højer,13,280000.0,06-09-2002,Alm.,3500,1,Rækkehus,80,1800,
+Duborgvej 7 6280 Højer,7,253204.0,01-08-2002,Alm.,1507,6,Ukendt,168,1850,
+Frifelt 6 6280 Højer,6,670000.0,12-07-2002,Alm.,5403,6,Villa,124,1950,
+Sønderbyvej 1 6280 Højer,1,245000.0,01-07-2002,Alm.,1828,3,Villa,134,1800,
+Rudbølvej 14 6280 Højer,14,380000.0,20-06-2002,Alm.,3958,4,Villa,96,1800,
+Klintvej 21 6280 Højer,21,710000.0,12-06-2002,Alm.,4580,4,Villa,155,1974,
+Margrethevej 5 6280 Højer,5,154810.0,28-05-2002,Alm.,927,5,Villa,167,2002,
+Vestkystvej 7 6280 Højer,7,500000.0,03-05-2002,Alm.,3597,5,Villa,139,2012,
+Ballumvej 22 6280 Højer,22,734430.0,25-03-2002,Alm.,4648,5,Villa,158,1972,
+Gærupvej 23 6280 Højer,23,815000.0,23-03-2002,Alm.,5821,5,Stuehus,140,1952,
+Stampemøllevej 7 6280 Højer,7,475000.0,11-03-2002,Alm.,3598,4,Villa,132,1942,
+Østerbyvej 1 6280 Højer,1,255000.0,08-03-2002,Alm.,1677,4,Villa,152,1902,
+Nørremølle 8 6280 Højer,8,714000.0,06-03-2002,Fam.,2756,8,Stuehus,259,2001,
+Hjerpstedvej 24 6280 Højer,24,323000.0,18-12-2001,Fam.,2083,3,Sommerhus,155,1870,
+Skiffervej 2 6280 Højer,2,450000.0,18-12-2001,Alm.,16071,1,Villa,28,1000,
+Søndervej 2 6280 Højer,2,1251732.0,13-12-2001,Alm.,6076,4,Villa,206,2010,
+Strandvej 27 6280 Højer,27,335000.0,31-10-2001,Alm.,2863,4,Villa,117,1929,
+Nørreager 7 6280 Højer,7,665544.0,29-10-2001,Alm.,5324,5,Villa,125,1979,
+Nørremølle 5 6280 Højer,5,420303.0,27-10-2001,Alm.,2457,5,Villa,171,1877,
+Præstevænget 6 6280 Højer,6,635000.0,10-10-2001,Alm.,4440,4,Villa,143,1984,
+Østerbyvej 24 6280 Højer,24,515000.0,26-09-2001,Alm.,3433,5,Villa,150,1912,
+Ved Gamle Dige 1 6280 Højer,1,1163000.0,29-08-2001,Alm.,3739,9,Villa,311,1922,
+Klintvej 16 6280 Højer,16,850000.0,20-08-2001,Alm.,4271,6,Villa,199,1972,
+Nørregade 2 6280 Højer,2,536497.0,14-08-2001,Alm.,3311,6,Villa,162,1923,
+Sejerslevvej 2A 6280 Højer,0,275000.0,13-08-2001,Alm.,1122,7,Villa,245,1900,
+Østerbyvej 4 6280 Højer,4,615000.0,06-08-2001,Alm.,5125,5,Villa,120,1967,
+Nørrehedevej 3 6280 Højer,3,750000.0,01-08-2001,Fam.,5208,4,Villa,144,1850,
+Vesterende 2 6280 Højer,2,895000.0,23-07-2001,Alm.,4637,5,Villa,193,1977,
+Kanalvej 14 6280 Højer,14,642500.0,20-06-2001,Alm.,4312,5,Villa,149,1820,
+Østerende 9 6280 Højer,9,352000.0,01-06-2001,Alm.,2410,3,Villa,146,1906,
+Rudbølvej 2 6280 Højer,2,480000.0,25-05-2001,Alm.,3720,4,Villa,129,1812,
+Østermarkvej 5 6280 Højer,5,360000.0,18-05-2001,Fam.,2222,8,Villa,162,1953,
+Stationsvej 4 6280 Højer,4,25000.0,15-05-2001,Alm.,132,5,Sommerhus,189,1910,
+Agertoften 9 6280 Højer,9,860000.0,04-05-2001,Alm.,6142,4,Villa,140,1975,
+Ved Gaden 4 6280 Højer,4,7500000.0,21-03-2001,Alm.,45454,7,Stuehus,165,1950,
+Rudbølvej 50 6280 Højer,50,310000.0,21-03-2001,Fam.,1937,5,Villa,160,1907,
+Nylandsvej 15 6280 Højer,15,425000.0,14-03-2001,Fam.,3794,3,Villa,112,1957,
+Kærgårdvej 9 6280 Højer,9,400000.0,05-03-2001,Alm.,2631,6,Villa,152,1800,
+Skytvej 8 6280 Højer,8,550000.0,21-02-2001,Alm.,6875,4,Villa,80,1700,
+Ternholm 5 6280 Højer,5,400000.0,13-02-2001,Alm.,2702,6,Villa,148,1968,
+Nørremølle 4 6280 Højer,4,600000.0,12-12-2000,Alm.,8333,3,Sommerhus,72,1929,
+Nørremarken 27 6280 Højer,27,564231.0,10-12-2000,Andet,4408,4,Villa,128,1980,
+Vesterled 4 6280 Højer,4,405000.0,17-10-2000,Auktion,2341,4,Villa,173,1941,
+Nørremølle 14 6280 Højer,14,868000.0,04-10-2000,Alm.,3586,6,Villa,242,1928,
+Præstevænget 4 6280 Højer,4,635000.0,21-09-2000,Alm.,4568,3,Villa,139,1975,
+Prilen 3 6280 Højer,3,393000.0,15-09-2000,Alm.,5038,3,Villa,78,1950,
+Rudbølvej 10 6280 Højer,10,150000.0,07-09-2000,Alm.,777,8,Villa,193,1922,
+Gærupvej 27 6280 Højer,27,1250000.0,29-08-2000,Alm.,7440,6,Stuehus,168,1955,
+Ternholm 1 6280 Højer,1,795000.0,22-08-2000,Alm.,5408,5,Villa,147,1967,
+Nørrevej 6 6280 Højer,6,205000.0,13-07-2000,Alm.,2050,5,Villa,100,1957,
+Klintvej 13 6280 Højer,13,936910.0,03-07-2000,Alm.,4378,8,Villa,214,1970,
+Klintvej 23 6280 Højer,23,625000.0,28-06-2000,Alm.,4734,4,Villa,132,1970,
+Gærupvej 12 6280 Højer,12,114300.0,26-06-2000,Alm.,1256,4,Villa,91,1900,
+Østerbyvej 50 6280 Højer,50,640000.0,26-06-2000,Alm.,4050,5,Villa,158,1935,
+Emmerlev Klev 18 6280 Højer,18,150000.0,23-06-2000,Alm.,3000,2,Sommerhus,50,2015,
+Sejerslevvej 25 6280 Højer,25,575000.0,22-06-2000,Alm.,3304,6,Villa,174,1926,
+Ballumvej 21 6280 Højer,21,330000.0,19-06-2000,Alm.,3367,3,Villa,98,1910,
+Rudbølvej 48 6280 Højer,48,1142000.0,06-06-2000,Fam.,5287,3,Villa,216,1800,
+Margrethevej 3 6280 Højer,3,900000.0,06-05-2000,Alm.,4500,6,Villa,200,1972,
+Østerbyvej 5 6280 Højer,5,235000.0,04-05-2000,Alm.,1850,6,Villa,127,1935,
+Vrågård 1 6280 Højer,1,398000.0,09-03-2000,Alm.,3158,4,Villa,126,1900,
+Emmerlevvej 28 6280 Højer,28,562038.0,07-03-2000,Alm.,3071,7,Villa,183,1913,
+Strandvej 17 6280 Højer,17,350000.0,23-02-2000,Alm.,2258,5,Villa,155,1912,
+Nørremarken 7 6280 Højer,7,910000.0,18-02-2000,Alm.,4666,6,Villa,195,1979,
+Sønderhedevej 8 6280 Højer,8,483751.0,03-12-1999,Alm.,3336,4,Villa,145,1930,
+Strandmeden 2 6280 Højer,2,560000.0,11-11-1999,Alm.,4028,4,Villa,139,1965,
+Nørregade 1C 6280 Højer,0,490000.0,10-11-1999,Alm.,3223,5,Villa,152,1961,
+Nørremølle 2 6280 Højer,2,340000.0,01-11-1999,Alm.,1837,5,Villa,185,1922,
+Toldgade 4 6280 Højer,4,350000.0,29-10-1999,Alm.,3365,4,Villa,104,1897,
+Sejerslevvej 20 6280 Højer,20,285000.0,11-10-1999,Alm.,3392,3,Villa,84,1777,
+Mellemgade 8 6280 Højer,8,671000.0,08-10-1999,Alm.,3257,6,Villa,206,1850,
+Kanalvej 18 6280 Højer,18,4078719.0,23-09-1999,Fam.,25491,3,Stuehus,160,1974,
+Hvedemarken 2 6280 Højer,2,905000.0,17-09-1999,Alm.,4918,6,Villa,184,1974,
+Kogsbølvej 5 6280 Højer,5,570135.0,06-09-1999,Alm.,1657,10,Villa,344,2009,
+Nørregade 20 6280 Højer,20,263800.0,28-07-1999,Alm.,0,3,Villa,80,1900,
+Storegade 31 6280 Højer,31,321986.0,09-07-1999,Alm.,2874,4,Villa,112,1900,
+Postgade 8 6280 Højer,8,120000.0,29-06-1999,Alm.,888,4,Villa,135,1825,
+Slusevej 17 6280 Højer,17,550000.0,28-06-1999,Fam.,3666,5,Villa,150,1972,
+Nørrevej 37 6280 Højer,37,500650.0,29-05-1999,Alm.,3973,7,Villa,126,1917,
+Gærupvej 5 6280 Højer,5,345000.0,11-05-1999,Alm.,4367,5,Villa,79,1600,
+Nørrehedevej 29 6280 Højer,29,750000.0,07-05-1999,Alm.,7894,4,Villa,95,1954,
+Rudbølvej 20 6280 Højer,20,490000.0,21-04-1999,Alm.,4454,3,Villa,110,1870,
+Rudbølvej 23 6280 Højer,23,625000.0,21-04-1999,Alm.,3955,7,Villa,158,1870,
+Rudbølvej 28 6280 Højer,28,650000.0,21-04-1999,Alm.,4513,5,Villa,144,1900,
+Højervej 30 6280 Højer,30,300000.0,08-04-1999,Alm.,3703,4,Villa,81,1959,
+Østergade 18 6280 Højer,18,130000.0,23-03-1999,Alm.,434,10,Villa,299,1700,
+Østermarkvej 1 6280 Højer,1,400000.0,09-03-1999,Alm.,1581,10,Villa,253,1941,
+Nørreager 17 6280 Højer,17,654000.0,04-02-1999,Alm.,5274,3,Villa,124,1981,
+Kirkevej 4 6280 Højer,4,419000.0,15-01-1999,Alm.,2033,6,Villa,206,1888,
+Nørreager 11 6280 Højer,11,685000.0,14-01-1999,Alm.,5074,5,Villa,135,1979,
+Byvej 10 6280 Højer,10,400000.0,17-12-1998,Fam.,2597,5,Stuehus,154,1891,
+Byvej 16 6280 Højer,16,2760000.0,17-12-1998,Fam.,11500,8,Stuehus,240,1780,
+Nørregade 29 6280 Højer,29,470000.0,28-11-1998,Alm.,3051,7,Villa,154,1910,
+Ballumvej 4 6280 Højer,4,465000.0,10-11-1998,Alm.,2657,6,Villa,175,1895,
+Sønderbyvej 9 6280 Højer,9,260000.0,06-11-1998,Alm.,3095,3,Villa,84,1900,
+Højervej 8 6280 Højer,8,876724.0,02-11-1998,Alm.,3811,5,Villa,230,1998,
+Kobbervold 1 6280 Højer,1,3523000.0,29-10-1998,Alm.,13655,12,Stuehus,258,1884,
+Nørrevej 4 6280 Højer,4,385000.0,27-10-1998,Alm.,2532,5,Villa,152,1932,
+Højervej 17 6280 Højer,17,252009.0,19-10-1998,Alm.,1016,7,Stuehus,248,1856,
+Ballumvej 13 6280 Højer,13,223339.0,01-10-1998,Alm.,2147,6,Villa,104,1912,
+Rudbølvej 4 6280 Højer,4,415000.0,30-09-1998,Alm.,1852,8,Villa,224,1882,
+Højervej 9 6280 Højer,9,350000.0,25-09-1998,Alm.,2692,6,Villa,130,1877,
+Sønderhedevej 9 6280 Højer,9,272000.0,18-09-1998,Alm.,3090,3,Villa,88,1958,
+Poppenbølvej 2 6280 Højer,2,655460.0,08-09-1998,Alm.,3810,6,Stuehus,172,1928,
+Gærupvej 14 6280 Højer,14,174752.0,04-08-1998,Alm.,1196,4,Villa,146,1903,
+Nørremarken 5 6280 Højer,5,680000.0,29-07-1998,Alm.,4594,5,Villa,148,1979,
+Gærupvej 4 6280 Højer,4,184000.0,13-05-1998,Alm.,1769,4,Villa,104,1889,
+Sejerslevvej 45 6280 Højer,45,440000.0,12-05-1998,Fam.,3055,5,Villa,144,1854,
+Sejerslevvej 19 6280 Højer,19,286000.0,07-05-1998,Alm.,2508,6,Villa,114,1951,
+Sønderbyvej 5 6280 Højer,5,600000.0,06-05-1998,Alm.,2898,7,Villa,207,1933,
+Gærupvej 31 6280 Højer,31,750000.0,24-04-1998,Alm.,5905,5,Stuehus,127,1959,
+Nørremarken 18 6280 Højer,18,520000.0,22-03-1998,Alm.,4297,4,Villa,121,1980,
+Rosenborgvej 4 6280 Højer,4,380000.0,16-03-1998,Alm.,2375,6,Stuehus,160,1940,
+Digevej 3 6280 Højer,3,250000.0,10-03-1998,Alm.,2336,5,Villa,107,1900,
+Kathale 4 6280 Højer,4,219000.0,28-02-1998,Alm.,901,5,Stuehus,243,1900,
+Vesterled 8 6280 Højer,8,405000.0,25-02-1998,Alm.,1947,5,Stuehus,208,1890,
+Nørremarken 29 6280 Højer,29,795000.0,10-02-1998,Alm.,6115,5,Villa,130,1985,
+Emmerlevvej 17 6280 Højer,17,338000.0,22-01-1998,Alm.,2125,5,Stuehus,159,1862,
+Nørrevej 100 6280 Højer,100,700000.0,19-01-1998,Alm.,5600,4,Stuehus,125,1938,
+Emmerlevvej 26 6280 Højer,26,850000.0,25-11-1997,Alm.,2982,10,Stuehus,285,1908,
+Hjerpstedvej 3 6280 Højer,3,205000.0,25-11-1997,Alm.,2009,5,Villa,102,1900,
+Sønderhedevej 15 6280 Højer,15,605000.0,01-11-1997,Alm.,4583,5,Stuehus,132,1928,
+Byvej 6 6280 Højer,6,375000.0,20-10-1997,Alm.,3865,4,Villa,97,1820,
+Postgade 7 6280 Højer,7,300000.0,07-10-1997,Fam.,1428,4,Villa,210,1880,
+Kathale 3 6280 Højer,3,489000.0,20-09-1997,Alm.,2928,6,Villa,167,1720,
+Kannikhusvej 12 6280 Højer,12,336726.0,04-09-1997,Alm.,2494,3,Stuehus,135,1930,
+Højervej 15 6280 Højer,15,674819.0,01-09-1997,Alm.,1682,13,Stuehus,401,1885,
+Strandvej 6 6280 Højer,6,298887.0,21-08-1997,Alm.,2532,3,Villa,118,1975,
+Vestertoft 4 6280 Højer,4,570000.0,15-08-1997,Alm.,4384,5,Villa,130,1978,
+Frifelt 8 6280 Højer,8,138000.0,11-08-1997,Fam.,2816,2,Villa,49,1951,
+Østerbyvej 54 6280 Højer,54,225000.0,10-08-1997,Alm.,2319,5,Villa,97,1920,
+Nørrevej 15 6280 Højer,15,380000.0,30-07-1997,Alm.,3275,5,Villa,116,1850,
+Østerbyvej 21 6280 Højer,21,1406000.0,23-07-1997,Fam.,4087,10,Stuehus,344,1912,
+Ballumvej 16 6280 Højer,16,475000.0,02-07-1997,Alm.,3084,6,Villa,154,1937,
+Nørreager 6 6280 Højer,6,790000.0,24-06-1997,Alm.,4463,4,Villa,177,1980,
+Kolkvej 1 6280 Højer,1,250000.0,21-06-1997,Fam.,2192,4,Villa,114,1790,
+Kanalvej 6 6280 Højer,6,175000.0,03-06-1997,Alm.,1562,5,Villa,112,1820,
+Ballumvej 12 6280 Højer,12,280000.0,26-05-1997,Alm.,2153,4,Villa,130,1926,
+Søndervej 8 6280 Højer,8,388000.0,14-05-1997,Alm.,3730,4,Villa,104,1810,
+Hjerpstedvej 7 6280 Højer,7,5343918.0,05-05-1997,Fam.,11133,11,Stuehus,480,1907,
+Nørregade 1A 6280 Højer,0,1000000.0,30-04-1997,Alm.,13698,5,Ukendt,73,1958,
+Gærupvej 25 6280 Højer,25,1750000.0,27-04-1997,Fam.,9459,6,Stuehus,185,1961,
+Kirstine Svendsdattervej 3 6280 Højer,3,266000.0,21-04-1997,Alm.,2533,4,Villa,105,1950,
+Nørremølle 11 6280 Højer,11,517000.0,05-04-1997,Alm.,3692,5,Stuehus,140,1737,
+Hvedemarken 5 6280 Højer,5,483000.0,24-03-1997,Alm.,0,6,Villa,145,1976,
+Ved Gaden 9 6280 Højer,9,20000.0,19-02-1997,Alm.,117,5,Villa,170,2004,
+Nørrehedevej 17 6280 Højer,17,50000.0,11-02-1997,Alm.,400,3,Stuehus,125,1888,
+Kærengvej 2 6280 Højer,2,451500.0,24-01-1997,Fam.,2494,5,Stuehus,181,1875,
+Nørrebyen 6 6280 Højer,6,1408000.0,24-01-1997,Fam.,6400,8,Stuehus,220,1912,
+Emmerlevvej 33 6280 Højer,33,600000.0,20-01-1997,Fam.,4444,7,Villa,135,1843,
+Nørremarken 16 6280 Højer,16,770000.0,03-01-1997,Alm.,5384,5,Villa,143,1985,
+Postgade 10 6280 Højer,10,298000.0,28-12-1996,Alm.,3170,4,Villa,94,1875,
+Højer Dige 2 6280 Højer,2,200000.0,20-12-1996,Alm.,995,6,Villa,201,2001,
+Postgade 11 6280 Højer,11,280000.0,28-10-1996,Alm.,3010,4,Villa,93,1860,
+Nørrehedevej 27 6280 Højer,27,858453.0,14-10-1996,Alm.,0,6,Stuehus,181,1953,
+Østerbyvej 56 6280 Højer,56,122185.0,27-08-1996,Alm.,977,4,Villa,125,1960,
+Siltoftvej 7 6280 Højer,7,401000.0,26-08-1996,Alm.,2045,7,Villa,196,1902,
+Lystvej 1 6280 Højer,1,388000.0,16-08-1996,Alm.,3919,4,Villa,99,1887,
+Hemvej 8 6280 Højer,8,380000.0,16-08-1996,Alm.,2054,7,Villa,185,1845,
+Klintvej 4 6280 Højer,4,750000.0,12-08-1996,Alm.,4166,5,Villa,180,1971,
+Torvegade 3 6280 Højer,3,450000.0,12-08-1996,Alm.,2528,6,Villa,178,1935,
+Sejerslevvej 22 6280 Højer,22,120000.0,05-08-1996,Alm.,784,4,Villa,153,1777,
+Skolegade 13 6280 Højer,13,451000.0,27-07-1996,Alm.,1544,8,Lejlighed,292,1855,
+Vestertoft 6 6280 Højer,6,24000.0,23-07-1996,Alm.,181,4,Villa,132,1996,
+Vestertoft 3 6280 Højer,3,527000.0,09-07-1996,Alm.,3992,5,Villa,132,1977,
+Østergade 7 6280 Højer,7,210000.0,22-05-1996,Alm.,2763,3,Villa,76,1855,
+Nørregade 6 6280 Højer,6,310000.0,09-04-1996,Alm.,3875,2,Rækkehus,80,1875,
+Emmerlevvej 10 6280 Højer,10,44000.0,19-03-1996,Alm.,275,5,Stuehus,160,1925,
+Strandvej 9 6280 Højer,9,80000.0,14-02-1996,Alm.,808,4,Villa,99,1907,
+Hjerpstedvej 28 6280 Højer,28,187000.0,17-01-1996,Fam.,2337,3,Villa,80,1960,
+Vestertoft 1 6280 Højer,1,505632.0,10-01-1996,Alm.,3830,5,Villa,132,1977,
+Kærgårdvej 11 6280 Højer,11,1062500.0,02-01-1996,Fam.,6724,6,Stuehus,158,1954,
+Nørreager 2 6280 Højer,2,400000.0,29-12-1995,Alm.,3508,4,Villa,114,1977,
+Søndergade 9 6280 Højer,9,205000.0,27-11-1995,Fam.,2928,3,Stuehus,70,1777,
+Postgade 9 6280 Højer,9,366000.0,25-11-1995,Alm.,1220,10,Villa,300,1877,
+Ved Gamle Dige 8 6280 Højer,8,745000.0,15-11-1995,Alm.,3386,6,Villa,220,1974,
+Sejerslevvej 87 6280 Højer,87,582000.0,11-09-1995,Alm.,5388,3,Villa,108,1847,
+Peter Jessensvej 3 6280 Højer,3,199000.0,11-09-1995,Fam.,1363,4,Villa,146,1870,
+Højmarksvej 2 6280 Højer,2,200000.0,24-08-1995,Alm.,1538,3,Stuehus,130,1844,
+Østerbyvej 6 6280 Højer,6,400000.0,07-08-1995,Alm.,2453,5,Villa,163,1800,
+Byvej 9 6280 Højer,9,250000.0,20-07-1995,Fam.,1677,3,Villa,149,1827,
+Sejerslevvej 71 6280 Højer,71,175000.0,06-07-1995,Alm.,2651,2,Villa,66,1972,
+Storegade 27 6280 Højer,27,365000.0,17-05-1995,Alm.,2147,7,Villa,170,1862,
+Højervej 12 6280 Højer,12,510000.0,11-05-1995,Alm.,3923,12,Villa,130,1896,
+Nylandsvej 1 6280 Højer,1,1131958.0,04-04-1995,Fam.,7074,5,Stuehus,160,1963,
+Strandvej 11 6280 Højer,11,380000.0,25-03-1995,Alm.,2835,3,Villa,134,1932,
+Lyst 4 6280 Højer,4,307350.0,24-03-1995,Fam.,0,8,Stuehus,215,1965,
+Postgade 5 6280 Højer,5,94438.0,10-03-1995,Alm.,761,5,Villa,124,1887,
+Gærupvej 29 6280 Højer,29,1465000.0,14-02-1995,Alm.,7252,4,Stuehus,202,1955,
+Siltoftvej 14 6280 Højer,14,432300.0,13-02-1995,Alm.,4503,6,Villa,96,1958,
+Højmarksvej 3 6280 Højer,3,3107658.0,13-02-1995,Fam.,12283,7,Stuehus,253,1967,
+Sejerslevvej 42 6280 Højer,42,642000.0,07-01-1995,Alm.,3668,8,Villa,175,1865,
+Sejerslevvej 12 6280 Højer,12,250750.0,22-12-1994,Alm.,2786,4,Villa,90,1973,
+Sejerslevvej 46 6280 Højer,46,140000.0,19-12-1994,Alm.,1272,4,Villa,110,1940,
+Nylandsvej 14 6280 Højer,14,275000.0,12-12-1994,Fam.,2165,5,Villa,127,1953,
+Nørremarken 8 6280 Højer,8,505472.0,27-10-1994,Alm.,4043,4,Villa,125,1979,
+Søndergade 21 6280 Højer,21,41475.0,12-10-1994,Alm.,147,26,Undervisning o.l.,282,1905,
+Nygade 5 6280 Højer,5,140000.0,28-09-1994,Alm.,1458,5,Villa,96,1900,
+Kærgårdvej 6 6280 Højer,6,935000.0,28-07-1994,Fam.,11687,5,Stuehus,80,1857,
+Svinget 5 6280 Højer,5,109000.0,01-07-1994,Alm.,1816,3,Villa,60,1900,
+Duborgvej 9 6280 Højer,9,40000.0,29-06-1994,Alm.,264,5,Stuehus,151,1977,
+Tøndervej 10 6280 Højer,10,550000.0,22-06-1994,Alm.,2401,6,Villa,229,1968,
+Ny Møllevej 10 6280 Højer,10,1100000.0,11-05-1994,Fam.,5789,7,Stuehus,190,1762,
+Strandvej 10 6280 Højer,10,350000.0,10-05-1994,Alm.,2651,4,Villa,132,1931,
+Sejerslevvej 47 6280 Højer,47,150000.0,02-05-1994,Alm.,1442,5,Villa,104,1939,
+Linesvej 2 6280 Højer,2,400000.0,14-04-1994,Alm.,2739,7,Villa,146,1954,
+Nørrevej 78 6280 Højer,78,339820.0,16-03-1994,Alm.,3539,2,Villa,96,1962,
+Emmerlevvej 25 6280 Højer,25,2227500.0,11-03-1994,Fam.,13750,7,Stuehus,162,1969,
+Sønderhedevej 2 6280 Højer,2,350000.0,05-02-1994,Alm.,2023,5,Villa,173,1900,
+Rosenborgvej 1 6280 Højer,1,300000.0,16-12-1993,Alm.,2459,3,Villa,122,1967,
+Sejerslevvej 4 6280 Højer,4,350000.0,15-12-1993,Alm.,997,9,Villa,351,1925,
+Emmerlevvej 32 6280 Højer,32,200000.0,06-12-1993,Alm.,649,16,Villa,308,1902,
+Kærgårdvej 3 6280 Højer,3,240000.0,03-12-1993,Alm.,2727,3,Villa,88,1950,
+Lystvej 3 6280 Højer,3,250000.0,31-10-1993,Alm.,1623,6,Villa,154,1860,
+Tøndervej 4 6280 Højer,4,450000.0,29-10-1993,Alm.,3629,4,Villa,124,1967,
+Møllegade 1 6280 Højer,1,37000.0,18-10-1993,Alm.,0,5,Villa,94,1870,
+Gærupvej 17 6280 Højer,17,850000.0,04-10-1993,Alm.,3125,11,Stuehus,272,1902,
+Lystvej 2 6280 Højer,2,325000.0,28-09-1993,Alm.,3532,5,Villa,92,1944,
+Nørrehedevej 37 6280 Højer,37,208000.0,14-09-1993,Fam.,1444,5,Villa,144,1877,
+Sejerslevvej 95 6280 Højer,95,97000.0,23-08-1993,Alm.,776,7,Villa,125,1800,
+Nørrehedevej 31 6280 Højer,31,245000.0,03-05-1993,Alm.,2187,4,Stuehus,112,1953,
+Agertoften 6 6280 Højer,6,510000.0,02-05-1993,Alm.,3090,5,Villa,165,1974,
+Byvej 7 6280 Højer,7,450000.0,27-04-1993,Alm.,3214,4,Villa,140,1848,
+Hjerpstedvej 17 6280 Højer,17,230000.0,13-04-1993,Alm.,0,3,Sommerhus,150,1903,
+Kovej 17 6280 Højer,17,106250.0,01-04-1993,Fam.,957,2,Villa,111,1800,
+Østermarkvej 14 6280 Højer,14,600000.0,31-03-1993,Alm.,1617,11,Villa,371,1986,
+Vesterled 2 6280 Højer,2,95000.0,02-03-1993,Alm.,818,4,Villa,116,1938,
+Sejerslevvej 61 6280 Højer,61,595000.0,02-03-1993,Alm.,3966,6,Stuehus,150,1908,
+Østergade 10 6280 Højer,10,6000.0,24-02-1993,Alm.,39,4,Rækkehus,153,1800,
+Vesterende 7 6280 Højer,7,435000.0,20-02-1993,Alm.,3425,4,Villa,127,1978,
+Aalbækvej 1 6280 Højer,1,880000.0,19-01-1993,Alm.,7586,5,Villa,116,1888,
+Kovej 8 6280 Højer,8,140000.0,11-01-1993,Alm.,1794,4,BygningTilHandel,78,1901,
+Østerbyvej 30 6280 Højer,30,85000.0,18-12-1992,Alm.,361,5,Villa,235,1887,
+Digevej 5 6280 Højer,5,287519.0,12-11-1992,Alm.,1854,5,Villa,155,1955,
+Hemvej 6 6280 Højer,6,150000.0,04-11-1992,Alm.,1401,4,Villa,107,1960,
+Præstevænget 10 6280 Højer,10,285000.0,26-10-1992,Alm.,2159,5,Villa,132,1934,
+Strandvej 19 6280 Højer,19,160000.0,26-10-1992,Alm.,569,6,Villa,281,1926,
+Siltoftvej 44 6280 Højer,44,578000.0,26-10-1992,Fam.,4857,5,Stuehus,119,1950,
+Søndervej 7 6280 Højer,7,440000.0,26-09-1992,Alm.,3283,6,Villa,134,1935,
+Svinget 3 6280 Højer,3,451007.0,20-08-1992,Fam.,1879,6,Villa,240,1900,
+"Søndergade 15, ST. TH 6280 Højer",0,116995.0,25-06-1992,Alm.,823,5,Rækkehus,142,1850,
+"Ballumvej 10, 1 6280 Højer",1,136966.0,08-06-1992,Alm.,1956,3,Lejlighed,70,1925,
+Nørremarken 15 6280 Højer,15,422000.0,26-04-1992,Alm.,3546,4,Villa,119,1980,
+Sejerslevvej 23 6280 Højer,23,250000.0,02-04-1992,Alm.,1428,5,Villa,175,1935,
+Tøndervej 17 6280 Højer,17,595000.0,16-03-1992,Alm.,6197,4,Stuehus,96,1936,
+Nørrevej 3 6280 Højer,3,77200.0,16-03-1992,Fam.,0,2,Villa,94,1724,
+Storegade 4 6280 Højer,4,115000.0,24-02-1992,Alm.,737,6,Villa,156,1878,
+Sønderbyvej 7 6280 Højer,7,200000.0,31-01-1992,Alm.,1117,6,Villa,179,1900,
+Møgeltøndervej 2 6280 Højer,2,328400.0,15-01-1992,Alm.,2052,6,Villa,160,1820,
+Østerbyvej 48 6280 Højer,48,267500.0,03-01-1992,Alm.,2229,3,Stuehus,120,1954,
+Sejerslevvej 18 6280 Højer,18,390000.0,02-01-1992,Alm.,2671,7,Villa,146,1923,

@@ -1,0 +1,742 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Højskolevej 58 4920 Søllested,58,562000.0,19-04-2017,Fam.,3122,5,Villa,180,1969,
+Skodsebøllevej 7 4920 Søllested,7,50000.0,11-04-2017,Alm.,373,4,Villa,134,1910,
+Volshave Skovvej 1 4920 Søllested,1,573050.0,22-03-2017,Alm.,4548,4,Villa,126,1941,
+Skovlængevej 40 4920 Søllested,40,586200.0,15-03-2017,Alm.,8141,3,Villa,72,1777,139 %
+Hovedgaden 33 4920 Søllested,33,370800.0,01-03-2017,Andet,2439,4,Villa,152,1932,
+Bjerreskovvej 11 4920 Søllested,11,15000.0,27-02-2017,Alm.,137,4,Villa,109,1910,
+Skovlængevej 33 4920 Søllested,33,200000.0,07-01-2017,Alm.,1333,5,Villa,150,1915,
+Abedvej 38 4920 Søllested,38,110000.0,13-12-2016,Alm.,1145,2,Villa,96,1850,
+Almindevej 37 4920 Søllested,37,2700000.0,12-12-2016,Alm.,9854,8,Stuehus,274,1928,
+Skovlængevej 24 4920 Søllested,24,130500.0,30-11-2016,Auktion,973,5,Villa,134,1875,-72 %
+Lavendelvej 26 4920 Søllested,26,850000.0,26-10-2016,Alm.,5862,5,Villa,145,1973,
+Hovedgaden 12 4920 Søllested,12,105000.0,25-10-2016,Alm.,820,4,Villa,128,1910,
+Frisenlundvej 7 4920 Søllested,7,875000.0,02-10-2016,Alm.,2521,9,Villa,347,1857,-10 %
+Løjetvej 18 4920 Søllested,18,225000.0,01-10-2016,Fam.,1480,4,Villa,152,1945,
+Vestervej 19 4920 Søllested,19,454300.0,28-09-2016,Auktion,2875,6,Villa,158,1962,
+Kaj Munks Vej 9 4920 Søllested,9,375000.0,19-09-2016,Alm.,3409,4,Sommerhus,110,1777,3 %
+Højreby Husevej 3 4920 Søllested,3,130000.0,14-09-2016,Alm.,1340,3,Villa,97,1935,0 %
+Hovedgaden 71 4920 Søllested,71,200000.0,14-09-2016,Alm.,2020,3,Villa,99,1912,-18 %
+Troelsebyvej 2 4920 Søllested,2,395000.0,16-08-2016,Alm.,2633,5,Villa,150,1827,-7 %
+Volshave Skovvej 3 4920 Søllested,3,57637600.0,20-07-2016,Andet,198067,7,Stuehus,291,1912,
+Troelsebyvej 45 4920 Søllested,45,2100000.0,12-07-2016,Alm.,5250,7,Stuehus,400,1862,
+Almindevej 22 4920 Søllested,22,110000.0,29-06-2016,Alm.,674,5,Villa,163,1925,
+Bellisvej 4 4920 Søllested,4,500000.0,27-06-2016,Alm.,3086,6,Villa,162,1972,
+Ryde Kirkevej 9 4920 Søllested,9,130000.0,24-06-2016,Alm.,1857,3,Villa,70,1935,-10 %
+Abedvej 5 4920 Søllested,5,276250.0,21-06-2016,Fam.,2031,4,Villa,136,1915,
+Simonshovedvej 8 4920 Søllested,8,42183.0,21-06-2016,Fam.,421,3,Villa,100,1930,
+Vestervej 13 4920 Søllested,13,595000.0,20-06-2016,Alm.,4576,5,Villa,130,1963,-14 %
+Strædet 6 4920 Søllested,6,6955000.0,06-06-2016,Alm.,49678,4,Stuehus,140,1900,
+Abedvej 35 4920 Søllested,35,695000.0,27-05-2016,Alm.,3309,7,Villa,210,1929,0 %
+Højskolevej 32 4920 Søllested,32,200000.0,26-05-2016,Alm.,1834,3,Villa,109,1937,-25 %
+Bækkevej 4 4920 Søllested,4,350000.0,25-05-2016,Alm.,2592,5,Villa,135,1961,1 %
+Skodsebøllevej 6 4920 Søllested,6,175000.0,24-05-2016,Alm.,2011,4,Villa,87,1902,-10 %
+Højrebyvej 56 4920 Søllested,56,564625.0,03-05-2016,Alm.,2075,7,Stuehus,272,1913,
+Bjerreskovvej 15 4920 Søllested,15,15000.0,13-04-2016,Alm.,127,5,Sommerhus,118,1897,
+Hovedgaden 6 4920 Søllested,6,620000.0,07-04-2016,Andet,5794,3,Villa,107,1877,
+Korterupvej 20 4920 Søllested,20,500000.0,03-04-2016,Alm.,2439,6,Stuehus,205,1958,
+Højrebygade 11 4920 Søllested,11,350000.0,31-03-2016,Alm.,1944,7,Villa,180,1919,
+Jernbanegade 5 4920 Søllested,5,640000.0,25-03-2016,Alm.,3076,6,Villa,208,1916,-8 %
+Abed Smedevej 7 4920 Søllested,7,135000.0,10-02-2016,Alm.,1588,4,Sommerhus,85,1900,-23 %
+Troelsebyvej 50 4920 Søllested,50,225000.0,09-02-2016,Alm.,1339,5,Villa,168,1863,-55 %
+Skovlængevej 2 4920 Søllested,2,265000.0,02-02-2016,Alm.,1625,3,Villa,163,1946,
+Hovedgaden 43A 4920 Søllested,0,300000.0,18-01-2016,Alm.,2500,4,Villa,120,1962,-13 %
+Søndermarksvej 6 4920 Søllested,6,13269000.0,07-01-2016,Fam.,40702,9,Stuehus,326,1927,
+Almindevej 23 4920 Søllested,23,12744105.0,07-01-2016,Fam.,31007,11,Stuehus,411,1868,
+Brogårdsvej 6 4920 Søllested,6,150000.0,22-12-2015,Alm.,1785,3,Rækkehus,84,1987,-33 %
+Bækkevej 2 4920 Søllested,2,54001.0,16-12-2015,Auktion,509,2,Rækkehus,106,1900,
+Mimosevej 13 4920 Søllested,13,350000.0,24-11-2015,Alm.,2413,4,Villa,145,1972,-11 %
+Stensgårdsvej 4 4920 Søllested,4,200000.0,19-11-2015,Alm.,1388,5,Villa,144,1900,-7 %
+Lavendelvej 19 4920 Søllested,19,575000.0,06-11-2015,Alm.,3993,6,Villa,144,1976,-4 %
+Birkevej 28 4920 Søllested,28,710000.0,05-11-2015,Fam.,5220,5,Villa,136,1972,
+Rødbyvej 24 4920 Søllested,24,450000.0,30-10-2015,Alm.,3214,4,Villa,140,1928,
+Lindevej 24 4920 Søllested,24,475000.0,29-10-2015,Fam.,3653,4,Villa,130,1968,
+Torebyvej 15 4920 Søllested,15,595000.0,28-10-2015,Alm.,3500,6,Sommerhus,170,1800,0 %
+Lavendelvej 18 4920 Søllested,18,550000.0,05-10-2015,Alm.,2401,7,Villa,229,1972,-8 %
+Violvej 6 4920 Søllested,6,285000.0,30-09-2015,Alm.,1815,5,Villa,157,1973,0 %
+Højrebyvej 58 4920 Søllested,58,170000.0,16-09-2015,Alm.,1976,2,Villa,86,1900,13 %
+Nøbbøllevej 8 4920 Søllested,8,150000.0,16-09-2015,Alm.,1315,4,Villa,114,1912,-14 %
+Abedvej 23 4920 Søllested,23,60000.0,04-09-2015,Alm.,625,4,Villa,96,1830,
+Højskolevej 70 4920 Søllested,70,314000.0,04-09-2015,Alm.,3171,5,Villa,99,1887,
+Almindevej 44 4920 Søllested,44,150000.0,13-08-2015,Alm.,882,5,Villa,170,1900,-9 %
+Maribovej 313 4920 Søllested,313,685000.0,17-07-2015,Alm.,5393,5,Villa,127,1777,-1 %
+Gurrebyvej 13 4920 Søllested,13,50000.0,15-07-2015,Alm.,438,3,Villa,114,1900,
+Maribovej 294 4920 Søllested,294,313000.0,07-07-2015,Fam.,1944,6,Villa,161,1877,
+Lindevej 18 4920 Søllested,18,290000.0,02-07-2015,Alm.,2543,4,Villa,114,1963,-3 %
+Anemonevej 4 4920 Søllested,4,489120.0,24-06-2015,Auktion,2928,6,Villa,167,1972,
+Nørredalsvej 1 4920 Søllested,1,420000.0,27-05-2015,Alm.,3206,7,Villa,131,1936,
+Højskolevej 28 4920 Søllested,28,130000.0,21-05-2015,Alm.,1368,4,Villa,95,1932,
+Lavendelvej 1 4920 Søllested,1,599000.0,07-05-2015,Alm.,3839,5,Villa,156,1975,0 %
+Toldbodvej 5 4920 Søllested,5,150000.0,01-05-2015,Alm.,1595,2,Villa,94,1876,
+Anlægsvej 5 4920 Søllested,5,265000.0,17-04-2015,Alm.,1505,7,Villa,176,1900,-4 %
+Troelsebyvej 48 4920 Søllested,48,325000.0,16-04-2015,Alm.,2954,3,Villa,110,1939,
+Løjetvej 23 4920 Søllested,23,230000.0,07-04-2015,Alm.,1575,5,Villa,146,1864,-22 %
+Maribovej 272 4920 Søllested,272,26850.0,20-03-2015,Alm.,323,5,Villa,83,1920,
+Højrebyvej 61 4920 Søllested,61,160000.0,04-03-2015,Alm.,829,6,Villa,193,1941,
+Søllestedgårdvej 28 4920 Søllested,28,250000.0,05-02-2015,Alm.,2450,3,Villa,102,1872,
+Grønningen 20 4920 Søllested,20,650000.0,09-01-2015,Alm.,4140,6,Villa,157,1979,-6 %
+Skodsebøllevej 33 4920 Søllested,33,9113700.0,08-01-2015,Fam.,44241,6,Stuehus,206,1918,
+Rødbyvej 3 4920 Søllested,3,1000000.0,07-01-2015,Alm.,3649,7,Villa,274,1906,-16 %
+Lavendelvej 12 4920 Søllested,12,300000.0,18-12-2014,Alm.,3000,4,Villa,100,1976,-20 %
+Stibankevejen 32 4920 Søllested,32,285000.0,09-12-2014,Alm.,2908,3,Villa,98,1827,0 %
+Almindevej 29 4920 Søllested,29,900000.0,14-11-2014,Alm.,4306,7,Villa,209,1927,-10 %
+Vesterbyvej 2 4920 Søllested,2,140000.0,13-11-2014,Alm.,1728,2,Villa,81,1800,0 %
+Grønningen 19 4920 Søllested,19,375000.0,23-10-2014,Alm.,3750,4,Villa,100,1979,-5 %
+Toreby Sidevej 1 4920 Søllested,1,290000.0,18-10-2014,Alm.,2788,4,Villa,104,1877,-17 %
+Ålstrup Sidevej 5 4920 Søllested,5,510000.0,25-09-2014,Alm.,3053,5,Villa,167,1880,-14 %
+Ryde Møllevej 8 4920 Søllested,8,225000.0,17-09-2014,Alm.,1800,5,Villa,125,1957,0 %
+Højskolevej 17 4920 Søllested,17,225000.0,03-09-2014,Auktion,1285,6,Villa,175,1920,
+Højrebyvej 57 4920 Søllested,57,300000.0,01-09-2014,Alm.,1657,4,Sommerhus,181,1750,-8 %
+Hovedgaden 13 4920 Søllested,13,58000.0,13-08-2014,Auktion,483,4,Villa,120,1912,-80 %
+Violvej 16 4920 Søllested,16,1075000.0,02-08-2014,Alm.,4150,7,Villa,259,1971,-2 %
+Violvej 5 4920 Søllested,5,425000.0,10-07-2014,Alm.,3035,5,Villa,140,1973,-11 %
+Violvej 15 4920 Søllested,15,425000.0,02-07-2014,Auktion,2972,5,Villa,143,1972,
+Rødbyvej 28 4920 Søllested,28,495000.0,26-06-2014,Alm.,5322,3,Villa,93,1928,
+Almindevej 27 4920 Søllested,27,300000.0,22-05-2014,Alm.,1840,4,Villa,163,1930,-14 %
+Abedvej 6 4920 Søllested,6,260000.0,17-05-2014,Alm.,1645,7,Villa,158,1858,-12 %
+Højskolevej 34 4920 Søllested,34,125000.0,07-05-2014,Auktion,1190,5,Villa,105,1945,-71 %
+Vejlebyvej 60 4920 Søllested,60,230000.0,07-05-2014,Alm.,2129,4,Sommerhus,108,1825,
+Vestervej 7 4920 Søllested,7,800000.0,30-04-2014,Alm.,5128,4,Villa,156,1900,1 %
+Anlægsvej 17 4920 Søllested,17,275000.0,25-03-2014,Fam.,3437,5,Villa,80,1939,
+Skovlyvej 2 4920 Søllested,2,400000.0,25-03-2014,Alm.,2259,5,Villa,177,1800,-30 %
+Højrebygade 34 4920 Søllested,34,795000.0,13-03-2014,Alm.,4704,5,Villa,169,1914,0 %
+Stibankevejen 4 4920 Søllested,4,265000.0,12-03-2014,Fam.,1892,3,Villa,140,1870,
+Højrebygade 33 4920 Søllested,33,230000.0,07-03-2014,Alm.,2169,4,Villa,106,1909,
+Troelsebyvej 46 4920 Søllested,46,320000.0,25-02-2014,Alm.,3137,3,Villa,102,1940,-19 %
+Mimosevej 9 4920 Søllested,9,325000.0,13-02-2014,Alm.,2663,4,Villa,122,1975,-6 %
+Græshavevej 32 4920 Søllested,32,300000.0,01-02-2014,Alm.,2542,3,Stuehus,118,1927,
+Skovlyvej 4 4920 Søllested,4,1000000.0,30-01-2014,Alm.,4761,3,Villa,210,1937,
+Stensgårdsvej 2 4920 Søllested,2,300000.0,23-01-2014,Alm.,1304,4,Stuehus,230,1850,
+Simonshovedvej 10 4920 Søllested,10,100000.0,23-01-2014,Alm.,714,6,Villa,140,1900,-20 %
+Korterupvej 22 4920 Søllested,22,1873488.0,13-12-2013,Alm.,10584,5,Stuehus,177,1857,
+Lavendelvej 20 4920 Søllested,20,310000.0,05-12-2013,Alm.,2198,4,Villa,141,1974,-22 %
+Kraghgårdsvej 3 4920 Søllested,3,795000.0,25-11-2013,Alm.,5129,5,Villa,155,1965,-11 %
+Vestervej 26 4920 Søllested,26,550000.0,28-10-2013,Alm.,4166,5,Villa,132,1969,-8 %
+Lavendelvej 14 4920 Søllested,14,375000.0,24-10-2013,Alm.,2757,5,Villa,136,1973,-5 %
+Askøvej 12 4920 Søllested,12,65000.0,11-10-2013,Alm.,507,4,Villa,128,1900,0 %
+Askøvej 19 4920 Søllested,19,850000.0,07-10-2013,Alm.,5089,4,Villa,167,1960,-15 %
+Maribovej 286 4920 Søllested,286,45001.0,02-10-2013,Auktion,523,3,Villa,86,1910,
+Almindevej 62 4920 Søllested,62,70000.0,19-09-2013,Alm.,244,8,Villa,286,1928,
+Mimosevej 4 4920 Søllested,4,454300.0,03-09-2013,Fam.,2950,7,Villa,154,1975,
+Violvej 11 4920 Søllested,11,455000.0,02-09-2013,Alm.,4136,3,Villa,110,1971,-8 %
+Hovedgaden 18 4920 Søllested,18,550000.0,28-08-2013,Auktion,4135,4,Engroshandel,133,1877,
+Maribovej 282 4920 Søllested,282,25001.0,06-06-2013,Auktion,308,4,Villa,81,1908,
+Stibankevejen 22 4920 Søllested,22,430000.0,04-06-2013,Alm.,3873,3,Villa,111,1897,-13 %
+Korterupvej 18 4920 Søllested,18,62000.0,15-05-2013,Auktion,563,5,Villa,110,1872,
+Grønningen 2 4920 Søllested,2,375000.0,14-05-2013,Alm.,2568,5,Villa,146,1976,-15 %
+Rødbyvej 53 4920 Søllested,53,475000.0,10-05-2013,Alm.,2914,4,Villa,163,1928,-21 %
+Vestervej 35 4920 Søllested,35,200000.0,30-04-2013,Alm.,1587,4,Villa,126,1967,-18 %
+Lindevej 10 4920 Søllested,10,400000.0,15-04-2013,Alm.,4000,3,Villa,100,1967,-38 %
+Højskolevej 9 4920 Søllested,9,410000.0,12-04-2013,Alm.,3534,3,Villa,116,1908,-4 %
+Hovedgaden 14 4920 Søllested,14,116000.0,30-01-2013,Auktion,892,6,Villa,130,1960,
+Almindevej 19 4920 Søllested,19,185000.0,22-01-2013,Alm.,1622,3,Villa,114,1877,-37 %
+Torebyvej 2 4920 Søllested,2,16550000.0,05-12-2012,Alm.,67276,7,Stuehus,246,1924,
+Frisenlundvej 1 4920 Søllested,1,1265000.0,12-11-2012,Alm.,5476,6,Villa,231,1918,-10 %
+Højskolevej 74 4920 Søllested,74,300000.0,01-11-2012,Alm.,1195,5,Villa,251,1973,0 %
+Lavendelvej 9 4920 Søllested,9,350000.0,29-10-2012,Alm.,2243,6,Villa,156,1974,-22 %
+Nøbbøllevej 12 4920 Søllested,12,180000.0,29-09-2012,Alm.,2571,3,Villa,70,1919,-28 %
+Toldbodvej 3 4920 Søllested,3,300000.0,23-08-2012,Alm.,2400,4,Villa,125,1870,
+Skovlængevej 12 4920 Søllested,12,350000.0,01-08-2012,Auktion,3070,3,Villa,114,1953,-30 %
+Højskolevej 54 4920 Søllested,54,500000.0,27-07-2012,Alm.,4504,3,Villa,111,1969,
+Ryde Møllevej 2 4920 Søllested,2,326000.0,13-07-2012,Alm.,1502,6,Villa,217,1897,-18 %
+Almindevej 12 4920 Søllested,12,217000.0,11-07-2012,Auktion,2465,3,Villa,88,1922,
+Nøbbøllevej 2 4920 Søllested,2,715000.0,15-06-2012,Fam.,4109,3,Villa,174,1954,
+Rødbyvej 9 4920 Søllested,9,25000.0,30-05-2012,Auktion,290,4,Villa,86,1961,
+Grønningen 16 4920 Søllested,16,650000.0,14-05-2012,Alm.,4814,5,Villa,135,1980,-6 %
+Korterupvej 10 4920 Søllested,10,300000.0,13-05-2012,Alm.,2222,5,Villa,135,1910,
+Grønningen 7 4920 Søllested,7,175000.0,08-05-2012,Fam.,1206,5,Villa,145,1979,
+Almindevej 2 4920 Søllested,2,347578.0,25-04-2012,Alm.,1800,6,Stuehus,193,1927,
+Askøvej 18 4920 Søllested,18,315000.0,10-04-2012,Alm.,2072,6,Villa,152,1887,
+Hovedgaden 36 4920 Søllested,36,60000.0,04-04-2012,Auktion,508,5,Villa,118,1908,-64 %
+Skovlængevej 35 4920 Søllested,35,98538.0,02-04-2012,Andet,938,3,Villa,105,1877,
+Sportsvej 9 4920 Søllested,9,350000.0,24-02-2012,Alm.,3888,2,Villa,90,1939,
+Anlægsvej 7 4920 Søllested,7,287431.0,13-02-2012,Andet,2113,6,Villa,136,1907,
+Rødbyvej 32 4920 Søllested,32,685000.0,08-02-2012,Alm.,3982,5,Stuehus,172,1850,-31 %
+Nøbbøllevej 6 4920 Søllested,6,40000.0,07-02-2012,Alm.,196,7,Villa,204,1938,
+Almindevej 42 4920 Søllested,42,374000.0,01-01-2012,Alm.,2921,4,Villa,128,1800,
+Hovedgaden 50 4920 Søllested,50,380000.0,21-12-2011,Alm.,3333,4,Villa,114,1928,-4 %
+Stibankevejen 30 4920 Søllested,30,125000.0,16-12-2011,Alm.,1077,3,Villa,116,1902,-29 %
+Vestervej 3 4920 Søllested,3,95000.0,23-11-2011,Auktion,1158,4,Villa,82,1944,-78 %
+Maribovej 288 4920 Søllested,288,13859000.0,04-11-2011,Alm.,52496,7,Stuehus,264,1971,718 %
+Mimosevej 32 4920 Søllested,32,785000.0,22-10-2011,Alm.,5130,4,Villa,153,1974,0 %
+Birkevej 24 4920 Søllested,24,577145.0,20-10-2011,Alm.,5246,4,Villa,110,1966,-14 %
+Torebyvej 6 4920 Søllested,6,9300000.0,06-10-2011,Alm.,62416,5,Stuehus,149,1976,
+Almindevej 46 4920 Søllested,46,288716.0,30-09-2011,Fam.,1977,4,Villa,146,1907,
+Sportsvej 8 4920 Søllested,8,300000.0,29-09-2011,Alm.,4054,4,Villa,74,1905,
+Stensgårdsvej 3 4920 Søllested,3,450000.0,15-09-2011,Alm.,2631,7,Villa,171,1916,0 %
+Højrebygade 42 4920 Søllested,42,350000.0,14-09-2011,Alm.,3365,4,Villa,104,1924,-11 %
+Lindevej 5 4920 Søllested,5,635000.0,12-09-2011,Alm.,4319,4,Villa,147,1969,
+Skovlængevej 38 4920 Søllested,38,240000.0,26-08-2011,Alm.,1726,7,Villa,139,1930,
+Højrebygade 43 4920 Søllested,43,675000.0,16-08-2011,Alm.,5625,3,Villa,120,1943,-9 %
+Syrenvej 3 4920 Søllested,3,450000.0,06-07-2011,Auktion,3308,5,Villa,136,1970,-43 %
+Vesterbyvej 11 4920 Søllested,11,1128224.0,26-06-2011,Alm.,4642,8,Villa,243,1906,
+Højskolevej 8 4920 Søllested,8,620000.0,25-05-2011,Alm.,5254,4,Villa,118,1923,
+Almindevej 5 4920 Søllested,5,395000.0,23-05-2011,Alm.,2743,4,Villa,144,1978,-28 %
+Rødbyvej 20 4920 Søllested,20,310000.0,28-04-2011,Alm.,2214,6,Villa,140,1928,-27 %
+Højskolevej 7 4920 Søllested,7,365258.0,21-04-2011,Alm.,3290,3,Villa,111,1908,-26 %
+Syrenvej 2 4920 Søllested,2,700856.0,19-04-2011,Alm.,5153,3,Villa,136,1972,
+Strædet 11 4920 Søllested,11,521444.0,13-04-2011,Auktion,3980,3,Villa,131,1912,5 %
+Skodsebøllevej 1 4920 Søllested,1,140000.0,06-04-2011,Auktion,583,4,Villa,240,1881,
+Strædet 1 4920 Søllested,1,375000.0,23-03-2011,Auktion,2777,4,Villa,135,1900,
+Korterup Sidevej 5 4920 Søllested,5,888000.0,17-03-2011,Alm.,4169,5,Villa,213,1897,-11 %
+Egevej 8 4920 Søllested,8,850000.0,25-02-2011,Alm.,5862,6,Villa,145,1976,
+Almindevej 14 4920 Søllested,14,200000.0,16-02-2011,Auktion,1739,5,Villa,115,1827,
+Birkevej 32 4920 Søllested,32,135000.0,26-01-2011,Auktion,1250,2,Villa,108,1965,
+Birkevej 34 4920 Søllested,34,215000.0,26-01-2011,Auktion,1885,4,Villa,114,1961,
+Almindevej 17 4920 Søllested,17,275000.0,26-01-2011,Auktion,1950,5,Villa,141,1926,
+Hovedgaden 32 4920 Søllested,32,250000.0,26-01-2011,Auktion,2016,5,Villa,124,1920,
+Højrebygade 65 4920 Søllested,65,675000.0,18-01-2011,Alm.,6428,3,Villa,105,1965,-15 %
+Højskolevej 31 4920 Søllested,31,960682.0,12-01-2011,Fam.,6158,5,Villa,156,1904,
+Hovedgaden 4 4920 Søllested,4,187500.0,13-12-2010,Alm.,1588,4,Villa,118,1877,-4 %
+Højrebyvej 50 4920 Søllested,50,55000.0,08-12-2010,Auktion,687,2,Villa,80,1905,
+Lindevej 6 4920 Søllested,6,650000.0,30-11-2010,Alm.,5000,5,Villa,130,1965,-24 %
+Rødbyvej 51 4920 Søllested,51,150000.0,24-11-2010,Auktion,1442,4,Villa,104,1928,-81 %
+Hovedgaden 38 4920 Søllested,38,430000.0,22-11-2010,Alm.,2388,8,Villa,180,1900,-11 %
+Højskolevej 12 4920 Søllested,12,615000.0,16-11-2010,Alm.,7235,4,Villa,85,1927,-5 %
+Strædet 7 4920 Søllested,7,495000.0,25-10-2010,Alm.,6187,3,Villa,80,1902,0 %
+Højrebygade 26 4920 Søllested,26,1560000.0,19-10-2010,Alm.,6500,8,Villa,240,1907,-7 %
+Græshavevej 20 4920 Søllested,20,294000.0,05-10-2010,Alm.,1185,6,Stuehus,248,1826,
+Højrebygade 20 4920 Søllested,20,795000.0,21-09-2010,Alm.,4416,8,Villa,180,1902,0 %
+Egevej 16 4920 Søllested,16,870000.0,25-08-2010,Alm.,7500,5,Villa,116,1977,-6 %
+Irisvej 5A 4920 Søllested,0,380000.0,12-08-2010,Alm.,6129,2,Rækkehus,62,1976,-34 %
+Holtevej 3 4920 Søllested,3,601500.0,12-08-2010,Fam.,3806,6,Stuehus,158,1769,
+Højrebygade 41 4920 Søllested,41,575000.0,10-08-2010,Alm.,4752,4,Villa,121,1937,-17 %
+Simonshovedvej 18 4920 Søllested,18,425000.0,10-08-2010,Auktion,2871,4,Villa,148,1939,
+Maribovej 319 4920 Søllested,319,295000.0,28-07-2010,Auktion,3734,3,Villa,79,1939,
+Bækkevej 1 4920 Søllested,1,330000.0,21-07-2010,Auktion,1885,5,Villa,175,1907,-65 %
+Rødbyvej 23 4920 Søllested,23,3556650.0,19-07-2010,Alm.,32041,4,Stuehus,111,1900,
+Lavendelvej 3 4920 Søllested,3,600000.0,15-07-2010,Alm.,4687,4,Villa,128,1973,
+Bjerreskovvej 10 4920 Søllested,10,635000.0,14-07-2010,Alm.,6105,4,Villa,104,1900,-2 %
+Rødbyvej 57 4920 Søllested,57,725000.0,08-07-2010,Alm.,3918,7,Villa,185,1928,
+Bjerreskovvej 23 4920 Søllested,23,371875.0,25-06-2010,Alm.,3233,3,Villa,115,1966,
+Mimosevej 20 4920 Søllested,20,438364.0,22-06-2010,Alm.,3044,4,Villa,144,1973,-49 %
+Brogårdsvej 3 4920 Søllested,3,500000.0,10-06-2010,Alm.,3846,4,Villa,130,1973,
+Højrebyvej 32 4920 Søllested,32,1800000.0,01-06-2010,Alm.,6000,8,Villa,300,1947,-9 %
+Egevej 2 4920 Søllested,2,925000.0,12-05-2010,Alm.,3838,4,Villa,241,1980,
+Troelsebyvej 22 4920 Søllested,22,450000.0,04-05-2010,Alm.,7377,2,Rækkehus,61,1907,
+Irisvej 6 4920 Søllested,6,600000.0,04-05-2010,Alm.,6185,4,Villa,97,1972,-19 %
+Stibankevejen 25 4920 Søllested,25,3632700.0,03-05-2010,Fam.,27943,4,Stuehus,130,1946,
+Vestervej 30 4920 Søllested,30,750000.0,29-03-2010,Alm.,6818,3,Villa,110,1968,-12 %
+Åkandevej 5 4920 Søllested,5,760000.0,15-03-2010,Alm.,5100,5,Villa,149,1973,-4 %
+Grønningen 30 4920 Søllested,30,1140000.0,05-03-2010,Alm.,9579,3,Villa,119,2006,-8 %
+Abedvej 14 4920 Søllested,14,395000.0,24-02-2010,Auktion,3185,6,Villa,124,1912,
+Simonshovedvej 4 4920 Søllested,4,400000.0,24-02-2010,Auktion,2797,5,Villa,143,1910,
+Vestervej 27 4920 Søllested,27,525000.0,10-02-2010,Auktion,4375,3,Villa,120,1968,-23 %
+Vestervej 24 4920 Søllested,24,581005.0,03-02-2010,Alm.,4762,4,Villa,122,1966,
+Løjetvej 10 4920 Søllested,10,20500000.0,08-01-2010,Alm.,113888,6,Stuehus,180,1727,
+Korterup Sidevej 1 4920 Søllested,1,270000.0,30-11-2009,Alm.,2177,3,Villa,124,1951,-36 %
+Kraghgårdsvej 8 4920 Søllested,8,375000.0,19-11-2009,Fam.,2343,6,Villa,160,1965,
+Vestervej 25 4920 Søllested,25,1025000.0,16-11-2009,Alm.,6743,5,Villa,152,1966,-6 %
+Maribovej 303 4920 Søllested,303,544674.0,12-11-2009,Fam.,3404,4,Villa,160,1910,
+Lindevej 12 4920 Søllested,12,584845.0,23-10-2009,Fam.,5316,3,Villa,110,1966,
+Erantisvej 4 4920 Søllested,4,750000.0,20-10-2009,Alm.,5514,7,Villa,136,1973,-2 %
+Vestervej 14 4920 Søllested,14,300000.0,01-10-2009,Alm.,3225,2,Villa,93,1937,-24 %
+Birkevej 26 4920 Søllested,26,845000.0,21-09-2009,Alm.,6760,5,Villa,125,1963,-6 %
+Mimosevej 28 4920 Søllested,28,174670.0,17-09-2009,Andet,1204,6,Villa,145,1974,
+Skodsebøllevej 15 4920 Søllested,15,160000.0,19-08-2009,Auktion,2461,2,Villa,65,1900,
+Gurrebyvej 10A 4920 Søllested,0,23010000.0,07-08-2009,Alm.,86503,6,Stuehus,266,1933,
+Skovlængevej 22 4920 Søllested,22,274801.0,05-08-2009,Andet,3615,4,Villa,76,1947,
+Græshavevej 29 4920 Søllested,29,550000.0,03-08-2009,Alm.,5045,4,Villa,109,1920,-15 %
+Hovedgaden 55 4920 Søllested,55,455468.0,25-07-2009,Andet,2957,5,Villa,154,1928,-51 %
+Askøvej 4 4920 Søllested,4,110000.0,15-07-2009,Auktion,2750,2,Villa,40,1968,
+Brogårdsvej 16 4920 Søllested,16,550000.0,29-05-2009,Alm.,6547,3,Rækkehus,84,1987,
+Højrebyvej 47 4920 Søllested,47,540475.0,29-05-2009,Andet,3275,5,Villa,165,1912,
+Abedvej 22 4920 Søllested,22,300000.0,18-05-2009,Alm.,2000,3,Sommerhus,150,1940,-39 %
+Vestervej 18 4920 Søllested,18,1125000.0,12-05-2009,Alm.,11718,4,Villa,96,1963,
+Højskolevej 84 4920 Søllested,84,1155000.0,06-05-2009,Alm.,5606,5,Villa,206,1936,-3 %
+Hovedgaden 40 4920 Søllested,40,200000.0,04-05-2009,Alm.,956,7,Villa,209,1907,-68 %
+Lykkesejevej 28 4920 Søllested,28,1250000.0,27-04-2009,Alm.,8865,5,Villa,141,1985,-3 %
+Hovedgaden 49 4920 Søllested,49,20000.0,15-04-2009,Auktion,277,3,Villa,72,1932,
+Højrebygade 40 4920 Søllested,40,1145000.0,04-02-2009,Alm.,6505,6,Villa,176,1910,0 %
+Højrebygade 38 4920 Søllested,38,440000.0,19-11-2008,Andet,2838,4,Villa,155,1920,
+Korterupvej 14 4920 Søllested,14,1200000.0,04-11-2008,Alm.,6382,7,Villa,188,1907,-4 %
+Troelsebyvej 20 4920 Søllested,20,618500.0,27-10-2008,Alm.,7731,3,Rækkehus,80,1927,-1 %
+Nøbbølle Bækvej 6 4920 Søllested,6,895000.0,06-10-2008,Alm.,6884,4,Villa,130,1976,0 %
+Troelsebyvej 3 4920 Søllested,3,550000.0,06-10-2008,Alm.,2644,6,Villa,208,1919,-19 %
+Violvej 8 4920 Søllested,8,1495000.0,01-10-2008,Alm.,3444,10,Villa,434,1969,0 %
+Almindevej 32 4920 Søllested,32,6271600.0,08-09-2008,Alm.,18721,9,Stuehus,335,1917,
+Hovedgaden 1 4920 Søllested,1,425000.0,30-08-2008,Alm.,3863,4,Villa,110,1893,0 %
+Højrebygade 45 4920 Søllested,45,995000.0,15-08-2008,Alm.,5467,7,Villa,182,1945,0 %
+Hovedgaden 62 4920 Søllested,62,695000.0,15-08-2008,Alm.,6747,2,Villa,103,1922,0 %
+Vesterbyvej 7 4920 Søllested,7,680000.0,30-06-2008,Alm.,7555,4,Sommerhus,90,1777,0 %
+Rødbyvej 30 4920 Søllested,30,225000.0,23-06-2008,Auktion,1956,4,Villa,115,1928,
+Maribovej 317 4920 Søllested,317,350000.0,10-06-2008,Alm.,3465,4,Villa,101,1936,-16 %
+Vesterbyvej 13 4920 Søllested,13,725000.0,09-06-2008,Alm.,4833,5,Stuehus,150,1939,
+Bækkevej 6 4920 Søllested,6,325000.0,09-06-2008,Alm.,3571,4,Rækkehus,91,1916,-23 %
+Toreby Sidevej 4 4920 Søllested,4,1145000.0,02-06-2008,Alm.,3438,10,Villa,333,1909,-4 %
+Højskolevej 35 4920 Søllested,35,550000.0,02-06-2008,Alm.,4867,3,Villa,113,1900,-8 %
+Korterupvej 15 4920 Søllested,15,700000.0,29-05-2008,Alm.,8235,3,Sommerhus,85,1877,-7 %
+Vestervej 22 4920 Søllested,22,1295000.0,23-05-2008,Alm.,7848,5,Villa,165,1964,0 %
+Skodsebøllevej 28 4920 Søllested,28,13738000.0,22-05-2008,Fam.,42012,9,Stuehus,327,1917,
+Maribovej 268 4920 Søllested,268,640000.0,19-05-2008,Alm.,5614,3,Villa,114,1920,-5 %
+Korterupvej 5 4920 Søllested,5,292257.0,19-05-2008,Andet,2214,4,Villa,132,1900,-34 %
+Ryde Møllevej 1 4920 Søllested,1,700000.0,15-05-2008,Alm.,6542,4,Villa,107,1962,-10 %
+Troelsebyvej 37 4920 Søllested,37,685000.0,09-05-2008,Alm.,6401,4,Villa,107,1880,-7 %
+Almindevej 6 4920 Søllested,6,900000.0,14-04-2008,Alm.,6206,5,Villa,145,1943,-3 %
+Rødbyvej 22 4920 Søllested,22,575000.0,09-04-2008,Alm.,4527,5,Villa,127,1928,0 %
+Skovlængevej 14 4920 Søllested,14,1075000.0,08-04-2008,Alm.,6595,7,Villa,163,1744,-2 %
+Højrebygade 31 4920 Søllested,31,562500.0,04-04-2008,Alm.,3308,8,Villa,170,1902,
+Kraghgårdsvej 5 4920 Søllested,5,695000.0,25-03-2008,Alm.,5791,5,Villa,120,1965,0 %
+Maribovej 311 4920 Søllested,311,650000.0,16-03-2008,Alm.,4545,6,Villa,143,1938,-18 %
+Almindevej 9 4920 Søllested,9,362500.0,03-03-2008,Fam.,2500,6,Villa,145,1957,-59 %
+Grønningen 9 4920 Søllested,9,1075000.0,25-02-2008,Alm.,7465,5,Villa,144,1980,-6 %
+Violvej 2 4920 Søllested,2,740000.0,18-02-2008,Alm.,5736,4,Villa,129,1972,-5 %
+Højreby Husevej 5 4920 Søllested,5,410000.0,15-02-2008,Alm.,3474,3,Villa,118,1910,-9 %
+Skovlyvej 6 4920 Søllested,6,300000.0,11-02-2008,Alm.,1449,6,Stuehus,207,1928,
+Bjerreskovvej 17 4920 Søllested,17,370000.0,28-01-2008,Alm.,3663,5,Villa,101,1896,
+Stibankevejen 2 4920 Søllested,2,4100000.0,14-01-2008,Alm.,19069,7,Stuehus,215,1916,
+Vesterbyvej 15 4920 Søllested,15,1360000.0,30-12-2007,Fam.,14166,4,Villa,96,1939,
+Smedevejen 4 4920 Søllested,4,592154.0,19-12-2007,Fam.,0,7,Stuehus,302,1847,
+Højskolevej 4 4920 Søllested,4,605000.0,18-12-2007,Alm.,7034,3,Villa,86,1928,-5 %
+Løjetvej 22 4920 Søllested,22,1287240.0,10-12-2007,Alm.,11702,2,Stuehus,110,1900,
+Hovedgaden 69 4920 Søllested,69,398499.0,21-11-2007,Andet,2674,4,Villa,149,1910,
+Brogårdsvej 14 4920 Søllested,14,650000.0,08-11-2007,Alm.,7738,3,Rækkehus,84,1987,-4 %
+Korterupvej 19 4920 Søllested,19,311393.0,24-10-2007,Andet,2552,4,Villa,122,1907,
+Bjerreskovvej 18 4920 Søllested,18,350000.0,20-10-2007,Alm.,3333,3,Villa,105,1930,0 %
+Søllestedgårdvej 29 4920 Søllested,29,255000.0,19-10-2007,Andet,2771,3,Villa,92,1955,
+Troelsebyvej 35 4920 Søllested,35,220000.0,15-10-2007,Alm.,2075,4,Villa,106,1908,
+Maribovej 270 4920 Søllested,270,1200000.0,11-10-2007,Alm.,5454,8,Villa,220,1913,
+Gurrebyvej 12 4920 Søllested,12,5484500.0,10-10-2007,Fam.,28865,7,Stuehus,190,1848,
+Hovedgaden 21 4920 Søllested,21,1025000.0,06-10-2007,Alm.,7020,6,Villa,146,1907,
+Troelsebyvej 40 4920 Søllested,40,287500.0,21-09-2007,Andet,1916,5,Villa,150,1941,
+Abedvej 13 4920 Søllested,13,290000.0,10-08-2007,Alm.,2989,4,Sommerhus,97,1877,0 %
+Korterupvej 3 4920 Søllested,3,465343.0,26-07-2007,Alm.,3814,4,Villa,122,1917,
+Strædet 17 4920 Søllested,17,250000.0,16-07-2007,Alm.,2155,3,Villa,116,1780,25 %
+Nøbbølle Bækvej 10 4920 Søllested,10,2100000.0,16-07-2007,Alm.,19811,4,Stuehus,106,1900,
+Vesterbyvej 9 4920 Søllested,9,390000.0,06-07-2007,Alm.,7800,2,Sommerhus,50,1900,-13 %
+Almindevej 8 4920 Søllested,8,500000.0,02-07-2007,Alm.,3759,5,Villa,133,1927,
+Fællesenggårdsvej 8 4920 Søllested,8,695000.0,26-06-2007,Alm.,6150,4,Villa,113,1925,0 %
+Bjerreskovvej 9 4920 Søllested,9,319405.0,21-06-2007,Andet,2753,4,Villa,116,1915,
+Sportsvej 7 4920 Søllested,7,738205.0,17-06-2007,Alm.,7030,4,Villa,105,1940,
+Brogårdsvej 4 4920 Søllested,4,685000.0,12-06-2007,Alm.,8154,3,Rækkehus,84,1987,
+Simonshovedvej 3 4920 Søllested,3,695000.0,12-06-2007,Alm.,5604,4,Villa,124,1910,
+Irisvej 2 4920 Søllested,2,918000.0,23-05-2007,Fam.,4989,6,Villa,184,1973,
+Hovedgaden 65 4920 Søllested,65,675000.0,29-04-2007,Alm.,9375,3,Villa,72,1880,
+Højrebyvej 65 4920 Søllested,65,330000.0,23-04-2007,Alm.,3837,3,Villa,86,1938,
+Grønningen 36 4920 Søllested,36,1245000.0,19-04-2007,Alm.,8137,5,Villa,153,1980,
+Højrebygade 52 4920 Søllested,52,750000.0,02-04-2007,Alm.,3164,6,Villa,237,1852,
+Almindevej 34 4920 Søllested,34,295000.0,29-03-2007,Alm.,3206,3,Villa,92,1955,
+Rødbyvej 15 4920 Søllested,15,300000.0,27-03-2007,Alm.,2189,4,Villa,137,1900,
+Hovedgaden 43 4920 Søllested,43,915000.0,21-03-2007,Alm.,7148,5,Villa,128,1908,0 %
+Grønningen 26 4920 Søllested,26,800000.0,12-03-2007,Alm.,6666,4,Villa,120,1984,
+Højrebygade 5 4920 Søllested,5,495000.0,03-03-2007,Alm.,2844,6,Villa,174,1909,0 %
+Rødbyvej 19 4920 Søllested,19,450000.0,01-03-2007,Alm.,3333,5,Villa,135,1938,
+Bjerreskovvej 14 4920 Søllested,14,1492247.0,21-02-2007,Alm.,7536,7,Villa,198,1985,
+Jernbanegade 17 4920 Søllested,17,950000.0,20-02-2007,Alm.,8636,4,Villa,110,1948,
+Skodsebøllevej 35 4920 Søllested,35,1065000.0,14-02-2007,Alm.,5071,6,Villa,210,1760,0 %
+Hovedgaden 9 4920 Søllested,9,357000.0,07-02-2007,Fam.,6490,2,Villa,55,1917,
+Bækkevej 8 4920 Søllested,8,550000.0,25-01-2007,Alm.,6111,4,Rækkehus,90,1912,
+Syrenvej 1 4920 Søllested,1,1000000.0,23-01-2007,Alm.,5405,4,Villa,185,1972,
+Rødbyvej 38 4920 Søllested,38,900000.0,18-01-2007,Alm.,5660,5,Villa,159,1777,-4 %
+Vesterbyvej 12 4920 Søllested,12,700000.0,01-01-2007,Alm.,9333,2,Villa,75,1939,
+Grønningen 11 4920 Søllested,11,812500.0,15-12-2006,Alm.,5565,6,Villa,146,1980,
+Mimosevej 2 4920 Søllested,2,850000.0,06-12-2006,Alm.,6746,4,Villa,126,1975,
+Hovedgaden 53 4920 Søllested,53,450000.0,06-12-2006,Alm.,3781,5,Villa,119,1937,
+Skovlængevej 31 4920 Søllested,31,690000.0,28-11-2006,Alm.,6571,4,Villa,105,1902,
+Rødbyvej 52 4920 Søllested,52,360000.0,27-11-2006,Alm.,1285,8,Villa,280,1892,
+Højrebygade 24 4920 Søllested,24,330000.0,26-11-2006,Fam.,2357,6,Villa,140,1910,
+Irisvej 13B 4920 Søllested,0,549813.0,20-11-2006,Alm.,8458,2,Rækkehus,65,1976,
+Ryde Møllevej 3 4920 Søllested,3,595000.0,13-11-2006,Alm.,5560,4,Villa,107,1962,
+Vestervej 1 4920 Søllested,1,1500000.0,08-11-2006,Alm.,5791,9,Villa,259,1970,
+Vestervej 29 4920 Søllested,29,962938.0,08-11-2006,Alm.,8597,5,Villa,112,1969,
+Vestervej 5 4920 Søllested,5,650000.0,30-10-2006,Alm.,5909,4,Villa,110,1920,
+Violvej 12 4920 Søllested,12,945000.0,19-10-2006,Alm.,8437,4,Villa,112,1972,
+Irisvej 24 4920 Søllested,24,1200000.0,27-09-2006,Alm.,6666,6,Villa,180,1977,
+Almindevej 15 4920 Søllested,15,995000.0,26-09-2006,Alm.,0,5,Villa,181,1926,
+Ryde Møllevej 18 4920 Søllested,18,810000.0,13-09-2006,Alm.,5827,5,Villa,139,1958,
+Skovlængevej 3 4920 Søllested,3,122500.0,05-09-2006,Andet,1458,2,Villa,84,1877,
+Torebyvej 3 4920 Søllested,3,410000.0,11-08-2006,Alm.,4019,4,Villa,102,1964,
+Skovlængevej 16 4920 Søllested,16,2100000.0,09-08-2006,Alm.,9633,6,Villa,218,1940,
+Lykkesejevej 12 4920 Søllested,12,70725.0,03-08-2006,Alm.,512,5,Villa,138,2007,
+Åkandevej 3 4920 Søllested,3,630000.0,01-08-2006,Alm.,5080,5,Villa,124,1973,
+Almindevej 18 4920 Søllested,18,165000.0,30-07-2006,Alm.,1289,3,Villa,128,1902,
+Almindevej 66 4920 Søllested,66,545000.0,04-07-2006,Alm.,4618,3,Villa,118,1927,
+Lykkesejevej 8 4920 Søllested,8,72100.0,01-07-2006,Alm.,534,6,Villa,135,2007,
+Vestervej 15 4920 Søllested,15,683370.0,22-06-2006,Alm.,4680,4,Villa,146,1965,
+Irisvej 13A 4920 Søllested,0,593561.0,26-05-2006,Alm.,9131,2,Rækkehus,65,1976,
+Hovedgaden 73 4920 Søllested,73,292210.0,22-05-2006,Alm.,2319,3,Villa,126,1860,
+Skovlængevej 1 4920 Søllested,1,570000.0,06-05-2006,Alm.,4318,6,Villa,132,1890,
+Kraghgårdsvej 10 4920 Søllested,10,1035000.0,28-04-2006,Alm.,8149,4,Villa,127,1964,
+Grønningen 17 4920 Søllested,17,72900.0,27-04-2006,Alm.,486,6,Villa,150,2007,
+Korterupvej 23 4920 Søllested,23,350000.0,20-04-2006,Alm.,4605,4,Villa,76,1897,
+Skovlængevej 32 4920 Søllested,32,340000.0,29-03-2006,Alm.,5666,3,Villa,60,1777,
+Hovedgaden 56 4920 Søllested,56,750000.0,29-03-2006,Alm.,3504,5,Villa,214,1920,
+Lavendelvej 6 4920 Søllested,6,1195000.0,24-03-2006,Alm.,10482,4,Villa,114,1978,
+Højrebygade 47 4920 Søllested,47,270909.0,02-03-2006,Fam.,3150,3,Villa,86,1950,
+Græshavevej 14 4920 Søllested,14,790000.0,27-02-2006,Alm.,5808,4,Villa,136,1912,
+Frisenlundvej 3 4920 Søllested,3,495000.0,24-02-2006,Alm.,4125,7,Villa,120,1900,
+Bjerreskovvej 7 4920 Søllested,7,850000.0,21-02-2006,Alm.,3935,10,Villa,216,1901,
+Almindevej 50 4920 Søllested,50,520000.0,21-02-2006,Alm.,4297,3,Villa,121,1943,
+Egevej 15 4920 Søllested,15,300000.0,17-02-2006,Andet,2362,5,Villa,127,1976,
+Højrebygade 1 4920 Søllested,1,745000.0,09-02-2006,Alm.,4382,5,Villa,170,1885,
+Abedvej 44 4920 Søllested,44,1080000.0,07-02-2006,Alm.,5654,5,Villa,191,1920,
+Mimosevej 16 4920 Søllested,16,800000.0,24-01-2006,Andet,4444,5,Villa,180,1973,
+Skovlængevej 1A 4920 Søllested,0,1800000.0,20-01-2006,Alm.,9523,5,Villa,189,1988,
+Kåhavevej 8 4920 Søllested,8,230000.0,20-01-2006,Alm.,809,6,Stuehus,284,1916,
+Stibankevejen 7 4920 Søllested,7,3648000.0,16-01-2006,Alm.,19099,6,Stuehus,191,1961,
+Højrebygade 3 4920 Søllested,3,350000.0,05-01-2006,Alm.,1955,4,Villa,179,1940,
+Gurrebyvej 6 4920 Søllested,6,715000.0,09-12-2005,Alm.,4181,4,Villa,171,1900,
+Løjetvej 16 4920 Søllested,16,705000.0,08-12-2005,Alm.,4964,4,Villa,142,1900,
+Skovlængevej 17 4920 Søllested,17,475000.0,07-12-2005,Alm.,3064,4,Villa,155,1905,
+Lyregårdsvej 1 4920 Søllested,1,360000.0,05-12-2005,Alm.,1518,7,Villa,237,1913,
+Højrebygade 49 4920 Søllested,49,595000.0,07-11-2005,Alm.,5312,5,Villa,112,1950,
+Skovlængevej 34 4920 Søllested,34,525000.0,02-11-2005,Alm.,0,9,Villa,222,1967,
+Anlægsvej 13 4920 Søllested,13,1030000.0,18-10-2005,Alm.,5478,6,Villa,188,1908,
+Hovedgaden 61 4920 Søllested,61,895000.0,14-10-2005,Alm.,4613,5,Villa,194,1924,
+Rødbyvej 55 4920 Søllested,55,320000.0,11-10-2005,Alm.,2758,3,Villa,116,1932,
+Grønningen 23 4920 Søllested,23,1250000.0,10-10-2005,Alm.,8116,5,Villa,154,1980,
+Abed Smedevej 5 4920 Søllested,5,240000.0,07-10-2005,Alm.,4800,3,Sommerhus,50,1870,
+Gurrebyvej 9 4920 Søllested,9,880000.0,04-10-2005,Alm.,5906,6,Villa,149,1944,
+Lavendelvej 32 4920 Søllested,32,850000.0,30-09-2005,Alm.,7083,6,Villa,120,1977,
+Vesterbyvej 3 4920 Søllested,3,1245000.0,23-09-2005,Alm.,6622,6,Sommerhus,188,1700,
+Lundegårdsvej 7 4920 Søllested,7,2600000.0,14-09-2005,Alm.,14525,5,Villa,179,1970,
+Højrebygade 23 4920 Søllested,23,1500000.0,09-09-2005,Alm.,8064,6,Villa,186,1902,
+Skovlængevej 37 4920 Søllested,37,219193.0,25-08-2005,Fam.,2884,3,Villa,76,1934,
+Lundegårdsvej 6 4920 Søllested,6,652532.0,20-08-2005,Alm.,4728,6,Villa,138,1905,
+Maribovej 292 4920 Søllested,292,300000.0,15-08-2005,Fam.,2325,7,Villa,129,1902,
+Bjerreskovvej 2 4920 Søllested,2,3413000.0,04-08-2005,Andet,33792,5,Villa,101,1935,
+Anlægsvej 9 4920 Søllested,9,840000.0,20-07-2005,Alm.,5957,5,Villa,141,1910,
+Højrebyvej 55 4920 Søllested,55,500000.0,20-07-2005,Alm.,3424,6,Villa,146,1908,
+Åkandevej 1 4920 Søllested,1,880000.0,07-07-2005,Alm.,7719,4,Villa,114,1976,
+Maribovej 264 4920 Søllested,264,862500.0,05-07-2005,Alm.,5989,5,Villa,144,1910,
+Toldbodvej 2 4920 Søllested,2,540000.0,28-06-2005,Alm.,4695,2,Villa,115,1827,
+Almindevej 20 4920 Søllested,20,385000.0,23-06-2005,Alm.,4476,3,Villa,86,1850,
+Skodsebøllevej 8 4920 Søllested,8,590000.0,20-06-2005,Alm.,4306,4,Villa,137,1877,
+Gurrebyvej 2 4920 Søllested,2,1585000.0,15-06-2005,Alm.,5213,10,Villa,304,1903,
+Holmemarksvejen 3 4920 Søllested,3,180000.0,12-06-2005,Andet,1894,3,Villa,95,1822,
+Højskolevej 68 4920 Søllested,68,520000.0,07-06-2005,Alm.,4684,5,Villa,111,1906,
+Skovlængevej 13 4920 Søllested,13,1875000.0,18-05-2005,Alm.,7239,6,Villa,259,1940,
+Maribovej 321 4920 Søllested,321,400000.0,18-05-2005,Alm.,4000,2,Villa,100,1920,
+Bjerreskovvej 21 4920 Søllested,21,250000.0,15-05-2005,Alm.,0,4,Villa,112,1902,
+Hovedgaden 46 4920 Søllested,46,645000.0,06-05-2005,Alm.,0,7,Villa,174,1917,
+Lindevej 2 4920 Søllested,2,530000.0,29-04-2005,Alm.,4649,5,Villa,114,1966,
+Torebyvej 10 4920 Søllested,10,218463.0,24-04-2005,Fam.,2060,4,Villa,106,1947,
+Vestervej 11 4920 Søllested,11,340000.0,20-04-2005,Alm.,4358,2,Villa,78,1960,
+Bjerreskovvej 16 4920 Søllested,16,565000.0,12-04-2005,Alm.,3445,5,Villa,164,1910,
+Stensgårdsvej 6 4920 Søllested,6,525000.0,29-03-2005,Alm.,3571,4,Villa,147,1877,
+Birkevej 5 4920 Søllested,5,687500.0,02-03-2005,Alm.,4116,5,Villa,167,1965,
+Skovlængevej 44 4920 Søllested,44,385000.0,16-02-2005,Alm.,3235,3,Villa,119,1867,
+Skovlængevej 4 4920 Søllested,4,233500.0,08-02-2005,Alm.,1945,5,Villa,120,1877,
+Birkevej 22 4920 Søllested,22,776986.0,05-02-2005,Alm.,7261,3,Villa,107,1966,
+Rødbyvej 14 4920 Søllested,14,935000.0,03-02-2005,Alm.,4047,7,Villa,231,1802,
+Irisvej 20 4920 Søllested,20,1110000.0,31-01-2005,Alm.,6607,4,Villa,168,1980,
+Rødbyvej 54 4920 Søllested,54,689959.0,18-01-2005,Alm.,4858,4,Villa,142,1827,
+Vestervej 28 4920 Søllested,28,725000.0,05-01-2005,Alm.,5178,3,Villa,140,1972,
+Lykkesejevej 18 4920 Søllested,18,68475.0,19-12-2004,Alm.,503,4,Villa,136,2005,
+Torebyvej 13 4920 Søllested,13,231462.0,03-12-2004,Fam.,1808,4,Villa,128,1827,
+Strædet 12 4920 Søllested,12,260000.0,01-12-2004,Alm.,2988,3,Villa,87,1677,
+Lykkesejevej 4 4920 Søllested,4,80475.0,29-11-2004,Alm.,396,7,Villa,203,2005,
+Søllestedgårdvej 26 4920 Søllested,26,70000.0,24-11-2004,Fam.,1000,3,Sommerhus,70,1880,
+Troelsebyvej 54 4920 Søllested,54,475000.0,12-11-2004,Alm.,4656,4,Villa,102,1916,
+Ryde Kirkevej 4 4920 Søllested,4,545000.0,04-11-2004,Alm.,5093,3,Villa,107,1917,
+Rødbyvej 16 4920 Søllested,16,1065000.0,03-11-2004,Alm.,4754,5,Villa,224,1991,
+Lindevej 9 4920 Søllested,9,385000.0,25-10-2004,Alm.,5133,2,Villa,75,1968,
+Nøbbølle Bækvej 8 4920 Søllested,8,175000.0,21-10-2004,Alm.,0,4,Villa,152,1900,
+Ryde Møllevej 10 4920 Søllested,10,645000.0,14-09-2004,Alm.,3750,6,Villa,172,1957,
+Maribovej 280 4920 Søllested,280,245000.0,08-09-2004,Alm.,1801,5,Villa,136,1916,
+Stibankevejen 8 4920 Søllested,8,725000.0,18-08-2004,Alm.,3436,7,Villa,211,1900,
+Korterup Sidevej 7 4920 Søllested,7,625000.0,06-07-2004,Alm.,3591,5,Sommerhus,174,1900,
+Stormgade 1 4920 Søllested,1,261513.0,14-06-2004,Auktion,2377,4,Villa,110,1900,
+Sandhøjsvejen 4 4920 Søllested,4,790500.0,02-06-2004,Fam.,8882,3,Stuehus,89,1940,
+Skodsebøllevej 24 4920 Søllested,24,3982000.0,02-06-2004,Fam.,15315,9,Stuehus,260,1906,
+Stibankevejen 20 4920 Søllested,20,925000.0,01-06-2004,Alm.,5473,5,Sommerhus,169,1820,
+Højrebygade 32 4920 Søllested,32,850000.0,05-05-2004,Alm.,5666,5,Villa,150,1912,
+Ålstrup Sidevej 2 4920 Søllested,2,1175000.0,01-05-2004,Alm.,8834,4,Stuehus,133,1928,
+Vestervej 2 4920 Søllested,2,500000.0,22-04-2004,Alm.,2808,7,Villa,178,1915,
+Ålstrup Sidevej 1 4920 Søllested,1,250000.0,15-04-2004,Alm.,1358,6,Villa,184,1900,
+Skodsebøllevej 9 4920 Søllested,9,525000.0,05-04-2004,Alm.,2678,4,Villa,196,1748,
+Grønningen 28 4920 Søllested,28,840000.0,31-03-2004,Fam.,5874,4,Villa,143,1990,
+Ryde Møllevej 16 4920 Søllested,16,375508.0,30-03-2004,Alm.,3994,5,Villa,94,1934,
+Løjetvej 21 4920 Søllested,21,410000.0,29-03-2004,Alm.,1687,6,Stuehus,243,1923,
+Troelsebyvej 41 4920 Søllested,41,820000.0,14-03-2004,Alm.,4270,7,Stuehus,192,1914,
+Højrebygade 73 4920 Søllested,73,495000.0,06-03-2004,Alm.,3485,5,Villa,142,1917,
+Stormgade 4 4920 Søllested,4,825000.0,21-02-2004,Alm.,5254,6,Villa,157,1960,
+Skodsebøllevej 3 4920 Søllested,3,350000.0,20-02-2004,Alm.,3535,3,Villa,99,1920,
+Abedvej 29 4920 Søllested,29,95000.0,15-02-2004,Alm.,922,5,Villa,103,1900,
+Højrebyvej 54 4920 Søllested,54,950000.0,11-02-2004,Alm.,4460,7,Villa,213,1927,
+Bjerreskovvej 27 4920 Søllested,27,280000.0,10-02-2004,Auktion,2153,5,Villa,130,1914,
+Anemonevej 2 4920 Søllested,2,510000.0,26-01-2004,Fam.,4047,5,Villa,126,1975,
+Hovedgaden 67 4920 Søllested,67,470000.0,13-01-2004,Alm.,4563,4,Villa,103,1927,
+Rødbyvej 36 4920 Søllested,36,895000.0,12-01-2004,Alm.,3013,8,Villa,297,1928,
+Højrebygade 39 4920 Søllested,39,700000.0,09-01-2004,Alm.,5785,6,Villa,121,1917,
+Grønningen 14 4920 Søllested,14,800800.0,29-12-2003,Fam.,6844,3,Villa,117,1980,
+Vestervej 23 4920 Søllested,23,400000.0,22-11-2003,Alm.,3225,4,Villa,124,1965,
+Lindevej 4 4920 Søllested,4,545000.0,22-11-2003,Alm.,5240,4,Villa,104,1966,
+Violvej 4 4920 Søllested,4,1050000.0,13-10-2003,Alm.,5645,6,Villa,186,1974,
+Grønningen 18 4920 Søllested,18,77625.0,09-10-2003,Alm.,686,4,Villa,113,2004,
+Højrebyvej 46 4920 Søllested,46,372900.0,06-10-2003,Alm.,3031,4,Villa,123,1906,
+Hovedgaden 64 4920 Søllested,64,223838.0,28-09-2003,Fam.,1896,6,Villa,118,1937,
+Grønningen 1 4920 Søllested,1,50000.0,24-09-2003,Alm.,271,5,Villa,184,2005,
+Skovlængevej 7 4920 Søllested,7,110000.0,15-09-2003,Alm.,1833,4,Villa,60,1877,
+Troelsebyvej 7 4920 Søllested,7,378000.0,15-09-2003,Alm.,3669,3,Villa,103,1931,
+Torebyvej 1 4920 Søllested,1,335000.0,19-08-2003,Auktion,2326,4,Villa,144,1964,
+Rødbyvej 40 4920 Søllested,40,285020.0,31-07-2003,Alm.,4318,3,Villa,66,1967,
+Simonshovedvej 1 4920 Søllested,1,300000.0,09-07-2003,Andet,1685,5,Villa,178,1962,
+Egevej 1 4920 Søllested,1,610000.0,08-07-2003,Alm.,5922,4,Villa,103,1976,
+Abedvej 8 4920 Søllested,8,345000.0,04-07-2003,Alm.,3254,2,Villa,106,1877,
+Hovedgaden 52 4920 Søllested,52,630000.0,18-06-2003,Alm.,4090,5,Villa,154,1917,
+Stormgade 5 4920 Søllested,5,220000.0,04-06-2003,Alm.,1666,4,Villa,132,1917,
+Hovedgaden 15 4920 Søllested,15,650000.0,03-06-2003,Alm.,4276,4,Villa,152,1906,
+Syrenvej 4 4920 Søllested,4,1050000.0,02-06-2003,Alm.,6000,4,Villa,175,1973,
+Bjerreskovvej 5 4920 Søllested,5,331818.0,27-05-2003,Alm.,3130,4,Villa,106,1900,
+Lykkesejevej 10 4920 Søllested,10,63200.0,13-05-2003,Alm.,625,4,Villa,101,2012,
+Vestervej 31 4920 Søllested,31,410000.0,11-05-2003,Fam.,4059,5,Villa,101,1968,
+Brogårdsvej 8 4920 Søllested,8,650000.0,16-04-2003,Alm.,7738,3,Rækkehus,84,1987,
+Stibankevejen 42 4920 Søllested,42,100000.0,13-04-2003,Alm.,1449,3,Villa,69,1777,
+Skodsebøllevej 17 4920 Søllested,17,405000.0,25-03-2003,Alm.,2664,5,Villa,152,1902,
+Skovlængevej 27 4920 Søllested,27,222743.0,23-02-2003,Andet,2062,4,Villa,108,1940,
+Rødbyvej 49 4920 Søllested,49,290000.0,21-02-2003,Alm.,2213,2,Villa,131,1928,
+Almindevej 70 4920 Søllested,70,75000.0,14-02-2003,Alm.,842,3,Villa,89,1912,
+Bjerreskovvej 4 4920 Søllested,4,255000.0,13-02-2003,Fam.,3187,3,Villa,80,1955,
+Lykkesejevej 26 4920 Søllested,26,385000.0,13-02-2003,Fam.,2789,5,Villa,138,1978,
+Rødbyvej 39 4920 Søllested,39,670000.0,12-02-2003,Alm.,3681,4,Villa,182,1928,
+Hovedgaden 29 4920 Søllested,29,1079000.0,05-02-2003,Alm.,4904,9,Villa,220,1920,
+Højrebyvej 42 4920 Søllested,42,323670.0,20-12-2002,Alm.,1438,9,Stuehus,225,1932,
+Skovlængevej 6 4920 Søllested,6,744200.0,12-12-2002,Alm.,4770,4,Villa,156,1935,
+Ryde Møllevej 6 4920 Søllested,6,535000.0,06-12-2002,Alm.,1783,11,Villa,300,1910,
+Kraghgårdsvej 1 4920 Søllested,1,565000.0,15-11-2002,Alm.,4788,4,Villa,118,1963,
+Almindevej 35 4920 Søllested,35,409144.0,15-11-2002,Alm.,1377,3,Villa,297,1850,
+Højskolevej 76 4920 Søllested,76,685000.0,06-11-2002,Alm.,5269,4,Villa,130,1972,
+Skovlængevej 11 4920 Søllested,11,325000.0,28-10-2002,Alm.,3823,3,Villa,85,1875,
+Almindevej 10 4920 Søllested,10,444433.0,20-10-2002,Alm.,2116,6,Villa,210,1900,
+Rødbyvej 5 4920 Søllested,5,8732719.0,09-10-2002,Alm.,25534,10,Villa,342,1911,
+Bækkevej 3 4920 Søllested,3,575000.0,02-10-2002,Alm.,5424,4,Villa,106,1961,
+Rødbyvej 61 4920 Søllested,61,500000.0,02-10-2002,Alm.,6024,3,Villa,83,1928,
+Hovedgaden 63 4920 Søllested,63,337000.0,27-09-2002,Alm.,3918,3,Villa,86,1914,
+Nøbbøllevej 10 4920 Søllested,10,239000.0,19-09-2002,Alm.,2320,5,Villa,103,1908,
+Bjerreskovvej 20 4920 Søllested,20,265000.0,09-09-2002,Alm.,1358,5,Villa,195,1958,
+Troelsebyvej 56 4920 Søllested,56,180680.0,24-08-2002,Andet,1882,3,Villa,96,1857,
+Højrebyvej 49 4920 Søllested,49,440640.0,20-08-2002,Alm.,4638,4,Villa,95,1935,
+Abedvej 12 4920 Søllested,12,78104.0,23-07-2002,Auktion,1001,4,Villa,78,1877,
+Almindevej 38 4920 Søllested,38,150000.0,17-07-2002,Auktion,1401,3,Villa,107,1942,
+Jernbanegade 3 4920 Søllested,3,475000.0,04-07-2002,Alm.,5459,3,Villa,87,1934,
+Højskolevej 22 4920 Søllested,22,495000.0,01-07-2002,Alm.,0,4,Villa,180,1920,
+Højskolevej 13 4920 Søllested,13,200000.0,27-06-2002,Alm.,1550,3,Villa,129,1925,
+Hovedgaden 60 4920 Søllested,60,465000.0,20-06-2002,Alm.,4386,5,Villa,106,1925,
+Holmemarksvejen 5 4920 Søllested,5,428188.0,02-06-2002,Alm.,3293,3,Villa,130,1900,
+Abedvej 40 4920 Søllested,40,825000.0,24-05-2002,Alm.,4342,5,Villa,190,1880,
+Nymarksvej 3 4920 Søllested,3,741000.0,23-05-2002,Alm.,6557,5,Villa,113,1922,
+Frisenlundvej 5 4920 Søllested,5,561287.0,11-05-2002,Alm.,4096,4,Villa,137,1972,
+Højskolevej 80 4920 Søllested,80,825000.0,15-04-2002,Alm.,4435,6,Villa,186,1927,
+Skovlængevej 9 4920 Søllested,9,435000.0,30-03-2002,Alm.,5058,4,Villa,86,1900,
+Troelsebyvej 52 4920 Søllested,52,2932500.0,11-03-2002,Fam.,13703,5,Stuehus,214,1822,
+Hovedgaden 30 4920 Søllested,30,350000.0,05-03-2002,Alm.,3888,4,Rækkehus,90,1930,
+Højskolevej 66 4920 Søllested,66,450000.0,02-03-2002,Alm.,5172,4,Villa,87,1800,
+Højrebygade 15 4920 Søllested,15,655000.0,20-02-2002,Alm.,2717,7,Villa,241,1917,
+Lavendelvej 2 4920 Søllested,2,870000.0,12-02-2002,Alm.,6692,4,Villa,130,1976,
+Korterupvej 4 4920 Søllested,4,900000.0,02-02-2002,Alm.,3765,8,Villa,239,1977,
+Lykkesejevej 2 4920 Søllested,2,1100000.0,03-01-2002,Alm.,5851,7,Villa,188,2001,
+Irisvej 15 4920 Søllested,15,814295.0,02-01-2002,Alm.,5539,5,Villa,147,1974,
+Vestervej 20 4920 Søllested,20,450040.0,19-12-2001,Alm.,3103,4,Villa,145,1966,
+Korterupvej 6 4920 Søllested,6,3697500.0,17-12-2001,Fam.,14731,7,Stuehus,251,1940,
+Jernbanegade 38 4920 Søllested,38,800000.0,11-12-2001,Fam.,4371,6,Villa,183,2012,
+Højskolevej 51 4920 Søllested,51,654520.0,16-11-2001,Alm.,3131,7,Villa,209,1900,
+Lykkesejevej 22 4920 Søllested,22,660000.0,15-11-2001,Fam.,5739,3,Villa,115,1986,
+Højrebygade 22 4920 Søllested,22,560381.0,07-11-2001,Alm.,4447,4,Villa,126,1909,
+Stibankevejen 13 4920 Søllested,13,415000.0,24-10-2001,Alm.,2195,4,Villa,189,1875,
+Birkevej 30 4920 Søllested,30,395000.0,20-09-2001,Alm.,5563,2,Villa,71,1960,
+Skodsebøllevej 29 4920 Søllested,29,1000000.0,07-09-2001,Fam.,3484,6,Stuehus,287,1931,
+Brogårdsvej 1 4920 Søllested,1,565000.0,16-08-2001,Alm.,5485,5,Villa,103,1976,
+Hedestrædet 4 4920 Søllested,4,425000.0,07-08-2001,Alm.,4166,5,Villa,102,1800,
+Haubøllevej 11 4920 Søllested,11,325000.0,06-08-2001,Alm.,3066,3,Villa,106,1900,
+Højrebygade 51 4920 Søllested,51,119852.0,25-07-2001,Alm.,1498,4,Villa,80,1951,
+Bjerreskovvej 29 4920 Søllested,29,289935.0,23-07-2001,Alm.,2543,3,Villa,114,1930,
+Gurrebyvej 8 4920 Søllested,8,395000.0,18-07-2001,Alm.,3237,5,Villa,122,1890,
+Abedvej 11 4920 Søllested,11,160000.0,16-07-2001,Alm.,2191,3,Villa,73,1900,
+Irisvej 1 4920 Søllested,1,670000.0,14-06-2001,Alm.,5403,4,Villa,124,1975,
+Lindevej 16 4920 Søllested,16,286000.0,08-06-2001,Alm.,2042,4,Villa,140,1966,
+Skovlængevej 20 4920 Søllested,20,257000.0,01-06-2001,Alm.,1784,5,Villa,144,1917,
+Højskolevej 1 4920 Søllested,1,116958.0,29-05-2001,Alm.,879,5,Villa,133,1884,
+Vestervej 37 4920 Søllested,37,490000.0,25-05-2001,Alm.,3500,4,Villa,140,1967,
+Vesterbyvej 8 4920 Søllested,8,225220.0,23-05-2001,Alm.,1042,6,Villa,216,1965,
+Højskolevej 48 4920 Søllested,48,875000.0,05-05-2001,Alm.,2906,6,Villa,301,1877,
+Højskolevej 30 4920 Søllested,30,725000.0,01-05-2001,Alm.,4315,7,Villa,168,1916,
+Sandhøjsvejen 1 4920 Søllested,1,440253.0,30-04-2001,Fam.,3966,4,Villa,111,1929,
+Torebyvej 5 4920 Søllested,5,823723.0,23-04-2001,Alm.,4224,6,Villa,195,1956,
+Græshavevej 16 4920 Søllested,16,75000.0,12-04-2001,Alm.,789,5,Villa,95,1877,
+Højskolevej 86 4920 Søllested,86,750000.0,30-03-2001,Alm.,3164,6,Villa,237,1927,
+Højrebygade 57 4920 Søllested,57,1100000.0,26-03-2001,Alm.,6111,5,Villa,180,1965,
+Højskolevej 38 4920 Søllested,38,295000.0,14-03-2001,Alm.,3933,2,Villa,75,1948,
+Maribovej 258 4920 Søllested,258,280000.0,20-02-2001,Alm.,2545,2,Villa,110,1906,
+Skovlængevej 21 4920 Søllested,21,924375.0,15-02-2001,Fam.,5813,4,Stuehus,159,2013,
+Abedvej 41 4920 Søllested,41,128500.0,15-02-2001,Auktion,2141,2,Villa,60,1870,
+Haubøllevej 7 4920 Søllested,7,681000.0,31-01-2001,Alm.,2397,8,Villa,284,1910,
+Højrebygade 44 4920 Søllested,44,565000.0,31-01-2001,Alm.,4870,3,Villa,116,1929,
+Nøbbøllevej 14 4920 Søllested,14,2284000.0,30-01-2001,Alm.,12213,6,Villa,187,1973,
+Hovedgaden 27 4920 Søllested,27,627207.0,25-01-2001,Alm.,4181,6,Villa,150,1800,
+Højrebygade 16 4920 Søllested,16,275000.0,19-12-2000,Fam.,2500,5,Villa,110,1906,
+Almindevej 39 4920 Søllested,39,280000.0,18-12-2000,Fam.,2978,1,Villa,94,1920,
+Højskolevej 43 4920 Søllested,43,460000.0,25-11-2000,Alm.,0,6,Villa,234,1927,
+Korterupvej 1 4920 Søllested,1,275000.0,21-11-2000,Alm.,2330,3,Villa,118,1942,
+Lindevej 19 4920 Søllested,19,410000.0,02-10-2000,Fam.,3534,5,Villa,116,1968,
+Højrebygade 6 4920 Søllested,6,630000.0,16-09-2000,Alm.,2669,7,Villa,236,1910,
+Stibankevejen 12 4920 Søllested,12,385000.0,04-09-2000,Alm.,0,6,Villa,228,1850,
+Torebyvej 8 4920 Søllested,8,500000.0,04-09-2000,Alm.,4629,3,Sommerhus,108,1825,
+Højskolevej 36 4920 Søllested,36,360000.0,14-08-2000,Alm.,3243,4,Villa,111,1944,
+Hedestrædet 6 4920 Søllested,6,150000.0,10-08-2000,Auktion,1339,3,Villa,112,1964,
+Stibankevejen 21 4920 Søllested,21,3100000.0,18-07-2000,Alm.,10333,6,Stuehus,300,1930,
+Hedestrædet 2 4920 Søllested,2,257880.0,26-06-2000,Alm.,2865,3,Sommerhus,90,1802,
+Højrebygade 70 4920 Søllested,70,291000.0,14-06-2000,Alm.,3129,3,Villa,93,1959,
+Troelsebyvej 14 4920 Søllested,14,360000.0,10-06-2000,Alm.,3302,4,Villa,109,1877,
+Hovedgaden 31A 4920 Søllested,0,356000.0,06-06-2000,Alm.,4045,5,Villa,88,1929,
+Lavendelvej 30 4920 Søllested,30,800000.0,05-06-2000,Alm.,5333,5,Villa,150,1973,
+Skovlængevej 50 4920 Søllested,50,86000.0,16-05-2000,Alm.,0,4,Villa,144,1920,
+Højrebyvej 38 4920 Søllested,38,8537500.0,05-05-2000,Alm.,40271,6,Stuehus,212,1863,
+Askøvej 24 4920 Søllested,24,630406.0,04-05-2000,Alm.,4704,3,Villa,134,1900,
+Hovedgaden 25 4920 Søllested,25,230266.0,21-03-2000,Fam.,1395,6,Villa,165,1905,
+Skodsebøllevej 4 4920 Søllested,4,155000.0,26-02-2000,Auktion,1183,4,Villa,131,1935,
+Højrebygade 37 4920 Søllested,37,579000.0,24-02-2000,Alm.,4785,5,Villa,121,1940,
+Strædet 3 4920 Søllested,3,722237.0,18-02-2000,Alm.,7445,3,Villa,97,1902,
+Stibankevejen 16 4920 Søllested,16,75000.0,16-02-2000,Fam.,625,4,Villa,120,1924,
+Stibankevejen 9 4920 Søllested,9,95000.0,01-02-2000,Alm.,940,3,Villa,101,1777,
+Skodsebøllevej 13 4920 Søllested,13,250000.0,10-01-2000,Andet,1168,7,Villa,214,1903,
+Almindevej 7 4920 Søllested,7,190000.0,03-11-1999,Fam.,1900,2,Villa,100,1926,
+Lyregårdsvej 4 4920 Søllested,4,3200000.0,27-10-1999,Alm.,15238,7,Stuehus,210,1927,
+Haubøllevej 3 4920 Søllested,3,107455.0,15-10-1999,Fam.,735,6,Villa,146,1890,
+Ryde Kirkevej 2 4920 Søllested,2,125000.0,12-10-1999,Alm.,1373,3,Villa,91,1915,
+Skodsebøllevej 30 4920 Søllested,30,800000.0,30-09-1999,Fam.,2816,9,Stuehus,284,1957,
+Højrebyvej 67 4920 Søllested,67,100000.0,27-09-1999,Fam.,970,4,Villa,103,1916,
+Skodsebøllevej 18 4920 Søllested,18,282287.0,14-09-1999,Alm.,3136,2,Villa,90,1912,
+Rødbyvej 41 4920 Søllested,41,430000.0,08-09-1999,Fam.,0,5,Villa,147,1928,
+Hovedgaden 5B 4920 Søllested,0,169339.0,07-09-1999,Fam.,1128,6,Villa,150,1900,
+Rødbyvej 59 4920 Søllested,59,285000.0,31-08-1999,Alm.,3562,2,Villa,80,1928,
+Troelsebyvej 6 4920 Søllested,6,437072.0,23-08-1999,Fam.,2665,6,Villa,164,1908,
+Skodsebøllevej 20 4920 Søllested,20,285000.0,11-08-1999,Alm.,1338,5,Villa,213,1900,
+Højrebyvej 51 4920 Søllested,51,487500.0,10-08-1999,Alm.,0,7,Villa,237,1877,
+Maribovej 256 4920 Søllested,256,2630000.0,09-08-1999,Fam.,12232,8,Stuehus,215,1827,
+Rødbyvej 21 4920 Søllested,21,385000.0,03-08-1999,Alm.,2391,5,Villa,161,1900,
+Lavendelvej 10 4920 Søllested,10,780000.0,20-07-1999,Alm.,3900,6,Villa,200,1977,
+Abed Smedevej 3 4920 Søllested,3,210000.0,28-06-1999,Alm.,3500,3,Villa,60,1870,
+Strædet 19 4920 Søllested,19,1040000.0,16-06-1999,Alm.,5306,5,Stuehus,196,1922,
+Højskolevej 52 4920 Søllested,52,779900.0,14-06-1999,Alm.,3979,7,Villa,196,1967,
+Højrebygade 28 4920 Søllested,28,618000.0,09-06-1999,Alm.,3814,8,Villa,162,1910,
+Søllestedgårdvej 31 4920 Søllested,31,565000.0,07-06-1999,Alm.,2545,10,Villa,222,1870,
+Violvej 9 4920 Søllested,9,390000.0,30-05-1999,Alm.,3421,4,Villa,114,1972,
+Højrebygade 4 4920 Søllested,4,35000.0,17-05-1999,Alm.,593,3,Villa,59,1900,
+Irisvej 4 4920 Søllested,4,796000.0,27-04-1999,Alm.,4497,7,Villa,177,1974,
+Almindevej 58 4920 Søllested,58,175000.0,19-04-1999,Alm.,0,2,Villa,77,1935,
+Højrebyvej 40 4920 Søllested,40,401955.0,07-04-1999,Andet,1607,4,Stuehus,250,1974,
+Lundegårdsvej 3 4920 Søllested,3,6500000.0,26-03-1999,Alm.,67010,4,Villa,97,1850,
+Irisvej 7 4920 Søllested,7,695000.0,19-03-1999,Alm.,3457,5,Villa,201,1975,
+Lykkesejevej 14 4920 Søllested,14,552500.0,12-03-1999,Alm.,4846,5,Villa,114,1979,
+Toreby Sidevej 2 4920 Søllested,2,550000.0,11-03-1999,Alm.,4074,5,Villa,135,1922,
+Hovedgaden 41 4920 Søllested,41,476476.0,08-03-1999,Alm.,3970,4,Villa,120,1910,
+Askøvej 5 4920 Søllested,5,2120000.0,05-03-1999,Alm.,7186,7,Villa,295,1900,
+Askøvej 6 4920 Søllested,6,25000.0,06-01-1999,Auktion,177,5,Villa,141,1827,
+Mimosevej 26 4920 Søllested,26,500000.0,06-01-1999,Alm.,3875,4,Villa,129,1976,
+Rødbyvej 26 4920 Søllested,26,372059.0,22-12-1998,Alm.,3263,4,Villa,114,1928,
+Vestervej 17 4920 Søllested,17,453000.0,16-12-1998,Alm.,3145,5,Villa,144,1966,
+Holtevej 2 4920 Søllested,2,167514.0,14-11-1998,Alm.,935,4,Villa,179,1917,
+Løjet Skovvej 2 4920 Søllested,2,764112.0,02-11-1998,Alm.,5198,6,Villa,147,1927,
+Højrebyvej 43 4920 Søllested,43,487000.0,10-09-1998,Alm.,3141,6,Villa,155,1900,
+Liljevej 2 4920 Søllested,2,510000.0,03-08-1998,Alm.,3493,5,Villa,146,1974,
+Ryde Møllevej 4 4920 Søllested,4,700000.0,15-07-1998,Alm.,2631,4,Villa,266,1800,
+Irisvej 8 4920 Søllested,8,515000.0,01-07-1998,Alm.,4023,4,Villa,128,1974,
+Askøvej 7 4920 Søllested,7,275000.0,01-07-1998,Alm.,2291,4,Sommerhus,120,1820,
+Grønningen 4 4920 Søllested,4,502000.0,30-06-1998,Alm.,4403,5,Villa,114,1978,
+Rødbyvej 48 4920 Søllested,48,100000.0,29-05-1998,Alm.,952,4,Villa,105,1800,
+Rødbyvej 4 4920 Søllested,4,440000.0,06-05-1998,Alm.,0,6,Villa,186,1877,
+Maribovej 276 4920 Søllested,276,1955000.0,26-04-1998,Fam.,13033,6,Stuehus,150,1860,
+Skovlængevej 28 4920 Søllested,28,372500.0,14-04-1998,Alm.,4382,3,Villa,85,1877,
+Jernbanegade 20 4920 Søllested,20,230000.0,11-04-1998,Alm.,2643,3,Villa,87,1927,
+Vestervej 12 4920 Søllested,12,248000.0,28-01-1998,Alm.,2638,3,Villa,94,1933,
+Højrebygade 30 4920 Søllested,30,280000.0,26-01-1998,Alm.,0,5,Villa,112,1907,
+Liljevej 1 4920 Søllested,1,540000.0,09-12-1997,Alm.,0,4,Villa,151,1975,
+Birkevej 12 4920 Søllested,12,219000.0,29-11-1997,Alm.,2126,3,Villa,103,1900,
+Højrebyvej 62 4920 Søllested,62,485000.0,04-11-1997,Alm.,3464,4,Villa,140,1875,
+Højskolevej 5 4920 Søllested,5,230000.0,29-10-1997,Alm.,2371,3,Villa,97,1908,
+Abedvej 15 4920 Søllested,15,504872.0,05-10-1997,Alm.,2729,6,Villa,185,1875,
+Frisenlundvej 10 4920 Søllested,10,4300000.0,31-08-1997,Alm.,17200,5,Stuehus,250,1830,
+Højskolevej 82 4920 Søllested,82,280000.0,28-08-1997,Alm.,2434,4,Villa,115,1925,
+Sportsvej 10 4920 Søllested,10,270000.0,28-08-1997,Alm.,3000,2,Villa,90,1900,
+Hellinge Sidevej 1 4920 Søllested,1,287000.0,21-08-1997,Alm.,0,4,Sommerhus,88,1832,
+Skodsebøllevej 19 4920 Søllested,19,131800.0,13-08-1997,Alm.,0,5,Villa,228,1880,
+Jernbanegade 7 4920 Søllested,7,300000.0,11-08-1997,Alm.,1986,6,Villa,151,1885,
+Maribovej 290 4920 Søllested,290,343000.0,08-08-1997,Alm.,2882,5,Villa,119,1907,
+Hovedgaden 47 4920 Søllested,47,485940.0,21-06-1997,Alm.,3709,4,Villa,131,1947,
+Rødbyvej 11 4920 Søllested,11,320000.0,10-06-1997,Alm.,2909,3,Villa,110,1961,
+Søllestedgårdvej 30 4920 Søllested,30,439000.0,09-06-1997,Alm.,3135,4,Villa,140,1949,
+Lavendelvej 23 4920 Søllested,23,618000.0,08-04-1997,Alm.,2686,7,Villa,230,1975,
+Almindevej 30 4920 Søllested,30,399500.0,08-04-1997,Alm.,2350,7,Villa,170,1917,
+Stibankevejen 48 4920 Søllested,48,306550.0,01-04-1997,Alm.,1613,6,Villa,190,1812,
+Højrebygade 14 4920 Søllested,14,210000.0,12-12-1996,Alm.,3333,4,Villa,63,1904,
+Stibankevejen 46 4920 Søllested,46,140329.0,12-11-1996,Alm.,1670,3,Sommerhus,84,1911,
+Skovlængevej 5 4920 Søllested,5,251000.0,06-11-1996,Alm.,1426,3,Villa,176,1877,
+Almindevej 24 4920 Søllested,24,241640.0,17-09-1996,Alm.,2013,4,Villa,120,1939,
+"Hovedgaden 8, 1 4920 Søllested",1,325000.0,16-09-1996,Alm.,2539,3,Lejlighed,128,1930,
+Mimosevej 14 4920 Søllested,14,555000.0,15-09-1996,Alm.,3557,5,Villa,156,1973,
+Grønningen 22 4920 Søllested,22,540000.0,04-09-1996,Alm.,4218,5,Villa,128,1982,
+Korterupvej 8 4920 Søllested,8,565000.0,04-09-1996,Alm.,2989,5,Villa,189,1955,
+Strædet 4 4920 Søllested,4,100000.0,30-08-1996,Fam.,990,3,Villa,101,1930,
+Almindevej 11 4920 Søllested,11,335000.0,26-08-1996,Alm.,1810,6,Villa,185,1947,
+Hovedgaden 66 4920 Søllested,66,580000.0,13-05-1996,Alm.,4027,5,Villa,144,1897,
+Højrebygade 9 4920 Søllested,9,359558.0,11-04-1996,Fam.,2479,7,Villa,145,1917,
+Maribovej 307 4920 Søllested,307,175000.0,26-02-1996,Alm.,1356,4,Villa,129,1900,
+Højskolevej 15 4920 Søllested,15,366000.0,17-01-1996,Alm.,3128,5,Villa,117,1908,
+Gurrebyvej 15 4920 Søllested,15,125000.0,02-01-1996,Alm.,437,9,Villa,286,1912,
+Hovedgaden 58 4920 Søllested,58,200000.0,04-12-1995,Fam.,2564,3,Villa,78,1923,
+Sportsvej 2 4920 Søllested,2,224000.0,14-11-1995,Alm.,414,9,Villa,540,1910,
+Højrebygade 55 4920 Søllested,55,340000.0,26-10-1995,Alm.,0,5,Villa,152,1949,
+Højskolevej 6 4920 Søllested,6,145000.0,23-10-1995,Alm.,0,4,Villa,98,1927,
+Torebyvej 9 4920 Søllested,9,120000.0,20-10-1995,Alm.,0,5,Villa,197,1875,
+Kåhavevej 4 4920 Søllested,4,150000.0,23-08-1995,Alm.,2678,2,Villa,56,1920,
+Stibankevejen 38 4920 Søllested,38,259000.0,18-08-1995,Alm.,2564,3,Villa,101,1954,
+Lindevej 13 4920 Søllested,13,355000.0,07-08-1995,Alm.,3317,4,Villa,107,1969,
+Grønningen 5 4920 Søllested,5,427000.0,07-07-1995,Alm.,3558,3,Villa,120,1980,
+Troelsebyvej 8 4920 Søllested,8,333440.0,29-06-1995,Alm.,2268,4,Villa,147,1910,
+Kirkevej 7 4920 Søllested,7,200000.0,21-06-1995,Auktion,1408,5,Stuehus,142,1900,
+Stibankevejen 11 4920 Søllested,11,243400.0,03-06-1995,Alm.,1962,3,Villa,124,1936,
+Mimosevej 8 4920 Søllested,8,608600.0,03-06-1995,Alm.,4168,4,Villa,146,1975,
+Troelsebyvej 16 4920 Søllested,16,141000.0,23-05-1995,Alm.,1639,2,Rækkehus,86,1908,
+Hovedgaden 37 4920 Søllested,37,100000.0,15-05-1995,Alm.,884,4,Villa,113,1895,
+Højrebyvej 63 4920 Søllested,63,180000.0,09-05-1995,Alm.,1956,3,Villa,92,1917,
+Landet Kirkevej 2 4920 Søllested,2,230280.0,08-05-1995,Alm.,1680,6,Villa,137,1932,
+Højskolevej 41 4920 Søllested,41,165000.0,26-03-1995,Alm.,0,5,Villa,160,1914,
+Stibankevejen 15 4920 Søllested,15,400000.0,14-03-1995,Alm.,2352,5,Villa,170,1915,
+Vestervej 21 4920 Søllested,21,450000.0,06-02-1995,Alm.,3515,5,Villa,128,1965,
+Højrebygade 17 4920 Søllested,17,288000.0,11-11-1994,Alm.,2594,6,Villa,111,1914,
+Stibankevejen 18 4920 Søllested,18,165000.0,26-09-1994,Alm.,2229,3,Sommerhus,74,1867,
+Stormgade 7 4920 Søllested,7,100436.0,26-09-1994,Andet,652,5,Villa,154,1922,
+Højskolevej 56 4920 Søllested,56,415000.0,24-08-1994,Alm.,2677,5,Villa,155,1969,
+Jernbanegade 30 4920 Søllested,30,650000.0,12-08-1994,Alm.,30952,4,Industri o.l.,21,1976,
+Hovedgaden 39 4920 Søllested,39,275000.0,05-07-1994,Alm.,2522,6,Villa,109,1942,
+Hovedgaden 44 4920 Søllested,44,185000.0,30-06-1994,Alm.,1850,5,Villa,100,1900,
+Troelsebyvej 10 4920 Søllested,10,440000.0,30-06-1994,Alm.,2838,8,Villa,155,1912,
+Lavendelvej 7 4920 Søllested,7,476880.0,02-06-1994,Alm.,3158,6,Villa,151,1974,
+Korterupvej 13 4920 Søllested,13,220000.0,30-05-1994,Alm.,0,5,Villa,220,1906,
+Rødbyvej 42 4920 Søllested,42,410000.0,20-05-1994,Alm.,2733,5,Villa,150,1777,
+Mimosevej 19 4920 Søllested,19,410000.0,13-05-1994,Alm.,2928,4,Villa,140,1974,
+Maribovej 305 4920 Søllested,305,1050000.0,25-03-1994,Alm.,4666,6,Stuehus,225,1852,
+Maribovej 260 4920 Søllested,260,366000.0,09-03-1994,Alm.,0,7,Villa,176,1910,
+Højrebygade 18 4920 Søllested,18,374000.0,02-03-1994,Alm.,0,5,Villa,186,1909,
+Troelsebyvej 42 4920 Søllested,42,950000.0,22-12-1993,Alm.,5277,5,Villa,180,1977,
+Rødbyvej 37 4920 Søllested,37,28000.0,01-12-1993,Fam.,651,2,Villa,43,1927,
+Højskolevej 37 4920 Søllested,37,285000.0,01-12-1993,Alm.,1759,7,Villa,162,1927,
+Sportsvej 1 4920 Søllested,1,500000.0,02-11-1993,Alm.,2325,7,Villa,215,1915,
+Mimosevej 7 4920 Søllested,7,500000.0,29-09-1993,Andet,2551,4,Villa,196,1975,
+Højskolevej 10 4920 Søllested,10,240000.0,18-09-1993,Alm.,0,3,Villa,94,1924,
+Langsøgårdvej 2 4920 Søllested,2,515000.0,02-09-1993,Alm.,3503,5,Villa,147,1972,
+Højrebygade 36 4920 Søllested,36,110000.0,23-06-1993,Alm.,1182,5,Villa,93,1915,
+Brogårdsvej 10 4920 Søllested,10,345000.0,16-06-1993,Alm.,4107,3,Rækkehus,84,1987,
+Sportsvej 5 4920 Søllested,5,300000.0,11-06-1993,Alm.,0,5,Villa,184,1905,
+Højrebygade 35 4920 Søllested,35,474500.0,11-06-1993,Alm.,2458,6,Villa,193,1909,
+Troelsebyvej 5 4920 Søllested,5,355000.0,11-06-1993,Alm.,3585,3,Villa,99,1926,
+Mimosevej 18 4920 Søllested,18,623000.0,21-05-1993,Alm.,3068,6,Villa,203,1973,
+Holtevej 5 4920 Søllested,5,185000.0,05-05-1993,Alm.,0,6,Villa,157,1850,
+Rødbyvej 2 4920 Søllested,2,264000.0,21-12-1992,Alm.,0,4,Villa,165,1900,
+Birkevej 20 4920 Søllested,20,418350.0,05-12-1992,Alm.,0,5,Villa,127,1963,
+Rødbyvej 13 4920 Søllested,13,30000.0,26-11-1992,Alm.,187,3,Villa,160,2005,
+Almindevej 60 4920 Søllested,60,385000.0,29-10-1992,Alm.,1974,6,Villa,195,1911,
+Højrebyvej 71 4920 Søllested,71,450000.0,14-08-1992,Alm.,924,31,Landbrug,487,1910,
+Højskolevej 14 4920 Søllested,14,150000.0,11-08-1992,Alm.,1744,4,Villa,86,1901,
+Rødbyvej 44 4920 Søllested,44,178000.0,10-08-1992,Alm.,0,4,Villa,161,1877,
+Mimosevej 23 4920 Søllested,23,430000.0,05-08-1992,Alm.,2866,5,Villa,150,1985,
+Vestervej 8A 4920 Søllested,0,475000.0,16-07-1992,Alm.,0,7,Villa,239,1972,
+Højrebygade 63 4920 Søllested,63,465000.0,26-06-1992,Alm.,2906,6,Villa,160,1968,
+Rødbyvej 7 4920 Søllested,7,530000.0,12-05-1992,Andet,3173,6,Villa,167,1943,
+Vesterbyvej 10 4920 Søllested,10,370000.0,16-04-1992,Alm.,3083,5,Villa,120,1900,
+Strædet 5 4920 Søllested,5,200000.0,31-03-1992,Fam.,0,4,Stuehus,70,1902,
+Højrebygade 50 4920 Søllested,50,650000.0,07-02-1992,Alm.,2927,6,Villa,222,1981,
+Maribovej 278 4920 Søllested,278,250000.0,25-01-1992,Alm.,1050,7,Villa,238,1928,
+Vestervej 39 4920 Søllested,39,318400.0,22-01-1992,Alm.,2412,4,Villa,132,1970,
+Troelsebyvej 43 4920 Søllested,43,350000.0,21-01-1992,Alm.,2201,4,Villa,159,1827,

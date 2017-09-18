@@ -1,0 +1,629 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Holdgårdsvej 13 7260 Sønder Omme,7260,675000.0,04-05-2017,Alm.,7584,3,Villa,89,1958,0 %
+Gammel Bøvlvej 21 7260 Sønder Omme,7260,478000.0,28-04-2017,Fam.,3144,4,Villa,152,1957,
+Vejlevej 23 7260 Sønder Omme,7260,400000.0,21-04-2017,Alm.,2500,7,Villa,160,1939,-10 %
+Stakrogevej 51 7260 Sønder Omme,7260,960000.0,17-04-2017,Fam.,6000,4,Stuehus,160,1910,
+Herningvej 10A 7260 Sønder Omme,7260,230000.0,03-04-2017,Alm.,2035,3,Rækkehus,113,1919,-16 %
+Birkebæk Alle 4 7260 Sønder Omme,7260,825000.0,03-03-2017,Alm.,3891,7,Villa,212,1970,-8 %
+Enghaven 27 7260 Sønder Omme,7260,850000.0,06-02-2017,Alm.,3386,8,Villa,251,1947,-15 %
+Holdgårdsvej 46 7260 Sønder Omme,7260,760000.0,30-01-2017,Alm.,5135,3,Villa,148,1952,-8 %
+Vejlevej 26A 7260 Sønder Omme,7260,1035000.0,25-01-2017,Alm.,8483,3,Villa,122,1987,-10 %
+Grønvang 14 7260 Sønder Omme,7260,975000.0,20-01-2017,Alm.,11079,4,Villa,88,1950,0 %
+Møbjergvej 89 7260 Sønder Omme,7260,795000.0,09-12-2016,Alm.,5520,7,Villa,144,1870,0 %
+Skovvang 8 7260 Sønder Omme,7260,400000.0,28-11-2016,Alm.,2702,5,Villa,148,1978,-38 %
+Grønvang 13 7260 Sønder Omme,7260,550000.0,19-11-2016,Alm.,4330,3,Villa,127,1973,-8 %
+Tarm Landevej 15 7260 Sønder Omme,7260,750000.0,04-11-2016,Alm.,5395,5,Villa,139,1966,-6 %
+Holdgårdsvej 10 7260 Sønder Omme,7260,750000.0,26-10-2016,Alm.,6355,3,Villa,118,1971,-6 %
+Tolvalenvej 32 7260 Sønder Omme,7260,1350000.0,21-10-2016,Alm.,7627,4,Villa,177,1979,-10 %
+Grindstedvej 25 7260 Sønder Omme,7260,730000.0,21-10-2016,Alm.,4932,6,Villa,148,1938,-8 %
+Holdgårdsvej 18 7260 Sønder Omme,7260,640000.0,15-10-2016,Alm.,8888,3,Villa,72,1958,-15 %
+Vejlevej 20 7260 Sønder Omme,7260,1025000.0,10-10-2016,Alm.,4495,7,Villa,228,1900,-4 %
+Vilhelmsmindevej 38 7260 Sønder Omme,7260,1550000.0,06-10-2016,Alm.,9064,5,Villa,171,1916,-3 %
+Solbakken 52 7260 Sønder Omme,7260,970000.0,29-09-2016,Alm.,7637,4,Villa,127,1977,-3 %
+Enghaven 28 7260 Sønder Omme,7260,500000.0,15-09-2016,Alm.,3759,5,Villa,133,1969,-28 %
+Kirkebyvej 144 7260 Sønder Omme,7260,410000.0,13-09-2016,Alm.,2369,5,Villa,173,2001,
+Bøvlvej 191 7260 Sønder Omme,7260,1230000.0,30-08-2016,Alm.,10165,4,Villa,121,1965,-2 %
+Gammel Bøvlvej 26 7260 Sønder Omme,7260,929000.0,29-08-2016,Alm.,10438,3,Villa,89,1960,
+Hovedgaden 6 7260 Sønder Omme,7260,600000.0,11-07-2016,Alm.,5825,4,Villa,103,1894,-11 %
+Bøvlvej 176 7260 Sønder Omme,7260,735000.0,06-07-2016,Alm.,4966,6,Villa,148,1978,6 %
+Grindstedvej 40 7260 Sønder Omme,7260,150000.0,08-06-2016,Alm.,1630,3,Villa,92,1946,
+Skovbrynet 5 7260 Sønder Omme,7260,900000.0,03-06-2016,Alm.,6040,6,Villa,149,1975,
+Bøvlvej 159 7260 Sønder Omme,7260,2000000.0,18-05-2016,Alm.,15384,5,Stuehus,130,1932,
+Bøvlvej 238 7260 Sønder Omme,7260,130000.0,13-05-2016,Alm.,0,0,Landbrugsgrund,0,0,
+Bøvlvej 238 7260 Sønder Omme,7260,130000.0,13-05-2016,Alm.,0,0,Landbrugsgrund,0,0,
+Stakrogevej 22 7260 Sønder Omme,7260,100000.0,01-05-2016,Alm.,2222,4,Villa,45,1966,
+Hasselvej 2 7260 Sønder Omme,7260,700000.0,29-04-2016,Alm.,7291,3,Villa,96,1967,
+Lærke Alle 2 7260 Sønder Omme,7260,600000.0,25-04-2016,Andet,4580,5,Villa,131,1959,
+Farvergade 8 7260 Sønder Omme,7260,287500.0,21-04-2016,Fam.,2457,3,Villa,117,1941,-32 %
+Gammel Bøvlvej 17 7260 Sønder Omme,7260,795000.0,15-04-2016,Alm.,8112,4,Villa,98,1990,0 %
+Tolvalenvej 13 7260 Sønder Omme,7260,350000.0,07-04-2016,Auktion,3500,4,Villa,100,1965,
+Grønvang 15 7260 Sønder Omme,7260,555000.0,24-03-2016,Fam.,4440,4,Villa,125,1974,
+Grønvang 22 7260 Sønder Omme,7260,450000.0,10-03-2016,Alm.,3000,6,Villa,150,1960,-17 %
+Gammel Bøvlvej 27 7260 Sønder Omme,7260,475000.0,10-03-2016,Alm.,3925,4,Villa,121,1954,-13 %
+Engebækgårdvej 1 7260 Sønder Omme,7260,1025000.0,13-02-2016,Alm.,5125,6,Stuehus,200,1914,-10 %
+Hovedgaden 35 7260 Sønder Omme,7260,630000.0,04-02-2016,Alm.,8513,8,Servicevirksomhed,74,1910,
+Vejlevej 26B 7260 Sønder Omme,7260,705000.0,28-01-2016,Alm.,6184,3,Villa,114,1972,-8 %
+Skærsigvej 8 7260 Sønder Omme,7260,2790000.0,24-01-2016,Alm.,21136,5,Stuehus,132,1948,-2 %
+Vilhelmsmindevej 47 7260 Sønder Omme,7260,1825000.0,21-01-2016,Alm.,7242,6,Villa,252,1900,-4 %
+Vandværksvej 9 7260 Sønder Omme,7260,462500.0,10-01-2016,Fam.,3557,4,Villa,130,1968,
+Simmelbrovej 33 7260 Sønder Omme,7260,150000.0,17-12-2015,Auktion,828,8,Villa,181,1840,
+Tolvalenvej 36 7260 Sønder Omme,7260,200000.0,23-11-2015,Alm.,1063,5,Villa,188,1972,
+Højvangsvej 22 7260 Sønder Omme,7260,1130000.0,22-10-2015,Auktion,4431,6,Villa,255,2002,
+Holdgårdsvej 16 7260 Sønder Omme,7260,1400000.0,21-10-2015,Alm.,7035,7,Villa,199,1974,-6 %
+Vesterled 18 7260 Sønder Omme,7260,762000.0,14-10-2015,Alm.,5562,4,Villa,137,1962,-10 %
+Nørager 7 7260 Sønder Omme,7260,610000.0,13-10-2015,Alm.,5169,4,Villa,118,1979,
+Holdgårdsvej 17 7260 Sønder Omme,7260,645000.0,10-10-2015,Alm.,6201,3,Villa,104,1956,-7 %
+Grønvang 25 7260 Sønder Omme,7260,1500000.0,07-10-2015,Alm.,6172,8,Villa,243,1972,-6 %
+Møbjergvej 107 7260 Sønder Omme,7260,16500000.0,26-08-2015,Alm.,85492,6,Stuehus,193,1930,
+Vejlevej 67 7260 Sønder Omme,7260,600000.0,20-08-2015,Alm.,4379,5,Villa,137,1955,10 %
+Vejlevej 69 7260 Sønder Omme,7260,20000.0,20-08-2015,Alm.,312,2,Villa,64,1915,-93 %
+Skovvang 15 7260 Sønder Omme,7260,460000.0,19-08-2015,Alm.,4423,4,Villa,104,1963,-16 %
+Nørager 97 7260 Sønder Omme,7260,400000.0,17-07-2015,Alm.,6250,2,Rækkehus,64,1981,-11 %
+Gammel Bøvlvej 52 7260 Sønder Omme,7260,850000.0,28-06-2015,Alm.,4829,5,Villa,176,1972,
+Grindstedvej 23 7260 Sønder Omme,7260,537500.0,25-06-2015,Alm.,5321,3,Villa,101,1987,-7 %
+Tolvalenvej 4 7260 Sønder Omme,7260,3880000.0,22-06-2015,Alm.,15901,8,Stuehus,244,1998,
+Vejlevej 21 7260 Sønder Omme,7260,375000.0,11-06-2015,Fam.,3318,5,Villa,113,1920,
+Hasselvej 8 7260 Sønder Omme,7260,670000.0,05-06-2015,Alm.,5403,4,Villa,124,1969,-4 %
+Grindstedvej 30 7260 Sønder Omme,7260,440000.0,23-05-2015,Alm.,4313,4,Villa,102,1965,-11 %
+Bøvlvej 97 7260 Sønder Omme,7260,482700.0,20-05-2015,Alm.,2036,7,Stuehus,237,1900,
+Grindstedvej 44 7260 Sønder Omme,7260,100000.0,11-05-2015,Andet,454,6,Villa,220,1948,
+Bøvlvej 132 7260 Sønder Omme,7260,742000.0,07-05-2015,Fam.,7000,3,Stuehus,106,1870,
+Bøvlvej 55 7260 Sønder Omme,7260,400000.0,05-05-2015,Alm.,0,0,Erhvervsejendom,0,0,
+Grindstedvej 68 7260 Sønder Omme,7260,605000.0,21-04-2015,Fam.,6237,3,Villa,97,1940,
+Holdgårdsvej 24 7260 Sønder Omme,7260,1445000.0,18-04-2015,Alm.,9262,5,Villa,156,1934,0 %
+Farvergade 25 7260 Sønder Omme,7260,733000.0,18-04-2015,Alm.,6008,4,Villa,122,1930,
+Enghaven 39 7260 Sønder Omme,7260,880000.0,18-04-2015,Alm.,5465,4,Villa,161,1976,-12 %
+Birkebæk Alle 9 7260 Sønder Omme,7260,500000.0,11-04-2015,Alm.,4424,4,Villa,113,1966,-16 %
+Skærsigvej 12 7260 Sønder Omme,7260,590000.0,06-04-2015,Alm.,2645,8,Stuehus,223,1887,-74 %
+Gammel Bøvlvej 34 7260 Sønder Omme,7260,1150000.0,29-03-2015,Alm.,8984,5,Villa,128,1965,-11 %
+Lyngvang 21 7260 Sønder Omme,7260,1290000.0,12-03-2015,Alm.,7818,8,Villa,165,1973,-13 %
+Egeparken 18 7260 Sønder Omme,7260,1275000.0,05-03-2015,Auktion,6781,7,Villa,188,1997,
+Tolvalenvej 25 7260 Sønder Omme,7260,1550000.0,25-02-2015,Alm.,6326,5,Stuehus,245,1924,4 %
+Gammel Bøvlvej 14 7260 Sønder Omme,7260,300000.0,23-02-2015,Alm.,2083,4,Villa,144,1929,
+Hasselvej 16 7260 Sønder Omme,7260,660000.0,13-02-2015,Alm.,6000,4,Villa,110,1970,-1 %
+Egeparken 24 7260 Sønder Omme,7260,1475000.0,06-02-2015,Alm.,8240,6,Villa,179,1998,-8 %
+Birkebæk Alle 7 7260 Sønder Omme,7260,275000.0,15-01-2015,Alm.,3571,4,Villa,77,1969,-13 %
+Engebækgårdvej 3 7260 Sønder Omme,7260,575000.0,06-01-2015,Alm.,4291,5,Villa,134,1911,
+Nørager 83 7260 Sønder Omme,7260,532000.0,04-01-2015,Fam.,6909,2,Rækkehus,77,1980,
+Stakrogevej 11 7260 Sønder Omme,7260,840000.0,31-12-2014,Fam.,4941,6,Villa,170,1943,
+Gammel Bøvlvej 15 7260 Sønder Omme,7260,750000.0,19-12-2014,Alm.,5555,6,Villa,135,1966,-11 %
+Nørager 75 7260 Sønder Omme,7260,640000.0,03-12-2014,Alm.,7272,3,Rækkehus,88,1982,
+Grindstedvej 35 7260 Sønder Omme,7260,535000.0,18-11-2014,Alm.,7133,2,Villa,75,1936,-10 %
+Grindstedvej 32 7260 Sønder Omme,7260,770000.0,29-10-2014,Alm.,7000,2,Villa,110,1955,-3 %
+"Hovedgaden 1, 1 7260 Sønder Omme",7260,3300000.0,29-09-2014,Alm.,29729,5,Lejlighed,111,1877,
+Grønvang 10 7260 Sønder Omme,7260,1150000.0,26-09-2014,Alm.,7142,5,Villa,161,1956,-11 %
+Grønvang 21 7260 Sønder Omme,7260,700000.0,16-09-2014,Alm.,5600,4,Villa,125,1972,-5 %
+Solbakken 3 7260 Sønder Omme,7260,71000.0,15-09-2014,Alm.,797,3,Villa,89,1800,
+Hovedgaden 59 7260 Sønder Omme,7260,1750000.0,12-09-2014,Alm.,9668,10,Stuehus,181,1939,-30 %
+Kirkebyvej 74 7260 Sønder Omme,7260,835000.0,28-08-2014,Fam.,6374,6,Stuehus,131,1917,
+Engebækgårdvej 40 7260 Sønder Omme,7260,1260000.0,30-06-2014,Alm.,7200,5,Stuehus,175,1928,
+Nørager 30 7260 Sønder Omme,7260,596599.0,06-05-2014,Alm.,6937,2,Rækkehus,86,1980,
+Vejlevej 71 7260 Sønder Omme,7260,260000.0,05-05-2014,Fam.,4333,3,Villa,60,1951,
+Hasselvej 6 7260 Sønder Omme,7260,440000.0,08-04-2014,Alm.,3666,6,Villa,120,1968,-26 %
+Baggesgårdvej 36 7260 Sønder Omme,7260,3100000.0,01-04-2014,Alm.,26956,2,Stuehus,115,1877,-17 %
+Farvergade 3 7260 Sønder Omme,7260,290000.0,16-03-2014,Alm.,4027,3,Villa,72,1954,-16 %
+Holdgårdsvej 8 7260 Sønder Omme,7260,1025000.0,24-02-2014,Alm.,7020,5,Villa,146,1972,-6 %
+Grindstedvej 76 7260 Sønder Omme,7260,325000.0,15-02-2014,Alm.,3125,3,Villa,104,1964,
+Lyngvang 5 7260 Sønder Omme,7260,1108382.0,12-02-2014,Fam.,7697,5,Villa,144,1973,-14 %
+Birkebæk Alle 13 7260 Sønder Omme,7260,635000.0,28-01-2014,Alm.,3848,4,Villa,165,1963,-9 %
+Grindstedvej 11 7260 Sønder Omme,7260,155000.0,27-12-2013,Alm.,1550,3,Villa,100,1936,-11 %
+Engebækgårdvej 8 7260 Sønder Omme,7260,495000.0,28-11-2013,Alm.,3778,5,Villa,131,1939,0 %
+Møbjergvej 9 7260 Sønder Omme,7260,2650000.0,12-11-2013,Alm.,9601,9,Stuehus,276,2003,
+Vejlevej 3 7260 Sønder Omme,7260,150000.0,04-11-2013,Alm.,1006,3,Villa,149,1902,-49 %
+Parallelvej 8 7260 Sønder Omme,7260,900000.0,21-10-2013,Fam.,6766,4,Villa,133,1971,
+Egevej 8 7260 Sønder Omme,7260,500000.0,07-10-2013,Alm.,4716,3,Villa,106,1966,-13 %
+Engebækgårdvej 55 7260 Sønder Omme,7260,300000.0,09-09-2013,Alm.,1657,5,Villa,181,1960,
+Enghaven 15 7260 Sønder Omme,7260,340000.0,05-09-2013,Alm.,2720,6,Villa,125,1938,-24 %
+Møbjergvej 33 7260 Sønder Omme,7260,975000.0,09-07-2013,Alm.,7065,5,Villa,138,1902,
+Smedegade 11 7260 Sønder Omme,7260,600000.0,24-06-2013,Alm.,5263,4,Villa,114,1973,-14 %
+Nørager 12 7260 Sønder Omme,7260,575000.0,12-06-2013,Alm.,3782,6,Villa,152,1981,
+Rahbæksvej 12 7260 Sønder Omme,7260,900000.0,08-05-2013,Fam.,5882,4,Villa,153,1977,
+Hovedgaden 65 7260 Sønder Omme,7260,1600000.0,08-05-2013,Fam.,7881,8,Villa,203,1979,
+Grindstedvej 60 7260 Sønder Omme,7260,665000.0,06-05-2013,Alm.,6394,3,Villa,104,1968,-1 %
+Solbakken 28 7260 Sønder Omme,7260,480000.0,02-05-2013,Auktion,3966,4,Villa,121,1976,
+Grindstedvej 48 7260 Sønder Omme,7260,695000.0,27-04-2013,Alm.,5186,6,Villa,134,1939,0 %
+Baggesgårdvej 25 7260 Sønder Omme,7260,855000.0,24-04-2013,Alm.,8300,4,Villa,103,1976,
+Rahbæksvej 6 7260 Sønder Omme,7260,1150000.0,27-02-2013,Alm.,7467,5,Villa,154,1974,
+Bøvlvej 120 7260 Sønder Omme,7260,1350000.0,04-02-2013,Alm.,8231,4,Villa,164,1939,-55 %
+Grindstedvej 21 7260 Sønder Omme,7260,250000.0,11-01-2013,Alm.,3472,3,Villa,72,1934,-28 %
+Egeparken 9 7260 Sønder Omme,7260,1645000.0,26-11-2012,Alm.,12557,2,Villa,131,2006,0 %
+Grindstedvej 10 7260 Sønder Omme,7260,595000.0,01-11-2012,Auktion,4722,3,Villa,126,1946,-34 %
+Åvej 19 7260 Sønder Omme,7260,340000.0,26-10-2012,Alm.,4146,2,Villa,82,1917,0 %
+Nørager 87 7260 Sønder Omme,7260,400000.0,22-10-2012,Alm.,5194,2,Rækkehus,77,1982,-11 %
+Simmelvej 8 7260 Sønder Omme,7260,2535000.0,16-10-2012,Alm.,13342,6,Stuehus,190,1955,
+Grønvang 17 7260 Sønder Omme,7260,796000.0,25-09-2012,Alm.,6218,4,Villa,128,1972,
+Gammel Bøvlvej 48 7260 Sønder Omme,7260,777500.0,25-07-2012,Alm.,5980,5,Villa,130,1952,-2 %
+Egevej 5 7260 Sønder Omme,7260,785000.0,25-07-2012,Alm.,6280,4,Villa,125,1967,-5 %
+Tarm Landevej 16 7260 Sønder Omme,7260,899927.0,18-07-2012,Alm.,3813,8,Villa,236,1935,
+Nørager 9 7260 Sønder Omme,7260,865000.0,02-07-2012,Alm.,7330,4,Villa,118,1978,-3 %
+Herningvej 85 7260 Sønder Omme,7260,1000000.0,30-06-2012,Alm.,6493,6,Stuehus,154,1903,
+Herningvej 88 7260 Sønder Omme,7260,460000.0,27-06-2012,Alm.,3739,4,Stuehus,123,1912,-16 %
+Birkevej 10 7260 Sønder Omme,7260,30000.0,05-06-2012,Alm.,192,4,Villa,156,1973,
+Hovedgaden 54 7260 Sønder Omme,7260,775000.0,18-03-2012,Alm.,5656,5,Villa,137,1957,-8 %
+Egeparken 12 7260 Sønder Omme,7260,1425000.0,28-02-2012,Alm.,9253,5,Villa,154,1998,-10 %
+Gammel Bøvlvej 32 7260 Sønder Omme,7260,600000.0,06-02-2012,Alm.,2702,5,Villa,222,1970,-33 %
+Stakrogevej 43 7260 Sønder Omme,7260,1400000.0,04-01-2012,Alm.,5882,5,Stuehus,238,1912,
+Møbjergvej 11 7260 Sønder Omme,7260,925000.0,24-11-2011,Alm.,0,6,Villa,168,1963,
+Møbjergvej 37 7260 Sønder Omme,7260,3150000.0,21-11-2011,Alm.,15909,6,Stuehus,198,1939,-3 %
+Rahbæksparken 456 7260 Sønder Omme,7260,1250000.0,21-11-2011,Alm.,13157,3,Rækkehus,95,2010,-3 %
+Grønvang 11 7260 Sønder Omme,7260,580000.0,20-10-2011,Alm.,5000,4,Villa,116,1969,0 %
+Holdgårdsvej 35 7260 Sønder Omme,7260,400000.0,14-10-2011,Alm.,3125,3,Villa,128,1938,-19 %
+Herningvej 6 7260 Sønder Omme,7260,615000.0,12-10-2011,Alm.,5347,4,Villa,115,1928,-23 %
+Nørager 10 7260 Sønder Omme,7260,1800000.0,16-09-2011,Alm.,9230,7,Villa,195,1994,-9 %
+Grønvang 7 7260 Sønder Omme,7260,665000.0,25-08-2011,Alm.,5155,3,Villa,129,1969,-4 %
+Vejlevej 22 7260 Sønder Omme,7260,325000.0,27-07-2011,Alm.,3915,3,Villa,83,1937,-13 %
+Skovvej 48 7260 Sønder Omme,7260,1750000.0,20-06-2011,Alm.,15765,4,Stuehus,111,1872,
+Skovvej 11 7260 Sønder Omme,7260,712000.0,10-06-2011,Alm.,5435,4,Villa,131,1968,-3 %
+Vesterled 14 7260 Sønder Omme,7260,695000.0,06-05-2011,Alm.,6435,4,Villa,108,1963,-7 %
+Vesterled 15 7260 Sønder Omme,7260,635000.0,04-05-2011,Alm.,5879,4,Villa,108,1967,0 %
+Nørager 35 7260 Sønder Omme,7260,845000.0,29-04-2011,Alm.,5281,5,Villa,160,1979,0 %
+Skovvej 30 7260 Sønder Omme,7260,90000.0,12-04-2011,Alm.,452,5,Stuehus,199,1970,
+Tarm Landevej 29 7260 Sønder Omme,7260,765000.0,07-04-2011,Auktion,0,7,Villa,323,1917,-13 %
+Herningvej 9 7260 Sønder Omme,7260,570000.0,07-04-2011,Alm.,4750,4,Villa,120,1927,-3 %
+Grønvang 27 7260 Sønder Omme,7260,775000.0,29-03-2011,Alm.,4936,5,Villa,157,1966,-6 %
+Grønvang 29 7260 Sønder Omme,7260,550000.0,28-03-2011,Alm.,4583,4,Villa,120,1966,-8 %
+Hyldevej 7 7260 Sønder Omme,7260,530000.0,24-03-2011,Auktion,2190,4,Villa,242,2014,-69 %
+Birkebæk Alle 15 7260 Sønder Omme,7260,745000.0,23-03-2011,Alm.,5820,4,Villa,128,1970,-12 %
+Herningvej 8 7260 Sønder Omme,7260,395000.0,22-03-2011,Alm.,3872,3,Rækkehus,102,1919,-12 %
+Solbakken 38 7260 Sønder Omme,7260,1010000.0,17-03-2011,Alm.,7266,5,Villa,139,1975,
+Møbjergvej 77 7260 Sønder Omme,7260,995000.0,04-03-2011,Alm.,5751,5,Villa,173,1900,0 %
+Vilhelmsmindevej 50 7260 Sønder Omme,7260,225000.0,10-02-2011,Auktion,1875,4,Villa,120,1922,-72 %
+Omme Landevej 70 7260 Sønder Omme,7260,3500000.0,15-01-2011,Alm.,15765,6,Stuehus,222,1945,
+Sønderbro 10 7260 Sønder Omme,7260,3400000.0,10-01-2011,Alm.,33009,4,Villa,103,1865,
+Hovedgaden 53 7260 Sønder Omme,7260,950000.0,02-01-2011,Alm.,5654,5,Villa,168,1936,-13 %
+Kirkebyvej 75 7260 Sønder Omme,7260,866000.0,01-01-2011,Fam.,4948,5,Villa,175,2010,
+"Vejlevej 1, 1. TH 7260 Sønder Omme",7260,725000.0,21-12-2010,Fam.,3625,6,Lejlighed,200,1940,
+Grindstedvej 17 7260 Sønder Omme,7260,350000.0,09-12-2010,Auktion,3211,2,Villa,109,1936,-50 %
+Enghaven 13 7260 Sønder Omme,7260,1411050.0,05-11-2010,Alm.,8500,5,Villa,166,1920,-6 %
+Skovvang 5 7260 Sønder Omme,7260,387500.0,04-11-2010,Auktion,3399,3,Villa,114,1952,
+Gammel Bøvlvej 28 7260 Sønder Omme,7260,595000.0,22-10-2010,Alm.,6071,3,Villa,98,1920,-8 %
+Stadion Alle 32 7260 Sønder Omme,7260,560000.0,07-10-2010,Alm.,8358,3,Villa,67,1950,-2 %
+Lyngvang 17 7260 Sønder Omme,7260,1075000.0,09-09-2010,Alm.,7962,4,Villa,135,1973,-6 %
+Smedegade 9 7260 Sønder Omme,7260,777416.0,24-08-2010,Andet,4113,6,Villa,189,2008,
+Tolvalenvej 19 7260 Sønder Omme,7260,200000.0,18-08-2010,Alm.,1307,6,Stuehus,153,1916,
+Nørager 14 7260 Sønder Omme,7260,1050000.0,09-07-2010,Alm.,8974,4,Villa,117,1987,-2 %
+Nørager 37 7260 Sønder Omme,7260,430000.0,04-07-2010,Fam.,3282,5,Villa,131,1980,
+Egeparken 6 7260 Sønder Omme,7260,1750000.0,25-06-2010,Alm.,10670,5,Villa,164,1997,-3 %
+Herningvej 1 7260 Sønder Omme,7260,603500.0,19-06-2010,Fam.,4714,5,Villa,128,1957,-30 %
+Bøvlvej 112 7260 Sønder Omme,7260,247190.0,14-06-2010,Alm.,2746,4,Stuehus,90,1870,
+Bøvlvej 96 7260 Sønder Omme,7260,168000.0,04-06-2010,Alm.,1120,7,Stuehus,150,1950,
+Bøvlvej 89 7260 Sønder Omme,7260,120000.0,03-06-2010,Alm.,530,8,Stuehus,226,1877,
+Hovedgaden 50 7260 Sønder Omme,7260,995000.0,01-06-2010,Alm.,8652,4,Villa,115,1946,0 %
+Enghaven 26 7260 Sønder Omme,7260,850000.0,24-05-2010,Alm.,6439,5,Villa,132,1968,-5 %
+Hasselvej 13 7260 Sønder Omme,7260,920000.0,20-05-2010,Alm.,6764,4,Villa,136,1971,-2 %
+Hovedgaden 71 7260 Sønder Omme,7260,550000.0,11-05-2010,Alm.,0,5,Villa,128,1954,-8 %
+Åvej 10 7260 Sønder Omme,7260,385000.0,29-04-2010,Alm.,4695,3,Villa,82,1930,-3 %
+Bøvlvej 93 7260 Sønder Omme,7260,1400000.0,14-04-2010,Alm.,4929,9,Stuehus,284,1927,-20 %
+Bøvlvej 151 7260 Sønder Omme,7260,1500000.0,08-04-2010,Alm.,7575,6,Stuehus,198,1940,
+Grønvang 5 7260 Sønder Omme,7260,432700.0,15-03-2010,Alm.,3278,5,Villa,132,1971,
+Tarm Landevej 8 7260 Sønder Omme,7260,121605.0,01-03-2010,Alm.,593,9,Stuehus,205,1913,
+Hasselvej 14 7260 Sønder Omme,7260,915000.0,01-03-2010,Alm.,8714,4,Villa,105,1968,-5 %
+Enghaven 33 7260 Sønder Omme,7260,1125000.0,26-02-2010,Alm.,6540,5,Villa,172,1974,-4 %
+Grønvang 24 7260 Sønder Omme,7260,835000.0,12-02-2010,Alm.,6094,4,Villa,137,1959,-5 %
+Grindstedvej 70 7260 Sønder Omme,7260,720000.0,12-12-2009,Alm.,8181,3,Villa,88,1962,-9 %
+Solbakken 48 7260 Sønder Omme,7260,875000.0,09-12-2009,Alm.,6076,5,Villa,144,1978,
+Egevej 4 7260 Sønder Omme,7260,825000.0,12-11-2009,Alm.,7366,4,Villa,112,1966,0 %
+Møbjergvej 53 7260 Sønder Omme,7260,558666.0,08-11-2009,Alm.,6139,2,Villa,91,1965,
+Herningvej 11 7260 Sønder Omme,7260,650000.0,29-10-2009,Auktion,7471,5,Villa,87,1951,
+Nørager 27 7260 Sønder Omme,7260,1175000.0,23-09-2009,Alm.,8103,5,Villa,145,1980,-2 %
+Nørager 16 7260 Sønder Omme,7260,544000.0,08-09-2009,Alm.,3578,5,Villa,152,1995,
+Lyngvang 1 7260 Sønder Omme,7260,870000.0,07-09-2009,Alm.,7131,4,Villa,122,1973,-3 %
+Åvej 21 7260 Sønder Omme,7260,1000000.0,25-08-2009,Alm.,10416,4,Villa,96,1960,-5 %
+Engebækgårdvej 12 7260 Sønder Omme,7260,940000.0,14-08-2009,Alm.,5529,6,Stuehus,170,1877,-1 %
+Skærsigvej 7 7260 Sønder Omme,7260,1280000.0,12-08-2009,Alm.,0,6,Stuehus,204,1931,
+Birkevej 1 7260 Sønder Omme,7260,850000.0,24-07-2009,Alm.,5519,5,Villa,154,1964,1 %
+Tolvalenvej 6 7260 Sønder Omme,7260,575000.0,01-07-2009,Alm.,4872,3,Villa,118,1945,
+Lyngvang 3A 7260 Sønder Omme,7260,717500.0,01-07-2009,Alm.,5881,4,Villa,122,1974,-1 %
+Skovvang 2 7260 Sønder Omme,7260,675000.0,10-06-2009,Alm.,5357,5,Villa,126,1960,-9 %
+Lyngvang 12 7260 Sønder Omme,7260,700000.0,10-06-2009,Alm.,6034,4,Villa,116,1972,-7 %
+Grønvang 28 7260 Sønder Omme,7260,850000.0,04-06-2009,Alm.,7327,3,Villa,116,1953,-2 %
+Møbjergvej 21 7260 Sønder Omme,7260,1660000.0,28-05-2009,Alm.,10060,5,Villa,165,1942,
+Hyldevej 4 7260 Sønder Omme,7260,700000.0,01-05-2009,Alm.,3867,5,Villa,181,1914,
+Bøvlvej 179 7260 Sønder Omme,7260,490000.0,23-04-2009,Alm.,4454,3,Villa,110,1949,-8 %
+Vilhelmsmindevej 39 7260 Sønder Omme,7260,6950000.0,14-04-2009,Fam.,18098,6,Stuehus,384,1938,
+Egevej 16 7260 Sønder Omme,7260,545000.0,02-04-2009,Alm.,4909,4,Villa,111,1965,-8 %
+Vejlevej 6 7260 Sønder Omme,7260,1075000.0,27-03-2009,Alm.,8022,9,Engroshandel,134,1939,
+"Vejlevej 14, 1 7260 Sønder Omme",7260,550000.0,27-03-2009,Alm.,4700,4,Lejlighed,117,1935,
+"Vejlevej 14, ST 7260 Sønder Omme",7260,550000.0,27-03-2009,Alm.,5339,3,Lejlighed,103,1935,
+Vejlevej 9 7260 Sønder Omme,7260,1225000.0,26-03-2009,Alm.,8941,7,Ukendt,137,1957,
+Lyngvang 8 7260 Sønder Omme,7260,815000.0,25-03-2009,Alm.,7276,4,Villa,112,1972,-4 %
+Parallelvej 4 7260 Sønder Omme,7260,850000.0,20-03-2009,Alm.,7327,4,Villa,116,1965,0 %
+Parallelvej 6 7260 Sønder Omme,7260,740000.0,14-03-2009,Alm.,6379,4,Villa,116,1969,-7 %
+Birkevej 7 7260 Sønder Omme,7260,1300000.0,24-02-2009,Alm.,9489,5,Villa,137,1971,-3 %
+Vilhelmsmindevej 43 7260 Sønder Omme,7260,2771835.0,26-01-2009,Alm.,15839,5,Villa,175,1924,
+Hovedgaden 22 7260 Sønder Omme,7260,419500.0,22-12-2008,Fam.,2511,7,Villa,167,1900,
+Gammel Bøvlvej 5 7260 Sønder Omme,7260,600000.0,12-11-2008,Fam.,2479,6,Villa,242,1913,
+Tarm Landevej 43 7260 Sønder Omme,7260,40000000.0,06-11-2008,Alm.,201005,7,Stuehus,199,2013,
+Hasselvej 3 7260 Sønder Omme,7260,1600000.0,27-10-2008,Alm.,8465,8,Villa,189,1968,
+Vesterled 13 7260 Sønder Omme,7260,845000.0,25-10-2008,Alm.,9086,4,Villa,93,1964,4 %
+Grindstedvej 36 7260 Sønder Omme,7260,272000.0,22-09-2008,Alm.,2472,5,Villa,110,1942,
+Herningvej 13 7260 Sønder Omme,7260,745000.0,03-09-2008,Alm.,7163,3,Villa,104,1952,0 %
+Holdgårdsvej 32 7260 Sønder Omme,7260,755000.0,25-08-2008,Alm.,7259,3,Villa,104,1985,-3 %
+Solbakken 55 7260 Sønder Omme,7260,1425000.0,07-08-2008,Alm.,10555,4,Villa,135,1978,-2 %
+Skole Alle 10 7260 Sønder Omme,7260,795000.0,25-06-2008,Alm.,6625,4,Villa,120,1910,0 %
+Simmelvej 21 7260 Sønder Omme,7260,645000.0,23-06-2008,Auktion,4640,3,Stuehus,139,1959,
+Hasselvej 11 7260 Sønder Omme,7260,875000.0,12-06-2008,Alm.,6835,4,Villa,128,1969,0 %
+Vesterled 12 7260 Sønder Omme,7260,970000.0,16-05-2008,Alm.,8738,4,Villa,111,1963,-3 %
+Farvergade 4 7260 Sønder Omme,7260,595000.0,16-05-2008,Alm.,0,5,Villa,105,1940,0 %
+Tolvalenvej 15 7260 Sønder Omme,7260,580000.0,15-05-2008,Alm.,6170,4,Villa,94,1965,-3 %
+Nørager 5 7260 Sønder Omme,7260,1180000.0,10-05-2008,Alm.,8428,6,Villa,140,1979,
+Holdgårdsvej 2 7260 Sønder Omme,7260,775000.0,24-04-2008,Alm.,7989,3,Villa,97,1956,0 %
+Gammel Bøvlvej 18 7260 Sønder Omme,7260,595000.0,02-04-2008,Alm.,5613,4,Villa,106,1920,0 %
+Åvej 12 7260 Sønder Omme,7260,710000.0,29-03-2008,Alm.,7395,4,Villa,96,1937,
+Vesterled 1 7260 Sønder Omme,7260,775000.0,12-03-2008,Alm.,10197,3,Villa,76,1952,-3 %
+Skovvang 23 7260 Sønder Omme,7260,2080000.0,05-03-2008,Alm.,8813,7,Villa,236,1969,6 %
+Simmelbrovej 52 7260 Sønder Omme,7260,1800000.0,04-03-2008,Alm.,11320,6,Stuehus,159,1926,
+Enghaven 32 7260 Sønder Omme,7260,880000.0,01-03-2008,Alm.,5176,6,Villa,170,1973,-7 %
+Herningvej 49 7260 Sønder Omme,7260,1500000.0,29-02-2008,Alm.,0,5,Stuehus,279,1888,-5 %
+Herningvej 100 7260 Sønder Omme,7260,2950000.0,28-02-2008,Alm.,0,6,Stuehus,215,1928,
+Stadion Alle 20B 7260 Sønder Omme,7260,640000.0,28-02-2008,Alm.,6400,3,Villa,100,1921,-2 %
+Holdgårdsvej 3 7260 Sønder Omme,7260,910000.0,25-02-2008,Alm.,13000,3,Villa,70,1937,-2 %
+Parallelvej 12 7260 Sønder Omme,7260,520000.0,22-02-2008,Alm.,4406,4,Villa,118,1969,
+Herningvej 18 7260 Sønder Omme,7260,500000.0,15-02-2008,Alm.,0,5,Villa,207,1950,-13 %
+Birkemosevej 3 7260 Sønder Omme,7260,1972500.0,14-02-2008,Fam.,16036,4,Stuehus,123,1930,
+Holdgårdsvej 9 7260 Sønder Omme,7260,750000.0,11-02-2008,Alm.,6097,4,Villa,123,1934,
+Nørager 77 7260 Sønder Omme,7260,640000.0,04-02-2008,Alm.,7272,3,Rækkehus,88,1982,
+Skole Alle 12 7260 Sønder Omme,7260,1500000.0,24-01-2008,Alm.,6976,6,Villa,215,1900,-3 %
+Holdgårdsvej 31 7260 Sønder Omme,7260,500000.0,22-01-2008,Alm.,4950,5,Villa,101,1939,-16 %
+Nørager 26 7260 Sønder Omme,7260,680000.0,19-01-2008,Alm.,5913,3,Rækkehus,115,1980,-2 %
+Kirkebyvej 108 7260 Sønder Omme,7260,2500000.0,18-01-2008,Fam.,17482,4,Stuehus,143,1992,
+Vejlevej 37 7260 Sønder Omme,7260,795000.0,14-01-2008,Alm.,7794,4,Villa,102,1955,0 %
+Skovvang 3 7260 Sønder Omme,7260,586500.0,20-12-2007,Fam.,4654,4,Villa,126,1960,
+Stakrogevej 64 7260 Sønder Omme,7260,315000.0,20-12-2007,Alm.,4375,3,Villa,72,1915,-21 %
+Holdgårdsvej 7 7260 Sønder Omme,7260,620500.0,20-12-2007,Alm.,4339,5,Villa,143,1934,
+Stakrogevej 55 7260 Sønder Omme,7260,4887500.0,30-11-2007,Fam.,16077,8,Stuehus,304,1871,
+Simmelvej 12 7260 Sønder Omme,7260,2900000.0,26-11-2007,Fam.,16571,7,Stuehus,175,1945,
+Gammel Bøvlvej 9 7260 Sønder Omme,7260,462500.0,01-11-2007,Alm.,3613,5,Villa,128,1910,
+Grindstedvej 72 7260 Sønder Omme,7260,695000.0,30-10-2007,Alm.,7091,4,Villa,98,1959,
+Nørager 23 7260 Sønder Omme,7260,925000.0,22-10-2007,Alm.,7283,4,Villa,127,1979,
+Herningvej 40 7260 Sønder Omme,7260,1237800.0,15-10-2007,Alm.,8905,6,Stuehus,139,1925,
+Tolvalenvej 20 7260 Sønder Omme,7260,1500000.0,10-10-2007,Alm.,8875,7,Stuehus,169,1922,
+Herningvej 14 7260 Sønder Omme,7260,725000.0,05-10-2007,Alm.,8055,4,Villa,90,1950,
+Nørager 25 7260 Sønder Omme,7260,1050000.0,04-10-2007,Alm.,7608,5,Villa,138,1980,
+Holdgårdsvej 28 7260 Sønder Omme,7260,830000.0,29-09-2007,Alm.,5123,4,Villa,162,1934,
+Vesterled 4 7260 Sønder Omme,7260,565000.0,27-09-2007,Alm.,10089,1,Rækkehus,56,1948,
+Birkevej 8 7260 Sønder Omme,7260,1000000.0,18-09-2007,Alm.,5681,6,Villa,176,1970,
+Herningvej 52 7260 Sønder Omme,7260,4250000.0,01-09-2007,Alm.,10095,10,Stuehus,421,1923,
+Gammel Bøvlvej 20 7260 Sønder Omme,7260,625000.0,30-08-2007,Alm.,6009,4,Villa,104,1964,
+Egeparken 11 7260 Sønder Omme,7260,178520.0,27-08-2007,Alm.,1068,5,Villa,167,2008,
+Egeparken 7 7260 Sønder Omme,7260,183360.0,26-07-2007,Alm.,1078,6,Villa,170,2009,
+Nedergårdsvej 12 7260 Sønder Omme,7260,1645000.0,13-07-2007,Alm.,11040,5,Villa,149,1996,
+Grindstedvej 64 7260 Sønder Omme,7260,30000.0,11-07-2007,Alm.,111,6,Villa,269,1954,
+Nørager 79 7260 Sønder Omme,7260,665000.0,28-06-2007,Alm.,7471,3,Rækkehus,89,1981,-5 %
+Grindstedvej 38 7260 Sønder Omme,7260,147564.0,28-06-2007,Fam.,1916,3,Villa,77,1956,
+Møbjergvej 94 7260 Sønder Omme,7260,2450000.0,22-06-2007,Fam.,0,8,Stuehus,213,1907,
+Herningvej 81 7260 Sønder Omme,7260,970000.0,01-06-2007,Alm.,9150,4,Villa,106,1918,
+Solbakken 2 7260 Sønder Omme,7260,995000.0,31-05-2007,Alm.,6815,6,Villa,146,1979,
+Tværvej 6 7260 Sønder Omme,7260,1250000.0,31-05-2007,Alm.,0,4,Villa,141,1936,
+Egeparken 5 7260 Sønder Omme,7260,1500000.0,18-05-2007,Alm.,10563,4,Villa,142,2001,
+Grønvang 8 7260 Sønder Omme,7260,680000.0,15-05-2007,Alm.,6938,3,Villa,98,1952,
+Møbjergvej 16 7260 Sønder Omme,7260,2471200.0,27-04-2007,Alm.,11601,6,Stuehus,213,1912,
+Nørager 28 7260 Sønder Omme,7260,675000.0,19-04-2007,Alm.,7848,2,Rækkehus,86,1980,
+Stadion Alle 24 7260 Sønder Omme,7260,645000.0,18-04-2007,Alm.,8958,3,Villa,72,1954,
+Gammel Bøvlvej 12 7260 Sønder Omme,7260,600000.0,15-04-2007,Alm.,6896,3,Villa,87,1921,
+Stakrogevej 28 7260 Sønder Omme,7260,775000.0,30-03-2007,Alm.,86111,2,BygningTilLager,9,1986,
+Skole Alle 6 7260 Sønder Omme,7260,750000.0,29-03-2007,Alm.,5813,5,Villa,129,1915,
+Bøvlvej 147 7260 Sønder Omme,7260,1025000.0,15-03-2007,Fam.,5726,5,Stuehus,179,2008,
+Vesterled 10 7260 Sønder Omme,7260,1015000.0,08-03-2007,Alm.,5178,7,Villa,196,1959,-3 %
+Stakrogevej 47 7260 Sønder Omme,7260,5018895.0,23-02-2007,Alm.,31368,6,Stuehus,160,1974,
+Hovedgaden 20 7260 Sønder Omme,7260,1600000.0,20-01-2007,Alm.,9756,8,Villa,164,1890,
+Bøvlvej 170 7260 Sønder Omme,7260,407500.0,02-01-2007,Alm.,3956,3,Villa,103,1950,
+Gammel Bøvlvej 50 7260 Sønder Omme,7260,460000.0,13-12-2006,Alm.,4423,5,Villa,104,1952,
+Holdgårdsvej 34 7260 Sønder Omme,7260,820000.0,11-12-2006,Fam.,5125,5,Villa,160,1974,
+Engebækgårdvej 58 7260 Sønder Omme,7260,850000.0,05-12-2006,Alm.,8500,3,Villa,100,1984,
+Enghaven 21 7260 Sønder Omme,7260,735000.0,31-10-2006,Alm.,8448,4,Villa,87,1935,
+Engebækgårdvej 39 7260 Sønder Omme,7260,200000.0,24-09-2006,Fam.,1265,8,Stuehus,158,1875,
+Egeparken 4 7260 Sønder Omme,7260,1125000.0,16-09-2006,Alm.,9072,5,Villa,124,1997,
+Gammel Bøvlvej 41 7260 Sønder Omme,7260,660000.0,15-09-2006,Alm.,4888,5,Villa,135,1964,
+Egeparken 23 7260 Sønder Omme,7260,153640.0,05-09-2006,Alm.,1059,3,Villa,145,2008,
+Stadion Alle 30 7260 Sønder Omme,7260,640000.0,05-09-2006,Alm.,6400,4,Villa,100,1947,
+Møbjergvej 25 7260 Sønder Omme,7260,90000.0,31-08-2006,Alm.,818,4,Villa,110,1877,
+Solbakken 43 7260 Sønder Omme,7260,875000.0,31-07-2006,Alm.,5872,5,Villa,149,1977,
+Herningvej 101 7260 Sønder Omme,7260,1021300.0,20-07-2006,Alm.,5158,6,Stuehus,198,1954,
+Vejlevej 30 7260 Sønder Omme,7260,535000.0,20-07-2006,Alm.,4421,3,Villa,121,1937,
+Møbjergvej 85 7260 Sønder Omme,7260,940000.0,17-07-2006,Alm.,5696,3,Stuehus,165,1930,
+Holdgårdsvej 30 7260 Sønder Omme,7260,895000.0,15-07-2006,Alm.,7991,4,Villa,112,1935,
+Grønvang 16 7260 Sønder Omme,7260,750000.0,09-07-2006,Alm.,4746,7,Villa,158,1954,
+Møbjergvej 61 7260 Sønder Omme,7260,1135000.0,05-07-2006,Alm.,8867,5,Villa,128,1942,
+Vandværksvej 1 7260 Sønder Omme,7260,470246.0,04-07-2006,Andet,4521,4,Villa,104,1900,
+Egeparken 3 7260 Sønder Omme,7260,149790.0,29-06-2006,Alm.,846,5,Villa,177,2008,
+Stakrogevej 14 7260 Sønder Omme,7260,630000.0,24-06-2006,Alm.,4144,5,Villa,152,1962,
+Åvej 17 7260 Sønder Omme,7260,502000.0,23-06-2006,Alm.,6693,3,Villa,75,1968,
+Birkevej 5 7260 Sønder Omme,7260,950000.0,22-06-2006,Alm.,6375,6,Villa,149,1970,
+Vejlevej 29 7260 Sønder Omme,7260,1075000.0,09-06-2006,Alm.,10141,2,Villa,106,1935,
+Enghaven 3 7260 Sønder Omme,7260,775000.0,15-05-2006,Alm.,5344,5,Villa,145,1967,
+Hovedgaden 77 7260 Sønder Omme,7260,2600000.0,26-04-2006,Alm.,14772,6,Stuehus,176,1953,
+Solbakken 25 7260 Sønder Omme,7260,760000.0,11-04-2006,Alm.,5937,5,Villa,128,1977,
+Gammel Bøvlvej 40 7260 Sønder Omme,7260,392393.0,03-04-2006,Andet,3041,4,Villa,129,1953,
+Kirkebyvej 107 7260 Sønder Omme,7260,1550000.0,17-03-2006,Alm.,8288,7,Stuehus,187,1910,
+Holdgårdsvej 38 7260 Sønder Omme,7260,800000.0,27-02-2006,Alm.,5925,5,Villa,135,1971,
+Grindstedvej 31 7260 Sønder Omme,7260,495000.0,15-02-2006,Alm.,5000,2,Villa,99,1937,
+Lyngvang 44 7260 Sønder Omme,7260,1050000.0,10-02-2006,Alm.,5833,7,Villa,180,1973,
+Nørager 61 7260 Sønder Omme,7260,325306.0,01-02-2006,Alm.,2020,6,Villa,161,1988,
+Grindstedvej 66 7260 Sønder Omme,7260,825000.0,21-01-2006,Alm.,3873,6,Villa,213,1937,
+Solbakken 1 7260 Sønder Omme,7260,890000.0,11-01-2006,Alm.,6223,5,Villa,143,1976,
+Simmelvej 9 7260 Sønder Omme,7260,800000.0,05-01-2006,Alm.,6201,3,Villa,129,1936,
+Grønvang 18 7260 Sønder Omme,7260,912500.0,01-12-2005,Alm.,7799,4,Villa,117,1955,
+Gammel Bøvlvej 42 7260 Sønder Omme,7260,640000.0,19-11-2005,Alm.,4885,6,Villa,131,1959,
+Grindstedvej 14 7260 Sønder Omme,7260,682500.0,19-11-2005,Alm.,5687,5,Villa,120,1915,
+Brande Landevej 4 7260 Sønder Omme,7260,1412500.0,16-11-2005,Fam.,5812,7,Stuehus,243,2012,
+Lærke Alle 4 7260 Sønder Omme,7260,495000.0,04-11-2005,Alm.,3666,4,Villa,135,1961,
+Grindstedvej 41 7260 Sønder Omme,7260,950000.0,01-11-2005,Alm.,7142,4,Villa,133,1958,
+Grindstedvej 45 7260 Sønder Omme,7260,1875000.0,29-09-2005,Alm.,6996,7,Villa,268,1995,
+Grindstedvej 58 7260 Sønder Omme,7260,575000.0,27-09-2005,Alm.,4674,4,Villa,123,1933,
+Farvergade 13 7260 Sønder Omme,7260,1550000.0,17-09-2005,Alm.,7045,6,Villa,220,1859,
+Herningvej 44 7260 Sønder Omme,7260,2275000.0,16-09-2005,Alm.,9558,8,Stuehus,238,1926,
+Gammel Bøvlvej 37 7260 Sønder Omme,7260,695000.0,01-09-2005,Alm.,4826,5,Villa,144,1961,
+Vejlevej 39 7260 Sønder Omme,7260,215000.0,30-08-2005,Alm.,2388,3,Villa,90,1952,
+Vejlevej 42 7260 Sønder Omme,7260,655000.0,24-08-2005,Alm.,4851,4,Villa,135,1942,
+Egevej 15 7260 Sønder Omme,7260,625000.0,16-08-2005,Alm.,5208,4,Villa,120,1965,
+Vejlevej 66 7260 Sønder Omme,7260,240000.0,26-07-2005,Alm.,5217,1,Sommerhus,46,1946,
+Hasselvej 4 7260 Sønder Omme,7260,745000.0,25-07-2005,Alm.,0,8,Villa,204,1968,
+Gammel Bøvlvej 31 7260 Sønder Omme,7260,375000.0,18-07-2005,Alm.,2358,5,Villa,159,1949,
+Hovedgaden 30 7260 Sønder Omme,7260,322218.0,15-07-2005,Alm.,2106,5,Villa,153,1913,
+Gammel Bøvlvej 43 7260 Sønder Omme,7260,860000.0,06-07-2005,Alm.,6564,5,Villa,131,1965,
+Skovvang 7 7260 Sønder Omme,7260,540000.0,25-06-2005,Alm.,0,5,Villa,173,1953,
+Egeparken 21 7260 Sønder Omme,7260,1450000.0,13-06-2005,Alm.,9235,5,Villa,157,2000,
+Solbakken 7 7260 Sønder Omme,7260,502000.0,09-06-2005,Alm.,4016,4,Villa,125,1977,
+Bøvlvej 100 7260 Sønder Omme,7260,1775000.0,02-06-2005,Alm.,12500,4,Stuehus,142,1923,
+Grindstedvej 24 7260 Sønder Omme,7260,450000.0,01-06-2005,Alm.,4205,3,Villa,107,1939,
+Herningvej 12 7260 Sønder Omme,7260,645000.0,01-06-2005,Alm.,6649,2,Villa,97,1946,
+Kirkebyvej 91 7260 Sønder Omme,7260,1575000.0,27-05-2005,Alm.,8422,6,Villa,187,1872,
+Solbakken 33 7260 Sønder Omme,7260,900000.0,21-05-2005,Alm.,6474,6,Villa,139,1976,
+Engebækgårdvej 36 7260 Sønder Omme,7260,4300000.0,18-05-2005,Alm.,19026,7,Stuehus,226,2005,
+Stadion Alle 6 7260 Sønder Omme,7260,2000000.0,25-04-2005,Alm.,13698,5,Villa,146,1963,
+Hovedgaden 73 7260 Sønder Omme,7260,660000.0,21-04-2005,Alm.,5454,3,Villa,121,1960,
+Bøvlvej 128 7260 Sønder Omme,7260,2100000.0,07-04-2005,Alm.,24705,4,Stuehus,85,1974,
+Skovvej 21 7260 Sønder Omme,7260,904320.0,05-04-2005,Alm.,3676,7,Stuehus,246,2017,
+Egeparken 20 7260 Sønder Omme,7260,1395000.0,05-04-2005,Alm.,7926,6,Villa,176,2001,
+Egeparken 22 7260 Sønder Omme,7260,154000.0,04-04-2005,Alm.,950,5,Villa,162,2006,
+Brande Landevej 14 7260 Sønder Omme,7260,2757746.0,22-03-2005,Fam.,20427,5,Stuehus,135,1931,
+Skovvej 20 7260 Sønder Omme,7260,2700000.0,21-03-2005,Fam.,13989,8,Stuehus,193,1915,
+Egeparken 13 7260 Sønder Omme,7260,194180.0,21-03-2005,Alm.,1090,5,Villa,178,2006,
+Grindstedvej 34 7260 Sønder Omme,7260,745000.0,21-03-2005,Alm.,6535,3,Villa,114,1948,
+Grindstedvej 74A 7260 Sønder Omme,7260,340000.0,21-03-2005,Alm.,3333,3,Villa,102,1947,
+Engebækgårdvej 16 7260 Sønder Omme,7260,1290000.0,02-03-2005,Alm.,5019,9,Stuehus,257,1900,
+Lyngvang 10 7260 Sønder Omme,7260,670000.0,24-01-2005,Alm.,6036,4,Villa,111,1972,
+Kirkebyvej 112 7260 Sønder Omme,7260,4550000.0,30-12-2004,Alm.,28086,5,Stuehus,162,1945,
+Kirkebyvej 139 7260 Sønder Omme,7260,160000.0,19-11-2004,Alm.,888,7,Stuehus,180,1902,
+Bøvlvej 131 7260 Sønder Omme,7260,3835000.0,12-11-2004,Alm.,0,8,Stuehus,315,1900,
+Holdgårdsvej 11 7260 Sønder Omme,7260,648379.0,29-10-2004,Alm.,0,2,Villa,93,1935,
+Rahbæksvej 4 7260 Sønder Omme,7260,435835.0,26-10-2004,Andet,2690,5,Villa,162,1976,
+Solbakken 20 7260 Sønder Omme,7260,1046577.0,12-10-2004,Alm.,5206,8,Villa,201,1975,
+Bøvlvej 85 7260 Sønder Omme,7260,395000.0,07-10-2004,Alm.,0,10,Villa,310,1880,
+Tarm Landevej 63 7260 Sønder Omme,7260,1395000.0,18-09-2004,Alm.,5936,9,Villa,235,1900,
+Stakrogevej 20 7260 Sønder Omme,7260,1580000.0,15-08-2004,Alm.,6294,9,Villa,251,1930,
+Simmelbrovej 37 7260 Sønder Omme,7260,4868127.0,15-08-2004,Andet,0,3,Stuehus,172,1936,
+Skovvang 17 7260 Sønder Omme,7260,645000.0,09-07-2004,Alm.,4387,6,Villa,147,1961,
+Engebækgårdvej 9 7260 Sønder Omme,7260,218000.0,08-07-2004,Alm.,2422,4,Villa,90,1922,
+Grønvang 30 7260 Sønder Omme,7260,615000.0,29-06-2004,Alm.,3514,5,Villa,175,1951,
+Stadion Alle 26 7260 Sønder Omme,7260,660000.0,23-06-2004,Alm.,7764,4,Villa,85,1948,
+Vejlevej 46 7260 Sønder Omme,7260,1412028.0,07-06-2004,Alm.,0,10,Stuehus,209,1919,
+Farvergade 12 7260 Sønder Omme,7260,288000.0,01-06-2004,Fam.,3310,3,Villa,87,1963,
+Solbakken 14 7260 Sønder Omme,7260,1250000.0,28-05-2004,Alm.,7861,6,Villa,159,1979,
+Engebækgårdvej 21 7260 Sønder Omme,7260,1290000.0,28-05-2004,Alm.,0,6,Stuehus,148,1900,
+Farvergade 6 7260 Sønder Omme,7260,370000.0,19-04-2004,Alm.,2283,7,Villa,162,1942,
+Farvergade 1 7260 Sønder Omme,7260,710000.0,14-04-2004,Fam.,4797,5,Villa,148,1954,
+Skovvej 55 7260 Sønder Omme,7260,11350000.0,10-04-2004,Andet,56467,8,Stuehus,201,1932,
+Stadion Alle 18 7260 Sønder Omme,7260,525000.0,31-03-2004,Alm.,4861,5,Villa,108,1920,
+Solbakken 68 7260 Sønder Omme,7260,1050000.0,26-03-2004,Alm.,5147,6,Villa,204,1977,
+Grønvang 32 7260 Sønder Omme,7260,540055.0,18-03-2004,Andet,4909,4,Villa,110,1970,
+Grønvang 3 7260 Sønder Omme,7260,1075000.0,15-03-2004,Alm.,7263,5,Villa,148,1972,
+Stadion Alle 20A 7260 Sønder Omme,7260,830000.0,12-03-2004,Alm.,5123,4,Villa,162,1918,
+Solbakken 19 7260 Sønder Omme,7260,890000.0,04-03-2004,Alm.,5779,5,Villa,154,1978,
+Solbakken 23 7260 Sønder Omme,7260,995000.0,01-03-2004,Alm.,6633,6,Villa,150,1977,
+Nørager 19 7260 Sønder Omme,7260,822424.0,27-02-2004,Fam.,5140,7,Villa,160,1980,
+Vilhelmsmindevej 35 7260 Sønder Omme,7260,382300.0,27-02-2004,Alm.,1086,8,Stuehus,352,2010,
+Bøvlvej 173 7260 Sønder Omme,7260,420000.0,30-01-2004,Alm.,3684,5,Villa,114,1941,
+Lærke Alle 1 7260 Sønder Omme,7260,785000.0,23-01-2004,Alm.,6487,4,Villa,121,1969,
+Herningvej 48 7260 Sønder Omme,7260,2250000.0,22-01-2004,Alm.,16071,5,Stuehus,140,1890,
+Vejlevej 35 7260 Sønder Omme,7260,575000.0,18-01-2004,Fam.,5180,4,Villa,111,1965,
+Tarm Landevej 25 7260 Sønder Omme,7260,745000.0,02-12-2003,Alm.,3281,6,Villa,227,1942,
+Hovedgaden 23 7260 Sønder Omme,7260,564000.0,24-11-2003,Alm.,3662,5,Villa,154,1923,
+Grindstedvej 62 7260 Sønder Omme,7260,572000.0,14-10-2003,Alm.,5720,3,Villa,100,1927,
+Holdgårdsvej 6 7260 Sønder Omme,7260,680000.0,08-10-2003,Alm.,6071,4,Villa,112,1959,
+Birkebæk Alle 5 7260 Sønder Omme,7260,489000.0,17-08-2003,Alm.,5041,4,Villa,97,1951,
+Engebækgårdvej 28 7260 Sønder Omme,7260,1771596.0,17-08-2003,Alm.,13523,4,Stuehus,131,2009,
+Bøvlvej 69 7260 Sønder Omme,7260,4150000.0,30-07-2003,Alm.,17436,7,Stuehus,238,1919,
+Vilhelmsmindevej 46 7260 Sønder Omme,7260,560000.0,18-07-2003,Alm.,0,5,Villa,144,1941,
+Skovvang 25 7260 Sønder Omme,7260,2000000.0,10-07-2003,Fam.,10638,6,Villa,188,1999,
+Tolvalenvej 31 7260 Sønder Omme,7260,955000.0,03-07-2003,Alm.,0,10,Stuehus,319,1887,
+Enghaven 6 7260 Sønder Omme,7260,229500.0,20-06-2003,Fam.,1550,6,Villa,148,2004,
+Gammel Bøvlvej 46 7260 Sønder Omme,7260,680000.0,21-05-2003,Alm.,6415,3,Villa,106,1959,
+Bøvlvej 160 7260 Sønder Omme,7260,265218.0,15-05-2003,Fam.,1346,7,Stuehus,197,1937,
+Skovvej 26 7260 Sønder Omme,7260,775000.0,09-05-2003,Alm.,8244,3,Villa,94,1958,
+Grindstedvej 15 7260 Sønder Omme,7260,350000.0,02-05-2003,Alm.,3723,2,Villa,94,1934,
+Holdgårdsvej 23 7260 Sønder Omme,7260,371000.0,20-04-2003,Alm.,2144,7,Villa,173,1935,
+Tarm Landevej 55 7260 Sønder Omme,7260,5200000.0,12-04-2003,Alm.,19259,8,Stuehus,270,1964,
+Sønderbro 5 7260 Sønder Omme,7260,575000.0,09-04-2003,Fam.,5927,3,Villa,97,1927,
+Møbjergvej 29 7260 Sønder Omme,7260,695700.0,05-04-2003,Alm.,6957,3,Stuehus,100,1927,
+Nørager 55 7260 Sønder Omme,7260,890000.0,19-03-2003,Alm.,0,6,Villa,184,1980,
+Stakrogevej 85 7260 Sønder Omme,7260,750000.0,15-03-2003,Alm.,4870,4,Villa,154,1880,
+Holdgårdsvej 26 7260 Sønder Omme,7260,425000.0,11-03-2003,Alm.,3269,4,Villa,130,1934,
+Enghaven 11 7260 Sønder Omme,7260,391000.0,11-03-2003,Fam.,0,5,Villa,122,1947,
+Hasselvej 7 7260 Sønder Omme,7260,950000.0,05-03-2003,Alm.,5523,5,Villa,172,1971,
+Møbjergvej 41 7260 Sønder Omme,7260,1515716.0,28-02-2003,Alm.,8612,4,Villa,176,1997,
+Nørager 93 7260 Sønder Omme,7260,575000.0,14-01-2003,Alm.,7467,2,Rækkehus,77,1980,
+Møbjergvej 8 7260 Sønder Omme,7260,125000.0,06-12-2002,Alm.,0,5,Stuehus,140,1958,
+Vesterled 2 7260 Sønder Omme,7260,377915.0,29-11-2002,Alm.,6748,1,Rækkehus,56,1947,
+Grindstedvej 8 7260 Sønder Omme,7260,202000.0,20-11-2002,Auktion,2433,4,Rækkehus,83,1932,
+Solbakken 37 7260 Sønder Omme,7260,338272.0,31-10-2002,Andet,2543,3,Villa,133,1981,
+Grindstedvej 1 7260 Sønder Omme,7260,1300000.0,24-09-2002,Alm.,6666,7,Stuehus,195,1907,
+Simmelvej 16 7260 Sønder Omme,7260,570000.0,24-09-2002,Alm.,4956,5,Stuehus,115,1928,
+Tolvalenvej 23 7260 Sønder Omme,7260,1000000.0,11-09-2002,Fam.,0,8,Villa,224,1936,
+Nordtoften 3 7260 Sønder Omme,7260,562500.0,27-08-2002,Alm.,5514,4,Villa,102,1961,
+Tarm Landevej 17 7260 Sønder Omme,7260,636000.0,25-06-2002,Alm.,4854,3,Villa,131,1941,
+Egeparken 19 7260 Sønder Omme,7260,164030.0,20-06-2002,Alm.,845,7,Villa,194,2004,
+Tolvalenvej 5 7260 Sønder Omme,7260,2950000.0,22-05-2002,Alm.,12826,8,Stuehus,230,1923,
+"Kirke Alle 11, 1 7260 Sønder Omme",7260,415000.0,22-05-2002,Alm.,5253,3,Lejlighed,79,1920,
+Nørager 95 7260 Sønder Omme,7260,542754.0,06-05-2002,Alm.,8480,2,Rækkehus,64,1981,
+Vejlevej 38 7260 Sønder Omme,7260,510000.0,28-04-2002,Alm.,5795,3,Villa,88,1960,
+Skovvang 9 7260 Sønder Omme,7260,898672.0,13-04-2002,Alm.,5413,4,Villa,166,1952,
+Hovedgaden 34 7260 Sønder Omme,7260,900000.0,13-04-2002,Fam.,0,10,Villa,263,1954,
+Bøvlvej 185 7260 Sønder Omme,7260,60000.0,20-03-2002,Alm.,0,0,Landbrugsgrund,0,0,
+Bøvlvej 185 7260 Sønder Omme,7260,60000.0,20-03-2002,Alm.,0,0,Landbrugsgrund,0,0,
+Kirkebyvej 140 7260 Sønder Omme,7260,490000.0,25-02-2002,Alm.,3310,6,Villa,148,1927,
+Hovedgaden 7 7260 Sønder Omme,7260,6965298.0,07-02-2002,Andet,36659,7,Villa,190,1903,
+Tolvalenvej 27 7260 Sønder Omme,7260,400000.0,06-02-2002,Fam.,2564,5,Villa,156,1925,
+Egevej 12 7260 Sønder Omme,7260,545301.0,31-01-2002,Alm.,5049,4,Villa,108,1967,
+Skovbrynet 6 7260 Sønder Omme,7260,528728.0,30-01-2002,Andet,3056,5,Villa,173,1970,
+Grindstedvej 22 7260 Sønder Omme,7260,525000.0,23-01-2002,Alm.,0,3,Villa,85,1940,
+Gammel Bøvlvej 24 7260 Sønder Omme,7260,695000.0,21-01-2002,Alm.,7393,5,Villa,94,1948,
+Vejlevej 5 7260 Sønder Omme,7260,5850000.0,10-01-2002,Alm.,0,4,Rækkehus,197,1970,
+Juellingsholmsvej 33 7260 Sønder Omme,7260,1200000.0,17-11-2001,Alm.,7594,5,Stuehus,158,1919,
+Gammel Bøvlvej 33 7260 Sønder Omme,7260,585000.0,05-10-2001,Alm.,5416,5,Villa,108,1959,
+Rahbæksvej 10 7260 Sønder Omme,7260,710000.0,01-10-2001,Alm.,5546,5,Villa,128,1975,
+Bøvlvej 57 7260 Sønder Omme,7260,1100000.0,11-09-2001,Fam.,0,9,Stuehus,254,1926,
+Lyngvang 46 7260 Sønder Omme,7260,808703.0,14-08-2001,Alm.,6269,4,Villa,129,1973,
+Gammel Bøvlvej 44 7260 Sønder Omme,7260,565000.0,10-08-2001,Alm.,5000,3,Villa,113,1955,
+Herningvej 16 7260 Sønder Omme,7260,575000.0,10-08-2001,Fam.,4527,4,Villa,127,1949,
+Kirkebyvej 132 7260 Sønder Omme,7260,530000.0,08-08-2001,Fam.,0,6,Stuehus,201,1934,
+Herningvej 60 7260 Sønder Omme,7260,920000.0,06-08-2001,Alm.,7187,5,Stuehus,128,1960,
+Stakrogevej 39 7260 Sønder Omme,7260,1000000.0,06-07-2001,Alm.,5747,8,Stuehus,174,1932,
+Stakrogevej 63 7260 Sønder Omme,7260,1500000.0,05-07-2001,Alm.,6122,5,Stuehus,245,1928,
+Hasselvej 15 7260 Sønder Omme,7260,635000.0,27-06-2001,Alm.,4349,5,Villa,146,1969,
+Grindstedvej 54 7260 Sønder Omme,7260,435000.0,08-05-2001,Alm.,0,5,Villa,189,1937,
+Herningvej 3 7260 Sønder Omme,7260,369228.0,25-04-2001,Alm.,4733,3,Villa,78,1960,
+Skovbrynet 4 7260 Sønder Omme,7260,1275000.0,26-03-2001,Alm.,5743,8,Villa,222,1973,
+Stakrogevej 76 7260 Sønder Omme,7260,145000.0,19-03-2001,Alm.,1464,4,Villa,99,1902,
+Enghaven 29 7260 Sønder Omme,7260,570000.0,18-03-2001,Alm.,5000,3,Villa,114,1944,
+Egevej 6 7260 Sønder Omme,7260,720619.0,01-03-2001,Alm.,6672,4,Villa,108,1969,
+Herningvej 68 7260 Sønder Omme,7260,1150000.0,19-02-2001,Alm.,7098,6,Stuehus,162,1943,
+Møbjergvej 81 7260 Sønder Omme,7260,170000.0,30-01-2001,Alm.,1268,1,Villa,134,1930,
+Herningvej 20 7260 Sønder Omme,7260,578000.0,28-12-2000,Alm.,4624,4,Villa,125,1974,
+Vesterled 7 7260 Sønder Omme,7260,660000.0,20-12-2000,Alm.,2761,8,Villa,239,1966,
+Vejlevej 24 7260 Sønder Omme,7260,410000.0,14-12-2000,Alm.,4939,2,Villa,83,1938,
+Skovvang 4 7260 Sønder Omme,7260,685000.0,13-10-2000,Alm.,6850,4,Villa,100,1961,
+Enghaven 22 7260 Sønder Omme,7260,790000.0,12-10-2000,Alm.,0,4,Villa,156,1987,
+Skovvang 13 7260 Sønder Omme,7260,1025000.0,23-09-2000,Alm.,5074,7,Villa,202,1970,
+Stakrogevej 80 7260 Sønder Omme,7260,1268645.0,04-09-2000,Alm.,7929,6,Villa,160,1911,
+Vesterled 6 7260 Sønder Omme,7260,613000.0,02-09-2000,Alm.,6887,4,Villa,89,1956,
+Herningvej 89 7260 Sønder Omme,7260,477133.0,30-08-2000,Alm.,4819,5,Villa,99,1949,
+Hovedgaden 49 7260 Sønder Omme,7260,740000.0,03-08-2000,Alm.,4567,7,Villa,162,1955,
+Parallelvej 2 7260 Sønder Omme,7260,837830.0,05-05-2000,Alm.,8295,4,Villa,101,1965,
+Egeparken 2 7260 Sønder Omme,7260,151000.0,02-05-2000,Alm.,1027,4,Villa,147,2001,
+Omme Landevej 63 7260 Sønder Omme,7260,595709.0,22-03-2000,Alm.,4512,6,Villa,132,1852,
+Solbakken 21 7260 Sønder Omme,7260,749000.0,16-03-2000,Alm.,6241,4,Villa,120,1976,
+Enghaven 16 7260 Sønder Omme,7260,900000.0,22-12-1999,Alm.,5844,4,Villa,154,1980,
+Enghaven 25 7260 Sønder Omme,7260,200000.0,20-12-1999,Alm.,0,8,Villa,243,1942,
+Grønvang 23 7260 Sønder Omme,7260,705352.0,07-12-1999,Alm.,6080,4,Villa,116,1970,
+Solbakken 66 7260 Sønder Omme,7260,1200000.0,07-12-1999,Alm.,6741,5,Villa,178,1978,
+Herningvej 4 7260 Sønder Omme,7260,485000.0,24-10-1999,Alm.,3911,4,Villa,124,1937,
+Gammel Bøvlvej 36 7260 Sønder Omme,7260,650000.0,02-10-1999,Alm.,6632,3,Villa,98,1965,
+Farvergade 15 7260 Sønder Omme,7260,420000.0,29-09-1999,Alm.,3684,5,Villa,114,1932,
+Møbjergvej 18 7260 Sønder Omme,7260,511500.0,04-08-1999,Fam.,0,5,Stuehus,122,1890,
+Solbakken 50 7260 Sønder Omme,7260,590444.0,26-07-1999,Alm.,4341,5,Villa,136,1978,
+Omme Landevej 59 7260 Sønder Omme,7260,2310000.0,07-07-1999,Fam.,16500,6,Stuehus,140,1893,
+Egeparken 16 7260 Sønder Omme,7260,156000.0,05-07-1999,Alm.,1114,5,Villa,140,1999,
+Vejlevej 43 7260 Sønder Omme,7260,748307.0,28-06-1999,Alm.,0,6,Villa,146,1960,
+Parallelvej 10 7260 Sønder Omme,7260,1023551.0,22-06-1999,Alm.,6869,6,Villa,149,1972,
+Lyngvang 11 7260 Sønder Omme,7260,770000.0,11-06-1999,Alm.,4695,5,Villa,164,1973,
+Grindstedvej 6 7260 Sønder Omme,7260,379091.0,08-06-1999,Alm.,4357,4,Rækkehus,87,1930,
+Rahbæksvej 8 7260 Sønder Omme,7260,700000.0,11-05-1999,Alm.,4964,4,Villa,141,1974,
+Lyngvang 15 7260 Sønder Omme,7260,875000.0,29-04-1999,Alm.,0,6,Villa,178,1973,
+Vejlevej 33 7260 Sønder Omme,7260,629707.0,27-04-1999,Alm.,6173,4,Villa,102,1938,
+Farvergade 29 7260 Sønder Omme,7260,450000.0,12-04-1999,Alm.,4166,4,Villa,108,1974,
+Omme Landevej 78 7260 Sønder Omme,7260,1850567.0,09-03-1999,Fam.,10759,5,Stuehus,172,1827,
+Bøvlvej 155 7260 Sønder Omme,7260,1445000.0,08-03-1999,Fam.,11289,6,Stuehus,128,1956,
+Tolvalenvej 40 7260 Sønder Omme,7260,1025000.0,27-01-1999,Alm.,0,7,Stuehus,170,1964,
+Nørager 29 7260 Sønder Omme,7260,368500.0,13-01-1999,Andet,2901,5,Villa,127,1980,
+Holdgårdsvej 4 7260 Sønder Omme,7260,698997.0,14-12-1998,Alm.,6989,4,Villa,100,1959,
+Herningvej 7 7260 Sønder Omme,7260,905426.0,04-12-1998,Alm.,7361,6,Villa,123,1948,
+Vejlevej 28 7260 Sønder Omme,7260,366000.0,20-11-1998,Fam.,3050,3,Villa,120,1935,
+Nørager 20 7260 Sønder Omme,7260,581055.0,20-10-1998,Alm.,6756,3,Rækkehus,86,1980,
+Grindstedvej 27 7260 Sønder Omme,7260,591020.0,07-10-1998,Alm.,6287,2,Villa,94,1936,
+Lyngvang 19 7260 Sønder Omme,7260,854941.0,10-08-1998,Alm.,5737,5,Villa,149,1973,
+Grindstedvej 28 7260 Sønder Omme,7260,324054.0,06-08-1998,Alm.,4765,2,Villa,68,1946,
+Vesterled 5 7260 Sønder Omme,7260,786387.0,19-06-1998,Alm.,4250,6,Villa,185,1962,
+Nørager 51 7260 Sønder Omme,7260,825000.0,25-05-1998,Alm.,0,6,Villa,160,1980,
+Gammel Bøvlvej 13 7260 Sønder Omme,7260,637291.0,05-05-1998,Alm.,0,6,Villa,187,1930,
+Gammel Bøvlvej 29B 7260 Sønder Omme,7260,707309.0,05-05-1998,Alm.,0,6,Villa,178,1974,
+Herningvej 72 7260 Sønder Omme,7260,885000.0,29-04-1998,Alm.,6704,5,Stuehus,132,1950,
+Solbakken 32 7260 Sønder Omme,7260,856876.0,27-04-1998,Alm.,6120,5,Villa,140,1975,
+Åvej 4 7260 Sønder Omme,7260,479352.0,18-04-1998,Alm.,4522,5,Villa,106,1934,
+Solbakken 31 7260 Sønder Omme,7260,1002978.0,15-12-1997,Alm.,5196,7,Villa,193,1977,
+Grindstedvej 74B 7260 Sønder Omme,7260,360000.0,21-11-1997,Fam.,3636,4,Villa,99,1964,
+Nørager 91 7260 Sønder Omme,7260,475000.0,19-11-1997,Alm.,6168,3,Rækkehus,77,1980,
+Gammel Bøvlvej 10 7260 Sønder Omme,7260,660000.0,05-11-1997,Alm.,3000,3,Villa,220,1919,
+Gammel Bøvlvej 45 7260 Sønder Omme,7260,531812.0,27-10-1997,Alm.,3223,4,Villa,165,1961,
+Bøvlvej 139 7260 Sønder Omme,7260,95000.0,12-09-1997,Alm.,601,5,Stuehus,158,1924,
+Bøvlvej 61 7260 Sønder Omme,7260,690000.0,01-09-1997,Fam.,4693,5,Villa,147,1924,
+Egeparken 10 7260 Sønder Omme,7260,1232000.0,23-08-1997,Alm.,6960,6,Villa,177,1995,
+Herningvej 26 7260 Sønder Omme,7260,800000.0,13-08-1997,Alm.,10810,8,Industri o.l.,74,1951,
+Farvergade 7 7260 Sønder Omme,7260,306243.0,29-07-1997,Fam.,0,3,Villa,118,1950,
+Holdgårdsvej 5 7260 Sønder Omme,7260,679119.0,04-07-1997,Alm.,5476,4,Villa,124,1930,
+Stakrogevej 89 7260 Sønder Omme,7260,1560000.0,03-07-1997,Fam.,8524,5,Stuehus,183,1907,
+Enghaven 1 7260 Sønder Omme,7260,738038.0,10-06-1997,Alm.,5466,5,Villa,135,1920,
+Nørager 11 7260 Sønder Omme,7260,850000.0,09-05-1997,Alm.,5902,5,Villa,144,1979,
+Engebækgårdvej 20 7260 Sønder Omme,7260,70000.0,02-05-1997,Alm.,909,3,Villa,77,1950,
+Skovvej 52 7260 Sønder Omme,7260,880000.0,30-04-1997,Alm.,5057,5,Stuehus,174,1885,
+Nørager 73 7260 Sønder Omme,7260,960000.0,24-04-1997,Alm.,5889,7,Villa,163,1986,
+Enghaven 31 7260 Sønder Omme,7260,515500.0,24-04-1997,Alm.,0,6,Villa,204,1929,
+Enghaven 19 7260 Sønder Omme,7260,700000.0,04-04-1997,Andet,3867,5,Villa,181,1976,
+Hovedgaden 69 7260 Sønder Omme,7260,580000.0,30-03-1997,Alm.,8656,2,Villa,67,1947,
+Bøvlvej 242 7260 Sønder Omme,7260,50000.0,20-03-1997,Alm.,0,0,Grund,0,0,
+Bøvlvej 242 7260 Sønder Omme,7260,50000.0,20-03-1997,Alm.,0,0,Grund,0,0,
+Møbjergvej 47 7260 Sønder Omme,7260,2650000.0,28-02-1997,Andet,10728,5,Villa,247,1962,
+Solbakken 40 7260 Sønder Omme,7260,317500.0,25-02-1997,Fam.,2369,4,Villa,134,1974,
+Engebækgårdvej 4 7260 Sønder Omme,7260,104159.0,24-02-1997,Alm.,853,6,Stuehus,122,1951,
+Gammel Bøvlvej 47 7260 Sønder Omme,7260,300000.0,06-02-1997,Alm.,3000,3,Villa,100,1969,
+Farvergade 11 7260 Sønder Omme,7260,1200000.0,04-02-1997,Alm.,6349,5,Villa,189,1988,
+Holdgårdsvej 25 7260 Sønder Omme,7260,477821.0,26-01-1997,Alm.,4550,2,Villa,105,1937,
+Bøvlvej 108 7260 Sønder Omme,7260,535000.0,21-01-1997,Alm.,0,6,Villa,152,1953,
+Kirkebyvej 111 7260 Sønder Omme,7260,450167.0,02-01-1997,Alm.,2695,7,Stuehus,167,1877,
+Grindstedvej 46 7260 Sønder Omme,7260,595000.0,10-12-1996,Alm.,5000,5,Villa,119,1956,
+Enghaven 41 7260 Sønder Omme,7260,170000.0,02-09-1996,Alm.,772,7,Villa,220,1998,
+Tolvalenvej 26 7260 Sønder Omme,7260,4450000.0,28-08-1996,Alm.,13819,9,Stuehus,322,1908,
+Holdgårdsvej 33 7260 Sønder Omme,7260,608089.0,26-08-1996,Alm.,5528,3,Villa,110,1939,
+Omme Landevej 54 7260 Sønder Omme,7260,141666.0,16-08-1996,Fam.,3541,3,Sommerhus,40,1967,
+Herningvej 94 7260 Sønder Omme,7260,622070.0,05-07-1996,Alm.,4712,4,Villa,132,1912,
+Egeparken 14 7260 Sønder Omme,7260,155000.0,01-05-1996,Alm.,1033,5,Villa,150,1996,
+Egeparken 8 7260 Sønder Omme,7260,154000.0,01-05-1996,Alm.,1026,5,Villa,150,1996,
+Vejlevej 11 7260 Sønder Omme,7260,470000.0,10-01-1996,Alm.,2797,5,Villa,168,1904,
+Stadion Alle 28 7260 Sønder Omme,7260,154718.0,31-10-1995,Alm.,1700,3,Villa,91,1945,
+Lyngvang 4 7260 Sønder Omme,7260,675000.0,29-09-1995,Alm.,0,4,Villa,172,1974,
+Nørager 24 7260 Sønder Omme,7260,419167.0,25-09-1995,Alm.,4874,3,Rækkehus,86,1980,
+Vesterled 9 7260 Sønder Omme,7260,329000.0,06-09-1995,Alm.,3290,4,Villa,100,1961,
+Bøvlvej 140 7260 Sønder Omme,7260,1092000.0,27-08-1995,Alm.,7800,5,Stuehus,140,1967,
+Vejlevej 41 7260 Sønder Omme,7260,619953.0,21-08-1995,Alm.,3625,5,Villa,171,1974,
+Kirkebyvej 103 7260 Sønder Omme,7260,322508.0,03-07-1995,Andet,2208,5,Stuehus,146,1915,
+Vejlevej 40 7260 Sønder Omme,7260,330000.0,23-03-1995,Alm.,3510,3,Villa,94,1955,
+"Hovedgaden 41, 1 7260 Sønder Omme",7260,500000.0,01-03-1995,Alm.,0,2,Lejlighed,64,1907,
+Birkemosevej 29 7260 Sønder Omme,7260,635000.0,28-02-1995,Fam.,3825,6,Stuehus,166,1928,
+Egevej 17 7260 Sønder Omme,7260,414000.0,16-02-1995,Alm.,4224,4,Villa,98,1964,
+Egevej 14 7260 Sønder Omme,7260,415000.0,10-02-1995,Alm.,0,5,Villa,152,1965,
+Lægårdsvej 2 7260 Sønder Omme,7260,360000.0,15-01-1995,Alm.,3829,5,Villa,94,1963,
+Violvej 4 7260 Sønder Omme,7260,405400.0,08-01-1995,Alm.,2684,5,Villa,151,1968,
+Kirkebyvej 136 7260 Sønder Omme,7260,2860000.0,02-01-1995,Fam.,17654,6,Stuehus,162,1939,
+Nørager 8 7260 Sønder Omme,7260,108000.0,30-10-1994,Alm.,596,5,Villa,181,1995,
+Nørager 71 7260 Sønder Omme,7260,680000.0,25-10-1994,Alm.,4657,6,Villa,146,1980,
+Vejlevej 36 7260 Sønder Omme,7260,325000.0,23-09-1994,Alm.,3693,3,Villa,88,1961,
+Engebækgårdvej 15 7260 Sønder Omme,7260,555000.0,28-07-1994,Alm.,3284,5,Stuehus,169,1939,
+Vejlevej 18 7260 Sønder Omme,7260,500000.0,07-07-1994,Alm.,2958,7,Villa,169,1913,
+Hovedgaden 31 7260 Sønder Omme,7260,850000.0,30-06-1994,Fam.,7203,8,Ukendt,118,1917,
+Solbakken 16 7260 Sønder Omme,7260,680000.0,10-06-1994,Alm.,3655,5,Villa,186,1976,
+Bøvlvej 124 7260 Sønder Omme,7260,540000.0,07-06-1994,Alm.,5510,5,Stuehus,98,1930,
+Vejlevej 15 7260 Sønder Omme,7260,300000.0,07-06-1994,Alm.,2362,4,Villa,127,1918,
+Brande Landevej 22 7260 Sønder Omme,7260,230000.0,30-03-1994,Alm.,0,6,Villa,126,1920,
+Møbjergvej 27 7260 Sønder Omme,7260,1000000.0,31-01-1994,Alm.,7575,5,Stuehus,132,1920,
+Nedergårdsvej 13 7260 Sønder Omme,7260,675000.0,04-01-1994,Alm.,4218,5,Villa,160,1978,
+Grindstedvej 13 7260 Sønder Omme,7260,775999.0,10-12-1993,Alm.,0,6,Villa,171,1934,
+Gammel Bøvlvej 19 7260 Sønder Omme,7260,307000.0,08-11-1993,Alm.,2646,3,Villa,116,1937,
+Gammel Bøvlvej 39 7260 Sønder Omme,7260,425762.0,07-10-1993,Alm.,0,5,Villa,154,1959,
+Stakrogevej 59 7260 Sønder Omme,7260,850000.0,19-09-1993,Alm.,4207,7,Stuehus,202,1864,
+Omme Landevej 75 7260 Sønder Omme,7260,1250000.0,09-08-1993,Alm.,6830,7,Stuehus,183,1974,
+Gammel Bøvlvej 16 7260 Sønder Omme,7260,454000.0,11-06-1993,Alm.,3219,5,Villa,141,1918,
+Birkebæk Alle 1 7260 Sønder Omme,7260,580000.0,03-04-1993,Alm.,3892,5,Villa,149,1974,
+Lille Brandevej 3 7260 Sønder Omme,7260,1058575.0,18-03-1993,Fam.,0,13,Stuehus,350,1800,
+Farvergade 2 7260 Sønder Omme,7260,294000.0,09-03-1993,Alm.,0,5,Villa,167,1935,
+Kirkebyvej 115 7260 Sønder Omme,7260,830000.0,04-02-1993,Alm.,7155,4,Stuehus,116,1989,
+Skovvej 24 7260 Sønder Omme,7260,775000.0,22-01-1993,Alm.,3242,5,Stuehus,239,1880,
+Bøvlvej 168 7260 Sønder Omme,7260,350000.0,30-11-1992,Alm.,2071,5,Villa,169,1965,
+Nørager 15 7260 Sønder Omme,7260,525000.0,29-09-1992,Alm.,4133,6,Villa,127,1979,
+Engebækgårdvej 5 7260 Sønder Omme,7260,410000.0,30-07-1992,Alm.,0,5,Stuehus,252,1974,
+Bøvlvej 77 7260 Sønder Omme,7260,437500.0,08-05-1992,Alm.,0,6,Villa,191,1900,
+Vejlevej 32 7260 Sønder Omme,7260,675000.0,06-05-1992,Alm.,3082,9,Villa,219,1931,
+Nørager 17 7260 Sønder Omme,7260,520000.0,17-03-1992,Fam.,3851,6,Villa,135,1979,
+Vesterled 17 7260 Sønder Omme,7260,335000.0,17-03-1992,Alm.,3101,4,Villa,108,1972,
+Gammel Bøvlvej 29A 7260 Sønder Omme,7260,400000.0,13-03-1992,Fam.,4545,3,Villa,88,1949,
+Stakrogevej 71 7260 Sønder Omme,7260,525000.0,23-01-1992,Alm.,3500,4,Stuehus,150,1934,

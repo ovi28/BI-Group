@@ -1,0 +1,768 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Sportsvænget 16 9541 Suldrup,16,1710000.0,05-05-2017,Alm.,11250,5,Villa,152,2004,-5 %
+Hjedsbækvej 150 9541 Suldrup,150,1850000.0,12-04-2017,Alm.,10164,5,Villa,182,1930,-7 %
+Jættestuevej 22 9541 Suldrup,22,475250.0,04-04-2017,Fam.,3655,4,Villa,130,1972,
+Hjortholmvej 45 9541 Suldrup,45,2762500.0,13-03-2017,Fam.,19732,5,Stuehus,140,1927,152 %
+Hjedsbækvej 294 9541 Suldrup,294,825000.0,10-03-2017,Alm.,6818,4,Villa,121,1937,-2 %
+Østermarkvej 4 9541 Suldrup,4,1575000.0,05-03-2017,Alm.,9264,5,Villa,170,1926,-4 %
+Anlægsvej 15 9541 Suldrup,15,1155000.0,05-03-2017,Alm.,7700,4,Villa,150,1972,-2 %
+Hjedsbækvej 348 9541 Suldrup,348,1175000.0,03-03-2017,Alm.,7208,7,Villa,163,1942,-10 %
+Stensgade 11 9541 Suldrup,11,1250000.0,16-02-2017,Alm.,8561,5,Villa,146,1961,
+Hjedsbækvej 366 9541 Suldrup,366,925000.0,27-01-2017,Alm.,7007,5,Villa,132,1976,-7 %
+Svanereden 7 9541 Suldrup,7,530000.0,25-01-2017,Fam.,4045,4,Villa,131,1986,
+Hjedsbækvej 282 9541 Suldrup,282,1875000.0,12-01-2017,Alm.,8522,5,Villa,220,1962,
+Kirketerpvej 18 9541 Suldrup,18,1000000.0,11-01-2017,Alm.,3787,5,Villa,264,1973,-1 %
+Hjedsbækvej 117 9541 Suldrup,117,420000.0,19-12-2016,Fam.,1883,8,Stuehus,223,1913,
+Ved Højene 9 9541 Suldrup,9,1025000.0,15-12-2016,Alm.,8200,5,Villa,125,1988,-6 %
+Præstemarken 2 9541 Suldrup,2,649299.0,05-12-2016,Fam.,3230,7,Villa,201,1900,
+Jættestuevej 9 9541 Suldrup,9,1250000.0,28-11-2016,Alm.,9469,4,Villa,132,1972,-7 %
+Anlægsvej 7 9541 Suldrup,7,680000.0,28-11-2016,Alm.,6666,4,Villa,102,1964,-5 %
+Hjortholmvej 25 9541 Suldrup,25,340589.0,15-11-2016,Auktion,1158,6,Villa,294,1902,-59 %
+Veggerbyvej 24B 9541 Suldrup,0,100000.0,08-11-2016,Alm.,645,5,Villa,155,2017,
+Kirketerpvej 50 9541 Suldrup,50,280000.0,04-11-2016,Alm.,2121,5,Villa,132,1960,-5 %
+Hjedsbækvej 177 9541 Suldrup,177,1100000.0,02-11-2016,Alm.,7801,5,Villa,141,1931,-8 %
+Birkevej 8A 9541 Suldrup,0,635000.0,18-10-2016,Alm.,7839,3,Rækkehus,81,1981,-9 %
+Dyssevej 8 9541 Suldrup,8,595000.0,11-10-2016,Alm.,5409,3,Villa,110,1967,-8 %
+Stadionvej 33 9541 Suldrup,33,695000.0,07-10-2016,Alm.,8373,3,Rækkehus,83,1990,-13 %
+Stensgade 18 9541 Suldrup,18,1350000.0,07-10-2016,Alm.,11440,4,Villa,118,1961,
+Aarestrupvej 37 9541 Suldrup,37,1275000.0,30-09-2016,Alm.,5519,12,Villa,231,1874,-9 %
+Rykkumvej 4 9541 Suldrup,4,975000.0,30-09-2016,Alm.,4899,7,Villa,199,1974,-2 %
+Anlægsvej 12 9541 Suldrup,12,625000.0,27-09-2016,Alm.,3342,5,Stuehus,187,1936,-10 %
+Hjedsbækvej 436 9541 Suldrup,436,435000.0,23-09-2016,Alm.,4438,4,Villa,98,1908,-3 %
+Hjedsbækvej 467 9541 Suldrup,467,350000.0,20-09-2016,Alm.,2173,5,Villa,161,1944,
+Hjortholmvej 21 9541 Suldrup,21,11350000.0,02-09-2016,Alm.,61351,5,Stuehus,185,2015,
+Birkevej 2 9541 Suldrup,2,650000.0,29-08-2016,Alm.,9285,3,Villa,70,1958,-6 %
+Gammel Aalborgvej 11 9541 Suldrup,11,170000.0,29-08-2016,Alm.,1910,3,Stuehus,89,1930,-51 %
+Søsvinget 7 9541 Suldrup,7,1201000.0,05-08-2016,Alm.,7278,5,Villa,165,1980,5 %
+Hjedsbækvej 351 9541 Suldrup,351,1050000.0,18-07-2016,Alm.,4393,7,Villa,239,1914,-12 %
+Torstedvej 83 9541 Suldrup,83,172500.0,14-07-2016,Alm.,1105,5,Stuehus,156,1900,
+Sønderupvej 4 9541 Suldrup,4,1125000.0,29-06-2016,Alm.,5829,5,Villa,193,1970,-10 %
+Rolighedsvej 1A 9541 Suldrup,0,1640000.0,14-06-2016,Alm.,9939,6,Villa,165,1988,-3 %
+Hjedsbækvej 120 9541 Suldrup,120,586500.0,13-06-2016,Fam.,3491,5,Stuehus,168,1976,
+Frendstrupvej 7 9541 Suldrup,7,875000.0,07-06-2016,Alm.,4419,7,Stuehus,198,1916,-2 %
+Byrstedvej 27 9541 Suldrup,27,155000.0,07-06-2016,Alm.,1174,5,Villa,132,1952,-56 %
+Hjedsbækvej 386 9541 Suldrup,386,566832.0,06-06-2016,Alm.,5248,4,Villa,108,1980,
+Veggerbyvej 12 9541 Suldrup,12,750000.0,06-06-2016,Fam.,5555,7,Villa,135,1945,
+Hjedsbækvej 344 9541 Suldrup,344,750000.0,12-05-2016,Alm.,9615,3,Villa,78,1897,-6 %
+Ved Højene 43 9541 Suldrup,43,1720000.0,11-05-2016,Andet,10177,6,Villa,169,2009,
+Vinstræde 2 9541 Suldrup,2,12500.0,09-05-2016,Alm.,130,2,Villa,96,1904,
+Veggerbyvej 94 9541 Suldrup,94,925000.0,06-05-2016,Alm.,3886,11,Villa,238,1937,-7 %
+Stadionvej 11 9541 Suldrup,11,390000.0,14-04-2016,Alm.,4285,4,Villa,91,1929,-24 %
+Gåsemosevej 22 9541 Suldrup,22,1449756.0,15-03-2016,Fam.,7003,6,Villa,207,2010,
+Trængstrupvej 1 9541 Suldrup,1,370500.0,10-03-2016,Andet,1970,7,Villa,188,1938,
+Veggerbyvej 21 9541 Suldrup,21,860000.0,19-02-2016,Alm.,3822,6,Villa,225,1910,
+Aarestrupvej 11 9541 Suldrup,11,975000.0,12-02-2016,Alm.,8125,5,Villa,120,1944,-2 %
+Stensgade 17 9541 Suldrup,17,575000.0,09-02-2016,Alm.,5989,4,Villa,96,1963,-15 %
+Bustedvej 24 9541 Suldrup,24,504375.0,03-02-2016,Fam.,2335,7,Stuehus,216,1920,
+Hjedsbækvej 312 9541 Suldrup,312,494633.0,07-01-2016,Andet,3411,4,Villa,145,1920,
+Hjedsbækvej 292 9541 Suldrup,292,935000.0,10-12-2015,Alm.,7857,7,Villa,119,1945,-6 %
+Veggerbyvej 23 9541 Suldrup,23,850000.0,02-12-2015,Alm.,6967,4,Villa,122,1925,-17 %
+Albækvej 9 9541 Suldrup,9,1285000.0,01-12-2015,Auktion,7301,5,Stuehus,176,1926,
+Dyssevej 13 9541 Suldrup,13,925000.0,24-11-2015,Alm.,8258,3,Villa,112,1969,-7 %
+Trængstrupvej 77 9541 Suldrup,77,2645000.0,10-11-2015,Alm.,12022,5,Stuehus,220,1870,
+Hjedsbækvej 208 9541 Suldrup,208,2950000.0,31-10-2015,Alm.,9546,9,Villa,309,2000,-2 %
+Søvænget 26 9541 Suldrup,26,487795.0,29-10-2015,Fam.,3613,3,Villa,135,1974,-64 %
+Vikingevej 27 9541 Suldrup,27,1500000.0,26-10-2015,Alm.,10416,4,Villa,144,1973,-2 %
+Veggerbyvej 19 9541 Suldrup,19,360000.0,23-10-2015,Fam.,3750,5,Villa,96,1949,
+Hjedsbækvej 398 9541 Suldrup,398,1395000.0,16-10-2015,Alm.,9554,5,Villa,146,1974,0 %
+Foldagervej 27 9541 Suldrup,27,2550000.0,09-10-2015,Alm.,22173,4,Stuehus,115,1938,
+Sønderupgårdvej 13 9541 Suldrup,13,575000.0,24-09-2015,Alm.,5000,5,Villa,115,1968,-3 %
+Hjedsbækvej 265 9541 Suldrup,265,440000.0,16-09-2015,Alm.,4313,4,Villa,102,1949,-7 %
+Rykkumvej 1 9541 Suldrup,1,1400000.0,14-09-2015,Alm.,9333,5,Stuehus,150,1905,-6 %
+Søvænget 30 9541 Suldrup,30,1495000.0,28-08-2015,Alm.,10992,4,Villa,136,1976,0 %
+Torstedvej 78 9541 Suldrup,78,1470000.0,25-08-2015,Alm.,8352,4,Villa,176,1900,-2 %
+Hjedsbækvej 382B 9541 Suldrup,0,475000.0,24-08-2015,Alm.,6597,3,Rækkehus,72,1983,-10 %
+Søsvinget 12 9541 Suldrup,12,1445000.0,21-08-2015,Alm.,7261,4,Villa,199,1980,-6 %
+Hjedsbækvej 396 9541 Suldrup,396,239300.0,16-08-2015,Fam.,1564,4,Villa,153,1913,
+Kirketerpvej 81 9541 Suldrup,81,899000.0,04-08-2015,Alm.,5914,10,Villa,152,1958,-10 %
+Lille Østrupvej 3 9541 Suldrup,3,22000000.0,24-07-2015,Alm.,90534,8,Stuehus,243,1983,
+Åvej 5 9541 Suldrup,5,2734000.0,02-07-2015,Alm.,22783,4,Stuehus,120,1800,
+Søvænget 4 9541 Suldrup,4,775000.0,01-07-2015,Alm.,3875,8,Villa,200,1975,
+Jættestuevej 3 9541 Suldrup,3,520000.0,22-06-2015,Alm.,3489,4,Villa,149,1946,-5 %
+Hjedsbækvej 318 9541 Suldrup,318,1195000.0,18-06-2015,Alm.,9560,4,Villa,125,1925,0 %
+Byrstedvej 18 9541 Suldrup,18,730000.0,18-06-2015,Alm.,5447,5,Villa,134,1979,-2 %
+Hjedsbækvej 404B 9541 Suldrup,0,675000.0,15-06-2015,Alm.,5625,3,Villa,120,1980,-3 %
+Svanereden 1 9541 Suldrup,1,1372500.0,08-06-2015,Alm.,9211,5,Villa,149,1984,-5 %
+Trængstrupvej 55 9541 Suldrup,55,25000.0,03-06-2015,Fam.,144,5,Villa,173,1904,
+Hjedsbækvej 156 9541 Suldrup,156,620000.0,02-06-2015,Fam.,6078,4,Villa,102,1986,
+Søskrænten 5 9541 Suldrup,5,555685.0,27-05-2015,Alm.,3020,5,Villa,184,2015,
+Bavnehøjvej 4 9541 Suldrup,4,407500.0,26-05-2015,Alm.,2753,8,Villa,148,1937,
+Hjedsbækvej 357 9541 Suldrup,357,950000.0,26-05-2015,Alm.,5654,5,Villa,168,1974,-5 %
+Dyssevej 5 9541 Suldrup,5,1145000.0,21-05-2015,Alm.,7156,5,Villa,160,1966,
+Hjedsbækvej 264 9541 Suldrup,264,940000.0,30-04-2015,Alm.,6438,4,Villa,146,1968,-6 %
+Østermarkvej 20 9541 Suldrup,20,4740000.0,09-04-2015,Alm.,40862,5,Stuehus,116,1932,
+Hjedsbækvej 286 9541 Suldrup,286,275179.0,24-03-2015,Auktion,2927,4,Villa,94,1947,
+Søvænget 2 9541 Suldrup,2,584915.0,17-03-2015,Fam.,3304,6,Villa,177,1977,
+Skrænten 7 9541 Suldrup,7,275000.0,19-02-2015,Alm.,3353,3,Rækkehus,82,1984,-20 %
+Vinstræde 16 9541 Suldrup,16,762500.0,24-01-2015,Andet,4919,4,Villa,155,1927,-55 %
+Sønderupgårdvej 5 9541 Suldrup,5,975000.0,22-01-2015,Alm.,5539,5,Villa,176,1968,-2 %
+Trængstrupvej 7 9541 Suldrup,7,1045000.0,20-01-2015,Alm.,4543,6,Villa,230,1932,0 %
+Hjortholmvej 3 9541 Suldrup,3,936000.0,13-01-2015,Alm.,6638,4,Villa,141,1955,-6 %
+Gammelholmvej 26 9541 Suldrup,26,550000.0,28-11-2014,Alm.,2910,6,Villa,189,1918,
+Hjedsbækvej 215 9541 Suldrup,215,760000.0,21-11-2014,Alm.,6333,4,Villa,120,1917,-1 %
+Vikingevej 8 9541 Suldrup,8,585251.0,18-11-2014,Fam.,3215,6,Villa,182,1972,
+Gammel Aalborgvej 6 9541 Suldrup,6,212500.0,05-11-2014,Fam.,3794,3,Villa,56,1969,
+Veggerbyvej 66 9541 Suldrup,66,2300000.0,13-10-2014,Alm.,18852,4,Stuehus,122,1931,
+Veggerbyvej 26 9541 Suldrup,26,695000.0,08-10-2014,Alm.,7897,3,Villa,88,1956,-3 %
+Hjedsbækvej 370 9541 Suldrup,370,750000.0,03-10-2014,Andet,4901,4,Villa,153,1943,
+Bradstedvej 7 9541 Suldrup,7,465000.0,26-09-2014,Alm.,3549,3,Villa,131,1943,-15 %
+Søvænget 20 9541 Suldrup,20,600000.0,22-09-2014,Alm.,5128,4,Villa,117,1973,-4 %
+Anlægsvej 20 9541 Suldrup,20,590000.0,12-09-2014,Alm.,5363,3,Villa,110,1970,-6 %
+Byrstedvej 17 9541 Suldrup,17,78000.0,30-07-2014,Alm.,1392,3,Villa,56,1960,
+Vikingevej 4 9541 Suldrup,4,800000.0,27-07-2014,Alm.,6504,4,Villa,123,1979,-6 %
+"Aarestrupvej 2, ST. TV 9541 Suldrup",0,630000.0,09-07-2014,Alm.,7500,3,Anden beboelse,84,1915,
+Hjedsbækvej 214 9541 Suldrup,214,300000.0,02-07-2014,Alm.,2013,5,Villa,149,1927,
+Albækvej 18 9541 Suldrup,18,220000.0,18-06-2014,Alm.,2444,3,Stuehus,90,1926,-12 %
+Byrstedvej 24 9541 Suldrup,24,326500.0,12-06-2014,Alm.,1270,9,Villa,257,1892,-18 %
+Søvænget 23 9541 Suldrup,23,700000.0,10-06-2014,Alm.,4895,4,Villa,143,1974,-30 %
+Hjedsbækvej 341 9541 Suldrup,341,575000.0,25-05-2014,Alm.,4600,5,Villa,125,1929,-32 %
+Lille Sønderupvej 5 9541 Suldrup,5,944952.0,23-05-2014,Fam.,4896,8,Stuehus,193,1961,
+Jættestuevej 17 9541 Suldrup,17,830000.0,19-05-2014,Alm.,4825,5,Villa,172,1972,
+Veggerbyvej 86 9541 Suldrup,86,1250000.0,14-05-2014,Alm.,8012,6,Stuehus,156,1933,-7 %
+Hjedsbækvej 259 9541 Suldrup,259,975000.0,04-05-2014,Alm.,8863,4,Villa,110,1960,-2 %
+Rodstedvej 29 9541 Suldrup,29,673200.0,08-04-2014,Alm.,2965,8,Villa,227,1983,
+Trængstrupvej 53 9541 Suldrup,53,50000.0,08-04-2014,Alm.,781,3,Villa,64,1890,
+Svanereden 4 9541 Suldrup,4,1050000.0,06-03-2014,Alm.,8267,4,Villa,127,1987,-4 %
+Birkevej 10 9541 Suldrup,10,1350000.0,26-02-2014,Alm.,8709,5,Villa,155,1981,-8 %
+Hjedsbækvej 277A 9541 Suldrup,0,390000.0,11-02-2014,Auktion,1604,7,Villa,243,1947,-66 %
+Tøttrupvej 5 9541 Suldrup,5,325000.0,05-02-2014,Alm.,3037,3,Villa,107,1959,
+Svanereden 5 9541 Suldrup,5,577800.0,30-01-2014,Fam.,4217,4,Villa,137,1984,
+Vikingevej 19 9541 Suldrup,19,1212500.0,15-01-2014,Alm.,7976,5,Villa,152,1974,-5 %
+Dyssevej 23 9541 Suldrup,23,805000.0,17-12-2013,Alm.,6708,6,Villa,120,1972,-5 %
+Hjedsbækvej 270 9541 Suldrup,270,200000.0,18-11-2013,Alm.,1117,6,Villa,179,2016,-33 %
+Trængstrupvej 90 9541 Suldrup,90,1287235.0,05-11-2013,Alm.,7440,5,Stuehus,173,1909,
+Torstedvej 67 9541 Suldrup,67,302600.0,29-10-2013,Auktion,1400,6,Villa,216,1890,
+Sønderupgårdvej 2 9541 Suldrup,2,315000.0,28-10-2013,Alm.,2540,4,Villa,124,1971,-20 %
+Anlægsvej 35 9541 Suldrup,35,895000.0,24-10-2013,Alm.,6347,5,Villa,141,1973,0 %
+Hjedsbækvej 260 9541 Suldrup,260,675000.0,20-10-2013,Alm.,10887,3,Villa,62,1957,-3 %
+Tøttrupvej 24 9541 Suldrup,24,857500.0,18-10-2013,Alm.,3862,7,Stuehus,222,1975,-56 %
+Hjedsbækvej 162 9541 Suldrup,162,110000.0,23-09-2013,Alm.,894,3,Villa,123,1953,-63 %
+Sønderupgårdvej 12 9541 Suldrup,12,595000.0,02-09-2013,Alm.,5312,4,Villa,112,1966,0 %
+Gåsemosevej 4 9541 Suldrup,4,1600000.0,20-08-2013,Fam.,9467,4,Villa,169,1910,
+Trængstrupvej 47 9541 Suldrup,47,27370000.0,06-08-2013,Alm.,192746,3,Stuehus,142,1991,
+Gåsemosevej 3 9541 Suldrup,3,335000.0,25-07-2013,Andet,1861,4,Villa,180,1897,
+Hjedsbækvej 160 9541 Suldrup,160,450000.0,16-07-2013,Alm.,2941,6,Villa,153,1946,-24 %
+Trængstrupvej 51 9541 Suldrup,51,1395000.0,09-07-2013,Alm.,9964,6,Stuehus,140,1948,0 %
+Rodstedvej 3 9541 Suldrup,3,550000.0,24-06-2013,Alm.,4435,4,Villa,124,1960,-15 %
+Hjortholmvej 10 9541 Suldrup,10,1195000.0,23-06-2013,Alm.,9053,5,Stuehus,132,1961,
+Hjedsbækvej 218 9541 Suldrup,218,550000.0,19-06-2013,Alm.,9166,2,Villa,60,1955,
+Hjedsbækvej 238 9541 Suldrup,238,855000.0,17-06-2013,Alm.,7772,4,Villa,110,1952,-4 %
+Aarestrupvej 19 9541 Suldrup,19,725000.0,14-06-2013,Alm.,6304,4,Villa,115,1950,
+Veggerbyvej 7 9541 Suldrup,7,425000.0,12-06-2013,Alm.,3863,3,Villa,110,1910,-14 %
+Jættestuevej 15 9541 Suldrup,15,995000.0,30-05-2013,Alm.,7595,4,Villa,131,1970,
+Trængstrupvej 30 9541 Suldrup,30,500000.0,29-05-2013,Alm.,3289,5,Villa,152,1959,-15 %
+Hjedsbækvej 374 9541 Suldrup,374,750000.0,22-05-2013,Alm.,4687,5,Villa,160,1946,-16 %
+Rodstedvej 17 9541 Suldrup,17,790000.0,15-05-2013,Fam.,5302,4,Villa,149,1900,
+Braulstrupvej 16 9541 Suldrup,16,360000.0,15-04-2013,Alm.,2535,6,Stuehus,142,1727,
+Torstedvej 77 9541 Suldrup,77,525000.0,09-04-2013,Alm.,5303,2,Villa,99,1908,-4 %
+Hjedsbækvej 469 9541 Suldrup,469,475000.0,31-03-2013,Alm.,3209,5,Villa,148,1942,-5 %
+Kirketerpvej 53 9541 Suldrup,53,116000.0,19-02-2013,Auktion,950,5,Villa,122,1948,-61 %
+Hjedsbækvej 307 9541 Suldrup,307,380000.0,14-02-2013,Alm.,3166,4,Villa,120,1928,-24 %
+Hjedsbækvej 203 9541 Suldrup,203,60621.0,12-02-2013,Auktion,704,4,Villa,86,1930,
+Trængstrupvej 18 9541 Suldrup,18,1100000.0,23-01-2013,Alm.,4247,7,Villa,259,1902,-8 %
+Dalumvej 29 9541 Suldrup,29,1487500.0,21-01-2013,Fam.,7912,6,Stuehus,188,1825,
+Hjedsbækvej 279 9541 Suldrup,279,400000.0,21-01-2013,Alm.,2836,5,Villa,141,1945,-16 %
+Vikingevej 12 9541 Suldrup,12,1340000.0,15-01-2013,Alm.,7444,6,Villa,180,1972,-10 %
+Torstedvej 47 9541 Suldrup,47,2480000.0,20-12-2012,Alm.,12653,5,Stuehus,196,2001,-1 %
+Hjedsbækvej 406 9541 Suldrup,406,394000.0,13-12-2012,Auktion,3126,4,Villa,126,1959,
+Stensgade 16 9541 Suldrup,16,1150000.0,27-11-2012,Alm.,14375,3,Villa,80,1958,-4 %
+Hjedsbækvej 397 9541 Suldrup,397,795000.0,17-11-2012,Alm.,6913,3,Villa,115,1948,-5 %
+Tøttrupvej 25 9541 Suldrup,25,1180000.0,08-11-2012,Auktion,4290,6,Stuehus,275,1979,
+Bradstedvej 6 9541 Suldrup,6,250000.0,01-11-2012,Alm.,2777,4,Villa,90,1966,-15 %
+Søbakken 8 9541 Suldrup,8,440000.0,25-10-2012,Auktion,2378,4,Villa,185,1977,
+Hjedsbækvej 197 9541 Suldrup,197,90000.0,18-10-2012,Auktion,1304,2,Villa,69,1923,-81 %
+Hjortholmvej 4 9541 Suldrup,4,2085000.0,09-10-2012,Fam.,18954,3,Villa,110,1966,
+Hjedsbækvej 347 9541 Suldrup,347,1245000.0,28-09-2012,Alm.,8300,5,Villa,150,1935,0 %
+Tøttrupvej 21 9541 Suldrup,21,3480000.0,13-09-2012,Alm.,25217,4,Stuehus,138,1900,
+Bavnehøjvej 17 9541 Suldrup,17,625000.0,03-08-2012,Alm.,4562,5,Villa,137,1913,-21 %
+Hjedsbækvej 190 9541 Suldrup,190,200000.0,02-08-2012,Auktion,2500,3,Villa,80,1953,
+Bratbjergvej 10 9541 Suldrup,10,1300000.0,17-07-2012,Alm.,7471,7,Villa,174,1919,
+Kavshøjvej 17 9541 Suldrup,17,325000.0,14-07-2012,Auktion,1181,6,Villa,275,1930,
+Bradstedvej 30 9541 Suldrup,30,1368335.0,11-07-2012,Fam.,5975,5,Stuehus,229,2009,
+Jættestuevej 16 9541 Suldrup,16,775000.0,09-07-2012,Alm.,6858,4,Villa,113,1969,
+Søvænget 16 9541 Suldrup,16,1350000.0,03-07-2012,Alm.,10629,4,Villa,127,1974,-3 %
+Højmarken 10 9541 Suldrup,10,410000.0,28-06-2012,Auktion,2827,6,Villa,145,1979,
+Søbakken 3 9541 Suldrup,3,1260000.0,25-06-2012,Alm.,7826,4,Villa,161,1975,-6 %
+Stadionvej 17 9541 Suldrup,17,500000.0,14-06-2012,Alm.,6849,3,Rækkehus,73,1979,
+Stensgade 1 9541 Suldrup,1,705000.0,07-06-2012,Alm.,0,6,Villa,160,1973,-3 %
+Hjedsbækvej 343 9541 Suldrup,343,550000.0,31-05-2012,Alm.,4230,3,Villa,130,1931,-21 %
+Jættestuevej 10 9541 Suldrup,10,900000.0,19-05-2012,Alm.,7826,3,Villa,115,1971,-14 %
+Gammel Aalborgvej 19 9541 Suldrup,19,1500000.0,08-05-2012,Alm.,6147,8,Stuehus,244,2017,
+Hjedsbækvej 433 9541 Suldrup,433,60000.0,24-04-2012,Alm.,434,5,Stuehus,138,1907,
+Astrupvej 27 9541 Suldrup,27,600000.0,14-04-2012,Auktion,3125,4,Stuehus,192,1860,-17 %
+Hjedsbækvej 240 9541 Suldrup,240,400000.0,05-04-2012,Alm.,5405,4,Villa,74,1963,-10 %
+Søvænget 11 9541 Suldrup,11,1150000.0,16-03-2012,Fam.,5721,7,Villa,201,1974,
+Stensgade 14 9541 Suldrup,14,610000.0,04-03-2012,Alm.,7625,3,Villa,80,1962,-12 %
+Bavnehøjvej 5 9541 Suldrup,5,650000.0,26-01-2012,Alm.,4779,4,Stuehus,136,1948,-24 %
+Braulstrupvej 11 9541 Suldrup,11,1700000.0,04-01-2012,Alm.,7870,7,Villa,216,1876,-5 %
+Hjedsbækvej 205 9541 Suldrup,205,554241.0,19-12-2011,Fam.,4198,6,Villa,132,1932,
+Veggerbyvej 18 9541 Suldrup,18,370000.0,01-12-2011,Auktion,4805,4,Villa,77,1961,-38 %
+Anlægsvej 50 9541 Suldrup,50,550000.0,22-11-2011,Alm.,1462,9,Villa,376,2012,
+Stadionvej 6 9541 Suldrup,6,950000.0,18-11-2011,Alm.,7723,5,Villa,123,1932,-13 %
+Åvej 7 9541 Suldrup,7,995000.0,26-10-2011,Alm.,6633,5,Villa,150,1935,-9 %
+Trængstrupvej 11 9541 Suldrup,11,300000.0,18-10-2011,Alm.,2343,5,Villa,128,1932,-14 %
+Kirketerpvej 61 9541 Suldrup,61,100000.0,26-09-2011,Alm.,1492,3,Villa,67,1955,
+Søbakken 1 9541 Suldrup,1,1535000.0,08-09-2011,Alm.,5770,7,Villa,266,1976,-4 %
+Hjedsbækvej 466 9541 Suldrup,466,225000.0,07-08-2011,Alm.,1744,5,Villa,129,1929,-31 %
+Anlægsvej 9 9541 Suldrup,9,500000.0,05-08-2011,Alm.,4761,4,Villa,105,1966,-23 %
+Braulstrupvej 6 9541 Suldrup,6,1900000.0,19-07-2011,Alm.,24675,3,Stuehus,77,1904,
+Vikingevej 1 9541 Suldrup,1,1100000.0,04-07-2011,Fam.,8208,4,Villa,134,1960,
+Hjedsbækvej 306 9541 Suldrup,306,700000.0,03-07-2011,Alm.,6796,3,Villa,103,1985,-12 %
+Hjedsbækvej 158 9541 Suldrup,158,87833.0,10-05-2011,Fam.,1756,2,Villa,50,1939,
+Anlægsvej 4 9541 Suldrup,4,635000.0,06-05-2011,Alm.,8698,3,Villa,73,1961,-2 %
+Dyssevej 3 9541 Suldrup,3,595000.0,05-05-2011,Alm.,6197,3,Villa,96,1964,
+Hjedsbækvej 288 9541 Suldrup,288,900000.0,26-04-2011,Alm.,10227,3,Villa,88,1957,-5 %
+Vikingevej 15 9541 Suldrup,15,1095000.0,31-03-2011,Alm.,7500,4,Villa,146,1976,-8 %
+Hjedsbækvej 303 9541 Suldrup,303,400000.0,18-03-2011,Alm.,3076,4,Villa,130,1926,-38 %
+Hjedsbækvej 488 9541 Suldrup,488,1600000.0,15-03-2011,Fam.,8000,7,Villa,200,1976,
+Byrstedvej 8 9541 Suldrup,8,295000.0,24-02-2011,Alm.,0,3,Villa,73,1777,0 %
+Bradstedvej 19 9541 Suldrup,19,1700000.0,01-02-2011,Alm.,6614,8,Stuehus,257,1936,-5 %
+Stadionvej 23 9541 Suldrup,23,560000.0,25-01-2011,Alm.,7671,3,Rækkehus,73,1979,-10 %
+Vikingevej 23 9541 Suldrup,23,1055000.0,21-01-2011,Alm.,6512,5,Villa,162,1977,-15 %
+Veggerbyvej 17 9541 Suldrup,17,375000.0,17-01-2011,Alm.,4166,2,Villa,90,1954,-5 %
+Hjedsbækvej 152 9541 Suldrup,152,462185.0,22-12-2010,Andet,3639,4,Villa,127,1943,
+Kirketerpvej 66 9541 Suldrup,66,850000.0,20-12-2010,Alm.,4166,6,Villa,204,1930,-5 %
+Kirketerpvej 20 9541 Suldrup,20,424482.0,15-12-2010,Fam.,2829,4,Villa,150,1935,
+Hjedsbækvej 421 9541 Suldrup,421,215000.0,08-12-2010,Alm.,1747,4,Villa,123,1890,
+Hjedsbækvej 332 9541 Suldrup,332,400000.0,06-12-2010,Alm.,2500,5,Villa,160,1952,-18 %
+Byrstedvej 4 9541 Suldrup,4,1400000.0,24-11-2010,Alm.,9150,5,Villa,153,1935,-6 %
+Gammel Viborgvej 85 9541 Suldrup,85,9437250.0,16-11-2010,Alm.,77354,4,Stuehus,122,1925,
+Trængstrupvej 21 9541 Suldrup,21,288288.0,05-11-2010,Fam.,2882,3,Villa,100,1929,
+Hjedsbækvej 389 9541 Suldrup,389,995000.0,26-10-2010,Alm.,9128,3,Villa,109,1940,-5 %
+Dalumvej 23 9541 Suldrup,23,990000.0,21-10-2010,Alm.,9082,4,Villa,109,1962,-3 %
+Hjedsbækvej 460 9541 Suldrup,460,950000.0,15-10-2010,Alm.,6333,5,Stuehus,150,1910,
+Stadionvej 10 9541 Suldrup,10,650000.0,06-10-2010,Alm.,6500,3,Villa,100,1933,
+Sportsvænget 5 9541 Suldrup,5,1530000.0,05-10-2010,Alm.,11679,4,Villa,131,2003,-8 %
+Dyssevej 16 9541 Suldrup,16,725000.0,28-09-2010,Alm.,6415,4,Villa,113,1972,-9 %
+Sønderupgårdvej 10 9541 Suldrup,10,850000.0,24-09-2010,Alm.,7727,3,Villa,110,1966,-11 %
+Hjedsbækvej 354 9541 Suldrup,354,200000.0,22-09-2010,Alm.,1960,4,Villa,102,1939,-71 %
+Anlægsvej 6 9541 Suldrup,6,585000.0,10-09-2010,Alm.,6964,3,Villa,84,1961,-12 %
+Høgholtvej 3 9541 Suldrup,3,800000.0,24-08-2010,Alm.,4020,5,Villa,199,1875,
+Jættestuevej 26 9541 Suldrup,26,1400000.0,13-07-2010,Alm.,7368,6,Villa,190,1970,-6 %
+Søsvinget 10 9541 Suldrup,10,1145000.0,07-07-2010,Alm.,8063,4,Villa,142,1981,0 %
+Åvej 9 9541 Suldrup,9,1800000.0,15-06-2010,Alm.,9890,5,Stuehus,182,1946,
+Hjedsbækvej 295 9541 Suldrup,295,1650000.0,31-05-2010,Alm.,7466,9,Villa,221,1936,-8 %
+Rodstedvej 6 9541 Suldrup,6,50000.0,28-05-2010,Auktion,396,5,Villa,126,1957,
+Hjortholmvej 29 9541 Suldrup,29,2050000.0,17-05-2010,Alm.,14963,4,Villa,137,1950,-6 %
+Frendstrupvej 3 9541 Suldrup,3,250000.0,17-05-2010,Alm.,1152,6,Stuehus,217,1929,
+Søvænget 13 9541 Suldrup,13,825000.0,06-05-2010,Alm.,7236,4,Villa,114,1975,-2 %
+Foldagervej 22 9541 Suldrup,22,995000.0,14-04-2010,Alm.,8291,3,Stuehus,120,1894,0 %
+Vikingevej 5 9541 Suldrup,5,500000.0,31-03-2010,Alm.,4166,3,Villa,120,1953,-31 %
+Stadionvej 3 9541 Suldrup,3,425838.0,31-03-2010,Andet,4731,3,Villa,90,1929,
+Højmarken 3 9541 Suldrup,3,500000.0,16-03-2010,Auktion,4201,3,Villa,119,1981,
+Aarestrupvej 1 9541 Suldrup,1,620000.0,12-03-2010,Fam.,3734,5,Villa,166,1964,
+Rykkumvej 6 9541 Suldrup,6,590000.0,12-03-2010,Alm.,6555,4,Villa,90,1946,-6 %
+Stadionvej 25 9541 Suldrup,25,600000.0,03-03-2010,Alm.,8219,3,Rækkehus,73,1979,
+Frendstrupvej 8 9541 Suldrup,8,2616100.0,16-02-2010,Alm.,14533,4,Stuehus,180,1900,
+Rodstedvej 4 9541 Suldrup,4,1172000.0,18-12-2009,Alm.,9848,5,Villa,119,1954,-2 %
+Præstemarken 9 9541 Suldrup,9,420998.0,17-12-2009,Fam.,3289,4,Villa,128,1979,
+Veggerbyvej 6 9541 Suldrup,6,1195000.0,16-12-2009,Alm.,6289,6,Villa,190,1923,
+Veggerbyvej 16 9541 Suldrup,16,700000.0,14-12-2009,Alm.,10294,4,Villa,68,1954,
+Torstedvej 27 9541 Suldrup,27,707000.0,09-12-2009,Alm.,4063,7,Villa,174,1880,-5 %
+Rykkumvej 27 9541 Suldrup,27,878650.0,18-11-2009,Alm.,4030,5,Stuehus,218,1900,
+Gammel Viborgvej 63 9541 Suldrup,63,2375000.0,02-11-2009,Alm.,10106,6,Villa,235,1900,-5 %
+Hyldal Møllevej 15 9541 Suldrup,15,560000.0,23-10-2009,Alm.,4869,2,Villa,115,1930,-6 %
+Hjedsbækvej 254 9541 Suldrup,254,245000.0,22-10-2009,Alm.,0,3,Villa,63,1959,
+Bradstedvej 35 9541 Suldrup,35,1900000.0,14-08-2009,Alm.,11656,4,Stuehus,163,1903,-10 %
+Gammel Aalborgvej 5 9541 Suldrup,5,1175000.0,21-07-2009,Alm.,6911,5,Villa,170,1957,-6 %
+Rykkumvej 19 9541 Suldrup,19,6525062.0,20-07-2009,Alm.,28369,5,Stuehus,230,1852,
+Veggerbyvej 5A 9541 Suldrup,0,1060000.0,01-06-2009,Alm.,5888,8,Villa,180,1897,-11 %
+Stadionvej 2 9541 Suldrup,2,1025000.0,22-05-2009,Alm.,8266,4,Villa,124,1930,-6 %
+Hjedsbækvej 252 9541 Suldrup,252,645000.0,20-05-2009,Alm.,6935,3,Villa,93,1958,0 %
+Hjedsbækvej 315 9541 Suldrup,315,800000.0,15-05-2009,Alm.,6722,5,Villa,119,1906,
+Hjedsbækvej 273 9541 Suldrup,273,372500.0,12-05-2009,Alm.,3386,3,Villa,110,1949,
+Braulstrupvej 17 9541 Suldrup,17,1086000.0,16-04-2009,Alm.,8484,5,Stuehus,128,1912,0 %
+Hjedsbækvej 298 9541 Suldrup,298,550000.0,03-04-2009,Auktion,3741,7,Anden beboelse,147,1948,
+Kirketerpvej 55 9541 Suldrup,55,699825.0,02-04-2009,Andet,6998,4,Villa,100,1953,0 %
+Frendstrupvej 13 9541 Suldrup,13,335000.0,17-03-2009,Alm.,1334,6,Villa,251,1983,
+Hjedsbækvej 275 9541 Suldrup,275,1650000.0,13-03-2009,Alm.,9375,4,Villa,176,1951,-5 %
+Hjedsbækvej 121 9541 Suldrup,121,1700000.0,13-02-2009,Alm.,13076,5,Stuehus,130,1907,-10 %
+Møllers Bakker 13 9541 Suldrup,13,301436.0,12-02-2009,Alm.,1656,6,Villa,182,2010,
+Hjedsbækvej 187 9541 Suldrup,187,945000.0,08-01-2009,Alm.,15750,3,Villa,60,1952,-5 %
+Kirketerpvej 46 9541 Suldrup,46,200000.0,05-01-2009,Fam.,2000,3,Stuehus,100,1890,
+Stensgade 9 9541 Suldrup,9,1200000.0,01-01-2009,Alm.,8219,6,Villa,146,1964,
+Byrstedvej 14 9541 Suldrup,14,535000.0,29-12-2008,Alm.,3905,5,Villa,137,1932,
+Dyssevej 2 9541 Suldrup,2,420000.0,11-11-2008,Andet,4516,2,Villa,93,1963,
+Stadionvej 35 9541 Suldrup,35,730000.0,25-10-2008,Alm.,8795,3,Rækkehus,83,1987,0 %
+Veggerbyvej 28 9541 Suldrup,28,690000.0,17-10-2008,Fam.,10952,2,Villa,63,1960,
+Hjedsbækvej 463 9541 Suldrup,463,785000.0,10-10-2008,Alm.,5451,4,Villa,144,1946,0 %
+Søvænget 28 9541 Suldrup,28,1750000.0,07-10-2008,Alm.,9408,4,Villa,186,1975,
+Foldagervej 3 9541 Suldrup,3,2375000.0,03-10-2008,Alm.,12305,6,Villa,193,1927,-3 %
+Veggerbyvej 69 9541 Suldrup,69,20250000.0,24-09-2008,Alm.,100746,6,Stuehus,201,1934,
+Braulstrupvej 2 9541 Suldrup,2,1076000.0,22-09-2008,Alm.,3341,5,Villa,322,2014,-9 %
+Jættestuevej 12 9541 Suldrup,12,1420000.0,06-09-2008,Alm.,7717,6,Villa,184,1971,-5 %
+Søvænget 3 9541 Suldrup,3,1595000.0,04-09-2008,Alm.,10357,4,Villa,154,1975,0 %
+Højmarken 2 9541 Suldrup,2,417625.0,22-08-2008,Fam.,2372,6,Villa,176,1980,
+Hjedsbækvej 227 9541 Suldrup,227,900000.0,04-08-2008,Alm.,4736,6,Villa,190,2010,0 %
+Møllers Bakker 1 9541 Suldrup,1,2383000.0,30-07-2008,Alm.,13695,5,Villa,174,2009,5 %
+Hjedsbækvej 362 9541 Suldrup,362,1245000.0,18-07-2008,Alm.,9576,4,Villa,130,1969,-4 %
+Aarestrupvej 4 9541 Suldrup,4,250000.0,25-06-2008,Alm.,3012,3,Stuehus,83,1880,
+Stadionvej 8 9541 Suldrup,8,650000.0,16-06-2008,Alm.,5241,4,Villa,124,1930,-6 %
+Trængstrupvej 85 9541 Suldrup,85,6162500.0,13-06-2008,Fam.,34620,8,Stuehus,178,1906,
+Rodstedvej 23 9541 Suldrup,23,21210000.0,13-06-2008,Fam.,54384,7,Stuehus,390,1870,
+Præstemarken 3 9541 Suldrup,3,520000.0,09-06-2008,Alm.,5591,3,Villa,93,1954,-5 %
+Torstedvej 57 9541 Suldrup,57,2773910.0,02-06-2008,Andet,13209,6,Stuehus,210,1988,
+Stensgade 15 9541 Suldrup,15,750000.0,23-05-2008,Fam.,7500,3,Villa,100,1961,
+Braulstrupvej 1 9541 Suldrup,1,1770000.0,14-04-2008,Alm.,8719,7,Stuehus,203,1939,-1 %
+Dyssevej 7 9541 Suldrup,7,1175000.0,13-04-2008,Alm.,9631,4,Villa,122,1967,-8 %
+Stensgade 2 9541 Suldrup,2,750000.0,07-04-2008,Fam.,3731,4,Villa,201,1923,
+Torstedvej 53 9541 Suldrup,53,1275000.0,05-03-2008,Alm.,5100,6,Villa,250,1933,0 %
+Kirketerpvej 22 9541 Suldrup,22,2498000.0,29-02-2008,Alm.,11672,9,Stuehus,214,1905,0 %
+Torstedvej 37 9541 Suldrup,37,1050000.0,25-02-2008,Alm.,6287,6,Villa,167,1926,-12 %
+Stadionvej 5 9541 Suldrup,5,875000.0,23-02-2008,Alm.,7172,4,Villa,122,1928,-5 %
+Ved Højene 26 9541 Suldrup,26,250000.0,22-02-2008,Alm.,1366,5,Villa,183,2008,
+Trængstrupvej 33 9541 Suldrup,33,530000.0,13-02-2008,Alm.,5300,3,Villa,100,1914,-6 %
+Hjedsbækvej 484 9541 Suldrup,484,630000.0,13-01-2008,Alm.,9000,4,Villa,70,1958,-1 %
+Bustedvej 15 9541 Suldrup,15,911578.0,06-01-2008,Andet,4512,6,Villa,202,1925,
+Hjedsbækvej 229 9541 Suldrup,229,900000.0,28-12-2007,Alm.,3765,7,Villa,239,2010,0 %
+Hjedsbækvej 313 9541 Suldrup,313,1000000.0,10-12-2007,Fam.,7751,4,Villa,129,1967,
+Hjedsbækvej 353 9541 Suldrup,353,650000.0,10-12-2007,Alm.,4421,5,Villa,147,1958,
+Aarestrupvej 15 9541 Suldrup,15,471175.0,07-12-2007,Andet,4908,4,Villa,96,1950,
+Stadionvej 4 9541 Suldrup,4,1100000.0,02-12-2007,Alm.,8088,5,Villa,136,1929,-8 %
+Hjedsbækvej 186 9541 Suldrup,186,350000.0,28-11-2007,Fam.,3043,4,Villa,115,1876,
+Møllers Bakker 5 9541 Suldrup,5,1998000.0,20-11-2007,Alm.,13779,5,Villa,145,2007,
+Hjedsbækvej 345 9541 Suldrup,345,1080000.0,18-11-2007,Alm.,8307,5,Villa,130,1924,
+Ulvkærvej 21 9541 Suldrup,21,2025000.0,27-10-2007,Alm.,11911,3,Stuehus,170,1936,-10 %
+Hjedsbækvej 359 9541 Suldrup,359,519373.0,17-10-2007,Andet,3709,6,Villa,140,1942,
+Hjedsbækvej 223 9541 Suldrup,223,695000.0,16-10-2007,Alm.,0,4,Villa,105,1930,0 %
+Gammel Viborgvej 75 9541 Suldrup,75,1800000.0,14-10-2007,Alm.,12676,5,Stuehus,142,1973,-8 %
+Dyssevej 10 9541 Suldrup,10,1150000.0,10-10-2007,Alm.,10267,4,Villa,112,1967,-8 %
+Hjedsbækvej 285 9541 Suldrup,285,1025000.0,06-10-2007,Alm.,0,5,Villa,115,1957,
+Veggerbyvej 70 9541 Suldrup,70,335000.0,13-09-2007,Fam.,1558,8,Stuehus,215,1931,
+Bavnehøjvej 9 9541 Suldrup,9,9510000.0,11-09-2007,Alm.,35485,7,Stuehus,268,2003,-9 %
+Hjedsbækvej 480 9541 Suldrup,480,1250000.0,06-09-2007,Alm.,7621,6,Villa,164,1954,-2 %
+Albækvej 5 9541 Suldrup,5,4050000.0,04-09-2007,Alm.,18409,7,Stuehus,220,2006,
+Hjedsbækvej 262 9541 Suldrup,262,835000.0,03-09-2007,Alm.,8520,3,Villa,98,1951,-2 %
+Gammel Viborgvej 69 9541 Suldrup,69,109038.0,23-08-2007,Alm.,757,6,Stuehus,144,1969,
+Torstedvej 50 9541 Suldrup,50,565000.0,16-08-2007,Alm.,5707,4,Villa,99,1902,
+Bratbjergvej 5 9541 Suldrup,5,306000.0,13-08-2007,Fam.,2053,4,Villa,149,1927,
+Byrstedvej 20 9541 Suldrup,20,666751.0,01-08-2007,Alm.,5698,4,Villa,117,1990,
+Hyldal Møllevej 2 9541 Suldrup,2,1600000.0,18-07-2007,Alm.,7881,6,Stuehus,203,1862,5 %
+Hjedsbækvej 192 9541 Suldrup,192,500000.0,10-07-2007,Alm.,6250,11,Servicevirksomhed,80,1937,
+Anlægsvej 8 9541 Suldrup,8,895000.0,28-06-2007,Alm.,7991,3,Villa,112,1962,
+Møllers Bakker 17 9541 Suldrup,17,295436.0,15-06-2007,Alm.,1515,5,Villa,195,2008,
+Møllers Bakker 15 9541 Suldrup,15,284836.0,10-05-2007,Alm.,2225,4,Villa,128,2007,
+Veggerbyvej 74 9541 Suldrup,74,885000.0,10-05-2007,Alm.,6232,4,Stuehus,142,1930,
+Rodstedvej 16 9541 Suldrup,16,1600000.0,07-05-2007,Alm.,14285,4,Villa,112,1942,
+Anlægsvej 11 9541 Suldrup,11,945000.0,04-05-2007,Alm.,9450,3,Villa,100,1967,0 %
+Hjedsbækvej 432 9541 Suldrup,432,429652.0,03-05-2007,Alm.,0,6,Villa,188,1908,
+Møllers Bakker 25 9541 Suldrup,25,185100.0,02-05-2007,Alm.,1201,5,Villa,154,2008,
+Høgholtvej 18 9541 Suldrup,18,1070000.0,30-04-2007,Alm.,5350,6,Stuehus,200,1993,
+Trængstrupvej 40 9541 Suldrup,40,845000.0,19-04-2007,Alm.,4642,4,Villa,182,1952,
+Hjedsbækvej 209 9541 Suldrup,209,1900000.0,12-03-2007,Alm.,16521,4,Stuehus,115,1935,
+Hjedsbækvej 220 9541 Suldrup,220,685000.0,26-02-2007,Alm.,5708,5,Villa,120,1918,
+Hjedsbækvej 506 9541 Suldrup,506,8341480.0,22-02-2007,Alm.,55609,6,Stuehus,150,1891,
+Trængstrupvej 71 9541 Suldrup,71,1475000.0,16-02-2007,Fam.,5462,6,Stuehus,270,1935,
+Hjedsvej 13 9541 Suldrup,13,1410000.0,03-01-2007,Alm.,6650,7,Villa,212,1677,-6 %
+Veggerbyvej 57 9541 Suldrup,57,1048000.0,18-12-2006,Alm.,9886,6,Villa,106,1877,
+Bradstedvej 27 9541 Suldrup,27,400000.0,17-11-2006,Auktion,2666,6,Villa,150,1932,
+Anlægsvej 1 9541 Suldrup,1,1075000.0,09-11-2006,Alm.,7517,5,Villa,143,1963,
+Hyldal Møllevej 30 9541 Suldrup,30,5100000.0,03-11-2006,Alm.,21074,7,Stuehus,242,2009,
+Braulstrupvej 9 9541 Suldrup,9,330000.0,30-10-2006,Alm.,1641,6,Stuehus,201,1907,
+Hjedsbækvej 225 9541 Suldrup,225,975000.0,25-10-2006,Alm.,4949,5,Villa,197,2008,
+Hjedsbækvej 232 9541 Suldrup,232,230000.0,15-10-2006,Alm.,3108,3,Villa,74,1935,
+Hjedsbækvej 278 9541 Suldrup,278,721000.0,20-09-2006,Alm.,10602,2,Villa,68,1949,
+Trængstrupvej 34 9541 Suldrup,34,675722.0,19-09-2006,Alm.,6966,4,Villa,97,1953,
+Stadionvej 21 9541 Suldrup,21,710000.0,11-09-2006,Alm.,9726,3,Rækkehus,73,1979,
+Gammel Viborgvej 89 9541 Suldrup,89,575000.0,11-09-2006,Fam.,3885,7,Villa,148,1946,
+Hjedsbækvej 328 9541 Suldrup,328,685000.0,05-09-2006,Alm.,4892,5,Villa,140,1935,
+Gammel Smedevej 10 9541 Suldrup,10,375000.0,21-08-2006,Alm.,2819,4,Villa,133,1917,
+Møllers Bakker 9 9541 Suldrup,9,193500.0,09-08-2006,Alm.,1465,4,Villa,132,2008,
+Møllers Bakker 11 9541 Suldrup,11,219300.0,08-08-2006,Alm.,891,6,Villa,246,2009,
+Hjedsbækvej 465 9541 Suldrup,465,685000.0,04-08-2006,Alm.,5351,6,Villa,128,1932,
+Veggerbyvej 15 9541 Suldrup,15,1348000.0,25-07-2006,Alm.,9232,7,Villa,146,1954,
+Bavnehøjvej 10 9541 Suldrup,10,536348.0,30-06-2006,Alm.,5059,4,Stuehus,106,1939,
+Møllers Bakker 21 9541 Suldrup,21,178600.0,23-06-2006,Alm.,842,5,Villa,212,2008,
+Møllers Bakker 3 9541 Suldrup,3,169600.0,01-06-2006,Alm.,1228,4,Villa,138,2008,
+Hjortholmvej 15 9541 Suldrup,15,480000.0,29-05-2006,Alm.,2790,5,Villa,172,2008,
+Møllers Bakker 7 9541 Suldrup,7,216300.0,03-05-2006,Alm.,1181,5,Villa,183,2006,
+Hjedsbækvej 283 9541 Suldrup,283,765000.0,03-05-2006,Alm.,6769,4,Villa,113,1958,
+Søbakken 11 9541 Suldrup,11,1176000.0,27-04-2006,Alm.,0,4,Villa,174,1978,
+Hjedsbækvej 457 9541 Suldrup,457,1070000.0,08-04-2006,Alm.,5944,3,Villa,180,1960,
+Hjedsbækvej 390 9541 Suldrup,390,465000.0,24-03-2006,Alm.,4345,4,Villa,107,1936,
+Trængstrupvej 26 9541 Suldrup,26,620000.0,22-03-2006,Alm.,3712,4,Villa,167,1959,
+Hjortholmvej 41 9541 Suldrup,41,775000.0,11-03-2006,Alm.,2429,8,Stuehus,319,1700,
+Tøttrupvej 28 9541 Suldrup,28,930000.0,07-03-2006,Alm.,7380,4,Stuehus,126,1900,
+Sønderupvej 2 9541 Suldrup,2,950000.0,03-03-2006,Alm.,4846,5,Villa,196,1963,
+Møllers Bakker 23 9541 Suldrup,23,179000.0,27-02-2006,Alm.,1260,5,Villa,142,2007,
+Hjedsbækvej 164 9541 Suldrup,164,1050000.0,25-02-2006,Alm.,7500,4,Villa,140,1966,
+Hjedsbækvej 180 9541 Suldrup,180,880000.0,22-02-2006,Alm.,4000,8,Villa,220,1885,
+Rebstrupvej 5 9541 Suldrup,5,1700000.0,02-02-2006,Alm.,11805,2,Villa,144,1942,
+Gammel Viborgvej 82 9541 Suldrup,82,154000.0,13-01-2006,Alm.,950,4,Stuehus,162,1952,
+Rolighedsvej 1 9541 Suldrup,1,424600.0,28-12-2005,Alm.,3291,3,Villa,129,1943,
+Skelhøjsvej 4 9541 Suldrup,4,404606.0,22-12-2005,Fam.,2577,6,Villa,157,1976,
+Vikingevej 7 9541 Suldrup,7,670000.0,04-12-2005,Alm.,5826,4,Villa,115,1957,
+Sønderupgårdvej 6 9541 Suldrup,6,825000.0,01-12-2005,Alm.,8684,3,Villa,95,1968,
+Trængstrupvej 9 9541 Suldrup,9,1080000.0,14-11-2005,Alm.,5684,6,Villa,190,1942,
+Hjedsbækvej 387 9541 Suldrup,387,560000.0,04-11-2005,Alm.,4307,4,Villa,130,1949,
+Hjedsbækvej 350 9541 Suldrup,350,1096000.0,25-10-2005,Alm.,6227,4,Villa,176,1931,
+Sønderupgårdvej 9 9541 Suldrup,9,1045000.0,18-10-2005,Alm.,7359,3,Villa,142,1973,
+Gammel Viborgvej 72 9541 Suldrup,72,1165000.0,17-10-2005,Alm.,0,4,Villa,120,1930,
+Dalumvej 33 9541 Suldrup,33,45000.0,12-10-2005,Alm.,1125,3,Sommerhus,40,1965,
+Gåsemosevej 13 9541 Suldrup,13,1195000.0,12-10-2005,Alm.,10042,4,Villa,119,1940,
+Birkevej 3 9541 Suldrup,3,857500.0,12-10-2005,Alm.,6805,4,Villa,126,1977,
+Hyldal Møllevej 16 9541 Suldrup,16,400000.0,11-10-2005,Alm.,3738,3,Villa,107,1917,
+Albækvej 12 9541 Suldrup,12,2250000.0,30-09-2005,Alm.,18750,2,Stuehus,120,1932,
+Dalumvej 17 9541 Suldrup,17,650000.0,12-09-2005,Alm.,8552,3,Villa,76,1950,
+Hjedsbækvej 219 9541 Suldrup,219,300000.0,06-09-2005,Fam.,1530,7,Villa,196,1932,
+Hjedsbækvej 373 9541 Suldrup,373,1089000.0,30-08-2005,Alm.,7164,4,Villa,152,1954,
+Hjedsbækvej 486 9541 Suldrup,486,595000.0,25-08-2005,Alm.,5776,3,Villa,103,1965,
+Hjedsbækvej 299 9541 Suldrup,299,552500.0,29-07-2005,Fam.,0,6,Villa,221,1930,
+Jættestuevej 5 9541 Suldrup,5,700000.0,26-07-2005,Alm.,5555,4,Villa,126,1972,
+Kirketerpvej 59 9541 Suldrup,59,400000.0,21-07-2005,Alm.,3200,4,Villa,125,1947,
+Byrstedhedevej 24 9541 Suldrup,24,825000.0,08-07-2005,Alm.,0,4,Villa,130,1907,
+Veggerbyvej 78 9541 Suldrup,78,495000.0,10-06-2005,Alm.,0,6,Stuehus,237,1933,
+Hjedsbækvej 272 9541 Suldrup,272,595000.0,03-06-2005,Alm.,4837,5,Villa,123,1950,
+Jættestuevej 4 9541 Suldrup,4,750000.0,02-06-2005,Alm.,5859,4,Villa,128,1969,
+Kirketerpvej 35 9541 Suldrup,35,1295000.0,01-06-2005,Alm.,6641,6,Villa,195,1929,
+Hjortholmvej 30 9541 Suldrup,30,1125000.0,29-05-2005,Alm.,0,7,Stuehus,161,1897,
+Kirketerpvej 42 9541 Suldrup,42,515000.0,20-05-2005,Alm.,4153,4,Stuehus,124,1918,
+Østermarkvej 6 9541 Suldrup,6,5485000.0,19-05-2005,Alm.,34936,4,Stuehus,157,1931,
+Birkevej 5 9541 Suldrup,5,375000.0,19-05-2005,Alm.,7352,2,Villa,51,1952,
+Gammelholmvej 23 9541 Suldrup,23,348000.0,16-05-2005,Alm.,2485,5,Villa,140,1900,
+Hjortholmvej 20 9541 Suldrup,20,144100.0,18-04-2005,Alm.,746,6,Stuehus,193,1925,
+Gammel Viborgvej 60 9541 Suldrup,60,75000.0,14-04-2005,Auktion,431,5,Stuehus,174,1917,
+Sportsvænget 20 9541 Suldrup,20,95880.0,08-04-2005,Alm.,606,4,Villa,158,2007,
+Foldagervej 19 9541 Suldrup,19,1225000.0,08-04-2005,Alm.,0,5,Stuehus,172,1906,
+Sønderupgårdvej 11 9541 Suldrup,11,272000.0,08-04-2005,Fam.,2092,3,Villa,130,1969,
+Hjedsbækvej 257 9541 Suldrup,257,890000.0,17-03-2005,Alm.,9569,4,Villa,93,1953,
+Søsvinget 6 9541 Suldrup,6,975000.0,15-03-2005,Alm.,5025,7,Villa,194,1985,
+Stensgade 5 9541 Suldrup,5,630000.0,02-03-2005,Alm.,6774,3,Villa,93,1960,
+Hjedsbækvej 461 9541 Suldrup,461,395000.0,11-02-2005,Alm.,3989,5,Villa,99,1954,
+Albækvej 8 9541 Suldrup,8,500000.0,09-02-2005,Alm.,2463,5,Stuehus,203,1932,
+Hjedsbækvej 426 9541 Suldrup,426,745000.0,29-01-2005,Alm.,5000,4,Villa,149,1914,
+Veggerbyvej 9 9541 Suldrup,9,870000.0,19-01-2005,Alm.,7837,4,Villa,111,1949,
+Kavshøjvej 15 9541 Suldrup,15,125000.0,18-01-2005,Alm.,939,5,Villa,133,1867,
+Rodstedvej 2 9541 Suldrup,2,510000.0,23-12-2004,Fam.,0,5,Villa,123,1954,
+Rykkumvej 8 9541 Suldrup,8,430000.0,06-12-2004,Alm.,4387,3,Villa,98,1962,
+Hjedsbækvej 263 9541 Suldrup,263,950000.0,05-12-2004,Alm.,7196,3,Villa,132,1960,
+Aarestrupvej 27 9541 Suldrup,27,3500000.0,25-11-2004,Alm.,14522,6,Villa,241,1999,
+Hjedsbækvej 472 9541 Suldrup,472,680000.0,12-11-2004,Alm.,5037,5,Villa,135,1928,
+Rykkumvej 10 9541 Suldrup,10,350000.0,10-11-2004,Alm.,3500,3,Villa,100,1964,
+Hjedsbækvej 116 9541 Suldrup,116,248000.0,05-11-2004,Alm.,2583,5,Villa,96,1930,
+Trængstrupvej 96 9541 Suldrup,96,210000.0,01-11-2004,Alm.,813,9,Stuehus,258,1880,
+Gammel Viborgvej 58 9541 Suldrup,58,2925000.0,29-10-2004,Alm.,30468,4,Stuehus,96,1930,
+Gammel Viborgvej 79 9541 Suldrup,79,1070000.0,29-10-2004,Alm.,5095,9,Stuehus,210,1942,
+Kirketerpvej 39 9541 Suldrup,39,753648.0,18-10-2004,Alm.,6669,4,Stuehus,113,1928,
+Sportsvænget 2 9541 Suldrup,2,99120.0,11-10-2004,Alm.,665,4,Villa,149,2005,
+Veggerbyvej 90 9541 Suldrup,90,980000.0,06-10-2004,Fam.,3192,6,Stuehus,307,1925,
+Hjedsbækvej 261 9541 Suldrup,261,467500.0,02-10-2004,Alm.,6233,2,Villa,75,1956,
+Kirketerpvej 25 9541 Suldrup,25,592244.0,09-08-2004,Fam.,3655,6,Villa,162,1925,
+Åvej 13 9541 Suldrup,13,261064.0,05-08-2004,Andet,2250,4,Stuehus,116,1758,
+Kirketerpvej 31 9541 Suldrup,31,400000.0,30-07-2004,Alm.,3773,4,Villa,106,1940,
+Kavshøjvej 10 9541 Suldrup,10,625000.0,28-06-2004,Alm.,3930,6,Stuehus,159,2013,
+Frendstrupvej 1 9541 Suldrup,1,700000.0,25-06-2004,Alm.,3571,5,Stuehus,196,2014,
+Hjedsbækvej 365 9541 Suldrup,365,381000.0,14-06-2004,Auktion,1984,7,Villa,192,1963,
+Knoldevej 5 9541 Suldrup,5,830000.0,01-06-2004,Alm.,4486,5,Stuehus,185,1933,
+Kirketerpvej 29 9541 Suldrup,29,285000.0,19-04-2004,Auktion,2192,5,Villa,130,1932,
+Anlægsvej 33 9541 Suldrup,33,730000.0,08-04-2004,Alm.,0,6,Villa,153,1973,
+Aarestrupvej 5 9541 Suldrup,5,400000.0,29-03-2004,Alm.,4347,2,Villa,92,1912,
+Hjedsbækvej 482 9541 Suldrup,482,335000.0,09-02-2004,Alm.,3045,4,Villa,110,1955,
+Hjedsbækvej 331 9541 Suldrup,331,390000.0,06-02-2004,Alm.,3786,4,Anden beboelse,103,1928,
+Stensgade 22 9541 Suldrup,22,490000.0,03-02-2004,Fam.,4900,6,Villa,100,1965,
+Gammel Viborgvej 68 9541 Suldrup,68,504382.0,23-01-2004,Andet,2183,7,Villa,231,1917,
+Stensbovej 1 9541 Suldrup,1,570000.0,21-01-2004,Alm.,4191,5,Villa,136,1958,
+Kirketerpvej 38 9541 Suldrup,38,500000.0,21-01-2004,Alm.,3703,4,Stuehus,135,1827,
+Gammelholmvej 7 9541 Suldrup,7,1225000.0,23-12-2003,Alm.,5235,9,Stuehus,234,1929,
+Veggerbyvej 11 9541 Suldrup,11,190466.0,05-11-2003,Fam.,1943,4,Villa,98,1946,
+Dyssevej 20 9541 Suldrup,20,685000.0,02-10-2003,Alm.,5393,4,Villa,127,1972,
+Bradstedvej 8 9541 Suldrup,8,620000.0,30-09-2003,Alm.,5000,5,Villa,124,1972,
+Kirketerpvej 69 9541 Suldrup,69,470000.0,19-09-2003,Alm.,0,8,Villa,203,1935,
+Vinstræde 12 9541 Suldrup,12,5042500.0,02-09-2003,Fam.,28170,7,Stuehus,179,1917,
+Stensgade 3 9541 Suldrup,3,600000.0,26-08-2003,Alm.,3947,6,Villa,152,1959,
+Veggerbyvej 54 9541 Suldrup,54,1762500.0,25-08-2003,Fam.,8084,9,Stuehus,218,1995,
+Stensgade 10 9541 Suldrup,10,495000.0,30-07-2003,Alm.,5823,3,Villa,85,1960,
+Gammel Aalborgvej 10 9541 Suldrup,10,710000.0,30-07-2003,Alm.,4930,5,Stuehus,144,1934,
+Torstedvej 35 9541 Suldrup,35,675000.0,11-07-2003,Alm.,3708,5,Villa,182,1887,
+Hjedsbækvej 250 9541 Suldrup,250,540000.0,10-07-2003,Alm.,4821,5,Villa,112,1957,
+Gammelholmvej 25 9541 Suldrup,25,360000.0,26-06-2003,Fam.,5142,3,Villa,70,1897,
+Hjedsbækvej 440 9541 Suldrup,440,9150000.0,24-06-2003,Alm.,36895,5,Stuehus,248,1899,
+Astrupvej 39 9541 Suldrup,39,560000.0,24-06-2003,Alm.,0,6,Villa,201,1946,
+Stensgade 20 9541 Suldrup,20,575000.0,10-06-2003,Alm.,4831,4,Villa,119,1965,
+Skrænten 4 9541 Suldrup,4,525000.0,22-05-2003,Alm.,4687,3,Villa,112,1960,
+Tøttrupvej 15 9541 Suldrup,15,45000.0,27-04-2003,Alm.,244,7,Villa,184,1935,
+Hjedsbækvej 514 9541 Suldrup,514,600000.0,08-04-2003,Alm.,3000,7,Stuehus,200,2010,
+Lille Sønderupvej 4 9541 Suldrup,4,1425000.0,05-04-2003,Alm.,15833,5,Stuehus,90,1850,
+Hjedsbækvej 364 9541 Suldrup,364,370000.0,14-03-2003,Fam.,0,4,Villa,145,1929,
+Tøttrupvej 3 9541 Suldrup,3,298355.0,07-03-2003,Alm.,2528,7,Stuehus,118,1940,
+Tøttrupvej 11 9541 Suldrup,11,958355.0,07-03-2003,Alm.,6475,6,Stuehus,148,1860,
+Kirketerpvej 7 9541 Suldrup,7,1249000.0,27-02-2003,Alm.,0,9,Villa,252,1927,
+Gammel Smedevej 8 9541 Suldrup,8,560000.0,21-02-2003,Alm.,0,5,Villa,178,1875,
+Dalumvej 34 9541 Suldrup,34,1000000.0,18-02-2003,Alm.,7407,3,Stuehus,135,1914,
+Sportsvænget 14 9541 Suldrup,14,106560.0,05-02-2003,Alm.,641,5,Villa,166,2004,
+Gammelholmvej 15 9541 Suldrup,15,1025000.0,29-01-2003,Alm.,7884,6,Stuehus,130,1902,
+Foldagervej 7 9541 Suldrup,7,1900000.0,01-01-2003,Alm.,12337,8,Stuehus,154,1905,
+Trængstrupvej 89 9541 Suldrup,89,354241.0,19-12-2002,Fam.,2012,6,Villa,176,1870,
+Hjedsbækvej 384A 9541 Suldrup,0,485000.0,16-12-2002,Alm.,6736,3,Rækkehus,72,1983,
+Søbakken 6 9541 Suldrup,6,750000.0,16-12-2002,Alm.,5244,4,Villa,143,1975,
+Ved Højene 3 9541 Suldrup,3,750000.0,07-12-2002,Alm.,7075,3,Villa,106,1987,
+Dalumvej 47 9541 Suldrup,47,480000.0,19-11-2002,Alm.,1584,4,Stuehus,303,1928,
+Hjedsbækvej 290 9541 Suldrup,290,500000.0,16-11-2002,Alm.,3048,6,Villa,164,1942,
+Hjedsbækvej 297 9541 Suldrup,297,713910.0,15-11-2002,Alm.,8112,3,Villa,88,1930,
+Søbakken 2 9541 Suldrup,2,650000.0,15-11-2002,Alm.,4744,4,Villa,137,1978,
+Hjortholmvej 2 9541 Suldrup,2,770000.0,06-11-2002,Alm.,0,6,Villa,186,1969,
+Vikingevej 2 9541 Suldrup,2,540000.0,10-10-2002,Alm.,6750,3,Villa,80,1952,
+Trængstrupvej 28 9541 Suldrup,28,450000.0,04-10-2002,Alm.,3913,3,Villa,115,1959,
+Trængstrupvej 37 9541 Suldrup,37,850000.0,02-10-2002,Alm.,5862,4,Stuehus,145,1912,
+Jættestuevej 8 9541 Suldrup,8,660000.0,01-10-2002,Alm.,4583,5,Villa,144,1969,
+Hjedsbækvej 201 9541 Suldrup,201,410000.0,16-09-2002,Alm.,3059,6,Villa,134,1930,
+Sportsvænget 12 9541 Suldrup,12,99480.0,30-08-2002,Alm.,568,4,Villa,175,2004,
+Anlægsvej 16 9541 Suldrup,16,1059000.0,02-08-2002,Alm.,0,8,Stuehus,189,1925,
+Hjedsbækvej 185 9541 Suldrup,185,306793.0,29-07-2002,Alm.,3067,4,Villa,100,1877,
+Aarestrupvej 38 9541 Suldrup,38,795499.0,22-07-2002,Alm.,3788,7,Villa,210,1865,
+Stadionvej 37 9541 Suldrup,37,660000.0,10-07-2002,Alm.,0,4,Rækkehus,95,1986,
+Aarestrupvej 45 9541 Suldrup,45,1100000.0,07-07-2002,Alm.,0,6,Stuehus,268,1900,
+Sportsvænget 4 9541 Suldrup,4,1350000.0,05-07-2002,Alm.,0,7,Villa,192,2002,
+Aarestrupvej 41 9541 Suldrup,41,1095000.0,24-06-2002,Alm.,10138,4,Stuehus,108,1926,
+Bradstedvej 4 9541 Suldrup,4,225000.0,20-06-2002,Alm.,2227,4,Villa,101,1947,
+Præstemarken 7 9541 Suldrup,7,505000.0,10-06-2002,Alm.,3389,5,Villa,149,1983,
+Hjedsbækvej 418 9541 Suldrup,418,750000.0,06-06-2002,Alm.,3099,11,Stuehus,242,1905,
+Jættestuevej 18 9541 Suldrup,18,660000.0,03-06-2002,Alm.,0,3,Villa,110,1971,
+Veggerbyvej 20 9541 Suldrup,20,350000.0,01-05-2002,Alm.,4069,5,Villa,86,1947,
+Svanereden 11 9541 Suldrup,11,860000.0,28-04-2002,Alm.,0,3,Villa,131,1985,
+Hjedsbækvej 454 9541 Suldrup,454,243000.0,11-04-2002,Alm.,3197,3,Villa,76,1948,
+Trængstrupvej 66 9541 Suldrup,66,695000.0,27-03-2002,Alm.,4894,8,Villa,142,1936,
+Høgholtvej 15 9541 Suldrup,15,675818.0,19-03-2002,Alm.,4250,5,Stuehus,159,1987,
+Hjedsbækvej 382A 9541 Suldrup,0,475000.0,19-02-2002,Alm.,6597,3,Rækkehus,72,1983,
+Trængstrupvej 56 9541 Suldrup,56,4476165.0,18-01-2002,Alm.,27293,7,Stuehus,164,1906,
+Sportsvænget 6 9541 Suldrup,6,157000.0,28-11-2001,Alm.,813,6,Villa,193,2003,
+Hjedsbækvej 475 9541 Suldrup,475,1113000.0,14-11-2001,Alm.,4580,9,Stuehus,243,1939,
+Astrupvej 32 9541 Suldrup,32,945000.0,13-11-2001,Alm.,5494,9,Villa,172,1929,
+Byrstedvej 25 9541 Suldrup,25,315000.0,29-10-2001,Alm.,3088,3,Stuehus,102,1877,
+Stadionvej 27 9541 Suldrup,27,475000.0,23-10-2001,Alm.,6785,3,Rækkehus,70,1979,
+Ved Højene 13 9541 Suldrup,13,160000.0,15-10-2001,Alm.,1134,4,Villa,141,2003,
+Hjedsbækvej 403 9541 Suldrup,403,984198.0,05-10-2001,Alm.,0,7,Stuehus,238,1911,
+Veggerbyvej 40 9541 Suldrup,40,750000.0,28-09-2001,Alm.,2678,7,Stuehus,280,2004,
+Tøttrupvej 22 9541 Suldrup,22,3725000.0,27-09-2001,Alm.,18082,8,Stuehus,206,1910,
+Søvænget 9 9541 Suldrup,9,1100000.0,20-08-2001,Alm.,5641,8,Villa,195,1974,
+Åvej 17 9541 Suldrup,17,1225000.0,08-08-2001,Alm.,8277,5,Stuehus,148,1893,
+Hjedsbækvej 393 9541 Suldrup,393,425000.0,20-07-2001,Alm.,4941,3,Villa,86,1949,
+Dalumvej 19 9541 Suldrup,19,592000.0,11-07-2001,Alm.,6297,2,Villa,94,1959,
+Hyldalvej 15 9541 Suldrup,15,675000.0,31-05-2001,Alm.,2556,6,Stuehus,264,1885,
+Foldagervej 6 9541 Suldrup,6,818000.0,23-05-2001,Alm.,7303,4,Stuehus,112,1941,
+Gammelholmvej 3 9541 Suldrup,3,1050000.0,23-05-2001,Fam.,11538,4,Stuehus,91,1927,
+Anlægsvej 13 9541 Suldrup,13,690000.0,23-05-2001,Fam.,6272,3,Villa,110,1972,
+Birkevej 8B 9541 Suldrup,0,538000.0,20-05-2001,Alm.,6641,3,Rækkehus,81,1981,
+Rodstedvej 18 9541 Suldrup,18,785000.0,04-05-2001,Alm.,5647,3,Stuehus,139,1939,
+Hyldal Møllevej 4 9541 Suldrup,4,635000.0,29-04-2001,Alm.,3968,5,Villa,160,1909,
+Bustedvej 36 9541 Suldrup,36,524000.0,12-04-2001,Alm.,3380,5,Villa,155,1951,
+Rykkumvej 12 9541 Suldrup,12,395000.0,10-04-2001,Alm.,3761,3,Villa,105,1966,
+Bustedvej 35 9541 Suldrup,35,2021000.0,16-03-2001,Fam.,7773,10,Stuehus,260,1857,
+Trængstrupvej 24 9541 Suldrup,24,470000.0,13-03-2001,Alm.,1787,8,Stuehus,263,1888,
+Hjedsbækvej 360 9541 Suldrup,360,285000.0,28-02-2001,Alm.,3166,4,Villa,90,1940,
+Hjedsbækvej 371 9541 Suldrup,371,640000.0,23-02-2001,Alm.,6808,5,Villa,94,1945,
+Hjedsbækvej 142 9541 Suldrup,142,496000.0,02-02-2001,Fam.,2455,4,Stuehus,202,1912,
+Hjedsbækvej 302 9541 Suldrup,302,490000.0,21-12-2000,Alm.,4375,4,Villa,112,1942,
+Veggerbyvej 102 9541 Suldrup,102,320000.0,12-12-2000,Alm.,4444,5,Villa,72,1877,
+Vikingevej 6 9541 Suldrup,6,400000.0,01-12-2000,Alm.,6451,2,Villa,62,1959,
+Lille Østrupvej 10 9541 Suldrup,10,800000.0,22-11-2000,Alm.,0,8,Stuehus,383,1927,
+Byrstedvej 15 9541 Suldrup,15,850000.0,14-11-2000,Alm.,4670,8,Stuehus,182,1877,
+Aarestrupvej 17 9541 Suldrup,17,660000.0,16-10-2000,Alm.,6600,4,Villa,100,1947,
+Kirketerpvej 64 9541 Suldrup,64,450000.0,11-10-2000,Alm.,5844,3,Villa,77,1933,
+Søvænget 10 9541 Suldrup,10,947500.0,01-10-2000,Alm.,5848,6,Villa,162,1977,
+Mosevej 2 9541 Suldrup,2,612838.0,21-09-2000,Alm.,4942,6,Villa,124,1933,
+Søvænget 17 9541 Suldrup,17,960000.0,04-09-2000,Alm.,5783,6,Villa,166,1978,
+Vinstræde 14 9541 Suldrup,14,870000.0,26-08-2000,Alm.,0,8,Villa,226,1905,
+Jættestuevej 11 9541 Suldrup,11,935000.0,04-08-2000,Alm.,6233,5,Villa,150,1970,
+Hjedsbækvej 346 9541 Suldrup,346,528000.0,30-07-2000,Alm.,4292,4,Villa,123,1940,
+Aarestrupvej 25 9541 Suldrup,25,1325000.0,09-06-2000,Alm.,7614,3,Villa,174,1870,
+Søvænget 25 9541 Suldrup,25,925000.0,31-05-2000,Alm.,3714,6,Villa,249,1976,
+Frendstrupvej 11 9541 Suldrup,11,995000.0,26-04-2000,Alm.,5685,7,Stuehus,175,1925,
+Sønderupgårdvej 14 9541 Suldrup,14,460000.0,06-04-2000,Alm.,4144,4,Villa,111,1966,
+Veggerbyvej 46 9541 Suldrup,46,467050.0,28-03-2000,Fam.,0,6,Stuehus,267,1900,
+Rodstedvej 15 9541 Suldrup,15,1317500.0,15-03-2000,Fam.,6554,8,Stuehus,201,1877,
+Rodstedvej 13 9541 Suldrup,13,810000.0,15-03-2000,Alm.,3857,6,Stuehus,210,1900,
+Præstemarken 15 9541 Suldrup,15,645816.0,17-02-2000,Alm.,0,6,Villa,156,1978,
+Sportsvænget 18 9541 Suldrup,18,99360.0,14-02-2000,Alm.,807,4,Villa,123,2000,
+Hjedsbækvej 420 9541 Suldrup,420,850000.0,26-01-2000,Alm.,0,6,Villa,138,1922,
+Sportsvænget 8 9541 Suldrup,8,103800.0,25-01-2000,Alm.,696,5,Villa,149,2000,
+Højmarken 1 9541 Suldrup,1,777000.0,09-12-1999,Alm.,3827,7,Villa,203,1978,
+Hjedsbækvej 441 9541 Suldrup,441,675000.0,06-12-1999,Alm.,0,5,Stuehus,160,1938,
+Vikingevej 13 9541 Suldrup,13,1092000.0,22-11-1999,Alm.,6348,5,Villa,172,1973,
+Sportsvænget 7 9541 Suldrup,7,110000.0,01-11-1999,Alm.,743,5,Villa,148,2000,
+Sportsvænget 10 9541 Suldrup,10,99480.0,29-10-1999,Alm.,880,4,Villa,113,2000,
+Gammel Aalborgvej 3 9541 Suldrup,3,760000.0,28-10-1999,Alm.,3304,6,Stuehus,230,1915,
+Gammel Viborgvej 64 9541 Suldrup,64,1050000.0,21-10-1999,Alm.,4772,6,Stuehus,220,1938,
+Dyssevej 15 9541 Suldrup,15,870000.0,27-09-1999,Alm.,4350,4,Villa,200,1974,
+Hjedsbækvej 310 9541 Suldrup,310,790000.0,22-09-1999,Alm.,6320,5,Villa,125,1937,
+Sportsvænget 9 9541 Suldrup,9,110000.0,15-09-1999,Alm.,780,4,Villa,141,2000,
+Anlægsvej 17 9541 Suldrup,17,737000.0,15-09-1999,Alm.,5943,4,Villa,124,1972,
+Hjedsbækvej 358 9541 Suldrup,358,638502.0,04-09-1999,Alm.,5320,3,Villa,120,1939,
+Østermarkvej 18 9541 Suldrup,18,1366000.0,02-09-1999,Fam.,6663,4,Stuehus,205,1930,
+Hjedsbækvej 369 9541 Suldrup,369,1121305.0,26-08-1999,Alm.,5469,6,Anden beboelse,205,1972,
+Hjedsbækvej 401 9541 Suldrup,401,700000.0,22-08-1999,Alm.,4000,5,Villa,175,1933,
+Trængstrupvej 64 9541 Suldrup,64,553012.0,13-08-1999,Alm.,5027,4,Villa,110,1897,
+Østerkrat 17 9541 Suldrup,17,610000.0,10-08-1999,Alm.,0,4,Villa,197,1961,
+Høgholtvej 14 9541 Suldrup,14,1080187.0,14-07-1999,Alm.,0,8,Stuehus,241,1997,
+Hjedsbækvej 422 9541 Suldrup,422,275000.0,22-06-1999,Alm.,2696,4,Stuehus,102,1912,
+Gåsemosevej 7 9541 Suldrup,7,2675000.0,19-05-1999,Alm.,22291,5,Stuehus,120,1900,
+Hjedsbækvej 222 9541 Suldrup,222,836691.0,04-05-1999,Alm.,6914,4,Villa,121,1985,
+Torstedvej 15 9541 Suldrup,15,339013.0,03-05-1999,Alm.,2421,4,Villa,140,1873,
+Hjedsbækvej 505 9541 Suldrup,505,570000.0,29-04-1999,Alm.,3275,5,Stuehus,174,1984,
+Hjedsbækvej 395 9541 Suldrup,395,597000.0,15-04-1999,Alm.,6419,4,Villa,93,1948,
+Hjedsbækvej 304 9541 Suldrup,304,692146.0,02-04-1999,Alm.,5767,9,Villa,120,1944,
+Stensgade 7 9541 Suldrup,7,475000.0,29-03-1999,Alm.,4094,4,Villa,116,1960,
+Veggerbyvej 85 9541 Suldrup,85,1336890.0,22-03-1999,Alm.,6926,5,Stuehus,193,1900,
+Trængstrupvej 19 9541 Suldrup,19,275000.0,18-03-1999,Alm.,0,6,Villa,166,1912,
+Rodstedvej 1 9541 Suldrup,1,500000.0,02-03-1999,Alm.,6666,2,Villa,75,1963,
+Trængstrupvej 65 9541 Suldrup,65,207000.0,06-01-1999,Alm.,2225,4,Villa,93,1907,
+Sportsvænget 19 9541 Suldrup,19,1175000.0,23-12-1998,Alm.,8047,4,Villa,146,1998,
+Torstedvej 22 9541 Suldrup,22,175000.0,14-12-1998,Alm.,1143,4,Villa,153,1892,
+Bradstedvej 31 9541 Suldrup,31,955234.0,07-12-1998,Alm.,3980,10,Villa,240,1927,
+Sportsvænget 3 9541 Suldrup,3,110000.0,23-10-1998,Alm.,0,10,Villa,253,1999,
+Trængstrupvej 25 9541 Suldrup,25,284000.0,17-10-1998,Alm.,4057,3,Villa,70,1927,
+Hjedsbækvej 384B 9541 Suldrup,0,500000.0,08-09-1998,Alm.,6944,3,Rækkehus,72,1983,
+Svanereden 46 9541 Suldrup,46,707000.0,26-08-1998,Alm.,6201,3,Villa,114,1986,
+Ved Højene 22 9541 Suldrup,22,160000.0,20-08-1998,Alm.,874,5,Villa,183,1999,
+Hjedsbækvej 154 9541 Suldrup,154,694581.0,14-08-1998,Alm.,6257,2,Villa,111,1942,
+Hyldal Møllevej 25 9541 Suldrup,25,2497017.0,13-08-1998,Fam.,9422,10,Stuehus,265,1870,
+Hjedsbækvej 456 9541 Suldrup,456,326000.0,17-07-1998,Alm.,3196,3,Villa,102,1946,
+Hjedsbækvej 329 9541 Suldrup,329,562640.0,18-05-1998,Alm.,3750,5,Villa,150,1926,
+Birkevej 4 9541 Suldrup,4,310000.0,15-05-1998,Alm.,3195,5,Villa,97,1932,
+Torstedvej 24 9541 Suldrup,24,240000.0,05-05-1998,Alm.,2400,5,Villa,100,1877,
+Skrænten 9 9541 Suldrup,9,448000.0,28-04-1998,Alm.,5463,3,Rækkehus,82,1984,
+Trængstrupvej 32 9541 Suldrup,32,490000.0,21-04-1998,Alm.,0,7,Stuehus,167,1885,
+Søvænget 24 9541 Suldrup,24,974650.0,21-04-1998,Alm.,0,5,Villa,172,1975,
+Byrstedvej 29 9541 Suldrup,29,460712.0,31-03-1998,Alm.,2463,6,Stuehus,187,1877,
+Sportsvænget 15 9541 Suldrup,15,95000.0,23-03-1998,Alm.,0,3,Villa,135,1998,
+Sportsvænget 13 9541 Suldrup,13,95000.0,19-03-1998,Alm.,748,4,Villa,127,1998,
+Søsvinget 1 9541 Suldrup,1,273713.0,09-02-1998,Fam.,1537,6,Villa,178,1980,
+Byrstedvej 10 9541 Suldrup,10,157861.0,13-01-1998,Alm.,1409,4,Villa,112,1935,
+Stensgade 12 9541 Suldrup,12,380000.0,04-12-1997,Alm.,0,5,Villa,117,1962,
+Dyssevej 4 9541 Suldrup,4,544000.0,19-11-1997,Alm.,5132,4,Villa,106,1964,
+Søvænget 6 9541 Suldrup,6,850000.0,07-11-1997,Alm.,5448,6,Villa,156,1977,
+Hjedsvej 11 9541 Suldrup,11,880760.0,26-10-1997,Alm.,6622,5,Stuehus,133,1907,
+Torstedvej 71 9541 Suldrup,71,151000.0,22-10-1997,Alm.,2516,2,Villa,60,1966,
+Søvænget 14 9541 Suldrup,14,710000.0,17-10-1997,Alm.,4965,4,Villa,143,1978,
+Aarestrupvej 3 9541 Suldrup,3,390000.0,16-10-1997,Alm.,2977,4,Villa,131,1928,
+Dyssevej 14 9541 Suldrup,14,570000.0,16-10-1997,Alm.,4913,4,Villa,116,1968,
+Hjedsbækvej 342 9541 Suldrup,342,803000.0,06-10-1997,Alm.,5147,5,Villa,156,1929,
+Præstemarken 5 9541 Suldrup,5,638400.0,25-09-1997,Alm.,4987,4,Villa,128,1978,
+Hjedsbækvej 383 9541 Suldrup,383,467637.0,18-09-1997,Alm.,3247,5,Villa,144,1900,
+Bradstedvej 23 9541 Suldrup,23,990380.0,01-08-1997,Alm.,11127,3,Stuehus,89,1936,
+Søvænget 12 9541 Suldrup,12,649000.0,21-07-1997,Alm.,5453,4,Villa,119,1982,
+Hjedsbækvej 284 9541 Suldrup,284,620000.0,20-07-1997,Alm.,3803,4,Villa,163,1949,
+Trængstrupvej 46 9541 Suldrup,46,2300000.0,23-05-1997,Alm.,12105,4,Stuehus,190,1904,
+Præstemarken 11 9541 Suldrup,11,635000.0,07-05-1997,Alm.,0,5,Villa,198,1978,
+Hjedsbækvej 136 9541 Suldrup,136,325000.0,06-05-1997,Alm.,1701,9,Stuehus,191,1920,
+Gammel Viborgvej 86 9541 Suldrup,86,895100.0,05-05-1997,Alm.,5204,5,Villa,172,1912,
+Jættestuevej 7 9541 Suldrup,7,554000.0,02-05-1997,Alm.,5082,3,Villa,109,1973,
+Hjedsbækvej 450 9541 Suldrup,450,274568.0,02-05-1997,Alm.,4358,2,Villa,63,1940,
+Høgholtvej 11 9541 Suldrup,11,906000.0,29-04-1997,Alm.,4194,8,Stuehus,216,1870,
+Trængstrupvej 8 9541 Suldrup,8,307000.0,23-04-1997,Alm.,2325,6,Villa,132,1900,
+Svanereden 2 9541 Suldrup,2,1000000.0,04-04-1997,Alm.,6329,4,Villa,158,1985,
+Trængstrupvej 13 9541 Suldrup,13,286000.0,11-03-1997,Alm.,2306,3,Villa,124,1929,
+Astrupvej 33 9541 Suldrup,33,746510.0,10-03-1997,Alm.,0,9,Stuehus,260,1897,
+Hjedsbækvej 174 9541 Suldrup,174,503680.0,07-03-1997,Alm.,4197,4,Villa,120,1971,
+Trængstrupvej 16 9541 Suldrup,16,513000.0,18-02-1997,Alm.,1858,8,Villa,276,1926,
+Svanereden 44 9541 Suldrup,44,790420.0,14-02-1997,Alm.,5304,4,Villa,149,1984,
+Trængstrupvej 69 9541 Suldrup,69,238189.0,31-01-1997,Andet,0,4,Villa,118,1875,
+Hjedsbækvej 377 9541 Suldrup,377,173000.0,18-12-1996,Alm.,1094,4,Villa,158,1903,
+Dalumvej 35 9541 Suldrup,35,370000.0,26-11-1996,Alm.,1745,7,Stuehus,212,1998,
+Torstedvej 90 9541 Suldrup,90,148750.0,13-11-1996,Alm.,578,6,Stuehus,257,1927,
+Stensgade 24 9541 Suldrup,24,320000.0,24-10-1996,Alm.,2666,3,Villa,120,1961,
+Hjedsbækvej 175 9541 Suldrup,175,731355.0,15-10-1996,Alm.,3620,7,Villa,202,1900,
+Hjedsbækvej 392 9541 Suldrup,392,365000.0,14-10-1996,Alm.,2016,7,Villa,181,2000,
+Anlægsvej 5 9541 Suldrup,5,340000.0,11-10-1996,Alm.,3333,4,Villa,102,1964,
+Kirketerpvej 52 9541 Suldrup,52,443900.0,04-10-1996,Alm.,4110,4,Villa,108,1976,
+Hjedsbækvej 255 9541 Suldrup,255,110000.0,04-10-1996,Alm.,763,7,Stuehus,144,1930,
+Trængstrupvej 81 9541 Suldrup,81,1275000.0,12-09-1996,Alm.,7968,5,Stuehus,160,1938,
+Hjedsbækvej 376 9541 Suldrup,376,264000.0,10-08-1996,Alm.,0,3,Villa,124,1931,
+Hjedsbækvej 500 9541 Suldrup,500,975000.0,17-07-1996,Alm.,3869,5,Villa,252,1960,
+Sportsvænget 22 9541 Suldrup,22,106400.0,11-07-1996,Alm.,754,4,Villa,141,1996,
+Aarestrupvej 13 9541 Suldrup,13,325000.0,22-05-1996,Alm.,2600,3,Villa,125,1947,
+Tøttrupvej 31 9541 Suldrup,31,895000.0,17-05-1996,Alm.,3509,9,Villa,255,1920,
+Trængstrupvej 6 9541 Suldrup,6,213000.0,18-04-1996,Fam.,2009,5,Villa,106,1914,
+Hjedsbækvej 168 9541 Suldrup,168,550000.0,29-03-1996,Alm.,4583,5,Villa,120,1982,
+Gammelholmvej 31 9541 Suldrup,31,4800000.0,15-03-1996,Fam.,0,7,Stuehus,160,1924,
+Gåsemosevej 10 9541 Suldrup,10,685000.0,15-02-1996,Alm.,4151,4,Stuehus,165,1988,
+Hjedsbækvej 314 9541 Suldrup,314,790000.0,12-02-1996,Alm.,5000,4,Villa,158,1930,
+Veggerbyvej 22 9541 Suldrup,22,253000.0,12-02-1996,Alm.,1860,5,Villa,136,1946,
+Veggerbyvej 58 9541 Suldrup,58,1050000.0,05-02-1996,Alm.,0,4,Stuehus,179,1890,
+Høgholtvej 22 9541 Suldrup,22,1033000.0,29-01-1996,Fam.,6222,6,Stuehus,166,1930,
+Kirketerpvej 77 9541 Suldrup,77,90000.0,25-01-1996,Alm.,545,3,Villa,165,1888,
+Dyssevej 11 9541 Suldrup,11,435000.0,22-01-1996,Alm.,4627,3,Villa,94,1968,
+Anlægsvej 25 9541 Suldrup,25,605000.0,07-01-1996,Alm.,3666,7,Villa,165,1972,
+Anlægsvej 31 9541 Suldrup,31,639020.0,07-01-1996,Alm.,4260,5,Villa,150,1972,
+Trængstrupvej 70 9541 Suldrup,70,2232250.0,11-12-1995,Fam.,0,5,Stuehus,180,1927,
+Ved Højene 1 9541 Suldrup,1,910000.0,29-10-1995,Alm.,0,4,Villa,161,1986,
+Præstemarken 1 9541 Suldrup,1,305000.0,03-10-1995,Andet,0,6,Villa,153,1930,
+Skelhøjsvej 6 9541 Suldrup,6,847720.0,21-09-1995,Alm.,4709,7,Anden beboelse,180,1976,
+Rodstedvej 27 9541 Suldrup,27,170000.0,18-09-1995,Fam.,1328,6,Villa,128,1926,
+Gammelholmvej 4 9541 Suldrup,4,731000.0,15-08-1995,Alm.,0,8,Villa,287,1915,
+Mosevej 6 9541 Suldrup,6,750000.0,09-08-1995,Alm.,5136,6,Villa,146,1926,
+Mosbækvej 57 9541 Suldrup,57,850000.0,05-07-1995,Alm.,8018,5,Stuehus,106,1900,
+Byrstedvej 28 9541 Suldrup,28,345000.0,23-06-1995,Alm.,4011,3,Villa,86,1967,
+Skolevej 5 9541 Suldrup,5,549000.0,09-06-1995,Alm.,0,5,Stuehus,118,1927,
+Dyssevej 28 9541 Suldrup,28,425000.0,02-06-1995,Fam.,3455,4,Villa,123,1972,
+Søvænget 21 9541 Suldrup,21,605000.0,31-05-1995,Alm.,5307,6,Villa,114,1975,
+Astrupvej 23 9541 Suldrup,23,290000.0,18-05-1995,Alm.,2265,4,Villa,128,1954,
+Astrupvej 25 9541 Suldrup,25,3810000.0,18-05-1995,Alm.,18142,6,Stuehus,210,1908,
+Kirketerpvej 72 9541 Suldrup,72,210000.0,16-05-1995,Alm.,0,5,Villa,121,1939,
+Svanereden 42 9541 Suldrup,42,780000.0,11-05-1995,Alm.,0,6,Villa,168,1983,
+Trængstrupvej 75 9541 Suldrup,75,313000.0,08-05-1995,Alm.,0,6,Villa,242,1932,
+Hjedsbækvej 148 9541 Suldrup,148,450500.0,11-04-1995,Andet,4596,3,Stuehus,98,1912,
+Veggerbyvej 30 9541 Suldrup,30,230250.0,21-03-1995,Alm.,1744,4,Villa,132,1925,
+Stadionvej 19 9541 Suldrup,19,350000.0,14-03-1995,Alm.,4794,3,Rækkehus,73,1979,
+Anlægsvej 10 9541 Suldrup,10,80000.0,23-02-1995,Alm.,0,5,Fritid,0,1962,
+Østerkrat 13 9541 Suldrup,13,400000.0,18-01-1995,Alm.,1538,5,Stuehus,260,1877,
+Hjedsbækvej 253 9541 Suldrup,253,577600.0,10-12-1994,Alm.,4067,5,Anden beboelse,142,1959,
+Bratbjergvej 9 9541 Suldrup,9,2239046.0,09-12-1994,Alm.,14352,6,Stuehus,156,1927,
+Byrstedvej 1 9541 Suldrup,1,485000.0,28-10-1994,Alm.,3540,5,Villa,137,1935,
+Kirketerpvej 71 9541 Suldrup,71,264000.0,14-10-1994,Alm.,0,11,Villa,385,1940,
+Hjedsbækvej 316 9541 Suldrup,316,540000.0,10-10-1994,Alm.,0,5,Villa,140,1926,
+Veggerbyvej 32 9541 Suldrup,32,320000.0,01-10-1994,Alm.,2882,4,Villa,111,1938,
+Hjedsbækvej 267 9541 Suldrup,267,380000.0,29-09-1994,Alm.,3619,4,Rækkehus,105,1948,
+Bustedvej 16 9541 Suldrup,16,3375000.0,26-09-1994,Fam.,10782,7,Stuehus,313,2010,
+Torstedvej 43 9541 Suldrup,43,437750.0,19-08-1994,Alm.,6632,3,Villa,66,1900,
+Stadionvej 31 9541 Suldrup,31,472000.0,09-08-1994,Alm.,5686,3,Rækkehus,83,1988,
+Foldagervej 10 9541 Suldrup,10,920000.0,05-08-1994,Alm.,5168,7,Stuehus,178,1900,
+Præstemarken 12 9541 Suldrup,12,755500.0,05-08-1994,Alm.,5003,4,Villa,151,1980,
+Hjedsbækvej 311 9541 Suldrup,311,415000.0,03-08-1994,Alm.,3458,3,Villa,120,1926,
+Kirketerpvej 57 9541 Suldrup,57,98000.0,29-07-1994,Alm.,1380,3,Villa,71,1850,
+Hjedsvej 3 9541 Suldrup,3,762000.0,20-06-1994,Alm.,5602,3,Stuehus,136,1907,
+Trængstrupvej 82 9541 Suldrup,82,1280000.0,08-06-1994,Fam.,7111,6,Stuehus,180,1900,
+Sønderupgårdvej 8 9541 Suldrup,8,250000.0,30-05-1994,Alm.,1908,4,Villa,131,1967,
+Hyldalvej 19 9541 Suldrup,19,920000.0,13-04-1994,Alm.,5679,5,Stuehus,162,1917,
+Gammel Viborgvej 56 9541 Suldrup,56,769000.0,29-03-1994,Alm.,4961,6,Stuehus,155,1939,
+Veggerbyvej 36 9541 Suldrup,36,320000.0,16-03-1994,Fam.,4000,3,Villa,80,1957,
+Søvænget 7 9541 Suldrup,7,640000.0,14-03-1994,Alm.,4604,5,Villa,139,1977,
+Skolevej 6 9541 Suldrup,6,650000.0,10-03-1994,Alm.,6914,4,Stuehus,94,1939,
+Dyssevej 26 9541 Suldrup,26,560000.0,10-03-1994,Alm.,4117,4,Villa,136,1973,
+Hjedsbækvej 391 9541 Suldrup,391,420000.0,09-03-1994,Alm.,3684,4,Villa,114,1956,
+Torstedvej 85 9541 Suldrup,85,921000.0,25-02-1994,Alm.,6395,6,Stuehus,144,1948,
+Sportsvænget 26 9541 Suldrup,26,596345.0,21-02-1994,Alm.,3774,5,Villa,158,1986,
+Hjedsbækvej 236 9541 Suldrup,236,470000.0,12-02-1994,Alm.,2338,8,Villa,201,1954,
+Stadionvej 29 9541 Suldrup,29,475000.0,27-01-1994,Fam.,5722,3,Rækkehus,83,1988,
+Veggerbyvej 10 9541 Suldrup,10,246500.0,10-01-1994,Fam.,1925,4,Villa,128,1938,
+Søvænget 8 9541 Suldrup,8,669000.0,09-01-1994,Alm.,4955,4,Villa,135,1976,
+Aarestrupvej 30 9541 Suldrup,30,835000.0,24-11-1993,Alm.,0,7,Stuehus,244,1920,
+Østerkrat 15 9541 Suldrup,15,800000.0,29-10-1993,Fam.,0,5,Villa,256,1925,
+Albækvej 14 9541 Suldrup,14,920000.0,25-10-1993,Fam.,5508,5,Stuehus,167,1942,
+Nygårdsvej 3 9541 Suldrup,3,750000.0,18-10-1993,Alm.,2559,12,Stuehus,293,1860,
+Kavshøjvej 6 9541 Suldrup,6,2834000.0,06-09-1993,Fam.,12708,5,Stuehus,223,1852,
+Gammel Viborgvej 59 9541 Suldrup,59,360000.0,27-08-1993,Alm.,4090,3,Stuehus,88,1933,
+Rodstedvej 22 9541 Suldrup,22,1075000.0,09-08-1993,Alm.,0,4,Stuehus,184,1830,
+Bustedvej 12 9541 Suldrup,12,420000.0,24-06-1993,Alm.,1772,7,Stuehus,237,1926,
+Stadionvej 15 9541 Suldrup,15,350000.0,22-06-1993,Alm.,4794,3,Rækkehus,73,1979,
+Søsvinget 3 9541 Suldrup,3,400000.0,20-03-1993,Alm.,0,4,Villa,124,1978,
+Hjedsbækvej 385 9541 Suldrup,385,271840.0,19-02-1993,Alm.,0,7,Villa,158,1952,
+Hjedsbækvej 363B 9541 Suldrup,0,300000.0,14-02-1993,Alm.,2500,4,Villa,120,1965,
+Kirketerpvej 54 9541 Suldrup,54,320000.0,28-01-1993,Alm.,2622,4,Stuehus,122,1912,
+Veggerbyvej 42 9541 Suldrup,42,360000.0,16-12-1992,Alm.,1978,6,Villa,182,1940,
+Hjedsbækvej 305 9541 Suldrup,305,380000.0,05-12-1992,Alm.,3040,4,Villa,125,1927,
+Gammelholmvej 16 9541 Suldrup,16,1050000.0,24-11-1992,Fam.,7394,5,Stuehus,142,1961,
+Hyldal Møllevej 6 9541 Suldrup,6,187275.0,12-11-1992,Alm.,1347,4,Villa,139,2005,
+Jættestuevej 13 9541 Suldrup,13,240000.0,06-11-1992,Fam.,1558,5,Villa,154,1972,
+Svanereden 9 9541 Suldrup,9,626917.0,02-11-1992,Fam.,0,7,Villa,173,1987,
+Hjedsbækvej 176 9541 Suldrup,176,560000.0,08-10-1992,Alm.,2352,6,Villa,238,1932,
+Gammel Smedevej 1 9541 Suldrup,1,260000.0,16-09-1992,Alm.,0,6,Villa,149,1952,
+Vinstræde 8 9541 Suldrup,8,325000.0,10-09-1992,Alm.,1911,6,Villa,170,1910,
+Rolighedsvej 2 9541 Suldrup,2,197300.0,26-08-1992,Alm.,2466,3,Villa,80,1954,
+Hjedsbækvej 184 9541 Suldrup,184,245000.0,24-08-1992,Alm.,1633,4,Villa,150,1900,
+Byrstedvej 21 9541 Suldrup,21,100000.0,04-07-1992,Alm.,757,5,Villa,132,1929,
+Foldagervej 23 9541 Suldrup,23,560000.0,08-06-1992,Alm.,4148,3,Stuehus,135,1927,
+Bustedvej 30 9541 Suldrup,30,155000.0,19-05-1992,Fam.,2384,2,Villa,65,1958,
+Søvænget 5 9541 Suldrup,5,476370.0,28-04-1992,Alm.,3034,5,Villa,157,1976,
+Aarestrupvej 29 9541 Suldrup,29,2835000.0,27-03-1992,Fam.,12434,8,Stuehus,228,1972,
+Dalumvej 38 9541 Suldrup,38,507750.0,22-03-1992,Alm.,3254,6,Villa,156,1950,

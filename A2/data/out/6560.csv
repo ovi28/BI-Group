@@ -1,0 +1,573 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Studiestræde 6 6560 Sommersted,6,275000.0,04-05-2017,Andet,3089,4,Villa,89,1911,
+Kastvråvej 14 6560 Sommersted,14,125000.0,18-04-2017,Alm.,657,5,Villa,190,1850,
+Damager 3 6560 Sommersted,3,1225000.0,10-04-2017,Alm.,6843,5,Villa,179,1984,-9 %
+Sølvgade 9 6560 Sommersted,9,495000.0,21-03-2017,Alm.,3561,4,Villa,139,1958,0 %
+Storegade 25A 6560 Sommersted,0,1700000.0,06-02-2017,Alm.,16190,4,Villa,105,1963,
+Ingeniørvej 6 6560 Sommersted,6,555000.0,01-02-2017,Andet,5336,8,BygningTilLager,104,1969,
+Mosebjergvej 2 6560 Sommersted,2,585000.0,27-01-2017,Alm.,5086,4,Villa,115,1978,-9 %
+Bakkevej 9 6560 Sommersted,9,585000.0,13-01-2017,Alm.,4642,3,Villa,126,1975,-16 %
+Sommerstedvej 9 6560 Sommersted,9,660000.0,12-01-2017,Alm.,5409,3,Villa,122,1950,-5 %
+Prinsensvej 1 6560 Sommersted,1,2440000.0,31-12-2016,Alm.,9878,7,Stuehus,247,1992,
+Damager 15 6560 Sommersted,15,547000.0,22-12-2016,Alm.,3772,5,Villa,145,1827,-6 %
+Slotsvej 3 6560 Sommersted,3,1450000.0,22-12-2016,Alm.,7004,6,Villa,207,1926,
+Sølvgade 19 6560 Sommersted,19,1290000.0,21-12-2016,Alm.,8012,5,Villa,161,1926,-8 %
+Tovskovvej 75 6560 Sommersted,75,400000.0,20-12-2016,Alm.,2649,6,Villa,151,1880,
+Damvej 4 6560 Sommersted,4,140000.0,15-12-2016,Auktion,804,7,Villa,174,1910,
+Mejerivej 7 6560 Sommersted,7,9325000.0,14-12-2016,Alm.,35321,8,Stuehus,264,1875,
+Lertevej 14 6560 Sommersted,14,240000.0,13-12-2016,Alm.,3692,4,Villa,65,1952,-4 %
+Slotsvej 1 6560 Sommersted,1,255000.0,25-11-2016,Fam.,2550,3,Villa,100,1907,
+Storegade 111 6560 Sommersted,111,700000.0,21-10-2016,Alm.,5000,6,Stuehus,140,1890,-10 %
+Studiestræde 1 6560 Sommersted,1,1000000.0,19-10-2016,Fam.,3144,9,Villa,318,1900,
+Damvej 11 6560 Sommersted,11,630000.0,04-10-2016,Alm.,6057,4,Villa,104,1962,-5 %
+Storegade 100 6560 Sommersted,100,85000.0,30-09-2016,Alm.,867,3,Villa,98,1953,
+Kastvråvej 1 6560 Sommersted,1,1250000.0,15-09-2016,Alm.,6410,7,Villa,195,1924,-10 %
+Damager 35 6560 Sommersted,35,370000.0,24-08-2016,Alm.,4111,4,Villa,90,1948,-17 %
+Tovskovvej 21 6560 Sommersted,21,995000.0,21-08-2016,Alm.,4481,7,Villa,222,1877,0 %
+Åbjergvej 10 6560 Sommersted,10,344900.0,01-08-2016,Auktion,2694,5,Villa,128,1976,
+Hyldevænget 33C 6560 Sommersted,0,1050000.0,19-07-2016,Alm.,8750,5,Villa,120,2008,-3 %
+Mølbyvej 7 6560 Sommersted,7,1850000.0,18-07-2016,Alm.,8685,7,Stuehus,213,1926,-2 %
+Mosebjergvej 6 6560 Sommersted,6,988000.0,07-07-2016,Alm.,5916,5,Villa,167,1977,-4 %
+Revsø Mark Vej 1 6560 Sommersted,1,1175000.0,28-06-2016,Alm.,10129,3,Stuehus,116,1830,31 %
+Bakkevej 20 6560 Sommersted,20,400000.0,08-06-2016,Alm.,2739,6,Villa,146,1970,-19 %
+Engtoften 9 6560 Sommersted,9,770000.0,25-05-2016,Alm.,5000,5,Villa,154,1974,-3 %
+Tovskovvej 35 6560 Sommersted,35,200000.0,12-05-2016,Alm.,716,8,Villa,279,1902,-32 %
+Ørstedvej 35 6560 Sommersted,35,1949000.0,09-05-2016,Alm.,7218,8,Stuehus,270,1866,-32 %
+Tingbjergvej 2 6560 Sommersted,2,920000.0,04-05-2016,Alm.,5197,7,Villa,177,1834,3 %
+Sønderløkke 1 6560 Sommersted,1,177065.0,21-04-2016,Auktion,1264,5,Villa,140,1880,-55 %
+Rolighedsvej 21 6560 Sommersted,21,176200.0,04-04-2016,Alm.,1694,4,Villa,104,1963,
+Storegade 174 6560 Sommersted,174,940000.0,27-03-2016,Alm.,5562,7,Villa,169,1932,-5 %
+Rolighedsvej 15 6560 Sommersted,15,630000.0,22-03-2016,Alm.,4012,4,Villa,157,1966,-9 %
+Vadstedvej 2 6560 Sommersted,2,100000.0,22-02-2016,Auktion,952,3,Villa,105,1900,
+Akmajvej 14 6560 Sommersted,14,675000.0,16-02-2016,Alm.,4411,4,Villa,153,1973,-13 %
+Ørstedvej 30 6560 Sommersted,30,200000.0,05-02-2016,Alm.,1666,3,Villa,120,1937,-27 %
+Bakkevej 10 6560 Sommersted,10,475000.0,29-01-2016,Alm.,5163,3,Villa,92,1966,-4 %
+Åbjergvej 16 6560 Sommersted,16,470000.0,22-12-2015,Alm.,3405,5,Villa,138,1973,-10 %
+Storegade 42 6560 Sommersted,42,12400000.0,22-12-2015,Andet,47692,8,Stuehus,260,1921,
+Ørstedvej 14 6560 Sommersted,14,1402500.0,11-12-2015,Fam.,8765,7,Stuehus,160,1870,
+Sommerstedvej 16 6560 Sommersted,16,200000.0,14-11-2015,Alm.,704,8,Stuehus,284,1847,
+Storegade 114 6560 Sommersted,114,610000.0,11-11-2015,Alm.,3279,10,Villa,186,1917,
+Engvej 10 6560 Sommersted,10,428500.0,04-10-2015,Andet,3483,4,Villa,123,1967,
+Lertevej 7 6560 Sommersted,7,23035000.0,23-09-2015,Fam.,104704,5,Stuehus,220,1898,
+Storegade 137 6560 Sommersted,137,835000.0,07-09-2015,Alm.,5964,5,Villa,140,1963,-7 %
+Kastvråvej 10 6560 Sommersted,10,1043510.0,31-08-2015,Alm.,5115,6,Stuehus,204,1907,
+Kastvråvej 8 6560 Sommersted,8,1043510.0,31-08-2015,Alm.,4312,9,Villa,242,1900,55 %
+Lertevej 12 6560 Sommersted,12,740500.0,10-08-2015,Alm.,4091,5,Stuehus,181,1977,
+Kastvråvej 15 6560 Sommersted,15,2100000.0,29-07-2015,Alm.,6862,7,Stuehus,306,1850,-8 %
+Storegade 102 6560 Sommersted,102,800000.0,27-07-2015,Fam.,6779,6,Villa,118,1940,
+Flødebøttevej 7 6560 Sommersted,7,2067000.0,24-07-2015,Fam.,9481,7,Stuehus,218,1904,
+Mejerivej 3 6560 Sommersted,3,94345.0,09-07-2015,Auktion,714,4,Villa,132,1900,
+Vadstedvej 9 6560 Sommersted,9,240000.0,09-07-2015,Alm.,2242,3,Stuehus,107,1877,-19 %
+Engvej 11 6560 Sommersted,11,1050000.0,09-07-2015,Alm.,5526,5,Villa,190,1973,
+Sønderbyvej 4 6560 Sommersted,4,2070000.0,20-06-2015,Alm.,9904,5,Stuehus,209,1800,-5 %
+Storegade 70 6560 Sommersted,70,575000.0,02-06-2015,Alm.,3362,6,Villa,171,1944,
+Storegade 98 6560 Sommersted,98,350000.0,01-06-2015,Auktion,3043,4,Villa,115,1946,-33 %
+Genvej 2 6560 Sommersted,2,230000.0,29-05-2015,Alm.,2395,4,Villa,96,1960,
+Kærgårdvej 5 6560 Sommersted,5,1441290.0,22-03-2015,Alm.,6185,6,Villa,233,1935,-4 %
+Tovskovvej 49 6560 Sommersted,49,517500.0,05-03-2015,Alm.,5227,3,Villa,99,1800,-10 %
+Højrup Overskovvej 97 6560 Sommersted,97,695000.0,04-02-2015,Alm.,4964,5,Villa,140,1907,-10 %
+Akmajvej 11 6560 Sommersted,11,292500.0,15-01-2015,Alm.,2500,4,Villa,117,1968,
+Hyldevænget 2 6560 Sommersted,2,795000.0,12-01-2015,Auktion,5845,5,Villa,136,1986,
+Mosevænget 13 6560 Sommersted,13,477500.0,29-12-2014,Alm.,4421,3,Villa,108,1957,-4 %
+Revsøgårdvej 8 6560 Sommersted,8,3150000.0,18-12-2014,Alm.,6847,15,Stuehus,460,1778,
+Revsøgårdvej 13 6560 Sommersted,13,1147500.0,18-12-2014,Alm.,5032,5,Stuehus,228,1934,
+Tovskovvej 74 6560 Sommersted,74,170000.0,11-12-2014,Alm.,1049,8,Villa,162,1890,-31 %
+Åmosevej 7 6560 Sommersted,7,600000.0,30-11-2014,Alm.,3389,7,Villa,177,1977,-14 %
+Genvej 8 6560 Sommersted,8,291074.0,17-11-2014,Alm.,2772,3,Villa,105,1879,
+Storegade 84 6560 Sommersted,84,200000.0,06-11-2014,Alm.,3076,3,Villa,65,1955,0 %
+Vodskovvej 3 6560 Sommersted,3,1750000.0,04-11-2014,Alm.,13565,4,Stuehus,129,1933,
+Storegade 89 6560 Sommersted,89,185000.0,21-10-2014,Alm.,1813,2,Villa,102,1950,
+Ørstedvej 20 6560 Sommersted,20,2531716.0,15-10-2014,Andet,13324,6,Stuehus,190,2006,
+Stenskærvej 22 6560 Sommersted,22,900000.0,13-10-2014,Alm.,5056,5,Villa,178,1953,-10 %
+Skotvej 1 6560 Sommersted,1,319560.0,12-09-2014,Alm.,1253,6,Stuehus,255,1844,
+Revsø Mark Vej 6 6560 Sommersted,6,1300000.0,14-08-2014,Alm.,7647,9,Stuehus,170,1915,2 %
+Ørstedvej 26 6560 Sommersted,26,400000.0,18-07-2014,Alm.,3100,6,Stuehus,129,1950,
+Studiestræde 4 6560 Sommersted,4,386500.0,16-06-2014,Andet,1475,5,Villa,262,1902,
+Akmajvej 3 6560 Sommersted,3,410000.0,03-06-2014,Andet,2578,4,Villa,159,1973,
+Tågerupvej 1 6560 Sommersted,1,1200000.0,07-04-2014,Alm.,13483,4,Stuehus,89,1933,
+Højrupvej 2 6560 Sommersted,2,210000.0,17-03-2014,Alm.,909,6,Stuehus,231,1860,
+Storegade 131 6560 Sommersted,131,1000000.0,10-02-2014,Alm.,6666,7,BygningTilLager,150,1923,
+Industrivej 8 6560 Sommersted,8,2400000.0,10-02-2014,Alm.,11428,5,Villa,210,1969,
+Ørstedvej 24 6560 Sommersted,24,2070000.0,28-01-2014,Alm.,11189,5,Stuehus,185,1951,-8 %
+Vodskovvej 5 6560 Sommersted,5,500000.0,13-01-2014,Alm.,5000,4,Villa,100,1900,
+Vadstedvej 19 6560 Sommersted,19,950000.0,20-12-2013,Alm.,6934,4,Villa,137,1963,-12 %
+Ingeniørvej 4 6560 Sommersted,4,1000000.0,18-12-2013,Fam.,3846,6,Villa,260,1968,
+Sølvgade 2 6560 Sommersted,2,570000.0,11-12-2013,Alm.,3851,4,Villa,148,1910,-4 %
+Syvagervej 5 6560 Sommersted,5,800000.0,29-11-2013,Alm.,10000,4,Stuehus,80,1932,
+Mosevænget 17 6560 Sommersted,17,100000.0,26-11-2013,Alm.,1538,3,Villa,65,1959,
+Ørstedvej 3 6560 Sommersted,3,17281000.0,05-11-2013,Alm.,115206,7,Stuehus,150,1877,
+Storegade 94 6560 Sommersted,94,650000.0,01-11-2013,Alm.,5963,4,Villa,109,1949,-7 %
+Ørstedvej 11 6560 Sommersted,11,275000.0,07-10-2013,Alm.,1250,7,Villa,220,1904,-7 %
+Farrisvej 3 6560 Sommersted,3,2290000.0,02-10-2013,Alm.,16357,9,Stuehus,140,1868,
+Fuglsangs Alle 1 6560 Sommersted,1,700000.0,22-09-2013,Alm.,7291,4,Villa,96,1903,
+Bakkevej 16 6560 Sommersted,16,600000.0,06-09-2013,Alm.,5555,4,Villa,108,1966,-7 %
+"Tovskovvej 33, 1 6560 Sommersted",1,2500000.0,30-08-2013,Alm.,31250,2,Lejlighed,80,1742,
+Kærvej 10 6560 Sommersted,10,1075000.0,16-08-2013,Alm.,8398,3,Villa,128,1969,-2 %
+Storegade 60 6560 Sommersted,60,500000.0,06-08-2013,Alm.,4237,5,Villa,118,1963,-13 %
+Ørstedvej 31 6560 Sommersted,31,1840000.0,02-08-2013,Alm.,0,8,Stuehus,260,1935,-16 %
+Sønderbyvej 1 6560 Sommersted,1,3520000.0,04-07-2013,Alm.,25142,6,Stuehus,140,1800,
+Flødebøttevej 5 6560 Sommersted,5,325000.0,04-07-2013,Alm.,1641,5,Villa,198,1877,-18 %
+Juhls Vej 2 6560 Sommersted,2,350000.0,01-07-2013,Alm.,1851,5,Stuehus,189,1870,-39 %
+Vodskovvej 8 6560 Sommersted,8,50000.0,27-06-2013,Fam.,1020,4,Villa,49,1958,
+Vestermarksvej 3 6560 Sommersted,3,700000.0,11-06-2013,Alm.,3626,5,Stuehus,193,1960,
+Storegade 110 6560 Sommersted,110,600000.0,04-06-2013,Alm.,3108,8,Villa,193,1919,-33 %
+Tovskovvej 55 6560 Sommersted,55,95991.0,13-05-2013,Auktion,644,5,Villa,149,1867,
+Damvej 9 6560 Sommersted,9,570000.0,17-04-2013,Alm.,4871,3,Villa,117,1964,-5 %
+Storegade 63 6560 Sommersted,63,325000.0,10-04-2013,Alm.,2708,3,Villa,120,1942,-4 %
+Storegade 194 6560 Sommersted,194,233000.0,04-04-2013,Auktion,1849,4,Villa,126,1964,
+Storegade 188 6560 Sommersted,188,550000.0,12-03-2013,Alm.,10185,2,Villa,54,1953,-12 %
+Åvej 7A 6560 Sommersted,0,310000.0,04-03-2013,Auktion,2348,4,Villa,132,1971,
+Akmajvej 2 6560 Sommersted,2,408000.0,04-03-2013,Auktion,3138,4,Villa,130,1965,-46 %
+Sønderløkke 2 6560 Sommersted,2,825000.0,18-02-2013,Alm.,4388,5,Villa,188,1919,-8 %
+Grønnevang 19 6560 Sommersted,19,120000.0,28-01-2013,Alm.,571,7,Villa,210,1890,0 %
+Storegade 106 6560 Sommersted,106,177000.0,10-01-2013,Auktion,1041,7,Villa,170,1938,
+Mosebjergvej 22 6560 Sommersted,22,940000.0,17-12-2012,Alm.,5402,5,Villa,174,1977,
+Kastvråvej 12 6560 Sommersted,12,142500.0,07-12-2012,Alm.,1425,6,Villa,100,1931,
+Sølvgade 6 6560 Sommersted,6,5000000.0,31-10-2012,Alm.,30864,6,Stuehus,162,1909,
+Ørstedvej 9 6560 Sommersted,9,669542.0,03-10-2012,Alm.,4748,3,Stuehus,141,1927,
+Oksevejen 9 6560 Sommersted,9,1095000.0,28-09-2012,Alm.,6556,6,Villa,167,1931,0 %
+Storegade 80 6560 Sommersted,80,500000.0,24-09-2012,Alm.,4807,4,Villa,104,1961,
+Slevadvej 8 6560 Sommersted,8,1200000.0,20-09-2012,Alm.,8823,2,Villa,136,2004,
+Lertevej 15 6560 Sommersted,15,1235000.0,28-08-2012,Alm.,11126,4,Villa,111,1900,-10 %
+Damager 29 6560 Sommersted,29,300000.0,24-08-2012,Alm.,2500,4,Villa,120,1956,-13 %
+Ørstedvej 4 6560 Sommersted,4,600000.0,02-08-2012,Alm.,3370,3,Villa,178,1912,-14 %
+Skotvej 4 6560 Sommersted,4,100000.0,08-07-2012,Alm.,1041,3,Villa,96,1880,
+Storegade 166 6560 Sommersted,166,250000.0,27-06-2012,Alm.,4166,2,Villa,60,1881,
+Storegade 78 6560 Sommersted,78,367500.0,27-06-2012,Alm.,1640,7,Villa,224,1939,
+Tovskovvej 25 6560 Sommersted,25,125000.0,24-06-2012,Alm.,1225,4,Villa,102,1930,
+Stenskærvej 18 6560 Sommersted,18,975000.0,15-06-2012,Alm.,5131,6,Villa,190,1929,-2 %
+Stenvænget 2 6560 Sommersted,2,600000.0,06-06-2012,Alm.,3947,4,Villa,152,1974,-11 %
+Perlevej 10 6560 Sommersted,10,150000.0,09-05-2012,Alm.,1948,3,Villa,77,1952,-64 %
+Kirkevej 21 6560 Sommersted,21,1100000.0,20-04-2012,Alm.,0,6,Villa,145,2000,-8 %
+Tovskovvadvej 1 6560 Sommersted,1,900000.0,14-04-2012,Alm.,0,8,Stuehus,289,1905,
+Storegade 91 6560 Sommersted,91,124797.0,29-03-2012,Auktion,1075,4,Villa,116,1920,
+Stenskærvej 10 6560 Sommersted,10,15260000.0,22-03-2012,Auktion,53170,12,Stuehus,287,1877,
+Billundvej 32 6560 Sommersted,32,1400000.0,14-03-2012,Alm.,8974,4,Stuehus,156,1949,
+Forpagtervej 1 6560 Sommersted,1,1445000.0,06-03-2012,Alm.,14450,5,Stuehus,100,1959,
+Tovskovvej 11 6560 Sommersted,11,825000.0,05-03-2012,Alm.,8168,4,Villa,101,1946,0 %
+Mosevænget 5 6560 Sommersted,5,525000.0,15-02-2012,Alm.,3125,4,Villa,168,1925,-12 %
+Vadstedvej 17 6560 Sommersted,17,2000000.0,14-02-2012,Alm.,8888,6,Villa,225,1973,6 %
+Harreshøjvej 2 6560 Sommersted,2,880000.0,02-02-2012,Auktion,4656,5,Stuehus,189,1900,
+Hyldevænget 14 6560 Sommersted,14,925000.0,18-01-2012,Fam.,5167,6,Villa,179,2002,
+Vadstedvej 15 6560 Sommersted,15,1215000.0,14-12-2011,Alm.,3996,10,Villa,304,1877,
+Lertevej 5 6560 Sommersted,5,820000.0,16-11-2011,Alm.,5430,4,Villa,151,1905,-3 %
+Storegade 160 6560 Sommersted,160,250000.0,08-11-2011,Alm.,1000,8,Villa,250,1902,0 %
+Bjerndrupvej 9 6560 Sommersted,9,2000000.0,04-10-2011,Alm.,9756,8,Stuehus,205,1939,-33 %
+Engvej 4 6560 Sommersted,4,820000.0,30-09-2011,Alm.,5616,5,Villa,146,1961,-11 %
+Sønderløkke 3 6560 Sommersted,3,1850000.0,18-09-2011,Alm.,8486,8,Villa,218,1914,0 %
+Parkvej 12 6560 Sommersted,12,600000.0,22-07-2011,Alm.,6122,4,Villa,98,1958,-14 %
+Tovskovvej 51 6560 Sommersted,51,660000.0,13-07-2011,Alm.,5000,5,Villa,132,1912,-9 %
+Tovskovvej 76 6560 Sommersted,76,900000.0,04-07-2011,Alm.,10000,4,Stuehus,90,1900,-10 %
+Rolighedsvej 19 6560 Sommersted,19,410000.0,07-06-2011,Alm.,3942,4,Villa,104,1965,
+Vestervej 2 6560 Sommersted,2,675000.0,21-05-2011,Fam.,4821,6,Stuehus,140,1929,
+Vadstedvej 12 6560 Sommersted,12,1050000.0,29-04-2011,Alm.,8823,4,Villa,119,1877,-4 %
+Storegade 170 6560 Sommersted,170,500000.0,19-04-2011,Alm.,5154,2,Villa,97,1964,-13 %
+Mosebjergvej 18 6560 Sommersted,18,650000.0,14-04-2011,Alm.,3939,4,Villa,165,1977,
+Parkvej 6E 6560 Sommersted,0,515000.0,14-04-2011,Alm.,7357,2,Rækkehus,70,1982,-6 %
+Vodskovvej 6 6560 Sommersted,6,1925000.0,11-03-2011,Alm.,8020,8,Stuehus,240,1934,
+Ørstedvej 10 6560 Sommersted,10,640000.0,17-02-2011,Alm.,3386,8,Villa,189,1912,-8 %
+Perlevej 12 6560 Sommersted,12,625000.0,16-02-2011,Alm.,5630,3,Villa,111,1953,-7 %
+Søndre Tværvej 2 6560 Sommersted,2,176000.0,14-02-2011,Auktion,709,8,Villa,248,1875,
+Hyldevænget 29 6560 Sommersted,29,80085.0,14-02-2011,Alm.,715,4,Villa,112,2011,
+Storegade 21 6560 Sommersted,21,2445000.0,03-02-2011,Alm.,9780,7,Stuehus,250,1870,0 %
+Mosevænget 15 6560 Sommersted,15,515000.0,16-12-2010,Auktion,3678,5,Villa,140,1959,
+Tovskovvej 27 6560 Sommersted,27,563832.0,15-12-2010,Alm.,6335,5,Villa,89,1970,
+Tovskovvej 12A 6560 Sommersted,0,450000.0,14-12-2010,Alm.,3813,4,Villa,118,1976,-9 %
+Storegade 182 6560 Sommersted,182,445000.0,10-12-2010,Alm.,4784,3,Villa,93,1963,-10 %
+Revsøgårdvej 7 6560 Sommersted,7,609690.0,01-12-2010,Fam.,5698,4,Villa,107,1870,-54 %
+Kirkevej 5 6560 Sommersted,5,770000.0,27-11-2010,Alm.,6416,5,Villa,120,1953,-3 %
+Rolighedsvej 4 6560 Sommersted,4,535000.0,22-11-2010,Alm.,4572,4,Villa,117,1961,-10 %
+Slevadvej 1 6560 Sommersted,1,950000.0,08-11-2010,Alm.,7916,5,Villa,120,1900,-14 %
+Storegade 64 6560 Sommersted,64,575000.0,29-10-2010,Alm.,3685,5,Villa,156,1946,
+Damager 43 6560 Sommersted,43,910000.0,16-10-2010,Alm.,7222,3,Villa,126,1976,-7 %
+Hyldevænget 1 6560 Sommersted,1,67540.0,24-09-2010,Alm.,332,5,Villa,203,2012,
+Grønnevang 3 6560 Sommersted,3,539508.0,05-07-2010,Fam.,2051,7,Villa,263,1897,
+Sønderløkke 7 6560 Sommersted,7,630000.0,04-07-2010,Alm.,6300,4,Villa,100,1963,-9 %
+Lertevej 11 6560 Sommersted,11,450000.0,09-06-2010,Alm.,4166,3,Villa,108,1947,
+Damager 17 6560 Sommersted,17,880000.0,30-04-2010,Alm.,4190,7,Villa,210,1926,
+Storegade 9 6560 Sommersted,9,6420665.0,17-04-2010,Alm.,26206,7,Stuehus,245,1872,
+Engvej 5 6560 Sommersted,5,675000.0,12-04-2010,Alm.,5357,4,Villa,126,1969,-3 %
+Tovskovvej 46 6560 Sommersted,46,650000.0,06-04-2010,Alm.,3714,7,Villa,175,1964,-17 %
+Storegade 13 6560 Sommersted,13,550000.0,08-03-2010,Alm.,6321,4,Villa,87,1940,-4 %
+Hyldevænget 33A 6560 Sommersted,0,1200000.0,24-02-2010,Alm.,10000,5,Villa,120,2010,
+Mølbyvej 8 6560 Sommersted,8,2000000.0,11-02-2010,Alm.,8888,5,Stuehus,225,1870,-12 %
+Bakkevej 13 6560 Sommersted,13,900000.0,21-01-2010,Alm.,6428,5,Villa,140,1970,-3 %
+Genvej 6 6560 Sommersted,6,685000.0,15-01-2010,Alm.,5393,5,Villa,127,1960,-12 %
+Slevadvej 2 6560 Sommersted,2,750000.0,13-01-2010,Alm.,8064,3,Villa,93,1864,
+Grønnevang 25 6560 Sommersted,25,650000.0,28-12-2009,Alm.,5855,5,Villa,111,1935,-6 %
+Åmosevej 3 6560 Sommersted,3,1275000.0,18-12-2009,Alm.,8173,5,Villa,156,1977,0 %
+Oksevejen 11 6560 Sommersted,11,300000.0,02-12-2009,Alm.,1612,6,Villa,186,2011,
+Åbjergvej 9 6560 Sommersted,9,830000.0,17-11-2009,Alm.,5187,5,Villa,160,1974,-25 %
+Mølbyvej 2 6560 Sommersted,2,450000.0,05-11-2009,Alm.,2662,4,Villa,169,1877,
+Rolighedsvej 5 6560 Sommersted,5,970000.0,03-11-2009,Alm.,9700,3,Villa,100,1964,
+Sølvagervej 4 6560 Sommersted,4,4786830.0,08-10-2009,Alm.,28836,5,Stuehus,166,1992,
+Storegade 105 6560 Sommersted,105,525000.0,08-10-2009,Alm.,10500,11,Ukendt,50,1877,5 %
+Slevadvej 5 6560 Sommersted,5,995000.0,02-09-2009,Alm.,7537,4,Villa,132,1932,0 %
+Storegade 116 6560 Sommersted,116,560000.0,10-08-2009,Alm.,4628,3,Villa,121,1906,-6 %
+Engtoften 10 6560 Sommersted,10,785000.0,06-08-2009,Alm.,6085,4,Villa,129,1967,-6 %
+Mosebjergvej 11 6560 Sommersted,11,1000000.0,31-07-2009,Alm.,7812,5,Villa,128,1977,
+Hofvej 3 6560 Sommersted,3,1345000.0,30-07-2009,Alm.,0,5,Villa,152,1933,-4 %
+Tovskovvej 64 6560 Sommersted,64,645000.0,07-07-2009,Alm.,5039,5,Villa,128,1954,
+Storegade 178 6560 Sommersted,178,250000.0,05-07-2009,Andet,2688,4,Villa,93,1956,
+Storegade 124A 6560 Sommersted,0,1000000.0,03-07-2009,Alm.,5154,4,Villa,194,1962,
+Skotvej 6 6560 Sommersted,6,1975000.0,26-06-2009,Alm.,11617,5,Stuehus,170,1975,-8 %
+Damager 10 6560 Sommersted,10,1060000.0,26-06-2009,Alm.,8281,3,Villa,128,1969,
+Tovskovvej 12 6560 Sommersted,12,700000.0,23-06-2009,Alm.,6034,5,Villa,116,1930,-12 %
+Kastvråvej 16B 6560 Sommersted,0,990000.0,22-06-2009,Fam.,7333,4,Villa,135,1980,
+Sommerstedvej 18 6560 Sommersted,18,775000.0,16-06-2009,Alm.,6798,5,Stuehus,114,1850,
+Akmajvej 9 6560 Sommersted,9,550000.0,10-06-2009,Andet,4230,5,Villa,130,1969,
+Tovskovvej 72 6560 Sommersted,72,1150000.0,10-06-2009,Fam.,5778,6,Stuehus,199,1964,
+Slavgårdsvej 1 6560 Sommersted,1,464096.0,05-06-2009,Alm.,2138,8,Stuehus,217,1933,
+Damager 13 6560 Sommersted,13,725000.0,29-05-2009,Alm.,6712,4,Villa,108,1967,-6 %
+Højrup Overskovvej 66 6560 Sommersted,66,795000.0,15-05-2009,Alm.,6463,4,Villa,123,1750,0 %
+Engvej 16 6560 Sommersted,16,1105000.0,11-03-2009,Alm.,8840,4,Villa,125,1967,-3 %
+Tovskovvej 18 6560 Sommersted,18,100000.0,02-03-2009,Alm.,769,3,Stuehus,130,1913,
+Store Selskærvej 4 6560 Sommersted,4,16280198.0,06-02-2009,Fam.,125232,7,Stuehus,130,1931,
+Gammel Kastvråvej 2 6560 Sommersted,2,410000.0,10-11-2008,Alm.,3796,3,Villa,108,1856,
+Damvej 7D 6560 Sommersted,0,320155.0,27-10-2008,Fam.,5335,2,Rækkehus,60,1980,
+Vestermarksvej 4 6560 Sommersted,4,1351050.0,15-10-2008,Alm.,8188,5,Stuehus,165,1960,
+Hyldevænget 33D 6560 Sommersted,0,1497000.0,11-10-2008,Alm.,12270,5,Villa,122,2009,
+Stenskærvej 6 6560 Sommersted,6,775000.0,12-09-2008,Alm.,4258,5,Stuehus,182,1929,-3 %
+Tovskovvej 42 6560 Sommersted,42,580000.0,03-09-2008,Alm.,9666,3,Villa,60,1947,-9 %
+Tovskovvej 52 6560 Sommersted,52,432000.0,17-07-2008,Auktion,3512,3,Stuehus,123,1897,
+Ørstedvej 33 6560 Sommersted,33,1215000.0,16-07-2008,Alm.,7941,4,Villa,153,1952,
+Ørstedvej 28 6560 Sommersted,28,4715000.0,25-06-2008,Alm.,13587,11,Stuehus,347,1951,
+Tovskovvej 39 6560 Sommersted,39,995000.0,17-06-2008,Alm.,6546,7,Villa,152,1907,0 %
+Hyldevænget 33B 6560 Sommersted,0,1535000.0,13-06-2008,Alm.,12791,5,Villa,120,2008,
+Sommerstedvej 24 6560 Sommersted,24,3570000.0,26-05-2008,Alm.,18888,6,Stuehus,189,1933,
+Grønnevang 15 6560 Sommersted,15,250000.0,17-05-2008,Alm.,1016,6,Villa,246,2010,
+Engtoften 2 6560 Sommersted,2,1135000.0,07-05-2008,Alm.,8470,5,Villa,134,1967,0 %
+Storegade 192 6560 Sommersted,192,392506.0,06-05-2008,Andet,3243,4,Villa,121,1967,
+Tovskovvej 15 6560 Sommersted,15,2550000.0,22-04-2008,Alm.,15361,5,Stuehus,166,1925,-9 %
+Hyldevænget 21 6560 Sommersted,21,900000.0,16-04-2008,Andet,5142,4,Villa,175,1999,
+Storegade 74 6560 Sommersted,74,873000.0,15-04-2008,Fam.,6984,4,Villa,125,1956,
+Tovskovvej 56 6560 Sommersted,56,3000000.0,31-03-2008,Fam.,21428,6,Stuehus,140,1800,
+Bakkevej 19 6560 Sommersted,19,740000.0,18-03-2008,Alm.,5920,6,Villa,125,1969,-12 %
+Storegade 76 6560 Sommersted,76,500000.0,17-03-2008,Alm.,3623,6,Villa,138,1945,-5 %
+Storegade 122 6560 Sommersted,122,510000.0,06-03-2008,Alm.,7183,3,Villa,71,1946,-5 %
+Tovskovvej 68 6560 Sommersted,68,580000.0,26-02-2008,Alm.,7341,2,Villa,79,1955,-6 %
+Tovskovvej 40 6560 Sommersted,40,630000.0,14-02-2008,Alm.,4200,6,Villa,150,1944,-7 %
+Hyldevænget 12 6560 Sommersted,12,1643643.0,22-01-2008,Alm.,13697,5,Villa,120,2008,
+Sølvgade 15 6560 Sommersted,15,1065000.0,22-01-2008,Alm.,11833,4,Villa,90,1954,0 %
+Syvagervej 2 6560 Sommersted,2,2000000.0,09-01-2008,Alm.,11299,5,Stuehus,177,1930,-5 %
+Vestervej 7 6560 Sommersted,7,580000.0,31-12-2007,Alm.,4603,4,Stuehus,126,1920,
+Sønderbyvej 2A 6560 Sommersted,0,700000.0,21-12-2007,Alm.,0,5,Villa,225,1987,-3 %
+Akmajvej 12 6560 Sommersted,12,850000.0,13-12-2007,Alm.,7456,4,Villa,114,1971,0 %
+Tovskovvej 16 6560 Sommersted,16,895000.0,12-12-2007,Alm.,10170,2,Villa,88,1960,
+Bakkevej 6 6560 Sommersted,6,582742.0,10-12-2007,Alm.,3407,7,Villa,171,1966,
+Grønnevang 2 6560 Sommersted,2,1270000.0,08-12-2007,Alm.,7743,3,Villa,164,1900,-2 %
+Mosebjergvej 4 6560 Sommersted,4,1290000.0,04-12-2007,Alm.,6292,5,Villa,205,1977,-3 %
+Spangåvej 1 6560 Sommersted,1,132640.0,03-12-2007,Alm.,586,6,Stuehus,226,1936,
+Storegade 117 6560 Sommersted,117,785000.0,22-11-2007,Alm.,4968,4,Villa,158,1885,0 %
+Stenskærvej 9 6560 Sommersted,9,1450000.0,17-11-2007,Alm.,7323,7,Villa,198,1938,0 %
+Hyldevænget 10 6560 Sommersted,10,63665.0,15-11-2007,Alm.,383,6,Villa,166,2008,
+Tovskovvej 62 6560 Sommersted,62,335000.0,07-11-2007,Alm.,2913,4,Villa,115,1949,
+Hyldevænget 8 6560 Sommersted,8,65110.0,07-11-2007,Alm.,378,5,Villa,172,2009,
+Sølvagervej 12 6560 Sommersted,12,875000.0,30-10-2007,Alm.,8254,3,Stuehus,106,1813,
+Tågerupvej 4 6560 Sommersted,4,1025000.0,23-10-2007,Alm.,7321,4,Stuehus,140,1911,-7 %
+Bakkevej 14 6560 Sommersted,14,735000.0,16-10-2007,Alm.,6743,4,Villa,109,1969,
+Mosevænget 6 6560 Sommersted,6,610000.0,29-09-2007,Alm.,5083,5,Villa,120,1920,-2 %
+Mosebjergvej 24 6560 Sommersted,24,1095000.0,28-09-2007,Alm.,7300,5,Villa,150,1979,0 %
+Rolighedsvej 17 6560 Sommersted,17,682000.0,23-08-2007,Alm.,6820,2,Villa,100,1965,-6 %
+Engvej 6 6560 Sommersted,6,975000.0,18-08-2007,Alm.,6632,5,Villa,147,1970,
+Engvej 7 6560 Sommersted,7,785000.0,09-08-2007,Alm.,5489,6,Villa,143,1972,-7 %
+Kirkevej 23 6560 Sommersted,23,2600000.0,08-08-2007,Alm.,14444,4,Villa,180,1999,
+Engvej 1 6560 Sommersted,1,500000.0,19-07-2007,Alm.,4166,4,Villa,120,2015,
+Damager 31 6560 Sommersted,31,800000.0,12-07-2007,Alm.,6153,6,Villa,130,1932,
+Stursbølvej 8 6560 Sommersted,8,935000.0,29-06-2007,Alm.,5436,5,Villa,172,1890,
+Kirkevej 2 6560 Sommersted,2,2075000.0,20-06-2007,Alm.,7306,9,Villa,284,1935,-17 %
+Storegade 93 6560 Sommersted,93,319590.0,18-06-2007,Andet,2102,3,Villa,152,1897,
+Grønnevang 4 6560 Sommersted,4,945000.0,04-06-2007,Alm.,5869,6,Villa,161,1922,
+Slavgårdsvej 2 6560 Sommersted,2,10995676.0,04-06-2007,Fam.,0,10,Stuehus,456,1875,
+Storegade 27 6560 Sommersted,27,675000.0,02-06-2007,Alm.,5443,4,Villa,124,1895,0 %
+Østergyden 3 6560 Sommersted,3,680000.0,01-05-2007,Alm.,7391,3,Villa,92,1963,-3 %
+Storegade 86 6560 Sommersted,86,850000.0,25-04-2007,Alm.,9239,4,Villa,92,1960,
+Farrisvej 1 6560 Sommersted,1,2382386.0,12-04-2007,Alm.,6370,9,Stuehus,374,2009,
+Højrup Overskovvej 91 6560 Sommersted,91,1400000.0,29-03-2007,Alm.,6698,5,Villa,209,1929,-6 %
+Akmajvej 16 6560 Sommersted,16,400740.0,26-03-2007,Andet,2990,5,Villa,134,1973,
+Øster Lindetvej 11 6560 Sommersted,11,1650000.0,02-03-2007,Alm.,5851,8,Villa,282,1990,
+Engtoften 8 6560 Sommersted,8,535000.0,25-01-2007,Alm.,4863,3,Villa,110,1968,-11 %
+Kærvej 7 6560 Sommersted,7,400000.0,02-01-2007,Alm.,4444,4,Villa,90,1969,
+Damvej 12 6560 Sommersted,12,840000.0,04-12-2006,Alm.,6666,4,Villa,126,1964,
+Tovskovvej 24 6560 Sommersted,24,484500.0,12-11-2006,Fam.,3785,6,Villa,128,1870,
+Syvagervej 11 6560 Sommersted,11,390000.0,10-11-2006,Alm.,3070,3,Stuehus,127,1932,
+Engtoften 5 6560 Sommersted,5,795000.0,25-10-2006,Alm.,5598,5,Villa,142,1972,
+Vestermarksvej 1 6560 Sommersted,1,640000.0,24-10-2006,Alm.,5000,3,Stuehus,128,1959,
+Damager 11 6560 Sommersted,11,635000.0,24-10-2006,Alm.,0,6,Villa,159,1966,
+Hyldevænget 17 6560 Sommersted,17,783256.0,14-09-2006,Andet,5634,5,Villa,139,1998,
+Tovskovvej 7 6560 Sommersted,7,550000.0,28-08-2006,Alm.,4435,3,Villa,124,1957,
+Rolighedsvej 10 6560 Sommersted,10,800000.0,25-08-2006,Alm.,7692,4,Villa,104,1962,
+Åvej 7 6560 Sommersted,7,610000.0,23-08-2006,Alm.,7349,3,Villa,83,1946,
+Højrup Overskovvej 52 6560 Sommersted,52,1455965.0,02-08-2006,Alm.,7279,6,Villa,200,1929,
+Åvej 5 6560 Sommersted,5,395000.0,31-07-2006,Alm.,4759,3,Villa,83,1950,
+Bakkevej 5 6560 Sommersted,5,825000.0,22-07-2006,Alm.,6395,4,Villa,129,1966,
+"Storegade 133, 1 6560 Sommersted",1,430000.0,20-07-2006,Alm.,2443,8,Lejlighed,176,1962,
+Grønnevang 8 6560 Sommersted,8,690000.0,17-07-2006,Alm.,5476,5,Villa,126,1924,
+Kastvråvej 22A 6560 Sommersted,0,650000.0,12-06-2006,Alm.,4452,5,Villa,146,1974,
+Akmajvej 1 6560 Sommersted,1,885000.0,29-05-2006,Alm.,4682,4,Villa,189,1963,
+Storegade 180 6560 Sommersted,180,680000.0,26-05-2006,Alm.,8947,2,Villa,76,1955,
+Tovskovvej 14 6560 Sommersted,14,475000.0,23-05-2006,Alm.,4611,3,Villa,103,1962,
+Engtoften 1 6560 Sommersted,1,900000.0,10-05-2006,Alm.,5421,6,Villa,166,1967,
+Mosebjergvej 12 6560 Sommersted,12,950000.0,09-05-2006,Alm.,5864,6,Villa,162,1977,
+Vestergyden 1 6560 Sommersted,1,1850000.0,05-05-2006,Alm.,8043,7,Villa,230,1840,
+Storegade 164 6560 Sommersted,164,500000.0,28-03-2006,Alm.,2976,6,Villa,168,1877,
+Akmajvej 6 6560 Sommersted,6,1265000.0,22-03-2006,Alm.,5163,6,Villa,245,1972,
+Storegade 67 6560 Sommersted,67,755000.0,22-03-2006,Alm.,6398,4,Villa,118,1934,
+Lertevej 4 6560 Sommersted,4,325000.0,08-03-2006,Alm.,2539,4,Villa,128,1947,
+Engtoften 12 6560 Sommersted,12,970000.0,14-02-2006,Alm.,4470,6,Villa,217,1969,
+Damvej 16 6560 Sommersted,16,800000.0,10-02-2006,Alm.,5194,5,Villa,154,1969,
+Sølvgade 8 6560 Sommersted,8,595000.0,06-02-2006,Alm.,7000,4,Villa,85,1827,
+Højrup Overskovvej 76 6560 Sommersted,76,5250773.0,31-01-2006,Alm.,37505,4,Stuehus,140,1870,
+Engtoften 6 6560 Sommersted,6,365000.0,30-01-2006,Alm.,3379,4,Villa,108,1968,
+Revsøgårdvej 11 6560 Sommersted,11,720955.0,26-01-2006,Alm.,0,4,Stuehus,133,1933,
+Jernbanegade 1 6560 Sommersted,1,1100000.0,01-01-2006,Fam.,5263,13,BygningTilKontor,209,1887,
+Parkvej 6F 6560 Sommersted,0,650000.0,28-12-2005,Alm.,7222,3,Rækkehus,90,1982,
+Storegade 51 6560 Sommersted,51,370000.0,20-12-2005,Fam.,3627,3,Villa,102,1897,
+Vadstedvej 4 6560 Sommersted,4,1240000.0,14-12-2005,Alm.,6231,5,Villa,199,1625,
+Vestergyden 2 6560 Sommersted,2,11750000.0,20-10-2005,Alm.,73437,9,Stuehus,160,1911,
+Kirkevej 7 6560 Sommersted,7,1025000.0,08-10-2005,Alm.,11141,3,Villa,92,2001,
+Mosebjergvej 8 6560 Sommersted,8,1275000.0,29-09-2005,Alm.,0,4,Villa,167,1977,
+Storegade 124B 6560 Sommersted,0,905000.0,16-08-2005,Alm.,6198,4,Villa,146,1980,
+Bakkevej 12 6560 Sommersted,12,995000.0,13-08-2005,Alm.,4326,7,Villa,230,1969,
+Kærgårdvej 6 6560 Sommersted,6,4535000.0,01-08-2005,Alm.,29640,8,Stuehus,153,1938,
+Lertevej 3 6560 Sommersted,3,80000.0,12-07-2005,Alm.,540,3,Villa,148,2010,
+Vadstedvej 16 6560 Sommersted,16,475000.0,27-06-2005,Alm.,3625,4,Villa,131,1954,
+Selskærvej 3 6560 Sommersted,3,300000.0,20-06-2005,Fam.,1734,5,Villa,173,1960,
+Farrisvej 14 6560 Sommersted,14,734000.0,09-05-2005,Alm.,0,5,Stuehus,185,1941,
+Damvej 7E 6560 Sommersted,0,385000.0,06-05-2005,Alm.,6416,2,Rækkehus,60,1980,
+Slavgårdsvej 5 6560 Sommersted,5,685000.0,27-04-2005,Alm.,6523,5,Villa,105,1954,
+Syvagervej 3 6560 Sommersted,3,557576.0,19-04-2005,Alm.,3399,5,Villa,164,1932,
+Mosebjergvej 9 6560 Sommersted,9,835000.0,17-04-2005,Alm.,5060,5,Villa,165,1977,
+Damvej 7A 6560 Sommersted,0,137500.0,04-04-2005,Alm.,0,7,Villa,183,1954,
+Tovskovvej 38 6560 Sommersted,38,945000.0,30-03-2005,Alm.,5163,6,Villa,183,1933,
+Engtoften 11 6560 Sommersted,11,775000.0,14-03-2005,Alm.,4843,5,Villa,160,1974,
+Forpagtervej 3 6560 Sommersted,3,2232000.0,14-03-2005,Fam.,0,10,Stuehus,373,1827,
+Spidsvej 1 6560 Sommersted,1,1140000.0,09-03-2005,Alm.,0,8,Stuehus,214,1853,
+Mølbyvej 4 6560 Sommersted,4,785000.0,09-03-2005,Alm.,4937,5,Stuehus,159,1635,
+Sølvgade 11 6560 Sommersted,11,405000.0,25-02-2005,Alm.,5259,4,Villa,77,1955,
+Storegade 55 6560 Sommersted,55,635000.0,22-02-2005,Alm.,5162,5,Villa,123,1959,
+Kastvråvej 27 6560 Sommersted,27,593318.0,01-12-2004,Fam.,4237,3,Villa,140,1928,
+Sillerupvej 7 6560 Sommersted,7,4900000.0,27-10-2004,Alm.,25520,7,Stuehus,192,1850,
+Storegade 54 6560 Sommersted,54,604438.0,13-10-2004,Fam.,3663,6,Villa,165,1939,
+Talind 6 6560 Sommersted,6,220000.0,05-10-2004,Alm.,1746,4,Villa,126,1900,
+Tovskovvej 59 6560 Sommersted,59,140000.0,04-10-2004,Alm.,786,6,Stuehus,178,2006,
+Tågerupvej 6 6560 Sommersted,6,1950000.0,24-08-2004,Alm.,8863,9,Stuehus,220,1932,
+Storegade 79 6560 Sommersted,79,825000.0,15-06-2004,Alm.,3437,6,Villa,240,1900,
+Tovskovvej 70 6560 Sommersted,70,525000.0,26-05-2004,Alm.,4166,3,Villa,126,1827,
+Engtoften 14 6560 Sommersted,14,515000.0,25-04-2004,Alm.,4639,5,Villa,111,1968,
+Storegade 156 6560 Sommersted,156,650000.0,06-04-2004,Alm.,3611,5,Villa,180,1900,
+Ørstedvej 7 6560 Sommersted,7,550000.0,11-03-2004,Alm.,2972,8,Villa,185,1880,
+Kastvråvej 6 6560 Sommersted,6,7192500.0,01-03-2004,Alm.,31825,6,Stuehus,226,2004,
+Engvej 1A 6560 Sommersted,0,775000.0,10-02-2004,Alm.,4100,4,Villa,189,1982,
+Sommerstedvej 22 6560 Sommersted,22,590000.0,04-02-2004,Alm.,2892,4,Stuehus,204,2006,
+Bakkevej 23 6560 Sommersted,23,807500.0,11-01-2004,Alm.,7021,5,Villa,115,1968,
+Ørstedvej 17 6560 Sommersted,17,195000.0,08-01-2004,Alm.,2867,2,Villa,68,1952,
+Storegade 57 6560 Sommersted,57,740000.0,07-01-2004,Alm.,0,5,Villa,135,1949,
+Laurids Skaus Vej 2 6560 Sommersted,2,700000.0,01-11-2003,Alm.,2592,8,Stuehus,270,1896,
+Vestergyden 3 6560 Sommersted,3,650000.0,14-08-2003,Alm.,3367,5,Villa,193,1877,
+Kærgårdvej 1 6560 Sommersted,1,407880.0,29-07-2003,Alm.,0,2,Stuehus,100,1903,
+Tovskovvej 65 6560 Sommersted,65,999311.0,18-07-2003,Alm.,6245,5,Stuehus,160,1970,
+Bjerndrupvej 1 6560 Sommersted,1,4422000.0,06-06-2003,Fam.,18737,10,Stuehus,236,1864,
+Damvej 5 6560 Sommersted,5,200000.0,08-05-2003,Alm.,1063,5,Villa,188,1900,
+Tovskovvej 3 6560 Sommersted,3,570000.0,03-03-2003,Alm.,4042,5,Villa,141,1969,
+Bakkevej 25 6560 Sommersted,25,775000.0,10-01-2003,Alm.,5961,5,Villa,130,1969,
+Selskærvej 5 6560 Sommersted,5,70116.0,06-12-2002,Alm.,318,9,Stuehus,220,1862,
+Damager 8 6560 Sommersted,8,585000.0,26-11-2002,Alm.,4119,4,Villa,142,1968,
+Storegade 50 6560 Sommersted,50,995000.0,23-10-2002,Alm.,5784,5,Villa,172,1933,
+Engtoften 4 6560 Sommersted,4,675000.0,16-10-2002,Alm.,4753,4,Villa,142,1967,
+Tågerupvej 2 6560 Sommersted,2,545000.0,15-10-2002,Alm.,3406,4,Villa,160,1877,
+Storegade 68 6560 Sommersted,68,540000.0,17-09-2002,Alm.,0,6,Villa,136,1957,
+Rolighedsvej 1 6560 Sommersted,1,550000.0,28-08-2002,Fam.,0,6,Villa,156,1963,
+Akmajvej 5 6560 Sommersted,5,550000.0,19-06-2002,Alm.,0,7,Villa,183,1972,
+Øster Lindetvej 3 6560 Sommersted,3,543000.0,11-06-2002,Alm.,3085,6,Villa,176,1972,
+Storegade 23 6560 Sommersted,23,671826.0,10-06-2002,Alm.,4147,7,Villa,162,1944,
+Mølbyvej 5 6560 Sommersted,5,275000.0,07-06-2002,Alm.,4104,3,Villa,67,1860,
+Kastvråvej 25 6560 Sommersted,25,1261268.0,05-06-2002,Fam.,7785,7,Stuehus,162,1863,
+Rolighedsvej 11 6560 Sommersted,11,605000.0,31-05-2002,Fam.,6722,3,Villa,90,1964,
+Kirkevej 1 6560 Sommersted,1,599089.0,31-05-2002,Fam.,3865,7,Villa,155,1847,
+Parkvej 6D 6560 Sommersted,0,295000.0,24-04-2002,Alm.,4214,2,Rækkehus,70,1982,
+Stenskærvej 24 6560 Sommersted,24,517242.0,24-04-2002,Alm.,1557,10,Stuehus,332,1922,
+Mosevænget 9 6560 Sommersted,9,327000.0,22-04-2002,Alm.,3205,4,Villa,102,1960,
+Akmajvej 13 6560 Sommersted,13,810000.0,15-04-2002,Alm.,5400,5,Villa,150,1969,
+Fuglsangs Alle 4 6560 Sommersted,4,4000000.0,11-02-2002,Fam.,0,17,Stuehus,285,1850,
+Engvej 12 6560 Sommersted,12,681000.0,28-01-2002,Alm.,3891,5,Villa,175,1972,
+Kildevænget 4 6560 Sommersted,4,850000.0,17-01-2002,Alm.,5862,5,Villa,145,1973,
+Storegade 92 6560 Sommersted,92,812000.0,04-01-2002,Alm.,5377,6,Villa,151,1951,
+Hyldevænget 3 6560 Sommersted,3,1000000.0,23-12-2001,Alm.,6802,5,Villa,147,1985,
+Damager 25 6560 Sommersted,25,370000.0,18-12-2001,Alm.,0,4,Villa,169,1944,
+Flødebøttevej 2 6560 Sommersted,2,350000.0,12-12-2001,Alm.,0,8,Villa,266,1897,
+Mosebjergvej 3 6560 Sommersted,3,850000.0,25-11-2001,Alm.,6439,5,Villa,132,1977,
+Mosebjergvej 7 6560 Sommersted,7,995000.0,24-11-2001,Alm.,6104,4,Villa,163,1980,
+Perlevej 8 6560 Sommersted,8,675000.0,24-10-2001,Alm.,0,4,Villa,109,1979,
+Bjerndrupvej 8 6560 Sommersted,8,884643.0,20-10-2001,Alm.,5427,7,Stuehus,163,1942,
+Damvej 7B 6560 Sommersted,0,315000.0,19-10-2001,Alm.,5250,2,Rækkehus,60,1980,
+Slevadvej 3 6560 Sommersted,3,5210000.0,18-10-2001,Alm.,22456,7,Stuehus,232,1921,
+Kastvråvej 4 6560 Sommersted,4,550000.0,27-09-2001,Alm.,4135,6,Stuehus,133,1937,
+Åmosevej 10 6560 Sommersted,10,875000.0,23-08-2001,Alm.,5434,5,Villa,161,1977,
+Rolighedsvej 3 6560 Sommersted,3,470000.0,01-08-2001,Alm.,4795,4,Villa,98,1966,
+Parkvej 6A 6560 Sommersted,0,575000.0,28-06-2001,Alm.,5989,3,Rækkehus,96,1982,
+Lertevej 8 6560 Sommersted,8,1850000.0,07-05-2001,Fam.,7581,8,Stuehus,244,1925,
+Tingbjergvej 6 6560 Sommersted,6,900000.0,02-05-2001,Alm.,5172,4,Stuehus,174,1833,
+Flødebøttevej 4 6560 Sommersted,4,2650000.0,30-04-2001,Fam.,10642,4,Stuehus,249,2007,
+Lertevej 18 6560 Sommersted,18,465000.0,06-04-2001,Alm.,3000,5,Villa,155,1950,
+Øster Lindetvej 1 6560 Sommersted,1,624891.0,19-03-2001,Alm.,8679,3,Villa,72,1942,
+Spidsvej 2 6560 Sommersted,2,551802.0,08-03-2001,Alm.,4560,4,Villa,121,1945,
+Damvej 13 6560 Sommersted,13,385000.0,23-02-2001,Fam.,1944,9,Villa,198,1963,
+Parkvej 6B 6560 Sommersted,0,400485.0,21-02-2001,Alm.,5721,2,Rækkehus,70,1982,
+Vadstedvej 7 6560 Sommersted,7,454000.0,21-01-2001,Alm.,4407,4,Villa,103,1961,
+Bakkevej 21 6560 Sommersted,21,242500.0,18-01-2001,Fam.,1940,5,Villa,125,1969,
+Tovskovvej 1 6560 Sommersted,1,634000.0,12-01-2001,Alm.,3170,4,Villa,200,1933,
+Genvej 4 6560 Sommersted,4,260000.0,14-12-2000,Alm.,2888,3,Villa,90,1960,
+Oksevejen 19 6560 Sommersted,19,519000.0,27-11-2000,Alm.,6105,3,Villa,85,1961,
+Tovskovvej 73 6560 Sommersted,73,110000.0,19-10-2000,Alm.,2115,3,Villa,52,1880,
+Lertevej 13 6560 Sommersted,13,275000.0,18-09-2000,Alm.,0,10,Villa,239,1842,
+Mosevænget 2 6560 Sommersted,2,659185.0,01-09-2000,Alm.,6591,4,Stuehus,100,1898,
+Kastvråvej 2 6560 Sommersted,2,860000.0,10-08-2000,Fam.,8775,4,Stuehus,98,1860,
+Sønderløkke 5 6560 Sommersted,5,789692.0,31-07-2000,Alm.,2924,7,Stuehus,270,1869,
+Kirkevej 19 6560 Sommersted,19,480000.0,31-07-2000,Fam.,2341,7,Villa,205,1855,
+Ørstedvej 6 6560 Sommersted,6,465000.0,27-07-2000,Alm.,0,6,Villa,188,1840,
+Storegade 82 6560 Sommersted,82,1325000.0,29-06-2000,Alm.,9330,5,Villa,142,1946,
+Sommerstedvej 28 6560 Sommersted,28,240000.0,26-06-2000,Alm.,1983,5,Villa,121,1955,
+Revsøgårdvej 5 6560 Sommersted,5,529250.0,26-06-2000,Alm.,4447,4,Villa,119,1890,
+Mølbyvej 10 6560 Sommersted,10,1056000.0,18-04-2000,Alm.,4672,9,Stuehus,226,1965,
+Damvej 10 6560 Sommersted,10,177486.0,20-03-2000,Fam.,2275,3,Villa,78,1876,
+Vestervej 3 6560 Sommersted,3,875006.0,21-02-2000,Alm.,6076,7,Stuehus,144,1935,
+Vadstedvej 1A 6560 Sommersted,0,684855.0,16-02-2000,Alm.,4998,4,Villa,137,1980,
+Storegade 146 6560 Sommersted,146,305000.0,04-02-2000,Alm.,0,4,Villa,115,1893,
+Mosevænget 3 6560 Sommersted,3,695000.0,25-01-2000,Alm.,0,7,Villa,151,1925,
+Øster Lindetvej 4 6560 Sommersted,4,496500.0,23-01-2000,Alm.,4243,4,Villa,117,1927,
+Kirkevej 25 6560 Sommersted,25,800000.0,29-11-1999,Alm.,5194,5,Villa,154,1977,
+Tovskovvej 30 6560 Sommersted,30,195000.0,28-10-1999,Alm.,0,7,Stuehus,200,1910,
+Oksevejen 17 6560 Sommersted,17,42000.0,15-10-1999,Alm.,219,7,Villa,191,2000,
+Grønnevang 23 6560 Sommersted,23,625556.0,09-10-1999,Alm.,3934,7,Villa,159,1937,
+Mosebjergvej 10 6560 Sommersted,10,900000.0,01-10-1999,Alm.,6666,4,Villa,135,1979,
+Storegade 127 6560 Sommersted,127,421155.0,20-09-1999,Alm.,3008,5,Villa,140,1930,
+Kirkevej 9 6560 Sommersted,9,425000.0,22-08-1999,Alm.,2361,7,Villa,180,1922,
+Bjerndrupvej 7 6560 Sommersted,7,300000.0,30-07-1999,Alm.,2479,6,Stuehus,121,1939,
+Søndre Tværvej 1 6560 Sommersted,1,830000.0,15-07-1999,Alm.,4742,7,Villa,175,1877,
+Akmajvej 10 6560 Sommersted,10,164326.0,01-07-1999,Andet,1441,4,Villa,114,1971,
+Tovskovvej 4 6560 Sommersted,4,200000.0,07-06-1999,Alm.,2380,3,Villa,84,1902,
+Storegade 34 6560 Sommersted,34,350000.0,27-05-1999,Alm.,3645,3,Villa,96,1960,
+Grønnevang 11 6560 Sommersted,11,140000.0,22-05-1999,Alm.,524,7,Villa,267,2000,
+Damager 28 6560 Sommersted,28,850000.0,06-04-1999,Alm.,3400,7,Stuehus,250,1896,
+Bjerndrupvej 4 6560 Sommersted,4,1450000.0,30-03-1999,Alm.,5731,8,Stuehus,253,1913,
+Farrisvej 8 6560 Sommersted,8,554000.0,23-03-1999,Alm.,3094,5,Villa,179,1894,
+Tovskovvej 67 6560 Sommersted,67,50000.0,08-03-1999,Auktion,0,5,Villa,189,1958,
+Tovskovvej 41 6560 Sommersted,41,379629.0,02-03-1999,Alm.,3796,7,BygningTilHandel,100,1905,
+Kærvej 11 6560 Sommersted,11,500000.0,19-12-1998,Alm.,0,4,Villa,132,1970,
+Højrup Overskovvej 56 6560 Sommersted,56,200000.0,19-11-1998,Alm.,2531,2,Villa,79,1800,
+Syvagervej 1 6560 Sommersted,1,400000.0,30-09-1998,Alm.,0,10,Stuehus,227,1932,
+Juhls Vej 6 6560 Sommersted,6,450000.0,09-09-1998,Alm.,4285,4,Stuehus,105,1792,
+Selskærvej 2 6560 Sommersted,2,3650000.0,25-08-1998,Fam.,15531,8,Stuehus,235,1931,
+Ørstedvej 27 6560 Sommersted,27,571000.0,11-08-1998,Alm.,7137,6,Villa,80,1947,
+Revsø Mark Vej 10 6560 Sommersted,10,280000.0,05-08-1998,Auktion,0,5,Villa,212,1932,
+Tovskovvej 26 6560 Sommersted,26,1400000.0,29-07-1998,Alm.,7608,5,Villa,184,1905,
+Kastvråvej 33 6560 Sommersted,33,638088.0,23-07-1998,Alm.,4834,4,Stuehus,132,1900,
+Bakkevej 24 6560 Sommersted,24,902000.0,18-07-1998,Alm.,4254,5,Villa,212,1972,
+Tågerupvej 33 6560 Sommersted,33,1000000.0,12-06-1998,Alm.,4651,9,Stuehus,215,1931,
+Lertevej 16 6560 Sommersted,16,425000.0,19-05-1998,Andet,3601,4,Villa,118,1946,
+Vadstedvej 20 6560 Sommersted,20,3725000.0,19-05-1998,Andet,15783,7,Stuehus,236,1892,
+Sølvagervej 1 6560 Sommersted,1,1367500.0,11-05-1998,Fam.,6511,6,Stuehus,210,1850,
+Lertevej 2 6560 Sommersted,2,364027.0,20-04-1998,Alm.,2033,5,Villa,179,1955,
+Højrup Overskovvej 51 6560 Sommersted,51,886000.0,19-04-1998,Alm.,4343,5,Villa,204,1929,
+Hyldevænget 19 6560 Sommersted,19,95799.0,01-04-1998,Alm.,532,5,Villa,180,1998,
+Akmajvej 8 6560 Sommersted,8,696100.0,22-03-1998,Alm.,5118,4,Villa,136,1972,
+Storegade 135 6560 Sommersted,135,385000.0,19-03-1998,Alm.,3666,4,Villa,105,1962,
+Damvej 3 6560 Sommersted,3,468000.0,12-02-1998,Alm.,0,5,Villa,178,1845,
+Tovskovvej 19 6560 Sommersted,19,943000.0,30-01-1998,Alm.,5750,7,Stuehus,164,1880,
+Tingbjergvej 8 6560 Sommersted,8,98000.0,26-01-1998,Auktion,576,5,Stuehus,170,1873,
+Tovskovvej 9 6560 Sommersted,9,470920.0,26-01-1998,Alm.,4024,4,Villa,117,1954,
+Ørstedvej 15 6560 Sommersted,15,330000.0,22-01-1998,Fam.,0,7,Villa,197,1960,
+Flødebøttevej 1 6560 Sommersted,1,1300000.0,11-12-1997,Alm.,10833,5,Stuehus,120,1875,
+Søndermarksvej 2 6560 Sommersted,2,710310.0,08-11-1997,Alm.,5592,5,Stuehus,127,1929,
+Vodskovvej 9 6560 Sommersted,9,508000.0,27-10-1997,Alm.,4268,4,Villa,119,1967,
+Storegade 123 6560 Sommersted,123,520500.0,07-10-1997,Alm.,3884,5,Villa,134,1962,
+Stursbølvej 10 6560 Sommersted,10,450000.0,01-10-1997,Alm.,0,7,Stuehus,325,1877,
+Talind 8 6560 Sommersted,8,3166343.0,16-09-1997,Alm.,17788,7,Stuehus,178,1900,
+Hyldevænget 15 6560 Sommersted,15,56916.0,09-09-1997,Alm.,0,7,Villa,186,1998,
+Åbjergvej 3 6560 Sommersted,3,545260.0,27-08-1997,Alm.,3894,5,Villa,140,1973,
+Vadstedvej 21 6560 Sommersted,21,2200000.0,16-07-1997,Alm.,0,7,Stuehus,266,1967,
+Stenskærvej 15 6560 Sommersted,15,1089000.0,06-07-1997,Alm.,5185,8,Villa,210,1870,
+Ørstedvej 21 6560 Sommersted,21,345000.0,10-04-1997,Alm.,2899,5,Villa,119,1960,
+Tovskovvej 5 6560 Sommersted,5,500000.0,09-04-1997,Alm.,4166,5,Villa,120,1954,
+Storegade 32 6560 Sommersted,32,818729.0,09-04-1997,Alm.,3861,5,Villa,212,1908,
+Tovskovvej 8 6560 Sommersted,8,710000.0,02-04-1997,Alm.,0,5,Stuehus,166,1910,
+Mosevænget 7 6560 Sommersted,7,359000.0,01-04-1997,Alm.,2991,6,Villa,120,1924,
+Bakkevej 2 6560 Sommersted,2,532705.0,27-03-1997,Alm.,4439,5,Villa,120,1969,
+Vadstedvej 14 6560 Sommersted,14,691831.0,14-03-1997,Alm.,2882,8,Stuehus,240,1856,
+Engvej 3 6560 Sommersted,3,445000.0,24-02-1997,Alm.,0,4,Villa,129,1968,
+Grønnevang 6 6560 Sommersted,6,332000.0,19-12-1996,Alm.,2169,8,Villa,153,1932,
+Mølbyvej 6 6560 Sommersted,6,204000.0,18-11-1996,Alm.,2400,3,Villa,85,1964,
+Damvej 6 6560 Sommersted,6,414000.0,11-11-1996,Alm.,0,4,Villa,142,1880,
+Storegade 139 6560 Sommersted,139,790000.0,30-10-1996,Alm.,3172,7,Villa,249,1962,
+Søndre Tværvej 4 6560 Sommersted,4,518000.0,15-10-1996,Alm.,3083,10,Stuehus,168,1855,
+Perlevej 6 6560 Sommersted,6,100000.0,18-09-1996,Alm.,1234,3,Villa,81,1953,
+Kærvej 2 6560 Sommersted,2,444000.0,10-09-1996,Fam.,3929,4,Villa,113,1971,
+Hyldevænget 13 6560 Sommersted,13,58344.0,09-09-1996,Alm.,416,5,Villa,140,1997,
+Tågerupvej 41 6560 Sommersted,41,1055000.0,25-08-1996,Alm.,0,4,Stuehus,256,1931,
+Højrup Overskovvej 47 6560 Sommersted,47,1482150.0,18-07-1996,Fam.,7410,7,Stuehus,200,1850,
+Kærgårdvej 7 6560 Sommersted,7,716000.0,01-07-1996,Alm.,6951,4,Stuehus,103,1866,
+Akmajvej 15 6560 Sommersted,15,280500.0,19-06-1996,Fam.,0,5,Villa,198,1968,
+Stenvænget 5 6560 Sommersted,5,565000.0,05-06-1996,Alm.,4154,4,Villa,136,1974,
+Stursbølvej 6 6560 Sommersted,6,1962000.0,26-05-1996,Fam.,11084,7,Stuehus,177,1963,
+Farrisvej 5 6560 Sommersted,5,373824.0,15-04-1996,Alm.,1495,8,Stuehus,250,2009,
+Oksevejen 1 6560 Sommersted,1,40000.0,26-03-1996,Alm.,285,4,Villa,140,1775,
+Grønnevang 7 6560 Sommersted,7,365000.0,15-01-1996,Alm.,2109,6,Villa,173,1933,
+Storegade 46 6560 Sommersted,46,296000.0,05-12-1995,Alm.,2873,3,Villa,103,1936,
+Tovskovvej 53 6560 Sommersted,53,842000.0,13-11-1995,Alm.,7016,4,Villa,120,1944,
+Kastvråvej 20 6560 Sommersted,20,15000.0,09-11-1995,Alm.,357,3,Villa,42,1885,
+Bjerndrupvej 6 6560 Sommersted,6,457000.0,15-09-1995,Alm.,4967,3,Stuehus,92,1850,
+Vadstedvej 5 6560 Sommersted,5,431000.0,05-08-1995,Alm.,0,7,Villa,198,1960,
+Sølvagervej 10 6560 Sommersted,10,800000.0,03-08-1995,Alm.,3940,7,Stuehus,203,1887,
+Skotvej 3 6560 Sommersted,3,2100000.0,05-07-1995,Alm.,10714,6,Stuehus,196,1944,
+Sølvagervej 8 6560 Sommersted,8,710000.0,29-06-1995,Alm.,0,6,Stuehus,328,1950,
+Sillerupvej 2 6560 Sommersted,2,180000.0,27-06-1995,Alm.,1538,4,Villa,117,1907,
+Damager 33 6560 Sommersted,33,260000.0,09-06-1995,Alm.,0,7,Villa,176,1900,
+Søndre Tværvej 5 6560 Sommersted,5,350000.0,29-05-1995,Alm.,2380,4,Stuehus,147,1880,
+Ørstedvej 16 6560 Sommersted,16,500000.0,08-05-1995,Alm.,2008,9,Stuehus,249,1877,
+Tovskovvej 44 6560 Sommersted,44,318000.0,20-04-1995,Alm.,2271,4,Villa,140,1970,
+Mosevænget 1 6560 Sommersted,1,513153.0,14-02-1995,Alm.,2618,5,Villa,196,1924,
+Kærgårdvej 9 6560 Sommersted,9,1974000.0,03-02-1995,Fam.,10670,6,Stuehus,185,1821,
+Sølvagervej 3 6560 Sommersted,3,590000.0,30-01-1995,Alm.,6210,3,Stuehus,95,1904,
+Storegade 72 6560 Sommersted,72,334000.0,05-01-1995,Alm.,0,5,Villa,144,1947,
+Vestervej 11 6560 Sommersted,11,800000.0,22-12-1994,Alm.,4469,5,Stuehus,179,1880,
+Kirkevej 27 6560 Sommersted,27,617500.0,15-12-1994,Alm.,0,6,Villa,188,1973,
+Vestervej 1 6560 Sommersted,1,500000.0,07-12-1994,Alm.,3816,5,Stuehus,131,1945,
+Storegade 44 6560 Sommersted,44,90000.0,06-12-1994,Alm.,661,5,Villa,136,1840,
+Storegade 90 6560 Sommersted,90,527000.0,01-07-1994,Fam.,0,5,Villa,189,1954,
+Damvej 7C 6560 Sommersted,0,218298.0,16-06-1994,Alm.,3638,2,Rækkehus,60,1980,
+Vodskovvej 7 6560 Sommersted,7,2075000.0,05-05-1994,Alm.,6916,12,Stuehus,300,1868,
+Damvej 2 6560 Sommersted,2,230000.0,03-05-1994,Fam.,2738,4,Villa,84,1964,
+Tovskovvej 58 6560 Sommersted,58,80000.0,26-03-1994,Alm.,1111,3,Villa,72,1947,
+Kærgårdvej 4 6560 Sommersted,4,749800.0,23-02-1994,Alm.,3177,5,Stuehus,236,1911,
+Bjerndrupvej 5 6560 Sommersted,5,700000.0,05-02-1994,Andet,2800,10,Stuehus,250,1872,
+Sølvagervej 6 6560 Sommersted,6,1000000.0,29-01-1994,Alm.,9090,4,Stuehus,110,1935,
+Revsøgårdvej 3 6560 Sommersted,3,665000.0,13-01-1994,Alm.,4130,6,Villa,161,1877,
+Storegade 150 6560 Sommersted,150,187500.0,05-01-1994,Alm.,1241,5,Villa,151,1897,
+Grønnegade 1 6560 Sommersted,1,190000.0,11-11-1993,Alm.,1010,5,Villa,188,1924,
+Ørstedvej 25 6560 Sommersted,25,920000.0,27-10-1993,Fam.,0,5,Stuehus,220,1932,
+Overbyvej 12 6560 Sommersted,12,215000.0,26-10-1993,Alm.,0,7,Villa,201,1942,
+Parkvej 10 6560 Sommersted,10,208321.0,24-10-1993,Alm.,2240,2,Villa,93,1956,
+Revsø Mark Vej 4 6560 Sommersted,4,320000.0,09-10-1993,Alm.,2666,4,Stuehus,120,1877,
+Kastvrå Bygade 2 6560 Sommersted,2,200000.0,23-09-1993,Alm.,0,7,Villa,260,1870,
+Sølvgade 1 6560 Sommersted,1,357000.0,08-09-1993,Fam.,2176,5,Villa,164,1922,
+Engvej 14 6560 Sommersted,14,221000.0,16-08-1993,Alm.,1355,5,Villa,163,1968,
+Hyldevænget 4 6560 Sommersted,4,737007.0,25-06-1993,Alm.,4880,5,Villa,151,1986,
+Tovskovvej 48 6560 Sommersted,48,285000.0,06-04-1993,Alm.,3166,4,Villa,90,1945,
+Damager 16 6560 Sommersted,16,1100000.0,10-03-1993,Alm.,0,12,Stuehus,420,1877,
+Spidsvej 4 6560 Sommersted,4,2020000.0,11-02-1993,Alm.,9223,5,Stuehus,219,1909,
+Revsøgårdvej 6 6560 Sommersted,6,920000.0,04-01-1993,Alm.,0,8,Stuehus,207,1932,
+Kærgårdvej 2 6560 Sommersted,2,810000.0,17-12-1992,Fam.,5328,6,Stuehus,152,1877,
+Tågerupvej 3 6560 Sommersted,3,590000.0,17-08-1992,Alm.,0,4,Stuehus,210,1931,
+Tovskovvej 54 6560 Sommersted,54,140000.0,01-07-1992,Alm.,875,5,Villa,160,1870,
+Bjerndrupvej 3 6560 Sommersted,3,300000.0,15-06-1992,Fam.,2000,6,Stuehus,150,1935,
+Storegade 61 6560 Sommersted,61,330000.0,12-05-1992,Alm.,2357,4,Villa,140,1943,
+Åvej 1 6560 Sommersted,1,675000.0,21-04-1992,Alm.,3026,7,Villa,223,1970,
+Vestergyden 4 6560 Sommersted,4,655000.0,16-04-1992,Alm.,4548,6,Villa,144,1910,
+Rolighedsvej 16 6560 Sommersted,16,440000.0,16-04-1992,Alm.,4150,4,Villa,106,1964,
+Tovskovvej 13 6560 Sommersted,13,475000.0,23-03-1992,Alm.,2653,7,Villa,179,1963,
+Tovskovvej 71 6560 Sommersted,71,846000.0,06-03-1992,Alm.,0,11,Stuehus,195,1900,
+Slevadvej 7 6560 Sommersted,7,825000.0,03-03-1992,Alm.,0,14,Servicevirksomhed,183,1740,
+Stenvænget 1 6560 Sommersted,1,518800.0,02-02-1992,Alm.,2265,7,Villa,229,1973,
+Tovskovvej 63 6560 Sommersted,63,693700.0,23-01-1992,Alm.,3811,7,Stuehus,182,1827,
+Mølbyvej 12 6560 Sommersted,12,610000.0,06-01-1992,Fam.,2541,7,Stuehus,240,1936,

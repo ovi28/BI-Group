@@ -1,0 +1,736 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Pilevænget 3 6731 Tjæreborg,3,875000.0,18-05-2017,Fam.,5756,7,Villa,152,1968,
+Østre Strandvej 18 6731 Tjæreborg,18,1485000.0,27-04-2017,Alm.,11165,5,Villa,133,1902,-6 %
+Hans Silas Nielsens Vej 3 6731 Tjæreborg,3,1125000.0,26-04-2017,Alm.,9782,4,Villa,115,1965,
+Vestergårdsvej 13 6731 Tjæreborg,13,1080000.0,06-04-2017,Alm.,11489,3,Villa,94,1910,-10 %
+Hulvej 13 6731 Tjæreborg,13,1000000.0,21-03-2017,Alm.,6097,5,Villa,164,1928,
+Tradsborgvej 64 6731 Tjæreborg,64,950000.0,09-03-2017,Fam.,8715,3,Villa,109,1987,
+Østerkrog 21 6731 Tjæreborg,21,1648000.0,10-02-2017,Alm.,10048,6,Villa,164,1970,0 %
+Vesterled 10 6731 Tjæreborg,10,1975000.0,10-02-2017,Alm.,10561,7,Villa,187,1972,-6 %
+Sønderbyvej 56 6731 Tjæreborg,56,1677000.0,03-02-2017,Alm.,5863,8,Stuehus,286,1927,-9 %
+Sønderager 13 6731 Tjæreborg,13,2000000.0,23-01-2017,Alm.,14285,5,Villa,140,1977,
+Nordre Strandvej 16 6731 Tjæreborg,16,650000.0,19-01-2017,Alm.,6074,4,Villa,107,1952,-18 %
+Nordre Strandvej 27 6731 Tjæreborg,27,775000.0,19-01-2017,Alm.,5740,4,Villa,135,1957,-11 %
+Engvej 13 6731 Tjæreborg,13,1054000.0,05-01-2017,Fam.,6349,6,Villa,166,1998,
+Niels Storgårds Vej 5 6731 Tjæreborg,5,600000.0,29-12-2016,Andet,3973,5,Villa,151,1997,
+Krogsgårdsvej 33 6731 Tjæreborg,33,1987500.0,08-12-2016,Fam.,11292,7,Stuehus,176,1880,
+Østerbyvej 32B 6731 Tjæreborg,0,2648000.0,05-12-2016,Alm.,14960,6,Villa,177,2000,-2 %
+Vestergårdsvej 6 6731 Tjæreborg,6,700000.0,02-12-2016,Fam.,5072,4,Villa,138,1930,
+Nordre Strandvej 37B 6731 Tjæreborg,0,1500000.0,17-11-2016,Alm.,9740,7,Villa,154,1990,-12 %
+Østerbyvej 13 6731 Tjæreborg,13,2950000.0,28-10-2016,Fam.,16032,8,Villa,184,1760,
+Østerkrog 33 6731 Tjæreborg,33,1268000.0,03-10-2016,Alm.,8397,6,Villa,151,1969,
+Tjæreborg Stationsvej 15 6731 Tjæreborg,15,964000.0,14-09-2016,Fam.,5182,8,Villa,186,1953,
+Niels Storgårds Vej 42 6731 Tjæreborg,42,2765000.0,13-09-2016,Alm.,15192,5,Villa,182,2011,-1 %
+Vesterled 31 6731 Tjæreborg,31,1350000.0,12-09-2016,Alm.,9440,5,Villa,143,1971,-10 %
+Poppelvænget 6 6731 Tjæreborg,6,1798000.0,05-09-2016,Alm.,11308,4,Villa,159,1965,0 %
+Tjæreborg Stationsvej 3 6731 Tjæreborg,3,1478000.0,30-08-2016,Alm.,7540,9,Villa,196,1959,0 %
+Spurvehøjen 8 6731 Tjæreborg,8,882972.0,22-08-2016,Fam.,4824,7,Villa,183,1969,
+Vestergårds Alle 7 6731 Tjæreborg,7,2095000.0,19-08-2016,Alm.,14964,4,Stuehus,140,2003,-43 %
+Nordre Strandvej 18 6731 Tjæreborg,18,1975000.0,19-08-2016,Alm.,12267,5,Villa,161,1955,-1 %
+Tjæreborg Stationsvej 28 6731 Tjæreborg,28,825000.0,21-07-2016,Alm.,6156,6,Villa,134,1900,-3 %
+Kærvangen 7 6731 Tjæreborg,7,1250000.0,04-07-2016,Alm.,15243,3,Villa,82,1954,
+J M Terkelsens Vej 12 6731 Tjæreborg,12,1750000.0,29-06-2016,Alm.,15909,4,Villa,110,1935,-3 %
+J M Terkelsens Vej 18 6731 Tjæreborg,18,2470000.0,21-06-2016,Alm.,13571,6,Villa,182,1940,
+Bjerggårdsvej 2 6731 Tjæreborg,2,700000.0,07-06-2016,Alm.,6603,5,Stuehus,106,1915,
+Ejlif Krogagers Vej 56 6731 Tjæreborg,56,2800000.0,02-06-2016,Alm.,17177,5,Villa,163,2014,-7 %
+Vestre Strandvej 29 6731 Tjæreborg,29,1160000.0,30-05-2016,Alm.,11047,8,BygningTilHandel,105,1877,
+Granvænget 9 6731 Tjæreborg,9,1500000.0,30-05-2016,Alm.,9493,5,Villa,158,1967,0 %
+Tradsborgvej 20 6731 Tjæreborg,20,2400000.0,12-05-2016,Alm.,14371,5,Villa,167,1956,-4 %
+Elmevej 17 6731 Tjæreborg,17,806020.0,11-05-2016,Auktion,6448,5,Villa,125,1980,-32 %
+Østerbyvej 26 6731 Tjæreborg,26,3000000.0,05-05-2016,Alm.,12658,5,Villa,237,1780,
+Østre Strandvej 24 6731 Tjæreborg,24,930000.0,03-05-2016,Alm.,9207,3,Villa,101,1963,-5 %
+Sønderager 18 6731 Tjæreborg,18,1100000.0,29-04-2016,Alm.,9243,4,Villa,119,1977,-8 %
+Ejlif Krogagers Vej 38 6731 Tjæreborg,38,546700.0,07-04-2016,Alm.,2462,5,Villa,222,2017,
+Nordre Strandvej 8 6731 Tjæreborg,8,985000.0,01-04-2016,Alm.,7035,4,Villa,140,1930,
+Sønderbyvej 23 6731 Tjæreborg,23,1930000.0,22-03-2016,Alm.,10489,5,Villa,184,1905,-8 %
+Peder Hedes Vej 10 6731 Tjæreborg,10,2000000.0,21-03-2016,Alm.,12578,5,Villa,159,2011,-9 %
+Vestergårdsvej 12 6731 Tjæreborg,12,650000.0,11-03-2016,Alm.,10000,3,Villa,65,1958,
+Vesterled 44 6731 Tjæreborg,44,3150000.0,08-03-2016,Alm.,16755,6,Villa,188,1981,
+Fælledvej 10 6731 Tjæreborg,10,870000.0,24-02-2016,Auktion,11153,3,Rækkehus,78,2003,
+Ejlif Krogagers Vej 84 6731 Tjæreborg,84,547250.0,22-02-2016,Alm.,3023,5,Villa,181,2017,
+Engvej 7 6731 Tjæreborg,7,1960000.0,15-02-2016,Alm.,15076,5,Villa,130,1999,
+Tremhøjevej 14 6731 Tjæreborg,14,1850000.0,10-02-2016,Alm.,8564,6,Villa,216,1965,-3 %
+Kærvangen 10 6731 Tjæreborg,10,900000.0,08-02-2016,Alm.,9677,3,Villa,93,1952,-10 %
+Nordre Strandvej 35A 6731 Tjæreborg,0,1350000.0,03-02-2016,Alm.,10384,5,Villa,130,1991,-3 %
+Sneumvej 83 6731 Tjæreborg,83,1500000.0,01-02-2016,Alm.,5555,9,Villa,270,1973,-14 %
+Ejlif Krogagers Vej 26 6731 Tjæreborg,26,546150.0,01-02-2016,Alm.,3017,6,Villa,181,2016,
+Vestre Strandvej 24 6731 Tjæreborg,24,990000.0,19-01-2016,Alm.,8684,5,Villa,114,1906,-7 %
+Østre Strandvej 11 6731 Tjæreborg,11,660000.0,18-01-2016,Alm.,5892,4,Villa,112,1954,-17 %
+Karl Jensens Vej 7 6731 Tjæreborg,7,1970000.0,13-01-2016,Fam.,18584,3,Stuehus,106,1862,
+Peder Hedes Vej 19 6731 Tjæreborg,19,2700000.0,12-01-2016,Alm.,15606,5,Villa,173,2007,-2 %
+Ejlif Krogagers Vej 62 6731 Tjæreborg,62,558250.0,12-01-2016,Alm.,2224,5,Villa,251,2016,
+Vestre Strandvej 10 6731 Tjæreborg,10,375000.0,04-01-2016,Alm.,6696,3,Villa,56,1892,-6 %
+Vestre Strandvej 62 6731 Tjæreborg,62,1227145.0,03-01-2016,Fam.,8463,5,Stuehus,145,1923,
+Sneumvej 56 6731 Tjæreborg,56,865820.0,28-12-2015,Andet,4122,6,Villa,210,2015,
+Niels Storgårds Vej 11 6731 Tjæreborg,11,2170000.0,22-12-2015,Alm.,13151,5,Villa,165,1997,-1 %
+Pilevænget 5 6731 Tjæreborg,5,1225000.0,22-12-2015,Alm.,8390,6,Villa,146,1971,-6 %
+Jesper Justs Alle 6 6731 Tjæreborg,6,800000.0,01-12-2015,Alm.,7766,4,Villa,103,1965,-16 %
+Lærkehøjen 17 6731 Tjæreborg,17,1525000.0,16-11-2015,Alm.,7512,9,Villa,203,1964,-5 %
+Ejlif Krogagers Vej 76 6731 Tjæreborg,76,680550.0,16-11-2015,Alm.,3065,7,Villa,222,2016,
+Vibehøjen 5 6731 Tjæreborg,5,1945000.0,31-10-2015,Alm.,10513,7,Villa,185,1967,-3 %
+Solbjergvej 56 6731 Tjæreborg,56,2025000.0,30-10-2015,Alm.,6211,10,Villa,326,1876,-3 %
+Kærhaven 4A 6731 Tjæreborg,0,1767900.0,17-10-2015,Fam.,16071,3,Rækkehus,110,2012,
+Kærvangen 2 6731 Tjæreborg,2,1425000.0,30-09-2015,Alm.,11400,5,Villa,125,1996,-5 %
+Kærhaven 2A 6731 Tjæreborg,0,1648000.0,15-09-2015,Alm.,16480,3,Rækkehus,100,2015,0 %
+Kærhaven 2B 6731 Tjæreborg,0,1648000.0,14-09-2015,Alm.,16480,3,Rækkehus,100,2015,0 %
+Jens Kusks Vej 55 6731 Tjæreborg,55,2400000.0,11-09-2015,Alm.,16000,5,Villa,150,2005,-4 %
+Allerupvej 15A 6731 Tjæreborg,0,980000.0,02-09-2015,Alm.,2000,10,Villa,490,1943,-7 %
+J M Terkelsens Vej 7 6731 Tjæreborg,7,800000.0,26-08-2015,Fam.,6451,5,Villa,124,1932,
+Ejlif Krogagers Vej 70 6731 Tjæreborg,70,562265.0,24-08-2015,Alm.,2382,5,Villa,236,2016,
+Vesterled 28 6731 Tjæreborg,28,1460000.0,12-08-2015,Alm.,8488,5,Villa,172,1971,-3 %
+Ejlif Krogagers Vej 64 6731 Tjæreborg,64,568150.0,03-08-2015,Alm.,3422,5,Villa,166,2016,
+Nordre Strandvej 29 6731 Tjæreborg,29,1325000.0,31-07-2015,Alm.,7361,5,Villa,180,1961,-5 %
+Jens Kusks Vej 43 6731 Tjæreborg,43,2340000.0,20-07-2015,Alm.,12315,6,Villa,190,1998,-2 %
+Hans Silas Nielsens Vej 20 6731 Tjæreborg,20,1648000.0,17-07-2015,Alm.,11135,5,Villa,148,1962,0 %
+Østerbyvej 46 6731 Tjæreborg,46,900000.0,08-07-2015,Fam.,6766,5,Villa,133,2003,
+Sønderbyvej 22 6731 Tjæreborg,22,850000.0,30-06-2015,Alm.,5414,7,Villa,157,1908,-15 %
+Vesterled 34 6731 Tjæreborg,34,2148000.0,23-06-2015,Alm.,13858,6,Villa,155,1971,0 %
+Ejlif Krogagers Vej 68 6731 Tjæreborg,68,569233.0,17-06-2015,Alm.,3388,5,Villa,168,2016,
+Tremhøjevej 17 6731 Tjæreborg,17,1935000.0,29-05-2015,Alm.,9923,6,Villa,195,1968,-3 %
+Lærkehøjen 3 6731 Tjæreborg,3,1820000.0,25-05-2015,Alm.,12551,4,Villa,145,1968,
+Vestre Strandvej 50 6731 Tjæreborg,50,1225000.0,30-04-2015,Alm.,12628,4,Villa,97,1910,-2 %
+Jens Kusks Vej 19 6731 Tjæreborg,19,2100000.0,21-04-2015,Alm.,12426,5,Villa,169,1997,-9 %
+Peder Hedes Vej 8 6731 Tjæreborg,8,2117000.0,17-04-2015,Alm.,15681,5,Villa,135,2008,1 %
+Tradsborgvej 74 6731 Tjæreborg,74,900000.0,14-04-2015,Alm.,8653,2,Villa,104,1877,
+Niels Storgårds Vej 23 6731 Tjæreborg,23,2648000.0,12-04-2015,Alm.,13863,6,Villa,191,2003,0 %
+Engvej 10 6731 Tjæreborg,10,1312500.0,10-04-2015,Alm.,10670,4,Villa,123,1964,-5 %
+Pilevænget 10 6731 Tjæreborg,10,1260000.0,20-03-2015,Alm.,8750,5,Villa,144,1970,-3 %
+Nørreled 24 6731 Tjæreborg,24,2040000.0,18-03-2015,Alm.,11027,6,Villa,185,1987,-6 %
+Solbjergvej 74 6731 Tjæreborg,74,1350000.0,17-03-2015,Alm.,7458,7,Stuehus,181,1880,-10 %
+Gl Skolevej 49 6731 Tjæreborg,49,1438000.0,16-03-2015,Alm.,9460,5,Villa,152,1974,
+Vibehøjen 14 6731 Tjæreborg,14,1125000.0,13-03-2015,Alm.,10227,4,Villa,110,1966,-2 %
+Jens Kusks Vej 10 6731 Tjæreborg,10,2325000.0,13-03-2015,Alm.,15296,5,Villa,152,2005,-1 %
+Sneum Slusevej 39 6731 Tjæreborg,39,145000.0,04-03-2015,Alm.,9666,1,Fritid,15,1000,
+Spurvehøjen 4 6731 Tjæreborg,4,1350000.0,21-02-2015,Fam.,9642,5,Villa,140,1967,
+Drosselkæret 1 6731 Tjæreborg,1,750000.0,12-02-2015,Fam.,5208,4,Villa,144,1979,
+Østerkrog 36 6731 Tjæreborg,36,1835000.0,20-01-2015,Alm.,12233,5,Villa,150,1970,-3 %
+Meldber 3 6731 Tjæreborg,3,1898000.0,19-01-2015,Alm.,12324,4,Villa,154,1971,0 %
+Ejlif Krogagers Vej 46 6731 Tjæreborg,46,381040.0,09-01-2015,Alm.,2215,6,Villa,172,2015,
+Hasselvænget 15 6731 Tjæreborg,15,900000.0,30-12-2014,Alm.,4864,5,Villa,185,1964,-10 %
+Gl Skolevej 36 6731 Tjæreborg,36,2950000.0,19-12-2014,Alm.,15608,6,Stuehus,189,1985,-11 %
+Nordre Strandvej 23 6731 Tjæreborg,23,558500.0,16-12-2014,Fam.,8865,2,Villa,63,1941,
+Kærhaven 12 6731 Tjæreborg,12,1070000.0,27-11-2014,Alm.,13209,3,Rækkehus,81,1981,-5 %
+Nordre Strandvej 1 6731 Tjæreborg,1,1650000.0,25-11-2014,Alm.,11702,7,Villa,141,1950,-4 %
+Sønderager 9 6731 Tjæreborg,9,663454.0,21-11-2014,Andet,5923,4,Villa,112,1977,
+Vestergårdsvej 7 6731 Tjæreborg,7,800000.0,14-11-2014,Alm.,6956,5,Villa,115,1928,-6 %
+Skolevej 4 6731 Tjæreborg,4,1150000.0,31-10-2014,Alm.,8455,4,Villa,136,1930,
+Sneum Kirkevej 14 6731 Tjæreborg,14,850000.0,31-10-2014,Alm.,8585,3,Villa,99,1968,-5 %
+Meldber 5 6731 Tjæreborg,5,900000.0,30-10-2014,Alm.,5487,7,Villa,164,1902,
+Sneumvej 233 6731 Tjæreborg,233,1625000.0,29-10-2014,Alm.,14130,4,Rækkehus,115,2006,0 %
+Østerkrog 22 6731 Tjæreborg,22,1925000.0,20-10-2014,Alm.,8953,6,Villa,215,1970,
+Poppelvænget 8 6731 Tjæreborg,8,1795000.0,14-10-2014,Alm.,12730,5,Villa,141,1968,-5 %
+Lillekrog 3 6731 Tjæreborg,3,1306000.0,09-10-2014,Alm.,8425,5,Villa,155,1970,-7 %
+Elmevej 9 6731 Tjæreborg,9,1248000.0,29-08-2014,Alm.,8606,6,Villa,145,1965,0 %
+Sneumvej 237 6731 Tjæreborg,237,1490000.0,21-07-2014,Alm.,12956,4,Rækkehus,115,2006,-7 %
+Vibehøjen 11 6731 Tjæreborg,11,1750000.0,17-07-2014,Alm.,10355,6,Villa,169,1966,-5 %
+Skolevej 30 6731 Tjæreborg,30,900000.0,14-07-2014,Alm.,5921,4,Villa,152,1916,
+Vossevangen 12 6731 Tjæreborg,12,875000.0,03-07-2014,Alm.,12867,3,Villa,68,1959,-3 %
+Peder Bertrams Vej 11 6731 Tjæreborg,11,1500000.0,16-06-2014,Alm.,10273,4,Villa,146,1977,-12 %
+Peder Hedes Vej 5 6731 Tjæreborg,5,2650000.0,04-06-2014,Alm.,15142,5,Villa,175,2007,-4 %
+Kærhaven 1D 6731 Tjæreborg,0,1380000.0,28-05-2014,Alm.,15681,3,Rækkehus,88,2014,
+Nordre Strandvej 2 6731 Tjæreborg,2,1074000.0,05-05-2014,Alm.,7782,4,Villa,138,1927,-2 %
+Sønderager 33 6731 Tjæreborg,33,1525000.0,02-05-2014,Alm.,10099,6,Villa,151,1977,-4 %
+Sønderager 8 6731 Tjæreborg,8,1305000.0,25-04-2014,Alm.,11972,4,Villa,109,1977,-7 %
+Jens Kusks Vej 17 6731 Tjæreborg,17,2220000.0,15-04-2014,Alm.,14050,5,Villa,158,1997,-1 %
+Niels Storgårds Vej 30 6731 Tjæreborg,30,3600000.0,10-04-2014,Alm.,18274,5,Villa,197,2009,-4 %
+Drosselkæret 14 6731 Tjæreborg,14,1340000.0,03-04-2014,Alm.,11858,4,Villa,113,1969,-4 %
+Tremhøjevej 18 6731 Tjæreborg,18,1275000.0,02-04-2014,Alm.,9659,4,Villa,132,1967,0 %
+Tjæreborg Stationsvej 13 6731 Tjæreborg,13,1136250.0,01-04-2014,Alm.,6141,5,Villa,185,1915,
+Granvænget 4 6731 Tjæreborg,4,1200000.0,31-03-2014,Alm.,12000,4,Villa,100,1965,-4 %
+J M Terkelsens Vej 4 6731 Tjæreborg,4,705000.0,25-03-2014,Alm.,6980,3,Villa,101,1952,-11 %
+Sneumvej 251 6731 Tjæreborg,251,660000.0,19-03-2014,Fam.,5739,4,Villa,115,2006,
+Vesterled 13 6731 Tjæreborg,13,891876.0,13-03-2014,Alm.,6462,5,Villa,138,1971,
+Nørremarksvej 10 6731 Tjæreborg,10,1041000.0,13-03-2014,Alm.,5688,8,Villa,183,1939,
+Kærhaven 6B 6731 Tjæreborg,0,1598000.0,24-02-2014,Alm.,14527,3,Rækkehus,110,2011,0 %
+Østre Strandvej 14 6731 Tjæreborg,14,860000.0,05-02-2014,Alm.,9450,3,Villa,91,1967,-4 %
+Nørremarksvej 5 6731 Tjæreborg,5,1450000.0,17-01-2014,Alm.,14948,4,Villa,97,1966,
+Jens Kusks Vej 14 6731 Tjæreborg,14,2125000.0,03-12-2013,Alm.,13449,5,Villa,158,2000,-5 %
+Peder Hedes Vej 6 6731 Tjæreborg,6,2600000.0,02-12-2013,Alm.,15028,5,Villa,173,2007,0 %
+Vestre Strandvej 18 6731 Tjæreborg,18,1250000.0,25-11-2013,Alm.,9842,5,Villa,127,1928,-7 %
+Vesterled 30 6731 Tjæreborg,30,1500000.0,22-11-2013,Alm.,11904,4,Villa,126,1973,
+Vestre Strandvej 26 6731 Tjæreborg,26,600000.0,21-11-2013,Auktion,6122,4,Villa,98,1906,-17 %
+Hans Silas Nielsens Vej 11 6731 Tjæreborg,11,1220000.0,17-11-2013,Alm.,0,5,Villa,189,1961,
+Lærkehøjen 1 6731 Tjæreborg,1,696823.0,08-11-2013,Alm.,4708,5,Villa,148,1965,
+Borggårdsvej 19 6731 Tjæreborg,19,1650000.0,31-10-2013,Alm.,10248,5,Villa,161,1920,-8 %
+Ejlif Krogagers Vej 52 6731 Tjæreborg,52,384560.0,31-10-2013,Alm.,2002,6,Villa,192,2014,
+Peder Hedes Vej 23 6731 Tjæreborg,23,2535000.0,23-10-2013,Alm.,13852,5,Villa,183,2007,-6 %
+Østerled 6 6731 Tjæreborg,6,1995000.0,21-10-2013,Alm.,12626,4,Villa,158,1964,0 %
+Jesper Justs Alle 7 6731 Tjæreborg,7,1400000.0,21-10-2013,Alm.,11111,5,Villa,126,1965,0 %
+J M Terkelsens Vej 5 6731 Tjæreborg,5,1206000.0,09-10-2013,Alm.,11166,3,Villa,108,1927,-7 %
+Skolevej 6 6731 Tjæreborg,6,1300000.0,07-10-2013,Alm.,10236,5,Villa,127,1925,-2 %
+Østerbyvej 50 6731 Tjæreborg,50,1500000.0,03-10-2013,Alm.,10135,5,Stuehus,148,1985,-17 %
+Nordre Strandvej 17 6731 Tjæreborg,17,679000.0,01-10-2013,Alm.,6928,4,Villa,98,1928,
+Engvej 19 6731 Tjæreborg,19,1250000.0,24-09-2013,Alm.,10162,4,Villa,123,1965,
+Klintholmvej 35 6731 Tjæreborg,35,1507275.0,23-09-2013,Alm.,8613,4,Stuehus,175,1900,
+Østre Strandvej 8 6731 Tjæreborg,8,650000.0,19-08-2013,Fam.,6500,3,Villa,100,1961,
+Sønderager 11 6731 Tjæreborg,11,1650000.0,15-08-2013,Alm.,11785,5,Villa,140,1977,-8 %
+Sønderbyvej 108 6731 Tjæreborg,108,1148000.0,31-07-2013,Alm.,8200,4,Villa,140,1958,0 %
+Nordre Strandvej 36 6731 Tjæreborg,36,725000.0,22-07-2013,Fam.,5410,6,Villa,134,1959,
+Vestre Strandvej 31 6731 Tjæreborg,31,805000.0,16-07-2013,Fam.,6145,4,Villa,131,1974,
+Ejlif Krogagers Vej 28 6731 Tjæreborg,28,454960.0,05-07-2013,Alm.,2345,6,Villa,194,2014,
+Ejlif Krogagers Vej 44 6731 Tjæreborg,44,473720.0,01-07-2013,Alm.,1780,4,Villa,266,2016,
+Vestre Strandvej 15 6731 Tjæreborg,15,1250000.0,28-06-2013,Alm.,0,5,Villa,265,1981,
+Lillekrog 5 6731 Tjæreborg,5,1100000.0,21-06-2013,Alm.,8148,5,Villa,135,1971,-21 %
+Solbjergvej 48 6731 Tjæreborg,48,795000.0,10-06-2013,Alm.,7644,4,Villa,104,1948,0 %
+Nordre Strandvej 30 6731 Tjæreborg,30,1230000.0,07-06-2013,Alm.,9179,5,Villa,134,1959,-5 %
+Østerkrog 18 6731 Tjæreborg,18,1350000.0,23-05-2013,Alm.,8881,5,Villa,152,1971,-10 %
+Vossevangen 7B 6731 Tjæreborg,0,1310000.0,08-05-2013,Alm.,10000,5,Villa,131,1953,-3 %
+Klintholmvej 45 6731 Tjæreborg,45,2220000.0,01-05-2013,Alm.,9061,6,Villa,245,1908,-7 %
+Sneum Kirkevej 12 6731 Tjæreborg,12,400000.0,18-04-2013,Alm.,1166,7,Villa,343,2014,
+Nørremarksvej 2 6731 Tjæreborg,2,3000000.0,17-04-2013,Alm.,12195,6,Villa,246,1940,
+Fyrrevænget 4 6731 Tjæreborg,4,1150000.0,05-04-2013,Alm.,9663,4,Villa,119,1967,0 %
+Skolevej 13 6731 Tjæreborg,13,855000.0,26-03-2013,Alm.,10822,3,Villa,79,1973,-4 %
+Østre Strandvej 16 6731 Tjæreborg,16,1235000.0,20-03-2013,Alm.,10040,4,Villa,123,1965,-17 %
+Nordre Strandvej 3 6731 Tjæreborg,3,720000.0,14-03-2013,Alm.,9350,3,Villa,77,1959,-20 %
+Ejlif Krogagers Vej 54 6731 Tjæreborg,54,391600.0,13-03-2013,Alm.,1618,6,Villa,242,2015,
+Hans Silas Nielsens Vej 17 6731 Tjæreborg,17,1325000.0,07-02-2013,Alm.,11134,3,Villa,119,1963,-5 %
+Kærhaven 14 6731 Tjæreborg,14,550000.0,24-01-2013,Alm.,4782,5,Rækkehus,115,1981,
+Elmevænget 3 6731 Tjæreborg,3,1500000.0,11-01-2013,Alm.,12000,4,Villa,125,1966,-6 %
+Ejlif Krogagers Vej 42 6731 Tjæreborg,42,489840.0,17-12-2012,Alm.,2041,6,Villa,240,2015,
+Niels Storgårds Vej 6 6731 Tjæreborg,6,1998000.0,07-12-2012,Alm.,15136,4,Villa,132,1999,0 %
+Kærhaven 1H 6731 Tjæreborg,0,1510190.0,07-12-2012,Alm.,15101,3,Rækkehus,100,2013,
+Niels Storgårds Vej 25 6731 Tjæreborg,25,3090000.0,06-12-2012,Alm.,14855,6,Villa,208,2003,
+Østerbyvej 23 6731 Tjæreborg,23,4200000.0,19-11-2012,Fam.,14482,6,Stuehus,290,2007,
+Krogsgårdsvej 38 6731 Tjæreborg,38,1947300.0,12-11-2012,Fam.,14864,5,Stuehus,131,1900,
+Kærvangen 9 6731 Tjæreborg,9,925000.0,08-11-2012,Alm.,3886,6,Villa,238,1956,
+Kærhaven 1C 6731 Tjæreborg,0,1298000.0,05-11-2012,Alm.,14750,3,Rækkehus,88,2013,
+Tremhøjevej 1 6731 Tjæreborg,1,1250000.0,09-10-2012,Alm.,9328,4,Villa,134,1971,-11 %
+Jens Kusks Vej 5 6731 Tjæreborg,5,1125000.0,20-09-2012,Alm.,9955,4,Villa,113,1876,-6 %
+Hasselvænget 12 6731 Tjæreborg,12,660000.0,13-09-2012,Alm.,7021,3,Villa,94,1963,-12 %
+Tårngårdsvej 5 6731 Tjæreborg,5,973000.0,06-09-2012,Fam.,5497,6,Villa,177,1912,
+Allerupvej 1 6731 Tjæreborg,1,1270000.0,31-08-2012,Alm.,10762,4,Villa,118,1875,-6 %
+Fasanhøjen 13 6731 Tjæreborg,13,1400000.0,31-08-2012,Alm.,7567,6,Villa,185,1962,-7 %
+Kærvej 4 6731 Tjæreborg,4,700000.0,23-08-2012,Alm.,7865,4,Villa,89,1962,-6 %
+Tremhøjevej 5 6731 Tjæreborg,5,771242.0,21-08-2012,Fam.,3818,7,Villa,202,1965,
+Drosselkæret 18 6731 Tjæreborg,18,1173000.0,10-08-2012,Alm.,12478,4,Villa,94,1969,-6 %
+Peder Hedes Vej 12 6731 Tjæreborg,12,537657.0,06-08-2012,Alm.,3424,6,Villa,157,2013,
+Peder Hedes Vej 22 6731 Tjæreborg,22,581000.0,06-08-2012,Alm.,3282,5,Villa,177,2013,
+Tjæreborg Stationsvej 23 6731 Tjæreborg,23,1030000.0,30-07-2012,Alm.,7923,4,Villa,130,1925,-6 %
+Sneumvej 235 6731 Tjæreborg,235,1550000.0,26-07-2012,Alm.,13478,4,Rækkehus,115,2006,-2 %
+Peder Bertrams Vej 9 6731 Tjæreborg,9,1075000.0,24-07-2012,Alm.,8811,4,Villa,122,1964,-2 %
+Vibehøjen 4 6731 Tjæreborg,4,1425000.0,09-07-2012,Alm.,9500,5,Villa,150,1965,-8 %
+Peder Bertrams Vej 5 6731 Tjæreborg,5,1100000.0,04-07-2012,Alm.,7096,5,Villa,155,1964,-10 %
+Vestre Strandvej 4 6731 Tjæreborg,4,1000000.0,02-07-2012,Alm.,8928,5,Villa,112,1924,-9 %
+Peder Hedes Vej 24 6731 Tjæreborg,24,536002.0,02-07-2012,Alm.,3134,5,Villa,171,2013,
+Peder Hedes Vej 26 6731 Tjæreborg,26,540000.0,27-06-2012,Alm.,3176,6,Villa,170,2014,
+Peder Hedes Vej 14 6731 Tjæreborg,14,583500.0,25-06-2012,Alm.,2917,8,Villa,200,2013,
+Ejlif Krogagers Vej 48 6731 Tjæreborg,48,477400.0,13-06-2012,Alm.,2112,8,Villa,226,2013,
+Sønderled 19 6731 Tjæreborg,19,1000000.0,30-05-2012,Alm.,5494,7,Villa,182,1979,
+Tjæreborg Stationsvej 34 6731 Tjæreborg,34,557594.0,21-05-2012,Alm.,4496,5,Villa,124,1920,
+Jesper Justs Alle 8 6731 Tjæreborg,8,1573000.0,14-05-2012,Alm.,11481,5,Villa,137,1965,
+Vossevangen 10 6731 Tjæreborg,10,1670000.0,23-04-2012,Alm.,12556,5,Villa,133,1952,-2 %
+Vesterled 5 6731 Tjæreborg,5,900000.0,17-04-2012,Fam.,5389,6,Villa,167,1986,
+Lærkehøjen 14 6731 Tjæreborg,14,1750000.0,03-04-2012,Alm.,10000,5,Villa,175,1966,-10 %
+Hasselvænget 7 6731 Tjæreborg,7,850000.0,02-04-2012,Alm.,8500,4,Villa,100,1965,-5 %
+Tårngårdsvej 11 6731 Tjæreborg,11,2400000.0,28-03-2012,Alm.,11059,7,Villa,217,1875,
+Sønderbyvej 116 6731 Tjæreborg,116,345000.0,22-03-2012,Alm.,2875,4,Villa,120,1787,
+Skolevej 34 6731 Tjæreborg,34,1750000.0,22-03-2012,Alm.,9459,9,Villa,185,1920,-12 %
+Klintholmvej 44 6731 Tjæreborg,44,300000.0,19-03-2012,Alm.,1875,5,Villa,160,1964,-80 %
+Solbjergvej 64 6731 Tjæreborg,64,6410000.0,13-03-2012,Fam.,30235,8,Stuehus,212,1971,
+Jens Kusks Vej 35 6731 Tjæreborg,35,2025000.0,12-03-2012,Alm.,14889,5,Villa,136,1998,-4 %
+Jens Kusks Vej 7 6731 Tjæreborg,7,1037694.0,15-02-2012,Alm.,7359,4,Villa,141,1998,-51 %
+Østerbyvej 14 6731 Tjæreborg,14,900000.0,03-02-2012,Alm.,0,5,Villa,171,1915,-10 %
+Ejlif Krogagers Vej 50 6731 Tjæreborg,50,476850.0,25-01-2012,Alm.,2496,8,Villa,191,2012,
+Fasanhøjen 19 6731 Tjæreborg,19,1610000.0,16-01-2012,Alm.,11338,5,Villa,142,1964,
+Lajgårdsvej 4 6731 Tjæreborg,4,690000.0,03-01-2012,Fam.,4058,5,Villa,170,2014,
+Østerbyvej 1 6731 Tjæreborg,1,1460000.0,28-12-2011,Alm.,8488,6,Villa,172,1973,-9 %
+Sønderager 24 6731 Tjæreborg,24,1500000.0,22-12-2011,Alm.,0,7,Villa,206,1977,
+Ejlif Krogagers Vej 40 6731 Tjæreborg,40,650000.0,20-12-2011,Alm.,3110,4,Villa,209,2015,
+Niels Storgårds Vej 40 6731 Tjæreborg,40,2498000.0,19-12-2011,Alm.,15910,5,Villa,157,2008,0 %
+Ejlif Krogagers Vej 30 6731 Tjæreborg,30,599928.0,14-12-2011,Alm.,3528,5,Villa,170,2013,
+Sønderbyvej 50 6731 Tjæreborg,50,808500.0,09-12-2011,Alm.,6033,5,Villa,134,1817,
+Engvej 9 6731 Tjæreborg,9,991000.0,02-12-2011,Alm.,5567,5,Villa,178,1969,-57 %
+Elmevænget 5 6731 Tjæreborg,5,950000.0,29-11-2011,Alm.,0,5,Villa,142,1966,0 %
+Klintholmvej 43 6731 Tjæreborg,43,3760000.0,22-11-2011,Alm.,21609,6,Stuehus,174,1976,
+Sønderbyvej 10 6731 Tjæreborg,10,1665000.0,17-11-2011,Alm.,10811,5,Villa,154,1906,-9 %
+Østerbyvej 32D 6731 Tjæreborg,0,2550000.0,28-10-2011,Alm.,15454,5,Villa,165,2003,-10 %
+Meldber 1 6731 Tjæreborg,1,1050000.0,21-10-2011,Alm.,8076,4,Villa,130,1969,
+Vossevangen 1 6731 Tjæreborg,1,750000.0,10-10-2011,Alm.,9259,3,Villa,81,1942,
+Fasanhøjen 21 6731 Tjæreborg,21,875000.0,14-09-2011,Fam.,3431,7,Villa,255,1964,
+Krogsgårdsvej 41 6731 Tjæreborg,41,1100000.0,25-08-2011,Alm.,8593,4,Villa,128,2012,-27 %
+Poppelvænget 4 6731 Tjæreborg,4,1075000.0,18-08-2011,Alm.,10750,4,Villa,100,1966,0 %
+Allerupvej 2 6731 Tjæreborg,2,580705.0,16-08-2011,Fam.,2752,6,Villa,211,1930,
+Pilevænget 11 6731 Tjæreborg,11,1170000.0,11-08-2011,Alm.,9831,4,Villa,119,1963,-2 %
+Vesterled 11 6731 Tjæreborg,11,1823000.0,25-07-2011,Alm.,11761,5,Villa,155,1972,0 %
+Hulvej 11 6731 Tjæreborg,11,424329.0,13-07-2011,Alm.,3394,4,Villa,125,1979,
+Skolevej 29 6731 Tjæreborg,29,713000.0,01-07-2011,Andet,5021,5,Villa,142,1910,
+Skolevej 43 6731 Tjæreborg,43,1298000.0,15-06-2011,Alm.,11094,4,Villa,117,1860,0 %
+Peder Hedes Vej 4 6731 Tjæreborg,4,2550000.0,08-06-2011,Alm.,15644,5,Villa,163,2007,-4 %
+Sønderager 25 6731 Tjæreborg,25,1385000.0,24-05-2011,Alm.,11446,5,Villa,121,1977,-4 %
+Krogsgårdsvej 36 6731 Tjæreborg,36,1190000.0,22-05-2011,Alm.,5979,5,Villa,199,1802,
+Vestre Strandvej 9 6731 Tjæreborg,9,1283000.0,05-05-2011,Auktion,7373,6,Villa,174,1900,
+Nordre Strandvej 7 6731 Tjæreborg,7,552590.0,28-04-2011,Alm.,5878,5,Villa,94,1909,
+Nørreled 6 6731 Tjæreborg,6,1948000.0,18-04-2011,Alm.,12487,6,Villa,156,1986,-15 %
+Nyvej 6 6731 Tjæreborg,6,912000.0,13-04-2011,Alm.,10133,4,Villa,90,1960,1 %
+Peder Hedes Vej 43 6731 Tjæreborg,43,2700000.0,11-04-2011,Alm.,15000,5,Villa,180,2009,-4 %
+Tradsborgvej 59 6731 Tjæreborg,59,285000.0,08-04-2011,Alm.,1255,4,Villa,227,2012,
+Tremhøjevej 11 6731 Tjæreborg,11,774000.0,07-04-2011,Alm.,5819,5,Villa,133,1965,-52 %
+Vibehøjen 8 6731 Tjæreborg,8,1520000.0,06-04-2011,Alm.,12357,4,Villa,123,1967,-5 %
+Krogsgårdsvej 26 6731 Tjæreborg,26,700000.0,06-04-2011,Alm.,6730,3,Stuehus,104,1927,
+Niels Storgårds Vej 1A 6731 Tjæreborg,0,418300.0,30-03-2011,Alm.,3098,4,Villa,135,2011,
+Engvej 15 6731 Tjæreborg,15,1498000.0,03-03-2011,Alm.,12483,5,Villa,120,1998,-12 %
+Tremhøjevej 35 6731 Tjæreborg,35,1425000.0,17-02-2011,Alm.,8850,5,Villa,161,1971,-16 %
+Sønderled 13 6731 Tjæreborg,13,1102500.0,03-02-2011,Fam.,6562,4,Villa,168,1981,
+Østerbyvej 6 6731 Tjæreborg,6,2204320.0,01-02-2011,Alm.,14995,4,Stuehus,147,1906,
+Niels Storgårds Vej 31 6731 Tjæreborg,31,3240000.0,26-01-2011,Alm.,14660,7,Villa,221,2006,-5 %
+Peder Hedes Vej 29 6731 Tjæreborg,29,400000.0,10-12-2010,Alm.,2597,5,Villa,154,2013,
+Gl Skolevej 25 6731 Tjæreborg,25,2645000.0,09-12-2010,Andet,13921,5,Stuehus,190,1903,
+Engvej 16 6731 Tjæreborg,16,1548000.0,23-11-2010,Alm.,12585,4,Villa,123,1964,0 %
+Engvej 17 6731 Tjæreborg,17,450000.0,16-10-2010,Alm.,2432,5,Villa,185,2012,
+Engvej 5 6731 Tjæreborg,5,837623.0,13-10-2010,Fam.,6980,4,Villa,120,1999,
+Hans Silas Nielsens Vej 22 6731 Tjæreborg,22,1400000.0,06-10-2010,Alm.,11200,4,Villa,125,1962,-3 %
+Sønderbyvej 47 6731 Tjæreborg,47,100000.0,16-09-2010,Alm.,500,7,Villa,200,1913,
+Peder Hedes Vej 37 6731 Tjæreborg,37,501019.0,09-09-2010,Alm.,2783,5,Villa,180,2011,
+Hulvej 19 6731 Tjæreborg,19,11712800.0,27-08-2010,Alm.,0,0,Fritid,0,2016,
+Tradsborgvej 1 6731 Tjæreborg,1,2125000.0,10-08-2010,Alm.,13281,5,Villa,160,1994,-3 %
+Nyvej 8 6731 Tjæreborg,8,1225000.0,05-08-2010,Alm.,10652,4,Villa,115,1964,-6 %
+Karl Jensens Vej 9 6731 Tjæreborg,9,1775000.0,22-07-2010,Alm.,9916,5,Villa,179,1932,0 %
+Jesper Justs Alle 5 6731 Tjæreborg,5,1000000.0,02-07-2010,Alm.,9708,4,Villa,103,1969,0 %
+Drosselkæret 7 6731 Tjæreborg,7,1300000.0,02-07-2010,Alm.,11504,4,Villa,113,1968,-4 %
+Kærhaven 16 6731 Tjæreborg,16,1385000.0,25-06-2010,Alm.,12043,4,Rækkehus,115,1981,-1 %
+Skolevej 12 6731 Tjæreborg,12,900000.0,18-06-2010,Alm.,11250,4,Villa,80,1897,
+Gl Skolevej 40 6731 Tjæreborg,40,3978000.0,17-06-2010,Fam.,25664,6,Stuehus,155,1801,
+Lærkehøjen 6 6731 Tjæreborg,6,1100000.0,25-05-2010,Alm.,8527,4,Villa,129,1968,-15 %
+Drosselkæret 11 6731 Tjæreborg,11,1850000.0,17-05-2010,Alm.,11349,7,Villa,163,1968,-10 %
+Hans Silas Nielsens Vej 18 6731 Tjæreborg,18,1075000.0,11-05-2010,Alm.,12078,3,Villa,89,1961,
+Østerled 12 6731 Tjæreborg,12,1375000.0,10-05-2010,Alm.,10912,5,Villa,126,1968,-7 %
+Jens Kusks Vej 9 6731 Tjæreborg,9,2250000.0,04-05-2010,Alm.,15625,5,Villa,144,1998,
+Krogsgårdsvej 1 6731 Tjæreborg,1,2200000.0,29-04-2010,Alm.,8301,5,Villa,265,1954,-4 %
+Granvænget 11 6731 Tjæreborg,11,1698000.0,06-04-2010,Alm.,8490,5,Villa,200,1971,
+Gl Skolevej 23 6731 Tjæreborg,23,1350000.0,31-03-2010,Alm.,0,9,Villa,236,1920,-15 %
+Sønderbyvej 102 6731 Tjæreborg,102,1298000.0,12-03-2010,Alm.,11908,3,Villa,109,1943,0 %
+Meldber 6 6731 Tjæreborg,6,1275000.0,12-03-2010,Alm.,8173,6,Villa,156,1970,-9 %
+Klintholmvej 26 6731 Tjæreborg,26,296300.0,10-03-2010,Alm.,2408,3,Villa,123,1959,
+Tremhøjevej 13 6731 Tjæreborg,13,1398000.0,04-03-2010,Alm.,10753,4,Villa,130,1964,0 %
+Tradsborgvej 61 6731 Tjæreborg,61,1750000.0,22-02-2010,Alm.,16666,4,Stuehus,105,1890,
+Granvænget 10 6731 Tjæreborg,10,1573000.0,22-02-2010,Alm.,8690,6,Villa,181,1969,-5 %
+Østerkrog 12 6731 Tjæreborg,12,1625000.0,27-01-2010,Fam.,8552,6,Villa,190,1970,
+Kærhaven 7 6731 Tjæreborg,7,600000.0,26-01-2010,Alm.,3921,4,Villa,153,2010,
+Tårngårdsvej 12 6731 Tjæreborg,12,749000.0,13-01-2010,Alm.,4231,8,Villa,177,1865,
+J M Terkelsens Vej 24 6731 Tjæreborg,24,1265000.0,11-01-2010,Alm.,8377,4,Villa,151,1977,-3 %
+J M Terkelsens Vej 22 6731 Tjæreborg,22,750000.0,23-11-2009,Alm.,0,10,Villa,298,1926,
+Vestergårds Alle 4 6731 Tjæreborg,4,575836.0,16-11-2009,Fam.,5141,4,Villa,112,1000,
+Vibehøjen 10 6731 Tjæreborg,10,1900000.0,24-10-2009,Alm.,10160,5,Villa,187,1967,
+Sønderager 28 6731 Tjæreborg,28,900000.0,24-10-2009,Andet,4812,6,Villa,187,1977,
+Jesper Justs Alle 10 6731 Tjæreborg,10,1598000.0,08-10-2009,Alm.,0,6,Villa,169,1968,0 %
+Nørreled 25 6731 Tjæreborg,25,1848000.0,08-10-2009,Alm.,9333,7,Villa,198,1987,-3 %
+Niels Storgårds Vej 22 6731 Tjæreborg,22,462667.0,07-10-2009,Alm.,2435,4,Villa,190,2011,
+Lærkehøjen 10 6731 Tjæreborg,10,1460000.0,15-09-2009,Alm.,7765,5,Villa,188,1969,-11 %
+Kærhaven 5 6731 Tjæreborg,5,550000.0,04-09-2009,Alm.,4198,4,Villa,131,2012,
+Hulvej 39 6731 Tjæreborg,39,800000.0,13-08-2009,Andet,4347,5,Villa,184,1928,
+Peder Hedes Vej 7 6731 Tjæreborg,7,469340.0,11-08-2009,Alm.,2431,6,Villa,193,2010,
+Sønderbyvej 52 6731 Tjæreborg,52,1550000.0,10-08-2009,Alm.,14485,4,Villa,107,1877,-9 %
+Sønderled 11 6731 Tjæreborg,11,1300000.0,24-07-2009,Alm.,10156,4,Villa,128,1982,-3 %
+Jens Kusks Vej 1 6731 Tjæreborg,1,1200000.0,13-07-2009,Alm.,0,5,Villa,182,1871,0 %
+Nordre Strandvej 63 6731 Tjæreborg,63,1230000.0,10-07-2009,Alm.,10081,5,Villa,122,1964,-14 %
+Østerkrog 27 6731 Tjæreborg,27,1830000.0,27-06-2009,Alm.,9838,6,Villa,186,1969,-3 %
+Niels Storgårds Vej 26 6731 Tjæreborg,26,3542250.0,24-06-2009,Alm.,20475,4,Villa,173,2009,
+Østerbyvej 15 6731 Tjæreborg,15,750000.0,20-06-2009,Alm.,8823,3,Villa,85,1912,
+Niels Storgårds Vej 48 6731 Tjæreborg,48,659025.0,26-05-2009,Alm.,4576,5,Villa,144,2010,-66 %
+Østerkrog 16 6731 Tjæreborg,16,2098000.0,22-05-2009,Alm.,11042,5,Villa,190,1969,0 %
+Niels Storgårds Vej 52 6731 Tjæreborg,52,1250000.0,27-04-2009,Fam.,8223,5,Villa,152,2008,
+Vestre Strandvej 1 6731 Tjæreborg,1,808000.0,27-04-2009,Alm.,8505,3,Villa,95,1960,1 %
+Peder Hedes Vej 25 6731 Tjæreborg,25,421000.0,20-04-2009,Alm.,2378,6,Villa,177,2010,
+Jens Kusks Vej 28 6731 Tjæreborg,28,1020000.0,10-04-2009,Fam.,6000,6,Villa,170,2003,
+Østerbyvej 28 6731 Tjæreborg,28,3131500.0,06-04-2009,Alm.,14983,5,Villa,209,1752,
+Tremhøjevej 41 6731 Tjæreborg,41,1875000.0,27-03-2009,Alm.,11160,5,Villa,168,1986,-6 %
+Tradsborgvej 22 6731 Tjæreborg,22,1830000.0,23-02-2009,Fam.,0,8,Stuehus,299,1917,
+Krogsgårdsvej 13 6731 Tjæreborg,13,614260.0,28-01-2009,Alm.,4761,4,Stuehus,129,1853,
+Pilevænget 9 6731 Tjæreborg,9,1100000.0,16-01-2009,Alm.,10476,4,Villa,105,1964,-15 %
+Hedegade 2 6731 Tjæreborg,2,1382176.0,30-11-2008,Fam.,0,6,Stuehus,250,1978,
+Borggårdsvej 17 6731 Tjæreborg,17,2200000.0,25-11-2008,Alm.,0,6,Villa,246,1981,
+Tremhøjevej 29 6731 Tjæreborg,29,1390000.0,20-11-2008,Alm.,11120,5,Villa,125,1968,-7 %
+Jens Kusks Vej 39 6731 Tjæreborg,39,2350000.0,10-11-2008,Alm.,14329,5,Villa,164,1998,
+Niels Storgårds Vej 44 6731 Tjæreborg,44,2520000.0,10-11-2008,Alm.,16050,5,Villa,157,2008,
+Sønderager 22 6731 Tjæreborg,22,1232500.0,04-11-2008,Fam.,10020,4,Villa,123,1979,
+Niels Storgårds Vej 46 6731 Tjæreborg,46,752233.0,30-10-2008,Alm.,4853,5,Villa,155,2010,
+Vestergårds Alle 5 6731 Tjæreborg,5,1250000.0,24-10-2008,Alm.,8445,7,Stuehus,148,1888,
+Vestre Strandvej 17 6731 Tjæreborg,17,695000.0,10-10-2008,Alm.,0,6,Villa,207,1900,-23 %
+Jens Kusks Vej 57 6731 Tjæreborg,57,400000.0,01-10-2008,Fam.,2816,5,Villa,142,1900,
+Østerbyvej 22 6731 Tjæreborg,22,1390000.0,16-09-2008,Alm.,10296,8,Rækkehus,135,1978,
+Vestre Strandvej 19 6731 Tjæreborg,19,1400000.0,10-09-2008,Alm.,10447,6,Villa,134,1910,-5 %
+Lærkehøjen 13 6731 Tjæreborg,13,1790000.0,20-08-2008,Alm.,14552,4,Villa,123,1967,-3 %
+J M Terkelsens Vej 6 6731 Tjæreborg,6,558000.0,07-08-2008,Alm.,7750,3,Villa,72,1943,-60 %
+Granvænget 1 6731 Tjæreborg,1,1500000.0,06-08-2008,Alm.,12195,4,Villa,123,1965,
+Østerkrog 37 6731 Tjæreborg,37,1398000.0,05-08-2008,Alm.,10057,5,Villa,139,1970,0 %
+Sneum Kirkevej 2 6731 Tjæreborg,2,1943000.0,10-07-2008,Alm.,18682,4,Villa,104,1907,
+Sneum Kirkevej 17 6731 Tjæreborg,17,6000000.0,07-07-2008,Alm.,41666,5,Stuehus,144,1914,
+Sneumvej 253 6731 Tjæreborg,253,1585000.0,03-07-2008,Alm.,13782,4,Villa,115,2006,-4 %
+Tjæreborg Stationsvej 7 6731 Tjæreborg,7,1050000.0,24-06-2008,Alm.,9292,4,Villa,113,1927,-4 %
+Peder Hedes Vej 39 6731 Tjæreborg,39,581000.0,24-06-2008,Alm.,2919,6,Villa,199,2009,
+Sneumvej 58 6731 Tjæreborg,58,383686.0,19-06-2008,Alm.,2131,5,Villa,180,2010,
+Vestre Strandvej 21 6731 Tjæreborg,21,1600000.0,06-06-2008,Alm.,12030,4,Villa,133,1970,
+Niels Storgårds Vej 50 6731 Tjæreborg,50,377000.0,03-06-2008,Alm.,2416,5,Villa,156,2009,
+Sønderbyvej 38 6731 Tjæreborg,38,117285.0,03-06-2008,Alm.,797,5,Stuehus,147,1802,
+Nordre Strandvej 41B 6731 Tjæreborg,0,850000.0,02-06-2008,Alm.,4802,5,Villa,177,1989,
+Niels Storgårds Vej 32 6731 Tjæreborg,32,747076.0,29-05-2008,Alm.,4698,5,Villa,159,2009,
+Peder Hedes Vej 33 6731 Tjæreborg,33,377235.0,26-05-2008,Alm.,2168,5,Villa,174,2009,
+Østre Strandvej 3 6731 Tjæreborg,3,1700000.0,20-05-2008,Alm.,10759,5,Villa,158,1968,
+Tjæreborg Stationsvej 31 6731 Tjæreborg,31,2100000.0,19-05-2008,Alm.,16535,5,Villa,127,1912,-3 %
+Hasselvænget 13 6731 Tjæreborg,13,692629.0,27-04-2008,Andet,5207,5,Villa,133,1965,
+Tremhøjevej 16 6731 Tjæreborg,16,1298000.0,22-04-2008,Alm.,9984,5,Villa,130,1965,0 %
+Peder Hedes Vej 41 6731 Tjæreborg,41,334075.0,21-04-2008,Alm.,1942,5,Villa,172,2009,
+Peder Hedes Vej 35 6731 Tjæreborg,35,342375.0,15-04-2008,Alm.,1662,6,Villa,206,2010,
+Fælledvej 6 6731 Tjæreborg,6,1075000.0,10-04-2008,Alm.,13271,3,Rækkehus,81,2003,-6 %
+Gl Skolevej 47 6731 Tjæreborg,47,2715000.0,30-03-2008,Alm.,11553,7,Villa,235,1973,
+Krogsgårdsvej 16 6731 Tjæreborg,16,450000.0,06-03-2008,Alm.,1859,6,Stuehus,242,1961,
+Tradsborgvej 44 6731 Tjæreborg,44,1075000.0,04-03-2008,Alm.,0,6,Villa,234,1925,-17 %
+Balsbyvej 2 6731 Tjæreborg,2,1720000.0,04-03-2008,Alm.,10750,5,Villa,160,1957,-4 %
+J M Terkelsens Vej 13 6731 Tjæreborg,13,1750000.0,15-02-2008,Alm.,8064,9,Villa,217,1942,
+Østerbyvej 19 6731 Tjæreborg,19,1200000.0,14-02-2008,Alm.,7843,6,Villa,153,1978,
+Klintholmvej 31 6731 Tjæreborg,31,1460000.0,14-02-2008,Alm.,6822,6,Villa,214,1901,-3 %
+Østerkrog 19 6731 Tjæreborg,19,1970000.0,12-02-2008,Alm.,10207,7,Villa,193,1972,-1 %
+Sønderled 21 6731 Tjæreborg,21,355333.0,12-02-2008,Andet,2912,4,Villa,122,1979,
+Jens Kusks Vej 37 6731 Tjæreborg,37,1975000.0,08-02-2008,Alm.,14738,5,Villa,134,1997,
+Solbjergvej 54 6731 Tjæreborg,54,4885000.0,04-02-2008,Fam.,34892,5,Stuehus,140,1880,
+Jens Kusks Vej 6 6731 Tjæreborg,6,2460000.0,02-02-2008,Alm.,16400,5,Villa,150,2004,-2 %
+Tjæreborg Stationsvej 25 6731 Tjæreborg,25,1375000.0,28-01-2008,Alm.,7513,4,Villa,183,1919,
+Vestergårdsvej 14 6731 Tjæreborg,14,1093000.0,01-01-2008,Alm.,7590,5,Villa,144,1916,-5 %
+Tjæreborgvej 188 6731 Tjæreborg,188,4500000.0,21-12-2007,Alm.,45000,5,Stuehus,100,1877,
+Niels Storgårds Vej 34 6731 Tjæreborg,34,457500.0,10-12-2007,Alm.,2089,6,Villa,219,2009,
+Skolevej 48 6731 Tjæreborg,48,1110000.0,20-11-2007,Alm.,13058,3,Villa,85,1957,
+Niels Storgårds Vej 28 6731 Tjæreborg,28,376381.0,13-11-2007,Alm.,1863,7,Villa,202,2008,
+Nørreled 22 6731 Tjæreborg,22,2664000.0,12-11-2007,Alm.,0,6,Villa,172,1987,
+Nørremarksvej 6 6731 Tjæreborg,6,875000.0,07-11-2007,Alm.,3556,5,Stuehus,246,2009,
+Vesterled 38 6731 Tjæreborg,38,2060000.0,22-10-2007,Alm.,12189,5,Villa,169,1973,
+Tradsborgvej 36 6731 Tjæreborg,36,925000.0,12-10-2007,Alm.,11419,3,Villa,81,1947,0 %
+Balsbyvej 7 6731 Tjæreborg,7,1425000.0,08-10-2007,Alm.,11776,4,Villa,121,1960,
+Østre Strandvej 34 6731 Tjæreborg,34,1598000.0,28-09-2007,Alm.,12582,4,Villa,127,1987,
+Jens Kusks Vej 20 6731 Tjæreborg,20,2398000.0,25-08-2007,Alm.,13032,5,Villa,184,1907,0 %
+Tradsborgvej 58 6731 Tjæreborg,58,900000.0,29-07-2007,Fam.,5202,5,Villa,173,1974,
+Kærvej 20 6731 Tjæreborg,20,1798000.0,24-07-2007,Alm.,16345,4,Villa,110,1960,0 %
+Peder Bertrams Vej 7 6731 Tjæreborg,7,1398000.0,20-07-2007,Alm.,11459,4,Villa,122,1968,
+Sønderbyvej 25 6731 Tjæreborg,25,1566952.0,16-07-2007,Alm.,10377,6,Villa,151,1897,
+Fasanhøjen 7 6731 Tjæreborg,7,1498000.0,06-06-2007,Alm.,9421,5,Villa,159,1965,
+Peder Hedes Vej 13 6731 Tjæreborg,13,619000.0,04-06-2007,Alm.,3049,5,Villa,203,2008,
+Spurvehøjen 12 6731 Tjæreborg,12,1715000.0,04-06-2007,Alm.,10521,6,Villa,163,1969,-2 %
+Vesterled 35 6731 Tjæreborg,35,750000.0,04-06-2007,Fam.,5244,4,Villa,143,1978,
+Vestergårdsvej 5 6731 Tjæreborg,5,724000.0,28-05-2007,Alm.,8227,4,Villa,88,1910,
+Tradsborgvej 76 6731 Tjæreborg,76,2260000.0,20-05-2007,Alm.,9112,7,Villa,248,1917,
+Lærkehøjen 4 6731 Tjæreborg,4,1320000.0,10-04-2007,Alm.,12815,4,Villa,103,1965,
+Vibehøjen 12 6731 Tjæreborg,12,1210000.0,10-04-2007,Alm.,0,6,Villa,156,1966,-1 %
+Solbjerg Plantagevej 5 6731 Tjæreborg,5,2296675.0,30-03-2007,Alm.,12087,6,Villa,190,1935,
+Balsbyvej 10 6731 Tjæreborg,10,1748000.0,12-03-2007,Alm.,9820,6,Villa,178,1964,
+Sneumvej 239 6731 Tjæreborg,239,1550000.0,02-03-2007,Alm.,13478,4,Rækkehus,115,2006,
+Engvej 18 6731 Tjæreborg,18,1438000.0,28-02-2007,Alm.,11691,4,Villa,123,1964,
+Kærvangen 12 6731 Tjæreborg,12,1258000.0,20-02-2007,Alm.,13673,4,Villa,92,1952,
+Tradsborgvej 3 6731 Tjæreborg,3,1275000.0,20-02-2007,Alm.,9807,4,Villa,130,1962,
+Østerbyvej 24 6731 Tjæreborg,24,1398000.0,19-02-2007,Alm.,10355,4,Rækkehus,135,1978,
+Lillekrog 23 6731 Tjæreborg,23,1325000.0,01-02-2007,Alm.,11422,4,Villa,116,1970,
+Tjæreborg Stationsvej 19 6731 Tjæreborg,19,750000.0,29-01-2007,Alm.,9036,6,Villa,83,1929,
+Pilevænget 8 6731 Tjæreborg,8,1675000.0,15-01-2007,Alm.,9254,6,Villa,181,1964,
+Fælledvej 4 6731 Tjæreborg,4,1525000.0,05-12-2006,Alm.,8714,4,Villa,175,1964,
+Pilevænget 1 6731 Tjæreborg,1,1020000.0,01-11-2006,Fam.,5795,6,Villa,176,1969,
+Skolevej 20 6731 Tjæreborg,20,1948000.0,30-10-2006,Alm.,11878,6,Villa,164,1932,
+Skolevej 27 6731 Tjæreborg,27,1680800.0,27-10-2006,Alm.,11434,4,Villa,147,1986,
+Sneumvej 6 6731 Tjæreborg,6,1948000.0,24-10-2006,Alm.,12567,7,Villa,155,1878,
+Østerbyvej 17A 6731 Tjæreborg,0,151810.0,16-10-2006,Fam.,937,5,Villa,162,2006,
+Lærkehøjen 16 6731 Tjæreborg,16,516000.0,30-08-2006,Fam.,4566,5,Villa,113,1966,
+Vestergårdsvej 11 6731 Tjæreborg,11,1050000.0,14-08-2006,Alm.,12068,3,Villa,87,1907,
+Hans Silas Nielsens Vej 16 6731 Tjæreborg,16,510000.0,04-08-2006,Fam.,4857,4,Villa,105,1965,
+Kærvej 24 6731 Tjæreborg,24,1148000.0,28-07-2006,Alm.,11366,4,Villa,101,1960,
+Østre Strandvej 40 6731 Tjæreborg,40,1260000.0,27-07-2006,Alm.,10862,5,Villa,116,1925,
+J M Terkelsens Vej 2 6731 Tjæreborg,2,1500000.0,24-07-2006,Alm.,12500,5,Villa,120,1926,
+Tradsborgvej 2 6731 Tjæreborg,2,475000.0,05-06-2006,Fam.,4094,4,Villa,116,1963,
+Østerled 10 6731 Tjæreborg,10,1345000.0,23-05-2006,Alm.,9539,5,Villa,141,1970,
+Lundevej 2 6731 Tjæreborg,2,1500000.0,03-05-2006,Alm.,0,8,Villa,261,1888,
+Spurvehøjen 5 6731 Tjæreborg,5,1088000.0,30-03-2006,Alm.,0,7,Villa,189,1969,
+Tjæreborg Stationsvej 17 6731 Tjæreborg,17,675000.0,27-03-2006,Alm.,2732,7,Villa,247,1928,
+Vestergårdsvej 16 6731 Tjæreborg,16,1198000.0,24-03-2006,Alm.,8094,5,Villa,148,1925,
+Nørreled 21 6731 Tjæreborg,21,1250000.0,09-03-2006,Alm.,0,5,Villa,176,1986,
+Vibehøjen 1 6731 Tjæreborg,1,1350000.0,05-03-2006,Alm.,7848,6,Villa,172,1966,
+Vesterled 16 6731 Tjæreborg,16,1520000.0,01-03-2006,Alm.,11259,4,Villa,135,1971,
+Kærvej 18 6731 Tjæreborg,18,998000.0,17-02-2006,Alm.,10731,4,Villa,93,1960,
+Hans Silas Nielsens Vej 4 6731 Tjæreborg,4,1123000.0,13-02-2006,Alm.,11118,3,Villa,101,1961,
+Vossevangen 11 6731 Tjæreborg,11,610000.0,02-02-2006,Fam.,0,6,Villa,177,1952,
+Kærhaven 15 6731 Tjæreborg,15,1000000.0,26-01-2006,Alm.,7575,4,Rækkehus,132,1982,
+Østerbyvej 17 6731 Tjæreborg,17,1600000.0,14-01-2006,Alm.,8000,6,Villa,200,1896,
+Krogsgårdsvej 24 6731 Tjæreborg,24,1752000.0,12-01-2006,Alm.,8984,5,Villa,195,1877,
+Fyrrevænget 2 6731 Tjæreborg,2,1223000.0,12-01-2006,Alm.,9629,4,Villa,127,1966,
+Østerled 8 6731 Tjæreborg,8,905000.0,22-12-2005,Alm.,7240,5,Villa,125,1964,
+Vestre Strandvej 3 6731 Tjæreborg,3,898000.0,14-12-2005,Alm.,13205,2,Villa,68,1957,
+Tårngårdsvej 21 6731 Tjæreborg,21,2833000.0,02-12-2005,Alm.,18044,6,Stuehus,157,1935,
+Hans Silas Nielsens Vej 1 6731 Tjæreborg,1,1145000.0,14-11-2005,Alm.,7633,7,Villa,150,1961,
+Nordre Strandvej 32 6731 Tjæreborg,32,500000.0,31-10-2005,Fam.,3759,4,Villa,133,1960,
+Solbjergvej 53 6731 Tjæreborg,53,1646956.0,23-09-2005,Alm.,11680,5,Villa,141,1942,
+Tremhøjevej 26 6731 Tjæreborg,26,1361321.0,22-09-2005,Alm.,9260,5,Villa,147,1969,
+Tjæreborgvej 189 6731 Tjæreborg,189,1523000.0,30-08-2005,Alm.,8958,6,Villa,170,1950,
+Vestre Strandvej 23 6731 Tjæreborg,23,740000.0,22-08-2005,Alm.,6607,5,Villa,112,1924,
+Krogsgårdsvej 53 6731 Tjæreborg,53,1435000.0,19-08-2005,Alm.,10105,6,Villa,142,1910,
+Fasanhøjen 18 6731 Tjæreborg,18,1198000.0,15-08-2005,Alm.,8377,5,Villa,143,1969,
+Hasselvænget 1 6731 Tjæreborg,1,1330000.0,04-07-2005,Alm.,0,7,Villa,202,1968,
+Østerbyvej 16 6731 Tjæreborg,16,998000.0,29-06-2005,Alm.,6397,6,Villa,156,1903,
+Skolevej 9 6731 Tjæreborg,9,1450000.0,01-06-2005,Alm.,8381,5,Villa,173,1908,
+Tradsborgvej 19 6731 Tjæreborg,19,663775.0,12-05-2005,Alm.,2676,6,Villa,248,2008,
+Jens Kusks Vej 51 6731 Tjæreborg,51,302000.0,25-04-2005,Alm.,1797,5,Villa,168,2005,
+Sønderager 12 6731 Tjæreborg,12,1104607.0,08-04-2005,Alm.,9862,4,Villa,112,1977,
+Tradsborgvej 66 6731 Tjæreborg,66,420000.0,19-02-2005,Fam.,4666,3,Villa,90,1948,
+Fasanhøjen 14 6731 Tjæreborg,14,850000.0,03-02-2005,Alm.,0,7,Villa,177,1964,
+Lindingvadvej 11 6731 Tjæreborg,11,602732.0,29-01-2005,Alm.,5195,5,Villa,116,1963,
+Jesper Justs Alle 1 6731 Tjæreborg,1,1068000.0,09-01-2005,Alm.,8974,4,Villa,119,1973,
+Jens Kusks Vej 11 6731 Tjæreborg,11,1375000.0,02-12-2004,Alm.,10912,5,Villa,126,1997,
+Nordre Strandvej 37A 6731 Tjæreborg,0,1245000.0,22-10-2004,Alm.,9576,6,Villa,130,1990,
+Vesterled 7 6731 Tjæreborg,7,1351000.0,20-10-2004,Alm.,8089,7,Villa,167,1972,
+Lillekrog 4 6731 Tjæreborg,4,1275000.0,29-09-2004,Alm.,8069,5,Villa,158,1970,
+J M Terkelsens Vej 10 6731 Tjæreborg,10,1385000.0,24-08-2004,Alm.,0,6,Villa,171,1995,
+Fasanhøjen 9 6731 Tjæreborg,9,1560000.0,23-08-2004,Alm.,7500,6,Villa,208,1964,
+Balsbyvej 9 6731 Tjæreborg,9,610733.0,16-08-2004,Alm.,4885,5,Villa,125,1961,
+Niels Storgårds Vej 8 6731 Tjæreborg,8,1578000.0,10-08-2004,Alm.,0,7,Villa,166,1998,
+Hans Silas Nielsens Vej 14 6731 Tjæreborg,14,798000.0,02-08-2004,Alm.,7673,4,Villa,104,1962,
+Klintholmvej 9 6731 Tjæreborg,9,1025000.0,28-06-2004,Alm.,7068,5,Villa,145,1924,
+Tremhøjevej 23 6731 Tjæreborg,23,1060000.0,20-06-2004,Alm.,7210,6,Villa,147,1969,
+Krogsgårdsvej 43 6731 Tjæreborg,43,276250.0,27-04-2004,Fam.,2402,5,Villa,115,1955,
+Tremhøjevej 19 6731 Tjæreborg,19,825000.0,19-04-2004,Alm.,7173,4,Villa,115,1968,
+Lindingvadvej 16 6731 Tjæreborg,16,1800000.0,06-04-2004,Fam.,7058,6,Stuehus,255,2005,
+Lærkehøjen 8 6731 Tjæreborg,8,1195000.0,29-03-2004,Alm.,4979,6,Villa,240,1967,
+Jens Kusks Vej 12 6731 Tjæreborg,12,1302323.0,22-03-2004,Alm.,0,4,Villa,131,2004,
+Hasselvænget 10 6731 Tjæreborg,10,870000.0,23-02-2004,Alm.,8700,4,Villa,100,1965,
+Fælledvej 1 6731 Tjæreborg,1,610000.0,18-02-2004,Alm.,3674,5,Villa,166,1885,
+Jens Kusks Vej 4 6731 Tjæreborg,4,190230.0,18-02-2004,Alm.,1087,5,Villa,175,2004,
+Tremhøjevej 27 6731 Tjæreborg,27,1300000.0,13-02-2004,Fam.,6046,6,Villa,215,1973,
+Vesterled 21 6731 Tjæreborg,21,525000.0,09-02-2004,Alm.,3281,5,Villa,160,1972,
+Vibehøjen 18 6731 Tjæreborg,18,830000.0,03-02-2004,Alm.,4585,4,Villa,181,1966,
+Nørreled 20 6731 Tjæreborg,20,1310000.0,02-02-2004,Alm.,9924,5,Villa,132,1986,
+Jens Kusks Vej 16 6731 Tjæreborg,16,180300.0,02-02-2004,Alm.,1155,5,Villa,156,2004,
+Østerbyvej 38 6731 Tjæreborg,38,1370000.0,19-12-2003,Alm.,0,6,Villa,187,2004,
+Nordre Strandvej 58 6731 Tjæreborg,58,1600000.0,19-12-2003,Fam.,0,4,Stuehus,198,1956,
+Lindingvadvej 1 6731 Tjæreborg,1,550000.0,08-12-2003,Fam.,6470,2,Sommerhus,85,1000,
+Vibehøjen 3 6731 Tjæreborg,3,512500.0,30-11-2003,Andet,4306,4,Villa,119,1967,
+Krogsgårdsvej 32 6731 Tjæreborg,32,435000.0,06-11-2003,Fam.,2242,6,Stuehus,194,1877,
+Nørreled 16 6731 Tjæreborg,16,2800000.0,25-10-2003,Alm.,4982,14,Villa,562,1964,
+Tremhøjevej 34 6731 Tjæreborg,34,798000.0,21-10-2003,Alm.,0,5,Villa,134,1969,
+Fasanhøjen 8 6731 Tjæreborg,8,962500.0,20-10-2003,Alm.,6374,4,Villa,151,1964,
+Jens Kusks Vej 26 6731 Tjæreborg,26,193860.0,20-10-2003,Alm.,0,6,Villa,214,2004,
+Nordre Strandvej 65 6731 Tjæreborg,65,145000.0,16-10-2003,Alm.,788,5,Villa,184,2004,
+Sneum Kirkevej 10 6731 Tjæreborg,10,2525000.0,10-10-2003,Alm.,16833,6,Villa,150,1833,
+Sønderager 5 6731 Tjæreborg,5,980000.0,22-09-2003,Alm.,7777,4,Villa,126,1977,
+Vestre Strandvej 37 6731 Tjæreborg,37,925000.0,01-09-2003,Alm.,0,9,Villa,286,1900,
+Vesterled 29 6731 Tjæreborg,29,980000.0,27-08-2003,Alm.,7967,4,Villa,123,1972,
+Nordre Strandvej 14 6731 Tjæreborg,14,510000.0,04-08-2003,Alm.,7083,3,Villa,72,1953,
+Østerbyvej 32E 6731 Tjæreborg,0,185112.0,31-07-2003,Alm.,1186,5,Villa,156,2004,
+Sønderager 17 6731 Tjæreborg,17,1050000.0,24-07-2003,Alm.,7394,5,Villa,142,1977,
+Vestre Strandvej 22 6731 Tjæreborg,22,1400000.0,07-07-2003,Alm.,0,9,Villa,191,1937,
+Vestergårds Alle 2 6731 Tjæreborg,2,571155.0,09-06-2003,Alm.,5288,4,Villa,108,1907,
+Tradsborgvej 80 6731 Tjæreborg,80,1445000.0,28-05-2003,Fam.,24083,3,Stuehus,60,1910,
+Tradsborgvej 26 6731 Tjæreborg,26,907500.0,30-04-2003,Alm.,6390,6,Villa,142,1947,
+Spurvehøjen 20 6731 Tjæreborg,20,830000.0,25-04-2003,Alm.,0,6,Villa,167,1968,
+Elmevej 11 6731 Tjæreborg,11,960000.0,21-04-2003,Alm.,9142,4,Villa,105,1964,
+Vesterled 37 6731 Tjæreborg,37,575000.0,07-04-2003,Alm.,3506,5,Villa,164,1979,
+Vesterled 15 6731 Tjæreborg,15,1100000.0,18-03-2003,Alm.,0,6,Villa,170,1972,
+Østerbyvej 36 6731 Tjæreborg,36,187920.0,17-03-2003,Alm.,1111,6,Villa,169,2003,
+Tradsborgvej 38 6731 Tjæreborg,38,200000.0,17-01-2003,Alm.,0,4,Sommerhus,76,1961,
+Klintholmvej 27 6731 Tjæreborg,27,1230000.0,17-01-2003,Alm.,0,8,Villa,188,1907,
+Novrupvej 101 6731 Tjæreborg,101,525216.0,02-01-2003,Fam.,2693,6,Stuehus,195,1916,
+Nordre Strandvej 80 6731 Tjæreborg,80,1200000.0,27-11-2002,Fam.,10434,4,Villa,115,1992,
+Sønderbyvej 26 6731 Tjæreborg,26,374974.0,14-10-2002,Fam.,2037,6,Villa,184,1935,
+Sønderager 19 6731 Tjæreborg,19,1350000.0,16-09-2002,Alm.,6923,6,Villa,195,1978,
+Jens Kusks Vej 18 6731 Tjæreborg,18,798714.0,24-07-2002,Alm.,7261,4,Villa,110,1865,
+Nordre Strandvej 39A 6731 Tjæreborg,0,1198000.0,12-07-2002,Alm.,8040,5,Villa,149,1990,
+Østre Strandvej 22 6731 Tjæreborg,22,975000.0,11-07-2002,Alm.,6093,4,Villa,160,1913,
+Jens Kusks Vej 29 6731 Tjæreborg,29,1535000.0,24-06-2002,Alm.,9777,5,Villa,157,1998,
+Østre Strandvej 12 6731 Tjæreborg,12,845000.0,04-06-2002,Fam.,5633,5,Villa,150,1962,
+Østerbyvej 34 6731 Tjæreborg,34,686000.0,03-06-2002,Alm.,3500,5,Villa,196,1926,
+Lillekrog 8 6731 Tjæreborg,8,1050000.0,31-05-2002,Alm.,6953,6,Villa,151,1969,
+Fasanhøjen 12 6731 Tjæreborg,12,956789.0,20-05-2002,Alm.,6933,5,Villa,138,1964,
+Vestre Strandvej 52 6731 Tjæreborg,52,480000.0,09-04-2002,Alm.,0,4,Villa,150,1878,
+Vibehøjen 16 6731 Tjæreborg,16,600000.0,28-02-2002,Alm.,4580,4,Villa,131,1965,
+Solbjergvej 45 6731 Tjæreborg,45,2067162.0,19-02-2002,Fam.,7859,6,Stuehus,263,2011,
+Krogsgårdsvej 20 6731 Tjæreborg,20,1250000.0,14-02-2002,Alm.,5296,6,Villa,236,2008,
+Nordre Strandvej 42 6731 Tjæreborg,42,1075000.0,31-12-2001,Alm.,7465,4,Villa,144,1986,
+Niels Storgårds Vej 15 6731 Tjæreborg,15,1630000.0,29-12-2001,Alm.,9644,5,Villa,169,1996,
+Tradsborgvej 18 6731 Tjæreborg,18,1200000.0,20-12-2001,Alm.,0,6,Villa,179,1965,
+Nordre Strandvej 10 6731 Tjæreborg,10,560000.0,15-12-2001,Alm.,5090,3,Villa,110,1928,
+Østre Strandvej 10 6731 Tjæreborg,10,770000.0,13-11-2001,Alm.,5923,4,Villa,130,1960,
+Vesterled 2B 6731 Tjæreborg,0,470356.0,29-10-2001,Fam.,3732,5,Villa,126,1986,
+Spurvehøjen 7 6731 Tjæreborg,7,1325000.0,15-10-2001,Alm.,7748,6,Villa,171,1968,
+Vossevangen 4 6731 Tjæreborg,4,770000.0,08-10-2001,Alm.,0,6,Villa,188,1958,
+Krogsgårdsvej 22 6731 Tjæreborg,22,2460000.0,23-08-2001,Alm.,15569,5,Stuehus,158,1935,
+Fasanhøjen 16 6731 Tjæreborg,16,1050000.0,20-08-2001,Alm.,0,8,Villa,183,1964,
+Allerupvej 5 6731 Tjæreborg,5,800000.0,13-08-2001,Alm.,3636,7,Villa,220,1802,
+Vestre Strandvej 11 6731 Tjæreborg,11,550000.0,19-07-2001,Auktion,2370,11,Villa,232,1961,
+Østerbyvej 42 6731 Tjæreborg,42,210600.0,12-07-2001,Alm.,0,7,Villa,209,2002,
+Nørreled 4 6731 Tjæreborg,4,1225000.0,07-07-2001,Alm.,9645,4,Villa,127,1986,
+Vestre Strandvej 40 6731 Tjæreborg,40,1700000.0,03-07-2001,Alm.,0,9,Villa,243,1940,
+Klintholmvej 17 6731 Tjæreborg,17,194955.0,02-07-2001,Fam.,1989,6,Villa,98,1895,
+Nordre Strandvej 33 6731 Tjæreborg,33,1848000.0,25-06-2001,Alm.,6576,10,Villa,281,1972,
+Solbjerg Plantagevej 4 6731 Tjæreborg,4,1200000.0,21-05-2001,Alm.,4580,6,Villa,262,1877,
+Engvej 12 6731 Tjæreborg,12,840000.0,04-05-2001,Alm.,6829,4,Villa,123,1964,
+Nørreled 26 6731 Tjæreborg,26,1115000.0,27-04-2001,Alm.,0,7,Villa,220,1986,
+Nørreled 8 6731 Tjæreborg,8,225000.0,23-04-2001,Alm.,1406,5,Villa,160,2011,
+Vestergårds Alle 3 6731 Tjæreborg,3,2120000.0,09-04-2001,Fam.,8480,7,Stuehus,250,1907,
+Jens Kusks Vej 13 6731 Tjæreborg,13,1310000.0,07-04-2001,Alm.,9703,6,Villa,135,1998,
+Sneumvej 60 6731 Tjæreborg,60,1000000.0,02-01-2001,Alm.,9009,3,Rækkehus,111,2011,
+Vibehøjen 9 6731 Tjæreborg,9,1060000.0,17-11-2000,Alm.,5888,6,Villa,180,1966,
+Østre Strandvej 5 6731 Tjæreborg,5,1093000.0,06-11-2000,Alm.,7863,5,Villa,139,1926,
+Østerbyvej 40 6731 Tjæreborg,40,220880.0,25-09-2000,Alm.,1276,5,Villa,173,2001,
+Lærkehøjen 11 6731 Tjæreborg,11,715000.0,09-09-2000,Alm.,0,5,Villa,161,1965,
+Lindingvadvej 13 6731 Tjæreborg,13,450000.0,06-09-2000,Alm.,2586,4,Villa,174,2002,
+Nordre Strandvej 12 6731 Tjæreborg,12,650000.0,28-08-2000,Alm.,4304,6,Villa,151,1930,
+Hasselvænget 9 6731 Tjæreborg,9,895000.0,25-08-2000,Alm.,7276,4,Villa,123,1966,
+Krogsgårdsvej 34 6731 Tjæreborg,34,1450000.0,10-07-2000,Alm.,0,4,Stuehus,137,1925,
+Lajgårdsvej 5 6731 Tjæreborg,5,1500000.0,01-07-2000,Fam.,10714,6,Villa,140,1850,
+Hans Silas Nielsens Vej 19 6731 Tjæreborg,19,733004.0,30-06-2000,Alm.,5864,4,Villa,125,1962,
+Tjæreborg Stationsvej 11 6731 Tjæreborg,11,351000.0,26-06-2000,Alm.,4129,4,Villa,85,1868,
+Tjæreborg Stationsvej 4 6731 Tjæreborg,4,509115.0,12-06-2000,Alm.,6974,2,Villa,73,1900,
+Jens Kusks Vej 24 6731 Tjæreborg,24,217560.0,30-05-2000,Alm.,1460,5,Villa,149,2001,
+Jens Kusks Vej 2 6731 Tjæreborg,2,1301130.0,22-05-2000,Alm.,10086,4,Villa,129,1999,
+Niels Storgårds Vej 27 6731 Tjæreborg,27,308480.0,10-05-2000,Alm.,1649,6,Villa,187,2001,
+Klintholmvej 21 6731 Tjæreborg,21,493000.0,09-05-2000,Alm.,0,6,Villa,186,1931,
+Kærvej 14 6731 Tjæreborg,14,783830.0,26-04-2000,Alm.,6372,4,Villa,123,1961,
+Krogsgårdsvej 51 6731 Tjæreborg,51,798000.0,13-03-2000,Alm.,0,5,Villa,169,1968,
+Gl Skolevej 24 6731 Tjæreborg,24,525000.0,23-02-2000,Alm.,0,7,Villa,270,2001,
+Vestre Strandvej 13B 6731 Tjæreborg,0,725000.0,23-02-2000,Alm.,0,6,Villa,203,1977,
+Niels Storgårds Vej 21 6731 Tjæreborg,21,309360.0,29-12-1999,Alm.,1445,6,Villa,214,2000,
+Drosselkæret 5 6731 Tjæreborg,5,898556.0,20-12-1999,Alm.,6705,6,Villa,134,1969,
+Vesterled 22 6731 Tjæreborg,22,1127547.0,05-10-1999,Alm.,6751,7,Villa,167,1973,
+Sneumgårdsvej 3 6731 Tjæreborg,3,1800000.0,14-09-1999,Alm.,7500,7,Stuehus,240,1882,
+Kærhaven 17 6731 Tjæreborg,17,888000.0,11-08-1999,Alm.,6727,5,Rækkehus,132,1982,
+Vesterled 2C 6731 Tjæreborg,0,1046000.0,04-08-1999,Alm.,8716,5,Villa,120,1986,
+Granvænget 7 6731 Tjæreborg,7,710000.0,03-06-1999,Alm.,6513,4,Villa,109,1966,
+Nørreled 18 6731 Tjæreborg,18,1498451.0,27-05-1999,Alm.,6141,4,Villa,244,1987,
+Lillekrog 19 6731 Tjæreborg,19,816360.0,20-04-1999,Alm.,6328,4,Villa,129,1970,
+Nyvej 3 6731 Tjæreborg,3,699000.0,12-04-1999,Alm.,7516,4,Villa,93,1963,
+Vossevangen 6 6731 Tjæreborg,6,810000.0,29-03-1999,Alm.,0,8,Villa,182,1966,
+Lærkehøjen 2 6731 Tjæreborg,2,822424.0,10-03-1999,Alm.,5791,5,Villa,142,1965,
+Krogsgårdsvej 55 6731 Tjæreborg,55,4600000.0,29-01-1999,Alm.,22330,8,Stuehus,206,1927,
+Niels Storgårds Vej 2 6731 Tjæreborg,2,136027.0,22-01-1999,Alm.,0,7,Villa,175,1999,
+Østre Strandvej 13 6731 Tjæreborg,13,925000.0,04-01-1999,Alm.,0,4,Rækkehus,138,1896,
+Kærhaven 10 6731 Tjæreborg,10,775801.0,07-10-1998,Alm.,5704,4,Rækkehus,136,1981,
+Vestre Strandvej 27 6731 Tjæreborg,27,225000.0,06-10-1998,Alm.,1829,5,Villa,123,1903,
+Østerkrog 14 6731 Tjæreborg,14,1035000.0,21-09-1998,Alm.,6272,5,Villa,165,1969,
+Østerbyvej 7 6731 Tjæreborg,7,531362.0,07-09-1998,Fam.,0,6,Villa,161,1910,
+Sneum Kirkevej 8 6731 Tjæreborg,8,3400000.0,28-07-1998,Alm.,20858,4,Stuehus,163,1932,
+Tremhøjevej 9 6731 Tjæreborg,9,886000.0,01-07-1998,Alm.,7088,6,Villa,125,1965,
+Kærhaven 11 6731 Tjæreborg,11,824499.0,15-06-1998,Alm.,6018,3,Rækkehus,137,1982,
+Engvej 6 6731 Tjæreborg,6,960000.0,09-06-1998,Alm.,7804,4,Villa,123,1964,
+Engvej 4 6731 Tjæreborg,4,780000.0,19-05-1998,Alm.,6341,4,Villa,123,1964,
+Vestre Strandvej 24A 6731 Tjæreborg,0,230000.0,14-05-1998,Alm.,1885,5,Villa,122,2005,
+Hans Silas Nielsens Vej 7 6731 Tjæreborg,7,675000.0,13-05-1998,Alm.,5672,3,Villa,119,1963,
+Klintholmvej 40 6731 Tjæreborg,40,632000.0,20-04-1998,Fam.,3853,8,Stuehus,164,1939,
+Tremhøjevej 36 6731 Tjæreborg,36,1100000.0,29-03-1998,Alm.,6043,5,Villa,182,1968,
+Nordre Strandvej 6 6731 Tjæreborg,6,583180.0,12-03-1998,Alm.,0,3,Villa,145,1933,
+Østerkrog 15 6731 Tjæreborg,15,698000.0,02-03-1998,Alm.,6232,5,Villa,112,1970,
+Niels Storgårds Vej 10 6731 Tjæreborg,10,131550.0,20-02-1998,Alm.,802,5,Villa,164,1999,
+Gl Skolevej 46 6731 Tjæreborg,46,792000.0,29-01-1998,Alm.,4551,5,Villa,174,1904,
+Nordre Strandvej 61 6731 Tjæreborg,61,922350.0,27-01-1998,Alm.,4880,5,Villa,189,1963,
+Vestre Strandvej 36 6731 Tjæreborg,36,1267000.0,08-12-1997,Alm.,10300,5,Villa,123,1885,
+Sneumvej 104 6731 Tjæreborg,104,1470721.0,08-12-1997,Alm.,0,5,Villa,211,1962,
+Sneum Kirkevej 9 6731 Tjæreborg,9,7000000.0,24-11-1997,Alm.,43750,6,Stuehus,160,1914,
+Vesterled 2A 6731 Tjæreborg,0,1005000.0,21-11-1997,Alm.,8375,5,Villa,120,1986,
+Solbjergvej 41 6731 Tjæreborg,41,1125000.0,20-11-1997,Alm.,0,7,Villa,220,1940,
+Nordre Strandvej 25 6731 Tjæreborg,25,1380560.0,08-11-1997,Alm.,5170,9,Villa,267,1976,
+Jens Kusks Vej 27 6731 Tjæreborg,27,137925.0,03-11-1997,Alm.,0,6,Villa,177,1998,
+Kærvangen 11 6731 Tjæreborg,11,530000.0,22-10-1997,Alm.,0,4,Villa,136,1952,
+Engvej 14 6731 Tjæreborg,14,772000.0,14-10-1997,Alm.,6276,4,Villa,123,1964,
+Kærvej 12 6731 Tjæreborg,12,1083040.0,04-10-1997,Alm.,6296,5,Villa,172,1968,
+Sønderager 21 6731 Tjæreborg,21,880025.0,03-10-1997,Alm.,7272,5,Villa,121,1977,
+Niels Storgårds Vej 3 6731 Tjæreborg,3,1160654.0,30-09-1997,Alm.,8410,5,Villa,138,1987,
+Gl Skolevej 32 6731 Tjæreborg,32,414000.0,26-09-1997,Alm.,3538,4,Villa,117,1956,
+Tjæreborg Stationsvej 9 6731 Tjæreborg,9,685500.0,07-08-1997,Alm.,5909,4,Villa,116,1928,
+Jens Kusks Vej 41 6731 Tjæreborg,41,138300.0,11-07-1997,Alm.,980,5,Villa,141,1997,
+Jens Kusks Vej 25 6731 Tjæreborg,25,134775.0,04-07-1997,Alm.,892,5,Villa,151,1998,
+Klintholmvej 29 6731 Tjæreborg,29,743280.0,26-05-1997,Alm.,0,6,Villa,201,1870,
+Fyrrevænget 1 6731 Tjæreborg,1,550000.0,16-05-1997,Alm.,4508,5,Villa,122,1965,
+Balsbyvej 3 6731 Tjæreborg,3,597650.0,05-05-1997,Alm.,3782,8,Villa,158,1932,
+Allerupvej 9 6731 Tjæreborg,9,691000.0,14-04-1997,Alm.,4458,4,Villa,155,1897,
+Vestre Strandvej 5 6731 Tjæreborg,5,692000.0,24-03-1997,Alm.,7521,3,Villa,92,1948,
+Engvej 25 6731 Tjæreborg,25,608955.0,24-03-1997,Alm.,4950,4,Villa,123,1964,
+Skolevej 50 6731 Tjæreborg,50,433500.0,24-03-1997,Alm.,6568,2,Villa,66,1942,
+Østerbyvej 5 6731 Tjæreborg,5,601000.0,24-03-1997,Alm.,4886,4,Villa,123,1900,
+Gl Skolevej 45 6731 Tjæreborg,45,501409.0,24-02-1997,Fam.,1305,9,Villa,384,1999,
+Kærhaven 21 6731 Tjæreborg,21,724000.0,20-01-1997,Alm.,6295,5,Rækkehus,115,1983,
+Jens Kusks Vej 31 6731 Tjæreborg,31,134700.0,17-01-1997,Alm.,0,7,Villa,216,1997,
+Solbjergvej 69 6731 Tjæreborg,69,921486.0,06-01-1997,Alm.,6062,4,Villa,152,1936,
+Jens Kusks Vej 33 6731 Tjæreborg,33,133800.0,25-11-1996,Alm.,801,6,Villa,167,1997,
+J M Terkelsens Vej 16 6731 Tjæreborg,16,535000.0,23-11-1996,Alm.,4385,6,Villa,122,1936,
+Hans Silas Nielsens Vej 24 6731 Tjæreborg,24,1295000.0,18-11-1996,Alm.,8519,4,Villa,152,1985,
+Tårngårdsvej 7 6731 Tjæreborg,7,1545000.0,09-10-1996,Fam.,8396,8,Stuehus,184,1952,
+Jens Kusks Vej 21 6731 Tjæreborg,21,136575.0,30-09-1996,Alm.,904,4,Villa,151,1996,
+Lærkehøjen 12 6731 Tjæreborg,12,868583.0,27-09-1996,Alm.,6839,4,Villa,127,1967,
+Niels Storgårds Vej 9 6731 Tjæreborg,9,1282000.0,24-09-1996,Alm.,8324,5,Villa,154,1991,
+Krogsgårdsvej 23 6731 Tjæreborg,23,1075000.0,09-09-1996,Alm.,5119,8,Villa,210,1880,
+Sønderbyvej 112 6731 Tjæreborg,112,1125000.0,02-09-1996,Alm.,4120,7,Villa,273,1979,
+Østerkrog 10 6731 Tjæreborg,10,982680.0,19-08-1996,Alm.,5254,7,Villa,187,1970,
+Niels Storgårds Vej 12 6731 Tjæreborg,12,131550.0,15-08-1996,Alm.,907,5,Villa,145,1996,
+Hasselvænget 8 6731 Tjæreborg,8,275000.0,02-07-1996,Alm.,2131,4,Villa,129,1967,
+Jens Kusks Vej 15 6731 Tjæreborg,15,135000.0,03-06-1996,Alm.,985,5,Villa,137,1996,
+Allerupvej 7 6731 Tjæreborg,7,1080000.0,02-06-1996,Alm.,7941,4,Villa,136,1896,
+Niels Storgårds Vej 1B 6731 Tjæreborg,0,133950.0,22-05-1996,Alm.,898,5,Villa,149,1997,
+Niels Storgårds Vej 13 6731 Tjæreborg,13,134700.0,22-05-1996,Alm.,756,6,Villa,178,1997,
+Jens Kusks Vej 23 6731 Tjæreborg,23,140700.0,22-05-1996,Alm.,852,5,Villa,165,1996,
+Krogsgårdsvej 54 6731 Tjæreborg,54,600000.0,06-05-1996,Alm.,0,8,Villa,161,1922,
+J M Terkelsens Vej 14 6731 Tjæreborg,14,580000.0,29-03-1996,Fam.,3918,5,Villa,148,1935,
+Solbjergvej 51 6731 Tjæreborg,51,450500.0,26-03-1996,Andet,2681,4,Stuehus,168,1927,
+Niels Storgårds Vej 7 6731 Tjæreborg,7,134700.0,01-03-1996,Alm.,0,6,Villa,183,1996,
+Tremhøjevej 25 6731 Tjæreborg,25,399000.0,16-02-1996,Fam.,3022,4,Villa,132,1967,
+Jesper Justs Alle 12 6731 Tjæreborg,12,848579.0,23-01-1996,Alm.,0,5,Villa,156,1979,
+Klintholmvej 6 6731 Tjæreborg,6,535500.0,22-01-1996,Fam.,3500,5,Villa,153,1965,
+Lærkehøjen 9 6731 Tjæreborg,9,975000.0,20-12-1995,Alm.,3884,7,Villa,251,1969,
+Vestre Strandvej 2 6731 Tjæreborg,2,595000.0,10-11-1995,Alm.,0,4,Villa,158,1928,
+Tradsborgvej 56 6731 Tjæreborg,56,1224000.0,18-09-1995,Fam.,10736,4,Stuehus,114,1926,
+Lillekrog 1 6731 Tjæreborg,1,909960.0,31-08-1995,Alm.,6893,5,Villa,132,1970,
+Præstegårdsvej 3 6731 Tjæreborg,3,2075000.0,19-06-1995,Fam.,13301,5,Stuehus,156,1968,
+Spurvehøjen 16 6731 Tjæreborg,16,269101.0,13-03-1995,Fam.,1881,6,Villa,143,1969,
+Skolevej 3 6731 Tjæreborg,3,800000.0,08-03-1995,Alm.,4907,8,Villa,163,1903,
+Sønderbyvej 48 6731 Tjæreborg,48,650000.0,02-03-1995,Alm.,4333,5,Villa,150,1885,
+Vesterled 43 6731 Tjæreborg,43,1509320.0,24-02-1995,Alm.,8775,5,Villa,172,1984,
+Vestergårdsvej 17 6731 Tjæreborg,17,585000.0,20-02-1995,Alm.,5000,4,Villa,117,1926,
+Hulvej 58 6731 Tjæreborg,58,325000.0,02-01-1995,Alm.,3250,3,Villa,100,2005,
+Sneumgårdsvej 1 6731 Tjæreborg,1,650000.0,28-12-1994,Alm.,4676,4,Villa,139,1950,
+Niels Storgårds Vej 17 6731 Tjæreborg,17,1290000.0,20-12-1994,Alm.,6028,6,Villa,214,1987,
+Allerupvej 19 6731 Tjæreborg,19,334160.0,07-12-1994,Alm.,3885,4,Villa,86,1962,
+Vestergårdsvej 15 6731 Tjæreborg,15,460000.0,14-11-1994,Alm.,5111,2,Villa,90,1909,
+Tradsborgvej 16 6731 Tjæreborg,16,50000.0,24-10-1994,Alm.,413,3,Stuehus,121,1932,
+Sønderled 17 6731 Tjæreborg,17,897000.0,24-10-1994,Alm.,5641,6,Villa,159,1979,
+Østerkrog 31 6731 Tjæreborg,31,785000.0,19-10-1994,Alm.,5451,5,Villa,144,1969,
+Engvej 21 6731 Tjæreborg,21,615000.0,10-10-1994,Alm.,5000,4,Villa,123,1964,
+Engvej 8 6731 Tjæreborg,8,443000.0,12-09-1994,Alm.,3601,4,Villa,123,1964,
+Østerkrog 28 6731 Tjæreborg,28,841000.0,16-08-1994,Alm.,4698,6,Villa,179,1972,
+Sønderbyvej 27 6731 Tjæreborg,27,450000.0,03-08-1994,Alm.,0,7,Villa,209,1906,
+Fyrrevænget 3 6731 Tjæreborg,3,735000.0,29-07-1994,Alm.,6504,4,Villa,113,1968,
+Sønderbyvej 28 6731 Tjæreborg,28,1186000.0,25-07-1994,Fam.,8785,5,Stuehus,135,1880,
+Skolevej 23 6731 Tjæreborg,23,530000.0,25-07-1994,Fam.,3312,6,Villa,160,1950,
+Nørreled 28 6731 Tjæreborg,28,350000.0,01-07-1994,Alm.,2536,3,Villa,138,1996,
+Vestre Strandvej 58 6731 Tjæreborg,58,556398.0,02-05-1994,Alm.,3292,6,Villa,169,2001,
+Østerkrog 34 6731 Tjæreborg,34,786000.0,02-05-1994,Alm.,4943,5,Villa,159,1969,
+Sønderager 20 6731 Tjæreborg,20,700000.0,27-04-1994,Alm.,5555,3,Villa,126,1980,
+Sønderbyvej 42 6731 Tjæreborg,42,398000.0,18-04-1994,Alm.,0,7,Villa,201,1950,
+Vestergårdsvej 18 6731 Tjæreborg,18,470960.0,18-04-1994,Alm.,5413,4,Villa,87,1920,
+Vestre Strandvej 13A 6731 Tjæreborg,0,500000.0,11-04-1994,Fam.,3521,5,Villa,142,1944,
+Vesterled 33 6731 Tjæreborg,33,688150.0,24-03-1994,Alm.,5059,5,Villa,136,1971,
+Tradsborgvej 34 6731 Tjæreborg,34,612625.0,14-02-1994,Andet,0,5,Stuehus,180,1944,
+Østre Strandvej 32 6731 Tjæreborg,32,474066.0,16-01-1994,Alm.,0,5,Villa,179,1965,
+Vibehøjen 13 6731 Tjæreborg,13,650000.0,30-12-1993,Alm.,5909,4,Villa,110,1966,
+Vossevangen 7A 6731 Tjæreborg,0,700000.0,13-12-1993,Alm.,5468,4,Villa,128,1979,
+Østre Strandvej 4 6731 Tjæreborg,4,600000.0,15-11-1993,Alm.,5084,4,Villa,118,1957,
+Spøttrupvej 4 6731 Tjæreborg,4,842536.0,12-11-1993,Alm.,0,5,Stuehus,239,1911,
+Fyrrevænget 7 6731 Tjæreborg,7,630000.0,04-11-1993,Alm.,5727,4,Villa,110,1965,
+Nyvej 11 6731 Tjæreborg,11,700000.0,29-10-1993,Alm.,4635,6,Villa,151,1963,
+Vesterled 3 6731 Tjæreborg,3,1085000.0,20-10-1993,Alm.,5425,6,Villa,200,1986,
+Østerbyvej 3 6731 Tjæreborg,3,361000.0,20-10-1993,Alm.,2098,7,Villa,172,1907,
+Tremhøjevej 22 6731 Tjæreborg,22,660000.0,11-10-1993,Alm.,5116,5,Villa,129,1968,
+Sneum Kirkevej 16 6731 Tjæreborg,16,65550.0,28-09-1993,Alm.,471,5,Villa,139,1914,
+Sønderled 23 6731 Tjæreborg,23,425000.0,17-08-1993,Fam.,2871,5,Villa,148,1983,
+Sneumvej 4 6731 Tjæreborg,4,790000.0,12-08-1993,Alm.,5602,5,Villa,141,1972,
+Sønderbyvej 14 6731 Tjæreborg,14,622333.0,01-05-1993,Andet,0,8,Villa,279,1934,
+Lillekrog 14 6731 Tjæreborg,14,634666.0,19-04-1993,Alm.,0,6,Villa,242,1970,
+Allerupvej 13 6731 Tjæreborg,13,501000.0,11-02-1993,Alm.,1795,5,Villa,279,1866,
+Nordre Strandvej 40 6731 Tjæreborg,40,562250.0,17-01-1993,Alm.,0,4,Villa,156,1920,
+Tradsborgvej 77 6731 Tjæreborg,77,600000.0,15-10-1992,Fam.,3508,4,Villa,171,1905,
+Solbjerg Plantagevej 3 6731 Tjæreborg,3,1640000.0,10-09-1992,Fam.,0,6,Stuehus,208,1927,
+Tårngårdsvej 17 6731 Tjæreborg,17,2115000.0,01-07-1992,Fam.,15107,3,Stuehus,140,1996,
+Kærhaven 23 6731 Tjæreborg,23,615000.0,26-06-1992,Alm.,5347,4,Rækkehus,115,1983,
+Sønderbyvej 101 6731 Tjæreborg,101,305400.0,13-05-1992,Alm.,2135,5,Stuehus,143,1961,
+Klintholmvej 48 6731 Tjæreborg,48,217400.0,13-05-1992,Alm.,1842,5,Stuehus,118,1927,
+Allerupvej 22 6731 Tjæreborg,22,136900.0,13-05-1992,Alm.,894,4,Stuehus,153,1889,
+Vossevangen 5 6731 Tjæreborg,5,580600.0,28-04-1992,Alm.,4759,5,Villa,122,1950,
+Gl Skolevej 43 6731 Tjæreborg,43,450000.0,27-04-1992,Alm.,2571,6,Villa,175,1976,
+Klintholmvej 34 6731 Tjæreborg,34,440000.0,24-04-1992,Fam.,4400,3,Villa,100,1921,
+Jesper Justs Alle 3 6731 Tjæreborg,3,720000.0,20-04-1992,Fam.,4186,4,Villa,172,1968,
+Vesterled 14 6731 Tjæreborg,14,595000.0,13-04-1992,Fam.,5312,3,Stuehus,112,1894,
+Vesterled 42 6731 Tjæreborg,42,835000.0,31-03-1992,Alm.,5680,4,Villa,147,1979,
+Vestre Strandvej 43 6731 Tjæreborg,43,229500.0,19-02-1992,Fam.,1509,3,Villa,152,1924,
+Hans Silas Nielsens Vej 10 6731 Tjæreborg,10,520000.0,10-02-1992,Fam.,2600,7,Villa,200,1961,
+Vesterled 17 6731 Tjæreborg,17,770000.0,10-02-1992,Fam.,4502,8,Villa,171,1972,
+Peder Bertrams Vej 3 6731 Tjæreborg,3,517500.0,16-01-1992,Alm.,3473,5,Villa,149,1962,
+J M Terkelsens Vej 11 6731 Tjæreborg,11,515000.0,16-01-1992,Fam.,4813,4,Villa,107,1934,

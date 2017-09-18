@@ -1,0 +1,934 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Kulagervej 5 4653 Karise,5,700000.0,04-05-2017,Andet,5833,2,Villa,120,1850,
+Prins Buris Vej 12 4653 Karise,12,1525000.0,01-04-2017,Alm.,10517,5,Villa,145,1996,-4 %
+Ingers Vej 12 4653 Karise,12,1740000.0,28-03-2017,Alm.,14871,4,Rækkehus,117,2007,-1 %
+Køgevej 90 4653 Karise,90,1506000.0,27-03-2017,Fam.,9412,3,Stuehus,160,1927,
+Søndergade 20 4653 Karise,20,1035000.0,24-03-2017,Alm.,13800,2,Villa,75,1930,-1 %
+Gimlingevej 8A 4653 Karise,0,1776000.0,21-03-2017,Alm.,9704,5,Villa,183,1905,5 %
+Rønne Alle 3 4653 Karise,3,1060000.0,21-03-2017,Alm.,8030,3,Villa,132,1930,-3 %
+Tågerupvej 2 4653 Karise,2,1195000.0,07-03-2017,Alm.,5106,4,Villa,234,1852,-8 %
+Mosevej 4 4653 Karise,4,450000.0,01-03-2017,Alm.,3543,3,Villa,127,1917,-17 %
+Overdrevsvej 8 4653 Karise,8,550000.0,20-02-2017,Fam.,7638,4,Villa,72,1817,
+Geddevænget 6 4653 Karise,6,600000.0,09-02-2017,Alm.,4285,4,Villa,140,1850,-14 %
+Kløvervej 6 4653 Karise,6,1575000.0,21-01-2017,Alm.,12804,5,Villa,123,1999,-1 %
+Skovvænget 10 4653 Karise,10,995000.0,15-01-2017,Alm.,9386,4,Villa,106,1973,0 %
+Liden Kirstens Vej 1 4653 Karise,1,1495000.0,11-01-2017,Alm.,10310,4,Villa,145,1973,0 %
+Hemmingsvej 15 4653 Karise,15,1595000.0,23-12-2016,Alm.,7935,6,Villa,201,1974,0 %
+Søndervang 1 4653 Karise,1,700000.0,18-12-2016,Alm.,5109,6,Villa,137,1938,-15 %
+Bredgade 25 4653 Karise,25,1317500.0,04-12-2016,Alm.,11557,4,Villa,114,1955,-6 %
+Peder Olufsens Vej 17 4653 Karise,17,1450000.0,18-11-2016,Alm.,11153,5,Villa,130,1986,-3 %
+Rhitras Vej 4 4653 Karise,4,1725000.0,17-11-2016,Alm.,12969,4,Rækkehus,133,2005,0 %
+Søndergade 4 4653 Karise,4,892500.0,14-11-2016,Fam.,5910,5,Villa,151,1927,
+Geddevænget 1 4653 Karise,1,2925000.0,11-11-2016,Alm.,9948,10,Stuehus,294,1877,
+Skovvej 1 4653 Karise,1,400000.0,01-11-2016,Alm.,2580,6,Stuehus,155,1940,
+Prins Buris Vej 15 4653 Karise,15,1650000.0,28-10-2016,Alm.,9649,4,Villa,171,1988,-3 %
+Ingers Vej 35 4653 Karise,35,1495000.0,17-10-2016,Alm.,15904,3,Rækkehus,94,2007,0 %
+Jørslevvej 7 4653 Karise,7,599250.0,11-10-2016,Alm.,4342,4,Stuehus,138,1978,
+Østerskovvej 8 4653 Karise,8,2000000.0,10-10-2016,Alm.,8771,6,Villa,228,1895,-7 %
+Lægårdsvej 8A 4653 Karise,0,895000.0,09-10-2016,Alm.,6130,7,Villa,146,1760,0 %
+Ingers Vej 3 4653 Karise,3,1720000.0,03-10-2016,Alm.,14700,4,Rækkehus,117,2008,-2 %
+Liden Kirstens Vej 8 4653 Karise,8,1265000.0,29-09-2016,Alm.,6837,7,Villa,185,1970,-5 %
+Gimlingevej 12 4653 Karise,12,1275000.0,28-09-2016,Alm.,9239,5,Villa,138,1903,-5 %
+Rønne Alle 19 4653 Karise,19,373946.0,20-09-2016,Andet,4560,3,Villa,82,1943,
+Kulagervej 33 4653 Karise,33,735500.0,16-09-2016,Alm.,6938,3,Villa,106,1905,
+Kløvervej 19 4653 Karise,19,1100000.0,31-08-2016,Alm.,10185,3,Villa,108,1999,-12 %
+Barup Bygade 1 4653 Karise,1,1495000.0,30-08-2016,Alm.,8794,4,Villa,170,1838,
+Elmevej 3 4653 Karise,3,1495000.0,30-08-2016,Alm.,10310,4,Villa,145,1965,0 %
+Hemmingsvej 39 4653 Karise,39,2150000.0,25-08-2016,Alm.,12647,4,Villa,170,1973,
+Skovbrodersvej 5 4653 Karise,5,1645000.0,20-08-2016,Alm.,14059,4,Rækkehus,117,2003,0 %
+Solagervej 12 4653 Karise,12,1240000.0,16-08-2016,Alm.,12916,3,Villa,96,1971,-3 %
+Elverhøjvej 34 4653 Karise,34,390000.0,15-08-2016,Fam.,2910,4,Villa,134,1823,
+Drosselvej 92 4653 Karise,92,1300000.0,02-08-2016,Alm.,9558,4,Villa,136,1980,-7 %
+Syrenvænget 6 4653 Karise,6,695000.0,13-07-2016,Alm.,8081,3,Villa,86,1966,0 %
+Præstevænget 3 4653 Karise,3,950000.0,28-06-2016,Alm.,11585,3,Villa,82,1954,-5 %
+Ingers Vej 43 4653 Karise,43,1710000.0,23-06-2016,Alm.,14869,3,Rækkehus,115,2007,-2 %
+Peder Olufsens Vej 26 4653 Karise,26,580000.0,22-06-2016,Alm.,4833,4,Villa,120,1986,
+Jørslevvej 4 4653 Karise,4,1599000.0,21-06-2016,Alm.,12492,5,Villa,128,1890,0 %
+Skolegade 15A 4653 Karise,0,365600.0,21-06-2016,Auktion,2163,6,Villa,169,1917,
+Sneppevej 12 4653 Karise,12,1595000.0,16-06-2016,Alm.,15485,3,Rækkehus,103,2016,0 %
+Sneppevej 10 4653 Karise,10,1672740.0,10-06-2016,Alm.,16240,3,Rækkehus,103,2016,5 %
+Drosselvej 94 4653 Karise,94,995000.0,01-06-2016,Alm.,8504,4,Villa,117,1980,0 %
+Rønne Alle 15 4653 Karise,15,390000.0,01-06-2016,Andet,4105,3,Villa,95,1961,
+Ingers Vej 52 4653 Karise,52,1645000.0,27-05-2016,Alm.,14304,3,Rækkehus,115,2007,-3 %
+Sneppevej 8 4653 Karise,8,1625000.0,14-05-2016,Alm.,15776,3,Rækkehus,103,2016,2 %
+Bredgade 15 4653 Karise,15,700000.0,11-05-2016,Alm.,4430,3,Villa,158,1890,-11 %
+Karisevej 171 4653 Karise,171,1200000.0,11-05-2016,Alm.,11650,5,Villa,103,1899,0 %
+Breddammen 2 4653 Karise,2,512227.0,09-05-2016,Alm.,2640,5,Villa,194,1923,
+Folmer Sangers Vej 20 4653 Karise,20,1695000.0,06-05-2016,Alm.,14739,3,Rækkehus,115,2003,0 %
+Søndergade 39 4653 Karise,39,1940000.0,28-04-2016,Alm.,9371,5,Villa,207,1959,
+Kildevej 15 4653 Karise,15,690000.0,27-04-2016,Alm.,5750,3,Villa,120,1961,-8 %
+Fru Marthes Vej 2 4653 Karise,2,900000.0,26-04-2016,Alm.,6617,5,Villa,136,1969,-10 %
+Præstemarksvej 2B 4653 Karise,0,2899000.0,26-04-2016,Alm.,13298,5,Villa,218,2005,-3 %
+Rønne Alle 2 4653 Karise,2,376000.0,26-04-2016,Alm.,2785,5,Villa,135,1930,67 %
+Dalbyvej 15 4653 Karise,15,1175000.0,15-04-2016,Alm.,8969,5,Villa,131,1911,-5 %
+Drosselvej 106 4653 Karise,106,1600000.0,12-04-2016,Andet,10596,4,Villa,151,1986,
+Sneppevej 16 4653 Karise,16,1565000.0,07-04-2016,Alm.,15194,3,Rækkehus,103,2016,-2 %
+Drosselvej 48 4653 Karise,48,1150000.0,30-03-2016,Alm.,9504,4,Villa,121,1978,0 %
+Jagtvej 11 4653 Karise,11,795000.0,24-03-2016,Alm.,6794,3,Villa,117,1972,0 %
+Ærtevænget 5 4653 Karise,5,995000.0,18-03-2016,Alm.,12283,3,Rækkehus,81,2004,0 %
+Elmevej 2 4653 Karise,2,1195000.0,07-03-2016,Alm.,10863,4,Villa,110,1966,0 %
+Skolegade 37C 4653 Karise,0,850000.0,02-03-2016,Alm.,8762,3,Villa,97,1909,-5 %
+Præstemarksvej 16 4653 Karise,16,1495000.0,01-03-2016,Alm.,12669,3,Villa,118,1907,0 %
+Syrenvænget 16 4653 Karise,16,875000.0,25-02-2016,Alm.,6782,4,Villa,129,1967,
+Præstemarksvej 8 4653 Karise,8,310000.0,15-02-2016,Andet,4305,3,Villa,72,1961,
+Skolegade 7 4653 Karise,7,475000.0,29-01-2016,Alm.,4750,11,Villa,100,1937,-14 %
+Søndergade 30 4653 Karise,30,825000.0,24-01-2016,Alm.,8168,4,Villa,101,1961,-8 %
+Bakkeskovvej 6 4653 Karise,6,1500000.0,21-01-2016,Alm.,10714,3,Villa,140,1916,
+Nordhøjvej 29 4653 Karise,29,8700000.0,21-01-2016,Alm.,34251,6,Stuehus,254,1890,
+Skolegade 38 4653 Karise,38,800000.0,11-01-2016,Fam.,7272,4,Villa,110,1968,
+Møllehusvej 14 4653 Karise,14,1325000.0,05-01-2016,Alm.,6309,7,Villa,210,1877,-17 %
+Kildevej 2C 4653 Karise,0,900000.0,25-12-2015,Fam.,5389,6,Villa,167,2008,
+Sneppevej 14 4653 Karise,14,1500000.0,16-12-2015,Alm.,14563,3,Rækkehus,103,2016,
+Hemmingsvej 71 4653 Karise,71,775000.0,14-12-2015,Alm.,6739,3,Villa,115,1973,-13 %
+Tinghusvej 8 4653 Karise,8,200000.0,03-12-2015,Alm.,3846,2,Villa,52,1882,
+Kildevej 4 4653 Karise,4,1500000.0,30-11-2015,Alm.,7812,5,Villa,192,1903,
+Smerupvej 25 4653 Karise,25,350000.0,26-11-2015,Fam.,4375,4,Sommerhus,80,1877,
+Bredgade 11A 4653 Karise,0,1350000.0,16-11-2015,Alm.,6887,7,Villa,196,1881,-10 %
+Jørslev Vænge 5 4653 Karise,5,400000.0,01-11-2015,Alm.,5714,3,Sommerhus,70,1677,
+Prins Buris Vej 17 4653 Karise,17,1125000.0,23-10-2015,Alm.,7653,4,Villa,147,1991,-6 %
+Dalbyvej 21 4653 Karise,21,1350000.0,29-09-2015,Fam.,10000,4,Villa,135,1928,
+Kirkestien 4 4653 Karise,4,995000.0,23-09-2015,Alm.,8361,5,Villa,119,1907,0 %
+Ingers Vej 1 4653 Karise,1,1650000.0,31-08-2015,Alm.,14102,4,Rækkehus,117,2008,
+Lucernevej 5 4653 Karise,5,2700000.0,24-08-2015,Alm.,16463,5,Villa,164,2006,-10 %
+Køgevej 45 4653 Karise,45,300000.0,18-08-2015,Fam.,2777,4,Villa,108,1900,
+Skovvænget 5 4653 Karise,5,850000.0,27-07-2015,Alm.,6439,5,Villa,132,1977,0 %
+Ingers Vej 11 4653 Karise,11,1670000.0,20-07-2015,Alm.,14273,4,Rækkehus,117,2007,-1 %
+Spjellerupvej 12 4653 Karise,12,600000.0,15-07-2015,Fam.,4316,4,Villa,139,1887,
+Drosselvej 58 4653 Karise,58,970000.0,26-06-2015,Alm.,8016,4,Villa,121,1978,-3 %
+Drosselvej 12 4653 Karise,12,1295000.0,23-06-2015,Alm.,8093,6,Villa,160,1907,0 %
+Drosselvej 62 4653 Karise,62,1200000.0,23-06-2015,Alm.,7692,6,Villa,156,1980,-14 %
+Geddevænget 12 4653 Karise,12,957800.0,19-06-2015,Alm.,9299,2,Villa,103,1920,
+Ærtevænget 2 4653 Karise,2,935000.0,18-06-2015,Alm.,11543,3,Rækkehus,81,2005,-4 %
+Overdrevsvej 18 4653 Karise,18,1055578.0,09-06-2015,Fam.,7180,5,Villa,147,1870,
+Nørrebro 9 4653 Karise,9,825000.0,03-06-2015,Alm.,7783,5,Villa,106,1950,-15 %
+Jagtvej 2 4653 Karise,2,1250000.0,22-05-2015,Alm.,9124,4,Villa,137,1965,-3 %
+Hemmingsvej 73 4653 Karise,73,950000.0,15-05-2015,Alm.,6643,4,Villa,143,1974,-5 %
+Rhitras Vej 3 4653 Karise,3,1495000.0,11-05-2015,Alm.,13114,4,Rækkehus,114,2005,0 %
+Fru Marthes Vej 1 4653 Karise,1,650000.0,06-05-2015,Auktion,4113,6,Villa,158,1972,
+Breddammen 8 4653 Karise,8,575000.0,04-05-2015,Fam.,3733,4,Villa,154,1860,
+Folmer Sangers Vej 12 4653 Karise,12,1300000.0,30-04-2015,Alm.,10655,4,Rækkehus,122,2004,-12 %
+Bøgevej 2 4653 Karise,2,1150000.0,16-04-2015,Alm.,8518,5,Villa,135,1970,-4 %
+Hemmingsvej 10 4653 Karise,10,1145000.0,09-04-2015,Alm.,6939,4,Villa,165,1971,-4 %
+Præstemarksvej 13 4653 Karise,13,275000.0,23-03-2015,Alm.,3125,3,Villa,88,1907,-44 %
+Løngangsstræde 2 4653 Karise,2,716297.0,19-03-2015,Andet,3692,6,Villa,194,1877,
+Fasanvej 4 4653 Karise,4,695000.0,16-03-2015,Alm.,6556,4,Villa,106,1972,0 %
+Skolegade 59 4653 Karise,59,400000.0,10-02-2015,Alm.,3703,4,Villa,108,1927,-19 %
+Bredgade 54 4653 Karise,54,425000.0,05-01-2015,Alm.,2796,4,Villa,152,1907,
+Alslevvej 16 4653 Karise,16,14620000.0,01-01-2015,Fam.,60164,4,Stuehus,243,1877,
+Drosselvej 41 4653 Karise,41,1960000.0,13-12-2014,Alm.,7205,7,Villa,272,1924,
+Kløvervej 11 4653 Karise,11,1495000.0,11-12-2014,Alm.,10992,5,Villa,136,1999,0 %
+Jørslev Vænge 3 4653 Karise,3,2145000.0,09-12-2014,Alm.,10725,8,Stuehus,200,1909,
+Ingers Vej 44 4653 Karise,44,1025000.0,04-12-2014,Alm.,10904,3,Rækkehus,94,2007,-2 %
+Søndergade 5 4653 Karise,5,395000.0,25-11-2014,Auktion,4759,3,Villa,83,1857,
+Ridder Jernskægs Vej 8 4653 Karise,8,1000000.0,20-11-2014,Alm.,11111,3,Rækkehus,90,2000,-9 %
+Ganneskovvej 4 4653 Karise,4,1745000.0,07-11-2014,Alm.,9748,6,Villa,179,1805,-3 %
+Sneppevej 6 4653 Karise,6,300000.0,04-11-2014,Alm.,2912,3,Rækkehus,103,2016,
+Skovbrodersvej 9 4653 Karise,9,1325000.0,01-11-2014,Alm.,11324,4,Rækkehus,117,2003,-5 %
+Skolegade 57 4653 Karise,57,658943.0,13-10-2014,Alm.,6460,5,Villa,102,1934,
+St Lindevej 5 4653 Karise,5,1184348.0,26-09-2014,Alm.,9399,4,Villa,126,1888,
+Skolegade 50 4653 Karise,50,995000.0,24-09-2014,Alm.,8963,4,Villa,111,1958,0 %
+St Lindevej 6 4653 Karise,6,1350900.0,17-09-2014,Fam.,11746,5,Villa,115,1929,
+Rosengården 12 4653 Karise,12,1875000.0,10-09-2014,Alm.,11295,5,Villa,166,2006,-6 %
+Åvej 5 4653 Karise,5,1895000.0,03-09-2014,Alm.,9768,6,Villa,194,1877,0 %
+Kulagervej 45 4653 Karise,45,1200000.0,25-08-2014,Alm.,4411,7,Villa,272,1886,-20 %
+Søndergade 28 4653 Karise,28,1439000.0,05-08-2014,Alm.,13970,4,Villa,103,1953,-4 %
+Bredgade 35 4653 Karise,35,1016665.0,31-07-2014,Alm.,2096,15,Villa,485,1892,
+Nørrebro 5 4653 Karise,5,1035000.0,29-07-2014,Auktion,10350,4,Villa,100,1944,
+Tågerupvej 31 4653 Karise,31,1450000.0,28-07-2014,Alm.,7142,6,Villa,203,1900,-6 %
+Køgevej 50 4653 Karise,50,300000.0,10-07-2014,Alm.,7500,3,Sommerhus,40,1961,
+Smerupvej 27A 4653 Karise,0,260000.0,05-07-2014,Alm.,4727,2,Villa,55,1800,
+Alslevvej 3B 4653 Karise,0,900000.0,02-07-2014,Alm.,6923,4,Villa,130,1975,
+Vesterled 2 4653 Karise,2,311000.0,01-07-2014,Auktion,2752,5,Villa,113,1860,-65 %
+Nybyvej 4 4653 Karise,4,850000.0,20-06-2014,Alm.,7327,3,Villa,116,1923,-3 %
+Folmer Sangers Vej 14 4653 Karise,14,1600000.0,12-06-2014,Alm.,14035,4,Rækkehus,114,2005,
+Fællesvej 2 4653 Karise,2,399000.0,11-06-2014,Auktion,3243,3,Villa,123,2017,
+Hemmingsvej 28 4653 Karise,28,750000.0,04-06-2014,Auktion,6756,4,Villa,111,1973,
+Banevej 9 4653 Karise,9,1695000.0,23-05-2014,Alm.,11689,5,Villa,145,1930,0 %
+Ingers Vej 40 4653 Karise,40,1435000.0,15-05-2014,Alm.,12478,3,Rækkehus,115,2007,
+Præstemarksvej 5 4653 Karise,5,150000.0,02-05-2014,Alm.,925,6,Stuehus,162,1870,
+Jagtvej 18 4653 Karise,18,1330000.0,11-04-2014,Alm.,13039,4,Rækkehus,102,2014,4 %
+Tågerupvej 23 4653 Karise,23,750000.0,21-03-2014,Alm.,4335,5,Stuehus,173,1931,-14 %
+Dalbyvej 8 4653 Karise,8,625000.0,18-03-2014,Andet,5482,3,Villa,114,1939,
+Syrenvænget 9 4653 Karise,9,1175000.0,01-03-2014,Alm.,10129,5,Villa,116,1964,0 %
+Peder Olufsens Vej 18 4653 Karise,18,535648.0,25-02-2014,Andet,5101,5,Villa,105,1986,
+Folmer Sangers Vej 13 4653 Karise,13,1250000.0,21-02-2014,Alm.,10964,4,Rækkehus,114,2005,-6 %
+Drosselvej 20 4653 Karise,20,1250000.0,19-02-2014,Andet,8561,4,Villa,146,1979,
+Drosselvej 86 4653 Karise,86,995000.0,04-02-2014,Alm.,7537,5,Villa,132,1980,-9 %
+Jagtvej 10 4653 Karise,10,1350000.0,29-01-2014,Alm.,7584,5,Villa,178,2002,-10 %
+Folmer Sangers Vej 10 4653 Karise,10,1410000.0,06-01-2014,Alm.,12368,3,Rækkehus,114,2005,-6 %
+Geddevænget 3 4653 Karise,3,2650000.0,22-12-2013,Alm.,10515,7,Villa,252,1898,-12 %
+Drosselvej 70 4653 Karise,70,583600.0,04-12-2013,Auktion,6208,4,Villa,94,1980,-27 %
+Smerupvej 15 4653 Karise,15,549000.0,03-12-2013,Alm.,5435,4,Villa,101,1856,0 %
+Prins Buris Vej 3 4653 Karise,3,1650000.0,22-11-2013,Alm.,11000,6,Villa,150,1986,-8 %
+Overdrevsvej 25 4653 Karise,25,1186550.0,21-11-2013,Alm.,7806,5,Villa,152,1877,-5 %
+Jørslevvej 11 4653 Karise,11,720000.0,20-11-2013,Auktion,4528,6,Villa,159,1877,-66 %
+Skolegade 25E 4653 Karise,0,648919.0,18-11-2013,Andet,6689,3,Villa,97,2006,
+Jagtvej 16 4653 Karise,16,1700000.0,01-11-2013,Alm.,12318,6,Villa,138,2014,-5 %
+Skolegade 17A 4653 Karise,0,550000.0,23-10-2013,Auktion,3197,7,Villa,172,1920,
+Spjellerupvej 3B 4653 Karise,0,720000.0,22-10-2013,Alm.,6428,3,Villa,112,1886,
+Spjellerupvej 3A 4653 Karise,0,3780000.0,22-10-2013,Alm.,18349,6,Villa,206,2009,
+Peder Olufsens Vej 23 4653 Karise,23,50000.0,11-10-2013,Fam.,333,5,Villa,150,1986,
+Kløvervej 7 4653 Karise,7,1700000.0,10-10-2013,Alm.,11643,6,Villa,146,2000,
+Nørrebro 17 4653 Karise,17,1282000.0,22-09-2013,Andet,9567,4,Villa,134,1967,17 %
+Tågerupvej 39 4653 Karise,39,315200.0,18-09-2013,Auktion,1685,4,Villa,187,1880,
+Jagtvej 20 4653 Karise,20,1275000.0,04-09-2013,Alm.,12500,4,Rækkehus,102,2014,0 %
+Totterupvej 1 4653 Karise,1,10117909.0,02-09-2013,Alm.,48411,6,Stuehus,209,1875,
+Køgevej 47 4653 Karise,47,575000.0,30-08-2013,Alm.,5275,4,Villa,109,1920,-3 %
+Fasanvej 16 4653 Karise,16,750000.0,29-08-2013,Alm.,5639,4,Villa,133,1972,-12 %
+Skolegade 46B 4653 Karise,0,2230000.0,21-08-2013,Auktion,14768,6,Lejlighed,151,1990,
+Skolegade 46C 4653 Karise,0,2230000.0,21-08-2013,Auktion,26235,2,Lejlighed,85,1990,
+Skolegade 46E 4653 Karise,0,2230000.0,21-08-2013,Auktion,26547,2,Lejlighed,84,1990,
+Skolegade 46F 4653 Karise,0,2230000.0,21-08-2013,Auktion,30972,2,Lejlighed,72,1990,
+Folmer Sangers Vej 18 4653 Karise,18,800000.0,20-08-2013,Andet,5755,5,Villa,139,2008,
+Ingers Vej 49 4653 Karise,49,1450000.0,16-08-2013,Alm.,12608,3,Rækkehus,115,2007,
+Gimlingevej 4 4653 Karise,4,1650000.0,31-07-2013,Alm.,8549,6,Villa,193,1868,0 %
+Nybyvej 6 4653 Karise,6,850000.0,24-07-2013,Alm.,5862,4,Stuehus,145,2015,
+Drosselvej 14 4653 Karise,14,350000.0,17-07-2013,Auktion,3888,3,Villa,90,1907,
+Jørslevvej 15 4653 Karise,15,2750000.0,17-06-2013,Alm.,7333,4,Villa,375,1910,-8 %
+Ingers Vej 42 4653 Karise,42,1225000.0,11-06-2013,Alm.,13031,3,Rækkehus,94,2007,-8 %
+Ligustervej 5 4653 Karise,5,900000.0,23-05-2013,Alm.,9574,3,Villa,94,1938,-5 %
+Rhitras Vej 1 4653 Karise,1,668344.0,14-05-2013,Alm.,7110,3,Rækkehus,94,2009,
+Smerupvej 2 4653 Karise,2,109000.0,14-05-2013,Auktion,1453,2,Villa,75,1884,-71 %
+Sneppevej 2 4653 Karise,2,160050.0,06-05-2013,Andet,1006,5,Villa,159,2014,
+Elmevej 5B 4653 Karise,0,925000.0,25-04-2013,Alm.,8409,4,Villa,110,1967,-7 %
+Solagervej 13 4653 Karise,13,1900000.0,24-04-2013,Alm.,16101,4,Villa,118,1973,
+Trondhjemshuse 9 4653 Karise,9,540000.0,24-04-2013,Auktion,4251,5,Villa,127,1877,
+Bøgevej 11 4653 Karise,11,925000.0,08-04-2013,Alm.,8043,4,Villa,115,1972,-7 %
+Ridder Jernskægs Vej 7 4653 Karise,7,1275000.0,26-03-2013,Alm.,14166,3,Rækkehus,90,2000,-9 %
+Sønderbyvej 1 4653 Karise,1,1600000.0,22-03-2013,Alm.,11034,4,Stuehus,145,2014,-6 %
+Kulagervej 18 4653 Karise,18,650000.0,20-03-2013,Auktion,3475,5,Villa,187,1958,
+Skolegade 24 4653 Karise,24,525000.0,18-03-2013,Auktion,3017,8,Villa,174,1927,
+Ingers Vej 48 4653 Karise,48,1425000.0,14-03-2013,Alm.,12391,3,Rækkehus,115,2007,-2 %
+Søndergade 16 4653 Karise,16,1050000.0,13-03-2013,Alm.,7394,5,Villa,142,1927,-4 %
+Pebringevej 1 4653 Karise,1,4650000.0,18-02-2013,Alm.,22794,7,Stuehus,204,1927,
+Spjellerupvej 18 4653 Karise,18,880000.0,14-02-2013,Alm.,9887,3,Villa,89,1957,-7 %
+Breddammen 4 4653 Karise,4,13950000.0,28-12-2012,Alm.,92384,5,Stuehus,151,1960,
+Søndergade 14 4653 Karise,14,200000.0,19-12-2012,Auktion,1694,5,Villa,118,1920,
+Elmevej 1 4653 Karise,1,1100000.0,27-11-2012,Alm.,5882,6,Villa,187,1964,-14 %
+"Skolegade 46A, ST 4653 Karise",0,510000.0,19-11-2012,Auktion,4473,3,Lejlighed,114,1905,
+Drosselvej 43 4653 Karise,43,550000.0,09-11-2012,Alm.,5000,4,Villa,110,1966,
+Syrenvænget 15 4653 Karise,15,850000.0,23-10-2012,Alm.,7727,4,Villa,110,1963,-12 %
+Skolegade 55 4653 Karise,55,3575000.0,16-10-2012,Alm.,14019,10,Villa,255,1925,
+Tågerupvej 37 4653 Karise,37,320000.0,12-10-2012,Alm.,3636,2,Villa,88,1827,-15 %
+Østerskovvej 5 4653 Karise,5,2250000.0,10-10-2012,Auktion,12500,8,Stuehus,180,1970,
+Syrenvænget 2 4653 Karise,2,750000.0,02-10-2012,Auktion,4901,7,Villa,153,1963,
+Syrenvænget 19 4653 Karise,19,690000.0,01-10-2012,Auktion,5390,4,Villa,128,1964,
+Hemmingsvej 9 4653 Karise,9,650000.0,25-09-2012,Alm.,5078,5,Villa,128,1975,-4 %
+Prins Buris Vej 10 4653 Karise,10,254859.0,30-08-2012,Fam.,2255,4,Villa,113,1989,
+Ærtevænget 4 4653 Karise,4,875000.0,20-08-2012,Alm.,10802,3,Rækkehus,81,2004,-2 %
+Skolegade 46D 4653 Karise,0,460000.0,02-08-2012,Auktion,5287,2,Lejlighed,87,1990,
+Skovvænget 24 4653 Karise,24,1350000.0,02-08-2012,Alm.,8653,5,Villa,156,1976,12 %
+Køgevej 31B 4653 Karise,0,1095000.0,01-08-2012,Alm.,6974,4,Villa,157,1979,0 %
+Hemmingsvej 37 4653 Karise,37,850000.0,26-07-2012,Alm.,7083,3,Villa,120,1973,-4 %
+Køgevej 43 4653 Karise,43,4800000.0,25-07-2012,Alm.,16271,8,Stuehus,295,1913,
+Fasanvej 22 4653 Karise,22,1800000.0,19-07-2012,Andet,13846,4,Villa,130,1972,
+Lægårdsvej 2A 4653 Karise,0,560000.0,15-07-2012,Alm.,4869,3,Villa,115,1952,-3 %
+Alslevvej 15 4653 Karise,15,1100000.0,09-07-2012,Alm.,6547,4,Villa,168,1890,0 %
+Geddevænget 2 4653 Karise,2,2495000.0,03-07-2012,Alm.,17570,4,Villa,142,1892,
+Kildevej 11 4653 Karise,11,597500.0,03-07-2012,Alm.,5431,3,Villa,110,1974,
+Ådalsvej 5 4653 Karise,5,1486000.0,27-06-2012,Alm.,11089,5,Villa,134,2011,-7 %
+Ærtevænget 10 4653 Karise,10,904000.0,16-06-2012,Fam.,9934,3,Rækkehus,91,2003,
+Ridder Jernskægs Vej 5 4653 Karise,5,1485000.0,15-06-2012,Alm.,12801,3,Rækkehus,116,2002,-1 %
+Nordhøjvej 27 4653 Karise,27,100000.0,12-06-2012,Alm.,671,4,Villa,149,1880,
+Nybyvej 7 4653 Karise,7,1350000.0,04-06-2012,Alm.,14062,3,Stuehus,96,1923,-10 %
+Hemmingsvej 58 4653 Karise,58,795000.0,23-05-2012,Alm.,4649,5,Villa,171,1975,0 %
+Smerupvej 13 4653 Karise,13,806500.0,21-05-2012,Andet,3649,4,Villa,221,2008,
+Bøgevej 6 4653 Karise,6,1245000.0,27-04-2012,Alm.,7781,3,Villa,160,1972,-7 %
+Jørslevvej 12 4653 Karise,12,4676500.0,29-03-2012,Fam.,23982,6,Stuehus,195,1870,
+Ridder Jernskægs Vej 11 4653 Karise,11,1000000.0,29-03-2012,Alm.,10989,3,Rækkehus,91,2001,-13 %
+Æblegården 3 4653 Karise,3,390000.0,21-03-2012,Alm.,2294,6,Villa,170,2013,-84 %
+Solagervej 9 4653 Karise,9,795000.0,14-03-2012,Alm.,5760,4,Villa,138,1970,-6 %
+Skolegade 51 4653 Karise,51,825000.0,02-03-2012,Alm.,11000,3,Rækkehus,75,1961,
+Nyvej 2 4653 Karise,2,750000.0,24-02-2012,Alm.,6818,4,Villa,110,1961,-16 %
+Skovvænget 2 4653 Karise,2,960000.0,20-02-2012,Alm.,8807,3,Villa,109,1963,-4 %
+Kirkestien 3 4653 Karise,3,635000.0,07-02-2012,Auktion,5120,3,Villa,124,2017,7 %
+Smerupvej 19 4653 Karise,19,670000.0,13-01-2012,Alm.,3872,6,Villa,173,1793,-25 %
+Banevej 2B 4653 Karise,0,450000.0,14-12-2011,Auktion,4054,3,Lejlighed,111,1879,
+Banevej 2A 4653 Karise,0,450000.0,14-12-2011,Auktion,4500,3,Lejlighed,100,1879,
+Banevej 2C 4653 Karise,0,450000.0,14-12-2011,Auktion,4017,3,Lejlighed,112,1879,
+Banevej 5 4653 Karise,5,800000.0,08-12-2011,Alm.,6106,5,Villa,131,1970,-6 %
+Kløvervej 17 4653 Karise,17,673790.0,05-12-2011,Fam.,6417,4,Villa,105,2006,
+Liden Kirstens Vej 10 4653 Karise,10,875000.0,24-11-2011,Auktion,4206,6,Villa,208,1972,
+Æblegården 2 4653 Karise,2,325000.0,22-11-2011,Alm.,2070,4,Villa,157,2012,
+Vesterled 7 4653 Karise,7,812689.0,05-10-2011,Alm.,3907,6,Villa,208,1750,
+Præstevænget 5B 4653 Karise,0,1700000.0,14-09-2011,Alm.,9444,7,Stuehus,180,1850,
+Køgevej 31A 4653 Karise,0,750000.0,23-08-2011,Alm.,5769,5,Villa,130,1936,-16 %
+Kildevej 23 4653 Karise,23,562143.0,16-08-2011,Andet,5736,3,Villa,98,1850,
+Sneppevej 15 4653 Karise,15,315000.0,16-08-2011,Alm.,2625,4,Villa,120,2012,
+Tågerupvej 9 4653 Karise,9,1095000.0,04-08-2011,Alm.,11173,3,Villa,98,1900,0 %
+Ingers Vej 32 4653 Karise,32,1300000.0,27-07-2011,Alm.,13829,3,Rækkehus,94,2007,-7 %
+Ærtevænget 14 4653 Karise,14,700000.0,07-07-2011,Auktion,7692,3,Rækkehus,91,2004,
+Rhitras Vej 36 4653 Karise,36,2500000.0,17-06-2011,Alm.,13297,5,Villa,188,2007,0 %
+Folmer Sangers Vej 2 4653 Karise,2,1400000.0,09-06-2011,Alm.,11200,4,Rækkehus,125,2005,-3 %
+Køgevej 82 4653 Karise,82,1571800.0,08-06-2011,Auktion,7520,6,Stuehus,209,1927,
+Solagervej 4 4653 Karise,4,1250000.0,25-05-2011,Alm.,8992,4,Villa,139,1972,
+Solagervej 5 4653 Karise,5,1000000.0,18-05-2011,Alm.,6329,5,Villa,158,1970,-7 %
+St Lindevej 3 4653 Karise,3,625000.0,07-05-2011,Alm.,6127,4,Villa,102,1959,0 %
+Sneppevej 20 4653 Karise,20,360000.0,05-05-2011,Alm.,2278,5,Villa,158,2015,
+Sneppevej 24 4653 Karise,24,1012542.0,04-05-2011,Alm.,6490,5,Villa,156,2010,
+Skolegade 44C 4653 Karise,0,1025000.0,11-04-2011,Alm.,13311,2,Rækkehus,77,2006,-14 %
+Prins Buris Vej 21 4653 Karise,21,595000.0,01-04-2011,Alm.,5560,4,Villa,107,1989,
+Nordhøjvej 46 4653 Karise,46,990000.0,30-03-2011,Auktion,9611,3,Villa,103,1897,
+Rhitras Vej 11 4653 Karise,11,1520000.0,29-03-2011,Alm.,13333,4,Rækkehus,114,2007,-5 %
+Hemmingsvej 26 4653 Karise,26,1175000.0,10-03-2011,Alm.,7532,5,Villa,156,1973,0 %
+Drosselvej 39 4653 Karise,39,654800.0,07-03-2011,Fam.,7275,3,Villa,90,1900,
+Folmer Sangers Vej 5 4653 Karise,5,1595000.0,21-02-2011,Alm.,13073,4,Rækkehus,122,2004,0 %
+Æblegården 1 4653 Karise,1,350000.0,16-02-2011,Alm.,2108,5,Villa,166,2012,-10 %
+Barup Bygade 11 4653 Karise,11,50000.0,15-02-2011,Alm.,324,6,Stuehus,154,1848,
+Ågårdsvej 1 4653 Karise,1,900000.0,03-02-2011,Alm.,7377,3,Villa,122,1926,-4 %
+Bredgade 34 4653 Karise,34,1000000.0,27-01-2011,Alm.,7142,6,Villa,140,1947,-19 %
+Ingers Vej 37 4653 Karise,37,1254000.0,13-01-2011,Alm.,13340,3,Rækkehus,94,2007,-3 %
+Præstemarksvej 7B 4653 Karise,0,1300000.0,18-12-2010,Andet,8843,3,Villa,147,1903,
+Møllehusvej 6 4653 Karise,6,898000.0,14-12-2010,Fam.,12135,3,Stuehus,74,1923,
+Pebringevej 12 4653 Karise,12,875000.0,25-11-2010,Alm.,8578,4,Villa,102,1900,-5 %
+Smerupvej 28 4653 Karise,28,500000.0,18-11-2010,Alm.,7936,3,Villa,63,1958,-5 %
+Juellingevej 10 4653 Karise,10,1500000.0,21-10-2010,Alm.,8426,4,Villa,178,1912,-12 %
+Banevej 3 4653 Karise,3,1250000.0,07-10-2010,Alm.,8333,7,Villa,150,1924,-16 %
+Hemmingsvej 57 4653 Karise,57,1515000.0,06-10-2010,Alm.,10100,5,Villa,150,1975,-4 %
+Køgevej 53A 4653 Karise,0,945000.0,05-10-2010,Alm.,4055,10,Stuehus,233,1897,-67 %
+Tinghusvej 2 4653 Karise,2,1275000.0,27-09-2010,Alm.,9960,4,Villa,128,1971,
+Hemmingsvej 27 4653 Karise,27,900000.0,22-09-2010,Alm.,7826,5,Villa,115,1973,-10 %
+Søndergade 29 4653 Karise,29,465228.0,30-07-2010,Alm.,2673,5,Villa,174,1956,
+Møllehusvej 22 4653 Karise,22,1495000.0,29-07-2010,Alm.,9900,4,Villa,151,1925,0 %
+Dalbyvej 19B 4653 Karise,0,787462.0,26-07-2010,Fam.,4326,5,Villa,182,1900,
+Alslevvej 10 4653 Karise,10,1295000.0,15-07-2010,Alm.,7357,5,Villa,176,1880,0 %
+Solagervej 20 4653 Karise,20,1050000.0,01-07-2010,Auktion,5769,5,Villa,182,1972,
+Ingers Vej 38 4653 Karise,38,1485000.0,30-06-2010,Alm.,12913,4,Rækkehus,115,2007,-15 %
+Sneppevej 13 4653 Karise,13,360000.0,22-06-2010,Alm.,2975,4,Villa,121,2012,
+Sneppevej 18 4653 Karise,18,360000.0,14-06-2010,Alm.,2400,4,Villa,150,2012,0 %
+Søndervang 3 4653 Karise,3,1700000.0,12-06-2010,Alm.,6827,11,Villa,249,1937,
+Hemmingsvej 43 4653 Karise,43,1050000.0,09-06-2010,Alm.,9130,4,Villa,115,1973,0 %
+Dalbyvej 22 4653 Karise,22,2100000.0,26-05-2010,Alm.,0,4,Villa,167,1907,-8 %
+Bakkeskovvej 3 4653 Karise,3,894125.0,17-05-2010,Fam.,3956,7,Villa,226,1900,
+Elverhøjvej 30 4653 Karise,30,1995000.0,04-05-2010,Alm.,7416,9,Villa,269,1780,0 %
+Køgevej 76 4653 Karise,76,410000.0,28-04-2010,Auktion,3228,4,Villa,127,1922,
+Prins Buris Vej 18 4653 Karise,18,1750000.0,26-04-2010,Alm.,10670,6,Villa,164,1989,-3 %
+Breddammen 15 4653 Karise,15,1695000.0,13-04-2010,Alm.,9797,5,Villa,173,1881,0 %
+Alslevvej 11 4653 Karise,11,810000.0,08-04-2010,Alm.,2745,8,Villa,295,1890,
+Skovvænget 8 4653 Karise,8,985000.0,22-03-2010,Auktion,9752,3,Villa,101,1965,
+Dalbyvej 4 4653 Karise,4,695000.0,19-02-2010,Alm.,6813,4,Villa,102,1955,0 %
+Vesterled 4 4653 Karise,4,1271127.0,09-02-2010,Alm.,7061,7,Villa,180,1931,
+Skovvænget 6 4653 Karise,6,1350000.0,28-01-2010,Auktion,9782,5,Villa,138,1969,-3 %
+Sønderbyvej 8 4653 Karise,8,3500000.0,13-01-2010,Alm.,17412,6,Stuehus,201,1923,-12 %
+Skovvænget 16 4653 Karise,16,1085000.0,29-12-2009,Alm.,9601,4,Villa,113,1968,-9 %
+Rosengården 10 4653 Karise,10,1875000.0,21-12-2009,Alm.,12335,5,Villa,152,2005,-6 %
+Juellingevej 14 4653 Karise,14,393540.0,15-12-2009,Alm.,2915,5,Villa,135,2004,
+Alslevvej 4 4653 Karise,4,10000.0,15-12-2009,Auktion,100,3,Villa,100,1890,
+Drosselvej 114 4653 Karise,114,1175000.0,10-11-2009,Auktion,7885,4,Villa,149,1925,
+Kirkestien 2 4653 Karise,2,770000.0,05-11-2009,Alm.,9625,4,Villa,80,1898,-3 %
+Skolegade 28 4653 Karise,28,730000.0,02-11-2009,Alm.,7300,4,Villa,100,1910,-9 %
+Spjellerupvej 7 4653 Karise,7,900000.0,29-09-2009,Alm.,8571,4,Villa,105,1967,-9 %
+Breddammen 1 4653 Karise,1,675000.0,24-07-2009,Alm.,7105,3,Villa,95,1807,-10 %
+Skolegade 53 4653 Karise,53,1125000.0,21-07-2009,Alm.,8272,4,Villa,136,1962,-10 %
+Hemmingsvej 63 4653 Karise,63,1550000.0,07-07-2009,Fam.,13963,3,Villa,111,1974,
+Kærvej 8 4653 Karise,8,1950000.0,01-07-2009,Alm.,13541,6,Villa,144,1994,-11 %
+Nørrebro 15 4653 Karise,15,1450000.0,01-07-2009,Alm.,8011,6,Villa,181,1971,-11 %
+Bredgade 36 4653 Karise,36,3400000.0,26-06-2009,Alm.,11258,11,Villa,302,1907,
+Rosengården 18 4653 Karise,18,2550000.0,26-06-2009,Alm.,16139,5,Villa,158,2007,0 %
+Karl Af Rises Vej 5 4653 Karise,5,1000000.0,24-06-2009,Alm.,6369,5,Villa,157,1969,-13 %
+Syrenvænget 7 4653 Karise,7,637500.0,23-06-2009,Fam.,5312,4,Villa,120,1963,
+Kærvej 5 4653 Karise,5,750000.0,13-06-2009,Alm.,7500,4,Villa,100,1930,-6 %
+Søndergade 3 4653 Karise,3,1380000.0,11-06-2009,Alm.,8625,5,Villa,160,1887,
+Folmer Sangers Vej 15 4653 Karise,15,1395000.0,10-06-2009,Alm.,12236,3,Rækkehus,114,2006,-7 %
+Ridder Jernskægs Vej 3A 4653 Karise,0,1250000.0,04-06-2009,Alm.,15625,3,Rækkehus,80,2001,-3 %
+Dalbyvej 18 4653 Karise,18,1095000.0,03-06-2009,Alm.,10735,3,Villa,102,1917,0 %
+Kildevej 25 4653 Karise,25,2200000.0,27-05-2009,Andet,4150,13,Villa,530,1926,
+Prins Buris Vej 8 4653 Karise,8,1850000.0,26-05-2009,Alm.,12012,5,Villa,154,1987,-7 %
+Skovbrodersvej 1 4653 Karise,1,1400000.0,07-05-2009,Alm.,11965,3,Rækkehus,117,2002,0 %
+Nørrebro 7 4653 Karise,7,1425000.0,06-05-2009,Alm.,12837,5,Villa,111,1945,-9 %
+Hemmingsvej 32 4653 Karise,32,1040000.0,02-05-2009,Alm.,9369,4,Villa,111,1973,-13 %
+Køgevej 36 4653 Karise,36,3488176.0,02-05-2009,Fam.,10475,8,Villa,333,1910,
+Drosselvej 23 4653 Karise,23,971500.0,01-05-2009,Andet,10119,4,Villa,96,1985,
+Drosselvej 110A 4653 Karise,0,250000.0,27-02-2009,Alm.,2083,4,Villa,120,2008,
+Nordhøjvej 42 4653 Karise,42,1275000.0,09-02-2009,Fam.,9444,6,Villa,135,1910,
+Tågerupvej 6 4653 Karise,6,2200000.0,02-02-2009,Alm.,14965,3,Villa,147,1850,-12 %
+Ridder Jernskægs Vej 12 4653 Karise,12,1195000.0,02-02-2009,Alm.,13131,3,Rækkehus,91,2001,0 %
+Præstemarksvej 2A 4653 Karise,0,1430000.0,12-01-2009,Alm.,14158,4,Villa,101,1932,-4 %
+Køgevej 44 4653 Karise,44,485000.0,29-12-2008,Andet,2694,6,Villa,180,1913,
+Valbyvej 8 4653 Karise,8,150000.0,30-11-2008,Alm.,1500,4,Stuehus,100,1923,
+Ærtevænget 11 4653 Karise,11,1260000.0,11-11-2008,Alm.,13846,3,Rækkehus,91,2004,-10 %
+Smerupvej 5 4653 Karise,5,795000.0,30-09-2008,Alm.,7227,4,Villa,110,1893,0 %
+Jørslev Vænge 1 4653 Karise,1,1495000.0,15-09-2008,-,13971,3,Villa,107,1902,0 %
+Brinken 3 4653 Karise,3,1030000.0,15-09-2008,Alm.,12409,4,Sommerhus,83,1777,
+Barupvejen 40 4653 Karise,40,7250000.0,12-09-2008,Alm.,25618,8,Stuehus,283,1800,
+Præstemarksvej 12 4653 Karise,12,1000000.0,27-08-2008,Alm.,8403,4,Villa,119,1907,-13 %
+Tågerupvej 12 4653 Karise,12,3100000.0,25-08-2008,Alm.,15736,6,Villa,197,1951,-22 %
+Drosselvej 56 4653 Karise,56,825000.0,20-08-2008,Fam.,6818,4,Villa,121,1982,
+Skuderupvej 2B 4653 Karise,0,742500.0,05-08-2008,Alm.,0,5,Villa,116,1850,
+Liden Kirstens Vej 5 4653 Karise,5,1900000.0,04-08-2008,Alm.,15966,4,Villa,119,1973,-9 %
+Fasanvej 2 4653 Karise,2,1300000.0,29-07-2008,Alm.,11607,4,Villa,112,1966,-4 %
+Hemmingsvej 5 4653 Karise,5,1450000.0,17-07-2008,Alm.,11507,4,Villa,126,1973,
+Drosselvej 84 4653 Karise,84,3000000.0,08-07-2008,Alm.,13215,6,Villa,227,1980,
+Drosselvej 31 4653 Karise,31,743125.0,07-07-2008,Alm.,7740,4,Villa,96,1985,
+Tokkerupvej 42 4653 Karise,42,306000.0,03-07-2008,Fam.,12240,1,Sommerhus,25,1968,
+Kulagervej 16 4653 Karise,16,2200000.0,17-06-2008,Alm.,10576,6,Villa,208,1896,-4 %
+Skolegade 5A 4653 Karise,0,2395000.0,03-06-2008,Alm.,12807,6,Villa,187,1890,-4 %
+Præstevænget 5A 4653 Karise,0,4365000.0,20-05-2008,Alm.,11547,8,Villa,378,1980,-8 %
+Smerupvej 10 4653 Karise,10,1362000.0,14-05-2008,Alm.,14041,2,Villa,97,1904,-4 %
+Rhitras Vej 18 4653 Karise,18,1090583.0,07-05-2008,Alm.,7418,4,Villa,147,2006,
+Ingers Vej 33 4653 Karise,33,1825000.0,28-04-2008,Alm.,19414,3,Rækkehus,94,2007,
+Søndergade 12 4653 Karise,12,2100000.0,16-04-2008,Alm.,15217,5,Villa,138,1917,
+Juellingevej 3 4653 Karise,3,1850000.0,01-04-2008,Alm.,11212,4,Villa,165,1912,-7 %
+Fasanvej 24 4653 Karise,24,1750000.0,28-03-2008,Alm.,11437,5,Villa,153,1976,-12 %
+Liden Kirstens Vej 4 4653 Karise,4,1855000.0,10-03-2008,Alm.,14269,5,Villa,130,1972,-2 %
+Rønne Alle 20 4653 Karise,20,1295000.0,26-02-2008,Alm.,18239,3,Villa,71,1938,0 %
+Sandgravsvej 4 4653 Karise,4,750000.0,20-02-2008,Andet,4870,3,Villa,154,1876,
+Ingers Vej 39 4653 Karise,39,1825000.0,12-02-2008,Alm.,19414,3,Rækkehus,94,2007,0 %
+Solagervej 30 4653 Karise,30,7780000.0,08-02-2008,Alm.,54788,3,Villa,142,1915,
+Tuehuse 9 4653 Karise,9,4000000.0,31-01-2008,Alm.,14285,5,Villa,280,1971,-37 %
+Sandgravsvej 2 4653 Karise,2,750000.0,29-01-2008,Andet,2873,12,Villa,261,1877,
+Smerupvej 33 4653 Karise,33,1395000.0,27-01-2008,Alm.,11923,4,Villa,117,1910,-7 %
+Ingers Vej 2 4653 Karise,2,2010000.0,26-01-2008,Alm.,17179,4,Rækkehus,117,2008,
+Nyvej 3 4653 Karise,3,1250000.0,17-01-2008,Alm.,9124,4,Villa,137,1960,-12 %
+Dalbyvej 13 4653 Karise,13,521500.0,07-01-2008,Alm.,4495,3,Villa,116,1910,
+Hemmingsvej 55 4653 Karise,55,1750000.0,28-12-2007,Alm.,12237,3,Villa,143,1973,
+Kulagervej 22 4653 Karise,22,1572500.0,25-12-2007,Fam.,15883,3,Stuehus,99,1974,
+Ingers Vej 8 4653 Karise,8,1975000.0,18-12-2007,Alm.,16880,4,Rækkehus,117,2008,
+Præstemarksvej 21 4653 Karise,21,1300000.0,10-12-2007,Alm.,12500,5,Villa,104,1860,0 %
+Tågerupvej 5 4653 Karise,5,1895000.0,19-11-2007,Alm.,12305,4,Villa,154,1889,
+Jørslev Skovvej 2 4653 Karise,2,1750000.0,15-11-2007,Alm.,12500,8,Villa,140,1860,-5 %
+Bredgade 24E 4653 Karise,0,1287947.0,14-11-2007,Alm.,7155,4,Villa,180,1925,
+Ingers Vej 7 4653 Karise,7,2176442.0,07-11-2007,Alm.,18602,4,Rækkehus,117,2007,
+Dalbyvej 1 4653 Karise,1,1995000.0,26-10-2007,Alm.,14456,6,Villa,138,1904,-5 %
+Bredgade 16 4653 Karise,16,1130000.0,24-10-2007,Alm.,6647,7,Villa,170,1927,
+Trondhjemshuse 15 4653 Karise,15,1250000.0,23-10-2007,Alm.,13020,3,Villa,96,1827,
+Mosevej 1 4653 Karise,1,835149.0,19-10-2007,Andet,4093,6,Villa,204,1877,
+Kildevej 5 4653 Karise,5,797500.0,11-10-2007,Fam.,5079,7,Villa,157,1968,
+Ingers Vej 29 4653 Karise,29,1995000.0,10-10-2007,Alm.,17347,3,Rækkehus,115,2008,0 %
+Søndergade 23 4653 Karise,23,1700000.0,02-10-2007,Fam.,5782,15,Villa,294,1958,
+Ingers Vej 6 4653 Karise,6,2149000.0,01-10-2007,Alm.,18367,4,Rækkehus,117,2007,
+Bredgade 48 4653 Karise,48,1208977.0,26-09-2007,Auktion,7850,5,Villa,154,1935,
+Nordhøjvej 33 4653 Karise,33,130000.0,25-09-2007,Alm.,565,4,Villa,230,1877,
+Præstemarksvej 19 4653 Karise,19,6975000.0,18-09-2007,Alm.,43055,4,Stuehus,162,1870,
+Overdrevsvej 33 4653 Karise,33,850000.0,11-09-2007,Alm.,7391,3,Villa,115,1900,
+Ingers Vej 5 4653 Karise,5,2010000.0,09-09-2007,Alm.,17179,4,Rækkehus,117,2007,
+Kildevej 2A 4653 Karise,0,2000000.0,30-08-2007,Alm.,5797,8,Villa,345,1912,-16 %
+Ingers Vej 9 4653 Karise,9,2000000.0,30-08-2007,Alm.,17094,4,Rækkehus,117,2007,
+Drosselvej 4 4653 Karise,4,1995000.0,16-08-2007,Alm.,26959,3,Villa,74,1948,
+Drosselvej 22 4653 Karise,22,1800000.0,15-08-2007,Alm.,14876,4,Villa,121,1978,
+Smerupvej 22 4653 Karise,22,800000.0,15-08-2007,Alm.,9523,3,Villa,84,1902,
+Fasanvej 9 4653 Karise,9,1250000.0,01-08-2007,Alm.,13440,2,Villa,93,1973,0 %
+Søndergade 27 4653 Karise,27,1795000.0,14-06-2007,Alm.,17598,4,Villa,102,1937,0 %
+Skovvænget 12A 4653 Karise,0,1850000.0,10-06-2007,Alm.,13805,4,Villa,134,1983,-7 %
+Køgevej 33 4653 Karise,33,950000.0,09-06-2007,Alm.,8878,3,Villa,107,1906,
+Skovvænget 20 4653 Karise,20,1680000.0,30-05-2007,Alm.,15135,4,Villa,111,1972,0 %
+Fasanvej 26 4653 Karise,26,2385000.0,29-05-2007,Alm.,16335,5,Villa,146,1990,
+Køgevej 74 4653 Karise,74,1350000.0,15-05-2007,Alm.,9121,3,Villa,148,1884,-3 %
+Solagervej 18 4653 Karise,18,1300000.0,03-05-2007,Alm.,14285,2,Villa,91,1971,-4 %
+Lægårdsvej 3 4653 Karise,3,293000.0,30-04-2007,Alm.,1337,8,Stuehus,219,1888,
+Nørrebro 4 4653 Karise,4,1775000.0,25-04-2007,Alm.,13549,4,Villa,131,1962,0 %
+Skolegade 48A 4653 Karise,0,245000.0,24-04-2007,Alm.,1788,4,Villa,137,2002,
+Spjellerupvej 28A 4653 Karise,0,3995000.0,23-04-2007,Alm.,20075,7,Villa,199,1929,0 %
+Nørrebro 11 4653 Karise,11,1265000.0,23-04-2007,Alm.,18071,3,Villa,70,1961,-2 %
+Sneppevej 11 4653 Karise,11,644000.0,16-04-2007,Alm.,4128,6,Villa,156,2015,0 %
+Præstevænget 11 4653 Karise,11,1575000.0,15-04-2007,Alm.,14719,3,Villa,107,1912,-6 %
+Køgevej 29 4653 Karise,29,1595000.0,22-03-2007,Alm.,9968,7,Villa,160,1938,0 %
+Drosselvej 6 4653 Karise,6,1300000.0,21-03-2007,Alm.,7647,8,Villa,170,1918,
+Rhitras Vej 9 4653 Karise,9,1730000.0,20-03-2007,Alm.,14065,4,Rækkehus,123,2009,
+Skovvænget 11 4653 Karise,11,2295000.0,14-03-2007,Alm.,14711,5,Villa,156,1967,
+Hemmingsvej 49 4653 Karise,49,1730000.0,07-03-2007,Alm.,15043,4,Villa,115,1973,-3 %
+Alslevvej 7A 4653 Karise,0,2650000.0,03-03-2007,Alm.,17666,5,Sommerhus,150,1577,
+Ingers Vej 10 4653 Karise,10,2010000.0,02-03-2007,Alm.,17179,4,Rækkehus,117,2007,
+Vemmetoftevej 5A 4653 Karise,0,1445000.0,27-02-2007,Fam.,8865,5,Villa,163,1976,
+Rhitras Vej 10 4653 Karise,10,1724775.0,26-02-2007,Alm.,15129,4,Rækkehus,114,2007,
+Karl Af Rises Vej 2 4653 Karise,2,1428000.0,26-02-2007,Alm.,14280,4,Villa,100,1967,-5 %
+Bakkeskovvej 5 4653 Karise,5,6375000.0,20-02-2007,Fam.,26562,8,Stuehus,240,1895,
+Skredebakkevej 2 4653 Karise,2,2000000.0,19-02-2007,Fam.,11764,6,Stuehus,170,1890,
+Spjellerupvej 22 4653 Karise,22,885000.0,02-02-2007,Alm.,10662,3,Sommerhus,83,1866,-4 %
+Smerupvej 29A 4653 Karise,0,1600000.0,28-01-2007,Alm.,14814,3,Villa,108,1877,
+Drosselvej 19 4653 Karise,19,1595000.0,18-01-2007,Alm.,17527,3,Villa,91,1982,
+Rosengården 14 4653 Karise,14,2945000.0,18-01-2007,Alm.,19633,5,Villa,150,2004,-2 %
+Rhitras Vej 12 4653 Karise,12,1872470.0,15-01-2007,Alm.,15223,4,Rækkehus,123,2007,
+Ingers Vej 41 4653 Karise,41,1725000.0,02-01-2007,Alm.,15000,3,Rækkehus,115,2007,
+Drosselvej 3 4653 Karise,3,1300000.0,02-01-2007,Alm.,8227,6,Villa,158,1903,
+Jørslevvej 5 4653 Karise,5,4100000.0,01-01-2007,Fam.,42708,5,Stuehus,96,1916,
+Tokkerupvej 48 4653 Karise,48,1000000.0,01-01-2007,Fam.,8695,4,Villa,115,1959,
+Drosselvej 110C 4653 Karise,0,1987574.0,20-12-2006,Alm.,0,4,Rækkehus,93,1878,
+Bøgevej 9 4653 Karise,9,1850000.0,01-12-2006,Alm.,14682,1,Villa,126,1971,
+Sønderbyvej 4 4653 Karise,4,2085000.0,22-11-2006,Alm.,16038,5,Villa,130,1923,
+Smerupvej 27B 4653 Karise,0,2750000.0,21-11-2006,Alm.,13819,5,Villa,199,1751,
+Prins Buris Vej 20 4653 Karise,20,1995000.0,20-11-2006,Alm.,12870,5,Villa,155,1987,
+Ingers Vej 31 4653 Karise,31,1995000.0,20-11-2006,Alm.,17347,3,Rækkehus,115,2007,
+Ingers Vej 36 4653 Karise,36,1825000.0,17-11-2006,Alm.,19414,3,Rækkehus,94,2007,
+Hemmingsvej 47 4653 Karise,47,1475000.0,15-11-2006,Alm.,13409,3,Villa,110,1973,
+Dalbyvej 20 4653 Karise,20,2350000.0,08-11-2006,Alm.,0,8,Villa,240,1917,
+Pebringevej 6 4653 Karise,6,119400.0,02-11-2006,Alm.,591,4,Stuehus,202,1857,
+Ingers Vej 34 4653 Karise,34,1995000.0,01-11-2006,Alm.,17347,3,Rækkehus,115,2007,
+Rhitras Vej 2 4653 Karise,2,1585000.0,30-10-2006,Alm.,13903,4,Rækkehus,114,2006,
+Præstestien 5 4653 Karise,5,1820000.0,30-10-2006,Alm.,6066,9,Villa,300,1877,
+Smerupvej 9 4653 Karise,9,1195000.0,27-10-2006,Alm.,14397,4,Villa,83,1877,
+Skolegade 8 4653 Karise,8,1275000.0,26-10-2006,Fam.,6967,7,Villa,183,1935,
+Skolegade 16 4653 Karise,16,2995000.0,07-09-2006,Alm.,13865,7,Villa,216,1900,
+Folmer Sangers Vej 24 4653 Karise,24,1850000.0,31-08-2006,Alm.,19680,3,Rækkehus,94,2006,
+Kærvej 6 4653 Karise,6,1450000.0,30-08-2006,Alm.,12288,4,Villa,118,1962,
+Skovvænget 22 4653 Karise,22,1990000.0,29-08-2006,Alm.,14014,4,Villa,142,1969,
+St Lindevej 2 4653 Karise,2,580000.0,21-08-2006,Fam.,2436,8,Stuehus,238,1965,
+Jørslevvej 23 4653 Karise,23,3498000.0,14-08-2006,Alm.,18124,4,Villa,193,1950,
+Hemmingsvej 17 4653 Karise,17,1760000.0,05-08-2006,Alm.,12307,4,Villa,143,1973,
+Storkevænget 12 4653 Karise,12,2250000.0,17-07-2006,Alm.,0,6,Villa,163,1957,
+Søndergade 19 4653 Karise,19,2175000.0,06-07-2006,Alm.,13262,4,Villa,164,1987,
+Alslevvej 5 4653 Karise,5,1275000.0,04-07-2006,Alm.,10714,5,Villa,119,1912,
+Smerupvej 23A 4653 Karise,0,1675000.0,01-07-2006,Alm.,11964,8,Villa,140,1877,
+Kløvervej 23 4653 Karise,23,1900000.0,21-06-2006,Alm.,19387,4,Villa,98,2002,
+Ridder Jernskægs Vej 3C 4653 Karise,0,1550000.0,15-06-2006,Alm.,19375,3,Rækkehus,80,2001,
+Breddammen 7 4653 Karise,7,2425000.0,15-06-2006,Alm.,20208,6,Stuehus,120,1715,
+"Skolegade 46A, 1 4653 Karise",1,995000.0,14-06-2006,Alm.,11705,3,Lejlighed,85,1905,
+Jagtvej 5 4653 Karise,5,1795000.0,13-06-2006,Alm.,13198,5,Villa,136,1800,
+Kulagervej 26 4653 Karise,26,900000.0,08-06-2006,Alm.,9183,4,Stuehus,98,1917,
+Nyvej 1 4653 Karise,1,1760000.0,06-06-2006,Alm.,8502,5,Villa,207,1961,
+Ærtevænget 13 4653 Karise,13,1525000.0,01-06-2006,Alm.,16758,3,Rækkehus,91,2004,
+Kløvervej 21 4653 Karise,21,1350000.0,01-06-2006,Alm.,16666,3,Villa,81,2005,
+Tågerupvej 15 4653 Karise,15,1795000.0,23-05-2006,Alm.,9300,4,Villa,193,1956,
+Drosselvej 35 4653 Karise,35,977500.0,20-05-2006,Fam.,9050,4,Villa,108,1985,
+Præstevænget 6 4653 Karise,6,1675000.0,18-05-2006,Alm.,16262,4,Villa,103,1944,
+Skolegade 36 4653 Karise,36,1900000.0,16-05-2006,Alm.,15200,4,Villa,125,1915,
+Nørrebro 8 4653 Karise,8,1095000.0,16-05-2006,Alm.,11902,4,Villa,92,1962,
+Syrenvænget 10 4653 Karise,10,1525000.0,11-05-2006,Alm.,13377,4,Villa,114,1964,
+Ådalsvej 9 4653 Karise,9,1675000.0,08-05-2006,Alm.,15509,3,Villa,108,1850,
+Trondhjemshuse 5 4653 Karise,5,4500000.0,24-04-2006,Alm.,22500,5,Villa,200,1981,
+Skovbrodersvej 8 4653 Karise,8,1650000.0,20-04-2006,Alm.,17553,3,Rækkehus,94,2003,
+Smerupvej 35 4653 Karise,35,2100000.0,06-04-2006,Alm.,8400,6,Villa,250,1827,
+Skolegade 22 4653 Karise,22,1895000.0,04-04-2006,Alm.,13251,6,Villa,143,1947,
+Søndergade 11 4653 Karise,11,900000.0,29-03-2006,Alm.,10000,4,Villa,90,1877,
+Karisevej 144 4653 Karise,144,1402500.0,27-03-2006,Alm.,13485,4,Stuehus,104,1877,
+Hemmingsvej 46 4653 Karise,46,1375000.0,19-03-2006,Alm.,7638,5,Villa,180,1973,
+Jørslev Skovvej 4 4653 Karise,4,1430375.0,17-03-2006,Alm.,5544,4,Villa,258,1898,
+Køgevej 21 4653 Karise,21,1650000.0,17-03-2006,Alm.,10855,4,Villa,152,1969,
+Ingers Vej 45 4653 Karise,45,1450000.0,16-03-2006,Alm.,15425,3,Rækkehus,94,2006,
+Ingers Vej 46 4653 Karise,46,1450000.0,16-03-2006,Alm.,15425,3,Rækkehus,94,2006,
+Præstemarksvej 26 4653 Karise,26,2235000.0,16-03-2006,Alm.,14326,5,Villa,156,1955,
+Ingers Vej 50 4653 Karise,50,1625000.0,14-03-2006,Alm.,14130,3,Rækkehus,115,2006,
+Ingers Vej 51 4653 Karise,51,1625000.0,14-03-2006,Alm.,14130,3,Rækkehus,115,2007,
+Ingers Vej 47 4653 Karise,47,1625000.0,14-03-2006,Alm.,14130,3,Rækkehus,115,2007,
+Skolegade 34 4653 Karise,34,1450000.0,10-03-2006,Alm.,15104,4,Villa,96,1989,
+Solagervej 19 4653 Karise,19,1507297.0,07-03-2006,Alm.,10323,6,Villa,146,1973,
+Præstemarksvej 1 4653 Karise,1,1425000.0,06-03-2006,Alm.,9760,3,Villa,146,1937,
+Rhitras Vej 6 4653 Karise,6,1550000.0,01-03-2006,Alm.,12601,4,Rækkehus,123,2006,
+Rhitras Vej 8 4653 Karise,8,1595000.0,01-03-2006,Alm.,12967,4,Rækkehus,123,2006,
+Bredgade 18 4653 Karise,18,2295000.0,25-02-2006,Alm.,13993,7,Villa,164,1927,
+Fasanvej 15 4653 Karise,15,1685000.0,22-02-2006,Alm.,12389,4,Villa,136,1973,
+Rhitras Vej 5 4653 Karise,5,1760000.0,20-02-2006,Alm.,12846,4,Rækkehus,137,2006,
+Jørslevvej 9 4653 Karise,9,1695000.0,09-02-2006,Alm.,13242,4,Villa,128,1850,
+Rhitras Vej 7 4653 Karise,7,1778000.0,02-02-2006,Alm.,12884,4,Rækkehus,138,2007,
+Hemmingsvej 75 4653 Karise,75,1795000.0,02-02-2006,Alm.,11809,5,Villa,152,1973,
+Skolegade 25D 4653 Karise,0,1475000.0,01-02-2006,Alm.,15206,3,Villa,97,2006,
+Skolegade 44A 4653 Karise,0,554500.0,01-02-2006,Fam.,6523,4,Villa,85,1956,
+Skolegade 19 4653 Karise,19,875000.0,30-01-2006,Alm.,7743,4,Villa,113,1915,
+Kulagervej 31 4653 Karise,31,1530000.0,27-01-2006,Alm.,12047,4,Villa,127,1877,
+Lucernevej 6 4653 Karise,6,143160.0,24-01-2006,Alm.,1417,5,Erhverv,101,2008,
+Skovvænget 3 4653 Karise,3,1375000.0,20-01-2006,Alm.,9166,4,Villa,150,1976,
+Storkevænget 6A 4653 Karise,0,785000.0,15-01-2006,Alm.,3270,5,Villa,240,1931,
+Præstemarksvej 6 4653 Karise,6,915000.0,13-01-2006,Alm.,10280,3,Villa,89,1961,
+Kulagervej 19 4653 Karise,19,1750000.0,05-01-2006,Alm.,14000,6,Villa,125,1896,
+Åvej 3 4653 Karise,3,445000.0,12-12-2005,Alm.,7416,2,Sommerhus,60,1864,
+Ærtevænget 7 4653 Karise,7,1375000.0,01-12-2005,Alm.,15109,3,Rækkehus,91,2004,
+Gimlingevej 10C 4653 Karise,0,1750000.0,11-11-2005,Fam.,8101,6,Villa,216,1973,
+Barupvejen 35 4653 Karise,35,2395000.0,09-11-2005,Alm.,7725,9,Villa,310,1901,
+Alslevvej 3A 4653 Karise,0,3000000.0,31-10-2005,Alm.,14563,9,Stuehus,206,1904,
+Karisevej 149 4653 Karise,149,3250000.0,25-10-2005,Alm.,22413,6,Villa,145,1870,
+Prins Buris Vej 13 4653 Karise,13,1595000.0,19-10-2005,Alm.,14500,4,Villa,110,1991,
+Breddammen 9 4653 Karise,9,2400000.0,17-10-2005,Alm.,15483,4,Stuehus,155,1880,
+Alslevvej 24 4653 Karise,24,1650000.0,16-10-2005,Alm.,7710,7,Villa,214,1860,
+Folmer Sangers Vej 23 4653 Karise,23,1365000.0,15-10-2005,Alm.,14521,3,Rækkehus,94,2007,
+Karisevej 163 4653 Karise,163,2185000.0,11-10-2005,Alm.,10069,6,Villa,217,1920,
+Drosselvej 98 4653 Karise,98,1047000.0,03-10-2005,Alm.,9605,3,Villa,109,1924,
+Geddevænget 4 4653 Karise,4,460000.0,02-10-2005,Andet,4035,3,Villa,114,1777,
+Ærtevænget 6 4653 Karise,6,1050000.0,01-10-2005,Alm.,12962,3,Rækkehus,81,2004,
+Skolegade 49 4653 Karise,49,1215000.0,29-09-2005,Alm.,9878,5,Rækkehus,123,1961,
+Kærvej 4 4653 Karise,4,1050000.0,27-09-2005,Alm.,9545,5,Villa,110,1906,
+Rønne Alle 9 4653 Karise,9,2300000.0,25-09-2005,Alm.,17424,5,Villa,132,1935,
+Folmer Sangers Vej 22 4653 Karise,22,1365000.0,22-09-2005,Alm.,14521,3,Rækkehus,94,2006,
+Folmer Sangers Vej 21 4653 Karise,21,1365000.0,20-09-2005,Alm.,14521,3,Rækkehus,94,2006,
+Solagervej 17B 4653 Karise,0,1500000.0,19-09-2005,Alm.,17045,3,Rækkehus,88,1970,
+Spjellerupvej 14 4653 Karise,14,1375000.0,07-09-2005,Alm.,6610,5,Villa,208,1872,
+Gimlingevej 6 4653 Karise,6,2200000.0,01-09-2005,Alm.,10426,5,Villa,211,1902,
+Søndergade 18A 4653 Karise,0,1395000.0,26-08-2005,Alm.,8063,7,Villa,173,1930,
+Søndergade 8 4653 Karise,8,750000.0,24-08-2005,Alm.,6637,4,Villa,113,1900,
+St Lindevej 1 4653 Karise,1,1575000.0,23-08-2005,Alm.,8798,6,Villa,179,1929,
+Folmer Sangers Vej 11 4653 Karise,11,1495000.0,22-08-2005,Alm.,13230,4,Rækkehus,113,2004,
+Liden Kirstens Vej 9 4653 Karise,9,1395000.0,19-08-2005,Alm.,10730,4,Villa,130,1972,
+Præstemarksvej 2C 4653 Karise,0,2355000.0,16-08-2005,Alm.,12139,5,Villa,194,1867,
+Toftagervej 1B 4653 Karise,0,1145000.0,05-08-2005,Alm.,11009,4,Villa,104,1983,
+Rhitras Vej 14 4653 Karise,14,351000.0,02-08-2005,Alm.,2294,3,Villa,153,2006,
+Rhitras Vej 16 4653 Karise,16,341510.0,28-07-2005,Alm.,1997,6,Villa,171,2007,
+Folmer Sangers Vej 4 4653 Karise,4,1331963.0,15-07-2005,Alm.,14169,3,Rækkehus,94,2005,
+Rosengården 2 4653 Karise,2,380000.0,14-07-2005,Alm.,2451,4,Villa,155,2006,
+Breddammen 19 4653 Karise,19,1399000.0,11-07-2005,Alm.,11373,4,Villa,123,1917,
+Rosengården 52 4653 Karise,52,1235000.0,10-07-2005,Alm.,13423,3,Rækkehus,92,2006,
+Ligustervej 6 4653 Karise,6,1120000.0,07-07-2005,Alm.,10181,3,Villa,110,1963,
+Dalbyvej 11 4653 Karise,11,1250000.0,04-07-2005,Alm.,13888,5,Villa,90,1917,
+Prins Buris Vej 22 4653 Karise,22,1695000.0,03-07-2005,Alm.,13452,4,Villa,126,1988,
+Pebringevej 4 4653 Karise,4,875000.0,02-07-2005,Fam.,8578,4,Villa,102,1895,
+Rosengården 50 4653 Karise,50,1485000.0,28-06-2005,Alm.,13026,3,Rækkehus,114,2006,
+Spjellerupvej 10 4653 Karise,10,950000.0,23-06-2005,Alm.,8333,4,Villa,114,1914,
+Rosengården 48 4653 Karise,48,1485000.0,22-06-2005,Alm.,12913,3,Rækkehus,115,2006,
+Sønderbyvej 6 4653 Karise,6,437460.0,20-06-2005,Alm.,3080,4,Stuehus,142,1923,
+Sønderbyvej 3 4653 Karise,3,57040.0,20-06-2005,Alm.,432,2,Stuehus,132,1923,
+Liden Kirstens Vej 11 4653 Karise,11,1562000.0,15-06-2005,Alm.,11000,6,Villa,142,1972,
+Fasanvej 8 4653 Karise,8,1445000.0,27-05-2005,Alm.,11201,6,Villa,129,1979,
+Rhitras Vej 15 4653 Karise,15,391830.0,17-05-2005,Alm.,2213,6,Villa,177,2006,
+Rhitras Vej 17 4653 Karise,17,339290.0,09-05-2005,Alm.,2081,4,Villa,163,2007,
+Søndergade 21 4653 Karise,21,810000.0,28-04-2005,Alm.,7297,4,Villa,111,1935,
+Folmer Sangers Vej 9 4653 Karise,9,1290000.0,20-04-2005,Alm.,12524,3,Rækkehus,103,2005,
+Køgevej 39 4653 Karise,39,1750000.0,10-04-2005,Alm.,12962,4,Villa,135,1900,
+Rønne Alle 17 4653 Karise,17,513565.0,06-04-2005,Alm.,4108,4,Villa,125,1959,
+Hemmingsvej 44 4653 Karise,44,1350000.0,05-04-2005,Alm.,10384,3,Villa,130,1973,
+Højmøllevej 4 4653 Karise,4,710000.0,05-04-2005,Alm.,10441,3,Stuehus,68,1900,
+Skovvænget 4 4653 Karise,4,1295000.0,04-04-2005,Alm.,9592,6,Villa,135,1969,
+Folmer Sangers Vej 3 4653 Karise,3,1350000.0,04-04-2005,Alm.,11842,3,Rækkehus,114,2005,
+Drosselvej 100 4653 Karise,100,1395000.0,24-03-2005,Alm.,10648,4,Villa,131,1976,
+Folmer Sangers Vej 16 4653 Karise,16,1425000.0,21-03-2005,Alm.,12500,3,Rækkehus,114,2006,
+Skolegade 44B 4653 Karise,0,1425000.0,15-03-2005,Alm.,12391,3,Rækkehus,115,2006,
+Præstemarksvej 3 4653 Karise,3,314267.0,01-03-2005,Fam.,3571,3,Villa,88,1937,
+Hemmingsvej 52 4653 Karise,52,1330000.0,01-02-2005,Alm.,0,5,Villa,192,1973,
+Skolegade 32 4653 Karise,32,1195000.0,20-01-2005,Alm.,10575,4,Villa,113,1912,
+Tågerupvej 11 4653 Karise,11,400000.0,20-01-2005,Fam.,5128,3,Villa,78,1727,
+Søndergade 10 4653 Karise,10,800000.0,18-01-2005,Fam.,8888,4,Villa,90,1925,
+Vemmetoftevej 7 4653 Karise,7,10702000.0,11-01-2005,Andet,0,8,Villa,226,1790,
+Folmer Sangers Vej 6 4653 Karise,6,1370000.0,23-12-2004,Alm.,12123,4,Rækkehus,113,2005,
+Pebringevej 16 4653 Karise,16,1895000.0,18-12-2004,Alm.,7962,6,Stuehus,238,1880,
+Dalbyvej 19A 4653 Karise,0,895000.0,14-12-2004,Alm.,5490,6,Villa,163,1877,
+Ærtevænget 1 4653 Karise,1,1065000.0,13-12-2004,Alm.,13148,3,Rækkehus,81,2004,
+Møllehusvej 11 4653 Karise,11,7526000.0,03-12-2004,Fam.,24756,8,Stuehus,304,1837,
+Breddammen 11 4653 Karise,11,1695000.0,26-11-2004,Alm.,8033,5,Villa,211,1977,
+Folmer Sangers Vej 8 4653 Karise,8,1395000.0,10-11-2004,Alm.,11434,4,Rækkehus,122,2004,
+Fru Marthes Vej 4 4653 Karise,4,1535000.0,02-11-2004,Alm.,8208,5,Villa,187,1974,
+Folmer Sangers Vej 1 4653 Karise,1,1395000.0,01-11-2004,Alm.,11160,4,Rækkehus,125,2004,
+Folmer Sangers Vej 7 4653 Karise,7,1350000.0,01-11-2004,Alm.,11946,4,Rækkehus,113,2004,
+Hemmingsvej 6 4653 Karise,6,1312500.0,26-10-2004,Alm.,8750,4,Villa,150,1973,
+St Lindevej 7 4653 Karise,7,950000.0,22-10-2004,Alm.,10000,3,Villa,95,1873,
+Fællesvej 3 4653 Karise,3,1000000.0,21-10-2004,Andet,5102,6,Villa,196,1910,
+Rhitras Vej 33 4653 Karise,33,300300.0,18-10-2004,Alm.,1547,4,Villa,194,2006,
+Rhitras Vej 35 4653 Karise,35,406000.0,18-10-2004,Alm.,2780,5,Villa,146,2006,
+Rønne Alle 4 4653 Karise,4,1395000.0,17-10-2004,Alm.,12130,5,Villa,115,1937,
+Ærtevænget 3 4653 Karise,3,1065000.0,07-10-2004,Alm.,13148,3,Rækkehus,81,2004,
+Bredgade 23 4653 Karise,23,400000.0,05-10-2004,Andet,3076,4,Villa,130,1897,
+Drosselvej 37C 4653 Karise,0,355000.0,20-09-2004,Alm.,2773,3,Villa,128,2006,
+Toftagervej 2 4653 Karise,2,1070000.0,14-09-2004,Alm.,8842,4,Villa,121,1979,
+Møllehusvej 8 4653 Karise,8,1595000.0,29-08-2004,Alm.,9011,7,Rækkehus,177,1887,
+Hemmingsvej 29 4653 Karise,29,1400000.0,25-08-2004,Alm.,9589,5,Villa,146,1975,
+Ærtevænget 8 4653 Karise,8,1095000.0,20-08-2004,Alm.,12032,3,Rækkehus,91,2004,
+Folmer Sangers Vej 19 4653 Karise,19,1360000.0,10-08-2004,Alm.,11826,3,Rækkehus,115,2004,
+Møllehusvej 15 4653 Karise,15,950000.0,10-08-2004,Alm.,5491,4,Villa,173,2006,
+Rhitras Vej 31 4653 Karise,31,350700.0,02-08-2004,Alm.,1638,7,Villa,214,2006,
+Søndergade 33 4653 Karise,33,1150000.0,29-07-2004,Alm.,9913,5,Villa,116,1950,
+Præstemarksvej 18 4653 Karise,18,1835000.0,15-07-2004,Alm.,9657,6,Villa,190,1907,
+Rhitras Vej 32 4653 Karise,32,300300.0,14-07-2004,Alm.,1853,5,Villa,162,2006,
+Rhitras Vej 34 4653 Karise,34,309400.0,09-07-2004,Alm.,1886,5,Villa,164,2006,
+Valbyvej 6 4653 Karise,6,1195000.0,29-06-2004,Alm.,9409,4,Villa,127,1923,
+Søndergade 13 4653 Karise,13,952600.0,06-06-2004,Alm.,13608,2,Villa,70,1938,
+Vemmetoftevej 3 4653 Karise,3,1500000.0,11-05-2004,Alm.,13392,4,Villa,112,1877,
+Spjellerupvej 27B 4653 Karise,0,320000.0,27-04-2004,Alm.,1675,6,Villa,191,2005,
+Drosselvej 15 4653 Karise,15,650000.0,22-04-2004,Alm.,10156,3,Villa,64,1961,
+Tågerupvej 3 4653 Karise,3,1225000.0,15-04-2004,Alm.,10040,5,Villa,122,1882,
+Børstedvej 28 4653 Karise,28,4235000.0,15-04-2004,Alm.,16940,7,Stuehus,250,1880,
+Kildevej 13 4653 Karise,13,785000.0,07-04-2004,Alm.,0,3,Villa,126,1955,
+Kulagervej 23 4653 Karise,23,882849.0,04-04-2004,Alm.,3318,8,Stuehus,266,1890,
+Ågårdsvej 2 4653 Karise,2,4900000.0,24-03-2004,Fam.,10792,7,Stuehus,454,1887,
+Rosengården 4 4653 Karise,4,412250.0,24-03-2004,Alm.,2694,5,Villa,153,2006,
+Barup Bygade 5 4653 Karise,5,1425000.0,23-02-2004,Alm.,7019,6,Villa,203,1900,
+Søndervang 6 4653 Karise,6,439055.0,15-02-2004,Andet,2869,6,Villa,153,1964,
+Toftagervej 6 4653 Karise,6,2200000.0,15-02-2004,Alm.,8461,8,Villa,260,1890,
+Alslevvej 9 4653 Karise,9,1642000.0,12-02-2004,Alm.,8128,6,Stuehus,202,1862,
+Peder Olufsens Vej 24 4653 Karise,24,1390000.0,05-02-2004,Alm.,14479,4,Villa,96,1986,
+Overdrevsvej 12 4653 Karise,12,1275000.0,22-01-2004,Alm.,8793,5,Villa,145,1902,
+Hemmingsvej 25 4653 Karise,25,1325000.0,17-01-2004,Alm.,8439,4,Villa,157,1973,
+Jørslevvej 17 4653 Karise,17,1995000.0,10-01-2004,Alm.,9236,6,Villa,216,1877,
+Overdrevsvej 11 4653 Karise,11,630000.0,05-01-2004,Alm.,5121,4,Villa,123,1967,
+Drosselvej 112 4653 Karise,112,420000.0,29-12-2003,Andet,4468,5,Villa,94,1895,
+Overdrevsvej 16 4653 Karise,16,320000.0,21-12-2003,Alm.,1280,6,Stuehus,250,2004,
+Valbyvej 1 4653 Karise,1,950000.0,19-12-2003,Alm.,5757,4,Villa,165,1923,
+Solagervej 1 4653 Karise,1,1250000.0,09-12-2003,Alm.,8064,5,Villa,155,1968,
+Prins Buris Vej 16 4653 Karise,16,1795000.0,08-12-2003,Alm.,8159,7,Villa,220,1922,
+Tinghusvej 6 4653 Karise,6,1675000.0,30-11-2003,Alm.,14823,4,Stuehus,113,1927,
+Rosengården 6 4653 Karise,6,348715.0,18-11-2003,Alm.,2051,5,Villa,170,2006,
+Rosengården 8 4653 Karise,8,355020.0,18-11-2003,Alm.,2164,4,Villa,164,2005,
+Rosengården 16 4653 Karise,16,352595.0,18-11-2003,Alm.,2086,6,Villa,169,2004,
+Ærtevænget 9 4653 Karise,9,1095000.0,31-10-2003,Alm.,12032,3,Rækkehus,91,2003,
+Hemmingsvej 61 4653 Karise,61,1491000.0,27-10-2003,Alm.,10212,5,Villa,146,1973,
+Jagtvej 4 4653 Karise,4,1195000.0,27-10-2003,Alm.,10391,4,Villa,115,1980,
+Hemmingsvej 42 4653 Karise,42,1450000.0,24-10-2003,Alm.,9731,5,Villa,149,1972,
+Ærtevænget 12 4653 Karise,12,1095000.0,23-10-2003,Alm.,12032,3,Rækkehus,91,2003,
+Nordhøjvej 50 4653 Karise,50,1350000.0,17-10-2003,Alm.,7803,6,Villa,173,1877,
+Kulagervej 24 4653 Karise,24,1700000.0,01-10-2003,Alm.,13821,4,Villa,123,1867,
+Ganneskovvej 2 4653 Karise,2,895000.0,16-09-2003,Alm.,10654,3,Villa,84,1877,
+Kulagervej 27 4653 Karise,27,1255000.0,04-09-2003,Alm.,9881,4,Villa,127,1900,
+Bredgade 11B 4653 Karise,0,400000.0,01-09-2003,Alm.,4761,5,Villa,84,1881,
+Skovbrodersvej 7 4653 Karise,7,1185000.0,01-08-2003,Alm.,12606,3,Rækkehus,94,2003,
+Tuehuse 12 4653 Karise,12,1100000.0,07-07-2003,Alm.,0,5,Villa,98,1902,
+Køgevej 80 4653 Karise,80,1250000.0,16-06-2003,Alm.,11363,3,Stuehus,110,1927,
+Prins Buris Vej 19 4653 Karise,19,1685000.0,05-05-2003,Alm.,9683,6,Villa,174,1989,
+Drosselvej 30 4653 Karise,30,1095000.0,01-05-2003,Alm.,10330,4,Villa,106,1979,
+Overdrevsvej 26 4653 Karise,26,1900000.0,19-03-2003,Alm.,10734,6,Villa,177,1936,
+Lægårdsvej 4 4653 Karise,4,629000.0,17-03-2003,Alm.,6988,3,Villa,90,1827,
+Fasanvej 5 4653 Karise,5,1530000.0,16-03-2003,Alm.,8052,5,Villa,190,1977,
+Karen Jeppes Vej 2 4653 Karise,2,1565000.0,07-03-2003,Alm.,11178,5,Villa,140,2000,
+Skolegade 41 4653 Karise,41,910000.0,18-02-2003,Alm.,0,5,Villa,149,1953,
+Bøgevej 3 4653 Karise,3,932234.0,18-02-2003,Andet,5419,4,Villa,172,1973,
+Køgevej 41 4653 Karise,41,840000.0,23-12-2002,Auktion,4941,6,Villa,170,1777,
+Mosevej 5 4653 Karise,5,1425000.0,05-12-2002,Alm.,0,5,Villa,308,1870,
+Jørslevvej 16 4653 Karise,16,2150000.0,28-11-2002,Alm.,17622,2,Villa,122,1890,
+Kulagervej 3 4653 Karise,3,924784.0,22-11-2002,Alm.,5345,5,Villa,173,1937,
+Skovbrodersvej 6 4653 Karise,6,1325000.0,13-11-2002,Alm.,11324,3,Rækkehus,117,2003,
+Ridder Jernskægs Vej 3B 4653 Karise,0,975000.0,12-11-2002,Alm.,12187,3,Rækkehus,80,2001,
+Karl Af Rises Vej 8 4653 Karise,8,720000.0,11-11-2002,Alm.,8372,3,Villa,86,1881,
+Bøgevej 7 4653 Karise,7,925000.0,31-10-2002,Alm.,7974,4,Villa,116,1966,
+Hemmingsvej 31 4653 Karise,31,1105000.0,27-10-2002,Alm.,6138,5,Villa,180,1974,
+Spjellerupvej 19 4653 Karise,19,310000.0,16-10-2002,Alm.,1666,7,Villa,186,1865,
+Rønne Alle 24 4653 Karise,24,1100000.0,14-10-2002,Alm.,5527,5,Villa,199,1942,
+Hemmingsvej 65 4653 Karise,65,925000.0,12-10-2002,Alm.,8043,4,Villa,115,1973,
+Skovbrodersvej 4 4653 Karise,4,1325000.0,10-10-2002,Alm.,11324,4,Rækkehus,117,2003,
+Møllehusvej 20 4653 Karise,20,1100000.0,27-09-2002,Alm.,7971,5,Villa,138,1975,
+Skovbrodersvej 2 4653 Karise,2,1288000.0,04-09-2002,Alm.,13702,3,Rækkehus,94,2002,
+Prins Buris Vej 11 4653 Karise,11,1215000.0,03-09-2002,Alm.,10041,4,Villa,121,1987,
+Kulagervej 35 4653 Karise,35,659000.0,15-08-2002,Andet,4608,4,Villa,143,1900,
+Skovbrodersvej 3 4653 Karise,3,1165000.0,10-07-2002,Alm.,12526,3,Rækkehus,93,2002,
+Drosselvej 108 4653 Karise,108,1485000.0,01-07-2002,Alm.,7576,7,Villa,196,1775,
+Ridder Jernskægs Vej 2 4653 Karise,2,1288000.0,24-06-2002,Alm.,16100,3,Rækkehus,80,2002,
+Præstestien 3 4653 Karise,3,836200.0,03-05-2002,Alm.,6743,4,Villa,124,1900,
+Sønderbyvej 5 4653 Karise,5,2150000.0,12-04-2002,Alm.,18695,4,Stuehus,115,1923,
+Jørslevvej 2 4653 Karise,2,1290000.0,29-03-2002,Alm.,9416,6,Villa,137,1800,
+Skolegade 9 4653 Karise,9,620000.0,25-03-2002,Fam.,5000,4,Villa,124,1900,
+Præstevænget 13 4653 Karise,13,50100.0,21-03-2002,Alm.,248,8,Stuehus,202,1905,
+Køgevej 56 4653 Karise,56,555190.0,09-03-2002,Alm.,17909,2,Sommerhus,31,1959,
+Tågerupvej 17 4653 Karise,17,783000.0,08-03-2002,Alm.,8700,4,Villa,90,1890,
+Præstemarksvej 24 4653 Karise,24,1050000.0,04-03-2002,Fam.,11538,4,Villa,91,1770,
+Hemmingsvej 22 4653 Karise,22,1097044.0,22-02-2002,Alm.,8847,4,Villa,124,1972,
+Ridder Jernskægs Vej 6 4653 Karise,6,1258000.0,23-01-2002,Alm.,10939,4,Rækkehus,115,2002,
+Karen Jeppes Vej 6 4653 Karise,6,271000.0,09-01-2002,Alm.,2084,3,Villa,130,2002,
+Kulagervej 14 4653 Karise,14,1182315.0,03-01-2002,Alm.,5254,6,Villa,225,1934,
+Dalbyvej 37 4653 Karise,37,800000.0,06-12-2001,Fam.,7017,4,Villa,114,1880,
+Nordhøjvej 25 4653 Karise,25,1285800.0,05-12-2001,Alm.,9667,5,Villa,133,1910,
+Lægårdsvej 9 4653 Karise,9,810000.0,11-10-2001,Alm.,8350,3,Villa,97,1951,
+Nørrebro 16 4653 Karise,16,1120000.0,09-10-2001,Alm.,9256,4,Villa,121,1968,
+Karl Af Rises Vej 10 4653 Karise,10,695000.0,08-10-2001,Alm.,7722,3,Villa,90,1892,
+Drosselvej 37B 4653 Karise,0,175000.0,30-09-2001,Alm.,1029,5,Villa,170,2003,
+Tuehuse 4 4653 Karise,4,500000.0,30-09-2001,Alm.,3333,5,Villa,150,1873,
+Hemmingsvej 50 4653 Karise,50,1209000.0,23-09-2001,Alm.,7651,5,Villa,158,1973,
+Søndergade 26 4653 Karise,26,775100.0,14-09-2001,Alm.,8073,3,Villa,96,1960,
+Tågerupvej 20 4653 Karise,20,50000.0,03-09-2001,Alm.,252,5,Villa,198,1887,
+Fru Marthes Vej 3 4653 Karise,3,1150000.0,24-08-2001,Alm.,9274,4,Villa,124,1973,
+Storkevænget 6B 4653 Karise,0,1175000.0,22-08-2001,Alm.,6420,6,Villa,183,1911,
+Jørslevvej 19 4653 Karise,19,1285000.0,05-08-2001,Alm.,7138,5,Villa,180,1877,
+Prins Buris Vej 1 4653 Karise,1,1030000.0,30-07-2001,Alm.,8803,5,Villa,117,1986,
+Præstemarksvej 7A 4653 Karise,0,1295000.0,19-07-2001,Alm.,8196,3,Villa,158,1903,
+Prins Buris Vej 5 4653 Karise,5,1149682.0,25-06-2001,Alm.,0,7,Villa,165,1987,
+Rønne Alle 11 4653 Karise,11,249000.0,21-06-2001,Andet,1915,3,Villa,130,1961,
+Køgevej 35 4653 Karise,35,655030.0,20-06-2001,Alm.,6065,5,Villa,108,1925,
+Søndergade 22 4653 Karise,22,1250000.0,01-06-2001,Alm.,6756,6,Villa,185,1946,
+Mosevej 2 4653 Karise,2,190000.0,15-05-2001,Alm.,1266,6,Stuehus,150,1909,
+Spjellerupvej 8 4653 Karise,8,770000.0,12-05-2001,Alm.,8279,4,Villa,93,1883,
+Drosselvej 37A 4653 Karise,0,1482300.0,26-04-2001,Alm.,7601,7,Villa,195,1930,
+Lægårdsvej 11 4653 Karise,11,1084738.0,28-03-2001,Alm.,6953,4,Villa,156,1988,
+Kløvervej 5 4653 Karise,5,106000.0,27-03-2001,Alm.,981,4,Villa,108,2002,
+Præstevænget 8 4653 Karise,8,1245760.0,05-03-2001,Alm.,6556,4,Villa,190,1890,
+Hemmingsvej 30 4653 Karise,30,1169383.0,13-02-2001,Alm.,6919,5,Villa,169,1974,
+Skovvænget 12B 4653 Karise,0,1295000.0,01-02-2001,Alm.,10443,4,Villa,124,1980,
+Smerupvej 31 4653 Karise,31,664337.0,01-02-2001,Alm.,6327,2,Villa,105,1877,
+Drosselvej 29 4653 Karise,29,855925.0,08-01-2001,Alm.,7925,4,Villa,108,1986,
+Smerupvej 11 4653 Karise,11,1200000.0,01-01-2001,Alm.,9230,4,Villa,130,1750,
+Præstevænget 2 4653 Karise,2,810000.0,20-12-2000,Alm.,7570,4,Villa,107,1970,
+Møllehusvej 2 4653 Karise,2,764500.0,13-12-2000,Alm.,6950,4,Villa,110,1900,
+Karen Jeppes Vej 3 4653 Karise,3,241000.0,11-12-2000,Alm.,1535,6,Villa,157,2001,
+Ridder Jernskægs Vej 10 4653 Karise,10,995237.0,28-11-2000,Alm.,11058,3,Rækkehus,90,2001,
+Spjellerupvej 17 4653 Karise,17,450000.0,13-11-2000,Alm.,7377,3,Villa,61,1877,
+Køgevej 40 4653 Karise,40,670000.0,07-11-2000,Alm.,7882,3,Villa,85,1963,
+Elmevej 11 4653 Karise,11,1230224.0,23-10-2000,Alm.,7366,5,Villa,167,1964,
+Ridder Jernskægs Vej 9 4653 Karise,9,995237.0,27-09-2000,Alm.,11058,3,Rækkehus,90,2000,
+Alslevvej 17 4653 Karise,17,950120.0,19-09-2000,Alm.,7787,5,Villa,122,1930,
+Totterupvej 2 4653 Karise,2,1359457.0,28-08-2000,Alm.,18881,2,Villa,72,1926,
+Elverhøjvej 25 4653 Karise,25,967764.0,23-08-2000,Alm.,6767,5,Villa,143,1877,
+Drosselvej 60 4653 Karise,60,1279670.0,18-07-2000,Alm.,8203,5,Villa,156,1980,
+Møllehusvej 24 4653 Karise,24,612950.0,03-07-2000,Alm.,0,5,Villa,140,1900,
+Skolegade 40 4653 Karise,40,1084760.0,25-06-2000,Alm.,8474,4,Villa,128,1916,
+Alslevvej 13 4653 Karise,13,18000.0,10-05-2000,Alm.,122,3,Villa,147,1897,
+Tuehuse 2 4653 Karise,2,140000.0,11-04-2000,Alm.,1944,3,Stuehus,72,1877,
+Storkevænget 8 4653 Karise,8,1280160.0,10-04-2000,Alm.,5689,8,Villa,225,1780,
+Hemmingsvej 48 4653 Karise,48,899290.0,29-02-2000,Alm.,8101,3,Villa,111,1972,
+Tokkerupvej 40 4653 Karise,40,470933.0,25-02-2000,Alm.,5606,2,Villa,84,1877,
+Kløvervej 10 4653 Karise,10,140000.0,18-02-2000,Alm.,1261,4,Villa,111,2000,
+Drosselvej 36 4653 Karise,36,965000.0,08-02-2000,Alm.,10157,3,Villa,95,1983,
+Karen Jeppes Vej 1 4653 Karise,1,187600.0,07-02-2000,Alm.,1242,3,Villa,151,2000,
+Søndergade 1B 4653 Karise,0,825000.0,02-02-2000,Alm.,6156,4,Villa,134,1870,
+Karl Af Rises Vej 6 4653 Karise,6,716640.0,12-01-2000,Alm.,6398,5,Villa,112,1900,
+Karen Jeppes Vej 4 4653 Karise,4,247000.0,01-01-2000,Alm.,1593,5,Villa,155,2000,
+Dalbyvej 16 4653 Karise,16,1696690.0,18-11-1999,Alm.,9426,4,Villa,180,1966,
+Skolegade 29 4653 Karise,29,615365.0,02-11-1999,Alm.,2734,6,Villa,225,1928,
+Søndergade 15 4653 Karise,15,770668.0,01-11-1999,Alm.,7339,4,Villa,105,1938,
+Drosselvej 40 4653 Karise,40,966000.0,30-10-1999,Alm.,9288,4,Villa,104,1984,
+Elverhøjvej 22 4653 Karise,22,100000.0,28-10-1999,Alm.,0,3,Villa,112,1890,
+Nordhøjvej 52 4653 Karise,52,712700.0,28-10-1999,Alm.,0,8,Villa,191,1862,
+Jørslevvej 3 4653 Karise,3,1457000.0,01-10-1999,Alm.,9522,3,Villa,153,1897,
+Juellingevej 16 4653 Karise,16,500000.0,30-09-1999,Alm.,0,5,Stuehus,205,1923,
+Lægårdsvej 6A 4653 Karise,0,1900000.0,23-09-1999,Alm.,5882,8,Villa,323,1727,
+Tågerupvej 19 4653 Karise,19,1703000.0,08-09-1999,Alm.,11278,5,Stuehus,151,1911,
+Valbyvej 2 4653 Karise,2,1871042.0,19-07-1999,Alm.,6429,6,Stuehus,291,1923,
+Køgevej 92 4653 Karise,92,840000.0,15-07-1999,Alm.,0,6,Villa,166,1927,
+Søndergade 2 4653 Karise,2,606000.0,01-06-1999,Alm.,4848,4,Villa,125,1871,
+Præstemarksvej 20 4653 Karise,20,374000.0,21-05-1999,Fam.,3596,5,Villa,104,1906,
+Vesterled 8 4653 Karise,8,600000.0,15-05-1999,Andet,2564,7,Villa,234,1966,
+Kulagervej 8 4653 Karise,8,1149356.0,26-04-1999,Alm.,4472,9,Villa,257,1904,
+Spjellerupvej 5 4653 Karise,5,589937.0,16-04-1999,Alm.,3470,6,Villa,170,1959,
+Alslevvej 12 4653 Karise,12,875000.0,15-04-1999,Alm.,8254,4,Villa,106,1971,
+Storkevænget 3 4653 Karise,3,810000.0,22-03-1999,Alm.,8350,4,Villa,97,1868,
+Køgevej 58 4653 Karise,58,1025437.0,23-02-1999,Alm.,4419,8,Stuehus,232,1890,
+Drosselvej 1 4653 Karise,1,390000.0,11-02-1999,Alm.,4698,4,Villa,83,1905,
+Fællesvej 4 4653 Karise,4,980300.0,08-02-1999,Alm.,2961,7,Villa,331,1927,
+Overdrevsvej 29 4653 Karise,29,362726.0,01-02-1999,Andet,2267,6,Villa,160,1885,
+Fru Marthes Vej 6 4653 Karise,6,767640.0,13-01-1999,Alm.,6617,4,Villa,116,1969,
+Kløvervej 8 4653 Karise,8,112500.0,11-01-1999,Alm.,937,5,Villa,120,1999,
+Køgevej 13 4653 Karise,13,585625.0,21-12-1998,Alm.,5798,3,Villa,101,1900,
+Storkevænget 11 4653 Karise,11,290000.0,14-12-1998,Fam.,0,3,Villa,60,1900,
+Toftagervej 5 4653 Karise,5,135000.0,10-12-1998,Alm.,794,5,Villa,170,1999,
+Breddammen 17 4653 Karise,17,87000.0,10-12-1998,Alm.,524,5,Villa,166,1890,
+Rønne Alle 1 4653 Karise,1,475000.0,27-11-1998,Alm.,5000,3,Villa,95,1902,
+Spjellerupvej 11 4653 Karise,11,440000.0,20-11-1998,Alm.,6111,4,Villa,72,1870,
+Smerupvej 21 4653 Karise,21,700000.0,05-11-1998,Alm.,6250,4,Villa,112,1790,
+Brinken 1 4653 Karise,1,621650.0,01-11-1998,Alm.,5268,4,Villa,118,1852,
+Drosselvej 18 4653 Karise,18,680000.0,30-10-1998,Fam.,5964,5,Villa,114,1978,
+Smerupvej 17 4653 Karise,17,706000.0,29-10-1998,Alm.,8825,2,Villa,80,1797,
+Liden Kirstens Vej 6 4653 Karise,6,854120.0,12-10-1998,Alm.,6326,4,Villa,135,1972,
+Skolegade 13 4653 Karise,13,262066.0,18-09-1998,Alm.,2183,9,Villa,120,1915,
+Bredgade 12 4653 Karise,12,400000.0,14-09-1998,Alm.,2030,6,Villa,197,2017,
+Skolegade 4 4653 Karise,4,1500000.0,25-08-1998,Alm.,8474,12,Engroshandel,177,1885,
+Peder Olufsens Vej 19 4653 Karise,19,958000.0,21-08-1998,Andet,8330,4,Villa,115,1986,
+Køgevej 42 4653 Karise,42,458000.0,06-08-1998,Alm.,4361,4,Villa,105,1962,
+Jørslev Skovvej 6 4653 Karise,6,1982217.0,29-07-1998,Alm.,7773,6,Villa,255,1877,
+Dalbyvej 28 4653 Karise,28,935000.0,27-07-1998,Fam.,5137,5,Villa,182,1994,
+Tågerupvej 18 4653 Karise,18,839000.0,10-07-1998,Alm.,3796,8,Villa,221,1927,
+Drosselvej 32 4653 Karise,32,840000.0,19-06-1998,Alm.,6774,3,Villa,124,1978,
+Karisevej 152 4653 Karise,152,886100.0,18-06-1998,Alm.,6374,4,Villa,139,1870,
+Fasanvej 14 4653 Karise,14,1015000.0,11-06-1998,Alm.,6265,5,Villa,162,1970,
+Jagtvej 3 4653 Karise,3,1083000.0,06-06-1998,Alm.,8330,4,Villa,130,1915,
+Tågerupvej 13 4653 Karise,13,730000.0,29-05-1998,Alm.,4269,5,Villa,171,1907,
+Dalbyvej 31 4653 Karise,31,666000.0,22-05-1998,Alm.,0,4,Villa,118,1905,
+Kløvervej 4 4653 Karise,4,112000.0,15-05-1998,Alm.,783,5,Villa,143,1999,
+Barupvejen 36 4653 Karise,36,912000.0,11-05-1998,Alm.,5664,5,Villa,161,1902,
+Åvej 2 4653 Karise,2,320000.0,16-03-1998,Alm.,3047,3,Villa,105,1860,
+Præstemarksvej 9 4653 Karise,9,818345.0,26-02-1998,Alm.,3467,8,Villa,236,1907,
+Alslevvej 36 4653 Karise,36,588000.0,14-02-1998,Alm.,4558,3,Villa,129,1877,
+Kulagervej 6 4653 Karise,6,512225.0,11-02-1998,Alm.,0,4,Villa,119,1898,
+Nørrebro 12 4653 Karise,12,766436.0,08-12-1997,Alm.,6386,4,Villa,120,1969,
+Køgevej 60 4653 Karise,60,781881.0,30-11-1997,Alm.,5506,5,Villa,142,1890,
+Rønne Alle 13 4653 Karise,13,562000.0,27-11-1997,Alm.,6108,3,Villa,92,1941,
+Bredgade 6 4653 Karise,6,375000.0,26-11-1997,Alm.,2259,3,Villa,166,1928,
+Skovvænget 1 4653 Karise,1,977726.0,24-11-1997,Alm.,9311,3,Villa,105,1985,
+Vesterled 1 4653 Karise,1,130000.0,27-10-1997,Alm.,992,6,Villa,131,1900,
+Søndergade 34 4653 Karise,34,1500000.0,27-10-1997,Alm.,7075,9,Villa,212,1922,
+Jørslevvej 8 4653 Karise,8,11440000.0,24-10-1997,Alm.,44862,7,Stuehus,255,1880,
+Drosselvej 54 4653 Karise,54,818000.0,24-10-1997,Alm.,7051,4,Villa,116,1979,
+Storkevænget 2 4653 Karise,2,1041960.0,21-10-1997,Alm.,7718,6,Villa,135,1921,
+Vesterled 3 4653 Karise,3,628000.0,11-10-1997,Alm.,7302,3,Villa,86,1980,
+Rønne Alle 30 4653 Karise,30,780000.0,03-10-1997,Alm.,7722,3,Villa,101,1960,
+Alslevvej 14 4653 Karise,14,750000.0,24-09-1997,Alm.,2757,7,Villa,272,1881,
+Geddevænget 7 4653 Karise,7,470000.0,22-09-1997,Alm.,5222,3,Villa,90,1877,
+Præstemarksvej 14 4653 Karise,14,903000.0,22-08-1997,Alm.,4085,6,Villa,221,1907,
+Rønne Alle 32 4653 Karise,32,377000.0,30-07-1997,Alm.,3396,3,Villa,111,1960,
+Skovvej 2 4653 Karise,2,672500.0,09-07-1997,Alm.,0,10,Villa,331,1923,
+Køgevej 37 4653 Karise,37,1150000.0,04-07-1997,Alm.,5399,7,Villa,213,1902,
+Køgevej 94 4653 Karise,94,243000.0,27-06-1997,Alm.,2271,3,Villa,107,1937,
+Møllehusvej 2A 4653 Karise,0,462500.0,02-06-1997,Andet,4363,3,Stuehus,106,1923,
+Drosselvej 25 4653 Karise,25,630700.0,26-05-1997,Alm.,5839,4,Villa,108,1985,
+Bredgade 20 4653 Karise,20,500000.0,20-05-1997,Alm.,3472,4,Villa,144,1937,
+Drosselvej 78 4653 Karise,78,860000.0,13-05-1997,Alm.,8269,4,Villa,104,1984,
+Alslevvej 32 4653 Karise,32,618980.0,13-05-1997,Alm.,6252,3,Villa,99,1965,
+Skolegade 48B 4653 Karise,0,839920.0,28-04-1997,Alm.,6268,5,Villa,134,1967,
+Nørrebro 14 4653 Karise,14,450000.0,17-04-1997,Alm.,3600,4,Villa,125,1968,
+Jørslevvej 22 4653 Karise,22,2110000.0,16-04-1997,Alm.,12411,5,Stuehus,170,1880,
+Syrenvænget 8 4653 Karise,8,607000.0,16-04-1997,Fam.,5518,4,Villa,110,1962,
+Tågerupvej 7 4653 Karise,7,385000.0,04-04-1997,Alm.,3208,4,Villa,120,1888,
+Kløvervej 3 4653 Karise,3,105000.0,22-03-1997,Alm.,0,6,Villa,140,1998,
+Skovvænget 9 4653 Karise,9,653605.0,28-01-1997,Alm.,5733,4,Villa,114,1969,
+Præstemarksvej 17 4653 Karise,17,740500.0,17-12-1996,Alm.,8610,2,Stuehus,86,1905,
+Drosselvej 74 4653 Karise,74,645100.0,25-11-1996,Alm.,0,6,Villa,142,1981,
+Valbyvej 3 4653 Karise,3,738208.0,21-11-1996,Alm.,4368,4,Villa,169,1926,
+Bakkeskovvej 7 4653 Karise,7,999863.0,03-11-1996,Alm.,4999,7,Stuehus,200,1820,
+Kulagervej 13 4653 Karise,13,734505.0,09-10-1996,Alm.,5829,4,Villa,126,1906,
+Ganneskovvej 1 4653 Karise,1,1952440.0,30-09-1996,Alm.,11484,4,Stuehus,170,1900,
+Tågerupvej 16 4653 Karise,16,660500.0,28-09-1996,Alm.,6412,4,Villa,103,1912,
+Bredgade 44 4653 Karise,44,666000.0,11-08-1996,Alm.,4440,5,Villa,150,1928,
+Hemmingsvej 20 4653 Karise,20,603500.0,08-08-1996,Fam.,3352,6,Villa,180,1973,
+Ådalsvej 4 4653 Karise,4,577000.0,30-07-1996,Alm.,7212,4,Villa,80,1966,
+Smerupvej 4 4653 Karise,4,366840.0,25-06-1996,Alm.,4031,5,Villa,91,1884,
+Køgevej 53B 4653 Karise,0,1283000.0,08-06-1996,Alm.,8224,4,Stuehus,156,1927,
+Lægårdsvej 5 4653 Karise,5,731900.0,31-05-1996,Alm.,5154,4,Villa,142,1877,
+Drosselvej 90 4653 Karise,90,708000.0,29-04-1996,Alm.,6156,4,Villa,115,1980,
+Gammelbyvej 4 4653 Karise,4,860000.0,10-04-1996,Alm.,5000,4,Villa,172,1888,
+Spjellerupvej 26 4653 Karise,26,385025.0,01-04-1996,Alm.,0,4,Villa,184,1886,
+Højmøllevej 6 4653 Karise,6,480000.0,28-03-1996,Alm.,4324,3,Stuehus,111,1880,
+Drosselvej 11 4653 Karise,11,525000.0,15-03-1996,Alm.,5706,4,Villa,92,1963,
+Breddammen 6 4653 Karise,6,475000.0,11-03-1996,Alm.,3893,5,Villa,122,1864,
+Jagtvej 7 4653 Karise,7,380000.0,08-03-1996,Alm.,0,4,Villa,109,1967,
+Gammelbyvej 2 4653 Karise,2,1442000.0,19-02-1996,Alm.,5187,9,Villa,278,1857,
+Køgevej 88 4653 Karise,88,425000.0,21-12-1995,Fam.,4722,4,Stuehus,90,1927,
+Elverhøjvej 23 4653 Karise,23,196000.0,18-12-1995,Alm.,4000,2,Villa,49,1885,
+Skolegade 21 4653 Karise,21,261000.0,20-11-1995,Alm.,3000,6,Villa,87,1907,
+Peder Olufsens Vej 22 4653 Karise,22,800000.0,15-11-1995,Alm.,6722,4,Villa,119,1986,
+Præstemarksvej 4 4653 Karise,4,421651.0,06-11-1995,Alm.,2540,5,Villa,166,1910,
+Kildevej 21 4653 Karise,21,583772.0,01-11-1995,Fam.,5405,6,Stuehus,108,1903,
+Kulagervej 17 4653 Karise,17,1500000.0,19-10-1995,Fam.,7500,6,Stuehus,200,1844,
+Tågerupvej 21 4653 Karise,21,410000.0,18-08-1995,Alm.,0,5,Villa,141,1958,
+Drosselvej 33 4653 Karise,33,558000.0,14-08-1995,Alm.,5812,4,Villa,96,1985,
+Skolegade 20 4653 Karise,20,509000.0,29-07-1995,Alm.,4350,4,Villa,117,1939,
+Nørrebro 19 4653 Karise,19,550000.0,16-07-1995,Alm.,4365,4,Villa,126,1968,
+Skolegade 11 4653 Karise,11,475000.0,13-07-1995,Alm.,2638,6,Villa,180,1910,
+Karl Af Rises Vej 3 4653 Karise,3,434760.0,30-06-1995,Alm.,4997,2,Villa,87,1961,
+Dalbyvej 23 4653 Karise,23,704800.0,28-06-1995,Alm.,4606,5,Villa,153,1938,
+Syrenvænget 4 4653 Karise,4,374000.0,13-06-1995,Alm.,0,3,Villa,117,1963,
+Bredgade 32 4653 Karise,32,610000.0,06-06-1995,Alm.,4357,7,Villa,140,1937,
+Kulagervej 7 4653 Karise,7,510000.0,06-05-1995,Alm.,3805,5,Villa,134,1880,
+Tågerupvej 25 4653 Karise,25,486000.0,01-05-1995,Alm.,2945,5,Villa,165,1900,
+Drosselvej 96 4653 Karise,96,306175.0,10-04-1995,Alm.,0,5,Villa,131,1980,
+Buddesvej 4 4653 Karise,4,400000.0,29-03-1995,Alm.,4081,3,Villa,98,1918,
+Breddammen 3 4653 Karise,3,469494.0,11-03-1995,Alm.,3215,4,Villa,146,1875,
+Peder Olufsens Vej 20 4653 Karise,20,222314.0,01-03-1995,Fam.,1933,4,Villa,115,1986,
+Karl Af Rises Vej 4 4653 Karise,4,508500.0,27-02-1995,Alm.,3911,6,Villa,130,1887,
+Fællesvej 1 4653 Karise,1,652322.0,23-02-1995,Alm.,4077,5,Villa,160,1890,
+Syrenvænget 11 4653 Karise,11,672600.0,13-02-1995,Alm.,4230,6,Villa,159,1965,
+Fællesvej 5 4653 Karise,5,250000.0,09-02-1995,Fam.,3571,3,Stuehus,70,1902,
+Elmevej 8 4653 Karise,8,759000.0,27-01-1995,Alm.,3314,6,Villa,229,1964,
+Fasanvej 19 4653 Karise,19,480000.0,20-01-1995,Alm.,5161,4,Villa,93,1965,
+Liden Kirstens Vej 3 4653 Karise,3,481000.0,15-11-1994,Alm.,4008,4,Villa,120,1973,
+Gammelbyvej 1 4653 Karise,1,345000.0,14-10-1994,Alm.,4156,3,Villa,83,1855,
+Spjellerupvej 27A 4653 Karise,0,830000.0,08-09-1994,Alm.,4438,6,Villa,187,1914,
+Solagervej 17A 4653 Karise,0,495000.0,05-08-1994,Alm.,4304,4,Villa,115,1970,
+Smerupvej 12 4653 Karise,12,75000.0,01-08-1994,Alm.,852,3,Villa,88,1884,
+Skolegade 12 4653 Karise,12,525000.0,22-07-1994,Alm.,2777,9,Villa,189,1881,
+Valbyvej 4 4653 Karise,4,625000.0,30-06-1994,Alm.,0,7,Stuehus,156,1923,
+Skolegade 33 4653 Karise,33,221953.0,24-05-1994,Alm.,2113,6,Villa,105,1905,
+Skovvænget 15 4653 Karise,15,660000.0,29-03-1994,Alm.,3367,6,Villa,196,1975,
+Møllevej 8 4653 Karise,8,575000.0,17-01-1994,Alm.,0,6,Villa,253,1910,
+Lægårdsvej 13 4653 Karise,13,360000.0,17-01-1994,Alm.,0,5,Villa,140,1877,
+Jagtvej 1 4653 Karise,1,220000.0,10-12-1993,Alm.,1848,4,Villa,119,1900,
+Tuehuse 16 4653 Karise,16,175000.0,14-11-1993,Fam.,2822,2,Sommerhus,62,1867,
+Syrenvænget 17 4653 Karise,17,443000.0,31-10-1993,Alm.,4614,3,Villa,96,1964,
+Rønne Alle 14 4653 Karise,14,569000.0,27-10-1993,Alm.,5268,4,Villa,108,1938,
+Tågerupvej 14 4653 Karise,14,875000.0,14-10-1993,Alm.,5000,4,Villa,175,1777,
+Elmevej 5A 4653 Karise,0,768820.0,12-10-1993,Alm.,3844,6,Villa,200,1980,
+Alslevvej 8A 4653 Karise,0,543000.0,07-10-1993,Fam.,2635,7,Villa,206,1891,
+Dalbyvej 9 4653 Karise,9,806500.0,04-10-1993,Alm.,0,7,Stuehus,178,1910,
+Totterupvej 8 4653 Karise,8,466233.0,13-09-1993,Alm.,3108,5,Villa,150,1850,
+Køgevej 27 4653 Karise,27,400000.0,31-08-1993,Alm.,3305,4,Villa,121,1956,
+Bredgade 46 4653 Karise,46,540000.0,12-08-1993,Alm.,4122,5,Villa,131,1938,
+Toftagervej 1A 4653 Karise,0,500000.0,29-06-1993,Alm.,4807,4,Villa,104,1983,
+Junker Stranges Alle 1 4653 Karise,1,795000.0,15-06-1993,Alm.,0,8,Villa,342,1956,
+Elmevej 7 4653 Karise,7,510000.0,24-05-1993,Alm.,4594,4,Villa,111,1963,
+Kulagervej 12 4653 Karise,12,580000.0,14-05-1993,Alm.,0,3,Stuehus,260,1900,
+Kærvej 1 4653 Karise,1,555000.0,02-05-1993,Alm.,3964,5,Villa,140,1904,
+Smerupvej 18 4653 Karise,18,700000.0,14-04-1993,Alm.,3846,5,Villa,182,1890,
+Skovvænget 19 4653 Karise,19,547500.0,06-04-1993,Alm.,5420,3,Villa,101,1974,
+Kulagervej 37 4653 Karise,37,810400.0,18-03-1993,Fam.,3128,6,Villa,259,1882,
+Skolegade 45 4653 Karise,45,350000.0,11-03-1993,Alm.,2536,4,Villa,138,1961,
+Alslevvej 20 4653 Karise,20,1795000.0,15-02-1993,Alm.,5439,9,Stuehus,330,1920,
+Kirkestien 1 4653 Karise,1,720000.0,27-01-1993,Alm.,3272,5,Sommerhus,220,1802,
+Bredgade 38 4653 Karise,38,400000.0,10-12-1992,Alm.,2500,5,Villa,160,1927,
+Køgevej 86 4653 Karise,86,725000.0,01-12-1992,Alm.,5069,4,Stuehus,143,1927,
+Møllehusvej 26 4653 Karise,26,450700.0,06-09-1992,Alm.,0,6,Villa,196,1967,
+Overdrevsvej 22 4653 Karise,22,2900000.0,06-07-1992,Fam.,16477,6,Stuehus,176,1830,
+Køgevej 34 4653 Karise,34,725400.0,25-06-1992,Alm.,0,5,Villa,199,1925,
+Fasanvej 6 4653 Karise,6,557620.0,22-06-1992,Alm.,3692,5,Villa,151,1973,
+Nordhøjvej 48 4653 Karise,48,585000.0,13-05-1992,Alm.,3900,4,Villa,150,1860,
+Fasanvej 11 4653 Karise,11,675000.0,15-04-1992,Alm.,3970,6,Villa,170,1972,
+Nordhøjvej 31 4653 Karise,31,300000.0,06-04-1992,Alm.,0,5,Villa,202,1897,
+Spjellerupvej 9 4653 Karise,9,450000.0,16-03-1992,Alm.,0,4,Villa,160,1960,
+Møllehusvej 10 4653 Karise,10,285000.0,15-03-1992,Fam.,2714,4,Sommerhus,105,1887,

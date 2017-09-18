@@ -1,0 +1,476 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Assensvej 519 5642 Millinge,519,532402.0,15-05-2017,Alm.,1971,8,Stuehus,270,1914,
+Buursminde 15 5642 Millinge,15,1250000.0,09-05-2017,Alm.,14534,3,Sommerhus,86,1966,-7 %
+Lindegårdsvej 17 5642 Millinge,17,650000.0,11-04-2017,Alm.,5508,4,Villa,118,1976,-13 %
+Søvænget 2C 5642 Millinge,0,495000.0,21-03-2017,Alm.,6346,3,Rækkehus,78,1990,0 %
+Assensvej 316 5642 Millinge,316,495000.0,14-03-2017,Fam.,3807,3,Villa,130,1909,
+Assensvej 442 5642 Millinge,442,1580000.0,07-02-2017,Alm.,10896,3,Stuehus,145,1982,-17 %
+Assensvej 491 5642 Millinge,491,1550000.0,31-01-2017,Alm.,10264,7,Villa,151,1882,
+Assensvej 509 5642 Millinge,509,875000.0,17-12-2016,Alm.,7231,4,Villa,121,1952,-2 %
+Bjerghammer 20 5642 Millinge,20,1900000.0,16-12-2016,Fam.,22891,4,Sommerhus,83,1972,
+Strandholmen 41D 5642 Millinge,0,840000.0,01-12-2016,Alm.,11506,4,Sommerhus,73,1975,
+Bjerghammer 22 5642 Millinge,22,1190000.0,09-11-2016,Fam.,17246,4,Sommerhus,69,1987,
+Kirkegyden 11 5642 Millinge,11,600000.0,01-11-2016,Alm.,4687,5,Villa,128,1965,-8 %
+Strandparken 3 5642 Millinge,3,1440000.0,12-10-2016,Alm.,8323,8,Villa,173,1966,
+Strandholmen 61 5642 Millinge,61,2200000.0,12-09-2016,Alm.,22000,3,Sommerhus,100,1965,
+Klintebakkevej 4 5642 Millinge,4,1395000.0,05-09-2016,Alm.,21461,4,Sommerhus,65,1979,
+Strandholmen 21 5642 Millinge,21,670000.0,04-09-2016,Alm.,8815,4,Sommerhus,76,1972,-25 %
+Ellegyden 4 5642 Millinge,4,525000.0,01-09-2016,Fam.,3671,5,Villa,143,1875,-52 %
+Strandgyden 4 5642 Millinge,4,850000.0,30-08-2016,Alm.,6854,5,Villa,124,1929,0 %
+Østerbyvej 36 5642 Millinge,36,13600000.0,29-08-2016,Alm.,48398,11,Stuehus,281,1930,
+Østerbyvej 42 5642 Millinge,42,100000.0,29-08-2016,Alm.,1666,2,Fritid,60,1947,
+Strandholmen 42 5642 Millinge,42,575000.0,29-08-2016,Fam.,7467,5,Sommerhus,77,1977,
+Lindegårdsvej 21 5642 Millinge,21,760000.0,26-08-2016,Alm.,5066,6,Villa,150,1988,-4 %
+Ryttervej 16 5642 Millinge,16,975000.0,03-06-2016,Alm.,8705,4,Villa,112,1976,-2 %
+Strandholmen 51 5642 Millinge,51,435000.0,31-05-2016,Alm.,10609,3,Sommerhus,41,1986,-3 %
+Strandholmen 53 5642 Millinge,53,1350000.0,26-05-2016,Alm.,16666,4,Sommerhus,81,1996,-3 %
+Klintebakkevej 16 5642 Millinge,16,1625000.0,11-05-2016,Alm.,19117,4,Sommerhus,85,1999,-7 %
+Strandholmen 53D 5642 Millinge,0,904576.0,06-05-2016,Alm.,9137,4,Sommerhus,99,1980,-21 %
+Assensvej 516 5642 Millinge,516,750000.0,04-05-2016,Alm.,4601,4,Villa,163,1780,-16 %
+Assensvej 435 5642 Millinge,435,470000.0,26-04-2016,Andet,3112,4,Villa,151,1979,
+Assensvej 523 5642 Millinge,523,1900000.0,13-04-2016,Alm.,6312,7,Villa,301,1870,-5 %
+Strandparken 15 5642 Millinge,15,525000.0,05-04-2016,Alm.,7191,4,Sommerhus,73,1966,-12 %
+Buursminde 19 5642 Millinge,19,575000.0,31-03-2016,Alm.,7986,3,Sommerhus,72,1970,-3 %
+Bjerghammer 56 5642 Millinge,56,554803.0,11-03-2016,Fam.,12328,3,Sommerhus,45,1934,
+Østerbyvej 8 5642 Millinge,8,1250000.0,26-02-2016,Alm.,9842,3,Villa,127,1946,-3 %
+Bjerghammer 35 5642 Millinge,35,1100000.0,12-02-2016,Alm.,18965,3,Sommerhus,58,1970,-19 %
+Kirkegyden 8 5642 Millinge,8,425000.0,29-01-2016,Alm.,2707,5,Villa,157,1913,0 %
+Assensvej 282 5642 Millinge,282,100000.0,27-01-2016,Alm.,1449,3,Rækkehus,69,1850,-50 %
+Bjerghammer 27 5642 Millinge,27,1190000.0,07-12-2015,Fam.,16081,4,Sommerhus,74,1984,
+Lykkevej 2 5642 Millinge,2,665000.0,04-12-2015,Alm.,8636,3,Villa,77,1938,-16 %
+Assensvej 371 5642 Millinge,371,308500.0,03-12-2015,Andet,2172,5,Villa,142,1904,
+Lykkevej 6 5642 Millinge,6,2450000.0,30-11-2015,Alm.,12694,5,Villa,193,1965,
+Højstræde 2 5642 Millinge,2,600000.0,27-11-2015,Fam.,7500,3,Villa,80,1772,
+Østerbyvej 27 5642 Millinge,27,3490000.0,21-11-2015,Alm.,19717,6,Stuehus,177,1827,
+Granvej 1 5642 Millinge,1,2650000.0,16-11-2015,Andet,29444,4,Villa,90,1966,
+Strandgyden 2 5642 Millinge,2,690000.0,07-11-2015,Alm.,5948,3,Villa,116,1971,-13 %
+Assensvej 216 5642 Millinge,216,525000.0,22-10-2015,Alm.,4687,4,Villa,112,1969,-4 %
+Assensvej 453 5642 Millinge,453,403000.0,21-10-2015,Auktion,2686,6,Villa,150,1920,
+Irisvej 3 5642 Millinge,3,510000.0,20-10-2015,Alm.,6000,4,Villa,85,1936,-14 %
+Strandholmen 26 5642 Millinge,26,775000.0,07-10-2015,Fam.,15500,3,Sommerhus,50,1963,
+Egenskrog 12 5642 Millinge,12,495000.0,18-09-2015,Fam.,1375,8,Stuehus,360,1842,
+Strandholmen 37 5642 Millinge,37,2550000.0,17-09-2015,Alm.,22767,4,Sommerhus,112,1969,
+Kirkegyden 28A 5642 Millinge,0,185000.0,27-08-2015,Auktion,1868,5,Villa,99,1930,
+Fiskerstræde 6 5642 Millinge,6,4895000.0,26-08-2015,Alm.,20144,7,Villa,243,1730,-2 %
+Egevej 16 5642 Millinge,16,4975000.0,21-08-2015,Alm.,21351,6,Villa,233,1900,-9 %
+Bjerghammer 46 5642 Millinge,46,2033000.0,20-08-2015,Alm.,34457,4,Sommerhus,59,1925,2 %
+Strandparken 1B 5642 Millinge,0,560000.0,13-08-2015,Alm.,6829,3,Rækkehus,82,1981,-6 %
+Klintebakkevej 17 5642 Millinge,17,965000.0,12-08-2015,Alm.,12371,3,Sommerhus,78,1983,-3 %
+Assensvej 295 5642 Millinge,295,1775000.0,04-08-2015,Alm.,7553,5,Villa,235,1997,-11 %
+Assensvej 296 5642 Millinge,296,900000.0,10-07-2015,Alm.,3734,9,Villa,241,1850,
+Assensvej 306 5642 Millinge,306,525000.0,23-06-2015,Alm.,3671,4,Villa,143,1949,-4 %
+Assensvej 280 5642 Millinge,280,800000.0,21-04-2015,Alm.,2836,7,Stuehus,282,1903,-20 %
+Strandparken 46 5642 Millinge,46,1075000.0,10-04-2015,Alm.,5874,9,Villa,183,1970,-10 %
+Assensvej 326 5642 Millinge,326,150000.0,30-03-2015,Alm.,1376,4,Villa,109,1935,
+Østerbyvej 5 5642 Millinge,5,725000.0,30-03-2015,Alm.,6775,3,Villa,107,1933,-9 %
+Stålbjergvænget 1B 5642 Millinge,0,690000.0,06-03-2015,Fam.,6160,4,Villa,112,1977,
+Østerbyvej 20 5642 Millinge,20,75000.0,16-02-2015,Alm.,390,4,Stuehus,192,1877,
+Assensvej 518 5642 Millinge,518,465000.0,24-01-2015,Alm.,1597,6,Villa,291,1662,
+Skovgyden 2 5642 Millinge,2,500000.0,05-01-2015,Andet,2222,5,Stuehus,225,1900,
+Bjerghammer 41 5642 Millinge,41,1572500.0,22-12-2014,Fam.,46250,2,Sommerhus,34,2003,
+Strandholmen 32 5642 Millinge,32,1425000.0,18-12-2014,Alm.,11585,5,Sommerhus,123,1970,-11 %
+Lykkevej 8 5642 Millinge,8,1800000.0,23-10-2014,Alm.,20454,5,Villa,88,1936,-10 %
+Assensvej 259 5642 Millinge,259,573095.0,25-09-2014,Alm.,3237,7,Villa,177,1930,
+Strandparken 4 5642 Millinge,4,650000.0,05-09-2014,Alm.,5909,2,Villa,110,1969,-13 %
+Strandparken 80 5642 Millinge,80,2598000.0,14-08-2014,Auktion,13055,4,Villa,199,1972,-16 %
+Strandgyden 13 5642 Millinge,13,995000.0,28-07-2014,Alm.,17155,3,Sommerhus,58,1973,0 %
+Assensvej 537 5642 Millinge,537,1250000.0,16-07-2014,Alm.,7062,6,Villa,177,1877,-16 %
+Klintholmvej 16 5642 Millinge,16,700000.0,30-06-2014,Alm.,11475,3,Sommerhus,61,1963,-12 %
+Strandholmen 43 5642 Millinge,43,672000.0,26-04-2014,Fam.,8296,4,Sommerhus,81,1974,-54 %
+Bjerghammer 4 5642 Millinge,4,800000.0,10-04-2014,Alm.,8333,4,Sommerhus,96,1958,-20 %
+Klintholmvej 22 5642 Millinge,22,995000.0,04-04-2014,Alm.,13819,3,Sommerhus,72,1969,-9 %
+Østerbyvej 11 5642 Millinge,11,900000.0,04-03-2014,Alm.,6338,4,Villa,142,1910,-14 %
+Assensvej 511 5642 Millinge,511,4200000.0,29-01-2014,Alm.,23728,5,Villa,177,1924,
+Højstræde 31 5642 Millinge,31,2600000.0,27-01-2014,Alm.,10699,7,Villa,243,1860,-7 %
+Søvænget 3 5642 Millinge,3,247862.0,08-01-2014,Auktion,1951,4,Villa,127,1940,-55 %
+Assensvej 315 5642 Millinge,315,394903.0,04-11-2013,Alm.,3159,5,Villa,125,1920,
+Østerbyvej 17 5642 Millinge,17,422491.0,16-10-2013,Fam.,4224,4,Villa,100,1907,-47 %
+Buursminde 29 5642 Millinge,29,1900000.0,21-09-2013,Alm.,27536,4,Sommerhus,69,1998,
+Præstevænget 4 5642 Millinge,4,475000.0,17-09-2013,Alm.,3467,3,Villa,137,2015,-4 %
+Kirkegyden 22 5642 Millinge,22,675000.0,27-07-2013,Alm.,5000,6,Villa,135,1968,
+Assensvej 253 5642 Millinge,253,250000.0,17-07-2013,Auktion,2100,3,Villa,119,1895,
+Assensvej 367 5642 Millinge,367,500000.0,21-06-2013,Alm.,2958,2,Stuehus,169,1877,-53 %
+Ellegyden 2 5642 Millinge,2,250000.0,10-06-2013,Alm.,2136,4,Villa,117,1896,
+Bjerghammer 34 5642 Millinge,34,1450000.0,26-04-2013,Andet,21323,4,Sommerhus,68,1986,
+Assensvej 507 5642 Millinge,507,649000.0,17-04-2013,Alm.,5900,3,Rækkehus,110,1936,-7 %
+Bjerghammer 21 5642 Millinge,21,1530000.0,02-04-2013,Fam.,15000,4,Sommerhus,102,1999,
+Klintholmvej 23 5642 Millinge,23,975000.0,20-03-2013,Alm.,14772,3,Sommerhus,66,1967,-2 %
+Assensvej 301 5642 Millinge,301,573891.0,18-03-2013,Alm.,3609,6,Villa,159,1928,
+Buursminde 11 5642 Millinge,11,841500.0,19-12-2012,Fam.,14262,4,Sommerhus,59,1985,
+Strandholmen 15 5642 Millinge,15,600000.0,19-11-2012,Alm.,10169,3,Sommerhus,59,1968,
+Strandholmen 62 5642 Millinge,62,1200000.0,09-10-2012,Alm.,16000,3,Sommerhus,75,1970,
+Kirkegyden 36 5642 Millinge,36,705000.0,04-10-2012,Alm.,3525,6,Villa,200,1961,-63 %
+Klintholmvej 20 5642 Millinge,20,950000.0,04-10-2012,Alm.,12500,4,Sommerhus,76,1964,0 %
+Strandholmen 25 5642 Millinge,25,521700.0,16-09-2012,Fam.,14100,3,Sommerhus,37,1967,
+Kirkegyden 2 5642 Millinge,2,1145000.0,29-08-2012,Alm.,8063,6,Villa,142,1885,-4 %
+Assensvej 427 5642 Millinge,427,1110000.0,14-08-2012,Alm.,5842,4,Villa,190,2013,-14 %
+Strandparken 50 5642 Millinge,50,800000.0,08-08-2012,Auktion,5839,4,Villa,137,1969,-43 %
+Stenbækvej 4 5642 Millinge,4,1090000.0,06-07-2012,Alm.,11237,3,Villa,97,1895,-5 %
+Strandparken 64 5642 Millinge,64,800000.0,28-06-2012,Alm.,6349,3,Villa,126,1970,-11 %
+Strandgyden 8 5642 Millinge,8,1825000.0,08-06-2012,Alm.,14257,3,Villa,128,1925,-17 %
+Irisvej 15 5642 Millinge,15,4650000.0,06-06-2012,Alm.,20758,7,Villa,224,1977,
+Strandparken 1D 5642 Millinge,0,625000.0,03-04-2012,Alm.,7621,3,Rækkehus,82,1985,-10 %
+Klintebakkevej 12 5642 Millinge,12,1200000.0,06-03-2012,Alm.,15189,4,Sommerhus,79,1980,-7 %
+Østerbyvej 15 5642 Millinge,15,300000.0,20-01-2012,Alm.,3000,4,Villa,100,1880,
+Østerbyvej 18 5642 Millinge,18,500000.0,05-01-2012,Auktion,4901,3,Villa,102,1967,
+Assensvej 421 5642 Millinge,421,350000.0,28-12-2011,Fam.,20588,1,Sommerhus,17,1928,
+Bjerghammer 40 5642 Millinge,40,1450000.0,21-12-2011,Alm.,14795,4,Sommerhus,98,2010,-13 %
+Bjerghammer 10 5642 Millinge,10,1200000.0,13-12-2011,Fam.,15384,4,Sommerhus,78,1977,
+Assensvej 267 5642 Millinge,267,360000.0,27-10-2011,Fam.,3673,6,Rækkehus,98,1883,-9 %
+Ryttervej 5 5642 Millinge,5,651550.0,20-10-2011,Alm.,5568,5,Villa,117,1973,
+Assensvej 522A 5642 Millinge,0,750000.0,20-10-2011,Alm.,4658,2,Villa,161,1900,
+Irisvej 14 5642 Millinge,14,2175000.0,13-10-2011,Alm.,11885,4,Villa,183,2017,-5 %
+Birkevej 6 5642 Millinge,6,900000.0,27-09-2011,Alm.,0,5,Villa,161,1979,-10 %
+Søvænget 7 5642 Millinge,7,955000.0,26-09-2011,Alm.,6821,4,Villa,140,1966,-7 %
+Egemosevej 6 5642 Millinge,6,850000.0,03-08-2011,Alm.,5246,5,Villa,162,1969,0 %
+Østerbyvej 4 5642 Millinge,4,550000.0,25-07-2011,Alm.,8593,3,Villa,64,1906,0 %
+Assensvej 303 5642 Millinge,303,441454.0,11-07-2011,Fam.,2522,7,Villa,175,1884,
+Strandgyden 17 5642 Millinge,17,1750000.0,09-06-2011,Alm.,12237,4,Sommerhus,143,2014,0 %
+Klintholmvej 40 5642 Millinge,40,200000.0,25-05-2011,Alm.,3030,3,Sommerhus,66,1994,
+Klintholmvej 54 5642 Millinge,54,206666.0,19-05-2011,Alm.,9841,1,Sommerhus,21,1937,
+Østerbyvej 48 5642 Millinge,48,1100000.0,19-05-2011,Auktion,6666,4,Villa,165,1890,
+Assensvej 535 5642 Millinge,535,2200000.0,01-03-2011,Alm.,13414,4,Villa,164,1827,-12 %
+Strandholmen 10 5642 Millinge,10,1260000.0,10-02-2011,Alm.,13695,4,Sommerhus,92,1700,-16 %
+Klintebakkevej 9 5642 Millinge,9,1250000.0,21-01-2011,Alm.,14705,3,Sommerhus,85,1981,-3 %
+Assensvej 425 5642 Millinge,425,698552.0,14-01-2011,Alm.,3796,5,Villa,184,1927,
+Præstevænget 20 5642 Millinge,20,900000.0,23-12-2010,Alm.,12857,2,Villa,70,1852,
+Præstevænget 40 5642 Millinge,40,3450000.0,23-12-2010,Alm.,20909,4,Villa,165,1852,
+Buursminde 7 5642 Millinge,7,1000000.0,08-09-2010,Alm.,13513,5,Sommerhus,74,1969,-9 %
+Strandparken 56 5642 Millinge,56,1285000.0,01-09-2010,Alm.,7603,6,Villa,169,1972,-4 %
+Strandgyden 15 5642 Millinge,15,1147500.0,24-06-2010,Alm.,17386,4,Sommerhus,66,1994,
+Bjerghammer 32 5642 Millinge,32,2010000.0,04-06-2010,Alm.,17631,3,Sommerhus,114,1993,-8 %
+Klintholmvej 9 5642 Millinge,9,995000.0,20-05-2010,Alm.,20306,3,Sommerhus,49,1964,0 %
+Søvænget 4 5642 Millinge,4,600000.0,18-05-2010,Alm.,8108,1,Villa,74,1964,-20 %
+Østerbyvej 9 5642 Millinge,9,900000.0,04-05-2010,Alm.,6474,5,Villa,139,1965,
+Kirkegyden 1 5642 Millinge,1,510000.0,21-04-2010,Auktion,3377,5,Villa,151,1900,
+Østerbyvej 2 5642 Millinge,2,700000.0,31-03-2010,Alm.,7777,3,Villa,90,1880,
+Højstræde 19 5642 Millinge,19,2284400.0,26-02-2010,Alm.,17306,5,Stuehus,132,1899,
+Strandparken 66 5642 Millinge,66,800000.0,15-02-2010,Fam.,8247,4,Villa,97,1970,
+Assensvej 489 5642 Millinge,489,1000000.0,16-12-2009,Alm.,0,5,Villa,166,1826,-28 %
+Assensvej 302 5642 Millinge,302,2100000.0,15-12-2009,Alm.,0,7,Stuehus,192,1949,
+Assensvej 532 5642 Millinge,532,1950000.0,27-11-2009,Alm.,9198,10,Villa,212,1856,
+Klintebakkevej 11 5642 Millinge,11,1080000.0,12-11-2009,Alm.,21600,3,Sommerhus,50,1984,-14 %
+Østerbyvej 60 5642 Millinge,60,1600000.0,11-11-2009,Alm.,12698,4,Stuehus,126,1885,-6 %
+Assensvej 218 5642 Millinge,218,1500000.0,27-10-2009,Alm.,7936,7,Villa,189,1933,
+Østerbyvej 10 5642 Millinge,10,627243.0,21-10-2009,Fam.,5650,4,Villa,111,1947,
+Assensvej 325 5642 Millinge,325,571818.0,29-07-2009,Alm.,5498,4,Villa,104,1827,16 %
+Østerbyvej 23 5642 Millinge,23,1900000.0,26-05-2009,Alm.,15079,5,Villa,126,1904,
+Egemosevej 15 5642 Millinge,15,1200000.0,22-12-2008,Alm.,10169,4,Villa,118,1976,
+Assensvej 222 5642 Millinge,222,3900000.0,15-12-2008,Andet,29323,6,Villa,133,1905,
+Strandparken 9 5642 Millinge,9,1500000.0,02-12-2008,Andet,11904,5,Villa,126,1967,
+Egemosevej 1 5642 Millinge,1,800000.0,12-11-2008,Alm.,7407,4,Villa,108,1966,-11 %
+Lykkevej 3 5642 Millinge,3,1561000.0,06-11-2008,Alm.,7433,3,Villa,210,1962,-5 %
+Strandholmen 33 5642 Millinge,33,1050000.0,03-11-2008,Alm.,16153,4,Sommerhus,65,1985,-12 %
+Bjerghammer 50 5642 Millinge,50,1150000.0,15-10-2008,Fam.,21296,2,Sommerhus,54,1991,
+Violstræde 3 5642 Millinge,3,1325000.0,12-10-2008,Alm.,9742,3,Villa,136,1917,-11 %
+Klintholmvej 46 5642 Millinge,46,2001000.0,15-08-2008,Alm.,0,3,Sommerhus,98,1938,7 %
+Strandholmen 46 5642 Millinge,46,1147500.0,15-07-2008,Fam.,15300,3,Sommerhus,75,1971,
+Klintholmvej 4 5642 Millinge,4,1495000.0,07-07-2008,Alm.,25775,4,Sommerhus,58,1978,
+Søvænget 8 5642 Millinge,8,1100000.0,04-07-2008,Alm.,10576,3,Villa,104,1964,-19 %
+Assensvej 243 5642 Millinge,243,1637500.0,28-06-2008,Alm.,10234,5,Villa,160,1941,
+Birkevej 5 5642 Millinge,5,1245000.0,11-06-2008,Alm.,10121,4,Villa,123,1966,-4 %
+Strandparken 70 5642 Millinge,70,4350000.0,10-06-2008,Alm.,18669,7,Villa,233,1971,0 %
+Buursminde 33 5642 Millinge,33,3400000.0,09-06-2008,Alm.,65384,3,Sommerhus,52,1950,
+Klintholmvej 1 5642 Millinge,1,1200000.0,23-05-2008,Alm.,0,6,Villa,154,1850,-17 %
+Klintholmvej 19 5642 Millinge,19,807500.0,13-05-2008,Fam.,16150,4,Sommerhus,50,1965,
+Assensvej 389 5642 Millinge,389,800000.0,09-05-2008,Alm.,6400,5,Villa,125,1890,-6 %
+Kirkegyden 9 5642 Millinge,9,1250000.0,23-04-2008,Alm.,8865,5,Villa,141,1950,-3 %
+Bjerghammer 15 5642 Millinge,15,1174500.0,08-04-2008,Fam.,16542,4,Sommerhus,71,1983,
+Assensvej 426 5642 Millinge,426,850000.0,07-04-2008,Alm.,7456,4,Villa,114,1945,
+Østerbyvej 3 5642 Millinge,3,695000.0,03-04-2008,Alm.,6813,3,Villa,102,1890,-4 %
+Ryttervej 17 5642 Millinge,17,1675000.0,10-03-2008,Alm.,10947,4,Villa,153,1976,-3 %
+Buursminde 10 5642 Millinge,10,1002147.0,07-03-2008,Alm.,17895,2,Sommerhus,56,1966,-8 %
+Assensvej 263 5642 Millinge,263,1750000.0,24-02-2008,Alm.,11589,4,Villa,151,1900,0 %
+Assensvej 250 5642 Millinge,250,945000.0,22-02-2008,Alm.,7809,6,Villa,121,1917,0 %
+Egemosevej 4 5642 Millinge,4,1095000.0,08-02-2008,Alm.,10841,4,Villa,101,1968,0 %
+Assensvej 328 5642 Millinge,328,645000.0,08-01-2008,Alm.,6323,3,Villa,102,1895,0 %
+Strandgyden 2A 5642 Millinge,0,3075000.0,23-12-2007,Alm.,14642,6,Villa,210,1973,-2 %
+Assensvej 396 5642 Millinge,396,166560.0,21-12-2007,Alm.,968,6,Stuehus,172,1896,
+Egemosevej 8 5642 Millinge,8,850000.0,19-12-2007,Alm.,4941,4,Villa,172,1970,
+Buursminde 2 5642 Millinge,2,739500.0,17-12-2007,Fam.,13205,4,Sommerhus,56,1962,
+Bjerghammer 52 5642 Millinge,52,1360000.0,01-12-2007,Alm.,28936,4,Sommerhus,47,1934,
+Højstræde 10 5642 Millinge,10,950000.0,22-11-2007,Alm.,0,6,Villa,262,1813,
+Klintholmvej 48 5642 Millinge,48,800000.0,19-11-2007,Alm.,0,2,Sommerhus,43,1966,
+Birkevej 1 5642 Millinge,1,782000.0,16-11-2007,Alm.,5792,4,Villa,135,1966,
+Irisvej 1 5642 Millinge,1,1600000.0,30-10-2007,Alm.,13223,4,Villa,121,1932,
+Assensvej 284 5642 Millinge,284,650000.0,22-10-2007,Alm.,8904,4,Rækkehus,73,1850,
+Assensvej 332 5642 Millinge,332,700000.0,09-10-2007,Alm.,2788,6,Villa,251,2010,
+Assensvej 246 5642 Millinge,246,600000.0,06-10-2007,Alm.,4379,6,Villa,137,1908,-5 %
+Gyvelvej 3 5642 Millinge,3,1035000.0,30-09-2007,Alm.,7040,4,Villa,147,1942,-5 %
+Assensvej 242 5642 Millinge,242,790000.0,28-09-2007,Alm.,3761,8,Villa,210,1911,
+Kirkegyden 16 5642 Millinge,16,755000.0,24-09-2007,Alm.,6926,4,Villa,109,1957,
+Kirkegyden 26 5642 Millinge,26,910000.0,18-09-2007,Alm.,7280,5,Rækkehus,125,1903,-4 %
+Præstevænget 31 5642 Millinge,31,4300000.0,17-09-2007,Alm.,11944,9,Stuehus,360,1912,
+Østerbyvej 13 5642 Millinge,13,825000.0,31-07-2007,Alm.,7568,4,Villa,109,1900,
+Assensvej 232 5642 Millinge,232,601118.0,17-07-2007,Alm.,4061,4,Villa,148,1920,
+Buursminde 5 5642 Millinge,5,875000.0,21-06-2007,Alm.,0,4,Sommerhus,45,1967,
+Søvænget 2B 5642 Millinge,0,800000.0,10-06-2007,Alm.,10256,3,Rækkehus,78,1994,
+Søvænget 2D 5642 Millinge,0,800000.0,10-06-2007,Alm.,10256,3,Rækkehus,78,1990,
+Ryttervej 8 5642 Millinge,8,1095000.0,01-06-2007,Alm.,9125,3,Villa,120,1973,0 %
+Østerbyvej 1 5642 Millinge,1,900000.0,23-05-2007,Alm.,0,10,Villa,233,1880,
+Bjerghammer 17 5642 Millinge,17,1232500.0,07-05-2007,Fam.,15406,5,Sommerhus,80,1984,
+Assensvej 330 5642 Millinge,330,1995000.0,13-04-2007,Alm.,8562,5,Villa,233,1880,
+Kirkegyden 30 5642 Millinge,30,850000.0,23-03-2007,Alm.,3195,5,Villa,266,2008,
+Assensvej 451 5642 Millinge,451,1050000.0,09-03-2007,Alm.,13461,3,Villa,78,1933,
+Ryttervej 19 5642 Millinge,19,1492624.0,21-02-2007,Alm.,10437,5,Villa,143,1978,
+Assensvej 416 5642 Millinge,416,1595000.0,26-01-2007,Alm.,9608,4,Villa,166,1933,
+Østerbyvej 14 5642 Millinge,14,1025926.0,22-12-2006,Alm.,8478,5,Villa,121,1777,
+Kirkegyden 12 5642 Millinge,12,1015000.0,03-11-2006,Alm.,7807,4,Villa,130,1930,
+Irisvej 2 5642 Millinge,2,760000.0,22-09-2006,Fam.,5135,6,Villa,148,1930,
+Nygyde 4 5642 Millinge,4,2475585.0,19-07-2006,Alm.,7617,9,Stuehus,325,1870,
+Birkevej 3 5642 Millinge,3,1630000.0,13-07-2006,Alm.,13145,3,Villa,124,1979,
+Egemosevej 3 5642 Millinge,3,460472.0,06-07-2006,Alm.,4148,4,Villa,111,1967,
+Strandholmen 12C 5642 Millinge,0,1285000.0,04-07-2006,Alm.,12850,4,Sommerhus,100,1979,
+Assensvej 269 5642 Millinge,269,578000.0,03-07-2006,Fam.,3141,7,Villa,184,1827,
+Søvænget 12 5642 Millinge,12,1075000.0,26-06-2006,Alm.,7263,4,Villa,148,1967,
+Assensvej 482 5642 Millinge,482,1695000.0,23-06-2006,Alm.,12107,6,Villa,140,1930,
+Strandholmen 53C 5642 Millinge,0,1218996.0,22-06-2006,Alm.,21017,2,Sommerhus,58,2008,
+Klintebakkevej 5 5642 Millinge,5,687889.0,09-06-2006,Fam.,10422,3,Sommerhus,66,1983,
+Egevej 6 5642 Millinge,6,745000.0,22-04-2006,Alm.,5033,5,Villa,148,2007,
+Klintebakkevej 19 5642 Millinge,19,1800000.0,20-04-2006,Alm.,20454,4,Sommerhus,88,1993,
+Præstevænget 39 5642 Millinge,39,3400000.0,11-04-2006,Alm.,17435,7,Stuehus,195,1820,
+Violstræde 19 5642 Millinge,19,1275000.0,21-03-2006,Fam.,7162,5,Villa,178,1898,
+Lindegårdsvej 33 5642 Millinge,33,1145000.0,20-03-2006,Alm.,6815,7,Villa,168,1976,
+Assensvej 300 5642 Millinge,300,1500000.0,31-01-2006,Alm.,8875,3,Villa,169,1875,
+Bjerghammer 38 5642 Millinge,38,1675000.0,29-12-2005,Alm.,22039,4,Sommerhus,76,2004,
+Assensvej 298 5642 Millinge,298,175000.0,08-12-2005,Alm.,0,8,Stuehus,268,1729,
+Assensvej 314 5642 Millinge,314,690000.0,08-12-2005,Alm.,7840,2,Villa,88,1875,
+Buursminde 1 5642 Millinge,1,875000.0,10-11-2005,Alm.,16203,2,Sommerhus,54,1973,
+Klintholmvej 52 5642 Millinge,52,420000.0,05-11-2005,Fam.,6000,3,Sommerhus,70,2008,
+Strandholmen 2 5642 Millinge,2,1440312.0,28-10-2005,Alm.,12103,4,Villa,119,1905,
+Søvænget 2A 5642 Millinge,0,632000.0,17-10-2005,Alm.,8102,3,Rækkehus,78,1994,
+Klintebakkevej 7 5642 Millinge,7,900000.0,22-09-2005,Alm.,10843,4,Sommerhus,83,1979,
+Strandgyden 11 5642 Millinge,11,545000.0,23-08-2005,Alm.,3732,4,Villa,146,1950,
+Søvænget 17 5642 Millinge,17,1175000.0,14-08-2005,Alm.,6527,5,Villa,180,1967,
+Klintholmvej 36 5642 Millinge,36,195400.0,21-07-2005,Andet,1228,7,Sommerhus,159,2011,
+Assensvej 533 5642 Millinge,533,1795000.0,08-07-2005,Alm.,8466,6,Villa,212,1851,
+Strandparken 1C 5642 Millinge,0,675000.0,04-07-2005,Alm.,8231,3,Rækkehus,82,1985,
+Violstræde 4 5642 Millinge,4,575000.0,29-06-2005,Alm.,7770,2,Rækkehus,74,1820,
+Strandparken 60 5642 Millinge,60,1560000.0,13-06-2005,Alm.,9341,4,Villa,167,1971,
+Østerbyvej 54 5642 Millinge,54,1650000.0,24-05-2005,Andet,8168,5,Stuehus,202,1800,
+Klintholmvej 7 5642 Millinge,7,350000.0,15-05-2005,Fam.,14000,1,Sommerhus,25,1964,
+Kirkegyden 32 5642 Millinge,32,289232.0,13-05-2005,Andet,2158,3,Villa,134,1934,
+Assensvej 457 5642 Millinge,457,900000.0,09-04-2005,Alm.,10227,3,Villa,88,1943,
+Assensvej 237 5642 Millinge,237,1600000.0,01-04-2005,Alm.,7407,6,Villa,216,1915,
+Søvænget 1 5642 Millinge,1,645000.0,22-03-2005,Alm.,8486,2,Villa,76,1935,
+Klintebakkevej 20 5642 Millinge,20,1250000.0,14-01-2005,Alm.,15060,5,Sommerhus,83,1995,
+Præstevænget 33 5642 Millinge,33,4350000.0,27-12-2004,Alm.,12083,9,Sommerhus,360,1955,
+Strandholmen 34 5642 Millinge,34,527000.0,25-12-2004,Fam.,10979,4,Sommerhus,48,1961,
+Klintebakkevej 13 5642 Millinge,13,875000.0,23-12-2004,Alm.,7954,6,Sommerhus,110,1981,
+Strandholmen 47 5642 Millinge,47,1000000.0,05-11-2004,Alm.,7936,4,Sommerhus,126,2009,
+Egevej 10 5642 Millinge,10,665000.0,05-11-2004,Alm.,4030,5,Villa,165,2007,
+Bjerghammer 5 5642 Millinge,5,1400000.0,22-10-2004,Alm.,0,7,Sommerhus,120,1994,
+Egemosevej 14 5642 Millinge,14,915000.0,16-10-2004,Alm.,6727,6,Villa,136,1976,
+Egemosevej 9 5642 Millinge,9,975000.0,04-10-2004,Alm.,7065,4,Villa,138,1972,
+Assensvej 471 5642 Millinge,471,700000.0,27-09-2004,Alm.,5600,3,Villa,125,1932,
+Klintholmvej 25 5642 Millinge,25,645000.0,11-08-2004,Alm.,10932,4,Sommerhus,59,1964,
+Strandgyden 1 5642 Millinge,1,1287500.0,20-07-2004,Alm.,7399,4,Villa,174,1904,
+Bjerghammer 26 5642 Millinge,26,1095000.0,03-07-2004,Alm.,16846,4,Sommerhus,65,1984,
+Søvænget 22 5642 Millinge,22,2295000.0,14-06-2004,Alm.,13742,7,Villa,167,1967,
+Assensvej 212 5642 Millinge,212,525000.0,09-06-2004,Fam.,3476,3,Villa,151,1927,
+Ryttervej 4 5642 Millinge,4,630000.0,21-05-2004,Alm.,6176,3,Villa,102,1957,
+Assensvej 327 5642 Millinge,327,274641.0,04-05-2004,Andet,2307,4,Villa,119,1902,
+Østerbyvej 56 5642 Millinge,56,895000.0,04-05-2004,Alm.,0,8,Villa,193,1891,
+Strandparken 19 5642 Millinge,19,2950000.0,29-04-2004,Alm.,18910,5,Villa,156,1971,
+Assensvej 546 5642 Millinge,546,1026550.0,15-04-2004,Auktion,4502,4,Villa,228,1836,
+Hornegyden 25 5642 Millinge,25,600000.0,01-04-2004,Alm.,0,6,Stuehus,133,1887,
+Assensvej 485 5642 Millinge,485,575000.0,01-04-2004,Alm.,7666,3,Villa,75,1850,
+Egemosevej 11 5642 Millinge,11,950000.0,29-03-2004,Alm.,5491,6,Villa,173,1976,
+Klintebakkevej 6 5642 Millinge,6,1125000.0,22-03-2004,Alm.,13554,4,Sommerhus,83,1984,
+Lindegårdsvej 11 5642 Millinge,11,1100000.0,20-02-2004,Alm.,9090,4,Villa,121,1977,
+Strandholmen 45 5642 Millinge,45,385000.0,01-02-2004,Alm.,5273,3,Sommerhus,73,1970,
+Assensvej 544 5642 Millinge,544,1150000.0,29-01-2004,Alm.,5133,4,Villa,224,1834,
+Klintholmvej 12 5642 Millinge,12,50882.0,12-01-2004,Fam.,759,3,Sommerhus,67,1966,
+Assensvej 495 5642 Millinge,495,800000.0,18-12-2003,Alm.,5194,5,Villa,154,1886,
+Strandgyden 3 5642 Millinge,3,600000.0,12-12-2003,Alm.,3174,6,Villa,189,1935,
+Kirkegyden 10 5642 Millinge,10,985000.0,12-12-2003,Alm.,5353,7,Villa,184,1932,
+Assensvej 469 5642 Millinge,469,875000.0,07-12-2003,Alm.,0,5,Villa,155,1890,
+Assensvej 408 5642 Millinge,408,867321.0,21-11-2003,Andet,3906,5,Villa,222,1945,
+Assensvej 244 5642 Millinge,244,615000.0,29-10-2003,Alm.,5211,4,Villa,118,1910,
+Assensvej 310 5642 Millinge,310,1100000.0,13-10-2003,Alm.,6010,5,Villa,183,1910,
+Strandholmen 44 5642 Millinge,44,820000.0,28-08-2003,Alm.,11388,3,Sommerhus,72,1972,
+Strandholmen 54A 5642 Millinge,0,850000.0,13-08-2003,Alm.,7203,3,Sommerhus,118,1985,
+Klintholmvej 27 5642 Millinge,27,735000.0,29-07-2003,Alm.,6621,3,Sommerhus,111,2008,
+Strandholmen 48 5642 Millinge,48,840000.0,29-06-2003,Alm.,10370,4,Sommerhus,81,1979,
+Assensvej 465 5642 Millinge,465,540000.0,27-06-2003,Alm.,6067,2,Rækkehus,89,1840,
+Strandholmen 41A 5642 Millinge,0,745000.0,26-06-2003,Alm.,11640,3,Sommerhus,64,1978,
+Bjerghammer 28 5642 Millinge,28,731000.0,20-06-2003,Fam.,10013,4,Sommerhus,73,1988,
+Ryttervej 9 5642 Millinge,9,780000.0,04-06-2003,Alm.,5492,4,Villa,142,1973,
+Ahornvej 7 5642 Millinge,7,1015000.0,26-05-2003,Alm.,0,4,Villa,129,1984,
+Assensvej 220 5642 Millinge,220,1400000.0,15-04-2003,Alm.,9150,5,Anden beboelse,153,1887,
+Assensvej 231 5642 Millinge,231,629000.0,10-04-2003,Fam.,4992,3,Villa,126,1940,
+Assensvej 517A 5642 Millinge,0,825000.0,14-02-2003,Alm.,5156,4,Rækkehus,160,1913,
+Bjerghammer 33 5642 Millinge,33,1600000.0,23-01-2003,Alm.,17204,4,Sommerhus,93,1977,
+Assensvej 277 5642 Millinge,277,600000.0,17-01-2003,Alm.,5454,4,Villa,110,1963,
+Hornegyden 22 5642 Millinge,22,1566900.0,01-10-2002,Alm.,6812,6,Stuehus,230,1905,
+Strandparken 13 5642 Millinge,13,1310000.0,19-09-2002,Alm.,0,6,Villa,206,1966,
+Egemosevej 12 5642 Millinge,12,314000.0,09-09-2002,Andet,2803,4,Villa,112,1976,
+Strandholmen 9 5642 Millinge,9,1285000.0,05-09-2002,Alm.,9178,4,Villa,140,1914,
+Assensvej 291 5642 Millinge,291,725000.0,03-09-2002,Alm.,4027,5,Villa,180,1928,
+Assensvej 290 5642 Millinge,290,375000.0,28-08-2002,Alm.,2929,4,Villa,128,1936,
+Bjerghammer 9 5642 Millinge,9,1325000.0,28-08-2002,Alm.,12990,4,Sommerhus,102,1993,
+Søvænget 14 5642 Millinge,14,1090000.0,03-05-2002,Alm.,7315,4,Villa,149,1969,
+Strandholmen 35 5642 Millinge,35,365397.0,15-04-2002,Fam.,4807,6,Sommerhus,76,1960,
+Østerbyvej 7 5642 Millinge,7,698374.0,05-04-2002,Alm.,0,5,Villa,144,1902,
+Assensvej 441 5642 Millinge,441,950000.0,05-03-2002,Alm.,6333,5,Villa,150,1930,
+Assensvej 283 5642 Millinge,283,870000.0,09-01-2002,Alm.,5147,6,Villa,169,1902,
+Strandparken 72 5642 Millinge,72,1675000.0,21-12-2001,Alm.,12050,4,Villa,139,1970,
+Assensvej 391 5642 Millinge,391,625000.0,20-12-2001,Alm.,5208,6,Villa,120,1912,
+Klintebakkevej 22 5642 Millinge,22,800000.0,18-12-2001,Alm.,10000,4,Sommerhus,80,1980,
+Bjerghammer 48 5642 Millinge,48,195000.0,03-12-2001,Fam.,8125,2,Sommerhus,24,1968,
+Assensvej 487 5642 Millinge,487,360000.0,16-10-2001,Fam.,9000,2,Sommerhus,40,1842,
+Landevejen 96 5642 Millinge,96,25000000.0,31-08-2001,Alm.,78125,12,Sommerhus,320,1935,
+Strandholmen 12B 5642 Millinge,0,704873.0,31-08-2001,Alm.,9525,3,Sommerhus,74,1976,
+Egenskrog 3 5642 Millinge,3,775000.0,29-07-2001,Alm.,5698,5,Villa,136,1900,
+Assensvej 208 5642 Millinge,208,125000.0,13-07-2001,Alm.,753,4,Stuehus,166,1916,
+Ellegyden 6 5642 Millinge,6,760000.0,10-07-2001,Alm.,6229,3,Villa,122,1975,
+Bjerghammer 14 5642 Millinge,14,980000.0,03-07-2001,Alm.,15076,4,Sommerhus,65,1994,
+Højstræde 7 5642 Millinge,7,75000.0,18-05-2001,Alm.,375,7,Villa,200,2002,
+Kirkegyden 15 5642 Millinge,15,640000.0,08-04-2001,Alm.,0,3,Villa,137,1952,
+Assensvej 320 5642 Millinge,320,2235000.0,02-04-2001,Alm.,7186,10,Stuehus,311,1877,
+Assensvej 293 5642 Millinge,293,9325000.0,15-03-2001,Fam.,30877,8,Stuehus,302,1860,
+Klintholmvej 2 5642 Millinge,2,1183442.0,24-02-2001,Alm.,7216,5,Sommerhus,164,1777,
+Strandholmen 54 5642 Millinge,54,750000.0,05-12-2000,Alm.,12931,3,Sommerhus,58,1975,
+Højstræde 16 5642 Millinge,16,611275.0,05-12-2000,Alm.,0,6,Villa,230,1936,
+Østerbyvej 46 5642 Millinge,46,2016250.0,29-11-2000,Alm.,6976,7,Villa,289,1877,
+Bjerghammer 3 5642 Millinge,3,2100000.0,18-08-2000,Fam.,14093,5,Sommerhus,149,1920,
+Assensvej 233 5642 Millinge,233,570000.0,17-08-2000,Alm.,7600,4,Villa,75,1937,
+Klintholmvej 22A 5642 Millinge,0,500000.0,17-08-2000,Alm.,0,4,Sommerhus,50,1983,
+Assensvej 520 5642 Millinge,520,1195000.0,04-08-2000,Alm.,5975,6,Villa,200,1913,
+Klintholmvej 56 5642 Millinge,56,270000.0,26-05-2000,Fam.,4354,1,Sommerhus,62,1939,
+Søvænget 21 5642 Millinge,21,1750000.0,26-05-2000,Alm.,12500,5,Villa,140,1965,
+Irisvej 11 5642 Millinge,11,815687.0,25-05-2000,Alm.,6797,3,Villa,120,1930,
+Vigø 1 5642 Millinge,1,4600000.0,02-05-2000,Alm.,44660,4,Sommerhus,103,1960,
+Bjerghammer 36 5642 Millinge,36,1143786.0,25-04-2000,Alm.,13616,3,Sommerhus,84,1995,
+Assensvej 501 5642 Millinge,501,699000.0,19-04-2000,Alm.,4509,4,Villa,155,1891,
+Assensvej 521 5642 Millinge,521,2100000.0,19-04-2000,Alm.,11290,5,Villa,186,1676,
+Strandholmen 23 5642 Millinge,23,710000.0,14-04-2000,Alm.,0,5,Sommerhus,132,1972,
+Strandholmen 13 5642 Millinge,13,1195000.0,11-04-2000,Alm.,8415,5,Sommerhus,142,1969,
+Buursminde 35 5642 Millinge,35,670000.0,22-12-1999,Fam.,6836,3,Sommerhus,98,1952,
+Assensvej 433 5642 Millinge,433,1800000.0,12-12-1999,Alm.,12080,6,Villa,149,1950,
+Birkevej 7 5642 Millinge,7,912995.0,22-10-1999,Alm.,6296,7,Villa,145,1977,
+Ryttervej 15 5642 Millinge,15,925000.0,13-10-1999,Alm.,6801,5,Villa,136,1973,
+Assensvej 271 5642 Millinge,271,770000.0,10-09-1999,Alm.,5065,6,Villa,152,1927,
+Strandparken 34 5642 Millinge,34,875000.0,26-08-1999,Alm.,7291,4,Villa,120,1971,
+Buursminde 13 5642 Millinge,13,238000.0,24-08-1999,Fam.,2266,4,Sommerhus,105,2015,
+Søvænget 16 5642 Millinge,16,1080314.0,20-08-1999,Alm.,8573,4,Villa,126,1969,
+Klintholmvej 38 5642 Millinge,38,1102032.0,09-08-1999,Alm.,11723,4,Sommerhus,94,1950,
+Assensvej 307 5642 Millinge,307,1658000.0,28-07-1999,Alm.,6937,7,Stuehus,239,1935,
+Højstræde 27 5642 Millinge,27,435000.0,29-06-1999,Alm.,4027,4,Villa,108,1935,
+Bjerghammer 19 5642 Millinge,19,957000.0,01-06-1999,Alm.,12113,5,Sommerhus,79,1987,
+Strandparken 1A 5642 Millinge,0,575000.0,20-05-1999,Alm.,5637,4,Rækkehus,102,1981,
+Kirkegyden 17 5642 Millinge,17,870000.0,30-03-1999,Alm.,4915,4,Rækkehus,177,1980,
+Landevejen 98 5642 Millinge,98,368000.0,29-03-1999,Alm.,0,6,Villa,151,1802,
+Bjerghammer 31 5642 Millinge,31,170000.0,19-02-1999,Fam.,2931,4,Sommerhus,58,1983,
+Granvej 12 5642 Millinge,12,109000.0,24-12-1998,Fam.,939,5,Villa,116,1999,
+Assensvej 308 5642 Millinge,308,365000.0,06-11-1998,Alm.,3318,4,Villa,110,1900,
+Assensvej 279 5642 Millinge,279,572000.0,09-10-1998,Alm.,3666,8,AndenBygningTilKontorHandelLager,156,1850,
+Assensvej 234 5642 Millinge,234,465000.0,06-10-1998,Alm.,0,5,Villa,172,1917,
+Hornegyden 27 5642 Millinge,27,943500.0,01-10-1998,Alm.,4212,6,Villa,224,1884,
+Granvej 10 5642 Millinge,10,187500.0,11-09-1998,Alm.,1512,4,Villa,124,1999,
+Kirkegyden 13 5642 Millinge,13,505000.0,11-09-1998,Alm.,0,5,Villa,154,1954,
+Kirkegyden 24 5642 Millinge,24,387945.0,11-08-1998,Alm.,0,6,Rækkehus,113,1903,
+Assensvej 317 5642 Millinge,317,520559.0,30-06-1998,Alm.,3855,4,Villa,135,1905,
+Assensvej 265 5642 Millinge,265,288779.0,17-06-1998,Alm.,3138,4,Rækkehus,92,1883,
+Assensvej 472 5642 Millinge,472,586000.0,17-06-1998,Alm.,6894,3,Villa,85,1964,
+Assensvej 385 5642 Millinge,385,560007.0,15-06-1998,Alm.,3500,3,Villa,160,1876,
+Assensvej 312 5642 Millinge,312,550000.0,14-05-1998,Alm.,6179,3,Villa,89,1951,
+Lindegårdsvej 29 5642 Millinge,29,716500.0,04-05-1998,Alm.,6123,3,Villa,117,1976,
+Klintholmvej 28 5642 Millinge,28,511454.0,08-04-1998,Alm.,10028,3,Sommerhus,51,1964,
+Assensvej 478 5642 Millinge,478,470000.0,08-04-1998,Fam.,4519,3,Villa,104,1934,
+Ryttervej 1 5642 Millinge,1,500000.0,07-04-1998,Alm.,4424,6,Villa,113,1949,
+Assensvej 247 5642 Millinge,247,2000000.0,23-03-1998,Alm.,13333,5,Villa,150,1917,
+Birkevej 10 5642 Millinge,10,130000.0,08-03-1998,Alm.,778,5,Villa,167,1999,
+Violstræde 13 5642 Millinge,13,246500.0,18-02-1998,Fam.,0,3,Sommerhus,114,1929,
+Assensvej 510 5642 Millinge,510,427500.0,16-02-1998,Alm.,2968,4,Villa,144,1856,
+Irisvej 6 5642 Millinge,6,893129.0,18-01-1998,Alm.,4989,6,Villa,179,1966,
+Buursminde 8 5642 Millinge,8,434000.0,08-01-1998,Alm.,0,3,Sommerhus,87,1973,
+Assensvej 528 5642 Millinge,528,565015.0,09-12-1997,Alm.,5765,5,Villa,98,1912,
+Assensvej 406 5642 Millinge,406,242000.0,19-11-1997,Andet,2220,3,Villa,109,1876,
+Assensvej 543 5642 Millinge,543,634249.0,22-09-1997,Alm.,2536,6,Villa,250,1843,
+Klintholmvej 50 5642 Millinge,50,178500.0,07-08-1997,Fam.,5409,2,Sommerhus,33,1938,
+Gyvelvej 1 5642 Millinge,1,440000.0,11-06-1997,Alm.,2972,5,Villa,148,1877,
+Assensvej 413 5642 Millinge,413,540000.0,04-06-1997,Alm.,4537,6,Villa,119,1906,
+Strandholmen 53B 5642 Millinge,0,590000.0,22-05-1997,Alm.,0,3,Sommerhus,74,1983,
+Buursminde 25 5642 Millinge,25,475000.0,04-04-1997,Alm.,0,3,Sommerhus,131,1962,
+Skovgyden 10 5642 Millinge,10,417290.0,26-03-1997,Alm.,1586,7,Stuehus,263,1905,
+Søvænget 20 5642 Millinge,20,225000.0,25-02-1997,Alm.,1380,5,Villa,163,1998,
+Strandgyden 6 5642 Millinge,6,223000.0,05-02-1997,Alm.,1211,4,Villa,184,1998,
+Klintebakkevej 3 5642 Millinge,3,110000.0,15-12-1996,Alm.,1208,4,Sommerhus,91,1997,
+Strandparken 42 5642 Millinge,42,1144000.0,30-11-1996,Alm.,6217,5,Villa,184,1973,
+Violstræde 4A 5642 Millinge,0,778000.0,28-11-1996,Alm.,6824,3,Villa,114,1984,
+Strandholmen 16 5642 Millinge,16,378000.0,21-11-1996,Alm.,10800,2,Sommerhus,35,1970,
+Buursminde 27 5642 Millinge,27,332000.0,08-11-1996,Fam.,3816,3,Sommerhus,87,2006,
+Ahornvej 3 5642 Millinge,3,810927.0,09-10-1996,Alm.,0,7,Villa,182,1969,
+Østerbyvej 70 5642 Millinge,70,2040000.0,08-10-1996,Fam.,8326,7,Stuehus,245,1834,
+Assensvej 286 5642 Millinge,286,475000.0,27-09-1996,Alm.,5000,4,Villa,95,1676,
+Assensvej 409 5642 Millinge,409,1400000.0,24-08-1996,Alm.,7567,6,Villa,185,1900,
+Assensvej 506 5642 Millinge,506,1564000.0,09-08-1996,Alm.,10567,4,Stuehus,148,1859,
+Strandparken 10 5642 Millinge,10,871000.0,17-06-1996,Alm.,4051,6,Villa,215,1972,
+Assensvej 477 5642 Millinge,477,277000.0,31-05-1996,Alm.,5036,2,Rækkehus,55,1900,
+Kirkegyden 34 5642 Millinge,34,500000.0,28-05-1996,Fam.,4587,4,Villa,109,1940,
+Assensvej 479 5642 Millinge,479,207000.0,10-04-1996,Alm.,0,3,Rækkehus,107,1874,
+Ryttervej 2 5642 Millinge,2,508000.0,03-04-1996,Alm.,5131,3,Villa,99,1961,
+Ellegyden 5 5642 Millinge,5,610000.0,15-01-1996,Alm.,3177,4,Villa,192,1908,
+Assensvej 536 5642 Millinge,536,810000.0,22-12-1995,Fam.,5225,6,Stuehus,155,1777,
+Hornegyden 18 5642 Millinge,18,600000.0,20-12-1995,Fam.,0,8,Stuehus,236,1895,
+Strandparken 44 5642 Millinge,44,348500.0,01-11-1995,Fam.,0,4,Villa,149,1971,
+Søvænget 24 5642 Millinge,24,995000.0,24-09-1995,Alm.,6297,5,Villa,158,1964,
+Strandparken 2 5642 Millinge,2,638000.0,20-09-1995,Alm.,4691,4,Villa,136,1971,
+Buursminde 6 5642 Millinge,6,204000.0,12-07-1995,Fam.,0,5,Sommerhus,79,1963,
+Klintholmvej 26 5642 Millinge,26,330000.0,12-06-1995,Alm.,0,5,Sommerhus,81,1964,
+Assensvej 415 5642 Millinge,415,575000.0,09-06-1995,Alm.,4389,2,Villa,131,1776,
+Irisvej 5 5642 Millinge,5,290000.0,19-04-1995,Alm.,2959,4,Villa,98,1900,
+Stålbjergvænget 3 5642 Millinge,3,484240.0,14-04-1995,Alm.,3873,5,Villa,125,1973,
+Nygyde 2A 5642 Millinge,0,670000.0,10-04-1995,Alm.,6504,2,Villa,103,1900,
+Granvej 4 5642 Millinge,4,93750.0,07-04-1995,Alm.,575,9,Villa,163,1995,
+Søvænget 9 5642 Millinge,9,325000.0,07-04-1995,Fam.,4220,3,Villa,77,1938,
+Bjerghammer 23 5642 Millinge,23,229000.0,20-03-1995,Alm.,3271,4,Sommerhus,70,1996,
+Assensvej 455 5642 Millinge,455,770000.0,15-03-1995,Alm.,0,5,Villa,232,1915,
+Ahornvej 6 5642 Millinge,6,810000.0,03-02-1995,Alm.,8437,4,Villa,96,1960,
+Bjerghammer 18 5642 Millinge,18,199750.0,26-01-1995,Fam.,2377,4,Sommerhus,84,1984,
+Lindegårdsvej 23 5642 Millinge,23,620000.0,16-01-1995,Alm.,4769,4,Villa,130,1976,
+Assensvej 524 5642 Millinge,524,337889.0,24-12-1994,Fam.,1706,7,Stuehus,198,1915,
+Violstræde 15 5642 Millinge,15,320000.0,09-12-1994,Fam.,0,4,Villa,157,1930,
+Klintebakkevej 10 5642 Millinge,10,199900.0,29-11-1994,Alm.,2776,4,Sommerhus,72,1995,
+Søvænget 11 5642 Millinge,11,853000.0,17-11-1994,Alm.,3757,5,Villa,227,1968,
+Skovgyden 6 5642 Millinge,6,765000.0,15-11-1994,Alm.,4751,4,Villa,161,1904,
+Assensvej 488 5642 Millinge,488,575000.0,27-09-1994,Alm.,3993,5,Villa,144,1900,
+Lindegårdsvej 5 5642 Millinge,5,583000.0,31-08-1994,Alm.,4286,5,Villa,136,1977,
+Assensvej 311 5642 Millinge,311,775000.0,29-06-1994,Alm.,5098,5,Villa,152,1932,
+Assensvej 493 5642 Millinge,493,320000.0,28-06-1994,Alm.,4000,3,Villa,80,1959,
+Assensvej 439 5642 Millinge,439,372000.0,22-03-1994,Alm.,0,3,Villa,93,1937,
+Strandparken 82 5642 Millinge,82,1100000.0,15-03-1994,Alm.,4641,5,Villa,237,1971,
+Strandparken 11 5642 Millinge,11,544000.0,07-03-1994,Alm.,0,4,Villa,130,1966,
+Klintholmvej 4A 5642 Millinge,0,337000.0,21-02-1994,Alm.,0,2,Sommerhus,111,1983,
+Strandparken 8 5642 Millinge,8,667000.0,10-02-1994,Alm.,4168,6,Villa,160,1971,
+Birkevej 2 5642 Millinge,2,496000.0,22-01-1994,Alm.,3119,5,Villa,159,1970,
+Assensvej 525 5642 Millinge,525,207782.0,16-12-1993,Alm.,1306,5,Villa,159,1856,
+Strandholmen 56 5642 Millinge,56,393000.0,07-12-1993,Alm.,0,3,Sommerhus,60,1970,
+Granvej 14 5642 Millinge,14,2930000.0,09-11-1993,Alm.,0,8,Villa,203,1988,
+Strandparken 58 5642 Millinge,58,730000.0,29-10-1993,Alm.,4147,4,Villa,176,1970,
+Assensvej 531 5642 Millinge,531,630000.0,29-10-1993,Fam.,4012,9,Stuehus,157,1910,
+Klintebakkevej 1 5642 Millinge,1,67000.0,01-10-1993,Fam.,0,4,Sommerhus,99,1993,
+Ahornvej 2 5642 Millinge,2,425000.0,24-09-1993,Alm.,9239,3,Sommerhus,46,1962,
+Assensvej 321 5642 Millinge,321,295000.0,17-09-1993,Alm.,2169,6,Villa,136,1842,
+Ahornvej 9 5642 Millinge,9,650000.0,14-09-1993,Alm.,4220,5,Villa,154,1964,
+Hornegyden 14 5642 Millinge,14,1054000.0,07-09-1993,Fam.,4925,7,Stuehus,214,1847,
+Assensvej 440 5642 Millinge,440,275000.0,27-08-1993,Alm.,0,5,Villa,121,1961,
+Ahornvej 16 5642 Millinge,16,890000.0,26-08-1993,Alm.,5297,7,Villa,168,1964,
+Assensvej 503 5642 Millinge,503,400000.0,15-08-1993,Alm.,3361,4,Villa,119,1904,
+Nygyde 14 5642 Millinge,14,1030000.0,11-08-1993,Alm.,6094,5,Villa,169,1966,
+Bjerghammer 58 5642 Millinge,58,114499.0,17-07-1993,Fam.,1379,4,Sommerhus,83,1934,
+Irisvej 4 5642 Millinge,4,520000.0,30-06-1993,Alm.,4062,3,Villa,128,1976,
+Assensvej 226 5642 Millinge,226,525000.0,16-06-1993,Alm.,3365,6,Villa,156,1887,
+Strandholmen 24 5642 Millinge,24,300000.0,11-06-1993,Alm.,0,4,Sommerhus,97,1968,
+Strandparken 62 5642 Millinge,62,606000.0,01-06-1993,Alm.,4328,5,Villa,140,1970,
+Assensvej 467 5642 Millinge,467,375000.0,14-05-1993,Alm.,3205,4,Rækkehus,117,1800,
+Assensvej 412 5642 Millinge,412,195268.0,16-04-1993,Alm.,2169,3,Villa,90,1927,
+Bjerghammer 8 5642 Millinge,8,250000.0,29-12-1992,Fam.,0,2,Sommerhus,67,1935,
+Klintholmvej 29 5642 Millinge,29,395000.0,25-11-1992,Alm.,4388,3,Sommerhus,90,1965,
+Strandholmen 49 5642 Millinge,49,315000.0,28-09-1992,Alm.,0,4,Sommerhus,76,1984,
+Violstræde 17A 5642 Millinge,0,600000.0,27-06-1992,Alm.,2500,5,Villa,240,1995,
+Strandholmen 5 5642 Millinge,5,565000.0,26-05-1992,Alm.,2825,5,Villa,200,1911,
+Assensvej 431 5642 Millinge,431,460000.0,11-05-1992,Alm.,4259,3,Villa,108,1963,
+Assensvej 230 5642 Millinge,230,415000.0,27-03-1992,Fam.,2766,4,Villa,150,1900,
+Skovgyden 9 5642 Millinge,9,580000.0,25-03-1992,Alm.,0,8,Villa,181,1914,

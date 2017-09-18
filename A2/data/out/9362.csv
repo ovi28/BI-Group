@@ -1,0 +1,657 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Aalborgvej 315 9362 Gandrup,315,425000.0,22-03-2017,Alm.,3728,4,Villa,114,1929,-14 %
+Teglværksvej 42 9362 Gandrup,42,525000.0,28-02-2017,Alm.,3500,4,Villa,150,1900,
+Stationsvej 22 9362 Gandrup,22,655738.0,28-02-2017,Fam.,4230,5,Villa,155,1979,
+Eskedalsvej 2 9362 Gandrup,2,825000.0,22-02-2017,Alm.,7638,4,Rækkehus,108,1977,
+Skivervej 41 9362 Gandrup,41,175000.0,22-02-2017,Alm.,2272,4,Villa,77,1910,-33 %
+Nørengen 30 9362 Gandrup,30,1425000.0,20-02-2017,Alm.,8142,5,Villa,175,1928,
+Hedegårdsvej 5 9362 Gandrup,5,1245000.0,19-02-2017,Alm.,10204,4,Villa,122,1897,-4 %
+Gl Kongevej 3 9362 Gandrup,3,900000.0,06-02-2017,Alm.,4433,5,Villa,203,1970,-10 %
+Aalborgvej 307 9362 Gandrup,307,1330000.0,02-02-2017,Alm.,9708,3,Villa,137,1912,-1 %
+Hølundvej 31 9362 Gandrup,31,508803.0,31-01-2017,Alm.,2137,7,Stuehus,238,1877,
+Alleen 3 9362 Gandrup,3,595000.0,31-01-2017,Alm.,6685,3,Villa,89,1961,0 %
+Nørrevang 23 9362 Gandrup,23,612690.0,21-12-2016,Alm.,2988,6,Villa,205,1977,
+Grønnegade 13 9362 Gandrup,13,1403000.0,17-12-2016,Alm.,7971,4,Villa,176,1948,1 %
+Mellemvang 1 9362 Gandrup,1,250000.0,16-12-2016,Alm.,1851,4,Villa,135,2017,
+"Skolevænget 10, 1. TH 9362 Gandrup",0,325000.0,30-11-2016,Fam.,4166,2,Lejlighed,78,1917,
+Østervang 28 9362 Gandrup,28,800000.0,27-11-2016,Alm.,6451,4,Villa,124,1973,
+Østervang 4 9362 Gandrup,4,1300000.0,22-11-2016,Alm.,9219,5,Villa,141,1977,
+Hølundvej 92 9362 Gandrup,92,1095000.0,14-11-2016,Alm.,9605,4,Villa,114,1959,0 %
+Skolegade 2 9362 Gandrup,2,497587.0,09-11-2016,Andet,3605,5,Villa,138,1962,
+Borgergade 60 9362 Gandrup,60,685500.0,02-11-2016,Alm.,3985,7,Villa,172,1934,
+Aalborgvej 280 9362 Gandrup,280,2015000.0,13-10-2016,Alm.,10775,5,Stuehus,187,1915,-6 %
+Nygade 2 9362 Gandrup,2,500000.0,06-10-2016,Alm.,5434,6,Villa,92,1925,-28 %
+Møllevænget 14 9362 Gandrup,14,631658.0,12-09-2016,Fam.,3899,5,Villa,162,1969,
+Nørrevang 1 9362 Gandrup,1,445675.0,31-08-2016,Alm.,4204,4,Villa,106,1977,
+Nørlund 6 9362 Gandrup,6,1730000.0,15-08-2016,Alm.,15175,5,Villa,114,2011,
+Houvej 267 9362 Gandrup,267,705500.0,01-08-2016,Fam.,3834,5,Villa,184,1870,
+Borgergade 11 9362 Gandrup,11,680000.0,17-07-2016,Alm.,7391,3,Villa,92,1956,-2 %
+Houvej 273 9362 Gandrup,273,1295000.0,29-06-2016,Alm.,9250,5,Villa,140,1908,0 %
+Poul Smeds Vej 4 9362 Gandrup,4,1950000.0,24-06-2016,Andet,11746,5,Villa,166,1977,
+Sønderskovvej 272 9362 Gandrup,272,600000.0,23-06-2016,Alm.,4166,3,Villa,144,1973,-8 %
+Østervang 49 9362 Gandrup,49,1423000.0,13-06-2016,Alm.,8470,5,Villa,168,1976,10 %
+"Skolevænget 12, 1 9362 Gandrup",1,325000.0,11-05-2016,Alm.,4452,2,Lejlighed,73,1917,
+Aalborgvej 335 9362 Gandrup,335,500000.0,09-05-2016,Andet,3105,5,Villa,161,1931,
+Houvej 287 9362 Gandrup,287,850000.0,26-04-2016,Alm.,7083,5,Villa,120,1938,-3 %
+Aalborgvej 242 9362 Gandrup,242,605000.0,16-04-2016,Alm.,4201,5,Villa,144,1900,-19 %
+Holtetvej 60 9362 Gandrup,60,1600000.0,14-04-2016,Alm.,5947,5,Villa,269,1985,0 %
+Sønderskovvej 169 9362 Gandrup,169,642500.0,12-04-2016,Alm.,4759,5,Villa,135,1980,-22 %
+Kastanievej 3 9362 Gandrup,3,590000.0,25-02-2016,Andet,5462,3,Villa,108,1968,-57 %
+Øster Hassing Vej 172 9362 Gandrup,172,2555000.0,23-02-2016,Alm.,25297,3,Stuehus,101,1852,
+Føltvedvej 22 9362 Gandrup,22,1300000.0,19-02-2016,Alm.,6735,7,Villa,193,1890,-13 %
+Hølundvej 36B 9362 Gandrup,0,900000.0,05-02-2016,Alm.,7894,5,Villa,114,1980,-10 %
+"Stationsvej 9, 1 9362 Gandrup",1,2625000.0,28-01-2016,Andet,20348,4,Anden beboelse,129,1900,
+Østervang 40 9362 Gandrup,40,1225000.0,15-01-2016,Alm.,8059,5,Villa,152,1974,
+Nørrevang 3 9362 Gandrup,3,340000.0,22-12-2015,Alm.,3063,3,Villa,111,1977,
+Houvej 277 9362 Gandrup,277,225000.0,18-12-2015,Alm.,2922,3,Villa,77,1956,
+Stationsvej 10 9362 Gandrup,10,1250000.0,18-12-2015,Alm.,6313,6,Villa,198,1979,-11 %
+Houvej 281 9362 Gandrup,281,45001.0,01-12-2015,Auktion,542,4,Villa,83,1902,
+Østervang 50 9362 Gandrup,50,1025000.0,30-10-2015,Alm.,6101,3,Villa,168,1976,-6 %
+Møllevænget 15 9362 Gandrup,15,900000.0,28-09-2015,Alm.,7258,3,Villa,124,1972,-10 %
+Borgergade 49 9362 Gandrup,49,690854.0,23-09-2015,Alm.,3775,5,Villa,183,1898,-51 %
+Aalborgvej 226 9362 Gandrup,226,550000.0,20-09-2015,Alm.,3741,5,Villa,147,1910,
+Bollen 9 9362 Gandrup,9,1475000.0,15-09-2015,Alm.,10172,5,Villa,145,1989,-8 %
+Vestervang 16 9362 Gandrup,16,1325000.0,13-09-2015,Alm.,9013,6,Villa,147,1987,-8 %
+Bollen 26 9362 Gandrup,26,1440000.0,11-09-2015,Andet,8674,6,Villa,166,1976,
+Parallelvej 11 9362 Gandrup,11,1400000.0,30-08-2015,Alm.,11570,5,Villa,121,2010,-3 %
+Aalborgvej 381 9362 Gandrup,381,2200000.0,27-08-2015,Alm.,12087,5,Stuehus,182,1909,-12 %
+Grønnegade 27 9362 Gandrup,27,725000.0,26-08-2015,Alm.,6473,4,Villa,112,1969,-9 %
+Karl Johan Stræde 1 9362 Gandrup,1,1250000.0,18-07-2015,Alm.,6377,4,Stuehus,196,1870,0 %
+Aalborgvej 219 9362 Gandrup,219,126500.0,07-07-2015,Auktion,1119,6,Villa,113,1922,
+Aalborgvej 303A 9362 Gandrup,0,1200000.0,03-07-2015,Fam.,6250,8,Villa,192,1898,-33 %
+Borgergade 36 9362 Gandrup,36,500000.0,10-06-2015,Alm.,3571,6,Villa,140,1943,-17 %
+Østervang 57 9362 Gandrup,57,1133000.0,30-05-2015,Alm.,7813,5,Villa,145,1975,-9 %
+Nørlund 9B 9362 Gandrup,0,1595000.0,20-05-2015,Alm.,11902,4,Villa,134,2008,
+Teglvænget 11 9362 Gandrup,11,1000000.0,21-04-2015,Alm.,38461,4,"Transport, garage",26,1990,
+Nørrevang 5 9362 Gandrup,5,700000.0,16-03-2015,Alm.,6306,3,Villa,111,1977,-6 %
+Bollen 8 9362 Gandrup,8,765000.0,07-03-2015,Alm.,6120,3,Villa,125,1977,
+Hjortrimmenvej 26 9362 Gandrup,26,683000.0,02-03-2015,Fam.,2511,7,Stuehus,272,1928,
+Borgergade 5 9362 Gandrup,5,125000.0,02-03-2015,Alm.,686,6,Villa,182,1904,
+Gåser Engvej 9 9362 Gandrup,9,261000.0,24-02-2015,Auktion,2175,5,Villa,120,1875,
+Vestervang 12 9362 Gandrup,12,544203.0,17-02-2015,Alm.,3859,4,Villa,141,1986,
+Borgergade 76 9362 Gandrup,76,1225000.0,11-02-2015,Alm.,10123,4,Villa,121,1923,-11 %
+Grønnegade 8 9362 Gandrup,8,1550000.0,04-02-2015,Alm.,9687,6,Villa,160,1969,-9 %
+Teglværksvej 4 9362 Gandrup,4,735000.0,28-01-2015,Alm.,5742,4,Villa,128,1967,-8 %
+Hølundvej 24 9362 Gandrup,24,950000.0,14-01-2015,Alm.,6129,5,Villa,155,1984,-5 %
+Parallelvej 20 9362 Gandrup,20,210000.0,08-01-2015,Alm.,2658,3,Villa,79,1914,-15 %
+Østervang 72 9362 Gandrup,72,635000.0,19-12-2014,Alm.,3944,5,Villa,161,1976,-9 %
+Karl Johan Stræde 2 9362 Gandrup,2,653524.0,18-12-2014,Alm.,4034,5,Stuehus,162,1912,
+Gl Kongevej 52 9362 Gandrup,52,995000.0,21-11-2014,Alm.,8155,3,Villa,122,1931,0 %
+Borgergade 25 9362 Gandrup,25,1598000.0,13-11-2014,Alm.,12582,5,Villa,127,1957,0 %
+Borgergade 48 9362 Gandrup,48,750000.0,09-10-2014,Alm.,5172,4,Villa,145,1971,-6 %
+Hølundvej 14 9362 Gandrup,14,725000.0,09-10-2014,Alm.,4677,5,Villa,155,1939,-3 %
+Sønderskovvej 233 9362 Gandrup,233,1100000.0,08-10-2014,Alm.,4761,8,Stuehus,231,1750,0 %
+Vestervang 36 9362 Gandrup,36,1450000.0,30-09-2014,Alm.,10000,4,Villa,145,1990,-6 %
+Parallelvej 22 9362 Gandrup,22,600000.0,29-09-2014,Alm.,5084,5,Villa,118,1917,-14 %
+Nørengen 11 9362 Gandrup,11,115000.0,19-09-2014,Alm.,1277,2,Villa,90,1949,-58 %
+Teglværksvej 3 9362 Gandrup,3,935000.0,08-09-2014,Alm.,8500,3,Villa,110,1994,-9 %
+Aalborgvej 231 9362 Gandrup,231,1390000.0,05-09-2014,Alm.,7354,7,Villa,189,1933,-7 %
+Borgergade 81B 9362 Gandrup,0,575000.0,02-09-2014,Alm.,6609,4,Rækkehus,87,1986,-3 %
+Aalborgvej 357 9362 Gandrup,357,950000.0,26-08-2014,Alm.,10106,3,Villa,94,1954,-5 %
+Bollen 30 9362 Gandrup,30,1381875.0,04-07-2014,Alm.,9870,4,Villa,140,1996,-8 %
+Grønnegade 10 9362 Gandrup,10,1150000.0,20-06-2014,Alm.,5043,5,Villa,228,1962,-11 %
+Østervang 76 9362 Gandrup,76,1525000.0,17-06-2014,Alm.,8111,4,Villa,188,1978,-4 %
+Vestervang 42B 9362 Gandrup,0,1000000.0,06-06-2014,Alm.,8403,5,Rækkehus,119,1987,-9 %
+Gl Kongevej 29 9362 Gandrup,29,700000.0,03-06-2014,Alm.,3608,5,Stuehus,194,1939,
+Skivervej 69 9362 Gandrup,69,5838890.0,30-05-2014,Alm.,48657,4,Stuehus,120,1877,-3 %
+Aalborgvej 380 9362 Gandrup,380,645000.0,28-05-2014,Alm.,7010,3,Villa,92,1927,-4 %
+Stationsvej 29 9362 Gandrup,29,364000.0,20-05-2014,Auktion,2104,5,Villa,173,1927,-54 %
+Grønnegade 7 9362 Gandrup,7,750000.0,18-05-2014,Andet,7812,3,Villa,96,1964,
+Gl Kongevej 49 9362 Gandrup,49,410000.0,06-05-2014,Alm.,4059,4,Villa,101,1966,-17 %
+Holtetvej 73 9362 Gandrup,73,1650000.0,26-04-2014,Alm.,11000,3,Stuehus,150,1972,-13 %
+Karl Johan Stræde 10 9362 Gandrup,10,492700.0,06-04-2014,Fam.,4399,1,Villa,112,1900,
+Kløvermarken 4 9362 Gandrup,4,1175000.0,04-04-2014,Alm.,6752,6,Villa,174,1964,-2 %
+Parallelvej 10A 9362 Gandrup,0,1100000.0,25-03-2014,Alm.,9909,4,Rækkehus,111,2007,-21 %
+Gl Kongevej 35 9362 Gandrup,35,3150000.0,17-03-2014,Alm.,11977,6,Villa,263,2006,-4 %
+Sønderskovvej 174 9362 Gandrup,174,150000.0,12-03-2014,Alm.,666,5,Stuehus,225,1933,
+Aalborgvej 305 9362 Gandrup,305,538333.0,11-02-2014,Alm.,6565,2,Villa,82,1901,
+Gl Kongevej 28 9362 Gandrup,28,900000.0,07-02-2014,Alm.,7758,4,Villa,116,1897,
+Borgergade 44 9362 Gandrup,44,700000.0,29-01-2014,Alm.,3333,6,Villa,210,1950,-12 %
+Øster Hassing Vej 169 9362 Gandrup,169,210000.0,09-01-2014,Alm.,1428,3,Stuehus,147,1942,
+Nordkær 4 9362 Gandrup,4,1030450.0,18-12-2013,Alm.,4171,6,Villa,247,1963,-53 %
+Østervang 37 9362 Gandrup,37,1445000.0,20-11-2013,Alm.,11115,4,Villa,130,1978,-3 %
+Gl Kongevej 40 9362 Gandrup,40,899000.0,31-10-2013,Alm.,7491,4,Villa,120,1897,0 %
+Borgergade 55 9362 Gandrup,55,310000.0,22-10-2013,Alm.,3522,5,Villa,88,1897,-22 %
+Alleen 13 9362 Gandrup,13,500000.0,17-10-2013,Alm.,4587,4,Villa,109,1935,-16 %
+Borgergade 19 9362 Gandrup,19,1510000.0,08-10-2013,Alm.,7224,8,Villa,209,1953,-5 %
+Houvej 363 9362 Gandrup,363,1750000.0,25-09-2013,Alm.,10802,4,Villa,162,1877,-3 %
+Hølundvej 34 9362 Gandrup,34,275000.0,16-09-2013,Alm.,2925,3,Villa,94,1877,-8 %
+Borgergade 41 9362 Gandrup,41,600000.0,03-09-2013,Alm.,6896,6,Villa,87,1957,
+Egetved 18 9362 Gandrup,18,810000.0,25-08-2013,Alm.,4285,5,Villa,189,1890,-13 %
+Råbhuivej 27 9362 Gandrup,27,10795000.0,09-08-2013,Fam.,59972,6,Stuehus,180,1947,
+Holtetvej 46 9362 Gandrup,46,1200000.0,31-07-2013,Alm.,13636,3,Stuehus,88,1927,
+Borgergade 23 9362 Gandrup,23,825000.0,29-07-2013,Alm.,4796,6,Villa,172,1967,-17 %
+Bollen 28 9362 Gandrup,28,445000.0,26-06-2013,Andet,3560,4,Villa,125,1977,
+Skolevænget 2 9362 Gandrup,2,620000.0,13-06-2013,Fam.,7560,3,Rækkehus,82,1984,
+Østervang 66 9362 Gandrup,66,1050000.0,13-06-2013,Alm.,8203,4,Villa,128,1976,-12 %
+Hølundvej 52 9362 Gandrup,52,450000.0,05-06-2013,Alm.,4054,3,Villa,111,1880,
+Nørengen 14 9362 Gandrup,14,1225000.0,02-05-2013,Alm.,10040,4,Villa,122,1900,
+Møllevænget 7 9362 Gandrup,7,835000.0,29-04-2013,Alm.,5964,5,Villa,140,1973,-16 %
+Sønderskovvej 273 9362 Gandrup,273,850000.0,23-04-2013,Alm.,6488,5,Villa,131,1955,
+Vestervang 9 9362 Gandrup,9,1395000.0,14-04-2013,Alm.,9362,5,Villa,149,1987,-10 %
+Hølundvej 17 9362 Gandrup,17,2210000.0,02-04-2013,Auktion,8007,3,Stuehus,276,1919,
+Sønderskovvej 223 9362 Gandrup,223,455000.0,27-03-2013,Alm.,3137,4,Villa,145,1960,-8 %
+Vestervang 38 9362 Gandrup,38,1675000.0,20-03-2013,Alm.,11879,5,Villa,141,1988,
+Hølundvej 70 9362 Gandrup,70,550000.0,08-03-2013,Alm.,4198,5,Villa,131,1946,
+Hølundvej 79 9362 Gandrup,79,550000.0,08-03-2013,Alm.,3021,5,Villa,182,1902,
+Borgergade 7 9362 Gandrup,7,805000.0,11-02-2013,Alm.,3851,9,Villa,209,1898,
+Aalborgvej 316 9362 Gandrup,316,771500.0,10-01-2013,Andet,4592,4,Villa,168,1969,-58 %
+Bollen 12 9362 Gandrup,12,750000.0,08-01-2013,Alm.,6000,5,Villa,125,1977,-6 %
+Møllevænget 4 9362 Gandrup,4,975000.0,18-11-2012,Alm.,8628,4,Villa,113,1968,-11 %
+Nørlund 9A 9362 Gandrup,0,1599000.0,26-10-2012,Alm.,11932,4,Villa,134,2008,-6 %
+Kløvermarken 13 9362 Gandrup,13,716000.0,01-10-2012,Alm.,3828,5,Villa,187,1955,-10 %
+Houvej 322 9362 Gandrup,322,550000.0,03-09-2012,Alm.,3254,6,Villa,169,1962,-21 %
+Vestervang 14 9362 Gandrup,14,1235000.0,21-08-2012,Alm.,11126,4,Villa,111,1986,-5 %
+Aalborgvej 393 9362 Gandrup,393,84540.0,06-08-2012,Alm.,319,7,Stuehus,265,1911,
+Aalborgvej 186 9362 Gandrup,186,820000.0,02-08-2012,Auktion,6666,4,Villa,123,1946,-31 %
+Aalborgvej 328F 9362 Gandrup,0,300000.0,27-07-2012,Alm.,1621,7,Villa,185,2013,
+Borgergade 24 9362 Gandrup,24,800000.0,19-07-2012,Alm.,5555,4,Villa,144,1935,-11 %
+Sønderskovvej 167 9362 Gandrup,167,40000.0,06-07-2012,Alm.,163,7,Villa,244,1850,
+Nørengen 15 9362 Gandrup,15,2395000.0,28-06-2012,Alm.,11404,6,Villa,210,1930,0 %
+Holtetgårdsvej 30 9362 Gandrup,30,360000.0,28-06-2012,Alm.,1518,7,Villa,237,2014,4 %
+Houvej 260 9362 Gandrup,260,1275000.0,11-06-2012,Alm.,5519,9,Stuehus,231,1968,
+Nørrevang 31 9362 Gandrup,31,1175000.0,21-05-2012,Alm.,9251,4,Villa,127,1987,-8 %
+Aalborgvej 369 9362 Gandrup,369,1875000.0,16-05-2012,Alm.,8445,9,Villa,222,1926,
+Knorhedevej 22 9362 Gandrup,22,1745000.0,13-05-2012,Alm.,10974,5,Stuehus,159,1948,0 %
+Grønnegade 22 9362 Gandrup,22,800000.0,01-05-2012,Auktion,8421,2,Villa,95,1958,-27 %
+Skroldvej 5 9362 Gandrup,5,3740530.0,10-04-2012,Alm.,28337,5,Stuehus,132,1827,
+Stationsvej 17A 9362 Gandrup,0,2600000.0,20-03-2012,Alm.,13978,5,Villa,186,2010,-4 %
+Aalborgvej 304 9362 Gandrup,304,475000.0,15-03-2012,Alm.,1907,6,Villa,249,2015,
+Borgergade 96 9362 Gandrup,96,1300000.0,14-03-2012,Alm.,7222,5,Villa,180,1940,-13 %
+Østerhavensvej 1 9362 Gandrup,1,500000.0,05-03-2012,Alm.,6410,3,Villa,78,1958,
+Stationsvej 42 9362 Gandrup,42,775000.0,01-03-2012,Alm.,7242,3,Villa,107,1982,
+Skivervej 17 9362 Gandrup,17,1224395.0,27-02-2012,Fam.,6091,7,Stuehus,201,1900,
+Hjortrimmenvej 28 9362 Gandrup,28,1005000.0,23-02-2012,Auktion,4427,7,Villa,227,1918,
+Aalborgvej 377 9362 Gandrup,377,840000.0,14-02-2012,Auktion,4307,8,Stuehus,195,1910,
+Houvej 231 9362 Gandrup,231,875000.0,06-02-2012,Alm.,4533,4,Villa,193,1921,0 %
+Aalborgvej 327 9362 Gandrup,327,945000.0,30-01-2012,Alm.,6057,6,Villa,156,1948,
+Aalborgvej 355 9362 Gandrup,355,433192.0,17-01-2012,Fam.,2849,4,Villa,152,1955,
+Nørengen 13 9362 Gandrup,13,1600000.0,09-12-2011,Alm.,8000,7,Villa,200,1934,-8 %
+Aalborgvej 364 9362 Gandrup,364,1100000.0,28-11-2011,Alm.,8396,4,Villa,131,1922,
+Skivervej 36 9362 Gandrup,36,1300000.0,28-11-2011,Alm.,10833,3,Stuehus,120,1881,
+Aalborgvej 218 9362 Gandrup,218,490000.0,25-11-2011,Alm.,4454,5,Villa,110,1930,
+Skolegade 3 9362 Gandrup,3,675000.0,17-11-2011,Alm.,6750,3,Villa,100,1947,-3 %
+Borgergade 75B 9362 Gandrup,0,645000.0,08-11-2011,Alm.,9347,3,Rækkehus,69,1984,0 %
+Knorhedevej 24 9362 Gandrup,24,2095000.0,12-10-2011,Alm.,11574,6,Villa,181,1917,-9 %
+Abildbak 11 9362 Gandrup,11,3495000.0,11-10-2011,Alm.,13924,7,Stuehus,251,1952,0 %
+Sønderskovvej 201 9362 Gandrup,201,3800000.0,16-09-2011,Alm.,22619,5,Stuehus,168,1850,
+Houvej 294 9362 Gandrup,294,275000.0,16-08-2011,Alm.,2722,4,Villa,101,1887,-7 %
+Østervang 46 9362 Gandrup,46,939895.0,11-08-2011,Alm.,5731,4,Villa,164,1974,
+Østervang 38 9362 Gandrup,38,1620000.0,04-08-2011,Alm.,8307,8,Villa,195,1973,
+Holtetgårdsvej 20 9362 Gandrup,20,443125.0,01-08-2011,Alm.,4387,4,Stuehus,101,1925,
+Houvej 332 9362 Gandrup,332,630000.0,13-07-2011,Andet,2930,5,Villa,215,1900,-74 %
+Borgergade 101 9362 Gandrup,101,600000.0,12-07-2011,Alm.,3108,5,Villa,193,1910,-14 %
+Aalborgvej 333 9362 Gandrup,333,675000.0,11-07-2011,Alm.,5818,5,Villa,116,1928,-7 %
+Møllevænget 3 9362 Gandrup,3,1275000.0,11-07-2011,Alm.,8279,4,Villa,154,1973,-2 %
+Skivervej 75 9362 Gandrup,75,3000000.0,24-06-2011,Alm.,16216,3,Villa,185,1998,-14 %
+Hølundvej 36A 9362 Gandrup,0,670000.0,24-06-2011,Fam.,4135,5,Stuehus,162,1904,
+Nørlund 7A 9362 Gandrup,0,1600000.0,05-06-2011,Alm.,11940,5,Rækkehus,134,2008,-3 %
+Gl Kongevej 23 9362 Gandrup,23,1925000.0,05-06-2011,Alm.,14583,2,Villa,132,2001,-4 %
+Aalborgvej 372 9362 Gandrup,372,110000.0,31-05-2011,Alm.,1195,4,Villa,92,1939,
+Nørlund 4 9362 Gandrup,4,1545000.0,29-05-2011,Alm.,12768,5,Villa,121,2011,0 %
+Bollen 7 9362 Gandrup,7,537500.0,25-05-2011,Fam.,3559,5,Villa,151,1977,-58 %
+Stationsvej 33 9362 Gandrup,33,995000.0,08-04-2011,Alm.,10050,3,Rækkehus,99,1987,0 %
+Borgergade 103 9362 Gandrup,103,250000.0,29-03-2011,Alm.,2314,3,Villa,108,1930,
+Aalborgvej 340 9362 Gandrup,340,750000.0,28-03-2011,Alm.,6756,3,Villa,111,1935,-6 %
+Borgergade 93 9362 Gandrup,93,1070000.0,07-03-2011,Auktion,3578,7,Villa,299,1903,-35 %
+Vandværksvej 4 9362 Gandrup,4,505000.0,03-01-2011,Fam.,6644,3,Rækkehus,76,1982,
+Vandværksvej 2 9362 Gandrup,2,488700.0,03-01-2011,Fam.,6604,3,Rækkehus,74,1982,
+Østervang 39 9362 Gandrup,39,1062500.0,30-12-2010,Alm.,8236,4,Villa,129,1979,-11 %
+Borgergade 81A 9362 Gandrup,0,585000.0,20-12-2010,Alm.,8478,3,Rækkehus,69,1985,-16 %
+Vestervang 18A 9362 Gandrup,0,900000.0,01-11-2010,Alm.,10344,3,Rækkehus,87,1989,-8 %
+Føltvedvej 12 9362 Gandrup,12,2582696.0,13-10-2010,Alm.,6253,15,Villa,413,1902,-4 %
+Hedegårdsvej 31 9362 Gandrup,31,2672872.0,22-09-2010,Fam.,12039,7,Stuehus,222,1968,
+Grønnegade 14 9362 Gandrup,14,477013.0,20-09-2010,Alm.,3359,4,Villa,142,1959,
+Østervang 56 9362 Gandrup,56,995000.0,16-09-2010,Alm.,8291,3,Villa,120,1976,-9 %
+Borgergade 77A 9362 Gandrup,0,375000.0,09-09-2010,Alm.,4310,4,Rækkehus,87,1986,
+Skivervej 70 9362 Gandrup,70,650000.0,24-08-2010,Alm.,6632,5,Stuehus,98,1908,
+Aalborgvej 330A 9362 Gandrup,0,1150000.0,22-08-2010,Alm.,9504,4,Villa,121,1994,-4 %
+Gl Kongevej 16 9362 Gandrup,16,850000.0,16-08-2010,Alm.,5246,7,Villa,162,1900,-14 %
+Borgergade 22 9362 Gandrup,22,825000.0,03-08-2010,Alm.,6818,3,Villa,121,1952,-8 %
+Aalborgvej 320 9362 Gandrup,320,715000.0,06-07-2010,Alm.,4156,3,Villa,172,1958,-15 %
+Parallelvej 25 9362 Gandrup,25,725000.0,28-06-2010,Alm.,9062,2,Villa,80,1957,-12 %
+Gl Kongevej 44 9362 Gandrup,44,1425000.0,10-06-2010,Alm.,8482,6,Villa,168,1968,-5 %
+Nørrevang 4 9362 Gandrup,4,1095000.0,08-06-2010,Alm.,9864,3,Villa,111,1979,0 %
+Vestervang 56 9362 Gandrup,56,1095000.0,31-05-2010,Alm.,10428,3,Rækkehus,105,1986,-4 %
+Hølundvej 76 9362 Gandrup,76,200000.0,28-05-2010,Auktion,1980,4,Villa,101,1925,
+Vestervang 42A 9362 Gandrup,0,1140000.0,18-05-2010,Alm.,9579,4,Rækkehus,119,1987,-3 %
+Aalborgvej 385 9362 Gandrup,385,650000.0,10-05-2010,Alm.,8024,5,Villa,81,1900,
+Østerhavensvej 3 9362 Gandrup,3,1925000.0,09-05-2010,Alm.,11666,4,Villa,165,1975,-4 %
+Grønnegade 28 9362 Gandrup,28,1150000.0,29-04-2010,Alm.,9055,4,Villa,127,1967,-6 %
+Vester Hedensvej 15 9362 Gandrup,15,221210.0,22-04-2010,Alm.,1182,8,Villa,187,1934,
+Borgergade 2A 9362 Gandrup,0,420000.0,22-04-2010,Alm.,2153,6,Villa,195,2012,
+Hølundvej 45 9362 Gandrup,45,1180000.0,05-03-2010,Alm.,5388,6,Villa,219,1900,-5 %
+Hølundvej 54 9362 Gandrup,54,342837.0,01-03-2010,Andet,2577,2,Villa,133,1916,
+Parallelvej 13 9362 Gandrup,13,1495000.0,11-02-2010,Alm.,12355,5,Villa,121,2010,0 %
+Parallelvej 17 9362 Gandrup,17,725000.0,04-02-2010,Alm.,5141,6,Stuehus,141,1930,-65 %
+Nørlund 7B 9362 Gandrup,0,863286.0,24-01-2010,Alm.,6442,5,Rækkehus,134,2008,
+Sønderskovvej 232 9362 Gandrup,232,733274.0,12-01-2010,Andet,3508,7,Villa,209,1920,
+Houvej 292 9362 Gandrup,292,745000.0,21-12-2009,Alm.,5068,4,Villa,147,1908,-6 %
+Aalborgvej 217 9362 Gandrup,217,475000.0,29-11-2009,Alm.,3209,6,Villa,148,1903,-17 %
+Aalborgvej 300 9362 Gandrup,300,550000.0,25-11-2009,Alm.,6470,3,Villa,85,1890,0 %
+Stationsvej 27 9362 Gandrup,27,550000.0,23-10-2009,Alm.,7638,3,Villa,72,1923,
+Gåser Engvej 8 9362 Gandrup,8,635000.0,20-10-2009,Alm.,5247,4,Villa,121,1971,-6 %
+"Skolevænget 10, ST 9362 Gandrup",0,280000.0,15-10-2009,Alm.,4375,2,Lejlighed,64,1917,-5 %
+Vestervang 2B 9362 Gandrup,0,900000.0,13-10-2009,Alm.,8571,3,Rækkehus,105,1986,-8 %
+Parallelvej 15 9362 Gandrup,15,1395000.0,11-10-2009,Alm.,11528,5,Villa,121,2010,
+Eskedalsvej 8 9362 Gandrup,8,575000.0,06-10-2009,Alm.,5324,4,Rækkehus,108,1977,-11 %
+Stationsvej 2 9362 Gandrup,2,1150000.0,06-10-2009,Alm.,7371,4,Villa,156,1973,-13 %
+Hølundvej 8 9362 Gandrup,8,1145000.0,30-09-2009,Alm.,7067,4,Villa,162,1933,0 %
+Østervang 24 9362 Gandrup,24,1221278.0,26-08-2009,Alm.,9467,5,Villa,129,1977,
+Aalborgvej 387 9362 Gandrup,387,20200000.0,21-08-2009,Alm.,64743,9,Stuehus,312,1959,
+Gl Kongevej 54 9362 Gandrup,54,265000.0,12-08-2009,Alm.,2324,3,Villa,114,1875,
+Østervang 8 9362 Gandrup,8,1593000.0,31-07-2009,Alm.,7622,7,Villa,209,1973,
+Borgergade 33 9362 Gandrup,33,200000.0,30-06-2009,Alm.,1092,5,Villa,183,1935,
+Østervang 14 9362 Gandrup,14,1045000.0,05-06-2009,Alm.,9500,4,Villa,110,1976,-7 %
+"Borgergade 72, 1 9362 Gandrup",1,725000.0,02-06-2009,Alm.,10820,3,Lejlighed,67,1920,
+Borgergade 50 9362 Gandrup,50,775000.0,27-05-2009,Alm.,5000,4,Villa,155,1964,1 %
+Houvej 289 9362 Gandrup,289,850000.0,23-05-2009,Alm.,3899,6,Villa,218,1900,-5 %
+Vester Hedensvej 30 9362 Gandrup,30,595000.0,27-04-2009,Alm.,4958,4,Villa,120,1952,0 %
+Gl Kongevej 41 9362 Gandrup,41,995000.0,19-03-2009,Alm.,8291,4,Villa,120,1969,0 %
+Stationsvej 26 9362 Gandrup,26,1230000.0,08-03-2009,Alm.,10165,4,Villa,121,1979,-11 %
+Eskedalsvej 6 9362 Gandrup,6,550000.0,03-03-2009,Alm.,5092,4,Rækkehus,108,1977,-15 %
+Borgergade 90 9362 Gandrup,90,2000000.0,27-02-2009,Alm.,0,6,Villa,168,1932,
+Borgergade 12 9362 Gandrup,12,930000.0,20-02-2009,Alm.,7948,4,Villa,117,1966,-4 %
+Aalborgvej 366B 9362 Gandrup,0,775000.0,17-02-2009,Alm.,7380,3,Rækkehus,105,1986,0 %
+Aalborgvej 344C 9362 Gandrup,0,1095000.0,09-02-2009,Alm.,8830,4,Villa,124,1973,0 %
+Holtetvej 54 9362 Gandrup,54,1975000.0,20-01-2009,Alm.,18119,5,Stuehus,109,1927,
+Borgergade 21 9362 Gandrup,21,1150000.0,19-01-2009,Alm.,6764,5,Villa,170,1962,-11 %
+Aalborgvej 256 9362 Gandrup,256,3500000.0,07-01-2009,Alm.,22151,5,Stuehus,158,1937,
+Houvej 241 9362 Gandrup,241,1400000.0,18-12-2008,Alm.,0,8,Stuehus,188,1927,-3 %
+Sønderskovvej 261 9362 Gandrup,261,495000.0,08-12-2008,Alm.,4759,3,Villa,104,1961,-17 %
+Borgergade 28 9362 Gandrup,28,1300000.0,24-11-2008,Alm.,10833,4,Villa,120,1930,
+Nordkær 5 9362 Gandrup,5,1995000.0,16-10-2008,Alm.,7762,8,Villa,257,1926,-5 %
+Borgergade 2 9362 Gandrup,2,565000.0,08-09-2008,Alm.,4631,5,Villa,122,1906,
+Sønderskovvej 200 9362 Gandrup,200,2400000.0,21-08-2008,Alm.,14117,4,Stuehus,170,1905,
+Nørrevang 15 9362 Gandrup,15,975000.0,21-08-2008,Alm.,9198,4,Villa,106,1977,0 %
+Aalborgvej 234 9362 Gandrup,234,500000.0,21-07-2008,Alm.,6756,2,Villa,74,1938,-8 %
+Østervang 26 9362 Gandrup,26,1575000.0,18-07-2008,Alm.,11170,5,Villa,141,1974,0 %
+Holtetvej 19 9362 Gandrup,19,545000.0,23-06-2008,Alm.,6264,4,Villa,87,1900,0 %
+Grønnegade 29 9362 Gandrup,29,600000.0,06-06-2008,Fam.,6122,3,Villa,98,1965,
+Østerhavensvej 30 9362 Gandrup,30,32600000.0,03-06-2008,Alm.,90555,10,Stuehus,360,1930,
+Østervang 59 9362 Gandrup,59,1550000.0,02-06-2008,Alm.,10264,6,Villa,151,1973,-3 %
+Hølundvej 21 9362 Gandrup,21,175000.0,27-05-2008,Alm.,2692,3,Villa,65,1956,
+Parallelvej 10B 9362 Gandrup,0,1495000.0,24-05-2008,Alm.,13468,4,Rækkehus,111,2007,0 %
+Vestervang 54 9362 Gandrup,54,1095000.0,18-05-2008,Alm.,10428,3,Rækkehus,105,1986,0 %
+Holtetvej 13 9362 Gandrup,13,1450000.0,16-05-2008,Alm.,12083,5,Villa,120,1964,
+Vestervang 1 9362 Gandrup,1,1375000.0,14-05-2008,Alm.,9821,4,Villa,140,1987,-4 %
+Gl Kongevej 9 9362 Gandrup,9,1100000.0,29-04-2008,Alm.,11000,4,Villa,100,1956,
+Gl Kongevej 19 9362 Gandrup,19,1225000.0,29-04-2008,Alm.,10294,4,Villa,119,1969,
+Nørengen 12 9362 Gandrup,12,775000.0,25-04-2008,Alm.,8423,5,Villa,92,1965,-8 %
+Borgergade 83 9362 Gandrup,83,250000.0,21-04-2008,Alm.,5952,2,Lejlighed,42,1897,
+Sønderskovvej 199 9362 Gandrup,199,175000.0,17-04-2008,Andet,1121,3,Villa,156,1906,
+Sønderskovvej 275 9362 Gandrup,275,1330000.0,10-04-2008,Alm.,7643,6,Villa,174,1957,-5 %
+Gl Kongevej 33 9362 Gandrup,33,1495000.0,04-04-2008,Alm.,6921,5,Villa,216,1971,-6 %
+Houvej 282 9362 Gandrup,282,250000.0,02-04-2008,Alm.,1623,6,Villa,154,1909,0 %
+Hjortrimmenvej 14 9362 Gandrup,14,1200000.0,02-04-2008,Alm.,11881,5,Stuehus,101,1914,-4 %
+Parallelvej 23 9362 Gandrup,23,1460000.0,31-03-2008,Alm.,8902,7,Villa,164,1900,
+Vestervang 50 9362 Gandrup,50,1675000.0,25-03-2008,Alm.,10403,6,Villa,161,1990,0 %
+Skroldvej 12 9362 Gandrup,12,3600000.0,26-02-2008,Alm.,13333,8,Stuehus,270,1890,
+Stationsvej 32 9362 Gandrup,32,1395000.0,24-02-2008,Alm.,9489,5,Villa,147,1979,0 %
+Karl Johan Stræde 5 9362 Gandrup,5,400000.0,12-02-2008,Alm.,5333,2,Villa,75,1926,
+Østervang 61 9362 Gandrup,61,1750000.0,18-01-2008,Alm.,9887,5,Villa,177,1980,-7 %
+Kløvermarken 7 9362 Gandrup,7,930000.0,12-12-2007,Alm.,9587,2,Villa,97,1963,
+Borgergade 94 9362 Gandrup,94,307500.0,24-11-2007,Alm.,4100,3,Rækkehus,75,1982,
+Hølundvej 19 9362 Gandrup,19,820000.0,21-11-2007,Alm.,5540,6,Villa,148,1958,-8 %
+Sønderskovvej 207 9362 Gandrup,207,637000.0,14-11-2007,Andet,3480,10,Villa,183,1877,
+Kastanievej 1 9362 Gandrup,1,670000.0,30-10-2007,Alm.,6036,3,Villa,111,1967,-8 %
+Gl Kongevej 53 9362 Gandrup,53,1680000.0,24-10-2007,Alm.,9385,3,Villa,179,1717,
+Møllevænget 13 9362 Gandrup,13,1350000.0,16-10-2007,Alm.,8385,5,Villa,161,1972,
+Vestervang 3 9362 Gandrup,3,1575000.0,09-10-2007,Alm.,11330,5,Villa,139,1986,
+Nørlund 3 9362 Gandrup,3,143000.0,25-09-2007,Alm.,662,6,Villa,216,2010,
+Houvej 291 9362 Gandrup,291,1250000.0,19-09-2007,Alm.,6313,5,Villa,198,1902,
+Aalborgvej 352 9362 Gandrup,352,500000.0,18-09-2007,Alm.,5050,3,Villa,99,1900,
+Borgergade 8 9362 Gandrup,8,700000.0,14-09-2007,Alm.,6422,4,Villa,109,1962,-10 %
+Hølundvej 40 9362 Gandrup,40,2150000.0,12-09-2007,Alm.,0,8,Stuehus,219,1998,
+Holtetvej 68 9362 Gandrup,68,2900000.0,02-09-2007,Fam.,18471,5,Stuehus,157,1847,
+Houvej 271 9362 Gandrup,271,375000.0,31-08-2007,Alm.,3947,4,Villa,95,1950,
+Nørlund 2 9362 Gandrup,2,186200.0,23-08-2007,Alm.,931,5,Villa,200,2009,
+Borgergade 34 9362 Gandrup,34,995000.0,21-08-2007,Alm.,8883,4,Villa,112,1973,
+"Skolevænget 12, ST 9362 Gandrup",0,325000.0,23-07-2007,Alm.,5803,2,Lejlighed,56,1917,0 %
+Nørrevang 17 9362 Gandrup,17,950000.0,12-07-2007,Alm.,7723,4,Villa,123,1977,-9 %
+Parallelvej 12A 9362 Gandrup,0,1355000.0,11-07-2007,Alm.,12207,4,Rækkehus,111,2007,0 %
+Houvej 286 9362 Gandrup,286,965000.0,06-07-2007,Alm.,6701,5,Villa,144,1907,
+Vandværksvej 1 9362 Gandrup,1,740000.0,02-07-2007,Fam.,8222,3,Villa,90,1982,
+Kløvermarken 8 9362 Gandrup,8,795000.0,27-06-2007,Alm.,7227,2,Villa,110,1953,0 %
+Bollen 22 9362 Gandrup,22,1075000.0,18-06-2007,Alm.,6718,6,Villa,160,1977,-9 %
+Houvej 329 9362 Gandrup,329,1245000.0,08-06-2007,Alm.,4446,6,Villa,280,1971,0 %
+Vestervang 4 9362 Gandrup,4,1100000.0,30-05-2007,Alm.,9166,4,Villa,120,1988,-4 %
+Østervang 54 9362 Gandrup,54,1200000.0,29-05-2007,Alm.,7500,5,Villa,160,1975,2 %
+Grønnegade 36 9362 Gandrup,36,1500000.0,14-05-2007,Fam.,7462,7,Villa,201,1973,
+Holtetvej 72 9362 Gandrup,72,600000.0,13-05-2007,Alm.,2316,9,Villa,259,2009,
+Hølundvej 33 9362 Gandrup,33,275000.0,09-05-2007,Alm.,1785,3,Villa,154,1908,
+Parallelvej 12B 9362 Gandrup,0,1345000.0,06-05-2007,Alm.,12117,4,Rækkehus,111,2007,0 %
+Østervang 44 9362 Gandrup,44,3250000.0,01-05-2007,Alm.,16250,6,Stuehus,200,1918,
+Skivervej 49 9362 Gandrup,49,1030000.0,19-04-2007,Alm.,3705,7,Villa,278,1929,-6 %
+Holtetvej 1 9362 Gandrup,1,600000.0,19-02-2007,Alm.,6122,3,Villa,98,1957,-14 %
+Østervang 33 9362 Gandrup,33,1050000.0,13-02-2007,Alm.,6862,4,Villa,153,1977,-4 %
+Skivervej 71 9362 Gandrup,71,2100000.0,03-02-2007,Alm.,8235,10,Villa,255,1933,-16 %
+Hølundvej 18 9362 Gandrup,18,475000.0,02-02-2007,Alm.,3769,3,Villa,126,1939,-13 %
+Borgergade 20 9362 Gandrup,20,275000.0,31-01-2007,Alm.,11458,1,Villa,24,1958,
+Holtetvej 67 9362 Gandrup,67,1405000.0,10-01-2007,Alm.,5878,5,Stuehus,239,1907,1 %
+Nørengen 34 9362 Gandrup,34,595000.0,21-11-2006,Fam.,3419,7,Stuehus,174,1914,
+Holtetvej 62 9362 Gandrup,62,650000.0,16-10-2006,Alm.,5462,5,Stuehus,119,1940,
+Hølundvej 2 9362 Gandrup,2,550000.0,06-10-2006,Alm.,3666,4,Villa,150,1913,
+Nygade 3 9362 Gandrup,3,825000.0,19-09-2006,Alm.,5978,4,Villa,138,1930,
+Borgergade 77B 9362 Gandrup,0,650000.0,07-09-2006,Alm.,7471,4,Rækkehus,87,1986,
+Grønnegade 31 9362 Gandrup,31,575000.0,31-08-2006,Alm.,4752,3,Villa,121,1960,
+Gl Kongevej 14 9362 Gandrup,14,350000.0,16-08-2006,Andet,3500,4,Villa,100,1887,
+Nygade 4 9362 Gandrup,4,995000.0,09-08-2006,Alm.,6218,6,Villa,160,1912,
+Houvej 256 9362 Gandrup,256,335000.0,04-08-2006,Alm.,4350,3,Villa,77,1914,
+Eskedalsvej 4 9362 Gandrup,4,675000.0,30-07-2006,Alm.,6250,4,Rækkehus,108,1977,
+"Borgergade 78, 1 9362 Gandrup",1,625000.0,25-07-2006,Alm.,5341,6,Villa,117,1920,
+Hølundvej 60 9362 Gandrup,60,595000.0,21-07-2006,Fam.,3814,5,Stuehus,156,1916,
+Borgergade 74 9362 Gandrup,74,428500.0,21-07-2006,Fam.,2800,4,Villa,153,1947,
+Aalborgvej 224 9362 Gandrup,224,680000.0,17-07-2006,Alm.,3777,6,Villa,180,1952,
+Nørengen 25 9362 Gandrup,25,725000.0,17-07-2006,Alm.,7397,2,Stuehus,98,1927,
+Gl Kongevej 22 9362 Gandrup,22,680000.0,06-07-2006,Fam.,5271,4,Villa,129,1880,
+Hedegårdsvej 18 9362 Gandrup,18,995000.0,27-06-2006,Alm.,8089,4,Villa,123,1925,
+Poststien 1 9362 Gandrup,1,1295000.0,26-06-2006,Alm.,0,9,Villa,331,1972,
+Hølundvej 23 9362 Gandrup,23,1115000.0,29-05-2006,Alm.,6882,5,Villa,162,1946,
+"Aalborgvej 353, ST. TH 9362 Gandrup",0,1400000.0,02-05-2006,Alm.,13333,5,Villa,105,1962,
+Grønnegade 25 9362 Gandrup,25,925000.0,21-04-2006,Alm.,7708,4,Villa,120,1964,
+Hedegårdsvej 8 9362 Gandrup,8,1395000.0,30-03-2006,Alm.,11625,4,Villa,120,1889,
+Borgergade 52 9362 Gandrup,52,935000.0,23-03-2006,Alm.,7601,3,Villa,123,1965,
+Hølundvej 72 9362 Gandrup,72,500000.0,22-03-2006,Alm.,3355,6,Villa,149,1908,
+Grønnegade 15 9362 Gandrup,15,775000.0,20-03-2006,Alm.,7524,3,Villa,103,1955,
+Nørrevang 27 9362 Gandrup,27,600000.0,20-03-2006,Andet,3726,5,Villa,161,1986,
+Poul Smeds Vej 7 9362 Gandrup,7,1495000.0,13-03-2006,Alm.,9966,4,Villa,150,1986,
+Hølundvej 32 9362 Gandrup,32,481500.0,06-03-2006,Alm.,3009,5,Villa,160,1950,
+Søndervang 2 9362 Gandrup,2,685000.0,16-02-2006,Alm.,0,5,Villa,146,1962,
+Stationsvej 30 9362 Gandrup,30,985000.0,08-02-2006,Alm.,7755,4,Villa,127,1980,
+Gl Kongevej 51 9362 Gandrup,51,1225000.0,06-02-2006,Alm.,9496,4,Villa,129,1968,
+Aalborgvej 342 9362 Gandrup,342,810000.0,25-01-2006,Alm.,4285,6,Villa,189,1920,
+Borgergade 92 9362 Gandrup,92,600000.0,24-01-2006,Alm.,8000,3,Rækkehus,75,1982,
+Stationsvej 44 9362 Gandrup,44,421344.0,06-01-2006,Alm.,2025,6,Villa,208,1907,
+Houvej 279 9362 Gandrup,279,575000.0,05-12-2005,Alm.,4356,4,Villa,132,1957,
+Hølundvej 57 9362 Gandrup,57,825000.0,03-12-2005,Alm.,6111,5,Stuehus,135,1897,
+Hølundvej 4 9362 Gandrup,4,950000.0,25-11-2005,Alm.,7600,4,Villa,125,1930,
+Råbhuivej 19 9362 Gandrup,19,1835000.0,09-11-2005,Alm.,8303,6,Villa,221,1879,
+Gl Kongevej 42 9362 Gandrup,42,1245000.0,04-11-2005,Alm.,6043,7,Villa,206,1970,
+Hjortrimmenvej 16 9362 Gandrup,16,600685.0,26-10-2005,Alm.,0,4,Villa,149,1929,
+Borgergade 87 9362 Gandrup,87,420000.0,24-10-2005,Alm.,7368,3,Lejlighed,57,1897,
+Borgergade 47 9362 Gandrup,47,895000.0,19-10-2005,Alm.,6088,5,Villa,147,1902,
+Stationsvej 11 9362 Gandrup,11,525000.0,19-10-2005,Auktion,4687,4,Villa,112,1936,
+Gl Kongevej 38 9362 Gandrup,38,595000.0,06-10-2005,Alm.,6010,2,Villa,99,1877,
+Hølundvej 3 9362 Gandrup,3,425000.0,29-09-2005,Alm.,0,6,Villa,137,1910,
+Sønderskovvej 196 9362 Gandrup,196,1090000.0,21-09-2005,Alm.,8515,5,Villa,128,1953,
+Aalborgvej 238 9362 Gandrup,238,333000.0,15-09-2005,Alm.,1585,7,Villa,210,2008,
+Skroldvej 7 9362 Gandrup,7,1500000.0,13-09-2005,Fam.,8064,5,Stuehus,186,2006,
+Eskedalsvej 12 9362 Gandrup,12,715000.0,05-09-2005,Alm.,6620,4,Rækkehus,108,1977,
+Borgergade 30 9362 Gandrup,30,285000.0,02-09-2005,Fam.,2192,4,Villa,130,1932,
+Holtetgårdsvej 9 9362 Gandrup,9,100000.0,01-09-2005,Alm.,381,6,Stuehus,262,1924,
+Borgergade 32 9362 Gandrup,32,495000.0,17-08-2005,Alm.,4125,4,Villa,120,1937,
+Parallelvej 16 9362 Gandrup,16,425000.0,01-08-2005,Andet,4885,3,Villa,87,1948,
+Hedegårdsvej 16 9362 Gandrup,16,150000.0,17-07-2005,Fam.,434,10,Stuehus,345,1883,
+Østervang 16 9362 Gandrup,16,1020000.0,15-07-2005,Alm.,7034,5,Villa,145,1973,
+Sønderskovvej 246 9362 Gandrup,246,1655000.0,06-07-2005,Alm.,9566,5,Stuehus,173,1939,
+Houvej 312 9362 Gandrup,312,690000.0,30-06-2005,Alm.,4539,8,Villa,152,1927,
+Østervang 78 9362 Gandrup,78,800000.0,30-06-2005,Alm.,6201,4,Villa,129,1977,
+Karl Johan Stræde 4 9362 Gandrup,4,705000.0,13-06-2005,Alm.,4519,4,Villa,156,1923,
+Sønderskovvej 250 9362 Gandrup,250,795000.0,10-06-2005,Alm.,5678,5,Villa,140,1953,
+Gl Kongevej 26 9362 Gandrup,26,1175000.0,06-06-2005,Fam.,6025,5,Villa,195,1898,
+Aalborgvej 362 9362 Gandrup,362,975000.0,21-05-2005,Alm.,6093,4,Villa,160,1900,
+Aalborgvej 336 9362 Gandrup,336,495000.0,19-05-2005,Alm.,3300,5,Villa,150,1926,
+Vestervang 26 9362 Gandrup,26,1285000.0,04-05-2005,Alm.,9884,5,Villa,130,1997,
+Stationsvej 25 9362 Gandrup,25,1295000.0,18-04-2005,Alm.,7442,6,Villa,174,1926,
+Søndervang 1 9362 Gandrup,1,237500.0,14-04-2005,Fam.,3084,3,Villa,77,1880,
+Grønnegade 33 9362 Gandrup,33,850000.0,06-04-2005,Alm.,5743,6,Villa,148,1977,
+Skivervej 42 9362 Gandrup,42,550000.0,15-03-2005,Alm.,6395,2,Villa,86,1937,
+Østervang 5 9362 Gandrup,5,860000.0,13-03-2005,Alm.,4777,5,Villa,180,1973,
+Skolevænget 6 9362 Gandrup,6,550000.0,08-03-2005,Alm.,6707,3,Rækkehus,82,1984,
+Østervang 18 9362 Gandrup,18,1040000.0,24-02-2005,Alm.,6459,5,Villa,161,1973,
+Hjortrimmenvej 22 9362 Gandrup,22,484641.0,03-02-2005,Alm.,2173,8,Stuehus,223,1970,
+Kløvermarken 5 9362 Gandrup,5,655000.0,24-01-2005,Alm.,6550,5,Villa,100,1957,
+Aalborgvej 229 9362 Gandrup,229,520000.0,17-01-2005,Alm.,3170,5,Villa,164,1949,
+Aalborgvej 344A 9362 Gandrup,0,603500.0,21-12-2004,Fam.,3571,4,Villa,169,1922,
+Vestervang 52 9362 Gandrup,52,1275000.0,16-12-2004,Alm.,5957,6,Villa,214,1989,
+Stationsvej 13 9362 Gandrup,13,662500.0,12-12-2004,Alm.,4089,3,Villa,162,1935,
+Østervang 13 9362 Gandrup,13,1145000.0,14-10-2004,Alm.,6735,6,Villa,170,1973,
+Gl Kongevej 30 9362 Gandrup,30,1160000.0,06-10-2004,Alm.,5043,6,Villa,230,1969,
+Alleen 11 9362 Gandrup,11,645000.0,05-10-2004,Alm.,4708,6,Villa,137,1912,
+Aalborgvej 350 9362 Gandrup,350,975000.0,30-09-2004,Alm.,5477,6,Villa,178,1884,
+Kløvermarken 9 9362 Gandrup,9,560000.0,27-09-2004,Alm.,4827,4,Villa,116,1960,
+Nygade 1 9362 Gandrup,1,650000.0,13-09-2004,Alm.,4850,5,Villa,134,1900,
+Borgergade 51 9362 Gandrup,51,675000.0,14-07-2004,Alm.,4720,6,Villa,143,1900,
+Parallelvej 9 9362 Gandrup,9,510000.0,17-06-2004,Fam.,2562,6,Villa,199,1964,
+Nørrevang 14 9362 Gandrup,14,663000.0,17-06-2004,Fam.,5765,3,Villa,115,1981,
+Abildbak 22 9362 Gandrup,22,1161900.0,07-06-2004,Alm.,6246,5,Stuehus,186,1942,
+Holtetvej 16 9362 Gandrup,16,1200000.0,01-06-2004,Alm.,4225,8,Stuehus,284,1845,
+Houvej 297 9362 Gandrup,297,80000.0,21-05-2004,Alm.,416,5,Stuehus,192,1887,
+Nørlund 11 9362 Gandrup,11,179200.0,30-04-2004,Alm.,1099,6,Villa,163,2007,
+Aalborgvej 233 9362 Gandrup,233,975000.0,12-04-2004,Alm.,6770,5,Villa,144,1955,
+Kastanievej 5 9362 Gandrup,5,1395000.0,30-03-2004,Alm.,11250,4,Villa,124,1930,
+Aalborgvej 177 9362 Gandrup,177,1050000.0,16-03-2004,Alm.,0,5,Stuehus,173,1945,
+Østervang 55 9362 Gandrup,55,780000.0,28-02-2004,Alm.,6964,4,Villa,112,1978,
+Stationsvej 40 9362 Gandrup,40,1750000.0,13-02-2004,Alm.,4742,6,Villa,369,1918,
+Teglværksvej 53 9362 Gandrup,53,1350000.0,11-02-2004,Alm.,6136,8,Stuehus,220,1903,
+Hølundvej 83 9362 Gandrup,83,6587800.0,20-01-2004,Fam.,25936,6,Stuehus,254,1827,
+Borgergade 63 9362 Gandrup,63,605000.0,18-12-2003,Alm.,4448,5,Villa,136,1917,
+Houvej 248 9362 Gandrup,248,141750.0,09-12-2003,Alm.,506,5,Stuehus,280,1827,
+Stationsvej 7 9362 Gandrup,7,665000.0,01-12-2003,Alm.,4554,5,Villa,146,1900,
+Houvej 304 9362 Gandrup,304,595000.0,27-11-2003,Alm.,6685,3,Stuehus,89,1912,
+Eskedalsvej 10 9362 Gandrup,10,650000.0,27-11-2003,Alm.,6018,4,Rækkehus,108,1977,
+Holtetgårdsvej 17 9362 Gandrup,17,630000.0,25-11-2003,Alm.,3620,5,Stuehus,174,1927,
+Skivervej 30 9362 Gandrup,30,495000.0,06-11-2003,Alm.,3074,5,Stuehus,161,1900,
+Sønderskovvej 185 9362 Gandrup,185,1409880.0,30-10-2003,Fam.,7832,8,Stuehus,180,1860,
+Kløvermarken 2 9362 Gandrup,2,575000.0,27-10-2003,Alm.,4600,4,Villa,125,1958,
+Holtetvej 32 9362 Gandrup,32,191960.0,08-10-2003,Alm.,964,5,Villa,199,1870,
+Hølundvej 7 9362 Gandrup,7,1580000.0,02-10-2003,Alm.,6610,6,Villa,239,1992,
+Hedegårdsvej 20 9362 Gandrup,20,1415000.0,26-09-2003,Alm.,0,7,Villa,240,1878,
+Stationsvej 5 9362 Gandrup,5,815000.0,29-08-2003,Alm.,7342,5,Villa,111,1909,
+Nordkær 20 9362 Gandrup,20,370000.0,19-08-2003,Alm.,3162,5,Stuehus,117,1887,
+Østerhavensvej 13 9362 Gandrup,13,1300000.0,15-08-2003,Alm.,6250,5,Villa,208,1987,
+Holtetvej 21 9362 Gandrup,21,1370000.0,11-07-2003,Alm.,7025,6,Villa,195,1947,
+Borgergade 64 9362 Gandrup,64,395000.0,20-06-2003,Alm.,2969,5,Villa,133,1927,
+Møllevænget 19 9362 Gandrup,19,875000.0,18-06-2003,Alm.,5208,3,Villa,168,1972,
+Alleen 7 9362 Gandrup,7,365000.0,02-06-2003,Fam.,2607,4,Villa,140,2007,
+Aalborgvej 230 9362 Gandrup,230,600000.0,13-05-2003,Alm.,3896,6,Stuehus,154,1850,
+Sønderskovvej 218 9362 Gandrup,218,465000.0,09-04-2003,Alm.,3470,5,Villa,134,1907,
+Grønnegade 20 9362 Gandrup,20,700000.0,20-03-2003,Alm.,5426,3,Villa,129,1956,
+Vestervang 32 9362 Gandrup,32,1135000.0,28-02-2003,Alm.,0,6,Villa,161,1987,
+Grønnegade 34 9362 Gandrup,34,530000.0,23-01-2003,Alm.,4953,3,Villa,107,1964,
+Haurholmvej 14 9362 Gandrup,14,3000000.0,19-12-2002,Alm.,14634,5,Stuehus,205,1947,
+Grønnegade 4 9362 Gandrup,4,463065.0,13-12-2002,Fam.,3066,5,Villa,151,1928,
+Nygade 8 9362 Gandrup,8,545000.0,09-12-2002,Alm.,5046,4,Villa,108,1969,
+Skivervej 73 9362 Gandrup,73,425500.0,29-11-2002,Andet,1708,6,Stuehus,249,2006,
+Borgergade 62 9362 Gandrup,62,531155.0,27-11-2002,Alm.,4215,5,Villa,126,1933,
+Stationsvej 12 9362 Gandrup,12,825000.0,27-10-2002,Alm.,7432,4,Villa,111,1985,
+Aalborgvej 359 9362 Gandrup,359,345000.0,07-10-2002,Andet,0,5,Villa,120,1939,
+Grønnegade 21 9362 Gandrup,21,700000.0,01-10-2002,Fam.,6306,7,Villa,111,1965,
+Vestervang 22 9362 Gandrup,22,1600000.0,18-09-2002,Alm.,6986,6,Villa,229,1997,
+Kærvej 16 9362 Gandrup,16,550000.0,29-08-2002,Alm.,5188,5,Stuehus,106,1880,
+Houvej 355 9362 Gandrup,355,1795000.0,26-08-2002,Alm.,8085,5,Villa,222,1879,
+Føltvedvej 1 9362 Gandrup,1,1687000.0,15-08-2002,Fam.,9477,8,Stuehus,178,1750,
+Houvej 225 9362 Gandrup,225,330000.0,13-08-2002,Alm.,1479,8,Stuehus,223,1906,
+Møllevænget 5 9362 Gandrup,5,1166000.0,31-07-2002,Alm.,5888,7,Villa,198,1969,
+Gl Kongevej 45 9362 Gandrup,45,750000.0,02-07-2002,Alm.,5000,6,Villa,150,1966,
+Østervang 2 9362 Gandrup,2,479858.0,27-06-2002,Alm.,2695,7,Villa,178,1977,
+Stationsvej 20 9362 Gandrup,20,862500.0,20-06-2002,Alm.,6295,5,Villa,137,1982,
+Grønnegade 24 9362 Gandrup,24,800000.0,24-05-2002,Fam.,5517,4,Villa,145,1970,
+Østervang 63 9362 Gandrup,63,800000.0,19-05-2002,Alm.,7142,4,Villa,112,1979,
+Øster Hassing Vej 157 9362 Gandrup,157,365500.0,25-04-2002,Fam.,3448,4,Villa,106,1900,
+Nørengen 39 9362 Gandrup,39,1450000.0,18-04-2002,Fam.,7073,5,Stuehus,205,1915,
+Sønderskovvej 205 9362 Gandrup,205,820000.0,18-02-2002,Alm.,6307,3,Villa,130,1884,
+Hjortrimmenvej 9 9362 Gandrup,9,550000.0,30-01-2002,Alm.,3374,6,Stuehus,163,1910,
+Nørrevang 11 9362 Gandrup,11,795000.0,10-01-2002,Alm.,7162,3,Villa,111,1977,
+Gl Kongevej 20 9362 Gandrup,20,625000.0,08-01-2002,Alm.,4734,4,Stuehus,132,1878,
+Vester Hedensvej 4 9362 Gandrup,4,598000.0,06-01-2002,Alm.,4708,5,Villa,127,1903,
+Borgergade 35 9362 Gandrup,35,425000.0,18-11-2001,Alm.,0,4,Villa,180,1922,
+Bollen 36 9362 Gandrup,36,900000.0,18-09-2001,Fam.,4205,8,Stuehus,214,1888,
+Aalborgvej 314 9362 Gandrup,314,250000.0,10-09-2001,Alm.,0,7,Villa,192,1910,
+Grønnegade 19 9362 Gandrup,19,520000.0,31-08-2001,Alm.,7027,2,Villa,74,1963,
+Føltvedvej 8 9362 Gandrup,8,1565000.0,31-08-2001,Alm.,9601,6,Stuehus,163,1975,
+Sønderskovvej 263 9362 Gandrup,263,514882.0,15-08-2001,Alm.,4477,4,Villa,115,1965,
+Alleen 9 9362 Gandrup,9,450000.0,26-07-2001,Alm.,5172,3,Villa,87,1895,
+Sønderskovvej 245 9362 Gandrup,245,910000.0,01-07-2001,Alm.,5170,5,Stuehus,176,1912,
+Hølundvej 20 9362 Gandrup,20,180000.0,29-06-2001,Alm.,692,7,Stuehus,260,1876,
+Kærvej 26 9362 Gandrup,26,765000.0,28-06-2001,Alm.,7285,4,Stuehus,105,1880,
+Skivervej 54 9362 Gandrup,54,375000.0,22-06-2001,Fam.,2640,6,Stuehus,142,1925,
+Nejrupvej 40 9362 Gandrup,40,870000.0,08-06-2001,Alm.,4264,4,Villa,204,1900,
+Houvej 306 9362 Gandrup,306,417000.0,01-06-2001,Alm.,3446,6,Villa,121,1902,
+Aalborgvej 370 9362 Gandrup,370,610000.0,27-05-2001,Alm.,5865,6,Villa,104,1928,
+Hedegårdsvej 6 9362 Gandrup,6,1075000.0,15-05-2001,Alm.,7072,6,Villa,152,1887,
+Bollen 14 9362 Gandrup,14,949540.0,01-05-2001,Alm.,5861,4,Villa,162,1977,
+Stationsvej 15 9362 Gandrup,15,440000.0,16-03-2001,Alm.,0,4,Villa,112,1927,
+Houvej 353 9362 Gandrup,353,1215000.0,15-02-2001,Alm.,6428,6,Villa,189,1850,
+Nejsigvej 16 9362 Gandrup,16,2470667.0,01-02-2001,Fam.,11709,8,Stuehus,211,1980,
+Nordkær 12 9362 Gandrup,12,4900000.0,24-01-2001,Alm.,22272,9,Stuehus,220,1857,
+Østervang 12 9362 Gandrup,12,600000.0,08-01-2001,Alm.,5263,4,Villa,114,1976,
+Nørlund 5 9362 Gandrup,5,1425000.0,22-12-2000,Alm.,8962,5,Villa,159,1999,
+Skolevænget 14 9362 Gandrup,14,380000.0,21-12-2000,Alm.,4750,2,Lejlighed,80,1917,
+Gl Kongevej 7 9362 Gandrup,7,1224930.0,21-10-2000,Alm.,0,5,Villa,183,1983,
+Nørengen 18 9362 Gandrup,18,1145000.0,16-10-2000,Alm.,6815,6,Villa,168,1920,
+Borgergade 16 9362 Gandrup,16,630000.0,13-10-2000,Alm.,3795,4,Villa,166,1962,
+Hedegårdsvej 25 9362 Gandrup,25,561000.0,30-08-2000,Andet,2191,9,Villa,256,1921,
+Holtetvej 14 9362 Gandrup,14,625000.0,09-08-2000,Alm.,2155,6,Stuehus,290,1897,
+Houvej 232 9362 Gandrup,232,900000.0,07-08-2000,Alm.,6000,6,Villa,150,1927,
+Knorhedevej 17 9362 Gandrup,17,745000.0,16-07-2000,Alm.,0,3,Stuehus,190,1909,
+Stationsvej 47 9362 Gandrup,47,810000.0,12-07-2000,Alm.,7714,3,Rækkehus,105,1988,
+Aalborgvej 354 9362 Gandrup,354,795000.0,15-06-2000,Alm.,4622,5,Villa,172,1972,
+Aalborgvej 182 9362 Gandrup,182,530000.0,26-05-2000,Alm.,4076,4,Stuehus,130,1947,
+Aalborgvej 346 9362 Gandrup,346,840000.0,24-05-2000,Fam.,5283,6,Villa,159,1972,
+Sønderskovvej 214 9362 Gandrup,214,310000.0,10-05-2000,Alm.,0,4,Villa,146,1777,
+Skivervej 44 9362 Gandrup,44,1083000.0,07-05-2000,Alm.,0,5,Villa,184,1920,
+Hølundvej 29 9362 Gandrup,29,737330.0,02-05-2000,Alm.,5461,4,Villa,135,1979,
+Nørrevang 9 9362 Gandrup,9,600000.0,30-04-2000,Alm.,5660,4,Villa,106,1977,
+Østerhavensvej 5 9362 Gandrup,5,894086.0,24-04-2000,Alm.,6386,4,Villa,140,1973,
+Skivervej 3 9362 Gandrup,3,665000.0,29-03-2000,Alm.,5076,4,Villa,131,1967,
+Vester Hedensvej 2 9362 Gandrup,2,300000.0,25-02-2000,Alm.,0,3,Villa,112,1890,
+Møllevænget 12 9362 Gandrup,12,885000.0,18-02-2000,Alm.,4862,6,Villa,182,1972,
+Rabensvej 8 9362 Gandrup,8,641721.0,02-02-2000,Alm.,3525,6,Villa,182,2005,
+Borgergade 75A 9362 Gandrup,0,499441.0,08-01-2000,Alm.,7238,3,Rækkehus,69,1984,
+Nørrevang 34 9362 Gandrup,34,738000.0,19-10-1999,Alm.,0,5,Villa,163,1977,
+"Skolevænget 10, 1. TV 9362 Gandrup",0,341120.0,20-09-1999,Alm.,5414,2,Lejlighed,63,1917,
+Nørengen 37 9362 Gandrup,37,869158.0,15-09-1999,Alm.,5267,4,Villa,165,1939,
+Hølundvej 25 9362 Gandrup,25,245000.0,17-08-1999,Andet,1762,4,Villa,139,1973,
+Nørengen 36 9362 Gandrup,36,1060000.0,16-08-1999,Alm.,7625,5,Stuehus,139,1998,
+Grønnegade 16 9362 Gandrup,16,332500.0,22-07-1999,Fam.,2638,4,Villa,126,1953,
+Aalborgvej 329B 9362 Gandrup,0,165000.0,06-07-1999,Alm.,1320,4,Villa,125,2003,
+Aalborgvej 366A 9362 Gandrup,0,671000.0,02-07-1999,Alm.,6390,4,Rækkehus,105,1986,
+Råbhuivej 21 9362 Gandrup,21,450000.0,25-06-1999,Andet,2960,5,Villa,152,1920,
+Borgergade 57 9362 Gandrup,57,450000.0,20-04-1999,Alm.,3688,4,Villa,122,1917,
+Østervang 32 9362 Gandrup,32,890000.0,10-04-1999,Alm.,6449,4,Villa,138,1973,
+Møllevænget 17 9362 Gandrup,17,887008.0,09-03-1999,Alm.,0,6,Villa,241,1973,
+Borgergade 80 9362 Gandrup,80,365500.0,08-03-1999,Fam.,3480,4,Villa,105,1918,
+Hølundvej 62 9362 Gandrup,62,190000.0,10-02-1999,Alm.,2021,2,Villa,94,1916,
+Borgergade 89 9362 Gandrup,89,339000.0,29-01-1999,Alm.,5136,3,Lejlighed,66,1897,
+Aalborgvej 331 9362 Gandrup,331,350000.0,01-01-1999,Fam.,1658,7,Villa,211,1905,
+Råbhuivej 25 9362 Gandrup,25,1147271.0,14-12-1998,Alm.,3969,6,Villa,289,1945,
+Bollen 32 9362 Gandrup,32,907535.0,08-11-1998,Alm.,0,5,Villa,186,1976,
+Sønderskovvej 211 9362 Gandrup,211,364000.0,29-10-1998,Alm.,2800,3,Villa,130,1877,
+Vestervang 20 9362 Gandrup,20,1162147.0,17-09-1998,Alm.,6836,6,Villa,170,1986,
+Skivervej 78 9362 Gandrup,78,1036000.0,20-08-1998,Alm.,6475,4,Villa,160,1998,
+Hølundvej 27 9362 Gandrup,27,715663.0,31-07-1998,Alm.,3491,5,Villa,205,1827,
+Stationsvej 14 9362 Gandrup,14,860000.0,26-07-1998,Alm.,4699,6,Villa,183,1979,
+Eskedalsvej 14 9362 Gandrup,14,1147797.0,11-06-1998,Alm.,5193,8,Villa,221,1848,
+Rabensvej 4 9362 Gandrup,4,829000.0,08-06-1998,Alm.,0,5,Villa,190,1877,
+Gl Kongevej 36 9362 Gandrup,36,836000.0,10-05-1998,Alm.,5887,5,Villa,142,1917,
+Aalborgvej 379 9362 Gandrup,379,444000.0,22-04-1998,Alm.,4036,3,Villa,110,1877,
+Øster Hassing Vej 154 9362 Gandrup,154,1062000.0,20-04-1998,Alm.,4985,5,Villa,213,1910,
+Parallelvej 19 9362 Gandrup,19,36900.0,17-04-1998,Alm.,229,6,Villa,161,1999,
+Vester Hedensvej 7 9362 Gandrup,7,427000.0,07-04-1998,Andet,4186,4,Villa,102,1840,
+Hjortrimmenvej 20 9362 Gandrup,20,221318.0,06-04-1998,Alm.,0,8,Stuehus,226,1917,
+Møllevænget 1 9362 Gandrup,1,625000.0,26-03-1998,Alm.,4629,4,Villa,135,1972,
+Nørrevang 32 9362 Gandrup,32,307000.0,26-03-1998,Alm.,2495,4,Villa,123,1978,
+Houvej 237 9362 Gandrup,237,45000.0,19-03-1998,Fam.,0,4,Villa,154,1900,
+Borgergade 9 9362 Gandrup,9,351000.0,13-03-1998,Alm.,0,6,Villa,203,1950,
+Borgergade 91 9362 Gandrup,91,379000.0,02-03-1998,Alm.,5414,3,Lejlighed,70,1897,
+Vestervang 28 9362 Gandrup,28,940000.0,21-01-1998,Alm.,0,6,Villa,162,1986,
+Aalborgvej 368 9362 Gandrup,368,220000.0,05-01-1998,Alm.,0,4,Villa,100,1899,
+Blomstervangen 9 9362 Gandrup,9,3030493.0,15-12-1997,Andet,0,2,Rækkehus,80,1975,
+Gl Kongevej 8 9362 Gandrup,8,580000.0,23-09-1997,Alm.,5132,4,Villa,113,1965,
+Østervang 29 9362 Gandrup,29,805000.0,09-09-1997,Alm.,5513,4,Villa,146,1973,
+Øster Hassing Vej 178 9362 Gandrup,178,190426.0,04-09-1997,Alm.,0,5,Stuehus,145,1928,
+Nørengen 32 9362 Gandrup,32,860000.0,12-08-1997,Fam.,0,6,Stuehus,146,1927,
+Nørengen 40 9362 Gandrup,40,635000.0,14-07-1997,Alm.,3112,4,Stuehus,204,1929,
+Skivervej 1 9362 Gandrup,1,688140.0,14-07-1997,Fam.,5252,3,Villa,131,1960,
+Holtetvej 79 9362 Gandrup,79,665000.0,25-06-1997,Alm.,2782,6,Villa,239,1930,
+Grønnegade 17 9362 Gandrup,17,390000.0,24-06-1997,Alm.,0,3,Anden beboelse,150,1951,
+Borgergade 85 9362 Gandrup,85,260000.0,26-05-1997,Alm.,6190,2,Lejlighed,42,1897,
+Nygade 6 9362 Gandrup,6,640000.0,21-05-1997,Alm.,5765,4,Villa,111,1965,
+Sønderskovvej 228 9362 Gandrup,228,250000.0,28-04-1997,Alm.,2016,5,Villa,124,1917,
+Sønderskovvej 221 9362 Gandrup,221,120200.0,23-04-1997,Fam.,1414,2,Villa,85,1957,
+Vester Hedensvej 9 9362 Gandrup,9,775000.0,25-03-1997,Alm.,5827,5,Stuehus,133,1911,
+Holtetvej 80 9362 Gandrup,80,575000.0,25-03-1997,Alm.,4563,4,Stuehus,126,1800,
+Aalborgvej 235 9362 Gandrup,235,390000.0,21-03-1997,Alm.,2977,4,Villa,131,1935,
+Stationsvej 43 9362 Gandrup,43,490000.0,20-03-1997,Alm.,3310,4,Villa,148,1927,
+Parallelvej 5 9362 Gandrup,5,265000.0,18-02-1997,Alm.,2977,3,Villa,89,1963,
+Nørengen 38 9362 Gandrup,38,1187772.0,11-02-1997,Alm.,4242,6,Stuehus,280,1877,
+Gl Kongevej 2 9362 Gandrup,2,1000000.0,03-02-1997,Alm.,3610,8,Villa,277,1969,
+Egetved 9 9362 Gandrup,9,300000.0,11-01-1997,Alm.,1234,6,Stuehus,243,1998,
+Bollen 24 9362 Gandrup,24,602000.0,12-12-1996,Alm.,6080,4,Villa,99,1976,
+Aalborgvej 332 9362 Gandrup,332,171000.0,10-12-1996,Alm.,1285,4,Villa,133,1918,
+Knorhedevej 6 9362 Gandrup,6,255000.0,22-11-1996,Fam.,1700,5,Villa,150,1927,
+Skindbjergvej 10 9362 Gandrup,10,90000.0,11-11-1996,Alm.,1000,4,Stuehus,90,1877,
+Houvej 298 9362 Gandrup,298,150000.0,23-10-1996,Alm.,0,6,Villa,132,1925,
+Vester Hedensvej 11 9362 Gandrup,11,450000.0,23-10-1996,Alm.,0,7,Villa,167,1961,
+Vestervang 48 9362 Gandrup,48,915000.0,23-10-1996,Alm.,7320,4,Villa,125,1986,
+Gl Kongevej 27 9362 Gandrup,27,860000.0,22-10-1996,Alm.,5029,4,Villa,171,1972,
+Grønnegade 11 9362 Gandrup,11,425000.0,08-10-1996,Alm.,0,5,Villa,123,1948,
+Bredgade 1 9362 Gandrup,1,565000.0,23-09-1996,Alm.,3509,5,Villa,161,1971,
+Borgergade 58 9362 Gandrup,58,300000.0,23-09-1996,Alm.,3658,2,Villa,82,1948,
+Aalborgvej 345 9362 Gandrup,345,436000.0,09-09-1996,Alm.,0,5,Villa,109,1887,
+Østervang 48 9362 Gandrup,48,785000.0,26-07-1996,Alm.,0,6,Villa,164,1975,
+Borgergade 106 9362 Gandrup,106,480000.0,22-07-1996,Alm.,0,6,Villa,401,1898,
+Hjortrimmenvej 18 9362 Gandrup,18,450000.0,03-05-1996,Alm.,0,5,Villa,184,1929,
+Vester Hedensvej 33 9362 Gandrup,33,1275000.0,19-04-1996,Alm.,2871,13,Villa,444,1900,
+Grønnegade 30 9362 Gandrup,30,549000.0,12-04-1996,Alm.,4322,4,Villa,127,1972,
+Bollen 16 9362 Gandrup,16,445775.0,08-04-1996,Alm.,3842,3,Villa,116,1977,
+Hølundvej 95 9362 Gandrup,95,425000.0,31-03-1996,Alm.,1958,6,Villa,217,1960,
+Parallelvej 3 9362 Gandrup,3,310000.0,26-03-1996,Alm.,0,5,Villa,205,1900,
+Houvej 302 9362 Gandrup,302,940690.0,25-03-1996,Alm.,0,6,Villa,166,1777,
+Vestervang 7 9362 Gandrup,7,60000.0,15-03-1996,Andet,365,6,Villa,164,1996,
+Houvej 250 9362 Gandrup,250,587000.0,22-02-1996,Alm.,3715,5,Villa,158,1928,
+Vestervang 46 9362 Gandrup,46,60000.0,20-02-1996,Andet,495,5,Villa,121,1996,
+Borgergade 66 9362 Gandrup,66,360000.0,07-01-1996,Alm.,2195,7,Villa,164,1926,
+Stationsvej 3 9362 Gandrup,3,546000.0,22-12-1995,Alm.,0,8,Villa,300,1916,
+Aalborgvej 351 9362 Gandrup,351,430089.0,01-12-1995,Alm.,4258,3,Villa,101,1964,
+Teglværksvej 5 9362 Gandrup,5,213058.0,23-10-1995,Fam.,1151,6,Villa,185,1972,
+Houvej 316 9362 Gandrup,316,309546.0,19-10-1995,Fam.,2668,3,Villa,116,1961,
+Hedegårdsvej 10 9362 Gandrup,10,1706000.0,16-10-1995,Fam.,7616,9,Stuehus,224,1867,
+Aalborgvej 260 9362 Gandrup,260,1060000.0,10-10-1995,Alm.,7412,5,Stuehus,143,1907,
+Nørrevang 2 9362 Gandrup,2,655000.0,15-09-1995,Alm.,3969,5,Villa,165,1975,
+Vestervang 18B 9362 Gandrup,0,450000.0,15-09-1995,Alm.,5172,3,Rækkehus,87,1988,
+Skivervej 52 9362 Gandrup,52,675000.0,20-08-1995,Alm.,0,7,Villa,195,1908,
+Vestervang 2A 9362 Gandrup,0,560000.0,12-08-1995,Alm.,5333,4,Rækkehus,105,1986,
+Teglværksvej 6A 9362 Gandrup,0,421833.0,07-08-1995,Alm.,5550,3,Rækkehus,76,1983,
+Skroldvej 14 9362 Gandrup,14,415000.0,27-07-1995,Alm.,0,5,Villa,235,1910,
+Borgergade 10 9362 Gandrup,10,366000.0,12-06-1995,Alm.,0,3,Villa,105,1963,
+Skivervej 84 9362 Gandrup,84,1450000.0,20-04-1995,Fam.,10984,4,Stuehus,132,2013,
+Kløvermarken 6 9362 Gandrup,6,340000.0,18-03-1995,Alm.,2833,3,Villa,120,1954,
+Karl Johan Stræde 6 9362 Gandrup,6,900000.0,07-03-1995,Alm.,0,7,Villa,268,1942,
+Knorhedevej 5 9362 Gandrup,5,525000.0,02-03-1995,Alm.,0,7,Stuehus,154,1927,
+Skivervej 5 9362 Gandrup,5,200000.0,01-03-1995,Alm.,2272,3,Villa,88,1902,
+Hedegårdsvej 28 9362 Gandrup,28,920000.0,03-02-1995,Alm.,4088,5,Villa,225,1974,
+Sønderskovvej 208 9362 Gandrup,208,1588000.0,22-12-1994,Fam.,0,15,Stuehus,351,1915,
+Aalborgvej 183 9362 Gandrup,183,755000.0,17-11-1994,Alm.,4015,4,Villa,188,1942,
+"Borgergade 84, ST. TV 9362 Gandrup",0,3100000.0,18-07-1994,Alm.,0,6,Villa,186,1912,
+Østervang 62 9362 Gandrup,62,530000.0,29-06-1994,Alm.,4206,5,Villa,126,1976,
+Nygade 5 9362 Gandrup,5,215000.0,28-06-1994,Alm.,1791,4,Villa,120,1899,
+Houvej 356 9362 Gandrup,356,1273838.0,11-06-1994,Alm.,0,7,Stuehus,153,1912,
+Stationsvej 17 9362 Gandrup,17,60000.0,03-05-1994,Alm.,600,4,Villa,100,1928,
+Hjortrimmenvej 32 9362 Gandrup,32,2950000.0,13-04-1994,Alm.,7564,7,Stuehus,390,2003,
+Aalborgvej 374B 9362 Gandrup,0,1520000.0,22-03-1994,Alm.,13571,5,Villa,112,1950,
+Gl Kongevej 21 9362 Gandrup,21,32000.0,08-03-1994,Alm.,235,4,Villa,136,1994,
+Vester Hedensvej 35 9362 Gandrup,35,4500000.0,24-01-1994,Alm.,0,6,Stuehus,240,1870,
+Hølundvej 44 9362 Gandrup,44,260000.0,03-01-1994,Fam.,0,7,Villa,185,1881,
+Aalborgvej 338 9362 Gandrup,338,738000.0,28-10-1993,Alm.,2963,9,Villa,249,1970,
+Nørrevang 18 9362 Gandrup,18,480000.0,01-07-1993,Alm.,0,4,Villa,159,1976,
+Hjortrimmenvej 35 9362 Gandrup,35,850000.0,24-04-1993,Alm.,7327,4,Stuehus,116,1910,
+Gl Kongevej 1 9362 Gandrup,1,300000.0,29-09-1992,Alm.,2970,4,Villa,101,1964,
+Stationsvej 31 9362 Gandrup,31,293000.0,10-09-1992,Alm.,0,3,Villa,128,1940,
+Aalborgvej 348 9362 Gandrup,348,450000.0,26-08-1992,Alm.,4166,4,Villa,108,1971,
+Grønnegade 1 9362 Gandrup,1,360000.0,24-08-1992,Alm.,0,4,Villa,146,1965,
+Houvej 365 9362 Gandrup,365,793000.0,18-08-1992,Alm.,0,7,Stuehus,151,1917,
+Hjortrimmenvej 36 9362 Gandrup,36,550000.0,11-08-1992,Alm.,0,4,Villa,124,1942,
+Hjortrimmenvej 31 9362 Gandrup,31,710000.0,14-05-1992,Alm.,0,5,Stuehus,186,1950,
+Houvej 284 9362 Gandrup,284,635000.0,21-04-1992,Alm.,1873,11,Villa,339,1915,
+Grønnegade 6 9362 Gandrup,6,305000.0,29-03-1992,Alm.,0,4,Villa,104,1927,
+Østervang 53 9362 Gandrup,53,475000.0,27-03-1992,Alm.,0,4,Villa,129,1977,
+Sønderskovvej 249 9362 Gandrup,249,805000.0,09-03-1992,Alm.,4351,6,Stuehus,185,1882,
+Nørengen 17 9362 Gandrup,17,1376400.0,05-03-1992,Fam.,0,7,Stuehus,200,1926,
+Borgergade 61 9362 Gandrup,61,500000.0,01-03-1992,Fam.,2762,6,Villa,181,1910,
+Aalborgvej 187 9362 Gandrup,187,520000.0,28-02-1992,Alm.,2613,4,Villa,199,1946,
+Sønderskovvej 189 9362 Gandrup,189,330000.0,17-02-1992,Alm.,1556,8,Villa,212,2014,
+Stationsvej 28 9362 Gandrup,28,495000.0,19-01-1992,Alm.,0,4,Villa,146,1980,
+Abildbak 16 9362 Gandrup,16,595000.0,14-01-1992,Auktion,4103,6,Villa,145,1924,

@@ -1,0 +1,913 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Bro Strandvej 70 5464 Brenderup Fyn,5464,188700.0,16-05-2017,Alm.,1072,5,Sommerhus,176,1932,
+Bakkevej 13 5464 Brenderup Fyn,5464,484500.0,27-04-2017,Fam.,10766,2,Sommerhus,45,1969,
+Rylevej 11 5464 Brenderup Fyn,5464,2717000.0,20-04-2017,Alm.,27170,4,Sommerhus,100,2000,3 %
+Varbjergvej 38 5464 Brenderup Fyn,5464,79516.0,18-04-2017,Alm.,255,12,Villa,311,1995,
+Mejerivej 20 5464 Brenderup Fyn,5464,620000.0,16-04-2017,Fam.,5344,5,Villa,116,1973,
+Søvej 13 5464 Brenderup Fyn,5464,1195000.0,13-04-2017,Alm.,18106,3,Sommerhus,66,1966,
+Skolevej 1 5464 Brenderup Fyn,5464,765000.0,22-03-2017,Alm.,6769,6,Villa,113,1950,-10 %
+Brenderupvej 51 5464 Brenderup Fyn,5464,1075000.0,17-03-2017,Alm.,6142,5,Villa,175,1922,-10 %
+Engdraget 59 5464 Brenderup Fyn,5464,1645000.0,12-03-2017,Alm.,35760,1,Sommerhus,46,1968,
+Havrevænget 9 5464 Brenderup Fyn,5464,741264.0,09-03-2017,Alm.,4260,6,Villa,174,2001,
+Rugårdsvej 212 5464 Brenderup Fyn,5464,998000.0,23-02-2017,Alm.,7179,5,Villa,139,1974,0 %
+Bakkevej 25 5464 Brenderup Fyn,5464,887500.0,17-02-2017,Alm.,11677,2,Sommerhus,76,1976,-10 %
+Middelfartvej 271 5464 Brenderup Fyn,5464,725000.0,06-02-2017,Alm.,5492,4,Villa,132,1900,-3 %
+Ternevej 4 5464 Brenderup Fyn,5464,665000.0,02-02-2017,Alm.,10725,4,Sommerhus,62,1971,-16 %
+Bogensevej 118 5464 Brenderup Fyn,5464,780000.0,30-01-2017,Alm.,6341,3,Villa,123,1906,-8 %
+Bro Skov 8 5464 Brenderup Fyn,5464,765000.0,19-01-2017,Alm.,7806,4,Sommerhus,98,1890,-4 %
+Vejrupvej 23 5464 Brenderup Fyn,5464,5701230.0,29-11-2016,Andet,32393,5,Stuehus,176,1885,
+Åbakkevej 42 5464 Brenderup Fyn,5464,935000.0,29-11-2016,Alm.,6493,4,Villa,144,1973,
+Engdraget 38 5464 Brenderup Fyn,5464,790000.0,23-11-2016,Alm.,13389,4,Sommerhus,59,1972,-9 %
+Middelfartvej 201 5464 Brenderup Fyn,5464,120000.0,28-10-2016,Alm.,827,4,Stuehus,145,1970,
+Middelfartvej 204 5464 Brenderup Fyn,5464,1325000.0,27-10-2016,Alm.,8179,7,Villa,162,1660,-5 %
+Drosselvej 6 5464 Brenderup Fyn,5464,875000.0,26-10-2016,Alm.,14344,4,Sommerhus,61,1984,-7 %
+Solbakkevej 26 5464 Brenderup Fyn,5464,1100000.0,21-10-2016,Alm.,7236,6,Villa,152,1920,-15 %
+Liselundsvej 3 5464 Brenderup Fyn,5464,1190000.0,16-10-2016,Fam.,13678,3,Sommerhus,87,1847,
+Bro Skov 9 5464 Brenderup Fyn,5464,1275000.0,10-10-2016,Alm.,15178,3,Stuehus,84,1944,-9 %
+Mågevej 9 5464 Brenderup Fyn,5464,425000.0,22-09-2016,Alm.,9444,4,Sommerhus,45,1967,8 %
+Vejrupvej 53 5464 Brenderup Fyn,5464,765000.0,19-09-2016,Alm.,3509,6,Stuehus,218,1800,-4 %
+Syrenvej 2 5464 Brenderup Fyn,5464,1595000.0,22-08-2016,Alm.,13181,4,Villa,121,1984,0 %
+Birkevej 4 5464 Brenderup Fyn,5464,1895000.0,05-08-2016,Alm.,10706,5,Villa,177,2002,0 %
+Strandgårdsvej 37 5464 Brenderup Fyn,5464,1085000.0,03-08-2016,Alm.,10959,4,Sommerhus,99,2003,-1 %
+Stokrosevej 16 5464 Brenderup Fyn,5464,1400000.0,29-07-2016,Alm.,11570,4,Sommerhus,121,1974,-6 %
+Irisvej 9 5464 Brenderup Fyn,5464,1125000.0,29-07-2016,Alm.,13081,4,Sommerhus,86,1976,-6 %
+Middelfartvej 279 5464 Brenderup Fyn,5464,750000.0,27-07-2016,Alm.,9375,3,Villa,80,1800,-6 %
+Poppelvej 25 5464 Brenderup Fyn,5464,1925000.0,24-06-2016,Alm.,9529,6,Sommerhus,202,1827,-4 %
+Bakkevej 15 5464 Brenderup Fyn,5464,750000.0,23-06-2016,Alm.,5813,3,Sommerhus,129,1972,
+Engdraget 87 5464 Brenderup Fyn,5464,1260000.0,22-06-2016,Alm.,24705,3,Sommerhus,51,1952,-3 %
+Æbleparken 1 5464 Brenderup Fyn,5464,325000.0,22-06-2016,Alm.,2152,6,Villa,151,2016,-13 %
+Strandgårdsvej 29 5464 Brenderup Fyn,5464,1175000.0,20-06-2016,Alm.,11868,4,Sommerhus,99,2003,-6 %
+Kirkevej 40 5464 Brenderup Fyn,5464,798000.0,17-06-2016,Alm.,4313,6,Villa,185,1850,0 %
+Strandgårdsvej 241 5464 Brenderup Fyn,5464,1285000.0,16-06-2016,Alm.,12979,4,Sommerhus,99,2005,
+Fruerhøjvej 9 5464 Brenderup Fyn,5464,230000.0,01-06-2016,Alm.,1411,7,Stuehus,163,1912,
+Middelfartvej 254 5464 Brenderup Fyn,5464,90000.0,31-05-2016,Andet,1125,3,Villa,80,1919,-88 %
+Åvej 11 5464 Brenderup Fyn,5464,420000.0,20-05-2016,Alm.,17500,2,Sommerhus,24,1945,
+Middelfartvej 247 5464 Brenderup Fyn,5464,714000.0,15-05-2016,Alm.,5063,5,Villa,141,1900,
+Stationsvej 60 5464 Brenderup Fyn,5464,3150000.0,06-05-2016,Alm.,13291,8,Villa,237,1917,
+Bystævnevej 7 5464 Brenderup Fyn,5464,1160000.0,29-04-2016,Alm.,4696,5,Villa,247,1975,-11 %
+Ternevej 3 5464 Brenderup Fyn,5464,940000.0,26-04-2016,Alm.,6762,3,Sommerhus,139,2017,
+Åvej 20 5464 Brenderup Fyn,5464,450000.0,07-04-2016,Fam.,6818,4,Sommerhus,66,1950,
+Syrenvej 14 5464 Brenderup Fyn,5464,1537500.0,30-03-2016,Alm.,9206,5,Villa,167,1977,
+Middelfartvej 225 5464 Brenderup Fyn,5464,500000.0,29-03-2016,Alm.,5050,3,Villa,99,1910,
+Bro Skov 18 5464 Brenderup Fyn,5464,1000000.0,18-03-2016,Alm.,6250,3,Villa,160,1942,-7 %
+Bubbelvej 83 5464 Brenderup Fyn,5464,750000.0,14-03-2016,Alm.,9375,3,Villa,80,1900,-12 %
+Strandgårdsvej 77 5464 Brenderup Fyn,5464,1040000.0,07-03-2016,Alm.,10505,4,Sommerhus,99,2004,-17 %
+Poppelvej 27 5464 Brenderup Fyn,5464,260000.0,28-02-2016,Andet,4814,2,Sommerhus,54,1940,
+Kærsgårdvej 33 5464 Brenderup Fyn,5464,400000.0,18-02-2016,Alm.,3478,4,Villa,115,1962,-19 %
+Sneppevej 16 5464 Brenderup Fyn,5464,1190000.0,12-02-2016,Alm.,12142,4,Sommerhus,98,1976,-4 %
+Skovhaven 28 5464 Brenderup Fyn,5464,1165000.0,07-02-2016,Alm.,7147,5,Villa,163,1986,-20 %
+Brenderupvej 37 5464 Brenderup Fyn,5464,1250000.0,04-01-2016,Fam.,8992,5,Villa,139,1965,
+Strandgårdsvej 41 5464 Brenderup Fyn,5464,1010000.0,22-12-2015,Alm.,10202,4,Sommerhus,99,2003,-8 %
+Fruerhøjvej 28 5464 Brenderup Fyn,5464,1300000.0,11-12-2015,Alm.,5462,7,Villa,238,1942,0 %
+Holsevej 1 5464 Brenderup Fyn,5464,1498000.0,04-12-2015,Alm.,7490,4,Villa,200,1971,0 %
+Æbleparken 23 5464 Brenderup Fyn,5464,1325000.0,01-12-2015,Alm.,12045,4,Villa,110,2011,-2 %
+Åvej 5 5464 Brenderup Fyn,5464,300000.0,23-11-2015,Alm.,20000,1,Sommerhus,15,1949,
+Bogensevej 3 5464 Brenderup Fyn,5464,300000.0,19-11-2015,Alm.,2542,3,Villa,118,1934,-14 %
+Lærkevej 11 5464 Brenderup Fyn,5464,977500.0,16-11-2015,Fam.,16567,3,Sommerhus,59,1963,
+Munkegårdsvej 8 5464 Brenderup Fyn,5464,600000.0,02-11-2015,Alm.,5000,4,Villa,120,1974,-20 %
+Strandgårdsvej 83 5464 Brenderup Fyn,5464,1075000.0,20-10-2015,Alm.,10858,4,Sommerhus,99,2004,0 %
+Stokrosevej 6 5464 Brenderup Fyn,5464,688500.0,13-10-2015,Fam.,9835,4,Sommerhus,70,1972,
+Elmegårdsvej 10 5464 Brenderup Fyn,5464,1000000.0,10-10-2015,Alm.,5000,5,Stuehus,200,1752,-9 %
+Bogensevej 132 5464 Brenderup Fyn,5464,900000.0,07-10-2015,Andet,6428,5,Villa,140,1933,
+Nygårdsvej 34 5464 Brenderup Fyn,5464,3100000.0,04-10-2015,Alm.,12653,8,Villa,245,1880,
+Syrenvej 4A 5464 Brenderup Fyn,5464,875000.0,24-09-2015,Alm.,7954,3,Villa,110,1986,-2 %
+Lærkevej 2 5464 Brenderup Fyn,5464,1758000.0,21-09-2015,Alm.,14177,4,Sommerhus,124,1971,
+Åvej 6 5464 Brenderup Fyn,5464,840000.0,09-09-2015,Alm.,20000,2,Sommerhus,42,1959,-5 %
+Æbleparken 3 5464 Brenderup Fyn,5464,1300000.0,02-09-2015,Alm.,11926,4,Villa,109,2011,
+Bryggervej 16 5464 Brenderup Fyn,5464,479000.0,28-08-2015,Alm.,1931,8,Villa,248,2016,
+Hyttevej 10 5464 Brenderup Fyn,5464,590000.0,25-08-2015,Auktion,10172,2,Sommerhus,58,1971,-26 %
+Mosbækvej 3 5464 Brenderup Fyn,5464,1400000.0,15-08-2015,Alm.,6796,10,Stuehus,206,1870,
+Bøgelundvej 25 5464 Brenderup Fyn,5464,460000.0,11-08-2015,Auktion,3357,4,Villa,137,1977,
+Drosselvej 8 5464 Brenderup Fyn,5464,865000.0,11-08-2015,Alm.,12536,4,Sommerhus,69,1977,-10 %
+Vejrupvej 60 5464 Brenderup Fyn,5464,4290000.0,04-08-2015,Alm.,19678,7,Stuehus,218,1864,
+Fyllestedvej 38 5464 Brenderup Fyn,5464,100000.0,14-07-2015,Alm.,1176,3,Villa,85,1961,
+Strandgårdsvej 107 5464 Brenderup Fyn,5464,1100000.0,17-06-2015,Alm.,11111,4,Sommerhus,99,2005,-6 %
+Strandgårdsvej 53 5464 Brenderup Fyn,5464,975000.0,29-05-2015,Alm.,9848,4,Sommerhus,99,2003,-11 %
+Rugvænget 4 5464 Brenderup Fyn,5464,1050000.0,27-05-2015,Alm.,9051,3,Villa,116,1967,-12 %
+Rugårdsvej 198 5464 Brenderup Fyn,5464,2150000.0,26-05-2015,Alm.,19196,3,Rækkehus,112,1967,
+Vejrup Mark 4 5464 Brenderup Fyn,5464,1525000.0,21-05-2015,Alm.,6517,7,Villa,234,1910,-10 %
+Svalevej 3 5464 Brenderup Fyn,5464,575000.0,19-05-2015,Alm.,13690,3,Sommerhus,42,1969,-16 %
+Køstrupvej 18 5464 Brenderup Fyn,5464,1575000.0,13-05-2015,Alm.,9487,4,Villa,166,1935,-5 %
+Bogensevej 134 5464 Brenderup Fyn,5464,114000.0,05-05-2015,Auktion,548,6,Villa,208,1953,
+Strandgårdsvej 105 5464 Brenderup Fyn,5464,1110000.0,03-05-2015,Alm.,11212,4,Sommerhus,99,2005,-6 %
+Strandgårdsvej 25 5464 Brenderup Fyn,5464,1160000.0,01-05-2015,Alm.,11717,4,Sommerhus,99,2003,-7 %
+Carlshøjvej 18 5464 Brenderup Fyn,5464,1700000.0,23-04-2015,Alm.,9826,5,Villa,173,1885,
+Birkevej 7 5464 Brenderup Fyn,5464,1350000.0,15-04-2015,Alm.,7941,6,Villa,170,1950,
+Nygårdsvej 28 5464 Brenderup Fyn,5464,4750000.0,10-04-2015,Alm.,18129,7,Stuehus,262,1956,-5 %
+Brenderupvej 41 5464 Brenderup Fyn,5464,700000.0,24-03-2015,Alm.,5691,6,Villa,123,1950,-22 %
+Bro Strandvej 66 5464 Brenderup Fyn,5464,348500.0,21-03-2015,Fam.,9957,2,Sommerhus,35,1825,
+Bryggervej 13 5464 Brenderup Fyn,5464,800000.0,20-03-2015,Alm.,7766,4,Villa,103,1963,-3 %
+Middelfartvej 205 5464 Brenderup Fyn,5464,1125000.0,06-03-2015,Alm.,12096,3,Villa,93,1938,-13 %
+Bro Skov 6 5464 Brenderup Fyn,5464,70000.0,18-02-2015,Alm.,391,5,Stuehus,179,1770,
+Åvej 9 5464 Brenderup Fyn,5464,480900.0,12-02-2015,Alm.,8743,3,Sommerhus,55,1952,
+Bubbelvej 77 5464 Brenderup Fyn,5464,1000000.0,30-01-2015,Alm.,7874,4,Villa,127,1857,-6 %
+Mejerivej 16B 5464 Brenderup Fyn,5464,150000.0,22-01-2015,Fam.,765,7,Villa,196,2015,
+Bygvænget 6 5464 Brenderup Fyn,5464,1225000.0,14-01-2015,Alm.,7515,4,Villa,163,1976,-11 %
+Søvej 30 5464 Brenderup Fyn,5464,599200.0,25-12-2014,Fam.,6443,3,Sommerhus,93,1962,
+Strandgårdsvej 101 5464 Brenderup Fyn,5464,1135000.0,23-12-2014,Alm.,11464,4,Sommerhus,99,2005,-1 %
+Egelundvej 28 5464 Brenderup Fyn,5464,475000.0,19-12-2014,Fam.,2638,6,Villa,180,1912,
+Syrenvej 31 5464 Brenderup Fyn,5464,1745000.0,19-12-2014,Alm.,10771,5,Villa,162,2008,0 %
+Svalevej 16 5464 Brenderup Fyn,5464,457000.0,18-12-2014,Fam.,4663,5,Sommerhus,98,1985,
+Rugårdsvej 161 5464 Brenderup Fyn,5464,490000.0,17-12-2014,Alm.,4757,3,Villa,103,1961,
+Holsevej 46 5464 Brenderup Fyn,5464,3700000.0,18-11-2014,Alm.,16228,9,Stuehus,228,1890,
+Vejrupvej 25 5464 Brenderup Fyn,5464,1000000.0,11-11-2014,Alm.,7246,4,Stuehus,138,1966,
+Åbakkevej 44 5464 Brenderup Fyn,5464,625000.0,05-11-2014,Alm.,5681,3,Villa,110,1967,
+Ålebakkevej 1 5464 Brenderup Fyn,5464,650000.0,22-10-2014,Alm.,13000,3,Sommerhus,50,1963,-6 %
+Strandgårdsvej 103 5464 Brenderup Fyn,5464,1190000.0,09-10-2014,Alm.,12020,4,Sommerhus,99,2005,-4 %
+Bro Strandvej 38 5464 Brenderup Fyn,5464,1600000.0,07-10-2014,Auktion,4278,11,Sommerhus,374,1976,-53 %
+Bogensevej 92 5464 Brenderup Fyn,5464,1031779.0,28-09-2014,Fam.,5291,6,Villa,195,1920,
+Fruerhøjvej 43 5464 Brenderup Fyn,5464,2325000.0,16-09-2014,Alm.,8976,9,Villa,259,1915,-2 %
+Strandgårdsvej 201 5464 Brenderup Fyn,5464,1060000.0,10-09-2014,Alm.,10707,4,Sommerhus,99,2003,-7 %
+Carlshøjvej 14 5464 Brenderup Fyn,5464,995000.0,05-09-2014,Alm.,10364,3,Villa,96,1893,-9 %
+Irisvej 4 5464 Brenderup Fyn,5464,875000.0,17-08-2014,Alm.,11666,4,Sommerhus,75,1987,-2 %
+Bogensevej 71 5464 Brenderup Fyn,5464,175000.0,14-08-2014,Alm.,1666,5,Villa,105,1930,-41 %
+Strandgårdsvej 61 5464 Brenderup Fyn,5464,953556.0,11-08-2014,Auktion,9631,4,Sommerhus,99,2004,-23 %
+Sneppevej 12 5464 Brenderup Fyn,5464,500000.0,05-08-2014,Alm.,7352,4,Sommerhus,68,1978,-28 %
+Strandgårdsvej 33 5464 Brenderup Fyn,5464,1175000.0,17-07-2014,Alm.,11868,4,Sommerhus,99,2003,-6 %
+Solbakkevej 29 5464 Brenderup Fyn,5464,525000.0,11-07-2014,Alm.,3750,5,Villa,140,1956,-30 %
+Strandgårdsvej 27 5464 Brenderup Fyn,5464,1175000.0,08-07-2014,Alm.,11868,4,Sommerhus,99,2003,-6 %
+Lærkevej 9 5464 Brenderup Fyn,5464,1800000.0,30-06-2014,Alm.,19565,4,Sommerhus,92,2015,-9 %
+Brenderupvej 27 5464 Brenderup Fyn,5464,535300.0,26-06-2014,Auktion,3666,5,Villa,146,1912,
+Strandgårdsvej 23 5464 Brenderup Fyn,5464,433000.0,23-06-2014,Fam.,4373,4,Sommerhus,99,2003,
+Kirkevej 38 5464 Brenderup Fyn,5464,1700000.0,19-06-2014,Alm.,5685,6,Villa,299,1977,-32 %
+Bogensevej 24 5464 Brenderup Fyn,5464,100000.0,13-06-2014,Alm.,531,3,Villa,188,2016,-43 %
+Stokrosevej 14 5464 Brenderup Fyn,5464,700000.0,12-05-2014,Alm.,9210,4,Sommerhus,76,1968,
+Bro Skov 30 5464 Brenderup Fyn,5464,68000.0,06-05-2014,Auktion,790,4,Villa,86,1885,
+Havrevænget 7 5464 Brenderup Fyn,5464,852500.0,08-04-2014,Andet,6177,5,Villa,138,1999,
+Strandgårdsvej 67 5464 Brenderup Fyn,5464,625000.0,25-03-2014,Fam.,6313,4,Sommerhus,99,2004,
+Engvej 28 5464 Brenderup Fyn,5464,1995000.0,18-03-2014,Alm.,8176,6,Villa,244,1980,
+Strandgårdsvej 121 5464 Brenderup Fyn,5464,1250000.0,18-03-2014,Alm.,12626,4,Sommerhus,99,2006,-3 %
+Bøgelundvej 21 5464 Brenderup Fyn,5464,750000.0,13-03-2014,Alm.,5905,4,Villa,127,1976,-12 %
+Bekkasinvej 10 5464 Brenderup Fyn,5464,400000.0,12-03-2014,Fam.,6250,4,Sommerhus,64,1976,
+Strandgårdsvej 207 5464 Brenderup Fyn,5464,1085000.0,12-03-2014,Alm.,10959,4,Sommerhus,99,2003,-1 %
+Elmegårdsvej 19 5464 Brenderup Fyn,5464,595000.0,25-02-2014,Alm.,4798,4,Villa,124,1900,-2 %
+Æbleparken 17 5464 Brenderup Fyn,5464,250000.0,21-02-2014,Alm.,1724,5,Villa,145,2016,-4 %
+Brenderupvej 5 5464 Brenderup Fyn,5464,1300000.0,19-02-2014,Alm.,6806,7,Villa,191,1914,-6 %
+Skolevej 12 5464 Brenderup Fyn,5464,1395000.0,17-02-2014,Alm.,5717,6,Villa,244,1944,-7 %
+Solbakkevej 27 5464 Brenderup Fyn,5464,898000.0,07-02-2014,Alm.,7808,3,Villa,115,1942,0 %
+Stationsvej 1 5464 Brenderup Fyn,5464,1062500.0,20-01-2014,Fam.,6362,6,Villa,167,1977,-18 %
+Egelundvej 30 5464 Brenderup Fyn,5464,400000.0,18-01-2014,Alm.,7017,3,Villa,57,1900,-20 %
+Brenderupvej 39 5464 Brenderup Fyn,5464,950000.0,15-01-2014,Alm.,5026,5,Villa,189,1962,-31 %
+Kirkevej 41 5464 Brenderup Fyn,5464,700000.0,10-12-2013,Alm.,5600,5,Villa,125,1900,
+Lærkevej 7 5464 Brenderup Fyn,5464,1450000.0,09-12-2013,Alm.,20714,4,Sommerhus,70,1972,-14 %
+Vejrupvej 46 5464 Brenderup Fyn,5464,250000.0,29-11-2013,Alm.,1054,7,Stuehus,237,1877,
+Skovhaven 16 5464 Brenderup Fyn,5464,1300000.0,15-11-2013,Alm.,5394,6,Villa,241,1964,-12 %
+Bro Strandvej 62 5464 Brenderup Fyn,5464,985000.0,12-11-2013,Fam.,16416,3,Sommerhus,60,1970,
+Irisvej 12 5464 Brenderup Fyn,5464,1325000.0,06-11-2013,Alm.,14722,4,Sommerhus,90,1991,-7 %
+Middelfartvej 295 5464 Brenderup Fyn,5464,500000.0,01-11-2013,Alm.,1838,8,Villa,272,1902,-22 %
+Æbleparken 13 5464 Brenderup Fyn,5464,1325000.0,01-11-2013,Alm.,9464,5,Villa,140,2011,-5 %
+Solbakkevej 18 5464 Brenderup Fyn,5464,337000.0,24-10-2013,Alm.,2340,5,Villa,144,2014,
+"Kirkevej 32, 1 5464 Brenderup Fyn",5464,380000.0,22-09-2013,Alm.,5428,3,Lejlighed,70,1890,-36 %
+Bakkevej 10 5464 Brenderup Fyn,5464,1000000.0,20-09-2013,Fam.,20000,4,Sommerhus,50,1964,
+Mosbækvej 13 5464 Brenderup Fyn,5464,550000.0,13-09-2013,Alm.,5392,5,Villa,102,1913,0 %
+Brovangen 10 5464 Brenderup Fyn,5464,4760000.0,09-09-2013,Alm.,22452,10,Stuehus,212,1927,
+Bro Skov 3 5464 Brenderup Fyn,5464,1376000.0,04-09-2013,Alm.,12859,6,Villa,107,1850,
+Engdraget 34 5464 Brenderup Fyn,5464,485000.0,28-08-2013,Alm.,8818,3,Sommerhus,55,1957,
+Blokhusvej 8 5464 Brenderup Fyn,5464,810000.0,21-08-2013,Alm.,5785,5,Villa,140,1974,
+Ålebakkevej 13 5464 Brenderup Fyn,5464,875000.0,03-08-2013,Alm.,13059,4,Sommerhus,67,1965,-7 %
+Blokhusvej 7 5464 Brenderup Fyn,5464,1400000.0,22-07-2013,Alm.,9271,6,Villa,151,1968,-3 %
+Stationsvej 42 5464 Brenderup Fyn,5464,115000.0,12-07-2013,Alm.,756,3,Villa,152,1910,-65 %
+Varbjergvej 21 5464 Brenderup Fyn,5464,1000000.0,20-06-2013,Alm.,6802,5,Villa,147,1962,-9 %
+Strandgårdsvej 21 5464 Brenderup Fyn,5464,1200000.0,20-06-2013,Alm.,12121,4,Sommerhus,99,2003,-14 %
+Søvej 8 5464 Brenderup Fyn,5464,3950000.0,20-06-2013,Alm.,52666,4,Sommerhus,75,2005,
+Solvej 3 5464 Brenderup Fyn,5464,670000.0,19-06-2013,Alm.,16750,2,Sommerhus,40,1927,-4 %
+Egelundvej 18 5464 Brenderup Fyn,5464,850000.0,14-06-2013,Alm.,7943,4,Villa,107,1965,0 %
+Stationsvej 43 5464 Brenderup Fyn,5464,720000.0,04-06-2013,Alm.,4022,3,Villa,179,1924,-13 %
+Åbjergvej 37 5464 Brenderup Fyn,5464,300000.0,24-05-2013,Alm.,1171,6,Villa,256,1900,
+Carlshøjvej 10 5464 Brenderup Fyn,5464,425000.0,29-04-2013,Auktion,2992,4,Villa,142,1827,
+Egelundvej 15 5464 Brenderup Fyn,5464,1225000.0,29-04-2013,Alm.,9210,4,Villa,133,1975,0 %
+Strandgårdsvej 221 5464 Brenderup Fyn,5464,1200000.0,29-04-2013,Alm.,12121,4,Sommerhus,99,2003,-4 %
+Egelundvej 16 5464 Brenderup Fyn,5464,525000.0,22-04-2013,Alm.,6730,3,Villa,78,1912,-12 %
+Bogensevej 76 5464 Brenderup Fyn,5464,460000.0,22-04-2013,Alm.,4509,5,Villa,102,1917,-16 %
+Strandgårdsvej 99 5464 Brenderup Fyn,5464,1075000.0,22-04-2013,Alm.,10858,4,Sommerhus,99,2005,-9 %
+Bro Strandvej 46 5464 Brenderup Fyn,5464,650000.0,12-04-2013,Alm.,16666,2,Villa,39,1950,0 %
+Strandgårdsvej 47 5464 Brenderup Fyn,5464,1160000.0,12-04-2013,Alm.,11717,4,Sommerhus,99,2003,-3 %
+Mågevej 4 5464 Brenderup Fyn,5464,995000.0,23-02-2013,Alm.,11987,4,Sommerhus,83,1965,-17 %
+Nygårdsvej 16 5464 Brenderup Fyn,5464,950000.0,08-02-2013,Alm.,7089,5,Villa,134,1877,-5 %
+Brenderupvej 25 5464 Brenderup Fyn,5464,900000.0,30-01-2013,Fam.,8571,4,Villa,105,1910,0 %
+Kirkevej 46 5464 Brenderup Fyn,5464,250000.0,10-01-2013,Alm.,1666,7,Villa,150,1880,-37 %
+Middelfartvej 276 5464 Brenderup Fyn,5464,625000.0,09-01-2013,Alm.,5733,4,Villa,109,1917,-21 %
+Sneppevej 7 5464 Brenderup Fyn,5464,1550000.0,20-12-2012,Alm.,18023,4,Sommerhus,86,1974,-6 %
+Æbleparken 32 5464 Brenderup Fyn,5464,340000.0,20-12-2012,Alm.,2281,6,Villa,149,2013,
+Bygvænget 5 5464 Brenderup Fyn,5464,675000.0,13-12-2012,Alm.,7670,3,Villa,88,1978,-10 %
+Middelfartvej 222 5464 Brenderup Fyn,5464,1520000.0,10-12-2012,Alm.,8351,6,Villa,182,1907,-7 %
+Søvej 6 5464 Brenderup Fyn,5464,1148100.0,08-12-2012,Fam.,16170,4,Sommerhus,71,1972,
+Engdraget 18 5464 Brenderup Fyn,5464,375000.0,13-11-2012,Alm.,9375,2,Sommerhus,40,1982,
+Lybækvej 10 5464 Brenderup Fyn,5464,30000.0,08-11-2012,Auktion,309,4,Sommerhus,97,1852,
+Åbakkevej 59 5464 Brenderup Fyn,5464,165000.0,30-10-2012,Auktion,756,6,Villa,218,2016,
+Vejrupvej 6 5464 Brenderup Fyn,5464,391000.0,24-10-2012,Alm.,3103,4,Villa,126,1912,
+Solbakkevej 2A 5464 Brenderup Fyn,5464,800000.0,19-10-2012,Fam.,2826,8,Villa,283,1978,
+Rugårdsvej 167 5464 Brenderup Fyn,5464,840000.0,11-10-2012,Alm.,10909,3,Villa,77,1948,-4 %
+Bakkevej 23 5464 Brenderup Fyn,5464,569500.0,09-10-2012,Alm.,13244,2,Sommerhus,43,1983,
+Strandgårdsvej 65 5464 Brenderup Fyn,5464,1200000.0,08-10-2012,Alm.,12121,4,Sommerhus,99,2004,-7 %
+Åbjergvej 15 5464 Brenderup Fyn,5464,529000.0,04-10-2012,Fam.,5750,4,Villa,92,1947,
+Kærsgårdvej 34 5464 Brenderup Fyn,5464,215000.0,27-09-2012,Alm.,1414,5,Villa,152,2014,-52 %
+Pavebakken 12 5464 Brenderup Fyn,5464,750000.0,30-08-2012,Fam.,10869,3,Sommerhus,69,1972,
+Mosbækvej 5 5464 Brenderup Fyn,5464,900000.0,27-08-2012,Alm.,5263,6,Stuehus,171,1800,
+Havrevænget 15 5464 Brenderup Fyn,5464,1075000.0,17-08-2012,Alm.,9513,4,Villa,113,1999,
+Elmegårdsvej 26 5464 Brenderup Fyn,5464,493000.0,17-08-2012,Fam.,4979,3,Villa,99,1912,
+Bro Strandvej 68 5464 Brenderup Fyn,5464,1350000.0,13-08-2012,Alm.,25961,2,Sommerhus,52,1937,-10 %
+Hyttevej 3 5464 Brenderup Fyn,5464,475000.0,28-07-2012,Alm.,6785,2,Sommerhus,70,1970,
+Ålebakkevej 15 5464 Brenderup Fyn,5464,1385000.0,10-07-2012,Alm.,16488,4,Sommerhus,84,1972,-11 %
+Strandgårdsvej 5 5464 Brenderup Fyn,5464,1500000.0,09-07-2012,Alm.,8333,6,Villa,180,1957,
+Munkegårdsvej 4 5464 Brenderup Fyn,5464,650000.0,09-07-2012,Fam.,2210,9,Villa,294,2013,
+Bekkasinvej 8 5464 Brenderup Fyn,5464,1000000.0,26-06-2012,Alm.,10101,4,Sommerhus,99,1974,-8 %
+Engvej 11 5464 Brenderup Fyn,5464,75000.0,15-06-2012,Alm.,576,5,Stuehus,130,1932,
+Engvej 20 5464 Brenderup Fyn,5464,320000.0,15-06-2012,Alm.,1963,5,Stuehus,163,1900,
+Hyttevej 16 5464 Brenderup Fyn,5464,1265000.0,04-06-2012,Alm.,21810,4,Sommerhus,58,1975,0 %
+Åvej 18 5464 Brenderup Fyn,5464,1473000.0,20-05-2012,Alm.,20746,4,Sommerhus,71,2008,-2 %
+Spurvevej 1 5464 Brenderup Fyn,5464,1195000.0,14-05-2012,Alm.,17835,4,Sommerhus,67,1976,
+Drosselvej 4 5464 Brenderup Fyn,5464,955000.0,24-04-2012,Alm.,20319,3,Sommerhus,47,1975,-4 %
+Engdraget 32 5464 Brenderup Fyn,5464,800000.0,05-04-2012,Alm.,17777,3,Sommerhus,45,1975,-11 %
+Strandgårdsvej 28 5464 Brenderup Fyn,5464,843750.0,16-03-2012,Alm.,11558,3,Sommerhus,73,1969,-6 %
+Strandgårdsvej 24 5464 Brenderup Fyn,5464,1150000.0,15-03-2012,Alm.,11979,5,Sommerhus,96,1968,-11 %
+Åvej 13 5464 Brenderup Fyn,5464,500000.0,15-03-2012,Alm.,9090,2,Sommerhus,55,1957,-23 %
+Skovhaven 11 5464 Brenderup Fyn,5464,500000.0,02-03-2012,Alm.,5555,4,Villa,90,1954,-16 %
+Egelundvej 44 5464 Brenderup Fyn,5464,616000.0,22-02-2012,Fam.,4562,3,Villa,135,1992,
+Drosselvej 20 5464 Brenderup Fyn,5464,875000.0,15-02-2012,Fam.,17500,4,Sommerhus,50,1952,
+Vejrupvej 64 5464 Brenderup Fyn,5464,130000.0,14-02-2012,Auktion,992,4,Villa,131,1929,
+Agervænget 7 5464 Brenderup Fyn,5464,754000.0,03-02-2012,Alm.,18390,3,Sommerhus,41,1987,-24 %
+Holsevej 40 5464 Brenderup Fyn,5464,350000.0,25-01-2012,Alm.,3500,3,Villa,100,1870,-11 %
+Nygårdsvej 36 5464 Brenderup Fyn,5464,600000.0,06-01-2012,Alm.,3260,5,Stuehus,184,1877,
+Søvej 2 5464 Brenderup Fyn,5464,1700000.0,15-12-2011,Fam.,13492,7,Sommerhus,126,1964,
+Åbakkevej 13 5464 Brenderup Fyn,5464,318500.0,29-11-2011,Fam.,2843,3,Villa,112,1912,
+Solvej 16 5464 Brenderup Fyn,5464,680000.0,24-11-2011,Alm.,15454,2,Sommerhus,44,1947,-6 %
+Skovhaven 12 5464 Brenderup Fyn,5464,1100000.0,24-10-2011,Alm.,6707,4,Villa,164,1976,-8 %
+Æbleparken 30 5464 Brenderup Fyn,5464,247000.0,23-10-2011,Alm.,1764,6,Villa,140,2012,
+Elmegårdsvej 4 5464 Brenderup Fyn,5464,950000.0,12-10-2011,Alm.,5080,5,Villa,187,2012,
+Middelfartvej 236 5464 Brenderup Fyn,5464,700000.0,10-10-2011,Alm.,5263,6,Villa,133,1900,-12 %
+Brenderupvej 47 5464 Brenderup Fyn,5464,925000.0,06-10-2011,Alm.,5891,4,Villa,157,1942,-7 %
+Elmegårdsvej 2 5464 Brenderup Fyn,5464,700000.0,28-09-2011,Alm.,10769,3,Villa,65,1965,-3 %
+Bogensevej 140 5464 Brenderup Fyn,5464,350000.0,26-09-2011,Alm.,2916,4,Stuehus,120,1920,
+Køstrupvej 12 5464 Brenderup Fyn,5464,800000.0,21-09-2011,Alm.,6106,5,Villa,131,1827,
+Volpeshøjvej 10 5464 Brenderup Fyn,5464,100000.0,13-09-2011,Alm.,1666,5,Villa,60,1800,-59 %
+Nygårdsvej 17 5464 Brenderup Fyn,5464,3290000.0,12-09-2011,Fam.,17315,9,Stuehus,190,1885,
+Ørbæksled 9 5464 Brenderup Fyn,5464,950000.0,17-08-2011,Alm.,10439,4,Stuehus,91,1877,
+Engvej 3 5464 Brenderup Fyn,5464,2300000.0,07-08-2011,Alm.,10407,8,Villa,221,1986,-8 %
+Skolevej 31 5464 Brenderup Fyn,5464,750000.0,05-08-2011,Alm.,9375,3,Villa,80,1948,-6 %
+Solvej 9 5464 Brenderup Fyn,5464,230000.0,01-08-2011,Alm.,5750,2,Sommerhus,40,1960,
+Strandgårdsvej 215 5464 Brenderup Fyn,5464,1275000.0,26-07-2011,Alm.,12878,4,Sommerhus,99,2003,-9 %
+Middelfartvej 209 5464 Brenderup Fyn,5464,1100000.0,25-07-2011,Alm.,6666,5,Villa,165,1877,-4 %
+Vejrup Mark 10 5464 Brenderup Fyn,5464,1615000.0,22-07-2011,Alm.,6538,9,Stuehus,247,1877,-5 %
+Skovhaven 23 5464 Brenderup Fyn,5464,950000.0,19-07-2011,Alm.,8878,5,Villa,107,1900,-5 %
+Kirkevej 24 5464 Brenderup Fyn,5464,1800000.0,14-07-2011,Alm.,5232,11,Villa,344,1895,-5 %
+Søvej 5 5464 Brenderup Fyn,5464,800000.0,14-07-2011,Alm.,14035,3,Sommerhus,57,1965,-20 %
+Bøgelundvej 4 5464 Brenderup Fyn,5464,850000.0,24-06-2011,Alm.,8500,4,Villa,100,1965,-5 %
+Egelundvej 2 5464 Brenderup Fyn,5464,793167.0,25-05-2011,Andet,2802,8,Villa,283,1917,
+Svalevej 5 5464 Brenderup Fyn,5464,795000.0,23-05-2011,Alm.,22714,2,Sommerhus,35,1972,0 %
+Strandgårdsvej 75 5464 Brenderup Fyn,5464,1385000.0,10-05-2011,Alm.,13989,4,Sommerhus,99,2004,-4 %
+Bogensevej 33 5464 Brenderup Fyn,5464,1050000.0,16-04-2011,Alm.,9051,4,Villa,116,1968,-18 %
+Strandgårdsvej 229 5464 Brenderup Fyn,5464,1460000.0,16-03-2011,Alm.,14747,4,Sommerhus,99,2005,-6 %
+Bro Skov 26 5464 Brenderup Fyn,5464,285000.0,08-03-2011,Alm.,1278,6,Stuehus,223,1877,
+Hyttevej 7 5464 Brenderup Fyn,5464,1450000.0,26-02-2011,Alm.,0,4,Sommerhus,86,1963,-9 %
+Kirkevej 27 5464 Brenderup Fyn,5464,850000.0,17-02-2011,Auktion,4970,6,Villa,171,1895,-34 %
+Bro Strandvej 48 5464 Brenderup Fyn,5464,425000.0,07-02-2011,Fam.,5902,4,Sommerhus,72,1934,
+Pavebakken 19 5464 Brenderup Fyn,5464,1250000.0,31-01-2011,Alm.,17361,4,Sommerhus,72,1978,-21 %
+Solbakkevej 21 5464 Brenderup Fyn,5464,650000.0,03-12-2010,Alm.,2863,7,Villa,227,2012,-6 %
+Mosbækvej 7 5464 Brenderup Fyn,5464,920000.0,15-11-2010,Alm.,9108,4,Villa,101,1933,-3 %
+Havrevænget 17 5464 Brenderup Fyn,5464,1742500.0,14-11-2010,Fam.,8142,7,Villa,214,2000,
+Brovej 16 5464 Brenderup Fyn,5464,1670000.0,14-11-2010,Alm.,12846,3,Villa,130,1948,-1 %
+Æbleparken 15 5464 Brenderup Fyn,5464,1800000.0,04-11-2010,Alm.,11764,5,Villa,153,2009,-5 %
+Blokhusvej 10 5464 Brenderup Fyn,5464,1295000.0,01-11-2010,Alm.,7442,6,Villa,174,1976,-5 %
+Havrevænget 26 5464 Brenderup Fyn,5464,307400.0,21-10-2010,Alm.,1957,6,Villa,157,2011,
+Æbleparken 21 5464 Brenderup Fyn,5464,125000.0,27-09-2010,Alm.,776,5,Villa,161,2014,-62 %
+Strandgårdsvej 39 5464 Brenderup Fyn,5464,1490000.0,24-09-2010,Alm.,15050,4,Sommerhus,99,2003,-7 %
+Munkegårdsvej 12 5464 Brenderup Fyn,5464,1525000.0,23-09-2010,Auktion,6995,5,Villa,218,1925,-10 %
+Æbleparken 9 5464 Brenderup Fyn,5464,125000.0,14-09-2010,Alm.,664,6,Villa,188,2013,
+Æbleparken 7 5464 Brenderup Fyn,5464,125000.0,10-09-2010,Alm.,634,6,Villa,197,2011,
+Rugvænget 3 5464 Brenderup Fyn,5464,920000.0,08-09-2010,Alm.,7360,4,Villa,125,1970,-8 %
+Bro Skov 4 5464 Brenderup Fyn,5464,120000.0,31-08-2010,Alm.,1071,4,Stuehus,112,1890,
+Skolevej 18 5464 Brenderup Fyn,5464,600000.0,27-08-2010,Alm.,6593,4,Villa,91,1969,-25 %
+Vibevej 5 5464 Brenderup Fyn,5464,1720000.0,17-08-2010,Alm.,21500,3,Sommerhus,80,1968,-14 %
+Rylevej 6 5464 Brenderup Fyn,5464,600000.0,29-07-2010,Fam.,4918,5,Sommerhus,122,2010,
+Havrevænget 24 5464 Brenderup Fyn,5464,295200.0,23-06-2010,Alm.,2108,5,Villa,140,2011,
+Bogensevej 83 5464 Brenderup Fyn,5464,748000.0,18-06-2010,Fam.,5889,4,Villa,127,1956,
+Volpeshøjvej 16 5464 Brenderup Fyn,5464,573000.0,10-06-2010,Alm.,2850,7,Stuehus,201,1902,
+Vejrupvej 50 5464 Brenderup Fyn,5464,2695000.0,09-06-2010,Alm.,9944,9,Villa,271,1870,0 %
+Svalevej 7 5464 Brenderup Fyn,5464,1045000.0,31-05-2010,Alm.,19351,3,Sommerhus,54,1971,0 %
+Rugårdsvej 228 5464 Brenderup Fyn,5464,4000000.0,20-05-2010,Alm.,14492,8,Villa,276,1954,
+Strandgårdsvej 225 5464 Brenderup Fyn,5464,1450000.0,12-05-2010,Alm.,14646,4,Sommerhus,99,2005,-3 %
+Bogensevej 96 5464 Brenderup Fyn,5464,1044613.0,04-05-2010,Alm.,6144,8,Villa,170,1911,-56 %
+Stationsvej 72 5464 Brenderup Fyn,5464,1325000.0,28-04-2010,Alm.,7658,5,Villa,173,1936,-5 %
+Kirkevej 14 5464 Brenderup Fyn,5464,500000.0,25-03-2010,Alm.,6172,3,Villa,81,1900,-31 %
+Skovhaven 3 5464 Brenderup Fyn,5464,655000.0,24-03-2010,Alm.,5458,3,Villa,120,1847,-6 %
+Syrenvej 16 5464 Brenderup Fyn,5464,1550000.0,08-03-2010,Alm.,9872,5,Villa,157,1987,-3 %
+Rugårdsvej 216 5464 Brenderup Fyn,5464,2800000.0,02-03-2010,Alm.,18421,7,Villa,152,1943,
+Brenderupvej 10 5464 Brenderup Fyn,5464,1321869.0,25-02-2010,Fam.,6709,5,Villa,197,1930,
+Mosbækvej 11 5464 Brenderup Fyn,5464,850000.0,22-02-2010,Alm.,3917,7,Stuehus,217,2011,-15 %
+Egelundvej 16A 5464 Brenderup Fyn,5464,1650000.0,10-02-2010,Alm.,11148,5,Villa,148,1998,-8 %
+Engdraget 8 5464 Brenderup Fyn,5464,382500.0,22-01-2010,Fam.,7355,3,Sommerhus,52,1988,
+Strandgårdsvej 219 5464 Brenderup Fyn,5464,1075000.0,19-01-2010,Alm.,10858,4,Sommerhus,99,2003,-20 %
+Pavebakken 8 5464 Brenderup Fyn,5464,721000.0,04-01-2010,Andet,7752,6,Sommerhus,93,1969,
+Holsevej 50 5464 Brenderup Fyn,5464,275000.0,06-12-2009,Alm.,3353,4,Villa,82,1920,
+Bøgelundvej 13 5464 Brenderup Fyn,5464,1375000.0,25-11-2009,Alm.,5544,7,Villa,248,1972,-8 %
+Rugårdsvej 201 5464 Brenderup Fyn,5464,1100000.0,20-11-2009,Alm.,7857,5,Villa,140,1938,
+Bakkevej 27 5464 Brenderup Fyn,5464,1530000.0,17-11-2009,Alm.,19870,4,Sommerhus,77,1999,-4 %
+Kirkevej 2 5464 Brenderup Fyn,5464,100000.0,03-11-2009,Auktion,900,3,Villa,111,1864,
+Irisvej 13 5464 Brenderup Fyn,5464,595000.0,06-10-2009,Fam.,7168,4,Sommerhus,83,1993,
+Ålebakkevej 8 5464 Brenderup Fyn,5464,1000000.0,04-10-2009,Alm.,20000,3,Sommerhus,50,1964,-13 %
+Varbjergvej 50 5464 Brenderup Fyn,5464,1275000.0,22-09-2009,Fam.,0,5,Sommerhus,81,1969,
+Rugårdsvej 195 5464 Brenderup Fyn,5464,3700000.0,22-09-2009,Alm.,13909,13,Villa,266,1910,
+Bogensevej 1 5464 Brenderup Fyn,5464,880000.0,15-09-2009,Alm.,7096,4,Villa,124,1934,
+Nygårdsvej 7 5464 Brenderup Fyn,5464,225000.0,11-09-2009,Alm.,3461,3,Villa,65,1870,
+Brenderupvej 14 5464 Brenderup Fyn,5464,830000.0,21-08-2009,Alm.,6058,3,Villa,137,1913,-7 %
+Gartnervej 12 5464 Brenderup Fyn,5464,1400000.0,16-07-2009,Alm.,8235,5,Villa,170,1877,
+Æbleparken 14 5464 Brenderup Fyn,5464,300000.0,02-07-2009,Alm.,1714,5,Villa,175,2011,-8 %
+Solvej 7 5464 Brenderup Fyn,5464,700000.0,18-06-2009,Alm.,17948,1,Sommerhus,39,1957,
+Mejerivej 15 5464 Brenderup Fyn,5464,1435000.0,20-05-2009,Alm.,8016,9,Villa,179,1935,-10 %
+Åvej 12 5464 Brenderup Fyn,5464,580000.0,20-05-2009,Alm.,29000,1,Sommerhus,20,1989,
+Bygvænget 2 5464 Brenderup Fyn,5464,1310000.0,14-05-2009,Alm.,10155,4,Villa,129,1979,-6 %
+Brovej 7 5464 Brenderup Fyn,5464,1608750.0,17-04-2009,Alm.,6435,7,Villa,250,1850,-8 %
+Varbjergvej 36 5464 Brenderup Fyn,5464,1000000.0,27-03-2009,Alm.,5154,6,Stuehus,194,2016,
+Havrevænget 22 5464 Brenderup Fyn,5464,326320.0,20-03-2009,Alm.,1623,7,Villa,201,2011,
+Strandgårdsvej 91 5464 Brenderup Fyn,5464,1450000.0,18-03-2009,Alm.,14646,4,Sommerhus,99,2005,
+Engvej 13 5464 Brenderup Fyn,5464,1440000.0,12-03-2009,Alm.,3759,7,Villa,383,2010,
+Engdraget 26 5464 Brenderup Fyn,5464,900000.0,23-02-2009,Fam.,11688,4,Sommerhus,77,1989,
+Engdraget 24 5464 Brenderup Fyn,5464,350000.0,23-02-2009,Alm.,38888,1,Sommerhus,9,1959,
+Mågevej 2 5464 Brenderup Fyn,5464,525000.0,16-02-2009,Fam.,6481,3,Sommerhus,81,1967,
+Strandgårdsvej 7 5464 Brenderup Fyn,5464,860000.0,16-02-2009,Fam.,9555,4,Stuehus,90,1961,
+Middelfartvej 233 5464 Brenderup Fyn,5464,500000.0,01-02-2009,Alm.,3846,5,Villa,130,1874,-9 %
+Middelfartvej 283 5464 Brenderup Fyn,5464,1107934.0,01-02-2009,Alm.,8934,5,Villa,124,1877,1 %
+Rugårdsvej 169 5464 Brenderup Fyn,5464,800000.0,26-01-2009,Alm.,10126,3,Villa,79,1949,-9 %
+Engdraget 63 5464 Brenderup Fyn,5464,450500.0,25-01-2009,Fam.,10011,1,Sommerhus,45,1900,
+Bubbelvej 46 5464 Brenderup Fyn,5464,1644705.0,13-12-2008,Alm.,0,7,Stuehus,276,1904,
+Kærsgårdvej 29 5464 Brenderup Fyn,5464,1600000.0,05-12-2008,Alm.,14159,5,Stuehus,113,1877,-11 %
+Skovhaven 15 5464 Brenderup Fyn,5464,895000.0,14-11-2008,Alm.,11933,3,Villa,75,1895,
+Æbleparken 22 5464 Brenderup Fyn,5464,287500.0,03-11-2008,Andet,1459,6,Villa,197,2008,
+Bubbelvej 67 5464 Brenderup Fyn,5464,750000.0,31-10-2008,Alm.,6696,4,Villa,112,1920,-9 %
+Havrevænget 30 5464 Brenderup Fyn,5464,298500.0,07-10-2008,Alm.,0,5,Villa,206,2009,
+Åbjergvej 45 5464 Brenderup Fyn,5464,1300000.0,02-10-2008,Alm.,11403,4,Villa,114,1777,2 %
+Skovhaven 7 5464 Brenderup Fyn,5464,1100000.0,23-09-2008,Alm.,9016,4,Villa,122,1934,-14 %
+Vibevej 9 5464 Brenderup Fyn,5464,1550000.0,12-09-2008,Alm.,14220,4,Sommerhus,109,1967,-3 %
+Søvej 7 5464 Brenderup Fyn,5464,1100000.0,30-08-2008,Alm.,24444,4,Sommerhus,45,1964,-12 %
+Brenderupvej 35 5464 Brenderup Fyn,5464,1125000.0,25-08-2008,Alm.,9868,3,Villa,114,1963,-6 %
+Æbleparken 19 5464 Brenderup Fyn,5464,2195000.0,22-08-2008,Alm.,14346,5,Villa,153,2008,
+Vejrupvej 10 5464 Brenderup Fyn,5464,1600000.0,20-08-2008,Alm.,10191,5,Villa,157,1959,-2 %
+Strandgårdsvej 223 5464 Brenderup Fyn,5464,1550000.0,15-08-2008,Alm.,15656,4,Sommerhus,99,2005,-3 %
+Mejerivej 14 5464 Brenderup Fyn,5464,100000.0,14-08-2008,Alm.,386,6,Stuehus,259,1919,
+Ternevej 2 5464 Brenderup Fyn,5464,925000.0,06-08-2008,Alm.,13805,4,Sommerhus,67,1972,-12 %
+Irisvej 7 5464 Brenderup Fyn,5464,1550000.0,28-07-2008,Alm.,18902,4,Sommerhus,82,1995,-11 %
+Engvej 32 5464 Brenderup Fyn,5464,75000.0,26-07-2008,Alm.,312,5,Villa,240,2009,
+Brenderupvej 31 5464 Brenderup Fyn,5464,1550000.0,14-07-2008,Alm.,10689,4,Villa,145,1920,-3 %
+Kærsgårdvej 38 5464 Brenderup Fyn,5464,1095000.0,09-07-2008,Alm.,8295,3,Villa,132,1900,0 %
+Bro Strandvej 64 5464 Brenderup Fyn,5464,796875.0,02-07-2008,Fam.,15035,3,Sommerhus,53,1932,
+Fyllestedvej 7 5464 Brenderup Fyn,5464,600000.0,23-06-2008,Fam.,2307,14,Stuehus,260,1857,
+Middelfartvej 246 5464 Brenderup Fyn,5464,1735000.0,21-06-2008,Alm.,8807,6,Villa,197,1962,0 %
+Egelundvej 11 5464 Brenderup Fyn,5464,755000.0,20-06-2008,Alm.,6622,5,Villa,114,1902,0 %
+Skovhaven 1 5464 Brenderup Fyn,5464,800000.0,18-06-2008,Fam.,4761,5,Villa,168,1917,
+Elmegårdsvej 30 5464 Brenderup Fyn,5464,1190000.0,18-06-2008,Fam.,8095,5,Stuehus,147,1877,
+Pavebakken 1 5464 Brenderup Fyn,5464,1300000.0,16-06-2008,Alm.,13978,4,Sommerhus,93,1984,-5 %
+Havrevænget 18 5464 Brenderup Fyn,5464,2445000.0,03-06-2008,Alm.,14132,5,Villa,173,2008,-9 %
+Æbleparken 16 5464 Brenderup Fyn,5464,445000.0,01-06-2008,Alm.,3068,4,Villa,145,2013,
+Bubbelvej 36 5464 Brenderup Fyn,5464,2550000.0,29-05-2008,Alm.,10365,6,Stuehus,246,1952,16 %
+Fruerhøjvej 17 5464 Brenderup Fyn,5464,2500000.0,05-05-2008,Alm.,25510,4,Stuehus,98,1864,
+Mosbækvej 9 5464 Brenderup Fyn,5464,1045000.0,26-04-2008,Alm.,8565,4,Villa,122,1952,
+Sneppevej 9 5464 Brenderup Fyn,5464,1412500.0,16-04-2008,Alm.,13985,3,Sommerhus,101,1976,-11 %
+Brovej 10 5464 Brenderup Fyn,5464,9500000.0,15-04-2008,Alm.,0,5,Villa,219,1860,
+Rugårdsvej 214 5464 Brenderup Fyn,5464,900000.0,14-04-2008,Alm.,7031,5,Villa,128,1934,-18 %
+Ternevej 10 5464 Brenderup Fyn,5464,925000.0,12-04-2008,Fam.,10882,4,Sommerhus,85,2004,
+Køstrupvej 9 5464 Brenderup Fyn,5464,643617.0,07-04-2008,Andet,3575,7,Villa,180,1852,
+Søvej 4 5464 Brenderup Fyn,5464,2500000.0,02-04-2008,Alm.,25510,5,Sommerhus,98,1961,0 %
+Fruerhøjvej 66A 5464 Brenderup Fyn,5464,1975000.0,02-04-2008,Alm.,12824,5,Villa,154,1937,
+Holsevej 12 5464 Brenderup Fyn,5464,865000.0,01-04-2008,Alm.,10176,3,Villa,85,1967,0 %
+Holsevej 34 5464 Brenderup Fyn,5464,408000.0,13-03-2008,Fam.,7418,3,Villa,55,1880,
+Strandgårdsvej 73 5464 Brenderup Fyn,5464,1625000.0,11-03-2008,Alm.,16414,4,Sommerhus,99,2004,0 %
+Lybækvej 4 5464 Brenderup Fyn,5464,1900000.0,06-03-2008,Alm.,12500,4,Villa,152,1894,
+Åbjergvej 4 5464 Brenderup Fyn,5464,2250000.0,04-03-2008,Alm.,13005,5,Villa,173,1964,
+Kirkevej 44 5464 Brenderup Fyn,5464,965000.0,03-03-2008,Alm.,0,5,Villa,144,1880,-3 %
+Vejrupvej 52 5464 Brenderup Fyn,5464,3310000.0,31-01-2008,Fam.,17513,8,Stuehus,189,1949,
+Skolevej 16 5464 Brenderup Fyn,5464,1100000.0,25-01-2008,Alm.,11458,3,Villa,96,1966,-6 %
+Fruerhøjvej 16 5464 Brenderup Fyn,5464,1008555.0,24-01-2008,Alm.,9338,4,Villa,108,1950,3 %
+Engdraget 75 5464 Brenderup Fyn,5464,675000.0,20-12-2007,Alm.,15000,2,Sommerhus,45,1983,
+Åvej 8 5464 Brenderup Fyn,5464,680000.0,19-12-2007,Fam.,10461,3,Sommerhus,65,2012,
+Stokrosevej 5 5464 Brenderup Fyn,5464,450000.0,09-12-2007,Alm.,10714,2,Sommerhus,42,1972,
+Engdraget 37 5464 Brenderup Fyn,5464,195500.0,01-12-2007,Fam.,4654,3,Sommerhus,42,1939,
+Ternevej 8 5464 Brenderup Fyn,5464,1250000.0,24-11-2007,Alm.,0,3,Sommerhus,84,1981,-16 %
+Engdraget 49 5464 Brenderup Fyn,5464,1150000.0,19-11-2007,Alm.,31944,2,Sommerhus,36,1940,
+Gartnervej 16 5464 Brenderup Fyn,5464,306000.0,17-11-2007,Fam.,1672,5,Villa,183,2008,
+Gærdet 12 5464 Brenderup Fyn,5464,637500.0,15-11-2007,Fam.,10625,5,Sommerhus,60,1934,
+Engvej 16 5464 Brenderup Fyn,5464,600000.0,01-11-2007,Alm.,5357,4,Villa,112,1963,
+Åbakkevej 12 5464 Brenderup Fyn,5464,1600000.0,29-10-2007,Alm.,0,8,Villa,221,1897,-7 %
+Brovej 15 5464 Brenderup Fyn,5464,1995000.0,25-10-2007,Alm.,8109,4,Villa,246,1875,0 %
+Holsevej 10 5464 Brenderup Fyn,5464,740000.0,11-10-2007,Alm.,7474,3,Villa,99,1966,-10 %
+Bubbelvej 69 5464 Brenderup Fyn,5464,700000.0,09-10-2007,Alm.,6363,4,Villa,110,1880,-17 %
+Æbleparken 25 5464 Brenderup Fyn,5464,1900000.0,28-09-2007,Alm.,14074,4,Villa,135,2009,
+Bogensevej 62 5464 Brenderup Fyn,5464,500000.0,28-09-2007,Fam.,3875,5,Villa,129,1991,
+Solvej 12 5464 Brenderup Fyn,5464,900000.0,26-09-2007,Fam.,18367,2,Sommerhus,49,1958,
+Fyllestedgyden 5 5464 Brenderup Fyn,5464,430266.0,19-09-2007,Fam.,2516,6,Stuehus,171,1827,-77 %
+Lybækvej 7 5464 Brenderup Fyn,5464,850000.0,14-09-2007,Alm.,4086,7,Villa,208,1892,
+Lærkevej 1 5464 Brenderup Fyn,5464,1425000.0,04-09-2007,Alm.,20357,4,Sommerhus,70,1985,
+Rugårdsvej 218 5464 Brenderup Fyn,5464,900000.0,24-08-2007,Alm.,0,8,Villa,163,1912,
+Brovej 5 5464 Brenderup Fyn,5464,1105000.0,17-07-2007,Fam.,10045,5,Stuehus,110,1928,
+Skolevej 19 5464 Brenderup Fyn,5464,1200000.0,03-07-2007,Alm.,10344,5,Villa,116,1926,
+Engdraget 35 5464 Brenderup Fyn,5464,1600000.0,26-06-2007,Alm.,26666,3,Sommerhus,60,1997,-6 %
+Kirkevej 8 5464 Brenderup Fyn,5464,850000.0,12-06-2007,Alm.,7456,5,Villa,114,1912,
+Kærsgårdvej 32 5464 Brenderup Fyn,5464,775000.0,06-06-2007,Alm.,0,6,Villa,135,1877,
+Havrevænget 27 5464 Brenderup Fyn,5464,254041.0,01-06-2007,Alm.,1263,7,Villa,201,2008,
+Fruerhøjvej 41 5464 Brenderup Fyn,5464,1275000.0,25-05-2007,Alm.,12028,6,Villa,106,1917,
+Volpeshøjvej 7 5464 Brenderup Fyn,5464,2444444.0,24-05-2007,Alm.,9738,7,Villa,251,1880,-2 %
+Rugårdsvej 199 5464 Brenderup Fyn,5464,2700000.0,16-05-2007,Alm.,12217,9,Villa,221,1927,
+Egelundvej 35 5464 Brenderup Fyn,5464,885000.0,16-05-2007,Alm.,9030,3,Villa,98,1964,
+Middelfartvej 264 5464 Brenderup Fyn,5464,1450000.0,07-05-2007,Alm.,6531,8,Stuehus,222,1934,
+Bro Strandvej 56 5464 Brenderup Fyn,5464,1400000.0,30-04-2007,Alm.,27450,2,Sommerhus,51,2008,
+Engdraget 36 5464 Brenderup Fyn,5464,750000.0,26-04-2007,Alm.,7575,5,Sommerhus,99,2010,
+Havrevænget 23 5464 Brenderup Fyn,5464,258291.0,04-04-2007,Alm.,1666,5,Villa,155,2009,
+Havrevænget 31 5464 Brenderup Fyn,5464,289211.0,26-03-2007,Alm.,1865,5,Villa,155,2008,
+Havrevænget 29 5464 Brenderup Fyn,5464,263221.0,26-03-2007,Alm.,1336,6,Villa,197,2008,
+Åbjergvej 27 5464 Brenderup Fyn,5464,740000.0,23-03-2007,Alm.,5781,3,Villa,128,1955,
+Havrevænget 37 5464 Brenderup Fyn,5464,279871.0,20-03-2007,Alm.,1706,5,Villa,164,2008,
+Havrevænget 25 5464 Brenderup Fyn,5464,351199.0,20-03-2007,Alm.,1469,7,Villa,239,2008,
+Havrevænget 35 5464 Brenderup Fyn,5464,277311.0,19-03-2007,Alm.,1824,5,Villa,152,2008,
+Bogensevej 65 5464 Brenderup Fyn,5464,730000.0,19-02-2007,Fam.,7300,3,Villa,100,1956,
+Stokrosevej 11 5464 Brenderup Fyn,5464,825000.0,17-02-2007,Alm.,7236,4,Sommerhus,114,2009,0 %
+Åbakkevej 17 5464 Brenderup Fyn,5464,2250000.0,02-02-2007,Fam.,11658,6,Stuehus,193,1880,
+Rugårdsvej 123 5464 Brenderup Fyn,5464,340000.0,25-01-2007,Fam.,3333,3,Villa,102,1890,
+Kærsgårdvej 2 5464 Brenderup Fyn,5464,442000.0,25-01-2007,Fam.,4250,5,Villa,104,1900,
+Kærsgårdvej 4 5464 Brenderup Fyn,5464,518500.0,25-01-2007,Fam.,4082,5,Villa,127,1900,
+Kærsgårdvej 6 5464 Brenderup Fyn,5464,416500.0,25-01-2007,Fam.,4338,4,Villa,96,1900,
+Kærsgårdvej 8 5464 Brenderup Fyn,5464,425000.0,25-01-2007,Fam.,4427,4,Villa,96,1900,
+Fyllestedgyden 2 5464 Brenderup Fyn,5464,408000.0,25-01-2007,Fam.,4533,3,Villa,90,1900,
+Fyllestedgyden 4 5464 Brenderup Fyn,5464,425000.0,25-01-2007,Fam.,4829,4,Villa,88,1920,
+Nygårdsvej 1 5464 Brenderup Fyn,5464,700000.0,17-01-2007,Alm.,5511,3,Villa,127,1952,
+Havrevænget 41 5464 Brenderup Fyn,5464,212790.0,16-01-2007,Alm.,1085,6,Villa,196,2009,
+Brenderupvej 17 5464 Brenderup Fyn,5464,1100000.0,10-01-2007,Alm.,7857,7,Villa,140,1932,
+Egelundvej 54 5464 Brenderup Fyn,5464,1175000.0,10-01-2007,Alm.,0,6,Villa,181,1964,
+Fyllestedvej 29 5464 Brenderup Fyn,5464,100000.0,01-01-2007,Alm.,239,10,Stuehus,418,1856,
+Bogensevej 38 5464 Brenderup Fyn,5464,1275000.0,08-12-2006,Fam.,7083,6,Stuehus,180,1865,
+Strandgårdsvej 213 5464 Brenderup Fyn,5464,700000.0,07-12-2006,Andet,7070,4,Sommerhus,99,2003,
+Havrevænget 39 5464 Brenderup Fyn,5464,212790.0,23-11-2006,Alm.,1758,4,Villa,121,2008,
+Havrevænget 8 5464 Brenderup Fyn,5464,208030.0,23-11-2006,Alm.,1168,7,Villa,178,2007,
+Middelfartvej 252 5464 Brenderup Fyn,5464,595000.0,13-11-2006,Alm.,5042,5,Villa,118,1912,
+Bogensevej 51 5464 Brenderup Fyn,5464,1500000.0,13-11-2006,Alm.,10416,5,Villa,144,1933,
+Søvej 26 5464 Brenderup Fyn,5464,680000.0,10-11-2006,Fam.,9855,4,Sommerhus,69,1964,
+Havrevænget 10 5464 Brenderup Fyn,5464,254100.0,09-11-2006,Alm.,1578,5,Villa,161,2007,
+Nygårdsvej 2 5464 Brenderup Fyn,5464,2795000.0,02-11-2006,Alm.,7742,9,Stuehus,361,1912,
+Fruerhøjvej 54 5464 Brenderup Fyn,5464,2750000.0,25-10-2006,Alm.,10147,9,Villa,271,1936,
+Rugårdsvej 208 5464 Brenderup Fyn,5464,600000.0,22-10-2006,Fam.,4000,5,Villa,150,1953,
+Brenderupvej 11 5464 Brenderup Fyn,5464,750000.0,22-09-2006,Alm.,4870,6,Villa,154,1887,
+Kirkevej 12 5464 Brenderup Fyn,5464,600000.0,19-09-2006,Alm.,7228,2,Villa,83,1887,
+Strandgårdsvej 115 5464 Brenderup Fyn,5464,1498000.0,18-09-2006,Alm.,15131,4,Sommerhus,99,2006,
+Strandgårdsvej 113 5464 Brenderup Fyn,5464,1498000.0,18-09-2006,Alm.,15131,4,Sommerhus,99,2005,
+Strandgårdsvej 117 5464 Brenderup Fyn,5464,1498000.0,18-09-2006,Alm.,15131,4,Sommerhus,99,2006,
+Strandgårdsvej 251 5464 Brenderup Fyn,5464,1548000.0,28-08-2006,Alm.,15636,4,Sommerhus,99,2006,
+Stationsvej 30 5464 Brenderup Fyn,5464,557265.0,21-08-2006,Auktion,4567,6,Villa,122,1913,
+Syrenvej 29 5464 Brenderup Fyn,5464,1605000.0,26-07-2006,Alm.,10629,3,Villa,151,1977,
+Svalevej 1 5464 Brenderup Fyn,5464,1075000.0,25-07-2006,Alm.,20673,3,Sommerhus,52,1968,
+Strandgårdsvej 32 5464 Brenderup Fyn,5464,960000.0,08-07-2006,Alm.,0,4,Sommerhus,82,1975,
+Åvej 14 5464 Brenderup Fyn,5464,980000.0,01-07-2006,Alm.,28000,2,Sommerhus,35,1957,
+Åbjergvej 25 5464 Brenderup Fyn,5464,650000.0,22-06-2006,Alm.,2610,7,Villa,249,2008,
+Bogensevej 93 5464 Brenderup Fyn,5464,373745.0,06-06-2006,Andet,2632,5,Villa,142,1950,
+Brovej 13 5464 Brenderup Fyn,5464,296406.0,05-06-2006,Andet,2117,5,Stuehus,140,1827,
+Holsevej 28 5464 Brenderup Fyn,5464,387931.0,29-05-2006,Alm.,2916,5,Villa,133,1900,
+Strandgårdsvej 69 5464 Brenderup Fyn,5464,1395000.0,29-05-2006,Alm.,14090,4,Sommerhus,99,2004,
+Bro Strandvej 54 5464 Brenderup Fyn,5464,1800000.0,24-05-2006,Alm.,35294,2,Sommerhus,51,1935,
+Skovhaven 13 5464 Brenderup Fyn,5464,765000.0,23-05-2006,Alm.,6891,5,Villa,111,1877,
+Solvej 14 5464 Brenderup Fyn,5464,1095000.0,15-05-2006,Alm.,22346,2,Sommerhus,49,1937,
+Strandgårdsvej 111 5464 Brenderup Fyn,5464,1498000.0,08-05-2006,Alm.,15131,4,Sommerhus,99,2005,
+Strandgårdsvej 119 5464 Brenderup Fyn,5464,1498000.0,08-05-2006,Alm.,15131,4,Rækkehus,99,2006,
+Strandgårdsvej 231 5464 Brenderup Fyn,5464,1463000.0,08-05-2006,Alm.,14777,4,Sommerhus,99,2005,
+Strandgårdsvej 253 5464 Brenderup Fyn,5464,1548000.0,08-05-2006,Alm.,15636,4,Sommerhus,99,2006,
+Strandgårdsvej 245 5464 Brenderup Fyn,5464,1528000.0,02-05-2006,Alm.,15434,4,Sommerhus,99,2005,
+Strandgårdsvej 235 5464 Brenderup Fyn,5464,1528000.0,02-05-2006,Alm.,15280,4,Sommerhus,100,2006,
+Strandgårdsvej 233 5464 Brenderup Fyn,5464,1443000.0,02-05-2006,Alm.,14575,4,Sommerhus,99,2005,
+Strandgårdsvej 247 5464 Brenderup Fyn,5464,1528000.0,02-05-2006,Alm.,15434,4,Sommerhus,99,2005,
+Strandgårdsvej 227 5464 Brenderup Fyn,5464,1528000.0,02-05-2006,Alm.,15434,4,Sommerhus,99,2005,
+Strandgårdsvej 237 5464 Brenderup Fyn,5464,1463000.0,02-05-2006,Alm.,14630,4,Sommerhus,100,2006,
+Brenderupvej 6 5464 Brenderup Fyn,5464,775000.0,01-05-2006,Alm.,7045,5,Engroshandel,110,1906,
+Strandgårdsvej 249 5464 Brenderup Fyn,5464,1548000.0,30-04-2006,Alm.,15636,4,Sommerhus,99,2005,
+Strandgårdsvej 243 5464 Brenderup Fyn,5464,1548000.0,29-04-2006,Alm.,15636,4,Sommerhus,99,2005,
+Strandgårdsvej 239 5464 Brenderup Fyn,5464,1548000.0,25-04-2006,Alm.,15636,4,Sommerhus,99,2005,
+Kirkevej 21 5464 Brenderup Fyn,5464,725000.0,24-04-2006,Alm.,4393,6,Villa,165,1899,
+Middelfartvej 277 5464 Brenderup Fyn,5464,930000.0,12-04-2006,Alm.,5776,7,Villa,161,1911,
+Strandgårdsvej 19 5464 Brenderup Fyn,5464,1560000.0,12-04-2006,Alm.,15757,4,Sommerhus,99,2003,
+Engdraget 21 5464 Brenderup Fyn,5464,150000.0,16-03-2006,Alm.,2500,3,Sommerhus,60,2007,
+Havrevænget 16 5464 Brenderup Fyn,5464,290710.0,15-03-2006,Alm.,1571,7,Villa,185,2006,
+Sneppevej 4 5464 Brenderup Fyn,5464,1678099.0,14-03-2006,Alm.,18855,4,Sommerhus,89,2004,
+Syrenvej 13B 5464 Brenderup Fyn,5464,1240000.0,06-03-2006,Alm.,8611,3,Villa,144,1995,
+Syrenvej 17 5464 Brenderup Fyn,5464,393511.0,06-03-2006,Andet,3392,4,Villa,116,1980,
+Bøgelundvej 7 5464 Brenderup Fyn,5464,1035000.0,17-02-2006,Alm.,7554,4,Villa,137,1966,
+Bubbelvej 71 5464 Brenderup Fyn,5464,602300.0,13-02-2006,Alm.,4633,5,Villa,130,1911,
+Munkegårdsvej 6 5464 Brenderup Fyn,5464,1005000.0,06-02-2006,Alm.,9950,3,Villa,101,1967,
+Havrevænget 12 5464 Brenderup Fyn,5464,207340.0,23-01-2006,Alm.,955,7,Villa,217,2007,
+Middelfartvej 273 5464 Brenderup Fyn,5464,795000.0,16-01-2006,Alm.,6463,6,Villa,123,1927,
+Vibevej 12 5464 Brenderup Fyn,5464,1360000.0,10-01-2006,Alm.,10000,5,Sommerhus,136,1973,
+Brovangen 12 5464 Brenderup Fyn,5464,760000.0,31-12-2005,Fam.,3937,7,Villa,193,1800,
+Bakkevej 6 5464 Brenderup Fyn,5464,1290000.0,12-12-2005,Alm.,32250,3,Sommerhus,40,1973,
+Strandgårdsvej 95 5464 Brenderup Fyn,5464,1448000.0,11-11-2005,Alm.,14626,4,Sommerhus,99,2005,
+Skolevej 20 5464 Brenderup Fyn,5464,600000.0,07-11-2005,Fam.,5263,5,Villa,114,1956,
+Bubbelvej 85 5464 Brenderup Fyn,5464,1527000.0,31-10-2005,Alm.,8036,5,Villa,190,1777,
+Fuglsangvej 11 5464 Brenderup Fyn,5464,1565000.0,18-10-2005,Alm.,10032,5,Villa,156,1827,
+Bogensevej 72 5464 Brenderup Fyn,5464,1495000.0,03-10-2005,Alm.,17797,4,Villa,84,1923,
+Bogensevej 114 5464 Brenderup Fyn,5464,1377000.0,28-09-2005,Alm.,8196,5,Villa,168,1945,
+Strandgårdsvej 187 5464 Brenderup Fyn,5464,1600000.0,22-09-2005,Alm.,16161,4,Sommerhus,99,2003,
+Vejrupvej 14 5464 Brenderup Fyn,5464,1600000.0,19-09-2005,Andet,9756,6,Stuehus,164,1930,
+Pavebakken 7 5464 Brenderup Fyn,5464,1510000.0,19-09-2005,Alm.,20133,3,Sommerhus,75,1975,
+Vibevej 7 5464 Brenderup Fyn,5464,1100000.0,12-09-2005,Alm.,20000,2,Sommerhus,55,1968,
+Rugårdsvej 224 5464 Brenderup Fyn,5464,361530.0,29-08-2005,Andet,2510,4,Villa,144,1928,
+Gartnervej 3 5464 Brenderup Fyn,5464,1340000.0,26-08-2005,Alm.,7403,6,Villa,181,1912,
+Bøgholmvej 13 5464 Brenderup Fyn,5464,1327000.0,24-08-2005,Alm.,0,7,Villa,228,1934,
+Vejrupvej 54 5464 Brenderup Fyn,5464,525000.0,11-08-2005,Alm.,4816,3,Villa,109,1877,
+Bogensevej 82 5464 Brenderup Fyn,5464,380791.0,03-08-2005,Andet,2410,6,Villa,158,1918,
+Strandgårdsvej 203 5464 Brenderup Fyn,5464,1398000.0,01-08-2005,Alm.,14121,4,Sommerhus,99,2003,
+Irisvej 18 5464 Brenderup Fyn,5464,999000.0,27-07-2005,Alm.,0,5,Sommerhus,106,2007,
+Kirkevej 4 5464 Brenderup Fyn,5464,537000.0,27-07-2005,Andet,3487,4,Villa,154,1877,
+Vibevej 1 5464 Brenderup Fyn,5464,951256.0,15-07-2005,Alm.,21139,3,Sommerhus,45,1965,
+Åbjergvej 12 5464 Brenderup Fyn,5464,795000.0,14-07-2005,Alm.,6625,4,Villa,120,1827,
+Åvej 2 5464 Brenderup Fyn,5464,975000.0,11-07-2005,Alm.,24375,2,Sommerhus,40,1960,
+Havrevænget 19 5464 Brenderup Fyn,5464,1600000.0,06-07-2005,Alm.,10526,5,Villa,152,1999,
+Søvej 15 5464 Brenderup Fyn,5464,1045000.0,03-07-2005,Alm.,15367,4,Sommerhus,68,1976,
+Stationsvej 31 5464 Brenderup Fyn,5464,675000.0,27-06-2005,Alm.,5075,5,Villa,133,1932,
+Skolevej 17 5464 Brenderup Fyn,5464,1425000.0,24-06-2005,Alm.,8382,6,Villa,170,1930,
+Bakkevej 8 5464 Brenderup Fyn,5464,1175000.0,19-06-2005,Alm.,30128,3,Sommerhus,39,1997,
+Solvej 13 5464 Brenderup Fyn,5464,845000.0,17-06-2005,Alm.,32500,1,Sommerhus,26,1990,
+Bekkasinvej 6 5464 Brenderup Fyn,5464,885000.0,16-06-2005,Alm.,14750,4,Sommerhus,60,1974,
+Brenderupvej 13 5464 Brenderup Fyn,5464,485000.0,06-06-2005,Alm.,5271,3,Villa,92,1877,
+Nygårdsvej 32 5464 Brenderup Fyn,5464,500000.0,06-06-2005,Alm.,3333,5,Stuehus,150,1878,
+Vejrupvej 31 5464 Brenderup Fyn,5464,308500.0,20-05-2005,Alm.,0,5,Stuehus,251,1911,
+Strandgårdsvej 89 5464 Brenderup Fyn,5464,1428000.0,20-05-2005,Alm.,14424,4,Sommerhus,99,2005,
+Engdraget 55 5464 Brenderup Fyn,5464,200000.0,08-05-2005,Alm.,4545,3,Sommerhus,44,2006,
+Middelfartvej 260 5464 Brenderup Fyn,5464,892500.0,03-05-2005,Alm.,6918,4,Villa,129,1852,
+Strandgårdsvej 81 5464 Brenderup Fyn,5464,1398000.0,02-05-2005,Alm.,14121,4,Sommerhus,99,2004,
+Strandgårdsvej 93 5464 Brenderup Fyn,5464,1448000.0,02-05-2005,Alm.,14626,4,Sommerhus,99,2005,
+Strandgårdsvej 97 5464 Brenderup Fyn,5464,1428000.0,02-05-2005,Alm.,14424,4,Sommerhus,99,2005,
+Strandgårdsvej 109 5464 Brenderup Fyn,5464,1448000.0,02-05-2005,Alm.,14626,4,Sommerhus,99,2005,
+Brenderupvej 26 5464 Brenderup Fyn,5464,865000.0,29-04-2005,Alm.,0,5,Villa,139,1910,
+Strandgårdsvej 87 5464 Brenderup Fyn,5464,1448000.0,24-04-2005,Alm.,14626,4,Sommerhus,99,2005,
+Skolevej 3 5464 Brenderup Fyn,5464,450000.0,18-04-2005,Fam.,2445,5,Villa,184,1942,
+Engdraget 45 5464 Brenderup Fyn,5464,945000.0,17-04-2005,Alm.,24230,2,Sommerhus,39,1951,
+Bygvænget 7 5464 Brenderup Fyn,5464,910000.0,12-04-2005,Alm.,0,6,Villa,195,1976,
+Engdraget 10 5464 Brenderup Fyn,5464,1250000.0,11-04-2005,Alm.,9398,6,Sommerhus,133,1983,
+Brenderup Skov 9 5464 Brenderup Fyn,5464,1185000.0,08-04-2005,Alm.,11617,4,Sommerhus,102,1850,
+Åvej 3 5464 Brenderup Fyn,5464,442000.0,06-04-2005,Fam.,8036,2,Sommerhus,55,1951,
+Kirkevej 33 5464 Brenderup Fyn,5464,550000.0,30-03-2005,Alm.,4621,4,Villa,119,1953,
+Køstrupvej 16 5464 Brenderup Fyn,5464,1550000.0,23-03-2005,Alm.,6652,6,Stuehus,233,1890,
+Engvej 30 5464 Brenderup Fyn,5464,146200.0,21-03-2005,Fam.,825,6,Stuehus,177,1877,
+Syrenvej 4B 5464 Brenderup Fyn,5464,870000.0,17-03-2005,Alm.,8055,4,Villa,108,1986,
+Mågevej 7 5464 Brenderup Fyn,5464,765000.0,14-03-2005,Alm.,15612,3,Sommerhus,49,1968,
+Kærsgårdvej 47 5464 Brenderup Fyn,5464,340000.0,15-02-2005,Alm.,7391,2,Villa,46,1952,
+Middelfartvej 238 5464 Brenderup Fyn,5464,340000.0,28-01-2005,Alm.,3400,6,Villa,100,1887,
+Middelfartvej 248 5464 Brenderup Fyn,5464,937500.0,28-01-2005,Alm.,6127,6,Villa,153,1984,
+Åbakkevej 55 5464 Brenderup Fyn,5464,100450.0,11-01-2005,Alm.,0,5,Villa,185,2005,
+Stationsvej 32 5464 Brenderup Fyn,5464,850000.0,10-01-2005,Alm.,6343,6,Villa,134,1912,
+Middelfartvej 227 5464 Brenderup Fyn,5464,730000.0,01-12-2004,Alm.,3258,4,Villa,224,1907,
+Søvej 28 5464 Brenderup Fyn,5464,495000.0,29-11-2004,Fam.,5265,5,Sommerhus,94,2012,
+Rugårdsvej 252 5464 Brenderup Fyn,5464,650000.0,29-11-2004,Alm.,6914,3,Villa,94,1890,
+Engdraget 41 5464 Brenderup Fyn,5464,289000.0,29-11-2004,Andet,5254,4,Sommerhus,55,1957,
+Ålebakkevej 19 5464 Brenderup Fyn,5464,433500.0,22-11-2004,Fam.,7474,3,Sommerhus,58,1966,
+Bro Strandvej 58 5464 Brenderup Fyn,5464,357000.0,05-11-2004,Fam.,8925,2,Sommerhus,40,1960,
+Sneppevej 6 5464 Brenderup Fyn,5464,200000.0,25-10-2004,Alm.,2439,4,Sommerhus,82,2005,
+Fuglsangvej 5 5464 Brenderup Fyn,5464,730000.0,06-10-2004,Alm.,0,5,Villa,191,1919,
+Solbakkevej 20 5464 Brenderup Fyn,5464,428751.0,29-08-2004,Alm.,3933,3,Villa,109,1937,
+Søvej 32 5464 Brenderup Fyn,5464,527000.0,26-08-2004,Fam.,7319,3,Sommerhus,72,1960,
+Ternevej 6 5464 Brenderup Fyn,5464,875000.0,16-08-2004,Alm.,11986,4,Sommerhus,73,1970,
+Bogensevej 78 5464 Brenderup Fyn,5464,783000.0,06-07-2004,Alm.,6117,7,Villa,128,1911,
+Bro Strandvej 50 5464 Brenderup Fyn,5464,155000.0,24-06-2004,Alm.,3163,3,Sommerhus,49,1920,
+Bro Strandvej 52 5464 Brenderup Fyn,5464,155000.0,24-06-2004,Alm.,0,3,Sommerhus,50,1925,
+Skolevej 5 5464 Brenderup Fyn,5464,700000.0,31-05-2004,Alm.,6363,3,Villa,110,1960,
+Engvej 26 5464 Brenderup Fyn,5464,603416.0,21-05-2004,Alm.,3389,5,Villa,178,1880,
+Engdraget 6 5464 Brenderup Fyn,5464,576000.0,18-05-2004,Fam.,10105,4,Sommerhus,57,1973,
+Engdraget 42 5464 Brenderup Fyn,5464,400000.0,14-05-2004,Alm.,5479,4,Sommerhus,73,2005,
+Skovhaven 34 5464 Brenderup Fyn,5464,1185000.0,10-05-2004,Alm.,10772,5,Villa,110,1934,
+Strandgårdsvej 71 5464 Brenderup Fyn,5464,1428000.0,10-05-2004,Alm.,14424,4,Sommerhus,99,2004,
+Strandgårdsvej 59 5464 Brenderup Fyn,5464,1448000.0,10-05-2004,Alm.,14626,4,Sommerhus,99,2004,
+Sneppevej 10 5464 Brenderup Fyn,5464,875000.0,06-05-2004,Alm.,12681,4,Sommerhus,69,1992,
+Bakkevej 14 5464 Brenderup Fyn,5464,727000.0,01-05-2004,Alm.,9087,3,Sommerhus,80,1966,
+Bakkevej 19 5464 Brenderup Fyn,5464,580000.0,30-04-2004,Alm.,10357,2,Sommerhus,56,1969,
+Bro Skov 17 5464 Brenderup Fyn,5464,745000.0,25-04-2004,Alm.,9312,4,Villa,80,1825,
+Rylevej 8 5464 Brenderup Fyn,5464,600000.0,15-04-2004,Alm.,4580,5,Sommerhus,131,2005,
+Skolevej 14 5464 Brenderup Fyn,5464,695000.0,15-04-2004,Alm.,0,6,Villa,179,1942,
+Åbjergvej 13 5464 Brenderup Fyn,5464,400000.0,13-04-2004,Alm.,3809,3,Villa,105,1946,
+Ålebakkevej 4 5464 Brenderup Fyn,5464,247500.0,13-04-2004,Fam.,6689,3,Sommerhus,37,1969,
+Engvej 8 5464 Brenderup Fyn,5464,780000.0,29-03-2004,Alm.,0,5,Villa,149,1912,
+Brovangen 28 5464 Brenderup Fyn,5464,1615000.0,26-03-2004,Alm.,7690,4,Stuehus,210,1896,
+Åvej 10 5464 Brenderup Fyn,5464,300000.0,24-03-2004,Alm.,6122,2,Sommerhus,49,2005,
+Strandgårdsvej 217 5464 Brenderup Fyn,5464,1428000.0,09-03-2004,Alm.,14424,4,Sommerhus,99,2003,
+Bryggervej 12 5464 Brenderup Fyn,5464,20000.0,10-02-2004,Alm.,75,8,Villa,266,1870,
+Bekkasinvej 4 5464 Brenderup Fyn,5464,220000.0,09-02-2004,Alm.,2291,4,Sommerhus,96,2004,
+Strandgårdsvej 193 5464 Brenderup Fyn,5464,1448000.0,21-01-2004,Alm.,14626,4,Sommerhus,99,2003,
+Strandgårdsvej 45 5464 Brenderup Fyn,5464,1378000.0,12-01-2004,Alm.,13919,4,Sommerhus,99,2003,
+Stationsvej 15 5464 Brenderup Fyn,5464,305000.0,05-01-2004,Alm.,2147,5,Villa,142,1970,
+Holsevej 7 5464 Brenderup Fyn,5464,80000.0,15-12-2003,Alm.,454,7,Stuehus,176,1810,
+Brenderupvej 33 5464 Brenderup Fyn,5464,859690.0,27-11-2003,Alm.,3207,6,Villa,268,1923,
+Strandgårdsvej 209 5464 Brenderup Fyn,5464,1448000.0,29-10-2003,Alm.,14626,4,Sommerhus,99,2003,
+Bekkasinvej 2 5464 Brenderup Fyn,5464,600000.0,22-10-2003,Alm.,5769,4,Sommerhus,104,1974,
+Bogensevej 106 5464 Brenderup Fyn,5464,300000.0,11-10-2003,Alm.,2500,4,Villa,120,1942,
+Strandgårdsvej 189 5464 Brenderup Fyn,5464,1448000.0,06-10-2003,Alm.,14626,4,Sommerhus,99,2003,
+Brenderupvej 49 5464 Brenderup Fyn,5464,490000.0,29-09-2003,Alm.,4803,6,Villa,102,1928,
+Vejrupvej 36 5464 Brenderup Fyn,5464,1125000.0,29-09-2003,Alm.,6736,7,Villa,167,1915,
+Strandgårdsvej 43 5464 Brenderup Fyn,5464,1378000.0,29-09-2003,Alm.,13919,4,Sommerhus,99,2003,
+Strandgårdsvej 211 5464 Brenderup Fyn,5464,1448000.0,29-09-2003,Alm.,14626,4,Sommerhus,99,2003,
+Strandgårdsvej 191 5464 Brenderup Fyn,5464,1448000.0,28-09-2003,Alm.,14626,4,Sommerhus,99,2003,
+Middelfartvej 274 5464 Brenderup Fyn,5464,525000.0,22-09-2003,Alm.,4233,3,Villa,124,1908,
+Søvej 20 5464 Brenderup Fyn,5464,1270000.0,22-09-2003,Alm.,25400,3,Sommerhus,50,1961,
+Elmegårdsvej 9 5464 Brenderup Fyn,5464,1480000.0,18-09-2003,Alm.,8000,8,Stuehus,185,1600,
+Havrevænget 6 5464 Brenderup Fyn,5464,950000.0,05-09-2003,Alm.,5367,6,Villa,177,1967,
+Varbjergvej 29 5464 Brenderup Fyn,5464,600000.0,01-08-2003,Alm.,5555,4,Sommerhus,108,1870,
+Fyllestedgyden 7 5464 Brenderup Fyn,5464,525000.0,30-07-2003,Alm.,2966,7,Stuehus,177,1882,
+Ternevej 7 5464 Brenderup Fyn,5464,760000.0,21-07-2003,Alm.,0,3,Sommerhus,92,1982,
+Egelundvej 10 5464 Brenderup Fyn,5464,800000.0,14-07-2003,Fam.,5128,4,Villa,156,1870,
+Engdraget 69 5464 Brenderup Fyn,5464,395000.0,12-07-2003,Alm.,8777,3,Sommerhus,45,1953,
+Bøgelundvej 3 5464 Brenderup Fyn,5464,850000.0,07-07-2003,Alm.,6439,5,Villa,132,1974,
+Vejrup Mark 3 5464 Brenderup Fyn,5464,1170000.0,07-07-2003,Alm.,9140,5,Stuehus,128,1900,
+Holsevej 4 5464 Brenderup Fyn,5464,650000.0,03-07-2003,Alm.,5416,4,Villa,120,1969,
+Søvej 16 5464 Brenderup Fyn,5464,850000.0,02-07-2003,Fam.,6910,4,Sommerhus,123,1963,
+Strandgårdsvej 36 5464 Brenderup Fyn,5464,435000.0,01-07-2003,Fam.,5506,4,Sommerhus,79,2011,
+Middelfartvej 272 5464 Brenderup Fyn,5464,1134480.0,29-06-2003,Alm.,5817,7,Villa,195,1897,
+Drosselvej 21 5464 Brenderup Fyn,5464,1190000.0,23-06-2003,Alm.,10917,4,Sommerhus,109,2004,
+Bogensevej 58 5464 Brenderup Fyn,5464,705000.0,22-06-2003,Alm.,4519,6,Villa,156,1900,
+Engdraget 20 5464 Brenderup Fyn,5464,500000.0,20-06-2003,Alm.,10638,3,Sommerhus,47,1976,
+Rylevej 1 5464 Brenderup Fyn,5464,605000.0,17-06-2003,Alm.,0,4,Sommerhus,56,1971,
+Bro Skov 12 5464 Brenderup Fyn,5464,530000.0,14-06-2003,Alm.,3117,5,Villa,170,2008,
+Strandgårdsvej 35 5464 Brenderup Fyn,5464,1378000.0,13-06-2003,Alm.,13919,4,Sommerhus,99,2003,
+Strandgårdsvej 51 5464 Brenderup Fyn,5464,1383000.0,09-06-2003,Alm.,13969,4,Sommerhus,99,2003,
+Sneppevej 5 5464 Brenderup Fyn,5464,828676.0,27-05-2003,Alm.,10489,2,Sommerhus,79,1976,
+Strandgårdsvej 199 5464 Brenderup Fyn,5464,1398000.0,26-05-2003,Alm.,14121,4,Sommerhus,99,2003,
+Blokhusvej 6 5464 Brenderup Fyn,5464,750000.0,19-05-2003,Alm.,6198,5,Villa,121,1956,
+Strandgårdsvej 49 5464 Brenderup Fyn,5464,1393000.0,12-05-2003,Alm.,14070,4,Sommerhus,99,2003,
+Strandgårdsvej 55 5464 Brenderup Fyn,5464,1378000.0,12-05-2003,Alm.,13919,4,Sommerhus,99,2003,
+Strandgårdsvej 197 5464 Brenderup Fyn,5464,1448000.0,10-05-2003,Alm.,14626,4,Sommerhus,99,2003,
+Strandgårdsvej 195 5464 Brenderup Fyn,5464,1448000.0,02-05-2003,Alm.,14626,4,Sommerhus,99,2003,
+Skolevej 4 5464 Brenderup Fyn,5464,850000.0,30-04-2003,Alm.,5379,6,Villa,158,1964,
+Solvej 5 5464 Brenderup Fyn,5464,300000.0,28-04-2003,Alm.,6000,2,Sommerhus,50,1970,
+"Middelfartvej 217, 1 5464 Brenderup Fyn",5464,900000.0,09-04-2003,Alm.,4736,2,Lejlighed,190,1897,
+Bro Strandvej 32 5464 Brenderup Fyn,5464,197593.0,07-04-2003,Fam.,0,3,Sommerhus,47,1960,
+Havrevænget 5 5464 Brenderup Fyn,5464,1050000.0,30-03-2003,Fam.,6562,6,Villa,160,1972,
+Køstrupvej 26 5464 Brenderup Fyn,5464,4300000.0,28-03-2003,Alm.,40952,3,Stuehus,105,1900,
+Engdraget 46 5464 Brenderup Fyn,5464,197500.0,24-03-2003,Fam.,3950,3,Sommerhus,50,1955,
+Varbjergvej 14 5464 Brenderup Fyn,5464,50000.0,10-03-2003,Alm.,289,5,Stuehus,173,1910,
+Syrenvej 13A 5464 Brenderup Fyn,5464,760000.0,31-01-2003,Alm.,8444,3,Villa,90,1990,
+Nygårdsvej 33 5464 Brenderup Fyn,5464,440000.0,21-01-2003,Alm.,4230,5,Villa,104,1912,
+Gærdet 4 5464 Brenderup Fyn,5464,85000.0,24-12-2002,Fam.,4250,1,Sommerhus,20,1931,
+Bakkevej 20 5464 Brenderup Fyn,5464,400000.0,19-12-2002,Fam.,0,4,Sommerhus,63,1968,
+Engdraget 11 5464 Brenderup Fyn,5464,85000.0,17-12-2002,Fam.,0,4,Sommerhus,81,1930,
+Søvej 9 5464 Brenderup Fyn,5464,800000.0,11-12-2002,Alm.,0,7,Sommerhus,85,1967,
+Nymarken 5 5464 Brenderup Fyn,5464,1000000.0,28-11-2002,Alm.,0,9,Stuehus,228,1948,
+Søvej 34 5464 Brenderup Fyn,5464,1200000.0,27-11-2002,Alm.,0,4,Sommerhus,106,1960,
+Kirkevej 19 5464 Brenderup Fyn,5464,400000.0,06-11-2002,Alm.,4000,4,Villa,100,1900,
+Rylevej 4 5464 Brenderup Fyn,5464,765000.0,01-11-2002,Alm.,7285,4,Sommerhus,105,1984,
+Drosselvej 17 5464 Brenderup Fyn,5464,306000.0,21-10-2002,Fam.,0,3,Sommerhus,72,1961,
+Havrevænget 20 5464 Brenderup Fyn,5464,193240.0,20-10-2002,Alm.,1351,5,Villa,143,2004,
+Drosselvej 19 5464 Brenderup Fyn,5464,510000.0,09-10-2002,Fam.,5543,6,Sommerhus,92,1986,
+Bogensevej 86 5464 Brenderup Fyn,5464,380000.0,23-09-2002,Alm.,5937,3,Villa,64,1902,
+Bekkasinvej 7 5464 Brenderup Fyn,5464,750000.0,23-09-2002,Alm.,9375,3,Sommerhus,80,1972,
+Middelfartvej 299 5464 Brenderup Fyn,5464,1115608.0,10-09-2002,Alm.,5578,5,Villa,200,1937,
+Åvej 15 5464 Brenderup Fyn,5464,580267.0,05-09-2002,Alm.,9359,3,Sommerhus,62,2009,
+Middelfartvej 265 5464 Brenderup Fyn,5464,430500.0,09-08-2002,Alm.,5381,4,Villa,80,1677,
+Engvej 5 5464 Brenderup Fyn,5464,500000.0,31-07-2002,Alm.,4807,4,Villa,104,1934,
+Engdraget 28 5464 Brenderup Fyn,5464,355000.0,30-07-2002,Alm.,0,4,Sommerhus,66,1961,
+Bakkevej 12 5464 Brenderup Fyn,5464,1195000.0,12-07-2002,Alm.,10301,4,Sommerhus,116,1960,
+Bogensevej 90 5464 Brenderup Fyn,5464,555000.0,10-07-2002,Fam.,5285,4,Stuehus,105,1909,
+Svalevej 9 5464 Brenderup Fyn,5464,563370.0,04-07-2002,Alm.,8284,4,Sommerhus,68,1972,
+Varbjergvej 13 5464 Brenderup Fyn,5464,540000.0,31-05-2002,Alm.,4462,6,Villa,121,1913,
+Vejrupvej 40 5464 Brenderup Fyn,5464,645000.0,30-05-2002,Alm.,2164,8,Stuehus,298,1870,
+Volpeshøjvej 8 5464 Brenderup Fyn,5464,1070000.0,20-05-2002,Alm.,5944,5,Villa,180,1852,
+Bogensevej 11 5464 Brenderup Fyn,5464,485028.0,06-05-2002,Andet,2787,6,Stuehus,174,1904,
+Hyttevej 8 5464 Brenderup Fyn,5464,535000.0,02-05-2002,Alm.,5459,5,Sommerhus,98,1979,
+Middelfartvej 255 5464 Brenderup Fyn,5464,800000.0,29-04-2002,Alm.,5263,3,Villa,152,1890,
+Engdraget 1 5464 Brenderup Fyn,5464,1100000.0,24-04-2002,Alm.,10784,4,Sommerhus,102,2003,
+Rugårdsvej 165 5464 Brenderup Fyn,5464,548000.0,12-04-2002,Alm.,6088,3,Villa,90,1952,
+Bro Strandvej 42 5464 Brenderup Fyn,5464,300000.0,07-04-2002,Alm.,3333,4,Sommerhus,90,2013,
+Solvej 15 5464 Brenderup Fyn,5464,272000.0,05-04-2002,Fam.,0,2,Sommerhus,59,1962,
+Rugårdsvej 232 5464 Brenderup Fyn,5464,540000.0,27-03-2002,Alm.,3375,6,Villa,160,1933,
+Brenderupvej 21 5464 Brenderup Fyn,5464,600000.0,18-02-2002,Alm.,6000,4,Villa,100,1928,
+Bogensevej 85 5464 Brenderup Fyn,5464,535000.0,18-02-2002,Alm.,0,6,Villa,164,1950,
+Strandgårdsvej 34 5464 Brenderup Fyn,5464,970919.0,18-02-2002,Alm.,11986,3,Sommerhus,81,1977,
+Varbjergvej 6 5464 Brenderup Fyn,5464,750000.0,12-02-2002,Alm.,2819,12,Stuehus,266,1854,
+Engdraget 19 5464 Brenderup Fyn,5464,200000.0,11-02-2002,Fam.,3703,3,Sommerhus,54,2003,
+Kirkevej 20 5464 Brenderup Fyn,5464,700000.0,02-01-2002,Alm.,3286,7,Villa,213,1880,
+Bro Skov 11 5464 Brenderup Fyn,5464,520000.0,10-12-2001,Alm.,7222,3,Stuehus,72,1800,
+Middelfartvej 210 5464 Brenderup Fyn,5464,625000.0,30-10-2001,Alm.,8680,3,Stuehus,72,1827,
+Køstrupvej 15 5464 Brenderup Fyn,5464,1780000.0,29-10-2001,Alm.,5377,7,Villa,331,1827,
+Egelundvej 26 5464 Brenderup Fyn,5464,90000.0,03-10-2001,Alm.,418,8,Villa,215,2002,
+Bro Skov 28 5464 Brenderup Fyn,5464,240000.0,26-09-2001,Alm.,3750,3,Villa,64,1870,
+Fyllestedvej 21 5464 Brenderup Fyn,5464,300000.0,26-09-2001,Alm.,1090,8,Villa,275,1872,
+Brovej 17 5464 Brenderup Fyn,5464,100000.0,20-08-2001,Alm.,571,5,Stuehus,175,1981,
+Sneppevej 1 5464 Brenderup Fyn,5464,750000.0,14-06-2001,Alm.,7894,4,Sommerhus,95,1974,
+Engdraget 73 5464 Brenderup Fyn,5464,450000.0,12-06-2001,Alm.,12857,2,Sommerhus,35,1950,
+Mågevej 8 5464 Brenderup Fyn,5464,575000.0,24-05-2001,Alm.,9583,3,Sommerhus,60,1965,
+Engdraget 27 5464 Brenderup Fyn,5464,475000.0,19-03-2001,Alm.,8050,3,Sommerhus,59,2007,
+Kirkevej 36 5464 Brenderup Fyn,5464,891519.0,23-02-2001,Alm.,5642,7,Villa,158,1947,
+Engdraget 16 5464 Brenderup Fyn,5464,250000.0,07-02-2001,Fam.,4166,3,Sommerhus,60,1975,
+Solbakkevej 7 5464 Brenderup Fyn,5464,300000.0,31-01-2001,Alm.,3191,4,Villa,94,1933,
+Fruerhøjvej 29 5464 Brenderup Fyn,5464,405000.0,28-12-2000,Alm.,0,11,Stuehus,360,1847,
+Engdraget 14 5464 Brenderup Fyn,5464,365500.0,21-12-2000,Fam.,5991,4,Sommerhus,61,1960,
+Spurvevej 10 5464 Brenderup Fyn,5464,925000.0,11-12-2000,Alm.,10511,3,Sommerhus,88,1972,
+Egelundvej 33 5464 Brenderup Fyn,5464,717563.0,27-11-2000,Alm.,4815,4,Villa,149,1971,
+Nygårdsvej 31 5464 Brenderup Fyn,5464,800000.0,05-10-2000,Alm.,0,6,Stuehus,213,1922,
+Engvej 21 5464 Brenderup Fyn,5464,1440000.0,02-10-2000,Alm.,8944,6,Villa,161,1857,
+Kærsgårdvej 37 5464 Brenderup Fyn,5464,2552912.0,20-09-2000,Alm.,12453,7,Stuehus,205,1850,
+Solvej 21 5464 Brenderup Fyn,5464,282000.0,16-08-2000,Alm.,0,2,Sommerhus,54,1960,
+Solbakkevej 24 5464 Brenderup Fyn,5464,375195.0,28-07-2000,Alm.,3410,5,Villa,110,1922,
+Engvej 2 5464 Brenderup Fyn,5464,665720.0,30-06-2000,Alm.,3295,6,Villa,202,1900,
+Engdraget 67 5464 Brenderup Fyn,5464,451000.0,26-06-2000,Alm.,0,3,Sommerhus,35,1947,
+Bogensevej 22 5464 Brenderup Fyn,5464,480000.0,16-06-2000,Fam.,3310,4,Villa,145,1870,
+Hyttevej 11 5464 Brenderup Fyn,5464,577000.0,26-05-2000,Alm.,14425,2,Sommerhus,40,1960,
+Brovangen 24 5464 Brenderup Fyn,5464,624000.0,24-05-2000,Alm.,4187,6,Villa,149,1840,
+Agervænget 4 5464 Brenderup Fyn,5464,359640.0,05-05-2000,Alm.,5367,3,Sommerhus,67,2008,
+Irisvej 11 5464 Brenderup Fyn,5464,410000.0,25-04-2000,Alm.,7592,3,Sommerhus,54,1971,
+Kærsgårdvej 26 5464 Brenderup Fyn,5464,1070000.0,21-04-2000,Fam.,7133,7,Stuehus,150,1877,
+Åbjergvej 23 5464 Brenderup Fyn,5464,663000.0,31-03-2000,Fam.,3642,4,Stuehus,182,1890,
+Køstrupvej 5 5464 Brenderup Fyn,5464,2075000.0,24-03-2000,Fam.,8829,10,Stuehus,235,1860,
+Irisvej 14 5464 Brenderup Fyn,5464,410000.0,21-03-2000,Alm.,3628,5,Sommerhus,113,2006,
+Åbjergvej 31 5464 Brenderup Fyn,5464,767917.0,15-03-2000,Alm.,9141,3,Villa,84,1990,
+Søvej 24 5464 Brenderup Fyn,5464,289000.0,10-03-2000,Fam.,6020,3,Sommerhus,48,1963,
+Fruerhøjvej 68 5464 Brenderup Fyn,5464,925000.0,17-02-2000,Alm.,4743,6,Villa,195,1925,
+Fruerhøjvej 35 5464 Brenderup Fyn,5464,1368000.0,12-02-2000,Alm.,5606,8,Stuehus,244,1930,
+Gartnervej 8 5464 Brenderup Fyn,5464,913962.0,24-01-2000,Alm.,0,9,Villa,214,1969,
+Fyllestedvej 20 5464 Brenderup Fyn,5464,1225000.0,18-01-2000,Alm.,6094,8,Villa,201,1920,
+Skolevej 15 5464 Brenderup Fyn,5464,390000.0,17-01-2000,Fam.,2867,5,Villa,136,1942,
+Bakkevej 4 5464 Brenderup Fyn,5464,410000.0,10-01-2000,Fam.,10512,3,Sommerhus,39,1957,
+Kirkevej 48 5464 Brenderup Fyn,5464,596000.0,14-12-1999,Alm.,7095,4,Villa,84,1954,
+Varbjergvej 48 5464 Brenderup Fyn,5464,973000.0,10-12-1999,Alm.,4324,7,Sommerhus,225,1880,
+Strandgårdsvej 22 5464 Brenderup Fyn,5464,625000.0,12-11-1999,Alm.,8802,3,Sommerhus,71,1966,
+Ålebakkevej 2 5464 Brenderup Fyn,5464,830000.0,28-10-1999,Alm.,11066,4,Sommerhus,75,1985,
+Middelfartvej 282 5464 Brenderup Fyn,5464,268150.0,07-10-1999,Alm.,1625,7,Villa,165,1915,
+Lærkevej 6 5464 Brenderup Fyn,5464,225000.0,10-09-1999,Alm.,2122,4,Sommerhus,106,2002,
+Brovangen 5 5464 Brenderup Fyn,5464,810000.0,03-09-1999,Alm.,5785,6,Villa,140,1877,
+Havrevænget 11 5464 Brenderup Fyn,5464,190356.0,23-08-1999,Alm.,986,7,Villa,193,2000,
+Bøgelundvej 17 5464 Brenderup Fyn,5464,1120000.0,18-08-1999,Alm.,5358,6,Villa,209,1977,
+Bro Strandvej 44 5464 Brenderup Fyn,5464,119000.0,14-07-1999,Alm.,2833,3,Sommerhus,42,1937,
+Pavebakken 6 5464 Brenderup Fyn,5464,945000.0,01-07-1999,Alm.,8915,3,Sommerhus,106,1973,
+Åbjergvej 41 5464 Brenderup Fyn,5464,999922.0,01-07-1999,Alm.,4999,6,Villa,200,1850,
+Fruerhøjvej 24 5464 Brenderup Fyn,5464,650000.0,30-06-1999,Alm.,4220,4,Villa,154,1938,
+Havrevænget 21 5464 Brenderup Fyn,5464,192606.0,03-05-1999,Alm.,900,5,Villa,214,2001,
+Nymarken 9 5464 Brenderup Fyn,5464,2003216.0,26-04-1999,Alm.,12598,5,Stuehus,159,1923,
+Stokrosevej 7 5464 Brenderup Fyn,5464,610000.0,12-04-1999,Alm.,6777,5,Sommerhus,90,1962,
+Bogensevej 27 5464 Brenderup Fyn,5464,450000.0,26-02-1999,Alm.,4090,4,Villa,110,1877,
+Syrenvej 25 5464 Brenderup Fyn,5464,815000.0,19-02-1999,Alm.,0,7,Villa,197,1977,
+Engdraget 43 5464 Brenderup Fyn,5464,420000.0,09-02-1999,Alm.,11351,3,Sommerhus,37,1947,
+Engdraget 15 5464 Brenderup Fyn,5464,390000.0,02-02-1999,Alm.,0,4,Sommerhus,103,1956,
+Egelundvej 45 5464 Brenderup Fyn,5464,150000.0,29-01-1999,Alm.,903,3,Villa,166,1850,
+Engdraget 7 5464 Brenderup Fyn,5464,240000.0,15-01-1999,Alm.,4000,3,Sommerhus,60,1999,
+Holsevej 47 5464 Brenderup Fyn,5464,204000.0,13-01-1999,Fam.,0,4,Villa,132,1892,
+Hyttevej 6 5464 Brenderup Fyn,5464,150000.0,05-01-1999,Alm.,1666,5,Sommerhus,90,2000,
+Stationsvej 6 5464 Brenderup Fyn,5464,655000.0,30-12-1998,Alm.,4309,5,Villa,152,1911,
+Åbakkevej 61 5464 Brenderup Fyn,5464,1127000.0,04-12-1998,Fam.,5809,7,Stuehus,194,1845,
+Bekkasinvej 1 5464 Brenderup Fyn,5464,450000.0,23-10-1998,Alm.,3750,3,Sommerhus,120,1970,
+Spurvevej 3 5464 Brenderup Fyn,5464,706000.0,06-10-1998,Alm.,8209,4,Sommerhus,86,1974,
+Engdraget 40 5464 Brenderup Fyn,5464,270000.0,06-10-1998,Alm.,4500,3,Sommerhus,60,2008,
+Carlshøjvej 13 5464 Brenderup Fyn,5464,365500.0,05-10-1998,Fam.,5297,3,Stuehus,69,1890,
+Engdraget 71 5464 Brenderup Fyn,5464,535000.0,22-09-1998,Alm.,12159,3,Sommerhus,44,1957,
+Bro Strandvej 34 5464 Brenderup Fyn,5464,345341.0,15-09-1998,Alm.,8031,3,Sommerhus,43,2002,
+Rugårdsvej 175 5464 Brenderup Fyn,5464,844000.0,02-09-1998,Alm.,6861,3,Villa,123,1953,
+Bogensevej 128 5464 Brenderup Fyn,5464,260000.0,31-08-1998,Alm.,4333,2,Villa,60,1870,
+Bakkevej 17 5464 Brenderup Fyn,5464,614000.0,22-08-1998,Alm.,10586,4,Sommerhus,58,1973,
+Stokrosevej 12 5464 Brenderup Fyn,5464,819500.0,20-08-1998,Alm.,8811,5,Sommerhus,93,1968,
+Stationsvej 64 5464 Brenderup Fyn,5464,1075000.0,09-07-1998,Alm.,11944,5,Villa,90,1912,
+Hyttevej 1 5464 Brenderup Fyn,5464,175000.0,10-06-1998,Alm.,3888,2,Sommerhus,45,1966,
+Bubbelvej 81 5464 Brenderup Fyn,5464,701000.0,04-05-1998,Alm.,4736,5,Villa,148,1942,
+Kirkevej 1 5464 Brenderup Fyn,5464,651000.0,04-05-1998,Alm.,6711,5,Villa,97,1952,
+Varbjergvej 35 5464 Brenderup Fyn,5464,676030.0,28-04-1998,Alm.,0,6,Villa,206,1964,
+Middelfartvej 200 5464 Brenderup Fyn,5464,350000.0,31-03-1998,Alm.,3333,3,Villa,105,1850,
+Stationsvej 40 5464 Brenderup Fyn,5464,482000.0,31-03-1998,Alm.,4084,4,Villa,118,1933,
+Åbakkevej 51 5464 Brenderup Fyn,5464,375000.0,20-03-1998,Alm.,0,4,Villa,94,1877,
+Søvej 10 5464 Brenderup Fyn,5464,721700.0,02-03-1998,Alm.,0,4,Sommerhus,123,1962,
+Carlshøjvej 17 5464 Brenderup Fyn,5464,810000.0,26-01-1998,Alm.,4240,4,Villa,191,1860,
+Engdraget 31 5464 Brenderup Fyn,5464,85000.0,19-01-1998,Fam.,1888,3,Sommerhus,45,1998,
+Kirkevej 54 5464 Brenderup Fyn,5464,432000.0,09-01-1998,Alm.,4800,3,Villa,90,1972,
+Mejerivej 17 5464 Brenderup Fyn,5464,660000.0,08-01-1998,Alm.,6470,5,Villa,102,1960,
+Bystævnevej 16 5464 Brenderup Fyn,5464,450000.0,23-11-1997,Alm.,3358,3,Villa,134,1843,
+Bogensevej 46 5464 Brenderup Fyn,5464,670000.0,17-11-1997,Alm.,2768,8,Villa,242,1892,
+Bekkasinvej 5 5464 Brenderup Fyn,5464,148000.0,03-11-1997,Alm.,0,4,Sommerhus,74,1998,
+Rugårdsvej 157 5464 Brenderup Fyn,5464,410000.0,20-10-1997,Alm.,0,4,Villa,100,1800,
+Stationsvej 66 5464 Brenderup Fyn,5464,475000.0,07-10-1997,Alm.,2251,6,Villa,211,1912,
+Gærdet 16 5464 Brenderup Fyn,5464,700000.0,30-09-1997,Alm.,10769,1,Sommerhus,65,1947,
+Skovhaven 27 5464 Brenderup Fyn,5464,383500.0,15-09-1997,Alm.,0,5,Villa,110,1911,
+Engdraget 51 5464 Brenderup Fyn,5464,100000.0,29-08-1997,Fam.,2272,3,Sommerhus,44,1998,
+Syrenvej 6 5464 Brenderup Fyn,5464,755000.0,25-08-1997,Alm.,6138,4,Villa,123,1980,
+Skovhaven 20 5464 Brenderup Fyn,5464,882241.0,25-08-1997,Alm.,0,5,Villa,163,1969,
+Syrenvej 21 5464 Brenderup Fyn,5464,908900.0,25-08-1997,Alm.,7100,4,Villa,128,1979,
+Skovhaven 26 5464 Brenderup Fyn,5464,185000.0,31-07-1997,Alm.,1027,7,Villa,180,1998,
+Bogensevej 116 5464 Brenderup Fyn,5464,380437.0,21-07-1997,Alm.,3522,3,Villa,108,1959,
+Bystævnevej 14 5464 Brenderup Fyn,5464,1031500.0,05-07-1997,Alm.,4935,7,Villa,209,1887,
+Lærkevej 4 5464 Brenderup Fyn,5464,540000.0,12-06-1997,Alm.,7714,4,Sommerhus,70,1971,
+Sneppevej 14 5464 Brenderup Fyn,5464,149000.0,27-05-1997,Alm.,2041,4,Sommerhus,73,1998,
+Bogensevej 81 5464 Brenderup Fyn,5464,472000.0,26-05-1997,Alm.,3445,5,Villa,137,1957,
+Drosselvej 10 5464 Brenderup Fyn,5464,381500.0,22-05-1997,Alm.,3233,4,Sommerhus,118,1979,
+Bøgelundvej 19 5464 Brenderup Fyn,5464,576000.0,20-05-1997,Alm.,5236,4,Villa,110,1976,
+Syrenvej 8 5464 Brenderup Fyn,5464,952000.0,19-05-1997,Alm.,0,6,Villa,163,1986,
+Middelfartvej 212 5464 Brenderup Fyn,5464,364899.0,14-05-1997,Fam.,2109,6,Stuehus,173,1935,
+Sneppevej 3 5464 Brenderup Fyn,5464,650000.0,23-04-1997,Alm.,7926,4,Sommerhus,82,1978,
+Mågevej 10 5464 Brenderup Fyn,5464,118902.0,14-04-1997,Alm.,2286,3,Sommerhus,52,1969,
+Stationsvej 41 5464 Brenderup Fyn,5464,460470.0,14-04-1997,Alm.,2558,6,Villa,180,1927,
+Stokrosevej 8 5464 Brenderup Fyn,5464,539000.0,10-04-1997,Alm.,0,3,Sommerhus,59,1967,
+Egelundvej 21 5464 Brenderup Fyn,5464,650000.0,31-03-1997,Alm.,0,8,Stuehus,238,1858,
+Mågevej 5 5464 Brenderup Fyn,5464,577000.0,17-02-1997,Alm.,8126,3,Sommerhus,71,1967,
+Holsevej 43 5464 Brenderup Fyn,5464,400000.0,29-01-1997,Alm.,4081,4,Villa,98,1857,
+Agervænget 1 5464 Brenderup Fyn,5464,144500.0,06-01-1997,Fam.,2627,2,Sommerhus,55,1966,
+Kirkevej 9 5464 Brenderup Fyn,5464,46100.0,02-12-1996,Alm.,336,5,Stuehus,137,1922,
+Bogensevej 50 5464 Brenderup Fyn,5464,920000.0,10-11-1996,Alm.,7301,6,Stuehus,126,1914,
+Hyttevej 5 5464 Brenderup Fyn,5464,395000.0,04-11-1996,Alm.,9875,2,Sommerhus,40,1963,
+Solvej 1 5464 Brenderup Fyn,5464,135000.0,04-11-1996,Alm.,5869,1,Sommerhus,23,1960,
+Middelfartvej 203 5464 Brenderup Fyn,5464,825000.0,12-09-1996,Alm.,4459,6,Villa,185,1911,
+Skovhaven 17 5464 Brenderup Fyn,5464,575000.0,12-09-1996,Alm.,0,6,Villa,199,1873,
+Fyllestedvej 24 5464 Brenderup Fyn,5464,500000.0,10-09-1996,Alm.,0,8,Stuehus,276,1936,
+Strandgårdsvej 12 5464 Brenderup Fyn,5464,400000.0,15-08-1996,Alm.,1307,8,Villa,306,1877,
+Engdraget 29 5464 Brenderup Fyn,5464,85000.0,14-08-1996,Fam.,1545,4,Sommerhus,55,2001,
+Skolevej 32 5464 Brenderup Fyn,5464,598986.0,05-08-1996,Alm.,5076,6,Villa,118,1954,
+Brovangen 26 5464 Brenderup Fyn,5464,1047000.0,01-08-1996,Alm.,4256,5,Villa,246,1880,
+Bakkevej 2 5464 Brenderup Fyn,5464,350000.0,09-07-1996,Alm.,5384,2,Sommerhus,65,1961,
+Åbjergvej 22 5464 Brenderup Fyn,5464,535000.0,27-06-1996,Alm.,0,5,Villa,147,1917,
+Åbakkevej 35 5464 Brenderup Fyn,5464,1450000.0,25-06-1996,Alm.,4420,6,Stuehus,328,1800,
+Fruerhøjvej 48 5464 Brenderup Fyn,5464,520000.0,13-06-1996,Alm.,5200,4,Villa,100,1951,
+Bro Strandvej 60 5464 Brenderup Fyn,5464,350000.0,07-06-1996,Alm.,10294,2,Sommerhus,34,2006,
+Åbakkevej 43 5464 Brenderup Fyn,5464,1150000.0,03-06-1996,Alm.,10952,4,Stuehus,105,1900,
+Engdraget 47 5464 Brenderup Fyn,5464,100000.0,25-05-1996,Fam.,2127,4,Sommerhus,47,2000,
+Syrenvej 15 5464 Brenderup Fyn,5464,750000.0,22-05-1996,Alm.,0,5,Villa,120,1980,
+Fyllestedvej 36 5464 Brenderup Fyn,5464,5296000.0,13-03-1996,Alm.,16550,11,Stuehus,320,1923,
+Bogensevej 80 5464 Brenderup Fyn,5464,1800000.0,11-03-1996,Alm.,0,5,Stuehus,220,1978,
+Mosbækvej 8 5464 Brenderup Fyn,5464,170000.0,29-01-1996,Alm.,0,4,Villa,140,1912,
+Drosselvej 23 5464 Brenderup Fyn,5464,250000.0,21-01-1996,Alm.,0,4,Sommerhus,84,1960,
+Lille Brogårdsvej 10 5464 Brenderup Fyn,5464,950000.0,15-12-1995,Alm.,4846,8,Stuehus,196,1930,
+Drosselvej 2 5464 Brenderup Fyn,5464,360000.0,11-12-1995,Alm.,0,3,Sommerhus,64,1972,
+Brovangen 8 5464 Brenderup Fyn,5464,715000.0,02-12-1995,Alm.,0,6,Villa,191,1979,
+Bøgholmvej 6 5464 Brenderup Fyn,5464,499200.0,20-11-1995,Alm.,2773,6,Villa,180,1930,
+Nygårdsvej 35 5464 Brenderup Fyn,5464,1019979.0,09-11-1995,Alm.,7555,6,Stuehus,135,1904,
+Stokrosevej 3 5464 Brenderup Fyn,5464,182750.0,25-09-1995,Alm.,2150,3,Sommerhus,85,1976,
+Rugårdsvej 189 5464 Brenderup Fyn,5464,510000.0,25-09-1995,Alm.,0,6,Villa,146,1920,
+Åbjergvej 5 5464 Brenderup Fyn,5464,338848.0,18-09-1995,Andet,1831,6,Villa,185,1958,
+Engdraget 81 5464 Brenderup Fyn,5464,51000.0,12-09-1995,Alm.,944,3,Sommerhus,54,2000,
+Bogensevej 84 5464 Brenderup Fyn,5464,278000.0,12-08-1995,Alm.,3475,4,Villa,80,1937,
+Middelfartvej 275 5464 Brenderup Fyn,5464,200000.0,23-06-1995,Alm.,2739,3,Stuehus,73,1896,
+Middelfartvej 284 5464 Brenderup Fyn,5464,904000.0,15-06-1995,Alm.,0,6,Villa,208,1922,
+Vejrupvej 49B 5464 Brenderup Fyn,5464,350000.0,12-06-1995,Auktion,1041,8,Stuehus,336,1868,
+Ålebakkevej 6 5464 Brenderup Fyn,5464,304100.0,06-06-1995,Alm.,0,4,Sommerhus,66,1967,
+Skovhaven 19 5464 Brenderup Fyn,5464,400000.0,29-05-1995,Alm.,0,6,Villa,170,1955,
+Strandgårdsvej 30 5464 Brenderup Fyn,5464,307000.0,19-05-1995,Alm.,5903,4,Sommerhus,52,1967,
+Nymarken 12 5464 Brenderup Fyn,5464,956333.0,29-04-1995,Alm.,6550,7,Stuehus,146,1946,
+Irisvej 8 5464 Brenderup Fyn,5464,301000.0,24-04-1995,Alm.,6688,3,Sommerhus,45,1972,
+Agervænget 2 5464 Brenderup Fyn,5464,120000.0,24-04-1995,Alm.,0,2,Sommerhus,46,1960,
+Fuglsangvej 6 5464 Brenderup Fyn,5464,190000.0,27-03-1995,Fam.,1727,4,Villa,110,1870,
+Holsevej 26 5464 Brenderup Fyn,5464,4850000.0,10-02-1995,Alm.,14264,23,Stuehus,340,1740,
+Engdraget 12 5464 Brenderup Fyn,5464,295000.0,30-01-1995,Alm.,4097,3,Sommerhus,72,2007,
+Munkegårdsvej 10 5464 Brenderup Fyn,5464,325000.0,16-01-1995,Alm.,3869,2,Stuehus,84,1923,
+Bogensevej 17 5464 Brenderup Fyn,5464,623500.0,12-01-1995,Alm.,0,8,Villa,251,1877,
+Syrenvej 9 5464 Brenderup Fyn,5464,680000.0,16-12-1994,Alm.,4722,3,Villa,144,1981,
+Varbjergvej 15 5464 Brenderup Fyn,5464,1335000.0,14-11-1994,Alm.,8343,6,Stuehus,160,1987,
+Engdraget 23 5464 Brenderup Fyn,5464,231000.0,14-11-1994,Alm.,0,4,Sommerhus,58,1950,
+Lærkevej 8 5464 Brenderup Fyn,5464,360000.0,26-10-1994,Alm.,4931,4,Sommerhus,73,1971,
+Rugårdsvej 220 5464 Brenderup Fyn,5464,375000.0,13-10-1994,Alm.,0,6,Villa,99,1947,
+Rugårdsvej 226 5464 Brenderup Fyn,5464,295000.0,28-09-1994,Alm.,1878,7,Villa,157,1912,
+Irisvej 16 5464 Brenderup Fyn,5464,300000.0,19-09-1994,Alm.,4285,4,Sommerhus,70,2008,
+Egelundvej 3 5464 Brenderup Fyn,5464,950000.0,31-08-1994,Alm.,4502,9,Stuehus,211,1934,
+Engdraget 79 5464 Brenderup Fyn,5464,250000.0,29-08-1994,Alm.,4464,3,Sommerhus,56,2000,
+Pavebakken 10 5464 Brenderup Fyn,5464,475000.0,25-08-1994,Alm.,6506,4,Sommerhus,73,1970,
+Sneppevej 8 5464 Brenderup Fyn,5464,425000.0,02-08-1994,Alm.,0,4,Sommerhus,70,1979,
+Mågevej 6 5464 Brenderup Fyn,5464,412180.0,18-07-1994,Alm.,4683,4,Sommerhus,88,1964,
+Åbakkevej 25 5464 Brenderup Fyn,5464,522000.0,20-06-1994,Alm.,1919,7,Villa,272,1868,
+Rugvænget 5 5464 Brenderup Fyn,5464,390000.0,06-06-1994,Alm.,2954,6,Villa,132,1968,
+Syrenvej 19 5464 Brenderup Fyn,5464,595000.0,30-05-1994,Alm.,3789,5,Villa,157,1980,
+Vibevej 10 5464 Brenderup Fyn,5464,386522.0,23-05-1994,Alm.,0,5,Sommerhus,133,1970,
+Fuglsangvej 1 5464 Brenderup Fyn,5464,250000.0,27-04-1994,Alm.,0,5,Villa,258,1877,
+Rugårdsvej 205 5464 Brenderup Fyn,5464,2000000.0,29-03-1994,Alm.,3571,18,Stuehus,560,1900,
+Gartnervej 26 5464 Brenderup Fyn,5464,1050000.0,25-03-1994,Alm.,5675,5,Stuehus,185,1989,
+Brenderupvej 3 5464 Brenderup Fyn,5464,540000.0,11-03-1994,Alm.,2307,5,Villa,234,1963,
+Elmegårdsvej 16 5464 Brenderup Fyn,5464,210000.0,21-02-1994,Alm.,1458,4,Villa,144,1922,
+Brenderupvej 18 5464 Brenderup Fyn,5464,270000.0,20-02-1994,Alm.,2783,4,Villa,97,1910,
+Skolevej 35 5464 Brenderup Fyn,5464,380000.0,14-02-1994,Alm.,3064,4,Villa,124,1948,
+Skovhaven 21 5464 Brenderup Fyn,5464,895000.0,12-02-1994,Alm.,3874,7,Villa,231,1827,
+Stokrosevej 4 5464 Brenderup Fyn,5464,225000.0,07-02-1994,Fam.,0,7,Sommerhus,108,1968,
+Brenderupvej 12 5464 Brenderup Fyn,5464,552187.0,18-12-1993,Alm.,3944,6,Villa,140,1912,
+Køstrupvej 28 5464 Brenderup Fyn,5464,565000.0,29-11-1993,Alm.,3005,4,Stuehus,188,1882,
+Varbjergvej 40 5464 Brenderup Fyn,5464,100000.0,22-11-1993,Alm.,239,11,Villa,418,1887,
+Ternevej 12 5464 Brenderup Fyn,5464,150000.0,19-11-1993,Alm.,2419,4,Sommerhus,62,1973,
+Åbakkevej 14 5464 Brenderup Fyn,5464,500000.0,25-10-1993,Alm.,2000,10,Stuehus,250,1877,
+Rugvænget 6 5464 Brenderup Fyn,5464,423000.0,22-10-1993,Alm.,4316,4,Villa,98,1966,
+Bogensevej 122 5464 Brenderup Fyn,5464,310000.0,12-10-1993,Alm.,1573,7,Villa,197,1877,
+Elmegårdsvej 13 5464 Brenderup Fyn,5464,375000.0,11-10-1993,Alm.,3125,4,Stuehus,120,1910,
+Køstrupvej 22 5464 Brenderup Fyn,5464,315000.0,06-09-1993,Alm.,2333,3,Villa,135,1928,
+Bøgelundvej 10 5464 Brenderup Fyn,5464,610000.0,10-08-1993,Alm.,3333,6,Villa,183,1971,
+Blokhusvej 2 5464 Brenderup Fyn,5464,475000.0,10-08-1993,Alm.,3682,5,Villa,129,1949,
+Engdraget 50 5464 Brenderup Fyn,5464,260000.0,05-08-1993,Fam.,0,4,Sommerhus,77,1947,
+Fruerhøjvej 50 5464 Brenderup Fyn,5464,450000.0,19-06-1993,Alm.,2571,5,Villa,175,1913,
+Vejrupvej 44 5464 Brenderup Fyn,5464,700000.0,16-06-1993,Alm.,4635,7,Stuehus,151,1901,
+Irisvej 10 5464 Brenderup Fyn,5464,260000.0,14-06-1993,Alm.,5777,3,Sommerhus,45,1967,
+Åbakkevej 57 5464 Brenderup Fyn,5464,333987.0,19-05-1993,Alm.,2352,6,Villa,142,1877,
+Skolevej 21 5464 Brenderup Fyn,5464,380000.0,18-05-1993,Fam.,2923,4,Villa,130,1912,
+Varbjergvej 31 5464 Brenderup Fyn,5464,1545165.0,10-05-1993,Alm.,5618,11,Stuehus,275,1900,
+Bogensevej 55 5464 Brenderup Fyn,5464,646764.0,07-05-1993,Alm.,3496,7,Stuehus,185,1910,
+Spurvevej 9 5464 Brenderup Fyn,5464,485000.0,19-04-1993,Alm.,5914,4,Sommerhus,82,1972,
+Middelfartvej 240 5464 Brenderup Fyn,5464,350000.0,07-04-1993,Alm.,2058,6,Villa,170,1908,
+Kirkevej 25 5464 Brenderup Fyn,5464,275000.0,23-03-1993,Alm.,1447,6,Villa,190,2010,
+Middelfartvej 232 5464 Brenderup Fyn,5464,175000.0,11-03-1993,Fam.,0,3,Villa,113,1917,
+Elmegårdsvej 20 5464 Brenderup Fyn,5464,260000.0,27-02-1993,Alm.,0,7,Villa,178,1900,
+Bogensevej 142 5464 Brenderup Fyn,5464,385000.0,26-11-1992,Alm.,0,6,Villa,204,1880,
+Varbjergvej 9 5464 Brenderup Fyn,5464,420000.0,16-11-1992,Alm.,2413,6,Villa,174,1907,
+Bogensevej 49 5464 Brenderup Fyn,5464,115000.0,16-11-1992,Alm.,1306,3,Villa,88,1890,
+Gartnervej 22 5464 Brenderup Fyn,5464,345000.0,19-10-1992,Alm.,1449,11,Stuehus,238,1777,
+Rosenvænget 3 5464 Brenderup Fyn,5464,720000.0,23-09-1992,Alm.,4337,5,Villa,166,1967,
+Engvej 40 5464 Brenderup Fyn,5464,385000.0,04-09-1992,Alm.,0,11,Stuehus,240,1913,
+Holsevej 32 5464 Brenderup Fyn,5464,160000.0,10-08-1992,Alm.,1481,4,Villa,108,1904,
+Fuglsangvej 12 5464 Brenderup Fyn,5464,565000.0,31-07-1992,Alm.,7847,4,Stuehus,72,1877,
+Bro Strandvej 26 5464 Brenderup Fyn,5464,110000.0,07-07-1992,Alm.,0,5,Sommerhus,94,1971,
+"Brenderupvej 28, 1 5464 Brenderup Fyn",5464,375000.0,15-06-1992,Alm.,1838,6,Villa,204,1912,
+Holsevej 20 5464 Brenderup Fyn,5464,650000.0,15-06-1992,Alm.,3201,4,Stuehus,203,1987,
+Bubbelvej 45 5464 Brenderup Fyn,5464,430000.0,14-06-1992,Alm.,2866,4,Stuehus,150,1912,
+Åbjergvej 9 5464 Brenderup Fyn,5464,475000.0,11-06-1992,Alm.,3368,5,Villa,141,1976,
+Bogensevej 42 5464 Brenderup Fyn,5464,440000.0,13-05-1992,Alm.,0,8,Stuehus,235,1828,
+Bro Skov 24 5464 Brenderup Fyn,5464,265000.0,30-03-1992,Alm.,3045,3,Villa,87,1825,
+Kærsgårdvej 45 5464 Brenderup Fyn,5464,435000.0,11-03-1992,Alm.,1835,5,Villa,237,1897,
+Middelfartvej 218 5464 Brenderup Fyn,5464,278000.0,05-03-1992,Alm.,4149,3,Villa,67,1865,
+Åbakkevej 15 5464 Brenderup Fyn,5464,84000.0,02-03-1992,Alm.,0,5,Villa,161,1839,
+Brovej 22 5464 Brenderup Fyn,5464,170000.0,02-03-1992,Alm.,1250,4,Villa,136,1900,
+Holsevej 48 5464 Brenderup Fyn,5464,725000.0,25-02-1992,Alm.,4215,3,Stuehus,172,1877,

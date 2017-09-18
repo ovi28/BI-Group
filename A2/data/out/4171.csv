@@ -1,0 +1,938 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+"Glumsøparken 4, 1. TV 4171 Glumsø",0,600000.0,02-05-2017,Alm.,6593,4,Lejlighed,91,1964,
+Sorøvej 25 4171 Glumsø,25,1380000.0,24-04-2017,Alm.,10952,3,Villa,126,1945,-1 %
+Sorøvej 73A 4171 Glumsø,0,650000.0,05-04-2017,Alm.,5078,4,Villa,128,1877,-13 %
+Timannsvej 6 4171 Glumsø,6,13747000.0,04-04-2017,Fam.,56340,5,Stuehus,244,1900,
+Ulstrup Mosevej 25 4171 Glumsø,25,205000.0,03-04-2017,Alm.,2770,5,Sommerhus,74,1900,-31 %
+Stendyssevej 13 4171 Glumsø,13,1340000.0,30-03-2017,Alm.,10307,5,Villa,130,1972,-4 %
+Bøgevej 37 4171 Glumsø,37,1400000.0,27-03-2017,Alm.,9722,5,Villa,144,1978,-6 %
+Skullerupvej 1 4171 Glumsø,1,495000.0,27-03-2017,Alm.,3055,7,Villa,162,1907,0 %
+"Glumsøparken 18, ST. TV 4171 Glumsø",0,320000.0,24-03-2017,Alm.,8421,1,Lejlighed,38,1969,-20 %
+Østergade 33 4171 Glumsø,33,1050000.0,20-03-2017,Alm.,9130,4,Rækkehus,115,1940,-8 %
+Bøgevej 36 4171 Glumsø,36,1150000.0,19-03-2017,Alm.,10087,4,Villa,114,1977,-4 %
+Birkealle 1 4171 Glumsø,1,785684.0,01-03-2017,Alm.,7779,4,Villa,101,1924,
+Skelbyvej 118 4171 Glumsø,118,6292000.0,28-02-2017,Alm.,26774,7,Stuehus,235,1887,
+Skullerupvej 10 4171 Glumsø,10,1035000.0,09-02-2017,Alm.,6052,5,Villa,171,1873,-5 %
+Åvej 7 4171 Glumsø,7,709000.0,08-02-2017,Alm.,6752,4,Stuehus,105,1900,-21 %
+Ringstedvej 6 4171 Glumsø,6,820000.0,25-01-2017,Alm.,7192,3,Villa,114,1934,-3 %
+Realskolevej 6 4171 Glumsø,6,650000.0,20-01-2017,Fam.,4850,4,Villa,134,1923,
+Vinderupvej 15 4171 Glumsø,15,3419000.0,17-01-2017,Alm.,31657,4,Stuehus,108,1880,
+Rugvænget 5 4171 Glumsø,5,841000.0,10-01-2017,Auktion,4335,5,Villa,194,1927,
+Bøgevej 51 4171 Glumsø,51,995000.0,30-12-2016,Alm.,11705,3,Rækkehus,85,1977,0 %
+Åvej 23 4171 Glumsø,23,475000.0,28-12-2016,Alm.,2130,6,Stuehus,223,1918,
+Ringstedvej 19 4171 Glumsø,19,1422500.0,28-12-2016,Alm.,9878,5,Villa,144,1927,-5 %
+Sorøvej 21 4171 Glumsø,21,541560.0,22-12-2016,Alm.,4230,5,Villa,128,1875,
+"Glumsøparken 2, ST. MF 4171 Glumsø",0,425000.0,15-12-2016,Alm.,7589,2,Lejlighed,56,1964,
+Grøftebjergvej 10 4171 Glumsø,10,1795000.0,14-12-2016,Alm.,8799,4,Villa,204,1877,0 %
+Nødholmsvej 12 4171 Glumsø,12,2435000.0,30-11-2016,Alm.,14580,5,Villa,167,2007,-2 %
+Vibevej 1 4171 Glumsø,1,1150000.0,28-11-2016,Alm.,10648,4,Villa,108,1963,-4 %
+Realskolevej 14 4171 Glumsø,14,1650000.0,22-11-2016,Alm.,12595,4,Villa,131,1924,
+Stenholmsvej 7 4171 Glumsø,7,2900000.0,21-11-2016,Alm.,10861,9,Villa,267,1925,-3 %
+Lindevej 21 4171 Glumsø,21,1305000.0,09-11-2016,Alm.,8585,5,Villa,152,1937,-6 %
+Elmevej 23 4171 Glumsø,23,1200000.0,31-10-2016,Alm.,8955,5,Villa,134,1973,-7 %
+Bøgevej 65 4171 Glumsø,65,925000.0,24-10-2016,Alm.,10882,3,Rækkehus,85,1977,
+Lærkevej 5 4171 Glumsø,5,1275000.0,22-10-2016,Alm.,10119,4,Villa,126,1964,-2 %
+Spurvevej 128 4171 Glumsø,128,2080000.0,18-10-2016,Alm.,16250,3,Villa,128,2000,-3 %
+Bavelsevej 6 4171 Glumsø,6,1150000.0,03-10-2016,Alm.,9126,4,Villa,126,1926,-4 %
+Næsbyvej 21 4171 Glumsø,21,1495000.0,03-10-2016,Alm.,9402,5,Villa,159,1856,0 %
+Skelbyvej 90 4171 Glumsø,90,1695000.0,29-09-2016,Alm.,10089,4,Villa,168,1920,0 %
+Vibevej 14 4171 Glumsø,14,1495000.0,28-09-2016,Alm.,8742,6,Villa,171,1967,0 %
+Dadevej 32 4171 Glumsø,32,900000.0,26-09-2016,Alm.,10344,3,Rækkehus,87,2005,-10 %
+Næsbyvej 27 4171 Glumsø,27,626569.0,19-09-2016,Alm.,6737,2,Villa,93,1947,
+Mejsevej 52 4171 Glumsø,52,2250000.0,07-09-2016,Alm.,14610,5,Villa,154,2009,-6 %
+Sorøvej 56 4171 Glumsø,56,1050000.0,31-08-2016,Alm.,8267,3,Villa,127,1880,-1 %
+Tyvelse Bygade 2 4171 Glumsø,2,1100000.0,29-08-2016,Alm.,3571,12,Villa,308,1872,-26 %
+Birkelundsvej 7 4171 Glumsø,7,445000.0,19-08-2016,Alm.,5056,2,Villa,88,1877,0 %
+Næsbyvej 5 4171 Glumsø,5,1744486.0,15-08-2016,Alm.,7787,7,Stuehus,224,1918,-62 %
+Vibevej 10 4171 Glumsø,10,1230000.0,07-08-2016,Alm.,9761,4,Villa,126,1963,-5 %
+"Glumsøparken 14, 1. TH 4171 Glumsø",0,475000.0,04-08-2016,Alm.,7421,2,Lejlighed,64,1969,
+Dalgårdsvej 1 4171 Glumsø,1,2825000.0,23-07-2016,Alm.,11254,7,Stuehus,251,1900,1 %
+Sandbyvej 65 4171 Glumsø,65,1425000.0,18-07-2016,Alm.,10326,5,Villa,138,1931,0 %
+Nødholmsvej 57 4171 Glumsø,57,1240000.0,14-07-2016,Alm.,8611,7,Stuehus,144,1895,-4 %
+Elmevej 16 4171 Glumsø,16,1795000.0,08-07-2016,Alm.,11360,6,Villa,158,1972,0 %
+Skelbyvej 80 4171 Glumsø,80,8840000.0,23-06-2016,Alm.,52000,6,Stuehus,170,1912,
+Sandbyvej 62 4171 Glumsø,62,1098000.0,21-06-2016,Alm.,7678,3,Villa,143,1912,0 %
+Spurvevej 72 4171 Glumsø,72,2195000.0,14-06-2016,Alm.,15678,5,Villa,140,2003,-2 %
+Mejsevej 12 4171 Glumsø,12,1109500.0,02-06-2016,Fam.,9020,4,Rækkehus,123,2008,
+Nyvej 30 4171 Glumsø,30,4750000.0,02-06-2016,Fam.,27616,4,Stuehus,172,1827,
+Nyvej 34 4171 Glumsø,34,6900000.0,02-06-2016,Alm.,71875,4,Stuehus,96,1965,
+Teglværksvej 5 4171 Glumsø,5,2445000.0,01-06-2016,Alm.,10230,6,Villa,239,1927,-6 %
+Spurvevej 37 4171 Glumsø,37,1385000.0,24-05-2016,Alm.,9052,5,Villa,153,1983,-1 %
+Møllegården 4 4171 Glumsø,4,2215000.0,24-05-2016,Alm.,18305,4,Villa,121,2012,
+"Glumsøparken 2, ST. TH 4171 Glumsø",0,410000.0,18-05-2016,Alm.,7454,2,Lejlighed,55,1964,-7 %
+Suså Landevej 137 4171 Glumsø,137,5115000.0,10-05-2016,Fam.,18805,9,Stuehus,272,1890,
+Stendyssevej 14 4171 Glumsø,14,1265000.0,04-05-2016,Alm.,9656,3,Villa,131,1972,-2 %
+Dadevej 27 4171 Glumsø,27,1165000.0,21-04-2016,Alm.,10130,4,Villa,115,1978,0 %
+Vibevej 7 4171 Glumsø,7,1020000.0,18-04-2016,Alm.,12750,3,Villa,80,1967,-7 %
+Teglværksvej 7 4171 Glumsø,7,3075000.0,14-04-2016,Alm.,33791,4,Stuehus,91,1900,-2 %
+Vrangstrupvej 89 4171 Glumsø,89,1295000.0,12-04-2016,Alm.,5755,7,Villa,225,1908,0 %
+"Glumsøparken 8, ST. TH 4171 Glumsø",0,590000.0,11-04-2016,Alm.,6704,4,Lejlighed,88,1966,
+Brinken 4 4171 Glumsø,4,2350000.0,31-03-2016,Alm.,11750,7,Villa,200,1900,-6 %
+Nyvej 28 4171 Glumsø,28,7500000.0,14-03-2016,Alm.,27777,9,Stuehus,270,1883,
+Spurvevej 89 4171 Glumsø,89,1495000.0,08-03-2016,Alm.,11771,4,Villa,127,1980,0 %
+Drosselvej 57 4171 Glumsø,57,2025000.0,07-03-2016,Alm.,8766,6,Villa,231,2005,-10 %
+Drosselvej 9 4171 Glumsø,9,1895000.0,04-02-2016,Alm.,14248,4,Villa,133,2004,
+Spurvevej 21 4171 Glumsø,21,1425000.0,03-02-2016,Alm.,12723,5,Villa,112,1980,-1 %
+Næsbyvej 40 4171 Glumsø,40,1900000.0,02-02-2016,Alm.,8920,9,Villa,213,1961,-5 %
+Sandbyvej 51 4171 Glumsø,51,120000.0,27-01-2016,Alm.,1714,3,Villa,70,1877,-39 %
+Spurvevej 92 4171 Glumsø,92,1665000.0,24-01-2016,Alm.,11978,5,Villa,139,2004,-2 %
+Østergade 12 4171 Glumsø,12,775000.0,19-01-2016,Auktion,5308,5,Detailhandel,146,1912,
+Tyvelsevej 40 4171 Glumsø,40,907404.0,22-12-2015,Fam.,5275,5,Villa,172,1900,
+Trekanten 1 4171 Glumsø,1,1030000.0,11-12-2015,Alm.,7253,4,Villa,142,1931,-10 %
+Bavelsevej 19 4171 Glumsø,19,1995000.0,10-12-2015,Alm.,14888,6,Villa,134,1912,0 %
+Mejsevej 54 4171 Glumsø,54,412500.0,01-12-2015,Alm.,2229,5,Villa,185,2016,
+Spurvevej 156 4171 Glumsø,156,3210000.0,29-11-2015,Alm.,13209,6,Villa,243,1946,
+Nødholmsvej 21 4171 Glumsø,21,1150000.0,18-11-2015,Fam.,5251,4,Villa,219,1974,
+Næsbyvej 22 4171 Glumsø,22,90000.0,09-11-2015,Andet,1011,2,Villa,89,1937,
+Tornvej 2 4171 Glumsø,2,1425000.0,31-10-2015,Alm.,10326,4,Villa,138,1877,-5 %
+Kildevang 4 4171 Glumsø,4,530000.0,23-10-2015,Alm.,3605,5,Villa,147,1897,-11 %
+Ringstedvej 25A 4171 Glumsø,0,1245000.0,16-10-2015,Alm.,6417,6,Villa,194,1971,-4 %
+Sandbyparkvej 12 4171 Glumsø,12,1070000.0,14-10-2015,Auktion,8425,4,Villa,127,1970,
+Birkelunden 5 4171 Glumsø,5,2040000.0,14-10-2015,Alm.,13509,5,Villa,151,2008,-3 %
+Kornvænget 3 4171 Glumsø,3,713395.0,21-09-2015,Andet,5847,4,Villa,122,1989,-49 %
+Mejsevej 4 4171 Glumsø,4,1545000.0,14-09-2015,Alm.,12560,4,Rækkehus,123,2008,0 %
+Sorøvej 40 4171 Glumsø,40,1050000.0,28-08-2015,Alm.,10096,3,Villa,104,1877,
+Kornvænget 7 4171 Glumsø,7,1025000.0,24-08-2015,Alm.,10148,4,Villa,101,1986,-6 %
+Spurvevej 98 4171 Glumsø,98,2125000.0,27-07-2015,Alm.,12724,5,Villa,167,2002,
+Nødholmsvej 10 4171 Glumsø,10,1050000.0,20-07-2015,Alm.,8898,2,Villa,118,1916,-7 %
+Erantisvej 19 4171 Glumsø,19,1600000.0,04-07-2015,Alm.,7305,8,Villa,219,1968,-6 %
+Smedestræde 4 4171 Glumsø,4,300000.0,28-06-2015,Alm.,2608,5,Villa,115,1877,-24 %
+Østergade 30 4171 Glumsø,30,788500.0,26-06-2015,Alm.,4216,9,Villa,187,1918,
+Spurvevej 106 4171 Glumsø,106,2100000.0,18-06-2015,Alm.,12209,5,Villa,172,1998,
+Møllegården 9 4171 Glumsø,9,2800000.0,18-06-2015,Alm.,19310,4,Villa,145,2012,
+Spurvevej 45 4171 Glumsø,45,1150000.0,17-06-2015,Alm.,7187,4,Villa,160,1980,
+Smedestræde 1 4171 Glumsø,1,195000.0,17-06-2015,Alm.,2500,3,Villa,78,1777,0 %
+Sandbyvej 16 4171 Glumsø,16,1800000.0,05-06-2015,Alm.,17475,3,Stuehus,103,1928,
+Gammel Næstvedvej 28 4171 Glumsø,28,1000000.0,22-05-2015,Alm.,9090,4,Villa,110,1967,-9 %
+Spurvevej 118 4171 Glumsø,118,1555000.0,20-05-2015,Alm.,8591,6,Villa,181,2002,0 %
+Storegade 29 4171 Glumsø,29,1095000.0,13-05-2015,Alm.,10631,3,Rækkehus,103,1890,0 %
+Ringstedvej 25 4171 Glumsø,25,550000.0,01-05-2015,Fam.,4621,3,Villa,119,1920,
+Birkelunden 4 4171 Glumsø,4,2250000.0,27-04-2015,Alm.,14150,5,Villa,159,2007,-6 %
+"Glumsøparken 6, ST. TV 4171 Glumsø",0,540000.0,21-04-2015,Alm.,6136,4,Lejlighed,88,1966,
+Suså Landevej 136 4171 Glumsø,136,415000.0,14-04-2015,Auktion,3143,4,Villa,132,1867,-16 %
+Klostervej 4 4171 Glumsø,4,1080000.0,12-04-2015,Alm.,5094,7,Villa,212,1860,12 %
+Gammel Næstvedvej 31 4171 Glumsø,31,488750.0,08-04-2015,Fam.,3788,3,Villa,129,1912,
+Søpark Alle 81 4171 Glumsø,81,300000.0,08-04-2015,Alm.,2068,5,Villa,145,2016,
+Dadestien 1 4171 Glumsø,1,1760000.0,25-03-2015,Alm.,11000,4,Stuehus,160,1926,-12 %
+Skelbyvej 117 4171 Glumsø,117,1750000.0,18-03-2015,Alm.,12589,3,Stuehus,139,1909,
+Vrangstrupvej 35 4171 Glumsø,35,127249.0,18-02-2015,Auktion,1272,4,Villa,100,1920,
+Nødholmsvej 11 4171 Glumsø,11,740000.0,18-02-2015,Auktion,5692,5,Villa,130,1938,
+"Glumsøparken 4, 1. TH 4171 Glumsø",0,545000.0,23-01-2015,Alm.,6411,4,Lejlighed,85,1964,0 %
+Mejsevej 26 4171 Glumsø,26,2385000.0,22-01-2015,Alm.,15000,4,Villa,159,2011,-4 %
+Ringstedvej 15 4171 Glumsø,15,530000.0,07-01-2015,Alm.,3897,5,Villa,136,1958,
+Tyvelsevej 19 4171 Glumsø,19,800000.0,29-12-2014,Alm.,5797,4,Villa,138,1777,-8 %
+Lindevej 11 4171 Glumsø,11,550000.0,22-12-2014,Alm.,5392,4,Villa,102,1960,
+Vibevej 8 4171 Glumsø,8,1145000.0,20-12-2014,Alm.,10043,4,Villa,114,1966,-4 %
+Vrangstrupvej 59 4171 Glumsø,59,3400000.0,09-12-2014,Fam.,14468,5,Stuehus,235,2012,
+Nøddevej 6 4171 Glumsø,6,900000.0,08-12-2014,Alm.,6569,4,Villa,137,1974,
+Bøgevej 46 4171 Glumsø,46,1195000.0,25-11-2014,Auktion,5636,7,Villa,212,1976,-20 %
+"Glumsøparken 4, ST. TH 4171 Glumsø",0,540000.0,15-11-2014,Alm.,6067,4,Lejlighed,89,1964,
+Sandbypark Alle 11 4171 Glumsø,11,606495.0,11-11-2014,Fam.,4665,4,Villa,130,1974,
+Åsø Bygade 30 4171 Glumsø,30,260000.0,11-11-2014,Auktion,1857,4,Villa,140,1907,
+"Glumsøparken 12, ST. TV 4171 Glumsø",0,480000.0,05-11-2014,Alm.,6153,3,Lejlighed,78,1969,-16 %
+Vråvej 7 4171 Glumsø,7,780039.0,28-10-2014,Fam.,6190,4,Villa,126,1972,
+Suså Landevej 117 4171 Glumsø,117,7012500.0,26-10-2014,Fam.,19921,11,Stuehus,352,1933,
+Stationsvej 1 4171 Glumsø,1,575000.0,15-10-2014,Alm.,5750,4,Villa,100,1952,-3 %
+Ringstedvej 5A 4171 Glumsø,0,475000.0,14-10-2014,Alm.,3653,4,Villa,130,1967,-37 %
+Drosselvej 11 4171 Glumsø,11,1995000.0,13-10-2014,Alm.,13300,5,Villa,150,2006,0 %
+Elmevej 20 4171 Glumsø,20,725000.0,23-09-2014,Alm.,5253,5,Villa,138,1971,
+Brinken 2 4171 Glumsø,2,356350.0,22-09-2014,Fam.,4454,5,Villa,80,1900,
+Mejsevej 1 4171 Glumsø,1,1930000.0,18-09-2014,Alm.,8693,9,Villa,222,2007,-3 %
+Brobakken 8 4171 Glumsø,8,555000.0,15-09-2014,Alm.,5781,4,Villa,96,1964,-20 %
+Bøgevej 12 4171 Glumsø,12,698222.0,10-09-2014,Auktion,5818,4,Villa,120,1976,
+Sorøvej 13 4171 Glumsø,13,600000.0,04-09-2014,Alm.,3000,7,Villa,200,1890,-14 %
+Møllegården 5A 4171 Glumsø,0,400000.0,19-08-2014,Alm.,3883,3,Rækkehus,103,2015,-75 %
+Sorøvej 69 4171 Glumsø,69,1295000.0,16-08-2014,Alm.,8993,4,Villa,144,1900,0 %
+Tyvelsevej 15 4171 Glumsø,15,700000.0,08-08-2014,Alm.,4635,5,Villa,151,1877,
+Stendyssevej 17 4171 Glumsø,17,850000.0,30-07-2014,Fam.,6800,4,Villa,125,1970,
+Vinderupvej 9 4171 Glumsø,9,487409.0,30-07-2014,Fam.,4165,5,Stuehus,117,1924,
+Ringstedvej 8A 4171 Glumsø,0,354116.0,16-07-2014,Auktion,3219,5,Villa,110,1946,
+Næsbyvej 9 4171 Glumsø,9,504000.0,10-07-2014,Andet,4271,4,Villa,118,1890,
+Engvangen 10 4171 Glumsø,10,230000.0,24-06-2014,Alm.,2771,4,Villa,83,1870,
+Bøgevej 21 4171 Glumsø,21,995000.0,24-06-2014,Alm.,7107,5,Villa,140,1981,-9 %
+Drosselvej 69 4171 Glumsø,69,2100000.0,24-06-2014,Alm.,14482,5,Villa,145,2005,
+Birkelunden 16 4171 Glumsø,16,1080000.0,28-05-2014,Alm.,8244,5,Villa,131,2007,-10 %
+Sandbypark Alle 6 4171 Glumsø,6,1452140.0,07-05-2014,Fam.,9616,6,Villa,151,1974,
+"Glumsøparken 8, 1. MF 4171 Glumsø",0,520000.0,07-04-2014,Fam.,8524,2,Lejlighed,61,1966,
+"Glumsøparken 4, ST. TV 4171 Glumsø",0,495000.0,17-03-2014,Alm.,5380,4,Lejlighed,92,1964,
+Engvangen 4 4171 Glumsø,4,89500.0,04-03-2014,Auktion,608,5,Villa,147,1939,
+Almosevej 9 4171 Glumsø,9,395000.0,23-02-2014,Alm.,5486,5,Villa,72,1887,0 %
+Bavelsevej 25 4171 Glumsø,25,1650000.0,21-02-2014,Alm.,10645,6,Villa,155,1912,-13 %
+Elmevej 35 4171 Glumsø,35,1230000.0,10-02-2014,Alm.,9044,5,Villa,136,1973,-5 %
+Dadevej 12 4171 Glumsø,12,1295000.0,04-02-2014,Alm.,7848,7,Villa,165,1870,18 %
+Suså Landevej 132 4171 Glumsø,132,1065000.0,29-01-2014,Alm.,6264,5,Stuehus,170,1927,-7 %
+Holmager 35 4171 Glumsø,35,4225000.0,21-12-2013,Alm.,21019,6,Villa,201,1987,-14 %
+Skelbyvej 94 4171 Glumsø,94,1550000.0,09-12-2013,Andet,6567,6,Villa,236,1973,
+Sorøvej 92 4171 Glumsø,92,556000.0,29-11-2013,Alm.,3756,5,Villa,148,1949,
+Lærkevej 3 4171 Glumsø,3,1075000.0,21-11-2013,Alm.,8531,4,Villa,126,1964,-7 %
+"Østergade 10B, 1 4171 Glumsø",1,450000.0,19-11-2013,Fam.,6428,3,Lejlighed,70,1920,
+Søpark Alle 87 4171 Glumsø,87,1044898.0,14-11-2013,Fam.,6965,6,Villa,150,2007,
+Spurvevej 33 4171 Glumsø,33,1400000.0,09-11-2013,Alm.,9722,5,Villa,144,1987,-6 %
+Næsbyvej 53 4171 Glumsø,53,610000.0,21-10-2013,Alm.,4959,6,Villa,123,1927,-6 %
+Kornvænget 5 4171 Glumsø,5,1830000.0,16-10-2013,Fam.,8097,5,Villa,226,1981,
+Stendyssevej 12 4171 Glumsø,12,780000.0,15-10-2013,Alm.,7428,3,Villa,105,1969,-2 %
+Næsbyvej 25 4171 Glumsø,25,637500.0,10-10-2013,Fam.,3581,6,Villa,178,1927,-62 %
+Gammel Næstvedvej 32 4171 Glumsø,32,800000.0,09-10-2013,Alm.,6557,3,Villa,122,1967,-10 %
+"Glumsøparken 6, 1. TH 4171 Glumsø",0,470000.0,15-09-2013,Alm.,5164,4,Lejlighed,91,1966,
+Sorøvej 78 4171 Glumsø,78,620000.0,10-09-2013,Auktion,4558,4,Villa,136,1972,
+Sandbyvej 21 4171 Glumsø,21,550000.0,02-09-2013,Alm.,3618,7,Villa,152,1880,-31 %
+Skelbyvej 133 4171 Glumsø,133,420000.0,02-09-2013,Alm.,4666,5,Villa,90,1877,-12 %
+Sorøvej 27 4171 Glumsø,27,1525000.0,02-09-2013,Alm.,14252,5,Villa,107,1950,0 %
+Skelbyvej 125 4171 Glumsø,125,536500.0,01-09-2013,Alm.,4470,2,Villa,120,1892,
+Suså Landevej 139 4171 Glumsø,139,712909.0,29-08-2013,Andet,5203,5,Villa,137,1930,
+Elmevej 8 4171 Glumsø,8,520500.0,23-08-2013,Andet,4164,5,Villa,125,1972,
+Vibevej 3 4171 Glumsø,3,900000.0,29-07-2013,Alm.,8571,4,Villa,105,1968,
+Dadevej 17 4171 Glumsø,17,1929999.0,10-07-2013,Alm.,7480,6,Stuehus,258,1900,
+Søpark Alle 83 4171 Glumsø,83,2145000.0,10-07-2013,Alm.,14019,5,Villa,153,2008,0 %
+Næsbyvej 4 4171 Glumsø,4,400000.0,06-06-2013,Alm.,0,6,Villa,133,1922,-19 %
+Vråvej 3 4171 Glumsø,3,1100000.0,06-06-2013,Alm.,7801,5,Villa,141,1973,-15 %
+Spurvevej 110 4171 Glumsø,110,2025000.0,03-06-2013,Alm.,10546,7,Villa,192,1998,-15 %
+"Glumsøparken 16, ST. TH 4171 Glumsø",0,473750.0,27-05-2013,Alm.,7288,2,Lejlighed,65,1969,-4 %
+Elmevej 7 4171 Glumsø,7,860000.0,08-05-2013,Alm.,7413,4,Villa,116,1973,-4 %
+Bøgevej 26 4171 Glumsø,26,945000.0,20-04-2013,Alm.,5981,5,Villa,158,1976,-5 %
+Åsøvej 10 4171 Glumsø,10,600000.0,17-04-2013,Alm.,4225,3,Villa,142,1930,
+Vestergårdsvej 5 4171 Glumsø,5,4700000.0,03-04-2013,Auktion,13055,11,Stuehus,360,1886,
+Nødholmsvej 17 4171 Glumsø,17,1360000.0,23-03-2013,Alm.,12363,5,Villa,110,1936,-7 %
+Vrangstrupvej 69 4171 Glumsø,69,85000.0,13-03-2013,Auktion,1000,3,Villa,85,1959,
+"Glumsøparken 10, 1. TH 4171 Glumsø",0,200000.0,12-03-2013,Alm.,5405,1,Lejlighed,37,1969,-18 %
+Møllebækvej 17 4171 Glumsø,17,700000.0,14-02-2013,Alm.,7446,2,Villa,94,1936,
+Nødholmsvej 7 4171 Glumsø,7,1495000.0,13-02-2013,Alm.,9006,6,Villa,166,1905,-6 %
+Elmevej 41 4171 Glumsø,41,1050000.0,09-01-2013,Alm.,7664,4,Villa,137,1973,-12 %
+Stationsvej 5B 4171 Glumsø,0,1225000.0,09-01-2013,Alm.,6250,6,Villa,196,1973,-18 %
+Vibevej 13 4171 Glumsø,13,875000.0,07-12-2012,Alm.,8333,3,Villa,105,1969,-7 %
+Klostervej 2 4171 Glumsø,2,300000.0,06-12-2012,Alm.,3571,4,Villa,84,1860,
+Sandbypark Alle 4 4171 Glumsø,4,745000.0,04-12-2012,Alm.,5173,4,Villa,144,1974,0 %
+Søpark Alle 73 4171 Glumsø,73,1199450.0,29-11-2012,Alm.,7182,6,Villa,167,2007,
+Brobakken 9 4171 Glumsø,9,650000.0,29-11-2012,Alm.,6132,5,Villa,106,1950,-24 %
+Fægangen 11 4171 Glumsø,11,765175.0,26-11-2012,Andet,4227,6,Villa,181,1907,
+Nødholmsvej 13 4171 Glumsø,13,430000.0,21-11-2012,Auktion,5657,4,Villa,76,1960,
+Ringstedvej 28 4171 Glumsø,28,575000.0,06-11-2012,Alm.,6764,3,Villa,85,1967,0 %
+Stationsvej 5 4171 Glumsø,5,750000.0,01-11-2012,Alm.,5000,6,Villa,150,1939,-12 %
+Tyvelsevej 9 4171 Glumsø,9,707500.0,15-10-2012,Fam.,2679,6,Villa,264,1881,
+Åsø Bygade 7 4171 Glumsø,7,400000.0,20-09-2012,Alm.,3361,5,Villa,119,1917,0 %
+Almosevej 5 4171 Glumsø,5,1650000.0,19-09-2012,Alm.,13865,4,Villa,119,1992,0 %
+Spurvevej 130 4171 Glumsø,130,1995000.0,18-09-2012,Alm.,13039,5,Villa,153,2000,-9 %
+Bøgevej 3 4171 Glumsø,3,395000.0,14-09-2012,Alm.,2015,6,Villa,196,2014,
+"Glumsøparken 12, 1. TH 4171 Glumsø",0,550000.0,06-09-2012,Alm.,6321,4,Lejlighed,87,1969,-3 %
+Vinderuphøjvej 10 4171 Glumsø,10,2700000.0,04-09-2012,Alm.,14917,7,Villa,181,1900,-10 %
+Fægangen 9 4171 Glumsø,9,30000.0,14-08-2012,Auktion,555,3,Villa,54,1877,
+Tyvelsevej 79 4171 Glumsø,79,1500000.0,24-07-2012,Alm.,10714,6,Villa,140,1922,
+Kirkevej 27 4171 Glumsø,27,1970000.0,21-07-2012,Alm.,9850,4,Villa,200,1877,-1 %
+Birkelunden 8 4171 Glumsø,8,1605000.0,17-07-2012,Auktion,9727,5,Villa,165,2013,
+Realskolevej 11 4171 Glumsø,11,525000.0,17-07-2012,Alm.,4338,5,Villa,121,1920,-12 %
+Præsteengen 2 4171 Glumsø,2,580000.0,26-06-2012,Alm.,8285,3,Villa,70,1957,-17 %
+Sorøvej 59 4171 Glumsø,59,575000.0,29-05-2012,Fam.,4389,6,Villa,131,1902,
+Holmager 46 4171 Glumsø,46,995000.0,17-04-2012,Alm.,7773,3,Villa,128,1877,0 %
+Åsø Bygade 20 4171 Glumsø,20,600000.0,02-04-2012,Alm.,6000,4,Villa,100,1914,
+Nødholmsvej 40 4171 Glumsø,40,2300000.0,02-03-2012,Fam.,20535,4,Stuehus,112,1952,0 %
+Tyvelsevej 97 4171 Glumsø,97,1350000.0,01-03-2012,Andet,7105,5,Villa,190,1850,
+Åsøvej 46 4171 Glumsø,46,125000.0,27-02-2012,Alm.,661,6,Stuehus,189,1850,
+Åsøvej 52 4171 Glumsø,52,125000.0,27-02-2012,Alm.,644,6,Stuehus,194,1890,
+Drosselvej 63 4171 Glumsø,63,2400000.0,13-02-2012,Alm.,14634,5,Villa,164,2005,-10 %
+Bøgevej 71 4171 Glumsø,71,850000.0,12-01-2012,Alm.,10000,3,Rækkehus,85,1977,-5 %
+Stendyssevej 15 4171 Glumsø,15,1145000.0,29-12-2011,Alm.,8544,5,Villa,134,1972,0 %
+Tyvelsevej 89 4171 Glumsø,89,2734308.0,21-12-2011,Alm.,13879,7,Villa,197,1898,
+"Glumsøparken 6, 1. TV 4171 Glumsø",0,500000.0,09-12-2011,Alm.,5555,4,Lejlighed,90,1966,-9 %
+Dadevej 34 4171 Glumsø,34,645000.0,01-12-2011,Auktion,7413,3,Rækkehus,87,2005,-34 %
+Bøgevej 39 4171 Glumsø,39,1075000.0,28-11-2011,Alm.,9188,4,Villa,117,1977,-14 %
+Østergade 6 4171 Glumsø,6,1187774.0,14-11-2011,Fam.,2775,12,Villa,428,1902,
+Sandbyvej 67 4171 Glumsø,67,775000.0,31-10-2011,Alm.,5000,4,Villa,155,1924,
+Vrangstrupvej 46 4171 Glumsø,46,709000.0,19-10-2011,Alm.,5908,4,Villa,120,1912,-11 %
+Græsmarksvej 4 4171 Glumsø,4,232443.0,12-10-2011,Alm.,2767,2,Villa,84,1900,
+"Glumsøparken 10, ST. TV 4171 Glumsø",0,575000.0,10-10-2011,Alm.,9126,2,Lejlighed,63,1969,-11 %
+Næsbyvej 34 4171 Glumsø,34,220950.0,26-09-2011,Alm.,2455,3,Villa,90,1897,
+Lærkevej 8 4171 Glumsø,8,1930000.0,26-09-2011,Alm.,9103,7,Villa,212,1965,-3 %
+Dadestien 14 4171 Glumsø,14,935000.0,20-09-2011,Alm.,5843,5,Villa,160,1902,-4 %
+Gammel Næstvedvej 24 4171 Glumsø,24,350000.0,12-09-2011,Fam.,1515,5,Villa,231,1872,
+Tyvelsevej 34 4171 Glumsø,34,551685.0,10-08-2011,Fam.,5015,6,Stuehus,110,1850,
+Spurvevej 23 4171 Glumsø,23,1900000.0,08-08-2011,Alm.,11445,4,Villa,166,1986,-5 %
+Vrangstrupvej 44 4171 Glumsø,44,1100000.0,06-08-2011,Alm.,9909,3,Villa,111,1900,-4 %
+Vrangstrupvej 75 4171 Glumsø,75,433925.0,06-07-2011,Andet,3471,4,Villa,125,1939,
+Møllegården 7 4171 Glumsø,7,500000.0,30-06-2011,Alm.,2577,6,Villa,194,2012,
+Søpark Alle 97 4171 Glumsø,97,1899000.0,17-06-2011,Alm.,13373,5,Villa,142,2006,0 %
+Bøgevej 49 4171 Glumsø,49,895000.0,17-06-2011,Alm.,6884,4,Villa,130,1978,0 %
+Storegade 23 4171 Glumsø,23,700000.0,03-06-2011,Alm.,3431,4,Villa,204,1902,-53 %
+Skelbyvej 128 4171 Glumsø,128,1900000.0,31-05-2011,Alm.,19000,4,Stuehus,100,1897,-10 %
+Vibevej 26 4171 Glumsø,26,875000.0,05-05-2011,Alm.,10542,3,Villa,83,1958,-2 %
+Drosselvej 59 4171 Glumsø,59,2113000.0,15-04-2011,Alm.,14572,5,Villa,145,2005,-8 %
+Lindevej 2 4171 Glumsø,2,829500.0,24-03-2011,Alm.,8551,4,Villa,97,1963,
+Ringstedvej 16 4171 Glumsø,16,550000.0,24-02-2011,Alm.,6707,2,Villa,82,1923,-14 %
+Nødholmsvej 34 4171 Glumsø,34,900000.0,07-02-2011,Alm.,6428,6,Villa,140,1928,-10 %
+Stationsvej 3 4171 Glumsø,3,1450000.0,03-02-2011,Andet,11693,6,Villa,124,1939,
+Spurvevej 152 4171 Glumsø,152,1347500.0,31-01-2011,Alm.,6703,5,Villa,201,2009,
+Spurvevej 3 4171 Glumsø,3,1813000.0,25-01-2011,Alm.,14388,4,Villa,126,1985,-9 %
+"Glumsøparken 8, 2. MF 4171 Glumsø",0,260000.0,13-01-2011,Auktion,4126,2,Lejlighed,63,1966,
+Erantisvej 21 4171 Glumsø,21,1250000.0,16-12-2010,Alm.,8333,5,Villa,150,1965,-14 %
+Birkealle 3 4171 Glumsø,3,350000.0,14-12-2010,Alm.,2034,5,Villa,172,2014,
+Østergade 10A 4171 Glumsø,0,400000.0,13-12-2010,Alm.,3921,4,Rækkehus,102,1907,-6 %
+Næsbyvej 2 4171 Glumsø,2,300000.0,10-12-2010,Alm.,857,5,Stuehus,350,1890,
+Sorøvej 19 4171 Glumsø,19,1900000.0,23-11-2010,Alm.,6397,9,Villa,297,1900,-12 %
+Vrangstrupvej 34 4171 Glumsø,34,722500.0,19-11-2010,Alm.,4982,5,Villa,145,1863,
+Fabriksvej 1 4171 Glumsø,1,795000.0,10-11-2010,Alm.,9034,3,Villa,88,1962,0 %
+Realskolevej 12 4171 Glumsø,12,1600000.0,31-10-2010,Fam.,10389,4,Villa,154,1916,
+Åsøvej 22 4171 Glumsø,22,1295000.0,30-10-2010,Alm.,8464,4,Villa,153,1860,0 %
+Tyvelsevej 11 4171 Glumsø,11,954877.0,23-10-2010,Fam.,6585,5,Stuehus,145,1900,
+Vibevej 24 4171 Glumsø,24,1195000.0,19-10-2010,Alm.,14397,3,Villa,83,1971,0 %
+Kirkestien 4 4171 Glumsø,4,1257000.0,11-10-2010,Alm.,10930,3,Villa,115,1974,
+Storegade 31 4171 Glumsø,31,685000.0,29-09-2010,Auktion,6227,4,Villa,110,1925,-54 %
+Nødholmsvej 62 4171 Glumsø,62,2450000.0,28-09-2010,Alm.,7903,5,Villa,310,1924,-2 %
+Skyttemarksvej 3 4171 Glumsø,3,850000.0,25-09-2010,Alm.,5704,4,Stuehus,149,1900,-73 %
+Mejsevej 8 4171 Glumsø,8,2150000.0,15-09-2010,Alm.,13437,5,Villa,160,2010,-2 %
+Vrangstrupvej 36 4171 Glumsø,36,545000.0,13-09-2010,Alm.,8515,4,Villa,64,1877,-22 %
+Bøgevej 59 4171 Glumsø,59,895000.0,06-09-2010,Alm.,10529,3,Rækkehus,85,1977,0 %
+Søpark Alle 71 4171 Glumsø,71,859965.0,16-08-2010,Alm.,6277,5,Villa,137,2007,
+Mejsevej 14 4171 Glumsø,14,600000.0,14-08-2010,Alm.,3157,6,Villa,190,2011,-12 %
+Møllebækvej 18 4171 Glumsø,18,2150000.0,16-07-2010,Alm.,11813,7,Villa,182,1905,
+"Glumsøparken 18, 1. TH 4171 Glumsø",0,550000.0,10-06-2010,Alm.,8870,2,Lejlighed,62,1969,-15 %
+Elmevej 34 4171 Glumsø,34,1145000.0,30-05-2010,Alm.,10904,3,Villa,105,1971,0 %
+Næsbyvej 28 4171 Glumsø,28,1450000.0,25-05-2010,Alm.,11693,4,Villa,124,1857,-3 %
+Næsbyvej 43 4171 Glumsø,43,1930000.0,18-05-2010,Alm.,26805,2,Villa,72,1870,-8 %
+Elmevej 9 4171 Glumsø,9,1350000.0,17-05-2010,Alm.,8653,4,Villa,156,1974,-15 %
+Rugvænget 13 4171 Glumsø,13,2200000.0,30-04-2010,Alm.,17600,3,Stuehus,125,1938,
+"Glumsøparken 4, 2. TV 4171 Glumsø",0,700000.0,29-04-2010,Alm.,7777,4,Lejlighed,90,1964,-12 %
+Østergårdsvej 18 4171 Glumsø,18,295000.0,23-04-2010,Andet,0,8,Villa,226,2011,0 %
+Fabriksvej 6 4171 Glumsø,6,6938755.0,21-04-2010,Auktion,51020,5,Villa,136,1960,
+Drosselvej 53 4171 Glumsø,53,2300000.0,11-04-2010,Fam.,14375,5,Villa,160,2005,
+Storegade 9 4171 Glumsø,9,550000.0,10-04-2010,Alm.,4400,4,Villa,125,1933,
+Mejsevej 10 4171 Glumsø,10,1645000.0,25-03-2010,Alm.,13373,4,Rækkehus,123,2008,
+Tyvelsevej 93 4171 Glumsø,93,425000.0,25-02-2010,Alm.,6159,3,Villa,69,1910,-15 %
+Ølsevej 1 4171 Glumsø,1,1000000.0,24-02-2010,Auktion,5291,6,Villa,189,1965,-37 %
+Sorøvej 31 4171 Glumsø,31,600000.0,10-02-2010,Alm.,8823,2,Villa,68,1954,-14 %
+Mejsevej 30 4171 Glumsø,30,850000.0,06-02-2010,Alm.,6115,5,Villa,139,2007,-63 %
+Bavelsevej 23 4171 Glumsø,23,2100000.0,02-02-2010,Alm.,15555,4,Villa,135,1910,-8 %
+Næsbyvej 38 4171 Glumsø,38,1350000.0,30-01-2010,Alm.,5400,5,Stuehus,250,1900,
+Nyvej 6 4171 Glumsø,6,50000.0,27-01-2010,Auktion,0,4,Villa,128,1877,
+Realskolevej 22 4171 Glumsø,22,1525000.0,21-01-2010,Alm.,12708,3,Villa,120,1925,-3 %
+Vibevej 16 4171 Glumsø,16,1995000.0,14-01-2010,Alm.,14148,6,Villa,141,1968,0 %
+Tyvelse Bygade 4 4171 Glumsø,4,650000.0,14-01-2010,Alm.,3250,6,Villa,200,1880,-6 %
+Næsbyvej 35B 4171 Glumsø,0,495000.0,06-01-2010,Alm.,6428,4,Villa,77,1777,0 %
+Nøddevej 8 4171 Glumsø,8,2080000.0,21-12-2009,Alm.,12455,5,Villa,167,1978,
+Skyttemarksvej 1 4171 Glumsø,1,2065000.0,17-12-2009,Alm.,13859,6,Stuehus,149,1885,-6 %
+Østergårdsvej 5 4171 Glumsø,5,1850000.0,16-12-2009,Alm.,9635,6,Villa,192,1964,-2 %
+Skelbyvej 129 4171 Glumsø,129,970000.0,02-12-2009,Alm.,7886,4,Villa,123,1912,-3 %
+Sorøvej 23 4171 Glumsø,23,1411000.0,17-11-2009,Auktion,9798,6,Villa,144,1907,
+Dadestien 6 4171 Glumsø,6,350000.0,12-11-2009,Alm.,3645,5,Villa,96,1880,-29 %
+Skullerupvej 15 4171 Glumsø,15,1600000.0,23-10-2009,Alm.,5882,5,Villa,272,1920,-14 %
+"Glumsøparken 16, 1. TV 4171 Glumsø",0,775000.0,20-10-2009,Alm.,10064,3,Lejlighed,77,1969,0 %
+Mejsevej 28 4171 Glumsø,28,2115000.0,25-09-2009,Alm.,13136,5,Villa,161,2008,-4 %
+Grøftebjergvej 8 4171 Glumsø,8,890000.0,24-09-2009,Auktion,6137,4,Villa,145,1900,-31 %
+Elmevej 19 4171 Glumsø,19,1475000.0,11-09-2009,Alm.,10172,5,Villa,145,1973,-5 %
+Mejsevej 50 4171 Glumsø,50,625000.0,29-07-2009,Alm.,2853,5,Villa,219,2011,
+Tyvelsevej 30 4171 Glumsø,30,3500000.0,02-07-2009,Alm.,17241,6,Villa,203,1999,-3 %
+Vråvej 2 4171 Glumsø,2,1079211.0,30-06-2009,Andet,11241,5,Villa,96,1964,
+Åsøvej 26 4171 Glumsø,26,1175000.0,28-06-2009,Alm.,14687,3,Villa,80,1870,-2 %
+Søpark Alle 69 4171 Glumsø,69,3000000.0,26-06-2009,Alm.,14778,7,Villa,203,2008,-6 %
+Spurvevej 85 4171 Glumsø,85,1695000.0,11-06-2009,Alm.,12107,5,Villa,140,1980,0 %
+Vrangstrupvej 37 4171 Glumsø,37,1210000.0,19-05-2009,Alm.,8642,5,Villa,140,1850,-3 %
+Sorøvej 66 4171 Glumsø,66,1500000.0,09-05-2009,Alm.,12096,4,Villa,124,1897,-6 %
+Tyvelse Bygade 13 4171 Glumsø,13,1600000.0,05-05-2009,Alm.,16666,4,Villa,96,1937,
+Sorøvej 60 4171 Glumsø,60,846113.0,01-05-2009,Andet,5716,7,Villa,148,1907,
+Dadestien 19 4171 Glumsø,19,1000000.0,30-04-2009,Alm.,16129,3,Villa,62,1897,-28 %
+Stendyssevej 35 4171 Glumsø,35,2600000.0,02-04-2009,Alm.,13756,5,Villa,189,2014,
+Lindevej 9 4171 Glumsø,9,1352000.0,01-04-2009,Andet,10903,4,Villa,124,1962,
+Drosselvej 7 4171 Glumsø,7,1286708.0,18-03-2009,Alm.,7394,5,Villa,174,2008,
+Elmevej 37 4171 Glumsø,37,1890000.0,10-03-2009,Alm.,14318,5,Villa,132,1973,
+Mosevangen 10 4171 Glumsø,10,150000.0,26-02-2009,Fam.,1875,2,Villa,80,1977,
+Suså Landevej 150 4171 Glumsø,150,1045000.0,21-02-2009,Alm.,11117,4,Villa,94,1938,-5 %
+Østergade 27 4171 Glumsø,27,1550000.0,18-02-2009,Alm.,9935,6,Villa,156,1960,-9 %
+Sorøvej 76 4171 Glumsø,76,1465000.0,04-02-2009,Alm.,11269,5,Villa,130,1966,-8 %
+Spurvevej 154 4171 Glumsø,154,1800000.0,03-02-2009,Alm.,13533,4,Villa,133,2009,-10 %
+Mejsevej 46 4171 Glumsø,46,1250000.0,28-01-2009,Andet,6944,5,Villa,180,2008,-61 %
+Ny Skolevej 3 4171 Glumsø,3,827519.0,20-01-2009,Alm.,4728,6,Villa,175,1962,
+Bækgårdsvej 4 4171 Glumsø,4,4140000.0,09-12-2008,Fam.,25875,7,Stuehus,160,1954,
+"Glumsøparken 18, 1. TV 4171 Glumsø",0,525000.0,30-10-2008,Alm.,13815,1,Lejlighed,38,1969,
+Nødholmsvej 5 4171 Glumsø,5,1750000.0,28-10-2008,Alm.,12068,5,Villa,145,1924,-12 %
+Vrangstrupvej 63 4171 Glumsø,63,797117.0,28-09-2008,Alm.,4661,5,Villa,171,1880,
+Ringstedvej 13 4171 Glumsø,13,1500000.0,18-09-2008,Alm.,14150,4,Villa,106,1938,
+Tyvelse Bygade 9 4171 Glumsø,9,1585000.0,08-09-2008,Alm.,8430,4,Villa,188,1929,-12 %
+Bøgevej 35 4171 Glumsø,35,375000.0,04-09-2008,Fam.,3205,4,Villa,117,1977,
+Åsø Mosevej 9 4171 Glumsø,9,975000.0,01-09-2008,Alm.,9375,5,Villa,104,1920,-2 %
+Søpark Alle 85 4171 Glumsø,85,1421500.0,30-08-2008,Alm.,8940,5,Villa,159,2008,
+Erantisvej 17 4171 Glumsø,17,868000.0,01-08-2008,Fam.,6069,6,Villa,143,1966,
+Erantisvej 3 4171 Glumsø,3,1295000.0,10-07-2008,Alm.,13776,3,Villa,94,1967,0 %
+Birkelunden 18 4171 Glumsø,18,2360000.0,20-06-2008,Alm.,17101,5,Villa,138,2007,-4 %
+"Glumsøparken 8, 2. TH 4171 Glumsø",0,1250000.0,20-06-2008,Alm.,13157,4,Lejlighed,95,1966,-3 %
+Holmager 44 4171 Glumsø,44,1375000.0,16-06-2008,Alm.,11270,3,Villa,122,1900,-1 %
+Elmevej 50 4171 Glumsø,50,1520000.0,30-05-2008,Alm.,14339,4,Villa,106,1972,-2 %
+Mejsevej 6 4171 Glumsø,6,2100000.0,29-05-2008,Alm.,17073,4,Rækkehus,123,2008,-6 %
+Nyvej 33 4171 Glumsø,33,2150000.0,27-05-2008,Alm.,17338,4,Villa,124,1909,-14 %
+Tyvelsevej 91 4171 Glumsø,91,925000.0,26-05-2008,Alm.,7115,5,Villa,130,1936,-11 %
+Bavelsevej 12 4171 Glumsø,12,1498000.0,05-05-2008,Alm.,12483,3,Villa,120,1951,0 %
+Drosselvej 3 4171 Glumsø,3,2495000.0,23-04-2008,Alm.,14505,5,Villa,172,2006,0 %
+Spurvevej 41 4171 Glumsø,41,2135000.0,06-04-2008,Alm.,17791,3,Villa,120,1985,-3 %
+Skelbyvej 123 4171 Glumsø,123,1054500.0,06-04-2008,Andet,8573,4,Villa,123,1877,
+Nødholmsvej 63 4171 Glumsø,63,1350000.0,31-03-2008,Alm.,10384,4,Villa,130,1887,-13 %
+Ringstedvej 21 4171 Glumsø,21,1195000.0,12-03-2008,Alm.,10863,4,Villa,110,1910,
+Åsøvej 34A 4171 Glumsø,0,500000.0,12-03-2008,Alm.,2032,5,Villa,246,2012,
+Dadestien 23 4171 Glumsø,23,614539.0,10-03-2008,Alm.,6828,4,Villa,90,1840,
+Østergade 11 4171 Glumsø,11,1145000.0,06-03-2008,Alm.,6189,7,Villa,185,1906,0 %
+Ulstrup Mosevej 3 4171 Glumsø,3,2200000.0,05-03-2008,Alm.,12790,4,Villa,172,1877,-12 %
+Sandbyvej 20 4171 Glumsø,20,800000.0,21-01-2008,Alm.,8695,4,Villa,92,1877,-6 %
+Mejsevej 18 4171 Glumsø,18,685000.0,18-12-2007,Alm.,5805,4,Villa,118,2008,-1 %
+Åsøvej 42 4171 Glumsø,42,4759999.0,10-12-2007,Fam.,35259,5,Stuehus,135,1912,
+Sandbyparkvej 17 4171 Glumsø,17,1620000.0,07-12-2007,Alm.,9878,5,Villa,164,1974,-4 %
+Stenpladsvej 13 4171 Glumsø,13,1000000.0,28-11-2007,Alm.,7092,5,Villa,141,1850,
+Sandbyvej 57 4171 Glumsø,57,4760000.0,19-11-2007,Alm.,23800,6,Villa,200,1938,
+Nødholmsvej 49 4171 Glumsø,49,1465000.0,25-10-2007,Alm.,9331,5,Villa,157,1939,-2 %
+Åvej 19 4171 Glumsø,19,250000.0,25-10-2007,Alm.,776,5,Villa,322,2007,-89 %
+Møllebækvej 9 4171 Glumsø,9,4453767.0,26-09-2007,Fam.,27836,6,Stuehus,160,1916,
+Bøgevej 67 4171 Glumsø,67,1350000.0,25-09-2007,Alm.,15882,3,Rækkehus,85,1977,
+Elmevej 12 4171 Glumsø,12,1325000.0,19-09-2007,Alm.,12619,3,Villa,105,1972,
+Sorøvej 88 4171 Glumsø,88,1450000.0,19-09-2007,Alm.,13551,3,Villa,107,1949,-3 %
+Birkelunden 3 4171 Glumsø,3,480000.0,17-09-2007,Alm.,2376,6,Villa,202,2009,
+Spurvevej 94 4171 Glumsø,94,2395000.0,14-09-2007,Alm.,18423,4,Villa,130,2003,0 %
+Åvej 14 4171 Glumsø,14,2000000.0,31-08-2007,Alm.,10989,4,Villa,182,1890,
+Sandbyvej 63 4171 Glumsø,63,1810000.0,29-08-2007,Auktion,15877,4,Villa,114,1914,-1 %
+Gammel Næstvedvej 25 4171 Glumsø,25,2495000.0,28-08-2007,Alm.,12053,7,Villa,207,1862,
+Bøgevej 8 4171 Glumsø,8,870000.0,27-08-2007,Fam.,6304,4,Villa,138,1976,
+Dadestien 9 4171 Glumsø,9,3500000.0,20-08-2007,Alm.,25735,4,Villa,136,2003,-12 %
+Stationsvej 15 4171 Glumsø,15,1745000.0,17-08-2007,Alm.,12830,5,Villa,136,1973,
+Vråvej 1 4171 Glumsø,1,1600000.0,07-08-2007,Alm.,11764,4,Villa,136,1973,
+Spurvevej 100 4171 Glumsø,100,1243500.0,04-08-2007,Andet,7401,6,Villa,168,1997,
+Næsbyvej 7 4171 Glumsø,7,805000.0,26-07-2007,Alm.,0,5,Villa,176,1877,
+Mejsevej 5 4171 Glumsø,5,525000.0,09-07-2007,Alm.,3620,5,Villa,145,2008,11 %
+Spurvevej 43 4171 Glumsø,43,1975000.0,06-07-2007,Alm.,0,5,Villa,144,1988,0 %
+Vinderupvej 24 4171 Glumsø,24,3400000.0,02-07-2007,Alm.,11295,9,Villa,301,1900,-3 %
+Bøgevej 18 4171 Glumsø,18,1100000.0,27-06-2007,Alm.,7857,5,Villa,140,1977,
+Bavelsevej 17 4171 Glumsø,17,552500.0,19-06-2007,Fam.,3946,4,Villa,140,1907,
+Realskolevej 2 4171 Glumsø,2,925000.0,11-06-2007,Alm.,6801,4,Villa,136,1886,
+Mosevangen 8 4171 Glumsø,8,2575000.0,09-06-2007,Alm.,21280,5,Villa,121,1912,
+Elmevej 31 4171 Glumsø,31,1640000.0,31-05-2007,Alm.,0,4,Villa,155,1973,
+Sandbyvej 76 4171 Glumsø,76,1480000.0,31-05-2007,Alm.,0,5,Villa,204,1941,
+Mejsevej 48 4171 Glumsø,48,710000.0,25-05-2007,Alm.,4863,5,Villa,146,2008,
+Spurvevej 49 4171 Glumsø,49,1875000.0,23-05-2007,Alm.,15625,4,Villa,120,1985,-2 %
+Nyvej 8 4171 Glumsø,8,510000.0,20-05-2007,Alm.,5666,2,Rækkehus,90,2012,-11 %
+Skolevej 5 4171 Glumsø,5,1231029.0,09-05-2007,Andet,8098,7,Villa,152,1962,
+Mejsevej 32 4171 Glumsø,32,625000.0,20-04-2007,Alm.,4032,5,Villa,155,2008,
+Skelbyvej 93 4171 Glumsø,93,1880000.0,23-03-2007,Alm.,10444,7,Villa,180,1887,
+Tjørnegærdet 3 4171 Glumsø,3,1995000.0,22-03-2007,Alm.,10961,6,Villa,182,1897,0 %
+Åsøvej 40 4171 Glumsø,40,1525000.0,20-03-2007,Alm.,12298,5,Villa,124,1912,
+Sandbyparkvej 8 4171 Glumsø,8,1645000.0,13-03-2007,Alm.,12368,5,Villa,133,1978,0 %
+"Glumsøparken 10, ST. MF 4171 Glumsø",0,465000.0,07-03-2007,Alm.,11923,1,Lejlighed,39,1969,
+Bøgevej 38 4171 Glumsø,38,1625000.0,23-02-2007,Alm.,13771,4,Villa,118,1977,
+Grøftebjergvej 7 4171 Glumsø,7,706250.0,19-02-2007,Alm.,8828,3,Villa,80,1827,
+Spurvevej 146A 4171 Glumsø,0,1495000.0,17-02-2007,Alm.,16797,3,Rækkehus,89,2007,
+Ringstedvej 9 4171 Glumsø,9,2095000.0,16-02-2007,Alm.,16240,4,Villa,129,1927,
+Spurvevej 146B 4171 Glumsø,0,1495000.0,02-02-2007,Alm.,16797,3,Rækkehus,89,2007,
+Vrangstrupvej 67 4171 Glumsø,67,1800000.0,30-01-2007,Alm.,16666,5,Villa,108,1880,-10 %
+Stendyssevej 5 4171 Glumsø,5,1395000.0,26-01-2007,Alm.,0,6,Villa,118,1928,
+Elmevej 13 4171 Glumsø,13,1960000.0,13-01-2007,Alm.,0,6,Villa,170,1973,
+Spurvevej 122 4171 Glumsø,122,2095000.0,02-01-2007,Alm.,17458,4,Villa,120,2001,0 %
+Mejsevej 16 4171 Glumsø,16,651888.0,02-01-2007,Alm.,3812,5,Villa,171,2013,
+Skelbyvej 102 4171 Glumsø,102,1325000.0,13-12-2006,Alm.,10192,5,Villa,130,1877,
+Mejsevej 40 4171 Glumsø,40,681111.0,11-12-2006,Alm.,3422,4,Villa,199,2008,
+Mejsevej 25 4171 Glumsø,25,575000.0,04-12-2006,Alm.,3026,5,Villa,190,2008,
+Stendyssevej 21 4171 Glumsø,21,2995000.0,21-11-2006,Alm.,18718,5,Villa,160,2007,
+Mejsevej 29 4171 Glumsø,29,525000.0,17-11-2006,Alm.,3017,6,Villa,174,2007,
+Mejsevej 27 4171 Glumsø,27,525000.0,17-11-2006,Alm.,3723,4,Villa,141,2007,
+Mejsevej 7 4171 Glumsø,7,475000.0,17-11-2006,Alm.,3064,5,Villa,155,2007,
+Mejsevej 35 4171 Glumsø,35,575000.0,17-11-2006,Alm.,3965,4,Villa,145,2007,
+Mejsevej 31 4171 Glumsø,31,525000.0,17-11-2006,Alm.,3162,5,Villa,166,2008,
+Mejsevej 44 4171 Glumsø,44,575000.0,17-11-2006,Alm.,3527,5,Villa,163,2007,
+Mejsevej 24 4171 Glumsø,24,625000.0,17-11-2006,Alm.,4006,5,Villa,156,2007,
+Mejsevej 36 4171 Glumsø,36,950000.0,17-11-2006,Alm.,4656,4,Villa,204,2008,
+Mejsevej 3 4171 Glumsø,3,575000.0,17-11-2006,Alm.,3527,4,Villa,163,2008,
+Drosselvej 55 4171 Glumsø,55,2585000.0,14-11-2006,Alm.,16464,4,Villa,157,2006,
+Skyttemarksvej 2 4171 Glumsø,2,88494.0,06-11-2006,Alm.,359,8,Stuehus,246,2010,
+Birkelunden 14 4171 Glumsø,14,475000.0,31-10-2006,Alm.,3125,5,Villa,152,2009,
+Skelbyvej 83 4171 Glumsø,83,2385000.0,31-10-2006,Alm.,11925,6,Stuehus,200,1902,
+Ringstedvej 18 4171 Glumsø,18,1810000.0,03-10-2006,Alm.,13923,3,Villa,130,1923,
+Kirkevej 25 4171 Glumsø,25,143302.0,01-10-2006,Alm.,895,7,Stuehus,160,1885,
+Dadevej 36 4171 Glumsø,36,1275000.0,15-09-2006,Alm.,14655,3,Rækkehus,87,2005,
+Suså Landevej 120 4171 Glumsø,120,3895000.0,12-09-2006,Alm.,15456,8,Villa,252,1875,
+Elmevej 26 4171 Glumsø,26,1630000.0,11-09-2006,Alm.,9644,5,Villa,169,1972,
+Stenholmsvej 1 4171 Glumsø,1,1315000.0,11-09-2006,Alm.,9962,5,Villa,132,1877,
+"Glumsøparken 6, ST. TH 4171 Glumsø",0,1015000.0,23-08-2006,Alm.,11153,4,Lejlighed,91,1966,
+Østergårdsvej 2 4171 Glumsø,2,1375000.0,21-08-2006,Alm.,11853,3,Villa,116,1920,
+Brobakken 10 4171 Glumsø,10,717293.0,19-07-2006,Andet,5123,3,Villa,140,1916,
+Sandbypark Alle 1 4171 Glumsø,1,1499000.0,19-07-2006,Alm.,10128,6,Villa,148,1971,
+Sandbyparkvej 4 4171 Glumsø,4,1660000.0,12-07-2006,Alm.,13606,5,Villa,122,1975,
+Østergårdsvej 16 4171 Glumsø,16,650000.0,07-07-2006,Alm.,3757,6,Villa,173,2008,
+Sandbyparkvej 6 4171 Glumsø,6,660410.0,04-07-2006,Fam.,0,10,Villa,266,1972,
+Toften 3 4171 Glumsø,3,1795000.0,25-06-2006,Alm.,13914,4,Villa,129,1877,
+"Glumsøparken 10, 1. MF 4171 Glumsø",0,415000.0,18-06-2006,Alm.,10641,1,Lejlighed,39,1969,
+Bækgårdsvej 3 4171 Glumsø,3,11014000.0,14-06-2006,Fam.,68837,4,Stuehus,160,1877,
+Skelbyvej 116 4171 Glumsø,116,835000.0,09-06-2006,Alm.,8350,2,Villa,100,1917,
+Spurvevej 83 4171 Glumsø,83,1925000.0,08-06-2006,Alm.,15650,4,Villa,123,1985,
+Spurvevej 134 4171 Glumsø,134,2195000.0,27-05-2006,Alm.,11675,5,Villa,188,1999,
+Spurvevej 60 4171 Glumsø,60,2250000.0,19-05-2006,Alm.,16071,4,Villa,140,2004,
+Elmevej 28 4171 Glumsø,28,1375000.0,18-05-2006,Alm.,13095,3,Villa,105,1970,
+Storegade 37 4171 Glumsø,37,1625000.0,13-04-2006,Alm.,11861,6,Villa,137,1845,
+Sandbyvej 35 4171 Glumsø,35,555000.0,07-04-2006,Auktion,5663,4,Villa,98,1900,
+Skelbyvej 88 4171 Glumsø,88,1280000.0,03-04-2006,Alm.,6918,5,Villa,185,1877,
+Tyvelsevej 55 4171 Glumsø,55,7068632.0,12-03-2006,Fam.,41580,5,Stuehus,170,1976,
+Ringstedvej 8 4171 Glumsø,8,1536000.0,22-02-2006,Alm.,7314,7,Villa,210,1910,
+Vråvej 6 4171 Glumsø,6,1055000.0,21-02-2006,Alm.,11467,4,Villa,92,1965,
+"Glumsøparken 2, 2. TH 4171 Glumsø",0,675000.0,18-02-2006,Alm.,12500,2,Lejlighed,54,1964,
+"Glumsøparken 2, 1. TH 4171 Glumsø",0,550000.0,31-01-2006,Alm.,10377,2,Lejlighed,53,1964,
+Møllebækvej 8 4171 Glumsø,8,2088000.0,17-01-2006,Alm.,13647,7,Villa,153,1877,
+Realskolevej 20 4171 Glumsø,20,1675000.0,06-01-2006,Alm.,12500,4,Villa,134,1925,
+Nyvej 2 4171 Glumsø,2,875000.0,05-01-2006,Alm.,9615,4,Villa,91,1933,
+Østergade 29 4171 Glumsø,29,1000000.0,31-12-2005,Fam.,0,4,Villa,84,1959,
+Stenholmsvej 12 4171 Glumsø,12,841000.0,22-12-2005,Fam.,4724,6,Villa,178,1946,
+Stenholmsvej 14 4171 Glumsø,14,561000.0,22-12-2005,Fam.,5610,4,Villa,100,1947,
+Skelbyvej 98 4171 Glumsø,98,1325000.0,22-12-2005,Alm.,7614,4,Villa,174,1930,
+Østergade 28 4171 Glumsø,28,1763100.0,07-12-2005,Alm.,11019,4,Villa,160,1919,
+Vinderupvej 25 4171 Glumsø,25,2050000.0,04-12-2005,Fam.,17672,5,Stuehus,116,1927,
+Sandbyvej 10 4171 Glumsø,10,1725000.0,18-11-2005,Alm.,0,4,Stuehus,157,1872,
+Birkelunden 2 4171 Glumsø,2,375000.0,17-11-2005,Alm.,2300,4,Villa,163,2008,
+Brobakken 1 4171 Glumsø,1,20233.0,16-11-2005,Fam.,0,6,Villa,188,2006,
+Sorøvej 15 4171 Glumsø,15,3895000.0,10-11-2005,Alm.,11661,10,Villa,334,1913,
+Ringstedvej 17 4171 Glumsø,17,1285000.0,09-11-2005,Alm.,13247,4,Villa,97,1922,
+Spurvevej 76 4171 Glumsø,76,2375000.0,07-11-2005,Alm.,12907,5,Villa,184,2004,
+Søpark Alle 77 4171 Glumsø,77,459025.0,07-11-2005,Alm.,3425,3,Villa,134,2007,
+Fægangen 7 4171 Glumsø,7,1375000.0,04-11-2005,Alm.,9751,6,Villa,141,1900,
+"Storegade 10, 1 4171 Glumsø",1,1060000.0,03-11-2005,Alm.,10495,4,Lejlighed,101,1900,
+Tyvelsevej 57 4171 Glumsø,57,2050000.0,03-11-2005,Alm.,9070,9,Villa,226,1934,
+Spurvevej 71 4171 Glumsø,71,1399000.0,01-11-2005,Alm.,11467,4,Villa,122,1980,
+Skelbyvej 108 4171 Glumsø,108,2465000.0,18-10-2005,Alm.,9372,7,Villa,263,1777,
+Holmager 34 4171 Glumsø,34,706937.0,14-10-2005,Andet,4560,6,Villa,155,1900,
+Kornvænget 14 4171 Glumsø,14,1965000.0,09-10-2005,Alm.,10128,7,Villa,194,2002,
+Tyvelsevej 38 4171 Glumsø,38,1675000.0,04-10-2005,Alm.,11394,6,Villa,147,1972,
+Skelbyvej 86 4171 Glumsø,86,3095000.0,01-10-2005,Alm.,14004,7,Villa,221,1983,
+Tyvelsevej 95 4171 Glumsø,95,2295000.0,28-09-2005,Alm.,13909,5,Villa,165,1887,
+Stendyssevej 39 4171 Glumsø,39,483755.0,27-09-2005,Alm.,3042,5,Villa,159,2007,
+"Glumsøparken 14, ST. TV 4171 Glumsø",0,695000.0,26-09-2005,Alm.,9025,3,Lejlighed,77,1969,
+Dadevej 28A 4171 Glumsø,0,1095000.0,26-09-2005,Alm.,12443,3,Rækkehus,88,2003,
+Tyvelse Bygade 24 4171 Glumsø,24,355000.0,26-09-2005,Alm.,2448,4,Villa,145,1920,
+Søpark Alle 89 4171 Glumsø,89,491425.0,23-09-2005,Alm.,3033,5,Villa,162,2008,
+Stendyssevej 31 4171 Glumsø,31,526975.0,22-09-2005,Alm.,2994,5,Villa,176,2008,
+Vinderupvej 20 4171 Glumsø,20,2125000.0,19-09-2005,Alm.,15178,6,Stuehus,140,1967,
+Stendyssevej 33 4171 Glumsø,33,459700.0,18-09-2005,Alm.,2837,5,Villa,162,2006,
+Gammel Næstvedvej 34 4171 Glumsø,34,1095000.0,18-09-2005,Alm.,11406,4,Villa,96,1961,
+Søpark Alle 95 4171 Glumsø,95,485000.0,18-09-2005,Alm.,2975,6,Villa,163,2006,
+Stendyssevej 27 4171 Glumsø,27,478000.0,15-09-2005,Alm.,2426,8,Villa,197,2006,
+"Glumsøparken 16, 1. TH 4171 Glumsø",0,670000.0,09-09-2005,Alm.,10468,2,Lejlighed,64,1969,
+Anlægsvej 7 4171 Glumsø,7,1850000.0,08-09-2005,Alm.,18316,4,Villa,101,1959,
+Birkelunden 7 4171 Glumsø,7,355000.0,06-09-2005,Alm.,0,3,Villa,112,2006,
+Birkelunden 12 4171 Glumsø,12,325000.0,06-09-2005,Alm.,1900,7,Villa,171,2008,
+Nødholmsvej 16 4171 Glumsø,16,1495000.0,05-09-2005,Alm.,12254,4,Villa,122,1962,
+Søpark Alle 79 4171 Glumsø,79,528625.0,01-09-2005,Alm.,3263,5,Villa,162,2006,
+Søpark Alle 93 4171 Glumsø,93,500000.0,01-09-2005,Alm.,3067,5,Villa,163,2006,
+Skovgårdsvej 4 4171 Glumsø,4,2790000.0,29-08-2005,Alm.,19241,6,Villa,145,1970,
+"Glumsøparken 10, 1. TV 4171 Glumsø",0,635000.0,23-08-2005,Alm.,9338,2,Lejlighed,68,1969,
+Ringstedvej 11 4171 Glumsø,11,1525000.0,23-08-2005,Alm.,9355,5,Villa,163,1931,
+Søpark Alle 75 4171 Glumsø,75,456200.0,13-08-2005,Alm.,3932,4,Villa,116,2006,
+Næsbyvej 47 4171 Glumsø,47,580000.0,11-08-2005,Fam.,3741,5,Villa,155,1850,
+Stendyssevej 25 4171 Glumsø,25,441475.0,09-08-2005,Alm.,3246,5,Villa,136,2006,
+Nyvej 39 4171 Glumsø,39,1643415.0,08-08-2005,Alm.,10534,6,Villa,156,1844,
+Dadestien 19A 4171 Glumsø,0,695000.0,06-08-2005,Alm.,3994,6,Villa,174,2007,
+Stendyssevej 37 4171 Glumsø,37,510000.0,04-08-2005,Alm.,2463,7,Villa,207,2008,
+Stendyssevej 29 4171 Glumsø,29,605000.0,01-08-2005,Alm.,3055,5,Villa,198,2006,
+Engvangen 6 4171 Glumsø,6,1510000.0,01-08-2005,Alm.,7743,5,Villa,195,1964,
+Søpark Alle 91 4171 Glumsø,91,500000.0,01-08-2005,Alm.,3164,5,Villa,158,2007,
+Dadevej 29 4171 Glumsø,29,1343000.0,28-07-2005,Alm.,9262,5,Villa,145,1978,
+Tyvelsevej 62 4171 Glumsø,62,2167500.0,28-07-2005,Fam.,10224,6,Stuehus,212,2008,
+Kirkevej 31 4171 Glumsø,31,1165000.0,28-07-2005,Alm.,9320,4,Villa,125,1962,
+Skelbyvej 95 4171 Glumsø,95,970000.0,25-07-2005,Alm.,5078,4,Villa,191,1777,
+Spurvevej 124 4171 Glumsø,124,1695000.0,12-07-2005,Alm.,9854,5,Villa,172,2005,
+Vibevej 18 4171 Glumsø,18,1250000.0,27-06-2005,Alm.,10504,4,Villa,119,1968,
+Elmevej 64 4171 Glumsø,64,1495000.0,23-06-2005,Alm.,10678,4,Villa,140,1973,
+Sandbypark Alle 10 4171 Glumsø,10,225000.0,21-06-2005,Alm.,1730,5,Villa,130,2007,
+Erantisvej 5 4171 Glumsø,5,1900000.0,12-06-2005,Alm.,12925,9,Villa,147,1965,
+Nyvej 19 4171 Glumsø,19,995000.0,08-06-2005,Alm.,7653,4,Villa,130,1907,
+Erantisvej 2 4171 Glumsø,2,1198000.0,07-06-2005,Alm.,10327,4,Villa,116,1965,
+Bavnevej 4 4171 Glumsø,4,1398000.0,05-06-2005,Alm.,9575,5,Villa,146,1877,
+Østergade 21 4171 Glumsø,21,1100000.0,04-06-2005,Alm.,9401,4,Villa,117,1962,
+Sorøvej 7 4171 Glumsø,7,935000.0,03-06-2005,Alm.,7540,5,Rækkehus,124,1827,
+Spurvevej 86 4171 Glumsø,86,2465000.0,02-06-2005,Alm.,14166,6,Villa,174,2003,
+Vinderuphøjvej 1 4171 Glumsø,1,4600000.0,01-06-2005,Alm.,23000,8,Stuehus,200,1898,
+Græsmarksvej 2 4171 Glumsø,2,1792000.0,30-05-2005,Alm.,8699,5,Villa,206,1880,
+Søpark Alle 67 4171 Glumsø,67,721900.0,23-05-2005,Alm.,5193,4,Villa,139,2006,
+Sorøvej 95 4171 Glumsø,95,425000.0,19-05-2005,Alm.,0,4,Villa,130,1900,
+Elmevej 44 4171 Glumsø,44,1260000.0,07-05-2005,Alm.,9473,3,Villa,133,1971,
+Birkelunden 6 4171 Glumsø,6,284000.0,26-04-2005,Alm.,1918,5,Villa,148,2007,
+Skelbyvej 114 4171 Glumsø,114,4600000.0,20-04-2005,Alm.,16974,9,Villa,271,1900,
+Dadevej 38 4171 Glumsø,38,1042329.0,19-04-2005,Alm.,11980,3,Rækkehus,87,2005,
+Kirkevej 29 4171 Glumsø,29,1490000.0,19-04-2005,Alm.,0,5,Villa,180,1966,
+Holmager 33 4171 Glumsø,33,2500000.0,14-04-2005,Alm.,10593,5,Villa,236,1850,
+Rugvænget 11 4171 Glumsø,11,210000.0,12-04-2005,Alm.,1173,5,Villa,179,2005,
+Spurvevej 80 4171 Glumsø,80,1920000.0,07-04-2005,Alm.,13913,5,Villa,138,2001,
+Spurvevej 114 4171 Glumsø,114,1725000.0,23-03-2005,Alm.,12683,4,Villa,136,1998,
+Drosselvej 27 4171 Glumsø,27,314480.0,16-03-2005,Alm.,2214,5,Villa,142,2006,
+Skullerupvej 17 4171 Glumsø,17,1300000.0,14-03-2005,Alm.,11818,4,Villa,110,1956,
+Sandbypark Alle 9 4171 Glumsø,9,250000.0,01-03-2005,Alm.,2000,4,Villa,125,2005,
+Drosselvej 13 4171 Glumsø,13,296560.0,24-02-2005,Alm.,1853,5,Villa,160,2005,
+Åstrædet 12 4171 Glumsø,12,1625000.0,22-02-2005,Alm.,13319,5,Villa,122,1780,
+Drosselvej 21 4171 Glumsø,21,303040.0,17-02-2005,Alm.,1429,5,Villa,212,2007,
+Drosselvej 67 4171 Glumsø,67,298480.0,14-02-2005,Alm.,1649,4,Villa,181,2008,
+Drosselvej 25 4171 Glumsø,25,309200.0,13-02-2005,Alm.,1680,5,Villa,184,2006,
+Stenholmsvej 16 4171 Glumsø,16,16561000.0,09-02-2005,Fam.,67048,7,Stuehus,247,1982,
+Birkealle 2 4171 Glumsø,2,995000.0,18-01-2005,Alm.,8432,3,Villa,118,1966,
+Elmevej 46 4171 Glumsø,46,1250000.0,13-01-2005,Alm.,7861,5,Villa,159,1973,
+Drosselvej 23 4171 Glumsø,23,309200.0,14-12-2004,Alm.,0,5,Villa,148,2005,
+Åsøvej 25 4171 Glumsø,25,1765000.0,06-12-2004,Auktion,0,6,Villa,280,1920,
+Dadevej 8 4171 Glumsø,8,425000.0,29-11-2004,Fam.,2179,5,Villa,195,1900,
+Drosselvej 17 4171 Glumsø,17,301600.0,27-11-2004,Alm.,1595,5,Villa,189,2007,
+Drosselvej 19 4171 Glumsø,19,309200.0,21-11-2004,Alm.,1635,6,Villa,189,2006,
+"Glumsøparken 8, ST. MF 4171 Glumsø",0,550000.0,09-11-2004,Alm.,9166,2,Lejlighed,60,1966,
+Skyttemarksvej 5 4171 Glumsø,5,1184000.0,27-10-2004,Fam.,0,6,Stuehus,198,1922,
+Stendyssevej 4 4171 Glumsø,4,1715000.0,27-10-2004,Alm.,7939,6,Villa,216,1973,
+Østergårdsvej 14 4171 Glumsø,14,227125.0,10-10-2004,Alm.,1534,4,Villa,148,2005,
+Ulstrup Mosevej 7 4171 Glumsø,7,1495000.0,08-10-2004,Alm.,7952,7,Villa,188,1820,
+Mosevangen 4 4171 Glumsø,4,2021481.0,05-10-2004,Alm.,13751,5,Villa,147,1990,
+Drosselvej 15 4171 Glumsø,15,309200.0,01-10-2004,Alm.,1829,4,Villa,169,2008,
+Nødholmsvej 52 4171 Glumsø,52,1160000.0,01-09-2004,Alm.,6946,4,Villa,167,1900,
+Drosselvej 65 4171 Glumsø,65,313520.0,25-08-2004,Alm.,1947,6,Villa,161,2006,
+Dadevej 24 4171 Glumsø,24,2907360.0,04-08-2004,Alm.,11629,8,Stuehus,250,1900,
+Drosselvej 5 4171 Glumsø,5,295360.0,19-07-2004,Alm.,1717,5,Villa,172,2008,
+Bøgevej 29 4171 Glumsø,29,321653.0,07-07-2004,Fam.,1848,4,Villa,174,1977,
+Drosselvej 51 4171 Glumsø,51,290000.0,06-07-2004,Alm.,2377,5,Villa,122,2008,
+Rugvænget 21 4171 Glumsø,21,900000.0,26-06-2004,Fam.,0,5,Villa,126,1877,
+Skelbyvej 144 4171 Glumsø,144,2800000.0,24-06-2004,Alm.,15135,6,Stuehus,185,1890,
+Spurvevej 15 4171 Glumsø,15,1620000.0,21-06-2004,Alm.,9418,5,Villa,172,1980,
+Stendyssevej 16 4171 Glumsø,16,1188000.0,15-06-2004,Alm.,9428,4,Villa,126,1970,
+Realskolevej 4 4171 Glumsø,4,720000.0,14-06-2004,Alm.,6486,2,Villa,111,1907,
+Erantisvej 14 4171 Glumsø,14,1225000.0,07-06-2004,Alm.,10745,3,Villa,114,1966,
+Elmevej 42 4171 Glumsø,42,1085000.0,25-05-2004,Alm.,10333,3,Villa,105,1971,
+Almosevej 3 4171 Glumsø,3,480000.0,21-05-2004,Andet,3000,6,Villa,160,1946,
+Næsbyvej 41 4171 Glumsø,41,3875000.0,13-05-2004,Alm.,18902,6,Stuehus,205,1921,
+Dadevej 21 4171 Glumsø,21,2199000.0,13-05-2004,Alm.,15934,4,Villa,138,1900,
+Spurvevej 88 4171 Glumsø,88,1750000.0,13-05-2004,Alm.,12589,5,Villa,139,2004,
+Spurvevej 140 4171 Glumsø,140,245000.0,12-05-2004,Alm.,1644,5,Villa,149,2005,
+Bøgevej 44 4171 Glumsø,44,1125000.0,10-05-2004,Alm.,9221,3,Villa,122,1976,
+Drosselvej 49 4171 Glumsø,49,296800.0,10-05-2004,Alm.,2120,4,Villa,140,2005,
+Drosselvej 61 4171 Glumsø,61,319760.0,27-04-2004,Alm.,2089,5,Villa,153,2005,
+Vandtårnsvej 6 4171 Glumsø,6,1495000.0,10-04-2004,Alm.,10678,4,Stuehus,140,1875,
+Spurvevej 142 4171 Glumsø,142,260000.0,30-03-2004,Alm.,1911,5,Villa,136,2004,
+Østergade 22 4171 Glumsø,22,1107127.0,29-03-2004,Alm.,9544,4,Villa,116,1912,
+Tjørnegærdet 9 4171 Glumsø,9,1387932.0,17-03-2004,Alm.,6251,6,Villa,222,1927,
+Lærkevej 6 4171 Glumsø,6,1015000.0,08-03-2004,Alm.,9759,4,Villa,104,1965,
+Bavelsevej 2 4171 Glumsø,2,1645000.0,26-02-2004,Alm.,10281,5,Villa,160,1910,
+Åsøvej 11 4171 Glumsø,11,2190000.0,25-02-2004,Alm.,8830,5,Villa,248,1910,
+Sandbypark Alle 2 4171 Glumsø,2,1060000.0,11-02-2004,Alm.,7625,4,Villa,139,1978,
+Bækgårdsvej 1 4171 Glumsø,1,1450000.0,06-02-2004,Alm.,8192,5,Villa,177,1900,
+Spurvevej 57 4171 Glumsø,57,1175000.0,05-02-2004,Alm.,0,4,Villa,122,1980,
+Tyvelsevej 100 4171 Glumsø,100,2600000.0,27-01-2004,Alm.,17687,5,Stuehus,147,1974,
+Sorøvej 86 4171 Glumsø,86,845000.0,12-01-2004,Alm.,9602,3,Villa,88,1959,
+Storegade 14 4171 Glumsø,14,775000.0,08-01-2004,Alm.,7989,4,Villa,97,1895,
+Kildevang 6 4171 Glumsø,6,468705.0,26-12-2003,Alm.,0,10,Villa,329,1877,
+Stenholmsvej 3 4171 Glumsø,3,1575000.0,19-12-2003,Alm.,0,10,Villa,226,1900,
+Oddsvej 2 4171 Glumsø,2,790001.0,16-12-2003,Alm.,7979,4,Villa,99,1875,
+Erantisvej 4 4171 Glumsø,4,930000.0,03-12-2003,Alm.,9489,4,Villa,98,1968,
+Bøgevej 16 4171 Glumsø,16,1350000.0,02-12-2003,Alm.,7500,5,Villa,180,1977,
+"Glumsøparken 18, 1. MF 4171 Glumsø",0,271660.0,28-11-2003,Alm.,6965,1,Lejlighed,39,1969,
+Sorøvej 94 4171 Glumsø,94,474107.0,28-11-2003,Alm.,4515,3,Villa,105,1850,
+Spurvevej 144 4171 Glumsø,144,274000.0,26-11-2003,Alm.,1889,5,Villa,145,2004,
+Bavelsevej 5 4171 Glumsø,5,541600.0,19-11-2003,Andet,4513,4,Villa,120,1890,
+Toften 1 4171 Glumsø,1,1500000.0,18-11-2003,Alm.,6756,7,Villa,222,1900,
+Tyvelsevej 59 4171 Glumsø,59,1950000.0,12-11-2003,Alm.,9466,8,Stuehus,206,1925,
+Dadestien 21 4171 Glumsø,21,1424762.0,11-11-2003,Alm.,0,4,Villa,120,1870,
+Elmevej 17 4171 Glumsø,17,1420000.0,25-10-2003,Alm.,8022,5,Villa,177,1973,
+"Glumsøparken 2, 1. MF 4171 Glumsø",0,550000.0,21-10-2003,Alm.,9166,2,Lejlighed,60,1964,
+Almosestien 2 4171 Glumsø,2,695000.0,17-10-2003,Alm.,7988,5,Villa,87,1945,
+Østergade 9 4171 Glumsø,9,825000.0,15-10-2003,Alm.,7236,5,Villa,114,1877,
+Skelbyvej 139 4171 Glumsø,139,1550000.0,13-10-2003,Alm.,8157,9,Villa,190,1864,
+Spurvevej 116 4171 Glumsø,116,1650000.0,06-10-2003,Alm.,10714,6,Villa,154,1997,
+Vrangstrupvej 96 4171 Glumsø,96,1035000.0,01-10-2003,Alm.,0,5,Villa,183,1928,
+Skelbyvej 147 4171 Glumsø,147,3350000.0,22-09-2003,Alm.,0,7,Stuehus,244,1900,
+Spurvevej 132 4171 Glumsø,132,275000.0,18-09-2003,Alm.,2148,5,Villa,128,2005,
+Åstrædet 4 4171 Glumsø,4,450000.0,11-09-2003,Alm.,9375,3,Villa,48,1906,
+Tyvelsevej 44 4171 Glumsø,44,1226000.0,04-09-2003,Alm.,9081,5,Villa,135,1870,
+Tyvelsevej 3 4171 Glumsø,3,1275000.0,28-08-2003,Alm.,5957,6,Villa,214,1936,
+Østergårdsvej 6 4171 Glumsø,6,725000.0,25-08-2003,Alm.,0,4,Villa,106,1956,
+Dadevej 28B 4171 Glumsø,0,1199000.0,22-08-2003,Alm.,13625,3,Rækkehus,88,2003,
+Lindevej 10 4171 Glumsø,10,1243000.0,29-07-2003,Alm.,8124,4,Villa,153,1958,
+Stenholmsvej 2 4171 Glumsø,2,1000000.0,26-07-2003,Alm.,13333,4,Villa,75,1900,
+Elmevej 29 4171 Glumsø,29,1195000.0,14-07-2003,Alm.,7029,6,Villa,170,1973,
+"Glumsøparken 8, 2. TV 4171 Glumsø",0,425000.0,13-07-2003,Alm.,8333,2,Lejlighed,51,1966,
+Åsøvej 50 4171 Glumsø,50,1035000.0,26-06-2003,Alm.,10781,5,Villa,96,1912,
+"Storegade 8, 1 4171 Glumsø",1,1200000.0,24-06-2003,Alm.,0,3,Lejlighed,90,1900,
+Åsø Bygade 13 4171 Glumsø,13,250000.0,12-06-2003,Alm.,3571,3,Villa,70,1827,
+Næsbyvej 42 4171 Glumsø,42,1310000.0,04-06-2003,Alm.,8733,5,Villa,150,1900,
+Realskolevej 1 4171 Glumsø,1,935000.0,27-05-2003,Alm.,5194,9,Villa,180,1911,
+Sandbyparkvej 13 4171 Glumsø,13,1150000.0,16-05-2003,Alm.,8582,4,Villa,134,1974,
+Åsøvej 45 4171 Glumsø,45,3800000.0,13-05-2003,Alm.,21111,5,Villa,180,1900,
+Spurvevej 62 4171 Glumsø,62,236250.0,02-05-2003,Alm.,1875,4,Villa,126,2004,
+Skullerupvej 12 4171 Glumsø,12,1658089.0,05-04-2003,Alm.,9584,5,Villa,173,2002,
+Spurvevej 126 4171 Glumsø,126,275000.0,25-03-2003,Alm.,1666,5,Villa,165,2004,
+Gammel Næstvedvej 37 4171 Glumsø,37,725000.0,07-03-2003,Alm.,5000,5,Villa,145,1827,
+Elmevej 52 4171 Glumsø,52,1170000.0,27-02-2003,Alm.,0,7,Villa,192,1973,
+Sorøvej 90 4171 Glumsø,90,725000.0,27-02-2003,Alm.,7967,3,Villa,91,1949,
+Sandbyvej 3 4171 Glumsø,3,1300000.0,08-02-2003,Alm.,9285,5,Villa,140,1910,
+Stationsvej 11 4171 Glumsø,11,530000.0,20-01-2003,Fam.,9137,3,Villa,58,1925,
+Tyvelsevej 83 4171 Glumsø,83,3725000.0,15-01-2003,Fam.,18349,8,Stuehus,203,1797,
+Næsbyvej 49 4171 Glumsø,49,3250000.0,19-12-2002,Alm.,19696,7,Stuehus,165,1844,
+Kragebjergvej 4 4171 Glumsø,4,1625000.0,27-11-2002,Alm.,12310,5,Villa,132,1928,
+Østergade 31 4171 Glumsø,31,825000.0,22-11-2002,Alm.,7932,4,Villa,104,1924,
+Åsø Bygade 3 4171 Glumsø,3,1503000.0,21-11-2002,Alm.,9696,5,Villa,155,1847,
+Skelbyvej 84 4171 Glumsø,84,580234.0,18-11-2002,Alm.,4795,4,Villa,121,1840,
+Sorøvej 77 4171 Glumsø,77,1015000.0,18-11-2002,Alm.,6633,5,Villa,153,1877,
+Spurvevej 70 4171 Glumsø,70,247375.0,17-11-2002,Alm.,2044,5,Villa,121,2003,
+Vråvej 8 4171 Glumsø,8,950000.0,11-11-2002,Alm.,6418,4,Villa,148,1966,
+Storegade 27 4171 Glumsø,27,932000.0,06-11-2002,Alm.,6012,6,Villa,155,1927,
+Ringstedvej 10 4171 Glumsø,10,1049000.0,14-10-2002,Alm.,0,7,Villa,169,1948,
+Østergårdsvej 15 4171 Glumsø,15,197600.0,11-10-2002,Alm.,0,5,Villa,140,2003,
+Dadestien 15 4171 Glumsø,15,40000.0,03-10-2002,Alm.,800,2,Villa,50,1827,
+Ringstedvej 14 4171 Glumsø,14,658942.0,03-10-2002,Alm.,4845,4,Villa,136,1917,
+Lindevej 8 4171 Glumsø,8,659653.0,30-09-2002,Alm.,6731,3,Villa,98,1963,
+Østergade 18 4171 Glumsø,18,1104000.0,25-09-2002,Alm.,8692,4,Villa,127,1969,
+Spurvevej 64 4171 Glumsø,64,250500.0,20-09-2002,Alm.,1776,4,Villa,141,2003,
+Tyvelsevej 7 4171 Glumsø,7,650000.0,16-09-2002,Alm.,4676,5,Stuehus,139,1902,
+Spurvevej 66 4171 Glumsø,66,232750.0,05-09-2002,Alm.,1650,5,Villa,141,2003,
+Bavelsevej 7 4171 Glumsø,7,1300000.0,31-08-2002,Alm.,8387,4,Villa,155,1923,
+Lindevej 6 4171 Glumsø,6,1495000.0,15-08-2002,Alm.,0,7,Villa,201,1969,
+Oddsvej 4 4171 Glumsø,4,1660098.0,01-08-2002,Alm.,9540,4,Villa,174,1976,
+Tyvelsevej 24 4171 Glumsø,24,875000.0,31-07-2002,Alm.,9615,3,Villa,91,1890,
+Elmevej 66 4171 Glumsø,66,943000.0,27-07-2002,Alm.,10031,3,Villa,94,1974,
+Lærkevej 9 4171 Glumsø,9,1374000.0,11-07-2002,Alm.,8980,5,Villa,153,1979,
+Anlægsvej 5 4171 Glumsø,5,1390000.0,09-07-2002,Alm.,8323,7,Villa,167,1935,
+"Glumsøparken 10, ST. TH 4171 Glumsø",0,105000.0,03-07-2002,Fam.,2837,1,Lejlighed,37,1969,
+Østergårdsvej 12 4171 Glumsø,12,230625.0,27-06-2002,Fam.,1774,5,Villa,130,2003,
+Timannsvej 4 4171 Glumsø,4,970383.0,26-06-2002,Alm.,7188,4,Villa,135,1820,
+Vibevej 6 4171 Glumsø,6,366253.0,21-06-2002,Fam.,2861,4,Villa,128,1964,
+Bøgevej 22 4171 Glumsø,22,1199000.0,17-06-2002,Alm.,7993,5,Villa,150,1976,
+Ølsevej 9 4171 Glumsø,9,941026.0,17-06-2002,Alm.,4952,5,Villa,190,1875,
+Rugvænget 17 4171 Glumsø,17,446250.0,04-06-2002,Fam.,0,10,Villa,305,1897,
+Ringstedvej 24 4171 Glumsø,24,833460.0,03-06-2002,Alm.,10550,4,Villa,79,1924,
+Bøgevej 47 4171 Glumsø,47,1220000.0,15-05-2002,Alm.,9918,3,Villa,123,1977,
+Vinderuphøjvej 9 4171 Glumsø,9,1966329.0,01-05-2002,Alm.,10571,5,Stuehus,186,1900,
+Skullerupvej 8 4171 Glumsø,8,1273929.0,22-04-2002,Alm.,0,6,Villa,243,1877,
+Spurvevej 82 4171 Glumsø,82,227500.0,15-04-2002,Alm.,1516,5,Villa,150,2003,
+Østergårdsvej 13 4171 Glumsø,13,191360.0,10-04-2002,Alm.,1518,4,Villa,126,2002,
+Åvej 15 4171 Glumsø,15,563440.0,07-04-2002,Alm.,2134,7,Stuehus,264,1976,
+Vråvej 4 4171 Glumsø,4,654648.0,22-03-2002,Alm.,6061,3,Villa,108,1965,
+Anlægsvej 9 4171 Glumsø,9,1300000.0,21-03-2002,Alm.,13000,4,Villa,100,1967,
+Nødholmsvej 46 4171 Glumsø,46,745000.0,04-03-2002,Alm.,9312,5,Villa,80,1914,
+Vrangstrupvej 88 4171 Glumsø,88,508988.0,02-03-2002,Andet,0,9,Villa,228,1908,
+Sorøvej 6 4171 Glumsø,6,725000.0,25-02-2002,Alm.,4447,5,Villa,163,1890,
+Sorøvej 54 4171 Glumsø,54,1410000.0,22-02-2002,Alm.,9337,3,Villa,151,1916,
+Spurvevej 84 4171 Glumsø,84,224375.0,18-02-2002,Alm.,1739,5,Villa,129,2003,
+Gammel Næstvedvej 29 4171 Glumsø,29,1525000.0,12-02-2002,Alm.,9531,6,Villa,160,1932,
+Tyvelsevej 87 4171 Glumsø,87,986625.0,07-02-2002,Alm.,0,3,Villa,172,1900,
+Østergårdsvej 4 4171 Glumsø,4,1085797.0,31-01-2002,Alm.,8042,5,Villa,135,1927,
+Åsø Mosevej 13 4171 Glumsø,13,1940089.0,28-01-2002,Alm.,0,4,Stuehus,247,1865,
+"Glumsøparken 2, 1. TV 4171 Glumsø",0,650000.0,25-01-2002,Alm.,7471,4,Lejlighed,87,1964,
+"Glumsøparken 6, 2. TV 4171 Glumsø",0,630000.0,16-01-2002,Alm.,7078,4,Lejlighed,89,1966,
+"Glumsøparken 14, ST. TH 4171 Glumsø",0,499063.0,10-01-2002,Alm.,7797,2,Lejlighed,64,1969,
+Spurvevej 78 4171 Glumsø,78,226875.0,08-01-2002,Alm.,0,3,Villa,130,2003,
+Lærkevej 7 4171 Glumsø,7,1190000.0,20-12-2001,Alm.,7880,6,Villa,151,1964,
+Brobakken 2 4171 Glumsø,2,450000.0,10-12-2001,Alm.,4838,4,Villa,93,2004,
+Bøgevej 31 4171 Glumsø,31,1060000.0,28-11-2001,Alm.,8346,4,Villa,127,1977,
+Spurvevej 74 4171 Glumsø,74,222125.0,26-11-2001,Alm.,2056,4,Villa,108,2002,
+Vrangstrupvej 79 4171 Glumsø,79,1050000.0,24-11-2001,Alm.,0,7,Villa,224,1910,
+Nødholmsvej 6B 4171 Glumsø,0,1240000.0,01-11-2001,Alm.,8211,5,Rækkehus,151,1945,
+Skullerupvej 11 4171 Glumsø,11,1545320.0,01-11-2001,Alm.,13437,4,Villa,115,1929,
+Spurvevej 96 4171 Glumsø,96,257875.0,23-10-2001,Alm.,995,5,Villa,259,2005,
+Anlægsvej 2 4171 Glumsø,2,1094610.0,16-10-2001,Alm.,7818,6,Villa,140,1930,
+Bøgevej 42 4171 Glumsø,42,1093000.0,09-10-2001,Alm.,7807,4,Villa,140,1976,
+Præsteengen 6 4171 Glumsø,6,2350000.0,01-10-2001,Alm.,10585,6,Villa,222,1973,
+Sandbyvej 30 4171 Glumsø,30,1670366.0,24-09-2001,Alm.,14036,4,Stuehus,119,1920,
+Storegade 39 4171 Glumsø,39,825000.0,18-09-2001,Alm.,6600,5,Villa,125,1930,
+Elmevej 43 4171 Glumsø,43,720000.0,12-09-2001,Fam.,6857,3,Villa,105,1972,
+Spurvevej 90 4171 Glumsø,90,245750.0,02-09-2001,Alm.,1535,5,Villa,160,2001,
+Brobakken 4 4171 Glumsø,4,468000.0,24-08-2001,Fam.,5571,4,Villa,84,1900,
+Spurvevej 19 4171 Glumsø,19,1059000.0,09-08-2001,Alm.,9805,4,Villa,108,1987,
+Bøgevej 41 4171 Glumsø,41,1299840.0,12-07-2001,Alm.,8964,5,Villa,145,1977,
+Tyvelsevej 26 4171 Glumsø,26,838008.0,04-07-2001,Alm.,0,4,Villa,143,1890,
+Sandbyvej 13 4171 Glumsø,13,500000.0,28-06-2001,Fam.,2958,6,Stuehus,169,1800,
+Birkealle 5 4171 Glumsø,5,918994.0,20-06-2001,Alm.,8588,4,Villa,107,1952,
+Nødholmsvej 25 4171 Glumsø,25,1627440.0,09-06-2001,Alm.,0,8,Villa,255,1902,
+Nødholmsvej 8 4171 Glumsø,8,1186500.0,06-06-2001,Alm.,9887,4,Villa,120,1951,
+Næsbyvej 39 4171 Glumsø,39,235812.0,19-05-2001,Alm.,1773,4,Villa,133,1877,
+Spurvevej 120 4171 Glumsø,120,190000.0,26-04-2001,Alm.,1225,5,Villa,155,2001,
+Åsø Bygade 21 4171 Glumsø,21,431000.0,26-04-2001,Fam.,5455,2,Villa,79,1952,
+Holmager 49 4171 Glumsø,49,627772.0,17-04-2001,Fam.,3062,6,Villa,205,1897,
+Tyvelse Bygade 11 4171 Glumsø,11,608826.0,11-04-2001,Alm.,6276,4,Villa,97,1935,
+Elmevej 56 4171 Glumsø,56,791000.0,05-04-2001,Alm.,7533,3,Villa,105,1972,
+Dadevej 30 4171 Glumsø,30,140000.0,02-04-2001,Fam.,1750,3,Villa,80,2008,
+Ulstrup Mosevej 11 4171 Glumsø,11,374363.0,27-03-2001,Alm.,2581,3,Villa,145,1954,
+Kornvænget 8 4171 Glumsø,8,170000.0,26-03-2001,Alm.,1307,3,Villa,130,2002,
+Sandbyparkvej 19 4171 Glumsø,19,1021000.0,20-03-2001,Alm.,7853,5,Villa,130,1977,
+Stenpladsvej 3 4171 Glumsø,3,1600000.0,20-03-2001,Fam.,17777,2,Stuehus,90,1800,
+Bøgevej 13 4171 Glumsø,13,1319000.0,14-03-2001,Alm.,8509,5,Villa,155,1987,
+Vrangstrupvej 57 4171 Glumsø,57,2000000.0,08-03-2001,Alm.,11695,8,Stuehus,171,1956,
+Lindevej 5 4171 Glumsø,5,1056295.0,06-03-2001,Alm.,10156,3,Villa,104,1925,
+Vrangstrupvej 48 4171 Glumsø,48,1615000.0,03-03-2001,Alm.,9228,7,Stuehus,175,1900,
+Sandbyvej 64 4171 Glumsø,64,330000.0,20-02-2001,Fam.,6000,2,Villa,55,1902,
+"Glumsøparken 18, ST. MF 4171 Glumsø",0,150000.0,20-02-2001,Alm.,3846,1,Lejlighed,39,1969,
+Storegade 29A 4171 Glumsø,0,443000.0,20-02-2001,Alm.,6152,3,Rækkehus,72,1890,
+Skelbyvej 121 4171 Glumsø,121,1560000.0,14-02-2001,Alm.,11908,4,Villa,131,1887,
+Åsøvej 34 4171 Glumsø,34,304127.0,14-02-2001,Alm.,1924,5,Villa,158,1877,
+Dadestien 8 4171 Glumsø,8,185000.0,01-02-2001,Alm.,0,4,Villa,127,1850,
+Nøddevej 7 4171 Glumsø,7,500000.0,30-01-2001,Fam.,3846,4,Villa,130,1978,
+Østergårdsvej 11 4171 Glumsø,11,198640.0,21-01-2001,Alm.,1601,4,Villa,124,2001,
+Tyvelsevej 90 4171 Glumsø,90,1245669.0,16-01-2001,Alm.,5212,5,Villa,239,1920,
+Grøftebjergvej 5 4171 Glumsø,5,225000.0,05-12-2000,Fam.,1730,3,Villa,130,1865,
+Suså Landevej 148 4171 Glumsø,148,500000.0,28-11-2000,Alm.,6250,3,Villa,80,1938,
+Østergårdsvej 20 4171 Glumsø,20,239500.0,28-11-2000,Alm.,1674,4,Villa,143,2001,
+Sandbyvej 75 4171 Glumsø,75,1317180.0,27-11-2000,Alm.,0,5,Villa,214,1870,
+Spurvevej 13 4171 Glumsø,13,1350000.0,23-11-2000,Alm.,7219,6,Villa,187,1983,
+Almosestien 6 4171 Glumsø,6,268000.0,21-11-2000,Alm.,0,4,Villa,118,1927,
+Østergårdsvej 10 4171 Glumsø,10,227500.0,17-11-2000,Alm.,1229,6,Villa,185,2003,
+Åsøvej 38 4171 Glumsø,38,1572288.0,22-10-2000,Alm.,8146,8,Villa,193,1860,
+Dadestien 12 4171 Glumsø,12,1040975.0,22-09-2000,Alm.,5982,3,Villa,174,1850,
+Vinderupvej 16 4171 Glumsø,16,397500.0,28-08-2000,Alm.,2799,6,Stuehus,142,1890,
+Tyvelsevej 43 4171 Glumsø,43,957000.0,28-08-2000,Alm.,6380,4,Villa,150,1920,
+Fægangen 13 4171 Glumsø,13,488656.0,28-08-2000,Alm.,6786,3,Villa,72,1827,
+Brobakken 5 4171 Glumsø,5,1208610.0,26-08-2000,Alm.,0,8,Villa,204,1900,
+Østergårdsvej 22 4171 Glumsø,22,257250.0,16-08-2000,Alm.,1067,5,Villa,241,2003,
+Birkelundsvej 5 4171 Glumsø,5,536000.0,15-08-2000,Alm.,6700,3,Villa,80,1952,
+Spurvevej 87 4171 Glumsø,87,1331054.0,01-08-2000,Alm.,0,6,Villa,187,1981,
+Kornvænget 12 4171 Glumsø,12,1170730.0,30-06-2000,Alm.,5297,7,Villa,221,1976,
+Næsbyvej 35A 4171 Glumsø,0,498000.0,29-06-2000,Alm.,4527,4,Villa,110,1934,
+Spurvevej 102 4171 Glumsø,102,1600000.0,08-06-2000,Alm.,11188,5,Villa,143,1998,
+Engelstoftevej 4 4171 Glumsø,4,2316000.0,02-06-2000,Fam.,12125,8,Stuehus,191,1830,
+Lindevej 1 4171 Glumsø,1,1123640.0,24-04-2000,Alm.,8385,6,Villa,134,1915,
+Spurvevej 138 4171 Glumsø,138,174755.0,22-04-2000,Alm.,1172,5,Villa,149,2000,
+Spurvevej 39 4171 Glumsø,39,1246280.0,20-04-2000,Alm.,6424,7,Villa,194,1980,
+Teglværksvej 1 4171 Glumsø,1,569500.0,17-04-2000,Fam.,3451,5,Villa,165,2007,
+Spurvevej 136 4171 Glumsø,136,215900.0,12-04-2000,Alm.,985,6,Villa,219,2001,
+Tyvelsevej 96 4171 Glumsø,96,1140614.0,10-04-2000,Alm.,6954,5,Stuehus,164,1871,
+Åsøvej 20 4171 Glumsø,20,1148973.0,29-03-2000,Alm.,7923,4,Villa,145,1877,
+Stenpladsvej 5 4171 Glumsø,5,714377.0,10-03-2000,Alm.,0,9,Villa,215,1900,
+Tjørnegærdet 13 4171 Glumsø,13,724228.0,08-03-2000,Alm.,6085,6,Villa,119,1852,
+Ringstedvej 5B 4171 Glumsø,0,886636.0,01-03-2000,Alm.,7643,4,Villa,116,1984,
+Ringstedvej 4 4171 Glumsø,4,1184000.0,09-02-2000,Alm.,5532,8,Villa,214,1928,
+Nødholmsvej 30 4171 Glumsø,30,807500.0,29-12-1999,Fam.,6460,7,Stuehus,125,1914,
+Vinderuphøjvej 6 4171 Glumsø,6,1550000.0,23-12-1999,Alm.,0,4,Stuehus,272,1941,
+Tyvelsevej 98 4171 Glumsø,98,703229.0,12-12-1999,Alm.,0,7,Villa,198,1928,
+Bavnevej 2 4171 Glumsø,2,988900.0,07-12-1999,Alm.,8909,4,Villa,111,1987,
+Brobakken 7 4171 Glumsø,7,805000.0,06-11-1999,Alm.,6098,4,Villa,132,1920,
+Skullerupvej 13 4171 Glumsø,13,982340.0,05-11-1999,Alm.,7016,5,Villa,140,1877,
+Spurvevej 5 4171 Glumsø,5,500000.0,03-11-1999,Fam.,3086,5,Villa,162,1980,
+Erantisvej 8 4171 Glumsø,8,766420.0,29-10-1999,Alm.,7901,3,Villa,97,1969,
+Nødholmsvej 44 4171 Glumsø,44,495000.0,27-08-1999,Andet,8114,2,Stuehus,61,1853,
+Tyvelsevej 54 4171 Glumsø,54,1049545.0,23-08-1999,Alm.,0,7,Villa,223,1948,
+Sorøvej 8 4171 Glumsø,8,1362434.0,18-08-1999,Alm.,8207,5,Villa,166,1967,
+Spurvevej 51 4171 Glumsø,51,1292000.0,29-07-1999,Alm.,8125,4,Villa,159,1980,
+Lenegårdsvej 9 4171 Glumsø,9,560415.0,29-07-1999,Fam.,0,7,Stuehus,249,1860,
+Sandbypark Alle 5 4171 Glumsø,5,451320.0,21-07-1999,Alm.,4102,4,Villa,110,1974,
+Vinderuphøjvej 5 4171 Glumsø,5,1345000.0,13-07-1999,Alm.,10760,4,Villa,125,1902,
+Søvej 5 4171 Glumsø,5,7250000.0,11-06-1999,Alm.,50347,6,Villa,144,1897,
+Tyvelsevej 72 4171 Glumsø,72,1267091.0,28-05-1999,Alm.,8447,4,Villa,150,1864,
+Birkealle 6 4171 Glumsø,6,697000.0,20-05-1999,Alm.,8200,4,Villa,85,1954,
+Almosevej 1 4171 Glumsø,1,468000.0,19-05-1999,Alm.,0,3,Villa,80,1867,
+Birkelundsvej 4 4171 Glumsø,4,568000.0,06-05-1999,Alm.,5308,4,Villa,107,1930,
+Tyvelsevej 68 4171 Glumsø,68,1228720.0,25-04-1999,Alm.,0,9,Villa,354,1933,
+Stenpladsvej 11 4171 Glumsø,11,1261564.0,23-04-1999,Alm.,7739,5,Stuehus,163,1927,
+Tjørnegærdet 5 4171 Glumsø,5,162000.0,30-03-1999,Fam.,1780,3,Villa,91,1827,
+Vibevej 20 4171 Glumsø,20,694000.0,25-03-1999,Alm.,6673,3,Villa,104,1968,
+Vrangstrupvej 85 4171 Glumsø,85,680000.0,22-03-1999,Alm.,4096,7,Stuehus,166,1896,
+Tyvelsevej 99 4171 Glumsø,99,670000.0,12-03-1999,Alm.,6320,4,Villa,106,1900,
+Elmevej 4 4171 Glumsø,4,560000.0,16-01-1999,Fam.,4869,4,Villa,115,1972,
+Åsøvej 29 4171 Glumsø,29,450000.0,16-12-1998,Alm.,4787,3,Villa,94,1924,
+Bækgårdsvej 2 4171 Glumsø,2,750000.0,08-12-1998,Alm.,0,9,Villa,303,1929,
+Bøgevej 30 4171 Glumsø,30,1073000.0,19-10-1998,Alm.,0,4,Villa,173,1976,
+Nyvej 10 4171 Glumsø,10,665000.0,30-09-1998,Alm.,5732,4,Villa,116,1959,
+Grøftebjergvej 1 4171 Glumsø,1,1290353.0,21-09-1998,Alm.,6419,5,Villa,201,1957,
+Åvej 1 4171 Glumsø,1,298500.0,18-09-1998,Alm.,2407,4,Stuehus,124,1992,
+Næsbyholm Alle 2 4171 Glumsø,2,140000.0,01-09-1998,Fam.,1021,4,Villa,137,1870,
+Møllebækvej 16 4171 Glumsø,16,350000.0,27-08-1998,Alm.,3888,4,Villa,90,1852,
+"Glumsøparken 18, ST. TH 4171 Glumsø",0,319662.0,26-08-1998,Alm.,5155,2,Lejlighed,62,1969,
+Søvej 6 4171 Glumsø,6,567500.0,23-08-1998,Alm.,3661,5,Villa,155,1962,
+Næsbyvej 29 4171 Glumsø,29,793697.0,12-07-1998,Alm.,5967,4,Villa,133,1910,
+Bøgevej 20 4171 Glumsø,20,1063820.0,22-06-1998,Alm.,6690,4,Villa,159,1977,
+Spurvevej 104 4171 Glumsø,104,162600.0,18-06-1998,Alm.,962,4,Villa,169,2000,
+Spurvevej 108 4171 Glumsø,108,149400.0,14-06-1998,Alm.,989,5,Villa,151,1998,
+Spurvevej 112 4171 Glumsø,112,155400.0,07-06-1998,Alm.,965,5,Villa,161,1999,
+Rugvænget 19 4171 Glumsø,19,403677.0,28-05-1998,Alm.,0,5,Villa,168,1843,
+Nøddevej 2 4171 Glumsø,2,1250000.0,29-04-1998,Alm.,4901,6,Villa,255,1973,
+Skolevej 4 4171 Glumsø,4,1361378.0,29-04-1998,Alm.,6739,7,Villa,202,1877,
+Sorøvej 5 4171 Glumsø,5,815800.0,22-04-1998,Alm.,0,5,Rækkehus,139,1890,
+Erantisvej 13 4171 Glumsø,13,893000.0,09-04-1998,Alm.,7973,4,Villa,112,1969,
+Nyvej 21 4171 Glumsø,21,728000.0,06-04-1998,Alm.,4550,6,Villa,160,1860,
+Storegade 11 4171 Glumsø,11,1570000.0,26-03-1998,Alm.,0,24,Detailhandel,99,1883,
+Tyvelsevej 73 4171 Glumsø,73,452728.0,24-03-1998,Alm.,0,6,Villa,155,1900,
+Skelbyvej 149 4171 Glumsø,149,305000.0,07-03-1998,Fam.,1066,7,Stuehus,286,2016,
+Østergade 24 4171 Glumsø,24,1019000.0,23-02-1998,Alm.,5335,7,Villa,191,1912,
+"Glumsøparken 16, ST. TV 4171 Glumsø",0,310000.0,17-02-1998,Alm.,4025,3,Lejlighed,77,1969,
+Lenegårdsvej 1 4171 Glumsø,1,916140.0,05-02-1998,Alm.,6543,3,Villa,140,1988,
+Elmevej 11 4171 Glumsø,11,750000.0,27-01-1998,Alm.,5319,5,Villa,141,1973,
+Kirkevej 19 4171 Glumsø,19,425000.0,12-01-1998,Alm.,4829,3,Villa,88,1880,
+Bøgevej 15 4171 Glumsø,15,481000.0,19-12-1997,Alm.,3975,4,Villa,121,1978,
+Tyvelsevej 71 4171 Glumsø,71,142015.0,30-11-1997,Alm.,1291,4,Villa,110,1938,
+Vinderuphøjvej 13 4171 Glumsø,13,711000.0,24-11-1997,Alm.,0,7,Stuehus,171,1923,
+"Glumsøparken 14, 1. TV 4171 Glumsø",0,295000.0,17-11-1997,Alm.,3782,3,Lejlighed,78,1969,
+Sandbyvej 28 4171 Glumsø,28,495000.0,10-11-1997,Alm.,4583,3,Villa,108,2001,
+Dalgårdsvej 2 4171 Glumsø,2,836000.0,28-10-1997,Alm.,0,2,Stuehus,85,1943,
+Kornvænget 10 4171 Glumsø,10,98000.0,24-10-1997,Alm.,837,4,Villa,117,1998,
+Vestergårdsvej 2 4171 Glumsø,2,1296000.0,30-09-1997,Alm.,0,6,Villa,217,1995,
+Hjelmsølillevej 1 4171 Glumsø,1,1390000.0,08-08-1997,Alm.,7055,7,Villa,197,1875,
+Realskolevej 10 4171 Glumsø,10,789000.0,23-07-1997,Alm.,5932,5,Villa,133,1960,
+Spurvevej 31 4171 Glumsø,31,825000.0,21-07-1997,Alm.,5892,5,Villa,140,1987,
+Vibevej 12 4171 Glumsø,12,1019000.0,19-07-1997,Alm.,6065,7,Villa,168,1967,
+Trekanten 7 4171 Glumsø,7,460000.0,11-07-1997,Alm.,4107,3,Villa,112,1877,
+Elmevej 22 4171 Glumsø,22,569500.0,24-06-1997,Alm.,4097,5,Villa,139,1971,
+Dadevej 25 4171 Glumsø,25,110000.0,26-05-1997,Alm.,1009,4,Villa,109,1997,
+Sorøvej 75 4171 Glumsø,75,1212511.0,21-05-1997,Alm.,10104,6,Villa,120,1950,
+Åsøvej 28 4171 Glumsø,28,723000.0,28-03-1997,Alm.,5127,4,Villa,141,1880,
+Dadevej 6 4171 Glumsø,6,365000.0,24-03-1997,Alm.,0,6,Stuehus,199,1827,
+Suså Landevej 145 4171 Glumsø,145,770000.0,07-03-1997,Alm.,4723,5,Villa,163,1777,
+Næsbyvej 13 4171 Glumsø,13,706971.0,04-03-1997,Alm.,0,5,Villa,173,1916,
+Ringstedvej 20 4171 Glumsø,20,515000.0,19-02-1997,Alm.,3678,5,Villa,140,1925,
+Kirkevej 14 4171 Glumsø,14,1450000.0,23-01-1997,Alm.,0,9,Stuehus,176,1949,
+Østergade 15 4171 Glumsø,15,741000.0,14-01-1997,Alm.,3049,9,Villa,243,1902,
+"Glumsøparken 2, ST. TV 4171 Glumsø",0,3600000.0,22-12-1996,Fam.,42857,4,Lejlighed,84,1964,
+Storegade 3 4171 Glumsø,3,1200000.0,22-12-1996,Fam.,3000,10,Villa,400,1882,
+Storegade 25 4171 Glumsø,25,385000.0,19-12-1996,Alm.,2769,5,Villa,139,1910,
+Holmager 38 4171 Glumsø,38,1260000.0,14-11-1996,Alm.,8344,6,Villa,151,1997,
+Næsbyvej 37 4171 Glumsø,37,282040.0,31-10-1996,Alm.,5640,2,Villa,50,1880,
+Tjørnegærdet 4 4171 Glumsø,4,400000.0,10-10-1996,Fam.,1860,6,Villa,215,1897,
+Østergade 26 4171 Glumsø,26,300000.0,09-08-1996,Alm.,2500,3,Villa,120,1930,
+Skolevej 7 4171 Glumsø,7,930000.0,06-08-1996,Alm.,7622,4,Villa,122,1959,
+Stendyssevej 2 4171 Glumsø,2,658725.0,29-06-1996,Alm.,5489,4,Villa,120,1969,
+Vrangstrup Øvej 1 4171 Glumsø,1,200000.0,16-06-1996,Alm.,0,5,Villa,184,1929,
+Næsbyvej 35C 4171 Glumsø,0,467000.0,24-05-1996,Alm.,0,4,Villa,118,1877,
+Vråvej 5 4171 Glumsø,5,70000.0,10-04-1996,Alm.,0,7,Villa,178,1997,
+"Glumsøparken 2, 2. TV 4171 Glumsø",0,352000.0,03-04-1996,Alm.,4045,4,Lejlighed,87,1964,
+Spurvevej 11 4171 Glumsø,11,737901.0,17-01-1996,Alm.,0,5,Villa,146,1986,
+Bøgevej 69 4171 Glumsø,69,588000.0,04-12-1995,Alm.,6917,3,Rækkehus,85,1977,
+Tyvelse Bygade 17 4171 Glumsø,17,307000.0,21-11-1995,Alm.,3265,3,Villa,94,1948,
+Bavelsevej 15 4171 Glumsø,15,425000.0,01-11-1995,Alm.,0,5,Villa,170,1900,
+Suså Landevej 141 4171 Glumsø,141,580000.0,16-10-1995,Alm.,3186,6,Villa,182,1900,
+Storegade 16 4171 Glumsø,16,260000.0,22-08-1995,Auktion,1857,6,Villa,140,1907,
+Åsø Bygade 27 4171 Glumsø,27,449326.0,20-08-1995,Alm.,0,8,Villa,185,1900,
+Sorøvej 79 4171 Glumsø,79,500000.0,19-07-1995,Alm.,3067,7,Villa,163,1897,
+Sorøvej 4 4171 Glumsø,4,510000.0,04-07-1995,Alm.,3722,5,Villa,137,1891,
+Ringstedvej 1 4171 Glumsø,1,225000.0,30-06-1995,Alm.,3515,4,Villa,64,1910,
+Suså Landevej 116 4171 Glumsø,116,798750.0,20-05-1995,Alm.,5120,5,Villa,156,1900,
+Sømarksvej 4 4171 Glumsø,4,518500.0,10-05-1995,Fam.,3032,5,Villa,171,1970,
+Elmevej 58 4171 Glumsø,58,786000.0,21-04-1995,Alm.,4517,5,Villa,174,1972,
+Sorøvej 63 4171 Glumsø,63,698640.0,12-04-1995,Alm.,0,6,Stuehus,178,1900,
+Møllebækvej 20 4171 Glumsø,20,400000.0,10-04-1995,Fam.,1762,9,Villa,227,1777,
+Søvej 3 4171 Glumsø,3,300000.0,05-04-1995,Alm.,3947,3,Villa,76,1937,
+Præsteengen 4 4171 Glumsø,4,357000.0,08-03-1995,Fam.,1586,6,Stuehus,225,1850,
+Åsøvej 14 4171 Glumsø,14,297500.0,30-11-1994,Fam.,3459,4,Villa,86,1921,
+Realskolevej 16 4171 Glumsø,16,504250.0,01-11-1994,Alm.,0,6,Villa,180,1920,
+Stendyssevej 20 4171 Glumsø,20,571800.0,25-10-1994,Alm.,4765,3,Villa,120,1971,
+Holmager 54 4171 Glumsø,54,480000.0,25-10-1994,Alm.,5274,3,Villa,91,1927,
+Suså Landevej 144 4171 Glumsø,144,457000.0,29-07-1994,Alm.,3410,5,Stuehus,134,1926,
+Tyvelse Bygade 29 4171 Glumsø,29,947200.0,06-07-1994,Alm.,0,15,Stuehus,337,1908,
+Skelbyvej 110 4171 Glumsø,110,700000.0,03-06-1994,Alm.,0,4,Stuehus,113,1902,
+Bøgevej 33 4171 Glumsø,33,664250.0,13-05-1994,Alm.,5070,4,Villa,131,1978,
+Fægangen 15 4171 Glumsø,15,442000.0,19-03-1994,Alm.,4018,3,Villa,110,1930,
+Suså Landevej 126 4171 Glumsø,126,88750.0,15-02-1994,Alm.,0,3,Villa,143,1985,
+Næsbyvej 20 4171 Glumsø,20,375000.0,18-01-1994,Alm.,3440,4,Villa,109,1904,
+Østergårdsvej 3 4171 Glumsø,3,237934.0,04-01-1994,Fam.,1487,5,Villa,160,1966,
+Lindevej 17 4171 Glumsø,17,672400.0,11-12-1993,Alm.,4125,4,Villa,163,1965,
+Erantisvej 6 4171 Glumsø,6,709220.0,10-12-1993,Alm.,5065,5,Villa,140,1969,
+Pilagervej 2A 4171 Glumsø,0,1900000.0,10-12-1993,Alm.,6737,8,Stuehus,282,1993,
+Vrangstrupvej 99 4171 Glumsø,99,185000.0,20-11-1993,Andet,1608,4,Villa,115,1935,
+Næsbyvej 26 4171 Glumsø,26,184475.0,22-10-1993,Alm.,1647,4,Villa,112,1907,
+Tyvelsevej 60 4171 Glumsø,60,1100000.0,22-10-1993,Alm.,4400,4,Villa,250,1927,
+Åvej 18 4171 Glumsø,18,175000.0,11-10-1993,Alm.,0,11,Villa,391,1897,
+Spurvevej 75 4171 Glumsø,75,695000.0,28-09-1993,Alm.,4664,4,Villa,149,1980,
+Kornvænget 18 4171 Glumsø,18,25000.0,06-09-1993,Alm.,114,6,Villa,218,1997,
+Vrangstrupvej 83 4171 Glumsø,83,415000.0,24-08-1993,Alm.,0,7,Villa,220,1847,
+Nødholmsvej 39 4171 Glumsø,39,230000.0,30-06-1993,Alm.,1004,7,Villa,229,1927,
+Bavnevej 6 4171 Glumsø,6,250000.0,29-06-1993,Fam.,0,5,Villa,146,1877,
+Stendyssevej 10 4171 Glumsø,10,480000.0,13-05-1993,Alm.,4571,3,Villa,105,1969,
+Lervangen 1 4171 Glumsø,1,150000.0,12-05-1993,Alm.,1327,4,Villa,113,1892,
+Lindevej 15 4171 Glumsø,15,485000.0,26-04-1993,Alm.,5105,3,Villa,95,1959,
+Vinderupvej 11 4171 Glumsø,11,146854.0,30-03-1993,Alm.,1034,5,Villa,142,1800,
+Bøgevej 53 4171 Glumsø,53,420000.0,26-02-1993,Alm.,4941,3,Rækkehus,85,1977,
+Åsøvej 36 4171 Glumsø,36,125000.0,21-01-1993,Alm.,0,4,Villa,144,1850,
+Åstrædet 6 4171 Glumsø,6,190000.0,10-12-1992,Fam.,2345,4,Sommerhus,81,1877,
+Tyvelse Bygade 25 4171 Glumsø,25,129574.0,30-11-1992,Alm.,1472,3,Villa,88,1885,
+Smedestræde 3 4171 Glumsø,3,460000.0,26-11-1992,Alm.,0,5,Villa,128,1939,
+Ringstedvej 26 4171 Glumsø,26,525000.0,15-11-1992,Alm.,6562,3,Villa,80,1920,
+Lindevej 19 4171 Glumsø,19,615000.0,24-08-1992,Alm.,7687,2,Villa,80,1957,
+Næsbyvej 12 4171 Glumsø,12,630000.0,21-07-1992,Alm.,0,8,Stuehus,163,1911,
+Sorøvej 46 4171 Glumsø,46,495000.0,05-06-1992,Alm.,0,6,Villa,207,1912,
+Vibevej 22 4171 Glumsø,22,470000.0,14-05-1992,Alm.,4476,4,Villa,105,1968,
+Mosevangen 3 4171 Glumsø,3,595000.0,12-05-1992,Alm.,0,6,Villa,247,1918,
+Skovgårdsvej 6 4171 Glumsø,6,13100000.0,11-03-1992,Alm.,139361,4,Villa,94,1887,
+Erantisvej 7 4171 Glumsø,7,550000.0,27-02-1992,Alm.,5045,4,Villa,109,1969,
+Gammel Næstvedvej 26 4171 Glumsø,26,410000.0,01-02-1992,Alm.,4100,4,Villa,100,1964,
+Birkelundsvej 16 4171 Glumsø,16,917316.0,06-01-1992,Fam.,4518,6,Villa,203,1943,

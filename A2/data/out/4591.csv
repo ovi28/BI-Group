@@ -1,0 +1,929 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Fiskervej 6 4591 Føllenslev,6,600000.0,12-05-2017,Fam.,9375,3,Sommerhus,64,1950,
+Smedevej 4B 4591 Føllenslev,0,695000.0,04-05-2017,Alm.,11583,3,Villa,60,1977,0 %
+Skelbakken 16 4591 Føllenslev,16,730000.0,14-04-2017,Alm.,14038,3,Sommerhus,52,1979,-8 %
+Antikvej 1A 4591 Føllenslev,0,775000.0,08-04-2017,Alm.,6567,3,Villa,118,1907,-8 %
+Gl Stationsvej 6 4591 Føllenslev,6,1274511.0,05-04-2017,Andet,5310,6,Villa,240,1919,-14 %
+Hofvej 10A 4591 Føllenslev,0,815000.0,04-04-2017,Alm.,13145,4,Sommerhus,62,2012,
+Tjørnemarken 17 4591 Føllenslev,17,1200000.0,28-03-2017,Andet,13333,4,Sommerhus,90,2005,
+Gartnerstræde 8 4591 Føllenslev,8,335000.0,22-03-2017,Alm.,6568,2,Villa,51,1962,-4 %
+Agerskovvej 5 4591 Føllenslev,5,3900000.0,16-03-2017,Alm.,20526,5,Stuehus,190,1934,
+Strandgårdsvej 19 4591 Føllenslev,19,1150000.0,14-03-2017,Alm.,16666,4,Sommerhus,69,2005,-4 %
+Mosevej 4 4591 Føllenslev,4,700000.0,27-02-2017,Alm.,10937,4,Sommerhus,64,1965,
+Klintevej 14 4591 Føllenslev,14,920000.0,22-02-2017,Alm.,5897,5,Villa,156,1980,-12 %
+Skortskær 2 4591 Føllenslev,2,1700000.0,01-02-2017,Fam.,6719,6,Stuehus,253,2000,
+Torvestræde 6 4591 Føllenslev,6,370000.0,30-01-2017,Alm.,3814,4,Villa,97,1894,-6 %
+Tulipanvej 7 4591 Føllenslev,7,300000.0,30-01-2017,Andet,8333,3,Sommerhus,36,1968,
+Møllehøj 11A 4591 Føllenslev,0,525000.0,20-01-2017,Alm.,5769,3,Rækkehus,91,1981,-19 %
+Matrosvej 1 4591 Føllenslev,1,450000.0,18-01-2017,Alm.,10975,2,Sommerhus,41,1974,-17 %
+Strandengen 19 4591 Føllenslev,19,795000.0,28-12-2016,Fam.,12230,4,Sommerhus,65,1977,
+Havnsøgårdsvej 36 4591 Føllenslev,36,1550000.0,20-12-2016,Alm.,7750,6,Villa,200,2009,-9 %
+Møllehøj 16 4591 Føllenslev,16,795000.0,15-12-2016,Alm.,7162,4,Villa,111,1987,-11 %
+Strandparken 25 4591 Føllenslev,25,1100000.0,12-12-2016,Alm.,9821,4,Villa,112,1999,-6 %
+Egevej 1A 4591 Føllenslev,0,321000.0,05-12-2016,Fam.,5944,3,Sommerhus,54,1936,
+Møllehøj 3 4591 Føllenslev,3,850000.0,28-11-2016,Auktion,5592,5,Villa,152,1987,
+Toldervej 2 4591 Føllenslev,2,525000.0,27-11-2016,Alm.,5833,4,Sommerhus,90,1971,
+Gunhøjvej 1 4591 Føllenslev,1,295000.0,22-11-2016,Alm.,2681,4,Villa,110,1910,
+Havnevej 1A 4591 Føllenslev,0,1500000.0,22-11-2016,Andet,6912,4,Stuehus,217,1790,
+Højstedvej 15 4591 Føllenslev,15,745000.0,15-11-2016,Alm.,4598,8,Villa,162,1910,0 %
+Lodsvej 6 4591 Føllenslev,6,900000.0,02-11-2016,Alm.,15789,4,Sommerhus,57,1975,
+Styrmandsvej 10 4591 Føllenslev,10,600000.0,20-10-2016,Alm.,5555,4,Sommerhus,108,1976,-20 %
+Byvej 11 4591 Føllenslev,11,100000.0,14-10-2016,Alm.,561,5,Villa,178,1928,
+Fyrmestervej 1 4591 Føllenslev,1,586500.0,07-10-2016,Fam.,9459,3,Sommerhus,62,1974,
+Ravnholt 52 4591 Føllenslev,52,260000.0,30-09-2016,Alm.,3170,4,Sommerhus,82,2017,
+Nekselø 4 4591 Føllenslev,4,206667.0,27-09-2016,Fam.,1680,8,Sommerhus,123,1900,
+Nekselø 18 4591 Føllenslev,18,223834.0,23-09-2016,Fam.,1102,8,Sommerhus,203,1917,
+Styrmandsvej 13 4591 Føllenslev,13,725000.0,15-09-2016,Alm.,9666,3,Sommerhus,75,1973,-5 %
+Fyrmestervej 5 4591 Føllenslev,5,535000.0,07-09-2016,Alm.,9727,3,Sommerhus,55,1972,-10 %
+Kvartermestervej 17 4591 Føllenslev,17,915000.0,07-09-2016,Alm.,10280,4,Sommerhus,89,1977,-8 %
+Frøgræsvej 4 4591 Føllenslev,4,1212500.0,01-09-2016,Alm.,14786,4,Sommerhus,82,2007,-6 %
+Klintevej 2B 4591 Føllenslev,0,915000.0,24-08-2016,Alm.,7820,4,Villa,117,1970,-4 %
+Egevej 4 4591 Føllenslev,4,1695000.0,12-08-2016,Alm.,11530,4,Stuehus,147,1926,0 %
+Pilebakken 2 4591 Føllenslev,2,595000.0,10-08-2016,Alm.,10438,4,Sommerhus,57,1987,-2 %
+Rorgængervej 5 4591 Føllenslev,5,2100000.0,08-08-2016,Alm.,35000,3,Sommerhus,60,1973,-12 %
+Grundvej 4 4591 Føllenslev,4,1175000.0,04-08-2016,Alm.,11084,6,Sommerhus,106,1962,0 %
+Strandengen 27 4591 Føllenslev,27,765000.0,04-08-2016,Alm.,10337,4,Sommerhus,74,1977,-7 %
+Sivgræsvej 9 4591 Føllenslev,9,230000.0,27-07-2016,Auktion,2000,5,Sommerhus,115,1965,-66 %
+Agerskovvej 4 4591 Føllenslev,4,4300000.0,20-07-2016,Alm.,17991,11,Stuehus,239,1925,-18 %
+Havnsøvej 38 4591 Føllenslev,38,28000000.0,14-07-2016,Alm.,84337,7,Stuehus,332,1887,
+Skippervej 12 4591 Føllenslev,12,400000.0,06-07-2016,Alm.,11111,3,Sommerhus,36,1971,
+Lodsvej 11 4591 Føllenslev,11,750000.0,06-07-2016,Alm.,12500,4,Sommerhus,60,1978,-6 %
+Strandengen 3 4591 Føllenslev,3,50000.0,04-07-2016,Andet,632,4,Sommerhus,79,1983,-94 %
+Lyngvej 3 4591 Føllenslev,3,1495000.0,30-06-2016,Alm.,13114,1,Villa,114,1840,
+Smedevej 7 4591 Føllenslev,7,750000.0,27-06-2016,Alm.,7500,3,Villa,100,1959,-6 %
+Strandvej 1 4591 Føllenslev,1,1187875.0,14-06-2016,Fam.,17998,4,Villa,66,1970,
+Møllehøj 14 4591 Føllenslev,14,960000.0,31-05-2016,Alm.,6400,6,Villa,150,1988,-4 %
+Havnevej 45 4591 Føllenslev,45,895000.0,17-05-2016,Alm.,4201,3,Villa,213,1901,0 %
+Tjørnestien 6 4591 Føllenslev,6,1030000.0,02-05-2016,Alm.,13376,4,Sommerhus,77,2002,-6 %
+Strandvej 30 4591 Føllenslev,30,1695000.0,26-04-2016,Alm.,17295,2,Sommerhus,98,1960,0 %
+Havnsøgårdsvej 44 4591 Føllenslev,44,1770000.0,21-04-2016,Alm.,9516,5,Villa,186,2009,-7 %
+Torvestræde 1 4591 Føllenslev,1,352520.0,11-04-2016,Alm.,3750,3,Villa,94,1902,
+Tjørnemarken 35 4591 Føllenslev,35,450000.0,05-04-2016,Alm.,7627,4,Sommerhus,59,1980,
+Klintevej 12 4591 Føllenslev,12,1050000.0,21-03-2016,Alm.,5384,7,Villa,195,1976,-12 %
+Middelvej 6 4591 Føllenslev,6,1150000.0,03-03-2016,Alm.,12637,5,Sommerhus,91,1952,-17 %
+Strandgårdsvej 31 4591 Føllenslev,31,250000.0,22-02-2016,Andet,5319,3,Sommerhus,47,1975,
+Ahornvej 1 4591 Føllenslev,1,250000.0,15-02-2016,Alm.,2808,3,Villa,89,1944,-37 %
+Havnsøgårdsvej 23 4591 Føllenslev,23,700000.0,12-02-2016,Alm.,5000,5,Villa,140,2006,
+Strandvej 38 4591 Føllenslev,38,1475000.0,10-02-2016,Alm.,17771,4,Sommerhus,83,1986,
+Gl Stationsvej 3 4591 Føllenslev,3,495000.0,18-01-2016,Auktion,3750,4,Villa,132,1972,0 %
+Havnsøgårdsvej 63 4591 Føllenslev,63,2200000.0,22-12-2015,Alm.,12429,5,Villa,177,2007,
+Havnsøvej 3 4591 Føllenslev,3,90000.0,25-11-2015,Auktion,957,4,Villa,94,1940,
+Lodsvej 21 4591 Føllenslev,21,800000.0,24-11-2015,Alm.,12307,4,Sommerhus,65,1972,-11 %
+Kvartermestervej 15 4591 Føllenslev,15,940000.0,10-11-2015,Alm.,14687,4,Sommerhus,64,2003,-6 %
+Egeskovvej 2 4591 Føllenslev,2,700000.0,05-11-2015,Alm.,0,4,Sommerhus,57,1959,-12 %
+Skovvej 22 4591 Føllenslev,22,500000.0,21-10-2015,Alm.,6172,3,Sommerhus,81,1938,
+Møllehøj 25 4591 Føllenslev,25,700000.0,12-10-2015,Alm.,5147,3,Villa,136,1980,-10 %
+Græsmarkvej 16 4591 Føllenslev,16,1850000.0,05-10-2015,Alm.,16972,3,Stuehus,109,1910,-12 %
+Skippervej 5 4591 Føllenslev,5,784000.0,29-09-2015,Alm.,6588,4,Sommerhus,119,1974,-12 %
+Strandengen 21 4591 Føllenslev,21,500000.0,27-09-2015,Alm.,8196,3,Sommerhus,61,1979,-16 %
+Toldvej 6 4591 Føllenslev,6,440000.0,05-09-2015,Alm.,4680,5,Villa,94,1902,-5 %
+Hofvej 14 4591 Føllenslev,14,770000.0,03-09-2015,Alm.,7196,3,Sommerhus,107,2005,-14 %
+Lyngvej 12A 4591 Føllenslev,0,1550000.0,31-08-2015,Alm.,10763,4,Villa,144,1905,-6 %
+Pilebakken 1 4591 Føllenslev,1,650000.0,21-08-2015,Alm.,8441,3,Sommerhus,77,1987,-6 %
+Hofvej 7 4591 Føllenslev,7,1600000.0,12-08-2015,Alm.,21621,4,Sommerhus,74,2011,-6 %
+Byvej 1 4591 Føllenslev,1,210000.0,10-08-2015,Alm.,3088,3,Villa,68,1952,-29 %
+Gl Stationsvej 4 4591 Føllenslev,4,1509437.0,05-08-2015,Andet,4776,12,Villa,316,1919,
+Favrbovej 14 4591 Føllenslev,14,635000.0,04-08-2015,Alm.,7298,3,Villa,87,1963,
+Arne Petersensvej 14 4591 Føllenslev,14,625000.0,25-07-2015,Alm.,8680,3,Sommerhus,72,1961,
+Egemarken 23 4591 Føllenslev,23,510000.0,23-07-2015,Alm.,6623,4,Sommerhus,77,1982,-14 %
+Kristianvej 4 4591 Føllenslev,4,1445000.0,23-07-2015,Alm.,23688,4,Sommerhus,61,1976,-3 %
+Kalundborgvej 42 4591 Føllenslev,42,745000.0,22-07-2015,Alm.,4806,7,Villa,155,1905,-6 %
+Frøgræsvej 5 4591 Føllenslev,5,150000.0,14-07-2015,Alm.,1829,4,Sommerhus,82,1977,
+Lodsvej 5 4591 Føllenslev,5,435000.0,11-07-2015,Alm.,12083,3,Sommerhus,36,1971,-8 %
+Lodsvej 37 4591 Føllenslev,37,800000.0,11-07-2015,Fam.,11111,4,Sommerhus,72,1975,
+Havnefogedvej 6 4591 Føllenslev,6,1050000.0,09-07-2015,Alm.,15671,3,Sommerhus,67,1986,-12 %
+Havnsøgårdsvej 18 4591 Føllenslev,18,1750000.0,02-07-2015,Alm.,10416,5,Villa,168,2005,-5 %
+Strandparken 9 4591 Føllenslev,9,915000.0,25-06-2015,Alm.,5111,5,Villa,179,1981,2 %
+Strandengen 14 4591 Føllenslev,14,690000.0,23-06-2015,Alm.,13529,3,Sommerhus,51,1980,-11 %
+Mosevej 11 4591 Føllenslev,11,550000.0,21-06-2015,Alm.,15277,4,Sommerhus,36,1960,
+Lodsvej 12 4591 Føllenslev,12,640000.0,16-06-2015,Alm.,7710,4,Sommerhus,83,1973,
+Eskebjergvej 12 4591 Føllenslev,12,940000.0,03-06-2015,Alm.,4140,5,Stuehus,227,1870,
+Havnsøvej 15 4591 Føllenslev,15,875000.0,29-05-2015,Alm.,5503,5,Villa,159,1900,-3 %
+Bøgevej 7 4591 Føllenslev,7,489200.0,18-05-2015,Auktion,7089,2,Villa,69,1950,
+Sivgræsvej 3 4591 Føllenslev,3,475000.0,13-05-2015,Alm.,8636,4,Sommerhus,55,1970,-4 %
+Strandvej 44 4591 Føllenslev,44,2750000.0,20-04-2015,Alm.,20992,3,Sommerhus,131,1958,-8 %
+Havnsøgårdsvej 59 4591 Føllenslev,59,701000.0,09-04-2015,Fam.,5392,5,Villa,130,2011,
+Havnsøvej 26 4591 Føllenslev,26,1995000.0,01-04-2015,Alm.,7732,5,Stuehus,258,1939,
+Havnsøgårdsvej 62 4591 Føllenslev,62,1064500.0,26-03-2015,Alm.,7096,5,Villa,150,2007,
+Skippervej 30 4591 Føllenslev,30,695000.0,25-03-2015,Alm.,13627,3,Sommerhus,51,1989,-4 %
+Hofvej 29 4591 Føllenslev,29,1125000.0,10-03-2015,Alm.,10817,3,Sommerhus,104,1997,-6 %
+Gartnerstræde 10 4591 Føllenslev,10,516680.0,02-03-2015,Alm.,2808,4,Villa,184,1917,
+Fiskervej 3 4591 Føllenslev,3,1125000.0,28-02-2015,Alm.,11597,4,Sommerhus,97,1974,-2 %
+Havnsøgårdsvej 10 4591 Føllenslev,10,1290000.0,23-02-2015,Alm.,9148,5,Villa,141,2005,-4 %
+Hofvej 4 4591 Føllenslev,4,700000.0,20-01-2015,Alm.,8235,3,Sommerhus,85,1966,-12 %
+Havnevej 21 4591 Føllenslev,21,1525000.0,17-01-2015,Alm.,10517,4,Villa,145,1936,-10 %
+Kvartermestervej 3 4591 Føllenslev,3,550000.0,25-12-2014,Fam.,12222,3,Sommerhus,45,1978,
+Birkebakken 4 4591 Føllenslev,4,510000.0,04-12-2014,Alm.,9272,4,Sommerhus,55,1980,-21 %
+Strandparken 24 4591 Føllenslev,24,830000.0,27-11-2014,Alm.,9120,3,Villa,91,1956,-7 %
+Møllehøj 2 4591 Føllenslev,2,1750000.0,18-11-2014,Alm.,13358,4,Villa,131,2000,-3 %
+Møllehøj 37 4591 Føllenslev,37,1250000.0,28-10-2014,Alm.,9191,4,Villa,136,2002,-3 %
+Tjørnemarken 12 4591 Føllenslev,12,240000.0,15-10-2014,Alm.,2926,4,Sommerhus,82,2015,-4 %
+Lærkevej 10 4591 Føllenslev,10,595444.0,14-10-2014,Alm.,3630,6,Villa,164,1968,
+Egevej 2D 4591 Føllenslev,0,2000000.0,13-10-2014,Fam.,25641,3,Sommerhus,78,2002,
+Havnsøgårdsvej 39 4591 Føllenslev,39,350000.0,10-10-2014,Alm.,2215,5,Villa,158,2015,
+Ravnholt 48 4591 Føllenslev,48,250000.0,03-10-2014,Alm.,2403,5,Sommerhus,104,2015,-15 %
+Havnsøvej 7 4591 Føllenslev,7,450000.0,30-09-2014,Alm.,3435,5,Villa,131,1972,-40 %
+Havnsøgårdsvej 19 4591 Føllenslev,19,190000.0,18-09-2014,Alm.,1310,5,Villa,145,2015,
+Strandgårdsvej 33 4591 Føllenslev,33,630000.0,08-09-2014,Alm.,13695,3,Sommerhus,46,1979,-9 %
+Havnsøgårdsvej 51 4591 Føllenslev,51,2200000.0,27-08-2014,Alm.,12429,5,Villa,177,2007,
+Byvej 6 4591 Føllenslev,6,540400.0,20-08-2014,Auktion,3944,3,Villa,137,1982,
+Græsmarkvej 13 4591 Føllenslev,13,495000.0,12-08-2014,Alm.,6111,1,Villa,81,1900,0 %
+Skovvej 1 4591 Føllenslev,1,1230000.0,02-08-2014,Alm.,10884,5,Sommerhus,113,1951,-5 %
+Højstedvej 10A 4591 Føllenslev,0,1000000.0,16-07-2014,Alm.,4504,5,Stuehus,222,1905,-28 %
+Maskinmestervej 8 4591 Føllenslev,8,795000.0,26-06-2014,Alm.,13250,4,Sommerhus,60,1971,0 %
+Mellemvænget 6 4591 Føllenslev,6,500000.0,17-06-2014,Fam.,4629,3,Sommerhus,108,2006,-68 %
+Ahornvej 2 4591 Føllenslev,2,275000.0,04-06-2014,Alm.,7051,2,Villa,39,1961,-30 %
+Ravnholt 4 4591 Føllenslev,4,150000.0,23-05-2014,Alm.,1648,4,Sommerhus,91,2017,-9 %
+Nykøbingvej 62 4591 Føllenslev,62,481000.0,21-05-2014,Auktion,2572,4,Villa,187,1880,
+Havnsøvej 40 4591 Føllenslev,40,405000.0,03-05-2014,Alm.,3715,3,Villa,109,1890,-18 %
+Engsvinget 9 4591 Føllenslev,9,1135000.0,10-04-2014,Alm.,9153,4,Sommerhus,124,1979,-4 %
+Ravnholt 44 4591 Føllenslev,44,150000.0,07-04-2014,Alm.,1456,2,Sommerhus,103,2015,-23 %
+Højenevej 6 4591 Føllenslev,6,150000.0,02-04-2014,Alm.,2631,3,Sommerhus,57,1996,
+Bøgevej 28 4591 Føllenslev,28,1000000.0,19-03-2014,Alm.,11904,3,Sommerhus,84,1957,-13 %
+Gunhøjvej 9 4591 Føllenslev,9,735000.0,24-02-2014,Fam.,7736,2,Villa,95,1890,
+Strandgårdsvej 2 4591 Føllenslev,2,760000.0,22-02-2014,Alm.,12881,3,Sommerhus,59,2003,-2 %
+Fyrmestervej 12 4591 Føllenslev,12,150000.0,04-02-2014,Alm.,2205,4,Sommerhus,68,1978,
+Strandparken 55 4591 Føllenslev,55,935000.0,31-01-2014,Alm.,7030,5,Villa,133,1978,
+Højsted Overdrev 23 4591 Føllenslev,23,650000.0,22-01-2014,Alm.,8783,2,Villa,74,1770,0 %
+Strandgårdsvej 15 4591 Føllenslev,15,603500.0,13-01-2014,Fam.,0,5,Sommerhus,85,1977,
+Skortskær 5 4591 Føllenslev,5,6800000.0,18-12-2013,Alm.,32692,5,Stuehus,208,1862,
+Hofvej 8 4591 Føllenslev,8,880000.0,15-11-2013,Alm.,11428,4,Sommerhus,77,1979,-5 %
+Kalundborgvej 47 4591 Føllenslev,47,600000.0,06-10-2013,Alm.,4316,3,Villa,139,1900,-25 %
+Middelvej 3 4591 Føllenslev,3,304000.0,02-10-2013,Fam.,4405,3,Sommerhus,69,1950,
+Strandgårdsvej 17 4591 Føllenslev,17,650000.0,27-09-2013,Alm.,8441,4,Sommerhus,77,1977,-6 %
+Skelbakken 5 4591 Føllenslev,5,200000.0,04-09-2013,Alm.,3448,3,Sommerhus,58,1980,-66 %
+Styrmandsvej 17 4591 Føllenslev,17,450000.0,31-07-2013,Alm.,6428,3,Sommerhus,70,1971,-9 %
+Tjørnemarken 14 4591 Føllenslev,14,730000.0,30-07-2013,Alm.,14600,3,Sommerhus,50,2000,-8 %
+Egeskovvej 7 4591 Føllenslev,7,400000.0,25-07-2013,Alm.,4123,3,Sommerhus,97,1961,
+Egemarkevej 3B 4591 Føllenslev,0,383000.0,24-07-2013,Auktion,3513,4,Villa,109,1975,
+Egemarken 2 4591 Føllenslev,2,330000.0,16-07-2013,Alm.,4583,4,Sommerhus,72,2016,-6 %
+Hofvej 21 4591 Føllenslev,21,560000.0,04-07-2013,Alm.,7887,3,Sommerhus,71,1977,-19 %
+Egemarkevej 3A 4591 Føllenslev,0,375000.0,04-07-2013,Alm.,3409,4,Villa,110,1975,-24 %
+Græsmarkvej 1 4591 Føllenslev,1,1750000.0,28-06-2013,Alm.,10000,5,Stuehus,175,1923,-12 %
+Strandfogedvej 16 4591 Føllenslev,16,1200000.0,27-06-2013,Alm.,14634,4,Sommerhus,82,1980,-6 %
+Maskinmestervej 6 4591 Føllenslev,6,360000.0,27-06-2013,Alm.,10909,2,Sommerhus,33,1971,-9 %
+Mosevej 8 4591 Føllenslev,8,540000.0,24-06-2013,Alm.,9473,3,Sommerhus,57,1960,-9 %
+Fiskervej 4 4591 Føllenslev,4,900000.0,17-06-2013,Alm.,8181,4,Sommerhus,110,1975,-17 %
+Grundvej 2 4591 Føllenslev,2,325000.0,06-06-2013,Andet,3651,7,Sommerhus,89,1961,
+Strandengen 22 4591 Føllenslev,22,410000.0,06-06-2013,Alm.,0,3,Sommerhus,45,1977,-17 %
+Gunhøjvej 3 4591 Føllenslev,3,272000.0,23-05-2013,Auktion,2060,5,Villa,132,1973,
+Kaptajnsvej 29 4591 Føllenslev,29,1500000.0,18-04-2013,Alm.,22388,4,Sommerhus,67,1971,-6 %
+Tjørnemarken 23 4591 Føllenslev,23,545500.0,27-03-2013,Auktion,6572,4,Sommerhus,83,1988,-62 %
+Havnsøgårdsvej 2 4591 Føllenslev,2,1077000.0,26-03-2013,Fam.,7692,4,Villa,140,2006,
+Havnsøgårdsvej 16 4591 Føllenslev,16,1140000.0,13-02-2013,Alm.,7916,5,Villa,144,2005,-5 %
+Middelvej 23 4591 Føllenslev,23,570000.0,04-02-2013,Alm.,13571,3,Sommerhus,42,1954,
+Ravnholt 34 4591 Føllenslev,34,850000.0,30-01-2013,Auktion,8762,4,Sommerhus,97,2010,-29 %
+Byvej 13 4591 Føllenslev,13,370000.0,26-01-2013,Alm.,2466,4,Villa,150,1937,-25 %
+Ravnholt 56 4591 Føllenslev,56,260000.0,16-01-2013,Alm.,3132,4,Sommerhus,83,2014,-13 %
+Græsmarkvej 8 4591 Føllenslev,8,915000.0,14-01-2013,Auktion,8243,3,Stuehus,111,1890,
+Lodsvej 9 4591 Føllenslev,9,595000.0,09-01-2013,Alm.,9153,3,Sommerhus,65,1973,-25 %
+Højsted Overdrev 1 4591 Føllenslev,1,325000.0,01-01-2013,Alm.,4333,3,Villa,75,1900,
+Fyrrebakken 6 4591 Føllenslev,6,765000.0,21-12-2012,Fam.,10479,3,Sommerhus,73,1978,
+Skelbakken 9 4591 Føllenslev,9,595000.0,19-12-2012,Alm.,14166,3,Sommerhus,42,1979,-11 %
+Bøgevej 20B 4591 Føllenslev,0,750000.0,06-12-2012,Alm.,8426,3,Rækkehus,89,1980,
+Birkebakken 5 4591 Føllenslev,5,475000.0,19-11-2012,Auktion,4094,3,Villa,116,1920,
+Fyrmestervej 7 4591 Føllenslev,7,500000.0,15-11-2012,Alm.,11904,3,Sommerhus,42,1975,-16 %
+Egemarken 15 4591 Føllenslev,15,440000.0,05-11-2012,Alm.,5301,3,Sommerhus,83,1977,
+Favrbovej 1 4591 Føllenslev,1,150000.0,01-10-2012,Alm.,595,6,Stuehus,252,1952,
+Havnsøgårdsvej 60 4591 Føllenslev,60,1400000.0,01-10-2012,Auktion,9722,4,Villa,144,2009,
+Tjørnestien 2 4591 Føllenslev,2,850000.0,20-09-2012,Alm.,11038,4,Sommerhus,77,1985,-15 %
+Havnevej 20A 4591 Føllenslev,0,2500000.0,13-09-2012,Alm.,13297,8,Villa,188,1900,
+Frøgræsvej 8 4591 Føllenslev,8,710000.0,11-09-2012,Alm.,4896,5,Villa,145,2013,-41 %
+Kaptajnsvej 5 4591 Føllenslev,5,895000.0,31-08-2012,Alm.,12430,4,Sommerhus,72,1972,0 %
+Skippervej 18 4591 Føllenslev,18,150000.0,30-08-2012,Auktion,1704,5,Sommerhus,88,2016,
+Egemarken 22 4591 Føllenslev,22,550000.0,22-08-2012,Alm.,7236,3,Sommerhus,76,1977,
+Lodsvej 1 4591 Føllenslev,1,625000.0,14-08-2012,Alm.,11792,3,Sommerhus,53,1971,-10 %
+Havnsøgårdsvej 29 4591 Føllenslev,29,1450000.0,02-08-2012,Fam.,10431,5,Villa,139,2007,
+Græsmarkvej 12 4591 Føllenslev,12,1470000.0,29-07-2012,Alm.,8750,5,Villa,168,1885,-2 %
+Rorgængervej 13 4591 Føllenslev,13,1750000.0,06-07-2012,Alm.,0,3,Sommerhus,73,1987,-7 %
+Havnsøgårdsvej 32 4591 Føllenslev,32,1500000.0,04-07-2012,Alm.,11538,5,Villa,130,2005,-6 %
+Havnefogedvej 1 4591 Føllenslev,1,850000.0,29-06-2012,Alm.,9659,2,Sommerhus,88,1985,-8 %
+Strandparken 35 4591 Føllenslev,35,790000.0,25-06-2012,Auktion,8229,4,Villa,96,1988,
+Skelbakken 4 4591 Føllenslev,4,550000.0,15-06-2012,Alm.,12222,3,Sommerhus,45,1977,0 %
+Strandengen 37 4591 Føllenslev,37,510000.0,14-06-2012,Fam.,9444,4,Sommerhus,54,1980,
+Gl Stationsvej 8 4591 Føllenslev,8,160000.0,04-06-2012,Auktion,1702,3,Villa,94,1919,
+Strandfogedvej 14 4591 Føllenslev,14,1400000.0,23-04-2012,Alm.,25925,4,Sommerhus,54,1975,-6 %
+Klintevej 6 4591 Føllenslev,6,300000.0,02-04-2012,Fam.,2272,4,Villa,132,1999,
+Strandparken 58 4591 Føllenslev,58,773496.0,27-03-2012,Andet,4895,3,Villa,158,1983,
+Skovvej 4 4591 Føllenslev,4,2337500.0,04-02-2012,Fam.,17314,4,Villa,135,1981,
+Klintevej 13 4591 Føllenslev,13,1400000.0,18-01-2012,Auktion,7526,5,Villa,186,2015,
+Kirkemosevej 2 4591 Føllenslev,2,765000.0,17-01-2012,Alm.,8595,4,Villa,89,1947,0 %
+Strandgårdsvej 18 4591 Føllenslev,18,675000.0,13-01-2012,Alm.,6818,4,Sommerhus,99,1983,-3 %
+Bøgevej 17 4591 Føllenslev,17,488406.0,04-01-2012,Fam.,4696,3,Villa,104,1974,
+Strandparken 3 4591 Føllenslev,3,950000.0,03-01-2012,Alm.,7600,4,Villa,125,1979,-13 %
+Syrenvej 4 4591 Føllenslev,4,395000.0,21-12-2011,Auktion,7053,4,Sommerhus,56,1968,
+Skelbakken 10 4591 Føllenslev,10,245000.0,19-12-2011,Auktion,4224,3,Sommerhus,58,1977,
+Havnsøvej 12 4591 Føllenslev,12,830000.0,05-12-2011,Alm.,8217,3,Villa,101,1962,-7 %
+Møllehøj 31 4591 Føllenslev,31,1675000.0,28-11-2011,Alm.,12407,4,Villa,135,1999,-16 %
+Syrenvej 10 4591 Føllenslev,10,758000.0,24-11-2011,Alm.,18487,3,Sommerhus,41,1970,
+Strandgårdsvej 20 4591 Føllenslev,20,471500.0,17-11-2011,Fam.,8419,3,Sommerhus,56,1979,
+Brøndbjergvej 2 4591 Føllenslev,2,3300000.0,10-10-2011,Alm.,18232,7,Stuehus,181,1954,-12 %
+Havnsø Møllevej 21 4591 Føllenslev,21,1700000.0,24-09-2011,Alm.,17346,3,Villa,98,1976,-12 %
+Solvej 6 4591 Føllenslev,6,1095000.0,08-09-2011,Alm.,11173,3,Villa,98,1968,0 %
+Strandvej 22 4591 Føllenslev,22,1060000.0,12-08-2011,Alm.,13947,3,Sommerhus,76,1988,
+Lodsvej 29 4591 Føllenslev,29,650000.0,09-08-2011,Fam.,11206,4,Sommerhus,58,1976,
+Lærkevej 11 4591 Føllenslev,11,645000.0,03-08-2011,Andet,5657,3,Villa,114,1969,-35 %
+Strandgårdsvej 16 4591 Føllenslev,16,490000.0,25-07-2011,Alm.,16896,2,Sommerhus,29,1982,-10 %
+Havnsøgårdsvej 54 4591 Føllenslev,54,1800000.0,13-07-2011,Alm.,13333,5,Villa,135,2008,
+Ravnholt 36 4591 Føllenslev,36,700000.0,12-07-2011,Auktion,6603,4,Sommerhus,106,2009,-45 %
+Havnsøvej 4 4591 Føllenslev,4,30000.0,01-07-2011,Auktion,114,8,Villa,261,1910,
+Strandgårdsvej 24 4591 Føllenslev,24,315000.0,29-06-2011,Auktion,5943,3,Sommerhus,53,1977,-53 %
+Strandengen 26 4591 Føllenslev,26,1060000.0,23-06-2011,Alm.,17377,3,Sommerhus,61,1987,-15 %
+Havnsøgårdsvej 57 4591 Føllenslev,57,360000.0,21-06-2011,Alm.,3050,4,Villa,118,2012,0 %
+Fyrrebakken 4 4591 Føllenslev,4,840000.0,16-06-2011,Alm.,14000,3,Sommerhus,60,1977,-6 %
+Strandgårdsvej 6 4591 Føllenslev,6,665000.0,21-05-2011,Alm.,13854,3,Sommerhus,48,1977,-10 %
+Strandgårdsbakken 5 4591 Føllenslev,5,1200000.0,18-05-2011,Alm.,13333,4,Sommerhus,90,2003,-4 %
+Favrbovej 7 4591 Føllenslev,7,585000.0,09-05-2011,Auktion,5909,2,Villa,99,1877,
+Strandvej 20 4591 Føllenslev,20,980000.0,26-04-2011,Alm.,11264,4,Sommerhus,87,1949,
+Tjørnestien 12 4591 Føllenslev,12,650000.0,05-04-2011,Alm.,11403,3,Sommerhus,57,1979,
+Klintevej 20 4591 Føllenslev,20,1680000.0,21-03-2011,Auktion,8750,5,Villa,192,1975,
+Møllehøj 17 4591 Føllenslev,17,800000.0,21-03-2011,Auktion,4371,4,Villa,183,1990,
+Toldervej 9A 4591 Føllenslev,0,925742.0,21-03-2011,Alm.,0,6,Villa,320,1877,
+Højsted Overdrev 25 4591 Føllenslev,25,330000.0,17-03-2011,Alm.,2156,3,Villa,153,1880,
+Rørgræsvej 6 4591 Føllenslev,6,400000.0,14-03-2011,Auktion,6451,4,Sommerhus,62,1986,
+Græsmarkvej 7 4591 Føllenslev,7,1200000.0,17-02-2011,Alm.,6250,3,Villa,192,1990,-4 %
+Ravnholt 54 4591 Føllenslev,54,1520000.0,16-02-2011,Alm.,15510,4,Sommerhus,98,2007,-10 %
+Egemarkevej 5 4591 Føllenslev,5,580000.0,14-02-2011,Alm.,5742,3,Villa,101,1958,-17 %
+Strandengen 9 4591 Føllenslev,9,925000.0,03-02-2011,Alm.,12847,4,Sommerhus,72,1978,-16 %
+Strandgårdsvej 22 4591 Føllenslev,22,1150000.0,21-12-2010,Alm.,16428,4,Sommerhus,70,2002,-8 %
+Svalevej 14 4591 Føllenslev,14,925000.0,20-12-2010,Fam.,7061,5,Villa,131,1969,
+Engsvinget 13 4591 Føllenslev,13,975000.0,27-11-2010,Fam.,9198,4,Sommerhus,106,2013,
+Kvartermestervej 8 4591 Føllenslev,8,750000.0,26-11-2010,Alm.,11194,4,Sommerhus,67,1971,-6 %
+Strandparken 48 4591 Føllenslev,48,1295000.0,20-11-2010,Alm.,9664,5,Villa,134,1981,0 %
+Strandgårdsbakken 7 4591 Føllenslev,7,1435000.0,19-11-2010,Alm.,15430,4,Sommerhus,93,2004,-7 %
+Mosevej 16 4591 Føllenslev,16,900000.0,18-11-2010,Alm.,13846,4,Sommerhus,65,1968,-10 %
+Lodsvej 7 4591 Føllenslev,7,910000.0,24-10-2010,Alm.,8584,3,Sommerhus,106,1973,-9 %
+Mellemvænget 2 4591 Føllenslev,2,1120000.0,20-10-2010,Alm.,14358,4,Sommerhus,78,1984,-6 %
+Frøgræsvej 6 4591 Føllenslev,6,1495000.0,18-09-2010,Alm.,18231,4,Sommerhus,82,2005,0 %
+Strandparken 40 4591 Føllenslev,40,1950000.0,09-09-2010,Alm.,14028,4,Villa,139,2001,3 %
+Engvej 8 4591 Føllenslev,8,850000.0,29-08-2010,Alm.,9770,3,Sommerhus,87,1965,-5 %
+Lærkevej 2 4591 Føllenslev,2,1080000.0,23-08-2010,Alm.,8372,4,Villa,129,1976,-6 %
+Birkebakken 18 4591 Føllenslev,18,1450000.0,20-08-2010,Alm.,17469,4,Sommerhus,83,2003,-12 %
+Egemarken 16 4591 Føllenslev,16,1200000.0,15-08-2010,Alm.,13636,3,Sommerhus,88,1977,-7 %
+Egevej 7 4591 Føllenslev,7,200000.0,22-07-2010,Fam.,1098,4,Villa,182,1880,
+Højsted Overdrev 11 4591 Føllenslev,11,1685000.0,15-07-2010,Alm.,12210,4,Villa,138,1800,-6 %
+Klintevej 8 4591 Føllenslev,8,1200000.0,14-07-2010,Alm.,9230,3,Villa,130,1972,-14 %
+Strandparken 7 4591 Føllenslev,7,990000.0,14-07-2010,Auktion,5657,5,Villa,175,1979,
+Engvej 12 4591 Føllenslev,12,900000.0,09-07-2010,Alm.,0,2,Sommerhus,67,1967,-10 %
+Havnevej 40 4591 Føllenslev,40,800000.0,29-06-2010,Alm.,10666,4,Villa,75,1910,-11 %
+Strandgårdsbakken 15 4591 Føllenslev,15,1075000.0,18-06-2010,Alm.,17622,4,Sommerhus,61,1977,
+Kaptajnsvej 11 4591 Føllenslev,11,795000.0,14-06-2010,Alm.,11691,3,Sommerhus,68,1974,0 %
+Smedevej 8 4591 Føllenslev,8,750000.0,08-06-2010,Alm.,6637,2,Villa,113,1947,-14 %
+Havnsøgårdsvej 3 4591 Føllenslev,3,450000.0,26-05-2010,Alm.,2500,7,Villa,180,2013,
+Strandvej 58 4591 Føllenslev,58,2150000.0,18-05-2010,Alm.,29861,3,Sommerhus,72,1947,-14 %
+Skelbakken 7 4591 Føllenslev,7,750000.0,13-05-2010,Alm.,10135,3,Sommerhus,74,1978,-6 %
+Lyngstræde 4G 4591 Føllenslev,0,1200000.0,10-05-2010,Alm.,13793,3,Lejlighed,87,2007,-7 %
+Toftegårdsvej 1 4591 Føllenslev,1,650000.0,25-04-2010,Alm.,4545,4,Villa,143,1967,
+Solvej 4 4591 Føllenslev,4,1100000.0,01-04-2010,Alm.,8270,4,Villa,133,1972,-21 %
+Kvartermestervej 20 4591 Føllenslev,20,795769.0,23-03-2010,Alm.,12631,3,Sommerhus,63,1973,-20 %
+Kalundborgvej 44 4591 Føllenslev,44,965000.0,22-03-2010,Auktion,7148,5,Stuehus,135,1840,
+Strandgårdsvej 34 4591 Føllenslev,34,900000.0,06-03-2010,Alm.,10000,3,Sommerhus,90,2007,-10 %
+Kvartermestervej 1 4591 Føllenslev,1,410000.0,15-02-2010,Fam.,7884,3,Sommerhus,52,1971,
+Ravnholt 46 4591 Føllenslev,46,610950.0,04-02-2010,Alm.,6364,4,Sommerhus,96,2010,-66 %
+Matrosvej 8 4591 Føllenslev,8,425000.0,13-01-2010,Alm.,7727,2,Sommerhus,55,1971,
+Arne Petersensvej 1 4591 Føllenslev,1,550000.0,29-12-2009,Alm.,9016,2,Sommerhus,61,1968,
+Havnsøgårdsvej 52 4591 Føllenslev,52,2195000.0,10-12-2009,Alm.,13805,6,Villa,159,2009,-1 %
+Maskinmestervej 12 4591 Føllenslev,12,1080000.0,25-11-2009,Auktion,12705,4,Sommerhus,85,1999,
+Parallelvej 33 4591 Føllenslev,33,350000.0,13-11-2009,Alm.,2083,5,Villa,168,2013,-81 %
+Nekselø 15 4591 Føllenslev,15,1312500.0,05-11-2009,Fam.,8467,5,Stuehus,155,1890,
+Byvej 3 4591 Føllenslev,3,750000.0,27-10-2009,Alm.,6410,3,Villa,117,1950,
+Mellemvænget 8 4591 Føllenslev,8,600000.0,27-10-2009,Alm.,9375,4,Sommerhus,64,1980,-14 %
+Maskinmestervej 14 4591 Føllenslev,14,900000.0,26-10-2009,Alm.,16981,2,Sommerhus,53,1997,-14 %
+Egemarken 6 4591 Føllenslev,6,725000.0,23-09-2009,Alm.,14795,3,Sommerhus,49,1983,-15 %
+Mellemvænget 12 4591 Føllenslev,12,800000.0,31-08-2009,Alm.,17021,3,Sommerhus,47,1985,-11 %
+Kristianvej 6 4591 Føllenslev,6,950000.0,01-08-2009,Alm.,10000,3,Sommerhus,95,1979,-20 %
+Mosevej 7 4591 Føllenslev,7,800000.0,26-07-2009,Alm.,9756,5,Sommerhus,82,1965,-20 %
+Syrenvej 6 4591 Føllenslev,6,1300000.0,04-07-2009,Alm.,12621,5,Sommerhus,103,1970,-6 %
+Paradisvej 2 4591 Føllenslev,2,1062500.0,03-07-2009,Fam.,10315,4,Villa,103,1922,
+Parallelvej 3 4591 Føllenslev,3,300000.0,29-06-2009,Alm.,1595,7,Villa,188,2011,-37 %
+Ravnholt 19 4591 Føllenslev,19,700000.0,26-06-2009,Alm.,8235,4,Sommerhus,85,2007,
+Toldervej 8 4591 Føllenslev,8,1105000.0,26-06-2009,Fam.,12556,4,Sommerhus,88,1999,
+Styrmandsvej 9 4591 Føllenslev,9,700000.0,02-06-2009,Alm.,9210,4,Sommerhus,76,1973,-18 %
+Havnevej 26 4591 Føllenslev,26,1200000.0,02-06-2009,Alm.,7643,7,Villa,157,1927,-29 %
+Havnsøvej 5 4591 Føllenslev,5,855000.0,25-05-2009,Auktion,5343,7,Villa,160,1925,
+Strandvej 10B 4591 Føllenslev,0,1600000.0,20-05-2009,Alm.,20000,4,Sommerhus,80,2005,-8 %
+Skippervej 14 4591 Føllenslev,14,775000.0,19-05-2009,Alm.,14090,2,Sommerhus,55,1978,-13 %
+Byvej 19 4591 Føllenslev,19,415000.0,19-05-2009,Alm.,4150,4,Villa,100,2012,
+Parallelvej 1 4591 Føllenslev,1,450000.0,30-03-2009,Alm.,2163,7,Villa,208,2011,-5 %
+Havnsøgårdsvej 46 4591 Føllenslev,46,1810000.0,16-03-2009,Alm.,13021,2,Villa,139,2007,-4 %
+Egemarkevej 9 4591 Føllenslev,9,710000.0,11-03-2009,Alm.,7029,3,Villa,101,1960,
+Havnsøgårdsvej 37 4591 Føllenslev,37,2150000.0,10-03-2009,Alm.,14930,5,Villa,144,2008,-2 %
+Egemarkevej 11 4591 Føllenslev,11,350000.0,24-02-2009,Alm.,8536,2,Villa,41,1960,
+Havnsøgårdsvej 43 4591 Føllenslev,43,2550000.0,11-02-2009,Alm.,13492,5,Villa,189,2008,
+Havnevej 55 4591 Føllenslev,55,1150000.0,22-01-2009,Alm.,8984,4,Villa,128,1958,-11 %
+Græsmarkvej 15 4591 Føllenslev,15,750000.0,13-01-2009,Fam.,0,7,Stuehus,218,1926,
+Pilebakken 10 4591 Føllenslev,10,852798.0,09-01-2009,Alm.,17055,4,Sommerhus,50,1979,-3 %
+Nekselø 14 4591 Føllenslev,14,300000.0,09-01-2009,Fam.,4615,4,Sommerhus,65,1968,
+Havnsø Møllevej 3B 4591 Føllenslev,0,750000.0,18-12-2008,Fam.,9868,3,Villa,76,1974,
+Bøgevej 5 4591 Føllenslev,5,1317500.0,14-12-2008,Fam.,9832,4,Villa,134,1965,
+Birkebakken 7 4591 Føllenslev,7,935000.0,13-11-2008,Fam.,13955,4,Sommerhus,67,1987,
+Nekselø 13B 4591 Føllenslev,0,396666.0,10-11-2008,Fam.,5666,3,Sommerhus,70,1970,
+Hofvej 3 4591 Føllenslev,3,1742500.0,29-10-2008,Fam.,25253,2,Sommerhus,69,1993,
+Svalevej 2 4591 Føllenslev,2,1500000.0,28-10-2008,Alm.,10714,5,Villa,140,1980,-11 %
+Strandparken 42 4591 Føllenslev,42,2200000.0,24-10-2008,Alm.,12290,4,Villa,179,2000,-17 %
+Toldervej 7 4591 Føllenslev,7,536000.0,05-10-2008,Fam.,5104,6,Sommerhus,105,1979,
+Glentevej 8 4591 Føllenslev,8,427720.0,02-10-2008,Andet,3655,4,Villa,117,1973,
+Havnsøgårdsvej 26 4591 Føllenslev,26,2475000.0,09-09-2008,Alm.,13750,7,Villa,180,2005,-7 %
+Havnevej 44 4591 Føllenslev,44,700000.0,31-08-2008,Andet,6306,3,Villa,111,1880,
+Bøgevej 34 4591 Føllenslev,34,1625000.0,29-08-2008,Alm.,17663,4,Sommerhus,92,1958,-18 %
+Rørgræsvej 5 4591 Føllenslev,5,1175000.0,14-08-2008,Alm.,18650,4,Sommerhus,63,2006,-2 %
+Agerskovvej 1 4591 Føllenslev,1,2500000.0,08-07-2008,Alm.,12755,9,Stuehus,196,1873,-9 %
+Middelvej 10 4591 Føllenslev,10,1015000.0,30-06-2008,Alm.,29000,2,Sommerhus,35,1954,
+Byvej 24 4591 Føllenslev,24,2295000.0,23-06-2008,Alm.,17386,5,Villa,132,1907,0 %
+Birkebakken 2 4591 Føllenslev,2,1100000.0,08-06-2008,Alm.,14102,4,Sommerhus,78,1983,-15 %
+Lodsvej 27 4591 Føllenslev,27,690000.0,23-05-2008,Alm.,20294,2,Sommerhus,34,1947,-13 %
+Hellestræde 2 4591 Føllenslev,2,90000.0,19-05-2008,Alm.,443,9,Stuehus,203,1907,
+Parallevej 7 4591 Føllenslev,7,625000.0,17-05-2008,Alm.,0,0,Grund,0,0,
+Strandparken 50 4591 Føllenslev,50,1570000.0,14-05-2008,Alm.,16881,3,Villa,93,1984,-3 %
+Havnsøvej 17B 4591 Føllenslev,0,1950000.0,10-05-2008,Alm.,0,7,Villa,183,1979,-42 %
+Birkebakken 1 4591 Føllenslev,1,2180000.0,08-05-2008,Alm.,11295,4,Villa,193,1978,1 %
+Tjørnemarken 7 4591 Føllenslev,7,370000.0,08-05-2008,Alm.,6981,3,Sommerhus,53,2009,
+Højstedvej 9 4591 Føllenslev,9,2300000.0,24-04-2008,Alm.,9913,8,Stuehus,232,1900,-13 %
+Parallelvej 67 4591 Føllenslev,67,650000.0,20-04-2008,Alm.,3513,5,Villa,185,2009,
+Havnefogedvej 9 4591 Føllenslev,9,1155000.0,14-04-2008,Alm.,16739,4,Sommerhus,69,1970,
+Egevej 5 4591 Føllenslev,5,1050000.0,08-04-2008,Alm.,8333,4,Sommerhus,126,2009,
+Lyngstræde 4D 4591 Føllenslev,0,1685000.0,02-04-2008,Alm.,19367,3,Lejlighed,87,2009,
+Kvartermestervej 12 4591 Føllenslev,12,925000.0,02-04-2008,Alm.,16517,4,Sommerhus,56,1972,-10 %
+Strandgårdsvej 10 4591 Føllenslev,10,800000.0,27-02-2008,Alm.,8421,4,Sommerhus,95,1978,-20 %
+Havnevej 31 4591 Føllenslev,31,700000.0,17-02-2008,Alm.,6481,5,Villa,108,1949,
+Granbakken 6 4591 Føllenslev,6,830000.0,16-02-2008,Alm.,15961,3,Sommerhus,52,1978,-2 %
+Birkebakken 12 4591 Føllenslev,12,1100000.0,02-02-2008,Alm.,21568,3,Sommerhus,51,1999,
+Havnsøgårdsvej 38 4591 Føllenslev,38,2225000.0,21-12-2007,Alm.,15451,4,Villa,144,2008,-3 %
+Mosevej 9 4591 Føllenslev,9,550000.0,16-12-2007,Fam.,6179,3,Sommerhus,89,1964,
+Højsted Overdrev 9 4591 Føllenslev,9,1000000.0,06-12-2007,Alm.,11627,3,Villa,86,1880,-34 %
+Mellemvænget 16C 4591 Føllenslev,0,500000.0,06-11-2007,Alm.,20000,2,Sommerhus,25,1994,
+Ravnholt 42 4591 Føllenslev,42,570000.0,02-11-2007,Alm.,4634,4,Sommerhus,123,2008,-4 %
+Strandparken 31 4591 Føllenslev,31,2325000.0,22-10-2007,Alm.,15296,5,Villa,152,2005,
+Havnsøvej 31 4591 Føllenslev,31,2100000.0,14-10-2007,Alm.,0,6,Villa,186,1910,
+Højstedvej 18 4591 Føllenslev,18,1500000.0,10-10-2007,Alm.,9740,5,Villa,154,1850,2 %
+Højstedvej 19 4591 Føllenslev,19,1370000.0,09-10-2007,Alm.,7287,6,Villa,188,1912,-14 %
+Strandgårdsvej 25 4591 Føllenslev,25,460000.0,02-10-2007,Alm.,10222,3,Sommerhus,45,1977,
+Højstedvej 17 4591 Føllenslev,17,645000.0,25-09-2007,Alm.,9347,2,Villa,69,1867,-4 %
+Havnsøgårdsvej 33 4591 Føllenslev,33,2295000.0,24-09-2007,Alm.,14433,159,Villa,159,2007,0 %
+Havnsøgårdsvej 58 4591 Føllenslev,58,2415000.0,07-09-2007,Alm.,15000,5,Villa,161,2007,-3 %
+Havnsøgårdsvej 13 4591 Føllenslev,13,235000.0,06-09-2007,Alm.,1277,6,Villa,184,2009,0 %
+Egemarken 10 4591 Føllenslev,10,1625000.0,06-09-2007,Alm.,21103,4,Sommerhus,77,2005,0 %
+Gartnerstræde 5 4591 Føllenslev,5,1275000.0,29-08-2007,Alm.,13421,2,Villa,95,1900,0 %
+Lundevej 6 4591 Føllenslev,6,5705000.0,29-08-2007,Alm.,30837,4,Villa,185,1976,
+Solvej 1 4591 Føllenslev,1,1590000.0,28-08-2007,Alm.,0,5,Villa,134,1965,
+Smedevej 5 4591 Føllenslev,5,561000.0,26-08-2007,Fam.,6164,5,Villa,91,2007,
+Toldervej 1 4591 Føllenslev,1,2450000.0,16-08-2007,Alm.,0,5,Sommerhus,99,1976,-6 %
+Hofvej 9 4591 Føllenslev,9,665000.0,09-08-2007,Alm.,7074,5,Sommerhus,94,2009,
+Havnsøvej 10 4591 Føllenslev,10,540000.0,08-08-2007,Alm.,6835,3,Villa,79,1788,
+Egemarken 19 4591 Føllenslev,19,470000.0,03-08-2007,Fam.,6351,4,Sommerhus,74,1978,
+Lyngstræde 4F 4591 Føllenslev,0,1585000.0,01-08-2007,Alm.,15850,3,Lejlighed,100,2007,0 %
+Skelbakken 8 4591 Føllenslev,8,1650000.0,29-07-2007,Alm.,22916,3,Sommerhus,72,2006,-3 %
+Strandengen 33 4591 Føllenslev,33,1070000.0,20-07-2007,Alm.,20980,3,Sommerhus,51,1998,-6 %
+Middelvej 2 4591 Føllenslev,2,739160.0,16-07-2007,Fam.,13439,3,Sommerhus,55,1984,
+Arne Petersensvej 3 4591 Føllenslev,3,770000.0,03-07-2007,Alm.,9277,3,Sommerhus,83,2010,
+Nykøbingvej 53 4591 Føllenslev,53,1700000.0,02-07-2007,Alm.,15740,3,Stuehus,108,1961,
+Tulipanvej 3 4591 Føllenslev,3,1025000.0,01-07-2007,Alm.,21808,2,Sommerhus,47,1967,0 %
+Hofvej 2 4591 Føllenslev,2,525000.0,29-06-2007,Fam.,6104,3,Sommerhus,86,2009,
+Gl Stationsvej 1 4591 Føllenslev,1,640000.0,27-06-2007,Andet,6153,4,Villa,104,1932,
+Ravnholt 17 4591 Føllenslev,17,548000.0,26-06-2007,Alm.,5425,4,Sommerhus,101,2009,
+Engvej 2 4591 Føllenslev,2,1185000.0,25-06-2007,Alm.,18809,4,Sommerhus,63,1962,-8 %
+Strandparken 37 4591 Føllenslev,37,1590000.0,23-06-2007,Alm.,11954,4,Villa,133,1979,-4 %
+Strandgårdsvej 27 4591 Føllenslev,27,995000.0,21-06-2007,Alm.,0,3,Sommerhus,59,1980,0 %
+Strandparken 64 4591 Føllenslev,64,1850000.0,18-06-2007,Alm.,10946,5,Villa,169,1979,
+Havnsøgårdsvej 31 4591 Føllenslev,31,2125500.0,14-06-2007,Alm.,15291,5,Villa,139,2007,
+Ravnholt 3 4591 Føllenslev,3,498000.0,14-06-2007,Alm.,4256,5,Sommerhus,117,2009,
+Strandvej 11 4591 Føllenslev,11,3500000.0,05-06-2007,Alm.,31250,4,Sommerhus,112,1976,
+Solbakken 18 4591 Føllenslev,18,1100000.0,15-05-2007,Alm.,12643,3,Villa,87,1978,
+Svalevej 5 4591 Føllenslev,5,1822100.0,10-05-2007,Alm.,13909,4,Villa,131,1969,-11 %
+Havnsøvej 32 4591 Føllenslev,32,166120.0,09-05-2007,Alm.,716,8,Stuehus,232,1884,
+Ravnholt 40 4591 Føllenslev,40,548000.0,07-05-2007,Alm.,6227,4,Sommerhus,88,2008,
+Havnsøgårdsvej 11 4591 Føllenslev,11,215000.0,30-04-2007,Alm.,1762,4,Villa,122,2008,
+Ravnholt 63 4591 Føllenslev,63,548000.0,29-04-2007,Alm.,6765,4,Sommerhus,81,2008,
+Gartnerstræde 6 4591 Føllenslev,6,1340000.0,12-04-2007,Alm.,9925,4,Villa,135,1976,-2 %
+Møllehøj 15 4591 Føllenslev,15,1845000.0,04-04-2007,Alm.,11531,6,Villa,160,1981,-1 %
+Svalevej 3 4591 Føllenslev,3,1180000.0,28-03-2007,Alm.,11683,4,Villa,101,1978,
+Havnsøgårdsvej 5 4591 Føllenslev,5,235000.0,15-03-2007,Alm.,1180,5,Villa,199,2008,0 %
+Glentevej 4 4591 Føllenslev,4,1225000.0,09-03-2007,Alm.,10381,4,Villa,118,1980,
+Toftegårdsvej 9 4591 Føllenslev,9,860000.0,08-02-2007,Alm.,10886,3,Villa,79,1971,
+Galtebjergvej 1 4591 Føllenslev,1,1782500.0,07-02-2007,Fam.,18763,3,Stuehus,95,1903,
+Lodsvej 10 4591 Føllenslev,10,1095000.0,02-02-2007,Alm.,14220,4,Sommerhus,77,1978,0 %
+Birkebakken 8 4591 Føllenslev,8,1500000.0,23-01-2007,Alm.,16666,3,Sommerhus,90,2005,-6 %
+Møllehøj 39 4591 Føllenslev,39,1745000.0,21-01-2007,Alm.,15720,4,Villa,111,1988,
+Havnevej 47 4591 Føllenslev,47,635000.0,10-01-2007,Alm.,9202,2,Villa,69,1927,0 %
+Tjørnemarken 11 4591 Føllenslev,11,1200000.0,29-12-2006,Alm.,14285,4,Sommerhus,84,2000,
+Egemarkevej 2 4591 Føllenslev,2,725000.0,08-12-2006,Alm.,6531,5,Villa,111,1919,
+Ravnholt 55 4591 Føllenslev,55,498000.0,05-12-2006,Alm.,4368,4,Sommerhus,114,2012,
+Havnsøgårdsvej 56 4591 Føllenslev,56,2295000.0,04-12-2006,Alm.,0,5,Villa,144,2007,
+Havnsøvej 27 4591 Føllenslev,27,210000.0,29-11-2006,Alm.,807,6,Stuehus,260,1885,
+Svalevej 6 4591 Føllenslev,6,1215000.0,23-11-2006,Alm.,10657,3,Villa,114,1969,
+Havnsøgårdsvej 40 4591 Føllenslev,40,2295000.0,23-11-2006,Alm.,15937,5,Villa,144,2007,
+Havnsøgårdsvej 7 4591 Føllenslev,7,210000.0,23-11-2006,Alm.,1428,4,Villa,147,2007,
+Højsted Overdrev 13 4591 Føllenslev,13,3450000.0,18-11-2006,Alm.,13636,4,Stuehus,253,1949,
+Lyngstræde 4H 4591 Føllenslev,0,1425000.0,14-11-2006,Alm.,16379,3,Lejlighed,87,2007,
+Havnsøgårdsvej 61 4591 Føllenslev,61,410000.0,10-11-2006,Alm.,3280,4,Villa,125,2010,
+Ravnholt 5 4591 Føllenslev,5,470000.0,09-11-2006,Alm.,4196,3,Sommerhus,112,2009,
+Ravnholt 27 4591 Føllenslev,27,498000.0,08-11-2006,Alm.,4446,3,Sommerhus,112,2009,
+Havnsøgårdsvej 49 4591 Føllenslev,49,425000.0,07-11-2006,Alm.,2623,4,Villa,162,2008,
+Ravnholt 29 4591 Føllenslev,29,498000.0,06-11-2006,Alm.,5858,4,Sommerhus,85,2007,
+Ravnholt 16 4591 Føllenslev,16,448000.0,01-11-2006,Alm.,4525,4,Sommerhus,99,2010,
+Fyrmestervej 4 4591 Føllenslev,4,755000.0,31-10-2006,Alm.,8031,4,Sommerhus,94,1979,
+Svalevej 8 4591 Føllenslev,8,1235000.0,30-10-2006,Alm.,8821,4,Villa,140,1969,
+Engsvinget 3 4591 Føllenslev,3,1040000.0,17-10-2006,Alm.,18909,4,Sommerhus,55,1977,
+Hjertegræsvej 5 4591 Føllenslev,5,875000.0,10-10-2006,Alm.,16509,3,Sommerhus,53,1969,
+Engsvinget 4 4591 Føllenslev,4,1880000.0,07-10-2006,Alm.,0,4,Sommerhus,122,2005,
+Havnsøgårdsvej 53 4591 Føllenslev,53,425000.0,06-10-2006,Alm.,2639,5,Villa,161,2008,
+Engvej 10 4591 Føllenslev,10,1195000.0,24-09-2006,Alm.,22980,3,Sommerhus,52,1967,
+Granbakken 12 4591 Føllenslev,12,1545000.0,18-09-2006,Alm.,16436,4,Sommerhus,94,1979,
+Eskebjergvej 5 4591 Føllenslev,5,700000.0,15-09-2006,Fam.,3381,4,Villa,207,1900,
+Hofvej 27 4591 Føllenslev,27,425000.0,13-09-2006,Andet,21250,1,Sommerhus,20,1988,
+Strandgårdsvej 5 4591 Føllenslev,5,1195000.0,28-08-2006,Alm.,0,5,Sommerhus,85,1979,
+Strandvej 34C 4591 Føllenslev,0,1500000.0,22-08-2006,Alm.,20547,3,Sommerhus,73,2009,
+Strandparken 60 4591 Føllenslev,60,2440000.0,21-08-2006,Alm.,11674,7,Villa,209,1979,
+Havnevej 15 4591 Føllenslev,15,2995000.0,16-08-2006,Alm.,21241,3,Villa,141,1901,
+Strandgårdsbakken 19 4591 Føllenslev,19,1100000.0,08-08-2006,Alm.,14864,4,Sommerhus,74,1980,
+Middelvej 4 4591 Føllenslev,4,2795000.0,04-08-2006,Alm.,32126,3,Sommerhus,87,2002,
+Granbakken 2 4591 Føllenslev,2,950000.0,04-08-2006,Alm.,16964,4,Sommerhus,56,1983,
+Sirgræsvej 2 4591 Føllenslev,2,650000.0,24-07-2006,Alm.,22413,2,Sommerhus,29,1967,
+Granbakken 16 4591 Føllenslev,16,975000.0,17-07-2006,Alm.,18055,4,Sommerhus,54,1978,
+Lyngvej 10 4591 Føllenslev,10,950000.0,14-07-2006,Alm.,14615,3,Sommerhus,65,1900,
+Havnevej 6 4591 Føllenslev,6,687500.0,10-07-2006,Fam.,0,6,Villa,204,1888,
+Solbakken 1 4591 Føllenslev,1,995000.0,29-06-2006,Alm.,9128,3,Villa,109,1965,
+Højstedvej 23 4591 Føllenslev,23,6400000.0,27-06-2006,Alm.,32989,8,Stuehus,194,1973,
+Middelvej 19 4591 Føllenslev,19,743750.0,27-06-2006,Alm.,10329,3,Sommerhus,72,1920,
+Bøgevej 26 4591 Føllenslev,26,1780000.0,26-06-2006,Alm.,11710,4,Villa,152,1976,
+Havnsøgårdsvej 47 4591 Føllenslev,47,445000.0,23-06-2006,Alm.,2342,5,Villa,190,2008,
+Strandparken 13 4591 Føllenslev,13,2000000.0,21-06-2006,Alm.,10256,7,Villa,195,1999,
+Engvej 1 4591 Føllenslev,1,1120000.0,21-06-2006,Alm.,18983,2,Sommerhus,59,1962,
+Syrenvej 3 4591 Føllenslev,3,750000.0,20-06-2006,Alm.,11029,4,Sommerhus,68,1969,
+Syrenvej 1 4591 Føllenslev,1,700000.0,20-06-2006,Alm.,0,8,Sommerhus,91,1969,
+Middelvej 9 4591 Føllenslev,9,800000.0,20-06-2006,Alm.,14285,2,Sommerhus,56,2010,
+Kvikgræsvej 5 4591 Føllenslev,5,300000.0,17-06-2006,Alm.,2325,5,Sommerhus,129,2010,
+Tjørnemarken 5 4591 Føllenslev,5,1070000.0,16-06-2006,Alm.,14459,3,Sommerhus,74,1977,
+Toldervej 11 4591 Føllenslev,11,1325000.0,15-06-2006,Alm.,20384,2,Sommerhus,65,1977,
+Hofvej 25 4591 Føllenslev,25,1300000.0,11-06-2006,Alm.,16250,3,Sommerhus,80,1979,
+Pilebakken 9 4591 Føllenslev,9,925000.0,09-06-2006,Alm.,0,3,Sommerhus,63,1979,
+Hofvej 15 4591 Føllenslev,15,1485000.0,08-06-2006,Alm.,23571,3,Sommerhus,63,1981,
+Havnsøgårdsvej 41 4591 Føllenslev,41,445000.0,02-06-2006,Alm.,2572,4,Villa,173,2009,
+Strandparken 41 4591 Føllenslev,41,2195000.0,01-06-2006,Alm.,14536,5,Villa,151,2004,
+Møllehøj 13 4591 Føllenslev,13,400000.0,27-05-2006,Alm.,2721,5,Villa,147,2007,
+Skippervej 6 4591 Føllenslev,6,725000.0,24-05-2006,Alm.,25000,3,Sommerhus,29,1955,
+Havnsøgårdsvej 72 4591 Føllenslev,72,280000.0,21-05-2006,Alm.,1761,4,Villa,159,2007,
+Strandengen 39 4591 Føllenslev,39,895000.0,17-05-2006,Alm.,19888,3,Sommerhus,45,1980,
+Havnsøvej 16 4591 Føllenslev,16,1495000.0,15-05-2006,Alm.,8081,4,Villa,185,1940,
+Bøgevej 27 4591 Føllenslev,27,1105000.0,11-05-2006,Fam.,0,5,Villa,173,1973,
+Hofvej 18 4591 Føllenslev,18,1590000.0,30-04-2006,Alm.,17666,3,Sommerhus,90,2001,
+Bybjærgstræde 4 4591 Føllenslev,4,440000.0,28-04-2006,Alm.,3492,6,Villa,126,1961,
+Ahornvej 4 4591 Føllenslev,4,1235000.0,27-04-2006,Alm.,13000,3,Villa,95,1989,
+Havnsøgårdsvej 50 4591 Føllenslev,50,280000.0,18-04-2006,Alm.,2089,4,Villa,134,2006,
+Kvartermestervej 5 4591 Føllenslev,5,1050000.0,08-04-2006,Alm.,16153,4,Sommerhus,65,1973,
+Matrosvej 12 4591 Føllenslev,12,1295000.0,02-04-2006,Alm.,14715,4,Sommerhus,88,1993,
+Havnsøgårdsvej 70 4591 Føllenslev,70,280000.0,30-03-2006,Alm.,1250,5,Villa,224,2010,
+Havnsøgårdsvej 64 4591 Føllenslev,64,260000.0,15-03-2006,Alm.,1405,5,Villa,185,2007,
+Egemarkevej 4 4591 Føllenslev,4,354639.0,13-03-2006,Fam.,2666,3,Villa,133,1927,
+Strandengen 31 4591 Føllenslev,31,100000.0,06-03-2006,Alm.,1111,3,Sommerhus,90,2009,
+Middelvej 11 4591 Føllenslev,11,440000.0,06-03-2006,Andet,7457,3,Sommerhus,59,1955,
+Kvikgræsvej 1 4591 Føllenslev,1,825000.0,03-03-2006,Alm.,11458,5,Sommerhus,72,1968,
+Havnsøgårdsvej 9 4591 Føllenslev,9,1950000.0,02-03-2006,Alm.,14338,5,Villa,136,2006,
+Lærkevej 5 4591 Føllenslev,5,1165000.0,22-02-2006,Alm.,8629,4,Villa,135,1981,
+Arne Petersensvej 2 4591 Føllenslev,2,900000.0,16-02-2006,Alm.,15789,3,Sommerhus,57,1967,
+Havnsøgårdsvej 4 4591 Føllenslev,4,2055000.0,15-02-2006,Alm.,14678,5,Villa,140,2006,
+Rørgræsvej 16 4591 Føllenslev,16,175000.0,10-02-2006,Alm.,8333,1,Sommerhus,21,2008,
+Solbakken 6 4591 Føllenslev,6,880000.0,07-02-2006,Alm.,10476,3,Villa,84,1964,
+Strandgårdsvej 3 4591 Føllenslev,3,850000.0,05-02-2006,Alm.,13934,3,Sommerhus,61,1977,
+Strandparken 16 4591 Føllenslev,16,1556250.0,29-01-2006,Alm.,11701,5,Villa,133,1979,
+Havnsøgårdsvej 48 4591 Føllenslev,48,280000.0,27-01-2006,Alm.,1573,6,Villa,178,2007,
+Ravnholt 11 4591 Føllenslev,11,498000.0,15-01-2006,Alm.,6225,3,Sommerhus,80,2007,
+Havnevej 46 4591 Føllenslev,46,950000.0,12-01-2006,Fam.,11445,2,Villa,83,1951,
+Tjørnemarken 29 4591 Føllenslev,29,107800.0,01-01-2006,Fam.,2073,4,Sommerhus,52,1985,
+Pilebakken 3 4591 Føllenslev,3,1190000.0,21-12-2005,Alm.,0,4,Sommerhus,76,1984,
+Havnsøgårdsvej 42 4591 Føllenslev,42,280000.0,19-12-2005,Alm.,2477,4,Villa,113,2006,
+Skippervej 4 4591 Føllenslev,4,1015000.0,08-12-2005,Alm.,0,3,Sommerhus,54,1972,
+Skippervej 10 4591 Føllenslev,10,1015000.0,08-12-2005,Alm.,20300,3,Sommerhus,50,1969,
+Havnsøgårdsvej 17 4591 Føllenslev,17,225000.0,10-11-2005,Alm.,1500,5,Villa,150,2006,
+Ravnholt 9 4591 Føllenslev,9,448000.0,02-11-2005,Alm.,5743,3,Sommerhus,78,2007,
+Ravnholt 23 4591 Føllenslev,23,498000.0,20-10-2005,Alm.,7217,3,Sommerhus,69,2008,
+Pilebakken 16 4591 Føllenslev,16,895000.0,17-10-2005,Alm.,17900,3,Sommerhus,50,1979,
+Ravnholt 77 4591 Føllenslev,77,498000.0,09-10-2005,Alm.,5413,5,Sommerhus,92,2009,
+Ravnholt 49 4591 Føllenslev,49,490000.0,09-10-2005,Alm.,5051,4,Sommerhus,97,2010,
+Kvikgræsvej 2 4591 Føllenslev,2,560000.0,04-10-2005,Fam.,7466,4,Sommerhus,75,1962,
+Ravnholt 79 4591 Føllenslev,79,498000.0,03-10-2005,Alm.,5472,3,Sommerhus,91,2008,
+Engvej 13 4591 Føllenslev,13,925000.0,14-09-2005,Alm.,0,5,Sommerhus,71,1962,
+Ravnholt 73 4591 Føllenslev,73,498000.0,11-09-2005,Alm.,4742,4,Sommerhus,105,2007,
+Ravnholt 70 4591 Føllenslev,70,498000.0,11-09-2005,Alm.,5533,4,Sommerhus,90,2007,
+Ravnholt 58 4591 Føllenslev,58,446000.0,10-09-2005,Alm.,6194,4,Sommerhus,72,2007,
+Ravnholt 38 4591 Føllenslev,38,498000.0,09-09-2005,Alm.,4834,4,Sommerhus,103,2008,
+Ravnholt 37 4591 Føllenslev,37,498000.0,09-09-2005,Alm.,4568,3,Sommerhus,109,2012,
+Rørgræsvej 4 4591 Føllenslev,4,36500.0,27-08-2005,Fam.,317,4,Sommerhus,115,2010,
+Tulipanvej 8 4591 Føllenslev,8,850000.0,18-08-2005,Alm.,16666,3,Sommerhus,51,1968,
+Eskebjergvej 4 4591 Føllenslev,4,900000.0,08-08-2005,Alm.,4615,4,Villa,195,1937,
+Gl Stationsvej 2 4591 Føllenslev,2,1290000.0,04-08-2005,Alm.,6386,8,Villa,202,1960,
+Eskebjergvej 8 4591 Føllenslev,8,525000.0,04-08-2005,Alm.,4038,5,Villa,130,1937,
+Styrmandsvej 11 4591 Føllenslev,11,1195000.0,29-07-2005,Alm.,20964,3,Sommerhus,57,1977,
+Pilebakken 18 4591 Føllenslev,18,870000.0,22-07-2005,Alm.,21219,2,Sommerhus,41,1989,
+Birkebakken 13 4591 Føllenslev,13,1005000.0,04-07-2005,Alm.,13051,4,Sommerhus,77,1978,
+Middelvej 7 4591 Føllenslev,7,262225.0,04-07-2005,Alm.,4034,3,Sommerhus,65,2007,
+Strandparken 23 4591 Føllenslev,23,325000.0,28-06-2005,Alm.,2056,6,Villa,158,2008,
+Gunhøjvej 4 4591 Føllenslev,4,1595000.0,02-06-2005,Alm.,0,5,Villa,199,1914,
+Havnsøgårdsvej 27 4591 Føllenslev,27,194000.0,31-05-2005,Alm.,843,6,Villa,230,2011,
+Havnsøgårdsvej 25 4591 Føllenslev,25,215000.0,31-05-2005,Alm.,1482,5,Villa,145,2007,
+Granbakken 9 4591 Føllenslev,9,325000.0,31-05-2005,Alm.,4710,3,Sommerhus,69,2006,
+Egeskovvej 10 4591 Føllenslev,10,425000.0,30-05-2005,Alm.,11805,2,Sommerhus,36,1960,
+Engvej 11 4591 Føllenslev,11,850000.0,19-05-2005,Fam.,9770,3,Sommerhus,87,2004,
+Egeskovvej 12 4591 Føllenslev,12,450000.0,18-05-2005,Alm.,7627,3,Sommerhus,59,2008,
+Kalundborgvej 38 4591 Føllenslev,38,2253000.0,17-05-2005,Alm.,10779,5,Villa,209,1912,
+Strandgårdsbakken 1 4591 Føllenslev,1,825000.0,11-05-2005,Alm.,0,3,Sommerhus,56,1976,
+Strandvej 36 4591 Føllenslev,36,977500.0,09-05-2005,Fam.,11777,4,Sommerhus,83,1981,
+Strandgårdsbakken 10 4591 Føllenslev,10,225000.0,27-04-2005,Alm.,2227,4,Sommerhus,101,2010,
+Strandparken 5 4591 Føllenslev,5,360000.0,19-04-2005,Alm.,1967,5,Villa,183,2007,
+Fyrmestervej 10 4591 Føllenslev,10,775000.0,17-04-2005,Alm.,0,4,Sommerhus,67,1971,
+Egemarken 31 4591 Føllenslev,31,314500.0,12-04-2005,Fam.,0,3,Sommerhus,67,1985,
+Havnevej 28 4591 Føllenslev,28,935000.0,12-04-2005,Alm.,7663,4,Rækkehus,122,1906,
+Tjørnemarken 6 4591 Føllenslev,6,522000.0,01-04-2005,Fam.,9000,3,Sommerhus,58,1999,
+Strandgårdsvej 13 4591 Føllenslev,13,330000.0,29-03-2005,Andet,10000,2,Sommerhus,33,1979,
+Kvikgræsvej 4 4591 Føllenslev,4,1062500.0,17-03-2005,Fam.,9402,4,Sommerhus,113,1968,
+Strandvej 7 4591 Føllenslev,7,1790000.0,08-03-2005,Alm.,12260,4,Villa,146,1902,
+Engsvinget 5 4591 Føllenslev,5,830730.0,07-03-2005,Alm.,11076,5,Sommerhus,75,1979,
+Tulipanvej 4 4591 Føllenslev,4,721000.0,07-03-2005,Alm.,17585,2,Sommerhus,41,1969,
+Strandparken 39 4591 Føllenslev,39,970000.0,26-02-2005,Alm.,12278,3,Villa,79,1990,
+Lærkevej 1 4591 Føllenslev,1,1025000.0,08-02-2005,Alm.,9151,3,Villa,112,1986,
+Strandengen 28 4591 Føllenslev,28,1150000.0,08-02-2005,Alm.,14375,3,Sommerhus,80,1977,
+Bøgevej 8 4591 Føllenslev,8,1575000.0,26-01-2005,Alm.,8160,6,Villa,193,1981,
+Hellestræde 1 4591 Føllenslev,1,450000.0,25-01-2005,Alm.,6818,2,Villa,66,1888,
+Egeskovvej 14 4591 Føllenslev,14,196000.0,25-01-2005,Fam.,3563,3,Sommerhus,55,2007,
+Toftegårdsvej 11 4591 Føllenslev,11,900000.0,25-01-2005,Alm.,6521,6,Villa,138,1974,
+Favrbovej 4 4591 Føllenslev,4,1850000.0,15-01-2005,Fam.,10000,5,Villa,185,1897,
+Egemarkevej 1 4591 Føllenslev,1,1070000.0,14-01-2005,Alm.,9385,5,Villa,114,1967,
+Havnsøgårdsvej 8 4591 Føllenslev,8,240000.0,14-01-2005,Alm.,1832,4,Villa,131,2006,
+Strandengen 18 4591 Føllenslev,18,74300.0,13-01-2005,Alm.,816,4,Sommerhus,91,2007,
+Kvartermestervej 10 4591 Føllenslev,10,740000.0,22-12-2004,Alm.,14509,3,Sommerhus,51,1972,
+Hofvej 5 4591 Føllenslev,5,314500.0,29-11-2004,Fam.,5933,3,Sommerhus,53,1957,
+Møllestræde 1 4591 Føllenslev,1,1175000.0,03-11-2004,Alm.,6601,5,Villa,178,1961,
+Græsmarkvej 25 4591 Føllenslev,25,400000.0,02-11-2004,Alm.,7017,2,Sommerhus,57,1965,
+Havnsøgårdsvej 22 4591 Føllenslev,22,295000.0,27-10-2004,Alm.,2565,4,Villa,115,2006,
+Havnsøgårdsvej 6 4591 Føllenslev,6,295000.0,26-10-2004,Alm.,1603,5,Villa,184,2005,
+Kirkemosevej 4 4591 Føllenslev,4,747869.0,17-10-2004,Alm.,3196,4,Stuehus,234,1939,
+Havnsøgårdsvej 28 4591 Føllenslev,28,295000.0,16-10-2004,Alm.,2034,5,Villa,145,2006,
+Nekselø 2 4591 Føllenslev,2,650000.0,14-10-2004,Andet,11818,4,Sommerhus,55,1950,
+Rorgængervej 9 4591 Føllenslev,9,660000.0,09-10-2004,Fam.,9705,4,Sommerhus,68,1977,
+Egemarkevej 3 4591 Føllenslev,3,595000.0,30-09-2004,Alm.,9916,4,Villa,60,1958,
+Strandparken 15 4591 Føllenslev,15,1660000.0,24-09-2004,Alm.,12296,4,Villa,135,2001,
+Strandgårdsvej 21 4591 Føllenslev,21,740000.0,15-09-2004,Alm.,0,6,Sommerhus,91,1985,
+Strandparken 43 4591 Føllenslev,43,1195000.0,14-08-2004,Alm.,10765,4,Villa,111,1998,
+Toftegårdsvej 2D 4591 Føllenslev,0,700000.0,16-07-2004,Alm.,7692,3,Rækkehus,91,1978,
+Havnevej 33 4591 Føllenslev,33,745000.0,02-07-2004,Alm.,9802,2,Villa,76,1938,
+Maskinmestervej 15 4591 Føllenslev,15,880000.0,01-07-2004,Alm.,16000,3,Sommerhus,55,1988,
+Havnsøgårdsvej 20 4591 Føllenslev,20,295000.0,15-06-2004,Alm.,2048,4,Villa,144,2006,
+Havnsø Møllevej 11 4591 Føllenslev,11,795000.0,12-06-2004,Alm.,6516,4,Villa,122,1961,
+Toftegårdsvej 13 4591 Føllenslev,13,95000.0,08-06-2004,Alm.,539,5,Villa,176,2005,
+Granbakken 10 4591 Føllenslev,10,135000.0,07-06-2004,Alm.,1377,4,Sommerhus,98,2007,
+Brøndbjergvej 1 4591 Føllenslev,1,490000.0,25-05-2004,Alm.,1849,5,Villa,265,2005,
+Middelvej 5 4591 Føllenslev,5,1495000.0,17-05-2004,Alm.,18012,4,Sommerhus,83,1986,
+Eskebjergvej 3 4591 Føllenslev,3,955000.0,12-05-2004,Alm.,2455,7,Villa,389,1910,
+Strandgårdsvej 26 4591 Føllenslev,26,133000.0,07-05-2004,Alm.,2015,4,Sommerhus,66,2005,
+Granbakken 8 4591 Føllenslev,8,940000.0,06-05-2004,Alm.,18431,3,Sommerhus,51,2003,
+Havnsøgårdsvej 30 4591 Føllenslev,30,275000.0,29-04-2004,Alm.,1797,5,Villa,153,2005,
+Pilebakken 4 4591 Føllenslev,4,790000.0,27-04-2004,Alm.,14629,4,Sommerhus,54,1980,
+Højenevej 1 4591 Føllenslev,1,350000.0,25-04-2004,Alm.,6481,3,Sommerhus,54,1972,
+Havnsøgårdsvej 24 4591 Føllenslev,24,275000.0,20-04-2004,Alm.,2052,4,Villa,134,2005,
+Strandgårdsvej 36 4591 Føllenslev,36,65000.0,14-04-2004,Alm.,915,3,Sommerhus,71,2006,
+Toftegårdsvej 2A 4591 Føllenslev,0,875000.0,13-04-2004,Alm.,9510,4,Rækkehus,92,1978,
+Svalevej 9 4591 Føllenslev,9,875000.0,05-04-2004,Alm.,3820,4,Villa,229,1975,
+Sirgræsvej 6 4591 Føllenslev,6,617590.0,05-04-2004,Alm.,0,4,Sommerhus,91,1965,
+Klintevej 1B 4591 Føllenslev,0,1175000.0,25-03-2004,Alm.,9038,4,Villa,130,1987,
+Havnevej 27 4591 Føllenslev,27,515329.0,18-03-2004,Andet,3761,6,Villa,137,1935,
+Hofvej 16 4591 Føllenslev,16,208000.0,08-03-2004,Fam.,2701,3,Sommerhus,77,1938,
+Mellemvænget 4 4591 Føllenslev,4,350000.0,08-03-2004,Alm.,11290,2,Sommerhus,31,2003,
+Møllehøj 4 4591 Føllenslev,4,1425000.0,04-03-2004,Alm.,9313,5,Villa,153,2002,
+Tjørnestien 4 4591 Føllenslev,4,1250000.0,29-02-2004,Alm.,16666,3,Sommerhus,75,2000,
+Favrbovej 16 4591 Føllenslev,16,650000.0,20-02-2004,Fam.,2901,4,Villa,224,2009,
+Svalevej 4 4591 Føllenslev,4,938919.0,06-02-2004,Alm.,6612,4,Villa,142,1970,
+Strandparken 33 4591 Føllenslev,33,210000.0,06-02-2004,Alm.,1640,4,Villa,128,2004,
+Havnsøvej 30 4591 Føllenslev,30,383300.0,13-01-2004,Fam.,1035,9,Villa,370,1939,
+Havnsøgårdsvej 14 4591 Føllenslev,14,295000.0,12-01-2004,Alm.,1277,8,Villa,231,2004,
+Havnsø Møllevej 1A 4591 Føllenslev,0,600000.0,09-01-2004,Alm.,1617,6,Villa,371,1822,
+Bøgevej 16 4591 Føllenslev,16,1065000.0,07-01-2004,Alm.,9681,4,Villa,110,1975,
+Skovvej 10 4591 Føllenslev,10,1600000.0,31-12-2003,Andet,13793,4,Villa,116,1989,
+Solvej 7 4591 Føllenslev,7,965000.0,23-12-2003,Alm.,7845,4,Villa,123,1976,
+Bybjærgstræde 2 4591 Føllenslev,2,500000.0,19-12-2003,Alm.,4761,3,Villa,105,1933,
+Havnsøvej 21 4591 Føllenslev,21,2150000.0,01-12-2003,Alm.,7678,7,Stuehus,280,1981,
+Strandparken 4 4591 Føllenslev,4,1195000.0,07-11-2003,Alm.,10482,4,Villa,114,1986,
+Strandgårdsvej 23 4591 Føllenslev,23,210000.0,20-10-2003,Alm.,3684,3,Sommerhus,57,2004,
+Tjørnemarken 21 4591 Føllenslev,21,725000.0,16-10-2003,Alm.,10820,4,Sommerhus,67,1986,
+Højstedvej 13 4591 Føllenslev,13,2803840.0,14-10-2003,Fam.,0,6,Stuehus,211,1934,
+Havnsøvej 36 4591 Føllenslev,36,695000.0,12-10-2003,Alm.,7637,4,Villa,91,1953,
+Nekselø 6B 4591 Føllenslev,0,67065.0,10-10-2003,Fam.,0,5,Sommerhus,67,2004,
+Havnsøvej 11 4591 Føllenslev,11,426000.0,08-10-2003,Auktion,3408,2,Villa,125,1900,
+Engsvinget 11 4591 Føllenslev,11,736000.0,02-10-2003,Alm.,11500,4,Sommerhus,64,1976,
+Kaptajnsvej 18 4591 Føllenslev,18,450000.0,30-08-2003,Alm.,10000,2,Sommerhus,45,1974,
+Ravnholtvej 1 4591 Føllenslev,1,3425000.0,28-08-2003,Alm.,28781,4,Villa,119,1979,
+Strandvej 26 4591 Føllenslev,26,390000.0,20-08-2003,Alm.,7800,3,Sommerhus,50,1958,
+Strandparken 45 4591 Føllenslev,45,1025000.0,13-08-2003,Alm.,6065,5,Villa,169,1979,
+Favrbovej 22 4591 Føllenslev,22,995000.0,13-08-2003,Alm.,7896,6,Villa,126,1949,
+Strandparken 62 4591 Føllenslev,62,1495000.0,12-08-2003,Alm.,7364,4,Villa,203,1980,
+Arne Petersensvej 11 4591 Føllenslev,11,380000.0,07-08-2003,Fam.,5428,5,Sommerhus,70,2002,
+Strandparken 19 4591 Føllenslev,19,150000.0,30-07-2003,Alm.,1063,4,Villa,141,2004,
+Lærkevej 12 4591 Føllenslev,12,795000.0,29-07-2003,Alm.,7571,4,Villa,105,1968,
+Byvej 18 4591 Føllenslev,18,410000.0,15-07-2003,Alm.,5189,3,Villa,79,1880,
+Havnsø Møllevej 17A 4591 Føllenslev,0,731000.0,09-07-2003,Fam.,6831,4,Villa,107,1960,
+Engsvinget 12 4591 Føllenslev,12,664979.0,30-06-2003,Alm.,8209,2,Sommerhus,81,1978,
+Hofvej 12 4591 Føllenslev,12,550000.0,25-06-2003,Alm.,6250,3,Sommerhus,88,1968,
+Lodsvej 16 4591 Føllenslev,16,612000.0,21-06-2003,Fam.,7846,3,Sommerhus,78,1972,
+Toldvej 2 4591 Føllenslev,2,340342.0,11-06-2003,Alm.,0,4,Villa,142,1900,
+Toldervej 3 4591 Føllenslev,3,770000.0,22-05-2003,Alm.,0,4,Sommerhus,73,1970,
+Strandvej 6A 4591 Føllenslev,0,1145000.0,21-05-2003,Alm.,10132,3,Villa,113,1984,
+Tjørnemarken 13 4591 Føllenslev,13,590000.0,30-04-2003,Alm.,11800,2,Sommerhus,50,1979,
+Arne Petersensvej 17 4591 Føllenslev,17,490000.0,26-04-2003,Alm.,6282,3,Sommerhus,78,1966,
+Byvej 10 4591 Føllenslev,10,395000.0,25-04-2003,Alm.,6929,2,Villa,57,1927,
+Havnefogedvej 8 4591 Føllenslev,8,751000.0,10-04-2003,Alm.,12948,2,Sommerhus,58,1971,
+Kaptajnsvej 23 4591 Føllenslev,23,822919.0,09-03-2003,Alm.,11429,4,Sommerhus,72,1971,
+Maskinmestervej 2 4591 Føllenslev,2,110000.0,07-02-2003,Alm.,1549,4,Sommerhus,71,2004,
+Lærkevej 9 4591 Føllenslev,9,1150000.0,05-02-2003,Alm.,7187,7,Villa,160,1978,
+Højstedvej 20 4591 Føllenslev,20,1700000.0,31-01-2003,Alm.,11184,5,Stuehus,152,1926,
+Nekselø 12 4591 Føllenslev,12,900000.0,15-01-2003,Alm.,6040,5,Stuehus,149,1966,
+Granbakken 1 4591 Føllenslev,1,970000.0,06-01-2003,Alm.,12435,3,Sommerhus,78,2001,
+Møllestræde 2 4591 Føllenslev,2,378067.0,16-12-2002,Alm.,2010,6,Villa,188,1962,
+Egemarkevej 13 4591 Føllenslev,13,795000.0,19-11-2002,Alm.,8548,3,Villa,93,1907,
+Strandgårdsvej 30 4591 Føllenslev,30,706000.0,30-10-2002,Alm.,12385,4,Sommerhus,57,1996,
+Strandfogedvej 8 4591 Føllenslev,8,1118890.0,24-10-2002,Alm.,0,5,Sommerhus,82,1973,
+Strandengen 15 4591 Føllenslev,15,785000.0,23-10-2002,Alm.,0,4,Sommerhus,102,1981,
+Pilebakken 8 4591 Føllenslev,8,140000.0,21-10-2002,Fam.,2592,3,Sommerhus,54,1986,
+Tjørnemarken 25 4591 Føllenslev,25,75000.0,14-10-2002,Alm.,815,3,Sommerhus,92,2003,
+Møllehøj 9 4591 Føllenslev,9,200000.0,24-09-2002,Alm.,1481,3,Villa,135,2003,
+Hofvej 13 4591 Føllenslev,13,585000.0,17-09-2002,Alm.,0,4,Sommerhus,144,1950,
+Strandgårdsbakken 8 4591 Føllenslev,8,125000.0,09-09-2002,Alm.,1736,3,Sommerhus,72,2004,
+Tjørnemarken 33 4591 Føllenslev,33,101500.0,03-09-2002,Alm.,1127,4,Sommerhus,90,2007,
+Mosevej 5 4591 Føllenslev,5,390000.0,28-08-2002,Alm.,8666,3,Sommerhus,45,1965,
+Lærkevej 3 4591 Føllenslev,3,739357.0,19-08-2002,Alm.,6660,4,Villa,111,1970,
+Matrosvej 10 4591 Føllenslev,10,260000.0,18-08-2002,Alm.,10000,2,Sommerhus,26,1970,
+Havnevej 16 4591 Føllenslev,16,1075000.0,09-08-2002,Alm.,12797,3,Villa,84,1936,
+Strandgårdsvej 38 4591 Føllenslev,38,50000.0,01-08-2002,Alm.,735,3,Sommerhus,68,2006,
+Byvej 20 4591 Føllenslev,20,148800.0,31-07-2002,Fam.,1135,2,Villa,131,2006,
+Strandvej 10A 4591 Føllenslev,0,255000.0,26-07-2002,Alm.,4636,3,Sommerhus,55,1947,
+Bøgevej 26B 4591 Føllenslev,0,165000.0,22-07-2002,Alm.,1375,3,Villa,120,2004,
+Havnevej 49 4591 Føllenslev,49,775000.0,20-07-2002,Alm.,6919,3,Villa,112,1910,
+Hofvej 19 4591 Føllenslev,19,550000.0,09-07-2002,Alm.,4661,5,Sommerhus,118,1962,
+Strandengen 10 4591 Føllenslev,10,495000.0,21-06-2002,Alm.,10312,3,Sommerhus,48,1977,
+Strandengen 35 4591 Føllenslev,35,90000.0,15-06-2002,Alm.,1216,3,Sommerhus,74,2007,
+Solbakken 22 4591 Føllenslev,22,90000.0,28-05-2002,Alm.,486,7,Villa,185,2007,
+Strandgårdsvej 12 4591 Føllenslev,12,455000.0,27-05-2002,Alm.,0,3,Sommerhus,89,1979,
+Solbakken 3 4591 Føllenslev,3,688240.0,18-05-2002,Alm.,7169,4,Villa,96,1966,
+Bøgevej 19 4591 Føllenslev,19,1308000.0,30-04-2002,Alm.,6318,7,Villa,207,1971,
+Lodsvej 15 4591 Føllenslev,15,465000.0,25-04-2002,Alm.,6940,4,Sommerhus,67,1973,
+Havnsøvej 23 4591 Føllenslev,23,847630.0,13-04-2002,Fam.,0,6,Stuehus,300,1950,
+Solvej 3 4591 Føllenslev,3,933980.0,12-04-2002,Alm.,7412,3,Villa,126,1969,
+Styrmandsvej 6 4591 Føllenslev,6,125000.0,03-04-2002,Alm.,1453,4,Sommerhus,86,2005,
+Kvartermestervej 13 4591 Føllenslev,13,335000.0,29-03-2002,Alm.,7790,3,Sommerhus,43,1973,
+Mosevej 6 4591 Føllenslev,6,297500.0,21-03-2002,Alm.,0,3,Sommerhus,92,1970,
+Havnsøvej 24 4591 Føllenslev,24,1683000.0,12-03-2002,Alm.,13464,6,Stuehus,125,1939,
+Eskebjergvej 6 4591 Føllenslev,6,625000.0,26-02-2002,Alm.,4960,4,Villa,126,1912,
+Græsmarkvej 11 4591 Føllenslev,11,1680000.0,07-02-2002,Fam.,9940,5,Stuehus,169,1915,
+Favrbovej 3 4591 Føllenslev,3,3850000.0,30-01-2002,Fam.,16244,11,Stuehus,237,1893,
+Solbakken 8 4591 Føllenslev,8,630000.0,05-01-2002,Alm.,7500,3,Villa,84,1964,
+Strandparken 66 4591 Føllenslev,66,85000.0,04-01-2002,Alm.,758,4,Villa,112,2003,
+Eskebjergvej 7 4591 Føllenslev,7,570000.0,28-11-2001,Alm.,4596,4,Villa,124,1903,
+Birkebakken 9 4591 Føllenslev,9,435000.0,28-11-2001,Alm.,6214,3,Sommerhus,70,1983,
+Havnevej 12 4591 Føllenslev,12,970000.0,02-11-2001,Alm.,6339,3,Villa,153,1927,
+Lodsvej 39 4591 Føllenslev,39,795000.0,07-10-2001,Alm.,0,3,Sommerhus,66,1972,
+Strandparken 32 4591 Føllenslev,32,1395000.0,19-09-2001,Alm.,0,6,Villa,197,2001,
+Glentevej 1 4591 Føllenslev,1,125000.0,13-09-2001,Alm.,968,4,Villa,129,2005,
+Lodsvej 35 4591 Føllenslev,35,580000.0,02-09-2001,Alm.,7160,4,Sommerhus,81,2011,
+Birkebakken 14 4591 Føllenslev,14,680000.0,30-08-2001,Alm.,11724,4,Sommerhus,58,1987,
+Egemarken 5 4591 Føllenslev,5,98000.0,13-08-2001,Alm.,1441,3,Sommerhus,68,2002,
+Hofvej 6 4591 Føllenslev,6,85500.0,05-08-2001,Andet,1187,3,Sommerhus,72,2015,
+Strandgårdsvej 32 4591 Føllenslev,32,45000.0,05-08-2001,Alm.,703,4,Sommerhus,64,2007,
+Mellemvænget 16B 4591 Føllenslev,0,300000.0,01-08-2001,Alm.,2608,4,Sommerhus,115,2008,
+Tjørnestien 10 4591 Føllenslev,10,554366.0,04-07-2001,Alm.,7294,4,Sommerhus,76,1981,
+Strandparken 1 4591 Føllenslev,1,850000.0,26-06-2001,Alm.,6390,5,Villa,133,1979,
+Bøgevej 29 4591 Føllenslev,29,684302.0,22-05-2001,Andet,3932,5,Villa,174,1975,
+Egemarken 1 4591 Føllenslev,1,150000.0,15-05-2001,Alm.,4054,2,Sommerhus,37,2004,
+Strandvej 46 4591 Føllenslev,46,410000.0,11-05-2001,Fam.,4659,3,Villa,88,1956,
+Strandgårdsvej 35 4591 Føllenslev,35,380000.0,02-05-2001,Alm.,0,5,Sommerhus,84,1979,
+Styrmandsvej 8 4591 Føllenslev,8,598757.0,30-04-2001,Alm.,9979,3,Sommerhus,60,1973,
+Havnevej 22 4591 Føllenslev,22,1480429.0,27-04-2001,Alm.,0,15,Villa,241,1919,
+Byvej 15 4591 Føllenslev,15,320000.0,20-03-2001,Alm.,3636,5,Villa,88,1880,
+Mellemvænget 18 4591 Føllenslev,18,710000.0,20-03-2001,Alm.,5634,5,Villa,126,1960,
+Møllehøj 45 4591 Føllenslev,45,1186500.0,12-03-2001,Fam.,0,4,Villa,189,1984,
+Egemarkevej 7 4591 Føllenslev,7,410072.0,03-03-2001,Alm.,3981,3,Villa,103,1959,
+Lejervej 3 4591 Føllenslev,3,610000.0,09-02-2001,Alm.,5596,4,Sommerhus,109,1957,
+Tjørnestien 8 4591 Føllenslev,8,420000.0,04-02-2001,Alm.,6562,4,Sommerhus,64,1977,
+Smedevej 10 4591 Føllenslev,10,200000.0,01-02-2001,Alm.,1190,6,Villa,168,2007,
+Egemarken 13 4591 Føllenslev,13,475000.0,08-01-2001,Alm.,7786,3,Sommerhus,61,1983,
+Kvartermestervej 19 4591 Føllenslev,19,240000.0,30-11-2000,Andet,4897,4,Sommerhus,49,1968,
+Egevej 9 4591 Føllenslev,9,93000.0,24-11-2000,Fam.,911,3,Sommerhus,102,2002,
+Mosevej 3 4591 Føllenslev,3,90000.0,15-11-2000,Alm.,2000,3,Sommerhus,45,2008,
+Arne Petersensvej 9 4591 Føllenslev,9,243000.0,14-11-2000,Auktion,2825,3,Sommerhus,86,1973,
+Kvikgræsvej 7 4591 Føllenslev,7,285000.0,30-10-2000,Alm.,1900,4,Sommerhus,150,1964,
+Kirkemosevej 13 4591 Føllenslev,13,1161344.0,26-10-2000,Alm.,0,8,Stuehus,228,1900,
+Møllehøj 12 4591 Føllenslev,12,90000.0,19-10-2000,Alm.,642,4,Villa,140,2001,
+Arne Petersensvej 5 4591 Føllenslev,5,585000.0,14-10-2000,Alm.,7800,4,Sommerhus,75,1967,
+Strandengen 13 4591 Føllenslev,13,400000.0,19-09-2000,Alm.,0,4,Sommerhus,60,1980,
+Bøgevej 1 4591 Føllenslev,1,1020000.0,14-09-2000,Alm.,7968,4,Villa,128,1948,
+Strandparken 44 4591 Føllenslev,44,77500.0,29-08-2000,Alm.,578,4,Villa,134,2001,
+Skovvej 8 4591 Føllenslev,8,850000.0,19-08-2000,Alm.,5519,4,Villa,154,2009,
+Møllehøj 22 4591 Føllenslev,22,260000.0,09-08-2000,Alm.,1733,5,Villa,150,2002,
+Strandengen 24 4591 Føllenslev,24,80000.0,01-08-2000,Alm.,0,4,Sommerhus,75,2002,
+Strandparken 29 4591 Føllenslev,29,60000.0,28-07-2000,Alm.,714,3,Villa,84,2004,
+Mosevej 12 4591 Føllenslev,12,248000.0,25-07-2000,Alm.,3875,2,Sommerhus,64,2007,
+Engvej 3 4591 Føllenslev,3,170000.0,25-07-2000,Fam.,0,3,Sommerhus,57,1970,
+Klintevej 9 4591 Føllenslev,9,1800000.0,15-07-2000,Fam.,14516,6,Villa,124,1957,
+Strandvej 10 4591 Føllenslev,10,190000.0,28-06-2000,Fam.,2159,4,Sommerhus,88,1937,
+Havnsøvej 2 4591 Føllenslev,2,455000.0,22-06-2000,Auktion,2472,7,Villa,184,1780,
+Toldervej 6 4591 Føllenslev,6,253000.0,21-06-2000,Alm.,0,3,Sommerhus,55,1981,
+Egemarken 7 4591 Føllenslev,7,55000.0,20-06-2000,Alm.,763,4,Sommerhus,72,2006,
+Mellemvænget 14 4591 Føllenslev,14,352786.0,16-06-2000,Alm.,4250,3,Sommerhus,83,1983,
+Tulipanvej 10 4591 Føllenslev,10,300000.0,09-06-2000,Alm.,0,5,Sommerhus,76,1969,
+Egemarken 17 4591 Føllenslev,17,375000.0,22-05-2000,Alm.,5859,4,Sommerhus,64,1977,
+Matrosvej 18 4591 Føllenslev,18,400490.0,04-05-2000,Alm.,0,4,Sommerhus,62,1975,
+Strandparken 18 4591 Føllenslev,18,142500.0,19-04-2000,Alm.,868,6,Villa,164,2007,
+Havnevej 30 4591 Føllenslev,30,566846.0,07-04-2000,Alm.,6912,4,Rækkehus,82,1906,
+Lærkevej 8 4591 Føllenslev,8,595156.0,21-03-2000,Alm.,6331,4,Villa,94,1968,
+Møllehøj 23 4591 Føllenslev,23,100000.0,08-03-2000,Alm.,709,5,Villa,141,2003,
+Skelbakken 1 4591 Føllenslev,1,325000.0,29-02-2000,Alm.,0,5,Sommerhus,90,1980,
+Lodsvej 19 4591 Føllenslev,19,475000.0,11-02-2000,Alm.,6884,4,Sommerhus,69,1971,
+Havnevej 38 4591 Føllenslev,38,425000.0,10-02-2000,Alm.,6071,3,Villa,70,1920,
+Strandengen 6 4591 Føllenslev,6,310000.0,07-02-2000,Fam.,3875,5,Sommerhus,80,1977,
+Skovvej 16 4591 Føllenslev,16,782030.0,06-01-2000,Alm.,4768,5,Villa,164,2008,
+Tjørnemarken 31 4591 Føllenslev,31,144000.0,01-01-2000,Fam.,2057,5,Sommerhus,70,1986,
+Strandparken 12 4591 Føllenslev,12,1352391.0,20-12-1999,Alm.,5984,5,Villa,226,1999,
+Havnsø Møllevej 7 4591 Føllenslev,7,958963.0,14-12-1999,Alm.,5479,8,Villa,175,1976,
+Havnevej 51 4591 Føllenslev,51,440753.0,03-12-1999,Alm.,5956,4,Villa,74,1900,
+Birkebakken 16 4591 Føllenslev,16,150000.0,02-12-1999,Fam.,2941,4,Sommerhus,51,1978,
+Egemarken 21 4591 Føllenslev,21,356000.0,17-11-1999,Alm.,6137,4,Sommerhus,58,1977,
+Mellemvænget 16 4591 Føllenslev,16,910000.0,05-11-1999,Alm.,7222,3,Stuehus,126,1877,
+Strandparken 14 4591 Føllenslev,14,70000.0,03-11-1999,Alm.,0,4,Villa,126,2000,
+Strandgårdsvej 11 4591 Føllenslev,11,671000.0,08-10-1999,Alm.,9319,4,Sommerhus,72,1979,
+Solvænget 4 4591 Føllenslev,4,455000.0,28-09-1999,Alm.,5617,6,Sommerhus,81,1965,
+Lodsvej 3 4591 Føllenslev,3,405357.0,24-09-1999,Alm.,4713,3,Sommerhus,86,1973,
+Strandgårdsvej 14 4591 Føllenslev,14,392064.0,16-08-1999,Alm.,6126,4,Sommerhus,64,1979,
+Strandvej 34 4591 Føllenslev,34,1000000.0,12-08-1999,Fam.,5917,7,Sommerhus,169,1877,
+Strandvej 34B 4591 Føllenslev,0,255000.0,31-07-1999,Fam.,3863,4,Sommerhus,66,1937,
+Svalevej 12 4591 Føllenslev,12,1211161.0,26-07-1999,Alm.,5686,5,Villa,213,1989,
+Havnsøvej 22 4591 Føllenslev,22,1115000.0,06-07-1999,Alm.,0,7,Stuehus,240,1939,
+Strandvej 8 4591 Føllenslev,8,445710.0,01-07-1999,Alm.,2606,7,Villa,171,1966,
+Fyrmestervej 2 4591 Føllenslev,2,381937.0,01-07-1999,Alm.,5025,4,Sommerhus,76,1975,
+Syrenvej 8 4591 Føllenslev,8,269934.0,28-06-1999,Alm.,0,4,Sommerhus,80,1970,
+Skelbakken 12 4591 Føllenslev,12,329000.0,28-06-1999,Alm.,5672,4,Sommerhus,58,1979,
+Skippervej 26 4591 Føllenslev,26,458925.0,08-06-1999,Alm.,5043,3,Sommerhus,91,1980,
+Matrosvej 16 4591 Føllenslev,16,322500.0,03-06-1999,Alm.,6450,3,Sommerhus,50,1973,
+Birkebakken 10 4591 Føllenslev,10,345000.0,31-05-1999,Alm.,6764,4,Sommerhus,51,1981,
+Tjørnemarken 3 4591 Føllenslev,3,50000.0,30-05-1999,Alm.,632,3,Sommerhus,79,2003,
+Møllehøj 41 4591 Føllenslev,41,93900.0,28-04-1999,Alm.,594,5,Villa,158,2001,
+Tjørnestien 9 4591 Føllenslev,9,353046.0,05-04-1999,Alm.,6537,3,Sommerhus,54,1977,
+Gunhøjvej 2 4591 Føllenslev,2,2355160.0,30-03-1999,Alm.,12730,6,Stuehus,185,1961,
+Bøgevej 13 4591 Føllenslev,13,550000.0,14-03-1999,Alm.,5092,4,Villa,108,1966,
+Toldervej 5 4591 Føllenslev,5,290000.0,04-03-1999,Alm.,6904,3,Sommerhus,42,1973,
+Havnsø Møllevej 1B 4591 Føllenslev,0,984937.0,26-02-1999,Alm.,6985,4,Villa,141,1960,
+Gunhøjvej 6 4591 Føllenslev,6,4075000.0,09-02-1999,Alm.,15553,7,Stuehus,262,1945,
+Strandvej 54 4591 Føllenslev,54,481000.0,03-02-1999,Fam.,6680,5,Sommerhus,72,1957,
+Strandvej 2 4591 Føllenslev,2,350000.0,13-11-1998,Alm.,1277,5,Stuehus,274,1900,
+Bøgevej 22 4591 Føllenslev,22,140000.0,12-11-1998,Alm.,823,4,Villa,170,2001,
+Sirgræsvej 1 4591 Føllenslev,1,30000.0,01-10-1998,Alm.,297,4,Sommerhus,101,2011,
+Solbakken 10 4591 Føllenslev,10,304000.0,29-09-1998,Alm.,2895,4,Villa,105,1973,
+Skortskær 1 4591 Føllenslev,1,492000.0,07-09-1998,Alm.,4823,5,Villa,102,1948,
+Solvænget 7 4591 Føllenslev,7,300000.0,28-08-1998,Alm.,5454,2,Sommerhus,55,1972,
+Engvej 4 4591 Føllenslev,4,200000.0,15-08-1998,Alm.,3333,3,Sommerhus,60,1962,
+Egeskovvej 8 4591 Føllenslev,8,195000.0,27-07-1998,Alm.,10263,1,Sommerhus,19,1965,
+Favrbovej 8 4591 Føllenslev,8,496352.0,20-07-1998,Alm.,4316,5,Villa,115,1959,
+Skippervej 9 4591 Føllenslev,9,280000.0,08-07-1998,Alm.,0,4,Sommerhus,89,1970,
+Middelvej 13 4591 Føllenslev,13,373000.0,06-07-1998,Alm.,0,4,Sommerhus,65,1971,
+Skovvej 3 4591 Føllenslev,3,450000.0,16-06-1998,Alm.,5172,4,Sommerhus,87,1952,
+Bøgevej 12 4591 Føllenslev,12,125000.0,15-06-1998,Alm.,766,4,Villa,163,2000,
+Havnevej 17 4591 Føllenslev,17,650000.0,09-06-1998,Alm.,6701,3,Villa,97,1915,
+Lærkevej 13 4591 Føllenslev,13,662985.0,07-06-1998,Alm.,4947,4,Villa,134,1975,
+Møllehøj 1 4591 Føllenslev,1,1277675.0,29-05-1998,Alm.,6869,7,Villa,186,1980,
+Græsmarkvej 9 4591 Føllenslev,9,700000.0,25-05-1998,Alm.,5000,5,Stuehus,140,1969,
+Favrbovej 18 4591 Føllenslev,18,300000.0,18-05-1998,Alm.,3529,3,Villa,85,1968,
+Havnsøvej 27A 4591 Føllenslev,0,45000.0,08-05-1998,Alm.,213,8,Stuehus,211,1890,
+Egemarken 37 4591 Føllenslev,37,352000.0,29-04-1998,Alm.,0,4,Sommerhus,84,1979,
+Skippervej 28 4591 Føllenslev,28,326000.0,27-04-1998,Alm.,6520,3,Sommerhus,50,1971,
+Strandparken 6 4591 Føllenslev,6,754580.0,21-04-1998,Alm.,5804,4,Villa,130,1977,
+Grundvej 8 4591 Føllenslev,8,1297000.0,20-04-1998,Alm.,8261,4,Villa,157,1965,
+Byvej 23 4591 Føllenslev,23,215000.0,16-04-1998,Alm.,3412,4,Villa,63,1880,
+Strandparken 36 4591 Føllenslev,36,80000.0,06-04-1998,Alm.,707,4,Villa,113,1998,
+Paradisvej 6 4591 Føllenslev,6,275000.0,26-03-1998,Fam.,4044,3,Villa,68,1954,
+Arne Petersensvej 12 4591 Føllenslev,12,225000.0,19-03-1998,Alm.,5357,3,Sommerhus,42,1967,
+Favrbovej 6 4591 Føllenslev,6,800000.0,16-03-1998,Alm.,6153,4,Villa,130,1910,
+Møllehøj 21 4591 Føllenslev,21,613000.0,04-03-1998,Fam.,4474,5,Villa,137,1981,
+Bybjærgstræde 6 4591 Føllenslev,6,421800.0,27-02-1998,Alm.,3979,3,Villa,106,1949,
+Højenevej 10 4591 Føllenslev,10,101343.0,20-02-1998,Fam.,2533,3,Sommerhus,40,1971,
+Strandparken 28 4591 Føllenslev,28,55000.0,05-02-1998,Alm.,407,4,Villa,135,1998,
+Kalundborgvej 45 4591 Føllenslev,45,425000.0,03-02-1998,Alm.,2374,4,Stuehus,179,1864,
+Fyrmestervej 9 4591 Føllenslev,9,342000.0,13-01-1998,Alm.,5796,3,Sommerhus,59,1972,
+Mosevej 10 4591 Føllenslev,10,290000.0,11-10-1997,Alm.,3866,3,Sommerhus,75,1967,
+Hellestræde 3 4591 Føllenslev,3,613360.0,07-10-1997,Alm.,3882,3,Villa,158,1880,
+Strandparken 47 4591 Føllenslev,47,685000.0,25-09-1997,Alm.,6462,4,Villa,106,1985,
+Rørgræsvej 2 4591 Føllenslev,2,18000.0,25-09-1997,Alm.,187,4,Sommerhus,96,2000,
+Rorgængervej 1 4591 Føllenslev,1,495000.0,22-09-1997,Alm.,7388,4,Sommerhus,67,1976,
+Havnevej 29 4591 Føllenslev,29,675000.0,16-09-1997,Alm.,4720,4,Villa,143,1943,
+Rørgræsvej 1 4591 Føllenslev,1,18000.0,08-09-1997,Alm.,155,4,Sommerhus,116,1998,
+Arne Petersensvej 15 4591 Føllenslev,15,225000.0,04-09-1997,Alm.,0,5,Sommerhus,87,1975,
+Birkebakken 11 4591 Føllenslev,11,20000.0,20-08-1997,Alm.,281,3,Sommerhus,71,2000,
+Smedevej 3 4591 Føllenslev,3,240000.0,25-07-1997,Alm.,2123,3,Villa,113,1930,
+Strandgårdsvej 44 4591 Føllenslev,44,314000.0,11-07-1997,Alm.,0,3,Sommerhus,65,1979,
+Maskinmestervej 17 4591 Føllenslev,17,130000.0,21-06-1997,Alm.,0,3,Sommerhus,75,1973,
+Egemarken 9 4591 Føllenslev,9,120000.0,07-06-1997,Alm.,0,3,Sommerhus,47,1965,
+Strandparken 27 4591 Føllenslev,27,50000.0,14-05-1997,Alm.,442,4,Villa,113,2002,
+Eskebjergvej 13 4591 Føllenslev,13,3655000.0,23-04-1997,Fam.,22018,4,Stuehus,166,1890,
+Strandparken 22 4591 Føllenslev,22,585000.0,25-03-1997,Alm.,5270,3,Villa,111,1974,
+Havnefogedvej 3 4591 Føllenslev,3,325000.0,21-03-1997,Alm.,4779,2,Sommerhus,68,1971,
+Havnsøvej 27B 4591 Føllenslev,0,329873.0,17-03-1997,Alm.,1802,7,Stuehus,183,1870,
+Havnevej 18 4591 Føllenslev,18,460820.0,17-03-1997,Alm.,4473,4,Villa,103,1960,
+Havnevej 48 4591 Føllenslev,48,186806.0,03-03-1997,Andet,1105,7,Villa,169,1947,
+Egemarken 4 4591 Føllenslev,4,240000.0,25-01-1997,Alm.,0,4,Sommerhus,89,1976,
+Eskebjergvej 10 4591 Føllenslev,10,382000.0,18-01-1997,Alm.,3820,4,Villa,100,1936,
+Lærkevej 6 4591 Føllenslev,6,450000.0,07-01-1997,Alm.,4787,4,Villa,94,1968,
+Toftegårdsvej 2C 4591 Føllenslev,0,400000.0,11-12-1996,Fam.,4395,3,Rækkehus,91,1978,
+Strandparken 56 4591 Føllenslev,56,75000.0,28-11-1996,Alm.,510,5,Villa,147,1998,
+Solvænget 1 4591 Føllenslev,1,418150.0,23-11-1996,Alm.,5973,3,Sommerhus,70,1986,
+Højstedvej 22 4591 Føllenslev,22,232896.0,20-11-1996,Andet,2239,4,Villa,104,1900,
+Havnevej 23 4591 Føllenslev,23,325000.0,08-11-1996,Fam.,1504,7,Villa,216,1964,
+Møllehøj 8 4591 Føllenslev,8,835989.0,22-10-1996,Alm.,5097,5,Villa,164,1980,
+Møllehøj 20 4591 Føllenslev,20,620000.0,22-10-1996,Alm.,6078,4,Villa,102,1989,
+Møllehøj 29 4591 Føllenslev,29,75000.0,22-10-1996,Alm.,551,3,Villa,136,1998,
+Lodsvej 25 4591 Føllenslev,25,65000.0,14-10-1996,Alm.,3250,2,Sommerhus,20,1999,
+Egemarken 24 4591 Føllenslev,24,260000.0,29-09-1996,Alm.,4333,4,Sommerhus,60,1977,
+Nykøbingvej 60 4591 Føllenslev,60,720450.0,25-09-1996,Alm.,4618,3,Villa,156,1900,
+Kvartermestervej 4 4591 Føllenslev,4,285000.0,12-09-1996,Alm.,3433,3,Sommerhus,83,1976,
+Egemarken 12 4591 Føllenslev,12,45000.0,02-09-1996,Alm.,0,3,Sommerhus,100,1997,
+Lærkevej 4 4591 Føllenslev,4,430000.0,28-08-1996,Alm.,2905,5,Villa,148,1967,
+Engvej 7 4591 Føllenslev,7,178000.0,18-08-1996,Alm.,2119,4,Sommerhus,84,2011,
+Lejervej 5 4591 Føllenslev,5,230000.0,03-08-1996,Alm.,7666,2,Sommerhus,30,1959,
+Agerskovvej 2 4591 Føllenslev,2,775600.0,30-07-1996,Alm.,0,7,Villa,267,1981,
+Solvænget 3 4591 Føllenslev,3,210000.0,29-07-1996,Fam.,4038,3,Sommerhus,52,1974,
+Antikvej 5 4591 Føllenslev,5,591000.0,10-07-1996,Alm.,3062,8,Villa,193,1930,
+Frøgræsvej 3 4591 Føllenslev,3,86000.0,03-07-1996,Alm.,0,3,Sommerhus,72,1965,
+Kvartermestervej 14 4591 Føllenslev,14,210000.0,20-06-1996,Alm.,0,2,Sommerhus,84,1975,
+Havnsø Møllevej 25 4591 Føllenslev,25,604600.0,19-06-1996,Alm.,4996,6,Sommerhus,121,1960,
+Strandparken 8 4591 Føllenslev,8,666000.0,18-06-1996,Alm.,5162,3,Villa,129,1988,
+Skelbakken 3 4591 Føllenslev,3,61000.0,10-06-1996,Alm.,813,3,Sommerhus,75,1999,
+Egeskovvej 9 4591 Føllenslev,9,253000.0,06-06-1996,Alm.,3243,3,Sommerhus,78,1961,
+Kristianvej 2 4591 Føllenslev,2,690000.0,07-05-1996,Alm.,0,5,Sommerhus,128,1962,
+Solvænget 9 4591 Føllenslev,9,50000.0,26-04-1996,Fam.,602,3,Sommerhus,83,2005,
+Møllehøj 35 4591 Føllenslev,35,50000.0,22-04-1996,Alm.,420,4,Villa,119,1996,
+Strandparken 51 4591 Føllenslev,51,728000.0,17-04-1996,Alm.,4257,3,Villa,171,1978,
+Lodsvej 4 4591 Føllenslev,4,310000.0,18-03-1996,Alm.,4189,3,Sommerhus,74,1974,
+Galtebjergvej 6 4591 Føllenslev,6,400000.0,15-02-1996,Alm.,3030,5,Villa,132,1883,
+Strandvej 6B 4591 Føllenslev,0,175000.0,31-01-1996,Alm.,1923,4,Sommerhus,91,1996,
+Matrosvej 3 4591 Føllenslev,3,106413.0,23-01-1996,Andet,3547,2,Sommerhus,30,1969,
+Havnsøvej 19 4591 Føllenslev,19,275000.0,22-01-1996,Alm.,3021,3,Villa,91,1961,
+Møllestræde 3 4591 Føllenslev,3,730000.0,28-11-1995,Alm.,3862,18,Villa,189,1899,
+Nekselø 19 4591 Føllenslev,19,722500.0,28-11-1995,Fam.,4816,8,Stuehus,150,1949,
+Nekselø 19A 4591 Føllenslev,0,340000.0,28-11-1995,Fam.,2073,7,Villa,164,1977,
+Strandengen 16 4591 Føllenslev,16,50000.0,05-11-1995,Fam.,714,3,Sommerhus,70,1995,
+Græsmarkvej 2 4591 Føllenslev,2,555000.0,30-10-1995,Alm.,3083,8,Stuehus,180,1910,
+Gunhøjvej 11 4591 Føllenslev,11,651840.0,27-10-1995,Alm.,3621,6,Villa,180,1910,
+Strandgårdsvej 37 4591 Føllenslev,37,112500.0,09-10-1995,Alm.,0,2,Sommerhus,30,1977,
+Strandengen 30 4591 Føllenslev,30,80000.0,14-09-1995,Alm.,1159,3,Sommerhus,69,2006,
+Klintevej 10 4591 Føllenslev,10,55000.0,10-09-1995,Alm.,307,5,Villa,179,2005,
+Paradisvej 4 4591 Føllenslev,4,150000.0,04-09-1995,Alm.,0,2,Villa,72,1954,
+Strandgårdsvej 42 4591 Føllenslev,42,280000.0,26-08-1995,Alm.,0,3,Sommerhus,70,1978,
+Pilebakken 12 4591 Føllenslev,12,152000.0,23-08-1995,Alm.,1831,4,Sommerhus,83,2005,
+Smedevej 1 4591 Føllenslev,1,500000.0,19-08-1995,Alm.,0,4,Villa,195,1918,
+Egeskovvej 5 4591 Føllenslev,5,95000.0,07-08-1995,Alm.,1759,2,Sommerhus,54,1998,
+Møllehøj 6 4591 Føllenslev,6,562200.0,28-07-1995,Alm.,3959,5,Villa,142,1980,
+Byvej 5 4591 Føllenslev,5,343250.0,21-07-1995,Alm.,2383,6,Villa,144,1925,
+Havnefogedvej 4 4591 Føllenslev,4,260000.0,21-06-1995,Alm.,4642,3,Sommerhus,56,1971,
+Favrbovej 5 4591 Føllenslev,5,320000.0,21-06-1995,Alm.,2461,3,Villa,130,1957,
+Gl Stationsvej 5 4591 Føllenslev,5,394000.0,01-06-1995,Fam.,2558,5,Villa,154,1952,
+Egeskovvej 3 4591 Føllenslev,3,125000.0,31-05-1995,Alm.,3787,2,Sommerhus,33,1960,
+Kalundborgvej 39 4591 Føllenslev,39,1150000.0,02-05-1995,Alm.,0,7,Stuehus,174,1973,
+Lodsvej 8 4591 Føllenslev,8,275000.0,27-04-1995,Alm.,2835,4,Sommerhus,97,2009,
+Klintevej 2A 4591 Føllenslev,0,350000.0,21-02-1995,Alm.,3431,3,Villa,102,1987,
+Egevej 2A 4591 Føllenslev,0,630000.0,20-02-1995,Fam.,4228,4,Sommerhus,149,1975,
+Bøgevej 14 4591 Føllenslev,14,520000.0,18-02-1995,Alm.,0,5,Villa,160,1973,
+Smedevej 4A 4591 Føllenslev,0,515000.0,02-12-1994,Alm.,3140,3,Villa,164,1924,
+Højstedvej 14 4591 Føllenslev,14,509631.0,17-11-1994,Alm.,3803,4,Villa,134,1993,
+Højstedvej 16 4591 Føllenslev,16,407080.0,08-11-1994,Alm.,3180,3,Villa,128,1952,
+Nekselø 1 4591 Føllenslev,1,85000.0,06-10-1994,Alm.,2023,3,Sommerhus,42,1927,
+Lejervej 1 4591 Føllenslev,1,275000.0,07-09-1994,Alm.,5978,3,Sommerhus,46,1965,
+Skippervej 19 4591 Føllenslev,19,350490.0,27-08-1994,Alm.,6258,3,Sommerhus,56,1971,
+Byvej 7 4591 Føllenslev,7,200000.0,25-08-1994,Alm.,1754,3,Villa,114,1923,
+Gunhøjvej 7B 4591 Føllenslev,0,225000.0,22-08-1994,Auktion,0,4,Villa,108,1900,
+Strandengen 23 4591 Føllenslev,23,290000.0,23-07-1994,Alm.,4915,3,Sommerhus,59,1984,
+Havnsø Møllevej 5 4591 Føllenslev,5,410000.0,14-07-1994,Alm.,5000,3,Villa,82,1975,
+Fyrmestervej 11 4591 Føllenslev,11,260000.0,07-07-1994,Alm.,3939,4,Sommerhus,66,1970,
+Strandvej 24 4591 Føllenslev,24,90000.0,01-06-1994,Fam.,0,4,Sommerhus,79,1957,
+Fyrmestervej 8 4591 Føllenslev,8,295600.0,29-04-1994,Alm.,0,3,Sommerhus,84,1980,
+Græsmarkvej 20 4591 Føllenslev,20,605000.0,06-01-1994,Alm.,4143,4,Stuehus,146,1914,
+Bøgevej 23 4591 Føllenslev,23,274704.0,29-12-1993,Fam.,2034,5,Villa,135,1972,
+Kaptajnsvej 27 4591 Føllenslev,27,102000.0,27-12-1993,Fam.,1672,4,Sommerhus,61,1971,
+Sivgræsvej 7 4591 Føllenslev,7,90000.0,06-12-1993,Fam.,0,4,Sommerhus,92,1970,
+Møllehøj 19 4591 Føllenslev,19,700000.0,03-12-1993,Alm.,4666,5,Villa,150,1980,
+Græsmarkvej 26 4591 Føllenslev,26,560184.0,10-11-1993,Alm.,1931,8,Stuehus,290,1930,
+Engsvinget 7 4591 Føllenslev,7,75000.0,26-10-1993,Alm.,0,4,Sommerhus,80,1981,
+Mellemvænget 10 4591 Føllenslev,10,302000.0,20-10-1993,Alm.,5033,4,Sommerhus,60,1980,
+Engvej 9 4591 Føllenslev,9,130000.0,21-09-1993,Alm.,2826,2,Sommerhus,46,2006,
+Egemarken 28 4591 Føllenslev,28,55000.0,21-09-1993,Alm.,0,4,Sommerhus,66,1975,
+Engvej 6 4591 Føllenslev,6,196640.0,02-09-1993,Alm.,0,4,Sommerhus,95,2003,
+Bøgevej 30 4591 Føllenslev,30,160000.0,21-08-1993,Alm.,0,4,Villa,80,1997,
+Strandvej 42 4591 Føllenslev,42,300000.0,30-07-1993,Fam.,2830,4,Sommerhus,106,2016,
+Fiskervej 7 4591 Føllenslev,7,72500.0,28-07-1993,Alm.,1006,3,Sommerhus,72,1997,
+Tjørnemarken 19 4591 Føllenslev,19,225000.0,19-07-1993,Alm.,2848,5,Sommerhus,79,1980,
+Sirgræsvej 3 4591 Føllenslev,3,45000.0,09-07-1993,Alm.,775,3,Sommerhus,58,2008,
+Strandengen 5 4591 Føllenslev,5,245000.0,23-03-1993,Alm.,0,5,Sommerhus,74,1983,
+Favrbovej 12 4591 Føllenslev,12,800000.0,22-02-1993,Alm.,5797,3,Villa,138,1905,
+Strandfogedvej 2 4591 Føllenslev,2,177425.0,18-12-1992,Fam.,3059,3,Sommerhus,58,1971,
+Strandengen 20 4591 Føllenslev,20,205220.0,04-12-1992,Alm.,3800,1,Sommerhus,54,1982,
+Strandvej 12A 4591 Føllenslev,0,50000.0,03-12-1992,Alm.,925,3,Sommerhus,54,2002,
+Toftegårdsvej 3 4591 Føllenslev,3,220000.0,11-11-1992,Alm.,2528,3,Villa,87,1968,
+Klintevej 1A 4591 Føllenslev,0,372000.0,30-10-1992,Alm.,2735,4,Villa,136,1976,
+Toftegårdsvej 2E 4591 Føllenslev,0,325000.0,23-10-1992,Alm.,3532,3,Rækkehus,92,1978,
+Strandgårdsbakken 17 4591 Føllenslev,17,91618.0,18-08-1992,Fam.,1607,3,Sommerhus,57,1987,
+Højsted Overdrev 15 4591 Føllenslev,15,500000.0,15-07-1992,Alm.,4901,2,Stuehus,102,1941,
+Engsvinget 1 4591 Føllenslev,1,154000.0,26-06-1992,Alm.,0,4,Sommerhus,115,1980,
+Arne Petersensvej 8 4591 Føllenslev,8,244000.0,14-06-1992,Alm.,3588,3,Sommerhus,68,1975,

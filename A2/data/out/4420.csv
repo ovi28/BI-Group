@@ -1,0 +1,855 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Bellisvej 2 4420 Regstrup,2,1000000.0,05-05-2017,Fam.,6329,6,Villa,158,1998,
+Regstrupparken 17 4420 Regstrup,17,900000.0,01-05-2017,Alm.,6666,5,Villa,135,1973,
+Hovedgaden 42 4420 Regstrup,42,1100000.0,05-04-2017,Alm.,8088,4,Villa,136,1972,-8 %
+Ådalen 8 4420 Regstrup,8,1180000.0,03-04-2017,Alm.,7375,4,Villa,160,1972,-9 %
+Jukkerupvænge 23 4420 Regstrup,23,325000.0,29-03-2017,Fam.,6632,3,Sommerhus,49,1975,
+Agervænget 20 4420 Regstrup,20,1395000.0,28-03-2017,Alm.,11434,4,Villa,122,1967,0 %
+Sdr Jernløsevej 53 4420 Regstrup,53,620000.0,28-03-2017,Fam.,5849,4,Villa,106,1954,
+Holbækvej 89 4420 Regstrup,89,600000.0,07-03-2017,Alm.,8000,4,Villa,75,1932,-25 %
+Trønninge Alle 11 4420 Regstrup,11,2725000.0,15-02-2017,Alm.,17694,4,Stuehus,154,1927,-9 %
+Hovedgaden 98 4420 Regstrup,98,1200000.0,08-02-2017,Alm.,11009,4,Villa,109,1969,-7 %
+Skovgårdsvej 2 4420 Regstrup,2,525000.0,28-01-2017,Fam.,3595,4,Villa,146,1971,
+Holbækvej 138 4420 Regstrup,138,209658.0,09-01-2017,Andet,3083,3,Villa,68,1877,
+Gl. Skovvej 117 4420 Regstrup,117,1425000.0,02-01-2017,Alm.,11875,4,Villa,120,1900,
+Tømmerkrogen 4 4420 Regstrup,4,605000.0,12-12-2016,Alm.,4321,4,Villa,140,1962,-38 %
+Møllebakken 3 4420 Regstrup,3,665000.0,09-12-2016,Alm.,5937,4,Villa,112,1965,
+Agervænget 76 4420 Regstrup,76,1350000.0,08-12-2016,Alm.,10227,4,Villa,132,1970,-10 %
+Agervænget 78 4420 Regstrup,78,1225000.0,02-12-2016,Alm.,9645,3,Villa,127,1971,-11 %
+Trønninge By 23 4420 Regstrup,23,700000.0,21-11-2016,Alm.,7777,5,Villa,90,1777,-7 %
+Guldrankevej 8 4420 Regstrup,8,2820000.0,11-11-2016,Alm.,18552,5,Villa,152,2006,-1 %
+Hyacintvej 1 4420 Regstrup,1,3000000.0,21-10-2016,Alm.,13100,9,Villa,229,2007,0 %
+Butterup Byvej 18 4420 Regstrup,18,887985.0,29-09-2016,Fam.,2979,10,Villa,298,1777,-53 %
+Cikorievej 3 4420 Regstrup,3,1900000.0,08-09-2016,Alm.,13669,5,Villa,139,2002,-5 %
+Dramstrup 26 4420 Regstrup,26,325000.0,07-09-2016,Alm.,3316,4,Villa,98,1955,-18 %
+Guldrankevej 1 4420 Regstrup,1,2515000.0,15-08-2016,Alm.,16546,6,Villa,152,2006,1 %
+Bellisvej 7 4420 Regstrup,7,2450000.0,10-08-2016,Alm.,13611,6,Villa,180,1997,-2 %
+Agervænget 149 4420 Regstrup,149,1600000.0,03-08-2016,Alm.,9302,7,Villa,172,1980,-5 %
+Holløsevej 19 4420 Regstrup,19,230000.0,02-08-2016,Alm.,1210,6,Stuehus,190,1864,
+Teglværksvej 12 4420 Regstrup,12,1358000.0,20-07-2016,Alm.,10951,4,Rækkehus,124,1902,
+Hovedgaden 77 4420 Regstrup,77,1350000.0,29-06-2016,Alm.,9712,5,Villa,139,1948,-10 %
+Agervænget 146 4420 Regstrup,146,800000.0,28-06-2016,Alm.,3619,8,Villa,221,1988,
+Trønninge By 25 4420 Regstrup,25,495000.0,23-06-2016,Alm.,3561,5,Villa,139,1727,0 %
+Dahliavej 16 4420 Regstrup,16,1995000.0,20-05-2016,Alm.,13758,6,Villa,145,2004,0 %
+Hovedgaden 110 4420 Regstrup,110,1300000.0,12-05-2016,Alm.,14444,3,Stuehus,90,1951,-21 %
+Jukkerupvænge 7 4420 Regstrup,7,495000.0,23-04-2016,Alm.,9519,1,Sommerhus,52,1971,-7 %
+Blanksøvej 36 4420 Regstrup,36,176000.0,20-04-2016,Alm.,4400,3,Sommerhus,40,1965,
+Ådalen 11 4420 Regstrup,11,953000.0,19-04-2016,Alm.,7219,5,Villa,132,1973,6 %
+Guldrankevej 3 4420 Regstrup,3,2275000.0,18-04-2016,Alm.,16851,4,Villa,135,2006,-1 %
+Trønninge By 16 4420 Regstrup,16,495000.0,11-04-2016,Alm.,2796,6,Villa,177,1777,-17 %
+Syrenvænget 8 4420 Regstrup,8,2368000.0,07-04-2016,Alm.,14351,6,Villa,165,2008,
+Blanksøvej 15 4420 Regstrup,15,525000.0,30-03-2016,Alm.,8467,2,Sommerhus,62,1967,-5 %
+Cikorievej 16 4420 Regstrup,16,994279.0,15-03-2016,Fam.,6137,7,Villa,162,2003,
+Agervænget 129 4420 Regstrup,129,895000.0,16-02-2016,Alm.,7458,4,Villa,120,1973,-10 %
+Ll Knabstrupvej 14 4420 Regstrup,14,650000.0,15-02-2016,Alm.,5371,3,Villa,121,1880,-6 %
+Agervænget 48 4420 Regstrup,48,800000.0,15-02-2016,Auktion,6557,4,Villa,122,1969,
+Agervænget 12 4420 Regstrup,12,917500.0,08-02-2016,Alm.,8048,3,Villa,114,1968,-5 %
+Agervænget 106 4420 Regstrup,106,1100000.0,08-02-2016,Alm.,8870,4,Villa,124,1970,-8 %
+Agervænget 28 4420 Regstrup,28,1020000.0,29-01-2016,Alm.,7669,5,Villa,133,1968,-7 %
+Gl. Skovvej 137 4420 Regstrup,137,880000.0,08-01-2016,Alm.,9072,3,Villa,97,1973,
+Jukkerupvænge 27 4420 Regstrup,27,675000.0,27-11-2015,Alm.,8544,2,Sommerhus,79,1980,-12 %
+Dahliaparken 14 4420 Regstrup,14,1300000.0,23-11-2015,Alm.,13541,4,Rækkehus,96,2006,-7 %
+Trønninge By 7 4420 Regstrup,7,330000.0,18-11-2015,Auktion,2661,3,Villa,124,1910,
+Gl. Skovvej 134 4420 Regstrup,134,1000000.0,13-11-2015,Alm.,8474,2,Villa,118,1965,
+Agervænget 79 4420 Regstrup,79,980000.0,11-11-2015,Alm.,7313,6,Villa,134,1970,-11 %
+Blanksøvej 16 4420 Regstrup,16,595000.0,08-11-2015,Alm.,8623,3,Sommerhus,69,1978,0 %
+Gyvelvej 2 4420 Regstrup,2,2700000.0,02-11-2015,Alm.,15882,6,Villa,170,2007,-10 %
+Sdr Jernløsevej 18 4420 Regstrup,18,65000.0,23-10-2015,Alm.,286,9,Villa,227,1850,
+Agervænget 4 4420 Regstrup,4,1020000.0,20-10-2015,Fam.,7669,4,Villa,133,1968,
+Dahliaparken 12 4420 Regstrup,12,1650000.0,09-10-2015,Alm.,13306,5,Rækkehus,124,2005,-3 %
+Regstrupparken 29 4420 Regstrup,29,1325000.0,28-09-2015,Alm.,8952,4,Villa,148,1979,
+Dramstrup 14 4420 Regstrup,14,700000.0,22-09-2015,Alm.,5384,4,Villa,130,1967,-7 %
+Agervænget 9 4420 Regstrup,9,835000.0,14-09-2015,Auktion,7660,5,Villa,109,1967,
+Knabstrupvej 5 4420 Regstrup,5,112500.0,11-09-2015,Alm.,978,4,Villa,115,1870,
+Teglovnen 4 4420 Regstrup,4,1500000.0,06-09-2015,Alm.,11111,6,Villa,135,1750,-14 %
+Hovedgaden 71 4420 Regstrup,71,1225000.0,01-09-2015,Alm.,6730,5,Villa,182,1917,-18 %
+Kagerupvej 12 4420 Regstrup,12,1050000.0,24-08-2015,Alm.,10500,2,Villa,100,1887,
+Præstemarken 4 4420 Regstrup,4,1350000.0,18-08-2015,Alm.,6367,6,Villa,212,1965,0 %
+Ådalen 3 4420 Regstrup,3,953162.0,10-08-2015,Auktion,5180,4,Villa,184,1974,
+Holbækvej 79 4420 Regstrup,79,1550000.0,08-08-2015,Alm.,7750,6,Stuehus,200,1902,-6 %
+Holbækvej 118 4420 Regstrup,118,630000.0,27-07-2015,Alm.,7325,3,Villa,86,1900,-9 %
+Sdr Jernløsevej 59 4420 Regstrup,59,523000.0,27-07-2015,Auktion,4023,5,Villa,130,1938,
+Ådalen 13 4420 Regstrup,13,1195000.0,17-07-2015,Alm.,9484,4,Villa,126,1975,0 %
+Hovedgaden 86 4420 Regstrup,86,373700.0,08-07-2015,Auktion,3397,3,Villa,110,1910,-42 %
+Agervænget 139 4420 Regstrup,139,1850000.0,02-07-2015,Alm.,9635,6,Villa,192,1980,-7 %
+Skovgårdsvej 3 4420 Regstrup,3,1250000.0,14-06-2015,Alm.,8389,4,Villa,149,1956,
+Jasminvej 2 4420 Regstrup,2,175000.0,10-06-2015,Alm.,972,6,Villa,180,2016,0 %
+Erantisvej 11 4420 Regstrup,11,2420000.0,01-06-2015,Alm.,14846,6,Villa,163,2001,
+Sdr Jernløsevej 69 4420 Regstrup,69,1835000.0,28-05-2015,Alm.,8340,8,Stuehus,220,1800,-12 %
+Jasminvej 5 4420 Regstrup,5,2100000.0,22-05-2015,Alm.,15555,6,Villa,135,2007,-2 %
+Bankehusene 2 4420 Regstrup,2,1110000.0,08-05-2015,Alm.,4302,7,Villa,258,1750,-7 %
+Nørupvej 5 4420 Regstrup,5,770000.0,06-05-2015,Alm.,4666,5,Villa,165,1850,-11 %
+Holløsevej 17 4420 Regstrup,17,1895000.0,04-05-2015,Alm.,15791,5,Villa,120,1914,0 %
+Regstrupparken 47 4420 Regstrup,47,623301.0,23-04-2015,Fam.,4869,4,Villa,128,1981,
+Knabstrupvej 21 4420 Regstrup,21,370000.0,22-04-2015,Auktion,4868,3,Villa,76,1900,
+Holbækvej 128 4420 Regstrup,128,453500.0,20-04-2015,Fam.,4983,3,Villa,91,1962,
+Severinsmindevej 3 4420 Regstrup,3,1350000.0,15-04-2015,Alm.,10546,3,Villa,128,1917,
+Lysmosevej 2 4420 Regstrup,2,1200000.0,31-03-2015,Alm.,3428,8,Villa,350,1790,-7 %
+Skovvejen 4 4420 Regstrup,4,1800000.0,24-03-2015,Alm.,10843,6,Villa,166,1958,
+Agervænget 127 4420 Regstrup,127,1250000.0,18-03-2015,Alm.,10245,4,Villa,122,1973,-10 %
+Dramstrup 13 4420 Regstrup,13,125000.0,10-03-2015,Alm.,1116,3,Villa,112,1800,
+Agervænget 39 4420 Regstrup,39,1050000.0,05-03-2015,Fam.,8536,4,Villa,123,1968,
+Knabstrupvej 28 4420 Regstrup,28,220000.0,25-02-2015,Alm.,2588,1,Villa,85,1850,-12 %
+Jukkerupvej 6 4420 Regstrup,6,2200000.0,17-02-2015,Alm.,12500,6,Villa,176,1907,-4 %
+Agervænget 69 4420 Regstrup,69,1090000.0,12-02-2015,Alm.,8134,4,Villa,134,1969,-3 %
+Trønninge Mose 2 4420 Regstrup,2,125000.0,10-02-2015,Alm.,1785,3,Sommerhus,70,1827,-36 %
+Agervænget 30 4420 Regstrup,30,910000.0,15-01-2015,Alm.,7583,4,Villa,120,1968,-7 %
+Skovgårdsvej 5 4420 Regstrup,5,1397500.0,13-01-2015,Alm.,8958,5,Villa,156,1970,-7 %
+Hovedgaden 8 4420 Regstrup,8,544139.0,07-01-2015,Andet,4218,4,Villa,129,1920,
+Knabstrupvej 20 4420 Regstrup,20,800000.0,06-01-2015,Alm.,6060,4,Villa,132,1850,-16 %
+Skovvejen 8 4420 Regstrup,8,1200000.0,09-12-2014,Alm.,10909,4,Villa,110,1900,
+Jukkerupvej 2A 4420 Regstrup,0,712500.0,07-12-2014,Alm.,5937,4,Villa,120,1978,
+Trønninge By 2 4420 Regstrup,2,2610000.0,14-11-2014,Alm.,14662,8,Villa,178,1970,-2 %
+Kirkebakken 2A 4420 Regstrup,0,1225000.0,10-11-2014,Alm.,12894,3,Rækkehus,95,2005,-5 %
+Møsten 2 4420 Regstrup,2,2036576.0,22-10-2014,Alm.,16036,5,Stuehus,127,1930,
+Agervænget 21 4420 Regstrup,21,1301000.0,16-10-2014,Alm.,11720,3,Villa,111,1968,0 %
+Holløsevej 18 4420 Regstrup,18,1500000.0,13-10-2014,Alm.,9090,5,Villa,165,1920,
+Søstrupvej 74 4420 Regstrup,74,2144000.0,29-09-2014,Alm.,11284,6,Stuehus,190,1880,
+Nørupvej 13 4420 Regstrup,13,20750000.0,24-09-2014,Auktion,101715,9,Stuehus,204,1859,
+Syrenvænget 6 4420 Regstrup,6,2295000.0,02-09-2014,Alm.,13039,6,Villa,176,2007,-8 %
+Dramstrup 18 4420 Regstrup,18,2360000.0,22-08-2014,Alm.,14936,6,Stuehus,158,1910,-6 %
+Vognserup 15 4420 Regstrup,15,2130000.0,09-08-2014,Alm.,12987,8,Stuehus,164,1922,-3 %
+Løvenborgvej 11 4420 Regstrup,11,970000.0,27-07-2014,Alm.,7238,4,Villa,134,1900,-3 %
+Regstrupparken 19 4420 Regstrup,19,1325000.0,27-07-2014,Alm.,9075,5,Villa,146,1970,-5 %
+Agervænget 53 4420 Regstrup,53,1100000.0,15-07-2014,Alm.,9166,4,Villa,120,1969,-4 %
+Løvenborg Alle 4A 4420 Regstrup,0,725000.0,08-07-2014,Alm.,6473,5,Villa,112,1979,-19 %
+Strædet 5 4420 Regstrup,5,2220000.0,01-07-2014,Alm.,11684,5,Villa,190,1700,-3 %
+Vognserup 13 4420 Regstrup,13,3100000.0,22-06-2014,Alm.,12156,7,Stuehus,255,1922,-3 %
+Regstrupparken 65 4420 Regstrup,65,1835000.0,17-05-2014,Alm.,9458,6,Villa,194,1979,-8 %
+Hanerupvej 1K 4420 Regstrup,0,1500000.0,16-05-2014,Alm.,10489,6,Villa,143,1931,-6 %
+Ådalen 6 4420 Regstrup,6,1095000.0,12-05-2014,Alm.,6366,5,Villa,172,1972,0 %
+Dahliavej 5 4420 Regstrup,5,2175000.0,02-05-2014,Alm.,15000,6,Villa,145,2005,-3 %
+Skovgårdsvej 20 4420 Regstrup,20,1135000.0,22-04-2014,Alm.,10412,4,Villa,109,1962,-5 %
+Agervænget 32 4420 Regstrup,32,650000.0,22-04-2014,Alm.,5803,3,Villa,112,1969,-6 %
+Holbækvej 75 4420 Regstrup,75,2450000.0,28-03-2014,Alm.,14411,7,Stuehus,170,1912,
+Nørupvej 1 4420 Regstrup,1,1300000.0,19-03-2014,Alm.,9923,3,Villa,131,1948,-9 %
+Trønninge Mose 4 4420 Regstrup,4,1100000.0,11-03-2014,Andet,12087,5,Sommerhus,91,2012,
+Ådalen 7 4420 Regstrup,7,669000.0,30-01-2014,Auktion,5717,4,Villa,117,1972,-33 %
+Nyvej 15 4420 Regstrup,15,940000.0,27-01-2014,Alm.,7401,5,Villa,127,1975,-6 %
+Jukkerupvænge 12A 4420 Regstrup,0,500000.0,20-01-2014,Alm.,8620,3,Sommerhus,58,1970,
+Mogenstrupvej 21 4420 Regstrup,21,2200000.0,09-01-2014,Alm.,17054,4,Stuehus,129,1889,0 %
+Holløsevej 10B 4420 Regstrup,0,1700000.0,08-01-2014,Alm.,12142,6,Villa,140,2002,
+Jukkerupvænge 14 4420 Regstrup,14,550000.0,05-01-2014,Alm.,8088,4,Sommerhus,68,1973,-21 %
+Lodskovvej 8 4420 Regstrup,8,1200000.0,04-01-2014,Alm.,13636,2,Villa,88,1877,
+Trønninge Mose 3 4420 Regstrup,3,2600000.0,12-12-2013,Alm.,14207,7,Villa,183,1830,
+Søstrupvej 69 4420 Regstrup,69,1900000.0,13-11-2013,Alm.,12258,6,Villa,155,1953,-5 %
+Gyvelvej 3 4420 Regstrup,3,2250000.0,31-10-2013,Alm.,15625,6,Villa,144,2007,-6 %
+Ll Knabstrupvej 1 4420 Regstrup,1,950000.0,11-09-2013,Alm.,7916,6,Villa,120,1847,-3 %
+Holløsevej 1A 4420 Regstrup,0,2825000.0,03-09-2013,Andet,13516,7,Stuehus,209,1910,
+Dahliaparken 3 4420 Regstrup,3,1230000.0,30-08-2013,Fam.,7592,6,Villa,162,2007,
+Butterup Byvej 31 4420 Regstrup,31,1350000.0,23-08-2013,Fam.,12500,4,Stuehus,108,1877,
+Gl. Skovvej 107 4420 Regstrup,107,170450.0,21-08-2013,Auktion,1121,2,Stuehus,152,1800,
+Butterup Byvej 13 4420 Regstrup,13,1800000.0,11-07-2013,Alm.,8530,9,Villa,211,1920,-10 %
+Hovedgaden 41 4420 Regstrup,41,550000.0,11-07-2013,Alm.,5339,3,Villa,103,1957,-21 %
+Møsten 21 4420 Regstrup,21,1900000.0,10-07-2013,Alm.,14285,4,Stuehus,133,1953,-5 %
+Regstrupparken 49 4420 Regstrup,49,575000.0,08-07-2013,Fam.,6117,4,Villa,94,1979,
+Borupvej 34 4420 Regstrup,34,425000.0,04-07-2013,Auktion,3195,4,Villa,133,1877,
+Hanerupvej 7 4420 Regstrup,7,1300000.0,02-07-2013,Alm.,7878,5,Villa,165,1889,-7 %
+Agervænget 22 4420 Regstrup,22,1600000.0,02-06-2013,Alm.,8602,6,Villa,186,2004,-11 %
+Strædet 4C 4420 Regstrup,0,1695000.0,07-05-2013,Alm.,9469,6,Villa,179,2013,0 %
+Hovedgaden 113 4420 Regstrup,113,350000.0,17-04-2013,Alm.,2554,5,Villa,137,1900,17 %
+Trønninge Mose 1 4420 Regstrup,1,750000.0,05-04-2013,Alm.,15000,2,Sommerhus,50,1960,
+Skovgårdsvej 12 4420 Regstrup,12,1000000.0,21-03-2013,Alm.,9523,4,Villa,105,1965,-5 %
+Engvejen 5 4420 Regstrup,5,1700000.0,13-03-2013,Alm.,12592,4,Villa,135,1971,-19 %
+Borupvej 23 4420 Regstrup,23,1385000.0,07-03-2013,Alm.,8602,4,Villa,161,2007,-21 %
+Gl. Skovvej 148A 4420 Regstrup,0,487500.0,27-02-2013,Alm.,4352,4,Villa,112,1904,
+Vinkelvej 4 4420 Regstrup,4,1150000.0,27-02-2013,Alm.,7666,5,Villa,150,1932,-21 %
+Jukkerupvænge 3 4420 Regstrup,3,640000.0,28-01-2013,Alm.,8205,3,Sommerhus,78,2011,-28 %
+Nørupvej 29 4420 Regstrup,29,1750000.0,25-01-2013,Alm.,9114,7,Villa,192,1880,-7 %
+Teglværksvej 24 4420 Regstrup,24,950000.0,10-01-2013,Alm.,4871,8,Villa,195,1996,-21 %
+Gartnervænget 29 4420 Regstrup,29,1375000.0,29-11-2012,Alm.,0,4,Villa,112,1976,-4 %
+Sdr Jernløsevej 11 4420 Regstrup,11,780000.0,26-11-2012,Alm.,0,4,Villa,115,1968,-13 %
+Hovedgaden 60 4420 Regstrup,60,400000.0,05-11-2012,Alm.,4395,4,Villa,91,1959,-7 %
+Agervænget 91 4420 Regstrup,91,750000.0,07-10-2012,Fam.,4518,6,Villa,166,1973,
+Agervænget 10 4420 Regstrup,10,430000.0,03-10-2012,Alm.,3644,4,Villa,118,1967,
+Bellisvej 1 4420 Regstrup,1,1275000.0,23-08-2012,Alm.,11086,5,Villa,115,1997,
+Butterupvej 64 4420 Regstrup,64,779708.0,23-08-2012,Fam.,4813,5,Villa,162,1900,
+Blanksøvej 22 4420 Regstrup,22,698000.0,15-08-2012,Alm.,12034,2,Sommerhus,58,1963,
+Møllebakken 12 4420 Regstrup,12,1375000.0,14-08-2012,Alm.,8136,7,Villa,169,1970,-5 %
+Sdr Jernløsevej 81 4420 Regstrup,81,850000.0,07-08-2012,Alm.,9770,4,Rækkehus,87,1907,-5 %
+Løvenborgvej 23 4420 Regstrup,23,1100000.0,19-07-2012,Alm.,10000,4,Villa,110,1958,-12 %
+Regstrupparken 39 4420 Regstrup,39,1370000.0,07-07-2012,Alm.,9013,6,Villa,152,1979,-8 %
+Søstrupvej 80 4420 Regstrup,80,2700000.0,19-06-2012,Alm.,18243,5,Villa,148,1987,-23 %
+Hovedgaden 22 4420 Regstrup,22,900000.0,04-06-2012,Alm.,6428,4,Villa,140,1900,-10 %
+Jukkerupvænge 8 4420 Regstrup,8,1450000.0,25-05-2012,Alm.,10740,4,Sommerhus,135,1966,
+Vognserup Engvej 6 4420 Regstrup,6,2054565.0,26-04-2012,Alm.,9556,5,Stuehus,215,1922,
+Regstrupparken 31 4420 Regstrup,31,750000.0,25-04-2012,Auktion,5000,5,Villa,150,1981,-50 %
+Hovedgaden 44 4420 Regstrup,44,700000.0,23-04-2012,Alm.,5555,4,Villa,126,1942,
+Agervænget 123 4420 Regstrup,123,980000.0,01-04-2012,Alm.,7967,4,Villa,123,1970,-6 %
+Skovgårdsvej 24 4420 Regstrup,24,700000.0,16-03-2012,Alm.,7000,4,Villa,100,1964,-30 %
+Dahliavej 2 4420 Regstrup,2,2270000.0,09-03-2012,Alm.,15874,5,Villa,143,2003,
+Engvejen 2 4420 Regstrup,2,2114000.0,17-02-2012,Alm.,8456,7,Stuehus,250,1884,
+Butterupvej 70 4420 Regstrup,70,500000.0,31-01-2012,Alm.,4761,4,Villa,105,1825,-16 %
+Mogenstrupvej 16 4420 Regstrup,16,1955000.0,24-01-2012,Fam.,7490,8,Stuehus,261,1927,
+Dahliaparken 1 4420 Regstrup,1,937500.0,19-01-2012,Fam.,6048,6,Villa,155,2005,
+Gl. Skovvej 144 4420 Regstrup,144,1375000.0,29-12-2011,Alm.,10826,5,Villa,127,1880,
+Blanksøvej 14 4420 Regstrup,14,400000.0,21-12-2011,Alm.,5263,4,Sommerhus,76,1965,
+Hovedgaden 45 4420 Regstrup,45,535000.0,19-12-2011,Auktion,3057,5,Villa,175,1890,
+Trønninge By 4 4420 Regstrup,4,550000.0,16-11-2011,Alm.,7857,2,Villa,70,1915,-15 %
+Hesselvad 13 4420 Regstrup,13,1785000.0,15-09-2011,Alm.,11442,7,Villa,156,1930,-11 %
+Butterupvej 62 4420 Regstrup,62,675000.0,12-09-2011,Alm.,5818,5,Villa,116,1890,-20 %
+Agervænget 143 4420 Regstrup,143,1235214.0,05-09-2011,Fam.,7969,7,Villa,155,1982,
+Dramstrup 11 4420 Regstrup,11,1150000.0,29-08-2011,Alm.,8214,5,Villa,140,1917,-18 %
+Cikorievej 8 4420 Regstrup,8,1150000.0,10-08-2011,Auktion,11734,4,Villa,98,2002,
+Nørupvej 9 4420 Regstrup,9,5500000.0,28-07-2011,Alm.,21568,7,Stuehus,255,1880,41 %
+Erantisvej 13 4420 Regstrup,13,2245000.0,20-06-2011,Alm.,15590,6,Villa,144,2001,-2 %
+Løvenborgvej 4 4420 Regstrup,4,750000.0,03-06-2011,Alm.,7211,3,Villa,104,1932,-16 %
+Holbækvej 77 4420 Regstrup,77,3050000.0,31-05-2011,Alm.,20333,5,Stuehus,150,1885,
+Ådalen 19 4420 Regstrup,19,645000.0,29-05-2011,Alm.,5560,4,Villa,116,1973,-7 %
+Jukkerupvænge 5 4420 Regstrup,5,433333.0,13-05-2011,Alm.,12380,1,Sommerhus,35,1965,
+Knabstrupvej 39 4420 Regstrup,39,2100000.0,18-04-2011,Alm.,17213,4,Stuehus,122,1959,-12 %
+Gl. Skovvej 115 4420 Regstrup,115,605000.0,08-04-2011,Alm.,5761,2,Villa,105,1956,
+Løvenborgvej 12 4420 Regstrup,12,564432.0,11-03-2011,Alm.,7055,3,Villa,80,1880,-46 %
+Agervænget 113 4420 Regstrup,113,629500.0,01-03-2011,Alm.,5159,4,Villa,122,1972,-57 %
+Hovedgaden 79 4420 Regstrup,79,500000.0,01-03-2011,Alm.,5050,5,Villa,99,1960,
+Møllebakken 5 4420 Regstrup,5,1675000.0,17-02-2011,Alm.,10090,5,Villa,166,1969,-1 %
+Hanerupvej 13 4420 Regstrup,13,720000.0,02-02-2011,Alm.,4645,7,Villa,155,1903,
+Regstrupparken 35 4420 Regstrup,35,1650000.0,10-01-2011,Alm.,12595,4,Villa,131,1979,-6 %
+Nørupvej 11 4420 Regstrup,11,1535000.0,08-01-2011,Alm.,14759,5,Villa,104,1972,
+Kagerupvej 36 4420 Regstrup,36,600000.0,05-01-2011,Fam.,5454,2,Villa,110,1870,
+Hovedgaden 16 4420 Regstrup,16,509976.0,22-12-2010,Alm.,4146,4,Villa,123,1912,
+Skovgårdsvej 14 4420 Regstrup,14,4650000.0,10-12-2010,Alm.,33214,4,Stuehus,140,1963,-14 %
+Nørrevang 4 4420 Regstrup,4,1050000.0,18-11-2010,Alm.,7664,4,Villa,137,1962,-19 %
+Løvenborgvej 13 4420 Regstrup,13,595000.0,03-11-2010,Alm.,6263,2,Villa,95,1903,0 %
+Gl. Skovvej 124 4420 Regstrup,124,1100000.0,01-11-2010,Alm.,3323,10,Villa,331,1916,
+Søstrupvej 72 4420 Regstrup,72,1750000.0,28-10-2010,Fam.,7641,5,Stuehus,229,1870,
+Kagerupvej 14 4420 Regstrup,14,780000.0,14-10-2010,Alm.,5032,7,Villa,155,1911,-22 %
+Løvenborg Alle 5 4420 Regstrup,5,3850000.0,06-10-2010,Alm.,16885,6,Stuehus,228,1927,-4 %
+Holløsevej 21 4420 Regstrup,21,2750000.0,28-09-2010,Alm.,12008,4,Villa,229,1922,-4 %
+Agervænget 61 4420 Regstrup,61,1300000.0,09-09-2010,Alm.,10483,4,Villa,124,1971,-13 %
+Engvejen 6 4420 Regstrup,6,1700000.0,01-09-2010,Alm.,9550,5,Stuehus,178,1970,-15 %
+Agervænget 24 4420 Regstrup,24,1400000.0,25-08-2010,Alm.,11666,3,Villa,120,1969,-6 %
+Løvenborg Alle 3 4420 Regstrup,3,4600000.0,25-08-2010,Alm.,23711,5,Stuehus,194,1927,-4 %
+Begoniavej 3 4420 Regstrup,3,2100000.0,06-08-2010,Alm.,15671,5,Villa,134,2005,-3 %
+Skovgårdsvej 17 4420 Regstrup,17,1050000.0,04-08-2010,Alm.,10294,4,Villa,102,1966,-12 %
+Butterupvej 67 4420 Regstrup,67,1250000.0,23-07-2010,Alm.,11160,3,Villa,112,1792,
+Sdr Jernløsevej 21A 4420 Regstrup,0,500000.0,14-07-2010,Auktion,3676,6,Villa,136,1937,-50 %
+Agervænget 75 4420 Regstrup,75,1450000.0,07-07-2010,Fam.,9294,5,Villa,156,1969,
+Hovedgaden 25 4420 Regstrup,25,1295000.0,29-06-2010,Alm.,12102,4,Villa,107,1951,0 %
+Jasminvej 9 4420 Regstrup,9,469500.0,16-06-2010,Alm.,3151,6,Villa,149,2011,
+Erantisvej 15 4420 Regstrup,15,1040000.0,12-06-2010,Alm.,7375,6,Villa,141,2001,
+Ådalen 22 4420 Regstrup,22,1325000.0,08-06-2010,Alm.,12500,4,Villa,106,1957,-5 %
+Dahliaparken 11 4420 Regstrup,11,2200000.0,07-06-2010,Alm.,15714,6,Rækkehus,140,2006,-6 %
+Gartnervænget 5 4420 Regstrup,5,1700000.0,01-06-2010,Alm.,9042,6,Villa,188,1977,-5 %
+Regstrupparken 5 4420 Regstrup,5,1500000.0,19-05-2010,Alm.,8928,6,Villa,168,1966,-9 %
+Regstrupparken 80 4420 Regstrup,80,1600000.0,17-05-2010,Alm.,8290,5,Villa,193,1982,-6 %
+Agervænget 121 4420 Regstrup,121,1995000.0,17-05-2010,Alm.,11804,6,Villa,169,1972,0 %
+Hovedgaden 18 4420 Regstrup,18,1995000.0,27-04-2010,Alm.,8489,10,Villa,235,1912,0 %
+Dahliavej 10 4420 Regstrup,10,2250000.0,26-04-2010,Alm.,0,6,Villa,149,2004,-6 %
+Sdr Jernløsevej 25 4420 Regstrup,25,585000.0,08-04-2010,Fam.,5416,3,Villa,108,1960,
+Holbækvej 130 4420 Regstrup,130,565950.0,01-04-2010,Andet,2720,5,Villa,208,1904,-66 %
+Hanerupvej 18 4420 Regstrup,18,2300000.0,31-03-2010,Alm.,17164,8,Villa,134,1806,
+Cikorievej 6 4420 Regstrup,6,1510000.0,29-03-2010,Fam.,0,5,Villa,163,2002,
+Agervænget 36 4420 Regstrup,36,915744.0,22-03-2010,Alm.,6937,5,Villa,132,1968,-54 %
+Sdr Jernløsevej 14 4420 Regstrup,14,416500.0,22-03-2010,Fam.,5553,3,Villa,75,1887,
+Regstrupparken 63 4420 Regstrup,63,1950000.0,12-03-2010,Alm.,12420,6,Villa,157,1979,-2 %
+Butterupvej 86 4420 Regstrup,86,1585000.0,04-03-2010,Andet,5848,8,Stuehus,271,2001,
+Knabstrupvej 3 4420 Regstrup,3,825000.0,02-03-2010,Alm.,3855,6,Villa,214,1830,-17 %
+Hesselvad 7 4420 Regstrup,7,4550000.0,18-02-2010,Alm.,23575,7,Stuehus,193,2004,-9 %
+Cikorievej 18 4420 Regstrup,18,2400000.0,17-02-2010,Alm.,16000,6,Villa,150,2005,-2 %
+Agervænget 27 4420 Regstrup,27,1750000.0,09-02-2010,Alm.,12962,5,Villa,135,1969,-8 %
+Trønninge By 20 4420 Regstrup,20,825000.0,09-02-2010,Alm.,5392,4,Villa,153,1902,-2 %
+Løvenborgvej 35 4420 Regstrup,35,2775000.0,25-01-2010,Alm.,13405,6,Stuehus,207,1917,-4 %
+Trønninge Alle 3 4420 Regstrup,3,2850000.0,14-01-2010,Alm.,16964,6,Stuehus,168,1927,-5 %
+Agervænget 51 4420 Regstrup,51,900000.0,01-01-2010,Alm.,7258,4,Villa,124,1969,
+Blanksøvej 1A 4420 Regstrup,0,5825000.0,11-12-2009,Auktion,29125,7,Stuehus,200,1908,
+Hyacintvej 7 4420 Regstrup,7,2000000.0,06-12-2009,Alm.,0,8,Villa,243,2009,-13 %
+Nørupvej 17 4420 Regstrup,17,700000.0,25-11-2009,Andet,5737,4,Villa,122,1876,
+Skovgårdsvej 7 4420 Regstrup,7,754353.0,23-11-2009,Fam.,5388,6,Villa,140,1962,
+Hovedgaden 106 4420 Regstrup,106,1400000.0,16-11-2009,Alm.,9395,6,Villa,149,1953,-12 %
+Engvejen 10 4420 Regstrup,10,2500000.0,30-10-2009,Alm.,13513,5,Stuehus,185,1880,-10 %
+Hovedgaden 53 4420 Regstrup,53,170000.0,22-10-2009,Auktion,1734,5,Villa,98,1900,-66 %
+Georginevej 10 4420 Regstrup,10,2040000.0,21-10-2009,Alm.,14068,6,Villa,145,2007,-3 %
+Knabstrupvej 22 4420 Regstrup,22,760000.0,12-10-2009,Alm.,11692,3,Villa,65,1822,-24 %
+Teglværksvej 20 4420 Regstrup,20,867500.0,08-10-2009,Fam.,4873,7,Rækkehus,178,1902,
+Gl. Skovvej 146 4420 Regstrup,146,1430000.0,27-09-2009,Alm.,7606,6,Villa,188,1938,-7 %
+Holbækvej 122 4420 Regstrup,122,1300000.0,24-09-2009,Alm.,12037,4,Villa,108,1965,-4 %
+Vognserup Engvej 8 4420 Regstrup,8,2450000.0,24-09-2009,Alm.,22685,5,Stuehus,108,1922,-30 %
+Gl. Skovvej 131B 4420 Regstrup,0,1050000.0,02-09-2009,Auktion,11170,4,Villa,94,1981,-25 %
+Dramstrup 20 4420 Regstrup,20,1525000.0,07-08-2009,Alm.,8068,9,Villa,189,1936,-14 %
+Knabstrupvej 8 4420 Regstrup,8,1175000.0,30-07-2009,Andet,8333,6,Stuehus,141,1800,
+Løvenborgvej 33 4420 Regstrup,33,800000.0,08-07-2009,Auktion,5970,4,Villa,134,1936,
+Regstrupparken 48 4420 Regstrup,48,705000.0,05-07-2009,Andet,5551,4,Villa,127,1978,
+Gyvelvej 11 4420 Regstrup,11,2575000.0,24-06-2009,Alm.,15058,6,Villa,171,2007,-14 %
+Hovedgaden 95 4420 Regstrup,95,1100000.0,22-06-2009,Alm.,11578,3,Villa,95,1963,-15 %
+Bellisvej 12 4420 Regstrup,12,1600000.0,20-06-2009,Alm.,12403,5,Villa,129,1997,
+Nørupvej 21 4420 Regstrup,21,2923000.0,16-06-2009,Alm.,22835,7,Stuehus,128,1875,
+Sdr Jernløsevej 71 4420 Regstrup,71,650000.0,29-05-2009,Auktion,7065,3,Villa,92,1912,
+Agervænget 134 4420 Regstrup,134,1150000.0,22-05-2009,Alm.,9426,4,Villa,122,1972,-8 %
+Agervænget 93 4420 Regstrup,93,1285000.0,20-05-2009,Alm.,10532,4,Villa,122,1970,0 %
+Hovedgaden 48 4420 Regstrup,48,1000000.0,01-05-2009,Alm.,9009,4,Villa,111,1936,
+Hovedgaden 90 4420 Regstrup,90,1685000.0,28-04-2009,Alm.,11462,4,Villa,147,1890,-6 %
+Agervænget 133 4420 Regstrup,133,1500000.0,26-02-2009,Alm.,8474,7,Villa,177,1969,-20 %
+Kirkebakken 3 4420 Regstrup,3,2500000.0,09-01-2009,Alm.,17361,4,Villa,144,2007,-9 %
+Sdr Jernløsevej 28 4420 Regstrup,28,1600000.0,08-01-2009,Alm.,12307,5,Villa,130,1913,-6 %
+Hovedgaden 12 4420 Regstrup,12,545000.0,20-11-2008,Fam.,3585,6,Villa,152,1928,
+Dahliaparken 5 4420 Regstrup,5,2550000.0,10-11-2008,Alm.,14325,7,Villa,178,2008,
+Jasminvej 1 4420 Regstrup,1,507000.0,05-11-2008,Alm.,2157,7,Villa,235,2010,
+Kagerupvej 16 4420 Regstrup,16,4580000.0,20-10-2008,Alm.,38487,5,Stuehus,119,1870,
+Dahliavej 22 4420 Regstrup,22,1559844.0,19-10-2008,Andet,9935,6,Villa,157,2009,
+Dahliavej 20 4420 Regstrup,20,1131495.0,18-10-2008,Alm.,9051,5,Villa,125,2004,
+Trønninge By 5 4420 Regstrup,5,3200000.0,03-10-2008,Alm.,20512,7,Stuehus,156,1925,
+Regstrupparken 53 4420 Regstrup,53,1700000.0,22-09-2008,Alm.,15044,4,Villa,113,1979,-10 %
+Hovedgaden 115 4420 Regstrup,115,1650000.0,10-09-2008,Alm.,8638,6,Villa,191,1900,-3 %
+Dahliavej 3 4420 Regstrup,3,2800000.0,02-09-2008,Alm.,19310,5,Villa,145,2007,-7 %
+Ll Knabstrupvej 6 4420 Regstrup,6,1500000.0,26-08-2008,Alm.,15306,4,Stuehus,98,1910,-12 %
+Nyvej 23 4420 Regstrup,23,1800000.0,18-08-2008,Alm.,14062,4,Villa,128,1978,-5 %
+Sdr Jernløsevej 33 4420 Regstrup,33,825000.0,14-08-2008,Alm.,8009,5,Villa,103,1931,
+Jukkerupvænge 2 4420 Regstrup,2,545000.0,02-08-2008,Alm.,14729,3,Sommerhus,37,1974,-5 %
+Blanksøvej 11 4420 Regstrup,11,697000.0,13-07-2008,Fam.,10723,3,Sommerhus,65,1964,
+Hesselvad 6 4420 Regstrup,6,2200000.0,01-07-2008,Alm.,21782,3,Stuehus,101,1928,-12 %
+Nørupvej 27 4420 Regstrup,27,380000.0,26-06-2008,Fam.,6785,3,Villa,56,1900,
+Hovedgaden 94 4420 Regstrup,94,1365000.0,05-06-2008,Alm.,13252,3,Villa,103,1900,
+Jasminvej 4 4420 Regstrup,4,325000.0,16-05-2008,Alm.,2152,5,Villa,151,2008,
+Dahliaparken 16 4420 Regstrup,16,1950000.0,14-04-2008,Alm.,20312,4,Villa,96,2005,-7 %
+Jukkerupvænge 20 4420 Regstrup,20,920000.0,13-04-2008,Alm.,13731,4,Sommerhus,67,1974,-8 %
+Agervænget 99 4420 Regstrup,99,1395000.0,08-04-2008,Fam.,11434,5,Villa,122,1973,
+Agervænget 31 4420 Regstrup,31,1880000.0,09-03-2008,Alm.,14461,4,Villa,130,2010,-1 %
+Holbækvej 93A 4420 Regstrup,0,2225000.0,22-02-2008,Alm.,10960,10,Stuehus,203,1906,
+Blanksøvej 9 4420 Regstrup,9,180000.0,13-02-2008,Alm.,18000,1,Sommerhus,10,1965,
+Bankehusene 8 4420 Regstrup,8,75000.0,12-02-2008,Alm.,572,6,Stuehus,131,1900,
+Agervænget 116 4420 Regstrup,116,1495000.0,08-02-2008,Alm.,12254,4,Villa,122,1973,0 %
+Knabstrupvej 17B 4420 Regstrup,0,2095000.0,06-02-2008,Alm.,13093,6,Villa,160,1875,5 %
+Vognserup Engvej 2 4420 Regstrup,2,200000.0,05-02-2008,Andet,1234,5,Stuehus,162,1920,
+Butterup Byvej 3 4420 Regstrup,3,2225000.0,18-01-2008,Alm.,15892,4,Villa,140,1877,
+Erantisvej 7 4420 Regstrup,7,2300000.0,21-12-2007,Alm.,17037,5,Villa,135,2000,-4 %
+Kirkebakken 8 4420 Regstrup,8,2580000.0,13-12-2007,Alm.,16753,6,Villa,154,2004,
+Cikorievej 15 4420 Regstrup,15,2300000.0,05-12-2007,Alm.,13068,5,Villa,176,2001,-4 %
+Gl. Skovvej 109 4420 Regstrup,109,2050000.0,03-12-2007,Alm.,14748,3,Villa,139,1924,-7 %
+Agervænget 26 4420 Regstrup,26,1838000.0,16-11-2007,Alm.,13924,5,Villa,132,1970,
+Butterupvej 61 4420 Regstrup,61,1725000.0,11-11-2007,Alm.,13911,4,Villa,124,1900,-1 %
+Løvenborgvej 9 4420 Regstrup,9,1450000.0,03-11-2007,Alm.,12719,4,Villa,114,1910,-3 %
+Nørupvej 31 4420 Regstrup,31,2475000.0,27-10-2007,Alm.,11405,7,Villa,217,1830,-5 %
+Butterupvej 75 4420 Regstrup,75,630000.0,22-10-2007,Alm.,6923,4,Villa,91,1922,
+Trønninge By 19 4420 Regstrup,19,965000.0,20-10-2007,Alm.,8391,5,Villa,115,1827,-3 %
+Dramstrup 2 4420 Regstrup,2,995000.0,05-10-2007,Alm.,16048,2,Villa,62,1880,0 %
+Vinkelvej 11 4420 Regstrup,11,50000.0,02-10-2007,Alm.,561,3,Villa,89,1956,-97 %
+Cikorievej 4 4420 Regstrup,4,2700000.0,13-09-2007,Alm.,18620,6,Villa,145,2005,-7 %
+Butterupvej 90 4420 Regstrup,90,1050000.0,12-09-2007,Fam.,12209,4,Villa,86,1800,
+Butterupvej 88 4420 Regstrup,88,1495000.0,03-09-2007,Alm.,14656,3,Villa,102,1787,0 %
+Kagerupvej 26 4420 Regstrup,26,1450000.0,16-08-2007,Alm.,14500,3,Villa,100,1880,-6 %
+Gl. Skovvej 154 4420 Regstrup,154,860000.0,08-08-2007,Alm.,9555,4,Villa,90,1900,-9 %
+Dahliaparken 7 4420 Regstrup,7,2850000.0,07-08-2007,Alm.,21111,6,Villa,135,2006,-2 %
+Sdr Jernløsevej 43A 4420 Regstrup,0,4895000.0,25-07-2007,Alm.,18129,10,Stuehus,270,1920,
+Bellisvej 16 4420 Regstrup,16,1900000.0,23-07-2007,Alm.,16814,4,Villa,113,1989,-1 %
+Mogenstrupvej 15 4420 Regstrup,15,1299000.0,16-07-2007,Alm.,12611,3,Villa,103,1910,0 %
+Engvejen 1 4420 Regstrup,1,1325000.0,13-07-2007,Alm.,11936,4,Villa,111,1912,-5 %
+Hovedgaden 125 4420 Regstrup,125,1670000.0,02-07-2007,Alm.,0,4,Villa,88,1955,
+Agervænget 41 4420 Regstrup,41,725000.0,02-07-2007,Alm.,5942,4,Villa,122,1968,
+Bellisvej 5 4420 Regstrup,5,2395000.0,01-07-2007,Alm.,18858,5,Villa,127,1998,
+Bankehusene 1 4420 Regstrup,1,2600000.0,30-06-2007,Alm.,7831,10,Villa,332,2005,
+Skovvejen 5 4420 Regstrup,5,612500.0,11-06-2007,Alm.,2364,11,Stuehus,259,1880,
+Sdr Jernløsevej 43C 4420 Regstrup,0,2850000.0,11-06-2007,Alm.,17168,5,Villa,166,2006,
+Jukkerupvænge 17 4420 Regstrup,17,850000.0,02-06-2007,Alm.,13934,4,Sommerhus,61,1970,
+Ll Knabstrupvej 8 4420 Regstrup,8,1223000.0,01-06-2007,Fam.,3618,8,Stuehus,338,1900,
+Dahliavej 8 4420 Regstrup,8,2315000.0,01-06-2007,Alm.,13617,6,Villa,170,2003,-11 %
+Guldrankevej 11 4420 Regstrup,11,3200000.0,18-05-2007,Alm.,17204,5,Villa,186,2007,0 %
+Ådalen 27 4420 Regstrup,27,1600000.0,22-04-2007,Alm.,12030,4,Villa,133,1972,-6 %
+Dahliavej 7 4420 Regstrup,7,2895000.0,22-04-2007,Alm.,18207,6,Villa,159,2004,
+Vinkelvej 6 4420 Regstrup,6,1780000.0,19-04-2007,Alm.,16792,4,Villa,106,1950,
+Holbækvej 146 4420 Regstrup,146,1700000.0,11-04-2007,Alm.,14166,5,Stuehus,120,1906,
+Virkelyst 3 4420 Regstrup,3,5500000.0,03-04-2007,Alm.,29255,9,Villa,188,1979,0 %
+Overdrevsvej 21 4420 Regstrup,21,1350000.0,22-03-2007,Alm.,14516,3,Villa,93,1920,0 %
+Nyvej 8 4420 Regstrup,8,2195000.0,20-03-2007,Alm.,15349,5,Villa,143,1969,
+Regstrupparken 23 4420 Regstrup,23,1930000.0,19-03-2007,Alm.,11840,6,Villa,163,1973,-3 %
+Cikorievej 17 4420 Regstrup,17,2450000.0,16-03-2007,Alm.,18846,6,Villa,130,2002,
+Dahliaparken 6 4420 Regstrup,6,2845000.0,12-03-2007,Alm.,15805,7,Villa,180,2006,
+Bellisvej 14 4420 Regstrup,14,2500000.0,05-03-2007,Alm.,17605,6,Villa,142,1997,-3 %
+Trønninge By 17 4420 Regstrup,17,1150000.0,05-03-2007,Alm.,10267,4,Villa,112,1920,-4 %
+Løvenborgvej 14 4420 Regstrup,14,1000000.0,28-02-2007,Alm.,0,5,Villa,139,1930,
+Ådalen 20 4420 Regstrup,20,1688750.0,24-02-2007,Alm.,17232,4,Villa,98,1967,
+Blanksøvej 20 4420 Regstrup,20,391000.0,01-02-2007,Fam.,4546,4,Sommerhus,86,1966,
+Butterup Byvej 10 4420 Regstrup,10,2278000.0,31-01-2007,Alm.,13244,6,Villa,172,1910,
+Gl. Skovvej 140 4420 Regstrup,140,2200000.0,26-01-2007,Alm.,9482,6,Villa,232,1906,0 %
+Bellisvej 8 4420 Regstrup,8,2495000.0,19-01-2007,Alm.,16633,5,Villa,150,1997,0 %
+Blanksøvej 34 4420 Regstrup,34,795000.0,17-01-2007,Alm.,26500,2,Sommerhus,30,1969,
+Mogenstrupvej 19 4420 Regstrup,19,1100000.0,16-01-2007,Alm.,12359,3,Villa,89,1917,0 %
+Hovedgaden 108 4420 Regstrup,108,1625000.0,30-12-2006,Alm.,11775,7,Villa,138,1963,-3 %
+Engvejen 1B 4420 Regstrup,0,400000.0,21-12-2006,Alm.,1666,5,Villa,240,2013,
+Blanksøvej 4 4420 Regstrup,4,800000.0,20-12-2006,Andet,20000,3,Sommerhus,40,1965,
+Sdr Jernløsevej 65 4420 Regstrup,65,1495000.0,18-12-2006,Alm.,17588,4,Villa,85,1880,
+Hanerupvej 12 4420 Regstrup,12,1595000.0,24-11-2006,Alm.,10224,5,Villa,156,1935,
+Ll Knabstrupvej 7 4420 Regstrup,7,895000.0,12-11-2006,Alm.,10170,3,Villa,88,1827,
+Gl. Skovvej 129 4420 Regstrup,129,1300000.0,07-11-2006,Alm.,15476,4,Villa,84,1932,
+Syrenvænget 2 4420 Regstrup,2,2443750.0,07-11-2006,Alm.,21250,4,Villa,115,2007,
+Ll Knabstrupvej 4 4420 Regstrup,4,1300000.0,06-11-2006,Fam.,10156,5,Villa,128,1973,
+Gartnervænget 11 4420 Regstrup,11,1995000.0,28-10-2006,Alm.,13758,5,Villa,145,1977,
+Nørupvej 4 4420 Regstrup,4,730000.0,26-10-2006,Alm.,12166,3,Villa,60,1780,
+Georginevej 2 4420 Regstrup,2,2628612.0,23-10-2006,Alm.,18775,6,Villa,140,2007,
+Sdr Jernløsevej 3 4420 Regstrup,3,1550000.0,23-10-2006,Alm.,14903,5,Villa,104,1954,
+Regstrupparken 43 4420 Regstrup,43,1850000.0,04-10-2006,Alm.,14122,5,Villa,131,1979,
+Jasminvej 3 4420 Regstrup,3,495000.0,28-09-2006,Alm.,3000,7,Villa,165,2009,
+Nyvej 21 4420 Regstrup,21,1795000.0,28-09-2006,Alm.,14023,4,Villa,128,1978,
+Dramstrup 8 4420 Regstrup,8,795000.0,26-09-2006,Alm.,6625,5,Villa,120,1827,
+Jasminvej 7 4420 Regstrup,7,545200.0,21-09-2006,Alm.,2583,7,Villa,211,2010,
+Løvenborgvej 6 4420 Regstrup,6,1550000.0,19-09-2006,Alm.,11397,4,Villa,136,1930,
+Agervænget 19 4420 Regstrup,19,1745000.0,19-09-2006,Alm.,14072,4,Villa,124,1968,
+Jukkerupvænge 18 4420 Regstrup,18,725000.0,15-09-2006,Alm.,19594,3,Sommerhus,37,1976,
+Teglværksvej 14 4420 Regstrup,14,1650000.0,06-09-2006,Alm.,13306,4,Rækkehus,124,1902,
+Regstrupparken 55 4420 Regstrup,55,1795000.0,04-09-2006,Alm.,11580,4,Villa,155,1979,
+Cikorievej 9 4420 Regstrup,9,990000.0,01-09-2006,Alm.,5722,7,Villa,173,2001,
+Strædet 3 4420 Regstrup,3,2165000.0,22-08-2006,Alm.,11045,7,Villa,196,1980,
+Hyacintvej 6 4420 Regstrup,6,540000.0,21-08-2006,Alm.,3050,6,Villa,177,2008,
+Gyvelvej 5 4420 Regstrup,5,710000.0,20-08-2006,Alm.,4797,6,Villa,148,2007,
+Jukkerupvænge 4 4420 Regstrup,4,695000.0,11-08-2006,Alm.,14183,2,Sommerhus,49,1963,
+Hyacintvej 3 4420 Regstrup,3,710001.0,03-08-2006,Alm.,4057,6,Villa,175,2007,
+Hesselvad 5 4420 Regstrup,5,100000.0,27-07-2006,Alm.,584,6,Stuehus,171,1890,
+Jukkerupvænge 24 4420 Regstrup,24,1000000.0,20-07-2006,Alm.,0,8,Sommerhus,163,1972,
+Nørrevang 12 4420 Regstrup,12,250000.0,03-07-2006,Alm.,1201,6,Villa,208,2007,
+Jasminvej 8 4420 Regstrup,8,591000.0,30-06-2006,Alm.,2326,7,Villa,254,2009,
+Blanksøvej 17 4420 Regstrup,17,600000.0,27-06-2006,Alm.,7142,4,Sommerhus,84,1967,
+Løvenborgvej 27 4420 Regstrup,27,850000.0,25-06-2006,Alm.,5279,5,Villa,161,2007,
+Agervænget 90 4420 Regstrup,90,1935000.0,20-06-2006,Alm.,13344,5,Villa,145,1971,
+"Teglværksvej 28A, 1 4420 Regstrup",1,615913.0,19-06-2006,Fam.,5702,3,Lejlighed,108,1902,
+Skovvejen 9 4420 Regstrup,9,2375000.0,18-06-2006,Alm.,10698,10,Villa,222,1857,
+Nyvej 6 4420 Regstrup,6,2260000.0,14-06-2006,Alm.,13139,5,Villa,172,1969,
+Ådalen 18 4420 Regstrup,18,1650000.0,12-06-2006,Alm.,12043,5,Villa,137,1969,
+Syrenvænget 10 4420 Regstrup,10,865000.0,02-06-2006,Alm.,5179,6,Villa,167,2007,
+Gyvelvej 7 4420 Regstrup,7,710000.0,31-05-2006,Alm.,4965,5,Villa,143,2008,
+Agervænget 72 4420 Regstrup,72,1700000.0,31-05-2006,Alm.,12878,5,Villa,132,1968,
+Bellisvej 15 4420 Regstrup,15,2345000.0,21-05-2006,Alm.,17500,5,Villa,134,2001,
+Kagerupvej 18 4420 Regstrup,18,3250000.0,20-05-2006,Alm.,22887,5,Stuehus,142,1952,
+Løvenborgvej 25 4420 Regstrup,25,1145000.0,16-05-2006,Alm.,10904,3,Villa,105,1958,
+Holbækvej 134 4420 Regstrup,134,2735000.0,12-05-2006,Alm.,17993,5,Villa,152,1830,
+Agervænget 8 4420 Regstrup,8,1995000.0,04-05-2006,Alm.,13571,5,Villa,147,1968,
+Skovgårdsvej 8 4420 Regstrup,8,596250.0,02-05-2006,Fam.,5010,3,Villa,119,1971,
+Holløsevej 9 4420 Regstrup,9,1400000.0,01-05-2006,Fam.,11965,4,Villa,117,1961,
+Sdr Jernløsevej 5 4420 Regstrup,5,650000.0,01-05-2006,Andet,7471,3,Villa,87,1950,
+Knabstrupvej 33 4420 Regstrup,33,627985.0,27-04-2006,Andet,3171,3,Villa,198,1860,
+Hovedgaden 87 4420 Regstrup,87,1175000.0,25-04-2006,Alm.,14687,3,Villa,80,1939,
+Agervænget 92 4420 Regstrup,92,1745000.0,23-04-2006,Alm.,14072,4,Villa,124,1969,
+Engvejen 8 4420 Regstrup,8,740000.0,20-04-2006,Alm.,9250,5,Sommerhus,80,1850,
+Gyvelvej 10 4420 Regstrup,10,695000.0,19-04-2006,Alm.,4964,6,Villa,140,2007,
+Cikorievej 19 4420 Regstrup,19,2265000.0,06-04-2006,Alm.,15839,6,Villa,143,2003,
+Hovedgaden 3 4420 Regstrup,3,1635000.0,30-03-2006,Alm.,14094,3,Villa,116,1880,
+Ådalen 16 4420 Regstrup,16,1600000.0,29-03-2006,Alm.,7142,7,Villa,224,1977,
+Georginevej 12 4420 Regstrup,12,511500.0,26-03-2006,Andet,3118,6,Villa,164,2007,
+Bankehusene 18 4420 Regstrup,18,1450000.0,23-03-2006,Alm.,10139,4,Villa,143,1873,
+Gyvelvej 9 4420 Regstrup,9,710000.0,22-03-2006,Alm.,5107,6,Villa,139,2007,
+Gyvelvej 12 4420 Regstrup,12,765000.0,21-03-2006,Alm.,4872,6,Villa,157,2007,
+Skovgårdsvej 13 4420 Regstrup,13,1495000.0,20-03-2006,Alm.,16611,3,Villa,90,1965,
+Hovedgaden 76 4420 Regstrup,76,1095000.0,20-03-2006,Alm.,10735,3,Villa,102,1906,
+Guldrankevej 2 4420 Regstrup,2,710000.0,19-03-2006,Alm.,3988,7,Villa,178,2008,
+Præstemarken 44 4420 Regstrup,44,2500000.0,16-03-2006,Alm.,13227,6,Villa,189,1930,
+Hovedgaden 70 4420 Regstrup,70,140457.0,13-03-2006,Andet,1032,5,Villa,136,1934,
+Gyvelvej 6 4420 Regstrup,6,765000.0,09-03-2006,Alm.,4636,6,Villa,165,2008,
+Teglværksvej 16 4420 Regstrup,16,1680000.0,07-03-2006,Alm.,13548,4,Rækkehus,124,1902,
+Butterupvej 65 4420 Regstrup,65,950000.0,03-03-2006,Alm.,11875,3,Stuehus,80,1830,
+Knabstrupvej 14 4420 Regstrup,14,1037000.0,03-03-2006,Alm.,5666,8,Villa,183,1907,
+Guldrankevej 6 4420 Regstrup,6,710000.0,02-03-2006,Alm.,4551,6,Villa,156,2007,
+Ll Knabstrupvej 2 4420 Regstrup,2,2250000.0,22-02-2006,Alm.,12162,9,Villa,185,1906,
+Gyvelvej 4 4420 Regstrup,4,765000.0,21-02-2006,Alm.,4297,6,Villa,178,2007,
+Dahliavej 24 4420 Regstrup,24,2315000.0,07-02-2006,Alm.,15032,6,Villa,154,2005,
+Dahliaparken 9 4420 Regstrup,9,450000.0,05-02-2006,Alm.,3214,6,Rækkehus,140,2006,
+Dahliaparken 4 4420 Regstrup,4,650000.0,26-01-2006,Alm.,4577,5,Villa,142,2006,
+Hovedgaden 93 4420 Regstrup,93,1525000.0,23-01-2006,Alm.,8714,6,Villa,175,1929,
+Gyvelvej 8 4420 Regstrup,8,595000.0,16-01-2006,Alm.,3380,7,Villa,176,2006,
+Sdr Jernløsevej 85 4420 Regstrup,85,1425000.0,10-01-2006,Alm.,9313,5,Villa,153,1902,
+Butterup Byvej 1 4420 Regstrup,1,1250000.0,07-01-2006,Alm.,11061,5,Villa,113,1900,
+Bellisvej 13 4420 Regstrup,13,2510000.0,05-01-2006,Alm.,14180,7,Villa,177,1999,
+Guldrankevej 10 4420 Regstrup,10,695000.0,04-01-2006,Alm.,4542,6,Villa,153,2006,
+Agervænget 104 4420 Regstrup,104,425000.0,23-12-2005,Fam.,3483,4,Villa,122,1971,
+Agervænget 118 4420 Regstrup,118,1695000.0,21-12-2005,Alm.,13893,4,Villa,122,1972,
+Sdr Jernløsevej 83 4420 Regstrup,83,1275000.0,21-12-2005,Alm.,18214,2,Villa,70,1946,
+Vinkelvej 14 4420 Regstrup,14,1300000.0,19-12-2005,Alm.,15294,3,Villa,85,1945,
+Agervænget 49 4420 Regstrup,49,1850000.0,13-12-2005,Alm.,10693,6,Villa,173,1969,
+Hovedgaden 1 4420 Regstrup,1,775000.0,12-12-2005,Alm.,8611,3,Villa,90,1885,
+Agervænget 84 4420 Regstrup,84,1595000.0,11-12-2005,Alm.,12862,4,Villa,124,1969,
+Ådalen 15 4420 Regstrup,15,1895000.0,10-12-2005,Alm.,14576,4,Villa,130,1975,
+Hovedgaden 85 4420 Regstrup,85,1725000.0,07-12-2005,Alm.,10087,5,Villa,171,1949,
+Vognserup Engvej 4 4420 Regstrup,4,3000000.0,01-12-2005,Alm.,12931,4,Stuehus,232,1922,
+Hovedgaden 119 4420 Regstrup,119,1500000.0,22-11-2005,Alm.,11111,2,Villa,135,1880,
+Bellisvej 4 4420 Regstrup,4,2265000.0,21-11-2005,Alm.,14707,6,Villa,154,1996,
+Kagerupvej 32 4420 Regstrup,32,1000000.0,20-11-2005,Alm.,0,6,Stuehus,165,1910,
+Erantisvej 9 4420 Regstrup,9,2295000.0,15-11-2005,Alm.,14711,7,Villa,156,1999,
+Erantisvej 17 4420 Regstrup,17,1755000.0,01-11-2005,Alm.,12187,5,Villa,144,1999,
+Sdr Jernløsevej 73 4420 Regstrup,73,695000.0,26-10-2005,Alm.,13365,2,Villa,52,1827,
+Regstrupparken 44 4420 Regstrup,44,1325000.0,17-10-2005,Alm.,10685,4,Villa,124,1979,
+Agervænget 145 4420 Regstrup,145,1765000.0,11-10-2005,Alm.,12977,6,Villa,136,1987,
+Strædet 4B 4420 Regstrup,0,1987500.0,10-10-2005,Alm.,11292,6,Villa,176,2005,
+Hovedgaden 28 4420 Regstrup,28,1575000.0,27-09-2005,Alm.,15000,4,Villa,105,1902,
+Hanerupvej 16 4420 Regstrup,16,1400000.0,27-09-2005,Alm.,9090,4,Villa,154,1921,
+Gyvelvej 1 4420 Regstrup,1,531000.0,26-09-2005,Alm.,3687,6,Villa,144,2006,
+Agervænget 128 4420 Regstrup,128,1495000.0,23-09-2005,Alm.,12254,4,Villa,122,1972,
+Regstrupparken 37 4420 Regstrup,37,1445000.0,23-09-2005,Alm.,15372,4,Villa,94,1979,
+Hanerupvej 8 4420 Regstrup,8,705500.0,18-09-2005,Fam.,8017,4,Villa,88,1958,
+Lodskovvej 7 4420 Regstrup,7,2070000.0,16-09-2005,Alm.,14178,5,Villa,146,1915,
+Dahliaparken 10 4420 Regstrup,10,420000.0,07-09-2005,Alm.,3387,5,Rækkehus,124,2007,
+Skovgårdsvej 18 4420 Regstrup,18,1550000.0,06-09-2005,Alm.,14090,4,Villa,110,1964,
+Guldrankevej 9 4420 Regstrup,9,417000.0,23-08-2005,Alm.,2957,6,Villa,141,2006,
+Georginevej 4 4420 Regstrup,4,450000.0,23-08-2005,Alm.,3125,6,Villa,144,2007,
+Guldrankevej 5 4420 Regstrup,5,414100.0,22-08-2005,Alm.,2250,7,Villa,184,2006,
+Georginevej 8 4420 Regstrup,8,465000.0,20-08-2005,Alm.,2888,5,Villa,161,2008,
+Guldrankevej 12 4420 Regstrup,12,586700.0,18-08-2005,Alm.,3411,6,Villa,172,2006,
+Guldrankevej 4 4420 Regstrup,4,523000.0,15-08-2005,Alm.,3683,6,Villa,142,2006,
+Regstrupparken 74 4420 Regstrup,74,1875000.0,12-08-2005,Alm.,10359,8,Villa,181,1980,
+Nørupvej 7 4420 Regstrup,7,488750.0,08-08-2005,Alm.,2519,5,Villa,194,1880,
+Sdr Jernløsevej 17 4420 Regstrup,17,1395000.0,30-07-2005,Alm.,7459,7,Villa,187,1952,
+Agervænget 5 4420 Regstrup,5,1375000.0,29-07-2005,Alm.,11270,4,Villa,122,1968,
+Dramstrup 7 4420 Regstrup,7,3195000.0,21-07-2005,Alm.,15509,6,Villa,206,2002,
+Holbækvej 73 4420 Regstrup,73,985000.0,13-07-2005,Alm.,16416,2,Villa,60,1877,
+Blanksøvej 6 4420 Regstrup,6,325000.0,13-07-2005,Fam.,4333,3,Sommerhus,75,2012,
+Nørupvej 15 4420 Regstrup,15,645000.0,08-07-2005,Alm.,8376,3,Villa,77,1880,
+Agervænget 77 4420 Regstrup,77,1330000.0,29-06-2005,Alm.,11083,4,Villa,120,1972,
+Gl. Skovvej 152 4420 Regstrup,152,1100000.0,20-06-2005,Alm.,10185,4,Villa,108,1953,
+Kirkebakken 10 4420 Regstrup,10,300000.0,13-06-2005,Alm.,1421,7,Villa,211,2000,
+Blanksøvej 32 4420 Regstrup,32,430000.0,19-05-2005,Alm.,6515,3,Sommerhus,66,1974,
+Dahliavej 12 4420 Regstrup,12,1850000.0,10-05-2005,Alm.,13028,6,Villa,142,2005,
+Sdr Jernløsevej 19 4420 Regstrup,19,1125000.0,06-05-2005,Alm.,10922,3,Villa,103,1957,
+Hovedgaden 64 4420 Regstrup,64,1745000.0,29-04-2005,Alm.,7653,10,Villa,228,1954,
+Hovedgaden 40 4420 Regstrup,40,1675000.0,24-04-2005,Alm.,10029,7,Villa,167,1931,
+Dramstrup 3 4420 Regstrup,3,74000.0,05-04-2005,Alm.,443,5,Stuehus,167,1930,
+Hovedgaden 10 4420 Regstrup,10,425000.0,30-03-2005,Alm.,5448,3,Stuehus,78,1877,
+Butterupvej 92 4420 Regstrup,92,1500000.0,22-03-2005,Alm.,12500,4,Stuehus,120,2008,
+Vinkelvej 3 4420 Regstrup,3,550000.0,20-03-2005,Fam.,3125,4,Villa,176,1967,
+Kirkebakken 2B 4420 Regstrup,0,1195000.0,06-03-2005,Alm.,0,3,Rækkehus,95,2005,
+Hovedgaden 83 4420 Regstrup,83,995000.0,01-03-2005,Alm.,11306,3,Villa,88,1954,
+Knabstrupvej 47 4420 Regstrup,47,2366667.0,20-02-2005,Fam.,10113,10,Stuehus,234,1949,
+Agervænget 38 4420 Regstrup,38,1295000.0,18-02-2005,Alm.,9522,5,Villa,136,1969,
+Kirkebakken 6 4420 Regstrup,6,285000.0,11-02-2005,Alm.,1781,6,Villa,160,2005,
+Dahliaparken 8 4420 Regstrup,8,2145000.0,10-02-2005,Alm.,15888,6,Villa,135,2006,
+Ll Knabstrupvej 12 4420 Regstrup,12,3972200.0,18-01-2005,Alm.,22315,4,Stuehus,178,1880,
+Trønninge By 12 4420 Regstrup,12,1600000.0,15-01-2005,Alm.,9696,5,Stuehus,165,1857,
+Hovedgaden 65 4420 Regstrup,65,1020000.0,13-01-2005,Alm.,7234,5,Villa,141,1930,
+Jukkerupvænge 16 4420 Regstrup,16,174250.0,03-01-2005,Andet,3485,3,Sommerhus,50,1979,
+Kagerupvej 1 4420 Regstrup,1,2350000.0,01-01-2005,Alm.,18359,6,Stuehus,128,1871,
+Engvejen 14 4420 Regstrup,14,150000.0,30-12-2004,Fam.,974,5,Villa,154,1877,
+Agervænget 55 4420 Regstrup,55,1325000.0,22-12-2004,Alm.,10950,4,Villa,121,1969,
+Agervænget 44 4420 Regstrup,44,995000.0,09-12-2004,Alm.,7960,4,Villa,125,1969,
+Agervænget 2 4420 Regstrup,2,1400000.0,08-12-2004,Alm.,7526,5,Villa,186,1968,
+Hovedgaden 9 4420 Regstrup,9,1500000.0,03-12-2004,Andet,10000,5,Stuehus,150,1877,
+Dramstrup 28 4420 Regstrup,28,1000000.0,02-12-2004,Alm.,5882,5,Villa,170,1955,
+Hovedgaden 81 4420 Regstrup,81,575000.0,30-11-2004,Alm.,12234,2,Villa,47,1962,
+Hanerupvej 21 4420 Regstrup,21,775000.0,18-11-2004,Alm.,7380,2,Villa,105,1890,
+Knabstrupvej 37 4420 Regstrup,37,1585000.0,15-11-2004,Alm.,0,6,Villa,178,1938,
+Regstrupparken 36 4420 Regstrup,36,1325000.0,13-11-2004,Alm.,9814,5,Villa,135,1973,
+Dramstrup 16 4420 Regstrup,16,295000.0,28-10-2004,Fam.,0,6,Villa,216,2011,
+Sdr Jernløsevej 61 4420 Regstrup,61,950000.0,28-10-2004,Alm.,8878,4,Villa,107,1935,
+Nyvej 9 4420 Regstrup,9,1350000.0,27-10-2004,Alm.,9926,4,Villa,136,1969,
+Sdr Jernløsevej 29A 4420 Regstrup,0,1285000.0,21-10-2004,Alm.,10447,5,Villa,123,1928,
+Agervænget 95 4420 Regstrup,95,1120000.0,19-10-2004,Alm.,9180,4,Villa,122,1970,
+Hovedgaden 105 4420 Regstrup,105,1150000.0,26-08-2004,Alm.,10000,4,Villa,115,1963,
+Dahliaparken 2 4420 Regstrup,2,325000.0,16-08-2004,Alm.,1737,6,Villa,187,2006,
+Agervænget 57 4420 Regstrup,57,1025000.0,09-08-2004,Alm.,8471,4,Villa,121,1968,
+Nørupvej 20 4420 Regstrup,20,1695000.0,09-07-2004,Alm.,11770,4,Villa,144,1938,
+Sdr Jernløsevej 43B 4420 Regstrup,0,62280.0,23-06-2004,Alm.,311,6,Villa,200,2005,
+Agervænget 80 4420 Regstrup,80,1295000.0,21-06-2004,Alm.,10196,4,Villa,127,1971,
+Trønninge Alle 4 4420 Regstrup,4,1510735.0,11-06-2004,Alm.,6597,8,Stuehus,229,1927,
+Butterup Byvej 8 4420 Regstrup,8,995000.0,04-06-2004,Alm.,9045,3,Villa,110,1827,
+Agervænget 40 4420 Regstrup,40,1150000.0,11-05-2004,Alm.,9426,4,Villa,122,1969,
+Trønninge By 8 4420 Regstrup,8,900000.0,10-05-2004,Alm.,3913,7,Villa,230,1777,
+Kirkebakken 4 4420 Regstrup,4,250000.0,09-05-2004,Alm.,2100,4,Villa,119,2008,
+Kobbelhuse 6 4420 Regstrup,6,2720000.0,04-05-2004,Alm.,28041,4,Villa,97,1954,
+Regstrupparken 82 4420 Regstrup,82,1735000.0,02-05-2004,Alm.,11883,5,Villa,146,1986,
+Holløsevej 25 4420 Regstrup,25,1195000.0,30-04-2004,Alm.,0,4,Villa,156,1885,
+Cikorievej 7 4420 Regstrup,7,230000.0,08-04-2004,Alm.,1729,5,Villa,133,2005,
+Ll Knabstrupvej 5 4420 Regstrup,5,3500000.0,07-04-2004,Alm.,17412,7,Stuehus,201,1880,
+Agervænget 151 4420 Regstrup,151,1200000.0,26-03-2004,Alm.,12765,4,Villa,94,1980,
+Erantisvej 2B 4420 Regstrup,0,1785000.0,19-03-2004,Alm.,11018,6,Villa,162,2001,
+Hovedgaden 78 4420 Regstrup,78,1290000.0,08-03-2004,Alm.,7371,6,Villa,175,1930,
+Dahliavej 18 4420 Regstrup,18,375000.0,29-02-2004,Alm.,2388,6,Villa,157,2005,
+Regstrupparken 72 4420 Regstrup,72,1068000.0,13-02-2004,Alm.,9368,4,Villa,114,1980,
+Hovedgaden 68 4420 Regstrup,68,925000.0,06-02-2004,Alm.,7708,5,Villa,120,1934,
+Nørrevang 5 4420 Regstrup,5,280000.0,20-01-2004,Alm.,1717,7,Villa,163,2004,
+Nørupvej 12 4420 Regstrup,12,1521430.0,05-01-2004,Alm.,10009,6,Stuehus,152,1800,
+Møsten 1 4420 Regstrup,1,450000.0,30-12-2003,Fam.,6000,4,Stuehus,75,1877,
+Gl. Skovvej 123B 4420 Regstrup,0,900000.0,23-12-2003,Alm.,10344,4,Rækkehus,87,1984,
+Præstemarken 2 4420 Regstrup,2,1400000.0,18-12-2003,Alm.,8187,5,Villa,171,1978,
+Dahliavej 1 4420 Regstrup,1,259000.0,11-12-2003,Alm.,1550,5,Villa,167,2006,
+Jukkerupvej 1 4420 Regstrup,1,400000.0,10-12-2003,Fam.,2597,6,Stuehus,154,1927,
+Dahliavej 14 4420 Regstrup,14,160000.0,04-12-2003,Alm.,898,5,Villa,178,2005,
+Agervænget 63 4420 Regstrup,63,1320000.0,19-11-2003,Alm.,7951,6,Villa,166,1969,
+Dahliavej 6 4420 Regstrup,6,1575000.0,19-11-2003,Alm.,12209,5,Villa,129,2003,
+Engvejen 12 4420 Regstrup,12,132264.0,11-11-2003,Fam.,0,5,Villa,172,1870,
+Agervænget 135 4420 Regstrup,135,915000.0,24-10-2003,Alm.,6727,5,Villa,136,1973,
+Cikorievej 10 4420 Regstrup,10,259000.0,22-10-2003,Alm.,1811,5,Villa,143,2004,
+Severinsmindevej 1 4420 Regstrup,1,600000.0,06-10-2003,Alm.,4444,5,Villa,135,1827,
+Borupvej 25 4420 Regstrup,25,640000.0,02-10-2003,Alm.,5470,5,Villa,117,1927,
+Hovedgaden 84 4420 Regstrup,84,405000.0,19-09-2003,Alm.,0,5,Villa,185,1920,
+Trønninge Alle 9 4420 Regstrup,9,1150000.0,16-09-2003,Fam.,7986,5,Stuehus,144,1927,
+Sdr Jernløsevej 49 4420 Regstrup,49,900000.0,12-09-2003,Alm.,2866,9,Villa,314,1924,
+Cikorievej 13 4420 Regstrup,13,216000.0,06-09-2003,Alm.,1080,7,Villa,200,2004,
+Agervænget 85 4420 Regstrup,85,1275000.0,30-07-2003,Alm.,7727,7,Villa,165,1970,
+Ådalen 21 4420 Regstrup,21,1259162.0,24-06-2003,Alm.,9685,5,Villa,130,1973,
+Dramstrup 5 4420 Regstrup,5,870000.0,19-06-2003,Alm.,0,3,Villa,130,1967,
+Hovedgaden 39 4420 Regstrup,39,582973.0,17-06-2003,Alm.,9402,2,Villa,62,1960,
+Løvenborgvej 8 4420 Regstrup,8,1050000.0,10-06-2003,Alm.,8898,7,Villa,118,1920,
+Agervænget 107 4420 Regstrup,107,875000.0,30-05-2003,Andet,7172,4,Villa,122,1973,
+Begoniavej 1 4420 Regstrup,1,365000.0,22-04-2003,Alm.,1460,6,Villa,250,2007,
+Kagerupvej 4 4420 Regstrup,4,1100000.0,24-03-2003,Alm.,0,7,Villa,213,1848,
+Holløsevej 7 4420 Regstrup,7,1070000.0,19-03-2003,Alm.,9145,4,Villa,117,1961,
+Lysmosevej 5 4420 Regstrup,5,1053739.0,20-02-2003,Alm.,9940,3,Villa,106,1936,
+Agervænget 137 4420 Regstrup,137,1430000.0,15-02-2003,Alm.,7486,5,Villa,191,1969,
+Agervænget 37 4420 Regstrup,37,1015000.0,29-01-2003,Alm.,8458,4,Villa,120,1973,
+Løvenborg Alle 10 4420 Regstrup,10,1800000.0,29-01-2003,Alm.,6122,7,Stuehus,294,1930,
+Sdr Jernløsevej 7 4420 Regstrup,7,1130000.0,27-01-2003,Alm.,5650,6,Villa,200,1953,
+Holbækvej 136 4420 Regstrup,136,828329.0,26-01-2003,Alm.,6135,5,Villa,135,1903,
+Trønninge By 14 4420 Regstrup,14,1318000.0,20-01-2003,Alm.,8036,5,Villa,164,1968,
+Strædet 4A 4420 Regstrup,0,895000.0,15-01-2003,Alm.,6580,5,Rækkehus,136,1880,
+Holbækvej 120 4420 Regstrup,120,1890000.0,04-01-2003,Alm.,13216,4,Stuehus,143,1915,
+Gl. Skovvej 119 4420 Regstrup,119,280925.0,18-12-2002,Alm.,2112,5,Stuehus,133,1937,
+Borupvej 21 4420 Regstrup,21,922237.0,28-11-2002,Alm.,4009,9,Stuehus,230,2003,
+Trønninge By 22 4420 Regstrup,22,810000.0,14-11-2002,Alm.,7500,2,Villa,108,1927,
+Skovgårdsvej 10 4420 Regstrup,10,1000000.0,28-10-2002,Alm.,9615,4,Villa,104,1964,
+Løvenborgvej 19 4420 Regstrup,19,775000.0,27-09-2002,Alm.,0,6,Villa,141,1957,
+Lodskovvej 1 4420 Regstrup,1,2425000.0,18-09-2002,Alm.,15849,7,Stuehus,153,1834,
+Regstrupparken 21 4420 Regstrup,21,1360000.0,12-09-2002,Alm.,8500,5,Villa,160,1971,
+Agervænget 34 4420 Regstrup,34,985000.0,04-09-2002,Alm.,6042,6,Villa,163,1969,
+Gl. Skovvej 138 4420 Regstrup,138,770000.0,04-09-2002,Alm.,0,6,Villa,214,1902,
+Løvenborgvej 3 4420 Regstrup,3,200000.0,28-08-2002,Alm.,760,5,Villa,263,2009,
+Butterup Byvej 14 4420 Regstrup,14,1580000.0,17-08-2002,Alm.,0,10,Stuehus,284,1881,
+Gl. Skovvej 142 4420 Regstrup,142,780000.0,08-08-2002,Alm.,7222,6,Villa,108,1928,
+Jukkerupvænge 12B 4420 Regstrup,0,100000.0,16-07-2002,Alm.,1428,4,Sommerhus,70,2007,
+Tømmerkrogen 1 4420 Regstrup,1,1010000.0,12-07-2002,Alm.,10412,4,Villa,97,1960,
+Ådalen 17 4420 Regstrup,17,1200000.0,03-07-2002,Alm.,9230,5,Villa,130,1972,
+Nørupvej 6A 4420 Regstrup,0,1176147.0,02-07-2002,Alm.,8461,6,Villa,139,1929,
+Gl. Skovvej 139 4420 Regstrup,139,1010000.0,27-06-2002,Alm.,8211,4,Villa,123,1972,
+Mogenstrupvej 25 4420 Regstrup,25,2271000.0,06-06-2002,Alm.,0,6,Stuehus,214,1967,
+Knabstrupvej 25 4420 Regstrup,25,1657500.0,01-06-2002,Andet,8125,8,Stuehus,204,1890,
+Lodskovvej 4 4420 Regstrup,4,1083457.0,30-05-2002,Alm.,10032,3,Stuehus,108,1913,
+Gl. Skovvej 125 4420 Regstrup,125,1853656.0,22-05-2002,Alm.,6994,9,Villa,265,1869,
+Knabstrupvej 15 4420 Regstrup,15,182560.0,22-05-2002,Alm.,754,8,Stuehus,242,1780,
+Trønninge Mose 5 4420 Regstrup,5,495000.0,11-04-2002,Alm.,19800,2,Sommerhus,25,1962,
+Cikorievej 1 4420 Regstrup,1,206000.0,09-04-2002,Alm.,1391,6,Villa,148,2003,
+Sdr Jernløsevej 13 4420 Regstrup,13,1025190.0,23-03-2002,Alm.,6880,5,Villa,149,1950,
+Cikorievej 12 4420 Regstrup,12,240000.0,20-03-2002,Alm.,1610,6,Villa,149,2004,
+Skovvejen 10 4420 Regstrup,10,472940.0,19-03-2002,Alm.,4682,4,Villa,101,1960,
+Regstrupparken 68 4420 Regstrup,68,1452837.0,15-03-2002,Alm.,9621,5,Villa,151,1978,
+Regstrupparken 41 4420 Regstrup,41,1275000.0,09-03-2002,Alm.,10282,4,Villa,124,1979,
+Holløsevej 3 4420 Regstrup,3,727252.0,04-03-2002,Alm.,5771,3,Villa,126,1750,
+Cikorievej 2 4420 Regstrup,2,206000.0,24-02-2002,Alm.,1482,5,Villa,139,2004,
+Strædet 6 4420 Regstrup,6,1465000.0,01-02-2002,Alm.,9331,8,Villa,157,1810,
+Hanerupvej 5 4420 Regstrup,5,1220000.0,21-01-2002,Alm.,7439,4,Villa,164,1974,
+Holløsevej 10A 4420 Regstrup,0,589836.0,15-12-2001,Fam.,3429,5,Villa,172,1968,
+Knabstrupvej 2 4420 Regstrup,2,70000.0,07-12-2001,Alm.,312,7,Stuehus,224,1870,
+Dramstrup 12 4420 Regstrup,12,1650000.0,04-12-2001,Alm.,9482,6,Stuehus,174,1935,
+Knabstrupvej 45 4420 Regstrup,45,440000.0,04-12-2001,Fam.,2875,6,Villa,153,1915,
+Hovedgaden 34 4420 Regstrup,34,785000.0,01-12-2001,Alm.,7008,4,Villa,112,1961,
+Dahliavej 4 4420 Regstrup,4,226000.0,27-11-2001,Alm.,1649,6,Villa,137,2002,
+Teglværksvej 8 4420 Regstrup,8,1295000.0,30-10-2001,Alm.,9961,5,Rækkehus,130,1902,
+Cikorievej 14 4420 Regstrup,14,245000.0,11-10-2001,Alm.,1801,5,Villa,136,2004,
+Bankehusene 10 4420 Regstrup,10,849000.0,11-10-2001,Alm.,13693,3,Villa,62,1962,
+Skovvejen 1 4420 Regstrup,1,1200000.0,23-09-2001,Fam.,8888,4,Stuehus,135,1874,
+Ådalen 5 4420 Regstrup,5,1030931.0,22-09-2001,Alm.,7363,4,Villa,140,1973,
+Trønninge Alle 5 4420 Regstrup,5,1701200.0,20-09-2001,Alm.,7494,8,Stuehus,227,1927,
+Regstrupparken 4 4420 Regstrup,4,638014.0,18-09-2001,Alm.,8076,3,Villa,79,1972,
+Skovgårdsvej 6 4420 Regstrup,6,1121000.0,07-09-2001,Alm.,7523,5,Villa,149,1968,
+Engvejen 3 4420 Regstrup,3,1140000.0,03-09-2001,Alm.,4560,5,Stuehus,250,1880,
+Lysmosevej 3 4420 Regstrup,3,702168.0,20-08-2001,Alm.,2819,7,Stuehus,249,1971,
+Nyvej 12 4420 Regstrup,12,1120796.0,23-07-2001,Alm.,6592,7,Villa,170,1970,
+Sdr Jernløsevej 79 4420 Regstrup,79,1725000.0,29-06-2001,Alm.,11423,5,Stuehus,151,1904,
+Nyvej 2 4420 Regstrup,2,907675.0,13-06-2001,Alm.,7261,4,Villa,125,1967,
+Møsten 10 4420 Regstrup,10,430000.0,01-06-2001,Fam.,3944,3,Stuehus,109,1930,
+Nørupvej 23 4420 Regstrup,23,1205500.0,23-05-2001,Alm.,8863,4,Villa,136,1900,
+Løvenborg Alle 14 4420 Regstrup,14,1876258.0,07-05-2001,Alm.,12027,5,Stuehus,156,1927,
+Teglværksvej 28B 4420 Regstrup,0,1710550.0,25-04-2001,Alm.,5571,7,Villa,307,1947,
+Løvenborg Alle 12 4420 Regstrup,12,800000.0,09-04-2001,Alm.,0,4,Stuehus,152,1927,
+Erantisvej 3 4420 Regstrup,3,210000.0,03-04-2001,Alm.,1363,5,Villa,154,2001,
+Blanksøvej 24 4420 Regstrup,24,170000.0,26-03-2001,Fam.,2881,3,Sommerhus,59,1962,
+Holløsevej 6 4420 Regstrup,6,885000.0,16-03-2001,Alm.,6020,5,Villa,147,1908,
+Strædet 2 4420 Regstrup,2,461639.0,28-02-2001,Alm.,5245,4,Villa,88,1780,
+Dramstrup 24 4420 Regstrup,24,1228780.0,18-02-2001,Alm.,12046,5,Villa,102,1956,
+Holløsevej 15 4420 Regstrup,15,803492.0,14-02-2001,Alm.,8034,4,Villa,100,1910,
+Jukkerupvænge 28 4420 Regstrup,28,548788.0,15-01-2001,Alm.,8442,3,Sommerhus,65,1977,
+Hovedgaden 75 4420 Regstrup,75,64260.0,17-12-2000,Alm.,276,7,Stuehus,232,1899,
+Vognserup 10 4420 Regstrup,10,1685000.0,20-11-2000,Alm.,11158,1,Villa,151,1921,
+Mogenstrupvej 8 4420 Regstrup,8,442000.0,06-11-2000,Fam.,3777,3,Villa,117,1875,
+Jukkerupvænge 26 4420 Regstrup,26,156000.0,31-10-2000,Fam.,3900,2,Sommerhus,40,1973,
+Tømmerkrogen 8 4420 Regstrup,8,890000.0,31-10-2000,Alm.,5933,7,Villa,150,1961,
+Ådalen 9 4420 Regstrup,9,899468.0,24-10-2000,Alm.,7495,4,Villa,120,1972,
+Holløsevej 23 4420 Regstrup,23,674999.0,20-10-2000,Alm.,0,6,Villa,162,1882,
+Overdrevsvej 18 4420 Regstrup,18,525000.0,01-10-2000,Alm.,5000,3,Villa,105,1900,
+Vinkelvej 12 4420 Regstrup,12,977500.0,28-09-2000,Fam.,4250,6,Villa,230,1961,
+Jukkerupvænge 11 4420 Regstrup,11,380000.0,19-09-2000,Alm.,0,6,Sommerhus,85,1967,
+Hanerupvej 3 4420 Regstrup,3,747950.0,08-09-2000,Alm.,9121,3,Villa,82,1966,
+Erantisvej 19 4420 Regstrup,19,150000.0,02-08-2000,Alm.,1086,6,Villa,138,2001,
+Hovedgaden 5 4420 Regstrup,5,348000.0,21-07-2000,Alm.,1432,6,Villa,243,1877,
+Gl. Skovvej 113 4420 Regstrup,113,1142626.0,14-07-2000,Alm.,0,3,Villa,89,1905,
+Agervænget 23 4420 Regstrup,23,881000.0,13-07-2000,Alm.,0,5,Villa,157,1969,
+Agervænget 86 4420 Regstrup,86,632242.0,30-06-2000,Fam.,3592,5,Villa,176,1970,
+Butterup Byvej 19 4420 Regstrup,19,2390000.0,12-06-2000,Alm.,15031,6,Stuehus,159,1900,
+Regstrupparken 61 4420 Regstrup,61,1210100.0,03-06-2000,Alm.,6335,5,Villa,191,1979,
+Gl. Skovvej 133 4420 Regstrup,133,1200000.0,27-05-2000,Fam.,6521,6,Villa,184,1920,
+Søstrupvej 78 4420 Regstrup,78,70000.0,22-05-2000,Alm.,414,6,Villa,169,1900,
+Knabstrupvej 41 4420 Regstrup,41,500340.0,15-05-2000,Alm.,0,4,Villa,159,1900,
+Nørupvej 24 4420 Regstrup,24,3050000.0,07-05-2000,Alm.,18597,6,Stuehus,164,1898,
+Løvenborgvej 15 4420 Regstrup,15,840400.0,06-05-2000,Alm.,6464,5,Villa,130,1885,
+Agervænget 6 4420 Regstrup,6,989524.0,05-05-2000,Alm.,7853,4,Villa,126,1968,
+Hovedgaden 43 4420 Regstrup,43,608040.0,24-04-2000,Fam.,5333,5,Villa,114,1955,
+Nørupvej 26 4420 Regstrup,26,950000.0,12-04-2000,Alm.,0,10,Stuehus,331,1871,
+Hanerupvej 17 4420 Regstrup,17,4100000.0,05-04-2000,Alm.,28472,4,Stuehus,144,1876,
+Vinkelvej 10 4420 Regstrup,10,730000.0,01-03-2000,Alm.,5488,5,Villa,133,2012,
+Knabstrupvej 18 4420 Regstrup,18,1315000.0,23-02-2000,Fam.,5923,6,Stuehus,222,1946,
+Hanerupvej 23 4420 Regstrup,23,1333721.0,20-02-2000,Alm.,11802,4,Villa,113,1886,
+Knabstrupvej 9 4420 Regstrup,9,925000.0,15-02-2000,Alm.,4973,6,Villa,186,1922,
+Agervænget 67 4420 Regstrup,67,1040113.0,10-02-2000,Alm.,7704,5,Villa,135,1969,
+Erantisvej 2A 4420 Regstrup,0,179198.0,22-01-2000,Alm.,1119,6,Villa,160,2001,
+Knabstrupvej 1 4420 Regstrup,1,777850.0,10-01-2000,Alm.,5556,6,Villa,140,1922,
+Erantisvej 1 4420 Regstrup,1,164934.0,14-12-1999,Alm.,1161,5,Villa,142,2001,
+Butterup Byvej 27 4420 Regstrup,27,1700000.0,06-12-1999,Alm.,6827,10,Stuehus,249,1910,
+Virkelyst 2 4420 Regstrup,2,1650000.0,28-10-1999,Andet,10645,5,Villa,155,1979,
+Søstrupvej 76 4420 Regstrup,76,511312.0,27-10-1999,Fam.,5113,3,Villa,100,1959,
+Teglværksvej 22 4420 Regstrup,22,2030000.0,10-09-1999,Alm.,4787,11,Villa,424,1930,
+Nørrevang 2 4420 Regstrup,2,725000.0,07-09-1999,Alm.,10211,3,Villa,71,1948,
+Jukkerupvej 3 4420 Regstrup,3,511000.0,16-08-1999,Alm.,3134,7,Stuehus,163,2002,
+Blanksøvej 13 4420 Regstrup,13,339000.0,08-08-1999,Alm.,5467,4,Sommerhus,62,1968,
+Agervænget 124 4420 Regstrup,124,1008000.0,07-08-1999,Alm.,7466,5,Villa,135,1977,
+Bankehusene 12 4420 Regstrup,12,682720.0,31-07-1999,Alm.,0,5,Villa,158,1850,
+Gl. Skovvej 135 4420 Regstrup,135,420000.0,25-07-1999,Alm.,5384,4,Villa,78,1956,
+Sdr Jernløsevej 2 4420 Regstrup,2,2758000.0,23-07-1999,Alm.,15237,8,Stuehus,181,1918,
+Blanksøvej 28 4420 Regstrup,28,231540.0,21-06-1999,Alm.,0,5,Sommerhus,151,1964,
+Gl. Skovvej 131A 4420 Regstrup,0,810960.0,09-06-1999,Alm.,0,9,Villa,250,1877,
+Gl. Skovvej 127 4420 Regstrup,127,445000.0,31-05-1999,Alm.,3588,5,Rækkehus,124,1927,
+Jukkerupvænge 30 4420 Regstrup,30,1358771.0,29-05-1999,Alm.,0,5,Villa,122,1830,
+Erantisvej 5 4420 Regstrup,5,182259.0,26-05-1999,Alm.,1687,4,Villa,108,1999,
+Møsten 19 4420 Regstrup,19,347000.0,14-05-1999,Alm.,1770,8,Villa,196,1877,
+Hanerupvej 15 4420 Regstrup,15,670000.0,12-05-1999,Alm.,2768,8,Stuehus,242,2003,
+Butterup Byvej 11 4420 Regstrup,11,1942266.0,08-05-1999,Alm.,11226,8,Stuehus,173,1900,
+Agervænget 17 4420 Regstrup,17,1123290.0,01-05-1999,Alm.,5790,6,Villa,194,1968,
+Sdr Jernløsevej 57 4420 Regstrup,57,587500.0,20-04-1999,Alm.,4554,5,Villa,129,1927,
+Blanksøvej 10 4420 Regstrup,10,316000.0,23-03-1999,Alm.,5355,4,Sommerhus,59,1964,
+Agervænget 94 4420 Regstrup,94,892025.0,27-01-1999,Alm.,7311,5,Villa,122,1972,
+Sdr Jernløsevej 6 4420 Regstrup,6,1500000.0,16-12-1998,Alm.,5067,10,Villa,296,1900,
+Mogenstrupvej 9 4420 Regstrup,9,91666.0,16-12-1998,Alm.,659,6,Villa,139,1932,
+Hovedgaden 17 4420 Regstrup,17,560000.0,06-11-1998,Alm.,5384,5,Villa,104,1943,
+Vinkelvej 9 4420 Regstrup,9,533000.0,04-11-1998,Alm.,3862,5,Villa,138,2008,
+Hovedgaden 27 4420 Regstrup,27,672879.0,05-10-1998,Alm.,8010,4,Villa,84,1950,
+Vinkelvej 16 4420 Regstrup,16,800000.0,23-09-1998,Fam.,5333,5,Villa,150,1939,
+Butterup Byvej 16 4420 Regstrup,16,244972.0,09-09-1998,Fam.,927,7,Stuehus,264,1926,
+Sdr Jernløsevej 31 4420 Regstrup,31,947000.0,07-09-1998,Alm.,7637,6,Villa,124,1957,
+Holbækvej 126 4420 Regstrup,126,188400.0,02-09-1998,Alm.,5233,2,Villa,36,1964,
+Gl. Skovvej 136 4420 Regstrup,136,1424349.0,24-08-1998,Alm.,9495,6,Stuehus,150,1897,
+Møsten 6 4420 Regstrup,6,1047060.0,14-08-1998,Alm.,7756,3,Stuehus,135,1965,
+Sdr Jernløsevej 67 4420 Regstrup,67,1278350.0,14-08-1998,Alm.,7101,5,Villa,180,1906,
+Gl. Skovvej 122 4420 Regstrup,122,107074.0,27-06-1998,Alm.,1049,4,Stuehus,102,1917,
+Agervænget 122 4420 Regstrup,122,864000.0,27-06-1998,Alm.,7081,4,Villa,122,1973,
+Bankehusene 3 4420 Regstrup,3,448000.0,01-06-1998,Alm.,5090,4,Villa,88,1969,
+Kagerupvej 22 4420 Regstrup,22,676280.0,30-05-1998,Alm.,5325,7,Villa,127,1880,
+Vinkelvej 8 4420 Regstrup,8,554720.0,25-05-1998,Alm.,6683,3,Villa,83,1948,
+Agervænget 110 4420 Regstrup,110,740854.0,25-05-1998,Alm.,6072,4,Villa,122,1972,
+Holbækvej 85 4420 Regstrup,85,1300000.0,21-05-1998,Alm.,8227,5,Stuehus,158,1890,
+Sdr Jernløsevej 22 4420 Regstrup,22,915000.0,21-05-1998,Fam.,5903,4,Stuehus,155,1878,
+Teglværksvej 18 4420 Regstrup,18,760000.0,20-05-1998,Alm.,9620,3,Rækkehus,79,1902,
+Hanerupvej 11 4420 Regstrup,11,1566000.0,20-05-1998,Alm.,10302,6,Stuehus,152,1899,
+Agervænget 141 4420 Regstrup,141,1155000.0,18-05-1998,Alm.,7598,5,Villa,152,1980,
+Hovedgaden 47 4420 Regstrup,47,548226.0,14-05-1998,Alm.,6374,3,Villa,86,1922,
+Lysmosevej 1 4420 Regstrup,1,665000.0,11-05-1998,Alm.,3228,6,Stuehus,206,1894,
+Sdr Jernløsevej 24 4420 Regstrup,24,1464560.0,22-04-1998,Alm.,0,9,Stuehus,268,1921,
+Kagerupvej 38 4420 Regstrup,38,1340000.0,20-04-1998,Fam.,9571,3,Stuehus,140,1770,
+Trønninge By 33 4420 Regstrup,33,627000.0,15-04-1998,Alm.,4125,6,Stuehus,152,1777,
+Agervænget 140 4420 Regstrup,140,903622.0,15-04-1998,Alm.,6743,5,Villa,134,1980,
+Holløsevej 5 4420 Regstrup,5,275876.0,08-04-1998,Fam.,0,4,Villa,185,1959,
+Kobbelhuse 2 4420 Regstrup,2,617500.0,04-04-1998,Alm.,0,7,Villa,205,1904,
+Butterupvej 59 4420 Regstrup,59,510063.0,26-03-1998,Alm.,2476,6,Villa,206,1930,
+Holløsevej 2B 4420 Regstrup,0,965000.0,03-03-1998,Alm.,6185,6,Villa,156,1978,
+Bellisvej 9 4420 Regstrup,9,69375.0,02-03-1998,Alm.,433,5,Villa,160,1998,
+Bellisvej 11 4420 Regstrup,11,48100.0,02-03-1998,Alm.,358,5,Villa,134,1999,
+Møsten 23 4420 Regstrup,23,817950.0,16-02-1998,Alm.,0,5,Villa,159,1897,
+Agervænget 117 4420 Regstrup,117,774000.0,09-02-1998,Alm.,0,9,Villa,221,1972,
+Agervænget 71 4420 Regstrup,71,840000.0,16-01-1998,Alm.,6315,4,Villa,133,1970,
+Jukkerupvænge 21 4420 Regstrup,21,290000.0,17-11-1997,Alm.,0,4,Sommerhus,78,1975,
+Gl. Skovvej 103 4420 Regstrup,103,1013000.0,01-10-1997,Alm.,8104,3,Villa,125,1914,
+Bankehusene 20 4420 Regstrup,20,1091995.0,28-09-1997,Alm.,8878,5,Stuehus,123,1922,
+Knabstrupvej 10 4420 Regstrup,10,2898000.0,26-08-1997,Fam.,18576,6,Stuehus,156,1935,
+Butterup Byvej 33 4420 Regstrup,33,350000.0,28-07-1997,Alm.,4117,3,Villa,85,1885,
+Søstrupvej 70 4420 Regstrup,70,523000.0,20-06-1997,Alm.,0,8,Villa,239,1905,
+Kagerupvej 7 4420 Regstrup,7,326000.0,12-06-1997,Alm.,4939,3,Villa,66,1802,
+Gl. Skovvej 141 4420 Regstrup,141,724760.0,02-06-1997,Alm.,0,5,Villa,168,1972,
+Hovedgaden 33 4420 Regstrup,33,660000.0,24-05-1997,Alm.,6534,3,Villa,101,1954,
+Regstrupparken 70 4420 Regstrup,70,793600.0,11-04-1997,Alm.,7416,3,Villa,107,1979,
+Hovedgaden 23 4420 Regstrup,23,380000.0,07-04-1997,Alm.,3958,3,Villa,96,1959,
+Agervænget 125 4420 Regstrup,125,815000.0,29-03-1997,Alm.,6735,4,Villa,121,1970,
+Bellisvej 3 4420 Regstrup,3,73520.0,23-03-1997,Alm.,574,5,Villa,128,1997,
+Borupvej 28 4420 Regstrup,28,436000.0,14-03-1997,Alm.,0,3,Villa,120,1897,
+Sdr Jernløsevej 10 4420 Regstrup,10,100000.0,08-03-1997,Alm.,666,6,Villa,150,1880,
+Nørupvej 16B 4420 Regstrup,0,862695.0,04-02-1997,Alm.,6438,5,Villa,134,1979,
+Bellisvej 10 4420 Regstrup,10,129258.0,25-01-1997,Alm.,964,5,Villa,134,1998,
+Knabstrupvej 35 4420 Regstrup,35,665000.0,25-01-1997,Alm.,3341,9,Villa,199,1900,
+Vognserup Engvej 1 4420 Regstrup,1,872953.0,30-12-1996,Alm.,4618,7,Stuehus,189,1922,
+Nørupvej 8 4420 Regstrup,8,494200.0,17-12-1996,Alm.,5680,5,Villa,87,1830,
+Løvenborgvej 37 4420 Regstrup,37,854280.0,31-10-1996,Alm.,0,6,Villa,186,1856,
+Vinkelvej 7 4420 Regstrup,7,510000.0,20-10-1996,Fam.,0,7,Villa,190,1967,
+Butterupvej 68 4420 Regstrup,68,594964.0,02-09-1996,Alm.,5890,3,Villa,101,1962,
+Holbækvej 95 4420 Regstrup,95,2170000.0,31-08-1996,Alm.,6781,12,Stuehus,320,1878,
+Agergårdsvej 3 4420 Regstrup,3,972941.0,26-08-1996,Alm.,6486,5,Villa,150,1956,
+Trønninge By 10 4420 Regstrup,10,553000.0,11-08-1996,Alm.,3477,5,Villa,159,1910,
+Holbækvej 91 4420 Regstrup,91,800000.0,31-07-1996,Alm.,5714,4,Villa,140,1913,
+Holløsevej 1B 4420 Regstrup,0,73200.0,21-07-1996,Fam.,0,7,Villa,206,1997,
+Sdr Jernløsevej 77 4420 Regstrup,77,995000.0,25-06-1996,Alm.,11987,5,Stuehus,83,1904,
+Kagerupvej 3 4420 Regstrup,3,312000.0,03-06-1996,Alm.,5032,3,Villa,62,1962,
+Hovedgaden 63 4420 Regstrup,63,560000.0,20-05-1996,Alm.,0,5,Villa,131,1927,
+Hanerupvej 20 4420 Regstrup,20,400000.0,14-04-1996,Alm.,0,5,Villa,139,1850,
+Regstrupparken 50 4420 Regstrup,50,685000.0,25-03-1996,Alm.,0,5,Villa,137,1979,
+Regstrupparken 46 4420 Regstrup,46,640000.0,22-02-1996,Fam.,6597,4,Villa,97,1978,
+Bellisvej 6 4420 Regstrup,6,91996.0,16-02-1996,Alm.,652,6,Villa,141,1997,
+Gl. Skovvej 123C 4420 Regstrup,0,487190.0,13-02-1996,Alm.,5536,4,Rækkehus,88,1984,
+Kagerupvej 2 4420 Regstrup,2,848960.0,12-02-1996,Alm.,0,8,Stuehus,205,1880,
+Regstrupparken 51 4420 Regstrup,51,980000.0,30-01-1996,Alm.,5764,7,Villa,170,1980,
+Ll Knabstrupvej 10 4420 Regstrup,10,595000.0,21-01-1996,Alm.,5950,3,Villa,100,1932,
+Løvenborg Alle 8 4420 Regstrup,8,665000.0,20-12-1995,Auktion,0,7,Stuehus,231,1927,
+Regstrupparken 56 4420 Regstrup,56,646870.0,18-12-1995,Alm.,5093,5,Villa,127,1979,
+Blanksøvej 26 4420 Regstrup,26,140000.0,28-11-1995,Andet,1728,5,Sommerhus,81,1972,
+Holbækvej 124 4420 Regstrup,124,407970.0,08-11-1995,Alm.,0,6,Villa,148,1946,
+Nørupvej 16A 4420 Regstrup,0,685000.0,27-10-1995,Alm.,0,6,Villa,199,1900,
+Regstrupparken 84 4420 Regstrup,84,980000.0,08-10-1995,Alm.,0,4,Villa,140,1980,
+Skovvejen 7 4420 Regstrup,7,905000.0,23-09-1995,Alm.,5201,7,Stuehus,174,1880,
+Trønninge By 11 4420 Regstrup,11,1515120.0,06-09-1995,Alm.,6260,7,Stuehus,242,1916,
+Agervænget 96 4420 Regstrup,96,616000.0,01-09-1995,Alm.,5133,4,Villa,120,1973,
+Agervænget 18 4420 Regstrup,18,612000.0,20-08-1995,Alm.,5016,4,Villa,122,1967,
+Agervænget 35 4420 Regstrup,35,785000.0,03-08-1995,Alm.,4968,5,Villa,158,1968,
+Ådalen 4 4420 Regstrup,4,640000.0,23-07-1995,Alm.,4705,5,Villa,136,1972,
+Agervænget 33 4420 Regstrup,33,300000.0,18-07-1995,Alm.,1685,6,Villa,178,1969,
+Dramstrup 22 4420 Regstrup,22,880000.0,24-06-1995,Alm.,4055,6,Villa,217,1925,
+Løvenborgvej 17 4420 Regstrup,17,480000.0,26-05-1995,Alm.,0,6,Villa,148,1923,
+Bankehusene 7 4420 Regstrup,7,620000.0,28-04-1995,Alm.,4000,6,Stuehus,155,1860,
+Skovgårdsvej 22 4420 Regstrup,22,380000.0,06-04-1995,Alm.,3518,4,Villa,108,1966,
+Jukkerupvænge 15 4420 Regstrup,15,158500.0,19-03-1995,Alm.,0,3,Sommerhus,56,1971,
+Blanksøvej 18 4420 Regstrup,18,250000.0,15-03-1995,Alm.,0,3,Sommerhus,61,1964,
+Hovedgaden 92 4420 Regstrup,92,635000.0,27-02-1995,Alm.,3871,5,Villa,164,1875,
+Knabstrupvej 26 4420 Regstrup,26,415000.0,13-02-1995,Alm.,0,6,Villa,199,1800,
+Sdr Jernløsevej 15 4420 Regstrup,15,530000.0,16-12-1994,Alm.,4862,4,Villa,109,1957,
+Nørupvej 22 4420 Regstrup,22,749800.0,12-12-1994,Alm.,9865,4,Villa,76,1938,
+Hovedgaden 121 4420 Regstrup,121,155000.0,10-12-1994,Alm.,968,6,Villa,160,1867,
+Lodskovvej 2 4420 Regstrup,2,1208000.0,08-10-1994,Fam.,6291,3,Stuehus,192,1929,
+Dramstrup 30 4420 Regstrup,30,517000.0,15-09-1994,Alm.,0,8,Villa,161,1953,
+Regstrupparken 86 4420 Regstrup,86,805000.0,30-06-1994,Alm.,3985,5,Villa,202,1979,
+Hovedgaden 80 4420 Regstrup,80,558947.0,25-06-1994,Alm.,3105,6,Villa,180,1910,
+Knabstrupvej 23 4420 Regstrup,23,384640.0,08-06-1994,Alm.,0,6,Villa,203,1800,
+Hovedgaden 20 4420 Regstrup,20,585000.0,27-05-1994,Alm.,4834,6,Villa,121,1907,
+Gartnervænget 27 4420 Regstrup,27,775000.0,15-05-1994,Alm.,6300,4,Villa,123,1976,
+Nørupvej 18A 4420 Regstrup,0,935840.0,05-05-1994,Alm.,2835,8,Villa,330,1869,
+Nyvej 1 4420 Regstrup,1,680000.0,29-04-1994,Alm.,4444,5,Villa,153,1969,
+Regstrupparken 59 4420 Regstrup,59,785831.0,22-04-1994,Alm.,3796,6,Villa,207,1980,
+Gartnervænget 3 4420 Regstrup,3,850000.0,08-04-1994,Alm.,5120,5,Villa,166,1977,
+Mogenstrupvej 13 4420 Regstrup,13,1100500.0,07-04-1994,Alm.,8151,4,Stuehus,135,1920,
+Vognserup Engvej 5 4420 Regstrup,5,213348.0,04-04-1994,Alm.,2245,6,Stuehus,95,1922,
+Præstemarken 42 4420 Regstrup,42,750000.0,20-03-1994,Alm.,5859,6,Stuehus,128,1923,
+Hovedgaden 104 4420 Regstrup,104,664500.0,25-02-1994,Alm.,0,7,Villa,194,1950,
+Butterupvej 73 4420 Regstrup,73,352000.0,11-02-1994,Alm.,2707,4,Villa,130,1830,
+Løvenborgvej 16 4420 Regstrup,16,620000.0,12-12-1993,Fam.,0,8,Stuehus,157,1868,
+Vinkelvej 2 4420 Regstrup,2,592355.0,08-11-1993,Alm.,5062,4,Villa,117,1939,
+Hovedgaden 107 4420 Regstrup,107,616995.0,29-10-1993,Alm.,4503,5,Villa,137,1969,
+Nørupvej 14 4420 Regstrup,14,275000.0,29-10-1993,Alm.,2310,3,Villa,119,1830,
+Søstrupvej 68 4420 Regstrup,68,390000.0,25-10-1993,Fam.,3250,3,Villa,120,1976,
+Hanerupvej 25 4420 Regstrup,25,350000.0,08-10-1993,Alm.,2631,5,Stuehus,133,1850,
+Nyvej 4 4420 Regstrup,4,575000.0,29-07-1993,Alm.,4527,3,Villa,127,1972,
+Trønninge By 31 4420 Regstrup,31,350000.0,01-06-1993,Alm.,2317,5,Villa,151,1924,
+Skovgårdsvej 1 4420 Regstrup,1,510000.0,11-05-1993,Alm.,0,6,Villa,138,1965,
+Butterupvej 78 4420 Regstrup,78,822379.0,29-04-1993,Alm.,4984,6,Stuehus,165,1927,
+Hanerupvej 14 4420 Regstrup,14,1100000.0,22-03-1993,Fam.,6470,8,Stuehus,170,1929,
+Vognserup Engvej 3 4420 Regstrup,3,520000.0,15-02-1993,Alm.,4262,4,Stuehus,122,1922,
+Dramstrup 9 4420 Regstrup,9,800000.0,01-02-1993,Alm.,5925,5,Villa,135,1983,
+Agervænget 29 4420 Regstrup,29,500000.0,14-01-1993,Alm.,0,6,Villa,172,1969,
+Regstrupparken 7 4420 Regstrup,7,585000.0,13-11-1992,Alm.,4398,5,Villa,133,1977,
+Hovedgaden 69 4420 Regstrup,69,351900.0,14-10-1992,Alm.,3450,3,Villa,102,1916,
+Agervænget 58 4420 Regstrup,58,590000.0,09-10-1992,Alm.,4013,4,Villa,147,1969,
+Trønninge By 30 4420 Regstrup,30,201524.0,07-09-1992,Alm.,903,5,Villa,223,1987,
+Agervænget 64 4420 Regstrup,64,495000.0,24-07-1992,Alm.,4057,4,Villa,122,1969,
+Hovedgaden 30 4420 Regstrup,30,395000.0,11-06-1992,Alm.,3185,4,Villa,124,1900,
+Trønninge By 24 4420 Regstrup,24,215000.0,10-06-1992,Alm.,0,5,Villa,133,1892,
+Knabstrupvej 16 4420 Regstrup,16,1615000.0,08-06-1992,Fam.,8075,8,Stuehus,200,1919,
+Trønninge By 15 4420 Regstrup,15,323581.0,01-06-1992,Fam.,2696,5,Villa,120,1925,
+Hovedgaden 21 4420 Regstrup,21,10700000.0,26-05-1992,Andet,62573,6,Villa,171,1910,
+Agervænget 144 4420 Regstrup,144,700000.0,08-04-1992,Alm.,4142,6,Villa,169,1980,
+Regstrupparken 11 4420 Regstrup,11,560000.0,27-02-1992,Alm.,0,6,Villa,161,1976,
+Lodskovvej 3 4420 Regstrup,3,360000.0,19-02-1992,Alm.,0,5,Villa,187,1914,

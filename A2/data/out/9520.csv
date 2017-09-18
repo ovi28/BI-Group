@@ -1,0 +1,1629 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Hyldalsvej 5 9520 Skørping,5,1000000.0,24-04-2017,Alm.,6369,6,Villa,157,1912,-9 %
+Vinkelvej 2B 9520 Skørping,0,1500000.0,17-03-2017,Alm.,14150,4,Villa,106,1987,4 %
+Rebildvej 9 9520 Skørping,9,1098000.0,02-03-2017,Alm.,17156,2,Villa,64,1868,-8 %
+Ranunkelvej 11 9520 Skørping,11,750000.0,28-02-2017,Alm.,3488,9,Villa,215,1976,-6 %
+Gammel Skørpingvej 33 9520 Skørping,33,1435000.0,22-02-2017,Alm.,10551,4,Villa,136,1970,-4 %
+Møllevej 10B 9520 Skørping,0,2300000.0,15-02-2017,Alm.,11794,7,Villa,195,1936,-8 %
+Præstevej 34 9520 Skørping,34,875000.0,07-02-2017,Fam.,3707,8,Villa,236,1924,
+Bentevej 12 9520 Skørping,12,1720000.0,30-01-2017,Alm.,12374,5,Villa,139,1974,
+Stadionvej 4 9520 Skørping,4,525000.0,24-01-2017,Alm.,3500,4,Villa,150,1965,-19 %
+"Jyllandsgade 15B, 1 9520 Skørping",1,1598000.0,23-01-2017,Alm.,17369,3,Lejlighed,92,1902,0 %
+Hedesvinget 4 9520 Skørping,4,3075000.0,22-01-2017,Alm.,14236,6,Villa,216,2011,
+Hanebakken 15 9520 Skørping,15,1795000.0,18-01-2017,Alm.,13296,7,Villa,135,1963,0 %
+Stadionvej 12 9520 Skørping,12,827000.0,10-01-2017,Alm.,5907,5,Villa,140,1967,
+Præstevej 17 9520 Skørping,17,1471500.0,03-01-2017,Alm.,8175,6,Stuehus,180,1954,
+Gammel Skørpingvej 5 9520 Skørping,5,325000.0,20-12-2016,Alm.,4166,6,Industri o.l.,78,1922,
+Degnevænget 24 9520 Skørping,24,3050000.0,06-12-2016,Alm.,18827,6,Villa,162,1998,
+Ny Tustrupvej 6 9520 Skørping,6,18000.0,02-12-2016,Alm.,233,2,Villa,77,1948,
+Stentoften 60 9520 Skørping,60,2575000.0,01-12-2016,Alm.,14385,5,Villa,179,1999,-10 %
+Vandværksvej 16 9520 Skørping,16,945000.0,28-11-2016,Alm.,3937,10,Villa,240,1931,-5 %
+Hanebakken 26 9520 Skørping,26,1145000.0,25-11-2016,Alm.,12052,3,Villa,95,1962,0 %
+Aalborgvej 68 9520 Skørping,68,2325000.0,24-11-2016,Alm.,16258,4,Stuehus,143,1939,-7 %
+Gravlevvej 10D 9520 Skørping,0,3275000.0,19-11-2016,Alm.,16794,5,Villa,195,2011,-6 %
+Vinkelvej 1 9520 Skørping,1,1410000.0,15-11-2016,Alm.,9337,6,Villa,151,1918,-6 %
+Ved Skoven 2 9520 Skørping,2,1075000.0,12-11-2016,Alm.,11082,3,Rækkehus,97,1983,-2 %
+Aarestrupvej 105 9520 Skørping,105,775000.0,04-11-2016,Alm.,6054,4,Villa,128,1903,-8 %
+Gammel Skørpingvej 35 9520 Skørping,35,2500000.0,31-10-2016,Alm.,11111,9,Villa,225,1973,-5 %
+Rosenvangen 16 9520 Skørping,16,700000.0,29-10-2016,Alm.,5555,5,Villa,126,1972,
+Krogsvej 17 9520 Skørping,17,3810000.0,26-10-2016,Alm.,10381,9,Villa,367,1969,-9 %
+Svinget 3 9520 Skørping,3,1998000.0,25-10-2016,Alm.,10918,7,Villa,183,1968,0 %
+Aarestrupvej 95A 9520 Skørping,0,960000.0,05-10-2016,Alm.,8135,4,Villa,118,1985,-4 %
+Gerdingvej 32 9520 Skørping,32,8364.0,04-10-2016,Alm.,80,4,Villa,104,1900,
+Ranunkelvej 1 9520 Skørping,1,570000.0,30-09-2016,Alm.,3851,5,Villa,148,1976,
+Skørpingvej 90 9520 Skørping,90,450000.0,29-09-2016,Alm.,3237,5,Villa,139,1827,-17 %
+Ejstrupvej 9 9520 Skørping,9,705500.0,27-09-2016,Fam.,4968,5,Stuehus,142,1877,
+Dollerup Byvej 5 9520 Skørping,5,80000.0,23-09-2016,Alm.,963,3,Villa,83,1885,-20 %
+Kristiansmindevej 1 9520 Skørping,1,3200000.0,20-09-2016,Alm.,16931,5,Villa,189,2005,-8 %
+Møllevej 27 9520 Skørping,27,2345000.0,18-09-2016,Alm.,11725,6,Villa,200,1971,0 %
+Nordre Skovvej 5 9520 Skørping,5,2995000.0,17-09-2016,Alm.,22350,3,Villa,134,2007,0 %
+Kildebakken 1 9520 Skørping,1,1125000.0,15-09-2016,Alm.,12931,3,Villa,87,1959,
+Møllevej 4C 9520 Skørping,0,935000.0,31-08-2016,Alm.,9739,4,Rækkehus,96,1985,0 %
+Præstevænget 9 9520 Skørping,9,580000.0,29-08-2016,Alm.,5523,4,Villa,105,1938,
+Madum Søvej 19 9520 Skørping,19,840000.0,24-08-2016,Alm.,7241,6,Villa,116,1934,-3 %
+Præstegårdsheden 38 9520 Skørping,38,3575000.0,19-08-2016,Alm.,17439,6,Villa,205,2010,-3 %
+Sætervej 23 9520 Skørping,23,2640000.0,18-08-2016,Alm.,11282,7,Villa,234,1987,-17 %
+Rosenvangen 46 9520 Skørping,46,625000.0,18-08-2016,Alm.,4222,3,Villa,148,1972,
+Ranunkelvej 10 9520 Skørping,10,1075000.0,16-08-2016,Alm.,7846,3,Villa,137,1977,-6 %
+Bækkedalsvej 5 9520 Skørping,5,2615000.0,15-08-2016,Alm.,23772,4,Stuehus,110,1792,
+Østerbygade 1 9520 Skørping,1,275000.0,11-08-2016,Alm.,1774,5,Villa,155,1923,-44 %
+Hanehøjvej 28 9520 Skørping,28,2125000.0,05-08-2016,Alm.,14554,4,Stuehus,146,1877,
+Degnevænget 37 9520 Skørping,37,3195000.0,31-07-2016,Alm.,19131,5,Villa,167,1999,0 %
+Horsens Byvej 7 9520 Skørping,7,1950000.0,22-07-2016,Alm.,10427,6,Villa,187,1976,-2 %
+Petersmindevej 3 9520 Skørping,3,3100000.0,21-07-2016,Alm.,18562,6,Villa,167,1977,-11 %
+Smallegade 16 9520 Skørping,16,2298000.0,04-07-2016,Alm.,14730,6,Villa,156,1921,
+Lyngbyvej 69 9520 Skørping,69,2785000.0,01-07-2016,Alm.,20629,5,Stuehus,135,1958,
+Birkeholmvej 3 9520 Skørping,3,1995000.0,28-06-2016,Alm.,10025,7,Villa,199,1920,0 %
+Skrænten 6 9520 Skørping,6,1065000.0,27-06-2016,Alm.,8068,4,Villa,132,1965,-3 %
+Blenstrupvej 40 9520 Skørping,40,875000.0,24-06-2016,Alm.,2813,12,Villa,311,1940,
+Gravlevvej 36 9520 Skørping,36,1095000.0,22-06-2016,Alm.,10428,4,Stuehus,105,1843,0 %
+Vester Alle 6 9520 Skørping,6,1395000.0,21-06-2016,Alm.,8829,5,Villa,158,1944,0 %
+Jyllandsgade 48 9520 Skørping,48,1800000.0,13-06-2016,Andet,11688,8,Erhverv,154,1899,
+Mølleparken 34 9520 Skørping,34,950000.0,13-06-2016,Alm.,8260,5,Villa,115,1965,-13 %
+Nordre Skovvej 11 9520 Skørping,11,1773000.0,09-06-2016,Alm.,16118,4,Villa,110,1954,-1 %
+Stentoften 38 9520 Skørping,38,1450000.0,30-05-2016,Alm.,13679,4,Villa,106,1986,-3 %
+Ingersvej 10 9520 Skørping,10,3425000.0,27-05-2016,Alm.,18026,5,Villa,190,2008,-2 %
+Birkeholmvej 5 9520 Skørping,5,2865000.0,21-05-2016,Alm.,15916,7,Stuehus,180,1919,
+Rosenvangen 22 9520 Skørping,22,759000.0,28-04-2016,Alm.,5838,4,Villa,130,1972,-5 %
+Hobrovej 211 9520 Skørping,211,2075000.0,26-04-2016,Alm.,7033,9,Villa,295,1938,
+Stubberupvej 56 9520 Skørping,56,1175000.0,11-04-2016,Alm.,4662,5,Villa,252,1877,-13 %
+Gammel Skørpingvej 106 9520 Skørping,106,3800000.0,07-04-2016,Fam.,18536,4,Villa,205,1990,6 %
+Holmegårdsvej 1 9520 Skørping,1,1700000.0,03-04-2016,Alm.,10429,6,Stuehus,163,1918,
+Præstegårdsheden 42 9520 Skørping,42,4000000.0,17-03-2016,Alm.,14760,7,Villa,271,2006,
+Sdr Kirkevej 12 9520 Skørping,12,1150000.0,10-03-2016,Alm.,10000,5,Villa,115,1961,-4 %
+Erstedvej 30 9520 Skørping,30,1735000.0,07-03-2016,Alm.,9131,6,Villa,190,1862,-3 %
+Bakkevej 4 9520 Skørping,4,2698000.0,02-03-2016,Alm.,13907,8,Villa,194,1948,
+Petersmindevej 5 9520 Skørping,5,6000000.0,28-02-2016,Alm.,78947,2,Rækkehus,76,1990,
+Mølleparken 18 9520 Skørping,18,930000.0,26-02-2016,Fam.,6788,6,Villa,137,1965,
+Vesterbygade 20 9520 Skørping,20,160000.0,19-02-2016,Alm.,1333,4,Villa,120,1908,-46 %
+Østerbygade 15 9520 Skørping,15,977500.0,17-02-2016,Fam.,4567,7,Villa,214,1973,
+Gammel Skørpingvej 94 9520 Skørping,94,875000.0,17-02-2016,Alm.,5000,5,Villa,175,2016,
+Gammel Skørpingvej 59 9520 Skørping,59,893000.0,16-02-2016,Auktion,10147,3,Villa,88,1956,
+Hyldalsvej 6 9520 Skørping,6,1425000.0,08-02-2016,Alm.,7307,6,Villa,195,1978,-5 %
+Hellum Byvej 8 9520 Skørping,8,125000.0,01-02-2016,Fam.,1179,6,Villa,106,1870,
+Volbjerg 8 9520 Skørping,8,1375000.0,29-01-2016,Alm.,7857,4,Villa,175,1909,-8 %
+Enighedsvej 6 9520 Skørping,6,1670000.0,29-01-2016,Alm.,16700,3,Villa,100,1947,-1 %
+Bentevej 1 9520 Skørping,1,2100000.0,29-01-2016,Alm.,12280,7,Villa,171,1977,-2 %
+Mølleparken 28 9520 Skørping,28,825000.0,28-01-2016,Alm.,8250,3,Villa,100,1965,-8 %
+Jægerstien 1 9520 Skørping,1,2250000.0,20-01-2016,Alm.,10563,7,Villa,213,1962,-8 %
+Blenstrupvej 10 9520 Skørping,10,722000.0,15-01-2016,Alm.,3252,7,Stuehus,222,1897,
+Hanehøjvej 8 9520 Skørping,8,3000000.0,15-01-2016,Alm.,13636,8,Villa,220,1973,-9 %
+Blenstrupvej 48 9520 Skørping,48,4635000.0,05-01-2016,Fam.,22177,5,Stuehus,209,1928,
+Lyngbyvej 46 9520 Skørping,46,625000.0,29-12-2015,Alm.,4882,2,Villa,128,1978,
+Nyvej 2 9520 Skørping,2,892500.0,28-12-2015,Fam.,4600,5,Villa,194,1964,
+Haverslevvej 89 9520 Skørping,89,820000.0,16-12-2015,Fam.,4767,8,Anden beboelse,172,1910,
+Purkervej 8 9520 Skørping,8,2600000.0,15-12-2015,Alm.,17333,5,Villa,150,1968,
+Ingersvej 8 9520 Skørping,8,3750000.0,12-12-2015,Alm.,17605,5,Villa,213,2013,-4 %
+Skindbjergvej 6 9520 Skørping,6,425000.0,08-12-2015,Alm.,4722,3,Villa,90,1900,
+Nybovej 2 9520 Skørping,2,1000000.0,07-12-2015,Fam.,6578,4,Villa,152,1971,
+"Jyllandsgade 38A, 1 9520 Skørping",1,600000.0,04-12-2015,Alm.,4761,5,Lejlighed,126,2017,
+Galgevangen 16 9520 Skørping,16,710000.0,01-12-2015,Alm.,5916,4,Villa,120,1985,-6 %
+Lyngbyvej 75 9520 Skørping,75,1425000.0,01-12-2015,Alm.,11132,6,Stuehus,128,1905,-5 %
+Gammel Skørpingvej 34 9520 Skørping,34,1950000.0,27-11-2015,Alm.,13928,7,Villa,140,1927,-7 %
+"Gammel Skørpingvej 2D, 2. MF 9520 Skørping",0,1750000.0,25-11-2015,Alm.,21604,3,Lejlighed,81,2013,-5 %
+Purkervej 24 9520 Skørping,24,1200000.0,25-11-2015,Alm.,7741,4,Rækkehus,155,1960,-7 %
+Aarestrupvej 101 9520 Skørping,101,720000.0,23-11-2015,Alm.,0,5,Villa,172,1907,-7 %
+Majbakken 5 9520 Skørping,5,665000.0,17-11-2015,Alm.,3009,6,Villa,221,1900,-14 %
+Bentevej 26 9520 Skørping,26,1550000.0,17-11-2015,Alm.,9872,5,Villa,157,1979,-3 %
+Stendalsvej 30 9520 Skørping,30,2254000.0,12-11-2015,Fam.,25044,5,Stuehus,90,1960,
+Madum Søvej 50 9520 Skørping,50,934000.0,07-11-2015,Fam.,14369,4,Sommerhus,65,1942,-57 %
+Gammel Skørpingvej 31 9520 Skørping,31,2465000.0,06-11-2015,Alm.,13324,4,Villa,185,1971,-1 %
+Gammel Skørpingvej 45 9520 Skørping,45,1425000.0,21-10-2015,Alm.,7125,6,Villa,200,1973,-16 %
+Horsensvej 11 9520 Skørping,11,835000.0,21-10-2015,Alm.,3938,8,Villa,212,1931,-7 %
+Jægerstien 2 9520 Skørping,2,400000.0,04-10-2015,Alm.,3883,3,Villa,103,2016,-10 %
+Horsens Hedegårdsvej 2 9520 Skørping,2,1250000.0,01-10-2015,Alm.,5000,7,Stuehus,250,1905,
+Højvangen 11 9520 Skørping,11,200000.0,30-09-2015,Alm.,1069,6,Villa,187,2016,
+Hanebakken 21 9520 Skørping,21,1450000.0,29-09-2015,Alm.,12500,3,Villa,116,1960,-3 %
+Mølholmvej 28 9520 Skørping,28,700000.0,25-09-2015,Alm.,6306,4,Villa,111,1937,-10 %
+Gravlevvej 16A 9520 Skørping,0,3150000.0,20-09-2015,Alm.,19090,5,Villa,165,2007,-2 %
+Tirsdalsvej 2 9520 Skørping,2,418107.0,14-09-2015,Alm.,4544,3,Villa,92,1967,
+Erstedvej 20 9520 Skørping,20,400000.0,11-09-2015,Alm.,4395,3,Stuehus,91,1870,
+Gerdingvej 5 9520 Skørping,5,1120000.0,09-09-2015,Alm.,6086,5,Stuehus,184,1929,
+Kridtbakken 8 9520 Skørping,8,1020000.0,06-09-2015,Alm.,9807,4,Villa,104,1877,5 %
+Skibstedvej 53 9520 Skørping,53,1400000.0,06-09-2015,Alm.,5447,9,Villa,257,1902,-6 %
+Gerdingvej 27 9520 Skørping,27,650000.0,04-09-2015,Alm.,2708,6,Villa,240,1928,
+Svinget 2 9520 Skørping,2,1995000.0,02-09-2015,Alm.,9975,6,Villa,200,1970,0 %
+Ritavej 14 9520 Skørping,14,1499000.0,27-08-2015,Alm.,11992,4,Rækkehus,125,1975,
+Sdr Kirkevej 3 9520 Skørping,3,748000.0,26-08-2015,Alm.,4479,5,Villa,167,2016,0 %
+Hanesvinget 4 9520 Skørping,4,3450000.0,25-08-2015,Alm.,14743,5,Villa,234,2003,-4 %
+Jyllandsgade 35 9520 Skørping,35,950000.0,21-08-2015,Alm.,6168,5,Villa,154,1974,-19 %
+Gammel Skørpingvej 102 9520 Skørping,102,2100000.0,19-08-2015,Alm.,14893,5,Villa,141,1961,
+Dollerup Byvej 3 9520 Skørping,3,540000.0,13-08-2015,Alm.,4500,3,Villa,120,1894,-2 %
+Skibstedvej 45 9520 Skørping,45,395000.0,12-08-2015,Alm.,2598,4,Villa,152,1907,
+Volbjerg 9 9520 Skørping,9,1137500.0,10-08-2015,Alm.,11375,3,Villa,100,1955,-3 %
+Kristiansmindevej 6 9520 Skørping,6,4300000.0,08-08-2015,Alm.,21182,4,Villa,203,2009,-6 %
+Vesterbygade 21 9520 Skørping,21,645000.0,07-08-2015,Alm.,5917,2,Villa,109,1933,-7 %
+Fræervej 14 9520 Skørping,14,1200000.0,06-08-2015,Alm.,7500,5,Villa,160,1972,
+Maltgørervej 4 9520 Skørping,4,1330000.0,05-08-2015,Alm.,10472,5,Villa,127,1950,-5 %
+Horsensvej 5 9520 Skørping,5,200000.0,04-08-2015,Auktion,1333,6,Villa,150,1953,-60 %
+Skørpingvej 65 9520 Skørping,65,1125000.0,31-07-2015,Alm.,7352,4,Villa,153,1727,0 %
+Rosenvangen 26 9520 Skørping,26,885000.0,31-07-2015,Alm.,5900,5,Villa,150,1973,
+Langmosevej 10 9520 Skørping,10,622652.0,28-07-2015,Fam.,2979,8,Villa,209,1927,
+Sdr. Banevej 5 9520 Skørping,5,1160000.0,14-07-2015,Alm.,9666,5,Villa,120,1987,-3 %
+Ritavej 6 9520 Skørping,6,875000.0,13-07-2015,Alm.,7000,4,Rækkehus,125,1975,-10 %
+Sætervej 2C 9520 Skørping,0,1450000.0,10-07-2015,Alm.,5918,9,Villa,245,1963,-3 %
+Haverslevvej 113 9520 Skørping,113,2450000.0,08-07-2015,Alm.,10082,6,Villa,243,2008,-1 %
+Mosskovvej 3 9520 Skørping,3,2680000.0,05-07-2015,Alm.,13535,5,Villa,198,1937,-6 %
+Maltgørervej 11 9520 Skørping,11,1800000.0,04-07-2015,Alm.,8823,9,Villa,204,1966,-10 %
+"Sverriggårdsvej 1, 1 9520 Skørping",1,1500000.0,03-07-2015,Alm.,6521,3,Lejlighed,230,1927,-25 %
+Mosevej 5 9520 Skørping,5,1250000.0,26-06-2015,Alm.,12135,5,Villa,103,1898,
+Lyngbyvej 23 9520 Skørping,23,1751800.0,17-06-2015,Alm.,7890,6,Villa,222,1936,
+Højvangen 2 9520 Skørping,2,550000.0,16-06-2015,Auktion,4782,6,Villa,115,1951,
+Bentevej 62 9520 Skørping,62,2075000.0,16-06-2015,Alm.,11527,5,Villa,180,1976,-5 %
+Rebildvej 3 9520 Skørping,3,1050000.0,13-06-2015,Alm.,15671,3,Villa,67,1947,-12 %
+Haverslevvej 85 9520 Skørping,85,400000.0,08-06-2015,Alm.,4000,10,Engroshandel,100,1908,-16 %
+Stentoften 29 9520 Skørping,29,1795000.0,08-06-2015,Alm.,13007,5,Villa,138,1977,-3 %
+Gammel Skørpingvej 64 9520 Skørping,64,1850000.0,31-05-2015,Alm.,12937,7,Villa,143,1963,-1 %
+Hedesvinget 10 9520 Skørping,10,3050000.0,30-05-2015,Alm.,16223,5,Villa,188,2011,-2 %
+Hanebakken 8 9520 Skørping,8,2000000.0,23-05-2015,Alm.,14705,4,Villa,136,1987,-4 %
+Præstegårdsheden 2 9520 Skørping,2,6000000.0,22-05-2015,Alm.,29268,6,Villa,205,2008,
+Kridtbakken 14 9520 Skørping,14,220000.0,20-05-2015,Andet,1419,7,Stuehus,155,1850,
+Hobrovej 217 9520 Skørping,217,2995000.0,20-05-2015,Alm.,13021,4,Villa,230,1931,0 %
+Erstedvej 25 9520 Skørping,25,220000.0,20-05-2015,Andet,1964,5,Stuehus,112,1954,
+Gammel Skørpingvej 78 9520 Skørping,78,1200000.0,11-05-2015,Alm.,9677,3,Villa,124,1963,
+Lyngvej 8 9520 Skørping,8,910000.0,05-05-2015,Alm.,8348,4,Villa,109,1947,-9 %
+Stubberupvej 5 9520 Skørping,5,990000.0,01-05-2015,Alm.,6149,4,Villa,161,1947,
+Skørpingvej 49 9520 Skørping,49,800000.0,29-04-2015,Alm.,4324,5,Stuehus,185,1910,-20 %
+Blenstrupvej 24 9520 Skørping,24,850000.0,23-04-2015,Alm.,5592,7,Villa,152,1946,-14 %
+Jægerstien 4 9520 Skørping,4,748000.0,15-04-2015,Alm.,4675,4,Villa,160,2016,
+Kridtbakken 15 9520 Skørping,15,300000.0,12-04-2015,Alm.,2205,3,Villa,136,1960,-39 %
+Ingersvej 5 9520 Skørping,5,3440000.0,12-04-2015,Alm.,20235,5,Villa,170,2008,
+Tvoruphøjevej 16 9520 Skørping,16,5838000.0,09-04-2015,Alm.,19789,9,Stuehus,295,1880,
+Bentevej 54 9520 Skørping,54,1550000.0,09-04-2015,Alm.,11567,4,Villa,134,1975,-2 %
+Madum Søvej 25 9520 Skørping,25,175000.0,08-04-2015,Fam.,2611,3,Sommerhus,67,1965,
+Sdr Kirkevej 10 9520 Skørping,10,1998000.0,07-04-2015,Alm.,16243,5,Villa,123,1950,0 %
+Rosenvangen 5 9520 Skørping,5,610000.0,07-04-2015,Alm.,3505,5,Villa,174,1975,
+Kridtbakken 19 9520 Skørping,19,225000.0,20-03-2015,Alm.,1323,4,Villa,170,1827,
+Rosenvangen 11 9520 Skørping,11,500000.0,17-03-2015,Alm.,3703,6,Villa,135,1971,
+Aalborgvej 76 9520 Skørping,76,200000.0,28-02-2015,Alm.,1242,4,Stuehus,161,2008,
+Erstedvej 16 9520 Skørping,16,65000.0,27-02-2015,Alm.,1300,5,Anden beboelse,50,2016,
+Hanebuen 2 9520 Skørping,2,3100000.0,25-02-2015,Alm.,14485,7,Villa,214,2005,-9 %
+Præstevænget 8 9520 Skørping,8,2800000.0,24-02-2015,Alm.,10646,7,Villa,263,1959,
+Vandværksvej 14 9520 Skørping,14,775000.0,20-02-2015,Alm.,4843,6,Villa,160,1972,-13 %
+Stentoften 52 9520 Skørping,52,1248000.0,17-02-2015,Alm.,11773,4,Villa,106,1986,
+Smallegade 2 9520 Skørping,2,425000.0,14-02-2015,Alm.,4086,4,Villa,104,1963,
+Ejstrupvej 2 9520 Skørping,2,775000.0,11-02-2015,Alm.,8611,4,Stuehus,90,1876,
+Gyvelvej 13 9520 Skørping,13,2700000.0,11-02-2015,Alm.,11637,7,Villa,232,1972,-2 %
+Fræervej 1B 9520 Skørping,0,824500.0,09-02-2015,Fam.,4456,6,Villa,185,1976,
+Bækkedalsvej 14 9520 Skørping,14,500000.0,30-01-2015,Alm.,5882,4,Villa,85,1961,
+Rosenvangen 27 9520 Skørping,27,1215000.0,29-01-2015,Alm.,6903,4,Villa,176,1972,-5 %
+Mølleparken 16 9520 Skørping,16,1775000.0,22-01-2015,Fam.,9594,6,Villa,185,1966,
+Hvingelhatvej 19 9520 Skørping,19,720000.0,21-01-2015,Alm.,4556,4,Stuehus,158,1867,-3 %
+Vester Alle 2 9520 Skørping,2,2575000.0,21-01-2015,Alm.,15606,4,Villa,165,2007,-8 %
+Egholmsvej 17 9520 Skørping,17,1450000.0,12-01-2015,Alm.,9177,6,Villa,158,1965,
+Gammel Skørpingvej 30 9520 Skørping,30,2225000.0,29-12-2014,Alm.,16984,5,Villa,131,1932,-3 %
+Horsens Hedegårdsvej 1 9520 Skørping,1,7859850.0,15-12-2014,Fam.,20793,2,Stuehus,378,1932,
+Valmuevej 5 9520 Skørping,5,1575000.0,11-12-2014,Alm.,12115,5,Villa,130,1976,0 %
+Tustrup Møllevej 1 9520 Skørping,1,800000.0,08-12-2014,Fam.,3539,7,Villa,226,1880,
+Gyvelvej 18 9520 Skørping,18,1950000.0,26-11-2014,Alm.,11403,5,Villa,171,1966,-2 %
+Skørpingholmevej 2 9520 Skørping,2,4500000.0,20-11-2014,Alm.,24590,5,Villa,183,2016,
+Hvingelhatvej 26 9520 Skørping,26,760000.0,18-11-2014,Alm.,4342,3,Stuehus,175,1889,-13 %
+Aarestrupvej 97 9520 Skørping,97,550000.0,14-11-2014,Alm.,3666,4,Villa,150,1936,
+Bentevej 17 9520 Skørping,17,2475000.0,14-11-2014,Alm.,10185,7,Villa,243,1975,-6 %
+Kridtbakken 18 9520 Skørping,18,1550000.0,08-11-2014,Alm.,6275,6,Villa,247,1880,-9 %
+Enighedsvej 1 9520 Skørping,1,1530000.0,30-10-2014,Alm.,12240,4,Villa,125,1949,-3 %
+Hanebakken 13 9520 Skørping,13,850000.0,30-10-2014,Alm.,9883,3,Villa,86,1957,-5 %
+Brøndumvej 32 9520 Skørping,32,790000.0,28-10-2014,Alm.,7181,3,Stuehus,110,1921,
+Dollerup Byvej 17 9520 Skørping,17,695000.0,17-10-2014,Alm.,3475,5,Villa,200,1974,-13 %
+Stadionvej 2 9520 Skørping,2,200000.0,07-10-2014,Auktion,1834,5,Villa,109,1966,-55 %
+Lyngbyvej 83 9520 Skørping,83,8195000.0,07-10-2014,Fam.,28754,9,Stuehus,285,1875,487 %
+Heden 11 9520 Skørping,11,3350000.0,05-10-2014,Alm.,19252,5,Villa,174,2002,-3 %
+Heden 23 9520 Skørping,23,1000000.0,02-10-2014,Alm.,4651,5,Villa,215,2017,
+Gravlevvej 44 9520 Skørping,44,100000.0,28-09-2014,Alm.,400,9,Stuehus,250,1961,
+Møllevej 10A 9520 Skørping,0,1720000.0,25-09-2014,Fam.,11241,5,Villa,153,1978,
+Tværgade 8 9520 Skørping,8,1210000.0,24-09-2014,Alm.,12100,3,Villa,100,1976,-1 %
+Bentevej 40 9520 Skørping,40,1975000.0,23-09-2014,Alm.,14629,5,Villa,135,1977,0 %
+Stentoften 72 9520 Skørping,72,1065000.0,22-09-2014,Andet,5949,5,Villa,179,1999,
+Rebild Hedevej 4 9520 Skørping,4,1375000.0,04-09-2014,Alm.,7432,6,Villa,185,1887,-5 %
+Elisabethsvej 10 9520 Skørping,10,1500000.0,12-08-2014,Alm.,10000,5,Villa,150,1967,-9 %
+Hellum Hedevej 8 9520 Skørping,8,514500.0,12-08-2014,Alm.,8298,2,Villa,62,1777,-6 %
+Cimbrervej 17 9520 Skørping,17,1550000.0,08-08-2014,Alm.,12809,4,Villa,121,1964,-3 %
+Præstevænget 6 9520 Skørping,6,910000.0,31-07-2014,Alm.,6594,7,Villa,138,1931,
+Gerding Gade 8 9520 Skørping,8,1125000.0,22-07-2014,Alm.,5232,7,Villa,215,1977,
+Lundegårdsvej 1 9520 Skørping,1,1200000.0,17-07-2014,Alm.,12903,3,Villa,93,1912,-20 %
+Hedesvinget 14 9520 Skørping,14,500200.0,07-07-2014,Alm.,2703,6,Villa,185,2015,
+Hanehøjvej 10 9520 Skørping,10,2475000.0,04-07-2014,Alm.,16282,5,Villa,152,1977,-1 %
+Sætervej 13C 9520 Skørping,0,2875000.0,04-07-2014,Alm.,13956,6,Villa,206,1955,-4 %
+Haverslevvej 42 9520 Skørping,42,14950000.0,01-07-2014,Alm.,61020,7,Stuehus,245,1873,
+Fræervej 2C 9520 Skørping,0,375000.0,27-06-2014,Alm.,2500,5,Villa,150,2015,
+Lyngbyvej 25 9520 Skørping,25,1225000.0,26-06-2014,Alm.,8390,4,Stuehus,146,1878,-9 %
+Brøndumvej 57 9520 Skørping,57,50000.0,24-06-2014,Alm.,462,3,Villa,108,1961,
+Aarestrupvej 95B 9520 Skørping,0,1545000.0,22-06-2014,Alm.,9142,6,Stuehus,169,1878,0 %
+Rebild Hedevej 11 9520 Skørping,11,895000.0,20-06-2014,Alm.,13769,2,Villa,65,1877,0 %
+Aalborgvej 48 9520 Skørping,48,840000.0,17-06-2014,Alm.,4117,6,Stuehus,204,1870,
+Gammel Skørpingvej 118 9520 Skørping,118,1350000.0,13-06-2014,Fam.,6398,7,Stuehus,211,1887,
+Horsens Østergårde 5 9520 Skørping,5,1135000.0,04-06-2014,Alm.,8107,3,Villa,140,1900,-19 %
+Vester Alle 7 9520 Skørping,7,695000.0,04-06-2014,Alm.,3657,5,Villa,190,2015,0 %
+Brøndumvej 5 9520 Skørping,5,350000.0,02-06-2014,Alm.,2430,5,Villa,144,1961,-39 %
+Asbakken 1 9520 Skørping,1,2775000.0,29-05-2014,Alm.,12847,8,Villa,216,1957,-7 %
+Stentoften 39 9520 Skørping,39,2640000.0,23-05-2014,Alm.,15714,4,Villa,168,2005,-2 %
+Egholmsvej 15 9520 Skørping,15,1100000.0,20-05-2014,Alm.,7333,5,Villa,150,1900,
+Stendalsvej 29 9520 Skørping,29,2700000.0,20-05-2014,Alm.,18493,4,Stuehus,146,1902,-7 %
+Stentoften 7 9520 Skørping,7,1900000.0,04-05-2014,Alm.,10497,5,Villa,181,1978,-5 %
+Hellum Byvej 16 9520 Skørping,16,285758.0,02-05-2014,Alm.,2551,3,Villa,112,1877,
+Maltgørervej 7 9520 Skørping,7,400000.0,01-05-2014,Andet,3703,3,Villa,108,1956,-56 %
+Ejstrupvej 19 9520 Skørping,19,585000.0,01-05-2014,Alm.,3900,5,Villa,150,1902,-2 %
+Rebild Hedevej 10 9520 Skørping,10,1175000.0,30-04-2014,Alm.,5176,6,Villa,227,2015,
+Sætervej 21 9520 Skørping,21,2550000.0,19-04-2014,Alm.,16558,4,Villa,154,1980,-2 %
+Birkedammen 9 9520 Skørping,9,810000.0,15-04-2014,Alm.,4475,6,Villa,181,2015,
+Jyttevej 15 9520 Skørping,15,1435000.0,11-04-2014,Alm.,8200,6,Villa,175,1976,-4 %
+Horsensvej 8A 9520 Skørping,0,950000.0,04-04-2014,Alm.,7600,5,Villa,125,1998,-14 %
+Askildrupvej 18 9520 Skørping,18,125000.0,03-04-2014,Alm.,1666,3,Villa,75,1943,
+Skørpingvej 43 9520 Skørping,43,980000.0,01-04-2014,Alm.,6363,3,Stuehus,154,1880,
+Askildrupvej 24 9520 Skørping,24,995000.0,27-03-2014,Alm.,6768,4,Villa,147,1974,0 %
+Ulvkærvej 8 9520 Skørping,8,1435000.0,25-03-2014,Alm.,6239,6,Villa,230,1858,-1 %
+Birkedammen 8 9520 Skørping,8,2200000.0,24-03-2014,Alm.,8800,7,Villa,250,1971,-12 %
+Degnevænget 27 9520 Skørping,27,2352750.0,05-03-2014,Fam.,13143,6,Villa,179,2001,
+Rebild Skovhusevej 18 9520 Skørping,18,3425000.0,05-03-2014,Alm.,15222,5,Villa,225,1948,0 %
+Præstegårdsheden 22 9520 Skørping,22,6000000.0,27-02-2014,Alm.,16216,7,Villa,370,2006,-12 %
+Østerbygade 3 9520 Skørping,3,895000.0,27-02-2014,Alm.,11187,3,Villa,80,1937,
+Hanesvinget 2 9520 Skørping,2,672000.0,27-02-2014,Alm.,3518,6,Villa,191,2014,
+Markedsvej 6 9520 Skørping,6,1100000.0,21-02-2014,Alm.,8943,6,Villa,123,1935,-8 %
+Markedsvej 4 9520 Skørping,4,1395000.0,20-02-2014,Alm.,11071,4,Villa,126,1931,-7 %
+Mosevej 6 9520 Skørping,6,595000.0,20-02-2014,Alm.,2489,5,Villa,239,2016,
+Vester Alle 1 9520 Skørping,1,835000.0,11-02-2014,Alm.,8882,4,Villa,94,1945,-2 %
+Hanebakken 12 9520 Skørping,12,2190000.0,31-01-2014,Alm.,10579,6,Villa,207,1973,0 %
+Jægersborgvej 18 9520 Skørping,18,3000000.0,24-01-2014,Alm.,14778,5,Rækkehus,203,2008,-6 %
+Møllevej 5 9520 Skørping,5,1150000.0,22-01-2014,Alm.,9200,6,Villa,125,1964,-8 %
+Sdr Kirkevej 2 9520 Skørping,2,745000.0,21-01-2014,Alm.,4116,5,Villa,181,2016,
+Skindbjerglundvej 6 9520 Skørping,6,2250000.0,21-01-2014,Alm.,10465,7,Stuehus,215,1900,
+Bentevej 9 9520 Skørping,9,1795000.0,10-01-2014,Alm.,14593,4,Villa,123,1986,-3 %
+Haverslevvej 73 9520 Skørping,73,598030.0,06-01-2014,Alm.,3417,4,Villa,175,1920,
+Sætervej 9 9520 Skørping,9,2100000.0,20-12-2013,Alm.,12804,5,Villa,164,1979,-4 %
+Jyllandsgade 44 9520 Skørping,44,1300000.0,13-12-2013,Alm.,14772,4,Villa,88,1963,
+Møllevej 22 9520 Skørping,22,1275000.0,02-12-2013,Alm.,15937,3,Villa,80,1962,-9 %
+Vesterbygade 14 9520 Skørping,14,400000.0,25-11-2013,Alm.,1619,8,Villa,247,1950,-16 %
+Teglgårdsvej 12 9520 Skørping,12,624000.0,25-11-2013,Fam.,4000,6,Villa,156,1962,
+Hellum Byvej 17 9520 Skørping,17,470000.0,20-11-2013,Alm.,5595,3,Villa,84,1892,-3 %
+Birkedammen 6 9520 Skørping,6,3000000.0,18-11-2013,Alm.,13392,6,Villa,224,1972,-9 %
+Jyllandsgade 61 9520 Skørping,61,1300000.0,14-11-2013,Alm.,8387,5,Villa,155,1954,-13 %
+Lyngvej 1 9520 Skørping,1,1465000.0,07-11-2013,Alm.,6482,9,Villa,226,1962,-14 %
+Aarestrupvej 92 9520 Skørping,92,415000.0,01-11-2013,Alm.,3458,5,Villa,120,1950,-21 %
+Præstegårdsheden 24 9520 Skørping,24,3400000.0,31-10-2013,Alm.,16504,4,Villa,206,2008,-3 %
+Cimbrervej 13 9520 Skørping,13,1935000.0,30-10-2013,Alm.,9000,8,Villa,215,1965,-3 %
+Jyttevej 7 9520 Skørping,7,887500.0,25-10-2013,Alm.,6525,4,Villa,136,1980,
+Langmosevej 1 9520 Skørping,1,2150000.0,17-10-2013,Alm.,9110,9,Villa,236,1903,0 %
+Kristiansmindevej 4 9520 Skørping,4,950000.0,13-10-2013,Alm.,7916,4,Villa,120,2014,
+Rebildvej 14 9520 Skørping,14,2300000.0,12-10-2013,Alm.,14465,5,Villa,159,1956,-4 %
+Lyngbyvej 88 9520 Skørping,88,36000.0,04-10-2013,Alm.,244,3,Villa,147,1873,
+Stendalsvej 20 9520 Skørping,20,1400000.0,01-10-2013,Alm.,18666,4,Villa,75,1976,-6 %
+Agertoften 3 9520 Skørping,3,245000.0,30-09-2013,Alm.,2500,2,Villa,98,1967,-29 %
+Hellum Byvej 12 9520 Skørping,12,418906.0,25-09-2013,Alm.,2792,6,Villa,150,1881,
+Gyvelvej 6 9520 Skørping,6,1025000.0,21-09-2013,Alm.,11021,5,Villa,93,1962,-7 %
+Stentoften 12 9520 Skørping,12,1535000.0,20-09-2013,Alm.,8527,5,Villa,180,1984,-12 %
+Brøndumvej 56 9520 Skørping,56,1200000.0,18-09-2013,Andet,3234,11,Villa,371,1937,
+Vester Alle 13 9520 Skørping,13,627600.0,16-09-2013,Fam.,7471,3,Villa,84,1958,
+Tværgade 2A 9520 Skørping,0,1610000.0,01-09-2013,Alm.,9526,7,Villa,169,1971,
+Skrænten 10 9520 Skørping,10,1200000.0,18-08-2013,Alm.,7741,5,Villa,155,1967,
+Fræervej 3 9520 Skørping,3,1885000.0,14-08-2013,Alm.,9520,7,Villa,198,1930,-21 %
+Stentoften 58 9520 Skørping,58,1186952.0,14-08-2013,Andet,5934,6,Villa,200,1999,
+Torvegyden 4 9520 Skørping,4,4000000.0,09-08-2013,Alm.,20618,4,Villa,194,1970,
+Birkeholmvej 14 9520 Skørping,14,3348300.0,11-07-2013,Fam.,17348,7,Stuehus,193,1870,
+Rebildvej 24 9520 Skørping,24,1500000.0,04-07-2013,Alm.,9036,5,Villa,166,1973,-6 %
+Jægersborgvej 1 9520 Skørping,1,6950000.0,04-07-2013,Alm.,15582,9,Villa,446,1900,
+Vesterbygade 35 9520 Skørping,35,345000.0,02-07-2013,Alm.,5073,3,Villa,68,1949,-13 %
+Madum Søvej 4 9520 Skørping,4,425000.0,02-07-2013,Auktion,2387,5,Villa,178,1964,-43 %
+Ejstrupvej 6 9520 Skørping,6,189120.0,01-07-2013,Alm.,778,5,Stuehus,243,1935,
+Bentevej 18 9520 Skørping,18,1600000.0,25-06-2013,Alm.,10810,5,Villa,148,1977,-3 %
+Hedesvinget 24 9520 Skørping,24,1050000.0,25-06-2013,Alm.,5412,4,Villa,194,2014,
+Hanesvinget 2A 9520 Skørping,0,1029000.0,20-06-2013,Alm.,6161,5,Villa,167,2014,-62 %
+"Gammel Skørpingvej 2D, 2. TH 9520 Skørping",0,1800000.0,18-06-2013,Alm.,18367,4,Lejlighed,98,2013,
+Valmuevej 10 9520 Skørping,10,1525000.0,14-06-2013,Alm.,8379,5,Villa,182,1971,-14 %
+Sætervej 5 9520 Skørping,5,2135000.0,14-06-2013,Alm.,12130,4,Villa,176,1984,-2 %
+Skørpingvej 92 9520 Skørping,92,4172375.0,12-06-2013,Fam.,23179,5,Stuehus,180,1924,
+Hanebuen 6 9520 Skørping,6,2500000.0,04-06-2013,Alm.,12254,7,Villa,204,2003,-7 %
+Heden 1 9520 Skørping,1,750000.0,31-05-2013,Alm.,4411,5,Villa,170,2015,
+Hanehøjvej 6 9520 Skørping,6,2525000.0,27-05-2013,Alm.,14680,6,Villa,172,1980,
+Tirsdalsvej 7 9520 Skørping,7,324000.0,07-05-2013,Alm.,1905,6,Stuehus,170,1933,
+Egehusvej 8 9520 Skørping,8,2550000.0,30-04-2013,Alm.,16037,4,Rækkehus,159,2008,-12 %
+Enighedsvej 3 9520 Skørping,3,1699000.0,29-04-2013,Alm.,10753,5,Villa,158,1960,0 %
+Vesterbygade 29 9520 Skørping,29,360000.0,29-04-2013,Alm.,2337,6,Villa,154,1934,
+Troldbakkevej 4 9520 Skørping,4,268662.0,25-04-2013,Alm.,4477,2,Villa,60,1949,
+Smallegade 3 9520 Skørping,3,900000.0,17-04-2013,Alm.,3673,6,Villa,245,1967,-10 %
+Himmerlandsvej 13 9520 Skørping,13,1650000.0,07-04-2013,Alm.,8638,8,Villa,191,1914,-5 %
+Vester Alle 18 9520 Skørping,18,1875000.0,04-04-2013,Alm.,8522,6,Villa,220,1959,-4 %
+Enighedsvej 16 9520 Skørping,16,1150000.0,01-04-2013,Alm.,13690,3,Villa,84,1973,-4 %
+Stubberupvej 10 9520 Skørping,10,121000.0,06-03-2013,Alm.,650,6,Stuehus,186,1923,
+Gammel Skørpingvej 73 9520 Skørping,73,425000.0,26-02-2013,Fam.,7589,4,Sommerhus,56,1963,
+Rosenvangen 13 9520 Skørping,13,560000.0,25-02-2013,Alm.,5333,4,Villa,105,1973,-19 %
+Tvorupvej 17 9520 Skørping,17,719857.0,15-02-2013,Alm.,3185,11,Stuehus,226,1930,
+Purkervej 22 9520 Skørping,22,1340000.0,15-02-2013,Alm.,13137,4,Villa,102,1942,-4 %
+Bækhusevej 8 9520 Skørping,8,300000.0,06-02-2013,Alm.,1685,6,Stuehus,178,1907,
+Sætervej 6 9520 Skørping,6,2248000.0,22-01-2013,Alm.,14789,7,Villa,152,1964,-2 %
+Stubberupvej 29 9520 Skørping,29,283226.0,08-01-2013,Auktion,2178,4,Villa,130,1900,-62 %
+Svinget 5 9520 Skørping,5,1650000.0,07-01-2013,Alm.,9166,5,Villa,180,1968,-3 %
+Gyvelvej 9 9520 Skørping,9,1580000.0,22-12-2012,Alm.,9875,5,Villa,160,1972,
+Kummerhøjvej 7 9520 Skørping,7,1445000.0,14-12-2012,Alm.,7297,5,Villa,198,1800,
+Ulvkærvej 12 9520 Skørping,12,3424500.0,13-12-2012,Alm.,27616,3,Stuehus,124,1942,
+Tvoruphøjevej 8 9520 Skørping,8,1890000.0,09-12-2012,Alm.,11250,5,Stuehus,168,1931,-5 %
+Hvingelhatvej 32 9520 Skørping,32,2800000.0,04-12-2012,Alm.,15384,7,Stuehus,182,1915,
+Jægersborgvej 20 9520 Skørping,20,2750000.0,29-11-2012,Alm.,13546,5,Rækkehus,203,2008,-8 %
+Stentoften 74 9520 Skørping,74,2055000.0,27-11-2012,Alm.,14370,6,Villa,143,2000,-4 %
+Åvej 4 9520 Skørping,4,600000.0,26-11-2012,Alm.,3797,5,Villa,158,1974,
+Hanehøjvej 12 9520 Skørping,12,2497500.0,22-11-2012,Alm.,16112,5,Villa,155,1995,-4 %
+Jyttevej 23 9520 Skørping,23,785346.0,03-11-2012,Alm.,4487,6,Villa,175,1974,
+Møllevej 43 9520 Skørping,43,1105000.0,29-10-2012,Alm.,0,4,Villa,129,1987,
+Dollerup Byvej 7 9520 Skørping,7,110000.0,16-10-2012,Auktion,474,8,Stuehus,232,1980,-94 %
+"Jyllandsgade 23, 1 9520 Skørping",1,1440000.0,12-10-2012,Alm.,13457,3,Lejlighed,107,1916,
+Hanebakken 16 9520 Skørping,16,1250000.0,12-10-2012,Alm.,12500,4,Villa,100,1960,-3 %
+Gammel Skørpingvej 160 9520 Skørping,160,805000.0,04-10-2012,Alm.,8385,5,Villa,96,1877,
+Østerbygade 17 9520 Skørping,17,1010000.0,02-10-2012,Auktion,3289,6,Villa,307,1902,-54 %
+Majbakken 3 9520 Skørping,3,15000.0,27-09-2012,Auktion,91,8,Villa,164,1951,
+Gerdingvej 30 9520 Skørping,30,1131300.0,18-09-2012,Fam.,5518,8,Villa,205,1877,
+Hobrovej 185 9520 Skørping,185,1316000.0,11-09-2012,Fam.,6092,8,Villa,216,1902,
+Bækhusevej 14 9520 Skørping,14,995000.0,07-09-2012,Fam.,6180,3,Villa,161,1937,
+Rebild Skovhusevej 16 9520 Skørping,16,2400000.0,31-08-2012,Alm.,9716,7,Stuehus,247,2013,
+Vester Alle 3 9520 Skørping,3,940000.0,30-08-2012,Alm.,9038,4,Villa,104,1954,-6 %
+Mølleparken 7 9520 Skørping,7,1375000.0,30-08-2012,Alm.,8593,5,Villa,160,1967,-14 %
+Egehusvej 14 9520 Skørping,14,2675000.0,29-08-2012,Alm.,16823,4,Rækkehus,159,2008,-4 %
+Møllevej 27A 9520 Skørping,0,1572500.0,28-08-2012,Fam.,8190,5,Villa,192,1984,
+Gammel Skørpingvej 12A 9520 Skørping,0,1565000.0,28-08-2012,Fam.,15650,4,Villa,100,1936,
+Aarestrupvej 55 9520 Skørping,55,996384.0,21-08-2012,Auktion,4767,7,Villa,209,1902,
+Skørpingholmevej 6 9520 Skørping,6,725000.0,21-08-2012,Alm.,0,4,Villa,95,1969,-9 %
+Heden 9 9520 Skørping,9,2900000.0,06-08-2012,Alm.,17365,3,Villa,167,2003,-3 %
+Aarestrupvej 44 9520 Skørping,44,80000.0,17-07-2012,Alm.,0,6,Villa,132,1928,-36 %
+Kirkevej 6 9520 Skørping,6,8466000.0,17-07-2012,Alm.,26049,8,Stuehus,325,1980,
+Rosenvænget 13 9520 Skørping,13,1000000.0,12-07-2012,Fam.,6944,6,Villa,144,1966,
+Hanebakken 9 9520 Skørping,9,1300000.0,10-07-2012,Alm.,11818,4,Villa,110,1959,-7 %
+Frugthaven 3 9520 Skørping,3,2000000.0,09-07-2012,Alm.,12903,6,Villa,155,1980,-7 %
+Hanebakken 35 9520 Skørping,35,940000.0,05-07-2012,Alm.,13428,4,Villa,70,1959,-13 %
+Skindbjergvej 8A 9520 Skørping,0,1710000.0,02-07-2012,Alm.,12391,5,Villa,138,2006,-5 %
+Rebildvej 19 9520 Skørping,19,800000.0,28-06-2012,Alm.,5333,5,Villa,150,1969,-11 %
+Lyngbyvej 101 9520 Skørping,101,1175000.0,28-06-2012,Auktion,6714,6,Stuehus,175,1865,
+Lyngbyvej 18 9520 Skørping,18,1605000.0,26-06-2012,Alm.,9968,5,Stuehus,161,1874,-20 %
+Sætervej 19 9520 Skørping,19,960000.0,21-06-2012,Fam.,5333,5,Villa,180,1986,
+Hanebakken 23 9520 Skørping,23,850000.0,20-06-2012,Fam.,12686,2,Villa,67,1960,
+Brøndumvej 54 9520 Skørping,54,220000.0,14-06-2012,Auktion,2750,3,Villa,80,1956,
+Præstevænget 13 9520 Skørping,13,1050000.0,13-06-2012,Alm.,0,7,Villa,183,1949,-4 %
+Bentevej 16 9520 Skørping,16,1258800.0,08-06-2012,Fam.,7448,5,Villa,169,1976,
+Purkervej 19 9520 Skørping,19,400000.0,15-05-2012,Fam.,1951,6,Villa,205,1960,
+Egholmsvej 12 9520 Skørping,12,525000.0,30-04-2012,Alm.,4487,4,Villa,117,1973,-41 %
+Stendalsvej 42 9520 Skørping,42,2235000.0,26-04-2012,Alm.,13881,5,Villa,161,1954,
+Lyngbyvej 99 9520 Skørping,99,10001.0,26-04-2012,Auktion,135,3,Villa,74,1912,
+Teglgårdsvej 6 9520 Skørping,6,830000.0,23-04-2012,Alm.,9222,3,Villa,90,1962,-8 %
+Mosskovvej 9A 9520 Skørping,0,1200000.0,20-04-2012,Alm.,5714,6,Villa,210,2014,5 %
+Lyngbyvej 55 9520 Skørping,55,505000.0,05-03-2012,Auktion,2305,9,Villa,219,1875,
+Jyllandsgade 47 9520 Skørping,47,1700000.0,02-03-2012,Alm.,4197,11,Villa,405,1908,-15 %
+Sætervej 10 9520 Skørping,10,2600000.0,21-02-2012,Alm.,13684,6,Villa,190,1984,-4 %
+Mosevej 14 9520 Skørping,14,310000.0,21-02-2012,Alm.,2561,4,Villa,121,2012,
+Hanehøjvej 29 9520 Skørping,29,4000000.0,07-02-2012,Alm.,16949,7,Stuehus,236,1917,
+Hyldalsvej 1 9520 Skørping,1,850000.0,07-02-2012,Auktion,6071,5,Villa,140,1986,-32 %
+Birkedammen 18 9520 Skørping,18,950000.0,02-02-2012,Alm.,7600,6,Villa,125,1915,-3 %
+Stubberupvej 42 9520 Skørping,42,61200.0,30-01-2012,Fam.,283,9,Villa,216,1936,
+Ved Skoven 10 9520 Skørping,10,413375.0,27-01-2012,Alm.,4644,3,Rækkehus,89,1983,
+Gravlevvej 1 9520 Skørping,1,1215000.0,27-01-2012,Alm.,9067,7,Villa,134,1970,-18 %
+Jyllandsgade 77 9520 Skørping,77,800000.0,18-01-2012,Alm.,6837,4,Villa,117,1967,-20 %
+Vesterbygade 22 9520 Skørping,22,175000.0,07-01-2012,Alm.,2011,3,Villa,87,1870,-12 %
+Stentoften 19 9520 Skørping,19,2750000.0,06-01-2012,Alm.,12168,6,Villa,226,1968,
+Bentevej 42 9520 Skørping,42,1852102.0,05-01-2012,Fam.,8457,6,Villa,219,1974,
+Gammel Skørpingvej 9 9520 Skørping,9,1260000.0,09-12-2011,Alm.,7200,7,Villa,175,1920,
+Ottrup Bakker 17 9520 Skørping,17,3275000.0,27-11-2011,Alm.,19848,5,Villa,165,2008,-6 %
+Aarestrupvej 100 9520 Skørping,100,725000.0,24-11-2011,Auktion,4801,5,Villa,151,1965,-50 %
+Dollerup Byvej 15 9520 Skørping,15,270000.0,21-11-2011,Alm.,2842,3,Villa,95,1962,-32 %
+Sigsgårdsvej 4 9520 Skørping,4,170000.0,16-11-2011,Alm.,491,7,Stuehus,346,2013,
+Vesterbygade 6A 9520 Skørping,0,600000.0,11-11-2011,Alm.,0,4,Lejlighed,146,1957,
+Gerding Gade 3 9520 Skørping,3,550000.0,10-11-2011,Fam.,1978,5,Stuehus,278,1929,
+Degnevænget 16 9520 Skørping,16,2500000.0,08-11-2011,Alm.,14970,4,Villa,167,1998,-7 %
+Mølleparken 8 9520 Skørping,8,1337500.0,03-11-2011,Alm.,12500,5,Villa,107,1963,-3 %
+Aarestrupvej 74 9520 Skørping,74,823275.0,31-10-2011,Alm.,4355,7,Stuehus,189,1951,-70 %
+Mølleparken 9 9520 Skørping,9,1600000.0,31-10-2011,Alm.,11851,5,Villa,135,1970,-8 %
+Højvangstoften 27 9520 Skørping,27,551500.0,18-10-2011,Alm.,3468,2,Villa,159,2006,
+Skrænten 8 9520 Skørping,8,1625000.0,15-10-2011,Alm.,11607,4,Villa,140,1970,-4 %
+Jyllandsgade 55 9520 Skørping,55,1042500.0,12-10-2011,Alm.,7239,4,Villa,144,1957,
+Smallegade 17 9520 Skørping,17,1750000.0,28-09-2011,Alm.,9776,6,Villa,179,1894,
+Egholmsvej 19 9520 Skørping,19,1000000.0,20-09-2011,Alm.,0,4,Villa,150,1968,-28 %
+Heden 7 9520 Skørping,7,4250000.0,14-09-2011,Alm.,18805,6,Villa,226,2008,-5 %
+Stendalsvej 8A 9520 Skørping,0,1750000.0,12-09-2011,Alm.,13257,6,Villa,132,1962,-8 %
+Gerdingvej 45 9520 Skørping,45,2269285.0,09-09-2011,Alm.,11577,5,Stuehus,196,1972,
+Gerdingvej 17 9520 Skørping,17,475000.0,31-08-2011,Alm.,2435,10,Stuehus,195,1923,-32 %
+Horsensvej 44 9520 Skørping,44,820000.0,29-08-2011,Alm.,3886,7,Villa,211,1897,-8 %
+Nykirkevej 4 9520 Skørping,4,2150000.0,25-08-2011,Alm.,9267,7,Villa,232,1912,-14 %
+Tvoruphøjevej 6 9520 Skørping,6,1128000.0,15-08-2011,Alm.,7621,4,Villa,148,1925,-10 %
+Gerdingvej 18 9520 Skørping,18,14739285.0,13-07-2011,Andet,94482,6,Stuehus,156,1931,
+Bækhusevej 10 9520 Skørping,10,1000000.0,09-07-2011,Alm.,11494,3,Villa,87,1947,-9 %
+Rebildvej 10 9520 Skørping,10,1400000.0,27-06-2011,Alm.,14000,4,Villa,100,1955,-5 %
+Horsensvej 32 9520 Skørping,32,223086.0,24-06-2011,Alm.,1784,4,Villa,125,1897,
+Brøndumvej 55 9520 Skørping,55,80000.0,23-06-2011,Alm.,380,14,Stuehus,210,1919,
+Røde Møllevej 12 9520 Skørping,12,3350000.0,22-06-2011,Alm.,25000,4,Villa,134,1979,
+Skindbjerglundvej 17 9520 Skørping,17,1400000.0,16-06-2011,Alm.,9459,5,Stuehus,148,1951,
+Dollerup Byvej 1 9520 Skørping,1,510000.0,07-06-2011,Alm.,5666,4,Villa,90,1912,
+Purkervej 20A 9520 Skørping,0,1400000.0,07-06-2011,Alm.,12389,5,Villa,113,1976,
+Rosenvangen 54 9520 Skørping,54,400000.0,28-04-2011,Alm.,3278,4,Villa,122,1974,-30 %
+Brodsøvej 7 9520 Skørping,7,170000.0,13-04-2011,Alm.,3953,3,Sommerhus,43,1962,
+Vandværksvej 11 9520 Skørping,11,960000.0,29-03-2011,Alm.,8067,5,Villa,119,1936,-12 %
+Østerbygade 13 9520 Skørping,13,1470000.0,24-03-2011,Alm.,8305,5,Villa,177,1973,-2 %
+Vesterbygade 24A 9520 Skørping,0,550000.0,21-03-2011,Alm.,4230,5,Villa,130,1925,-8 %
+Stentoften 61 9520 Skørping,61,1450000.0,14-03-2011,Alm.,8682,4,Villa,167,1978,
+Cimbrervej 10 9520 Skørping,10,1900000.0,06-03-2011,Alm.,10270,7,Villa,185,1980,-6 %
+Rosenvænget 1 9520 Skørping,1,1060000.0,15-02-2011,Alm.,6385,7,Villa,166,1967,-3 %
+Jyllandsgade 37 9520 Skørping,37,950000.0,07-02-2011,Alm.,6785,5,Villa,140,1952,-24 %
+Hanebakken 2 9520 Skørping,2,1375000.0,29-01-2011,Alm.,13750,3,Villa,100,1970,
+Stubberupvej 13 9520 Skørping,13,900000.0,27-01-2011,Alm.,7758,4,Villa,116,1981,-10 %
+Sdr. Banevej 4 9520 Skørping,4,500000.0,25-01-2011,Alm.,5376,3,Rækkehus,93,1986,
+Gyvelvej 4 9520 Skørping,4,1700000.0,08-01-2011,Alm.,6910,8,Villa,246,1970,-8 %
+Stenkrogen 2 9520 Skørping,2,1525000.0,06-01-2011,Alm.,8026,5,Villa,190,1973,-17 %
+Hedesvinget 7 9520 Skørping,7,970000.0,28-12-2010,Alm.,6510,5,Villa,149,2011,
+Præstegårdsheden 10 9520 Skørping,10,1000000.0,27-12-2010,Alm.,5586,4,Villa,179,2012,
+Præstegårdsheden 19 9520 Skørping,19,900000.0,21-12-2010,Alm.,4477,7,Villa,201,2011,-5 %
+Møllevej 31 9520 Skørping,31,300000.0,17-12-2010,Alm.,1704,6,Villa,176,2012,
+Egholmsvej 16 9520 Skørping,16,1675000.0,10-12-2010,Alm.,12137,5,Villa,138,1973,-1 %
+Haverslevvej 67 9520 Skørping,67,795000.0,08-12-2010,Alm.,7361,5,Villa,108,1969,0 %
+Madum Søvej 2 9520 Skørping,2,680000.0,03-12-2010,Auktion,3736,5,Villa,182,1920,
+Hobrovej 214 9520 Skørping,214,460500.0,26-11-2010,Alm.,3654,4,Villa,126,1969,
+Østerbygade 8 9520 Skørping,8,276499.0,24-11-2010,Fam.,2285,3,Villa,121,1890,
+Cimbrervej 23 9520 Skørping,23,1375000.0,18-11-2010,Alm.,12276,4,Villa,112,1969,-5 %
+Gammel Skørpingvej 158 9520 Skørping,158,110000.0,18-11-2010,Auktion,873,5,Villa,126,1887,-83 %
+Brøndumvej 30 9520 Skørping,30,500000.0,15-11-2010,Alm.,2475,6,Stuehus,202,1921,
+Vinkelvej 3 9520 Skørping,3,364262.0,12-11-2010,Alm.,3167,4,Villa,115,1926,
+Skrænten 4 9520 Skørping,4,1600000.0,11-11-2010,Fam.,11188,5,Villa,143,1968,
+Rosenvangen 4 9520 Skørping,4,1200000.0,10-11-2010,Alm.,5263,8,Villa,228,1972,-8 %
+Birkedammen 12 9520 Skørping,12,1275000.0,02-11-2010,Alm.,9444,4,Villa,135,1971,
+Galgevangen 7 9520 Skørping,7,1125000.0,26-10-2010,Alm.,7352,4,Villa,153,1985,
+Lyngbyvej 45 9520 Skørping,45,665000.0,24-10-2010,Alm.,4925,4,Villa,135,1951,
+Rebildvej 12 9520 Skørping,12,1320000.0,15-10-2010,Alm.,13069,3,Villa,101,1956,-2 %
+Møllevej 4A 9520 Skørping,0,975000.0,12-10-2010,Alm.,8057,5,Rækkehus,121,1985,
+Hyldalsvej 3 9520 Skørping,3,2949000.0,22-09-2010,Alm.,13780,7,Villa,214,1914,-2 %
+Præstegårdsheden 36 9520 Skørping,36,2295000.0,16-09-2010,Alm.,11953,5,Villa,192,2008,-8 %
+Haverslevvej 32 9520 Skørping,32,3846250.0,13-09-2010,Fam.,24343,5,Stuehus,158,1975,
+Volbjerg 7 9520 Skørping,7,1255000.0,13-09-2010,Alm.,10286,4,Villa,122,1955,-5 %
+Sverrighusvej 19 9520 Skørping,19,1825000.0,13-09-2010,Alm.,13619,6,Villa,134,1946,-6 %
+Hedesvinget 6 9520 Skørping,6,780000.0,13-09-2010,Alm.,4727,5,Villa,165,2011,-2 %
+Hanesvinget 8 9520 Skørping,8,1250000.0,08-09-2010,Alm.,7183,4,Villa,174,2006,
+Skørpingvej 94 9520 Skørping,94,525000.0,08-09-2010,Alm.,3220,4,Villa,163,1932,-12 %
+Ingersvej 7 9520 Skørping,7,4000000.0,17-08-2010,Alm.,17467,6,Villa,229,2008,-6 %
+Hedesvinget 20 9520 Skørping,20,1100000.0,13-08-2010,Alm.,5820,6,Villa,189,2011,
+Lyngvej 4 9520 Skørping,4,1400000.0,11-08-2010,Alm.,0,2,Villa,118,1969,0 %
+Østerbygade 18 9520 Skørping,18,635000.0,29-07-2010,Alm.,4319,5,Villa,147,1973,-9 %
+Brøndumvej 40 9520 Skørping,40,360000.0,27-07-2010,Auktion,4500,3,Villa,80,1907,
+Ulvkærvej 1 9520 Skørping,1,1200000.0,21-07-2010,Alm.,5882,4,Stuehus,204,1960,
+Hedesvinget 8 9520 Skørping,8,935000.0,27-06-2010,Alm.,4211,6,Villa,222,2011,-6 %
+Horsens Hedegårdsvej 19 9520 Skørping,19,400000.0,15-06-2010,Alm.,2234,5,Stuehus,179,2011,
+Horsens Hedegårdsvej 15 9520 Skørping,15,400000.0,15-06-2010,Alm.,2580,6,Stuehus,155,1995,
+Rebildvej 1 9520 Skørping,1,810000.0,09-06-2010,Alm.,8265,3,Villa,98,1962,-7 %
+Stubberupvej 3 9520 Skørping,3,500000.0,31-05-2010,Alm.,3448,5,Villa,145,1952,0 %
+Th Hoffmannsvej 3 9520 Skørping,3,620000.0,28-05-2010,Alm.,4217,6,Villa,147,1908,
+Lyngbyvej 78 9520 Skørping,78,180000.0,26-05-2010,Auktion,1551,4,Villa,116,1952,-74 %
+Højparken 6 9520 Skørping,6,840000.0,17-05-2010,Alm.,6614,4,Villa,127,1980,-6 %
+Bentevej 15 9520 Skørping,15,2055290.0,17-05-2010,Alm.,8745,7,Villa,235,1979,
+Ved Skoven 8 9520 Skørping,8,800000.0,13-05-2010,Alm.,8247,3,Rækkehus,97,1983,-6 %
+Rosenvangen 29 9520 Skørping,29,895000.0,05-05-2010,Alm.,5927,4,Villa,151,1973,0 %
+Gerdingvej 42A 9520 Skørping,0,563000.0,04-05-2010,Fam.,2947,5,Villa,191,1981,
+Fræervej 9B 9520 Skørping,0,429619.0,19-04-2010,Fam.,2441,4,Villa,176,1877,-67 %
+Mølholmvej 14 9520 Skørping,14,1980000.0,13-04-2010,Alm.,15230,5,Stuehus,130,1877,-18 %
+Skindbjerglundvej 12 9520 Skørping,12,1800000.0,12-04-2010,Alm.,8144,5,Stuehus,221,1951,-10 %
+Erstedvej 11 9520 Skørping,11,535000.0,10-04-2010,Alm.,2675,6,Stuehus,200,1902,
+Blenstrupvej 38 9520 Skørping,38,500000.0,25-03-2010,Alm.,4000,5,Stuehus,125,1828,
+Smallegade 11 9520 Skørping,11,1575000.0,22-03-2010,Alm.,11842,7,Villa,133,1934,-7 %
+Aalborgvej 42 9520 Skørping,42,7350000.0,16-03-2010,Alm.,35000,4,Stuehus,210,1790,
+Jyttevej 18 9520 Skørping,18,1875000.0,12-03-2010,Alm.,6996,7,Villa,268,1974,-6 %
+Himmerlandsvej 14 9520 Skørping,14,41814.0,07-03-2010,Alm.,215,7,Villa,194,1912,
+Egholmsvej 1 9520 Skørping,1,1295000.0,03-03-2010,Alm.,9055,4,Villa,143,1961,-4 %
+Hanebakken 24 9520 Skørping,24,980000.0,02-03-2010,Alm.,7840,4,Villa,125,1963,-11 %
+Lyngbyvej 98 9520 Skørping,98,687750.0,01-03-2010,Alm.,4143,6,Villa,166,1930,
+Lyngbyvej 16 9520 Skørping,16,870000.0,24-02-2010,Alm.,6214,4,Stuehus,140,1962,-17 %
+Aalborgvej 41 9520 Skørping,41,475000.0,19-02-2010,Alm.,3682,5,Villa,129,1924,-4 %
+Stubberupvej 26 9520 Skørping,26,1040000.0,18-02-2010,Fam.,6797,5,Villa,153,1910,
+Ingersvej 6 9520 Skørping,6,2945000.0,17-02-2010,Alm.,16638,3,Villa,177,2009,-2 %
+Jyllandsgade 75 9520 Skørping,75,1100000.0,15-02-2010,Alm.,10091,4,Villa,109,1960,-8 %
+Jyllandsgade 71 9520 Skørping,71,1290000.0,11-02-2010,Alm.,13578,3,Villa,95,1951,-6 %
+Præstegårdsheden 5 9520 Skørping,5,668375.0,09-02-2010,Alm.,3841,5,Villa,174,2010,-16 %
+Askildrupvej 9 9520 Skørping,9,950000.0,28-01-2010,Alm.,7307,5,Villa,130,1929,-5 %
+Vester Alle 11 9520 Skørping,11,1572045.0,27-01-2010,Alm.,19650,4,Villa,80,1948,-2 %
+Aalborgvej 49 9520 Skørping,49,1350000.0,25-01-2010,Alm.,7941,6,Villa,170,1955,
+Kildebakken 4 9520 Skørping,4,1350000.0,16-01-2010,Alm.,10800,4,Villa,125,1984,-4 %
+Hanebakkevej 10 9520 Skørping,10,1265000.0,14-01-2010,Alm.,11933,4,Villa,106,1986,-5 %
+Bavnehøjvej 9 9520 Skørping,9,495000.0,12-01-2010,Alm.,3535,4,Villa,140,1916,0 %
+Rosenvangen 21 9520 Skørping,21,725000.0,11-01-2010,Alm.,5942,3,Villa,122,1972,-9 %
+Tværgade 12 9520 Skørping,12,1600000.0,07-01-2010,Alm.,10810,5,Villa,148,1966,-6 %
+Petersmindevej 25 9520 Skørping,25,812500.0,22-12-2009,Andet,4954,6,Villa,164,2001,
+Degnevænget 14 9520 Skørping,14,1111000.0,17-12-2009,Alm.,5367,7,Villa,207,1999,
+Gerdingvej 28 9520 Skørping,28,438980.0,08-12-2009,Andet,2251,12,Engroshandel,195,1906,
+Skibstedvej 55 9520 Skørping,55,1800000.0,01-12-2009,Alm.,10112,5,Stuehus,178,1991,
+Hanesvinget 6 9520 Skørping,6,777277.0,29-11-2009,Andet,5551,6,Villa,140,2002,
+Erstedvej 6 9520 Skørping,6,1500000.0,27-11-2009,Alm.,8720,7,Stuehus,172,1850,
+Vandværksvej 3 9520 Skørping,3,447366.0,25-11-2009,Fam.,2727,7,Villa,164,1958,
+Stentoften 4 9520 Skørping,4,1645000.0,16-11-2009,Alm.,10751,6,Villa,153,1979,-3 %
+Mølleparken 14 9520 Skørping,14,1025000.0,16-11-2009,Alm.,6406,4,Villa,160,1964,-21 %
+Langmosevej 6 9520 Skørping,6,600000.0,14-11-2009,Alm.,2166,7,Stuehus,277,2012,
+Jenlebakken 2 9520 Skørping,2,1025000.0,11-11-2009,Alm.,8471,3,Villa,121,1959,-7 %
+Præstegårdsheden 26 9520 Skørping,26,2975000.0,10-11-2009,Alm.,17296,5,Villa,172,2007,-4 %
+Brøndumvej 36 9520 Skørping,36,685000.0,10-11-2009,Alm.,5956,3,Villa,115,1980,-9 %
+Drosselvej 2 9520 Skørping,2,1740000.0,05-11-2009,Alm.,8529,5,Villa,204,1965,-3 %
+Bentevej 6 9520 Skørping,6,1995000.0,03-11-2009,Alm.,13389,4,Villa,149,1977,0 %
+Gerdingvej 33 9520 Skørping,33,1265000.0,01-11-2009,Alm.,7067,7,Villa,179,1957,0 %
+Horsens Byvej 14 9520 Skørping,14,925000.0,27-10-2009,Alm.,7838,4,Villa,118,1914,-7 %
+Vesterbygade 9 9520 Skørping,9,445000.0,24-10-2009,Alm.,3423,4,Villa,130,1966,-10 %
+Rebild Skovhusevej 25 9520 Skørping,25,2099000.0,20-10-2009,Andet,10654,6,Villa,197,1944,
+Rebildvej 34 9520 Skørping,34,150000.0,01-10-2009,Alm.,1250,4,Villa,120,1934,
+Gammel Skørpingvej 66 9520 Skørping,66,2650000.0,26-09-2009,Alm.,15406,5,Villa,172,2009,-2 %
+Jyttevej 3 9520 Skørping,3,1700000.0,24-09-2009,Alm.,13281,4,Villa,128,1975,-6 %
+Dollerup Byvej 9 9520 Skørping,9,120000.0,15-09-2009,Alm.,1250,4,Villa,96,1900,-40 %
+Vesterbygade 24B 9520 Skørping,0,1037500.0,21-08-2009,Alm.,5669,6,Villa,183,1977,-9 %
+Egehusvej 4 9520 Skørping,4,2798000.0,14-08-2009,Alm.,17597,4,Rækkehus,159,2008,-5 %
+Horsensvej 3 9520 Skørping,3,900000.0,05-08-2009,Alm.,8181,3,Villa,110,1954,
+Enighedsvej 12 9520 Skørping,12,1050000.0,20-07-2009,Alm.,7954,6,Villa,132,1950,-12 %
+Vester Alle 22 9520 Skørping,22,1350000.0,10-06-2009,Alm.,13500,4,Villa,100,1947,-10 %
+Haverslevvej 64 9520 Skørping,64,670000.0,04-06-2009,Alm.,6320,3,Villa,106,1957,
+Jyttevej 25 9520 Skørping,25,1360000.0,04-06-2009,Alm.,0,6,Villa,251,1973,-9 %
+Bentevej 21 9520 Skørping,21,2400000.0,03-06-2009,Alm.,12834,4,Villa,187,1977,-4 %
+Tvoruphøjevej 25 9520 Skørping,25,900000.0,29-05-2009,Alm.,10588,3,Stuehus,85,1922,
+Kridtbakken 1 9520 Skørping,1,620000.0,18-05-2009,Alm.,3875,4,Villa,160,1948,-11 %
+Haverslevvej 83 9520 Skørping,83,596000.0,15-05-2009,Alm.,4584,3,Villa,130,1931,-8 %
+Bakkevej 2 9520 Skørping,2,2075000.0,11-05-2009,Alm.,19575,4,Villa,106,1959,-1 %
+Østerbygade 14 9520 Skørping,14,250000.0,05-05-2009,Alm.,1068,4,Stuehus,234,1890,
+Lyngbyvej 66 9520 Skørping,66,3200000.0,05-05-2009,Alm.,30769,5,Stuehus,104,1914,
+Aspvej 14 9520 Skørping,14,1488000.0,01-05-2009,Fam.,12000,4,Stuehus,124,1928,
+Aarestrupvej 96 9520 Skørping,96,568000.0,22-04-2009,Fam.,3527,6,Villa,161,1917,
+Jyttevej 16 9520 Skørping,16,1510000.0,16-04-2009,Alm.,11796,4,Villa,128,1977,-4 %
+Kornblomstvej 11 9520 Skørping,11,2700000.0,13-04-2009,Alm.,13567,4,Villa,199,1974,-10 %
+Stentoften 25 9520 Skørping,25,1385000.0,04-04-2009,Alm.,10653,4,Villa,130,1979,0 %
+Sætervej 13A 9520 Skørping,0,983638.0,01-04-2009,Andet,7127,5,Villa,138,1988,-54 %
+Egholmsvej 41 9520 Skørping,41,1380000.0,30-03-2009,Alm.,9517,5,Villa,145,1976,-3 %
+Hellum Byvej 14 9520 Skørping,14,350000.0,28-03-2009,Alm.,3333,4,Villa,105,1892,-68 %
+Mosevej 2 9520 Skørping,2,41814.0,26-03-2009,Alm.,351,5,Villa,119,1910,
+Ejstrupvej 7 9520 Skørping,7,448000.0,22-03-2009,Alm.,4618,4,Villa,97,1930,
+Lyngbyvej 42 9520 Skørping,42,2700000.0,19-03-2009,Alm.,35526,3,Villa,76,1955,
+Stubberhøjvej 3 9520 Skørping,3,13304000.0,17-03-2009,Alm.,55203,6,Stuehus,241,1950,
+Askildrupvej 16 9520 Skørping,16,825000.0,10-03-2009,Alm.,6395,5,Villa,129,1964,
+Birkedammen 7 9520 Skørping,7,775000.0,06-03-2009,Alm.,3954,5,Villa,196,2011,-3 %
+Blenstrupvej 19 9520 Skørping,19,600000.0,03-03-2009,Alm.,5217,5,Villa,115,1945,-14 %
+Rebild Skovhusevej 28 9520 Skørping,28,1098000.0,25-02-2009,Alm.,9150,5,Villa,120,1927,0 %
+Langmosevej 15 9520 Skørping,15,9040500.0,17-02-2009,Alm.,47085,6,Stuehus,192,1870,
+Mirabelvej 2 9520 Skørping,2,105000.0,16-02-2009,Alm.,840,3,Villa,125,1960,
+Hvingelhatvej 28 9520 Skørping,28,2000000.0,29-01-2009,Alm.,8583,8,Villa,233,1877,-7 %
+Præstevænget 5 9520 Skørping,5,1098000.0,27-01-2009,Alm.,8854,4,Villa,124,1957,
+Krastrupvej 4 9520 Skørping,4,1600000.0,22-01-2009,Alm.,7582,6,Stuehus,211,1775,
+Brændeskoven 6 9520 Skørping,6,1975000.0,19-01-2009,Alm.,10394,5,Villa,190,1951,0 %
+Purkervej 17 9520 Skørping,17,2485000.0,09-01-2009,Alm.,14969,6,Villa,166,1981,-4 %
+Lyngvej 10 9520 Skørping,10,475000.0,06-01-2009,Alm.,9500,2,Sommerhus,50,1966,
+Rosenvangen 1 9520 Skørping,1,1085000.0,17-12-2008,Alm.,5398,3,Villa,201,1972,
+Hellum Hedevej 7 9520 Skørping,7,824500.0,12-12-2008,Fam.,5647,5,Stuehus,146,1934,
+Haverslevvej 99 9520 Skørping,99,180000.0,08-12-2008,Auktion,2045,3,Villa,88,1964,
+Kildebakken 2 9520 Skørping,2,660000.0,08-12-2008,Auktion,5365,4,Villa,123,1920,
+Aarestrupvej 46 9520 Skørping,46,3800000.0,01-12-2008,Alm.,16888,8,Stuehus,225,1900,
+Rebildvej 42 9520 Skørping,42,2700000.0,24-11-2008,Alm.,13846,7,Villa,195,1927,-10 %
+Ved Skoven 4 9520 Skørping,4,900000.0,17-11-2008,Alm.,9278,3,Rækkehus,97,1983,-5 %
+Stentoften 16 9520 Skørping,16,2031500.0,17-11-2008,Alm.,10312,7,Villa,197,1988,-8 %
+Stentoften 49 9520 Skørping,49,2320000.0,16-11-2008,Alm.,12210,5,Villa,190,1977,-3 %
+Hanehøjvej 4 9520 Skørping,4,3700000.0,04-11-2008,Alm.,20000,3,Villa,185,1964,
+Skrænten 19 9520 Skørping,19,1945000.0,27-10-2008,Alm.,16767,4,Villa,116,1988,-9 %
+Purkervej 12 9520 Skørping,12,539158.0,18-10-2008,Alm.,4212,3,Villa,128,2006,
+Møllevej 1B 9520 Skørping,0,1150000.0,10-10-2008,Fam.,13529,2,Villa,85,1957,-8 %
+Heden 3 9520 Skørping,3,2530000.0,29-09-2008,Alm.,14540,5,Villa,174,2003,-5 %
+Tirsdalsvej 9 9520 Skørping,9,700000.0,29-09-2008,Alm.,6796,3,Stuehus,103,1877,
+Skindbjergvej 7 9520 Skørping,7,2400000.0,21-09-2008,Alm.,11483,6,Stuehus,209,2010,
+Aarestrupvej 50 9520 Skørping,50,1350000.0,17-09-2008,Alm.,7417,7,Stuehus,182,1900,-10 %
+Volbjerg 5 9520 Skørping,5,1200000.0,10-09-2008,Alm.,9160,4,Villa,131,1937,-14 %
+Troldbakkevej 5 9520 Skørping,5,450000.0,09-09-2008,Alm.,2812,5,Stuehus,160,1914,
+Horsensvej 8B 9520 Skørping,0,500000.0,09-09-2008,Alm.,3759,5,Stuehus,133,1856,
+Ved Skoven 16 9520 Skørping,16,960000.0,08-09-2008,Alm.,9896,3,Rækkehus,97,1983,-12 %
+Galgevangen 4 9520 Skørping,4,1830000.0,08-09-2008,Alm.,10639,3,Villa,172,2000,
+Kornblomstvej 3 9520 Skørping,3,1375000.0,03-09-2008,Alm.,11363,4,Villa,121,1972,-5 %
+Gerdingvej 15 9520 Skørping,15,1750000.0,17-08-2008,Alm.,10294,5,Stuehus,170,1964,-42 %
+Vinkelvej 13 9520 Skørping,13,2050000.0,12-08-2008,Alm.,10789,6,Villa,190,1965,
+Søtoften 3 9520 Skørping,3,1150000.0,11-08-2008,Alm.,5000,8,Villa,230,1975,
+Galgevangen 22 9520 Skørping,22,1150000.0,11-08-2008,Alm.,6571,5,Villa,175,1980,
+Gyvelvej 10 9520 Skørping,10,950000.0,04-08-2008,Alm.,9405,4,Villa,101,1963,-5 %
+Himmerlandsvej 24 9520 Skørping,24,1000000.0,31-07-2008,Alm.,0,6,Villa,145,1902,-5 %
+Møldrupvej 11 9520 Skørping,11,1275000.0,10-07-2008,Alm.,8732,6,Villa,146,1966,
+Gammel Skørpingvej 15 9520 Skørping,15,2950000.0,08-07-2008,Alm.,19666,5,Villa,150,1929,
+Hanesvinget 1 9520 Skørping,1,1150000.0,08-07-2008,Andet,0,6,Villa,201,2006,
+Præstevej 37 9520 Skørping,37,1950000.0,05-07-2008,Alm.,14130,6,Stuehus,138,1936,
+Skørpingvej 41 9520 Skørping,41,1489860.0,03-07-2008,Alm.,9029,6,Stuehus,165,1903,
+Lundegårdsvej 2 9520 Skørping,2,1000000.0,28-06-2008,Alm.,5882,5,Villa,170,1968,
+Ottrup Bakker 14 9520 Skørping,14,2950000.0,27-06-2008,Alm.,17251,6,Villa,171,1998,-2 %
+Kirkevej 5 9520 Skørping,5,3700000.0,26-06-2008,Alm.,15289,7,Stuehus,242,1940,
+Volbjerg 11 9520 Skørping,11,1250000.0,19-06-2008,Alm.,10416,4,Villa,120,1911,-16 %
+Smallegade 22 9520 Skørping,22,1700000.0,18-06-2008,Auktion,7657,7,Villa,222,1936,
+Skørpingvej 70 9520 Skørping,70,360000.0,10-06-2008,Alm.,2535,3,Villa,142,1950,-3 %
+Vesterbygade 8 9520 Skørping,8,595000.0,26-05-2008,Alm.,5085,5,Villa,117,1933,0 %
+Ritavej 16 9520 Skørping,16,1325000.0,20-05-2008,Alm.,10600,4,Rækkehus,125,1973,-5 %
+Egehusvej 6 9520 Skørping,6,889514.0,20-05-2008,Alm.,5594,4,Rækkehus,159,2008,-70 %
+Horsensvej 21 9520 Skørping,21,831000.0,08-05-2008,Andet,6248,9,Stuehus,133,1903,
+Haverslevvej 54 9520 Skørping,54,4150000.0,07-05-2008,Alm.,16801,8,Stuehus,247,1870,
+Smallegade 20 9520 Skørping,20,1100000.0,06-05-2008,Alm.,8593,5,Villa,128,1931,-8 %
+Rosenvangen 3 9520 Skørping,3,699000.0,29-04-2008,Alm.,5503,4,Villa,127,1978,0 %
+Hanebakken 22 9520 Skørping,22,1600000.0,28-04-2008,Alm.,12800,2,Villa,125,1959,-11 %
+Haverslevvej 77 9520 Skørping,77,240000.0,24-04-2008,Alm.,2000,5,Villa,120,1948,
+Petersmindevej 27 9520 Skørping,27,2978000.0,24-04-2008,Alm.,0,8,Villa,205,2002,-1 %
+Rosenvænget 8 9520 Skørping,8,1745000.0,19-04-2008,Alm.,10028,6,Villa,174,1972,0 %
+Tvoruphøjevej 14 9520 Skørping,14,480582.0,15-04-2008,Alm.,2126,6,Stuehus,226,1900,
+Rebildvej 32 9520 Skørping,32,1750000.0,15-04-2008,Alm.,15909,3,Stuehus,110,1850,
+Hanebakken 17 9520 Skørping,17,2075000.0,13-04-2008,Alm.,10024,6,Villa,207,1960,-5 %
+Skindbjergvej 3 9520 Skørping,3,1198000.0,09-04-2008,Alm.,6730,6,Villa,178,1890,0 %
+Skørping Skovbrynet 5 9520 Skørping,5,1200000.0,07-04-2008,Alm.,0,5,Villa,116,1962,
+Horsensvej 17B 9520 Skørping,0,580000.0,07-04-2008,Fam.,2624,6,Villa,221,1976,
+Svinget 6 9520 Skørping,6,1750000.0,29-03-2008,Fam.,7954,8,Villa,220,1965,
+Aalborgvej 66 9520 Skørping,66,1600000.0,12-03-2008,Alm.,10526,5,Stuehus,152,1939,
+Blenstrupvej 6 9520 Skørping,6,725000.0,09-03-2008,Alm.,5291,4,Villa,137,1956,-4 %
+Askildrupvej 15 9520 Skørping,15,625000.0,08-03-2008,Alm.,6313,3,Villa,99,1955,
+Præstegårdsheden 23 9520 Skørping,23,885000.0,03-03-2008,Alm.,4809,5,Villa,184,2009,-1 %
+Fræervej 2D 9520 Skørping,0,400000.0,27-02-2008,Alm.,1923,5,Villa,208,2011,
+Kirkevej 3 9520 Skørping,3,1198000.0,26-02-2008,Alm.,8040,6,Villa,149,1954,0 %
+Skindbjergvej 21 9520 Skørping,21,2165000.0,20-02-2008,Alm.,11045,7,Stuehus,196,1880,0 %
+Tinghusvej 2 9520 Skørping,2,900000.0,15-02-2008,Alm.,4326,8,Villa,208,1947,
+Enighedsvej 2 9520 Skørping,2,1000000.0,11-02-2008,Alm.,10526,4,Villa,95,1960,
+Møllevej 16 9520 Skørping,16,1050000.0,09-02-2008,Alm.,11931,3,Villa,88,1960,-7 %
+Vesterbygade 7 9520 Skørping,7,300000.0,04-02-2008,Alm.,1546,6,Villa,194,2010,
+Gerdingvej 36 9520 Skørping,36,493000.0,01-02-2008,Alm.,4401,6,Villa,112,1951,
+Damvej 6 9520 Skørping,6,1500000.0,30-01-2008,Alm.,11538,4,Villa,130,1972,
+Fræervej 7 9520 Skørping,7,2050000.0,29-01-2008,Fam.,11988,7,Stuehus,171,1943,
+Gerdingvej 1 9520 Skørping,1,105000.0,21-01-2008,Alm.,509,5,Stuehus,206,1867,
+Ottrup Bakker 19 9520 Skørping,19,2295000.0,14-01-2008,Alm.,15719,5,Villa,146,2000,0 %
+Gerding Gade 6 9520 Skørping,6,1000000.0,09-01-2008,Alm.,4032,7,Villa,248,1905,
+Vinkelvej 8 9520 Skørping,8,1850000.0,07-01-2008,Alm.,16086,6,Villa,115,1930,
+Mosevej 1 9520 Skørping,1,500000.0,07-01-2008,Alm.,2439,5,Villa,205,1900,
+Bentevej 2 9520 Skørping,2,1848000.0,30-12-2007,Alm.,12000,5,Villa,154,1977,0 %
+Aarestrupvej 61 9520 Skørping,61,3500000.0,19-12-2007,Fam.,15486,7,Stuehus,226,1934,
+Gammel Skørpingvej 16 9520 Skørping,16,940000.0,17-12-2007,Alm.,4541,6,Villa,207,1920,
+Syrenvej 2 9520 Skørping,2,717500.0,14-12-2007,Alm.,7552,3,Villa,95,1963,-2 %
+Rebildvej 7A 9520 Skørping,0,2412500.0,13-12-2007,Alm.,15871,6,Villa,152,1928,-3 %
+Egehusvej 2 9520 Skørping,2,839514.0,04-12-2007,Alm.,5279,4,Rækkehus,159,2008,-72 %
+Egholmsvej 13 9520 Skørping,13,1798000.0,29-11-2007,Alm.,12315,5,Villa,146,1907,0 %
+Blenstrupvej 27 9520 Skørping,27,750000.0,27-11-2007,Alm.,4934,4,Villa,152,1938,-6 %
+Hvingelhatvej 24 9520 Skørping,24,1448000.0,26-11-2007,Alm.,6552,6,Stuehus,221,1923,-3 %
+Aalborgvej 50A 9520 Skørping,0,1120000.0,26-11-2007,Auktion,5517,8,Villa,203,1900,
+Skørpingholmevej 8 9520 Skørping,8,1100000.0,22-11-2007,Alm.,6832,5,Villa,161,1900,
+Rebildvej 26 9520 Skørping,26,2350000.0,19-11-2007,Alm.,9038,7,Villa,260,1973,
+Purkervej 24A 9520 Skørping,0,2498000.0,14-11-2007,Alm.,0,4,Rækkehus,192,1982,0 %
+Præstegårdsheden 1 9520 Skørping,1,3126621.0,12-11-2007,Alm.,17764,5,Villa,176,2008,4 %
+Th Hoffmannsvej 2 9520 Skørping,2,1250000.0,02-11-2007,Alm.,6944,7,Villa,180,1902,-9 %
+Mølholmvej 13 9520 Skørping,13,900000.0,01-11-2007,Alm.,12328,4,Villa,73,1962,
+Ny Tustrupvej 8 9520 Skørping,8,398000.0,25-10-2007,Alm.,5527,2,Villa,72,1955,
+Ranunkelvej 15 9520 Skørping,15,1030000.0,16-10-2007,Alm.,6959,4,Villa,148,1977,
+Gammel Skørpingvej 25 9520 Skørping,25,440000.0,15-10-2007,Fam.,4150,3,Villa,106,1939,
+Gravlevvej 12 9520 Skørping,12,164794.0,14-10-2007,Alm.,1029,3,Stuehus,160,1777,
+Egholmsvej 25 9520 Skørping,25,1148000.0,10-10-2007,Alm.,0,7,Villa,137,1972,0 %
+Blenstrupvej 13 9520 Skørping,13,700000.0,04-10-2007,Alm.,4666,5,Stuehus,150,1900,
+Blenstrupvej 36 9520 Skørping,36,750000.0,02-10-2007,Alm.,2788,7,Villa,269,1952,
+Aarestrupvej 82 9520 Skørping,82,1690000.0,24-09-2007,Alm.,6679,6,Stuehus,253,1900,0 %
+Teglgårdsvej 5 9520 Skørping,5,2800000.0,24-09-2007,Alm.,15053,8,Villa,186,1951,-3 %
+Gerding Gade 2 9520 Skørping,2,827000.0,14-09-2007,Alm.,7728,3,Villa,107,1964,
+Ranunkelvej 3 9520 Skørping,3,895000.0,13-09-2007,Alm.,7920,4,Villa,113,1976,
+Stubberupvej 4 9520 Skørping,4,1075000.0,12-09-2007,Alm.,8464,6,Villa,127,1938,
+Degnevænget 33 9520 Skørping,33,2248000.0,11-09-2007,Alm.,15397,6,Villa,146,1998,0 %
+Jyllandsgade 14 9520 Skørping,14,1472650.0,05-09-2007,Alm.,8561,12,Detailhandel,172,1912,
+Skørpingvej 64 9520 Skørping,64,162500.0,05-09-2007,Andet,1076,4,Stuehus,151,1907,
+Skørpingvej 110 9520 Skørping,110,1000000.0,03-09-2007,Alm.,7352,4,Stuehus,136,1852,
+Tinghusvej 3 9520 Skørping,3,1210000.0,27-08-2007,Fam.,0,8,Stuehus,185,1940,
+Vester Alle 15 9520 Skørping,15,1650000.0,23-08-2007,Alm.,15714,5,Villa,105,1957,
+Jyllandsgade 57D 9520 Skørping,0,1183000.0,21-08-2007,Alm.,12195,4,Rækkehus,97,1986,-1 %
+Himmerlandsvej 26 9520 Skørping,26,1575000.0,10-08-2007,Alm.,12804,7,Villa,123,1907,-1 %
+Egehusvej 12 9520 Skørping,12,879514.0,10-08-2007,Alm.,5531,4,Rækkehus,159,2008,-70 %
+Jyttevej 4 9520 Skørping,4,1350000.0,09-08-2007,Alm.,10546,4,Villa,128,1974,-2 %
+Brøndumvej 20 9520 Skørping,20,6300000.0,07-08-2007,Fam.,35000,7,Stuehus,180,1778,
+Stubberupvej 25 9520 Skørping,25,1350000.0,03-08-2007,Alm.,11637,3,Stuehus,116,1964,-7 %
+Lyngvej 5 9520 Skørping,5,1545000.0,02-08-2007,Alm.,11976,4,Villa,129,1975,0 %
+Mosskovvej 11 9520 Skørping,11,2700000.0,31-07-2007,Alm.,12796,6,Villa,211,1935,-10 %
+Rosenvangen 15 9520 Skørping,15,1100000.0,31-07-2007,Alm.,7913,5,Villa,139,1977,-4 %
+Præstevej 4 9520 Skørping,4,685000.0,22-07-2007,Alm.,6008,4,Villa,114,1940,9 %
+Petersmindevej 39 9520 Skørping,39,3500000.0,13-07-2007,Alm.,19021,5,Villa,184,2002,-4 %
+Heden 21 9520 Skørping,21,3300000.0,09-07-2007,Alm.,12840,6,Villa,257,2005,-8 %
+Mølholmvej 19 9520 Skørping,19,1600000.0,05-07-2007,Alm.,7804,7,Villa,205,1931,
+Skindbjergvej 25 9520 Skørping,25,2500000.0,04-07-2007,Alm.,13736,7,Stuehus,182,1899,
+Vesterbygade 38 9520 Skørping,38,1125100.0,04-07-2007,Alm.,6250,7,Stuehus,180,1952,
+Præstegårdsheden 44 9520 Skørping,44,1925000.0,29-06-2007,Alm.,0,6,Villa,172,2006,-12 %
+Hellum Byvej 15 9520 Skørping,15,1700000.0,28-06-2007,Alm.,6967,9,Stuehus,244,1890,
+Gravlevvej 9 9520 Skørping,9,1461000.0,27-06-2007,Alm.,7689,7,Villa,190,1910,
+"Jyllandsgade 5A, 1 9520 Skørping",1,500000.0,25-06-2007,Alm.,8474,1,Lejlighed,59,1949,
+"Jyllandsgade 5A, 2 9520 Skørping",2,380000.0,25-06-2007,Alm.,8085,2,Lejlighed,47,1949,
+Præstegårdsheden 15 9520 Skørping,15,825000.0,12-06-2007,Alm.,2433,5,Villa,339,2009,
+Gerdingvej 25 9520 Skørping,25,515000.0,11-06-2007,Alm.,2668,5,Villa,193,1877,
+Hellum Byvej 5 9520 Skørping,5,665000.0,05-06-2007,Alm.,6519,3,Villa,102,1954,-3 %
+Purkervej 16 9520 Skørping,16,1200000.0,04-06-2007,Alm.,7500,4,Villa,160,1959,
+Ejstrupvej 1 9520 Skørping,1,850000.0,02-06-2007,Alm.,4619,6,Villa,184,1946,
+Skørpingvej 88 9520 Skørping,88,525000.0,02-06-2007,Alm.,3645,8,Villa,144,1960,
+Aarestrupvej 51 9520 Skørping,51,740000.0,18-05-2007,Alm.,5068,5,Stuehus,146,1927,0 %
+Mølleparken 21 9520 Skørping,21,1320000.0,09-05-2007,Alm.,6839,8,Villa,193,1969,-2 %
+Mølleparken 20 9520 Skørping,20,2005000.0,03-05-2007,Alm.,9413,37,Villa,213,1964,4 %
+Hanebakken 37 9520 Skørping,37,855000.0,02-05-2007,Alm.,9095,4,Villa,94,1959,-5 %
+Vandværksvej 9 9520 Skørping,9,600000.0,02-05-2007,Alm.,4511,3,Villa,133,1947,-4 %
+Skråvejen 1 9520 Skørping,1,498466.0,01-05-2007,Andet,2932,4,Villa,170,1948,
+Horsensvej 9 9520 Skørping,9,757000.0,30-04-2007,Alm.,2934,6,Villa,258,1954,-5 %
+Enighedsvej 9 9520 Skørping,9,492921.0,26-04-2007,Alm.,5799,2,Villa,85,1958,
+Stentoften 26 9520 Skørping,26,1245000.0,26-04-2007,Alm.,11745,4,Villa,106,1986,
+Haverslevvej 105 9520 Skørping,105,422500.0,16-04-2007,Alm.,4747,4,Villa,89,1958,
+Jyllandsgade 22 9520 Skørping,22,2725000.0,12-04-2007,Alm.,9837,20,Villa,277,1919,
+Præstegårdsheden 30 9520 Skørping,30,995000.0,10-04-2007,Alm.,4606,7,Villa,216,2009,0 %
+Hanebuen 3 9520 Skørping,3,2398000.0,30-03-2007,Alm.,16093,5,Villa,149,2005,0 %
+Stubberupvej 16 9520 Skørping,16,520000.0,30-03-2007,Alm.,0,7,Villa,205,1887,-11 %
+Hanebakken 6 9520 Skørping,6,2595000.0,27-03-2007,Alm.,16320,5,Villa,159,2007,
+Frugthaven 11 9520 Skørping,11,1995000.0,22-03-2007,Alm.,12018,6,Villa,166,1980,
+Præstevej 38 9520 Skørping,38,1500000.0,05-03-2007,Alm.,9316,7,Stuehus,161,1948,
+Rebildvej 8 9520 Skørping,8,1495000.0,17-02-2007,Alm.,9645,3,Villa,155,1954,-2 %
+Horsensvej 45 9520 Skørping,45,2400000.0,15-02-2007,Alm.,0,6,Stuehus,271,1880,-14 %
+Præstevej 1 9520 Skørping,1,1100000.0,06-02-2007,Alm.,6470,5,Villa,170,1930,
+Skrænten 9 9520 Skørping,9,2498000.0,26-01-2007,Alm.,12810,7,Villa,195,1968,0 %
+Tirsdalsvej 1 9520 Skørping,1,3155845.0,25-01-2007,Fam.,18033,4,Stuehus,175,1900,
+Møllevej 38 9520 Skørping,38,885000.0,17-01-2007,Alm.,8850,3,Villa,100,1963,-8 %
+Mølleparken 30 9520 Skørping,30,1180000.0,15-01-2007,Alm.,10727,3,Villa,110,1966,
+Ottrup Bakker 9 9520 Skørping,9,648000.0,12-01-2007,Alm.,3176,5,Villa,204,2008,
+Ottrup Bakker 11 9520 Skørping,11,625000.0,12-01-2007,Alm.,2133,6,Villa,293,2007,
+Stubberupvej 48 9520 Skørping,48,10800000.0,11-01-2007,Alm.,44444,7,Stuehus,243,1929,
+Ottrup Bakker 13 9520 Skørping,13,548000.0,05-01-2007,Alm.,3341,6,Villa,164,2009,
+Ottrup Bakker 15 9520 Skørping,15,648000.0,05-01-2007,Alm.,2612,6,Villa,248,2010,
+Brøndumvej 2 9520 Skørping,2,745000.0,03-01-2007,Alm.,5102,5,Villa,146,1964,
+Vesterbygade 30 9520 Skørping,30,270000.0,21-12-2006,Alm.,4285,2,Villa,63,1777,
+Skrænten 3 9520 Skørping,3,1548000.0,20-12-2006,Alm.,9987,4,Villa,155,1971,
+Røde Møllevej 30 9520 Skørping,30,2450000.0,18-12-2006,Alm.,12760,5,Stuehus,192,1907,
+Jyllandsgade 40 9520 Skørping,40,850000.0,12-12-2006,Fam.,4521,8,Villa,188,1905,
+Aspvej 6 9520 Skørping,6,931500.0,05-12-2006,Fam.,3726,7,Stuehus,250,1850,
+Jægersborgvej 26 9520 Skørping,26,879514.0,01-12-2006,Alm.,5531,4,Rækkehus,159,2008,
+Præstegårdsheden 4 9520 Skørping,4,585000.0,29-11-2006,Alm.,3062,5,Villa,191,2009,
+Jægersborgvej 24 9520 Skørping,24,879514.0,28-11-2006,Alm.,5531,4,Rækkehus,159,2008,
+Østerbygade 7 9520 Skørping,7,800000.0,27-11-2006,Alm.,5633,7,Villa,142,1930,
+Hvingelhatvej 21 9520 Skørping,21,870000.0,06-11-2006,Alm.,0,4,Stuehus,201,1873,
+Egehusvej 10 9520 Skørping,10,879514.0,03-11-2006,Alm.,5531,4,Rækkehus,159,2008,
+Stubberupvej 20 9520 Skørping,20,89250.0,15-10-2006,Fam.,1312,3,Sommerhus,68,1969,
+Kridtbakken 11 9520 Skørping,11,1780000.0,04-10-2006,Alm.,7447,8,Stuehus,239,1947,
+Vandværksvej 23 9520 Skørping,23,632598.0,03-10-2006,Alm.,3514,7,Villa,180,1979,
+Egehusvej 16 9520 Skørping,16,929514.0,02-10-2006,Alm.,5846,4,Rækkehus,159,2008,
+Langmosevej 2 9520 Skørping,2,552500.0,27-09-2006,Fam.,6500,3,Stuehus,85,1903,
+Ørnebjergvej 10 9520 Skørping,10,3475000.0,27-09-2006,Alm.,22712,4,Stuehus,153,1930,
+Hobrovej 191 9520 Skørping,191,1025000.0,21-09-2006,Alm.,7592,4,Villa,135,1900,
+Ranunkelvej 4 9520 Skørping,4,955000.0,19-09-2006,Alm.,0,5,Villa,164,1975,
+Bentevej 19 9520 Skørping,19,2315000.0,10-09-2006,Alm.,13698,4,Villa,169,2001,
+Jyllandsgade 32 9520 Skørping,32,848000.0,04-09-2006,Alm.,6057,5,Villa,140,1880,
+Mølleparken 15 9520 Skørping,15,1375000.0,24-08-2006,Alm.,0,6,Villa,162,1964,
+Stentoften 50 9520 Skørping,50,1238000.0,23-08-2006,Alm.,11679,4,Villa,106,1986,
+Gerdingvej 16 9520 Skørping,16,2000000.0,21-08-2006,Alm.,10204,7,Stuehus,196,1975,
+Stubberhøjvej 8 9520 Skørping,8,53471.0,19-08-2006,Alm.,351,7,Stuehus,152,1905,
+Brøndumvej 38 9520 Skørping,38,800000.0,09-08-2006,Alm.,0,4,Villa,196,1930,
+Sætervej 24 9520 Skørping,24,2975000.0,30-07-2006,Alm.,17296,7,Villa,172,1987,
+Præstegårdsheden 28 9520 Skørping,28,795000.0,14-07-2006,Alm.,4595,5,Villa,173,2006,
+St Brøndum Mark 5 9520 Skørping,5,1260000.0,06-07-2006,Alm.,5294,7,Villa,238,1945,
+Hanebakkevej 6 9520 Skørping,6,1280000.0,01-07-2006,Andet,12075,4,Rækkehus,106,1965,
+Røde Møllevej 4 9520 Skørping,4,5500000.0,30-06-2006,Alm.,16320,9,Villa,337,1866,
+Sct Jørgensvej 6 9520 Skørping,6,485000.0,27-06-2006,Alm.,3849,3,Stuehus,126,1890,
+Møllevej 28 9520 Skørping,28,1198000.0,21-06-2006,Alm.,10067,5,Villa,119,1962,
+Teglgårdsvej 3 9520 Skørping,3,500000.0,20-06-2006,Alm.,3225,5,Villa,155,1857,
+Præstegårdsheden 9 9520 Skørping,9,605000.0,18-06-2006,Alm.,4172,5,Villa,145,2008,
+Blenstrupvej 20 9520 Skørping,20,5822500.0,16-06-2006,Fam.,36390,7,Stuehus,160,1916,
+Gammel Skørpingvej 23 9520 Skørping,23,1190000.0,10-06-2006,Alm.,12659,4,Villa,94,1935,
+Jyllandsgade 39 9520 Skørping,39,1220000.0,07-06-2006,Alm.,10000,4,Villa,122,1900,
+Gravlevvej 7 9520 Skørping,7,475000.0,06-06-2006,Fam.,2794,6,Villa,170,1915,
+Ranunkelvej 13 9520 Skørping,13,1050000.0,31-05-2006,Alm.,7000,6,Villa,150,1976,
+Stendalsvej 46 9520 Skørping,46,1998000.0,28-05-2006,Alm.,0,6,Villa,194,1877,
+Madum Søvej 8 9520 Skørping,8,600000.0,22-05-2006,Alm.,5000,7,Villa,120,1964,
+Møllebakken 4 9520 Skørping,4,250000.0,08-05-2006,Andet,1269,6,Villa,197,1974,
+Purkervej 7 9520 Skørping,7,1865000.0,05-05-2006,Alm.,0,7,Villa,194,1959,
+Mølleparken 11 9520 Skørping,11,1250000.0,05-05-2006,Alm.,9920,4,Villa,126,1965,
+Mølleparken 24 9520 Skørping,24,1100000.0,05-05-2006,Alm.,7801,4,Villa,141,2007,
+Ranunkelvej 17 9520 Skørping,17,805000.0,03-05-2006,Alm.,6338,4,Villa,127,1978,
+Præstegårdsheden 3 9520 Skørping,3,450000.0,28-04-2006,Alm.,2122,5,Villa,212,2009,
+Sdr Kirkevej 16 9520 Skørping,16,2217000.0,27-04-2006,Alm.,11855,6,Villa,187,1955,
+Fræervej 13 9520 Skørping,13,700000.0,23-04-2006,Alm.,4794,5,Villa,146,1970,
+Præstevej 32 9520 Skørping,32,1200000.0,04-04-2006,Alm.,12631,4,Stuehus,95,1923,
+Hanebuen 18 9520 Skørping,18,2100000.0,03-04-2006,Alm.,12962,5,Villa,162,2006,
+Højparken 16 9520 Skørping,16,725000.0,02-04-2006,Alm.,6531,4,Villa,111,1984,
+Stenkrogen 13 9520 Skørping,13,1648000.0,21-03-2006,Alm.,9987,5,Villa,165,1976,
+Kornblomstvej 5 9520 Skørping,5,1250000.0,08-03-2006,Alm.,9765,5,Villa,128,1973,
+Egholmsvej 47 9520 Skørping,47,1348000.0,08-03-2006,Alm.,9839,4,Villa,137,1980,
+Stendalsvej 4 9520 Skørping,4,1198000.0,08-03-2006,Alm.,7440,5,Villa,161,1972,
+Gyvelvej 12 9520 Skørping,12,2295000.0,06-03-2006,Alm.,14525,4,Villa,158,2006,
+Horsens Østergårde 1 9520 Skørping,1,740000.0,21-02-2006,Fam.,3020,4,Stuehus,245,1890,
+Askildrupvej 11 9520 Skørping,11,4072546.0,16-02-2006,Fam.,13137,7,Stuehus,310,1925,
+St Brøndum Mark 4 9520 Skørping,4,408000.0,16-02-2006,Fam.,4250,3,Stuehus,96,1800,
+Gammel Askildrupvej 6 9520 Skørping,6,1540000.0,16-02-2006,Alm.,6285,8,Villa,245,1902,
+Stendalsvej 38 9520 Skørping,38,3000000.0,10-02-2006,Alm.,0,5,Villa,286,1932,
+Skørpingvej 68 9520 Skørping,68,7240687.0,09-02-2006,Fam.,40226,8,Stuehus,180,1942,
+Gravlevvej 16B 9520 Skørping,0,2150000.0,05-02-2006,Alm.,0,7,Villa,125,1934,
+Forbindelsesvejen 6 9520 Skørping,6,5397500.0,02-02-2006,Fam.,28407,4,Stuehus,190,1910,
+Bentevej 22 9520 Skørping,22,1745000.0,02-02-2006,Alm.,7093,6,Villa,246,1977,
+Vinkelvej 10 9520 Skørping,10,1580000.0,27-01-2006,Alm.,10193,5,Villa,155,1971,
+Østerbygade 2 9520 Skørping,2,375000.0,26-01-2006,Alm.,4166,2,Villa,90,1963,
+Røde Møllevej 8 9520 Skørping,8,1050000.0,26-01-2006,Alm.,8400,5,Villa,125,1900,
+Kornblomstvej 6 9520 Skørping,6,1435000.0,23-01-2006,Alm.,0,7,Villa,202,1971,
+Ingersvej 2 9520 Skørping,2,1870000.0,20-01-2006,Alm.,12064,6,Villa,155,1998,
+Bækkedalsvej 13 9520 Skørping,13,6587500.0,16-01-2006,Alm.,19375,7,Stuehus,340,2006,
+Vesterbygade 1 9520 Skørping,1,460000.0,09-01-2006,Alm.,2658,7,Villa,173,1912,
+Skørpingvej 53 9520 Skørping,53,375000.0,06-01-2006,Alm.,2884,4,Villa,130,1910,
+Vesterbygade 23 9520 Skørping,23,975000.0,02-01-2006,Alm.,6500,5,Villa,150,1927,
+Haverslevvej 111 9520 Skørping,111,526932.0,21-12-2005,Alm.,1596,12,Stuehus,330,1884,
+Lyngbyvej 64 9520 Skørping,64,658750.0,20-12-2005,Fam.,3430,6,Stuehus,192,1918,
+Røde Møllevej 15 9520 Skørping,15,1165000.0,15-12-2005,Alm.,19416,2,Villa,60,1951,
+Sætervej 4 9520 Skørping,4,2222000.0,13-12-2005,Alm.,11394,6,Villa,195,1971,
+Mosevej 18 9520 Skørping,18,300000.0,10-12-2005,Alm.,1578,5,Villa,190,2009,
+Aarestrupvej 94 9520 Skørping,94,220000.0,08-12-2005,Alm.,1571,4,Villa,140,1887,
+Sdr. Banevej 1 9520 Skørping,1,1295000.0,05-12-2005,Alm.,10791,5,Villa,120,1985,
+Stentoften 21 9520 Skørping,21,512000.0,04-12-2005,Andet,4063,4,Villa,126,1985,
+Præstegårdsheden 16 9520 Skørping,16,520000.0,02-12-2005,Alm.,3040,5,Villa,171,2007,
+Lyngbyvej 53 9520 Skørping,53,700000.0,02-12-2005,Alm.,3225,9,Villa,217,1912,
+Aarestrupvej 99 9520 Skørping,99,1375000.0,30-11-2005,Alm.,8088,7,Stuehus,170,1875,
+Bækkedalsvej 12 9520 Skørping,12,260404.0,28-11-2005,Alm.,2712,4,Villa,96,1963,
+Rebildvej 40 9520 Skørping,40,1500000.0,24-11-2005,Alm.,11538,5,Villa,130,1936,
+Aalborgvej 72 9520 Skørping,72,895000.0,23-11-2005,Alm.,12785,3,Stuehus,70,1929,
+Gerdavej 3 9520 Skørping,3,1038000.0,09-11-2005,Alm.,9792,4,Villa,106,1980,
+Hyldgårdstoften 1 9520 Skørping,1,735000.0,07-11-2005,Alm.,6562,4,Villa,112,1975,
+Kridtbakken 10 9520 Skørping,10,730000.0,31-10-2005,Alm.,3054,7,Villa,239,1890,
+Heden 15 9520 Skørping,15,575000.0,26-10-2005,Alm.,2860,7,Villa,201,2008,
+Heden 13 9520 Skørping,13,525000.0,26-10-2005,Alm.,2573,5,Villa,204,2006,
+Valmuevej 8 9520 Skørping,8,1148000.0,17-10-2005,Alm.,7972,5,Villa,144,1972,
+Erstedskovvej 11 9520 Skørping,11,1635000.0,13-10-2005,Fam.,8515,6,Stuehus,192,1909,
+Siemvej 3 9520 Skørping,3,1062500.0,11-10-2005,Fam.,0,9,Stuehus,276,1874,
+Lyngbyvej 86 9520 Skørping,86,100000.0,11-10-2005,Andet,884,4,Stuehus,113,1930,
+Syrenvej 7 9520 Skørping,7,300000.0,06-10-2005,Alm.,1764,5,Stuehus,170,1949,
+Højvangen 5 9520 Skørping,5,251966.0,06-10-2005,Alm.,1702,4,Villa,148,1950,
+Mølleparken 10 9520 Skørping,10,1275000.0,05-10-2005,Alm.,0,7,Villa,191,1962,
+Horsens Hedegårdsvej 3 9520 Skørping,3,200000.0,03-10-2005,Alm.,2083,4,Stuehus,96,1905,
+Hanebuen 1 9520 Skørping,1,315000.0,30-09-2005,Alm.,2006,5,Villa,157,2006,
+Mølleparken 2 9520 Skørping,2,925000.0,25-09-2005,Alm.,0,6,Villa,161,1965,
+Petersmindevej 37 9520 Skørping,37,2790000.0,17-09-2005,Alm.,0,5,Villa,192,2000,
+Jyttevej 13 9520 Skørping,13,1195000.0,16-09-2005,Alm.,9958,4,Villa,120,1977,
+Smallegade 10 9520 Skørping,10,665000.0,15-09-2005,Alm.,3518,5,Villa,189,1900,
+Gravlevvej 48 9520 Skørping,48,2700000.0,13-09-2005,Fam.,25961,5,Stuehus,104,1910,
+St Brøndum Mark 1 9520 Skørping,1,635000.0,09-09-2005,Alm.,5162,4,Villa,123,1900,
+Hanebakken 7 9520 Skørping,7,770000.0,08-09-2005,Alm.,0,3,Villa,87,1960,
+Skråvejen 7 9520 Skørping,7,4000000.0,07-09-2005,Fam.,28571,4,Stuehus,140,1900,
+Rosenvangen 36 9520 Skørping,36,510000.0,05-09-2005,Alm.,3400,5,Villa,150,1972,
+Hobrovej 220 9520 Skørping,220,8400000.0,30-08-2005,Andet,33600,6,Stuehus,250,1988,
+Hedegårdsvej 8 9520 Skørping,8,2517500.0,30-08-2005,Fam.,26223,4,Stuehus,96,2009,
+Møllebakken 3 9520 Skørping,3,735000.0,21-08-2005,Alm.,6336,3,Villa,116,1940,
+Brøndumvej 47 9520 Skørping,47,825000.0,20-08-2005,Alm.,4274,4,Villa,193,1777,
+Jyttevej 5 9520 Skørping,5,696324.0,19-08-2005,Alm.,4673,5,Villa,149,1977,
+Ottrup Bakker 10 9520 Skørping,10,2295000.0,18-08-2005,Alm.,15098,5,Villa,152,1997,
+Fræervej 1A 9520 Skørping,0,950000.0,15-08-2005,Alm.,5459,5,Villa,174,1980,
+Hanebakken 25 9520 Skørping,25,1735000.0,14-08-2005,Alm.,10146,5,Villa,171,1967,
+Lyngbyvej 49 9520 Skørping,49,100000.0,14-08-2005,Alm.,2500,1,Villa,40,1950,
+Stentoften 70 9520 Skørping,70,2480000.0,21-07-2005,Alm.,13191,7,Villa,188,1999,
+Skindbjergvej 4 9520 Skørping,4,165000.0,13-07-2005,Alm.,970,5,Villa,170,1890,
+Tyttebærvej 5 9520 Skørping,5,1055000.0,11-07-2005,Alm.,8373,3,Villa,126,1900,
+Præstegårdsheden 34 9520 Skørping,34,430000.0,11-07-2005,Alm.,2529,5,Villa,170,2006,
+Mølholmvej 6 9520 Skørping,6,435000.0,05-07-2005,Alm.,3883,4,Villa,112,1974,
+Purkervej 4 9520 Skørping,4,641000.0,01-07-2005,Alm.,3683,3,Villa,174,2006,
+Maltgørervej 2 9520 Skørping,2,650000.0,29-06-2005,Alm.,7222,2,Villa,90,1957,
+Dollerup Byvej 21 9520 Skørping,21,540000.0,16-06-2005,Alm.,0,7,Stuehus,232,1810,
+Mosevej 8 9520 Skørping,8,300000.0,13-06-2005,Alm.,1522,5,Villa,197,2007,
+Askildrupvej 2 9520 Skørping,2,375000.0,05-06-2005,Fam.,2640,3,Villa,142,1924,
+Skørpingvej 66 9520 Skørping,66,555000.0,04-06-2005,Alm.,4204,6,Villa,132,1955,
+Valmuevej 7 9520 Skørping,7,940000.0,27-05-2005,Alm.,6861,3,Villa,137,1967,
+Østerbygade 25 9520 Skørping,25,898000.0,26-05-2005,Alm.,5986,5,Villa,150,1974,
+Præstegårdsheden 6 9520 Skørping,6,275000.0,18-05-2005,Alm.,1553,6,Villa,177,2007,
+Mølle Alle 2 9520 Skørping,2,1225000.0,08-05-2005,Alm.,10745,4,Villa,114,1980,
+Vesterbygade 34 9520 Skørping,34,500000.0,06-05-2005,Alm.,3472,4,Villa,144,1954,
+Stentoften 32 9520 Skørping,32,761885.0,26-04-2005,Fam.,4280,7,Villa,178,1986,
+Sverriggårdsvej 2A 9520 Skørping,0,1167294.0,25-04-2005,Alm.,13417,3,Lejlighed,87,1942,
+Stentoften 40 9520 Skørping,40,1350000.0,23-04-2005,Alm.,9926,4,Villa,136,1986,
+Skindbjerglundvej 7 9520 Skørping,7,900000.0,08-04-2005,Alm.,4390,5,Villa,205,1902,
+Egholmsvej 7 9520 Skørping,7,1250000.0,19-03-2005,Alm.,9398,6,Lejlighed,133,1909,
+Skrænten 18 9520 Skørping,18,1525000.0,17-03-2005,Alm.,0,4,Villa,139,1965,
+Sdr Kirkevej 9 9520 Skørping,9,650000.0,11-03-2005,Alm.,0,4,Villa,168,1932,
+Haverslevvej 50 9520 Skørping,50,1300000.0,09-03-2005,Alm.,6500,6,Villa,200,1939,
+Mølleparken 3 9520 Skørping,3,1075000.0,05-03-2005,Alm.,0,7,Villa,186,1965,
+Præstegårdsheden 8 9520 Skørping,8,275000.0,25-02-2005,Alm.,1774,4,Villa,155,2006,
+Præstegårdsheden 12 9520 Skørping,12,495000.0,23-02-2005,Alm.,1896,6,Villa,261,2006,
+Mølholmvej 25 9520 Skørping,25,1762200.0,22-02-2005,Alm.,6076,7,Stuehus,290,2016,
+Skørpingvej 84 9520 Skørping,84,404900.0,17-02-2005,Alm.,3615,3,Villa,112,1969,
+Mølleparken 4 9520 Skørping,4,909000.0,15-02-2005,Alm.,8416,4,Villa,108,1965,
+Præstegårdsheden 13 9520 Skørping,13,381000.0,09-02-2005,Alm.,1739,6,Villa,219,2007,
+Præstegårdsheden 40 9520 Skørping,40,410000.0,09-02-2005,Alm.,1822,4,Villa,225,2007,
+Præstegårdsheden 18 9520 Skørping,18,375000.0,09-02-2005,Alm.,1575,4,Villa,238,2006,
+Præstegårdsheden 14 9520 Skørping,14,540000.0,08-02-2005,Alm.,3673,3,Villa,147,2007,
+Præstegårdsheden 17 9520 Skørping,17,430000.0,31-01-2005,Alm.,1954,6,Villa,220,2007,
+Ny Tustrupvej 2 9520 Skørping,2,485000.0,27-01-2005,Alm.,2869,5,Villa,169,1902,
+Aalborgvej 60 9520 Skørping,60,1600000.0,24-01-2005,Alm.,6153,8,Stuehus,260,1800,
+Tvoruphøjevej 9 9520 Skørping,9,697000.0,24-01-2005,Fam.,6575,4,Stuehus,106,1900,
+Hanesvinget 2B 9520 Skørping,0,275000.0,24-01-2005,Alm.,1536,5,Villa,179,2005,
+Lyngbyvej 11 9520 Skørping,11,650000.0,19-01-2005,Alm.,4088,7,Stuehus,159,1850,
+Svinget 9B 9520 Skørping,0,2230000.0,13-01-2005,Alm.,9867,6,Villa,226,1988,
+Skørping Nord 1 9520 Skørping,1,940000.0,22-12-2004,Fam.,7230,6,Villa,130,1987,
+Kristiansmindevej 11 9520 Skørping,11,450000.0,20-12-2004,Alm.,2284,6,Villa,197,2007,
+Kristiansmindevej 2 9520 Skørping,2,450000.0,20-12-2004,Alm.,1973,7,Villa,228,2006,
+Kristiansmindevej 8 9520 Skørping,8,506000.0,20-12-2004,Alm.,2056,7,Villa,246,2006,
+Dollerup Byvej 6 9520 Skørping,6,875000.0,20-12-2004,Alm.,4861,4,Villa,180,1925,
+Kristiansmindevej 9 9520 Skørping,9,450000.0,20-12-2004,Alm.,2727,5,Villa,165,2007,
+Kristiansmindevej 12 9520 Skørping,12,450000.0,20-12-2004,Alm.,2173,5,Villa,207,2013,
+Skrænten 5 9520 Skørping,5,461815.0,12-12-2004,Alm.,0,5,Villa,126,1966,
+Højparken 8 9520 Skørping,8,960000.0,12-12-2004,Alm.,5889,7,Villa,163,1979,
+Lyngbyvej 65 9520 Skørping,65,975000.0,06-12-2004,Alm.,5186,5,Stuehus,188,1950,
+Vandværksvej 20 9520 Skørping,20,650000.0,02-12-2004,Alm.,5158,4,Villa,126,1974,
+Kridtbakken 3 9520 Skørping,3,860000.0,30-11-2004,Alm.,4623,5,Villa,186,1975,
+Haverslevvej 80B 9520 Skørping,0,340000.0,23-11-2004,Alm.,0,5,Rækkehus,239,1910,
+Blenstrupvej 9 9520 Skørping,9,1381000.0,16-11-2004,Alm.,0,6,Stuehus,203,1937,
+Blenstrupvej 25 9520 Skørping,25,665000.0,15-11-2004,Alm.,3518,6,Villa,189,1877,
+Enighedsvej 5 9520 Skørping,5,380000.0,15-11-2004,Alm.,3551,4,Villa,107,1949,
+Tvorupvej 23 9520 Skørping,23,450000.0,14-11-2004,Alm.,2500,5,Stuehus,180,1925,
+Kridtbakken 26 9520 Skørping,26,1275000.0,12-11-2004,Alm.,8500,7,Villa,150,1890,
+Birkeholmvej 1B 9520 Skørping,0,810000.0,07-11-2004,Alm.,0,7,Villa,228,1977,
+Petersmindevej 33 9520 Skørping,33,2800000.0,27-10-2004,Alm.,10486,6,Villa,267,2001,
+Aarestrupvej 54 9520 Skørping,54,341903.0,25-10-2004,Alm.,2191,5,Villa,156,1946,
+Vandværksvej 17 9520 Skørping,17,530000.0,23-10-2004,Alm.,0,3,Villa,102,1952,
+Hanebuen 25 9520 Skørping,25,315000.0,11-10-2004,Alm.,1909,5,Villa,165,2005,
+Aalborgvej 51A 9520 Skørping,0,12324000.0,04-10-2004,Alm.,49296,6,Stuehus,250,1886,
+Lyngbyvej 95 9520 Skørping,95,250000.0,01-10-2004,Alm.,0,4,Villa,149,1908,
+Jyllandsgade 65 9520 Skørping,65,1095000.0,29-09-2004,Alm.,0,4,Villa,127,1966,
+Skråvejen 2 9520 Skørping,2,755000.0,22-09-2004,Alm.,4494,8,Villa,168,1960,
+Sigsgårdsvej 8 9520 Skørping,8,1295000.0,14-09-2004,Alm.,0,5,Stuehus,130,1932,
+Aarestrupvej 87 9520 Skørping,87,1130000.0,09-09-2004,Alm.,4593,7,Stuehus,246,1916,
+Møllevej 14 9520 Skørping,14,1100000.0,19-08-2004,Alm.,8943,5,Villa,123,1960,
+Gerdingvej 19A 9520 Skørping,0,1100000.0,12-08-2004,Alm.,6321,6,Stuehus,174,1802,
+Cimbrervej 12 9520 Skørping,12,1315000.0,04-08-2004,Alm.,8117,5,Villa,162,1974,
+Egholmsvej 18 9520 Skørping,18,750000.0,30-07-2004,Alm.,6355,4,Villa,118,1974,
+Østerbygade 10 9520 Skørping,10,500000.0,28-07-2004,Alm.,4098,3,Villa,122,1967,
+Langmosevej 7 9520 Skørping,7,950000.0,21-07-2004,Alm.,7851,5,Stuehus,121,1939,
+Galgevangen 20 9520 Skørping,20,550000.0,16-07-2004,Alm.,5500,3,Villa,100,1981,
+Madum Søvej 28 9520 Skørping,28,350000.0,08-07-2004,Alm.,2966,6,Villa,118,1930,
+Skørpingvej 67 9520 Skørping,67,520000.0,08-07-2004,Alm.,4160,3,Villa,125,1913,
+Vinkelvej 4 9520 Skørping,4,544000.0,28-06-2004,Fam.,4352,5,Villa,125,1929,
+Stendalsvej 6 9520 Skørping,6,1035000.0,28-06-2004,Alm.,7666,5,Villa,135,1973,
+Birkedammen 1 9520 Skørping,1,74200.0,26-06-2004,Fam.,268,7,Villa,276,2006,
+Kirkevej 1 9520 Skørping,1,1100000.0,22-06-2004,Alm.,5238,7,Villa,210,1954,
+Rosenvangen 6 9520 Skørping,6,770000.0,21-06-2004,Alm.,5133,5,Villa,150,1972,
+Skørping Skovbrynet 12 9520 Skørping,12,1075000.0,18-06-2004,Alm.,0,3,Villa,136,1948,
+Hanebuen 8 9520 Skørping,8,315000.0,07-06-2004,Alm.,1852,5,Villa,170,2008,
+Hanebuen 31 9520 Skørping,31,315000.0,02-06-2004,Alm.,2157,5,Villa,146,2005,
+Egholmsvej 4 9520 Skørping,4,470000.0,02-06-2004,Alm.,6714,2,Villa,70,1948,
+Aalborgvej 40 9520 Skørping,40,181540.0,26-05-2004,Alm.,1728,4,Villa,105,1852,
+Cimbrervej 21 9520 Skørping,21,1048000.0,21-05-2004,Alm.,7485,4,Villa,140,1964,
+Gravlevvej 10 9520 Skørping,10,450000.0,19-05-2004,Alm.,2045,5,Stuehus,220,1900,
+Stentoften 46 9520 Skørping,46,1025000.0,17-05-2004,Alm.,9669,4,Villa,106,1986,
+Gerdingvej 46 9520 Skørping,46,540000.0,06-05-2004,Alm.,5294,3,Villa,102,1957,
+Mølholmvej 17A 9520 Skørping,0,675000.0,25-04-2004,Alm.,4066,4,Villa,166,1953,
+Jyllandsgade 73 9520 Skørping,73,1075000.0,23-04-2004,Alm.,0,5,Villa,187,1951,
+Nordre Skovvej 3 9520 Skørping,3,1050000.0,15-04-2004,Alm.,7553,5,Villa,139,1952,
+Præstegårdsheden 21 9520 Skørping,21,395000.0,31-03-2004,Alm.,3185,4,Villa,124,2007,
+Heden 19 9520 Skørping,19,515000.0,31-03-2004,Alm.,3366,5,Villa,153,2007,
+Horsensvej 19 9520 Skørping,19,345000.0,18-03-2004,Alm.,4156,3,Villa,83,1962,
+Hanebakken 18 9520 Skørping,18,760000.0,16-03-2004,Alm.,6333,5,Villa,120,1962,
+Hanesvinget 3 9520 Skørping,3,315000.0,12-03-2004,Alm.,0,6,Villa,176,2005,
+Lyngbyvej 54D 9520 Skørping,0,70000.0,11-03-2004,Fam.,573,4,Villa,122,1948,
+Blenstrupvej 14 9520 Skørping,14,860000.0,06-03-2004,Alm.,0,8,Villa,232,1950,
+Hanebuen 5 9520 Skørping,5,315000.0,04-03-2004,Alm.,1721,4,Villa,183,2007,
+Vandværksvej 6 9520 Skørping,6,425000.0,20-02-2004,Alm.,4427,3,Villa,96,1964,
+Kildehaven 1 9520 Skørping,1,763000.0,12-02-2004,Alm.,7480,5,Villa,102,1926,
+Jyttevej 1 9520 Skørping,1,1080000.0,09-02-2004,Alm.,8000,5,Villa,135,1983,
+St Brøndum Mark 3 9520 Skørping,3,430000.0,04-02-2004,Alm.,5375,3,Stuehus,80,1908,
+Gerdingvej 9 9520 Skørping,9,1348000.0,04-02-2004,Alm.,11721,4,Stuehus,115,1937,
+"Jyllandsgade 16, 1 9520 Skørping",1,1150000.0,21-01-2004,Fam.,7666,5,Lejlighed,150,1887,
+Bækkedalsvej 6 9520 Skørping,6,650000.0,12-01-2004,Alm.,6435,3,Villa,101,1957,
+Skråvejen 5 9520 Skørping,5,775000.0,29-12-2003,Alm.,5457,4,Villa,142,1947,
+Stubberupvej 34 9520 Skørping,34,850000.0,26-12-2003,Alm.,6640,6,Stuehus,128,1850,
+Krogsvej 4 9520 Skørping,4,1285000.0,17-12-2003,Alm.,7259,5,Villa,177,1971,
+Langmosevej 12 9520 Skørping,12,216667.0,17-12-2003,Fam.,2490,4,Villa,87,1927,
+Jyttevej 21 9520 Skørping,21,830000.0,17-12-2003,Auktion,5000,3,Villa,166,1974,
+Haverslevvej 87 9520 Skørping,87,389561.0,16-12-2003,Alm.,2597,4,Villa,150,1909,
+Jenlebakken 6 9520 Skørping,6,1290000.0,02-12-2003,Alm.,0,5,Villa,176,1940,
+Lyngvej 3 9520 Skørping,3,748000.0,27-11-2003,Alm.,6862,4,Villa,109,1969,
+Vesterbygade 28 9520 Skørping,28,325000.0,26-11-2003,Alm.,2708,3,Villa,120,2009,
+Hanebakken 39 9520 Skørping,39,935000.0,06-11-2003,Alm.,5955,4,Villa,157,1964,
+Himmerlandsvej 20 9520 Skørping,20,560000.0,03-11-2003,Alm.,0,5,Villa,151,1954,
+Rosenvangen 58 9520 Skørping,58,600000.0,31-10-2003,Alm.,4285,5,Villa,140,1973,
+Nybovej 6 9520 Skørping,6,1080000.0,29-10-2003,Alm.,9000,4,Villa,120,1969,
+Dollerup Byvej 2 9520 Skørping,2,840000.0,28-10-2003,Alm.,4221,6,Villa,199,1900,
+Hobrovej 210 9520 Skørping,210,938016.0,17-10-2003,Andet,3908,7,Stuehus,240,1900,
+Madum Søvej 38 9520 Skørping,38,15400000.0,10-10-2003,Alm.,50993,7,Stuehus,302,1937,
+Gravlevvej 24 9520 Skørping,24,346715.0,07-10-2003,Fam.,1926,6,Villa,180,1818,
+Vandværksvej 5 9520 Skørping,5,325000.0,06-10-2003,Alm.,4012,4,Villa,81,1949,
+Siemvej 10 9520 Skørping,10,1566341.0,06-10-2003,Alm.,7910,7,Villa,198,1924,
+Enighedsvej 8 9520 Skørping,8,855000.0,01-10-2003,Alm.,8066,4,Villa,106,1948,
+Præstevænget 11 9520 Skørping,11,905000.0,01-10-2003,Alm.,6557,4,Villa,138,1960,
+Jyllandsgade 49 9520 Skørping,49,675000.0,30-09-2003,Alm.,0,4,Villa,97,1939,
+Jægersborgvej 8 9520 Skørping,8,1275000.0,30-09-2003,Alm.,7870,9,Villa,162,1949,
+St Brøndum Mark 2 9520 Skørping,2,300000.0,29-09-2003,Alm.,1351,8,Stuehus,222,1945,
+Haverslevvej 47 9520 Skørping,47,712000.0,25-09-2003,Alm.,4315,5,Villa,165,1890,
+Lyngbyvej 50 9520 Skørping,50,250000.0,20-09-2003,Alm.,2272,5,Villa,110,1937,
+Gerdingvej 12 9520 Skørping,12,1480000.0,18-09-2003,Alm.,7047,6,Stuehus,210,1902,
+Skrænten 15 9520 Skørping,15,1150000.0,08-09-2003,Alm.,6284,7,Villa,183,1971,
+Rosenvangen 14 9520 Skørping,14,745000.0,26-08-2003,Alm.,4966,5,Villa,150,1973,
+Smallegade 5 9520 Skørping,5,800000.0,07-08-2003,Alm.,0,4,Villa,140,1957,
+Holmegårdsvej 2 9520 Skørping,2,1250000.0,05-08-2003,Alm.,7621,4,Stuehus,164,1911,
+Cimbrervej 15 9520 Skørping,15,665000.0,04-08-2003,Alm.,4925,5,Villa,135,1962,
+Horsens Østergårde 3 9520 Skørping,3,17000000.0,01-08-2003,Alm.,37444,8,Stuehus,454,2015,
+Rosenvænget 3 9520 Skørping,3,560000.0,30-07-2003,Alm.,5600,4,Villa,100,1963,
+Horsens Hedegårdsvej 25 9520 Skørping,25,798000.0,14-07-2003,Alm.,0,7,Villa,223,1887,
+Skørpingholmevej 4 9520 Skørping,4,415000.0,30-06-2003,Alm.,2660,5,Stuehus,156,1916,
+Hanehøjvej 36 9520 Skørping,36,2500000.0,12-06-2003,Alm.,26041,4,Stuehus,96,1929,
+Damvej 4 9520 Skørping,4,1295000.0,07-06-2003,Alm.,8043,5,Villa,161,1973,
+Skrænten 12 9520 Skørping,12,682000.0,01-06-2003,Alm.,3788,7,Villa,180,1963,
+Hanebuen 7 9520 Skørping,7,315000.0,23-05-2003,Alm.,1485,6,Villa,212,2005,
+Skrænten 7 9520 Skørping,7,1350000.0,22-05-2003,Alm.,5578,9,Villa,242,1969,
+Blenstrupvej 21 9520 Skørping,21,310000.0,19-05-2003,Alm.,3444,4,Villa,90,1877,
+Skørpingvej 108 9520 Skørping,108,3400000.0,13-05-2003,Alm.,30357,4,Stuehus,112,1857,
+Ritavej 8 9520 Skørping,8,710000.0,11-05-2003,Alm.,5680,4,Rækkehus,125,1973,
+Stentoften 24 9520 Skørping,24,915000.0,05-05-2003,Alm.,8632,4,Villa,106,1986,
+Mosskovvej 15 9520 Skørping,15,1375000.0,28-04-2003,Alm.,0,4,Villa,222,1963,
+Sdr Kirkevej 14 9520 Skørping,14,775000.0,28-04-2003,Alm.,7311,4,Villa,106,1973,
+Jyttevej 9 9520 Skørping,9,847970.0,28-04-2003,Alm.,5299,5,Villa,160,1974,
+Kirkevej 4 9520 Skørping,4,800000.0,25-04-2003,Alm.,4545,10,Villa,176,1750,
+Smallegade 7 9520 Skørping,7,850000.0,12-04-2003,Alm.,0,3,Villa,114,1950,
+Stentoften 1 9520 Skørping,1,900000.0,12-04-2003,Alm.,5421,4,Villa,166,1976,
+Ranunkelvej 7 9520 Skørping,7,665000.0,09-04-2003,Alm.,4716,4,Villa,141,1977,
+Hellum Hedevej 10 9520 Skørping,10,1150000.0,25-03-2003,Fam.,6318,7,Stuehus,182,1936,
+Jyllandsgade 33 9520 Skørping,33,1050000.0,24-03-2003,Alm.,4085,9,Villa,257,1910,
+Heden 5 9520 Skørping,5,390000.0,19-03-2003,Alm.,2422,4,Villa,161,2006,
+Rebild Hedevej 7 9520 Skørping,7,815000.0,19-03-2003,Alm.,5030,6,Villa,162,1906,
+Stendalsvej 8B 9520 Skørping,0,150000.0,13-03-2003,Alm.,837,6,Villa,179,2006,
+Vinkelvej 11 9520 Skørping,11,950000.0,12-03-2003,Alm.,6250,4,Villa,152,1929,
+Møllevej 47 9520 Skørping,47,1155000.0,12-03-2003,Alm.,7965,5,Villa,145,1974,
+Syrenvej 8 9520 Skørping,8,1689000.0,05-03-2003,Fam.,15354,4,Stuehus,110,1884,
+Gerdingvej 13 9520 Skørping,13,400000.0,24-02-2003,Alm.,2234,5,Stuehus,179,1920,
+Ved Skoven 6 9520 Skørping,6,665000.0,13-02-2003,Alm.,6855,4,Rækkehus,97,1983,
+Lyngbyvej 15 9520 Skørping,15,390000.0,10-02-2003,Alm.,2746,7,Villa,142,1900,
+Jyttevej 19 9520 Skørping,19,1130000.0,23-01-2003,Alm.,6312,5,Villa,179,1974,
+Madum Søvej 32 9520 Skørping,32,600000.0,20-12-2002,Fam.,4054,5,Stuehus,148,1917,
+Møllevej 18 9520 Skørping,18,725000.0,20-12-2002,Alm.,7250,4,Villa,100,1960,
+Ranunkelvej 2 9520 Skørping,2,600000.0,20-12-2002,Alm.,4687,4,Villa,128,1976,
+Tvorupvej 6 9520 Skørping,6,1500000.0,19-12-2002,Alm.,10000,6,Stuehus,150,1978,
+Aalborgvej 58A 9520 Skørping,0,235000.0,18-12-2002,Fam.,0,5,Villa,204,1890,
+Møllevej 3 9520 Skørping,3,925000.0,18-12-2002,Alm.,8409,5,Villa,110,1960,
+Lyngbyvej 51 9520 Skørping,51,498245.0,13-12-2002,Alm.,2466,8,Villa,202,1860,
+Skørping Center 14B 9520 Skørping,0,1050000.0,10-12-2002,Alm.,6140,5,Lejlighed,171,1989,
+Hanebakken 20 9520 Skørping,20,498000.0,01-12-2002,Alm.,6821,3,Villa,73,1959,
+Mosskovvej 5 9520 Skørping,5,189000.0,29-11-2002,Fam.,4108,2,Sommerhus,46,1927,
+Bentevej 7 9520 Skørping,7,1590000.0,29-11-2002,Alm.,8641,5,Villa,184,1977,
+Tvoruphøjevej 15 9520 Skørping,15,1736975.0,19-11-2002,Alm.,14474,4,Stuehus,120,1948,
+Heden 18 9520 Skørping,18,497000.0,19-11-2002,Alm.,3185,4,Villa,156,2006,
+Majbakken 4 9520 Skørping,4,525000.0,07-11-2002,Alm.,2949,6,Villa,178,1930,
+Bækhusevej 6 9520 Skørping,6,2900000.0,06-11-2002,Alm.,8787,8,Stuehus,330,1827,
+Rebildvej 25C 9520 Skørping,0,1850000.0,05-11-2002,Alm.,0,9,Detailhandel,107,1975,
+Tvoruphøjevej 4 9520 Skørping,4,1249999.0,24-10-2002,Alm.,0,5,Stuehus,188,1992,
+Gerdingvej 43 9520 Skørping,43,500000.0,16-10-2002,Alm.,3472,5,Villa,144,1956,
+Svinget 7 9520 Skørping,7,1495000.0,11-10-2002,Alm.,7119,9,Villa,210,1967,
+Rosenvænget 10 9520 Skørping,10,1262751.0,09-10-2002,Alm.,8146,6,Villa,155,1966,
+Asbakken 2 9520 Skørping,2,2695000.0,29-09-2002,Alm.,16041,5,Villa,168,1998,
+Østerbygade 11 9520 Skørping,11,590745.0,25-09-2002,Alm.,6153,3,Villa,96,1972,
+Hanehøjvej 48 9520 Skørping,48,1750000.0,23-09-2002,Alm.,10736,6,Stuehus,163,1897,
+Smallegade 8 9520 Skørping,8,625000.0,20-09-2002,Alm.,3980,7,Villa,157,1895,
+Gravlevvej 3 9520 Skørping,3,400000.0,11-09-2002,Alm.,2051,7,Villa,195,1900,
+Gerdingvej 21 9520 Skørping,21,1315482.0,09-09-2002,Alm.,0,8,Stuehus,196,1934,
+Purkervej 20B 9520 Skørping,0,640000.0,29-08-2002,Alm.,0,6,Villa,150,1941,
+Purkervej 6 9520 Skørping,6,885000.0,26-08-2002,Alm.,7831,4,Villa,113,1963,
+Lyngvej 16 9520 Skørping,16,900000.0,19-08-2002,Alm.,6521,4,Villa,138,1975,
+Madum Søvej 44 9520 Skørping,44,578000.0,19-08-2002,Alm.,2535,6,Villa,228,1931,
+Vesterbygade 26 9520 Skørping,26,190000.0,07-08-2002,Alm.,0,10,Villa,246,1928,
+Stubberupvej 9 9520 Skørping,9,415000.0,02-08-2002,Alm.,5187,4,Villa,80,1953,
+Skørpingvej 71 9520 Skørping,71,1503035.0,26-07-2002,Alm.,9953,4,Stuehus,151,1918,
+Haverslevvej 75 9520 Skørping,75,640000.0,19-07-2002,Alm.,4324,5,Villa,148,1935,
+Skørpingvej 58A 9520 Skørping,0,325000.0,08-07-2002,Alm.,3316,3,Villa,98,1900,
+Bentevej 27 9520 Skørping,27,1350000.0,05-07-2002,Alm.,6338,5,Villa,213,1974,
+Purkervej 2 9520 Skørping,2,1140000.0,04-07-2002,Alm.,9047,4,Villa,126,1962,
+Møllevej 4D 9520 Skørping,0,730000.0,02-07-2002,Alm.,7604,3,Rækkehus,96,1985,
+Horsens Hedegårdsvej 11 9520 Skørping,11,880000.0,01-07-2002,Alm.,3450,6,Villa,255,1852,
+Hvingelhatvej 20 9520 Skørping,20,1250000.0,27-06-2002,Alm.,9124,6,Stuehus,137,1959,
+Mosevej 24 9520 Skørping,24,685000.0,27-06-2002,Fam.,6782,3,Villa,101,1947,
+Haverslevvej 101 9520 Skørping,101,610000.0,25-06-2002,Alm.,5809,3,Villa,105,1963,
+Krastrupvej 8 9520 Skørping,8,1150000.0,25-06-2002,Alm.,0,7,Stuehus,198,1927,
+Brodsøvej 9 9520 Skørping,9,133333.0,22-06-2002,Alm.,2298,2,Sommerhus,58,1960,
+Gerdingvej 48 9520 Skørping,48,5000000.0,20-06-2002,Alm.,18181,7,Stuehus,275,1977,
+Skrænten 14 9520 Skørping,14,1200000.0,17-06-2002,Alm.,6521,7,Villa,184,1964,
+Gravlevvej 14 9520 Skørping,14,780000.0,14-06-2002,Alm.,7358,3,Villa,106,1907,
+Højvangstoften 4 9520 Skørping,4,895000.0,06-06-2002,Alm.,6172,6,Villa,145,1979,
+Bentevej 28 9520 Skørping,28,1200000.0,04-06-2002,Alm.,6593,5,Villa,182,1981,
+Stentoften 6 9520 Skørping,6,1180000.0,28-05-2002,Alm.,7564,5,Villa,156,1979,
+Hanebuen 9 9520 Skørping,9,315000.0,21-05-2002,Alm.,1285,5,Villa,245,2008,
+Hanebuen 12 9520 Skørping,12,315000.0,08-05-2002,Alm.,1831,5,Villa,172,2003,
+Hanebuen 11 9520 Skørping,11,315000.0,06-05-2002,Alm.,1800,6,Villa,175,2003,
+Hanebuen 16 9520 Skørping,16,315000.0,06-05-2002,Alm.,0,8,Villa,190,2005,
+Rebildvej 22 9520 Skørping,22,152600.0,25-04-2002,Fam.,0,6,Villa,155,2003,
+Hanebakkevej 8 9520 Skørping,8,575000.0,23-04-2002,Alm.,5528,3,Rækkehus,104,1965,
+Egholmsvej 11 9520 Skørping,11,403329.0,04-04-2002,Alm.,2781,5,Villa,145,1907,
+Tirsdalsvej 12 9520 Skørping,12,475000.0,02-04-2002,Alm.,4567,4,Sommerhus,104,1963,
+Horsens Hedegårdsvej 18 9520 Skørping,18,655000.0,22-03-2002,Alm.,2147,8,Stuehus,305,1900,
+Bentevej 66 9520 Skørping,66,593901.0,22-03-2002,Alm.,3281,5,Villa,181,1975,
+Mosevej 22 9520 Skørping,22,630000.0,21-03-2002,Alm.,4090,7,Villa,154,1900,
+Vinkelvej 12 9520 Skørping,12,935000.0,05-03-2002,Alm.,0,6,Villa,160,1930,
+Hanebuen 14 9520 Skørping,14,315000.0,01-03-2002,Alm.,2202,5,Villa,143,2003,
+Jyllandsgade 17 9520 Skørping,17,775000.0,14-02-2002,Alm.,3189,9,Villa,243,1905,
+Fræervej 4A 9520 Skørping,0,505826.0,14-02-2002,Alm.,4598,5,Villa,110,1907,
+Krastrupvej 10 9520 Skørping,10,1200000.0,13-02-2002,Alm.,8571,6,Stuehus,140,1927,
+Gerdingvej 29 9520 Skørping,29,900000.0,13-02-2002,Alm.,3719,8,Villa,242,1879,
+Heden 2 9520 Skørping,2,485000.0,28-01-2002,Alm.,3674,4,Villa,132,2003,
+Volbjerg 15 9520 Skørping,15,575000.0,11-01-2002,Fam.,4136,6,Villa,139,1985,
+Ranunkelvej 8 9520 Skørping,8,850000.0,08-01-2002,Alm.,5448,5,Villa,156,1975,
+Mosevej 26 9520 Skørping,26,1283000.0,03-01-2002,Alm.,9433,5,Villa,136,1973,
+Majbakken 1 9520 Skørping,1,367500.0,14-12-2001,Alm.,0,5,Villa,168,1915,
+Hedegårdsvej 5 9520 Skørping,5,50000.0,14-12-2001,Alm.,0,6,Stuehus,181,1880,
+Gerdavej 2 9520 Skørping,2,925000.0,12-12-2001,Alm.,7459,4,Villa,124,1978,
+Aarestrupvej 65 9520 Skørping,65,1104500.0,07-12-2001,Fam.,7363,5,Stuehus,150,1964,
+Smedevej 7 9520 Skørping,7,650000.0,03-12-2001,Alm.,7065,3,Villa,92,1963,
+Rebildvej 13 9520 Skørping,13,685000.0,30-11-2001,Alm.,4053,7,Villa,169,1948,
+Hanebakken 5 9520 Skørping,5,1095000.0,20-11-2001,Alm.,8554,4,Villa,128,1960,
+Hobrovej 221 9520 Skørping,221,779000.0,13-11-2001,Alm.,0,5,Villa,93,1949,
+Vester Alle 9 9520 Skørping,9,535000.0,08-11-2001,Alm.,5095,3,Villa,105,1949,
+Vesterbygade 32 9520 Skørping,32,285000.0,04-11-2001,Alm.,0,4,Villa,116,1830,
+Søtoften 5 9520 Skørping,5,2200000.0,31-10-2001,Alm.,9361,6,Stuehus,235,1880,
+Hanebuen 4 9520 Skørping,4,315000.0,22-10-2001,Alm.,1693,7,Villa,186,2003,
+Hobrovej 188 9520 Skørping,188,722500.0,15-10-2001,Alm.,5124,5,Villa,141,1908,
+Stendalsvej 2 9520 Skørping,2,875000.0,08-10-2001,Alm.,5368,6,Villa,163,1931,
+Møllevej 29 9520 Skørping,29,740000.0,05-10-2001,Alm.,5606,5,Villa,132,1969,
+Hanebuen 21 9520 Skørping,21,425000.0,04-10-2001,Alm.,1660,6,Villa,256,2004,
+Hanebuen 23 9520 Skørping,23,400000.0,04-10-2001,Alm.,2010,6,Villa,199,2002,
+Lyngbyvej 17 9520 Skørping,17,310000.0,04-10-2001,Alm.,2366,3,Villa,131,1900,
+Mølholmvej 15 9520 Skørping,15,295994.0,01-10-2001,Fam.,2276,7,Villa,130,1954,
+Aalborgvej 54 9520 Skørping,54,708865.0,26-09-2001,Alm.,5329,7,Stuehus,133,1959,
+Stentoften 9 9520 Skørping,9,1080000.0,24-09-2001,Alm.,6878,4,Villa,157,1977,
+Søtoften 1 9520 Skørping,1,1182781.0,10-09-2001,Alm.,4712,8,Villa,251,1930,
+Smallegade 18 9520 Skørping,18,1100000.0,07-09-2001,Alm.,6875,4,Villa,160,1952,
+Birkedammen 17 9520 Skørping,17,890000.0,04-09-2001,Alm.,0,5,Villa,164,1973,
+Vester Alle 10 9520 Skørping,10,695000.0,03-09-2001,Alm.,12870,2,Villa,54,1947,
+Ølandsvej 4 9520 Skørping,4,795000.0,29-08-2001,Alm.,0,6,Villa,174,1887,
+Vesterbygade 19 9520 Skørping,19,483427.0,27-08-2001,Alm.,1933,7,Villa,250,1930,
+Heden 20 9520 Skørping,20,515000.0,16-08-2001,Alm.,2128,5,Villa,242,2008,
+Horsens Hedegårdsvej 12 9520 Skørping,12,520000.0,08-08-2001,Alm.,0,9,Stuehus,285,1906,
+Brøndumvej 13 9520 Skørping,13,1300000.0,08-08-2001,Alm.,7784,5,Stuehus,167,1926,
+Hanebuen 29 9520 Skørping,29,315000.0,01-08-2001,Alm.,1789,5,Villa,176,2003,
+Madum Søvej 10 9520 Skørping,10,494383.0,30-07-2001,Alm.,0,3,Villa,76,1964,
+Heden 16 9520 Skørping,16,430000.0,12-07-2001,Alm.,1634,7,Villa,263,2009,
+Ny Tustrupvej 4 9520 Skørping,4,505617.0,12-07-2001,Alm.,2351,8,Villa,215,1900,
+Gammel Skørpingvej 43 9520 Skørping,43,750000.0,19-06-2001,Fam.,6578,3,Villa,114,1973,
+Gerdingvej 40 9520 Skørping,40,277500.0,18-06-2001,Alm.,1940,5,Villa,143,1850,
+Hellum Byvej 18 9520 Skørping,18,510668.0,18-06-2001,Alm.,5210,3,Villa,98,1967,
+Skørpingvej 82 9520 Skørping,82,603382.0,01-06-2001,Andet,7542,3,Villa,80,1938,
+Hanebuen 19 9520 Skørping,19,444792.0,24-05-2001,Alm.,2762,7,Villa,161,2002,
+Skørpingvej 58B 9520 Skørping,0,525000.0,23-05-2001,Fam.,3431,4,Villa,153,1983,
+Hanebakken 1 9520 Skørping,1,998000.0,22-05-2001,Alm.,7503,4,Villa,133,1972,
+Blenstrupvej 39 9520 Skørping,39,540000.0,17-05-2001,Alm.,2769,8,Stuehus,195,1840,
+Sdr Kirkevej 8 9520 Skørping,8,725000.0,17-05-2001,Alm.,7967,4,Villa,91,1951,
+Heden 17 9520 Skørping,17,545000.0,09-05-2001,Alm.,2671,3,Villa,204,2002,
+Jenlebakken 4 9520 Skørping,4,2319000.0,04-05-2001,Alm.,12672,7,Villa,183,2001,
+Gammel Skørpingvej 13 9520 Skørping,13,1100000.0,27-04-2001,Alm.,8148,6,Villa,135,1917,
+Rebildvej 28 9520 Skørping,28,760000.0,27-04-2001,Fam.,3857,7,Villa,197,1912,
+Højvangen 1 9520 Skørping,1,510000.0,25-04-2001,Alm.,4180,3,Villa,122,1949,
+Præstevej 11 9520 Skørping,11,325000.0,23-04-2001,Alm.,1867,6,Stuehus,174,1906,
+Smallegade 15 9520 Skørping,15,850000.0,17-04-2001,Alm.,5629,5,Villa,151,1930,
+Hanebuen 15 9520 Skørping,15,450000.0,17-04-2001,Alm.,1595,6,Villa,282,2008,
+Hanebuen 27 9520 Skørping,27,315000.0,14-04-2001,Alm.,1702,7,Villa,185,2004,
+Østerbygade 12 9520 Skørping,12,510000.0,10-04-2001,Alm.,3750,4,Villa,136,1968,
+Gyvelvej 20 9520 Skørping,20,1310000.0,09-04-2001,Alm.,5574,7,Villa,235,1965,
+Hanehøjvej 27 9520 Skørping,27,2060000.0,30-03-2001,Alm.,7686,6,Stuehus,268,1977,
+Hanebuen 17 9520 Skørping,17,474224.0,29-03-2001,Alm.,1992,6,Villa,238,2002,
+Hanebuen 13 9520 Skørping,13,346664.0,21-03-2001,Alm.,0,7,Villa,177,2004,
+Bentevej 58 9520 Skørping,58,1190000.0,17-03-2001,Alm.,6611,5,Villa,180,1974,
+"Gravlevvej 45, ST 9520 Skørping",0,1450000.0,16-03-2001,Alm.,9062,17,Døgninstitution,160,1954,
+Jenlebakken 5 9520 Skørping,5,295000.0,13-03-2001,Alm.,0,4,Villa,185,2003,
+Degnevænget 45 9520 Skørping,45,1700000.0,05-03-2001,Alm.,0,7,Villa,214,1999,
+Jyllandsgade 57B 9520 Skørping,0,650000.0,05-03-2001,Alm.,3421,6,Rækkehus,190,1870,
+Vesterbygade 18 9520 Skørping,18,520000.0,02-03-2001,Alm.,7123,3,Villa,73,1956,
+Haverslevvej 93 9520 Skørping,93,295000.0,26-02-2001,Alm.,3831,3,Villa,77,1892,
+Hanebakken 10 9520 Skørping,10,590000.0,24-02-2001,Alm.,6210,4,Villa,95,1959,
+Nordre Skovvej 7 9520 Skørping,7,1680000.0,06-02-2001,Alm.,14736,3,Villa,114,1998,
+Brøndumvej 9 9520 Skørping,9,600000.0,05-02-2001,Alm.,1869,8,Stuehus,321,1928,
+Mosevej 20 9520 Skørping,20,144126.0,24-01-2001,Alm.,0,5,Villa,173,2002,
+Troldbakkevej 9 9520 Skørping,9,1500000.0,23-01-2001,Alm.,10416,5,Stuehus,144,1925,
+Erstedvej 10 9520 Skørping,10,1085000.0,11-01-2001,Alm.,3604,6,Villa,301,1877,
+Mirabelvej 1 9520 Skørping,1,486000.0,11-12-2000,Auktion,2670,6,Villa,182,1937,
+Hanehøjvej 16 9520 Skørping,16,380000.0,04-12-2000,Alm.,0,5,Villa,174,1952,
+Aarestrupvej 76 9520 Skørping,76,350000.0,21-11-2000,Alm.,0,5,Stuehus,246,1941,
+Jægersborgvej 12 9520 Skørping,12,1110000.0,17-11-2000,Alm.,7350,5,Villa,151,1921,
+Præstevej 31 9520 Skørping,31,1000000.0,12-11-2000,Alm.,6849,5,Stuehus,146,1941,
+Degnevænget 12 9520 Skørping,12,1918234.0,05-11-2000,Alm.,0,5,Villa,158,1999,
+Hyldgårdstoften 4 9520 Skørping,4,723038.0,04-11-2000,Alm.,5316,5,Villa,136,1971,
+Lyngbyvej 91 9520 Skørping,91,525000.0,30-10-2000,Alm.,5000,3,Stuehus,105,1852,
+Majbakken 14 9520 Skørping,14,432000.0,27-10-2000,Alm.,3000,5,Villa,144,1880,
+Aarestrupvej 103 9520 Skørping,103,480000.0,20-10-2000,Alm.,3428,3,Villa,140,1954,
+Stentoften 62 9520 Skørping,62,2443213.0,13-10-2000,Alm.,14542,5,Villa,168,1999,
+Blenstrupvej 17 9520 Skørping,17,154000.0,12-10-2000,Alm.,1555,4,Villa,99,1887,
+Gammel Skørpingvej 90 9520 Skørping,90,590000.0,06-10-2000,Alm.,0,5,Stuehus,194,1939,
+Stentoften 48 9520 Skørping,48,398000.0,29-09-2000,Alm.,0,7,Villa,177,1986,
+Lyngbyvej 102 9520 Skørping,102,722000.0,18-09-2000,Alm.,3358,6,Villa,215,1943,
+Damvej 7 9520 Skørping,7,1090000.0,15-09-2000,Alm.,8515,5,Villa,128,1972,
+Sct Jørgensvej 7 9520 Skørping,7,1322017.0,13-09-2000,Alm.,0,8,Stuehus,273,1935,
+Sætervej 11 9520 Skørping,11,1475000.0,01-09-2000,Alm.,7195,7,Villa,205,1980,
+Jyllandsgade 69 9520 Skørping,69,360000.0,01-09-2000,Fam.,5000,3,Villa,72,1956,
+Brøndumvej 19 9520 Skørping,19,657053.0,29-08-2000,Alm.,2737,8,Stuehus,240,1924,
+Hanebakken 33 9520 Skørping,33,925000.0,17-08-2000,Alm.,8809,3,Villa,105,1957,
+Himmerlandsvej 17 9520 Skørping,17,890000.0,16-08-2000,Alm.,4045,9,Villa,220,1917,
+Smedevej 6 9520 Skørping,6,1060000.0,16-08-2000,Alm.,8030,4,Villa,132,1979,
+Sdr Kirkevej 7 9520 Skørping,7,271705.0,15-08-2000,Alm.,0,9,Villa,239,1959,
+Petersmindevej 29 9520 Skørping,29,295000.0,10-08-2000,Alm.,1250,6,Villa,236,2001,
+Rosenvangen 9 9520 Skørping,9,755330.0,28-07-2000,Alm.,0,4,Villa,172,1975,
+Gravlevvej 4 9520 Skørping,4,1155000.0,14-07-2000,Alm.,6111,4,Villa,189,1938,
+Præstevænget 10 9520 Skørping,10,868000.0,08-07-2000,Alm.,6200,5,Villa,140,1936,
+Brøndumvej 43 9520 Skørping,43,310000.0,16-06-2000,Alm.,2583,4,Villa,120,1920,
+Vester Alle 16 9520 Skørping,16,725000.0,13-06-2000,Alm.,0,7,Villa,164,1948,
+Rebild Hedevej 15 9520 Skørping,15,999000.0,07-06-2000,Fam.,6018,5,Villa,166,1960,
+Aspvej 2C 9520 Skørping,0,265000.0,06-06-2000,Fam.,3011,2,Villa,88,1914,
+Haverslevvej 66 9520 Skørping,66,995056.0,30-05-2000,Alm.,6910,6,Villa,144,1948,
+Gammel Skørpingvej 128 9520 Skørping,128,2199160.0,25-05-2000,Alm.,6829,8,Villa,322,1970,
+Stubberupvej 33 9520 Skørping,33,224846.0,08-05-2000,Alm.,0,6,Villa,198,2004,
+Vinkelvej 17 9520 Skørping,17,1150000.0,03-05-2000,Alm.,8214,5,Villa,140,1918,
+Gammel Skørpingvej 92 9520 Skørping,92,1850000.0,14-04-2000,Alm.,6379,9,Villa,290,1962,
+Stubberupvej 21 9520 Skørping,21,640000.0,12-04-2000,Alm.,4413,3,Stuehus,145,1974,
+Bavnehøjvej 1 9520 Skørping,1,490000.0,12-04-2000,Alm.,2168,11,Stuehus,226,1869,
+Rebildvej 11 9520 Skørping,11,745000.0,07-04-2000,Alm.,7602,4,Villa,98,1984,
+Birkedammen 13 9520 Skørping,13,342500.0,04-04-2000,Alm.,2854,4,Villa,120,1973,
+Lyngbyvej 71 9520 Skørping,71,675490.0,18-03-2000,Alm.,3859,4,Villa,175,1902,
+Rosenvænget 6 9520 Skørping,6,1100000.0,17-03-2000,Alm.,8029,6,Villa,137,1966,
+Himmerlandsvej 27 9520 Skørping,27,430000.0,16-03-2000,Alm.,2847,4,Villa,151,1900,
+Gerdingvej 2 9520 Skørping,2,50000.0,10-03-2000,Alm.,164,4,Stuehus,304,1952,
+Gyvelvej 17 9520 Skørping,17,1038812.0,06-03-2000,Alm.,6412,5,Villa,162,1972,
+Stenkrogen 4 9520 Skørping,4,965000.0,18-02-2000,Alm.,6031,4,Villa,160,1974,
+Haverslevvej 74 9520 Skørping,74,397001.0,15-02-2000,Alm.,2835,6,Villa,140,1913,
+Østerbygade 23 9520 Skørping,23,395000.0,08-02-2000,Alm.,3950,3,Villa,100,1961,
+Brøndumvej 42 9520 Skørping,42,480961.0,21-01-2000,Alm.,4372,5,Villa,110,1944,
+Fræervej 12 9520 Skørping,12,825001.0,20-01-2000,Alm.,3966,4,Villa,208,1919,
+Vælderskoven 11 9520 Skørping,11,160000.0,10-01-2000,Alm.,1616,4,Villa,99,1961,
+Rebildvej 16 9520 Skørping,16,550000.0,10-01-2000,Alm.,3437,6,Villa,160,1963,
+Rosenvangen 30 9520 Skørping,30,530899.0,08-01-2000,Fam.,4351,4,Villa,122,1972,
+Jyllandsgade 79 9520 Skørping,79,2185000.0,04-01-2000,Alm.,5660,7,Villa,386,1973,
+Petersmindevej 31 9520 Skørping,31,295000.0,20-12-1999,Alm.,1832,6,Villa,161,2000,
+Brøndumvej 51 9520 Skørping,51,300000.0,16-12-1999,Alm.,4109,3,Villa,73,1957,
+Vinkelvej 7 9520 Skørping,7,776000.0,29-11-1999,Alm.,4850,5,Villa,160,1937,
+Ritavej 2B 9520 Skørping,0,771420.0,29-11-1999,Alm.,6026,4,Rækkehus,128,1974,
+Tvoruphøjevej 19 9520 Skørping,19,600000.0,19-11-1999,Alm.,8571,3,Villa,70,1924,
+Hanehøjvej 50 9520 Skørping,50,500000.0,17-11-1999,Alm.,3267,5,Villa,153,1972,
+Bentevej 34 9520 Skørping,34,1165000.0,15-11-1999,Alm.,7147,5,Villa,163,1978,
+Lyngbyvej 36 9520 Skørping,36,475000.0,14-11-1999,Alm.,5864,2,Villa,81,1950,
+Ritavej 2A 9520 Skørping,0,62500.0,08-11-1999,Fam.,525,4,Villa,119,2000,
+Cimbrervej 7 9520 Skørping,7,850000.0,22-10-1999,Alm.,7456,3,Villa,114,1995,
+Th Hoffmannsvej 16 9520 Skørping,16,840000.0,21-10-1999,Alm.,10500,2,Villa,80,1957,
+Brøndumvej 41 9520 Skørping,41,635000.0,08-10-1999,Alm.,2886,6,Villa,220,1967,
+Hanehøjvej 38 9520 Skørping,38,1160000.0,06-10-1999,Fam.,7483,4,Stuehus,155,1971,
+Petersmindevej 45 9520 Skørping,45,295000.0,03-10-1999,Alm.,1340,4,Villa,220,2001,
+Jægersborgvej 2 9520 Skørping,2,1933105.0,13-09-1999,Alm.,8553,6,Villa,226,1960,
+Valmuevej 3 9520 Skørping,3,1048000.0,02-09-1999,Alm.,6940,5,Villa,151,1980,
+Sejlstrup Hedevej 5 9520 Skørping,5,1020175.0,19-08-1999,Alm.,8794,5,Stuehus,116,1927,
+Rosenvænget 9 9520 Skørping,9,1025000.0,14-08-1999,Alm.,5049,7,Villa,203,1964,
+Jyllandsgade 2 9520 Skørping,2,1300000.0,12-08-1999,Alm.,0,6,Villa,279,1906,
+Kirkevej 8 9520 Skørping,8,91800.0,11-08-1999,Fam.,1912,2,Stuehus,48,1762,
+Jyllandsgade 25 9520 Skørping,25,648000.0,07-07-1999,Alm.,6480,5,Villa,100,1890,
+Ørnebjergvej 2 9520 Skørping,2,2500000.0,03-07-1999,Alm.,14534,7,Villa,172,1930,
+Madum Søvej 30 9520 Skørping,30,460000.0,23-06-1999,Alm.,0,5,Villa,183,1927,
+Albækvej 30 9520 Skørping,30,6800000.0,23-06-1999,Alm.,32850,6,Stuehus,207,1925,
+Rebild Hedevej 14 9520 Skørping,14,1370000.0,22-06-1999,Alm.,7025,7,Villa,195,1950,
+Blenstrupvej 18 9520 Skørping,18,140000.0,21-06-1999,Alm.,1866,3,Villa,75,1677,
+Egholmsvej 9 9520 Skørping,9,795000.0,21-06-1999,Alm.,4595,8,Villa,173,1930,
+Rebildvej 18 9520 Skørping,18,840000.0,21-06-1999,Alm.,7000,5,Villa,120,1986,
+Rebildvej 20 9520 Skørping,20,175000.0,18-06-1999,Alm.,1005,5,Villa,174,2001,
+Brøndumvej 50 9520 Skørping,50,495000.0,16-06-1999,Alm.,5755,4,Villa,86,1911,
+Petersmindevej 17 9520 Skørping,17,610000.0,14-06-1999,Andet,6777,3,Villa,90,1990,
+Purkervej 1 9520 Skørping,1,1275000.0,08-06-1999,Alm.,9883,14,Villa,129,1958,
+Horsensvej 15 9520 Skørping,15,499840.0,07-06-1999,Alm.,3758,4,Villa,133,1954,
+Møllevej 30 9520 Skørping,30,787473.0,04-06-1999,Alm.,5356,5,Villa,147,1964,
+Aarestrupvej 91 9520 Skørping,91,750000.0,04-06-1999,Alm.,3826,5,Villa,196,1964,
+Stentoften 76 9520 Skørping,76,275000.0,02-06-1999,Alm.,0,6,Villa,181,2000,
+Birkedammen 14 9520 Skørping,14,635000.0,31-05-1999,Alm.,0,6,Villa,180,1916,
+Galgevangen 3 9520 Skørping,3,1175812.0,31-05-1999,Alm.,6532,5,Villa,180,1986,
+Horsensvej 40 9520 Skørping,40,8100000.0,28-05-1999,Alm.,54000,4,Villa,150,1899,
+Krogsvej 9 9520 Skørping,9,1553500.0,22-05-1999,Alm.,0,6,Villa,243,1978,
+Gravlevvej 21 9520 Skørping,21,839000.0,20-05-1999,Alm.,5786,6,Villa,145,1955,
+Fræervej 11 9520 Skørping,11,329424.0,18-05-1999,Alm.,4451,3,Villa,74,1957,
+Gyvelvej 7 9520 Skørping,7,850000.0,01-05-1999,Alm.,6589,4,Villa,129,1971,
+Langmosevej 11 9520 Skørping,11,400000.0,27-04-1999,Fam.,4444,3,Stuehus,90,1902,
+Birkeholmvej 6 9520 Skørping,6,430000.0,24-04-1999,Alm.,3071,5,Villa,140,1890,
+Petersmindevej 35 9520 Skørping,35,350000.0,19-04-1999,Alm.,1351,6,Villa,259,2008,
+Ulvkærvej 16 9520 Skørping,16,425000.0,18-04-1999,Alm.,0,5,Stuehus,173,1887,
+Brøndumvej 15 9520 Skørping,15,1523000.0,09-04-1999,Alm.,9889,4,Stuehus,154,1926,
+Skørpingvej 86 9520 Skørping,86,900000.0,29-03-1999,Alm.,0,8,Stuehus,213,1860,
+Kornblomstvej 10 9520 Skørping,10,1175000.0,21-03-1999,Alm.,0,7,Villa,264,1972,
+Maltgørervej 3 9520 Skørping,3,340000.0,15-03-1999,Alm.,3400,4,Villa,100,1963,
+Gravlevvej 6 9520 Skørping,6,165000.0,11-03-1999,Alm.,0,6,Villa,175,1902,
+Aarestrupvej 88 9520 Skørping,88,475000.0,26-02-1999,Alm.,3958,6,Villa,120,1948,
+Ottrup Bakker 2 9520 Skørping,2,207000.0,18-02-1999,Alm.,1544,3,Villa,134,1999,
+Stentoften 30 9520 Skørping,30,895000.0,16-02-1999,Alm.,8443,4,Villa,106,1986,
+Stentoften 42 9520 Skørping,42,827000.0,09-02-1999,Alm.,4543,7,Villa,182,1986,
+Petersmindevej 41 9520 Skørping,41,300000.0,01-02-1999,Alm.,2654,3,Villa,113,2000,
+Gerdingvej 49 9520 Skørping,49,794000.0,28-01-1999,Andet,0,7,Villa,326,1750,
+Valmuevej 6 9520 Skørping,6,635000.0,23-01-1999,Alm.,0,6,Villa,170,1972,
+Rebild Skovhusevej 26 9520 Skørping,26,1230000.0,15-01-1999,Alm.,5913,5,Stuehus,208,2000,
+Haverslevvej 27 9520 Skørping,27,515000.0,13-01-1999,Alm.,2682,5,Villa,192,1928,
+Vester Alle 12 9520 Skørping,12,511000.0,24-12-1998,Alm.,0,6,Villa,198,1950,
+Skørpingvej 51 9520 Skørping,51,510000.0,21-12-1998,Fam.,1531,7,Stuehus,333,2006,
+Ved Skoven 14 9520 Skørping,14,625000.0,19-12-1998,Alm.,6443,3,Rækkehus,97,1983,
+Ottrup Bakker 18 9520 Skørping,18,207000.0,07-12-1998,Alm.,0,7,Villa,213,2000,
+Madum Søvej 40 9520 Skørping,40,100000.0,04-12-1998,Fam.,892,4,Stuehus,112,1933,
+Galgevangen 10 9520 Skørping,10,35000.0,05-11-1998,Alm.,250,5,Villa,140,2000,
+Hvingelhatvej 12 9520 Skørping,12,1100000.0,04-11-1998,Alm.,6250,6,Stuehus,176,1900,
+Askildrupvej 32 9520 Skørping,32,377000.0,04-11-1998,Alm.,3927,3,Villa,96,1963,
+Bentevej 68 9520 Skørping,68,1275000.0,04-11-1998,Alm.,5402,7,Villa,236,1976,
+Stentoften 68 9520 Skørping,68,325000.0,29-10-1998,Alm.,2181,5,Villa,149,1999,
+Horsensvej 12 9520 Skørping,12,2300000.0,28-10-1998,Alm.,11500,6,Stuehus,200,1935,
+Stentoften 66 9520 Skørping,66,325000.0,27-10-1998,Alm.,1911,7,Villa,170,1999,
+Stentoften 64 9520 Skørping,64,275000.0,23-10-1998,Alm.,1833,6,Villa,150,2001,
+Aalborgvej 53 9520 Skørping,53,867980.0,17-10-1998,Alm.,3693,7,Stuehus,235,1950,
+Gyvelvej 22 9520 Skørping,22,1067136.0,14-10-1998,Alm.,4446,7,Villa,240,1971,
+Stentoften 56 9520 Skørping,56,837002.0,09-10-1998,Alm.,4500,7,Villa,186,1986,
+Skrænten 2 9520 Skørping,2,793560.0,07-10-1998,Alm.,5361,5,Villa,148,1967,
+Ottrup Bakker 4 9520 Skørping,4,222000.0,07-10-1998,Alm.,0,6,Villa,228,2004,
+Højparken 2 9520 Skørping,2,663075.0,03-10-1998,Alm.,5479,4,Villa,121,1986,
+Sætervej 17 9520 Skørping,17,1355104.0,28-09-1998,Alm.,0,5,Villa,154,1985,
+Brøndumvej 58 9520 Skørping,58,175000.0,26-09-1998,Alm.,1458,4,Villa,120,1892,
+Skørpingvej 98 9520 Skørping,98,395000.0,21-09-1998,Alm.,2101,8,Villa,188,1928,
+Vandværksvej 7 9520 Skørping,7,590000.0,11-09-1998,Alm.,6082,5,Villa,97,1948,
+Aarestrupvej 86 9520 Skørping,86,192000.0,04-09-1998,Alm.,955,6,Stuehus,201,1978,
+Gammel Skørpingvej 114 9520 Skørping,114,1640000.0,01-09-1998,Alm.,0,8,Villa,210,1900,
+Damvej 1 9520 Skørping,1,986000.0,25-08-1998,Alm.,7469,4,Villa,132,1972,
+Stentoften 28 9520 Skørping,28,759904.0,11-08-1998,Alm.,5756,6,Villa,132,1986,
+Lillevej 3 9520 Skørping,3,974780.0,06-08-1998,Alm.,7274,3,Villa,134,1972,
+Ingersvej 4 9520 Skørping,4,1375000.0,03-08-1998,Alm.,0,6,Villa,133,1996,
+Ottrup Bakker 3 9520 Skørping,3,232000.0,01-07-1998,Alm.,1177,5,Villa,197,2000,
+Rebild Hedevej 12 9520 Skørping,12,730560.0,29-06-1998,Alm.,4623,6,Villa,158,1903,
+Jyllandsgade 59 9520 Skørping,59,612553.0,26-06-1998,Alm.,3828,5,Villa,160,1935,
+Gerdingvej 6 9520 Skørping,6,877000.0,24-06-1998,Alm.,0,9,Stuehus,213,1920,
+Vandværksvej 15 9520 Skørping,15,935000.0,18-06-1998,Alm.,5993,7,Villa,156,1945,
+Nordre Skovvej 9 9520 Skørping,9,973000.0,08-06-1998,Alm.,0,6,Villa,147,1932,
+Bentevej 14 9520 Skørping,14,872000.0,08-06-1998,Alm.,0,8,Villa,168,1974,
+Blenstrupvej 7 9520 Skørping,7,425000.0,01-06-1998,Alm.,2656,7,Stuehus,160,1910,
+Jyllandsgade 34 9520 Skørping,34,705000.0,29-05-1998,Alm.,5423,7,Villa,130,1905,
+Rebildvej 48 9520 Skørping,48,981800.0,29-05-1998,Alm.,8925,3,Villa,110,1951,
+Hellum Byvej 11 9520 Skørping,11,360000.0,29-05-1998,Alm.,2706,5,Villa,133,1927,
+Skrænten 1 9520 Skørping,1,382500.0,15-05-1998,Fam.,3084,4,Villa,124,1965,
+Hobrovej 209 9520 Skørping,209,210000.0,06-05-1998,Alm.,1304,6,Villa,161,1943,
+Gammel Skørpingvej 124 9520 Skørping,124,622000.0,27-04-1998,Alm.,5271,6,Villa,118,1939,
+Blenstrupvej 8 9520 Skørping,8,618448.0,26-04-1998,Alm.,3595,4,Villa,172,1950,
+Østerbygade 5 9520 Skørping,5,225000.0,24-04-1998,Alm.,0,8,Villa,165,1929,
+Bækkedalsvej 10 9520 Skørping,10,342700.0,31-03-1998,Alm.,2300,4,Villa,149,1998,
+Lyngbyvej 92 9520 Skørping,92,393000.0,30-03-1998,Alm.,0,4,Stuehus,145,1910,
+Haverslevvej 38 9520 Skørping,38,589507.0,16-03-1998,Alm.,4912,4,Villa,120,1900,
+Frugthaven 9 9520 Skørping,9,933418.0,16-03-1998,Alm.,5870,6,Villa,159,1980,
+Granvej 1 9520 Skørping,1,550000.0,18-02-1998,Alm.,4296,3,Villa,128,1973,
+Bentevej 64 9520 Skørping,64,1059522.0,11-02-1998,Alm.,5727,4,Villa,185,1976,
+Degnevænget 29 9520 Skørping,29,242212.0,06-02-1998,Alm.,1969,4,Villa,123,1998,
+Sætervej 15 9520 Skørping,15,1607600.0,01-02-1998,Alm.,7547,7,Villa,213,1980,
+Degnevænget 35 9520 Skørping,35,237212.0,24-01-1998,Alm.,1371,7,Villa,173,1998,
+Hvingelhatvej 11 9520 Skørping,11,780000.0,23-01-1998,Alm.,4382,5,Villa,178,1900,
+Stentoften 45 9520 Skørping,45,874809.0,22-01-1998,Alm.,5832,4,Villa,150,1980,
+Tvoruphøjevej 13 9520 Skørping,13,1275000.0,19-01-1998,Alm.,4442,6,Stuehus,287,2008,
+Markedsvej 8 9520 Skørping,8,353742.0,16-01-1998,Alm.,0,6,Villa,155,1932,
+Jægersborgvej 14 9520 Skørping,14,315000.0,30-12-1997,Fam.,0,5,Villa,116,1951,
+Bentevej 3 9520 Skørping,3,175000.0,22-12-1997,Alm.,902,7,Villa,194,2000,
+Hvingelhatvej 17 9520 Skørping,17,450000.0,19-12-1997,Alm.,0,6,Stuehus,190,1877,
+Smallegade 12 9520 Skørping,12,260000.0,16-12-1997,Andet,2000,5,Villa,130,1906,
+Ottrup Bakker 3A 9520 Skørping,0,450000.0,01-12-1997,Alm.,0,4,Villa,149,1949,
+Bækkedalsvej 8 9520 Skørping,8,1445300.0,28-11-1997,Fam.,8402,6,Stuehus,172,1880,
+Kornblomstvej 9 9520 Skørping,9,774381.0,27-11-1997,Alm.,0,5,Villa,173,1972,
+Østerbygade 6 9520 Skørping,6,525000.0,26-11-1997,Alm.,2692,5,Villa,195,1927,
+Rebildvej 30 9520 Skørping,30,1200000.0,17-11-1997,Alm.,10619,4,Stuehus,113,1898,
+Hyldgårdstoften 2 9520 Skørping,2,220144.0,15-11-1997,Alm.,1693,4,Villa,130,1971,
+Sdr. Banevej 2 9520 Skørping,2,536215.0,31-10-1997,Alm.,0,4,Villa,93,1986,
+Degnevænget 31 9520 Skørping,31,287212.0,27-10-1997,Alm.,0,5,Villa,169,1998,
+Cimbrervej 9 9520 Skørping,9,370000.0,14-10-1997,Alm.,0,4,Villa,146,1962,
+Ottrup Bakker 16 9520 Skørping,16,257000.0,14-10-1997,Alm.,1427,7,Villa,180,1998,
+Skørpingvej 33 9520 Skørping,33,91909.0,12-10-1997,Alm.,1068,4,Stuehus,86,1877,
+Degnevænget 18 9520 Skørping,18,297212.0,06-10-1997,Alm.,1790,6,Villa,166,2000,
+Degnevænget 22 9520 Skørping,22,277212.0,06-10-1997,Alm.,1407,6,Villa,197,1998,
+Himmerlandsvej 12B 9520 Skørping,0,420000.0,28-09-1997,Fam.,2413,6,Villa,174,1903,
+Vesterbygade 5 9520 Skørping,5,450000.0,23-09-1997,Alm.,5844,5,Stuehus,77,1910,
+Skindbjergvej 14 9520 Skørping,14,375000.0,22-09-1997,Alm.,3177,4,Villa,118,1927,
+Rosenvangen 50 9520 Skørping,50,889000.0,22-09-1997,Alm.,5591,6,Villa,159,1970,
+Drosselvej 4 9520 Skørping,4,535777.0,18-09-1997,Alm.,4618,4,Villa,116,1949,
+Siemvej 8 9520 Skørping,8,60000.0,05-09-1997,Alm.,359,6,Villa,167,1999,
+Ottrup Bakker 12 9520 Skørping,12,222000.0,26-08-1997,Alm.,1093,6,Villa,203,2001,
+Rebild Skovhusevej 17 9520 Skørping,17,1700000.0,28-07-1997,Alm.,7083,6,Stuehus,240,1907,
+Skørpingvej 100 9520 Skørping,100,515640.0,24-07-1997,Alm.,4297,4,Villa,120,1962,
+Smedevej 3 9520 Skørping,3,565000.0,03-07-1997,Alm.,5650,4,Rækkehus,100,1986,
+Haverslevvej 72 9520 Skørping,72,527850.0,01-07-1997,Fam.,4326,4,Villa,122,1930,
+Vestergårdsvej 5 9520 Skørping,5,45000.0,30-06-1997,Alm.,264,6,Villa,170,1998,
+Hanehøjvej 39 9520 Skørping,39,550000.0,24-06-1997,Alm.,5729,3,Stuehus,96,1914,
+Møllebakken 5 9520 Skørping,5,403115.0,20-06-1997,Alm.,3732,3,Villa,108,1972,
+Langsiggårdsvej 4 9520 Skørping,4,1360000.0,17-06-1997,Fam.,0,7,Stuehus,250,1942,
+Lyngbyvej 63 9520 Skørping,63,1020000.0,12-06-1997,Alm.,5930,5,Stuehus,172,1951,
+Smedevej 8 9520 Skørping,8,512000.0,02-06-1997,Alm.,0,4,Villa,139,1977,
+Bentevej 4 9520 Skørping,4,800000.0,02-06-1997,Alm.,5128,3,Villa,156,1974,
+Kirkevej 2 9520 Skørping,2,138242.0,29-05-1997,Alm.,2229,3,Villa,62,1877,
+Jyllandsgade 67 9520 Skørping,67,1610000.0,27-05-1997,Alm.,8172,7,Villa,197,1988,
+Gammel Skørpingvej 28 9520 Skørping,28,949294.0,26-05-1997,Alm.,5718,5,Villa,166,1928,
+Ulvkærvej 7 9520 Skørping,7,1154840.0,19-05-1997,Alm.,7750,4,Stuehus,149,1974,
+Ottrup Bakker 1 9520 Skørping,1,232000.0,17-04-1997,Alm.,0,6,Villa,172,1998,
+Vester Alle 8 9520 Skørping,8,425000.0,14-04-1997,Alm.,3035,4,Villa,140,1955,
+Mølholmvej 18 9520 Skørping,18,100000.0,14-04-1997,Alm.,485,7,Stuehus,206,1920,
+Hellum Hedevej 6 9520 Skørping,6,100000.0,06-04-1997,Alm.,3333,1,Sommerhus,30,1964,
+Erstedskovvej 14 9520 Skørping,14,675000.0,24-03-1997,Alm.,4245,4,Villa,159,1880,
+Sigsgårdsvej 2 9520 Skørping,2,2050000.0,12-03-1997,Fam.,9403,7,Stuehus,218,1950,
+Sætervej 13B 9520 Skørping,0,230000.0,10-03-1997,Alm.,1543,5,Villa,149,1999,
+Himmerlandsvej 9 9520 Skørping,9,527500.0,27-02-1997,Alm.,2761,7,Villa,191,1899,
+Madum Søvej 6 9520 Skørping,6,660000.0,20-02-1997,Alm.,4099,5,Villa,161,1963,
+Ranunkelvej 9 9520 Skørping,9,587077.0,06-02-1997,Alm.,3173,8,Villa,185,1975,
+Stentoften 54 9520 Skørping,54,670000.0,05-02-1997,Alm.,6320,4,Villa,106,1986,
+Aalborgvej 46 9520 Skørping,46,7490321.0,29-01-1997,Alm.,22976,6,Stuehus,326,1919,
+Brøndumvej 49 9520 Skørping,49,200000.0,17-01-1997,Alm.,0,4,Villa,111,1947,
+Lyngbyvej 73 9520 Skørping,73,800000.0,14-01-1997,Alm.,4395,5,Stuehus,182,1994,
+Askildrupvej 23 9520 Skørping,23,550000.0,30-12-1996,Alm.,2835,12,Villa,194,1903,
+Kornblomstvej 1 9520 Skørping,1,957040.0,11-12-1996,Alm.,4933,6,Villa,194,1972,
+Sdr Kirkevej 6 9520 Skørping,6,646500.0,06-12-1996,Alm.,0,9,Villa,230,1957,
+Hellum Hedevej 4 9520 Skørping,4,795000.0,04-12-1996,Alm.,0,6,Stuehus,155,1928,
+Gerdingvej 47 9520 Skørping,47,870000.0,28-11-1996,Alm.,4627,7,Stuehus,188,1907,
+Blenstrupvej 34 9520 Skørping,34,341000.0,25-11-1996,Alm.,2273,5,Stuehus,150,1890,
+Hanebakkevej 3 9520 Skørping,3,1090208.0,20-11-1996,Alm.,4396,7,Villa,248,1984,
+Gerdingvej 4 9520 Skørping,4,390000.0,19-11-1996,Alm.,2294,7,Villa,170,2006,
+Brøndumvej 1 9520 Skørping,1,418512.0,01-11-1996,Alm.,0,7,Villa,227,1905,
+Sct Jørgensvej 2 9520 Skørping,2,623202.0,24-10-1996,Alm.,3245,8,Stuehus,192,1904,
+Højparken 12 9520 Skørping,12,590000.0,23-10-1996,Alm.,3933,5,Villa,150,1980,
+Mølleparken 26 9520 Skørping,26,724000.0,14-10-1996,Alm.,5323,5,Villa,136,1966,
+Lyngbyvej 40 9520 Skørping,40,310000.0,12-10-1996,Alm.,3195,3,Villa,97,1949,
+Th Hoffmannsvej 4 9520 Skørping,4,305000.0,23-09-1996,Alm.,2904,3,Villa,105,1887,
+Anemonevej 1 9520 Skørping,1,878220.0,09-09-1996,Alm.,5166,6,Villa,170,1975,
+Ottrup Bakker 6 9520 Skørping,6,261712.0,09-09-1996,Alm.,0,8,Villa,222,1997,
+Ottrup Bakker 8 9520 Skørping,8,261712.0,09-09-1996,Alm.,0,9,Villa,236,1997,
+Brøndumvej 10 9520 Skørping,10,235000.0,31-08-1996,Alm.,3357,3,Villa,70,1960,
+Østerbygade 29 9520 Skørping,29,465000.0,16-08-1996,Alm.,3297,5,Stuehus,141,1936,
+Haverslevvej 70 9520 Skørping,70,581773.0,03-07-1996,Alm.,3268,5,Villa,178,1930,
+Nyvej 1 9520 Skørping,1,451000.0,21-06-1996,Alm.,4100,4,Villa,110,1965,
+Vesterbygade 36 9520 Skørping,36,215000.0,11-06-1996,Alm.,2986,3,Villa,72,1949,
+Dollerup Byvej 11 9520 Skørping,11,144500.0,26-04-1996,Fam.,1445,4,Villa,100,1909,
+Purkervej 15 9520 Skørping,15,175000.0,21-04-1996,Fam.,806,7,Villa,217,1950,
+Rebildvej 21 9520 Skørping,21,784906.0,01-04-1996,Alm.,4265,6,Villa,184,1937,
+Ejstrupvej 4 9520 Skørping,4,510000.0,29-03-1996,Fam.,3541,7,Stuehus,144,1915,
+Rosenvænget 4 9520 Skørping,4,450000.0,25-03-1996,Alm.,0,6,Villa,153,1968,
+Kornblomstvej 2 9520 Skørping,2,784160.0,15-03-1996,Alm.,5059,7,Villa,155,1973,
+Jyllandsgade 30 9520 Skørping,30,425000.0,15-02-1996,Alm.,0,9,Villa,254,1890,
+Ingersvej 1 9520 Skørping,1,160000.0,12-02-1996,Alm.,1355,4,Villa,118,1996,
+Rosenvænget 11 9520 Skørping,11,726000.0,09-02-1996,Alm.,5500,4,Villa,132,1965,
+Hobrovej 193 9520 Skørping,193,700000.0,04-02-1996,Alm.,4022,6,Villa,174,1974,
+Volbjerg 10 9520 Skørping,10,611974.0,24-01-1996,Fam.,0,6,Villa,163,1927,
+Vinkelvej 2A 9520 Skørping,0,670000.0,18-01-1996,Alm.,5775,3,Villa,116,1987,
+Brøndumvej 52 9520 Skørping,52,280380.0,04-01-1996,Alm.,1869,6,Villa,150,1909,
+Gammel Skørpingvej 27 9520 Skørping,27,575000.0,11-12-1995,Alm.,5750,4,Villa,100,1961,
+Gammel Askildrupvej 4 9520 Skørping,4,287500.0,11-12-1995,Alm.,1369,6,Stuehus,210,1905,
+Skindbjergvej 1 9520 Skørping,1,675000.0,11-12-1995,Alm.,3341,6,Villa,202,1922,
+Egholmsvej 8 9520 Skørping,8,475000.0,30-11-1995,Alm.,2653,8,Villa,179,1920,
+Skrænten 13 9520 Skørping,13,780000.0,14-11-1995,Alm.,5200,6,Villa,150,1971,
+Møllevej 6 9520 Skørping,6,990000.0,12-11-1995,Alm.,5238,8,Villa,189,1925,
+Horsens Hedegårdsvej 14 9520 Skørping,14,405600.0,04-11-1995,Alm.,0,6,Stuehus,255,1934,
+Himmerlandsvej 15 9520 Skørping,15,682040.0,30-10-1995,Alm.,4262,7,Villa,160,1935,
+Ingersvej 3 9520 Skørping,3,185000.0,25-10-1995,Alm.,1651,3,Villa,112,1997,
+Gerdingvej 41 9520 Skørping,41,435000.0,23-10-1995,Alm.,2900,5,Villa,150,1969,
+Maltgørervej 1 9520 Skørping,1,750000.0,21-10-1995,Alm.,3260,7,Villa,230,1973,
+Cimbrervej 1 9520 Skørping,1,800000.0,04-10-1995,Alm.,0,7,Villa,232,1963,
+Smedevej 5 9520 Skørping,5,335000.0,28-09-1995,Alm.,0,5,Villa,155,1916,
+Hellum Hedevej 3 9520 Skørping,3,292200.0,23-09-1995,Alm.,0,7,Villa,253,1925,
+Vester Alle 14 9520 Skørping,14,509000.0,20-09-1995,Alm.,5532,4,Villa,92,1946,
+Blenstrupvej 37 9520 Skørping,37,595000.0,13-09-1995,Alm.,2564,9,Industri o.l.,232,1895,
+Gerdingvej 22 9520 Skørping,22,418037.0,11-09-1995,Alm.,0,5,Villa,261,1970,
+Lyngbyvej 9 9520 Skørping,9,435000.0,06-09-1995,Alm.,2959,4,Villa,147,1800,
+Brøndumvej 46 9520 Skørping,46,3165000.0,04-09-1995,Alm.,10377,7,Stuehus,305,1923,
+Vinkelvej 2C 9520 Skørping,0,575000.0,07-08-1995,Alm.,5989,3,Villa,96,1987,
+Gerdingvej 11 9520 Skørping,11,599250.0,29-07-1995,Alm.,4718,5,Stuehus,127,1920,
+Skørpingholmevej 1 9520 Skørping,1,1650000.0,18-07-1995,Alm.,6066,8,Stuehus,272,2003,
+Ørnebjergvej 14 9520 Skørping,14,612700.0,30-06-1995,Alm.,3481,9,Stuehus,176,1880,
+Ejstrupvej 15 9520 Skørping,15,1090000.0,15-06-1995,Alm.,2558,11,Villa,426,1900,
+Haverslevvej 29 9520 Skørping,29,403410.0,09-06-1995,Alm.,2318,5,Villa,174,1968,
+Hvingelhatvej 7 9520 Skørping,7,539650.0,09-06-1995,Alm.,2044,7,Stuehus,264,1912,
+Krogsvej 23 9520 Skørping,23,114500.0,21-05-1995,Alm.,0,8,Villa,212,1995,
+Gravlevvej 18 9520 Skørping,18,955000.0,19-05-1995,Alm.,6725,5,Villa,142,1987,
+Hvingelhatvej 29 9520 Skørping,29,288264.0,15-05-1995,Alm.,1884,6,Stuehus,153,1900,
+Brøndumvej 17 9520 Skørping,17,625000.0,15-05-1995,Alm.,0,6,Stuehus,199,1924,
+Stenkrogen 12 9520 Skørping,12,638560.0,21-04-1995,Alm.,4314,4,Villa,148,1973,
+Th Hoffmannsvej 14 9520 Skørping,14,560000.0,18-04-1995,Alm.,0,6,Villa,159,1890,
+Egholmsvej 43 9520 Skørping,43,445000.0,17-04-1995,Alm.,3938,4,Villa,113,1977,
+Gammel Skørpingvej 156 9520 Skørping,156,525000.0,12-04-1995,Alm.,2050,11,Stuehus,256,1911,
+Gravlevvej 35 9520 Skørping,35,790842.0,04-04-1995,Alm.,5379,5,Villa,147,1965,
+Krogsvej 13 9520 Skørping,13,128000.0,31-03-1995,Alm.,673,6,Villa,190,1996,
+Fræer Kirkevej 1 9520 Skørping,1,649600.0,01-03-1995,Alm.,0,7,Villa,200,1930,
+Rebildvej 5 9520 Skørping,5,432500.0,27-02-1995,Alm.,2184,7,Villa,198,1927,
+Møllevej 8A 9520 Skørping,0,731650.0,17-02-1995,Alm.,4434,6,Villa,165,1972,
+Maltgørervej 9 9520 Skørping,9,385000.0,15-02-1995,Alm.,0,6,Villa,185,1963,
+Askildrupvej 10 9520 Skørping,10,7000.0,01-02-1995,Alm.,29,7,Stuehus,235,1850,
+Lyngbyvej 77 9520 Skørping,77,553750.0,31-01-1995,Alm.,4614,5,Villa,120,1929,
+Bentevej 8 9520 Skørping,8,561024.0,19-01-1995,Alm.,3359,7,Villa,167,1977,
+Stentoften 22 9520 Skørping,22,535000.0,19-01-1995,Alm.,5047,4,Villa,106,1986,
+Stubberupvej 15 9520 Skørping,15,200000.0,17-01-1995,Alm.,1980,5,Fritid,101,1951,
+Lillevej 4 9520 Skørping,4,675000.0,13-01-1995,Alm.,3792,5,Villa,178,1973,
+Ejstrupvej 17 9520 Skørping,17,340000.0,28-12-1994,Alm.,2394,5,Villa,142,2014,
+Aspvej 13 9520 Skørping,13,1673808.0,21-12-1994,Fam.,12041,5,Stuehus,139,1890,
+Petersmindevej 2 9520 Skørping,2,901100.0,01-12-1994,Fam.,4505,8,Villa,200,1971,
+Cimbrervej 3 9520 Skørping,3,445000.0,01-12-1994,Alm.,2405,6,Villa,185,1957,
+Stenkrogen 3 9520 Skørping,3,520000.0,28-11-1994,Alm.,3741,4,Villa,139,1974,
+Petersmindevej 19 9520 Skørping,19,265000.0,28-11-1994,Alm.,3486,2,Rækkehus,76,1990,
+Petersmindevej 21 9520 Skørping,21,265000.0,28-11-1994,Alm.,3486,2,Rækkehus,76,1990,
+Petersmindevej 7 9520 Skørping,7,425000.0,28-11-1994,Alm.,2442,6,Rækkehus,174,1990,
+Petersmindevej 9 9520 Skørping,9,265000.0,28-11-1994,Alm.,3486,2,Rækkehus,76,1990,
+Petersmindevej 13 9520 Skørping,13,250000.0,28-11-1994,Alm.,3787,2,Rækkehus,66,1990,
+Petersmindevej 11 9520 Skørping,11,250000.0,28-11-1994,Alm.,3787,2,Rækkehus,66,1990,
+Petersmindevej 15 9520 Skørping,15,250000.0,28-11-1994,Alm.,3787,2,Rækkehus,66,1990,
+Petersmindevej 23 9520 Skørping,23,250000.0,28-11-1994,Alm.,3289,2,Rækkehus,76,1990,
+Sdr Kirkevej 1 9520 Skørping,1,385000.0,21-11-1994,Alm.,3666,4,Villa,105,1952,
+Cimbrervej 6 9520 Skørping,6,1293000.0,20-11-1994,Alm.,9170,5,Villa,141,1986,
+Bækhusevej 12 9520 Skørping,12,785000.0,11-11-1994,Alm.,4197,6,Villa,187,1912,
+Ejstrupvej 3 9520 Skørping,3,215485.0,07-11-1994,Alm.,0,4,Villa,137,1946,
+Enighedsvej 11 9520 Skørping,11,235000.0,28-10-1994,Alm.,0,5,Villa,151,1948,
+Askildrupvej 1 9520 Skørping,1,558719.0,13-10-1994,Alm.,3306,5,Stuehus,169,1998,
+Bækkedalsvej 1 9520 Skørping,1,775000.0,08-10-1994,Alm.,3506,11,Engroshandel,221,1923,
+Horsensvej 13 9520 Skørping,13,250000.0,04-10-1994,Alm.,0,5,Villa,131,1946,
+Præstevej 19 9520 Skørping,19,275742.0,30-09-1994,Alm.,3244,3,Villa,85,1925,
+Skindbjergvej 8 9520 Skørping,8,185000.0,22-09-1994,Alm.,1321,4,Villa,140,1955,
+Skindbjerglundvej 11 9520 Skørping,11,220000.0,20-09-1994,Alm.,1692,3,Stuehus,130,1877,
+Mølleparken 13 9520 Skørping,13,390000.0,01-09-1994,Alm.,3451,4,Villa,113,1965,
+Møllevej 8B 9520 Skørping,0,770000.0,22-08-1994,Alm.,5703,4,Villa,135,1945,
+Vesterbygade 11 9520 Skørping,11,290000.0,15-08-1994,Alm.,0,5,Villa,150,1936,
+Askildrupvej 3 9520 Skørping,3,183350.0,12-08-1994,Alm.,0,3,Villa,130,1902,
+Lyngbyvej 48 9520 Skørping,48,190000.0,12-08-1994,Fam.,0,8,Villa,270,1936,
+Kridtbakken 4 9520 Skørping,4,1352000.0,05-08-1994,Alm.,5408,7,Villa,250,1880,
+Gammel Skørpingvej 110 9520 Skørping,110,281993.0,04-08-1994,Alm.,2473,5,Villa,114,1931,
+Stendalsvej 25 9520 Skørping,25,510000.0,01-08-1994,Alm.,3493,5,Stuehus,146,1877,
+Bentevej 24 9520 Skørping,24,700000.0,01-08-1994,Alm.,4487,6,Villa,156,1976,
+Aalborgvej 44 9520 Skørping,44,293166.0,11-07-1994,Alm.,0,7,Stuehus,187,1900,
+Bentevej 56 9520 Skørping,56,642810.0,07-06-1994,Alm.,4285,5,Villa,150,1974,
+Brøndumvej 21 9520 Skørping,21,425000.0,06-06-1994,Alm.,3728,4,Stuehus,114,1968,
+Kildebakken 6 9520 Skørping,6,332650.0,06-06-1994,Alm.,0,6,Villa,136,1921,
+Cimbrervej 14 9520 Skørping,14,765000.0,03-06-1994,Alm.,4026,6,Villa,190,1965,
+Bækkedalsvej 9 9520 Skørping,9,677000.0,01-06-1994,Alm.,3091,5,Villa,219,1897,
+Brøndumvej 35 9520 Skørping,35,775000.0,31-05-1994,Alm.,4783,6,Stuehus,162,1921,
+Mølholmvej 10 9520 Skørping,10,646000.0,18-05-1994,Fam.,4037,4,Stuehus,160,1861,
+Fræervej 19 9520 Skørping,19,175000.0,05-05-1994,Alm.,774,7,Villa,226,1919,
+Rosenvangen 60 9520 Skørping,60,386180.0,03-05-1994,Alm.,0,6,Villa,214,1974,
+Horsensvej 10 9520 Skørping,10,915000.0,03-05-1994,Fam.,0,5,Stuehus,375,1927,
+Lyngbyvej 67 9520 Skørping,67,757500.0,01-05-1994,Alm.,4855,7,Stuehus,156,1999,
+Galgevangen 2 9520 Skørping,2,550000.0,18-04-1994,Alm.,0,6,Villa,171,1987,
+Højvangen 7 9520 Skørping,7,250000.0,18-04-1994,Alm.,2212,5,Villa,113,1954,
+Haverslevvej 80A 9520 Skørping,0,390000.0,23-03-1994,Alm.,0,4,Rækkehus,189,1910,
+Stentoften 57 9520 Skørping,57,775000.0,15-03-1994,Alm.,3780,10,Villa,205,1975,
+Jenlebakken 1 9520 Skørping,1,880000.0,09-03-1994,Alm.,4705,5,Villa,187,1979,
+Erstedskovvej 10 9520 Skørping,10,495000.0,09-03-1994,Alm.,6689,5,Stuehus,74,1860,
+Bækhusevej 5 9520 Skørping,5,1144360.0,22-02-1994,Alm.,5721,6,Villa,200,1961,
+Tvoruphøjevej 12 9520 Skørping,12,728000.0,21-02-1994,Alm.,4067,8,Stuehus,179,1937,
+Skindbjergvej 19 9520 Skørping,19,341040.0,17-02-1994,Alm.,3552,4,Stuehus,96,1912,
+Troldbakkevej 7 9520 Skørping,7,100000.0,17-02-1994,Alm.,719,4,Stuehus,139,2006,
+Haverslevvej 103 9520 Skørping,103,350000.0,13-02-1994,Alm.,3684,4,Villa,95,1958,
+Lyngbyvej 76 9520 Skørping,76,200000.0,24-01-1994,Alm.,2439,2,Villa,82,1957,
+Bækkedalsvej 3 9520 Skørping,3,199450.0,07-01-1994,Alm.,2493,2,Villa,80,1877,
+Skindbjergvej 29 9520 Skørping,29,429000.0,04-01-1994,Alm.,0,8,Stuehus,139,1900,
+Birkeholmvej 11 9520 Skørping,11,525000.0,13-12-1993,Alm.,3365,4,Stuehus,156,1900,
+Gravlevvej 5 9520 Skørping,5,250000.0,07-12-1993,Alm.,0,8,Industri o.l.,94,1966,
+Fræervej 4B 9520 Skørping,0,100000.0,29-11-1993,Alm.,1020,3,Villa,98,1877,
+Sverrighusvej 15 9520 Skørping,15,648000.0,18-11-1993,Alm.,0,8,Villa,251,1840,
+Stenkrogen 9 9520 Skørping,9,745000.0,08-11-1993,Alm.,4656,5,Villa,160,1974,
+Rosenvangen 17 9520 Skørping,17,500000.0,08-11-1993,Alm.,3571,5,Villa,140,1970,
+Blenstrupvej 12 9520 Skørping,12,275000.0,31-10-1993,Fam.,1410,7,Stuehus,195,1911,
+Mølholmvej 30 9520 Skørping,30,588200.0,30-10-1993,Alm.,0,8,Villa,290,1877,
+Hyldgårdstoften 6 9520 Skørping,6,295000.0,29-10-1993,Alm.,2379,4,Villa,124,1970,
+Galgevangen 11 9520 Skørping,11,475000.0,26-10-1993,Alm.,3710,4,Villa,128,1979,
+Syrenvej 3 9520 Skørping,3,300000.0,22-10-1993,Fam.,0,3,Villa,113,1965,
+Rebildvej 17B 9520 Skørping,0,723000.0,20-10-1993,Alm.,5604,4,Villa,129,1984,
+Lyngbyvej 41 9520 Skørping,41,265000.0,19-10-1993,Fam.,1879,5,Villa,141,1984,
+Kridtbakken 9 9520 Skørping,9,718000.0,18-10-1993,Alm.,0,5,Villa,200,1877,
+Vesterbygade 37 9520 Skørping,37,240000.0,13-10-1993,Alm.,2500,3,Villa,96,1962,
+Th Hoffmannsvej 12 9520 Skørping,12,300000.0,07-10-1993,Alm.,2459,6,Villa,122,1900,
+Askildrupvej 34 9520 Skørping,34,215000.0,29-09-1993,Alm.,1954,3,Villa,110,1966,
+Stubberhøjvej 6 9520 Skørping,6,475000.0,23-09-1993,Alm.,0,7,Villa,215,1922,
+Brøndumvej 23 9520 Skørping,23,1400000.0,10-09-1993,Alm.,5000,9,Stuehus,280,1922,
+Vandværksvej 19 9520 Skørping,19,500000.0,04-09-1993,Alm.,2347,7,Villa,213,1975,
+Vester Alle 20 9520 Skørping,20,285000.0,29-08-1993,Alm.,2794,4,Villa,102,1950,
+Askildrupvej 22 9520 Skørping,22,250000.0,26-08-1993,Alm.,0,4,Villa,136,1969,
+Kridtbakken 17 9520 Skørping,17,187000.0,24-08-1993,Alm.,1558,4,Villa,120,1959,
+Stadionvej 14 9520 Skørping,14,470000.0,24-08-1993,Alm.,2974,4,Villa,158,1974,
+Gerdavej 6 9520 Skørping,6,200182.0,18-08-1993,Fam.,1064,6,Villa,188,1978,
+Horsens Hedegårdsvej 20 9520 Skørping,20,375000.0,11-08-1993,Alm.,4261,3,Stuehus,88,1931,
+Volbjerg 1 9520 Skørping,1,725000.0,02-07-1993,Alm.,3020,6,Villa,240,1877,
+Stentoften 23 9520 Skørping,23,740000.0,24-06-1993,Alm.,4302,6,Villa,172,1977,
+Enighedsvej 18 9520 Skørping,18,210000.0,21-06-1993,Alm.,1280,5,Villa,164,1957,
+Lyngbyvej 4 9520 Skørping,4,430000.0,21-06-1993,Alm.,2559,5,Villa,168,1974,
+Cimbrervej 19 9520 Skørping,19,569500.0,16-06-1993,Fam.,2382,7,Villa,239,1970,
+Skørping Skovbrynet 4 9520 Skørping,4,400000.0,14-06-1993,Alm.,4545,3,Villa,88,1948,
+Hanehøjvej 9 9520 Skørping,9,592000.0,27-05-1993,Alm.,3288,8,Villa,180,1971,
+Fræervej 5 9520 Skørping,5,798900.0,18-05-1993,Alm.,9986,4,Stuehus,80,1930,
+Madum Søvej 48 9520 Skørping,48,450000.0,12-05-1993,Alm.,7500,3,Sommerhus,60,1971,
+Lyngbyvej 32 9520 Skørping,32,200000.0,27-04-1993,Alm.,2500,3,Villa,80,1962,
+Valmuevej 2 9520 Skørping,2,650000.0,26-04-1993,Alm.,3217,6,Villa,202,1971,
+Lyngbyvej 80 9520 Skørping,80,725000.0,04-04-1993,Alm.,2799,9,Stuehus,259,1877,
+Jyllandsgade 51 9520 Skørping,51,365000.0,22-03-1993,Alm.,1546,7,Villa,236,1917,
+Golfvej 2 9520 Skørping,2,7000000.0,08-03-1993,Alm.,35897,6,Stuehus,195,1934,
+Skrænten 17 9520 Skørping,17,600000.0,05-03-1993,Alm.,3468,5,Villa,173,1966,
+Skørping Nord 7 9520 Skørping,7,1624688.0,01-03-1993,Alm.,11204,8,Industri o.l.,145,1987,
+Troldbakkevej 3 9520 Skørping,3,84785.0,13-02-1993,Alm.,706,5,Stuehus,120,1877,
+Nordre Skovvej 1 9520 Skørping,1,300000.0,04-01-1993,Alm.,2013,5,Villa,149,1966,
+Vesterbygade 12 9520 Skørping,12,325000.0,04-01-1993,Alm.,1846,4,Villa,176,1905,
+Stentoften 14 9520 Skørping,14,845000.0,04-01-1993,Alm.,4970,6,Villa,170,1980,
+Himmerlandsvej 25 9520 Skørping,25,300000.0,14-12-1992,Alm.,2941,4,Villa,102,1961,
+Gerdingvej 10 9520 Skørping,10,1318000.0,30-11-1992,Fam.,7010,5,Stuehus,188,2007,
+Ersted Byvej 4 9520 Skørping,4,475000.0,15-10-1992,Alm.,0,4,Villa,188,1777,
+Gravlevvej 40 9520 Skørping,40,182750.0,17-09-1992,Fam.,0,5,Villa,147,1964,
+Horsensvej 4 9520 Skørping,4,250407.0,07-09-1992,Auktion,1626,5,Villa,154,1977,
+Egholmsvej 45 9520 Skørping,45,570000.0,21-08-1992,Alm.,3958,4,Villa,144,1977,
+Gammel Skørpingvej 80 9520 Skørping,80,297500.0,17-08-1992,Fam.,2125,4,Villa,140,1963,
+Gerdingvej 23 9520 Skørping,23,410000.0,17-08-1992,Alm.,2000,7,Stuehus,205,1916,
+Smallegade 13 9520 Skørping,13,450000.0,13-08-1992,Alm.,3214,5,Villa,140,1932,
+Svinget 9A 9520 Skørping,0,120000.0,03-08-1992,Alm.,606,6,Villa,198,1996,
+Jyllandsgade 26 9520 Skørping,26,242500.0,30-06-1992,Fam.,1160,8,Villa,209,1898,
+Rosenvangen 12 9520 Skørping,12,410000.0,15-06-1992,Alm.,0,8,Villa,235,1973,
+Hellum Hedevej 5 9520 Skørping,5,675380.0,15-06-1992,Alm.,3278,9,Stuehus,206,1948,
+Rebildvej 4 9520 Skørping,4,850000.0,14-06-1992,Alm.,3512,7,Villa,242,1937,
+Damvej 5 9520 Skørping,5,675000.0,19-05-1992,Alm.,4326,5,Villa,156,1974,
+Brøndumvej 11 9520 Skørping,11,350000.0,07-05-1992,Alm.,2302,5,Stuehus,152,1928,
+Jyllandsgade 45 9520 Skørping,45,640000.0,27-04-1992,Alm.,1688,8,Villa,379,1907,
+Stendalsvej 32 9520 Skørping,32,571000.0,27-04-1992,Alm.,3636,4,Villa,157,1943,
+Bentevej 32 9520 Skørping,32,655000.0,29-03-1992,Alm.,4043,5,Villa,162,1977,
+Brøndumvej 7 9520 Skørping,7,312300.0,24-03-1992,Fam.,2459,6,Villa,127,1960,
+Anemonevej 3 9520 Skørping,3,750000.0,24-03-1992,Alm.,4385,4,Villa,171,1971,
+Hanehøjvej 42 9520 Skørping,42,230000.0,24-03-1992,Alm.,2804,4,Stuehus,82,1900,
+Svinget 1 9520 Skørping,1,930000.0,23-03-1992,Fam.,2751,9,Villa,338,1967,
+Højparken 14 9520 Skørping,14,450000.0,17-03-1992,Alm.,3571,5,Villa,126,1983,
+Rosenvangen 44 9520 Skørping,44,340000.0,06-03-1992,Alm.,2698,5,Villa,126,1969,
+Aalborgvej 64 9520 Skørping,64,253750.0,21-02-1992,Alm.,1691,5,Villa,150,1930,
+Rosenvangen 52 9520 Skørping,52,445000.0,17-02-1992,Alm.,2192,7,Villa,203,1972,
+Vester Alle 17 9520 Skørping,17,306450.0,13-02-1992,Alm.,3004,4,Villa,102,1953,
+Smallegade 14 9520 Skørping,14,660000.0,11-02-1992,Alm.,5409,4,Villa,122,1913,
+Stentoften 31 9520 Skørping,31,740000.0,09-02-1992,Alm.,5441,5,Villa,136,1987,
+Volbjerg 18 9520 Skørping,18,360000.0,07-02-1992,Alm.,3130,4,Villa,115,1962,
+Blenstrupvej 15 9520 Skørping,15,525000.0,20-01-1992,Alm.,2100,7,Stuehus,250,1899,
+Rebild Hedevej 17 9520 Skørping,17,315000.0,13-01-1992,Alm.,4500,3,Villa,70,1877,

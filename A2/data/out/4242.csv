@@ -1,0 +1,312 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Tronagervej 36 4242 Boeslunde,36,1500000.0,11-03-2017,Fam.,9259,7,Stuehus,162,1896,
+Gryderupvej 182 4242 Boeslunde,182,2278110.0,28-02-2017,Alm.,14510,6,Stuehus,157,1875,
+Borgbjergvej 2 4242 Boeslunde,2,798000.0,03-01-2017,Alm.,6595,4,Villa,121,1912,0 %
+Slagelse Landevej 170 4242 Boeslunde,170,3965000.0,23-12-2016,Alm.,20868,6,Stuehus,190,1870,
+Erdrupvej 2 4242 Boeslunde,2,1100000.0,16-12-2016,Alm.,14864,2,Villa,74,1880,
+Møllegårdsvej 15A 4242 Boeslunde,0,680000.0,05-12-2016,Fam.,8192,3,Rækkehus,83,1989,
+Møllegårdsvej 11A 4242 Boeslunde,0,825000.0,22-11-2016,Fam.,9939,3,Rækkehus,83,1989,
+Sønderupvej 49 4242 Boeslunde,49,1145000.0,28-10-2016,Alm.,10409,5,Villa,110,1915,0 %
+Rennebjergvej 115 4242 Boeslunde,115,500000.0,20-10-2016,Alm.,5555,4,Villa,90,1850,0 %
+Pederstræde 6 4242 Boeslunde,6,995000.0,01-10-2016,Alm.,5236,6,Villa,190,1877,-17 %
+Hovstien 18 4242 Boeslunde,18,900000.0,19-09-2016,Alm.,7086,3,Villa,127,1979,-5 %
+Sønderupvej 57 4242 Boeslunde,57,1150000.0,01-09-2016,Alm.,9200,5,Villa,125,1959,-4 %
+Kærebjergvej 17 4242 Boeslunde,17,1035000.0,09-08-2016,Alm.,9409,4,Villa,110,1966,
+Grønhøjvej 45 4242 Boeslunde,45,2198000.0,01-08-2016,Alm.,6977,10,Villa,315,1880,0 %
+Mosevænget 6 4242 Boeslunde,6,1950000.0,09-07-2016,Alm.,12111,6,Villa,161,2008,-2 %
+Rennebjergvej 120 4242 Boeslunde,120,150000.0,28-06-2016,Alm.,1171,6,Stuehus,128,1908,
+Boeslunde Byvej 133 4242 Boeslunde,133,1140000.0,10-05-2016,Alm.,6909,6,Villa,165,1900,-5 %
+Gammelgårdsvej 11 4242 Boeslunde,11,510598.0,26-04-2016,Andet,3726,4,Villa,137,1979,-49 %
+Erdrupvej 1C 4242 Boeslunde,0,575000.0,14-03-2016,Alm.,4563,5,Villa,126,1983,
+Gammelgårdsvej 24 4242 Boeslunde,24,764000.0,24-02-2016,Auktion,6366,4,Villa,120,1978,
+Gryderupvej 91 4242 Boeslunde,91,680500.0,18-02-2016,Fam.,5234,5,Villa,130,1770,
+Gryderupvej 125 4242 Boeslunde,125,1995000.0,01-12-2015,Alm.,10901,5,Stuehus,183,1899,
+Kærebjergvej 4 4242 Boeslunde,4,593392.0,30-11-2015,Alm.,5028,4,Villa,118,1966,
+Tronagervej 66 4242 Boeslunde,66,225000.0,19-11-2015,Alm.,3461,5,Villa,65,1790,-8 %
+Gryderupvej 187 4242 Boeslunde,187,375000.0,11-10-2015,Alm.,3676,5,Villa,102,1800,-5 %
+Sønderupvej 18 4242 Boeslunde,18,475000.0,25-09-2015,Andet,4166,5,Villa,114,1937,
+Sønderupvej 43 4242 Boeslunde,43,981773.0,25-09-2015,Alm.,5674,5,Villa,173,1929,
+Gryderupvej 213 4242 Boeslunde,213,1000000.0,08-09-2015,Alm.,4830,7,Stuehus,207,1912,
+Baunehøjvej 6 4242 Boeslunde,6,445961.0,02-09-2015,Alm.,3430,3,Stuehus,130,1907,
+Neble Lyngvej 25 4242 Boeslunde,25,230100.0,28-07-2015,Alm.,1534,5,Stuehus,150,1966,
+Møllegårdsvej 17B 4242 Boeslunde,0,700000.0,25-07-2015,Alm.,8433,3,Rækkehus,83,1989,
+Neble Lyngvej 40 4242 Boeslunde,40,650000.0,20-07-2015,Alm.,4012,5,Villa,162,1896,-10 %
+Gammelgårdsvej 12 4242 Boeslunde,12,700000.0,16-07-2015,Alm.,6306,4,Villa,111,1979,-12 %
+Møllegårdsvej 19 4242 Boeslunde,19,962500.0,23-06-2015,Alm.,7578,4,Villa,127,1988,-4 %
+Slagelse Landevej 146 4242 Boeslunde,146,600000.0,14-04-2015,Auktion,2542,7,Stuehus,236,1890,-54 %
+Erdrupvej 4 4242 Boeslunde,4,695000.0,11-04-2015,Alm.,7722,4,Villa,90,1910,0 %
+Mosevænget 4 4242 Boeslunde,4,700000.0,25-02-2015,Alm.,5384,5,Villa,130,2007,
+Elmegårdsvej 20 4242 Boeslunde,20,1238750.0,13-02-2015,Alm.,7329,6,Villa,169,1977,-17 %
+Møllegårdsvej 1 4242 Boeslunde,1,925000.0,19-12-2014,Alm.,7459,5,Villa,124,1987,-7 %
+Elmegårdsvej 2 4242 Boeslunde,2,575000.0,01-12-2014,Fam.,4227,5,Villa,136,1973,
+Skælskør Landevej 106 4242 Boeslunde,106,49840.0,19-08-2014,Alm.,348,5,Stuehus,143,1850,
+Hovstien 4 4242 Boeslunde,4,621500.0,02-07-2014,Andet,3433,5,Villa,181,1968,
+Gryderupvej 200 4242 Boeslunde,200,615870.0,24-06-2014,Alm.,7161,5,Villa,86,1888,
+Møllegårdsvej 22 4242 Boeslunde,22,960000.0,03-03-2014,Alm.,9504,4,Villa,101,1992,-4 %
+Mosevænget 18 4242 Boeslunde,18,1750000.0,23-01-2014,Alm.,10233,5,Villa,171,2007,-8 %
+Boeslunde Byvej 114 4242 Boeslunde,114,325000.0,08-01-2014,Auktion,3350,5,Villa,97,1830,
+Sønderupvej 10 4242 Boeslunde,10,270961.0,29-11-2013,Fam.,2296,6,Villa,118,1836,
+Korsør Landevej 606 4242 Boeslunde,606,779639.0,26-11-2013,Fam.,3609,7,Stuehus,216,1982,-55 %
+Boeslunde Byvej 125 4242 Boeslunde,125,75000.0,04-11-2013,Andet,483,7,Villa,155,1876,
+Gryderupvej 228 4242 Boeslunde,228,645000.0,04-09-2013,Alm.,5375,4,Stuehus,120,1900,-19 %
+Slagelse Landevej 154 4242 Boeslunde,154,725000.0,14-08-2013,Alm.,7474,3,Villa,97,1900,-8 %
+Mosevænget 22 4242 Boeslunde,22,283147.0,24-06-2013,Alm.,1415,5,Villa,200,2015,0 %
+Møllegårdsvej 3A 4242 Boeslunde,0,700000.0,12-06-2013,Alm.,8433,3,Rækkehus,83,1989,
+Skælskør Landevej 100 4242 Boeslunde,100,200000.0,06-06-2013,Alm.,1680,4,Villa,119,1973,-32 %
+Gryderupvej 169 4242 Boeslunde,169,2700000.0,21-01-2013,Alm.,16875,4,Stuehus,160,1900,
+Boeslunde Byvej 180 4242 Boeslunde,180,578023.0,09-10-2012,Alm.,4128,4,Villa,140,1924,
+Gammelgårdsvej 16 4242 Boeslunde,16,880000.0,23-09-2012,Alm.,6285,5,Villa,140,1979,-7 %
+Gammelgårdsvej 8 4242 Boeslunde,8,950000.0,10-06-2012,Alm.,6643,5,Villa,143,1979,-12 %
+Kærebjergvej 1 4242 Boeslunde,1,895000.0,22-05-2012,Alm.,7991,4,Villa,112,1967,0 %
+Gryderupvej 194 4242 Boeslunde,194,1600000.0,02-04-2012,Fam.,10000,7,Villa,160,1933,
+Kærebjergvej 6 4242 Boeslunde,6,850000.0,29-02-2012,Alm.,5743,5,Villa,148,1967,-15 %
+Møllegårdsvej 5A 4242 Boeslunde,0,780000.0,23-02-2012,Alm.,9397,3,Rækkehus,83,1989,-7 %
+Elmegårdsvej 7 4242 Boeslunde,7,850000.0,13-01-2012,Alm.,6343,4,Villa,134,1973,-22 %
+Neblevej 10 4242 Boeslunde,10,1050816.0,08-12-2011,Alm.,3514,8,Stuehus,299,1904,
+Grønhøjvej 19 4242 Boeslunde,19,1550000.0,30-11-2011,Auktion,8757,4,Villa,177,1907,
+Erdrupvej 12 4242 Boeslunde,12,1000000.0,04-11-2011,Alm.,9259,5,Villa,108,1924,
+Gammelgårdsvej 20 4242 Boeslunde,20,605000.0,07-09-2011,Auktion,3711,6,Villa,163,1979,
+Baunehøjvej 2 4242 Boeslunde,2,127513.0,01-09-2011,Alm.,531,8,Stuehus,240,1906,
+Kokkegården 1 4242 Boeslunde,1,1172470.0,31-08-2011,Fam.,6777,5,Villa,173,2003,
+Sønderupvej 30 4242 Boeslunde,30,160000.0,18-08-2011,Auktion,1860,4,Rækkehus,86,1900,
+Kærebjergvej 15 4242 Boeslunde,15,1065000.0,10-05-2011,Alm.,9181,5,Villa,116,1970,0 %
+Erdrupvej 15 4242 Boeslunde,15,560076.0,15-04-2011,Andet,4211,5,Villa,133,1943,
+Elmegårdsvej 6 4242 Boeslunde,6,1315000.0,14-04-2011,Alm.,7514,6,Villa,175,1973,-6 %
+Gryderupvej 207 4242 Boeslunde,207,1085000.0,07-04-2011,Auktion,8097,5,Villa,134,1890,
+Møllegårdsvej 24 4242 Boeslunde,24,619500.0,29-03-2011,Fam.,5386,4,Villa,115,1982,
+Baunehøjvej 18 4242 Boeslunde,18,600000.0,27-03-2011,Alm.,4615,7,Stuehus,130,1700,-82 %
+Møllegårdsvej 13B 4242 Boeslunde,0,800000.0,14-01-2011,Alm.,9638,3,Rækkehus,83,1989,-5 %
+Korsør Landevej 620 4242 Boeslunde,620,1871000.0,07-10-2010,Alm.,17009,5,Stuehus,110,1940,
+Rennebjergvej 129 4242 Boeslunde,129,1300000.0,04-10-2010,Alm.,6190,6,Villa,210,1848,-7 %
+Erdrupvej 1B 4242 Boeslunde,0,1050000.0,28-09-2010,Alm.,8076,4,Villa,130,1980,-4 %
+Borgbjergvej 4 4242 Boeslunde,4,324500.0,22-09-2010,Fam.,4160,3,Villa,78,1850,
+Boeslunde Byvej 178 4242 Boeslunde,178,775000.0,08-09-2010,Alm.,5166,4,Villa,150,1925,-3 %
+Boeslunde Byvej 167 4242 Boeslunde,167,1295000.0,27-08-2010,Alm.,10277,6,Villa,126,1949,0 %
+Rennebjergvej 160 4242 Boeslunde,160,225000.0,24-05-2010,Alm.,1551,4,Stuehus,145,1875,
+Korsør Landevej 555 4242 Boeslunde,555,775000.0,16-05-2010,Alm.,6300,5,Villa,123,1830,0 %
+Sønderupvej 51 4242 Boeslunde,51,1180000.0,12-05-2010,Alm.,8428,4,Villa,140,1933,-7 %
+Mosevænget 16 4242 Boeslunde,16,1900000.0,10-05-2010,Alm.,10674,5,Villa,178,2001,
+Sønderupvej 125 4242 Boeslunde,125,1795000.0,02-04-2010,Alm.,12379,7,Stuehus,145,1935,0 %
+Kærebjergvej 23 4242 Boeslunde,23,1295000.0,26-02-2010,Alm.,11990,4,Villa,108,1966,0 %
+Mosevænget 24 4242 Boeslunde,24,500000.0,30-01-2010,Alm.,2906,4,Villa,172,2010,
+Sønderupvej 1 4242 Boeslunde,1,502375.0,01-10-2009,Alm.,5980,3,Villa,84,1907,
+Sønderupvej 28 4242 Boeslunde,28,447500.0,16-09-2009,Alm.,6884,3,Rækkehus,65,1870,
+Boeslunde Byvej 174 4242 Boeslunde,174,1835000.0,17-06-2009,Alm.,11327,6,Villa,162,1955,-3 %
+Boeslunde Byvej 138 4242 Boeslunde,138,1350000.0,17-04-2009,Alm.,12162,4,Villa,111,1990,-10 %
+Boeslunde Byvej 149 4242 Boeslunde,149,1000000.0,28-03-2009,Alm.,4405,7,Villa,227,1920,
+Neblevej 18 4242 Boeslunde,18,995000.0,09-01-2009,Alm.,9950,4,Villa,100,1910,0 %
+Slagelse Landevej 141 4242 Boeslunde,141,5375000.0,04-01-2009,Alm.,29054,7,Stuehus,185,1872,
+Hovstien 28 4242 Boeslunde,28,1795000.0,16-12-2008,Alm.,14593,4,Villa,123,2000,0 %
+Borgbjergvej 10 4242 Boeslunde,10,1145000.0,10-07-2008,Alm.,12052,3,Villa,95,1880,-4 %
+Neblevej 98 4242 Boeslunde,98,760000.0,07-07-2008,Alm.,10133,4,Villa,75,1800,-3 %
+Rennebjergvej 137 4242 Boeslunde,137,86000.0,30-06-2008,Alm.,1102,3,Villa,78,1850,
+Sønderupvej 53 4242 Boeslunde,53,935000.0,21-06-2008,Alm.,9946,4,Villa,94,1934,-6 %
+Slagelse Landevej 130 4242 Boeslunde,130,1470000.0,20-06-2008,Alm.,14700,6,Villa,100,1954,
+Slagelse Landevej 156 4242 Boeslunde,156,950000.0,09-06-2008,Alm.,10106,3,Villa,94,1900,-5 %
+Neblevej 17 4242 Boeslunde,17,1750000.0,06-06-2008,Alm.,12500,5,Villa,140,1936,
+Gryderupvej 135 4242 Boeslunde,135,1495000.0,26-05-2008,Alm.,9707,4,Villa,154,1880,0 %
+Boeslunde Byvej 176 4242 Boeslunde,176,1545000.0,23-05-2008,Alm.,10032,6,Villa,154,1949,-3 %
+Hovstien 20 4242 Boeslunde,20,1585000.0,23-05-2008,Alm.,11083,5,Villa,143,1979,-4 %
+Boeslunde Byvej 154 4242 Boeslunde,154,1615000.0,21-05-2008,Alm.,8922,7,Villa,181,1930,-5 %
+Kærebjergvej 18 4242 Boeslunde,18,1475000.0,28-04-2008,Andet,11706,4,Villa,126,1972,-1 %
+Møllegårdsvej 9B 4242 Boeslunde,0,1050000.0,25-04-2008,Alm.,12650,3,Rækkehus,83,1989,
+Boeslunde Byvej 170 4242 Boeslunde,170,250000.0,23-04-2008,Fam.,2551,4,Rækkehus,98,2009,
+Gryderupvej 223 4242 Boeslunde,223,1475000.0,13-04-2008,Alm.,10925,4,Villa,135,1987,-8 %
+Møllegårdsvej 11B 4242 Boeslunde,0,995000.0,28-02-2008,Alm.,11987,3,Rækkehus,83,1989,0 %
+Neblevej 16B 4242 Boeslunde,0,845000.0,25-02-2008,Alm.,8622,4,Villa,98,1880,
+Borgbjergvej 3 4242 Boeslunde,3,2595000.0,28-01-2008,Alm.,17896,4,Stuehus,145,1962,
+Boeslunde Byvej 165 4242 Boeslunde,165,1135000.0,29-12-2007,Alm.,7721,5,Villa,147,1950,-11 %
+Sønderupvej 14 4242 Boeslunde,14,821890.0,29-08-2007,Alm.,5870,5,Villa,140,1919,
+Grønhøjvej 49 4242 Boeslunde,49,1600000.0,15-08-2007,Alm.,8602,8,Villa,186,1976,
+Slagelse Landevej 220 4242 Boeslunde,220,4145000.0,27-06-2007,Alm.,14493,10,Stuehus,286,1870,
+Sønderupvej 41 4242 Boeslunde,41,1195000.0,25-06-2007,Alm.,12989,4,Villa,92,1890,0 %
+Slagelse Landevej 122 4242 Boeslunde,122,1685000.0,19-06-2007,Alm.,15601,4,Villa,108,1965,
+Hovstien 1 4242 Boeslunde,1,1775000.0,18-05-2007,Alm.,13246,5,Villa,134,1962,
+Hovstien 10 4242 Boeslunde,10,1750000.0,07-05-2007,Alm.,11146,5,Villa,157,1973,-8 %
+Gryderupvej 178 4242 Boeslunde,178,1995000.0,06-05-2007,Alm.,11400,6,Villa,175,1937,
+Boeslunde Byvej 142 4242 Boeslunde,142,2695000.0,20-03-2007,Alm.,14411,7,Villa,187,1930,
+Sønderupvej 40 4242 Boeslunde,40,1480000.0,16-03-2007,Alm.,12982,4,Villa,114,1960,
+Korsør Landevej 541 4242 Boeslunde,541,5865000.0,06-02-2007,Fam.,28609,7,Stuehus,205,1862,
+Korsør Landevej 530 4242 Boeslunde,530,2935000.0,06-02-2007,Fam.,22576,5,Stuehus,130,1930,
+Gryderupvej 191 4242 Boeslunde,191,895000.0,01-02-2007,Alm.,9835,2,Villa,91,1900,0 %
+Elmegårdsvej 3 4242 Boeslunde,3,1030000.0,09-01-2007,Alm.,7304,5,Villa,141,1972,
+Boeslunde Byvej 120 4242 Boeslunde,120,1125000.0,13-12-2006,Alm.,11479,4,Villa,98,1896,
+Møllegårdsvej 9A 4242 Boeslunde,0,925000.0,06-12-2006,Alm.,11144,3,Rækkehus,83,1989,
+Boeslunde Byvej 182 4242 Boeslunde,182,595000.0,06-12-2006,Fam.,4473,4,Villa,133,1912,
+Grønhøjvej 20 4242 Boeslunde,20,200000.0,04-12-2006,Alm.,1398,5,Stuehus,143,1907,
+Gerdrupvej 261 4242 Boeslunde,261,7650000.0,21-11-2006,Alm.,30357,8,Stuehus,252,1919,
+Slagelse Landevej 126 4242 Boeslunde,126,1200000.0,06-09-2006,Alm.,8571,4,Villa,140,1880,
+Boeslunde Byvej 131 4242 Boeslunde,131,1209833.0,22-08-2006,Alm.,10998,5,Villa,110,1893,
+Gammelgårdsvej 22 4242 Boeslunde,22,1390000.0,21-08-2006,Alm.,7637,6,Villa,182,1979,
+Boeslunde Byvej 65 4242 Boeslunde,65,1100000.0,21-07-2006,Alm.,8029,3,Villa,137,1939,
+Hovstien 2A 4242 Boeslunde,0,1525000.0,06-07-2006,Alm.,15561,3,Rækkehus,98,2006,
+Hovstien 2B 4242 Boeslunde,0,1600000.0,06-07-2006,Alm.,16326,3,Rækkehus,98,2006,
+Kærebjergvej 25 4242 Boeslunde,25,1500000.0,03-07-2006,Alm.,13043,4,Villa,115,1966,
+Gryderupvej 155 4242 Boeslunde,155,800425.0,20-06-2006,Alm.,5002,5,Stuehus,160,1979,
+Boeslunde Byvej 157A 4242 Boeslunde,0,1280000.0,29-05-2006,Alm.,7191,6,Villa,178,1820,
+Mosevænget 8 4242 Boeslunde,8,277219.0,01-05-2006,Alm.,2116,3,Villa,131,2010,
+Boeslunde Byvej 164 4242 Boeslunde,164,785000.0,28-04-2006,Alm.,9235,3,Villa,85,1957,
+Erdrupvej 11C 4242 Boeslunde,0,1100000.0,11-04-2006,Alm.,10679,2,Villa,103,1990,
+Boeslunde Byvej 126 4242 Boeslunde,126,1195000.0,21-03-2006,Alm.,6947,4,Villa,172,1895,
+Baunehøjvej 4 4242 Boeslunde,4,1000000.0,20-03-2006,Alm.,9345,3,Stuehus,107,1931,
+Boeslunde Byvej 156 4242 Boeslunde,156,1625000.0,11-03-2006,Alm.,10979,5,Villa,148,1932,
+Boeslunde Byvej 117 4242 Boeslunde,117,1270000.0,31-01-2006,Alm.,10854,4,Villa,117,1935,
+Gryderupvej 218 4242 Boeslunde,218,525000.0,31-01-2006,Alm.,4375,3,Villa,120,1885,
+Gryderupvej 201 4242 Boeslunde,201,791000.0,16-01-2006,Alm.,7000,5,Villa,113,1920,
+Erdrup Enghave 2 4242 Boeslunde,2,5200000.0,02-12-2005,Alm.,32098,4,Stuehus,162,1909,
+Boeslunde Byvej 171 4242 Boeslunde,171,1675000.0,10-11-2005,Alm.,9682,4,Villa,173,1800,
+Baunehøjvej 16 4242 Boeslunde,16,3200000.0,27-10-2005,Alm.,11594,5,Stuehus,276,1926,
+Hovstien 12 4242 Boeslunde,12,1485000.0,13-09-2005,Alm.,8735,5,Villa,170,1973,
+Boeslunde Byvej 129 4242 Boeslunde,129,842773.0,27-06-2005,Alm.,4321,4,Villa,195,1895,
+Elmegårdsvej 12 4242 Boeslunde,12,1195000.0,02-06-2005,Alm.,8786,5,Villa,136,1973,
+Kærebjergvej 14 4242 Boeslunde,14,1375000.0,23-05-2005,Alm.,8283,6,Villa,166,1971,
+Mosevænget 20 4242 Boeslunde,20,1850000.0,30-03-2005,Alm.,0,8,Villa,251,2003,
+Erdrupvej 101 4242 Boeslunde,101,2804000.0,10-02-2005,Fam.,23366,6,Stuehus,120,1933,
+Slagelse Landevej 115 4242 Boeslunde,115,1675000.0,27-01-2005,Alm.,6417,6,Villa,261,1920,
+Gryderupvej 198 4242 Boeslunde,198,850000.0,26-01-2005,Alm.,7589,3,Villa,112,1941,
+Tronagervej 5 4242 Boeslunde,5,1450000.0,26-01-2005,Alm.,6444,10,Stuehus,225,1892,
+Rennebjergvej 135 4242 Boeslunde,135,1200000.0,17-01-2005,Alm.,9160,3,Stuehus,131,1937,
+Erdrupvej 1A 4242 Boeslunde,0,1000000.0,10-01-2005,Alm.,7692,4,Villa,130,1981,
+Korsør Landevej 515 4242 Boeslunde,515,1672000.0,31-12-2004,Fam.,5908,10,Villa,283,1980,
+Boeslunde Byvej 186 4242 Boeslunde,186,680000.0,20-11-2004,Alm.,5440,5,Villa,125,1875,
+Hovstien 3 4242 Boeslunde,3,1080000.0,15-11-2004,Alm.,8120,5,Villa,133,1965,
+Elmegårdsvej 11 4242 Boeslunde,11,1155000.0,11-11-2004,Alm.,7965,5,Villa,145,1973,
+Baunehøjvej 8 4242 Boeslunde,8,675000.0,29-10-2004,Alm.,9375,3,Villa,72,1966,
+Boeslunde Byvej 143A 4242 Boeslunde,0,1025000.0,25-09-2004,Alm.,8134,4,Villa,126,1900,
+Grønhøjvej 10 4242 Boeslunde,10,1245000.0,10-08-2004,Alm.,5790,5,Stuehus,215,1880,
+Erdrupvej 40 4242 Boeslunde,40,910000.0,31-05-2004,Alm.,4252,7,Stuehus,214,1930,
+Erdrupvej 10 4242 Boeslunde,10,975000.0,17-05-2004,Alm.,7014,4,Villa,139,1923,
+Neblevej 1 4242 Boeslunde,1,725000.0,17-05-2004,Fam.,6144,6,Villa,118,1928,
+Neblevej 19 4242 Boeslunde,19,825000.0,17-05-2004,Fam.,4483,7,Villa,184,1974,
+Erdrupvej 25 4242 Boeslunde,25,1740000.0,14-05-2004,Alm.,0,12,Stuehus,245,1929,
+Gammelgårdsvej 2 4242 Boeslunde,2,1198000.0,03-05-2004,Alm.,7260,5,Villa,165,1979,
+Gammelgårdsvej 5 4242 Boeslunde,5,1155647.0,22-04-2004,Alm.,8081,4,Villa,143,1979,
+Korsør Landevej 220 4242 Boeslunde,220,1650000.0,02-04-2004,Alm.,8461,7,Stuehus,195,1880,
+Boeslunde Byvej 173 4242 Boeslunde,173,651343.0,22-03-2004,Andet,2795,10,Villa,233,1955,
+Neblevej 11A 4242 Boeslunde,0,1099000.0,13-01-2004,Alm.,8021,4,Villa,137,1983,
+Boeslunde Byvej 61 4242 Boeslunde,61,900000.0,16-12-2003,Alm.,3829,7,Villa,235,1908,
+Hovstien 14 4242 Boeslunde,14,1138000.0,11-11-2003,Alm.,7848,5,Villa,145,1980,
+Erdrupvej 11A 4242 Boeslunde,0,1115000.0,03-10-2003,Alm.,5412,5,Villa,206,1926,
+Gryderupvej 176 4242 Boeslunde,176,650000.0,21-08-2003,Alm.,4814,5,Villa,135,1952,
+Kærebjergvej 24 4242 Boeslunde,24,875000.0,11-08-2003,Alm.,6782,4,Villa,129,1968,
+Boeslunde Byvej 112 4242 Boeslunde,112,816951.0,03-07-2003,Alm.,8336,3,Villa,98,1886,
+Gryderupvej 204 4242 Boeslunde,204,1145000.0,21-06-2003,Alm.,6981,5,Villa,164,1880,
+Boeslunde Byvej 141 4242 Boeslunde,141,800000.0,20-06-2003,Alm.,4040,8,Villa,198,1900,
+Rennebjergvej 182 4242 Boeslunde,182,900000.0,19-05-2003,Fam.,4500,7,Villa,200,1930,
+Boeslunde Byvej 184 4242 Boeslunde,184,825000.0,11-05-2003,Alm.,5536,5,Villa,149,1898,
+Kærebjergvej 7 4242 Boeslunde,7,1170000.0,06-05-2003,Alm.,7905,3,Villa,148,1970,
+Sønderupvej 50 4242 Boeslunde,50,650000.0,02-05-2003,Alm.,4482,5,Villa,145,1878,
+Sønderupvej 4 4242 Boeslunde,4,950000.0,03-04-2003,Alm.,8558,5,Villa,111,1934,
+Elmegårdsvej 19 4242 Boeslunde,19,1295000.0,20-01-2003,Alm.,5730,8,Villa,226,1977,
+Erdrupvej 9 4242 Boeslunde,9,510000.0,26-11-2002,Alm.,4047,5,Villa,126,1930,
+Slagelse Landevej 138 4242 Boeslunde,138,935000.0,22-11-2002,Alm.,0,7,Villa,249,1925,
+Boeslunde Byvej 151 4242 Boeslunde,151,616006.0,23-10-2002,Alm.,4000,5,Villa,154,1922,
+Boeslunde Byvej 158 4242 Boeslunde,158,795000.0,09-09-2002,Alm.,6913,3,Villa,115,1930,
+Rennebjergvej 101 4242 Boeslunde,101,950000.0,29-08-2002,Alm.,4634,8,Villa,205,1800,
+Sønderupvej 22 4242 Boeslunde,22,752094.0,11-07-2002,Alm.,7674,3,Villa,98,1870,
+Sønderupvej 35 4242 Boeslunde,35,560000.0,10-06-2002,Alm.,5490,3,Villa,102,1882,
+Boeslunde Byvej 118 4242 Boeslunde,118,2925000.0,10-05-2002,Alm.,9750,8,Villa,300,1892,
+Gammelgårdsvej 18 4242 Boeslunde,18,960000.0,11-02-2002,Alm.,6760,5,Villa,142,1980,
+Boeslunde Byvej 135A 4242 Boeslunde,0,500000.0,12-01-2002,Alm.,4098,5,Villa,122,1935,
+Gammelgårdsvej 7 4242 Boeslunde,7,900000.0,07-01-2002,Fam.,7627,4,Villa,118,1978,
+Neblevej 11D 4242 Boeslunde,0,456250.0,01-11-2001,Fam.,3168,5,Villa,144,1985,
+Gryderupvej 120 4242 Boeslunde,120,700000.0,29-10-2001,Alm.,2904,5,Stuehus,241,1900,
+Tinghusvej 20 4242 Boeslunde,20,1046000.0,22-10-2001,Alm.,5419,4,Villa,193,1926,
+Sønderupvej 61 4242 Boeslunde,61,1150000.0,12-10-2001,Alm.,7931,4,Villa,145,1954,
+Gryderupvej 102 4242 Boeslunde,102,427942.0,10-09-2001,Alm.,3890,4,Villa,110,1905,
+Tronagervej 25 4242 Boeslunde,25,5446146.0,31-08-2001,Fam.,29923,7,Stuehus,182,1960,
+Erdrupvej 13 4242 Boeslunde,13,480000.0,30-07-2001,Alm.,8000,2,Villa,60,1933,
+Neblevej 15 4242 Boeslunde,15,940000.0,30-07-2001,Alm.,6573,5,Villa,143,1850,
+Neblevej 55 4242 Boeslunde,55,1600000.0,25-06-2001,Alm.,7174,5,Stuehus,223,1913,
+Tronagervej 60 4242 Boeslunde,60,735510.0,14-06-2001,Alm.,4745,7,Stuehus,155,1941,
+Erdrupvej 18 4242 Boeslunde,18,195000.0,02-06-2001,Alm.,1026,5,Villa,190,2008,
+Møllegårdsvej 3B 4242 Boeslunde,0,644962.0,22-05-2001,Alm.,7770,3,Rækkehus,83,1989,
+Gryderupvej 181 4242 Boeslunde,181,960000.0,02-05-2001,Alm.,5783,6,Villa,166,1923,
+Korsør Landevej 544 4242 Boeslunde,544,600000.0,30-04-2001,Alm.,6976,4,Villa,86,1950,
+Sønderupvej 16 4242 Boeslunde,16,637500.0,26-04-2001,Fam.,2221,5,Villa,287,1937,
+Mosevænget 12 4242 Boeslunde,12,259000.0,06-03-2001,Alm.,1523,5,Villa,170,2002,
+Møllegårdsvej 7A 4242 Boeslunde,0,601403.0,08-01-2001,Alm.,7245,3,Rækkehus,83,1989,
+Baunehøjvej 10 4242 Boeslunde,10,2465776.0,04-01-2001,Alm.,12842,5,Stuehus,192,1938,
+Neblevej 14B 4242 Boeslunde,0,795000.0,30-11-2000,Alm.,6625,4,Villa,120,1989,
+Borgbjergvej 8 4242 Boeslunde,8,685000.0,29-11-2000,Alm.,5111,4,Villa,134,1900,
+Kokkegården 7 4242 Boeslunde,7,210000.0,16-11-2000,Alm.,2164,4,Villa,97,2001,
+Hovstien 32 4242 Boeslunde,32,1064835.0,11-10-2000,Alm.,8518,4,Villa,125,2000,
+Tinghusvej 50 4242 Boeslunde,50,305000.0,15-09-2000,Alm.,2046,5,Villa,149,1914,
+Slagelse Landevej 145 4242 Boeslunde,145,678940.0,07-08-2000,Alm.,4526,6,Villa,150,1926,
+Sønderupvej 63 4242 Boeslunde,63,628851.0,10-07-2000,Alm.,6483,5,Villa,97,1950,
+Sønderupvej 101 4242 Boeslunde,101,3450000.0,02-07-2000,Alm.,16273,10,Stuehus,212,1914,
+Boeslunde Byvej 143B 4242 Boeslunde,0,560000.0,07-06-2000,Alm.,5384,4,Villa,104,1900,
+Slagelse Landevej 190 4242 Boeslunde,190,1100000.0,30-05-2000,Alm.,5164,8,Stuehus,213,1885,
+Gammelgårdsvej 1 4242 Boeslunde,1,883783.0,30-05-2000,Alm.,5489,5,Villa,161,1980,
+Slagelse Landevej 124B 4242 Boeslunde,0,1274999.0,26-05-2000,Alm.,5717,4,Villa,223,1979,
+Kærebjergvej 9 4242 Boeslunde,9,630000.0,10-04-2000,Alm.,6057,4,Villa,104,1967,
+Gammelgårdsvej 19 4242 Boeslunde,19,988819.0,15-03-2000,Alm.,5070,5,Villa,195,1980,
+Elmegårdsvej 18 4242 Boeslunde,18,561000.0,29-02-2000,Fam.,4218,5,Villa,133,1975,
+Elmegårdsvej 8 4242 Boeslunde,8,690000.0,09-02-2000,Alm.,5564,4,Villa,124,1973,
+Baunehøjvej 12B 4242 Boeslunde,0,998585.0,03-02-2000,Alm.,5200,6,Stuehus,192,2011,
+Elmegårdsvej 10 4242 Boeslunde,10,890010.0,28-12-1999,Alm.,5144,4,Villa,173,1972,
+Atterupvej 25 4242 Boeslunde,25,300000.0,13-12-1999,Fam.,0,5,Villa,213,1923,
+Gammelgårdsvej 3 4242 Boeslunde,3,930260.0,07-12-1999,Alm.,6644,5,Villa,140,1979,
+Neblevej 25 4242 Boeslunde,25,563958.0,26-11-1999,Alm.,2563,6,Villa,220,1935,
+Boeslunde Byvej 161 4242 Boeslunde,161,860000.0,27-09-1999,Alm.,5695,3,Villa,151,1947,
+Møllegårdsvej 5B 4242 Boeslunde,0,548940.0,24-09-1999,Alm.,6613,3,Rækkehus,83,1989,
+Slagelse Landevej 134 4242 Boeslunde,134,644761.0,01-03-1999,Alm.,4884,5,Villa,132,1966,
+Hovstien 30 4242 Boeslunde,30,75000.0,15-02-1999,Alm.,471,6,Villa,159,2000,
+Pederstræde 1 4242 Boeslunde,1,92731.0,18-01-1999,Alm.,1783,2,Villa,52,1850,
+Kokkegården 4 4242 Boeslunde,4,104123.0,15-01-1999,Alm.,0,6,Villa,218,1999,
+Kokkegården 2 4242 Boeslunde,2,121073.0,15-01-1999,Alm.,712,6,Villa,170,2009,
+Elmegårdsvej 21 4242 Boeslunde,21,872000.0,09-12-1998,Alm.,6184,6,Villa,141,1976,
+Atterupvej 11 4242 Boeslunde,11,1102240.0,12-11-1998,Alm.,0,7,Stuehus,174,1923,
+Skælskør Landevej 104 4242 Boeslunde,104,1671446.0,03-11-1998,Alm.,0,9,Stuehus,242,1880,
+Boeslunde Byvej 140 4242 Boeslunde,140,445000.0,02-11-1998,Alm.,3272,5,Villa,136,1904,
+Sønderupvej 47 4242 Boeslunde,47,225000.0,26-08-1998,Alm.,1339,5,Villa,168,1930,
+Kærebjergvej 27 4242 Boeslunde,27,518000.0,27-07-1998,Alm.,4352,4,Villa,119,1966,
+Slagelse Landevej 152 4242 Boeslunde,152,401518.0,20-07-1998,Alm.,2996,6,Villa,134,1920,
+Gammelgårdsvej 14 4242 Boeslunde,14,727000.0,02-03-1998,Alm.,5549,5,Villa,131,1979,
+Tinghusvej 25 4242 Boeslunde,25,337500.0,14-01-1998,Alm.,1371,6,Stuehus,246,1920,
+Slagelse Landevej 124A 4242 Boeslunde,0,5749999.0,20-10-1997,Alm.,21217,7,Stuehus,271,1992,
+Møllegårdsvej 13A 4242 Boeslunde,0,520000.0,26-09-1997,Alm.,6265,3,Rækkehus,83,1989,
+Slagelse Landevej 239 4242 Boeslunde,239,325000.0,29-06-1997,Alm.,2981,4,Stuehus,109,1939,
+Boeslunde Byvej 152 4242 Boeslunde,152,783058.0,07-06-1997,Alm.,7118,7,Villa,110,1929,
+Hovstien 26 4242 Boeslunde,26,845000.0,07-06-1997,Alm.,4121,5,Villa,205,1979,
+Grønhøjvej 14 4242 Boeslunde,14,306745.0,21-05-1997,Alm.,1704,4,Villa,180,1908,
+Boeslunde Byvej 127 4242 Boeslunde,127,660000.0,15-05-1997,Alm.,5739,6,Villa,115,1896,
+Sønderupvej 80 4242 Boeslunde,80,512125.0,28-03-1997,Alm.,2438,7,Stuehus,210,1935,
+Kærebjergvej 22 4242 Boeslunde,22,556000.0,17-03-1997,Alm.,5148,4,Villa,108,1964,
+Boeslunde Byvej 132 4242 Boeslunde,132,498507.0,24-02-1997,Alm.,2582,6,Villa,193,1900,
+Boeslunde Byvej 134 4242 Boeslunde,134,433000.0,30-09-1996,Alm.,4920,3,Villa,88,1958,
+Sønderupvej 6 4242 Boeslunde,6,445000.0,21-09-1996,Alm.,3371,5,Villa,132,1907,
+Boeslunde Byvej 133C 4242 Boeslunde,0,740000.0,30-08-1996,Alm.,5781,4,Villa,128,1985,
+Gammelgårdsvej 15 4242 Boeslunde,15,566000.0,05-07-1996,Alm.,4353,4,Villa,130,1980,
+Kærebjergvej 21 4242 Boeslunde,21,370000.0,23-05-1996,Alm.,3425,4,Villa,108,1965,
+Grønhøjvej 25 4242 Boeslunde,25,479000.0,19-04-1996,Alm.,2521,5,Villa,190,1900,
+Møllegårdsvej 15B 4242 Boeslunde,0,377000.0,11-01-1996,Alm.,4542,3,Rækkehus,83,1989,
+Sønderupvej 33 4242 Boeslunde,33,603991.0,18-12-1995,Alm.,3774,6,Villa,160,1900,
+Møllegårdsvej 7B 4242 Boeslunde,0,441000.0,08-12-1995,Alm.,5313,3,Rækkehus,83,1989,
+Tinghusvej 30 4242 Boeslunde,30,330000.0,25-08-1995,Alm.,3000,6,Stuehus,110,1880,
+Elmegårdsvej 14 4242 Boeslunde,14,700000.0,26-06-1995,Fam.,3553,5,Villa,197,1972,
+Boeslunde Byvej 189A 4242 Boeslunde,0,876000.0,22-06-1995,Alm.,3020,4,Villa,290,1942,
+Erdrupvej 6 4242 Boeslunde,6,215000.0,19-06-1995,Alm.,1387,7,Villa,155,1900,
+Slagelse Landevej 151 4242 Boeslunde,151,185000.0,06-06-1995,Alm.,2055,3,Villa,90,1920,
+Grønhøjvej 54 4242 Boeslunde,54,664000.0,11-05-1995,Alm.,3550,6,Villa,187,1984,
+Gammelgårdsvej 4 4242 Boeslunde,4,597000.0,05-05-1995,Alm.,3901,4,Villa,153,1979,
+Slagelse Landevej 161 4242 Boeslunde,161,1850000.0,29-04-1995,Fam.,9946,7,Stuehus,186,1850,
+Gryderupvej 209 4242 Boeslunde,209,360000.0,12-12-1994,Alm.,2105,7,Villa,171,1950,
+Gammelgårdsvej 6 4242 Boeslunde,6,577769.0,02-11-1994,Alm.,5205,4,Villa,111,1979,
+Gammelgårdsvej 13 4242 Boeslunde,13,730000.0,06-10-1994,Alm.,4244,7,Villa,172,1980,
+Møllegårdsvej 17A 4242 Boeslunde,0,346529.0,25-05-1994,Alm.,4175,3,Rækkehus,83,1989,
+Skælskør Landevej 105 4242 Boeslunde,105,1955000.0,08-10-1993,Fam.,10861,5,Stuehus,180,1877,
+Pederstræde 5 4242 Boeslunde,5,511000.0,20-09-1993,Alm.,4645,4,Stuehus,110,1939,
+Boeslunde Byvej 64 4242 Boeslunde,64,200000.0,13-09-1993,Alm.,985,7,Villa,203,1931,
+Elmegårdsvej 17 4242 Boeslunde,17,440000.0,02-09-1993,Alm.,3142,6,Villa,140,1972,
+Gryderupvej 199 4242 Boeslunde,199,350000.0,23-08-1993,Alm.,3888,3,Villa,90,1880,
+Erdrupvej 16 4242 Boeslunde,16,340000.0,26-07-1993,Alm.,4657,3,Villa,73,1930,
+Slagelse Landevej 231 4242 Boeslunde,231,61697.0,01-07-1993,Fam.,514,5,Villa,120,1820,
+Gryderupvej 195 4242 Boeslunde,195,540000.0,25-02-1993,Alm.,3600,4,Villa,150,1880,
+Boeslunde Byvej 136 4242 Boeslunde,136,580000.0,22-07-1992,Alm.,2914,4,Villa,199,1890,
+Sønderupvej 59 4242 Boeslunde,59,146056.0,30-06-1992,Alm.,0,5,Villa,165,1946,
+Gryderupvej 151 4242 Boeslunde,151,395000.0,18-04-1992,Alm.,2468,5,Villa,160,1880,
+Gryderupvej 109 4242 Boeslunde,109,530000.0,16-03-1992,Alm.,2181,7,Stuehus,243,1929,
+Kærebjergvej 3 4242 Boeslunde,3,435000.0,26-02-1992,Alm.,4887,3,Villa,89,1967,
+Baunehøjvej 5 4242 Boeslunde,5,355000.0,25-02-1992,Alm.,0,8,Villa,200,1777,
+Boeslunde Byvej 188 4242 Boeslunde,188,800800.0,10-02-1992,Alm.,4064,8,Villa,197,1933,

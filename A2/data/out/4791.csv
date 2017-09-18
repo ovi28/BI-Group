@@ -1,0 +1,572 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Dortheavej 27 4791 Borre,27,1100000.0,26-03-2017,Alm.,6707,5,Villa,164,1979,-8 %
+Stendyssevej 19 4791 Borre,19,1350000.0,22-03-2017,Alm.,7068,8,Villa,191,1914,-3 %
+Klintevej 357 4791 Borre,357,275000.0,16-03-2017,Fam.,1751,6,Villa,157,1875,
+Svenskestræde 10 4791 Borre,10,240000.0,08-02-2017,Alm.,5000,2,Villa,48,1825,-4 %
+Klintholm Havnevej 42 4791 Borre,42,780000.0,06-01-2017,Alm.,9629,4,Villa,81,1964,-22 %
+Klintevej 499 4791 Borre,499,395000.0,04-01-2017,Alm.,2564,7,Villa,154,1820,0 %
+Klintholm Havneby 36 4791 Borre,36,750000.0,21-12-2016,Alm.,15000,3,Fritid,50,1986,-12 %
+Klintholm Havneby 59 4791 Borre,59,1225000.0,09-12-2016,Alm.,23557,3,Fritid,52,1986,-5 %
+Søndre Landevej 120 4791 Borre,120,778200.0,21-11-2016,Alm.,6176,4,Villa,126,1915,
+Hvilestedvej 7 4791 Borre,7,510000.0,12-11-2016,Alm.,6800,3,Villa,75,1949,-21 %
+Klintholm Havneby 19 4791 Borre,19,1290000.0,24-10-2016,Alm.,25800,3,Fritid,50,1986,
+Sømarkevej 21 4791 Borre,21,295000.0,22-10-2016,Alm.,2458,6,Villa,120,1910,0 %
+Sønderbyvej 6 4791 Borre,6,200000.0,04-10-2016,Alm.,1818,5,Villa,110,1925,-43 %
+Nørrebyvej 19 4791 Borre,19,250000.0,30-09-2016,Alm.,1785,5,Villa,140,1938,-15 %
+Kraneledvej 21 4791 Borre,21,1900000.0,29-09-2016,Alm.,9359,9,Villa,203,1892,-16 %
+Søndre Landevej 29 4791 Borre,29,300000.0,20-09-2016,Alm.,3488,4,Villa,86,1935,2 %
+Hvilestedvej 5 4791 Borre,5,1117000.0,07-09-2016,Alm.,10844,4,Villa,103,1949,-7 %
+Stendyssevej 2 4791 Borre,2,1395000.0,01-09-2016,Alm.,4500,12,Villa,310,1925,0 %
+Hesselholtvej 3 4791 Borre,3,164671.0,23-08-2016,Alm.,697,7,Stuehus,236,1800,
+Søndre Landevej 87 4791 Borre,87,1600000.0,22-08-2016,Alm.,6015,11,Villa,266,1900,-14 %
+Klintholm Havnevej 84 4791 Borre,84,425000.0,27-07-2016,Alm.,3079,5,Villa,138,1900,-29 %
+Krogen 4 4791 Borre,4,1400000.0,19-07-2016,Alm.,5384,9,Villa,260,1774,-12 %
+Kraneledvej 37 4791 Borre,37,1500000.0,27-06-2016,Alm.,9493,6,Villa,158,1875,-19 %
+Klintholm Havneby 78 4791 Borre,78,790000.0,10-06-2016,Alm.,15800,3,Fritid,50,1986,-7 %
+Skovstrædet 4 4791 Borre,4,625000.0,29-05-2016,Alm.,6944,3,Villa,90,1725,-22 %
+Klintevej 342 4791 Borre,342,450000.0,27-05-2016,Alm.,2830,5,Villa,159,1945,
+Vimmelskaftet 5 4791 Borre,5,540000.0,24-05-2016,Alm.,5454,3,Villa,99,1910,-8 %
+Katinkavej 21 4791 Borre,21,1093750.0,17-04-2016,Alm.,9269,4,Villa,118,1966,
+Råbyovedvej 10 4791 Borre,10,670000.0,11-04-2016,Alm.,3252,12,Villa,206,1783,-16 %
+Amandastræde 12 4791 Borre,12,600000.0,27-02-2016,Alm.,5000,4,Villa,120,1941,-14 %
+Nørrebyvej 37 4791 Borre,37,751000.0,03-02-2016,Alm.,5732,5,Stuehus,131,1906,8 %
+Klintholm Havnevej 58 4791 Borre,58,625000.0,03-02-2016,Auktion,5000,3,Villa,125,1925,
+Busenevej 22 4791 Borre,22,895000.0,04-01-2016,Alm.,8523,3,Villa,105,1895,0 %
+Sømarkevej 30 4791 Borre,30,54880.0,21-12-2015,Alm.,508,2,Villa,108,1825,-90 %
+Strædet 12 4791 Borre,12,629000.0,14-12-2015,Fam.,7147,4,Villa,88,1933,
+Dortheavej 8 4791 Borre,8,745000.0,09-12-2015,Alm.,6535,4,Villa,114,1986,-1 %
+Rakkerbanken 1 4791 Borre,1,900000.0,04-12-2015,Fam.,5454,6,Villa,165,1876,
+Klintholm Havneby 48 4791 Borre,48,1300000.0,02-12-2015,Andet,26000,3,Fritid,50,1986,
+Sømarkevej 22 4791 Borre,22,145000.0,01-12-2015,Alm.,805,6,Villa,180,1908,
+Skovstrædet 1 4791 Borre,1,795000.0,26-11-2015,Fam.,6516,5,Sommerhus,122,1800,
+Klintholm Havneby 6 4791 Borre,6,840000.0,19-11-2015,Alm.,16153,3,Fritid,52,1986,-9 %
+Liselundvej 34 4791 Borre,34,1100000.0,10-11-2015,Alm.,6586,5,Villa,167,1904,0 %
+Strædet 14 4791 Borre,14,1910000.0,09-11-2015,Alm.,13356,3,Villa,143,1875,-4 %
+Klintholm Havneby 32 4791 Borre,32,775000.0,08-11-2015,Alm.,15500,3,Fritid,50,1986,-9 %
+Liselundvej 45 4791 Borre,45,1550000.0,07-11-2015,Alm.,11071,6,Villa,140,1892,-6 %
+Strædet 6 4791 Borre,6,246667.0,04-11-2015,Fam.,4111,3,Villa,60,1946,
+Sømarkevej 20 4791 Borre,20,432000.0,26-10-2015,Alm.,3428,5,Villa,126,1905,
+Klintholm Havneby 64 4791 Borre,64,925000.0,10-10-2015,Alm.,18500,3,Fritid,50,1986,-3 %
+Klintevej 352 4791 Borre,352,295000.0,18-09-2015,Alm.,2521,4,Villa,117,1949,0 %
+Klintevej 346 4791 Borre,346,200000.0,15-09-2015,Alm.,1459,4,Villa,137,1912,
+Klintholm Havneby 71 4791 Borre,71,1200000.0,10-09-2015,Alm.,17647,3,Fritid,68,1986,-7 %
+Klintevej 461 4791 Borre,461,286000.0,21-08-2015,Fam.,2000,3,Villa,143,1914,
+Klintholm Havnevej 59 4791 Borre,59,250000.0,28-07-2015,Alm.,2252,4,Villa,111,1964,-33 %
+Margrethevej 5 4791 Borre,5,1225000.0,28-07-2015,Alm.,9074,5,Villa,135,1952,-4 %
+Klintholm Havneby 67 4791 Borre,67,1075000.0,09-07-2015,Alm.,20673,3,Fritid,52,1986,-7 %
+Klintevej 359 4791 Borre,359,295000.0,24-06-2015,Auktion,1798,4,Villa,164,1880,
+Thyravej 30 4791 Borre,30,595000.0,14-06-2015,Fam.,6839,4,Villa,87,1923,
+Søndre Landevej 73 4791 Borre,73,288000.0,10-06-2015,Alm.,2769,4,Villa,104,1946,
+Stendyssevej 4 4791 Borre,4,450000.0,12-05-2015,Alm.,2647,6,Villa,170,1850,
+Busenevej 18 4791 Borre,18,450000.0,11-04-2015,Alm.,2528,4,Villa,178,1875,0 %
+Klintholm Havneby 65 4791 Borre,65,1200000.0,30-03-2015,Alm.,24000,3,Fritid,50,1986,-4 %
+Nørrebyvej 17 4791 Borre,17,550000.0,04-03-2015,Auktion,3459,7,Villa,159,1835,-19 %
+Klintholm Havneby 56 4791 Borre,56,1240000.0,26-02-2015,Alm.,18507,3,Fritid,67,1986,-4 %
+Svenskestræde 2 4791 Borre,2,250000.0,23-02-2015,Alm.,1893,4,Villa,132,1926,0 %
+Gurkebakken 1 4791 Borre,1,820000.0,17-02-2015,Alm.,3886,5,Villa,211,1889,-14 %
+Sømarkevej 41 4791 Borre,41,275000.0,11-02-2015,Alm.,3437,3,Villa,80,1890,-21 %
+Hvilestedvej 1 4791 Borre,1,421044.0,18-12-2014,Alm.,3479,5,Villa,121,2006,
+Sømarkevej 34 4791 Borre,34,640000.0,18-12-2014,Alm.,5245,4,Villa,122,1905,-8 %
+Klintholm Havneby 11 4791 Borre,11,1095000.0,12-12-2014,Fam.,16102,3,Fritid,68,1986,10 %
+Busenevej 53 4791 Borre,53,2500000.0,04-12-2014,Alm.,10416,9,Villa,240,1910,
+Fyrvej 2 4791 Borre,2,980000.0,03-12-2014,Fam.,4949,7,Villa,198,1800,
+Bøgebjergvej 5 4791 Borre,5,695000.0,27-11-2014,Alm.,5940,3,Villa,117,1905,0 %
+Kasperstræde 9 4791 Borre,9,670000.0,26-11-2014,Alm.,6146,4,Villa,109,1900,-14 %
+Toftevænget 4B 4791 Borre,0,390000.0,26-11-2014,Auktion,2203,7,Villa,177,1980,
+Svenskestræde 12 4791 Borre,12,80000.0,13-11-2014,Alm.,421,7,Villa,190,1890,
+Stendyssevej 15 4791 Borre,15,2850000.0,20-10-2014,Alm.,12610,6,Villa,226,1926,
+Søndre Landevej 40 4791 Borre,40,635000.0,24-09-2014,Alm.,2267,8,Villa,280,1925,-36 %
+Søndre Landevej 108 4791 Borre,108,210000.0,22-09-2014,Alm.,1400,6,Villa,150,1900,-21 %
+Klintholm Havneby 77 4791 Borre,77,500000.0,08-09-2014,Fam.,10000,3,Fritid,50,1986,
+Nørrebyvej 15 4791 Borre,15,460000.0,07-08-2014,Alm.,4107,5,Villa,112,1845,-7 %
+Klintevej 326 4791 Borre,326,1500000.0,09-07-2014,Alm.,7575,5,Villa,198,1910,3 %
+Klintholm Havneby 38 4791 Borre,38,800000.0,26-06-2014,Alm.,11428,3,Fritid,70,1986,-20 %
+Amandastræde 7 4791 Borre,7,500000.0,12-06-2014,Alm.,4166,3,Villa,120,1949,
+Harebankevej 5 4791 Borre,5,1000000.0,11-06-2014,Alm.,3703,9,Stuehus,270,1916,
+Nøddelundvej 2 4791 Borre,2,1100000.0,10-06-2014,Alm.,3642,9,Villa,302,1914,-21 %
+Søndre Landevej 67 4791 Borre,67,199000.0,04-06-2014,Alm.,1932,2,Villa,103,1925,0 %
+Klintholm Havneby 4 4791 Borre,4,800000.0,27-05-2014,Alm.,16000,3,Fritid,50,1986,-6 %
+Sømarkevej 17 4791 Borre,17,525000.0,27-05-2014,Alm.,3697,4,Villa,142,2008,-24 %
+Ålebæk Strandvej 29 4791 Borre,29,595000.0,20-05-2014,Alm.,2500,8,Villa,238,1867,0 %
+Klintevej 390 4791 Borre,390,420000.0,15-05-2014,Alm.,1640,10,Villa,256,1915,-7 %
+Klintholm Havnevej 34 4791 Borre,34,300000.0,08-05-2014,Fam.,757,9,Villa,396,1870,
+Nørrebyvej 18 4791 Borre,18,295000.0,28-04-2014,Alm.,2587,2,Villa,114,1885,0 %
+Klintholm Havneby 7 4791 Borre,7,840000.0,19-04-2014,Alm.,16153,3,Fritid,52,1986,-6 %
+Lisbjergvej 1 4791 Borre,1,359000.0,02-04-2014,Auktion,1459,7,Villa,246,1922,
+Nørrebyvej 23 4791 Borre,23,1250000.0,26-03-2014,Alm.,7911,4,Villa,158,1968,-10 %
+Klintevej 373 4791 Borre,373,300000.0,19-03-2014,Alm.,3896,3,Rækkehus,77,1869,
+Sømarkevej 23 4791 Borre,23,205000.0,17-02-2014,Alm.,1404,4,Villa,146,1716,-31 %
+Margrethevej 6 4791 Borre,6,350000.0,19-01-2014,Alm.,4216,4,Villa,83,1950,-7 %
+Klintholm Havnevej 33 4791 Borre,33,350000.0,18-12-2013,Auktion,2554,3,Villa,137,1870,
+Klintholm Havnevej 52A 4791 Borre,0,875000.0,14-11-2013,Alm.,3528,6,Villa,248,1935,
+Busenevej 19 4791 Borre,19,450000.0,08-11-2013,Fam.,3146,5,Villa,143,1951,
+Strædet 10 4791 Borre,10,740981.0,28-10-2013,Fam.,8420,4,Villa,88,1929,
+Klintevej 478 4791 Borre,478,212937.0,21-10-2013,Andet,1410,4,Villa,151,1895,
+Dortheavej 2 4791 Borre,2,430000.0,09-10-2013,Fam.,4942,4,Villa,87,1974,-25 %
+Toftevænget 1 4791 Borre,1,1300000.0,30-09-2013,Alm.,7222,4,Villa,180,1971,-4 %
+Amandastræde 5 4791 Borre,5,500000.0,11-09-2013,Alm.,3787,2,Villa,132,1950,-9 %
+Krogen 6 4791 Borre,6,400000.0,05-09-2013,Alm.,5000,3,Villa,80,1900,
+Klintholm Havneby 54 4791 Borre,54,1045000.0,29-07-2013,Alm.,20900,3,Fritid,50,1986,-5 %
+Klintevej 434 4791 Borre,434,258000.0,24-07-2013,Auktion,2186,5,Villa,118,1916,
+Kraneledvej 6 4791 Borre,6,2985000.0,19-07-2013,Alm.,19638,6,Villa,152,1806,0 %
+Bøgebjergvej 27 4791 Borre,27,475000.0,10-07-2013,Auktion,3653,4,Villa,130,1939,-72 %
+Søndre Landevej 110 4791 Borre,110,500000.0,04-07-2013,Alm.,3472,6,Villa,144,1906,-23 %
+Klintevej 335 4791 Borre,335,175000.0,04-07-2013,Alm.,2011,3,Villa,87,1962,-30 %
+Krogen 1 4791 Borre,1,196960.0,01-07-2013,Alm.,1330,6,Stuehus,148,1924,
+Katinkavej 19 4791 Borre,19,985000.0,29-05-2013,Alm.,7035,5,Villa,140,1967,0 %
+Klintholm Havnevej 69 4791 Borre,69,295000.0,04-05-2013,Alm.,6413,2,Villa,46,1941,0 %
+Bøgebjergvej 3 4791 Borre,3,145000.0,24-04-2013,Auktion,1394,5,Villa,104,1906,
+Klintholm Havnevej 88 4791 Borre,88,360000.0,19-04-2013,Alm.,3214,4,Villa,112,1900,
+Klintholm Havnevej 25 4791 Borre,25,710000.0,08-03-2013,Alm.,6893,3,Villa,103,1875,-5 %
+Birkedalsvej 4 4791 Borre,4,625000.0,26-02-2013,Alm.,4032,6,Villa,155,1922,-14 %
+Thyravej 5 4791 Borre,5,1075000.0,09-01-2013,Alm.,8811,4,Villa,122,1935,-20 %
+Klintevej 285 4791 Borre,285,650000.0,07-12-2012,Auktion,4391,5,Villa,148,1936,
+Harebankevej 1 4791 Borre,1,1280000.0,15-11-2012,Alm.,5981,7,Stuehus,214,1840,
+Thyravej 11 4791 Borre,11,1360000.0,01-10-2012,Fam.,6732,6,Villa,202,1875,
+Strædet 2 4791 Borre,2,1995000.0,17-09-2012,Alm.,12870,4,Villa,155,1936,0 %
+Søndre Landevej 91 4791 Borre,91,2450000.0,14-09-2012,Fam.,9800,6,Villa,250,2008,
+Søndre Landevej 85 4791 Borre,85,850000.0,07-09-2012,Alm.,4802,6,Villa,177,1915,
+Klintholm Havneby 80 4791 Borre,80,563665.0,21-08-2012,Alm.,10839,3,Fritid,52,1986,-29 %
+Klintholm Havneby 61 4791 Borre,61,1085000.0,18-06-2012,Alm.,21700,3,Fritid,50,1986,-16 %
+Katinkavej 18 4791 Borre,18,665000.0,11-06-2012,Alm.,6045,3,Villa,110,1974,-16 %
+Toftevænget 6 4791 Borre,6,450000.0,31-05-2012,Alm.,3515,4,Villa,128,1976,
+Klintholm Havneby 81 4791 Borre,81,850000.0,30-04-2012,Alm.,16346,3,Fritid,52,1986,-6 %
+Amandastræde 8 4791 Borre,8,510000.0,21-04-2012,Alm.,4857,4,Villa,105,1952,0 %
+Bøgebjergvej 25 4791 Borre,25,2750000.0,12-04-2012,Alm.,8957,8,Villa,307,1880,-8 %
+Busenevej 64 4791 Borre,64,202845.0,11-04-2012,Alm.,2204,5,Stuehus,92,1870,
+Klintholm Havneby 73 4791 Borre,73,925000.0,01-04-2012,Alm.,18500,3,Fritid,50,1986,-23 %
+Klintholm Havneby 14 4791 Borre,14,725000.0,29-03-2012,Alm.,10357,3,Fritid,70,1986,-9 %
+Klintholm Havneby 34 4791 Borre,34,525617.0,29-03-2012,Fam.,7508,3,Fritid,70,1986,
+Poststræde 2 4791 Borre,2,275000.0,21-03-2012,Auktion,2412,4,Villa,114,1902,
+Klintholm Havnevej 17A. 1 4791 Borre,1,850000.0,29-02-2012,Alm.,8947,2,Lejlighed,95,1954,
+Klintholm Havneby 42 4791 Borre,42,812500.0,24-02-2012,Alm.,16250,3,Fritid,50,1986,-18 %
+Lybækkervej 1 4791 Borre,1,971900.0,12-01-2012,Auktion,3887,10,Stuehus,250,1895,
+Mosesvinget 5 4791 Borre,5,250000.0,07-01-2012,Alm.,4098,3,Rækkehus,61,1868,
+Busenevej 46 4791 Borre,46,508000.0,19-12-2011,Alm.,3819,4,Villa,133,2014,
+Klintevej 509 4791 Borre,509,550000.0,29-10-2011,Alm.,3197,7,Villa,172,1825,0 %
+Sømarkevej 15 4791 Borre,15,90000.0,12-10-2011,Auktion,825,5,Villa,109,1948,-88 %
+Rakkerbanken 3 4791 Borre,3,500000.0,24-08-2011,Auktion,4761,3,Villa,105,2015,
+Klintevej 364 4791 Borre,364,425000.0,06-07-2011,Auktion,1426,9,Villa,298,1721,
+Klintevej 339 4791 Borre,339,325000.0,16-06-2011,Alm.,3186,3,Villa,102,1950,0 %
+Kraneledvej 17 4791 Borre,17,1150000.0,12-05-2011,Fam.,7770,5,Villa,148,1906,
+Søndre Landevej 95 4791 Borre,95,295000.0,29-04-2011,Alm.,2892,3,Villa,102,1875,0 %
+Ålebæk Strandvej 31 4791 Borre,31,2675000.0,12-04-2011,Alm.,12327,6,Villa,217,1890,
+Kraneledvej 7 4791 Borre,7,109000.0,28-03-2011,Alm.,516,5,Villa,211,1914,
+Thyravej 10 4791 Borre,10,850000.0,18-03-2011,Alm.,11805,8,Servicevirksomhed,72,1909,
+Amandastræde 11 4791 Borre,11,900000.0,14-03-2011,Alm.,9183,2,Villa,98,1996,-10 %
+Klintholm Havneby 72 4791 Borre,72,900000.0,25-02-2011,Alm.,18000,3,Fritid,50,1986,-25 %
+Klintholm Havnevej 68 4791 Borre,68,810000.0,23-02-2011,Auktion,4939,5,Villa,164,1930,
+Klintholm Havneby 49 4791 Borre,49,1500000.0,21-01-2011,Alm.,30000,3,Fritid,50,1986,-9 %
+Klintevej 458 4791 Borre,458,875000.0,19-11-2010,Alm.,9943,3,Villa,88,1900,-5 %
+Klintevej 277 4791 Borre,277,1263845.0,10-11-2010,Alm.,6982,6,Villa,181,1875,
+Søndre Landevej 78 4791 Borre,78,1475800.0,07-11-2010,Fam.,5425,6,Villa,272,1900,-41 %
+Fyrvej 6 4791 Borre,6,4900000.0,02-11-2010,Alm.,24137,6,Villa,203,1969,-2 %
+Klintholm Havneby 25 4791 Borre,25,675000.0,01-11-2010,Alm.,12980,3,Fritid,52,1986,-15 %
+Klintevej 385 4791 Borre,385,100000.0,01-11-2010,Fam.,1587,2,Villa,63,1871,
+Sønderbyvej 3 4791 Borre,3,469220.0,27-10-2010,Fam.,4739,3,Villa,99,1905,-41 %
+Søndre Landevej 102 4791 Borre,102,4098200.0,26-10-2010,Alm.,29272,5,Stuehus,140,1961,
+Klintholm Havneby 45 4791 Borre,45,1300000.0,26-10-2010,Alm.,25000,3,Fritid,52,1986,
+Klintevej 315 4791 Borre,315,405901.0,12-10-2010,Alm.,4510,5,Villa,90,1960,-55 %
+Nørrebyvej 8 4791 Borre,8,1525000.0,27-08-2010,Alm.,7439,5,Villa,205,1978,-3 %
+Klintholm Havneby 10 4791 Borre,10,925000.0,20-08-2010,Alm.,18500,3,Fritid,50,1986,-5 %
+Klintholm Havnevej 2 4791 Borre,2,300000.0,11-08-2010,Auktion,1734,3,Villa,173,1875,
+Klintholm Havneby 50 4791 Borre,50,1750000.0,30-07-2010,Alm.,25000,3,Fritid,70,1986,-12 %
+Klintholm Havneby 62 4791 Borre,62,1395000.0,22-07-2010,Alm.,27900,3,Fritid,50,1986,-7 %
+Hesselholtvej 4 4791 Borre,4,1470000.0,21-07-2010,Auktion,5653,9,Stuehus,260,1930,-45 %
+Liselundvej 13 4791 Borre,13,450000.0,30-06-2010,Alm.,4545,3,Villa,99,1858,-31 %
+Klintholm Havneby 63 4791 Borre,63,1225000.0,28-06-2010,Alm.,18014,3,Fritid,68,1986,-12 %
+Stubberup Havevej 12 4791 Borre,12,1600000.0,16-06-2010,Alm.,11034,5,Villa,145,1850,
+Thyravej 26 4791 Borre,26,940000.0,27-05-2010,Alm.,5562,2,Villa,169,1930,-6 %
+Klintevej 511 4791 Borre,511,1325000.0,25-05-2010,Alm.,10860,5,Villa,122,1872,
+Klintevej 340 4791 Borre,340,459873.0,20-04-2010,Alm.,2874,5,Villa,160,1966,
+Nørrebyvej 30 4791 Borre,30,1050000.0,18-04-2010,Alm.,6687,5,Villa,157,1907,
+Thyravej 7 4791 Borre,7,1800000.0,16-04-2010,Alm.,9523,4,Villa,189,1912,-28 %
+Sømarkevej 1 4791 Borre,1,126900.0,17-03-2010,Auktion,1410,4,Villa,90,1905,
+Nyborrevej 4 4791 Borre,4,675000.0,06-03-2010,Alm.,5625,4,Villa,120,1900,-13 %
+Liselundvej 36 4791 Borre,36,420000.0,24-02-2010,Alm.,4666,4,Villa,90,1875,-38 %
+Klintholm Havnevej 48 4791 Borre,48,1995000.0,17-02-2010,Alm.,15960,3,Villa,125,1948,
+Nyborrevej 20 4791 Borre,20,350000.0,20-01-2010,Auktion,2348,5,Villa,149,1926,
+Sønderbyvej 11 4791 Borre,11,200000.0,06-01-2010,Auktion,1111,8,Villa,180,1875,-90 %
+Stavrebjergvej 3 4791 Borre,3,3752500.0,04-12-2009,Alm.,16530,9,Stuehus,227,1921,
+Kasperstræde 12 4791 Borre,12,850000.0,01-12-2009,Alm.,6640,4,Villa,128,1825,-8 %
+Søndre Landevej 89 4791 Borre,89,760000.0,01-12-2009,Andet,5390,4,Villa,141,1902,
+Bøgebjergvej 6 4791 Borre,6,825000.0,17-11-2009,Alm.,5689,6,Villa,145,1845,-17 %
+Klintholm Havnevej 61 4791 Borre,61,725000.0,16-11-2009,Alm.,7250,5,Villa,100,1956,-27 %
+Klintholm Havneby 18 4791 Borre,18,1350000.0,19-10-2009,Alm.,19285,3,Fritid,70,1986,-7 %
+Klintevej 309 4791 Borre,309,325000.0,29-09-2009,Alm.,3066,3,Villa,106,1775,
+Nørrebyvej 11 4791 Borre,11,400000.0,16-09-2009,Auktion,3333,4,Villa,120,1910,
+Strædet 7 4791 Borre,7,588100.0,15-09-2009,Fam.,11762,4,Villa,50,1875,
+Søndre Landevej 81 4791 Borre,81,695000.0,07-09-2009,Alm.,6619,5,Villa,105,1913,0 %
+Nøddelundvej 4 4791 Borre,4,505000.0,12-08-2009,Auktion,3556,5,Villa,142,1950,-75 %
+Hvilestedvej 9 4791 Borre,9,700000.0,24-07-2009,Alm.,7954,3,Villa,88,1950,-30 %
+Klintholm Havneby 55 4791 Borre,55,1175000.0,25-06-2009,Alm.,23500,3,Fritid,50,1986,-24 %
+Klintevej 370 4791 Borre,370,210000.0,03-06-2009,Auktion,3088,3,Villa,68,1932,
+Margrethevej 10 4791 Borre,10,165000.0,28-05-2009,Auktion,3055,2,Villa,54,1940,
+Søndre Landevej 63 4791 Borre,63,850000.0,27-05-2009,Alm.,5944,6,Villa,143,1913,
+Dortheavej 1 4791 Borre,1,1150000.0,19-05-2009,Alm.,0,8,Villa,234,1973,-3 %
+Moenavej 8 4791 Borre,8,330000.0,17-05-2009,Fam.,5500,3,Sommerhus,60,1940,
+Liselundvej 38 4791 Borre,38,245600.0,25-02-2009,Alm.,1063,10,Stuehus,231,1914,-90 %
+Sømarkevej 35 4791 Borre,35,300000.0,04-12-2008,Alm.,2830,2,Rækkehus,106,1800,
+Stendyssevej 18 4791 Borre,18,1400000.0,21-09-2008,Alm.,0,12,Villa,300,1944,-6 %
+Lisbjergvej 3 4791 Borre,3,850000.0,16-09-2008,Fam.,6538,5,Villa,130,1922,
+Liselundvej 11 4791 Borre,11,900000.0,02-09-2008,Alm.,7258,6,Villa,124,1850,-20 %
+Nørrebyvej 33 4791 Borre,33,2206000.0,27-08-2008,Alm.,9191,5,Villa,240,1883,
+Ålebæk Strandvej 18 4791 Borre,18,1480000.0,18-08-2008,Alm.,8554,7,Villa,173,1807,-12 %
+Klintholm Havneby 20 4791 Borre,20,1600000.0,13-08-2008,Alm.,32000,3,Fritid,50,1986,-16 %
+Mandehøjvej 4 4791 Borre,4,784820.0,07-08-2008,Alm.,4087,4,Stuehus,192,1914,-70 %
+Klintevej 325 4791 Borre,325,422000.0,11-06-2008,Auktion,1875,8,Villa,225,1912,-50 %
+Klintevej 485 4791 Borre,485,910000.0,22-04-2008,Alm.,7583,5,Villa,120,1914,-9 %
+Lisbjergvej 8 4791 Borre,8,1360000.0,09-04-2008,Fam.,11333,4,Stuehus,120,1941,
+Nyborrevej 10 4791 Borre,10,473955.0,07-04-2008,Alm.,2872,6,Villa,165,1908,
+Søndre Landevej 60 4791 Borre,60,3200000.0,10-03-2008,Alm.,34042,4,Villa,94,1937,
+Klintholm Havneby 44 4791 Borre,44,1360000.0,29-02-2008,Alm.,19428,3,Fritid,70,1986,-15 %
+Degnestræde 5 4791 Borre,5,380000.0,25-02-2008,Alm.,3423,4,Villa,111,1914,-16 %
+Stubberup Havevej 4 4791 Borre,4,1214000.0,31-01-2008,Fam.,7587,5,Villa,160,1913,
+Klintevej 329 4791 Borre,329,955735.0,21-01-2008,Alm.,9653,4,Villa,99,1926,
+Søndre Landevej 106 4791 Borre,106,1237500.0,20-01-2008,Alm.,10399,5,Villa,119,1937,-10 %
+Ålebæk Strandvej 1 4791 Borre,1,380000.0,16-01-2008,Alm.,3725,4,Villa,102,1860,-16 %
+Klintevej 331 4791 Borre,331,260000.0,14-01-2008,Auktion,2407,2,Villa,108,1926,
+Vimmelskaftet 4 4791 Borre,4,1200000.0,04-01-2008,Alm.,7792,4,Villa,154,1860,-7 %
+Klintevej 524 4791 Borre,524,795000.0,06-12-2007,Alm.,7293,4,Villa,109,1885,0 %
+Busenevej 62 4791 Borre,62,694000.0,30-11-2007,Fam.,9131,5,Sommerhus,76,1977,
+Nørrebyvej 40 4791 Borre,40,3331844.0,07-11-2007,Andet,16576,5,Stuehus,201,1964,
+Klintholm Havneby 24 4791 Borre,24,1475000.0,10-10-2007,Alm.,21071,3,Fritid,70,1986,-5 %
+Stendyssevej 10 4791 Borre,10,1450000.0,04-10-2007,Alm.,7038,5,Villa,206,1875,-16 %
+Nørrebyvej 45 4791 Borre,45,1500000.0,04-10-2007,Alm.,7812,5,Villa,192,1850,-6 %
+Katinkavej 8 4791 Borre,8,1100000.0,30-09-2007,Fam.,12222,3,Villa,90,1966,
+Sømarkevej 6 4791 Borre,6,300000.0,31-08-2007,Alm.,2419,5,Villa,124,1907,
+Råbyovedvej 5 4791 Borre,5,714000.0,21-08-2007,Fam.,5950,5,Villa,120,1852,
+Klintevej 414 4791 Borre,414,650000.0,20-06-2007,Alm.,8125,3,Villa,80,1944,
+Amandastræde 13 4791 Borre,13,700000.0,12-06-2007,Alm.,17948,2,Villa,39,1932,8 %
+Klintholm Havnevej 38 4791 Borre,38,700000.0,31-05-2007,Alm.,11111,3,Villa,63,1966,
+Ålebæk Strandvej 26 4791 Borre,26,1350000.0,10-05-2007,Alm.,7297,6,Stuehus,185,1807,
+Søndre Landevej 62 4791 Borre,62,2210550.0,09-05-2007,Alm.,30702,3,Stuehus,72,1928,
+Risbækvej 5 4791 Borre,5,1660000.0,09-05-2007,Alm.,5060,8,Stuehus,328,1906,
+Toftevænget 5 4791 Borre,5,965000.0,07-05-2007,Alm.,4825,4,Villa,200,1980,
+Klintholm Havneby 47 4791 Borre,47,1945000.0,02-05-2007,Alm.,28602,3,Fritid,68,1986,-3 %
+Søndre Landevej 115 4791 Borre,115,1600000.0,22-04-2007,Alm.,7619,7,Villa,210,1900,0 %
+Thyravej 15 4791 Borre,15,390000.0,11-04-2007,Alm.,6842,3,Villa,57,1945,
+Ålebæk Strandvej 23 4791 Borre,23,3173039.0,24-02-2007,Alm.,20604,6,Villa,154,1827,
+Søndre Landevej 36 4791 Borre,36,2325000.0,20-02-2007,Alm.,13210,7,Villa,176,1907,
+Klintevej 343 4791 Borre,343,825000.0,20-02-2007,Alm.,5061,5,Villa,163,1925,-8 %
+Klintevej 501 4791 Borre,501,7682500.0,12-02-2007,Fam.,31103,6,Stuehus,247,1860,
+Liselundvej 32 4791 Borre,32,3357500.0,12-02-2007,Fam.,24329,4,Stuehus,138,1825,
+Søndre Landevej 54 4791 Borre,54,1420000.0,03-02-2007,Alm.,14489,4,Villa,98,1940,
+Klintevej 508 4791 Borre,508,422283.0,02-02-2007,Alm.,2994,5,Villa,141,1920,
+Hesselholtvej 5 4791 Borre,5,2250000.0,30-01-2007,Alm.,15625,3,Villa,144,1875,-6 %
+Søndre Landevej 101 4791 Borre,101,97196.0,26-01-2007,Fam.,883,6,Villa,110,1875,
+Liselundvej 42 4791 Borre,42,745000.0,10-01-2007,Alm.,8465,4,Villa,88,1939,0 %
+Stendyssevej 13 4791 Borre,13,2700000.0,30-12-2006,Alm.,10074,11,Villa,268,1915,
+Klintevej 493 4791 Borre,493,19878000.0,27-12-2006,Fam.,121207,6,Stuehus,164,1906,
+Kobbelgårdsvej 1 4791 Borre,1,2675000.0,08-12-2006,Alm.,18706,6,Stuehus,143,1860,
+Sønderbyvej 26 4791 Borre,26,850000.0,24-11-2006,Alm.,7083,5,Villa,120,1915,
+Nørrebyvej 49 4791 Borre,49,805000.0,23-11-2006,Alm.,6708,3,Villa,120,1900,
+Busenevej 56 4791 Borre,56,475000.0,16-11-2006,Fam.,7089,3,Villa,67,1969,
+Klintevej 322 4791 Borre,322,527000.0,18-10-2006,Fam.,3962,4,Villa,133,1927,
+Klintholm Havneby 60 4791 Borre,60,1800000.0,15-09-2006,Alm.,25714,3,Fritid,70,1986,
+Degnestræde 6 4791 Borre,6,725000.0,24-08-2006,Alm.,7712,4,Villa,94,1875,
+Bøgebjergvej 11 4791 Borre,11,1000000.0,22-08-2006,Alm.,9090,5,Villa,110,1960,
+Lybækkervej 9 4791 Borre,9,800000.0,21-08-2006,Alm.,9523,3,Villa,84,1915,
+Sømarkevej 27 4791 Borre,27,625000.0,12-08-2006,Alm.,6944,3,Villa,90,1825,
+Busenevej 41 4791 Borre,41,1050000.0,01-08-2006,Alm.,13815,3,Villa,76,1865,
+Liselundvej 27 4791 Borre,27,885000.0,26-07-2006,Alm.,6968,3,Villa,127,1875,
+Klintevej 487 4791 Borre,487,750000.0,04-07-2006,Alm.,4166,5,Villa,180,1935,
+Søndre Landevej 41A 4791 Borre,0,500000.0,04-07-2006,Alm.,6410,4,Villa,78,1875,
+Katinkavej 14 4791 Borre,14,1195000.0,26-06-2006,Alm.,8020,7,Villa,149,1971,
+Sømarkevej 4 4791 Borre,4,250000.0,16-06-2006,Alm.,2000,4,Villa,125,1907,
+Ålebæk Strandvej 25 4791 Borre,25,820000.0,15-06-2006,Fam.,4226,8,Villa,194,1807,
+Klintevej 377 4791 Borre,377,920000.0,09-06-2006,Alm.,4946,7,Villa,186,1941,
+Nyborrevej 8 4791 Borre,8,635000.0,30-05-2006,Alm.,7743,5,Villa,82,1921,
+Klintevej 341 4791 Borre,341,725000.0,28-04-2006,Alm.,7880,3,Villa,92,1961,
+Klintholm Havneby 70 4791 Borre,70,2100000.0,22-04-2006,Alm.,42000,3,Fritid,50,1986,
+Klintevej 520 4791 Borre,520,675000.0,13-04-2006,Alm.,9642,3,Villa,70,1935,
+Vimmelskaftet 16 4791 Borre,16,665000.0,05-04-2006,Alm.,7916,3,Rækkehus,84,1875,
+Liselundvej 8 4791 Borre,8,895000.0,04-04-2006,Alm.,11187,2,Villa,80,1965,
+Nørrebyvej 20 4791 Borre,20,1340000.0,28-03-2006,Alm.,8121,5,Villa,165,1963,
+Amandastræde 10 4791 Borre,10,650000.0,27-03-2006,Alm.,10156,3,Villa,64,1943,
+Katinkavej 11 4791 Borre,11,1150000.0,14-03-2006,Alm.,9349,5,Villa,123,1968,
+Klintholm Havneby 26 4791 Borre,26,1075000.0,02-03-2006,Alm.,20673,3,Fritid,52,1986,
+Moenavej 2 4791 Borre,2,1490000.0,24-02-2006,Alm.,0,7,Villa,255,1875,
+Mosesvinget 7 4791 Borre,7,795000.0,19-02-2006,Alm.,5230,6,Villa,152,1918,
+Nørrebyvej 39 4791 Borre,39,652791.0,19-02-2006,Alm.,3885,5,Villa,168,1886,
+Kobbelgårdsvej 2 4791 Borre,2,930000.0,24-01-2006,Alm.,0,5,Villa,198,1860,
+Søndre Landevej 114 4791 Borre,114,1370000.0,20-01-2006,Alm.,13700,3,Villa,100,1855,
+Klintevej 279 4791 Borre,279,980000.0,13-12-2005,Alm.,6490,4,Villa,151,1850,
+Kraneledvej 12 4791 Borre,12,2500000.0,01-12-2005,Alm.,0,5,Villa,241,1775,
+Klintevej 319 4791 Borre,319,775000.0,29-11-2005,Alm.,6798,3,Villa,114,1900,
+Langebjergvej 2 4791 Borre,2,840000.0,18-11-2005,Fam.,4307,5,Stuehus,195,1875,
+Moenavej 1 4791 Borre,1,500000.0,18-11-2005,Fam.,2450,8,Stuehus,204,1922,
+Busenevej 20 4791 Borre,20,2700000.0,15-11-2005,Alm.,27551,4,Stuehus,98,1875,
+Klintevej 355 4791 Borre,355,480000.0,08-11-2005,Alm.,3037,7,Villa,158,1925,
+Sømarkevej 24 4791 Borre,24,750000.0,21-10-2005,Alm.,5952,4,Villa,126,1920,
+Klintholm Havnevej 74 4791 Borre,74,1160000.0,10-10-2005,Alm.,10086,4,Villa,115,1901,
+Nøddelundvej 13 4791 Borre,13,1349000.0,09-10-2005,Alm.,14988,4,Villa,90,1870,
+Thyravej 28 4791 Borre,28,900000.0,07-10-2005,Alm.,18367,2,Villa,49,1943,
+Mosesvinget 21 4791 Borre,21,631967.0,04-10-2005,Alm.,6944,4,Villa,91,1886,
+Bøgebjergvej 12 4791 Borre,12,1675000.0,19-09-2005,Alm.,19034,5,Villa,88,1954,
+Klintholm Havnevej 122 4791 Borre,122,1000000.0,14-09-2005,Alm.,6993,3,Villa,143,1961,
+Ålebæk Strandvej 33 4791 Borre,33,2800000.0,14-09-2005,Alm.,11428,9,Villa,245,2008,
+Katinkavej 1 4791 Borre,1,825000.0,31-08-2005,Alm.,6762,4,Villa,122,1965,
+Klintholm Havneby 46 4791 Borre,46,1298000.0,23-08-2005,Alm.,24961,3,Fritid,52,1986,
+Nyborrevej 3 4791 Borre,3,900000.0,21-07-2005,Alm.,4017,7,Villa,224,1900,
+Søndre Landevej 39 4791 Borre,39,400000.0,19-07-2005,Fam.,2272,6,Villa,176,1895,
+Søndre Landevej 99 4791 Borre,99,2350000.0,17-07-2005,Alm.,7580,7,Villa,310,1875,
+Sømarkevej 43 4791 Borre,43,230000.0,15-07-2005,Alm.,2771,4,Villa,83,1925,
+Klintevej 448 4791 Borre,448,654555.0,12-07-2005,Alm.,5547,5,Villa,118,1928,
+Dalsgårdsvej 2 4791 Borre,2,1825000.0,07-07-2005,Alm.,7700,8,Villa,237,1897,
+Søndre Landevej 113 4791 Borre,113,1075000.0,24-06-2005,Alm.,7570,4,Villa,142,1931,
+Sønderbyvej 2 4791 Borre,2,625000.0,24-06-2005,Alm.,4340,7,Villa,144,1887,
+Klintholm Havnevej 9 4791 Borre,9,533000.0,24-06-2005,Fam.,4935,5,Villa,108,1943,
+Fyrvej 3 4791 Borre,3,600000.0,19-06-2005,Alm.,6521,3,Villa,92,1929,
+Moenavej 7 4791 Borre,7,1500000.0,14-06-2005,Alm.,10135,5,Stuehus,148,1850,
+Bøgebjergvej 29 4791 Borre,29,300000.0,12-06-2005,Alm.,4411,3,Villa,68,1884,
+Toftevænget 9 4791 Borre,9,750000.0,10-06-2005,Alm.,5639,3,Villa,133,1985,
+Klintholm Havneby 2 4791 Borre,2,1098000.0,05-06-2005,Alm.,15685,3,Fritid,70,1986,
+Klintholm Havneby 3 4791 Borre,3,948000.0,05-06-2005,Alm.,18960,3,Fritid,50,1986,
+Klintholm Havneby 5 4791 Borre,5,1098000.0,05-06-2005,Alm.,16147,3,Fritid,68,1986,
+Klintholm Havneby 8 4791 Borre,8,1098000.0,05-06-2005,Alm.,15685,3,Fritid,70,1986,
+Klintholm Havneby 9 4791 Borre,9,948000.0,05-06-2005,Alm.,18960,3,Fritid,50,1986,
+Klintholm Havneby 12 4791 Borre,12,848000.0,05-06-2005,Alm.,16960,3,Fritid,50,1986,
+Busenevej 54 4791 Borre,54,1895000.0,02-06-2005,Fam.,9668,7,Villa,196,1925,
+Lisbjergvej 4 4791 Borre,4,1200000.0,17-05-2005,Alm.,8759,5,Villa,137,1952,
+Liselundvej 39 4791 Borre,39,1350000.0,13-05-2005,Alm.,6994,7,Villa,193,1910,
+Liselundvej 31 4791 Borre,31,870000.0,12-05-2005,Alm.,6126,4,Villa,142,1950,
+Liselundvej 41 4791 Borre,41,925000.0,09-05-2005,Alm.,6702,5,Villa,138,1917,
+Hampelandsvej 3 4791 Borre,3,1531000.0,29-04-2005,Alm.,9450,5,Villa,162,1900,
+Lilleskovvej 4 4791 Borre,4,1000000.0,28-04-2005,Alm.,10526,3,Villa,95,1938,
+Toftevænget 7 4791 Borre,7,1190000.0,16-04-2005,Alm.,7083,5,Villa,168,1977,
+Klintevej 488 4791 Borre,488,535000.0,11-04-2005,Alm.,3543,7,Villa,151,1932,
+Moenavej 6 4791 Borre,6,1350000.0,29-03-2005,Alm.,7297,6,Villa,185,1913,
+Mandehøjvej 8 4791 Borre,8,1650000.0,18-03-2005,Alm.,0,5,Villa,241,1860,
+Kraneledvej 19 4791 Borre,19,700000.0,03-03-2005,Alm.,5263,5,Villa,133,1896,
+Hampelandsvej 4 4791 Borre,4,1350000.0,16-02-2005,Alm.,10074,5,Villa,134,1963,
+Kraneledvej 35 4791 Borre,35,6700000.0,11-02-2005,Fam.,27459,10,Stuehus,244,1910,
+Thyravej 12 4791 Borre,12,700000.0,17-01-2005,Alm.,8750,3,Villa,80,1961,
+Langebjergvej 4 4791 Borre,4,1500000.0,28-12-2004,Alm.,15000,6,Servicevirksomhed,100,1790,
+Nørrebyvej 47 4791 Borre,47,585000.0,19-12-2004,Alm.,5131,3,Villa,114,1825,
+Sønderbyvej 13 4791 Borre,13,640000.0,09-11-2004,Alm.,7619,2,Villa,84,1870,
+Fyrvej 4 4791 Borre,4,2540000.0,06-11-2004,Alm.,15875,5,Villa,160,1850,
+Klintevej 534 4791 Borre,534,2270000.0,29-09-2004,Alm.,15133,5,Stuehus,150,1775,
+Birkedalsvej 2 4791 Borre,2,350000.0,16-09-2004,Alm.,4022,4,Villa,87,1923,
+Busenevej 52 4791 Borre,52,1020000.0,16-09-2004,Alm.,8793,3,Sommerhus,116,1775,
+Klintholm Havnevej 4 4791 Borre,4,2025000.0,11-08-2004,Alm.,23011,12,Servicevirksomhed,88,1900,
+Søndre Landevej 41B 4791 Borre,0,635000.0,04-08-2004,Alm.,3779,8,Villa,168,1865,
+Klintholm Havnevej 98 4791 Borre,98,630000.0,29-07-2004,Alm.,2957,5,Villa,213,1865,
+Sømarkevej 19 4791 Borre,19,718946.0,22-06-2004,Alm.,5991,5,Villa,120,1949,
+Liselundvej 19 4791 Borre,19,525000.0,10-06-2004,Fam.,1923,5,Villa,273,1925,
+Busenevej 72 4791 Borre,72,2150000.0,24-04-2004,Alm.,8600,2,Stuehus,250,2016,
+Ålebæk Strandvej 16 4791 Borre,16,95000.0,21-04-2004,Alm.,0,5,Stuehus,115,1953,
+Margrethevej 12 4791 Borre,12,660000.0,19-04-2004,Alm.,0,6,Villa,116,1945,
+Harebankevej 2 4791 Borre,2,5461000.0,12-03-2004,Fam.,33298,8,Stuehus,164,1850,
+Sømarkevej 14 4791 Borre,14,750000.0,10-03-2004,Alm.,5597,5,Villa,134,1888,
+Katinkavej 6 4791 Borre,6,1325000.0,20-02-2004,Alm.,11041,4,Villa,120,1977,
+Nørrebyvej 2 4791 Borre,2,547500.0,05-02-2004,Alm.,3278,7,Villa,167,1897,
+Søndre Landevej 69 4791 Borre,69,1600500.0,16-12-2003,Fam.,0,7,Stuehus,272,1918,
+Klintevej 350 4791 Borre,350,250000.0,16-12-2003,Fam.,2808,4,Villa,89,1935,
+Ålebæk Strandvej 3 4791 Borre,3,635000.0,20-11-2003,Alm.,6902,5,Villa,92,1900,
+Klintholm Havnevej 1 4791 Borre,1,336000.0,17-11-2003,Auktion,2417,4,Villa,139,1937,
+Nørrebyvej 21 4791 Borre,21,331500.0,15-11-2003,Fam.,4196,3,Villa,79,1953,
+Amandastræde 4 4791 Borre,4,1088000.0,08-11-2003,Alm.,8059,6,Villa,135,1962,
+Klintevej 306 4791 Borre,306,425000.0,29-10-2003,Alm.,0,4,Villa,135,1900,
+Mandehøjvej 2 4791 Borre,2,750000.0,02-10-2003,Alm.,3472,4,Villa,216,1860,
+Nørrebyvej 44 4791 Borre,44,925000.0,23-08-2003,Alm.,6801,5,Villa,136,1800,
+Busenevej 8 4791 Borre,8,1600000.0,28-07-2003,Alm.,5693,7,Villa,281,1900,
+Liselundvej 25 4791 Borre,25,875000.0,26-07-2003,Alm.,5756,4,Villa,152,1885,
+Bøgebjergvej 2 4791 Borre,2,800000.0,15-07-2003,Alm.,4395,4,Villa,182,1920,
+Kraneledvej 4 4791 Borre,4,1500000.0,11-07-2003,Alm.,15000,5,Villa,100,1875,
+Klintevej 320 4791 Borre,320,395122.0,25-05-2003,Alm.,4703,2,Villa,84,1860,
+Søndre Landevej 112 4791 Borre,112,956808.0,23-05-2003,Alm.,6834,2,Villa,140,1775,
+Klintevej 400 4791 Borre,400,1000000.0,19-05-2003,Alm.,4716,8,Villa,212,1925,
+Sømarkevej 25 4791 Borre,25,490000.0,10-05-2003,Fam.,4298,5,Villa,114,1895,
+Moenavej 4 4791 Borre,4,1201086.0,08-05-2003,Alm.,7460,5,Villa,161,1825,
+Kasperstræde 4 4791 Borre,4,140000.0,28-04-2003,Alm.,1772,4,Rækkehus,79,1775,
+Klintholm Havnevej 86 4791 Borre,86,795000.0,20-04-2003,Alm.,5096,3,Villa,156,1901,
+Kraneledvej 14 4791 Borre,14,3030000.0,15-04-2003,Alm.,0,4,Stuehus,278,1806,
+Klintevej 354 4791 Borre,354,370657.0,15-04-2003,Alm.,5148,4,Villa,72,1895,
+Busenevej 4 4791 Borre,4,389912.0,28-02-2003,Alm.,3170,4,Villa,123,1807,
+Birkedalsvej 5 4791 Borre,5,1126804.0,05-02-2003,Alm.,6058,5,Villa,186,1922,
+Gurkebakken 6 4791 Borre,6,1150000.0,03-02-2003,Alm.,10454,4,Villa,110,1925,
+Klintevej 269 4791 Borre,269,652556.0,31-01-2003,Alm.,4595,4,Villa,142,1900,
+Råbyovedvej 6 4791 Borre,6,521000.0,21-01-2003,Alm.,0,4,Villa,111,1875,
+Klintevej 375 4791 Borre,375,440000.0,21-01-2003,Andet,3333,5,Villa,132,1880,
+Søndre Landevej 116 4791 Borre,116,450000.0,18-01-2003,Alm.,4166,3,Villa,108,1865,
+Klintevej 392 4791 Borre,392,390000.0,07-01-2003,Alm.,2191,6,Villa,178,1895,
+Søndre Landevej 48 4791 Borre,48,865000.0,01-12-2002,Alm.,0,5,Villa,167,1932,
+Klintevej 507 4791 Borre,507,570000.0,22-11-2002,Fam.,5277,5,Stuehus,108,1875,
+Klintevej 313 4791 Borre,313,1500000.0,19-10-2002,Alm.,4615,10,Villa,325,1928,
+Thyravej 4A 4791 Borre,0,1500000.0,09-10-2002,Alm.,13392,12,Servicevirksomhed,112,1876,
+Katinkavej 9 4791 Borre,9,500000.0,04-10-2002,Fam.,4385,6,Villa,114,1966,
+Bøgebjergvej 15 4791 Borre,15,1000000.0,17-09-2002,Alm.,7194,5,Villa,139,1974,
+Klintevej 363 4791 Borre,363,428861.0,10-08-2002,Alm.,5360,3,Villa,80,1925,
+Klintevej 518 4791 Borre,518,109062.0,07-07-2002,Andet,1473,5,Villa,74,1910,
+Klintevej 358 4791 Borre,358,419500.0,25-06-2002,Alm.,5448,4,Rækkehus,77,1870,
+Søndre Landevej 128 4791 Borre,128,625000.0,17-06-2002,Alm.,0,6,Villa,180,1899,
+Klintevej 411 4791 Borre,411,750000.0,12-05-2002,Alm.,5000,4,Villa,150,1920,
+Amandastræde 9 4791 Borre,9,640000.0,04-05-2002,Alm.,6881,3,Villa,93,1935,
+Dalsgårdsvej 4A 4791 Borre,0,1322560.0,12-04-2002,Alm.,6011,6,Villa,220,1880,
+Busenevej 60 4791 Borre,60,1700000.0,15-02-2002,Fam.,15454,4,Villa,110,1960,
+Kasperstræde 7 4791 Borre,7,624932.0,07-02-2002,Alm.,2460,10,Villa,254,1892,
+Kraneledvej 39 4791 Borre,39,1875000.0,21-11-2001,Alm.,9191,6,Villa,204,1930,
+Strædet 5 4791 Borre,5,550000.0,02-11-2001,Alm.,6875,3,Villa,80,1825,
+Strædet 11 4791 Borre,11,382412.0,31-10-2001,Fam.,3983,3,Villa,96,1963,
+Søndre Landevej 97 4791 Borre,97,295000.0,17-10-2001,Alm.,3933,3,Villa,75,1721,
+Klintevej 356 4791 Borre,356,255000.0,02-10-2001,Alm.,3984,2,Rækkehus,64,1863,
+Ålebæk Strandvej 6 4791 Borre,6,325000.0,01-10-2001,Alm.,5078,3,Villa,64,1898,
+Dortheavej 6 4791 Borre,6,1120606.0,22-09-2001,Alm.,7047,5,Villa,159,1980,
+Klintevej 456 4791 Borre,456,598999.0,10-07-2001,Alm.,5598,4,Villa,107,1894,
+Klintevej 441 4791 Borre,441,985000.0,09-07-2001,Alm.,5267,5,Villa,187,1932,
+Klintevej 462 4791 Borre,462,1066667.0,27-06-2001,Alm.,6311,4,Villa,169,1969,
+Klintholm Havnevej 90 4791 Borre,90,430000.0,20-06-2001,Alm.,2792,5,Villa,154,1875,
+Stubberup Havevej 2 4791 Borre,2,778239.0,19-06-2001,Alm.,4632,8,Villa,168,1870,
+Katinkavej 12 4791 Borre,12,600000.0,12-06-2001,Alm.,5000,3,Villa,120,1965,
+Vimmelskaftet 2 4791 Borre,2,392766.0,11-06-2001,Alm.,6546,4,Villa,60,1865,
+Kraneledvej 27 4791 Borre,27,806503.0,08-05-2001,Alm.,8961,4,Villa,90,1934,
+Liselundvej 14 4791 Borre,14,750000.0,08-05-2001,Alm.,3289,6,Villa,228,1895,
+Bøgebjergvej 18 4791 Borre,18,1200000.0,19-04-2001,Alm.,4109,9,Villa,292,1880,
+Klintholm Havnevej 57 4791 Borre,57,700000.0,31-01-2001,Fam.,5600,5,Villa,125,1964,
+Søndre Landevej 47 4791 Borre,47,410183.0,11-01-2001,Alm.,2698,5,Villa,152,1876,
+Klintholm Havnevej 102 4791 Borre,102,550000.0,27-12-2000,Andet,2894,5,Stuehus,190,1900,
+Søndre Landevej 23 4791 Borre,23,572276.0,27-12-2000,Alm.,4690,2,Villa,122,1910,
+Skansevej 2 4791 Borre,2,1100000.0,11-12-2000,Fam.,7236,5,Stuehus,152,1824,
+Klintevej 477 4791 Borre,477,827954.0,14-11-2000,Alm.,6899,5,Villa,120,1964,
+Klintholm Havnevej 28 4791 Borre,28,628635.0,10-11-2000,Alm.,3492,8,Villa,180,1908,
+Klintholm Havnevej 78 4791 Borre,78,592004.0,02-10-2000,Alm.,4451,5,Villa,133,1901,
+Søndre Landevej 25 4791 Borre,25,1324114.0,15-09-2000,Alm.,7005,5,Villa,189,1875,
+Dortheavej 15 4791 Borre,15,50328.0,26-08-2000,Alm.,453,4,Villa,111,2001,
+Råbyovedvej 14 4791 Borre,14,1550000.0,15-08-2000,Alm.,8806,5,Villa,176,1875,
+Klintevej 334 4791 Borre,334,250000.0,31-07-2000,Alm.,3906,3,Villa,64,1942,
+Hampelandsvej 1 4791 Borre,1,916500.0,26-07-2000,Alm.,0,6,Villa,235,1805,
+Skovstrædet 11 4791 Borre,11,750000.0,14-07-2000,Alm.,6410,4,Villa,117,1900,
+Søndre Landevej 98 4791 Borre,98,341262.0,27-06-2000,Alm.,3378,5,Villa,101,1875,
+Amandastræde 6 4791 Borre,6,625000.0,27-06-2000,Alm.,0,3,Villa,88,1960,
+Søndre Landevej 37 4791 Borre,37,172500.0,24-06-2000,Alm.,1223,5,Villa,141,1875,
+Østerborgvej 4 4791 Borre,4,719041.0,31-05-2000,Alm.,0,5,Villa,166,1963,
+Mosesvinget 9 4791 Borre,9,265963.0,27-05-2000,Alm.,2374,4,Villa,112,1875,
+Klintholm Havnevej 23 4791 Borre,23,925000.0,20-02-2000,Alm.,3952,8,Villa,234,1987,
+Kraneledvej 8 4791 Borre,8,1180000.0,20-12-1999,Fam.,7283,8,Stuehus,162,1912,
+Klintevej 305 4791 Borre,305,593480.0,03-12-1999,Alm.,2760,8,Villa,215,1924,
+Søndre Landevej 92 4791 Borre,92,380912.0,28-11-1999,Alm.,4328,3,Rækkehus,88,1864,
+Klintevej 439 4791 Borre,439,505462.0,23-11-1999,Alm.,0,5,Villa,149,1934,
+Dortheavej 29 4791 Borre,29,65280.0,14-11-1999,Alm.,402,5,Villa,162,2001,
+Busenevej 12 4791 Borre,12,1000000.0,14-11-1999,Fam.,6622,6,Villa,151,1875,
+Råbyovedvej 7 4791 Borre,7,230000.0,08-11-1999,Fam.,2110,5,Villa,109,1936,
+Sømarkevej 12 4791 Borre,12,400000.0,04-11-1999,Alm.,1851,5,Villa,216,1896,
+Nyborrevej 1 4791 Borre,1,395000.0,29-10-1999,Alm.,2365,5,Villa,167,1901,
+Svenskestræde 8 4791 Borre,8,245000.0,27-10-1999,Alm.,3602,3,Villa,68,1885,
+Klintevej 275 4791 Borre,275,410000.0,18-10-1999,Fam.,0,5,Villa,124,1900,
+Hampelandsvej 6 4791 Borre,6,25000.0,20-09-1999,Alm.,277,3,Villa,90,1792,
+Råbyovedvej 3 4791 Borre,3,641598.0,19-08-1999,Alm.,5346,5,Villa,120,1898,
+Svenskestræde 15 4791 Borre,15,375000.0,15-08-1999,Alm.,2358,5,Villa,159,1925,
+Klintevej 489 4791 Borre,489,254308.0,09-08-1999,Alm.,2354,7,Villa,108,1917,
+Sønderbyvej 8 4791 Borre,8,332000.0,05-08-1999,Alm.,5107,3,Villa,65,1962,
+Råbyovedvej 12 4791 Borre,12,652691.0,13-07-1999,Alm.,3296,8,Stuehus,198,1880,
+Gurkebakken 12 4791 Borre,12,495031.0,08-07-1999,Alm.,0,5,Villa,206,1901,
+Busenevej 38 4791 Borre,38,370000.0,25-06-1999,Auktion,0,5,Villa,191,1887,
+Liselundvej 2 4791 Borre,2,550000.0,19-06-1999,Alm.,3055,6,Villa,180,1890,
+Toftevænget 8 4791 Borre,8,500000.0,16-06-1999,Alm.,4464,3,Villa,112,1976,
+Lilleskovvej 5 4791 Borre,5,550000.0,08-06-1999,Alm.,0,7,Villa,244,1874,
+Dortheavej 13 4791 Borre,13,48222.0,20-05-1999,Alm.,328,5,Villa,147,1999,
+Sønderbyvej 20 4791 Borre,20,110000.0,07-05-1999,Alm.,495,6,Stuehus,222,1875,
+Klintholm Havnevej 63 4791 Borre,63,663780.0,03-05-1999,Alm.,0,6,Villa,182,1954,
+Liselundvej 21 4791 Borre,21,610000.0,31-03-1999,Alm.,6100,4,Villa,100,1922,
+Klintholm Havnevej 7 4791 Borre,7,320000.0,23-03-1999,Alm.,3555,4,Villa,90,1950,
+Klintevej 437 4791 Borre,437,291962.0,18-03-1999,Alm.,4561,3,Villa,64,1935,
+Søndre Landevej 31 4791 Borre,31,326752.0,23-12-1998,Alm.,3267,4,Villa,100,1940,
+Stendyssevej 9 4791 Borre,9,849795.0,01-12-1998,Alm.,8171,6,Villa,104,1884,
+Dortheavej 17 4791 Borre,17,59994.0,21-10-1998,Alm.,0,5,Villa,125,1999,
+Klintevej 397 4791 Borre,397,595000.0,14-10-1998,Alm.,6611,5,Villa,90,1874,
+Søndre Landevej 83 4791 Borre,83,308920.0,18-09-1998,Alm.,2413,5,Villa,128,1910,
+Kraneledvej 53 4791 Borre,53,733000.0,13-09-1998,Alm.,3983,7,Villa,184,1800,
+Nørrebyvej 28 4791 Borre,28,400000.0,18-08-1998,Alm.,2051,5,Villa,195,1875,
+Klintevej 526 4791 Borre,526,1099500.0,06-08-1998,Alm.,7233,5,Villa,152,1963,
+Klintevej 330 4791 Borre,330,302000.0,31-07-1998,Alm.,2876,5,Villa,105,1914,
+Stubberup Havevej 1 4791 Borre,1,727187.0,18-07-1998,Alm.,5194,5,Villa,140,1890,
+Kraneledvej 20 4791 Borre,20,1200000.0,26-06-1998,Alm.,3296,14,Villa,364,1934,
+Krogen 8 4791 Borre,8,726980.0,12-06-1998,Alm.,3495,6,Villa,208,1924,
+Østerborgvej 8 4791 Borre,8,263500.0,11-06-1998,Fam.,1606,6,Villa,164,1920,
+Svenskestræde 6 4791 Borre,6,150000.0,31-05-1998,Alm.,2000,4,Villa,75,1902,
+Stendyssevej 1 4791 Borre,1,134000.0,02-04-1998,Auktion,2000,3,Rækkehus,67,1825,
+Klintholm Havnevej 76 4791 Borre,76,368688.0,31-03-1998,Alm.,3964,4,Villa,93,1906,
+Nøddelundvej 3 4791 Borre,3,324625.0,25-03-1998,Alm.,1575,9,Stuehus,206,1940,
+Klintevej 463 4791 Borre,463,153497.0,23-03-1998,Alm.,1128,5,Villa,136,1932,
+Søndre Landevej 45 4791 Borre,45,50497.0,18-03-1998,Alm.,673,4,Villa,75,1875,
+Østerborgvej 1 4791 Borre,1,264286.0,24-02-1998,Alm.,1536,6,Villa,172,1875,
+Margrethevej 8 4791 Borre,8,410000.0,04-02-1998,Alm.,0,4,Villa,124,1955,
+Harebankevej 8 4791 Borre,8,1275000.0,13-01-1998,Alm.,7083,3,Villa,180,1885,
+Båndhøjvej 1 4791 Borre,1,1296250.0,30-12-1997,Fam.,4320,7,Stuehus,300,1896,
+Mandehøjvej 6 4791 Borre,6,400009.0,28-10-1997,Alm.,2797,3,Villa,143,1942,
+Klintevej 512 4791 Borre,512,257000.0,20-10-1997,Alm.,2495,4,Villa,103,1942,
+Klintholm Havnevej 44 4791 Borre,44,297000.0,15-10-1997,Alm.,2724,3,Villa,109,1830,
+Søndre Landevej 105 4791 Borre,105,435400.0,02-08-1997,Alm.,0,5,Villa,163,1852,
+Busenevej 45 4791 Borre,45,745000.0,08-07-1997,Alm.,4209,6,Villa,177,1764,
+Søndre Landevej 27 4791 Borre,27,750064.0,14-05-1997,Alm.,6250,4,Villa,120,1895,
+Klintevej 321 4791 Borre,321,574436.0,10-05-1997,Fam.,2486,7,Villa,231,1930,
+Liselundvej 10 4791 Borre,10,752000.0,05-05-1997,Alm.,3704,7,Villa,203,1915,
+Sønderbyvej 18 4791 Borre,18,492000.0,22-04-1997,Alm.,4392,4,Villa,112,1966,
+Degnestræde 3 4791 Borre,3,305350.0,16-04-1997,Alm.,3469,3,Villa,88,1954,
+Sømarkevej 3 4791 Borre,3,500000.0,10-04-1997,Alm.,4310,5,Villa,116,1954,
+Liselundvej 26 4791 Borre,26,333850.0,31-01-1997,Fam.,2903,4,Villa,115,1913,
+Stubberup Havevej 10 4791 Borre,10,1600000.0,16-12-1996,Alm.,5351,8,Stuehus,299,1934,
+Hampelandsvej 7 4791 Borre,7,600000.0,16-12-1996,Fam.,3797,6,Villa,158,1890,
+Nøddelundvej 1 4791 Borre,1,617501.0,07-12-1996,Alm.,0,5,Villa,468,1853,
+Klintevej 460 4791 Borre,460,530625.0,30-11-1996,Alm.,1936,10,Villa,274,1895,
+Søndre Landevej 121 4791 Borre,121,665000.0,21-11-1996,Alm.,5195,4,Villa,128,1967,
+Birkedalsvej 3 4791 Borre,3,183279.0,24-10-1996,Alm.,1666,2,Villa,110,1922,
+Lisbjergvej 2 4791 Borre,2,475000.0,12-09-1996,Alm.,3392,7,Villa,140,1927,
+Klintevej 310 4791 Borre,310,135000.0,02-09-1996,Alm.,1115,5,Villa,121,1912,
+Klintholm Havnevej 60 4791 Borre,60,530000.0,30-08-1996,Alm.,3785,4,Villa,140,1974,
+Toftevænget 11 4791 Borre,11,675000.0,15-07-1996,Alm.,4963,5,Villa,136,1987,
+Stubberup Havevej 3 4791 Borre,3,640000.0,28-04-1996,Alm.,5039,5,Villa,127,1912,
+Klintevej 495 4791 Borre,495,387000.0,19-04-1996,Alm.,3455,5,Villa,112,1750,
+Søndre Landevej 44 4791 Borre,44,2300000.0,19-03-1996,Alm.,12105,8,Stuehus,190,1898,
+Katinkavej 4 4791 Borre,4,465000.0,08-02-1996,Alm.,3604,4,Villa,129,1976,
+Klintevej 406 4791 Borre,406,450000.0,24-01-1996,Alm.,4285,3,Villa,105,1950,
+Søndre Landevej 70 4791 Borre,70,569500.0,27-12-1995,Fam.,2920,8,Villa,195,1875,
+Klintevej 516 4791 Borre,516,315000.0,23-12-1995,Fam.,1932,6,Villa,163,1900,
+Klintevej 472 4791 Borre,472,550000.0,05-12-1995,Alm.,4910,4,Stuehus,112,1937,
+Klintholm Havnevej 71 4791 Borre,71,450000.0,16-10-1995,Alm.,3982,4,Villa,113,1944,
+Strædet 9 4791 Borre,9,317383.0,08-10-1995,Alm.,3823,3,Rækkehus,83,1875,
+Dortheavej 21 4791 Borre,21,813912.0,13-09-1995,Alm.,3405,6,Villa,239,1986,
+Busenevej 15 4791 Borre,15,405000.0,23-08-1995,Alm.,0,6,Villa,191,1875,
+Amandastræde 3 4791 Borre,3,760000.0,14-07-1995,Alm.,4497,6,Villa,169,1959,
+Katinkavej 10 4791 Borre,10,421750.0,14-07-1995,Alm.,4584,3,Villa,92,1966,
+Bøgebjergvej 21 4791 Borre,21,820000.0,28-06-1995,Alm.,3402,11,Villa,241,1916,
+Krogen 10 4791 Borre,10,675000.0,23-06-1995,Alm.,4090,4,Stuehus,165,1868,
+Klintholm Havnevej 124 4791 Borre,124,10000.0,21-06-1995,Alm.,212,2,Villa,47,1935,
+Nørrebyvej 9 4791 Borre,9,65000.0,21-06-1995,Alm.,1444,4,Villa,45,1633,
+Kraneledvej 18 4791 Borre,18,393300.0,31-05-1995,Alm.,4573,3,Villa,86,1954,
+Nyborrevej 22 4791 Borre,22,2250000.0,03-05-1995,Alm.,19736,5,Villa,114,1917,
+Klintevej 314 4791 Borre,314,450000.0,28-02-1995,Alm.,3061,9,Servicevirksomhed,147,1875,
+Søndre Landevej 43 4791 Borre,43,77427.0,10-02-1995,Alm.,697,5,Villa,111,1875,
+Klintevej 424 4791 Borre,424,280000.0,26-09-1994,Alm.,3835,3,Villa,73,1960,
+Liselundvej 33 4791 Borre,33,259793.0,12-09-1994,Alm.,2854,4,Villa,91,1943,
+Klintevej 307 4791 Borre,307,115663.0,26-08-1994,Andet,1464,4,Villa,79,1800,
+Stendyssevej 8 4791 Borre,8,300000.0,14-07-1994,Alm.,3191,3,Villa,94,1946,
+Margrethevej 3 4791 Borre,3,666000.0,11-06-1994,Alm.,6403,4,Villa,104,1775,
+Sønderbyvej 24 4791 Borre,24,440000.0,08-05-1994,Alm.,2378,7,Villa,185,1890,
+Søndre Landevej 51 4791 Borre,51,349137.0,02-05-1994,Alm.,1419,10,Villa,246,1876,
+Margrethevej 4 4791 Borre,4,417000.0,21-04-1994,Alm.,0,2,Villa,130,1950,
+Mosesvinget 3 4791 Borre,3,65000.0,15-04-1994,Alm.,1160,2,Villa,56,1875,
+Margrethevej 18 4791 Borre,18,463000.0,22-03-1994,Alm.,3561,5,Villa,130,1945,
+Busenevej 32 4791 Borre,32,350000.0,12-03-1994,Alm.,2536,4,Villa,138,1934,
+Klintevej 362 4791 Borre,362,95000.0,09-02-1994,Alm.,766,4,Villa,124,1868,
+Klintholm Havnevej 10 4791 Borre,10,265000.0,06-12-1993,Alm.,2264,3,Villa,117,1951,
+Klintholm Havnevej 40 4791 Borre,40,750000.0,26-10-1993,Alm.,5859,5,Villa,128,1986,
+Sømarkevej 29 4791 Borre,29,325000.0,20-10-1993,Alm.,2321,5,Villa,140,1948,
+Klintevej 482 4791 Borre,482,534000.0,14-10-1993,Alm.,2934,6,Villa,182,1943,
+Ålebæk Strandvej 11 4791 Borre,11,385000.0,07-10-1993,Fam.,2127,5,Villa,181,1968,
+Mandehøjvej 1 4791 Borre,1,349520.0,06-10-1993,Alm.,0,6,Villa,217,1917,
+Busenevej 13 4791 Borre,13,260000.0,16-07-1993,Alm.,0,3,Villa,100,1957,
+Degnestræde 7 4791 Borre,7,260000.0,16-06-1993,Alm.,1830,4,Villa,142,1885,
+Sømarkevej 2 4791 Borre,2,380000.0,08-04-1993,Alm.,3064,5,Villa,124,1880,
+Sømarkevej 33 4791 Borre,33,340000.0,01-04-1993,Fam.,2446,7,Villa,139,1915,
+Skovstrædet 5 4791 Borre,5,268200.0,23-02-1993,Alm.,1836,4,Villa,146,1775,
+Rakkerbanken 2 4791 Borre,2,525000.0,22-02-1993,Alm.,0,6,Villa,181,1929,
+Klintevej 274 4791 Borre,274,395000.0,01-11-1992,Alm.,2862,3,Villa,138,1875,
+Busenevej 5 4791 Borre,5,430000.0,28-10-1992,Alm.,4300,3,Villa,100,1875,
+Kasperstræde 10 4791 Borre,10,635000.0,02-10-1992,Fam.,2939,7,Villa,216,1875,
+Søndre Landevej 126 4791 Borre,126,290000.0,25-08-1992,Alm.,3295,3,Villa,88,1875,
+Nørrebyvej 16 4791 Borre,16,430000.0,16-07-1992,Alm.,2687,4,Villa,160,1890,
+Gurkebakken 7 4791 Borre,7,513000.0,07-05-1992,Alm.,0,7,Villa,240,1890,
+Strædet 3 4791 Borre,3,226000.0,02-03-1992,Alm.,2152,3,Villa,105,1900,
+Svenskestræde 5 4791 Borre,5,193000.0,29-02-1992,Fam.,919,7,Villa,210,1909,

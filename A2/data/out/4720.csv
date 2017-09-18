@@ -1,0 +1,2304 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Bogfinkevej 6 4720 Præstø,6,1920000.0,18-05-2017,Alm.,8495,7,Villa,226,1912,-12 %
+"Torvestræde 3, 2. 15 4720 Præstø",15,385000.0,08-05-2017,Alm.,6525,2,Lejlighed,59,1807,
+Sneserevej 1 4720 Præstø,1,980000.0,01-05-2017,Alm.,10103,3,Villa,97,1850,1 %
+Vagtmestervej 6 4720 Præstø,6,425000.0,25-04-2017,Alm.,4009,4,Villa,106,1963,
+Askevænget 10 4720 Præstø,10,500000.0,22-04-2017,Alm.,7936,3,Sommerhus,63,1974,-9 %
+Lygtevej 10 4720 Præstø,10,267100.0,21-04-2017,Alm.,1894,4,Villa,141,1900,
+Klintestien 16 4720 Præstø,16,1238500.0,19-04-2017,Alm.,15878,4,Sommerhus,78,2008,
+Sneserevej 35 4720 Præstø,35,1325000.0,19-04-2017,Alm.,10515,3,Villa,126,1950,0 %
+Oregaardsvængevej 13 4720 Præstø,13,700000.0,18-04-2017,Alm.,12500,3,Sommerhus,56,1800,
+Neblevej 9 4720 Præstø,9,775000.0,17-04-2017,Alm.,6681,6,Sommerhus,116,1900,-8 %
+Hestehavevej 30 4720 Præstø,30,1225000.0,06-04-2017,Alm.,7903,5,Villa,155,1933,
+Hejrevej 1 4720 Præstø,1,1525000.0,04-04-2017,Alm.,7227,6,Villa,211,1977,-10 %
+Mosestien 35 4720 Præstø,35,450000.0,03-04-2017,Alm.,5921,4,Sommerhus,76,1967,-18 %
+Bøgevænget 26 4720 Præstø,26,276250.0,29-03-2017,Fam.,4003,3,Sommerhus,69,1977,
+"Strandvejen 4A, ST. TH 4720 Præstø",0,400000.0,28-03-2017,Alm.,5633,2,Lejlighed,71,1976,
+Bakkestien 7 4720 Præstø,7,635000.0,20-03-2017,Alm.,10409,5,Sommerhus,61,1971,
+Solsortvej 5 4720 Præstø,5,775000.0,17-03-2017,Alm.,14090,3,Sommerhus,55,1975,0 %
+Lillemarksvej 8A 4720 Præstø,0,935000.0,16-03-2017,Fam.,6317,4,Villa,148,1971,
+Antonivej 5A 4720 Præstø,0,825000.0,15-03-2017,Alm.,13306,2,Villa,62,1940,-3 %
+Duevangen 4 4720 Præstø,4,775000.0,09-03-2017,Alm.,8908,3,Villa,87,1924,-3 %
+Lupinvej 19 4720 Præstø,19,560000.0,08-03-2017,Alm.,13658,3,Sommerhus,41,1976,-6 %
+Næbvej 1C 4720 Præstø,0,1300000.0,08-03-2017,Alm.,7602,5,Villa,171,1972,-5 %
+Skovhusevej 14 4720 Præstø,14,995000.0,07-03-2017,Alm.,8883,3,Villa,112,1900,0 %
+Kohavevej 15 4720 Præstø,15,650000.0,23-02-2017,Alm.,6074,5,Sommerhus,107,1970,-6 %
+Snaphanevej 8 4720 Præstø,8,480000.0,23-02-2017,Alm.,4615,4,Villa,104,1962,
+Elmevej 7 4720 Præstø,7,1500000.0,16-02-2017,Fam.,10869,4,Villa,138,1967,
+Snaphanevej 7 4720 Præstø,7,1150000.0,15-02-2017,Alm.,10747,4,Villa,107,1963,-4 %
+Lillemarksvej 10 4720 Præstø,10,1360000.0,08-02-2017,Alm.,7311,7,Villa,186,1924,-6 %
+Roneklintvej 25 4720 Præstø,25,1695000.0,01-02-2017,Alm.,17121,4,Villa,99,2001,0 %
+Dyremarken 10 4720 Præstø,10,1525000.0,28-01-2017,Alm.,7625,5,Stuehus,200,1988,0 %
+Præstø Overdrev 7 4720 Præstø,7,6784000.0,26-01-2017,Alm.,42936,6,Stuehus,158,1865,
+Spurvevej 7 4720 Præstø,7,400000.0,25-01-2017,Fam.,2597,7,Villa,154,1966,
+Søtoftsvej 33 4720 Præstø,33,1725000.0,21-01-2017,Alm.,7012,10,Villa,246,1940,-9 %
+"Jernbanevej 14, ST. MF 4720 Præstø",0,900000.0,19-01-2017,Alm.,10227,2,Lejlighed,88,1907,
+Slåenvej 3 4720 Præstø,3,1350000.0,19-01-2017,Alm.,15168,4,Sommerhus,89,2006,-7 %
+Stavreby Strandvej 21 4720 Præstø,21,1875000.0,19-01-2017,Alm.,8012,8,Villa,234,1912,-6 %
+Svalevej 15 4720 Præstø,15,650000.0,13-01-2017,Alm.,10000,4,Sommerhus,65,1979,-13 %
+Skovhusevej 32 4720 Præstø,32,2750000.0,11-01-2017,Alm.,12168,6,Villa,226,2007,
+"Rådhusstræde 2B, ST 4720 Præstø",0,730000.0,11-01-2017,Alm.,10000,2,Lejlighed,73,1987,
+Fjordparken 22 4720 Præstø,22,1250000.0,06-01-2017,Alm.,10964,4,Rækkehus,114,1976,-3 %
+Præstevænget 1 4720 Præstø,1,1400000.0,03-01-2017,Alm.,8187,6,Villa,171,1961,-6 %
+Christinelundsvej 29 4720 Præstø,29,1595000.0,30-12-2016,Alm.,10777,4,Villa,148,1968,
+Søvej 3 4720 Præstø,3,1800000.0,13-12-2016,Alm.,8612,5,Villa,209,1877,
+Smidstrupvej 23 4720 Præstø,23,2295000.0,12-12-2016,Alm.,10245,9,Villa,224,1850,0 %
+Ibsvej 5 4720 Præstø,5,995000.0,08-12-2016,Alm.,9567,4,Villa,104,1964,0 %
+Rødegårdsvej 27 4720 Præstø,27,2195000.0,08-12-2016,Alm.,14633,5,Villa,150,1979,0 %
+Mønvej 78 4720 Præstø,78,440000.0,07-12-2016,Auktion,3333,4,Villa,132,1937,
+Mønvej 88 4720 Præstø,88,2695000.0,05-12-2016,Alm.,8292,10,Stuehus,325,1827,0 %
+Industrivej 3B 4720 Præstø,0,1550000.0,02-12-2016,Alm.,9687,6,Villa,160,1969,
+Kirkagerstræde 19 4720 Præstø,19,995000.0,01-12-2016,Alm.,7896,4,Villa,126,1975,0 %
+Hestehavevej 50B 4720 Præstø,0,1850000.0,29-11-2016,Alm.,7773,6,Villa,238,1951,-12 %
+Stavreby Strandvej 26 4720 Præstø,26,1380000.0,28-11-2016,Alm.,12321,4,Villa,112,1915,-5 %
+Evensølundvej 1 4720 Præstø,1,750000.0,24-11-2016,Alm.,5514,5,Villa,136,1920,-16 %
+Fjordparken 29 4720 Præstø,29,610000.0,16-11-2016,Alm.,10000,2,Rækkehus,61,1977,-11 %
+"Adelgade 105A, ST. TH 4720 Præstø",0,1275000.0,16-11-2016,Alm.,15178,2,Lejlighed,84,1956,
+Bygvænget 13 4720 Præstø,13,1450000.0,14-11-2016,Alm.,12393,3,Villa,117,1981,-13 %
+Enegaarde By 5 4720 Præstø,5,528000.0,11-11-2016,Alm.,6439,3,Villa,82,1966,-11 %
+Lindevej 36 4720 Præstø,36,2500000.0,10-11-2016,Alm.,14285,5,Villa,175,1930,-7 %
+Fredensvej 8 4720 Præstø,8,700000.0,09-11-2016,Alm.,6086,3,Villa,115,1977,0 %
+Mønvej 47 4720 Præstø,47,1100000.0,09-11-2016,Alm.,6250,5,Villa,176,1902,-12 %
+Gernersvej 26 4720 Præstø,26,1150000.0,08-11-2016,Alm.,8098,6,Villa,142,1969,0 %
+Kirsebærvej 34 4720 Præstø,34,800000.0,07-11-2016,Alm.,8163,3,Rækkehus,98,1981,-9 %
+Ronesstræde 16 4720 Præstø,16,675000.0,04-11-2016,Alm.,9121,3,Rækkehus,74,1987,-10 %
+Hjørnehusvej 4 4720 Præstø,4,79100.0,02-11-2016,Auktion,988,3,Villa,80,1900,
+Spangen 1 4720 Præstø,1,1910000.0,28-10-2016,Alm.,8842,6,Villa,216,1900,2 %
+Bygvænget 46 4720 Præstø,46,1750000.0,26-10-2016,Alm.,11217,5,Villa,156,1999,1 %
+Klosternakken 9 4720 Præstø,9,3625000.0,20-10-2016,Alm.,16939,6,Rækkehus,214,1902,
+"Ny Esbjergvej 1, ST. TH 4720 Præstø",0,475000.0,19-10-2016,Alm.,6168,2,Lejlighed,77,1895,-4 %
+"Jernbanevej 12C, 1 4720 Præstø",1,2350000.0,11-10-2016,Alm.,23979,3,Lejlighed,98,2006,-1 %
+Teglstrupvej 2 4720 Præstø,2,753000.0,11-10-2016,Andet,6024,5,Villa,125,1890,
+Næbvej 36 4720 Præstø,36,650000.0,07-10-2016,Alm.,4482,5,Villa,145,1887,-35 %
+"Jomfrustræde 3, 2. TV 4720 Præstø",0,900000.0,05-10-2016,Alm.,8823,3,Lejlighed,102,1872,-5 %
+"Jernbanevej 14, 1. 2 4720 Præstø",2,1175000.0,05-10-2016,Alm.,12634,2,Lejlighed,93,1907,-8 %
+Beldringevej 1 4720 Præstø,1,1100000.0,26-09-2016,Alm.,4888,6,Villa,225,1900,-29 %
+Skovhusevej 5 4720 Præstø,5,1325000.0,22-09-2016,Alm.,8128,4,Villa,163,1976,-5 %
+Mosestien 26 4720 Præstø,26,467500.0,21-09-2016,Alm.,9350,2,Sommerhus,50,2000,
+Tjørnehoved By 9 4720 Præstø,9,990000.0,19-09-2016,Alm.,9801,3,Villa,101,1900,-10 %
+Adelgade 126A 4720 Præstø,0,875000.0,19-09-2016,Alm.,6294,4,Lejlighed,139,1888,
+Birkevænget 16 4720 Præstø,16,715000.0,16-09-2016,Alm.,15212,3,Sommerhus,47,1975,0 %
+Elmevej 3 4720 Præstø,3,2250000.0,16-09-2016,Alm.,18442,3,Villa,122,1961,-2 %
+Duevangen 7 4720 Præstø,7,1450000.0,15-09-2016,Alm.,10902,4,Stuehus,133,1912,
+Tranevej 11 4720 Præstø,11,623300.0,13-09-2016,Fam.,4721,4,Villa,132,1976,
+"Jomfrustræde 3, ST. TV 4720 Præstø",0,650000.0,12-09-2016,Alm.,7471,3,Lejlighed,87,1872,
+Adelgade 16B 4720 Præstø,0,1100000.0,08-09-2016,Alm.,7236,4,Rækkehus,152,1897,-15 %
+Hastrupvej 10 4720 Præstø,10,800000.0,06-09-2016,Alm.,6956,4,Villa,115,1878,7 %
+Vesterbro 4 4720 Præstø,4,1005000.0,05-09-2016,Alm.,5646,6,Rækkehus,178,1827,-16 %
+Bygvænget 3 4720 Præstø,3,1330000.0,02-09-2016,Alm.,10640,5,Villa,125,1988,-1 %
+Mønvej 162 4720 Præstø,162,1450000.0,29-08-2016,Alm.,10139,4,Villa,143,1997,-9 %
+Svend Gøngesvej 31 4720 Præstø,31,895000.0,29-08-2016,Alm.,8287,4,Villa,108,1963,0 %
+Mislehøjvej 23 4720 Præstø,23,979505.0,24-08-2016,Alm.,9698,3,Stuehus,101,1924,
+"Torvet 16, ST. TV 4720 Præstø",0,620000.0,23-08-2016,Alm.,6739,3,Lejlighed,92,1827,-8 %
+Jungshovedvej 27A 4720 Præstø,0,500000.0,15-08-2016,Alm.,2777,6,Villa,180,1956,
+"Svend Gønges Torv 6, 1. TV 4720 Præstø",0,1350000.0,12-08-2016,Alm.,14835,2,Lejlighed,91,1853,0 %
+Uglevej 8 4720 Præstø,8,350000.0,11-08-2016,Alm.,3932,4,Sommerhus,89,1976,-22 %
+Fjordparken 11 4720 Præstø,11,1135000.0,06-08-2016,Alm.,9956,4,Rækkehus,114,1971,
+Bakkestien 22 4720 Præstø,22,1100000.0,05-08-2016,Alm.,11578,4,Sommerhus,95,1970,-15 %
+Fredensvej 22 4720 Præstø,22,1595000.0,04-08-2016,Alm.,7595,10,Villa,210,1977,-3 %
+Smedestræde 5 4720 Præstø,5,735000.0,28-07-2016,Alm.,6391,4,Villa,115,1900,-8 %
+Smidstrupvej 16 4720 Præstø,16,450000.0,27-07-2016,Alm.,5056,3,Villa,89,1897,0 %
+Stavreby Strandvej 38A 4720 Præstø,0,1300000.0,27-07-2016,Alm.,17333,4,Sommerhus,75,1996,-7 %
+Pilevænget 13 4720 Præstø,13,620000.0,26-07-2016,Alm.,13191,2,Sommerhus,47,1977,-4 %
+Ronesstræde 7 4720 Præstø,7,2350000.0,22-07-2016,Alm.,13428,5,Villa,175,2009,-1 %
+Gernersvej 13 4720 Præstø,13,550000.0,20-07-2016,Auktion,3716,4,Villa,148,1969,-29 %
+Ambæk Mark 9 4720 Præstø,9,95000.0,14-07-2016,Alm.,409,6,Stuehus,232,1912,
+Præstø Overdrev 20 4720 Præstø,20,2750000.0,14-07-2016,Alm.,10496,5,Villa,262,2007,-8 %
+Tubæk Møllevej 10 4720 Præstø,10,284147.0,13-07-2016,Auktion,4241,3,Villa,67,1964,
+Jungshovedvej 70 4720 Præstø,70,581745.0,11-07-2016,Fam.,5194,4,Villa,112,1951,
+Fjordparken 1 4720 Præstø,1,800000.0,10-07-2016,Alm.,7017,5,Rækkehus,114,1971,
+"Svend Gønges Torv 6, 1. TH 4720 Præstø",0,1325000.0,04-07-2016,Alm.,15406,2,Lejlighed,86,1853,0 %
+Kirkagerstræde 14 4720 Præstø,14,302100.0,30-06-2016,Alm.,2323,4,Villa,130,1900,
+Roneklintvej 6 4720 Præstø,6,560000.0,29-06-2016,Alm.,16000,3,Sommerhus,35,1961,-6 %
+Mislehøjvej 4 4720 Præstø,4,975000.0,27-06-2016,Alm.,6724,4,Villa,145,1966,-2 %
+Præstevænget 9 4720 Præstø,9,1050000.0,24-06-2016,Fam.,7664,5,Villa,137,1960,
+Dyrlevvej 11 4720 Præstø,11,2329500.0,24-06-2016,Andet,14743,6,Villa,158,1952,
+Skovhusevej 19 4720 Præstø,19,1225000.0,20-06-2016,Alm.,9074,5,Villa,135,1967,-9 %
+Adelgade 93A 4720 Præstø,0,800000.0,20-06-2016,Alm.,8602,3,Lejlighed,93,1820,
+Hjørnehusvej 28 4720 Præstø,28,950000.0,17-06-2016,Alm.,9313,4,Villa,102,1968,-5 %
+Bøgevænget 5 4720 Præstø,5,625000.0,10-06-2016,Alm.,10080,3,Sommerhus,62,1966,-4 %
+Bønsvig Strandvej 23 4720 Præstø,23,975000.0,09-06-2016,Alm.,9848,4,Sommerhus,99,1962,0 %
+"Hestehavevej 4, 1. TV 4720 Præstø",0,2684000.0,02-06-2016,Andet,26574,2,Lejlighed,101,1935,
+Kirkestræde 1 4720 Præstø,1,497000.0,02-06-2016,Fam.,2715,4,Villa,183,1972,
+Primulavej 13 4720 Præstø,13,100000.0,24-05-2016,Alm.,1408,4,Sommerhus,71,2017,-20 %
+Ugledigevej 15 4720 Præstø,15,800000.0,20-05-2016,Alm.,9523,4,Villa,84,1895,7 %
+Egebjergvej 6 4720 Præstø,6,4359000.0,18-05-2016,Alm.,12671,7,Stuehus,344,1877,46 %
+Antonivej 8 4720 Præstø,8,575000.0,17-05-2016,Alm.,5867,3,Villa,98,1961,-8 %
+Bygvænget 48 4720 Præstø,48,1270000.0,12-05-2016,Alm.,10409,4,Villa,122,1986,-2 %
+Hestehavevej 46 4720 Præstø,46,1530000.0,09-05-2016,Alm.,12644,4,Villa,121,1968,
+Aagesvej 17 4720 Præstø,17,1150000.0,06-05-2016,Alm.,8984,4,Villa,128,1967,0 %
+Rugvænget 13 4720 Præstø,13,1150000.0,04-05-2016,Alm.,10454,3,Villa,110,1992,
+Stavreby Strandvej 24C 4720 Præstø,0,700000.0,04-05-2016,Alm.,5691,4,Villa,123,1986,
+Svalevej 3 4720 Præstø,3,1000000.0,02-05-2016,Alm.,8771,5,Sommerhus,114,2004,-9 %
+"Jomfrustræde 6A, ST 4720 Præstø",0,500000.0,29-04-2016,Alm.,5882,3,Lejlighed,85,1932,
+Sneserevej 4 4720 Præstø,4,500000.0,29-04-2016,Alm.,5882,3,Villa,85,1827,-16 %
+Duevej 6 4720 Præstø,6,385000.0,27-04-2016,Alm.,8020,3,Sommerhus,48,1977,
+Drosselvej 7 4720 Præstø,7,860000.0,20-04-2016,Alm.,10617,3,Sommerhus,81,1980,
+Klosternakken 3 4720 Præstø,3,1584500.0,19-04-2016,Fam.,8851,6,Rækkehus,179,1850,
+Hestehavevej 7 4720 Præstø,7,3645000.0,16-04-2016,Alm.,18886,5,Villa,193,1964,-4 %
+Skovvangsvej 2 4720 Præstø,2,2300000.0,14-04-2016,Alm.,7692,12,Villa,299,1917,0 %
+"Adelgade 105A, 1. TH 4720 Præstø",0,1045000.0,13-04-2016,Alm.,14513,2,Lejlighed,72,1956,0 %
+"Adelgade 105A, 2. TH 4720 Præstø",0,995000.0,13-04-2016,Alm.,14420,2,Lejlighed,69,1956,
+Rugvænget 41 4720 Præstø,41,1375000.0,08-04-2016,Alm.,11178,3,Rækkehus,123,2001,0 %
+Gyvelvej 6 4720 Præstø,6,110000.0,07-04-2016,Fam.,3055,3,Sommerhus,36,1962,
+Pilevænget 5 4720 Præstø,5,525000.0,06-04-2016,Alm.,9210,3,Sommerhus,57,1983,-4 %
+Drosselvej 1 4720 Præstø,1,965000.0,04-04-2016,Alm.,14621,3,Sommerhus,66,1976,-3 %
+"Adelgade 32, 1. TV 4720 Præstø",0,600000.0,02-04-2016,Alm.,6122,2,Lejlighed,98,1986,
+Stavreby Strandvej 45B 4720 Præstø,0,1400000.0,31-03-2016,Alm.,7216,6,Villa,194,1979,
+Adelgade 105B 4720 Præstø,0,1275000.0,31-03-2016,Alm.,14655,3,Lejlighed,87,1956,
+Stavreby Strandvej 31C 4720 Præstø,0,322778.0,30-03-2016,Andet,4138,2,Stuehus,78,1850,
+Juulsvej 39 4720 Præstø,39,1700000.0,29-03-2016,Alm.,12977,4,Villa,131,1900,-5 %
+Rødegårdsvej 5 4720 Præstø,5,1475000.0,23-03-2016,Alm.,11174,4,Villa,132,1978,-8 %
+Stærevej 7 4720 Præstø,7,350000.0,19-03-2016,Alm.,6034,3,Sommerhus,58,1974,-18 %
+Bøged Strandvej 19 4720 Præstø,19,603675.0,16-03-2016,Andet,6036,5,Sommerhus,100,1969,
+Bøgevænget 20 4720 Præstø,20,350000.0,16-03-2016,Alm.,5072,4,Sommerhus,69,1965,-11 %
+Svalevej 7 4720 Præstø,7,289000.0,16-03-2016,Alm.,4982,3,Sommerhus,58,1975,
+Mønvej 128 4720 Præstø,128,900000.0,15-03-2016,Alm.,2307,9,Villa,390,1913,-40 %
+Egebjergvej 18 4720 Præstø,18,400000.0,14-03-2016,Alm.,4000,4,Villa,100,1897,-27 %
+Smedestræde 4 4720 Præstø,4,600000.0,11-03-2016,Alm.,4918,3,Villa,122,1887,-7 %
+Ved Gadekæret 4 4720 Præstø,4,1115000.0,07-03-2016,Alm.,8198,5,Villa,136,1972,-7 %
+"Adelgade 105A, 2. TV 4720 Præstø",0,845000.0,04-03-2016,Alm.,16568,2,Lejlighed,51,1956,
+"Ny Esbjergvej 1, 1 4720 Præstø",1,260610.0,03-03-2016,Alm.,2171,3,Lejlighed,120,1895,
+"Adelgade 105A, ST. TV 4720 Præstø",0,1225000.0,02-03-2016,Alm.,14583,2,Lejlighed,84,1956,0 %
+"Adelgade 105A, 1. TV 4720 Præstø",0,845000.0,02-03-2016,Alm.,15363,2,Lejlighed,55,1956,0 %
+Jungshovedvej 27 4720 Præstø,27,695000.0,01-03-2016,Alm.,5791,5,Villa,120,1777,-13 %
+Lindevej 40 4720 Præstø,40,850000.0,24-02-2016,Alm.,10365,3,Villa,82,1959,-5 %
+Hestehavevej 90 4720 Præstø,90,887500.0,22-02-2016,Fam.,7043,4,Villa,126,1998,
+"Jomfrustræde 3, ST. TH 4720 Præstø",0,600000.0,16-02-2016,Alm.,6976,3,Lejlighed,86,1872,-7 %
+Fjordparken 23 4720 Præstø,23,600000.0,12-02-2016,Alm.,5263,4,Rækkehus,114,1976,-25 %
+"Jungshovedvej 51, 1 4720 Præstø",1,60000.0,11-02-2016,Alm.,447,4,Anden beboelse,134,1938,
+Tubæk 1 4720 Præstø,1,800000.0,11-02-2016,Andet,6015,7,Stuehus,133,1982,
+Bygvænget 9 4720 Præstø,9,985000.0,06-02-2016,Alm.,10478,4,Villa,94,1981,-1 %
+Rekkendevej 6 4720 Præstø,6,1900000.0,04-02-2016,Alm.,6810,8,Villa,279,1942,-3 %
+Bøgevænget 11 4720 Præstø,11,1650000.0,03-02-2016,Alm.,31730,3,Sommerhus,52,1971,
+"Strandvejen 4A, 1. TV 4720 Præstø",0,465000.0,02-02-2016,Alm.,5109,4,Lejlighed,91,1976,-6 %
+Hestehavevej 77 4720 Præstø,77,2600000.0,20-01-2016,Alm.,19402,6,Villa,134,1912,4 %
+Hjørnehusvej 24 4720 Præstø,24,1550000.0,20-01-2016,Alm.,14903,4,Villa,104,1970,0 %
+Nihøjvej 1 4720 Præstø,1,795000.0,20-01-2016,Auktion,4732,6,Villa,168,1777,
+Søtoftsvej 24 4720 Præstø,24,1075000.0,16-01-2016,Alm.,9188,4,Villa,117,1950,-10 %
+Spurvevej 5 4720 Præstø,5,1250000.0,15-01-2016,Fam.,10775,4,Villa,116,1964,
+Strandgårdsvej 4 4720 Præstø,4,1300000.0,14-01-2016,Fam.,10156,4,Villa,128,1972,
+Næstvedvej 51 4720 Præstø,51,495000.0,12-01-2016,Alm.,1706,8,Villa,290,1930,0 %
+Smidstrupvej 10 4720 Præstø,10,677500.0,07-01-2016,Alm.,5211,4,Stuehus,130,1876,
+Egebjergvej 8 4720 Præstø,8,519330.0,05-01-2016,Fam.,3994,5,Villa,130,1877,-42 %
+Klintestien 32 4720 Præstø,32,1615000.0,23-12-2015,Fam.,19226,4,Sommerhus,84,1965,
+Egevænget 13 4720 Præstø,13,321250.0,22-12-2015,Fam.,5736,3,Sommerhus,56,1974,
+Egelyvej 1 4720 Præstø,1,2020000.0,22-12-2015,Alm.,13032,5,Villa,155,1987,-4 %
+Havnevej 12K 4720 Præstø,0,1145000.0,14-12-2015,Alm.,9786,4,Rækkehus,117,1879,0 %
+"Torvet 16, 1. TH 4720 Præstø",0,400000.0,10-12-2015,Alm.,6896,3,Lejlighed,58,1827,
+Rødegårdsvej 49 4720 Præstø,49,775000.0,10-12-2015,Alm.,0,6,Villa,206,1983,
+Bøgebjergvej 2 4720 Præstø,2,1325000.0,10-12-2015,Alm.,12155,3,Villa,109,1921,-1 %
+Fjordvej 7 4720 Præstø,7,920000.0,09-12-2015,Alm.,9387,4,Villa,98,1939,-8 %
+"Kittenstræde 2, 1. TH 4720 Præstø",0,975000.0,08-12-2015,Alm.,11079,2,Lejlighed,88,1916,-11 %
+Rødeledvej 18 4720 Præstø,18,432000.0,04-12-2015,Alm.,3600,3,Villa,120,1914,
+Adelgade 110 4720 Præstø,110,1385000.0,04-12-2015,Alm.,14132,6,Rækkehus,98,1805,0 %
+Skovhusevej 7 4720 Præstø,7,640000.0,02-12-2015,Fam.,4413,4,Villa,145,1976,
+Mønvej 107 4720 Præstø,107,90000.0,28-11-2015,Alm.,1022,3,Villa,88,1777,
+"Kittenstræde 2, ST. TV 4720 Præstø",0,725000.0,26-11-2015,Alm.,10357,2,Lejlighed,70,1916,
+Adelgade 150 4720 Præstø,150,1445000.0,25-11-2015,Alm.,7810,6,Rækkehus,185,1900,-9 %
+Smidstrupvej 27 4720 Præstø,27,165950.0,18-11-2015,Auktion,1659,4,Villa,100,1900,
+Østerbro 1 4720 Præstø,1,1100000.0,16-11-2015,Alm.,11340,3,Rækkehus,97,1900,
+Uglevej 3 4720 Præstø,3,600000.0,15-11-2015,Alm.,6250,4,Sommerhus,96,2006,
+Fredensvej 10 4720 Præstø,10,1495000.0,14-11-2015,Alm.,9966,5,Villa,150,1978,-6 %
+Klintestien 14 4720 Præstø,14,1010764.0,13-11-2015,Andet,22971,2,Sommerhus,44,1960,
+"Kittenstræde 2, 1. TV 4720 Præstø",0,1675000.0,09-11-2015,Alm.,11964,3,Lejlighed,140,1916,0 %
+Mønvej 106 4720 Præstø,106,435000.0,04-11-2015,Alm.,3782,4,Villa,115,1880,
+Askevænget 1 4720 Præstø,1,660000.0,02-11-2015,Alm.,9850,5,Sommerhus,67,1977,-5 %
+"Torvestræde 3, 2. 14 4720 Præstø",14,750000.0,28-10-2015,Alm.,7075,4,Lejlighed,106,1807,0 %
+Solsortvej 3 4720 Præstø,3,650000.0,28-10-2015,Alm.,9285,4,Sommerhus,70,1985,-18 %
+Næbvej 18 4720 Præstø,18,868993.0,25-10-2015,Fam.,6343,4,Villa,137,1969,-44 %
+Klintestien 26 4720 Præstø,26,666000.0,21-10-2015,Fam.,17526,3,Sommerhus,38,1960,
+Vagtmestervej 8 4720 Præstø,8,800000.0,08-10-2015,Alm.,5369,4,Villa,149,1964,-11 %
+Lærkevej 3 4720 Præstø,3,290000.0,08-10-2015,Fam.,5272,3,Sommerhus,55,1975,
+Rosagervej 11 4720 Præstø,11,840000.0,08-10-2015,Alm.,5793,4,Villa,145,1934,-7 %
+Bøgevænget 14 4720 Præstø,14,715000.0,07-10-2015,Alm.,9930,4,Sommerhus,72,1967,-4 %
+Bøged Strandvej 17 4720 Præstø,17,322000.0,03-10-2015,Alm.,11500,2,Sommerhus,28,1956,
+Stavreby Strandvej 8 4720 Præstø,8,875000.0,03-10-2015,Alm.,4605,7,Villa,190,1927,0 %
+Hejrevej 11 4720 Præstø,11,875000.0,02-10-2015,Alm.,7954,4,Villa,110,1977,-10 %
+Pilevænget 7 4720 Præstø,7,380000.0,01-10-2015,Alm.,8837,3,Sommerhus,43,1975,-11 %
+Æblevej 4 4720 Præstø,4,1995000.0,01-10-2015,Alm.,28098,3,Villa,71,1917,
+Torvet 19 4720 Præstø,19,2500000.0,28-09-2015,Alm.,13297,5,Rækkehus,188,1847,-19 %
+Drosselvej 10 4720 Præstø,10,1850000.0,25-09-2015,Alm.,17129,4,Sommerhus,108,1976,-7 %
+Egevej 6 4720 Præstø,6,1350000.0,24-09-2015,Alm.,8653,6,Villa,156,1960,0 %
+Vibevej 3 4720 Præstø,3,1055000.0,18-09-2015,Alm.,10047,4,Villa,105,1973,-8 %
+Ugledigevej 44 4720 Præstø,44,2650000.0,18-09-2015,Alm.,14247,7,Villa,186,2005,-5 %
+Abildhøjparken 92 4720 Præstø,92,1725000.0,17-09-2015,Alm.,8293,5,Villa,208,2006,-9 %
+Oregaardsvængevej 7 4720 Præstø,7,685000.0,17-09-2015,Alm.,7696,3,Villa,89,1877,-21 %
+Hastrupvej 26 4720 Præstø,26,250000.0,16-09-2015,Auktion,1923,4,Villa,130,1800,-15 %
+Abildhøjparken 90 4720 Præstø,90,1875000.0,14-09-2015,Alm.,9146,5,Villa,205,2005,-6 %
+Torvet 3 4720 Præstø,3,2150000.0,09-09-2015,Alm.,14144,5,Rækkehus,152,1938,-4 %
+Rugvænget 45 4720 Præstø,45,1325000.0,31-08-2015,Alm.,10772,3,Rækkehus,123,2001,-4 %
+Tubæk Møllevej 12 4720 Præstø,12,795000.0,28-08-2015,Alm.,5264,4,Villa,151,1964,0 %
+"Jernbanevej 12B, 1 4720 Præstø",1,2250000.0,26-08-2015,Alm.,23195,3,Lejlighed,97,2006,-6 %
+Bygvænget 47 4720 Præstø,47,1498000.0,24-08-2015,Alm.,11096,5,Villa,135,1986,0 %
+"Adelgade 1, 1 4720 Præstø",1,575000.0,23-08-2015,Alm.,5528,3,Rækkehus,104,1900,-8 %
+Christinelundsvej 1 4720 Præstø,1,1270000.0,19-08-2015,Auktion,6978,7,Villa,182,1927,
+Pilevænget 4 4720 Præstø,4,995000.0,16-08-2015,Alm.,8223,3,Sommerhus,121,2003,0 %
+Hjørnehusvej 22 4720 Præstø,22,750000.0,14-08-2015,Andet,4437,8,Villa,169,1972,
+Th. Hansensvej 22 4720 Præstø,22,795000.0,12-08-2015,Auktion,7871,3,Villa,101,1962,14 %
+Fuglsangvej 13 4720 Præstø,13,3500000.0,12-08-2015,Alm.,16746,4,Stuehus,209,1875,0 %
+Birkevænget 4 4720 Præstø,4,368000.0,10-08-2015,Fam.,5257,3,Sommerhus,70,1974,
+Næstvedvej 65 4720 Præstø,65,210000.0,06-08-2015,Alm.,2530,3,Villa,83,1902,
+Hybenvej 18 4720 Præstø,18,639300.0,06-08-2015,Fam.,9989,4,Sommerhus,64,1968,
+Rødegårdsvej 29 4720 Præstø,29,1595000.0,04-08-2015,Alm.,12559,5,Villa,127,1978,0 %
+"Jernbanevej 12A, 1 4720 Præstø",1,2550000.0,04-08-2015,Alm.,22566,3,Lejlighed,113,2006,0 %
+Roneklintvej 21 4720 Præstø,21,122676.0,04-08-2015,Fam.,1066,5,Villa,115,1877,
+Rosagervej 30 4720 Præstø,30,875000.0,03-08-2015,Alm.,7812,3,Villa,112,1965,0 %
+"Strandvejen 4A, ST. TV 4720 Præstø",0,515000.0,31-07-2015,Alm.,5722,3,Lejlighed,90,1976,-2 %
+Christinelundsvej 33 4720 Præstø,33,950000.0,31-07-2015,Alm.,9134,4,Villa,104,1971,-5 %
+Skolegårdsvej 7 4720 Præstø,7,975000.0,29-07-2015,Alm.,6587,6,Villa,148,1973,-2 %
+"Strandvejen 4, 1. TV 4720 Præstø",0,485000.0,28-07-2015,Alm.,6554,2,Lejlighed,74,1976,0 %
+Winsløwsvej 1 4720 Præstø,1,850000.0,23-07-2015,Alm.,6800,3,Villa,125,1960,-5 %
+Stavreby Strandvej 45 4720 Præstø,45,1295000.0,17-07-2015,Alm.,7529,6,Stuehus,172,1963,0 %
+Strandgårdsvej 23 4720 Præstø,23,1675000.0,15-07-2015,Alm.,9571,5,Villa,175,1971,-1 %
+Egevænget 9 4720 Præstø,9,427500.0,14-07-2015,Fam.,7245,4,Sommerhus,59,1975,-14 %
+Neblevej 13 4720 Præstø,13,1300000.0,07-07-2015,Alm.,10156,4,Sommerhus,128,1880,
+Hestehavevej 48 4720 Præstø,48,2995000.0,01-07-2015,Alm.,11092,6,Villa,270,1973,0 %
+Hestehavevej 16 4720 Præstø,16,1300000.0,29-06-2015,Fam.,12500,4,Villa,104,1966,
+Hjørnehusvej 26 4720 Præstø,26,1195000.0,19-06-2015,Alm.,6530,7,Villa,183,1971,0 %
+Vagtelvej 5 4720 Præstø,5,665000.0,17-06-2015,Alm.,13300,3,Sommerhus,50,1977,-4 %
+Bønsvig Strandvej 6C 4720 Præstø,0,2275000.0,10-06-2015,Alm.,19956,3,Sommerhus,114,2003,-3 %
+Jungshovedvej 96 4720 Præstø,96,300000.0,08-06-2015,Alm.,4166,2,Sommerhus,72,1900,
+Svanevej 3 4720 Præstø,3,1025000.0,07-06-2015,Alm.,7706,5,Villa,133,1966,-14 %
+Duevej 18 4720 Præstø,18,252878.0,03-06-2015,Alm.,7902,2,Sommerhus,32,1978,
+Bygvænget 41 4720 Præstø,41,1275000.0,03-06-2015,Alm.,10365,5,Villa,123,1987,-9 %
+Fjordparken 12 4720 Præstø,12,925000.0,01-06-2015,Alm.,8114,4,Rækkehus,114,1972,-7 %
+Jungshovedvej 61 4720 Præstø,61,1375000.0,27-05-2015,Alm.,11554,4,Stuehus,119,1900,-5 %
+Lindevej 1 4720 Præstø,1,1775000.0,19-05-2015,Alm.,13345,5,Villa,133,1922,0 %
+Hovmarken 7A 4720 Præstø,0,600000.0,19-05-2015,Alm.,3448,5,Villa,174,1990,-11 %
+"Rådhusstræde 2C, ST. TV 4720 Præstø",0,595000.0,16-05-2015,Alm.,8500,2,Lejlighed,70,1987,0 %
+Stærevej 2 4720 Præstø,2,790000.0,15-05-2015,Alm.,11617,2,Sommerhus,68,1975,
+Præstevænget 13 4720 Præstø,13,1560000.0,13-05-2015,Alm.,7323,9,Villa,213,1965,0 %
+Gyvelvej 5 4720 Præstø,5,500000.0,06-05-2015,Alm.,9090,2,Sommerhus,55,1968,
+Søtoftsvej 9A 4720 Præstø,0,1164355.0,05-05-2015,Alm.,5492,8,Villa,212,1963,
+Over Lyngen 15 4720 Præstø,15,650000.0,28-04-2015,Alm.,7926,3,Villa,82,1877,-6 %
+Hovedvejen 128 4720 Præstø,128,4800000.0,22-04-2015,Alm.,17777,9,Stuehus,270,1928,-23 %
+Mønvej 120B 4720 Præstø,0,860000.0,21-04-2015,Alm.,5000,5,Villa,172,2001,-3 %
+Parkvej 10 4720 Præstø,10,841680.0,21-04-2015,Fam.,4837,5,Villa,174,1887,
+Christinelundsvej 35 4720 Præstø,35,835000.0,16-04-2015,Alm.,5964,6,Villa,140,1967,0 %
+Enegaarde By 1 4720 Præstø,1,2110000.0,27-03-2015,Andet,9419,5,Villa,224,1980,-22 %
+Klintestien 9 4720 Præstø,9,945000.0,27-03-2015,Alm.,8750,5,Sommerhus,108,1979,0 %
+Klintestien 12 4720 Præstø,12,900000.0,26-03-2015,Fam.,15000,4,Sommerhus,60,1959,
+Fjordparken 18 4720 Præstø,18,1250000.0,23-03-2015,Alm.,10964,4,Rækkehus,114,1974,
+Vibevej 7 4720 Præstø,7,1075000.0,23-03-2015,Alm.,7962,5,Villa,135,1973,-14 %
+Egebjergvej 3 4720 Præstø,3,150000.0,23-03-2015,Alm.,0,5,Villa,154,1900,-62 %
+Bøgevænget 24 4720 Præstø,24,208250.0,21-03-2015,Fam.,2570,4,Sommerhus,81,1975,
+Hestehavevej 6 4720 Præstø,6,1200000.0,13-03-2015,Alm.,11650,3,Villa,103,1937,0 %
+Hestehavevej 92 4720 Præstø,92,1535000.0,11-03-2015,Alm.,14481,4,Villa,106,1925,-4 %
+Svalevej 19 4720 Præstø,19,512500.0,11-03-2015,Alm.,8541,4,Sommerhus,60,2003,-14 %
+Mønvej 3 4720 Præstø,3,490000.0,04-03-2015,Auktion,4049,3,Villa,121,1897,
+Gyvelvej 12 4720 Præstø,12,675000.0,02-03-2015,Fam.,5532,4,Sommerhus,122,2004,
+Stavreby Strandvej 50 4720 Præstø,50,1000000.0,25-02-2015,Alm.,6535,4,Villa,153,1906,0 %
+Dyrlevvej 6 4720 Præstø,6,650000.0,25-02-2015,Alm.,5701,4,Villa,114,1910,-55 %
+Gernersvej 17 4720 Præstø,17,550000.0,23-02-2015,Alm.,4583,4,Villa,120,1971,-21 %
+Torvet 11 4720 Præstø,11,3450000.0,18-02-2015,Alm.,14256,8,Rækkehus,242,1830,
+Beldringevej 6 4720 Præstø,6,1500000.0,16-02-2015,Fam.,10714,5,Stuehus,140,1924,
+Ternevej 3 4720 Præstø,3,1650000.0,10-02-2015,Alm.,9482,5,Villa,174,1972,-8 %
+Fjordparken 6 4720 Præstø,6,650000.0,09-02-2015,Alm.,5701,4,Rækkehus,114,1971,0 %
+Mosestien 1 4720 Præstø,1,850000.0,09-02-2015,Alm.,10759,4,Sommerhus,79,1970,
+Hestehavevej 70 4720 Præstø,70,1950000.0,06-02-2015,Fam.,12264,6,Villa,159,1954,
+Lovgårdsvej 6 4720 Præstø,6,995000.0,04-02-2015,Alm.,4760,6,Villa,209,1961,0 %
+Vesterbro 41 4720 Præstø,41,875000.0,03-02-2015,Alm.,10294,3,Rækkehus,85,1984,-10 %
+Egebjergvej 12 4720 Præstø,12,250000.0,01-02-2015,Alm.,1785,5,Villa,140,1827,-16 %
+Tranevej 10 4720 Præstø,10,1018000.0,30-01-2015,Alm.,7069,5,Villa,144,1976,-5 %
+Grønnegade 3 4720 Præstø,3,3350000.0,26-01-2015,Alm.,10668,10,Rækkehus,314,1827,-11 %
+Fredensvej 15 4720 Præstø,15,995000.0,19-01-2015,Alm.,7056,4,Villa,141,1978,0 %
+Roneklintvej 38 4720 Præstø,38,1062500.0,19-01-2015,Fam.,9239,4,Villa,115,1750,
+Kirkagerstræde 8 4720 Præstø,8,225000.0,17-01-2015,Alm.,2064,4,Villa,109,1962,0 %
+Bygvænget 42 4720 Præstø,42,1835000.0,15-01-2015,Alm.,12072,5,Villa,152,1989,-3 %
+Ternevej 21 4720 Præstø,21,1320000.0,14-01-2015,Alm.,9428,5,Villa,140,1974,-2 %
+Bygvænget 16 4720 Præstø,16,280239.0,05-01-2015,Alm.,2436,4,Villa,115,1980,
+Hejrevej 2 4720 Præstø,2,1210000.0,30-12-2014,Alm.,6836,6,Villa,177,1976,-7 %
+Lærkevej 12 4720 Præstø,12,290500.0,19-12-2014,Fam.,7262,2,Sommerhus,40,1975,
+Hestehavevej 103 4720 Præstø,103,1361126.0,19-12-2014,Andet,7357,6,Villa,185,1899,
+"Jomfrustræde 6, 1. TV 4720 Præstø",0,750000.0,18-12-2014,Alm.,5208,5,Lejlighed,144,1932,-21 %
+Tjørnehoved By 23 4720 Præstø,23,295000.0,17-12-2014,Auktion,2565,3,Villa,115,1800,
+Rugvænget 27 4720 Præstø,27,1175000.0,14-12-2014,Alm.,9400,5,Villa,125,1990,-2 %
+Fredensvej 3 4720 Præstø,3,795000.0,11-12-2014,Alm.,6913,4,Villa,115,1978,-11 %
+"Rådhusstræde 2C, 1. TV 4720 Præstø",0,300000.0,11-12-2014,Alm.,5769,1,Lejlighed,52,1987,-14 %
+Ternevej 4 4720 Præstø,4,995000.0,10-12-2014,Alm.,7316,5,Villa,136,1974,0 %
+Roneklintvej 7 4720 Præstø,7,1175000.0,03-12-2014,Auktion,6952,6,Stuehus,169,1941,-35 %
+Roneklintvej 42 4720 Præstø,42,4600000.0,03-12-2014,Auktion,6695,14,Stuehus,687,1867,-67 %
+Roneklintvej 42A 4720 Præstø,0,4600000.0,03-12-2014,Auktion,88461,2,Sommerhus,52,1880,
+Aagesvej 23 4720 Præstø,23,550000.0,30-11-2014,Alm.,3179,5,Villa,173,1971,
+Skovhusevej 21 4720 Præstø,21,795000.0,28-11-2014,Alm.,6068,4,Villa,131,1969,-6 %
+Hejrevej 22 4720 Præstø,22,634500.0,28-11-2014,Fam.,3429,5,Villa,185,1980,
+Industrivej 4 4720 Præstø,4,2650000.0,28-11-2014,Alm.,13802,5,Villa,192,1973,
+Hastrupvej 30 4720 Præstø,30,1050000.0,27-11-2014,Alm.,4906,5,Villa,214,1904,0 %
+Enegaarde By 18 4720 Præstø,18,1025000.0,20-11-2014,Alm.,0,5,Villa,209,1857,0 %
+Duevangen 5 4720 Præstø,5,545000.0,19-11-2014,Auktion,2511,4,Villa,217,1877,
+Næstvedvej 41 4720 Præstø,41,700000.0,18-11-2014,Alm.,8333,4,Villa,84,1928,
+Slåenvej 8 4720 Præstø,8,1050000.0,14-11-2014,Alm.,11666,4,Sommerhus,90,2008,-12 %
+Hjørnehusvej 15 4720 Præstø,15,1645000.0,13-11-2014,Alm.,11267,5,Villa,146,1971,0 %
+Jungshovedvej 94 4720 Præstø,94,240000.0,11-11-2014,Alm.,2580,4,Villa,93,1827,-26 %
+Hastrupvej 18 4720 Præstø,18,600000.0,11-11-2014,Alm.,4000,6,Villa,150,1827,-25 %
+Industrivej 10 4720 Præstø,10,1150000.0,11-11-2014,Alm.,7187,5,Villa,160,1975,-11 %
+Mosestien 23 4720 Præstø,23,450500.0,04-11-2014,Fam.,10726,3,Sommerhus,42,1974,
+Dyremarken 16 4720 Præstø,16,945000.0,31-10-2014,Alm.,9356,3,Villa,101,1952,-14 %
+Grønnegade 8 4720 Præstø,8,789408.0,30-10-2014,Alm.,5891,4,Rækkehus,134,1775,-53 %
+Ellemosevej 11 4720 Præstø,11,862000.0,23-10-2014,Alm.,5256,5,Villa,164,1970,
+Rugvænget 53 4720 Præstø,53,1030000.0,23-10-2014,Alm.,8373,3,Rækkehus,123,2001,0 %
+Bøgevænget 6 4720 Præstø,6,690000.0,21-10-2014,Alm.,10000,4,Sommerhus,69,1971,-3 %
+Rødegårdsvej 81 4720 Præstø,81,1100000.0,21-10-2014,Alm.,9090,4,Villa,121,1978,-4 %
+Østerbro 6 4720 Præstø,6,1250000.0,21-10-2014,Alm.,8278,5,Villa,151,1961,-3 %
+Skovgårdsvej 7 4720 Præstø,7,600000.0,16-10-2014,Alm.,3370,8,Villa,178,1905,
+Bakkestien 29 4720 Præstø,29,300000.0,11-10-2014,Alm.,8823,2,Sommerhus,34,1969,
+Jungshovedvej 98 4720 Præstø,98,1600000.0,10-10-2014,Alm.,5818,7,Stuehus,275,1875,
+Næstvedvej 67 4720 Præstø,67,315000.0,07-10-2014,Alm.,3620,3,Villa,87,1965,0 %
+Fyrrevænget 4 4720 Præstø,4,476000.0,07-10-2014,Fam.,7555,3,Sommerhus,63,1966,
+Drosselvej 8 4720 Præstø,8,1475000.0,03-10-2014,Alm.,24583,4,Sommerhus,60,1975,-5 %
+Fjordparken 20 4720 Præstø,20,650000.0,02-10-2014,Alm.,5701,4,Rækkehus,114,1976,-10 %
+Smidstrupvej 51 4720 Præstø,51,800000.0,01-10-2014,Fam.,4938,6,Villa,162,1924,-9 %
+Hestehavevej 32 4720 Præstø,32,2100000.0,29-09-2014,Alm.,13125,6,Villa,160,1946,-1 %
+Faksevej 6 4720 Præstø,6,1500000.0,25-09-2014,Alm.,13636,4,Stuehus,110,1924,
+Fuglsangvej 14 4720 Præstø,14,208250.0,24-09-2014,Fam.,2933,3,Villa,71,1872,
+Næstvedvej 29 4720 Præstø,29,180000.0,18-09-2014,Alm.,2000,3,Villa,90,1965,
+Faksinge By 4 4720 Præstø,4,275000.0,15-09-2014,Fam.,3481,3,Villa,79,1852,
+Strandstien 14 4720 Præstø,14,2000000.0,13-09-2014,Alm.,12658,4,Villa,158,1999,0 %
+"Torvestræde 3, ST. 3 4720 Præstø",3,325000.0,12-09-2014,Alm.,6500,1,Lejlighed,50,1807,
+Pilevænget 16 4720 Præstø,16,400000.0,12-09-2014,Alm.,8510,2,Sommerhus,47,1999,-11 %
+Grundtvigsvej 5 4720 Præstø,5,525000.0,09-09-2014,Alm.,5147,4,Villa,102,1961,-22 %
+Bøgevænget 1 4720 Præstø,1,405274.0,07-09-2014,Alm.,4503,4,Sommerhus,90,1966,
+Smidstrupvej 49 4720 Præstø,49,520000.0,04-09-2014,Alm.,2352,9,Villa,221,1905,
+Rødegårdsvej 59 4720 Præstø,59,860000.0,03-09-2014,Alm.,7543,4,Villa,114,1978,0 %
+Mønvej 91 4720 Præstø,91,489000.0,03-09-2014,Alm.,3761,5,Villa,130,1910,
+Bøgevænget 16 4720 Præstø,16,625000.0,29-08-2014,Alm.,8333,3,Sommerhus,75,1994,0 %
+Mislehøjvej 16 4720 Præstø,16,1125000.0,29-08-2014,Alm.,10044,5,Stuehus,112,1897,0 %
+Kragevej 11 4720 Præstø,11,180000.0,29-08-2014,Alm.,1592,5,Sommerhus,113,2015,-23 %
+Søtoftsvej 1 4720 Præstø,1,1495000.0,28-08-2014,Alm.,9285,6,Villa,161,1925,0 %
+Syrenvej 2 4720 Præstø,2,1340000.0,21-08-2014,Alm.,14565,1,Sommerhus,92,2005,-4 %
+Tingvej 2 4720 Præstø,2,4462500.0,19-08-2014,Fam.,23486,8,Stuehus,190,1880,
+Egebjergvej 5 4720 Præstø,5,2000000.0,18-08-2014,Andet,15503,3,Stuehus,129,1912,
+Juulsvej 23 4720 Præstø,23,1625000.0,14-08-2014,Alm.,10483,6,Villa,155,1988,-3 %
+Svalevej 29 4720 Præstø,29,410000.0,08-08-2014,Alm.,6833,4,Sommerhus,60,1983,-17 %
+Gernersvej 32 4720 Præstø,32,960000.0,08-08-2014,Alm.,8571,4,Villa,112,1975,-4 %
+Rødegårdsvej 21 4720 Præstø,21,806205.0,06-08-2014,Alm.,5971,5,Villa,135,1978,
+Kohavevej 19 4720 Præstø,19,575000.0,05-08-2014,Alm.,7278,3,Sommerhus,79,1976,-12 %
+Ronesbanke 5 4720 Præstø,5,650000.0,31-07-2014,Alm.,5158,4,Villa,126,1980,-10 %
+Mønvej 44 4720 Præstø,44,225000.0,24-07-2014,Alm.,2122,5,Villa,106,1899,-24 %
+Fjordparken 2 4720 Præstø,2,925000.0,24-07-2014,Alm.,8114,4,Rækkehus,114,1971,-7 %
+Hestehavevej 34 4720 Præstø,34,995000.0,08-07-2014,Alm.,4671,6,Villa,213,2016,0 %
+Lærkevej 18 4720 Præstø,18,610000.0,07-07-2014,Alm.,8356,4,Sommerhus,73,1975,-13 %
+Spættevej 10 4720 Præstø,10,363000.0,04-07-2014,Alm.,6258,3,Sommerhus,58,1998,-8 %
+Bønsvig Strandvej 5 4720 Præstø,5,362500.0,30-06-2014,Alm.,15104,2,Sommerhus,24,1900,
+Ellemosevej 22 4720 Præstø,22,950000.0,30-06-2014,Alm.,6597,4,Villa,144,1968,-16 %
+Ronesbanke 17 4720 Præstø,17,1700000.0,25-06-2014,Fam.,5666,10,Stuehus,300,1925,
+Ørnevej 16 4720 Præstø,16,625000.0,19-06-2014,Alm.,12500,3,Sommerhus,50,1992,0 %
+Kirkagerstræde 9 4720 Præstø,9,850000.0,14-06-2014,Alm.,6910,4,Villa,123,1974,-5 %
+Egevænget 7 4720 Præstø,7,425000.0,13-06-2014,Alm.,6159,4,Sommerhus,69,1979,-22 %
+Bygvænget 12 4720 Præstø,12,612500.0,12-06-2014,Andet,4138,5,Villa,148,1980,
+Rosagervej 13 4720 Præstø,13,420000.0,11-06-2014,Auktion,4666,2,Villa,90,1927,
+"Rådhusstræde 2C, ST. TH 4720 Præstø",0,665000.0,10-06-2014,Alm.,9500,2,Lejlighed,70,1987,-1 %
+Kragevigvej 6 4720 Præstø,6,1595000.0,08-06-2014,Alm.,6875,7,Villa,232,1909,0 %
+Bøgevænget 28 4720 Præstø,28,755000.0,06-06-2014,Alm.,9556,4,Sommerhus,79,1973,-5 %
+Jungshovedvej 25 4720 Præstø,25,1400000.0,30-05-2014,Alm.,11200,4,Villa,125,1862,-3 %
+Næstvedvej 73A 4720 Præstø,0,290000.0,28-05-2014,Auktion,2457,3,Villa,118,1930,
+Egestræde 22 4720 Præstø,22,285000.0,20-05-2014,Alm.,2478,4,Villa,115,1899,-3 %
+Hjørnehusvej 7 4720 Præstø,7,825000.0,14-05-2014,Alm.,6547,4,Villa,126,1973,-8 %
+Grønnegade 12 4720 Præstø,12,266000.0,09-05-2014,Fam.,1592,8,Villa,167,1855,
+Adelgade 148 4720 Præstø,148,134800.0,07-05-2014,Auktion,1706,4,Villa,79,1830,
+Smedestræde 2 4720 Præstø,2,995000.0,28-04-2014,Alm.,10257,4,Villa,97,1887,25 %
+Fjordparken 9 4720 Præstø,9,915000.0,26-04-2014,Alm.,8026,5,Rækkehus,114,1971,-6 %
+Lundbyvej 32 4720 Præstø,32,1900000.0,24-04-2014,Alm.,7392,7,Stuehus,257,2012,
+Enghavevej 5 4720 Præstø,5,900000.0,18-04-2014,Alm.,5172,6,Villa,174,1920,-10 %
+Kildegårdsvej 4 4720 Præstø,4,150000.0,16-04-2014,Auktion,1744,4,Villa,86,1898,
+Lundbyvej 20 4720 Præstø,20,6000000.0,16-04-2014,Alm.,65217,3,Stuehus,92,1914,88 %
+Skovhusevej 6 4720 Præstø,6,2310000.0,14-04-2014,Alm.,16153,4,Stuehus,143,1983,
+Abildhøjparken 96 4720 Præstø,96,1900000.0,03-04-2014,Andet,10160,5,Villa,187,2009,
+Solsortvej 6 4720 Præstø,6,530000.0,03-04-2014,Alm.,13250,2,Sommerhus,40,1975,-4 %
+Mønvej 92 4720 Præstø,92,2285000.0,03-04-2014,Alm.,10578,9,Stuehus,216,1895,-43 %
+Mågevej 7 4720 Præstø,7,1100000.0,29-03-2014,Alm.,8270,4,Villa,133,1973,-4 %
+"Adelgade 91, 1 4720 Præstø",1,1250000.0,28-03-2014,Alm.,12626,3,Villa,99,1911,0 %
+Ronesstræde 14 4720 Præstø,14,470000.0,25-03-2014,Alm.,6351,3,Rækkehus,74,1987,-5 %
+Rugvænget 74 4720 Præstø,74,355000.0,25-03-2014,Alm.,1613,5,Rækkehus,220,1900,
+Juulsvej 13 4720 Præstø,13,2495000.0,24-03-2014,Alm.,18211,3,Villa,137,1988,
+Svend Gøngesvej 37 4720 Præstø,37,2050000.0,22-03-2014,Alm.,7884,8,Villa,260,1963,-5 %
+Rosagervej 20 4720 Præstø,20,945000.0,21-03-2014,Alm.,7440,4,Villa,127,1982,-5 %
+Mågevej 1 4720 Præstø,1,1895000.0,19-03-2014,Alm.,10243,5,Villa,185,1974,0 %
+Mønvej 108 4720 Præstø,108,725000.0,17-03-2014,Andet,4264,5,Villa,170,1960,
+Mønvej 94 4720 Præstø,94,270000.0,10-03-2014,Alm.,1443,7,Villa,187,1877,-8 %
+Svalevej 9 4720 Præstø,9,280500.0,03-03-2014,Fam.,4186,4,Sommerhus,67,1982,
+Bøgevænget 2 4720 Præstø,2,395000.0,24-02-2014,Fam.,5266,4,Sommerhus,75,2016,
+Engvej 10 4720 Præstø,10,650000.0,22-02-2014,Alm.,3571,8,Villa,182,1960,0 %
+Næstvedvej 22 4720 Præstø,22,3386230.0,20-02-2014,Alm.,13544,12,Stuehus,250,1880,
+Næstvedvej 28 4720 Præstø,28,2550000.0,20-02-2014,Alm.,15740,6,Stuehus,162,1900,
+Fjordparken 27 4720 Præstø,27,300000.0,12-02-2014,Alm.,4918,2,Rækkehus,61,1977,-23 %
+Mønvej 120C 4720 Præstø,0,485000.0,10-02-2014,Alm.,3190,4,Villa,152,1981,-2 %
+Grundtvigsvej 3A 4720 Præstø,0,1130000.0,28-01-2014,Alm.,8188,3,Villa,138,1932,0 %
+Gernersvej 28 4720 Præstø,28,535000.0,22-01-2014,Alm.,5815,3,Villa,92,1971,-10 %
+Uglevej 5 4720 Præstø,5,1064000.0,15-01-2014,Alm.,12372,4,Sommerhus,86,2006,
+"Torvestræde 3, 1. 8 4720 Præstø",8,550000.0,20-12-2013,Alm.,5913,3,Lejlighed,93,1807,-8 %
+Neblevej 1 4720 Præstø,1,650000.0,20-12-2013,Alm.,5803,7,Detailhandel,112,1940,-18 %
+Rugvænget 78 4720 Præstø,78,600000.0,20-12-2013,Alm.,5660,4,Villa,106,1957,9 %
+"Havnevej 6B, 1. 8 4720 Præstø",8,6000000.0,20-12-2013,Alm.,48780,4,Lejlighed,123,2011,363 %
+Kildegårdsvej 8 4720 Præstø,8,2195000.0,19-12-2013,Alm.,6990,10,Villa,314,1905,0 %
+"Klosternakken 27, 1 4720 Præstø",1,1400000.0,18-12-2013,Alm.,9333,4,Lejlighed,150,1894,-20 %
+Fjordvej 5 4720 Præstø,5,610000.0,13-12-2013,Alm.,6489,4,Villa,94,1948,-12 %
+Præstø Overdrev 2 4720 Præstø,2,600000.0,11-12-2013,Auktion,4195,5,Villa,143,1825,
+Mønvej 71 4720 Præstø,71,650000.0,10-12-2013,Alm.,4452,5,Villa,146,1960,-7 %
+Juulsvej 17 4720 Præstø,17,1595000.0,26-11-2013,Alm.,11814,3,Villa,135,1978,0 %
+Primulavej 9 4720 Præstø,9,518500.0,23-11-2013,Fam.,8500,4,Sommerhus,61,1980,
+Kittenstræde 4 4720 Præstø,4,850000.0,11-11-2013,Alm.,12142,2,Lejlighed,70,1916,
+Smidstrupvej 19 4720 Præstø,19,800000.0,06-11-2013,Alm.,5479,4,Villa,146,1983,-20 %
+Dyremarken 12 4720 Præstø,12,376000.0,06-11-2013,Auktion,4820,4,Villa,78,1930,
+Ådalsvej 4 4720 Præstø,4,695000.0,01-11-2013,Alm.,4964,4,Villa,140,1830,
+Ådalsvej 7 4720 Præstø,7,1195000.0,01-11-2013,Alm.,4877,7,Villa,245,1936,
+Hovedvejen 110 4720 Præstø,110,295000.0,01-11-2013,Alm.,3641,3,Villa,81,1840,
+Rekkendevej 16 4720 Præstø,16,905000.0,25-10-2013,Alm.,9050,3,Villa,100,1877,-9 %
+Vægtervej 1B 4720 Præstø,0,1800000.0,22-10-2013,Alm.,8910,5,Villa,202,2009,
+Mønvej 80 4720 Præstø,80,592166.0,14-10-2013,Alm.,3974,4,Villa,149,1912,
+Stavreby Strandvej 11 4720 Præstø,11,95000.0,14-10-2013,Alm.,1532,3,Villa,62,1960,
+"Torvestræde 3, ST. 1 4720 Præstø",1,625000.0,12-10-2013,Alm.,6648,3,Lejlighed,94,1807,-3 %
+Ørnevej 4 4720 Præstø,4,895000.0,08-10-2013,Alm.,14672,3,Sommerhus,61,2005,0 %
+Mønvej 75 4720 Præstø,75,198000.0,04-10-2013,Alm.,1816,4,Villa,109,1958,0 %
+Lindevej 37 4720 Præstø,37,869000.0,01-10-2013,Alm.,5203,5,Villa,167,1925,
+Grønnegade 5 4720 Præstø,5,1560000.0,30-09-2013,Alm.,0,7,Rækkehus,168,1827,-16 %
+Kirsebærvej 24 4720 Præstø,24,1350000.0,24-09-2013,Alm.,9642,4,Villa,140,1979,-5 %
+Rosagervej 16 4720 Præstø,16,1250000.0,21-09-2013,Alm.,4940,6,Villa,253,1969,-24 %
+Strandgårdsvej 19 4720 Præstø,19,900000.0,13-09-2013,Alm.,6923,4,Villa,130,1975,-25 %
+Kragevigvej 7 4720 Præstø,7,661757.0,09-09-2013,Fam.,4830,4,Villa,137,1936,
+Fjordparken 10 4720 Præstø,10,900000.0,03-09-2013,Alm.,7894,4,Rækkehus,114,1971,0 %
+Hovedvejen 113 4720 Præstø,113,200000.0,16-08-2013,Alm.,481,12,Stuehus,415,1852,
+Klosternakken 21 4720 Præstø,21,1900000.0,14-08-2013,Alm.,20430,5,Rækkehus,93,1870,-5 %
+Roneklintvej 36 4720 Præstø,36,525000.0,14-08-2013,Fam.,11170,4,Sommerhus,47,1961,
+Præstø Overdrev 5 4720 Præstø,5,895000.0,08-08-2013,Alm.,7217,5,Stuehus,124,1897,0 %
+Klintestien 30 4720 Præstø,30,1908500.0,30-07-2013,Alm.,38170,2,Sommerhus,50,1966,
+Ambæk Mark 11 4720 Præstø,11,1555000.0,11-07-2013,Alm.,7853,3,Stuehus,198,1890,
+Rødegårdsvej 67 4720 Præstø,67,412181.0,28-06-2013,Andet,3713,4,Villa,111,1979,
+Abildhøjvej 9 4720 Præstø,9,135000.0,28-06-2013,Alm.,2596,2,Villa,52,1800,0 %
+Ny Esbjergvej 2 4720 Præstø,2,2500000.0,27-06-2013,Alm.,8532,7,Villa,293,1900,
+"Strandvejen 2, 1. TH 4720 Præstø",0,425000.0,24-06-2013,Alm.,6159,2,Lejlighed,69,1976,-19 %
+Præstegårdsvej 3 4720 Præstø,3,600000.0,19-06-2013,Alm.,5042,3,Villa,119,1870,-7 %
+Bakkestien 12 4720 Præstø,12,735000.0,17-06-2013,Alm.,12049,4,Sommerhus,61,1971,0 %
+Bakkestien 13 4720 Præstø,13,690000.0,12-06-2013,Alm.,13800,3,Sommerhus,50,1971,-5 %
+Vibevej 1 4720 Præstø,1,690000.0,07-06-2013,Alm.,5307,5,Villa,130,1974,-12 %
+Kirsebærvej 30 4720 Præstø,30,895000.0,04-06-2013,Alm.,9421,3,Rækkehus,95,1981,0 %
+Mågevej 10 4720 Præstø,10,1100000.0,01-06-2013,Alm.,5555,7,Villa,198,1976,
+Østerbro 9 4720 Præstø,9,595000.0,30-05-2013,Alm.,0,4,Villa,132,1947,0 %
+Birkevænget 11 4720 Præstø,11,870000.0,26-05-2013,Alm.,9157,4,Sommerhus,95,2009,-3 %
+Mosestien 4 4720 Præstø,4,675000.0,21-05-2013,Alm.,10887,3,Sommerhus,62,1983,-9 %
+Marienlundsvej 2 4720 Præstø,2,130000.0,15-05-2013,Alm.,1805,2,Villa,72,1900,-63 %
+Mosestien 24 4720 Præstø,24,700000.0,15-05-2013,Alm.,10769,3,Sommerhus,65,1973,-7 %
+Lindevej 42 4720 Præstø,42,1445000.0,08-05-2013,Alm.,8919,6,Villa,162,1935,-3 %
+Fjordparken 31 4720 Præstø,31,535000.0,23-04-2013,Alm.,8770,2,Rækkehus,61,1977,-3 %
+Stærevej 8 4720 Præstø,8,795000.0,18-04-2013,Alm.,9937,4,Sommerhus,80,1976,
+Gyvelvej 15 4720 Præstø,15,850000.0,17-04-2013,Alm.,8947,6,Sommerhus,95,1970,
+Rosagervej 32 4720 Præstø,32,600000.0,06-04-2013,Alm.,5769,4,Villa,104,1976,-20 %
+Dyrlevvej 3 4720 Præstø,3,275000.0,27-03-2013,Auktion,2644,4,Villa,104,1948,-69 %
+Duevangen 1 4720 Præstø,1,365000.0,25-03-2013,Alm.,4010,4,Villa,91,1880,0 %
+Stavreby Strandvej 24A 4720 Præstø,0,435000.0,21-03-2013,Alm.,6041,3,Villa,72,1942,-27 %
+Juulsvej 1 4720 Præstø,1,1775000.0,20-03-2013,Alm.,11451,4,Villa,155,1984,-6 %
+Præstø Overdrev 19 4720 Præstø,19,895000.0,20-03-2013,Alm.,7336,5,Villa,122,1900,0 %
+Kirsebærvej 10 4720 Præstø,10,1155065.0,19-03-2013,Alm.,7857,5,Villa,147,1979,
+Mønvej 148 4720 Præstø,148,1025000.0,18-03-2013,Alm.,9490,4,Villa,108,1920,-11 %
+Bygvænget 44 4720 Præstø,44,861323.0,18-03-2013,Fam.,5251,5,Villa,164,1988,
+Antonivej 1 4720 Præstø,1,575000.0,14-03-2013,Alm.,4356,5,Villa,132,1928,-17 %
+Bygvænget 1 4720 Præstø,1,1195000.0,07-03-2013,Alm.,9409,4,Villa,127,1980,0 %
+Fasanvej 2 4720 Præstø,2,2600000.0,06-03-2013,Alm.,17218,5,Villa,151,1966,-28 %
+Kragevej 4 4720 Præstø,4,595000.0,19-02-2013,Alm.,9444,3,Sommerhus,63,1978,0 %
+Winsløwsvej 3 4720 Præstø,3,1095000.0,18-02-2013,Alm.,9776,4,Villa,112,1923,0 %
+Faksevej 12 4720 Præstø,12,270000.0,13-02-2013,Auktion,2934,4,Villa,92,1942,
+Rekkendevej 43 4720 Præstø,43,1050000.0,09-02-2013,Alm.,7835,4,Villa,134,1900,0 %
+Ådalsvej 3 4720 Præstø,3,225000.0,07-02-2013,Auktion,4017,2,Villa,56,1932,
+Mønvej 39D 4720 Præstø,0,1050000.0,31-01-2013,Alm.,7664,5,Villa,137,1987,-19 %
+"Torvestræde 3, ST. 5 4720 Præstø",5,450000.0,30-01-2013,Auktion,4687,4,Lejlighed,96,1807,-9 %
+Faksinge By 9 4720 Præstø,9,525000.0,29-01-2013,Alm.,8076,4,Villa,65,1920,-12 %
+Sneserevej 39 4720 Præstø,39,750000.0,25-01-2013,Andet,7075,3,Villa,106,1967,
+Torvet 20 4720 Præstø,20,625000.0,18-01-2013,Alm.,3858,6,Rækkehus,162,1730,
+Rugvænget 33 4720 Præstø,33,1360000.0,08-01-2013,Alm.,11056,3,Rækkehus,123,2001,-1 %
+Snaphanevej 10 4720 Præstø,10,700000.0,03-01-2013,Alm.,6730,4,Villa,104,1962,-18 %
+Egebjergvej 1A 4720 Præstø,0,2420000.0,21-12-2012,Alm.,10210,7,Villa,237,2003,-3 %
+Aagesvej 18 4720 Præstø,18,775000.0,20-12-2012,Alm.,6567,4,Villa,118,1971,
+Rugvænget 55 4720 Præstø,55,1725000.0,20-12-2012,Alm.,13167,4,Villa,131,2003,-5 %
+Mønvej 116 4720 Præstø,116,1450000.0,15-12-2012,Alm.,9294,3,Villa,156,1928,-6 %
+Bygvænget 38 4720 Præstø,38,845000.0,13-12-2012,Auktion,0,5,Villa,125,1981,-40 %
+Spættevej 9 4720 Præstø,9,1575000.0,08-12-2012,Alm.,18103,3,Sommerhus,87,1997,
+Mønvej 56 4720 Præstø,56,490000.0,07-12-2012,Alm.,5051,3,Villa,97,1958,-11 %
+Mønvej 138 4720 Præstø,138,300000.0,05-12-2012,Auktion,2142,6,Villa,140,1934,
+Sneserevej 2 4720 Præstø,2,1150000.0,05-12-2012,Alm.,9200,4,Villa,125,1999,-19 %
+Næstvedvej 18 4720 Præstø,18,670000.0,05-12-2012,Auktion,2658,6,Stuehus,252,1883,
+Jungshovedvej 59 4720 Præstø,59,125000.0,03-12-2012,Fam.,1736,3,Villa,72,1872,
+Lundegårdsvej 10 4720 Præstø,10,966987.0,23-11-2012,Alm.,7438,5,Villa,130,1914,
+Ronesbanke 32 4720 Præstø,32,200000.0,22-11-2012,Alm.,1904,2,Villa,105,1827,-9 %
+Bønsvig Strandvej 6B 4720 Præstø,0,2350000.0,21-11-2012,Alm.,19583,4,Sommerhus,120,2004,-6 %
+Fjordparken 5 4720 Præstø,5,1095000.0,19-11-2012,Alm.,9605,5,Rækkehus,114,1971,0 %
+Svalevej 6 4720 Præstø,6,157306.0,15-11-2012,Fam.,3419,3,Sommerhus,46,1975,
+Aagesvej 9 4720 Præstø,9,398000.0,15-11-2012,Alm.,3754,4,Villa,106,1966,0 %
+Jungshovedvej 63 4720 Præstø,63,2500000.0,24-10-2012,Alm.,20161,4,Stuehus,124,1942,
+Kirsebærvej 12 4720 Præstø,12,1350000.0,24-10-2012,Alm.,9246,5,Villa,146,1979,0 %
+Fjordparken 41 4720 Præstø,41,550000.0,19-10-2012,Alm.,9016,2,Rækkehus,61,1977,-8 %
+Abildhøjparken 63 4720 Præstø,63,1825000.0,18-10-2012,Alm.,14257,4,Villa,128,2006,2 %
+Østerbro 14 4720 Præstø,14,650000.0,16-10-2012,Alm.,7647,3,Villa,85,1923,
+"Torvestræde 3, 1. 9 4720 Præstø",9,275000.0,13-10-2012,Alm.,5500,1,Lejlighed,50,1807,-30 %
+Bygvænget 53 4720 Præstø,53,1207578.0,11-10-2012,Alm.,6256,5,Villa,193,2009,
+Næstvedvej 31 4720 Præstø,31,580000.0,11-10-2012,Alm.,4715,4,Villa,123,1963,-17 %
+Mågevej 15 4720 Præstø,15,1395000.0,09-10-2012,Fam.,11625,4,Villa,120,1973,
+Industrivej 11 4720 Præstø,11,1445000.0,09-10-2012,Fam.,9633,5,Villa,150,1971,
+Fuglsangvej 15 4720 Præstø,15,645000.0,19-09-2012,Alm.,4742,4,Villa,136,1912,-7 %
+Egevænget 12 4720 Præstø,12,550000.0,17-09-2012,Alm.,7142,4,Sommerhus,77,1969,-19 %
+Klintestien 18A 4720 Præstø,0,1232500.0,15-09-2012,Fam.,15030,4,Sommerhus,82,2014,
+Hjørnehusvej 32 4720 Præstø,32,1200000.0,14-09-2012,Alm.,9090,4,Villa,132,1970,-11 %
+Ørnevej 5 4720 Præstø,5,1100000.0,12-09-2012,Alm.,12941,4,Sommerhus,85,2005,-21 %
+Dyrlevvej 14 4720 Præstø,14,2850000.0,04-09-2012,Alm.,13970,5,Villa,204,2007,-5 %
+Egevej 1 4720 Præstø,1,865000.0,30-08-2012,Alm.,7208,4,Villa,120,1976,-9 %
+Kildegårdsvej 7 4720 Præstø,7,1125000.0,30-08-2012,Andet,6250,7,Villa,180,2008,
+Lundegårdsvej 25 4720 Præstø,25,995000.0,27-08-2012,Alm.,7262,5,Villa,137,1904,0 %
+Bygvænget 11 4720 Præstø,11,725000.0,24-08-2012,Alm.,7712,4,Villa,94,1985,-9 %
+Ugledigevej 17A 4720 Præstø,0,668500.0,24-08-2012,Alm.,6306,3,Villa,106,1905,
+Rekkende By 3 4720 Præstø,3,64000.0,23-08-2012,Alm.,400,6,Stuehus,160,1800,
+Tranevej 14 4720 Præstø,14,1250000.0,20-08-2012,Alm.,9615,4,Villa,130,1977,-3 %
+Spættevej 6 4720 Præstø,6,1100000.0,16-08-2012,Alm.,14285,4,Sommerhus,77,2006,-8 %
+Bønsvigvej 2 4720 Præstø,2,2747089.0,15-08-2012,Fam.,22892,4,Stuehus,120,1930,
+Svanegårdsvej 3 4720 Præstø,3,120000.0,10-08-2012,Alm.,2400,3,Sommerhus,50,1902,
+Stavreby Strandvej 48 4720 Præstø,48,625000.0,08-08-2012,Alm.,4844,4,Villa,129,1875,-17 %
+Ternevej 20 4720 Præstø,20,700000.0,03-08-2012,Alm.,5384,3,Villa,130,1973,-7 %
+Stavreby Strandvej 7 4720 Præstø,7,1400000.0,03-08-2012,Alm.,10071,5,Stuehus,139,1924,-6 %
+Mønvej 81 4720 Præstø,81,701000.0,31-07-2012,Alm.,0,6,Villa,154,1934,-22 %
+Skovgårdsvej 1 4720 Præstø,1,495000.0,25-07-2012,Auktion,3300,5,Villa,150,1867,
+Bønsvigvej 17 4720 Præstø,17,2250000.0,13-07-2012,Alm.,8522,7,Villa,264,1872,-25 %
+Forsythiavej 7 4720 Præstø,7,575000.0,09-07-2012,Alm.,7666,2,Sommerhus,75,2016,
+Hejrevej 6 4720 Præstø,6,900000.0,05-07-2012,Alm.,4712,6,Villa,191,1976,-33 %
+Hovedvejen 124 4720 Præstø,124,145000.0,27-06-2012,Auktion,1435,4,Villa,101,1927,-85 %
+Beldringevej 5 4720 Præstø,5,3050000.0,26-06-2012,Alm.,15250,9,Villa,200,1931,-5 %
+Svanegårdsvej 1 4720 Præstø,1,50000.0,20-06-2012,Auktion,396,4,Villa,126,1857,
+Hestehavevej 60 4720 Præstø,60,1100000.0,19-06-2012,Alm.,10185,4,Villa,108,1949,-18 %
+Abildhøjvej 10 4720 Præstø,10,750000.0,18-06-2012,Alm.,4658,5,Villa,161,1925,-16 %
+Kastanievænget 9 4720 Præstø,9,540000.0,14-06-2012,Alm.,10588,3,Sommerhus,51,1980,-9 %
+Rødegårdsvej 83 4720 Præstø,83,773000.0,13-06-2012,Alm.,7361,4,Villa,105,1978,
+Rekkendevej 26 4720 Præstø,26,490000.0,12-06-2012,Alm.,5632,2,Villa,87,1900,
+Christinelundsvej 34 4720 Præstø,34,3695000.0,11-06-2012,Alm.,23685,3,Villa,156,1914,0 %
+Forsythiavej 3 4720 Præstø,3,1800000.0,07-06-2012,Alm.,17475,4,Sommerhus,103,2009,-10 %
+Rekkende By 5 4720 Præstø,5,785000.0,06-06-2012,Alm.,4875,5,Villa,161,1800,0 %
+Birkevænget 9 4720 Præstø,9,620000.0,05-06-2012,Alm.,8051,3,Sommerhus,77,1978,-8 %
+Rugvænget 3 4720 Præstø,3,1400000.0,31-05-2012,Alm.,10294,4,Villa,136,1999,-9 %
+"Adelgade 111, 1 4720 Præstø",1,485000.0,31-05-2012,Alm.,5511,2,Lejlighed,88,1920,-2 %
+Søvej 1 4720 Præstø,1,230000.0,30-05-2012,Auktion,1337,5,Villa,172,1927,
+Vægtervej 13 4720 Præstø,13,875000.0,14-05-2012,Andet,3378,7,Villa,259,1910,-56 %
+Rekkende By 1 4720 Præstø,1,450000.0,26-04-2012,Alm.,2319,6,Villa,194,1777,-24 %
+"Per Thyges Torv 2B, 1. TH 4720 Præstø",0,745000.0,25-04-2012,Auktion,6535,3,Lejlighed,114,1988,-25 %
+Ugledigevej 18A 4720 Præstø,0,850000.0,23-04-2012,Alm.,8854,5,Villa,96,1800,-26 %
+Dyremarken 2 4720 Præstø,2,1200000.0,18-04-2012,Auktion,6779,8,Stuehus,177,1956,-20 %
+Stavreby Strandvej 40 4720 Præstø,40,1065000.0,17-04-2012,Fam.,12102,4,Sommerhus,88,1969,
+Bønsvigvej 3 4720 Præstø,3,500000.0,11-04-2012,Alm.,4807,4,Sommerhus,104,1894,-17 %
+Smidstrupvej 38 4720 Præstø,38,915000.0,11-04-2012,Auktion,5382,7,Villa,170,1800,
+Snaphanevej 1 4720 Præstø,1,1075000.0,26-03-2012,Alm.,9033,4,Villa,119,1966,-10 %
+Sneserevej 55 4720 Præstø,55,650000.0,25-03-2012,Alm.,4276,4,Villa,152,1925,
+Duevangen 9 4720 Præstø,9,650000.0,23-03-2012,Alm.,7926,3,Sommerhus,82,1827,-6 %
+Adelgade 142 4720 Præstø,142,1147500.0,15-03-2012,Fam.,12078,3,Villa,95,1880,
+Lindevej 35 4720 Præstø,35,995000.0,12-03-2012,Alm.,7007,5,Villa,142,1942,-9 %
+Hastrupvej 13 4720 Præstø,13,925000.0,02-03-2012,Alm.,5891,5,Villa,157,1950,-53 %
+Enghavevej 4 4720 Præstø,4,500000.0,23-02-2012,Alm.,3496,7,Villa,143,1817,-17 %
+Gernersvej 10 4720 Præstø,10,775000.0,14-02-2012,Alm.,5615,4,Villa,138,1971,-3 %
+Tubæk Møllevej 15 4720 Præstø,15,1600000.0,13-02-2012,Alm.,10526,5,Villa,152,1998,-9 %
+Klintestien 3 4720 Præstø,3,1000000.0,10-02-2012,Alm.,8695,4,Sommerhus,115,1966,-13 %
+Ternevej 11 4720 Præstø,11,900000.0,10-02-2012,Alm.,6338,4,Villa,142,1973,-21 %
+Mønvej 150 4720 Præstø,150,645000.0,07-02-2012,Alm.,4777,6,Villa,135,1932,-19 %
+Kohavevej 9 4720 Præstø,9,675000.0,25-01-2012,Alm.,9507,4,Sommerhus,71,1973,-15 %
+"Adelgade 99A, ST 4720 Præstø",0,2250000.0,18-01-2012,Alm.,31250,2,Lejlighed,72,1827,
+"Jomfrustræde 6, 2. TH 4720 Præstø",0,330000.0,18-01-2012,Auktion,3586,2,Lejlighed,92,1932,
+"Adelgade 99B, ST 4720 Præstø",0,2250000.0,18-01-2012,Alm.,31690,2,Lejlighed,71,1985,
+Hovmarken 1 4720 Præstø,1,1350000.0,13-01-2012,Alm.,8823,4,Stuehus,153,1910,
+Stadionvej 7 4720 Præstø,7,1000000.0,12-01-2012,Alm.,9090,4,Villa,110,1961,-9 %
+Havnevej 10B 4720 Præstø,0,70000.0,12-01-2012,Alm.,538,4,Villa,130,2017,-26 %
+Fyrrevænget 19 4720 Præstø,19,625000.0,09-01-2012,Alm.,8333,4,Sommerhus,75,1977,-30 %
+Fjordparken 32 4720 Præstø,32,550000.0,20-12-2011,Alm.,9016,2,Rækkehus,61,1977,0 %
+Rugvænget 15 4720 Præstø,15,1400000.0,12-12-2011,Alm.,9722,3,Villa,144,2000,
+Kohavevej 11 4720 Præstø,11,514200.0,10-12-2011,Fam.,5356,4,Sommerhus,96,1969,
+Mågevej 9 4720 Præstø,9,810000.0,07-12-2011,Alm.,5436,5,Villa,149,1974,-19 %
+Mosestien 39 4720 Præstø,39,125000.0,06-12-2011,Fam.,2976,2,Sommerhus,42,1968,
+Forsythiavej 2 4720 Præstø,2,650000.0,01-12-2011,Alm.,9285,3,Sommerhus,70,2004,-18 %
+Skovgårdsvej 3 4720 Præstø,3,295000.0,23-11-2011,Auktion,2034,5,Villa,145,1947,
+Parkvej 6 4720 Præstø,6,575000.0,15-11-2011,Alm.,6182,4,Villa,93,1953,0 %
+Rugvænget 35 4720 Præstø,35,1400000.0,09-11-2011,Alm.,11382,3,Rækkehus,123,2001,-11 %
+Smidstrupvej 42 4720 Præstø,42,875000.0,26-10-2011,Alm.,7812,4,Villa,112,1937,-12 %
+Rødegårdsvej 47 4720 Præstø,47,860000.0,17-10-2011,Alm.,7678,4,Villa,112,1979,-4 %
+Smidstrupvej 43 4720 Præstø,43,500000.0,14-10-2011,Alm.,5952,3,Villa,84,1967,-20 %
+Bøgevænget 9 4720 Præstø,9,467500.0,13-10-2011,Andet,4137,5,Sommerhus,113,1969,
+Vægtervej 1 4720 Præstø,1,525000.0,12-10-2011,Auktion,2651,6,Villa,198,1900,-10 %
+Drosselvej 5 4720 Præstø,5,575000.0,29-09-2011,Alm.,13372,3,Sommerhus,43,1981,
+Sneserevej 8 4720 Præstø,8,650000.0,23-09-2011,Alm.,4814,4,Villa,135,1959,0 %
+Strandgårdsvej 3 4720 Præstø,3,895000.0,21-09-2011,Auktion,4661,7,Villa,192,1972,
+Rugvænget 39 4720 Præstø,39,1495000.0,15-09-2011,Alm.,12154,3,Rækkehus,123,2001,0 %
+Rosagervej 4 4720 Præstø,4,1850000.0,08-09-2011,Auktion,8937,6,Villa,207,1981,
+Mosestien 37 4720 Præstø,37,502300.0,06-09-2011,Fam.,7848,3,Sommerhus,64,1975,
+Vægtervej 5 4720 Præstø,5,630000.0,05-09-2011,Alm.,3818,4,Villa,165,1937,-21 %
+Primulavej 4 4720 Præstø,4,1400000.0,26-08-2011,Alm.,14432,6,Sommerhus,97,1976,
+Bakkestien 26 4720 Præstø,26,775000.0,12-08-2011,Alm.,12109,4,Sommerhus,64,1971,-3 %
+Jungshovedvej 65 4720 Præstø,65,1050000.0,08-08-2011,Alm.,9051,5,Villa,116,1957,-4 %
+"Vesterbro 3, 1 4720 Præstø",1,800000.0,20-07-2011,Alm.,9195,3,Lejlighed,87,1905,-9 %
+Winsløwsvej 2 4720 Præstø,2,655979.0,20-07-2011,Alm.,9239,3,Villa,71,1936,
+Enghavevej 11 4720 Præstø,11,307974.0,19-07-2011,Fam.,1682,8,Villa,183,1875,
+Neblevej 11 4720 Præstø,11,1775000.0,08-07-2011,Alm.,10441,5,Villa,170,1897,-11 %
+Roneklintvej 24 4720 Præstø,24,1135000.0,29-06-2011,Alm.,14187,3,Villa,80,1965,-9 %
+Enghavevej 10 4720 Præstø,10,3500000.0,17-06-2011,Alm.,15909,6,Stuehus,220,1830,
+Skovhusevej 6B 4720 Præstø,0,3000000.0,17-06-2011,Alm.,15706,4,Villa,191,2003,
+Stavreby Strandvej 33 4720 Præstø,33,1050000.0,15-06-2011,Alm.,10194,4,Stuehus,103,1820,-12 %
+Maylandsvej 2 4720 Præstø,2,1000000.0,10-06-2011,Alm.,6666,3,Villa,150,1972,
+Bygvænget 14 4720 Præstø,14,1370000.0,08-06-2011,Alm.,8011,7,Villa,171,1986,-2 %
+Klintestien 22 4720 Præstø,22,1610000.0,02-06-2011,Alm.,32200,4,Sommerhus,50,1968,
+Lundegårdsvej 3 4720 Præstø,3,150000.0,31-05-2011,Alm.,1219,3,Villa,123,1970,-92 %
+Mosestien 49 4720 Præstø,49,496212.0,24-05-2011,Fam.,4352,4,Sommerhus,114,2011,
+Gyvelvej 7 4720 Præstø,7,350000.0,22-05-2011,Alm.,7608,2,Sommerhus,46,1967,
+Bøgevænget 12 4720 Præstø,12,380000.0,27-04-2011,Alm.,11875,3,Sommerhus,32,1954,-4 %
+Rekkendevej 28 4720 Præstø,28,610000.0,06-04-2011,Auktion,2711,6,Villa,225,1777,
+Jungshovedvej 86 4720 Præstø,86,256000.0,06-04-2011,Auktion,2639,5,Villa,97,1876,-57 %
+Antonivej 21 4720 Præstø,21,500000.0,30-03-2011,Auktion,5747,2,Villa,87,1956,-56 %
+Faksevej 14 4720 Præstø,14,1500000.0,30-03-2011,Alm.,7389,7,Villa,203,1954,-6 %
+Neblevej 4 4720 Præstø,4,1100000.0,15-03-2011,Alm.,4932,6,Villa,223,1929,-21 %
+Bøgevænget 3 4720 Præstø,3,416667.0,10-03-2011,Fam.,8333,3,Sommerhus,50,1983,
+Jernbanevej 12 4720 Præstø,12,1440000.0,28-02-2011,Alm.,12972,3,Lejlighed,111,1907,
+Dyrlevvej 24 4720 Præstø,24,850000.0,23-02-2011,Auktion,6746,4,Villa,126,1880,
+Rødegårdsvej 156 4720 Præstø,156,1051000.0,22-02-2011,Alm.,5971,5,Rækkehus,176,2006,
+Kastanievænget 8 4720 Præstø,8,731000.0,21-02-2011,Fam.,9137,3,Sommerhus,80,1977,
+Vagtmestervej 4 4720 Præstø,4,1548000.0,17-02-2011,Andet,12900,4,Villa,120,1962,
+Østerbro 16 4720 Præstø,16,1250000.0,09-02-2011,Auktion,8802,4,Villa,142,1925,-26 %
+"Kittenstræde 2, ST. TH 4720 Præstø",0,935000.0,04-02-2011,Alm.,10625,2,Lejlighed,88,1916,
+Klosternakken 1 4720 Præstø,1,1544410.0,02-02-2011,Fam.,10651,8,Rækkehus,145,1857,
+Lindevej 24 4720 Præstø,24,2300000.0,20-01-2011,Alm.,11386,8,Villa,202,1930,
+"Adelgade 38, 1 4720 Præstø",1,3221976.0,17-01-2011,Andet,21770,5,Lejlighed,148,1870,
+Egevænget 4 4720 Præstø,4,620000.0,17-01-2011,Alm.,9687,2,Sommerhus,64,1976,-11 %
+Juulsvej 26 4720 Præstø,26,2500000.0,08-01-2011,Alm.,15625,5,Villa,160,1965,
+Lundegårdsvej 8 4720 Præstø,8,1829000.0,07-01-2011,Alm.,11876,4,Villa,154,1979,-3 %
+Ørnevej 12 4720 Præstø,12,396000.0,06-01-2011,Fam.,5823,3,Sommerhus,68,1998,
+Rødegårdsvej 162 4720 Præstø,162,1125000.0,22-12-2010,Alm.,11718,3,Rækkehus,96,2008,-6 %
+Ugledigevej 18B 4720 Præstø,0,1350000.0,16-12-2010,Alm.,7584,7,Villa,178,1977,
+Egelyvej 6 4720 Præstø,6,1120000.0,14-12-2010,Alm.,7887,5,Villa,142,1974,-6 %
+Skovhusevej 18 4720 Præstø,18,155000.0,08-12-2010,Auktion,2066,3,Villa,75,1873,-81 %
+Jungshovedvej 34 4720 Præstø,34,1950000.0,07-12-2010,Alm.,11607,5,Villa,168,1908,-7 %
+Mønvej 42 4720 Præstø,42,1300000.0,02-12-2010,Alm.,10236,5,Villa,127,1901,-4 %
+Juulsvej 4 4720 Præstø,4,1700000.0,01-12-2010,Alm.,10759,5,Villa,158,1980,-5 %
+"Vesterbro 3, ST 4720 Præstø",0,570000.0,10-11-2010,Auktion,6551,3,Lejlighed,87,1905,
+Kirsebærvej 32 4720 Præstø,32,1600000.0,05-11-2010,Alm.,15841,3,Rækkehus,101,1981,
+Rugvænget 37 4720 Præstø,37,1495000.0,03-11-2010,Alm.,12154,3,Rækkehus,123,2001,0 %
+Kirsebærvej 46 4720 Præstø,46,1920000.0,02-11-2010,Alm.,19009,3,Rækkehus,101,1981,
+Enegaarde By 3 4720 Præstø,3,165000.0,27-10-2010,Auktion,0,3,Villa,162,1890,
+Tubæk Møllevej 25 4720 Præstø,25,500000.0,27-10-2010,Auktion,5747,3,Villa,87,1900,
+Jungshovedvej 84 4720 Præstø,84,545000.0,26-10-2010,Alm.,6193,5,Stuehus,88,1910,
+Strandgårdsvej 9 4720 Præstø,9,1250000.0,25-10-2010,Alm.,8620,7,Villa,145,1974,
+Mønvej 166 4720 Præstø,166,1989850.0,20-10-2010,Alm.,24873,3,Stuehus,80,1919,2 %
+Rødegårdsvej 3 4720 Præstø,3,1495000.0,13-10-2010,Alm.,12563,5,Villa,119,1978,0 %
+Havnevej 14 4720 Præstø,14,1600000.0,13-10-2010,Alm.,9756,6,Villa,164,1961,-14 %
+Tubæk Møllevej 23 4720 Præstø,23,895000.0,07-10-2010,Alm.,7458,3,Villa,120,1901,0 %
+Rekkendevej 45 4720 Præstø,45,1150000.0,06-10-2010,Andet,7187,6,Villa,160,1959,
+Skovgårdsvej 8 4720 Præstø,8,803311.0,06-10-2010,Alm.,3651,6,Villa,220,1935,-60 %
+Mønvej 134 4720 Præstø,134,1030000.0,04-10-2010,Alm.,10510,5,Villa,98,1923,-6 %
+Ronesbanke 3 4720 Præstø,3,2110000.0,30-09-2010,Alm.,8339,6,Villa,253,1900,-4 %
+"Hestehavevej 4, ST 4720 Præstø",0,2900000.0,29-09-2010,Auktion,23387,3,Lejlighed,124,1935,
+"Hestehavevej 4, 1. TH 4720 Præstø",0,2900000.0,29-09-2010,Auktion,30851,2,Lejlighed,94,1935,
+Hastrupvej 6 4720 Præstø,6,1215000.0,23-09-2010,Alm.,6532,5,Villa,186,1927,-10 %
+Ellemosevej 16 4720 Præstø,16,894000.0,20-09-2010,Alm.,6721,5,Villa,133,1969,-10 %
+Rekkendevej 19 4720 Præstø,19,525000.0,20-09-2010,Alm.,3260,5,Villa,161,1887,-12 %
+Adelgade 75 4720 Præstø,75,2150000.0,16-09-2010,Alm.,16929,4,Rækkehus,127,1875,-10 %
+Mønvej 27 4720 Præstø,27,400000.0,06-09-2010,Alm.,4444,2,Villa,90,1840,-11 %
+Hestehavevej 52 4720 Præstø,52,3225000.0,03-09-2010,Alm.,22552,3,Villa,143,1965,-14 %
+Winsløwsvej 5 4720 Præstø,5,886183.0,03-09-2010,Andet,5680,5,Villa,156,1934,-53 %
+Smidstrupvej 3 4720 Præstø,3,635000.0,30-08-2010,Alm.,6827,4,Villa,93,1930,-7 %
+Fjordparken 24 4720 Præstø,24,745000.0,29-08-2010,Alm.,12213,2,Rækkehus,61,1977,0 %
+Fjordvej 9 4720 Præstø,9,1775000.0,28-08-2010,Alm.,13653,4,Villa,130,1938,-10 %
+Skovhusevej 15 4720 Præstø,15,610000.0,23-08-2010,Alm.,2946,6,Villa,207,2013,-2 %
+Ellemosevej 6 4720 Præstø,6,975000.0,19-08-2010,Alm.,8405,4,Villa,116,1970,-2 %
+Mosestien 8 4720 Præstø,8,850000.0,09-08-2010,Alm.,12878,3,Sommerhus,66,1971,-5 %
+Rugvænget 49 4720 Præstø,49,1375000.0,09-08-2010,Alm.,11178,3,Rækkehus,123,2001,
+"Jomfrustræde 6, ST. TH 4720 Præstø",0,875000.0,04-08-2010,Alm.,10294,2,Lejlighed,85,1932,-5 %
+Birkevej 6 4720 Præstø,6,1050000.0,30-07-2010,Alm.,8677,5,Villa,121,1966,-4 %
+Næstvedvej 79 4720 Præstø,79,618500.0,21-07-2010,Fam.,0,5,Villa,160,1950,
+Lygtevej 8 4720 Præstø,8,1325000.0,07-07-2010,Alm.,7201,6,Villa,184,1877,-4 %
+Gyvelvej 8 4720 Præstø,8,1050000.0,07-07-2010,Alm.,10714,3,Sommerhus,98,1968,
+Rødegårdsvej 93 4720 Præstø,93,700000.0,06-07-2010,Andet,3571,6,Villa,196,1978,
+Næstvedvej 47 4720 Præstø,47,1700000.0,01-07-2010,Alm.,11409,5,Villa,149,1924,-3 %
+Gernersvej 36 4720 Præstø,36,1100000.0,30-06-2010,Alm.,9482,4,Villa,116,1973,-2 %
+Over Lyngen 1 4720 Præstø,1,1030100.0,28-06-2010,Fam.,5365,5,Villa,192,1796,
+Askevænget 8 4720 Præstø,8,775000.0,27-06-2010,Alm.,11923,4,Sommerhus,65,1978,-3 %
+Adelgade 107 4720 Præstø,107,1025000.0,25-06-2010,Alm.,10677,4,Rækkehus,96,1850,-2 %
+Adelgade 138 4720 Præstø,138,2550000.0,23-06-2010,Alm.,19172,4,Villa,133,1943,-4 %
+"Per Thyges Torv 2D, 2. TV 4720 Præstø",0,795000.0,23-06-2010,Fam.,9695,2,Lejlighed,82,1988,
+Stavreby Strandvej 13 4720 Præstø,13,625000.0,23-06-2010,Alm.,4807,5,Rækkehus,130,1900,0 %
+Strædet 4 4720 Præstø,4,315000.0,16-06-2010,Auktion,3937,2,Villa,80,1700,
+Håndværkervej 12 4720 Præstø,12,1800000.0,09-06-2010,Auktion,7438,7,Villa,242,2001,-33 %
+Jungshovedvej 37 4720 Præstø,37,50440.0,04-06-2010,Alm.,303,5,Stuehus,166,1777,
+Duevej 4 4720 Præstø,4,300000.0,01-06-2010,Fam.,7500,3,Sommerhus,40,1977,-57 %
+Hybenvej 20 4720 Præstø,20,595000.0,01-06-2010,Alm.,0,3,Sommerhus,68,1971,0 %
+Abildhøjparken 59 4720 Præstø,59,1375000.0,28-05-2010,Auktion,0,7,Villa,182,2005,-21 %
+Lindevej 6 4720 Præstø,6,1400000.0,25-05-2010,Alm.,8695,6,Villa,161,1922,-6 %
+Strandstien 9 4720 Præstø,9,700000.0,22-05-2010,Alm.,7070,4,Rækkehus,99,1877,-18 %
+Rekkende By 7 4720 Præstø,7,1150000.0,21-05-2010,Alm.,0,5,Villa,122,1887,-6 %
+Østerbro 15 4720 Præstø,15,661000.0,19-05-2010,Andet,6355,3,Villa,104,1969,
+Grønnegade 11 4720 Præstø,11,2000000.0,11-05-2010,Fam.,10416,6,Rækkehus,192,1827,
+Skolegårdsvej 18 4720 Præstø,18,244000.0,10-05-2010,Andet,1402,5,Villa,174,1855,
+Vesterbro 39 4720 Præstø,39,630000.0,07-05-2010,Alm.,10500,2,Rækkehus,60,1984,-9 %
+Ronesbanke 16 4720 Præstø,16,1425000.0,05-05-2010,Alm.,8850,6,Stuehus,161,1889,
+Neblevej 2 4720 Præstø,2,472260.0,04-05-2010,Fam.,3086,4,Villa,153,1900,
+Lundegårdsvej 1 4720 Præstø,1,2142600.0,29-04-2010,Fam.,9565,6,Stuehus,224,1924,
+Abildhøjparken 61 4720 Præstø,61,2300000.0,27-04-2010,Alm.,14935,5,Villa,154,2005,-4 %
+Faksinge By 5 4720 Præstø,5,1100000.0,26-04-2010,Alm.,8461,5,Villa,130,1877,
+Ternevej 8 4720 Præstø,8,1375000.0,16-04-2010,Alm.,10261,5,Villa,134,1973,-8 %
+Tjørnehoved By 19 4720 Præstø,19,2150000.0,15-04-2010,Alm.,11315,6,Villa,190,1961,-4 %
+Hastrupvej 15 4720 Præstø,15,837500.0,15-04-2010,Fam.,4105,6,Villa,204,1954,
+Rugvænget 9 4720 Præstø,9,1300000.0,12-04-2010,Alm.,10000,4,Villa,130,1998,
+Lundbyvej 8 4720 Præstø,8,1250000.0,09-04-2010,Alm.,8928,4,Villa,140,1932,-2 %
+Næbvej 32 4720 Præstø,32,2550000.0,09-04-2010,Alm.,10079,8,Villa,253,1860,-14 %
+Rekkendevej 29A 4720 Præstø,0,950000.0,08-04-2010,Alm.,6785,4,Villa,140,1862,
+Strandgårdsvej 15 4720 Præstø,15,725000.0,24-03-2010,Alm.,5178,5,Villa,140,1972,0 %
+Lovgårdsvej 2 4720 Præstø,2,985000.0,22-03-2010,Alm.,6354,5,Villa,155,1930,-1 %
+Lovgårdsvej 4 4720 Præstø,4,750000.0,19-03-2010,Alm.,8620,3,Villa,87,1900,-6 %
+Ugledigevej 12 4720 Præstø,12,1050000.0,19-03-2010,Alm.,11666,4,Villa,90,1880,
+Præstegårdsvej 12 4720 Præstø,12,1145000.0,18-03-2010,Alm.,7789,6,Villa,147,1971,-4 %
+Ellemosevej 2 4720 Præstø,2,1400000.0,17-03-2010,Alm.,6698,5,Villa,209,1972,-6 %
+Jungshovedvej 82 4720 Præstø,82,1775000.0,10-03-2010,Alm.,7785,8,Stuehus,228,1877,-11 %
+Stavreby Strandvej 6 4720 Præstø,6,1284176.0,09-03-2010,Alm.,11465,4,Villa,112,1900,
+Stavreby Strandvej 36B 4720 Præstø,0,21451.0,09-03-2010,Alm.,98,5,Stuehus,217,1939,
+Antonivej 14 4720 Præstø,14,1745000.0,25-02-2010,Alm.,15580,4,Villa,112,1966,0 %
+Næbvej 4 4720 Præstø,4,1100000.0,25-02-2010,Alm.,9090,4,Villa,121,1962,
+Næstvedvej 27 4720 Præstø,27,1450000.0,15-02-2010,Alm.,5034,9,Villa,288,1827,
+Lundbyvej 28 4720 Præstø,28,35000.0,10-02-2010,Auktion,500,3,Villa,70,1770,
+Vibevej 12 4720 Præstø,12,1162500.0,04-02-2010,Alm.,8611,4,Villa,135,1973,
+Enghavevej 18 4720 Præstø,18,737500.0,03-02-2010,Alm.,4727,6,Villa,156,1916,
+Roneklintvej 11 4720 Præstø,11,1100000.0,01-02-2010,Alm.,12359,4,Sommerhus,89,1925,-4 %
+Ternevej 2 4720 Præstø,2,1395000.0,29-01-2010,Alm.,11722,4,Villa,119,1974,0 %
+Stavreby Strandvej 47 4720 Præstø,47,945000.0,20-01-2010,Alm.,15000,2,Sommerhus,63,1900,-5 %
+Dyrlevvej 1 4720 Præstø,1,100000.0,20-01-2010,Alm.,1265,3,Villa,79,1906,
+Christinelundsvej 25 4720 Præstø,25,1400000.0,19-01-2010,Alm.,10294,4,Villa,136,1965,-6 %
+Hovedvejen 108 4720 Præstø,108,1850000.0,07-01-2010,Alm.,7773,8,Stuehus,238,1953,
+Lundbyvej 38 4720 Præstø,38,1043500.0,04-01-2010,Alm.,13043,5,Stuehus,80,1933,
+Kirsebærvej 42 4720 Præstø,42,1935000.0,14-12-2009,Alm.,20156,3,Rækkehus,96,1981,
+Duevangen 12 4720 Præstø,12,1200000.0,12-12-2009,Alm.,13186,3,Villa,91,1937,
+Skovhusevej 1 4720 Præstø,1,900000.0,20-11-2009,Alm.,8181,4,Villa,110,1916,-18 %
+Bogfinkevej 1 4720 Præstø,1,1050000.0,16-11-2009,Alm.,12352,4,Sommerhus,85,2008,-7 %
+Næbvej 40 4720 Præstø,40,975000.0,16-11-2009,Alm.,9848,4,Villa,99,1967,-18 %
+Fjordparken 7 4720 Præstø,7,1000000.0,13-11-2009,Alm.,8771,5,Rækkehus,114,1971,-5 %
+Næbvej 10 4720 Præstø,10,950000.0,13-11-2009,Alm.,4750,5,Villa,200,1974,-21 %
+Lydehøjvej 12 4720 Præstø,12,1995000.0,12-11-2009,Alm.,14250,5,Villa,140,1930,0 %
+Lupinvej 21 4720 Præstø,21,570000.0,10-11-2009,Andet,8769,3,Sommerhus,65,1971,
+Næstvedvej 30 4720 Præstø,30,8100000.0,10-11-2009,Alm.,38028,8,Stuehus,213,1805,
+Hejrevej 17 4720 Præstø,17,1150000.0,09-11-2009,Alm.,9126,5,Villa,126,1977,-8 %
+Ronesbanke 10 4720 Præstø,10,1500000.0,07-11-2009,Alm.,7500,6,Villa,200,1931,-6 %
+Ronesstræde 20 4720 Præstø,20,750000.0,06-11-2009,Alm.,10135,3,Rækkehus,74,1987,-16 %
+Havnevej 10 4720 Præstø,10,1695000.0,06-11-2009,Alm.,0,5,Villa,188,1967,-6 %
+Præstø Overdrev 13 4720 Præstø,13,965000.0,23-10-2009,Alm.,11488,4,Villa,84,1936,-3 %
+Teglstrupvej 4 4720 Præstø,4,2550000.0,22-10-2009,Alm.,15740,6,Stuehus,162,1962,-12 %
+Jungshovedvej 36 4720 Præstø,36,199000.0,21-10-2009,Auktion,1431,4,Villa,139,1916,
+Tranevej 5A 4720 Præstø,0,1000000.0,20-10-2009,Alm.,8196,4,Villa,122,1977,-17 %
+Birkevej 1 4720 Præstø,1,945000.0,14-10-2009,Alm.,7875,3,Villa,120,1965,-5 %
+Stavreby Strandvej 42 4720 Præstø,42,1050000.0,13-10-2009,Alm.,11666,3,Sommerhus,90,2014,-9 %
+Fyrrevænget 30 4720 Præstø,30,820000.0,11-10-2009,Fam.,10250,2,Sommerhus,80,1980,
+Bøgevænget 8 4720 Præstø,8,380000.0,06-10-2009,Alm.,10000,3,Sommerhus,38,1967,-23 %
+Tjørnevænget 4 4720 Præstø,4,1300000.0,25-09-2009,Alm.,18571,3,Sommerhus,70,1962,
+Næstvedvej 53 4720 Præstø,53,794047.0,23-09-2009,Andet,5631,5,Villa,141,1922,
+Roneklintvej 22 4720 Præstø,22,825000.0,21-09-2009,Alm.,10714,4,Villa,77,1877,-17 %
+Mønvej 146 4720 Præstø,146,884787.0,15-09-2009,Alm.,4731,5,Villa,187,1920,
+Fjordparken 21 4720 Præstø,21,945000.0,07-09-2009,Alm.,8289,4,Rækkehus,114,1977,0 %
+Rådhusstræde 5 4720 Præstø,5,1200000.0,26-08-2009,Alm.,10084,4,Rækkehus,119,1893,-11 %
+Skolevej 7 4720 Præstø,7,850000.0,24-08-2009,Alm.,8095,4,Villa,105,1967,-5 %
+Mønvej 35 4720 Præstø,35,6800000.0,24-08-2009,Alm.,54400,5,Villa,125,1760,
+Lundegårdsvej 19 4720 Præstø,19,500000.0,13-08-2009,Alm.,7692,3,Villa,65,1870,0 %
+Stavreby Strandvej 17 4720 Præstø,17,484622.0,09-08-2009,Alm.,5635,3,Villa,86,1827,
+Ibsvej 3 4720 Præstø,3,1400000.0,06-08-2009,Alm.,9271,6,Villa,151,1963,-6 %
+Svend Gøngesvej 27 4720 Præstø,27,1150000.0,05-08-2009,Alm.,11165,4,Villa,103,1963,-4 %
+Kragevej 5 4720 Præstø,5,875000.0,03-08-2009,Alm.,15350,3,Sommerhus,57,1975,-10 %
+Pilevænget 8 4720 Præstø,8,1400000.0,03-08-2009,Alm.,13207,5,Sommerhus,106,2007,-6 %
+Fjordparken 14 4720 Præstø,14,935000.0,01-08-2009,Fam.,8201,4,Rækkehus,114,1972,
+Næstvedvej 71 4720 Præstø,71,690000.0,23-07-2009,Alm.,6160,3,Villa,112,1840,-7 %
+Klintestien 6 4720 Præstø,6,1615000.0,23-07-2009,Alm.,14816,4,Sommerhus,109,2016,-15 %
+Ternevej 6 4720 Præstø,6,1400000.0,20-07-2009,Alm.,9090,5,Villa,154,1974,
+Jungshovedvej 71 4720 Præstø,71,730500.0,17-07-2009,Andet,4870,5,Villa,150,1928,
+Jungshovedvej 66 4720 Præstø,66,150000.0,09-07-2009,Alm.,4285,2,Sommerhus,35,1965,
+Jungshovedvej 92 4720 Præstø,92,40000.0,09-07-2009,Auktion,0,4,Villa,138,1900,
+Mønvej 17 4720 Præstø,17,495000.0,08-07-2009,Alm.,9166,2,Villa,54,1887,0 %
+Rekkende By 6 4720 Præstø,6,895000.0,02-07-2009,Alm.,4613,6,Villa,194,1890,0 %
+Præstø Overdrev 10 4720 Præstø,10,895000.0,25-06-2009,Alm.,10287,3,Villa,87,1907,0 %
+Aagesvej 1 4720 Præstø,1,1347000.0,22-06-2009,Fam.,9977,6,Villa,135,1972,-3 %
+Gernersvej 38 4720 Præstø,38,1150000.0,17-06-2009,Alm.,9426,4,Villa,122,1973,0 %
+Hestehavevej 89 4720 Præstø,89,3700000.0,11-06-2009,Alm.,29838,3,Villa,124,1900,
+Kirkagerstræde 16 4720 Præstø,16,985000.0,10-06-2009,Alm.,7242,5,Villa,136,1900,0 %
+Stavreby Strandvej 28 4720 Præstø,28,240000.0,28-05-2009,Auktion,4000,2,Villa,60,1750,
+Antonivej 18 4720 Præstø,18,1660000.0,27-05-2009,Alm.,16600,4,Villa,100,1961,-2 %
+Ved Gadekæret 1 4720 Præstø,1,670000.0,19-05-2009,Alm.,8481,3,Villa,79,1897,-16 %
+Kragevej 3 4720 Præstø,3,795000.0,18-05-2009,Alm.,11865,4,Sommerhus,67,1978,-6 %
+Askevænget 3 4720 Præstø,3,1250000.0,01-05-2009,Fam.,35714,3,Sommerhus,35,1978,
+Smedestræde 3B 4720 Præstø,0,500000.0,29-04-2009,Alm.,7142,3,Villa,70,1900,-16 %
+Næbvej 1D 4720 Præstø,0,1041737.0,21-04-2009,Alm.,5570,5,Villa,187,1973,
+Smidstrupvej 41 4720 Præstø,41,310000.0,06-04-2009,Auktion,3522,2,Villa,88,1946,-55 %
+Mønvej 98 4720 Præstø,98,995000.0,02-04-2009,Alm.,6722,5,Villa,148,1931,0 %
+Strandgårdsvej 13 4720 Præstø,13,1095000.0,28-03-2009,Alm.,8051,4,Villa,136,1972,0 %
+Rødegårdsvej 61 4720 Præstø,61,995000.0,28-03-2009,Alm.,8963,4,Villa,111,1978,0 %
+Gernersvej 6 4720 Præstø,6,650000.0,27-03-2009,Andet,4710,5,Villa,138,1968,-57 %
+Ronesbanke 28 4720 Præstø,28,975000.0,20-03-2009,Andet,12341,2,Villa,79,1937,
+Abildhøjparken 98 4720 Præstø,98,425632.0,19-03-2009,Fam.,1998,6,Villa,213,2011,
+Christinelundsvej 21 4720 Præstø,21,410000.0,18-03-2009,Andet,2135,7,Villa,192,1964,
+Aagesvej 3 4720 Præstø,3,975000.0,16-03-2009,Alm.,7276,5,Villa,134,1965,-22 %
+Vagtelvej 10 4720 Præstø,10,650000.0,12-03-2009,Alm.,11016,3,Sommerhus,59,1977,
+Torvet 6 4720 Præstø,6,2970000.0,12-03-2009,Alm.,7815,15,Villa,380,1942,-34 %
+Bygvænget 28 4720 Præstø,28,1150000.0,03-03-2009,Alm.,9913,4,Villa,116,1981,0 %
+Rødegårdsvej 73 4720 Præstø,73,1315000.0,01-03-2009,Alm.,9813,4,Villa,134,1979,-3 %
+Juulsvej 20 4720 Præstø,20,1750000.0,27-02-2009,Alm.,33018,3,Sommerhus,53,1951,
+Vibevej 11 4720 Præstø,11,1075000.0,17-02-2009,Alm.,8464,4,Villa,127,1972,-5 %
+Faksinge By 1 4720 Præstø,1,1250000.0,15-02-2009,Andet,4752,9,Villa,263,1900,
+Hestehavevej 97 4720 Præstø,97,3400000.0,06-02-2009,Alm.,14977,6,Villa,227,1917,-2 %
+Hestehavevej 40 4720 Præstø,40,3000000.0,04-02-2009,Alm.,16666,6,Villa,180,1972,
+Stavreby Strandvej 29 4720 Præstø,29,1250000.0,01-02-2009,Alm.,17857,3,Villa,70,1827,-26 %
+Bakkestien 9 4720 Præstø,9,88400.0,31-01-2009,Fam.,2525,3,Sommerhus,35,1967,
+Egevænget 3 4720 Præstø,3,650000.0,27-01-2009,Alm.,12037,3,Sommerhus,54,1976,-6 %
+Lærkevej 24 4720 Præstø,24,285000.0,26-01-2009,Fam.,6063,3,Sommerhus,47,1978,
+Adelgade 109 4720 Præstø,109,725000.0,18-01-2009,Alm.,6590,5,Rækkehus,110,1900,-15 %
+"Svend Gønges Torv 6, 1. MF 4720 Præstø",0,6300000.0,12-01-2009,Andet,0,1,Lejlighed,72,1853,
+Smidstrupvej 22 4720 Præstø,22,2475000.0,08-01-2009,Alm.,11405,4,Stuehus,217,1897,
+Kirsebærvej 26 4720 Præstø,26,1800000.0,06-01-2009,Fam.,18947,3,Rækkehus,95,1981,
+"Adelgade 99B, 1 4720 Præstø",1,1670000.0,29-12-2008,Alm.,35531,2,Lejlighed,47,1985,
+Lundbyvej 11 4720 Præstø,11,800000.0,21-12-2008,Alm.,6666,4,Villa,120,1917,
+Valdemarsvej 1 4720 Præstø,1,1500000.0,17-12-2008,Alm.,8196,5,Villa,183,1972,-12 %
+Stavreby Strandvej 5 4720 Præstø,5,527682.0,11-12-2008,Alm.,0,3,Villa,115,1924,
+Mønvej 51 4720 Præstø,51,675000.0,10-12-2008,Alm.,10074,2,Villa,67,1877,-51 %
+Gernersvej 12 4720 Præstø,12,995000.0,04-12-2008,Alm.,9754,3,Villa,102,1965,-17 %
+Edmundsvej 5 4720 Præstø,5,643984.0,28-11-2008,Andet,4101,4,Villa,157,1971,
+Rekkendevej 17 4720 Præstø,17,302000.0,26-11-2008,Auktion,7190,2,Villa,42,1968,
+Åstræde 6 4720 Præstø,6,1450000.0,21-11-2008,Alm.,12719,3,Rækkehus,114,2005,-9 %
+Adelgade 144 4720 Præstø,144,1175000.0,20-11-2008,Fam.,4625,9,Villa,254,1887,
+Mønvej 46 4720 Præstø,46,1600000.0,19-11-2008,Alm.,10666,5,Villa,150,1900,
+Hestehavevej 68 4720 Præstø,68,941737.0,13-11-2008,Andet,7244,5,Villa,130,1929,
+Mønvej 120D 4720 Præstø,0,1425000.0,22-10-2008,Alm.,9375,4,Villa,152,1982,
+Næstvedvej 25 4720 Præstø,25,1775000.0,16-10-2008,Alm.,9646,6,Villa,184,1967,
+Lindevej 20 4720 Præstø,20,1300000.0,15-10-2008,Alm.,10400,6,Villa,125,1925,-7 %
+Hastrupvej 16 4720 Præstø,16,1290000.0,09-10-2008,Alm.,6482,9,Villa,199,1900,-4 %
+Ronesbanke 22 4720 Præstø,22,1262316.0,07-10-2008,Andet,5954,6,Stuehus,212,1986,
+Neblevej 5 4720 Præstø,5,995000.0,07-10-2008,Alm.,8024,3,Villa,124,1900,0 %
+Strandstien 8 4720 Præstø,8,1000000.0,01-10-2008,Alm.,22222,3,Villa,45,1962,-13 %
+"Lindevej 46, ST 4720 Præstø",0,1100000.0,30-09-2008,Fam.,11578,3,Lejlighed,95,1938,
+Næbvej 47 4720 Præstø,47,1600000.0,26-09-2008,Alm.,11428,5,Villa,140,1910,-14 %
+Hestehavevej 83 4720 Præstø,83,3750000.0,24-09-2008,Alm.,16304,6,Villa,230,2011,
+Bøgevænget 7 4720 Præstø,7,700000.0,02-09-2008,Alm.,11475,3,Sommerhus,61,1967,0 %
+Tranevej 4 4720 Præstø,4,1795000.0,28-08-2008,Alm.,12730,4,Villa,141,1977,0 %
+Fjordparken 3 4720 Præstø,3,1695000.0,26-08-2008,Alm.,14868,5,Rækkehus,114,1971,0 %
+Mønvej 164 4720 Præstø,164,1920000.0,23-08-2008,Alm.,8240,7,Villa,233,1866,-4 %
+Hovmarken 5 4720 Præstø,5,2150000.0,21-08-2008,Alm.,13190,6,Villa,163,1988,-9 %
+Rekkendevej 9 4720 Præstø,9,2800000.0,19-08-2008,Alm.,12121,10,Villa,231,1918,
+Ny Esbjergvej 11 4720 Præstø,11,1625000.0,16-08-2008,Alm.,13541,3,Villa,120,1930,-4 %
+Smidstrupvej 5 4720 Præstø,5,895000.0,15-08-2008,Alm.,6392,6,Villa,140,1928,0 %
+Vesterbro 6 4720 Præstø,6,1925000.0,15-08-2008,Alm.,9210,8,Rækkehus,209,1900,
+Lydehøjvej 18A 4720 Præstø,0,650000.0,09-08-2008,Alm.,15476,2,Sommerhus,42,1963,
+Svanevej 20 4720 Præstø,20,4325000.0,09-08-2008,Alm.,23505,6,Villa,184,1977,-4 %
+Gernersvej 7 4720 Præstø,7,1450000.0,06-08-2008,Alm.,9235,6,Villa,157,1967,-9 %
+Næstvedvej 21 4720 Præstø,21,1450000.0,01-08-2008,Alm.,8381,4,Villa,173,1889,-8 %
+"Strandvejen 4A, 1. TH 4720 Præstø",0,760000.0,30-07-2008,Alm.,10410,2,Lejlighed,73,1976,-3 %
+Rekkendevej 35 4720 Præstø,35,2400000.0,28-07-2008,Alm.,19834,7,Stuehus,121,1847,
+Skovhusevej 24 4720 Præstø,24,1295000.0,28-07-2008,Alm.,9316,4,Villa,139,1887,-13 %
+Svalevej 1 4720 Præstø,1,300000.0,25-07-2008,Alm.,7500,2,Sommerhus,40,1974,
+Hovedvejen 123 4720 Præstø,123,1425000.0,14-07-2008,Alm.,17812,3,Villa,80,1957,-5 %
+Bøged Strandvej 36 4720 Præstø,36,1225000.0,09-07-2008,Alm.,18014,4,Sommerhus,68,1979,-12 %
+"Per Thyges Torv 2C, 1. TV 4720 Præstø",0,550000.0,04-07-2008,Alm.,9821,1,Lejlighed,56,1988,
+Jungshovedvej 64 4720 Præstø,64,730000.0,03-07-2008,Alm.,11774,3,Villa,62,1925,-3 %
+Hestehavevej 56 4720 Præstø,56,1500000.0,01-07-2008,Alm.,13043,4,Villa,115,1953,-8 %
+Faksevej 16 4720 Præstø,16,1950000.0,29-06-2008,Alm.,11818,4,Villa,165,1931,0 %
+Anemonevej 8 4720 Præstø,8,1800000.0,28-06-2008,Alm.,20224,3,Sommerhus,89,2008,
+Enegaarde By 6 4720 Præstø,6,1495000.0,26-06-2008,Alm.,13590,4,Villa,110,1978,0 %
+Håndværkervej 14 4720 Præstø,14,2345000.0,21-06-2008,Alm.,12607,6,Villa,186,1988,-10 %
+Fjordparken 8 4720 Præstø,8,1575000.0,16-06-2008,Alm.,13815,5,Rækkehus,114,1971,-3 %
+Egestræde 3 4720 Præstø,3,850000.0,12-06-2008,Alm.,7727,4,Villa,110,1860,
+Pilevænget 14 4720 Præstø,14,435000.0,11-06-2008,Alm.,3717,5,Sommerhus,117,2009,
+Hybenvej 2 4720 Præstø,2,637500.0,11-06-2008,Alm.,10450,4,Sommerhus,61,1984,-6 %
+Rødegårdsvej 33 4720 Præstø,33,1400000.0,10-06-2008,Alm.,13207,4,Villa,106,1978,-11 %
+Bogfinkevej 7 4720 Præstø,7,860000.0,09-06-2008,Alm.,15357,3,Sommerhus,56,1977,-7 %
+Lovgårdsvej 1 4720 Præstø,1,1000000.0,01-06-2008,Fam.,12500,2,Villa,80,1827,
+Klintestien 37 4720 Præstø,37,800000.0,31-05-2008,Alm.,14814,4,Sommerhus,54,1972,
+Vagtelvej 7 4720 Præstø,7,1325000.0,30-05-2008,Alm.,17666,4,Sommerhus,75,2003,0 %
+Næstvedvej 26 4720 Præstø,26,3400000.0,27-05-2008,Alm.,26153,6,Stuehus,130,1890,-9 %
+"Adelgade 71A, 1 4720 Præstø",1,2300000.0,23-05-2008,Alm.,10267,7,Rækkehus,224,1910,
+"Per Thyges Torv 2D, 1. TH 4720 Præstø",0,462500.0,20-05-2008,Andet,5572,3,Lejlighed,83,1988,
+Pilevænget 3 4720 Præstø,3,935000.0,20-05-2008,Alm.,14609,3,Sommerhus,64,1977,-5 %
+Snaphanevej 4 4720 Præstø,4,1650000.0,30-04-2008,Alm.,11458,5,Villa,144,1963,-3 %
+Kirkagerstræde 6 4720 Præstø,6,1000000.0,30-04-2008,Alm.,8130,4,Villa,123,1959,-9 %
+Søtoftsvej 14 4720 Præstø,14,1745000.0,29-04-2008,Alm.,12925,6,Villa,135,1946,-3 %
+Smedestræde 11 4720 Præstø,11,1035000.0,23-04-2008,Alm.,8846,4,Villa,117,1900,-5 %
+Maylandsvej 12 4720 Præstø,12,1000000.0,19-04-2008,Alm.,8771,4,Villa,114,1972,-28 %
+Hjørnehusvej 12 4720 Præstø,12,1225000.0,19-04-2008,Alm.,15123,4,Villa,81,1969,-4 %
+Rødegårdsvej 9 4720 Præstø,9,2975000.0,09-04-2008,Alm.,18140,4,Villa,164,1986,
+Pilehøjvej 7 4720 Præstø,7,13000000.0,08-04-2008,Alm.,48872,5,Stuehus,266,1898,
+Mosestien 12 4720 Præstø,12,625000.0,03-04-2008,Alm.,12500,4,Sommerhus,50,1971,-7 %
+"Rådhusstræde 2C, 1. TH 4720 Præstø",0,565000.0,03-04-2008,Alm.,10865,1,Lejlighed,52,1987,0 %
+Primulavej 16 4720 Præstø,16,795000.0,03-04-2008,Alm.,15900,3,Sommerhus,50,1991,-9 %
+Skovhusevej 4 4720 Præstø,4,1250000.0,03-04-2008,Alm.,11467,5,Villa,109,1900,0 %
+Svanegårdsvej 4 4720 Præstø,4,3300000.0,30-03-2008,Alm.,21290,4,Stuehus,155,2001,-2 %
+Neblevej 6 4720 Præstø,6,2350000.0,27-03-2008,Alm.,14687,5,Villa,160,1875,-12 %
+Rødegårdsvej 75 4720 Præstø,75,2000000.0,14-03-2008,Alm.,10362,5,Villa,193,1979,-4 %
+Mønvej 109 4720 Præstø,109,850000.0,21-02-2008,Alm.,9444,4,Villa,90,1934,-5 %
+Præstø Overdrev 24 4720 Præstø,24,1800000.0,20-02-2008,Fam.,10588,7,Villa,170,1843,
+Fjordparken 33 4720 Præstø,33,865000.0,19-02-2008,Alm.,14180,2,Rækkehus,61,1977,0 %
+Solsortvej 8 4720 Præstø,8,998000.0,14-02-2008,Alm.,13671,4,Sommerhus,73,1977,0 %
+Ellemosevej 28 4720 Præstø,28,1175000.0,12-02-2008,Alm.,11989,3,Villa,98,1968,0 %
+Ronesbanke 30 4720 Præstø,30,1450000.0,08-02-2008,Alm.,11983,4,Villa,121,1830,0 %
+Mønvej 104 4720 Præstø,104,3000000.0,25-01-2008,Fam.,17647,5,Stuehus,170,1952,
+Bøged Strandvej 38 4720 Præstø,38,800000.0,24-01-2008,Fam.,10666,3,Sommerhus,75,1969,
+Roneklintvej 28 4720 Præstø,28,578000.0,24-01-2008,Fam.,7410,5,Villa,78,1915,
+"Havnevej 15, 1 4720 Præstø",1,1900000.0,11-01-2008,Alm.,37254,2,Lejlighed,51,1868,
+Lundbyvej 26 4720 Præstø,26,2875000.0,11-01-2008,Alm.,12339,6,Villa,233,2005,
+Hovedvejen 130 4720 Præstø,130,26000000.0,09-01-2008,Alm.,208000,5,Villa,125,1900,
+Egebjergvej 4 4720 Præstø,4,750000.0,07-01-2008,Alm.,4310,6,Villa,174,1908,
+Hovedvejen 131 4720 Præstø,131,700000.0,04-01-2008,Alm.,7368,4,Villa,95,1938,
+Hastrupvej 11 4720 Præstø,11,100000.0,23-12-2007,Alm.,1333,3,Stuehus,75,1921,
+Bøgebjergvej 12 4720 Præstø,12,250000.0,22-12-2007,Alm.,1428,5,Stuehus,175,1924,
+Næbvej 49 4720 Præstø,49,2250000.0,20-12-2007,Alm.,18750,3,Villa,120,1912,-4 %
+Hejrevej 23 4720 Præstø,23,1775000.0,19-12-2007,Alm.,14087,3,Villa,126,1979,-1 %
+Stavreby Strandvej 20 4720 Præstø,20,700000.0,14-12-2007,Alm.,10000,3,Villa,70,1960,-33 %
+Ternevej 15 4720 Præstø,15,1625000.0,13-12-2007,Alm.,15476,4,Villa,105,1972,0 %
+Lundegårdsvej 9 4720 Præstø,9,1660000.0,12-12-2007,Alm.,12868,5,Villa,129,1900,-2 %
+Teglstrupvej 8 4720 Præstø,8,3900000.0,10-12-2007,Fam.,20418,10,Stuehus,191,1870,
+Smidstrupvej 21 4720 Præstø,21,2900000.0,05-12-2007,Alm.,20422,5,Villa,142,1827,-3 %
+Mønvej 50 4720 Præstø,50,990000.0,04-12-2007,Alm.,11647,3,Villa,85,1955,-1 %
+Edmundsvej 3 4720 Præstø,3,852757.0,03-12-2007,Fam.,8121,4,Villa,105,1971,
+Mønvej 126 4720 Præstø,126,1195000.0,02-12-2007,Alm.,7966,4,Villa,150,1962,0 %
+Bøgevænget 4 4720 Præstø,4,750000.0,01-12-2007,Fam.,15625,3,Sommerhus,48,1966,-12 %
+Næstvedvej 75 4720 Præstø,75,1990000.0,30-11-2007,Alm.,16311,5,Villa,122,1900,0 %
+Anemonevej 17 4720 Præstø,17,480000.0,28-11-2007,Alm.,13714,3,Sommerhus,35,2006,-9 %
+"Østerbro 4, 1. TH 4720 Præstø",0,975000.0,27-11-2007,Alm.,11470,3,Lejlighed,85,1946,0 %
+"Jernbanevej 2A, 1 4720 Præstø",1,726785.0,20-11-2007,Andet,7650,3,Lejlighed,95,1900,
+"Jernbanevej 2D, 1. TV 4720 Præstø",0,772210.0,20-11-2007,Andet,8393,4,Lejlighed,92,1900,
+"Jernbanevej 2D, 2. TH 4720 Præstø",0,953906.0,20-11-2007,Andet,7065,4,Lejlighed,135,1900,
+"Jernbanevej 2D, 2. TV 4720 Præstø",0,938765.0,20-11-2007,Andet,8381,3,Lejlighed,112,1900,
+"Jernbanevej 2D, 1. TH 4720 Præstø",0,817634.0,20-11-2007,Andet,8343,4,Lejlighed,98,1900,
+"Jernbanevej 2E, ST 4720 Præstø",0,817634.0,20-11-2007,Andet,8887,3,Lejlighed,92,1900,
+"Jernbanevej 2F, 1 4720 Præstø",1,802492.0,20-11-2007,Andet,7362,2,Lejlighed,109,1900,
+Bygvænget 6 4720 Præstø,6,1695000.0,16-11-2007,Alm.,13139,4,Villa,129,1986,0 %
+Dyremarken 14 4720 Præstø,14,550000.0,16-11-2007,Alm.,9166,3,Villa,60,1960,0 %
+Ronesbanke 9 4720 Præstø,9,995000.0,09-11-2007,Alm.,10585,3,Villa,94,1980,0 %
+"Strandvejen 2, ST. TV 4720 Præstø",0,650000.0,01-11-2007,Alm.,9154,3,Lejlighed,71,1976,-6 %
+"Adelgade 55, 1. TV 4720 Præstø",0,1250000.0,25-10-2007,Alm.,8445,5,Lejlighed,148,1847,-3 %
+Gernersvej 24 4720 Præstø,24,950000.0,22-10-2007,Alm.,8962,4,Villa,106,1969,
+Ugledigevej 14 4720 Præstø,14,1235000.0,20-10-2007,Alm.,0,7,Villa,162,1870,
+Mønvej 67 4720 Præstø,67,1390000.0,17-10-2007,Alm.,10145,5,Villa,137,1926,-6 %
+Hestehavevej 74A 4720 Præstø,0,2230000.0,15-10-2007,Alm.,15928,5,Villa,140,1965,-2 %
+Strandgårdsvej 2 4720 Præstø,2,1540000.0,03-10-2007,Alm.,14259,4,Villa,108,1972,-1 %
+Juulsvej 16 4720 Præstø,16,1320000.0,03-10-2007,Alm.,7415,5,Villa,178,2008,-12 %
+Skovhusevej 26 4720 Præstø,26,2300000.0,01-10-2007,Alm.,15753,6,Villa,146,1850,-8 %
+Lindevej 31 4720 Præstø,31,2750000.0,30-09-2007,Alm.,19230,5,Villa,143,1933,0 %
+Askevænget 7 4720 Præstø,7,400000.0,27-09-2007,Alm.,6060,3,Sommerhus,66,2008,
+Mønvej 99A 4720 Præstø,0,1375000.0,24-09-2007,Alm.,12387,3,Villa,111,1900,0 %
+Priesesstræde 4 4720 Præstø,4,1850000.0,18-09-2007,Alm.,15677,4,Villa,118,2007,-4 %
+Bygvænget 51 4720 Præstø,51,450000.0,15-09-2007,Alm.,0,8,Villa,191,2008,
+Bøged Strandvej 22 4720 Præstø,22,2100000.0,15-09-2007,Alm.,30882,5,Sommerhus,68,1969,-3 %
+Jungshovedvej 72 4720 Præstø,72,895000.0,15-09-2007,Alm.,0,4,Villa,123,1907,0 %
+Strædet 2 4720 Præstø,2,795000.0,14-09-2007,Alm.,8548,3,Villa,93,1900,0 %
+Stærevej 4 4720 Præstø,4,1125000.0,12-09-2007,Alm.,15202,3,Sommerhus,74,1985,-8 %
+Mønvej 21 4720 Præstø,21,1175000.0,12-09-2007,Alm.,11750,3,Villa,100,1919,0 %
+Fredensvej 6 4720 Præstø,6,1675000.0,10-09-2007,Alm.,11879,5,Villa,141,1979,0 %
+Stavreby Strandvej 10 4720 Præstø,10,1025000.0,29-08-2007,Alm.,8760,5,Villa,117,1877,
+Klintestien 19 4720 Præstø,19,700000.0,28-08-2007,Andet,10606,3,Sommerhus,66,1968,
+Mønvej 90 4720 Præstø,90,1820000.0,27-08-2007,Alm.,17843,3,Villa,102,1852,-2 %
+Egestræde 18 4720 Præstø,18,1375000.0,25-08-2007,Alm.,12276,3,Villa,112,1900,0 %
+Rødegårdsvej 51 4720 Præstø,51,2250000.0,16-08-2007,Alm.,13888,4,Villa,162,1978,-2 %
+"Per Thyges Torv 2B, 2. TV 4720 Præstø",0,1185000.0,11-08-2007,Alm.,11394,3,Lejlighed,104,1988,0 %
+Mønvej 53A 4720 Præstø,0,1295000.0,09-08-2007,Alm.,9316,5,Villa,139,1914,-7 %
+Lydehøjvej 10 4720 Præstø,10,800000.0,03-08-2007,Alm.,10666,3,Villa,75,1902,-11 %
+Nihøjvej 3 4720 Præstø,3,24600000.0,02-08-2007,Alm.,72352,9,Stuehus,340,1855,
+Østerbro 18 4720 Præstø,18,1275000.0,02-08-2007,Alm.,8978,4,Villa,142,1962,-11 %
+Ronesbanke 15 4720 Præstø,15,1545000.0,01-08-2007,Alm.,6082,6,Villa,254,1906,-3 %
+Præstegårdsvej 8 4720 Præstø,8,750000.0,31-07-2007,Alm.,8928,3,Villa,84,1927,-14 %
+Sneserevej 11 4720 Præstø,11,1450000.0,28-07-2007,Alm.,0,5,Villa,194,1876,-8 %
+Egevænget 5 4720 Præstø,5,720000.0,25-07-2007,Alm.,15652,2,Sommerhus,46,1975,-6 %
+Rekkendevej 11 4720 Præstø,11,760000.0,25-07-2007,Auktion,4245,4,Villa,179,1935,
+Egelyvej 10 4720 Præstø,10,1875000.0,19-07-2007,Alm.,13489,4,Villa,139,1973,-5 %
+Vægtervej 9 4720 Præstø,9,1825000.0,17-07-2007,Alm.,10549,7,Villa,173,1981,0 %
+"Lindevej 46, 1 4720 Præstø",1,1250000.0,17-07-2007,Alm.,13157,3,Lejlighed,95,1938,0 %
+Stavreby Strandvej 39 4720 Præstø,39,2200000.0,17-07-2007,Alm.,12290,5,Villa,179,1882,
+"Per Thyges Torv 2D, 1. TV 4720 Præstø",0,1000000.0,12-07-2007,Alm.,8403,4,Lejlighed,119,1988,
+"Per Thyges Torv 2E, 1 4720 Præstø",1,475000.0,12-07-2007,Alm.,8050,2,Lejlighed,59,1988,
+Ternevej 1 4720 Præstø,1,1750000.0,12-07-2007,Alm.,12500,5,Villa,140,1977,-7 %
+Klintestien 25 4720 Præstø,25,1030000.0,07-07-2007,Alm.,30294,3,Sommerhus,34,1969,-6 %
+Ørnevej 14 4720 Præstø,14,952000.0,03-07-2007,Alm.,17309,3,Sommerhus,55,1978,-4 %
+Stavreby Strandvej 15 4720 Præstø,15,1220000.0,03-07-2007,Alm.,11296,4,Rækkehus,108,1825,-6 %
+Næbvej 10A 4720 Præstø,0,2400000.0,28-06-2007,Alm.,6091,12,Villa,394,1979,9 %
+Vibevej 19 4720 Præstø,19,1450000.0,27-06-2007,Alm.,0,3,Villa,115,1972,-9 %
+Vesterbro 19 4720 Præstø,19,1160000.0,26-06-2007,Alm.,13647,3,Rækkehus,85,1984,-3 %
+Christinelundsvej 19 4720 Præstø,19,1915000.0,22-06-2007,Alm.,12044,5,Villa,159,1973,-4 %
+Tranevej 18 4720 Præstø,18,1425000.0,22-06-2007,Alm.,15659,3,Villa,91,1975,0 %
+Vagtelvej 11 4720 Præstø,11,1750000.0,20-06-2007,Alm.,16203,3,Sommerhus,108,2003,-4 %
+Smidstrupvej 12 4720 Præstø,12,4450000.0,19-06-2007,Alm.,24585,8,Villa,181,1973,
+Kirkagerstræde 17 4720 Præstø,17,350000.0,19-06-2007,Alm.,2413,5,Villa,145,2009,
+Lundegårdsvej 15A 4720 Præstø,0,2150000.0,19-06-2007,Alm.,13437,4,Villa,160,1997,0 %
+Juulsvej 33 4720 Præstø,33,765000.0,14-06-2007,Fam.,3805,4,Villa,201,1979,
+Bygvænget 55 4720 Præstø,55,3090000.0,14-06-2007,Alm.,17166,6,Villa,180,1900,-2 %
+Præstø Overdrev 9 4720 Præstø,9,1195000.0,06-06-2007,Alm.,8722,4,Villa,137,1890,0 %
+Ronesbanke 2 4720 Præstø,2,1700000.0,04-06-2007,Alm.,9139,7,Villa,186,1973,
+Fuglsangvej 5 4720 Præstø,5,1445000.0,01-06-2007,Alm.,10321,5,Villa,140,1945,-3 %
+Svanegårdsvej 2 4720 Præstø,2,3410000.0,30-05-2007,Alm.,16238,8,Villa,210,1800,
+Smidstrupvej 29 4720 Præstø,29,1000000.0,29-05-2007,Alm.,9009,5,Villa,111,1870,-9 %
+Jungshovedvej 80 4720 Præstø,80,2850000.0,29-05-2007,Alm.,12284,5,Villa,232,1850,-5 %
+Birkevænget 8 4720 Præstø,8,1095000.0,28-05-2007,Alm.,17109,3,Sommerhus,64,1977,0 %
+Bakkestien 36 4720 Præstø,36,950000.0,26-05-2007,Alm.,19791,2,Sommerhus,48,1965,-13 %
+Rødegårdsvej 99 4720 Præstø,99,1870000.0,24-05-2007,Alm.,12808,5,Villa,146,1979,-1 %
+Rødegårdsvej 146 4720 Præstø,146,1545000.0,15-05-2007,Alm.,16093,3,Rækkehus,96,2008,0 %
+Jungshovedvej 47 4720 Præstø,47,1400000.0,14-05-2007,Alm.,13592,4,Villa,103,1933,
+Kastanievænget 11 4720 Præstø,11,1275000.0,14-05-2007,Alm.,9586,5,Sommerhus,133,1985,-9 %
+Snaphanevej 3 4720 Præstø,3,1365000.0,11-05-2007,Alm.,0,4,Villa,104,1963,-2 %
+Fyrrevænget 15 4720 Præstø,15,930000.0,10-05-2007,Alm.,15245,4,Sommerhus,61,1979,-2 %
+Mønvej 115 4720 Præstø,115,1175000.0,09-05-2007,Alm.,10217,3,Villa,115,1850,0 %
+Rødegårdsvej 160 4720 Præstø,160,1545000.0,08-05-2007,Alm.,16093,3,Rækkehus,96,2007,0 %
+Roneklintvej 34 4720 Præstø,34,1500000.0,07-05-2007,Alm.,0,4,Villa,182,1958,
+Rosagervej 18 4720 Præstø,18,1725000.0,05-05-2007,Alm.,13582,4,Villa,127,1982,0 %
+Klintestien 29 4720 Præstø,29,1320000.0,02-05-2007,Alm.,24000,3,Sommerhus,55,1958,-16 %
+Ådalsvej 10 4720 Præstø,10,600000.0,30-04-2007,Alm.,5309,3,Villa,113,2015,-4 %
+Lundbyvej 17 4720 Præstø,17,1000000.0,30-04-2007,Alm.,15384,2,Villa,65,1864,
+"Havnevej 12, ST. TH 4720 Præstø",0,630000.0,27-04-2007,Alm.,9545,2,Lejlighed,66,1847,
+Solsortvej 13 4720 Præstø,13,750000.0,22-04-2007,Fam.,12931,4,Sommerhus,58,1977,
+Grønnegade 1 4720 Præstø,1,3750000.0,17-04-2007,Alm.,11061,14,Villa,339,1796,
+Mønvej 57 4720 Præstø,57,1998000.0,17-04-2007,Alm.,14271,6,Villa,140,1920,0 %
+Jungshovedvej 49 4720 Præstø,49,2000000.0,15-04-2007,Fam.,10582,7,Villa,189,1926,
+Hestehavevej 5 4720 Præstø,5,3800000.0,04-04-2007,Alm.,15447,8,Villa,246,1936,
+Solsortvej 4 4720 Præstø,4,430000.0,02-04-2007,Fam.,5810,4,Sommerhus,74,1981,
+Egebjergvej 20 4720 Præstø,20,1200000.0,02-04-2007,Alm.,16901,2,Villa,71,1900,
+Bogfinkevej 9 4720 Præstø,9,1100000.0,31-03-2007,Alm.,14666,4,Sommerhus,75,1996,0 %
+Duevej 2 4720 Præstø,2,665000.0,29-03-2007,Alm.,17972,3,Sommerhus,37,1974,-1 %
+Jungshovedvej 88 4720 Præstø,88,1150000.0,26-03-2007,Alm.,8846,3,Villa,130,1890,
+Bygvænget 20 4720 Præstø,20,1650000.0,26-03-2007,Alm.,13524,4,Villa,122,1981,-3 %
+Strandstien 6 4720 Præstø,6,2275000.0,24-03-2007,Alm.,18801,3,Villa,121,1989,-4 %
+Kirkagerstræde 15 4720 Præstø,15,1125000.0,23-03-2007,Alm.,0,3,Villa,112,1998,-2 %
+Rødeledvej 6 4720 Præstø,6,1200000.0,18-03-2007,Alm.,9523,5,Villa,126,1946,-4 %
+Rugvænget 19 4720 Præstø,19,2100000.0,14-03-2007,Alm.,17073,4,Villa,123,1999,-3 %
+Næbvej 17 4720 Præstø,17,590000.0,23-02-2007,Alm.,7662,3,Rækkehus,77,1827,
+Adelgade 8 4720 Præstø,8,1675000.0,17-02-2007,Alm.,12316,3,Rækkehus,136,1887,0 %
+Kragevej 6 4720 Præstø,6,433500.0,10-02-2007,Fam.,12041,3,Sommerhus,36,1987,
+Ellemosevej 3 4720 Præstø,3,1695000.0,06-02-2007,Alm.,10149,5,Villa,167,1969,0 %
+Mønvej 82 4720 Præstø,82,4712500.0,05-02-2007,Fam.,20944,6,Stuehus,225,1868,
+Svalevej 2 4720 Præstø,2,1350000.0,04-02-2007,Alm.,18243,3,Sommerhus,74,2005,-3 %
+Duevangen 6 4720 Præstø,6,875000.0,02-02-2007,Alm.,17857,2,Villa,49,1780,0 %
+Gyvelvej 10 4720 Præstø,10,1750000.0,02-02-2007,Alm.,14112,4,Sommerhus,124,1977,-3 %
+Havnevej 12L 4720 Præstø,0,1395000.0,01-02-2007,Alm.,15852,3,Rækkehus,88,1879,0 %
+Rødegårdsvej 144 4720 Præstø,144,1538100.0,31-01-2007,Alm.,16021,3,Rækkehus,96,2007,
+Rødegårdsvej 148 4720 Præstø,148,1545000.0,31-01-2007,Alm.,16093,3,Rækkehus,96,2007,
+Hastrupvej 9 4720 Præstø,9,3995000.0,31-01-2007,Fam.,21711,7,Stuehus,184,1975,
+Tjørnehoved By 5 4720 Præstø,5,950000.0,30-01-2007,Alm.,9405,4,Rækkehus,101,1900,-5 %
+Mønvej 52 4720 Præstø,52,2230000.0,27-01-2007,Alm.,10825,7,Villa,206,1935,
+Mønvej 41B 4720 Præstø,0,1200000.0,24-01-2007,Alm.,6703,5,Villa,179,2007,
+Roneklintvej 2 4720 Præstø,2,2600000.0,24-01-2007,Alm.,10699,7,Villa,243,1924,-2 %
+Skolegårdsvej 3 4720 Præstø,3,1005000.0,19-01-2007,Alm.,9136,4,Villa,110,1963,
+Kastanievænget 3 4720 Præstø,3,710000.0,21-12-2006,Alm.,12909,4,Sommerhus,55,1978,
+Rugvænget 43 4720 Præstø,43,1595000.0,21-12-2006,Alm.,12967,3,Rækkehus,123,2001,
+Bøgevænget 10 4720 Præstø,10,433500.0,20-12-2006,Fam.,10081,3,Sommerhus,43,1963,
+Ambæk Mark 15 4720 Præstø,15,2500000.0,11-12-2006,Alm.,17857,5,Stuehus,140,1917,
+Lærkevej 5 4720 Præstø,5,600000.0,11-12-2006,Alm.,9836,4,Sommerhus,61,1976,
+Mønvej 64 4720 Præstø,64,900000.0,08-12-2006,Alm.,9677,4,Villa,93,1900,
+Sneserevej 21 4720 Præstø,21,1100000.0,25-11-2006,Alm.,8870,4,Villa,124,1967,
+Abildhøjparken 57B 4720 Præstø,0,1798000.0,22-11-2006,Alm.,16803,4,Rækkehus,107,2006,
+"Jomfrustræde 3, 2. TH 4720 Præstø",0,985000.0,21-11-2006,Alm.,9752,3,Lejlighed,101,1872,
+Kragevej 2 4720 Præstø,2,1030000.0,19-11-2006,Alm.,15373,3,Sommerhus,67,1980,
+Lydehøjvej 5 4720 Præstø,5,2640000.0,18-11-2006,Alm.,12511,5,Villa,211,1920,
+Strandstien 4 4720 Præstø,4,1510000.0,16-11-2006,Alm.,14519,4,Villa,104,1964,
+Hestehavevej 80 4720 Præstø,80,2750000.0,16-11-2006,Alm.,14864,4,Villa,185,1922,
+Priesesstræde 2 4720 Præstø,2,1725000.0,09-11-2006,Alm.,14618,4,Villa,118,2007,
+Rekkendevej 23 4720 Præstø,23,2100000.0,07-11-2006,Alm.,14788,5,Villa,142,1951,
+Solsortvej 14 4720 Præstø,14,435000.0,07-11-2006,Alm.,6904,4,Sommerhus,63,1976,
+Sneserevej 43 4720 Præstø,43,1950000.0,28-10-2006,Alm.,13000,4,Villa,150,1969,
+Ugledigevej 2 4720 Præstø,2,595000.0,17-10-2006,Fam.,3541,5,Villa,168,1900,
+Bakkestien 28 4720 Præstø,28,775000.0,16-10-2006,Alm.,12301,3,Sommerhus,63,1970,
+Evensølundvej 4 4720 Præstø,4,2032500.0,16-10-2006,Alm.,14017,7,Villa,145,1939,
+Skovhusevej 31 4720 Præstø,31,3950000.0,14-10-2006,Alm.,0,6,Stuehus,209,1972,
+Lundbyvej 2 4720 Præstø,2,1150000.0,12-10-2006,Alm.,8712,4,Villa,132,1935,
+Kastanievænget 2 4720 Præstø,2,775000.0,11-10-2006,Alm.,16145,4,Sommerhus,48,1974,
+Hestehavevej 93 4720 Præstø,93,1450000.0,09-10-2006,Alm.,11153,6,Villa,130,1900,
+Fasanvej 3 4720 Præstø,3,2050000.0,05-10-2006,Alm.,13851,5,Villa,148,1968,
+Oregaardsvængevej 9 4720 Præstø,9,1650000.0,03-10-2006,Alm.,11073,5,Villa,149,1877,
+Næbvej 13 4720 Præstø,13,775000.0,03-10-2006,Alm.,10915,3,Villa,71,1870,
+Vagtelvej 6 4720 Præstø,6,1500000.0,01-10-2006,Alm.,15306,4,Sommerhus,98,2006,
+Bakkestien 41 4720 Præstø,41,1025000.0,28-09-2006,Alm.,20500,3,Sommerhus,50,1981,
+Grønnegade 10 4720 Præstø,10,1625000.0,26-09-2006,Alm.,10350,5,Rækkehus,157,1961,
+"Torvet 16, ST. TH 4720 Præstø",0,825000.0,24-09-2006,Alm.,14732,2,Lejlighed,56,1827,
+Lundegårdsvej 6 4720 Præstø,6,681257.0,22-09-2006,Alm.,4205,6,Villa,162,1961,
+Egebjergvej 7 4720 Præstø,7,570000.0,20-09-2006,Andet,5277,2,Villa,108,2007,
+Egestræde 16 4720 Præstø,16,1375000.0,17-09-2006,Alm.,11178,3,Villa,123,1898,
+Ibsvej 1 4720 Præstø,1,1395000.0,15-09-2006,Alm.,12025,4,Villa,116,1962,
+Hjørnehusvej 3 4720 Præstø,3,1795000.0,14-09-2006,Alm.,11218,6,Villa,160,1969,
+Næbvej 6 4720 Præstø,6,1895000.0,13-09-2006,Alm.,15282,4,Villa,124,1966,
+Rødegårdsvej 150 4720 Præstø,150,1545000.0,09-09-2006,Alm.,16093,3,Rækkehus,96,2006,
+Abildhøjvej 11 4720 Præstø,11,1425000.0,07-09-2006,Alm.,14843,3,Villa,96,1966,
+Lillemarksvej 11 4720 Præstø,11,756500.0,04-09-2006,Fam.,6694,4,Villa,113,1777,
+Nysøvej 2 4720 Præstø,2,688500.0,04-09-2006,Fam.,6620,3,Villa,104,1957,
+Skovhusevej 25 4720 Præstø,25,705500.0,04-09-2006,Fam.,6849,3,Villa,103,1777,
+Stavreby Strandvej 1 4720 Præstø,1,731000.0,04-09-2006,Fam.,6645,3,Villa,110,1942,
+Præstø Overdrev 22 4720 Præstø,22,935000.0,04-09-2006,Fam.,7192,4,Villa,130,1850,
+"Per Thyges Torv 2D, 2. TH 4720 Præstø",0,1025000.0,02-09-2006,Alm.,10904,3,Lejlighed,94,1988,
+Abildhøjparken 55A 4720 Præstø,0,1600000.0,01-09-2006,Alm.,14953,4,Rækkehus,107,2006,
+"Havnevej 12, 1. TH 4720 Præstø",0,695000.0,30-08-2006,Alm.,12636,1,Lejlighed,55,1847,
+"Torvestræde 3, 2. 16 4720 Præstø",16,975000.0,26-08-2006,Alm.,10714,3,Lejlighed,91,1807,
+Abildhøjparken 86 4720 Præstø,86,469551.0,23-08-2006,Alm.,3478,5,Villa,135,2007,
+Lærkevej 17 4720 Præstø,17,975000.0,22-08-2006,Alm.,15000,4,Sommerhus,65,1975,
+Hestehavevej 84 4720 Præstø,84,1485000.0,22-08-2006,Alm.,0,6,Villa,163,1960,
+Abildhøjparken 55B 4720 Præstø,0,1525000.0,18-08-2006,Alm.,14252,4,Rækkehus,107,2006,
+Lindevej 41A 4720 Præstø,0,1825000.0,17-08-2006,Alm.,17380,4,Villa,105,2003,
+Skovhusevej 35 4720 Præstø,35,1000000.0,13-08-2006,Fam.,6578,5,Villa,152,1872,
+Fjordparken 40 4720 Præstø,40,795000.0,09-08-2006,Alm.,0,2,Rækkehus,61,1977,
+Abildhøjparken 57A 4720 Præstø,0,1525000.0,09-08-2006,Alm.,14252,4,Rækkehus,107,2006,
+Hovedvejen 125 4720 Præstø,125,1510000.0,07-08-2006,Alm.,0,5,Villa,212,1922,
+Aagesvej 20 4720 Præstø,20,1245000.0,05-08-2006,Alm.,11857,4,Villa,105,1971,
+Antonivej 3 4720 Præstø,3,865491.0,03-08-2006,Alm.,6923,6,Villa,125,1951,
+Lindevej 23 4720 Præstø,23,1920000.0,01-08-2006,Alm.,14769,4,Villa,130,1948,
+Gernersvej 15 4720 Præstø,15,1050000.0,28-07-2006,Alm.,10000,4,Villa,105,1969,
+Hestehavevej 1B 4720 Præstø,0,4650000.0,28-07-2006,Alm.,22794,7,Villa,204,1965,
+Hejrevej 4 4720 Præstø,4,1850000.0,26-07-2006,Alm.,10000,7,Villa,185,1977,
+Abildhøjparken 88 4720 Præstø,88,469551.0,25-07-2006,Alm.,2225,6,Villa,211,2007,
+Ronesbanke 23 4720 Præstø,23,2870000.0,21-07-2006,Alm.,9288,10,Stuehus,309,1900,
+Maylandsvej 8 4720 Præstø,8,1395000.0,18-07-2006,Alm.,12025,4,Villa,116,1972,
+Tranevej 3 4720 Præstø,3,1425000.0,15-07-2006,Alm.,11776,4,Villa,121,1977,
+Winsløwsvej 12 4720 Præstø,12,1410000.0,14-07-2006,Alm.,13177,3,Rækkehus,107,1955,
+Rådhusstræde 3A 4720 Præstø,0,1550000.0,10-07-2006,Alm.,14622,4,Rækkehus,106,1825,
+Rødegårdsvej 89 4720 Præstø,89,1895000.0,08-07-2006,Alm.,15039,3,Villa,126,1978,
+Abildhøjparken 94 4720 Præstø,94,425632.0,06-07-2006,Alm.,2579,6,Villa,165,2007,
+Bøgebjergvej 1 4720 Præstø,1,1250000.0,05-07-2006,Andet,0,7,Stuehus,250,1921,
+Juulsvej 31 4720 Præstø,31,4650000.0,04-07-2006,Alm.,28527,4,Sommerhus,163,1996,
+Maylandsvej 10 4720 Præstø,10,1595000.0,29-06-2006,Alm.,10850,5,Villa,147,1975,
+Kragevej 12 4720 Præstø,12,785000.0,27-06-2006,Alm.,16354,3,Sommerhus,48,1975,
+Smedestræde 1 4720 Præstø,1,2100000.0,20-06-2006,Alm.,10659,7,Villa,197,1976,
+Strandstien 7 4720 Præstø,7,74500.0,19-06-2006,Alm.,716,3,Villa,104,1964,
+"Jernbanevej 12C, ST 4720 Præstø",0,2700000.0,14-06-2006,Alm.,27551,3,Lejlighed,98,2006,
+Sneserevej 12 4720 Præstø,12,2175000.0,14-06-2006,Alm.,13593,5,Villa,160,1920,
+"Ny Esbjergvej 1, ST. TV 4720 Præstø",0,750000.0,13-06-2006,Alm.,10273,2,Lejlighed,73,1895,
+Fjordparken 39 4720 Præstø,39,620500.0,12-06-2006,Alm.,10172,2,Rækkehus,61,1977,
+Bygvænget 31 4720 Præstø,31,1595000.0,12-06-2006,Alm.,13291,4,Villa,120,1980,
+Rugvænget 29 4720 Præstø,29,1695000.0,05-06-2006,Alm.,13560,5,Villa,125,1991,
+Mønvej 144B 4720 Præstø,0,142500.0,01-06-2006,Alm.,5937,2,Sommerhus,24,1958,
+"Per Thyges Torv 2B, 2. TH 4720 Præstø",0,1000000.0,31-05-2006,Fam.,10869,3,Lejlighed,92,1988,
+Slåenvej 12 4720 Præstø,12,575000.0,30-05-2006,Alm.,6388,3,Sommerhus,90,2009,
+"Strandvejen 4, ST. TV 4720 Præstø",0,725000.0,27-05-2006,Alm.,9931,2,Lejlighed,73,1976,
+Bøged Strandvej 24 4720 Præstø,24,1515000.0,15-05-2006,Alm.,22611,5,Sommerhus,67,1987,
+"Torvestræde 3, 1. 6 4720 Præstø",6,1080000.0,10-05-2006,Alm.,11020,3,Lejlighed,98,1807,
+Hovedvejen 116 4720 Præstø,116,465000.0,10-05-2006,Alm.,4305,5,Villa,108,1885,
+Mønvej 111 4720 Præstø,111,1200000.0,01-05-2006,Alm.,12244,4,Villa,98,1934,
+Smedestræde 7 4720 Præstø,7,1640000.0,01-05-2006,Alm.,11714,4,Villa,140,1900,
+Ronesbanke 21 4720 Præstø,21,40000.0,30-04-2006,Alm.,0,6,Stuehus,200,1882,
+Stavreby Strandvej 51 4720 Præstø,51,250000.0,28-04-2006,Andet,2032,5,Villa,123,1890,
+"Torvestræde 3, 1. 10 4720 Præstø",10,845000.0,26-04-2006,Alm.,10696,2,Lejlighed,79,1807,
+Christinelundsvej 27 4720 Præstø,27,1695000.0,26-04-2006,Alm.,0,5,Villa,143,1964,
+Klintestien 7 4720 Præstø,7,1350000.0,24-04-2006,Alm.,13636,4,Sommerhus,99,1965,
+Uglevej 1 4720 Præstø,1,875000.0,18-04-2006,Alm.,17857,3,Sommerhus,49,1975,
+Fredensvej 2 4720 Præstø,2,585297.0,12-04-2006,Fam.,5272,4,Villa,111,1977,
+Hastrupvej 23 4720 Præstø,23,1150000.0,12-04-2006,Alm.,12365,4,Villa,93,1900,
+Abildhøjvej 13 4720 Præstø,13,835772.0,11-04-2006,Andet,5498,4,Villa,152,1900,
+Bygvænget 24 4720 Præstø,24,1280000.0,07-04-2006,Alm.,10756,4,Villa,119,1987,
+Strandgårdsvej 12 4720 Præstø,12,2090000.0,06-04-2006,Alm.,11546,5,Villa,181,1972,
+Hybenvej 13 4720 Præstø,13,775000.0,04-04-2006,Alm.,10472,4,Sommerhus,74,1972,
+Rødegårdsvej 154 4720 Præstø,154,1545000.0,31-03-2006,Alm.,16093,3,Rækkehus,96,2006,
+Ronesstræde 1 4720 Præstø,1,275000.0,29-03-2006,Alm.,1646,5,Villa,167,2007,
+Skovhusevej 2 4720 Præstø,2,825000.0,27-03-2006,Alm.,10185,3,Villa,81,1919,
+Slåenvej 2 4720 Præstø,2,331500.0,20-03-2006,Alm.,5100,3,Sommerhus,65,2005,
+Bøgebjergvej 4 4720 Præstø,4,100000.0,18-03-2006,Alm.,571,6,Stuehus,175,1921,
+Pilehøjvej 1 4720 Præstø,1,609100.0,13-03-2006,Fam.,6479,5,Villa,94,1936,
+"Jomfrustræde 6, 2. TV 4720 Præstø",0,1075000.0,12-03-2006,Alm.,10750,3,Lejlighed,100,1932,
+Lindevej 19 4720 Præstø,19,1285000.0,08-03-2006,Alm.,11681,3,Villa,110,1937,
+Christinelundsvej 42 4720 Præstø,42,5458049.0,08-03-2006,Alm.,34112,4,Stuehus,160,1877,
+Lindevej 3B 4720 Præstø,0,1650000.0,04-03-2006,Alm.,7638,5,Villa,216,1920,
+"Adelgade 28, 1 4720 Præstø",1,3100000.0,03-03-2006,Alm.,18343,5,Rækkehus,169,1865,
+Abildhøjparken 53 4720 Præstø,53,375207.0,03-03-2006,Alm.,0,6,Villa,183,2007,
+Kildegårdsvej 1 4720 Præstø,1,1191500.0,25-02-2006,Fam.,11456,3,Villa,104,1955,
+Stavreby Strandvej 30 4720 Præstø,30,731000.0,17-02-2006,Alm.,6041,3,Villa,121,1899,
+Lindevej 12 4720 Præstø,12,1885000.0,15-02-2006,Alm.,11708,4,Villa,161,1925,
+Rødegårdsvej 152 4720 Præstø,152,250000.0,13-02-2006,Alm.,2604,3,Rækkehus,96,2006,
+Præstegårdsvej 10 4720 Præstø,10,1700000.0,09-02-2006,Alm.,8994,4,Villa,189,1964,
+Birkevænget 14 4720 Præstø,14,750000.0,07-02-2006,Alm.,0,4,Sommerhus,48,1973,
+Ugledigevej 24 4720 Præstø,24,7400000.0,06-02-2006,Alm.,23566,9,Stuehus,314,1874,
+Vagtmestervej 7 4720 Præstø,7,1150000.0,06-02-2006,Alm.,11057,4,Villa,104,1962,
+Dyrlevvej 18 4720 Præstø,18,541500.0,03-02-2006,Alm.,3008,6,Villa,180,1880,
+Juulsvej 25 4720 Præstø,25,1800000.0,01-02-2006,Alm.,9523,6,Villa,189,1979,
+Lærkevej 2 4720 Præstø,2,1575000.0,31-01-2006,Alm.,22500,4,Sommerhus,70,2002,
+Adelgade 16C 4720 Præstø,0,1770000.0,23-01-2006,Alm.,11959,4,Rækkehus,148,1897,
+Skovgårdsvej 9 4720 Præstø,9,2333800.0,16-01-2006,Alm.,15876,4,Stuehus,147,1900,
+Smidstrupvej 39 4720 Præstø,39,1350000.0,20-12-2005,Alm.,9246,5,Villa,146,1969,
+Marienlundsvej 1 4720 Præstø,1,1795000.0,15-12-2005,Alm.,7180,7,Villa,250,1848,
+Bygvænget 21 4720 Præstø,21,1600000.0,14-12-2005,Alm.,13445,5,Villa,119,1987,
+Bøged Strandvej 18 4720 Præstø,18,586500.0,13-12-2005,Fam.,6109,3,Sommerhus,96,1972,
+Mønvej 72B 4720 Præstø,0,749153.0,13-12-2005,Alm.,6458,5,Villa,116,1911,
+Bakkestien 20 4720 Præstø,20,306000.0,12-12-2005,Fam.,7285,3,Sommerhus,42,1966,
+Jungshovedvej 31 4720 Præstø,31,1375000.0,09-12-2005,Alm.,6030,9,Villa,228,1930,
+Næstvedvej 33 4720 Præstø,33,1880000.0,06-12-2005,Fam.,12051,6,Stuehus,156,1871,
+Ugledigevej 9 4720 Præstø,9,995000.0,02-12-2005,Alm.,0,6,Villa,134,1902,
+Lindevej 5A 4720 Præstø,0,1355000.0,26-11-2005,Alm.,10265,4,Villa,132,1928,
+Enegaarde By 20 4720 Præstø,20,1895000.0,23-11-2005,Alm.,12467,5,Villa,152,1827,
+Mosestien 45 4720 Præstø,45,433500.0,21-11-2005,Fam.,5858,4,Sommerhus,74,1969,
+Antonivej 4 4720 Præstø,4,1100000.0,18-11-2005,Alm.,12087,3,Villa,91,1961,
+Østerbro 63 4720 Præstø,63,2165000.0,17-11-2005,Alm.,9252,7,Villa,234,1936,
+Lupinvej 9 4720 Præstø,9,710000.0,16-11-2005,Alm.,15434,2,Sommerhus,46,1975,
+Mosestien 2 4720 Præstø,2,1075000.0,11-11-2005,Alm.,16287,3,Sommerhus,66,1969,
+Gl Rosagervej 2 4720 Præstø,2,600000.0,10-11-2005,Alm.,8000,3,Villa,75,1900,
+"Adelgade 55, ST. TH 4720 Præstø",0,1425000.0,09-11-2005,Alm.,9895,4,Lejlighed,144,1847,
+Vibevej 17 4720 Præstø,17,2075000.0,09-11-2005,Alm.,12968,5,Villa,160,1976,
+"Jomfrustræde 6, ST. TV 4720 Præstø",0,1255000.0,08-11-2005,Alm.,9507,6,Lejlighed,132,1932,
+Primulavej 3 4720 Præstø,3,1415000.0,04-11-2005,Alm.,19121,5,Sommerhus,74,1978,
+Rødegårdsvej 158 4720 Præstø,158,250000.0,03-11-2005,Alm.,1524,5,Rækkehus,164,2006,
+"Jomfrustræde 1, ST. TV 4720 Præstø",0,675000.0,31-10-2005,Alm.,10887,2,Lejlighed,62,1920,
+Lærkevej 13 4720 Præstø,13,1025000.0,19-10-2005,Alm.,18636,2,Sommerhus,55,1993,
+Mønvej 54 4720 Præstø,54,1345000.0,19-10-2005,Alm.,10846,5,Villa,124,1931,
+Bøged Strandvej 14 4720 Præstø,14,2550000.0,14-10-2005,Alm.,0,5,Sommerhus,108,1963,
+"Torvestræde 3, ST. 4 4720 Præstø",4,745000.0,11-10-2005,Alm.,9312,2,Lejlighed,80,1807,
+Lindevej 13 4720 Præstø,13,1395000.0,11-10-2005,Alm.,12025,4,Villa,116,1928,
+Søtoftsvej 26 4720 Præstø,26,1275000.0,11-10-2005,Alm.,10119,4,Villa,126,1947,
+Kohavevej 8 4720 Præstø,8,230000.0,07-10-2005,Andet,4600,3,Sommerhus,50,1967,
+Kohavevej 21 4720 Præstø,21,1295000.0,06-10-2005,Alm.,11666,5,Sommerhus,111,1974,
+Fasanvej 2A 4720 Præstø,0,3600000.0,04-10-2005,Alm.,15652,8,Villa,230,1975,
+Abildhøjparken 65 4720 Præstø,65,413703.0,01-10-2005,Alm.,1979,6,Villa,209,2008,
+Abildhøjparken 84 4720 Præstø,84,469792.0,30-09-2005,Alm.,2669,5,Villa,176,2007,
+Hejrevej 18 4720 Præstø,18,1525000.0,28-09-2005,Alm.,11553,4,Villa,132,1979,
+Hejrevej 20 4720 Præstø,20,1495000.0,16-09-2005,Alm.,12458,4,Villa,120,1977,
+Hestehavevej 58 4720 Præstø,58,1000000.0,16-09-2005,Fam.,0,4,Villa,141,1959,
+Maylandsvej 5 4720 Præstø,5,1595000.0,15-09-2005,Alm.,8812,7,Villa,181,1975,
+Lærkevej 25 4720 Præstø,25,755000.0,13-09-2005,Alm.,12583,3,Sommerhus,60,1981,
+Svalevej 27 4720 Præstø,27,695000.0,13-09-2005,Alm.,9144,4,Sommerhus,76,1975,
+Svend Gøngesvej 25 4720 Præstø,25,718000.0,12-09-2005,Fam.,6970,4,Villa,103,1963,
+Østerbro 13 4720 Præstø,13,1462500.0,12-09-2005,Alm.,11607,4,Villa,126,1938,
+Bøged Strandvej 25 4720 Præstø,25,2000000.0,09-09-2005,Alm.,0,5,Stuehus,199,1798,
+Skovvej 4 4720 Præstø,4,2580000.0,07-09-2005,Alm.,16862,5,Villa,153,1959,
+Ronesstræde 12 4720 Præstø,12,875000.0,05-09-2005,Alm.,11824,3,Rækkehus,74,1987,
+Tjørnehoved By 7 4720 Præstø,7,2150000.0,01-09-2005,Alm.,13607,4,Rækkehus,158,1800,
+Solsortvej 2 4720 Præstø,2,750000.0,01-09-2005,Alm.,12500,5,Sommerhus,60,1974,
+Klintestien 36 4720 Præstø,36,500000.0,01-09-2005,Fam.,10869,4,Sommerhus,46,1966,
+Lærkevej 9 4720 Præstø,9,725000.0,30-08-2005,Alm.,12946,3,Sommerhus,56,1974,
+Mosestien 16 4720 Præstø,16,560000.0,30-08-2005,Fam.,14736,3,Sommerhus,38,1967,
+Spurvevej 15 4720 Præstø,15,1875000.0,30-08-2005,Alm.,10901,7,Villa,172,1968,
+Ugledigevej 32 4720 Præstø,32,2375000.0,29-08-2005,Alm.,10063,5,Villa,236,1969,
+Næbvej 12 4720 Præstø,12,1600000.0,29-08-2005,Alm.,10256,5,Villa,156,1927,
+Fuglsangvej 2 4720 Præstø,2,2200000.0,26-08-2005,Fam.,12571,7,Stuehus,175,1860,
+Fjordparken 17 4720 Præstø,17,1155000.0,23-08-2005,Alm.,10131,4,Rækkehus,114,1973,
+Torvet 14 4720 Præstø,14,725000.0,22-08-2005,Alm.,9062,4,Rækkehus,80,1827,
+Uglevej 7 4720 Præstø,7,1482150.0,16-08-2005,Alm.,17857,4,Sommerhus,83,2005,
+"Jomfrustræde 1, 1. TV 4720 Præstø",0,750000.0,15-08-2005,Alm.,11718,2,Lejlighed,64,1920,
+"Jomfrustræde 1, 2 4720 Præstø",2,825000.0,15-08-2005,Alm.,10312,2,Lejlighed,80,1920,
+Svanevej 5 4720 Præstø,5,1950000.0,15-08-2005,Alm.,11607,6,Villa,168,1966,
+Batterivej 10 4720 Præstø,10,43562.0,08-08-2005,Fam.,821,2,Sommerhus,53,2015,
+Torvet 16A 4720 Præstø,0,1325000.0,03-08-2005,Alm.,8603,3,Villa,154,1827,
+Sneserevej 14 4720 Præstø,14,1080000.0,03-08-2005,Alm.,6835,5,Villa,158,1927,
+Mønvej 142 4720 Præstø,142,850000.0,02-08-2005,Alm.,5821,6,Villa,146,1914,
+Sneserevej 53 4720 Præstø,53,1875000.0,02-08-2005,Alm.,12175,4,Villa,154,1925,
+"Jernbanevej 12A, ST 4720 Præstø",0,2375000.0,30-07-2005,Alm.,21017,3,Lejlighed,113,2006,
+Birkevænget 18 4720 Præstø,18,495000.0,24-07-2005,Fam.,7857,3,Sommerhus,63,1977,
+"Rådhusstræde 2B, 1 4720 Præstø",1,550000.0,18-07-2005,Alm.,9482,2,Lejlighed,58,1987,
+Bygvænget 49 4720 Præstø,49,375000.0,12-07-2005,Alm.,0,4,Villa,129,2006,
+Faksinge By 13 4720 Præstø,13,1430000.0,10-07-2005,Alm.,0,5,Villa,171,1877,
+Klintestien 20 4720 Præstø,20,2500000.0,07-07-2005,Alm.,36764,3,Sommerhus,68,1999,
+Mønvej 5 4720 Præstø,5,780000.0,04-07-2005,Alm.,6190,4,Villa,126,1925,
+"Østerbro 4, ST. TV 4720 Præstø",0,1040970.0,30-06-2005,Alm.,9294,4,Lejlighed,112,1946,
+Parkvej 12 4720 Præstø,12,850000.0,28-06-2005,Alm.,8762,3,Villa,97,1919,
+Hjørnehusvej 5 4720 Præstø,5,1585000.0,28-06-2005,Alm.,9723,6,Villa,163,1971,
+Fuglsangvej 8 4720 Præstø,8,2100000.0,25-06-2005,Alm.,12962,5,Villa,162,1860,
+Lundegårdsvej 14 4720 Præstø,14,740000.0,25-06-2005,Fam.,6166,4,Villa,120,1932,
+Pilevænget 6 4720 Præstø,6,395000.0,22-06-2005,Alm.,4488,4,Sommerhus,88,2005,
+Faksinge By 12 4720 Præstø,12,1595000.0,18-06-2005,Alm.,8307,6,Villa,192,1906,
+Ugledigevej 10 4720 Præstø,10,1450000.0,18-06-2005,Alm.,10069,3,Villa,144,1920,
+Strandstien 24 4720 Præstø,24,1775000.0,17-06-2005,Alm.,25357,3,Villa,70,1877,
+Mønvej 119 4720 Præstø,119,550000.0,17-06-2005,Alm.,8593,3,Villa,64,1937,
+Elmevej 5A 4720 Præstø,0,840000.0,16-06-2005,Alm.,6774,4,Villa,124,1962,
+Rugvænget 23 4720 Præstø,23,1525000.0,16-06-2005,Alm.,10892,4,Villa,140,1988,
+Mosestien 32 4720 Præstø,32,1040000.0,15-06-2005,Alm.,15294,5,Sommerhus,68,1970,
+Svalevej 11 4720 Præstø,11,150000.0,09-06-2005,Alm.,1530,4,Sommerhus,98,2006,
+Torvestræde 10 4720 Præstø,10,1020000.0,07-06-2005,Alm.,10099,4,Rækkehus,101,1900,
+Adelgade 132A 4720 Præstø,0,1300000.0,04-06-2005,Alm.,7428,4,Villa,175,1924,
+Præstegårdsvej 16 4720 Præstø,16,1190000.0,03-06-2005,Alm.,7986,4,Villa,149,1980,
+Tingvej 1 4720 Præstø,1,850000.0,02-06-2005,Fam.,4619,5,Villa,184,1946,
+Bønsvigvej 5 4720 Præstø,5,695000.0,02-06-2005,Alm.,7554,4,Villa,92,1900,
+Bellevuevej 1 4720 Præstø,1,1850000.0,01-06-2005,Alm.,9296,7,Villa,199,1964,
+Mønvej 41 4720 Præstø,41,725000.0,01-06-2005,Alm.,7712,4,Villa,94,1927,
+Mosestien 31 4720 Præstø,31,450000.0,27-05-2005,Alm.,9000,2,Sommerhus,50,1968,
+Fjordparken 28 4720 Præstø,28,770567.0,24-05-2005,Alm.,12632,2,Rækkehus,61,1977,
+Dyrlevvej 16 4720 Præstø,16,1385000.0,24-05-2005,Alm.,6412,5,Villa,216,1927,
+Rødegårdsvej 7 4720 Præstø,7,1075000.0,24-05-2005,Alm.,0,8,Villa,199,1978,
+Anemonevej 2 4720 Præstø,2,1235000.0,23-05-2005,Alm.,15833,3,Sommerhus,78,2005,
+Ugledigevej 15A 4720 Præstø,0,40000.0,22-05-2005,Alm.,305,4,Villa,131,2006,
+Kohavevej 6 4720 Præstø,6,450500.0,20-05-2005,Fam.,0,3,Sommerhus,84,1968,
+Strandstien 10 4720 Præstø,10,2045000.0,18-05-2005,Alm.,10541,5,Villa,194,1995,
+Bakkestien 6 4720 Præstø,6,645000.0,16-05-2005,Alm.,16125,3,Sommerhus,40,1948,
+Valdemarsvej 3 4720 Præstø,3,480000.0,13-05-2005,Andet,4285,4,Villa,112,1972,
+"Torvet 16, 1. TV 4720 Præstø",0,413000.0,12-05-2005,Alm.,8787,2,Lejlighed,47,1827,
+Hestehavevej 24 4720 Præstø,24,1700000.0,11-05-2005,Alm.,11333,4,Villa,150,1953,
+Ådalsvej 5 4720 Præstø,5,1050000.0,09-05-2005,Alm.,9051,5,Villa,116,1922,
+Jungshovedvej 67 4720 Præstø,67,500000.0,05-05-2005,Alm.,0,4,Villa,170,1873,
+"Jernbanevej 14, 1. 1 4720 Præstø",1,1495000.0,28-04-2005,Alm.,12458,3,Lejlighed,120,1907,
+Ugledigevej 40 4720 Præstø,40,1025000.0,24-04-2005,Alm.,10677,2,Villa,96,1935,
+Næbvej 28 4720 Præstø,28,1425000.0,20-04-2005,Alm.,0,4,Villa,210,1968,
+Lærkevej 1 4720 Præstø,1,885000.0,19-04-2005,Alm.,13615,4,Sommerhus,65,1975,
+Abildhøjparken 69 4720 Præstø,69,413703.0,15-04-2005,Alm.,0,5,Villa,197,2005,
+Ternevej 13 4720 Præstø,13,1750000.0,28-03-2005,Alm.,12867,5,Villa,136,1974,
+Tubæk Møllevej 20 4720 Præstø,20,1095000.0,21-03-2005,Alm.,6930,6,Villa,158,1939,
+Ronesstræde 18 4720 Præstø,18,825000.0,18-03-2005,Alm.,0,3,Rækkehus,74,1987,
+Lundegårdsvej 15 4720 Præstø,15,1270000.0,17-03-2005,Alm.,6791,6,Villa,187,1927,
+Faksinge By 18 4720 Præstø,18,810000.0,16-03-2005,Fam.,8100,4,Villa,100,1877,
+Egestræde 24 4720 Præstø,24,900000.0,14-03-2005,Alm.,7964,5,Villa,113,1905,
+Sneserevej 6 4720 Præstø,6,1470000.0,06-03-2005,Alm.,0,7,Villa,198,1912,
+Hestehavevej 73 4720 Præstø,73,2500000.0,04-03-2005,Alm.,0,6,Rækkehus,137,1907,
+Hestehavevej 3 4720 Præstø,3,1900000.0,01-03-2005,Alm.,11111,7,Villa,171,1931,
+"Per Thyges Torv 2B, 1. TV 4720 Præstø",0,675000.0,28-02-2005,Alm.,9375,2,Lejlighed,72,1988,
+Hestehavevej 79 4720 Præstø,79,3400000.0,24-02-2005,Alm.,0,6,Villa,204,1909,
+Hestemøllestræde 3 4720 Præstø,3,2100000.0,23-02-2005,Alm.,15328,6,Villa,137,1875,
+Skolegårdsvej 9 4720 Præstø,9,892500.0,14-02-2005,Fam.,6562,4,Villa,136,1976,
+Kirsebærvej 40 4720 Præstø,40,1295000.0,11-02-2005,Alm.,13489,3,Rækkehus,96,1981,
+Ternevej 12 4720 Præstø,12,1495000.0,03-02-2005,Alm.,8398,5,Villa,178,1974,
+Rekkendevej 21 4720 Præstø,21,782000.0,03-02-2005,Fam.,5879,4,Villa,133,1942,
+Egevænget 15 4720 Præstø,15,1260000.0,29-01-2005,Alm.,14318,3,Sommerhus,88,2004,
+Lundbyvej 16 4720 Præstø,16,895000.0,28-01-2005,Alm.,6088,5,Villa,147,1945,
+Kirkagerstræde 37 4720 Præstø,37,1250000.0,27-01-2005,Alm.,8928,4,Villa,140,1972,
+Ellemosevej 4 4720 Præstø,4,1200000.0,26-01-2005,Alm.,7058,5,Villa,170,1968,
+Ugledigevej 22 4720 Præstø,22,4610000.0,15-01-2005,Fam.,16175,10,Stuehus,285,1852,
+Hovedvejen 118 4720 Præstø,118,1123200.0,13-01-2005,Alm.,7064,6,Stuehus,159,1922,
+Tubæk Møllevej 13 4720 Præstø,13,3112610.0,13-01-2005,Andet,11116,7,Stuehus,280,1910,
+Lillemarksvej 9 4720 Præstø,9,1875000.0,12-01-2005,Alm.,9236,6,Villa,203,1827,
+Mønvej 74 4720 Præstø,74,1275000.0,12-01-2005,Alm.,0,7,Villa,188,1922,
+Ugledigevej 42C 4720 Præstø,0,3000000.0,08-01-2005,Alm.,15463,6,Villa,194,1980,
+"Torvestræde 3, 1. 7 4720 Præstø",7,785000.0,05-01-2005,Alm.,8626,3,Lejlighed,91,1807,
+Grundtvigsvej 2 4720 Præstø,2,1485000.0,03-01-2005,Alm.,10919,7,Villa,136,1923,
+Hastrupvej 36 4720 Præstø,36,3030000.0,30-12-2004,Fam.,14926,7,Stuehus,203,1914,
+Skovhusevej 22 4720 Præstø,22,3100000.0,29-12-2004,Alm.,19135,8,Stuehus,162,1827,
+Jungshovedvej 90 4720 Præstø,90,375000.0,27-12-2004,Alm.,6696,2,Villa,56,1877,
+"Håndværkervej 4, 1 4720 Præstø",1,175000.0,21-12-2004,Andet,0,2,Lejlighed,58,1980,
+Søtoftsvej 17 4720 Præstø,17,913000.0,17-12-2004,Auktion,5706,5,Villa,160,1937,
+Mosestien 22 4720 Præstø,22,382500.0,16-12-2004,Fam.,6071,4,Sommerhus,63,1968,
+Smedestræde 6 4720 Præstø,6,1625000.0,13-12-2004,Alm.,6578,6,Villa,247,1850,
+"Adelgade 90, 1 4720 Præstø",1,1400000.0,12-12-2004,Andet,12280,4,Rækkehus,114,1843,
+Lundegårdsvej 11 4720 Præstø,11,295000.0,12-12-2004,Alm.,0,7,Stuehus,214,1890,
+Mønvej 58 4720 Præstø,58,850000.0,09-12-2004,Alm.,6589,4,Villa,129,1927,
+Skovhusevej 2D 4720 Præstø,0,295000.0,06-12-2004,Alm.,2322,6,Villa,127,2006,
+Kirkagerstræde 1 4720 Præstø,1,725000.0,03-12-2004,Alm.,6531,7,Villa,111,1906,
+"Jernbanevej 14, ST. TH 4720 Præstø",0,1560000.0,02-12-2004,Alm.,15000,3,Lejlighed,104,1907,
+Ternevej 14 4720 Præstø,14,1250000.0,01-12-2004,Alm.,8928,4,Villa,140,1974,
+Sneserevej 49 4720 Præstø,49,550000.0,30-11-2004,Alm.,5000,4,Villa,110,1959,
+Hovedvejen 119A 4720 Præstø,0,1600000.0,30-11-2004,Alm.,21917,3,Villa,73,1974,
+"Jernbanevej 14, 1. 4 4720 Præstø",4,1985000.0,30-11-2004,Alm.,11214,3,Lejlighed,177,1907,
+Præstegårdsvej 13 4720 Præstø,13,775000.0,29-11-2004,Alm.,7380,5,Villa,105,1850,
+Kragevigvej 23 4720 Præstø,23,255044.0,28-11-2004,Fam.,3985,2,Sommerhus,64,1777,
+Ny Esbjergvej 8 4720 Præstø,8,1030000.0,26-11-2004,Alm.,11318,4,Villa,91,1934,
+"Adelgade 111, ST 4720 Præstø",0,666000.0,25-11-2004,Alm.,7568,2,Lejlighed,88,1920,
+Mislehøjvej 8 4720 Præstø,8,670000.0,23-11-2004,Alm.,12884,2,Villa,52,1969,
+Ugledigevej 28 4720 Præstø,28,875000.0,16-11-2004,Andet,5993,5,Villa,146,2002,
+Gyvelvej 9 4720 Præstø,9,500000.0,12-11-2004,Alm.,7575,4,Sommerhus,66,1960,
+Vagtmestervej 5 4720 Præstø,5,1000000.0,11-11-2004,Alm.,0,3,Villa,138,1965,
+Strandvejens Tværvej 1 4720 Præstø,1,595000.0,11-11-2004,Fam.,7727,3,Villa,77,1960,
+Bønsvigvej 21 4720 Præstø,21,1025000.0,10-11-2004,Alm.,8913,5,Villa,115,1934,
+Ellemosevej 8 4720 Præstø,8,1200000.0,10-11-2004,Alm.,7894,4,Villa,152,1972,
+Bøged Strandvej 20 4720 Præstø,20,320000.0,02-11-2004,Fam.,7804,2,Sommerhus,41,1952,
+Over Lyngen 13 4720 Præstø,13,875000.0,25-10-2004,Alm.,6782,4,Villa,129,1878,
+Sneserevej 31 4720 Præstø,31,359156.0,23-10-2004,Fam.,4225,3,Villa,85,1725,
+Fyrrevænget 7 4720 Præstø,7,595000.0,22-10-2004,Alm.,9444,3,Sommerhus,63,1973,
+Pilevænget 2 4720 Præstø,2,240000.0,16-10-2004,Alm.,3380,3,Sommerhus,71,2008,
+Smedestræde 9 4720 Præstø,9,1129691.0,14-10-2004,Andet,8895,4,Villa,127,1777,
+"Jomfrustræde 3, 1. TH 4720 Præstø",0,695000.0,13-10-2004,Alm.,8081,3,Lejlighed,86,1872,
+"Klosternakken 27, 2 4720 Præstø",2,282685.0,13-10-2004,Andet,2666,3,Lejlighed,106,1894,
+Hybenvej 5 4720 Præstø,5,416500.0,12-10-2004,Fam.,0,4,Sommerhus,74,1979,
+Dyrlevvej 5 4720 Præstø,5,2310000.0,04-10-2004,Fam.,12762,6,Villa,181,1999,
+Kirsebærvej 2 4720 Præstø,2,1815000.0,30-09-2004,Alm.,10933,5,Villa,166,1980,
+Jungshovedvej 2 4720 Præstø,2,2005550.0,24-09-2004,Alm.,0,7,Stuehus,207,1870,
+Ronesbanke 14 4720 Præstø,14,1250000.0,23-09-2004,Alm.,8116,7,Stuehus,154,1914,
+Marienlundsvej 4 4720 Præstø,4,1250000.0,15-09-2004,Alm.,8278,6,Villa,151,1905,
+Fyrrevænget 13 4720 Præstø,13,875000.0,06-09-2004,Alm.,12867,3,Sommerhus,68,1972,
+Klintestien 23 4720 Præstø,23,940000.0,01-09-2004,Alm.,18800,5,Sommerhus,50,1969,
+Sneserevej 33 4720 Præstø,33,1495000.0,29-08-2004,Alm.,8898,6,Villa,168,1963,
+Fredensvej 11 4720 Præstø,11,1015000.0,28-08-2004,Alm.,9144,4,Villa,111,1978,
+Næstvedvej 43 4720 Præstø,43,1275000.0,16-08-2004,Alm.,5543,5,Villa,230,1912,
+Bønsvigvej 19 4720 Præstø,19,1095000.0,10-08-2004,Alm.,8830,2,Villa,124,1727,
+Ådalsvej 15 4720 Præstø,15,1100000.0,31-07-2004,Alm.,10679,4,Stuehus,103,1925,
+Fuglsangvej 19 4720 Præstø,19,1040000.0,29-07-2004,Alm.,10400,3,Villa,100,1880,
+Søtoftsvej 31 4720 Præstø,31,1465000.0,27-07-2004,Alm.,14650,4,Villa,100,1938,
+Roneklintvej 17 4720 Præstø,17,1465000.0,26-07-2004,Alm.,8567,7,Villa,171,1924,
+Mønvej 38 4720 Præstø,38,484594.0,26-07-2004,Alm.,3876,4,Villa,125,1901,
+Egebjergvej 1 4720 Præstø,1,1165000.0,26-07-2004,Alm.,9789,5,Villa,119,1917,
+Rekkendevej 22 4720 Præstø,22,1495000.0,23-07-2004,Alm.,7292,4,Villa,205,1926,
+Mønvej 136 4720 Præstø,136,945000.0,19-07-2004,Alm.,7213,5,Villa,131,1925,
+Ørnevej 2 4720 Præstø,2,700000.0,11-07-2004,Alm.,0,5,Sommerhus,87,1980,
+Jungshovedvej 56 4720 Præstø,56,403614.0,08-07-2004,Alm.,3509,4,Villa,115,1827,
+Fredensvej 18 4720 Præstø,18,950000.0,07-07-2004,Alm.,8260,4,Villa,115,1978,
+Gyvelvej 2 4720 Præstø,2,600000.0,04-07-2004,Alm.,7142,4,Sommerhus,84,1969,
+Bøgebjergvej 10 4720 Præstø,10,950000.0,02-07-2004,Alm.,6418,6,Villa,148,1877,
+Næstvedvej 35 4720 Præstø,35,995000.0,02-07-2004,Alm.,8089,5,Villa,123,1955,
+Strandvejens Tværvej 2 4720 Præstø,2,757000.0,25-06-2004,Fam.,6881,3,Villa,110,1962,
+Klintestien 18B 4720 Præstø,0,600000.0,24-06-2004,Fam.,6250,4,Sommerhus,96,2005,
+Rekkendevej 27 4720 Præstø,27,1675000.0,22-06-2004,Alm.,9682,6,Villa,173,1877,
+Bøged Strandvej 11 4720 Præstø,11,650000.0,22-06-2004,Alm.,7222,5,Villa,90,1907,
+Præstø Overdrev 17 4720 Præstø,17,609135.0,18-06-2004,Alm.,7001,4,Villa,87,1920,
+Stavreby Strandvej 45A 4720 Præstø,0,140000.0,18-06-2004,Alm.,744,5,Villa,188,2006,
+Skovhusevej 3 4720 Præstø,3,1095000.0,18-06-2004,Alm.,4227,7,Villa,259,1928,
+Enghavevej 3A 4720 Præstø,0,350000.0,10-06-2004,Alm.,5000,4,Villa,70,1960,
+Rødegårdsvej 69 4720 Præstø,69,1020000.0,09-06-2004,Alm.,0,7,Villa,159,1980,
+Rugvænget 51 4720 Præstø,51,1325000.0,07-06-2004,Alm.,10772,3,Rækkehus,123,2001,
+Bønsvigvej 35 4720 Præstø,35,1240000.0,05-06-2004,Fam.,8920,5,Stuehus,139,1909,
+Bønsvigvej 41A 4720 Præstø,0,230500.0,05-06-2004,Alm.,2095,3,Sommerhus,110,2013,
+Anemonevej 4 4720 Præstø,4,1210000.0,04-06-2004,Alm.,0,3,Sommerhus,96,2005,
+Bogfinkevej 13 4720 Præstø,13,735000.0,04-06-2004,Alm.,9800,4,Sommerhus,75,1975,
+Rugvænget 47 4720 Præstø,47,1360000.0,04-06-2004,Alm.,10880,3,Rækkehus,125,2000,
+Duevej 5 4720 Præstø,5,595000.0,01-06-2004,Alm.,12395,4,Sommerhus,48,1975,
+Pilevænget 11 4720 Præstø,11,797000.0,26-05-2004,Alm.,10217,4,Sommerhus,78,1979,
+"Jomfrustræde 3, 1. TV 4720 Præstø",0,650000.0,24-05-2004,Alm.,7471,3,Lejlighed,87,1872,
+Spættevej 5 4720 Præstø,5,380000.0,20-05-2004,Alm.,6031,2,Sommerhus,63,1981,
+Egevænget 10 4720 Præstø,10,86700.0,16-05-2004,Alm.,1044,4,Sommerhus,83,2006,
+Jernbanevej 9 4720 Præstø,9,570032.0,12-05-2004,Andet,3081,6,Villa,185,1910,
+Stavreby Strandvej 35 4720 Præstø,35,866000.0,05-05-2004,Alm.,9840,4,Villa,88,1964,
+Næbvej 30 4720 Præstø,30,1025000.0,02-05-2004,Alm.,8541,4,Villa,120,1966,
+Fjordparken 34 4720 Præstø,34,620000.0,22-04-2004,Alm.,10163,2,Rækkehus,61,1977,
+Klintestien 31 4720 Præstø,31,865000.0,22-04-2004,Alm.,15727,3,Sommerhus,55,1968,
+Th. Hansensvej 2 4720 Præstø,2,1705000.0,21-04-2004,Alm.,6959,6,Villa,245,1971,
+Solsortvej 9 4720 Præstø,9,110000.0,20-04-2004,Alm.,1466,3,Sommerhus,75,2005,
+Antonivej 2A 4720 Præstø,0,1475000.0,19-04-2004,Alm.,10688,4,Villa,138,1979,
+Aagesvej 14 4720 Præstø,14,865000.0,19-04-2004,Alm.,0,5,Villa,169,1972,
+Antonivej 11 4720 Præstø,11,775000.0,16-04-2004,Alm.,8423,4,Villa,92,1962,
+Klintestien 10 4720 Præstø,10,276000.0,11-04-2004,Fam.,2732,4,Sommerhus,101,2006,
+Elmevej 5B 4720 Præstø,0,550000.0,07-04-2004,Alm.,4104,5,Villa,134,2005,
+Torvet 2 4720 Præstø,2,2895000.0,01-04-2004,Alm.,9018,11,Rækkehus,321,1827,
+Præstegårdsvej 6 4720 Præstø,6,780000.0,30-03-2004,Alm.,7722,3,Villa,101,1966,
+Stavreby Strandvej 9 4720 Præstø,9,2075000.0,16-03-2004,Alm.,13926,5,Villa,149,1900,
+Lundbyvej 6 4720 Præstø,6,1865000.0,15-03-2004,Alm.,8108,4,Villa,230,1971,
+Rosagervej 8 4720 Præstø,8,1045000.0,05-03-2004,Alm.,0,6,Villa,246,1965,
+Enghavevej 7 4720 Præstø,7,677376.0,05-03-2004,Andet,3826,4,Villa,177,1990,
+Anemonevej 9 4720 Præstø,9,76000.0,02-03-2004,Alm.,767,3,Sommerhus,99,2009,
+Lillemarksvej 5 4720 Præstø,5,800000.0,02-03-2004,Alm.,10126,4,Villa,79,1877,
+Ellemosevej 1 4720 Præstø,1,1525000.0,02-03-2004,Alm.,8567,6,Villa,178,1970,
+Mislehøjvej 14 4720 Præstø,14,428849.0,26-02-2004,Alm.,4084,4,Villa,105,1817,
+"Per Thyges Torv 2C, 1. TH 4720 Præstø",0,725000.0,25-02-2004,Alm.,7795,3,Lejlighed,93,1988,
+Fredensvej 16 4720 Præstø,16,975000.0,22-02-2004,Alm.,7738,4,Villa,126,1979,
+Anemonevej 1 4720 Præstø,1,115000.0,21-02-2004,Alm.,877,4,Sommerhus,131,2006,
+Duevej 10 4720 Præstø,10,670000.0,20-02-2004,Alm.,11355,3,Sommerhus,59,1977,
+Melteskovvej 1 4720 Præstø,1,4200000.0,17-02-2004,Alm.,21319,7,Stuehus,197,1802,
+Lindevej 22 4720 Præstø,22,800000.0,05-02-2004,Alm.,0,5,Villa,129,1927,
+Syrenvej 9 4720 Præstø,9,28877.0,04-02-2004,Alm.,297,3,Sommerhus,97,2006,
+Ugledigevej 42B 4720 Præstø,0,185000.0,29-01-2004,Alm.,1380,4,Villa,134,2006,
+Gyvelvej 1 4720 Præstø,1,510000.0,26-01-2004,Fam.,5425,4,Sommerhus,94,1972,
+Lindevej 38 4720 Præstø,38,625000.0,14-01-2004,Andet,5208,4,Villa,120,1920,
+Ellemosevej 30 4720 Præstø,30,1337500.0,07-01-2004,Alm.,9692,5,Villa,138,1972,
+Syrenvej 5 4720 Præstø,5,100000.0,07-01-2004,Alm.,1030,4,Sommerhus,97,2005,
+Svalevej 10 4720 Præstø,10,70000.0,06-01-2004,Alm.,1000,4,Sommerhus,70,2006,
+Over Lyngen 7 4720 Præstø,7,1265000.0,05-01-2004,Alm.,7857,4,Villa,161,1931,
+"Torvestræde 3, ST. 2 4720 Præstø",2,675000.0,02-01-2004,Alm.,7180,3,Lejlighed,94,1807,
+Industrivej 8 4720 Præstø,8,1793986.0,16-12-2003,Alm.,12121,4,Villa,148,1978,
+Søtoftsvej 5 4720 Præstø,5,1675000.0,12-12-2003,Alm.,9305,6,Villa,180,1934,
+Præstegårdsvej 14 4720 Præstø,14,5300000.0,11-12-2003,Alm.,21115,7,Villa,251,1934,
+"Torvestræde 3, 2. 13 4720 Præstø",13,820000.0,10-12-2003,Alm.,7884,4,Lejlighed,104,1807,
+Bøged Strandvej 2 4720 Præstø,2,700000.0,09-12-2003,Alm.,3977,5,Villa,176,1901,
+Hejrevej 16 4720 Præstø,16,1100000.0,04-12-2003,Alm.,8461,5,Villa,130,1977,
+Antonivej 10 4720 Præstø,10,790000.0,04-12-2003,Alm.,8586,3,Villa,92,1960,
+Winsløwsvej 10 4720 Præstø,10,1100000.0,03-12-2003,Alm.,9649,4,Villa,114,1957,
+Dyremarken 5 4720 Præstø,5,1695000.0,29-11-2003,Alm.,10029,6,Villa,169,1900,
+Anemonevej 15 4720 Præstø,15,76000.0,24-11-2003,Alm.,783,4,Sommerhus,97,2008,
+Egevænget 23 4720 Præstø,23,100000.0,20-11-2003,Alm.,1149,4,Sommerhus,87,2005,
+"Adelgade 32, 1. TH 4720 Præstø",0,1200000.0,20-11-2003,Andet,9600,4,Lejlighed,125,1986,
+Kirsebærvej 9 4720 Præstø,9,1550000.0,17-11-2003,Alm.,8757,5,Villa,177,1979,
+Rekkendevej 49 4720 Præstø,49,1150000.0,13-11-2003,Alm.,8394,4,Villa,137,1877,
+Strandstien 12 4720 Præstø,12,565000.0,06-11-2003,Alm.,3087,5,Villa,183,2004,
+Lindevej 11 4720 Præstø,11,705500.0,05-11-2003,Fam.,6916,4,Villa,102,1927,
+Uglevej 2 4720 Præstø,2,485000.0,04-11-2003,Alm.,8981,3,Sommerhus,54,1976,
+Smidstrupvej 2 4720 Præstø,2,300000.0,01-11-2003,Fam.,2857,3,Villa,105,1908,
+Lundegårdsvej 12 4720 Præstø,12,725000.0,14-10-2003,Alm.,8238,3,Villa,88,1917,
+Næbvej 27 4720 Præstø,27,1250000.0,10-10-2003,Alm.,5274,5,Villa,237,1976,
+Ronesbanke 12B 4720 Præstø,0,2400000.0,30-09-2003,Fam.,0,9,Stuehus,267,1875,
+Bakkestien 8 4720 Præstø,8,335000.0,30-09-2003,Alm.,0,3,Sommerhus,50,1967,
+Vesterbro 37 4720 Præstø,37,830000.0,30-09-2003,Alm.,9764,3,Rækkehus,85,1984,
+Hejrevej 9 4720 Præstø,9,1015000.0,29-09-2003,Alm.,8903,4,Villa,114,1976,
+Klintestien 33 4720 Præstø,33,885000.0,25-09-2003,Alm.,0,4,Sommerhus,100,1981,
+Lundbyvej 34 4720 Præstø,34,713957.0,24-09-2003,Alm.,8924,3,Villa,80,1848,
+Beldringevej 2 4720 Præstø,2,970000.0,23-09-2003,Alm.,0,7,Villa,186,1957,
+Oremandsgaard Alle 10 4720 Præstø,10,1745000.0,22-09-2003,Alm.,8192,7,Villa,213,1897,
+Hejrevej 14 4720 Præstø,14,1050000.0,19-09-2003,Alm.,8974,4,Villa,117,1976,
+Gyvelvej 16 4720 Præstø,16,475000.0,15-09-2003,Alm.,0,5,Sommerhus,77,1955,
+Mønvej 156 4720 Præstø,156,895000.0,13-09-2003,Alm.,9728,3,Villa,92,1827,
+Østerbro 8 4720 Præstø,8,1395000.0,10-09-2003,Alm.,7153,6,Villa,195,1962,
+Christinelundsvej 15 4720 Præstø,15,550000.0,05-09-2003,Andet,0,7,Villa,196,1966,
+Fjordparken 38 4720 Præstø,38,575000.0,23-08-2003,Alm.,9426,2,Rækkehus,61,1977,
+Kastanievænget 12 4720 Præstø,12,595000.0,23-08-2003,Alm.,9916,4,Sommerhus,60,1975,
+Hjørnehusvej 9 4720 Præstø,9,850000.0,19-08-2003,Alm.,6250,4,Villa,136,1970,
+Svanevej 8 4720 Præstø,8,548000.0,18-08-2003,Alm.,3512,3,Villa,156,2004,
+Primulavej 2 4720 Præstø,2,625000.0,12-08-2003,Alm.,9057,4,Sommerhus,69,1979,
+"Strandvejen 4, 1. TH 4720 Præstø",0,595000.0,08-08-2003,Alm.,8150,2,Lejlighed,73,1976,
+Fredensvej 4 4720 Præstø,4,875000.0,06-08-2003,Alm.,7743,3,Villa,113,1977,
+Bygvænget 15 4720 Præstø,15,1155000.0,05-08-2003,Alm.,9240,4,Villa,125,1986,
+Kirsebærvej 6 4720 Præstø,6,2060000.0,01-08-2003,Alm.,11839,5,Villa,174,2000,
+Bakkestien 2 4720 Præstø,2,595000.0,30-07-2003,Alm.,7727,3,Sommerhus,77,1970,
+Juulsvej 35 4720 Præstø,35,1385000.0,24-07-2003,Alm.,8765,7,Villa,158,1981,
+Solsortvej 11 4720 Præstø,11,350000.0,23-07-2003,Alm.,6481,3,Sommerhus,54,1975,
+Strandvejen 10 4720 Præstø,10,1045000.0,22-07-2003,Alm.,7740,5,Villa,135,1920,
+Bygvænget 43 4720 Præstø,43,1150000.0,19-07-2003,Alm.,9504,5,Villa,121,1980,
+Enegaarde By 1A 4720 Præstø,0,200000.0,17-07-2003,Alm.,1612,3,Villa,124,2004,
+Hejrevej 19 4720 Præstø,19,925000.0,10-07-2003,Alm.,7974,4,Villa,116,1978,
+Jungshovedvej 76 4720 Præstø,76,621908.0,10-07-2003,Fam.,2826,6,Villa,220,1940,
+Lydehøjvej 14 4720 Præstø,14,1050000.0,01-07-2003,Alm.,9722,3,Villa,108,1900,
+Lundbyvej 22 4720 Præstø,22,765000.0,30-06-2003,Alm.,7650,3,Villa,100,1870,
+Hejrevej 12 4720 Præstø,12,990000.0,26-06-2003,Alm.,7021,3,Villa,141,1977,
+Juulsvej 22 4720 Præstø,22,3250000.0,25-06-2003,Alm.,13000,7,Villa,250,1990,
+Strandstien 20 4720 Præstø,20,425247.0,21-06-2003,Alm.,2362,5,Villa,180,2011,
+Hestehavevej 26 4720 Præstø,26,1325000.0,16-06-2003,Alm.,8660,4,Villa,153,1939,
+Stavreby Strandvej 44 4720 Præstø,44,550000.0,13-06-2003,Alm.,5978,3,Sommerhus,92,2007,
+Smidstrupvej 1 4720 Præstø,1,1385000.0,07-06-2003,Alm.,15388,4,Villa,90,1877,
+Bøgevænget 30 4720 Præstø,30,625000.0,04-06-2003,Alm.,9328,2,Sommerhus,67,1973,
+Mønvej 66 4720 Præstø,66,1110000.0,31-05-2003,Alm.,5235,6,Villa,212,1830,
+Rosagervej 22 4720 Præstø,22,950000.0,28-05-2003,Alm.,10106,3,Villa,94,1982,
+Faksinge By 22 4720 Præstø,22,133365.0,21-05-2003,Alm.,0,6,Villa,285,1883,
+Næbvej 41 4720 Præstø,41,1450000.0,15-05-2003,Alm.,0,5,Villa,187,1938,
+Egevænget 2 4720 Præstø,2,160000.0,12-05-2003,Alm.,1739,4,Sommerhus,92,2006,
+Duevej 13 4720 Præstø,13,810000.0,12-05-2003,Alm.,0,5,Sommerhus,105,2005,
+Smidstrupvej 40 4720 Præstø,40,2082500.0,09-05-2003,Fam.,13611,5,Stuehus,153,1913,
+Mosestien 10 4720 Præstø,10,585000.0,07-05-2003,Alm.,0,4,Sommerhus,86,1968,
+Bygvænget 34 4720 Præstø,34,1350000.0,06-05-2003,Alm.,12053,5,Villa,112,1991,
+Lindevej 39 4720 Præstø,39,1350000.0,02-05-2003,Alm.,10714,5,Villa,126,1936,
+Hestehavevej 18 4720 Præstø,18,1227500.0,01-05-2003,Alm.,0,4,Villa,156,1953,
+Aagesvej 11 4720 Præstø,11,840000.0,30-04-2003,Alm.,0,6,Villa,141,1967,
+Bøgevænget 32 4720 Præstø,32,703025.0,21-04-2003,Alm.,0,5,Sommerhus,140,1966,
+Vagtelvej 4 4720 Præstø,4,818138.0,16-04-2003,Alm.,10226,3,Sommerhus,80,2003,
+Næbvej 14 4720 Præstø,14,1025000.0,16-04-2003,Alm.,8134,4,Villa,126,1973,
+Kirsebærvej 16 4720 Præstø,16,1675000.0,16-04-2003,Alm.,11631,5,Villa,144,1988,
+Bygvænget 50 4720 Præstø,50,232560.0,16-04-2003,Alm.,1987,4,Villa,117,2004,
+Bygvænget 37 4720 Præstø,37,1550000.0,05-04-2003,Alm.,8959,5,Villa,173,1988,
+Næstvedvej 48 4720 Præstø,48,695000.0,02-04-2003,Alm.,7020,3,Villa,99,1954,
+Grundtvigsvej 1 4720 Præstø,1,1200000.0,01-04-2003,Alm.,8571,5,Villa,140,1933,
+Bygvænget 27 4720 Præstø,27,995000.0,28-03-2003,Alm.,7960,4,Villa,125,1980,
+Lundegårdsvej 21 4720 Præstø,21,1785000.0,27-03-2003,Alm.,8581,7,Villa,208,1860,
+Christinelundsvej 39 4720 Præstø,39,680000.0,19-03-2003,Fam.,0,5,Villa,145,1913,
+Rødeledvej 8 4720 Præstø,8,1152498.0,15-03-2003,Alm.,5462,6,Villa,211,1900,
+Juulsvej 45 4720 Præstø,45,2200000.0,14-03-2003,Alm.,13253,5,Villa,166,1986,
+Skolegårdsvej 5 4720 Præstø,5,885000.0,14-03-2003,Alm.,6807,4,Villa,130,1962,
+Skovhusevej 43 4720 Præstø,43,425000.0,05-03-2003,Alm.,3632,5,Villa,117,1852,
+Mosestien 17 4720 Præstø,17,540000.0,03-03-2003,Alm.,9000,4,Sommerhus,60,1970,
+Faksinge By 6 4720 Præstø,6,476310.0,27-02-2003,Andet,3378,4,Villa,141,1827,
+Enghavevej 9B 4720 Præstø,0,1050000.0,23-02-2003,Alm.,0,6,Villa,307,1978,
+Vibevej 5 4720 Præstø,5,875000.0,22-02-2003,Alm.,7291,3,Villa,120,1973,
+Mønvej 37 4720 Præstø,37,280000.0,20-02-2003,Alm.,1521,8,Stuehus,184,1800,
+Ambæk Mark 8 4720 Præstø,8,1085000.0,19-02-2003,Alm.,7919,6,Villa,137,1945,
+Stavreby Strandvej 41 4720 Præstø,41,2240000.0,17-02-2003,Alm.,11487,6,Villa,195,1985,
+Svanegårdsvej 6 4720 Præstø,6,1725000.0,14-02-2003,Fam.,14375,5,Villa,120,1797,
+"Jomfrustræde 1, 1. TH 4720 Præstø",0,575000.0,11-02-2003,Alm.,8098,2,Lejlighed,71,1920,
+Rugvænget 17 4720 Præstø,17,1450000.0,11-02-2003,Alm.,11788,5,Villa,123,1999,
+Hestehavevej 42 4720 Præstø,42,1750000.0,04-02-2003,Alm.,11075,4,Villa,158,1947,
+Vibevej 8 4720 Præstø,8,1035000.0,04-02-2003,Alm.,0,6,Villa,192,1974,
+Rekkendevej 29B 4720 Præstø,0,325000.0,03-02-2003,Andet,3421,3,Villa,95,1900,
+Bøgevænget 34 4720 Præstø,34,530000.0,02-02-2003,Alm.,0,3,Sommerhus,61,1970,
+Spættevej 4 4720 Præstø,4,85000.0,02-02-2003,Alm.,1328,3,Sommerhus,64,2003,
+Hybenvej 4 4720 Præstø,4,365000.0,01-02-2003,Alm.,0,5,Sommerhus,93,1974,
+Bønsvig Strandvej 1 4720 Præstø,1,200000.0,30-01-2003,Alm.,2040,3,Villa,98,1975,
+Rekkendevej 33 4720 Præstø,33,1415000.0,24-01-2003,Alm.,0,7,Villa,253,1890,
+Hovmarken 2 4720 Præstø,2,2447500.0,21-01-2003,Alm.,11939,4,Stuehus,205,1875,
+Bøged Strandvej 13 4720 Præstø,13,1200000.0,06-01-2003,Alm.,0,7,Villa,518,1796,
+Egevej 8 4720 Præstø,8,1295000.0,06-01-2003,Alm.,12333,4,Villa,105,1958,
+Birkevænget 15 4720 Præstø,15,219296.0,31-12-2002,Andet,0,4,Sommerhus,90,1975,
+Kragevigvej 17 4720 Præstø,17,788203.0,29-12-2002,Andet,4835,5,Villa,163,1700,
+Ugledigevej 8 4720 Præstø,8,725000.0,19-12-2002,Alm.,7323,5,Villa,99,1905,
+Jungshovedvej 68 4720 Præstø,68,950000.0,18-12-2002,Alm.,6506,5,Villa,146,1960,
+Smidstrupvej 45 4720 Præstø,45,906074.0,17-12-2002,Alm.,9152,3,Villa,99,1907,
+Søtoftsvej 7A 4720 Præstø,0,960000.0,06-12-2002,Alm.,8421,4,Villa,114,1973,
+Bønsvigvej 6 4720 Præstø,6,740000.0,05-12-2002,Alm.,7708,4,Villa,96,1860,
+Mosestien 11 4720 Præstø,11,559000.0,28-11-2002,Alm.,8101,2,Sommerhus,69,1973,
+Hastrupvej 21 4720 Præstø,21,925000.0,26-11-2002,Alm.,4243,7,Villa,218,1973,
+Duevej 17 4720 Præstø,17,745000.0,24-11-2002,Alm.,9802,3,Sommerhus,76,1975,
+Smidstrupvej 33 4720 Præstø,33,1950000.0,31-10-2002,Alm.,6770,9,Stuehus,288,1875,
+Bellevuevej 7 4720 Præstø,7,7100000.0,28-10-2002,Alm.,12633,13,Villa,562,1840,
+Hestehavevej 91 4720 Præstø,91,1518189.0,27-10-2002,Alm.,6658,6,Villa,228,1899,
+Lundegårdsvej 17D 4720 Præstø,0,220000.0,26-10-2002,Alm.,1264,4,Villa,174,2004,
+Smidstrupvej 15 4720 Præstø,15,2000000.0,25-10-2002,Alm.,9389,6,Villa,213,1968,
+"Torvestræde 3, 1. 11 4720 Præstø",11,765000.0,25-10-2002,Alm.,8052,4,Lejlighed,95,1807,
+Søtoftsvej 4 4720 Præstø,4,1310372.0,21-10-2002,Alm.,8794,5,Villa,149,1961,
+Fuglsangvej 12 4720 Præstø,12,466970.0,18-10-2002,Andet,3198,4,Villa,146,1777,
+Batterivej 4 4720 Præstø,4,400000.0,08-10-2002,Alm.,12500,3,Sommerhus,32,1959,
+Lindevej 30 4720 Præstø,30,1295000.0,02-10-2002,Alm.,8993,6,Villa,144,1923,
+Lindevej 41B 4720 Præstø,0,220000.0,01-10-2002,Andet,1301,5,Villa,169,2003,
+Lundbyvej 12 4720 Præstø,12,596123.0,27-09-2002,Alm.,4886,3,Villa,122,1943,
+Kragevej 9 4720 Præstø,9,75000.0,24-09-2002,Alm.,1250,3,Sommerhus,60,2003,
+Rugvænget 1 4720 Præstø,1,1121000.0,24-09-2002,Alm.,0,5,Villa,115,1988,
+Lærkevej 10 4720 Præstø,10,376000.0,23-09-2002,Alm.,7372,3,Sommerhus,51,1979,
+"Torvestræde 3, 2. 17 4720 Præstø",17,625000.0,12-09-2002,Alm.,8802,2,Lejlighed,71,1807,
+Skovhusevej 12 4720 Præstø,12,1395000.0,09-09-2002,Alm.,8718,4,Villa,160,1850,
+Uglevej 4 4720 Præstø,4,765582.0,03-09-2002,Alm.,13671,3,Sommerhus,56,1998,
+Lindevej 16 4720 Præstø,16,905060.0,03-09-2002,Alm.,7479,4,Villa,121,1962,
+Hovedvejen 126 4720 Præstø,126,1800000.0,30-08-2002,Alm.,14634,6,Stuehus,123,1924,
+Mønvej 105 4720 Præstø,105,650000.0,26-08-2002,Alm.,3823,6,Villa,170,1917,
+Nihøjvej 8 4720 Præstø,8,1500000.0,21-08-2002,Fam.,8875,6,Stuehus,169,1918,
+Lupinvej 13 4720 Præstø,13,550000.0,17-08-2002,Alm.,0,5,Sommerhus,82,1972,
+Kastanievænget 1 4720 Præstø,1,55000.0,13-08-2002,Alm.,1833,2,Sommerhus,30,2003,
+Dyremarken 11 4720 Præstø,11,2852000.0,10-08-2002,Alm.,12400,7,Villa,230,1915,
+Svanevej 9 4720 Præstø,9,1465000.0,07-08-2002,Alm.,0,5,Villa,132,1967,
+Mønvej 79 4720 Præstø,79,989760.0,05-08-2002,Alm.,7277,5,Villa,136,1927,
+Askevænget 2 4720 Præstø,2,55000.0,05-08-2002,Alm.,611,4,Sommerhus,90,2011,
+Ørnevej 10 4720 Præstø,10,620000.0,23-07-2002,Alm.,7469,4,Sommerhus,83,1975,
+Enegaarde By 16 4720 Præstø,16,950000.0,22-07-2002,Alm.,7600,4,Villa,125,1912,
+Hestehavevej 100 4720 Præstø,100,420000.0,21-07-2002,Alm.,4200,2,Villa,100,1911,
+"Jernbanevej 14, 1. 3 4720 Præstø",3,1065000.0,20-07-2002,Alm.,0,2,Lejlighed,67,1907,
+Adelgade 112 4720 Præstø,112,450000.0,05-07-2002,Alm.,0,4,Rækkehus,67,1870,
+Tjørnevænget 3 4720 Præstø,3,495000.0,04-07-2002,Alm.,9519,3,Sommerhus,52,1964,
+Kragevej 7 4720 Præstø,7,385000.0,01-07-2002,Fam.,0,6,Sommerhus,97,1975,
+Mønvej 96 4720 Præstø,96,700000.0,26-06-2002,Alm.,6603,3,Villa,106,1877,
+Lærkevej 4 4720 Præstø,4,420000.0,25-06-2002,Alm.,8936,3,Sommerhus,47,1975,
+Lydehøjvej 24 4720 Præstø,24,135000.0,23-06-2002,Alm.,1776,4,Sommerhus,76,2009,
+Grønnegade 4 4720 Præstø,4,1095000.0,20-06-2002,Alm.,7448,5,Rækkehus,147,1865,
+Vagtelvej 8 4720 Præstø,8,300000.0,19-06-2002,Andet,8333,3,Sommerhus,36,1974,
+"Østerbro 4, ST. TH 4720 Præstø",0,549540.0,19-06-2002,Alm.,8202,2,Lejlighed,67,1946,
+Rødeledvej 12 4720 Præstø,12,446741.0,18-06-2002,Alm.,3124,4,Villa,143,1906,
+Klintestien 24 4720 Præstø,24,1275000.0,08-06-2002,Alm.,31875,3,Sommerhus,40,1967,
+Lærkevej 23 4720 Præstø,23,626520.0,01-06-2002,Alm.,7458,4,Sommerhus,84,1980,
+Kastanievænget 7 4720 Præstø,7,425000.0,01-06-2002,Alm.,8500,3,Sommerhus,50,1974,
+Østerbro 5 4720 Præstø,5,1234104.0,01-06-2002,Alm.,6170,6,Rækkehus,200,1736,
+Ørnevej 24 4720 Præstø,24,950000.0,29-05-2002,Alm.,10215,5,Sommerhus,93,2001,
+Adelgade 11 4720 Præstø,11,130000.0,28-05-2002,Alm.,817,6,Rækkehus,159,1920,
+Mosestien 25 4720 Præstø,25,275000.0,24-05-2002,Alm.,4365,4,Sommerhus,63,1968,
+Klintestien 27 4720 Præstø,27,405000.0,17-05-2002,Alm.,5062,3,Sommerhus,80,1966,
+Søtoftsvej 2 4720 Præstø,2,1120880.0,17-05-2002,Alm.,9919,3,Villa,113,1927,
+Næbvej 26 4720 Præstø,26,1095000.0,17-05-2002,Alm.,8423,4,Villa,130,1965,
+Teglstrupvej 7 4720 Præstø,7,871000.0,13-05-2002,Alm.,8064,3,Villa,108,1965,
+Klintestien 41 4720 Præstø,41,386984.0,10-05-2002,Alm.,8599,2,Sommerhus,45,1966,
+Ved Gadekæret 3 4720 Præstø,3,675000.0,01-05-2002,Alm.,8333,3,Villa,81,1967,
+Slåenvej 1 4720 Præstø,1,60000.0,29-04-2002,Alm.,821,4,Sommerhus,73,2005,
+Roneklintvej 8 4720 Præstø,8,595000.0,20-04-2002,Alm.,7168,4,Villa,83,1967,
+Drosselvej 2 4720 Præstø,2,1125000.0,18-04-2002,Alm.,14610,4,Sommerhus,77,1989,
+Th. Hansensvej 14 4720 Præstø,14,997000.0,16-04-2002,Alm.,0,6,Villa,198,1948,
+Præstegårdsvej 1 4720 Præstø,1,1266000.0,12-04-2002,Alm.,6459,6,Villa,196,1966,
+Bøged Strandvej 6 4720 Præstø,6,595000.0,05-04-2002,Alm.,3814,5,Stuehus,156,2005,
+Ugledigevej 11B 4720 Præstø,0,1042601.0,03-04-2002,Alm.,8987,5,Villa,116,1827,
+Hovmarken 7B 4720 Præstø,0,1060000.0,02-04-2002,Alm.,7969,4,Villa,133,1981,
+Skovhusevej 23. TH 4720 Præstø,0,660000.0,27-03-2002,Alm.,5840,3,Rækkehus,113,1977,
+Askevænget 6 4720 Præstø,6,419462.0,26-03-2002,Alm.,6765,4,Sommerhus,62,1979,
+Rødeledvej 22 4720 Præstø,22,27000.0,26-03-2002,Alm.,168,5,Villa,160,2003,
+Bellevuevej 4 4720 Præstø,4,772000.0,20-03-2002,Alm.,5893,4,Villa,131,1900,
+Egebjergvej 10 4720 Præstø,10,232500.0,18-03-2002,Andet,1788,3,Villa,130,1900,
+Mosestien 21 4720 Præstø,21,420000.0,17-03-2002,Alm.,7000,4,Sommerhus,60,1968,
+Klintestien 4 4720 Præstø,4,1100000.0,15-03-2002,Alm.,11578,5,Sommerhus,95,1944,
+Klosternakken 5 4720 Præstø,5,1895000.0,12-03-2002,Alm.,15406,6,Rækkehus,123,1827,
+Bønsvig Strandvej 8 4720 Præstø,8,1545000.0,06-03-2002,Alm.,14439,3,Villa,107,1935,
+Mosestien 7 4720 Præstø,7,342833.0,01-03-2002,Alm.,8570,3,Sommerhus,40,1969,
+Lundbyvej 36 4720 Præstø,36,50000.0,28-02-2002,Fam.,909,2,Villa,55,1827,
+Søtoftsvej 13 4720 Præstø,13,1650000.0,27-02-2002,Alm.,8823,8,Villa,187,1950,
+Lundegårdsvej 17A 4720 Præstø,0,185000.0,26-02-2002,Alm.,1114,4,Villa,166,2002,
+Fjordparken 15 4720 Præstø,15,865000.0,25-02-2002,Alm.,7587,4,Rækkehus,114,1972,
+Fuglsangvej 3 4720 Præstø,3,1265000.0,21-02-2002,Alm.,7106,7,Villa,178,1903,
+Snaphanevej 6 4720 Præstø,6,1095000.0,20-02-2002,Alm.,8760,4,Villa,125,1967,
+Strandgårdsvej 6 4720 Præstø,6,1100000.0,19-02-2002,Alm.,6214,5,Villa,177,1973,
+Mønvej 30 4720 Præstø,30,3000000.0,19-02-2002,Alm.,0,7,Stuehus,240,1922,
+Jungshovedvej 35 4720 Præstø,35,561253.0,11-02-2002,Andet,2938,7,Villa,191,1909,
+Håndværkervej 10 4720 Præstø,10,1440000.0,08-02-2002,Alm.,10666,4,Villa,135,1982,
+Næstvedvej 64 4720 Præstø,64,1450000.0,05-02-2002,Alm.,0,8,Villa,216,1898,
+Hastrupvej 8 4720 Præstø,8,850000.0,05-02-2002,Fam.,7083,4,Stuehus,120,1877,
+Bøged Strandvej 21 4720 Præstø,21,1600000.0,04-02-2002,Alm.,24615,2,Stuehus,65,1873,
+Smidstrupvej 36 4720 Præstø,36,787859.0,29-01-2002,Fam.,5082,5,Stuehus,155,1887,
+Ambæk Mark 2 4720 Præstø,2,2000000.0,11-01-2002,Fam.,0,9,Stuehus,269,1887,
+Bogfinkevej 15 4720 Præstø,15,70000.0,04-01-2002,Alm.,0,3,Sommerhus,80,1985,
+Th. Hansensvej 3 4720 Præstø,3,600000.0,02-01-2002,Alm.,12244,3,Villa,49,1939,
+Fredensvej 9 4720 Præstø,9,1295778.0,02-01-2002,Alm.,9527,4,Villa,136,2002,
+Ternevej 22 4720 Præstø,22,925000.0,18-12-2001,Alm.,8043,3,Villa,115,1972,
+Klintestien 13 4720 Præstø,13,160000.0,13-12-2001,Alm.,1777,3,Sommerhus,90,2003,
+Kirkagerstræde 31 4720 Præstø,31,975000.0,12-12-2001,Alm.,8405,4,Villa,116,1976,
+Klintestien 15 4720 Præstø,15,525000.0,06-12-2001,Alm.,7500,4,Sommerhus,70,1967,
+Vesterbro 9 4720 Præstø,9,506040.0,03-12-2001,Alm.,3030,8,Rækkehus,167,1954,
+Bygvænget 32 4720 Præstø,32,951000.0,03-12-2001,Alm.,9233,3,Villa,103,1980,
+Næstvedvej 40 4720 Præstø,40,1875000.0,30-11-2001,Alm.,9101,9,Detailhandel,206,1936,
+Kohavevej 5 4720 Præstø,5,331500.0,27-11-2001,Fam.,4604,3,Sommerhus,72,1972,
+"Strandvejen 4, ST. TH 4720 Præstø",0,360000.0,26-11-2001,Fam.,5070,2,Lejlighed,71,1976,
+Tranevej 13 4720 Præstø,13,1114000.0,26-11-2001,Alm.,9771,4,Villa,114,1976,
+Winsløwsvej 6 4720 Præstø,6,725000.0,22-11-2001,Alm.,8146,4,Villa,89,1922,
+Bygvænget 25 4720 Præstø,25,1079342.0,20-11-2001,Alm.,0,5,Villa,139,1988,
+Lindevej 26 4720 Præstø,26,1275000.0,13-11-2001,Alm.,8388,5,Villa,152,1937,
+Ådalsvej 11 4720 Præstø,11,250000.0,06-11-2001,Alm.,2941,2,Villa,85,1900,
+Tranevej 15 4720 Præstø,15,1075000.0,30-10-2001,Alm.,8958,4,Villa,120,1976,
+Kirsebærvej 13 4720 Præstø,13,1295000.0,30-10-2001,Alm.,0,6,Villa,176,1979,
+Skovhusevej 8 4720 Præstø,8,625000.0,17-10-2001,Alm.,5208,3,Villa,120,1959,
+Neblevej 14 4720 Præstø,14,398300.0,17-10-2001,Andet,3524,4,Villa,113,1877,
+Børgesvej 6 4720 Præstø,6,965122.0,16-10-2001,Alm.,6521,4,Villa,148,1977,
+Klosternakken 11 4720 Præstø,11,1650000.0,11-10-2001,Alm.,7894,8,Rækkehus,209,1879,
+Dyrlevvej 20 4720 Præstø,20,291889.0,08-10-2001,Alm.,3648,4,Villa,80,1847,
+Strandgårdsvej 10 4720 Præstø,10,847000.0,29-09-2001,Fam.,0,5,Villa,159,1974,
+Aagesvej 10 4720 Præstø,10,625000.0,27-09-2001,Alm.,4807,5,Villa,130,1970,
+Hybenvej 12 4720 Præstø,12,300000.0,27-09-2001,Alm.,0,4,Sommerhus,54,1982,
+Primulavej 21 4720 Præstø,21,525000.0,24-09-2001,Alm.,8333,4,Sommerhus,63,1975,
+Tubæk Møllevej 5 4720 Præstø,5,895000.0,24-09-2001,Fam.,5143,3,Villa,174,1920,
+Mønvej 89 4720 Præstø,89,578325.0,16-09-2001,Alm.,4663,4,Villa,124,1913,
+Vagtelvej 14 4720 Præstø,14,465000.0,14-09-2001,Alm.,7265,3,Sommerhus,64,1977,
+Dyrlevvej 10 4720 Præstø,10,646000.0,12-09-2001,Alm.,4969,5,Villa,130,1877,
+Lindevej 2 4720 Præstø,2,950000.0,11-09-2001,Alm.,7251,5,Villa,131,1938,
+Næstvedvej 52A 4720 Præstø,0,1275000.0,10-09-2001,Alm.,5795,5,Villa,220,1877,
+Mågevej 2 4720 Præstø,2,1086200.0,10-09-2001,Alm.,7389,5,Villa,147,1973,
+Mosestien 34 4720 Præstø,34,268000.0,08-09-2001,Alm.,0,3,Sommerhus,63,1970,
+Fjordparken 25 4720 Præstø,25,450000.0,05-09-2001,Andet,7377,2,Rækkehus,61,1977,
+"Østerbro 4, 1. TV 4720 Præstø",0,665000.0,05-09-2001,Alm.,7074,3,Lejlighed,94,1946,
+Stærevej 3 4720 Præstø,3,420000.0,27-08-2001,Alm.,6562,4,Sommerhus,64,1977,
+Lundbyvej 24 4720 Præstø,24,580000.0,20-08-2001,Andet,4715,3,Villa,123,1800,
+Stadionvej 17 4720 Præstø,17,835000.0,18-08-2001,Alm.,6050,4,Villa,138,2004,
+Ronesbanke 8 4720 Præstø,8,2325000.0,16-08-2001,Alm.,11018,7,Stuehus,211,1987,
+Hejrevej 21 4720 Præstø,21,1105614.0,15-08-2001,Alm.,7420,5,Villa,149,1975,
+Kirkagerstræde 13 4720 Præstø,13,878000.0,12-08-2001,Alm.,0,5,Villa,152,1990,
+Næstvedvej 17 4720 Præstø,17,889560.0,09-08-2001,Alm.,5594,5,Villa,159,1930,
+Svalevej 12 4720 Præstø,12,42500.0,03-08-2001,Alm.,559,3,Sommerhus,76,2005,
+Sneserevej 57 4720 Præstø,57,950000.0,30-07-2001,Alm.,11309,3,Villa,84,1925,
+Mønvej 100 4720 Præstø,100,852000.0,28-07-2001,Alm.,6085,4,Villa,140,1877,
+Kohavevej 3 4720 Præstø,3,50000.0,23-07-2001,Alm.,1000,3,Sommerhus,50,2012,
+Kirkagerstræde 5 4720 Præstø,5,475000.0,23-07-2001,Alm.,7196,3,Villa,66,1907,
+Egevænget 6 4720 Præstø,6,85000.0,16-07-2001,Alm.,885,4,Sommerhus,96,2004,
+Bøged Strandvej 15 4720 Præstø,15,510000.0,16-07-2001,Alm.,8500,3,Sommerhus,60,1977,
+Gyvelvej 11 4720 Præstø,11,195000.0,01-07-2001,Alm.,0,4,Sommerhus,92,1966,
+Lundegårdsvej 5 4720 Præstø,5,210000.0,01-07-2001,Alm.,1076,5,Villa,195,2003,
+Skovhusevej 20 4720 Præstø,20,2875000.0,19-06-2001,Alm.,26376,5,Stuehus,109,1935,
+Fyrrevænget 8 4720 Præstø,8,406000.0,18-06-2001,Alm.,0,3,Sommerhus,63,1966,
+Dyremarken 1 4720 Præstø,1,2100000.0,13-06-2001,Alm.,16406,4,Stuehus,128,1900,
+Præstø Overdrev 14 4720 Præstø,14,875000.0,30-05-2001,Alm.,7291,4,Villa,120,1927,
+Smidstrupvej 4 4720 Præstø,4,1065000.0,29-05-2001,Alm.,10240,4,Villa,104,1938,
+Bakkestien 21 4720 Præstø,21,430000.0,28-05-2001,Alm.,6718,3,Sommerhus,64,1975,
+Lærkevej 16 4720 Præstø,16,545249.0,27-05-2001,Alm.,7081,4,Sommerhus,77,1975,
+"Torvestræde 5, 1 4720 Præstø",1,950000.0,23-05-2001,Alm.,0,2,Rækkehus,99,1900,
+Rådhusstræde 3B 4720 Præstø,0,300000.0,21-05-2001,Alm.,2380,6,Rækkehus,126,1854,
+Svalevej 4 4720 Præstø,4,50000.0,21-05-2001,Alm.,531,4,Sommerhus,94,2007,
+Primulavej 11 4720 Præstø,11,65000.0,20-05-2001,Alm.,802,4,Sommerhus,81,2001,
+Birkevej 10 4720 Præstø,10,736080.0,14-05-2001,Alm.,6691,4,Villa,110,1965,
+Søtoftsvej 22 4720 Præstø,22,1205000.0,08-05-2001,Alm.,8033,5,Villa,150,1953,
+Egebjergvej 16 4720 Præstø,16,1780000.0,06-05-2001,Alm.,8900,5,Villa,200,1870,
+Ronesbanke 36 4720 Præstø,36,830000.0,03-05-2001,Alm.,6335,4,Villa,131,1877,
+Solsortvej 7 4720 Præstø,7,48000.0,01-05-2001,Alm.,0,4,Sommerhus,109,2003,
+Dyremarken 20 4720 Præstø,20,810000.0,16-04-2001,Alm.,7431,4,Villa,109,1875,
+Nihøjvej 2 4720 Præstø,2,1004066.0,15-04-2001,Alm.,0,6,Villa,213,1888,
+Hestehavevej 64 4720 Præstø,64,1379396.0,06-04-2001,Fam.,7110,5,Villa,194,1940,
+Mislehøjvej 10 4720 Præstø,10,1040000.0,06-04-2001,Alm.,6624,4,Villa,157,1807,
+Mosestien 51 4720 Præstø,51,75000.0,06-04-2001,Alm.,714,4,Sommerhus,105,2008,
+Fjordparken 37 4720 Præstø,37,580000.0,03-04-2001,Alm.,9508,2,Rækkehus,61,1977,
+Lygtevej 2 4720 Præstø,2,695000.0,03-04-2001,Alm.,6318,3,Villa,110,1857,
+Antonivej 6 4720 Præstø,6,760000.0,02-04-2001,Alm.,7755,3,Villa,98,1962,
+Lindevej 10 4720 Præstø,10,1175000.0,10-03-2001,Alm.,11633,3,Villa,101,1932,
+Hestehavevej 55 4720 Præstø,55,1775120.0,09-03-2001,Alm.,13247,5,Villa,134,1927,
+Kirsebærvej 22 4720 Præstø,22,1112000.0,08-03-2001,Alm.,7513,4,Villa,148,1979,
+Rødegårdsvej 53 4720 Præstø,53,895000.0,07-03-2001,Alm.,7521,4,Villa,119,1979,
+Bakkestien 35 4720 Præstø,35,425000.0,06-03-2001,Alm.,0,4,Sommerhus,90,1978,
+Bakkestien 31 4720 Præstø,31,215000.0,05-03-2001,Alm.,0,3,Sommerhus,95,1971,
+Næbvej 8 4720 Præstø,8,1000000.0,05-03-2001,Alm.,5555,5,Villa,180,1964,
+Primulavej 1 4720 Præstø,1,285000.0,24-02-2001,Alm.,5937,3,Sommerhus,48,1974,
+Enegaarde By 10 4720 Præstø,10,705000.0,12-02-2001,Alm.,0,6,Villa,164,1827,
+Tubæk Møllevej 6 4720 Præstø,6,1199521.0,27-01-2001,Alm.,8104,6,Villa,148,1987,
+Bogfinkevej 3 4720 Præstø,3,55000.0,25-01-2001,Alm.,539,3,Sommerhus,102,2013,
+Rødeledvej 11 4720 Præstø,11,645000.0,21-01-2001,Alm.,3862,7,Villa,167,1954,
+Bygvænget 35 4720 Præstø,35,950000.0,20-01-2001,Alm.,8558,4,Villa,111,1980,
+Grønnegade 6 4720 Præstø,6,1095000.0,18-01-2001,Alm.,8111,5,Rækkehus,135,1870,
+Gyvelvej 14 4720 Præstø,14,300000.0,14-01-2001,Fam.,2912,6,Sommerhus,103,1966,
+Mønvej 70 4720 Præstø,70,466991.0,30-12-2000,Alm.,3891,5,Villa,120,1925,
+Mønvej 102 4720 Præstø,102,250000.0,27-12-2000,Auktion,2293,4,Villa,109,1952,
+Næstvedvej 49 4720 Præstø,49,943000.0,20-12-2000,Alm.,5750,4,Villa,164,1973,
+Nihøjvej 5 4720 Præstø,5,619000.0,14-12-2000,Alm.,5158,4,Villa,120,1920,
+Mosestien 28 4720 Præstø,28,338916.0,14-12-2000,Alm.,5843,3,Sommerhus,58,1970,
+Tubæk Møllevej 2 4720 Præstø,2,519990.0,05-12-2000,Alm.,6419,2,Villa,81,1959,
+Søtoftsvej 25 4720 Præstø,25,700892.0,05-12-2000,Alm.,5840,6,Villa,120,1940,
+Rødeledvej 7 4720 Præstø,7,1109000.0,24-11-2000,Alm.,6373,6,Villa,174,1888,
+Hjørnehusvej 19 4720 Præstø,19,723000.0,23-11-2000,Alm.,5239,4,Villa,138,1971,
+Ørnevej 1 4720 Præstø,1,55000.0,22-11-2000,Alm.,887,4,Sommerhus,62,2001,
+Lundegårdsvej 22 4720 Præstø,22,925000.0,21-11-2000,Alm.,7708,6,Villa,120,1962,
+Børgesvej 1 4720 Præstø,1,444907.0,18-11-2000,Fam.,1917,8,Villa,232,1970,
+Bøgebjergvej 8 4720 Præstø,8,711041.0,17-11-2000,Alm.,6583,4,Villa,108,1900,
+"Jomfrustræde 1, ST. TH 4720 Præstø",0,491560.0,16-11-2000,Alm.,7447,2,Lejlighed,66,1920,
+Bakkestien 17 4720 Præstø,17,502403.0,16-11-2000,Alm.,6977,3,Sommerhus,72,1962,
+"Vesterbro 3, 2 4720 Præstø",2,300000.0,07-11-2000,Alm.,3703,3,Lejlighed,81,1905,
+"Strandvejen 2, 1. TV 4720 Præstø",0,520000.0,06-11-2000,Alm.,7123,3,Lejlighed,73,1976,
+Lovgårdsvej 5 4720 Præstø,5,1486989.0,06-11-2000,Alm.,0,7,Stuehus,251,1957,
+Stavreby Strandvej 38B 4720 Præstø,0,550000.0,05-11-2000,Alm.,8461,4,Sommerhus,65,1964,
+Lundbyvej 14 4720 Præstø,14,531092.0,27-10-2000,Alm.,7696,2,Villa,69,1944,
+Næbvej 16 4720 Præstø,16,695000.0,23-10-2000,Alm.,6435,3,Villa,108,1965,
+Grønnegade 7 4720 Præstø,7,1350000.0,17-10-2000,Alm.,0,6,Rækkehus,277,1837,
+Dyrlevvej 4 4720 Præstø,4,988121.0,08-10-2000,Alm.,5812,6,Villa,170,1827,
+Kastanievænget 13 4720 Præstø,13,435184.0,07-10-2000,Alm.,7771,4,Sommerhus,56,1981,
+Lærkevej 6 4720 Præstø,6,290000.0,05-10-2000,Fam.,4461,3,Sommerhus,65,1975,
+Bakkestien 34 4720 Præstø,34,385000.0,04-10-2000,Alm.,4095,4,Sommerhus,94,1957,
+Bæk 4 4720 Præstø,4,2105186.0,03-10-2000,Fam.,13849,5,Stuehus,152,1984,
+Hybenvej 6 4720 Præstø,6,390000.0,25-09-2000,Alm.,6964,3,Sommerhus,56,1979,
+Lygtevej 1 4720 Præstø,1,571000.0,20-09-2000,Auktion,4167,4,Villa,137,1934,
+Dyremarken 7 4720 Præstø,7,163909.0,14-09-2000,Fam.,1311,6,Villa,125,1963,
+Lillemarksvej 13 4720 Præstø,13,765900.0,11-09-2000,Alm.,7364,4,Villa,104,1931,
+Oregaardsvængevej 5 4720 Præstø,5,875000.0,08-09-2000,Alm.,0,5,Villa,157,1900,
+"Torvestræde 3, 2. 12 4720 Præstø",12,617978.0,31-08-2000,Alm.,5468,4,Lejlighed,113,1807,
+Mønvej 86 4720 Præstø,86,560000.0,22-08-2000,Alm.,4628,4,Villa,121,1802,
+Rødegårdsvej 63 4720 Præstø,63,1080000.0,21-08-2000,Alm.,6666,5,Villa,162,1979,
+Bygvænget 45 4720 Præstø,45,1312719.0,16-08-2000,Alm.,8414,3,Villa,156,1986,
+Næbvej 50 4720 Præstø,50,1250000.0,09-08-2000,Andet,4960,8,Stuehus,252,1876,
+Kirkagerstræde 4 4720 Præstø,4,1025470.0,10-07-2000,Alm.,6702,4,Villa,153,1950,
+Stærevej 5 4720 Præstø,5,515000.0,09-07-2000,Alm.,6602,4,Sommerhus,78,1989,
+Næstvedvej 15 4720 Præstø,15,3741288.0,07-07-2000,Alm.,17900,7,Stuehus,209,1878,
+Grundtvigsvej 4 4720 Præstø,4,330000.0,28-06-2000,Alm.,6875,3,Villa,48,1927,
+Hovmarken 3 4720 Præstø,3,1012590.0,26-06-2000,Alm.,8036,4,Stuehus,126,2013,
+Nihøjvej 7 4720 Præstø,7,571660.0,22-06-2000,Alm.,8166,3,Villa,70,1877,
+Bygvænget 10 4720 Præstø,10,1215000.0,16-06-2000,Alm.,8741,4,Villa,139,1980,
+Mislehøjvej 2 4720 Præstø,2,1113350.0,15-06-2000,Alm.,7276,5,Villa,153,1964,
+Hejrevej 5 4720 Præstø,5,502587.0,15-06-2000,Andet,2731,6,Villa,184,1977,
+Lillemarksvej 6 4720 Præstø,6,1385780.0,13-06-2000,Alm.,8770,6,Stuehus,158,1777,
+Oregaardsvængevej 1 4720 Præstø,1,1100000.0,12-06-2000,Alm.,0,7,Stuehus,221,1908,
+Aagesvej 12 4720 Præstø,12,590782.0,29-05-2000,Fam.,4441,3,Villa,133,1968,
+Lindevej 33 4720 Præstø,33,468000.0,29-05-2000,Alm.,0,3,Villa,77,1959,
+Adelgade 124 4720 Præstø,124,600855.0,28-05-2000,Alm.,3162,7,Rækkehus,190,1830,
+Mosestien 5 4720 Præstø,5,385000.0,27-05-2000,Alm.,7000,4,Sommerhus,55,1977,
+Egebjergvej 24 4720 Præstø,24,758040.0,19-05-2000,Alm.,11662,3,Villa,65,1900,
+Kastanievænget 4 4720 Præstø,4,400000.0,18-05-2000,Alm.,8000,4,Sommerhus,50,1979,
+Bygvænget 36 4720 Præstø,36,1205140.0,15-05-2000,Alm.,8369,5,Villa,144,1981,
+Sneserevej 5 4720 Præstø,5,843560.0,30-04-2000,Alm.,5899,5,Villa,143,1887,
+Bøged Strandvej 32 4720 Præstø,32,272000.0,28-04-2000,Alm.,0,2,Sommerhus,53,1973,
+Hestehavevej 61 4720 Præstø,61,880000.0,28-04-2000,Fam.,5146,5,Villa,171,1908,
+Mønvej 122 4720 Præstø,122,763407.0,26-04-2000,Alm.,5964,4,Villa,128,1964,
+Bøged Strandvej 4 4720 Præstø,4,931850.0,25-04-2000,Alm.,7168,3,Villa,130,1903,
+Rekkende By 2 4720 Præstø,2,844130.0,23-04-2000,Alm.,6699,6,Villa,126,1880,
+Kirkagerstræde 35 4720 Præstø,35,1002974.0,18-04-2000,Alm.,6388,4,Villa,157,1970,
+Solsortvej 10 4720 Præstø,10,185000.0,03-04-2000,Alm.,0,3,Sommerhus,56,1976,
+Adelgade 6 4720 Præstø,6,425000.0,31-03-2000,Fam.,4047,5,Rækkehus,105,1907,
+Stadionvej 4 4720 Præstø,4,982660.0,30-03-2000,Fam.,4747,6,Villa,207,1963,
+Hjørnehusvej 2 4720 Præstø,2,739190.0,29-03-2000,Alm.,5730,3,Villa,129,1930,
+Adelgade 9 4720 Præstø,9,807500.0,27-03-2000,Andet,4412,6,Rækkehus,183,1867,
+Tubæk Møllevej 1 4720 Præstø,1,659480.0,18-03-2000,Alm.,0,6,Villa,169,1898,
+Ådalsvej 8 4720 Præstø,8,838720.0,13-03-2000,Alm.,7987,3,Villa,105,1944,
+Lillemarksvej 7 4720 Præstø,7,835000.0,09-03-2000,Auktion,5122,6,Villa,163,1870,
+Jungshovedvej 40B 4720 Præstø,0,730078.0,24-02-2000,Alm.,0,6,Villa,181,1960,
+Bakkestien 16 4720 Præstø,16,625063.0,21-02-2000,Alm.,6068,5,Sommerhus,103,1984,
+Klintestien 21 4720 Præstø,21,426000.0,17-02-2000,Alm.,6173,4,Sommerhus,69,1970,
+Bønsvigvej 16 4720 Præstø,16,842500.0,09-02-2000,Alm.,11541,3,Stuehus,73,1915,
+Mønvej 87 4720 Præstø,87,492240.0,02-02-2000,Alm.,4171,5,Villa,118,1910,
+Winsløwsvej 8 4720 Præstø,8,1177979.0,27-01-2000,Alm.,8536,5,Villa,138,1985,
+Fjordvej 3 4720 Præstø,3,600000.0,24-01-2000,Alm.,0,3,Villa,98,1953,
+Parkvej 8 4720 Præstø,8,255000.0,16-01-2000,Alm.,3187,3,Villa,80,1827,
+Birkevej 4 4720 Præstø,4,1130000.0,15-01-2000,Alm.,8828,3,Villa,128,1985,
+Gernersvej 18 4720 Præstø,18,747375.0,05-12-1999,Alm.,5705,5,Villa,131,1969,
+Duevangen 8 4720 Præstø,8,250000.0,22-11-1999,Alm.,0,3,Villa,80,1962,
+Abildhøjvej 12A 4720 Præstø,0,275000.0,16-11-1999,Alm.,5978,2,Rækkehus,46,1900,
+Adelgade 126B 4720 Præstø,0,1325000.0,12-11-1999,Alm.,0,2,Anden beboelse,66,1880,
+Rødegårdsvej 25 4720 Præstø,25,965860.0,12-11-1999,Alm.,7545,4,Villa,128,1977,
+Mosestien 3 4720 Præstø,3,328000.0,07-11-1999,Alm.,6693,3,Sommerhus,49,1969,
+Duevej 15 4720 Præstø,15,60000.0,04-11-1999,Alm.,740,4,Sommerhus,81,2005,
+Fredensvej 26 4720 Præstø,26,799000.0,01-11-1999,Alm.,7198,4,Villa,111,1977,
+Kirsebærvej 4 4720 Præstø,4,225000.0,28-10-1999,Alm.,1991,3,Villa,113,2000,
+Over Lyngen 4 4720 Præstø,4,1854255.0,21-10-1999,Alm.,6506,13,Stuehus,285,1911,
+Rekkendevej 47 4720 Præstø,47,1075000.0,20-10-1999,Alm.,7962,3,Stuehus,135,1827,
+Ambæk Mark 7 4720 Præstø,7,1108183.0,11-10-1999,Alm.,6757,6,Villa,164,1827,
+Ambæk Mark 1 4720 Præstø,1,1124000.0,08-10-1999,Alm.,4339,8,Villa,259,1972,
+Rødegårdsvej 1 4720 Præstø,1,1317000.0,20-09-1999,Alm.,6212,4,Villa,212,1978,
+Mosestien 14 4720 Præstø,14,180000.0,17-09-1999,Fam.,0,4,Sommerhus,54,1967,
+Rosagervej 9 4720 Præstø,9,305000.0,16-09-1999,Andet,1622,7,Villa,188,1975,
+Lindevej 43A 4720 Præstø,0,260000.0,15-09-1999,Andet,2363,4,Villa,110,1940,
+Bøgebjergvej 9 4720 Præstø,9,248000.0,14-09-1999,Alm.,1377,8,Villa,180,1900,
+Svanevej 16 4720 Præstø,16,1262000.0,12-09-1999,Alm.,10973,4,Villa,115,1972,
+Birkevænget 1 4720 Præstø,1,256560.0,02-09-1999,Alm.,7330,3,Sommerhus,35,1975,
+Lundbyvej 9 4720 Præstø,9,420000.0,02-09-1999,Alm.,0,5,Villa,167,1914,
+Stavreby Strandvej 34 4720 Præstø,34,542100.0,31-08-1999,Alm.,5019,3,Villa,108,1925,
+Mønvej 140 4720 Præstø,140,550000.0,26-08-1999,Fam.,5500,2,Villa,100,1948,
+Hestehavevej 22 4720 Præstø,22,462320.0,24-08-1999,Alm.,11558,2,Sommerhus,40,1961,
+Ternevej 19 4720 Præstø,19,865000.0,12-08-1999,Alm.,7268,3,Villa,119,1974,
+Hjørnehusvej 14 4720 Præstø,14,1003000.0,03-08-1999,Alm.,5335,6,Villa,188,1971,
+Hestehavevej 63 4720 Præstø,63,1800000.0,01-08-1999,Alm.,9574,5,Villa,188,1911,
+Gernersvej 40 4720 Præstø,40,377800.0,01-08-1999,Andet,0,5,Villa,159,1975,
+Mosestien 9 4720 Præstø,9,288475.0,31-07-1999,Alm.,4973,3,Sommerhus,58,1971,
+Mågevej 6 4720 Præstø,6,991800.0,19-07-1999,Alm.,7186,4,Villa,138,1973,
+Lydehøjvej 20 4720 Præstø,20,308000.0,16-07-1999,Alm.,3948,3,Sommerhus,78,1968,
+Lupinvej 2 4720 Præstø,2,749056.0,12-07-1999,Alm.,11889,5,Sommerhus,63,1980,
+Bøgebjergvej 7 4720 Præstø,7,741741.0,10-07-1999,Alm.,4847,5,Villa,153,1921,
+"Lundegårdsvej 18A, 1 4720 Præstø",1,1500000.0,09-07-1999,Alm.,45454,2,Lejlighed,33,1897,
+Kirsebærvej 21 4720 Præstø,21,394250.0,26-06-1999,Andet,4638,3,Villa,85,1852,
+Klintestien 2 4720 Præstø,2,985000.0,24-06-1999,Alm.,0,4,Sommerhus,60,1934,
+Næstvedvej 32 4720 Præstø,32,4144829.0,21-06-1999,Andet,0,7,Engroshandel,112,1935,
+Hestehavevej 95 4720 Præstø,95,436240.0,14-06-1999,Alm.,5816,2,Villa,75,1898,
+Juulsvej 37 4720 Præstø,37,1459040.0,11-06-1999,Alm.,7559,7,Villa,193,1997,
+Torvet 23 4720 Præstø,23,2134776.0,10-06-1999,Alm.,7819,10,Rækkehus,273,1853,
+Antonivej 2 4720 Præstø,2,450000.0,04-06-1999,Alm.,1535,8,Villa,293,1927,
+Juulsvej 12 4720 Præstø,12,1075000.0,03-06-1999,Alm.,5375,6,Villa,200,1979,
+Rekkendevej 18 4720 Præstø,18,353000.0,03-06-1999,Alm.,4412,3,Villa,80,1900,
+Håndværkervej 8 4720 Præstø,8,235499.0,31-05-1999,Andet,0,4,Villa,127,1877,
+Fjordparken 36 4720 Præstø,36,451000.0,25-05-1999,Alm.,7393,2,Rækkehus,61,1977,
+Th. Hansensvej 7 4720 Præstø,7,671943.0,25-05-1999,Alm.,5129,5,Villa,131,1947,
+Dyremarken 6 4720 Præstø,6,414453.0,21-05-1999,Andet,6684,3,Stuehus,62,1857,
+Lærkevej 7 4720 Præstø,7,59000.0,11-05-1999,Alm.,819,4,Sommerhus,72,2000,
+Fuglsangvej 4 4720 Præstø,4,255000.0,04-05-1999,Alm.,0,4,Villa,192,1827,
+Rugvænget 11 4720 Præstø,11,1113479.0,04-05-1999,Alm.,0,5,Villa,153,1999,
+Svend Gøngesvej 33 4720 Præstø,33,717780.0,29-04-1999,Alm.,7177,4,Villa,100,1961,
+Stærevej 6 4720 Præstø,6,385000.0,22-04-1999,Alm.,0,5,Sommerhus,72,1975,
+Christinelundsvej 30 4720 Præstø,30,1401000.0,20-04-1999,Alm.,8648,7,Stuehus,162,1918,
+Birkevænget 22 4720 Præstø,22,450000.0,18-04-1999,Alm.,5555,4,Sommerhus,81,1975,
+Lupinvej 5 4720 Præstø,5,356000.0,16-04-1999,Alm.,0,7,Sommerhus,105,1975,
+Klosternakken 13 4720 Præstø,13,2336450.0,14-04-1999,Alm.,8718,7,Rækkehus,268,1884,
+Pilevænget 9 4720 Præstø,9,266000.0,12-04-1999,Andet,5782,3,Sommerhus,46,1977,
+Næstvedvej 12 4720 Præstø,12,4000000.0,06-04-1999,Fam.,16666,9,Stuehus,240,1926,
+Fyrrevænget 18 4720 Præstø,18,502000.0,04-04-1999,Alm.,11952,2,Sommerhus,42,1970,
+Stavreby Strandvej 54 4720 Præstø,54,2000000.0,31-03-1999,Alm.,8230,10,Villa,243,1906,
+Teglstrupvej 9 4720 Præstø,9,1769000.0,30-03-1999,Alm.,8423,9,Villa,210,1900,
+Lupinvej 25 4720 Præstø,25,190000.0,21-03-1999,Fam.,2714,4,Sommerhus,70,1999,
+Duevej 7 4720 Præstø,7,244000.0,20-03-1999,Alm.,8133,2,Sommerhus,30,1977,
+Kastanievænget 6 4720 Præstø,6,298000.0,04-03-1999,Alm.,5518,3,Sommerhus,54,1974,
+Jungshovedvej 55 4720 Præstø,55,690740.0,26-02-1999,Alm.,4698,6,Villa,147,1938,
+Næstvedvej 19 4720 Præstø,19,2635807.0,25-02-1999,Alm.,9946,7,Stuehus,265,1869,
+Mønvej 29 4720 Præstø,29,916000.0,24-02-1999,Alm.,5725,5,Villa,160,1918,
+Enghavevej 13 4720 Præstø,13,624876.0,22-02-1999,Alm.,3124,7,Stuehus,200,1922,
+Mosestien 38 4720 Præstø,38,215000.0,19-02-1999,Alm.,5810,2,Sommerhus,37,1966,
+Præstevænget 5 4720 Præstø,5,613620.0,17-02-1999,Alm.,0,4,Villa,123,1966,
+Kirsebærvej 28 4720 Præstø,28,725000.0,17-02-1999,Alm.,7631,3,Rækkehus,95,1981,
+Lupinvej 9B 4720 Præstø,0,357880.0,11-02-1999,Alm.,4021,3,Sommerhus,89,1969,
+Søndre Hovstræde 3 4720 Præstø,3,366000.0,09-02-1999,Alm.,4463,4,Villa,82,1927,
+Hjørnehusvej 13 4720 Præstø,13,1045000.0,08-02-1999,Fam.,5837,5,Villa,179,1970,
+Lupinvej 23 4720 Præstø,23,340000.0,05-02-1999,Andet,4415,4,Sommerhus,77,1981,
+Faksinge By 20 4720 Præstø,20,800000.0,18-01-1999,Alm.,0,4,Villa,140,1827,
+Tubæk Møllevej 17 4720 Præstø,17,367333.0,31-12-1998,Fam.,1330,6,Villa,276,1965,
+Stavreby Strandvej 25 4720 Præstø,25,512000.0,28-12-1998,Alm.,7314,2,Villa,70,1979,
+"Vesterbro 59, ST 4720 Præstø",0,914650.0,21-12-1998,Alm.,0,4,Lejlighed,96,1926,
+"Adelgade 128, 1 4720 Præstø",1,724297.0,13-12-1998,Alm.,8422,4,Rækkehus,86,1905,
+Vagtelvej 12 4720 Præstø,12,265848.0,08-12-1998,Alm.,0,3,Sommerhus,48,1975,
+Klintestien 35 4720 Præstø,35,260700.0,01-12-1998,Fam.,0,3,Sommerhus,56,1971,
+Roneklintvej 26 4720 Præstø,26,1458000.0,30-11-1998,Alm.,9655,4,Stuehus,151,1777,
+Mønvej 160 4720 Præstø,160,60000.0,21-11-1998,Alm.,0,5,Stuehus,186,1900,
+Sneserevej 16 4720 Præstø,16,457799.0,20-11-1998,Alm.,4768,4,Villa,96,1963,
+Hestehavevej 76 4720 Præstø,76,836000.0,18-11-1998,Alm.,0,4,Villa,154,1938,
+Evensølundvej 2 4720 Præstø,2,29000.0,18-11-1998,Alm.,305,3,Stuehus,95,1870,
+Birkevænget 2 4720 Præstø,2,60000.0,17-11-1998,Alm.,1578,1,Sommerhus,38,2001,
+Ronesbanke 1 4720 Præstø,1,587000.0,13-11-1998,Alm.,4380,5,Villa,134,1947,
+Roneklintvej 15 4720 Præstø,15,877000.0,07-11-1998,Alm.,0,9,Villa,194,1745,
+Adelgade 103 4720 Præstø,103,566000.0,30-10-1998,Alm.,3824,6,Rækkehus,148,1900,
+Bønsvigvej 31 4720 Præstø,31,17000000.0,20-10-1998,Andet,293103,3,Villa,58,1777,
+Lundbyvej 28A 4720 Præstø,0,92000.0,16-10-1998,Alm.,1277,2,Villa,72,1840,
+Hybenvej 16 4720 Præstø,16,308940.0,08-10-1998,Alm.,5236,3,Sommerhus,59,1973,
+Skovhusevej 16 4720 Præstø,16,1135000.0,24-09-1998,Alm.,0,5,Stuehus,158,1900,
+Rekkendevej 31 4720 Præstø,31,1016010.0,21-09-1998,Alm.,9769,4,Villa,104,1827,
+Smedestræde 16 4720 Præstø,16,528063.0,21-09-1998,Fam.,5617,3,Villa,94,1984,
+Rødeledvej 20 4720 Præstø,20,636150.0,14-09-1998,Alm.,6361,5,Villa,100,1922,
+Mønvej 93 4720 Præstø,93,48000.0,12-09-1998,Alm.,0,5,Villa,142,1907,
+Dyrlevvej 8 4720 Præstø,8,799285.0,25-08-1998,Alm.,4873,5,Villa,164,1918,
+Over Lyngen 11 4720 Præstø,11,340042.0,14-08-1998,Alm.,5152,2,Villa,66,1830,
+Skovgårdsvej 4 4720 Præstø,4,826000.0,14-08-1998,Alm.,4130,5,Villa,200,1850,
+Birkevej 5 4720 Præstø,5,740880.0,13-08-1998,Alm.,8053,4,Villa,92,1964,
+Egestræde 9B 4720 Præstø,0,900000.0,10-08-1998,Alm.,7086,4,Villa,127,1983,
+Lærkevej 11 4720 Præstø,11,42000.0,03-08-1998,Alm.,583,3,Sommerhus,72,2001,
+Juulsvej 41 4720 Præstø,41,589000.0,22-07-1998,Alm.,5354,4,Villa,110,1956,
+Fuglsangvej 16 4720 Præstø,16,1960000.0,20-07-1998,Alm.,11264,6,Villa,174,1862,
+Antonivej 12 4720 Præstø,12,712600.0,11-07-1998,Alm.,5889,5,Villa,121,1960,
+Svanevej 14 4720 Præstø,14,1802742.0,27-06-1998,Alm.,10859,6,Villa,166,1997,
+Duevej 9 4720 Præstø,9,307000.0,27-06-1998,Alm.,4039,4,Sommerhus,76,1977,
+"Adelgade 55, 1. TH 4720 Præstø",0,362000.0,25-06-1998,Fam.,4209,3,Lejlighed,86,1847,
+Ådalsvej 9 4720 Præstø,9,450000.0,19-06-1998,Alm.,0,5,Villa,123,1902,
+Melteskovvej 4 4720 Præstø,4,1053780.0,11-06-1998,Alm.,5953,6,Stuehus,177,1700,
+Pilevænget 15 4720 Præstø,15,337000.0,11-06-1998,Alm.,3120,5,Sommerhus,108,1976,
+Christinelundsvej 23 4720 Præstø,23,743000.0,04-06-1998,Alm.,6191,4,Villa,120,1965,
+Lundegårdsvej 23A 4720 Præstø,0,117000.0,29-05-1998,Alm.,713,4,Villa,164,2000,
+Bønsvigvej 1 4720 Præstø,1,125000.0,28-05-1998,Alm.,905,2,Villa,138,2005,
+Tjørnevænget 2 4720 Præstø,2,710000.0,27-05-1998,Alm.,10289,4,Sommerhus,69,1963,
+Smidstrupvej 14 4720 Præstø,14,594420.0,27-05-1998,Alm.,0,7,Villa,184,1928,
+Bønsvigvej 41 4720 Præstø,41,560365.0,26-05-1998,Alm.,7184,3,Villa,78,1851,
+Hybenvej 17 4720 Præstø,17,255000.0,19-05-1998,Alm.,4322,2,Sommerhus,59,1972,
+Egevænget 8 4720 Præstø,8,244200.0,18-05-1998,Alm.,4360,3,Sommerhus,56,1977,
+Stadionvej 9 4720 Præstø,9,250000.0,15-05-1998,Alm.,0,3,Villa,113,1962,
+Fyrrevænget 12 4720 Præstø,12,800000.0,14-05-1998,Alm.,11111,3,Sommerhus,72,1993,
+Svend Gøngesvej 35 4720 Præstø,35,676000.0,12-05-1998,Alm.,0,6,Villa,142,1967,
+Juulsvej 5 4720 Præstø,5,810000.0,07-05-1998,Alm.,7232,4,Villa,112,1979,
+Skovgårdsvej 2 4720 Præstø,2,510030.0,06-05-1998,Alm.,4636,4,Villa,110,1918,
+Christinelundsvej 3 4720 Præstø,3,1029467.0,14-04-1998,Alm.,5147,6,Villa,200,1924,
+Bønsvigvej 1A 4720 Præstø,0,782004.0,10-04-1998,Alm.,5708,6,Villa,137,1959,
+Mønvej 49 4720 Præstø,49,390000.0,03-04-1998,Fam.,4698,5,Villa,83,1900,
+Fuglsangvej 17 4720 Præstø,17,440000.0,01-04-1998,Alm.,3963,4,Villa,111,1972,
+Ronesbanke 40 4720 Præstø,40,593960.0,17-03-1998,Alm.,4304,4,Villa,138,1904,
+Gernersvej 42 4720 Præstø,42,619365.0,14-03-1998,Alm.,5161,4,Villa,120,1972,
+Fasanvej 4 4720 Præstø,4,507800.0,08-03-1998,Alm.,4616,4,Villa,110,1969,
+Lundbyvej 18 4720 Præstø,18,707280.0,06-03-1998,Alm.,0,8,Villa,171,1987,
+Fuglsangvej 6 4720 Præstø,6,199500.0,22-02-1998,Alm.,0,9,Villa,299,1884,
+Bakkestien 15 4720 Præstø,15,300000.0,22-02-1998,Alm.,4166,3,Sommerhus,72,1972,
+Svalevej 18 4720 Præstø,18,332261.0,18-02-1998,Alm.,5273,4,Sommerhus,63,1985,
+Dyrlevvej 13 4720 Præstø,13,1320937.0,18-02-1998,Fam.,6671,7,Stuehus,198,1908,
+Bønsvigvej 12 4720 Præstø,12,646600.0,16-02-1998,Alm.,6339,3,Villa,102,1922,
+Roneklintvej 16 4720 Præstø,16,171444.0,12-02-1998,Fam.,836,7,Villa,205,1900,
+Duevangen 3 4720 Præstø,3,430000.0,05-02-1998,Alm.,2774,4,Villa,155,2001,
+Faksevej 8 4720 Præstø,8,700000.0,26-01-1998,Alm.,7954,4,Villa,88,1907,
+Bakkestien 30 4720 Præstø,30,95000.0,21-01-1998,Alm.,1979,2,Sommerhus,48,1968,
+Smidstrupvej 53 4720 Præstø,53,435000.0,15-01-1998,Alm.,4943,3,Villa,88,1925,
+Rugvænget 21 4720 Præstø,21,140400.0,10-01-1998,Alm.,1179,4,Villa,119,1998,
+Rødegårdsvej 101 4720 Præstø,101,158300.0,02-01-1998,Andet,0,5,Villa,164,1997,
+Ørnevej 6 4720 Præstø,6,212500.0,21-12-1997,Fam.,4619,3,Sommerhus,46,1975,
+Kohavevej 13 4720 Præstø,13,186493.0,18-12-1997,Alm.,0,5,Sommerhus,66,1966,
+"Havnevej 12, ST. TV 4720 Præstø",0,662663.0,17-12-1997,Alm.,6371,3,Lejlighed,104,1847,
+Dyremarken 4 4720 Præstø,4,195000.0,15-12-1997,Alm.,0,7,Villa,204,1956,
+Vagtelvej 9 4720 Præstø,9,234000.0,08-12-1997,Alm.,4680,4,Sommerhus,50,1979,
+Skovhusevej 23. TV 4720 Præstø,0,608000.0,05-12-1997,Alm.,3662,4,Rækkehus,166,1977,
+Gernersvej 34 4720 Præstø,34,450000.0,01-12-1997,Fam.,0,5,Villa,142,1974,
+Klosternakken 15 4720 Præstø,15,484500.0,30-11-1997,Alm.,3845,4,Rækkehus,126,1875,
+Faksinge By 2 4720 Præstø,2,70000.0,28-11-1997,Alm.,0,7,Villa,185,1999,
+Ternevej 16 4720 Præstø,16,874000.0,27-11-1997,Alm.,5826,6,Villa,150,1973,
+Strandgårdsvej 5 4720 Præstø,5,750000.0,26-11-1997,Alm.,6250,4,Villa,120,1972,
+Skovhusevej 17 4720 Præstø,17,630000.0,21-11-1997,Alm.,3073,5,Villa,205,1925,
+Rekkendevej 7 4720 Præstø,7,345000.0,18-11-1997,Alm.,3415,3,Villa,101,1830,
+Strandgårdsvej 8 4720 Præstø,8,721120.0,20-10-1997,Alm.,0,4,Villa,159,1973,
+Fredensvej 7 4720 Præstø,7,79700.0,14-10-1997,Alm.,0,6,Villa,181,1998,
+Bygvænget 29 4720 Præstø,29,868726.0,08-10-1997,Alm.,7120,5,Villa,122,1986,
+Spættevej 13 4720 Præstø,13,410000.0,05-10-1997,Alm.,0,4,Sommerhus,71,1975,
+Humlevej 1 4720 Præstø,1,1040000.0,02-10-1997,Alm.,8062,4,Villa,129,1900,
+Skovhusevej 36 4720 Præstø,36,581000.0,24-09-1997,Alm.,7448,3,Villa,78,1827,
+Ronesstræde 22 4720 Præstø,22,455224.0,22-09-1997,Alm.,6151,3,Rækkehus,74,1987,
+Præstevænget 2 4720 Præstø,2,720000.0,20-09-1997,Alm.,4645,5,Villa,155,1968,
+Spangen 1A 4720 Præstø,0,1179473.0,11-09-1997,Alm.,0,8,Villa,276,1976,
+Stavreby Strandvej 32 4720 Præstø,32,363179.0,08-09-1997,Alm.,4429,2,Villa,82,1785,
+Torvet 12 4720 Præstø,12,1622000.0,04-09-1997,Alm.,8110,5,Rækkehus,200,1727,
+Bøged Strandvej 34 4720 Præstø,34,312100.0,27-08-1997,Alm.,4728,3,Sommerhus,66,1976,
+Rødeledvej 2 4720 Præstø,2,664000.0,21-08-1997,Alm.,0,4,Villa,169,1940,
+Roneklintvej 4 4720 Præstø,4,560000.0,19-08-1997,Alm.,0,5,Villa,149,1921,
+Snaphanevej 2 4720 Præstø,2,616000.0,18-08-1997,Alm.,5866,4,Villa,105,1967,
+Egestræde 14 4720 Præstø,14,410000.0,15-08-1997,Alm.,3153,4,Villa,130,1895,
+Bøgebjergvej 3 4720 Præstø,3,774065.0,01-08-1997,Alm.,4300,3,Villa,180,1900,
+Rekkendevej 4 4720 Præstø,4,580000.0,18-07-1997,Alm.,5043,5,Villa,115,1942,
+Juulsvej 19 4720 Præstø,19,1210838.0,14-07-1997,Alm.,8126,5,Villa,149,1997,
+Rødegårdsvej 77 4720 Præstø,77,578000.0,07-07-1997,Fam.,4551,4,Villa,127,1979,
+Primulavej 14 4720 Præstø,14,300000.0,07-07-1997,Alm.,5555,3,Sommerhus,54,1980,
+Jungshovedvej 30 4720 Præstø,30,606850.0,05-07-1997,Alm.,5516,3,Villa,110,1925,
+Ny Esbjergvej 10 4720 Præstø,10,450593.0,05-07-1997,Alm.,4645,4,Villa,97,1928,
+Hovedvejen 106 4720 Præstø,106,629000.0,03-07-1997,Alm.,4838,3,Stuehus,130,1877,
+Næstvedvej 14 4720 Præstø,14,575000.0,03-07-1997,Alm.,0,4,Villa,88,1945,
+Adelgade 25 4720 Præstø,25,432000.0,28-06-1997,Alm.,3927,5,Rækkehus,110,1932,
+Vagtmestervej 3 4720 Præstø,3,618000.0,28-06-1997,Alm.,0,4,Villa,135,1966,
+Ellemosevej 18 4720 Præstø,18,610697.0,28-06-1997,Alm.,5654,4,Villa,108,1969,
+Vibevej 4 4720 Præstø,4,925000.0,27-06-1997,Alm.,0,6,Villa,252,1977,
+Håndværkervej 6 4720 Præstø,6,538092.0,27-06-1997,Alm.,5664,3,Villa,95,1830,
+Lundegårdsvej 16 4720 Præstø,16,974200.0,27-06-1997,Fam.,6088,5,Stuehus,160,1905,
+Kirsebærvej 44 4720 Præstø,44,630390.0,24-06-1997,Alm.,6241,3,Rækkehus,101,1981,
+Lindevej 48A 4720 Præstø,0,312060.0,21-06-1997,Alm.,4106,3,Lejlighed,76,1938,
+Hybenvej 3 4720 Præstø,3,145595.0,20-06-1997,Alm.,1516,2,Sommerhus,96,2006,
+Søtoftsvej 10 4720 Præstø,10,715840.0,12-06-1997,Alm.,5726,4,Villa,125,1945,
+Industrivej 7 4720 Præstø,7,820000.0,09-06-1997,Alm.,5125,6,Villa,160,1977,
+Smidstrupvej 20 4720 Præstø,20,577690.0,04-06-1997,Alm.,0,3,Villa,140,1900,
+Egebjergvej 2 4720 Præstø,2,650281.0,01-06-1997,Alm.,0,5,Stuehus,147,1904,
+Hestemøllestræde 4 4720 Præstø,4,460880.0,31-05-1997,Alm.,3292,3,Villa,140,1900,
+Sneserevej 51 4720 Præstø,51,100000.0,31-05-1997,Alm.,689,5,Villa,145,1998,
+Enegaarde By 4 4720 Præstø,4,694000.0,27-05-1997,Alm.,4180,4,Villa,166,1969,
+Rødegårdsvej 23 4720 Præstø,23,739700.0,21-05-1997,Andet,4594,5,Villa,161,1978,
+Stavreby Strandvej 49 4720 Præstø,49,308040.0,17-05-1997,Alm.,0,5,Villa,141,1965,
+Bakkestien 32 4720 Præstø,32,120000.0,16-05-1997,Alm.,2727,3,Sommerhus,44,2008,
+Aagesvej 1A 4720 Præstø,0,595000.0,06-05-1997,Alm.,4958,4,Villa,120,1973,
+Tranevej 17 4720 Præstø,17,774431.0,05-05-1997,Alm.,6619,4,Villa,117,1976,
+Mønvej 103A 4720 Præstø,0,509080.0,24-04-1997,Alm.,4670,2,Villa,109,1777,
+Lindevej 27 4720 Præstø,27,739580.0,23-04-1997,Alm.,2709,7,Villa,273,1954,
+Søtoftsvej 7 4720 Præstø,7,848279.0,21-04-1997,Alm.,7711,4,Villa,110,1950,
+Stærevej 1 4720 Præstø,1,345000.0,01-04-1997,Alm.,5476,4,Sommerhus,63,1974,
+Spættevej 11 4720 Præstø,11,41600.0,21-03-1997,Andet,411,2,Sommerhus,101,1997,
+Antonivej 16 4720 Præstø,16,595000.0,19-03-1997,Alm.,5042,4,Villa,118,1962,
+Rosagervej 1 4720 Præstø,1,746000.0,19-03-1997,Alm.,3825,5,Villa,195,1973,
+Rugvænget 31 4720 Præstø,31,136650.0,17-03-1997,Alm.,948,4,Villa,144,1997,
+Ellemosevej 12 4720 Præstø,12,807800.0,14-03-1997,Alm.,5729,4,Villa,141,1969,
+Bakkestien 3 4720 Præstø,3,425000.0,11-03-1997,Alm.,5519,4,Sommerhus,77,1982,
+Tjørnehoved By 2 4720 Præstø,2,1200000.0,27-02-1997,Alm.,0,6,Villa,173,1913,
+Mønvej 124 4720 Præstø,124,250839.0,24-02-1997,Fam.,1458,5,Villa,172,1974,
+Vesterbro 7 4720 Præstø,7,600210.0,22-02-1997,Alm.,4055,6,Rækkehus,148,1783,
+Ugledigevej 17 4720 Præstø,17,16000.0,10-02-1997,Alm.,78,6,Villa,204,1997,
+Ugledigevej 48 4720 Præstø,48,1800000.0,24-01-1997,Fam.,8653,6,Stuehus,208,1972,
+Hastrupvej 22 4720 Præstø,22,945000.0,21-01-1997,Alm.,3500,8,Villa,270,1890,
+Rødeledvej 16 4720 Præstø,16,520000.0,13-01-1997,Alm.,5531,5,Villa,94,1906,
+Rosagervej 26 4720 Præstø,26,623000.0,06-01-1997,Alm.,6627,3,Villa,94,1982,
+Kildegårdsvej 5 4720 Præstø,5,500000.0,31-12-1996,Alm.,0,7,Villa,241,1927,
+Fyrrevænget 22 4720 Præstø,22,280000.0,18-12-1996,Fam.,4516,4,Sommerhus,62,1977,
+Mønvej 77 4720 Præstø,77,562000.0,13-12-1996,Alm.,3602,6,Villa,156,1926,
+Skovhusevej 45 4720 Præstø,45,275000.0,12-12-1996,Andet,0,6,Villa,157,1877,
+Kirsebærvej 48 4720 Præstø,48,666350.0,05-12-1996,Alm.,6597,3,Rækkehus,101,1981,
+Sneserevej 29 4720 Præstø,29,160000.0,25-11-1996,Alm.,1797,3,Villa,89,1971,
+Stadionvej 3 4720 Præstø,3,500000.0,21-11-1996,Alm.,0,5,Villa,135,1962,
+Fjordvej 4 4720 Præstø,4,502784.0,08-11-1996,Alm.,3928,4,Villa,128,1959,
+Rødegårdsvej 97 4720 Præstø,97,863600.0,08-11-1996,Alm.,4474,6,Villa,193,1978,
+Vægtervej 15 4720 Præstø,15,437800.0,08-11-1996,Alm.,0,6,Villa,143,1900,
+Ugledigevej 34 4720 Præstø,34,663000.0,05-11-1996,Alm.,0,8,Villa,195,1983,
+Bønsvig Strandvej 19 4720 Præstø,19,187000.0,25-10-1996,Fam.,4675,4,Sommerhus,40,1960,
+Rugvænget 25 4720 Præstø,25,750000.0,16-10-1996,Alm.,6000,5,Villa,125,1990,
+Næstvedvej 20 4720 Præstø,20,242250.0,14-10-1996,Andet,0,6,Villa,199,1895,
+Enghavevej 9A 4720 Præstø,0,40000.0,03-10-1996,Alm.,0,5,Stuehus,123,1997,
+Ugledigevej 5 4720 Præstø,5,165000.0,01-10-1996,Alm.,684,6,Villa,241,2001,
+"Adelgade 111, 2 4720 Præstø",2,379000.0,30-09-1996,Alm.,4858,2,Lejlighed,78,1920,
+Bønsvigvej 39 4720 Præstø,39,495000.0,22-09-1996,Alm.,4500,3,Villa,110,1907,
+Lindevej 43 4720 Præstø,43,784620.0,10-09-1996,Alm.,0,6,Villa,199,1919,
+Dyremarken 8 4720 Præstø,8,428820.0,09-09-1996,Alm.,7147,3,Stuehus,60,1857,
+Mønvej 158 4720 Præstø,158,382500.0,01-09-1996,Fam.,4553,2,Stuehus,84,1851,
+Kragevej 8 4720 Præstø,8,306000.0,17-08-1996,Alm.,0,4,Sommerhus,98,1976,
+Bønsvig Strandvej 9 4720 Præstø,9,338400.0,30-07-1996,Alm.,5735,3,Sommerhus,59,1978,
+Skovhusevej 39 4720 Præstø,39,2300000.0,19-07-1996,Alm.,0,9,Stuehus,323,1880,
+Næstvedvej 39 4720 Præstø,39,155000.0,09-07-1996,Andet,2152,3,Villa,72,1939,
+Kirsebærvej 36 4720 Præstø,36,596350.0,03-07-1996,Alm.,5904,3,Rækkehus,101,1981,
+Næstvedvej 23 4720 Præstø,23,437000.0,01-07-1996,Alm.,3414,4,Villa,128,1900,
+Kirkagerstræde 7 4720 Præstø,7,890000.0,28-06-1996,Alm.,4784,5,Villa,186,1977,
+Strandstien 16 4720 Præstø,16,180000.0,22-06-1996,Alm.,1200,5,Villa,150,1997,
+Mønvej 39B 4720 Præstø,0,245000.0,21-06-1996,Auktion,3101,3,Rækkehus,79,1984,
+Kirsebærvej 17 4720 Præstø,17,775000.0,19-06-1996,Alm.,5740,5,Villa,135,1978,
+Stavreby Strandvej 52 4720 Præstø,52,40000.0,14-06-1996,Alm.,425,3,Stuehus,94,1923,
+Mosestien 18 4720 Præstø,18,85000.0,09-06-1996,Alm.,2125,3,Sommerhus,40,1968,
+Smedestræde 12 4720 Præstø,12,545000.0,07-06-1996,Alm.,5797,3,Villa,94,1983,
+Svalevej 16 4720 Præstø,16,326000.0,04-06-1996,Alm.,4865,4,Sommerhus,67,1978,
+Fjordparken 26 4720 Præstø,26,350000.0,03-06-1996,Alm.,5737,2,Rækkehus,61,1977,
+Lærkevej 20 4720 Præstø,20,271612.0,23-05-1996,Alm.,3051,4,Sommerhus,89,1980,
+Mislehøjvej 12 4720 Præstø,12,286000.0,22-05-1996,Alm.,2776,5,Villa,103,1873,
+Præstø Overdrev 8 4720 Præstø,8,295000.0,21-05-1996,Alm.,3687,3,Villa,80,1870,
+Rødegårdsvej 85 4720 Præstø,85,734000.0,17-05-1996,Alm.,6116,4,Villa,120,1980,
+Ronesstræde 10 4720 Præstø,10,316000.0,16-05-1996,Alm.,4270,3,Rækkehus,74,1987,
+Hestehavevej 88 4720 Præstø,88,361903.0,13-05-1996,Alm.,3619,2,Villa,100,1910,
+Egebjergvej 26 4720 Præstø,26,732560.0,13-05-1996,Alm.,0,9,Villa,205,1890,
+Strandgårdsvej 25 4720 Præstø,25,550000.0,02-04-1996,Alm.,0,4,Villa,122,1972,
+Næbvej 19 4720 Præstø,19,661000.0,01-04-1996,Alm.,0,5,Villa,194,1887,
+Bakkestien 40 4720 Præstø,40,90000.0,30-03-1996,Alm.,1200,4,Sommerhus,75,1998,
+Svalevej 13 4720 Præstø,13,267000.0,28-03-1996,Alm.,3513,3,Sommerhus,76,1979,
+Faksinge By 14 4720 Præstø,14,650000.0,24-03-1996,Alm.,0,5,Villa,144,1906,
+Søtoftsvej 9 4720 Præstø,9,626000.0,12-03-1996,Alm.,5690,4,Villa,110,1952,
+Kirsebærvej 20 4720 Præstø,20,1080000.0,08-03-1996,Alm.,6585,6,Villa,164,1987,
+Oregaardsvængevej 3 4720 Præstø,3,625000.0,07-03-1996,Alm.,3491,4,Villa,179,1900,
+Hovedvejen 133 4720 Præstø,133,588000.0,22-02-1996,Alm.,2672,10,Sommerhus,220,1900,
+Humlevej 5 4720 Præstø,5,515000.0,31-01-1996,Andet,3344,4,Villa,154,1975,
+Fyrrevænget 1 4720 Præstø,1,225000.0,19-01-1996,Alm.,3750,3,Sommerhus,60,1975,
+Præstø Overdrev 15 4720 Præstø,15,178601.0,10-01-1996,Andet,1082,4,Villa,165,1875,
+Mønvej 1 4720 Præstø,1,300000.0,29-12-1995,Alm.,3030,4,Villa,99,1899,
+Dyrlevvej 22 4720 Præstø,22,410000.0,23-12-1995,Alm.,5466,3,Villa,75,1900,
+Faksinge By 8 4720 Præstø,8,1258297.0,17-12-1995,Alm.,6168,5,Villa,204,1827,
+"Jomfrustræde 6, 1. TH 4720 Præstø",0,442440.0,14-12-1995,Alm.,0,4,Lejlighed,158,1932,
+Juulsvej 3 4720 Præstø,3,777002.0,14-12-1995,Alm.,5755,5,Villa,135,1986,
+Jungshovedvej 74 4720 Præstø,74,460000.0,06-12-1995,Alm.,0,5,Villa,114,1930,
+Skovgårdsvej 5 4720 Præstø,5,685000.0,05-12-1995,Alm.,2939,8,Villa,233,1924,
+Lindevej 15 4720 Præstø,15,450000.0,04-12-1995,Alm.,0,6,Villa,125,1933,
+Næstvedvej 38 4720 Præstø,38,395000.0,24-11-1995,Alm.,2651,5,Villa,149,1889,
+Tjørnevænget 6 4720 Præstø,6,170000.0,20-11-1995,Fam.,0,4,Sommerhus,76,1962,
+Næstvedvej 45 4720 Præstø,45,381000.0,16-11-1995,Alm.,2116,5,Villa,180,1940,
+Ugledigevej 21 4720 Præstø,21,424012.0,14-11-1995,Alm.,3392,5,Villa,125,1850,
+Skovvej 2 4720 Præstø,2,385640.0,13-11-1995,Alm.,4536,3,Villa,85,1962,
+Lindevej 8 4720 Præstø,8,762900.0,12-11-1995,Alm.,0,8,Villa,177,1949,
+Valdemarsvej 7 4720 Præstø,7,559300.0,06-11-1995,Alm.,4622,5,Villa,121,1974,
+Lydehøjvej 3 4720 Præstø,3,891168.0,22-10-1995,Alm.,3978,7,Stuehus,224,1915,
+Mønvej 101A 4720 Præstø,0,540000.0,19-10-1995,Alm.,3272,3,Villa,165,1978,
+Strandgårdsvej 29 4720 Præstø,29,208000.0,05-10-1995,Andet,1677,4,Villa,124,1973,
+Teglstrupvej 6 4720 Præstø,6,286000.0,05-10-1995,Alm.,2979,3,Villa,96,1864,
+Næbvej 7 4720 Præstø,7,1070000.0,29-09-1995,Alm.,4163,8,Villa,257,1910,
+Mislehøjvej 21 4720 Præstø,21,825000.0,27-09-1995,Alm.,0,5,Stuehus,154,1924,
+Mønvej 15 4720 Præstø,15,390000.0,06-09-1995,Alm.,3900,4,Villa,100,1968,
+"Havnevej 12, 1. TV 4720 Præstø",0,260000.0,02-09-1995,Alm.,3880,2,Lejlighed,67,1847,
+Fyrrevænget 24 4720 Præstø,24,385000.0,29-08-1995,Alm.,5273,4,Sommerhus,73,1974,
+Aagesvej 25 4720 Præstø,25,535000.0,25-08-1995,Alm.,0,4,Villa,148,1971,
+Bogfinkevej 4 4720 Præstø,4,325000.0,22-08-1995,Alm.,0,2,Sommerhus,90,1981,
+Bøged Strandvej 7 4720 Præstø,7,279270.0,21-08-1995,Alm.,1329,6,Villa,210,1900,
+Fyrrevænget 2 4720 Præstø,2,303000.0,18-08-1995,Alm.,0,3,Sommerhus,99,1968,
+Ellemosevej 5 4720 Præstø,5,725000.0,16-08-1995,Alm.,4215,5,Villa,172,1971,
+Mønvej 23 4720 Præstø,23,235219.0,15-08-1995,Alm.,3618,2,Villa,65,1949,
+Rosagervej 7 4720 Præstø,7,653000.0,24-07-1995,Alm.,4240,4,Villa,154,1973,
+Mønvej 59 4720 Præstø,59,314500.0,14-07-1995,Fam.,3176,4,Villa,99,1955,
+Juulsvej 29 4720 Præstø,29,1145000.0,08-07-1995,Alm.,8006,4,Villa,143,1985,
+Abildhøjvej 15 4720 Præstø,15,375000.0,06-07-1995,Alm.,4166,3,Villa,90,1874,
+Jernbanevej 11 4720 Præstø,11,975000.0,03-07-1995,Alm.,4875,6,Villa,200,1906,
+Havnevej 8 4720 Præstø,8,762500.0,25-06-1995,Fam.,4013,7,Villa,190,1924,
+Aagesvej 15 4720 Præstø,15,670000.0,20-06-1995,Alm.,6146,4,Villa,109,1970,
+Søtoftsvej 3 4720 Præstø,3,558750.0,19-06-1995,Alm.,3628,6,Villa,154,1947,
+Mosestien 36 4720 Præstø,36,280120.0,17-06-1995,Alm.,4309,4,Sommerhus,65,1967,
+Svanevej 10 4720 Præstø,10,170000.0,11-06-1995,Alm.,1111,5,Villa,153,1996,
+Lundbyvej 1 4720 Præstø,1,350000.0,27-05-1995,Alm.,3977,3,Villa,88,1950,
+Kohavevej 1 4720 Præstø,1,125000.0,22-05-1995,Alm.,2500,3,Sommerhus,50,1960,
+Klintestien 1 4720 Præstø,1,225000.0,14-05-1995,Alm.,5625,2,Sommerhus,40,1950,
+Jungshovedvej 48 4720 Præstø,48,200846.0,09-05-1995,Alm.,1793,2,Villa,112,1915,
+Gyvelvej 4 4720 Præstø,4,80000.0,28-04-1995,Alm.,0,2,Sommerhus,74,1969,
+Ambæk Mark 5 4720 Præstø,5,1310000.0,20-03-1995,Alm.,5954,7,Stuehus,220,1867,
+Bakkestien 23 4720 Præstø,23,272000.0,09-03-1995,Alm.,4610,3,Sommerhus,59,1966,
+Bygvænget 18 4720 Præstø,18,569000.0,09-03-1995,Alm.,0,2,Villa,120,1982,
+Batterivej 8 4720 Præstø,8,181080.0,21-02-1995,Alm.,3621,3,Sommerhus,50,2000,
+Enegaarde By 2 4720 Præstø,2,476000.0,02-02-1995,Fam.,4139,6,Stuehus,115,1960,
+Fjordparken 19 4720 Præstø,19,463120.0,30-01-1995,Alm.,4062,4,Rækkehus,114,1974,
+Fredensvej 14 4720 Præstø,14,599875.0,28-01-1995,Alm.,0,4,Villa,150,1977,
+Lillemarksvej 3 4720 Præstø,3,1200000.0,20-01-1995,Fam.,8333,5,Stuehus,144,1952,
+Gernersvej 4 4720 Præstø,4,435597.0,22-12-1994,Alm.,4033,4,Villa,108,1965,
+Lygtevej 3 4720 Præstø,3,470000.0,15-12-1994,Alm.,2611,4,Stuehus,180,1897,
+Snaphanevej 9 4720 Præstø,9,575000.0,10-12-1994,Alm.,4078,6,Villa,141,1963,
+Rekkendevej 15 4720 Præstø,15,175000.0,01-12-1994,Alm.,2272,3,Rækkehus,77,1900,
+Hjørnehusvej 8 4720 Præstø,8,575000.0,17-11-1994,Alm.,4563,4,Villa,126,1973,
+Enghavevej 1 4720 Præstø,1,110500.0,08-11-1994,Andet,717,6,Villa,154,1960,
+Østerbro 3 4720 Præstø,3,360000.0,02-11-1994,Alm.,7200,2,Rækkehus,50,1895,
+"Strandvejen 2, ST. TH 4720 Præstø",0,238725.0,18-10-1994,Alm.,3563,2,Lejlighed,67,1976,
+Ibsvej 7 4720 Præstø,7,450715.0,30-09-1994,Alm.,3388,4,Villa,133,1965,
+Roneklintvej 14 4720 Præstø,14,70000.0,26-09-1994,Alm.,0,5,Sommerhus,104,1957,
+Bønsvigvej 27 4720 Præstø,27,390000.0,31-08-1994,Alm.,0,4,Villa,136,1929,
+Mønvej 53 4720 Præstø,53,440000.0,16-08-1994,Alm.,0,4,Stuehus,126,1890,
+Rødegårdsvej 37 4720 Præstø,37,875000.0,08-08-1994,Alm.,5718,5,Villa,153,1978,
+Tubæk Møllevej 16 4720 Præstø,16,385000.0,02-08-1994,Alm.,4184,3,Villa,92,1922,
+Ronesbanke 18 4720 Præstø,18,993000.0,01-08-1994,Alm.,7880,4,Stuehus,126,1925,
+Mønvej 112 4720 Præstø,112,800000.0,15-07-1994,Alm.,3018,6,Villa,265,1900,
+Hestehavevej 74 4720 Præstø,74,550000.0,12-07-1994,Alm.,5392,4,Villa,102,1947,
+Juulsvej 21 4720 Præstø,21,878980.0,04-07-1994,Alm.,5295,5,Villa,166,1979,
+Egestræde 20 4720 Præstø,20,461000.0,18-06-1994,Fam.,3601,4,Villa,128,1968,
+Skovhusevej 9 4720 Præstø,9,645000.0,15-06-1994,Fam.,4300,5,Villa,150,1967,
+Skovhusevej 10 4720 Præstø,10,347500.0,14-06-1994,Andet,0,3,Villa,156,1827,
+Birkevej 7 4720 Præstø,7,750000.0,14-06-1994,Alm.,3886,5,Villa,193,1974,
+Primulavej 19 4720 Præstø,19,180000.0,09-06-1994,Alm.,4864,3,Sommerhus,37,1978,
+Smidstrupvej 31 4720 Præstø,31,506360.0,08-06-1994,Alm.,3669,3,Villa,138,1900,
+Ellemosevej 24 4720 Præstø,24,339156.0,03-06-1994,Alm.,3532,3,Villa,96,1968,
+Hjørnehusvej 20 4720 Præstø,20,520000.0,01-06-1994,Alm.,4952,3,Villa,105,1970,
+Fasanvej 1 4720 Præstø,1,585000.0,30-05-1994,Alm.,6223,3,Villa,94,1966,
+Mosestien 47 4720 Præstø,47,235000.0,19-05-1994,Alm.,4895,3,Sommerhus,48,1967,
+Hejrevej 7 4720 Præstø,7,730000.0,16-05-1994,Alm.,3782,5,Villa,193,1979,
+Adelgade 85 4720 Præstø,85,775000.0,09-05-1994,Alm.,7045,6,Rækkehus,110,1926,
+Rugvænget 76 4720 Præstø,76,430000.0,06-05-1994,Alm.,0,3,Rækkehus,158,1900,
+Faksinge By 10 4720 Præstø,10,740588.0,05-05-1994,Alm.,0,4,Villa,219,1910,
+Birkevej 8 4720 Præstø,8,433840.0,02-05-1994,Alm.,3470,4,Villa,125,1964,
+Kirsebærvej 18 4720 Præstø,18,960000.0,02-04-1994,Alm.,0,6,Villa,168,1980,
+Fyrrevænget 5 4720 Præstø,5,315000.0,24-03-1994,Alm.,0,4,Sommerhus,77,1974,
+Stavreby Strandvej 19 4720 Præstø,19,750000.0,18-03-1994,Alm.,2941,5,Villa,255,1827,
+Næstvedvej 11 4720 Præstø,11,1826000.0,11-03-1994,Alm.,6521,9,Stuehus,280,1938,
+Bellevuevej 5 4720 Præstø,5,23100000.0,04-03-1994,Fam.,268604,2,Villa,86,1900,
+Ellemosevej 10 4720 Præstø,10,635000.0,04-03-1994,Alm.,4123,4,Villa,154,1972,
+Hjørnehusvej 1 4720 Præstø,1,680000.0,28-02-1994,Alm.,4146,5,Villa,164,1969,
+Erhvervsvej 2 4720 Præstø,2,651819.0,28-02-1994,Alm.,4792,4,Villa,136,1976,
+Enghavevej 8 4720 Præstø,8,515000.0,26-02-1994,Alm.,3786,4,Villa,136,1944,
+"Lindevej 48, ST 4720 Præstø",0,420000.0,21-02-1994,Alm.,3529,4,Lejlighed,119,1938,
+Fyrrevænget 14 4720 Præstø,14,326000.0,17-02-1994,Alm.,6936,2,Sommerhus,47,1977,
+Hestehavevej 62 4720 Præstø,62,585000.0,11-02-1994,Alm.,0,6,Villa,166,1977,
+Søtoftsvej 19 4720 Præstø,19,410000.0,09-02-1994,Alm.,3904,4,Villa,105,1937,
+Mønvej 110 4720 Præstø,110,739276.0,27-01-1994,Fam.,3996,5,Stuehus,185,1924,
+Rosagervej 24 4720 Præstø,24,488000.0,20-01-1994,Andet,3842,4,Villa,127,1982,
+Rekkendevej 10 4720 Præstø,10,420000.0,09-01-1994,Alm.,2896,5,Villa,145,1920,
+Abildhøjvej 12B 4720 Præstø,0,230000.0,04-01-1994,Alm.,2323,3,Rækkehus,99,1900,
+Christinelundsvej 32 4720 Præstø,32,315000.0,28-12-1993,Alm.,0,6,Villa,175,1912,
+Torvet 5 4720 Præstø,5,1825000.0,17-12-1993,Alm.,7388,9,Rækkehus,247,1854,
+Klintestien 17 4720 Præstø,17,269000.0,13-12-1993,Alm.,4138,4,Sommerhus,65,1967,
+Bøged Strandvej 26 4720 Præstø,26,155000.0,29-11-1993,Fam.,0,4,Sommerhus,94,1974,
+Bæk 1 4720 Præstø,1,609750.0,19-11-1993,Alm.,0,9,Villa,233,1914,
+Svend Gøngesvej 6 4720 Præstø,6,632000.0,29-10-1993,Alm.,3241,5,Villa,195,1966,
+Strandgårdsvej 7 4720 Præstø,7,720000.0,29-10-1993,Alm.,3789,5,Villa,190,1973,
+Søtoftsvej 11 4720 Præstø,11,414200.0,27-10-1993,Alm.,4502,3,Villa,92,1935,
+Christinelundsvej 37 4720 Præstø,37,576750.0,24-10-1993,Alm.,4727,5,Villa,122,1967,
+Bønsvigvej 18 4720 Præstø,18,450000.0,06-10-1993,Alm.,3947,3,Stuehus,114,1927,
+Sneserevej 17 4720 Præstø,17,410000.0,01-10-1993,Alm.,2455,4,Villa,167,1900,
+Strandgårdsvej 16 4720 Præstø,16,865000.0,29-09-1993,Alm.,4701,6,Villa,184,1973,
+Hestehavevej 71 4720 Præstø,71,860000.0,27-08-1993,Alm.,6187,5,Villa,139,1927,
+Bønsvig Strandvej 21 4720 Præstø,21,175000.0,17-08-1993,Alm.,3804,2,Sommerhus,46,1962,
+Stavreby Strandvej 23 4720 Præstø,23,400000.0,06-08-1993,Alm.,3389,4,Villa,118,1924,
+Adelgade 114 4720 Præstø,114,372000.0,30-07-1993,Alm.,4650,3,Rækkehus,80,1850,
+Hovedvejen 127 4720 Præstø,127,382900.0,16-07-1993,Alm.,2659,5,Villa,144,1940,
+Mønvej 84 4720 Præstø,84,160000.0,13-07-1993,Alm.,1632,3,Villa,98,1870,
+Rødeledvej 10 4720 Præstø,10,385000.0,05-07-1993,Alm.,3235,5,Villa,119,1902,
+Askevænget 4 4720 Præstø,4,275000.0,02-07-1993,Alm.,5500,4,Sommerhus,50,1975,
+Bakkestien 19 4720 Præstø,19,45000.0,28-06-1993,Alm.,671,3,Sommerhus,67,1966,
+Ronesstræde 4 4720 Præstø,4,680000.0,18-06-1993,Alm.,4625,5,Villa,147,1980,
+Rødegårdsvej 39 4720 Præstø,39,655000.0,11-06-1993,Alm.,4043,5,Villa,162,1979,
+Hestehavevej 69 4720 Præstø,69,650000.0,03-06-1993,Alm.,5508,5,Villa,118,1910,
+Jungshovedvej 28 4720 Præstø,28,275000.0,28-05-1993,Auktion,0,5,Villa,140,1916,
+Mønvej 144 4720 Præstø,144,559000.0,13-05-1993,Alm.,2973,5,Villa,188,1880,
+Egevænget 11 4720 Præstø,11,230000.0,12-05-1993,Alm.,3382,3,Sommerhus,68,1977,
+Lundbyvej 10 4720 Præstø,10,375000.0,05-05-1993,Alm.,6147,2,Villa,61,1935,
+Gernersvej 14 4720 Præstø,14,324250.0,19-04-1993,Alm.,0,5,Villa,148,1966,
+Rekkende By 4 4720 Præstø,4,362500.0,10-04-1993,Alm.,5846,2,Villa,62,1910,
+Parkvej 2 4720 Præstø,2,325000.0,06-04-1993,Alm.,1911,4,Villa,170,1930,
+Th. Hansensvej 1 4720 Præstø,1,525000.0,29-03-1993,Alm.,3476,4,Villa,151,1934,
+Hastrupvej 24 4720 Præstø,24,2050000.0,20-03-1993,Fam.,9903,10,Stuehus,207,1875,
+Bæk 2 4720 Præstø,2,500000.0,18-03-1993,Alm.,4273,4,Villa,117,1936,
+Strædet 6 4720 Præstø,6,350000.0,15-03-1993,Alm.,0,6,Villa,101,1925,
+Ellemosevej 20 4720 Præstø,20,703333.0,11-03-1993,Alm.,3822,6,Villa,184,1970,
+Stavreby Strandvej 27 4720 Præstø,27,35000.0,16-02-1993,Alm.,460,4,Sommerhus,76,1827,
+Erhvervsvej 10 4720 Præstø,10,833600.0,09-02-1993,Alm.,5557,5,Villa,150,1980,
+Tjørnehoved By 6 4720 Præstø,6,533770.0,04-02-1993,Fam.,0,8,Stuehus,190,1850,
+Hestehavevej 75 4720 Præstø,75,524200.0,03-02-1993,Alm.,0,4,Rækkehus,80,1920,
+Antonivej 5B 4720 Præstø,0,858000.0,21-01-1993,Alm.,5644,7,Villa,152,1954,
+Gernersvej 21 4720 Præstø,21,410000.0,15-01-1993,Alm.,3565,4,Villa,115,1973,
+Smedestræde 8 4720 Præstø,8,515000.0,12-01-1993,Alm.,5478,3,Villa,94,1984,
+Rødeledvej 5 4720 Præstø,5,231116.0,29-12-1992,Fam.,1724,7,Villa,134,1900,
+Jungshovedvej 55B 4720 Præstø,0,193046.0,03-12-1992,Andet,1286,2,Villa,150,1989,
+Gyvelvej 3 4720 Præstø,3,100000.0,25-11-1992,Fam.,1923,2,Sommerhus,52,1972,
+Ronesstræde 8 4720 Præstø,8,295000.0,24-11-1992,Alm.,3986,3,Rækkehus,74,1987,
+Askevænget 12 4720 Præstø,12,300000.0,22-11-1992,Alm.,4347,4,Sommerhus,69,1976,
+Faksinge By 11 4720 Præstø,11,495000.0,21-11-1992,Alm.,0,3,Villa,120,1900,
+Over Lyngen 18 4720 Præstø,18,753442.0,13-11-1992,Alm.,3675,6,Villa,205,1979,
+Bønsvigvej 37 4720 Præstø,37,255000.0,22-10-1992,Alm.,4396,3,Sommerhus,58,1975,
+Næstvedvej 55 4720 Præstø,55,320459.0,01-10-1992,Alm.,1602,6,Villa,200,1922,
+Smidstrupvej 28 4720 Præstø,28,390000.0,29-09-1992,Alm.,2407,6,Villa,162,1900,
+Kohavevej 17 4720 Præstø,17,600000.0,15-09-1992,Alm.,2970,4,Villa,202,1880,
+Svanevej 1 4720 Præstø,1,570000.0,15-09-1992,Alm.,3653,5,Villa,156,1964,
+Smidstrupvej 30 4720 Præstø,30,1281821.0,14-09-1992,Fam.,7042,8,Stuehus,182,1915,
+Ronesstræde 5 4720 Præstø,5,20000.0,01-09-1992,Alm.,0,6,Villa,174,1997,
+Egevej 10 4720 Præstø,10,585000.0,01-08-1992,Fam.,5416,5,Villa,108,1951,
+Kirsebærvej 23 4720 Præstø,23,1167000.0,30-07-1992,Alm.,0,10,Villa,327,1925,
+Kastanievænget 14 4720 Præstø,14,300050.0,28-07-1992,Alm.,0,4,Sommerhus,73,1979,
+Hejrevej 13 4720 Præstø,13,546452.0,09-07-1992,Alm.,4269,4,Villa,128,1977,
+Hjørnehusvej 29 4720 Præstø,29,654000.0,09-07-1992,Alm.,4219,7,Villa,155,1971,
+Næbvej 20 4720 Præstø,20,630000.0,08-07-1992,Andet,3937,4,Villa,160,1968,
+Neblevej 16 4720 Præstø,16,275000.0,01-07-1992,Alm.,2594,4,Villa,106,1947,
+Jungshovedvej 32 4720 Præstø,32,250000.0,30-06-1992,Alm.,1811,5,Villa,138,1868,
+Ådalsvej 17 4720 Præstø,17,286950.0,29-06-1992,Alm.,0,5,Villa,152,1870,
+Mønvej 123A 4720 Præstø,0,375000.0,18-06-1992,Alm.,4166,3,Villa,90,1952,
+Rekkendevej 41 4720 Præstø,41,623150.0,17-06-1992,Alm.,3115,8,Villa,200,1880,
+Smidstrupvej 7 4720 Præstø,7,276950.0,12-06-1992,Alm.,1538,5,Villa,180,1900,
+Batterivej 2 4720 Præstø,2,249000.0,10-06-1992,Alm.,3890,4,Sommerhus,64,1996,
+Kohavevej 10 4720 Præstø,10,186707.0,04-06-1992,Andet,3972,3,Sommerhus,47,1967,
+Nihøjvej 4 4720 Præstø,4,540000.0,22-05-1992,Alm.,5094,5,Villa,106,1913,
+Bakkestien 5 4720 Præstø,5,161500.0,19-05-1992,Fam.,3670,3,Sommerhus,44,1968,
+Hjørnehusvej 21 4720 Præstø,21,585000.0,15-05-1992,Alm.,4333,4,Villa,135,1971,
+Rugvænget 5 4720 Præstø,5,650000.0,05-05-1992,Alm.,3987,6,Villa,163,1988,
+Juulsvej 15 4720 Præstø,15,1216000.0,04-05-1992,Alm.,9426,4,Villa,129,1989,
+Kirsebærvej 1 4720 Præstø,1,1150000.0,30-04-1992,Alm.,8646,5,Villa,133,1977,
+Rådhusstræde 6 4720 Præstø,6,217000.0,11-04-1992,Alm.,2191,4,Rækkehus,99,1870,
+Tjørnehoved By 3 4720 Præstø,3,1320000.0,04-04-1992,Andet,5617,9,Sommerhus,235,1850,
+Torvestræde 8 4720 Præstø,8,299506.0,25-03-1992,Fam.,1497,6,Villa,200,1919,
+Aagesvej 19 4720 Præstø,19,555000.0,25-03-1992,Alm.,4111,4,Villa,135,1972,
+Bakkestien 38 4720 Præstø,38,65000.0,24-03-1992,Auktion,0,3,Sommerhus,53,1967,
+Sneserevej 25 4720 Præstø,25,685000.0,24-03-1992,Alm.,3914,4,Villa,175,1962,
+Stavreby Strandvej 4 4720 Præstø,4,950000.0,02-03-1992,Alm.,3333,10,Stuehus,285,1896,
+Solsortvej 1 4720 Præstø,1,310000.0,01-03-1992,Alm.,4428,4,Sommerhus,70,1975,
+Hovedvejen 120 4720 Præstø,120,550000.0,14-01-1992,Alm.,0,4,Stuehus,136,1902,

@@ -1,0 +1,1341 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Vibevej 13 7160 Tørring,13,800000.0,28-04-2017,Alm.,6666,5,Villa,120,1971,
+Skolevej 33 7160 Tørring,33,3275000.0,12-04-2017,Alm.,12312,7,Villa,266,1969,-6 %
+Brædstrupvej 58 7160 Tørring,58,2227000.0,03-04-2017,Fam.,11362,8,Stuehus,196,1930,
+Ege Alle 5 7160 Tørring,5,1387500.0,31-03-2017,Alm.,9910,6,Villa,140,1995,-7 %
+Vestervang 3 7160 Tørring,3,1495000.0,28-03-2017,Alm.,10310,4,Villa,145,1964,7 %
+Aagade 16 7160 Tørring,16,950000.0,27-03-2017,Alm.,8407,5,Villa,113,1923,-3 %
+"Bredgade 21, 1 7160 Tørring",1,1900000.0,21-03-2017,Alm.,10982,6,Lejlighed,173,1900,
+Solfang 34 7160 Tørring,34,516000.0,21-03-2017,Fam.,3938,6,Villa,131,1965,
+Rosavej 1B 7160 Tørring,0,850000.0,07-03-2017,Alm.,9340,4,Rækkehus,91,1984,-5 %
+Vestergårdsvej 2 7160 Tørring,2,689000.0,03-03-2017,Alm.,10765,3,Villa,64,1959,0 %
+Nyvej 19 7160 Tørring,19,580000.0,20-02-2017,Alm.,4531,4,Villa,128,1966,-10 %
+Bredgade 63 7160 Tørring,63,910000.0,13-02-2017,Alm.,10111,3,Villa,90,1964,
+Stougårds Alle 1 7160 Tørring,1,694752.0,07-02-2017,Andet,4210,4,Villa,165,1970,
+Torvegade 63 7160 Tørring,63,600000.0,02-02-2017,Alm.,6451,5,Industri o.l.,93,1984,
+Postvej 1 7160 Tørring,1,2300000.0,31-01-2017,Alm.,14556,6,Villa,158,2014,
+Østervang 16 7160 Tørring,16,1130000.0,30-01-2017,Fam.,4593,9,Villa,246,1978,
+Viggo Pejsens Vej 8 7160 Tørring,8,1000000.0,26-01-2017,Fam.,7936,5,Villa,126,1980,
+Aale Bygade 11 7160 Tørring,11,275000.0,25-01-2017,Alm.,3437,4,Villa,80,1956,-7 %
+J P Nielsens Vej 18 7160 Tørring,18,580000.0,21-01-2017,Alm.,7160,3,Villa,81,1964,
+Østervang 9 7160 Tørring,9,1045000.0,06-01-2017,Alm.,9500,4,Villa,110,1977,-5 %
+Ølholm Bygade 49A 7160 Tørring,0,1950000.0,03-01-2017,Andet,6331,7,Villa,308,1934,
+Rosavej 39 7160 Tørring,39,6630000.0,30-12-2016,Andet,42500,5,Villa,156,1985,
+Skolevej 64 7160 Tørring,64,1400000.0,29-12-2016,Alm.,11111,4,Villa,126,1973,-3 %
+Grønlund 42 7160 Tørring,42,647518.0,21-12-2016,Andet,4316,5,Villa,150,2007,
+Sønderbrogade 98 7160 Tørring,98,350000.0,16-12-2016,Alm.,3431,4,Villa,102,1900,
+Skolevej 20 7160 Tørring,20,1775000.0,14-12-2016,Andet,9149,7,Villa,194,1965,
+Ølholm Bygade 75 7160 Tørring,75,875000.0,09-12-2016,Alm.,4510,6,Villa,194,1930,-27 %
+Birke Alle 1 7160 Tørring,1,283202.0,05-12-2016,Alm.,1665,5,Villa,170,1934,
+Borgergade 42 7160 Tørring,42,1582345.0,02-12-2016,Alm.,10342,6,Villa,153,1931,6 %
+Bøgevej 4 7160 Tørring,4,1230000.0,24-11-2016,Alm.,6795,7,Villa,181,1979,-9 %
+Viborgvej 16 7160 Tørring,16,1305000.0,21-11-2016,Fam.,6941,7,Villa,188,1924,
+Købmagergade 2 7160 Tørring,2,608500.0,21-11-2016,Fam.,8451,3,Villa,72,1958,
+Søndre Fælledvej 19 7160 Tørring,19,7450000.0,16-11-2016,Alm.,21911,8,Stuehus,340,1930,
+Viborg Hovedvej 67 7160 Tørring,67,5075000.0,10-11-2016,Alm.,29166,5,Stuehus,174,1990,-12 %
+Askevej 1 7160 Tørring,1,925000.0,07-11-2016,Fam.,8333,4,Villa,111,1983,
+Torvegade 139 7160 Tørring,139,2000000.0,04-11-2016,Fam.,10526,5,Villa,190,2011,-13 %
+Skolevej 41 7160 Tørring,41,1375000.0,03-11-2016,Alm.,8986,5,Villa,153,1973,
+Søndre Fælledvej 29 7160 Tørring,29,1950000.0,27-10-2016,Alm.,11337,5,Villa,172,1915,-1 %
+Vejlevej 6 7160 Tørring,6,610000.0,26-10-2016,Alm.,5700,4,Villa,107,1963,-5 %
+Østergårdsvej 8 7160 Tørring,8,16000000.0,26-10-2016,Andet,61776,10,Stuehus,259,1921,
+Alsted Skovvej 6 7160 Tørring,6,540000.0,19-10-2016,Alm.,4285,6,Villa,126,1934,-4 %
+Rosavej 4 7160 Tørring,4,1600000.0,14-10-2016,Alm.,10666,5,Villa,150,1979,
+Bredgade 59 7160 Tørring,59,562500.0,03-10-2016,Alm.,4610,5,Villa,122,1959,
+Sikavej 19 7160 Tørring,19,2100000.0,26-09-2016,Alm.,12883,6,Villa,163,2008,-7 %
+Viborg Hovedvej 106 7160 Tørring,106,2100000.0,23-09-2016,Alm.,17500,4,Stuehus,120,1994,-4 %
+Rosavej 31 7160 Tørring,31,930000.0,15-09-2016,Alm.,8303,4,Villa,112,1980,-15 %
+Krondyrvej 3 7160 Tørring,3,445000.0,15-09-2016,Alm.,2648,4,Villa,168,2017,
+Vongevej 9 7160 Tørring,9,970000.0,13-09-2016,Alm.,11547,3,Villa,84,1960,-3 %
+Viborg Hovedvej 89 7160 Tørring,89,1800000.0,12-09-2016,Alm.,8737,6,Villa,206,1880,-5 %
+Viborg Hovedvej 91 7160 Tørring,91,25000.0,11-09-2016,Alm.,170,2,Villa,147,1764,
+Hjortsvangvej 1 7160 Tørring,1,875000.0,05-09-2016,Alm.,7543,3,Villa,116,1900,-2 %
+"Bredgade 48F, 1. TV 7160 Tørring",0,850000.0,05-09-2016,Alm.,9139,2,Lejlighed,93,2016,
+Vongevej 31 7160 Tørring,31,1500000.0,29-08-2016,Alm.,5769,8,Villa,260,1973,
+Brædstrupvej 20 7160 Tørring,20,4300000.0,15-08-2016,Alm.,32575,5,Stuehus,132,1900,
+Rosavej 6 7160 Tørring,6,1600000.0,12-08-2016,Alm.,8465,4,Villa,189,1976,-3 %
+Brædstrupvej 17 7160 Tørring,17,2210000.0,05-08-2016,Alm.,13393,7,Villa,165,1937,
+Vibevej 17 7160 Tørring,17,880000.0,02-08-2016,Alm.,6567,5,Villa,134,1970,-12 %
+Holmdalsvej 1 7160 Tørring,1,1330000.0,21-07-2016,Alm.,6683,4,Villa,199,1919,-3 %
+Spurvevej 14 7160 Tørring,14,1875000.0,21-07-2016,Alm.,11792,5,Villa,159,1996,-6 %
+Liselundvej 9 7160 Tørring,9,550000.0,14-07-2016,Alm.,5913,2,Villa,93,1880,-21 %
+Lindbjergvej 4 7160 Tørring,4,322500.0,11-07-2016,Alm.,2271,5,Villa,142,1900,
+Sønderbrogade 17 7160 Tørring,17,925000.0,08-07-2016,Alm.,6423,5,Villa,144,1951,-7 %
+Viborg Hovedvej 95 7160 Tørring,95,725000.0,04-07-2016,Alm.,5069,4,Villa,143,1900,-27 %
+Viborgvej 24B 7160 Tørring,0,2375000.0,28-06-2016,Alm.,15322,5,Villa,155,2016,
+Alsted Møllevej 4 7160 Tørring,4,2225000.0,27-06-2016,Alm.,11835,5,Villa,188,2005,0 %
+Skovvej 4 7160 Tørring,4,1800000.0,27-06-2016,Alm.,10000,6,Rækkehus,180,1918,-5 %
+J P Nielsens Vej 1 7160 Tørring,1,300000.0,22-06-2016,Alm.,4166,3,Villa,72,1950,
+Bredgade 40 7160 Tørring,40,731750.0,13-06-2016,Fam.,3811,6,Villa,192,1900,
+"Bredgade 13, 1 7160 Tørring",1,2297589.0,06-06-2016,Alm.,9227,4,Rækkehus,249,1900,
+Fælledvej 4 7160 Tørring,4,639000.0,03-06-2016,Alm.,5112,3,Villa,125,1960,-9 %
+Holmdalsvej 22 7160 Tørring,22,2850000.0,26-05-2016,Alm.,22265,5,Villa,128,1924,-10 %
+Olgavej 3 7160 Tørring,3,1075000.0,19-05-2016,Alm.,7026,5,Villa,153,1978,-17 %
+Nyvej 9 7160 Tørring,9,1175000.0,13-05-2016,Alm.,9475,4,Villa,124,1932,-2 %
+Viborg Hovedvej 71 7160 Tørring,71,852500.0,13-05-2016,Alm.,6268,5,Villa,136,1900,-8 %
+Krondyrvej 5 7160 Tørring,5,470000.0,12-05-2016,Alm.,2596,6,Villa,181,2016,
+Sønderbrogade 101 7160 Tørring,101,2100000.0,03-05-2016,Alm.,8750,6,Villa,240,1880,-12 %
+Guldagervænget 30 7160 Tørring,30,2280000.0,21-04-2016,Alm.,11457,7,Villa,199,2006,-4 %
+Aalevej 53 7160 Tørring,53,2650000.0,07-04-2016,Alm.,12926,6,Stuehus,205,1973,-11 %
+Kirkevej 22 7160 Tørring,22,821626.0,01-04-2016,Andet,3950,7,Villa,208,1934,
+Ølholm Bygade 16 7160 Tørring,16,485000.0,31-03-2016,Alm.,4850,4,Villa,100,1878,-2 %
+Skolehaven 2 7160 Tørring,2,695000.0,14-03-2016,Alm.,7554,3,Villa,92,1985,
+Grønlund 64 7160 Tørring,64,430000.0,10-03-2016,Alm.,2443,6,Villa,176,2016,
+Skolevej 17 7160 Tørring,17,300000.0,07-03-2016,Alm.,3157,3,Villa,95,1957,
+Skolevej 56 7160 Tørring,56,795000.0,01-03-2016,Alm.,3533,7,Villa,225,1973,-11 %
+Bjerggårdsvej 13 7160 Tørring,13,532000.0,26-02-2016,Alm.,2742,7,Villa,194,1892,
+Aalevej 33 7160 Tørring,33,1010000.0,26-02-2016,Alm.,6965,5,Villa,145,1975,-8 %
+Postvej 13 7160 Tørring,13,1070000.0,23-02-2016,Alm.,3992,8,Villa,268,1968,
+Dådyrvej 9 7160 Tørring,9,1750000.0,16-02-2016,Alm.,9162,5,Villa,191,1979,-3 %
+Østervang 3 7160 Tørring,3,715000.0,01-02-2016,Fam.,6809,4,Villa,105,1977,
+Smalålevej 2 7160 Tørring,2,1500000.0,01-02-2016,Alm.,6944,6,Villa,216,1900,-12 %
+Grønnevej 17A 7160 Tørring,0,375000.0,01-02-2016,Alm.,2259,3,Villa,166,2016,
+Rosavej 24 7160 Tørring,24,810000.0,28-01-2016,Alm.,8617,4,Villa,94,1977,-9 %
+Borgergade 57 7160 Tørring,57,685000.0,27-01-2016,Alm.,7784,3,Villa,88,1965,-6 %
+Krondyrvej 2 7160 Tørring,2,395000.0,25-01-2016,Alm.,2925,5,Villa,135,2017,
+Marievej 2 7160 Tørring,2,1450000.0,21-01-2016,Alm.,6473,8,Villa,224,1900,
+Viborgvej 19 7160 Tørring,19,1490000.0,19-01-2016,Alm.,8142,8,Villa,183,1835,-7 %
+Ølholm Bygade 23 7160 Tørring,23,900000.0,19-01-2016,Alm.,3829,6,Villa,235,1949,-10 %
+Rosavej 18 7160 Tørring,18,1300000.0,14-01-2016,Alm.,10000,6,Villa,130,1977,
+Nyvej 13 7160 Tørring,13,405000.0,14-01-2016,Alm.,2718,5,Villa,149,1928,-32 %
+Jordemodervej 4 7160 Tørring,4,4485000.0,06-01-2016,Alm.,27857,4,Stuehus,161,1823,
+Elmevej 6 7160 Tørring,6,655000.0,06-01-2016,Alm.,6064,4,Villa,108,1970,-6 %
+Viborgvej 13 7160 Tørring,13,1535000.0,28-12-2015,Alm.,7415,6,Villa,207,1900,
+Viborgvej 4 7160 Tørring,4,1122500.0,28-12-2015,Alm.,6681,6,Villa,168,1906,-6 %
+Mosevej 3 7160 Tørring,3,400000.0,21-12-2015,Fam.,2797,6,Villa,143,1845,
+Spurvevej 23 7160 Tørring,23,501000.0,14-12-2015,Fam.,3976,6,Villa,126,1989,-63 %
+Overbygård 12 7160 Tørring,12,1775000.0,08-12-2015,Alm.,11912,5,Villa,149,1986,0 %
+Bjerggårdsvej 15 7160 Tørring,15,260000.0,30-11-2015,Alm.,945,8,Stuehus,275,1889,
+Korshøj 3 7160 Tørring,3,417147.0,20-11-2015,Auktion,2656,5,Villa,157,1936,-40 %
+Engvej 3 7160 Tørring,3,617000.0,18-11-2015,Andet,3371,5,Villa,183,1914,
+Sønderbrogade 28 7160 Tørring,28,760000.0,17-11-2015,Alm.,6495,5,Rækkehus,117,1910,-4 %
+Krondyrvej 6 7160 Tørring,6,395000.0,16-11-2015,Alm.,1945,5,Villa,203,2016,
+Bøgevej 10 7160 Tørring,10,800000.0,13-11-2015,Alm.,5714,4,Villa,140,1977,-10 %
+Rosavej 48 7160 Tørring,48,1050000.0,02-11-2015,Alm.,8750,4,Villa,120,1978,
+Alsted Møllevej 2 7160 Tørring,2,535984.0,30-10-2015,Fam.,3573,6,Villa,150,1890,
+Søndervang 15 7160 Tørring,15,1360000.0,26-10-2015,Alm.,11826,4,Villa,115,2009,-3 %
+Egholmvej 6 7160 Tørring,6,1000000.0,20-10-2015,Alm.,5952,4,Villa,168,1947,
+Skovhussvinget 8 7160 Tørring,8,2400000.0,12-10-2015,Alm.,13636,7,Villa,176,1918,-4 %
+Vejlevej 24 7160 Tørring,24,1750000.0,08-10-2015,Alm.,6055,7,Villa,289,1996,-8 %
+Elsdyrvej 9 7160 Tørring,9,835000.0,29-09-2015,Alm.,6626,4,Villa,126,1977,-12 %
+J P Nielsens Vej 15 7160 Tørring,15,740000.0,22-09-2015,Fam.,8409,3,Villa,88,1953,
+Skolevej 44 7160 Tørring,44,960000.0,21-09-2015,Alm.,7500,4,Villa,128,1968,
+Linnerupvej 11 7160 Tørring,11,406500.0,03-09-2015,Andet,3359,4,Villa,121,1912,
+Østervang 11 7160 Tørring,11,775000.0,31-08-2015,Alm.,4329,4,Villa,179,1984,-13 %
+Vejlevej 27 7160 Tørring,27,895000.0,24-08-2015,Alm.,9132,4,Villa,98,1970,-5 %
+Borgergade 24 7160 Tørring,24,425000.0,19-08-2015,Alm.,3269,6,Villa,130,1914,-14 %
+Sønderbrogade 23 7160 Tørring,23,650000.0,18-08-2015,Alm.,5508,4,Rækkehus,118,1927,-6 %
+Askevej 13 7160 Tørring,13,1575000.0,18-08-2015,Alm.,9905,5,Villa,159,2006,
+Svalevej 10 7160 Tørring,10,750000.0,16-08-2015,Fam.,4838,6,Villa,155,1970,-53 %
+Ege Alle 22 7160 Tørring,22,1825000.0,15-08-2015,Alm.,9554,5,Villa,191,1994,-9 %
+Skolevej 14 7160 Tørring,14,400000.0,14-08-2015,Auktion,4000,3,Villa,100,1952,
+Mattrupvej 17 7160 Tørring,17,860000.0,12-08-2015,Andet,4095,8,Stuehus,210,1916,
+Sønderbrogade 62 7160 Tørring,62,418500.0,11-08-2015,Auktion,4270,4,Villa,98,1935,
+Postvej 10 7160 Tørring,10,750000.0,11-08-2015,Alm.,5681,5,Villa,132,1902,-16 %
+Skolevej 74 7160 Tørring,74,1329000.0,07-08-2015,Alm.,7726,6,Villa,172,1974,0 %
+Gudenåvej 20 7160 Tørring,20,3400000.0,06-08-2015,Alm.,9577,9,Villa,355,1998,-5 %
+Viborg Hovedvej 81 7160 Tørring,81,1220000.0,03-08-2015,Alm.,6594,6,Villa,185,1920,-6 %
+Svalevej 8 7160 Tørring,8,1700000.0,31-07-2015,Alm.,10559,6,Villa,161,1969,
+Ølholm Bygade 64 7160 Tørring,64,1150000.0,29-07-2015,Alm.,7718,4,Villa,149,1949,-11 %
+Birke Alle 4 7160 Tørring,4,1455000.0,19-06-2015,Alm.,10543,6,Villa,138,2005,-3 %
+Solfang 8 7160 Tørring,8,1450000.0,29-05-2015,Auktion,7754,6,Villa,187,1938,
+Pile Alle 4 7160 Tørring,4,1775000.0,27-05-2015,Alm.,10757,5,Villa,165,1998,-4 %
+Hagevej 2 7160 Tørring,2,1235000.0,21-05-2015,Alm.,3087,6,Villa,400,2017,3 %
+Lydiavej 2 7160 Tørring,2,950000.0,15-05-2015,Alm.,7196,4,Villa,132,1976,-5 %
+Vesterbyvej 10 7160 Tørring,10,2600000.0,15-05-2015,Alm.,9122,7,Stuehus,285,1890,-13 %
+Borgergade 15 7160 Tørring,15,800000.0,15-05-2015,Alm.,10256,3,Villa,78,1955,
+Tværvejen 6 7160 Tørring,6,1695000.0,15-05-2015,Alm.,7306,5,Villa,232,1930,0 %
+Uldumvej 5 7160 Tørring,5,425000.0,13-05-2015,Alm.,4381,4,Villa,97,1962,
+"Torvegade 1A, 1 7160 Tørring",1,1950000.0,13-05-2015,Alm.,43333,2,Lejlighed,45,1892,
+Ølholm Bygade 33 7160 Tørring,33,705000.0,08-05-2015,Alm.,7343,3,Villa,96,1877,1 %
+Bygade 3A 7160 Tørring,0,1550000.0,04-05-2015,Alm.,7560,6,Villa,205,1909,-7 %
+Liselundvej 4 7160 Tørring,4,2100000.0,27-04-2015,Fam.,29577,2,Villa,71,1941,
+Vidtskuevej 8 7160 Tørring,8,167492.0,19-04-2015,Alm.,547,10,Stuehus,306,1967,
+Sønderkærvej 8 7160 Tørring,8,255573.0,17-04-2015,Auktion,2344,3,Villa,109,1895,
+Hvolgårdsvej 30 7160 Tørring,30,160000.0,16-04-2015,Alm.,1702,2,Villa,94,1927,
+Aagade 25 7160 Tørring,25,855000.0,15-04-2015,Alm.,6951,5,Villa,123,1954,-4 %
+Sikavej 28 7160 Tørring,28,360000.0,13-04-2015,Alm.,2727,4,Villa,132,2015,
+Rosavej 51 7160 Tørring,51,1030000.0,10-04-2015,Alm.,8174,5,Villa,126,1999,-31 %
+Viborgvej 44 7160 Tørring,44,40000.0,07-04-2015,Fam.,176,8,Stuehus,226,1890,
+Ølholm Bygade 37 7160 Tørring,37,550000.0,01-04-2015,Alm.,2059,6,Villa,267,1967,0 %
+Bygade 18 7160 Tørring,18,800000.0,31-03-2015,Alm.,6400,4,Villa,125,1920,-9 %
+Viborg Hovedvej 88 7160 Tørring,88,578000.0,27-03-2015,Alm.,4013,4,Villa,144,1939,
+Melhedevej 2 7160 Tørring,2,400000.0,24-03-2015,Alm.,0,4,Villa,107,1961,-20 %
+Melhedevej 4 7160 Tørring,4,1000000.0,24-03-2015,Alm.,7575,5,Villa,132,1953,-9 %
+Skolevej 23 7160 Tørring,23,1000000.0,23-03-2015,Fam.,6622,5,Villa,151,1967,
+Smedetoften 4 7160 Tørring,4,820000.0,20-03-2015,Alm.,6721,4,Villa,122,1972,-7 %
+Sønderbrogade 78 7160 Tørring,78,1045000.0,19-03-2015,Alm.,9675,4,Villa,108,1968,-8 %
+Vongevej 8B 7160 Tørring,0,1245000.0,19-03-2015,Andet,7280,5,Villa,171,2011,
+J P Nielsens Vej 1A 7160 Tørring,0,1425000.0,10-03-2015,Alm.,12076,3,Villa,118,2005,
+Overbygård 43 7160 Tørring,43,1565000.0,09-03-2015,Alm.,11099,6,Villa,141,1986,-5 %
+Sikavej 1 7160 Tørring,1,3100000.0,27-02-2015,Alm.,16315,7,Villa,190,2008,
+Kirkebakken 2 7160 Tørring,2,1073000.0,26-02-2015,Alm.,8867,3,Villa,121,1968,-10 %
+Rosavej 47 7160 Tørring,47,675000.0,17-02-2015,Alm.,9121,3,Rækkehus,74,1983,-15 %
+Byvang 2 7160 Tørring,2,1045000.0,12-02-2015,Alm.,7683,5,Villa,136,1973,-9 %
+Torvegade 86 7160 Tørring,86,2995000.0,30-01-2015,Alm.,12531,8,Villa,239,2006,
+Rosavej 36 7160 Tørring,36,750000.0,29-01-2015,Fam.,5639,5,Villa,133,1979,
+J P Nielsens Vej 6 7160 Tørring,6,513500.0,21-01-2015,Andet,3590,4,Villa,143,1973,
+Fruehøjvej 2 7160 Tørring,2,1500000.0,05-01-2015,Alm.,7772,5,Villa,193,1969,-10 %
+Guldagervænget 12 7160 Tørring,12,400000.0,31-12-2014,Alm.,2666,5,Villa,150,2015,
+Smedetoften 6 7160 Tørring,6,1175000.0,23-12-2014,Alm.,9710,5,Villa,121,1972,-13 %
+Bredgade 41 7160 Tørring,41,375000.0,19-12-2014,Alm.,3440,4,Rækkehus,109,1903,-32 %
+Guldager 4 7160 Tørring,4,1000000.0,17-12-2014,Fam.,5464,6,Villa,183,2007,
+Sønderbrogade 33 7160 Tørring,33,600000.0,15-12-2014,Fam.,4347,5,Villa,138,1965,
+Østerkærvej 6 7160 Tørring,6,875000.0,11-12-2014,Alm.,0,3,Villa,117,1947,-2 %
+Bygade 22 7160 Tørring,22,840485.0,08-12-2014,Alm.,8941,4,Villa,94,1940,
+"Bredgade 10, 1 7160 Tørring",1,1436500.0,04-12-2014,Fam.,20521,3,Lejlighed,70,1894,
+Solfang 13 7160 Tørring,13,1300000.0,04-12-2014,Alm.,7926,5,Villa,164,1975,-3 %
+Krondyrvej 8 7160 Tørring,8,450000.0,04-12-2014,Alm.,2571,4,Villa,175,2015,
+Ølholm Bygade 27 7160 Tørring,27,310000.0,27-11-2014,Alm.,4428,2,Villa,70,1909,-14 %
+Rådyrvej 1 7160 Tørring,1,1160000.0,27-11-2014,Alm.,7388,5,Villa,157,1978,-3 %
+Hvolgårdsvej 31 7160 Tørring,31,1065000.0,24-11-2014,Alm.,11210,4,Stuehus,95,1895,
+Birke Alle 3 7160 Tørring,3,600000.0,20-11-2014,Fam.,5882,5,Villa,102,1934,
+Vongevej 3 7160 Tørring,3,300000.0,07-11-2014,Auktion,2857,4,Villa,105,1939,
+Købmagergade 6 7160 Tørring,6,318500.0,07-11-2014,Auktion,1625,7,Villa,196,1943,
+Grønlund 40 7160 Tørring,40,2795000.0,31-10-2014,Alm.,14260,5,Villa,196,2009,0 %
+Aalevej 60 7160 Tørring,60,779500.0,30-10-2014,Auktion,2919,7,Villa,267,1900,
+Skolevej 18 7160 Tørring,18,785000.0,28-10-2014,Alm.,8092,4,Villa,97,1951,-2 %
+Vejlevej 95 7160 Tørring,95,200000.0,27-10-2014,Alm.,1587,4,Villa,126,1958,-43 %
+Ølholm Bygade 60 7160 Tørring,60,1175000.0,27-10-2014,Fam.,7436,6,Villa,158,1961,
+Ølholm Kærvej 7 7160 Tørring,7,432000.0,27-10-2014,Fam.,4320,4,Villa,100,1958,
+Borgergade 11 7160 Tørring,11,450000.0,21-10-2014,Auktion,3947,4,Villa,114,1950,-47 %
+Brædstrupvej 32 7160 Tørring,32,250000.0,21-10-2014,Alm.,2314,4,Villa,108,1917,-15 %
+Sikavej 31 7160 Tørring,31,2800000.0,17-10-2014,Alm.,16279,5,Villa,172,2008,
+Linnerupvej 18 7160 Tørring,18,2400000.0,15-10-2014,Alm.,11214,8,Stuehus,214,1991,
+Uldumvej 2 7160 Tørring,2,1000000.0,07-10-2014,Alm.,3787,5,Villa,264,1931,-17 %
+Søndervang 35 7160 Tørring,35,697500.0,05-10-2014,Alm.,4151,5,Villa,168,1969,
+Sikavej 30 7160 Tørring,30,3600000.0,03-10-2014,Alm.,15062,6,Villa,239,2010,-3 %
+Vejlevej 17 7160 Tørring,17,1675000.0,01-10-2014,Alm.,7188,10,Villa,233,1951,-4 %
+Skolestien 18 7160 Tørring,18,1150000.0,01-10-2014,Alm.,9829,3,Villa,117,1967,
+Elmevej 2 7160 Tørring,2,740000.0,25-09-2014,Alm.,6324,4,Villa,117,1970,-7 %
+Sydtoften 2 7160 Tørring,2,475000.0,22-09-2014,Fam.,3518,4,Villa,135,1980,
+Koutrupvej 16 7160 Tørring,16,850000.0,15-09-2014,Alm.,5666,6,Villa,150,1900,-5 %
+Borgergade 44 7160 Tørring,44,500000.0,08-09-2014,Alm.,6410,4,Villa,78,1930,
+Pile Alle 5 7160 Tørring,5,1450000.0,08-09-2014,Alm.,8841,6,Villa,164,1998,-3 %
+Krambovej 6 7160 Tørring,6,295000.0,05-09-2014,Alm.,2269,6,Villa,130,1931,0 %
+Hans Jensens Vej 23 7160 Tørring,23,935000.0,05-09-2014,Alm.,9842,4,Villa,95,1970,-6 %
+Skovvej 19 7160 Tørring,19,1000000.0,26-08-2014,Alm.,4830,9,Villa,207,1944,-23 %
+Elmevej 3 7160 Tørring,3,875000.0,22-08-2014,Alm.,6250,4,Villa,140,1970,-12 %
+Rosavej 29 7160 Tørring,29,1424000.0,22-08-2014,Alm.,10318,5,Villa,138,1984,-2 %
+J P Nielsens Vej 23B 7160 Tørring,0,1250000.0,18-08-2014,Alm.,10869,4,Villa,115,1973,
+Sønderkærvej 13 7160 Tørring,13,1700000.0,12-08-2014,Alm.,9659,6,Stuehus,176,1914,-6 %
+Sikavej 24 7160 Tørring,24,470000.0,30-07-2014,Alm.,1540,5,Villa,305,2015,
+Hjortevej 2 7160 Tørring,2,1500000.0,07-07-2014,Alm.,10416,6,Villa,144,2002,-9 %
+Aalevej 40 7160 Tørring,40,550000.0,04-07-2014,Alm.,6962,3,Villa,79,1955,-21 %
+Torvegade 123D 7160 Tørring,0,2800000.0,01-07-2014,Alm.,20000,6,Villa,140,2009,
+Kandborgvej 11 7160 Tørring,11,960000.0,29-06-2014,Alm.,5748,9,Stuehus,167,1923,-4 %
+Skolevej 27 7160 Tørring,27,450000.0,26-06-2014,Fam.,3629,4,Villa,124,1967,
+Grønlund 22 7160 Tørring,22,400000.0,25-06-2014,Alm.,2919,4,Villa,137,2015,-11 %
+Uldumvej 18 7160 Tørring,18,995000.0,16-06-2014,Alm.,6257,5,Villa,159,1971,0 %
+Borgergade 35 7160 Tørring,35,450000.0,13-06-2014,Alm.,2601,7,Villa,173,1907,-13 %
+Haugevej 20 7160 Tørring,20,2425000.0,30-05-2014,Alm.,12830,6,Villa,189,1929,-19 %
+Bækvej 3 7160 Tørring,3,1950000.0,21-05-2014,Alm.,7991,6,Villa,244,1900,-15 %
+Sønderbrogade 96 7160 Tørring,96,567000.0,10-05-2014,Alm.,5451,4,Villa,104,1955,
+Bygade 24 7160 Tørring,24,1000000.0,09-05-2014,Alm.,6622,4,Villa,151,1922,-7 %
+Roloddet 14 7160 Tørring,14,180000.0,09-05-2014,Alm.,1052,8,Villa,171,2015,
+Elsdyrvej 16 7160 Tørring,16,1175000.0,08-05-2014,Alm.,8969,5,Villa,131,1977,-15 %
+Bygade 25 7160 Tørring,25,1255000.0,05-05-2014,Alm.,7652,3,Villa,164,1930,
+Nordre Fælledvej 7 7160 Tørring,7,2900000.0,02-05-2014,Alm.,15760,7,Stuehus,184,1880,
+Kirkevej 26 7160 Tørring,26,1200000.0,29-04-2014,Alm.,5769,6,Villa,208,1909,-14 %
+Bygade 31 7160 Tørring,31,900000.0,15-04-2014,Alm.,6666,5,Villa,135,1941,-10 %
+Solfang 32A 7160 Tørring,0,1625000.0,27-03-2014,Alm.,9078,5,Villa,179,1972,0 %
+J P Nielsens Vej 3 7160 Tørring,3,1095000.0,26-03-2014,Alm.,11060,3,Villa,99,1952,
+Askevej 8 7160 Tørring,8,625000.0,24-03-2014,Alm.,4464,6,Villa,140,1981,
+Bækvej 23 7160 Tørring,23,325000.0,14-03-2014,Auktion,2226,4,Villa,146,1922,
+Holmdalsvej 3 7160 Tørring,3,700000.0,12-03-2014,Alm.,6363,4,Villa,110,1939,
+Sikavej 26 7160 Tørring,26,370000.0,05-03-2014,Alm.,2312,4,Villa,160,2015,
+Skolevej 72 7160 Tørring,72,1195000.0,27-02-2014,Alm.,9192,5,Villa,130,1974,
+Brædstrupvej 25 7160 Tørring,25,1420000.0,26-02-2014,Alm.,5795,8,Stuehus,245,1880,
+Brædstrupvej 49 7160 Tørring,49,1420000.0,26-02-2014,Alm.,7029,6,Stuehus,202,1920,
+Vejlevej 3 7160 Tørring,3,515000.0,20-02-2014,Alm.,4478,3,Villa,115,1929,-13 %
+Spurvevej 36 7160 Tørring,36,1900000.0,19-02-2014,Alm.,11875,6,Villa,160,1998,-4 %
+Rådyrvej 7 7160 Tørring,7,1000000.0,28-01-2014,Alm.,6134,6,Villa,163,1976,-16 %
+Fælledvej 2 7160 Tørring,2,340000.0,23-01-2014,Alm.,4250,4,Villa,80,1920,-41 %
+Grønlund 38 7160 Tørring,38,435000.0,18-12-2013,Alm.,2351,4,Villa,185,2015,
+Raskvej 12 7160 Tørring,12,543525.0,16-12-2013,Alm.,4455,6,Villa,122,1935,
+Hans Jensens Vej 27 7160 Tørring,27,1235000.0,13-12-2013,Alm.,8576,5,Villa,144,1986,-5 %
+Sikavej 21 7160 Tørring,21,2805000.0,10-12-2013,Alm.,13046,8,Villa,215,2008,-6 %
+Sønderbrogade 30 7160 Tørring,30,536000.0,03-12-2013,Fam.,5826,3,Rækkehus,92,1916,-23 %
+Rosavej 3A 7160 Tørring,0,775000.0,28-11-2013,Alm.,10472,3,Rækkehus,74,1987,-6 %
+Olgavej 4 7160 Tørring,4,995000.0,26-11-2013,Alm.,6067,6,Villa,164,1973,-9 %
+Banevænget 1 7160 Tørring,1,975000.0,25-11-2013,Alm.,7617,5,Villa,128,1964,-2 %
+Vejlevej 12 7160 Tørring,12,1645000.0,20-11-2013,Alm.,10345,7,Villa,159,1933,6 %
+Ølholm Bygade 10 7160 Tørring,10,1592770.0,31-10-2013,Alm.,4424,12,Villa,360,1909,
+Brædstrupvej 37 7160 Tørring,37,316061.0,29-10-2013,Andet,2797,3,Villa,113,1936,
+Raskvej 19 7160 Tørring,19,295000.0,28-10-2013,Alm.,4916,2,Villa,60,1927,-16 %
+Vibevej 35 7160 Tørring,35,980000.0,14-10-2013,Alm.,7656,3,Villa,128,1971,-9 %
+Sikavej 20 7160 Tørring,20,320000.0,10-10-2013,Alm.,2191,4,Villa,146,2014,
+Hjortsvang Kærvej 8 7160 Tørring,8,2000000.0,09-10-2013,Alm.,14705,4,Stuehus,136,1911,-13 %
+Brædstrupvej 63 7160 Tørring,63,1150000.0,04-10-2013,Alm.,8273,4,Stuehus,139,1910,-23 %
+Vejlevej 8 7160 Tørring,8,895000.0,30-09-2013,Alm.,6679,4,Villa,134,1919,
+Spurvevej 5 7160 Tørring,5,1695000.0,27-09-2013,Alm.,10527,6,Villa,161,1996,-6 %
+Stougårds Alle 8 7160 Tørring,8,1470000.0,23-09-2013,Alm.,8855,5,Villa,166,1972,0 %
+Nordre Fælledvej 3 7160 Tørring,3,1437500.0,23-09-2013,Fam.,6845,8,Villa,210,1918,
+Solfang 26 7160 Tørring,26,1487500.0,23-09-2013,Fam.,10937,4,Villa,136,2010,
+Tingvejen 5 7160 Tørring,5,2250000.0,21-09-2013,Alm.,11780,7,Villa,191,1912,-10 %
+Hørsholmvej 11 7160 Tørring,11,1100000.0,16-09-2013,Alm.,14666,3,Stuehus,75,1877,
+Aagade 14 7160 Tørring,14,1105000.0,11-09-2013,Alm.,10833,4,Rækkehus,102,1925,-8 %
+Kodamvej 1 7160 Tørring,1,1800000.0,09-09-2013,Fam.,5471,9,Stuehus,329,1872,
+Solfang 1 7160 Tørring,1,1460000.0,06-09-2013,Alm.,14038,4,Villa,104,1948,-12 %
+Viborgvej 36 7160 Tørring,36,1900000.0,31-08-2013,Alm.,7786,8,Villa,244,1965,-5 %
+Skolevej 46 7160 Tørring,46,1395000.0,23-08-2013,Alm.,8718,6,Villa,160,1971,0 %
+Rosavej 5A 7160 Tørring,0,925000.0,22-08-2013,Alm.,12500,3,Rækkehus,74,1986,
+Brædstrupvej 27 7160 Tørring,27,350000.0,20-08-2013,Alm.,1861,6,Villa,188,1924,
+Aalevej 19 7160 Tørring,19,500000.0,19-08-2013,Alm.,3937,3,Villa,127,1956,-16 %
+Hagevej 3 7160 Tørring,3,400000.0,16-08-2013,Alm.,3418,4,Villa,117,1905,-38 %
+Hjortsvang Kærvej 18 7160 Tørring,18,470000.0,15-08-2013,Alm.,3286,4,Villa,143,1890,-22 %
+Vongevej 10 7160 Tørring,10,1100000.0,13-08-2013,Alm.,7051,4,Villa,156,1915,-15 %
+Alstedvej 4 7160 Tørring,4,380000.0,13-08-2013,Alm.,3304,4,Villa,115,1920,
+Søndervang 27 7160 Tørring,27,800000.0,09-08-2013,Fam.,0,6,Villa,167,1995,
+Overbygård 45 7160 Tørring,45,1300000.0,30-07-2013,Alm.,9774,4,Villa,133,1986,-7 %
+Rosavej 11 7160 Tørring,11,1350000.0,27-07-2013,Alm.,10714,4,Villa,126,1980,-3 %
+Rosavej 5B 7160 Tørring,0,737500.0,12-07-2013,Alm.,9966,2,Rækkehus,74,1986,-2 %
+Aalevej 31 7160 Tørring,31,1100000.0,12-07-2013,Alm.,7006,5,Villa,157,1965,
+Søndervang 11 7160 Tørring,11,2000000.0,06-07-2013,Alm.,10638,5,Villa,188,2007,-5 %
+Liselundvej 10 7160 Tørring,10,1920000.0,27-06-2013,Alm.,9142,7,Villa,210,1928,
+Rosavej 33 7160 Tørring,33,999000.0,27-06-2013,Alm.,8840,5,Villa,113,1984,-9 %
+Solfang 13A 7160 Tørring,0,1361550.0,27-06-2013,Auktion,9795,5,Villa,139,1981,
+Møllevej 14 7160 Tørring,14,262850.0,21-06-2013,Auktion,2709,3,Rækkehus,97,1874,
+Solfang 3 7160 Tørring,3,2150000.0,20-06-2013,Alm.,14238,4,Villa,151,1977,-2 %
+Hvolgårdsvej 40 7160 Tørring,40,1187900.0,14-06-2013,Auktion,4257,10,Villa,279,1877,
+Omannsvej 11 7160 Tørring,11,920000.0,13-06-2013,Auktion,5000,5,Villa,184,1976,
+Hjortevej 7 7160 Tørring,7,1375000.0,10-06-2013,Alm.,6610,7,Villa,208,1977,-8 %
+"Bredgade 16, 1 7160 Tørring",1,787361.0,31-05-2013,Auktion,7427,3,Lejlighed,106,1903,
+Pogensvej 4 7160 Tørring,4,551500.0,27-05-2013,Alm.,1593,7,Villa,346,1968,
+J P Nielsens Vej 21 7160 Tørring,21,580000.0,21-05-2013,Alm.,3558,4,Villa,163,2015,-22 %
+Abildtoft 2 7160 Tørring,2,865000.0,16-05-2013,Alm.,5766,5,Villa,150,1973,-13 %
+Logslundvej 1 7160 Tørring,1,1145000.0,28-04-2013,Alm.,6981,5,Villa,164,1847,-4 %
+Solfang 26A 7160 Tørring,0,1200000.0,24-04-2013,Alm.,10000,6,Villa,120,1977,0 %
+Bjerggårdsvej 6 7160 Tørring,6,1037500.0,18-04-2013,Fam.,4893,6,Villa,212,1930,
+Rosavej 28 7160 Tørring,28,850000.0,18-04-2013,Alm.,7727,4,Villa,110,1978,-14 %
+Rosavej 1A 7160 Tørring,0,1050000.0,12-04-2013,Alm.,11666,4,Rækkehus,90,1984,
+Hammer Møllevej 5 7160 Tørring,5,995000.0,12-04-2013,Alm.,7107,6,Sommerhus,140,1902,
+Viborgvej 20 7160 Tørring,20,1725000.0,07-04-2013,Alm.,10917,6,Villa,158,1950,-4 %
+Skovvej 2 7160 Tørring,2,995000.0,04-04-2013,Alm.,7653,5,Rækkehus,130,1923,0 %
+Sønderbrogade 6 7160 Tørring,6,580000.0,25-03-2013,Alm.,4202,3,Rækkehus,138,1903,-17 %
+Overbygård 59 7160 Tørring,59,1525000.0,14-03-2013,Alm.,11213,5,Villa,136,1986,
+Vongevej 20 7160 Tørring,20,1125000.0,06-03-2013,Alm.,8720,3,Villa,129,1937,-13 %
+Torvegade 7 7160 Tørring,7,1000000.0,06-03-2013,Alm.,10000,4,Rækkehus,100,1912,-16 %
+Teglværksvej 9 7160 Tørring,9,1300000.0,20-02-2013,Alm.,9352,5,Villa,139,1981,-13 %
+Vejlevej 25 7160 Tørring,25,600000.0,19-02-2013,Alm.,6818,4,Villa,88,1965,-14 %
+Nyvej 12 7160 Tørring,12,775000.0,15-02-2013,Alm.,6919,4,Villa,112,1986,-9 %
+Guldagervænget 20 7160 Tørring,20,2000000.0,11-02-2013,Alm.,12345,6,Villa,162,2013,0 %
+Postvej 3 7160 Tørring,3,275000.0,08-02-2013,Alm.,2455,4,Villa,112,1902,
+Haugevej 18 7160 Tørring,18,8350000.0,06-02-2013,Fam.,35683,7,Stuehus,234,1975,
+Sikavej 36 7160 Tørring,36,370000.0,27-01-2013,Alm.,2312,5,Villa,160,2014,
+Fousingvej 1 7160 Tørring,1,625000.0,21-01-2013,Alm.,2741,7,Villa,228,1893,
+Aale Bygade 21 7160 Tørring,21,890000.0,21-12-2012,Alm.,5705,5,Villa,156,1870,3 %
+Østergade 9 7160 Tørring,9,1175000.0,21-12-2012,Alm.,9631,5,Rækkehus,122,1880,
+Søndervang 37 7160 Tørring,37,1070000.0,21-12-2012,Alm.,10490,4,Villa,102,1967,8 %
+Skolevej 25 7160 Tørring,25,807500.0,20-12-2012,Fam.,5456,5,Villa,148,1967,-26 %
+Søndervang 20 7160 Tørring,20,520000.0,10-12-2012,Alm.,5098,4,Villa,102,1965,
+Bredgade 30 7160 Tørring,30,1824380.0,01-12-2012,Alm.,25695,6,Servicevirksomhed,71,1880,
+Sikavej 34 7160 Tørring,34,344000.0,30-11-2012,Alm.,2047,6,Villa,168,2013,
+Bygade 42 7160 Tørring,42,748000.0,08-11-2012,Auktion,9468,3,Villa,79,1947,-16 %
+J P Nielsens Vej 27 7160 Tørring,27,1030000.0,25-10-2012,Alm.,14305,2,Villa,72,1959,
+Aalevej 15 7160 Tørring,15,1300000.0,12-10-2012,Alm.,9027,4,Villa,144,1995,-7 %
+Viborg Hovedvej 101 7160 Tørring,101,900000.0,11-10-2012,Fam.,3146,8,Villa,286,1913,
+Viborg Hovedvej 115 7160 Tørring,115,2795000.0,02-10-2012,Alm.,13975,6,Stuehus,200,2012,
+Hagevej 11 7160 Tørring,11,1295000.0,24-09-2012,Alm.,9664,4,Villa,134,1900,0 %
+Hammervej 18 7160 Tørring,18,11650000.0,22-09-2012,Alm.,38704,4,Stuehus,301,1976,
+Hammervej 22 7160 Tørring,22,6275000.0,22-09-2012,Alm.,39968,6,Stuehus,157,1860,
+Rosavej 3B 7160 Tørring,0,671500.0,18-09-2012,Fam.,9074,3,Rækkehus,74,1987,
+Torvegade 59 7160 Tørring,59,1050000.0,13-09-2012,Auktion,7094,6,Villa,148,1982,
+Lindbjergvej 2 7160 Tørring,2,870000.0,11-09-2012,Alm.,5117,4,Sommerhus,170,1954,
+Slårupvej 4 7160 Tørring,4,1295000.0,27-08-2012,Alm.,10702,3,Villa,121,1968,
+Guldager 14 7160 Tørring,14,1875000.0,24-08-2012,Alm.,11503,6,Villa,163,2006,-6 %
+Brædstrupvej 21 7160 Tørring,21,1250000.0,21-08-2012,Alm.,0,7,Villa,180,2002,-10 %
+Guldagervænget 28 7160 Tørring,28,2500000.0,20-08-2012,Fam.,12376,6,Villa,202,2006,
+Bredgade 65 7160 Tørring,65,1050000.0,12-08-2012,Alm.,6481,4,Villa,162,1960,
+Torvegade 53 7160 Tørring,53,1550000.0,09-08-2012,Auktion,8563,6,Villa,181,1977,
+Kyndesens Eng 2 7160 Tørring,2,2145000.0,07-08-2012,Alm.,11230,6,Villa,191,2004,-4 %
+Viborg Hovedvej 83 7160 Tørring,83,408000.0,07-08-2012,Alm.,2914,9,Villa,140,1790,-8 %
+Viborg Hovedvej 73 7160 Tørring,73,665000.0,15-07-2012,Alm.,3259,6,Villa,204,1900,-16 %
+Borgergade 16 7160 Tørring,16,500000.0,10-07-2012,Fam.,4132,4,Villa,121,1950,-37 %
+Skolevænget 9 7160 Tørring,9,1250000.0,01-07-2012,Alm.,9124,4,Villa,137,1941,
+Sønderbrogade 8 7160 Tørring,8,730000.0,28-06-2012,Alm.,5887,4,Villa,124,1906,
+Alsted Skovvej 3 7160 Tørring,3,480000.0,21-06-2012,Alm.,4848,3,Villa,99,1927,-17 %
+Østergade 4 7160 Tørring,4,700000.0,15-06-2012,Auktion,7000,4,Villa,100,1900,-22 %
+Engvej 8 7160 Tørring,8,900000.0,08-06-2012,Fam.,8181,4,Villa,110,1925,
+Møllevej 26 7160 Tørring,26,382000.0,07-06-2012,Alm.,2850,5,Villa,134,1943,
+J P Nielsens Vej 29 7160 Tørring,29,750000.0,06-06-2012,Alm.,10416,3,Villa,72,1962,
+Bygade 6 7160 Tørring,6,970000.0,29-05-2012,Alm.,9417,5,Villa,103,1934,
+Firhøjvej 9 7160 Tørring,9,1700000.0,23-05-2012,Alm.,11805,5,Villa,144,1908,-19 %
+Sønderbrogade 36 7160 Tørring,36,450000.0,23-05-2012,Alm.,3237,4,Villa,139,1926,
+Sønderbrogade 34 7160 Tørring,34,882500.0,15-05-2012,Alm.,6635,4,Villa,133,1915,
+Vesterbyvej 2 7160 Tørring,2,235000.0,10-05-2012,Alm.,1850,5,Villa,127,1910,-20 %
+Skolevej 37 7160 Tørring,37,68000.0,03-05-2012,Alm.,629,4,Villa,108,1968,
+Rådyrvej 3 7160 Tørring,3,1445000.0,30-04-2012,Alm.,12787,4,Villa,113,1976,
+Guldagervænget 42 7160 Tørring,42,2700000.0,27-04-2012,Alm.,13106,5,Villa,206,2008,-3 %
+Brædstrupvej 60 7160 Tørring,60,3530000.0,25-04-2012,Alm.,23533,5,Stuehus,150,1931,-23 %
+"Bredgade 20, 1 7160 Tørring",1,1000000.0,10-04-2012,Alm.,20000,2,Lejlighed,50,1906,
+Teglværksvej 5 7160 Tørring,5,950000.0,07-04-2012,Alm.,11875,3,Villa,80,1957,-13 %
+Nyvej 16 7160 Tørring,16,960000.0,04-04-2012,Alm.,8000,4,Villa,120,1986,
+Rosavej 17A 7160 Tørring,0,675000.0,29-03-2012,Alm.,9121,3,Rækkehus,74,1984,-10 %
+Vibevej 37 7160 Tørring,37,990000.0,28-03-2012,Alm.,8608,4,Villa,115,1972,
+Olgavej 2 7160 Tørring,2,945000.0,23-03-2012,Alm.,8076,4,Villa,117,1975,
+Tværvejen 10 7160 Tørring,10,2725000.0,18-03-2012,Alm.,14650,9,Stuehus,186,1928,
+Ege Alle 20 7160 Tørring,20,1750000.0,06-03-2012,Alm.,11006,6,Villa,159,1994,-3 %
+Aale Bygade 3 7160 Tørring,3,260000.0,24-02-2012,Alm.,2407,7,Villa,108,1905,-34 %
+Skolevænget 2 7160 Tørring,2,995000.0,21-02-2012,Alm.,9567,4,Villa,104,1975,0 %
+Askevej 7 7160 Tørring,7,970000.0,10-02-2012,Alm.,9700,3,Villa,100,2000,-3 %
+Østervang 12 7160 Tørring,12,1595000.0,07-02-2012,Alm.,0,6,Villa,221,1978,0 %
+Sønderbrogade 61 7160 Tørring,61,3100000.0,02-02-2012,Fam.,15577,5,Villa,199,2007,
+Fousingvej 4 7160 Tørring,4,1200000.0,26-01-2012,Alm.,6122,7,Stuehus,196,1870,-29 %
+Askevej 11 7160 Tørring,11,1500000.0,15-01-2012,Alm.,9493,6,Villa,158,1995,-12 %
+Aale Bygade 28A 7160 Tørring,0,103600.0,11-01-2012,Alm.,460,8,Stuehus,225,1950,
+Aagade 17 7160 Tørring,17,1000000.0,01-01-2012,Fam.,5988,5,Villa,167,1927,
+Sydtoften 6 7160 Tørring,6,625000.0,15-12-2011,Fam.,0,5,Stuehus,232,1912,
+"Sønderbrogade 12, 1 7160 Tørring",1,955000.0,16-11-2011,Alm.,7701,5,Lejlighed,124,1924,
+Hjortsvang Kærvej 15 7160 Tørring,15,1100000.0,15-11-2011,Alm.,7051,6,Villa,156,1855,-12 %
+Nyvej 1 7160 Tørring,1,750000.0,15-11-2011,Alm.,5434,5,Villa,138,1910,-6 %
+Søndervang 21 7160 Tørring,21,1295000.0,14-11-2011,Alm.,9961,4,Villa,130,1973,-4 %
+Aagade 4 7160 Tørring,4,390000.0,28-10-2011,Alm.,4588,4,Rækkehus,85,1917,
+Viborg Hovedvej 110 7160 Tørring,110,100000.0,21-10-2011,Auktion,819,4,Villa,122,1956,-80 %
+Bygade 44 7160 Tørring,44,1400000.0,19-10-2011,Alm.,6896,10,Villa,203,1910,-12 %
+Nyvej 5 7160 Tørring,5,825000.0,06-10-2011,Alm.,6021,5,Villa,137,1935,-2 %
+Viborg Hovedvej 102 7160 Tørring,102,1200000.0,30-09-2011,Alm.,11538,5,Villa,104,1911,
+Rosavej 7A 7160 Tørring,0,757000.0,16-09-2011,Alm.,10229,3,Rækkehus,74,1984,
+Damgårdsvej 9 7160 Tørring,9,800000.0,08-09-2011,Alm.,8510,3,Villa,94,1951,-11 %
+Bredgade 39 7160 Tørring,39,765000.0,01-09-2011,Alm.,8500,3,Rækkehus,90,1902,-15 %
+Ådalvej 61 7160 Tørring,61,2100000.0,25-08-2011,Alm.,16153,8,Villa,130,1880,-8 %
+Slårupvej 1 7160 Tørring,1,1350000.0,15-08-2011,Alm.,7219,6,Villa,187,1966,-10 %
+Ølholm Bygade 45 7160 Tørring,45,1975000.0,08-08-2011,Alm.,7287,8,Villa,271,1925,-1 %
+Bygade 23 7160 Tørring,23,995000.0,08-08-2011,Alm.,7773,4,Villa,128,1915,
+Askevej 6 7160 Tørring,6,1535000.0,08-08-2011,Alm.,8672,6,Villa,177,1986,3 %
+Aalevej 21 7160 Tørring,21,425000.0,06-07-2011,Alm.,5902,5,Villa,72,1958,0 %
+Borgergade 37 7160 Tørring,37,300000.0,16-06-2011,Alm.,1694,4,Villa,177,1918,-50 %
+Søndre Fælledvej 16 7160 Tørring,16,1000000.0,08-06-2011,Alm.,6756,4,Villa,148,1930,
+Vejlevej 21 7160 Tørring,21,1285000.0,06-06-2011,Alm.,5711,7,Villa,225,1973,-14 %
+Sønderbrogade 4 7160 Tørring,4,600000.0,01-06-2011,Auktion,4109,6,Rækkehus,146,1906,-40 %
+Borgergade 33 7160 Tørring,33,81000.0,27-05-2011,Auktion,387,6,Villa,209,1908,
+Hagevej 13 7160 Tørring,13,700000.0,27-05-2011,Auktion,2651,10,Villa,264,1868,-56 %
+Skolehaven 5 7160 Tørring,5,945000.0,26-05-2011,Alm.,6562,5,Villa,144,1978,-5 %
+Askevej 15 7160 Tørring,15,2100000.0,17-05-2011,Alm.,10194,6,Villa,206,2006,-8 %
+Banevænget 7 7160 Tørring,7,2037000.0,13-05-2011,Alm.,10185,6,Villa,200,1977,2 %
+Liselundvej 3 7160 Tørring,3,80000.0,13-05-2011,Auktion,1212,4,Villa,66,1878,
+Vongevej 24 7160 Tørring,24,1180000.0,10-05-2011,Alm.,8676,5,Villa,136,1962,-9 %
+Vongevej 47 7160 Tørring,47,10500000.0,20-04-2011,Alm.,53299,8,Stuehus,197,1777,
+Uhrskovvej 3 7160 Tørring,3,6500000.0,20-04-2011,Alm.,24074,8,Stuehus,270,1911,
+Østervang 15 7160 Tørring,15,1625000.0,13-04-2011,Alm.,11284,5,Villa,144,1985,-4 %
+Vongevej 29 7160 Tørring,29,1495000.0,12-04-2011,Alm.,11589,4,Villa,129,1973,0 %
+Sikavej 6 7160 Tørring,6,2950000.0,12-04-2011,Alm.,14047,7,Villa,210,2007,
+Skolehaven 6 7160 Tørring,6,525000.0,07-04-2011,Alm.,8203,2,Rækkehus,64,1983,-12 %
+Skovvej 5 7160 Tørring,5,605000.0,04-04-2011,Alm.,4763,6,Rækkehus,127,1915,-19 %
+Rejsenhusvej 3 7160 Tørring,3,2725000.0,30-03-2011,Alm.,11745,7,Villa,232,1889,-9 %
+Borgergade 53 7160 Tørring,53,537270.0,26-03-2011,Fam.,3052,6,Villa,176,1916,
+Bygade 9 7160 Tørring,9,600000.0,25-03-2011,Auktion,3703,5,Villa,162,1890,-40 %
+Viborgvej 16C 7160 Tørring,0,2725000.0,24-03-2011,Alm.,8876,7,Villa,307,1900,-3 %
+Elsdyrvej 8 7160 Tørring,8,1180000.0,11-03-2011,Auktion,10442,4,Villa,113,1975,
+Rådyrvej 13 7160 Tørring,13,1000000.0,10-03-2011,Andet,4524,7,Villa,221,1976,
+Borgergade 31 7160 Tørring,31,430000.0,18-02-2011,Auktion,3071,4,Villa,140,1929,
+Aale Bygade 13 7160 Tørring,13,895000.0,25-01-2011,Andet,11474,4,Villa,78,1925,
+Ølholm Bygade 7 7160 Tørring,7,775000.0,18-01-2011,Alm.,8908,3,Villa,87,1900,-4 %
+Solfang 22 7160 Tørring,22,575500.0,17-01-2011,Alm.,6122,3,Rækkehus,94,1920,
+"Bredgade 31, 1 7160 Tørring",1,1325000.0,07-01-2011,Alm.,12155,5,Lejlighed,109,1930,
+Grønlund 4 7160 Tørring,4,2355000.0,27-12-2010,Alm.,16354,5,Villa,144,2007,-2 %
+Koutrupvej 5 7160 Tørring,5,1995000.0,23-12-2010,Alm.,7024,8,Villa,284,1894,
+Bredgade 42 7160 Tørring,42,745000.0,02-12-2010,Andet,8277,5,Villa,90,1923,
+Solvej 6 7160 Tørring,6,750000.0,02-12-2010,Alm.,6048,4,Rækkehus,124,1937,-21 %
+Skovvej 6 7160 Tørring,6,1300000.0,23-11-2010,Alm.,9154,3,Villa,142,1910,-13 %
+Brædstrupvej 53 7160 Tørring,53,3695000.0,23-11-2010,Alm.,10710,14,Villa,345,1903,0 %
+Dådyrvej 6 7160 Tørring,6,1150000.0,18-11-2010,Alm.,9126,3,Villa,126,1977,-12 %
+Uhrskovvej 1 7160 Tørring,1,815000.0,12-11-2010,Alm.,5191,6,Villa,157,1850,-9 %
+Roloddet 2 7160 Tørring,2,268000.0,11-11-2010,Alm.,1887,3,Villa,142,2010,
+Sikavej 32 7160 Tørring,32,690000.0,01-11-2010,Alm.,4600,5,Villa,150,2011,
+Østerkærvej 2 7160 Tørring,2,1400000.0,28-10-2010,Alm.,7567,4,Villa,185,1942,
+Ølholm Bygade 41 7160 Tørring,41,1195000.0,28-10-2010,Alm.,9715,4,Villa,123,1933,0 %
+Tingvejen 3 7160 Tørring,3,570000.0,12-10-2010,Alm.,6195,3,Villa,92,1840,
+Raskvej 4 7160 Tørring,4,555000.0,12-10-2010,Alm.,8671,2,Villa,64,1942,-7 %
+Skolevej 101 7160 Tørring,101,640000.0,09-10-2010,Alm.,5470,5,Villa,117,1958,-9 %
+Viborg Hovedvej 117 7160 Tørring,117,849333.0,07-10-2010,Alm.,4666,6,Stuehus,182,2016,
+Rogårdsvej 8 7160 Tørring,8,1275000.0,01-10-2010,Alm.,8916,5,Villa,143,1926,
+Nyvej 15 7160 Tørring,15,2200000.0,01-10-2010,Alm.,10784,8,Villa,204,1928,
+Vejlevej 4 7160 Tørring,4,1150000.0,24-09-2010,Fam.,10176,4,Villa,113,1999,
+Tværvejen 9 7160 Tørring,9,1650000.0,23-09-2010,Alm.,8418,8,Villa,196,1873,-5 %
+Sikavej 23 7160 Tørring,23,503748.0,23-09-2010,Alm.,2493,6,Villa,202,2010,
+Aalevej 37 7160 Tørring,37,550000.0,22-09-2010,Alm.,6250,4,Villa,88,1965,
+Brædstrupvej 28 7160 Tørring,28,800000.0,21-09-2010,Alm.,8888,3,Villa,90,1925,-6 %
+Sikavej 22 7160 Tørring,22,500000.0,16-09-2010,Alm.,3676,3,Villa,136,2010,
+Solfang 5 7160 Tørring,5,950000.0,05-09-2010,Alm.,9500,3,Villa,100,1954,-12 %
+Uldumvej 14 7160 Tørring,14,685000.0,03-09-2010,Alm.,9927,4,Villa,69,1900,-1 %
+Slårupvej 5 7160 Tørring,5,2698000.0,24-08-2010,Alm.,12433,11,Villa,217,1969,0 %
+Alsted Møllevej 10 7160 Tørring,10,1200000.0,20-08-2010,Alm.,4705,7,Villa,255,1880,0 %
+Slårupvej 14 7160 Tørring,14,1025000.0,16-08-2010,Alm.,6655,7,Villa,154,1972,-13 %
+Alstedvej 6A 7160 Tørring,0,725000.0,12-08-2010,Alm.,6304,3,Villa,115,2011,
+Mosevej 8 7160 Tørring,8,10200000.0,28-07-2010,Alm.,54255,7,Stuehus,188,1870,
+Sønderbrogade 80 7160 Tørring,80,1332500.0,13-07-2010,Alm.,10745,4,Villa,124,1976,-2 %
+Brædstrupvej 34 7160 Tørring,34,350000.0,09-07-2010,Auktion,3043,4,Villa,115,1956,-63 %
+Smedetoften 2 7160 Tørring,2,484171.0,29-06-2010,Alm.,4611,4,Villa,105,1972,
+Bækvej 13 7160 Tørring,13,875000.0,22-06-2010,Alm.,5756,5,Villa,152,1970,-12 %
+J P Nielsens Vej 14 7160 Tørring,14,850000.0,18-06-2010,Alm.,8673,4,Villa,98,1952,-21 %
+Torvegade 80 7160 Tørring,80,2450000.0,15-06-2010,Alm.,0,7,Villa,318,2005,-9 %
+Vongevej 37 7160 Tørring,37,1395000.0,14-06-2010,Alm.,8454,4,Villa,165,1968,0 %
+Viborgvej 3A 7160 Tørring,0,615000.0,28-05-2010,Auktion,7068,3,Villa,87,1955,
+Vibevej 5 7160 Tørring,5,1395000.0,26-05-2010,Alm.,7380,4,Villa,189,2008,0 %
+Vongevej 33 7160 Tørring,33,1300000.0,19-05-2010,Alm.,7386,7,Villa,176,1973,-12 %
+Vongevej 1A 7160 Tørring,0,800000.0,18-05-2010,Alm.,6153,5,Villa,130,1910,-20 %
+Ølholm Bygade 35 7160 Tørring,35,1250000.0,12-05-2010,Alm.,7763,6,Villa,161,1907,
+Rosavej 43B 7160 Tørring,0,960000.0,12-05-2010,Alm.,10549,3,Rækkehus,91,1983,-4 %
+Vibevej 32 7160 Tørring,32,1300000.0,11-05-2010,Alm.,9558,5,Villa,136,1972,-7 %
+Aale Bygade 29 7160 Tørring,29,380000.0,05-05-2010,Alm.,4318,4,Villa,88,1900,-23 %
+Skolevej 45 7160 Tørring,45,700000.0,28-04-2010,Fam.,4242,4,Villa,165,1972,
+Raskvej 10 7160 Tørring,10,1310000.0,23-04-2010,Alm.,7237,5,Villa,181,1924,-3 %
+Præstevænget 6 7160 Tørring,6,475000.0,15-04-2010,Alm.,4797,5,Villa,99,1934,-47 %
+Tingvejen 7 7160 Tørring,7,3650000.0,13-04-2010,Alm.,24013,5,Stuehus,152,1900,
+Skovvej 10 7160 Tørring,10,487500.0,07-04-2010,Alm.,4642,3,Villa,105,1958,
+Elsdyrvej 4 7160 Tørring,4,1300000.0,31-03-2010,Alm.,0,7,Villa,161,1976,-7 %
+Viborg Hovedvej 99 7160 Tørring,99,280000.0,31-03-2010,Alm.,1971,3,Villa,142,1940,
+Torvegade 73 7160 Tørring,73,2300242.0,23-03-2010,Alm.,0,2,Industri o.l.,53,1986,
+Rosavej 15A 7160 Tørring,0,900000.0,21-03-2010,Alm.,12162,3,Rækkehus,74,1984,
+Guldagervænget 32 7160 Tørring,32,2000000.0,18-02-2010,Alm.,13888,5,Villa,144,2006,-5 %
+Aagade 5 7160 Tørring,5,595000.0,11-02-2010,Auktion,4576,4,Villa,130,1902,
+Skolevej 78 7160 Tørring,78,800000.0,05-02-2010,Auktion,5333,5,Villa,150,1973,
+Uldumvej 8 7160 Tørring,8,1162000.0,03-02-2010,Alm.,8481,6,Villa,137,1900,2 %
+Spurvevej 20 7160 Tørring,20,2100000.0,03-02-2010,Alm.,12500,6,Villa,168,1997,-11 %
+Engvej 13 7160 Tørring,13,780000.0,26-01-2010,Alm.,6093,5,Villa,128,1930,
+Hjortsvangvej 9 7160 Tørring,9,1100000.0,25-01-2010,Alm.,9821,4,Villa,112,1986,
+Torvegade 55 7160 Tørring,55,150000.0,19-01-2010,Alm.,797,6,Villa,188,1978,
+Egholmvej 2 7160 Tørring,2,5000000.0,18-01-2010,Alm.,0,7,Villa,185,1970,
+Hørsholmvej 4 7160 Tørring,4,1820000.0,11-01-2010,Alm.,10705,6,Villa,170,1912,-6 %
+Sikavej 33 7160 Tørring,33,1466246.0,10-11-2009,Andet,8378,7,Villa,175,2007,-51 %
+Bækvej 22 7160 Tørring,22,1400000.0,27-10-2009,Alm.,8235,5,Villa,170,1960,-6 %
+Slårupvej 10A 7160 Tørring,0,861863.0,14-10-2009,Fam.,5524,4,Villa,156,1973,
+Myllerupvej 3 7160 Tørring,3,1600000.0,09-10-2009,Alm.,9580,6,Stuehus,167,1887,
+Hvolgårdsvej 28 7160 Tørring,28,1500000.0,18-09-2009,Alm.,3759,9,Villa,399,1800,-16 %
+Aale Bygade 19 7160 Tørring,19,1025000.0,04-09-2009,Alm.,10250,3,Villa,100,1964,-4 %
+Skolevej 11 7160 Tørring,11,1050000.0,21-08-2009,Alm.,12650,4,Villa,83,1951,-12 %
+Bredgade 34 7160 Tørring,34,850000.0,10-08-2009,Fam.,4473,7,Villa,190,1912,
+Sønderbrogade 22 7160 Tørring,22,150000.0,07-08-2009,Alm.,1094,5,Villa,137,1907,
+Kodamvej 4 7160 Tørring,4,1195000.0,07-08-2009,Alm.,7242,6,Villa,165,2012,0 %
+Skolevej 16 7160 Tørring,16,650000.0,31-07-2009,Alm.,7386,3,Villa,88,1950,-18 %
+Skolevej 2 7160 Tørring,2,1325000.0,28-07-2009,Alm.,8493,4,Villa,156,1942,-5 %
+Vongevej 41 7160 Tørring,41,2430000.0,26-07-2009,Auktion,97200,33,Servicevirksomhed,25,1986,
+Ege Alle 14 7160 Tørring,14,2175000.0,24-07-2009,Alm.,12794,5,Villa,170,1993,-3 %
+Gudenåvænget 4 7160 Tørring,4,2400000.0,10-07-2009,Alm.,16000,5,Villa,150,2007,-4 %
+Uldumvej 22 7160 Tørring,22,850000.0,07-07-2009,Fam.,7727,3,Villa,110,1962,
+Rosavej 41A 7160 Tørring,0,416500.0,26-06-2009,Fam.,5206,3,Rækkehus,80,1987,
+J P Nielsens Vej 10 7160 Tørring,10,812566.0,26-06-2009,Auktion,8644,4,Villa,94,1956,
+Aale Bygade 27 7160 Tørring,27,1395000.0,23-06-2009,Alm.,8506,6,Villa,164,1912,0 %
+Melhedevej 10 7160 Tørring,10,1525000.0,23-06-2009,Alm.,10445,6,Villa,146,1987,-4 %
+Møllevej 6 7160 Tørring,6,100000.0,15-06-2009,Auktion,1282,3,Villa,78,1932,
+Grønlund 28 7160 Tørring,28,375510.0,03-06-2009,Alm.,2571,5,Villa,146,2011,-3 %
+Slårupvej 12 7160 Tørring,12,1462500.0,02-06-2009,Alm.,10675,3,Villa,137,1972,-10 %
+Aale Bygade 1 7160 Tørring,1,1250000.0,26-05-2009,Alm.,7763,8,Villa,161,1890,0 %
+Vongevej 16A 7160 Tørring,0,2895000.0,11-05-2009,Alm.,14121,7,Villa,205,1980,-3 %
+Søndervang 5 7160 Tørring,5,1385000.0,05-05-2009,Alm.,8710,5,Villa,159,1973,-31 %
+Søndre Fælledvej 18 7160 Tørring,18,640000.0,28-04-2009,Alm.,8000,3,Villa,80,1927,-15 %
+Skolevej 13 7160 Tørring,13,850000.0,23-04-2009,Alm.,8415,4,Villa,101,1954,
+Præstevænget 2 7160 Tørring,2,700000.0,08-04-2009,Alm.,3703,5,Villa,189,1916,
+Skovvej 15A 7160 Tørring,0,250000.0,06-04-2009,Alm.,4166,2,Villa,60,2009,
+Torvegade 47 7160 Tørring,47,1250000.0,05-04-2009,Alm.,10080,4,Villa,124,1988,
+Hørsholmvej 17 7160 Tørring,17,2300000.0,03-04-2009,Alm.,14375,5,Villa,160,1916,
+Marievej 3 7160 Tørring,3,1380000.0,18-03-2009,Alm.,0,5,Villa,153,1980,-1 %
+Brædstrupvej 55 7160 Tørring,55,1750000.0,14-03-2009,Alm.,8027,7,Villa,218,1917,-7 %
+Søndre Fælledvej 23 7160 Tørring,23,936655.0,12-03-2009,Andet,7095,5,Stuehus,132,1928,
+Egholmvej 1 7160 Tørring,1,759476.0,06-03-2009,Alm.,6075,4,Villa,125,1967,
+Engvej 9 7160 Tørring,9,1360000.0,06-03-2009,Alm.,10225,4,Villa,133,1934,-6 %
+Aagade 21 7160 Tørring,21,710000.0,25-02-2009,Alm.,7717,3,Villa,92,1933,-11 %
+J P Nielsens Vej 12 7160 Tørring,12,593000.0,25-02-2009,Alm.,8236,3,Villa,72,1957,
+Rosavej 15B 7160 Tørring,0,900000.0,23-02-2009,Alm.,0,3,Rækkehus,94,1984,-10 %
+Ølholm Bygade 9 7160 Tørring,9,1434246.0,12-02-2009,Alm.,8057,7,Villa,178,1909,-18 %
+Søndervang 16 7160 Tørring,16,850000.0,11-02-2009,Alm.,6390,7,Villa,133,1964,-11 %
+Askevej 19 7160 Tørring,19,2395000.0,26-01-2009,Alm.,15756,4,Villa,152,2007,0 %
+Vindelevvej 86 7160 Tørring,86,2350000.0,15-01-2009,Alm.,10217,7,Villa,230,1917,
+Tørringvej 51 7160 Tørring,51,1300000.0,06-12-2008,Alm.,0,9,Stuehus,224,1880,-4 %
+Grønlund 44 7160 Tørring,44,411345.0,03-12-2008,Alm.,2046,5,Villa,201,2012,0 %
+Rosavej 46 7160 Tørring,46,1250000.0,28-11-2008,Alm.,11160,3,Villa,112,1978,-4 %
+Stations Alle 1 7160 Tørring,1,700000.0,27-11-2008,Alm.,3317,5,Villa,211,1940,
+Sønderbrogade 38 7160 Tørring,38,965000.0,19-11-2008,Alm.,13040,3,Villa,74,1900,
+Østervang 7 7160 Tørring,7,525000.0,12-11-2008,Alm.,3832,4,Villa,137,1977,
+Guldager 10 7160 Tørring,10,2320000.0,12-11-2008,Fam.,8498,10,Villa,273,2002,
+Sønderbrogade 48 7160 Tørring,48,1250000.0,07-11-2008,Alm.,8561,7,Villa,146,1927,-4 %
+Skolevej 29 7160 Tørring,29,1395000.0,22-10-2008,Alm.,10568,5,Villa,132,1970,0 %
+Askevej 16 7160 Tørring,16,50000.0,22-09-2008,Andet,287,4,Villa,174,2003,
+Aagade 9 7160 Tørring,9,1525000.0,21-09-2008,Alm.,10374,7,Rækkehus,147,1910,-4 %
+Svalevej 3 7160 Tørring,3,1212500.0,16-09-2008,Alm.,10635,4,Villa,114,1972,-3 %
+Møllevej 10 7160 Tørring,10,600000.0,16-09-2008,Alm.,8450,3,Villa,71,1900,
+Skolevej 12 7160 Tørring,12,1000000.0,08-09-2008,Alm.,9090,4,Villa,110,1959,
+Borgergade 43 7160 Tørring,43,450000.0,03-09-2008,Alm.,4687,6,Villa,96,1920,
+Sikavej 9 7160 Tørring,9,2950000.0,01-09-2008,Alm.,17771,5,Villa,166,2005,-8 %
+Raskvej 20 7160 Tørring,20,905000.0,28-08-2008,Alm.,8537,3,Villa,106,1953,
+Skolevej 3 7160 Tørring,3,782000.0,27-08-2008,Alm.,10861,2,Villa,72,1865,
+Skolevej 47 7160 Tørring,47,945000.0,21-08-2008,Alm.,8590,4,Villa,110,1974,-5 %
+Viborg Hovedvej 75 7160 Tørring,75,1325000.0,19-08-2008,Auktion,7085,9,Villa,187,1925,-16 %
+Bredgade 44B 7160 Tørring,0,2650000.0,04-08-2008,Alm.,10816,8,Villa,245,1999,0 %
+Sønderbrogade 68 7160 Tørring,68,500000.0,03-08-2008,Alm.,2840,5,Villa,176,1975,
+Grønlund 34 7160 Tørring,34,409690.0,18-07-2008,Alm.,2845,5,Villa,144,2009,0 %
+Møllevej 8 7160 Tørring,8,350000.0,11-07-2008,Alm.,5555,3,Villa,63,1880,
+Kirkebakken 4 7160 Tørring,4,1100000.0,10-07-2008,Alm.,8461,4,Villa,130,1971,-3 %
+Sønderbrogade 20 7160 Tørring,20,1240000.0,07-07-2008,Alm.,8211,5,Rækkehus,151,1912,-4 %
+Borgergade 23 7160 Tørring,23,1050000.0,07-07-2008,Alm.,7342,5,Villa,143,1956,-14 %
+Brædstrupvej 26 7160 Tørring,26,600000.0,05-07-2008,Fam.,0,5,Villa,245,1976,
+Sønderkærvej 4 7160 Tørring,4,1700000.0,02-07-2008,Alm.,14049,5,Villa,121,1875,
+Koutrupvej 15 7160 Tørring,15,159800.0,29-06-2008,Fam.,2219,1,Sommerhus,72,2003,
+Spurvevej 34 7160 Tørring,34,2150000.0,06-06-2008,Alm.,10539,7,Villa,204,1991,-2 %
+Søndervang 13 7160 Tørring,13,425000.0,04-06-2008,Alm.,3269,4,Villa,130,2009,
+Linnerupvej 8 7160 Tørring,8,1275000.0,03-06-2008,Alm.,10714,5,Villa,119,1980,-2 %
+Ølholm Bygade 13 7160 Tørring,13,765000.0,03-06-2008,Alm.,4500,7,Rækkehus,170,1904,-10 %
+Hørsholmvej 9 7160 Tørring,9,1500000.0,02-06-2008,Alm.,11538,6,Villa,130,1907,
+Alstedvej 1 7160 Tørring,1,1500000.0,01-06-2008,Alm.,11538,4,Villa,130,1900,0 %
+Vibevej 16 7160 Tørring,16,2155000.0,19-05-2008,Alm.,10165,7,Villa,212,1973,-2 %
+Ådalvej 46 7160 Tørring,46,3095000.0,16-05-2008,Alm.,13456,8,Villa,230,1913,-8 %
+Haugevej 11 7160 Tørring,11,1490000.0,13-05-2008,Alm.,10275,4,Villa,145,1920,-4 %
+Roloddet 10 7160 Tørring,10,380000.0,07-05-2008,Alm.,2483,5,Villa,153,2009,
+Møllevej 16 7160 Tørring,16,1200000.0,07-05-2008,Alm.,7643,4,Villa,157,1928,2 %
+Hørsholmvej 15 7160 Tørring,15,600000.0,05-05-2008,Alm.,4166,5,Stuehus,144,1897,
+Bygade 8 7160 Tørring,8,1175000.0,29-04-2008,Alm.,6250,6,Villa,188,1910,-6 %
+Sønderbrogade 37 7160 Tørring,37,1065000.0,24-04-2008,Alm.,12987,4,Villa,82,1963,0 %
+Abildtoft 1 7160 Tørring,1,1650000.0,04-04-2008,Alm.,11000,5,Villa,150,1974,-6 %
+Bygade 46 7160 Tørring,46,860000.0,31-03-2008,Alm.,6880,5,Villa,125,1919,-4 %
+Spurvevej 29 7160 Tørring,29,1650000.0,27-03-2008,Alm.,12890,6,Villa,128,1992,-1 %
+Sønderbrogade 52 7160 Tørring,52,1250000.0,26-03-2008,Alm.,8278,7,Villa,151,1963,-9 %
+Elsdyrvej 10 7160 Tørring,10,1998000.0,25-03-2008,Alm.,12333,5,Villa,162,1977,0 %
+Engvej 12 7160 Tørring,12,1670000.0,24-03-2008,Fam.,12189,5,Villa,137,1940,-4 %
+Smedetoften 1 7160 Tørring,1,1400000.0,18-03-2008,Alm.,9722,5,Villa,144,1974,-6 %
+Mosevænget 7 7160 Tørring,7,500000.0,11-03-2008,Alm.,2538,6,Villa,197,2009,
+Banevej 11 7160 Tørring,11,2600000.0,06-03-2008,Alm.,15476,5,Villa,168,1980,
+Sønderbrogade 3 7160 Tørring,3,1125000.0,06-03-2008,Alm.,9782,4,Rækkehus,115,1908,-12 %
+Søndre Fælledvej 27 7160 Tørring,27,1600000.0,04-03-2008,Auktion,4624,7,Villa,346,2008,
+"Vejlevej 1D, 1 7160 Tørring",1,680000.0,28-02-2008,Alm.,7234,3,Lejlighed,94,1902,0 %
+Ildvedvej 4 7160 Tørring,4,14500000.0,27-02-2008,Alm.,61702,8,Stuehus,235,1907,
+Vongevej 35 7160 Tørring,35,1375000.0,26-02-2008,Alm.,8757,4,Villa,157,1975,-5 %
+"Sønderbrogade 12, ST 7160 Tørring",0,900000.0,19-02-2008,Alm.,9473,3,Lejlighed,95,1924,
+Bækvej 24 7160 Tørring,24,1100000.0,18-02-2008,Alm.,5527,7,Villa,199,1899,0 %
+Vongevej 8 7160 Tørring,8,1395000.0,15-02-2008,Alm.,10035,4,Villa,139,1910,0 %
+Købmagergade 1 7160 Tørring,1,1290000.0,15-02-2008,Alm.,10573,4,Villa,122,1935,0 %
+"Vejlevej 1A, ST 7160 Tørring",0,750000.0,08-02-2008,Alm.,7978,3,Lejlighed,94,1902,0 %
+Borgergade 10 7160 Tørring,10,1140000.0,30-01-2008,Alm.,8769,4,Villa,130,1975,-11 %
+Søndre Fælledvej 21 7160 Tørring,21,3950000.0,26-01-2008,Alm.,18990,6,Villa,208,1877,
+Brædstrupvej 64 7160 Tørring,64,57000.0,16-01-2008,Alm.,351,7,Villa,162,1910,
+Søndre Fælledvej 30 7160 Tørring,30,537090.0,14-01-2008,Alm.,3836,5,Stuehus,140,1965,
+Nordre Fælledvej 17 7160 Tørring,17,3000000.0,14-01-2008,Alm.,7731,10,Stuehus,388,2010,
+Ølholm Bygade 46 7160 Tørring,46,450000.0,12-01-2008,Alm.,2647,4,Villa,170,2012,
+Spurvevej 18 7160 Tørring,18,1300000.0,11-01-2008,Alm.,11607,4,Villa,112,1989,-7 %
+Torvegade 155 7160 Tørring,155,6800000.0,09-01-2008,Alm.,25660,9,Villa,265,2001,
+Rejsenhusvej 1 7160 Tørring,1,1639820.0,17-12-2007,Alm.,9938,6,Stuehus,165,1991,
+Brædstrupvej 41 7160 Tørring,41,1050000.0,03-12-2007,Alm.,11290,4,Villa,93,1949,
+Guldagervænget 34 7160 Tørring,34,338505.0,01-12-2007,Alm.,1979,6,Villa,171,2008,
+"Vejlevej 1C, 1 7160 Tørring",1,540000.0,22-11-2007,Alm.,5744,3,Lejlighed,94,1902,-9 %
+Hørsholmvej 22 7160 Tørring,22,1519000.0,22-11-2007,Alm.,15500,6,Villa,98,1902,
+Vibevej 1 7160 Tørring,1,1100000.0,21-11-2007,Alm.,9090,4,Villa,121,1966,-8 %
+Brædstrupvej 35 7160 Tørring,35,570000.0,20-11-2007,Alm.,6263,2,Villa,91,1920,-5 %
+Gudenåvænget 6 7160 Tørring,6,3400000.0,16-11-2007,Alm.,12781,7,Villa,266,2006,-3 %
+Sønderbrogade 47A 7160 Tørring,0,1400000.0,16-11-2007,Alm.,12500,3,Villa,112,2008,
+Grønlund 30 7160 Tørring,30,418680.0,15-11-2007,Alm.,1812,7,Villa,231,2009,0 %
+Mattrupvej 24 7160 Tørring,24,1665000.0,14-11-2007,Alm.,10811,6,Villa,154,1900,
+Rolighedsvej 8 7160 Tørring,8,1595000.0,09-11-2007,Alm.,8861,6,Villa,180,1900,0 %
+Aale Bygade 23 7160 Tørring,23,325000.0,07-11-2007,Andet,2389,3,Villa,136,1770,-19 %
+J P Nielsens Vej 4 7160 Tørring,4,462500.0,06-11-2007,Alm.,5854,3,Villa,79,1961,
+Krambovej 3 7160 Tørring,3,675000.0,24-10-2007,Alm.,6553,4,Villa,103,1920,-3 %
+Sønderbrogade 40 7160 Tørring,40,560000.0,19-10-2007,Alm.,3835,4,Villa,146,1987,
+Stations Alle 4 7160 Tørring,4,1025000.0,09-10-2007,Alm.,10353,5,Villa,99,1922,
+Viggo Pejsens Vej 3 7160 Tørring,3,1100000.0,01-10-2007,Alm.,6470,5,Villa,170,1971,
+Vibevej 25 7160 Tørring,25,1680000.0,01-10-2007,Alm.,9710,6,Villa,173,1968,-4 %
+Rogårdsvej 1E 7160 Tørring,0,985000.0,24-09-2007,Alm.,11321,3,Rækkehus,87,2001,0 %
+Hjortsvang Fælledvej 5 7160 Tørring,5,2025000.0,19-09-2007,Alm.,12816,6,Stuehus,158,1877,0 %
+Viborgvej 34 7160 Tørring,34,1500000.0,11-09-2007,Alm.,11111,5,Villa,135,1971,
+Vibevej 30 7160 Tørring,30,2125000.0,07-09-2007,Alm.,11184,7,Villa,190,1967,-6 %
+Slårupvej 8 7160 Tørring,8,1765000.0,27-08-2007,Alm.,12883,5,Villa,137,1971,
+Vestergårdsvej 3 7160 Tørring,3,2595000.0,23-08-2007,Alm.,0,16,Villa,501,1886,0 %
+Vibevej 33 7160 Tørring,33,980000.0,21-08-2007,Alm.,9074,6,Villa,108,1967,-11 %
+Sønderbrogade 82 7160 Tørring,82,1285000.0,20-08-2007,Alm.,9884,4,Villa,130,1974,-3 %
+Skolevej 22 7160 Tørring,22,1185000.0,14-08-2007,Alm.,10772,4,Villa,110,1965,-5 %
+Vibevej 31 7160 Tørring,31,800000.0,01-08-2007,Fam.,8333,4,Villa,96,1967,
+Spurvevej 40 7160 Tørring,40,1425000.0,01-08-2007,Alm.,11309,5,Villa,126,1993,
+Vibevej 41 7160 Tørring,41,1306000.0,15-07-2007,Alm.,10883,4,Villa,120,1976,1 %
+Grønlund 32 7160 Tørring,32,410000.0,13-07-2007,Alm.,2679,5,Villa,153,2008,
+Stenagervej 13 7160 Tørring,13,667500.0,08-07-2007,Andet,3240,6,Villa,206,1877,
+Bredgade 53 7160 Tørring,53,1295000.0,06-07-2007,Alm.,10277,5,Villa,126,1896,-4 %
+Logslundvej 3 7160 Tørring,3,2600000.0,03-07-2007,Alm.,12440,9,Villa,209,1953,
+Ølholm Bygade 44 7160 Tørring,44,250000.0,30-06-2007,Fam.,1282,6,Villa,195,2007,
+Ølholm Bygade 48 7160 Tørring,48,250000.0,30-06-2007,Fam.,1096,9,Villa,228,2008,
+Solfang 30 7160 Tørring,30,1050000.0,30-06-2007,Alm.,9545,3,Villa,110,1964,-8 %
+Grønlund 26 7160 Tørring,26,413100.0,29-06-2007,Alm.,2581,5,Villa,160,2008,0 %
+Sønderbrogade 64 7160 Tørring,64,950000.0,29-06-2007,Alm.,8189,4,Villa,116,1935,-2 %
+Solvej 10 7160 Tørring,10,830000.0,27-06-2007,Alm.,8058,4,Villa,103,1943,-2 %
+J P Nielsens Vej 13 7160 Tørring,13,1200000.0,27-06-2007,Alm.,19354,2,Villa,62,1955,
+Raskvej 3 7160 Tørring,3,960000.0,27-06-2007,Alm.,9320,4,Villa,103,1910,
+Møllevej 5 7160 Tørring,5,620000.0,26-06-2007,Alm.,8611,3,Villa,72,1900,0 %
+Brædstrupvej 29 7160 Tørring,29,303375.0,26-06-2007,Alm.,3840,3,Villa,79,1900,
+Viborgvej 24A 7160 Tørring,0,356650.0,23-06-2007,Alm.,2377,4,Villa,150,2011,
+Ølholm Bygade 11 7160 Tørring,11,850000.0,22-06-2007,Alm.,5944,6,Villa,143,1935,-8 %
+Stenagervej 10 7160 Tørring,10,1675000.0,18-06-2007,Alm.,12407,4,Villa,135,1866,
+Landsflod 4 7160 Tørring,4,575000.0,18-06-2007,Alm.,3042,5,Villa,189,1963,
+Vejlevej 10 7160 Tørring,10,1075000.0,16-06-2007,Alm.,12215,3,Villa,88,1971,0 %
+Torvegade 92 7160 Tørring,92,1000000.0,05-06-2007,Andet,5319,5,Villa,188,2008,
+Holmdalsvej 20 7160 Tørring,20,782637.0,29-05-2007,Fam.,5217,4,Villa,150,1900,
+Østergade 18 7160 Tørring,18,950000.0,10-05-2007,Alm.,8636,3,Villa,110,1955,0 %
+Sønderbrogade 94 7160 Tørring,94,825000.0,10-05-2007,Alm.,12890,3,Villa,64,1950,0 %
+Tørringvej 70 7160 Tørring,70,750000.0,02-05-2007,Alm.,4870,6,Villa,154,1912,
+Skolehaven 4 7160 Tørring,4,875000.0,23-04-2007,Alm.,9510,3,Villa,92,1986,
+Grønnevej 31 7160 Tørring,31,1029703.0,16-04-2007,Alm.,9446,4,Villa,109,1968,-6 %
+Grønlund 6 7160 Tørring,6,460000.0,16-04-2007,Alm.,2967,5,Villa,155,2007,
+Bredgade 7 7160 Tørring,7,650000.0,04-04-2007,Fam.,4642,5,Rækkehus,140,1896,
+Ådalvej 50 7160 Tørring,50,500000.0,02-04-2007,Andet,3378,6,Stuehus,148,1912,
+Vejlevej 22 7160 Tørring,22,1200000.0,12-03-2007,Alm.,7361,7,Villa,163,1940,-20 %
+Grønnevej 2 7160 Tørring,2,1550000.0,06-03-2007,Alm.,12704,6,Villa,122,1960,
+Guldagervænget 38 7160 Tørring,38,312745.0,05-03-2007,Alm.,1992,4,Villa,157,2007,
+Grønlund 36 7160 Tørring,36,310000.0,27-02-2007,Alm.,1542,6,Villa,201,2007,
+Vongevej 25 7160 Tørring,25,1895000.0,26-02-2007,Alm.,9334,6,Villa,203,1977,
+Grønnevej 24 7160 Tørring,24,1050000.0,23-02-2007,Fam.,9051,4,Villa,116,1958,
+Ølholm Bygade 26 7160 Tørring,26,700000.0,14-02-2007,Alm.,4666,4,Villa,150,1900,
+Liselundvej 8 7160 Tørring,8,2512300.0,09-02-2007,Alm.,15900,7,Villa,158,1877,
+Nørremarksvej 5 7160 Tørring,5,1325000.0,08-02-2007,Alm.,7658,3,Villa,173,1910,
+Dådyrvej 8 7160 Tørring,8,1325000.0,30-01-2007,Alm.,10515,5,Villa,126,1985,-4 %
+Fousingvej 10 7160 Tørring,10,1650000.0,30-01-2007,Alm.,8250,7,Villa,200,1850,
+Østergårdsvej 1 7160 Tørring,1,3400000.0,22-01-2007,Alm.,18579,3,Stuehus,183,2000,
+Østervang 18 7160 Tørring,18,1615000.0,18-01-2007,Alm.,11875,5,Villa,136,1985,
+Sikavej 17 7160 Tørring,17,406188.0,02-01-2007,Alm.,2321,5,Villa,175,2008,
+Søndervang 9 7160 Tørring,9,350000.0,01-01-2007,Alm.,2631,3,Villa,133,2007,
+Ølholm Bygade 29 7160 Tørring,29,940000.0,25-12-2006,Alm.,7966,3,Rækkehus,118,1825,
+Nyvej 11 7160 Tørring,11,605000.0,13-12-2006,Alm.,6436,3,Villa,94,1933,
+Solfang 9 7160 Tørring,9,1000000.0,11-12-2006,Alm.,6410,4,Villa,156,1976,
+Sønderbrogade 13 7160 Tørring,13,1025000.0,08-12-2006,Alm.,14436,3,Villa,71,1954,
+Østerkærvej 1 7160 Tørring,1,970502.0,06-12-2006,Alm.,0,6,Villa,213,1924,
+Københavnervej 4 7160 Tørring,4,300498.0,06-12-2006,Alm.,1437,7,Stuehus,209,1870,
+Dybdalvej 10 7160 Tørring,10,2400000.0,24-11-2006,Alm.,11374,7,Villa,211,1922,
+Købmagergade 5 7160 Tørring,5,800000.0,22-11-2006,Alm.,0,3,Villa,122,1939,
+Mattrupvej 21 7160 Tørring,21,200000.0,06-11-2006,Alm.,2564,3,Villa,78,1928,
+Svinget 15 7160 Tørring,15,395250.0,06-11-2006,Fam.,3239,9,Villa,122,1970,
+Aagade 19 7160 Tørring,19,750000.0,06-11-2006,Alm.,4601,6,Rækkehus,163,1929,
+Møllevej 2 7160 Tørring,2,575000.0,06-11-2006,Alm.,9126,3,Villa,63,1880,
+Alstedvej 3 7160 Tørring,3,800000.0,06-11-2006,Alm.,0,3,Villa,95,1917,
+Solvej 3 7160 Tørring,3,1270000.0,04-11-2006,Alm.,10583,3,Villa,120,1940,
+Vejlevej 61 7160 Tørring,61,1200000.0,31-10-2006,Alm.,11214,4,Villa,107,1956,
+Hjortsvang Kærvej 6 7160 Tørring,6,1625000.0,26-10-2006,Alm.,9908,6,Stuehus,164,1897,
+Aalevej 23 7160 Tørring,23,975000.0,16-10-2006,Alm.,7926,4,Villa,123,1958,
+Solfang 20 7160 Tørring,20,1200000.0,13-10-2006,Alm.,9677,3,Villa,124,1918,
+Borgergade 12 7160 Tørring,12,1145000.0,03-10-2006,Alm.,8178,4,Villa,140,1973,
+Brædstrupvej 45 7160 Tørring,45,1200000.0,02-10-2006,Alm.,7643,5,Villa,157,1880,
+Østervang 19 7160 Tørring,19,1645000.0,27-09-2006,Alm.,11114,4,Villa,148,1988,
+Møllevej 1 7160 Tørring,1,735000.0,24-09-2006,Alm.,6125,3,Villa,120,1900,
+Abildtoft 3 7160 Tørring,3,1395000.0,15-09-2006,Alm.,8664,4,Villa,161,1977,
+Skovhussvinget 12 7160 Tørring,12,670000.0,13-09-2006,Alm.,6203,3,Villa,108,1890,
+Viborg Hovedvej 77 7160 Tørring,77,2700000.0,06-09-2006,Fam.,14210,8,Stuehus,190,1903,
+Søndervang 18 7160 Tørring,18,750000.0,04-09-2006,Alm.,8522,4,Villa,88,1964,
+Sikavej 25 7160 Tørring,25,457988.0,30-08-2006,Alm.,2758,3,Villa,166,2007,
+Sikavej 29 7160 Tørring,29,524628.0,30-08-2006,Alm.,2732,7,Villa,192,2007,
+Sikavej 27 7160 Tørring,27,469028.0,30-08-2006,Alm.,3500,4,Villa,134,2007,
+Fousingvej 6 7160 Tørring,6,1860000.0,23-08-2006,Alm.,7265,8,Villa,256,1986,
+Gudenåvænget 2 7160 Tørring,2,374757.0,15-08-2006,Alm.,2998,4,Villa,125,2007,
+Gudenåvænget 18 7160 Tørring,18,432117.0,15-08-2006,Alm.,3086,6,Villa,140,2007,
+Abildtoft 7 7160 Tørring,7,1410000.0,13-08-2006,Alm.,8057,5,Villa,175,1975,
+Vongevej 32 7160 Tørring,32,1200000.0,11-08-2006,Alm.,9448,6,Villa,127,1970,
+Seren P Hansens Vej 2 7160 Tørring,2,1100000.0,08-08-2006,Alm.,7096,6,Villa,155,1913,
+Bygade 12 7160 Tørring,12,885000.0,07-08-2006,Alm.,6232,6,Villa,142,1912,
+Hans Jensens Vej 11 7160 Tørring,11,815000.0,27-07-2006,Alm.,6791,4,Rækkehus,120,1918,
+Omannsvej 3 7160 Tørring,3,535628.0,24-07-2006,Alm.,0,6,Villa,150,1977,
+Grønlund 24 7160 Tørring,24,218000.0,23-07-2006,Alm.,1524,6,Villa,143,2007,
+Bækvej 15 7160 Tørring,15,1000000.0,19-07-2006,Fam.,5649,9,Villa,177,1969,
+Hvolgårdsvej 32 7160 Tørring,32,6760880.0,11-07-2006,Alm.,45681,5,Stuehus,148,1902,
+Nyborgvej 10 7160 Tørring,10,852400.0,11-07-2006,Alm.,0,10,Stuehus,424,1980,
+Sikavej 5 7160 Tørring,5,2400000.0,23-06-2006,Alm.,14457,6,Villa,166,2001,
+Gudenåvænget 8 7160 Tørring,8,418797.0,22-06-2006,Alm.,2301,6,Villa,182,2007,
+Bygade 2 7160 Tørring,2,785000.0,21-06-2006,Alm.,5489,6,Villa,143,1904,
+Uldumvej 3 7160 Tørring,3,865000.0,19-06-2006,Alm.,9829,3,Villa,88,1966,
+Torvegade 123E 7160 Tørring,0,272175.0,12-06-2006,Alm.,1395,6,Villa,195,2009,
+Stougårds Alle 2 7160 Tørring,2,905000.0,01-06-2006,Alm.,0,7,Villa,145,1968,
+Solfang 19 7160 Tørring,19,1495000.0,29-05-2006,Alm.,11074,4,Villa,135,1971,
+Fousingvej 8 7160 Tørring,8,1159487.0,12-05-2006,Alm.,6102,8,Stuehus,190,1826,
+Gudenåvænget 16 7160 Tørring,16,383277.0,27-04-2006,Alm.,3017,3,Villa,127,2009,
+Guldagervænget 36 7160 Tørring,36,316385.0,26-04-2006,Alm.,1861,5,Villa,170,2006,
+Hjortsvangvej 12 7160 Tørring,12,1235000.0,25-04-2006,Alm.,6333,5,Villa,195,1890,
+Østervang 2 7160 Tørring,2,1450000.0,21-04-2006,Alm.,8285,7,Villa,175,1978,
+Sønderbrogade 49 7160 Tørring,49,1260000.0,18-04-2006,Alm.,8129,5,Villa,155,1973,
+Søndre Fælledvej 25 7160 Tørring,25,2600000.0,05-04-2006,Alm.,0,5,Villa,242,1932,
+Vejlevej 73 7160 Tørring,73,775000.0,27-03-2006,Alm.,5272,6,Villa,147,1942,
+Svalevej 12 7160 Tørring,12,1004375.0,27-03-2006,Alm.,8369,4,Villa,120,1972,
+Solfang 14 7160 Tørring,14,950000.0,27-03-2006,Fam.,9047,4,Villa,105,1920,
+Postvej 6 7160 Tørring,6,266068.0,27-03-2006,Andet,2660,4,Rækkehus,100,1902,
+J P Nielsens Vej 25A 7160 Tørring,0,1175000.0,18-03-2006,Alm.,10491,4,Villa,112,1992,
+Aagade 7 7160 Tørring,7,500000.0,09-03-2006,Alm.,4504,5,Villa,111,1907,
+Viborgvej 9 7160 Tørring,9,1758000.0,27-02-2006,Alm.,6278,6,Villa,280,1899,
+Kyndesens Eng 3 7160 Tørring,3,240000.0,22-02-2006,Alm.,1311,6,Villa,183,2007,
+Guldagervænget 40 7160 Tørring,40,407665.0,21-02-2006,Alm.,2264,6,Villa,180,2006,
+Abildtoft 14 7160 Tørring,14,1060000.0,17-02-2006,Alm.,6973,5,Villa,152,1973,
+Hammer Møllevej 11 7160 Tørring,11,3150000.0,14-02-2006,Alm.,0,7,Sommerhus,248,1920,
+Bredgade 44A 7160 Tørring,0,1400000.0,09-02-2006,Alm.,11111,6,Villa,126,1999,
+Byvang 6 7160 Tørring,6,1600000.0,09-02-2006,Alm.,10126,5,Villa,158,1973,
+Alsted Møllevej 8 7160 Tørring,8,3041902.0,06-02-2006,Fam.,12674,8,Stuehus,240,1856,
+Vongevej 36 7160 Tørring,36,1075000.0,03-02-2006,Alm.,8669,5,Villa,124,1966,
+Hammervej 23 7160 Tørring,23,330000.0,01-02-2006,Alm.,2869,4,Villa,115,1906,
+Rønne Alle 3 7160 Tørring,3,1690000.0,20-01-2006,Alm.,9234,6,Villa,183,1980,
+Overbygård 8 7160 Tørring,8,1550000.0,19-01-2006,Alm.,12109,4,Villa,128,1988,
+Vibevej 36 7160 Tørring,36,1060000.0,18-01-2006,Alm.,6883,5,Villa,154,1969,
+Aagade 23A 7160 Tørring,0,1470000.0,16-01-2006,Alm.,10888,4,Villa,135,2004,
+Vejlevej 42 7160 Tørring,42,1015000.0,11-01-2006,Alm.,7463,5,Villa,136,1968,
+Solfang 24 7160 Tørring,24,475000.0,06-01-2006,Alm.,3958,3,Rækkehus,120,1920,
+Kirkestien 2 7160 Tørring,2,785000.0,30-12-2005,Alm.,7621,4,Villa,103,1930,
+Vongevej 13 7160 Tørring,13,725000.0,22-12-2005,Alm.,8055,4,Villa,90,1940,
+Bækvej 7 7160 Tørring,7,1000000.0,12-12-2005,Fam.,6711,6,Villa,149,1825,
+Møllevej 28 7160 Tørring,28,565000.0,12-12-2005,Auktion,4829,5,Villa,117,1943,
+Grønlund 10 7160 Tørring,10,274000.0,08-12-2005,Alm.,1826,5,Villa,150,2007,
+Sikavej 4 7160 Tørring,4,399435.0,24-11-2005,Alm.,2593,6,Villa,154,2006,
+Pile Alle 3 7160 Tørring,3,1700000.0,20-11-2005,Alm.,10897,6,Villa,156,2001,
+Tværvejen 2 7160 Tørring,2,735000.0,18-11-2005,Alm.,9671,7,Villa,76,1938,
+Borgergade 49 7160 Tørring,49,990000.0,07-11-2005,Alm.,6265,6,Villa,158,1944,
+Aagade 15 7160 Tørring,15,685000.0,04-11-2005,Alm.,5708,4,Villa,120,1934,
+Skolevej 43 7160 Tørring,43,1150000.0,04-11-2005,Alm.,10000,3,Villa,115,1972,
+Guldagervænget 26 7160 Tørring,26,470105.0,03-11-2005,Alm.,1858,8,Villa,253,2007,
+Gudenåvænget 14 7160 Tørring,14,529557.0,03-11-2005,Alm.,2068,6,Villa,256,2007,
+Gudenåvænget 10 7160 Tørring,10,377637.0,03-11-2005,Alm.,1936,5,Villa,195,2010,
+Gudenåvænget 12 7160 Tørring,12,453717.0,03-11-2005,Alm.,2534,6,Villa,179,2007,
+Aalevej 3 7160 Tørring,3,1025000.0,23-10-2005,Alm.,9669,3,Villa,106,1949,
+Viborg Hovedvej 119 7160 Tørring,119,1775000.0,20-10-2005,Alm.,9342,5,Stuehus,190,1974,
+Nyvej 3 7160 Tørring,3,575000.0,19-10-2005,Alm.,6250,4,Villa,92,1934,
+Sønderkærvej 10 7160 Tørring,10,2060000.0,17-10-2005,Alm.,0,6,Villa,238,1908,
+Askevej 3 7160 Tørring,3,134565.0,14-10-2005,Alm.,909,5,Villa,148,2008,
+Sønderbrogade 44 7160 Tørring,44,675000.0,12-10-2005,Alm.,7500,3,Villa,90,1920,
+Østergade 19 7160 Tørring,19,780000.0,07-10-2005,Alm.,5492,8,Villa,142,1962,
+Borgergade 32 7160 Tørring,32,825000.0,27-09-2005,Alm.,5892,6,Villa,140,1912,
+Stougårds Alle 7 7160 Tørring,7,689000.0,21-09-2005,Andet,3765,5,Villa,183,1969,
+Hagevej 5 7160 Tørring,5,925000.0,21-09-2005,Alm.,0,8,Villa,163,1910,
+Stougårds Alle 11 7160 Tørring,11,810000.0,16-09-2005,Alm.,5225,7,Villa,155,1970,
+Slårupvej 16 7160 Tørring,16,1050000.0,14-09-2005,Alm.,6287,5,Villa,167,1979,
+Stations Alle 3 7160 Tørring,3,90000.0,31-08-2005,Alm.,1125,2,Villa,80,2007,
+Kyndesens Eng 1 7160 Tørring,1,250000.0,30-08-2005,Alm.,2032,4,Villa,123,2009,
+Stenagervej 12 7160 Tørring,12,860000.0,30-08-2005,Alm.,5931,4,Villa,145,1900,
+Alsted Skovvej 8 7160 Tørring,8,760000.0,24-08-2005,Alm.,5671,6,Villa,134,1875,
+Borgergade 27 7160 Tørring,27,900000.0,23-08-2005,Alm.,3333,5,Villa,270,1942,
+Stougårds Alle 9 7160 Tørring,9,1100000.0,22-08-2005,Alm.,5851,5,Villa,188,1970,
+Skovhussvinget 6 7160 Tørring,6,775000.0,19-08-2005,Alm.,6054,6,Villa,128,1910,
+Omannsvej 4 7160 Tørring,4,935000.0,18-08-2005,Alm.,6151,5,Villa,152,1974,
+Askevej 9 7160 Tørring,9,130145.0,18-08-2005,Alm.,667,5,Villa,195,2007,
+Solvej 1 7160 Tørring,1,765000.0,15-08-2005,Alm.,5000,3,Villa,153,1946,
+Bækvej 18 7160 Tørring,18,578000.0,11-08-2005,Fam.,4624,4,Villa,125,1975,
+Bredgade 3 7160 Tørring,3,620000.0,03-08-2005,Alm.,0,4,Villa,126,1895,
+Østergade 12 7160 Tørring,12,875000.0,03-08-2005,Alm.,6679,4,Villa,131,1954,
+Banevænget 3 7160 Tørring,3,580000.0,23-07-2005,Alm.,6744,3,Villa,86,1934,
+Nyvej 17 7160 Tørring,17,725000.0,04-07-2005,Alm.,6712,4,Villa,108,1965,
+Vejlevej 46 7160 Tørring,46,409000.0,30-06-2005,Fam.,2840,4,Villa,144,1972,
+Ølholm Bygade 22 7160 Tørring,22,1285000.0,28-06-2005,Alm.,9518,4,Villa,135,1900,
+Guldager 2 7160 Tørring,2,244660.0,22-06-2005,Alm.,1382,7,Villa,177,2006,
+Bygade 20 7160 Tørring,20,1295000.0,18-06-2005,Alm.,9055,6,Villa,143,1922,
+Søndervang 19 7160 Tørring,19,1230000.0,17-06-2005,Alm.,7068,6,Villa,174,1972,
+Rogårdsvej 5 7160 Tørring,5,825000.0,07-06-2005,Alm.,4768,4,Villa,173,1925,
+Dådyrvej 10 7160 Tørring,10,1350000.0,06-06-2005,Alm.,0,5,Villa,143,1985,
+Byvang 5 7160 Tørring,5,1530000.0,06-06-2005,Alm.,7927,7,Villa,193,1973,
+Sikavej 8 7160 Tørring,8,378645.0,02-06-2005,Alm.,2267,6,Villa,167,2006,
+Nordre Fælledvej 15 7160 Tørring,15,748000.0,29-05-2005,Fam.,5342,5,Villa,140,1974,
+Østermarksvej 8 7160 Tørring,8,4481431.0,23-05-2005,Alm.,21340,7,Stuehus,210,1907,
+Søndervang 1 7160 Tørring,1,1225000.0,23-05-2005,Alm.,8333,6,Villa,147,1980,
+Bjerggårdsvej 7 7160 Tørring,7,1360000.0,18-05-2005,Alm.,8774,4,Villa,155,1942,
+Kandborgvej 5 7160 Tørring,5,1657000.0,13-05-2005,Fam.,0,6,Stuehus,196,1980,
+Aagade 6 7160 Tørring,6,875000.0,11-05-2005,Alm.,9210,3,Rækkehus,95,1988,
+Vongevej 11 7160 Tørring,11,810000.0,03-05-2005,Alm.,6136,5,Villa,132,1930,
+Borgergade 61 7160 Tørring,61,534498.0,03-05-2005,Andet,3493,6,Villa,153,1969,
+Sikavej 14 7160 Tørring,14,401489.0,25-04-2005,Alm.,2607,6,Villa,154,2005,
+Bækvej 25 7160 Tørring,25,343250.0,21-04-2005,Andet,2542,3,Villa,135,1915,
+Hørsholmvej 2A 7160 Tørring,0,975000.0,18-04-2005,Alm.,7500,3,Villa,130,1900,
+Kirkevej 1 7160 Tørring,1,740000.0,01-04-2005,Alm.,7115,6,Villa,104,1927,
+Aale Bygade 41 7160 Tørring,41,700000.0,31-03-2005,Alm.,6086,5,Villa,115,1947,
+Sikavej 2 7160 Tørring,2,352393.0,30-03-2005,Alm.,2244,6,Villa,157,2005,
+Grønlund 18 7160 Tørring,18,279000.0,24-03-2005,Alm.,2097,5,Villa,133,2006,
+Brædstrupvej 68 7160 Tørring,68,1250000.0,23-03-2005,Alm.,5841,6,Villa,214,1890,
+Rådyrvej 6 7160 Tørring,6,970000.0,23-03-2005,Alm.,7760,4,Villa,125,1980,
+Borgergade 1 7160 Tørring,1,1100000.0,18-03-2005,Alm.,8208,4,Villa,134,1827,
+Hammervej 8 7160 Tørring,8,48000.0,15-03-2005,Alm.,266,6,Villa,180,1900,
+J P Nielsens Vej 8 7160 Tørring,8,875000.0,15-03-2005,Alm.,0,6,Villa,139,1962,
+Brædstrupvej 43 7160 Tørring,43,690000.0,14-03-2005,Alm.,5847,3,Villa,118,1964,
+Skolestien 6 7160 Tørring,6,1451000.0,07-03-2005,Alm.,8016,6,Villa,181,1941,
+Uldumvej 17 7160 Tørring,17,1600000.0,07-03-2005,Alm.,0,7,Villa,264,1924,
+Grønlund 12 7160 Tørring,12,294000.0,06-03-2005,Alm.,2210,5,Villa,133,2006,
+Tingvejen 11 7160 Tørring,11,1700000.0,01-03-2005,Alm.,0,6,Stuehus,186,1900,
+Aale Bygade 5 7160 Tørring,5,380000.0,28-02-2005,Alm.,5135,4,Villa,74,1961,
+Solfang 6 7160 Tørring,6,940000.0,28-02-2005,Alm.,8173,3,Villa,115,1950,
+Sønderkærvej 16 7160 Tørring,16,1650000.0,28-02-2005,Alm.,5140,6,Villa,321,1916,
+Uldumvej 28 7160 Tørring,28,625000.0,25-02-2005,Alm.,3255,5,Stuehus,192,1890,
+Vongevej 6 7160 Tørring,6,965000.0,24-02-2005,Alm.,8041,5,Villa,120,1907,
+Brædstrupvej 33 7160 Tørring,33,525000.0,11-02-2005,Alm.,5198,4,Villa,101,1906,
+Sikavej 3 7160 Tørring,3,321750.0,10-02-2005,Alm.,2533,4,Villa,127,2006,
+Rønne Alle 1 7160 Tørring,1,900000.0,06-02-2005,Alm.,7563,4,Villa,119,1980,
+Solfang 36 7160 Tørring,36,1455000.0,03-02-2005,Alm.,7311,7,Villa,199,1976,
+Askevej 10 7160 Tørring,10,100625.0,01-02-2005,Alm.,653,6,Villa,154,2005,
+Aalevej 51 7160 Tørring,51,990000.0,31-01-2005,Alm.,0,8,Stuehus,258,1910,
+Askevej 18 7160 Tørring,18,1975000.0,31-01-2005,Alm.,9587,5,Villa,206,2001,
+Borgergade 41 7160 Tørring,41,880000.0,25-01-2005,Alm.,6376,4,Villa,138,1913,
+Skolestien 1 7160 Tørring,1,995000.0,09-01-2005,Alm.,8024,3,Villa,124,1943,
+Hjortsvangvej 19A 7160 Tørring,0,1395000.0,07-01-2005,Alm.,8063,7,Villa,173,1978,
+Østergade 7 7160 Tørring,7,600000.0,23-12-2004,Alm.,6818,3,Villa,88,1902,
+Skovhussvinget 14 7160 Tørring,14,7281000.0,22-12-2004,Alm.,47279,4,Stuehus,154,1998,
+Kodamvej 3 7160 Tørring,3,525000.0,18-12-2004,Alm.,2692,9,Stuehus,195,1872,
+Torvegade 49 7160 Tørring,49,290000.0,08-12-2004,Alm.,2301,5,Villa,126,1979,
+Grønlund 20 7160 Tørring,20,260000.0,08-12-2004,Alm.,1656,7,Villa,157,2005,
+Aale Bygade 43 7160 Tørring,43,595000.0,07-12-2004,Alm.,6611,4,Villa,90,1964,
+Sikavej 10 7160 Tørring,10,304912.0,19-11-2004,Alm.,1954,6,Villa,156,2005,
+Sønderbrogade 86 7160 Tørring,86,925000.0,08-11-2004,Alm.,11708,3,Villa,79,1972,
+J P Nielsens Vej 1B 7160 Tørring,0,225000.0,01-11-2004,Alm.,1800,3,Villa,125,2005,
+Raskvej 1 7160 Tørring,1,625000.0,13-10-2004,Alm.,4528,4,Villa,138,1934,
+Svinget 27 7160 Tørring,27,850000.0,30-08-2004,Alm.,5120,6,Villa,166,1966,
+Skovvej 7 7160 Tørring,7,765000.0,20-08-2004,Alm.,5464,5,Villa,140,1920,
+Vestergårdsvej 4 7160 Tørring,4,100000.0,13-08-2004,Alm.,645,7,Stuehus,155,1900,
+Østervang 4 7160 Tørring,4,1100000.0,30-07-2004,Alm.,5092,10,Villa,216,1976,
+Østergade 13 7160 Tørring,13,725000.0,30-07-2004,Alm.,6415,4,Villa,113,1956,
+Nyvej 14 7160 Tørring,14,980000.0,07-07-2004,Alm.,6363,5,Villa,154,1980,
+Hjortevej 6 7160 Tørring,6,927500.0,03-05-2004,Alm.,6266,5,Villa,148,1976,
+Tværvejen 4 7160 Tørring,4,650000.0,03-05-2004,Alm.,0,6,Villa,249,1870,
+Sønderbrogade 41 7160 Tørring,41,450000.0,20-04-2004,Alm.,5357,4,Villa,84,1933,
+Hagevej 9 7160 Tørring,9,460000.0,29-03-2004,Alm.,3565,3,Villa,129,1900,
+Bøgevej 2 7160 Tørring,2,750000.0,28-03-2004,Alm.,5244,3,Villa,143,1976,
+Rosavej 8 7160 Tørring,8,923000.0,26-03-2004,Alm.,7100,5,Villa,130,1977,
+Hagevej 7 7160 Tørring,7,545000.0,26-03-2004,Alm.,3096,6,Villa,176,1900,
+Bredgade 23A 7160 Tørring,0,875000.0,25-03-2004,Alm.,5833,8,Villa,150,1988,
+Pogensvej 2 7160 Tørring,2,930000.0,11-03-2004,Alm.,6241,4,Villa,149,1930,
+Fousingvej 2 7160 Tørring,2,550000.0,05-03-2004,Alm.,5500,2,Villa,100,1950,
+Smalålevej 5 7160 Tørring,5,1275000.0,04-03-2004,Fam.,7589,7,Stuehus,168,1906,
+Torvegade 99 7160 Tørring,99,2000000.0,01-03-2004,Alm.,14814,6,Villa,135,1989,
+Dådyrvej 11 7160 Tørring,11,800000.0,12-02-2004,Alm.,5882,5,Villa,136,1975,
+Firhøjvej 8 7160 Tørring,8,1070000.0,01-02-2004,Alm.,3203,6,Stuehus,334,1898,
+Aagade 32 7160 Tørring,32,1067277.0,30-01-2004,Alm.,10672,5,Villa,100,1955,
+Torvegade 78C 7160 Tørring,0,195000.0,28-01-2004,Alm.,1300,6,Villa,150,2004,
+Viborgvej 32 7160 Tørring,32,800000.0,26-01-2004,Fam.,8333,3,Villa,96,1966,
+Firhøjvej 4 7160 Tørring,4,42500.0,20-01-2004,Alm.,379,3,Villa,112,1909,
+Brædstrupvej 57 7160 Tørring,57,102875.0,16-01-2004,Alm.,902,3,Stuehus,114,1930,
+Sønderkærvej 18 7160 Tørring,18,1700000.0,16-01-2004,Alm.,0,6,Villa,177,1868,
+Elsdyrvej 20 7160 Tørring,20,700000.0,04-01-2004,Alm.,4320,6,Villa,162,1976,
+Vejlevej 29 7160 Tørring,29,867500.0,19-12-2003,Alm.,5421,6,Villa,160,1966,
+Stenagervej 8 7160 Tørring,8,1110744.0,11-12-2003,Alm.,5696,6,Villa,195,1935,
+Rogårdsvej 6 7160 Tørring,6,200000.0,05-12-2003,Alm.,3571,2,Villa,56,1947,
+Vongevej 26 7160 Tørring,26,781000.0,27-11-2003,Alm.,7810,4,Villa,100,1966,
+Københavnervej 3 7160 Tørring,3,283333.0,14-11-2003,Andet,1115,8,Villa,254,1920,
+Kandborgvej 9 7160 Tørring,9,976000.0,29-10-2003,Alm.,8066,5,Villa,121,1986,
+Lydiavej 6 7160 Tørring,6,910000.0,08-10-2003,Alm.,5321,6,Villa,171,1973,
+Spurvevej 27 7160 Tørring,27,910575.0,04-10-2003,Alm.,8130,4,Villa,112,1997,
+Damgårdsvej 8 7160 Tørring,8,445000.0,02-10-2003,Alm.,3677,4,Villa,121,1946,
+Hjortsvangvej 3 7160 Tørring,3,544000.0,30-09-2003,Fam.,0,6,Villa,146,1850,
+Vejlevej 90 7160 Tørring,90,585000.0,12-09-2003,Alm.,3145,8,Villa,186,1902,
+Hammer Møllevej 4 7160 Tørring,4,1145000.0,05-09-2003,Alm.,7435,7,Villa,154,1921,
+Brædstrupvej 61 7160 Tørring,61,375000.0,01-09-2003,Alm.,1659,6,Villa,226,1892,
+Skovhussvinget 2 7160 Tørring,2,1500000.0,14-08-2003,Alm.,10000,4,Villa,150,1931,
+Vejlevej 75 7160 Tørring,75,660000.0,16-07-2003,Alm.,6168,4,Villa,107,1942,
+Firhøjvej 3 7160 Tørring,3,8003279.0,15-07-2003,Fam.,30781,7,Stuehus,260,1978,
+Bjerggårdsvej 3 7160 Tørring,3,525000.0,07-07-2003,Alm.,4646,4,Villa,113,1949,
+Nørremarksvej 2 7160 Tørring,2,715000.0,27-06-2003,Alm.,4181,6,Villa,171,1875,
+Sikavej 15 7160 Tørring,15,289025.0,25-06-2003,Alm.,1623,7,Villa,178,2004,
+Sønderbrogade 25 7160 Tørring,25,400000.0,24-06-2003,Alm.,2702,6,Rækkehus,148,1911,
+Aalevej 58 7160 Tørring,58,588794.0,15-06-2003,Andet,2117,10,Villa,278,1886,
+Sønderbrogade 70 7160 Tørring,70,595000.0,04-06-2003,Alm.,7531,3,Villa,79,1945,
+Nyvej 8 7160 Tørring,8,650000.0,02-06-2003,Alm.,5555,4,Villa,117,1934,
+Spurvevej 13 7160 Tørring,13,1340000.0,02-06-2003,Alm.,8933,5,Villa,150,1988,
+Abildtoft 8 7160 Tørring,8,750000.0,28-05-2003,Alm.,5813,4,Villa,129,1975,
+Torvegade 57 7160 Tørring,57,1550000.0,22-05-2003,Alm.,9064,6,Villa,171,2004,
+Uldumvej 20 7160 Tørring,20,400000.0,19-05-2003,Alm.,4000,5,Villa,100,1906,
+Ølholm Bygade 18 7160 Tørring,18,750000.0,07-05-2003,Alm.,3112,9,Stuehus,241,1870,
+Pile Alle 1 7160 Tørring,1,181050.0,01-05-2003,Alm.,1275,6,Villa,142,2004,
+Hjortevej 15 7160 Tørring,15,1025000.0,25-04-2003,Alm.,8541,4,Villa,120,1977,
+Spurvevej 16 7160 Tørring,16,1350000.0,15-04-2003,Fam.,9121,5,Villa,148,1996,
+Vidtskuevej 4 7160 Tørring,4,348500.0,31-03-2003,Alm.,2489,4,Villa,140,1775,
+Slårupvej 3 7160 Tørring,3,900000.0,31-03-2003,Auktion,3600,8,Villa,250,1968,
+Købmagergade 3 7160 Tørring,3,730000.0,18-03-2003,Alm.,5447,4,Villa,134,1935,
+Elsdyrvej 1 7160 Tørring,1,980000.0,04-03-2003,Alm.,7424,3,Villa,132,1974,
+Banevænget 5 7160 Tørring,5,1030744.0,27-02-2003,Alm.,0,9,Villa,179,1894,
+Hørsholmvej 18 7160 Tørring,18,1217000.0,26-02-2003,Alm.,8692,5,Villa,140,1908,
+Rosavej 17B 7160 Tørring,0,725000.0,07-02-2003,Alm.,9797,3,Rækkehus,74,1984,
+Bredgade 55 7160 Tørring,55,1400000.0,05-02-2003,Alm.,4761,8,Villa,294,1910,
+Koutrupvej 12 7160 Tørring,12,504196.0,04-02-2003,Fam.,3074,5,Villa,164,1923,
+Skolevej 82 7160 Tørring,82,1350000.0,27-01-2003,Alm.,7258,6,Villa,186,1965,
+Aalevej 52 7160 Tørring,52,465000.0,15-01-2003,Alm.,1929,6,Stuehus,241,1900,
+Bredgade 2 7160 Tørring,2,557500.0,10-12-2002,Fam.,3982,8,Rækkehus,140,1907,
+Kandborgvej 12 7160 Tørring,12,800000.0,10-12-2002,Alm.,3755,8,Villa,213,1850,
+Hjortevej 13 7160 Tørring,13,960000.0,03-12-2002,Alm.,7384,4,Villa,130,1977,
+"Vejlevej 1E, 2 7160 Tørring",2,340000.0,26-11-2002,Alm.,5230,2,Lejlighed,65,1902,
+Skolevej 62 7160 Tørring,62,895000.0,21-11-2002,Alm.,7103,4,Villa,126,1974,
+Nyvej 4 7160 Tørring,4,1230000.0,18-11-2002,Alm.,0,6,Villa,217,1978,
+Østergårdsvej 9 7160 Tørring,9,650000.0,06-11-2002,Fam.,3140,5,Villa,207,1921,
+Nyvej 6 7160 Tørring,6,350000.0,23-10-2002,Alm.,0,7,Villa,184,1950,
+Pile Alle 7 7160 Tørring,7,1390255.0,26-09-2002,Alm.,9654,6,Villa,144,1999,
+Uldumvej 24 7160 Tørring,24,715000.0,18-09-2002,Alm.,7150,5,Villa,100,1890,
+Rosavej 7B 7160 Tørring,0,561000.0,12-09-2002,Fam.,5843,4,Rækkehus,96,1984,
+Hvolgårdsvej 22 7160 Tørring,22,1325000.0,10-09-2002,Alm.,7886,6,Villa,168,1933,
+Guldager 12 7160 Tørring,12,253240.0,09-09-2002,Alm.,1312,8,Villa,193,2003,
+Bygade 5 7160 Tørring,5,495000.0,06-09-2002,Alm.,6111,4,Villa,81,1850,
+Nyborgvej 7 7160 Tørring,7,40550.0,03-09-2002,Alm.,125,8,Stuehus,322,1834,
+Byvang 1 7160 Tørring,1,890000.0,03-09-2002,Alm.,7355,3,Villa,121,1974,
+Postvej 11 7160 Tørring,11,520000.0,16-08-2002,Alm.,5200,4,Villa,100,1905,
+Logslundvej 8 7160 Tørring,8,950000.0,13-08-2002,Alm.,5397,5,Villa,176,1827,
+Skolevej 7 7160 Tørring,7,694550.0,29-07-2002,Alm.,4539,5,Villa,153,1949,
+Spurvevej 42 7160 Tørring,42,1169505.0,28-06-2002,Alm.,9136,6,Villa,128,1991,
+Brædstrupvej 66 7160 Tørring,66,750000.0,15-06-2002,Alm.,4076,6,Villa,184,1916,
+Vejlevej 9 7160 Tørring,9,964000.0,28-05-2002,Alm.,7194,6,Villa,134,1936,
+Solfang 11 7160 Tørring,11,552500.0,28-05-2002,Fam.,5470,3,Villa,101,1963,
+Kyndesens Eng 6 7160 Tørring,6,225000.0,27-05-2002,Alm.,1331,6,Villa,169,2005,
+Mosevej 1 7160 Tørring,1,115000.0,15-05-2002,Alm.,642,5,Stuehus,179,1915,
+Sikavej 11 7160 Tørring,11,308000.0,07-05-2002,Alm.,2248,5,Villa,137,2002,
+Møllevej 12 7160 Tørring,12,330000.0,03-05-2002,Fam.,5409,3,Rækkehus,61,1900,
+Ådalvej 52 7160 Tørring,52,1055000.0,24-04-2002,Alm.,0,4,Villa,211,1928,
+Slårupvej 11 7160 Tørring,11,1225000.0,24-04-2002,Alm.,8221,6,Villa,149,1976,
+Aagade 18 7160 Tørring,18,527307.0,17-04-2002,Alm.,5992,3,Villa,88,1900,
+Askevej 14 7160 Tørring,14,65625.0,04-04-2002,Alm.,482,4,Villa,136,2003,
+Ølholm Bygade 66 7160 Tørring,66,570000.0,03-04-2002,Alm.,6951,3,Villa,82,1963,
+Elmevej 12 7160 Tørring,12,685000.0,26-03-2002,Alm.,5708,4,Villa,120,1970,
+Østergade 11 7160 Tørring,11,1350000.0,21-03-2002,Alm.,6250,6,Villa,216,1937,
+Hørsholmvej 20 7160 Tørring,20,205000.0,20-03-2002,Alm.,836,7,Villa,245,2004,
+Østergårdsvej 6 7160 Tørring,6,550000.0,12-03-2002,Fam.,2925,5,Villa,188,1921,
+Sønderbrogade 73 7160 Tørring,73,475000.0,20-02-2002,Alm.,4611,5,Villa,103,1950,
+Rådyrvej 15 7160 Tørring,15,1200000.0,24-01-2002,Alm.,5020,6,Villa,239,1974,
+Spurvevej 12 7160 Tørring,12,1350607.0,14-01-2002,Alm.,9064,5,Villa,149,1997,
+Vejlevej 2 7160 Tørring,2,971628.0,10-01-2002,Alm.,6794,4,Villa,143,1909,
+Krambovej 5 7160 Tørring,5,465000.0,28-12-2001,Fam.,0,3,Villa,80,1930,
+Hjortevej 3 7160 Tørring,3,1057000.0,14-12-2001,Alm.,7550,5,Villa,140,1980,
+Elmevej 8 7160 Tørring,8,695000.0,10-12-2001,Alm.,5743,4,Villa,121,1974,
+Bygade 1 7160 Tørring,1,1016250.0,19-11-2001,Alm.,5908,6,Villa,172,1935,
+Gudenåvej 3 7160 Tørring,3,1376000.0,12-11-2001,Alm.,6712,6,Villa,205,1988,
+Linnerupvej 6 7160 Tørring,6,400000.0,02-11-2001,Alm.,5000,4,Villa,80,1900,
+Mosevej 5 7160 Tørring,5,2600000.0,24-10-2001,Alm.,13402,7,Stuehus,194,1900,
+Østermarksvej 12 7160 Tørring,12,1914385.0,12-10-2001,Alm.,16087,4,Stuehus,119,1800,
+Vibevej 19 7160 Tørring,19,570000.0,07-09-2001,Alm.,5588,3,Villa,102,1969,
+Skolehaven 9 7160 Tørring,9,670000.0,06-09-2001,Alm.,3350,5,Villa,200,1977,
+Ege Alle 1 7160 Tørring,1,1225000.0,04-09-2001,Alm.,7753,6,Villa,158,1998,
+Ølholm Bygade 36 7160 Tørring,36,80000.0,17-08-2001,Alm.,571,5,Villa,140,1800,
+Guldager 8 7160 Tørring,8,240760.0,13-08-2001,Alm.,1605,6,Villa,150,2002,
+Hammervej 4 7160 Tørring,4,300000.0,06-08-2001,Alm.,0,6,Villa,180,1900,
+Borgergade 38 7160 Tørring,38,579040.0,13-07-2001,Alm.,7932,3,Rækkehus,73,1983,
+Hvolgårdsvej 26 7160 Tørring,26,513104.0,29-06-2001,Alm.,4240,5,Villa,121,1920,
+Torvegade 79 7160 Tørring,79,1400000.0,27-06-2001,Alm.,8641,5,Villa,162,1985,
+Vongevej 7 7160 Tørring,7,500000.0,22-06-2001,Alm.,4132,5,Villa,121,1919,
+Rosavej 22 7160 Tørring,22,975000.0,18-06-2001,Alm.,8552,4,Villa,114,1977,
+Vongevej 19 7160 Tørring,19,887497.0,14-06-2001,Alm.,5652,7,Villa,157,1969,
+Ådalvej 48 7160 Tørring,48,1300608.0,11-06-2001,Alm.,5419,7,Villa,240,1840,
+Hvolgårdsvej 24 7160 Tørring,24,975000.0,11-06-2001,Alm.,0,6,Villa,172,1933,
+Askevej 21 7160 Tørring,21,812000.0,29-05-2001,Alm.,0,4,Villa,225,1989,
+Sønderkærvej 6 7160 Tørring,6,318750.0,28-05-2001,Fam.,2490,3,Villa,128,1928,
+Rosavej 30 7160 Tørring,30,840000.0,19-05-2001,Alm.,7500,5,Villa,112,1977,
+Svinget 2 7160 Tørring,2,1075000.0,16-05-2001,Alm.,4820,6,Villa,223,1947,
+Hjortsvang Kærvej 14 7160 Tørring,14,1250657.0,10-05-2001,Alm.,8933,4,Villa,140,1907,
+Vesterbyvej 14 7160 Tørring,14,440000.0,17-04-2001,Alm.,2189,6,Villa,201,1913,
+Bygade 3 7160 Tørring,3,707416.0,11-04-2001,Alm.,5126,5,Villa,138,1917,
+Skovhussvinget 16 7160 Tørring,16,350000.0,05-04-2001,Alm.,0,7,Villa,205,1875,
+Rogårdsvej 2 7160 Tørring,2,1150000.0,04-04-2001,Alm.,6725,7,Villa,171,1925,
+Borgergade 14 7160 Tørring,14,1045000.0,04-04-2001,Alm.,0,7,Villa,194,1976,
+Fælledvej 6 7160 Tørring,6,212500.0,02-04-2001,Alm.,1931,6,Villa,110,1960,
+Ølholm Bygade 47 7160 Tørring,47,725000.0,25-03-2001,Alm.,0,6,Villa,157,1910,
+Mejsevej 2 7160 Tørring,2,755724.0,18-03-2001,Alm.,7266,4,Villa,104,1968,
+Slårupvej 2 7160 Tørring,2,1295000.0,02-03-2001,Alm.,6744,6,Villa,192,1980,
+Solfang 28 7160 Tørring,28,755000.0,22-02-2001,Alm.,0,3,Villa,231,1931,
+Ege Alle 4 7160 Tørring,4,835000.0,20-02-2001,Alm.,7455,4,Villa,112,1987,
+Brædstrupvej 62 7160 Tørring,62,426384.0,15-02-2001,Alm.,1799,5,Villa,237,2001,
+Banevej 6 7160 Tørring,6,1600000.0,05-02-2001,Alm.,0,8,Villa,162,1977,
+Vidtskuevej 3 7160 Tørring,3,295000.0,05-02-2001,Alm.,1676,6,Villa,176,1910,
+Koutrupvej 10 7160 Tørring,10,450000.0,03-02-2001,Alm.,0,3,Villa,180,1926,
+Møllevej 22 7160 Tørring,22,666701.0,02-02-2001,Alm.,4273,7,Villa,156,1887,
+Borgergade 45 7160 Tørring,45,811253.0,27-01-2001,Alm.,3670,7,Villa,221,1906,
+Vidtskuevej 5 7160 Tørring,5,868000.0,20-01-2001,Alm.,5358,6,Villa,162,1910,
+Spurvevej 24 7160 Tørring,24,156000.0,10-01-2001,Alm.,975,6,Villa,160,2001,
+Raskvej 17 7160 Tørring,17,545570.0,05-01-2001,Alm.,4744,4,Villa,115,1924,
+Præstevej 6 7160 Tørring,6,513271.0,18-12-2000,Alm.,2673,6,Villa,192,1837,
+"Vejlevej 1B, ST 7160 Tørring",0,447812.0,29-11-2000,Alm.,4763,3,Lejlighed,94,1902,
+Kirkevej 9 7160 Tørring,9,1050000.0,27-11-2000,Alm.,7777,5,Villa,135,1967,
+Viborgvej 24 7160 Tørring,24,938572.0,22-11-2000,Alm.,4764,8,Villa,197,1927,
+Nordre Fælledvej 9 7160 Tørring,9,900000.0,10-11-2000,Alm.,10714,3,Villa,84,1900,
+Sønderbrogade 24 7160 Tørring,24,1107922.0,23-10-2000,Alm.,7747,6,Villa,143,1920,
+Rønne Alle 2 7160 Tørring,2,570000.0,04-10-2000,Alm.,5377,4,Villa,106,1965,
+Omannsvej 13 7160 Tørring,13,700001.0,28-09-2000,Alm.,0,5,Villa,137,1980,
+Teglværksvej 7 7160 Tørring,7,450000.0,27-09-2000,Fam.,4411,4,Villa,102,1949,
+Askevej 20 7160 Tørring,20,131480.0,22-09-2000,Alm.,0,8,Villa,267,2001,
+Borgergade 51 7160 Tørring,51,575000.0,19-09-2000,Alm.,5637,3,Villa,102,1947,
+Pile Alle 2 7160 Tørring,2,154350.0,29-08-2000,Alm.,0,8,Villa,189,2001,
+Skolevej 21 7160 Tørring,21,775000.0,17-08-2000,Alm.,5419,5,Villa,143,1968,
+Vestergårdsvej 1 7160 Tørring,1,670000.0,10-08-2000,Alm.,4322,5,Villa,155,1905,
+Aale Bygade 31 7160 Tørring,31,575000.0,31-07-2000,Alm.,2457,8,Villa,234,1904,
+Bygade 19 7160 Tørring,19,1118157.0,12-07-2000,Alm.,5675,5,Villa,197,1880,
+Aagade 13 7160 Tørring,13,750000.0,14-06-2000,Andet,3846,7,Villa,195,1912,
+Spurvevej 17 7160 Tørring,17,725000.0,12-06-2000,Fam.,4447,6,Villa,163,1998,
+Overbygård 51 7160 Tørring,51,1025735.0,08-06-2000,Alm.,8140,5,Villa,126,1986,
+Elmevej 10 7160 Tørring,10,784508.0,07-06-2000,Alm.,4903,5,Villa,160,1972,
+Liselundvej 5 7160 Tørring,5,100000.0,31-05-2000,Alm.,591,4,Stuehus,169,1900,
+Skolevej 10 7160 Tørring,10,282186.0,15-05-2000,Alm.,0,4,Villa,98,1946,
+Viggo Pejsens Vej 10 7160 Tørring,10,1100000.0,14-04-2000,Alm.,5882,5,Villa,187,1974,
+Kandborgvej 13 7160 Tørring,13,8480000.0,12-04-2000,Alm.,40189,7,Stuehus,211,1938,
+Solvej 8 7160 Tørring,8,724058.0,11-02-2000,Alm.,6704,3,Villa,108,1967,
+Mattrupvej 28 7160 Tørring,28,1150000.0,06-02-2000,Alm.,0,9,Stuehus,219,1904,
+Bjerggårdsvej 17 7160 Tørring,17,100000.0,05-02-2000,Alm.,359,9,Stuehus,278,1937,
+Solfang 32 7160 Tørring,32,763000.0,01-02-2000,Alm.,7064,4,Villa,108,1967,
+Skolevej 15 7160 Tørring,15,602000.0,18-12-1999,Alm.,0,4,Villa,190,1957,
+Raskvej 6 7160 Tørring,6,533444.0,17-12-1999,Fam.,4135,7,Villa,129,1926,
+Bygade 32 7160 Tørring,32,523185.0,09-12-1999,Alm.,5338,4,Villa,98,1917,
+Elsdyrvej 2 7160 Tørring,2,1125000.0,26-11-1999,Alm.,5921,9,Villa,190,1973,
+Smalålevej 7 7160 Tørring,7,965000.0,26-11-1999,Alm.,0,8,Villa,171,1905,
+Aale Bygade 8 7160 Tørring,8,600000.0,18-11-1999,Fam.,4285,4,Villa,140,1867,
+Bækvej 21 7160 Tørring,21,406965.0,26-10-1999,Alm.,0,4,Villa,96,1963,
+Østergårdsvej 4 7160 Tørring,4,1650000.0,25-10-1999,Alm.,7971,6,Villa,207,1924,
+Viborg Hovedvej 104 7160 Tørring,104,341642.0,11-10-1999,Alm.,0,4,Villa,88,1948,
+Spurvevej 21 7160 Tørring,21,70600.0,01-09-1999,Andet,0,6,Villa,197,2000,
+Tværvejen 8 7160 Tørring,8,195500.0,30-08-1999,Fam.,3910,2,Villa,50,1948,
+Østervang 14 7160 Tørring,14,800000.0,23-08-1999,Fam.,5882,5,Villa,136,1975,
+Aalevej 35 7160 Tørring,35,1025897.0,06-08-1999,Alm.,0,4,Villa,141,1985,
+"Sønderbrogade 18, 1 7160 Tørring",1,536791.0,04-08-1999,Alm.,0,2,Lejlighed,73,1900,
+Bredgade 4 7160 Tørring,4,1275000.0,28-07-1999,Alm.,15937,4,Rækkehus,80,1896,
+Grønnevej 26 7160 Tørring,26,623000.0,19-07-1999,Alm.,0,7,Villa,176,1956,
+Grønnevej 28 7160 Tørring,28,650000.0,19-07-1999,Alm.,7222,4,Villa,90,1960,
+Fousingvej 3 7160 Tørring,3,928000.0,08-07-1999,Alm.,7365,4,Villa,126,1859,
+Borgergade 20 7160 Tørring,20,479860.0,03-07-1999,Alm.,2231,6,Villa,215,1917,
+Elsdyrvej 14 7160 Tørring,14,1228000.0,30-06-1999,Alm.,0,5,Villa,216,1976,
+Borgergade 30 7160 Tørring,30,606188.0,02-06-1999,Alm.,5137,4,Villa,118,1880,
+Spurvevej 38 7160 Tørring,38,61200.0,27-05-1999,Alm.,408,6,Villa,150,1999,
+Gudenåvej 14 7160 Tørring,14,172840.0,26-05-1999,Alm.,929,6,Villa,186,2000,
+Grønnevej 25 7160 Tørring,25,90000.0,19-05-1999,Alm.,604,6,Villa,149,1999,
+Grønnevej 30 7160 Tørring,30,855000.0,18-05-1999,Alm.,7125,6,Villa,120,1969,
+Solfang 18 7160 Tørring,18,896523.0,18-05-1999,Alm.,5400,4,Villa,166,1918,
+Lindbjergvej 10 7160 Tørring,10,380000.0,17-05-1999,Alm.,4222,3,Villa,90,1850,
+Hjortevej 1 7160 Tørring,1,1115000.0,10-05-1999,Alm.,6840,5,Villa,163,1987,
+Dybdalvej 4 7160 Tørring,4,430000.0,03-05-1999,Alm.,3644,6,Villa,118,1930,
+Gudenåvej 16 7160 Tørring,16,176180.0,29-04-1999,Alm.,962,5,Villa,183,2004,
+Bækvej 27 7160 Tørring,27,503201.0,27-04-1999,Alm.,2150,6,Villa,234,1920,
+Aalevej 1 7160 Tørring,1,675250.0,27-04-1999,Alm.,5001,6,Villa,135,1952,
+Vibevej 18 7160 Tørring,18,940000.0,26-04-1999,Fam.,4292,7,Villa,219,1973,
+Sikavej 13 7160 Tørring,13,288750.0,26-03-1999,Alm.,1613,7,Villa,179,2001,
+Uldumvej 15 7160 Tørring,15,894000.0,19-03-1999,Alm.,6208,3,Villa,144,1932,
+Firhøjvej 1 7160 Tørring,1,870000.0,05-03-1999,Alm.,5178,8,Villa,168,1924,
+Sikavej 7 7160 Tørring,7,243100.0,04-03-1999,Alm.,2009,5,Villa,121,1999,
+Vejlevej 14 7160 Tørring,14,810000.0,22-02-1999,Alm.,4450,6,Villa,182,1934,
+Sønderbrogade 46 7160 Tørring,46,657000.0,17-02-1999,Alm.,8212,6,Villa,80,1912,
+Bygade 27 7160 Tørring,27,409000.0,25-01-1999,Alm.,5243,2,Villa,78,1870,
+Rosavej 10 7160 Tørring,10,963000.0,23-01-1999,Alm.,5836,5,Villa,165,1978,
+Brædstrupvej 18 7160 Tørring,18,396691.0,22-01-1999,Andet,2793,6,Stuehus,142,1900,
+Raskvej 16 7160 Tørring,16,470000.0,25-11-1998,Alm.,4947,3,Villa,95,1966,
+Rolighedsvej 2 7160 Tørring,2,820000.0,23-11-1998,Alm.,0,7,Villa,205,1924,
+Hammervej 8A 7160 Tørring,0,37500.0,12-11-1998,Alm.,186,6,Villa,201,2001,
+Ølholm Bygade 40 7160 Tørring,40,665985.0,06-11-1998,Alm.,2821,9,Stuehus,236,1900,
+Sønderbrogade 71 7160 Tørring,71,180000.0,04-11-1998,Alm.,1651,3,Villa,109,1950,
+Alsted Skovvej 5 7160 Tørring,5,3355875.0,19-10-1998,Alm.,0,12,Døgninstitution,378,1982,
+Aale Bygade 39 7160 Tørring,39,615702.0,20-09-1998,Alm.,3998,6,Villa,154,1943,
+Hjortsvangvej 21 7160 Tørring,21,641000.0,14-09-1998,Alm.,4611,6,Villa,139,1867,
+Torvegade 81 7160 Tørring,81,2008000.0,09-09-1998,Alm.,11280,8,Villa,178,1989,
+Stougårds Alle 6 7160 Tørring,6,451000.0,28-08-1998,Fam.,4100,4,Villa,110,1971,
+Østerkærvej 14 7160 Tørring,14,555600.0,27-08-1998,Alm.,6460,3,Stuehus,86,1876,
+J P Nielsens Vej 5 7160 Tørring,5,757445.0,17-08-1998,Alm.,5826,5,Villa,130,1960,
+Østermarksvej 7 7160 Tørring,7,1030000.0,12-08-1998,Alm.,0,7,Stuehus,224,1854,
+Vidtskuevej 2 7160 Tørring,2,462596.0,31-07-1998,Alm.,3003,5,Villa,154,1924,
+Bygade 33 7160 Tørring,33,620000.0,15-07-1998,Alm.,7045,4,Villa,88,1964,
+Teglværksvej 3 7160 Tørring,3,581000.0,30-06-1998,Alm.,5429,4,Villa,107,1900,
+Ådalvej 54 7160 Tørring,54,2233160.0,26-06-1998,Alm.,8723,7,Stuehus,256,1975,
+Gudenåvej 12 7160 Tørring,12,191280.0,03-06-1998,Alm.,1203,6,Villa,159,1999,
+Spurvevej 44 7160 Tørring,44,105840.0,02-06-1998,Alm.,720,5,Villa,147,1998,
+Hjortsvangvej 16 7160 Tørring,16,333000.0,12-05-1998,Alm.,3505,4,Villa,95,1930,
+Solfang 16 7160 Tørring,16,580092.0,07-05-1998,Alm.,0,6,Villa,209,1920,
+Raskvej 14 7160 Tørring,14,341950.0,05-05-1998,Alm.,0,3,Villa,127,1939,
+Ølholm Bygade 25 7160 Tørring,25,344000.0,04-05-1998,Alm.,2625,6,Rækkehus,131,1810,
+Alstedvej 7 7160 Tørring,7,1045000.0,04-05-1998,Alm.,6830,6,Villa,153,1984,
+Kirkevej 24 7160 Tørring,24,960000.0,29-04-1998,Alm.,7500,4,Villa,128,1965,
+Spurvevej 11 7160 Tørring,11,134790.0,28-04-1998,Alm.,802,5,Villa,168,1998,
+Aale Bygade 15 7160 Tørring,15,472000.0,27-04-1998,Alm.,3167,5,Villa,149,1880,
+Nyvej 27 7160 Tørring,27,520000.0,23-04-1998,Alm.,4561,4,Villa,114,1977,
+Sønderbrogade 92 7160 Tørring,92,903500.0,18-04-1998,Alm.,4428,6,Villa,204,1877,
+Spurvevej 6 7160 Tørring,6,101760.0,08-04-1998,Alm.,721,5,Villa,141,1998,
+Bjerggårdsvej 5 7160 Tørring,5,434000.0,02-04-1998,Alm.,0,7,Stuehus,334,1868,
+Hjortsvangvej 5 7160 Tørring,5,907900.0,24-03-1998,Alm.,7092,6,Villa,128,1868,
+Vestervang 1 7160 Tørring,1,865055.0,14-03-1998,Alm.,5509,6,Villa,157,1930,
+Stougårds Alle 5 7160 Tørring,5,710000.0,06-03-1998,Alm.,5071,5,Villa,140,1968,
+Hagevej 17 7160 Tørring,17,600000.0,04-03-1998,Alm.,6976,2,Stuehus,86,1924,
+Rosavej 42 7160 Tørring,42,830000.0,20-02-1998,Alm.,6587,4,Villa,126,1978,
+Uldumvej 10 7160 Tørring,10,382685.0,18-02-1998,Alm.,1449,9,Villa,264,1860,
+Omannsvej 6 7160 Tørring,6,810000.0,05-02-1998,Alm.,7297,4,Villa,111,1985,
+Spurvevej 25 7160 Tørring,25,133800.0,05-02-1998,Alm.,976,6,Villa,137,1998,
+Hjortsvangvej 17 7160 Tørring,17,357500.0,02-02-1998,Alm.,2792,4,Villa,128,1950,
+Viborg Hovedvej 87 7160 Tørring,87,1113000.0,29-01-1998,Alm.,0,7,Villa,240,1939,
+Hammervej 24 7160 Tørring,24,47220.0,26-01-1998,Andet,325,7,Stuehus,145,1902,
+Vesterbyvej 4 7160 Tørring,4,262864.0,24-01-1998,Alm.,1740,4,Villa,151,1968,
+Vejlevej 18 7160 Tørring,18,855000.0,07-01-1998,Alm.,4253,6,Villa,201,1938,
+Aale Bygade 4 7160 Tørring,4,240000.0,29-12-1997,Alm.,4000,2,Villa,60,1850,
+Østergade 16 7160 Tørring,16,650000.0,12-12-1997,Alm.,3532,5,Rækkehus,184,1917,
+Stougårds Alle 3 7160 Tørring,3,630000.0,01-12-1997,Alm.,5250,4,Villa,120,1968,
+Askevej 12 7160 Tørring,12,65625.0,11-11-1997,Alm.,443,6,Villa,148,1998,
+Vejlevej 69 7160 Tørring,69,625000.0,27-10-1997,Alm.,3810,6,Villa,164,1942,
+Engvej 11 7160 Tørring,11,1079836.0,06-10-1997,Alm.,5868,5,Villa,184,1963,
+Melhedevej 19 7160 Tørring,19,445000.0,02-10-1997,Alm.,4198,5,Villa,106,1964,
+Vejlevej 92 7160 Tørring,92,452000.0,22-09-1997,Alm.,2378,8,Villa,190,1934,
+Viborg Hovedvej 79 7160 Tørring,79,110000.0,12-09-1997,Alm.,738,6,Stuehus,149,1931,
+Ølholm Bygade 43 7160 Tørring,43,520000.0,11-09-1997,Alm.,2905,7,Villa,179,1912,
+Koutrupvej 8 7160 Tørring,8,607500.0,05-09-1997,Alm.,2838,5,Villa,214,1900,
+Hammervej 14 7160 Tørring,14,490312.0,26-08-1997,Alm.,4903,5,Villa,100,1937,
+Spurvevej 7 7160 Tørring,7,121320.0,21-08-1997,Alm.,666,7,Villa,182,1998,
+Bygade 38 7160 Tørring,38,390227.0,13-08-1997,Alm.,3335,6,Villa,117,1877,
+Marievej 1 7160 Tørring,1,735000.0,11-08-1997,Alm.,5485,5,Villa,134,1974,
+Spurvevej 30 7160 Tørring,30,123720.0,01-08-1997,Alm.,808,4,Villa,153,1998,
+Hjortsvangvej 20 7160 Tørring,20,1150000.0,21-07-1997,Alm.,0,6,Stuehus,159,1900,
+Gudenåvej 15 7160 Tørring,15,849900.0,19-07-1997,Alm.,4999,6,Villa,170,1979,
+Svinget 25 7160 Tørring,25,216500.0,11-07-1997,Alm.,2706,2,Villa,80,1947,
+Viborg Hovedvej 93 7160 Tørring,93,66780.0,02-07-1997,Alm.,309,7,Stuehus,216,1970,
+Bredgade 5 7160 Tørring,5,425000.0,16-06-1997,Alm.,3794,5,Rækkehus,112,1900,
+Aale Bygade 9 7160 Tørring,9,1137000.0,06-06-1997,Fam.,8679,6,Stuehus,131,1822,
+Bygade 37 7160 Tørring,37,816000.0,04-06-1997,Alm.,0,8,Villa,227,1911,
+Grønnevej 6 7160 Tørring,6,690000.0,29-05-1997,Alm.,6160,4,Villa,112,1961,
+Spurvevej 28 7160 Tørring,28,175500.0,13-05-1997,Alm.,1063,6,Villa,165,1997,
+Birke Alle 2 7160 Tørring,2,617000.0,01-05-1997,Alm.,4032,6,Villa,153,1974,
+Krambovej 1 7160 Tørring,1,307000.0,15-04-1997,Alm.,3231,4,Villa,95,1966,
+Koutrupvej 11 7160 Tørring,11,902700.0,14-04-1997,Alm.,4605,3,Stuehus,196,1949,
+Lydiavej 3 7160 Tørring,3,787375.0,09-04-1997,Alm.,0,4,Villa,153,1974,
+Lindbjergvej 6 7160 Tørring,6,790000.0,29-03-1997,Alm.,3726,4,Villa,212,1937,
+Spurvevej 15 7160 Tørring,15,975000.0,24-03-1997,Alm.,6914,5,Villa,141,1989,
+Viggo Pejsens Vej 14 7160 Tørring,14,142800.0,24-02-1997,Alm.,952,6,Villa,150,1997,
+Nordre Fælledvej 8 7160 Tørring,8,90000.0,20-02-1997,Alm.,422,6,Villa,213,1996,
+Møllevej 32 7160 Tørring,32,496000.0,18-02-1997,Alm.,0,4,Villa,137,1929,
+Vibevej 39 7160 Tørring,39,725000.0,11-02-1997,Alm.,5330,5,Villa,136,1972,
+Aale Bygade 26 7160 Tørring,26,375000.0,08-02-1997,Alm.,3440,6,Villa,109,1949,
+Rosavej 45A 7160 Tørring,0,430000.0,27-01-1997,Alm.,5810,3,Rækkehus,74,1983,
+Aalevej 25 7160 Tørring,25,366000.0,21-01-1997,Fam.,4066,3,Villa,90,1965,
+Tørringvej 53 7160 Tørring,53,3770000.0,30-12-1996,Alm.,34272,4,Stuehus,110,1934,
+Rolighedsvej 4 7160 Tørring,4,714000.0,21-12-1996,Alm.,4080,6,Villa,175,1930,
+Vestervang 2 7160 Tørring,2,460917.0,09-12-1996,Alm.,0,5,Villa,178,1934,
+J P Nielsens Vej 16 7160 Tørring,16,514000.0,20-11-1996,Alm.,6192,4,Villa,83,1964,
+Vestervang 4 7160 Tørring,4,598800.0,18-11-1996,Alm.,4435,3,Villa,135,1970,
+Jordemodervej 1 7160 Tørring,1,1332000.0,04-11-1996,Alm.,5064,10,Villa,263,1982,
+Sønderbrogade 39 7160 Tørring,39,391000.0,04-11-1996,Fam.,4443,4,Villa,88,1951,
+Mosevej 10 7160 Tørring,10,1922100.0,23-10-1996,Alm.,15376,6,Stuehus,125,1977,
+Melhedevej 15 7160 Tørring,15,399000.0,08-10-1996,Alm.,0,4,Villa,107,1954,
+Hvolgårdsvej 36 7160 Tørring,36,574274.0,16-09-1996,Alm.,5521,4,Stuehus,104,1898,
+Smalålevej 4 7160 Tørring,4,1000000.0,16-09-1996,Fam.,7042,6,Stuehus,142,1910,
+Østerkærvej 4 7160 Tørring,4,420000.0,02-09-1996,Alm.,0,8,Villa,195,1947,
+Mosevej 17 7160 Tørring,17,795000.0,30-08-1996,Alm.,0,8,Stuehus,323,1908,
+Rogårdsvej 4 7160 Tørring,4,295000.0,29-08-1996,Alm.,3554,4,Villa,83,1927,
+Nørremarksvej 11 7160 Tørring,11,450000.0,28-08-1996,Alm.,3383,2,Villa,133,1930,
+Ølholm Bygade 28 7160 Tørring,28,768626.0,23-08-1996,Alm.,0,6,Villa,156,1914,
+Sønderbrogade 60 7160 Tørring,60,375000.0,19-08-1996,Alm.,4166,3,Villa,90,1940,
+Holmdalsvej 17 7160 Tørring,17,1210600.0,18-08-1996,Alm.,0,10,Stuehus,248,1900,
+Bøgevej 1 7160 Tørring,1,466391.0,16-08-1996,Fam.,3986,4,Villa,117,1976,
+Møllevej 30 7160 Tørring,30,264000.0,16-08-1996,Fam.,2869,3,Villa,92,1938,
+Købmagergade 4 7160 Tørring,4,640000.0,14-08-1996,Fam.,0,4,Villa,128,1959,
+J P Nielsens Vej 31 7160 Tørring,31,300000.0,30-07-1996,Alm.,0,5,Villa,115,1956,
+Vibevej 20 7160 Tørring,20,370000.0,28-07-1996,Alm.,3425,3,Villa,108,1968,
+Præstevænget 12 7160 Tørring,12,450000.0,17-07-1996,Alm.,3913,4,Villa,115,1970,
+Hagevej 10 7160 Tørring,10,19800.0,15-07-1996,Alm.,660,1,Sommerhus,30,1950,
+Rogårdsvej 2A 7160 Tørring,0,28000.0,15-07-1996,Alm.,237,4,Villa,118,2010,
+Kandborgvej 10 7160 Tørring,10,1125000.0,08-07-1996,Alm.,0,6,Villa,240,1908,
+Bygade 36 7160 Tørring,36,500000.0,06-07-1996,Alm.,0,8,Villa,240,1880,
+Hjortsvangvej 15 7160 Tørring,15,688000.0,02-07-1996,Alm.,0,4,Villa,173,1973,
+Vibevej 23 7160 Tørring,23,682309.0,24-06-1996,Alm.,0,6,Villa,145,1971,
+Spurvevej 8 7160 Tørring,8,170000.0,19-06-1996,Alm.,894,7,Villa,190,1997,
+Sønderbrogade 76 7160 Tørring,76,486000.0,14-06-1996,Alm.,0,6,Villa,149,1967,
+Østerkærvej 3 7160 Tørring,3,460000.0,10-06-1996,Alm.,2658,4,Villa,173,1920,
+Ege Alle 7 7160 Tørring,7,118320.0,03-06-1996,Alm.,739,5,Villa,160,1996,
+Aalevej 43 7160 Tørring,43,487000.0,30-05-1996,Alm.,6763,2,Villa,72,1958,
+Møllevej 20 7160 Tørring,20,525000.0,18-05-1996,Alm.,1329,6,Villa,395,1928,
+Borgergade 25 7160 Tørring,25,493600.0,06-05-1996,Alm.,2253,8,Villa,219,1858,
+Hans Jensens Vej 13 7160 Tørring,13,790000.0,01-05-1996,Alm.,5448,4,Rækkehus,145,1912,
+Spurvevej 10 7160 Tørring,10,100000.0,29-04-1996,Alm.,704,6,Villa,142,1996,
+Skolevej 4 7160 Tørring,4,509000.0,24-04-1996,Alm.,0,7,Villa,213,1942,
+Rådyrvej 4 7160 Tørring,4,710000.0,19-04-1996,Auktion,0,5,Villa,157,1981,
+Nørre Snedevej 145 7160 Tørring,145,552000.0,02-04-1996,Fam.,5520,4,Stuehus,100,1905,
+Hjortsvang Fælledvej 9 7160 Tørring,9,924000.0,28-03-1996,Alm.,4143,7,Stuehus,223,2008,
+Aale Bygade 24 7160 Tørring,24,300000.0,12-03-1996,Alm.,2857,4,Villa,105,1890,
+Østermarksvej 10A 7160 Tørring,0,870000.0,11-03-1996,Alm.,0,9,Villa,183,1906,
+Vongevej 14 7160 Tørring,14,314916.0,19-02-1996,Alm.,3704,3,Villa,85,1958,
+Vesterbyvej 3 7160 Tørring,3,430000.0,07-02-1996,Alm.,2402,4,Villa,179,1880,
+Viggo Pejsens Vej 11 7160 Tørring,11,914000.0,29-01-1996,Alm.,4994,6,Villa,183,1972,
+Aale Bygade 14 7160 Tørring,14,660000.0,09-11-1995,Fam.,2640,6,Villa,250,1908,
+Uldumvej 4 7160 Tørring,4,450000.0,31-10-1995,Alm.,2884,7,Villa,156,1924,
+Kirkestien 4 7160 Tørring,4,300000.0,06-10-1995,Fam.,2222,4,Villa,135,1930,
+Spurvevej 22 7160 Tørring,22,719500.0,06-10-1995,Alm.,0,5,Villa,154,1989,
+"Bredgade 24, 1 7160 Tørring",1,265000.0,06-09-1995,Alm.,0,3,Lejlighed,80,1891,
+Bækvej 8 7160 Tørring,8,900000.0,04-09-1995,Alm.,4838,7,Stuehus,186,1931,
+Dybdalvej 8 7160 Tørring,8,48000.0,18-08-1995,Alm.,252,6,Villa,190,1998,
+Torvegade 123 7160 Tørring,123,150000.0,10-08-1995,Alm.,438,9,Villa,342,2006,
+Ildvedvej 6 7160 Tørring,6,2400000.0,09-08-1995,Alm.,11881,6,Stuehus,202,1836,
+Sønderkærvej 2 7160 Tørring,2,765000.0,26-07-1995,Alm.,0,11,Villa,326,1973,
+Bredgade 51 7160 Tørring,51,552000.0,07-07-1995,Alm.,3942,5,Rækkehus,140,1907,
+Hjortevej 16 7160 Tørring,16,905000.0,07-07-1995,Alm.,5621,6,Villa,161,1984,
+Vejlevej 20 7160 Tørring,20,490000.0,05-07-1995,Alm.,0,5,Villa,126,1934,
+Borgergade 6 7160 Tørring,6,406000.0,05-07-1995,Alm.,3383,4,Villa,120,1918,
+Hørsholmvej 2 7160 Tørring,2,680000.0,30-06-1995,Alm.,4857,8,Villa,140,1870,
+Rosavej 26 7160 Tørring,26,508000.0,28-06-1995,Alm.,5404,4,Villa,94,1978,
+Sønderbrogade 84 7160 Tørring,84,315000.0,24-06-1995,Alm.,3500,3,Villa,90,1951,
+Østergårdsvej 10 7160 Tørring,10,750000.0,23-06-1995,Fam.,0,6,Stuehus,136,1921,
+Liselundvej 2 7160 Tørring,2,230000.0,20-06-1995,Alm.,2527,4,Villa,91,1900,
+Linnerupvej 7 7160 Tørring,7,1380000.0,19-06-1995,Alm.,12105,5,Villa,114,1920,
+Brædstrupvej 59 7160 Tørring,59,443000.0,13-06-1995,Alm.,0,5,Villa,139,1910,
+Raskvej 21 7160 Tørring,21,280000.0,06-06-1995,Alm.,3333,4,Villa,84,1930,
+Vejlevej 5 7160 Tørring,5,407000.0,22-05-1995,Alm.,2768,5,Villa,147,1930,
+Mosevej 14 7160 Tørring,14,331400.0,01-05-1995,Fam.,0,6,Stuehus,142,1870,
+Bygade 29 7160 Tørring,29,618961.0,24-04-1995,Fam.,2750,9,Villa,225,1909,
+Viborgvej 28 7160 Tørring,28,257000.0,11-04-1995,Alm.,0,5,Villa,185,1930,
+Overbygård 2 7160 Tørring,2,980000.0,31-03-1995,Alm.,6163,5,Villa,159,1990,
+Mattrupvej 19 7160 Tørring,19,399000.0,01-03-1995,Alm.,3950,4,Villa,101,1911,
+Ildvedvej 8 7160 Tørring,8,350000.0,21-02-1995,Alm.,0,7,Villa,173,1941,
+Hans Jensens Vej 3 7160 Tørring,3,585000.0,10-02-1995,Alm.,5176,4,Villa,113,1908,
+Ølholm Bygade 49 7160 Tørring,49,625000.0,30-01-1995,Alm.,2948,7,Villa,212,1900,
+Viborgvej 3 7160 Tørring,3,1000000.0,22-01-1995,Alm.,3333,9,Villa,300,1900,
+Skovhussvinget 7 7160 Tørring,7,33000.0,16-01-1995,Alm.,0,6,Villa,194,1926,
+Tingvejen 9 7160 Tørring,9,2800000.0,04-01-1995,Alm.,16279,5,Stuehus,172,1931,
+Ege Alle 9 7160 Tørring,9,122612.0,14-12-1994,Alm.,0,7,Villa,194,1999,
+Ege Alle 11 7160 Tørring,11,124816.0,02-12-1994,Alm.,0,7,Villa,221,1995,
+Søndervang 3 7160 Tørring,3,405458.0,28-11-1994,Alm.,3685,4,Villa,110,1975,
+Ølholm Bygade 12 7160 Tørring,12,728000.0,15-11-1994,Alm.,2666,5,Villa,273,1907,
+Solvej 5 7160 Tørring,5,605000.0,10-11-1994,Alm.,5127,5,Villa,118,1973,
+Rosavej 41B 7160 Tørring,0,405000.0,08-11-1994,Alm.,5062,3,Rækkehus,80,1988,
+Søndervang 14 7160 Tørring,14,385000.0,31-10-1994,Alm.,0,6,Villa,153,1966,
+Bredgade 54 7160 Tørring,54,550000.0,28-10-1994,Alm.,3437,5,Villa,160,1968,
+Søndervang 12 7160 Tørring,12,575000.0,15-10-1994,Alm.,3833,4,Villa,150,1973,
+Elsdyrvej 12 7160 Tørring,12,765000.0,07-10-1994,Alm.,5666,5,Villa,135,1977,
+Skolevej 19 7160 Tørring,19,525000.0,02-10-1994,Alm.,3431,6,Villa,153,1967,
+Askevej 2 7160 Tørring,2,644864.0,29-09-1994,Alm.,4327,5,Villa,149,1985,
+Melhedevej 11 7160 Tørring,11,390000.0,28-09-1994,Alm.,0,9,Villa,260,1924,
+Teglværksvej 1 7160 Tørring,1,360000.0,16-09-1994,Alm.,3461,3,Villa,104,1930,
+Hjortsvang Fælledvej 3 7160 Tørring,3,555000.0,09-09-1994,Alm.,0,7,Stuehus,177,1988,
+Nordre Fælledvej 4 7160 Tørring,4,510000.0,29-08-1994,Alm.,3445,6,Villa,148,1933,
+Sønderbrogade 32 7160 Tørring,32,365000.0,26-08-1994,Alm.,4147,3,Rækkehus,88,1916,
+Sønderkærvej 17 7160 Tørring,17,512500.0,17-08-1994,Alm.,0,7,Stuehus,177,1870,
+Overbygård 55 7160 Tørring,55,581500.0,23-07-1994,Alm.,0,5,Villa,153,1986,
+Ege Alle 18 7160 Tørring,18,119712.0,14-07-1994,Alm.,604,8,Villa,198,1995,
+Elsdyrvej 5 7160 Tørring,5,570000.0,12-07-1994,Alm.,0,6,Villa,156,1977,
+Tingvejen 2 7160 Tørring,2,400000.0,06-07-1994,Alm.,3960,3,Villa,101,1850,
+Brædstrupvej 22 7160 Tørring,22,690000.0,04-07-1994,Alm.,0,9,Stuehus,232,1909,
+Uhrskovvej 7 7160 Tørring,7,550000.0,18-06-1994,Alm.,0,5,Villa,120,1939,
+Hjortsvang Fælledvej 2 7160 Tørring,2,727000.0,30-05-1994,Alm.,0,10,Villa,390,1900,
+Fousingvej 12 7160 Tørring,12,700000.0,26-05-1994,Alm.,5737,4,Stuehus,122,1885,
+Ege Alle 3 7160 Tørring,3,83520.0,21-05-1994,Alm.,0,5,Villa,142,1994,
+Ege Alle 16 7160 Tørring,16,114144.0,18-05-1994,Alm.,746,6,Villa,153,1994,
+Rådyrvej 5 7160 Tørring,5,642000.0,15-05-1994,Alm.,5631,4,Villa,114,1977,
+Hjortsvang Kærvej 7 7160 Tørring,7,675000.0,07-05-1994,Alm.,4326,9,Stuehus,156,1917,
+Logslundvej 6 7160 Tørring,6,970000.0,05-05-1994,Alm.,7578,5,Stuehus,128,1900,
+Nyvej 20 7160 Tørring,20,669234.0,23-04-1994,Alm.,3397,7,Villa,197,1969,
+Vibevej 10 7160 Tørring,10,271254.0,16-02-1994,Fam.,2223,5,Villa,122,1977,
+Borgergade 63 7160 Tørring,63,398000.0,01-02-1994,Alm.,1604,6,Villa,248,1862,
+Ildvedvej 3 7160 Tørring,3,810000.0,29-01-1994,Alm.,3306,10,Villa,245,1860,
+Aagade 22 7160 Tørring,22,417000.0,28-01-1994,Alm.,3336,5,Villa,125,1944,
+Hvolgårdsvej 34 7160 Tørring,34,475000.0,25-01-1994,Alm.,3958,5,Villa,120,1830,
+Aale Bygade 17 7160 Tørring,17,217889.0,23-11-1993,Alm.,1379,9,Villa,158,1845,
+Viborgvej 5 7160 Tørring,5,99379.0,18-11-1993,Alm.,1116,4,Rækkehus,89,1880,
+Ølholm Kærvej 6 7160 Tørring,6,410000.0,15-11-1993,Alm.,2611,7,Villa,157,1870,
+Rosavej 37 7160 Tørring,37,646000.0,21-10-1993,Alm.,5046,4,Villa,128,1980,
+Birke Alle 5 7160 Tørring,5,350000.0,11-10-1993,Alm.,2611,5,Villa,134,1938,
+Ølholm Bygade 32 7160 Tørring,32,485000.0,21-09-1993,Alm.,3149,5,Villa,154,1908,
+Vejlevej 81 7160 Tørring,81,465000.0,15-09-1993,Alm.,3522,3,Villa,132,1936,
+Vibevej 24 7160 Tørring,24,470000.0,02-09-1993,Alm.,3671,4,Villa,128,1970,
+Hjortsvangvej 19 7160 Tørring,19,530000.0,30-08-1993,Alm.,3136,5,Villa,169,1929,
+Vongevej 40 7160 Tørring,40,531436.0,19-08-1993,Alm.,2460,6,Villa,216,1955,
+Mattrupvej 22 7160 Tørring,22,680000.0,11-08-1993,Fam.,5714,7,Stuehus,119,1887,
+Nordre Fælledvej 19 7160 Tørring,19,85000.0,23-07-1993,Alm.,0,10,Villa,257,1900,
+Aale Bygade 36 7160 Tørring,36,455000.0,12-07-1993,Alm.,3791,3,Villa,120,1914,
+Borgergade 40 7160 Tørring,40,330000.0,03-07-1993,Alm.,942,9,Villa,350,1893,
+Raskvej 2 7160 Tørring,2,315000.0,12-06-1993,Fam.,1387,6,Villa,227,1925,
+Sønderkærvej 15 7160 Tørring,15,390000.0,04-06-1993,Alm.,0,5,Stuehus,175,1924,
+Sønderbrogade 15 7160 Tørring,15,451500.0,24-05-1993,Auktion,3225,4,Villa,140,1953,
+Svinget 31 7160 Tørring,31,470000.0,12-05-1993,Alm.,3507,3,Villa,134,1966,
+Krambovej 7 7160 Tørring,7,375000.0,02-05-1993,Alm.,0,6,Villa,158,1945,
+J P Nielsens Vej 2A 7160 Tørring,0,370000.0,19-04-1993,Alm.,2356,5,Villa,157,1920,
+Hvolgårdsvej 37 7160 Tørring,37,149439.0,15-04-1993,Fam.,774,6,Villa,193,1877,
+Damgårdsvej 7 7160 Tørring,7,160000.0,02-03-1993,Alm.,0,5,Villa,167,1926,
+Aalevej 41 7160 Tørring,41,490000.0,26-01-1993,Alm.,3712,4,Villa,132,1963,
+Østerkærvej 13 7160 Tørring,13,153000.0,12-01-1993,Alm.,1159,4,Villa,132,1927,
+"Vejlevej 1F, 2 7160 Tørring",2,287244.0,04-01-1993,Alm.,4419,2,Lejlighed,65,1902,
+Mattrupvej 15 7160 Tørring,15,1850000.0,02-11-1992,Alm.,0,10,Stuehus,177,1873,
+Mosevej 15 7160 Tørring,15,1000000.0,16-10-1992,Alm.,11363,3,Stuehus,88,1927,
+J P Nielsens Vej 2 7160 Tørring,2,400000.0,02-10-1992,Alm.,0,4,Villa,104,1968,
+Vibevej 15 7160 Tørring,15,460000.0,28-09-1992,Alm.,0,4,Villa,143,1969,
+Borgergade 29 7160 Tørring,29,230000.0,24-08-1992,Alm.,2277,4,Villa,101,1920,
+Haustrupvej 2 7160 Tørring,2,400000.0,10-08-1992,Alm.,3030,4,Villa,132,1927,
+Vongevej 30 7160 Tørring,30,630000.0,03-07-1992,Alm.,3705,6,Villa,170,1900,
+Borgergade 55 7160 Tørring,55,318000.0,29-06-1992,Alm.,0,6,Villa,158,1918,
+Viggo Pejsens Vej 5 7160 Tørring,5,550000.0,06-06-1992,Alm.,3900,4,Villa,141,1969,
+Rosavej 44 7160 Tørring,44,425000.0,03-06-1992,Alm.,3828,4,Villa,111,1978,
+Hjortsvang Kærvej 4 7160 Tørring,4,460000.0,29-05-1992,Alm.,0,5,Villa,140,1907,
+Linnerupvej 13 7160 Tørring,13,565000.0,15-05-1992,Alm.,0,6,Villa,221,1893,
+J P Nielsens Vej 33 7160 Tørring,33,450000.0,28-04-1992,Fam.,2694,6,Villa,167,1965,
+Vejlevej 77 7160 Tørring,77,145000.0,15-04-1992,Alm.,1355,4,Villa,107,1942,
+Elmevej 13 7160 Tørring,13,350000.0,15-04-1992,Alm.,3301,4,Villa,106,1970,
+Jordemodervej 2 7160 Tørring,2,107791.0,16-03-1992,Fam.,637,6,Villa,169,1851,
+Overbygård 53 7160 Tørring,53,965000.0,27-02-1992,Alm.,0,7,Villa,183,1986,
+Vongevej 21 7160 Tørring,21,405000.0,17-02-1992,Alm.,3319,4,Villa,122,1969,
+Skovvej 12 7160 Tørring,12,827000.0,16-02-1992,Fam.,0,7,Villa,199,1941,
+Søndre Fælledvej 12 7160 Tørring,12,605000.0,13-02-1992,Alm.,0,7,Villa,244,1923,

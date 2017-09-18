@@ -1,0 +1,852 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Nybrovej 39 3760 Gudhjem,39,360000.0,22-05-2017,Alm.,1782,5,Villa,202,1877,
+Brøddegade 14. 22 3760 Gudhjem,22,550000.0,11-05-2017,Alm.,9482,2,Sommerhus,58,1900,
+Gudhjem Feriepark 33 3760 Gudhjem,33,645000.0,09-05-2017,Alm.,11944,3,Fritid,54,1977,0 %
+Grevens Dal 8 3760 Gudhjem,8,2445000.0,05-05-2017,Alm.,13583,5,Villa,180,1974,-2 %
+Røvej 52 3760 Gudhjem,52,150000.0,24-04-2017,Alm.,1000,4,Villa,150,1933,-23 %
+Stavsdalvej 12 3760 Gudhjem,12,395000.0,06-04-2017,Alm.,2633,4,Villa,150,1926,0 %
+Melsted Langgade 3 3760 Gudhjem,3,250000.0,06-04-2017,Alm.,4807,3,Sommerhus,52,1937,
+Gamlevældevej 10 3760 Gudhjem,10,425000.0,29-03-2017,Fam.,3079,4,Villa,138,1898,
+Gudhjem Feriepark 56 3760 Gudhjem,56,650000.0,24-03-2017,Alm.,12500,3,Fritid,52,1977,-4 %
+Nørresand 13 3760 Gudhjem,13,1115000.0,22-03-2017,Alm.,9612,4,Rækkehus,116,1876,-11 %
+Gudhjemvej 103 3760 Gudhjem,103,495000.0,15-03-2017,Alm.,2124,9,Villa,233,1912,0 %
+"Gudhjemvej 111D, 1. 4 3760 Gudhjem",4,530000.0,07-03-2017,Alm.,10000,3,Fritid,53,1976,-8 %
+Stavsdalvej 2 3760 Gudhjem,2,790000.0,22-02-2017,Alm.,1259,10,Villa,627,1917,
+Duebakken 19 3760 Gudhjem,19,900000.0,16-02-2017,Fam.,5806,5,Villa,155,1973,
+Gudhjem Feriepark 102 3760 Gudhjem,102,665000.0,12-02-2017,Alm.,12314,2,Fritid,54,1977,
+Gudhjem Feriepark 43 3760 Gudhjem,43,550000.0,06-02-2017,Alm.,10185,3,Fritid,54,1977,-8 %
+Melsted Langgade 4 3760 Gudhjem,4,960000.0,28-01-2017,Alm.,9411,4,Villa,102,1880,
+Klemenskervej 59 3760 Gudhjem,59,650000.0,27-01-2017,Alm.,3672,6,Stuehus,177,1875,
+Grevens Dal 26 3760 Gudhjem,26,750000.0,25-01-2017,Alm.,9036,6,Sommerhus,83,1962,
+Stangevej 11 3760 Gudhjem,11,425000.0,18-01-2017,Andet,2179,8,Villa,195,1900,
+Oxholmvej 7 3760 Gudhjem,7,1170000.0,09-01-2017,Alm.,6882,7,Stuehus,170,1925,-2 %
+Gudhjem Feriepark 49 3760 Gudhjem,49,575000.0,04-01-2017,Alm.,11057,3,Fritid,52,1977,
+Holkavej 20 3760 Gudhjem,20,1250000.0,27-12-2016,Alm.,10245,3,Rækkehus,122,1900,0 %
+Lillevang 4 3760 Gudhjem,4,1395000.0,22-12-2016,Alm.,8506,4,Villa,164,1935,-7 %
+Åløsevej 10 3760 Gudhjem,10,214500.0,21-12-2016,Fam.,1392,6,Villa,154,1944,-67 %
+Oxholmvej 9 3760 Gudhjem,9,395000.0,19-12-2016,Alm.,2581,7,Villa,153,1918,0 %
+"Holkavej 2A, ST. 3 3760 Gudhjem",3,493000.0,14-12-2016,Fam.,9301,2,Sommerhus,53,1954,
+"Brøddegade 14, 1. 3 3760 Gudhjem",3,595000.0,08-12-2016,Alm.,9296,2,Sommerhus,64,1993,0 %
+Åløsevej 5 3760 Gudhjem,5,845000.0,01-12-2016,Alm.,5184,6,Villa,163,1966,0 %
+Røvej 37 3760 Gudhjem,37,2875000.0,22-11-2016,Alm.,13248,8,Stuehus,217,1931,
+Røvej 24B 3760 Gudhjem,0,250000.0,18-11-2016,Alm.,3787,2,Sommerhus,66,1918,
+Nørresand 25 3760 Gudhjem,25,1200000.0,16-11-2016,Alm.,11538,4,Villa,104,1935,-7 %
+Kastanievej 12 3760 Gudhjem,12,1500000.0,10-11-2016,Alm.,7177,4,Villa,209,1976,-6 %
+Åbogade 8 3760 Gudhjem,8,1175000.0,10-11-2016,Alm.,9957,4,Villa,118,1727,-8 %
+Nørregårdsvej 8 3760 Gudhjem,8,355000.0,08-11-2016,Fam.,3659,3,Sommerhus,97,1966,
+Klemenskervej 33 3760 Gudhjem,33,700000.0,02-11-2016,Alm.,3139,7,Villa,223,1903,-17 %
+Brøddegade 30 3760 Gudhjem,30,1300000.0,01-11-2016,Alm.,5676,4,Villa,229,1852,
+Larsensvej 3 3760 Gudhjem,3,200000.0,25-10-2016,Alm.,1470,4,Villa,136,1979,
+Lillevang 5 3760 Gudhjem,5,900000.0,19-10-2016,Fam.,6338,3,Villa,142,1895,
+Skramman 21 3760 Gudhjem,21,510000.0,11-10-2016,Alm.,4636,4,Villa,110,1979,-6 %
+Nybrovej 9 3760 Gudhjem,9,100000.0,23-09-2016,Alm.,1010,3,Villa,99,1925,
+Gudhjemvej 16 3760 Gudhjem,16,235000.0,19-09-2016,Alm.,2238,4,Villa,105,1944,0 %
+"Gudhjemvej 111D, 1. 9 3760 Gudhjem",9,450000.0,13-09-2016,Alm.,6081,3,Fritid,74,1916,-9 %
+Røbrovej 1 3760 Gudhjem,1,130000.0,11-09-2016,Alm.,2000,4,Villa,65,1900,-33 %
+Sigtevej 8 3760 Gudhjem,8,995000.0,02-09-2016,Alm.,9128,4,Sommerhus,109,1850,0 %
+Melstedvej 9 3760 Gudhjem,9,510000.0,02-09-2016,Alm.,4473,4,Villa,114,1920,-14 %
+Lillevang 13 3760 Gudhjem,13,400000.0,17-08-2016,Alm.,3225,4,Villa,124,1928,-37 %
+Kalleholled 5 3760 Gudhjem,5,675000.0,17-08-2016,Alm.,6750,4,Sommerhus,100,1969,-15 %
+"Åløsevej 2, 1 3760 Gudhjem",1,350000.0,09-08-2016,Alm.,3500,3,Lejlighed,100,1942,
+Lille Jernkaasvej 7G 3760 Gudhjem,0,700000.0,09-08-2016,Alm.,12962,3,Fritid,54,1977,
+Nørreløkke 8 3760 Gudhjem,8,998000.0,08-08-2016,Alm.,14257,3,Sommerhus,70,1964,
+Oxholmvej 13 3760 Gudhjem,13,195000.0,01-08-2016,Alm.,1083,5,Villa,180,1838,0 %
+Gudhjem Feriepark 62 3760 Gudhjem,62,555000.0,29-07-2016,Alm.,10277,3,Fritid,54,1977,0 %
+Vietsvej 4 3760 Gudhjem,4,425000.0,16-07-2016,Alm.,3102,4,Stuehus,137,1910,-4 %
+Lynggårdsvej 2 3760 Gudhjem,2,800000.0,12-07-2016,Alm.,4188,8,Villa,191,1915,
+Kobbevej 16 3760 Gudhjem,16,2060000.0,12-07-2016,Fam.,6889,11,Stuehus,299,1867,
+Stavsdalvej 27 3760 Gudhjem,27,1044842.0,05-07-2016,Fam.,6655,4,Villa,157,1959,
+Lille Jernkaasvej 5B 3760 Gudhjem,0,620000.0,05-07-2016,Alm.,11923,3,Fritid,52,1977,
+Åbogade 2 3760 Gudhjem,2,1250000.0,04-07-2016,Alm.,10000,5,Villa,125,1877,-3 %
+Gamlevældevej 4 3760 Gudhjem,4,235000.0,13-06-2016,Alm.,2008,6,Villa,117,1938,-6 %
+Dyndalevej 1 3760 Gudhjem,1,1430000.0,09-06-2016,Alm.,4496,10,Stuehus,318,1902,
+Åløsevej 1 3760 Gudhjem,1,170000.0,08-06-2016,Alm.,2297,3,Villa,74,1920,
+Melstedvej 43 3760 Gudhjem,43,2700000.0,07-06-2016,Alm.,11587,4,Villa,233,1895,-9 %
+Stavsdalvej 58 3760 Gudhjem,58,150000.0,01-06-2016,Alm.,1546,4,Villa,97,1900,
+Gudhjemvej 19 3760 Gudhjem,19,300000.0,30-05-2016,Alm.,2112,4,Villa,142,1968,-8 %
+Vietsvej 1 3760 Gudhjem,1,535000.0,20-05-2016,Alm.,5144,5,Fritid,104,1933,
+Toftevej 5 3760 Gudhjem,5,1795000.0,12-05-2016,Alm.,8348,8,Erhverv,215,1890,0 %
+Lille Jernkaasvej 3B 3760 Gudhjem,0,675000.0,11-05-2016,Alm.,12980,3,Fritid,52,1977,0 %
+Klemenskervej 21 3760 Gudhjem,21,190000.0,04-05-2016,Alm.,1583,5,Villa,120,1949,-16 %
+Sct. Jørgensgade 5 3760 Gudhjem,5,595000.0,01-05-2016,Fam.,4685,5,Sommerhus,127,1740,
+Nørresand 15 3760 Gudhjem,15,1250000.0,26-04-2016,Alm.,10162,4,Villa,123,1911,0 %
+Gudhjem Feriepark 54 3760 Gudhjem,54,695000.0,21-04-2016,Alm.,12870,3,Fritid,54,1977,0 %
+Gudhjemvej 111T 3760 Gudhjem,0,700000.0,21-04-2016,Alm.,16666,3,Sommerhus,42,1970,
+Vårbækvej 4 3760 Gudhjem,4,140250.0,14-04-2016,Fam.,1402,4,Villa,100,1968,
+Brøddegade 14. 19 3760 Gudhjem,19,1065000.0,04-04-2016,Alm.,10544,4,Sommerhus,101,1900,
+Gudhjem Feriepark 28 3760 Gudhjem,28,825000.0,04-04-2016,Alm.,15277,3,Fritid,54,1977,-2 %
+Lindeskovvej 9 3760 Gudhjem,9,495000.0,31-03-2016,Alm.,3807,4,Villa,130,1964,0 %
+Møllebakken 16 3760 Gudhjem,16,550000.0,22-03-2016,Alm.,4700,6,Villa,117,1938,
+Jydeskæret 1 3760 Gudhjem,1,2600000.0,15-03-2016,Alm.,14130,5,Villa,184,1910,-7 %
+Skramman 22 3760 Gudhjem,22,1150000.0,14-03-2016,Alm.,5693,5,Villa,202,1980,0 %
+Vinkelvej 21 3760 Gudhjem,21,500000.0,04-03-2016,Alm.,4065,4,Villa,123,1984,-16 %
+Sigtevej 5 3760 Gudhjem,5,63000.0,29-02-2016,Auktion,315,9,Villa,200,1897,
+Røvej 21 3760 Gudhjem,21,495000.0,25-02-2016,Alm.,2877,5,Villa,172,1929,0 %
+Melsted Langgade 5 3760 Gudhjem,5,1800000.0,24-02-2016,Alm.,8955,6,Sommerhus,201,1777,-14 %
+Toftevej 2 3760 Gudhjem,2,445000.0,22-02-2016,Alm.,2431,7,Villa,183,1900,-6 %
+Vietsvej 3 3760 Gudhjem,3,88000.0,02-02-2016,Alm.,926,4,Villa,95,1900,-10 %
+Klemenskervej 35 3760 Gudhjem,35,100000.0,25-01-2016,Auktion,531,6,Stuehus,188,1913,-80 %
+Vinkelvej 13 3760 Gudhjem,13,645000.0,13-01-2016,Alm.,3603,4,Villa,179,1976,-2 %
+Gamlevældevej 17 3760 Gudhjem,17,250000.0,11-01-2016,Alm.,2604,4,Stuehus,96,1900,
+Røvej 16A 3760 Gudhjem,0,1400000.0,11-01-2016,Andet,10606,6,Villa,132,1988,
+Grevens Dal 34 3760 Gudhjem,34,1650000.0,07-01-2016,Alm.,29464,3,Sommerhus,56,1940,-8 %
+Løkkegade 16 3760 Gudhjem,16,750000.0,17-12-2015,Alm.,6302,3,Villa,119,1904,
+Krashavevej 34A 3760 Gudhjem,0,408000.0,14-12-2015,Fam.,11657,1,Sommerhus,35,1954,
+Gudhjem Feriepark 74 3760 Gudhjem,74,416500.0,13-12-2015,Fam.,8009,3,Fritid,52,1977,
+Kjeldsebyvej 6 3760 Gudhjem,6,575000.0,10-12-2015,Alm.,3484,5,Villa,165,1850,0 %
+Slettevej 8 3760 Gudhjem,8,760000.0,07-12-2015,Auktion,1788,9,Stuehus,425,1978,
+"Brøddegade 1, 1 3760 Gudhjem",1,2450000.0,30-11-2015,Andet,16554,5,Lejlighed,148,1903,
+Gudhjem Feriepark 36 3760 Gudhjem,36,550000.0,23-11-2015,Alm.,10185,3,Fritid,54,1977,
+Grevens Dal 32 3760 Gudhjem,32,2815000.0,19-11-2015,Alm.,31277,4,Sommerhus,90,1961,-23 %
+Åsedamsvej 3 3760 Gudhjem,3,10963000.0,11-11-2015,Alm.,43852,8,Stuehus,250,1909,
+Melstedvej 50 3760 Gudhjem,50,701250.0,04-11-2015,Fam.,5843,4,Sommerhus,120,1951,
+Melsted By 6 3760 Gudhjem,6,1040250.0,26-10-2015,Alm.,18575,4,Sommerhus,56,1942,-5 %
+Gudhjemvej 111U 3760 Gudhjem,0,700000.0,15-10-2015,Alm.,16666,3,Sommerhus,42,1970,
+Oxholmvej 4 3760 Gudhjem,4,191628.0,06-10-2015,Alm.,1161,6,Stuehus,165,1875,
+Randkløvevej 17B 3760 Gudhjem,0,740000.0,14-09-2015,Alm.,4065,7,Sommerhus,182,1969,
+Risenholmsvej 5 3760 Gudhjem,5,280000.0,07-09-2015,Alm.,2456,4,Stuehus,114,1929,-6 %
+Kalleholled 3 3760 Gudhjem,3,895000.0,01-09-2015,Alm.,8861,6,Sommerhus,101,1968,0 %
+Nybrovej 46 3760 Gudhjem,46,100000.0,26-08-2015,Alm.,1020,3,Stuehus,98,1890,-60 %
+Stangevej 16 3760 Gudhjem,16,22150000.0,25-08-2015,Alm.,73344,7,Stuehus,302,1858,
+"Gudhjemvej 111D, 1. 2 3760 Gudhjem",2,430000.0,20-08-2015,Alm.,7818,3,Fritid,55,1976,-14 %
+Sdr. Strandvej 91 3760 Gudhjem,91,998000.0,13-08-2015,Alm.,5365,6,Villa,186,1800,0 %
+"Brøddegade 14, 1. 7 3760 Gudhjem",7,575000.0,13-08-2015,Alm.,8984,2,Sommerhus,64,1993,-3 %
+Bryggerstræde 9 3760 Gudhjem,9,1575000.0,10-08-2015,Alm.,11091,6,Sommerhus,142,1880,-7 %
+Bådstadvej 6 3760 Gudhjem,6,2500000.0,10-08-2015,Alm.,14534,4,Sommerhus,172,1795,
+Brøddegade 7 3760 Gudhjem,7,765000.0,03-08-2015,Alm.,6538,5,Villa,117,1887,-4 %
+Bækken 3 3760 Gudhjem,3,895000.0,03-08-2015,Alm.,8861,4,Villa,101,1922,0 %
+Melsted Langgade 12 3760 Gudhjem,12,261000.0,27-07-2015,Fam.,3728,3,Sommerhus,70,1877,
+Vinkelvej 4 3760 Gudhjem,4,299000.0,09-07-2015,Alm.,1993,4,Villa,150,1961,0 %
+Nybrovej 34 3760 Gudhjem,34,150000.0,07-07-2015,Alm.,1612,4,Villa,93,1912,-45 %
+Løkkegade 4 3760 Gudhjem,4,1000000.0,02-07-2015,Alm.,9090,3,Villa,110,1931,-9 %
+Møllebakken 1 3760 Gudhjem,1,500000.0,29-06-2015,Fam.,3846,6,Villa,130,1937,
+Melsted By 1 3760 Gudhjem,1,300000.0,26-06-2015,Alm.,4761,3,Villa,63,1827,-39 %
+Mortingevej 16 3760 Gudhjem,16,695000.0,22-06-2015,Alm.,7637,4,Sommerhus,91,1925,0 %
+Præstegårdsvej 3 3760 Gudhjem,3,215000.0,19-06-2015,Alm.,3161,4,Sommerhus,68,1923,2 %
+Åløsevej 14 3760 Gudhjem,14,334209.0,10-06-2015,Fam.,2088,4,Villa,160,1878,
+Brøddegade 38 3760 Gudhjem,38,1300000.0,09-06-2015,Alm.,17333,4,Sommerhus,75,1780,
+Gudhjem Feriepark 23 3760 Gudhjem,23,760000.0,03-06-2015,Alm.,14615,3,Fritid,52,1977,
+Ejnar Mikkelsensvej 28 3760 Gudhjem,28,3000000.0,29-05-2015,Alm.,13888,10,Rækkehus,216,1873,
+Melstedvej 49 3760 Gudhjem,49,892500.0,02-05-2015,Fam.,11743,3,Sommerhus,76,1803,
+Malkestien 5 3760 Gudhjem,5,775000.0,22-04-2015,Alm.,4754,4,Villa,163,1902,-11 %
+Stangevej 6 3760 Gudhjem,6,2750000.0,30-03-2015,Alm.,11224,6,Stuehus,245,1974,
+Støberivej 1 3760 Gudhjem,1,175000.0,17-03-2015,Alm.,1650,4,Villa,106,1958,-56 %
+Lille Jernkaasvej 5C 3760 Gudhjem,0,685000.0,16-03-2015,Alm.,13173,3,Fritid,52,1977,
+Melsted Langgade 45. 2 3760 Gudhjem,2,459500.0,14-03-2015,Alm.,8509,2,Fritid,54,1954,
+Løkkegade 6 3760 Gudhjem,6,400000.0,06-03-2015,Alm.,4166,4,Villa,96,1903,-11 %
+Gudhjem Feriepark 101 3760 Gudhjem,101,575000.0,04-03-2015,Alm.,11057,2,Fritid,52,1977,
+Hjortevej 3 3760 Gudhjem,3,833000.0,27-02-2015,Fam.,7181,5,Stuehus,116,1915,
+Klemenskervej 44 3760 Gudhjem,44,750000.0,18-02-2015,Alm.,6198,4,Stuehus,121,1777,
+Stavsdalvej 24 3760 Gudhjem,24,485000.0,18-02-2015,Alm.,2921,3,Villa,166,1950,0 %
+Bådstadvej 10 3760 Gudhjem,10,1100000.0,17-02-2015,Alm.,21153,2,Sommerhus,52,1795,
+Gudhjemvej 111S 3760 Gudhjem,0,705000.0,10-02-2015,Alm.,16785,3,Sommerhus,42,1970,
+Grevens Dal 19 3760 Gudhjem,19,664500.0,02-02-2015,Auktion,4646,6,Villa,143,1962,
+Nørreløkke 22 3760 Gudhjem,22,807500.0,01-02-2015,Fam.,11061,5,Sommerhus,73,1972,
+Lindeskovvej 2 3760 Gudhjem,2,605000.0,30-01-2015,Alm.,3644,5,Villa,166,1925,-13 %
+Gudhjem Feriepark 90 3760 Gudhjem,90,300000.0,09-01-2015,Alm.,5555,3,Fritid,54,1977,
+Lille Jernkaasvej 7C 3760 Gudhjem,0,350000.0,06-01-2015,Fam.,6481,3,Fritid,54,1977,
+Gudhjem Feriepark 19 3760 Gudhjem,19,750000.0,05-01-2015,Alm.,14423,3,Fritid,52,1977,
+Gudhjem Feriepark 78 3760 Gudhjem,78,492000.0,26-12-2014,Alm.,9461,3,Fritid,52,1977,
+Pihls Allé 2 3760 Gudhjem,2,195000.0,18-12-2014,Fam.,2052,3,Villa,95,1939,
+Gudhjemvej 111C 3760 Gudhjem,0,450000.0,10-12-2014,Alm.,8181,3,Fritid,55,1976,-10 %
+Klemenskervej 52 3760 Gudhjem,52,395000.0,08-12-2014,Alm.,3376,5,Villa,117,1923,0 %
+Bådstadvej 16 3760 Gudhjem,16,1150000.0,02-12-2014,Alm.,18852,2,Sommerhus,61,1795,
+Røbrovej 10 3760 Gudhjem,10,475000.0,30-11-2014,Alm.,3598,4,Villa,132,1900,-17 %
+Gudhjemvej 111A 3760 Gudhjem,0,315000.0,28-11-2014,Alm.,6702,1,Fritid,47,1916,
+Skramman 16 3760 Gudhjem,16,325000.0,25-11-2014,Alm.,3651,3,Villa,89,1985,-18 %
+Gamlevældevej 26 3760 Gudhjem,26,175000.0,07-11-2014,Alm.,1190,6,Villa,147,1948,0 %
+Bådstadvej 8 3760 Gudhjem,8,1750000.0,01-11-2014,Alm.,22727,2,Sommerhus,77,1795,
+Nybrovej 18 3760 Gudhjem,18,245000.0,29-10-2014,Alm.,1884,4,Villa,130,1931,
+Åbogade 5 3760 Gudhjem,5,1225000.0,27-10-2014,Alm.,8506,4,Villa,144,1857,
+Stavehøl 3 3760 Gudhjem,3,1395000.0,24-10-2014,Alm.,4793,7,Villa,291,1800,-7 %
+Risenholmsvej 4 3760 Gudhjem,4,269666.0,23-10-2014,Andet,1361,5,Villa,198,1900,-70 %
+Stavsdalvej 25 3760 Gudhjem,25,800000.0,23-10-2014,Alm.,4166,6,Villa,192,1854,-6 %
+Melstedvej 22 3760 Gudhjem,22,500000.0,14-10-2014,Andet,5813,5,Villa,86,1910,
+Melsted Langgade 28 3760 Gudhjem,28,190000.0,08-10-2014,Fam.,2289,5,Sommerhus,83,1850,
+Bokulvej 5 3760 Gudhjem,5,550000.0,30-09-2014,Alm.,4230,5,Villa,130,1908,
+Grevens Dal 46 3760 Gudhjem,46,4300000.0,26-09-2014,Alm.,27564,2,Villa,156,1942,-4 %
+Skramman 2 3760 Gudhjem,2,195000.0,25-09-2014,Alm.,2191,3,Villa,89,1935,0 %
+Gudhjem Feriepark 48 3760 Gudhjem,48,545000.0,15-09-2014,Alm.,10480,3,Fritid,52,1977,
+Lindeskovvej 1 3760 Gudhjem,1,300000.0,10-09-2014,Alm.,2000,6,Villa,150,1934,-14 %
+Gudhjem Feriepark 67 3760 Gudhjem,67,460000.0,01-09-2014,Alm.,8518,3,Fritid,54,1977,-12 %
+Nybrovej 25 3760 Gudhjem,25,285000.0,26-08-2014,Alm.,1656,6,Villa,172,1959,-3 %
+Brøddegade 14. 13 3760 Gudhjem,13,920000.0,24-08-2014,Alm.,11645,4,Sommerhus,79,1900,
+Melsted By 2 3760 Gudhjem,2,995000.0,18-08-2014,Alm.,10815,3,Villa,92,1700,0 %
+Melstedvej 40 3760 Gudhjem,40,1050000.0,15-08-2014,Alm.,6104,5,Sommerhus,172,1728,-19 %
+Gudhjemvej 111K 3760 Gudhjem,0,460000.0,07-08-2014,Alm.,8363,3,Fritid,55,1976,
+Gudhjemvej 91 3760 Gudhjem,91,1995000.0,21-07-2014,Alm.,9827,6,Villa,203,1700,0 %
+Gudhjem Feriepark 91 3760 Gudhjem,91,250000.0,09-07-2014,Fam.,4807,3,Fritid,52,1977,
+Melsted Langgade 45. 11 3760 Gudhjem,11,311000.0,04-07-2014,Fam.,4092,2,Fritid,76,1954,
+Gudhjemvej 89 3760 Gudhjem,89,745000.0,02-07-2014,Alm.,3401,5,Villa,219,1800,0 %
+Gudhjemvej 111R 3760 Gudhjem,0,774812.0,17-06-2014,Alm.,14087,3,Sommerhus,55,1998,
+Nørreløkke 2 3760 Gudhjem,2,780000.0,16-06-2014,Alm.,10400,4,Villa,75,1957,-22 %
+Åbogade 10 3760 Gudhjem,10,450500.0,11-06-2014,Fam.,4844,4,Villa,93,1890,
+Gudhjemvej 22 3760 Gudhjem,22,250000.0,06-06-2014,Alm.,2525,3,Villa,99,1948,-16 %
+"Gudhjemvej 111D, 1. 7 3760 Gudhjem",7,425000.0,05-06-2014,Alm.,5666,3,Fritid,75,1916,
+Gudhjemvej 111L 3760 Gudhjem,0,903000.0,02-06-2014,Alm.,13086,3,Sommerhus,69,2005,
+Gudhjem Feriepark 83 3760 Gudhjem,83,525000.0,20-05-2014,Alm.,9722,3,Fritid,54,1977,
+Gudhjemvej 111M 3760 Gudhjem,0,965000.0,13-05-2014,Alm.,13985,3,Sommerhus,69,2005,
+Krækketsvej 7 3760 Gudhjem,7,323948.0,12-05-2014,Fam.,2699,5,Stuehus,120,1858,
+Gråmyrvej 1A 3760 Gudhjem,0,725000.0,01-05-2014,Alm.,8841,3,Sommerhus,82,1964,
+Stavsdalvej 16 3760 Gudhjem,16,308000.0,28-04-2014,Fam.,2315,6,Villa,133,1900,
+Nørresand 23 3760 Gudhjem,23,1250000.0,22-04-2014,Alm.,12376,3,Villa,101,1932,
+Gudhjem Feriepark 31 3760 Gudhjem,31,775000.0,14-04-2014,Alm.,14351,3,Fritid,54,1977,
+Klemenskervej 34 3760 Gudhjem,34,900000.0,03-04-2014,Alm.,4838,4,Stuehus,186,1947,
+Melsted Langgade 14 3760 Gudhjem,14,2100000.0,24-03-2014,Alm.,18103,4,Sommerhus,116,1966,
+Bækken 1 3760 Gudhjem,1,375000.0,20-03-2014,Alm.,2819,5,Villa,133,1900,0 %
+Gudhjem Feriepark 27 3760 Gudhjem,27,680000.0,20-03-2014,Alm.,12592,3,Fritid,54,1977,
+Gudhjem Feriepark 96 3760 Gudhjem,96,550000.0,07-03-2014,Alm.,10185,2,Fritid,54,1977,
+Nybrovej 44B 3760 Gudhjem,0,340000.0,27-02-2014,Fam.,4146,3,Sommerhus,82,1900,
+Ejnar Mikkelsensvej 30 3760 Gudhjem,30,1315000.0,22-02-2014,Alm.,9887,3,Rækkehus,133,1913,-10 %
+Duebakken 2 3760 Gudhjem,2,1550000.0,17-02-2014,Alm.,5132,8,Sommerhus,302,1912,-22 %
+Brommevej 16 3760 Gudhjem,16,240000.0,03-02-2014,Alm.,2000,6,Villa,120,1930,-26 %
+Gudhjem Feriepark 59 3760 Gudhjem,59,585000.0,22-01-2014,Alm.,11250,3,Fritid,52,1977,
+Møllebakken 3 3760 Gudhjem,3,450000.0,14-01-2014,Alm.,3658,4,Villa,123,1938,-9 %
+Røvej 30 3760 Gudhjem,30,323750.0,09-01-2014,Fam.,1839,7,Villa,176,1803,
+Holkavej 14 3760 Gudhjem,14,1395000.0,20-12-2013,Fam.,8885,5,Villa,157,1912,
+Ejnar Mikkelsensvej 5 3760 Gudhjem,5,525000.0,19-12-2013,Alm.,0,5,Villa,94,1771,
+Nybrovej 20 3760 Gudhjem,20,89000.0,17-12-2013,Alm.,445,8,Villa,200,1923,0 %
+Nybrovej 45 3760 Gudhjem,45,900000.0,02-12-2013,Alm.,3765,8,Stuehus,239,1977,
+Røvej 45 3760 Gudhjem,45,2300000.0,11-11-2013,Andet,15972,5,Stuehus,144,1825,
+Kastanievej 4 3760 Gudhjem,4,410000.0,08-11-2013,Alm.,3596,5,Villa,114,1902,-17 %
+Gudhjemvej 8 3760 Gudhjem,8,475000.0,05-11-2013,Alm.,3710,4,Villa,128,1930,0 %
+"Brøddegade 14, 1. 2 3760 Gudhjem",2,425000.0,05-11-2013,Alm.,8673,2,Sommerhus,49,1993,
+Duebakken 8 3760 Gudhjem,8,625000.0,23-10-2013,Alm.,4960,3,Villa,126,1975,-21 %
+Grevens Dal 40 3760 Gudhjem,40,4500000.0,23-10-2013,Alm.,16483,6,Villa,273,2000,-10 %
+"Holkavej 2A, ST. 1 3760 Gudhjem",1,675000.0,21-10-2013,Fam.,9000,3,Sommerhus,75,1954,
+Stavsdalvej 66 3760 Gudhjem,66,595000.0,14-10-2013,Alm.,7933,3,Stuehus,75,1922,0 %
+Lynggårdsvej 8 3760 Gudhjem,8,1350000.0,14-10-2013,Alm.,5869,10,Villa,230,1932,-14 %
+Sdr. Strandvej 134 3760 Gudhjem,134,750000.0,27-09-2013,Alm.,4054,7,Villa,185,1871,-25 %
+Puggevej 4 3760 Gudhjem,4,3400000.0,20-09-2013,Alm.,23129,5,Stuehus,147,1900,
+Egeskovvej 20 3760 Gudhjem,20,750000.0,18-09-2013,Alm.,4658,4,Stuehus,161,1944,
+Krashavevej 36 3760 Gudhjem,36,570000.0,17-09-2013,Alm.,5089,5,Stuehus,112,1877,
+Hjortevej 7 3760 Gudhjem,7,26450000.0,05-09-2013,Alm.,205038,6,Stuehus,129,1916,
+Nybrovej 8 3760 Gudhjem,8,245000.0,02-09-2013,Alm.,2500,4,Villa,98,1937,0 %
+Kastanievej 3 3760 Gudhjem,3,360000.0,29-08-2013,Alm.,3600,3,Villa,100,1902,-9 %
+Gudhjemvej 111V 3760 Gudhjem,0,527000.0,21-08-2013,Fam.,12547,3,Sommerhus,42,1970,
+Nørregårdsvej 7 3760 Gudhjem,7,250000.0,19-08-2013,Alm.,2049,5,Sommerhus,122,1877,
+Røstadvej 8 3760 Gudhjem,8,652000.0,16-08-2013,Alm.,5216,6,Stuehus,125,1800,
+Gudhjemvej 17 3760 Gudhjem,17,450000.0,09-08-2013,Alm.,3409,5,Villa,132,1966,-10 %
+Gudhjemvej 87 3760 Gudhjem,87,150000.0,06-08-2013,Alm.,1401,5,Villa,107,1900,-49 %
+Løkkegade 5 3760 Gudhjem,5,2650000.0,05-08-2013,Alm.,22083,4,Villa,120,1931,
+Bækken 7 3760 Gudhjem,7,650000.0,31-07-2013,Alm.,5284,5,Villa,123,1912,-18 %
+Gamlevældevej 33 3760 Gudhjem,33,695000.0,28-07-2013,Alm.,3341,8,Stuehus,208,1650,
+Gudhjemvej 99 3760 Gudhjem,99,1250000.0,20-07-2013,Alm.,17123,2,Villa,73,1969,0 %
+Kirkestien 7 3760 Gudhjem,7,767000.0,17-07-2013,Alm.,3600,5,Villa,213,1870,
+"Holkavej 2A, ST. 7 3760 Gudhjem",7,1100000.0,11-07-2013,Alm.,22000,2,Sommerhus,50,1954,-15 %
+Åløsevej 27 3760 Gudhjem,27,100000.0,11-07-2013,Alm.,1369,3,Villa,73,1898,
+Brommevej 31 3760 Gudhjem,31,23800000.0,05-07-2013,Alm.,97942,6,Stuehus,243,1880,
+Smedevej 1 3760 Gudhjem,1,480000.0,17-06-2013,Alm.,3428,6,Villa,140,1931,-20 %
+Røvej 31 3760 Gudhjem,31,277920.0,16-06-2013,Alm.,660,13,Stuehus,421,1877,
+Gudhjem Feriepark 52 3760 Gudhjem,52,575000.0,31-05-2013,Alm.,11057,3,Fritid,52,1977,
+Brommevej 30 3760 Gudhjem,30,450000.0,21-05-2013,Alm.,4787,3,Villa,94,1928,-9 %
+Gudhjem Feriepark 80 3760 Gudhjem,80,430000.0,16-05-2013,Alm.,7962,3,Fritid,54,1977,
+Melstedvej 52 3760 Gudhjem,52,1430000.0,02-05-2013,Alm.,13240,4,Villa,108,1951,-5 %
+Brøddegade 9 3760 Gudhjem,9,450000.0,29-04-2013,Alm.,3061,5,Villa,147,1897,-7 %
+Puggevej 1 3760 Gudhjem,1,1487052.0,19-04-2013,Fam.,7909,4,Stuehus,188,1997,
+Holkavej 9 3760 Gudhjem,9,960000.0,12-04-2013,Alm.,8421,5,Sommerhus,114,1825,-12 %
+"Gudhjemvej 111D, 1. 6 3760 Gudhjem",6,500000.0,12-04-2013,Alm.,9259,3,Fritid,54,1976,8 %
+Gudhjemvej 43 3760 Gudhjem,43,257500.0,08-04-2013,Auktion,1800,4,Villa,143,1877,
+Grevens Dal 44 3760 Gudhjem,44,700000.0,27-03-2013,Fam.,5982,4,Sommerhus,117,1938,
+Gamlevældevej 29 3760 Gudhjem,29,550000.0,14-03-2013,Alm.,2083,7,Anden beboelse,264,1878,
+Toftevej 10 3760 Gudhjem,10,625000.0,14-02-2013,Alm.,4340,5,Rækkehus,144,1923,
+Nørresand 8 3760 Gudhjem,8,725000.0,08-02-2013,Alm.,6304,3,Villa,115,1880,-19 %
+Melsted By 11A 3760 Gudhjem,0,870000.0,08-02-2013,Alm.,13593,2,Villa,64,1965,
+Brommevej 6 3760 Gudhjem,6,495000.0,05-02-2013,Alm.,7071,6,Stuehus,70,1847,
+Gudhjem Feriepark 68 3760 Gudhjem,68,535000.0,18-01-2013,Alm.,9907,3,Fritid,54,1977,
+Kastanievej 7 3760 Gudhjem,7,200000.0,15-01-2013,Alm.,1428,7,Villa,140,1927,-38 %
+Holkavej 11 3760 Gudhjem,11,825000.0,02-01-2013,Alm.,7857,5,Villa,105,1914,
+Sdr. Strandvej 126 3760 Gudhjem,126,1650000.0,28-12-2012,Alm.,14347,6,Stuehus,115,1929,
+Nørreløkke 5 3760 Gudhjem,5,650000.0,13-12-2012,Alm.,11818,3,Sommerhus,55,1968,-35 %
+Gudhjem Feriepark 81 3760 Gudhjem,81,445000.0,30-11-2012,Alm.,8557,3,Fritid,52,1977,-31 %
+Gudhjem Feriepark 26 3760 Gudhjem,26,750000.0,19-11-2012,Andet,14423,3,Fritid,52,1977,
+Gudhjem Feriepark 57 3760 Gudhjem,57,775000.0,16-11-2012,Alm.,14351,3,Fritid,54,1977,
+Vassebækvej 5 3760 Gudhjem,5,998000.0,07-11-2012,Alm.,6160,6,Stuehus,162,1877,
+Åsedamsvej 9 3760 Gudhjem,9,795000.0,07-11-2012,Alm.,9695,2,Sommerhus,82,1800,0 %
+Bådstadvej 12 3760 Gudhjem,12,650000.0,24-10-2012,Alm.,16666,2,Sommerhus,39,1795,
+Gudhjem Feriepark 87 3760 Gudhjem,87,275000.0,08-10-2012,Andet,5288,3,Fritid,52,1977,
+Gudhjem Feriepark 61 3760 Gudhjem,61,550000.0,08-10-2012,Alm.,10185,3,Fritid,54,1977,
+Åløsevej 15 3760 Gudhjem,15,8415000.0,04-10-2012,Fam.,45486,6,Stuehus,185,1931,
+Kjeldsebyvej 4 3760 Gudhjem,4,648000.0,27-09-2012,Alm.,7043,3,Sommerhus,92,1875,
+Åsedamsvej 4 3760 Gudhjem,4,1007500.0,06-09-2012,Alm.,7632,4,Villa,132,1908,
+Løkkegade 25 3760 Gudhjem,25,795000.0,03-09-2012,Alm.,7950,4,Rækkehus,100,1896,0 %
+Røvej 28 3760 Gudhjem,28,300000.0,22-08-2012,Alm.,1875,5,Stuehus,160,1926,20 %
+Kalleholled 2 3760 Gudhjem,2,1300000.0,06-08-2012,Alm.,13978,5,Sommerhus,93,1973,-7 %
+Brøddegade 14. 20 3760 Gudhjem,20,450000.0,02-08-2012,Alm.,10000,2,Sommerhus,45,1900,
+Gudhjem Feriepark 53 3760 Gudhjem,53,600000.0,25-07-2012,Alm.,11538,3,Fritid,52,1977,
+Stangevej 3 3760 Gudhjem,3,1175000.0,24-07-2012,Alm.,3175,6,Stuehus,370,1898,-16 %
+Vietsvej 5 3760 Gudhjem,5,430000.0,18-07-2012,Alm.,2828,4,Villa,152,1878,-21 %
+Skovvej 8 3760 Gudhjem,8,81320.0,30-06-2012,Alm.,1355,4,Stuehus,60,1858,
+Grevens Dal 10 3760 Gudhjem,10,500000.0,15-06-2012,Alm.,4065,3,Villa,123,1937,-16 %
+Kirkestien 3 3760 Gudhjem,3,450000.0,13-06-2012,Alm.,4411,3,Rækkehus,102,1800,
+Malkestien 26 3760 Gudhjem,26,1750000.0,11-06-2012,Alm.,11986,5,Villa,146,1877,-12 %
+Melsted Langgade 10 3760 Gudhjem,10,375000.0,11-06-2012,Alm.,2192,3,Villa,171,1932,-32 %
+Krashavevej 32 3760 Gudhjem,32,2120000.0,30-05-2012,Alm.,10984,5,Stuehus,193,2002,-15 %
+Røvej 25 3760 Gudhjem,25,725000.0,21-05-2012,Alm.,3918,3,Villa,185,1942,-19 %
+Krækketsvej 5 3760 Gudhjem,5,400000.0,16-05-2012,Alm.,3333,5,Stuehus,120,1860,-33 %
+Gudhjem Feriepark 88 3760 Gudhjem,88,600000.0,15-05-2012,Alm.,11538,3,Fritid,52,1977,
+Melsted By 13 3760 Gudhjem,13,150000.0,07-05-2012,Fam.,1785,4,Sommerhus,84,1936,
+Stavsdalvej 22 3760 Gudhjem,22,483000.0,03-05-2012,Alm.,2515,4,Villa,192,1902,
+Stavsdalvej 56 3760 Gudhjem,56,237500.0,30-04-2012,Fam.,2012,3,Villa,118,1948,
+Kjeldsebyvej 16 3760 Gudhjem,16,1400000.0,30-04-2012,Alm.,10852,4,Villa,129,1918,-6 %
+Røstadvej 4 3760 Gudhjem,4,2100000.0,20-04-2012,Alm.,14583,5,Stuehus,144,1800,-12 %
+Gudhjemvej 3 3760 Gudhjem,3,350000.0,18-04-2012,Alm.,2966,4,Villa,118,1923,-12 %
+Toftevej 8 3760 Gudhjem,8,140000.0,03-04-2012,Alm.,813,6,Villa,172,1903,-49 %
+Oxholmvej 3 3760 Gudhjem,3,150000.0,02-04-2012,Auktion,1209,4,Villa,124,1870,
+Åløsevej 6 3760 Gudhjem,6,200000.0,22-03-2012,Alm.,2061,5,Villa,97,1931,-45 %
+Krækketsvej 3 3760 Gudhjem,3,2000000.0,04-03-2012,Alm.,10050,7,Stuehus,199,1708,
+Malkestien 2 3760 Gudhjem,2,599124.0,22-02-2012,Fam.,5496,4,Villa,109,1910,-54 %
+Præstegårdsvej 1 3760 Gudhjem,1,750000.0,24-01-2012,Alm.,3024,11,Villa,248,1966,-12 %
+Kirkestien 2 3760 Gudhjem,2,600000.0,28-12-2011,Alm.,7594,4,Villa,79,1822,-7 %
+Gudhjem Feriepark 51 3760 Gudhjem,51,440000.0,14-12-2011,Alm.,8148,3,Fritid,54,1977,-37 %
+Gudhjem Feriepark 70 3760 Gudhjem,70,259827.0,26-10-2011,Alm.,4996,3,Fritid,52,1977,-63 %
+Grevens Dal 13 3760 Gudhjem,13,950000.0,21-10-2011,Alm.,0,3,Sommerhus,67,1962,-13 %
+Hjortevej 1 3760 Gudhjem,1,153000.0,17-10-2011,Auktion,768,6,Villa,199,1922,
+Kobbevej 3 3760 Gudhjem,3,1100000.0,12-10-2011,Alm.,7142,6,Stuehus,154,1934,-15 %
+Klemenskervej 46 3760 Gudhjem,46,305000.0,06-10-2011,Alm.,1794,10,Stuehus,170,1951,
+Gamlevældevej 46 3760 Gudhjem,46,700000.0,03-10-2011,Auktion,2491,5,Stuehus,281,1979,
+Røvej 36 3760 Gudhjem,36,600000.0,29-09-2011,Alm.,2830,7,Villa,212,1927,-5 %
+Gudhjemvej 2 3760 Gudhjem,2,317500.0,20-09-2011,Alm.,1423,7,Villa,223,1897,
+Brommevej 29 3760 Gudhjem,29,8500000.0,14-09-2011,Fam.,44270,5,Stuehus,192,1909,
+Gudhjem Feriepark 84 3760 Gudhjem,84,685000.0,13-09-2011,Alm.,13173,3,Fritid,52,1977,
+Kalleholled 1 3760 Gudhjem,1,1232500.0,11-09-2011,Fam.,8931,4,Sommerhus,138,1970,
+Røvej 43 3760 Gudhjem,43,800000.0,05-08-2011,Alm.,4145,9,Stuehus,193,1858,-11 %
+Nybrovej 2B 3760 Gudhjem,0,298000.0,05-07-2011,Alm.,3386,4,Sommerhus,88,1900,
+Gamlevældevej 20 3760 Gudhjem,20,425000.0,29-06-2011,Alm.,2442,5,Villa,174,1948,-29 %
+Røvej 38 3760 Gudhjem,38,595000.0,27-06-2011,Alm.,1430,16,Villa,416,1900,0 %
+Gudhjemvej 81 3760 Gudhjem,81,645000.0,01-06-2011,Alm.,5758,4,Villa,112,1957,0 %
+Skramman 19 3760 Gudhjem,19,525000.0,30-05-2011,Alm.,4303,4,Villa,122,1979,-12 %
+Vietsvej 15 3760 Gudhjem,15,225000.0,05-05-2011,Alm.,1119,5,Villa,201,1878,-40 %
+"Brøddegade 14, 1. 10 3760 Gudhjem",10,415000.0,02-05-2011,Auktion,8469,2,Sommerhus,49,1993,
+Kjeldsebyvej 10 3760 Gudhjem,10,595000.0,23-03-2011,Fam.,6538,4,Villa,91,1956,
+Klemenskervej 5 3760 Gudhjem,5,388295.0,21-03-2011,Alm.,1875,9,Villa,207,1932,
+Melstedvej 11A 3760 Gudhjem,0,475000.0,05-03-2011,Alm.,3800,3,Villa,125,1926,-13 %
+Vinkelvej 5 3760 Gudhjem,5,765000.0,03-03-2011,Alm.,5100,5,Villa,150,1973,-4 %
+Helligdomsvej 15 3760 Gudhjem,15,1650000.0,18-02-2011,Alm.,10927,5,Villa,151,1940,
+"Brøddegade 16, 1 3760 Gudhjem",1,1875000.0,27-01-2011,Andet,12500,5,Villa,150,1890,
+Lille Jernkaasvej 3A 3760 Gudhjem,0,700000.0,17-01-2011,Alm.,12962,3,Fritid,54,1977,
+Melsted Langgade 46 3760 Gudhjem,46,2150000.0,10-01-2011,Alm.,33076,3,Sommerhus,65,1951,-14 %
+Sdr. Strandvej 124 3760 Gudhjem,124,1000000.0,08-01-2011,Alm.,6896,5,Sommerhus,145,1830,
+Lindeskovvej 14 3760 Gudhjem,14,1175000.0,29-12-2010,Alm.,6184,6,Villa,190,1800,-9 %
+Bryggerstræde 4 3760 Gudhjem,4,769484.0,20-12-2010,Alm.,4635,6,Sommerhus,166,1900,
+Brommevej 23 3760 Gudhjem,23,1000000.0,15-12-2010,Alm.,8196,6,Villa,122,1948,-5 %
+Kirkevej 1 3760 Gudhjem,1,450000.0,30-11-2010,Alm.,0,8,Villa,173,1877,-10 %
+Gudhjemvej 74 3760 Gudhjem,74,250000.0,29-11-2010,Auktion,2232,3,Villa,112,1925,
+Gudhjem Feriepark 100 3760 Gudhjem,100,735000.0,27-11-2010,Alm.,13611,2,Fritid,54,1977,
+Vinkelvej 10 3760 Gudhjem,10,700000.0,23-11-2010,Alm.,5303,4,Villa,132,1979,-5 %
+Melsted By 7 3760 Gudhjem,7,895000.0,17-11-2010,Alm.,13984,3,Villa,64,1928,
+Viggo Rønnesvej 2 3760 Gudhjem,2,799000.0,15-11-2010,Fam.,7070,3,Villa,113,1986,
+Gudhjemvej 27 3760 Gudhjem,27,700000.0,09-11-2010,Alm.,0,6,Stuehus,89,1935,-7 %
+Nybrovej 4 3760 Gudhjem,4,251000.0,08-11-2010,Auktion,643,8,Rækkehus,390,1936,-64 %
+Åsedamsvej 14 3760 Gudhjem,14,800000.0,19-10-2010,Alm.,10256,2,Stuehus,78,1850,-27 %
+Gamlevældevej 24 3760 Gudhjem,24,420000.0,12-10-2010,Alm.,4200,3,Villa,100,1952,
+Brøddegade 13 3760 Gudhjem,13,625000.0,04-10-2010,Alm.,4921,5,Villa,127,1884,-30 %
+Slettevej 1 3760 Gudhjem,1,739500.0,30-09-2010,Fam.,3997,5,Stuehus,185,1870,
+Kastanievej 11 3760 Gudhjem,11,550000.0,30-09-2010,Alm.,9649,3,Sommerhus,57,1942,-15 %
+Brøddegade 14. 18 3760 Gudhjem,18,975000.0,18-09-2010,Alm.,13000,2,Sommerhus,75,1900,
+Løkkegade 33 3760 Gudhjem,33,841500.0,12-08-2010,Alm.,8091,4,Villa,104,1908,
+Vårbækvej 3 3760 Gudhjem,3,775000.0,09-08-2010,Alm.,3799,5,Villa,204,1972,-9 %
+Kalleholled 11 3760 Gudhjem,11,1220000.0,06-08-2010,Alm.,21034,3,Sommerhus,58,1976,-6 %
+Åløsevej 21 3760 Gudhjem,21,500000.0,06-08-2010,Alm.,4166,5,Villa,120,1932,-13 %
+Toftevej 14 3760 Gudhjem,14,300000.0,05-08-2010,Alm.,1666,5,Villa,180,1906,-45 %
+Løkkegade 14 3760 Gudhjem,14,700000.0,02-08-2010,Auktion,5882,3,Villa,119,1900,-30 %
+Stangevej 17 3760 Gudhjem,17,950000.0,21-07-2010,Alm.,6291,3,Sommerhus,151,1728,
+Åløsevej 18 3760 Gudhjem,18,450000.0,20-07-2010,Alm.,5294,3,Villa,85,1957,-17 %
+Gudhjemvej 111N 3760 Gudhjem,0,1000000.0,01-07-2010,Alm.,22222,3,Sommerhus,45,1970,
+Nybrovej 35 3760 Gudhjem,35,930000.0,28-06-2010,Alm.,6992,4,Stuehus,133,1887,-4 %
+Krashavevej 33 3760 Gudhjem,33,4556403.0,17-06-2010,Alm.,16629,7,Stuehus,274,1850,1 %
+Gudhjem Feriepark 79 3760 Gudhjem,79,600000.0,22-05-2010,Alm.,11111,3,Fritid,54,1977,
+Vietsvej 9A 3760 Gudhjem,0,870000.0,07-05-2010,Alm.,5800,5,Sommerhus,150,1913,
+Sdr. Strandvej 87 3760 Gudhjem,87,1250000.0,03-05-2010,Alm.,13586,5,Villa,92,1955,0 %
+Viggo Rønnesvej 3 3760 Gudhjem,3,1440000.0,19-04-2010,Alm.,8228,4,Villa,175,2006,-11 %
+Lindeskovvej 21 3760 Gudhjem,21,1273000.0,08-04-2010,Alm.,8006,4,Villa,159,1877,-2 %
+Sigtevej 2 3760 Gudhjem,2,2400000.0,30-03-2010,Alm.,10169,9,Stuehus,236,1875,-7 %
+Holkavej 19 3760 Gudhjem,19,638250.0,09-03-2010,Fam.,5648,3,Villa,113,1870,
+Gudhjem Feriepark 82 3760 Gudhjem,82,680000.0,08-03-2010,Alm.,12592,3,Fritid,54,1977,
+Nørregårdsvej 3 3760 Gudhjem,3,990000.0,26-02-2010,Alm.,13026,3,Sommerhus,76,1900,-14 %
+Gudhjemvej 95 3760 Gudhjem,95,400000.0,08-02-2010,Fam.,2547,5,Villa,157,1913,-38 %
+Åløsevej 11 3760 Gudhjem,11,475000.0,08-02-2010,Alm.,3006,4,Villa,158,1937,-14 %
+Brommevej 21 3760 Gudhjem,21,1100000.0,23-12-2009,Alm.,4247,6,Stuehus,259,1914,-8 %
+Røvej 20 3760 Gudhjem,20,900000.0,12-10-2009,Auktion,5625,5,Stuehus,160,1880,-23 %
+Risenholmsvej 14 3760 Gudhjem,14,3834000.0,14-08-2009,Alm.,16669,8,Stuehus,230,1878,
+Gamlevældevej 19 3760 Gudhjem,19,160000.0,31-07-2009,Alm.,1616,5,Sommerhus,99,1778,0 %
+Ejnar Mikkelsensvej 7 3760 Gudhjem,7,750000.0,20-07-2009,Alm.,7009,4,Villa,107,1936,
+Brommevej 26 3760 Gudhjem,26,1300000.0,20-07-2009,Alm.,4676,9,Villa,278,1929,-13 %
+Nørreløkke 4 3760 Gudhjem,4,1098000.0,09-07-2009,Alm.,22875,2,Sommerhus,48,1961,10 %
+Vårbækvej 12 3760 Gudhjem,12,600000.0,24-06-2009,Alm.,4800,5,Villa,125,1972,-14 %
+Røstadvej 1 3760 Gudhjem,1,450000.0,23-06-2009,Alm.,4687,5,Sommerhus,96,1834,0 %
+Gudhjem Feriepark 22 3760 Gudhjem,22,1100000.0,16-06-2009,Alm.,20370,3,Fritid,54,1977,50 %
+Stavsdalvej 39 3760 Gudhjem,39,3800000.0,08-06-2009,Alm.,17272,4,Stuehus,220,1907,
+Malkestien 18 3760 Gudhjem,18,650000.0,03-04-2009,Alm.,7471,3,Villa,87,1760,-18 %
+Gartnervænget 1 3760 Gudhjem,1,1325000.0,27-03-2009,Alm.,6794,4,Villa,195,1971,
+Stavsdalvej 8 3760 Gudhjem,8,561000.0,12-03-2009,Alm.,5292,5,Villa,106,1932,
+Krækketsvej 2 3760 Gudhjem,2,650000.0,25-02-2009,Alm.,4482,4,Villa,145,1930,0 %
+Stavsdalvej 31 3760 Gudhjem,31,295000.0,20-02-2009,Alm.,3352,3,Villa,88,1900,0 %
+Melstedvej 33 3760 Gudhjem,33,6450000.0,06-02-2009,Alm.,40062,6,Villa,161,1963,
+Gudhjemvej 65 3760 Gudhjem,65,1100000.0,23-01-2009,Alm.,7142,6,Villa,154,1945,-8 %
+Gamlevældevej 27 3760 Gudhjem,27,1050000.0,12-01-2009,Alm.,4150,4,Sommerhus,253,1883,-16 %
+Gudhjem Feriepark 97 3760 Gudhjem,97,730000.0,18-12-2008,Alm.,14038,2,Fritid,52,1977,
+Gudhjemvej 63 3760 Gudhjem,63,1000000.0,26-11-2008,Fam.,7518,5,Villa,133,1945,
+Gamlevældevej 11 3760 Gudhjem,11,810000.0,30-10-2008,Alm.,6183,4,Villa,131,1920,-12 %
+Brommevej 17 3760 Gudhjem,17,1700000.0,12-10-2008,Alm.,8333,6,Stuehus,204,1877,-8 %
+Nørregårdsvej 5 3760 Gudhjem,5,1175000.0,08-10-2008,Alm.,9179,3,Sommerhus,128,1956,-6 %
+Kalleholled 4 3760 Gudhjem,4,650000.0,06-10-2008,Alm.,11206,3,Sommerhus,58,1971,
+Mortingevej 4 3760 Gudhjem,4,2000000.0,22-09-2008,Fam.,11173,6,Stuehus,179,1850,
+Melsted Langgade 50 3760 Gudhjem,50,1785000.0,19-09-2008,Fam.,14752,5,Sommerhus,121,1954,
+Skramman 6 3760 Gudhjem,6,215734.0,10-09-2008,Alm.,2115,4,Villa,102,1950,
+Gudhjem Feriepark 95 3760 Gudhjem,95,710000.0,10-09-2008,Alm.,13148,3,Fritid,54,1977,
+Gamlevældevej 16 3760 Gudhjem,16,550000.0,04-09-2008,Alm.,4044,4,Villa,136,1962,-15 %
+Gamlevældevej 18 3760 Gudhjem,18,1000000.0,25-08-2008,Alm.,10000,2,Villa,100,1800,-5 %
+Gudhjem Feriepark 89 3760 Gudhjem,89,735000.0,21-08-2008,Alm.,13611,3,Fritid,54,1977,
+Kjeldsebyvej 3 3760 Gudhjem,3,3150000.0,13-08-2008,Alm.,16935,12,Anden beboelse,186,1900,
+Gudhjem Feriepark 94 3760 Gudhjem,94,745000.0,31-07-2008,Alm.,14326,3,Fritid,52,1977,
+Klemenskervej 22 3760 Gudhjem,22,525000.0,22-07-2008,Alm.,4200,6,Villa,125,1949,-12 %
+Holkavej 10 3760 Gudhjem,10,1600000.0,15-07-2008,Alm.,12500,5,Villa,128,1931,0 %
+Løkkegade 27 3760 Gudhjem,27,1495000.0,24-06-2008,Alm.,7910,5,Rækkehus,189,1900,
+Gudhjemvej 49 3760 Gudhjem,49,640000.0,23-06-2008,Fam.,2976,5,Stuehus,215,1937,
+Studebyvej 10 3760 Gudhjem,10,500000.0,03-06-2008,Alm.,3906,5,Stuehus,128,1875,
+Gamlevældevej 23 3760 Gudhjem,23,450000.0,29-05-2008,Alm.,6164,4,Villa,73,1955,0 %
+Duebakken 3 3760 Gudhjem,3,900000.0,09-05-2008,Alm.,12000,3,Villa,75,1963,-5 %
+Malkestien 3 3760 Gudhjem,3,1250000.0,06-05-2008,Alm.,11467,5,Villa,109,1895,
+Kløvermarken 1 3760 Gudhjem,1,700000.0,06-05-2008,Alm.,7777,3,Villa,90,1988,
+Brøddegade 14. 21 3760 Gudhjem,21,1150000.0,01-05-2008,Alm.,19827,2,Sommerhus,58,1900,
+Klemenskervej 3 3760 Gudhjem,3,750000.0,29-04-2008,Alm.,5769,6,Villa,130,1931,-6 %
+Åløsevej 13 3760 Gudhjem,13,951000.0,28-04-2008,Alm.,6604,4,Stuehus,144,1904,-11 %
+Mortingevej 18 3760 Gudhjem,18,615000.0,14-04-2008,Alm.,4920,5,Villa,125,1935,
+Stangevej 15 3760 Gudhjem,15,1895000.0,03-04-2008,Alm.,11770,5,Sommerhus,161,1969,
+Studebyvej 1 3760 Gudhjem,1,400000.0,24-03-2008,Alm.,5633,2,Stuehus,71,1877,
+Brøddegade 37 3760 Gudhjem,37,1995000.0,15-03-2008,Alm.,17347,6,Villa,115,1777,
+Melsted By 23 3760 Gudhjem,23,1200000.0,13-03-2008,Alm.,37500,2,Sommerhus,32,1900,-13 %
+Kalleholled 7 3760 Gudhjem,7,1185000.0,12-03-2008,Alm.,20431,3,Sommerhus,58,1974,0 %
+Brøddegade 18 3760 Gudhjem,18,331344.0,14-02-2008,Alm.,1781,5,Villa,186,1890,
+Gamlevældevej 40 3760 Gudhjem,40,6831237.0,07-02-2008,Alm.,19351,16,Stuehus,353,1848,
+Pihls Allé 9 3760 Gudhjem,9,795000.0,24-01-2008,Alm.,5932,4,Villa,134,1974,0 %
+Kirkevej 5 3760 Gudhjem,5,1540000.0,18-01-2008,Alm.,11937,4,Villa,129,1877,-2 %
+Kirkestien 5 3760 Gudhjem,5,850000.0,26-12-2007,Fam.,9770,5,Sommerhus,87,1870,
+Åsedamsvej 13 3760 Gudhjem,13,450000.0,21-12-2007,Fam.,2184,7,Villa,206,1873,
+Kastanievej 8 3760 Gudhjem,8,1825000.0,18-12-2007,Alm.,10428,7,Villa,175,1977,-9 %
+Holkavej 5 3760 Gudhjem,5,660000.0,29-11-2007,Alm.,7415,4,Villa,89,1911,
+Gamlevældevej 34 3760 Gudhjem,34,2375000.0,23-11-2007,Alm.,11757,7,Villa,202,1900,0 %
+Lærkesøvej 5 3760 Gudhjem,5,2450000.0,21-11-2007,Alm.,11342,8,Sommerhus,216,2009,
+Malkestien 13 3760 Gudhjem,13,1000000.0,19-11-2007,Alm.,6756,4,Villa,148,1877,
+Gudhjemvej 10 3760 Gudhjem,10,298000.0,10-11-2007,Alm.,2684,4,Villa,111,1925,
+Brøddegade 36 3760 Gudhjem,36,446250.0,08-11-2007,Alm.,2176,8,Villa,205,1877,
+Dyndalevej 4 3760 Gudhjem,4,1400000.0,05-11-2007,Alm.,11475,5,Sommerhus,122,1915,-6 %
+"Brøddegade 14, 1. 8 3760 Gudhjem",8,1490000.0,05-11-2007,Alm.,40270,2,Sommerhus,37,1993,
+Møllebakken 6 3760 Gudhjem,6,1850000.0,04-11-2007,Alm.,11144,6,Villa,166,1948,0 %
+Gråmyrvej 1B 3760 Gudhjem,0,1025000.0,26-10-2007,Alm.,12654,3,Villa,81,1978,
+Nybrovej 28 3760 Gudhjem,28,255000.0,25-10-2007,Auktion,1015,3,Villa,251,1928,
+Præstegårdsvej 5 3760 Gudhjem,5,350000.0,10-10-2007,Alm.,2464,5,Villa,142,1800,
+Nybrovej 12 3760 Gudhjem,12,150000.0,12-09-2007,Alm.,2027,2,Biograf o.l.,74,1924,
+Kastanievej 1 3760 Gudhjem,1,750000.0,12-09-2007,Alm.,7281,3,Villa,103,1900,0 %
+Klemenskervej 54 3760 Gudhjem,54,525000.0,12-09-2007,Alm.,2916,7,Stuehus,180,1877,5 %
+Gudhjem Feriepark 99 3760 Gudhjem,99,787000.0,10-09-2007,Alm.,14574,2,Fritid,54,1977,
+Holkadalen 2 3760 Gudhjem,2,2400000.0,31-08-2007,Alm.,14814,5,Villa,162,1936,-4 %
+Bækken 6 3760 Gudhjem,6,2800000.0,27-08-2007,Alm.,16000,4,Villa,175,2014,12 %
+Kjeldsebyvej 8 3760 Gudhjem,8,725000.0,09-08-2007,Andet,4341,6,Sommerhus,167,1930,
+Melsted Langgade 45. 7 3760 Gudhjem,7,1398000.0,27-07-2007,Alm.,25418,2,Fritid,55,1954,
+Melsted Langgade 45. 8 3760 Gudhjem,8,1195000.0,26-07-2007,Alm.,26555,2,Fritid,45,1954,
+Melsted Langgade 45. 3 3760 Gudhjem,3,1150000.0,12-07-2007,Alm.,25000,2,Fritid,46,1954,
+Peter Kochsvej 3 3760 Gudhjem,3,2250000.0,05-07-2007,Alm.,14062,6,Villa,160,2007,0 %
+Melstedvej 39 3760 Gudhjem,39,7475000.0,04-07-2007,Alm.,106785,5,Fritid,70,1959,
+Melstedvej 42 3760 Gudhjem,42,1998000.0,30-06-2007,Alm.,55500,2,Sommerhus,36,1961,0 %
+Kobbevej 18 3760 Gudhjem,18,1500000.0,29-06-2007,Alm.,4237,6,Stuehus,354,2013,68 %
+Melsted By 15 3760 Gudhjem,15,2805000.0,29-06-2007,Alm.,19081,5,Villa,147,1900,41 %
+Vietsvej 12 3760 Gudhjem,12,1900000.0,25-06-2007,Alm.,8225,6,Villa,231,1600,-4 %
+Melsted Langgade 25 3760 Gudhjem,25,1913000.0,30-05-2007,Alm.,21988,3,Sommerhus,87,1877,7 %
+Egeskovvej 22 3760 Gudhjem,22,426000.0,23-05-2007,Alm.,4953,5,Stuehus,86,1944,14 %
+Melsted Langgade 45. 4 3760 Gudhjem,4,795000.0,22-05-2007,Alm.,17666,2,Fritid,45,1954,
+Brøddegade 4 3760 Gudhjem,4,1300000.0,22-05-2007,Alm.,6467,5,Villa,201,1900,
+Gartnervænget 5 3760 Gudhjem,5,1425000.0,16-05-2007,Alm.,13970,3,Villa,102,1971,0 %
+Stavsdalvej 5 3760 Gudhjem,5,575000.0,09-05-2007,Fam.,3709,5,Stuehus,155,1900,
+Melstedvej 26 3760 Gudhjem,26,2750000.0,08-05-2007,Alm.,20522,7,Villa,134,1935,
+Gudhjemvej 24 3760 Gudhjem,24,465000.0,03-05-2007,Alm.,3750,5,Villa,124,1948,
+Lindeskovvej 15 3760 Gudhjem,15,2650000.0,18-04-2007,Alm.,16358,5,Stuehus,162,1923,0 %
+Melsted Langgade 45. 6 3760 Gudhjem,6,1473000.0,03-04-2007,Alm.,28882,2,Fritid,51,1954,
+"Brøddegade 14, 1. 4 3760 Gudhjem",4,995000.0,01-04-2007,Alm.,15546,2,Sommerhus,64,1993,
+"Brøddegade 14, 1. 5 3760 Gudhjem",5,875000.0,01-04-2007,Alm.,18617,2,Sommerhus,47,1993,
+Skramman 10 3760 Gudhjem,10,660000.0,28-03-2007,Alm.,5641,4,Villa,117,1934,-2 %
+Larsensvej 6 3760 Gudhjem,6,395000.0,28-03-2007,Alm.,3434,6,Villa,115,1934,
+Åløsevej 20 3760 Gudhjem,20,1200000.0,27-03-2007,Alm.,8571,4,Villa,140,1900,-8 %
+Melsted Langgade 45. 9 3760 Gudhjem,9,1245000.0,26-03-2007,Alm.,28295,2,Fritid,44,1954,
+"Brøddegade 14, 1. 6 3760 Gudhjem",6,875000.0,17-03-2007,Alm.,18617,2,Sommerhus,47,1993,
+Gudhjemvej 111F 3760 Gudhjem,0,750000.0,13-03-2007,Alm.,13888,3,Fritid,54,1976,
+Melsted Langgade 45. 1 3760 Gudhjem,1,1295000.0,12-03-2007,Alm.,25392,2,Fritid,51,1954,
+Sdr. Strandvej 140 3760 Gudhjem,140,2450000.0,07-03-2007,Alm.,24019,6,Sommerhus,102,1913,
+Gudhjem Feriepark 72 3760 Gudhjem,72,700000.0,03-03-2007,Alm.,12962,3,Fritid,54,1977,
+Røvej 32 3760 Gudhjem,32,1500000.0,01-03-2007,Alm.,11718,6,Stuehus,128,1923,
+Gudhjemvej 33 3760 Gudhjem,33,825000.0,26-02-2007,Alm.,4969,4,Villa,166,1903,-8 %
+Duebakken 1 3760 Gudhjem,1,465000.0,21-02-2007,Alm.,10568,2,Villa,44,1937,0 %
+Randkløvevej 27 3760 Gudhjem,27,400000.0,14-02-2007,Alm.,3809,5,Sommerhus,105,1935,
+Lille Jernkaasvej 5A 3760 Gudhjem,0,450000.0,11-02-2007,Alm.,8333,3,Fritid,54,1977,
+Brøddegade 14. 23 3760 Gudhjem,23,1659625.0,02-02-2007,Alm.,36078,2,Sommerhus,46,1900,
+Brøddegade 14. 14 3760 Gudhjem,14,1060000.0,31-01-2007,Alm.,19272,2,Sommerhus,55,1900,
+Klemenskervej 49 3760 Gudhjem,49,725000.0,30-01-2007,Alm.,4190,7,Villa,173,1880,0 %
+Klemenskervej 47 3760 Gudhjem,47,810000.0,27-01-2007,Alm.,6377,5,Stuehus,127,1910,-2 %
+Klemenskervej 8 3760 Gudhjem,8,1000000.0,25-01-2007,Alm.,8064,3,Sommerhus,124,1957,
+Gudhjemvej 67 3760 Gudhjem,67,1750000.0,17-01-2007,Alm.,9308,7,Villa,188,1942,
+Nybrovej 6 3760 Gudhjem,6,525000.0,11-01-2007,Alm.,3409,6,Villa,154,1951,0 %
+Melsted Langgade 45. 12 3760 Gudhjem,12,1843000.0,10-01-2007,Alm.,34773,2,Fritid,53,1954,
+Melsted Langgade 45. 13 3760 Gudhjem,13,1900000.0,10-01-2007,Alm.,33333,2,Fritid,57,1954,
+Ejnar Mikkelsensvej 13 3760 Gudhjem,13,2825000.0,09-01-2007,Alm.,21082,5,Villa,134,1886,
+Stavsdalvej 46 3760 Gudhjem,46,325000.0,09-01-2007,Alm.,3457,4,Sommerhus,94,1894,0 %
+Brøddegade 14. 25 3760 Gudhjem,25,1325000.0,04-01-2007,Alm.,21370,2,Sommerhus,62,1900,
+Brøddegade 14. 17 3760 Gudhjem,17,1100000.0,04-01-2007,Alm.,16923,2,Sommerhus,65,1900,
+Klemenskervej 28 3760 Gudhjem,28,850000.0,01-01-2007,Alm.,5704,5,Sommerhus,149,1877,
+Gudhjemvej 46 3760 Gudhjem,46,1095000.0,28-12-2006,Alm.,5763,6,Villa,190,1842,
+Klemenskervej 50 3760 Gudhjem,50,1350000.0,22-12-2006,Alm.,6164,5,Villa,219,1927,
+Larsensvej 1 3760 Gudhjem,1,525000.0,22-12-2006,Alm.,5303,5,Villa,99,1937,
+Brøddegade 14. 15 3760 Gudhjem,15,2200000.0,18-12-2006,Alm.,36666,2,Sommerhus,60,1900,
+Nørreløkke 11 3760 Gudhjem,11,1650000.0,17-12-2006,Fam.,13865,4,Sommerhus,119,1967,
+Malkestien 17 3760 Gudhjem,17,589000.0,11-12-2006,Fam.,4674,5,Villa,126,1960,
+Stavsdalvej 74 3760 Gudhjem,74,807500.0,09-12-2006,Alm.,4436,7,Villa,182,1938,
+Gudhjemvej 111X 3760 Gudhjem,0,895000.0,09-11-2006,Alm.,21829,3,Sommerhus,41,1970,
+Holkavej 4 3760 Gudhjem,4,1895000.0,31-10-2006,Alm.,14356,2,Villa,132,1911,
+"Gudhjemvej 111D, 1. 3 3760 Gudhjem",3,865000.0,24-10-2006,Alm.,16320,3,Fritid,53,1976,
+Klemenskervej 38 3760 Gudhjem,38,699000.0,13-10-2006,Alm.,5177,6,Villa,135,1900,
+Duebakken 12 3760 Gudhjem,12,365000.0,05-10-2006,Alm.,1559,6,Villa,234,1971,
+Gudhjemvej 61 3760 Gudhjem,61,518500.0,29-09-2006,Fam.,9783,2,Sommerhus,53,1962,
+Stavehøl 2 3760 Gudhjem,2,1750000.0,11-09-2006,Alm.,10869,6,Villa,161,1800,
+Melsted By 3 3760 Gudhjem,3,1545000.0,10-09-2006,Alm.,19074,4,Villa,81,1900,
+Vinkelvej 6 3760 Gudhjem,6,695000.0,31-08-2006,Alm.,5072,4,Villa,137,1966,
+Stavsdalvej 50 3760 Gudhjem,50,510000.0,30-08-2006,Fam.,4434,4,Villa,115,1949,
+Lillevang 15 3760 Gudhjem,15,925000.0,14-08-2006,Alm.,11708,2,Villa,79,1813,
+Kobbevej 1 3760 Gudhjem,1,650000.0,14-08-2006,Alm.,5909,5,Villa,110,1829,
+Brøddegade 14. 12 3760 Gudhjem,12,1045000.0,09-08-2006,Alm.,17131,2,Sommerhus,61,1900,
+Gudhjemvej 31 3760 Gudhjem,31,610000.0,30-07-2006,Alm.,3426,5,Villa,178,1968,
+Stavsdalvej 29 3760 Gudhjem,29,200000.0,21-07-2006,Alm.,0,2,Villa,127,1955,
+Gudhjem Feriepark 21 3760 Gudhjem,21,890000.0,14-07-2006,Alm.,16481,3,Fritid,54,1977,
+Vinkelvej 7 3760 Gudhjem,7,280000.0,08-07-2006,Fam.,5185,1,Villa,54,1966,
+Peter Kochsvej 5 3760 Gudhjem,5,250000.0,02-07-2006,Alm.,1736,3,Villa,144,2008,
+Gudhjem Feriepark 37 3760 Gudhjem,37,865000.0,19-06-2006,Alm.,16018,3,Fritid,54,1977,
+Vinkelvej 9 3760 Gudhjem,9,642500.0,17-06-2006,Fam.,4092,5,Villa,157,1973,
+Egeskovvej 3 3760 Gudhjem,3,1695000.0,16-06-2006,Alm.,13038,3,Stuehus,130,1911,
+Gudhjem Feriepark 63 3760 Gudhjem,63,315000.0,15-06-2006,Alm.,6057,3,Fritid,52,1977,
+Duebakken 13 3760 Gudhjem,13,1278000.0,12-06-2006,Alm.,9830,4,Villa,130,1965,
+Kirkestien 1 3760 Gudhjem,1,200000.0,23-05-2006,Fam.,1709,4,Villa,117,1780,
+Røvej 18 3760 Gudhjem,18,470000.0,22-05-2006,Alm.,3821,6,Villa,123,1929,
+Gudhjem Feriepark 38 3760 Gudhjem,38,349000.0,01-05-2006,Fam.,6711,3,Fritid,52,1977,
+Nørresand 14 3760 Gudhjem,14,2300000.0,22-04-2006,Alm.,14375,6,Fritid,160,1964,
+Røvej 47 3760 Gudhjem,47,1200000.0,03-04-2006,Alm.,3614,9,Villa,332,1927,
+Nørregårdsvej 2 3760 Gudhjem,2,2120000.0,30-03-2006,Fam.,6905,11,Stuehus,307,1922,
+Melsted Langgade 33 3760 Gudhjem,33,1075000.0,24-03-2006,Fam.,6847,4,Villa,157,2000,
+Gudhjem Feriepark 41 3760 Gudhjem,41,945000.0,24-03-2006,Alm.,18173,3,Fritid,52,1977,
+Nørreløkke 12 3760 Gudhjem,12,1485000.0,08-02-2006,Alm.,15000,6,Sommerhus,99,1969,
+Gamlevældevej 8 3760 Gudhjem,8,335000.0,31-01-2006,Alm.,3190,4,Villa,105,1938,
+Åløsevej 17 3760 Gudhjem,17,1280000.0,23-01-2006,Alm.,5470,7,Villa,234,1900,
+Nybrovej 32 3760 Gudhjem,32,120900.0,16-01-2006,Alm.,1233,4,Villa,98,1924,
+Nybrovej 26 3760 Gudhjem,26,305000.0,13-01-2006,Alm.,1320,5,Villa,231,1926,
+Kjeldsebyvej 2 3760 Gudhjem,2,600000.0,12-01-2006,Alm.,2764,7,Stuehus,217,1830,
+Løkkegade 17 3760 Gudhjem,17,520000.0,05-01-2006,Alm.,3421,5,Villa,152,1905,
+Melstedvej 45 3760 Gudhjem,45,750000.0,27-12-2005,Alm.,6521,4,Stuehus,115,1910,
+Melstedvej 19 3760 Gudhjem,19,550000.0,25-11-2005,Alm.,5339,4,Villa,103,1923,
+Klemenskervej 18 3760 Gudhjem,18,875000.0,22-11-2005,Alm.,0,6,Villa,269,1867,
+Stangevej 5 3760 Gudhjem,5,875000.0,18-11-2005,Alm.,3301,7,Villa,265,1878,
+Gudhjemvej 111P 3760 Gudhjem,0,750000.0,14-11-2005,Alm.,17441,3,Sommerhus,43,1970,
+Sct. Jørgensgade 4 3760 Gudhjem,4,850000.0,01-11-2005,Alm.,0,4,Rækkehus,87,1927,
+Røvej 48 3760 Gudhjem,48,595000.0,26-10-2005,Alm.,4343,6,Villa,137,1916,
+Nybrovej 13 3760 Gudhjem,13,295000.0,14-10-2005,Fam.,1475,7,Villa,200,1928,
+Grevens Dal 30 3760 Gudhjem,30,2195000.0,14-10-2005,Alm.,28141,4,Villa,78,1940,
+Røvej 53B 3760 Gudhjem,0,480000.0,16-09-2005,Alm.,1991,7,Villa,241,1925,
+Nørresand 12 3760 Gudhjem,12,775000.0,12-09-2005,Fam.,5272,6,Villa,147,1916,
+Gudhjemvej 14 3760 Gudhjem,14,450000.0,28-08-2005,Alm.,4166,3,Villa,108,1943,
+Gudhjemvej 97 3760 Gudhjem,97,1265000.0,19-08-2005,Alm.,8547,5,Villa,148,1918,
+Kastanievej 5 3760 Gudhjem,5,900000.0,04-08-2005,Alm.,5732,5,Villa,157,1910,
+Slettevej 10 3760 Gudhjem,10,785000.0,11-07-2005,Alm.,4786,4,Sommerhus,164,1890,
+Duebakken 17 3760 Gudhjem,17,965000.0,08-07-2005,Alm.,7658,7,Villa,126,1970,
+Brøddegade 17 3760 Gudhjem,17,560000.0,04-07-2005,Alm.,4705,4,Villa,119,1877,
+Skramman 24 3760 Gudhjem,24,850000.0,04-07-2005,Alm.,4722,4,Villa,180,1980,
+"Gudhjemvej 111D, 1. 1 3760 Gudhjem",1,625000.0,04-07-2005,Alm.,11574,3,Fritid,54,1976,
+Stavehøl 4 3760 Gudhjem,4,1595000.0,01-07-2005,Alm.,11312,5,Sommerhus,141,1878,
+Gudhjem Feriepark 76 3760 Gudhjem,76,798000.0,29-06-2005,Alm.,14777,3,Fritid,54,1977,
+Klemenskervej 11 3760 Gudhjem,11,895000.0,28-06-2005,Alm.,4710,6,Villa,190,1943,
+Lille Jernkaasvej 3C 3760 Gudhjem,0,848000.0,28-06-2005,Alm.,15703,3,Fritid,54,1977,
+Melsted By 9 3760 Gudhjem,9,1525000.0,23-06-2005,Alm.,10234,6,Villa,149,1926,
+Sct. Jørgensgade 6 3760 Gudhjem,6,795000.0,21-06-2005,Alm.,11357,4,Rækkehus,70,1852,
+Stavsdalvej 60 3760 Gudhjem,60,535000.0,21-06-2005,Alm.,3474,5,Stuehus,154,1901,
+Lille Jernkaasvej 3D 3760 Gudhjem,0,848000.0,15-06-2005,Alm.,15703,3,Fritid,54,1977,
+Gudhjem Feriepark 29 3760 Gudhjem,29,898000.0,15-06-2005,Alm.,17269,3,Fritid,52,1977,
+Brommevej 33 3760 Gudhjem,33,665000.0,12-06-2005,Alm.,4925,4,Villa,135,1894,
+Lille Jernkaasvej 7B 3760 Gudhjem,0,928000.0,12-06-2005,Alm.,17846,3,Fritid,52,1977,
+Klemenskervej 56 3760 Gudhjem,56,320000.0,26-05-2005,Alm.,4000,4,Villa,80,1942,
+Krækketsvej 10 3760 Gudhjem,10,695000.0,23-05-2005,Alm.,3564,8,Villa,195,1890,
+Melsted Langgade 41 3760 Gudhjem,41,550000.0,21-05-2005,Fam.,5555,1,Sommerhus,99,1950,
+Gudhjem Feriepark 30 3760 Gudhjem,30,898000.0,08-05-2005,Alm.,16629,3,Fritid,54,1977,
+Røvej 54 3760 Gudhjem,54,275000.0,04-05-2005,Alm.,2477,4,Villa,111,1915,
+Skramman 15 3760 Gudhjem,15,605000.0,03-05-2005,Alm.,5041,4,Villa,120,1979,
+Gamlevældevej 30 3760 Gudhjem,30,185000.0,25-04-2005,Alm.,1594,4,Villa,116,1900,
+Lærkesøvej 4 3760 Gudhjem,4,900000.0,17-04-2005,Alm.,8823,4,Sommerhus,102,1800,
+Holkavej 6 3760 Gudhjem,6,800000.0,16-04-2005,Alm.,7547,5,Villa,106,1914,
+Gamlevældevej 42 3760 Gudhjem,42,1300000.0,07-04-2005,Alm.,4642,7,Villa,280,1851,
+Klemenskervej 2 3760 Gudhjem,2,92500.0,22-02-2005,Alm.,660,6,Villa,140,1853,
+Hjortevej 2 3760 Gudhjem,2,2125000.0,02-02-2005,Fam.,9042,5,Stuehus,235,1895,
+Randkløvevej 25 3760 Gudhjem,25,730000.0,01-02-2005,Alm.,11967,3,Sommerhus,61,1983,
+Nybrovej 16 3760 Gudhjem,16,510000.0,24-01-2005,Alm.,2266,6,Villa,225,1928,
+Gamlevældevej 38 3760 Gudhjem,38,1950000.0,10-01-2005,Alm.,7500,9,Stuehus,260,1840,
+Kalleholled 9 3760 Gudhjem,9,173333.0,24-12-2004,Fam.,0,5,Sommerhus,95,1969,
+Åsedamsvej 2 3760 Gudhjem,2,5460000.0,22-12-2004,Fam.,15166,12,Stuehus,360,1923,
+Åsedamsvej 5 3760 Gudhjem,5,230000.0,22-12-2004,Fam.,974,6,Villa,236,1898,
+Egeskovvej 5 3760 Gudhjem,5,4152978.0,01-12-2004,Alm.,17304,11,Stuehus,240,1900,
+"Lille Jernkaasvej 1A, 1 3760 Gudhjem",1,225000.0,26-10-2004,Alm.,1939,3,Fritid,116,1977,
+Gudhjem Feriepark 20 3760 Gudhjem,20,928000.0,24-10-2004,Alm.,17846,3,Fritid,52,1977,
+Ejnar Mikkelsensvej 6 3760 Gudhjem,6,1325000.0,15-10-2004,Alm.,7010,6,Villa,189,1920,
+Lille Jernkaasvej 7F 3760 Gudhjem,0,928000.0,10-10-2004,Alm.,17846,3,Fritid,52,1977,
+Lille Jernkaasvej 7E 3760 Gudhjem,0,928000.0,10-10-2004,Alm.,17846,3,Fritid,52,1977,
+Lille Jernkaasvej 3E 3760 Gudhjem,0,848000.0,10-10-2004,Alm.,16307,3,Fritid,52,1977,
+Gudhjem Feriepark 46 3760 Gudhjem,46,728000.0,10-10-2004,Alm.,13481,3,Fritid,54,1977,
+Gudhjem Feriepark 45 3760 Gudhjem,45,728000.0,09-10-2004,Alm.,14000,3,Fritid,52,1977,
+Bokulvej 8 3760 Gudhjem,8,250000.0,01-10-2004,Alm.,1141,6,Villa,219,2007,
+Lindeskovvej 11 3760 Gudhjem,11,160674.0,28-09-2004,Alm.,472,9,Stuehus,340,1912,
+Gudhjemvej 38 3760 Gudhjem,38,437550.0,28-09-2004,Alm.,0,5,Villa,184,1900,
+Brøddegade 19 3760 Gudhjem,19,2175000.0,17-09-2004,Alm.,11447,9,Rækkehus,190,1902,
+Nørrekrog 1 3760 Gudhjem,1,382500.0,07-09-2004,Fam.,5795,3,Sommerhus,66,1962,
+Gudhjemvej 39 3760 Gudhjem,39,450000.0,12-08-2004,Alm.,2380,7,Villa,189,1908,
+Åløsevej 29 3760 Gudhjem,29,2200000.0,27-07-2004,Fam.,12790,10,Stuehus,172,1929,
+Gamlevældevej 36 3760 Gudhjem,36,600000.0,12-07-2004,Fam.,3296,5,Villa,182,1900,
+Brommevej 32 3760 Gudhjem,32,680000.0,22-06-2004,Alm.,3035,4,Villa,224,1922,
+Skramman 4 3760 Gudhjem,4,499000.0,16-06-2004,Alm.,4455,3,Villa,112,1957,
+Melstedvej 14 3760 Gudhjem,14,525000.0,11-06-2004,Fam.,4166,3,Villa,126,1939,
+Brommevej 36 3760 Gudhjem,36,425000.0,03-06-2004,Alm.,5666,3,Sommerhus,75,1912,
+Holkavej 12 3760 Gudhjem,12,795000.0,02-06-2004,Alm.,5638,6,Villa,141,1903,
+Gudhjemvej 42 3760 Gudhjem,42,385000.0,02-06-2004,Alm.,4476,3,Villa,86,1777,
+Duebakken 5 3760 Gudhjem,5,500000.0,31-05-2004,Alm.,7462,3,Sommerhus,67,1949,
+Gudhjem Feriepark 92 3760 Gudhjem,92,548000.0,23-05-2004,Alm.,10148,3,Fritid,54,1977,
+Sigtevej 12 3760 Gudhjem,12,1450000.0,10-05-2004,Alm.,6872,5,Stuehus,211,1777,
+Lindeskovvej 13 3760 Gudhjem,13,1300000.0,06-05-2004,Alm.,6103,10,Stuehus,213,1850,
+Gudhjemvej 44 3760 Gudhjem,44,2850000.0,05-04-2004,Alm.,13636,6,Stuehus,209,1800,
+Vietsvej 6 3760 Gudhjem,6,475000.0,18-03-2004,Alm.,1684,7,Villa,282,1912,
+Melsted By 4 3760 Gudhjem,4,586500.0,16-03-2004,Fam.,6173,3,Sommerhus,95,1850,
+Stavsdalvej 34 3760 Gudhjem,34,695000.0,04-03-2004,Alm.,5000,3,Stuehus,139,1919,
+Nybrovej 38 3760 Gudhjem,38,65000.0,16-02-2004,Auktion,878,4,Villa,74,1887,
+Salenevej 5 3760 Gudhjem,5,250000.0,05-02-2004,Alm.,1269,6,Stuehus,197,1900,
+Skramman 17 3760 Gudhjem,17,625000.0,24-01-2004,Alm.,5122,5,Villa,122,1980,
+Klemenskervej 30 3760 Gudhjem,30,250000.0,23-12-2003,Andet,1366,6,Stuehus,183,1950,
+Gamlevældevej 31 3760 Gudhjem,31,650000.0,18-12-2003,Alm.,2241,10,Stuehus,290,1881,
+Melsted Langgade 48 3760 Gudhjem,48,1995000.0,09-12-2003,Alm.,0,7,Villa,184,1932,
+Lærkesøvej 1 3760 Gudhjem,1,460000.0,07-11-2003,Alm.,3432,5,Stuehus,134,1850,
+Nørresand 6 3760 Gudhjem,6,629000.0,03-11-2003,Fam.,5198,5,Sommerhus,121,1877,
+Nørreløkke 20 3760 Gudhjem,20,1200000.0,25-09-2003,Alm.,0,5,Sommerhus,110,1986,
+Salenevej 1 3760 Gudhjem,1,1000000.0,25-09-2003,Alm.,4651,7,Sommerhus,215,1853,
+Peter Kochsvej 11 3760 Gudhjem,11,69160.0,10-09-2003,Alm.,277,6,Villa,249,2004,
+Åløsevej 4 3760 Gudhjem,4,250000.0,10-09-2003,Alm.,2551,2,Villa,98,1930,
+Nybrovej 29 3760 Gudhjem,29,550000.0,01-09-2003,Alm.,3716,5,Villa,148,1975,
+Præstegårdsvej 4 3760 Gudhjem,4,585000.0,25-08-2003,Alm.,2478,8,Stuehus,236,1927,
+Brommevej 34 3760 Gudhjem,34,975000.0,25-08-2003,Alm.,4096,12,Stuehus,238,1913,
+Røvej 39 3760 Gudhjem,39,348000.0,22-08-2003,Alm.,2035,6,Sommerhus,171,1941,
+Ejnar Mikkelsensvej 16 3760 Gudhjem,16,280500.0,19-08-2003,Alm.,2337,3,Villa,120,1865,
+Gamlevældevej 3 3760 Gudhjem,3,307890.0,13-08-2003,Alm.,2904,4,Villa,106,1924,
+Gråmyrvej 7 3760 Gudhjem,7,825000.0,13-08-2003,Alm.,9482,3,Sommerhus,87,1930,
+Gamlevældevej 12 3760 Gudhjem,12,325000.0,09-07-2003,Alm.,0,3,Villa,76,1941,
+Sct. Jørgensgade 8 3760 Gudhjem,8,485000.0,08-07-2003,Alm.,2803,4,Villa,173,1917,
+Peter Kochsvej 2 3760 Gudhjem,2,55000.0,07-07-2003,Alm.,416,4,Villa,132,2005,
+Kirkevej 12 3760 Gudhjem,12,835000.0,26-06-2003,Alm.,6325,4,Rækkehus,132,1877,
+Salenevej 7 3760 Gudhjem,7,550000.0,26-06-2003,Alm.,2148,12,Villa,256,1777,
+Stavsdalvej 62 3760 Gudhjem,62,470000.0,25-06-2003,Alm.,3852,3,Villa,122,1922,
+Klemenskervej 6 3760 Gudhjem,6,420000.0,12-06-2003,Alm.,0,3,Villa,129,1948,
+Nørresand 21 3760 Gudhjem,21,875000.0,04-06-2003,Alm.,0,3,Villa,110,1934,
+Stavsdalvej 28 3760 Gudhjem,28,398000.0,20-05-2003,Alm.,3790,2,Villa,105,1919,
+Peter Kochsvej 6 3760 Gudhjem,6,47740.0,06-05-2003,Alm.,284,6,Villa,168,2004,
+Melstedvej 6 3760 Gudhjem,6,367837.0,25-04-2003,Andet,2572,4,Villa,143,1910,
+Melsted By 11B 3760 Gudhjem,0,985000.0,16-04-2003,Alm.,0,4,Villa,152,1777,
+Krækketsvej 9 3760 Gudhjem,9,650000.0,14-04-2003,Alm.,6372,3,Sommerhus,102,1900,
+Randkløvevej 23 3760 Gudhjem,23,850000.0,07-04-2003,Alm.,4545,7,Villa,187,1931,
+Krashavevej 31 3760 Gudhjem,31,1520000.0,28-03-2003,Alm.,15353,5,Stuehus,99,1941,
+Vietsvej 14 3760 Gudhjem,14,595000.0,19-03-2003,Alm.,0,6,Villa,173,1860,
+Brommevej 4 3760 Gudhjem,4,1174795.0,17-03-2003,Fam.,6183,6,Stuehus,190,1800,
+Melstedvej 46 3760 Gudhjem,46,1100000.0,17-03-2003,Alm.,10091,3,Sommerhus,109,1803,
+Stavsdalvej 40 3760 Gudhjem,40,442000.0,05-03-2003,Alm.,2569,7,Villa,172,1927,
+Gamlevældevej 44 3760 Gudhjem,44,12000000.0,24-02-2003,Fam.,34285,6,Stuehus,350,1902,
+Bryggerstræde 5B 3760 Gudhjem,0,418099.0,21-02-2003,Alm.,4310,2,Rækkehus,97,1929,
+Gamlevældevej 21 3760 Gudhjem,21,770000.0,03-02-2003,Alm.,3318,6,Stuehus,232,1880,
+Grevens Dal 4 3760 Gudhjem,4,300000.0,19-01-2003,Fam.,3061,5,Villa,98,1907,
+Løkkegade 21 3760 Gudhjem,21,606000.0,13-01-2003,Alm.,4625,6,Villa,131,1907,
+Brommevej 12 3760 Gudhjem,12,1735000.0,17-12-2002,Alm.,10709,5,Stuehus,162,1900,
+Krækketsvej 8 3760 Gudhjem,8,265000.0,17-12-2002,Alm.,5300,3,Sommerhus,50,1900,
+Stavsdalvej 14 3760 Gudhjem,14,325000.0,05-11-2002,Alm.,2226,4,Villa,146,1924,
+Stavsdalvej 11 3760 Gudhjem,11,240000.0,17-10-2002,Alm.,1889,4,Villa,127,1946,
+Nybrovej 3 3760 Gudhjem,3,395000.0,10-10-2002,Alm.,2515,3,Villa,157,1928,
+Bobbevej 2 3760 Gudhjem,2,821031.0,09-10-2002,Alm.,6315,5,Sommerhus,130,1909,
+"Åløsevej 2, ST 3760 Gudhjem",0,200000.0,12-09-2002,Alm.,0,3,Lejlighed,80,1942,
+Stavsdalvej 17 3760 Gudhjem,17,435000.0,04-09-2002,Alm.,0,6,Stuehus,204,1900,
+Stangevej 10 3760 Gudhjem,10,282000.0,20-08-2002,Alm.,0,7,Sommerhus,135,1877,
+Vårbækvej 1 3760 Gudhjem,1,570000.0,15-07-2002,Alm.,4318,3,Villa,132,1970,
+Brommevej 3 3760 Gudhjem,3,100000.0,09-07-2002,Alm.,598,6,Stuehus,167,1877,
+Vinkelvej 3 3760 Gudhjem,3,498000.0,27-05-2002,Alm.,3458,5,Villa,144,1970,
+Gamlevældevej 14 3760 Gudhjem,14,40000.0,19-04-2002,Alm.,294,4,Villa,136,2002,
+Skovvej 6 3760 Gudhjem,6,735000.0,05-04-2002,Alm.,0,5,Villa,170,1900,
+Sigtevej 3 3760 Gudhjem,3,143141.0,28-03-2002,Alm.,1068,6,Villa,134,1830,
+Gamlevældevej 1B 3760 Gudhjem,0,199000.0,22-03-2002,Alm.,0,3,Villa,88,1930,
+Brommevej 14 3760 Gudhjem,14,627087.0,06-03-2002,Alm.,5225,6,Stuehus,120,1900,
+Grevens Dal 1 3760 Gudhjem,1,684080.0,08-02-2002,Alm.,6000,3,Villa,114,1938,
+Gamlevældevej 9 3760 Gudhjem,9,290000.0,31-01-2002,Fam.,2320,4,Villa,125,1920,
+Åløsevej 7 3760 Gudhjem,7,162000.0,31-01-2002,Fam.,1840,3,Villa,88,1924,
+Gudhjemvej 9 3760 Gudhjem,9,460000.0,09-01-2002,Alm.,3262,5,Villa,141,1953,
+Løkkegade 34 3760 Gudhjem,34,160242.0,27-12-2001,Alm.,1540,5,Sommerhus,104,1958,
+Brommevej 22 3760 Gudhjem,22,750000.0,11-11-2001,Alm.,4120,3,Stuehus,182,1928,
+Lindeskovvej 19 3760 Gudhjem,19,650000.0,08-11-2001,Alm.,0,5,Sommerhus,133,1950,
+Brommevej 19 3760 Gudhjem,19,1800000.0,04-11-2001,Fam.,0,8,Stuehus,240,1936,
+Åløsevej 24 3760 Gudhjem,24,595000.0,31-10-2001,Alm.,3584,7,Villa,166,1778,
+Nybrovej 40 3760 Gudhjem,40,375000.0,18-09-2001,Alm.,3000,5,Villa,125,1935,
+Kastanievej 13 3760 Gudhjem,13,520000.0,23-08-2001,Alm.,6582,2,Villa,79,1918,
+Stavsdalvej 38 3760 Gudhjem,38,790000.0,17-08-2001,Alm.,6124,5,Stuehus,129,1882,
+Melstedvej 13 3760 Gudhjem,13,375150.0,10-08-2001,Alm.,2534,3,Villa,148,1910,
+Åsedamsvej 1 3760 Gudhjem,1,771283.0,09-08-2001,Alm.,4731,5,Stuehus,163,1922,
+Melsted Langgade 6 3760 Gudhjem,6,775000.0,08-08-2001,Alm.,4613,3,Villa,168,1924,
+Kastanievej 2 3760 Gudhjem,2,675000.0,31-07-2001,Alm.,5672,6,Villa,119,1900,
+Rø Skolevej 2 3760 Gudhjem,2,525000.0,14-07-2001,Alm.,2034,5,Villa,258,1928,
+Melstedvej 24 3760 Gudhjem,24,2140000.0,01-07-2001,Fam.,5944,14,Stuehus,360,1868,
+Løkkegade 30 3760 Gudhjem,30,825000.0,15-06-2001,Alm.,9166,4,Villa,90,1920,
+Klemenskervej 57 3760 Gudhjem,57,475000.0,12-06-2001,Alm.,0,4,Villa,157,1949,
+Gudhjemvej 83 3760 Gudhjem,83,545000.0,03-06-2001,Alm.,5505,3,Villa,99,1961,
+Lillevang 2 3760 Gudhjem,2,781961.0,23-05-2001,Alm.,6571,4,Villa,119,1935,
+Lillevang 3 3760 Gudhjem,3,800000.0,17-05-2001,Alm.,6956,5,Rækkehus,115,1770,
+Vietsvej 7A 3760 Gudhjem,0,795000.0,09-05-2001,Alm.,3840,5,Villa,207,1936,
+Nørresand 5 3760 Gudhjem,5,505565.0,06-04-2001,Fam.,6652,3,Sommerhus,76,1945,
+Klemenskervej 58 3760 Gudhjem,58,1170532.0,02-04-2001,Fam.,8735,6,Stuehus,134,1925,
+Melstedvej 8 3760 Gudhjem,8,382500.0,27-03-2001,Fam.,2533,3,Villa,151,1919,
+Malkestien 7 3760 Gudhjem,7,480222.0,15-03-2001,Alm.,4249,3,Rækkehus,113,1965,
+Lindeskovvej 23 3760 Gudhjem,23,677000.0,06-03-2001,Alm.,6211,5,Villa,109,1936,
+Gamlevældevej 15 3760 Gudhjem,15,221000.0,23-02-2001,Fam.,1145,6,Villa,193,1886,
+Lynggårdsvej 3 3760 Gudhjem,3,355000.0,22-02-2001,Alm.,3287,4,Villa,108,1888,
+Vassebækvej 2 3760 Gudhjem,2,665000.0,17-02-2001,Alm.,0,5,Stuehus,376,1950,
+Møllebakken 10 3760 Gudhjem,10,750000.0,15-02-2001,Alm.,6147,3,Villa,122,1941,
+Klemenskervej 48 3760 Gudhjem,48,450000.0,11-02-2001,Alm.,3383,4,Stuehus,133,1777,
+Stavsdalvej 37 3760 Gudhjem,37,395000.0,17-01-2001,Fam.,2762,5,Stuehus,143,1922,
+Vietsvej 8 3760 Gudhjem,8,2800000.0,21-12-2000,Alm.,19718,4,Stuehus,142,1902,
+Melsted Langgade 13 3760 Gudhjem,13,825000.0,16-12-2000,Alm.,0,6,Villa,170,1877,
+Lynggårdsvej 6 3760 Gudhjem,6,395000.0,18-11-2000,Alm.,7181,2,Sommerhus,55,1938,
+Klemenskervej 1 3760 Gudhjem,1,459320.0,20-10-2000,Alm.,3234,4,Villa,142,1935,
+Melsted By 8 3760 Gudhjem,8,500000.0,20-10-2000,Fam.,0,4,Villa,140,1725,
+Grevens Dal 60 3760 Gudhjem,60,390000.0,14-10-2000,Alm.,2689,3,Rækkehus,145,1999,
+Malkestien 19 3760 Gudhjem,19,685000.0,12-10-2000,Alm.,5393,4,Villa,127,1969,
+Nørresand 16 3760 Gudhjem,16,2060000.0,25-09-2000,Alm.,6397,6,Villa,322,1946,
+Malkestien 9 3760 Gudhjem,9,410000.0,05-09-2000,Alm.,4100,5,Rækkehus,100,1967,
+Brøddegade 3 3760 Gudhjem,3,849000.0,01-09-2000,Alm.,3053,6,Villa,278,1897,
+Vinkelvej 14 3760 Gudhjem,14,225210.0,31-08-2000,Alm.,2681,3,Rækkehus,84,1928,
+Melsted By 19 3760 Gudhjem,19,185000.0,21-08-2000,Fam.,2569,3,Sommerhus,72,1777,
+Åsedamsvej 16 3760 Gudhjem,16,385000.0,27-07-2000,Alm.,2750,4,Villa,140,1919,
+Kirkevej 16 3760 Gudhjem,16,320000.0,30-06-2000,Alm.,2335,5,Villa,137,1827,
+Rø Stationsvej 5 3760 Gudhjem,5,725000.0,19-06-2000,Alm.,3207,10,Villa,226,1912,
+Ejnar Mikkelsensvej 11 3760 Gudhjem,11,400000.0,05-06-2000,Fam.,0,4,Villa,110,1904,
+Gudhjemvej 93 3760 Gudhjem,93,650000.0,02-06-2000,Alm.,4850,3,Villa,134,1965,
+Åsedamsvej 7 3760 Gudhjem,7,275000.0,02-05-2000,Alm.,1589,5,Stuehus,173,1908,
+Hjortevej 13 3760 Gudhjem,13,312000.0,22-04-2000,Alm.,2836,3,Stuehus,110,1915,
+Kåsevej 8 3760 Gudhjem,8,690210.0,17-04-2000,Alm.,0,5,Villa,289,1925,
+Nørregårdsvej 6 3760 Gudhjem,6,248000.0,11-04-2000,Alm.,1823,4,Stuehus,136,1900,
+Risenholmsvej 3 3760 Gudhjem,3,344000.0,04-03-2000,Alm.,2263,5,Stuehus,152,1929,
+Klemenskervej 12 3760 Gudhjem,12,449554.0,21-02-2000,Alm.,3431,7,Villa,131,1929,
+Røvej 49 3760 Gudhjem,49,495000.0,19-02-2000,Alm.,2512,7,Villa,197,1918,
+Lindeskovvej 3 3760 Gudhjem,3,243722.0,12-02-2000,Alm.,2769,3,Villa,88,1963,
+Mortingevej 2 3760 Gudhjem,2,176000.0,07-02-2000,Auktion,977,8,Villa,180,1883,
+Nørregårdsvej 10 3760 Gudhjem,10,96201.0,02-02-2000,Fam.,1317,3,Sommerhus,73,1922,
+Gudhjemvej 52 3760 Gudhjem,52,1053333.0,31-12-1999,Fam.,0,11,Stuehus,332,1852,
+Skramman 7 3760 Gudhjem,7,445000.0,27-12-1999,Alm.,3476,7,Villa,128,1936,
+Risenholmsvej 12 3760 Gudhjem,12,102000.0,10-11-1999,Alm.,637,4,Stuehus,160,1910,
+Risenholmsvej 10 3760 Gudhjem,10,223000.0,10-11-1999,Alm.,991,8,Stuehus,225,1989,
+Skramman 20 3760 Gudhjem,20,585000.0,05-11-1999,Alm.,3702,5,Villa,158,1980,
+Røvej 23 3760 Gudhjem,23,630000.0,01-11-1999,Alm.,0,4,Villa,154,1927,
+Gamlevældevej 25 3760 Gudhjem,25,285000.0,25-10-1999,Alm.,1628,3,Villa,175,1900,
+Sigtevej 4 3760 Gudhjem,4,380000.0,22-10-1999,Alm.,3140,5,Sommerhus,121,1870,
+Brøddegade 39 3760 Gudhjem,39,473000.0,21-10-1999,Alm.,3610,5,Villa,131,1870,
+Sigtevej 6 3760 Gudhjem,6,1625000.0,20-10-1999,Alm.,11861,5,Stuehus,137,1900,
+Risenholmsvej 1 3760 Gudhjem,1,410000.0,17-10-1999,Alm.,7068,2,Villa,58,1840,
+Skramman 12 3760 Gudhjem,12,344000.0,07-10-1999,Alm.,2940,4,Villa,117,1938,
+Klemenskervej 36 3760 Gudhjem,36,430000.0,01-10-1999,Alm.,1442,9,Sommerhus,298,1905,
+Klemenskervej 10 3760 Gudhjem,10,626000.0,30-09-1999,Alm.,4968,5,Villa,126,1927,
+Gudhjemvej 32 3760 Gudhjem,32,1350000.0,10-09-1999,Alm.,5056,7,Stuehus,267,1825,
+Gamlevældevej 13 3760 Gudhjem,13,438000.0,09-09-1999,Alm.,4093,4,Stuehus,107,1914,
+Rø Stationsvej 1 3760 Gudhjem,1,599000.0,01-09-1999,Alm.,3422,6,Villa,175,1961,
+Gudhjemvej 12 3760 Gudhjem,12,90000.0,24-08-1999,Alm.,967,4,Villa,93,1936,
+Kalleholled 10 3760 Gudhjem,10,205000.0,23-08-1999,Alm.,2971,4,Sommerhus,69,2005,
+Hjortevej 5 3760 Gudhjem,5,109403.0,16-08-1999,Fam.,1302,3,Stuehus,84,1916,
+Nybrovej 41 3760 Gudhjem,41,137000.0,12-08-1999,Alm.,1370,5,Villa,100,1900,
+Gudhjemvej 4 3760 Gudhjem,4,384000.0,15-07-1999,Alm.,3096,5,Villa,124,1917,
+Brøddegade 23 3760 Gudhjem,23,572575.0,08-07-1999,Alm.,3078,5,Villa,186,1890,
+Toftevej 3 3760 Gudhjem,3,577000.0,08-07-1999,Alm.,2219,9,Villa,260,1910,
+Gudhjemvej 71 3760 Gudhjem,71,582000.0,06-07-1999,Alm.,3215,6,Villa,181,1900,
+Nybrovej 52 3760 Gudhjem,52,300000.0,30-06-1999,Alm.,0,5,Villa,118,1900,
+Gudhjemvej 37 3760 Gudhjem,37,352000.0,14-06-1999,Alm.,2427,8,Villa,145,1909,
+Røbrovej 24 3760 Gudhjem,24,483000.0,12-06-1999,Alm.,4600,4,Villa,105,1900,
+Risenholmsvej 6 3760 Gudhjem,6,70000.0,21-04-1999,Alm.,500,6,Stuehus,140,1923,
+Melstedvej 17 3760 Gudhjem,17,494000.0,12-04-1999,Alm.,2714,9,Villa,182,1922,
+Hjortevej 11 3760 Gudhjem,11,549000.0,05-04-1999,Alm.,2161,9,Stuehus,254,1915,
+Melsted By 14 3760 Gudhjem,14,330000.0,03-04-1999,Fam.,2391,6,Villa,138,1777,
+Krækketsvej 1 3760 Gudhjem,1,274000.0,25-02-1999,Alm.,2245,4,Sommerhus,122,1893,
+Melsted Langgade 31 3760 Gudhjem,31,790000.0,02-02-1999,Alm.,5563,3,Villa,142,1934,
+Melsted Langgade 53 3760 Gudhjem,53,238000.0,18-01-1999,Fam.,3260,3,Sommerhus,73,1950,
+Melsted Langgade 27 3760 Gudhjem,27,333000.0,18-01-1999,Fam.,0,4,Sommerhus,97,1877,
+Stavsdalvej 10 3760 Gudhjem,10,405000.0,06-01-1999,Alm.,2262,4,Villa,179,1935,
+Risenholmsvej 8 3760 Gudhjem,8,3100000.0,16-12-1998,Alm.,14761,7,Stuehus,210,1878,
+Løkkegade 29 3760 Gudhjem,29,460000.0,07-12-1998,Alm.,2371,4,Rækkehus,194,1898,
+Klemenskervej 4 3760 Gudhjem,4,128000.0,07-12-1998,Alm.,0,5,Villa,139,1940,
+Bokulvej 2 3760 Gudhjem,2,650000.0,07-12-1998,Alm.,4304,5,Villa,151,1961,
+Skramman 5 3760 Gudhjem,5,426800.0,26-11-1998,Alm.,0,5,Villa,145,1930,
+Vietsvej 23 3760 Gudhjem,23,293000.0,06-10-1998,Alm.,1592,6,Sommerhus,184,1760,
+Melstedvej 10 3760 Gudhjem,10,521840.0,03-10-1998,Alm.,3754,5,Villa,139,1924,
+Malkestien 8 3760 Gudhjem,8,425000.0,12-09-1998,Alm.,3269,4,Villa,130,1900,
+"Holkavej 2A, ST. 5 3760 Gudhjem",5,355000.0,31-08-1998,Alm.,7244,2,Sommerhus,49,1954,
+Studebyvej 4 3760 Gudhjem,4,1400000.0,24-08-1998,Alm.,6422,5,Stuehus,218,2004,
+Krækketsvej 12 3760 Gudhjem,12,335000.0,09-07-1998,Alm.,1450,5,Villa,231,2012,
+Høgebakken 2 3760 Gudhjem,2,320000.0,30-06-1998,Fam.,2176,5,Sommerhus,147,1935,
+Melstedvej 56 3760 Gudhjem,56,648160.0,30-06-1998,Alm.,0,5,Villa,130,1930,
+Salenevej 4 3760 Gudhjem,4,1925650.0,25-06-1998,Fam.,10580,7,Stuehus,182,1937,
+Kalleholled 6 3760 Gudhjem,6,460000.0,18-06-1998,Alm.,0,3,Sommerhus,73,1968,
+Gudhjemvej 113 3760 Gudhjem,113,495000.0,02-06-1998,Alm.,3485,3,Villa,142,1915,
+Løkkegade 23 3760 Gudhjem,23,300000.0,12-05-1998,Fam.,0,4,Villa,100,1895,
+Stavsdalvej 7 3760 Gudhjem,7,338255.0,06-05-1998,Alm.,3075,3,Villa,110,1946,
+Nybrovej 10 3760 Gudhjem,10,314650.0,27-04-1998,Alm.,0,3,Villa,128,1928,
+Duebakken 10 3760 Gudhjem,10,650000.0,07-04-1998,Alm.,5327,3,Villa,122,1979,
+Møllebakken 5 3760 Gudhjem,5,450000.0,07-04-1998,Alm.,4166,4,Villa,108,1951,
+Klemenskervej 42 3760 Gudhjem,42,261819.0,18-03-1998,Alm.,3044,3,Villa,86,1881,
+Ejnar Mikkelsensvej 4 3760 Gudhjem,4,460000.0,13-02-1998,Alm.,0,4,Villa,148,1827,
+Bobbevej 4 3760 Gudhjem,4,10000.0,27-01-1998,Alm.,83,5,Sommerhus,120,1930,
+Bobbevej 6 3760 Gudhjem,6,250000.0,05-12-1997,Alm.,2906,3,Sommerhus,86,1960,
+Flæskedalsvej 2 3760 Gudhjem,2,275000.0,25-11-1997,Alm.,0,7,Stuehus,198,1914,
+Stangevej 14 3760 Gudhjem,14,306000.0,10-11-1997,Alm.,1728,5,Villa,177,1858,
+Åsedamsvej 10 3760 Gudhjem,10,493120.0,27-10-1997,Alm.,1903,6,Villa,259,1925,
+Melstedvej 34 3760 Gudhjem,34,345000.0,23-10-1997,Alm.,3593,3,Villa,96,1778,
+Røbrovej 22 3760 Gudhjem,22,140000.0,11-10-1997,Alm.,909,4,Villa,154,1918,
+Melsted Langgade 38 3760 Gudhjem,38,510000.0,29-08-1997,Alm.,0,6,Villa,175,1947,
+Bobbevej 1 3760 Gudhjem,1,977498.0,20-08-1997,Fam.,0,10,Stuehus,227,1873,
+Salenevej 3 3760 Gudhjem,3,724000.0,18-08-1997,Alm.,0,10,Stuehus,408,1850,
+Kirkevej 7 3760 Gudhjem,7,370000.0,13-08-1997,Fam.,3057,3,Villa,121,1922,
+Møllebakken 8 3760 Gudhjem,8,535080.0,09-08-1997,Alm.,3993,5,Villa,134,1938,
+Kirkevej 6 3760 Gudhjem,6,345000.0,24-07-1997,Alm.,0,3,Villa,126,1877,
+Bækken 11 3760 Gudhjem,11,250000.0,07-07-1997,Alm.,3846,3,Villa,65,1868,
+Stavsdalvej 72 3760 Gudhjem,72,1750000.0,02-05-1997,Alm.,15217,3,Stuehus,115,1900,
+Melsted Langgade 9 3760 Gudhjem,9,736420.0,23-04-1997,Alm.,3815,4,Villa,193,1820,
+Melstedvej 20 3760 Gudhjem,20,314500.0,13-03-1997,Fam.,2246,4,Villa,140,1975,
+Skovvej 4 3760 Gudhjem,4,1599988.0,07-03-1997,Fam.,11940,4,Stuehus,134,1884,
+Melstedvej 12 3760 Gudhjem,12,417000.0,21-02-1997,Alm.,4009,4,Villa,104,1928,
+Gamlevældevej 28 3760 Gudhjem,28,145000.0,20-02-1997,Alm.,1858,5,Villa,78,1778,
+Kobbevej 2 3760 Gudhjem,2,355000.0,19-02-1997,Alm.,0,5,Villa,140,1900,
+Nybrovej 17 3760 Gudhjem,17,420000.0,07-02-1997,Alm.,1573,9,Villa,267,1911,
+Helligdomsvej 4 3760 Gudhjem,4,635000.0,06-02-1997,Alm.,7215,4,Sommerhus,88,1950,
+Studebyvej 3 3760 Gudhjem,3,350000.0,06-02-1997,Alm.,0,5,Stuehus,184,1912,
+Kastanievej 10 3760 Gudhjem,10,250000.0,27-01-1997,Alm.,0,4,Sommerhus,56,1957,
+Krashavevej 35 3760 Gudhjem,35,441000.0,23-12-1996,Alm.,2534,7,Villa,174,1837,
+Røvej 51 3760 Gudhjem,51,650000.0,12-12-1996,Alm.,7386,8,Servicevirksomhed,88,1912,
+Løkkegade 28 3760 Gudhjem,28,212500.0,10-12-1996,Fam.,2414,3,Villa,88,1963,
+Klemenskervej 13 3760 Gudhjem,13,381000.0,02-12-1996,Alm.,2953,5,Villa,129,1963,
+Vietsvej 9 3760 Gudhjem,9,125000.0,31-10-1996,Alm.,961,4,Sommerhus,130,1920,
+Røbrovej 2 3760 Gudhjem,2,230000.0,19-10-1996,Alm.,1493,3,Villa,154,1926,
+Vårbækvej 6 3760 Gudhjem,6,425000.0,07-10-1996,Alm.,2992,4,Villa,142,1970,
+Skramman 13 3760 Gudhjem,13,460000.0,05-09-1996,Alm.,2674,6,Villa,172,1979,
+Løkkegade 31 3760 Gudhjem,31,231520.0,26-08-1996,Alm.,0,5,Villa,87,1897,
+Kastanievej 14 3760 Gudhjem,14,385000.0,21-06-1996,Fam.,4529,4,Villa,85,1959,
+Kløvermarken 2 3760 Gudhjem,2,51000.0,19-06-1996,Alm.,356,5,Villa,143,1996,
+Brøddegade 31 3760 Gudhjem,31,1500000.0,07-06-1996,Alm.,14563,2,Anden beboelse,103,1938,
+Holkavej 1 3760 Gudhjem,1,165000.0,16-05-1996,Alm.,1386,5,Villa,119,1911,
+Egeskovvej 1 3760 Gudhjem,1,270000.0,13-05-1996,Alm.,3375,4,Stuehus,80,1933,
+Flæskedalsvej 4 3760 Gudhjem,4,616000.0,13-05-1996,Alm.,3850,4,Stuehus,160,2000,
+Helligdomsvej 10 3760 Gudhjem,10,651750.0,10-05-1996,Alm.,2976,8,Stuehus,219,1930,
+Kobbevej 4 3760 Gudhjem,4,650000.0,24-04-1996,Alm.,5078,3,Stuehus,128,1756,
+Åbogade 3 3760 Gudhjem,3,750000.0,16-04-1996,Alm.,0,4,Rækkehus,154,1870,
+Helligdomsvej 6 3760 Gudhjem,6,340000.0,15-04-1996,Fam.,1965,8,Stuehus,173,1973,
+Røstadvej 6 3760 Gudhjem,6,1225000.0,09-04-1996,Alm.,6920,5,Stuehus,177,1800,
+Skramman 14 3760 Gudhjem,14,541000.0,27-03-1996,Alm.,4037,4,Villa,134,1978,
+Stangevej 12 3760 Gudhjem,12,80000.0,26-03-1996,Auktion,402,10,Villa,199,1877,
+Ejnar Mikkelsensvej 32 3760 Gudhjem,32,415813.0,16-03-1996,Alm.,3523,5,Rækkehus,118,1912,
+Studebyvej 8 3760 Gudhjem,8,1521000.0,06-03-1996,Alm.,5336,11,Stuehus,285,1996,
+Klemenskervej 40 3760 Gudhjem,40,320900.0,02-03-1996,Alm.,2292,6,Stuehus,140,1937,
+Røbrovej 3 3760 Gudhjem,3,578800.0,27-02-1996,Alm.,2743,8,Stuehus,211,1923,

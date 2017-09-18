@@ -1,0 +1,562 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Fredskovvej 38 6093 Sjølund,38,1132500.0,10-05-2017,Alm.,15950,3,Sommerhus,71,1994,-13 %
+Bygmarken 14 6093 Sjølund,14,1275000.0,03-05-2017,Alm.,16346,4,Sommerhus,78,1996,-2 %
+Strandvejen Grønninghoved 26 6093 Sjølund,26,61322.0,01-05-2017,Fam.,1157,4,Sommerhus,53,1933,
+Grønninghovedvej 34 6093 Sjølund,34,624000.0,28-04-2017,Andet,3525,7,Stuehus,177,1827,
+Skamlingvejen 170 6093 Sjølund,170,775000.0,19-04-2017,Alm.,9687,3,Villa,80,1964,0 %
+Hvedemarken 26 6093 Sjølund,26,2820000.0,10-04-2017,Alm.,27920,5,Sommerhus,101,1999,-6 %
+Lærkevej Grønninghoved 14 6093 Sjølund,14,550000.0,09-04-2017,Alm.,9821,4,Sommerhus,56,1947,-21 %
+Åstorpvej 63 6093 Sjølund,63,400000.0,07-04-2017,Alm.,5000,4,Stuehus,80,1877,
+Fredskovvej 24 6093 Sjølund,24,1225000.0,17-03-2017,Alm.,14080,4,Sommerhus,87,1986,-2 %
+Havremarken 24 6093 Sjølund,24,1240000.0,10-03-2017,Alm.,20000,3,Sommerhus,62,1996,-4 %
+J.A. Petersens Park 13 6093 Sjølund,13,835000.0,06-02-2017,Alm.,7803,4,Villa,107,1993,
+Mellemgade 3 6093 Sjølund,3,451569.0,24-12-2016,Fam.,2522,7,Villa,179,1877,
+Gl. Strandvej 31 6093 Sjølund,31,816666.0,16-12-2016,Alm.,12189,4,Sommerhus,67,2007,
+Bygmarken 20 6093 Sjølund,20,1150000.0,12-12-2016,Fam.,14935,5,Sommerhus,77,1996,
+Åstorpvej 60 6093 Sjølund,60,25000.0,08-12-2016,Andet,384,2,Villa,65,1893,
+Skomagergade 4 6093 Sjølund,4,1025000.0,25-11-2016,Alm.,7020,5,Villa,146,1973,-6 %
+Skamlingvejen 153 6093 Sjølund,153,1950000.0,07-11-2016,Alm.,13175,3,Villa,148,1900,-2 %
+Købmandsgade 3 6093 Sjølund,3,300000.0,01-11-2016,Alm.,2678,4,Villa,112,1877,-24 %
+Åstorpvej 16 6093 Sjølund,16,1165000.0,31-10-2016,Alm.,14207,3,Villa,82,1958,-6 %
+Åstorpvej 55 6093 Sjølund,55,1197000.0,30-10-2016,Alm.,10881,4,Stuehus,110,1830,
+Mosvigvej 28 6093 Sjølund,28,1260000.0,12-10-2016,Alm.,18529,4,Sommerhus,68,1995,-3 %
+Vejstruprødvej 41 6093 Sjølund,41,1025000.0,19-09-2016,Alm.,5338,6,Stuehus,192,1877,
+Fredskovvej 18 6093 Sjølund,18,2500000.0,06-09-2016,Alm.,26595,4,Sommerhus,94,1992,
+Tværgade 6 6093 Sjølund,6,690000.0,05-09-2016,Alm.,6388,4,Villa,108,1969,-13 %
+Sjølund Landevej 13 6093 Sjølund,13,40000.0,02-09-2016,Alm.,216,6,Stuehus,185,1866,
+J.A. Petersens Park 6 6093 Sjølund,6,1260000.0,30-08-2016,Alm.,7777,6,Villa,162,1984,
+Sjølund Gade 38 6093 Sjølund,38,725000.0,28-08-2016,Alm.,4264,7,Villa,170,1900,
+St. Strandhave 11 6093 Sjølund,11,975000.0,25-08-2016,Alm.,18396,2,Sommerhus,53,1965,
+Havremarken 26 6093 Sjølund,26,1825000.0,23-08-2016,Alm.,21220,5,Sommerhus,86,1996,-4 %
+J.A. Petersens Park 24 6093 Sjølund,24,975000.0,15-08-2016,Alm.,8705,4,Villa,112,1976,-8 %
+Skovvejen 15A 6093 Sjølund,0,2825000.0,02-08-2016,Alm.,21401,5,Sommerhus,132,1961,
+Lærkevej Grønninghoved 1 6093 Sjølund,1,600000.0,30-07-2016,Alm.,8955,2,Sommerhus,67,1960,
+St. Strandhave 18 6093 Sjølund,18,500000.0,09-07-2016,Fam.,10416,2,Sommerhus,48,1960,
+Gl. Strandvej 21 6093 Sjølund,21,1000000.0,09-07-2016,Fam.,13513,3,Sommerhus,74,1974,
+Åstorpvej 43 6093 Sjølund,43,675000.0,24-06-2016,Alm.,5192,4,Villa,130,1973,-3 %
+Bygmarken 15 6093 Sjølund,15,1795000.0,18-06-2016,Alm.,21369,5,Sommerhus,84,1995,0 %
+Havremarken 20 6093 Sjølund,20,1700000.0,17-06-2016,Alm.,17894,5,Sommerhus,95,1997,
+Nyvej Grønninghoved 3 6093 Sjølund,3,975000.0,16-06-2016,Alm.,19897,4,Sommerhus,49,1950,-2 %
+St. Strandhave 20 6093 Sjølund,20,1440000.0,15-06-2016,Alm.,25714,3,Sommerhus,56,1992,
+Lærkevej Grønninghoved 2 6093 Sjølund,2,950000.0,04-06-2016,Alm.,16964,3,Sommerhus,56,1962,
+Anemonevej 6 6093 Sjølund,6,980000.0,01-06-2016,Alm.,28000,2,Sommerhus,35,1978,-2 %
+Sneppevej 8 6093 Sjølund,8,800000.0,15-05-2016,Alm.,11111,5,Sommerhus,72,1960,
+Rosenalle 4 6093 Sjølund,4,1500000.0,02-05-2016,Alm.,25862,3,Sommerhus,58,1950,
+J.A. Petersens Park 49 6093 Sjølund,49,990664.0,27-04-2016,Alm.,9808,3,Villa,101,1998,
+Strandvejen Grønninghoved 13 6093 Sjølund,13,3200000.0,21-04-2016,Alm.,45714,4,Sommerhus,70,2004,-3 %
+Bygmarken 11 6093 Sjølund,11,1250000.0,21-04-2016,Auktion,18115,3,Sommerhus,69,1998,
+Sydbanen 6 6093 Sjølund,6,350000.0,19-04-2016,Alm.,2121,5,Villa,165,2016,
+Kirkevænget 12 6093 Sjølund,12,872500.0,16-04-2016,Alm.,6017,6,Villa,145,1965,-3 %
+Bakkevej 21 6093 Sjølund,21,500000.0,15-04-2016,Alm.,4237,6,Villa,118,1877,
+J.A. Petersens Park 18 6093 Sjølund,18,1685000.0,14-03-2016,Alm.,8425,6,Villa,200,1976,
+J.A. Petersens Park 50 6093 Sjølund,50,1730000.0,11-02-2016,Alm.,12536,5,Villa,138,1998,
+Skovvejen 15B 6093 Sjølund,0,850000.0,07-02-2016,Alm.,5743,9,Sommerhus,148,2016,
+Skovvejen 11A 6093 Sjølund,0,850000.0,07-02-2016,Alm.,5666,9,Sommerhus,150,2016,
+Fredskovvej 10 6093 Sjølund,10,825000.0,04-02-2016,Alm.,13095,4,Sommerhus,63,1988,-2 %
+Strandvejen Grønninghoved 3 6093 Sjølund,3,1105000.0,11-12-2015,Fam.,22100,3,Sommerhus,50,1928,
+J.A. Petersens Park 1 6093 Sjølund,1,1855000.0,21-11-2015,Alm.,9512,6,Villa,195,1981,
+St. Strandhave 10 6093 Sjølund,10,1215000.0,18-11-2015,Alm.,18409,4,Sommerhus,66,1965,
+Sjølund Landevej 28 6093 Sjølund,28,510000.0,29-10-2015,Auktion,4146,3,Villa,123,1913,
+Lærkevej Grønninghoved 6 6093 Sjølund,6,625000.0,08-10-2015,Alm.,11363,3,Sommerhus,55,1960,
+Skamlingvejen 152 6093 Sjølund,152,975000.0,23-09-2015,Alm.,11607,4,Villa,84,1962,-2 %
+J.A. Petersens Park 32 6093 Sjølund,32,1300000.0,16-09-2015,Alm.,9489,4,Villa,137,1978,
+Mellemgade 13 6093 Sjølund,13,950000.0,10-09-2015,Alm.,7786,4,Villa,122,1964,-9 %
+Skrænten Grønninghoved 5 6093 Sjølund,5,1200000.0,08-09-2015,Alm.,29268,2,Sommerhus,41,1992,-7 %
+Bakkevej Grønninghoved 9 6093 Sjølund,9,725000.0,24-08-2015,Alm.,18125,2,Sommerhus,40,1950,-19 %
+J.A. Petersens Park 40 6093 Sjølund,40,1360000.0,09-08-2015,Alm.,9189,5,Villa,148,1979,
+Sneppevej 1 6093 Sjølund,1,825000.0,05-08-2015,Alm.,15277,3,Sommerhus,54,1973,
+Bakkevej 14 6093 Sjølund,14,75000.0,01-08-2015,Alm.,1190,3,Villa,63,1904,
+Mågevej Grønninghoved 4 6093 Sjølund,4,1050000.0,25-06-2015,Alm.,16153,3,Sommerhus,65,1960,
+Lærkevej Grønninghoved 4 6093 Sjølund,4,655000.0,22-06-2015,Alm.,10076,3,Sommerhus,65,2011,
+Skomagergade 2 6093 Sjølund,2,560000.0,16-06-2015,Alm.,5137,4,Villa,109,1962,-19 %
+Rugmarken 25 6093 Sjølund,25,1670000.0,01-06-2015,Alm.,22266,4,Sommerhus,75,2004,-1 %
+Mågevej Grønninghoved 2 6093 Sjølund,2,92577.0,13-05-2015,Andet,1424,3,Sommerhus,65,2011,
+Sneppevej 10 6093 Sjølund,10,92577.0,10-05-2015,Andet,1341,3,Sommerhus,69,2016,
+Strandvejen Grønninghoved 24 6093 Sjølund,24,3150000.0,09-05-2015,Alm.,63000,3,Sommerhus,50,2013,-10 %
+J.A. Petersens Park 53 6093 Sjølund,53,925000.0,05-05-2015,Alm.,4946,8,Villa,187,1998,
+Sneppevej 5 6093 Sjølund,5,92577.0,04-05-2015,Andet,1596,3,Sommerhus,58,1960,
+Drosselvej 3 6093 Sjølund,3,92577.0,04-05-2015,Andet,1424,3,Sommerhus,65,1962,
+Drosselvej 4 6093 Sjølund,4,92577.0,02-05-2015,Andet,1469,4,Sommerhus,63,1966,
+Drosselvej 1 6093 Sjølund,1,92577.0,29-04-2015,Andet,1361,4,Sommerhus,68,1978,
+Mågevej Grønninghoved 6 6093 Sjølund,6,92577.0,25-04-2015,Andet,1851,2,Sommerhus,50,1952,
+Lærkevej Grønninghoved 3 6093 Sjølund,3,92577.0,24-04-2015,Andet,1969,3,Sommerhus,47,1960,
+Mosvigvej 26 6093 Sjølund,26,92577.0,24-04-2015,Andet,1683,4,Sommerhus,55,1952,
+Sneppevej 7 6093 Sjølund,7,92577.0,24-04-2015,Andet,1596,3,Sommerhus,58,1968,
+Drosselvej 5 6093 Sjølund,5,92577.0,24-04-2015,Andet,1517,4,Sommerhus,61,1982,
+Lærkevej Grønninghoved 8 6093 Sjølund,8,92577.0,23-04-2015,Andet,1542,3,Sommerhus,60,1960,
+Sneppevej 6 6093 Sjølund,6,92577.0,23-04-2015,Andet,1653,3,Sommerhus,56,1960,
+Drosselvej 2 6093 Sjølund,2,92577.0,23-04-2015,Andet,1322,3,Sommerhus,70,1960,
+Mågevej Grønninghoved 3 6093 Sjølund,3,92577.0,23-04-2015,Andet,1624,3,Sommerhus,57,1961,
+Mågevej Grønninghoved 5 6093 Sjølund,5,92577.0,23-04-2015,Andet,1714,3,Sommerhus,54,1988,
+Mosvigvej 24 6093 Sjølund,24,92577.0,22-04-2015,Andet,2314,2,Sommerhus,40,1957,
+J.A. Petersens Park 57 6093 Sjølund,57,1980000.0,18-04-2015,Alm.,13561,6,Villa,146,2006,
+Mågevej Grønninghoved 1 6093 Sjølund,1,92577.0,02-04-2015,Andet,1569,2,Sommerhus,59,1999,
+Lærkevej Grønninghoved 10 6093 Sjølund,10,92577.0,31-03-2015,Andet,1446,3,Sommerhus,64,1963,
+Strandvejen Grønninghoved 23 6093 Sjølund,23,1650000.0,12-02-2015,Alm.,16836,5,Sommerhus,98,1930,
+Strandvejen Grønninghoved 23A 6093 Sjølund,0,1100000.0,02-02-2015,Alm.,12643,4,Sommerhus,87,2016,
+Bygmarken 17 6093 Sjølund,17,1780000.0,16-01-2015,Alm.,21190,5,Sommerhus,84,1995,-10 %
+Bygmarken 5 6093 Sjølund,5,1575000.0,07-01-2015,Alm.,17897,4,Sommerhus,88,1996,-7 %
+Havremarken 22 6093 Sjølund,22,1765000.0,11-12-2014,Alm.,19184,6,Sommerhus,92,2001,-7 %
+Søndermarkvej 10 6093 Sjølund,10,1475000.0,05-12-2014,Alm.,12291,4,Stuehus,120,1902,-12 %
+Vejstruprødvej 14 6093 Sjølund,14,385000.0,03-12-2014,Alm.,3437,4,Villa,112,1911,-3 %
+Vejstruprødvej 17 6093 Sjølund,17,2075000.0,14-11-2014,Alm.,10171,7,Stuehus,204,1900,
+Fjællebrovej 11 6093 Sjølund,11,1350000.0,13-11-2014,Alm.,6136,6,Villa,220,1898,-3 %
+Sjølund Gade 30 6093 Sjølund,30,1725000.0,15-10-2014,Alm.,9078,8,Villa,190,1951,-4 %
+Skamlingvejen 167 6093 Sjølund,167,360000.0,14-09-2014,Alm.,3050,5,Rækkehus,118,1953,
+Skamlingvejen 165 6093 Sjølund,165,360000.0,10-09-2014,Alm.,3050,5,Rækkehus,118,1953,
+Toftevej 5 6093 Sjølund,5,5935000.0,22-08-2014,Alm.,21739,7,Stuehus,273,1890,
+Fredskovvej 6 6093 Sjølund,6,1100000.0,04-08-2014,Alm.,11458,5,Sommerhus,96,1992,
+Skamlingvejen 149 6093 Sjølund,149,1020000.0,25-07-2014,Fam.,6580,4,Villa,155,1933,
+Nyhavn 7 6093 Sjølund,7,1190000.0,17-07-2014,Alm.,8561,4,Villa,139,1944,-8 %
+Vejstruprødvej 23 6093 Sjølund,23,875000.0,15-07-2014,Alm.,3707,6,Villa,236,1900,-20 %
+Sjølund Landevej 16 6093 Sjølund,16,28850000.0,29-06-2014,Alm.,259909,5,Villa,111,1900,
+Fredskovvej 1 6093 Sjølund,1,795000.0,19-06-2014,Alm.,15900,3,Sommerhus,50,1967,-6 %
+J.A. Petersens Park 46 6093 Sjølund,46,1850000.0,15-06-2014,Alm.,12333,4,Villa,150,2005,
+Hvedemarken 11 6093 Sjølund,11,1850000.0,02-05-2014,Alm.,23717,4,Sommerhus,78,1997,-19 %
+Hvedemarken 40 6093 Sjølund,40,1150000.0,15-04-2014,Alm.,14743,4,Sommerhus,78,2004,-22 %
+Fredskovvej 20 6093 Sjølund,20,2400000.0,28-03-2014,Alm.,26373,3,Sommerhus,91,1990,-14 %
+Skamlingvejen 136 6093 Sjølund,136,900000.0,19-03-2014,Alm.,3000,6,Stuehus,300,1860,
+Hvedemarken 2 6093 Sjølund,2,706300.0,26-02-2014,Fam.,6857,4,Sommerhus,103,1998,
+Skamlingvejen 121 6093 Sjølund,121,875000.0,21-01-2014,Alm.,5681,4,Villa,154,2016,
+Kurkmarkvej 6 6093 Sjølund,6,14947562.0,06-12-2013,Alm.,114103,10,Villa,131,1850,
+Sjølund Gade 4 6093 Sjølund,4,395000.0,29-11-2013,Alm.,3872,4,Villa,102,1900,-19 %
+Hvedemarken 28 6093 Sjølund,28,2000000.0,07-11-2013,Alm.,22222,4,Sommerhus,90,1999,
+Fredskovvej 4 6093 Sjølund,4,1050000.0,26-09-2013,Alm.,15441,4,Sommerhus,68,1991,
+Sjølund Gade 26 6093 Sjølund,26,675000.0,06-09-2013,Alm.,7336,3,Villa,92,1942,-15 %
+Sjølund Gade 24 6093 Sjølund,24,800000.0,05-09-2013,Alm.,5442,4,Villa,147,1929,-6 %
+Fjællebrovej 6 6093 Sjølund,6,244100.0,15-08-2013,Auktion,1173,8,Villa,208,1827,
+Skomagergade 30 6093 Sjølund,30,1400000.0,07-08-2013,Alm.,6763,6,Villa,207,1860,-6 %
+Rugmarken 31 6093 Sjølund,31,750000.0,02-08-2013,Fam.,8522,4,Sommerhus,88,2003,
+Mosvigvej 34 6093 Sjølund,34,1295000.0,29-07-2013,Alm.,18500,1,Sommerhus,70,1973,0 %
+Toftevej 10 6093 Sjølund,10,840000.0,17-07-2013,Alm.,8659,4,Villa,97,1967,-5 %
+Havremarken 4 6093 Sjølund,4,2012500.0,09-07-2013,Alm.,26136,4,Sommerhus,77,2000,-7 %
+Fredskovvej 3 6093 Sjølund,3,1050000.0,05-07-2013,Alm.,14189,5,Sommerhus,74,1993,-8 %
+Hvedemarken 24 6093 Sjølund,24,2000000.0,29-06-2013,Alm.,24096,4,Sommerhus,83,1998,
+Bygmarken 7 6093 Sjølund,7,1500000.0,21-06-2013,Alm.,17241,4,Sommerhus,87,1996,-6 %
+Havremarken 14 6093 Sjølund,14,1425000.0,17-06-2013,Alm.,18750,4,Sommerhus,76,1995,-11 %
+Strandvejen Grønninghoved 19 6093 Sjølund,19,450500.0,11-06-2013,Fam.,5631,5,Sommerhus,80,1877,
+Kirkevænget 14 6093 Sjølund,14,635638.0,11-06-2013,Alm.,4540,4,Villa,140,1965,
+Rugmarken 15 6093 Sjølund,15,725000.0,07-06-2013,Andet,9931,4,Sommerhus,73,2007,
+Vejstruprød Landevej 25 6093 Sjølund,25,835000.0,06-06-2013,Alm.,6958,4,Villa,120,1910,-2 %
+J.A. Petersens Park 61 6093 Sjølund,61,1995000.0,31-05-2013,Alm.,10783,5,Villa,185,2006,
+J.A. Petersens Park 34 6093 Sjølund,34,800000.0,31-05-2013,Alm.,6349,4,Villa,126,1978,
+Fredskovvej 30 6093 Sjølund,30,725000.0,27-05-2013,Fam.,9666,4,Sommerhus,75,1995,
+Rugmarken 33 6093 Sjølund,33,1860000.0,24-05-2013,Alm.,21379,4,Sommerhus,87,2003,
+Stigårds Alle 6 6093 Sjølund,6,1775000.0,24-05-2013,Alm.,24652,3,Sommerhus,72,1976,-6 %
+Rugmarken 3 6093 Sjølund,3,700000.0,22-05-2013,Alm.,9210,4,Sommerhus,76,2003,
+Fjællebrovej 9 6093 Sjølund,9,288251.0,02-05-2013,Auktion,2719,5,Villa,106,1906,
+Fredskovvej 5 6093 Sjølund,5,1125000.0,05-04-2013,Alm.,16071,4,Sommerhus,70,1992,
+Rugmarken 6 6093 Sjølund,6,1550000.0,26-03-2013,Alm.,16315,4,Sommerhus,95,2006,
+Nyhavn 3A 6093 Sjølund,0,2737000.0,18-03-2013,Alm.,15205,6,Villa,180,2007,-1 %
+Mejsevej 6 6093 Sjølund,6,799000.0,05-03-2013,Fam.,15075,3,Sommerhus,53,1953,
+Sjølund Gade 41 6093 Sjølund,41,950000.0,08-02-2013,Alm.,8189,4,Villa,116,1940,-5 %
+Fredskovvej 36 6093 Sjølund,36,697000.0,17-01-2013,Alm.,13666,4,Sommerhus,51,1963,
+Vejstruprødvej 5 6093 Sjølund,5,350000.0,16-01-2013,Alm.,2333,6,Villa,150,1948,
+Søndermarkvej 13 6093 Sjølund,13,2750000.0,03-12-2012,Alm.,10185,6,Villa,270,1877,-8 %
+Havremarken 9 6093 Sjølund,9,1960000.0,18-11-2012,Alm.,27605,4,Sommerhus,71,1995,
+Sneppevej 4 6093 Sjølund,4,855000.0,29-09-2012,Alm.,15545,3,Sommerhus,55,1976,
+Nyhavn 4 6093 Sjølund,4,450000.0,20-08-2012,Alm.,3600,6,Villa,125,1961,-24 %
+Fredskovvej 34 6093 Sjølund,34,1425000.0,15-08-2012,Alm.,23360,3,Sommerhus,61,2008,-11 %
+Skamlingvejen 176 6093 Sjølund,176,1340000.0,09-08-2012,Alm.,6175,6,Villa,217,1900,-4 %
+Pilealle 1 6093 Sjølund,1,2800000.0,15-07-2012,Alm.,70000,3,Sommerhus,40,1933,
+Hvedemarken 7 6093 Sjølund,7,2125000.0,11-07-2012,Alm.,20432,4,Sommerhus,104,1998,
+Fredskovvej 26 6093 Sjølund,26,554000.0,08-07-2012,Fam.,5770,5,Sommerhus,96,1985,
+Mosvigvej 10 6093 Sjølund,10,2375000.0,04-07-2012,Alm.,21590,4,Stuehus,110,1912,4 %
+Skomagergade 22 6093 Sjølund,22,640000.0,02-07-2012,Andet,3975,8,Villa,161,1890,
+St. Strandhave 26 6093 Sjølund,26,700000.0,27-06-2012,Alm.,13207,3,Sommerhus,53,1963,
+Stigårds Alle 2 6093 Sjølund,2,1600000.0,07-06-2012,Alm.,26229,2,Sommerhus,61,2007,-8 %
+Rugmarken 36 6093 Sjølund,36,2625000.0,30-05-2012,Alm.,26515,5,Sommerhus,99,2003,
+Skomagergade 26 6093 Sjølund,26,695000.0,30-04-2012,Alm.,5650,4,Villa,123,1965,0 %
+J.A. Petersens Park 15 6093 Sjølund,15,726000.0,26-04-2012,Andet,6660,4,Villa,109,1991,
+Nyvej Grønninghoved 5 6093 Sjølund,5,100000.0,02-04-2012,Andet,1639,3,Sommerhus,61,2005,
+Hvedemarken 3 6093 Sjølund,3,2100000.0,02-04-2012,Alm.,18584,4,Sommerhus,113,1998,
+Rosenalle 1 6093 Sjølund,1,1995000.0,28-03-2012,Alm.,30227,3,Sommerhus,66,1947,
+Rosenalle 2 6093 Sjølund,2,1300000.0,27-03-2012,Alm.,30952,2,Sommerhus,42,2010,
+Hvedemarken 12 6093 Sjølund,12,875000.0,07-03-2012,Fam.,9722,4,Sommerhus,90,1998,
+Skamlingvejen 129 6093 Sjølund,129,1000000.0,20-02-2012,Alm.,6493,7,Stuehus,154,1852,
+Åstorpvej 6 6093 Sjølund,6,600000.0,20-02-2012,Fam.,3703,6,Lejlighed,162,1931,
+Sjølund Gade 17 6093 Sjølund,17,665000.0,16-02-2012,Alm.,4854,5,Villa,137,1927,-4 %
+Hvedemarken 6 6093 Sjølund,6,1911500.0,12-02-2012,Alm.,17864,5,Sommerhus,107,1998,-2 %
+Vejstruprødvej 1 6093 Sjølund,1,260000.0,01-02-2012,Fam.,1575,7,Villa,165,1935,-56 %
+Sjølund Landevej 36 6093 Sjølund,36,5531297.0,13-01-2012,Fam.,15364,7,Stuehus,360,1866,
+Mejsevej 4 6093 Sjølund,4,1000000.0,28-12-2011,Alm.,0,2,Sommerhus,43,1996,
+Åstorpvej 58 6093 Sjølund,58,640000.0,16-12-2011,Alm.,5079,4,Villa,126,1902,-12 %
+Fjællebrovej 5 6093 Sjølund,5,950000.0,07-12-2011,Alm.,8636,3,Villa,110,1877,-4 %
+Bakkevej Grønninghoved 7 6093 Sjølund,7,479967.0,23-11-2011,Fam.,9411,3,Sommerhus,51,1946,
+Vejstruprødvej 31 6093 Sjølund,31,300000.0,03-11-2011,Andet,2400,3,Stuehus,125,1993,
+Mejsevej 12 6093 Sjølund,12,1150000.0,04-10-2011,Alm.,23958,3,Sommerhus,48,1929,-2 %
+Anemonevej 12 6093 Sjølund,12,1000000.0,03-10-2011,Alm.,25000,2,Sommerhus,40,1961,-15 %
+Sjølund Landevej 19 6093 Sjølund,19,1900000.0,26-09-2011,Alm.,8558,6,Villa,222,1826,
+Sjølund Gade 8 6093 Sjølund,8,807500.0,21-09-2011,Alm.,5312,4,Villa,152,1900,0 %
+Sjølund Landevej 32 6093 Sjølund,32,2110000.0,21-08-2011,Alm.,5146,7,Stuehus,410,1852,
+Vejstruprødvej 7 6093 Sjølund,7,1015000.0,16-08-2011,Alm.,5767,5,Villa,176,1887,-15 %
+Bygmarken 24 6093 Sjølund,24,1500000.0,15-08-2011,Alm.,18750,4,Sommerhus,80,1997,
+Skamlingvejen 135 6093 Sjølund,135,1746000.0,03-07-2011,Fam.,6303,6,Stuehus,277,2013,
+Skomagergade 8 6093 Sjølund,8,615589.0,01-07-2011,Fam.,4772,4,Villa,129,1973,
+Skovvejen 2 6093 Sjølund,2,297200.0,25-06-2011,Alm.,4953,3,Sommerhus,60,1960,
+Sjølund Landevej 34 6093 Sjølund,34,75000.0,29-05-2011,Alm.,0,7,Stuehus,192,1850,
+Sjølund Landevej 1 6093 Sjølund,1,870000.0,27-04-2011,Alm.,7250,4,Villa,120,1877,-3 %
+Hvedemarken 32 6093 Sjølund,32,1860000.0,16-04-2011,Alm.,20000,4,Sommerhus,93,2001,-15 %
+Anemonevej 9 6093 Sjølund,9,725000.0,09-04-2011,Alm.,7631,5,Sommerhus,95,2005,
+Bakkevej Grønninghoved 3 6093 Sjølund,3,935000.0,01-04-2011,Fam.,19893,4,Sommerhus,47,1950,
+Vejstruprødvej 15 6093 Sjølund,15,236600.0,17-03-2011,Alm.,1042,5,Stuehus,227,1843,
+Rugmarken 1 6093 Sjølund,1,800000.0,05-03-2011,Alm.,10526,4,Sommerhus,76,2003,
+Gammelmosevej 11 6093 Sjølund,11,720000.0,03-03-2011,Alm.,8780,3,Villa,82,1950,
+Mellemgade 8 6093 Sjølund,8,690000.0,01-03-2011,Alm.,5307,4,Villa,130,1850,-8 %
+St. Strandhave 9 6093 Sjølund,9,1232500.0,24-02-2011,Fam.,19257,4,Sommerhus,64,1998,
+Fredskovvej 8 6093 Sjølund,8,1050000.0,03-02-2011,Alm.,16406,4,Sommerhus,64,1993,-3 %
+Skamlingvejen 158 6093 Sjølund,158,475000.0,02-02-2011,Alm.,0,5,Villa,133,1905,-20 %
+Havremarken 5 6093 Sjølund,5,2187000.0,17-01-2011,Alm.,29554,4,Sommerhus,74,1995,-1 %
+Rugmarken 23 6093 Sjølund,23,1700000.0,13-01-2011,Alm.,22972,4,Sommerhus,74,2003,-10 %
+Grønninghovedvej 20 6093 Sjølund,20,685000.0,16-12-2010,Alm.,4005,5,Villa,171,1978,
+Sydbanen 16 6093 Sjølund,16,410000.0,01-12-2010,Alm.,2715,6,Villa,151,2012,
+Åstorpvej 4 6093 Sjølund,4,1450000.0,12-11-2010,Alm.,6807,7,Villa,213,1880,-3 %
+Toftevej 6 6093 Sjølund,6,2075000.0,22-10-2010,Alm.,10375,6,Villa,200,1852,-3 %
+Anemonevej 10 6093 Sjølund,10,850000.0,15-10-2010,Alm.,27419,1,Sommerhus,31,1988,-4 %
+Nyhavn 1 6093 Sjølund,1,500000.0,07-10-2010,Alm.,3968,4,Villa,126,1935,-16 %
+Mejsevej 2 6093 Sjølund,2,1200000.0,30-09-2010,Alm.,18181,3,Sommerhus,66,1964,-9 %
+Rugmarken 11 6093 Sjølund,11,2100000.0,23-09-2010,Alm.,28000,4,Sommerhus,75,2003,
+Bakkevej Grønninghoved 12 6093 Sjølund,12,720000.0,21-09-2010,Fam.,19459,2,Sommerhus,37,1953,
+Mejsevej 10 6093 Sjølund,10,900000.0,01-09-2010,Alm.,30000,2,Sommerhus,30,1995,-10 %
+Nyhavn 9 6093 Sjølund,9,490000.0,05-08-2010,Auktion,4711,3,Villa,104,1954,
+Skovvejen 17 6093 Sjølund,17,1500000.0,21-07-2010,Alm.,0,4,Sommerhus,73,1920,
+Bakkevej 17 6093 Sjølund,17,180000.0,10-07-2010,Alm.,1084,7,Stuehus,166,1877,
+Gl. Strandvej 20 6093 Sjølund,20,3060000.0,15-06-2010,Alm.,41351,4,Sommerhus,74,1989,
+Lynæs Alle 5 6093 Sjølund,5,1000000.0,10-06-2010,Alm.,12500,4,Sommerhus,80,2013,
+Sjølund Gade 21 6093 Sjølund,21,840000.0,20-05-2010,Auktion,5833,4,Villa,144,1925,
+Sydbanen 11 6093 Sjølund,11,425000.0,23-04-2010,Alm.,2672,5,Villa,159,2011,
+Rugmarken 20 6093 Sjølund,20,1995000.0,16-04-2010,Alm.,22931,4,Sommerhus,87,2005,-5 %
+Gl. Skamlingvej 11 6093 Sjølund,11,1570000.0,06-04-2010,Alm.,10827,4,Villa,145,1923,-2 %
+Nyhavn 3 6093 Sjølund,3,230000.0,13-03-2010,Alm.,1127,5,Villa,204,2012,
+Rugmarken 17 6093 Sjølund,17,1825000.0,03-03-2010,Alm.,24662,4,Sommerhus,74,2005,-3 %
+Mejsevej 8 6093 Sjølund,8,445000.0,02-02-2010,Alm.,5297,3,Sommerhus,84,1940,
+Sjølund Gade 33 6093 Sjølund,33,697241.0,22-01-2010,Alm.,6281,5,Villa,111,1956,
+Fjællebrovej 2 6093 Sjølund,2,310000.0,16-01-2010,Alm.,1483,7,Villa,209,1887,
+Skovvejen 1 6093 Sjølund,1,1700000.0,14-01-2010,Fam.,22368,4,Sommerhus,76,1996,
+Gl. Strandvej 27 6093 Sjølund,27,673900.0,30-12-2009,Fam.,7169,4,Sommerhus,94,2016,
+Gl. Skamlingvej 12 6093 Sjølund,12,790000.0,27-11-2009,Fam.,7383,4,Villa,107,1965,
+Vejstruprød Landevej 27 6093 Sjølund,27,960000.0,02-11-2009,Alm.,7272,5,Villa,132,1900,-2 %
+J.A. Petersens Park 51 6093 Sjølund,51,2700000.0,21-10-2009,Alm.,13366,5,Villa,202,2005,0 %
+Sneppevej 3 6093 Sjølund,3,825000.0,19-10-2009,Alm.,0,3,Sommerhus,58,1955,-17 %
+Gammelmosevej 2 6093 Sjølund,2,1600000.0,20-09-2009,Alm.,5369,9,Villa,298,1880,
+Lynæs Alle 1 6093 Sjølund,1,1105000.0,11-09-2009,Fam.,22100,3,Sommerhus,50,1962,
+Skamlingvejen 130 6093 Sjølund,130,10000000.0,11-09-2009,Alm.,40983,6,Stuehus,244,1877,
+Strandvejen Grønninghoved 30 6093 Sjølund,30,2958000.0,03-09-2009,Alm.,24857,4,Sommerhus,119,2011,-18 %
+Fredskovvej 12 6093 Sjølund,12,1585000.0,21-08-2009,Alm.,21418,3,Sommerhus,74,1992,-6 %
+Rugmarken 35 6093 Sjølund,35,1850000.0,30-07-2009,Alm.,20108,4,Sommerhus,92,2002,0 %
+Grønninghovedvej 5 6093 Sjølund,5,370000.0,23-06-2009,Alm.,4625,3,Villa,80,1900,-6 %
+Sjølund Gade 37 6093 Sjølund,37,1775000.0,18-06-2009,Alm.,11093,5,Villa,160,1937,-4 %
+Havremarken 16 6093 Sjølund,16,1625000.0,17-05-2009,Alm.,21959,4,Sommerhus,74,1995,-18 %
+Grønninghovedvej 16 6093 Sjølund,16,1300000.0,20-04-2009,Alm.,8666,5,Villa,150,1900,-5 %
+Sjølund Gade 7 6093 Sjølund,7,695000.0,25-02-2009,Alm.,3904,6,Villa,178,1920,0 %
+Gl. Skamlingvej 7 6093 Sjølund,7,1000000.0,17-02-2009,Alm.,5000,10,Stuehus,200,1935,
+Grønninghovedvej 21 6093 Sjølund,21,5539211.0,17-12-2008,Fam.,27421,5,Stuehus,202,1877,
+Nyhavn 8 6093 Sjølund,8,1200000.0,10-12-2008,Alm.,10084,5,Villa,119,1961,
+Toftevej 7 6093 Sjølund,7,2265000.0,07-08-2008,Alm.,9934,8,Villa,228,1929,-5 %
+Dalsgaards Alle 4 6093 Sjølund,4,1525000.0,07-07-2008,Alm.,23461,4,Sommerhus,65,1980,-10 %
+Rugmarken 10 6093 Sjølund,10,2274125.0,04-07-2008,Alm.,22295,5,Sommerhus,102,2001,-8 %
+Vejstruprødvej 47 6093 Sjølund,47,1925000.0,09-06-2008,Alm.,10078,8,Villa,191,1880,
+Hvedemarken 14 6093 Sjølund,14,1885000.0,01-06-2008,Alm.,26928,3,Sommerhus,70,1999,0 %
+Købmandsgade 8 6093 Sjølund,8,1203750.0,26-05-2008,Alm.,11145,3,Villa,108,1964,
+Tværgade 2 6093 Sjølund,2,725000.0,15-05-2008,Alm.,8333,3,Villa,87,1910,-3 %
+Sjølund Gade 16 6093 Sjølund,16,925000.0,10-04-2008,Alm.,0,6,Villa,142,1929,-5 %
+Åstorpvej 10A 6093 Sjølund,0,950000.0,07-04-2008,Fam.,6985,4,Villa,136,1986,
+Skamlingvejen 140 6093 Sjølund,140,2724875.0,07-04-2008,Fam.,10167,6,Villa,268,2012,
+Bygmarken 12 6093 Sjølund,12,1840000.0,08-02-2008,Alm.,26285,4,Sommerhus,70,1996,
+Anemonevej 14 6093 Sjølund,14,755000.0,25-01-2008,Alm.,21571,3,Sommerhus,35,1954,-16 %
+Nyvej Grønninghoved 4 6093 Sjølund,4,1225000.0,21-01-2008,Alm.,35000,2,Sommerhus,35,1955,-8 %
+Åstorpvej 3 6093 Sjølund,3,3400000.0,28-12-2007,Alm.,17346,7,Villa,196,1910,
+Gl. Strandvej 32 6093 Sjølund,32,654500.0,16-12-2007,Fam.,8181,3,Sommerhus,80,2016,
+Rugmarken 28 6093 Sjølund,28,2100000.0,29-11-2007,Alm.,24418,4,Sommerhus,86,2003,-4 %
+Skrænten Grønninghoved 6 6093 Sjølund,6,1253000.0,21-11-2007,Alm.,28477,2,Sommerhus,44,1955,
+Søndergyde 1 6093 Sjølund,1,1400000.0,16-11-2007,Alm.,9589,7,Villa,146,1860,-7 %
+Strandvejen Grønninghoved 17 6093 Sjølund,17,1500000.0,12-11-2007,Fam.,20270,3,Sommerhus,74,2013,
+Åstorpvej 38 6093 Sjølund,38,357000.0,31-10-2007,Fam.,4890,3,Villa,73,1963,
+Vesterslettevej 12 6093 Sjølund,12,1550000.0,22-10-2007,Alm.,14090,3,Stuehus,110,1730,
+Sjølund Gade 19 6093 Sjølund,19,1750000.0,28-09-2007,Alm.,14112,4,Villa,124,1932,-8 %
+Bakkevej 16 6093 Sjølund,16,1695000.0,19-09-2007,Alm.,12194,4,Villa,139,1903,-6 %
+St. Strandhave 8 6093 Sjølund,8,1300000.0,04-09-2007,Alm.,16883,4,Sommerhus,77,1960,
+Bygmarken 3 6093 Sjølund,3,1850000.0,31-08-2007,Alm.,26428,4,Sommerhus,70,1996,-2 %
+Gl. Skamlingvej 10 6093 Sjølund,10,572736.0,15-08-2007,Alm.,3369,7,Villa,170,1870,
+Silovej 5 6093 Sjølund,5,920000.0,07-08-2007,Alm.,11500,3,Villa,80,1961,-3 %
+Mosvigvej 21 6093 Sjølund,21,160000.0,29-06-2007,Alm.,930,5,Villa,172,1843,
+Gl. Strandvej 25 6093 Sjølund,25,650000.0,22-06-2007,Alm.,15116,4,Sommerhus,43,1950,
+Vejstruprød Landevej 12 6093 Sjølund,12,650000.0,11-06-2007,Auktion,6018,3,Villa,108,1888,
+J.A. Petersens Park 54 6093 Sjølund,54,3145000.0,06-06-2007,Alm.,14905,7,Villa,211,2006,
+Skovvejen 9 6093 Sjølund,9,550000.0,23-05-2007,Fam.,7638,4,Sommerhus,72,1942,
+Havremarken 12 6093 Sjølund,12,1900000.0,19-05-2007,Alm.,25000,4,Sommerhus,76,1995,-9 %
+Åstorpvej 10 6093 Sjølund,10,1065000.0,15-05-2007,Alm.,7717,4,Villa,138,1940,0 %
+Skamlingvejen 166 6093 Sjølund,166,850000.0,23-02-2007,Alm.,10625,3,Villa,80,1959,
+Fredskovvej 40 6093 Sjølund,40,1650000.0,20-02-2007,Alm.,26612,3,Sommerhus,62,1966,
+Kirkevænget 17 6093 Sjølund,17,1275000.0,23-01-2007,Alm.,8854,5,Villa,144,1974,0 %
+Gl. Strandvej 29 6093 Sjølund,29,450500.0,08-01-2007,Fam.,8044,3,Sommerhus,56,2016,
+Søndermarkvej 12 6093 Sjølund,12,910000.0,03-01-2007,Alm.,5796,4,Stuehus,157,1904,
+Skamlingvejen 132 6093 Sjølund,132,2200000.0,03-01-2007,Alm.,11578,4,Villa,190,1908,
+Kurkmarkvej 12 6093 Sjølund,12,872000.0,05-12-2006,Fam.,6055,6,Stuehus,144,1955,
+Strandvejen Grønninghoved 11 6093 Sjølund,11,425000.0,10-11-2006,Fam.,8173,4,Sommerhus,52,1974,
+Højvejen 6 6093 Sjølund,6,716500.0,30-10-2006,Alm.,2171,8,Stuehus,330,1859,
+Gammelmosevej 5 6093 Sjølund,5,375000.0,25-10-2006,Alm.,1752,6,Villa,214,2010,
+Havremarken 13 6093 Sjølund,13,2150000.0,12-10-2006,Alm.,26219,4,Sommerhus,82,1997,
+Skovvejen 21 6093 Sjølund,21,1685000.0,12-10-2006,Alm.,19593,4,Sommerhus,86,2013,
+Stigårds Alle 1 6093 Sjølund,1,1175000.0,09-10-2006,Alm.,7298,5,Sommerhus,161,2010,
+Anemonevej 2 6093 Sjølund,2,2000000.0,04-10-2006,Alm.,22471,3,Sommerhus,89,1998,
+Silovej 3 6093 Sjølund,3,875000.0,30-09-2006,Alm.,8663,4,Villa,101,1954,
+Havremarken 11 6093 Sjølund,11,2507717.0,11-09-2006,Alm.,27863,4,Sommerhus,90,2003,
+J.A. Petersens Park 52 6093 Sjølund,52,1850000.0,30-08-2006,Alm.,14566,5,Villa,127,2001,
+Mellemgade 14 6093 Sjølund,14,562500.0,25-08-2006,Fam.,2414,11,Villa,233,1907,
+Sjølundvej 90 6093 Sjølund,90,6000000.0,24-08-2006,Alm.,20202,8,Stuehus,297,1860,
+Strandvejen Grønninghoved 29 6093 Sjølund,29,1200000.0,11-08-2006,Fam.,16666,4,Sommerhus,72,1974,
+Hvedemarken 22 6093 Sjølund,22,2000000.0,25-07-2006,Alm.,23809,4,Sommerhus,84,1998,
+Fuglsangvej 4 6093 Sjølund,4,1750000.0,21-07-2006,Alm.,8139,9,Villa,215,1900,
+Nyhavn 2 6093 Sjølund,2,225000.0,18-07-2006,Alm.,1875,4,Villa,120,2008,
+Sjølund Gade 18 6093 Sjølund,18,1995000.0,04-07-2006,Alm.,10178,5,Villa,196,1930,
+Fredskovvej 9 6093 Sjølund,9,1336894.0,23-06-2006,Alm.,18567,4,Sommerhus,72,1962,
+Nyvej Grønninghoved 1A 6093 Sjølund,0,975000.0,01-06-2006,Alm.,9198,4,Sommerhus,106,2005,
+Anemonevej 1 6093 Sjølund,1,825000.0,19-05-2006,Alm.,9065,4,Sommerhus,91,2005,
+J.A. Petersens Park 48 6093 Sjølund,48,2060000.0,01-05-2006,Alm.,13733,6,Villa,150,2001,
+Silovej 12 6093 Sjølund,12,920000.0,26-04-2006,Alm.,9892,4,Villa,93,1955,
+J.A. Petersens Park 56 6093 Sjølund,56,1895000.0,23-04-2006,Alm.,13345,6,Villa,142,2005,
+St. Strandhave 28 6093 Sjølund,28,1060000.0,05-04-2006,Alm.,13250,3,Sommerhus,80,2008,
+J.A. Petersens Park 63 6093 Sjølund,63,173250.0,22-03-2006,Alm.,921,7,Villa,188,2007,
+Bakkevej 18 6093 Sjølund,18,685000.0,22-03-2006,Alm.,5000,3,Villa,137,1867,
+Strandvejen Grønninghoved 14 6093 Sjølund,14,3155000.0,03-03-2006,Alm.,34670,4,Sommerhus,91,1931,
+Havremarken 2 6093 Sjølund,2,2600000.0,07-02-2006,Alm.,18840,6,Sommerhus,138,1995,
+Fjællebrovej 14 6093 Sjølund,14,2850000.0,30-01-2006,Alm.,12666,5,Villa,225,1870,
+Mellemgade 15 6093 Sjølund,15,890000.0,26-01-2006,Alm.,9270,3,Villa,96,1961,
+Rugmarken 30 6093 Sjølund,30,1875000.0,23-01-2006,Alm.,24350,4,Sommerhus,77,2005,
+Bygmarken 10 6093 Sjølund,10,1500000.0,19-12-2005,Fam.,18518,4,Sommerhus,81,1999,
+Fredskovvej 14 6093 Sjølund,14,1145000.0,17-12-2005,Alm.,17890,4,Sommerhus,64,1992,
+Strandvejen Grønninghoved 37 6093 Sjølund,37,782000.0,13-12-2005,Alm.,12030,3,Sommerhus,65,1927,
+Rugmarken 16 6093 Sjølund,16,690625.0,07-12-2005,Alm.,8969,4,Sommerhus,77,2006,
+Mellemgade 6 6093 Sjølund,6,600000.0,25-11-2005,Alm.,4379,6,Villa,137,1927,
+Vejstruprødvej 37 6093 Sjølund,37,375000.0,03-10-2005,Alm.,2272,6,Villa,165,2006,
+Vejstruprødvej 32 6093 Sjølund,32,2600000.0,12-09-2005,Alm.,8996,6,Stuehus,289,1867,
+Hvedemarken 1 6093 Sjølund,1,2175000.0,08-09-2005,Alm.,25892,5,Sommerhus,84,1998,
+St. Strandhave 22 6093 Sjølund,22,1862500.0,07-09-2005,Alm.,20694,4,Sommerhus,90,2006,
+Rugmarken 13 6093 Sjølund,13,1595000.0,06-09-2005,Alm.,21266,4,Sommerhus,75,2004,
+Kurkmarkvej 3 6093 Sjølund,3,2560000.0,02-09-2005,Alm.,7757,9,Stuehus,330,1893,
+Sjølund Gade 14 6093 Sjølund,14,1150000.0,01-09-2005,Alm.,8518,4,Lejlighed,135,1921,
+Toftevej 2 6093 Sjølund,2,535375.0,15-08-2005,Alm.,4537,5,Villa,118,1877,
+St. Strandhave 14 6093 Sjølund,14,1300000.0,08-08-2005,Alm.,20967,4,Sommerhus,62,1962,
+Kirkevænget 8 6093 Sjølund,8,598000.0,04-08-2005,Alm.,5750,3,Villa,104,1967,
+Bygmarken 8 6093 Sjølund,8,1785000.0,28-07-2005,Alm.,19833,4,Sommerhus,90,1996,
+Hvedemarken 42 6093 Sjølund,42,1714699.0,07-07-2005,Alm.,19709,3,Sommerhus,87,2003,
+Hvedemarken 10 6093 Sjølund,10,1750000.0,27-06-2005,Alm.,25000,4,Sommerhus,70,1997,
+J.A. Petersens Park 60 6093 Sjølund,60,152250.0,23-06-2005,Alm.,1050,6,Villa,145,2006,
+Rugmarken 9 6093 Sjølund,9,1600000.0,21-06-2005,Alm.,21621,4,Sommerhus,74,2003,
+Anemonevej 18 6093 Sjølund,18,380000.0,01-06-2005,Alm.,7600,2,Sommerhus,50,1957,
+Bygmarken 22 6093 Sjølund,22,1780000.0,16-05-2005,Alm.,22820,5,Sommerhus,78,1996,
+Rugmarken 24 6093 Sjølund,24,1850000.0,13-05-2005,Alm.,15163,4,Sommerhus,122,2005,
+Hvedemarken 21 6093 Sjølund,21,1850000.0,02-05-2005,Alm.,19892,4,Sommerhus,93,1997,
+Mosvigvej 32 6093 Sjølund,32,945000.0,26-04-2005,Alm.,17500,3,Sommerhus,54,1920,
+J.A. Petersens Park 11 6093 Sjølund,11,1465000.0,25-04-2005,Alm.,8005,8,Villa,183,1997,
+Strandvejen Grønninghoved 27 6093 Sjølund,27,600000.0,10-04-2005,Fam.,13043,2,Sommerhus,46,1984,
+Sjølund Gade 39 6093 Sjølund,39,1075000.0,17-03-2005,Alm.,10141,3,Villa,106,1945,
+Anemonevej 4 6093 Sjølund,4,1820000.0,04-03-2005,Alm.,21411,4,Sommerhus,85,1998,
+Rugmarken 14 6093 Sjølund,14,1675000.0,22-02-2005,Alm.,21753,4,Sommerhus,77,2005,
+Vesterslettevej 17 6093 Sjølund,17,1827500.0,14-02-2005,Fam.,14620,4,Stuehus,125,1850,
+Havremarken 18 6093 Sjølund,18,1575000.0,08-02-2005,Alm.,19936,4,Sommerhus,79,1998,
+Mosvigvej 31 6093 Sjølund,31,1025000.0,02-02-2005,Alm.,0,4,Sommerhus,95,1995,
+Nyhavn 11 6093 Sjølund,11,300000.0,31-01-2005,Alm.,1785,6,Villa,168,2006,
+Rugmarken 18 6093 Sjølund,18,1760000.0,28-01-2005,Alm.,21204,4,Sommerhus,83,2004,
+Højmosevej 7 6093 Sjølund,7,2246000.0,26-01-2005,Fam.,25816,4,Stuehus,87,1877,
+St. Strandhave 13 6093 Sjølund,13,1000000.0,27-12-2004,Alm.,11111,4,Sommerhus,90,1964,
+Anemonevej 3 6093 Sjølund,3,1600000.0,07-12-2004,Alm.,17977,4,Sommerhus,89,2005,
+Rosenalle 9 6093 Sjølund,9,510000.0,06-12-2004,Fam.,10000,3,Sommerhus,51,1950,
+Åstorpvej 12 6093 Sjølund,12,1175000.0,03-12-2004,Alm.,10491,5,Villa,112,1944,
+J.A. Petersens Park 59 6093 Sjølund,59,136500.0,27-10-2004,Alm.,754,6,Villa,181,2006,
+Sjølund Gade 10 6093 Sjølund,10,1000000.0,04-10-2004,Alm.,4901,8,Villa,204,1900,
+Højmosevej 2A 6093 Sjølund,0,490658.0,30-09-2004,Alm.,1746,8,Villa,281,1931,
+Silovej 10 6093 Sjølund,10,520000.0,22-09-2004,Alm.,7027,4,Villa,74,1950,
+Rugmarken 19 6093 Sjølund,19,1795000.0,22-09-2004,Alm.,26014,4,Sommerhus,69,2003,
+Vesterslettevej 10 6093 Sjølund,10,1682000.0,02-07-2004,Alm.,14134,8,Stuehus,119,1935,
+Skovvejen 7 6093 Sjølund,7,585000.0,30-06-2004,Alm.,13295,4,Sommerhus,44,1932,
+Anemonevej 11 6093 Sjølund,11,750000.0,17-06-2004,Alm.,8064,4,Sommerhus,93,2005,
+Nyhavn 5 6093 Sjølund,5,600000.0,11-06-2004,Alm.,5714,4,Villa,105,1939,
+Sjølund Landevej 14 6093 Sjølund,14,825000.0,17-05-2004,Alm.,5650,5,Villa,146,1948,
+Anemonevej 7 6093 Sjølund,7,225000.0,07-05-2004,Alm.,2368,4,Sommerhus,95,2005,
+Mosvigvej 25 6093 Sjølund,25,540000.0,28-04-2004,Alm.,10800,2,Sommerhus,50,1955,
+Fredskovvej 32 6093 Sjølund,32,1075000.0,19-04-2004,Alm.,17063,4,Sommerhus,63,1996,
+Rugmarken 7 6093 Sjølund,7,1600000.0,15-04-2004,Alm.,21333,4,Sommerhus,75,2003,
+Rugmarken 32 6093 Sjølund,32,1470000.0,31-03-2004,Alm.,19090,4,Sommerhus,77,2001,
+Bakkevej Grønninghoved 4 6093 Sjølund,4,880000.0,21-03-2004,Alm.,25882,3,Sommerhus,34,2002,
+Fjællebrovej 3 6093 Sjølund,3,480000.0,04-03-2004,Alm.,6000,3,Villa,80,1877,
+Strandvejen Grønninghoved 35 6093 Sjølund,35,297500.0,15-02-2004,Fam.,5613,4,Sommerhus,53,1975,
+Mejsevej 16 6093 Sjølund,16,450500.0,31-12-2003,Alm.,7508,4,Sommerhus,60,1952,
+Strandvejen Grønninghoved 25 6093 Sjølund,25,552500.0,28-12-2003,Fam.,7781,5,Sommerhus,71,1930,
+Hvedemarken 19 6093 Sjølund,19,1250000.0,01-12-2003,Alm.,17857,4,Sommerhus,70,1998,
+Fjællebrovej 7 6093 Sjølund,7,577296.0,29-10-2003,Alm.,0,4,Villa,104,1906,
+Bygmarken 2 6093 Sjølund,2,1570000.0,20-10-2003,Alm.,19382,4,Sommerhus,81,1996,
+Gl. Strandvej 24 6093 Sjølund,24,920000.0,20-10-2003,Fam.,9200,4,Sommerhus,100,1950,
+Hvedemarken 36 6093 Sjølund,36,1475000.0,01-10-2003,Alm.,16208,4,Sommerhus,91,1998,
+J.A. Petersens Park 22 6093 Sjølund,22,975000.0,22-09-2003,Alm.,6290,5,Villa,155,1976,
+Sjølund Mark 4 6093 Sjølund,4,710000.0,13-09-2003,Alm.,5338,3,Villa,133,2005,
+Rugmarken 8 6093 Sjølund,8,445000.0,02-09-2003,Alm.,4684,5,Sommerhus,95,2007,
+Rugmarken 27 6093 Sjølund,27,1230000.0,04-08-2003,Alm.,16849,4,Sommerhus,73,2000,
+Bygmarken 4 6093 Sjølund,4,1375000.0,28-07-2003,Alm.,16369,4,Sommerhus,84,1995,
+J.A. Petersens Park 14 6093 Sjølund,14,825000.0,11-06-2003,Alm.,7236,4,Villa,114,1976,
+Rugmarken 29 6093 Sjølund,29,1150000.0,10-06-2003,Alm.,15333,4,Sommerhus,75,2001,
+Hvedemarken 13 6093 Sjølund,13,550000.0,06-06-2003,Andet,8333,4,Sommerhus,66,1998,
+Søndermarkvej 15 6093 Sjølund,15,712500.0,04-06-2003,Alm.,3392,8,Villa,210,1838,
+St. Strandhave 12 6093 Sjølund,12,552500.0,26-05-2003,Andet,9208,3,Sommerhus,60,1958,
+Åstorpvej 49 6093 Sjølund,49,423891.0,19-05-2003,Alm.,0,7,Villa,178,1976,
+Rugmarken 34 6093 Sjølund,34,1595000.0,07-05-2003,Alm.,17921,4,Sommerhus,89,2001,
+Nederbygade 2 6093 Sjølund,2,660000.0,29-04-2003,Alm.,6111,4,Kollegium,108,1852,
+Hvedemarken 9 6093 Sjølund,9,1315000.0,14-04-2003,Alm.,14139,4,Sommerhus,93,1997,
+Rugmarken 21 6093 Sjølund,21,450000.0,02-04-2003,Alm.,5921,3,Sommerhus,76,2004,
+Bakkevej Grønninghoved 8 6093 Sjølund,8,416000.0,06-02-2003,Fam.,5698,4,Sommerhus,73,2009,
+Kurkmarkvej 26 6093 Sjølund,26,850000.0,05-02-2003,Alm.,7870,4,Villa,108,1923,
+Vesterslettevej 22 6093 Sjølund,22,1180000.0,22-01-2003,Alm.,10535,5,Villa,112,1877,
+Rugmarken 5 6093 Sjølund,5,316666.0,07-12-2002,Alm.,4398,4,Sommerhus,72,2003,
+Silovej 8 6093 Sjølund,8,11000000.0,28-11-2002,Alm.,81481,7,Villa,135,1951,
+Slåtoftvej 1 6093 Sjølund,1,2405000.0,28-11-2002,Alm.,17056,5,Villa,141,1877,
+Slåtoftvej 4 6093 Sjølund,4,517959.0,28-11-2002,Alm.,3572,4,Villa,145,1890,
+Havremarken 10 6093 Sjølund,10,1362146.0,16-11-2002,Alm.,15478,5,Sommerhus,88,1995,
+Åstorpvej 33 6093 Sjølund,33,467500.0,08-11-2002,Fam.,6317,3,Stuehus,74,1775,
+Fredskovvej 7 6093 Sjølund,7,600000.0,09-10-2002,Alm.,12000,3,Sommerhus,50,1960,
+Skamlingvejen 162 6093 Sjølund,162,550000.0,09-10-2002,Alm.,5140,4,Villa,107,1960,
+Åstorpvej 35 6093 Sjølund,35,900000.0,17-09-2002,Alm.,0,7,Villa,154,1935,
+Fredskovvej 22 6093 Sjølund,22,780000.0,15-08-2002,Alm.,9873,3,Sommerhus,79,1963,
+Gammelmosevej 7 6093 Sjølund,7,535000.0,26-07-2002,Alm.,4734,5,Villa,113,1927,
+Åstorpvej 39 6093 Sjølund,39,1070000.0,08-07-2002,Alm.,5515,3,Villa,194,1855,
+Fjællebrovej 8 6093 Sjølund,8,570000.0,23-06-2002,Alm.,5181,5,Villa,110,1915,
+Bakkevej 10 6093 Sjølund,10,1320000.0,22-05-2002,Alm.,7333,11,Villa,180,1900,
+Bygmarken 18 6093 Sjølund,18,1225000.0,20-05-2002,Alm.,16333,4,Sommerhus,75,1996,
+Gl. Skamlingvej 2 6093 Sjølund,2,550000.0,13-05-2002,Alm.,3273,3,Villa,168,1963,
+Holmsvej 4 6093 Sjølund,4,887190.0,25-04-2002,Alm.,5798,6,Villa,153,1978,
+Skrænten Grønninghoved 1 6093 Sjølund,1,870000.0,02-04-2002,Alm.,21750,2,Sommerhus,40,1952,
+Vejstruprød Landevej 22 6093 Sjølund,22,852456.0,25-03-2002,Alm.,0,12,Stuehus,311,1874,
+Skomagergade 20 6093 Sjølund,20,312499.0,04-03-2002,Alm.,2232,5,Villa,140,1873,
+Strandvejen Grønninghoved 18 6093 Sjølund,18,400000.0,28-02-2002,Fam.,8000,2,Sommerhus,50,1926,
+Åstorpvej 51 6093 Sjølund,51,540000.0,25-02-2002,Alm.,4426,4,Stuehus,122,1877,
+Grønninghovedvej 3 6093 Sjølund,3,395000.0,18-02-2002,Alm.,6583,2,Villa,60,1877,
+Sjølund Landevej 20 6093 Sjølund,20,535000.0,16-01-2002,Alm.,3689,6,Villa,145,1910,
+Rugmarken 38 6093 Sjølund,38,200000.0,31-12-2001,Alm.,2325,4,Sommerhus,86,2001,
+Holmsvej 2 6093 Sjølund,2,400000.0,09-10-2001,Alm.,0,5,Villa,145,1960,
+J.A. Petersens Park 55 6093 Sjølund,55,1195000.0,21-09-2001,Alm.,6789,6,Villa,176,1999,
+J.A. Petersens Park 4 6093 Sjølund,4,1350296.0,16-08-2001,Alm.,7182,4,Villa,188,1977,
+Bygmarken 6 6093 Sjølund,6,1425000.0,08-08-2001,Alm.,16964,4,Sommerhus,84,1995,
+Bakkevej Grønninghoved 10 6093 Sjølund,10,225000.0,02-07-2001,Alm.,4891,3,Sommerhus,46,2003,
+Højmosevej 4 6093 Sjølund,4,840000.0,02-07-2001,Alm.,6942,4,Villa,121,1890,
+Strandvejen Grønninghoved 5 6093 Sjølund,5,255000.0,30-05-2001,Fam.,4180,3,Sommerhus,61,1927,
+Silovej 14 6093 Sjølund,14,872000.0,12-04-2001,Alm.,8808,3,Villa,99,1954,
+Fuglsangvej 6 6093 Sjølund,6,1800000.0,14-03-2001,Alm.,10778,5,Villa,167,1930,
+Nyvej Grønninghoved 10 6093 Sjølund,10,525000.0,11-03-2001,Alm.,9210,2,Sommerhus,57,1947,
+Strandvejen Grønninghoved 33 6093 Sjølund,33,500000.0,01-03-2001,Fam.,6250,3,Sommerhus,80,2017,
+Sjølund Gade 34 6093 Sjølund,34,824879.0,07-02-2001,Alm.,0,4,Villa,165,1929,
+Skomagergade 32 6093 Sjølund,32,473774.0,14-12-2000,Alm.,4307,4,Villa,110,1932,
+Vejstruprødvej 30 6093 Sjølund,30,577215.0,11-12-2000,Alm.,5394,4,Villa,107,1907,
+Vesterslettevej 6 6093 Sjølund,6,311592.0,08-12-2000,Alm.,0,7,Villa,205,1877,
+Strandvejen Grønninghoved 4 6093 Sjølund,4,280000.0,11-10-2000,Alm.,6086,4,Sommerhus,46,1933,
+Vejstruprødvej 35 6093 Sjølund,35,795000.0,20-09-2000,Fam.,5678,4,Stuehus,140,1897,
+Skovvejen 19 6093 Sjølund,19,800000.0,15-09-2000,Alm.,11594,3,Sommerhus,69,1960,
+Sjølund Gade 23 6093 Sjølund,23,495000.0,28-08-2000,Alm.,3807,4,Villa,130,1930,
+Hvedemarken 30 6093 Sjølund,30,173000.0,21-08-2000,Alm.,1783,4,Sommerhus,97,2001,
+Hvedemarken 23 6093 Sjølund,23,1330000.0,17-08-2000,Alm.,15287,5,Sommerhus,87,1997,
+J.A. Petersens Park 10 6093 Sjølund,10,880000.0,17-07-2000,Alm.,7719,4,Villa,114,1978,
+Strandvejen Grønninghoved 8 6093 Sjølund,8,802222.0,23-06-2000,Alm.,16712,3,Sommerhus,48,1933,
+Rosenalle 8 6093 Sjølund,8,675000.0,22-06-2000,Alm.,12272,2,Sommerhus,55,1950,
+Åstorpvej 68 6093 Sjølund,68,3856100.0,21-06-2000,Fam.,16000,6,Stuehus,241,1805,
+Strandvejen Grønninghoved 15 6093 Sjølund,15,520000.0,15-05-2000,Fam.,9285,3,Sommerhus,56,1950,
+Gammelmosevej 1 6093 Sjølund,1,800000.0,17-04-2000,Alm.,4907,7,Villa,163,1970,
+Sjølund Gade 40 6093 Sjølund,40,1650000.0,31-03-2000,Alm.,6250,6,Villa,264,1992,
+Vejstruprødvej 38 6093 Sjølund,38,300000.0,16-02-2000,Fam.,2752,4,Villa,109,1905,
+Lynæs Alle 3 6093 Sjølund,3,390000.0,20-11-1999,Fam.,10540,2,Sommerhus,37,1957,
+Vesterslettevej 14 6093 Sjølund,14,885000.0,20-11-1999,Alm.,6555,5,Stuehus,135,1850,
+Hvedemarken 20 6093 Sjølund,20,325000.0,16-10-1999,Alm.,4391,4,Sommerhus,74,2000,
+Fredskovvej 42 6093 Sjølund,42,573000.0,15-10-1999,Alm.,11460,4,Sommerhus,50,1961,
+Hvedemarken 34 6093 Sjølund,34,498000.0,11-10-1999,Alm.,5472,4,Sommerhus,91,2001,
+Søndermarkvej 4 6093 Sjølund,4,295000.0,08-10-1999,Alm.,1705,3,Stuehus,173,1995,
+Vesterslettevej 7 6093 Sjølund,7,581813.0,01-10-1999,Alm.,0,8,Villa,197,1914,
+Højmosevej 2 6093 Sjølund,2,1328479.0,17-08-1999,Alm.,4661,8,Stuehus,285,1939,
+Mosvigvej 15 6093 Sjølund,15,1000000.0,04-08-1999,Fam.,10000,4,Stuehus,100,1909,
+Gammelmosevej 6 6093 Sjølund,6,1107143.0,02-08-1999,Alm.,0,4,Villa,186,1974,
+Skamlingvejen 151 6093 Sjølund,151,735315.0,15-06-1999,Alm.,5406,6,Villa,136,1948,
+Pilealle 1A 6093 Sjølund,0,425000.0,01-06-1999,Fam.,7727,3,Sommerhus,55,1975,
+Skamlingvejen 171 6093 Sjølund,171,690000.0,03-05-1999,Alm.,4011,8,Villa,172,1912,
+Bygmarken 13 6093 Sjølund,13,1200000.0,23-04-1999,Alm.,15789,4,Sommerhus,76,1998,
+Vejstruprødvej 18 6093 Sjølund,18,400000.0,01-04-1999,Alm.,4166,4,Villa,96,1900,
+Binderupvej 6 6093 Sjølund,6,163640.0,08-03-1999,Fam.,1352,4,Villa,121,1955,
+Åstorpvej 41 6093 Sjølund,41,1200310.0,02-03-1999,Alm.,6668,6,Villa,180,1963,
+Bakkevej 7 6093 Sjølund,7,810000.0,07-02-1999,Alm.,4132,6,Villa,196,1850,
+J.A. Petersens Park 7 6093 Sjølund,7,898000.0,07-12-1998,Alm.,0,6,Villa,151,1984,
+Strandvejen Grønninghoved 10 6093 Sjølund,10,308000.0,13-11-1998,Alm.,8555,3,Sommerhus,36,1993,
+Mosvigvej 18 6093 Sjølund,18,1281000.0,11-10-1998,Alm.,7156,7,Stuehus,179,1880,
+Sjølund Gade 2 6093 Sjølund,2,425000.0,21-09-1998,Alm.,2910,5,Villa,146,1900,
+Bygmarken 16 6093 Sjølund,16,1164000.0,08-09-1998,Alm.,15315,4,Sommerhus,76,1995,
+Vesterslettevej 15 6093 Sjølund,15,780000.0,19-08-1998,Alm.,3714,6,Villa,210,1999,
+Mejsevej 18 6093 Sjølund,18,180000.0,13-07-1998,Fam.,3600,4,Sommerhus,50,1937,
+Skamlingvejen 168 6093 Sjølund,168,525000.0,23-06-1998,Alm.,5250,5,Villa,100,1964,
+Hvedemarken 18 6093 Sjølund,18,300000.0,15-06-1998,Alm.,3896,5,Sommerhus,77,2001,
+Hvedemarken 8 6093 Sjølund,8,1350000.0,27-05-1998,Alm.,12500,5,Sommerhus,108,1998,
+Lynæs Alle 2 6093 Sjølund,2,153000.0,30-04-1998,Fam.,4781,4,Sommerhus,32,1959,
+Hvedemarken 16 6093 Sjølund,16,455000.0,17-04-1998,Alm.,6232,4,Sommerhus,73,1998,
+Sønderbygade 2 6093 Sjølund,2,1150000.0,26-03-1998,Fam.,4693,6,Stuehus,245,1820,
+Dalsgaards Alle 3 6093 Sjølund,3,392000.0,15-03-1998,Fam.,8711,3,Sommerhus,45,1970,
+Bakkevej Grønninghoved 1 6093 Sjølund,1,125000.0,09-03-1998,Alm.,2717,3,Sommerhus,46,1999,
+Hvedemarken 38 6093 Sjølund,38,1099000.0,21-02-1998,Alm.,15700,3,Sommerhus,70,1998,
+Åstorpvej 44 6093 Sjølund,44,1356620.0,14-10-1997,Alm.,7029,4,Villa,193,1850,
+Hvedemarken 15 6093 Sjølund,15,330000.0,07-10-1997,Alm.,4714,3,Sommerhus,70,1998,
+Hvedemarken 5 6093 Sjølund,5,498000.0,29-09-1997,Alm.,5134,5,Sommerhus,97,1998,
+Vejstruprødvej 12 6093 Sjølund,12,473000.0,13-08-1997,Alm.,4730,4,Stuehus,100,1827,
+Åstorpvej 53 6093 Sjølund,53,824000.0,06-07-1997,Alm.,0,7,Stuehus,247,1907,
+Vejstruprødvej 40 6093 Sjølund,40,2708200.0,25-06-1997,Fam.,11378,7,Stuehus,238,1884,
+Gl. Strandvej 23 6093 Sjølund,23,280500.0,28-05-1997,Fam.,4675,3,Sommerhus,60,1945,
+Hvedemarken 17 6093 Sjølund,17,1149000.0,25-05-1997,Alm.,16414,4,Sommerhus,70,1998,
+Bakkevej 5 6093 Sjølund,5,400139.0,03-05-1997,Alm.,3847,6,Villa,104,1903,
+Strandvejen Grønninghoved 21 6093 Sjølund,21,850000.0,24-02-1997,Alm.,8947,2,Sommerhus,95,1935,
+Kurkmarkvej 16 6093 Sjølund,16,973239.0,31-12-1996,Alm.,0,7,Villa,212,1948,
+Skamlingvejen 150 6093 Sjølund,150,75760.0,20-12-1996,Alm.,448,5,Stuehus,169,1998,
+Nyhavn 15 6093 Sjølund,15,544000.0,06-12-1996,Alm.,3651,5,Villa,149,1973,
+Skomagergade 10 6093 Sjølund,10,560000.0,11-11-1996,Alm.,3544,5,Villa,158,1857,
+Kurkmarkvej 5 6093 Sjølund,5,513720.0,07-11-1996,Alm.,0,8,Villa,210,1827,
+Skrænten Grønninghoved 2 6093 Sjølund,2,125000.0,15-10-1996,Alm.,2840,2,Sommerhus,44,1948,
+Havremarken 3 6093 Sjølund,3,380000.0,19-08-1996,Alm.,5428,4,Sommerhus,70,1997,
+Sjølund Gade 31 6093 Sjølund,31,255000.0,12-06-1996,Alm.,0,3,Villa,142,1943,
+Skrænten Grønninghoved 3 6093 Sjølund,3,325000.0,25-03-1996,Alm.,7738,2,Sommerhus,42,1950,
+Kurkmarkvej 20 6093 Sjølund,20,430000.0,28-01-1996,Fam.,2606,4,Stuehus,165,1885,
+Bygmarken 1 6093 Sjølund,1,445000.0,09-11-1995,Alm.,3647,4,Sommerhus,122,1997,
+Fredskovvej 16 6093 Sjølund,16,135000.0,08-10-1995,Alm.,1285,5,Sommerhus,105,1996,
+Vesterslettevej 18 6093 Sjølund,18,200000.0,02-10-1995,Alm.,1041,5,Villa,192,1877,
+J.A. Petersens Park 16 6093 Sjølund,16,750000.0,28-08-1995,Alm.,4518,4,Villa,166,1980,
+Havremarken 1 6093 Sjølund,1,335000.0,18-07-1995,Alm.,3045,5,Sommerhus,110,1996,
+Strandvejen Grønninghoved 31 6093 Sjølund,31,178500.0,01-07-1995,Fam.,3025,2,Sommerhus,59,1926,
+Fjællebrovej 1 6093 Sjølund,1,125000.0,24-06-1995,Alm.,1785,3,Villa,70,1870,
+Bygmarken 9 6093 Sjølund,9,188000.0,09-06-1995,Alm.,2805,5,Sommerhus,67,1999,
+Havremarken 8 6093 Sjølund,8,248000.0,10-05-1995,Alm.,1771,6,Sommerhus,140,1997,
+Havremarken 6 6093 Sjølund,6,188000.0,02-05-1995,Alm.,2410,4,Sommerhus,78,1995,
+Rosenalle 3 6093 Sjølund,3,400000.0,27-04-1995,Alm.,5970,3,Sommerhus,67,2004,
+Åstorpvej 56 6093 Sjølund,56,270000.0,09-01-1995,Fam.,2250,5,Stuehus,120,1907,
+Grønninghovedvej 18 6093 Sjølund,18,645000.0,14-12-1994,Alm.,3794,5,Villa,170,1930,
+Mosvigvej 16 6093 Sjølund,16,198810.0,14-12-1994,Alm.,1656,4,Stuehus,120,1865,
+Skovvejen 3A 6093 Sjølund,0,101000.0,24-10-1994,Fam.,5050,2,Sommerhus,20,1929,
+Gl. Strandvej 30 6093 Sjølund,30,355500.0,31-08-1994,Alm.,6025,3,Sommerhus,59,2006,
+Sjølund Gade 15 6093 Sjølund,15,171481.0,22-08-1994,Alm.,621,7,Villa,276,1937,
+Skamlingvejen 155 6093 Sjølund,155,425000.0,02-08-1994,Alm.,0,6,Villa,161,1934,
+Mosvigvej 29 6093 Sjølund,29,280000.0,31-07-1994,Alm.,5833,3,Sommerhus,48,1950,
+Bakkevej Grønninghoved 14 6093 Sjølund,14,220000.0,29-07-1994,Alm.,4400,2,Sommerhus,50,1952,
+Vejstruprødvej 28 6093 Sjølund,28,580000.0,11-07-1994,Alm.,2885,5,Stuehus,201,1890,
+Grønninghovedvej 11 6093 Sjølund,11,555000.0,08-06-1994,Alm.,5550,4,Villa,100,1981,
+J.A. Petersens Park 5 6093 Sjølund,5,685000.0,02-06-1994,Alm.,5436,4,Villa,126,1986,
+Dalsgaards Alle 1 6093 Sjølund,1,230000.0,01-06-1994,Alm.,7187,3,Sommerhus,32,1966,
+Fredskovvej 28 6093 Sjølund,28,135000.0,31-05-1994,Alm.,2076,3,Sommerhus,65,1995,
+Fredskovvej 2 6093 Sjølund,2,135000.0,12-05-1994,Alm.,1956,4,Sommerhus,69,1995,
+St. Strandhave 4 6093 Sjølund,4,310000.0,27-04-1994,Alm.,0,4,Sommerhus,74,1960,
+Mosvigvej 27 6093 Sjølund,27,135000.0,19-04-1994,Alm.,3461,2,Sommerhus,39,1960,
+Strandvejen Grønninghoved 6 6093 Sjølund,6,190000.0,08-03-1994,Fam.,2676,4,Sommerhus,71,1932,
+Sneppevej 2 6093 Sjølund,2,210000.0,10-01-1994,Alm.,4772,2,Sommerhus,44,1952,
+Dalsgaards Alle 2 6093 Sjølund,2,250000.0,23-12-1993,Alm.,0,4,Sommerhus,67,1965,
+Åstorpvej 57 6093 Sjølund,57,820000.0,29-10-1993,Alm.,0,5,Stuehus,194,1914,
+Rosenalle 7 6093 Sjølund,7,425000.0,01-09-1993,Alm.,5312,4,Sommerhus,80,1949,
+Kurkmarkvej 31 6093 Sjølund,31,175000.0,02-07-1993,Alm.,0,7,Villa,354,1870,
+St. Strandhave 5 6093 Sjølund,5,85000.0,01-07-1993,Fam.,1517,3,Sommerhus,56,1963,
+Skamlingvejen 159 6093 Sjølund,159,125670.0,17-06-1993,Alm.,1933,4,Villa,65,1936,
+Skomagergade 27 6093 Sjølund,27,165000.0,08-06-1993,Alm.,988,4,Villa,167,2004,
+Åstorpvej 8 6093 Sjølund,8,310000.0,01-12-1992,Alm.,2123,4,Villa,146,1933,
+Bakkevej 11 6093 Sjølund,11,125000.0,09-09-1992,Alm.,0,6,Stuehus,180,1860,
+Nyvej Grønninghoved 2 6093 Sjølund,2,298000.0,30-07-1992,Alm.,5418,2,Sommerhus,55,1955,
+Vesterslettevej 16 6093 Sjølund,16,375000.0,23-06-1992,Alm.,2467,5,Villa,152,1974,
+Strandvejen Grønninghoved 7 6093 Sjølund,7,200000.0,12-06-1992,Alm.,3703,3,Sommerhus,54,1933,
+Vesterslettevej 2 6093 Sjølund,2,800000.0,06-04-1992,Alm.,6153,5,Stuehus,130,1858,
+Sjølund Gade 9 6093 Sjølund,9,573000.0,15-01-1992,Alm.,3015,6,Villa,190,1917,
+Strandvejen Grønninghoved 12 6093 Sjølund,12,250000.0,15-01-1992,Alm.,5434,3,Sommerhus,46,1933,

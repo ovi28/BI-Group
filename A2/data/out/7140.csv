@@ -1,0 +1,569 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Hornumkærvej 16 7140 Stouby,16,350000.0,12-04-2017,Alm.,3500,5,Villa,100,1923,-41 %
+"Vejlevej 103, 1 7140 Stouby",1,895000.0,03-04-2017,Alm.,10529,3,Villa,85,1935,
+Lysegårdsvej 16 7140 Stouby,16,550000.0,01-04-2017,Alm.,5978,4,Villa,92,1937,
+Stouby Møllevej 19 7140 Stouby,19,400000.0,31-03-2017,Alm.,3333,4,Villa,120,1910,-6 %
+Lysegårdsvej 19 7140 Stouby,19,4807062.0,30-03-2017,Andet,31834,5,Stuehus,151,1868,
+Sanatorievej 17 7140 Stouby,17,900000.0,17-01-2017,Alm.,5921,6,Villa,152,1958,
+Hornumkærvej 18 7140 Stouby,18,120000.0,12-01-2017,Alm.,1200,4,Villa,100,1900,
+Idrætsvej 4 7140 Stouby,4,840000.0,08-01-2017,Alm.,5753,5,Villa,146,1978,
+Overvej 4 7140 Stouby,4,6095723.0,22-12-2016,Alm.,30631,9,Stuehus,199,1777,
+Fakkegravvej 44 7140 Stouby,44,190000.0,30-11-2016,Fam.,1117,7,Villa,170,1900,
+Vestre Ringvej 13 7140 Stouby,13,1010000.0,14-11-2016,Alm.,14027,2,Villa,72,1958,-3 %
+Vejlevej 71 7140 Stouby,71,230000.0,08-11-2016,Alm.,3538,4,Villa,65,1880,
+Vestre Ringvej 23 7140 Stouby,23,2200000.0,04-11-2016,Alm.,10476,5,Villa,210,1880,0 %
+Langbjergvej 16 7140 Stouby,16,1080000.0,12-10-2016,Fam.,4337,7,Villa,249,1870,
+Lysegårdsvej 23 7140 Stouby,23,1225000.0,19-09-2016,Alm.,6380,6,Villa,192,1900,0 %
+Bobækvej 2 7140 Stouby,2,895000.0,02-09-2016,Alm.,4917,5,Villa,182,1864,0 %
+Langbjergvej 5 7140 Stouby,5,535000.0,02-09-2016,Alm.,3429,4,Villa,156,1966,-10 %
+Idrætsvej 1 7140 Stouby,1,1285000.0,30-08-2016,Alm.,8031,6,Villa,160,1977,-8 %
+Rosenvoldvej 7 7140 Stouby,7,1250000.0,18-08-2016,Alm.,19531,2,Villa,64,1710,-3 %
+Nørkærvej 6 7140 Stouby,6,1200000.0,27-07-2016,Alm.,7894,4,Villa,152,1900,-14 %
+Stouby Møllevej 8 7140 Stouby,8,800000.0,04-07-2016,Alm.,3720,8,Villa,215,1930,-11 %
+Overvej 2 7140 Stouby,2,280000.0,20-06-2016,Andet,3043,7,Engroshandel,92,1933,-19 %
+Sanatorievej 13 7140 Stouby,13,1395000.0,02-05-2016,Alm.,8353,6,Villa,167,1932,-7 %
+Lysegårdsvej 17 7140 Stouby,17,750000.0,13-04-2016,Alm.,3393,6,Villa,221,1969,-21 %
+Vejlevej 126 7140 Stouby,126,1500000.0,01-04-2016,Alm.,7894,4,Villa,190,1910,-3 %
+Lysegårdsvej 6 7140 Stouby,6,820000.0,18-03-2016,Fam.,6560,4,Villa,125,1880,
+Vestergade 4 7140 Stouby,4,575000.0,07-03-2016,Alm.,7187,4,Villa,80,1931,0 %
+Vandmøllevej 7 7140 Stouby,7,1695000.0,17-02-2016,Alm.,12282,5,Villa,138,1865,-3 %
+Borgergade 48 7140 Stouby,48,1385000.0,01-02-2016,Alm.,5187,6,Villa,267,1935,0 %
+Kalmarvej 13 7140 Stouby,13,350000.0,28-01-2016,Fam.,2517,5,Villa,139,1951,
+Lundevej 2 7140 Stouby,2,250000.0,26-01-2016,Alm.,2659,4,Villa,94,1961,
+Langbjergvej 10 7140 Stouby,10,1250000.0,22-01-2016,Alm.,8741,4,Villa,143,1924,-10 %
+Bellevej 23 7140 Stouby,23,2000000.0,15-01-2016,Alm.,11834,6,Villa,169,1997,
+Bobækvej 10 7140 Stouby,10,1730000.0,29-11-2015,Alm.,17653,3,Stuehus,98,1880,-4 %
+Stouby Møllevej 16 7140 Stouby,16,775000.0,24-11-2015,Fam.,5615,5,Villa,138,1969,-13 %
+Bobækvej 5 7140 Stouby,5,10000.0,06-11-2015,Auktion,156,3,Villa,64,1876,
+Smedskærlund 1 7140 Stouby,1,800000.0,30-09-2015,Alm.,3587,9,Villa,223,1971,-20 %
+Vestergade 8 7140 Stouby,8,780000.0,19-09-2015,Alm.,7959,4,Villa,98,1962,-5 %
+Sanatorievej 3 7140 Stouby,3,2000000.0,28-08-2015,Alm.,11049,4,Villa,181,1880,
+Bellevej 4 7140 Stouby,4,681401.0,22-08-2015,Andet,4424,5,Villa,154,1900,
+Fakkegravvej 15 7140 Stouby,15,950000.0,03-07-2015,Alm.,6985,4,Villa,136,1963,-5 %
+Borgergade 12 7140 Stouby,12,685000.0,01-07-2015,Alm.,3459,6,Villa,198,1929,-14 %
+Bellemøllebanke 16 7140 Stouby,16,1300000.0,24-06-2015,Alm.,8904,4,Villa,146,1905,-3 %
+Borgergade 10 7140 Stouby,10,420000.0,22-06-2015,Alm.,3230,3,Villa,130,1850,
+Mejerivej 4 7140 Stouby,4,985000.0,25-05-2015,Andet,5760,6,Villa,171,1900,
+Bråskovvej 84 7140 Stouby,84,290000.0,21-05-2015,Alm.,2056,5,Villa,141,1922,-2 %
+Rosenvoldvej 8 7140 Stouby,8,1195000.0,02-03-2015,Fam.,9192,5,Villa,130,1969,0 %
+Rosenvoldvej 16 7140 Stouby,16,1262000.0,24-02-2015,Alm.,6471,8,Villa,195,1912,
+Vejlevej 108 7140 Stouby,108,538307.0,20-02-2015,Alm.,3564,4,Villa,151,1964,-51 %
+Vejlevej 123 7140 Stouby,123,460000.0,09-02-2015,Alm.,3622,4,Villa,127,1962,-34 %
+Stouby Kirkevej 17 7140 Stouby,17,1815000.0,28-01-2015,Alm.,13646,6,Villa,133,1905,1 %
+Grundvej 11 7140 Stouby,11,6842500.0,01-01-2015,Fam.,34212,10,Stuehus,200,1925,
+Borgergade 19 7140 Stouby,19,1595000.0,05-12-2014,Alm.,7250,10,Villa,220,1913,-6 %
+Stevnsvej 3 7140 Stouby,3,1100000.0,20-11-2014,Alm.,5945,5,Villa,185,1850,-8 %
+Stouby Skovvej 25 7140 Stouby,25,725000.0,24-10-2014,Fam.,4264,6,Villa,170,1875,
+Borgergade 28 7140 Stouby,28,189080.0,03-10-2014,Auktion,945,7,Villa,200,1920,
+Pilegårdsvej 4 7140 Stouby,4,550000.0,13-09-2014,Alm.,4230,4,Villa,130,1963,
+"Borgergade 50, ST. TH 7140 Stouby",0,675000.0,12-09-2014,Alm.,3552,3,Lejlighed,190,1920,
+Stouby Møllevej 1 7140 Stouby,1,745000.0,11-08-2014,Alm.,0,5,Villa,126,1903,-4 %
+Vejlevej 149 7140 Stouby,149,900000.0,25-07-2014,Alm.,4891,4,Villa,184,1950,-10 %
+Bråskovvej 85 7140 Stouby,85,359249.0,23-07-2014,Alm.,2113,6,Villa,170,1857,
+Koksfourt 8 7140 Stouby,8,685000.0,16-07-2014,Alm.,6116,5,Villa,112,1957,0 %
+Bellevej 24 7140 Stouby,24,352000.0,25-06-2014,Fam.,2285,5,Villa,154,1936,
+Hornsyldvej 9 7140 Stouby,9,970000.0,23-06-2014,Alm.,5987,5,Villa,162,1901,-3 %
+Sanatorievej 7 7140 Stouby,7,2297500.0,17-06-2014,Fam.,12220,8,Villa,188,1909,
+Mejerivej 6 7140 Stouby,6,802456.0,25-03-2014,Fam.,2748,10,Villa,292,1861,
+Vestre Ringvej 7 7140 Stouby,7,205000.0,20-02-2014,Alm.,2847,3,Villa,72,1951,-21 %
+Skulsballevej 11 7140 Stouby,11,650000.0,17-02-2014,Andet,6018,4,Villa,108,1932,
+Ællingegade 5 7140 Stouby,5,260000.0,12-02-2014,Alm.,2795,3,Villa,93,1944,-5 %
+Stouby Møllevej 10 7140 Stouby,10,6250.0,06-02-2014,Alm.,41,5,Villa,150,2016,
+Hornumkærvej 19 7140 Stouby,19,660000.0,27-01-2014,Alm.,4313,6,Villa,153,1930,
+Rosenvoldvej 20A 7140 Stouby,0,513000.0,10-01-2014,Auktion,3375,4,Villa,152,1929,
+Rosenvoldvej 6 7140 Stouby,6,195000.0,08-01-2014,Alm.,3046,2,Villa,64,1958,0 %
+Møllevænget 19 7140 Stouby,19,975000.0,06-01-2014,Alm.,7926,4,Villa,123,1977,-7 %
+Kalmarvej 15 7140 Stouby,15,53580.0,30-11-2013,Alm.,203,10,Stuehus,263,1770,
+Hornumkærvej 15 7140 Stouby,15,400000.0,04-11-2013,Alm.,3636,6,Stuehus,110,1875,
+Idrætsvej 5 7140 Stouby,5,706800.0,25-10-2013,Auktion,6146,4,Villa,115,1977,
+Vejlevej 65 7140 Stouby,65,575000.0,05-10-2013,Alm.,5582,4,Villa,103,1937,-3 %
+Borgergade 54 7140 Stouby,54,420000.0,20-09-2013,Alm.,2625,4,Villa,160,1934,-23 %
+Langbjergvej 8 7140 Stouby,8,41514.0,06-09-2013,Alm.,259,6,Stuehus,160,1880,
+Overvej 26 7140 Stouby,26,122000.0,06-09-2013,Alm.,488,5,Stuehus,250,1875,
+Bobækvej 13 7140 Stouby,13,495000.0,19-08-2013,Alm.,10531,2,Villa,47,2015,0 %
+Lundbovej 10 7140 Stouby,10,67000.0,23-07-2013,Alm.,216,8,Stuehus,310,1873,
+Stouby Møllevej 12B 7140 Stouby,0,594418.0,28-06-2013,Auktion,6191,2,Villa,96,1864,
+Møllevænget 7A 7140 Stouby,0,410000.0,28-06-2013,Auktion,6119,3,Rækkehus,67,2000,
+Møllevænget 7C 7140 Stouby,0,630499.0,28-06-2013,Auktion,7505,3,Rækkehus,84,2000,
+Møllevænget 7B 7140 Stouby,0,478340.0,28-06-2013,Auktion,7139,3,Rækkehus,67,2000,
+Langbjergvej 2 7140 Stouby,2,310000.0,18-06-2013,Alm.,3369,3,Villa,92,1920,
+Nedervej 9 7140 Stouby,9,1677000.0,10-06-2013,Fam.,12152,4,Villa,138,1986,
+Kalmarvej 6 7140 Stouby,6,1122500.0,06-06-2013,Alm.,7241,4,Villa,155,1855,-6 %
+Rosenvoldvej 11 7140 Stouby,11,1100000.0,05-06-2013,Alm.,5851,6,Villa,188,1997,
+Ferdinandsvej 5 7140 Stouby,5,865000.0,03-05-2013,Alm.,0,5,Villa,139,1800,-3 %
+Vestergade 6 7140 Stouby,6,892000.0,05-04-2013,Auktion,8336,4,Villa,107,1963,
+Vandmøllevej 5 7140 Stouby,5,600000.0,20-03-2013,Alm.,7142,4,Villa,84,1865,
+Lundbovej 5 7140 Stouby,5,1050000.0,01-03-2013,Alm.,8750,5,Rækkehus,120,1956,-4 %
+Vestre Ringvej 16 7140 Stouby,16,975000.0,27-02-2013,Alm.,7677,4,Villa,127,1973,-2 %
+Stouby Skovvej 17A 7140 Stouby,0,1875000.0,23-01-2013,Alm.,12500,7,Villa,150,1860,-6 %
+Langbjergvej 4 7140 Stouby,4,70000.0,18-01-2013,Auktion,530,4,Villa,132,1900,-88 %
+Pilegårdsvej 8 7140 Stouby,8,400000.0,07-12-2012,Fam.,2061,5,Villa,194,2013,
+Vejlevej 70 7140 Stouby,70,25000.0,30-11-2012,Auktion,240,3,Villa,104,1880,-95 %
+Fakkegravvej 12 7140 Stouby,12,325000.0,23-11-2012,Alm.,2210,5,Villa,147,1969,-34 %
+Bellevej 14 7140 Stouby,14,348500.0,28-10-2012,Fam.,4356,2,Villa,80,1968,
+Vejlevej 125 7140 Stouby,125,526200.0,10-10-2012,Fam.,4143,4,Villa,127,1964,-56 %
+Mølletoften 15 7140 Stouby,15,725000.0,02-10-2012,Alm.,7397,4,Villa,98,1975,
+Kalmarvej 11 7140 Stouby,11,10800000.0,24-09-2012,Alm.,55102,6,Stuehus,196,1900,
+Mølletoften 1 7140 Stouby,1,1145000.0,11-09-2012,Alm.,10132,3,Villa,113,1972,-4 %
+Borgergade 32B 7140 Stouby,0,515000.0,23-05-2012,Alm.,7923,2,Rækkehus,65,1993,-13 %
+Hornsyldvej 11 7140 Stouby,11,300000.0,26-04-2012,Alm.,3896,4,Villa,77,1934,-8 %
+Mølletoften 23 7140 Stouby,23,667819.0,26-04-2012,Fam.,4874,5,Villa,137,1974,
+Mikkels Vej 24 7140 Stouby,24,530000.0,24-04-2012,Alm.,3397,3,Villa,156,2014,
+Langbjergvej 3 7140 Stouby,3,712500.0,03-04-2012,Alm.,6985,4,Villa,102,1959,-5 %
+Lundevej 10 7140 Stouby,10,1250000.0,20-03-2012,Alm.,11160,4,Stuehus,112,1859,
+Idrætsvej 7 7140 Stouby,7,815000.0,01-03-2012,Alm.,7086,4,Villa,115,1976,-18 %
+Fakkegravvej 24 7140 Stouby,24,895000.0,16-02-2012,Auktion,4068,5,Villa,220,1887,-50 %
+Mikkels Vej 20 7140 Stouby,20,2200000.0,22-01-2012,Alm.,14473,5,Villa,152,2005,-8 %
+Lindevangen 9 7140 Stouby,9,375000.0,15-12-2011,Andet,1913,6,Villa,196,1981,
+Bellevej 6 7140 Stouby,6,750000.0,14-12-2011,Alm.,8333,4,Stuehus,90,1922,
+Stouby Kirkevej 4 7140 Stouby,4,3000000.0,18-11-2011,Alm.,18750,5,Villa,160,1968,
+Vejlevej 73 7140 Stouby,73,550000.0,09-11-2011,Alm.,4583,5,Villa,120,1918,
+Bellevej 12 7140 Stouby,12,2550000.0,23-10-2011,Alm.,18214,5,Stuehus,140,1924,
+Borgergade 20 7140 Stouby,20,100000.0,30-09-2011,Auktion,380,7,Villa,263,1900,
+Aksel Nielsens Vej 4 7140 Stouby,4,2350000.0,23-09-2011,Alm.,12176,5,Villa,193,2006,-6 %
+Stouby Kirkevej 1 7140 Stouby,1,700000.0,20-09-2011,Alm.,3535,6,Villa,198,1730,
+Vejlevej 51 7140 Stouby,51,1820000.0,08-09-2011,Alm.,10400,6,Villa,175,1895,
+Lysegårdsvej 28 7140 Stouby,28,350000.0,27-06-2011,Alm.,4216,3,Villa,83,1900,
+Fakkegravvej 34 7140 Stouby,34,1380335.0,27-06-2011,Alm.,5268,5,Stuehus,262,2014,
+Mikkels Vej 14 7140 Stouby,14,2545000.0,24-06-2011,Alm.,13051,4,Villa,195,2006,-2 %
+Stouby Møllevej 21 7140 Stouby,21,1650000.0,17-05-2011,Alm.,8418,8,Villa,196,1907,-3 %
+Kalmarvej 14 7140 Stouby,14,15000.0,29-04-2011,Auktion,120,3,Villa,125,1890,
+Fakkegravvej 32 7140 Stouby,32,1237500.0,04-04-2011,Fam.,5676,8,Villa,218,1929,
+Overvej 22 7140 Stouby,22,3100000.0,18-03-2011,Alm.,18023,8,Villa,172,1904,-5 %
+Borgergade 26 7140 Stouby,26,750000.0,01-03-2011,Andet,5597,4,Villa,134,1914,
+Vestre Ringvej 11 7140 Stouby,11,480000.0,25-02-2011,Auktion,7500,2,Villa,64,1953,
+Vejlevej 101 7140 Stouby,101,900000.0,14-02-2011,Fam.,7200,3,Villa,125,1973,
+Smedskærlund 8 7140 Stouby,8,1595000.0,29-01-2011,Alm.,0,7,Villa,205,1875,-6 %
+Møllevænget 7D 7140 Stouby,0,1000000.0,18-01-2011,Alm.,11904,3,Rækkehus,84,2000,
+Sanatorievej 22 7140 Stouby,22,3050000.0,23-12-2010,Andet,13203,5,Villa,231,1850,-59 %
+Vejlevej 86 7140 Stouby,86,53340.0,23-12-2010,Alm.,381,5,Stuehus,140,1926,
+Lundevej 23 7140 Stouby,23,700000.0,15-12-2010,Alm.,10144,3,Villa,69,1961,-7 %
+Møllevænget 3A 7140 Stouby,0,644689.0,11-11-2010,Alm.,3907,5,Villa,165,2001,
+Stevnsvej 13 7140 Stouby,13,710000.0,04-11-2010,Alm.,4671,4,Villa,152,1900,-11 %
+Fakkegravvej 38 7140 Stouby,38,1237500.0,13-10-2010,Alm.,10951,5,Villa,113,1903,-22 %
+Ællingegade 3 7140 Stouby,3,1600000.0,01-10-2010,Alm.,7920,7,Villa,202,1946,-6 %
+Grundvej 1 7140 Stouby,1,650000.0,28-09-2010,Fam.,6565,3,Villa,99,1948,
+Vejlevej 138 7140 Stouby,138,650000.0,28-09-2010,Fam.,4248,6,Villa,153,1904,
+Bellemøllebanke 2 7140 Stouby,2,10700000.0,28-09-2010,Alm.,29805,5,Villa,359,2009,-7 %
+Bellemøllebanke 8 7140 Stouby,8,1565000.0,16-09-2010,Alm.,11258,6,Villa,139,1780,-7 %
+Bobækvej 1 7140 Stouby,1,1050000.0,30-08-2010,Alm.,9375,3,Villa,112,1850,
+Møllevænget 8 7140 Stouby,8,970000.0,03-08-2010,Alm.,8362,5,Villa,116,1979,-3 %
+Vestergade 11 7140 Stouby,11,850000.0,03-06-2010,Alm.,10493,2,Villa,81,1900,-10 %
+Bråskovvej 82 7140 Stouby,82,636920.0,18-05-2010,Alm.,6704,4,Villa,95,1923,
+Hyrupvej 4 7140 Stouby,4,1475000.0,17-05-2010,Alm.,10034,6,Villa,147,1923,-1 %
+Vejlevej 133 7140 Stouby,133,1050000.0,12-05-2010,Fam.,5833,4,Villa,180,1924,
+Langbjergvej 11 7140 Stouby,11,454000.0,17-03-2010,Alm.,3632,4,Villa,125,1960,
+Borgergade 8A 7140 Stouby,0,1500000.0,02-03-2010,Alm.,8571,5,Villa,175,1914,-39 %
+Bellevej 10 7140 Stouby,10,1465000.0,18-02-2010,Alm.,10464,5,Villa,140,1922,
+Kalmarvej 3 7140 Stouby,3,4350000.0,18-12-2009,Alm.,14948,6,Villa,291,2004,-24 %
+Bobækvej 6 7140 Stouby,6,3500000.0,17-12-2009,Auktion,15217,4,Stuehus,230,1940,
+Løgballevej 12 7140 Stouby,12,4200000.0,17-12-2009,Alm.,16470,7,Villa,255,1972,
+Stouby Kirkevej 7 7140 Stouby,7,1760000.0,19-11-2009,Auktion,9072,7,Villa,194,1902,
+Borgergade 32D 7140 Stouby,0,675000.0,26-10-2009,Alm.,10227,2,Rækkehus,66,1992,-3 %
+Stouby Møllevej 3 7140 Stouby,3,830000.0,16-10-2009,Alm.,9325,3,Villa,89,1926,-10 %
+Ferdinandsvej 2 7140 Stouby,2,1950000.0,28-09-2009,Alm.,15000,5,Stuehus,130,1868,
+Møllevænget 3B 7140 Stouby,0,1450000.0,24-09-2009,Alm.,11507,4,Villa,126,2007,0 %
+Møllevænget 1A 7140 Stouby,0,1500000.0,28-07-2009,Alm.,11029,4,Villa,136,2003,
+Borgergade 19B 7140 Stouby,0,860000.0,24-07-2009,Alm.,7166,5,Rækkehus,120,1956,-4 %
+Lindevangen 14 7140 Stouby,14,1675000.0,17-07-2009,Alm.,10601,6,Villa,158,1979,-7 %
+Stouby Skovvej 5 7140 Stouby,5,1050000.0,03-07-2009,Alm.,5526,4,Villa,190,2012,-12 %
+Lysegårdsvej 13 7140 Stouby,13,877878.0,08-06-2009,Alm.,6182,5,Villa,142,1965,
+Stouby Skovvej 7 7140 Stouby,7,2095000.0,27-04-2009,Alm.,0,8,Villa,241,1870,0 %
+Hornumkærvej 17 7140 Stouby,17,2000000.0,30-03-2009,Alm.,13333,4,Villa,150,1930,-9 %
+Vejlevej 136 7140 Stouby,136,825000.0,15-03-2009,Alm.,8168,6,Villa,101,1850,-8 %
+Mejerivej 5 7140 Stouby,5,5970000.0,18-02-2009,Fam.,41458,6,Stuehus,144,1727,
+Langbjergvej 23 7140 Stouby,23,1850000.0,16-02-2009,Alm.,7939,6,Villa,233,1920,-12 %
+Koksfourt 1 7140 Stouby,1,1375000.0,19-12-2008,Alm.,7902,4,Villa,174,1922,6 %
+Overvej 16 7140 Stouby,16,900000.0,31-10-2008,Alm.,6474,5,Villa,139,1897,
+Møllevænget 15 7140 Stouby,15,1175000.0,18-09-2008,Alm.,8639,4,Villa,136,1979,-9 %
+Vestre Ringvej 4 7140 Stouby,4,1550000.0,12-09-2008,Alm.,8611,6,Villa,180,1973,
+Lindevangen 5 7140 Stouby,5,2495000.0,01-09-2008,Alm.,12230,8,Villa,204,1997,0 %
+Lundevej 16 7140 Stouby,16,14250000.0,29-08-2008,Alm.,49825,8,Villa,286,1857,419 %
+Mikkels Vej 17 7140 Stouby,17,420000.0,07-08-2008,Alm.,2709,5,Villa,155,2011,
+Vejlevej 106 7140 Stouby,106,995000.0,15-07-2008,Alm.,10815,3,Villa,92,1954,
+Lysegårdsvej 11 7140 Stouby,11,935000.0,14-07-2008,Alm.,6775,4,Villa,138,1968,
+Vejlevej 74 7140 Stouby,74,1635000.0,01-07-2008,Alm.,10973,4,Villa,149,1800,-2 %
+Vejlevej 137 7140 Stouby,137,2975000.0,06-06-2008,Alm.,16436,4,Villa,181,1800,-6 %
+Ferdinandsvej 7 7140 Stouby,7,995000.0,03-06-2008,Alm.,11055,4,Villa,90,1883,0 %
+Sanatorievej 2 7140 Stouby,2,1195000.0,29-05-2008,Alm.,10127,3,Villa,118,1948,0 %
+Kalmarvej 18 7140 Stouby,18,533800.0,28-05-2008,Alm.,3032,6,Stuehus,176,1880,
+Bellevej 5 7140 Stouby,5,781000.0,07-05-2008,Alm.,8221,3,Villa,95,1961,
+Mølletoften 13 7140 Stouby,13,1550000.0,05-05-2008,Alm.,9810,5,Villa,158,1979,-3 %
+Bjerggårdsmarken 8 7140 Stouby,8,1910000.0,28-04-2008,Alm.,13642,6,Villa,140,1998,1 %
+Sanatorievej 29 7140 Stouby,29,2200000.0,16-04-2008,Alm.,7773,9,Villa,283,1870,
+Langbjergvej 12 7140 Stouby,12,2998000.0,08-04-2008,Alm.,12757,6,Villa,235,1900,0 %
+Vejlevej 62 7140 Stouby,62,925000.0,08-04-2008,Alm.,14453,4,Villa,64,1942,-7 %
+Mikkels Vej 28 7140 Stouby,28,450000.0,01-04-2008,Alm.,2250,5,Villa,200,2008,
+Aksel Nielsens Vej 1 7140 Stouby,1,2625000.0,30-03-2008,Alm.,0,7,Villa,208,2003,-6 %
+Koksfourt 2 7140 Stouby,2,850000.0,26-03-2008,Alm.,7456,4,Villa,114,1966,
+Vejlevej 57 7140 Stouby,57,945000.0,10-03-2008,Alm.,8590,4,Villa,110,1930,0 %
+Borgergade 32E 7140 Stouby,0,697000.0,04-03-2008,Alm.,10402,2,Rækkehus,67,1992,
+Vestre Ringvej 18 7140 Stouby,18,1550000.0,03-03-2008,Alm.,7828,7,Villa,198,1969,-9 %
+Mikkels Vej 6 7140 Stouby,6,3200000.0,29-02-2008,Alm.,16580,5,Villa,193,2005,
+Nørkærvej 10 7140 Stouby,10,1150000.0,01-02-2008,Alm.,5750,4,Villa,200,2009,-2 %
+Idrætsvej 8 7140 Stouby,8,1000000.0,09-01-2008,Alm.,8928,4,Villa,112,1981,1 %
+Mikkels Vej 15 7140 Stouby,15,400000.0,27-12-2007,Alm.,0,5,Villa,208,2008,
+Fakkegravvej 11 7140 Stouby,11,1295000.0,21-12-2007,Alm.,12950,4,Villa,100,1965,0 %
+Langbjergvej 18 7140 Stouby,18,1650000.0,20-12-2007,Alm.,10443,4,Villa,158,1922,
+Fakkegravvej 40 7140 Stouby,40,828750.0,20-12-2007,Fam.,3453,9,Villa,240,1904,
+Stevnsvej 7 7140 Stouby,7,100000.0,07-11-2007,Alm.,483,7,Stuehus,207,1877,
+Bobækvej 3 7140 Stouby,3,425000.0,29-10-2007,Alm.,3971,5,Villa,107,1928,
+Bjerggårdsmarken 13 7140 Stouby,13,1600000.0,24-10-2007,Alm.,11678,6,Villa,137,2003,-6 %
+Hejreagervej 4 7140 Stouby,4,1995000.0,22-10-2007,Alm.,9975,5,Villa,200,1970,
+Vestergade 7 7140 Stouby,7,1800000.0,12-10-2007,Alm.,0,6,Villa,208,1923,-5 %
+Lundevej 11 7140 Stouby,11,2950000.0,29-09-2007,Alm.,13288,7,Villa,222,1877,-8 %
+Møllevænget 11 7140 Stouby,11,1310000.0,28-09-2007,Alm.,13367,3,Villa,98,1987,-7 %
+Borgergade 38 7140 Stouby,38,1530000.0,27-09-2007,Alm.,10268,5,Villa,149,1930,-1 %
+Lysegårdsvej 10 7140 Stouby,10,200000.0,18-09-2007,Alm.,0,5,Villa,145,1907,
+Borgergade 44 7140 Stouby,44,1300000.0,11-09-2007,Alm.,0,4,Villa,268,1910,-7 %
+Vestre Ringvej 28 7140 Stouby,28,1270000.0,07-09-2007,Alm.,8089,7,Villa,157,1932,
+Borgergade 2 7140 Stouby,2,850000.0,07-09-2007,Alm.,3632,8,Villa,234,1900,
+Vejlevej 105 7140 Stouby,105,870000.0,03-09-2007,Alm.,7250,6,Villa,120,1930,
+Borgergade 22 7140 Stouby,22,695000.0,31-08-2007,Alm.,4964,5,Villa,140,1919,0 %
+Mikkels Vej 11 7140 Stouby,11,395000.0,27-08-2007,Alm.,1639,7,Villa,241,2009,
+Hornsyldvej 4 7140 Stouby,4,1795000.0,26-08-2007,Alm.,14246,6,Villa,126,1956,
+Sanatorievej 16 7140 Stouby,16,6100000.0,16-08-2007,Alm.,47286,5,Villa,129,1925,-5 %
+Mejerivej 8 7140 Stouby,8,715000.0,31-07-2007,Alm.,5500,5,Villa,130,1880,
+Overvej 20 7140 Stouby,20,130000.0,13-07-2007,Alm.,481,10,Stuehus,270,1860,
+Stouby Møllevej 12A 7140 Stouby,0,1900000.0,25-06-2007,Alm.,10052,3,Villa,189,1864,0 %
+Stouby Møllevej 22 7140 Stouby,22,2070000.0,22-06-2007,Alm.,12699,5,Villa,163,1900,
+Mikkels Vej 22 7140 Stouby,22,318250.0,18-06-2007,Alm.,1615,5,Villa,197,2009,
+Mikkels Vej 9 7140 Stouby,9,395000.0,18-06-2007,Alm.,2323,6,Villa,170,2015,
+Løgballevej 10 7140 Stouby,10,890000.0,13-06-2007,Alm.,8640,4,Villa,103,1979,
+Vejlevej 79 7140 Stouby,79,950000.0,12-06-2007,Alm.,6834,6,Villa,139,1920,
+Lundevej 13 7140 Stouby,13,995000.0,03-06-2007,Alm.,8361,4,Villa,119,1899,
+Sanatorievej 4 7140 Stouby,4,1200000.0,14-05-2007,Alm.,8219,7,Villa,146,1931,
+Kalmarvej 19 7140 Stouby,19,1095000.0,24-04-2007,Alm.,2319,12,Villa,472,1937,
+Borgergade 37 7140 Stouby,37,1595000.0,06-04-2007,Alm.,0,5,Villa,155,1962,
+Hornumkærvej 20 7140 Stouby,20,192581.0,27-03-2007,Andet,752,6,Villa,256,1910,
+Idrætsvej 9 7140 Stouby,9,1575000.0,21-03-2007,Alm.,8513,5,Villa,185,1976,
+Møllevænget 5 7140 Stouby,5,1800000.0,21-03-2007,Alm.,14285,4,Villa,126,2007,
+Ferdinandsvej 1 7140 Stouby,1,647500.0,14-03-2007,Andet,3253,5,Villa,199,1877,
+Grundvej 3 7140 Stouby,3,595000.0,14-02-2007,Fam.,4958,4,Villa,120,2015,
+Bellevej 17 7140 Stouby,17,5440000.0,01-02-2007,Fam.,26930,7,Stuehus,202,1876,
+Nedervej 11 7140 Stouby,11,1195000.0,27-01-2007,Alm.,9122,3,Villa,131,1850,
+Ællingegade 10 7140 Stouby,10,995000.0,25-01-2007,Alm.,9299,4,Villa,107,1948,
+Nørkærvej 4 7140 Stouby,4,1500000.0,23-01-2007,Alm.,0,7,Villa,194,1931,-9 %
+Nedervej 17 7140 Stouby,17,4003500.0,15-01-2007,Fam.,17182,6,Stuehus,233,1990,
+Fakkegravvej 2 7140 Stouby,2,1800000.0,15-12-2006,Alm.,7500,8,Villa,240,1915,
+Løgballevej 18 7140 Stouby,18,1200000.0,11-12-2006,Alm.,5687,5,Villa,211,2009,
+Vejlevej 139 7140 Stouby,139,1775000.0,11-12-2006,Alm.,15570,3,Villa,114,1850,
+Vestre Ringvej 21 7140 Stouby,21,1175000.0,17-11-2006,Alm.,7939,4,Villa,148,1969,
+Bjerggårdsmarken 12 7140 Stouby,12,2250000.0,16-11-2006,Alm.,11780,7,Villa,191,1998,
+Mejerivej 2 7140 Stouby,2,1495000.0,03-11-2006,Alm.,9343,6,Villa,160,1870,
+Vejlevej 94 7140 Stouby,94,530000.0,30-10-2006,Alm.,7571,3,Villa,70,1870,
+Vejlevej 100 7140 Stouby,100,925000.0,05-10-2006,Alm.,7520,3,Villa,123,1930,
+Borgergade 9 7140 Stouby,9,900000.0,25-09-2006,Alm.,0,4,Rækkehus,153,1930,
+Bråskovvej 90 7140 Stouby,90,27375000.0,15-09-2006,Alm.,176612,5,Stuehus,155,1909,
+Overvej 10 7140 Stouby,10,902600.0,12-09-2006,Alm.,3342,7,Stuehus,270,1866,
+Nedervej 2 7140 Stouby,2,1577000.0,12-09-2006,Alm.,7692,7,Stuehus,205,1971,
+Løgballevej 6 7140 Stouby,6,450000.0,11-09-2006,Alm.,5000,3,Villa,90,1850,
+Borgergade 16A 7140 Stouby,0,750000.0,11-09-2006,Alm.,5639,4,Villa,133,1930,
+Møllevænget 13 7140 Stouby,13,1325000.0,09-09-2006,Alm.,9464,5,Villa,140,1987,
+Lundevej 19 7140 Stouby,19,485000.0,13-08-2006,Alm.,7348,5,Villa,66,1880,
+Aksel Nielsens Vej 12 7140 Stouby,12,2675000.0,31-07-2006,Alm.,13375,6,Villa,200,2003,
+Mosevej 6 7140 Stouby,6,960000.0,24-07-2006,Alm.,7804,3,Villa,123,1967,
+Kalmarvej 17 7140 Stouby,17,875000.0,08-07-2006,Alm.,6481,5,Villa,135,1967,
+Lysegårdsvej 9 7140 Stouby,9,900000.0,10-06-2006,Alm.,5844,5,Villa,154,1973,
+Møllevænget 1B 7140 Stouby,0,1650000.0,08-06-2006,Alm.,12132,5,Villa,136,2005,
+Stevnsvej 15 7140 Stouby,15,1055000.0,08-06-2006,Alm.,5796,7,Villa,182,1957,
+Vestre Ringvej 8 7140 Stouby,8,2100000.0,19-05-2006,Alm.,0,5,Villa,142,1913,
+Ællingegade 8 7140 Stouby,8,645000.0,10-05-2006,Alm.,10078,4,Villa,64,1951,
+Stouby Kirkevej 27 7140 Stouby,27,1550000.0,11-04-2006,Alm.,7311,5,Villa,212,1900,
+Lindevangen 8 7140 Stouby,8,210000.0,11-04-2006,Alm.,1428,4,Villa,147,2007,
+Lysegårdsvej 14 7140 Stouby,14,412290.0,10-04-2006,Andet,2748,5,Villa,150,1937,
+Borgergade 34 7140 Stouby,34,352113.0,23-03-2006,Andet,2395,6,Villa,147,1901,
+Stouby Kirkevej 3 7140 Stouby,3,975000.0,10-03-2006,Alm.,5241,5,Villa,186,2009,
+Lundevej 3 7140 Stouby,3,1850000.0,10-03-2006,Alm.,5891,7,Villa,314,1870,
+Borgergade 40 7140 Stouby,40,1080000.0,02-03-2006,Alm.,7941,3,Villa,136,1850,
+Kalmarvej 21 7140 Stouby,21,1740000.0,21-02-2006,Alm.,6641,9,Villa,262,1948,
+Hornumkærvej 23 7140 Stouby,23,998000.0,15-02-2006,Alm.,8316,5,Villa,120,1925,
+Mikkels Vej 1 7140 Stouby,1,295000.0,05-02-2006,Alm.,2251,4,Villa,131,2007,
+Borgergade 41 7140 Stouby,41,1247000.0,29-01-2006,Alm.,6668,5,Villa,187,1929,
+Stouby Møllevej 14 7140 Stouby,14,1095000.0,19-01-2006,Alm.,5558,8,Villa,197,1877,
+Mikkels Vej 3 7140 Stouby,3,296416.0,12-12-2005,Alm.,1353,6,Villa,219,2007,
+Vejlevej 113 7140 Stouby,113,526746.0,28-11-2005,Alm.,3398,3,Villa,155,1980,
+Rosenvoldvej 18 7140 Stouby,18,3750000.0,07-11-2005,Alm.,12458,9,Villa,301,1913,
+Mikkels Vej 7 7140 Stouby,7,296416.0,07-11-2005,Alm.,1359,8,Villa,218,2016,
+Vejlevej 96 7140 Stouby,96,695000.0,26-10-2005,Alm.,7091,4,Villa,98,1890,
+Lundevej 9 7140 Stouby,9,1150000.0,11-10-2005,Alm.,10000,4,Villa,115,1900,
+Løgballevej 5 7140 Stouby,5,720000.0,05-10-2005,Fam.,3654,7,Villa,197,1964,
+Vejlevej 140 7140 Stouby,140,430000.0,05-10-2005,Alm.,0,2,Villa,74,1850,
+Borgergade 30 7140 Stouby,30,625000.0,03-10-2005,Alm.,4222,5,Villa,148,1900,
+Stouby Skovvej 19 7140 Stouby,19,500000.0,19-09-2005,Fam.,3424,3,Villa,146,1920,
+Vejlevej 153A 7140 Stouby,0,235000.0,19-09-2005,Andet,487,9,Villa,482,2006,
+Fakkegravvej 3 7140 Stouby,3,1400000.0,16-09-2005,Alm.,6278,5,Villa,223,1870,
+Hornsyldvej 5 7140 Stouby,5,1400000.0,12-09-2005,Alm.,12173,6,Villa,115,1942,
+Borgergade 60 7140 Stouby,60,415000.0,29-08-2005,Alm.,3458,4,Villa,120,1900,
+Hostrupvej 1 7140 Stouby,1,970000.0,25-08-2005,Alm.,4874,9,Villa,199,1924,
+Løgballevej 14 7140 Stouby,14,2650000.0,22-08-2005,Alm.,13520,5,Villa,196,1986,
+Borgergade 32C 7140 Stouby,0,665000.0,22-08-2005,Alm.,9925,2,Rækkehus,67,1991,
+Stevnsvej 8 7140 Stouby,8,1345000.0,22-08-2005,Alm.,6404,6,Villa,210,1927,
+Mikkels Vej 5 7140 Stouby,5,311416.0,15-08-2005,Alm.,1526,5,Villa,204,2007,
+Bjerggårdsmarken 9 7140 Stouby,9,120131.0,09-08-2005,Alm.,851,5,Villa,141,2006,
+Hostrupgårdvej 8 7140 Stouby,8,3500000.0,08-08-2005,Fam.,25925,5,Stuehus,135,1952,
+Bråskovvej 94 7140 Stouby,94,1440000.0,06-08-2005,Alm.,7619,5,Villa,189,1775,
+Møllevænget 4 7140 Stouby,4,245000.0,02-08-2005,Alm.,1324,5,Villa,185,2006,
+Hostrupgårdvej 1 7140 Stouby,1,990000.0,15-07-2005,Alm.,6689,6,Villa,148,1928,
+Langbjergvej 9 7140 Stouby,9,1600000.0,10-07-2005,Alm.,7305,8,Villa,219,1870,
+Mølletoften 6 7140 Stouby,6,975000.0,20-06-2005,Alm.,6132,6,Villa,159,1975,
+Mikkels Vej 2 7140 Stouby,2,334375.0,15-06-2005,Alm.,1555,6,Villa,215,2006,
+Stouby Kirkevej 13 7140 Stouby,13,1600000.0,09-06-2005,Alm.,14678,3,Villa,109,1926,
+"Fakkegravvej 31, 1. 1 7140 Stouby",1,16000000.0,09-06-2005,Alm.,320000,2,Anden beboelse,50,1859,
+Fakkegravvej 13 7140 Stouby,13,344259.0,30-05-2005,Andet,3310,4,Villa,104,1965,
+Nørkærvej 1 7140 Stouby,1,1775000.0,26-05-2005,Alm.,8372,7,Villa,212,1914,
+Stouby Møllevej 15 7140 Stouby,15,730000.0,24-05-2005,Alm.,5289,3,Villa,138,1937,
+Lundevej 1 7140 Stouby,1,400000.0,16-05-2005,Alm.,1532,6,Villa,261,2007,
+Bråskovvej 86 7140 Stouby,86,120000.0,14-05-2005,Alm.,869,5,Stuehus,138,1989,
+Fakkegravvej 18 7140 Stouby,18,2000000.0,10-05-2005,Alm.,8097,9,Villa,247,1869,
+Vejlevej 66 7140 Stouby,66,400000.0,13-04-2005,Alm.,7272,2,Villa,55,1880,
+Hostrupgårdvej 6 7140 Stouby,6,1500000.0,07-03-2005,Alm.,5747,6,Villa,261,1887,
+Lundbovej 2 7140 Stouby,2,550000.0,07-03-2005,Alm.,3142,6,Villa,175,1974,
+Stouby Kirkevej 24 7140 Stouby,24,2100000.0,06-03-2005,Alm.,7749,7,Stuehus,271,1872,
+Smedskærlund 3 7140 Stouby,3,575000.0,24-02-2005,Alm.,4914,4,Villa,117,1973,
+Bobækvej 9 7140 Stouby,9,160000.0,22-02-2005,Alm.,0,5,Villa,151,2000,
+Grundvej 13 7140 Stouby,13,1750000.0,09-02-2005,Alm.,0,6,Villa,196,1890,
+Stevnsvej 7G 7140 Stouby,0,125000.0,28-01-2005,Alm.,735,5,Villa,170,2008,
+Nedervej 3 7140 Stouby,3,990000.0,24-01-2005,Alm.,6036,4,Villa,164,1920,
+Bellevej 18 7140 Stouby,18,775000.0,20-12-2004,Fam.,5132,5,Villa,151,1937,
+Overvej 5 7140 Stouby,5,975000.0,06-12-2004,Alm.,4314,7,Villa,226,1861,
+Mikkels Vej 4 7140 Stouby,4,334325.0,06-12-2004,Alm.,2038,5,Villa,164,2007,
+Mikkels Vej 12 7140 Stouby,12,314375.0,06-12-2004,Alm.,1727,7,Villa,182,2005,
+Mejerivej 3 7140 Stouby,3,595000.0,29-11-2004,Alm.,4407,5,Villa,135,1880,
+Mikkels Vej 10 7140 Stouby,10,330000.0,08-11-2004,Alm.,1803,5,Villa,183,2005,
+Fakkegravvej 29 7140 Stouby,29,925000.0,31-10-2004,Andet,3303,5,Villa,280,1900,
+Fakkegravvej 48 7140 Stouby,48,512125.0,22-10-2004,Fam.,5886,4,Sommerhus,87,1936,
+Borgergade 14 7140 Stouby,14,550000.0,18-10-2004,Alm.,4661,3,Villa,118,1770,
+Borgergade 42 7140 Stouby,42,875000.0,26-08-2004,Alm.,8750,4,Villa,100,1900,
+Stouby Kirkevej 11 7140 Stouby,11,530000.0,15-08-2004,Alm.,0,4,Villa,175,1926,
+Stouby Skovvej 21 7140 Stouby,21,680000.0,14-08-2004,Alm.,5913,3,Sommerhus,115,1870,
+Bellevej 16 7140 Stouby,16,695000.0,09-08-2004,Alm.,4237,4,Villa,164,1964,
+Borgergade 35 7140 Stouby,35,550000.0,09-08-2004,Alm.,6875,3,Villa,80,1983,
+Mikkels Vej 8 7140 Stouby,8,354375.0,15-07-2004,Alm.,1125,8,Villa,315,2006,
+Lundbovej 3 7140 Stouby,3,750000.0,27-06-2004,Alm.,6250,5,Rækkehus,120,1956,
+Kalmarvej 9 7140 Stouby,9,1425000.0,17-05-2004,Alm.,0,10,Villa,266,1865,
+Vestergade 12 7140 Stouby,12,765000.0,11-05-2004,Alm.,8138,3,Villa,94,1963,
+Vestergade 18 7140 Stouby,18,250000.0,11-05-2004,Alm.,1207,5,Villa,207,2006,
+Smedskærlund 2 7140 Stouby,2,350000.0,29-03-2004,Alm.,5833,3,Villa,60,1877,
+Lundevej 8 7140 Stouby,8,960000.0,23-03-2004,Alm.,4800,5,Villa,200,1827,
+Kalmarvej 16 7140 Stouby,16,695000.0,05-03-2004,Alm.,4826,5,Villa,144,1900,
+Stevnsvej 17 7140 Stouby,17,710000.0,08-02-2004,Alm.,3480,6,Villa,204,1900,
+Rosenvoldvej 3 7140 Stouby,3,610000.0,27-01-2004,Alm.,3630,8,Villa,168,1882,
+Møllevænget 10 7140 Stouby,10,750000.0,24-12-2003,Fam.,6756,4,Villa,111,1989,
+Vejlevej 61 7140 Stouby,61,417000.0,11-12-2003,Alm.,4048,4,Villa,103,1945,
+Aksel Nielsens Vej 10 7140 Stouby,10,400000.0,08-12-2003,Alm.,1923,6,Villa,208,2005,
+Smedskærlund 4 7140 Stouby,4,602400.0,21-11-2003,Fam.,5105,5,Villa,118,1950,
+Mosevej 3 7140 Stouby,3,1025000.0,06-11-2003,Alm.,4659,6,Villa,220,1970,
+Koksfourt 4 7140 Stouby,4,800000.0,27-10-2003,Alm.,3555,6,Villa,225,1792,
+Hostrupvej 6 7140 Stouby,6,1050000.0,21-10-2003,Alm.,5737,6,Villa,183,1937,
+Grundvej 5 7140 Stouby,5,1040250.0,01-10-2003,Alm.,0,8,Stuehus,207,1800,
+Vejlevej 72 7140 Stouby,72,310000.0,08-09-2003,Alm.,3734,4,Villa,83,1897,
+Bråskovvej 77 7140 Stouby,77,312252.0,05-09-2003,Alm.,2580,4,Villa,121,1845,
+Mikkels Vej 16 7140 Stouby,16,264345.0,04-09-2003,Alm.,1750,5,Villa,151,2004,
+Lysegårdsvej 5 7140 Stouby,5,400000.0,04-09-2003,Alm.,5063,4,Villa,79,1890,
+Bellemøllebanke 18 7140 Stouby,18,2114000.0,04-07-2003,Alm.,7888,11,Stuehus,268,1890,
+Bellevej 13 7140 Stouby,13,1239846.0,03-07-2003,Alm.,6358,6,Villa,195,1930,
+Smedskærlund 6 7140 Stouby,6,450000.0,27-06-2003,Alm.,7758,3,Villa,58,1900,
+Pilegårdsvej 2 7140 Stouby,2,560000.0,14-04-2003,Alm.,4375,5,Villa,128,1962,
+Vestergade 2 7140 Stouby,2,630000.0,19-03-2003,Alm.,4846,3,Villa,130,1961,
+Vejlevej 127 7140 Stouby,127,394663.0,04-03-2003,Andet,2819,3,Villa,140,1965,
+Lysegårdsvej 30 7140 Stouby,30,360000.0,13-01-2003,Alm.,5538,3,Villa,65,1877,
+Borgergade 36 7140 Stouby,36,367696.0,07-12-2002,Alm.,3169,4,Villa,116,1930,
+Vestergade 3 7140 Stouby,3,800000.0,14-11-2002,Alm.,4848,6,Villa,165,1900,
+Borgergade 43 7140 Stouby,43,755000.0,18-09-2002,Alm.,6741,4,Villa,112,1943,
+Vejlevej 107 7140 Stouby,107,990000.0,29-08-2002,Alm.,10000,4,Villa,99,1942,
+Borgergade 29 7140 Stouby,29,545000.0,21-08-2002,Alm.,3758,4,Villa,145,1898,
+Løgballevej 2 7140 Stouby,2,276637.0,11-07-2002,Andet,2911,4,Villa,95,1850,
+Grundvej 6 7140 Stouby,6,12950000.0,10-07-2002,Alm.,57555,8,Stuehus,225,1867,
+Hyrupvej 7 7140 Stouby,7,90000.0,24-06-2002,Alm.,364,6,Villa,247,2006,
+Skulsballevej 13 7140 Stouby,13,10164633.0,10-06-2002,Alm.,34456,9,Stuehus,295,1871,
+Møllevænget 6 7140 Stouby,6,800000.0,30-05-2002,Alm.,7407,3,Villa,108,1976,
+Lysegårdsvej 2 7140 Stouby,2,600000.0,30-04-2002,Alm.,3333,3,Villa,180,1900,
+Mosevej 4 7140 Stouby,4,780000.0,24-04-2002,Alm.,6046,4,Villa,129,1969,
+Fakkegravvej 1 7140 Stouby,1,450000.0,13-04-2002,Alm.,5357,3,Villa,84,1787,
+Hyrupvej 5 7140 Stouby,5,4916550.0,10-04-2002,Fam.,18209,9,Stuehus,270,1885,
+Kalmarvej 1 7140 Stouby,1,485000.0,26-02-2002,Alm.,0,4,Villa,145,1827,
+Hostrupgårdvej 4 7140 Stouby,4,325000.0,26-01-2002,Alm.,3095,3,Villa,105,1890,
+Kalmarvej 7 7140 Stouby,7,1775000.0,18-10-2001,Alm.,11024,4,Stuehus,161,2004,
+Koksfourt 6 7140 Stouby,6,750000.0,18-10-2001,Alm.,7500,5,Villa,100,1677,
+Sanatorievej 5 7140 Stouby,5,675000.0,17-08-2001,Alm.,9375,3,Villa,72,1959,
+Sanatorievej 8 7140 Stouby,8,11455000.0,17-08-2001,Alm.,51599,11,Stuehus,222,1912,
+Stouby Kirkevej 14 7140 Stouby,14,490000.0,24-07-2001,Alm.,5444,4,Villa,90,1964,
+Vejlevej 64 7140 Stouby,64,273027.0,13-07-2001,Alm.,0,6,Villa,148,1960,
+Stevnsvej 2 7140 Stouby,2,2194201.0,11-07-2001,Fam.,14628,6,Stuehus,150,1926,
+Hornsyldvej 17 7140 Stouby,17,150000.0,06-07-2001,Alm.,657,7,Villa,228,2002,
+Mølletoften 17 7140 Stouby,17,789809.0,25-06-2001,Alm.,5807,5,Villa,136,1973,
+Vestergade 16 7140 Stouby,16,1093000.0,15-05-2001,Alm.,0,5,Villa,196,1947,
+Vestergade 15 7140 Stouby,15,1015000.0,11-05-2001,Alm.,6721,3,Villa,151,1991,
+Fakkegravvej 52B 7140 Stouby,0,1200000.0,06-04-2001,Alm.,9230,3,Sommerhus,130,2008,
+Aksel Nielsens Vej 2 7140 Stouby,2,359375.0,05-04-2001,Alm.,1503,7,Villa,239,2004,
+Rosenvoldvej 4 7140 Stouby,4,285000.0,04-04-2001,Alm.,5377,2,Villa,53,1954,
+Vejlevej 85 7140 Stouby,85,580000.0,16-03-2001,Alm.,4027,4,Villa,144,1909,
+Fakkegravvej 10A 7140 Stouby,0,912500.0,14-03-2001,Alm.,4905,5,Villa,186,1974,
+Vejlevej 59 7140 Stouby,59,2615000.0,14-03-2001,Fam.,13341,8,Stuehus,196,1912,
+Vejlevej 75 7140 Stouby,75,275000.0,08-02-2001,Alm.,1797,5,Villa,153,1850,
+Hostrupvej 2 7140 Stouby,2,825000.0,15-01-2001,Alm.,0,5,Villa,185,1870,
+Lundevej 14 7140 Stouby,14,830000.0,23-11-2000,Alm.,4742,6,Villa,175,1902,
+Stevnsvej 1 7140 Stouby,1,570000.0,06-11-2000,Alm.,4253,5,Villa,134,1910,
+Bobækvej 8 7140 Stouby,8,1051234.0,03-11-2000,Alm.,0,5,Villa,163,1907,
+Stouby Kirkevej 15 7140 Stouby,15,512033.0,12-10-2000,Andet,4531,3,Villa,113,1927,
+Mosevej 5 7140 Stouby,5,905000.0,29-09-2000,Alm.,0,6,Villa,198,1969,
+Lindevangen 3 7140 Stouby,3,1045000.0,23-09-2000,Alm.,0,6,Villa,185,1977,
+Rosenvoldvej 14 7140 Stouby,14,850000.0,17-09-2000,Alm.,0,6,Villa,203,1890,
+Stouby Skovvej 23 7140 Stouby,23,2228450.0,14-09-2000,Alm.,13031,4,Villa,171,1927,
+Kalmarvej 2 7140 Stouby,2,815000.0,29-08-2000,Alm.,5821,6,Villa,140,1870,
+Lindevangen 12 7140 Stouby,12,90000.0,24-08-2000,Fam.,803,4,Villa,112,2001,
+Fakkegravvej 20 7140 Stouby,20,1935626.0,21-08-2000,Alm.,7932,6,Villa,244,1989,
+Vejlevej 88 7140 Stouby,88,314336.0,10-08-2000,Alm.,5069,2,Villa,62,1800,
+Bellevej 11 7140 Stouby,11,730000.0,05-08-2000,Alm.,4649,4,Villa,157,1877,
+Aksel Nielsens Vej 5 7140 Stouby,5,324375.0,03-08-2000,Alm.,0,8,Villa,210,2001,
+Rosenvoldvej 5 7140 Stouby,5,1150000.0,24-07-2000,Alm.,8394,6,Villa,137,1938,
+Ællingegade 12 7140 Stouby,12,740000.0,19-07-2000,Alm.,6434,3,Villa,115,1946,
+Stouby Skovvej 1 7140 Stouby,1,2200000.0,05-07-2000,Alm.,11340,7,Villa,194,1947,
+Vejlevej 55 7140 Stouby,55,1765000.0,08-06-2000,Alm.,9097,8,Stuehus,194,1942,
+Aksel Nielsens Vej 3 7140 Stouby,3,339375.0,02-06-2000,Alm.,1731,7,Villa,196,2001,
+Aksel Nielsens Vej 6 7140 Stouby,6,304375.0,02-06-2000,Alm.,1672,7,Villa,182,2001,
+Aksel Nielsens Vej 16 7140 Stouby,16,364375.0,02-06-2000,Alm.,1812,6,Villa,201,2001,
+Stouby Kirkevej 31 7140 Stouby,31,1290000.0,29-05-2000,Alm.,8012,4,Villa,161,1890,
+Sanatorievej 19 7140 Stouby,19,1275000.0,20-04-2000,Alm.,7870,5,Villa,162,1913,
+Kalmarvej 4 7140 Stouby,4,385000.0,12-04-2000,Alm.,1645,5,Villa,234,2012,
+Langbjergvej 7 7140 Stouby,7,370000.0,30-03-2000,Alm.,0,7,Villa,196,1936,
+Hostrupvej 8 7140 Stouby,8,3700000.0,25-03-2000,Fam.,29838,4,Stuehus,124,1857,
+Overvej 8 7140 Stouby,8,312000.0,13-03-2000,Fam.,2108,4,Villa,148,1914,
+Vejlevej 116 7140 Stouby,116,550000.0,02-03-2000,Alm.,4782,4,Villa,115,1963,
+Fakkegravvej 23 7140 Stouby,23,1300000.0,10-02-2000,Fam.,0,9,Stuehus,210,1919,
+Hyrupvej 8 7140 Stouby,8,1114860.0,10-01-2000,Alm.,0,6,Villa,197,1925,
+Fakkegravvej 10 7140 Stouby,10,512500.0,22-12-1999,Alm.,5229,3,Villa,98,1968,
+Hostrupvej 10 7140 Stouby,10,587350.0,17-12-1999,Andet,4518,5,Villa,130,1926,
+Rosenvoldvej 2 7140 Stouby,2,354422.0,16-12-1999,Andet,3691,4,Villa,96,1930,
+Vejlevej 141 7140 Stouby,141,1000000.0,30-11-1999,Andet,6622,4,Villa,151,1861,
+Løgballevej 4 7140 Stouby,4,675000.0,19-11-1999,Alm.,5400,5,Villa,125,1973,
+Vejlevej 111 7140 Stouby,111,671785.0,01-11-1999,Alm.,5741,5,Villa,117,1975,
+Bjerggårdsmarken 6 7140 Stouby,6,845468.0,16-10-1999,Alm.,7351,4,Villa,115,1985,
+Hornsyldvej 10B 7140 Stouby,0,1332000.0,05-10-1999,Alm.,0,11,Villa,424,1900,
+Stevnsvej 5 7140 Stouby,5,725000.0,23-08-1999,Fam.,4142,5,Villa,175,1969,
+Møllevænget 7E 7140 Stouby,0,850000.0,17-08-1999,Alm.,10119,3,Rækkehus,84,2000,
+Langbjergvej 19 7140 Stouby,19,325000.0,06-08-1999,Alm.,1934,5,Villa,168,1922,
+Grundvej 9 7140 Stouby,9,550000.0,29-07-1999,Alm.,5612,4,Villa,98,1963,
+Kalmarvej 5 7140 Stouby,5,1250000.0,10-07-1999,Alm.,5952,5,Villa,210,1910,
+Lysegårdsvej 27 7140 Stouby,27,11235000.0,30-06-1999,Alm.,58212,5,Stuehus,193,1864,
+Bellevej 22 7140 Stouby,22,23304.0,21-06-1999,Alm.,129,6,Stuehus,180,1906,
+Bellevej 30 7140 Stouby,30,1187500.0,21-06-1999,Alm.,5681,7,Stuehus,209,2005,
+Stouby Skovvej 33 7140 Stouby,33,600000.0,12-06-1999,Alm.,10526,3,Sommerhus,57,1827,
+Borgergade 56 7140 Stouby,56,735000.0,11-06-1999,Alm.,5250,6,Villa,140,1900,
+Fakkegravvej 21 7140 Stouby,21,300000.0,27-05-1999,Alm.,0,3,Villa,85,1864,
+Hejreagervej 3 7140 Stouby,3,523597.0,20-05-1999,Alm.,3739,5,Villa,140,1910,
+Humlevej 1 7140 Stouby,1,995000.0,10-05-1999,Fam.,6722,5,Villa,148,1977,
+Vejlevej 87 7140 Stouby,87,1418735.0,16-04-1999,Alm.,7058,5,Villa,201,1980,
+Nørkærvej 3 7140 Stouby,3,6100000.0,16-04-1999,Alm.,20469,8,Stuehus,298,1913,
+Vestre Ringvej 9 7140 Stouby,9,300927.0,10-03-1999,Fam.,2507,4,Villa,120,1950,
+Lindevangen 7 7140 Stouby,7,1077017.0,03-03-1999,Alm.,7531,5,Villa,143,1985,
+Stouby Kirkevej 9 7140 Stouby,9,895000.0,21-01-1999,Alm.,0,7,Villa,303,1926,
+Borgergade 18 7140 Stouby,18,459000.0,22-11-1998,Alm.,3187,6,Villa,144,1890,
+Lysegårdsvej 8 7140 Stouby,8,411000.0,03-11-1998,Alm.,0,5,Villa,145,1905,
+Stouby Skovvej 3 7140 Stouby,3,695000.0,18-10-1998,Alm.,4826,4,Villa,144,1890,
+Vejlevej 98 7140 Stouby,98,629000.0,16-10-1998,Alm.,5469,3,Villa,115,1900,
+Stevnsvej 14 7140 Stouby,14,65000.0,12-10-1998,Alm.,377,5,Villa,172,1999,
+Løgballevej 20 7140 Stouby,20,1385123.0,04-09-1998,Alm.,8766,6,Villa,158,1974,
+Bobækvej 11 7140 Stouby,11,1870000.0,01-07-1998,Fam.,11687,9,Stuehus,160,1777,
+Vejlevej 69 7140 Stouby,69,650000.0,15-06-1998,Alm.,4220,5,Villa,154,1905,
+Lindevangen 11 7140 Stouby,11,88125.0,28-05-1998,Alm.,734,5,Villa,120,1999,
+Bellemøllebanke 6 7140 Stouby,6,1170900.0,22-05-1998,Alm.,8803,5,Stuehus,133,1880,
+Fakkegravvej 26 7140 Stouby,26,736700.0,04-05-1998,Alm.,5893,3,Villa,125,1935,
+Stouby Kirkevej 10B 7140 Stouby,0,160000.0,27-04-1998,Alm.,952,6,Villa,168,2003,
+Hornsyldvej 15 7140 Stouby,15,500000.0,16-04-1998,Fam.,2500,6,Stuehus,200,1868,
+Smedskærlund 5 7140 Stouby,5,307000.0,06-04-1998,Alm.,2842,3,Villa,108,1863,
+Koksfourt 3 7140 Stouby,3,435000.0,14-01-1998,Alm.,3750,6,Villa,116,1947,
+Vejlevej 109 7140 Stouby,109,750000.0,19-12-1997,Alm.,11194,4,Engroshandel,67,1973,
+Bellemøllebanke 12 7140 Stouby,12,504570.0,13-12-1997,Alm.,0,5,Villa,149,1890,
+Vejlevej 147 7140 Stouby,147,575000.0,08-12-1997,Alm.,0,5,Villa,99,1882,
+Fakkegravvej 9 7140 Stouby,9,498000.0,19-11-1997,Alm.,5187,3,Villa,96,1964,
+Stouby Kirkevej 21 7140 Stouby,21,625000.0,09-09-1997,Alm.,3289,8,Villa,190,1887,
+Højagervej 1 7140 Stouby,1,913389.0,22-08-1997,Alm.,0,6,Villa,297,1870,
+Lysegårdsvej 24 7140 Stouby,24,5400000.0,04-08-1997,Fam.,34838,6,Stuehus,155,1852,
+Vejlevej 89 7140 Stouby,89,775000.0,04-08-1997,Alm.,0,6,Villa,181,1906,
+Mosevej 8 7140 Stouby,8,740340.0,16-06-1997,Alm.,4745,5,Villa,156,1972,
+Stouby Møllevej 4 7140 Stouby,4,275000.0,09-06-1997,Alm.,0,4,Villa,106,1962,
+Lundevej 21 7140 Stouby,21,297500.0,26-05-1997,Fam.,1077,7,Villa,276,2006,
+Bjerggårdsmarken 7 7140 Stouby,7,873433.0,03-05-1997,Alm.,7218,4,Villa,121,1981,
+Borgergade 4 7140 Stouby,4,342000.0,23-04-1997,Alm.,0,5,Villa,165,1910,
+Borgergade 33 7140 Stouby,33,715000.0,06-04-1997,Alm.,4766,4,Villa,150,1928,
+Hostrupvej 7 7140 Stouby,7,1478074.0,01-04-1997,Alm.,9237,7,Stuehus,160,1850,
+Overvej 16A 7140 Stouby,0,990000.0,26-03-1997,Alm.,5210,4,Villa,190,1977,
+Vestergade 10 7140 Stouby,10,364000.0,21-03-1997,Alm.,4666,3,Villa,78,1965,
+Rosenvoldvej 10 7140 Stouby,10,1050000.0,14-03-1997,Fam.,4687,8,Stuehus,224,1860,
+Bjerggårdsmarken 14 7140 Stouby,14,100625.0,04-02-1997,Alm.,698,5,Villa,144,1997,
+Bjerggårdsmarken 16 7140 Stouby,16,100625.0,03-02-1997,Alm.,780,5,Villa,129,1997,
+Fakkegravvej 42 7140 Stouby,42,751000.0,04-12-1996,Fam.,8252,3,Villa,91,1936,
+Borgergade 3 7140 Stouby,3,650000.0,24-10-1996,Alm.,5652,3,Villa,115,1865,
+Fakkegravvej 8 7140 Stouby,8,690000.0,24-10-1996,Alm.,5307,3,Villa,130,1965,
+Bjerggårdsmarken 5 7140 Stouby,5,850000.0,15-10-1996,Alm.,5944,5,Villa,143,1987,
+Nedervej 15 7140 Stouby,15,309700.0,09-10-1996,Andet,3441,4,Villa,90,1916,
+Skulsballevej 8 7140 Stouby,8,375000.0,07-10-1996,Alm.,3571,4,Villa,105,1960,
+Nedervej 1 7140 Stouby,1,1249000.0,26-08-1996,Fam.,7806,6,Stuehus,160,1876,
+Ællingegade 13 7140 Stouby,13,630000.0,22-07-1996,Alm.,4632,6,Villa,136,1962,
+Sanatorievej 11 7140 Stouby,11,720000.0,01-07-1996,Alm.,4285,5,Villa,168,1940,
+Ællingegade 14 7140 Stouby,14,416000.0,17-06-1996,Alm.,5402,3,Villa,77,1962,
+Nedervej 5 7140 Stouby,5,279047.0,13-06-1996,Andet,1701,6,Villa,164,1877,
+Stouby Kirkevej 12 7140 Stouby,12,798000.0,01-05-1996,Alm.,3818,7,Villa,209,1967,
+Lysegårdsvej 26 7140 Stouby,26,710000.0,29-04-1996,Alm.,6454,3,Villa,110,1900,
+Bellemøllebanke 4 7140 Stouby,4,298937.0,15-04-1996,Alm.,2450,4,Villa,122,1902,
+Stouby Kirkevej 16 7140 Stouby,16,331500.0,01-04-1996,Fam.,2569,6,Villa,129,1963,
+Hornsyldvej 1 7140 Stouby,1,466000.0,18-12-1995,Alm.,3503,6,Villa,133,1950,
+Bellevej 20 7140 Stouby,20,1170000.0,07-12-1995,Fam.,8013,4,Stuehus,146,1857,
+Rosenvoldvej 20B 7140 Stouby,0,500000.0,02-10-1995,Alm.,3401,3,Villa,147,1996,
+Fakkegravvej 28 7140 Stouby,28,340000.0,17-09-1995,Fam.,2138,5,Villa,159,1998,
+Stouby Kirkevej 33 7140 Stouby,33,250000.0,28-08-1995,Alm.,2450,5,Villa,102,1900,
+Bellevej 28 7140 Stouby,28,435000.0,03-08-1995,Alm.,0,9,Villa,234,1914,
+Stevnsvej 12 7140 Stouby,12,475000.0,03-08-1995,Alm.,3682,5,Villa,129,1968,
+Lundevej 5 7140 Stouby,5,645000.0,19-07-1995,Alm.,0,5,Villa,260,1900,
+Løgballevej 8 7140 Stouby,8,476031.0,13-06-1995,Fam.,6182,4,Villa,77,1866,
+Lindevangen 6 7140 Stouby,6,708000.0,23-05-1995,Alm.,0,4,Villa,159,1987,
+Løgballevej 1 7140 Stouby,1,218280.0,22-05-1995,Alm.,1984,3,Villa,110,1824,
+Hyrupvej 1 7140 Stouby,1,147008.0,10-04-1995,Alm.,1289,4,Villa,114,1870,
+Vejlevej 78 7140 Stouby,78,226986.0,20-03-1995,Fam.,1327,6,Stuehus,171,1965,
+Fakkegravvej 16 7140 Stouby,16,752285.0,10-02-1995,Alm.,2532,7,Villa,297,1902,
+Hostrupvej 5 7140 Stouby,5,500000.0,05-12-1994,Alm.,1666,8,Villa,300,1900,
+Løgballevej 3 7140 Stouby,3,200000.0,01-12-1994,Alm.,1379,5,Stuehus,145,1963,
+Stouby Kirkevej 25 7140 Stouby,25,495000.0,02-09-1994,Alm.,0,6,Villa,234,2002,
+Mølletoften 2 7140 Stouby,2,585000.0,30-08-1994,Alm.,4090,4,Villa,143,1972,
+Smedskærlund 7 7140 Stouby,7,25000.0,16-08-1994,Fam.,198,4,Villa,126,1920,
+Mølletoften 11 7140 Stouby,11,479000.0,27-07-1994,Alm.,3926,4,Villa,122,1972,
+Vestre Ringvej 3 7140 Stouby,3,325000.0,01-06-1994,Alm.,0,5,Villa,202,1936,
+Stouby Skovvej 17B 7140 Stouby,0,525000.0,15-05-1994,Alm.,0,5,Villa,130,1887,
+Overvej 1 7140 Stouby,1,187500.0,05-05-1994,Fam.,1378,7,Villa,136,1908,
+Vejlevej 63 7140 Stouby,63,265000.0,28-04-1994,Alm.,2731,4,Villa,97,1912,
+Vejlevej 118 7140 Stouby,118,333000.0,18-04-1994,Alm.,3141,4,Villa,106,1963,
+Bjerggårdsmarken 18 7140 Stouby,18,93765.0,05-04-1994,Alm.,646,6,Villa,145,1994,
+"Fakkegravvej 31, ST. 9 7140 Stouby",9,164838.0,01-03-1994,Fam.,2702,3,Anden beboelse,61,1859,
+Mølletoften 5 7140 Stouby,5,575000.0,25-02-1994,Alm.,2791,6,Villa,206,1972,
+Pilegårdsvej 6 7140 Stouby,6,360000.0,18-02-1994,Fam.,3025,4,Villa,119,1968,
+Vestergade 1 7140 Stouby,1,240000.0,14-12-1993,Alm.,2962,4,Villa,81,1904,
+Hornumkærvej 12 7140 Stouby,12,170000.0,23-10-1993,Fam.,944,5,Villa,180,1950,
+Borgergade 6 7140 Stouby,6,360000.0,20-09-1993,Alm.,2105,6,Villa,171,1900,
+Lysegårdsvej 25 7140 Stouby,25,148427.0,05-08-1993,Alm.,945,6,Stuehus,157,1980,
+Vejlevej 90 7140 Stouby,90,135000.0,01-08-1993,Alm.,1421,4,Villa,95,1963,
+Vejlevej 76 7140 Stouby,76,512000.0,20-06-1993,Alm.,6400,4,Villa,80,1900,
+Kalmarvej 8 7140 Stouby,8,675000.0,09-06-1993,Alm.,3308,6,Villa,204,1900,
+Lysegårdsvej 20 7140 Stouby,20,390000.0,07-05-1993,Alm.,4193,4,Villa,93,1917,
+Borgergade 52 7140 Stouby,52,225000.0,07-04-1993,Alm.,0,5,Villa,151,1902,
+Hornsyldvej 7 7140 Stouby,7,625000.0,30-03-1993,Alm.,2083,7,Villa,300,1877,
+Borgergade 11 7140 Stouby,11,480000.0,14-03-1993,Alm.,0,8,Villa,209,1927,
+Grundvej 15 7140 Stouby,15,1500000.0,09-03-1993,Fam.,6521,9,Stuehus,230,1857,
+Mølletoften 4 7140 Stouby,4,400000.0,28-02-1993,Alm.,3333,3,Villa,120,1972,
+Bellevej 26 7140 Stouby,26,510000.0,13-02-1993,Alm.,0,8,Villa,204,1777,
+Rosenvoldvej 12 7140 Stouby,12,630000.0,23-11-1992,Alm.,5206,5,Villa,121,1977,
+Hornsyldvej 14 7140 Stouby,14,550000.0,08-10-1992,Alm.,3273,6,Villa,168,1924,
+Hejreagervej 1 7140 Stouby,1,410000.0,08-09-1992,Alm.,0,7,Villa,205,1935,
+Fakkegravvej 36 7140 Stouby,36,250000.0,23-08-1992,Fam.,0,6,Villa,212,1912,
+Vestre Ringvej 14 7140 Stouby,14,475000.0,21-08-1992,Alm.,3740,4,Villa,127,1973,
+Bellemøllebanke 10 7140 Stouby,10,671000.0,12-08-1992,Alm.,0,6,Villa,255,1900,
+Rosenvoldvej 13 7140 Stouby,13,696433.0,10-05-1992,Alm.,0,5,Villa,178,1780,
+Hostrupvej 3 7140 Stouby,3,757000.0,05-05-1992,Alm.,8905,3,Villa,85,1827,
+Vestergade 5 7140 Stouby,5,422000.0,21-03-1992,Alm.,0,5,Villa,170,1880,
+"Fakkegravvej 31, 1. 13TH 7140 Stouby",0,568800.0,13-02-1992,Alm.,3447,6,Lejlighed,165,1920,
+"Fakkegravvej 31, 1. 2 7140 Stouby",2,170000.0,13-02-1992,Alm.,3541,2,Anden beboelse,48,1859,
+Vejlevej 134 7140 Stouby,134,432000.0,03-02-1992,Alm.,3661,3,Villa,118,1906,
+Stouby Kirkevej 5 7140 Stouby,5,470000.0,31-01-1992,Alm.,2540,8,Villa,185,1960,
+"Fakkegravvej 31, 2. 11 7140 Stouby",11,134611.0,06-01-1992,Alm.,1103,4,Lejlighed,122,1859,
+Lysegårdsvej 7 7140 Stouby,7,1270000.0,03-01-1992,Fam.,6047,7,Stuehus,210,1907,

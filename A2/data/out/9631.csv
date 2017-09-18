@@ -1,0 +1,452 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Skovvej 19 9631 Gedsted,19,670000.0,02-05-2017,Alm.,4240,5,Villa,158,1988,-8 %
+Bøgevænget 10 9631 Gedsted,10,507500.0,02-05-2017,Alm.,4833,6,Villa,105,1969,-7 %
+Tolshøj 8 9631 Gedsted,8,595000.0,10-03-2017,Alm.,1900,13,Villa,313,1982,
+Glerupvej 123 9631 Gedsted,123,85000.0,17-02-2017,Alm.,562,5,Stuehus,151,1932,
+Langagervej 1 9631 Gedsted,1,190000.0,20-01-2017,Fam.,2000,3,Villa,95,1938,
+Tolshøj 4 9631 Gedsted,4,500000.0,09-01-2017,Alm.,3086,5,Villa,162,1901,-16 %
+Tolshøj 26 9631 Gedsted,26,555000.0,30-12-2016,Alm.,3992,6,Villa,139,1934,
+Fjordvej 21 9631 Gedsted,21,330000.0,21-12-2016,Alm.,2619,3,Stuehus,126,1916,-16 %
+Holmmarkvej 48 9631 Gedsted,48,277000.0,12-12-2016,Alm.,7102,2,Sommerhus,39,1935,
+Langagervej 11 9631 Gedsted,11,580000.0,12-12-2016,Fam.,4496,4,Villa,129,1964,
+Vejgrenen 2 9631 Gedsted,2,200000.0,06-12-2016,Alm.,2857,4,Villa,70,1949,-33 %
+Vesterbro 31 9631 Gedsted,31,670000.0,02-12-2016,Alm.,6146,4,Villa,109,1946,-4 %
+Korsholmvej 174 9631 Gedsted,174,152156.0,15-11-2016,Alm.,559,10,Stuehus,272,1777,
+Ålevænget 6 9631 Gedsted,6,450000.0,11-11-2016,Alm.,5232,3,Sommerhus,86,1972,0 %
+Bystrupvænget 50 9631 Gedsted,50,14700000.0,31-10-2016,Alm.,70000,8,Stuehus,210,1932,
+Enghavevej 27 9631 Gedsted,27,150000.0,26-10-2016,Alm.,1376,4,Villa,109,1953,0 %
+Anna Maries Vej 2 9631 Gedsted,2,740000.0,18-10-2016,Alm.,12333,3,Sommerhus,60,1972,-1 %
+Østergade 55 9631 Gedsted,55,36001.0,18-10-2016,Auktion,400,4,Stuehus,90,1902,
+Tværgade 6 9631 Gedsted,6,10000.0,27-09-2016,Alm.,113,4,Villa,88,1877,
+Korsholmvej 177 9631 Gedsted,177,800000.0,19-08-2016,Alm.,4519,6,Villa,177,1942,1 %
+Karen Margrethes Vej 12 9631 Gedsted,12,995000.0,19-08-2016,Alm.,10364,4,Sommerhus,96,2007,0 %
+Bakkevej 15 9631 Gedsted,15,175000.0,10-08-2016,Alm.,3125,2,Villa,56,1946,
+Søndergade 15 9631 Gedsted,15,287585.0,06-07-2016,Alm.,2437,4,Villa,118,1948,
+Ingrids Vej 2 9631 Gedsted,2,725000.0,19-05-2016,Alm.,5991,4,Sommerhus,121,1980,-9 %
+Tværgade 10 9631 Gedsted,10,190000.0,09-05-2016,Alm.,1357,3,Villa,140,1892,-5 %
+Havealle 1 9631 Gedsted,1,50000.0,03-05-2016,Alm.,588,4,Villa,85,1936,-71 %
+Bøgevænget 4 9631 Gedsted,4,214000.0,22-03-2016,Andet,1550,6,Villa,138,1959,
+Tværgade 4 9631 Gedsted,4,80000.0,20-03-2016,Alm.,592,5,Villa,135,1857,
+Enghavevej 3D 9631 Gedsted,0,314500.0,18-03-2016,Fam.,2995,4,Rækkehus,105,1980,
+Tolshøj 14 9631 Gedsted,14,160000.0,10-03-2016,Alm.,1333,2,Villa,120,1910,-19 %
+Søndergade 9 9631 Gedsted,9,300000.0,07-03-2016,Alm.,2752,5,Villa,109,1937,-24 %
+Firhøjevej 20 9631 Gedsted,20,50000.0,02-03-2016,Alm.,666,3,Stuehus,75,1880,
+Korsvejen 85 9631 Gedsted,85,175000.0,27-02-2016,Alm.,1005,8,Villa,174,1962,
+Korsholmvej 181 9631 Gedsted,181,96732.0,15-01-2016,Fam.,939,4,Villa,103,1953,
+Sognevejen 266 9631 Gedsted,266,1600000.0,19-12-2015,Alm.,7441,9,Stuehus,215,1948,
+Holmmarkvej 107 9631 Gedsted,107,461500.0,10-12-2015,Fam.,2428,7,Villa,190,1945,
+Søndergade 23 9631 Gedsted,23,265000.0,27-11-2015,Alm.,2598,4,Villa,102,1962,-11 %
+Fasanvej 8 9631 Gedsted,8,268500.0,10-11-2015,Auktion,2533,4,Villa,106,1962,
+Højagervej 7 9631 Gedsted,7,415000.0,23-10-2015,Alm.,3608,4,Villa,115,1974,-8 %
+Østergade 64 9631 Gedsted,64,155000.0,28-09-2015,Alm.,1131,4,Villa,137,1946,-38 %
+Bystrupvej 2 9631 Gedsted,2,80000.0,28-07-2015,Alm.,695,3,Villa,115,1931,
+Bystrupvænget 43 9631 Gedsted,43,600000.0,28-07-2015,Fam.,2970,7,Villa,202,1880,
+Højdevej 18 9631 Gedsted,18,243853.0,14-07-2015,Auktion,1754,4,Villa,139,1967,
+Østergade 53 9631 Gedsted,53,850000.0,27-05-2015,Alm.,5345,4,Stuehus,159,1934,
+Bystrupvej 10 9631 Gedsted,10,1840000.0,21-05-2015,Alm.,10165,4,Villa,181,2006,-8 %
+Enghavevej 11 9631 Gedsted,11,135000.0,06-05-2015,Alm.,1607,4,Villa,84,1950,-31 %
+Lyngvej 20 9631 Gedsted,20,900000.0,29-04-2015,Fam.,5882,5,Villa,153,1980,
+Glerupvej 135 9631 Gedsted,135,1600000.0,17-04-2015,Alm.,5925,8,Stuehus,270,1904,
+Østergade 28 9631 Gedsted,28,180000.0,14-04-2015,Alm.,1333,2,Villa,135,1905,-10 %
+Enghavevej 20A 9631 Gedsted,0,460000.0,30-03-2015,Alm.,4423,4,Villa,104,2008,
+Skovvej 33 9631 Gedsted,33,275000.0,26-02-2015,Alm.,2777,3,Villa,99,1966,-30 %
+Langagervej 5 9631 Gedsted,5,89526.0,22-02-2015,Fam.,994,3,Villa,90,1949,
+Holmmarkvej 109 9631 Gedsted,109,4750000.0,06-02-2015,Andet,21590,7,Stuehus,220,1917,
+Østergade 18 9631 Gedsted,18,125000.0,28-01-2015,Alm.,838,5,Villa,149,1907,-36 %
+Tolshøj 5 9631 Gedsted,5,150000.0,13-01-2015,Alm.,1562,5,Villa,96,1950,0 %
+Søndergade 13 9631 Gedsted,13,755000.0,28-11-2014,Alm.,6741,3,Villa,112,1946,-5 %
+Blaabærvej 14 9631 Gedsted,14,1225000.0,27-11-2014,Alm.,7335,6,Villa,167,1999,0 %
+Langagervej 3 9631 Gedsted,3,160000.0,18-11-2014,Alm.,1684,6,Villa,95,1943,-54 %
+Skovvej 11 9631 Gedsted,11,70600.0,04-11-2014,Auktion,1053,2,Villa,67,1960,
+Sønderbyvej 7 9631 Gedsted,7,340000.0,01-11-2014,Fam.,2857,4,Villa,119,1963,
+Bakkevej 8 9631 Gedsted,8,500000.0,27-10-2014,Alm.,4761,3,Villa,105,1954,
+Fasanvej 14 9631 Gedsted,14,2000000.0,27-10-2014,Alm.,8230,5,Villa,243,2009,-13 %
+Vejgrenen 1 9631 Gedsted,1,675000.0,10-10-2014,Alm.,3813,4,Villa,177,1907,
+Præstevejen 156 9631 Gedsted,156,350000.0,03-10-2014,Alm.,2611,5,Stuehus,134,1936,-29 %
+Glerupvej 158 9631 Gedsted,158,325000.0,03-10-2014,Alm.,2500,4,Villa,130,1976,-7 %
+Vesterbro 56 9631 Gedsted,56,1500000.0,03-07-2014,Alm.,12711,5,Stuehus,118,1983,
+Tjørnevej 7A 9631 Gedsted,0,262500.0,20-06-2014,Alm.,2151,5,Villa,122,1953,
+Bakkevej 11 9631 Gedsted,11,180000.0,17-06-2014,Auktion,1551,6,Villa,116,1953,
+Nørgaardsvej 50 9631 Gedsted,50,51583334.0,26-05-2014,Andet,257916,5,Stuehus,200,1918,
+Fjordvej 30 9631 Gedsted,30,1600000.0,02-04-2014,Fam.,7272,6,Villa,220,1979,
+Glerupvej 140 9631 Gedsted,140,1625000.0,04-03-2014,Alm.,7352,7,Stuehus,221,1981,
+Ålevænget 11 9631 Gedsted,11,200000.0,30-01-2014,Fam.,2898,4,Sommerhus,69,1972,
+Flyndervej 7 9631 Gedsted,7,300000.0,20-01-2014,Alm.,4166,3,Sommerhus,72,1967,-14 %
+Præstevejen 210 9631 Gedsted,210,468750.0,25-11-2013,Alm.,4986,3,Stuehus,94,1877,
+Glerupvej 149 9631 Gedsted,149,5440000.0,04-11-2013,Fam.,32000,6,Stuehus,170,1981,
+Bopladsen 2 9631 Gedsted,2,585000.0,25-10-2013,Alm.,4006,5,Villa,146,1979,-19 %
+Vesterbro 33 9631 Gedsted,33,925000.0,15-10-2013,Alm.,7708,3,Villa,120,1940,
+Makrelvej 2 9631 Gedsted,2,505702.0,14-10-2013,Alm.,5057,5,Sommerhus,100,1971,
+Flyndervej 5 9631 Gedsted,5,415000.0,30-07-2013,Alm.,6693,3,Sommerhus,62,1976,
+Sognevejen 252 9631 Gedsted,252,650000.0,16-07-2013,Auktion,4642,5,Stuehus,140,1900,
+Holmmarkvej 52 9631 Gedsted,52,2440000.0,15-07-2013,Alm.,18074,4,Stuehus,135,1894,
+Korsholmvej 51 9631 Gedsted,51,1550000.0,24-06-2013,Alm.,11923,4,Stuehus,130,1968,
+Langagervej 31 9631 Gedsted,31,750000.0,24-06-2013,Alm.,5639,5,Villa,133,1973,
+Østergade 44 9631 Gedsted,44,163336.0,18-06-2013,Auktion,1420,5,Villa,115,1952,-58 %
+Korsholmvej 146 9631 Gedsted,146,3450000.0,11-06-2013,Alm.,15898,6,Stuehus,217,1911,
+Langagervej 7 9631 Gedsted,7,350000.0,11-06-2013,Alm.,3888,3,Villa,90,1960,-11 %
+Bakkevej 23 9631 Gedsted,23,375000.0,29-05-2013,Alm.,1973,5,Villa,190,1962,-37 %
+Vesterbro 6 9631 Gedsted,6,675000.0,07-03-2013,Alm.,4687,5,Villa,144,1909,
+Fasanvej 13 9631 Gedsted,13,142400.0,22-01-2013,Auktion,890,5,Villa,160,1947,-66 %
+Enghavevej 4A 9631 Gedsted,0,675000.0,07-01-2013,Alm.,2481,11,Villa,272,1868,-3 %
+Glerupvej 132 9631 Gedsted,132,1677133.0,17-12-2012,Alm.,15972,3,Stuehus,105,1905,
+Makrelvej 5 9631 Gedsted,5,350000.0,20-11-2012,Alm.,4861,4,Sommerhus,72,1980,-11 %
+Nørgaardsvej 1 9631 Gedsted,1,690000.0,12-10-2012,Alm.,5348,3,Villa,129,1966,-1 %
+Lyngvej 2 9631 Gedsted,2,260000.0,02-10-2012,Alm.,2080,4,Villa,125,1907,-5 %
+Lyngvej 32 9631 Gedsted,32,250000.0,30-09-2012,Alm.,1937,4,Villa,129,1966,
+Ålevænget 7 9631 Gedsted,7,450000.0,29-06-2012,Alm.,7500,3,Sommerhus,60,1970,-9 %
+Skovvej 31 9631 Gedsted,31,260000.0,24-05-2012,Auktion,2600,4,Villa,100,1966,
+Holmmarkvej 76 9631 Gedsted,76,110000.0,03-05-2012,Alm.,607,5,Stuehus,181,2015,
+Glerupvej 198 9631 Gedsted,198,1675000.0,23-04-2012,Alm.,9852,7,Stuehus,170,1916,-7 %
+Glerupvej 101 9631 Gedsted,101,697912.0,20-04-2012,Fam.,5410,5,Stuehus,129,1907,
+Østergade 54 9631 Gedsted,54,635000.0,01-03-2012,Auktion,5291,6,Stuehus,120,1919,
+Østergade 46 9631 Gedsted,46,175000.0,08-02-2012,Alm.,1715,4,Villa,102,1943,-22 %
+Østergade 40 9631 Gedsted,40,640000.0,26-01-2012,Alm.,5039,5,Villa,127,1935,-7 %
+Mosegaardsvej 31 9631 Gedsted,31,2050000.0,17-01-2012,Alm.,6406,10,Stuehus,320,1851,
+Nørregade 1 9631 Gedsted,1,245000.0,10-01-2012,Auktion,1262,7,Villa,194,1925,-69 %
+Tyttebærvej 6 9631 Gedsted,6,580000.0,28-11-2011,Alm.,4027,5,Villa,144,1976,
+Skovvej 4 9631 Gedsted,4,1178319.0,25-11-2011,Fam.,3636,9,Villa,324,1938,-64 %
+Porsevej 10 9631 Gedsted,10,201512.0,22-11-2011,Andet,787,7,Stuehus,256,1913,
+Bystrupvej 18 9631 Gedsted,18,175000.0,11-11-2011,Auktion,1411,6,Stuehus,124,1925,
+Skrænten 5 9631 Gedsted,5,379000.0,02-11-2011,Fam.,2526,5,Villa,150,1955,
+Enghavevej 29 9631 Gedsted,29,525000.0,01-09-2011,Alm.,4906,5,Villa,107,1949,
+Vejgrenen 6 9631 Gedsted,6,550000.0,30-07-2011,Alm.,3374,6,Villa,163,1941,-8 %
+Gyvelskrænten 3 9631 Gedsted,3,780000.0,19-07-2011,Alm.,5306,4,Villa,147,1938,-2 %
+Højdevej 17 9631 Gedsted,17,270000.0,30-06-2011,Alm.,2872,4,Villa,94,1966,-17 %
+Glerupvej 151 9631 Gedsted,151,200000.0,28-06-2011,Auktion,1574,6,Villa,127,1940,-49 %
+Carl Petersensgade 2 9631 Gedsted,2,803608.0,15-06-2011,Alm.,4755,5,Villa,169,1907,
+Glerupvej 146 9631 Gedsted,146,200000.0,20-05-2011,Alm.,1481,4,Stuehus,135,2012,-27 %
+Østergade 38 9631 Gedsted,38,250000.0,11-05-2011,Alm.,3125,6,Stuehus,80,1924,
+Vejgrenen 8 9631 Gedsted,8,500000.0,07-04-2011,Alm.,4761,4,Stuehus,105,1917,
+Østergade 9 9631 Gedsted,9,80000.0,10-02-2011,Auktion,544,3,Villa,147,1902,-84 %
+Langagervej 22 9631 Gedsted,22,825000.0,26-01-2011,Alm.,3985,7,Villa,207,1971,-8 %
+Østergade 36 9631 Gedsted,36,310000.0,28-10-2010,Auktion,1962,3,Villa,158,1920,
+Tjørnevej 6 9631 Gedsted,6,425000.0,27-10-2010,Alm.,3899,5,Villa,109,1930,-29 %
+Tolshøj 66 9631 Gedsted,66,650000.0,26-10-2010,Auktion,3217,4,Stuehus,202,1907,
+Karen Margrethes Vej 18 9631 Gedsted,18,145000.0,11-10-2010,Alm.,1450,4,Sommerhus,100,2012,
+Langagervej 21 9631 Gedsted,21,400000.0,27-09-2010,Alm.,3883,4,Villa,103,1967,
+Anna Maries Vej 4 9631 Gedsted,4,575000.0,25-09-2010,Alm.,7565,2,Sommerhus,76,1972,-11 %
+Østergade 48 9631 Gedsted,48,190000.0,27-08-2010,Alm.,1979,4,Villa,96,1920,-36 %
+Sognevejen 260 9631 Gedsted,260,500000.0,18-08-2010,Alm.,3571,6,Stuehus,140,1855,
+Østergade 58 9631 Gedsted,58,170000.0,18-05-2010,Auktion,1440,3,Villa,118,1947,
+Søndergade 11 9631 Gedsted,11,450000.0,17-05-2010,Alm.,4500,6,Industri o.l.,100,1945,-18 %
+Anna Maries Vej 6 9631 Gedsted,6,685000.0,16-04-2010,Alm.,0,4,Sommerhus,115,2010,-1 %
+Enghavevej 10 9631 Gedsted,10,75000.0,16-04-2010,Alm.,797,3,Villa,94,1966,
+Skovvej 3 9631 Gedsted,3,105000.0,13-04-2010,Fam.,1039,3,Villa,101,1907,
+Vesterbro 15 9631 Gedsted,15,660000.0,30-03-2010,Alm.,6111,3,Rækkehus,108,1920,-5 %
+Enebærvej 4 9631 Gedsted,4,122549.0,03-03-2010,Alm.,680,5,Villa,180,2010,
+Højdevej 10 9631 Gedsted,10,500000.0,08-02-2010,Alm.,3424,5,Villa,146,1966,
+Søndergade 46 9631 Gedsted,46,825000.0,13-01-2010,Alm.,7638,6,Stuehus,108,1964,-8 %
+Tyttebærvej 3 9631 Gedsted,3,450000.0,06-01-2010,Auktion,3719,5,Villa,121,1976,
+Kærtoftvejen 20 9631 Gedsted,20,160000.0,26-11-2009,Fam.,1025,4,Stuehus,156,1904,
+Søndergade 3 9631 Gedsted,3,330000.0,02-11-2009,Auktion,1896,8,Villa,174,1878,-45 %
+Karen Margrethes Vej 10 9631 Gedsted,10,825000.0,29-10-2009,Alm.,10576,4,Sommerhus,78,2007,-3 %
+Nørregade 5 9631 Gedsted,5,150000.0,14-10-2009,Alm.,1666,2,Villa,90,1927,-57 %
+Østergade 15 9631 Gedsted,15,334993.0,14-10-2009,Andet,0,5,Villa,206,1900,
+Enghavevej 23 9631 Gedsted,23,257234.0,14-10-2009,Andet,2546,3,Villa,101,1952,
+Karen Margrethes Vej 11 9631 Gedsted,11,585000.0,30-09-2009,Alm.,6500,3,Sommerhus,90,1984,-16 %
+Korsholmvej 260 9631 Gedsted,260,10000.0,28-09-2009,Auktion,136,3,Stuehus,73,1857,
+Fasanvej 3 9631 Gedsted,3,695000.0,03-08-2009,Alm.,7393,3,Villa,94,1964,0 %
+Katbakken 1 9631 Gedsted,1,780000.0,25-07-2009,Alm.,3880,6,Stuehus,201,1931,-5 %
+Fasanvej 1 9631 Gedsted,1,700000.0,20-07-2009,Alm.,5833,4,Villa,120,1962,
+Holmmarkvej 8 9631 Gedsted,8,110000.0,16-07-2009,Auktion,1506,4,Biograf o.l.,73,1896,-78 %
+Østergade 29 9631 Gedsted,29,95000.0,16-07-2009,Auktion,612,5,Villa,155,1900,-84 %
+Østergade 31 9631 Gedsted,31,160000.0,16-07-2009,Auktion,1333,4,Villa,120,1897,-60 %
+Østergade 32 9631 Gedsted,32,205000.0,16-07-2009,Auktion,1782,4,Villa,115,1930,-45 %
+Skovvej 1 9631 Gedsted,1,275000.0,12-06-2009,Auktion,2894,4,Villa,95,1900,
+Bøgevænget 2 9631 Gedsted,2,450000.0,04-06-2009,Alm.,4054,5,Villa,111,1938,0 %
+Holmmarkvej 16 9631 Gedsted,16,2700000.0,28-05-2009,Fam.,45000,2,Stuehus,60,1827,
+Tværgade 8 9631 Gedsted,8,110000.0,26-05-2009,Auktion,833,4,Villa,132,1935,-85 %
+Holmmarkvej 6 9631 Gedsted,6,175000.0,25-05-2009,Auktion,1750,3,Villa,100,1887,
+Lyngvej 1 9631 Gedsted,1,233155.0,25-05-2009,Auktion,2562,3,Villa,91,1924,
+Skovvej 8 9631 Gedsted,8,685764.0,13-05-2009,Alm.,4033,5,Villa,170,1880,
+Glerupvej 127 9631 Gedsted,127,2900000.0,30-04-2009,Fam.,14646,7,Stuehus,198,1927,
+Tolshøj 47 9631 Gedsted,47,1600000.0,14-04-2009,Alm.,7582,5,Stuehus,211,1897,-6 %
+Korsholmvej 179 9631 Gedsted,179,176961.0,03-04-2009,Fam.,1623,4,Villa,109,1945,
+Anna Maries Vej 10 9631 Gedsted,10,650000.0,20-02-2009,Alm.,12500,4,Sommerhus,52,1973,
+Bøgevænget 5 9631 Gedsted,5,200000.0,10-02-2009,Fam.,2666,3,Villa,75,1954,
+Glerupvej 120 9631 Gedsted,120,17915000.0,15-01-2009,Alm.,162863,3,Stuehus,110,1900,
+Højdevej 12 9631 Gedsted,12,465000.0,09-01-2009,Alm.,3632,4,Villa,128,1965,
+Præstevejen 196 9631 Gedsted,196,11280000.0,18-12-2008,Alm.,61639,7,Stuehus,183,1982,
+Tolshøj 31 9631 Gedsted,31,2700000.0,21-11-2008,Alm.,15428,9,Villa,175,1904,
+Enghavevej 18 9631 Gedsted,18,500000.0,19-11-2008,Alm.,6250,2,Villa,80,1930,0 %
+Ålevænget 3 9631 Gedsted,3,165000.0,19-11-2008,Alm.,1352,6,Sommerhus,122,2009,
+Bakkevej 12 9631 Gedsted,12,490000.0,14-11-2008,Alm.,5568,3,Villa,88,1955,-18 %
+"Østergade 23, 1 9631 Gedsted",1,2500000.0,06-11-2008,Alm.,6944,9,Lejlighed,360,1949,
+Langagervej 8 9631 Gedsted,8,575000.0,23-10-2008,Alm.,6117,3,Villa,94,1949,
+Østergade 59 9631 Gedsted,59,1200000.0,05-09-2008,Alm.,9302,5,Stuehus,129,1938,
+Tjørnevej 11 9631 Gedsted,11,575000.0,21-08-2008,Fam.,4791,4,Villa,120,1970,
+Nørrevold 6 9631 Gedsted,6,450000.0,18-07-2008,Alm.,5769,3,Villa,78,1961,
+Langagervej 9 9631 Gedsted,9,305000.0,17-07-2008,Alm.,5083,1,Villa,60,1956,
+Nørrevangen 16 9631 Gedsted,16,1200000.0,02-06-2008,Alm.,7407,5,Villa,162,1977,
+Langagervej 19 9631 Gedsted,19,400000.0,28-05-2008,Fam.,3539,4,Villa,113,1966,
+Østergade 84 9631 Gedsted,84,1685000.0,20-05-2008,Alm.,12122,3,Stuehus,139,1932,-6 %
+Fasanvej 18 9631 Gedsted,18,1000000.0,30-04-2008,Alm.,4854,10,Villa,206,1969,0 %
+Glerupvej 168 9631 Gedsted,168,950000.0,24-04-2008,Alm.,3584,8,Villa,265,1915,-5 %
+Holmmarkvej 4 9631 Gedsted,4,280000.0,02-04-2008,Alm.,3294,4,Villa,85,1897,
+Skovvej 35 9631 Gedsted,35,450000.0,25-03-2008,Fam.,4545,4,Villa,99,1966,
+Fjordvej 47 9631 Gedsted,47,5000000.0,14-03-2008,Alm.,27932,4,Stuehus,179,1903,
+Højdevej 14 9631 Gedsted,14,900000.0,07-03-2008,Alm.,5921,5,Villa,152,1965,
+Anna Maries Vej 3 9631 Gedsted,3,700000.0,07-03-2008,Alm.,12962,4,Sommerhus,54,1973,
+Porsevej 4 9631 Gedsted,4,825000.0,17-02-2008,Alm.,5254,6,Villa,157,1974,-2 %
+Glerupvej 83 9631 Gedsted,83,3100000.0,15-02-2008,Alm.,17514,6,Stuehus,177,1931,
+Glerupvej 104 9631 Gedsted,104,750000.0,01-02-2008,Alm.,7653,4,Stuehus,98,1929,0 %
+Nørregade 8 9631 Gedsted,8,330000.0,14-01-2008,Alm.,2444,4,Villa,135,1927,
+Enghavevej 17 9631 Gedsted,17,695000.0,19-12-2007,Alm.,6435,3,Villa,108,1948,0 %
+Blaabærvej 6 9631 Gedsted,6,623719.0,18-12-2007,Alm.,4186,5,Villa,149,1984,
+Enghavevej 7 9631 Gedsted,7,362000.0,09-12-2007,Alm.,2919,5,Villa,124,1932,-9 %
+Laksevej 2 9631 Gedsted,2,178000.0,07-12-2007,Fam.,2282,4,Sommerhus,78,1977,
+"Vesterbro 22, 1 9631 Gedsted",1,590000.0,14-11-2007,Alm.,4916,4,Lejlighed,120,1948,-1 %
+Nørregade 4 9631 Gedsted,4,625000.0,14-11-2007,Fam.,5252,6,Villa,119,1924,
+Nørrevangen 51 9631 Gedsted,51,11900000.0,08-10-2007,Fam.,64673,6,Stuehus,184,1853,
+Tolshøj 27 9631 Gedsted,27,3150000.0,08-10-2007,Fam.,25819,5,Stuehus,122,1922,
+Vesterbro 12 9631 Gedsted,12,250000.0,20-09-2007,Alm.,1136,7,Rækkehus,220,1904,
+Østergade 14 9631 Gedsted,14,700000.0,19-09-2007,Alm.,4430,9,Villa,158,1927,
+Tolshøj 29 9631 Gedsted,29,310000.0,27-08-2007,Alm.,2719,5,Stuehus,114,1927,
+Karen Margrethes Vej 13 9631 Gedsted,13,100000.0,24-08-2007,Alm.,934,5,Sommerhus,107,2010,
+Anna Maries Vej 14 9631 Gedsted,14,585000.0,10-08-2007,Alm.,8863,3,Sommerhus,66,1976,
+Hybenvej 10 9631 Gedsted,10,500000.0,26-07-2007,Alm.,3937,4,Villa,127,1945,
+Fasanvej 12 9631 Gedsted,12,1298000.0,01-07-2007,Alm.,5408,6,Villa,240,1958,0 %
+Glerupvej 148 9631 Gedsted,148,595000.0,06-06-2007,Alm.,4250,5,Stuehus,140,1900,
+Korsholmvej 153 9631 Gedsted,153,1800000.0,16-05-2007,Alm.,9473,6,Stuehus,190,1911,0 %
+Enghavevej 31 9631 Gedsted,31,450000.0,13-05-2007,Alm.,4591,4,Villa,98,1962,
+Højdevej 23 9631 Gedsted,23,416000.0,30-04-2007,Alm.,5200,4,Villa,80,1967,
+Højdevej 7 9631 Gedsted,7,825000.0,13-04-2007,Alm.,4687,8,Villa,176,1968,
+Nørregade 5A 9631 Gedsted,0,300000.0,10-04-2007,Alm.,3409,3,Villa,88,1931,-20 %
+Hybenvej 8 9631 Gedsted,8,290000.0,10-04-2007,Alm.,4142,3,Villa,70,1962,-16 %
+Holmmarkvej 67 9631 Gedsted,67,115000.0,09-04-2007,Alm.,1597,3,Stuehus,72,1906,
+Korsholmvej 253 9631 Gedsted,253,955000.0,23-03-2007,Alm.,10268,2,Villa,93,2003,7 %
+Nørrevold 9 9631 Gedsted,9,520000.0,20-03-2007,Alm.,4727,4,Villa,110,1951,-10 %
+Sognevejen 271 9631 Gedsted,271,1357600.0,12-03-2007,Fam.,5777,7,Stuehus,235,1900,
+Korsholmvej 257 9631 Gedsted,257,2742500.0,20-02-2007,Fam.,16132,7,Stuehus,170,1906,
+Fjordvej 36 9631 Gedsted,36,809800.0,01-02-2007,Alm.,4849,7,Stuehus,167,1909,
+Enghavevej 22 9631 Gedsted,22,460000.0,23-01-2007,Alm.,5750,4,Villa,80,1958,
+Højdevej 13 9631 Gedsted,13,670800.0,04-01-2007,Alm.,4442,4,Villa,151,1965,
+Skovvej 18 9631 Gedsted,18,1400000.0,06-11-2006,Alm.,4590,8,Villa,305,1969,
+Bakkevej 4 9631 Gedsted,4,397515.0,23-10-2006,Alm.,2208,5,Villa,180,1985,
+Skovvej 15 9631 Gedsted,15,430000.0,31-08-2006,Alm.,3706,3,Villa,116,1962,
+Østergade 42 9631 Gedsted,42,415000.0,03-08-2006,Alm.,3167,5,Villa,131,1927,
+Lyngvej 7 9631 Gedsted,7,820000.0,07-07-2006,Alm.,5466,7,Villa,150,1951,
+Karen Margrethes Vej 16 9631 Gedsted,16,665000.0,19-06-2006,Alm.,7228,3,Sommerhus,92,2000,
+Laksevej 4 9631 Gedsted,4,350000.0,14-06-2006,Alm.,5000,3,Sommerhus,70,1973,
+Skrænten 6 9631 Gedsted,6,780000.0,30-05-2006,Alm.,4588,5,Villa,170,1977,
+Enghavevej 3A 9631 Gedsted,0,480000.0,25-04-2006,Alm.,4571,4,Rækkehus,105,1980,
+Holmmarkvej 10 9631 Gedsted,10,314500.0,24-04-2006,Alm.,985,10,Villa,319,1960,
+Tolshøj 63 9631 Gedsted,63,18812938.0,03-04-2006,Alm.,129744,6,Stuehus,145,1907,
+Langagervej 6 9631 Gedsted,6,850000.0,25-03-2006,Alm.,6640,4,Villa,128,1946,
+Flyndervej 2 9631 Gedsted,2,550000.0,20-03-2006,Alm.,10000,3,Sommerhus,55,1972,
+Fasanvej 2 9631 Gedsted,2,200000.0,08-03-2006,Alm.,4651,2,Villa,43,1964,
+Korsholmvej 132 9631 Gedsted,132,1695000.0,06-02-2006,Alm.,8874,7,Villa,191,2000,
+Kærtoftvejen 16 9631 Gedsted,16,1264849.0,06-02-2006,Alm.,0,7,Stuehus,211,1890,
+Katbakken 5 9631 Gedsted,5,618000.0,05-01-2006,Alm.,4717,5,Villa,131,1824,
+Tolshøj 23 9631 Gedsted,23,400000.0,23-12-2005,Alm.,3174,5,Stuehus,126,1864,
+Lyngvej 36 9631 Gedsted,36,430000.0,08-12-2005,Alm.,4343,4,Villa,99,1966,
+Skrænten 1A 9631 Gedsted,0,735000.0,11-10-2005,Alm.,4083,5,Villa,180,1972,
+Tyttebærvej 1 9631 Gedsted,1,790000.0,19-09-2005,Alm.,4316,5,Villa,183,1975,
+Nørrevangen 1 9631 Gedsted,1,365000.0,09-09-2005,Alm.,3802,4,Villa,96,1960,
+Gyvelskrænten 5 9631 Gedsted,5,500000.0,15-08-2005,Alm.,5555,3,Villa,90,1952,
+Præstevejen 112 9631 Gedsted,112,865000.0,08-08-2005,Alm.,5148,5,Stuehus,168,1897,
+Lærkevej 2 9631 Gedsted,2,525000.0,06-08-2005,Alm.,3697,5,Villa,142,1943,
+Vejgrenen 4 9631 Gedsted,4,685000.0,25-07-2005,Alm.,4892,4,Villa,140,1945,
+Tolshøj 9 9631 Gedsted,9,595000.0,12-07-2005,Alm.,5219,7,Villa,114,1964,
+Vibevej 1 9631 Gedsted,1,287000.0,27-06-2005,Alm.,2928,4,Villa,98,1959,
+Vesterbro 21 9631 Gedsted,21,795000.0,21-06-2005,Alm.,3180,8,Villa,250,1943,
+Nørregade 6 9631 Gedsted,6,598000.0,14-06-2005,Alm.,4496,5,Villa,133,1923,
+Skovvej 2 9631 Gedsted,2,265000.0,12-06-2005,Alm.,1380,6,Villa,192,1920,
+Bakkevej 9 9631 Gedsted,9,455000.0,02-05-2005,Alm.,4642,3,Villa,98,1952,
+Blaabærvej 10 9631 Gedsted,10,950000.0,26-04-2005,Alm.,6250,5,Villa,152,1988,
+Tjørnevej 2 9631 Gedsted,2,583000.0,16-03-2005,Alm.,3598,6,Villa,162,1964,
+Østergade 50 9631 Gedsted,50,680000.0,16-03-2005,Alm.,4146,6,Villa,164,1922,
+Nørrevangen 4A 9631 Gedsted,0,1000000.0,04-03-2005,Alm.,4166,5,Villa,240,1973,
+Nørrevold 4 9631 Gedsted,4,350000.0,28-02-2005,Alm.,3365,4,Villa,104,1962,
+Langagervej 10 9631 Gedsted,10,395000.0,20-02-2005,Alm.,2821,4,Villa,140,1965,
+Anna Maries Vej 15 9631 Gedsted,15,67000.0,05-02-2005,Alm.,1015,4,Sommerhus,66,2013,
+Enghavevej 26 9631 Gedsted,26,350000.0,03-02-2005,Alm.,3763,4,Villa,93,1967,
+Søndergade 62 9631 Gedsted,62,302068.0,26-01-2005,Alm.,1052,5,Stuehus,287,1927,
+Tolshøj 15 9631 Gedsted,15,1250000.0,31-12-2004,Alm.,15625,4,Villa,80,1910,
+Nørrevold 5 9631 Gedsted,5,590000.0,17-12-2004,Alm.,5566,4,Villa,106,1974,
+Korsvejen 102 9631 Gedsted,102,150000.0,13-12-2004,Alm.,802,6,Stuehus,187,1953,
+Laksevej 6 9631 Gedsted,6,435000.0,22-10-2004,Alm.,0,5,Sommerhus,102,1969,
+Fjordvej 3 9631 Gedsted,3,990000.0,31-08-2004,Alm.,7734,4,Stuehus,128,1900,
+Bystrupvej 1 9631 Gedsted,1,595000.0,23-07-2004,Alm.,2989,7,Villa,199,1937,
+Nørgaardsvej 3 9631 Gedsted,3,740000.0,13-07-2004,Alm.,5174,4,Stuehus,143,1925,
+Skovvej 39 9631 Gedsted,39,725000.0,08-07-2004,Alm.,3485,7,Villa,208,1966,
+Enghavevej 25 9631 Gedsted,25,387500.0,05-07-2004,Alm.,2320,7,Villa,167,1952,
+Skrænten 8 9631 Gedsted,8,785000.0,28-04-2004,Alm.,4088,6,Villa,192,1979,
+Mosegaardsvej 68 9631 Gedsted,68,960000.0,14-04-2004,Alm.,0,6,Stuehus,247,1911,
+Bystrupvej 20 9631 Gedsted,20,595000.0,17-03-2004,Alm.,0,8,Villa,249,1884,
+Anna Maries Vej 13 9631 Gedsted,13,65000.0,01-03-2004,Alm.,942,3,Sommerhus,69,2004,
+Bakkevej 5 9631 Gedsted,5,250000.0,25-02-2004,Alm.,1851,4,Villa,135,1952,
+Nørrevangen 8 9631 Gedsted,8,1200000.0,20-02-2004,Alm.,7692,5,Villa,156,1965,
+Lyngvej 17 9631 Gedsted,17,595000.0,11-02-2004,Alm.,4760,4,Villa,125,1973,
+Enghavevej 3B 9631 Gedsted,0,420000.0,06-02-2004,Alm.,4000,3,Rækkehus,105,1980,
+Enghavevej 16 9631 Gedsted,16,210000.0,06-02-2004,Alm.,1909,4,Villa,110,1942,
+Korsholmvej 114 9631 Gedsted,114,600000.0,04-02-2004,Alm.,3191,5,Stuehus,188,1922,
+Søndergade 17 9631 Gedsted,17,330000.0,02-02-2004,Alm.,2200,5,Villa,150,1948,
+Flyndervej 3 9631 Gedsted,3,405000.0,20-01-2004,Alm.,5062,3,Sommerhus,80,1972,
+Østergade 16 9631 Gedsted,16,110000.0,17-12-2003,Alm.,1279,6,Villa,86,1894,
+Nørrevold 2 9631 Gedsted,2,160000.0,11-12-2003,Alm.,2857,2,Villa,56,1919,
+Skovbakken 6 9631 Gedsted,6,280000.0,26-11-2003,Alm.,4117,4,Villa,68,1953,
+Tværgade 11 9631 Gedsted,11,250000.0,20-11-2003,Alm.,1908,5,Villa,131,1908,
+Enghavevej 5 9631 Gedsted,5,435000.0,11-11-2003,Alm.,5117,5,Villa,85,1932,
+Vesterbro 46 9631 Gedsted,46,860000.0,07-10-2003,Fam.,5308,5,Stuehus,162,1988,
+Langagervej 23 9631 Gedsted,23,542000.0,25-06-2003,Alm.,3044,6,Villa,178,1970,
+Anna Maries Vej 12 9631 Gedsted,12,250000.0,19-06-2003,Alm.,4545,4,Sommerhus,55,1977,
+Enghavevej 24 9631 Gedsted,24,310000.0,16-06-2003,Alm.,3875,3,Villa,80,1953,
+Fjordvej 98 9631 Gedsted,98,850000.0,30-05-2003,Alm.,4569,5,Villa,186,1937,
+Bakkevej 13 9631 Gedsted,13,475000.0,27-05-2003,Alm.,4241,5,Villa,112,1955,
+Lyngvej 21 9631 Gedsted,21,479000.0,26-05-2003,Alm.,3421,4,Villa,140,1973,
+Karen Margrethes Vej 3 9631 Gedsted,3,325000.0,08-05-2003,Alm.,5416,3,Sommerhus,60,1972,
+Bopladsen 5 9631 Gedsted,5,565000.0,07-04-2003,Alm.,3766,5,Villa,150,1979,
+Flyndervej 4 9631 Gedsted,4,381441.0,18-02-2003,Alm.,4015,6,Sommerhus,95,1973,
+Mosegaardsvej 51 9631 Gedsted,51,775000.0,05-02-2003,Alm.,5575,4,Villa,139,1968,
+Karen Margrethes Vej 20 9631 Gedsted,20,299000.0,21-12-2002,Alm.,5339,5,Sommerhus,56,1974,
+Firhøjevej 28 9631 Gedsted,28,895000.0,20-12-2002,Alm.,4475,6,Stuehus,200,1925,
+Fjordvej 151 9631 Gedsted,151,780000.0,28-11-2002,Alm.,3919,6,Stuehus,199,1910,
+Lyngvej 9 9631 Gedsted,9,173711.0,18-11-2002,Fam.,2067,5,Villa,84,1957,
+Tyttebærvej 23 9631 Gedsted,23,1150000.0,16-09-2002,Alm.,6725,4,Villa,171,1999,
+Kærtoftvejen 26 9631 Gedsted,26,820000.0,02-09-2002,Alm.,4141,7,Stuehus,198,1931,
+Vejgrenen 3 9631 Gedsted,3,200000.0,22-08-2002,Fam.,2941,3,Villa,68,1905,
+Skovvej 13 9631 Gedsted,13,320000.0,18-08-2002,Alm.,3200,4,Villa,100,1964,
+Glerupvej 156 9631 Gedsted,156,385000.0,04-08-2002,Alm.,3208,5,Villa,120,1941,
+Kærtoftvejen 12 9631 Gedsted,12,316000.0,02-08-2002,Alm.,1805,7,Stuehus,175,1919,
+Tværgade 5 9631 Gedsted,5,386000.0,17-07-2002,Alm.,3860,3,Villa,100,1907,
+Anna Maries Vej 11 9631 Gedsted,11,300000.0,15-07-2002,Alm.,0,4,Sommerhus,116,1970,
+Korsholmvej 218 9631 Gedsted,218,1095000.0,21-06-2002,Alm.,11902,3,Stuehus,92,1923,
+Vesterbro 27 9631 Gedsted,27,440000.0,06-06-2002,Alm.,3120,4,Villa,141,1960,
+Nørrevold 3 9631 Gedsted,3,255000.0,06-06-2002,Alm.,4112,2,Villa,62,1950,
+Karen Margrethes Vej 7 9631 Gedsted,7,135000.0,30-03-2002,Fam.,2500,2,Sommerhus,54,1974,
+Tolshøj 7 9631 Gedsted,7,495000.0,26-03-2002,Alm.,1819,5,Villa,272,1907,
+Ålevænget 1 9631 Gedsted,1,105000.0,23-03-2002,Alm.,0,4,Sommerhus,80,1975,
+Korsholmvej 128 9631 Gedsted,128,470000.0,12-02-2002,Fam.,4519,5,Villa,104,1951,
+Tolshøj 37 9631 Gedsted,37,525000.0,10-01-2002,Fam.,1526,8,Villa,344,1936,
+Skovbakken 3 9631 Gedsted,3,970000.0,02-01-2002,Alm.,3489,10,Villa,278,1958,
+Ingrids Vej 4 9631 Gedsted,4,254000.0,19-12-2001,Alm.,0,4,Sommerhus,109,1977,
+Præstevejen 174 9631 Gedsted,174,4067482.0,13-12-2001,Fam.,25581,5,Stuehus,159,1890,
+Korsholmvej 170 9631 Gedsted,170,800000.0,29-11-2001,Alm.,4301,5,Villa,186,1933,
+Enghavevej 3C 9631 Gedsted,0,410000.0,27-11-2001,Alm.,3904,4,Rækkehus,105,1980,
+Ingrids Vej 10 9631 Gedsted,10,265000.0,15-11-2001,Alm.,0,6,Sommerhus,137,1978,
+Bopladsen 8 9631 Gedsted,8,680000.0,07-11-2001,Alm.,5354,4,Villa,127,1979,
+Søndergade 5 9631 Gedsted,5,315927.0,25-10-2001,Alm.,2632,6,Villa,120,1880,
+Østergade 35 9631 Gedsted,35,285000.0,12-10-2001,Alm.,3097,3,Villa,92,1905,
+Søndergade 22 9631 Gedsted,22,185000.0,03-07-2001,Alm.,1434,7,Stuehus,129,1947,
+Bakkevej 17 9631 Gedsted,17,445000.0,25-06-2001,Alm.,3647,4,Villa,122,1955,
+Tjørnevej 3 9631 Gedsted,3,285000.0,25-05-2001,Alm.,3238,3,Villa,88,1927,
+Lyngvej 5 9631 Gedsted,5,223300.0,28-04-2001,Andet,1550,6,Villa,144,1930,
+Tolshøj 25 9631 Gedsted,25,187000.0,15-01-2001,Alm.,2337,4,Villa,80,1875,
+Skrænten 3 9631 Gedsted,3,400209.0,04-01-2001,Andet,3031,4,Villa,132,1999,
+Præstevejen 105 9631 Gedsted,105,750000.0,04-01-2001,Alm.,5000,6,Stuehus,150,1932,
+Højagervej 4 9631 Gedsted,4,521000.0,30-11-2000,Alm.,4007,4,Villa,130,1973,
+Laksevej 1 9631 Gedsted,1,657694.0,15-11-2000,Alm.,0,8,Sommerhus,145,1974,
+Enghavevej 12 9631 Gedsted,12,308000.0,25-10-2000,Alm.,0,5,Villa,188,1929,
+Bøgevænget 7 9631 Gedsted,7,320000.0,09-10-2000,Alm.,5161,2,Villa,62,1943,
+Torvegade 4 9631 Gedsted,4,280000.0,15-09-2000,Alm.,2800,4,Villa,100,1927,
+"Østergade 7, 1 9631 Gedsted",1,753000.0,05-09-2000,Alm.,5577,3,Lejlighed,135,1930,
+Skrænten 4 9631 Gedsted,4,970000.0,02-08-2000,Alm.,4369,6,Villa,222,1980,
+Østergade 24 9631 Gedsted,24,476000.0,24-05-2000,Alm.,2277,9,Villa,209,1907,
+Glerupvej 99 9631 Gedsted,99,62000.0,01-05-2000,Alm.,645,4,Stuehus,96,1917,
+Bystrupvej 14 9631 Gedsted,14,8350499.0,17-04-2000,Fam.,33807,7,Stuehus,247,1915,
+Tværgade 11B 9631 Gedsted,0,2160202.0,28-03-2000,Fam.,10385,6,Stuehus,208,1882,
+Østergade 26A 9631 Gedsted,0,546377.0,28-03-2000,Fam.,5012,5,Villa,109,1945,
+Sognevejen 303 9631 Gedsted,303,295000.0,07-12-1999,Alm.,0,5,Villa,126,1933,
+Bakkevej 7 9631 Gedsted,7,295000.0,23-10-1999,Alm.,3241,3,Villa,91,1957,
+Laksevej 9 9631 Gedsted,9,345000.0,18-10-1999,Alm.,0,3,Sommerhus,75,1967,
+Laksevej 11 9631 Gedsted,11,105000.0,18-10-1999,Alm.,5833,1,Sommerhus,18,2001,
+Hybenvej 3 9631 Gedsted,3,207395.0,06-09-1999,Alm.,2728,2,Villa,76,1920,
+Glerupvej 153 9631 Gedsted,153,219000.0,17-08-1999,Alm.,1288,6,Villa,170,1923,
+Lyngvej 14 9631 Gedsted,14,352705.0,10-07-1999,Alm.,3359,6,Villa,105,1962,
+Tværgade 7 9631 Gedsted,7,255000.0,09-07-1999,Alm.,1517,6,Villa,168,1908,
+Mosegaardsvej 48 9631 Gedsted,48,750000.0,01-07-1999,Alm.,0,6,Stuehus,217,1911,
+Østergade 41 9631 Gedsted,41,230000.0,24-06-1999,Alm.,3108,2,Villa,74,1880,
+Sognevejen 301 9631 Gedsted,301,250000.0,19-05-1999,Alm.,1470,6,Villa,170,2005,
+Højdevej 16 9631 Gedsted,16,504000.0,08-04-1999,Alm.,4235,4,Villa,119,1965,
+Højdevej 11 9631 Gedsted,11,350000.0,05-04-1999,Fam.,2822,4,Villa,124,1965,
+Sønderbyvej 5A 9631 Gedsted,0,611500.0,30-03-1999,Alm.,3168,6,Villa,193,1970,
+Bakkevej 10 9631 Gedsted,10,240000.0,08-03-1999,Alm.,2400,3,Villa,100,1956,
+Tværgade 13 9631 Gedsted,13,353000.0,02-03-1999,Alm.,2521,5,Villa,140,1929,
+Østergade 34 9631 Gedsted,34,180000.0,16-02-1999,Alm.,0,6,Rækkehus,105,1925,
+Højdevej 9 9631 Gedsted,9,315000.0,08-02-1999,Alm.,3000,3,Villa,105,1965,
+Østergade 20 9631 Gedsted,20,231050.0,27-01-1999,Alm.,0,5,Villa,165,1907,
+Tjørnevej 5 9631 Gedsted,5,452370.0,05-12-1998,Alm.,2541,6,Villa,178,1924,
+Glerupvej 182 9631 Gedsted,182,495000.0,26-11-1998,Alm.,0,6,Stuehus,129,1912,
+Nørgaardsvej 22 9631 Gedsted,22,450000.0,19-11-1998,Alm.,4017,4,Stuehus,112,1928,
+Glerupvej 110 9631 Gedsted,110,600000.0,23-09-1998,Alm.,0,8,Stuehus,203,1920,
+Bakkevej 6 9631 Gedsted,6,595000.0,10-09-1998,Alm.,5173,4,Villa,115,1986,
+Bøgevænget 9 9631 Gedsted,9,445000.0,16-08-1998,Alm.,4045,3,Villa,110,1963,
+Nørgaardsvej 23 9631 Gedsted,23,525000.0,26-07-1998,Alm.,2932,4,Stuehus,179,1876,
+Anna Maries Vej 18 9631 Gedsted,18,325000.0,30-06-1998,Alm.,4779,5,Sommerhus,68,1988,
+Karen Margrethes Vej 19 9631 Gedsted,19,210000.0,15-06-1998,Alm.,2019,4,Sommerhus,104,1974,
+Nørrevold 1 9631 Gedsted,1,525000.0,15-06-1998,Alm.,3804,4,Villa,138,1909,
+Glerupvej 154 9631 Gedsted,154,210000.0,12-05-1998,Alm.,2625,3,Stuehus,80,1900,
+Lyngvej 25 9631 Gedsted,25,530000.0,03-05-1998,Alm.,3897,5,Villa,136,1972,
+Søndergade 25 9631 Gedsted,25,243000.0,28-04-1998,Alm.,2557,3,Villa,95,1962,
+Enghavevej 34 9631 Gedsted,34,812000.0,14-03-1998,Alm.,2537,9,Villa,320,1970,
+Anna Maries Vej 16 9631 Gedsted,16,260000.0,28-02-1998,Alm.,0,5,Sommerhus,100,1976,
+Firhøjevej 19 9631 Gedsted,19,255000.0,03-02-1998,Alm.,1758,6,Stuehus,145,1875,
+Ålevænget 8 9631 Gedsted,8,350000.0,01-12-1997,Alm.,3645,3,Sommerhus,96,1988,
+Nørgaardsvej 10 9631 Gedsted,10,1500000.0,24-11-1997,Alm.,10714,4,Stuehus,140,1928,
+Ålevænget 4 9631 Gedsted,4,160000.0,17-11-1997,Alm.,0,6,Sommerhus,82,1976,
+Glerupvej 188 9631 Gedsted,188,552500.0,27-10-1997,Alm.,0,6,Stuehus,178,1913,
+Østergade 19 9631 Gedsted,19,180000.0,19-09-1997,Alm.,1250,5,Villa,144,1908,
+Katbakken 3 9631 Gedsted,3,460000.0,22-08-1997,Alm.,3172,7,Villa,145,1958,
+Bøgevænget 8 9631 Gedsted,8,202354.0,22-08-1997,Alm.,1631,5,Villa,124,1947,
+Vesterbro 32 9631 Gedsted,32,233000.0,20-08-1997,Alm.,3065,2,Villa,76,1857,
+Firhøjevej 27 9631 Gedsted,27,525000.0,28-02-1997,Alm.,3088,5,Stuehus,170,1922,
+Nørregade 7 9631 Gedsted,7,295000.0,12-02-1997,Alm.,3206,4,Villa,92,1931,
+Bakkevej 2 9631 Gedsted,2,370000.0,11-02-1997,Alm.,2587,4,Villa,143,1951,
+Anna Maries Vej 5 9631 Gedsted,5,230000.0,06-12-1996,Alm.,4107,4,Sommerhus,56,1972,
+Hybenvej 2 9631 Gedsted,2,250000.0,14-11-1996,Fam.,2450,4,Villa,102,1938,
+"Enghavevej 1, 1 9631 Gedsted",1,339000.0,27-08-1996,Alm.,2778,3,Lejlighed,122,1957,
+Korsholmvej 62 9631 Gedsted,62,1241500.0,23-08-1996,Alm.,6238,6,Stuehus,199,1969,
+Anna Maries Vej 17 9631 Gedsted,17,145000.0,30-06-1996,Alm.,0,5,Sommerhus,56,1974,
+Nørregade 11 9631 Gedsted,11,375000.0,24-04-1996,Alm.,0,7,Villa,180,1961,
+Enghavevej 2 9631 Gedsted,2,399180.0,12-11-1995,Alm.,3913,5,Villa,102,1940,
+Tolshøj 22 9631 Gedsted,22,98500.0,27-10-1995,Fam.,0,3,Villa,132,1945,
+Hybenvej 1 9631 Gedsted,1,220000.0,16-10-1995,Alm.,1929,4,Villa,114,1920,
+Søndergade 40 9631 Gedsted,40,300000.0,12-09-1995,Alm.,0,6,Stuehus,174,1923,
+Fjordvej 79 9631 Gedsted,79,3900000.0,16-06-1995,Alm.,21666,9,Stuehus,180,1916,
+Enghavevej 8 9631 Gedsted,8,490000.0,23-05-1995,Alm.,3740,6,Villa,131,1965,
+Korsholmvej 123 9631 Gedsted,123,1080000.0,05-05-1995,Fam.,6878,3,Stuehus,157,1910,
+Firhøjevej 31 9631 Gedsted,31,655000.0,12-04-1995,Alm.,5240,5,Stuehus,125,1928,
+Sognevejen 248 9631 Gedsted,248,57400.0,01-03-1995,Alm.,294,5,Stuehus,195,1942,
+Anna Maries Vej 8 9631 Gedsted,8,240000.0,15-02-1995,Fam.,2400,5,Sommerhus,100,1973,
+Korsholmvej 226 9631 Gedsted,226,1400000.0,12-12-1994,Alm.,6511,5,Stuehus,215,1895,
+Skovvej 17 9631 Gedsted,17,531000.0,04-11-1994,Alm.,3713,6,Villa,143,1971,
+Højdevej 19 9631 Gedsted,19,237000.0,20-10-1994,Alm.,0,4,Villa,111,1966,
+Højdevej 2 9631 Gedsted,2,330000.0,14-10-1994,Alm.,3300,3,Villa,100,1960,
+Ålevænget 13 9631 Gedsted,13,130000.0,21-08-1994,Alm.,0,3,Sommerhus,125,1973,
+Fjordvej 8 9631 Gedsted,8,1075000.0,30-06-1994,Alm.,6635,9,Stuehus,162,1924,
+Holmmarkvej 58 9631 Gedsted,58,480000.0,28-06-1994,Alm.,3636,4,Villa,132,2007,
+Makrelvej 3 9631 Gedsted,3,135000.0,31-05-1994,Alm.,2872,3,Sommerhus,47,1974,
+Vesterbro 30 9631 Gedsted,30,620000.0,21-05-1994,Alm.,3297,6,Villa,188,1954,
+Østergade 13A 9631 Gedsted,0,470000.0,07-05-1994,Alm.,3507,4,Villa,134,1976,
+Tolshøj 11 9631 Gedsted,11,282000.0,30-04-1994,Alm.,0,7,Villa,188,1877,
+Blaabærvej 2 9631 Gedsted,2,700000.0,12-04-1994,Alm.,5555,4,Villa,126,1988,
+Tyttebærvej 7 9631 Gedsted,7,595000.0,26-03-1994,Alm.,3888,6,Villa,153,1976,
+Tyttebærvej 29 9631 Gedsted,29,645000.0,08-03-1994,Alm.,4056,4,Villa,159,1980,
+Holmmarkvej 3 9631 Gedsted,3,425000.0,02-03-1994,Alm.,2529,6,Villa,168,1941,
+Tyttebærvej 11 9631 Gedsted,11,395000.0,01-03-1994,Alm.,0,7,Villa,168,1977,
+Holmmarkvej 1 9631 Gedsted,1,252000.0,24-12-1993,Alm.,0,6,Villa,191,1915,
+Lyngvej 4 9631 Gedsted,4,285000.0,12-11-1993,Alm.,0,3,Villa,110,1970,
+Højdevej 25 9631 Gedsted,25,450000.0,31-10-1993,Fam.,3169,5,Villa,142,1973,
+Bopladsen 7 9631 Gedsted,7,450000.0,01-10-1993,Auktion,2903,4,Villa,155,1980,
+Bøgevænget 3 9631 Gedsted,3,190000.0,23-08-1993,Fam.,1979,3,Villa,96,1939,
+Korsholmvej 139 9631 Gedsted,139,1400000.0,28-05-1993,Fam.,5932,7,Stuehus,236,1927,
+Præstevejen 132 9631 Gedsted,132,1250000.0,27-05-1993,Alm.,0,7,Stuehus,225,1914,
+Holmmarkvej 12 9631 Gedsted,12,134357.0,30-04-1993,Fam.,1168,4,Villa,115,1967,
+Højdevej 8 9631 Gedsted,8,300000.0,22-03-1993,Alm.,2459,4,Villa,122,1962,
+Østergade 45 9631 Gedsted,45,285000.0,13-03-1993,Alm.,2968,5,Villa,96,1907,
+Højdevej 21 9631 Gedsted,21,323000.0,15-02-1993,Alm.,2737,4,Villa,118,1969,
+Anna Maries Vej 9 9631 Gedsted,9,250000.0,19-01-1993,Fam.,3378,4,Sommerhus,74,1984,
+Holmmarkvej 91 9631 Gedsted,91,1600000.0,29-12-1992,Alm.,0,5,Stuehus,255,1907,
+Østergade 13 9631 Gedsted,13,377500.0,20-10-1992,Alm.,0,4,Villa,136,1974,
+Lærkevej 3 9631 Gedsted,3,300000.0,18-10-1992,Alm.,2343,3,Villa,128,1942,
+Søndergade 24 9631 Gedsted,24,1050000.0,02-08-1992,Alm.,7241,6,Stuehus,145,1938,
+Glerupvej 155 9631 Gedsted,155,525000.0,20-07-1992,Alm.,2019,10,Stuehus,260,1931,
+Torvegade 7 9631 Gedsted,7,120000.0,09-07-1992,Alm.,1132,4,Villa,106,1898,
+Enghavevej 28 9631 Gedsted,28,120000.0,28-03-1992,Alm.,1791,2,Villa,67,1954,
+"Enghavevej 1, ST 9631 Gedsted",0,75000.0,25-03-1992,Alm.,1013,2,Lejlighed,74,1957,
+Glerupvej 143 9631 Gedsted,143,240000.0,16-02-1992,Alm.,3428,3,Stuehus,70,1905,
+Præstevejen 173 9631 Gedsted,173,775000.0,01-02-1992,Alm.,7451,4,Stuehus,104,1877,
+Bystrupvej 16 9631 Gedsted,16,360000.0,27-01-1992,Alm.,2168,4,Stuehus,166,1930,
+Vesterbro 35 9631 Gedsted,35,125000.0,07-01-1992,Alm.,0,3,Villa,126,1933,

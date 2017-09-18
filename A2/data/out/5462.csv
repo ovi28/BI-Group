@@ -1,0 +1,630 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Søndersøvej 285 5462 Morud,285,258985.0,24-04-2017,Andet,3197,4,Villa,81,1881,
+Birkevej 6 5462 Morud,6,900000.0,27-02-2017,Alm.,12676,3,Villa,71,1951,-5 %
+Plantagevej 6 5462 Morud,6,706790.0,10-02-2017,Alm.,6667,4,Villa,106,1972,
+Æblehaven 13 5462 Morud,13,2295000.0,03-02-2017,Alm.,14711,5,Villa,156,2004,
+Æblehaven 12 5462 Morud,12,856570.0,01-02-2017,Alm.,5421,5,Villa,158,2006,-60 %
+Udsigten 20 5462 Morud,20,1070118.0,19-01-2017,Alm.,12160,3,Villa,88,1969,
+Udsigten 12 5462 Morud,12,2044582.0,28-12-2016,Alm.,10875,5,Villa,188,1966,
+Plantagevej 50 5462 Morud,50,1795000.0,30-11-2016,Alm.,10257,4,Villa,175,1971,0 %
+Bredbjergvej 147 5462 Morud,147,729419.0,09-11-2016,Fam.,3740,5,Villa,195,1935,-68 %
+Elledalen 6 5462 Morud,6,1575000.0,26-10-2016,Alm.,6645,6,Villa,237,1977,-7 %
+Skovbrynet 36 5462 Morud,36,2125000.0,14-10-2016,Alm.,13036,6,Villa,163,1996,-5 %
+Bredbjergvej 143 5462 Morud,143,3200000.0,04-10-2016,Alm.,8510,8,Stuehus,376,1937,
+Rugårdsvej 802 5462 Morud,802,1050000.0,22-09-2016,Alm.,6862,3,Villa,153,1940,-4 %
+Tokkerodvej 10 5462 Morud,10,837889.0,20-09-2016,Auktion,8295,3,Villa,101,1966,
+Himmelstrupvej 47 5462 Morud,47,2995000.0,01-09-2016,Alm.,10152,8,Villa,295,1970,0 %
+Elledalen 3 5462 Morud,3,953000.0,01-08-2016,Alm.,7876,3,Villa,121,1976,-13 %
+Elverodvej 6 5462 Morud,6,2300000.0,12-07-2016,Alm.,12169,4,Villa,189,1950,
+Ved Engen 12 5462 Morud,12,1200000.0,30-06-2016,Alm.,8571,5,Rækkehus,140,2007,
+Skovgårdsparken 5 5462 Morud,5,401000.0,30-06-2016,Alm.,2291,5,Villa,175,2017,7 %
+Tokkerodparken 8 5462 Morud,8,2200000.0,22-06-2016,Alm.,14193,4,Villa,155,2004,-4 %
+Smørvråvej 20 5462 Morud,20,945000.0,18-06-2016,Alm.,9356,4,Villa,101,1972,0 %
+Tværskovvej 44 5462 Morud,44,127050.0,07-06-2016,Alm.,1366,4,Villa,93,1827,
+Lobogrenen 15 5462 Morud,15,387213.0,19-05-2016,Alm.,2225,5,Villa,174,2016,
+Tevringevej 21 5462 Morud,21,745000.0,11-05-2016,Alm.,8010,3,Villa,93,1871,0 %
+Fyrrebakken 12 5462 Morud,12,1800000.0,10-05-2016,Alm.,9000,6,Villa,200,1976,-5 %
+Skovbrynet 49 5462 Morud,49,1895000.0,03-05-2016,Alm.,14921,4,Villa,127,1999,0 %
+Fjællebjerg 5 5462 Morud,5,1900000.0,30-04-2016,Alm.,7011,6,Stuehus,271,1988,
+Egebakken 10 5462 Morud,10,1950000.0,29-04-2016,Alm.,11963,5,Villa,163,1970,-2 %
+Smørvråvej 1 5462 Morud,1,1300000.0,26-04-2016,Alm.,6372,5,Villa,204,1970,-3 %
+Rugårdsvej 739 5462 Morud,739,900000.0,17-04-2016,Alm.,5172,7,Villa,174,1977,-57 %
+Rugårdsvej 730 5462 Morud,730,940000.0,14-04-2016,Alm.,8703,5,Villa,108,1912,-6 %
+Tværskovvej 11 5462 Morud,11,1232500.0,14-04-2016,Fam.,9628,4,Stuehus,128,1895,
+Tværskovvej 46 5462 Morud,46,800000.0,13-04-2016,Alm.,8602,3,Villa,93,1827,
+Udsigten 4 5462 Morud,4,995000.0,30-03-2016,Alm.,7107,5,Villa,140,1967,
+Tokkerodparken 26 5462 Morud,26,1695000.0,17-03-2016,Alm.,10660,4,Villa,159,1999,-6 %
+Ruevej 77 5462 Morud,77,3025000.0,15-03-2016,Alm.,15049,7,Stuehus,201,1886,-8 %
+Granbakken 3 5462 Morud,3,1560000.0,14-03-2016,Alm.,10985,5,Villa,142,1973,4 %
+Rosenholmgrenen 18 5462 Morud,18,443737.0,14-03-2016,Alm.,2465,6,Villa,180,2017,
+Plantagevej 26 5462 Morud,26,1595000.0,08-03-2016,Alm.,11392,3,Villa,140,1975,0 %
+Birkevej 10 5462 Morud,10,2730000.0,07-03-2016,Alm.,14368,6,Villa,190,2009,-2 %
+Rue Hed 14 5462 Morud,14,3357000.0,04-03-2016,Alm.,10172,8,Stuehus,330,1876,-16 %
+Æblehaven 32 5462 Morud,32,1375000.0,01-03-2016,Fam.,7161,6,Villa,192,2010,
+Vædevej 51 5462 Morud,51,980000.0,26-02-2016,Alm.,7259,4,Villa,135,1988,-2 %
+Dalvej 13 5462 Morud,13,880000.0,24-02-2016,Alm.,5945,6,Villa,148,1970,-5 %
+Bredbjergvej 30 5462 Morud,30,840000.0,06-01-2016,Alm.,4855,7,Villa,173,1966,
+Bakkevej 1 5462 Morud,1,910000.0,21-12-2015,Alm.,9479,3,Villa,96,1966,-13 %
+Ved Engen 20 5462 Morud,20,1100000.0,18-12-2015,Alm.,11224,3,Rækkehus,98,2007,-8 %
+Skovgårdsparken 3 5462 Morud,3,425000.0,11-12-2015,Alm.,2168,7,Villa,196,2016,0 %
+Rosenholmgrenen 21 5462 Morud,21,515137.0,08-12-2015,Alm.,2641,6,Villa,195,2016,
+Sasserod 14 5462 Morud,14,274134.0,07-12-2015,Alm.,3514,3,Villa,78,1949,
+Udsigten 8 5462 Morud,8,945000.0,23-11-2015,Alm.,7269,5,Villa,130,1968,-5 %
+Ved Engen 8 5462 Morud,8,1300000.0,11-11-2015,Alm.,9285,5,Rækkehus,140,2007,
+Ingrid Marie Grenen 10 5462 Morud,10,2395000.0,04-09-2015,Alm.,14255,4,Villa,168,2008,-6 %
+Ingrid Marie Grenen 3 5462 Morud,3,420518.0,26-08-2015,Alm.,2579,5,Villa,163,2016,
+Guldborggrenen 7 5462 Morud,7,2320000.0,25-08-2015,Alm.,13488,6,Villa,172,2009,
+Skovgårdsparken 6 5462 Morud,6,550000.0,17-08-2015,Alm.,2750,6,Villa,200,2016,0 %
+Langesøvej 132 5462 Morud,132,750000.0,11-08-2015,Alm.,4411,5,Stuehus,170,1877,-12 %
+Blæsbjergvej 19 5462 Morud,19,660000.0,11-08-2015,Alm.,3113,10,Villa,212,1880,
+Søndersøvej 187 5462 Morud,187,50760.0,10-08-2015,Alm.,253,10,Stuehus,200,1933,
+Skovvej 18 5462 Morud,18,1500000.0,20-07-2015,Alm.,9090,4,Villa,165,1964,-6 %
+Rugårdsvej 706 5462 Morud,706,1025000.0,08-07-2015,Alm.,4857,6,Villa,211,2017,-21 %
+Tværskovvej 33 5462 Morud,33,2427000.0,03-07-2015,Alm.,10197,8,Villa,238,1976,-3 %
+Tevringevej 45 5462 Morud,45,1995000.0,12-06-2015,Alm.,9068,6,Villa,220,1927,0 %
+Ruevej 52 5462 Morud,52,1295000.0,29-05-2015,Alm.,8043,5,Villa,161,1963,0 %
+Bredbjergvej 70 5462 Morud,70,1136745.0,19-05-2015,Andet,9021,4,Villa,126,1979,
+Bredbjergvej 28 5462 Morud,28,1150000.0,18-05-2015,Alm.,10952,4,Villa,105,1973,-10 %
+Bakkevej 14B. 4 5462 Morud,4,720000.0,08-04-2015,Alm.,9729,3,Lejlighed,74,1974,
+Engvej 11 5462 Morud,11,1585000.0,06-03-2015,Alm.,10856,5,Villa,146,1971,-1 %
+Rosenholmgrenen 22 5462 Morud,22,492737.0,10-02-2015,Alm.,2950,6,Villa,167,2015,
+Søndersøvej 270 5462 Morud,270,891000.0,27-01-2015,Fam.,7747,4,Villa,115,1945,
+Pederstrupvej 96 5462 Morud,96,695000.0,04-01-2015,Alm.,6556,4,Villa,106,1909,
+Skovgårdsparken 32 5462 Morud,32,495000.0,30-12-2014,Alm.,2877,5,Villa,172,2016,0 %
+Rugårdsvej 799 5462 Morud,799,710000.0,19-12-2014,Alm.,5338,5,Villa,133,1912,-11 %
+Søndersøvej 257 5462 Morud,257,674690.0,19-12-2014,Andet,4718,5,Villa,143,1953,
+Vædevej 37 5462 Morud,37,1570000.0,17-12-2014,Alm.,10466,5,Villa,150,1877,
+Åbakkevej 6 5462 Morud,6,515000.0,17-12-2014,Alm.,3678,4,Stuehus,140,1862,
+Skovgårdsparken 22 5462 Morud,22,425000.0,17-12-2014,Alm.,2623,5,Villa,162,2016,
+Egebakken 3 5462 Morud,3,3325000.0,09-12-2014,Alm.,12642,7,Villa,263,1973,-12 %
+Rugårdsvej 761 5462 Morud,761,2700000.0,18-11-2014,Andet,16770,6,Villa,161,1912,
+Krudtgyden 1 5462 Morud,1,741000.0,12-11-2014,Fam.,3650,4,Stuehus,203,1909,
+Ruevej 57 5462 Morud,57,450000.0,28-10-2014,Alm.,4687,3,Villa,96,1900,
+Søndersøvej 249 5462 Morud,249,1175000.0,27-10-2014,Alm.,10491,5,Villa,112,1946,-2 %
+Plantagevej 12 5462 Morud,12,1625000.0,24-10-2014,Alm.,11948,4,Villa,136,1972,-9 %
+Plantagevej 27 5462 Morud,27,1460000.0,17-10-2014,Alm.,7765,6,Villa,188,1972,-3 %
+Møllevænget 5 5462 Morud,5,1510000.0,10-10-2014,Alm.,9496,5,Villa,159,1976,-16 %
+Tværskovvej 64 5462 Morud,64,2800000.0,02-10-2014,Alm.,14000,6,Stuehus,200,1938,-15 %
+Sasserod 51 5462 Morud,51,2450000.0,25-09-2014,Alm.,11136,8,Villa,220,1882,-12 %
+Rugårdsvej 767 5462 Morud,767,650000.0,01-08-2014,Alm.,5909,4,Villa,110,1949,-6 %
+Rue Hed 44 5462 Morud,44,700000.0,01-08-2014,Fam.,3684,8,Villa,190,1928,
+Bakkevej 2A 5462 Morud,0,650000.0,31-07-2014,Alm.,9285,3,Rækkehus,70,1985,-4 %
+Plantagevej 24A 5462 Morud,0,90000.0,25-07-2014,Alm.,596,6,Villa,151,2015,-8 %
+Sasserod 20 5462 Morud,20,140179.0,11-07-2014,Alm.,673,7,Stuehus,208,1870,
+Flintebjerg 2 5462 Morud,2,800000.0,08-07-2014,Alm.,5194,4,Villa,154,1868,
+Tværskovvej 51 5462 Morud,51,341868.0,07-07-2014,Alm.,1220,8,Stuehus,280,1732,-89 %
+Rue Hed 55 5462 Morud,55,1200000.0,01-07-2014,Alm.,8633,3,Villa,139,1877,-4 %
+Langesøvej 126 5462 Morud,126,975000.0,30-06-2014,Alm.,7442,5,Villa,131,1877,-2 %
+Sasserod 55 5462 Morud,55,600000.0,19-06-2014,Alm.,0,5,Stuehus,198,1877,
+Ved Engen 1 5462 Morud,1,1495000.0,12-06-2014,Alm.,16075,3,Rækkehus,93,2007,0 %
+Søndersøvej 174 5462 Morud,174,410000.0,21-05-2014,Alm.,2515,6,Stuehus,163,1860,
+Frugthaven 8 5462 Morud,8,2275000.0,14-05-2014,Alm.,9722,7,Villa,234,1918,-9 %
+Engvej 1 5462 Morud,1,910000.0,28-04-2014,Alm.,8125,4,Villa,112,1965,
+Sasserod 3 5462 Morud,3,128000.0,10-04-2014,Alm.,1777,3,Villa,72,1847,-29 %
+Skovgårdsparken 18 5462 Morud,18,1100000.0,09-04-2014,Andet,4330,6,Villa,254,2013,
+Rosenholmgrenen 11 5462 Morud,11,448827.0,08-04-2014,Alm.,2787,4,Villa,161,2014,
+Engvej 10 5462 Morud,10,820000.0,03-04-2014,Alm.,9534,3,Villa,86,1970,-13 %
+Bredbjergvej 48 5462 Morud,48,1670000.0,02-04-2014,Alm.,11283,4,Villa,148,1958,-1 %
+Æblehaven 3 5462 Morud,3,1400000.0,01-04-2014,Fam.,6222,6,Villa,225,2007,
+Bredbjergvej 78 5462 Morud,78,1400000.0,25-03-2014,Alm.,10144,5,Villa,138,1996,-12 %
+Søndersøvej 251 5462 Morud,251,575000.0,05-03-2014,Alm.,7666,3,Villa,75,1948,
+Rosenholmgrenen 14 5462 Morud,14,421000.0,28-02-2014,Alm.,2567,5,Villa,164,2014,
+Tokkerodvej 16 5462 Morud,16,1220000.0,19-02-2014,Alm.,10517,4,Villa,116,1905,-2 %
+Bredbjerg Gyde 3 5462 Morud,3,2450000.0,15-02-2014,Alm.,15806,4,Stuehus,155,1877,
+Skovgårdsparken 16 5462 Morud,16,415000.0,13-02-2014,Alm.,2085,6,Villa,199,2015,-13 %
+Skovbrynet 55 5462 Morud,55,1998000.0,10-01-2014,Alm.,13972,5,Villa,143,1997,0 %
+Birkevej 3 5462 Morud,3,3250000.0,17-12-2013,Alm.,15046,5,Villa,216,2005,-1 %
+Tokkerodparken 32 5462 Morud,32,930000.0,11-12-2013,Fam.,6549,4,Villa,142,2000,
+Elledalen 8 5462 Morud,8,2520000.0,05-11-2013,Alm.,15750,5,Villa,160,1977,1 %
+Ruevej 40 5462 Morud,40,1970000.0,04-11-2013,Alm.,10944,6,Villa,180,2008,-1 %
+Sasserod 16 5462 Morud,16,415500.0,24-10-2013,Fam.,4565,4,Villa,91,1948,
+Rugårdsvej 786 5462 Morud,786,1900000.0,14-10-2013,Alm.,10734,5,Villa,177,1999,-5 %
+Udsigten 13 5462 Morud,13,1165833.0,11-10-2013,Fam.,6201,8,Villa,188,1969,
+Skovgårdsparken 11 5462 Morud,11,400000.0,10-10-2013,Alm.,1951,5,Villa,205,2017,0 %
+Søndersøvej 166 5462 Morud,166,195000.0,05-09-2013,Alm.,2671,2,Villa,73,1877,0 %
+Bredbjerg Gyde 9 5462 Morud,9,1650000.0,02-08-2013,Alm.,7432,5,Stuehus,222,2015,
+Bredbjergvej 131 5462 Morud,131,1200000.0,18-07-2013,Alm.,6629,6,Villa,181,2014,
+Skovgårdsparken 14 5462 Morud,14,415000.0,09-07-2013,Alm.,2412,5,Villa,172,2014,-2 %
+Plantagevej 44 5462 Morud,44,629040.0,02-07-2013,Alm.,4006,6,Villa,157,1973,
+Rue Hed 65 5462 Morud,65,760000.0,28-05-2013,Alm.,6551,4,Villa,116,1964,-13 %
+Amagervej 21 5462 Morud,21,2200000.0,23-05-2013,Alm.,14102,4,Villa,156,1900,-6 %
+Jægerlunden 11 5462 Morud,11,627558.0,02-05-2013,Alm.,3106,8,Villa,202,1983,
+Rosenholmgrenen 20 5462 Morud,20,766415.0,22-04-2013,Alm.,4589,6,Villa,167,2013,
+Vædehave 22 5462 Morud,22,135000.0,18-04-2013,Alm.,1534,3,Villa,88,1900,
+Filippagrenen 10 5462 Morud,10,1173000.0,10-04-2013,Fam.,5984,5,Villa,196,2006,
+Dalvej 2 5462 Morud,2,550500.0,10-04-2013,Andet,2202,4,Villa,250,1972,
+Blæsbjergvej 52 5462 Morud,52,425000.0,27-03-2013,Alm.,3899,4,Villa,109,1965,
+Rue Hed 28 5462 Morud,28,495000.0,04-03-2013,Alm.,2661,4,Villa,186,1911,-17 %
+Granbakken 12 5462 Morud,12,1600000.0,22-02-2013,Alm.,11111,5,Villa,144,1973,-6 %
+Skovbrynet 47 5462 Morud,47,1165423.0,11-02-2013,Andet,6736,5,Villa,173,1997,
+Æblehaven 27 5462 Morud,27,2560000.0,01-02-2013,Alm.,13195,6,Villa,194,2006,-12 %
+Skovvej 26 5462 Morud,26,2900000.0,17-01-2013,Fam.,14871,5,Villa,195,1887,
+Pigeongrenen 23 5462 Morud,23,1780000.0,10-12-2012,Fam.,9621,6,Villa,185,2009,
+Skovgårds Allé 1 5462 Morud,1,2500000.0,16-11-2012,Alm.,6684,5,Stuehus,374,2016,
+Engvej 13 5462 Morud,13,1310000.0,29-10-2012,Alm.,10480,4,Villa,125,1969,-6 %
+Rosenholmgrenen 23 5462 Morud,23,1406599.0,23-10-2012,Alm.,8524,5,Villa,165,2011,
+Skovgårdsparken 10 5462 Morud,10,300000.0,28-09-2012,Alm.,1200,5,Villa,250,2015,
+Ved Engen 18 5462 Morud,18,674967.0,16-09-2012,Fam.,4821,5,Rækkehus,140,2007,
+Tevringevej 5 5462 Morud,5,7050000.0,13-09-2012,Alm.,30387,5,Stuehus,232,1880,
+Bredbjergvej 66 5462 Morud,66,2275000.0,07-09-2012,Alm.,13226,5,Villa,172,1988,-9 %
+Møllebakken 4 5462 Morud,4,535000.0,29-08-2012,Alm.,5459,4,Villa,98,1961,-10 %
+Vædevej 18 5462 Morud,18,430000.0,20-07-2012,Alm.,3412,4,Stuehus,126,1930,
+Tværskovvej 43 5462 Morud,43,1400000.0,17-07-2012,Alm.,10144,3,Villa,138,1995,-22 %
+Tokkerodvej 12 5462 Morud,12,645000.0,15-05-2012,Alm.,7329,3,Villa,88,1956,0 %
+Tevringevej 49 5462 Morud,49,4037500.0,08-05-2012,Fam.,16150,8,Stuehus,250,1877,
+Rosenholmgrenen 8 5462 Morud,8,621452.0,07-05-2012,Alm.,2030,7,Villa,306,2013,
+Jægerlunden 8 5462 Morud,8,1650000.0,30-04-2012,Alm.,12890,4,Villa,128,1986,-13 %
+Smørvråvej 3 5462 Morud,3,1062500.0,26-04-2012,Fam.,7812,5,Villa,136,1973,
+Rugårdsvej 780 5462 Morud,780,3800000.0,25-04-2012,Alm.,17674,9,Stuehus,215,1853,
+Udsigten 1 5462 Morud,1,1600000.0,02-04-2012,Alm.,11111,6,Villa,144,1967,-6 %
+Ruevej 36 5462 Morud,36,1000000.0,22-03-2012,Alm.,0,4,Villa,165,1956,
+Søndersøvej 255 5462 Morud,255,720000.0,05-03-2012,Alm.,0,5,Villa,127,1950,
+Birkevej 3A 5462 Morud,0,2500000.0,02-03-2012,Alm.,14970,5,Villa,167,2007,-7 %
+Tokkerodparken 38 5462 Morud,38,1800000.0,15-02-2012,Alm.,11538,4,Villa,156,1999,-18 %
+Fyrrebakken 3 5462 Morud,3,615000.0,25-01-2012,Fam.,5125,4,Villa,120,1976,
+Amagervej 25 5462 Morud,25,925000.0,20-01-2012,Alm.,5967,5,Villa,155,1966,-16 %
+Adamsminde 9 5462 Morud,9,2450000.0,09-01-2012,Alm.,14080,5,Villa,174,1999,-12 %
+Rosenholmgrenen 1 5462 Morud,1,708536.0,06-01-2012,Alm.,3596,6,Villa,197,2012,
+Langesøvej 110 5462 Morud,110,1450000.0,30-12-2011,Alm.,7837,5,Villa,185,1877,-9 %
+Rue Hed 66 5462 Morud,66,1999398.0,21-12-2011,Alm.,7997,8,Stuehus,250,1871,
+Himmelstrupvej 72 5462 Morud,72,800000.0,21-12-2011,Alm.,5755,6,Stuehus,139,1899,
+Skovgårdsparken 30 5462 Morud,30,600000.0,13-11-2011,Alm.,2352,5,Villa,255,2013,
+Plantagevej 63 5462 Morud,63,900693.0,25-10-2011,Alm.,5060,5,Villa,178,1983,
+Bredbjergvej 54 5462 Morud,54,1305000.0,18-10-2011,Auktion,7543,6,Villa,173,1984,
+Egebakken 4 5462 Morud,4,2537500.0,20-09-2011,Alm.,11857,5,Villa,214,1970,-12 %
+Smørvråvej 8 5462 Morud,8,835846.0,18-09-2011,Fam.,4353,8,Villa,192,1970,
+Blæsbjergvej 53 5462 Morud,53,1150000.0,17-09-2011,Alm.,7770,6,Villa,148,1979,-18 %
+Langesøvej 149 5462 Morud,149,2950000.0,02-09-2011,Alm.,15526,7,Villa,190,1911,-8 %
+Plantagevej 40 5462 Morud,40,1700000.0,19-08-2011,Alm.,8292,7,Villa,205,1972,-5 %
+Skovgårdsparken 4 5462 Morud,4,600000.0,18-08-2011,Alm.,3260,5,Villa,184,2015,
+Filippagrenen 12 5462 Morud,12,2250000.0,05-07-2011,Alm.,13975,5,Villa,161,2007,-6 %
+Rugårdsvej 787 5462 Morud,787,665000.0,01-07-2011,Alm.,6333,3,Villa,105,1933,
+Tevringevej 22 5462 Morud,22,627608.0,28-06-2011,Alm.,3826,5,Stuehus,164,1917,
+Søndersøvej 297 5462 Morud,297,695000.0,15-06-2011,Alm.,8475,4,Villa,82,1953,0 %
+Ingrid Marie Grenen 5 5462 Morud,5,505937.0,26-05-2011,Alm.,2258,8,Villa,224,2011,
+Langesøvej 157 5462 Morud,157,1900000.0,17-05-2011,Alm.,10982,9,Villa,173,1959,-9 %
+Bredbjergvej 36 5462 Morud,36,1080000.0,05-05-2011,Auktion,7297,5,Villa,148,1963,-27 %
+Rosenholmgrenen 3 5462 Morud,3,788186.0,06-04-2011,Alm.,4748,4,Villa,166,2012,
+Søndersøvej 135 5462 Morud,135,900000.0,23-03-2011,Alm.,7200,3,Stuehus,125,1877,-8 %
+Ruevej 20 5462 Morud,20,176300.0,24-01-2011,Alm.,823,6,Stuehus,214,1904,
+Rosenholmgrenen 13 5462 Morud,13,626762.0,10-01-2011,Alm.,4476,4,Villa,140,2011,
+Elledalen 17 5462 Morud,17,1850000.0,03-01-2011,Alm.,13028,5,Villa,142,1976,-7 %
+Bakkevej 12 5462 Morud,12,562983.0,14-12-2010,Andet,3585,6,Villa,157,1969,
+"Centret 5, ST. TV 5462 Morud",0,247012.0,14-12-2010,Andet,2185,3,Lejlighed,113,1974,
+Jægerlunden 6 5462 Morud,6,1497943.0,03-12-2010,Alm.,10330,4,Villa,145,1986,
+Vædevej 65 5462 Morud,65,1050000.0,01-10-2010,Alm.,6363,5,Villa,165,1777,-4 %
+Bøgevangen 8 5462 Morud,8,2560967.0,01-10-2010,Alm.,12934,5,Villa,198,1973,
+Rosenholmgrenen 16 5462 Morud,16,644285.0,29-09-2010,Alm.,4211,6,Villa,153,2011,
+Lobogrenen 8 5462 Morud,8,542722.0,10-06-2010,Alm.,3015,5,Villa,180,2012,
+Rugårdsvej 792 5462 Morud,792,540000.0,03-06-2010,Alm.,4615,5,Villa,117,1953,-16 %
+Frugthaven 7 5462 Morud,7,1141785.0,01-06-2010,Alm.,6837,5,Villa,167,2010,
+Udsigten 17B 5462 Morud,0,800000.0,19-05-2010,Alm.,9302,3,Villa,86,1971,
+Guldborggrenen 3 5462 Morud,3,1254959.0,21-04-2010,Fam.,7514,5,Villa,167,2007,-55 %
+Ingrid Marie Grenen 7 5462 Morud,7,1900000.0,30-03-2010,Alm.,10734,4,Villa,177,2008,-17 %
+Udsigten 3 5462 Morud,3,691000.0,25-03-2010,Auktion,5315,4,Villa,130,1966,
+Sasserod 41 5462 Morud,41,3200000.0,03-03-2010,Alm.,17977,7,Villa,178,1862,-2 %
+Bøgevangen 1 5462 Morud,1,974500.0,26-02-2010,Alm.,6540,5,Villa,149,1972,
+Filippagrenen 16 5462 Morud,16,1967500.0,11-02-2010,Alm.,10810,7,Villa,182,2008,-44 %
+Tokkerodvej 56 5462 Morud,56,680000.0,22-12-2009,Fam.,3863,14,Industri o.l.,176,1916,
+Frugthaven 9 5462 Morud,9,1036619.0,21-12-2009,Alm.,4627,8,Villa,224,2010,
+Bredbjergvej 142 5462 Morud,142,800000.0,03-11-2009,Alm.,8510,3,Villa,94,1965,
+Elledalen 21 5462 Morud,21,1450000.0,30-10-2009,Alm.,12083,5,Villa,120,1976,-6 %
+Engvej 4 5462 Morud,4,650000.0,30-09-2009,Alm.,0,3,Villa,91,1967,
+Skovvej 22 5462 Morud,22,980000.0,25-09-2009,Alm.,11136,4,Villa,88,1968,-11 %
+Plantagevej 52 5462 Morud,52,847500.0,14-08-2009,Alm.,4734,7,Villa,179,1971,
+Frugthaven 11 5462 Morud,11,1040000.0,12-08-2009,Alm.,5148,5,Villa,202,2010,
+Bøgevangen 9 5462 Morud,9,1200000.0,07-08-2009,Alm.,7185,6,Villa,167,1973,-25 %
+Rue Hed 56 5462 Morud,56,3170000.0,05-08-2009,Alm.,0,7,Stuehus,330,2011,-1 %
+Tokkerodvej 28 5462 Morud,28,611874.0,02-07-2009,Alm.,3663,6,Villa,167,1910,
+Havrehed 4 5462 Morud,4,862172.0,29-06-2009,Andet,6114,7,Villa,141,1958,
+Æblehaven 16 5462 Morud,16,306896.0,16-06-2009,Alm.,1519,7,Villa,202,2010,
+Rugårdsvej 775 5462 Morud,775,1550000.0,04-06-2009,Alm.,13478,4,Villa,115,1938,-9 %
+Gammel Skolevej 6 5462 Morud,6,1650000.0,26-05-2009,Fam.,7932,5,Villa,208,1937,-15 %
+Rue Hed 59 5462 Morud,59,2350400.0,05-05-2009,Alm.,20617,5,Stuehus,114,1914,
+Vædehave 18 5462 Morud,18,170000.0,01-04-2009,Alm.,894,6,Stuehus,190,1894,
+Vædevej 21 5462 Morud,21,300000.0,01-04-2009,Alm.,2500,5,Stuehus,120,1880,
+Ved Engen 2 5462 Morud,2,1350000.0,31-03-2009,Alm.,13775,3,Rækkehus,98,2007,-3 %
+Bøgevangen 18 5462 Morud,18,2525000.0,14-02-2009,Alm.,16833,4,Villa,150,1972,
+Ruevej 70 5462 Morud,70,1425000.0,15-12-2008,Alm.,13970,4,Villa,102,1950,-5 %
+Bøgevangen 17 5462 Morud,17,1900000.0,12-12-2008,Alm.,10982,5,Villa,173,1973,-12 %
+Birkevej 4 5462 Morud,4,1650000.0,04-12-2008,Alm.,11785,5,Villa,140,1946,-8 %
+Pigeongrenen 19 5462 Morud,19,2300000.0,28-11-2008,Alm.,14743,6,Villa,156,2008,
+Farstrupvej 6 5462 Morud,6,2745000.0,25-10-2008,Alm.,15596,6,Villa,176,1939,-2 %
+Centret 2 5462 Morud,2,94662.0,10-10-2008,Alm.,0,5,Villa,100,1975,
+Pigeongrenen 15 5462 Morud,15,580224.0,08-10-2008,Alm.,3241,6,Villa,179,2009,
+Bredbjergvej 22 5462 Morud,22,2100000.0,02-10-2008,Alm.,7317,8,Villa,287,1777,
+Frugthaven 13 5462 Morud,13,1480000.0,24-09-2008,Alm.,12982,4,Villa,114,1930,0 %
+Tokkerodparken 48 5462 Morud,48,1266889.0,17-09-2008,Alm.,8018,5,Villa,158,2005,
+Ingrid Marie Grenen 13 5462 Morud,13,590000.0,04-08-2008,Alm.,3072,5,Villa,192,2010,
+Plantagevej 24 5462 Morud,24,1750000.0,07-07-2008,Alm.,14830,6,Villa,118,1940,0 %
+Sasserod 7 5462 Morud,7,1250000.0,02-07-2008,Alm.,9842,4,Villa,127,1852,0 %
+Bredbjerg Gyde 15 5462 Morud,15,1500000.0,18-06-2008,Alm.,0,10,Villa,348,1965,-12 %
+Ved Engen 4 5462 Morud,4,1480000.0,12-06-2008,Alm.,15102,3,Rækkehus,98,2007,
+Rugårdsvej 731 5462 Morud,731,1315000.0,01-06-2008,Alm.,8375,5,Villa,157,1929,-12 %
+Tevringevej 42 5462 Morud,42,2895000.0,27-05-2008,Alm.,16083,5,Villa,180,1998,0 %
+Skovbrynet 4 5462 Morud,4,1825000.0,19-05-2008,Alm.,17216,4,Villa,106,1990,-3 %
+Pigeongrenen 7 5462 Morud,7,607918.0,18-05-2008,Alm.,3286,6,Villa,185,2009,
+Ingrid Marie Grenen 11 5462 Morud,11,566798.0,18-05-2008,Alm.,3728,5,Villa,152,2009,
+Rue Hed 9 5462 Morud,9,3850000.0,30-04-2008,Alm.,20810,7,Stuehus,185,1907,
+Gammel Skolevej 21 5462 Morud,21,1300000.0,17-04-2008,Alm.,10924,4,Villa,119,1964,-4 %
+Rue Hed 12 5462 Morud,12,746940.0,13-04-2008,Alm.,2987,12,Stuehus,250,1878,
+Tokkerodparken 28 5462 Morud,28,2400000.0,22-03-2008,Alm.,17142,5,Villa,140,1998,
+Bredbjergvej 80 5462 Morud,80,2150000.0,14-03-2008,Alm.,15579,3,Villa,138,1952,-2 %
+Skovbrynet 51 5462 Morud,51,623559.0,20-02-2008,Fam.,3604,6,Villa,173,1997,
+Pigeongrenen 25 5462 Morud,25,677721.0,13-02-2008,Alm.,4183,6,Villa,162,2009,
+Engvej 2 5462 Morud,2,900000.0,03-02-2008,Alm.,7964,4,Villa,113,1966,-10 %
+Blæsbjergvej 10 5462 Morud,10,5000000.0,20-01-2008,Alm.,15873,7,Stuehus,315,2009,-16 %
+Tværskovvej 29 5462 Morud,29,533500.0,10-01-2008,Andet,3293,6,Villa,162,1995,
+Lobogrenen 17 5462 Morud,17,617048.0,07-01-2008,Alm.,3694,6,Villa,167,2008,
+Rugårdsvej 772 5462 Morud,772,880000.0,20-12-2007,Alm.,6616,6,Villa,133,1928,
+Plantagevej 91 5462 Morud,91,2500000.0,14-12-2007,Alm.,14534,5,Villa,172,1998,
+"Birkevej 2, 1 5462 Morud",1,1385000.0,10-12-2007,Alm.,0,2,Lejlighed,46,1949,
+Pigeongrenen 5 5462 Morud,5,579318.0,26-11-2007,Alm.,3001,7,Villa,193,2008,
+Elverodvej 2 5462 Morud,2,1640000.0,20-11-2007,Alm.,11884,7,Villa,138,1961,-3 %
+Lobogrenen 6 5462 Morud,6,582258.0,14-10-2007,Alm.,3234,6,Villa,180,2009,
+Ingrid Marie Grenen 1 5462 Morud,1,680258.0,11-10-2007,Alm.,3717,6,Villa,183,2009,
+Skovvej 14 5462 Morud,14,1350000.0,13-09-2007,Fam.,12735,4,Villa,106,1965,
+Tværskovvej 50 5462 Morud,50,2512500.0,21-08-2007,Alm.,13154,7,Villa,191,1777,-2 %
+Plantagevej 89 5462 Morud,89,2095000.0,06-08-2007,Alm.,12932,4,Villa,162,1989,0 %
+Rugårdsvej 722 5462 Morud,722,1725000.0,02-08-2007,Alm.,14024,5,Villa,123,1947,
+Himmelstrupvej 43 5462 Morud,43,785000.0,25-06-2007,Alm.,8722,3,Villa,90,1827,
+Pigeongrenen 21 5462 Morud,21,550000.0,14-06-2007,Alm.,3254,6,Villa,169,2009,
+Lobogrenen 5 5462 Morud,5,616085.0,11-06-2007,Alm.,3779,6,Villa,163,2008,
+Pigeongrenen 17 5462 Morud,17,549918.0,08-06-2007,Alm.,2545,7,Villa,216,2008,
+Ved Engen 14 5462 Morud,14,1625000.0,21-05-2007,Alm.,11607,5,Rækkehus,140,2007,
+Pigeongrenen 1 5462 Morud,1,576395.0,14-05-2007,Alm.,3132,7,Villa,184,2008,
+Pigeongrenen 3 5462 Morud,3,573455.0,08-05-2007,Alm.,3066,6,Villa,187,2008,
+Guldborggrenen 12 5462 Morud,12,560715.0,08-05-2007,Alm.,3259,6,Villa,172,2008,
+Dalvej 1 5462 Morud,1,1300000.0,30-04-2007,Alm.,11818,5,Villa,110,1969,
+Udsigten 27B 5462 Morud,0,512192.0,02-04-2007,Alm.,3414,6,Villa,150,1969,
+Ved Engen 16 5462 Morud,16,1725000.0,19-03-2007,Alm.,12321,5,Rækkehus,140,2007,
+Møllebakken 2 5462 Morud,2,1025000.0,05-03-2007,Alm.,5959,6,Villa,172,1960,
+Vædevej 13 5462 Morud,13,271000.0,01-03-2007,Alm.,3871,3,Stuehus,70,1827,185 %
+Granbakken 2 5462 Morud,2,1100000.0,28-02-2007,Andet,6250,5,Villa,176,1977,
+Ingrid Marie Grenen 9 5462 Morud,9,539645.0,06-02-2007,Alm.,2810,6,Villa,192,2008,
+Ingrid Marie Grenen 2 5462 Morud,2,693995.0,05-02-2007,Alm.,3813,6,Villa,182,2009,
+Æblehaven 8 5462 Morud,8,2525000.0,26-01-2007,Alm.,16833,5,Villa,150,2006,
+Plantagevej 2A 5462 Morud,0,1875000.0,22-01-2007,Alm.,6443,7,Villa,291,1925,
+Bredbjergvej 23 5462 Morud,23,850000.0,08-01-2007,Alm.,9042,3,Villa,94,1927,
+Fyrrebakken 9 5462 Morud,9,822500.0,07-01-2007,Andet,4051,6,Villa,203,1976,
+Elledalen 2 5462 Morud,2,1650000.0,08-12-2006,Alm.,10122,5,Villa,163,1979,
+Lobogrenen 3 5462 Morud,3,616085.0,29-11-2006,Alm.,2933,7,Villa,210,2009,
+Lobogrenen 1 5462 Morud,1,702777.0,29-11-2006,Alm.,3362,9,Villa,209,2008,
+Lobogrenen 4 5462 Morud,4,630500.0,29-11-2006,Alm.,4120,5,Villa,153,2008,
+Lobogrenen 2 5462 Morud,2,752200.0,29-11-2006,Alm.,3450,6,Villa,218,2008,
+Ved Engen 3 5462 Morud,3,1225000.0,27-11-2006,Alm.,13172,3,Rækkehus,93,2007,
+Rugårdsvej 774 5462 Morud,774,280500.0,24-11-2006,Alm.,1731,8,Villa,162,1893,
+Filippagrenen 2 5462 Morud,2,546505.0,10-11-2006,Alm.,3053,6,Villa,179,2008,
+Himmelstrupvej 64 5462 Morud,64,2450000.0,02-11-2006,Alm.,14161,5,Villa,173,1995,
+Rue Hed 24 5462 Morud,24,2800000.0,01-11-2006,Alm.,12844,7,Stuehus,218,1907,
+Guldborggrenen 1 5462 Morud,1,439195.0,30-10-2006,Alm.,2744,5,Villa,160,2009,
+Rugårdsvej 756 5462 Morud,756,1350000.0,30-10-2006,Alm.,16463,3,Villa,82,1957,
+Rue Hed 31 5462 Morud,31,2850000.0,24-10-2006,Alm.,10401,6,Stuehus,274,2011,
+Søndersøvej 159 5462 Morud,159,243765.0,13-10-2006,Alm.,1392,5,Villa,175,2006,
+Himmelstrupvej 75 5462 Morud,75,231450.0,13-10-2006,Alm.,1928,3,Villa,120,1827,
+Ingrid Marie Grenen 8 5462 Morud,8,475455.0,13-10-2006,Alm.,2953,4,Villa,161,2007,
+Guldborggrenen 2 5462 Morud,2,536705.0,06-10-2006,Alm.,3418,5,Villa,157,2008,
+Filippagrenen 6 5462 Morud,6,541605.0,04-10-2006,Alm.,2763,5,Villa,196,2008,
+Bredbjergvej 40 5462 Morud,40,2750000.0,07-09-2006,Alm.,18333,5,Villa,150,1992,
+Gammel Skolevej 29 5462 Morud,29,1575000.0,22-08-2006,Alm.,10862,7,Villa,145,1932,
+Plantagevej 66 5462 Morud,66,2195000.0,21-08-2006,Alm.,14070,6,Villa,156,1973,
+Ved Engen 6 5462 Morud,6,1625000.0,17-08-2006,Alm.,11607,5,Rækkehus,140,2007,
+Ved Engen 10 5462 Morud,10,1625000.0,17-08-2006,Alm.,11607,5,Rækkehus,140,2007,
+Ingrid Marie Grenen 6 5462 Morud,6,741000.0,08-08-2006,Alm.,3723,5,Villa,199,2007,
+Æblehaven 4 5462 Morud,4,593171.0,08-08-2006,Alm.,3089,6,Villa,192,2007,
+Filippagrenen 4 5462 Morud,4,541605.0,24-07-2006,Alm.,3059,5,Villa,177,2007,
+Skovvej 3 5462 Morud,3,1400000.0,20-07-2006,Alm.,8235,5,Villa,170,1969,
+Flintebjerg 14 5462 Morud,14,997500.0,11-07-2006,Fam.,3439,6,Villa,290,1917,
+Rugårdsvej 702 5462 Morud,702,467839.0,18-06-2006,Andet,3517,5,Villa,133,1827,
+Søndersøvej 184 5462 Morud,184,1600000.0,15-06-2006,Alm.,6837,7,Stuehus,234,1932,
+Ingrid Marie Grenen 4 5462 Morud,4,680000.0,08-06-2006,Alm.,2274,7,Villa,299,2009,
+Æblehaven 10 5462 Morud,10,401855.0,08-06-2006,Alm.,2495,5,Villa,161,2007,
+Udsigten 27A 5462 Morud,0,900000.0,24-05-2006,Alm.,10344,4,Villa,87,1969,
+Himmelstrupvej 74 5462 Morud,74,1625000.0,18-05-2006,Alm.,6500,6,Villa,250,1968,
+Æblehaven 14 5462 Morud,14,522862.0,18-04-2006,Alm.,2751,5,Villa,190,2007,
+Fjællebjerg 10 5462 Morud,10,2150000.0,10-04-2006,Alm.,18534,4,Stuehus,116,1873,
+Guldborggrenen 14 5462 Morud,14,594393.0,04-04-2006,Alm.,3001,5,Villa,198,2008,
+Åbakkevej 1 5462 Morud,1,2000000.0,28-03-2006,Fam.,11976,6,Villa,167,1950,
+Æblehaven 25 5462 Morud,25,2210000.0,16-03-2006,Alm.,11050,5,Villa,200,2005,
+Filippagrenen 14 5462 Morud,14,530673.0,09-03-2006,Alm.,3032,5,Villa,175,2007,
+Æblehaven 17 5462 Morud,17,559133.0,14-02-2006,Alm.,2974,5,Villa,188,2009,
+Guldborggrenen 4 5462 Morud,4,523473.0,07-02-2006,Alm.,3334,5,Villa,157,2006,
+Jægerlunden 5 5462 Morud,5,2145000.0,07-02-2006,Alm.,7032,6,Villa,305,1986,
+Rugårdsvej 783 5462 Morud,783,1599000.0,25-01-2006,Alm.,10316,6,Villa,155,1912,
+Rue Hed 50 5462 Morud,50,3845000.0,10-01-2006,Alm.,9588,7,Villa,401,1967,
+Guldborggrenen 8 5462 Morud,8,666000.0,05-01-2006,Alm.,3027,5,Villa,220,2007,
+Bredbjergvej 34 5462 Morud,34,675770.0,28-12-2005,Andet,5043,5,Villa,134,1941,
+Møllebakken 1 5462 Morud,1,810000.0,16-12-2005,Alm.,9529,4,Villa,85,1938,
+Bakkevej 2B 5462 Morud,0,670000.0,28-11-2005,Alm.,9571,3,Rækkehus,70,1985,
+Filippagrenen 8 5462 Morud,8,556001.0,21-11-2005,Alm.,3309,6,Villa,168,2006,
+Langesøvej 153 5462 Morud,153,3200000.0,18-11-2005,Alm.,12167,8,Villa,263,1880,
+Guldborggrenen 10 5462 Morud,10,580765.0,18-11-2005,Alm.,0,5,Villa,181,2006,
+Guldborggrenen 6 5462 Morud,6,541000.0,09-11-2005,Alm.,3073,5,Villa,176,2006,
+Egebakken 12 5462 Morud,12,2750000.0,04-11-2005,Alm.,0,8,Villa,247,1969,
+Plantagevej 17 5462 Morud,17,860000.0,28-10-2005,Fam.,7166,3,Villa,120,1972,
+Rugårdsvej 788 5462 Morud,788,550000.0,26-09-2005,Alm.,5392,4,Villa,102,1907,
+Bøgevangen 22 5462 Morud,22,1355000.0,10-09-2005,Alm.,10111,5,Villa,134,1973,
+Æblehaven 22 5462 Morud,22,545045.0,07-09-2005,Alm.,2546,5,Villa,214,2008,
+Æblehaven 30 5462 Morud,30,458186.0,31-08-2005,Alm.,3159,5,Villa,145,2005,
+Frugthaven 26 5462 Morud,26,1350000.0,20-08-2005,Alm.,6923,7,Villa,195,1931,
+Søndersøvej 299 5462 Morud,299,895000.0,13-08-2005,Alm.,0,5,Villa,135,1944,
+Æblehaven 28 5462 Morud,28,482221.0,11-08-2005,Alm.,2664,6,Villa,181,2005,
+Vædevej 67 5462 Morud,67,745000.0,10-08-2005,Alm.,9312,4,Villa,80,1790,
+Rugårdsvej 733 5462 Morud,733,1275000.0,06-07-2005,Alm.,5543,7,Villa,230,1915,
+Tokkerodvej 6 5462 Morud,6,975000.0,04-07-2005,Alm.,11890,3,Villa,82,1956,
+Skovbrynet 46 5462 Morud,46,1700000.0,23-06-2005,Alm.,11258,5,Villa,151,1996,
+Bredbjergvej 128 5462 Morud,128,1645000.0,20-06-2005,Alm.,6326,7,Villa,260,1877,
+Æblehaven 31 5462 Morud,31,598900.0,06-06-2005,Alm.,2003,6,Villa,299,2006,
+Bakkevej 14C. 5 5462 Morud,5,628000.0,11-05-2005,Alm.,0,3,Lejlighed,74,1974,
+Æblehaven 1 5462 Morud,1,572806.0,10-05-2005,Alm.,3743,3,Villa,153,2007,
+Adamsminde 4 5462 Morud,4,800000.0,10-05-2005,Alm.,5031,4,Villa,159,1997,
+Æblehaven 29 5462 Morud,29,521988.0,09-05-2005,Alm.,2596,4,Villa,201,2006,
+Rugårdsvej 732 5462 Morud,732,800000.0,06-05-2005,Alm.,6666,5,Villa,120,1910,
+Langesøvej 177 5462 Morud,177,3675000.0,20-04-2005,Alm.,13973,4,Stuehus,263,1960,
+Æblehaven 24 5462 Morud,24,545045.0,19-04-2005,Alm.,2899,5,Villa,188,2006,
+Plantagevej 4 5462 Morud,4,1325000.0,13-04-2005,Alm.,6865,6,Villa,193,1972,
+Plantagevej 32 5462 Morud,32,910000.0,31-03-2005,Alm.,9009,4,Villa,101,1971,
+Skovbrynet 42 5462 Morud,42,1570000.0,30-03-2005,Alm.,11544,5,Villa,136,1989,
+Vædevej 64 5462 Morud,64,290000.0,06-03-2005,Alm.,3625,4,Villa,80,1827,
+Møllevænget 4 5462 Morud,4,649682.0,14-02-2005,Andet,4111,6,Villa,158,1968,
+Rue Hed 36 5462 Morud,36,995000.0,08-02-2005,Alm.,8805,4,Villa,113,1962,
+Langesøvej 159 5462 Morud,159,2250000.0,07-02-2005,Alm.,7211,6,Villa,312,1880,
+Elledalen 19 5462 Morud,19,1710000.0,02-02-2005,Alm.,8814,5,Villa,194,1980,
+Himmelstrupvej 48 5462 Morud,48,650000.0,01-02-2005,Alm.,5416,4,Villa,120,1800,
+Tokkerodparken 44 5462 Morud,44,301845.0,20-01-2005,Alm.,1818,5,Villa,166,2005,
+Skovvej 5 5462 Morud,5,1075000.0,18-01-2005,Fam.,4516,9,Villa,238,1965,
+Engvej 6 5462 Morud,6,1229394.0,17-01-2005,Alm.,7880,5,Villa,156,1965,
+Smørvråvej 2 5462 Morud,2,1000000.0,12-01-2005,Andet,6896,4,Villa,145,1971,
+Æblehaven 26 5462 Morud,26,545482.0,07-12-2004,Alm.,3189,6,Villa,171,2005,
+Dalvej 9 5462 Morud,9,1145000.0,03-11-2004,Alm.,7339,5,Villa,156,1969,
+Æblehaven 2 5462 Morud,2,576072.0,17-10-2004,Alm.,0,7,Villa,235,2005,
+Udsigten 17A 5462 Morud,0,440000.0,04-10-2004,Alm.,4888,3,Villa,90,1970,
+Skovvej 6 5462 Morud,6,1195000.0,06-08-2004,Alm.,8074,4,Villa,148,1964,
+Æblehaven 15 5462 Morud,15,487361.0,05-08-2004,Alm.,2737,5,Villa,178,2004,
+Dalvej 11 5462 Morud,11,1100491.0,23-07-2004,Alm.,6435,6,Villa,171,1969,
+Æblehaven 23 5462 Morud,23,492604.0,17-07-2004,Alm.,0,8,Villa,268,2005,
+Rue Hed 34 5462 Morud,34,350000.0,07-06-2004,Alm.,6481,2,Sommerhus,54,1966,
+Skovvej 2 5462 Morud,2,950000.0,28-05-2004,Alm.,9134,3,Villa,104,1966,
+Plantagevej 31 5462 Morud,31,1235000.0,17-05-2004,Alm.,7866,4,Villa,157,1973,
+Æblehaven 11 5462 Morud,11,392095.0,10-05-2004,Alm.,2405,5,Villa,163,2005,
+Æblehaven 5 5462 Morud,5,700000.0,05-05-2004,Alm.,3932,6,Villa,178,2005,
+Sasserod 15 5462 Morud,15,1600000.0,29-04-2004,Alm.,10666,6,Stuehus,150,1777,
+Adamsminde 16 5462 Morud,16,1350000.0,22-04-2004,Alm.,0,6,Villa,169,1999,
+Bredbjergvej 140A 5462 Morud,0,1520000.0,22-04-2004,Alm.,7875,5,Villa,193,1986,
+Udsigten 15A 5462 Morud,0,785000.0,21-04-2004,Alm.,7136,4,Villa,110,1969,
+Æblehaven 7 5462 Morud,7,395591.0,16-04-2004,Alm.,2503,5,Villa,158,2005,
+Sasserod 45 5462 Morud,45,322079.0,26-03-2004,Alm.,0,6,Villa,264,1877,
+Skovvej 30 5462 Morud,30,1265000.0,18-03-2004,Alm.,8489,4,Villa,149,1972,
+Amagervej 7 5462 Morud,7,925000.0,16-03-2004,Alm.,6423,5,Villa,144,1916,
+Elverodvej 20 5462 Morud,20,2650000.0,15-03-2004,Alm.,7817,9,Stuehus,339,1890,
+Tokkerodparken 20 5462 Morud,20,2250000.0,12-03-2004,Alm.,9297,6,Villa,242,2000,
+Adamsminde 1 5462 Morud,1,1725000.0,08-03-2004,Alm.,11577,5,Villa,149,2000,
+Tokkerodparken 6 5462 Morud,6,675000.0,06-03-2004,Fam.,4272,5,Villa,158,1998,
+Rugårdsvej 737 5462 Morud,737,1145000.0,05-03-2004,Alm.,6291,5,Villa,182,1912,
+Fyrrebakken 2 5462 Morud,2,912971.0,03-03-2004,Andet,4475,6,Villa,204,1978,
+Frugthaven 52 5462 Morud,52,1080000.0,18-12-2003,Alm.,3552,5,Villa,304,1936,
+Æblehaven 19 5462 Morud,19,493165.0,16-12-2003,Alm.,2478,5,Villa,199,2005,
+Æblehaven 21 5462 Morud,21,490106.0,08-12-2003,Alm.,1617,5,Villa,303,2004,
+Pederstrupvej 135 5462 Morud,135,860000.0,18-10-2003,Alm.,6417,6,Stuehus,134,1819,
+Pederstrupvej 137 5462 Morud,137,990000.0,18-10-2003,Alm.,6226,6,Villa,159,1954,
+Tevringevej 32 5462 Morud,32,1000000.0,17-10-2003,Alm.,0,8,Stuehus,217,1924,
+Rugårdsvej 797 5462 Morud,797,995000.0,06-10-2003,Alm.,9386,5,Villa,106,1877,
+Skovbrynet 2 5462 Morud,2,1300000.0,01-10-2003,Alm.,10236,4,Villa,127,1996,
+Elverodvej 5 5462 Morud,5,350000.0,25-09-2003,Alm.,2777,4,Villa,126,2005,
+Tokkerodparken 16 5462 Morud,16,272954.0,04-09-2003,Alm.,2183,5,Villa,125,2003,
+Æblehaven 9 5462 Morud,9,391344.0,19-08-2003,Alm.,2492,5,Villa,157,2004,
+Æblehaven 20 5462 Morud,20,544294.0,19-08-2003,Alm.,0,6,Villa,232,2005,
+Bøgevangen 24 5462 Morud,24,1550000.0,31-07-2003,Alm.,8157,5,Villa,190,1975,
+Adamsminde 14 5462 Morud,14,1950000.0,24-07-2003,Alm.,11206,4,Villa,174,2000,
+Tokkerodvej 2 5462 Morud,2,485000.0,19-07-2003,Alm.,4041,5,Villa,120,1960,
+Langesøvej 106 5462 Morud,106,1550000.0,24-06-2003,Alm.,7487,6,Villa,207,1877,
+Bredbjergvej 144 5462 Morud,144,1010000.0,11-06-2003,Alm.,5976,5,Villa,169,1929,
+Udsigten 5 5462 Morud,5,745000.0,04-04-2003,Alm.,0,6,Villa,171,1967,
+Bredbjerg Gyde 8 5462 Morud,8,1200000.0,31-03-2003,Alm.,12765,6,Villa,94,1877,
+Blæsbjergvej 36 5462 Morud,36,1750000.0,06-03-2003,Alm.,9510,6,Villa,184,1910,
+Jægerlunden 22 5462 Morud,22,675000.0,05-02-2003,Fam.,3835,5,Villa,176,1982,
+Vædevej 12 5462 Morud,12,935000.0,22-01-2003,Alm.,4921,7,Stuehus,190,1930,
+Adamsminde 13 5462 Morud,13,210000.0,06-01-2003,Alm.,1147,5,Villa,183,2003,
+Rugårdsvej 723 5462 Morud,723,1085000.0,22-11-2002,Alm.,0,5,Villa,189,1890,
+Rugårdsvej 762 5462 Morud,762,925000.0,18-11-2002,Alm.,5505,6,Villa,168,1958,
+Himmelstrupvej 60 5462 Morud,60,450500.0,26-09-2002,Fam.,0,7,Stuehus,195,1777,
+Bøgevangen 19 5462 Morud,19,1485000.0,23-09-2002,Alm.,8250,6,Villa,180,1973,
+Tokkerodparken 14 5462 Morud,14,289790.0,17-09-2002,Alm.,1931,5,Villa,150,2003,
+Langesøvej 113 5462 Morud,113,1057425.0,27-08-2002,Alm.,7499,5,Villa,141,1877,
+Søndersøvej 144 5462 Morud,144,4995000.0,27-08-2002,Alm.,18778,4,Stuehus,266,1925,
+Gammel Skolevej 19 5462 Morud,19,625000.0,29-07-2002,Alm.,0,7,Villa,207,1929,
+Smørvråvej 6 5462 Morud,6,820000.0,24-06-2002,Alm.,0,5,Villa,140,1971,
+Udsigten 16 5462 Morud,16,695000.0,24-06-2002,Alm.,6150,4,Villa,113,1968,
+Skovbrynet 57 5462 Morud,57,1597000.0,20-06-2002,Alm.,11742,5,Villa,136,1997,
+Adamsminde 5 5462 Morud,5,1285000.0,29-05-2002,Alm.,0,6,Villa,205,1999,
+Bredbjergvej 100 5462 Morud,100,610000.0,03-05-2002,Auktion,0,6,Villa,192,1981,
+Jægerlunden 20 5462 Morud,20,1300000.0,03-05-2002,Alm.,10924,3,Villa,119,1987,
+Plantagevej 11 5462 Morud,11,1020000.0,06-04-2002,Alm.,5074,6,Villa,201,1972,
+Tevringevej 14 5462 Morud,14,520000.0,01-04-2002,Alm.,6753,3,Villa,77,1957,
+Søndersøvej 230 5462 Morud,230,526042.0,25-03-2002,Alm.,3925,5,Villa,134,1944,
+Fyrrebakken 13 5462 Morud,13,1700000.0,06-03-2002,Alm.,8808,6,Villa,193,1976,
+Bakkevej 14A. 3 5462 Morud,3,580000.0,18-02-2002,Alm.,0,3,Lejlighed,76,1974,
+Granbakken 4 5462 Morud,4,1380000.0,18-02-2002,Alm.,8023,5,Villa,172,1976,
+Plantagevej 33 5462 Morud,33,845000.0,17-02-2002,Alm.,6123,5,Villa,138,1974,
+Limkilde 15 5462 Morud,15,1138000.0,11-12-2001,Alm.,0,9,Stuehus,210,1916,
+Adamsminde 7 5462 Morud,7,208654.0,26-10-2001,Alm.,1469,5,Villa,142,2002,
+Rue Hed 52 5462 Morud,52,350000.0,03-10-2001,Alm.,0,4,Villa,118,1877,
+Tokkerodparken 2 5462 Morud,2,272910.0,16-08-2001,Alm.,1949,5,Villa,140,2004,
+Tokkerodparken 24 5462 Morud,24,328560.0,16-08-2001,Alm.,2106,4,Villa,156,2002,
+Elledalen 23 5462 Morud,23,1255000.0,25-07-2001,Alm.,6972,5,Villa,180,1976,
+Møllevænget 2 5462 Morud,2,700000.0,03-07-2001,Alm.,6363,4,Villa,110,1971,
+Tokkerodparken 42 5462 Morud,42,285930.0,27-06-2001,Alm.,1931,5,Villa,148,2002,
+Elverodvej 57 5462 Morud,57,1595000.0,21-06-2001,Alm.,8960,7,Villa,178,1877,
+Tokkerodparken 12 5462 Morud,12,841422.0,01-05-2001,Andet,5162,5,Villa,163,1999,
+Rugårdsvej 773 5462 Morud,773,795508.0,28-02-2001,Alm.,7231,4,Villa,110,1948,
+Elledalen 15 5462 Morud,15,1209536.0,12-12-2000,Alm.,7753,5,Villa,156,1976,
+Rugårdsvej 806 5462 Morud,806,2677500.0,05-12-2000,Fam.,11345,7,Stuehus,236,1857,
+Sasserod 35 5462 Morud,35,1280000.0,05-12-2000,Alm.,0,6,Villa,302,1856,
+Tokkerodparken 36 5462 Morud,36,360690.0,24-11-2000,Alm.,2226,6,Villa,162,2001,
+Møllebakken 6 5462 Morud,6,940000.0,22-11-2000,Alm.,4272,5,Villa,220,1963,
+Tværskovvej 40 5462 Morud,40,1167500.0,27-10-2000,Alm.,4389,8,Villa,266,1877,
+Sasserod 28 5462 Morud,28,850000.0,25-09-2000,Alm.,0,6,Villa,172,1949,
+Rugårdsvej 771 5462 Morud,771,995000.0,12-09-2000,Alm.,0,6,Villa,169,1953,
+Tokkerodparken 46 5462 Morud,46,1500000.0,04-09-2000,Alm.,9202,5,Villa,163,2000,
+Engvej 12 5462 Morud,12,630000.0,31-08-2000,Alm.,6562,3,Villa,96,1969,
+Bakkevej 14E. 7 5462 Morud,7,418000.0,12-07-2000,Alm.,0,3,Lejlighed,74,1974,
+Bredbjergvej 38 5462 Morud,38,1049585.0,07-07-2000,Alm.,7288,5,Villa,144,1827,
+Rugårdsvej 725 5462 Morud,725,780000.0,21-06-2000,Alm.,0,5,Villa,160,1890,
+Egebakken 11 5462 Morud,11,2475000.0,07-06-2000,Alm.,12890,5,Villa,192,1986,
+Søndersøvej 247 5462 Morud,247,727545.0,17-05-2000,Alm.,5774,4,Villa,126,1948,
+Udsigten 9 5462 Morud,9,1209000.0,17-05-2000,Alm.,5623,5,Villa,215,1969,
+Smørvråvej 14 5462 Morud,14,900000.0,10-05-2000,Alm.,6818,5,Villa,132,1972,
+Himmelstrupvej 34 5462 Morud,34,570000.0,19-04-2000,Fam.,2821,6,Stuehus,202,1905,
+Granbakken 10 5462 Morud,10,1305000.0,03-04-2000,Alm.,0,5,Villa,203,1973,
+Ruevej 58 5462 Morud,58,1045000.0,09-12-1999,Alm.,6005,5,Villa,174,1910,
+Tokkerodparken 10 5462 Morud,10,248550.0,05-11-1999,Alm.,1479,4,Villa,168,2001,
+Amagervej 29 5462 Morud,29,1011932.0,01-11-1999,Alm.,0,6,Villa,307,1902,
+Tværskovvej 21 5462 Morud,21,500000.0,26-10-1999,Alm.,5681,3,Villa,88,1867,
+Vædevej 24 5462 Morud,24,500000.0,25-10-1999,Alm.,2024,8,Villa,247,1932,
+Ruevej 26 5462 Morud,26,637000.0,20-10-1999,Alm.,7962,2,Villa,80,1880,
+Plantagevej 64 5462 Morud,64,850000.0,28-09-1999,Alm.,7024,5,Villa,121,1971,
+Rugårdsvej 765 5462 Morud,765,1200000.0,08-09-1999,Alm.,13636,4,Villa,88,1951,
+Tværskovvej 25 5462 Morud,25,442200.0,30-08-1999,Alm.,5527,2,Villa,80,1827,
+Smørvråvej 12 5462 Morud,12,959922.0,17-08-1999,Alm.,0,4,Villa,137,1973,
+Tokkerodparken 34 5462 Morud,34,318270.0,26-07-1999,Alm.,2448,4,Villa,130,2000,
+Elverodvej 41 5462 Morud,41,50000.0,20-07-1999,Alm.,195,8,Stuehus,256,1864,
+Tokkerodparken 40 5462 Morud,40,350400.0,17-06-1999,Alm.,2149,5,Villa,163,2000,
+Tokkerodparken 4 5462 Morud,4,287820.0,20-05-1999,Alm.,0,5,Villa,187,2002,
+Dalvej 5 5462 Morud,5,1231010.0,16-05-1999,Alm.,0,10,Villa,248,1970,
+Havrehed 2 5462 Morud,2,1144616.0,08-04-1999,Alm.,6693,5,Villa,171,1955,
+Rue Hed 70 5462 Morud,70,730000.0,02-02-1999,Alm.,7934,3,Villa,92,1954,
+Skovvej 9 5462 Morud,9,1463000.0,15-01-1999,Alm.,0,7,Villa,231,1976,
+Tokkerodparken 22 5462 Morud,22,248680.0,14-12-1998,Alm.,0,6,Villa,193,1999,
+Rugårdsvej 770 5462 Morud,770,568700.0,11-12-1998,Alm.,0,5,Villa,127,1777,
+Adamsminde 15 5462 Morud,15,256132.0,23-11-1998,Alm.,1348,6,Villa,190,1999,
+Tevringevej 54 5462 Morud,54,738014.0,23-09-1998,Alm.,0,6,Stuehus,183,1935,
+Bredbjergvej 149 5462 Morud,149,826810.0,21-09-1998,Alm.,0,4,Villa,162,1900,
+Bredbjergvej 52A 5462 Morud,0,300000.0,03-09-1998,Alm.,0,6,Villa,222,1999,
+Gammel Skolevej 26 5462 Morud,26,1471000.0,18-08-1998,Alm.,5037,8,Villa,292,1861,
+Tokkerodparken 30 5462 Morud,30,313990.0,04-08-1998,Alm.,1914,5,Villa,164,1999,
+Åbakkevej 9 5462 Morud,9,110000.0,20-07-1998,Fam.,0,6,Villa,203,1907,
+Tevringevej 58 5462 Morud,58,251707.0,09-07-1998,Fam.,2115,6,Villa,119,1915,
+Adamsminde 11 5462 Morud,11,226195.0,11-06-1998,Alm.,0,5,Villa,186,1998,
+Tværskovvej 47 5462 Morud,47,150005.0,01-06-1998,Alm.,691,3,Villa,217,1727,
+Søndersøvej 291 5462 Morud,291,450000.0,11-05-1998,Alm.,5357,4,Villa,84,1943,
+Adamsminde 18 5462 Morud,18,235287.0,22-04-1998,Alm.,1443,5,Villa,163,1998,
+Adamsminde 23 5462 Morud,23,232461.0,30-03-1998,Alm.,1417,4,Villa,164,1998,
+Udsigten 6 5462 Morud,6,798160.0,12-03-1998,Alm.,6334,3,Villa,126,1965,
+Jægerlunden 26 5462 Morud,26,1328000.0,04-03-1998,Alm.,9352,5,Villa,142,1983,
+Blæsbjergvej 30 5462 Morud,30,600000.0,23-02-1998,Fam.,5882,5,Villa,102,1911,
+Engvej 17 5462 Morud,17,660000.0,29-01-1998,Alm.,0,4,Villa,128,1970,
+Blæsbjergvej 45 5462 Morud,45,510000.0,22-01-1998,Alm.,0,4,Villa,135,1846,
+Engvej 9 5462 Morud,9,830000.0,18-12-1997,Alm.,7904,4,Villa,105,1969,
+Elledalen 13 5462 Morud,13,1229000.0,24-11-1997,Alm.,7878,3,Villa,156,1976,
+Gammel Skolevej 16 5462 Morud,16,993000.0,08-10-1997,Alm.,5118,9,Villa,194,1877,
+Adamsminde 17 5462 Morud,17,160896.0,23-09-1997,Alm.,919,5,Villa,175,1998,
+Blæsbjergvej 20 5462 Morud,20,709000.0,09-09-1997,Alm.,3938,4,Villa,180,1852,
+Plantagevej 71 5462 Morud,71,1185000.0,03-09-1997,Alm.,6236,5,Villa,190,1988,
+Himmelstrupvej 37 5462 Morud,37,1640600.0,08-08-1997,Alm.,6807,8,Stuehus,241,1934,
+Adamsminde 8 5462 Morud,8,192000.0,07-08-1997,Alm.,1230,4,Villa,156,1998,
+Vædevej 59 5462 Morud,59,579000.0,07-08-1997,Alm.,0,7,Stuehus,201,1870,
+Søndersøvej 225 5462 Morud,225,678000.0,13-07-1997,Alm.,6053,4,Villa,112,1958,
+Rugårdsvej 700 5462 Morud,700,1400000.0,08-07-1997,Alm.,0,5,Villa,246,1950,
+Udsigten 18 5462 Morud,18,525000.0,07-07-1997,Alm.,6481,3,Villa,81,1968,
+Tevringevej 39 5462 Morud,39,523000.0,27-06-1997,Alm.,2314,5,Villa,226,1998,
+Egebakken 9 5462 Morud,9,715912.0,16-06-1997,Alm.,4589,5,Villa,156,1970,
+Plantagevej 34 5462 Morud,34,755000.0,16-06-1997,Alm.,4967,4,Villa,152,1971,
+Smørvråvej 4 5462 Morud,4,1035000.0,09-06-1997,Alm.,5175,7,Villa,200,1970,
+Plantagevej 18 5462 Morud,18,1187000.0,02-06-1997,Alm.,6280,5,Villa,189,1972,
+Jægerlunden 24 5462 Morud,24,1100000.0,29-05-1997,Alm.,7236,6,Villa,152,1982,
+Adamsminde 6 5462 Morud,6,192000.0,26-05-1997,Alm.,1142,5,Villa,168,1998,
+Langesøvej 169 5462 Morud,169,1057869.0,25-05-1997,Alm.,5236,7,Villa,202,1902,
+Plantagevej 93 5462 Morud,93,139230.0,07-03-1997,Alm.,0,4,Villa,294,1998,
+Bakkevej 4A 5462 Morud,0,591480.0,19-02-1997,Alm.,6097,4,Rækkehus,97,1981,
+Adamsminde 10 5462 Morud,10,199680.0,05-02-1997,Alm.,1181,5,Villa,169,1997,
+Adamsminde 21 5462 Morud,21,182952.0,17-01-1997,Alm.,1143,6,Villa,160,1999,
+Elverodvej 17 5462 Morud,17,561876.0,29-12-1996,Alm.,4605,4,Villa,122,1963,
+Skovbrynet 28 5462 Morud,28,189180.0,12-12-1996,Alm.,1153,5,Villa,164,1997,
+Rue Hed 27 5462 Morud,27,680456.0,12-11-1996,Alm.,4692,4,Villa,145,1870,
+Plantagevej 21 5462 Morud,21,755000.0,08-11-1996,Alm.,5992,4,Villa,126,1972,
+Skovvej 4 5462 Morud,4,580000.0,06-11-1996,Alm.,4640,5,Villa,125,1965,
+Adamsminde 12 5462 Morud,12,189696.0,30-10-1996,Alm.,729,7,Villa,260,1998,
+Tværskovvej 17 5462 Morud,17,956150.0,30-09-1996,Alm.,0,5,Stuehus,180,1938,
+Skovbrynet 30 5462 Morud,30,156600.0,19-09-1996,Alm.,0,7,Villa,209,1998,
+Adamsminde 3 5462 Morud,3,163500.0,05-08-1996,Alm.,1202,3,Villa,136,1997,
+Plantagevej 81 5462 Morud,81,157875.0,27-06-1996,Alm.,717,6,Villa,220,1998,
+Skovbrynet 53 5462 Morud,53,143277.0,20-06-1996,Alm.,868,4,Villa,165,1996,
+Plantagevej 57 5462 Morud,57,960000.0,18-06-1996,Alm.,0,4,Villa,174,1979,
+Tevringevej 28 5462 Morud,28,630000.0,17-06-1996,Alm.,4846,5,Villa,130,1944,
+Elverodvej 33 5462 Morud,33,2011000.0,03-06-1996,Alm.,7617,7,Stuehus,264,1900,
+Blæsbjergvej 76 5462 Morud,76,331427.0,22-05-1996,Alm.,0,6,Villa,184,1916,
+Plantagevej 79 5462 Morud,79,146625.0,11-04-1996,Alm.,888,5,Villa,165,1996,
+Ruevej 46 5462 Morud,46,525000.0,08-04-1996,Alm.,4268,5,Villa,123,1960,
+Ruevej 54 5462 Morud,54,318620.0,16-02-1996,Alm.,3034,4,Villa,105,1897,
+Tevringevej 48 5462 Morud,48,550000.0,02-02-1996,Alm.,7236,3,Stuehus,76,1923,
+Skovbrynet 32 5462 Morud,32,131130.0,18-01-1996,Alm.,0,5,Villa,162,1996,
+Udsigten 2 5462 Morud,2,484500.0,01-01-1996,Fam.,3971,4,Villa,122,1968,
+Skovbrynet 34 5462 Morud,34,207800.0,21-12-1995,Alm.,0,6,Villa,197,1996,
+Tevringevej 12 5462 Morud,12,653000.0,08-11-1995,Alm.,3587,6,Villa,182,1963,
+Smørvråvej 5 5462 Morud,5,50000.0,04-10-1995,Fam.,0,6,Villa,174,1971,
+Skovbrynet 38 5462 Morud,38,112650.0,01-10-1995,Alm.,751,5,Villa,150,1996,
+Plantagevej 77 5462 Morud,77,120375.0,19-09-1995,Alm.,891,5,Villa,135,1995,
+Blæsbjergvej 61 5462 Morud,61,750000.0,01-09-1995,Alm.,0,8,Stuehus,333,1877,
+Plantagevej 8 5462 Morud,8,540000.0,28-08-1995,Alm.,5094,4,Villa,106,1973,
+Limkilde 6 5462 Morud,6,300000.0,22-08-1995,Alm.,1570,4,Villa,191,1999,
+Langesøvej 170 5462 Morud,170,1065000.0,18-08-1995,Alm.,5246,7,Villa,203,1914,
+Skovbrynet 6 5462 Morud,6,110700.0,03-08-1995,Alm.,820,5,Villa,135,1995,
+Bakkevej 10 5462 Morud,10,627000.0,04-07-1995,Alm.,0,4,Villa,250,1966,
+Tokkerodvej 32 5462 Morud,32,1170000.0,28-06-1995,Alm.,8666,4,Stuehus,135,1991,
+Farstrupvej 4 5462 Morud,4,820000.0,16-06-1995,Alm.,0,6,Stuehus,238,1882,
+Bakkevej 4B 5462 Morud,0,215000.0,16-06-1995,Fam.,2216,4,Rækkehus,97,1981,
+Skovbrynet 40 5462 Morud,40,112650.0,12-06-1995,Alm.,834,5,Villa,135,1995,
+Himmelstrupvej 68 5462 Morud,68,1106000.0,30-05-1995,Alm.,4787,6,Stuehus,231,1868,
+Bredbjergvej 42 5462 Morud,42,230000.0,12-04-1995,Alm.,1455,5,Villa,158,1996,
+Rugårdsvej 696 5462 Morud,696,1150000.0,28-03-1995,Alm.,7823,6,Stuehus,147,1952,
+Bredbjergvej 62 5462 Morud,62,500682.0,21-03-1995,Fam.,2503,6,Villa,200,1972,
+Sasserod 49 5462 Morud,49,229500.0,09-03-1995,Fam.,2868,3,Villa,80,1775,
+Rugårdsvej 748 5462 Morud,748,690400.0,06-03-1995,Alm.,3945,6,Villa,175,1922,
+Vædevej 60 5462 Morud,60,667219.0,20-12-1994,Fam.,6065,5,Stuehus,110,1947,
+Plantagevej 85 5462 Morud,85,195375.0,07-12-1994,Alm.,0,4,Villa,214,1996,
+Rugårdsvej 746 5462 Morud,746,958705.0,10-11-1994,Alm.,5810,8,Villa,165,1916,
+Jægerlunden 7 5462 Morud,7,650000.0,03-10-1994,Alm.,5603,4,Villa,116,1984,
+Rugårdsvej 720 5462 Morud,720,375000.0,27-09-1994,Alm.,1644,6,Villa,228,2003,
+Søndersøvej 264 5462 Morud,264,320000.0,29-08-1994,Alm.,2644,7,Villa,121,1960,
+Bakkevej 3 5462 Morud,3,485000.0,21-06-1994,Alm.,0,4,Villa,142,1967,
+Ruevej 24 5462 Morud,24,200000.0,07-06-1994,Alm.,0,6,Villa,130,1943,
+Rugårdsvej 716 5462 Morud,716,650000.0,06-06-1994,Alm.,0,4,Villa,68,1936,
+Bredbjergvej 58A 5462 Morud,0,1305183.0,17-05-1994,Alm.,9001,5,Villa,145,1985,
+Plantagevej 41 5462 Morud,41,979000.0,22-04-1994,Alm.,0,6,Villa,124,1986,
+Gammel Skolevej 10 5462 Morud,10,675000.0,12-04-1994,Alm.,3648,8,Villa,185,1827,
+Dalvej 10 5462 Morud,10,475000.0,31-03-1994,Alm.,3925,3,Villa,121,1969,
+Plantagevej 74 5462 Morud,74,525000.0,18-03-1994,Alm.,4605,4,Villa,114,1973,
+Blæsbjergvej 4 5462 Morud,4,393790.0,11-02-1994,Alm.,3823,3,Villa,103,1922,
+Bredbjergvej 60 5462 Morud,60,125000.0,09-02-1994,Alm.,811,5,Villa,154,1995,
+Møllebakken 5 5462 Morud,5,370000.0,03-02-1994,Alm.,0,6,Villa,132,1957,
+Gammel Skolevej 23 5462 Morud,23,505000.0,22-11-1993,Alm.,3300,3,Villa,153,1964,
+Havrehed 6 5462 Morud,6,707451.0,31-10-1993,Alm.,5659,5,Villa,125,1961,
+Rugårdsvej 801 5462 Morud,801,700000.0,29-10-1993,Alm.,0,6,Stuehus,144,1915,
+Bøgevangen 26 5462 Morud,26,1090000.0,19-10-1993,Alm.,0,8,Villa,175,1974,
+Fjællebjerg 11 5462 Morud,11,1151740.0,13-10-1993,Alm.,4218,7,Villa,273,1992,
+Jægerlunden 4 5462 Morud,4,850000.0,04-10-1993,Alm.,0,4,Villa,193,1986,
+Plantagevej 15 5462 Morud,15,530000.0,29-09-1993,Alm.,2717,6,Villa,195,1972,
+Plantagevej 38 5462 Morud,38,612000.0,01-09-1993,Alm.,3709,5,Villa,165,1971,
+Elverodvej 4 5462 Morud,4,410000.0,22-06-1993,Alm.,5616,5,Villa,73,1964,
+Bøgevangen 20 5462 Morud,20,500000.0,15-06-1993,Alm.,4273,4,Villa,117,1972,
+Plantagevej 25 5462 Morud,25,688234.0,13-06-1993,Alm.,5136,6,Villa,134,1972,
+Rue Hed 79 5462 Morud,79,1200000.0,11-06-1993,Alm.,7692,4,Stuehus,156,1909,
+Rue Hed 4 5462 Morud,4,344573.0,08-06-1993,Alm.,2610,4,Villa,132,1968,
+Elverodvej 36 5462 Morud,36,330000.0,28-05-1993,Alm.,2661,3,Villa,124,1994,
+Ruevej 48 5462 Morud,48,390000.0,24-05-1993,Alm.,0,5,Villa,128,1957,
+Ruevej 47 5462 Morud,47,148500.0,22-04-1993,Alm.,1427,5,Villa,104,1930,
+Jægerlunden 14 5462 Morud,14,723000.0,31-03-1993,Alm.,4303,5,Villa,168,1985,
+Søndersøvej 131 5462 Morud,131,625000.0,25-01-1993,Alm.,4464,7,Villa,140,1897,
+Blæsbjergvej 51 5462 Morud,51,1496073.0,05-01-1993,Alm.,0,6,Stuehus,203,1950,
+Ruevej 63 5462 Morud,63,950000.0,23-12-1992,Alm.,8796,4,Stuehus,108,1924,
+Plantagevej 83 5462 Morud,83,172500.0,04-08-1992,Alm.,0,4,Villa,129,1992,
+Bøgevangen 4 5462 Morud,4,755000.0,28-06-1992,Alm.,0,4,Villa,164,1973,
+Plantagevej 42 5462 Morud,42,543000.0,12-06-1992,Alm.,4242,4,Villa,128,1972,
+Blæsbjergvej 15 5462 Morud,15,570000.0,09-06-1992,Alm.,0,6,Villa,142,1855,
+Bredbjergvej 68 5462 Morud,68,1170000.0,28-04-1992,Alm.,6190,5,Villa,189,1980,
+Rugårdsvej 750 5462 Morud,750,440000.0,30-03-1992,Andet,3437,5,Villa,128,1936,
+Dalvej 3 5462 Morud,3,485000.0,26-02-1992,Alm.,4575,3,Villa,106,1970,
+Møllebakken 12 5462 Morud,12,680000.0,21-02-1992,Alm.,6868,3,Villa,99,1878,
+Bredbjergvej 132 5462 Morud,132,650000.0,19-02-1992,Alm.,4779,4,Villa,136,1980,
+Dalvej 14 5462 Morud,14,431000.0,28-01-1992,Alm.,3621,5,Villa,119,1967,
+Ruevej 62 5462 Morud,62,560000.0,24-01-1992,Alm.,0,5,Villa,184,1946,

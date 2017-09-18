@@ -1,0 +1,757 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Tårnbakken 45 4793 Bogø By,4793,375000.0,19-05-2017,Alm.,7812,2,Sommerhus,48,1971,
+Bogø Hovedgade 56 4793 Bogø By,4793,199000.0,24-04-2017,Alm.,1496,3,Villa,133,1925,
+Ålborgvej 35 4793 Bogø By,4793,4480000.0,20-03-2017,Fam.,17431,6,Stuehus,257,1900,
+Møllebakken 23 4793 Bogø By,4793,400000.0,13-03-2017,Alm.,4819,3,Sommerhus,83,1972,-33 %
+Strandbakken 74 4793 Bogø By,4793,575000.0,08-03-2017,Alm.,8582,3,Sommerhus,67,1970,
+Østkildevej 47 4793 Bogø By,4793,665000.0,06-03-2017,Alm.,13300,3,Sommerhus,50,1981,-4 %
+Stenkildevej 3 4793 Bogø By,4793,1250000.0,23-02-2017,Fam.,6648,5,Stuehus,188,1896,
+Østerskovvej 49 4793 Bogø By,4793,65000.0,02-02-2017,Alm.,580,5,Villa,112,1875,
+Akslen 1 4793 Bogø By,4793,420000.0,18-01-2017,Alm.,5384,5,Sommerhus,78,1980,-12 %
+Vesterskovvej 9 4793 Bogø By,4793,635000.0,17-01-2017,Alm.,6546,4,Villa,97,1917,-15 %
+Valsen 5 4793 Bogø By,4793,247500.0,29-12-2016,Alm.,5265,3,Sommerhus,47,1980,
+Østkildevej 37 4793 Bogø By,4793,635000.0,27-12-2016,Alm.,7383,3,Sommerhus,86,1985,-9 %
+Tårnbakken 1 4793 Bogø By,4793,385000.0,22-12-2016,Alm.,5923,4,Sommerhus,65,1973,-3 %
+Bogø Hovedgade 119 4793 Bogø By,4793,575000.0,02-12-2016,Fam.,3965,5,Villa,145,1912,
+Østkildevej 2 4793 Bogø By,4793,525000.0,26-11-2016,Alm.,9545,4,Sommerhus,55,1981,-12 %
+Nybygade 28 4793 Bogø By,4793,365000.0,09-11-2016,Auktion,3802,3,Villa,96,1972,
+Bogø Hovedgade 162 4793 Bogø By,4793,400000.0,29-10-2016,Alm.,3007,6,Villa,133,1900,-11 %
+Tragten 20 4793 Bogø By,4793,259962.0,28-10-2016,Alm.,3058,4,Sommerhus,85,1998,
+Møllebakken 28 4793 Bogø By,4793,640000.0,27-10-2016,Alm.,12075,3,Sommerhus,53,2008,-8 %
+Sejlet 26 4793 Bogø By,4793,1400000.0,26-10-2016,Alm.,18666,3,Sommerhus,75,2002,-10 %
+Højdedraget 46 4793 Bogø By,4793,645000.0,24-10-2016,Alm.,10078,3,Sommerhus,64,1977,-4 %
+Møllebakken 35 4793 Bogø By,4793,725000.0,21-10-2016,Alm.,9539,3,Sommerhus,76,1972,-9 %
+Mosedalen 66 4793 Bogø By,4793,495000.0,14-10-2016,Alm.,4950,5,Sommerhus,100,1976,-10 %
+Valsen 8 4793 Bogø By,4793,700000.0,21-09-2016,Alm.,11666,4,Sommerhus,60,1981,-6 %
+Vindrosen 10 4793 Bogø By,4793,430000.0,20-09-2016,Fam.,4387,3,Sommerhus,98,1979,
+Stenkildevej 1 4793 Bogø By,4793,20741650.0,13-09-2016,Fam.,112117,12,Stuehus,185,1880,
+Højdedraget 54 4793 Bogø By,4793,200000.0,17-08-2016,Alm.,5555,3,Sommerhus,36,2003,-20 %
+Fruekildevej 4 4793 Bogø By,4793,995000.0,12-08-2016,Alm.,10934,3,Sommerhus,91,2003,0 %
+Møllebakken 17 4793 Bogø By,4793,270000.0,10-08-2016,Alm.,4821,3,Sommerhus,56,1974,-8 %
+A Johnsons Vej 13 4793 Bogø By,4793,495000.0,11-07-2016,Alm.,6600,3,Villa,75,1967,0 %
+Sydgrænsen 20 4793 Bogø By,4793,360000.0,02-07-2016,Alm.,7200,3,Sommerhus,50,1979,-9 %
+Skovgårdsvej 10 4793 Bogø By,4793,1545000.0,30-06-2016,Alm.,11360,5,Villa,136,2000,0 %
+Bogø Hovedgade 103 4793 Bogø By,4793,285000.0,27-06-2016,Alm.,3000,4,Villa,95,1800,-28 %
+Bogø Hovedgade 12 4793 Bogø By,4793,1700000.0,23-05-2016,Alm.,9090,5,Villa,187,2000,-3 %
+A Johnsons Vej 12 4793 Bogø By,4793,1100000.0,09-05-2016,Alm.,11458,4,Villa,96,1977,-6 %
+Akslen 7 4793 Bogø By,4793,540000.0,25-04-2016,Alm.,9818,2,Sommerhus,55,1982,-17 %
+Kværnen 5 4793 Bogø By,4793,425000.0,09-04-2016,Alm.,9239,2,Sommerhus,46,1981,-14 %
+Valsen 33 4793 Bogø By,4793,1495000.0,15-03-2016,Alm.,18456,3,Sommerhus,81,2003,0 %
+Strandbakken 47 4793 Bogø By,4793,300000.0,09-03-2016,Alm.,3333,4,Sommerhus,90,1969,-20 %
+Tårnbakken 36 4793 Bogø By,4793,370000.0,29-02-2016,Alm.,5000,3,Sommerhus,74,1971,-6 %
+Akslen 4 4793 Bogø By,4793,550000.0,25-02-2016,Alm.,10185,3,Sommerhus,54,1979,-8 %
+Bogø Hovedgade 79 4793 Bogø By,4793,1042000.0,22-02-2016,Fam.,6512,5,Villa,160,1875,
+A Johnsons Vej 34 4793 Bogø By,4793,200000.0,12-02-2016,Alm.,3571,5,Sommerhus,56,1981,-20 %
+Østkildevej 75 4793 Bogø By,4793,400000.0,28-01-2016,Alm.,6896,3,Sommerhus,58,1976,
+Farøvej 20 4793 Bogø By,4793,1900000.0,12-01-2016,Alm.,10439,5,Villa,182,1908,
+Tragten 36 4793 Bogø By,4793,775000.0,23-12-2015,Alm.,14622,2,Sommerhus,53,1993,-3 %
+Bergsvej 15 4793 Bogø By,4793,962432.0,03-12-2015,Fam.,7182,3,Villa,134,1999,
+Tårnbakken 62 4793 Bogø By,4793,295000.0,27-11-2015,Alm.,4836,3,Sommerhus,61,1973,0 %
+Mosedalen 48 4793 Bogø By,4793,367000.0,13-11-2015,Alm.,5477,5,Sommerhus,67,1983,
+Akslen 11 4793 Bogø By,4793,688000.0,09-11-2015,Alm.,13490,3,Sommerhus,51,1999,-1 %
+Sejlet 21 4793 Bogø By,4793,935000.0,04-11-2015,Fam.,11835,3,Sommerhus,79,2001,
+Mosedalen 14 4793 Bogø By,4793,800000.0,03-11-2015,Alm.,11940,3,Sommerhus,67,2004,-6 %
+Smedestræde 5 4793 Bogø By,4793,575000.0,01-11-2015,Alm.,4600,5,Villa,125,1978,
+Farøvej 4 4793 Bogø By,4793,650000.0,24-10-2015,Alm.,5416,3,Stuehus,120,1875,
+Vindrosen 8 4793 Bogø By,4793,555000.0,17-10-2015,Alm.,7816,3,Sommerhus,71,1985,
+Grønsundvej 611 4793 Bogø By,4793,100000.0,01-10-2015,Fam.,617,6,Villa,162,1825,
+Østerskovvej 19 4793 Bogø By,4793,825000.0,30-09-2015,Alm.,7236,4,Villa,114,1961,-6 %
+Bogø Hovedgade 164 4793 Bogø By,4793,280000.0,21-09-2015,Alm.,2028,5,Villa,138,1910,
+Højdedraget 9 4793 Bogø By,4793,840000.0,18-09-2015,Fam.,8484,5,Sommerhus,99,1977,
+Tragten 9 4793 Bogø By,4793,1408000.0,18-09-2015,Alm.,11733,4,Sommerhus,120,2008,-6 %
+Skovgårdsvej 12 4793 Bogø By,4793,401950.0,18-09-2015,Fam.,3215,4,Villa,125,2000,
+Solbakkevej 4 4793 Bogø By,4793,1525000.0,10-09-2015,Alm.,10099,4,Villa,151,1971,-10 %
+Akslen 3 4793 Bogø By,4793,340000.0,28-08-2015,Alm.,8717,3,Sommerhus,39,1979,
+Bogø Hovedgade 138A 4793 Bogø By,4793,100000.0,19-08-2015,Auktion,740,5,Rækkehus,135,1866,
+Sydgrænsen 2 4793 Bogø By,4793,410000.0,15-08-2015,Alm.,8039,3,Sommerhus,51,1981,-8 %
+Mosedalen 30 4793 Bogø By,4793,75000.0,14-07-2015,Alm.,2027,2,Sommerhus,37,2011,
+Strandbakken 45 4793 Bogø By,4793,493000.0,14-07-2015,Fam.,8803,3,Sommerhus,56,1970,
+Bogø Hovedgade 6 4793 Bogø By,4793,295000.0,08-07-2015,Alm.,4338,4,Villa,68,1825,0 %
+Skovvangen 5 4793 Bogø By,4793,707000.0,03-07-2015,Fam.,5795,5,Villa,122,1961,
+Østkildevej 49 4793 Bogø By,4793,200000.0,01-07-2015,Alm.,3333,4,Sommerhus,60,1977,
+Bogø Hovedgade 146 4793 Bogø By,4793,393275.0,24-06-2015,Fam.,1687,6,Villa,233,1865,
+Strandbakken 30 4793 Bogø By,4793,416667.0,23-06-2015,Andet,8333,3,Sommerhus,50,1970,
+Strandbakken 10 4793 Bogø By,4793,595000.0,14-06-2015,Alm.,8500,3,Sommerhus,70,1973,0 %
+Vestergade 14 4793 Bogø By,4793,225000.0,07-06-2015,Alm.,3214,2,Villa,70,1895,-31 %
+Skåningevej 6 4793 Bogø By,4793,73965.0,31-05-2015,Alm.,366,3,Stuehus,202,1982,
+Skåningevej 5 4793 Bogø By,4793,175000.0,18-05-2015,Alm.,2611,4,Villa,67,1891,
+Tårnbakken 48 4793 Bogø By,4793,333770.0,13-05-2015,Andet,4635,4,Sommerhus,72,1978,-58 %
+Mosedalen 8 4793 Bogø By,4793,400000.0,07-05-2015,Alm.,5000,4,Sommerhus,80,1979,-6 %
+Smedestræde 15 4793 Bogø By,4793,735000.0,21-04-2015,Alm.,13363,3,Villa,55,1875,
+Omgangen 28 4793 Bogø By,4793,500000.0,29-03-2015,Alm.,9615,3,Sommerhus,52,1996,-16 %
+Tårnbakken 14 4793 Bogø By,4793,600000.0,21-03-2015,Alm.,7142,4,Sommerhus,84,2007,-7 %
+Bremavej 1 4793 Bogø By,4793,475000.0,12-03-2015,Alm.,3518,6,Villa,135,1875,
+Sydgrænsen 12 4793 Bogø By,4793,390000.0,10-03-2015,Alm.,5416,4,Sommerhus,72,1978,-13 %
+Tjørnedalsvej 7 4793 Bogø By,4793,714000.0,10-03-2015,Fam.,8925,4,Sommerhus,80,1941,
+Stenkildevej 2 4793 Bogø By,4793,350000.0,19-02-2015,Alm.,2800,4,Villa,125,1950,-29 %
+Skovgårdsvej 2 4793 Bogø By,4793,550000.0,29-01-2015,Alm.,5729,4,Villa,96,2000,0 %
+Skovgårdsvej 16 4793 Bogø By,4793,1145000.0,27-01-2015,Alm.,9621,4,Villa,119,2003,-4 %
+Strandbakken 90 4793 Bogø By,4793,800000.0,21-01-2015,Alm.,10256,4,Sommerhus,78,1977,-6 %
+Stenkildevej 5 4793 Bogø By,4793,675000.0,20-01-2015,Alm.,4272,6,Villa,158,1937,-10 %
+Bogø Hovedgade 96 4793 Bogø By,4793,800000.0,07-01-2015,Alm.,4571,5,Villa,175,1962,
+Nybygade 5 4793 Bogø By,4793,450000.0,24-12-2014,Alm.,4090,4,Villa,110,1875,
+Omgangen 25 4793 Bogø By,4793,606000.0,28-11-2014,Fam.,5050,5,Sommerhus,120,2006,
+Omgangen 11 4793 Bogø By,4793,412500.0,18-11-2014,Fam.,5357,3,Sommerhus,77,2004,
+Vesterskovvej 47 4793 Bogø By,4793,4100000.0,29-10-2014,Alm.,19158,6,Villa,214,1964,-37 %
+Bogø Hovedgade 62 4793 Bogø By,4793,230000.0,29-10-2014,Auktion,2555,4,Villa,90,1960,-54 %
+Omgangen 16 4793 Bogø By,4793,188000.0,16-10-2014,Alm.,4372,2,Sommerhus,43,1993,
+Skovvangen 1 4793 Bogø By,4793,725000.0,16-10-2014,Alm.,5178,4,Villa,140,1825,-9 %
+Møllebakken 63 4793 Bogø By,4793,500000.0,14-10-2014,Fam.,8333,4,Sommerhus,60,1972,
+Møllebakken 33 4793 Bogø By,4793,375000.0,29-09-2014,Alm.,4261,4,Sommerhus,88,2003,
+Møllebakken 36 4793 Bogø By,4793,255000.0,25-09-2014,Alm.,4250,3,Sommerhus,60,1968,-36 %
+Tragten 32 4793 Bogø By,4793,240000.0,23-09-2014,Alm.,2474,4,Sommerhus,97,2003,0 %
+Strandbakken 64 4793 Bogø By,4793,550000.0,01-09-2014,Alm.,9166,3,Sommerhus,60,1989,-8 %
+Bogø Hovedgade 106 4793 Bogø By,4793,1500000.0,01-09-2014,Alm.,13513,3,Villa,111,1800,
+Tårnbakken 33 4793 Bogø By,4793,490000.0,30-08-2014,Alm.,9074,3,Sommerhus,54,1971,-15 %
+Valsen 32 4793 Bogø By,4793,400000.0,30-08-2014,Alm.,8000,3,Sommerhus,50,1980,-16 %
+Vesterskovvej 43 4793 Bogø By,4793,625000.0,28-08-2014,Alm.,4340,3,Stuehus,144,1906,-37 %
+Møllebakken 26 4793 Bogø By,4793,1130000.0,21-08-2014,Alm.,17936,4,Sommerhus,63,2003,-5 %
+Bogø Hovedgade 32 4793 Bogø By,4793,285000.0,15-08-2014,Alm.,2794,3,Villa,102,1976,
+Møllebakken 68 4793 Bogø By,4793,321765.0,11-08-2014,Alm.,4233,4,Sommerhus,76,1970,
+Ålborgvej 15 4793 Bogø By,4793,700000.0,09-08-2014,Alm.,3804,8,Villa,184,1926,
+Østkildevej 63 4793 Bogø By,4793,780000.0,22-07-2014,Alm.,10833,3,Sommerhus,72,1998,-9 %
+Østkildevej 23 4793 Bogø By,4793,150000.0,09-07-2014,Alm.,5357,2,Sommerhus,28,1958,-62 %
+Valsen 2 4793 Bogø By,4793,350000.0,15-06-2014,Alm.,7000,4,Sommerhus,50,1982,-9 %
+Mosedalen 4 4793 Bogø By,4793,800000.0,05-06-2014,Alm.,8080,3,Sommerhus,99,1979,-6 %
+Bogø Hovedgade 23 4793 Bogø By,4793,1325000.0,01-06-2014,Alm.,9888,4,Villa,134,2004,-10 %
+Skovgårdsvej 20 4793 Bogø By,4793,1000000.0,22-04-2014,Alm.,4950,4,Villa,202,2009,-9 %
+Mosedalen 82 4793 Bogø By,4793,360000.0,11-04-2014,Alm.,4931,3,Sommerhus,73,1981,-9 %
+Grønsundvej 591 4793 Bogø By,4793,1700000.0,08-04-2014,Alm.,10967,5,Villa,155,1875,0 %
+Valsen 31 4793 Bogø By,4793,530000.0,29-03-2014,Alm.,7910,3,Sommerhus,67,1980,-18 %
+Højdedraget 25 4793 Bogø By,4793,291355.0,26-03-2014,Fam.,7106,2,Sommerhus,41,1978,
+Østkildevej 3 4793 Bogø By,4793,400000.0,22-03-2014,Alm.,6349,3,Sommerhus,63,1979,-20 %
+Hougårdsbanke 1 4793 Bogø By,4793,1000000.0,19-03-2014,Alm.,8474,6,Stuehus,118,1894,
+Strandbakken 33 4793 Bogø By,4793,550000.0,14-03-2014,Alm.,10000,3,Sommerhus,55,1975,
+Bogø Hovedgade 30 4793 Bogø By,4793,600000.0,12-03-2014,Alm.,4687,4,Villa,128,1964,-14 %
+Bogø Hovedgade 4 4793 Bogø By,4793,1500000.0,11-03-2014,Alm.,7537,5,Villa,199,1979,-9 %
+Højdedraget 21 4793 Bogø By,4793,545000.0,13-02-2014,Alm.,10480,3,Sommerhus,52,1980,0 %
+Tårnbakken 13 4793 Bogø By,4793,676000.0,02-02-2014,Alm.,5728,4,Sommerhus,118,1975,-10 %
+Højdedraget 34 4793 Bogø By,4793,950000.0,18-01-2014,Alm.,13768,3,Sommerhus,69,2005,-10 %
+Hougårdsbanke 3 4793 Bogø By,4793,2550000.0,11-12-2013,Alm.,10039,8,Stuehus,254,1875,
+Bogø Hovedgade 109 4793 Bogø By,4793,560000.0,11-12-2013,Alm.,3478,6,Villa,161,1921,-23 %
+Grønsundvej 605 4793 Bogø By,4793,498750.0,04-12-2013,Fam.,4493,4,Villa,111,1864,
+Bogø Hovedgade 141 4793 Bogø By,4793,290000.0,29-11-2013,Alm.,2132,6,Villa,136,1880,-17 %
+Bogø Hovedgade 100A 4793 Bogø By,4793,557500.0,14-11-2013,Fam.,4039,4,Villa,138,2005,
+Strandbakken 12 4793 Bogø By,4793,335000.0,01-11-2013,Alm.,9571,3,Sommerhus,35,1974,
+Gammelbystræde 11 4793 Bogø By,4793,775000.0,31-10-2013,Alm.,4353,7,Villa,178,1875,-13 %
+Strandbakken 53 4793 Bogø By,4793,900000.0,29-10-2013,Alm.,8256,4,Sommerhus,109,1974,-10 %
+Bogø Hovedgade 108 4793 Bogø By,4793,425000.0,23-10-2013,Auktion,2871,5,Villa,148,1895,
+Møllevænget 16 4793 Bogø By,4793,385000.0,22-10-2013,Alm.,1370,7,Villa,281,2015,
+Østkildevej 31 4793 Bogø By,4793,330000.0,15-10-2013,Alm.,5689,3,Sommerhus,58,1980,-6 %
+Sydgrænsen 3 4793 Bogø By,4793,790000.0,10-10-2013,Alm.,7596,4,Sommerhus,104,2003,-7 %
+Sejlet 8 4793 Bogø By,4793,490000.0,26-09-2013,Alm.,5505,4,Sommerhus,89,1984,-11 %
+Strandbakken 59 4793 Bogø By,4793,475000.0,12-09-2013,Alm.,7421,4,Sommerhus,64,1972,-4 %
+Smedestræde 26 4793 Bogø By,4793,734500.0,27-08-2013,Fam.,4346,4,Villa,169,2009,
+Møllebakken 40 4793 Bogø By,4793,438000.0,21-08-2013,Alm.,7180,5,Sommerhus,61,1971,
+Højdedraget 7 4793 Bogø By,4793,300000.0,15-08-2013,Alm.,5454,3,Sommerhus,55,1978,-14 %
+Gammelbystræde 1 4793 Bogø By,4793,325000.0,26-07-2013,Alm.,0,4,Villa,113,1933,
+Valsen 38 4793 Bogø By,4793,1435000.0,23-07-2013,Alm.,15105,4,Sommerhus,95,2009,-13 %
+Mosedalen 10 4793 Bogø By,4793,350000.0,10-07-2013,Alm.,5645,3,Sommerhus,62,1979,-11 %
+Mosedalen 68 4793 Bogø By,4793,995000.0,28-06-2013,Alm.,9567,4,Sommerhus,104,2006,0 %
+Vestergade 16 4793 Bogø By,4793,218036.0,06-06-2013,Auktion,1473,6,Villa,148,1885,-60 %
+Østkildevej 40 4793 Bogø By,4793,155000.0,31-05-2013,Alm.,0,3,Sommerhus,62,2014,
+Østkildevej 20 4793 Bogø By,4793,350000.0,30-05-2013,Alm.,4022,3,Sommerhus,87,1982,0 %
+Nybygade 7 4793 Bogø By,4793,150000.0,30-05-2013,Alm.,2083,4,Villa,72,1930,-61 %
+Strandbakken 49 4793 Bogø By,4793,467500.0,01-05-2013,Fam.,8201,4,Sommerhus,57,1970,
+Møllebakken 5 4793 Bogø By,4793,360000.0,11-04-2013,Auktion,3750,3,Sommerhus,96,1979,-20 %
+Mosedalen 12 4793 Bogø By,4793,426367.0,10-04-2013,Auktion,6661,2,Sommerhus,64,2005,
+Smedestræde 3 4793 Bogø By,4793,200000.0,08-04-2013,Alm.,1694,6,Villa,118,1890,-64 %
+Tragten 14 4793 Bogø By,4793,430000.0,07-04-2013,Alm.,7678,3,Sommerhus,56,1981,-4 %
+Nybygade 4 4793 Bogø By,4793,150000.0,13-03-2013,Alm.,1851,3,Villa,81,1895,
+Østkildevej 55 4793 Bogø By,4793,1235000.0,13-03-2013,Alm.,11227,4,Sommerhus,110,2006,-5 %
+Galgebakken 5 4793 Bogø By,4793,850000.0,14-02-2013,Alm.,7522,4,Villa,113,1987,-15 %
+Skovgårdsvej 32 4793 Bogø By,4793,1150000.0,08-02-2013,Alm.,6216,5,Villa,185,2004,-10 %
+Kværnen 37 4793 Bogø By,4793,330000.0,03-01-2013,Alm.,6000,4,Sommerhus,55,1980,-52 %
+Højdedraget 32 4793 Bogø By,4793,540000.0,13-11-2012,Alm.,8852,3,Sommerhus,61,1980,
+Søvangsvej 4 4793 Bogø By,4793,800000.0,13-11-2012,Andet,5714,4,Villa,140,1875,
+Bogø Hovedgade 65 4793 Bogø By,4793,338000.0,13-11-2012,Alm.,3797,3,Villa,89,1875,-10 %
+Søvangsvej 25 4793 Bogø By,4793,1200000.0,08-11-2012,Alm.,0,3,Sommerhus,60,1978,-14 %
+Vesternæsvej 4 4793 Bogø By,4793,402500.0,26-10-2012,Alm.,3194,5,Villa,126,1919,
+Smedestræde 17 4793 Bogø By,4793,1450000.0,22-10-2012,Alm.,10139,3,Villa,143,1902,-9 %
+Bogø Hovedgade 40 4793 Bogø By,4793,4250000.0,18-10-2012,Alm.,15625,9,Villa,272,1790,
+Ålborgvej 26 4793 Bogø By,4793,625000.0,17-10-2012,Alm.,6009,3,Villa,104,1963,-21 %
+Kværnen 18 4793 Bogø By,4793,900000.0,10-10-2012,Alm.,18000,3,Sommerhus,50,1996,-5 %
+Tårnbakken 38 4793 Bogø By,4793,575000.0,26-09-2012,Alm.,8582,4,Sommerhus,67,1973,-17 %
+Bogø Hovedgade 107A 4793 Bogø By,4793,750000.0,17-09-2012,Alm.,5769,5,Villa,130,1895,-12 %
+Østkildevej 44 4793 Bogø By,4793,375000.0,13-09-2012,Alm.,7211,3,Sommerhus,52,2003,
+Kværnen 12 4793 Bogø By,4793,505000.0,30-08-2012,Alm.,7112,4,Sommerhus,71,2005,6 %
+Valsen 35 4793 Bogø By,4793,770000.0,23-08-2012,Alm.,12622,4,Sommerhus,61,1993,-2 %
+Omgangen 22 4793 Bogø By,4793,500000.0,22-08-2012,Alm.,8196,3,Sommerhus,61,1980,-9 %
+Grønsundvej 612 4793 Bogø By,4793,800000.0,21-08-2012,Fam.,3433,5,Villa,233,1925,-63 %
+Højdedraget 8 4793 Bogø By,4793,495000.0,10-08-2012,Alm.,10760,3,Sommerhus,46,1994,0 %
+Smedestræde 31 4793 Bogø By,4793,837500.0,27-07-2012,Alm.,6025,5,Villa,139,1915,-1 %
+Østerskovvej 26 4793 Bogø By,4793,535500.0,09-07-2012,Alm.,5578,2,Villa,96,1965,
+Omgangen 35 4793 Bogø By,4793,489760.0,14-06-2012,Fam.,9795,3,Sommerhus,50,2000,
+Bogø Hovedgade 134 4793 Bogø By,4793,620000.0,16-05-2012,Auktion,12400,13,Servicevirksomhed,50,1800,
+Vindrosen 13 4793 Bogø By,4793,400000.0,25-04-2012,Alm.,6666,3,Sommerhus,60,1995,-38 %
+Bogø Hovedgade 110 4793 Bogø By,4793,850000.0,31-03-2012,Alm.,4166,6,Villa,204,1900,-43 %
+Kværnen 33 4793 Bogø By,4793,720000.0,30-03-2012,Alm.,13584,3,Sommerhus,53,1983,0 %
+A Johnsons Vej 24 4793 Bogø By,4793,595000.0,29-03-2012,Alm.,8623,3,Villa,69,1972,0 %
+Vesterskovvej 19 4793 Bogø By,4793,120000.0,28-03-2012,Auktion,1000,5,Villa,120,1967,
+A Johnsons Vej 38 4793 Bogø By,4793,925000.0,23-03-2012,Alm.,11708,4,Sommerhus,79,1989,
+Østkildevej 26 4793 Bogø By,4793,745000.0,02-03-2012,Alm.,9551,3,Sommerhus,78,2006,0 %
+Højdedraget 26 4793 Bogø By,4793,300000.0,02-02-2012,Alm.,6122,2,Sommerhus,49,1945,-50 %
+Østkildevej 7 4793 Bogø By,4793,400000.0,09-01-2012,Alm.,7547,3,Sommerhus,53,1977,-27 %
+Fruekildevej 13 4793 Bogø By,4793,3401344.0,20-12-2011,Fam.,22675,6,Stuehus,150,1800,
+Østkildevej 18 4793 Bogø By,4793,398000.0,08-12-2011,Alm.,7960,3,Sommerhus,50,2000,
+Valsen 9 4793 Bogø By,4793,795000.0,14-11-2011,Alm.,13947,3,Sommerhus,57,1999,0 %
+Sydgrænsen 5 4793 Bogø By,4793,150000.0,10-11-2011,Alm.,1442,4,Sommerhus,104,2014,-19 %
+Strandbakken 52 4793 Bogø By,4793,845000.0,13-10-2011,Alm.,9494,3,Sommerhus,89,1970,-6 %
+Bogø Hovedgade 105 4793 Bogø By,4793,430000.0,04-10-2011,Fam.,2402,5,Villa,179,1871,
+Søvangsvej 5 4793 Bogø By,4793,900000.0,18-09-2011,Alm.,6122,4,Villa,147,1800,-25 %
+Tårnbakken 9 4793 Bogø By,4793,450000.0,14-09-2011,Alm.,6716,3,Sommerhus,67,1974,-24 %
+Skåningevej 9 4793 Bogø By,4793,2600000.0,18-08-2011,Alm.,14857,5,Stuehus,175,1875,4 %
+Møllebakken 18 4793 Bogø By,4793,375000.0,17-08-2011,Alm.,6818,3,Sommerhus,55,1973,-24 %
+Tragten 5 4793 Bogø By,4793,1650000.0,12-08-2011,Alm.,15000,4,Sommerhus,110,2005,0 %
+Østkildevej 28 4793 Bogø By,4793,453333.0,08-08-2011,Fam.,8717,3,Sommerhus,52,2007,
+Bogø Hovedgade 107B 4793 Bogø By,4793,1270000.0,13-07-2011,Alm.,5990,6,Villa,212,1989,-6 %
+Vesterskovvej 35 4793 Bogø By,4793,1900000.0,27-06-2011,Alm.,11801,6,Villa,161,1898,-9 %
+Østkildevej 42 4793 Bogø By,4793,695000.0,15-06-2011,Alm.,9266,3,Sommerhus,75,1976,-5 %
+Bogø Hovedgade 136 4793 Bogø By,4793,355000.0,01-06-2011,Alm.,1972,6,Villa,180,1900,
+Højdedraget 19 4793 Bogø By,4793,285000.0,30-05-2011,Alm.,3352,4,Sommerhus,85,2012,-19 %
+Tragten 27 4793 Bogø By,4793,1695000.0,24-05-2011,Alm.,15409,4,Sommerhus,110,2011,6 %
+Tårnbakken 47 4793 Bogø By,4793,495000.0,29-04-2011,Alm.,6187,3,Sommerhus,80,1972,0 %
+Østkildevej 38 4793 Bogø By,4793,675000.0,04-04-2011,Alm.,13235,2,Sommerhus,51,1977,-3 %
+Østerskovvej 11 4793 Bogø By,4793,600000.0,23-03-2011,Alm.,3797,6,Villa,158,1927,-14 %
+Bogø Hovedgade 124 4793 Bogø By,4793,220000.0,23-03-2011,Auktion,1325,7,Villa,166,1900,
+Strandbakken 34 4793 Bogø By,4793,495000.0,02-03-2011,Alm.,9166,4,Sommerhus,54,1970,-7 %
+Tårnbakken 17 4793 Bogø By,4793,750000.0,21-02-2011,Alm.,13392,3,Sommerhus,56,2005,-6 %
+Strandbakken 96 4793 Bogø By,4793,750000.0,19-02-2011,Alm.,15000,3,Sommerhus,50,1971,-6 %
+Østerskovvej 40 4793 Bogø By,4793,1200000.0,18-01-2011,Alm.,13953,3,Villa,86,1845,-14 %
+Vesterskovvej 14 4793 Bogø By,4793,1100000.0,30-12-2010,Alm.,0,7,Villa,240,1825,-12 %
+Kværnen 4 4793 Bogø By,4793,245000.0,25-12-2010,Alm.,2333,5,Sommerhus,105,2016,
+Tragten 17 4793 Bogø By,4793,1120000.0,21-12-2010,Alm.,14000,4,Sommerhus,80,1992,-11 %
+Bakkedraget 14 4793 Bogø By,4793,350000.0,15-12-2010,Alm.,2272,5,Villa,154,1820,
+Søvangsvej 23 4793 Bogø By,4793,920000.0,15-12-2010,Alm.,11358,4,Sommerhus,81,2012,-63 %
+Farøvej 18 4793 Bogø By,4793,1100000.0,30-11-2010,Alm.,4508,4,Stuehus,244,2016,
+Højdedraget 14 4793 Bogø By,4793,39450.0,02-11-2010,Fam.,383,4,Sommerhus,103,2011,
+Jørgensmindevej 3 4793 Bogø By,4793,600000.0,14-10-2010,Alm.,7792,3,Villa,77,1961,-14 %
+Valsen 30 4793 Bogø By,4793,1025000.0,13-10-2010,Alm.,14236,3,Sommerhus,72,2010,-6 %
+Vindrosen 5 4793 Bogø By,4793,900000.0,05-10-2010,Alm.,11250,3,Sommerhus,80,2005,-10 %
+Vesternæsvej 7 4793 Bogø By,4793,1950000.0,03-10-2010,Alm.,9285,7,Stuehus,210,1928,0 %
+Møllebakken 42 4793 Bogø By,4793,383000.0,20-09-2010,Alm.,6963,2,Sommerhus,55,1977,
+Omgangen 24 4793 Bogø By,4793,1400000.0,17-09-2010,Alm.,15053,4,Sommerhus,93,2009,-6 %
+Østkildevej 12 4793 Bogø By,4793,625000.0,17-09-2010,Alm.,13888,3,Sommerhus,45,1978,-4 %
+Søvangsvej 28 4793 Bogø By,4793,980000.0,13-09-2010,Fam.,14000,4,Sommerhus,70,2004,
+Jørgensmindevej 5 4793 Bogø By,4793,375000.0,01-09-2010,Auktion,2358,6,Villa,159,1965,-24 %
+Sejlet 17 4793 Bogø By,4793,1920000.0,28-07-2010,Alm.,21333,3,Sommerhus,90,1999,-4 %
+Bogø Hovedgade 54 4793 Bogø By,4793,500000.0,14-07-2010,Alm.,4273,3,Villa,117,1923,
+A Johnsons Vej 17 4793 Bogø By,4793,425000.0,04-06-2010,Fam.,3079,4,Villa,138,1967,
+Højdedraget 17 4793 Bogø By,4793,1300000.0,01-06-2010,Alm.,13402,4,Sommerhus,97,2003,0 %
+Mosedalen 50 4793 Bogø By,4793,675000.0,19-05-2010,Alm.,12735,3,Sommerhus,53,1995,-7 %
+Strandbakken 27 4793 Bogø By,4793,1145000.0,17-05-2010,Alm.,17615,3,Sommerhus,65,1973,
+Møllebakken 37 4793 Bogø By,4793,725000.0,07-05-2010,Alm.,13942,2,Sommerhus,52,1970,
+Bogø Hovedgade 2 4793 Bogø By,4793,637140.0,02-05-2010,Alm.,4455,4,Villa,143,1994,
+Skovgårdsvej 34 4793 Bogø By,4793,302804.0,26-04-2010,Fam.,2117,6,Villa,143,2002,
+Tårnbakken 18 4793 Bogø By,4793,640000.0,23-04-2010,Alm.,13617,3,Sommerhus,47,1972,-5 %
+Vestergade 7 4793 Bogø By,4793,395000.0,22-04-2010,Alm.,4817,3,Villa,82,1870,0 %
+Møllebakken 64 4793 Bogø By,4793,1075000.0,24-03-2010,Alm.,15357,4,Sommerhus,70,2003,-2 %
+Tårnbakken 39 4793 Bogø By,4793,650000.0,22-03-2010,Alm.,15116,2,Sommerhus,43,1974,0 %
+Vestergade 12 4793 Bogø By,4793,400000.0,17-03-2010,Auktion,5128,5,Villa,78,1900,-33 %
+Vesterskovvej 2 4793 Bogø By,4793,900000.0,10-03-2010,Alm.,0,4,Villa,111,1800,
+Strandbakken 84 4793 Bogø By,4793,1000000.0,02-02-2010,Alm.,12048,4,Sommerhus,83,1969,-9 %
+Jørgensmindevej 7 4793 Bogø By,4793,250000.0,26-01-2010,Alm.,1712,4,Villa,146,2010,-23 %
+Vesterskovvej 4 4793 Bogø By,4793,2200000.0,15-12-2009,Alm.,22916,5,Stuehus,96,1900,
+Møllebakken 20 4793 Bogø By,4793,735000.0,07-12-2009,Alm.,13611,3,Sommerhus,54,1972,-8 %
+Skåningevej 8 4793 Bogø By,4793,1062500.0,25-11-2009,Fam.,5059,6,Stuehus,210,1900,
+Grønsundvej 602 4793 Bogø By,4793,2850000.0,30-10-2009,Alm.,22800,4,Stuehus,125,1875,
+Solbakkevej 6 4793 Bogø By,4793,631359.0,25-10-2009,Alm.,4073,5,Villa,155,1974,-55 %
+Bergsvej 1 4793 Bogø By,4793,1850000.0,24-10-2009,Alm.,11011,7,Villa,168,1927,-7 %
+Udsigten 7 4793 Bogø By,4793,1450000.0,06-09-2009,Alm.,10357,5,Villa,140,2007,-11 %
+Mosedalen 70 4793 Bogø By,4793,225000.0,17-08-2009,Alm.,2922,3,Sommerhus,77,2015,-10 %
+Grønsundvej 603 4793 Bogø By,4793,2100000.0,30-07-2009,Alm.,12000,8,Stuehus,175,1800,
+Ålborgvej 7 4793 Bogø By,4793,550000.0,24-07-2009,Alm.,6547,3,Villa,84,1870,-15 %
+Mosedalen 18 4793 Bogø By,4793,400000.0,17-07-2009,Alm.,3883,4,Sommerhus,103,2010,
+Søvangsvej 27 4793 Bogø By,4793,629000.0,07-07-2009,Fam.,17000,2,Sommerhus,37,1952,
+Strandbakken 57 4793 Bogø By,4793,700000.0,02-07-2009,Alm.,9090,3,Sommerhus,77,1973,-12 %
+Bogø Hovedgade 10A 4793 Bogø By,4793,862126.0,30-06-2009,Alm.,6292,4,Rækkehus,137,1943,
+Bogø Hovedgade 82A 4793 Bogø By,4793,450000.0,27-05-2009,Auktion,8181,3,Anden beboelse,55,1925,
+Vesterskovvej 5 4793 Bogø By,4793,600000.0,26-05-2009,Alm.,0,3,Villa,77,1825,-25 %
+Smedestræde 14 4793 Bogø By,4793,107701.0,18-05-2009,Fam.,1495,4,Villa,72,1950,
+Vesterskovvej 51 4793 Bogø By,4793,3850000.0,14-05-2009,Auktion,18965,5,Stuehus,203,1875,
+Ålborgvej 8 4793 Bogø By,4793,800000.0,22-04-2009,Alm.,6153,4,Villa,130,1915,-33 %
+Bogø Hovedgade 92 4793 Bogø By,4793,635000.0,10-04-2009,Alm.,6287,4,Villa,101,1900,-12 %
+Farøvej 5 4793 Bogø By,4793,2325000.0,26-03-2009,Alm.,21136,5,Stuehus,110,1860,-22 %
+Vesterskovvej 15 4793 Bogø By,4793,703771.0,26-03-2009,Alm.,4454,5,Villa,158,1912,-62 %
+Sejlet 22 4793 Bogø By,4793,1000000.0,11-03-2009,Alm.,12345,3,Sommerhus,81,2002,-26 %
+Østkildevej 35 4793 Bogø By,4793,630000.0,27-02-2009,Alm.,8630,3,Sommerhus,73,1977,-18 %
+Østkildevej 33 4793 Bogø By,4793,350000.0,22-02-2009,Alm.,0,5,Sommerhus,98,1977,-11 %
+Nybygade 20 4793 Bogø By,4793,700000.0,10-02-2009,Alm.,6666,3,Villa,105,1900,-12 %
+Vestergade 8 4793 Bogø By,4793,1500000.0,20-01-2009,Alm.,11627,5,Villa,129,1933,
+Østerskovvej 4A 4793 Bogø By,4793,960000.0,21-12-2008,Alm.,3453,8,Villa,278,1915,
+Smedestræde 21 4793 Bogø By,4793,21534.0,11-12-2008,Auktion,458,3,Villa,47,1750,
+Vesterskovvej 1 4793 Bogø By,4793,680000.0,11-11-2008,Fam.,5312,5,Villa,128,1900,
+Bogø Hovedgade 95 4793 Bogø By,4793,722500.0,11-11-2008,Fam.,5971,5,Villa,121,1924,
+Omgangen 14 4793 Bogø By,4793,650000.0,26-10-2008,Alm.,12745,4,Sommerhus,51,1982,-12 %
+Vindrosen 20 4793 Bogø By,4793,664000.0,12-10-2008,Alm.,11857,4,Sommerhus,56,1987,-14 %
+Møllebakken 60 4793 Bogø By,4793,895000.0,11-10-2008,Alm.,11329,4,Sommerhus,79,1974,0 %
+Ålborgvej 22 4793 Bogø By,4793,550000.0,01-10-2008,Alm.,4583,5,Villa,120,1960,-31 %
+Stenkildevej 7 4793 Bogø By,4793,1415000.0,30-09-2008,Alm.,8575,4,Villa,165,1900,
+Smedestræde 20 4793 Bogø By,4793,695000.0,15-09-2008,Alm.,6950,3,Villa,100,1961,-13 %
+Tårnbakken 34 4793 Bogø By,4793,600000.0,01-09-2008,Alm.,7142,4,Sommerhus,84,1971,-7 %
+Bogø Hovedgade 149 4793 Bogø By,4793,700000.0,19-08-2008,Alm.,9459,4,Villa,74,1929,-7 %
+Nybygade 6 4793 Bogø By,4793,2300000.0,15-08-2008,Alm.,14649,5,Villa,157,2006,-8 %
+Smedestræde 18 4793 Bogø By,4793,750000.0,31-07-2008,Alm.,7211,4,Villa,104,1960,-14 %
+Tårnbakken 37 4793 Bogø By,4793,900000.0,29-07-2008,Alm.,18000,3,Sommerhus,50,1974,-3 %
+Tragten 19 4793 Bogø By,4793,972586.0,24-07-2008,Fam.,0,3,Sommerhus,68,1993,
+Møllebakken 12 4793 Bogø By,4793,375000.0,01-07-2008,Fam.,5859,2,Sommerhus,64,2009,
+Bogø Hovedgade 51 4793 Bogø By,4793,1000000.0,16-06-2008,Fam.,6329,4,Villa,158,1800,
+Bogø Hovedgade 28 4793 Bogø By,4793,1200000.0,28-05-2008,Alm.,11320,5,Villa,106,1910,-6 %
+Farø Vad 5 4793 Bogø By,4793,2400000.0,20-04-2008,Alm.,21052,5,Stuehus,114,1887,-11 %
+Bogø Hovedgade 71 4793 Bogø By,4793,1395000.0,17-04-2008,Alm.,9300,5,Villa,150,1915,-7 %
+Bogø Hovedgade 155 4793 Bogø By,4793,525000.0,16-04-2008,Alm.,5000,4,Villa,105,1800,-12 %
+Møllebakken 9 4793 Bogø By,4793,855000.0,09-04-2008,Alm.,10301,4,Sommerhus,83,1980,-10 %
+Bogø Hovedgade 169 4793 Bogø By,4793,1900000.0,14-02-2008,Alm.,8837,8,Villa,215,1901,-5 %
+Møllebakken 38 4793 Bogø By,4793,549000.0,13-02-2008,Fam.,11204,3,Sommerhus,49,1972,-16 %
+Bogø Hovedgade 153 4793 Bogø By,4793,700000.0,07-02-2008,Alm.,6542,6,Villa,107,1702,
+Vindrosen 9 4793 Bogø By,4793,1500000.0,24-01-2008,Alm.,16129,4,Sommerhus,93,2004,0 %
+Sydgrænsen 8 4793 Bogø By,4793,300000.0,23-12-2007,Alm.,2631,4,Sommerhus,114,2010,-14 %
+Kværnen 23 4793 Bogø By,4793,1260000.0,14-12-2007,Alm.,17746,3,Sommerhus,71,2005,-10 %
+Tårnbakken 20 4793 Bogø By,4793,675000.0,09-12-2007,Alm.,16875,3,Sommerhus,40,1973,
+Tragten 18 4793 Bogø By,4793,1366200.0,21-11-2007,Alm.,19242,4,Sommerhus,71,2001,-8 %
+Østerskovvej 33 4793 Bogø By,4793,1061958.0,20-11-2007,Alm.,7808,7,Villa,136,1874,
+Tårnbakken 67 4793 Bogø By,4793,735000.0,19-11-2007,Alm.,14411,3,Sommerhus,51,1974,-8 %
+Sydgrænsen 1 4793 Bogø By,4793,625000.0,15-11-2007,Alm.,9328,4,Sommerhus,67,1976,-17 %
+Østkildevej 11 4793 Bogø By,4793,1150000.0,12-11-2007,Alm.,16428,3,Sommerhus,70,2000,
+Sejlet 24 4793 Bogø By,4793,750000.0,09-10-2007,Alm.,7281,3,Sommerhus,103,2008,
+Strandbakken 7 4793 Bogø By,4793,680000.0,27-09-2007,Alm.,16190,3,Sommerhus,42,1972,-14 %
+Bogø Hovedgade 138B 4793 Bogø By,4793,685000.0,02-09-2007,Alm.,5436,5,Rækkehus,126,1866,
+Jørgensmindevej 2 4793 Bogø By,4793,700000.0,30-08-2007,Alm.,4242,5,Villa,165,1900,
+Bogø Hovedgade 126 4793 Bogø By,4793,1995000.0,18-08-2007,Alm.,0,6,Villa,160,1830,0 %
+Vesternæsvej 2 4793 Bogø By,4793,739500.0,30-07-2007,Fam.,5602,5,Villa,132,1912,
+Smedestræde 1 4793 Bogø By,4793,625000.0,26-07-2007,Alm.,5252,4,Villa,119,1925,
+Vesterskovvej 33 4793 Bogø By,4793,2300000.0,21-07-2007,Alm.,12169,5,Villa,189,1880,-4 %
+Tårnbakken 50 4793 Bogø By,4793,650000.0,13-07-2007,Alm.,0,3,Sommerhus,70,1973,-18 %
+Møllebakken 41 4793 Bogø By,4793,1600000.0,07-07-2007,Alm.,17204,4,Sommerhus,93,2006,-3 %
+Søvangsvej 20 4793 Bogø By,4793,540000.0,23-06-2007,Fam.,10800,3,Sommerhus,50,1974,
+Møllebakken 55 4793 Bogø By,4793,700000.0,17-06-2007,Fam.,12500,3,Sommerhus,56,1973,
+Østerskovvej 27A 4793 Bogø By,4793,1000000.0,14-05-2007,Fam.,8000,6,Villa,125,1967,
+Bogø Hovedgade 10B 4793 Bogø By,4793,1335000.0,12-05-2007,Alm.,11125,4,Rækkehus,120,1943,-3 %
+Strandbakken 9 4793 Bogø By,4793,1150000.0,27-04-2007,Alm.,17968,4,Sommerhus,64,1972,-8 %
+Møllebakken 45 4793 Bogø By,4793,1150000.0,23-04-2007,Alm.,18548,3,Sommerhus,62,1972,0 %
+Østerskovvej 23 4793 Bogø By,4793,1500000.0,02-04-2007,Alm.,10869,5,Villa,138,1885,-5 %
+A Johnsons Vej 15 4793 Bogø By,4793,2300000.0,29-03-2007,Alm.,18253,4,Villa,126,1966,-5 %
+Strandbakken 44 4793 Bogø By,4793,360000.0,24-02-2007,Alm.,3956,4,Sommerhus,91,2000,
+Møllebakken 19 4793 Bogø By,4793,850000.0,23-02-2007,Alm.,12500,3,Sommerhus,68,1973,
+Valsen 17 4793 Bogø By,4793,375000.0,21-02-2007,Alm.,5136,4,Sommerhus,73,2008,
+Fruekildevej 15 4793 Bogø By,4793,2890000.0,15-02-2007,Fam.,14029,8,Stuehus,206,1916,
+Vesternæsvej 1 4793 Bogø By,4793,1188500.0,03-02-2007,Fam.,10334,5,Stuehus,115,1880,
+Bergsvej 11 4793 Bogø By,4793,350000.0,10-01-2007,Alm.,2536,4,Villa,138,2008,
+Bogø Hovedgade 112 4793 Bogø By,4793,460000.0,04-01-2007,Alm.,0,4,Servicevirksomhed,60,1895,
+Højdedraget 24 4793 Bogø By,4793,695000.0,25-11-2006,Alm.,16951,3,Sommerhus,41,1987,
+Østerskovvej 6 4793 Bogø By,4793,1150000.0,19-10-2006,Alm.,6647,5,Villa,173,1886,
+Fruekildevej 8 4793 Bogø By,4793,1900000.0,17-10-2006,Alm.,13194,6,Villa,144,1875,
+Bogø Hovedgade 77 4793 Bogø By,4793,1175000.0,29-09-2006,Alm.,8703,5,Villa,135,1889,
+Strandbakken 68 4793 Bogø By,4793,48000.0,15-09-2006,Fam.,494,4,Sommerhus,97,2007,
+Strandbakken 70 4793 Bogø By,4793,48000.0,15-09-2006,Fam.,494,4,Sommerhus,97,2007,
+Østerskovvej 14 4793 Bogø By,4793,326565.0,11-09-2006,Andet,4082,3,Villa,80,1900,
+Bogø Hovedgade 135 4793 Bogø By,4793,795000.0,23-08-2006,Alm.,6516,5,Villa,122,1900,
+Jørgensmindevej 9 4793 Bogø By,4793,1550000.0,18-08-2006,Alm.,10839,5,Villa,143,1969,
+Tragten 6 4793 Bogø By,4793,350000.0,01-08-2006,Alm.,6363,3,Sommerhus,55,2007,
+Akslen 6 4793 Bogø By,4793,449000.0,18-07-2006,Alm.,5756,4,Sommerhus,78,2007,
+Bogø Hovedgade 98 4793 Bogø By,4793,1145000.0,10-07-2006,Alm.,11450,3,Villa,100,1825,
+Kværnen 8 4793 Bogø By,4793,1800000.0,09-06-2006,Alm.,19780,4,Sommerhus,91,2004,
+Smedestræde 2 4793 Bogø By,4793,990000.0,24-05-2006,Alm.,4647,5,Villa,213,1885,
+Tårnbakken 5 4793 Bogø By,4793,1100000.0,23-05-2006,Alm.,14285,4,Sommerhus,77,1974,
+Tragten 1 4793 Bogø By,4793,825000.0,19-05-2006,Alm.,9593,4,Sommerhus,86,1997,
+Strandbakken 24 4793 Bogø By,4793,450000.0,05-05-2006,Alm.,5172,2,Sommerhus,87,2011,
+A Johnsons Vej 26 4793 Bogø By,4793,1200000.0,03-05-2006,Alm.,16000,3,Sommerhus,75,1997,
+Vesterskovvej 41 4793 Bogø By,4793,990000.0,02-05-2006,Fam.,6387,7,Stuehus,155,1773,
+Østerskovvej 39 4793 Bogø By,4793,1330000.0,28-04-2006,Alm.,8636,5,Villa,154,1824,
+Østerskovvej 42 4793 Bogø By,4793,2400000.0,26-04-2006,Alm.,14814,8,Villa,162,1897,
+Møllebakken 53 4793 Bogø By,4793,645000.0,24-04-2006,Alm.,12900,3,Sommerhus,50,1973,
+Tårnbakken 22 4793 Bogø By,4793,810000.0,20-04-2006,Alm.,13728,3,Sommerhus,59,1973,
+Nybygade 22 4793 Bogø By,4793,795000.0,20-04-2006,Alm.,15900,2,Rækkehus,50,1890,
+Vestergade 9B 4793 Bogø By,4793,1020000.0,12-04-2006,Alm.,12750,4,Villa,80,1800,
+Skovgårdsvej 24 4793 Bogø By,4793,11720.0,10-04-2006,Alm.,58,4,Villa,199,2007,
+Valsen 29 4793 Bogø By,4793,1250000.0,04-04-2006,Alm.,21186,3,Sommerhus,59,2003,
+Kværnen 47 4793 Bogø By,4793,1100000.0,28-03-2006,Alm.,11956,5,Sommerhus,92,1980,
+Møllebakken 69 4793 Bogø By,4793,790000.0,13-03-2006,Alm.,12153,3,Sommerhus,65,1970,
+Tårnbakken 7 4793 Bogø By,4793,400000.0,16-02-2006,Alm.,7407,4,Sommerhus,54,1973,
+Strandbakken 80 4793 Bogø By,4793,1590000.0,07-02-2006,Alm.,18068,3,Sommerhus,88,2005,
+Kværnen 31 4793 Bogø By,4793,350000.0,04-02-2006,Alm.,4729,3,Sommerhus,74,2008,
+Bogø Hovedgade 76 4793 Bogø By,4793,1306500.0,10-01-2006,Alm.,12097,5,Villa,108,1800,
+Bogø Hovedgade 39 4793 Bogø By,4793,221000.0,25-12-2005,Fam.,3069,4,Sommerhus,72,2007,
+Grønsundvej 607 4793 Bogø By,4793,2067874.0,15-12-2005,Alm.,20887,4,Stuehus,99,1900,
+Kværnen 7 4793 Bogø By,4793,375000.0,13-12-2005,Alm.,3989,4,Sommerhus,94,2008,
+Tårnbakken 56 4793 Bogø By,4793,900000.0,12-12-2005,Fam.,12857,3,Sommerhus,70,2005,
+Skovgårdsvej 14 4793 Bogø By,4793,103635.0,23-11-2005,Alm.,856,4,Villa,121,2008,
+Nybygade 16 4793 Bogø By,4793,1375000.0,18-11-2005,Alm.,9821,6,Villa,140,1892,
+A Johnsons Vej 58 4793 Bogø By,4793,918600.0,15-11-2005,Andet,6754,5,Villa,136,1870,
+Valsen 14 4793 Bogø By,4793,380000.0,08-11-2005,Alm.,4634,3,Sommerhus,82,2008,
+Bergsvej 13 4793 Bogø By,4793,305000.0,31-10-2005,Alm.,1804,7,Villa,169,2007,
+Skovgårdsvej 22 4793 Bogø By,4793,198479.0,24-10-2005,Alm.,1526,3,Villa,130,2006,
+Mosedalen 26 4793 Bogø By,4793,825000.0,22-10-2005,Alm.,13750,4,Sommerhus,60,1996,
+Bakkedraget 7 4793 Bogø By,4793,1525000.0,21-10-2005,Alm.,8111,6,Villa,188,1900,
+Tårnbakken 2 4793 Bogø By,4793,507913.0,18-10-2005,Fam.,9405,3,Sommerhus,54,1973,
+Møllebakken 31 4793 Bogø By,4793,975000.0,04-10-2005,Alm.,21195,3,Sommerhus,46,1972,
+Tragten 25 4793 Bogø By,4793,1270000.0,01-10-2005,Alm.,18405,4,Sommerhus,69,2005,
+Bogø Hovedgade 122 4793 Bogø By,4793,990000.0,30-09-2005,Alm.,7333,7,Villa,135,1932,
+Omgangen 13 4793 Bogø By,4793,1045000.0,27-09-2005,Alm.,14315,3,Sommerhus,73,2005,
+Østerskovvej 16 4793 Bogø By,4793,1400000.0,21-09-2005,Alm.,8641,7,Villa,162,1975,
+Møllebakken 2 4793 Bogø By,4793,137500.0,09-09-2005,Fam.,1809,4,Sommerhus,76,2006,
+Bogø Hovedgade 88 4793 Bogø By,4793,975000.0,08-09-2005,Alm.,5186,5,Villa,188,1897,
+Sejlet 18 4793 Bogø By,4793,1395000.0,30-08-2005,Alm.,17437,4,Sommerhus,80,2002,
+Bogø Hovedgade 70 4793 Bogø By,4793,595000.0,19-08-2005,Alm.,0,7,Villa,192,1956,
+Østerskovvej 21 4793 Bogø By,4793,1450000.0,18-08-2005,Alm.,12083,3,Villa,120,1976,
+Grønsundvej 610 4793 Bogø By,4793,9300000.0,12-08-2005,Alm.,43255,7,Stuehus,215,1925,
+Møllebakken 61 4793 Bogø By,4793,100000.0,10-08-2005,Alm.,1020,3,Sommerhus,98,2005,
+A Johnsons Vej 10 4793 Bogø By,4793,650000.0,04-08-2005,Alm.,15116,3,Sommerhus,43,2000,
+Bergsvej 8 4793 Bogø By,4793,1295000.0,31-07-2005,Alm.,10791,5,Villa,120,2001,
+Strandbakken 98 4793 Bogø By,4793,310000.0,28-07-2005,Alm.,2767,4,Sommerhus,112,2009,
+Østkildevej 57 4793 Bogø By,4793,675000.0,07-07-2005,Alm.,15697,3,Sommerhus,43,1977,
+Skovgårdsvej 36 4793 Bogø By,4793,117306.0,07-07-2005,Alm.,1047,4,Villa,112,2006,
+Tragten 34 4793 Bogø By,4793,850000.0,03-07-2005,Alm.,10365,4,Sommerhus,82,1992,
+Vindrosen 12 4793 Bogø By,4793,715000.0,01-07-2005,Alm.,13240,4,Sommerhus,54,1981,
+Omgangen 26 4793 Bogø By,4793,760000.0,28-06-2005,Alm.,0,3,Sommerhus,75,1980,
+Strandbakken 36 4793 Bogø By,4793,695000.0,16-06-2005,Alm.,0,4,Sommerhus,92,1971,
+Strandbakken 26 4793 Bogø By,4793,775000.0,13-06-2005,Alm.,12704,4,Sommerhus,61,1970,
+Vindrosen 21 4793 Bogø By,4793,331500.0,02-06-2005,Fam.,3250,3,Sommerhus,102,1980,
+Strandbakken 66 4793 Bogø By,4793,670000.0,31-05-2005,Alm.,0,4,Sommerhus,78,1972,
+Strandbakken 21 4793 Bogø By,4793,629570.0,30-05-2005,Andet,7585,3,Sommerhus,83,2005,
+Sejlet 15 4793 Bogø By,4793,890000.0,11-05-2005,Alm.,17800,3,Sommerhus,50,1987,
+Vindrosen 15 4793 Bogø By,4793,282000.0,09-05-2005,Alm.,3481,3,Sommerhus,81,2006,
+Skovgårdsvej 30 4793 Bogø By,4793,180383.0,04-05-2005,Alm.,1067,5,Villa,169,2006,
+Østkildevej 9 4793 Bogø By,4793,375000.0,03-05-2005,Alm.,10714,3,Sommerhus,35,1971,
+Farøvej 7 4793 Bogø By,4793,1450000.0,29-04-2005,Alm.,5967,7,Villa,243,1880,
+Møllebakken 51 4793 Bogø By,4793,282000.0,29-04-2005,Andet,4947,3,Sommerhus,57,1970,
+Vindrosen 6 4793 Bogø By,4793,725000.0,26-04-2005,Alm.,0,3,Sommerhus,45,1985,
+Højdedraget 36 4793 Bogø By,4793,275000.0,14-04-2005,Alm.,2455,4,Sommerhus,112,2007,
+Vindrosen 7 4793 Bogø By,4793,150000.0,30-03-2005,Alm.,1807,3,Sommerhus,83,2007,
+Strandbakken 62 4793 Bogø By,4793,1102000.0,26-03-2005,Alm.,15521,3,Sommerhus,71,2004,
+Sejlet 13 4793 Bogø By,4793,1475000.0,04-03-2005,Alm.,15206,4,Sommerhus,97,2004,
+Mosedalen 28 4793 Bogø By,4793,660000.0,06-02-2005,Alm.,0,5,Sommerhus,115,1979,
+Valsen 42 4793 Bogø By,4793,1035900.0,05-02-2005,Alm.,13112,4,Sommerhus,79,1987,
+Tårnbakken 59 4793 Bogø By,4793,400000.0,12-01-2005,Alm.,6250,3,Sommerhus,64,1976,
+Jørgensmindevej 11 4793 Bogø By,4793,1175000.0,08-01-2005,Alm.,9873,4,Villa,119,2000,
+Grønsundvej 600 4793 Bogø By,4793,2000000.0,30-12-2004,Alm.,10928,4,Villa,183,1937,
+Tragten 33 4793 Bogø By,4793,1475000.0,22-12-2004,Alm.,15206,4,Sommerhus,97,2004,
+Vestergade 15 4793 Bogø By,4793,895000.0,19-12-2004,Alm.,8523,5,Villa,105,1895,
+Tårnbakken 4 4793 Bogø By,4793,200000.0,13-12-2004,Alm.,5000,2,Sommerhus,40,1980,
+Højdedraget 13 4793 Bogø By,4793,550000.0,22-11-2004,Alm.,14102,3,Sommerhus,39,2001,
+Møllebakken 10 4793 Bogø By,4793,260000.0,19-11-2004,Alm.,3466,4,Sommerhus,75,2006,
+Grønsundvej 616 4793 Bogø By,4793,1950000.0,19-11-2004,Alm.,0,5,Stuehus,187,1949,
+Bogø Hovedgade 31 4793 Bogø By,4793,750000.0,15-11-2004,Alm.,9259,4,Villa,81,1934,
+Skovgårdsvej 26 4793 Bogø By,4793,204902.0,31-10-2004,Alm.,1004,4,Villa,204,2005,
+Vesterskovvej 24 4793 Bogø By,4793,2400000.0,29-10-2004,Alm.,0,7,Stuehus,279,1870,
+Skovgårdsvej 28 4793 Bogø By,4793,1280000.0,24-10-2004,Alm.,7150,7,Villa,179,2004,
+Vesternæsvej 3 4793 Bogø By,4793,1075000.0,23-10-2004,Alm.,0,4,Villa,159,1920,
+Tårnbakken 27 4793 Bogø By,4793,640000.0,12-10-2004,Alm.,9846,4,Sommerhus,65,1974,
+Akslen 8 4793 Bogø By,4793,665000.0,25-09-2004,Alm.,12788,4,Sommerhus,52,1979,
+Skovgårdsvej 7 4793 Bogø By,4793,1550000.0,21-09-2004,Alm.,9171,5,Villa,169,1900,
+A Johnsons Vej 44 4793 Bogø By,4793,370000.0,06-09-2004,Fam.,0,4,Villa,130,1998,
+Vesternæsvej 10 4793 Bogø By,4793,1350000.0,26-08-2004,Alm.,5744,4,Villa,235,2007,
+Grønsundvej 609 4793 Bogø By,4793,863123.0,24-08-2004,Andet,6165,4,Villa,140,1850,
+Østkildevej 8 4793 Bogø By,4793,100000.0,01-08-2004,Alm.,1449,4,Sommerhus,69,1983,
+Mosedalen 56 4793 Bogø By,4793,307000.0,30-07-2004,Alm.,8527,3,Sommerhus,36,1977,
+Smedestræde 23 4793 Bogø By,4793,600000.0,07-07-2004,Alm.,6250,4,Villa,96,1915,
+Omgangen 3 4793 Bogø By,4793,227500.0,25-06-2004,Alm.,1961,4,Sommerhus,116,2013,
+Bogø Hovedgade 46 4793 Bogø By,4793,400000.0,21-06-2004,Alm.,5970,3,Sommerhus,67,2007,
+A Johnsons Vej 30 4793 Bogø By,4793,145000.0,04-06-2004,Alm.,1510,3,Villa,96,2006,
+Valsen 12 4793 Bogø By,4793,50000.0,19-05-2004,Alm.,609,3,Sommerhus,82,2008,
+Møllebakken 59 4793 Bogø By,4793,185000.0,19-05-2004,Alm.,3245,3,Sommerhus,57,2005,
+Vindrosen 29 4793 Bogø By,4793,300000.0,13-05-2004,Alm.,8571,2,Sommerhus,35,1983,
+Farøvej 2 4793 Bogø By,4793,410000.0,30-04-2004,Alm.,0,6,Villa,317,1900,
+Tragten 22 4793 Bogø By,4793,1065000.0,27-04-2004,Alm.,14791,3,Sommerhus,72,2001,
+Ålborgvej 33 4793 Bogø By,4793,335000.0,12-04-2004,Fam.,2791,4,Villa,120,1965,
+Møllebakken 71 4793 Bogø By,4793,100000.0,06-04-2004,Alm.,793,4,Sommerhus,126,2006,
+Skovvangen 4 4793 Bogø By,4793,775000.0,01-04-2004,Alm.,6681,4,Villa,116,1956,
+Vindrosen 37 4793 Bogø By,4793,525000.0,01-04-2004,Alm.,12500,3,Sommerhus,42,1985,
+Kværnen 49 4793 Bogø By,4793,375000.0,31-03-2004,Alm.,0,4,Sommerhus,89,1981,
+Vestergade 17 4793 Bogø By,4793,212500.0,26-03-2004,Fam.,2284,3,Villa,93,2006,
+Skovgårdsvej 18 4793 Bogø By,4793,161685.0,26-03-2004,Alm.,1206,4,Villa,134,2005,
+Østkildevej 27 4793 Bogø By,4793,67000.0,21-03-2004,Alm.,779,4,Sommerhus,86,2005,
+Østkildevej 41 4793 Bogø By,4793,150000.0,12-03-2004,Alm.,1851,3,Sommerhus,81,2010,
+Ålborgvej 6 4793 Bogø By,4793,436000.0,02-03-2004,Fam.,4316,3,Villa,101,1915,
+Tårnbakken 54 4793 Bogø By,4793,203110.0,27-02-2004,Fam.,2744,4,Sommerhus,74,1969,
+Tragten 11 4793 Bogø By,4793,48267.0,13-02-2004,Fam.,492,5,Sommerhus,98,2004,
+Tragten 10 4793 Bogø By,4793,90000.0,04-02-2004,Alm.,1097,4,Sommerhus,82,2006,
+Bogø Hovedgade 22 4793 Bogø By,4793,841596.0,01-02-2004,Alm.,9147,5,Villa,92,1915,
+Kværnen 19 4793 Bogø By,4793,90000.0,01-02-2004,Alm.,873,4,Sommerhus,103,2009,
+Sydgrænsen 16 4793 Bogø By,4793,595000.0,30-01-2004,Alm.,7345,4,Sommerhus,81,1979,
+Strandbakken 50 4793 Bogø By,4793,120000.0,27-01-2004,Alm.,1395,4,Sommerhus,86,2004,
+Strandbakken 60 4793 Bogø By,4793,120000.0,19-01-2004,Alm.,1621,4,Sommerhus,74,2005,
+Kværnen 28 4793 Bogø By,4793,170000.0,15-01-2004,Alm.,1416,4,Sommerhus,120,2009,
+Bogø Hovedgade 93 4793 Bogø By,4793,825000.0,15-12-2003,Alm.,3928,8,Villa,210,1892,
+Vesterskovvej 39 4793 Bogø By,4793,2800000.0,17-11-2003,Alm.,20143,5,Stuehus,139,1890,
+Vindrosen 18 4793 Bogø By,4793,390000.0,10-11-2003,Alm.,5820,3,Sommerhus,67,1979,
+Strandbakken 14 4793 Bogø By,4793,475000.0,07-11-2003,Alm.,8050,3,Sommerhus,59,1973,
+Sydgrænsen 6 4793 Bogø By,4793,73600.0,04-11-2003,Alm.,1291,3,Sommerhus,57,2005,
+Gammelbystræde 9 4793 Bogø By,4793,535000.0,31-10-2003,Alm.,6079,3,Villa,88,1984,
+Omgangen 15 4793 Bogø By,4793,110000.0,15-10-2003,Alm.,1718,2,Sommerhus,64,2007,
+Søvangsvej 26 4793 Bogø By,4793,325000.0,15-10-2003,Alm.,4642,3,Sommerhus,70,2005,
+Østerskovvej 29 4793 Bogø By,4793,610000.0,10-10-2003,Alm.,0,9,Villa,244,1885,
+Tragten 7 4793 Bogø By,4793,75000.0,10-10-2003,Andet,635,4,Sommerhus,118,2005,
+Østkildevej 22 4793 Bogø By,4793,550000.0,19-09-2003,Fam.,11224,3,Sommerhus,49,1978,
+Strandbakken 3 4793 Bogø By,4793,520000.0,16-09-2003,Alm.,7536,3,Sommerhus,69,1974,
+Vesterskovvej 21 4793 Bogø By,4793,995000.0,05-09-2003,Alm.,8432,4,Villa,118,1974,
+Tårnbakken 64 4793 Bogø By,4793,190000.0,01-09-2003,Alm.,3725,3,Sommerhus,51,1971,
+Kværnen 9 4793 Bogø By,4793,110000.0,26-08-2003,Alm.,1067,3,Sommerhus,103,2004,
+Møllebakken 66 4793 Bogø By,4793,315000.0,15-08-2003,Alm.,6562,3,Sommerhus,48,1969,
+Strandbakken 40 4793 Bogø By,4793,85000.0,04-08-2003,Alm.,1036,4,Sommerhus,82,2007,
+Højdedraget 11 4793 Bogø By,4793,975000.0,24-07-2003,Alm.,10263,3,Sommerhus,95,1998,
+Strandbakken 19 4793 Bogø By,4793,509464.0,01-07-2003,Alm.,0,4,Sommerhus,90,1972,
+Mosedalen 58 4793 Bogø By,4793,82000.0,26-06-2003,Alm.,1366,3,Sommerhus,60,2004,
+Vindrosen 16 4793 Bogø By,4793,65000.0,17-06-2003,Alm.,1477,2,Sommerhus,44,2008,
+Højdedraget 44 4793 Bogø By,4793,95000.0,13-06-2003,Alm.,1792,3,Sommerhus,53,2007,
+Vindrosen 11 4793 Bogø By,4793,70000.0,30-05-2003,Alm.,833,4,Sommerhus,84,2009,
+Tårnbakken 16 4793 Bogø By,4793,50000.0,26-05-2003,Fam.,561,4,Sommerhus,89,2005,
+Østkildevej 6 4793 Bogø By,4793,400000.0,25-05-2003,Alm.,0,5,Sommerhus,90,1981,
+Tårnbakken 32 4793 Bogø By,4793,187000.0,10-05-2003,Fam.,5342,2,Sommerhus,35,1970,
+Højdedraget 16 4793 Bogø By,4793,80000.0,10-05-2003,Alm.,898,4,Sommerhus,89,2003,
+Omgangen 32 4793 Bogø By,4793,120000.0,04-05-2003,Alm.,1578,3,Sommerhus,76,2005,
+Højdedraget 23 4793 Bogø By,4793,110000.0,01-05-2003,Alm.,1134,4,Sommerhus,97,2006,
+Højdedraget 56 4793 Bogø By,4793,90000.0,29-04-2003,Alm.,1428,2,Sommerhus,63,2007,
+Gammelbystræde 2 4793 Bogø By,4793,797000.0,29-04-2003,Alm.,7518,3,Villa,106,1825,
+Højdedraget 52 4793 Bogø By,4793,80000.0,15-04-2003,Alm.,842,4,Sommerhus,95,2009,
+Sydgrænsen 13 4793 Bogø By,4793,80000.0,03-04-2003,Alm.,1081,4,Sommerhus,74,2003,
+Strandbakken 28 4793 Bogø By,4793,575000.0,01-04-2003,Alm.,7666,4,Sommerhus,75,1970,
+Strandbakken 31 4793 Bogø By,4793,180000.0,25-03-2003,Alm.,4864,2,Sommerhus,37,1970,
+Kværnen 21 4793 Bogø By,4793,285000.0,16-03-2003,Alm.,6951,3,Sommerhus,41,1998,
+Sejlet 19 4793 Bogø By,4793,365000.0,15-03-2003,Alm.,3543,4,Sommerhus,103,2003,
+Bogø Hovedgade 94 4793 Bogø By,4793,459375.0,07-03-2003,Alm.,6125,3,Villa,75,1825,
+Ålborgvej 38 4793 Bogø By,4793,700000.0,06-03-2003,Fam.,3846,6,Stuehus,182,1950,
+Tragten 15 4793 Bogø By,4793,165000.0,05-03-2003,Alm.,1683,4,Sommerhus,98,2006,
+Sydgrænsen 7 4793 Bogø By,4793,80000.0,26-02-2003,Alm.,1038,4,Sommerhus,77,2005,
+Sejlet 20 4793 Bogø By,4793,195000.0,13-02-2003,Alm.,3823,3,Sommerhus,51,2003,
+Højdedraget 29 4793 Bogø By,4793,100000.0,10-02-2003,Alm.,2325,3,Sommerhus,43,1976,
+Søvangsvej 1 4793 Bogø By,4793,990760.0,08-02-2003,Alm.,6739,6,Villa,147,1760,
+Mosedalen 36 4793 Bogø By,4793,90000.0,23-01-2003,Alm.,1578,3,Sommerhus,57,2003,
+Nybygade 14 4793 Bogø By,4793,1702275.0,21-01-2003,Alm.,5829,7,Villa,292,1975,
+Østkildevej 59 4793 Bogø By,4793,450000.0,17-01-2003,Alm.,7894,3,Sommerhus,57,1979,
+Møllebakken 54 4793 Bogø By,4793,320000.0,04-01-2003,Alm.,4776,3,Sommerhus,67,1972,
+Bogø Hovedgade 138D 4793 Bogø By,4793,850000.0,27-12-2002,Alm.,5666,4,Rækkehus,150,2004,
+A Johnsons Vej 21 4793 Bogø By,4793,525000.0,23-12-2002,Alm.,0,5,Villa,156,1876,
+Farøgårdsvej 3 4793 Bogø By,4793,2500000.0,18-12-2002,Alm.,15625,6,Stuehus,160,1850,
+Søvangsvej 9 4793 Bogø By,4793,1050000.0,06-12-2002,Alm.,6562,6,Villa,160,1966,
+Mosedalen 40 4793 Bogø By,4793,75000.0,02-12-2002,Alm.,625,4,Sommerhus,120,2011,
+Sydgrænsen 11 4793 Bogø By,4793,417500.0,25-11-2002,Alm.,7455,3,Sommerhus,56,1982,
+Strandbakken 76 4793 Bogø By,4793,50000.0,24-11-2002,Alm.,574,4,Sommerhus,87,2005,
+Gammelbystræde 13 4793 Bogø By,4793,415000.0,22-11-2002,Alm.,5187,4,Villa,80,1903,
+Østkildevej 67 4793 Bogø By,4793,60000.0,20-11-2002,Alm.,937,2,Sommerhus,64,2005,
+Østerskovvej 8 4793 Bogø By,4793,850000.0,07-11-2002,Alm.,7083,6,Villa,120,1909,
+Bogø Hovedgade 138C 4793 Bogø By,4793,160000.0,21-10-2002,Alm.,1311,3,Rækkehus,122,2004,
+Mosedalen 6 4793 Bogø By,4793,650000.0,14-10-2002,Fam.,0,4,Sommerhus,83,2004,
+Valsen 6 4793 Bogø By,4793,80000.0,04-10-2002,Alm.,1066,4,Sommerhus,75,2003,
+Strandbakken 58 4793 Bogø By,4793,220000.0,04-10-2002,Fam.,4313,3,Sommerhus,51,1971,
+Valsen 20 4793 Bogø By,4793,312084.0,24-09-2002,Alm.,7430,2,Sommerhus,42,2000,
+Højdedraget 4 4793 Bogø By,4793,55000.0,12-09-2002,Alm.,743,4,Sommerhus,74,2005,
+Tårnbakken 41 4793 Bogø By,4793,100000.0,11-09-2002,Alm.,2127,2,Sommerhus,47,2004,
+Bogø Hovedgade 69 4793 Bogø By,4793,564604.0,08-09-2002,Fam.,6071,4,Villa,93,1874,
+Kværnen 22 4793 Bogø By,4793,546173.0,20-08-2002,Alm.,5689,4,Sommerhus,96,1986,
+Vesternæsvej 8 4793 Bogø By,4793,521727.0,16-08-2002,Alm.,4013,6,Villa,130,1800,
+Mosedalen 42 4793 Bogø By,4793,270412.0,16-08-2002,Alm.,0,3,Sommerhus,52,1980,
+Gammelbystræde 5 4793 Bogø By,4793,152999.0,03-07-2002,Fam.,3255,2,Villa,47,1930,
+Højdedraget 48 4793 Bogø By,4793,81000.0,30-06-2002,Alm.,835,3,Sommerhus,97,2009,
+Vindrosen 2 4793 Bogø By,4793,50000.0,23-06-2002,Alm.,694,3,Sommerhus,72,2009,
+Vesterskovvej 30 4793 Bogø By,4793,371330.0,22-06-2002,Andet,2856,5,Villa,130,1825,
+Omgangen 39 4793 Bogø By,4793,410000.0,17-06-2002,Alm.,6119,3,Sommerhus,67,1992,
+Højdedraget 50 4793 Bogø By,4793,450000.0,01-06-2002,Alm.,8035,4,Sommerhus,56,1977,
+Omgangen 23 4793 Bogø By,4793,385000.0,31-05-2002,Alm.,7403,2,Sommerhus,52,1990,
+Strandbakken 41 4793 Bogø By,4793,625000.0,23-05-2002,Alm.,7352,3,Sommerhus,85,1977,
+Tårnbakken 31 4793 Bogø By,4793,376317.0,22-05-2002,Alm.,6602,3,Sommerhus,57,1970,
+Vesterskovvej 22 4793 Bogø By,4793,1830000.0,15-05-2002,Alm.,8755,5,Villa,209,1925,
+Mosedalen 22 4793 Bogø By,4793,55000.0,15-05-2002,Alm.,1527,3,Sommerhus,36,2006,
+Kværnen 16 4793 Bogø By,4793,135000.0,14-05-2002,Alm.,1467,4,Sommerhus,92,2002,
+Kværnen 20 4793 Bogø By,4793,72000.0,10-05-2002,Alm.,631,4,Sommerhus,114,2003,
+Østkildevej 29 4793 Bogø By,4793,374184.0,25-04-2002,Alm.,6803,2,Sommerhus,55,1998,
+Kværnen 1 4793 Bogø By,4793,410000.0,16-04-2002,Alm.,9318,3,Sommerhus,44,1996,
+Vesterskovvej 18 4793 Bogø By,4793,1200000.0,10-04-2002,Alm.,6593,5,Villa,182,1875,
+Bogø Hovedgade 161 4793 Bogø By,4793,650000.0,08-04-2002,Alm.,5416,5,Villa,120,1895,
+Vindrosen 24 4793 Bogø By,4793,260000.0,04-04-2002,Alm.,3058,4,Sommerhus,85,1983,
+Møllebakken 7 4793 Bogø By,4793,285877.0,11-03-2002,Alm.,8167,2,Sommerhus,35,1974,
+Omgangen 19 4793 Bogø By,4793,27500.0,05-03-2002,Alm.,241,5,Sommerhus,114,2006,
+Tragten 28 4793 Bogø By,4793,105000.0,21-02-2002,Alm.,1296,4,Sommerhus,81,2005,
+Valsen 22 4793 Bogø By,4793,48000.0,19-01-2002,Alm.,600,3,Sommerhus,80,2004,
+Højdedraget 6 4793 Bogø By,4793,341950.0,15-01-2002,Alm.,3195,5,Sommerhus,107,1978,
+Tragten 8 4793 Bogø By,4793,63000.0,14-01-2002,Alm.,1500,3,Sommerhus,42,2011,
+Bogø Hovedgade 147 4793 Bogø By,4793,65000.0,10-01-2002,Alm.,347,5,Villa,187,2004,
+Søvangsvej 36 4793 Bogø By,4793,740500.0,18-12-2001,Alm.,12341,2,Sommerhus,60,1971,
+Smedestræde 25 4793 Bogø By,4793,450000.0,28-10-2001,Alm.,3571,3,Villa,126,2006,
+Vestergade 26 4793 Bogø By,4793,942000.0,22-10-2001,Alm.,7302,6,Villa,129,1791,
+Østkildevej 30 4793 Bogø By,4793,310000.0,09-09-2001,Alm.,5636,3,Sommerhus,55,1978,
+Valsen 7 4793 Bogø By,4793,435000.0,08-09-2001,Alm.,8700,3,Sommerhus,50,1980,
+Tragten 35 4793 Bogø By,4793,105000.0,10-08-2001,Alm.,1346,3,Sommerhus,78,2005,
+Vestergade 19 4793 Bogø By,4793,395000.0,08-08-2001,Alm.,5197,3,Villa,76,1914,
+Bogø Hovedgade 74 4793 Bogø By,4793,800000.0,23-07-2001,Alm.,2515,8,Villa,318,1900,
+A Johnsons Vej 16 4793 Bogø By,4793,300000.0,12-07-2001,Alm.,5454,3,Villa,55,1978,
+Skåningevej 1 4793 Bogø By,4793,707159.0,09-07-2001,Alm.,7443,4,Villa,95,1948,
+Søvangsvej 34 4793 Bogø By,4793,351000.0,09-07-2001,Alm.,10968,3,Sommerhus,32,1981,
+Bremavej 3 4793 Bogø By,4793,2353817.0,09-07-2001,Alm.,12723,6,Stuehus,185,1815,
+Højdedraget 12 4793 Bogø By,4793,394614.0,05-07-2001,Alm.,7307,4,Sommerhus,54,1979,
+Østerskovvej 13 4793 Bogø By,4793,610000.0,05-07-2001,Alm.,3674,7,Villa,166,1978,
+Bogø Hovedgade 86 4793 Bogø By,4793,500000.0,30-06-2001,Alm.,6756,2,Villa,74,1900,
+Sejlet 5 4793 Bogø By,4793,90000.0,30-05-2001,Alm.,1097,3,Sommerhus,82,2002,
+Farøgårdsvej 5 4793 Bogø By,4793,348500.0,25-05-2001,Fam.,2581,5,Stuehus,135,2005,
+Bogø Hovedgade 138E 4793 Bogø By,4793,800000.0,22-05-2001,Fam.,8791,3,Villa,91,1987,
+Tårnbakken 53 4793 Bogø By,4793,77461.0,15-05-2001,Fam.,2213,3,Sommerhus,35,1970,
+Bogø Hovedgade 81 4793 Bogø By,4793,684888.0,04-05-2001,Alm.,4101,6,Villa,167,1930,
+Tårnbakken 57 4793 Bogø By,4793,525000.0,01-05-2001,Alm.,4646,4,Sommerhus,113,1972,
+Smedestræde 24 4793 Bogø By,4793,642000.0,29-04-2001,Alm.,12840,2,Villa,50,1800,
+Bogø Hovedgade 148 4793 Bogø By,4793,925837.0,01-04-2001,Alm.,5859,6,Villa,158,1880,
+Skåningevej 3 4793 Bogø By,4793,1020000.0,26-03-2001,Fam.,8869,3,Stuehus,115,1894,
+Bogø Hovedgade 64 4793 Bogø By,4793,450000.0,22-02-2001,Alm.,4838,4,Villa,93,1960,
+A Johnsons Vej 6 4793 Bogø By,4793,419999.0,20-02-2001,Alm.,5060,3,Villa,83,1976,
+Grønsundvej 595 4793 Bogø By,4793,75000.0,11-12-2000,Alm.,0,1,Fritid,0,1943,
+A Johnsons Vej 48 4793 Bogø By,4793,425000.0,07-12-2000,Alm.,0,5,Villa,102,1953,
+Kværnen 11 4793 Bogø By,4793,88000.0,30-11-2000,Alm.,0,3,Sommerhus,60,2001,
+Omgangen 6 4793 Bogø By,4793,440000.0,20-11-2000,Alm.,2933,5,Villa,150,1875,
+Tragten 23 4793 Bogø By,4793,96000.0,20-11-2000,Alm.,857,4,Sommerhus,112,2004,
+Vesterskovvej 31 4793 Bogø By,4793,880000.0,02-11-2000,Alm.,5906,5,Villa,149,1892,
+Vindrosen 31 4793 Bogø By,4793,50000.0,01-11-2000,Alm.,625,3,Sommerhus,80,2002,
+Vesterskovvej 53 4793 Bogø By,4793,304000.0,26-10-2000,Alm.,1527,6,Stuehus,199,1895,
+Ålborgvej 9 4793 Bogø By,4793,733054.0,13-10-2000,Andet,3702,10,Villa,198,1880,
+Søvangsvej 19 4793 Bogø By,4793,512876.0,02-10-2000,Andet,2154,8,Villa,238,1971,
+Møllebakken 48 4793 Bogø By,4793,227401.0,02-10-2000,Alm.,0,3,Sommerhus,70,1970,
+Møllebakken 22 4793 Bogø By,4793,230000.0,11-09-2000,Alm.,6388,3,Sommerhus,36,1970,
+A Johnsons Vej 40 4793 Bogø By,4793,345000.0,07-09-2000,Alm.,0,4,Villa,152,1973,
+Bakkedraget 2 4793 Bogø By,4793,261104.0,07-09-2000,Fam.,1070,7,Industri o.l.,244,1988,
+Østerskovvej 17 4793 Bogø By,4793,475000.0,02-09-2000,Alm.,0,4,Villa,134,1875,
+Vindrosen 14 4793 Bogø By,4793,50000.0,30-08-2000,Alm.,909,3,Sommerhus,55,2005,
+Tragten 30 4793 Bogø By,4793,105000.0,29-08-2000,Alm.,1400,3,Sommerhus,75,2001,
+A Johnsons Vej 4 4793 Bogø By,4793,800000.0,21-08-2000,Fam.,5333,6,Villa,150,1936,
+Møllebakken 46 4793 Bogø By,4793,325000.0,12-08-2000,Alm.,5803,2,Sommerhus,56,1971,
+Bogø Hovedgade 175 4793 Bogø By,4793,725000.0,10-08-2000,Alm.,5330,7,Villa,136,1855,
+Mosedalen 16 4793 Bogø By,4793,507278.0,10-08-2000,Alm.,4831,4,Sommerhus,105,1990,
+Mosedalen 76 4793 Bogø By,4793,275000.0,09-08-2000,Alm.,0,5,Sommerhus,95,1976,
+A Johnsons Vej 36 4793 Bogø By,4793,290000.0,05-08-2000,Alm.,0,8,Villa,154,1978,
+Tårnbakken 40 4793 Bogø By,4793,273672.0,01-08-2000,Alm.,4801,4,Sommerhus,57,1970,
+Søvangsvej 29 4793 Bogø By,4793,468748.0,05-07-2000,Alm.,13392,2,Sommerhus,35,1965,
+Møllebakken 21 4793 Bogø By,4793,380000.0,29-06-2000,Alm.,6031,3,Sommerhus,63,1977,
+Møllebakken 11 4793 Bogø By,4793,367874.0,23-06-2000,Fam.,7074,3,Sommerhus,52,1990,
+Nybygade 3 4793 Bogø By,4793,1450000.0,05-06-2000,Alm.,4545,8,Villa,319,1880,
+Sydgrænsen 10 4793 Bogø By,4793,250000.0,30-05-2000,Alm.,0,3,Sommerhus,70,1977,
+Kværnen 17 4793 Bogø By,4793,30000.0,16-05-2000,Alm.,416,4,Sommerhus,72,2001,
+Søvangsvej 22 4793 Bogø By,4793,350000.0,15-05-2000,Alm.,9722,2,Sommerhus,36,1967,
+Mosedalen 78 4793 Bogø By,4793,75000.0,17-04-2000,Alm.,892,3,Sommerhus,84,2001,
+Sejlet 23 4793 Bogø By,4793,180000.0,13-04-2000,Alm.,1836,4,Sommerhus,98,2001,
+Strandbakken 11 4793 Bogø By,4793,418229.0,01-04-2000,Alm.,6970,3,Sommerhus,60,1971,
+Møllebakken 72 4793 Bogø By,4793,216615.0,15-02-2000,Alm.,5037,2,Sommerhus,43,1976,
+Ålborgvej 4 4793 Bogø By,4793,340000.0,13-02-2000,Alm.,1683,4,Villa,202,1900,
+Søvangsvej 21 4793 Bogø By,4793,965800.0,04-02-2000,Alm.,6898,4,Villa,140,1970,
+Nybygade 10 4793 Bogø By,4793,1525000.0,07-01-2000,Alm.,5669,7,Villa,269,1985,
+Smedestræde 29 4793 Bogø By,4793,316617.0,23-12-1999,Fam.,3479,4,Villa,91,1800,
+Vestergade 1 4793 Bogø By,4793,317119.0,30-10-1999,Alm.,4344,2,Villa,73,1700,
+Bogø Hovedgade 118 4793 Bogø By,4793,805000.0,26-10-1999,Alm.,3851,10,Villa,209,1875,
+Nybygade 24 4793 Bogø By,4793,377897.0,06-10-1999,Alm.,4723,2,Villa,80,1700,
+Møllebakken 67 4793 Bogø By,4793,424220.0,06-10-1999,Alm.,5811,4,Sommerhus,73,1973,
+Vestergade 3 4793 Bogø By,4793,500000.0,15-09-1999,Alm.,4716,5,Villa,106,1977,
+Kværnen 30 4793 Bogø By,4793,115000.0,19-07-1999,Alm.,1419,3,Sommerhus,81,2000,
+Omgangen 33 4793 Bogø By,4793,45000.0,14-07-1999,Alm.,600,3,Sommerhus,75,2002,
+Bogø Hovedgade 167 4793 Bogø By,4793,550000.0,08-07-1999,Alm.,3846,4,Villa,143,1898,
+Bergsvej 5 4793 Bogø By,4793,895251.0,18-06-1999,Alm.,6782,5,Villa,132,1997,
+Strandbakken 72 4793 Bogø By,4793,286000.0,08-06-1999,Alm.,3972,4,Sommerhus,72,1973,
+Bogø Hovedgade 72 4793 Bogø By,4793,430000.0,01-06-1999,Alm.,2349,4,Villa,183,1927,
+Ålborgvej 32 4793 Bogø By,4793,736637.0,24-05-1999,Alm.,4603,3,Villa,160,1900,
+Kværnen 3 4793 Bogø By,4793,306000.0,08-04-1999,Alm.,0,3,Sommerhus,77,1982,
+Østerskovvej 27B 4793 Bogø By,4793,880000.0,29-03-1999,Alm.,6285,4,Villa,140,1981,
+Østerskovvej 4B 4793 Bogø By,4793,697000.0,16-03-1999,Alm.,3241,6,Villa,215,1893,
+Søvangsvej 15 4793 Bogø By,4793,1025000.0,11-02-1999,Alm.,4418,9,Villa,232,1880,
+Møllebakken 44 4793 Bogø By,4793,273924.0,21-12-1998,Alm.,4722,3,Sommerhus,58,1978,
+Bogø Hovedgade 123 4793 Bogø By,4793,425000.0,25-11-1998,Alm.,2759,8,Villa,154,1960,
+A Johnsons Vej 20A 4793 Bogø By,4793,235000.0,19-11-1998,Alm.,3175,4,Villa,74,1980,
+Østkildevej 71 4793 Bogø By,4793,47500.0,10-11-1998,Alm.,494,3,Sommerhus,96,2003,
+A Johnsons Vej 18 4793 Bogø By,4793,279849.0,05-11-1998,Alm.,4115,3,Sommerhus,68,1973,
+Fruekildevej 17 4793 Bogø By,4793,510000.0,09-10-1998,Alm.,1526,12,Villa,334,1850,
+Bogø Hovedgade 129A 4793 Bogø By,4793,360000.0,29-09-1998,Alm.,4235,4,Villa,85,1962,
+Søvangsvej 11 4793 Bogø By,4793,130000.0,19-09-1998,Fam.,2063,4,Sommerhus,63,1967,
+Tårnbakken 44 4793 Bogø By,4793,611000.0,18-09-1998,Alm.,6110,5,Sommerhus,100,1974,
+A Johnsons Vej 11 4793 Bogø By,4793,170000.0,13-08-1998,Alm.,1517,4,Villa,112,2000,
+Tjørnedalsvej 8 4793 Bogø By,4793,763131.0,09-07-1998,Fam.,3391,5,Stuehus,225,1925,
+Strandbakken 39 4793 Bogø By,4793,637200.0,19-06-1998,Alm.,9370,4,Sommerhus,68,1988,
+Vesterskovvej 28 4793 Bogø By,4793,1956613.0,11-05-1998,Alm.,0,8,Villa,245,1991,
+Strandbakken 18 4793 Bogø By,4793,271300.0,09-05-1998,Alm.,0,4,Sommerhus,80,1974,
+Skovvangen 3 4793 Bogø By,4793,311641.0,30-04-1998,Andet,2149,6,Villa,145,1900,
+Møllebakken 32 4793 Bogø By,4793,315000.0,30-04-1998,Alm.,5080,3,Sommerhus,62,1978,
+Bogø Hovedgade 111 4793 Bogø By,4793,519627.0,21-04-1998,Alm.,3685,4,Villa,141,1920,
+A Johnsons Vej 1 4793 Bogø By,4793,140000.0,20-04-1998,Alm.,756,4,Villa,185,2000,
+Bogø Hovedgade 53 4793 Bogø By,4793,900000.0,14-04-1998,Alm.,6000,8,Villa,150,1925,
+Møllebakken 27 4793 Bogø By,4793,260000.0,31-03-1998,Alm.,2921,4,Sommerhus,89,1969,
+Bogø Hovedgade 18 4793 Bogø By,4793,450000.0,17-03-1998,Alm.,2445,6,Villa,184,1925,
+Østkildevej 36 4793 Bogø By,4793,240000.0,06-02-1998,Alm.,4000,4,Sommerhus,60,1976,
+Bogø Hovedgade 91 4793 Bogø By,4793,360000.0,28-01-1998,Alm.,3600,4,Villa,100,1964,
+Smedestræde 27 4793 Bogø By,4793,372689.0,23-01-1998,Alm.,5733,3,Rækkehus,65,1875,
+Farøvej 16 4793 Bogø By,4793,1780000.0,12-01-1998,Alm.,8811,10,Stuehus,202,1895,
+Solbakkevej 8 4793 Bogø By,4793,575000.0,08-01-1998,Alm.,4291,6,Villa,134,1940,
+Kværnen 41 4793 Bogø By,4793,85000.0,10-12-1997,Fam.,0,3,Sommerhus,75,2006,
+Østkildevej 65 4793 Bogø By,4793,45000.0,20-11-1997,Alm.,633,4,Sommerhus,71,2000,
+Bogø Hovedgade 41 4793 Bogø By,4793,448000.0,31-10-1997,Alm.,4110,3,Villa,109,1925,
+Tårnbakken 8 4793 Bogø By,4793,261260.0,22-10-1997,Alm.,4838,3,Sommerhus,54,1973,
+Tårnbakken 15 4793 Bogø By,4793,273800.0,22-10-1997,Alm.,4563,4,Sommerhus,60,1974,
+Vestergade 13 4793 Bogø By,4793,359170.0,06-10-1997,Alm.,3780,3,Villa,95,1800,
+Kværnen 25 4793 Bogø By,4793,127900.0,20-08-1997,Alm.,3654,2,Sommerhus,35,1984,
+Østerskovvej 30 4793 Bogø By,4793,417940.0,26-06-1997,Alm.,2347,7,Villa,178,1880,
+Møllebakken 25 4793 Bogø By,4793,231391.0,01-06-1997,Fam.,4285,3,Sommerhus,54,1974,
+Farøvej 9 4793 Bogø By,4793,213408.0,27-04-1997,Alm.,602,9,Villa,354,1875,
+Nybygade 2 4793 Bogø By,4793,477000.0,20-03-1997,Alm.,3180,4,Villa,150,1921,
+Udsigten 8 4793 Bogø By,4793,170000.0,20-02-1997,Alm.,0,4,Villa,220,1997,
+Skovgårdsvej 4 4793 Bogø By,4793,57892.0,30-12-1996,Alm.,531,4,Villa,109,1997,
+Strandbakken 55 4793 Bogø By,4793,170000.0,20-12-1996,Fam.,0,3,Sommerhus,58,1970,
+Jørgensmindevej 15 4793 Bogø By,4793,946463.0,18-12-1996,Alm.,7063,4,Villa,134,1875,
+Vesternæsvej 5 4793 Bogø By,4793,816000.0,02-12-1996,Alm.,4080,7,Villa,200,1700,
+Ålborgvej 12 4793 Bogø By,4793,552000.0,02-12-1996,Alm.,4416,6,Villa,125,1912,
+Grønsundvej 618 4793 Bogø By,4793,75000.0,25-11-1996,Alm.,681,5,Stuehus,110,1900,
+Vesternæsvej 6 4793 Bogø By,4793,400000.0,18-11-1996,Fam.,2352,7,Villa,170,1850,
+Udsigten 6 4793 Bogø By,4793,900000.0,11-10-1996,Alm.,6569,3,Villa,137,1985,
+Tårnbakken 43 4793 Bogø By,4793,230000.0,07-10-1996,Alm.,3432,4,Sommerhus,67,1972,
+Tragten 29 4793 Bogø By,4793,107900.0,29-09-1996,Alm.,2247,2,Sommerhus,48,1996,
+Tårnbakken 21 4793 Bogø By,4793,262000.0,24-09-1996,Fam.,4225,3,Sommerhus,62,1974,
+Bogø Hovedgade 133 4793 Bogø By,4793,489500.0,21-09-1996,Alm.,2459,7,Villa,199,1900,
+Ålborgvej 21 4793 Bogø By,4793,650000.0,02-09-1996,Alm.,3611,5,Stuehus,180,1890,
+Kværnen 10 4793 Bogø By,4793,88000.0,01-08-1996,Alm.,1725,3,Sommerhus,51,2000,
+Grønsundvej 601 4793 Bogø By,4793,497000.0,29-07-1996,Alm.,0,5,Villa,214,1855,
+Strandbakken 5 4793 Bogø By,4793,228000.0,28-07-1996,Alm.,3211,4,Sommerhus,71,1973,
+Østerskovvej 31 4793 Bogø By,4793,961200.0,03-07-1996,Alm.,0,4,Stuehus,151,1900,
+Møllebakken 58 4793 Bogø By,4793,275000.0,11-06-1996,Alm.,2925,4,Sommerhus,94,1972,
+Skovgårdsvej 40 4793 Bogø By,4793,831000.0,02-06-1996,Alm.,4155,6,Villa,200,1910,
+Østerskovvej 20 4793 Bogø By,4793,177000.0,24-05-1996,Alm.,2424,4,Villa,73,1898,
+Bergsvej 3 4793 Bogø By,4793,35000.0,20-03-1996,Alm.,269,5,Villa,130,1998,
+Bogø Hovedgade 130 4793 Bogø By,4793,180487.0,14-03-1996,Alm.,1317,3,Villa,137,1935,
+Bogø Hovedgade 9 4793 Bogø By,4793,180000.0,18-12-1995,Alm.,0,4,Sommerhus,78,1950,
+Tårnbakken 65 4793 Bogø By,4793,270000.0,11-12-1995,Alm.,4736,3,Sommerhus,57,1979,
+Ålborgvej 34 4793 Bogø By,4793,250208.0,10-11-1995,Fam.,1939,4,Villa,129,1780,
+A Johnsons Vej 3 4793 Bogø By,4793,120000.0,06-10-1995,Alm.,882,4,Villa,136,1998,
+Udsigten 3 4793 Bogø By,4793,831000.0,17-09-1995,Alm.,5193,4,Villa,160,1987,
+Østerskovvej 12 4793 Bogø By,4793,391918.0,14-09-1995,Alm.,3061,4,Villa,128,1882,
+Bergsvej 7 4793 Bogø By,4793,27500.0,13-09-1995,Alm.,572,2,Villa,48,1996,
+Østkildevej 53 4793 Bogø By,4793,36500.0,12-09-1995,Alm.,536,4,Sommerhus,68,1999,
+A Johnsons Vej 42 4793 Bogø By,4793,110000.0,05-09-1995,Alm.,1718,3,Villa,64,1980,
+Valsen 15 4793 Bogø By,4793,30000.0,01-08-1995,Alm.,750,1,Sommerhus,40,1996,
+Møllebakken 62 4793 Bogø By,4793,253000.0,24-06-1995,Alm.,4600,3,Sommerhus,55,1974,
+Møllebakken 30 4793 Bogø By,4793,165000.0,10-05-1995,Alm.,3055,3,Sommerhus,54,1970,
+A Johnsons Vej 2 4793 Bogø By,4793,494000.0,09-05-1995,Alm.,2546,7,Villa,194,1910,
+Mosedalen 24 4793 Bogø By,4793,97900.0,01-03-1995,Alm.,0,2,Sommerhus,70,1998,
+Vestergade 4 4793 Bogø By,4793,695000.0,27-02-1995,Alm.,2574,9,Villa,270,1922,
+Vindrosen 17 4793 Bogø By,4793,92900.0,26-02-1995,Alm.,0,5,Sommerhus,81,1980,
+Omgangen 2 4793 Bogø By,4793,290000.0,23-12-1994,Alm.,4754,3,Sommerhus,61,1980,
+Østkildevej 39 4793 Bogø By,4793,265000.0,01-12-1994,Alm.,6625,3,Sommerhus,40,1978,
+Tjørnedalsvej 10 4793 Bogø By,4793,75000.0,29-09-1994,Alm.,652,3,Stuehus,115,1911,
+Østkildevej 5 4793 Bogø By,4793,30000.0,27-09-1994,Alm.,0,3,Sommerhus,60,1996,
+Bogø Hovedgade 37 4793 Bogø By,4793,430000.0,22-09-1994,Alm.,5119,4,Villa,84,1939,
+Farøvej 13 4793 Bogø By,4793,373000.0,26-08-1994,Alm.,3108,4,Villa,120,1950,
+Mosedalen 44 4793 Bogø By,4793,240000.0,23-08-1994,Alm.,0,3,Sommerhus,126,1980,
+Solbakkevej 7 4793 Bogø By,4793,411000.0,28-07-1994,Alm.,0,5,Villa,117,1962,
+Grønsundvej 604 4793 Bogø By,4793,1069500.0,13-07-1994,Fam.,5570,8,Stuehus,192,1940,
+Vestergade 11 4793 Bogø By,4793,338200.0,06-06-1994,Alm.,3382,5,Villa,100,1869,
+Mosedalen 80 4793 Bogø By,4793,78000.0,04-06-1994,Alm.,0,5,Sommerhus,97,1998,
+Østerskovvej 38 4793 Bogø By,4793,508800.0,30-05-1994,Alm.,3180,5,Villa,160,1890,
+Valsen 21 4793 Bogø By,4793,330000.0,29-04-1994,Alm.,6346,3,Sommerhus,52,1985,
+Farø Vad 1 4793 Bogø By,4793,390000.0,24-04-1994,Alm.,1959,5,Villa,199,1875,
+Bogø Hovedgade 113 4793 Bogø By,4793,315250.0,04-04-1994,Alm.,2671,5,Villa,118,1800,
+Bogø Hovedgade 5 4793 Bogø By,4793,253000.0,14-02-1994,Alm.,1462,5,Villa,173,1961,
+Bogø Hovedgade 165 4793 Bogø By,4793,212500.0,29-10-1993,Fam.,2284,4,Villa,93,1922,
+Skovleddet 2 4793 Bogø By,4793,785000.0,07-07-1993,Alm.,0,7,Villa,180,1800,
+Strandbakken 37 4793 Bogø By,4793,195000.0,18-05-1993,Alm.,0,2,Sommerhus,70,1972,
+Grønsundvej 619 4793 Bogø By,4793,275000.0,13-05-1993,Alm.,2894,3,Villa,95,1875,
+Østerskovvej 10 4793 Bogø By,4793,384000.0,15-02-1993,Alm.,1959,6,Villa,196,1887,
+Ålborgvej 25 4793 Bogø By,4793,1090000.0,09-02-1993,Fam.,5165,5,Stuehus,211,1877,
+Ålborgvej 18 4793 Bogø By,4793,349865.0,22-01-1993,Alm.,0,9,Villa,207,1842,
+Sejlet 12 4793 Bogø By,4793,112900.0,23-12-1992,Alm.,0,3,Sommerhus,83,1995,
+Sejlet 27 4793 Bogø By,4793,60000.0,23-11-1992,Alm.,645,4,Sommerhus,93,2012,
+Østerskovvej 35 4793 Bogø By,4793,615000.0,30-09-1992,Alm.,4330,5,Villa,142,1953,
+Bogø Hovedgade 78 4793 Bogø By,4793,400000.0,13-08-1992,Alm.,4081,4,Villa,98,1875,
+Østkildevej 1 4793 Bogø By,4793,28500.0,01-08-1992,Alm.,527,3,Sommerhus,54,1995,
+Nybygade 18 4793 Bogø By,4793,330000.0,19-07-1992,Alm.,2578,4,Villa,128,1890,
+A Johnsons Vej 14 4793 Bogø By,4793,265000.0,05-04-1992,Alm.,6162,3,Sommerhus,43,1979,
+Tragten 21 4793 Bogø By,4793,142900.0,17-03-1992,Alm.,2748,3,Sommerhus,52,2001,
+Strandbakken 35 4793 Bogø By,4793,112900.0,29-02-1992,Alm.,1568,3,Sommerhus,72,2002,

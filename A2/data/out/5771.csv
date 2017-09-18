@@ -1,0 +1,998 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Stenbankevej 10 5771 Stenstrup,10,1321500.0,12-04-2017,Fam.,4719,6,Villa,280,2008,
+Assensvej 271 5771 Stenstrup,271,66666.0,31-03-2017,Andet,634,5,Villa,105,1900,
+Hundstrupvej 72 5771 Stenstrup,72,650000.0,30-03-2017,Alm.,3591,6,Villa,181,1827,-18 %
+Lundevej 2 5771 Stenstrup,2,5196000.0,17-03-2017,Alm.,16391,6,Stuehus,317,1857,
+Hundtofte 28 5771 Stenstrup,28,8000000.0,15-03-2017,Alm.,55944,5,Stuehus,143,1800,
+Pilegårdsvej 34 5771 Stenstrup,34,6460000.0,05-03-2017,Alm.,37126,4,Stuehus,174,1954,
+Løgeskov 500 5771 Stenstrup,500,50000.0,17-02-2017,Alm.,342,2,Sommerhus,146,1983,
+Løgeskov 80 5771 Stenstrup,80,245500.0,16-02-2017,Andet,2611,4,Villa,94,1952,
+Elmevænget 6 5771 Stenstrup,6,450000.0,12-02-2017,Alm.,5232,4,Villa,86,1965,-9 %
+Kildevej 7 5771 Stenstrup,7,940000.0,07-02-2017,Alm.,5340,5,Villa,176,1911,
+Kirkeby Sand 16 5771 Stenstrup,16,947000.0,05-02-2017,Fam.,6862,5,Villa,138,1907,
+Bøgevænget 21 5771 Stenstrup,21,350000.0,30-01-2017,Alm.,2692,5,Villa,130,1977,
+Gemalvej 21A 5771 Stenstrup,0,616345.0,26-01-2017,Fam.,4402,4,Villa,140,1918,
+Stationsvej 59 5771 Stenstrup,59,1915000.0,22-01-2017,Alm.,10580,5,Villa,181,1948,-4 %
+Stationsvej 42 5771 Stenstrup,42,420000.0,12-01-2017,Auktion,4077,5,Villa,103,1936,-44 %
+Højevej 23 5771 Stenstrup,23,3340500.0,18-12-2016,Fam.,20620,5,Stuehus,162,1728,
+Assensvej 223 5771 Stenstrup,223,55000.0,29-11-2016,Alm.,982,2,Villa,56,1800,
+Lindevej 7 5771 Stenstrup,7,1150000.0,28-11-2016,Alm.,7931,6,Villa,145,1966,-11 %
+Assensvej 134 5771 Stenstrup,134,1045000.0,22-11-2016,Alm.,5251,5,Villa,199,1910,-5 %
+Bobjergvej 13 5771 Stenstrup,13,335000.0,18-11-2016,Alm.,2964,3,Villa,113,1952,-15 %
+Assensvej 40 5771 Stenstrup,40,1425000.0,10-11-2016,Alm.,11585,4,Villa,123,1901,
+Løgeskov 53 5771 Stenstrup,53,2400000.0,05-11-2016,Alm.,10389,6,Villa,231,1949,
+Bøllemosen 8 5771 Stenstrup,8,800000.0,27-10-2016,Alm.,6779,5,Villa,118,1878,-6 %
+Stationsvej 47B 5771 Stenstrup,0,925000.0,15-10-2016,Alm.,7061,7,Villa,131,1965,-7 %
+Sandbjergvej 4 5771 Stenstrup,4,500000.0,14-10-2016,Alm.,4901,5,Villa,102,1962,-13 %
+Hovedvejen 78 5771 Stenstrup,78,140000.0,11-10-2016,Alm.,992,5,Villa,141,1908,-53 %
+Egevænget 43 5771 Stenstrup,43,1000000.0,10-10-2016,Alm.,8771,5,Villa,114,1973,
+Solparken 10 5771 Stenstrup,10,1935000.0,10-10-2016,Alm.,11727,5,Villa,165,1995,-3 %
+Rødmevej 40 5771 Stenstrup,40,300000.0,06-10-2016,Alm.,3225,3,Villa,93,1965,-24 %
+Tværvej 26 5771 Stenstrup,26,497500.0,26-09-2016,Fam.,4606,4,Villa,108,1964,
+Humlevænget 3 5771 Stenstrup,3,750000.0,29-08-2016,Alm.,8152,3,Villa,92,1964,-6 %
+Løgeskov 55 5771 Stenstrup,55,285000.0,27-08-2016,Auktion,1850,4,Villa,154,1870,-17 %
+Hovedvejen 63 5771 Stenstrup,63,325000.0,25-08-2016,Alm.,1795,5,Villa,181,1932,
+Egevænget 37 5771 Stenstrup,37,1300000.0,25-08-2016,Alm.,6132,7,Villa,212,1973,-5 %
+Teglbakken 11B 5771 Stenstrup,0,770000.0,10-08-2016,Auktion,9058,3,Rækkehus,85,2000,
+Krarupvej 29 5771 Stenstrup,29,1300000.0,05-08-2016,Alm.,11111,4,Villa,117,1850,-7 %
+Løgeskov 78 5771 Stenstrup,78,70000.0,28-07-2016,Alm.,744,3,Villa,94,1800,
+Hasselvænget 1 5771 Stenstrup,1,563124.0,22-06-2016,Fam.,6867,3,Rækkehus,82,1984,
+Teglbakken 42 5771 Stenstrup,42,900000.0,17-06-2016,Alm.,6976,4,Villa,129,1979,
+Assensvej 161 5771 Stenstrup,161,595000.0,09-06-2016,Alm.,5950,4,Villa,100,1900,-20 %
+Assensvej 268 5771 Stenstrup,268,835000.0,23-05-2016,Alm.,9277,4,Villa,90,1953,
+Alpevej 2 5771 Stenstrup,2,525000.0,19-05-2016,Alm.,3162,7,Villa,166,1913,-12 %
+Åbrinken 24 5771 Stenstrup,24,1460000.0,17-05-2016,Alm.,9480,5,Villa,154,1977,-8 %
+Åvangen 3 5771 Stenstrup,3,465500.0,10-05-2016,Fam.,5059,3,Rækkehus,92,1985,
+Egevænget 28 5771 Stenstrup,28,1100000.0,01-05-2016,Alm.,8870,4,Villa,124,1973,-8 %
+Nørregårdsvej 11 5771 Stenstrup,11,395000.0,08-04-2016,Alm.,4030,3,Villa,98,1854,-43 %
+Gemalvej 6 5771 Stenstrup,6,358965.0,10-03-2016,Auktion,3451,3,Villa,104,1960,
+Hundtofte 6 5771 Stenstrup,6,870000.0,09-03-2016,Alm.,6692,6,Villa,130,1877,-13 %
+Hostrupvej 19 5771 Stenstrup,19,750000.0,08-03-2016,Alm.,6355,4,Villa,118,1961,-6 %
+Åvangen 15 5771 Stenstrup,15,875000.0,02-03-2016,Alm.,7172,4,Villa,122,1968,-8 %
+Stationsvej 6 5771 Stenstrup,6,512500.0,25-02-2016,Auktion,3660,4,Villa,140,1932,
+Bobjergvej 8 5771 Stenstrup,8,741221.0,23-02-2016,Alm.,4309,5,Villa,172,1900,
+Assensvej 30 5771 Stenstrup,30,600000.0,10-02-2016,Alm.,5769,3,Villa,104,1940,-4 %
+Assensvej 187 5771 Stenstrup,187,1150000.0,29-01-2016,Alm.,4655,9,Villa,247,1903,-8 %
+Egebjergvej 3 5771 Stenstrup,3,530000.0,25-01-2016,Alm.,5300,3,Villa,100,1960,-11 %
+Åparken 19 5771 Stenstrup,19,750000.0,21-01-2016,Alm.,6410,4,Villa,117,1971,0 %
+Åvangen 4 5771 Stenstrup,4,875000.0,21-01-2016,Alm.,7291,3,Villa,120,1968,-7 %
+Kirkeby Sand 19 5771 Stenstrup,19,54837.0,12-01-2016,Alm.,216,9,Villa,253,1966,-99 %
+Tørvelong 10 5771 Stenstrup,10,50000.0,08-01-2016,Alm.,714,3,Villa,70,1872,
+Hundstrupvej 37 5771 Stenstrup,37,700000.0,07-01-2016,Alm.,5072,5,Villa,138,1894,
+Vængevej 4C 5771 Stenstrup,0,360000.0,06-01-2016,Auktion,3333,4,Villa,108,1896,
+Nørregårdsvej 23 5771 Stenstrup,23,9785000.0,28-12-2015,Alm.,39140,6,Stuehus,250,2001,
+Vængevej 9 5771 Stenstrup,9,494045.0,22-12-2015,Andet,4411,4,Villa,112,1890,
+Nørregårdsvej 1 5771 Stenstrup,1,325000.0,21-12-2015,Alm.,4220,3,Villa,77,1902,-13 %
+Åvangen 2B 5771 Stenstrup,0,340000.0,07-12-2015,Alm.,5000,2,Rækkehus,68,1985,-24 %
+Assensvej 139 5771 Stenstrup,139,950000.0,04-12-2015,Alm.,6168,4,Villa,154,1900,-12 %
+Ahornvænget 15 5771 Stenstrup,15,1125000.0,19-11-2015,Alm.,8035,4,Villa,140,1979,-6 %
+Assensvej 121B 5771 Stenstrup,0,2700000.0,18-11-2015,Alm.,12918,8,Villa,209,2009,4 %
+Gemalvej 12 5771 Stenstrup,12,710000.0,11-11-2015,Alm.,6120,4,Villa,116,1961,-16 %
+Løgeskov 9 5771 Stenstrup,9,500000.0,30-10-2015,Alm.,4424,4,Stuehus,113,1850,
+Elmevænget 1 5771 Stenstrup,1,750000.0,30-10-2015,Alm.,7653,4,Villa,98,1968,-6 %
+Højevej 24 5771 Stenstrup,24,1270000.0,11-10-2015,Alm.,9844,5,Villa,129,1961,-2 %
+Assensvej 83 5771 Stenstrup,83,100000.0,01-10-2015,Alm.,598,6,Villa,167,1927,-50 %
+Lærkevej 16 5771 Stenstrup,16,790000.0,29-09-2015,Alm.,6528,4,Villa,121,1966,-12 %
+Assensvej 36 5771 Stenstrup,36,900000.0,25-09-2015,Alm.,6250,5,Villa,144,1930,
+Pavegyden 11 5771 Stenstrup,11,97500.0,24-09-2015,Alm.,1300,4,Villa,75,1777,-35 %
+Assensvej 250 5771 Stenstrup,250,925000.0,03-09-2015,Auktion,6423,4,Villa,144,1920,
+Løgeskov 88 5771 Stenstrup,88,950000.0,01-09-2015,Alm.,9895,3,Stuehus,96,1956,
+Egevænget 25 5771 Stenstrup,25,885000.0,24-08-2015,Alm.,7972,4,Villa,111,1973,-1 %
+Vinkelvej 4 5771 Stenstrup,4,2900000.0,10-08-2015,Alm.,13004,14,Villa,223,1906,-9 %
+Assensvej 188 5771 Stenstrup,188,580000.0,05-08-2015,Alm.,5631,5,Villa,103,1927,-14 %
+Løgeskov 64A 5771 Stenstrup,0,1035000.0,05-08-2015,Alm.,11129,2,Stuehus,93,1850,
+Assensvej 33 5771 Stenstrup,33,1200000.0,04-08-2015,Alm.,7594,4,Villa,158,1900,
+Assensvej 233 5771 Stenstrup,233,100000.0,23-07-2015,Alm.,1428,3,Villa,70,1778,
+Humlevænget 2 5771 Stenstrup,2,1000000.0,22-07-2015,Alm.,8196,4,Villa,122,1964,-9 %
+Rødmevej 29 5771 Stenstrup,29,394500.0,07-07-2015,Andet,5717,3,Villa,69,1938,
+Kirkeby Sand 35 5771 Stenstrup,35,1350000.0,05-07-2015,Alm.,10384,4,Villa,130,1910,-3 %
+Assensvej 54 5771 Stenstrup,54,452400.0,26-05-2015,Auktion,3278,5,Villa,138,1927,-52 %
+Assensvej 291 5771 Stenstrup,291,600000.0,25-05-2015,Fam.,5042,3,Villa,119,1994,
+Nystedsvej 10 5771 Stenstrup,10,1000000.0,22-05-2015,Alm.,5319,5,Villa,188,1966,-9 %
+Løgeskov 18 5771 Stenstrup,18,380123.0,15-05-2015,Fam.,4087,4,Villa,93,1900,-30 %
+Åparken 17 5771 Stenstrup,17,1575000.0,06-05-2015,Alm.,9545,7,Villa,165,1973,0 %
+Sandbjergvej 2 5771 Stenstrup,2,325000.0,21-04-2015,Andet,3350,3,Villa,97,1959,
+Rårudvej 6 5771 Stenstrup,6,1100000.0,09-04-2015,Alm.,11578,3,Villa,95,1675,-4 %
+Assensvej 262 5771 Stenstrup,262,395000.0,27-03-2015,Alm.,1639,7,Villa,241,1914,-12 %
+Alpevej 10 5771 Stenstrup,10,1350000.0,19-02-2015,Alm.,10800,4,Villa,125,2000,
+Vængevej 2 5771 Stenstrup,2,850000.0,18-02-2015,Alm.,8947,3,Villa,95,1949,-5 %
+Hovedvejen 43 5771 Stenstrup,43,625000.0,09-02-2015,Alm.,4340,3,Villa,144,1934,-4 %
+Stationsvej 76 5771 Stenstrup,76,1000000.0,09-02-2015,Alm.,6666,5,Villa,150,1900,-16 %
+Hedevej 28 5771 Stenstrup,28,850000.0,05-02-2015,Alm.,6439,6,Villa,132,1889,-5 %
+Morten Peders Vej 75 5771 Stenstrup,75,1935000.0,28-01-2015,Alm.,12900,6,Villa,150,2012,-3 %
+Toftevej 5 5771 Stenstrup,5,750000.0,22-01-2015,Alm.,4411,6,Villa,170,1970,-25 %
+Morten Peders Vej 85 5771 Stenstrup,85,674169.0,21-01-2015,Fam.,4036,5,Villa,167,2008,
+"Assensvej 154, 1 5771 Stenstrup",1,55000.0,06-01-2015,Alm.,1375,2,Anden beboelse,40,1947,
+Nystedsvej 13 5771 Stenstrup,13,450000.0,22-12-2014,Alm.,4455,3,Villa,101,1964,-9 %
+Solparken 16 5771 Stenstrup,16,475000.0,18-12-2014,Alm.,4947,4,Villa,96,1984,-27 %
+Hovedvejen 41 5771 Stenstrup,41,1050000.0,15-12-2014,Alm.,6953,6,Villa,151,1931,
+Højbjergvej 4 5771 Stenstrup,4,1388188.0,09-12-2014,Andet,6610,7,Villa,210,1858,
+Højevej 19 5771 Stenstrup,19,550000.0,21-11-2014,Alm.,4661,5,Villa,118,1927,-21 %
+Bøgevænget 5 5771 Stenstrup,5,725000.0,04-11-2014,Alm.,4341,6,Villa,167,1977,-14 %
+Løgeskov 82 5771 Stenstrup,82,750000.0,30-10-2014,Auktion,4166,4,Villa,180,1880,-25 %
+Stationsvej 58 5771 Stenstrup,58,196800.0,08-10-2014,Auktion,1711,5,Villa,115,1904,-50 %
+Assensvej 300 5771 Stenstrup,300,500000.0,07-10-2014,Fam.,2906,5,Villa,172,1877,
+Gammel Sognevej 1 5771 Stenstrup,1,745000.0,05-10-2014,Alm.,7925,3,Villa,94,1964,-6 %
+Byvænget 13 5771 Stenstrup,13,650000.0,02-10-2014,Alm.,6190,3,Rækkehus,105,1985,-6 %
+Trollekrogsvej 8 5771 Stenstrup,8,1265000.0,01-10-2014,Alm.,11096,5,Villa,114,1956,
+Birkevænget 4 5771 Stenstrup,4,865000.0,17-09-2014,Alm.,8737,3,Villa,99,1967,-4 %
+Assensvej 27 5771 Stenstrup,27,463000.0,28-08-2014,Alm.,5511,3,Villa,84,1956,
+Bobjergvej 20 5771 Stenstrup,20,2275000.0,28-08-2014,Alm.,13461,6,Villa,169,1955,
+Alpevej 8 5771 Stenstrup,8,120000.0,06-08-2014,Alm.,1153,3,Villa,104,1777,-31 %
+Stationsvej 51 5771 Stenstrup,51,495000.0,04-08-2014,Alm.,4024,4,Villa,123,1890,0 %
+Teglbakken 32 5771 Stenstrup,32,1385000.0,31-07-2014,Alm.,8343,6,Villa,166,1979,-7 %
+Assensvej 20 5771 Stenstrup,20,675000.0,21-07-2014,Alm.,4299,4,Villa,157,1900,
+Teglbakken 25 5771 Stenstrup,25,930000.0,21-07-2014,Alm.,8857,4,Villa,105,1996,-15 %
+Stenbankevej 3 5771 Stenstrup,3,656750.0,18-07-2014,Alm.,3026,7,Villa,217,1900,
+Rårudvej 4 5771 Stenstrup,4,2030000.0,11-07-2014,Alm.,8982,6,Villa,226,1899,-8 %
+Gemalvej 17 5771 Stenstrup,17,7485000.0,03-07-2014,Alm.,23390,8,Stuehus,320,1914,
+Lundevej 8 5771 Stenstrup,8,1260000.0,27-06-2014,Alm.,5915,4,Villa,213,1900,-8 %
+Hundstrupvej 8 5771 Stenstrup,8,950000.0,25-06-2014,Alm.,9693,3,Villa,98,1927,-17 %
+Stationsvej 100 5771 Stenstrup,100,668000.0,24-06-2014,Alm.,2446,8,Stuehus,273,1882,
+Nystedsvej 7 5771 Stenstrup,7,695000.0,20-05-2014,Alm.,7239,4,Villa,96,1963,0 %
+Kildevej 2 5771 Stenstrup,2,660000.0,25-04-2014,Alm.,6600,3,Villa,100,1965,-11 %
+"Assensvej 39, 1 5771 Stenstrup",1,740000.0,24-04-2014,Alm.,10000,2,Lejlighed,74,1915,
+Assensvej 254 5771 Stenstrup,254,330000.0,24-04-2014,Auktion,2750,4,Villa,120,1900,-66 %
+Hostrupvej 16 5771 Stenstrup,16,696600.0,15-04-2014,Fam.,5663,4,Villa,123,1898,
+Tværvej 14 5771 Stenstrup,14,600000.0,12-04-2014,Alm.,7058,3,Villa,85,1959,-25 %
+Teglbakken 51 5771 Stenstrup,51,975000.0,10-04-2014,Alm.,5477,5,Villa,178,1979,-7 %
+Lindevej 29 5771 Stenstrup,29,1450000.0,06-04-2014,Alm.,41428,1,Rækkehus,35,1969,
+Løgeskov 19 5771 Stenstrup,19,688500.0,27-03-2014,Alm.,3642,5,Villa,189,1780,
+Hønsehavevej 9 5771 Stenstrup,9,829479.0,24-03-2014,Andet,4126,7,Villa,201,1877,
+Hundtofte 20 5771 Stenstrup,20,2642626.0,28-02-2014,Alm.,11539,6,Stuehus,229,1906,
+Slæbæk Skov 3 5771 Stenstrup,3,250656.0,06-02-2014,Alm.,1617,5,Villa,155,1977,
+Pavegyden 10 5771 Stenstrup,10,4700000.0,31-01-2014,Andet,32413,3,Villa,145,1877,
+Alpevej 14 5771 Stenstrup,14,710000.0,30-01-2014,Alm.,5916,5,Villa,120,1898,-5 %
+Teglbakken 3A 5771 Stenstrup,0,970000.0,24-01-2014,Alm.,11411,3,Rækkehus,85,2000,-11 %
+Toftevej 8 5771 Stenstrup,8,1295000.0,18-01-2014,Alm.,8144,6,Villa,159,1970,-7 %
+Egevænget 48 5771 Stenstrup,48,985000.0,15-01-2014,Alm.,8565,4,Villa,115,1976,-10 %
+Assensvej 239 5771 Stenstrup,239,700000.0,11-01-2014,Alm.,4827,7,Villa,145,1947,-17 %
+Egevænget 55 5771 Stenstrup,55,801500.0,02-01-2014,Fam.,5725,5,Villa,140,1974,
+Assensvej 91 5771 Stenstrup,91,350000.0,27-11-2013,Alm.,3645,3,Villa,96,1900,-11 %
+Bobjergvej 26 5771 Stenstrup,26,760000.0,23-11-2013,Alm.,3377,9,Stuehus,225,1860,
+Gammel Sognevej 14 5771 Stenstrup,14,500000.0,19-11-2013,Fam.,3676,4,Villa,136,1973,
+Nørregårdsvej 19 5771 Stenstrup,19,650000.0,15-11-2013,Alm.,6372,3,Villa,102,1938,-5 %
+Hundstrupvej 22 5771 Stenstrup,22,1145000.0,08-11-2013,Alm.,10700,4,Villa,107,1828,-8 %
+Solparken 12 5771 Stenstrup,12,490000.0,04-11-2013,Fam.,4152,4,Villa,118,1986,
+Assensvej 317 5771 Stenstrup,317,970000.0,24-10-2013,Alm.,5639,5,Villa,172,1922,-3 %
+Hedevej 36 5771 Stenstrup,36,1000000.0,17-10-2013,Alm.,9090,2,Stuehus,110,1800,-16 %
+Høje Dong 12 5771 Stenstrup,12,1500000.0,17-10-2013,Auktion,8522,4,Stuehus,176,2015,
+Hovedvejen 39 5771 Stenstrup,39,435547.0,08-10-2013,Fam.,3570,3,Villa,122,1900,-27 %
+Høje Dong 3 5771 Stenstrup,3,4975000.0,30-09-2013,Alm.,20729,7,Stuehus,240,1795,
+Hundstrupvej 25 5771 Stenstrup,25,1175000.0,06-08-2013,Alm.,11519,4,Villa,102,1965,-9 %
+Hønsehavevej 19 5771 Stenstrup,19,24199335.0,05-08-2013,Auktion,196742,3,Stuehus,123,1986,
+Teglbakken 13A 5771 Stenstrup,0,912500.0,02-08-2013,Alm.,10735,3,Rækkehus,85,2000,-17 %
+Assensvej 69 5771 Stenstrup,69,350000.0,10-07-2013,Alm.,2187,5,Villa,160,1914,
+Bøllemosen 12A 5771 Stenstrup,0,350000.0,02-07-2013,Fam.,2845,4,Villa,123,1877,
+Bøgevænget 18 5771 Stenstrup,18,850000.0,01-07-2013,Fam.,7024,3,Villa,121,1986,
+Højes Ris 7 5771 Stenstrup,7,300000.0,27-06-2013,Fam.,2777,5,Stuehus,108,1912,
+Teglbakken 26 5771 Stenstrup,26,706091.0,09-06-2013,Alm.,6361,4,Villa,111,1979,
+"Stationsvej 15B, 1 5771 Stenstrup",1,1800000.0,27-05-2013,Alm.,15254,4,Lejlighed,118,1965,
+Hasselvænget 7 5771 Stenstrup,7,195000.0,25-05-2013,Alm.,1300,5,Villa,150,2017,-29 %
+Lindevej 11 5771 Stenstrup,11,1425000.0,17-05-2013,Alm.,11974,4,Villa,119,1965,-11 %
+Assensvej 34 5771 Stenstrup,34,1185000.0,18-04-2013,Alm.,5780,7,Villa,205,1936,-8 %
+Nystedsvej 2 5771 Stenstrup,2,900000.0,28-03-2013,Alm.,9574,3,Villa,94,1963,-5 %
+Vængevej 43 5771 Stenstrup,43,596000.0,26-02-2013,Fam.,6020,4,Villa,99,1957,
+Assensvej 101 5771 Stenstrup,101,454815.0,08-02-2013,Andet,3667,4,Villa,124,1900,
+Assensvej 298 5771 Stenstrup,298,1900000.0,07-02-2013,Auktion,13286,7,Stuehus,143,1778,
+Rødmevej 31 5771 Stenstrup,31,1195000.0,07-02-2013,Auktion,6638,6,Stuehus,180,1881,
+Rødmevej 42 5771 Stenstrup,42,525000.0,07-02-2013,Auktion,3547,5,Villa,148,1967,
+Åvangen 23 5771 Stenstrup,23,692570.0,05-02-2013,Fam.,3957,5,Villa,175,1966,
+Rårudvej 8 5771 Stenstrup,8,1000000.0,23-01-2013,Alm.,6250,7,Villa,160,1937,
+Løgeskov 3 5771 Stenstrup,3,4810000.0,11-01-2013,Alm.,27643,8,Stuehus,174,1878,
+Assensvej 167 5771 Stenstrup,167,875000.0,07-01-2013,Fam.,6679,4,Villa,131,1939,
+Gemalvej 9 5771 Stenstrup,9,1595000.0,03-01-2013,Alm.,7896,5,Villa,202,1973,-6 %
+Engvej 2 5771 Stenstrup,2,995000.0,03-01-2013,Alm.,11569,3,Villa,86,1963,0 %
+Assensvej 29 5771 Stenstrup,29,950000.0,27-12-2012,Alm.,5053,8,Villa,188,1946,-5 %
+Bobjergvej 28 5771 Stenstrup,28,726670.0,20-12-2012,Alm.,4059,6,Stuehus,179,1728,
+Skolevej 6 5771 Stenstrup,6,585000.0,16-12-2012,Fam.,8125,2,Villa,72,1989,
+Hovedvejen 88 5771 Stenstrup,88,337500.0,21-11-2012,Alm.,1973,6,Villa,171,1900,
+Stationsvej 78 5771 Stenstrup,78,1137500.0,15-11-2012,Alm.,8552,7,Villa,133,1903,-3 %
+Sognevej 40 5771 Stenstrup,40,350000.0,05-11-2012,Alm.,3181,3,Villa,110,1927,
+Bobjergvej 18 5771 Stenstrup,18,145000.0,02-11-2012,Alm.,2013,3,Villa,72,1908,-41 %
+Hovedvejen 21 5771 Stenstrup,21,21000.0,31-10-2012,Auktion,168,3,Villa,125,1800,-93 %
+Alpevej 12 5771 Stenstrup,12,824500.0,30-10-2012,Fam.,3963,8,Villa,208,1888,
+Løgeskov 60 5771 Stenstrup,60,1750000.0,22-10-2012,Alm.,12867,4,Stuehus,136,2005,-8 %
+Stenbankevej 4 5771 Stenstrup,4,120000.0,15-10-2012,Alm.,625,6,Villa,192,1800,
+Hedevej 10 5771 Stenstrup,10,700000.0,29-09-2012,Fam.,6086,4,Villa,115,1907,
+Højbjergvej 15 5771 Stenstrup,15,1670547.0,29-09-2012,Fam.,19424,3,Villa,86,1778,
+Stationsvej 56 5771 Stenstrup,56,1250000.0,27-07-2012,Alm.,9541,5,Villa,131,1910,-3 %
+Ahornvænget 20 5771 Stenstrup,20,1075000.0,26-07-2012,Alm.,10141,4,Villa,106,1977,0 %
+Birkevænget 8 5771 Stenstrup,8,1315000.0,05-07-2012,Alm.,8708,5,Villa,151,1967,-6 %
+Lindevej 9 5771 Stenstrup,9,1170000.0,02-07-2012,Alm.,8013,5,Villa,146,1964,-10 %
+Stationsvej 43 5771 Stenstrup,43,1500000.0,01-07-2012,Alm.,22388,6,Servicevirksomhed,67,1900,
+Åparken 7 5771 Stenstrup,7,1125000.0,30-06-2012,Alm.,10321,4,Villa,109,1975,-6 %
+Gammel Sognevej 20 5771 Stenstrup,20,965000.0,28-06-2012,Alm.,11091,3,Villa,87,1963,-3 %
+Nystedsvej 14 5771 Stenstrup,14,1295000.0,16-05-2012,Alm.,11068,4,Villa,117,1965,0 %
+Bøgevænget 22 5771 Stenstrup,22,1325000.0,09-05-2012,Alm.,11936,4,Villa,111,1978,-5 %
+Sandbjergvej 14 5771 Stenstrup,14,650000.0,08-05-2012,Alm.,5508,6,Villa,118,1934,
+Byvænget 5 5771 Stenstrup,5,1500000.0,02-05-2012,Fam.,13392,3,Villa,112,2007,
+Stationsvej 50 5771 Stenstrup,50,1060000.0,27-04-2012,Alm.,7794,5,Villa,136,1946,-11 %
+Åparken 36 5771 Stenstrup,36,1000000.0,13-04-2012,Alm.,5952,4,Villa,168,1972,-16 %
+Morten Peders Vej 81 5771 Stenstrup,81,1065792.0,07-04-2012,Fam.,7350,5,Villa,145,2007,
+Åvangen 10 5771 Stenstrup,10,1100000.0,06-04-2012,Alm.,6547,7,Villa,168,1969,-8 %
+Assensvej 93 5771 Stenstrup,93,675000.0,16-03-2012,Andet,5487,4,Stuehus,123,1895,
+Haugstedvænget 3 5771 Stenstrup,3,1200000.0,27-02-2012,Alm.,9375,5,Villa,128,1973,-14 %
+Vævervej 22 5771 Stenstrup,22,700000.0,22-02-2012,Alm.,7865,3,Villa,89,1962,-12 %
+Egebjergvej 21 5771 Stenstrup,21,1171700.0,21-02-2012,Fam.,7369,7,Villa,159,1907,
+Åparken 6 5771 Stenstrup,6,1295000.0,09-02-2012,Alm.,7801,6,Villa,166,1974,-7 %
+Assensvej 265 5771 Stenstrup,265,75000.0,02-02-2012,Auktion,405,5,Villa,185,1852,-87 %
+Pilegårdsvej 36 5771 Stenstrup,36,750000.0,26-01-2012,Fam.,5434,6,Stuehus,138,1953,
+Assensvej 182 5771 Stenstrup,182,1000000.0,11-01-2012,Alm.,6944,5,Villa,144,1925,-6 %
+Højes Ris 3 5771 Stenstrup,3,1710000.0,11-01-2012,Auktion,13680,4,Stuehus,125,1928,
+Hundstrupvej 30A 5771 Stenstrup,0,575000.0,21-12-2011,Alm.,8098,2,Villa,71,1850,
+Nørregårdsvej 10 5771 Stenstrup,10,444500.0,20-12-2011,Alm.,3175,6,Villa,140,1906,
+Rødmevej 8 5771 Stenstrup,8,875000.0,19-12-2011,Alm.,6730,4,Villa,130,1875,
+Assensvej 153 5771 Stenstrup,153,650000.0,19-11-2011,Alm.,7386,4,Villa,88,1905,-18 %
+Hovedvejen 42 5771 Stenstrup,42,525000.0,17-10-2011,Fam.,3365,6,Villa,156,1924,-59 %
+Egebjergvej 27 5771 Stenstrup,27,800000.0,13-10-2011,Auktion,5298,6,Villa,151,1732,
+Gammel Sognevej 12 5771 Stenstrup,12,513000.0,04-10-2011,Andet,3288,7,Villa,156,1967,
+Hundstrupvej 46 5771 Stenstrup,46,340000.0,08-09-2011,Alm.,3469,3,Villa,98,1957,-14 %
+Rørkærvej 3 5771 Stenstrup,3,2995000.0,31-08-2011,Alm.,12076,5,Stuehus,248,2013,
+Rødmevej 37 5771 Stenstrup,37,535000.0,04-08-2011,Alm.,7328,3,Villa,73,1888,-21 %
+Assensvej 179 5771 Stenstrup,179,1050000.0,04-08-2011,Alm.,10096,2,Villa,104,1939,-11 %
+Toftevej 15 5771 Stenstrup,15,1150000.0,01-08-2011,Alm.,11500,3,Villa,100,1973,-1 %
+Assensvej 191 5771 Stenstrup,191,1075000.0,14-07-2011,Alm.,9110,4,Villa,118,1937,-12 %
+Tørvelong 26 5771 Stenstrup,26,850000.0,13-07-2011,Alm.,7589,4,Villa,112,1925,-7 %
+Stationsvej 44 5771 Stenstrup,44,1200000.0,10-07-2011,Alm.,7017,4,Villa,171,1940,-25 %
+Kildevej 1 5771 Stenstrup,1,450000.0,29-06-2011,Alm.,2083,7,Stuehus,216,1903,-43 %
+Assensvej 222 5771 Stenstrup,222,1200000.0,24-06-2011,Alm.,6703,6,Villa,179,1900,-7 %
+Sandbjergvej 38 5771 Stenstrup,38,50000.0,21-06-2011,Alm.,442,4,Villa,113,1948,-93 %
+Bobjergvej 19 5771 Stenstrup,19,1050000.0,07-06-2011,Alm.,8076,4,Villa,130,1850,0 %
+Stationsvej 52 5771 Stenstrup,52,900000.0,27-05-2011,Alm.,6521,6,Villa,138,1950,-5 %
+Egevænget 38 5771 Stenstrup,38,374000.0,16-05-2011,Alm.,2968,5,Villa,126,1973,
+Kirkeby Sand 10 5771 Stenstrup,10,1095000.0,13-05-2011,Alm.,11060,4,Villa,99,1958,0 %
+Solparken 14 5771 Stenstrup,14,1800000.0,27-04-2011,Auktion,12949,5,Villa,139,2000,-9 %
+Egevænget 23 5771 Stenstrup,23,1950000.0,19-04-2011,Alm.,10714,6,Villa,182,1972,-6 %
+Lindevej 6 5771 Stenstrup,6,750000.0,14-04-2011,Alm.,6818,4,Villa,110,1963,-19 %
+Haugstedvænget 8 5771 Stenstrup,8,1900000.0,01-04-2011,Alm.,8715,7,Villa,218,1972,
+Hasselvænget 40 5771 Stenstrup,40,2075000.0,28-03-2011,Alm.,13562,6,Villa,153,2003,0 %
+Assensvej 71 5771 Stenstrup,71,2225000.0,26-03-2011,Alm.,4723,13,Villa,471,1890,-11 %
+Kirkevej 8B 5771 Stenstrup,0,1395000.0,16-03-2011,Alm.,10568,4,Villa,132,1978,0 %
+Hundstrupvej 23 5771 Stenstrup,23,1070000.0,13-03-2011,Alm.,4713,6,Stuehus,227,1972,-63 %
+Hønsehavevej 21 5771 Stenstrup,21,2210000.0,02-03-2011,Auktion,8435,7,Villa,262,1892,
+Egevænget 3 5771 Stenstrup,3,825000.0,01-03-2011,Alm.,3819,8,Villa,216,1977,
+Rødmevej 6 5771 Stenstrup,6,525196.0,24-02-2011,Andet,3366,4,Villa,156,1900,
+Hovedvejen 23 5771 Stenstrup,23,2450000.0,17-02-2011,Alm.,8781,11,Stuehus,279,1856,-6 %
+Hovedvejen 33 5771 Stenstrup,33,368843.0,27-01-2011,Alm.,1808,6,Villa,204,1895,
+Vængevej 37 5771 Stenstrup,37,670656.0,20-01-2011,Andet,4824,5,Villa,139,1900,
+Assensvej 3 5771 Stenstrup,3,200000.0,20-01-2011,Auktion,1834,4,Villa,109,1912,-64 %
+Teglbakken 3B 5771 Stenstrup,0,1045000.0,13-01-2011,Alm.,12294,3,Rækkehus,85,2000,-5 %
+Hundtofte 17 5771 Stenstrup,17,455000.0,10-01-2011,Alm.,4789,5,Villa,95,1900,-24 %
+Egebjergvej 11 5771 Stenstrup,11,575000.0,06-01-2011,Alm.,5637,4,Villa,102,1877,-11 %
+Hundtofte 4 5771 Stenstrup,4,1210000.0,17-12-2010,Alm.,7806,5,Villa,155,1966,
+Toftevej 12 5771 Stenstrup,12,424000.0,15-12-2010,Fam.,3854,4,Villa,110,1971,
+Tørvelong 12 5771 Stenstrup,12,550000.0,13-12-2010,Alm.,5140,3,Villa,107,1900,
+Pilegårdsvej 32 5771 Stenstrup,32,640000.0,10-12-2010,Alm.,7191,3,Villa,89,1954,
+Krarupvej 19 5771 Stenstrup,19,609658.0,19-11-2010,Fam.,4762,3,Villa,128,1890,
+Alpevej 13 5771 Stenstrup,13,632500.0,18-11-2010,Fam.,3904,6,Villa,162,1830,
+Løgeskov 5 5771 Stenstrup,5,698447.0,10-11-2010,Andet,2984,5,Villa,234,1919,
+Assensvej 193 5771 Stenstrup,193,1700000.0,01-11-2010,Alm.,10000,5,Villa,170,1970,-15 %
+Nystedsvej 5 5771 Stenstrup,5,1100000.0,22-10-2010,Alm.,10784,4,Villa,102,1962,-8 %
+Assensvej 87 5771 Stenstrup,87,835000.0,19-10-2010,Alm.,8350,4,Villa,100,1947,-7 %
+Sandbjergvej 32 5771 Stenstrup,32,1840000.0,11-10-2010,Alm.,10823,5,Villa,170,2009,-3 %
+Hovedvejen 84 5771 Stenstrup,84,865000.0,11-10-2010,Alm.,6553,4,Villa,132,1870,-9 %
+Pilegårdsvej 33 5771 Stenstrup,33,925000.0,08-10-2010,Alm.,4719,5,Stuehus,196,1848,
+Løgeskov 50B 5771 Stenstrup,0,1950000.0,06-10-2010,Alm.,5416,10,Villa,360,1878,-7 %
+Kirkevej 8A 5771 Stenstrup,0,1150000.0,04-10-2010,Alm.,7371,5,Villa,156,1931,-8 %
+Kirkevej 7 5771 Stenstrup,7,955000.0,23-08-2010,Alm.,11937,3,Villa,80,1953,-4 %
+Teglbakken 31 5771 Stenstrup,31,1450000.0,12-08-2010,Fam.,10069,6,Villa,144,1979,
+Sognevej 53 5771 Stenstrup,53,475000.0,05-08-2010,Alm.,4656,3,Villa,102,1907,-20 %
+Alpevej 3 5771 Stenstrup,3,625000.0,03-08-2010,Andet,2500,9,Stuehus,250,1890,
+Sognevej 48 5771 Stenstrup,48,844289.0,27-07-2010,Alm.,3418,5,Villa,247,2009,
+Stationsvej 24 5771 Stenstrup,24,650000.0,20-07-2010,Fam.,6842,3,Villa,95,1907,
+Hundtofte 44 5771 Stenstrup,44,610000.0,02-07-2010,Alm.,6100,3,Villa,100,1800,-12 %
+Trollekrogsvej 14 5771 Stenstrup,14,802000.0,19-06-2010,Alm.,4030,3,Stuehus,199,1900,
+Krarupvej 41 5771 Stenstrup,41,1541269.0,07-06-2010,Andet,12843,6,Stuehus,120,1928,
+Assensvej 145 5771 Stenstrup,145,870000.0,03-06-2010,Alm.,7372,3,Villa,118,1910,-13 %
+Løgeskov 47 5771 Stenstrup,47,680000.0,23-05-2010,Fam.,5354,3,Villa,127,1953,
+Løgeskov 62 5771 Stenstrup,62,850000.0,23-05-2010,Fam.,2814,8,Villa,302,1897,
+Lundevej 5 5771 Stenstrup,5,475533.0,20-05-2010,Alm.,2935,6,Villa,162,1860,
+Solparken 30 5771 Stenstrup,30,2135000.0,11-05-2010,Alm.,14328,5,Villa,149,2007,-6 %
+Lærkevej 7 5771 Stenstrup,7,1350000.0,29-04-2010,Alm.,11538,5,Villa,117,1967,0 %
+Ahornvænget 6 5771 Stenstrup,6,1075000.0,29-04-2010,Alm.,9110,4,Villa,118,1979,-2 %
+Assensvej 299 5771 Stenstrup,299,875000.0,19-04-2010,Alm.,5833,4,Villa,150,2012,-12 %
+Slæbæk Skov 6 5771 Stenstrup,6,550000.0,13-04-2010,Alm.,4741,7,Stuehus,116,1916,
+Sognevej 54 5771 Stenstrup,54,300000.0,13-04-2010,Auktion,1162,6,Villa,258,1804,
+Vinkelvej 1 5771 Stenstrup,1,420000.0,24-02-2010,Alm.,4200,3,Villa,100,1878,-28 %
+Assensvej 217B 5771 Stenstrup,0,1500000.0,24-02-2010,Alm.,15000,4,Villa,100,1962,-23 %
+Hovedvejen 28 5771 Stenstrup,28,400000.0,19-02-2010,Fam.,2702,6,Villa,148,1877,
+Lindevej 12 5771 Stenstrup,12,625000.0,19-01-2010,Alm.,5580,5,Villa,112,1965,
+Højbjergvej 17 5771 Stenstrup,17,1130000.0,15-01-2010,Alm.,7290,5,Villa,155,1921,-5 %
+Hundstrupvej 27 5771 Stenstrup,27,545000.0,27-10-2009,Alm.,7569,2,Villa,72,1880,0 %
+Kirkevej 21 5771 Stenstrup,21,3500000.0,18-10-2009,Alm.,14000,6,Villa,250,1914,0 %
+Hundstrupvej 32 5771 Stenstrup,32,600000.0,07-10-2009,Alm.,2380,7,Stuehus,252,1907,
+Stationsvej 103 5771 Stenstrup,103,2775000.0,30-09-2009,Fam.,5495,10,Stuehus,505,1893,
+Sandbjergvej 28 5771 Stenstrup,28,500000.0,18-09-2009,Fam.,5747,4,Villa,87,1955,
+Toftevej 11 5771 Stenstrup,11,1295000.0,08-09-2009,Alm.,9384,4,Villa,138,1969,0 %
+Hovedvejen 32 5771 Stenstrup,32,1350000.0,06-08-2009,Alm.,2518,10,Villa,536,1909,
+Solparken 24 5771 Stenstrup,24,310000.0,22-07-2009,Alm.,1781,5,Villa,174,2012,-17 %
+Stationsvej 41 5771 Stenstrup,41,1100000.0,20-07-2009,Alm.,9166,5,Villa,120,1900,-8 %
+Lærkevej 10 5771 Stenstrup,10,1075000.0,14-07-2009,Alm.,8811,5,Villa,122,1965,-9 %
+Løgeskov 28 5771 Stenstrup,28,1125000.0,14-07-2009,Alm.,9868,4,Villa,114,1880,-13 %
+Højbjergvej 10 5771 Stenstrup,10,1795000.0,10-07-2009,Alm.,12465,5,Villa,144,1890,0 %
+Nørregårdsvej 25 5771 Stenstrup,25,825000.0,25-06-2009,Alm.,7300,5,Villa,113,1924,-17 %
+Solparken 6 5771 Stenstrup,6,1400000.0,22-06-2009,Alm.,7692,5,Villa,182,1981,-15 %
+Højevej 7 5771 Stenstrup,7,510000.0,18-06-2009,Alm.,3863,4,Villa,132,1850,-7 %
+Krarupvej 33 5771 Stenstrup,33,1650000.0,15-06-2009,Alm.,6496,7,Villa,254,1867,-13 %
+Bøllemosen 4 5771 Stenstrup,4,3495295.0,11-06-2009,Alm.,21055,8,Stuehus,166,1890,
+Vævervej 11 5771 Stenstrup,11,1100000.0,11-06-2009,Andet,6285,8,Villa,175,1962,-26 %
+Højevej 15 5771 Stenstrup,15,892500.0,30-05-2009,Alm.,5910,8,Stuehus,151,1884,
+Assensvej 118 5771 Stenstrup,118,1175000.0,22-05-2009,Alm.,9038,4,Villa,130,1927,-8 %
+Hundstrupvej 4 5771 Stenstrup,4,1300000.0,16-05-2009,Alm.,10743,5,Villa,121,1913,-7 %
+Kirkeby Sand 45 5771 Stenstrup,45,1500000.0,06-05-2009,Alm.,9146,7,Villa,164,1966,-12 %
+Hovedvejen 9 5771 Stenstrup,9,550000.0,05-05-2009,Alm.,2791,7,Stuehus,197,1908,
+Hundstrupvej 10 5771 Stenstrup,10,680000.0,23-03-2009,Alm.,5354,5,Villa,127,1929,
+Assensvej 65 5771 Stenstrup,65,690000.0,10-03-2009,Alm.,6272,4,Villa,110,1951,-8 %
+Gemalvej 16 5771 Stenstrup,16,1140000.0,05-03-2009,Alm.,9047,4,Villa,126,1960,-1 %
+Gammel Sognevej 5 5771 Stenstrup,5,1700000.0,03-03-2009,Alm.,11888,5,Villa,143,1966,0 %
+Åvangen 12 5771 Stenstrup,12,693000.0,03-02-2009,Andet,6600,4,Villa,105,1969,
+Assensvej 61 5771 Stenstrup,61,1475000.0,30-01-2009,Alm.,8885,5,Villa,166,1949,-13 %
+Stenbankevej 7 5771 Stenstrup,7,3894000.0,15-12-2008,Fam.,17780,9,Stuehus,219,1914,
+Hundtofte 9 5771 Stenstrup,9,2425000.0,15-11-2008,Alm.,14434,4,Villa,168,1902,-3 %
+Kirkeby Sand 5 5771 Stenstrup,5,1534992.0,10-11-2008,Alm.,7379,5,Villa,208,1800,
+Lindevej 1 5771 Stenstrup,1,850000.0,08-11-2008,Alm.,8673,3,Villa,98,1964,
+Assensvej 252 5771 Stenstrup,252,1385000.0,31-10-2008,Alm.,9486,4,Villa,146,1930,-7 %
+Elmevænget 7 5771 Stenstrup,7,1250000.0,17-10-2008,Alm.,9328,5,Villa,134,1969,-3 %
+Stenbankevej 9 5771 Stenstrup,9,600000.0,13-10-2008,Alm.,2409,7,Stuehus,249,1844,
+Bøgevænget 13 5771 Stenstrup,13,1475000.0,02-10-2008,Alm.,10766,4,Villa,137,1978,-6 %
+Sognevej 65 5771 Stenstrup,65,399500.0,30-09-2008,Alm.,6443,4,Villa,62,1910,
+Præstevænget 1 5771 Stenstrup,1,731000.0,23-09-2008,Fam.,6831,3,Villa,107,1928,
+Assensvej 303 5771 Stenstrup,303,485000.0,12-09-2008,Alm.,5000,4,Villa,97,1852,8 %
+Højevej 1 5771 Stenstrup,1,700000.0,01-09-2008,Alm.,4430,5,Villa,158,1920,-10 %
+Hundstrupvej 48 5771 Stenstrup,48,795000.0,29-08-2008,Alm.,8457,3,Villa,94,1960,
+Assensvej 320 5771 Stenstrup,320,1035000.0,28-08-2008,Alm.,9000,3,Villa,115,1878,0 %
+Toftevej 19 5771 Stenstrup,19,1285000.0,26-08-2008,Alm.,9518,4,Villa,135,1971,-6 %
+Nordre Ringvej 1 5771 Stenstrup,1,750000.0,17-08-2008,Alm.,7575,4,Villa,99,1958,
+Assensvej 210A 5771 Stenstrup,0,367605.0,21-07-2008,Alm.,2552,5,Villa,144,2009,
+Assensvej 210B 5771 Stenstrup,0,290000.0,21-07-2008,Alm.,2500,3,Villa,116,2008,
+Hovedvejen 38 5771 Stenstrup,38,1190000.0,19-07-2008,Alm.,10000,5,Villa,119,1961,
+Rørkærvej 1 5771 Stenstrup,1,895000.0,17-07-2008,Alm.,4013,5,Villa,223,1900,0 %
+Assensvej 296 5771 Stenstrup,296,1595000.0,13-07-2008,Alm.,10924,3,Villa,146,1983,0 %
+Bobjergvej 5 5771 Stenstrup,5,1625000.0,10-07-2008,Alm.,9558,6,Villa,170,1915,0 %
+Bobjergvej 16 5771 Stenstrup,16,2595000.0,03-07-2008,Alm.,15175,6,Villa,171,1881,0 %
+Assensvej 205 5771 Stenstrup,205,700000.0,02-07-2008,Alm.,10937,2,Villa,64,1780,-10 %
+Åkirkevej 7 5771 Stenstrup,7,1400000.0,27-06-2008,Alm.,9210,5,Villa,152,1976,-8 %
+Byvænget 3 5771 Stenstrup,3,841500.0,25-06-2008,Fam.,6574,5,Villa,128,1970,
+Assensvej 169 5771 Stenstrup,169,636000.0,11-06-2008,Auktion,3785,5,Villa,168,1939,
+Trollekrogsvej 3 5771 Stenstrup,3,1150000.0,30-05-2008,Fam.,7232,3,Villa,159,1954,
+Assensvej 314 5771 Stenstrup,314,1245000.0,27-05-2008,Alm.,13532,3,Villa,92,1956,-4 %
+Åvangen 13 5771 Stenstrup,13,980000.0,21-05-2008,Alm.,10652,3,Villa,92,1968,-2 %
+Alpevej 1 5771 Stenstrup,1,232235.0,19-05-2008,Andet,2444,3,Villa,95,1870,
+Åvangen 9 5771 Stenstrup,9,1250000.0,05-05-2008,Alm.,12019,4,Villa,104,1969,-3 %
+Skolevej 11 5771 Stenstrup,11,1895000.0,28-04-2008,Alm.,10706,6,Villa,177,1963,0 %
+Egebjergvej 20 5771 Stenstrup,20,1395000.0,16-04-2008,Alm.,9300,5,Villa,150,1800,0 %
+Assensvej 59 5771 Stenstrup,59,1450000.0,06-04-2008,Alm.,7213,8,Villa,201,1946,-3 %
+Egebjergvej 6 5771 Stenstrup,6,1450512.0,06-04-2008,Alm.,5733,10,Stuehus,253,1828,
+Alpevej 29 5771 Stenstrup,29,1875000.0,31-03-2008,Alm.,11029,6,Villa,170,1890,0 %
+Kirkeby Sand 28 5771 Stenstrup,28,1400000.0,18-03-2008,Alm.,11570,5,Villa,121,1900,-6 %
+Morten Peders Vej 77 5771 Stenstrup,77,220000.0,18-03-2008,Alm.,1419,5,Villa,155,2008,-33 %
+Assensvej 213 5771 Stenstrup,213,1000000.0,17-03-2008,Alm.,4291,7,Villa,233,1936,
+Assensvej 95 5771 Stenstrup,95,850000.0,12-03-2008,Alm.,8333,3,Villa,102,1902,-5 %
+Bøgevænget 11 5771 Stenstrup,11,900000.0,09-03-2008,Fam.,6206,4,Villa,145,1977,
+Åvangen 6 5771 Stenstrup,6,1550000.0,07-03-2008,Alm.,13025,4,Villa,119,1971,
+Bøgevænget 8 5771 Stenstrup,8,1495000.0,22-02-2008,Alm.,13000,4,Villa,115,1976,0 %
+Egevænget 26 5771 Stenstrup,26,1395000.0,21-02-2008,Alm.,7664,7,Villa,182,1974,
+Hundstrupvej 12 5771 Stenstrup,12,730000.0,19-02-2008,Alm.,7765,3,Villa,94,1955,
+Gammel Sognevej 16 5771 Stenstrup,16,1850000.0,12-02-2008,Alm.,9893,5,Villa,187,1930,0 %
+Vængevej 6 5771 Stenstrup,6,767077.0,03-02-2008,Alm.,8618,3,Villa,89,1961,
+Højevej 21 5771 Stenstrup,21,485000.0,30-01-2008,Alm.,5987,3,Villa,81,1778,-2 %
+Krarupvej 1 5771 Stenstrup,1,2435000.0,16-01-2008,Alm.,12616,5,Villa,193,1894,
+Assensvej 285 5771 Stenstrup,285,1110000.0,10-01-2008,Alm.,6607,5,Villa,168,1900,1 %
+Høje Dong 16 5771 Stenstrup,16,1995000.0,02-01-2008,Alm.,10783,5,Villa,185,1890,0 %
+Sognevej 41 5771 Stenstrup,41,444995.0,30-12-2007,Alm.,7542,2,Villa,59,1879,
+Vævervej 7 5771 Stenstrup,7,1050000.0,18-12-2007,Alm.,10937,4,Villa,96,1961,
+Engvej 8 5771 Stenstrup,8,840000.0,17-12-2007,Alm.,5153,6,Villa,163,1920,-11 %
+Hedevej 8 5771 Stenstrup,8,950000.0,15-12-2007,Alm.,7723,5,Villa,123,1912,0 %
+Bobjergvej 10 5771 Stenstrup,10,730000.0,14-12-2007,Alm.,9358,3,Villa,78,1959,-6 %
+Egevænget 46 5771 Stenstrup,46,1225000.0,04-12-2007,Alm.,10208,4,Villa,120,1974,0 %
+Assensvej 21 5771 Stenstrup,21,925000.0,03-12-2007,Alm.,8644,4,Villa,107,1950,0 %
+Hundtofte 7 5771 Stenstrup,7,1250000.0,28-11-2007,Alm.,8620,4,Villa,145,1945,-10 %
+Teglbakken 36 5771 Stenstrup,36,1275000.0,15-11-2007,Alm.,10991,5,Villa,116,1979,-8 %
+Stationsvej 17 5771 Stenstrup,17,2100000.0,14-11-2007,Alm.,17213,7,Villa,122,1973,
+Assensvej 282 5771 Stenstrup,282,1200000.0,08-11-2007,Alm.,9160,4,Villa,131,1934,
+Hovedvejen 7 5771 Stenstrup,7,200000.0,07-11-2007,Alm.,2222,4,Villa,90,1850,
+Assensvej 198 5771 Stenstrup,198,795000.0,06-11-2007,Alm.,5760,5,Villa,138,1828,0 %
+Rødmevej 23 5771 Stenstrup,23,2465000.0,02-11-2007,Fam.,8931,5,Stuehus,276,1890,
+Kirkeby Sand 11 5771 Stenstrup,11,1810000.0,30-10-2007,Alm.,12657,5,Villa,143,1930,-1 %
+Tværvej 1B 5771 Stenstrup,0,1075000.0,24-10-2007,Alm.,12356,2,Rækkehus,87,1986,
+Engvej 3 5771 Stenstrup,3,1225000.0,16-10-2007,Alm.,8059,5,Villa,152,1965,
+Lindevej 3 5771 Stenstrup,3,850000.0,10-10-2007,Alm.,0,4,Villa,140,1964,-13 %
+Assensvej 183 5771 Stenstrup,183,1345000.0,08-10-2007,Alm.,13450,3,Villa,100,1942,0 %
+Hovedvejen 73 5771 Stenstrup,73,525000.0,28-09-2007,Alm.,5000,6,Villa,105,1915,-12 %
+Vævervej 19 5771 Stenstrup,19,2125000.0,18-09-2007,Alm.,14166,4,Stuehus,150,1870,
+Højes Ris 2 5771 Stenstrup,2,646000.0,16-09-2007,Fam.,5209,5,Villa,124,1966,
+Stationsvej 15D 5771 Stenstrup,0,1150000.0,14-09-2007,Alm.,11386,4,Villa,101,1987,
+Hovedvejen 29 5771 Stenstrup,29,750000.0,12-09-2007,Alm.,4545,6,Villa,165,1890,0 %
+Ahornvænget 1 5771 Stenstrup,1,522086.0,10-09-2007,Fam.,4424,4,Villa,118,1978,
+Hovedvejen 62 5771 Stenstrup,62,650000.0,07-09-2007,Alm.,7647,4,Villa,85,1878,-4 %
+Gemalvej 1 5771 Stenstrup,1,1500000.0,03-09-2007,Alm.,8720,5,Villa,172,1912,-6 %
+Rødmevej 28 5771 Stenstrup,28,850000.0,30-08-2007,Alm.,4047,6,Villa,210,2008,
+Assensvej 294 5771 Stenstrup,294,1490000.0,20-08-2007,Alm.,10492,5,Villa,142,1953,
+Assensvej 177 5771 Stenstrup,177,1330000.0,06-07-2007,Alm.,12788,4,Villa,104,1936,
+Kirkevej 4 5771 Stenstrup,4,660000.0,05-07-2007,Alm.,10476,2,Villa,63,1948,
+Sognevej 51 5771 Stenstrup,51,855000.0,01-07-2007,Alm.,7990,4,Villa,107,1947,7 %
+Stationsvej 1 5771 Stenstrup,1,586724.0,01-07-2007,Andet,2044,8,Villa,287,1900,
+Løgeskov 66 5771 Stenstrup,66,1950000.0,22-06-2007,Alm.,0,7,Villa,233,1890,
+Stationsvej 77 5771 Stenstrup,77,1595000.0,18-06-2007,Alm.,12760,5,Villa,125,1938,0 %
+Egevænget 5 5771 Stenstrup,5,1275000.0,14-06-2007,Alm.,9586,4,Villa,133,1974,
+Kirkeby Sand 20 5771 Stenstrup,20,1245000.0,08-06-2007,Alm.,6622,6,Villa,188,1900,
+Vængevej 23 5771 Stenstrup,23,1250000.0,06-06-2007,Alm.,8333,4,Villa,150,1966,
+Kirkevej 22 5771 Stenstrup,22,500000.0,29-05-2007,Fam.,8620,2,Villa,58,1890,
+Egebjergvej 7 5771 Stenstrup,7,625000.0,23-05-2007,Alm.,5252,6,Villa,119,1927,
+Egevænget 13 5771 Stenstrup,13,1000000.0,22-05-2007,Alm.,8064,4,Villa,124,1976,-5 %
+Byvænget 4 5771 Stenstrup,4,965000.0,15-05-2007,Alm.,9460,3,Villa,102,1965,
+Elmevænget 9 5771 Stenstrup,9,795000.0,03-05-2007,Alm.,9244,4,Villa,86,1965,0 %
+Højevej 14 5771 Stenstrup,14,624000.0,01-05-2007,Fam.,3043,6,Villa,205,1900,
+Alpevej 28 5771 Stenstrup,28,950000.0,26-04-2007,Alm.,0,5,Villa,184,1800,-5 %
+Nystedsvej 1 5771 Stenstrup,1,1260000.0,20-04-2007,Alm.,9692,4,Villa,130,1963,
+Lindevej 8 5771 Stenstrup,8,1335000.0,17-04-2007,Alm.,9020,7,Villa,148,1962,
+Assensvej 247 5771 Stenstrup,247,995000.0,16-04-2007,Alm.,9212,5,Villa,108,1900,
+Assensvej 106 5771 Stenstrup,106,1875000.0,13-04-2007,Alm.,9328,7,Villa,201,1905,-1 %
+Kirkeby Sand 22 5771 Stenstrup,22,1095000.0,07-04-2007,Alm.,10631,3,Villa,103,1890,0 %
+Åkirkevej 11 5771 Stenstrup,11,1695000.0,04-04-2007,Alm.,15000,5,Villa,113,2000,
+Hasselvænget 25 5771 Stenstrup,25,1395000.0,28-03-2007,Alm.,11071,4,Villa,126,1996,
+Teglbakken 23 5771 Stenstrup,23,1625000.0,23-03-2007,Alm.,13541,4,Villa,120,1991,
+Bøgevænget 19 5771 Stenstrup,19,1500000.0,18-03-2007,Alm.,10416,5,Villa,144,1977,
+Nørregårdsvej 2 5771 Stenstrup,2,1150000.0,14-03-2007,Alm.,7187,5,Villa,160,1900,
+Engvej 6 5771 Stenstrup,6,650000.0,12-02-2007,Alm.,5078,6,Villa,128,1905,
+Ahornvænget 18 5771 Stenstrup,18,1195000.0,26-01-2007,Alm.,10575,5,Villa,113,1979,
+Rødmevej 16 5771 Stenstrup,16,1180000.0,18-01-2007,Alm.,11800,4,Villa,100,1878,
+Højbjergvej 14 5771 Stenstrup,14,1695000.0,06-01-2007,Alm.,5167,7,Stuehus,328,2012,
+Alpevej 17 5771 Stenstrup,17,2913561.0,03-01-2007,Alm.,20518,7,Stuehus,142,1890,
+Kildevej 3 5771 Stenstrup,3,2600000.0,27-12-2006,Alm.,18705,4,Villa,139,2009,
+Pavegyden 20 5771 Stenstrup,20,490000.0,21-12-2006,Alm.,6805,2,Villa,72,1777,
+Bobjergvej 32 5771 Stenstrup,32,845000.0,18-12-2006,Alm.,7897,6,Villa,107,1727,
+Krarupvej 59 5771 Stenstrup,59,1295750.0,12-12-2006,Fam.,6229,7,Stuehus,208,1890,
+Assensvej 290 5771 Stenstrup,290,68550.0,12-12-2006,Alm.,299,5,Stuehus,229,1903,
+Kirkeby Sand 33A 5771 Stenstrup,0,895000.0,08-12-2006,Alm.,9421,3,Villa,95,1952,
+Assensvej 160 5771 Stenstrup,160,1870000.0,15-11-2006,Alm.,10218,6,Villa,183,1900,
+Haugstedvænget 7 5771 Stenstrup,7,1490000.0,30-10-2006,Alm.,8612,6,Villa,173,1974,
+Egevænget 40 5771 Stenstrup,40,815000.0,26-10-2006,Alm.,7276,5,Villa,112,1977,
+Kirkeby Sand 14 5771 Stenstrup,14,631601.0,19-10-2006,Andet,4713,6,Villa,134,1900,
+Vævervej 15 5771 Stenstrup,15,970000.0,11-10-2006,Alm.,8818,2,Villa,110,1967,
+Hundstrupvej 39 5771 Stenstrup,39,495000.0,02-10-2006,Alm.,5625,3,Villa,88,1912,
+Nørregårdsvej 17 5771 Stenstrup,17,2300000.0,28-09-2006,Alm.,13855,5,Stuehus,166,1900,
+Nordre Ringvej 61 5771 Stenstrup,61,750000.0,28-09-2006,Alm.,4385,5,Villa,171,2012,
+Krarupvej 23 5771 Stenstrup,23,60000.0,28-09-2006,Alm.,434,5,Villa,138,1870,
+Sognevej 77 5771 Stenstrup,77,2600000.0,21-09-2006,Alm.,8996,8,Villa,289,1858,
+Stationsvej 38A 5771 Stenstrup,0,950000.0,15-09-2006,Alm.,8333,5,Rækkehus,114,1893,
+Assensvej 195 5771 Stenstrup,195,1600000.0,15-09-2006,Alm.,10666,4,Villa,150,1969,
+Kirkeby Sand 39 5771 Stenstrup,39,900000.0,11-09-2006,Alm.,6250,4,Villa,144,1910,
+Stationsvej 13 5771 Stenstrup,13,1150000.0,07-09-2006,Alm.,5750,11,Villa,200,1920,
+Lundevej 6 5771 Stenstrup,6,587500.0,03-09-2006,Alm.,4519,5,Villa,130,1910,
+Vængevej 25 5771 Stenstrup,25,1325000.0,02-09-2006,Alm.,10192,4,Villa,130,1966,
+Højes Ris 10 5771 Stenstrup,10,2495000.0,18-08-2006,Alm.,9275,8,Villa,269,1898,
+Løgeskov 22 5771 Stenstrup,22,1100000.0,14-08-2006,Alm.,7692,6,Villa,143,1910,
+Krarupvej 6 5771 Stenstrup,6,1175000.0,12-08-2006,Alm.,11989,5,Villa,98,1794,
+Morten Peders Vej 79 5771 Stenstrup,79,195288.0,06-08-2006,Alm.,1122,4,Villa,174,2008,
+Assensvej 186 5771 Stenstrup,186,385000.0,04-08-2006,Andet,2916,5,Villa,132,1929,
+Vængevej 31 5771 Stenstrup,31,1375000.0,13-07-2006,Alm.,11853,4,Villa,116,1969,
+Bobjergvej 14B 5771 Stenstrup,0,2285000.0,12-07-2006,Alm.,7772,5,Villa,294,1878,
+Åvangen 2A 5771 Stenstrup,0,589000.0,11-07-2006,Alm.,8536,2,Rækkehus,69,1985,
+Løgeskov 57 5771 Stenstrup,57,765000.0,04-07-2006,Alm.,9000,4,Villa,85,1958,
+Præstevænget 6 5771 Stenstrup,6,40000.0,29-06-2006,Alm.,360,3,Stuehus,111,1928,
+Teglbakken 35 5771 Stenstrup,35,600000.0,21-06-2006,Alm.,4137,5,Villa,145,1979,
+Tværvej 18 5771 Stenstrup,18,1250000.0,21-06-2006,Alm.,7309,6,Villa,171,1960,
+Morten Peders Vej 71 5771 Stenstrup,71,235458.0,20-06-2006,Alm.,1471,4,Villa,160,2007,
+Hovedvejen 35 5771 Stenstrup,35,1390000.0,15-06-2006,Alm.,10373,5,Villa,134,1910,
+Løgeskov 31 5771 Stenstrup,31,504912.0,12-06-2006,Alm.,4590,3,Villa,110,1890,
+Solparken 22 5771 Stenstrup,22,225000.0,11-06-2006,Alm.,1510,6,Villa,149,2007,
+Hundstrupvej 56 5771 Stenstrup,56,1150000.0,31-05-2006,Alm.,5897,4,Villa,195,1924,
+Kirkevej 9 5771 Stenstrup,9,950000.0,29-05-2006,Alm.,13970,2,Villa,68,1955,
+Assensvej 202 5771 Stenstrup,202,895000.0,26-05-2006,Alm.,9835,5,Villa,91,1920,
+Vængevej 1 5771 Stenstrup,1,1625000.0,18-05-2006,Alm.,10690,4,Villa,152,1900,
+Hostrupvej 27 5771 Stenstrup,27,1025000.0,13-05-2006,Alm.,9669,3,Villa,106,1963,
+Assensvej 175 5771 Stenstrup,175,1260000.0,10-05-2006,Alm.,7682,7,Villa,164,1913,
+Rødmevej 26 5771 Stenstrup,26,775000.0,01-05-2006,Alm.,11923,3,Villa,65,1953,
+Assensvej 109 5771 Stenstrup,109,690000.0,28-04-2006,Alm.,5897,3,Villa,117,1896,
+Egebjergvej 40 5771 Stenstrup,40,825000.0,21-04-2006,Alm.,5500,6,Villa,150,1935,
+Rødmevej 15 5771 Stenstrup,15,950000.0,05-04-2006,Alm.,7851,3,Villa,121,1894,
+Sandbjergvej 12 5771 Stenstrup,12,946500.0,29-03-2006,Alm.,6908,6,Villa,137,1930,
+Engvej 5 5771 Stenstrup,5,546000.0,29-03-2006,Fam.,6348,3,Villa,86,1965,
+Assensvej 130 5771 Stenstrup,130,715000.0,28-03-2006,Alm.,8511,4,Villa,84,1961,
+Solparken 32 5771 Stenstrup,32,180000.0,22-03-2006,Alm.,1592,5,Villa,113,2008,
+Gemalvej 20 5771 Stenstrup,20,1718184.0,22-03-2006,Alm.,6092,10,Stuehus,282,1870,
+Vængevej 15 5771 Stenstrup,15,690000.0,22-03-2006,Alm.,5750,4,Villa,120,1962,
+Vængevej 8 5771 Stenstrup,8,795000.0,17-03-2006,Alm.,6022,4,Villa,132,1897,
+Løgeskov 25 5771 Stenstrup,25,795000.0,02-03-2006,Alm.,7500,3,Villa,106,1880,
+Gammel Sognevej 2A 5771 Stenstrup,0,1300000.0,27-02-2006,Alm.,5179,8,Villa,251,1900,
+Assensvej 42 5771 Stenstrup,42,600000.0,23-02-2006,Fam.,6521,3,Villa,92,1900,
+Løgeskov 23 5771 Stenstrup,23,100000.0,23-02-2006,Alm.,628,4,Villa,159,1890,
+Sandbjergvej 16 5771 Stenstrup,16,615000.0,17-02-2006,Alm.,8541,2,Villa,72,1950,
+Søndre Ringvej 6 5771 Stenstrup,6,768761.0,07-02-2006,Alm.,7844,3,Villa,98,1949,
+Assensvej 60 5771 Stenstrup,60,1300000.0,02-02-2006,Alm.,9285,5,Villa,140,1912,
+Løgeskov 26 5771 Stenstrup,26,100000.0,25-01-2006,Alm.,833,5,Villa,120,1778,
+Teglbakken 37 5771 Stenstrup,37,1395000.0,10-01-2006,Alm.,8829,6,Villa,158,1979,
+Solparken 28 5771 Stenstrup,28,192900.0,04-01-2006,Alm.,1286,6,Villa,150,2008,
+Stationsvej 15C 5771 Stenstrup,0,221588.0,19-12-2005,Andet,2877,3,Villa,77,1962,
+Trollekrogsvej 2B 5771 Stenstrup,0,1490000.0,30-11-2005,Alm.,9312,7,Villa,160,1902,
+Sandbjergvej 26 5771 Stenstrup,26,800000.0,29-11-2005,Alm.,6896,4,Villa,116,1952,
+Assensvej 170 5771 Stenstrup,170,975000.0,24-11-2005,Alm.,6632,5,Villa,147,1910,
+Højbjergvej 6 5771 Stenstrup,6,850000.0,24-11-2005,Alm.,5666,6,Stuehus,150,1944,
+Kirkevej 1 5771 Stenstrup,1,675000.0,23-11-2005,Alm.,6683,3,Villa,101,1936,
+Hønsehavevej 6 5771 Stenstrup,6,1975000.0,21-11-2005,Alm.,4418,10,Villa,447,1886,
+Assensvej 225 5771 Stenstrup,225,760000.0,21-11-2005,Alm.,8260,3,Villa,92,1932,
+Morten Peders Vej 69 5771 Stenstrup,69,204352.0,13-11-2005,Alm.,1154,5,Villa,177,2006,
+Løgeskov 51 5771 Stenstrup,51,590000.0,10-11-2005,Alm.,5841,5,Villa,101,1900,
+Assensvej 123 5771 Stenstrup,123,2195000.0,04-11-2005,Alm.,7080,9,Villa,310,1899,
+Tværvej 5 5771 Stenstrup,5,945000.0,03-11-2005,Alm.,7620,5,Villa,124,1957,
+Kirkeby Sand 12 5771 Stenstrup,12,600000.0,30-10-2005,Alm.,5405,5,Villa,111,1830,
+Højevej 4 5771 Stenstrup,4,626383.0,30-10-2005,Fam.,2771,6,Villa,226,1900,
+Nystedsvej 8 5771 Stenstrup,8,685000.0,25-10-2005,Alm.,6284,3,Villa,109,1964,
+Hundstrupvej 34 5771 Stenstrup,34,770000.0,26-09-2005,Alm.,7064,4,Villa,109,1917,
+Bobjergvej 14A 5771 Stenstrup,0,1450000.0,26-09-2005,Alm.,8430,6,Villa,172,2003,
+Assensvej 235 5771 Stenstrup,235,325000.0,19-09-2005,Alm.,4513,3,Villa,72,1877,
+Egevænget 42 5771 Stenstrup,42,930000.0,14-09-2005,Alm.,6283,6,Villa,148,1973,
+Skolevej 9 5771 Stenstrup,9,450000.0,08-09-2005,Alm.,3061,5,Villa,147,1900,
+Assensvej 165 5771 Stenstrup,165,720000.0,07-09-2005,Alm.,7346,3,Villa,98,1928,
+Stationsvej 12 5771 Stenstrup,12,880000.0,30-08-2005,Alm.,6111,7,Villa,144,1891,
+Hovedvejen 58 5771 Stenstrup,58,670000.0,26-08-2005,Alm.,5726,4,Villa,117,1936,
+Morten Peders Vej 87 5771 Stenstrup,87,254204.0,25-08-2005,Alm.,1619,6,Villa,157,2006,
+Toftevej 21 5771 Stenstrup,21,1150000.0,25-08-2005,Alm.,7565,4,Villa,152,1972,
+Stationsvej 68 5771 Stenstrup,68,940000.0,23-08-2005,Alm.,9038,4,Villa,104,1956,
+Teglbakken 49 5771 Stenstrup,49,1425000.0,18-08-2005,Alm.,8333,6,Villa,171,1988,
+Vævervej 14 5771 Stenstrup,14,1125000.0,17-08-2005,Alm.,6944,6,Villa,162,1935,
+Morten Peders Vej 73 5771 Stenstrup,73,178190.0,16-08-2005,Alm.,1120,6,Villa,159,2007,
+Assensvej 125 5771 Stenstrup,125,2500000.0,15-08-2005,Alm.,13586,6,Villa,184,2002,
+Morten Peders Vej 65 5771 Stenstrup,65,228454.0,14-08-2005,Alm.,1473,6,Villa,155,2006,
+Assensvej 293 5771 Stenstrup,293,475000.0,13-08-2005,Alm.,4203,4,Villa,113,1878,
+Nørregårdsvej 6 5771 Stenstrup,6,1425000.0,08-08-2005,Alm.,7196,6,Villa,198,1960,
+Kirkevej 29 5771 Stenstrup,29,1900000.0,08-08-2005,Alm.,10106,6,Stuehus,188,1938,
+Krarupvej 11 5771 Stenstrup,11,2070000.0,06-08-2005,Alm.,9539,7,Stuehus,217,2008,
+Trollekrogsvej 9 5771 Stenstrup,9,850000.0,02-08-2005,Alm.,4521,8,Villa,188,1954,
+Åkirkevej 1 5771 Stenstrup,1,1175000.0,26-07-2005,Alm.,9873,3,Villa,119,1973,
+Morten Peders Vej 83 5771 Stenstrup,83,194464.0,21-07-2005,Alm.,1230,6,Villa,158,2008,
+Løgeskov 54 5771 Stenstrup,54,1240000.0,21-07-2005,Alm.,4732,9,Villa,262,1850,
+Hovedvejen 26 5771 Stenstrup,26,510000.0,20-07-2005,Alm.,3541,5,Villa,144,1912,
+Hundstrupvej 40 5771 Stenstrup,40,1400000.0,12-07-2005,Alm.,15909,5,Stuehus,88,1860,
+Bøllemosen 10 5771 Stenstrup,10,675000.0,08-07-2005,Alm.,4066,5,Villa,166,1857,
+Hundstrupvej 38 5771 Stenstrup,38,3795000.0,01-07-2005,Alm.,23718,3,Stuehus,160,1967,
+Tværvej 6 5771 Stenstrup,6,1030000.0,24-06-2005,Alm.,6912,5,Villa,149,1957,
+Vævervej 2 5771 Stenstrup,2,640000.0,23-06-2005,Alm.,7619,4,Villa,84,1895,
+Højevej 22 5771 Stenstrup,22,749000.0,20-06-2005,Alm.,6089,5,Villa,123,1955,
+Rødmevej 14 5771 Stenstrup,14,800000.0,18-06-2005,Alm.,7407,3,Villa,108,1900,
+Assensvej 236 5771 Stenstrup,236,375000.0,16-06-2005,Andet,2403,6,Villa,156,1940,
+Solparken 20 5771 Stenstrup,20,895000.0,18-05-2005,Alm.,6937,4,Villa,129,1978,
+Assensvej 212 5771 Stenstrup,212,465000.0,15-05-2005,Alm.,4514,4,Villa,103,1910,
+Ahornvænget 5 5771 Stenstrup,5,895000.0,19-04-2005,Alm.,7584,4,Villa,118,1978,
+Byvænget 2 5771 Stenstrup,2,975000.0,19-04-2005,Alm.,4687,5,Villa,208,1966,
+Krarupvej 45 5771 Stenstrup,45,855000.0,18-04-2005,Alm.,6679,5,Villa,128,1854,
+Pavegårdsvej 4 5771 Stenstrup,4,700000.0,07-04-2005,Alm.,3482,6,Villa,201,1900,
+Hasselvænget 3 5771 Stenstrup,3,644375.0,05-04-2005,Alm.,7858,3,Rækkehus,82,1984,
+Assensvej 104 5771 Stenstrup,104,665000.0,02-04-2005,Alm.,6157,3,Villa,108,1900,
+Hostrupvej 20 5771 Stenstrup,20,1220000.0,01-04-2005,Alm.,6489,7,Villa,188,1960,
+Assensvej 245 5771 Stenstrup,245,340000.0,01-04-2005,Fam.,2151,5,Villa,158,1902,
+Hasselvænget 27 5771 Stenstrup,27,110136.0,21-03-2005,Alm.,888,4,Villa,124,2005,
+Assensvej 32 5771 Stenstrup,32,490000.0,07-03-2005,Auktion,5384,4,Villa,91,1949,
+Vængevej 39 5771 Stenstrup,39,720000.0,03-03-2005,Alm.,5333,4,Villa,135,1880,
+Nystedsvej 4 5771 Stenstrup,4,775000.0,02-03-2005,Alm.,8157,4,Villa,95,1963,
+Assensvej 117 5771 Stenstrup,117,3442500.0,02-03-2005,Fam.,17836,6,Stuehus,193,1878,
+Høje Dong 5 5771 Stenstrup,5,1195000.0,24-02-2005,Alm.,7198,8,Villa,166,1908,
+Grønnebjergvej 12 5771 Stenstrup,12,750000.0,22-02-2005,Andet,8823,2,Stuehus,85,1878,
+Hundstrupvej 55 5771 Stenstrup,55,400000.0,21-02-2005,Alm.,3960,4,Villa,101,1877,
+Vævervej 17 5771 Stenstrup,17,895000.0,18-02-2005,Alm.,8136,4,Villa,110,1967,
+Kirkeby Sand 33B 5771 Stenstrup,0,2700000.0,15-02-2005,Alm.,12558,7,Villa,215,1985,
+Hundtofte 3 5771 Stenstrup,3,430000.0,08-02-2005,Andet,2721,5,Villa,158,1900,
+Tørvelong 18 5771 Stenstrup,18,600000.0,28-01-2005,Alm.,2575,7,Stuehus,233,1928,
+Hønsehavevej 8 5771 Stenstrup,8,1350000.0,22-12-2004,Alm.,7031,5,Stuehus,192,1850,
+Rødmevej 10 5771 Stenstrup,10,1111000.0,14-12-2004,Alm.,7031,5,Villa,158,1777,
+Rødmevej 32 5771 Stenstrup,32,510000.0,10-12-2004,Alm.,5151,4,Villa,99,1920,
+Assensvej 264 5771 Stenstrup,264,995000.0,30-11-2004,Alm.,7107,5,Villa,140,1930,
+Alpevej 4 5771 Stenstrup,4,1400000.0,23-11-2004,Alm.,5833,6,Villa,240,1938,
+Hundstrupvej 60 5771 Stenstrup,60,2592500.0,19-11-2004,Fam.,17399,5,Stuehus,149,1904,
+Stenbankevej 2 5771 Stenstrup,2,650000.0,10-11-2004,Alm.,3869,3,Villa,168,1915,
+Hovedvejen 72 5771 Stenstrup,72,8770000.0,20-10-2004,Alm.,37319,8,Stuehus,235,1902,
+Høje Dong 2 5771 Stenstrup,2,480000.0,07-10-2004,Alm.,2823,9,Stuehus,170,1947,
+Stationsvej 8 5771 Stenstrup,8,1275000.0,26-09-2004,Alm.,8557,3,Villa,149,1935,
+Hovedvejen 11 5771 Stenstrup,11,540000.0,23-09-2004,Alm.,5294,3,Villa,102,1828,
+Assensvej 192 5771 Stenstrup,192,798000.0,02-09-2004,Alm.,7457,4,Villa,107,1932,
+Hundstrupvej 62 5771 Stenstrup,62,753324.0,30-08-2004,Andet,4232,6,Stuehus,178,2003,
+Bøgevænget 4 5771 Stenstrup,4,915000.0,27-08-2004,Alm.,4275,8,Villa,214,1977,
+Assensvej 261 5771 Stenstrup,261,760000.0,25-08-2004,Alm.,6440,5,Villa,118,1946,
+Hovedvejen 13 5771 Stenstrup,13,1100000.0,19-08-2004,Fam.,8088,7,Stuehus,136,1928,
+Åparken 32 5771 Stenstrup,32,1255000.0,02-07-2004,Alm.,6275,6,Villa,200,1986,
+Assensvej 63 5771 Stenstrup,63,850000.0,15-06-2004,Alm.,5821,7,Villa,146,1927,
+Sandbjergvej 46 5771 Stenstrup,46,485000.0,15-06-2004,Alm.,5773,3,Villa,84,1920,
+Bobjergvej 34 5771 Stenstrup,34,1200000.0,04-06-2004,Alm.,7100,6,Villa,169,1778,
+Egevænget 1 5771 Stenstrup,1,740000.0,01-06-2004,Alm.,7047,4,Villa,105,1974,
+Hundstrupvej 26 5771 Stenstrup,26,946875.0,24-05-2004,Alm.,4081,7,Stuehus,232,1983,
+Hundstrupvej 58 5771 Stenstrup,58,450000.0,22-05-2004,Alm.,2866,4,Villa,157,1924,
+Teglbakken 34 5771 Stenstrup,34,430000.0,18-05-2004,Andet,3583,4,Villa,120,1979,
+Bobjergvej 15 5771 Stenstrup,15,550000.0,18-05-2004,Alm.,5670,4,Villa,97,1960,
+Stationsvej 72 5771 Stenstrup,72,850000.0,17-05-2004,Alm.,8947,4,Villa,95,1961,
+Bobjergvej 9 5771 Stenstrup,9,755000.0,14-05-2004,Alm.,6863,3,Villa,110,1926,
+Assensvej 44 5771 Stenstrup,44,450000.0,02-04-2004,Alm.,5555,4,Villa,81,1900,
+Sandbjergvej 18 5771 Stenstrup,18,650000.0,02-04-2004,Alm.,3714,5,Villa,175,1938,
+Alpevej 31 5771 Stenstrup,31,816000.0,26-03-2004,Alm.,4184,6,Stuehus,195,1800,
+Nørregårdsvej 5 5771 Stenstrup,5,650000.0,01-03-2004,Alm.,4391,5,Stuehus,148,1880,
+Engvej 1 5771 Stenstrup,1,285000.0,05-02-2004,Alm.,3275,4,Villa,87,1963,
+Assensvej 263 5771 Stenstrup,263,565000.0,03-02-2004,Alm.,3923,4,Villa,144,1866,
+Højbjergvej 3 5771 Stenstrup,3,343465.0,15-01-2004,Fam.,1876,6,Villa,183,1903,
+Hedevej 24 5771 Stenstrup,24,685000.0,14-01-2004,Alm.,4858,4,Villa,141,1900,
+Assensvej 149 5771 Stenstrup,149,530000.0,23-12-2003,Alm.,3758,5,Villa,141,1903,
+Åvangen 16 5771 Stenstrup,16,375000.0,17-12-2003,Fam.,2840,4,Villa,132,1969,
+Assensvej 62 5771 Stenstrup,62,615000.0,20-11-2003,Alm.,3773,4,Villa,163,1933,
+Assensvej 133 5771 Stenstrup,133,650000.0,21-10-2003,Alm.,4140,5,Villa,157,1890,
+Toftevej 16 5771 Stenstrup,16,560000.0,20-10-2003,Alm.,6222,3,Villa,90,1971,
+Hedevej 26 5771 Stenstrup,26,625000.0,01-10-2003,Alm.,6377,3,Villa,98,1889,
+Krarupvej 18 5771 Stenstrup,18,12500000.0,26-09-2003,Alm.,68306,3,Villa,183,1993,
+Åkirkevej 9 5771 Stenstrup,9,1075000.0,16-09-2003,Alm.,7166,7,Villa,150,1976,
+Assensvej 103 5771 Stenstrup,103,645000.0,12-09-2003,Alm.,5039,5,Villa,128,1905,
+Løgeskov 84 5771 Stenstrup,84,785000.0,08-09-2003,Alm.,6652,3,Villa,118,1953,
+Assensvej 26 5771 Stenstrup,26,670000.0,05-09-2003,Alm.,5153,4,Villa,130,1958,
+Højes Ris 13 5771 Stenstrup,13,800000.0,19-08-2003,Alm.,8421,3,Stuehus,95,1878,
+Assensvej 85 5771 Stenstrup,85,760000.0,24-07-2003,Alm.,5891,4,Villa,129,1954,
+Stationsvej 73 5771 Stenstrup,73,600000.0,15-07-2003,Fam.,4347,4,Villa,138,1900,
+Smedegårdsvej 3 5771 Stenstrup,3,1980000.0,30-06-2003,Alm.,11186,6,Villa,177,1979,
+Løgeskov 24 5771 Stenstrup,24,280942.0,25-06-2003,Alm.,1950,5,Villa,144,1900,
+Hostrupvej 24 5771 Stenstrup,24,440000.0,13-06-2003,Alm.,4731,3,Villa,93,1963,
+Højevej 17 5771 Stenstrup,17,485000.0,11-06-2003,Alm.,2740,6,Villa,177,1903,
+Bøgevænget 2 5771 Stenstrup,2,885000.0,11-06-2003,Alm.,6413,5,Villa,138,1977,
+Skolevej 15 5771 Stenstrup,15,490000.0,28-05-2003,Alm.,5632,4,Villa,87,1800,
+Hovedvejen 15 5771 Stenstrup,15,665000.0,20-05-2003,Alm.,5541,4,Stuehus,120,1868,
+Vævervej 3 5771 Stenstrup,3,570000.0,15-05-2003,Alm.,4453,4,Villa,128,1956,
+Hovedvejen 90 5771 Stenstrup,90,970000.0,05-05-2003,Alm.,5215,6,Villa,186,1925,
+Stenbankevej 6 5771 Stenstrup,6,310000.0,05-05-2003,Fam.,1286,5,Villa,241,2001,
+Tværvej 10 5771 Stenstrup,10,912000.0,24-04-2003,Alm.,7015,6,Villa,130,1953,
+Assensvej 163 5771 Stenstrup,163,640000.0,22-04-2003,Alm.,4475,4,Villa,143,1900,
+Åparken 3 5771 Stenstrup,3,775000.0,16-04-2003,Alm.,6200,5,Villa,125,1974,
+Rødmevej 2 5771 Stenstrup,2,400000.0,09-04-2003,Alm.,3883,4,Villa,103,1850,
+Krarupvej 16 5771 Stenstrup,16,615000.0,07-04-2003,Alm.,0,7,Villa,215,1915,
+Egebjergvej 33 5771 Stenstrup,33,660663.0,02-04-2003,Alm.,5505,6,Stuehus,120,1939,
+Toftevej 10 5771 Stenstrup,10,940000.0,01-04-2003,Alm.,7067,4,Villa,133,1969,
+Gemalvej 7 5771 Stenstrup,7,485000.0,27-03-2003,Fam.,3702,4,Villa,131,1972,
+Sognevej 44 5771 Stenstrup,44,765000.0,15-03-2003,Alm.,6071,5,Villa,126,1850,
+Hovedvejen 60 5771 Stenstrup,60,150000.0,11-03-2003,Alm.,1415,3,Villa,106,2012,
+Skolevej 8 5771 Stenstrup,8,775000.0,11-03-2003,Alm.,8908,3,Villa,87,1989,
+Solparken 3 5771 Stenstrup,3,1050000.0,11-03-2003,Alm.,7446,4,Villa,141,1978,
+Birkevænget 2 5771 Stenstrup,2,485000.0,08-03-2003,Alm.,4850,3,Villa,100,1968,
+Hedevej 13 5771 Stenstrup,13,5046030.0,20-02-2003,Fam.,19407,7,Stuehus,260,1850,
+Løgeskov 49 5771 Stenstrup,49,485214.0,06-02-2003,Andet,3300,5,Villa,147,1937,
+Assensvej 159 5771 Stenstrup,159,515000.0,27-01-2003,Alm.,5722,3,Villa,90,1967,
+Hundstrupvej 47 5771 Stenstrup,47,256119.0,24-01-2003,Andet,1911,3,Villa,134,1902,
+Egebjergvej 15 5771 Stenstrup,15,1625000.0,20-01-2003,Alm.,6770,5,Villa,240,1890,
+Nørregårdsvej 21 5771 Stenstrup,21,2000000.0,10-01-2003,Alm.,8620,9,Stuehus,232,1910,
+Sandbjergvej 36 5771 Stenstrup,36,356433.0,06-01-2003,Fam.,5319,3,Villa,67,1947,
+Egevænget 36 5771 Stenstrup,36,1075000.0,19-12-2002,Alm.,5810,5,Villa,185,1973,
+Stationsvej 62 5771 Stenstrup,62,660000.0,04-12-2002,Alm.,6000,5,Villa,110,1899,
+Lindevej 14 5771 Stenstrup,14,625000.0,06-11-2002,Alm.,0,5,Villa,144,1964,
+Vængevej 3 5771 Stenstrup,3,620000.0,31-10-2002,Alm.,3924,7,Villa,158,1907,
+Tværvej 12 5771 Stenstrup,12,698000.0,29-10-2002,Alm.,9830,3,Villa,71,1954,
+Hønsehavevej 2 5771 Stenstrup,2,434000.0,28-10-2002,Alm.,3557,4,Villa,122,1907,
+Assensvej 246 5771 Stenstrup,246,993133.0,10-10-2002,Alm.,5841,4,Villa,170,1912,
+Assensvej 102 5771 Stenstrup,102,390000.0,04-10-2002,Alm.,2977,3,Villa,131,1877,
+Hønsehavevej 25 5771 Stenstrup,25,873000.0,29-08-2002,Alm.,5596,6,Villa,156,1770,
+Bøgevænget 7 5771 Stenstrup,7,775000.0,28-08-2002,Alm.,6512,4,Villa,119,1977,
+Gemalvej 19 5771 Stenstrup,19,425000.0,09-08-2002,Alm.,5000,3,Villa,85,1968,
+Krarupvej 61 5771 Stenstrup,61,1229884.0,03-08-2002,Alm.,7320,5,Stuehus,168,1924,
+Bobjergvej 24 5771 Stenstrup,24,480000.0,02-08-2002,Alm.,5853,3,Villa,82,1954,
+Vævervej 9 5771 Stenstrup,9,630000.0,29-07-2002,Alm.,2837,5,Villa,222,1962,
+Hovedvejen 76 5771 Stenstrup,76,192068.0,16-07-2002,Alm.,1289,5,Villa,149,1903,
+Teglbakken 55 5771 Stenstrup,55,418577.0,23-06-2002,Alm.,2906,6,Villa,144,1979,
+Hovedvejen 46 5771 Stenstrup,46,570000.0,20-06-2002,Fam.,3097,5,Villa,184,1866,
+Rødmevej 30 5771 Stenstrup,30,2742802.0,10-06-2002,Alm.,12082,6,Stuehus,227,1986,
+Højbjergvej 7 5771 Stenstrup,7,1615000.0,06-06-2002,Alm.,10912,5,Villa,148,1804,
+Assensvej 11 5771 Stenstrup,11,869000.0,05-06-2002,Alm.,6163,6,Villa,141,1953,
+Løgeskov 43 5771 Stenstrup,43,380624.0,03-06-2002,Alm.,4049,4,Villa,94,1830,
+Søndre Ringvej 20 5771 Stenstrup,20,625000.0,28-05-2002,Alm.,4496,5,Villa,139,1912,
+Toftevej 14 5771 Stenstrup,14,391393.0,28-05-2002,Alm.,3403,4,Villa,115,1972,
+Hønsehavevej 10 5771 Stenstrup,10,408054.0,30-04-2002,Andet,2428,5,Stuehus,168,1852,
+Assensvej 203 5771 Stenstrup,203,497000.0,29-04-2002,Alm.,6060,4,Villa,82,1968,
+Sognevej 71 5771 Stenstrup,71,375000.0,26-03-2002,Alm.,2106,7,Villa,178,1827,
+Assensvej 229 5771 Stenstrup,229,225000.0,15-03-2002,Alm.,2045,4,Villa,110,1925,
+Assensvej 221 5771 Stenstrup,221,475000.0,08-03-2002,Alm.,3187,5,Villa,149,1870,
+Åbrinken 22 5771 Stenstrup,22,1175000.0,01-03-2002,Alm.,6283,5,Villa,187,1981,
+Rødmevej 11 5771 Stenstrup,11,1842680.0,27-02-2002,Alm.,5234,8,Villa,352,1900,
+Kirkeby Sand 31 5771 Stenstrup,31,495000.0,21-02-2002,Alm.,6111,4,Villa,81,1948,
+Bobjergvej 11 5771 Stenstrup,11,615000.0,14-02-2002,Alm.,4920,4,Villa,125,1927,
+Assensvej 98 5771 Stenstrup,98,417774.0,24-01-2002,Fam.,1049,10,Villa,398,1900,
+Hundtofte 5 5771 Stenstrup,5,344730.0,17-01-2002,Alm.,2802,3,Villa,123,1961,
+Åbrinken 18 5771 Stenstrup,18,1271000.0,05-01-2002,Alm.,7389,5,Villa,172,1979,
+Kirkeby Sand 26 5771 Stenstrup,26,725000.0,19-12-2001,Alm.,5991,5,Villa,121,1955,
+Teglbakken 28 5771 Stenstrup,28,765000.0,18-12-2001,Alm.,5349,5,Villa,143,1979,
+Assensvej 79 5771 Stenstrup,79,911511.0,17-12-2001,Alm.,4124,7,Villa,221,1923,
+Bøgevænget 9 5771 Stenstrup,9,663000.0,15-12-2001,Fam.,5179,5,Villa,128,1977,
+Sognevej 73 5771 Stenstrup,73,240000.0,12-12-2001,Alm.,2123,3,Villa,113,1850,
+Rødmevej 4 5771 Stenstrup,4,475000.0,22-11-2001,Alm.,3209,7,Villa,148,1877,
+Stenbankevej 21 5771 Stenstrup,21,185000.0,31-10-2001,Alm.,852,5,Villa,217,1852,
+Assensvej 211 5771 Stenstrup,211,500000.0,27-09-2001,Alm.,2463,7,Villa,203,1778,
+Assensvej 304 5771 Stenstrup,304,102000.0,19-09-2001,Alm.,750,6,Stuehus,136,1778,
+Rødmevej 1 5771 Stenstrup,1,625000.0,13-09-2001,Alm.,2125,7,Villa,294,1917,
+Trollekrogsvej 6 5771 Stenstrup,6,130000.0,30-08-2001,Fam.,457,7,Villa,284,1959,
+Krarupvej 27 5771 Stenstrup,27,2075000.0,27-08-2001,Alm.,5136,8,Stuehus,404,1877,
+Hundstrupvej 43 5771 Stenstrup,43,160000.0,27-08-2001,Alm.,1344,4,Stuehus,119,1904,
+Kirkevej 3 5771 Stenstrup,3,500000.0,21-08-2001,Alm.,5747,3,Villa,87,1951,
+Rødmevej 27 5771 Stenstrup,27,642000.0,16-08-2001,Alm.,8916,3,Villa,72,1948,
+Hedevej 34 5771 Stenstrup,34,1100000.0,13-08-2001,Alm.,4029,11,Villa,273,1830,
+Alpevej 20 5771 Stenstrup,20,500000.0,09-08-2001,Alm.,4385,5,Villa,114,1912,
+Grøftehavevej 16 5771 Stenstrup,16,739979.0,02-07-2001,Alm.,7115,2,Stuehus,104,1877,
+Egevænget 30 5771 Stenstrup,30,1099950.0,30-06-2001,Alm.,5789,6,Villa,190,1973,
+Assensvej 162 5771 Stenstrup,162,480000.0,27-06-2001,Fam.,4363,4,Villa,110,1910,
+Egevænget 15 5771 Stenstrup,15,900000.0,21-05-2001,Alm.,5844,6,Villa,154,1973,
+Sandbjergvej 30 5771 Stenstrup,30,30000.0,08-05-2001,Auktion,230,5,Villa,130,1840,
+Egebjergvej 19 5771 Stenstrup,19,265000.0,30-04-2001,Alm.,0,5,Villa,277,1924,
+Åbrinken 12 5771 Stenstrup,12,850000.0,16-04-2001,Alm.,7727,4,Villa,110,1976,
+Lærkevej 8 5771 Stenstrup,8,650000.0,11-04-2001,Alm.,5855,5,Villa,111,1969,
+Egevænget 19 5771 Stenstrup,19,750000.0,08-04-2001,Alm.,6578,4,Villa,114,1974,
+Løgeskov 72 5771 Stenstrup,72,1225000.0,14-03-2001,Alm.,5372,7,Stuehus,228,1880,
+Stenbankevej 5 5771 Stenstrup,5,335000.0,09-03-2001,Alm.,2537,4,Villa,132,1916,
+Egevænget 53 5771 Stenstrup,53,1282000.0,06-03-2001,Alm.,7202,5,Villa,178,1973,
+Trollekrogsvej 11 5771 Stenstrup,11,850000.0,05-03-2001,Alm.,8673,3,Villa,98,1955,
+Assensvej 110 5771 Stenstrup,110,798000.0,20-02-2001,Alm.,5824,5,Villa,137,1920,
+Lundevej 16 5771 Stenstrup,16,546500.0,19-02-2001,Alm.,4752,5,Villa,115,1890,
+Lærkevej 4 5771 Stenstrup,4,540000.0,12-02-2001,Fam.,5242,3,Villa,103,1966,
+Kirkevej 12 5771 Stenstrup,12,625000.0,12-02-2001,Alm.,3633,5,Villa,172,1930,
+Løgeskov 52 5771 Stenstrup,52,2300000.0,29-01-2001,Alm.,8214,7,Villa,280,1930,
+Bobjergvej 6 5771 Stenstrup,6,252500.0,25-01-2001,Alm.,3825,3,Villa,66,1778,
+Bobjergvej 3A 5771 Stenstrup,0,780006.0,19-01-2001,Alm.,5064,6,Villa,154,1945,
+Gemalvej 11 5771 Stenstrup,11,975000.0,11-01-2001,Alm.,5131,8,Villa,190,1973,
+Solparken 18 5771 Stenstrup,18,675000.0,11-01-2001,Alm.,6308,4,Villa,107,1979,
+Åparken 13 5771 Stenstrup,13,813000.0,29-12-2000,Alm.,7390,4,Villa,110,1973,
+Assensvej 318 5771 Stenstrup,318,765000.0,11-12-2000,Alm.,5543,5,Villa,138,1970,
+Teglbakken 11A 5771 Stenstrup,0,798000.0,16-10-2000,Alm.,9388,3,Rækkehus,85,2000,
+Tørvelong 16 5771 Stenstrup,16,1400000.0,27-09-2000,Alm.,10370,4,Villa,135,1910,
+Teglbakken 13B 5771 Stenstrup,0,798000.0,20-09-2000,Alm.,9388,3,Rækkehus,85,2000,
+Humlevænget 6 5771 Stenstrup,6,538000.0,18-09-2000,Alm.,5977,3,Villa,90,1964,
+Skolevej 2A 5771 Stenstrup,0,854889.0,14-09-2000,Alm.,6476,4,Villa,132,1900,
+Hedevej 18 5771 Stenstrup,18,525000.0,11-09-2000,Alm.,3017,3,Villa,174,1913,
+Kirkeby Sand 6 5771 Stenstrup,6,1479888.0,04-09-2000,Alm.,7183,6,Stuehus,206,1878,
+Teglbakken 1A 5771 Stenstrup,0,798000.0,31-08-2000,Alm.,9388,3,Rækkehus,85,2000,
+Teglbakken 1B 5771 Stenstrup,0,798000.0,22-08-2000,Alm.,9388,3,Rækkehus,85,2000,
+Nørregårdsvej 18 5771 Stenstrup,18,350000.0,28-07-2000,Alm.,0,4,Villa,123,1820,
+Egevænget 27 5771 Stenstrup,27,936000.0,26-07-2000,Auktion,0,5,Villa,142,1974,
+Egebjergvej 16 5771 Stenstrup,16,1057239.0,06-07-2000,Alm.,9439,4,Villa,112,1996,
+Trollekrogsvej 16 5771 Stenstrup,16,1050000.0,30-06-2000,Alm.,6603,7,Villa,159,1870,
+Vængevej 41 5771 Stenstrup,41,600000.0,16-06-2000,Fam.,2643,7,Villa,227,1943,
+Egebjergvej 38 5771 Stenstrup,38,352750.0,13-06-2000,Fam.,1712,4,Villa,206,1912,
+Alpevej 7 5771 Stenstrup,7,783314.0,12-06-2000,Alm.,7833,4,Villa,100,1969,
+Jernbanevej 2 5771 Stenstrup,2,1100000.0,17-05-2000,Alm.,8396,23,Servicevirksomhed,131,1875,
+Tværvej 11 5771 Stenstrup,11,600000.0,03-05-2000,Alm.,5660,4,Villa,106,1960,
+Hedevej 7 5771 Stenstrup,7,412474.0,19-04-2000,Alm.,3466,6,Villa,119,1955,
+Elmevænget 2 5771 Stenstrup,2,875000.0,18-04-2000,Alm.,7812,3,Villa,112,1965,
+Juelsbjergvej 6 5771 Stenstrup,6,890255.0,14-04-2000,Alm.,10473,4,Villa,85,1986,
+Åparken 30 5771 Stenstrup,30,984406.0,13-04-2000,Alm.,5723,6,Villa,172,1973,
+Hønsehavevej 1 5771 Stenstrup,1,375000.0,10-04-2000,Alm.,3289,4,Villa,114,1916,
+Assensvej 35 5771 Stenstrup,35,440000.0,07-04-2000,Alm.,3826,5,Villa,115,1919,
+Assensvej 43 5771 Stenstrup,43,620000.0,31-03-2000,Alm.,4769,6,Villa,130,1888,
+Søndre Ringvej 2 5771 Stenstrup,2,700000.0,30-03-2000,Fam.,4487,7,Villa,156,1954,
+Assensvej 147 5771 Stenstrup,147,625000.0,25-01-2000,Alm.,4058,4,Villa,154,1912,
+Høje Dong 10 5771 Stenstrup,10,254147.0,18-01-2000,Alm.,2620,5,Villa,97,1827,
+Egevænget 24 5771 Stenstrup,24,785480.0,22-11-1999,Alm.,7700,3,Villa,102,1974,
+Sandbjergvej 24 5771 Stenstrup,24,950000.0,19-11-1999,Alm.,5722,8,Villa,166,1956,
+Toftevej 1 5771 Stenstrup,1,1053900.0,08-11-1999,Alm.,7527,5,Villa,140,1962,
+Løgeskov 39 5771 Stenstrup,39,400000.0,22-10-1999,Alm.,1851,7,Villa,216,1878,
+Åparken 16 5771 Stenstrup,16,715000.0,14-10-1999,Alm.,6441,4,Villa,111,1976,
+Nørregårdsvej 12 5771 Stenstrup,12,596000.0,07-10-1999,Alm.,4768,4,Villa,125,1908,
+Hasselvænget 23 5771 Stenstrup,23,50000.0,30-09-1999,Alm.,352,6,Villa,142,2000,
+Stationsvej 5 5771 Stenstrup,5,730000.0,29-09-1999,Alm.,4649,7,Villa,157,1908,
+Assensvej 131 5771 Stenstrup,131,443394.0,14-09-1999,Alm.,6334,2,Villa,70,1860,
+Kirkevej 23 5771 Stenstrup,23,753644.0,01-09-1999,Alm.,5624,6,Villa,134,1900,
+Egevænget 11 5771 Stenstrup,11,927380.0,10-08-1999,Alm.,5487,6,Villa,169,1980,
+Åparken 38 5771 Stenstrup,38,333380.0,04-08-1999,Alm.,2849,4,Villa,117,1987,
+Assensvej 308 5771 Stenstrup,308,578000.0,20-07-1999,Fam.,8027,3,Villa,72,1969,
+Nordre Ringvej 2 5771 Stenstrup,2,655000.0,15-07-1999,Alm.,0,6,Villa,182,1954,
+Assensvej 249 5771 Stenstrup,249,510000.0,15-07-1999,Fam.,2965,6,Villa,172,1909,
+Tørvelong 40 5771 Stenstrup,40,540000.0,02-07-1999,Alm.,3552,4,Stuehus,152,2003,
+Løgeskov 20 5771 Stenstrup,20,260000.0,01-07-1999,Alm.,3513,3,Villa,74,1877,
+Hønsehavevej 3 5771 Stenstrup,3,574000.0,26-06-1999,Alm.,6042,3,Villa,95,1952,
+Tørvelong 2 5771 Stenstrup,2,475000.0,23-06-1999,Alm.,3492,3,Villa,136,1900,
+Bobjergvej 4 5771 Stenstrup,4,375000.0,19-06-1999,Alm.,0,5,Villa,193,1910,
+Åkirkevej 8 5771 Stenstrup,8,850000.0,08-06-1999,Alm.,8500,4,Villa,100,1974,
+Assensvej 41 5771 Stenstrup,41,390000.0,10-05-1999,Alm.,3939,3,Villa,99,1900,
+Hasselvænget 38 5771 Stenstrup,38,99750.0,04-05-1999,Alm.,687,6,Villa,145,1999,
+Teglbakken 27 5771 Stenstrup,27,165957.0,13-04-1999,Alm.,1468,3,Villa,113,1999,
+Sognevej 69 5771 Stenstrup,69,628000.0,05-03-1999,Alm.,5709,3,Villa,110,1955,
+Lundevej 9 5771 Stenstrup,9,471000.0,21-02-1999,Alm.,5010,3,Villa,94,1938,
+Bobjergvej 17 5771 Stenstrup,17,230000.0,20-02-1999,Alm.,1869,4,Villa,123,1864,
+Løgeskov 30 5771 Stenstrup,30,262656.0,19-02-1999,Auktion,3502,3,Villa,75,1880,
+Assensvej 10 5771 Stenstrup,10,880415.0,12-02-1999,Fam.,6113,5,Villa,144,1854,
+Løgeskov 27 5771 Stenstrup,27,500000.0,10-02-1999,Alm.,3571,6,Villa,140,1877,
+Rødmevej 52 5771 Stenstrup,52,310000.0,01-02-1999,Fam.,3229,2,Villa,96,1969,
+Assensvej 115 5771 Stenstrup,115,492000.0,29-01-1999,Alm.,2795,6,Villa,176,1878,
+Stationsvej 48 5771 Stenstrup,48,819439.0,13-01-1999,Alm.,8277,3,Villa,99,1944,
+Kirkeby Sand 1 5771 Stenstrup,1,995000.0,12-01-1999,Alm.,6378,4,Villa,156,1870,
+Assensvej 242 5771 Stenstrup,242,259384.0,10-01-1999,Fam.,2026,5,Villa,128,1931,
+Hostrupvej 18 5771 Stenstrup,18,340000.0,08-01-1999,Alm.,3820,3,Villa,89,1959,
+Hønsehavevej 27 5771 Stenstrup,27,1299850.0,05-01-1999,Alm.,0,9,Villa,222,1896,
+Åparken 42 5771 Stenstrup,42,115000.0,30-11-1998,Alm.,1026,3,Villa,112,1999,
+Assensvej 138 5771 Stenstrup,138,154613.0,18-11-1998,Alm.,444,23,Villa,348,1880,
+Krarupvej 37 5771 Stenstrup,37,328960.0,09-11-1998,Alm.,2590,4,Villa,127,1969,
+Slæbæk Skov 9 5771 Stenstrup,9,855250.0,06-11-1998,Alm.,9830,4,Stuehus,87,1900,
+Hedevej 6 5771 Stenstrup,6,441000.0,03-11-1998,Alm.,5378,3,Villa,82,1905,
+Egebjergvej 10 5771 Stenstrup,10,1612000.0,29-10-1998,Alm.,7039,7,Villa,229,1900,
+Præstevænget 5 5771 Stenstrup,5,2500000.0,05-10-1998,Alm.,16129,6,Stuehus,155,1937,
+Assensvej 207 5771 Stenstrup,207,505000.0,29-09-1998,Alm.,4429,5,Villa,114,1870,
+Rødmevej 35 5771 Stenstrup,35,600000.0,25-09-1998,Alm.,4255,4,Villa,141,1880,
+Stationsvej 11 5771 Stenstrup,11,1750000.0,15-09-1998,Alm.,12681,11,Villa,138,1912,
+Hovedvejen 30 5771 Stenstrup,30,1585000.0,31-08-1998,Alm.,4759,5,Villa,333,1921,
+Humlevænget 1 5771 Stenstrup,1,805000.0,31-08-1998,Alm.,4423,5,Villa,182,1964,
+Pavegyden 5 5771 Stenstrup,5,1290000.0,31-08-1998,Alm.,5682,8,Stuehus,227,1923,
+Bobjergvej 12 5771 Stenstrup,12,285000.0,21-08-1998,Alm.,1952,3,Villa,146,1894,
+Tværvej 3 5771 Stenstrup,3,657000.0,07-08-1998,Alm.,0,4,Villa,108,1951,
+Bøgevænget 25 5771 Stenstrup,25,732000.0,01-07-1998,Alm.,0,6,Villa,139,1978,
+Løgeskov 32A 5771 Stenstrup,0,199036.0,18-06-1998,Fam.,1745,4,Stuehus,114,1908,
+Assensvej 151 5771 Stenstrup,151,300000.0,19-05-1998,Alm.,0,7,Villa,175,1897,
+Hedevej 5 5771 Stenstrup,5,506000.0,19-05-1998,Alm.,3984,5,Villa,127,1900,
+Nystedsvej 12 5771 Stenstrup,12,604200.0,18-05-1998,Alm.,5208,4,Villa,116,1966,
+Stationsvej 53 5771 Stenstrup,53,1025000.0,07-05-1998,Alm.,6327,6,Villa,162,1910,
+Skolevej 1 5771 Stenstrup,1,867799.0,29-04-1998,Alm.,0,7,Villa,213,1877,
+Stationsvej 67 5771 Stenstrup,67,236000.0,07-04-1998,Alm.,2088,5,Villa,113,1890,
+Tværvej 13 5771 Stenstrup,13,594000.0,12-03-1998,Alm.,6252,4,Villa,95,1960,
+Kirkeby Sand 13A 5771 Stenstrup,0,250000.0,26-02-1998,Fam.,1773,5,Villa,141,1889,
+Elmevænget 4 5771 Stenstrup,4,643000.0,25-02-1998,Alm.,4984,5,Villa,129,1965,
+Kirkeby Sand 24 5771 Stenstrup,24,580000.0,24-02-1998,Alm.,5979,5,Villa,97,1938,
+Vævervej 13 5771 Stenstrup,13,690822.0,24-02-1998,Alm.,0,5,Villa,143,1965,
+Hovedvejen 82 5771 Stenstrup,82,850000.0,06-02-1998,Alm.,6343,4,Stuehus,134,1784,
+Byvænget 1 5771 Stenstrup,1,715053.0,06-02-1998,Alm.,4643,6,Villa,154,1962,
+Kirkevej 14 5771 Stenstrup,14,282423.0,20-01-1998,Alm.,0,7,Villa,159,1913,
+Løgeskov 7 5771 Stenstrup,7,466000.0,14-01-1998,Alm.,2439,4,Villa,191,1900,
+Assensvej 324 5771 Stenstrup,324,115000.0,09-01-1998,Alm.,1385,8,Villa,83,1800,
+Pavegyden 26 5771 Stenstrup,26,350000.0,29-12-1997,Fam.,2287,6,Villa,153,1800,
+Tørvelong 24 5771 Stenstrup,24,1350000.0,19-12-1997,Alm.,5037,5,Stuehus,268,1900,
+Høje Dong 14 5771 Stenstrup,14,402000.0,09-12-1997,Alm.,5153,4,Villa,78,1812,
+Assensvej 302 5771 Stenstrup,302,635000.0,04-12-1997,Alm.,3735,6,Stuehus,170,1998,
+Vævervej 16 5771 Stenstrup,16,470000.0,21-10-1997,Fam.,3112,5,Villa,151,1938,
+Sognevej 34 5771 Stenstrup,34,550000.0,14-10-1997,Alm.,2254,6,Villa,244,1915,
+Lundevej 7 5771 Stenstrup,7,285000.0,26-09-1997,Alm.,2567,3,Villa,111,1935,
+Krarupvej 63 5771 Stenstrup,63,380952.0,24-09-1997,Alm.,2489,4,Stuehus,153,1924,
+Løgeskov 38 5771 Stenstrup,38,565000.0,22-09-1997,Alm.,2783,4,Stuehus,203,1864,
+Stationsvej 70 5771 Stenstrup,70,494673.0,12-09-1997,Alm.,4849,3,Villa,102,1963,
+Hundstrupvej 54 5771 Stenstrup,54,540000.0,01-09-1997,Andet,3483,5,Villa,155,1915,
+Lærkevej 14 5771 Stenstrup,14,801660.0,27-08-1997,Alm.,4333,6,Villa,185,1965,
+Assensvej 81 5771 Stenstrup,81,721073.0,22-08-1997,Alm.,4652,6,Villa,155,1936,
+Byvænget 8 5771 Stenstrup,8,615000.0,20-08-1997,Alm.,4920,5,Villa,125,1967,
+Lindevej 13 5771 Stenstrup,13,463000.0,11-08-1997,Alm.,7349,2,Villa,63,1965,
+Teglbakken 43 5771 Stenstrup,43,784000.0,07-08-1997,Alm.,4694,5,Villa,167,1979,
+Lærkevej 5 5771 Stenstrup,5,581000.0,25-07-1997,Alm.,5752,3,Villa,101,1965,
+Lundevej 22 5771 Stenstrup,22,340000.0,22-07-1997,Fam.,1581,6,Stuehus,215,1870,
+Hovedvejen 54 5771 Stenstrup,54,964000.0,17-07-1997,Alm.,5127,7,Villa,188,1880,
+Alpevej 27 5771 Stenstrup,27,834000.0,11-07-1997,Alm.,4582,7,Villa,182,1778,
+Hundstrupvej 57 5771 Stenstrup,57,2592500.0,30-06-1997,Fam.,13644,5,Stuehus,190,1800,
+Højbjergvej 1 5771 Stenstrup,1,711535.0,23-06-1997,Fam.,4338,6,Stuehus,164,1954,
+Assensvej 105 5771 Stenstrup,105,238000.0,17-06-1997,Alm.,2016,4,Villa,118,1860,
+Assensvej 240 5771 Stenstrup,240,448000.0,28-05-1997,Alm.,0,5,Villa,186,1924,
+Assensvej 67 5771 Stenstrup,67,533000.0,23-05-1997,Alm.,6500,3,Villa,82,1962,
+Skolevej 10 5771 Stenstrup,10,670000.0,21-05-1997,Alm.,3073,6,Villa,218,1905,
+Pavegyden 18A 5771 Stenstrup,0,175000.0,20-05-1997,Alm.,1804,3,Sommerhus,97,1850,
+Assensvej 237 5771 Stenstrup,237,350000.0,13-05-1997,Alm.,4430,3,Villa,79,1828,
+Stationsvej 46 5771 Stenstrup,46,577000.0,08-04-1997,Alm.,4889,5,Villa,118,1939,
+Løgeskov 36 5771 Stenstrup,36,756999.0,30-03-1997,Alm.,6308,5,Stuehus,120,1848,
+Assensvej 289 5771 Stenstrup,289,550000.0,19-03-1997,Fam.,4400,4,Stuehus,125,1900,
+Kirkeby Sand 25 5771 Stenstrup,25,360592.0,07-03-1997,Fam.,2239,6,Villa,161,1971,
+Vængevej 33 5771 Stenstrup,33,825000.0,19-02-1997,Alm.,4125,5,Villa,200,1958,
+Løgeskov 68 5771 Stenstrup,68,323000.0,14-02-1997,Alm.,3230,4,Villa,100,1800,
+Høje Dong 18 5771 Stenstrup,18,816000.0,14-02-1997,Fam.,3502,6,Stuehus,233,2013,
+Trollekrogsvej 13 5771 Stenstrup,13,395000.0,27-01-1997,Alm.,0,5,Villa,137,1957,
+Sognevej 67 5771 Stenstrup,67,80000.0,15-01-1997,Alm.,0,5,Villa,139,1850,
+Alpevej 26 5771 Stenstrup,26,200000.0,06-01-1997,Alm.,2083,3,Villa,96,1902,
+Pavegyden 22 5771 Stenstrup,22,419000.0,20-12-1996,Alm.,3223,4,Villa,130,1924,
+Hostrupvej 22 5771 Stenstrup,22,600000.0,18-12-1996,Alm.,4137,6,Villa,145,1962,
+Stationsvej 31 5771 Stenstrup,31,260000.0,09-12-1996,Alm.,3611,3,Villa,72,1897,
+Åbrinken 26 5771 Stenstrup,26,635000.0,27-11-1996,Alm.,0,5,Villa,173,1977,
+Stenbankevej 12A 5771 Stenstrup,0,345346.0,18-11-1996,Alm.,2185,5,Stuehus,158,1838,
+Assensvej 258 5771 Stenstrup,258,500000.0,15-11-1996,Alm.,4545,5,Villa,110,1969,
+Rødmevej 17B 5771 Stenstrup,0,200000.0,01-11-1996,Alm.,925,7,Villa,216,1997,
+Løgeskov 44 5771 Stenstrup,44,343000.0,15-10-1996,Alm.,0,4,Villa,159,1935,
+Stationsvej 7 5771 Stenstrup,7,718700.0,10-10-1996,Alm.,3948,6,Villa,182,1910,
+Hedevej 4 5771 Stenstrup,4,388000.0,08-10-1996,Alm.,2010,6,Villa,193,1900,
+Højevej 6 5771 Stenstrup,6,156353.0,08-10-1996,Alm.,1085,6,Villa,144,1928,
+Rørkærvej 2 5771 Stenstrup,2,260000.0,07-10-1996,Alm.,0,5,Villa,151,1878,
+Rårudvej 7 5771 Stenstrup,7,1446195.0,20-09-1996,Alm.,10329,5,Villa,140,1986,
+Hønsehavevej 14 5771 Stenstrup,14,480000.0,17-09-1996,Alm.,2594,3,Stuehus,185,1850,
+Assensvej 309 5771 Stenstrup,309,125000.0,14-09-1996,Alm.,0,4,Villa,101,1897,
+Hundstrupvej 16A 5771 Stenstrup,0,280500.0,03-09-1996,Fam.,2805,4,Stuehus,100,1770,
+Bøgevænget 23 5771 Stenstrup,23,899000.0,30-08-1996,Alm.,4301,6,Villa,209,1978,
+Assensvej 172 5771 Stenstrup,172,550000.0,26-08-1996,Fam.,0,7,Villa,160,1913,
+Teglbakken 38 5771 Stenstrup,38,696950.0,21-08-1996,Alm.,6113,4,Villa,114,1980,
+Ahornvænget 19 5771 Stenstrup,19,597000.0,14-08-1996,Alm.,5059,4,Villa,118,1977,
+Højes Ris 4 5771 Stenstrup,4,2479333.0,08-08-1996,Andet,25299,4,Stuehus,98,1972,
+Assensvej 174 5771 Stenstrup,174,600000.0,01-08-1996,Alm.,4411,4,Villa,136,1905,
+Assensvej 58 5771 Stenstrup,58,469000.0,24-07-1996,Alm.,2808,5,Villa,167,1911,
+Hundtofte 10 5771 Stenstrup,10,217000.0,21-06-1996,Alm.,1023,4,Villa,212,1976,
+Stationsvej 71 5771 Stenstrup,71,370000.0,17-06-1996,Alm.,2761,5,Villa,134,1900,
+Slæbæk Skov 5 5771 Stenstrup,5,325000.0,11-06-1996,Alm.,3009,5,Villa,108,1877,
+Højbjergvej 9 5771 Stenstrup,9,1625000.0,07-06-1996,Alm.,6914,10,Stuehus,235,1923,
+Løgeskov 45 5771 Stenstrup,45,495000.0,07-05-1996,Alm.,4125,5,Villa,120,1814,
+Stationsvej 36 5771 Stenstrup,36,470000.0,21-04-1996,Fam.,5402,4,Villa,87,1915,
+Hostrupvej 21 5771 Stenstrup,21,524000.0,19-04-1996,Alm.,4851,4,Villa,108,1960,
+Løgeskov 76 5771 Stenstrup,76,1354700.0,13-04-1996,Alm.,3631,6,Villa,373,1800,
+Kirkevej 2 5771 Stenstrup,2,475000.0,28-03-1996,Alm.,2540,5,Villa,187,1924,
+Nystedsvej 3 5771 Stenstrup,3,450000.0,01-03-1996,Alm.,3688,5,Villa,122,1963,
+Egebjergvej 13 5771 Stenstrup,13,400000.0,22-02-1996,Alm.,0,6,Villa,157,1880,
+Løgeskov 46 5771 Stenstrup,46,100000.0,09-01-1996,Alm.,1098,3,Villa,91,1778,
+Tørvelong 4 5771 Stenstrup,4,420000.0,07-12-1995,Alm.,0,6,Stuehus,112,1878,
+Gammel Sognevej 8 5771 Stenstrup,8,475000.0,23-11-1995,Alm.,2878,7,Villa,165,1964,
+Teglbakken 53 5771 Stenstrup,53,261391.0,16-11-1995,Alm.,0,5,Villa,199,1979,
+Stationsvej 10 5771 Stenstrup,10,350000.0,02-11-1995,Fam.,0,7,Villa,145,1890,
+Assensvej 12 5771 Stenstrup,12,736000.0,27-09-1995,Alm.,6032,4,Villa,122,1828,
+Assensvej 127 5771 Stenstrup,127,385000.0,19-09-1995,Alm.,3208,4,Villa,120,1880,
+Hovedvejen 94 5771 Stenstrup,94,145000.0,18-09-1995,Alm.,1479,3,Villa,98,1900,
+Bøllemosen 6 5771 Stenstrup,6,494750.0,15-09-1995,Alm.,1616,8,Villa,306,2011,
+Lundevej 11 5771 Stenstrup,11,348500.0,06-09-1995,Fam.,3004,5,Stuehus,116,1910,
+Assensvej 46 5771 Stenstrup,46,1250000.0,17-08-1995,Alm.,8064,6,Villa,155,1778,
+Stenbankevej 17 5771 Stenstrup,17,600000.0,16-08-1995,Alm.,4255,5,Stuehus,141,1830,
+Hundtofte 26 5771 Stenstrup,26,1335000.0,04-08-1995,Fam.,5609,6,Stuehus,238,1848,
+Hønsehavevej 12 5771 Stenstrup,12,382500.0,14-07-1995,Fam.,6270,2,Stuehus,61,1880,
+Bøgevænget 14 5771 Stenstrup,14,626000.0,22-06-1995,Alm.,4815,4,Villa,130,1977,
+Rårudvej 5 5771 Stenstrup,5,812715.0,02-06-1995,Fam.,5491,4,Villa,148,1905,
+Hundtofte 14D 5771 Stenstrup,0,1200000.0,29-05-1995,Alm.,5633,20,Anden beboelse,213,1959,
+Slæbæk Skov 7 5771 Stenstrup,7,1027000.0,15-05-1995,Alm.,2567,7,Villa,400,1928,
+Toftevej 2 5771 Stenstrup,2,579000.0,10-04-1995,Alm.,0,6,Villa,174,1968,
+Hundtofte 30 5771 Stenstrup,30,210000.0,21-03-1995,Fam.,3442,3,Villa,61,1950,
+Bobjergvej 27 5771 Stenstrup,27,712000.0,25-02-1995,Alm.,3150,8,Villa,226,1914,
+Ahornvænget 10 5771 Stenstrup,10,564000.0,20-02-1995,Fam.,3615,5,Villa,156,1979,
+Krarupvej 4 5771 Stenstrup,4,752500.0,23-01-1995,Fam.,5336,5,Stuehus,141,1911,
+Bobjergvej 1 5771 Stenstrup,1,137120.0,05-01-1995,Alm.,672,7,Villa,204,1900,
+Egevænget 50 5771 Stenstrup,50,540000.0,21-11-1994,Alm.,3195,6,Villa,169,1974,
+Kirkeby Sand 15 5771 Stenstrup,15,290000.0,16-11-1994,Alm.,3085,3,Villa,94,1875,
+Assensvej 287 5771 Stenstrup,287,530000.0,15-11-1994,Alm.,3231,5,Villa,164,1899,
+Tværvej 8 5771 Stenstrup,8,300000.0,02-11-1994,Fam.,0,4,Villa,159,1952,
+Egebjergvej 17 5771 Stenstrup,17,233000.0,18-10-1994,Alm.,0,4,Villa,135,1974,
+Kirkeby Sand 2 5771 Stenstrup,2,370000.0,17-10-1994,Alm.,3592,4,Villa,103,1924,
+Vængevej 5 5771 Stenstrup,5,450000.0,17-10-1994,Alm.,0,5,Villa,144,1961,
+Kirkeby Sand 7 5771 Stenstrup,7,275000.0,03-10-1994,Alm.,1267,6,Villa,217,1888,
+Assensvej 53 5771 Stenstrup,53,406989.0,19-09-1994,Andet,2496,5,Villa,163,1930,
+Hovedvejen 64 5771 Stenstrup,64,295000.0,31-08-1994,Alm.,2218,5,Villa,133,1927,
+Humlevænget 5 5771 Stenstrup,5,475000.0,17-08-1994,Alm.,4398,4,Villa,108,1960,
+Tørvelong 8 5771 Stenstrup,8,125000.0,22-06-1994,Alm.,1623,3,Villa,77,1857,
+Assensvej 132 5771 Stenstrup,132,340000.0,18-06-1994,Alm.,2833,6,Villa,120,1877,
+Solparken 1 5771 Stenstrup,1,67500.0,10-06-1994,Alm.,306,6,Villa,220,1994,
+Krarupvej 55 5771 Stenstrup,55,399000.0,26-05-1994,Alm.,2891,4,Villa,138,1860,
+Assensvej 283 5771 Stenstrup,283,800000.0,11-05-1994,Fam.,4790,5,Stuehus,167,1848,
+Bøgevænget 16 5771 Stenstrup,16,787700.0,10-05-1994,Alm.,3646,7,Villa,216,1977,
+Assensvej 189 5771 Stenstrup,189,356500.0,03-05-1994,Alm.,2946,4,Villa,121,1941,
+Tværvej 1C 5771 Stenstrup,0,400000.0,25-04-1994,Alm.,1904,7,Villa,210,1870,
+Hundtofte 15 5771 Stenstrup,15,340000.0,26-03-1994,Alm.,2982,3,Villa,114,1946,
+Assensvej 269 5771 Stenstrup,269,335000.0,04-03-1994,Alm.,2278,4,Villa,147,1900,
+Assensvej 307 5771 Stenstrup,307,295000.0,01-03-1994,Alm.,0,5,Villa,186,1900,
+Assensvej 1 5771 Stenstrup,1,195000.0,24-02-1994,Alm.,1652,3,Villa,118,1912,
+Assensvej 180 5771 Stenstrup,180,465000.0,10-02-1994,Alm.,3549,3,Villa,131,1900,
+Stenbankevej 13 5771 Stenstrup,13,300000.0,09-02-1994,Alm.,1666,5,Villa,180,1910,
+Assensvej 56B 5771 Stenstrup,0,444000.0,26-01-1994,Alm.,4269,4,Villa,104,1915,
+Ahornvænget 7 5771 Stenstrup,7,580000.0,25-01-1994,Alm.,4055,4,Villa,143,1977,
+Løgeskov 21 5771 Stenstrup,21,60000.0,24-01-1994,Alm.,697,4,Villa,86,1953,
+Stenbankevej 11 5771 Stenstrup,11,50000.0,07-01-1994,Alm.,0,3,Villa,148,1802,
+Slæbæk Skov 8 5771 Stenstrup,8,501500.0,07-12-1993,Fam.,2667,8,Stuehus,188,1924,
+Nystedsvej 9 5771 Stenstrup,9,400000.0,18-11-1993,Alm.,3773,4,Villa,106,1965,
+Lindevej 10 5771 Stenstrup,10,660000.0,27-10-1993,Fam.,4177,5,Villa,158,1964,
+Skolevej 13 5771 Stenstrup,13,350000.0,19-10-1993,Alm.,3398,4,Villa,103,1966,
+Løgeskov 59A 5771 Stenstrup,0,175000.0,15-10-1993,Alm.,1047,5,Stuehus,167,1920,
+Vængevej 4 5771 Stenstrup,4,500000.0,03-10-1993,Fam.,3496,4,Villa,143,1850,
+Assensvej 266 5771 Stenstrup,266,410000.0,01-10-1993,Alm.,4141,4,Villa,99,1938,
+Smedegårdsvej 2 5771 Stenstrup,2,50000.0,01-10-1993,Alm.,393,4,Villa,127,1995,
+Stationsvej 33 5771 Stenstrup,33,375000.0,25-08-1993,Alm.,0,4,Villa,152,1877,
+Egebjergvej 29 5771 Stenstrup,29,231961.0,16-08-1993,Auktion,0,6,Villa,149,1963,
+Assensvej 288 5771 Stenstrup,288,1047000.0,10-08-1993,Alm.,6543,6,Stuehus,160,1815,
+Kirkevej 10 5771 Stenstrup,10,260000.0,09-06-1993,Alm.,0,3,Villa,97,1959,
+Rødmevej 36 5771 Stenstrup,36,263500.0,05-05-1993,Fam.,1817,5,Villa,145,1878,
+Rødmevej 38 5771 Stenstrup,38,977500.0,05-05-1993,Fam.,4056,8,Stuehus,241,1878,
+Højevej 3 5771 Stenstrup,3,715000.0,04-05-1993,Alm.,3191,8,Villa,224,1878,
+Assensvej 275 5771 Stenstrup,275,515000.0,29-04-1993,Alm.,0,5,Villa,164,1955,
+Assensvej 155 5771 Stenstrup,155,300000.0,19-04-1993,Fam.,2586,3,Villa,116,1904,
+Højbjergvej 11 5771 Stenstrup,11,466129.0,14-04-1993,Alm.,3214,4,Villa,145,1890,
+Højevej 2 5771 Stenstrup,2,255000.0,10-02-1993,Alm.,1645,3,Stuehus,155,2004,
+Hundstrupvej 24 5771 Stenstrup,24,335000.0,05-02-1993,Fam.,1565,5,Stuehus,214,1800,
+Rødmevej 54 5771 Stenstrup,54,404215.0,02-02-1993,Fam.,2435,6,Villa,166,1900,
+Vævervej 4 5771 Stenstrup,4,100000.0,29-12-1992,Alm.,746,5,Villa,134,1898,
+Bobjergvej 25 5771 Stenstrup,25,135000.0,29-12-1992,Alm.,750,5,Stuehus,180,1900,
+Nordre Ringvej 3 5771 Stenstrup,3,317500.0,10-12-1992,Alm.,3527,4,Villa,90,1957,
+Nørregårdsvej 9 5771 Stenstrup,9,49135.0,10-12-1992,Alm.,309,4,Stuehus,159,1880,
+Hovedvejen 96 5771 Stenstrup,96,160000.0,04-12-1992,Alm.,1553,4,Villa,103,1949,
+Bobjergvej 22 5771 Stenstrup,22,290000.0,29-10-1992,Alm.,2843,3,Villa,102,1900,
+Assensvej 238 5771 Stenstrup,238,310000.0,28-10-1992,Alm.,3195,3,Villa,97,1778,
+Krarupvej 57 5771 Stenstrup,57,75000.0,18-09-1992,Alm.,0,7,Villa,191,1900,
+Stationsvej 37 5771 Stenstrup,37,65000.0,17-08-1992,Alm.,878,3,Villa,74,1884,
+Hovedvejen 25 5771 Stenstrup,25,185000.0,15-08-1992,Alm.,0,7,Villa,141,1915,
+Kirkeby Sand 18 5771 Stenstrup,18,100000.0,13-08-1992,Alm.,0,4,Villa,108,1895,
+Ahornvænget 8 5771 Stenstrup,8,460000.0,12-08-1992,Fam.,3865,5,Villa,119,1978,
+Højevej 5 5771 Stenstrup,5,735000.0,07-07-1992,Alm.,0,5,Villa,204,1873,
+Åvangen 1 5771 Stenstrup,1,385000.0,12-06-1992,Alm.,5500,2,Villa,70,1985,
+Højevej 10 5771 Stenstrup,10,450000.0,29-05-1992,Alm.,2319,4,Villa,194,1906,
+Kirkeby Sand 21 5771 Stenstrup,21,445000.0,24-04-1992,Alm.,2763,7,Villa,161,1971,
+Løgeskov 10 5771 Stenstrup,10,395000.0,10-04-1992,Alm.,3264,5,Villa,121,1902,
+Pavegyden 24 5771 Stenstrup,24,690000.0,06-04-1992,Alm.,5702,5,Stuehus,121,1907,
+Løgeskov 56 5771 Stenstrup,56,95000.0,03-04-1992,Alm.,0,3,Villa,56,1877,
+Kirkeby Sand 23 5771 Stenstrup,23,530000.0,17-03-1992,Alm.,3136,6,Villa,169,1971,
+Assensvej 267 5771 Stenstrup,267,425740.0,23-01-1992,Alm.,0,7,Villa,161,1936,
+Gemalvej 22 5771 Stenstrup,22,1700000.0,14-01-1992,Alm.,5074,7,Villa,335,1900,

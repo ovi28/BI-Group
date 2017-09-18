@@ -1,0 +1,728 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Rolighedsvej 5 8654 Bryrup,5,971100.0,24-04-2017,Fam.,6031,5,Villa,161,1953,
+Vellingvej 18 8654 Bryrup,18,1300000.0,10-04-2017,Alm.,7182,6,Stuehus,181,1850,
+Bogfinkevej 1 8654 Bryrup,1,1450000.0,07-04-2017,Alm.,10984,4,Villa,132,1975,-3 %
+Skolevej 8B 8654 Bryrup,0,1280000.0,06-03-2017,Fam.,6772,5,Villa,189,1983,
+Fasanvej 14 8654 Bryrup,14,1145000.0,02-03-2017,Alm.,10504,3,Villa,109,1975,0 %
+Krude Møllevej 5 8654 Bryrup,5,1790000.0,27-02-2017,Andet,7955,7,Villa,225,1947,
+Østermark 8 8654 Bryrup,8,1600000.0,01-02-2017,Alm.,9815,6,Villa,163,1982,-6 %
+Svinsbjergvej 12 8654 Bryrup,12,2600000.0,13-01-2017,Alm.,12380,7,Villa,210,1970,
+Skolevej 17 8654 Bryrup,17,352000.0,10-01-2017,Alm.,3229,4,Villa,109,1954,
+Hovedgaden 26 8654 Bryrup,26,600000.0,03-01-2017,Alm.,4545,6,Villa,132,1914,
+Lystruphavevej 26 8654 Bryrup,26,1138000.0,17-10-2016,Alm.,28450,2,Sommerhus,40,1943,-12 %
+Nygårdsvej 4 8654 Bryrup,4,625000.0,14-10-2016,Alm.,5208,4,Villa,120,1935,-30 %
+Kæmpesmøllevej 11 8654 Bryrup,11,435000.0,03-10-2016,Alm.,10116,3,Sommerhus,43,1968,-12 %
+Dambrugsvej 3 8654 Bryrup,3,3500000.0,26-09-2016,Alm.,33333,5,Villa,105,1964,-8 %
+Burgårdevej 32 8654 Bryrup,32,425000.0,23-09-2016,Alm.,3695,4,Villa,115,1965,-14 %
+Vellingvej 50 8654 Bryrup,50,950000.0,20-09-2016,Alm.,7037,5,Villa,135,1937,-4 %
+Vellingvej 49 8654 Bryrup,49,450000.0,02-09-2016,Alm.,4945,4,Villa,91,1928,-9 %
+Lystrupmindevej 20 8654 Bryrup,20,1800000.0,01-09-2016,Alm.,18000,4,Sommerhus,100,1888,-28 %
+Sømosevej 1 8654 Bryrup,1,1540000.0,26-08-2016,Alm.,6637,9,Villa,232,1973,-4 %
+Povlslystvej 1 8654 Bryrup,1,1150000.0,09-08-2016,Alm.,8646,5,Stuehus,133,1900,-11 %
+Ansøvej 41 8654 Bryrup,41,2400000.0,04-07-2016,Alm.,15094,3,Villa,159,1877,
+Dalstedvej 2 8654 Bryrup,2,1200000.0,27-06-2016,Alm.,6936,5,Villa,173,1965,-14 %
+Burgårdevej 13 8654 Bryrup,13,500000.0,22-06-2016,Alm.,2525,4,Villa,198,1890,-28 %
+Skolevej 12 8654 Bryrup,12,3250000.0,10-06-2016,Alm.,17955,5,Villa,181,1962,-7 %
+Skovvænget 32 8654 Bryrup,32,1080000.0,27-05-2016,Alm.,6136,5,Villa,176,2007,-53 %
+Overdrevet 4 8654 Bryrup,4,3050000.0,25-05-2016,Alm.,15404,6,Villa,198,2006,-5 %
+Mellemvej 1 8654 Bryrup,1,634500.0,24-05-2016,Auktion,6282,4,Villa,101,1898,-36 %
+Løvevej 10 8654 Bryrup,10,1600000.0,13-05-2016,Alm.,9039,6,Villa,177,1964,
+Tusdal 8 8654 Bryrup,8,750000.0,13-05-2016,Alm.,9375,4,Sommerhus,80,1932,-12 %
+Vestergårdsvej 1 8654 Bryrup,1,1650000.0,11-05-2016,Alm.,7971,7,Villa,207,1998,-6 %
+Højdedraget 14 8654 Bryrup,14,1425000.0,13-04-2016,Alm.,20070,3,Sommerhus,71,1986,-11 %
+Udsigten 11 8654 Bryrup,11,850000.0,12-04-2016,Alm.,6159,3,Villa,138,1967,-15 %
+Vellingvej 21 8654 Bryrup,21,760000.0,29-03-2016,Alm.,5846,5,Villa,130,1912,-4 %
+Lystruphavevej 12 8654 Bryrup,12,3216000.0,15-03-2016,Auktion,18589,5,Villa,173,1911,-14 %
+Vellingvej 47 8654 Bryrup,47,2120000.0,15-03-2016,Alm.,13333,4,Villa,159,1948,-1 %
+Krude Møllevej 10 8654 Bryrup,10,6650000.0,11-03-2016,Alm.,28913,6,Villa,230,1972,-9 %
+St Bredlundvej 11 8654 Bryrup,11,1600000.0,03-03-2016,Andet,16842,4,Villa,95,1938,
+Lystrupmindevej 13 8654 Bryrup,13,450000.0,01-03-2016,Fam.,4736,5,Sommerhus,95,1800,
+Svinsbjergvej 42 8654 Bryrup,42,4450000.0,25-02-2016,Alm.,22250,7,Villa,200,1925,
+Løvevej 3 8654 Bryrup,3,965000.0,25-02-2016,Alm.,13402,3,Villa,72,1960,-1 %
+Torupvej 8 8654 Bryrup,8,964000.0,18-02-2016,Andet,4820,6,Villa,200,1978,
+Burgårdevej 21 8654 Bryrup,21,1110000.0,15-02-2016,Alm.,4319,9,Stuehus,257,1857,
+Solbrinken 15 8654 Bryrup,15,1895000.0,09-02-2016,Alm.,11415,6,Villa,166,1981,0 %
+Kløvermarken 5 8654 Bryrup,5,1025000.0,28-01-2016,Alm.,9855,4,Rækkehus,104,1971,-5 %
+Højtoften 2 8654 Bryrup,2,856613.0,22-01-2016,Fam.,5562,4,Villa,154,1972,
+Snabegårdvej 13 8654 Bryrup,13,775000.0,08-01-2016,Alm.,3894,7,Villa,199,1998,
+Burgårdevej 5 8654 Bryrup,5,540000.0,05-01-2016,Auktion,4060,6,Villa,133,1890,-17 %
+Byvej 23 8654 Bryrup,23,850000.0,04-01-2016,Alm.,6071,4,Villa,140,1923,-15 %
+Holtehusvej 21 8654 Bryrup,21,1025000.0,20-12-2015,Alm.,14855,4,Sommerhus,69,1962,
+Bakkevej 22 8654 Bryrup,22,1650000.0,11-12-2015,Alm.,10443,6,Villa,158,1973,-17 %
+Hovedgaden 52 8654 Bryrup,52,500000.0,08-12-2015,Alm.,5000,3,Villa,100,1960,-23 %
+Lystruphavevej 7 8654 Bryrup,7,9000000.0,03-12-2015,Alm.,14240,10,Villa,632,1906,
+Vellingvej 26 8654 Bryrup,26,1510000.0,22-11-2015,Alm.,10413,7,Stuehus,145,1928,-5 %
+Østervang 29 8654 Bryrup,29,575000.0,04-11-2015,Alm.,7770,4,Villa,74,1937,-17 %
+Byvej 5 8654 Bryrup,5,1000000.0,03-11-2015,Fam.,10000,9,Industri o.l.,100,1910,
+Vestergårdsvej 2 8654 Bryrup,2,1200000.0,09-10-2015,Alm.,6741,6,Villa,178,1933,-7 %
+Søndervang 9 8654 Bryrup,9,1210000.0,28-09-2015,Alm.,7707,5,Villa,157,1973,-10 %
+Lystrupmindevej 28 8654 Bryrup,28,1225000.0,22-09-2015,Alm.,15705,2,Villa,78,1955,-2 %
+Burgårdevej 22 8654 Bryrup,22,510000.0,16-09-2015,Fam.,2802,7,Villa,182,1874,
+Fasanvej 41 8654 Bryrup,41,1250000.0,20-08-2015,Alm.,6443,6,Villa,194,1975,-26 %
+Østervang 9 8654 Bryrup,9,1195000.0,29-06-2015,Alm.,8298,4,Villa,144,1974,0 %
+Sportsvej 9C 8654 Bryrup,0,824500.0,26-06-2015,Fam.,5460,5,Villa,151,1974,-8 %
+Kløvermarken 4 8654 Bryrup,4,600000.0,23-06-2015,Fam.,5769,4,Villa,104,1972,
+Østervang 46 8654 Bryrup,46,2120000.0,04-06-2015,Alm.,10000,3,Villa,212,1969,-10 %
+Skovvænget 21 8654 Bryrup,21,902000.0,28-05-2015,Fam.,5401,6,Villa,167,2007,
+Hovedgaden 57 8654 Bryrup,57,221000.0,26-05-2015,Auktion,2540,4,Sommerhus,87,1986,-63 %
+Burgårdevej 23A 8654 Bryrup,0,265000.0,09-05-2015,Alm.,1104,8,Villa,240,1839,
+Højtoften 5 8654 Bryrup,5,950000.0,18-04-2015,Alm.,7307,4,Villa,130,1971,-13 %
+Løvevej 4A 8654 Bryrup,0,1650000.0,13-04-2015,Alm.,9537,6,Villa,173,2008,-3 %
+Langebjergvej 15 8654 Bryrup,15,4600000.0,05-04-2015,Alm.,15333,7,Stuehus,300,2010,
+Sportsvej 30A 8654 Bryrup,0,510000.0,24-03-2015,Alm.,4358,4,Villa,117,1955,-14 %
+Hedevang 5 8654 Bryrup,5,1375000.0,23-03-2015,Alm.,10912,4,Villa,126,1973,-8 %
+Fasanvej 15 8654 Bryrup,15,1460000.0,16-03-2015,Alm.,8795,6,Villa,166,1974,-2 %
+Krude Møllevej 4 8654 Bryrup,4,845000.0,12-03-2015,Alm.,10562,3,Villa,80,1959,0 %
+Sneppevej 7 8654 Bryrup,7,1675000.0,06-03-2015,Alm.,9517,7,Villa,176,1997,0 %
+Hovedgaden 43 8654 Bryrup,43,1460000.0,18-02-2015,Alm.,9733,8,Villa,150,1950,-2 %
+Burgårdevej 10 8654 Bryrup,10,657500.0,17-02-2015,Auktion,4325,6,Villa,152,1910,
+Daltoften 9 8654 Bryrup,9,175000.0,31-12-2014,Fam.,1356,4,Villa,129,1968,
+Sportsvej 8A 8654 Bryrup,0,512500.0,09-12-2014,Auktion,2394,6,Villa,214,1912,
+Løndalvej 5 8654 Bryrup,5,1062432.0,03-12-2014,Alm.,5059,7,Stuehus,210,1918,
+Torupvej 2 8654 Bryrup,2,1375000.0,17-11-2014,Alm.,6875,10,Villa,200,1938,-14 %
+Østervang 34 8654 Bryrup,34,600000.0,13-11-2014,Alm.,7228,3,Villa,83,1960,-7 %
+Højdedraget 10 8654 Bryrup,10,575000.0,03-11-2014,Alm.,9583,2,Sommerhus,60,1972,
+Hedevang 2 8654 Bryrup,2,680000.0,02-10-2014,Alm.,4250,5,Villa,160,1965,-14 %
+Lystrupmindevej 9 8654 Bryrup,9,250000.0,25-09-2014,Alm.,3571,3,Villa,70,1877,-23 %
+Tusdal 26 8654 Bryrup,26,632270.0,18-09-2014,Fam.,10036,3,Sommerhus,63,1980,
+Vellingvej 16 8654 Bryrup,16,700000.0,18-09-2014,Alm.,7608,3,Stuehus,92,1870,-20 %
+Løvet Møllevej 7 8654 Bryrup,7,350000.0,15-09-2014,Alm.,3645,2,Villa,96,1885,-46 %
+Lystrupmindevej 2 8654 Bryrup,2,2675000.0,28-08-2014,Alm.,14944,6,Stuehus,179,1868,
+Sportsvej 52 8654 Bryrup,52,2225000.0,20-08-2014,Alm.,8900,7,Villa,250,1972,-11 %
+Langsøvej 11 8654 Bryrup,11,2065500.0,11-08-2014,Alm.,29507,4,Sommerhus,70,2004,-10 %
+Burgårdevej 9A 8654 Bryrup,0,1300000.0,08-08-2014,Alm.,7514,4,Villa,173,1976,-7 %
+Tusdal 6 8654 Bryrup,6,501500.0,02-07-2014,Fam.,8955,3,Sommerhus,56,1977,
+Snabegårdvej 11 8654 Bryrup,11,725000.0,30-06-2014,Fam.,3295,5,Villa,220,1997,
+Fasanvej 39 8654 Bryrup,39,800000.0,25-06-2014,Auktion,4651,6,Villa,172,1974,-20 %
+Skolevej 2 8654 Bryrup,2,735000.0,24-06-2014,Alm.,3062,8,Villa,240,1973,
+Daltoften 15 8654 Bryrup,15,1700000.0,14-06-2014,Alm.,9883,6,Villa,172,1972,-3 %
+Nygårdsvej 3 8654 Bryrup,3,425000.0,26-05-2014,Alm.,4336,3,Villa,98,1912,
+Langsøvej 1 8654 Bryrup,1,1975000.0,21-05-2014,Alm.,13079,4,Villa,151,1969,-6 %
+Byvej 45 8654 Bryrup,45,402500.0,04-05-2014,Andet,4065,3,Villa,99,1943,
+Rolighedsvej 17 8654 Bryrup,17,870000.0,19-03-2014,Alm.,8529,5,Villa,102,2004,-3 %
+Vellingvej 12 8654 Bryrup,12,72000.0,06-03-2014,Auktion,642,3,Villa,112,1900,
+Hovedgaden 11 8654 Bryrup,11,116000.0,25-02-2014,Auktion,758,4,Villa,153,1939,
+Daltoften 4 8654 Bryrup,4,527000.0,18-02-2014,Auktion,3903,4,Villa,135,1973,
+Drosselvej 9 8654 Bryrup,9,1195000.0,18-02-2014,Auktion,10575,3,Villa,113,1979,
+Kløvermarken 21 8654 Bryrup,21,1025000.0,15-01-2014,Alm.,9855,5,Rækkehus,104,1971,-6 %
+St Bredlundvej 14 8654 Bryrup,14,4000000.0,09-01-2014,Auktion,16877,7,Stuehus,237,1936,
+Tusdal 4 8654 Bryrup,4,695000.0,09-01-2014,Alm.,17375,3,Sommerhus,40,1973,-13 %
+Vellingvej 44B 8654 Bryrup,0,2745000.0,18-12-2013,Alm.,11068,5,Villa,248,2009,-2 %
+Fasanvej 27 8654 Bryrup,27,1000000.0,18-12-2013,Alm.,7518,4,Villa,133,1975,
+Kløvermarken 14 8654 Bryrup,14,1080000.0,16-12-2013,Alm.,10384,4,Villa,104,1972,-1 %
+Skovvænget 30 8654 Bryrup,30,385000.0,30-10-2013,Alm.,2305,6,Villa,167,2014,0 %
+Skovvænget 5 8654 Bryrup,5,418000.0,25-09-2013,Alm.,2732,5,Villa,153,2014,0 %
+Skolevej 15 8654 Bryrup,15,915000.0,11-09-2013,Alm.,10166,3,Villa,90,1961,-8 %
+Hedevang 8 8654 Bryrup,8,1080000.0,16-08-2013,Alm.,9729,4,Villa,111,1977,-1 %
+Fasanvej 25 8654 Bryrup,25,1010000.0,05-08-2013,Alm.,9439,4,Villa,107,1974,-3 %
+Kæmpesmøllevej 27 8654 Bryrup,27,345000.0,06-07-2013,Alm.,3450,3,Sommerhus,100,1961,
+Tømmerbyvej 28 8654 Bryrup,28,900000.0,02-07-2013,Alm.,5660,5,Villa,159,1939,-10 %
+Kløvermarken 15 8654 Bryrup,15,600000.0,24-06-2013,Alm.,5769,4,Rækkehus,104,1971,-4 %
+Langsøvej 2 8654 Bryrup,2,795000.0,16-06-2013,Alm.,33125,1,Sommerhus,24,1987,0 %
+Dalstedvej 5 8654 Bryrup,5,1275000.0,11-06-2013,Alm.,7083,4,Villa,180,1877,-6 %
+Burgårdevej 24 8654 Bryrup,24,960000.0,24-04-2013,Alm.,5853,6,Villa,164,1920,-4 %
+Sportsvej 15 8654 Bryrup,15,510000.0,22-04-2013,Alm.,7391,3,Villa,69,1939,-11 %
+Rolighedsvej 8 8654 Bryrup,8,500000.0,22-03-2013,Alm.,2325,8,Villa,215,1930,
+Dambrugsvej 5 8654 Bryrup,5,3050000.0,21-03-2013,Alm.,23643,4,Sommerhus,129,2002,-13 %
+Musvitvej 7 8654 Bryrup,7,2170000.0,20-03-2013,Alm.,11604,6,Villa,187,2007,-1 %
+Østervang 13 8654 Bryrup,13,1280000.0,15-03-2013,Alm.,10847,4,Villa,118,1973,
+Tyklundvej 2 8654 Bryrup,2,6750000.0,06-02-2013,Alm.,79411,2,Villa,85,1900,
+Søndervang 6 8654 Bryrup,6,1600000.0,20-12-2012,Alm.,13333,2,Villa,120,2009,
+Højdedraget 12 8654 Bryrup,12,575000.0,19-12-2012,Alm.,15131,2,Sommerhus,38,1959,-28 %
+Burgårdevej 8 8654 Bryrup,8,1140000.0,17-12-2012,Alm.,5158,9,Villa,221,1892,-11 %
+Rolighedsvej 6A 8654 Bryrup,0,620000.0,13-12-2012,Alm.,7750,3,Villa,80,1937,
+Sportsvej 30C 8654 Bryrup,0,1950000.0,26-11-2012,Alm.,7303,7,Villa,267,2000,-2 %
+Højdedraget 18 8654 Bryrup,18,900000.0,24-11-2012,Fam.,12328,4,Sommerhus,73,2000,
+Søndervang 5 8654 Bryrup,5,375000.0,16-11-2012,Alm.,3348,4,Villa,112,2013,
+Tværvej 1 8654 Bryrup,1,575000.0,07-11-2012,Alm.,3911,7,Villa,147,1942,
+Sportsvej 30B 8654 Bryrup,0,2150000.0,18-09-2012,Alm.,12215,7,Villa,176,1999,-6 %
+Søvej 1B 8654 Bryrup,0,1600000.0,29-08-2012,Alm.,4637,7,Villa,345,1957,
+Østervang 22 8654 Bryrup,22,675000.0,20-08-2012,Alm.,7758,3,Villa,87,1959,-9 %
+Dalstedvej 4 8654 Bryrup,4,1450000.0,17-08-2012,Alm.,11693,4,Stuehus,124,2004,-9 %
+Blåmejsevej 11 8654 Bryrup,11,1650000.0,23-07-2012,Alm.,9428,6,Villa,175,1974,-11 %
+Vindingvej 5 8654 Bryrup,5,11600000.0,12-07-2012,Alm.,44787,7,Stuehus,259,1924,
+Skolevej 7 8654 Bryrup,7,716803.0,18-06-2012,Andet,5644,4,Villa,127,1969,
+Agervænget 7 8654 Bryrup,7,251000.0,15-05-2012,Alm.,1539,5,Villa,163,2016,
+Velling Koller Vej 4 8654 Bryrup,4,5650000.0,10-05-2012,Alm.,26650,6,Villa,212,1900,
+Byvej 8 8654 Bryrup,8,900000.0,30-04-2012,Alm.,7758,6,Villa,116,1946,-31 %
+Højtoften 13 8654 Bryrup,13,1050000.0,10-04-2012,Auktion,8076,4,Villa,130,1971,
+Hovedgaden 47 8654 Bryrup,47,695000.0,03-04-2012,Alm.,9652,3,Villa,72,1948,0 %
+Løvevej 21 8654 Bryrup,21,710000.0,03-04-2012,Alm.,7029,5,Stuehus,101,1953,
+Tusdal 14 8654 Bryrup,14,600000.0,15-03-2012,Alm.,9677,3,Sommerhus,62,1969,-19 %
+Østervang 11 8654 Bryrup,11,750000.0,26-02-2012,Alm.,5208,5,Villa,144,1972,-6 %
+Burgårdevej 40 8654 Bryrup,40,575000.0,13-02-2012,Alm.,5750,3,Villa,100,1927,-17 %
+Fasanvej 47 8654 Bryrup,47,1700000.0,09-01-2012,Alm.,9770,7,Villa,174,1980,-5 %
+Hegnsvej 8 8654 Bryrup,8,600000.0,08-01-2012,Fam.,6122,4,Villa,98,1939,
+Solbrinken 16 8654 Bryrup,16,670000.0,26-12-2011,Alm.,7362,3,Villa,91,1976,
+Sportsvej 10 8654 Bryrup,10,800000.0,16-12-2011,Alm.,4705,6,Villa,170,1903,-20 %
+Vellingvej 44 8654 Bryrup,44,755000.0,23-11-2011,Alm.,6622,4,Villa,114,1944,-11 %
+Østervang 37 8654 Bryrup,37,1705000.0,21-11-2011,Alm.,9419,4,Villa,181,1991,-5 %
+Østervang 10A 8654 Bryrup,0,600000.0,18-11-2011,Alm.,7058,3,Villa,85,1964,-11 %
+Løvevej 35 8654 Bryrup,35,1719500.0,11-11-2011,Alm.,8347,4,Stuehus,206,1942,
+Torupvej 10 8654 Bryrup,10,375000.0,08-11-2011,Alm.,4166,3,Villa,90,1960,
+Østervang 24 8654 Bryrup,24,550000.0,02-11-2011,Alm.,5000,4,Villa,110,1968,-31 %
+Tusdal 12 8654 Bryrup,12,375000.0,25-10-2011,Andet,5514,3,Sommerhus,68,1987,
+Spættevej 8 8654 Bryrup,8,805500.0,23-09-2011,Alm.,6056,4,Villa,133,1979,-10 %
+Skovvænget 17 8654 Bryrup,17,539000.0,29-08-2011,Alm.,2518,6,Villa,214,2012,
+Agervænget 9 8654 Bryrup,9,2000000.0,28-07-2011,Alm.,10000,6,Villa,200,2007,-9 %
+Fasanvej 29 8654 Bryrup,29,1150000.0,26-07-2011,Alm.,8984,4,Villa,128,1979,-8 %
+Lykkensrovej 6 8654 Bryrup,6,1200000.0,05-07-2011,Fam.,15384,3,Stuehus,78,1890,
+Kirkevej 7 8654 Bryrup,7,2400000.0,17-06-2011,Alm.,11822,7,Villa,203,2006,-11 %
+Burgårdevej 26 8654 Bryrup,26,720000.0,15-06-2011,Fam.,5255,3,Villa,137,1890,
+Rolighedsvej 9B 8654 Bryrup,0,618235.0,07-06-2011,Alm.,0,4,Villa,176,1945,
+Hovedgaden 54 8654 Bryrup,54,735193.0,12-05-2011,Alm.,9673,4,Villa,76,1944,
+Højdedraget 4 8654 Bryrup,4,875000.0,09-05-2011,Alm.,14830,4,Sommerhus,59,1972,0 %
+Fasanvej 17 8654 Bryrup,17,1175000.0,24-03-2011,Alm.,9108,4,Villa,129,1974,-6 %
+Skovvænget 28 8654 Bryrup,28,385000.0,23-03-2011,Alm.,2347,6,Villa,164,2016,
+Hovedgaden 50 8654 Bryrup,50,546000.0,14-03-2011,Alm.,4875,4,Villa,112,1903,0 %
+Fasanvej 38 8654 Bryrup,38,1150000.0,09-02-2011,Alm.,6424,5,Villa,179,1973,-23 %
+Østervang 44A 8654 Bryrup,0,1560000.0,04-02-2011,Alm.,15757,4,Villa,99,2002,-5 %
+Østervang 44E 8654 Bryrup,0,2100000.0,26-01-2011,Alm.,14685,5,Villa,143,1998,-7 %
+Fasanvej 36 8654 Bryrup,36,1745000.0,21-01-2011,Alm.,11044,6,Villa,158,1978,0 %
+Østervang 36A 8654 Bryrup,0,570000.0,06-01-2011,Auktion,5937,4,Villa,96,1962,
+Skovvænget 12 8654 Bryrup,12,1750000.0,23-12-2010,Alm.,11146,5,Villa,157,2007,-3 %
+Byvej 10 8654 Bryrup,10,700000.0,22-12-2010,Alm.,8536,3,Villa,82,1959,-26 %
+Fasanvej 42 8654 Bryrup,42,1710000.0,08-12-2010,Alm.,11400,5,Villa,150,1974,-5 %
+Skovvænget 4 8654 Bryrup,4,1750000.0,03-12-2010,Alm.,11744,5,Villa,149,2007,-3 %
+Lykkensrovej 3 8654 Bryrup,3,2600000.0,04-10-2010,Alm.,16250,6,Stuehus,160,1942,-13 %
+Byvej 26 8654 Bryrup,26,447500.0,03-10-2010,Andet,5966,3,Villa,75,1953,
+Lyngbakkevej 9 8654 Bryrup,9,3250000.0,01-10-2010,Alm.,125000,2,Sommerhus,26,1996,
+Lyngbakkevej 7 8654 Bryrup,7,3250000.0,01-10-2010,Alm.,36111,5,Sommerhus,90,1860,-19 %
+Agervænget 13 8654 Bryrup,13,275000.0,28-09-2010,Alm.,2291,3,Villa,120,2011,
+Vellingvej 32 8654 Bryrup,32,2150000.0,15-09-2010,Alm.,19907,4,Villa,108,1940,
+Musvitvej 8 8654 Bryrup,8,1900000.0,03-09-2010,Alm.,0,6,Villa,208,2009,-5 %
+Lykkensspilvej 6 8654 Bryrup,6,3350000.0,13-08-2010,Alm.,19822,4,Villa,169,1963,0 %
+Fasanvej 43 8654 Bryrup,43,900000.0,12-08-2010,Alm.,7317,4,Villa,123,1974,-23 %
+Højtoften 16 8654 Bryrup,16,1140000.0,06-08-2010,Alm.,7037,4,Villa,162,1973,-12 %
+Burgårdevej 20 8654 Bryrup,20,825000.0,05-08-2010,Alm.,7051,6,Villa,117,1900,-22 %
+Sportsvej 44B 8654 Bryrup,0,661555.0,31-07-2010,Fam.,3868,5,Villa,171,2011,
+Fuglsangvej 3 8654 Bryrup,3,1500000.0,18-07-2010,Alm.,7936,7,Villa,189,2011,-6 %
+Løvevej 18 8654 Bryrup,18,1650000.0,18-06-2010,Alm.,13095,3,Villa,126,1994,
+Løvevej 24 8654 Bryrup,24,2200000.0,14-06-2010,Alm.,8661,9,Villa,254,1900,
+Rodvigsballevej 17 8654 Bryrup,17,1660000.0,01-06-2010,Alm.,11448,4,Villa,145,1927,-12 %
+Søndervang 21 8654 Bryrup,21,125150.0,05-05-2010,Fam.,792,4,Villa,158,2011,
+Højtoften 6 8654 Bryrup,6,895000.0,27-04-2010,Alm.,4917,4,Villa,182,1972,-5 %
+Dalstedvej 3 8654 Bryrup,3,1650000.0,31-03-2010,Alm.,10645,4,Stuehus,155,1875,-16 %
+Burgårdevej 1 8654 Bryrup,1,950000.0,25-03-2010,Auktion,5688,6,Villa,167,1827,
+Drosselvej 20 8654 Bryrup,20,2395000.0,23-03-2010,Alm.,9618,9,Villa,249,1979,-8 %
+Birkelundvej 2 8654 Bryrup,2,1700000.0,09-03-2010,Alm.,7053,6,Stuehus,241,1900,-14 %
+Sejetvej 3 8654 Bryrup,3,1435000.0,15-02-2010,Alm.,23916,3,Sommerhus,60,1963,-15 %
+Østervang 44D 8654 Bryrup,0,2250000.0,13-02-2010,Alm.,15202,4,Villa,148,2000,-6 %
+Fasanvej 46 8654 Bryrup,46,285000.0,09-02-2010,Fam.,2192,5,Villa,130,1979,
+Østervang 49 8654 Bryrup,49,1300000.0,29-01-2010,Alm.,10833,5,Stuehus,120,1850,
+Østervang 32 8654 Bryrup,32,1325000.0,22-01-2010,Alm.,16772,2,Villa,79,1938,-5 %
+Sportsvej 2 8654 Bryrup,2,970000.0,11-01-2010,Alm.,8818,5,Villa,110,1902,-3 %
+Fasanvej 5 8654 Bryrup,5,1895000.0,19-12-2009,Alm.,11625,4,Villa,163,1975,
+Kæmpesmøllevej 5 8654 Bryrup,5,1000000.0,14-12-2009,Fam.,13333,3,Sommerhus,75,1980,
+Sportsvej 1 8654 Bryrup,1,620000.0,08-12-2009,Andet,5486,5,Villa,113,1961,
+Fasanvej 54 8654 Bryrup,54,850000.0,10-11-2009,Alm.,6204,4,Villa,137,1986,
+Østervang 17 8654 Bryrup,17,741855.0,06-11-2009,Andet,4755,5,Villa,156,1972,
+Bakkevej 1 8654 Bryrup,1,1410000.0,22-10-2009,Alm.,11557,8,Villa,122,1968,-6 %
+Lykkensrovej 5 8654 Bryrup,5,1950000.0,26-09-2009,Alm.,14552,5,Stuehus,134,1972,-22 %
+Svinsbjergvej 20 8654 Bryrup,20,650000.0,08-09-2009,Alm.,4220,5,Stuehus,154,1900,
+Hovedgaden 40B 8654 Bryrup,0,732913.0,28-08-2009,Alm.,5089,6,Villa,144,1978,
+Vellingvej 6B 8654 Bryrup,0,205000.0,10-08-2009,Auktion,3416,3,Lejlighed,60,1900,
+Spurvevej 18 8654 Bryrup,18,1800000.0,07-08-2009,Alm.,14400,5,Villa,125,1999,-10 %
+Østermark 3 8654 Bryrup,3,1950000.0,28-07-2009,Alm.,13636,5,Villa,143,1976,-6 %
+Globevænget 1 8654 Bryrup,1,575000.0,02-07-2009,Alm.,3709,6,Villa,155,1967,
+Fasanvej 21 8654 Bryrup,21,1525000.0,30-05-2009,Alm.,7093,6,Villa,215,1974,-8 %
+Langballevej 4 8654 Bryrup,4,1825000.0,30-05-2009,Alm.,13321,4,Villa,137,1924,-6 %
+Sportsvej 60 8654 Bryrup,60,330000.0,27-05-2009,Andet,2323,5,Villa,142,2010,
+Fasanvej 50 8654 Bryrup,50,1200000.0,11-05-2009,Alm.,8633,4,Villa,139,1978,
+Løvevej 12 8654 Bryrup,12,1275000.0,19-03-2009,Alm.,10991,3,Villa,116,1946,
+Sportsvej 24 8654 Bryrup,24,650000.0,19-03-2009,Andet,7558,5,Sommerhus,86,1957,
+"Hovedgaden 21, 1 8654 Bryrup",1,1650000.0,09-02-2009,Alm.,10645,5,Villa,155,1956,
+Byvej 40A 8654 Bryrup,0,560000.0,22-01-2009,Auktion,4117,7,Villa,136,1920,
+Overdrevet 8 8654 Bryrup,8,428507.0,13-01-2009,Alm.,2678,5,Villa,160,2010,
+Povlslystvej 2 8654 Bryrup,2,3220000.0,18-12-2008,Alm.,17888,6,Stuehus,180,1868,
+Kongsø 6 8654 Bryrup,6,5547211.0,09-12-2008,Fam.,50429,4,Sommerhus,110,1875,
+Vorretvej 3 8654 Bryrup,3,3350000.0,09-12-2008,Alm.,11472,5,Villa,292,2012,-16 %
+Hovedgaden 48 8654 Bryrup,48,1032000.0,17-11-2008,Alm.,9735,5,Rækkehus,106,1915,
+"Byvej 1, 1 8654 Bryrup",1,770000.0,05-11-2008,Fam.,3532,10,Lejlighed,218,1900,
+Hovedgaden 16 8654 Bryrup,16,800000.0,30-10-2008,Alm.,6956,5,Villa,115,1890,-24 %
+Åvej 5 8654 Bryrup,5,500000.0,26-10-2008,Alm.,10000,2,Sommerhus,50,1962,-13 %
+Skovvænget 7 8654 Bryrup,7,490000.0,06-10-2008,Alm.,3024,5,Villa,162,2009,
+Nygårdsvej 7 8654 Bryrup,7,710000.0,11-09-2008,Alm.,6228,4,Villa,114,1935,-7 %
+Agervænget 15 8654 Bryrup,15,375000.0,09-09-2008,Alm.,2952,4,Villa,127,2009,
+Fuglsangvej 1 8654 Bryrup,1,500000.0,28-08-2008,Alm.,3164,5,Villa,158,2010,0 %
+Svinsbjergvej 40 8654 Bryrup,40,1550000.0,27-07-2008,Alm.,19375,3,Sommerhus,80,1877,-15 %
+Overdrevet 1 8654 Bryrup,1,371000.0,15-07-2008,Alm.,2708,4,Villa,137,2009,
+Nygårdsvej 1A 8654 Bryrup,0,810000.0,09-07-2008,Alm.,6428,5,Villa,126,2011,-5 %
+Løvsangerstien 8 8654 Bryrup,8,962500.0,02-07-2008,Alm.,24679,2,Sommerhus,39,1967,-3 %
+Daltoften 18 8654 Bryrup,18,1565000.0,28-06-2008,Alm.,10574,4,Villa,148,1972,-1 %
+Solbrinken 5 8654 Bryrup,5,1284060.0,24-06-2008,Andet,6903,6,Villa,186,2002,
+Hulmosevej 2 8654 Bryrup,2,8500000.0,18-06-2008,Alm.,55921,4,Stuehus,152,1827,
+Hulmosevej 3 8654 Bryrup,3,3950000.0,18-06-2008,Alm.,47590,3,Stuehus,83,1900,
+Hovedgaden 68 8654 Bryrup,68,4775000.0,10-06-2008,Alm.,34601,6,Stuehus,138,1930,
+Byvej 19 8654 Bryrup,19,1250000.0,10-06-2008,Alm.,9469,5,Villa,132,1900,-3 %
+Løvevej 4C 8654 Bryrup,0,450000.0,27-05-2008,Alm.,4891,2,Villa,92,2011,
+Burgårdevej 37 8654 Bryrup,37,5125000.0,23-05-2008,Alm.,30688,7,Stuehus,167,1926,
+Udsigten 23 8654 Bryrup,23,1815000.0,20-05-2008,Fam.,8030,6,Villa,226,1978,-9 %
+Lykkensspilvej 5 8654 Bryrup,5,1400000.0,13-05-2008,Andet,5857,9,Stuehus,239,1944,
+Hovedgaden 2 8654 Bryrup,2,1320000.0,08-05-2008,Alm.,11000,4,Villa,120,1924,-5 %
+Spættevej 5 8654 Bryrup,5,1500000.0,28-04-2008,Alm.,10416,5,Villa,144,1974,-5 %
+Fuglsangvej 7 8654 Bryrup,7,2800000.0,26-04-2008,Alm.,25000,4,Stuehus,112,1954,0 %
+Hovedgaden 46 8654 Bryrup,46,800000.0,18-04-2008,Alm.,7272,5,Villa,110,1900,-5 %
+Kirkevej 19 8654 Bryrup,19,1025000.0,16-04-2008,Alm.,10049,4,Villa,102,1923,0 %
+Rolighedsvej 7 8654 Bryrup,7,1125000.0,15-04-2008,Alm.,13392,3,Villa,84,1952,-11 %
+Skovsøvej 9 8654 Bryrup,9,3350000.0,28-03-2008,Alm.,17724,5,Villa,189,1997,6 %
+Østervang 47 8654 Bryrup,47,1150000.0,20-03-2008,Alm.,15972,5,Villa,72,1957,-11 %
+Skolevej 8A 8654 Bryrup,0,1450000.0,03-03-2008,Fam.,7631,5,Villa,190,1953,-68 %
+Østervang 8C 8654 Bryrup,0,925000.0,28-02-2008,Alm.,8409,3,Rækkehus,110,1972,0 %
+Daltoften 2 8654 Bryrup,2,1550000.0,27-02-2008,Alm.,11923,3,Villa,130,1973,-5 %
+Østervang 36B 8654 Bryrup,0,2125000.0,12-02-2008,Alm.,12500,5,Villa,170,1998,-5 %
+St Hjøllundvej 4 8654 Bryrup,4,12300000.0,07-02-2008,Alm.,91111,6,Sommerhus,135,1980,
+Hovedgaden 8A 8654 Bryrup,0,630000.0,30-01-2008,Alm.,9545,3,Villa,66,2001,
+Hovedgaden 44 8654 Bryrup,44,1275000.0,07-01-2008,Alm.,8500,6,Rækkehus,150,1900,-2 %
+Musvitvej 5 8654 Bryrup,5,390000.0,20-12-2007,Alm.,3046,6,Villa,128,2008,-77 %
+Udsigten 18 8654 Bryrup,18,2095000.0,06-12-2007,Alm.,13259,6,Villa,158,2007,0 %
+Ansøvej 47 8654 Bryrup,47,1070000.0,25-11-2007,Alm.,11888,3,Villa,90,1963,
+Sportsvej 53 8654 Bryrup,53,1100000.0,16-11-2007,Alm.,8461,6,Villa,130,1973,
+Østervang 42D 8654 Bryrup,0,3725000.0,15-11-2007,Alm.,26418,4,Villa,141,2001,-2 %
+Hovedgaden 28 8654 Bryrup,28,870000.0,12-11-2007,Alm.,6744,5,Villa,129,1900,0 %
+Skovvænget 19 8654 Bryrup,19,516000.0,15-10-2007,Alm.,2492,5,Villa,207,2009,
+Højdedraget 5 8654 Bryrup,5,650000.0,02-10-2007,Alm.,8024,3,Sommerhus,81,1942,
+Søndervang 15 8654 Bryrup,15,1050000.0,01-10-2007,Alm.,7291,4,Villa,144,1975,-12 %
+Byvej 39 8654 Bryrup,39,910000.0,24-09-2007,Alm.,6594,5,Villa,138,1950,
+Løvsangerstien 2 8654 Bryrup,2,80000.0,16-09-2007,Alm.,2666,1,Sommerhus,30,1962,
+Overdrevet 3 8654 Bryrup,3,929596.0,07-09-2007,Andet,5342,5,Villa,174,2007,
+Spættevej 24 8654 Bryrup,24,1580000.0,03-09-2007,Alm.,10748,4,Villa,147,1978,-1 %
+Østervang 2 8654 Bryrup,2,1675000.0,23-08-2007,Alm.,7863,7,Villa,213,1974,
+Løvsangerstien 20 8654 Bryrup,20,825000.0,21-08-2007,Alm.,12890,4,Sommerhus,64,1975,
+Spættevej 16 8654 Bryrup,16,1880000.0,13-08-2007,Alm.,9641,5,Villa,195,1980,
+Sneppevej 1 8654 Bryrup,1,2195000.0,08-08-2007,Alm.,14633,5,Villa,150,1999,0 %
+Byvej 6 8654 Bryrup,6,1100000.0,05-07-2007,Alm.,9821,4,Villa,112,1935,
+Vestervang 1 8654 Bryrup,1,1200000.0,05-07-2007,Alm.,5853,6,Villa,205,1972,
+Sportsvej 31 8654 Bryrup,31,1615000.0,26-06-2007,Alm.,12617,5,Villa,128,1973,
+Løndalvej 1 8654 Bryrup,1,1245000.0,18-06-2007,Alm.,8527,4,Villa,146,1979,
+Østervang 15 8654 Bryrup,15,1650000.0,09-06-2007,Alm.,10784,4,Villa,153,1972,
+Fasanvej 40 8654 Bryrup,40,2095000.0,18-05-2007,Alm.,13966,5,Villa,150,2001,
+Fasanvej 52 8654 Bryrup,52,1195000.0,14-05-2007,Alm.,9715,5,Villa,123,1976,0 %
+Lystruphavevej 22 8654 Bryrup,22,330000.0,13-05-2007,Fam.,11785,2,Sommerhus,28,1952,
+Vestergårdsvej 4 8654 Bryrup,4,426869.0,16-04-2007,Alm.,2651,4,Villa,161,1894,
+Byvej 18 8654 Bryrup,18,1075000.0,14-04-2007,Alm.,10969,3,Villa,98,1967,
+Musvitvej 3 8654 Bryrup,3,2060000.0,27-03-2007,Alm.,14305,5,Villa,144,2007,0 %
+Spættevej 20 8654 Bryrup,20,1000000.0,09-03-2007,Alm.,4545,8,Villa,220,1975,
+Byvej 20 8654 Bryrup,20,820000.0,22-02-2007,Alm.,7592,4,Villa,108,1952,
+Sportsvej 23B 8654 Bryrup,0,2150000.0,19-02-2007,Alm.,15693,6,Villa,137,1947,
+Højdedraget 8 8654 Bryrup,8,1050000.0,16-02-2007,Alm.,11052,4,Sommerhus,95,1967,0 %
+Musvitvej 9 8654 Bryrup,9,2054900.0,27-01-2007,Alm.,11544,6,Villa,178,2007,
+Byvej 33 8654 Bryrup,33,700000.0,26-01-2007,Alm.,5303,3,Villa,132,1951,
+Bredlunden 2 8654 Bryrup,2,500000.0,23-01-2007,Alm.,2793,5,Villa,179,2008,
+Vorretvej 5 8654 Bryrup,5,3600000.0,20-01-2007,Alm.,17061,5,Villa,211,1918,-10 %
+Torupvej 1 8654 Bryrup,1,4200000.0,12-01-2007,Alm.,29577,7,Stuehus,142,1969,
+Løvet Møllevej 11 8654 Bryrup,11,3565000.0,06-01-2007,Fam.,21347,5,Villa,167,1840,
+Sportsvej 46A 8654 Bryrup,0,3400000.0,17-12-2006,Alm.,22222,4,Villa,153,1992,
+Sportsvej 32 8654 Bryrup,32,2275000.0,07-12-2006,Alm.,17500,5,Villa,130,1962,
+Hovedgaden 58 8654 Bryrup,58,12700000.0,06-12-2006,Fam.,92028,5,Villa,138,1986,
+Agervænget 4 8654 Bryrup,4,2495000.0,15-11-2006,Alm.,17570,5,Villa,142,2005,
+Søndervang 11 8654 Bryrup,11,700000.0,27-10-2006,Alm.,5882,4,Villa,119,1974,
+Skovvænget 23 8654 Bryrup,23,430000.0,17-10-2006,Alm.,2654,5,Villa,162,2008,
+Skovvænget 15 8654 Bryrup,15,435000.0,17-10-2006,Alm.,2558,6,Villa,170,2007,
+St Bredlundvej 9 8654 Bryrup,9,768662.0,29-09-2006,Fam.,4270,5,Villa,180,1910,
+Skovvænget 10 8654 Bryrup,10,340000.0,28-09-2006,Alm.,2207,5,Villa,154,2007,
+Povlslystvej 4 8654 Bryrup,4,297500.0,26-09-2006,Alm.,2680,4,Villa,111,1900,
+Østervang 10 8654 Bryrup,10,1895000.0,13-09-2006,Alm.,8574,8,Villa,221,1973,
+Skovvænget 24 8654 Bryrup,24,359000.0,03-09-2006,Alm.,2136,5,Villa,168,2008,
+Vellingvej 43 8654 Bryrup,43,700000.0,01-09-2006,Alm.,5932,5,Villa,118,1952,
+Løvevej 5 8654 Bryrup,5,1150000.0,25-08-2006,Alm.,9583,4,Villa,120,1957,
+Skovvænget 6 8654 Bryrup,6,320000.0,11-08-2006,Alm.,2285,4,Villa,140,2007,
+Agervænget 5 8654 Bryrup,5,345000.0,10-08-2006,Alm.,2284,6,Villa,151,2008,
+Daltoften 5 8654 Bryrup,5,1050000.0,08-08-2006,Alm.,8076,5,Villa,130,1969,
+Byvej 47 8654 Bryrup,47,1505000.0,24-07-2006,Alm.,13935,5,Villa,108,1971,
+Burgårdevej 25 8654 Bryrup,25,1280000.0,19-07-2006,Alm.,13333,6,Villa,96,1964,
+Solbrinken 2 8654 Bryrup,2,1600000.0,10-07-2006,Alm.,7843,5,Villa,204,1972,
+Kæmpesmøllevej 23 8654 Bryrup,23,450000.0,29-06-2006,Alm.,12500,2,Sommerhus,36,1991,
+Løvet Møllevej 4 8654 Bryrup,4,1750000.0,20-06-2006,Fam.,9887,7,Stuehus,177,1924,
+Vellingvej 46 8654 Bryrup,46,1300000.0,20-06-2006,Alm.,6989,4,Villa,186,1937,
+Skovvænget 8 8654 Bryrup,8,300000.0,19-06-2006,Alm.,2189,4,Villa,137,2007,
+Byvej 21A 8654 Bryrup,0,595000.0,16-06-2006,Alm.,5560,3,Villa,107,1963,
+Agervænget 11 8654 Bryrup,11,310000.0,16-06-2006,Alm.,1867,5,Villa,166,2007,
+Byvej 37 8654 Bryrup,37,1150000.0,02-06-2006,Alm.,5867,6,Villa,196,1910,
+Skovvænget 16 8654 Bryrup,16,327000.0,02-06-2006,Alm.,1847,6,Villa,177,2008,
+Vellingvej 6D 8654 Bryrup,0,680000.0,01-06-2006,Alm.,6938,5,Lejlighed,98,1900,
+Langsøvej 5 8654 Bryrup,5,975000.0,31-05-2006,Alm.,18750,3,Sommerhus,52,2016,
+Vellingvej 53A 8654 Bryrup,0,940000.0,29-05-2006,Alm.,7230,3,Villa,130,1984,
+Skovvænget 26 8654 Bryrup,26,358000.0,26-05-2006,Alm.,2237,5,Villa,160,2008,
+Fasanvej 32 8654 Bryrup,32,1245000.0,22-05-2006,Alm.,11635,4,Villa,107,1987,
+Løvevej 48 8654 Bryrup,48,2500000.0,18-05-2006,Alm.,17857,4,Stuehus,140,1942,
+Rolighedsvej 13 8654 Bryrup,13,1295000.0,15-05-2006,Alm.,15416,3,Villa,84,1946,
+Sportsvej 29 8654 Bryrup,29,1370000.0,15-05-2006,Alm.,11048,4,Villa,124,1983,
+Vestervang 8 8654 Bryrup,8,850000.0,11-05-2006,Alm.,7589,3,Villa,112,1966,
+Skovvænget 22 8654 Bryrup,22,330000.0,10-05-2006,Alm.,1918,7,Villa,172,2008,
+Nygårdsvej 10 8654 Bryrup,10,570000.0,28-04-2006,Alm.,0,6,Stuehus,265,1950,
+Burgårdevej 9 8654 Bryrup,9,2998867.0,27-04-2006,Alm.,28560,6,Engroshandel,105,1934,
+Højtoften 1 8654 Bryrup,1,1135000.0,21-04-2006,Alm.,8598,4,Villa,132,1972,
+Skovvænget 20 8654 Bryrup,20,325000.0,20-04-2006,Alm.,1666,5,Villa,195,2008,
+Vellingvej 40 8654 Bryrup,40,1265000.0,18-04-2006,Alm.,8161,7,Villa,155,1935,
+Søndervang 3 8654 Bryrup,3,1200000.0,12-04-2006,Alm.,9375,4,Villa,128,1998,
+Blåmejsevej 3 8654 Bryrup,3,525000.0,11-04-2006,Alm.,2678,7,Villa,196,1974,
+Musvitvej 2 8654 Bryrup,2,175000.0,30-03-2006,Alm.,1215,5,Villa,144,2007,
+Musvitvej 1 8654 Bryrup,1,400000.0,28-03-2006,Alm.,2247,6,Villa,178,2008,
+Byvej 32A 8654 Bryrup,0,545000.0,27-03-2006,Alm.,5450,4,Villa,100,1939,
+Byvej 17 8654 Bryrup,17,470000.0,24-03-2006,Fam.,4563,7,Engroshandel,103,1954,
+Musvitvej 4 8654 Bryrup,4,180000.0,23-03-2006,Alm.,942,5,Villa,191,2008,
+Hovedgaden 51 8654 Bryrup,51,300000.0,22-03-2006,Fam.,3333,5,Sommerhus,90,1908,
+Udsigten 29 8654 Bryrup,29,1725000.0,22-03-2006,Alm.,7278,7,Villa,237,1973,
+Langballevej 1 8654 Bryrup,1,1437000.0,22-03-2006,Alm.,7523,8,Villa,191,1922,
+Kirkevej 5 8654 Bryrup,5,1625000.0,15-03-2006,Alm.,9027,7,Villa,180,1956,
+Bogfinkevej 5 8654 Bryrup,5,1195000.0,10-03-2006,Alm.,9484,5,Villa,126,1974,
+Løvevej 4D 8654 Bryrup,0,200000.0,03-03-2006,Alm.,2702,2,Villa,74,2014,
+Løndalvej 2 8654 Bryrup,2,895000.0,23-02-2006,Alm.,5593,7,Villa,160,1962,
+Musvitvej 10 8654 Bryrup,10,195000.0,21-02-2006,Alm.,870,6,Villa,224,2007,
+Agervænget 1 8654 Bryrup,1,378300.0,15-02-2006,Alm.,1882,6,Villa,201,2007,
+Slagballevej 7 8654 Bryrup,7,50000.0,08-02-2006,Alm.,280,5,Stuehus,178,1882,
+Solbrinken 6 8654 Bryrup,6,430000.0,24-01-2006,Alm.,4134,2,Rækkehus,104,1967,
+Agervænget 2 8654 Bryrup,2,313300.0,17-01-2006,Alm.,1770,5,Villa,177,2008,
+Vellingvej 19 8654 Bryrup,19,1133300.0,17-01-2006,Alm.,11110,4,Villa,102,1964,
+Burgårdevej 28 8654 Bryrup,28,89523.0,10-01-2006,Fam.,447,5,Stuehus,200,1933,
+Kløvermarken 2 8654 Bryrup,2,998000.0,22-12-2005,Alm.,8048,5,Villa,124,1972,
+Byvej 21B 8654 Bryrup,0,1425000.0,22-12-2005,Alm.,0,5,Anden handel/transport,337,1900,
+Vellingvej 27 8654 Bryrup,27,3000000.0,21-12-2005,Alm.,17857,6,Stuehus,168,1932,
+Udsigten 2 8654 Bryrup,2,1575000.0,01-12-2005,Alm.,10227,6,Villa,154,1974,
+Sportsvej 45 8654 Bryrup,45,825000.0,05-11-2005,Alm.,4768,5,Villa,173,2008,
+Tusdal 16 8654 Bryrup,16,735000.0,04-11-2005,Alm.,0,6,Sommerhus,133,1984,
+Østervang 42C 8654 Bryrup,0,1130000.0,20-10-2005,Alm.,7197,5,Villa,157,1986,
+Sportsvej 41 8654 Bryrup,41,1435000.0,18-10-2005,Alm.,8858,6,Villa,162,1968,
+Vindingvej 9 8654 Bryrup,9,1600000.0,11-10-2005,Alm.,8938,7,Stuehus,179,1828,
+Agervænget 8 8654 Bryrup,8,308300.0,11-10-2005,Alm.,2171,6,Villa,142,2007,
+Byvej 24 8654 Bryrup,24,865000.0,10-10-2005,Alm.,8917,4,Villa,97,1961,
+Søndervang 4 8654 Bryrup,4,800000.0,05-10-2005,Alm.,5128,5,Villa,156,1978,
+Overdrevet 7 8654 Bryrup,7,298300.0,13-09-2005,Alm.,2146,5,Villa,139,2006,
+Krude Møllevej 20 8654 Bryrup,20,562391.0,22-08-2005,Andet,2615,4,Villa,215,2008,
+Stationsvej 2 8654 Bryrup,2,850000.0,19-08-2005,Alm.,5379,6,Villa,158,1912,
+Skolevej 5 8654 Bryrup,5,1575000.0,16-08-2005,Alm.,9843,4,Villa,160,1927,
+Udsigten 17 8654 Bryrup,17,1650000.0,08-08-2005,Alm.,7021,6,Villa,235,1969,
+Hovedgaden 39 8654 Bryrup,39,205500.0,29-07-2005,Alm.,1268,6,Villa,162,2006,
+Solbrinken 8 8654 Bryrup,8,410000.0,29-06-2005,Alm.,5616,2,Rækkehus,73,1967,
+Bredlunden 3 8654 Bryrup,3,400000.0,28-06-2005,Alm.,3883,2,Villa,103,2006,
+Lystrupmindevej 8 8654 Bryrup,8,3995000.0,27-06-2005,Alm.,17676,6,Stuehus,226,1915,
+Søndervang 17 8654 Bryrup,17,795000.0,20-06-2005,Alm.,8932,4,Villa,89,1976,
+Lyngbakkevej 11 8654 Bryrup,11,995000.0,18-06-2005,Alm.,16583,2,Sommerhus,60,1935,
+Bredlunden 6 8654 Bryrup,6,280000.0,14-06-2005,Alm.,1465,6,Villa,191,2008,
+Løvet Møllevej 5 8654 Bryrup,5,2585000.0,10-06-2005,Alm.,11000,5,Villa,235,2012,
+Kirkevej 13 8654 Bryrup,13,825000.0,10-06-2005,Alm.,5892,3,Villa,140,1911,
+Højtoften 10 8654 Bryrup,10,1150000.0,08-06-2005,Alm.,9745,4,Villa,118,1971,
+Bakkevej 12 8654 Bryrup,12,1208000.0,07-06-2005,Alm.,7550,5,Villa,160,1968,
+Løve Mark 1 8654 Bryrup,1,375000.0,01-06-2005,Alm.,3024,3,Villa,124,2006,
+Byvej 31 8654 Bryrup,31,1150000.0,31-05-2005,Fam.,5476,7,Villa,210,1918,
+Bredlunden 4 8654 Bryrup,4,280000.0,30-05-2005,Alm.,1707,6,Villa,164,2006,
+Spættevej 1 8654 Bryrup,1,1121860.0,23-05-2005,Alm.,6232,6,Villa,180,1980,
+Lykkensspilvej 1 8654 Bryrup,1,1050000.0,18-05-2005,Alm.,8203,6,Villa,128,1951,
+Fasanvej 11 8654 Bryrup,11,975000.0,18-05-2005,Alm.,7500,4,Villa,130,1975,
+Overdrevet 6 8654 Bryrup,6,398300.0,21-04-2005,Alm.,2586,6,Villa,154,2006,
+Løvevej 44 8654 Bryrup,44,4150000.0,04-04-2005,Alm.,18122,9,Stuehus,229,1912,
+Blåmejsevej 8 8654 Bryrup,8,1260000.0,27-03-2005,Alm.,8936,5,Villa,141,1974,
+Østervang 25 8654 Bryrup,25,885000.0,14-03-2005,Alm.,7436,4,Villa,119,1974,
+Vellingvej 23 8654 Bryrup,23,850000.0,07-03-2005,Alm.,7589,4,Villa,112,1959,
+Byvej 29 8654 Bryrup,29,1100000.0,07-02-2005,Alm.,5263,6,Villa,209,1920,
+Løvevej 42 8654 Bryrup,42,4595000.0,01-02-2005,Fam.,15316,6,Stuehus,300,1907,
+Drosselvej 18 8654 Bryrup,18,1573000.0,26-01-2005,Alm.,5825,6,Villa,270,1975,
+Fasanvej 13 8654 Bryrup,13,1050000.0,22-12-2004,Alm.,8750,4,Villa,120,1974,
+Sportsvej 40B 8654 Bryrup,0,135000.0,22-12-2004,Alm.,859,6,Villa,157,2005,
+Burgårdevej 35 8654 Bryrup,35,1962365.0,20-12-2004,Alm.,8606,7,Stuehus,228,1930,
+Burgårdevej 39 8654 Bryrup,39,2200000.0,20-12-2004,Alm.,25581,3,Stuehus,86,1870,
+Østervang 20A 8654 Bryrup,0,680000.0,09-12-2004,Alm.,3119,6,Villa,218,2005,
+Hovedgaden 32 8654 Bryrup,32,575000.0,01-12-2004,Alm.,5000,5,Villa,115,1920,
+Sejetvej 7 8654 Bryrup,7,361894.0,30-11-2004,Alm.,1397,8,Stuehus,259,1930,
+Fasanvej 44 8654 Bryrup,44,1180000.0,25-11-2004,Alm.,9365,3,Villa,126,1980,
+Sneppevej 6 8654 Bryrup,6,1495000.0,11-11-2004,Alm.,9522,6,Villa,157,1999,
+Blåmejsevej 2 8654 Bryrup,2,1060000.0,06-11-2004,Alm.,8153,4,Villa,130,1973,
+Agervænget 3 8654 Bryrup,3,378260.0,01-11-2004,Alm.,0,7,Villa,188,2005,
+Sportsvej 51 8654 Bryrup,51,1235000.0,28-10-2004,Alm.,8884,5,Villa,139,1976,
+Vellingvej 34 8654 Bryrup,34,689189.0,16-10-2004,Alm.,8614,4,Villa,80,1925,
+Vindingvej 3 8654 Bryrup,3,1450000.0,15-10-2004,Alm.,6561,7,Stuehus,221,1848,
+Blåmejsevej 7 8654 Bryrup,7,1350000.0,14-10-2004,Alm.,8385,6,Villa,161,1989,
+Lykkensrovej 2 8654 Bryrup,2,1845000.0,09-10-2004,Alm.,9609,7,Stuehus,192,1890,
+Fasanvej 34 8654 Bryrup,34,800000.0,08-10-2004,Alm.,5882,5,Villa,136,1974,
+Overdrevet 2 8654 Bryrup,2,383260.0,07-10-2004,Alm.,1807,6,Villa,212,2005,
+Løvevej 28 8654 Bryrup,28,700000.0,23-09-2004,Alm.,3763,7,Stuehus,186,1875,
+Rolighedsvej 19 8654 Bryrup,19,425000.0,03-09-2004,Fam.,2972,6,Villa,143,1949,
+Holtehusvej 9 8654 Bryrup,9,15300.0,06-07-2004,Alm.,1530,1,Sommerhus,10,2011,
+Højtoften 8 8654 Bryrup,8,965000.0,28-05-2004,Alm.,9190,4,Villa,105,1986,
+Daltoften 1 8654 Bryrup,1,660000.0,26-05-2004,Alm.,6734,4,Villa,98,1969,
+Løndalvej 1A 8654 Bryrup,0,925000.0,24-05-2004,Alm.,6250,5,Villa,148,1987,
+Kløvermarken 17 8654 Bryrup,17,590000.0,21-05-2004,Alm.,5673,4,Rækkehus,104,1971,
+Mellemvej 3 8654 Bryrup,3,500000.0,11-05-2004,Alm.,5208,4,Villa,96,1917,
+Sportsvej 18 8654 Bryrup,18,798000.0,06-05-2004,Alm.,8769,3,Villa,91,1897,
+Løvevej 1 8654 Bryrup,1,845000.0,29-04-2004,Alm.,7161,4,Villa,118,1923,
+Østervang 8A 8654 Bryrup,0,645000.0,26-04-2004,Alm.,6323,3,Rækkehus,102,1972,
+Udsigten 4 8654 Bryrup,4,945000.0,21-04-2004,Alm.,6847,4,Villa,138,1976,
+Østermark 5 8654 Bryrup,5,1225000.0,16-04-2004,Alm.,5493,10,Villa,223,1976,
+Hovedgaden 20 8654 Bryrup,20,550000.0,15-04-2004,Fam.,5729,3,Villa,96,1964,
+Kløvermarken 10 8654 Bryrup,10,625000.0,29-03-2004,Alm.,6009,4,Villa,104,1972,
+Daltoften 14 8654 Bryrup,14,1165000.0,18-03-2004,Alm.,10401,4,Villa,112,1971,
+Østervang 27 8654 Bryrup,27,825000.0,17-03-2004,Alm.,0,6,Villa,180,1974,
+Vellingvej 6F 8654 Bryrup,0,465000.0,15-03-2004,Alm.,5535,3,Rækkehus,84,1954,
+Burgårdevej 17 8654 Bryrup,17,405000.0,23-02-2004,Alm.,5192,4,Villa,78,1900,
+Sportsvej 13 8654 Bryrup,13,845000.0,17-02-2004,Alm.,13000,3,Villa,65,1953,
+Krude Møllevej 16 8654 Bryrup,16,2600000.0,06-02-2004,Alm.,11403,6,Stuehus,228,1900,
+Højtoften 12 8654 Bryrup,12,985000.0,17-12-2003,Alm.,6840,4,Villa,144,1973,
+Agervænget 6 8654 Bryrup,6,298063.0,11-12-2003,Alm.,2084,5,Villa,143,2005,
+Overdrevet 5 8654 Bryrup,5,323063.0,11-12-2003,Alm.,1575,5,Villa,205,2008,
+Kløvermarken 13 8654 Bryrup,13,640000.0,01-12-2003,Alm.,6153,4,Rækkehus,104,1971,
+Hovedgaden 45 8654 Bryrup,45,710000.0,19-10-2003,Fam.,6339,3,Villa,112,1910,
+Kæmpesmøllevej 21 8654 Bryrup,21,210000.0,19-10-2003,Fam.,7500,2,Sommerhus,28,1957,
+Lykkensspilvej 2 8654 Bryrup,2,200000.0,19-10-2003,Fam.,6666,2,Sommerhus,30,1947,
+"Hovedgaden 13, 1 8654 Bryrup",1,500000.0,11-10-2003,Auktion,2008,5,Lejlighed,249,1896,
+Rodvigsballevej 15 8654 Bryrup,15,1645000.0,08-10-2003,Alm.,8940,6,Villa,184,1926,
+Vindingvej 4 8654 Bryrup,4,276006.0,18-09-2003,Alm.,3450,2,Stuehus,80,1777,
+Rolighedsvej 11 8654 Bryrup,11,798000.0,10-09-2003,Alm.,8866,3,Villa,90,1946,
+Sejetvej 8 8654 Bryrup,8,2100000.0,30-07-2003,Alm.,8860,5,Stuehus,237,2012,
+Hegnsvej 7 8654 Bryrup,7,685000.0,29-07-2003,Alm.,9513,2,Villa,72,1948,
+Løvevej 29 8654 Bryrup,29,400000.0,25-07-2003,Alm.,5194,3,Villa,77,1840,
+Skolevej 1 8654 Bryrup,1,665000.0,04-07-2003,Alm.,6045,4,Villa,110,1968,
+Kløvermarken 1 8654 Bryrup,1,680000.0,30-06-2003,Alm.,6538,4,Rækkehus,104,1971,
+Svinsbjergvej 30 8654 Bryrup,30,1800000.0,24-06-2003,Alm.,0,4,Villa,148,1982,
+Spættevej 10 8654 Bryrup,10,605280.0,17-06-2003,Alm.,1997,10,Villa,303,1973,
+Østervang 31 8654 Bryrup,31,400000.0,15-06-2003,Alm.,5714,4,Villa,70,1900,
+Lystrupmindevej 19 8654 Bryrup,19,385000.0,29-05-2003,Alm.,2711,4,Villa,142,2011,
+Hovedgaden 42 8654 Bryrup,42,525000.0,27-05-2003,Fam.,3500,6,Villa,150,1901,
+Hovedgaden 40A 8654 Bryrup,0,1175000.0,12-05-2003,Alm.,5622,10,Detailhandel,209,1900,
+Burgårdevej 11 8654 Bryrup,11,635000.0,08-05-2003,Alm.,6479,5,Villa,98,1899,
+Løvevej 36 8654 Bryrup,36,1450000.0,03-05-2003,Alm.,7591,8,Stuehus,191,1950,
+Hovedgaden 55 8654 Bryrup,55,1070000.0,29-04-2003,Alm.,8492,5,Villa,126,1949,
+Kløvermarken 9 8654 Bryrup,9,650000.0,27-03-2003,Alm.,6250,4,Rækkehus,104,1971,
+Kløvermarken 7 8654 Bryrup,7,630000.0,27-03-2003,Alm.,6057,4,Rækkehus,104,1971,
+Kløvermarken 12 8654 Bryrup,12,660000.0,27-03-2003,Alm.,6346,4,Villa,104,1972,
+Løvevej 9 8654 Bryrup,9,600000.0,21-03-2003,Alm.,7500,4,Villa,80,1963,
+Sportsvej 37 8654 Bryrup,37,1540000.0,21-03-2003,Alm.,5133,9,Villa,300,1969,
+Hovedgaden 15 8654 Bryrup,15,350000.0,12-03-2003,Alm.,3645,4,Villa,96,1900,
+Lyngbakkevej 15 8654 Bryrup,15,1220000.0,31-01-2003,Alm.,16486,5,Sommerhus,74,1937,
+Sejetvej 12 8654 Bryrup,12,1320000.0,27-12-2002,Alm.,4230,8,Villa,312,1892,
+Løvsangerstien 16 8654 Bryrup,16,204000.0,18-12-2002,Fam.,5100,2,Sommerhus,40,1974,
+Lystrupmindevej 30 8654 Bryrup,30,632873.0,30-11-2002,Andet,4191,4,Villa,151,1954,
+Burgårdevej 38 8654 Bryrup,38,725000.0,06-11-2002,Alm.,4315,6,Stuehus,168,1906,
+Kæmpesmøllevej 13 8654 Bryrup,13,225000.0,02-11-2002,Alm.,1704,3,Sommerhus,132,2005,
+Burgårdevej 2 8654 Bryrup,2,498000.0,01-11-2002,Alm.,4980,4,Villa,100,1942,
+Ansøvej 45 8654 Bryrup,45,625000.0,07-10-2002,Alm.,6944,3,Villa,90,1960,
+Blåmejsevej 9 8654 Bryrup,9,1099000.0,30-09-2002,Alm.,6209,8,Villa,177,1973,
+Fuglsangvej 2 8654 Bryrup,2,2260000.0,17-09-2002,Alm.,16028,5,Stuehus,141,1954,
+Søndervang 12 8654 Bryrup,12,647000.0,07-09-2002,Fam.,3655,4,Villa,177,1981,
+Sportsvej 5 8654 Bryrup,5,400000.0,06-09-2002,Alm.,3636,2,Villa,110,1910,
+Slagballevej 1 8654 Bryrup,1,1548429.0,22-08-2002,Alm.,10605,5,Stuehus,146,1932,
+Vindingvej 10 8654 Bryrup,10,1100000.0,21-08-2002,Alm.,4089,6,Stuehus,269,2013,
+Lyngbakkevej 5 8654 Bryrup,5,2875000.0,29-07-2002,Alm.,10454,9,Villa,275,1972,
+Vindingvej 2 8654 Bryrup,2,77900.0,28-07-2002,Alm.,741,4,Stuehus,105,1800,
+Torupvej 7 8654 Bryrup,7,1650000.0,18-07-2002,Alm.,0,6,Stuehus,287,1911,
+Sportsvej 33 8654 Bryrup,33,1020000.0,10-07-2002,Alm.,6800,6,Villa,150,1969,
+Højtoften 18 8654 Bryrup,18,860000.0,26-06-2002,Alm.,6142,4,Villa,140,1973,
+Hegnsvej 2 8654 Bryrup,2,600000.0,25-06-2002,Alm.,0,6,Villa,157,1945,
+Holtehusvej 11 8654 Bryrup,11,246500.0,20-06-2002,Fam.,3006,4,Sommerhus,82,1800,
+Byvej 14 8654 Bryrup,14,850000.0,12-06-2002,Alm.,4473,9,Villa,190,1899,
+Nygårdsvej 9 8654 Bryrup,9,6700000.0,12-06-2002,Alm.,16262,9,Stuehus,412,1885,
+Byvej 9 8654 Bryrup,9,340000.0,05-06-2002,Alm.,3207,3,Villa,106,1930,
+Nygårdsvej 8 8654 Bryrup,8,930000.0,21-05-2002,Alm.,7209,4,Villa,129,1912,
+Daltoften 17 8654 Bryrup,17,925000.0,23-04-2002,Alm.,7773,4,Villa,119,1973,
+Hovedgaden 49 8654 Bryrup,49,963649.0,15-04-2002,Andet,4993,7,Villa,193,1942,
+Burgårdevej 3 8654 Bryrup,3,500000.0,05-04-2002,Alm.,4587,3,Villa,109,1910,
+Hovedgaden 25 8654 Bryrup,25,600000.0,18-02-2002,Alm.,8571,4,Servicevirksomhed,70,1910,
+Sejetvej 1 8654 Bryrup,1,1020000.0,10-10-2001,Fam.,6455,5,Stuehus,158,1790,
+Hovedgaden 41 8654 Bryrup,41,1050000.0,26-09-2001,Fam.,0,6,Villa,181,1933,
+Åvej 3 8654 Bryrup,3,805657.0,30-08-2001,Alm.,7324,3,Villa,110,1962,
+Nygårdsvej 2B 8654 Bryrup,0,580000.0,23-08-2001,Alm.,3536,4,Villa,164,1930,
+St Bredlundvej 8 8654 Bryrup,8,1428800.0,16-08-2001,Fam.,13607,4,Stuehus,105,1822,
+Langsøvej 4 8654 Bryrup,4,365000.0,14-08-2001,Alm.,7765,3,Sommerhus,47,1953,
+Vellingvej 55 8654 Bryrup,55,1540000.0,01-08-2001,Alm.,6311,9,Villa,244,1920,
+Løvevej 38 8654 Bryrup,38,1143966.0,21-07-2001,Alm.,4349,9,Villa,263,1890,
+Løvevej 8 8654 Bryrup,8,958328.0,19-07-2001,Alm.,5445,7,Villa,176,1935,
+Sportsvej 3 8654 Bryrup,3,665000.0,16-07-2001,Alm.,7823,3,Villa,85,1913,
+Hovedgaden 14 8654 Bryrup,14,1041601.0,30-06-2001,Alm.,6091,7,Villa,171,1900,
+Digevej 4 8654 Bryrup,4,250000.0,24-06-2001,Alm.,0,8,Villa,232,2002,
+Drosselvej 6 8654 Bryrup,6,795000.0,15-06-2001,Alm.,0,7,Villa,190,1975,
+Tusdal 20 8654 Bryrup,20,105000.0,31-05-2001,Alm.,7000,1,Sommerhus,15,1967,
+Nygårdsvej 1 8654 Bryrup,1,710000.0,21-05-2001,Fam.,5107,4,Villa,139,1980,
+Søvej 6 8654 Bryrup,6,455000.0,16-04-2001,Andet,3095,4,Villa,147,1974,
+Lystrupmindevej 26 8654 Bryrup,26,2700000.0,14-03-2001,Alm.,13500,6,Stuehus,200,1955,
+Bogfinkevej 2 8654 Bryrup,2,950000.0,28-02-2001,Alm.,7307,4,Villa,130,1980,
+Løndalvej 4 8654 Bryrup,4,500000.0,28-02-2001,Alm.,5747,4,Villa,87,1923,
+Løndalvej 3 8654 Bryrup,3,292500.0,19-02-2001,Andet,3046,3,Villa,96,1948,
+Vesterhåbvej 2 8654 Bryrup,2,1350000.0,24-01-2001,Fam.,13917,3,Stuehus,97,1890,
+Udsigten 15 8654 Bryrup,15,1000000.0,11-01-2001,Alm.,4854,6,Villa,206,1971,
+Fasanvej 19 8654 Bryrup,19,775000.0,17-12-2000,Alm.,4843,5,Villa,160,1974,
+Byvej 35 8654 Bryrup,35,511545.0,09-12-2000,Alm.,4448,5,Villa,115,1910,
+Hegnsvej 1 8654 Bryrup,1,785684.0,31-10-2000,Alm.,0,6,Villa,178,1964,
+Højdedraget 3 8654 Bryrup,3,100000.0,11-10-2000,Alm.,1041,3,Sommerhus,96,2006,
+Østermark 4 8654 Bryrup,4,926446.0,21-09-2000,Alm.,5355,7,Villa,173,1976,
+Globevænget 3 8654 Bryrup,3,1110000.0,05-09-2000,Alm.,7872,7,Industri o.l.,141,1979,
+Sportsvej 11 8654 Bryrup,11,705000.0,24-08-2000,Alm.,8812,3,Villa,80,1961,
+Søndervang 10 8654 Bryrup,10,955000.0,17-08-2000,Alm.,7892,4,Villa,121,1979,
+Hedevang 11 8654 Bryrup,11,896875.0,15-08-2000,Alm.,0,5,Villa,110,1987,
+Slagballevej 5 8654 Bryrup,5,595000.0,28-06-2000,Alm.,6761,3,Villa,88,1950,
+Østervang 44F 8654 Bryrup,0,260000.0,28-06-2000,Alm.,1635,5,Villa,159,2001,
+Daltoften 10 8654 Bryrup,10,1550000.0,09-06-2000,Alm.,9226,5,Villa,168,1998,
+Løvsangerstien 14 8654 Bryrup,14,577403.0,24-05-2000,Alm.,0,3,Sommerhus,84,1994,
+Østerlide 7 8654 Bryrup,7,942088.0,12-04-2000,Alm.,7916,4,Villa,119,1984,
+Sportsvej 56 8654 Bryrup,56,305000.0,30-03-2000,Andet,2328,5,Villa,131,1960,
+Skolevej 4 8654 Bryrup,4,326654.0,22-02-2000,Fam.,2613,5,Villa,125,1931,
+Kirkevej 11C 8654 Bryrup,0,980000.0,29-01-2000,Fam.,4434,8,Villa,221,1973,
+Østermark 1 8654 Bryrup,1,856961.0,21-01-2000,Alm.,6592,5,Villa,130,1977,
+Langballevej 3 8654 Bryrup,3,1600000.0,22-12-1999,Fam.,10810,4,Stuehus,148,1911,
+Svinsbjergvej 26 8654 Bryrup,26,600000.0,10-12-1999,Fam.,2752,5,Stuehus,218,1900,
+Hovedgaden 70 8654 Bryrup,70,800000.0,19-11-1999,Fam.,0,6,Stuehus,216,1915,
+Vestervang 5 8654 Bryrup,5,620000.0,18-11-1999,Alm.,0,5,Villa,160,1970,
+Kirkevej 17 8654 Bryrup,17,800000.0,13-10-1999,Alm.,5479,5,Villa,146,1922,
+Savsvinget 2 8654 Bryrup,2,850000.0,12-10-1999,Alm.,8500,4,Villa,100,1985,
+Fasanvej 22 8654 Bryrup,22,600000.0,26-09-1999,Alm.,0,6,Villa,158,1974,
+Sportsvej 4 8654 Bryrup,4,680406.0,09-09-1999,Alm.,6021,3,Villa,113,1915,
+Østerlide 5 8654 Bryrup,5,881518.0,08-09-1999,Alm.,7407,4,Villa,119,1978,
+Lystrupmindevej 12A 8654 Bryrup,0,1150073.0,30-08-1999,Alm.,11735,4,Sommerhus,98,1882,
+Sportsvej 58 8654 Bryrup,58,900000.0,27-08-1999,Alm.,7142,5,Villa,126,1978,
+Vesterhåbvej 1 8654 Bryrup,1,3141375.0,26-08-1999,Alm.,16798,6,Stuehus,187,1953,
+Daltoften 16 8654 Bryrup,16,980000.0,25-08-1999,Alm.,8166,4,Villa,120,1972,
+Boestbækvej 2 8654 Bryrup,2,1500000.0,23-08-1999,Alm.,6787,7,Villa,221,2008,
+Vellingvej 38 8654 Bryrup,38,614524.0,11-08-1999,Alm.,7229,3,Villa,85,1962,
+Vindingvej 17 8654 Bryrup,17,1275000.0,22-07-1999,Alm.,7244,7,Stuehus,176,1937,
+Hovedgaden 12 8654 Bryrup,12,820099.0,06-07-1999,Alm.,5942,5,Villa,138,1910,
+Søndervang 13 8654 Bryrup,13,55000.0,04-07-1999,Alm.,376,4,Villa,146,2009,
+Kløvermarken 6 8654 Bryrup,6,648406.0,01-07-1999,Alm.,6234,4,Villa,104,1972,
+Bakkærvej 8 8654 Bryrup,8,531772.0,07-06-1999,Alm.,7090,3,Villa,75,1965,
+Vellingvej 37 8654 Bryrup,37,900000.0,28-05-1999,Auktion,5625,4,Villa,160,1976,
+Hovedgaden 18 8654 Bryrup,18,76410.0,09-04-1999,Alm.,821,4,Villa,93,1908,
+Vellingvej 25 8654 Bryrup,25,1500000.0,24-03-1999,Fam.,0,6,Stuehus,199,1943,
+Krude Møllevej 7 8654 Bryrup,7,1962232.0,14-03-1999,Alm.,10219,9,Stuehus,192,1892,
+Tusdal 22 8654 Bryrup,22,390000.0,26-02-1999,Alm.,5652,4,Sommerhus,69,1967,
+Burgårdevej 14 8654 Bryrup,14,268000.0,13-02-1999,Alm.,0,5,Villa,104,1900,
+Østervang 44B 8654 Bryrup,0,280000.0,30-01-1999,Alm.,1728,6,Villa,162,1999,
+Lystrupmindevej 27 8654 Bryrup,27,627000.0,08-01-1999,Alm.,5225,2,Villa,120,1954,
+Sneppevej 2 8654 Bryrup,2,65000.0,03-12-1998,Alm.,422,5,Villa,154,1999,
+Østervang 40D 8654 Bryrup,0,93980.0,17-11-1998,Andet,543,7,Villa,173,1995,
+Løvet Møllevej 3 8654 Bryrup,3,1452924.0,11-11-1998,Alm.,0,8,Stuehus,213,1968,
+Sneppevej 3 8654 Bryrup,3,130000.0,11-11-1998,Alm.,833,5,Villa,156,2000,
+Østerlide 3 8654 Bryrup,3,1141740.0,28-10-1998,Alm.,8782,5,Villa,130,1983,
+Kæmpesmøllevej 7 8654 Bryrup,7,150000.0,24-10-1998,Alm.,2500,3,Sommerhus,60,2000,
+Vellingvej 53 8654 Bryrup,53,50000.0,28-09-1998,Alm.,393,5,Villa,127,1947,
+Byvej 27 8654 Bryrup,27,280000.0,24-09-1998,Alm.,2043,7,Villa,137,1917,
+Snabegårdvej 9 8654 Bryrup,9,15000.0,11-09-1998,Alm.,121,4,Villa,123,2001,
+Sportsvej 62 8654 Bryrup,62,510000.0,04-09-1998,Fam.,7083,3,Sommerhus,72,1927,
+Lystrupmindevej 29 8654 Bryrup,29,830000.0,22-08-1998,Alm.,5187,5,Villa,160,1974,
+Hedevang 6 8654 Bryrup,6,1008000.0,24-07-1998,Alm.,5040,4,Villa,200,1977,
+Løvsangerstien 6 8654 Bryrup,6,300000.0,21-06-1998,Alm.,5172,3,Sommerhus,58,1952,
+Søndervang 19 8654 Bryrup,19,40000.0,13-06-1998,Alm.,248,5,Villa,161,2004,
+Vellingvej 6A 8654 Bryrup,0,202092.0,12-06-1998,Alm.,2377,3,Lejlighed,85,1900,
+Højtoften 4 8654 Bryrup,4,902000.0,09-06-1998,Alm.,6136,5,Villa,147,1968,
+Vindingvej 21 8654 Bryrup,21,1228864.0,09-06-1998,Alm.,4876,6,Villa,252,1857,
+Østervang 44C 8654 Bryrup,0,300000.0,15-05-1998,Alm.,2362,4,Villa,127,1998,
+Svinsbjergvej 1 8654 Bryrup,1,894828.0,11-05-1998,Alm.,5810,5,Villa,154,1962,
+Kæmpesmøllevej 9 8654 Bryrup,9,150000.0,06-05-1998,Alm.,2500,3,Sommerhus,60,2002,
+Udsigten 19 8654 Bryrup,19,775000.0,01-05-1998,Alm.,5698,4,Villa,136,1973,
+Vellingvej 6E 8654 Bryrup,0,296000.0,29-04-1998,Alm.,3482,3,Rækkehus,85,1954,
+Fasanvej 37 8654 Bryrup,37,252445.0,24-04-1998,Alm.,2294,4,Villa,110,1979,
+Spættevej 12 8654 Bryrup,12,1194720.0,23-02-1998,Alm.,6788,6,Villa,176,1980,
+Bakkærvej 4 8654 Bryrup,4,800000.0,18-02-1998,Alm.,3636,9,Villa,220,1885,
+Slagballevej 12 8654 Bryrup,12,1100000.0,11-02-1998,Fam.,5000,6,Stuehus,220,1858,
+Byvej 11 8654 Bryrup,11,212000.0,10-02-1998,Alm.,2355,4,Villa,90,1900,
+Drosselvej 19 8654 Bryrup,19,1175000.0,15-01-1998,Alm.,5414,6,Villa,217,1978,
+Krude Møllevej 1 8654 Bryrup,1,1583634.0,02-01-1998,Alm.,7133,5,Villa,222,1990,
+Vellingvej 14 8654 Bryrup,14,330000.0,30-11-1997,Alm.,4647,2,Villa,71,1880,
+Drosselvej 24 8654 Bryrup,24,1191442.0,27-11-1997,Alm.,4348,5,Villa,274,1979,
+Højdedraget 24 8654 Bryrup,24,314000.0,11-11-1997,Alm.,0,5,Sommerhus,74,1974,
+Hovedgaden 4 8654 Bryrup,4,485000.0,23-10-1997,Alm.,7461,3,Villa,65,1966,
+Sportsvej 28 8654 Bryrup,28,580000.0,29-09-1997,Alm.,3276,6,Villa,177,1999,
+Søvej 2 8654 Bryrup,2,800000.0,16-09-1997,Alm.,6666,5,Villa,120,1966,
+Vellingvej 11 8654 Bryrup,11,569000.0,03-09-1997,Alm.,6184,4,Villa,92,1953,
+Nygårdsvej 11 8654 Bryrup,11,1250000.0,02-09-1997,Fam.,7225,5,Stuehus,173,1890,
+Vestervang 3 8654 Bryrup,3,500000.0,01-09-1997,Alm.,4761,4,Villa,105,1980,
+Burgårdevej 33 8654 Bryrup,33,1137000.0,31-08-1997,Alm.,5984,5,Stuehus,190,1905,
+Nygårdsvej 5 8654 Bryrup,5,400000.0,25-08-1997,Fam.,3076,4,Villa,130,1933,
+Østervang 4 8654 Bryrup,4,790000.0,29-07-1997,Alm.,5984,5,Villa,132,1978,
+Byvej 47A 8654 Bryrup,0,600000.0,16-06-1997,Fam.,5454,4,Villa,110,1984,
+Byvej 34 8654 Bryrup,34,569520.0,30-05-1997,Alm.,0,3,Villa,191,1919,
+Burgårdevej 7 8654 Bryrup,7,255000.0,27-05-1997,Fam.,1482,5,Villa,172,1885,
+Hedevang 12 8654 Bryrup,12,550000.0,02-04-1997,Alm.,6250,3,Villa,88,1978,
+Rolighedsvej 4 8654 Bryrup,4,360000.0,30-03-1997,Fam.,0,7,Villa,270,1933,
+Spættevej 2 8654 Bryrup,2,529000.0,04-03-1997,Alm.,2938,8,Villa,180,1980,
+Hedevang 4 8654 Bryrup,4,862200.0,01-02-1997,Alm.,4537,6,Villa,190,1986,
+Sportsvej 50 8654 Bryrup,50,1115000.0,01-02-1997,Alm.,7636,4,Villa,146,1970,
+Fasanvej 16 8654 Bryrup,16,525000.0,25-01-1997,Alm.,3697,4,Villa,142,1974,
+Blåmejsevej 1 8654 Bryrup,1,535000.0,21-01-1997,Alm.,0,5,Villa,130,1974,
+Kirkevej 9 8654 Bryrup,9,1048000.0,08-12-1996,Alm.,4459,9,Villa,235,1973,
+Svinsbjergvej 34 8654 Bryrup,34,840000.0,05-12-1996,Alm.,6614,6,Stuehus,127,1877,
+Løndalvej 8 8654 Bryrup,8,103000.0,19-11-1996,Andet,0,10,Stuehus,184,1928,
+Hovedgaden 56 8654 Bryrup,56,339000.0,06-11-1996,Alm.,0,5,Villa,102,1927,
+Bakkærvej 7 8654 Bryrup,7,592904.0,04-11-1996,Alm.,5701,4,Villa,104,1963,
+St Bredlundvej 4 8654 Bryrup,4,448810.0,26-10-1996,Alm.,3300,4,Villa,136,1895,
+Drosselvej 5 8654 Bryrup,5,705601.0,04-07-1996,Alm.,6917,4,Villa,102,1986,
+Sportsvej 47 8654 Bryrup,47,883000.0,26-06-1996,Alm.,3889,6,Villa,227,1972,
+Kløvermarken 3 8654 Bryrup,3,400000.0,10-06-1996,Alm.,3846,4,Rækkehus,104,1971,
+Skolevej 9 8654 Bryrup,9,630000.0,22-04-1996,Alm.,4701,4,Villa,134,1965,
+Østervang 40A 8654 Bryrup,0,460000.0,25-03-1996,Andet,7187,3,Villa,64,1948,
+Hovedgaden 66 8654 Bryrup,66,308000.0,28-02-1996,Alm.,2369,6,Villa,130,1949,
+Langsøvej 3 8654 Bryrup,3,389000.0,23-02-1996,Alm.,7780,2,Sommerhus,50,1953,
+Svinsbjergvej 3 8654 Bryrup,3,375000.0,13-02-1996,Alm.,2419,4,Villa,155,1996,
+Kirkevej 15 8654 Bryrup,15,778023.0,27-12-1995,Alm.,3112,10,Villa,250,1934,
+Løvevej 38A 8654 Bryrup,0,340000.0,21-12-1995,Fam.,22666,1,Fritid,15,1972,
+Lystrupmindevej 4 8654 Bryrup,4,315000.0,14-12-1995,Alm.,0,3,Stuehus,142,1900,
+Drosselvej 2 8654 Bryrup,2,553000.0,23-11-1995,Fam.,3686,4,Villa,150,1973,
+Løvsangerstien 12 8654 Bryrup,12,384480.0,07-11-1995,Alm.,0,4,Sommerhus,123,1994,
+Højtoften 7 8654 Bryrup,7,675000.0,06-10-1995,Alm.,4411,6,Villa,153,1969,
+Højdedraget 22 8654 Bryrup,22,261524.0,03-09-1995,Alm.,6081,2,Sommerhus,43,1983,
+Fasanvej 45 8654 Bryrup,45,550000.0,29-08-1995,Fam.,4230,5,Villa,130,1974,
+Hovedgaden 31 8654 Bryrup,31,531000.0,31-07-1995,Alm.,2966,6,Villa,179,1930,
+Vestergårdsvej 6 8654 Bryrup,6,656000.0,31-07-1995,Alm.,0,9,Stuehus,278,1890,
+Spættevej 18 8654 Bryrup,18,60000.0,27-07-1995,Alm.,0,6,Villa,153,1996,
+Snabegårdvej 3 8654 Bryrup,3,15000.0,15-07-1995,Alm.,111,4,Villa,135,1998,
+Snabegårdvej 5 8654 Bryrup,5,15000.0,15-07-1995,Alm.,131,3,Villa,114,1999,
+Snabegårdvej 7 8654 Bryrup,7,15000.0,15-07-1995,Alm.,108,3,Villa,138,1999,
+Snabegårdvej 19 8654 Bryrup,19,15000.0,15-07-1995,Alm.,79,6,Villa,188,1998,
+Snabegårdvej 17 8654 Bryrup,17,15000.0,14-07-1995,Alm.,108,6,Villa,138,1996,
+Sportsvej 49B 8654 Bryrup,0,641447.0,30-06-1995,Alm.,3467,6,Villa,185,1976,
+Østervang 28 8654 Bryrup,28,800000.0,06-06-1995,Alm.,4371,7,Villa,183,1975,
+Hedevang 10 8654 Bryrup,10,470000.0,14-05-1995,Alm.,0,4,Villa,118,1977,
+Spættevej 3 8654 Bryrup,3,425000.0,29-04-1995,Alm.,2485,6,Villa,171,1974,
+Rolighedsvej 21A 8654 Bryrup,0,210000.0,04-04-1995,Alm.,1153,8,Villa,182,1996,
+Kæmpesmøllevej 10 8654 Bryrup,10,595000.0,22-02-1995,Alm.,3181,5,Stuehus,187,1900,
+Burgårdevej 29 8654 Bryrup,29,70000.0,08-02-1995,Alm.,693,4,Stuehus,101,1925,
+Burgårdevej 30 8654 Bryrup,30,480000.0,01-02-1995,Alm.,0,5,Villa,151,1917,
+Bakkevej 2 8654 Bryrup,2,527000.0,29-01-1995,Alm.,3609,5,Villa,146,1972,
+Lystrupmindevej 16 8654 Bryrup,16,350000.0,15-01-1995,Alm.,2430,4,Villa,144,1947,
+Egelyvej 5 8654 Bryrup,5,1615000.0,10-01-1995,Fam.,7764,5,Stuehus,208,1908,
+Sportsvej 40 8654 Bryrup,40,852781.0,06-01-1995,Alm.,0,4,Villa,168,1962,
+Byvej 13 8654 Bryrup,13,450000.0,23-12-1994,Alm.,2163,6,Villa,208,1914,
+Fasanvej 48 8654 Bryrup,48,593000.0,19-12-1994,Alm.,4235,5,Villa,140,1973,
+Fasanvej 18 8654 Bryrup,18,425000.0,15-12-1994,Alm.,3761,5,Villa,113,1979,
+Lyngbakkevej 4 8654 Bryrup,4,573000.0,09-11-1994,Alm.,4547,4,Stuehus,126,1930,
+Skolevej 6 8654 Bryrup,6,175000.0,31-10-1994,Alm.,1206,6,Villa,145,1995,
+Spættevej 26 8654 Bryrup,26,400000.0,19-10-1994,Alm.,0,5,Sommerhus,98,1962,
+Slagballevej 16 8654 Bryrup,16,375000.0,30-09-1994,Alm.,0,6,Stuehus,179,1850,
+Udsigten 6 8654 Bryrup,6,648000.0,29-08-1994,Alm.,4153,5,Villa,156,1974,
+Lystruphavevej 8 8654 Bryrup,8,348500.0,10-08-1994,Fam.,744,8,Villa,468,1968,
+Højdedraget 1 8654 Bryrup,1,215000.0,04-08-1994,Alm.,1557,5,Sommerhus,138,2007,
+Vindingvej 1 8654 Bryrup,1,872625.0,01-07-1994,Alm.,5453,4,Stuehus,160,1856,
+Lystruphavevej 16 8654 Bryrup,16,186576.0,20-06-1994,Alm.,3658,1,Villa,51,1950,
+Vellingvej 35 8654 Bryrup,35,310560.0,10-06-1994,Alm.,0,8,Villa,211,1900,
+Lykkensspilvej 10 8654 Bryrup,10,150000.0,10-06-1994,Alm.,1530,3,Villa,98,1914,
+Lystrupmindevej 14 8654 Bryrup,14,224670.0,01-06-1994,Alm.,2643,2,Villa,85,1954,
+Vellingvej 20 8654 Bryrup,20,2741000.0,11-05-1994,Alm.,11420,7,Stuehus,240,1914,
+Drosselvej 23 8654 Bryrup,23,795000.0,24-04-1994,Alm.,3502,5,Villa,227,1977,
+Lystruphavevej 20 8654 Bryrup,20,1526000.0,22-04-1994,Alm.,7825,5,Villa,195,1934,
+Søndervang 7 8654 Bryrup,7,385225.0,15-04-1994,Alm.,2453,5,Villa,157,1970,
+Kløvermarken 8 8654 Bryrup,8,430000.0,13-04-1994,Alm.,4134,4,Villa,104,1972,
+Løvevej 32 8654 Bryrup,32,350000.0,05-04-1994,Alm.,0,6,Stuehus,160,1907,
+Østervang 46A 8654 Bryrup,0,154544.0,22-03-1994,Alm.,3434,3,Sommerhus,45,1961,
+Vellingvej 6C 8654 Bryrup,0,180000.0,11-03-1994,Auktion,2535,3,Lejlighed,71,1900,
+Daltoften 11 8654 Bryrup,11,860000.0,07-03-1994,Alm.,5000,6,Villa,172,1968,
+Vellingvej 13 8654 Bryrup,13,440000.0,23-02-1994,Alm.,0,6,Villa,158,1955,
+Lystrupmindevej 11 8654 Bryrup,11,190000.0,30-01-1994,Fam.,5588,2,Sommerhus,34,1935,
+Åvej 7 8654 Bryrup,7,110000.0,07-01-1994,Alm.,0,2,Sommerhus,40,1962,
+Daltoften 3 8654 Bryrup,3,724000.0,02-12-1993,Alm.,4387,6,Villa,165,1972,
+Vellingvej 6G 8654 Bryrup,0,284045.0,31-10-1993,Alm.,3463,3,Rækkehus,82,1954,
+Langballevej 5 8654 Bryrup,5,176345.0,27-08-1993,Alm.,1325,5,Stuehus,133,1877,
+Lystrupmindevej 23 8654 Bryrup,23,990000.0,06-08-1993,Alm.,4782,4,Stuehus,207,1925,
+Burgårdevej 31 8654 Bryrup,31,552000.0,22-06-1993,Fam.,2746,6,Stuehus,201,1900,
+Nygårdsvej 12 8654 Bryrup,12,735000.0,03-06-1993,Alm.,0,8,Stuehus,258,1910,
+Lystrupmindevej 10 8654 Bryrup,10,1008600.0,23-01-1993,Alm.,0,10,Stuehus,281,1962,
+Vindingvej 15 8654 Bryrup,15,337868.0,30-12-1992,Alm.,2863,4,Stuehus,118,1907,
+Vellingvej 10 8654 Bryrup,10,170000.0,29-10-1992,Alm.,1328,5,Villa,128,1777,
+Vindingvej 7 8654 Bryrup,7,700886.0,17-10-1992,Fam.,0,4,Stuehus,190,1850,
+Lykkensrovej 10 8654 Bryrup,10,280500.0,25-08-1992,Andet,1934,5,Villa,145,1998,
+Sportsvej 36B 8654 Bryrup,0,200000.0,02-07-1992,Fam.,0,5,Villa,150,1947,
+Torupvej 6 8654 Bryrup,6,400000.0,30-06-1992,Alm.,0,10,Villa,256,1921,
+Solbrinken 7 8654 Bryrup,7,730000.0,24-06-1992,Fam.,3333,6,Villa,219,1973,
+Kløvermarken 23 8654 Bryrup,23,395000.0,16-06-1992,Alm.,3798,4,Rækkehus,104,1971,
+Hovedgaden 61 8654 Bryrup,61,235000.0,07-05-1992,Alm.,1327,4,Villa,177,1953,
+Hedevang 3 8654 Bryrup,3,550000.0,31-03-1992,Fam.,2806,7,Villa,196,1973,
+Fasanvej 26 8654 Bryrup,26,282501.0,24-03-1992,Fam.,2092,3,Villa,135,1975,
+Bogfinkevej 4 8654 Bryrup,4,610000.0,17-03-1992,Alm.,3050,6,Villa,200,1975,
+Byvej 41A 8654 Bryrup,0,90000.0,14-03-1992,Alm.,750,3,Villa,120,2006,
+Østervang 38 8654 Bryrup,38,630000.0,09-02-1992,Alm.,2800,5,Villa,225,1968,

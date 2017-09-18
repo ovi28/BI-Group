@@ -1,0 +1,2255 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Hybenhaven 7 8520 Lystrup,7,1580500.0,15-05-2017,Fam.,7942,5,Villa,199,2008,
+Engvangen 20 8520 Lystrup,20,1150000.0,11-05-2017,Alm.,9829,4,Villa,117,1976,
+Hyldehaven 40 8520 Lystrup,40,2100000.0,07-04-2017,Alm.,16406,4,Rækkehus,128,1970,-4 %
+Ellebækvej 6 8520 Lystrup,6,1600000.0,06-04-2017,Alm.,15533,4,Rækkehus,103,1967,-3 %
+Blåbærhaven 60 8520 Lystrup,60,3680000.0,28-03-2017,Alm.,23741,5,Villa,155,2003,-6 %
+Ved Gadekæret 2 8520 Lystrup,2,2200000.0,24-03-2017,Alm.,14666,4,Rækkehus,150,1985,
+Solbærhaven 89 8520 Lystrup,89,2050000.0,20-03-2017,Alm.,21354,4,Rækkehus,96,1987,-2 %
+Stokbrovej 115 8520 Lystrup,115,2200000.0,20-03-2017,Alm.,17187,4,Villa,128,1986,-4 %
+Brombærhaven 58 8520 Lystrup,58,2600000.0,17-03-2017,Fam.,12500,6,Villa,208,1978,
+Stokbrovej 87 8520 Lystrup,87,2550000.0,17-03-2017,Alm.,20564,4,Villa,124,1985,-1 %
+Koldkilde 69 8520 Lystrup,69,3550000.0,15-03-2017,Alm.,17750,6,Villa,200,2008,-1 %
+Sønderskovvej 31 8520 Lystrup,31,1050000.0,11-03-2017,Alm.,19811,2,Lejlighed,53,1969,
+Kirsebærhaven 35 8520 Lystrup,35,1599000.0,10-03-2017,Alm.,19987,3,Rækkehus,80,1990,0 %
+Egehaven 22 8520 Lystrup,22,2700000.0,08-03-2017,Alm.,23275,4,Rækkehus,116,2001,-1 %
+Hasselhaven 23 8520 Lystrup,23,2150000.0,06-03-2017,Andet,9772,8,Villa,220,1997,
+Elleparken 86 8520 Lystrup,86,2900000.0,04-03-2017,Alm.,21323,5,Villa,136,1974,-3 %
+Skæringvej 120 8520 Lystrup,120,2100000.0,02-03-2017,Alm.,13461,6,Villa,156,1870,-7 %
+Elleparken 55 8520 Lystrup,55,2450000.0,01-03-2017,Alm.,19918,4,Villa,123,1976,-6 %
+Per Kjals Vej 47 8520 Lystrup,47,2665000.0,01-03-2017,Alm.,23173,4,Villa,115,1966,-5 %
+Hindbærhaven 67 8520 Lystrup,67,2235000.0,24-02-2017,Alm.,22350,4,Villa,100,1984,-7 %
+Per Kjals Vej 30 8520 Lystrup,30,2775000.0,23-02-2017,Alm.,16716,9,Villa,166,1964,-7 %
+Lille Elstedvej 18 8520 Lystrup,18,2650000.0,22-02-2017,Alm.,15056,7,Villa,176,1963,-5 %
+Grønnehaven 22 8520 Lystrup,22,2570000.0,21-02-2017,Alm.,26224,4,Rækkehus,98,2017,
+Lystrupvej 234 8520 Lystrup,234,2950000.0,14-02-2017,Alm.,19155,6,Villa,154,1920,-5 %
+Hyldehaven 8 8520 Lystrup,8,965000.0,14-02-2017,Alm.,7539,4,Rækkehus,128,1970,
+Engelstoft 141 8520 Lystrup,141,2550000.0,25-01-2017,Alm.,17465,5,Rækkehus,146,2017,
+Lille Elstedvej 28 8520 Lystrup,28,2025000.0,24-01-2017,Alm.,15576,6,Villa,130,1963,-4 %
+Rugmarken 84 8520 Lystrup,84,2499000.0,23-01-2017,Alm.,16122,5,Villa,155,1978,0 %
+Kirsebærhaven 37 8520 Lystrup,37,1299000.0,23-01-2017,Alm.,22396,2,Rækkehus,58,1990,0 %
+Bygmarken 22 8520 Lystrup,22,3200000.0,20-01-2017,Alm.,22068,5,Villa,145,1968,-3 %
+Solbærhaven 146 8520 Lystrup,146,1900000.0,20-01-2017,Alm.,22352,3,Rækkehus,85,2000,-3 %
+Møgelgårdsvej 12 8520 Lystrup,12,2600000.0,19-01-2017,Alm.,18978,5,Villa,137,1964,
+Lille Elstedvej 72 8520 Lystrup,72,781500.0,16-01-2017,Fam.,5746,5,Villa,136,1972,
+Ellebæk Parkvej 138 8520 Lystrup,138,2437500.0,12-01-2017,Alm.,24133,4,Rækkehus,101,2003,-2 %
+Hedeskovvej 6 8520 Lystrup,6,1750000.0,12-01-2017,Alm.,13059,6,Villa,134,1962,-12 %
+Engelstoft 96 8520 Lystrup,96,3650000.0,10-01-2017,Alm.,22392,6,Villa,163,2008,1 %
+Ellebæk Parkvej 118 8520 Lystrup,118,1930000.0,30-12-2016,Alm.,22976,3,Rækkehus,84,2003,-1 %
+Sønderskovvej 119 8520 Lystrup,119,1050000.0,28-12-2016,Alm.,19811,2,Lejlighed,53,1969,-3 %
+Engvangen 43 8520 Lystrup,43,2525000.0,28-12-2016,Alm.,18297,5,Villa,138,1975,-1 %
+Lille Elstedvej 50 8520 Lystrup,50,1050000.0,23-12-2016,Fam.,8076,5,Villa,130,1966,
+Kildehaven 15 8520 Lystrup,15,1650000.0,22-12-2016,Alm.,19879,3,Rækkehus,83,1991,
+Havremarken 16 8520 Lystrup,16,2115000.0,22-12-2016,Alm.,21804,4,Villa,97,1969,-4 %
+Stokbrovej 11 8520 Lystrup,11,2750000.0,21-12-2016,Alm.,17080,4,Villa,161,1973,-5 %
+Solbærhaven 170 8520 Lystrup,170,1820000.0,21-12-2016,Alm.,20000,3,Rækkehus,91,2000,-4 %
+Bygaden 8A 8520 Lystrup,0,1437500.0,14-12-2016,Fam.,11408,4,Villa,126,1966,
+Rugmarken 82 8520 Lystrup,82,1605000.0,12-12-2016,Alm.,12067,5,Villa,133,1975,-11 %
+Hvedemarken 4 8520 Lystrup,4,2849000.0,04-12-2016,Alm.,16563,5,Villa,172,1973,0 %
+Elsted Kirkevej 54 8520 Lystrup,54,2995000.0,04-12-2016,Alm.,25818,4,Villa,116,2011,0 %
+Elsted Byvej 23 8520 Lystrup,23,1100000.0,02-12-2016,Alm.,13095,3,Rækkehus,84,1900,-8 %
+Rønnehaven 57 8520 Lystrup,57,2825000.0,01-12-2016,Alm.,14790,6,Villa,191,1977,-3 %
+Hasselhaven 16 8520 Lystrup,16,2500000.0,24-11-2016,Alm.,14204,4,Villa,176,1976,-11 %
+Møgelhøj 3 8520 Lystrup,3,1100000.0,23-11-2016,Alm.,9821,6,Villa,112,1963,
+Engelstoft 135 8520 Lystrup,135,2550000.0,23-11-2016,Alm.,17465,5,Rækkehus,146,2017,
+Stokbrovej 49 8520 Lystrup,49,2200000.0,21-11-2016,Fam.,15068,5,Villa,146,1973,
+Solbærhaven 121 8520 Lystrup,121,1875000.0,17-11-2016,Alm.,19946,4,Rækkehus,94,1987,
+Engelstoft 24 8520 Lystrup,24,1974500.0,17-11-2016,Fam.,11218,5,Villa,176,2008,
+Engelstoft 94 8520 Lystrup,94,1600000.0,17-11-2016,Fam.,8888,5,Villa,180,2008,
+Hasselhaven 99 8520 Lystrup,99,3749000.0,14-11-2016,Alm.,23141,5,Villa,162,1974,0 %
+Rugmarken 16 8520 Lystrup,16,2950000.0,14-11-2016,Alm.,16120,7,Villa,183,1974,-5 %
+Ellebrinken 99 8520 Lystrup,99,2800000.0,09-11-2016,Alm.,20740,4,Villa,135,2003,-3 %
+Hybenhaven 87 8520 Lystrup,87,4875000.0,09-11-2016,Alm.,24253,5,Villa,201,2009,-2 %
+Hyldehaven 59 8520 Lystrup,59,2200000.0,07-11-2016,Alm.,13017,5,Villa,169,1970,-15 %
+Elmehaven 5 8520 Lystrup,5,4950000.0,03-11-2016,Alm.,22000,6,Villa,225,2011,-1 %
+Grønnehaven 34 8520 Lystrup,34,2450000.0,02-11-2016,Alm.,25000,4,Rækkehus,98,2017,-1 %
+Gyvelbakken 16 8520 Lystrup,16,1803000.0,01-11-2016,Alm.,17171,4,Villa,105,1963,-7 %
+Stokbrovej 42 8520 Lystrup,42,2675000.0,31-10-2016,Alm.,16718,5,Villa,160,1973,-1 %
+Enebakken 4 8520 Lystrup,4,2060000.0,31-10-2016,Alm.,14927,5,Villa,138,1966,-10 %
+Kildevældet 6 8520 Lystrup,6,1875000.0,27-10-2016,Alm.,15625,5,Villa,120,1962,-6 %
+Engelstoft 137 8520 Lystrup,137,2550000.0,27-10-2016,Alm.,17465,5,Rækkehus,146,2017,
+Sønderskovvej 109 8520 Lystrup,109,1250000.0,26-10-2016,Alm.,15625,3,Lejlighed,80,1969,-7 %
+Lystrup Stationsvej 8 8520 Lystrup,8,50000.0,26-10-2016,Alm.,480,3,Rækkehus,104,1982,
+Stokbrovej 108 8520 Lystrup,108,2050000.0,26-10-2016,Alm.,15298,4,Villa,134,1972,-4 %
+Brombærhaven 3 8520 Lystrup,3,2500000.0,21-10-2016,Alm.,20661,4,Villa,121,1979,-3 %
+Per Kjals Vej 55 8520 Lystrup,55,2961308.0,20-10-2016,Fam.,20854,5,Villa,142,1965,
+Engelstoft 139 8520 Lystrup,139,2550000.0,18-10-2016,Alm.,17465,5,Rækkehus,146,2017,
+Hyldehaven 30 8520 Lystrup,30,2025000.0,05-10-2016,Alm.,15820,4,Rækkehus,128,1970,-3 %
+Engelstoft 133 8520 Lystrup,133,2450000.0,05-10-2016,Alm.,16554,5,Rækkehus,148,2017,
+Ellebæk Parkvej 80 8520 Lystrup,80,1960000.0,03-10-2016,Alm.,19600,4,Rækkehus,100,2003,-2 %
+Koldkilde 109 8520 Lystrup,109,2599000.0,03-10-2016,Alm.,17098,5,Rækkehus,152,2014,0 %
+Skæringvej 19 8520 Lystrup,19,1700000.0,29-09-2016,Alm.,12500,5,Rækkehus,136,1980,
+Hasselhaven 89 8520 Lystrup,89,2940000.0,29-09-2016,Alm.,15473,6,Villa,190,1975,-2 %
+Solbærhaven 43 8520 Lystrup,43,1875000.0,27-09-2016,Alm.,19329,4,Rækkehus,97,1987,-1 %
+Grønnehaven 16 8520 Lystrup,16,2495000.0,27-09-2016,Alm.,24950,4,Rækkehus,100,2017,
+Bygaden 18 8520 Lystrup,18,1355000.0,22-09-2016,Alm.,15224,6,Erhverv,89,1913,-10 %
+Engelstoft 145 8520 Lystrup,145,2450000.0,19-09-2016,Alm.,16554,5,Rækkehus,148,2016,
+Solbærhaven 122 8520 Lystrup,122,2075000.0,16-09-2016,Alm.,19392,4,Rækkehus,107,1986,0 %
+Birkehaven 4 8520 Lystrup,4,2975000.0,14-09-2016,Alm.,15657,7,Villa,190,1980,-1 %
+Engelstoft 143 8520 Lystrup,143,2450000.0,13-09-2016,Alm.,16554,5,Rækkehus,148,2016,
+Bygmarken 14 8520 Lystrup,14,2595000.0,12-09-2016,Alm.,12975,8,Villa,200,1968,0 %
+Egehaven 59 8520 Lystrup,59,3900000.0,12-09-2016,Alm.,19796,7,Villa,197,1999,-5 %
+Hindbærhaven 41 8520 Lystrup,41,1120000.0,09-09-2016,Fam.,8888,4,Villa,126,1984,
+Grønnehaven 18 8520 Lystrup,18,2495000.0,05-09-2016,Alm.,24950,4,Rækkehus,100,2017,0 %
+Grønnehaven 15 8520 Lystrup,15,2795000.0,02-09-2016,Alm.,21015,4,Rækkehus,133,2017,
+Elleparken 66 8520 Lystrup,66,2999000.0,30-08-2016,Alm.,18743,5,Villa,160,1971,0 %
+Hvedemarken 19 8520 Lystrup,19,3450000.0,29-08-2016,Alm.,16666,6,Villa,207,1969,-1 %
+Vestre Havevej 10 8520 Lystrup,10,1350000.0,29-08-2016,Alm.,20149,2,Rækkehus,67,1961,-1 %
+Petersmindevej 101 8520 Lystrup,101,2035000.0,29-08-2016,Alm.,15534,5,Stuehus,131,1960,-7 %
+Kildehaven 94 8520 Lystrup,94,1655000.0,26-08-2016,Alm.,20432,3,Rækkehus,81,1991,-2 %
+Sønderskovvej 29 8520 Lystrup,29,1025000.0,25-08-2016,Alm.,18303,2,Lejlighed,56,1969,0 %
+Sønderskovvej 71 8520 Lystrup,71,1565000.0,25-08-2016,Alm.,19562,3,Lejlighed,80,1969,
+Østre Havevej 15 8520 Lystrup,15,1475000.0,24-08-2016,Alm.,16761,3,Rækkehus,88,1986,-2 %
+Sønderskovvej 135 8520 Lystrup,135,1500000.0,17-08-2016,Alm.,18987,3,Lejlighed,79,1973,
+Hasselhaven 91 8520 Lystrup,91,2300000.0,17-08-2016,Alm.,11557,5,Villa,199,1975,-4 %
+Hyldehaven 6 8520 Lystrup,6,1875000.0,09-08-2016,Alm.,14648,4,Rækkehus,128,1970,-6 %
+Ellebæk Parkvej 49 8520 Lystrup,49,1825000.0,08-08-2016,Alm.,21987,3,Rækkehus,83,2003,-4 %
+Koldkilde 107 8520 Lystrup,107,2600000.0,08-08-2016,Alm.,17105,5,Rækkehus,152,2014,0 %
+Sønderskovvej 145 8520 Lystrup,145,1150000.0,05-08-2016,Alm.,21698,2,Lejlighed,53,1973,0 %
+Engelstoft 131 8520 Lystrup,131,2450000.0,02-08-2016,Alm.,16554,5,Rækkehus,148,2017,
+Ellebæk Parkvej 122 8520 Lystrup,122,2420000.0,28-07-2016,Alm.,23960,4,Rækkehus,101,2003,-3 %
+Ellebækvej 22 8520 Lystrup,22,3300000.0,28-07-2016,Alm.,20754,6,Villa,159,2008,-6 %
+Koldkilde 21 8520 Lystrup,21,3775000.0,27-07-2016,Alm.,19868,6,Villa,190,2008,-2 %
+Lystrup Stationsvej 18 8520 Lystrup,18,1920000.0,26-07-2016,Alm.,18461,3,Rækkehus,104,1982,-4 %
+Æblevænget 26 8520 Lystrup,26,2450000.0,25-07-2016,Alm.,17753,6,Rækkehus,138,1978,-2 %
+Blåbærhaven 42 8520 Lystrup,42,3499000.0,25-07-2016,Alm.,24468,4,Villa,143,2003,0 %
+Hovmarken 51 8520 Lystrup,51,2250000.0,21-07-2016,Alm.,18442,4,Villa,122,1973,-4 %
+Rønnehaven 20 8520 Lystrup,20,3230000.0,21-07-2016,Alm.,17365,6,Villa,186,1976,-2 %
+Grønnehaven 4 8520 Lystrup,4,4800000.0,19-07-2016,Alm.,48000,4,Rækkehus,100,2017,
+Møgelgårdsvej 53 8520 Lystrup,53,1500000.0,14-07-2016,Alm.,12605,4,Villa,119,1968,-6 %
+Østre Havevej 5 8520 Lystrup,5,1535000.0,11-07-2016,Alm.,17443,3,Rækkehus,88,1986,
+Ørnedalen 31 8520 Lystrup,31,2749000.0,07-07-2016,Alm.,16660,4,Villa,165,1973,-2 %
+Kirsebærhaven 61 8520 Lystrup,61,1750000.0,07-07-2016,Alm.,22151,3,Rækkehus,79,1989,-1 %
+Havremarken 20 8520 Lystrup,20,2345000.0,05-07-2016,Alm.,18320,4,Villa,128,1969,-2 %
+Granbakken 4 8520 Lystrup,4,2600000.0,04-07-2016,Alm.,15757,6,Villa,165,1965,-5 %
+Hyldehaven 104 8520 Lystrup,104,1534500.0,30-06-2016,Fam.,7485,4,Villa,205,1975,
+Engelstoft 20 8520 Lystrup,20,4026000.0,29-06-2016,Alm.,23822,6,Villa,169,2010,3 %
+Engelstoft 166 8520 Lystrup,166,2550000.0,28-06-2016,Alm.,17229,5,Rækkehus,148,2017,
+Solbærhaven 99 8520 Lystrup,99,2005000.0,27-06-2016,Alm.,20885,4,Rækkehus,96,1987,3 %
+Dannevang 22 8520 Lystrup,22,2740000.0,24-06-2016,Alm.,19571,5,Villa,140,1973,-2 %
+Hasselhaven 63 8520 Lystrup,63,3187500.0,24-06-2016,Alm.,23266,6,Villa,137,1995,-2 %
+Hasselhaven 103 8520 Lystrup,103,2935000.0,23-06-2016,Alm.,18006,4,Villa,163,1974,-2 %
+Engelstoft 164 8520 Lystrup,164,2550000.0,16-06-2016,Alm.,17229,5,Rækkehus,148,2016,
+Engelstoft 168 8520 Lystrup,168,2550000.0,15-06-2016,Alm.,17229,5,Rækkehus,148,2017,
+Koldkilde 15 8520 Lystrup,15,3499000.0,14-06-2016,Alm.,20225,5,Villa,173,2009,0 %
+Rønnehaven 76 8520 Lystrup,76,2375000.0,09-06-2016,Alm.,19308,4,Villa,123,1977,-5 %
+Hedeskovvej 25 8520 Lystrup,25,3100000.0,09-06-2016,Alm.,12916,6,Villa,240,1964,-16 %
+Kjeldsbjergvej 1 8520 Lystrup,1,2700000.0,09-06-2016,Alm.,13705,6,Villa,197,1965,-2 %
+Engelstoft 172 8520 Lystrup,172,2550000.0,08-06-2016,Alm.,17229,5,Rækkehus,148,2017,
+Lystrupvej 233 8520 Lystrup,233,2555000.0,07-06-2016,Alm.,25550,2,Villa,100,1936,16 %
+Elev Tværvej 2 8520 Lystrup,2,2475000.0,31-05-2016,Alm.,18065,4,Villa,137,1978,3 %
+Bøgehaven 19 8520 Lystrup,19,1799000.0,27-05-2016,Alm.,18936,4,Rækkehus,95,2000,0 %
+Mosevangen 13 8520 Lystrup,13,2035000.0,24-05-2016,Alm.,15898,5,Villa,128,1965,-3 %
+Ellebæk Parkvej 62 8520 Lystrup,62,2030000.0,24-05-2016,Alm.,20300,4,Rækkehus,100,2003,-3 %
+Sønderskovvej 55 8520 Lystrup,55,1250000.0,24-05-2016,Alm.,15243,3,Lejlighed,82,1969,
+Sønderskovvej 113 8520 Lystrup,113,984000.0,23-05-2016,Alm.,17571,2,Lejlighed,56,1969,-2 %
+Hindbærhaven 8 8520 Lystrup,8,2025000.0,20-05-2016,Alm.,16875,4,Villa,120,1980,1 %
+Skolebanken 2 8520 Lystrup,2,2245000.0,17-05-2016,Alm.,13606,4,Villa,165,1964,-2 %
+Gyvelbakken 5 8520 Lystrup,5,2800000.0,16-05-2016,Alm.,19047,5,Villa,147,1964,-1 %
+Sønderskovvej 87 8520 Lystrup,87,910000.0,13-05-2016,Alm.,17169,2,Lejlighed,53,1969,
+Lystrupvej 222B 8520 Lystrup,0,2625000.0,12-05-2016,Fam.,9722,7,Villa,270,1955,
+Æblevænget 38 8520 Lystrup,38,1700000.0,12-05-2016,Alm.,20000,4,Rækkehus,85,1977,-6 %
+Møgelgårdsvej 55 8520 Lystrup,55,1300000.0,12-05-2016,Alm.,9285,5,Villa,140,1968,-10 %
+Hindbærhaven 4 8520 Lystrup,4,3250000.0,11-05-2016,Alm.,19817,7,Villa,164,1981,-4 %
+Toften 4 8520 Lystrup,4,925000.0,10-05-2016,Alm.,7400,4,Villa,125,1964,
+Munkhøj 18 8520 Lystrup,18,1975000.0,06-05-2016,Alm.,19949,3,Villa,99,1882,-4 %
+Egehaven 27 8520 Lystrup,27,3600000.0,06-05-2016,Alm.,23529,6,Villa,153,2000,-1 %
+Birkehaven 6 8520 Lystrup,6,2300000.0,04-05-2016,Alm.,18253,4,Villa,126,1980,-4 %
+Elsted Byvej 4 8520 Lystrup,4,1675000.0,04-05-2016,Alm.,15366,5,Rækkehus,109,1983,-4 %
+Engelstoft 176 8520 Lystrup,176,2550000.0,04-05-2016,Alm.,17229,5,Rækkehus,148,2017,
+Brombærhaven 9 8520 Lystrup,9,2200000.0,02-05-2016,Alm.,16417,5,Villa,134,1979,-4 %
+Brombærhaven 28 8520 Lystrup,28,3000000.0,29-04-2016,Fam.,14423,6,Villa,208,1979,
+Engelstoft 142 8520 Lystrup,142,3250000.0,28-04-2016,Alm.,19230,5,Villa,169,2009,-3 %
+Ellebrinken 77 8520 Lystrup,77,2630000.0,26-04-2016,Alm.,22288,4,Villa,118,2003,-3 %
+Solbærhaven 153 8520 Lystrup,153,2140000.0,26-04-2016,Alm.,19814,5,Rækkehus,108,1987,-3 %
+Vestre Havevej 34 8520 Lystrup,34,1369000.0,20-04-2016,Alm.,20432,2,Rækkehus,67,1961,0 %
+Kildehaven 13 8520 Lystrup,13,1650000.0,19-04-2016,Alm.,19879,3,Rækkehus,83,1991,0 %
+Sønderskovvej 107 8520 Lystrup,107,1250000.0,15-04-2016,Alm.,15625,3,Lejlighed,80,1969,-11 %
+Hedeskovvej 9 8520 Lystrup,9,2950000.0,13-04-2016,Alm.,19666,6,Villa,150,1966,-2 %
+Stokbrovej 78 8520 Lystrup,78,2500000.0,07-04-2016,Alm.,19083,5,Villa,131,1973,-4 %
+Hybenhaven 3 8520 Lystrup,3,4000000.0,06-04-2016,Alm.,25000,6,Villa,160,2009,-2 %
+Hasselhaven 105 8520 Lystrup,105,2775000.0,01-04-2016,Alm.,15767,5,Villa,176,1978,-4 %
+Hedeskovvej 17 8520 Lystrup,17,1298000.0,01-04-2016,Andet,6490,6,Villa,200,1966,
+Ellehøjen 24 8520 Lystrup,24,2215000.0,01-04-2016,Alm.,19776,4,Rækkehus,112,2000,-4 %
+Ellebæk Parkvej 110 8520 Lystrup,110,2165000.0,30-03-2016,Alm.,20619,4,Rækkehus,105,2003,-2 %
+Hedeskovvej 48 8520 Lystrup,48,2099000.0,30-03-2016,Alm.,20182,3,Villa,104,1964,0 %
+Kirsebærhaven 48 8520 Lystrup,48,1725000.0,29-03-2016,Alm.,19382,3,Rækkehus,89,1989,-3 %
+Elmehaven 50 8520 Lystrup,50,4089000.0,29-03-2016,Alm.,26380,5,Villa,155,2007,0 %
+Østre Havevej 33 8520 Lystrup,33,1650000.0,23-03-2016,Alm.,16666,3,Rækkehus,99,1961,-3 %
+Elsted Kirkevej 38 8520 Lystrup,38,4285000.0,23-03-2016,Alm.,18793,5,Rækkehus,228,2008,-5 %
+Elsted Kirkevej 8 8520 Lystrup,8,2000000.0,18-03-2016,Alm.,9852,7,Villa,203,1979,
+Grønnehaven 23 8520 Lystrup,23,2495000.0,18-03-2016,Alm.,21144,4,Rækkehus,118,2017,
+Ørnstrupvej 101 8520 Lystrup,101,1325000.0,16-03-2016,Alm.,10685,5,Stuehus,124,1924,
+Hindbærhaven 69 8520 Lystrup,69,2000000.0,14-03-2016,Alm.,15384,4,Villa,130,1981,-5 %
+Kildehaven 64 8520 Lystrup,64,1599000.0,12-03-2016,Alm.,19740,3,Rækkehus,81,1991,0 %
+Ellebæk Parkvej 10 8520 Lystrup,10,2415000.0,04-03-2016,Alm.,23910,4,Rækkehus,101,2003,
+Hindbærhaven 63 8520 Lystrup,63,3095000.0,29-02-2016,Alm.,19343,6,Villa,160,1981,0 %
+Elstedvænge 28 8520 Lystrup,28,2945000.0,26-02-2016,Alm.,13386,8,Villa,220,1976,-2 %
+Sønderskovvej 111 8520 Lystrup,111,1400000.0,25-02-2016,Alm.,16867,3,Lejlighed,83,1969,
+Hybenhaven 29 8520 Lystrup,29,3230000.0,25-02-2016,Alm.,25634,4,Villa,126,2011,-1 %
+Stokbrovej 85 8520 Lystrup,85,2550000.0,24-02-2016,Alm.,17586,5,Villa,145,1976,-2 %
+Dannevang 10B 8520 Lystrup,0,2129000.0,24-02-2016,Alm.,21290,4,Rækkehus,100,1987,-1 %
+Ellebæk Parkvej 28 8520 Lystrup,28,2648000.0,23-02-2016,Alm.,26217,4,Rækkehus,101,2003,0 %
+Stokbrovej 92 8520 Lystrup,92,2800000.0,16-02-2016,Alm.,17948,5,Villa,156,1985,
+Grønnehaven 19 8520 Lystrup,19,2495000.0,16-02-2016,Alm.,20450,4,Rækkehus,122,2017,
+Hindbærhaven 39 8520 Lystrup,39,3300000.0,13-02-2016,Alm.,15865,7,Villa,208,1980,-3 %
+Bøgehaven 39 8520 Lystrup,39,2040000.0,12-02-2016,Alm.,18888,4,Rækkehus,108,2000,-5 %
+Lystrupvej 243 8520 Lystrup,243,103000.0,11-02-2016,Alm.,725,5,Villa,142,1947,
+Ørnebakken 18 8520 Lystrup,18,2825000.0,10-02-2016,Alm.,17767,5,Villa,159,1973,-6 %
+Stokbrovej 104 8520 Lystrup,104,2015000.0,09-02-2016,Alm.,15620,4,Villa,129,1975,-6 %
+Egehaven 23 8520 Lystrup,23,3432000.0,08-02-2016,Alm.,24169,6,Villa,142,1999,4 %
+Elmehaven 36 8520 Lystrup,36,4750000.0,05-02-2016,Alm.,27142,6,Villa,175,2006,-1 %
+Møgelgårdsvej 36 8520 Lystrup,36,1675000.0,05-02-2016,Alm.,14075,4,Villa,119,1971,-7 %
+Engelstoft 170 8520 Lystrup,170,2550000.0,05-02-2016,Alm.,17229,5,Rækkehus,148,2016,
+Engelstoft 174 8520 Lystrup,174,2550000.0,04-02-2016,Alm.,17229,5,Rækkehus,148,2017,
+Engelstoft 178 8520 Lystrup,178,2550000.0,04-02-2016,Alm.,17229,5,Rækkehus,148,2016,
+Solbærhaven 107 8520 Lystrup,107,1850000.0,03-02-2016,Alm.,19680,4,Rækkehus,94,1987,-1 %
+Hasselhaven 29 8520 Lystrup,29,3395000.0,02-02-2016,Alm.,23095,6,Villa,147,1996,0 %
+Hybenhaven 4 8520 Lystrup,4,3900000.0,30-01-2016,Alm.,21666,6,Villa,180,2011,-2 %
+Elleparken 1 8520 Lystrup,1,2675000.0,29-01-2016,Alm.,13788,5,Villa,194,1972,-4 %
+Hindbærhaven 1 8520 Lystrup,1,2070000.0,27-01-2016,Alm.,19903,4,Villa,104,1982,-1 %
+Sønderskovvej 73 8520 Lystrup,73,1499000.0,22-01-2016,Alm.,18737,3,Lejlighed,80,1969,0 %
+Ellehøjen 10 8520 Lystrup,10,2530000.0,18-01-2016,Alm.,14213,6,Villa,178,1878,-4 %
+Solbærhaven 109 8520 Lystrup,109,725000.0,17-01-2016,Andet,7712,4,Rækkehus,94,1987,
+Hyldehaven 82 8520 Lystrup,82,1930000.0,14-01-2016,Alm.,19300,4,Rækkehus,100,1973,-2 %
+Stokbrovej 18 8520 Lystrup,18,2600000.0,11-01-2016,Alm.,23214,4,Villa,112,1974,-3 %
+Ørnebakken 24 8520 Lystrup,24,2999000.0,08-01-2016,Alm.,13211,8,Villa,227,1972,0 %
+Solbærhaven 168 8520 Lystrup,168,2000000.0,30-12-2015,Alm.,21978,3,Rækkehus,91,1999,
+Bøgehaven 11 8520 Lystrup,11,1500000.0,22-12-2015,Alm.,18518,3,Rækkehus,81,2000,
+Birkehaven 69 8520 Lystrup,69,2250000.0,22-12-2015,Alm.,20454,4,Villa,110,1984,-6 %
+Ørnedalen 14 8520 Lystrup,14,1530000.0,17-12-2015,Fam.,12750,4,Villa,120,1975,
+Solbærhaven 150 8520 Lystrup,150,2099000.0,11-12-2015,Alm.,23065,3,Rækkehus,91,2000,
+Solbærhaven 23 8520 Lystrup,23,1580000.0,01-12-2015,Alm.,16288,4,Rækkehus,97,1987,-1 %
+Engelstoft 17A 8520 Lystrup,0,2275000.0,01-12-2015,Alm.,15371,5,Rækkehus,148,2016,
+Hasselhaven 36 8520 Lystrup,36,3200000.0,29-11-2015,Alm.,10457,8,Villa,306,1977,-8 %
+Blåbærhaven 26 8520 Lystrup,26,4050000.0,29-11-2015,Alm.,23964,5,Villa,169,2004,
+Koldkilde 75 8520 Lystrup,75,3495000.0,23-11-2015,Alm.,20086,5,Villa,174,2009,0 %
+Stokbrovej 166 8520 Lystrup,166,2850000.0,12-11-2015,Alm.,17924,6,Villa,159,1985,-5 %
+Elsted Kirkevej 46 8520 Lystrup,46,3200000.0,06-11-2015,Alm.,20915,5,Rækkehus,153,2012,
+Solbærhaven 5 8520 Lystrup,5,1625000.0,03-11-2015,Alm.,16752,4,Rækkehus,97,1986,0 %
+Rønnehaven 51 8520 Lystrup,51,1797000.0,03-11-2015,Auktion,13823,4,Villa,130,1978,
+Egehaven 49 8520 Lystrup,49,2920000.0,27-10-2015,Alm.,21954,6,Villa,133,1999,-6 %
+Hedeskovvej 42 8520 Lystrup,42,1850000.0,27-10-2015,Alm.,14453,4,Villa,128,1965,-3 %
+Hyldehaven 54 8520 Lystrup,54,2050000.0,23-10-2015,Alm.,20500,4,Rækkehus,100,1973,3 %
+Bøgehaven 7 8520 Lystrup,7,1500000.0,23-10-2015,Alm.,18518,3,Rækkehus,81,2000,
+Solbærhaven 15 8520 Lystrup,15,1700000.0,20-10-2015,Alm.,17525,4,Rækkehus,97,1986,-3 %
+Ørnebakken 26 8520 Lystrup,26,2850000.0,16-10-2015,Alm.,18152,5,Villa,157,1973,-2 %
+Bøgehaven 26 8520 Lystrup,26,2120000.0,15-10-2015,Alm.,15703,4,Rækkehus,135,2000,-1 %
+Bjørnholt 168 8520 Lystrup,168,2690000.0,13-10-2015,Alm.,22416,5,Villa,120,1997,2 %
+Birkebakken 21 8520 Lystrup,21,3600000.0,07-10-2015,Alm.,20689,5,Villa,174,1968,-5 %
+Elsted Kirkevej 34 8520 Lystrup,34,2975000.0,07-10-2015,Alm.,25211,4,Rækkehus,118,2008,-1 %
+Per Kjals Vej 3 8520 Lystrup,3,2550000.0,28-09-2015,Alm.,17000,5,Villa,150,1964,-2 %
+Stokbrovej 62 8520 Lystrup,62,2425000.0,24-09-2015,Alm.,18798,4,Villa,129,1973,-1 %
+Ellebæk Parkvej 76 8520 Lystrup,76,1880000.0,23-09-2015,Alm.,21609,3,Rækkehus,87,2003,-1 %
+Kildehaven 82 8520 Lystrup,82,1549000.0,23-09-2015,Alm.,19123,3,Rækkehus,81,1991,0 %
+Bystævnet 11 8520 Lystrup,11,1900000.0,17-09-2015,Alm.,15200,4,Villa,125,1964,-2 %
+Egehaven 39 8520 Lystrup,39,2900000.0,14-09-2015,Alm.,18709,5,Villa,155,1999,-8 %
+Elstedvænge 54 8520 Lystrup,54,2995000.0,09-09-2015,Alm.,17114,7,Villa,175,1975,0 %
+Bøgehaven 31 8520 Lystrup,31,2175000.0,09-09-2015,Alm.,20138,4,Rækkehus,108,2000,
+Egehaven 45 8520 Lystrup,45,2800000.0,04-09-2015,Alm.,15469,4,Villa,181,1999,-7 %
+Rønnehaven 45 8520 Lystrup,45,2450000.0,28-08-2015,Alm.,19600,4,Villa,125,1976,-4 %
+Elleparken 76 8520 Lystrup,76,2920000.0,21-08-2015,Alm.,18250,6,Villa,160,1975,-1 %
+Elsted Kirkevej 6 8520 Lystrup,6,2100000.0,19-08-2015,Alm.,16406,4,Villa,128,1979,-4 %
+Hindbærhaven 57 8520 Lystrup,57,2795000.0,18-08-2015,Alm.,19275,4,Villa,145,1981,0 %
+Elleparken 128 8520 Lystrup,128,3050000.0,17-08-2015,Alm.,17134,7,Villa,178,1973,
+Solbærhaven 1 8520 Lystrup,1,1700000.0,14-08-2015,Alm.,17525,4,Rækkehus,97,1986,
+Hedeskovvej 34 8520 Lystrup,34,2650000.0,14-08-2015,Alm.,16772,5,Villa,158,1967,-2 %
+Bøgehaven 35 8520 Lystrup,35,2075000.0,11-08-2015,Alm.,19212,4,Rækkehus,108,2000,0 %
+Sønderskovvej 129 8520 Lystrup,129,1499000.0,10-08-2015,Alm.,18974,3,Lejlighed,79,1973,0 %
+Brombærhaven 7 8520 Lystrup,7,2675000.0,06-08-2015,Alm.,20576,4,Villa,130,1979,0 %
+Kirsebærhaven 25 8520 Lystrup,25,1690000.0,30-07-2015,Alm.,21125,3,Rækkehus,80,1989,-1 %
+Bøgehaven 5 8520 Lystrup,5,1625000.0,30-07-2015,Alm.,20061,3,Rækkehus,81,2000,-1 %
+Grønnehaven 9 8520 Lystrup,9,2450000.0,29-07-2015,Alm.,20247,4,Rækkehus,121,2017,
+Solbærhaven 136 8520 Lystrup,136,1835000.0,28-07-2015,Alm.,21337,4,Rækkehus,86,1987,-1 %
+Ørnedalen 3 8520 Lystrup,3,2250000.0,27-07-2015,Alm.,18750,4,Villa,120,1974,-2 %
+Engelstoft 31A 8520 Lystrup,0,2099000.0,24-07-2015,Alm.,14182,5,Rækkehus,148,2016,
+Engelstoft 19B 8520 Lystrup,0,2099000.0,24-07-2015,Alm.,14182,5,Rækkehus,148,2016,
+Hybenhaven 14 8520 Lystrup,14,3900000.0,23-07-2015,Alm.,26712,5,Villa,146,2014,-2 %
+Elsted Kirkevej 64 8520 Lystrup,64,3280000.0,23-07-2015,Alm.,25230,4,Rækkehus,130,2012,0 %
+Bystævnet 29 8520 Lystrup,29,2012000.0,21-07-2015,Alm.,14794,5,Villa,136,1962,-2 %
+Hasselhaven 33 8520 Lystrup,33,2770000.0,19-07-2015,Alm.,21472,4,Villa,129,1996,-4 %
+Hyldehaven 47 8520 Lystrup,47,3500000.0,17-07-2015,Alm.,17073,5,Villa,205,1970,-5 %
+Elleparken 114 8520 Lystrup,114,1800000.0,17-07-2015,Alm.,13043,5,Villa,138,1973,-10 %
+Birkehaven 34 8520 Lystrup,34,2274000.0,17-07-2015,Alm.,21657,4,Villa,105,1981,-1 %
+Ved Gadekæret 10 8520 Lystrup,10,2400000.0,15-07-2015,Alm.,18750,6,Rækkehus,128,1985,-4 %
+Bygmarken 2 8520 Lystrup,2,2562500.0,14-07-2015,Alm.,16015,6,Villa,160,1969,-5 %
+Elsted Byvej 14 8520 Lystrup,14,3425000.0,13-07-2015,Alm.,16545,8,Villa,207,1860,-2 %
+Kildehaven 78 8520 Lystrup,78,1545000.0,10-07-2015,Alm.,19074,3,Rækkehus,81,1991,0 %
+Sønderskovvej 17 8520 Lystrup,17,1180000.0,09-07-2015,Fam.,14936,3,Lejlighed,79,1969,
+Bygmarken 8 8520 Lystrup,8,2765000.0,08-07-2015,Alm.,18190,6,Villa,152,1969,-1 %
+Ellebrinken 13 8520 Lystrup,13,1425000.0,07-07-2015,Alm.,8189,6,Villa,174,2016,
+Ellebæk Parkvej 36 8520 Lystrup,36,2225000.0,06-07-2015,Alm.,22250,4,Rækkehus,100,2003,-3 %
+Bystævnet 15 8520 Lystrup,15,2849000.0,06-07-2015,Alm.,18620,6,Villa,153,1963,0 %
+Ellebæk Parkvej 70 8520 Lystrup,70,1700000.0,03-07-2015,Alm.,20238,3,Rækkehus,84,2003,
+Ellebæk Parkvej 27 8520 Lystrup,27,2349000.0,02-07-2015,Alm.,23257,4,Rækkehus,101,2003,0 %
+Asmusgårdsvej 52 8520 Lystrup,52,3200000.0,02-07-2015,Alm.,22695,5,Villa,141,2005,-3 %
+Kildehaven 100 8520 Lystrup,100,1180000.0,02-07-2015,Alm.,19344,2,Lejlighed,61,1991,-4 %
+Stenhøj 3 8520 Lystrup,3,975000.0,02-07-2015,Alm.,7386,3,Villa,132,1964,
+Ellebæk Parkvej 78 8520 Lystrup,78,1999000.0,01-07-2015,Alm.,19038,4,Rækkehus,105,2003,0 %
+Egehaven 1 8520 Lystrup,1,3200000.0,01-07-2015,Alm.,19512,7,Villa,164,1999,-3 %
+Engelstoft 84 8520 Lystrup,84,3727500.0,01-07-2015,Alm.,22590,5,Villa,165,2011,1 %
+Lille Elstedvej 34 8520 Lystrup,34,3050000.0,30-06-2015,Alm.,17428,6,Villa,175,1965,-2 %
+Ellebrinken 11 8520 Lystrup,11,1397000.0,30-06-2015,Alm.,8315,5,Villa,168,2017,
+Hybenhaven 97 8520 Lystrup,97,5700000.0,25-06-2015,Alm.,26146,5,Villa,218,2011,-5 %
+Engelstoft 31B 8520 Lystrup,0,2099000.0,25-06-2015,Alm.,14182,5,Rækkehus,148,2016,
+Rønnehaven 74 8520 Lystrup,74,3050000.0,24-06-2015,Alm.,20890,4,Villa,146,1977,-5 %
+Kirsebærhaven 54 8520 Lystrup,54,1650000.0,23-06-2015,Alm.,18333,3,Rækkehus,90,1989,-4 %
+Bøgehaven 2 8520 Lystrup,2,1800000.0,21-06-2015,Alm.,18750,4,Rækkehus,96,1999,-3 %
+Slåenbakken 7 8520 Lystrup,7,2300000.0,19-06-2015,Alm.,14285,5,Villa,161,1965,0 %
+Ellebæk Parkvej 35 8520 Lystrup,35,2299000.0,17-06-2015,Alm.,22762,4,Rækkehus,101,2003,0 %
+Hyldehaven 51 8520 Lystrup,51,3000000.0,16-06-2015,Alm.,15957,6,Villa,188,1971,-3 %
+Kildehaven 3 8520 Lystrup,3,1525000.0,12-06-2015,Alm.,18827,3,Rækkehus,81,1991,-2 %
+Havremarken 5 8520 Lystrup,5,2125000.0,11-06-2015,Alm.,16098,5,Villa,132,1967,-4 %
+Solbærhaven 17 8520 Lystrup,17,1775000.0,10-06-2015,Alm.,18298,4,Rækkehus,97,1986,-1 %
+Lystrupvej 257A 8520 Lystrup,0,3200000.0,09-06-2015,Alm.,13973,7,Villa,229,1957,-3 %
+Engelstoft 134 8520 Lystrup,134,3100000.0,30-05-2015,Alm.,18787,5,Villa,165,2009,-6 %
+Ørnebakken 36 8520 Lystrup,36,3550000.0,29-05-2015,Alm.,19613,7,Villa,181,1976,-6 %
+Solbærhaven 45 8520 Lystrup,45,1850000.0,29-05-2015,Alm.,19072,4,Rækkehus,97,1987,-3 %
+Kildehaven 62 8520 Lystrup,62,1450000.0,28-05-2015,Alm.,17901,3,Rækkehus,81,1991,-3 %
+Birkehaven 67 8520 Lystrup,67,2650000.0,28-05-2015,Alm.,18928,5,Villa,140,1981,-2 %
+Per Kjals Vej 7 8520 Lystrup,7,2800000.0,27-05-2015,Alm.,16470,6,Villa,170,1965,-3 %
+Bakkehældet 7 8520 Lystrup,7,1800000.0,27-05-2015,Alm.,15789,4,Villa,114,1963,-3 %
+Gyvelbakken 11 8520 Lystrup,11,3250000.0,26-05-2015,Alm.,22887,4,Villa,142,1967,-1 %
+Havremarken 8 8520 Lystrup,8,2700000.0,26-05-2015,Alm.,18881,4,Villa,143,1969,-5 %
+Lystrupvej 204 8520 Lystrup,204,1675000.0,22-05-2015,Alm.,14439,5,Villa,116,1949,-4 %
+Fyrrebakken 7 8520 Lystrup,7,2000000.0,20-05-2015,Alm.,14925,4,Villa,134,1965,-13 %
+Ellebæk Parkvej 4 8520 Lystrup,4,2285000.0,18-05-2015,Alm.,22623,4,Rækkehus,101,2003,0 %
+Elmehaven 1C 8520 Lystrup,0,4550000.0,15-05-2015,Alm.,25561,6,Villa,178,2011,-4 %
+Æblevænget 16 8520 Lystrup,16,2284000.0,12-05-2015,Alm.,16671,6,Rækkehus,137,1977,-1 %
+Engelstoft 39A 8520 Lystrup,0,2099000.0,12-05-2015,Alm.,14182,5,Rækkehus,148,2016,
+Mosevangen 11 8520 Lystrup,11,2300000.0,08-05-2015,Alm.,14197,7,Villa,162,1962,0 %
+Birkehaven 65 8520 Lystrup,65,2070000.0,08-05-2015,Alm.,19714,4,Villa,105,1982,-4 %
+Ellebæk Parkvej 14 8520 Lystrup,14,2299000.0,07-05-2015,Alm.,22762,4,Rækkehus,101,2003,0 %
+Granbakken 14 8520 Lystrup,14,2225000.0,07-05-2015,Alm.,16360,5,Villa,136,1964,-7 %
+Ørnelunden 7 8520 Lystrup,7,2850000.0,06-05-2015,Fam.,0,5,Villa,176,1973,
+Engelstoft 37B 8520 Lystrup,0,2099000.0,05-05-2015,Alm.,14182,5,Rækkehus,148,2016,
+Engelstoft 17B 8520 Lystrup,0,2099000.0,30-04-2015,Alm.,14182,5,Rækkehus,148,2016,
+Asmusgårdsvej 48 8520 Lystrup,48,3400000.0,29-04-2015,Alm.,20606,5,Villa,165,2005,-4 %
+Birkebakken 12 8520 Lystrup,12,3200000.0,28-04-2015,Alm.,19393,7,Villa,165,1965,-3 %
+Hindbærhaven 62 8520 Lystrup,62,1775000.0,28-04-2015,Alm.,17929,4,Villa,99,1980,-6 %
+Solbærhaven 127 8520 Lystrup,127,1835000.0,28-04-2015,Alm.,19114,4,Rækkehus,96,1987,-1 %
+Hasselhaven 69 8520 Lystrup,69,2399000.0,27-04-2015,Alm.,18453,5,Villa,130,1995,0 %
+Ørnehøjen 44 8520 Lystrup,44,2850000.0,23-04-2015,Alm.,20652,4,Villa,138,1973,0 %
+Ørnelunden 12 8520 Lystrup,12,1400000.0,23-04-2015,Fam.,8187,7,Villa,171,1976,
+Solbærhaven 110 8520 Lystrup,110,1949000.0,15-04-2015,Alm.,18214,4,Rækkehus,107,1986,0 %
+Rugmarken 41 8520 Lystrup,41,2100000.0,15-04-2015,Alm.,16800,4,Villa,125,1974,-9 %
+Spergelbakken 8 8520 Lystrup,8,2500000.0,14-04-2015,Alm.,15625,4,Villa,160,1964,-4 %
+Lille Elstedvej 13A 8520 Lystrup,0,1950000.0,13-04-2015,Alm.,21910,3,Rækkehus,89,1959,-2 %
+Ørbækvej 11 8520 Lystrup,11,2100000.0,13-04-2015,Alm.,15000,4,Villa,140,1973,-4 %
+Blåbærhaven 27 8520 Lystrup,27,3650000.0,08-04-2015,Alm.,19836,6,Villa,184,2000,-1 %
+Sønderskovvej 121 8520 Lystrup,121,865000.0,06-04-2015,Alm.,16320,2,Lejlighed,53,1969,-4 %
+Hybenhaven 16 8520 Lystrup,16,4450000.0,04-04-2015,Alm.,23670,5,Villa,188,2010,-1 %
+Engelstoft 37A 8520 Lystrup,0,2099000.0,02-04-2015,Alm.,14182,5,Rækkehus,148,2016,
+Ørnebakken 32 8520 Lystrup,32,2650000.0,31-03-2015,Alm.,17666,5,Villa,150,1973,-2 %
+Engelstoft 25A 8520 Lystrup,0,2099000.0,31-03-2015,Alm.,14182,5,Rækkehus,148,2016,
+Skæringvej 11 8520 Lystrup,11,1900000.0,27-03-2015,Alm.,13970,4,Rækkehus,136,1980,-3 %
+Hvedemarken 2 8520 Lystrup,2,2100000.0,20-03-2015,Alm.,16535,4,Villa,127,1968,-5 %
+Engelstoft 33A 8520 Lystrup,0,2099000.0,19-03-2015,Alm.,14182,5,Rækkehus,148,2016,
+Engelstoft 35B 8520 Lystrup,0,2099000.0,19-03-2015,Alm.,14182,5,Rækkehus,148,2016,
+Elleparken 140 8520 Lystrup,140,2200000.0,17-03-2015,Alm.,16176,5,Villa,136,1973,-4 %
+Østre Havevej 23 8520 Lystrup,23,1600000.0,13-03-2015,Alm.,16000,4,Rækkehus,100,1961,-3 %
+Hindbærhaven 11 8520 Lystrup,11,2100000.0,12-03-2015,Alm.,17500,4,Villa,120,1980,-4 %
+Engelstoft 35A 8520 Lystrup,0,2099000.0,10-03-2015,Alm.,14182,5,Rækkehus,148,2016,
+Bøgehaven 37 8520 Lystrup,37,2049000.0,08-03-2015,Alm.,19149,4,Rækkehus,107,2000,0 %
+Sønderskovvej 125 8520 Lystrup,125,1150000.0,06-03-2015,Alm.,14024,3,Lejlighed,82,1973,-7 %
+Hyldehaven 2 8520 Lystrup,2,1600000.0,06-03-2015,Alm.,12500,4,Rækkehus,128,1970,-4 %
+Kirsebærhaven 49 8520 Lystrup,49,1725000.0,06-03-2015,Alm.,17602,4,Rækkehus,98,1990,-4 %
+Elmehaven 52 8520 Lystrup,52,5030000.0,06-03-2015,Alm.,25532,5,Villa,197,2008,-3 %
+Solbærhaven 125 8520 Lystrup,125,48664.0,04-03-2015,Alm.,517,4,Rækkehus,94,1987,
+Ellebæk Parkvej 106 8520 Lystrup,106,1900000.0,02-03-2015,Alm.,19000,4,Rækkehus,100,2003,
+Rugmarken 73 8520 Lystrup,73,2800000.0,02-03-2015,Alm.,16184,4,Villa,173,1977,-3 %
+Engelstoft 39B 8520 Lystrup,0,2099000.0,02-03-2015,Alm.,14182,5,Rækkehus,148,2016,
+Hasselhaven 51 8520 Lystrup,51,3150000.0,24-02-2015,Alm.,21575,6,Villa,146,1996,-3 %
+Petersmindevej 159 8520 Lystrup,159,1425000.0,22-02-2015,Alm.,12076,5,Villa,118,1960,-11 %
+Hindbærhaven 47 8520 Lystrup,47,3150000.0,21-02-2015,Alm.,17307,8,Villa,182,1980,-3 %
+Skæringvej 13 8520 Lystrup,13,2125000.0,20-02-2015,Alm.,15625,5,Rækkehus,136,1980,-1 %
+Lille Elstedvej 41 8520 Lystrup,41,2272500.0,20-02-2015,Alm.,21238,4,Rækkehus,107,1985,-1 %
+Bøgehaven 15 8520 Lystrup,15,1785000.0,20-02-2015,Alm.,18789,4,Rækkehus,95,2000,-1 %
+Elsted Byvej 29 8520 Lystrup,29,1560000.0,19-02-2015,Alm.,14716,4,Villa,106,1942,-8 %
+Engelstoft 23 8520 Lystrup,23,2099000.0,19-02-2015,Alm.,13718,5,Rækkehus,153,2016,
+Rørvangen 1 8520 Lystrup,1,2025000.0,12-02-2015,Alm.,17920,4,Villa,113,1972,-10 %
+Hedeskovvej 54 8520 Lystrup,54,2099000.0,12-02-2015,Alm.,21418,4,Villa,98,1963,0 %
+Engelstoft 25B 8520 Lystrup,0,2099000.0,12-02-2015,Alm.,14182,5,Rækkehus,148,2016,
+Engelstoft 15 8520 Lystrup,15,2099000.0,12-02-2015,Alm.,13718,5,Rækkehus,153,2016,
+Engelstoft 27 8520 Lystrup,27,2099000.0,09-02-2015,Alm.,13718,5,Rækkehus,153,2016,
+Engelstoft 39C 8520 Lystrup,0,2099000.0,04-02-2015,Alm.,13718,5,Rækkehus,153,2016,
+Asmusgårdsvej 112 8520 Lystrup,112,3275000.0,02-02-2015,Alm.,23905,5,Villa,137,2004,-4 %
+Lyngbakken 4 8520 Lystrup,4,2760000.0,01-02-2015,Alm.,17250,3,Villa,160,1963,-5 %
+Hybenhaven 27 8520 Lystrup,27,4295000.0,31-01-2015,Alm.,25414,5,Villa,169,2011,0 %
+Ellebrinken 85 8520 Lystrup,85,2750000.0,31-01-2015,Alm.,20833,4,Villa,132,2003,-2 %
+Hasselhaven 44 8520 Lystrup,44,2875000.0,30-01-2015,Alm.,15710,7,Villa,183,1980,-1 %
+Granbakken 6 8520 Lystrup,6,2930000.0,28-01-2015,Alm.,19533,5,Villa,150,1968,-2 %
+Rønnehaven 18 8520 Lystrup,18,1460000.0,28-01-2015,Alm.,9125,6,Villa,160,1974,
+Engelstoft 19A 8520 Lystrup,0,2099000.0,26-01-2015,Alm.,14182,5,Rækkehus,148,2016,
+Engelstoft 29 8520 Lystrup,29,2099000.0,26-01-2015,Alm.,13718,5,Rækkehus,153,2016,
+Engelstoft 21 8520 Lystrup,21,2099000.0,26-01-2015,Alm.,13718,5,Rækkehus,153,2016,
+Toften 3 8520 Lystrup,3,3250000.0,22-01-2015,Alm.,17195,8,Villa,189,1963,-7 %
+Kildehaven 54 8520 Lystrup,54,1485000.0,20-01-2015,Alm.,17678,3,Rækkehus,84,1991,-4 %
+Ellebæk Parkvej 6 8520 Lystrup,6,2235000.0,19-01-2015,Alm.,22128,4,Rækkehus,101,2003,-1 %
+Havremarken 3 8520 Lystrup,3,1126870.0,19-01-2015,Andet,8409,5,Villa,134,1968,
+Bøgehaven 20 8520 Lystrup,20,2025000.0,16-01-2015,Alm.,19103,5,Rækkehus,106,1999,-1 %
+Elsted Kirkevej 40 8520 Lystrup,40,3065000.0,15-01-2015,Alm.,20993,5,Rækkehus,146,2008,-4 %
+Stokbrovej 32 8520 Lystrup,32,2750000.0,14-01-2015,Alm.,13095,6,Villa,210,1972,
+Æblevænget 25 8520 Lystrup,25,1800000.0,13-01-2015,Alm.,18367,3,Rækkehus,98,1978,-5 %
+Hybenhaven 15 8520 Lystrup,15,4550000.0,12-01-2015,Alm.,22750,5,Villa,200,2010,-5 %
+Hyldehaven 78 8520 Lystrup,78,2200000.0,18-12-2014,Alm.,22000,4,Rækkehus,100,1973,5 %
+Bøgehaven 10 8520 Lystrup,10,1775000.0,18-12-2014,Alm.,18489,4,Rækkehus,96,1999,
+Hasselhaven 55 8520 Lystrup,55,2900000.0,14-12-2014,Alm.,21641,4,Villa,134,1994,-3 %
+Blåbærhaven 73 8520 Lystrup,73,6000000.0,12-12-2014,Alm.,27777,5,Villa,216,2004,-8 %
+Elmehaven 39 8520 Lystrup,39,3825000.0,11-12-2014,Alm.,21250,6,Villa,180,2007,
+Lystrup Stationsvej 10 8520 Lystrup,10,1830000.0,08-12-2014,Alm.,17596,3,Rækkehus,104,1982,-2 %
+Bygmarken 3 8520 Lystrup,3,2050000.0,27-11-2014,Alm.,15769,6,Villa,130,1968,-7 %
+Stokbrovej 13 8520 Lystrup,13,2225000.0,27-11-2014,Alm.,14932,5,Villa,149,1972,-7 %
+Høvej 5 8520 Lystrup,5,347765.0,25-11-2014,Andet,1656,9,Stuehus,210,1893,
+Elmehaven 1A 8520 Lystrup,0,4612000.0,24-11-2014,Alm.,27289,4,Villa,169,2012,-2 %
+Bøgehaven 3 8520 Lystrup,3,1749000.0,20-11-2014,Alm.,18410,4,Rækkehus,95,2000,0 %
+Elmehaven 55 8520 Lystrup,55,5400000.0,14-11-2014,Alm.,29670,7,Villa,182,2012,-3 %
+Flinthøj 4 8520 Lystrup,4,1450000.0,12-11-2014,Alm.,13181,4,Villa,110,1967,-9 %
+Per Kjals Vej 27 8520 Lystrup,27,3375000.0,11-11-2014,Alm.,17131,9,Villa,197,1966,-3 %
+Mosevangen 3 8520 Lystrup,3,1600000.0,05-11-2014,Alm.,10666,5,Villa,150,1965,
+Elstedvænge 8 8520 Lystrup,8,1845000.0,05-11-2014,Alm.,14879,4,Villa,124,1976,-3 %
+Lille Elstedvej 23 8520 Lystrup,23,2295000.0,04-11-2014,Alm.,21857,4,Rækkehus,105,1986,0 %
+Elmehaven 32 8520 Lystrup,32,4300000.0,03-11-2014,Alm.,25595,5,Villa,168,2006,-4 %
+Østre Havevej 21 8520 Lystrup,21,1585000.0,29-10-2014,Alm.,15850,4,Rækkehus,100,1961,-1 %
+Kildehaven 48 8520 Lystrup,48,1500000.0,28-10-2014,Alm.,18518,3,Rækkehus,81,1991,-3 %
+Lyngbakken 3 8520 Lystrup,3,2300000.0,27-10-2014,Alm.,13690,6,Villa,168,1963,-8 %
+Lystrupvej 237 8520 Lystrup,237,1800000.0,24-10-2014,Alm.,12000,4,Villa,150,1927,-10 %
+Bystævnet 26 8520 Lystrup,26,1625000.0,21-10-2014,Alm.,15186,3,Villa,107,1962,-4 %
+Gyvelbakken 10 8520 Lystrup,10,2425000.0,15-10-2014,Alm.,20208,4,Villa,120,1965,-3 %
+Kildehaven 27 8520 Lystrup,27,1740000.0,12-10-2014,Alm.,16111,4,Rækkehus,108,1991,-3 %
+Ellebæk Parkvej 41 8520 Lystrup,41,1750000.0,10-10-2014,Alm.,21084,3,Rækkehus,83,2003,-3 %
+Lystrupvej 251 8520 Lystrup,251,1860000.0,06-10-2014,Alm.,16909,5,Villa,110,1963,-7 %
+Ellebæk Parkvej 100 8520 Lystrup,100,1850000.0,02-10-2014,Alm.,17619,4,Rækkehus,105,2003,-5 %
+Ørnebakken 1 8520 Lystrup,1,2825000.0,02-10-2014,Alm.,14868,4,Villa,190,1973,-6 %
+Solbærhaven 113 8520 Lystrup,113,1732000.0,29-09-2014,Alm.,18425,4,Rækkehus,94,1987,-2 %
+Petersmindevej 156 8520 Lystrup,156,2268000.0,27-09-2014,Alm.,11340,6,Villa,200,1906,-1 %
+Lille Elstedvej 3 8520 Lystrup,3,2199000.0,25-09-2014,Alm.,23645,4,Villa,93,1934,0 %
+Ellebrinken 63 8520 Lystrup,63,1295000.0,24-09-2014,Alm.,6675,4,Villa,194,2016,0 %
+Ellebæk Parkvej 45 8520 Lystrup,45,1750000.0,23-09-2014,Alm.,21084,3,Rækkehus,83,2003,0 %
+Brombærhaven 5 8520 Lystrup,5,1950000.0,22-09-2014,Alm.,13928,5,Villa,140,1979,-7 %
+Brombærhaven 6 8520 Lystrup,6,2450000.0,13-09-2014,Alm.,15408,5,Villa,159,1984,-9 %
+Blåbærhaven 38 8520 Lystrup,38,3775000.0,08-09-2014,Alm.,20628,6,Villa,183,2003,-6 %
+Hasselhaven 19 8520 Lystrup,19,1317000.0,04-09-2014,Andet,10053,6,Villa,131,1996,-53 %
+Brombærhaven 60 8520 Lystrup,60,1925000.0,03-09-2014,Alm.,18160,4,Villa,106,1979,-5 %
+Koldkilde 145 8520 Lystrup,145,2850000.0,02-09-2014,Alm.,19387,5,Villa,147,2008,
+"Marøgelhøj 10, 1 8520 Lystrup",1,1750375.0,29-08-2014,Alm.,24310,3,Lejlighed,72,1964,
+Ellebrinken 65 8520 Lystrup,65,1295000.0,28-08-2014,Alm.,7154,5,Villa,181,2015,
+Ørnebakken 4 8520 Lystrup,4,2650000.0,27-08-2014,Alm.,19485,5,Villa,136,1976,-4 %
+Per Kjals Vej 34 8520 Lystrup,34,3065000.0,27-08-2014,Alm.,21284,4,Villa,144,1964,-4 %
+Koldkilde 119 8520 Lystrup,119,2149500.0,22-08-2014,Alm.,14330,5,Rækkehus,150,2014,
+Ørbækvej 9 8520 Lystrup,9,2535000.0,22-08-2014,Alm.,12738,6,Villa,199,1972,-6 %
+Ellebæk Parkvej 47 8520 Lystrup,47,1750000.0,17-08-2014,Alm.,21084,3,Rækkehus,83,2003,-4 %
+Elstedvænge 26 8520 Lystrup,26,2199000.0,15-08-2014,Alm.,20942,4,Villa,105,1977,0 %
+Hybenhaven 83 8520 Lystrup,83,3750000.0,13-08-2014,Alm.,19736,6,Villa,190,2009,-6 %
+Hindbærhaven 2 8520 Lystrup,2,2250000.0,08-08-2014,Alm.,18442,4,Villa,122,1980,-4 %
+Koldkilde 115 8520 Lystrup,115,2149500.0,04-08-2014,Alm.,14141,5,Rækkehus,152,2015,
+Koldkilde 127 8520 Lystrup,127,1949500.0,04-08-2014,Alm.,14996,5,Rækkehus,130,2014,
+Asmusgårdsvej 10 8520 Lystrup,10,3290000.0,28-07-2014,Alm.,20562,5,Villa,160,2005,
+Hindbærhaven 9 8520 Lystrup,9,2150000.0,25-07-2014,Alm.,19026,4,Villa,113,1980,-6 %
+Engvangen 25 8520 Lystrup,25,1975000.0,24-07-2014,Alm.,13344,4,Villa,148,1950,-6 %
+Vestre Havevej 42 8520 Lystrup,42,1280000.0,22-07-2014,Alm.,19104,2,Rækkehus,67,1961,-5 %
+Skæringvej 9 8520 Lystrup,9,1925000.0,21-07-2014,Alm.,14154,5,Rækkehus,136,1980,-4 %
+Ellebrinken 81 8520 Lystrup,81,2799000.0,18-07-2014,Alm.,21204,4,Villa,132,2005,0 %
+Kjeldsbjergvej 20 8520 Lystrup,20,2475000.0,14-07-2014,Alm.,16610,5,Villa,149,1998,-2 %
+Koldkilde 49 8520 Lystrup,49,3625000.0,11-07-2014,Alm.,20251,4,Villa,179,2008,-3 %
+Vestre Havevej 54 8520 Lystrup,54,1170000.0,06-07-2014,Alm.,17462,2,Rækkehus,67,1961,-6 %
+Enebakken 19 8520 Lystrup,19,1006000.0,03-07-2014,Andet,6618,7,Villa,152,1964,
+Elleparken 45 8520 Lystrup,45,4250000.0,01-07-2014,Andet,20531,4,Villa,207,2006,
+Koldkilde 113 8520 Lystrup,113,1719600.0,25-06-2014,Alm.,11313,5,Rækkehus,152,2014,
+Rønnehaven 33 8520 Lystrup,33,2765000.0,24-06-2014,Alm.,19750,5,Villa,140,1986,-8 %
+Koldkilde 117 8520 Lystrup,117,2212200.0,23-06-2014,Alm.,14748,5,Rækkehus,150,2015,
+Solbærhaven 112 8520 Lystrup,112,1689000.0,19-06-2014,Alm.,19413,4,Rækkehus,87,1986,-1 %
+Birkehaven 8 8520 Lystrup,8,2450000.0,19-06-2014,Alm.,16896,5,Villa,145,1980,-6 %
+Blåbærhaven 19 8520 Lystrup,19,3550000.0,17-06-2014,Alm.,22468,5,Villa,158,2004,-1 %
+Koldkilde 125 8520 Lystrup,125,1949500.0,04-06-2014,Alm.,14996,5,Rækkehus,130,2014,
+Per Kjals Vej 15 8520 Lystrup,15,2200000.0,27-05-2014,Alm.,17886,5,Villa,123,1963,-6 %
+Østre Havevej 19 8520 Lystrup,19,1425000.0,27-05-2014,Alm.,15489,3,Rækkehus,92,1986,-1 %
+Kildevældet 8 8520 Lystrup,8,1575000.0,23-05-2014,Alm.,12115,5,Villa,130,1962,-4 %
+Elleparken 91 8520 Lystrup,91,1999000.0,23-05-2014,Alm.,14807,5,Villa,135,1973,0 %
+Hyldehaven 50 8520 Lystrup,50,1670000.0,21-05-2014,Alm.,13046,4,Rækkehus,128,1970,-5 %
+Solbærhaven 115 8520 Lystrup,115,1725000.0,21-05-2014,Alm.,17968,4,Rækkehus,96,1987,-1 %
+Koldkilde 123 8520 Lystrup,123,2005500.0,21-05-2014,Alm.,14855,5,Rækkehus,135,2014,
+Skæringvej 29 8520 Lystrup,29,1950000.0,19-05-2014,Alm.,14338,5,Rækkehus,136,1980,-7 %
+Koldkilde 121 8520 Lystrup,121,2212200.0,14-05-2014,Alm.,14553,5,Rækkehus,152,2014,
+Rørvangen 11 8520 Lystrup,11,2499000.0,12-05-2014,Alm.,14700,5,Villa,170,1972,0 %
+Koldkilde 95 8520 Lystrup,95,1769760.0,08-05-2014,Alm.,11643,5,Rækkehus,152,2014,
+Porsbakken 16 8520 Lystrup,16,2950000.0,06-05-2014,Alm.,14750,7,Villa,200,1963,-2 %
+Hasselhaven 66 8520 Lystrup,66,1830000.0,02-05-2014,Alm.,13656,4,Villa,134,1974,-8 %
+Brombærhaven 22 8520 Lystrup,22,1875000.0,30-04-2014,Alm.,15120,4,Villa,124,1979,-11 %
+Engelstoft 108 8520 Lystrup,108,4315000.0,29-04-2014,Alm.,20258,6,Villa,213,2008,-4 %
+Elmehaven 21 8520 Lystrup,21,3270587.0,29-04-2014,Auktion,17489,6,Villa,187,2006,
+Koldkilde 111 8520 Lystrup,111,1719600.0,29-04-2014,Alm.,11313,5,Rækkehus,152,2014,
+Koldkilde 99 8520 Lystrup,99,1559600.0,23-04-2014,Alm.,11552,5,Rækkehus,135,2014,
+Elleparken 63 8520 Lystrup,63,3250000.0,16-04-2014,Alm.,20569,5,Villa,158,2003,-3 %
+Hybenhaven 21 8520 Lystrup,21,3350000.0,15-04-2014,Alm.,22185,5,Villa,151,2009,-4 %
+Møgelgårdsvej 21 8520 Lystrup,21,2050000.0,10-04-2014,Alm.,11452,5,Villa,179,1971,
+Engelstoft 132 8520 Lystrup,132,2950000.0,09-04-2014,Alm.,15526,6,Villa,190,2010,-2 %
+Blåbærhaven 2 8520 Lystrup,2,1750000.0,02-04-2014,Andet,11290,6,Villa,155,2004,
+Stokbrovej 44 8520 Lystrup,44,2275000.0,01-04-2014,Alm.,15689,5,Villa,145,1973,-3 %
+Damstræde 5 8520 Lystrup,5,1900000.0,30-03-2014,Alm.,14615,5,Villa,130,1907,-5 %
+Ellebrinken 93 8520 Lystrup,93,2770000.0,27-03-2014,Alm.,20984,4,Villa,132,2004,-1 %
+Koldkilde 129 8520 Lystrup,129,1949500.0,27-03-2014,Alm.,14440,5,Rækkehus,135,2014,-9 %
+Elsted Byvej 2 8520 Lystrup,2,2299000.0,21-03-2014,Alm.,17960,6,Rækkehus,128,1983,0 %
+Hyldehaven 122 8520 Lystrup,122,3000000.0,18-03-2014,Alm.,15789,6,Villa,190,1974,
+Ørnedalen 32 8520 Lystrup,32,2099000.0,13-03-2014,Alm.,14886,4,Villa,141,1972,0 %
+Koldkilde 87 8520 Lystrup,87,1719600.0,13-03-2014,Alm.,11313,5,Rækkehus,152,2014,
+Elmehaven 75 8520 Lystrup,75,1995000.0,13-03-2014,Alm.,9827,4,Villa,203,2015,0 %
+Ellebækvej 17 8520 Lystrup,17,1975000.0,12-03-2014,Alm.,17025,4,Rækkehus,116,1970,-1 %
+Abildhaven 2C 8520 Lystrup,0,3280000.0,11-03-2014,Alm.,21025,5,Villa,156,2006,-3 %
+Elsted Kirkevej 68 8520 Lystrup,68,3600000.0,11-03-2014,Alm.,23225,4,Rækkehus,155,2013,
+Stokbrovej 80 8520 Lystrup,80,2875000.0,10-03-2014,Alm.,19425,5,Villa,148,1972,-1 %
+Solbærhaven 162 8520 Lystrup,162,1750000.0,07-03-2014,Alm.,20588,3,Rækkehus,85,2000,-3 %
+Koldkilde 101 8520 Lystrup,101,1604400.0,05-03-2014,Alm.,11884,5,Rækkehus,135,2014,
+Ellehøjen 14 8520 Lystrup,14,2280000.0,03-03-2014,Alm.,20727,4,Rækkehus,110,2000,-3 %
+Solbærhaven 141 8520 Lystrup,141,1855000.0,27-02-2014,Alm.,17666,4,Rækkehus,105,1987,-4 %
+Bjørnholt 174 8520 Lystrup,174,3875000.0,25-02-2014,Alm.,21527,6,Villa,180,1997,-3 %
+Granbakken 19 8520 Lystrup,19,2550000.0,22-02-2014,Alm.,17114,5,Villa,149,1987,-5 %
+Møgelgårdsvej 5 8520 Lystrup,5,1500000.0,18-02-2014,Alm.,8771,4,Villa,171,1908,-6 %
+Ellebæk Parkvej 150 8520 Lystrup,150,2270000.0,06-02-2014,Alm.,22475,4,Rækkehus,101,2003,-3 %
+Engelstoft 33B 8520 Lystrup,0,2099000.0,06-02-2014,Alm.,14182,5,Rækkehus,148,2016,
+Ellebæk Parkvej 24 8520 Lystrup,24,2125000.0,17-01-2014,Alm.,21039,4,Rækkehus,101,2003,-3 %
+Stokbrovej 21 8520 Lystrup,21,2165000.0,16-01-2014,Alm.,17047,4,Villa,127,1972,-1 %
+Engelstoft 6 8520 Lystrup,6,2975000.0,14-01-2014,Alm.,19444,5,Villa,153,2010,-1 %
+Hyldehaven 42 8520 Lystrup,42,1750000.0,02-01-2014,Alm.,13671,4,Rækkehus,128,1970,-4 %
+Asmusgårdsvej 80 8520 Lystrup,80,2812500.0,30-12-2013,Alm.,22145,4,Villa,127,2004,-4 %
+Rugmarken 28 8520 Lystrup,28,1350000.0,30-12-2013,Fam.,6887,7,Villa,196,1977,
+Per Kjals Vej 5 8520 Lystrup,5,1927000.0,18-12-2013,Alm.,17842,4,Villa,108,1962,0 %
+Møgelgårdsvej 43 8520 Lystrup,43,2200000.0,16-12-2013,Alm.,17054,5,Villa,129,1965,1 %
+Rugmarken 45 8520 Lystrup,45,1325000.0,16-12-2013,Fam.,8774,6,Villa,151,1995,
+Birkebakken 18 8520 Lystrup,18,2450000.0,12-12-2013,Alm.,16333,4,Villa,150,1965,-6 %
+Stokbrovej 98 8520 Lystrup,98,2360000.0,10-12-2013,Alm.,17226,3,Villa,137,1973,-3 %
+Koldkilde 97 8520 Lystrup,97,1679600.0,10-12-2013,Alm.,11050,5,Rækkehus,152,2014,
+Koldkilde 105 8520 Lystrup,105,1729760.0,05-12-2013,Alm.,11380,5,Rækkehus,152,2014,
+Vestre Havevej 2 8520 Lystrup,2,1350000.0,03-12-2013,Alm.,15000,3,Rækkehus,90,1961,-3 %
+Sønderskovvej 105 8520 Lystrup,105,1070000.0,03-12-2013,Alm.,12891,3,Lejlighed,83,1969,-11 %
+Hybenhaven 53 8520 Lystrup,53,4700000.0,27-11-2013,Alm.,23152,6,Villa,203,2008,-6 %
+Kildehaven 76 8520 Lystrup,76,1500000.0,19-11-2013,Alm.,18518,3,Rækkehus,81,1991,-3 %
+Oldager 4 8520 Lystrup,4,2900000.0,13-11-2013,Alm.,16477,6,Villa,176,1953,-9 %
+Ellebæk Parkvej 146 8520 Lystrup,146,2200000.0,11-11-2013,Alm.,21782,4,Rækkehus,101,2003,-2 %
+Hindbærhaven 16 8520 Lystrup,16,2325000.0,05-11-2013,Alm.,21136,5,Villa,110,1984,-4 %
+Hyldehaven 57 8520 Lystrup,57,3200000.0,04-11-2013,Alm.,15311,6,Villa,209,1973,-3 %
+Elmehaven 81 8520 Lystrup,81,4450000.0,31-10-2013,Alm.,25000,4,Villa,178,2008,-1 %
+Solbærhaven 103 8520 Lystrup,103,1750000.0,30-10-2013,Alm.,18617,4,Rækkehus,94,1987,1 %
+Ellebæk Parkvej 53 8520 Lystrup,53,900000.0,29-10-2013,Andet,10843,3,Rækkehus,83,2003,
+Asmusgårdsvej 54 8520 Lystrup,54,3210000.0,28-10-2013,Alm.,21689,5,Villa,148,2005,-3 %
+Rønnehaven 12 8520 Lystrup,12,2930000.0,23-10-2013,Alm.,18427,5,Villa,159,1975,-2 %
+Stokbrovej 84 8520 Lystrup,84,901372.0,21-10-2013,Andet,5529,5,Villa,163,1973,
+Kildehaven 126 8520 Lystrup,126,1350000.0,20-10-2013,Alm.,16666,3,Rækkehus,81,1991,-9 %
+Engelstoft 62 8520 Lystrup,62,2230000.0,17-10-2013,Andet,8138,8,Villa,274,2010,
+Bøgehaven 45 8520 Lystrup,45,1960000.0,17-10-2013,Alm.,18148,5,Rækkehus,108,2000,-2 %
+Birkehaven 3 8520 Lystrup,3,1875000.0,16-10-2013,Alm.,17045,4,Villa,110,1980,-6 %
+Elsted Kirkevej 62 8520 Lystrup,62,2665000.0,16-10-2013,Alm.,23173,4,Rækkehus,115,2013,3 %
+Egehaven 29 8520 Lystrup,29,2730000.0,11-10-2013,Alm.,21000,6,Villa,130,1998,-6 %
+Østre Havevej 59 8520 Lystrup,59,1065000.0,03-10-2013,Alm.,18362,2,Rækkehus,58,1961,-3 %
+Ellebæk Parkvej 31 8520 Lystrup,31,2200000.0,30-09-2013,Alm.,21782,4,Rækkehus,101,2003,-2 %
+Elsted Kirkevej 22 8520 Lystrup,22,3280000.0,30-09-2013,Alm.,23098,5,Dobbelthus,142,2013,3 %
+Per Kjals Vej 29 8520 Lystrup,29,3050000.0,22-09-2013,Alm.,19062,9,Villa,160,1969,-5 %
+Sønderskovvej 33 8520 Lystrup,33,999000.0,16-09-2013,Alm.,18849,2,Lejlighed,53,1969,
+Æblevænget 41 8520 Lystrup,41,1475000.0,09-09-2013,Alm.,0,3,Rækkehus,98,1978,-8 %
+Pilebækvej 5 8520 Lystrup,5,2610000.0,05-09-2013,Alm.,17171,6,Villa,152,1966,-3 %
+Havremarken 6 8520 Lystrup,6,2300000.0,05-09-2013,Alm.,15436,5,Villa,149,1969,-4 %
+Koldkilde 41 8520 Lystrup,41,3075000.0,03-09-2013,Alm.,21206,5,Villa,145,2008,-1 %
+Egehaven 4 8520 Lystrup,4,2075000.0,01-09-2013,Fam.,17887,4,Rækkehus,116,2001,
+Egehaven 9 8520 Lystrup,9,3225000.0,30-08-2013,Alm.,19785,6,Villa,163,1999,-2 %
+Koldkilde 103 8520 Lystrup,103,1729760.0,28-08-2013,Alm.,11380,5,Rækkehus,152,2014,
+Engelstoft 118 8520 Lystrup,118,3480000.0,26-08-2013,Alm.,20470,4,Villa,170,2009,-1 %
+Skæringvej 7 8520 Lystrup,7,1800000.0,20-08-2013,Alm.,12676,5,Rækkehus,142,1980,-5 %
+Lystrupvej 254A 8520 Lystrup,0,1275000.0,20-08-2013,Alm.,13281,3,Villa,96,1920,-4 %
+Møgelgårdsvej 39 8520 Lystrup,39,2250000.0,17-08-2013,Alm.,16071,6,Villa,140,1964,
+Brombærhaven 29 8520 Lystrup,29,2325000.0,08-08-2013,Alm.,17350,5,Villa,134,1980,-3 %
+Elleparken 30 8520 Lystrup,30,2100000.0,05-08-2013,Alm.,13461,5,Villa,156,1972,-9 %
+Solbærhaven 13 8520 Lystrup,13,1515000.0,01-08-2013,Alm.,15618,4,Rækkehus,97,1986,-2 %
+Engelstoft 66 8520 Lystrup,66,2750000.0,23-07-2013,Alm.,20992,4,Villa,131,2008,-2 %
+Elsted Kirkevej 20 8520 Lystrup,20,1800000.0,19-07-2013,Alm.,16981,4,Villa,106,1985,-5 %
+Elleparken 32 8520 Lystrup,32,2485000.0,18-07-2013,Alm.,18007,4,Villa,138,1972,0 %
+Bøgehaven 13 8520 Lystrup,13,1719000.0,18-07-2013,Alm.,18094,4,Rækkehus,95,2000,-2 %
+Koldkilde 91 8520 Lystrup,91,1679600.0,17-07-2013,Alm.,11050,5,Rækkehus,152,2014,
+Ellebrinken 67 8520 Lystrup,67,2637500.0,10-07-2013,Alm.,21270,4,Villa,124,2003,-1 %
+Koldkilde 89 8520 Lystrup,89,1729760.0,28-06-2013,Alm.,11380,5,Rækkehus,152,2014,
+Koldkilde 93 8520 Lystrup,93,1729760.0,28-06-2013,Alm.,11380,5,Rækkehus,152,2014,
+Asmusgårdsvej 24 8520 Lystrup,24,2000000.0,27-06-2013,Fam.,9478,6,Villa,211,2004,
+Ellebæk Parkvej 124 8520 Lystrup,124,2195000.0,18-06-2013,Alm.,21732,4,Rækkehus,101,2003,0 %
+Ellebæk Parkvej 84 8520 Lystrup,84,1830000.0,14-06-2013,Alm.,18300,4,Rækkehus,100,2003,-2 %
+Ørnedalen 18 8520 Lystrup,18,2655000.0,06-06-2013,Alm.,14915,6,Villa,178,1976,-1 %
+Engelstoft 10 8520 Lystrup,10,3300000.0,06-06-2013,Alm.,20625,5,Villa,160,2009,-3 %
+Bøgehaven 43 8520 Lystrup,43,1900000.0,04-06-2013,Alm.,13768,4,Rækkehus,138,2000,-1 %
+Ved Gadekæret 3 8520 Lystrup,3,1910000.0,24-05-2013,Alm.,21704,3,Rækkehus,88,1985,-4 %
+Sønderskovvej 127 8520 Lystrup,127,1315000.0,23-05-2013,Alm.,16645,3,Lejlighed,79,1973,-6 %
+Hybenhaven 31 8520 Lystrup,31,4000000.0,15-05-2013,Alm.,22099,6,Villa,181,2011,-9 %
+Hovmuren 3D 8520 Lystrup,0,3225000.0,10-05-2013,Alm.,19082,6,Villa,169,2003,
+Asmusgårdsvej 118 8520 Lystrup,118,3760000.0,06-05-2013,Alm.,22248,5,Villa,169,2005,-1 %
+Ørnedalen 21 8520 Lystrup,21,2365000.0,06-05-2013,Alm.,16892,5,Villa,140,1972,-5 %
+Elsted Skolevej 19 8520 Lystrup,19,2025000.0,06-05-2013,Alm.,28928,3,Villa,70,1957,-4 %
+Birkebakken 8 8520 Lystrup,8,3175000.0,03-05-2013,Alm.,20222,4,Villa,157,1967,-2 %
+Elsted Kirkevej 24 8520 Lystrup,24,3227550.0,29-04-2013,Alm.,22729,5,Dobbelthus,142,2013,1 %
+Lille Elstedvej 58 8520 Lystrup,58,2175000.0,22-04-2013,Alm.,16730,5,Villa,130,1967,-3 %
+Rønnehaven 77 8520 Lystrup,77,2900000.0,17-04-2013,Alm.,13425,5,Villa,216,1977,-9 %
+Rugmarken 55 8520 Lystrup,55,2865000.0,17-04-2013,Alm.,16852,5,Villa,170,1975,
+Petersmindevej 148 8520 Lystrup,148,1567500.0,17-04-2013,Alm.,11441,3,Villa,137,1910,57 %
+Asmusgårdsvej 72 8520 Lystrup,72,4000000.0,15-04-2013,Alm.,18604,5,Villa,215,2005,-2 %
+Rokhøj 17 8520 Lystrup,17,1800000.0,15-04-2013,Alm.,7142,8,Villa,252,1984,
+Oldager 14 8520 Lystrup,14,1600000.0,12-04-2013,Alm.,13333,4,Villa,120,1960,-11 %
+Ellebæk Parkvej 54 8520 Lystrup,54,1900000.0,09-04-2013,Alm.,18095,4,Rækkehus,105,2003,-3 %
+Blåbærhaven 67 8520 Lystrup,67,3310000.0,08-04-2013,Alm.,19585,7,Villa,169,2002,
+Ellebækvej 29 8520 Lystrup,29,2235000.0,04-04-2013,Alm.,21285,4,Villa,105,1973,-2 %
+Rønnehaven 4 8520 Lystrup,4,1387500.0,04-04-2013,Andet,7665,6,Villa,181,1974,
+Stokbrovej 88 8520 Lystrup,88,1875000.0,04-04-2013,Alm.,13586,5,Villa,138,1973,-6 %
+Bøgehaven 14 8520 Lystrup,14,1999000.0,04-04-2013,Alm.,18509,5,Rækkehus,108,2000,0 %
+Hybenhaven 41 8520 Lystrup,41,3300000.0,04-04-2013,Alm.,21854,5,Villa,151,2010,-1 %
+Ørnedalen 36 8520 Lystrup,36,1282500.0,03-04-2013,Andet,10687,4,Villa,120,1974,-52 %
+Hasselhaven 38 8520 Lystrup,38,2485000.0,02-04-2013,Alm.,17256,5,Villa,144,1973,0 %
+Brombærhaven 54 8520 Lystrup,54,2405000.0,27-03-2013,Alm.,14845,7,Villa,162,1979,-4 %
+Elmehaven 42 8520 Lystrup,42,4400000.0,26-03-2013,Alm.,21052,5,Villa,209,2006,-1 %
+Ved Gadekæret 8 8520 Lystrup,8,2530000.0,26-03-2013,Alm.,19166,5,Rækkehus,132,1985,-6 %
+Bystævnet 7 8520 Lystrup,7,2625000.0,21-03-2013,Alm.,14914,6,Villa,176,1962,-3 %
+Hyldehaven 58 8520 Lystrup,58,1639000.0,18-03-2013,Alm.,16390,3,Rækkehus,100,1973,-1 %
+Asmusgårdsvej 88 8520 Lystrup,88,3590000.0,14-03-2013,Alm.,19944,6,Villa,180,2004,-6 %
+Bøgehaven 8 8520 Lystrup,8,1750000.0,11-03-2013,Alm.,18421,4,Rækkehus,95,1999,-1 %
+Elsted Kirkevej 52 8520 Lystrup,52,2680890.0,11-03-2013,Alm.,23111,4,Rækkehus,116,2012,3 %
+Ellebæk Parkvej 136 8520 Lystrup,136,2125000.0,06-03-2013,Alm.,21039,4,Rækkehus,101,2003,0 %
+Brombærhaven 18 8520 Lystrup,18,1402500.0,04-03-2013,Fam.,14763,4,Villa,95,1984,
+Spergelbakken 6 8520 Lystrup,6,3000000.0,28-02-2013,Alm.,22727,4,Villa,132,1965,-3 %
+Stokbrovej 41 8520 Lystrup,41,1995000.0,26-02-2013,Alm.,12164,6,Villa,164,1976,-5 %
+Stokbrovej 101 8520 Lystrup,101,1910000.0,26-02-2013,Alm.,17685,4,Villa,108,1986,-2 %
+Rugmarken 36 8520 Lystrup,36,1999000.0,22-02-2013,Alm.,16798,5,Villa,119,1975,0 %
+Elsted Kirkevej 56 8520 Lystrup,56,2848000.0,18-02-2013,Alm.,23932,4,Rækkehus,119,2012,4 %
+Lyngbakken 13 8520 Lystrup,13,1925000.0,14-02-2013,Alm.,10875,6,Villa,177,1966,-4 %
+Lille Elstedvej 64 8520 Lystrup,64,2200000.0,13-02-2013,Alm.,13333,6,Villa,165,1968,0 %
+Rønnehaven 31 8520 Lystrup,31,2750000.0,13-02-2013,Alm.,17515,6,Villa,157,1987,-2 %
+Elmehaven 97 8520 Lystrup,97,6200000.0,06-02-2013,Alm.,28837,4,Villa,215,2010,-7 %
+Solbærhaven 151 8520 Lystrup,151,1825000.0,05-02-2013,Alm.,16898,5,Rækkehus,108,1987,-3 %
+Møgelgårdsvej 37 8520 Lystrup,37,1600000.0,05-02-2013,Alm.,18823,3,Villa,85,1965,
+Ellebækvej 16 8520 Lystrup,16,1710000.0,30-01-2013,Alm.,16442,4,Rækkehus,104,1966,22 %
+Ellehøjen 7 8520 Lystrup,7,1680000.0,25-01-2013,Alm.,15000,4,Rækkehus,112,2001,
+Hasselhaven 59 8520 Lystrup,59,2850000.0,16-01-2013,Alm.,20802,5,Villa,137,1995,-5 %
+Æblevænget 24 8520 Lystrup,24,1735000.0,16-01-2013,Alm.,12572,6,Rækkehus,138,1978,-13 %
+Elev Tværvej 8 8520 Lystrup,8,1610000.0,10-01-2013,Alm.,14504,4,Villa,111,1976,-5 %
+Bøgehaven 27 8520 Lystrup,27,1965000.0,08-01-2013,Alm.,18364,4,Rækkehus,107,2000,
+Solbærhaven 53 8520 Lystrup,53,1372500.0,19-12-2012,Alm.,17824,3,Rækkehus,77,1986,-5 %
+Rønnehaven 68 8520 Lystrup,68,3565000.0,05-12-2012,Alm.,23000,4,Villa,155,1979,-4 %
+Kirsebærhaven 44 8520 Lystrup,44,1500000.0,29-11-2012,Alm.,17045,3,Rækkehus,88,1989,-6 %
+Skæringvej 6A 8520 Lystrup,0,1625000.0,26-11-2012,Alm.,16927,3,Rækkehus,96,1985,-4 %
+Birkebakken 4 8520 Lystrup,4,2250000.0,23-11-2012,Alm.,11538,6,Villa,195,1965,-2 %
+Hovmarken 57 8520 Lystrup,57,2650000.0,20-11-2012,Alm.,17549,4,Villa,151,1980,-4 %
+Hybenhaven 2 8520 Lystrup,2,3290000.0,20-11-2012,Alm.,19939,6,Villa,165,2011,-2 %
+Solbærhaven 149 8520 Lystrup,149,1700000.0,19-11-2012,Alm.,16190,5,Rækkehus,105,1987,-3 %
+Asmusgårdsvej 14 8520 Lystrup,14,3485000.0,19-11-2012,Alm.,20028,5,Villa,174,2005,-3 %
+Brombærhaven 2 8520 Lystrup,2,2255000.0,16-11-2012,Alm.,18791,5,Villa,120,1985,-2 %
+Kirsebærhaven 11 8520 Lystrup,11,2500000.0,14-11-2012,Alm.,21367,4,Villa,117,1989,-4 %
+Stokbrovej 150 8520 Lystrup,150,1700000.0,13-11-2012,Alm.,15887,4,Villa,107,1986,-8 %
+Solbærhaven 27 8520 Lystrup,27,1500000.0,08-11-2012,Alm.,15463,4,Rækkehus,97,1986,-6 %
+Elleparken 9 8520 Lystrup,9,2970000.0,06-11-2012,Alm.,17167,5,Villa,173,1970,-4 %
+Bakkehældet 6 8520 Lystrup,6,1300000.0,30-10-2012,Alm.,14444,4,Villa,90,1962,-7 %
+Bremårevej 13 8520 Lystrup,13,4475000.0,30-10-2012,Auktion,27121,5,Villa,165,1980,
+Solbærhaven 117 8520 Lystrup,117,1835000.0,26-10-2012,Alm.,18168,4,Rækkehus,101,1987,-3 %
+Bygmarken 16 8520 Lystrup,16,2540000.0,21-10-2012,Alm.,19843,4,Villa,128,1968,-2 %
+Ellebæk Parkvej 20 8520 Lystrup,20,2125000.0,19-10-2012,Alm.,21039,4,Rækkehus,101,2003,-1 %
+Hedeskovvej 18 8520 Lystrup,18,1899000.0,18-10-2012,Alm.,11509,6,Villa,165,1963,-5 %
+Lystrupvej 248 8520 Lystrup,248,1725000.0,16-10-2012,Alm.,15681,5,Villa,110,1909,2 %
+Ørnebakken 34 8520 Lystrup,34,1499100.0,15-10-2012,Fam.,11531,4,Villa,130,1974,
+Birkehaven 33 8520 Lystrup,33,2100000.0,07-10-2012,Alm.,13375,6,Villa,157,1981,-7 %
+Engelstoft 46 8520 Lystrup,46,3550000.0,04-10-2012,Alm.,21257,5,Villa,167,2009,
+Bøgehaven 18 8520 Lystrup,18,1925000.0,03-10-2012,Alm.,17990,5,Rækkehus,107,1999,-1 %
+Bystævnet 12 8520 Lystrup,12,1950000.0,30-09-2012,Alm.,12580,6,Villa,155,1965,-9 %
+Ellebæk Parkvej 8 8520 Lystrup,8,2195000.0,17-09-2012,Alm.,21732,4,Rækkehus,101,2003,0 %
+Stokbrovej 29 8520 Lystrup,29,2240000.0,10-09-2012,Alm.,16842,4,Villa,133,1972,-2 %
+Rugmarken 104 8520 Lystrup,104,2650000.0,06-09-2012,Alm.,15406,7,Villa,172,1978,-5 %
+Porsbakken 4 8520 Lystrup,4,2375000.0,05-09-2012,Alm.,16267,4,Villa,146,1963,-5 %
+Slåenbakken 11 8520 Lystrup,11,2100000.0,05-09-2012,Alm.,12883,5,Villa,163,1964,-8 %
+Per Kjals Vej 17 8520 Lystrup,17,1600000.0,04-09-2012,Alm.,11510,5,Villa,139,1964,-16 %
+Solbærhaven 111 8520 Lystrup,111,1670000.0,17-08-2012,Alm.,17765,4,Rækkehus,94,1987,-1 %
+Bøgehaven 17 8520 Lystrup,17,1715000.0,16-08-2012,Alm.,18052,4,Rækkehus,95,2000,-1 %
+Hyldehaven 44 8520 Lystrup,44,1700000.0,13-08-2012,Alm.,13281,4,Rækkehus,128,1970,-8 %
+Stokbrovej 158 8520 Lystrup,158,2560000.0,09-08-2012,Alm.,13544,6,Villa,189,1985,-2 %
+Elsted Kirkevej 23 8520 Lystrup,23,2671000.0,31-07-2012,Alm.,23226,4,Rækkehus,115,2012,
+Gyvelbakken 8 8520 Lystrup,8,1925000.0,30-07-2012,Alm.,15277,4,Villa,126,1967,-4 %
+Hedeskovvej 23 8520 Lystrup,23,3158000.0,30-07-2012,Alm.,17163,7,Villa,184,1969,-1 %
+Koldkilde 35 8520 Lystrup,35,2988000.0,29-07-2012,Alm.,17372,5,Villa,172,2008,0 %
+Per Kjals Vej 43 8520 Lystrup,43,2625000.0,25-07-2012,Alm.,14423,7,Villa,182,1963,-6 %
+Skolebanken 3 8520 Lystrup,3,1090000.0,24-07-2012,Alm.,0,6,Villa,208,1959,-9 %
+Ellebækvej 31 8520 Lystrup,31,1715000.0,13-07-2012,Alm.,17150,5,Villa,100,1967,-2 %
+Lystrupvej 362 8520 Lystrup,362,1925000.0,13-07-2012,Alm.,14365,5,Villa,134,1957,-8 %
+Elsted Skolevej 10 8520 Lystrup,10,2375000.0,13-07-2012,Alm.,21017,5,Villa,113,1955,-5 %
+Birkehaven 59 8520 Lystrup,59,2250000.0,06-07-2012,Alm.,16666,4,Villa,135,1980,-6 %
+Asmusgårdsvej 40 8520 Lystrup,40,3675000.0,02-07-2012,Alm.,20416,5,Villa,180,2005,-2 %
+Birkehaven 12 8520 Lystrup,12,1925000.0,29-06-2012,Alm.,19059,4,Villa,101,1980,-4 %
+Solbærhaven 85 8520 Lystrup,85,1250000.0,28-06-2012,Alm.,20833,2,Rækkehus,60,1986,-4 %
+Birkebakken 15 8520 Lystrup,15,1333500.0,27-06-2012,Fam.,7663,7,Villa,174,1967,
+Elstedvænge 40 8520 Lystrup,40,1950000.0,27-06-2012,Alm.,16386,4,Villa,119,1976,-7 %
+Slåenbakken 2 8520 Lystrup,2,1915000.0,25-06-2012,Alm.,16652,4,Villa,115,1963,-4 %
+Vestre Havevej 4 8520 Lystrup,4,1200000.0,25-06-2012,Alm.,17910,2,Rækkehus,67,1961,-2 %
+Ellebæk Parkvej 104 8520 Lystrup,104,1785000.0,22-06-2012,Alm.,17850,4,Rækkehus,100,2003,-6 %
+Stokbrovej 33 8520 Lystrup,33,900000.0,21-06-2012,Fam.,6569,4,Villa,137,1978,
+Hybenhaven 95 8520 Lystrup,95,3600000.0,20-06-2012,Alm.,20689,5,Villa,174,2008,-5 %
+Hedeskovvej 20 8520 Lystrup,20,1825000.0,18-06-2012,Alm.,14959,5,Villa,122,1964,-13 %
+Ørnelunden 10 8520 Lystrup,10,990500.0,13-06-2012,Alm.,6784,5,Villa,146,1973,
+Vestre Havevej 58 8520 Lystrup,58,1055000.0,13-06-2012,Alm.,14256,3,Rækkehus,74,1961,-12 %
+Engelstoft 11 8520 Lystrup,11,2885000.0,04-06-2012,Alm.,18031,5,Villa,160,2008,-4 %
+Bjørnholt 170 8520 Lystrup,170,2700000.0,03-06-2012,Alm.,18120,5,Villa,149,1997,
+Elleparken 6 8520 Lystrup,6,2000000.0,01-06-2012,Alm.,15384,4,Villa,130,1971,-5 %
+Stokbrovej 36 8520 Lystrup,36,2585000.0,31-05-2012,Alm.,14687,6,Villa,176,1972,-6 %
+Solbærhaven 147 8520 Lystrup,147,1770000.0,30-05-2012,Alm.,16857,5,Rækkehus,105,1987,-2 %
+Rugmarken 91 8520 Lystrup,91,2525000.0,23-05-2012,Alm.,20039,4,Villa,126,1977,-3 %
+Hyldehaven 5 8520 Lystrup,5,2100000.0,18-05-2012,Alm.,11931,6,Villa,176,1971,-9 %
+Bøgehaven 29 8520 Lystrup,29,1925000.0,16-05-2012,Alm.,17990,4,Rækkehus,107,2000,0 %
+Blåbærhaven 52 8520 Lystrup,52,3250000.0,15-05-2012,Alm.,21666,5,Villa,150,2003,-7 %
+Elleparken 85 8520 Lystrup,85,2250000.0,14-05-2012,Alm.,14062,6,Villa,160,1972,-10 %
+Ellebrinken 39 8520 Lystrup,39,1050000.0,14-05-2012,Andet,8898,4,Villa,118,2002,
+Stokbrovej 152 8520 Lystrup,152,500000.0,02-05-2012,Fam.,2525,5,Villa,198,1986,
+Birkebakken 22 8520 Lystrup,22,2840000.0,30-04-2012,Alm.,17317,5,Villa,164,1966,-2 %
+Kirsebærhaven 55 8520 Lystrup,55,1425000.0,30-04-2012,Alm.,14690,4,Rækkehus,97,1989,-11 %
+Ellebæk Parkvej 130 8520 Lystrup,130,1995000.0,25-04-2012,Alm.,19752,4,Rækkehus,101,2003,0 %
+Skavholmvej 1 8520 Lystrup,1,2200000.0,23-04-2012,Alm.,14864,4,Villa,148,1980,
+Birkebakken 5 8520 Lystrup,5,1925000.0,20-04-2012,Alm.,14583,4,Villa,132,1967,-11 %
+Solbærhaven 135 8520 Lystrup,135,1785000.0,19-04-2012,Alm.,17000,5,Rækkehus,105,1987,
+Kildehaven 80 8520 Lystrup,80,1489000.0,12-04-2012,Alm.,18382,3,Rækkehus,81,1991,-1 %
+Hyldehaven 126 8520 Lystrup,126,2190000.0,01-04-2012,Alm.,11902,5,Villa,184,1975,-7 %
+Blåbærhaven 55 8520 Lystrup,55,3275000.0,01-04-2012,Alm.,21266,6,Villa,154,2001,-2 %
+Dannevang 1 8520 Lystrup,1,1600000.0,30-03-2012,Alm.,15533,3,Villa,103,1941,-11 %
+Stokbrovej 12 8520 Lystrup,12,2900000.0,27-03-2012,Alm.,12663,10,Villa,229,1973,-6 %
+Elsted Kirkevej 28 8520 Lystrup,28,3925000.0,20-03-2012,Alm.,17214,5,Rækkehus,228,2008,
+Ørnedalen 35 8520 Lystrup,35,2425000.0,13-03-2012,Alm.,19556,5,Villa,124,1973,-7 %
+Bøgehaven 47 8520 Lystrup,47,1825000.0,01-03-2012,Alm.,17056,5,Rækkehus,107,2000,
+Per Kjals Vej 31 8520 Lystrup,31,2275000.0,29-02-2012,Alm.,15476,5,Villa,147,1964,-5 %
+Elsted Kirkevej 60 8520 Lystrup,60,2635000.0,28-02-2012,Alm.,22913,4,Rækkehus,115,2012,
+Elsted Kirkevej 33 8520 Lystrup,33,2761650.0,27-02-2012,Alm.,24014,3,Rækkehus,115,2012,
+Ørnedalen 5 8520 Lystrup,5,2200000.0,24-02-2012,Alm.,18333,4,Villa,120,1974,-4 %
+Birkehaven 60 8520 Lystrup,60,1500000.0,23-02-2012,Andet,8720,5,Villa,172,1983,
+Sønderskovvej 51 8520 Lystrup,51,1260000.0,09-02-2012,Alm.,15949,3,Lejlighed,79,1969,
+Skæringvej 17 8520 Lystrup,17,861100.0,08-02-2012,Alm.,6331,5,Rækkehus,136,1980,
+Bøgehaven 25 8520 Lystrup,25,2195000.0,06-02-2012,Alm.,20324,4,Rækkehus,108,2000,
+Bøgehaven 49 8520 Lystrup,49,1799000.0,05-02-2012,Alm.,16657,5,Rækkehus,108,2000,0 %
+Elsted Kirkevej 19 8520 Lystrup,19,3007500.0,30-01-2012,Alm.,13670,7,Rækkehus,220,2012,
+Møgelgårdsvej 1A 8520 Lystrup,0,1300000.0,26-01-2012,Alm.,11206,3,Villa,116,1974,-7 %
+Porsbakken 8 8520 Lystrup,8,2500000.0,20-01-2012,Alm.,16129,4,Villa,155,1968,-17 %
+Elmehaven 57 8520 Lystrup,57,5000000.0,19-01-2012,Alm.,27624,5,Villa,181,2007,-6 %
+Hedeskovvej 58 8520 Lystrup,58,2100000.0,17-01-2012,Andet,21000,4,Villa,100,1965,-8 %
+Elsted Skolevej 18 8520 Lystrup,18,2750000.0,16-01-2012,Alm.,18211,3,Villa,151,1903,-14 %
+Egehaven 37 8520 Lystrup,37,3300000.0,10-01-2012,Alm.,17837,7,Villa,185,1999,-6 %
+Slåenbakken 5 8520 Lystrup,5,2025000.0,03-01-2012,Alm.,12423,5,Villa,163,1970,-6 %
+Ellebæk Parkvej 134 8520 Lystrup,134,2100000.0,19-12-2011,Alm.,20792,4,Rækkehus,101,2003,-7 %
+Ørnebakken 23 8520 Lystrup,23,2584000.0,16-12-2011,Alm.,14850,6,Villa,174,1972,-6 %
+Bøgehaven 28 8520 Lystrup,28,1935000.0,15-12-2011,Alm.,14124,4,Rækkehus,137,2000,-12 %
+Elleparken 95 8520 Lystrup,95,3085000.0,25-11-2011,Alm.,20296,5,Villa,152,1975,-6 %
+Vestre Havevej 6 8520 Lystrup,6,1235000.0,24-11-2011,Alm.,18432,2,Rækkehus,67,1961,
+Blåbærhaven 25 8520 Lystrup,25,3325000.0,08-11-2011,Alm.,23090,4,Villa,144,2002,0 %
+Elmehaven 63 8520 Lystrup,63,3550000.0,02-11-2011,Alm.,18983,5,Villa,187,2007,-5 %
+Hyldehaven 18 8520 Lystrup,18,1695000.0,02-11-2011,Alm.,13242,4,Rækkehus,128,1971,0 %
+Hedeskovvej 40 8520 Lystrup,40,1699000.0,01-11-2011,Alm.,13377,3,Villa,127,1963,0 %
+Hybenhaven 49 8520 Lystrup,49,3600000.0,01-11-2011,Alm.,18181,7,Villa,198,2010,-8 %
+Hedeskovvej 24 8520 Lystrup,24,1800000.0,31-10-2011,Alm.,15652,4,Villa,115,1965,-5 %
+Lyngbakken 7 8520 Lystrup,7,2600000.0,31-10-2011,Alm.,17931,5,Villa,145,1968,-7 %
+Rønnehaven 30 8520 Lystrup,30,2700000.0,28-10-2011,Alm.,10305,7,Villa,262,1974,-10 %
+Rønnehaven 71 8520 Lystrup,71,1500000.0,27-10-2011,Fam.,10791,4,Villa,139,1977,
+Kjeldsbjergvej 13 8520 Lystrup,13,2325000.0,23-10-2011,Alm.,12172,6,Villa,191,1976,-4 %
+Ellebæk Parkvej 126 8520 Lystrup,126,2100000.0,14-10-2011,Alm.,20792,4,Rækkehus,101,2003,-4 %
+Oldager 6 8520 Lystrup,6,1560000.0,05-10-2011,Alm.,17931,4,Villa,87,1949,-13 %
+Bygaden 4 8520 Lystrup,4,945000.0,03-10-2011,Fam.,8008,3,Villa,118,1917,
+Solbærhaven 95 8520 Lystrup,95,1675000.0,30-09-2011,Alm.,17819,4,Rækkehus,94,1987,-1 %
+Havremarken 15 8520 Lystrup,15,2045000.0,29-09-2011,Alm.,16360,3,Villa,125,1968,0 %
+Ellebæk Parkvej 19 8520 Lystrup,19,1850000.0,29-09-2011,Alm.,22289,3,Rækkehus,83,2003,-3 %
+Sønderskovvej 67 8520 Lystrup,67,975000.0,28-09-2011,Alm.,17410,2,Lejlighed,56,1969,
+Rønnehaven 17 8520 Lystrup,17,2300000.0,22-09-2011,Alm.,18852,6,Villa,122,1987,-4 %
+Elsted Kirkevej 27 8520 Lystrup,27,2540000.0,16-09-2011,Alm.,0,6,Rækkehus,170,2011,
+Bøgehaven 23 8520 Lystrup,23,1995000.0,13-09-2011,Andet,0,5,Rækkehus,138,2000,
+Ørnehøjen 1 8520 Lystrup,1,1280500.0,08-09-2011,Fam.,8593,5,Villa,149,1974,
+Elsted Kirkevej 29 8520 Lystrup,29,2801000.0,08-09-2011,Alm.,26676,3,Rækkehus,105,2011,
+Elsted Kirkevej 21 8520 Lystrup,21,3152000.0,02-09-2011,Alm.,23522,4,Rækkehus,134,2012,
+Elsted Kirkevej 25 8520 Lystrup,25,2650000.0,01-08-2011,Alm.,23043,4,Rækkehus,115,2011,
+Elsted Kirkevej 48 8520 Lystrup,48,3025000.0,01-08-2011,Alm.,19771,5,Rækkehus,153,2011,
+Koldkilde 51 8520 Lystrup,51,3705000.0,28-07-2011,Alm.,18903,6,Villa,196,2009,-2 %
+Sønderskovvej 79 8520 Lystrup,79,1275000.0,28-07-2011,Alm.,15937,3,Lejlighed,80,1969,
+Elsted Skolevej 16 8520 Lystrup,16,1780000.0,26-07-2011,Auktion,11710,5,Villa,152,1962,-29 %
+Elleparken 106 8520 Lystrup,106,3460000.0,08-07-2011,Alm.,19438,6,Villa,178,1974,-4 %
+Hyldehaven 14 8520 Lystrup,14,1960000.0,05-07-2011,Alm.,15312,4,Rækkehus,128,1970,-2 %
+Hasselhaven 67 8520 Lystrup,67,2299000.0,28-06-2011,Alm.,17684,5,Villa,130,1990,0 %
+Østre Havevej 9 8520 Lystrup,9,1270000.0,20-06-2011,Andet,14431,3,Rækkehus,88,1986,
+Åvangen 10 8520 Lystrup,10,2150000.0,17-06-2011,Alm.,10750,6,Villa,200,1961,-2 %
+Ellebæk Parkvej 32 8520 Lystrup,32,2010000.0,14-06-2011,Alm.,20100,4,Rækkehus,100,2003,-6 %
+Hyldehaven 23 8520 Lystrup,23,2750000.0,14-06-2011,Alm.,13349,6,Villa,206,1974,-2 %
+Engelstoft 138 8520 Lystrup,138,3588752.0,02-06-2011,Alm.,19294,4,Villa,186,2011,
+Ørnelunden 9 8520 Lystrup,9,2175000.0,31-05-2011,Alm.,16992,4,Villa,128,1976,-5 %
+Ellehøjen 20 8520 Lystrup,20,2262500.0,30-05-2011,Alm.,20568,4,Rækkehus,110,2000,-4 %
+Elstedvænge 46 8520 Lystrup,46,2199000.0,27-05-2011,Alm.,18173,4,Villa,121,1978,0 %
+Hovmarken 55 8520 Lystrup,55,3100000.0,16-05-2011,Alm.,15816,6,Villa,196,1972,-3 %
+Solbærhaven 166 8520 Lystrup,166,1650000.0,11-05-2011,Alm.,19411,3,Rækkehus,85,2000,
+Ørnedalen 46 8520 Lystrup,46,2600000.0,03-05-2011,Alm.,15384,6,Villa,169,1974,-4 %
+Kildehaven 106 8520 Lystrup,106,1485000.0,03-05-2011,Alm.,18333,3,Rækkehus,81,1991,148 %
+Kildehaven 92 8520 Lystrup,92,1425000.0,27-04-2011,Alm.,17592,3,Rækkehus,81,1991,-5 %
+Hasselhaven 85 8520 Lystrup,85,2575000.0,20-04-2011,Alm.,18392,5,Villa,140,1974,0 %
+Egehaven 28 8520 Lystrup,28,1100000.0,14-04-2011,Andet,9482,4,Rækkehus,116,2001,
+Kildehaven 25 8520 Lystrup,25,1393200.0,08-04-2011,Alm.,17200,3,Rækkehus,81,1991,
+Kæruldbakken 16 8520 Lystrup,16,2215000.0,06-04-2011,Alm.,15171,6,Villa,146,1965,-8 %
+Bystævnet 13 8520 Lystrup,13,1900000.0,04-04-2011,Alm.,12925,4,Villa,147,1962,-17 %
+Bygmarken 11 8520 Lystrup,11,1020000.0,30-03-2011,Alm.,8225,4,Villa,124,1968,
+Bystævnet 34 8520 Lystrup,34,1450000.0,24-03-2011,Fam.,0,7,Villa,204,1962,
+Hybenhaven 39 8520 Lystrup,39,927000.0,24-03-2011,Alm.,4983,5,Villa,186,2012,
+Bakkehældet 2 8520 Lystrup,2,1800000.0,22-03-2011,Alm.,15384,4,Villa,117,1963,-3 %
+Blåbærhaven 59 8520 Lystrup,59,3720000.0,18-03-2011,Alm.,21627,5,Villa,172,2001,-3 %
+Skæringvej 14 8520 Lystrup,14,690062.0,04-03-2011,Alm.,4480,4,Villa,154,1979,
+Koldkilde 77 8520 Lystrup,77,785000.0,04-03-2011,Alm.,4243,6,Villa,185,2013,
+Hindbærhaven 20 8520 Lystrup,20,2250000.0,03-03-2011,Alm.,19911,4,Villa,113,1984,-6 %
+Ellebæk Parkvej 25 8520 Lystrup,25,1890000.0,01-03-2011,Alm.,22771,3,Rækkehus,83,2003,-2 %
+Møgelhøj 4 8520 Lystrup,4,1200000.0,01-03-2011,Andet,17142,2,Lejlighed,70,1966,
+Oldager 13 8520 Lystrup,13,1600000.0,28-02-2011,Alm.,18823,3,Villa,85,1957,-11 %
+Æblevænget 4 8520 Lystrup,4,2000000.0,25-02-2011,Alm.,18867,3,Rækkehus,106,1977,-5 %
+Kildehaven 11 8520 Lystrup,11,1052320.0,24-02-2011,Alm.,13154,3,Rækkehus,80,1991,
+Kildehaven 23 8520 Lystrup,23,1065474.0,24-02-2011,Alm.,13154,3,Rækkehus,81,1991,
+Kildehaven 29 8520 Lystrup,29,1420632.0,24-02-2011,Alm.,13154,4,Rækkehus,108,1991,
+Kildehaven 44 8520 Lystrup,44,1002394.0,24-02-2011,Alm.,16432,2,Lejlighed,61,1991,
+Kildehaven 56 8520 Lystrup,56,802394.0,24-02-2011,Alm.,13154,2,Lejlighed,61,1991,
+Kildehaven 58 8520 Lystrup,58,973396.0,24-02-2011,Alm.,13154,2,Lejlighed,74,1991,
+Kildehaven 120 8520 Lystrup,120,973396.0,24-02-2011,Alm.,13154,2,Lejlighed,74,1991,
+Kildehaven 130 8520 Lystrup,130,1286550.0,24-02-2011,Alm.,17385,2,Lejlighed,74,1991,
+Lystrupvej 364 8520 Lystrup,364,2575000.0,22-02-2011,Alm.,12320,7,Villa,209,1962,-14 %
+Asmusgårdsvej 102 8520 Lystrup,102,3500000.0,21-02-2011,Alm.,20467,5,Villa,171,2004,-5 %
+Kildehaven 1 8520 Lystrup,1,1857600.0,14-02-2011,Alm.,17200,4,Rækkehus,108,1991,
+Kildehaven 7 8520 Lystrup,7,1857600.0,14-02-2011,Alm.,17200,4,Rækkehus,108,1991,
+Kildehaven 5 8520 Lystrup,5,1393200.0,14-02-2011,Alm.,17200,3,Rækkehus,81,1991,
+Kildehaven 17 8520 Lystrup,17,1444800.0,14-02-2011,Alm.,17200,3,Rækkehus,84,1991,
+Kildehaven 19 8520 Lystrup,19,1857600.0,14-02-2011,Alm.,17200,4,Rækkehus,108,1991,
+Kildehaven 21 8520 Lystrup,21,1393200.0,14-02-2011,Alm.,17200,3,Rækkehus,81,1991,
+Kildehaven 31 8520 Lystrup,31,1410400.0,14-02-2011,Alm.,17200,3,Rækkehus,82,1991,
+Kildehaven 33 8520 Lystrup,33,1857600.0,14-02-2011,Alm.,17200,4,Rækkehus,108,1991,
+Kildehaven 46 8520 Lystrup,46,1290000.0,14-02-2011,Alm.,17432,2,Lejlighed,74,1991,
+Kildehaven 96 8520 Lystrup,96,1290000.0,14-02-2011,Alm.,17432,2,Lejlighed,74,1991,
+Kildehaven 104 8520 Lystrup,104,1393200.0,14-02-2011,Alm.,17200,3,Rækkehus,81,1991,
+Kildehaven 108 8520 Lystrup,108,1427600.0,14-02-2011,Alm.,17200,3,Rækkehus,83,1991,
+Kildehaven 110 8520 Lystrup,110,1427600.0,14-02-2011,Alm.,17200,3,Rækkehus,83,1991,
+Kildehaven 114 8520 Lystrup,114,1290000.0,14-02-2011,Alm.,17432,2,Lejlighed,74,1991,
+Kildehaven 122 8520 Lystrup,122,1427600.0,14-02-2011,Alm.,17200,3,Rækkehus,83,1991,
+Kildehaven 128 8520 Lystrup,128,1393200.0,14-02-2011,Alm.,17200,3,Rækkehus,81,1991,
+Solbærhaven 139 8520 Lystrup,139,1850000.0,14-02-2011,Alm.,17129,5,Rækkehus,108,1987,-7 %
+Vestre Havevej 46 8520 Lystrup,46,1100000.0,11-02-2011,Alm.,16417,2,Rækkehus,67,1961,-2 %
+Elsted Kirkevej 44 8520 Lystrup,44,3145000.0,10-02-2011,Alm.,21840,5,Rækkehus,144,2010,
+Rugmarken 90 8520 Lystrup,90,2660000.0,09-02-2011,Alm.,14000,6,Villa,190,1974,-5 %
+Stokbrovej 2 8520 Lystrup,2,1360000.0,08-02-2011,Alm.,9066,6,Villa,150,1972,
+Engelstoft 74 8520 Lystrup,74,4550000.0,07-02-2011,Alm.,22195,6,Villa,205,2009,
+Æblevænget 11 8520 Lystrup,11,1510000.0,04-02-2011,Alm.,19868,3,Rækkehus,76,1978,-6 %
+Ellebæk Parkvej 144 8520 Lystrup,144,2150000.0,31-01-2011,Alm.,21287,4,Rækkehus,101,2003,-2 %
+Engelstoft 38 8520 Lystrup,38,661000.0,31-01-2011,Alm.,3534,5,Villa,187,2014,
+Lille Elstedvej 44 8520 Lystrup,44,2435000.0,28-01-2011,Alm.,23413,3,Villa,104,1963,-3 %
+Elmehaven 59 8520 Lystrup,59,1405000.0,20-01-2011,Alm.,5829,5,Villa,241,2013,
+Hasselhaven 34 8520 Lystrup,34,1800000.0,18-01-2011,Alm.,14516,5,Villa,124,1975,-10 %
+Bygaden 15B 8520 Lystrup,0,1450000.0,16-01-2011,Alm.,7712,5,Villa,188,1964,
+Hindbærhaven 32 8520 Lystrup,32,2240000.0,14-01-2011,Alm.,18064,4,Villa,124,1984,-2 %
+Elmehaven 38 8520 Lystrup,38,5335000.0,11-01-2011,Alm.,26024,7,Villa,205,2006,-3 %
+Koldkilde 2 8520 Lystrup,2,4700000.0,05-01-2011,Alm.,22169,7,Stuehus,212,1915,7 %
+Æblevænget 31 8520 Lystrup,31,1685000.0,28-12-2010,Alm.,19823,4,Rækkehus,85,1978,-1 %
+Hybenhaven 6 8520 Lystrup,6,3425000.0,28-12-2010,Alm.,20147,5,Villa,170,2011,
+Elsted Kirkevej 31 8520 Lystrup,31,3568000.0,22-12-2010,Alm.,22300,5,Rækkehus,160,2012,
+Koldkilde 23 8520 Lystrup,23,3185400.0,09-12-2010,Alm.,18098,5,Villa,176,2011,12 %
+Kildehaven 112 8520 Lystrup,112,1393200.0,01-12-2010,Alm.,17200,3,Rækkehus,81,1991,
+Kirsebærhaven 19 8520 Lystrup,19,1099000.0,24-11-2010,Alm.,18948,2,Rækkehus,58,1989,
+Stokbrovej 121 8520 Lystrup,121,2249000.0,21-11-2010,Alm.,18899,4,Villa,119,1986,0 %
+Elsted Kirkevej 58 8520 Lystrup,58,2900000.0,16-11-2010,Alm.,21641,4,Rækkehus,134,2011,
+Ørnelunden 28 8520 Lystrup,28,2500000.0,15-11-2010,Alm.,18382,5,Villa,136,1973,-2 %
+Asmusgårdsvej 78 8520 Lystrup,78,3697500.0,13-11-2010,Alm.,22008,5,Villa,168,2005,
+Revlingebakken 4 8520 Lystrup,4,2360000.0,06-11-2010,Alm.,17878,5,Villa,132,1964,-2 %
+Elsted Kirkevej 66 8520 Lystrup,66,3106000.0,04-11-2010,Alm.,23007,4,Rækkehus,135,2011,
+Elsted Kirkevej 35 8520 Lystrup,35,2805750.0,02-11-2010,Alm.,24397,4,Rækkehus,115,2011,
+Egehaven 16 8520 Lystrup,16,1162500.0,01-11-2010,Fam.,10021,4,Rækkehus,116,2002,
+Sønderskovvej 27 8520 Lystrup,27,1140000.0,28-10-2010,Alm.,13902,3,Lejlighed,82,1969,-12 %
+Gyvelbakken 15 8520 Lystrup,15,1800000.0,27-10-2010,Alm.,12765,6,Villa,141,1963,-5 %
+Asmusgårdsvej 30 8520 Lystrup,30,1650000.0,26-10-2010,Andet,10248,5,Villa,161,2004,
+Ellebæk Parkvej 33 8520 Lystrup,33,1800000.0,19-10-2010,Alm.,21686,3,Rækkehus,83,2003,-3 %
+Rønnehaven 78 8520 Lystrup,78,3075000.0,15-10-2010,Alm.,15688,6,Villa,196,1977,-4 %
+Rugmarken 7 8520 Lystrup,7,2150000.0,15-10-2010,Alm.,16412,5,Villa,131,1973,-2 %
+Ørnedalen 15 8520 Lystrup,15,2580000.0,14-10-2010,Alm.,13230,6,Villa,195,1974,-4 %
+Blåbærhaven 39 8520 Lystrup,39,1600000.0,11-10-2010,Alm.,8205,6,Villa,195,2001,
+Kirsebærhaven 52 8520 Lystrup,52,1670000.0,06-10-2010,Alm.,18977,3,Rækkehus,88,1989,-3 %
+Skæringvej 18 8520 Lystrup,18,2425000.0,05-10-2010,Alm.,18798,4,Villa,129,1978,-3 %
+Oldager 7 8520 Lystrup,7,1673000.0,03-10-2010,Alm.,17427,5,Villa,96,1953,-1 %
+Engelstoft 120 8520 Lystrup,120,551500.0,30-09-2010,Alm.,2872,5,Villa,192,2011,
+Hasselhaven 52 8520 Lystrup,52,2400000.0,25-09-2010,Fam.,11320,5,Villa,212,1976,
+Slåenbakken 8 8520 Lystrup,8,2450000.0,24-09-2010,Alm.,17883,5,Villa,137,1967,-2 %
+Mølbakvej 2 8520 Lystrup,2,600000.0,23-09-2010,Alm.,0,2,Villa,96,1973,
+Bystævnet 10 8520 Lystrup,10,2750000.0,21-09-2010,Alm.,25000,5,Villa,110,1962,-5 %
+Hybenhaven 43 8520 Lystrup,43,2658000.0,16-09-2010,Alm.,16207,5,Villa,164,2010,
+Solbærhaven 143 8520 Lystrup,143,2170000.0,15-09-2010,Alm.,17642,5,Rækkehus,123,1987,-1 %
+Elmehaven 1B 8520 Lystrup,0,3600000.0,14-09-2010,Alm.,18848,4,Villa,191,2009,-14 %
+Sønderskovvej 93 8520 Lystrup,93,850000.0,09-09-2010,Alm.,16037,2,Lejlighed,53,1969,-5 %
+Kildehaven 118 8520 Lystrup,118,1148000.0,06-09-2010,Alm.,18819,2,Lejlighed,61,1991,
+Lille Elstedvej 35 8520 Lystrup,35,2180000.0,02-09-2010,Alm.,20373,4,Rækkehus,107,1985,-1 %
+Elstedvænge 2 8520 Lystrup,2,1775000.0,02-09-2010,Alm.,17750,4,Villa,100,1976,-9 %
+Stokbrovej 67 8520 Lystrup,67,845500.0,01-09-2010,Alm.,6710,4,Villa,126,1972,
+Elleparken 97 8520 Lystrup,97,2495000.0,31-08-2010,Alm.,13201,7,Villa,189,1973,0 %
+Ellebæk Parkvej 98 8520 Lystrup,98,1640000.0,30-08-2010,Alm.,18850,3,Rækkehus,87,2003,-3 %
+Hindbærhaven 61 8520 Lystrup,61,2525000.0,27-08-2010,Alm.,20696,4,Villa,122,1980,-5 %
+Elsted Kirkevej 50 8520 Lystrup,50,2762500.0,24-08-2010,Alm.,24021,4,Rækkehus,115,2011,
+Kæruldbakken 12 8520 Lystrup,12,2870000.0,18-08-2010,Alm.,17716,6,Villa,162,1964,-4 %
+Elmehaven 40 8520 Lystrup,40,2847500.0,17-08-2010,Fam.,16555,5,Villa,172,2006,
+Kildehaven 70 8520 Lystrup,70,1098000.0,16-08-2010,Alm.,18000,2,Lejlighed,61,1991,
+Østre Havevej 31 8520 Lystrup,31,1198000.0,11-08-2010,Alm.,13021,3,Rækkehus,92,1961,0 %
+Kærløkken 7 8520 Lystrup,7,1850000.0,31-07-2010,Alm.,17129,4,Villa,108,1961,-2 %
+Gyvelbakken 4 8520 Lystrup,4,2370000.0,29-07-2010,Alm.,19112,4,Villa,124,1962,-1 %
+Gyvelbakken 12 8520 Lystrup,12,2125000.0,27-07-2010,Alm.,19318,4,Villa,110,1965,-3 %
+Ellebæk Parkvej 82 8520 Lystrup,82,1815000.0,27-07-2010,Alm.,18150,4,Rækkehus,100,2003,-4 %
+Pannerupvej 30 8520 Lystrup,30,1370000.0,23-07-2010,Alm.,10378,3,Villa,132,1959,-2 %
+Bygaden 20 8520 Lystrup,20,2100000.0,23-07-2010,Alm.,15000,6,Villa,140,1918,
+Marøgelhøj 4 8520 Lystrup,4,2093000.0,16-07-2010,Alm.,17441,5,Villa,120,1964,
+Elsted Kirkevej 42 8520 Lystrup,42,2750000.0,10-07-2010,Alm.,23305,4,Rækkehus,118,2010,
+Ellebrinken 75 8520 Lystrup,75,2325000.0,10-07-2010,Alm.,17613,4,Villa,132,2003,0 %
+Asmusgårdsvej 38 8520 Lystrup,38,5050000.0,09-07-2010,Alm.,23165,5,Villa,218,2008,-3 %
+Kildehaven 66 8520 Lystrup,66,1394000.0,08-07-2010,Alm.,17209,3,Rækkehus,81,1991,0 %
+Stokbrovej 133 8520 Lystrup,133,2050000.0,07-07-2010,Alm.,16803,4,Villa,122,1986,-2 %
+Kildehaven 68 8520 Lystrup,68,1155000.0,07-07-2010,Alm.,15608,2,Lejlighed,74,1991,
+Hindbærhaven 76 8520 Lystrup,76,2050000.0,06-07-2010,Alm.,14436,4,Villa,142,1981,-11 %
+Sønderskovvej 9 8520 Lystrup,9,586000.0,05-07-2010,Alm.,4246,5,Villa,138,1963,-13 %
+Elmehaven 25 8520 Lystrup,25,3300000.0,02-07-2010,Alm.,0,7,Villa,215,2006,2 %
+Ellebæk Parkvej 12 8520 Lystrup,12,2150000.0,02-07-2010,Alm.,21287,4,Rækkehus,101,2003,
+Kildehaven 102 8520 Lystrup,102,1155000.0,02-07-2010,Alm.,15608,2,Lejlighed,74,1991,
+Elmehaven 3 8520 Lystrup,3,4375000.0,01-07-2010,Alm.,17224,7,Villa,254,2009,-3 %
+Ørnehøjen 11 8520 Lystrup,11,1950000.0,01-07-2010,Alm.,13000,5,Villa,150,1973,-2 %
+Lystrup Stationsvej 4 8520 Lystrup,4,1700000.0,30-06-2010,Alm.,16346,3,Rækkehus,104,1982,
+Elsted Kirkevej 32 8520 Lystrup,32,3350000.0,30-06-2010,Alm.,21753,5,Rækkehus,154,2008,
+Oldager 9 8520 Lystrup,9,1850000.0,29-06-2010,Alm.,16818,4,Villa,110,1953,-3 %
+Ellebæk Parkvej 60 8520 Lystrup,60,1860000.0,21-06-2010,Alm.,18600,4,Rækkehus,100,2003,-7 %
+Solbærhaven 51 8520 Lystrup,51,1440000.0,21-06-2010,Alm.,18701,3,Rækkehus,77,1986,-4 %
+Hybenhaven 20 8520 Lystrup,20,3825000.0,19-06-2010,Alm.,22238,5,Villa,172,2009,-2 %
+Hasselhaven 4 8520 Lystrup,4,3187500.0,18-06-2010,Alm.,16515,7,Villa,193,1976,-2 %
+Koldkilde 25 8520 Lystrup,25,650000.0,16-06-2010,Alm.,4362,5,Villa,149,2011,
+Østre Havevej 3 8520 Lystrup,3,1405000.0,15-06-2010,Alm.,15965,3,Rækkehus,88,1986,
+Engelstoft 136 8520 Lystrup,136,1061902.0,14-06-2010,Andet,6986,5,Villa,152,2008,
+Blåbærhaven 21 8520 Lystrup,21,2390000.0,08-06-2010,Alm.,19120,5,Villa,125,2002,-4 %
+Skolebanken 8 8520 Lystrup,8,1325000.0,07-06-2010,Alm.,11228,4,Villa,118,1960,-7 %
+Østre Havevej 55 8520 Lystrup,55,1414000.0,04-06-2010,Alm.,14884,3,Rækkehus,95,1961,-6 %
+Koldkilde 71 8520 Lystrup,71,2910000.0,01-06-2010,Alm.,18301,5,Villa,159,2010,2 %
+Hyldehaven 15 8520 Lystrup,15,3150000.0,30-05-2010,Alm.,19811,5,Villa,159,1975,-3 %
+Elmehaven 27 8520 Lystrup,27,3700000.0,25-05-2010,Alm.,21264,5,Villa,174,2007,-7 %
+Ellebæk Parkvej 114 8520 Lystrup,114,1695000.0,21-05-2010,Alm.,20178,3,Rækkehus,84,2003,-2 %
+Kildehaven 9 8520 Lystrup,9,18500000.0,15-05-2010,Alm.,171296,1,Rækkehus,108,1991,
+Kirsebærhaven 36 8520 Lystrup,36,1270000.0,12-05-2010,Alm.,20158,2,Rækkehus,63,1989,-2 %
+Hybenhaven 59 8520 Lystrup,59,4050000.0,08-05-2010,Alm.,23011,6,Villa,176,2008,-4 %
+Hybenhaven 89 8520 Lystrup,89,977000.0,03-05-2010,Alm.,5921,6,Villa,165,2011,
+Møgelgårdsvej 41 8520 Lystrup,41,2425000.0,29-04-2010,Alm.,9472,9,Villa,256,1900,-3 %
+Dannevang 9 8520 Lystrup,9,1040000.0,29-04-2010,Alm.,6979,4,Villa,149,1973,
+Engvangen 6 8520 Lystrup,6,1925000.0,26-04-2010,Alm.,13750,5,Villa,140,1974,-4 %
+Birkehaven 15 8520 Lystrup,15,2580000.0,26-04-2010,Alm.,20476,5,Villa,126,1999,-4 %
+Hyldehaven 63 8520 Lystrup,63,1510000.0,25-04-2010,Andet,8579,6,Villa,176,1971,
+Koldkilde 13 8520 Lystrup,13,2860000.0,22-04-2010,Alm.,16531,5,Villa,173,2010,-5 %
+Elsted Kirkevej 3 8520 Lystrup,3,2100000.0,22-04-2010,Alm.,16935,3,Villa,124,2008,-6 %
+Hedeskovvej 64 8520 Lystrup,64,1885000.0,21-04-2010,Alm.,18850,3,Villa,100,1964,
+Lille Elstedvej 74 8520 Lystrup,74,2600000.0,19-04-2010,Alm.,0,5,Villa,163,1971,-4 %
+Ellebæk Parkvej 140 8520 Lystrup,140,1998000.0,19-04-2010,Alm.,19782,4,Rækkehus,101,2003,0 %
+Elmehaven 8 8520 Lystrup,8,888900.0,16-04-2010,Alm.,4884,5,Villa,182,2011,
+Hybenhaven 22 8520 Lystrup,22,1012000.0,14-04-2010,Alm.,5622,6,Villa,180,2011,
+Kirsebærhaven 47 8520 Lystrup,47,1449000.0,13-04-2010,Alm.,18341,3,Rækkehus,79,1990,0 %
+Ellebæk Parkvej 64 8520 Lystrup,64,1787500.0,31-03-2010,Alm.,17875,4,Rækkehus,100,2003,
+Stokbrovej 10 8520 Lystrup,10,2025000.0,28-03-2010,Alm.,12500,5,Villa,162,1974,-3 %
+Rugmarken 19 8520 Lystrup,19,1600000.0,25-03-2010,Alm.,9937,4,Villa,161,1976,-6 %
+Rønnehaven 32 8520 Lystrup,32,1237500.0,24-03-2010,Alm.,7734,5,Villa,160,1974,
+Enebakken 13 8520 Lystrup,13,2725000.0,22-03-2010,Alm.,16925,6,Villa,161,1963,-6 %
+Skolebanken 4 8520 Lystrup,4,1785000.0,19-03-2010,Alm.,23486,4,Villa,76,1959,-1 %
+Hasselhaven 50 8520 Lystrup,50,2400000.0,17-03-2010,Alm.,16107,5,Villa,149,1976,-4 %
+Elleparken 118 8520 Lystrup,118,2820000.0,16-03-2010,Alm.,14461,5,Villa,195,1973,-6 %
+Engelstoft 2 8520 Lystrup,2,564750.0,08-03-2010,Alm.,5229,5,Erhverv,108,2012,
+Hvedemarken 5 8520 Lystrup,5,2610000.0,04-03-2010,Alm.,16730,5,Villa,156,1970,-3 %
+Ørnelunden 32 8520 Lystrup,32,2450000.0,26-02-2010,Alm.,14411,5,Villa,170,1973,-8 %
+Ørnebakken 22 8520 Lystrup,22,1650000.0,23-02-2010,Alm.,11702,5,Villa,141,1976,
+Fyrrebakken 10 8520 Lystrup,10,2900000.0,19-02-2010,Alm.,14356,6,Villa,202,1964,-3 %
+Skæringvej 33 8520 Lystrup,33,2050000.0,15-02-2010,Alm.,15073,5,Rækkehus,136,1980,-5 %
+Engelstoft 90 8520 Lystrup,90,2254380.0,14-02-2010,Alm.,16102,5,Villa,140,2010,247 %
+Hasselhaven 9 8520 Lystrup,9,2495000.0,12-02-2010,Alm.,17821,5,Villa,140,1996,0 %
+Hedeskovvej 38 8520 Lystrup,38,3450000.0,12-02-2010,Alm.,19382,5,Villa,178,1969,
+Egehaven 10 8520 Lystrup,10,2210000.0,10-02-2010,Alm.,19051,4,Rækkehus,116,2002,-4 %
+Hybenhaven 57 8520 Lystrup,57,940000.0,04-02-2010,Alm.,5875,5,Villa,160,2010,
+Vestre Havevej 22 8520 Lystrup,22,1040000.0,03-02-2010,Alm.,15522,2,Rækkehus,67,1961,-5 %
+Blåbærhaven 9 8520 Lystrup,9,1309428.0,01-02-2010,Alm.,0,7,Villa,172,2000,
+Sønderskovvej 19 8520 Lystrup,19,1175000.0,29-01-2010,Alm.,14329,3,Lejlighed,82,1969,
+Blåbærhaven 37 8520 Lystrup,37,2695000.0,27-01-2010,Alm.,20263,5,Villa,133,2001,0 %
+Ellebrinken 71 8520 Lystrup,71,2315000.0,25-01-2010,Alm.,17537,4,Villa,132,2003,-3 %
+Elsted Byvej 37 8520 Lystrup,37,1725000.0,21-01-2010,Alm.,11348,7,Villa,152,1961,-8 %
+Ellebæk Parkvej 132 8520 Lystrup,132,1999000.0,18-01-2010,Alm.,19792,4,Rækkehus,101,2003,0 %
+Asmusgårdsvej 92 8520 Lystrup,92,2975000.0,14-01-2010,Alm.,20659,4,Villa,144,2004,-1 %
+Oldager 1 8520 Lystrup,1,1150000.0,12-01-2010,Alm.,0,7,Villa,169,1952,
+Vestre Havevej 32 8520 Lystrup,32,985000.0,10-01-2010,Alm.,14701,2,Rækkehus,67,1961,-1 %
+Elmehaven 61 8520 Lystrup,61,3020000.0,09-01-2010,Fam.,16685,6,Villa,181,2007,
+Engvangen 14 8520 Lystrup,14,1930000.0,28-12-2009,Alm.,10604,3,Villa,182,1975,-12 %
+Ellebæk Parkvej 42 8520 Lystrup,42,1790000.0,21-12-2009,Alm.,17047,4,Rækkehus,105,2003,-3 %
+Bakkehældet 5 8520 Lystrup,5,1000000.0,09-12-2009,Andet,7352,5,Villa,136,1976,
+Koldkilde 79 8520 Lystrup,79,2900000.0,08-12-2009,Alm.,17791,5,Villa,163,2009,
+Møgelgårdsvej 23 8520 Lystrup,23,1895000.0,27-11-2009,Alm.,14804,5,Villa,128,1963,-5 %
+Asmusgårdsvej 82 8520 Lystrup,82,3650000.0,24-11-2009,Alm.,19623,6,Villa,186,2005,-6 %
+Granbakken 12 8520 Lystrup,12,2420000.0,21-11-2009,Alm.,17285,9,Villa,140,1965,-3 %
+Hybenhaven 13 8520 Lystrup,13,3415000.0,20-11-2009,Alm.,19739,5,Villa,173,2010,20 %
+Solbærhaven 81 8520 Lystrup,81,1248000.0,17-11-2009,Alm.,20800,2,Rækkehus,60,1986,-4 %
+Bygaden 25B 8520 Lystrup,0,3000000.0,12-11-2009,Alm.,19108,5,Rækkehus,157,1876,-6 %
+Ørnehøjen 2 8520 Lystrup,2,2098000.0,11-11-2009,Alm.,12871,7,Villa,163,1903,0 %
+Hedeskovvej 35 8520 Lystrup,35,1998000.0,09-11-2009,Alm.,12487,6,Villa,160,1967,0 %
+Hindbærhaven 6 8520 Lystrup,6,1225000.0,05-11-2009,Alm.,7469,6,Villa,164,1980,
+Engelstoft 126 8520 Lystrup,126,1400000.0,01-11-2009,Andet,7777,7,Villa,180,2008,
+Hyldehaven 124 8520 Lystrup,124,2200000.0,30-10-2009,Alm.,15714,5,Villa,140,1976,-4 %
+Hybenhaven 26 8520 Lystrup,26,869000.0,27-10-2009,Alm.,4937,5,Villa,176,2011,
+Ellebrinken 16 8520 Lystrup,16,2640000.0,26-10-2009,Alm.,17600,6,Villa,150,1999,-6 %
+Hasselhaven 53 8520 Lystrup,53,2700000.0,24-10-2009,Alm.,18493,5,Villa,146,1996,
+Elsted Skolevej 11 8520 Lystrup,11,2400000.0,21-10-2009,Alm.,17266,4,Villa,139,2001,-4 %
+Engelstoft 52 8520 Lystrup,52,2749000.0,20-10-2009,Alm.,17181,5,Villa,160,2009,0 %
+Koldkilde 39 8520 Lystrup,39,700001.0,20-10-2009,Alm.,3932,6,Villa,178,2011,
+Ellebrinken 73 8520 Lystrup,73,2087000.0,19-10-2009,Alm.,17686,4,Villa,118,2003,-3 %
+Engelstoft 9 8520 Lystrup,9,2500000.0,17-10-2009,Alm.,15625,5,Villa,160,2008,-4 %
+Kæruldbakken 14 8520 Lystrup,14,2150000.0,12-10-2009,Alm.,13437,6,Villa,160,1965,-4 %
+Brombærhaven 10 8520 Lystrup,10,2325000.0,06-10-2009,Alm.,16034,5,Villa,145,1984,-1 %
+Sønderskovvej 103 8520 Lystrup,103,1125000.0,06-10-2009,Alm.,13554,3,Lejlighed,83,1969,-2 %
+Hybenhaven 33 8520 Lystrup,33,2850000.0,05-10-2009,Alm.,16379,6,Villa,174,2010,
+Sønderskovvej 25 8520 Lystrup,25,1240000.0,02-10-2009,Alm.,15696,3,Lejlighed,79,1969,
+Kærløkken 3C 8520 Lystrup,0,1550000.0,29-09-2009,Auktion,9567,6,Villa,162,1972,-31 %
+Sønderskovvej 53 8520 Lystrup,53,1050000.0,24-09-2009,Alm.,13291,3,Lejlighed,79,1969,-4 %
+Hybenhaven 67 8520 Lystrup,67,888400.0,24-09-2009,Alm.,4190,6,Villa,212,2012,
+Rugmarken 61 8520 Lystrup,61,2715000.0,16-09-2009,Alm.,17183,6,Villa,158,1995,-3 %
+Hyldehaven 52 8520 Lystrup,52,1680000.0,15-09-2009,Alm.,16800,4,Rækkehus,100,1973,-1 %
+Hybenhaven 37 8520 Lystrup,37,2849000.0,14-09-2009,Alm.,18620,5,Villa,153,2009,0 %
+Lyngbakken 14 8520 Lystrup,14,1700000.0,08-09-2009,Alm.,11333,5,Villa,150,1970,-15 %
+Ellebrinken 6 8520 Lystrup,6,2800000.0,07-09-2009,Alm.,17391,6,Villa,161,1999,-8 %
+Ellebæk Parkvej 112 8520 Lystrup,112,1650000.0,05-09-2009,Alm.,18965,3,Rækkehus,87,2003,-3 %
+Spergelbakken 15 8520 Lystrup,15,2100000.0,30-08-2009,Alm.,11413,6,Villa,184,1964,-6 %
+Engelstoft 22 8520 Lystrup,22,2890000.0,26-08-2009,Alm.,16420,5,Villa,176,2009,-10 %
+Brombærhaven 44 8520 Lystrup,44,2400000.0,22-08-2009,Alm.,14285,6,Villa,168,1980,-4 %
+Bygaden 27 8520 Lystrup,27,1630000.0,19-08-2009,Alm.,13813,3,Villa,118,1995,-9 %
+Kirsebærhaven 30 8520 Lystrup,30,1215000.0,18-08-2009,Alm.,19596,2,Rækkehus,62,1989,-6 %
+Solbærhaven 124 8520 Lystrup,124,1515000.0,13-08-2009,Alm.,14428,4,Rækkehus,105,1986,-2 %
+Blåbærhaven 56 8520 Lystrup,56,2900000.0,03-08-2009,Alm.,17575,5,Villa,165,2003,-15 %
+Elstedvej 148 8520 Lystrup,148,3590000.0,02-08-2009,Alm.,17598,6,Stuehus,204,1982,0 %
+Engelstoft 36 8520 Lystrup,36,2500000.0,21-07-2009,Alm.,14705,6,Villa,170,2008,-12 %
+Stokbrovej 69 8520 Lystrup,69,2600000.0,19-07-2009,Alm.,12264,8,Villa,212,1973,-7 %
+Lystruplund 29 8520 Lystrup,29,1610000.0,13-07-2009,Alm.,16770,3,Rækkehus,96,1989,-5 %
+Æblevænget 35 8520 Lystrup,35,1100000.0,10-07-2009,Alm.,14666,3,Rækkehus,75,1978,-15 %
+Hybenhaven 18 8520 Lystrup,18,864000.0,09-07-2009,Alm.,5082,5,Villa,170,2010,
+Sønderskovvej 10 8520 Lystrup,10,1195000.0,06-07-2009,Alm.,14058,2,Villa,85,1927,0 %
+Birkehaven 53 8520 Lystrup,53,2075000.0,06-07-2009,Alm.,15839,5,Villa,131,1980,-10 %
+Hybenhaven 17 8520 Lystrup,17,888000.0,01-07-2009,Alm.,4530,5,Villa,196,2011,
+Ellebæk Parkvej 74 8520 Lystrup,74,1490000.0,29-06-2009,Alm.,17738,3,Rækkehus,84,2003,0 %
+Solbærhaven 160 8520 Lystrup,160,1560000.0,28-06-2009,Alm.,18352,3,Rækkehus,85,2000,-4 %
+Æblevænget 20 8520 Lystrup,20,1925000.0,25-06-2009,Alm.,14051,6,Rækkehus,137,1977,-4 %
+Marøgelhøj 6 8520 Lystrup,6,2790000.0,23-06-2009,Auktion,14455,7,Villa,193,1968,-20 %
+Sønderskovvej 65 8520 Lystrup,65,920000.0,23-06-2009,Alm.,17358,2,Lejlighed,53,1969,-8 %
+Hyldehaven 35 8520 Lystrup,35,2650000.0,19-06-2009,Alm.,20075,5,Villa,132,1972,
+Koldkilde 19 8520 Lystrup,19,2373000.0,15-06-2009,Alm.,15211,5,Villa,156,2009,-3 %
+Solbærhaven 164 8520 Lystrup,164,1535000.0,15-06-2009,Alm.,18058,3,Rækkehus,85,2000,-4 %
+Vestre Havevej 36 8520 Lystrup,36,950000.0,11-06-2009,Alm.,14179,2,Rækkehus,67,1961,-5 %
+Ørnedalen 26 8520 Lystrup,26,937500.0,04-06-2009,Alm.,7812,4,Villa,120,1974,
+Asmusgårdsvej 50 8520 Lystrup,50,2872810.0,03-06-2009,Alm.,0,6,Villa,193,2004,-4 %
+Blåbærhaven 1 8520 Lystrup,1,950000.0,01-06-2009,Fam.,4094,6,Villa,232,2003,
+Elsted Skolevej 14 8520 Lystrup,14,2675000.0,26-05-2009,Alm.,15735,5,Villa,170,1962,-8 %
+Birkebakken 14 8520 Lystrup,14,3349000.0,25-05-2009,Alm.,18709,6,Villa,179,1967,-9 %
+Hybenhaven 8 8520 Lystrup,8,798000.0,25-05-2009,Alm.,5115,5,Villa,156,2010,
+Solbærhaven 41 8520 Lystrup,41,1580000.0,20-05-2009,Alm.,16288,4,Rækkehus,97,1987,-4 %
+Elmehaven 2 8520 Lystrup,2,5860000.0,19-05-2009,Alm.,28725,5,Villa,204,2009,17 %
+Birkebakken 7 8520 Lystrup,7,2560000.0,14-05-2009,Alm.,15609,6,Villa,164,1967,-5 %
+Hyldehaven 108 8520 Lystrup,108,1071775.0,12-05-2009,Fam.,5496,6,Villa,195,1977,
+Hybenhaven 24 8520 Lystrup,24,911799.0,06-05-2009,Alm.,4341,7,Villa,210,2011,
+Hybenhaven 23 8520 Lystrup,23,814000.0,29-04-2009,Alm.,5151,6,Villa,158,2009,
+Ørnebakken 13 8520 Lystrup,13,1915000.0,26-04-2009,Alm.,15443,4,Villa,124,1973,-4 %
+Stokbrovej 135 8520 Lystrup,135,1900000.0,25-04-2009,Alm.,12258,4,Villa,155,1985,-12 %
+Ellebæk Parkvej 56 8520 Lystrup,56,1665000.0,24-04-2009,Alm.,16650,4,Rækkehus,100,2003,-7 %
+Æblevænget 21 8520 Lystrup,21,1495000.0,24-04-2009,Alm.,15255,4,Rækkehus,98,1978,-3 %
+Rørvangen 6 8520 Lystrup,6,1700000.0,22-04-2009,Alm.,17171,4,Rækkehus,99,1984,
+Elmehaven 15 8520 Lystrup,15,3700000.0,17-04-2009,Alm.,19786,5,Villa,187,2007,-5 %
+Rugmarken 118 8520 Lystrup,118,1925000.0,16-04-2009,Alm.,16739,4,Villa,115,1975,-4 %
+Ellebæk Parkvej 37 8520 Lystrup,37,1600000.0,14-04-2009,Alm.,19277,3,Rækkehus,83,2003,-6 %
+Lille Elstedvej 22 8520 Lystrup,22,1500000.0,13-04-2009,Alm.,15000,4,Villa,100,1964,-12 %
+Bystævnet 17 8520 Lystrup,17,1040000.0,12-04-2009,Alm.,6842,6,Villa,152,1962,-17 %
+Hybenhaven 73 8520 Lystrup,73,804573.0,02-04-2009,Alm.,3963,7,Villa,203,2011,
+Hybenhaven 10 8520 Lystrup,10,825500.0,31-03-2009,Alm.,4277,6,Villa,193,2010,
+Elmehaven 43 8520 Lystrup,43,1100000.0,30-03-2009,Alm.,7096,6,Villa,155,2011,
+Ellebækvej 10 8520 Lystrup,10,1995000.0,25-03-2009,Alm.,19368,4,Rækkehus,103,1968,
+Granbakken 17 8520 Lystrup,17,2195000.0,25-03-2009,Alm.,17701,4,Villa,124,1986,0 %
+Æblevænget 29 8520 Lystrup,29,1350000.0,23-03-2009,Alm.,15882,4,Rækkehus,85,1978,-3 %
+Engelstoft 48 8520 Lystrup,48,2800000.0,23-03-2009,Alm.,15730,6,Villa,178,2009,
+Engelstoft 34 8520 Lystrup,34,515000.0,23-03-2009,Alm.,3179,5,Villa,162,2009,0 %
+Gyvelbakken 14 8520 Lystrup,14,1900000.0,22-03-2009,Alm.,0,5,Villa,147,1964,-3 %
+Hybenhaven 101 8520 Lystrup,101,844400.0,21-03-2009,Alm.,4743,5,Villa,178,2010,
+Kirsebærhaven 8 8520 Lystrup,8,2185000.0,19-03-2009,Alm.,17909,5,Villa,122,1991,-5 %
+Koldkilde 139 8520 Lystrup,139,2375000.0,16-03-2009,Alm.,16843,5,Villa,141,2009,-5 %
+Stokbrovej 43 8520 Lystrup,43,1024500.0,13-03-2009,Fam.,5691,6,Villa,180,1973,
+Engelstoft 12 8520 Lystrup,12,465000.0,13-03-2009,Alm.,2852,5,Villa,163,2009,-4 %
+Kjeldsbjergvej 17 8520 Lystrup,17,1949000.0,04-03-2009,Alm.,16658,4,Villa,117,1877,
+Bygaden 13 8520 Lystrup,13,1250000.0,24-02-2009,Alm.,7309,5,Villa,171,2010,-30 %
+Engelstoft 54 8520 Lystrup,54,2900000.0,20-02-2009,Alm.,16763,5,Villa,173,2008,-3 %
+Sønderskovvej 77 8520 Lystrup,77,1050000.0,14-02-2009,Alm.,12650,3,Lejlighed,83,1969,-19 %
+Elleparken 67 8520 Lystrup,67,2425000.0,10-02-2009,Alm.,16958,5,Villa,143,1973,-7 %
+Ellebæk Parkvej 34 8520 Lystrup,34,1775000.0,04-02-2009,Alm.,17750,4,Rækkehus,100,2003,-6 %
+Kæruldbakken 4 8520 Lystrup,4,1700000.0,29-01-2009,Alm.,14049,4,Villa,121,1964,
+Møgelgårdsvej 49A 8520 Lystrup,0,1500000.0,28-01-2009,Alm.,11811,5,Villa,127,1965,-6 %
+Elmehaven 77 8520 Lystrup,77,900000.0,27-01-2009,Alm.,5202,4,Villa,173,2010,-22 %
+Koldkilde 73 8520 Lystrup,73,600000.0,16-01-2009,Alm.,4225,4,Villa,142,2009,-8 %
+Vestre Havevej 48 8520 Lystrup,48,1025000.0,06-01-2009,Alm.,15298,2,Rækkehus,67,1961,-6 %
+Lille Elstedvej 11 8520 Lystrup,11,1369848.0,01-01-2009,Alm.,7247,6,Villa,189,1947,
+Brombærhaven 1 8520 Lystrup,1,2410000.0,15-12-2008,Alm.,0,8,Villa,199,1979,-7 %
+Engelstoft 104 8520 Lystrup,104,659800.0,15-12-2008,Alm.,4369,6,Villa,151,2009,
+Koldkilde 149 8520 Lystrup,149,574750.0,11-12-2008,Alm.,2038,7,Villa,282,2009,
+Møgelgårdsvej 8A 8520 Lystrup,0,2582230.0,21-11-2008,Andet,9931,9,Villa,260,1900,
+Hedeskovvej 26 8520 Lystrup,26,2200000.0,07-11-2008,Alm.,14473,6,Villa,152,1965,-12 %
+Ellebæk Parkvej 29 8520 Lystrup,29,1510000.0,31-10-2008,Alm.,18192,3,Rækkehus,83,2003,-11 %
+Elsted Skolevej 21 8520 Lystrup,21,1350000.0,31-10-2008,Andet,9000,6,Villa,150,1947,
+Vestre Havevej 20 8520 Lystrup,20,1000000.0,27-10-2008,Alm.,14925,2,Rækkehus,67,1961,-16 %
+Engelstoft 1 8520 Lystrup,1,353006.0,09-10-2008,Alm.,1534,5,Villa,230,2013,
+Solbærhaven 154 8520 Lystrup,154,1755000.0,07-10-2008,Alm.,19285,3,Rækkehus,91,2001,-5 %
+Ellebæk Parkvej 18 8520 Lystrup,18,2050000.0,05-10-2008,Alm.,20297,4,Rækkehus,101,2003,-7 %
+Birkehaven 42 8520 Lystrup,42,1960000.0,30-09-2008,Alm.,16610,4,Villa,118,1980,-2 %
+Elleparken 49 8520 Lystrup,49,1197500.0,18-09-2008,Alm.,0,6,Villa,194,1972,
+Blåbærhaven 44 8520 Lystrup,44,3800000.0,11-09-2008,Alm.,19000,6,Villa,200,2004,-5 %
+Rønnehaven 2 8520 Lystrup,2,2110000.0,11-09-2008,Alm.,16880,5,Villa,125,1976,-4 %
+Elmehaven 31 8520 Lystrup,31,3450000.0,08-09-2008,Alm.,18750,6,Villa,184,2006,-11 %
+Hyldehaven 9 8520 Lystrup,9,1825000.0,07-09-2008,Alm.,16294,4,Villa,112,1971,-6 %
+Rugmarken 102 8520 Lystrup,102,2500000.0,04-09-2008,Alm.,17361,5,Villa,144,1978,-11 %
+Kirsebærhaven 20 8520 Lystrup,20,2675000.0,03-09-2008,Alm.,19669,6,Villa,136,1988,-6 %
+Elev Tværvej 4 8520 Lystrup,4,2460000.0,01-09-2008,Alm.,18923,5,Villa,130,1976,
+Asmusgårdsvej 56 8520 Lystrup,56,3200000.0,27-08-2008,Alm.,0,5,Villa,154,2005,-3 %
+Hindbærhaven 29 8520 Lystrup,29,1625000.0,22-08-2008,Alm.,15476,4,Villa,105,1982,-14 %
+Engelstoft 56 8520 Lystrup,56,3125000.0,18-08-2008,Alm.,18063,5,Villa,173,2008,
+Asmusgårdsvej 16 8520 Lystrup,16,3450000.0,07-08-2008,Alm.,19166,5,Villa,180,2005,-7 %
+Skæringvej 22 8520 Lystrup,22,2575000.0,05-08-2008,Alm.,19961,4,Villa,129,1978,-3 %
+Ørnebakken 27 8520 Lystrup,27,2050000.0,04-08-2008,Alm.,14137,5,Villa,145,1978,-11 %
+Solbærhaven 126 8520 Lystrup,126,1550000.0,31-07-2008,Alm.,14903,4,Rækkehus,104,1987,-3 %
+Bygmarken 18 8520 Lystrup,18,3500000.0,28-07-2008,Alm.,15283,6,Villa,229,1969,-8 %
+Elmehaven 67 8520 Lystrup,67,3350000.0,17-07-2008,Alm.,19034,6,Villa,176,2007,-4 %
+Æblevænget 34 8520 Lystrup,34,1700000.0,09-07-2008,Alm.,20000,4,Rækkehus,85,1977,-4 %
+Egehaven 12 8520 Lystrup,12,2485000.0,22-06-2008,Alm.,21422,4,Rækkehus,116,2002,0 %
+Hindbærhaven 43 8520 Lystrup,43,2200000.0,19-06-2008,Alm.,19469,4,Villa,113,1981,0 %
+Lystrupvej 247 8520 Lystrup,247,1950000.0,19-06-2008,Alm.,12500,7,Villa,156,1961,-2 %
+Elmehaven 71 8520 Lystrup,71,4200000.0,16-06-2008,Alm.,20895,5,Villa,201,2006,
+Hybenhaven 25 8520 Lystrup,25,851125.0,16-06-2008,Alm.,5491,5,Villa,155,2009,
+Hasselhaven 39 8520 Lystrup,39,3100000.0,15-06-2008,Alm.,19135,5,Villa,162,1989,-9 %
+Solbærhaven 73 8520 Lystrup,73,1750000.0,28-05-2008,Alm.,22727,3,Rækkehus,77,1986,-7 %
+Hyldehaven 3 8520 Lystrup,3,2500000.0,27-05-2008,Alm.,12500,6,Villa,200,1972,-4 %
+Vestre Havevej 16 8520 Lystrup,16,1223000.0,21-05-2008,Alm.,18253,2,Rækkehus,67,1961,-2 %
+Hvedemarken 20 8520 Lystrup,20,2400000.0,20-05-2008,Alm.,17647,4,Villa,136,1970,-4 %
+Solbærhaven 129 8520 Lystrup,129,1875000.0,19-05-2008,Alm.,17201,5,Rækkehus,109,1987,-10 %
+Sønderskovvej 15 8520 Lystrup,15,1450000.0,16-05-2008,Alm.,18354,3,Lejlighed,79,1969,-9 %
+Hybenhaven 81 8520 Lystrup,81,1116000.0,08-05-2008,Alm.,5314,5,Villa,210,2009,
+Hybenhaven 71 8520 Lystrup,71,953823.0,08-05-2008,Alm.,5513,6,Villa,173,2010,
+Hybenhaven 69 8520 Lystrup,69,1010111.0,08-05-2008,Alm.,6825,5,Villa,148,2009,
+Koldkilde 137 8520 Lystrup,137,482400.0,08-05-2008,Alm.,3859,4,Villa,125,2009,
+Hybenhaven 75 8520 Lystrup,75,1032250.0,08-05-2008,Alm.,5579,5,Villa,185,2011,
+Hybenhaven 77 8520 Lystrup,77,924000.0,08-05-2008,Alm.,4837,7,Villa,191,2011,
+Hybenhaven 85 8520 Lystrup,85,916000.0,08-05-2008,Alm.,4512,5,Villa,203,2012,
+Hybenhaven 79 8520 Lystrup,79,925947.0,08-05-2008,Alm.,4409,6,Villa,210,2011,
+Ellebæk Parkvej 46 8520 Lystrup,46,1675000.0,04-05-2008,Alm.,19940,3,Rækkehus,84,2003,-4 %
+Ved Gadekæret 9 8520 Lystrup,9,2730000.0,01-05-2008,Alm.,15872,5,Rækkehus,172,1985,-9 %
+Æblevænget 10 8520 Lystrup,10,1875000.0,29-04-2008,Alm.,17688,5,Rækkehus,106,1977,
+Stokbrovej 50 8520 Lystrup,50,1317500.0,29-04-2008,Fam.,6620,6,Villa,199,1973,
+Østre Havevej 45 8520 Lystrup,45,1575000.0,28-04-2008,Alm.,16578,3,Rækkehus,95,1961,-5 %
+Ørnebakken 10 8520 Lystrup,10,2295000.0,27-04-2008,Alm.,18214,4,Villa,126,1973,0 %
+Elmehaven 7 8520 Lystrup,7,4000000.0,25-04-2008,Alm.,21052,6,Villa,190,2006,-11 %
+Engelstoft 32 8520 Lystrup,32,645150.0,23-04-2008,Alm.,4641,4,Villa,139,2009,
+Hybenhaven 45 8520 Lystrup,45,901045.0,23-04-2008,Alm.,5005,6,Villa,180,2009,
+Engelstoft 44 8520 Lystrup,44,2699000.0,14-04-2008,Alm.,18114,5,Villa,149,2008,0 %
+Hyldehaven 43 8520 Lystrup,43,2830000.0,11-04-2008,Alm.,12805,5,Villa,221,1972,-6 %
+Ellehøjen 11 8520 Lystrup,11,2200000.0,07-04-2008,Alm.,20000,4,Rækkehus,110,2001,-4 %
+Engelstoft 14 8520 Lystrup,14,676273.0,03-04-2008,Alm.,3864,5,Villa,175,2009,
+Kirsebærhaven 40 8520 Lystrup,40,1760000.0,31-03-2008,Alm.,19775,3,Rækkehus,89,1989,-5 %
+Koldkilde 37 8520 Lystrup,37,675000.0,28-03-2008,Alm.,4720,4,Villa,143,2011,
+Engelstoft 88 8520 Lystrup,88,726000.0,28-03-2008,Alm.,4905,5,Villa,148,2008,
+Ellebæk Parkvej 39 8520 Lystrup,39,2175000.0,25-03-2008,Alm.,21534,4,Rækkehus,101,2003,-5 %
+Engelstoft 16 8520 Lystrup,16,578925.0,18-03-2008,Alm.,3112,5,Villa,186,2011,
+Stokbrovej 26 8520 Lystrup,26,2040000.0,14-03-2008,Alm.,12592,7,Villa,162,1973,-5 %
+Elsted Byvej 32 8520 Lystrup,32,80000.0,14-03-2008,Alm.,701,4,Villa,114,1977,
+Asmusgårdsvej 74 8520 Lystrup,74,3425000.0,13-03-2008,Alm.,22532,5,Villa,152,2004,-3 %
+Ellebrinken 103 8520 Lystrup,103,2560000.0,11-03-2008,Alm.,18962,4,Rækkehus,135,2003,-5 %
+Hyldehaven 41 8520 Lystrup,41,2550000.0,10-03-2008,Alm.,19318,5,Villa,132,1972,-6 %
+Ellebæk Parkvej 68 8520 Lystrup,68,1745000.0,26-02-2008,Alm.,20057,3,Rækkehus,87,2003,0 %
+Ellebæk Parkvej 40 8520 Lystrup,40,2117050.0,22-02-2008,Alm.,21170,4,Rækkehus,100,2003,1 %
+Blåbærhaven 6 8520 Lystrup,6,3600000.0,22-02-2008,Alm.,22085,5,Villa,163,2003,-5 %
+Stokbrovej 107 8520 Lystrup,107,2450000.0,22-02-2008,Alm.,0,4,Villa,145,1986,-2 %
+Koldkilde 53 8520 Lystrup,53,3140000.0,13-02-2008,Alm.,18255,5,Villa,172,2008,
+Elstedvænge 1 8520 Lystrup,1,2100000.0,20-01-2008,Alm.,17647,4,Villa,119,1976,-8 %
+Kæruldbakken 10 8520 Lystrup,10,2300000.0,19-01-2008,Alm.,0,6,Villa,165,1966,
+Hybenhaven 93 8520 Lystrup,93,1100024.0,15-01-2008,Alm.,6214,6,Villa,177,2008,
+Hybenhaven 35 8520 Lystrup,35,821500.0,15-01-2008,Alm.,5476,5,Villa,150,2009,
+Hybenhaven 63 8520 Lystrup,63,1029750.0,15-01-2008,Alm.,6317,5,Villa,163,2008,
+Hybenhaven 9 8520 Lystrup,9,1056000.0,15-01-2008,Alm.,6175,6,Villa,171,2009,
+Hybenhaven 99 8520 Lystrup,99,1317210.0,15-01-2008,Alm.,7197,5,Villa,183,2009,
+Hybenhaven 91 8520 Lystrup,91,1050516.0,15-01-2008,Alm.,5359,6,Villa,196,2008,
+Hybenhaven 61 8520 Lystrup,61,1115100.0,15-01-2008,Alm.,6126,6,Villa,182,2010,
+Hybenhaven 5 8520 Lystrup,5,1165122.0,15-01-2008,Alm.,5419,6,Villa,215,2010,
+Hybenhaven 55 8520 Lystrup,55,903020.0,15-01-2008,Alm.,5506,5,Villa,164,2009,
+Hybenhaven 12 8520 Lystrup,12,880000.0,15-01-2008,Alm.,4378,6,Villa,201,2010,
+Hybenhaven 1 8520 Lystrup,1,843537.0,15-01-2008,Alm.,3887,6,Villa,217,2011,
+Hybenhaven 47 8520 Lystrup,47,862050.0,09-01-2008,Alm.,5256,5,Villa,164,2009,
+Rugmarken 57 8520 Lystrup,57,2525000.0,09-01-2008,Alm.,13082,5,Villa,193,1974,-6 %
+Dannevang 7 8520 Lystrup,7,1800000.0,09-01-2008,Alm.,14400,4,Villa,125,1972,-10 %
+Ellebæk Parkvej 102 8520 Lystrup,102,1920000.0,04-01-2008,Alm.,19200,4,Rækkehus,100,2003,
+Bystævnet 16 8520 Lystrup,16,1125000.0,18-12-2007,Andet,7211,6,Villa,156,1964,
+Egehaven 57 8520 Lystrup,57,3600000.0,14-12-2007,Alm.,0,8,Villa,206,1999,-4 %
+Engelstoft 72 8520 Lystrup,72,721000.0,14-12-2007,Alm.,4774,4,Villa,151,2008,
+Hybenhaven 51 8520 Lystrup,51,1161000.0,10-12-2007,Alm.,5953,6,Villa,195,2009,
+Hybenhaven 65 8520 Lystrup,65,832777.0,10-12-2007,Alm.,4813,5,Villa,173,2008,
+Hybenhaven 11 8520 Lystrup,11,951000.0,10-12-2007,Alm.,4979,5,Villa,191,2009,
+Engelstoft 42 8520 Lystrup,42,600002.0,05-12-2007,Alm.,4347,5,Villa,138,2008,
+Engelstoft 78 8520 Lystrup,78,887913.0,05-12-2007,Alm.,5447,5,Villa,163,2009,
+Hyldehaven 86 8520 Lystrup,86,1975000.0,03-12-2007,Alm.,19750,4,Rækkehus,100,1973,-6 %
+Engelstoft 64 8520 Lystrup,64,648518.0,03-12-2007,Alm.,3431,5,Villa,189,2010,
+Engelstoft 50 8520 Lystrup,50,636750.0,30-11-2007,Alm.,4081,5,Villa,156,2009,
+Engvangen 18 8520 Lystrup,18,2245000.0,29-11-2007,Alm.,16151,4,Villa,139,1975,-4 %
+Granbakken 8 8520 Lystrup,8,3498000.0,28-11-2007,Alm.,16657,6,Villa,210,1965,
+Engelstoft 92 8520 Lystrup,92,610734.0,27-11-2007,Alm.,4211,4,Villa,145,2009,
+Engelstoft 114 8520 Lystrup,114,621000.0,27-11-2007,Alm.,3393,6,Villa,183,2010,
+Kildehaven 134 8520 Lystrup,134,20100000.0,27-11-2007,Alm.,187850,4,Rækkehus,107,1991,
+Engelstoft 140 8520 Lystrup,140,700007.0,27-11-2007,Alm.,4605,5,Villa,152,2009,
+Engelstoft 60 8520 Lystrup,60,749000.0,15-11-2007,Alm.,4485,5,Villa,167,2010,
+Engelstoft 116 8520 Lystrup,116,703809.0,12-11-2007,Alm.,3845,6,Villa,183,2008,
+Ellebæk Parkvej 116 8520 Lystrup,116,1750000.0,12-11-2007,Alm.,20833,3,Rækkehus,84,2003,-3 %
+Engelstoft 86 8520 Lystrup,86,656898.0,08-11-2007,Alm.,4030,5,Villa,163,2008,
+Ellebæk Parkvej 72 8520 Lystrup,72,1700000.0,08-11-2007,Alm.,20238,3,Rækkehus,84,2003,-1 %
+Elleparken 132 8520 Lystrup,132,2900000.0,08-11-2007,Alm.,13679,7,Villa,212,1973,
+Engelstoft 112 8520 Lystrup,112,853253.0,08-11-2007,Alm.,4467,6,Villa,191,2009,
+Engelstoft 58 8520 Lystrup,58,600000.0,08-11-2007,Alm.,4000,6,Villa,150,2009,
+Møgelgårdsvej 20 8520 Lystrup,20,4350000.0,01-11-2007,Alm.,92553,2,Lejlighed,47,1987,
+Elmehaven 28 8520 Lystrup,28,3375000.0,19-10-2007,Alm.,0,7,Villa,200,2007,
+Engelstoft 98 8520 Lystrup,98,654800.0,17-10-2007,Alm.,3851,6,Villa,170,2009,
+Stokbrovej 40 8520 Lystrup,40,2900000.0,17-10-2007,Alm.,14146,8,Villa,205,1973,
+Engelstoft 130 8520 Lystrup,130,579000.0,17-10-2007,Alm.,3289,5,Villa,176,2011,
+Engelstoft 102 8520 Lystrup,102,656602.0,16-10-2007,Alm.,3455,6,Villa,190,2009,
+Engelstoft 122 8520 Lystrup,122,553999.0,15-10-2007,Alm.,3768,5,Villa,147,2008,
+Engelstoft 68 8520 Lystrup,68,653700.0,15-10-2007,Alm.,3127,7,Villa,209,2008,
+Engelstoft 128 8520 Lystrup,128,756500.0,14-10-2007,Alm.,4322,5,Villa,175,2008,
+Engelstoft 110 8520 Lystrup,110,680000.0,14-10-2007,Alm.,3636,5,Villa,187,2010,
+Engelstoft 80 8520 Lystrup,80,658000.0,13-10-2007,Alm.,4386,5,Villa,150,2009,
+Engelstoft 76 8520 Lystrup,76,855500.0,10-10-2007,Alm.,5184,4,Villa,165,2009,
+Engelstoft 82 8520 Lystrup,82,772312.0,10-10-2007,Alm.,5183,5,Villa,149,2008,
+Engelstoft 100 8520 Lystrup,100,729000.0,10-10-2007,Alm.,4142,6,Villa,176,2009,
+Koldkilde 17 8520 Lystrup,17,3195000.0,10-10-2007,Alm.,18362,5,Villa,174,2008,
+Engelstoft 124 8520 Lystrup,124,875826.0,10-10-2007,Alm.,6082,6,Villa,144,2008,
+Engelstoft 70 8520 Lystrup,70,923000.0,09-10-2007,Alm.,4176,6,Villa,221,2010,
+Elsted Kirkevej 36 8520 Lystrup,36,2730000.0,09-10-2007,Alm.,23333,4,Rækkehus,117,2008,
+Engelstoft 106 8520 Lystrup,106,1330000.0,08-10-2007,Alm.,5937,6,Villa,224,2008,
+Sønderskovvej 23 8520 Lystrup,23,1400000.0,28-09-2007,Alm.,17721,3,Lejlighed,79,1969,
+Ellebæk Parkvej 50 8520 Lystrup,50,1725000.0,27-09-2007,Alm.,20535,3,Rækkehus,84,2003,0 %
+Munkhøj 10 8520 Lystrup,10,2250000.0,17-09-2007,Alm.,12096,5,Villa,186,1979,-2 %
+Ellebæk Parkvej 21 8520 Lystrup,21,2000000.0,16-09-2007,Alm.,24096,3,Rækkehus,83,2003,
+Hindbærhaven 71 8520 Lystrup,71,1850000.0,12-09-2007,Alm.,15811,4,Villa,117,1980,-18 %
+Engelstoft 40 8520 Lystrup,40,698980.0,12-09-2007,Alm.,5418,4,Villa,129,2009,
+Engelstoft 4 8520 Lystrup,4,620000.0,05-09-2007,Alm.,3369,5,Villa,184,2008,
+Engelstoft 18 8520 Lystrup,18,977777.0,05-09-2007,Alm.,5432,5,Villa,180,2009,
+Engelstoft 30 8520 Lystrup,30,646000.0,05-09-2007,Alm.,4335,5,Villa,149,2008,
+Engelstoft 8 8520 Lystrup,8,552000.0,05-09-2007,Alm.,3450,6,Villa,160,2010,
+Engelstoft 13 8520 Lystrup,13,575000.0,05-09-2007,Alm.,3782,5,Villa,152,2008,
+Engelstoft 28 8520 Lystrup,28,621000.0,05-09-2007,Alm.,3029,5,Villa,205,2012,
+Asmusgårdsvej 66 8520 Lystrup,66,3265000.0,31-08-2007,Alm.,20406,5,Villa,160,2005,
+Hasselhaven 37 8520 Lystrup,37,3400000.0,31-08-2007,Alm.,22222,5,Villa,153,1995,
+Engvangen 10 8520 Lystrup,10,1425000.0,26-08-2007,Fam.,9134,5,Villa,156,1973,
+Porsbakken 3 8520 Lystrup,3,2550000.0,22-08-2007,Alm.,15454,6,Villa,165,1970,-9 %
+Elsted Kirkevej 26 8520 Lystrup,26,3445350.0,22-08-2007,Alm.,20386,4,Rækkehus,169,2007,
+Elsted Kirkevej 30 8520 Lystrup,30,3352305.0,22-08-2007,Alm.,19836,5,Rækkehus,169,2008,
+Pannerupvej 23 8520 Lystrup,23,782000.0,20-08-2007,Fam.,7519,4,Villa,104,1777,
+Rugmarken 1 8520 Lystrup,1,2325000.0,17-08-2007,Alm.,18750,4,Villa,124,1977,
+Lyngbakken 5 8520 Lystrup,5,1380000.0,09-08-2007,Fam.,10298,5,Villa,134,1965,
+Hindbærhaven 45 8520 Lystrup,45,1999000.0,30-07-2007,Alm.,15376,4,Villa,130,1981,
+Elmehaven 23 8520 Lystrup,23,4595000.0,30-07-2007,Alm.,22975,6,Villa,200,2006,
+Rugmarken 94 8520 Lystrup,94,2440000.0,26-07-2007,Alm.,20677,4,Villa,118,1977,
+Hedeskovvej 10 8520 Lystrup,10,2670000.0,23-07-2007,Alm.,19071,4,Villa,140,1965,-11 %
+Ørnehøjen 19 8520 Lystrup,19,2625000.0,12-07-2007,Alm.,17736,5,Villa,148,1977,-3 %
+Koldkilde 141 8520 Lystrup,141,524000.0,11-07-2007,Alm.,3910,4,Villa,134,2008,
+Koldkilde 61 8520 Lystrup,61,825000.0,11-07-2007,Alm.,5254,5,Villa,157,2009,
+Pannerupvej 20 8520 Lystrup,20,121500.0,05-07-2007,Alm.,455,9,Stuehus,267,1872,
+Rønnehaven 42 8520 Lystrup,42,3100000.0,29-06-2007,Alm.,18452,5,Villa,168,1974,-4 %
+Lystrupvej 244 8520 Lystrup,244,468376.0,28-06-2007,Alm.,5510,4,Villa,85,1959,
+Koldkilde 81 8520 Lystrup,81,790000.0,25-06-2007,Alm.,6929,4,Villa,114,2008,
+Kirsebærhaven 7 8520 Lystrup,7,2485000.0,22-06-2007,Alm.,19880,5,Villa,125,1989,-4 %
+Koldkilde 143 8520 Lystrup,143,745000.0,19-06-2007,Alm.,5246,3,Villa,142,2009,
+Ellehøjen 1 8520 Lystrup,1,2498000.0,14-06-2007,Alm.,22303,4,Rækkehus,112,2001,0 %
+Sønderskovvej 11C 8520 Lystrup,0,1960000.0,08-06-2007,Alm.,17345,4,Rækkehus,113,1984,
+Rugmarken 3 8520 Lystrup,3,2275000.0,07-06-2007,Alm.,19117,4,Villa,119,1976,
+Koldkilde 83 8520 Lystrup,83,828251.0,06-06-2007,Alm.,5521,5,Villa,150,2008,
+Koldkilde 65 8520 Lystrup,65,743000.0,06-06-2007,Alm.,3890,5,Villa,191,2009,
+Ørnebakken 30 8520 Lystrup,30,2100000.0,05-06-2007,Alm.,17355,4,Villa,121,1973,
+Gyvelbakken 7 8520 Lystrup,7,2500000.0,04-06-2007,Alm.,19230,4,Villa,130,1966,
+Elmehaven 22 8520 Lystrup,22,1475000.0,01-06-2007,Alm.,8832,5,Villa,167,2008,
+Koldkilde 67 8520 Lystrup,67,650201.0,31-05-2007,Alm.,4515,5,Villa,144,2008,
+Koldkilde 63 8520 Lystrup,63,721000.0,29-05-2007,Alm.,4871,5,Villa,148,2008,
+Ved Gadekæret 6 8520 Lystrup,6,1310000.0,20-05-2007,Alm.,7616,5,Rækkehus,172,1985,
+Møgelhøj 6 8520 Lystrup,6,825000.0,14-05-2007,Fam.,5221,11,Villa,158,1964,
+Hedeskovvej 7 8520 Lystrup,7,2110000.0,13-05-2007,Alm.,16880,4,Villa,125,1966,
+Vestre Havevej 30 8520 Lystrup,30,1470000.0,13-05-2007,Alm.,16333,3,Rækkehus,90,1961,
+Blåbærhaven 32 8520 Lystrup,32,3350000.0,10-05-2007,Alm.,24100,5,Villa,139,2004,
+Rugmarken 110 8520 Lystrup,110,2615000.0,06-05-2007,Alm.,13341,7,Villa,196,1978,
+Rønnehaven 46 8520 Lystrup,46,2775000.0,03-05-2007,Alm.,21511,6,Villa,129,1976,
+Birkebakken 31 8520 Lystrup,31,1935000.0,30-04-2007,Alm.,17590,4,Villa,110,1965,
+Pilebækvej 9 8520 Lystrup,9,1975000.0,30-04-2007,Alm.,20360,4,Villa,97,1966,
+Ellebæk Parkvej 23 8520 Lystrup,23,2300000.0,27-04-2007,Alm.,22772,4,Rækkehus,101,2003,
+Elmehaven 10 8520 Lystrup,10,950000.0,26-04-2007,Alm.,5428,5,Villa,175,2010,
+Solbærhaven 11 8520 Lystrup,11,1920000.0,23-04-2007,Alm.,19793,4,Villa,97,1986,
+Hasselhaven 22 8520 Lystrup,22,2900000.0,18-04-2007,Alm.,15760,5,Villa,184,1978,
+Ellebæk Parkvej 58 8520 Lystrup,58,1995000.0,10-04-2007,Alm.,19950,4,Rækkehus,100,2003,
+Solbærhaven 101 8520 Lystrup,101,2000000.0,03-04-2007,Alm.,20833,4,Rækkehus,96,1987,
+Kirsebærhaven 28 8520 Lystrup,28,1350000.0,29-03-2007,Alm.,21093,2,Rækkehus,64,1989,
+Rønnehaven 7 8520 Lystrup,7,2750000.0,24-03-2007,Alm.,0,5,Villa,138,1987,
+Munkhøj 20 8520 Lystrup,20,1347000.0,09-03-2007,Andet,13606,5,Villa,99,1897,
+Bygmarken 21 8520 Lystrup,21,2320000.0,08-03-2007,Alm.,17058,5,Villa,136,1969,-5 %
+Ellebæk Parkvej 38 8520 Lystrup,38,2149000.0,07-03-2007,Alm.,21490,4,Rækkehus,100,2003,
+Ellebrinken 14 8520 Lystrup,14,2785000.0,28-02-2007,Alm.,21423,6,Villa,130,1998,
+Sønderskovvej 91 8520 Lystrup,91,1050000.0,28-02-2007,Alm.,19811,2,Lejlighed,53,1969,
+Rugmarken 59 8520 Lystrup,59,2774000.0,26-02-2007,Alm.,19814,5,Villa,140,1973,
+Rugmarken 109 8520 Lystrup,109,2725000.0,22-02-2007,Alm.,17031,5,Villa,160,1977,
+Solbærhaven 128 8520 Lystrup,128,1000000.0,15-02-2007,Alm.,11494,4,Rækkehus,87,1987,
+Dannevang 10A 8520 Lystrup,0,1960000.0,12-02-2007,Fam.,19600,4,Rækkehus,100,1987,
+Koldkilde 57 8520 Lystrup,57,657000.0,09-02-2007,Alm.,5093,4,Villa,129,2008,
+Solbærhaven 87 8520 Lystrup,87,1400000.0,08-02-2007,Alm.,23333,2,Rækkehus,60,1987,
+Rugmarken 89 8520 Lystrup,89,2962000.0,07-02-2007,Alm.,18512,4,Villa,160,1973,
+Gyvelbakken 18 8520 Lystrup,18,2825000.0,05-02-2007,Alm.,20772,4,Villa,136,1967,
+Ørnehøjen 3 8520 Lystrup,3,2200000.0,05-02-2007,Alm.,14666,5,Villa,150,1972,
+Koldkilde 27 8520 Lystrup,27,912889.0,25-01-2007,Alm.,4961,6,Villa,184,2008,
+Asmusgårdsvej 100 8520 Lystrup,100,3525000.0,25-01-2007,Alm.,22596,5,Villa,156,2005,
+Elleparken 72 8520 Lystrup,72,3300000.0,23-01-2007,Alm.,17934,4,Villa,184,1973,
+Engvangen 55 8520 Lystrup,55,1031827.0,23-01-2007,Alm.,9051,4,Villa,114,1953,
+Koldkilde 31 8520 Lystrup,31,951999.0,23-01-2007,Alm.,5471,6,Villa,174,2008,
+Koldkilde 55 8520 Lystrup,55,702355.0,23-01-2007,Alm.,4531,5,Villa,155,2007,
+Ellebæk Parkvej 66 8520 Lystrup,66,2050000.0,17-01-2007,Alm.,19523,4,Rækkehus,105,2003,
+Elsted Kirkevej 16 8520 Lystrup,16,2165000.0,12-01-2007,Alm.,20619,4,Rækkehus,105,1985,
+Ellebæk Parkvej 108 8520 Lystrup,108,1995000.0,10-01-2007,Alm.,19950,4,Rækkehus,100,2003,0 %
+Hasselhaven 27 8520 Lystrup,27,3099000.0,09-01-2007,Alm.,21081,6,Villa,147,1997,
+Bystævnet 22 8520 Lystrup,22,2625000.0,03-01-2007,Alm.,17736,6,Villa,148,1966,
+Engvangen 49 8520 Lystrup,49,1473839.0,19-12-2006,Fam.,13398,4,Villa,110,1974,
+Koldkilde 45 8520 Lystrup,45,876000.0,13-12-2006,Alm.,6083,5,Villa,144,2008,
+Solbærhaven 131 8520 Lystrup,131,2065000.0,11-12-2006,Alm.,19299,4,Rækkehus,107,1986,
+Elev Tværvej 10 8520 Lystrup,10,2260000.0,10-12-2006,Alm.,13372,4,Villa,169,1976,
+Østre Havevej 41 8520 Lystrup,41,1525000.0,07-12-2006,Alm.,16052,3,Rækkehus,95,1961,
+Koldkilde 43 8520 Lystrup,43,926113.0,06-12-2006,Alm.,4630,6,Villa,200,2008,
+Koldkilde 33 8520 Lystrup,33,931200.0,29-11-2006,Alm.,5783,5,Villa,161,2008,
+Pannerupvej 32 8520 Lystrup,32,2000000.0,14-11-2006,Fam.,11111,5,Villa,180,1950,
+Hasselhaven 83 8520 Lystrup,83,2200000.0,07-11-2006,Alm.,17322,4,Villa,127,1975,
+Lystruplund 37 8520 Lystrup,37,2000000.0,07-11-2006,Fam.,20833,3,Rækkehus,96,1991,
+Havremarken 10 8520 Lystrup,10,3165000.0,30-10-2006,Alm.,19298,5,Villa,164,1970,
+Ørnelunden 18 8520 Lystrup,18,2460000.0,30-10-2006,Alm.,20163,6,Villa,122,1972,
+Blåbærhaven 77 8520 Lystrup,77,1550000.0,30-10-2006,Alm.,10197,5,Villa,152,2002,
+Sønderskovvej 69 8520 Lystrup,69,776954.0,02-10-2006,Andet,9360,3,Lejlighed,83,1969,
+Ellebæk Parkvej 90 8520 Lystrup,90,1725000.0,29-09-2006,Alm.,19827,3,Rækkehus,87,2003,
+Ellebæk Parkvej 88 8520 Lystrup,88,1995000.0,26-09-2006,Alm.,19000,4,Rækkehus,105,2003,
+Hovmarken 47 8520 Lystrup,47,2487000.0,13-09-2006,Alm.,17151,6,Villa,145,1975,
+Stokbrovej 28 8520 Lystrup,28,2549000.0,05-09-2006,Alm.,0,5,Villa,186,1972,
+Hasselhaven 58 8520 Lystrup,58,2570000.0,04-09-2006,Alm.,0,6,Villa,171,1974,
+Blåbærhaven 63 8520 Lystrup,63,2995000.0,23-08-2006,Alm.,23960,4,Villa,125,2001,
+Hyldehaven 38 8520 Lystrup,38,2245000.0,22-08-2006,Alm.,17539,4,Rækkehus,128,1970,
+Toften 6 8520 Lystrup,6,1895000.0,15-08-2006,Alm.,18950,3,Villa,100,1962,
+Lille Elstedvej 36 8520 Lystrup,36,2525000.0,10-08-2006,Alm.,16833,6,Villa,150,1964,
+Ellebrinken 69 8520 Lystrup,69,2550000.0,07-08-2006,Alm.,21610,4,Villa,118,2003,
+Bjørnholt 35 8520 Lystrup,35,2660000.0,01-08-2006,Alm.,21280,5,Villa,125,1999,
+Blåbærhaven 4 8520 Lystrup,4,3300000.0,19-07-2006,Alm.,22916,5,Villa,144,2003,
+Elmehaven 91 8520 Lystrup,91,1100051.0,17-07-2006,Alm.,0,5,Villa,204,2006,
+Ellebæk Parkvej 52 8520 Lystrup,52,1725000.0,03-07-2006,Alm.,19827,3,Rækkehus,87,2003,
+Skæringvej 103 8520 Lystrup,103,2050000.0,29-06-2006,Alm.,23033,4,Rækkehus,89,1860,
+Elmehaven 9 8520 Lystrup,9,3723750.0,26-06-2006,Alm.,20348,6,Villa,183,2007,
+Elmehaven 35 8520 Lystrup,35,1450000.0,23-06-2006,Alm.,7178,6,Villa,202,2011,
+Stokbrovej 90 8520 Lystrup,90,2195000.0,22-06-2006,Alm.,15349,6,Villa,143,1973,
+Lystrupvej 224 8520 Lystrup,224,1974000.0,15-06-2006,Alm.,15919,4,Rækkehus,124,1991,
+Hasselhaven 62 8520 Lystrup,62,2549000.0,14-06-2006,Alm.,13558,5,Villa,188,1979,
+Skavholmvej 3A 8520 Lystrup,0,3300000.0,13-06-2006,Alm.,25781,7,Erhverv,128,1987,
+Solbærhaven 25 8520 Lystrup,25,1980000.0,10-06-2006,Alm.,20412,4,Rækkehus,97,1986,
+Oldager 11 8520 Lystrup,11,975000.0,06-06-2006,Fam.,4452,5,Villa,219,1963,
+Lægårdsvej 5B 8520 Lystrup,0,4750000.0,29-05-2006,Alm.,40598,4,Lejlighed,117,1984,
+Stokbrovej 97 8520 Lystrup,97,2795000.0,18-05-2006,Alm.,19143,6,Villa,146,1985,
+Ellebrinken 97 8520 Lystrup,97,2625000.0,14-05-2006,Alm.,19444,4,Villa,135,2004,
+Solbærhaven 158 8520 Lystrup,158,2098000.0,11-05-2006,Alm.,23054,3,Rækkehus,91,2000,
+Birkebakken 37 8520 Lystrup,37,2195000.0,09-05-2006,Alm.,14931,6,Villa,147,1965,
+Rugmarken 48 8520 Lystrup,48,3195000.0,09-05-2006,Alm.,17085,5,Villa,187,1977,
+Skæringvej 10 8520 Lystrup,10,2195000.0,01-05-2006,Alm.,19774,4,Villa,111,1970,
+Kjeldsbjergvej 4 8520 Lystrup,4,2600000.0,24-04-2006,Alm.,0,4,Villa,123,1907,
+Elmehaven 93 8520 Lystrup,93,1695000.0,24-04-2006,Alm.,11225,3,Villa,151,2008,
+Elmehaven 44 8520 Lystrup,44,1250000.0,21-04-2006,Alm.,6313,5,Villa,198,2008,
+Solbærhaven 119 8520 Lystrup,119,1825000.0,18-04-2006,Alm.,19414,4,Rækkehus,94,1987,
+Hedeskovvej 60 8520 Lystrup,60,2400000.0,08-04-2006,Alm.,20000,4,Villa,120,1965,
+Kirsebærhaven 38 8520 Lystrup,38,1495000.0,30-03-2006,Alm.,23359,2,Rækkehus,64,1989,
+Elmehaven 6 8520 Lystrup,6,3619000.0,24-03-2006,Alm.,19775,6,Villa,183,2007,
+Elmehaven 11 8520 Lystrup,11,1356000.0,23-03-2006,Alm.,7409,5,Villa,183,2008,
+Vestre Havevej 44 8520 Lystrup,44,825000.0,21-03-2006,Fam.,12313,2,Rækkehus,67,1961,
+Petersmindevej 158 8520 Lystrup,158,2115000.0,13-03-2006,Alm.,18552,4,Villa,114,1968,
+Pilebækvej 6 8520 Lystrup,6,1930000.0,07-03-2006,Alm.,10903,4,Villa,177,1965,
+Brombærhaven 48 8520 Lystrup,48,2433000.0,07-03-2006,Alm.,11530,7,Villa,211,1979,
+Elmehaven 95 8520 Lystrup,95,1450000.0,03-03-2006,Alm.,6415,6,Villa,226,2008,
+Østre Havevej 7 8520 Lystrup,7,1649000.0,02-03-2006,Alm.,18738,3,Rækkehus,88,1986,
+Brombærhaven 8 8520 Lystrup,8,2565000.0,01-03-2006,Alm.,16337,6,Villa,157,1984,
+Birkehaven 47 8520 Lystrup,47,1212500.0,23-02-2006,Andet,0,3,Villa,172,1980,
+Elmehaven 29 8520 Lystrup,29,1131797.0,23-02-2006,Alm.,6777,5,Villa,167,2006,
+Elmehaven 65 8520 Lystrup,65,1210050.0,17-02-2006,Alm.,6685,5,Villa,181,2007,
+Elmehaven 30 8520 Lystrup,30,903000.0,08-02-2006,Alm.,4161,7,Villa,217,2007,
+Elmehaven 47 8520 Lystrup,47,970000.0,08-02-2006,Alm.,5132,5,Villa,189,2008,
+Elmehaven 20 8520 Lystrup,20,905000.0,08-02-2006,Alm.,5386,6,Villa,168,2007,
+Elmehaven 45 8520 Lystrup,45,1084800.0,02-02-2006,Alm.,5478,5,Villa,198,2007,
+Elmehaven 53 8520 Lystrup,53,1311000.0,02-02-2006,Alm.,6069,7,Villa,216,2007,
+Elmehaven 4 8520 Lystrup,4,811000.0,02-02-2006,Alm.,4223,6,Villa,192,2006,
+Lystrupvej 227 8520 Lystrup,227,2050000.0,30-01-2006,Alm.,21134,3,Villa,97,1952,
+Elstedvænge 36 8520 Lystrup,36,2290000.0,30-01-2006,Alm.,15065,5,Villa,152,1977,
+Elmehaven 18 8520 Lystrup,18,1002500.0,26-01-2006,Alm.,4619,6,Villa,217,2007,
+Elmehaven 48 8520 Lystrup,48,1200000.0,26-01-2006,Alm.,6122,5,Villa,196,2007,
+Lystrupvej 236 8520 Lystrup,236,3800000.0,26-01-2006,Alm.,53521,8,Industri o.l.,71,1959,
+Elmehaven 12 8520 Lystrup,12,851001.0,26-01-2006,Alm.,4192,5,Villa,203,2007,
+Elmehaven 69 8520 Lystrup,69,838257.0,25-01-2006,Alm.,4930,6,Villa,170,2007,
+Elmehaven 24 8520 Lystrup,24,1124001.0,25-01-2006,Alm.,5429,6,Villa,207,2007,
+Elmehaven 26 8520 Lystrup,26,1078008.0,25-01-2006,Alm.,5472,6,Villa,197,2006,
+Elmehaven 87 8520 Lystrup,87,1102102.0,25-01-2006,Alm.,5710,6,Villa,193,2009,
+Elmehaven 85 8520 Lystrup,85,1017117.0,25-01-2006,Alm.,3543,6,Villa,287,2008,
+Elmehaven 41 8520 Lystrup,41,1035034.0,25-01-2006,Alm.,5149,5,Villa,201,2008,
+Elmehaven 79 8520 Lystrup,79,1168004.0,24-01-2006,Alm.,6020,6,Villa,194,2007,
+Elmehaven 89 8520 Lystrup,89,1250000.0,24-01-2006,Alm.,6793,6,Villa,184,2007,
+Elmehaven 51 8520 Lystrup,51,1151151.0,24-01-2006,Alm.,6578,5,Villa,175,2007,
+Elmehaven 14 8520 Lystrup,14,1023000.0,24-01-2006,Alm.,5089,5,Villa,201,2007,
+Elmehaven 83 8520 Lystrup,83,1028500.0,24-01-2006,Alm.,5194,6,Villa,198,2009,
+Elmehaven 49 8520 Lystrup,49,1027314.0,24-01-2006,Alm.,5523,7,Villa,186,2007,
+Elmehaven 19 8520 Lystrup,19,852201.0,23-01-2006,Alm.,4926,6,Villa,173,2007,
+Elmehaven 73 8520 Lystrup,73,1008000.0,23-01-2006,Alm.,6339,5,Villa,159,2007,
+Hindbærhaven 23 8520 Lystrup,23,1900000.0,20-01-2006,Andet,9178,7,Villa,207,1981,
+Elmehaven 17 8520 Lystrup,17,876100.0,20-01-2006,Alm.,4840,5,Villa,181,2007,
+Elmehaven 34 8520 Lystrup,34,1015000.0,18-01-2006,Alm.,5833,6,Villa,174,2007,
+Elmehaven 37 8520 Lystrup,37,1087041.0,16-01-2006,Alm.,6394,6,Villa,170,2006,
+Elmehaven 13 8520 Lystrup,13,1205000.0,12-01-2006,Alm.,6657,5,Villa,181,2006,
+Elsted Skolevej 1 8520 Lystrup,1,2500000.0,12-01-2006,Alm.,20161,5,Villa,124,2000,
+Elmehaven 54 8520 Lystrup,54,1200000.0,11-01-2006,Alm.,6250,5,Villa,192,2007,
+Elmehaven 46 8520 Lystrup,46,1003000.0,11-01-2006,Alm.,5421,6,Villa,185,2008,
+Elmehaven 16 8520 Lystrup,16,1007000.0,11-01-2006,Alm.,7628,5,Villa,132,2006,
+Blåbærhaven 28 8520 Lystrup,28,3035000.0,21-12-2005,Alm.,22819,5,Villa,133,2003,
+Lille Elstedvej 39 8520 Lystrup,39,1995000.0,20-12-2005,Alm.,18644,4,Rækkehus,107,1985,
+Blåbærhaven 65 8520 Lystrup,65,1200000.0,16-12-2005,Fam.,7547,6,Villa,159,2002,
+Lille Elstedvej 26 8520 Lystrup,26,2095000.0,11-12-2005,Alm.,21822,4,Villa,96,1964,
+Stokbrovej 174 8520 Lystrup,174,2195000.0,01-12-2005,Alm.,12060,7,Villa,182,1985,
+Lille Elstedvej 15B 8520 Lystrup,0,3085000.0,01-12-2005,Alm.,17729,5,Rækkehus,174,1934,
+Hyldehaven 26 8520 Lystrup,26,1790000.0,28-11-2005,Alm.,13984,4,Rækkehus,128,1970,
+Ellebækvej 19 8520 Lystrup,19,2575000.0,24-11-2005,Alm.,18262,5,Villa,141,1973,
+Hindbærhaven 65 8520 Lystrup,65,2330000.0,18-11-2005,Alm.,15328,7,Villa,152,1984,
+Sønderskovvej 81 8520 Lystrup,81,1349000.0,16-11-2005,Alm.,16862,3,Lejlighed,80,1969,
+Elsted Kirkevej 11 8520 Lystrup,11,2135000.0,11-11-2005,Alm.,20141,3,Villa,106,2005,
+Lille Elstedvej 13B 8520 Lystrup,0,1875000.0,03-11-2005,Alm.,15368,4,Rækkehus,122,1959,
+Æblevænget 6 8520 Lystrup,6,1795000.0,31-10-2005,Alm.,16933,5,Rækkehus,106,1977,
+Solbærhaven 49 8520 Lystrup,49,1678000.0,30-10-2005,Alm.,17298,4,Rækkehus,97,1987,
+Asmusgårdsvej 36 8520 Lystrup,36,1225000.0,17-10-2005,Fam.,6730,5,Villa,182,2004,
+Lille Elstedvej 13C 8520 Lystrup,0,1695000.0,17-10-2005,Alm.,19709,3,Rækkehus,86,1959,
+Solbærhaven 174 8520 Lystrup,174,1670000.0,17-10-2005,Alm.,18351,3,Rækkehus,91,1999,
+Asmusgårdsvej 106 8520 Lystrup,106,2860000.0,14-10-2005,Alm.,20875,5,Villa,137,2004,
+Pannerupvej 36 8520 Lystrup,36,2995000.0,13-10-2005,Alm.,12965,5,Villa,231,1800,
+Stokbrovej 23 8520 Lystrup,23,1875000.0,10-10-2005,Alm.,13586,4,Villa,138,1973,
+Kjeldsbjergvej 15B 8520 Lystrup,0,750000.0,04-10-2005,Alm.,5395,4,Villa,139,1984,
+Rugmarken 63 8520 Lystrup,63,2575000.0,30-09-2005,Alm.,16093,4,Villa,160,1976,
+Vestre Havevej 14 8520 Lystrup,14,525000.0,29-09-2005,Andet,7835,2,Rækkehus,67,1961,
+Ørnedalen 12 8520 Lystrup,12,2908000.0,23-09-2005,Alm.,10498,8,Villa,277,1973,
+Damstræde 7 8520 Lystrup,7,735000.0,21-09-2005,Alm.,0,3,Villa,147,1880,
+Elleparken 54 8520 Lystrup,54,1990000.0,13-09-2005,Alm.,12594,4,Villa,158,1973,
+Ellebæk Parkvej 94 8520 Lystrup,94,1475000.0,13-09-2005,Alm.,17559,3,Rækkehus,84,2003,
+Spergelbakken 16 8520 Lystrup,16,2095000.0,11-09-2005,Fam.,13343,4,Villa,157,1969,
+Ellebæk Parkvej 86 8520 Lystrup,86,1745000.0,29-08-2005,Alm.,17450,4,Rækkehus,100,2003,
+Brombærhaven 24 8520 Lystrup,24,1326000.0,29-08-2005,Andet,10523,4,Villa,126,1979,
+Per Kjals Vej 53 8520 Lystrup,53,2995000.0,22-08-2005,Alm.,17114,4,Villa,175,1962,
+Stokbrovej 37 8520 Lystrup,37,1725000.0,16-08-2005,Alm.,13068,5,Villa,132,1972,
+Ellebæk Parkvej 152 8520 Lystrup,152,1524000.0,12-08-2005,Alm.,18361,3,Rækkehus,83,2003,
+Brombærhaven 46 8520 Lystrup,46,1925000.0,11-08-2005,Alm.,0,7,Villa,198,1980,
+Stokbrovej 105 8520 Lystrup,105,1749000.0,11-08-2005,Alm.,16657,4,Villa,105,1986,
+Ørnedalen 52 8520 Lystrup,52,2450000.0,10-08-2005,Alm.,13611,4,Villa,180,1974,
+Brombærhaven 38 8520 Lystrup,38,2395000.0,10-08-2005,Alm.,14515,5,Villa,165,1980,
+Sønderskovvej 35 8520 Lystrup,35,975000.0,03-08-2005,Alm.,18396,2,Lejlighed,53,1969,
+Dannevang 10C 8520 Lystrup,0,1550000.0,29-07-2005,Andet,0,5,Villa,131,1910,
+Elsted Kirkevej 7 8520 Lystrup,7,1882500.0,28-07-2005,Alm.,11990,4,Rækkehus,157,1900,
+Ørnehøjen 14 8520 Lystrup,14,2200000.0,27-07-2005,Alm.,9821,6,Villa,224,1974,
+Rugmarken 24 8520 Lystrup,24,2200000.0,19-07-2005,Alm.,13664,5,Villa,161,1975,
+Sønderskovvej 97 8520 Lystrup,97,600000.0,17-07-2005,Fam.,7228,3,Lejlighed,83,1969,
+Blåbærhaven 3 8520 Lystrup,3,2450000.0,15-07-2005,Alm.,16442,5,Villa,149,2003,
+Kirsebærhaven 29 8520 Lystrup,29,1165000.0,07-07-2005,Alm.,20086,2,Rækkehus,58,1989,
+Asmusgårdsvej 76 8520 Lystrup,76,2450000.0,04-07-2005,Alm.,11666,6,Villa,210,2004,
+Blåbærhaven 20 8520 Lystrup,20,2450000.0,01-07-2005,Alm.,14497,5,Villa,169,2003,
+Rugmarken 50 8520 Lystrup,50,1849000.0,01-07-2005,Alm.,0,6,Villa,160,1976,
+Hedeskovvej 14 8520 Lystrup,14,1150000.0,22-06-2005,Fam.,8518,6,Villa,135,1967,
+Æblevænget 36 8520 Lystrup,36,1425000.0,13-06-2005,Alm.,15659,4,Rækkehus,91,1977,
+Havremarken 23 8520 Lystrup,23,1895000.0,05-06-2005,Alm.,13159,5,Villa,144,1968,
+Enebakken 7 8520 Lystrup,7,1825000.0,02-06-2005,Alm.,13825,4,Villa,132,1967,
+Sønderskovvej 115 8520 Lystrup,115,790000.0,31-05-2005,Alm.,14905,2,Lejlighed,53,1969,
+Ellebækvej 32 8520 Lystrup,32,1595000.0,31-05-2005,Alm.,17722,4,Villa,90,1973,
+Abildhaven 2A 8520 Lystrup,0,3425000.0,19-05-2005,Alm.,18121,6,Villa,189,1902,
+Ellebæk Parkvej 16 8520 Lystrup,16,1695000.0,18-05-2005,Alm.,16782,4,Rækkehus,101,2003,
+Birkehaven 45 8520 Lystrup,45,1825000.0,17-05-2005,Alm.,12673,6,Villa,144,1981,
+Sønderskovvej 137 8520 Lystrup,137,960000.0,13-05-2005,Alm.,12151,3,Lejlighed,79,1973,
+Solbærhaven 37 8520 Lystrup,37,1345000.0,13-05-2005,Alm.,13865,4,Rækkehus,97,1986,
+Sønderskovvej 83 8520 Lystrup,83,1080000.0,13-05-2005,Alm.,13012,3,Lejlighed,83,1969,
+Ellebæk Parkvej 22 8520 Lystrup,22,1695000.0,11-05-2005,Alm.,16782,4,Rækkehus,101,2003,
+Ørnebakken 44 8520 Lystrup,44,1045000.0,10-05-2005,Alm.,6656,6,Villa,157,1974,
+Ellebæk Parkvej 142 8520 Lystrup,142,1695000.0,08-05-2005,Alm.,16782,4,Rækkehus,101,2003,
+Solbærhaven 61 8520 Lystrup,61,1380000.0,06-05-2005,Alm.,17922,3,Rækkehus,77,1986,
+Vestre Havevej 28 8520 Lystrup,28,1110000.0,06-05-2005,Alm.,12333,3,Rækkehus,90,1961,
+Birkehaven 11 8520 Lystrup,11,1665000.0,05-05-2005,Alm.,14734,4,Villa,113,1980,
+Ørnebakken 6 8520 Lystrup,6,2445000.0,27-04-2005,Alm.,0,7,Villa,199,1989,
+Ellebæk Parkvej 51 8520 Lystrup,51,1425000.0,27-04-2005,Alm.,17168,3,Rækkehus,83,2003,
+Rønnehaven 26 8520 Lystrup,26,2085000.0,26-04-2005,Andet,11090,6,Villa,188,1977,
+Østre Havevej 29 8520 Lystrup,29,1195000.0,21-04-2005,Alm.,11950,4,Rækkehus,100,1961,
+Hasselhaven 60 8520 Lystrup,60,2149000.0,20-04-2005,Alm.,14045,3,Villa,153,1976,
+Lystrupvej 246 8520 Lystrup,246,1075000.0,19-04-2005,Fam.,7789,4,Villa,138,1920,
+Rugmarken 71 8520 Lystrup,71,1400000.0,19-04-2005,Andet,6034,4,Villa,232,1975,
+Kirsebærhaven 51 8520 Lystrup,51,1125000.0,17-04-2005,Alm.,19396,2,Rækkehus,58,1990,
+Granbakken 13 8520 Lystrup,13,2049000.0,14-04-2005,Alm.,15883,5,Villa,129,1996,
+Elleparken 89 8520 Lystrup,89,2325000.0,07-04-2005,Alm.,15709,5,Villa,148,1972,
+Asmusgårdsvej 114 8520 Lystrup,114,2895000.0,30-03-2005,Alm.,16355,5,Villa,177,2005,
+Hasselhaven 95 8520 Lystrup,95,1920000.0,30-03-2005,Alm.,12800,4,Villa,150,1974,
+Ørnehøjen 26 8520 Lystrup,26,1785000.0,28-03-2005,Alm.,12934,4,Villa,138,1975,
+Ellebæk Parkvej 43 8520 Lystrup,43,1695000.0,21-03-2005,Alm.,16782,4,Rækkehus,101,2003,
+Hindbærhaven 30 8520 Lystrup,30,1745000.0,21-03-2005,Alm.,13960,4,Villa,125,1985,
+Ellebæk Parkvej 17 8520 Lystrup,17,1695000.0,20-03-2005,Alm.,16782,4,Rækkehus,101,2003,
+Rugmarken 35 8520 Lystrup,35,618955.0,17-03-2005,Andet,3309,6,Villa,187,1975,
+Ellebæk Parkvej 26 8520 Lystrup,26,1695000.0,11-03-2005,Alm.,16782,4,Rækkehus,101,2003,
+Birkebakken 16 8520 Lystrup,16,1825000.0,07-03-2005,Alm.,0,7,Villa,175,1964,
+Østre Havevej 27 8520 Lystrup,27,1225000.0,07-03-2005,Alm.,12250,4,Rækkehus,100,1961,
+Ellebæk Parkvej 148 8520 Lystrup,148,1425000.0,07-03-2005,Alm.,17168,3,Rækkehus,83,2003,
+Brombærhaven 68 8520 Lystrup,68,1985000.0,22-02-2005,Alm.,10846,6,Villa,183,1979,
+Ørnedalen 1 8520 Lystrup,1,619500.0,20-02-2005,Fam.,4623,5,Villa,134,1973,
+Møgelgårdsvej 22 8520 Lystrup,22,3900000.0,16-02-2005,Alm.,15234,9,Villa,256,1965,
+Havremarken 4 8520 Lystrup,4,1495000.0,15-02-2005,Alm.,14103,4,Villa,106,1971,
+Ellebæk Parkvej 128 8520 Lystrup,128,1695000.0,09-02-2005,Alm.,16782,4,Rækkehus,101,2003,
+Rørvangen 4 8520 Lystrup,4,1395000.0,09-02-2005,Alm.,13413,3,Rækkehus,104,1983,
+Revlingebakken 6 8520 Lystrup,6,1705000.0,07-02-2005,Alm.,12536,4,Villa,136,1965,
+Æblevænget 7 8520 Lystrup,7,1264000.0,04-02-2005,Alm.,14870,4,Rækkehus,85,1978,
+Hindbærhaven 60 8520 Lystrup,60,1650000.0,31-01-2005,Alm.,10248,6,Villa,161,1984,
+Engvangen 12 8520 Lystrup,12,1594000.0,30-01-2005,Alm.,14490,4,Villa,110,1974,
+Solbærhaven 172 8520 Lystrup,172,1345000.0,25-01-2005,Alm.,14780,3,Rækkehus,91,1999,
+Petersmindevej 150 8520 Lystrup,150,1465000.0,25-01-2005,Alm.,11910,4,Villa,123,1962,
+Lille Elstedvej 46 8520 Lystrup,46,1400000.0,20-01-2005,Alm.,11965,5,Villa,117,1963,
+Solbærhaven 140 8520 Lystrup,140,1250000.0,17-01-2005,Alm.,14705,3,Rækkehus,85,2000,
+Bygaden 9A 8520 Lystrup,0,2125000.0,17-01-2005,Alm.,10897,7,Villa,195,1918,
+Kæruldbakken 9 8520 Lystrup,9,1600000.0,12-01-2005,Alm.,12307,5,Villa,130,1966,
+Blåbærhaven 22 8520 Lystrup,22,2575000.0,05-01-2005,Alm.,18006,5,Villa,143,2004,
+Ørbækvej 10 8520 Lystrup,10,1449000.0,08-12-2004,Andet,5866,9,Villa,247,1972,
+Lystrup Stationsvej 6 8520 Lystrup,6,1225000.0,30-11-2004,Alm.,11778,3,Rækkehus,104,1982,
+Asmusgårdsvej 130 8520 Lystrup,130,488900.0,29-11-2004,Fam.,3237,5,Villa,151,2005,
+Sønderskovvej 85 8520 Lystrup,85,720000.0,26-11-2004,Alm.,12857,2,Lejlighed,56,1969,
+Lystrupvej 210 8520 Lystrup,210,1000000.0,24-11-2004,Alm.,7142,6,Villa,140,1961,
+Rugmarken 114 8520 Lystrup,114,1580000.0,22-11-2004,Alm.,9575,6,Villa,165,1978,
+Abildhaven 2B 8520 Lystrup,0,1600000.0,19-11-2004,Alm.,15384,5,Stuehus,104,1945,
+Porsbakken 2 8520 Lystrup,2,1650000.0,18-11-2004,Alm.,14601,4,Villa,113,1962,
+Stokbrovej 119 8520 Lystrup,119,1490000.0,31-10-2004,Alm.,10205,5,Villa,146,1987,
+Lystrupvej 255 8520 Lystrup,255,1550000.0,29-10-2004,Alm.,14622,4,Villa,106,1961,
+Elstedvej 150 8520 Lystrup,150,2500000.0,28-10-2004,Alm.,11261,5,Villa,222,1880,
+Birkebakken 6 8520 Lystrup,6,1232500.0,26-10-2004,Fam.,7250,4,Villa,170,1968,
+Elsted Kirkevej 9 8520 Lystrup,9,2365000.0,20-10-2004,Alm.,12853,5,Villa,184,1989,
+Stokbrovej 22 8520 Lystrup,22,1476000.0,19-10-2004,Fam.,8631,6,Villa,171,1972,
+Asmusgårdsvej 22 8520 Lystrup,22,549000.0,15-10-2004,Alm.,2904,6,Villa,189,2007,
+Hindbærhaven 52 8520 Lystrup,52,635005.0,15-10-2004,Andet,5039,5,Villa,126,1988,
+Egehaven 35 8520 Lystrup,35,1870000.0,12-10-2004,Alm.,14496,5,Villa,129,1999,
+Stokbrovej 100 8520 Lystrup,100,1575000.0,11-10-2004,Alm.,11413,5,Villa,138,1972,
+Elleparken 68 8520 Lystrup,68,2060500.0,05-10-2004,Alm.,11774,5,Villa,175,1972,
+Solbærhaven 77 8520 Lystrup,77,975000.0,01-10-2004,Alm.,16250,2,Rækkehus,60,1986,
+Elleparken 5 8520 Lystrup,5,495000.0,25-09-2004,Alm.,2796,5,Villa,177,1973,
+Birkehaven 21 8520 Lystrup,21,1575000.0,14-09-2004,Alm.,0,5,Villa,180,1980,
+Elleparken 62 8520 Lystrup,62,2295000.0,09-09-2004,Alm.,15402,5,Villa,149,1973,
+Hyldehaven 120 8520 Lystrup,120,1580000.0,09-09-2004,Alm.,12741,5,Villa,124,1975,
+Kirsebærhaven 34 8520 Lystrup,34,1075000.0,03-09-2004,Alm.,17063,2,Rækkehus,63,1989,
+Asmusgårdsvej 86 8520 Lystrup,86,2213870.0,17-08-2004,Alm.,13836,5,Villa,160,2005,
+Blåbærhaven 24 8520 Lystrup,24,2315000.0,14-08-2004,Alm.,14745,5,Villa,157,2004,
+Ellehøjen 16 8520 Lystrup,16,1400000.0,13-08-2004,Alm.,12500,4,Rækkehus,112,2000,
+Vennemindevej 73 8520 Lystrup,73,2000000.0,12-08-2004,Alm.,12987,5,Stuehus,154,1916,
+Østre Havevej 1 8520 Lystrup,1,1084000.0,30-07-2004,Alm.,11782,3,Rækkehus,92,1986,
+Lystrup Stationsvej 14 8520 Lystrup,14,1175000.0,19-07-2004,Alm.,11298,3,Rækkehus,104,1982,
+Elstedvænge 7 8520 Lystrup,7,1349000.0,17-07-2004,Alm.,11336,4,Villa,119,1976,
+Kirsebærhaven 13 8520 Lystrup,13,1707500.0,12-07-2004,Alm.,14111,4,Villa,121,1990,
+Rønnehaven 53 8520 Lystrup,53,1535000.0,06-07-2004,Auktion,9359,6,Villa,164,1976,
+Kjeldsbjergvej 22 8520 Lystrup,22,435000.0,02-07-2004,Alm.,2289,5,Villa,190,2006,
+Hindbærhaven 73 8520 Lystrup,73,1415000.0,01-07-2004,Alm.,0,6,Villa,153,1981,
+Solbærhaven 133 8520 Lystrup,133,1250000.0,01-07-2004,Alm.,11682,5,Rækkehus,107,1987,
+Birkehaven 49 8520 Lystrup,49,1695000.0,30-06-2004,Alm.,11770,5,Villa,144,1983,
+Ørnelunden 27 8520 Lystrup,27,1660000.0,29-06-2004,Alm.,9325,6,Villa,178,1976,
+Rørvangen 2B 8520 Lystrup,0,1850000.0,21-06-2004,Andet,8409,10,Villa,220,1922,
+Asmusgårdsvej 62 8520 Lystrup,62,550000.0,21-06-2004,Alm.,3767,5,Villa,146,2004,
+Kildevældet 1 8520 Lystrup,1,1200000.0,17-06-2004,Alm.,7317,5,Villa,164,1962,
+Bygmarken 4 8520 Lystrup,4,1775000.0,15-06-2004,Alm.,12326,5,Villa,144,1971,
+Ellebrinken 79 8520 Lystrup,79,425000.0,04-06-2004,Alm.,3125,5,Villa,136,2004,
+Lystrupvej 220 8520 Lystrup,220,1449000.0,28-05-2004,Alm.,11780,5,Villa,123,1947,
+Asmusgårdsvej 68 8520 Lystrup,68,500400.0,23-05-2004,Alm.,3051,5,Villa,164,2004,
+Solbærhaven 176 8520 Lystrup,176,1320000.0,20-05-2004,Alm.,14505,3,Rækkehus,91,1999,
+"Bremårevej 15, 1. TH 8520 Lystrup",0,2700000.0,19-05-2004,Alm.,19852,7,Lejlighed,136,1978,
+Per Kjals Vej 45 8520 Lystrup,45,1325000.0,17-05-2004,Alm.,11041,4,Villa,120,1962,
+Hindbærhaven 59 8520 Lystrup,59,1838700.0,14-05-2004,Alm.,17511,4,Villa,105,1981,
+Elsted Byvej 18 8520 Lystrup,18,900000.0,14-05-2004,Fam.,6923,6,Villa,130,1905,
+Asmusgårdsvej 60 8520 Lystrup,60,550000.0,10-05-2004,Alm.,3125,5,Villa,176,2004,
+Rugmarken 43 8520 Lystrup,43,1499000.0,06-05-2004,Alm.,7276,7,Villa,206,1973,
+Birkebakken 23 8520 Lystrup,23,2050000.0,06-05-2004,Alm.,7854,7,Villa,261,1965,
+Sønderskovvej 131 8520 Lystrup,131,965000.0,28-04-2004,Alm.,11768,3,Lejlighed,82,1973,
+Æblevænget 39 8520 Lystrup,39,1059999.0,28-04-2004,Alm.,14133,3,Rækkehus,75,1978,
+Bakkehældet 3 8520 Lystrup,3,1175000.0,27-04-2004,Fam.,9038,4,Villa,130,1976,
+Asmusgårdsvej 46 8520 Lystrup,46,485200.0,23-04-2004,Alm.,2940,5,Villa,165,2006,
+Asmusgårdsvej 64 8520 Lystrup,64,457200.0,22-04-2004,Alm.,2471,5,Villa,185,2004,
+Asmusgårdsvej 12 8520 Lystrup,12,480600.0,20-04-2004,Alm.,2626,6,Villa,183,2005,
+Asmusgårdsvej 58 8520 Lystrup,58,488000.0,19-04-2004,Alm.,2515,6,Villa,194,2005,
+Asmusgårdsvej 84 8520 Lystrup,84,450600.0,19-04-2004,Alm.,2560,4,Villa,176,2007,
+Elstedvænge 11 8520 Lystrup,11,1800000.0,12-04-2004,Alm.,10055,5,Villa,179,1977,
+Østre Havevej 25 8520 Lystrup,25,1079000.0,07-04-2004,Alm.,10790,4,Rækkehus,100,1961,
+Enebakken 16 8520 Lystrup,16,1715000.0,05-04-2004,Alm.,11209,4,Villa,153,1968,
+Birkehaven 31 8520 Lystrup,31,1699000.0,05-04-2004,Alm.,11326,5,Villa,150,1983,
+Hvedemarken 7 8520 Lystrup,7,1425000.0,05-04-2004,Alm.,0,7,Villa,168,1970,
+Ellebækvej 21 8520 Lystrup,21,1565000.0,04-04-2004,Alm.,12620,4,Villa,124,1972,
+Bygmarken 6 8520 Lystrup,6,1725000.0,01-04-2004,Alm.,10329,5,Villa,167,1968,
+Asmusgårdsvej 44 8520 Lystrup,44,484600.0,29-03-2004,Alm.,3106,5,Villa,156,2005,
+Havremarken 7 8520 Lystrup,7,1875000.0,29-03-2004,Alm.,11942,5,Villa,157,1971,
+Bygaden 10 8520 Lystrup,10,1595000.0,29-03-2004,Alm.,11992,4,Villa,133,1907,
+Asmusgårdsvej 8 8520 Lystrup,8,448800.0,29-03-2004,Alm.,3506,5,Villa,128,2004,
+Ørnedalen 44 8520 Lystrup,44,1175000.0,25-03-2004,Alm.,9251,5,Villa,127,1975,
+Blåbærhaven 58 8520 Lystrup,58,2585000.0,24-03-2004,Alm.,15116,5,Villa,171,2003,
+Birkebakken 3 8520 Lystrup,3,1481000.0,23-03-2004,Alm.,9873,5,Villa,150,1965,
+Østre Havevej 35 8520 Lystrup,35,985000.0,22-03-2004,Alm.,10368,3,Rækkehus,95,1961,
+Elleparken 43 8520 Lystrup,43,1420000.0,19-03-2004,Alm.,9861,5,Villa,144,1974,
+Asmusgårdsvej 98 8520 Lystrup,98,420000.0,19-03-2004,Alm.,3065,5,Villa,137,2005,
+Rørvangen 5 8520 Lystrup,5,1450000.0,19-03-2004,Alm.,7795,6,Villa,186,1973,
+Hasselhaven 46 8520 Lystrup,46,1812500.0,17-03-2004,Alm.,9539,8,Villa,190,1978,
+Ellehøjen 18 8520 Lystrup,18,1539000.0,16-03-2004,Alm.,13741,4,Rækkehus,112,2000,
+Elev Tværvej 7 8520 Lystrup,7,1595000.0,15-03-2004,Alm.,11642,4,Villa,137,1972,
+Blåbærhaven 30 8520 Lystrup,30,500000.0,14-03-2004,Alm.,3105,5,Villa,161,2004,
+Stokbrovej 125 8520 Lystrup,125,1470000.0,08-03-2004,Alm.,9545,6,Villa,154,1985,
+Asmusgårdsvej 32 8520 Lystrup,32,560700.0,06-03-2004,Alm.,4633,5,Villa,121,2004,
+Asmusgårdsvej 104 8520 Lystrup,104,492777.0,15-02-2004,Alm.,3445,4,Villa,143,2004,
+Elleparken 35 8520 Lystrup,35,1304000.0,13-02-2004,Alm.,9183,4,Villa,142,1972,
+Elsted Skolevej 3 8520 Lystrup,3,1650000.0,12-02-2004,Alm.,13200,5,Villa,125,1998,
+Rugmarken 47 8520 Lystrup,47,1595000.0,10-02-2004,Alm.,8668,6,Villa,184,1976,
+Hasselhaven 45 8520 Lystrup,45,1660000.0,06-02-2004,Alm.,13387,5,Villa,124,1995,
+Asmusgårdsvej 34 8520 Lystrup,34,492000.0,04-02-2004,Alm.,2748,5,Villa,179,2005,
+Ellebrinken 95 8520 Lystrup,95,450000.0,04-02-2004,Alm.,3629,4,Villa,124,2004,
+Elsted Skolevej 12 8520 Lystrup,12,1007863.0,04-02-2004,Alm.,8919,5,Villa,113,1957,
+Asmusgårdsvej 134 8520 Lystrup,134,486800.0,02-02-2004,Alm.,0,5,Villa,254,2004,
+"Kjeldsbjergvej 15A, ST. TH 8520 Lystrup",0,1034999.0,02-02-2004,Alm.,10048,5,Rækkehus,103,1985,
+Asmusgårdsvej 18 8520 Lystrup,18,487000.0,29-01-2004,Alm.,2987,5,Villa,163,2004,
+Asmusgårdsvej 20 8520 Lystrup,20,491400.0,29-01-2004,Alm.,2385,2,Villa,206,2005,
+Asmusgårdsvej 120 8520 Lystrup,120,484600.0,29-01-2004,Alm.,3511,4,Villa,138,2005,
+Asmusgårdsvej 26 8520 Lystrup,26,506200.0,28-01-2004,Alm.,2457,7,Villa,206,2005,
+Blåbærhaven 66 8520 Lystrup,66,2450000.0,28-01-2004,Alm.,0,8,Villa,257,2003,
+Asmusgårdsvej 132 8520 Lystrup,132,477000.0,21-01-2004,Alm.,3158,5,Villa,151,2004,
+Brombærhaven 52 8520 Lystrup,52,1870000.0,21-01-2004,Alm.,8947,6,Villa,209,1979,
+Ørnelunden 6 8520 Lystrup,6,1385000.0,16-01-2004,Alm.,8710,6,Villa,159,1976,
+Asmusgårdsvej 28 8520 Lystrup,28,485600.0,15-01-2004,Alm.,3237,5,Villa,150,2004,
+Asmusgårdsvej 90 8520 Lystrup,90,448800.0,15-01-2004,Alm.,2952,5,Villa,152,2004,
+Asmusgårdsvej 96 8520 Lystrup,96,482200.0,15-01-2004,Alm.,2922,5,Villa,165,2004,
+Asmusgårdsvej 108 8520 Lystrup,108,486400.0,15-01-2004,Alm.,2878,5,Villa,169,2005,
+Asmusgårdsvej 128 8520 Lystrup,128,507800.0,15-01-2004,Alm.,3478,4,Villa,146,2004,
+Asmusgårdsvej 126 8520 Lystrup,126,527000.0,15-01-2004,Alm.,2635,6,Villa,200,2005,
+Lystrupvej 250 8520 Lystrup,250,1260000.0,14-01-2004,Alm.,11454,4,Villa,110,1958,
+Rørvangen 12 8520 Lystrup,12,1385000.0,14-01-2004,Alm.,10183,5,Villa,136,1972,
+Vestre Havevej 18 8520 Lystrup,18,899000.0,13-01-2004,Alm.,13417,2,Rækkehus,67,1961,
+Asmusgårdsvej 70 8520 Lystrup,70,515200.0,09-01-2004,Alm.,3012,5,Villa,171,2004,
+Asmusgårdsvej 42 8520 Lystrup,42,498200.0,09-01-2004,Alm.,2678,5,Villa,186,2005,
+Asmusgårdsvej 116 8520 Lystrup,116,483200.0,06-01-2004,Alm.,0,6,Villa,204,2005,
+Asmusgårdsvej 122 8520 Lystrup,122,484400.0,06-01-2004,Alm.,3363,5,Villa,144,2004,
+Asmusgårdsvej 124 8520 Lystrup,124,509200.0,06-01-2004,Alm.,3372,5,Villa,151,2004,
+Sønderskovvej 151 8520 Lystrup,151,350000.0,11-12-2003,Alm.,6250,2,Lejlighed,56,1973,
+Blåbærhaven 62 8520 Lystrup,62,2275000.0,08-12-2003,Alm.,13787,5,Villa,165,2003,
+Stokbrovej 139 8520 Lystrup,139,342560.0,17-11-2003,Andet,1765,7,Villa,194,1910,
+Revlingebakken 8 8520 Lystrup,8,1395000.0,14-11-2003,Alm.,11528,4,Villa,121,1965,
+Egehaven 13 8520 Lystrup,13,1650000.0,12-11-2003,Alm.,10855,5,Villa,152,1999,
+Sønderskovvej 57 8520 Lystrup,57,670000.0,03-11-2003,Alm.,11964,2,Lejlighed,56,1969,
+Stokbrovej 45 8520 Lystrup,45,1249000.0,31-10-2003,Alm.,9251,3,Villa,135,1973,
+Lystrupvej 206 8520 Lystrup,206,500000.0,29-10-2003,Alm.,4424,3,Villa,113,1953,
+Blåbærhaven 46 8520 Lystrup,46,2110000.0,27-10-2003,Alm.,13187,5,Villa,160,2004,
+Ørnelunden 21 8520 Lystrup,21,1240000.0,23-10-2003,Alm.,10000,6,Villa,124,1976,
+Blåbærhaven 64 8520 Lystrup,64,1995000.0,23-10-2003,Alm.,13758,5,Villa,145,2003,
+Vestre Havevej 52 8520 Lystrup,52,875000.0,10-10-2003,Alm.,13059,2,Rækkehus,67,1961,
+Hovmuren 3C 8520 Lystrup,0,450000.0,05-10-2003,Alm.,3169,5,Villa,142,2004,
+Ellebrinken 83 8520 Lystrup,83,425000.0,25-09-2003,Alm.,3427,4,Villa,124,2004,
+Sønderskovvej 43 8520 Lystrup,43,762500.0,25-09-2003,Alm.,9651,3,Lejlighed,79,1969,
+Rugmarken 120 8520 Lystrup,120,1490000.0,15-09-2003,Alm.,0,8,Villa,238,1976,
+Sønderskovvej 139 8520 Lystrup,139,830949.0,10-09-2003,Alm.,10133,3,Lejlighed,82,1973,
+Stokbrovej 83 8520 Lystrup,83,1195000.0,07-09-2003,Alm.,6907,5,Villa,173,1975,
+Havremarken 18 8520 Lystrup,18,1825000.0,02-09-2003,Alm.,9918,5,Villa,184,1968,
+Sønderskovvej 37 8520 Lystrup,37,690000.0,25-08-2003,Alm.,13018,2,Lejlighed,53,1969,
+Hasselhaven 5 8520 Lystrup,5,1500000.0,24-08-2003,Alm.,10489,5,Villa,143,1990,
+Rørvangen 3 8520 Lystrup,3,1250000.0,13-08-2003,Alm.,11061,3,Villa,113,1972,
+Fyrrebakken 5 8520 Lystrup,5,1600000.0,01-08-2003,Alm.,10256,5,Villa,156,1964,
+Blåbærhaven 12 8520 Lystrup,12,1909000.0,30-07-2003,Alm.,12559,5,Villa,152,2003,
+Ellebrinken 41 8520 Lystrup,41,1565000.0,27-07-2003,Alm.,12620,4,Villa,124,2002,
+Elleparken 122 8520 Lystrup,122,1315000.0,25-07-2003,Alm.,9195,5,Villa,143,1975,
+Granbakken 5 8520 Lystrup,5,1505000.0,07-07-2003,Alm.,9176,5,Villa,164,1964,
+Vestre Havevej 24 8520 Lystrup,24,850000.0,04-07-2003,Alm.,12686,2,Rækkehus,67,1961,
+Brombærhaven 42 8520 Lystrup,42,1533609.0,01-07-2003,Alm.,11444,6,Villa,134,1983,
+Rønnehaven 75 8520 Lystrup,75,1700000.0,27-06-2003,Alm.,10000,6,Villa,170,1976,
+Elsted Kirkevej 5 8520 Lystrup,5,2125000.0,23-06-2003,Alm.,7783,7,Rækkehus,273,1900,
+Stokbrovej 64 8520 Lystrup,64,1498000.0,23-06-2003,Alm.,10934,4,Villa,137,1973,
+Per Kjals Vej 26 8520 Lystrup,26,1217000.0,12-06-2003,Alm.,0,5,Villa,133,1964,
+Porsbakken 11 8520 Lystrup,11,1334000.0,23-05-2003,Alm.,8496,5,Villa,157,1968,
+Blåbærhaven 54 8520 Lystrup,54,2300000.0,19-05-2003,Alm.,14197,5,Villa,162,2003,
+Stokbrovej 102 8520 Lystrup,102,600000.0,10-05-2003,Alm.,4511,4,Villa,133,1973,
+Elsted Byvej 28 8520 Lystrup,28,1110000.0,05-05-2003,Alm.,8809,4,Villa,126,1970,
+Hvedemarken 22 8520 Lystrup,22,1345000.0,05-05-2003,Alm.,0,7,Villa,179,1968,
+Birkehaven 61 8520 Lystrup,61,1300000.0,29-04-2003,Alm.,10655,5,Villa,122,1980,
+Ørnebakken 20 8520 Lystrup,20,1150000.0,11-04-2003,Alm.,0,5,Villa,162,1973,
+Ellebrinken 91 8520 Lystrup,91,475000.0,07-04-2003,Alm.,3492,4,Villa,136,2003,
+Granbakken 15 8520 Lystrup,15,1425000.0,02-04-2003,Alm.,0,5,Villa,156,1987,
+Stokbrovej 109 8520 Lystrup,109,368100.0,27-03-2003,Alm.,2329,7,Villa,158,1986,
+Rugmarken 5 8520 Lystrup,5,653500.0,26-03-2003,Andet,5491,3,Villa,119,1976,
+Blåbærhaven 18 8520 Lystrup,18,441833.0,05-03-2003,Alm.,3225,4,Villa,137,2004,
+Blåbærhaven 34 8520 Lystrup,34,506666.0,01-03-2003,Alm.,2261,7,Villa,224,2005,
+Elleparken 74 8520 Lystrup,74,1416720.0,18-02-2003,Alm.,9637,5,Villa,147,1971,
+Blåbærhaven 40 8520 Lystrup,40,1999850.0,05-02-2003,Alm.,12577,5,Villa,159,2003,
+Stokbrovej 25 8520 Lystrup,25,1445000.0,21-01-2003,Alm.,10248,4,Villa,141,1973,
+Lille Elstedvej 19 8520 Lystrup,19,1215000.0,15-01-2003,Alm.,11355,4,Rækkehus,107,1985,
+Ellebrinken 101 8520 Lystrup,101,450000.0,06-01-2003,Alm.,4687,3,Rækkehus,96,2003,
+Hyldehaven 20 8520 Lystrup,20,1100000.0,06-01-2003,Alm.,8593,4,Rækkehus,128,1970,
+Elleparken 110 8520 Lystrup,110,1253482.0,29-12-2002,Alm.,0,5,Villa,165,1972,
+Blåbærhaven 36 8520 Lystrup,36,446050.0,06-12-2002,Alm.,2437,5,Villa,183,2003,
+Blåbærhaven 8 8520 Lystrup,8,444216.0,02-12-2002,Fam.,2725,5,Villa,163,2003,
+Elstedvænge 31 8520 Lystrup,31,1410000.0,01-12-2002,Alm.,8392,5,Villa,168,1977,
+Solbærhaven 132 8520 Lystrup,132,1040000.0,27-11-2002,Alm.,10000,4,Rækkehus,104,1987,
+Blåbærhaven 50 8520 Lystrup,50,440550.0,21-11-2002,Alm.,2087,7,Villa,211,2007,
+Hedeskovvej 28 8520 Lystrup,28,1350000.0,21-11-2002,Alm.,8881,4,Villa,152,1963,
+Elsted Kirkevej 18 8520 Lystrup,18,1078000.0,15-11-2002,Alm.,10266,4,Rækkehus,105,1985,
+Blåbærhaven 10 8520 Lystrup,10,451916.0,06-11-2002,Alm.,2597,4,Villa,174,2004,
+Blåbærhaven 16 8520 Lystrup,16,441283.0,05-11-2002,Alm.,2740,5,Villa,161,2004,
+Elleparken 14 8520 Lystrup,14,1410000.0,03-11-2002,Alm.,0,6,Villa,172,1972,
+Blåbærhaven 14 8520 Lystrup,14,430650.0,29-10-2002,Alm.,0,6,Villa,187,2003,
+Rugmarken 26 8520 Lystrup,26,1345000.0,29-10-2002,Alm.,8406,6,Villa,160,1976,
+Kirsebærhaven 23 8520 Lystrup,23,785000.0,29-10-2002,Alm.,13534,2,Rækkehus,58,1989,
+Kirsebærhaven 21 8520 Lystrup,21,750000.0,29-10-2002,Alm.,12931,2,Rækkehus,58,1989,
+Hasselhaven 25 8520 Lystrup,25,1712000.0,28-10-2002,Alm.,11726,5,Villa,146,1995,
+Ved Gadekæret 14 8520 Lystrup,14,1850000.0,27-10-2002,Alm.,5409,9,Villa,342,1848,
+Blåbærhaven 48 8520 Lystrup,48,448250.0,24-10-2002,Alm.,2094,7,Villa,214,2005,
+Sønderskovvej 49 8520 Lystrup,49,336418.0,03-10-2002,Alm.,4102,3,Lejlighed,82,1969,
+Hvedemarken 18 8520 Lystrup,18,1297160.0,12-09-2002,Alm.,0,5,Villa,149,1969,
+Ørnelunden 15 8520 Lystrup,15,1450500.0,09-09-2002,Alm.,9238,4,Villa,157,1974,
+Enebakken 8 8520 Lystrup,8,1450000.0,05-09-2002,Alm.,10139,6,Villa,143,1969,
+Kirsebærhaven 41 8520 Lystrup,41,654500.0,02-09-2002,Fam.,11284,2,Rækkehus,58,1990,
+Ørnebakken 29 8520 Lystrup,29,1573997.0,30-08-2002,Alm.,9837,6,Villa,160,1973,
+Stokbrovej 170 8520 Lystrup,170,1050000.0,28-08-2002,Alm.,9292,4,Villa,113,1985,
+Åvangen 8 8520 Lystrup,8,863245.0,28-08-2002,Alm.,8992,3,Villa,96,1961,
+Blåbærhaven 33 8520 Lystrup,33,1800000.0,26-08-2002,Alm.,11538,5,Villa,156,2000,
+Birkebakken 25 8520 Lystrup,25,1710625.0,23-08-2002,Alm.,6869,4,Villa,249,1966,
+Bremårevej 3 8520 Lystrup,3,2000000.0,08-08-2002,Alm.,117647,10,Erhverv,17,1983,
+Stokbrovej 24 8520 Lystrup,24,725000.0,05-08-2002,Auktion,3485,6,Villa,208,1972,
+Munkhøj 6 8520 Lystrup,6,675000.0,25-07-2002,Fam.,0,6,Villa,213,1920,
+Hvedemarken 21 8520 Lystrup,21,1825000.0,22-07-2002,Alm.,9034,5,Villa,202,1968,
+Solbærhaven 145 8520 Lystrup,145,1200000.0,18-07-2002,Alm.,9756,5,Rækkehus,123,1986,
+Mosevangen 9 8520 Lystrup,9,1288000.0,11-07-2002,Alm.,11398,4,Villa,113,1962,
+Solbærhaven 159 8520 Lystrup,159,1123000.0,03-07-2002,Alm.,10302,5,Rækkehus,109,1987,
+Vestre Havevej 12 8520 Lystrup,12,839000.0,30-06-2002,Alm.,12522,2,Rækkehus,67,1961,
+Stokbrovej 142 8520 Lystrup,142,1149133.0,21-06-2002,Alm.,9048,5,Villa,127,1973,
+Østre Havevej 37 8520 Lystrup,37,824999.0,17-06-2002,Alm.,8684,3,Rækkehus,95,1961,
+Østre Havevej 13 8520 Lystrup,13,859000.0,13-06-2002,Alm.,9761,3,Rækkehus,88,1986,
+Slåenbakken 13 8520 Lystrup,13,1240000.0,13-06-2002,Alm.,9051,5,Villa,137,1963,
+Birkehaven 17 8520 Lystrup,17,1336642.0,30-05-2002,Alm.,10956,4,Villa,122,1980,
+Stokbrovej 164 8520 Lystrup,164,1045000.0,23-05-2002,Alm.,9952,4,Villa,105,1986,
+Enebakken 12 8520 Lystrup,12,1390000.0,17-05-2002,Alm.,0,5,Villa,158,1966,
+Lille Elstedvej 33 8520 Lystrup,33,1229150.0,16-05-2002,Alm.,11487,4,Rækkehus,107,1986,
+Blåbærhaven 35 8520 Lystrup,35,453017.0,16-05-2002,Alm.,2633,5,Villa,172,2002,
+Ved Gadekæret 13 8520 Lystrup,13,1158000.0,08-05-2002,Alm.,8839,4,Rækkehus,131,1985,
+Blåbærhaven 45 8520 Lystrup,45,442383.0,06-05-2002,Alm.,3050,5,Villa,145,2002,
+Stokbrovej 129 8520 Lystrup,129,1065000.0,01-05-2002,Alm.,0,7,Villa,186,1986,
+Kirsebærhaven 59 8520 Lystrup,59,1100000.0,25-04-2002,Alm.,11224,3,Rækkehus,98,1989,
+Rugmarken 23 8520 Lystrup,23,598428.0,13-04-2002,Andet,4305,5,Villa,139,1975,
+Skæringvej 21 8520 Lystrup,21,1220000.0,03-04-2002,Alm.,8970,5,Rækkehus,136,1980,
+Hyldehaven 1 8520 Lystrup,1,1360449.0,03-04-2002,Alm.,10003,5,Villa,136,1973,
+Hindbærhaven 54 8520 Lystrup,54,1300000.0,02-04-2002,Fam.,12149,4,Villa,107,1985,
+Vestre Havevej 56 8520 Lystrup,56,835377.0,26-03-2002,Alm.,9281,3,Rækkehus,90,1961,
+Birkehaven 35 8520 Lystrup,35,465177.0,25-03-2002,Andet,3121,6,Villa,149,1981,
+Blåbærhaven 49 8520 Lystrup,49,460167.0,24-03-2002,Alm.,3286,6,Villa,140,2002,
+Æblevænget 3 8520 Lystrup,3,1033350.0,08-03-2002,Alm.,12157,4,Rækkehus,85,1978,
+Kæruldbakken 6 8520 Lystrup,6,1325000.0,05-03-2002,Alm.,7485,5,Villa,177,1964,
+Egehaven 7 8520 Lystrup,7,1860000.0,01-03-2002,Alm.,11272,6,Villa,165,2000,
+Hedeskovvej 66 8520 Lystrup,66,1360000.0,01-03-2002,Alm.,9714,5,Villa,140,1964,
+Hindbærhaven 10 8520 Lystrup,10,1212500.0,20-02-2002,Alm.,10452,4,Villa,116,1980,
+Rugmarken 70 8520 Lystrup,70,1200000.0,19-02-2002,Alm.,9160,5,Villa,131,1975,
+Solbærhaven 114 8520 Lystrup,114,987000.0,07-02-2002,Alm.,11344,4,Rækkehus,87,1987,
+Rugmarken 69 8520 Lystrup,69,1190344.0,07-02-2002,Alm.,10002,5,Villa,119,1975,
+Ørnebakken 25 8520 Lystrup,25,1395000.0,01-02-2002,Alm.,0,7,Villa,191,1973,
+Ørnelunden 22 8520 Lystrup,22,1299140.0,28-01-2002,Alm.,7732,5,Villa,168,1976,
+Stokbrovej 79 8520 Lystrup,79,998000.0,28-01-2002,Alm.,7179,5,Villa,139,1973,
+Elleparken 83 8520 Lystrup,83,816000.0,09-01-2002,Andet,3849,7,Villa,212,1977,
+Elsted Skolevej 15 8520 Lystrup,15,1714505.0,03-01-2002,Alm.,11061,5,Villa,155,1998,
+Munkhøj 4 8520 Lystrup,4,960999.0,02-01-2002,Alm.,7749,5,Villa,124,1962,
+Stokbrovej 51 8520 Lystrup,51,1160629.0,06-12-2001,Alm.,8410,4,Villa,138,1973,
+Lystrupvej 218 8520 Lystrup,218,825000.0,03-12-2001,Alm.,6445,4,Villa,128,1962,
+Ørnedalen 24 8520 Lystrup,24,1550000.0,21-11-2001,Fam.,7524,6,Villa,206,1978,
+Egehaven 8 8520 Lystrup,8,1298000.0,07-11-2001,Alm.,11189,4,Rækkehus,116,2002,
+Egehaven 14 8520 Lystrup,14,1298000.0,05-11-2001,Alm.,11189,4,Rækkehus,116,2001,
+Elsted Byvej 25 8520 Lystrup,25,1049000.0,25-10-2001,Alm.,6639,8,Rækkehus,158,1870,
+Kirsebærhaven 53 8520 Lystrup,53,805000.0,24-10-2001,Alm.,13879,2,Rækkehus,58,1989,
+Ellehøjen 3 8520 Lystrup,3,1230000.0,23-10-2001,Alm.,11181,4,Rækkehus,110,2002,
+Østre Havevej 39 8520 Lystrup,39,750000.0,12-10-2001,Alm.,7894,3,Rækkehus,95,1961,
+Enebakken 17 8520 Lystrup,17,1575000.0,05-10-2001,Alm.,9051,6,Villa,174,1966,
+Egehaven 47 8520 Lystrup,47,2146540.0,01-10-2001,Alm.,0,7,Villa,179,1999,
+Per Kjals Vej 21 8520 Lystrup,21,950000.0,19-09-2001,Alm.,7196,5,Villa,132,1962,
+Slåenbakken 20 8520 Lystrup,20,1275000.0,19-09-2001,Fam.,9659,4,Villa,132,1966,
+Østre Havevej 11 8520 Lystrup,11,879710.0,14-09-2001,Alm.,9996,3,Rækkehus,88,1986,
+Dannevang 20 8520 Lystrup,20,1525000.0,07-09-2001,Alm.,7193,7,Villa,212,1972,
+Blåbærhaven 47 8520 Lystrup,47,456133.0,30-08-2001,Alm.,0,6,Villa,210,2002,
+Hyldehaven 66 8520 Lystrup,66,985000.0,19-08-2001,Alm.,9850,4,Rækkehus,100,1973,
+Blåbærhaven 15 8520 Lystrup,15,444767.0,12-08-2001,Alm.,2180,7,Villa,204,2002,
+Solbærhaven 79 8520 Lystrup,79,749100.0,11-08-2001,Alm.,12485,2,Rækkehus,60,1986,
+Egehaven 2 8520 Lystrup,2,1298000.0,08-08-2001,Alm.,11189,4,Rækkehus,116,2001,
+Egehaven 26 8520 Lystrup,26,1298000.0,02-08-2001,Alm.,11189,4,Rækkehus,116,2001,
+Blåbærhaven 69 8520 Lystrup,69,442750.0,31-07-2001,Alm.,0,8,Villa,236,2002,
+Skæringvej 6B 8520 Lystrup,0,850000.0,04-07-2001,Alm.,8854,3,Rækkehus,96,1985,
+Solbærhaven 116 8520 Lystrup,116,430537.0,24-06-2001,Alm.,4139,4,Rækkehus,104,1986,
+Bygmarken 13 8520 Lystrup,13,1585000.0,19-06-2001,Alm.,9323,7,Villa,170,1968,
+Rugmarken 10 8520 Lystrup,10,1274950.0,07-06-2001,Alm.,10624,4,Villa,120,1975,
+Egehaven 6 8520 Lystrup,6,1298000.0,29-05-2001,Alm.,11189,4,Rækkehus,116,2001,
+Ørnedalen 20 8520 Lystrup,20,1260000.0,23-05-2001,Alm.,8630,5,Villa,146,1973,
+Ellebækvej 14 8520 Lystrup,14,889087.0,23-05-2001,Alm.,8631,3,Rækkehus,103,1966,
+Ørnelunden 1A 8520 Lystrup,0,1295000.0,15-05-2001,Alm.,10196,4,Villa,127,1976,
+Hedeskovvej 16 8520 Lystrup,16,1110000.0,09-05-2001,Alm.,9568,5,Villa,116,1966,
+Blåbærhaven 31 8520 Lystrup,31,1650000.0,08-05-2001,Alm.,0,6,Villa,163,2001,
+Engvangen 47 8520 Lystrup,47,1214162.0,06-05-2001,Alm.,7358,7,Villa,165,1974,
+Hindbærhaven 25 8520 Lystrup,25,1200000.0,30-04-2001,Alm.,9230,4,Villa,130,1981,
+Bygaden 12 8520 Lystrup,12,1306950.0,26-04-2001,Alm.,8377,6,Villa,156,1875,
+Egehaven 24 8520 Lystrup,24,1298000.0,17-04-2001,Alm.,11189,4,Rækkehus,116,2001,
+Egehaven 20 8520 Lystrup,20,1298000.0,09-04-2001,Alm.,11189,3,Rækkehus,116,2001,
+Stokbrovej 103 8520 Lystrup,103,1034000.0,05-04-2001,Alm.,0,4,Villa,118,1986,
+Blåbærhaven 51 8520 Lystrup,51,447333.0,04-04-2001,Alm.,2418,6,Villa,185,2001,
+Rugmarken 62 8520 Lystrup,62,1540620.0,03-04-2001,Alm.,9170,5,Villa,168,1975,
+Mølbakvej 9 8520 Lystrup,9,1550000.0,03-04-2001,Alm.,12301,3,Villa,126,1980,
+Lille Elstedvej 43 8520 Lystrup,43,500000.0,02-04-2001,Andet,4672,4,Rækkehus,107,1985,
+Stokbrovej 184 8520 Lystrup,184,848999.0,01-04-2001,Alm.,8085,4,Villa,105,1986,
+Sønderskovvej 149 8520 Lystrup,149,559000.0,12-03-2001,Alm.,10547,2,Lejlighed,53,1973,
+Ørnelunden 11 8520 Lystrup,11,1205000.0,06-03-2001,Alm.,0,4,Villa,157,1976,
+Ellebækvej 4 8520 Lystrup,4,999000.0,23-02-2001,Alm.,7684,4,Villa,130,1966,
+Ellebrinken 15 8520 Lystrup,15,34750.0,19-02-2001,Andet,0,5,Stuehus,197,1908,
+Solbærhaven 3 8520 Lystrup,3,965000.0,14-02-2001,Alm.,9948,4,Rækkehus,97,1986,
+Solbærhaven 83 8520 Lystrup,83,798000.0,13-02-2001,Alm.,13300,2,Rækkehus,60,1986,
+Elsted Skolevej 5 8520 Lystrup,5,1925000.0,12-02-2001,Alm.,11127,5,Villa,173,1998,
+Engvangen 26 8520 Lystrup,26,1148000.0,09-02-2001,Alm.,0,5,Villa,180,1978,
+Stokbrovej 180 8520 Lystrup,180,1330000.0,25-01-2001,Alm.,0,7,Villa,178,1985,
+Brombærhaven 36 8520 Lystrup,36,1110000.0,12-01-2001,Alm.,6686,5,Villa,166,1979,
+Vestre Havevej 38 8520 Lystrup,38,781898.0,20-12-2000,Alm.,11670,2,Rækkehus,67,1961,
+Bystævnet 14 8520 Lystrup,14,1310000.0,18-12-2000,Alm.,7237,7,Villa,181,1962,
+Ellehøjen 5 8520 Lystrup,5,1215000.0,14-12-2000,Alm.,11045,4,Rækkehus,110,2001,
+Petersmindevej 139 8520 Lystrup,139,550000.0,04-12-2000,Andet,3525,7,Villa,156,1802,
+Ellehøjen 13 8520 Lystrup,13,1185000.0,20-11-2000,Alm.,10772,4,Rækkehus,110,2001,
+Hindbærhaven 55 8520 Lystrup,55,1112438.0,05-11-2000,Alm.,0,6,Villa,187,1981,
+Egehaven 61 8520 Lystrup,61,1880000.0,10-10-2000,Alm.,0,5,Villa,175,2000,
+Sønderskovvej 13 8520 Lystrup,13,635000.0,02-10-2000,Alm.,7743,3,Lejlighed,82,1969,
+Solbærhaven 144 8520 Lystrup,144,995000.0,29-09-2000,Alm.,11705,3,Rækkehus,85,2000,
+Lyngbakken 15 8520 Lystrup,15,1400000.0,27-09-2000,Alm.,10606,4,Villa,132,1967,
+Ellebækvej 20 8520 Lystrup,20,1325000.0,24-09-2000,Alm.,7361,5,Villa,180,1972,
+Solbærhaven 142 8520 Lystrup,142,995000.0,22-09-2000,Alm.,11705,3,Rækkehus,85,2000,
+Solbærhaven 152 8520 Lystrup,152,1024000.0,22-09-2000,Alm.,11252,3,Rækkehus,91,2000,
+Solbærhaven 156 8520 Lystrup,156,1034100.0,22-09-2000,Alm.,11363,3,Rækkehus,91,2000,
+Møgelgårdsvej 57 8520 Lystrup,57,523000.0,18-09-2000,Alm.,3094,6,Villa,169,1968,
+Kirsebærhaven 17 8520 Lystrup,17,785000.0,13-09-2000,Alm.,13534,2,Rækkehus,58,1989,
+Ellehøjen 22 8520 Lystrup,22,1185000.0,06-09-2000,Alm.,10772,4,Rækkehus,110,2000,
+Ellehøjen 9 8520 Lystrup,9,1100000.0,31-08-2000,Alm.,9821,4,Rækkehus,112,2001,
+Egehaven 43 8520 Lystrup,43,2125000.0,23-08-2000,Alm.,10071,6,Villa,211,1998,
+Ellehøjen 12 8520 Lystrup,12,1224000.0,08-08-2000,Alm.,11127,4,Rækkehus,110,2000,
+Birkehaven 25 8520 Lystrup,25,1240000.0,07-08-2000,Alm.,9841,4,Villa,126,1980,
+Sønderskovvej 75 8520 Lystrup,75,729000.0,06-08-2000,Alm.,8783,3,Lejlighed,83,1969,
+Sønderskovvej 95 8520 Lystrup,95,515000.0,29-07-2000,Alm.,9196,2,Lejlighed,56,1969,
+Stokbrovej 120 8520 Lystrup,120,1295000.0,28-07-2000,Alm.,0,5,Villa,166,1973,
+Hvedemarken 6 8520 Lystrup,6,1425000.0,26-06-2000,Alm.,7500,4,Villa,190,1969,
+Elsted Byvej 35 8520 Lystrup,35,865000.0,22-06-2000,Alm.,0,4,Villa,117,1900,
+Hyldehaven 102 8520 Lystrup,102,1212000.0,06-06-2000,Alm.,10100,4,Villa,120,1974,
+Rønnehaven 22 8520 Lystrup,22,1334648.0,05-06-2000,Alm.,6809,6,Villa,196,1976,
+Elleparken 103 8520 Lystrup,103,1400000.0,29-05-2000,Alm.,0,7,Villa,227,1977,
+Stokbrovej 75 8520 Lystrup,75,1113268.0,29-05-2000,Alm.,8906,4,Villa,125,1977,
+Elleparken 22 8520 Lystrup,22,1184928.0,18-05-2000,Alm.,7899,6,Villa,150,1971,
+Ellebækvej 11 8520 Lystrup,11,967000.0,18-05-2000,Alm.,9209,4,Rækkehus,105,1969,
+Blåbærhaven 57 8520 Lystrup,57,446417.0,25-04-2000,Alm.,2705,5,Villa,165,2001,
+Lille Elstedvej 60 8520 Lystrup,60,1300000.0,18-04-2000,Alm.,7831,8,Villa,166,1968,
+Brombærhaven 74 8520 Lystrup,74,1529006.0,03-04-2000,Alm.,8994,5,Villa,170,1979,
+Blåbærhaven 17 8520 Lystrup,17,447883.0,30-03-2000,Alm.,2195,6,Villa,204,2001,
+Ellebækvej 33 8520 Lystrup,33,1121640.0,23-03-2000,Alm.,0,6,Villa,184,1968,
+Stokbrovej 94 8520 Lystrup,94,1339933.0,23-03-2000,Alm.,9780,5,Villa,137,1975,
+Rugmarken 86 8520 Lystrup,86,1486000.0,20-03-2000,Alm.,8741,5,Villa,170,1973,
+Æblevænget 15 8520 Lystrup,15,875000.0,16-03-2000,Alm.,11513,3,Rækkehus,76,1978,
+Hindbærhaven 58 8520 Lystrup,58,1250000.0,09-03-2000,Alm.,0,5,Villa,162,1988,
+Elleparken 7 8520 Lystrup,7,1650000.0,01-03-2000,Alm.,9482,7,Villa,174,1976,
+Blåbærhaven 43 8520 Lystrup,43,445683.0,24-02-2000,Alm.,3253,5,Villa,137,2000,
+Toften 5 8520 Lystrup,5,404986.0,23-02-2000,Fam.,3139,6,Villa,129,1962,
+Egehaven 21 8520 Lystrup,21,394000.0,20-02-2000,Alm.,3177,4,Villa,124,2000,
+Dannevang 11 8520 Lystrup,11,1315000.0,17-02-2000,Alm.,6383,7,Villa,206,1974,
+Solbærhaven 157 8520 Lystrup,157,1059000.0,15-02-2000,Alm.,9897,5,Rækkehus,107,1987,
+Blåbærhaven 5 8520 Lystrup,5,555000.0,30-01-2000,Alm.,3908,5,Villa,142,2001,
+Møgelhøj 12 8520 Lystrup,12,806400.0,28-01-2000,Alm.,5136,4,Villa,157,2001,
+Rugmarken 52 8520 Lystrup,52,1480000.0,28-01-2000,Alm.,9932,5,Villa,149,1976,
+Hyldehaven 19 8520 Lystrup,19,1085000.0,28-01-2000,Alm.,8410,3,Villa,129,1972,
+Lille Elstedvej 52 8520 Lystrup,52,1107000.0,24-01-2000,Alm.,8515,5,Villa,130,1967,
+Ørnebakken 7 8520 Lystrup,7,677890.0,17-01-2000,Andet,4158,6,Villa,163,1973,
+Solbærhaven 148 8520 Lystrup,148,1050600.0,17-01-2000,Alm.,11545,3,Rækkehus,91,2000,
+Ørnelunden 17 8520 Lystrup,17,1270000.0,08-01-2000,Alm.,7559,5,Villa,168,1978,
+Stokbrovej 144 8520 Lystrup,144,1258093.0,07-01-2000,Alm.,6586,5,Villa,191,1976,
+Havremarken 22 8520 Lystrup,22,1628000.0,28-12-1999,Alm.,8435,9,Villa,193,1969,
+Blåbærhaven 13 8520 Lystrup,13,470250.0,16-12-1999,Alm.,2271,6,Villa,207,2001,
+Blåbærhaven 29 8520 Lystrup,29,152411.0,14-12-1999,Fam.,718,7,Villa,212,2000,
+Hovmuren 3B 8520 Lystrup,0,750000.0,07-12-1999,Fam.,3571,8,Stuehus,210,1857,
+Egehaven 55 8520 Lystrup,55,1635000.0,03-12-1999,Alm.,0,8,Villa,231,1999,
+Blåbærhaven 71 8520 Lystrup,71,442200.0,01-12-1999,Alm.,2291,5,Villa,193,2001,
+Blåbærhaven 23 8520 Lystrup,23,440000.0,30-11-1999,Alm.,3142,6,Villa,140,2001,
+Blåbærhaven 41 8520 Lystrup,41,448983.0,30-11-1999,Alm.,3013,5,Villa,149,2001,
+Hindbærhaven 19 8520 Lystrup,19,1302340.0,29-11-1999,Alm.,0,7,Villa,148,1981,
+Kirsebærhaven 5 8520 Lystrup,5,1365000.0,26-11-1999,Alm.,11280,4,Villa,121,1988,
+Blåbærhaven 7 8520 Lystrup,7,447517.0,25-11-1999,Alm.,2963,5,Villa,151,2000,
+Blåbærhaven 53 8520 Lystrup,53,444033.0,23-11-1999,Alm.,3041,6,Villa,146,2000,
+Bygaden 15A 8520 Lystrup,0,1550277.0,19-11-1999,Alm.,8858,5,Villa,175,2001,
+Blåbærhaven 61 8520 Lystrup,61,448067.0,16-11-1999,Alm.,0,9,Villa,225,2000,
+Blåbærhaven 75 8520 Lystrup,75,460900.0,15-11-1999,Alm.,2664,5,Villa,173,2001,
+Blåbærhaven 11 8520 Lystrup,11,474467.0,14-11-1999,Alm.,2875,5,Villa,165,2004,
+Egehaven 3 8520 Lystrup,3,349000.0,04-11-1999,Alm.,2406,6,Villa,145,2000,
+Engvangen 24 8520 Lystrup,24,1210000.0,01-11-1999,Alm.,9918,4,Villa,122,1978,
+Elleparken 44 8520 Lystrup,44,1435812.0,29-10-1999,Alm.,9263,6,Villa,155,1976,
+Rugmarken 30 8520 Lystrup,30,1200000.0,28-10-1999,Alm.,8163,3,Villa,147,1976,
+Bystævnet 9 8520 Lystrup,9,1000000.0,26-10-1999,Alm.,0,6,Villa,165,1965,
+Ellebækvej 12 8520 Lystrup,12,969000.0,18-10-1999,Alm.,9407,4,Rækkehus,103,1968,
+Pilebækvej 3 8520 Lystrup,3,1125000.0,14-10-1999,Alm.,8789,5,Villa,128,1964,
+Stokbrovej 81 8520 Lystrup,81,1256453.0,13-10-1999,Alm.,8158,4,Villa,154,1973,
+Lystrup Stationsvej 12 8520 Lystrup,12,1006880.0,06-10-1999,Alm.,9681,3,Rækkehus,104,1982,
+Lille Elstedvej 42 8520 Lystrup,42,1199000.0,23-09-1999,Alm.,11528,4,Villa,104,1962,
+Elleparken 16 8520 Lystrup,16,1935000.0,23-09-1999,Alm.,7865,7,Villa,246,1977,
+Solbærhaven 63 8520 Lystrup,63,899000.0,16-09-1999,Alm.,11675,3,Rækkehus,77,1986,
+Per Kjals Vej 25 8520 Lystrup,25,1245000.0,15-09-1999,Alm.,9087,4,Villa,137,1963,
+Egehaven 15 8520 Lystrup,15,1490000.0,15-09-1999,Alm.,11920,5,Villa,125,2000,
+Dannevang 4 8520 Lystrup,4,1069476.0,15-09-1999,Alm.,9299,4,Villa,115,1976,
+Hindbærhaven 50 8520 Lystrup,50,1239675.0,03-09-1999,Alm.,0,4,Villa,136,1986,
+Solbærhaven 65 8520 Lystrup,65,907723.0,27-08-1999,Alm.,11788,3,Rækkehus,77,1986,
+Egehaven 25 8520 Lystrup,25,373000.0,25-08-1999,Alm.,2869,4,Villa,130,2000,
+Elleparken 59 8520 Lystrup,59,1472000.0,24-08-1999,Alm.,9813,3,Villa,150,1973,
+Slåenbakken 14 8520 Lystrup,14,1039583.0,22-08-1999,Alm.,0,5,Villa,160,1964,
+Ørnedalen 40 8520 Lystrup,40,1147858.0,19-08-1999,Alm.,9645,4,Villa,119,1974,
+Hindbærhaven 7 8520 Lystrup,7,1135000.0,17-08-1999,Alm.,9869,5,Villa,115,1981,
+Dannevang 18 8520 Lystrup,18,1256000.0,11-08-1999,Alm.,7705,7,Villa,163,1973,
+Kjeldsbjergvej 7 8520 Lystrup,7,868000.0,02-08-1999,Alm.,8188,4,Villa,106,1966,
+Elsted Skolevej 13 8520 Lystrup,13,1420000.0,02-08-1999,Alm.,10597,6,Villa,134,1999,
+Æblevænget 18 8520 Lystrup,18,506773.0,27-07-1999,Alm.,3699,6,Rækkehus,137,1977,
+Kirsebærhaven 32 8520 Lystrup,32,834376.0,25-06-1999,Alm.,13457,2,Rækkehus,62,1989,
+Elsted Skolevej 17 8520 Lystrup,17,295000.0,21-06-1999,Alm.,2153,4,Villa,137,1999,
+Ørnebakken 40 8520 Lystrup,40,1168000.0,19-06-1999,Alm.,8984,4,Villa,130,1974,
+Hindbærhaven 14 8520 Lystrup,14,1442000.0,18-06-1999,Alm.,9809,5,Villa,147,1984,
+Bjørnholt 166 8520 Lystrup,166,1675000.0,17-06-1999,Alm.,12593,5,Villa,133,1997,
+Stokbrovej 113 8520 Lystrup,113,1426780.0,17-06-1999,Alm.,8343,6,Villa,171,1986,
+Rugmarken 83 8520 Lystrup,83,1207000.0,14-06-1999,Alm.,9579,4,Villa,126,1973,
+Stokbrovej 38 8520 Lystrup,38,1217363.0,08-06-1999,Alm.,8225,5,Villa,148,1975,
+Ørnehøjen 21 8520 Lystrup,21,1180000.0,23-05-1999,Alm.,7972,5,Villa,148,1977,
+Rørvangen 2 8520 Lystrup,2,995024.0,20-05-1999,Alm.,9567,4,Rækkehus,104,1983,
+Rugmarken 49 8520 Lystrup,49,1299958.0,17-05-1999,Alm.,8783,5,Villa,148,1974,
+Egehaven 11 8520 Lystrup,11,363000.0,11-05-1999,Alm.,2403,6,Villa,151,2000,
+Egehaven 17 8520 Lystrup,17,381000.0,11-05-1999,Alm.,2281,7,Villa,167,1999,
+Egehaven 19 8520 Lystrup,19,369000.0,27-04-1999,Alm.,2654,6,Villa,139,1999,
+Dannevang 5 8520 Lystrup,5,1201287.0,21-04-1999,Alm.,0,6,Villa,154,1949,
+Elsted Kirkevej 12 8520 Lystrup,12,1180000.0,19-04-1999,Alm.,9218,4,Villa,128,1979,
+Stokbrovej 20 8520 Lystrup,20,596066.0,19-04-1999,Alm.,3845,5,Villa,155,1972,
+Kæruldbakken 8 8520 Lystrup,8,1015660.0,10-04-1999,Alm.,0,5,Villa,137,1964,
+Ørnebakken 9 8520 Lystrup,9,1632025.0,07-04-1999,Alm.,10200,5,Villa,160,1972,
+Bakkehældet 9 8520 Lystrup,9,1175000.0,28-03-1999,Alm.,8216,5,Villa,143,1962,
+Egehaven 31 8520 Lystrup,31,349000.0,25-03-1999,Alm.,2792,5,Villa,125,1999,
+Egehaven 41 8520 Lystrup,41,363000.0,23-03-1999,Alm.,1779,7,Villa,204,1999,
+Oldager 3 8520 Lystrup,3,913880.0,22-03-1999,Alm.,10504,3,Villa,87,1953,
+Rønnehaven 23 8520 Lystrup,23,1400000.0,17-03-1999,Alm.,11382,5,Villa,123,1986,
+"Sønderskovvej 12A, 1 8520 Lystrup",1,2100000.0,16-03-1999,Alm.,20588,4,Lejlighed,102,1962,
+Birkehaven 14 8520 Lystrup,14,1194999.0,01-03-1999,Alm.,9876,4,Villa,121,1980,
+Lille Elstedvej 37 8520 Lystrup,37,1124814.0,17-02-1999,Alm.,10512,4,Rækkehus,107,1985,
+Stokbrovej 176 8520 Lystrup,176,247500.0,12-02-1999,Alm.,2291,4,Villa,108,1986,
+Hindbærhaven 75 8520 Lystrup,75,1042000.0,12-02-1999,Alm.,10316,4,Villa,101,1983,
+Slåenbakken 6 8520 Lystrup,6,1040000.0,26-01-1999,Alm.,9811,4,Villa,106,1964,
+Hvedemarken 8 8520 Lystrup,8,1320000.0,12-01-1999,Alm.,0,5,Villa,180,1970,
+Rugmarken 22 8520 Lystrup,22,1287000.0,04-01-1999,Alm.,8303,6,Villa,155,1976,
+Elleparken 4 8520 Lystrup,4,1523339.0,28-12-1998,Alm.,9520,5,Villa,160,1972,
+Kirsebærhaven 43 8520 Lystrup,43,885234.0,21-12-1998,Alm.,11205,3,Rækkehus,79,1990,
+Vestre Havevej 60 8520 Lystrup,60,780965.0,21-12-1998,Alm.,10846,3,Rækkehus,72,1961,
+Lille Elstedvej 45 8520 Lystrup,45,1178000.0,10-12-1998,Alm.,11009,4,Rækkehus,107,1985,
+Egehaven 5 8520 Lystrup,5,385000.0,09-12-1998,Alm.,2278,5,Villa,169,1999,
+Engvangen 23B 8520 Lystrup,0,1321892.0,03-11-1998,Alm.,9116,4,Villa,145,1952,
+Rugmarken 42 8520 Lystrup,42,1350000.0,23-10-1998,Alm.,5720,6,Villa,236,1977,
+Elsted Skolevej 7 8520 Lystrup,7,273000.0,13-10-1998,Alm.,1964,6,Villa,139,1999,
+Østre Havevej 51 8520 Lystrup,51,895000.0,07-10-1998,Alm.,9421,3,Rækkehus,95,1961,
+Rugmarken 34 8520 Lystrup,34,1181952.0,04-10-1998,Alm.,7879,5,Villa,150,1974,
+Pannerupvej 25 8520 Lystrup,25,611257.0,02-10-1998,Fam.,4851,3,Stuehus,126,1911,
+Vennemindevej 83 8520 Lystrup,83,1994704.0,15-09-1998,Alm.,9066,8,Villa,220,1850,
+Lille Elstedvej 31 8520 Lystrup,31,1105265.0,14-09-1998,Alm.,10329,4,Rækkehus,107,1986,
+Hasselhaven 21 8520 Lystrup,21,1594241.0,10-09-1998,Alm.,12455,4,Villa,128,1997,
+Elsted Kirkevej 10 8520 Lystrup,10,1080004.0,09-09-1998,Alm.,8437,4,Villa,128,1979,
+Damstræde 4 8520 Lystrup,4,954760.0,04-09-1998,Alm.,9547,3,Villa,100,1959,
+Birkehaven 30 8520 Lystrup,30,1180908.0,24-08-1998,Alm.,11354,5,Villa,104,1981,
+Birkehaven 10 8520 Lystrup,10,1398000.0,16-08-1998,Alm.,8848,5,Villa,158,1980,
+Enebakken 9 8520 Lystrup,9,1390800.0,07-08-1998,Alm.,10536,3,Villa,132,1966,
+Elleparken 53 8520 Lystrup,53,1264220.0,27-07-1998,Alm.,7708,5,Villa,164,1974,
+Stokbrovej 48 8520 Lystrup,48,1091522.0,27-07-1998,Alm.,0,6,Villa,178,1972,
+Engvangen 22 8520 Lystrup,22,1030000.0,16-07-1998,Alm.,0,6,Villa,171,1976,
+Hyldehaven 56 8520 Lystrup,56,875000.0,30-06-1998,Alm.,8750,3,Rækkehus,100,1973,
+Bjørnholt 158 8520 Lystrup,158,275000.0,30-06-1998,Alm.,1936,6,Villa,142,1999,
+Kjeldsbjergvej 2 8520 Lystrup,2,510500.0,26-06-1998,Andet,2759,5,Villa,185,1910,
+Elleparken 52 8520 Lystrup,52,1000000.0,21-06-1998,Alm.,7575,4,Villa,132,1972,
+Damstræde 2 8520 Lystrup,2,849178.0,19-06-1998,Alm.,8491,4,Villa,100,1932,
+Egehaven 33 8520 Lystrup,33,349000.0,16-06-1998,Alm.,2406,6,Villa,145,1999,
+Bjørnholt 160 8520 Lystrup,160,300000.0,10-06-1998,Alm.,1666,7,Villa,180,1999,
+Bygaden 1 8520 Lystrup,1,1313220.0,09-06-1998,Alm.,10853,6,Villa,121,1907,
+Egehaven 51 8520 Lystrup,51,365000.0,07-06-1998,Alm.,2449,7,Villa,149,1999,
+Elleparken 26 8520 Lystrup,26,1272000.0,01-06-1998,Alm.,7851,5,Villa,162,1970,
+Stenhøj 2 8520 Lystrup,2,1384000.0,29-05-1998,Alm.,0,3,Villa,119,1965,
+Hasselhaven 65 8520 Lystrup,65,1295000.0,28-05-1998,Alm.,10974,4,Villa,118,1990,
+Hasselhaven 43 8520 Lystrup,43,1404046.0,25-05-1998,Alm.,0,6,Villa,186,1992,
+Kirsebærhaven 26 8520 Lystrup,26,705000.0,19-05-1998,Alm.,11015,2,Rækkehus,64,1989,
+Egehaven 53 8520 Lystrup,53,354000.0,14-05-1998,Alm.,2565,5,Villa,138,1999,
+Lystrupvej 252 8520 Lystrup,252,1516799.0,05-05-1998,Alm.,9599,4,Villa,158,1910,
+Rugmarken 106 8520 Lystrup,106,1152566.0,01-05-1998,Alm.,11299,4,Villa,102,1978,
+Solbærhaven 9 8520 Lystrup,9,881565.0,30-04-1998,Alm.,9088,4,Rækkehus,97,1986,
+Ellebrinken 12 8520 Lystrup,12,380000.0,15-04-1998,Alm.,2585,6,Villa,147,1998,
+Bjørnholt 162 8520 Lystrup,162,290000.0,08-04-1998,Alm.,2164,5,Villa,134,1998,
+Kærløkken 3B 8520 Lystrup,0,1202543.0,08-04-1998,Alm.,7911,5,Villa,152,1973,
+Lystrupvej 222 8520 Lystrup,222,1212534.0,03-04-1998,Alm.,0,6,Villa,210,1947,
+Sønderskovvej 39 8520 Lystrup,39,512000.0,01-04-1998,Alm.,9142,2,Lejlighed,56,1969,
+Trige Skovvej 4 8520 Lystrup,4,1600000.0,25-03-1998,Alm.,22222,3,Stuehus,72,1897,
+Elstedvænge 50 8520 Lystrup,50,610000.0,19-03-1998,Alm.,3742,5,Villa,163,1979,
+Ellebrinken 8 8520 Lystrup,8,332500.0,17-03-1998,Alm.,2216,6,Villa,150,1998,
+Spergelbakken 13 8520 Lystrup,13,1128685.0,16-03-1998,Alm.,7575,5,Villa,149,1965,
+Hyldehaven 46 8520 Lystrup,46,1008942.0,15-03-1998,Alm.,7882,4,Rækkehus,128,1970,
+Birkehaven 26 8520 Lystrup,26,1042400.0,06-03-1998,Alm.,0,5,Villa,187,1981,
+Engvangen 8 8520 Lystrup,8,945903.0,05-03-1998,Alm.,8016,4,Villa,118,1974,
+Ellebrinken 10 8520 Lystrup,10,332500.0,01-03-1998,Alm.,1889,5,Villa,176,1998,
+Rørvangen 8 8520 Lystrup,8,650000.0,01-03-1998,Fam.,6565,4,Rækkehus,99,1984,
+Sønderskovvej 123 8520 Lystrup,123,458273.0,24-02-1998,Alm.,8183,2,Lejlighed,56,1969,
+Elstedvænge 52 8520 Lystrup,52,1211979.0,18-02-1998,Alm.,6247,6,Villa,194,1976,
+Ellebækvej 34 8520 Lystrup,34,980000.0,11-02-1998,Alm.,8235,5,Villa,119,1971,
+Petersmindevej 153 8520 Lystrup,153,1098601.0,08-02-1998,Alm.,6003,4,Villa,183,1966,
+Porsbakken 7 8520 Lystrup,7,1229903.0,04-02-1998,Alm.,7934,6,Villa,155,1966,
+Sønderskovvej 141 8520 Lystrup,141,469289.0,03-02-1998,Alm.,8380,2,Lejlighed,56,1973,
+Pilebækvej 2 8520 Lystrup,2,890000.0,02-02-1998,Alm.,6691,5,Villa,133,1965,
+Klokbakken 22 8520 Lystrup,22,2500000.0,31-01-1998,Alm.,13297,8,Stuehus,188,1923,
+Solbærhaven 118 8520 Lystrup,118,910000.0,27-01-1998,Alm.,8750,4,Rækkehus,104,1986,
+Stokbrovej 65 8520 Lystrup,65,1065444.0,07-01-1998,Alm.,7776,5,Villa,137,1973,
+Bjørnholt 172 8520 Lystrup,172,370000.0,06-01-1998,Alm.,2720,5,Villa,136,1998,
+Per Kjals Vej 4 8520 Lystrup,4,860000.0,01-12-1997,Alm.,0,5,Villa,150,1963,
+Solbærhaven 57 8520 Lystrup,57,840000.0,28-11-1997,Alm.,10909,3,Rækkehus,77,1986,
+Vestre Havevej 26 8520 Lystrup,26,695000.0,19-11-1997,Alm.,10373,2,Rækkehus,67,1961,
+Solbærhaven 69 8520 Lystrup,69,843050.0,11-11-1997,Alm.,10948,3,Rækkehus,77,1986,
+Kirsebærhaven 42 8520 Lystrup,42,835000.0,04-11-1997,Alm.,9597,3,Rækkehus,87,1989,
+Kirsebærhaven 45 8520 Lystrup,45,834000.0,30-10-1997,Alm.,8510,4,Rækkehus,98,1990,
+Hasselhaven 15 8520 Lystrup,15,1500000.0,29-10-1997,Alm.,10344,6,Villa,145,1997,
+Sønderskovvej 11D 8520 Lystrup,0,603181.0,27-10-1997,Fam.,5337,4,Rækkehus,113,1984,
+Sønderskovvej 143 8520 Lystrup,143,402460.0,21-10-1997,Alm.,7593,2,Lejlighed,53,1973,
+Rønnehaven 58 8520 Lystrup,58,500000.0,13-10-1997,Andet,3448,5,Villa,145,1976,
+Stokbrovej 154 8520 Lystrup,154,255000.0,06-10-1997,Alm.,2217,5,Villa,115,1986,
+Dannevang 8 8520 Lystrup,8,1036980.0,06-10-1997,Alm.,8430,4,Villa,123,1976,
+Rugmarken 99 8520 Lystrup,99,1409936.0,04-09-1997,Alm.,8056,5,Villa,175,1974,
+Petersmindevej 151 8520 Lystrup,151,395000.0,01-09-1997,Andet,2947,5,Villa,134,1965,
+Hasselhaven 41 8520 Lystrup,41,390000.0,01-09-1997,Alm.,2549,5,Villa,153,1998,
+Kirsebærhaven 50 8520 Lystrup,50,791000.0,01-09-1997,Alm.,9091,3,Rækkehus,87,1989,
+Stokbrovej 156 8520 Lystrup,156,261375.0,30-08-1997,Alm.,1221,5,Villa,214,1985,
+Hindbærhaven 36 8520 Lystrup,36,1164218.0,22-08-1997,Alm.,9388,5,Villa,124,1985,
+Hasselhaven 7 8520 Lystrup,7,281100.0,10-08-1997,Alm.,2444,3,Villa,115,1998,
+Ørnedalen 16 8520 Lystrup,16,1053000.0,08-08-1997,Alm.,6581,5,Villa,160,1976,
+Birkehaven 57 8520 Lystrup,57,1085658.0,07-08-1997,Alm.,9440,4,Villa,115,1982,
+Hindbærhaven 78 8520 Lystrup,78,995970.0,31-07-1997,Alm.,9395,4,Villa,106,1981,
+Skavholmvej 4 8520 Lystrup,4,1350000.0,28-07-1997,Alm.,0,2,Lejlighed,107,1985,
+Ørnedalen 30 8520 Lystrup,30,1207000.0,17-07-1997,Alm.,8500,5,Villa,142,1976,
+Birkehaven 22 8520 Lystrup,22,1182000.0,11-07-1997,Alm.,10189,4,Villa,116,1983,
+Hindbærhaven 3 8520 Lystrup,3,1095755.0,03-07-1997,Alm.,9696,5,Villa,113,1981,
+Bjørnholt 37 8520 Lystrup,37,310000.0,01-07-1997,Alm.,0,7,Villa,211,1998,
+Hyldehaven 31 8520 Lystrup,31,1200000.0,27-06-1997,Alm.,8823,5,Villa,136,1972,
+Hasselhaven 61 8520 Lystrup,61,950251.0,16-06-1997,Andet,7144,5,Villa,133,1995,
+Bjørnholt 39 8520 Lystrup,39,340000.0,03-06-1997,Alm.,1789,6,Villa,190,1997,
+Elstedvænge 4 8520 Lystrup,4,1233000.0,01-06-1997,Alm.,8503,5,Villa,145,1978,
+Bjørnholt 164 8520 Lystrup,164,300000.0,23-05-1997,Alm.,0,9,Villa,241,1997,
+Solbærhaven 67 8520 Lystrup,67,735000.0,30-04-1997,Alm.,9545,3,Rækkehus,77,1986,
+Hyldehaven 17 8520 Lystrup,17,1131520.0,27-04-1997,Alm.,8572,5,Villa,132,1972,
+Rønnehaven 34 8520 Lystrup,34,1357908.0,21-04-1997,Alm.,7849,6,Villa,173,1974,
+Stokbrovej 132 8520 Lystrup,132,1454670.0,20-04-1997,Alm.,6216,6,Villa,234,1974,
+Munkhøj 16 8520 Lystrup,16,680000.0,14-04-1997,Alm.,4533,4,Stuehus,150,1793,
+Hasselhaven 31 8520 Lystrup,31,1400000.0,11-04-1997,Alm.,9655,6,Villa,145,1997,
+Hasselhaven 11 8520 Lystrup,11,286050.0,10-04-1997,Alm.,2000,6,Villa,143,1997,
+Hyldehaven 45 8520 Lystrup,45,1194000.0,27-03-1997,Alm.,6419,6,Villa,186,1971,
+Stokbrovej 137 8520 Lystrup,137,308750.0,18-03-1997,Alm.,2086,4,Villa,148,1986,
+Vennemindevej 3 8520 Lystrup,3,899900.0,18-03-1997,Alm.,8332,3,Villa,108,1967,
+Birkehaven 2 8520 Lystrup,2,1215000.0,14-03-1997,Alm.,6712,6,Villa,181,1980,
+Stokbrovej 17 8520 Lystrup,17,1096996.0,13-03-1997,Alm.,8706,4,Villa,126,1977,
+Sønderskovvej 63 8520 Lystrup,63,370000.0,12-03-1997,Alm.,6981,2,Lejlighed,53,1969,
+Æblevænget 27 8520 Lystrup,27,795000.0,11-03-1997,Alm.,9352,4,Rækkehus,85,1978,
+Stokbrovej 31 8520 Lystrup,31,1019000.0,02-03-1997,Alm.,7278,5,Villa,140,1977,
+Kirsebærhaven 24 8520 Lystrup,24,573000.0,27-01-1997,Alm.,8953,2,Rækkehus,64,1989,
+Hasselhaven 72 8520 Lystrup,72,1160185.0,26-01-1997,Alm.,6865,5,Villa,169,1978,
+Hasselhaven 49 8520 Lystrup,49,1360000.0,24-01-1997,Alm.,0,9,Villa,191,1997,
+Skæringvej 2 8520 Lystrup,2,315000.0,17-01-1997,Alm.,2282,5,Villa,138,1959,
+Lystrupvej 208 8520 Lystrup,208,434246.0,13-01-1997,Auktion,3079,6,Villa,141,1953,
+Kirsebærhaven 14 8520 Lystrup,14,1124000.0,31-12-1996,Alm.,6350,7,Villa,177,1989,
+Rugmarken 95 8520 Lystrup,95,1150000.0,18-12-1996,Alm.,6845,6,Villa,168,1974,
+Stokbrovej 112 8520 Lystrup,112,1080374.0,16-12-1996,Alm.,0,6,Villa,224,1973,
+Sønderskovvej 117 8520 Lystrup,117,455000.0,12-12-1996,Alm.,8584,2,Lejlighed,53,1969,
+Østre Havevej 17 8520 Lystrup,17,622579.0,12-12-1996,Alm.,7074,3,Rækkehus,88,1986,
+Birkehaven 52 8520 Lystrup,52,1295350.0,09-12-1996,Alm.,0,4,Villa,172,1984,
+Solbærhaven 120 8520 Lystrup,120,875000.0,03-12-1996,Alm.,8413,4,Rækkehus,104,1986,
+Lystruplund 31 8520 Lystrup,31,764000.0,02-12-1996,Alm.,7958,3,Rækkehus,96,1989,
+Lystrupvej 240 8520 Lystrup,240,740000.0,27-11-1996,Alm.,5138,7,Villa,144,1905,
+Lystrupvej 253 8520 Lystrup,253,946310.0,20-11-1996,Alm.,8449,4,Villa,112,1962,
+Rugmarken 77 8520 Lystrup,77,1177050.0,15-11-1996,Alm.,7953,5,Villa,148,1975,
+Rugmarken 38 8520 Lystrup,38,1075000.0,11-11-1996,Alm.,0,9,Villa,161,1977,
+Solbærhaven 138 8520 Lystrup,138,763000.0,07-11-1996,Alm.,8477,4,Rækkehus,90,1987,
+Hasselhaven 17 8520 Lystrup,17,1400000.0,06-11-1996,Alm.,9090,6,Villa,154,1996,
+Birkehaven 13 8520 Lystrup,13,856468.0,04-11-1996,Alm.,8156,4,Villa,105,1981,
+Solbærhaven 21 8520 Lystrup,21,812000.0,03-11-1996,Alm.,8371,4,Rækkehus,97,1986,
+Hedeskovvej 29 8520 Lystrup,29,1079000.0,30-10-1996,Alm.,8701,4,Villa,124,1966,
+Kærløkken 3 8520 Lystrup,3,874000.0,25-10-1996,Alm.,0,7,Villa,182,1959,
+Hyldehaven 37 8520 Lystrup,37,1100000.0,21-10-1996,Alm.,6395,4,Villa,172,1971,
+Stokbrovej 60 8520 Lystrup,60,870000.0,21-10-1996,Alm.,6258,5,Villa,139,1973,
+Kirsebærhaven 39 8520 Lystrup,39,583268.0,21-10-1996,Alm.,7290,3,Rækkehus,80,1990,
+Solbærhaven 155 8520 Lystrup,155,845000.0,18-10-1996,Alm.,8047,5,Rækkehus,105,1987,
+Elstedvænge 15 8520 Lystrup,15,875000.0,10-10-1996,Alm.,7000,4,Villa,125,1977,
+Ørnehøjen 13 8520 Lystrup,13,1045000.0,09-10-1996,Alm.,6656,6,Villa,157,1977,
+Stokbrovej 148 8520 Lystrup,148,1151700.0,06-10-1996,Alm.,0,8,Villa,204,1985,
+Elsted Skolevej 9 8520 Lystrup,9,204167.0,03-10-1996,Alm.,1325,7,Villa,154,1997,
+Hasselhaven 13 8520 Lystrup,13,285600.0,02-10-1996,Alm.,2069,5,Villa,138,1997,
+Lille Elstedvej 27 8520 Lystrup,27,267097.0,24-09-1996,Alm.,2496,4,Rækkehus,107,1986,
+Munkhøj 14 8520 Lystrup,14,284340.0,23-09-1996,Alm.,2961,3,Villa,96,1997,
+Hindbærhaven 33 8520 Lystrup,33,885000.0,18-09-1996,Alm.,8428,5,Villa,105,1980,
+Sønderskovvej 89 8520 Lystrup,89,383000.0,17-09-1996,Alm.,7226,2,Lejlighed,53,1969,
+Østre Havevej 49 8520 Lystrup,49,617000.0,13-09-1996,Alm.,6494,3,Rækkehus,95,1961,
+Lystruplund 33 8520 Lystrup,33,786530.0,12-09-1996,Alm.,8193,4,Rækkehus,96,1988,
+Dannevang 13 8520 Lystrup,13,1056000.0,11-09-1996,Alm.,5802,7,Villa,182,1972,
+Skæringvej 20 8520 Lystrup,20,929000.0,09-09-1996,Alm.,7201,4,Villa,129,1978,
+Rugmarken 51 8520 Lystrup,51,493730.0,05-09-1996,Alm.,4488,3,Villa,110,1975,
+Ørnedalen 6 8520 Lystrup,6,1100000.0,30-08-1996,Alm.,9090,5,Villa,121,1979,
+Lystrupvej 229 8520 Lystrup,229,1145600.0,29-08-1996,Alm.,9020,4,Villa,127,1931,
+Dannevang 3 8520 Lystrup,3,795000.0,13-08-1996,Alm.,0,7,Villa,176,1961,
+Rønnehaven 47 8520 Lystrup,47,1149000.0,09-08-1996,Alm.,5862,6,Villa,196,1977,
+Hyldehaven 16 8520 Lystrup,16,729000.0,07-08-1996,Alm.,5695,4,Rækkehus,128,1971,
+Rønnehaven 44 8520 Lystrup,44,765000.0,04-08-1996,Fam.,4371,5,Villa,175,1977,
+Ørbækvej 4 8520 Lystrup,4,811000.0,31-07-1996,Alm.,4742,6,Villa,171,1966,
+Elstedvænge 24 8520 Lystrup,24,923000.0,18-07-1996,Alm.,6365,5,Villa,145,1977,
+Vestre Havevej 50 8520 Lystrup,50,570000.0,18-07-1996,Alm.,8507,2,Rækkehus,67,1961,
+Hindbærhaven 24 8520 Lystrup,24,1050000.0,10-07-1996,Alm.,0,4,Villa,141,1981,
+Solbærhaven 123 8520 Lystrup,123,780000.0,08-07-1996,Alm.,8297,4,Rækkehus,94,1987,
+Østre Havevej 57 8520 Lystrup,57,505000.0,06-07-1996,Alm.,8416,2,Rækkehus,60,1961,
+Spergelbakken 4 8520 Lystrup,4,990472.0,04-07-1996,Alm.,0,6,Villa,174,1963,
+Stokbrovej 89 8520 Lystrup,89,1088000.0,29-06-1996,Alm.,0,6,Villa,153,1986,
+Møgelgårdsvej 49 8520 Lystrup,49,850000.0,26-06-1996,Alm.,3269,5,Villa,260,1964,
+Rugmarken 9 8520 Lystrup,9,890000.0,25-06-1996,Alm.,5632,5,Villa,158,1975,
+Rugmarken 58 8520 Lystrup,58,998000.0,20-06-1996,Alm.,4990,7,Villa,200,1975,
+Elleparken 99 8520 Lystrup,99,1180000.0,10-06-1996,Alm.,5812,7,Villa,203,1974,
+Elleparken 126 8520 Lystrup,126,1202000.0,10-06-1996,Alm.,7029,5,Villa,171,1972,
+Rugmarken 107 8520 Lystrup,107,1400000.0,07-06-1996,Alm.,6862,7,Villa,204,1974,
+Lille Elstedvej 21 8520 Lystrup,21,778000.0,30-05-1996,Alm.,7271,4,Rækkehus,107,1985,
+Per Kjals Vej 35 8520 Lystrup,35,982000.0,29-05-1996,Alm.,7983,5,Villa,123,1962,
+Solbærhaven 105 8520 Lystrup,105,750000.0,29-05-1996,Alm.,7978,4,Rækkehus,94,1987,
+Stokbrovej 136 8520 Lystrup,136,1203620.0,09-05-1996,Alm.,6917,5,Villa,174,1978,
+Petersmindevej 115 8520 Lystrup,115,840000.0,09-05-1996,Alm.,0,5,Villa,152,1962,
+Stokbrovej 117 8520 Lystrup,117,1050000.0,08-05-1996,Alm.,7191,5,Villa,146,1986,
+Rugmarken 6 8520 Lystrup,6,857570.0,06-05-1996,Alm.,0,9,Villa,202,1976,
+Elstedvænge 23 8520 Lystrup,23,1131000.0,26-04-1996,Alm.,5952,7,Villa,190,1977,
+Rørvangen 10 8520 Lystrup,10,980000.0,15-04-1996,Alm.,6950,4,Villa,141,1973,
+Stokbrovej 53 8520 Lystrup,53,849000.0,31-03-1996,Alm.,6197,4,Villa,137,1972,
+Stokbrovej 188 8520 Lystrup,188,242875.0,28-03-1996,Alm.,2313,4,Villa,105,1986,
+Hasselhaven 47 8520 Lystrup,47,279600.0,22-03-1996,Alm.,0,8,Villa,176,1996,
+Kjeldsbjergvej 15 8520 Lystrup,15,866000.0,14-03-1996,Alm.,5773,5,Villa,150,1973,
+Kirsebærhaven 3 8520 Lystrup,3,273300.0,14-03-1996,Alm.,2009,5,Villa,136,1996,
+Ved Gadekæret 1 8520 Lystrup,1,710000.0,22-02-1996,Fam.,5338,3,Rækkehus,133,1985,
+Ellebækvej 18 8520 Lystrup,18,915000.0,19-02-1996,Alm.,5140,6,Villa,178,1974,
+Hindbærhaven 17 8520 Lystrup,17,431440.0,12-02-1996,Alm.,3479,4,Villa,124,1981,
+Elleparken 116 8520 Lystrup,116,906750.0,11-02-1996,Alm.,6045,4,Villa,150,1972,
+Rønnehaven 43 8520 Lystrup,43,251600.0,21-01-1996,Fam.,1515,3,Villa,166,1976,
+Ørnebakken 3 8520 Lystrup,3,1066000.0,17-01-1996,Alm.,5174,7,Villa,206,1973,
+Hyldehaven 68 8520 Lystrup,68,732000.0,15-01-1996,Alm.,7320,4,Rækkehus,100,1973,
+Kirsebærhaven 33 8520 Lystrup,33,781250.0,15-12-1995,Alm.,7971,4,Rækkehus,98,1989,
+Toften 1 8520 Lystrup,1,260000.0,08-12-1995,Alm.,1744,5,Villa,149,1996,
+Hovmarken 45 8520 Lystrup,45,253688.0,25-11-1995,Fam.,1749,5,Villa,145,1973,
+Gyvelbakken 9 8520 Lystrup,9,827000.0,19-11-1995,Alm.,6265,4,Villa,132,1965,
+Rørvangen 16 8520 Lystrup,16,1023435.0,31-10-1995,Alm.,7416,5,Villa,138,1972,
+Brombærhaven 66 8520 Lystrup,66,962000.0,23-10-1995,Alm.,7950,5,Villa,121,1979,
+Møgelgårdsvej 3B 8520 Lystrup,0,600000.0,09-10-1995,Alm.,5217,5,Villa,115,1956,
+Hasselhaven 35 8520 Lystrup,35,274800.0,05-10-1995,Alm.,1895,6,Villa,145,1997,
+Solbærhaven 75 8520 Lystrup,75,667000.0,30-09-1995,Alm.,8662,3,Rækkehus,77,1986,
+Bystævnet 21 8520 Lystrup,21,675000.0,13-09-1995,Alm.,4927,4,Villa,137,1963,
+Sønderskovvej 12C 8520 Lystrup,0,618900.0,06-09-1995,Alm.,3206,6,Villa,193,1984,
+Lystrup Stationsvej 16 8520 Lystrup,16,632000.0,03-08-1995,Alm.,6076,3,Rækkehus,104,1983,
+Stokbrovej 162 8520 Lystrup,162,246750.0,14-07-1995,Alm.,0,6,Villa,154,1986,
+Kirsebærhaven 6 8520 Lystrup,6,281850.0,13-07-1995,Alm.,1917,5,Villa,147,1995,
+Havremarken 12 8520 Lystrup,12,859450.0,04-07-1995,Alm.,6462,4,Villa,133,1972,
+Stokbrovej 46 8520 Lystrup,46,427000.0,29-06-1995,Fam.,2482,5,Villa,172,1973,
+Bakkehældet 13 8520 Lystrup,13,664000.0,27-06-1995,Alm.,6775,4,Villa,98,1962,
+Elsted Byvej 39 8520 Lystrup,39,776000.0,19-06-1995,Alm.,4240,5,Villa,183,1962,
+Rønnehaven 72 8520 Lystrup,72,1388000.0,09-06-1995,Alm.,7081,8,Villa,196,1978,
+Hasselhaven 57 8520 Lystrup,57,258300.0,07-06-1995,Alm.,0,6,Villa,158,1995,
+Hasselhaven 70 8520 Lystrup,70,1100000.0,02-06-1995,Alm.,0,6,Villa,227,1975,
+Solbærhaven 93 8520 Lystrup,93,640000.0,26-05-1995,Alm.,6808,4,Rækkehus,94,1986,
+Skårupgårdvej 110 8520 Lystrup,110,478000.0,22-05-1995,Alm.,6128,5,Stuehus,78,1909,
+Østre Havevej 47 8520 Lystrup,47,599341.0,21-05-1995,Alm.,6308,3,Rækkehus,95,1961,
+Bygaden 25A 8520 Lystrup,0,980000.0,20-05-1995,Alm.,0,8,Rækkehus,194,1876,
+Elstedvænge 48 8520 Lystrup,48,955000.0,15-05-1995,Alm.,5718,5,Villa,167,1977,
+Hindbærhaven 64 8520 Lystrup,64,840000.0,01-05-1995,Alm.,0,7,Villa,161,1980,
+Spergelbakken 1 8520 Lystrup,1,895000.0,26-04-1995,Alm.,6047,5,Villa,148,1965,
+Åvangen 12 8520 Lystrup,12,709837.0,25-04-1995,Alm.,4492,6,Villa,158,1961,
+Hyldehaven 48 8520 Lystrup,48,650000.0,31-03-1995,Alm.,5078,4,Rækkehus,128,1970,
+Ørnelunden 19 8520 Lystrup,19,1052000.0,21-03-1995,Alm.,7735,5,Villa,136,1985,
+Ørnebakken 28 8520 Lystrup,28,785000.0,14-03-1995,Alm.,0,5,Villa,143,1974,
+Stokbrovej 35 8520 Lystrup,35,858000.0,12-03-1995,Alm.,5231,4,Villa,164,1972,
+Kirsebærhaven 18 8520 Lystrup,18,1003462.0,27-02-1995,Alm.,7271,4,Villa,138,1988,
+Åvangen 6 8520 Lystrup,6,358000.0,21-02-1995,Alm.,2452,4,Villa,146,1960,
+Stokbrovej 63 8520 Lystrup,63,910000.0,31-01-1995,Alm.,5260,5,Villa,173,1973,
+Ellebækvej 9 8520 Lystrup,9,510000.0,16-01-1995,Alm.,4857,3,Rækkehus,105,1968,
+Petersmindevej 140 8520 Lystrup,140,931839.0,15-12-1994,Fam.,5973,5,Stuehus,156,1919,
+Elleparken 12 8520 Lystrup,12,1022000.0,11-12-1994,Alm.,5436,6,Villa,188,1972,
+Rønnehaven 9 8520 Lystrup,9,1093000.0,29-11-1994,Alm.,0,7,Villa,186,1987,
+Solbærhaven 91 8520 Lystrup,91,692386.0,26-10-1994,Alm.,7365,4,Rækkehus,94,1986,
+Elleparken 29 8520 Lystrup,29,988000.0,19-10-1994,Alm.,0,6,Villa,218,1972,
+Ellebækvej 8 8520 Lystrup,8,525000.0,17-10-1994,Alm.,5097,4,Rækkehus,103,1967,
+Hasselhaven 101 8520 Lystrup,101,7150000.0,23-09-1994,Alm.,52962,5,Villa,135,1973,
+Hyldehaven 114 8520 Lystrup,114,798000.0,21-09-1994,Alm.,6333,4,Villa,126,1974,
+Sønderskovvej 47 8520 Lystrup,47,480000.0,21-09-1994,Alm.,5853,3,Lejlighed,82,1969,
+Ørnebakken 19 8520 Lystrup,19,730000.0,15-09-1994,Alm.,5934,4,Villa,123,1975,
+Hasselhaven 30 8520 Lystrup,30,923200.0,06-09-1994,Alm.,4936,7,Villa,187,1977,
+Lystruplund 27 8520 Lystrup,27,880000.0,03-09-1994,Alm.,3520,9,Villa,250,1979,
+Per Kjals Vej 39 8520 Lystrup,39,710000.0,29-08-1994,Alm.,5680,4,Villa,125,1962,
+Kirsebærhaven 57 8520 Lystrup,57,626000.0,07-08-1994,Alm.,7924,3,Rækkehus,79,1989,
+Stokbrovej 114 8520 Lystrup,114,974765.0,08-07-1994,Alm.,5130,6,Villa,190,1973,
+Rugmarken 21 8520 Lystrup,21,1167000.0,20-06-1994,Alm.,7780,6,Villa,150,1994,
+Brombærhaven 4 8520 Lystrup,4,824519.0,20-06-1994,Alm.,0,5,Villa,139,1984,
+Hasselhaven 26 8520 Lystrup,26,1240723.0,16-06-1994,Alm.,6330,5,Villa,196,1983,
+Hovmarken 16 8520 Lystrup,16,650000.0,15-05-1994,Alm.,4012,4,Stuehus,162,1913,
+Elleparken 42 8520 Lystrup,42,956000.0,12-05-1994,Alm.,5937,4,Villa,161,2011,
+Elleparken 93 8520 Lystrup,93,826000.0,11-05-1994,Alm.,0,4,Villa,151,1975,
+Granbakken 11 8520 Lystrup,11,514180.0,03-05-1994,Alm.,3173,5,Villa,162,1877,
+Elleparken 8 8520 Lystrup,8,700000.0,27-04-1994,Alm.,5833,4,Villa,120,1970,
+Ørnedalen 19 8520 Lystrup,19,382229.0,20-04-1994,Fam.,2618,5,Villa,146,1974,
+Engvangen 28 8520 Lystrup,28,700000.0,28-03-1994,Alm.,0,5,Villa,172,1985,
+Hedeskovvej 8 8520 Lystrup,8,778000.0,07-03-1994,Alm.,5678,6,Villa,137,1965,
+Elleparken 50 8520 Lystrup,50,883500.0,06-03-1994,Alm.,0,8,Villa,195,1972,
+Birkehaven 29 8520 Lystrup,29,780000.0,04-03-1994,Alm.,6190,4,Villa,126,1980,
+Ørnedalen 33 8520 Lystrup,33,953270.0,09-02-1994,Alm.,5812,6,Villa,164,1974,
+Rugmarken 53 8520 Lystrup,53,778000.0,03-02-1994,Alm.,4862,4,Villa,160,1977,
+Hindbærhaven 74 8520 Lystrup,74,725000.0,24-01-1994,Alm.,0,5,Villa,144,1981,
+Birkehaven 46 8520 Lystrup,46,153581.0,09-12-1993,Fam.,1051,4,Villa,146,1980,
+Møgelgårdsvej 24 8520 Lystrup,24,600000.0,02-12-1993,Alm.,0,7,Villa,197,1969,
+Ørnelunden 16 8520 Lystrup,16,745511.0,22-11-1993,Alm.,4904,5,Villa,152,1974,
+"Møgelgårdsvej 18, 1. TH 8520 Lystrup",0,596750.0,10-11-1993,Alm.,5425,3,Lejlighed,110,1971,
+Bygmarken 10 8520 Lystrup,10,970000.0,31-10-1993,Alm.,4708,5,Villa,206,1967,
+Stokbrovej 86 8520 Lystrup,86,272000.0,28-10-1993,Fam.,1789,6,Villa,152,1972,
+Solbærhaven 134 8520 Lystrup,134,598000.0,27-10-1993,Alm.,5750,4,Rækkehus,104,1986,
+Rugmarken 67 8520 Lystrup,67,875000.0,27-10-1993,Alm.,0,5,Villa,146,1976,
+Skæringvej 15 8520 Lystrup,15,700000.0,25-10-1993,Alm.,5147,5,Rækkehus,136,1980,
+Hyldehaven 72 8520 Lystrup,72,600000.0,19-10-1993,Alm.,6000,4,Rækkehus,100,1973,
+Åvangen 2 8520 Lystrup,2,780000.0,17-10-1993,Alm.,0,4,Villa,187,1960,
+Æblevænget 17 8520 Lystrup,17,510000.0,12-10-1993,Alm.,6710,3,Rækkehus,76,1978,
+Lyngbakken 8 8520 Lystrup,8,900000.0,01-10-1993,Alm.,6428,5,Villa,140,1968,
+Skæringvej 5 8520 Lystrup,5,775000.0,29-09-1993,Alm.,4874,6,Villa,159,1953,
+Hindbærhaven 13 8520 Lystrup,13,813664.0,21-09-1993,Alm.,0,6,Villa,194,1981,
+Birkehaven 63 8520 Lystrup,63,316000.0,20-09-1993,Alm.,0,5,Villa,134,1981,
+Elleparken 80 8520 Lystrup,80,753085.0,17-09-1993,Alm.,5976,4,Villa,126,1974,
+Hedeskovvej 15 8520 Lystrup,15,900000.0,15-09-1993,Alm.,5389,5,Villa,167,1964,
+Rugmarken 33 8520 Lystrup,33,855000.0,12-09-1993,Alm.,5029,5,Villa,170,1973,
+Fyrrebakken 3 8520 Lystrup,3,714000.0,10-09-1993,Alm.,4011,5,Villa,178,1965,
+Æblevænget 2 8520 Lystrup,2,628000.0,06-09-1993,Alm.,5924,5,Rækkehus,106,1977,
+Ørnelunden 26 8520 Lystrup,26,622000.0,12-08-1993,Alm.,4038,5,Villa,154,1981,
+Rugmarken 40 8520 Lystrup,40,695000.0,05-07-1993,Alm.,5346,4,Villa,130,1977,
+Elleparken 90 8520 Lystrup,90,746642.0,16-06-1993,Alm.,0,4,Villa,160,1972,
+Stokbrovej 126 8520 Lystrup,126,831000.0,10-06-1993,Alm.,6201,5,Villa,134,1986,
+Stokbrovej 8 8520 Lystrup,8,770000.0,31-05-1993,Alm.,5923,5,Villa,130,1973,
+Elleparken 37 8520 Lystrup,37,800000.0,23-05-1993,Alm.,4210,8,Villa,190,1971,
+Bystævnet 18 8520 Lystrup,18,808000.0,17-05-1993,Alm.,4275,6,Villa,189,1964,
+Mølbakvej 4 8520 Lystrup,4,1800000.0,17-05-1993,Alm.,12413,3,Villa,145,1977,
+Kildevældet 4 8520 Lystrup,4,428000.0,30-04-1993,Alm.,4755,3,Villa,90,1961,
+Æblevænget 33 8520 Lystrup,33,500000.0,27-04-1993,Alm.,0,5,Rækkehus,121,1978,
+Rugmarken 27 8520 Lystrup,27,764000.0,27-04-1993,Alm.,0,6,Villa,185,1974,
+Æblevænget 8 8520 Lystrup,8,570000.0,22-04-1993,Alm.,5377,3,Rækkehus,106,1977,
+Rugmarken 8 8520 Lystrup,8,376247.0,21-04-1993,Alm.,2986,4,Villa,126,1973,
+Elsted Byvej 30 8520 Lystrup,30,375000.0,19-04-1993,Auktion,3289,4,Villa,114,1977,
+Birkehaven 9 8520 Lystrup,9,776000.0,18-04-1993,Alm.,6110,5,Villa,127,1980,
+Brombærhaven 34 8520 Lystrup,34,640000.0,11-04-1993,Alm.,5079,5,Villa,126,1984,
+Elleparken 15 8520 Lystrup,15,935216.0,15-03-1993,Alm.,0,7,Villa,198,1973,
+Æblevænget 37 8520 Lystrup,37,422000.0,12-02-1993,Alm.,5626,3,Rækkehus,75,1978,
+Stokbrovej 110 8520 Lystrup,110,580000.0,08-02-1993,Alm.,0,7,Villa,169,1976,
+Kirsebærhaven 10 8520 Lystrup,10,750000.0,07-02-1993,Alm.,0,5,Villa,142,1988,
+Fyrrebakken 4 8520 Lystrup,4,300000.0,27-01-1993,Alm.,2343,5,Villa,128,1964,
+Stokbrovej 68 8520 Lystrup,68,655000.0,25-01-1993,Alm.,3540,7,Villa,185,1972,
+Stokbrovej 106 8520 Lystrup,106,1175000.0,21-01-1993,Alm.,5292,6,Villa,222,1975,
+Lille Elstedvej 56 8520 Lystrup,56,625000.0,14-01-1993,Alm.,0,6,Villa,153,1967,
+Birkebakken 33 8520 Lystrup,33,510000.0,22-10-1992,Alm.,0,6,Villa,155,1965,
+Elstedvænge 5 8520 Lystrup,5,615000.0,13-10-1992,Fam.,4880,5,Villa,126,1977,
+Bygaden 9B 8520 Lystrup,0,715000.0,16-09-1992,Alm.,0,7,Villa,193,1980,
+Ved Gadekæret 4 8520 Lystrup,4,546335.0,16-09-1992,Alm.,6208,3,Rækkehus,88,1985,
+Bygaden 22 8520 Lystrup,22,425000.0,10-09-1992,Alm.,3632,6,Villa,117,1927,
+Rugmarken 68 8520 Lystrup,68,240188.0,01-09-1992,Fam.,1891,5,Villa,127,1974,
+Skæringvej 110 8520 Lystrup,110,450000.0,31-08-1992,Alm.,2112,3,Stuehus,213,1878,
+Hyldehaven 25 8520 Lystrup,25,958000.0,25-08-1992,Alm.,5806,6,Villa,165,1976,
+Lille Elstedvej 70 8520 Lystrup,70,640000.0,17-08-1992,Alm.,0,6,Villa,163,1971,
+Slåenbakken 4 8520 Lystrup,4,718000.0,09-08-1992,Alm.,6710,4,Villa,107,1964,
+Elleparken 134 8520 Lystrup,134,730000.0,27-07-1992,Alm.,0,6,Villa,173,1972,
+Birkebakken 19 8520 Lystrup,19,875000.0,03-06-1992,Alm.,5912,5,Villa,148,1967,
+Hyldehaven 110 8520 Lystrup,110,860000.0,27-05-1992,Alm.,5733,5,Villa,150,1974,
+Gyvelbakken 2 8520 Lystrup,2,530000.0,15-04-1992,Fam.,4140,4,Villa,128,1964,
+Elstedvænge 44 8520 Lystrup,44,785900.0,15-04-1992,Alm.,0,6,Villa,172,1976,
+Rugmarken 100 8520 Lystrup,100,625000.0,07-04-1992,Alm.,0,7,Villa,178,1979,
+Elsted Kirkevej 15 8520 Lystrup,15,525000.0,16-03-1992,Alm.,5468,5,Villa,96,1956,
+Porsbakken 5 8520 Lystrup,5,740000.0,01-03-1992,Alm.,4111,6,Villa,180,1968,
+Mosevangen 17 8520 Lystrup,17,231137.0,13-02-1992,Alm.,2311,4,Villa,100,1966,
+Gyvelbakken 3 8520 Lystrup,3,580000.0,30-01-1992,Fam.,0,4,Villa,147,1964,
+Mosevangen 7 8520 Lystrup,7,610000.0,27-01-1992,Alm.,0,3,Villa,126,1961,
+Møgelgårdsvej 1D 8520 Lystrup,0,475000.0,06-01-1992,Alm.,11309,1,Villa,42,1880,

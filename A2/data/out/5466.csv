@@ -1,0 +1,691 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Lyøvej 2 5466 Asperup,2,2975000.0,27-04-2017,Andet,13048,5,Villa,228,2000,
+Bøgevangsvej 17 5466 Asperup,17,1575000.0,21-04-2017,Alm.,11666,5,Sommerhus,135,1830,-5 %
+Vedelshavevej 6 5466 Asperup,6,600000.0,12-04-2017,Fam.,5454,6,Stuehus,110,1877,
+Fynsvej 4 5466 Asperup,4,675000.0,04-04-2017,Alm.,5357,5,Villa,126,1963,0 %
+Engvejen 7 5466 Asperup,7,1390000.0,03-04-2017,Alm.,16162,3,Sommerhus,86,1960,-7 %
+Strandvejen 9 5466 Asperup,9,825000.0,15-03-2017,Fam.,9939,4,Sommerhus,83,1985,
+Middelfartvej 68 5466 Asperup,68,1740000.0,24-02-2017,Alm.,11447,5,Villa,152,1948,-3 %
+Strandgyden 14 5466 Asperup,14,950000.0,12-02-2017,Alm.,5080,4,Villa,187,1890,-3 %
+Strandgyden 1 5466 Asperup,1,1310000.0,08-01-2017,Alm.,9290,4,Villa,141,1963,-10 %
+Byvejen 62 5466 Asperup,62,715000.0,06-01-2017,Alm.,6620,5,Villa,108,1910,-4 %
+Hermelinvænget 12 5466 Asperup,12,2495000.0,04-01-2017,Alm.,14851,10,Sommerhus,168,1974,
+Middelfartvej 106 5466 Asperup,106,156809.0,31-12-2016,Alm.,653,8,Stuehus,240,1907,
+Egernvænget 1 5466 Asperup,1,680000.0,20-12-2016,Alm.,5000,5,Sommerhus,136,1972,
+Byvejen 26 5466 Asperup,26,535500.0,15-12-2016,Fam.,6226,3,Villa,86,1954,
+Kildevænget 12 5466 Asperup,12,600000.0,29-11-2016,Fam.,10714,4,Sommerhus,56,1965,
+Molevej 2 5466 Asperup,2,666667.0,15-11-2016,Andet,11111,4,Sommerhus,60,1969,
+Strandgyden 22 5466 Asperup,22,2470000.0,04-11-2016,Alm.,9573,10,Villa,258,1902,-4 %
+Kærbyvej 37C 5466 Asperup,0,2520000.0,27-09-2016,Alm.,13193,6,Villa,191,2008,-12 %
+Kærbyvej 11 5466 Asperup,11,1740000.0,22-09-2016,Alm.,11082,5,Villa,157,1913,-3 %
+Lyøvej 36 5466 Asperup,36,1955000.0,16-09-2016,Alm.,13576,5,Villa,144,1999,-6 %
+Jensbjergvænget 6 5466 Asperup,6,977500.0,15-09-2016,Fam.,12373,4,Sommerhus,79,1979,
+Sommerlandsvej 9 5466 Asperup,9,800000.0,13-09-2016,Alm.,13559,4,Sommerhus,59,1977,-41 %
+Eskelundsvej 13 5466 Asperup,13,1000000.0,08-09-2016,Alm.,14492,4,Sommerhus,69,1968,-4 %
+Middelfartvej 6 5466 Asperup,6,661000.0,19-08-2016,Fam.,8474,3,Villa,78,1902,
+Rankegårdsvænget 2 5466 Asperup,2,2395000.0,16-08-2016,Alm.,12473,5,Villa,192,2006,
+Vedelshavevej 2 5466 Asperup,2,1570000.0,05-08-2016,Alm.,10902,5,Stuehus,144,1913,-7 %
+Byvejen 15 5466 Asperup,15,1700000.0,02-08-2016,Alm.,10759,5,Villa,158,1895,-5 %
+Kærbyvej 6 5466 Asperup,6,2450000.0,29-07-2016,Alm.,9607,7,Villa,255,1913,-2 %
+Kildevænget 11 5466 Asperup,11,995000.0,21-07-2016,Alm.,12134,4,Sommerhus,82,1978,
+Kildevangsvej 12 5466 Asperup,12,1550000.0,15-07-2016,Alm.,25409,4,Sommerhus,61,1983,
+Hjortevænget 17 5466 Asperup,17,1500000.0,14-07-2016,Alm.,10563,5,Sommerhus,142,1973,-23 %
+Kystvejen 8 5466 Asperup,8,1250000.0,14-07-2016,Alm.,10245,6,Villa,122,1935,-10 %
+Drejøvej 3 5466 Asperup,3,1500000.0,27-06-2016,Fam.,6818,8,Villa,220,2000,
+Middelfartvej 59 5466 Asperup,59,900000.0,22-06-2016,Fam.,7377,4,Villa,122,1934,
+Engvejen 3 5466 Asperup,3,255000.0,08-06-2016,Fam.,3072,4,Sommerhus,83,2011,
+Blankegaardsvej 10 5466 Asperup,10,1066666.0,30-05-2016,Fam.,4407,6,Villa,242,1940,
+Bankejorden 3 5466 Asperup,3,1150000.0,22-05-2016,Alm.,11734,3,Rækkehus,98,2004,-4 %
+Birkevangsvej 1 5466 Asperup,1,1400000.0,10-05-2016,Fam.,14893,4,Stuehus,94,1910,
+Kærbyvej 4 5466 Asperup,4,2600000.0,01-05-2016,Alm.,10236,7,Stuehus,254,1800,0 %
+Byvejen 60 5466 Asperup,60,1210859.0,29-04-2016,Alm.,6545,6,Villa,185,1930,-50 %
+Byvejen 4 5466 Asperup,4,775000.0,12-04-2016,Alm.,6300,4,Villa,123,1864,-9 %
+Eskelundsvej 3 5466 Asperup,3,1025000.0,11-04-2016,Alm.,10677,4,Sommerhus,96,1970,-6 %
+Bøgevangsvej 8 5466 Asperup,8,2400000.0,11-04-2016,Alm.,24742,4,Sommerhus,97,2007,-4 %
+Eskelundsvej 12 5466 Asperup,12,2775500.0,05-04-2016,Alm.,20868,5,Sommerhus,133,2009,-7 %
+Skyttevej 8F 5466 Asperup,0,350000.0,01-04-2016,Alm.,6603,1,Sommerhus,53,2003,
+Blankegaardsvej 1 5466 Asperup,1,687500.0,29-03-2016,Alm.,4323,5,Villa,159,1897,-53 %
+Jensbjergvænget 4 5466 Asperup,4,1300000.0,06-03-2016,Alm.,13000,5,Sommerhus,100,1972,-13 %
+Kirkestræde 10 5466 Asperup,10,1050000.0,25-02-2016,Alm.,5250,4,Villa,200,1902,-2 %
+Kildevangsvej 22 5466 Asperup,22,1360000.0,20-01-2016,Alm.,22666,5,Sommerhus,60,1986,-3 %
+Middelfartvej 63 5466 Asperup,63,1150000.0,18-01-2016,Alm.,7876,5,Stuehus,146,1887,
+Middelfartvej 22 5466 Asperup,22,285000.0,16-01-2016,Alm.,3958,3,Rækkehus,72,1852,-28 %
+Eskelundsvej 7 5466 Asperup,7,425000.0,09-01-2016,Fam.,6538,3,Sommerhus,65,1970,
+Bankejorden 9 5466 Asperup,9,550000.0,26-11-2015,Fam.,5612,3,Rækkehus,98,2004,
+Kærbyholmvej 3 5466 Asperup,3,1062500.0,19-11-2015,Fam.,7755,4,Villa,137,1920,
+Grævlingevænget 1 5466 Asperup,1,1650000.0,19-11-2015,Alm.,6321,6,Villa,261,1907,-17 %
+Bankejorden 7 5466 Asperup,7,1160000.0,13-11-2015,Alm.,11836,3,Rækkehus,98,2004,
+Bøgevangsvej 13 5466 Asperup,13,1020000.0,11-11-2015,Fam.,12750,5,Sommerhus,80,1992,
+Drejøvej 4 5466 Asperup,4,2350000.0,29-10-2015,Alm.,14156,5,Villa,166,2007,-8 %
+Byvejen 58 5466 Asperup,58,1695000.0,06-10-2015,Alm.,8604,7,Villa,197,1930,0 %
+Byvejen 13 5466 Asperup,13,1720000.0,05-10-2015,Alm.,9450,6,Villa,182,1912,-4 %
+Kirkestræde 5 5466 Asperup,5,1400000.0,05-10-2015,Alm.,8235,6,Villa,170,1908,-6 %
+Fynsvej 5 5466 Asperup,5,1520000.0,30-09-2015,Alm.,10410,5,Villa,146,1978,-5 %
+Middelfartvej 46 5466 Asperup,46,998000.0,24-09-2015,Alm.,5940,5,Villa,168,1890,
+Hindballevej 16 5466 Asperup,16,998000.0,23-09-2015,Alm.,8529,4,Villa,117,1877,0 %
+Kystvejen 25 5466 Asperup,25,566226.0,22-09-2015,Fam.,3676,5,Villa,154,1914,
+Kirkestræde 7 5466 Asperup,7,1130372.0,17-09-2015,Fam.,4008,10,Villa,282,1925,
+Middelfartvej 83 5466 Asperup,83,725000.0,16-09-2015,Alm.,7250,4,Villa,100,1965,-9 %
+Samsøvej 35 5466 Asperup,35,1282500.0,20-08-2015,Andet,6107,7,Villa,210,1974,-49 %
+Middelfartvej 2 5466 Asperup,2,1500000.0,13-08-2015,Alm.,9803,5,Villa,153,1900,-3 %
+Fynsvej 16 5466 Asperup,16,895000.0,13-08-2015,Alm.,7276,4,Villa,123,1978,
+Kystvejen 20 5466 Asperup,20,935000.0,11-08-2015,Fam.,5993,4,Villa,156,1870,
+Sildegravsbanken 3 5466 Asperup,3,925000.0,10-07-2015,Alm.,3388,8,Villa,273,1850,-7 %
+Bøgevangsvej 5 5466 Asperup,5,5350000.0,23-06-2015,Alm.,32035,4,Sommerhus,167,1999,
+Kirkebjergvej 1 5466 Asperup,1,650000.0,22-06-2015,Alm.,6018,3,Villa,108,1973,-4 %
+Eskelundsvej 1 5466 Asperup,1,1560000.0,09-06-2015,Alm.,16595,3,Sommerhus,94,1997,-11 %
+Middelfartvej 88 5466 Asperup,88,1250000.0,20-05-2015,Alm.,6097,6,Villa,205,1875,
+Jensbjergvænget 1A 5466 Asperup,0,1742500.0,05-05-2015,Fam.,12907,5,Sommerhus,135,1995,
+Byvejen 36 5466 Asperup,36,1000000.0,03-05-2015,Alm.,4672,6,Villa,214,1920,-9 %
+Harevænget 5 5466 Asperup,5,595000.0,30-04-2015,Fam.,5409,5,Sommerhus,110,1971,
+Kildevangsvej 6 5466 Asperup,6,975000.0,24-04-2015,Alm.,15000,4,Sommerhus,65,1984,-15 %
+Jensbjergvænget 2 5466 Asperup,2,1325000.0,24-04-2015,Alm.,16772,4,Sommerhus,79,1974,-11 %
+Bøgevangsvej 12 5466 Asperup,12,2240000.0,17-04-2015,Alm.,18666,5,Sommerhus,120,2010,-12 %
+Hindballevej 5 5466 Asperup,5,1145000.0,27-03-2015,Alm.,5088,6,Villa,225,1910,-4 %
+Rankegårdsvænget 6 5466 Asperup,6,1850000.0,26-03-2015,Alm.,12333,5,Villa,150,2003,-6 %
+Ægypten 1 5466 Asperup,1,508863.0,24-03-2015,Auktion,3200,5,Stuehus,159,1870,
+Skovgyden 5 5466 Asperup,5,1350000.0,20-03-2015,Alm.,11440,4,Villa,118,1994,-3 %
+Eskelundsvej 6 5466 Asperup,6,550000.0,13-03-2015,Fam.,8088,4,Sommerhus,68,1978,
+Brentebjerg 1 5466 Asperup,1,3200000.0,26-01-2015,Alm.,18604,5,Villa,172,2010,-8 %
+Eskelundsvej 24 5466 Asperup,24,807500.0,17-01-2015,Fam.,11535,4,Sommerhus,70,1971,
+Strandvejen 32 5466 Asperup,32,550000.0,14-01-2015,Fam.,5188,4,Sommerhus,106,2015,
+Læsøvej 19 5466 Asperup,19,2175000.0,14-01-2015,Alm.,13425,5,Villa,162,1988,-8 %
+Samsøvej 19 5466 Asperup,19,830000.0,09-01-2015,Alm.,5460,5,Villa,152,1973,-7 %
+Blankegaardvænget 4 5466 Asperup,4,1290000.0,24-11-2014,Fam.,7588,5,Villa,170,1973,
+Bøgevangsvej 16 5466 Asperup,16,1320000.0,09-11-2014,Fam.,15529,4,Sommerhus,85,1988,
+Middelfartvej 56 5466 Asperup,56,1125000.0,01-10-2014,Alm.,8272,3,Villa,136,1897,-2 %
+Hermelinvænget 14 5466 Asperup,14,1275000.0,06-09-2014,Alm.,10200,5,Sommerhus,125,1977,-23 %
+Sommerlandsvej 11 5466 Asperup,11,1100000.0,25-08-2014,Alm.,14285,4,Sommerhus,77,1972,
+Sommerlandsvej 29 5466 Asperup,29,1600000.0,22-08-2014,Alm.,7619,6,Sommerhus,210,1991,-6 %
+Eskelundsvej 16 5466 Asperup,16,2250000.0,10-08-2014,Alm.,22058,4,Sommerhus,102,2006,-10 %
+Sommerlandsvej 31 5466 Asperup,31,1800000.0,01-08-2014,Alm.,20930,6,Sommerhus,86,1974,
+Sommerlandsvej 8 5466 Asperup,8,1150000.0,31-07-2014,Alm.,15972,4,Sommerhus,72,1979,-18 %
+Middelfartvej 98 5466 Asperup,98,2420000.0,30-07-2014,Alm.,13081,6,Villa,185,1914,5 %
+Byvejen 42 5466 Asperup,42,2250000.0,17-07-2014,Alm.,9493,10,Villa,237,1914,0 %
+Middelfartvej 55 5466 Asperup,55,4105000.0,08-07-2014,Alm.,19004,4,Stuehus,216,1957,-2 %
+Hjortevænget 4 5466 Asperup,4,1700000.0,07-07-2014,Alm.,25373,4,Sommerhus,67,1986,-5 %
+Hermelinvænget 2 5466 Asperup,2,1700000.0,03-07-2014,Alm.,8173,6,Sommerhus,208,1990,-8 %
+Eskelundsvænget 19 5466 Asperup,19,2920000.0,02-07-2014,Alm.,42318,4,Sommerhus,69,1975,
+Strandhavevej 2 5466 Asperup,2,2260000.0,27-06-2014,Alm.,10560,4,Stuehus,214,1877,-9 %
+Kærbyvej 2 5466 Asperup,2,1200000.0,18-06-2014,Alm.,6666,7,Villa,180,1898,
+Strandvejen 16 5466 Asperup,16,950000.0,07-06-2014,Alm.,10555,4,Sommerhus,90,2015,0 %
+Lærkestræde 4 5466 Asperup,4,350000.0,03-06-2014,Alm.,3645,4,Villa,96,1961,-29 %
+Blankegaardsvej 29 5466 Asperup,29,850000.0,28-05-2014,Alm.,0,6,Villa,121,1963,-5 %
+Strandvejen 28 5466 Asperup,28,977500.0,02-05-2014,Fam.,15038,3,Sommerhus,65,1976,
+Engvejen 32 5466 Asperup,32,422875.0,02-05-2014,Fam.,8457,3,Sommerhus,50,1969,
+Middelfartvej 64 5466 Asperup,64,1300000.0,30-04-2014,Alm.,10833,6,Villa,120,1933,
+Middelfartvej 84 5466 Asperup,84,1837500.0,29-04-2014,Fam.,4333,12,Stuehus,424,1869,
+Harevænget 3 5466 Asperup,3,1995000.0,15-04-2014,Alm.,0,5,Sommerhus,156,1973,0 %
+Molevej 8 5466 Asperup,8,1200000.0,08-04-2014,Fam.,9022,6,Sommerhus,133,1984,
+Mosehaven 4 5466 Asperup,4,985000.0,07-04-2014,Alm.,10368,4,Villa,95,1877,0 %
+Fynsvej 12 5466 Asperup,12,472500.0,31-03-2014,Alm.,3327,5,Villa,142,1966,
+Dybdalsvej 1 5466 Asperup,1,350000.0,27-03-2014,Alm.,3211,4,Villa,109,1877,-29 %
+Blankegaardsvej 28 5466 Asperup,28,600000.0,20-03-2014,Alm.,6250,3,Villa,96,1967,-8 %
+Kildevangsvej 2 5466 Asperup,2,1550000.0,13-03-2014,Alm.,14090,5,Sommerhus,110,1984,-12 %
+Kærbyvej 51 5466 Asperup,51,2465000.0,26-02-2014,Alm.,8963,7,Stuehus,275,1902,-1 %
+Strandhavevej 4 5466 Asperup,4,1200000.0,17-01-2014,Alm.,4878,5,Stuehus,246,2016,-3 %
+Strandvejen 12 5466 Asperup,12,250000.0,13-01-2014,Fam.,6944,3,Sommerhus,36,1937,
+Kystvejen 30 5466 Asperup,30,2820000.0,31-12-2013,Alm.,15754,4,Stuehus,179,1860,-3 %
+Eskelundsvænget 5 5466 Asperup,5,1135000.0,30-12-2013,Alm.,15763,4,Sommerhus,72,1969,-12 %
+Engvejen 20 5466 Asperup,20,850000.0,22-12-2013,Alm.,10493,3,Sommerhus,81,1965,-15 %
+Byvejen 18 5466 Asperup,18,1715000.0,19-12-2013,Alm.,16333,4,Villa,105,1934,4 %
+Kystvejen 8M 5466 Asperup,0,1415500.0,17-12-2013,Alm.,9312,4,Sommerhus,152,2008,
+Hjortevænget 13 5466 Asperup,13,2375000.0,11-11-2013,Alm.,14843,5,Sommerhus,160,1968,-7 %
+Blankegaardsvej 32 5466 Asperup,32,2325000.0,21-10-2013,Alm.,14351,6,Villa,162,1999,-7 %
+Lyøvej 10 5466 Asperup,10,1400000.0,11-10-2013,Alm.,12280,3,Villa,114,2001,-6 %
+Mørkesgyden 2 5466 Asperup,2,1750000.0,04-10-2013,Alm.,8578,5,Villa,204,1953,-19 %
+Ægypten 2 5466 Asperup,2,610000.0,17-09-2013,Alm.,3333,6,Villa,183,1880,-6 %
+Sommerlandsvej 17 5466 Asperup,17,1585000.0,16-08-2013,Alm.,11917,5,Sommerhus,133,1976,-6 %
+Lærkestræde 1 5466 Asperup,1,780000.0,16-07-2013,Alm.,6610,3,Villa,118,1877,-13 %
+Daadyrvænget 18 5466 Asperup,18,977500.0,24-06-2013,Fam.,13033,4,Sommerhus,75,1967,
+Eskelundsvænget 2 5466 Asperup,2,1150000.0,17-06-2013,Alm.,10849,6,Sommerhus,106,1969,-8 %
+Egernvænget 2 5466 Asperup,2,3000000.0,18-05-2013,Alm.,21276,6,Sommerhus,141,1969,-8 %
+Byvejen 50 5466 Asperup,50,610000.0,14-04-2013,Alm.,5398,4,Villa,113,1961,-28 %
+Bankejorden 11 5466 Asperup,11,1000000.0,01-03-2013,Alm.,10204,3,Rækkehus,98,2004,-9 %
+Sommerlandsvej 15 5466 Asperup,15,1800000.0,20-02-2013,Alm.,20000,5,Sommerhus,90,1975,-10 %
+Strandvejen 5 5466 Asperup,5,500000.0,05-02-2013,Fam.,6250,4,Sommerhus,80,2007,
+Eskelundsvænget 13 5466 Asperup,13,1320000.0,25-01-2013,Alm.,23571,3,Sommerhus,56,1972,
+Æbeløvej 8 5466 Asperup,8,1000000.0,20-12-2012,Alm.,6493,5,Villa,154,1971,-23 %
+Kærbyvej 37B 5466 Asperup,0,3200000.0,14-12-2012,Alm.,11347,8,Villa,282,2008,-8 %
+Bævervænget 3 5466 Asperup,3,1232500.0,10-12-2012,Fam.,10907,5,Sommerhus,113,1973,
+Harevænget 9 5466 Asperup,9,990000.0,05-12-2012,Alm.,7983,6,Sommerhus,124,1970,
+Kohavevej 1 5466 Asperup,1,1100000.0,02-12-2012,Alm.,5527,7,Villa,199,2016,-37 %
+Jensbjergvænget 1 5466 Asperup,1,1275000.0,29-11-2012,Fam.,10714,5,Sommerhus,119,1976,
+Eskelundsvænget 15 5466 Asperup,15,1150000.0,28-10-2012,Alm.,17424,3,Sommerhus,66,1971,-8 %
+Hermelinvænget 16 5466 Asperup,16,2325000.0,16-10-2012,Alm.,15816,6,Sommerhus,147,1977,
+Bøgevangsvej 28 5466 Asperup,28,2525000.0,21-09-2012,Alm.,21581,5,Sommerhus,117,2010,-10 %
+Eskelundsvænget 10 5466 Asperup,10,1300000.0,03-08-2012,Alm.,0,6,Sommerhus,139,1972,-16 %
+Eskelundsvænget 11 5466 Asperup,11,1120500.0,01-08-2012,Alm.,17507,4,Sommerhus,64,1972,-10 %
+Æbeløvej 2 5466 Asperup,2,1210000.0,19-06-2012,Alm.,9758,4,Villa,124,1965,-7 %
+Stationsstien 5 5466 Asperup,5,600000.0,31-05-2012,Fam.,5607,3,Villa,107,1996,
+Daadyrvænget 11 5466 Asperup,11,2650000.0,14-05-2012,Alm.,23043,4,Sommerhus,115,1968,
+Skyttevej 8B 5466 Asperup,0,275825.0,29-04-2012,Alm.,4755,2,Sommerhus,58,2007,
+Vedelshavevej 11 5466 Asperup,11,1200000.0,16-03-2012,Alm.,3934,5,Stuehus,305,2013,-31 %
+Middelfartvej 43 5466 Asperup,43,795000.0,06-03-2012,Auktion,4595,6,Villa,173,1900,
+Kærbyvej 5A 5466 Asperup,0,1050000.0,05-03-2012,Alm.,12068,3,Villa,87,1966,-9 %
+Kildevangsvej 19 5466 Asperup,19,1625000.0,28-02-2012,Alm.,18678,5,Sommerhus,87,1998,
+Grævlingevænget 4 5466 Asperup,4,2800000.0,26-02-2012,Alm.,18918,4,Sommerhus,148,1984,-14 %
+Kohavevej 5 5466 Asperup,5,3950000.0,10-02-2012,Alm.,15800,10,Stuehus,250,1917,
+Vedelshavevej 13 5466 Asperup,13,3950000.0,10-02-2012,Alm.,21703,6,Stuehus,182,1997,-1 %
+Enghøjvej 1 5466 Asperup,1,210000.0,30-01-2012,Alm.,3750,2,Sommerhus,56,1951,-43 %
+Daadyrvænget 22 5466 Asperup,22,1125000.0,18-01-2012,Alm.,9533,5,Sommerhus,118,1971,
+Gartnervænget 2 5466 Asperup,2,1400000.0,09-12-2011,Alm.,6334,6,Villa,221,2014,
+Sildegravsbanken 10 5466 Asperup,10,2300000.0,05-12-2011,Alm.,13372,5,Villa,172,2012,
+Bankejorden 13 5466 Asperup,13,1210000.0,18-10-2011,Alm.,12346,3,Rækkehus,98,2004,
+Bankejorden 5 5466 Asperup,5,1210000.0,18-10-2011,Alm.,12346,3,Rækkehus,98,2004,
+Ravnskovgyden 7 5466 Asperup,7,1065000.0,26-08-2011,Alm.,20094,2,Villa,53,1916,-3 %
+Kystvejen 8F 5466 Asperup,0,3100000.0,24-08-2011,Alm.,20394,4,Sommerhus,152,2008,-17 %
+Middelfartvej 37 5466 Asperup,37,2000000.0,12-08-2011,Alm.,8196,6,Villa,244,1980,0 %
+Byvejen 43 5466 Asperup,43,1500000.0,04-07-2011,Alm.,9146,4,Villa,164,1900,
+Daadyrvænget 5 5466 Asperup,5,1500000.0,21-06-2011,Alm.,17441,4,Sommerhus,86,1973,-6 %
+Drejøvej 1 5466 Asperup,1,1040000.0,23-05-2011,Alm.,7323,4,Villa,142,2005,
+Strandgyden 5 5466 Asperup,5,1385000.0,19-05-2011,Alm.,11169,4,Villa,124,1910,0 %
+Middelfartvej 26 5466 Asperup,26,660000.0,16-05-2011,Fam.,5196,5,Villa,127,1890,
+Kærbyvej 17 5466 Asperup,17,1000000.0,05-05-2011,Alm.,12987,3,Villa,77,1964,-13 %
+Engvejen 15 5466 Asperup,15,1450000.0,28-04-2011,Alm.,14646,5,Sommerhus,99,1960,-12 %
+Blankegaardvænget 6 5466 Asperup,6,1245000.0,14-04-2011,Fam.,8032,5,Villa,155,1973,
+Kirkebjergvej 26 5466 Asperup,26,25000.0,12-04-2011,Auktion,250,5,Villa,100,1906,
+Grønnegyden 3 5466 Asperup,3,980000.0,31-03-2011,Alm.,5632,4,Stuehus,174,1885,
+Læsøvej 17 5466 Asperup,17,537500.0,27-01-2011,Andet,3297,6,Villa,163,1995,
+Lyøvej 30 5466 Asperup,30,1970000.0,25-01-2011,Alm.,12236,4,Villa,161,2000,-1 %
+Kærbyvej 31 5466 Asperup,31,1275000.0,19-01-2011,Alm.,12028,4,Villa,106,1969,-2 %
+Fynsvej 8 5466 Asperup,8,875000.0,20-12-2010,Alm.,7415,4,Villa,118,1966,-7 %
+Bøgevangsvej 32 5466 Asperup,32,3000000.0,24-11-2010,Alm.,20270,5,Sommerhus,148,2011,54 %
+Hindballevej 8 5466 Asperup,8,1550000.0,28-10-2010,Alm.,14090,4,Stuehus,110,1914,
+Engvejen 10 5466 Asperup,10,1075000.0,09-09-2010,Fam.,0,7,Sommerhus,109,1979,
+Vedelshavevej 10 5466 Asperup,10,2095000.0,31-08-2010,Alm.,20742,4,Villa,101,1962,0 %
+Middelfartvej 40 5466 Asperup,40,825000.0,26-08-2010,Alm.,4796,5,Villa,172,1909,
+Middelfartvej 38 5466 Asperup,38,1595000.0,05-07-2010,Alm.,6457,7,Villa,247,1927,0 %
+Blankegaardsvej 31 5466 Asperup,31,8715000.0,25-06-2010,Alm.,32640,8,Stuehus,267,1986,
+Kirkebjergvej 22 5466 Asperup,22,500000.0,20-06-2010,Alm.,2358,4,Villa,212,1912,
+Middelfartvej 67 5466 Asperup,67,845000.0,04-06-2010,Alm.,9285,3,Villa,91,1920,-6 %
+Byvejen 12 5466 Asperup,12,550000.0,01-06-2010,Alm.,2412,6,Villa,228,1870,-31 %
+Skyttevej 4 5466 Asperup,4,2800000.0,28-05-2010,Alm.,17834,7,Stuehus,157,1860,-10 %
+Kystvejen 8P 5466 Asperup,0,2100000.0,10-05-2010,Alm.,13815,4,Sommerhus,152,2008,-8 %
+Skarøvej 4 5466 Asperup,4,1497500.0,05-05-2010,Fam.,8273,7,Villa,181,2009,
+Kystvejen 8A 5466 Asperup,0,2500000.0,27-04-2010,Alm.,16447,4,Sommerhus,152,2008,-17 %
+Hermelinvænget 4 5466 Asperup,4,2200000.0,16-04-2010,Alm.,16666,6,Sommerhus,132,1973,-8 %
+Kystvejen 8C 5466 Asperup,0,1975000.0,16-04-2010,Alm.,12993,4,Sommerhus,152,2008,0 %
+Læsøvej 9 5466 Asperup,9,2200000.0,31-03-2010,Alm.,12359,7,Villa,178,1996,-8 %
+Kærbyvej 7 5466 Asperup,7,859703.0,05-02-2010,Andet,4723,6,Villa,182,1963,
+Middelfartvej 52 5466 Asperup,52,1250000.0,28-01-2010,Alm.,7812,8,Villa,160,1877,
+Pilevangsvej 2 5466 Asperup,2,2605000.0,27-01-2010,Alm.,13358,5,Stuehus,195,1987,-4 %
+Strandhavevej 8 5466 Asperup,8,1300000.0,23-11-2009,Alm.,7222,5,Stuehus,180,2011,-10 %
+Stationsstien 1 5466 Asperup,1,1350000.0,19-10-2009,Alm.,10714,4,Villa,126,1930,-10 %
+Kystvejen 8N 5466 Asperup,0,2150000.0,14-10-2009,Alm.,14144,4,Sommerhus,152,2008,-13 %
+Engvejen 18 5466 Asperup,18,1150000.0,04-09-2009,Alm.,0,3,Sommerhus,101,1970,-32 %
+Middelfartvej 85 5466 Asperup,85,995000.0,01-09-2009,Alm.,8728,5,Villa,114,1877,0 %
+Strandvejen 25 5466 Asperup,25,850000.0,18-08-2009,Fam.,22368,3,Sommerhus,38,1937,
+Eskelundsvænget 4 5466 Asperup,4,1460000.0,22-07-2009,Alm.,28076,3,Sommerhus,52,1969,
+Middelfartvej 54 5466 Asperup,54,780000.0,15-07-2009,Alm.,6290,4,Villa,124,1912,
+Fynsvej 3 5466 Asperup,3,1300000.0,09-06-2009,Alm.,9923,5,Villa,131,1977,-12 %
+Kystvejen 8D 5466 Asperup,0,2400000.0,20-05-2009,Alm.,15789,4,Sommerhus,152,2008,-11 %
+Vedelshavevej 7 5466 Asperup,7,1395000.0,13-05-2009,Alm.,9425,5,Stuehus,148,1955,-7 %
+Bøgevangsvej 14 5466 Asperup,14,933000.0,06-05-2009,Alm.,8330,5,Sommerhus,112,2010,-22 %
+Samsøvej 25 5466 Asperup,25,1150000.0,03-05-2009,Alm.,10000,5,Villa,115,1975,-11 %
+Middelfartvej 53 5466 Asperup,53,520500.0,26-02-2009,Fam.,5848,4,Villa,89,1925,
+Eskelundsvej 26 5466 Asperup,26,1250000.0,24-02-2009,Alm.,18656,3,Sommerhus,67,1971,-22 %
+Kærbyholmvej 1 5466 Asperup,1,3590000.0,11-02-2009,Fam.,12379,12,Stuehus,290,1913,
+Engvejen 36 5466 Asperup,36,816000.0,27-01-2009,Fam.,13600,3,Sommerhus,60,1962,
+Vedelshavevej 3 5466 Asperup,3,6700000.0,19-12-2008,Fam.,51538,5,Stuehus,130,1861,
+Kærbyvej 39 5466 Asperup,39,1375000.0,01-12-2008,Alm.,0,4,Stuehus,109,1870,
+Engvejen 1 5466 Asperup,1,510000.0,26-11-2008,Andet,6623,4,Sommerhus,77,1961,
+Kildevænget 10 5466 Asperup,10,4500000.0,19-11-2008,Andet,45918,4,Sommerhus,98,2001,
+Byvejen 37 5466 Asperup,37,1200000.0,19-11-2008,Alm.,7407,5,Villa,162,1970,-20 %
+Æbeløvej 5 5466 Asperup,5,601000.0,22-10-2008,Alm.,6195,5,Villa,97,1963,
+Rankegårdsvænget 1 5466 Asperup,1,2025000.0,14-10-2008,Alm.,11842,5,Villa,171,2005,-12 %
+Kildevangsvej 16 5466 Asperup,16,2300000.0,20-09-2008,Alm.,30263,4,Sommerhus,76,2000,-7 %
+Kystvejen 8R 5466 Asperup,0,1400000.0,11-08-2008,Alm.,9210,4,Sommerhus,152,2008,
+Byvejen 20 5466 Asperup,20,610000.0,08-08-2008,Alm.,5980,3,Villa,102,1900,-19 %
+Blankegaardvænget 14 5466 Asperup,14,1200000.0,31-07-2008,Alm.,8510,4,Villa,141,1977,-14 %
+Læsøvej 8 5466 Asperup,8,725503.0,11-07-2008,Fam.,4370,6,Villa,166,1987,
+Lærkestræde 8 5466 Asperup,8,74700.0,04-07-2008,Alm.,249,9,Stuehus,300,1848,
+Byvejen 2 5466 Asperup,2,975000.0,01-07-2008,Alm.,5416,5,Villa,180,1927,-15 %
+Engvejen 28 5466 Asperup,28,1350000.0,01-07-2008,Alm.,13917,4,Sommerhus,97,2009,
+Hedegaardsvej 2 5466 Asperup,2,2579039.0,30-06-2008,Fam.,10928,8,Villa,236,1877,
+Kirkestræde 1 5466 Asperup,1,463050.0,17-06-2008,Alm.,1575,9,Stuehus,294,1885,
+Engvejen 13 5466 Asperup,13,765000.0,13-06-2008,Alm.,11590,4,Sommerhus,66,1966,-44 %
+Æbeløvej 4 5466 Asperup,4,950000.0,26-05-2008,Alm.,9500,3,Villa,100,1964,
+Grævlingevænget 12 5466 Asperup,12,1004000.0,23-05-2008,Andet,0,4,Sommerhus,83,1932,
+Kystvejen 8L 5466 Asperup,0,2800000.0,22-05-2008,Alm.,18421,4,Sommerhus,152,2008,
+Hindballevej 1 5466 Asperup,1,1095000.0,19-05-2008,Alm.,6221,5,Villa,176,1840,-9 %
+Byvejen 66 5466 Asperup,66,600240.0,15-05-2008,Alm.,3872,8,Stuehus,155,1912,
+Kystvejen 8B 5466 Asperup,0,2100000.0,24-04-2008,Alm.,13815,4,Sommerhus,152,2008,
+Lindegaardsvej 1 5466 Asperup,1,1650000.0,21-04-2008,Alm.,16500,4,Villa,100,1952,-4 %
+Kystvejen 8E 5466 Asperup,0,2000000.0,21-04-2008,Alm.,13157,4,Sommerhus,152,2008,
+Kystvejen 8K 5466 Asperup,0,2300000.0,12-04-2008,Alm.,15131,4,Sommerhus,152,2008,
+Byvejen 48 5466 Asperup,48,1312500.0,19-03-2008,Alm.,10847,4,Villa,121,1961,-9 %
+Middelfartvej 70 5466 Asperup,70,1200000.0,03-03-2008,Alm.,9375,4,Villa,128,1930,-4 %
+Daadyrvænget 23 5466 Asperup,23,3000000.0,29-02-2008,Fam.,0,5,Sommerhus,200,1972,
+Kærbyholmvej 8 5466 Asperup,8,2242500.0,12-01-2008,Fam.,20022,4,Stuehus,112,1912,
+Daadyrvænget 7 5466 Asperup,7,1105000.0,25-12-2007,Fam.,12277,4,Sommerhus,90,1969,
+Jensbjergvænget 7 5466 Asperup,7,2550000.0,15-12-2007,Fam.,19921,5,Sommerhus,128,1979,
+Skovgyden 4 5466 Asperup,4,684524.0,12-12-2007,Fam.,5070,4,Villa,135,2000,
+Kærbyvænget 5 5466 Asperup,5,375000.0,29-11-2007,Alm.,2516,6,Villa,149,2008,0 %
+Lyøvej 35 5466 Asperup,35,2690000.0,26-11-2007,Alm.,17133,4,Villa,157,1997,
+Daadyrvænget 1 5466 Asperup,1,1850000.0,23-11-2007,Alm.,10393,7,Sommerhus,178,1974,-3 %
+Byvejen 54 5466 Asperup,54,1695000.0,08-11-2007,Alm.,14008,5,Villa,121,1942,
+Sommerlandsvej 19 5466 Asperup,19,1450000.0,07-11-2007,Andet,15425,3,Sommerhus,94,1973,
+Kildevangsvej 10 5466 Asperup,10,1050000.0,24-10-2007,Fam.,17213,4,Sommerhus,61,1984,
+Skovgyden 2 5466 Asperup,2,1250000.0,20-09-2007,Alm.,9615,5,Villa,130,1971,
+Eskelundsvænget 6 5466 Asperup,6,1800000.0,03-09-2007,Alm.,14876,5,Sommerhus,121,1968,
+Blankegaardsvej 5 5466 Asperup,5,650000.0,20-08-2007,Alm.,7738,3,Villa,84,1910,
+Blankegaardsvej 30 5466 Asperup,30,1080000.0,18-08-2007,Alm.,11250,3,Villa,96,1968,
+Molevej 10 5466 Asperup,10,1550000.0,12-08-2007,Alm.,16847,4,Sommerhus,92,1983,-13 %
+Middelfartvej 108 5466 Asperup,108,1495000.0,05-07-2007,Alm.,11960,5,Villa,125,1913,-12 %
+Harevænget 1 5466 Asperup,1,2775000.0,04-07-2007,Alm.,26179,4,Sommerhus,106,1977,-7 %
+Strandvejen 27 5466 Asperup,27,850000.0,02-07-2007,Alm.,21250,2,Sommerhus,40,1933,
+Kærbyvej 10 5466 Asperup,10,1785000.0,24-06-2007,Alm.,9916,5,Villa,180,1877,
+Hindballevej 3 5466 Asperup,3,1400000.0,23-06-2007,Alm.,11764,4,Villa,119,1929,
+Middelfartvej 62 5466 Asperup,62,1127000.0,08-06-2007,Alm.,9162,4,Villa,123,1910,
+Bøgevangsvej 15 5466 Asperup,15,2475000.0,06-06-2007,Alm.,29117,4,Sommerhus,85,1973,
+Kirkebjergvej 24 5466 Asperup,24,858155.0,24-05-2007,Alm.,5572,6,Stuehus,154,1777,
+Sommerlandsvej 23 5466 Asperup,23,1700000.0,21-05-2007,Alm.,17000,5,Sommerhus,100,1971,
+Strandvejen 34 5466 Asperup,34,750000.0,05-05-2007,Alm.,7812,4,Villa,96,1927,
+Vestermarken 1 5466 Asperup,1,1800000.0,27-04-2007,Alm.,7346,7,Villa,245,1910,0 %
+Kærbyvej 25 5466 Asperup,25,1050000.0,29-03-2007,Alm.,10500,3,Villa,100,1965,
+Kærbyvej 33 5466 Asperup,33,1135000.0,23-03-2007,Alm.,8107,5,Villa,140,1972,
+Byvejen 28 5466 Asperup,28,975000.0,12-02-2007,Alm.,8705,3,Villa,112,1931,
+Blankegaardsvej 15 5466 Asperup,15,1225000.0,06-02-2007,Alm.,6481,7,Villa,189,1931,-2 %
+Brentebjerg 4 5466 Asperup,4,3725000.0,22-01-2007,Alm.,10434,12,Villa,357,1848,
+Sildegravsbanken 5 5466 Asperup,5,2950000.0,16-01-2007,Alm.,7564,6,Villa,390,1930,
+Kærbyvej 35 5466 Asperup,35,1470000.0,01-01-2007,Alm.,10208,4,Villa,144,1968,
+Middelfartvej 47 5466 Asperup,47,5368000.0,22-12-2006,Fam.,25201,9,Stuehus,213,1911,
+Enghøjvej 3 5466 Asperup,3,1200000.0,15-12-2006,Fam.,8275,6,Stuehus,145,1905,
+Samsøvej 4 5466 Asperup,4,1350000.0,14-12-2006,Alm.,7068,6,Villa,191,1970,
+Byvejen 9 5466 Asperup,9,1725000.0,22-11-2006,Alm.,11274,4,Villa,153,1933,
+Byvejen 6 5466 Asperup,6,1820000.0,02-11-2006,Alm.,10705,7,Villa,170,1927,
+Kærbyvej 37A 5466 Asperup,0,234910.0,29-10-2006,Alm.,1210,6,Villa,194,2008,
+Eskelundsvej 20 5466 Asperup,20,1675000.0,13-10-2006,Alm.,13400,5,Sommerhus,125,1968,
+Middelfartvej 77 5466 Asperup,77,2675000.0,28-09-2006,Alm.,10056,12,Stuehus,266,1878,
+Byvejen 10 5466 Asperup,10,425000.0,28-09-2006,Alm.,2814,5,Villa,151,2009,
+Hjortevænget 14 5466 Asperup,14,2985000.0,20-09-2006,Alm.,15546,5,Sommerhus,192,1971,
+Blankegaardvænget 2 5466 Asperup,2,580000.0,12-09-2006,Alm.,6744,4,Villa,86,1970,
+Kystvejen 8H 5466 Asperup,0,4500000.0,05-09-2006,Alm.,52325,3,Sommerhus,86,2009,
+Byvejen 11 5466 Asperup,11,1500000.0,18-08-2006,Alm.,6976,7,Villa,215,1910,
+Middelfartvej 96 5466 Asperup,96,690000.0,17-08-2006,Alm.,10000,2,Villa,69,1935,
+Kildevangsvej 9 5466 Asperup,9,900000.0,02-08-2006,Alm.,7964,5,Sommerhus,113,2008,
+Hindballevej 19 5466 Asperup,19,1250000.0,25-07-2006,Alm.,9469,6,Stuehus,132,1900,
+Bågøvej 5 5466 Asperup,5,1795000.0,09-07-2006,Alm.,12128,5,Villa,148,1981,
+Kærbyvej 15 5466 Asperup,15,870000.0,05-07-2006,Alm.,12428,2,Villa,70,1960,
+Blankegaardsvej 13 5466 Asperup,13,950000.0,03-07-2006,Alm.,7723,5,Villa,123,1906,
+Strandgyden 18 5466 Asperup,18,2400000.0,03-07-2006,Alm.,8695,10,Villa,276,1888,
+Kystvejen 6 5466 Asperup,6,106190.0,02-07-2006,Alm.,426,8,Villa,249,2008,
+Langgyden 4 5466 Asperup,4,2505000.0,18-05-2006,Alm.,14735,7,Stuehus,170,1951,
+Hindballevej 17 5466 Asperup,17,750000.0,28-04-2006,Alm.,4838,5,Villa,155,1800,
+Kærbyvej 1 5466 Asperup,1,990000.0,26-04-2006,Alm.,7071,6,Villa,140,1877,
+Kirkebjergvej 5 5466 Asperup,5,1250000.0,21-04-2006,Alm.,5952,7,Villa,210,1917,
+Bøgevangsvej 40 5466 Asperup,40,1016667.0,18-04-2006,Alm.,7530,6,Sommerhus,135,1827,
+Middelfartvej 8 5466 Asperup,8,3520000.0,04-04-2006,Alm.,16146,6,Stuehus,218,1923,
+Drejøvej 12 5466 Asperup,12,245000.0,04-04-2006,Alm.,2112,4,Villa,116,2007,
+Kystvejen 7 5466 Asperup,7,200000.0,03-04-2006,Andet,1265,5,Stuehus,158,1911,
+Kystvejen 14 5466 Asperup,14,200000.0,03-04-2006,Andet,1242,5,Stuehus,161,1923,
+Drejøvej 7 5466 Asperup,7,295000.0,30-03-2006,Alm.,1745,6,Villa,169,2007,
+Vestermarken 4 5466 Asperup,4,1225000.0,10-03-2006,Alm.,6125,6,Villa,200,1877,
+Drejøvej 6 5466 Asperup,6,270000.0,08-03-2006,Alm.,1508,7,Villa,179,2007,
+Sildegravsbanken 2 5466 Asperup,2,930000.0,01-03-2006,Alm.,10941,3,Villa,85,1954,
+Drejøvej 2 5466 Asperup,2,320000.0,14-02-2006,Alm.,2222,5,Villa,144,2007,
+Eskelundsvej 17 5466 Asperup,17,1125000.0,09-02-2006,Alm.,19396,4,Sommerhus,58,1971,
+Gartnervænget 1 5466 Asperup,1,3300000.0,19-01-2006,Alm.,16256,5,Stuehus,203,2006,
+Kildevænget 9 5466 Asperup,9,484500.0,28-12-2005,Alm.,9690,3,Sommerhus,50,1967,
+Byvejen 21 5466 Asperup,21,1330000.0,28-12-2005,Alm.,7687,5,Villa,173,1800,
+Byvejen 22 5466 Asperup,22,525000.0,01-12-2005,Alm.,6730,3,Villa,78,1911,
+Daadyrvænget 3 5466 Asperup,3,1600000.0,25-11-2005,Alm.,17977,4,Sommerhus,89,1977,
+Kærbyvej 41A 5466 Asperup,0,2500000.0,24-11-2005,Alm.,13089,5,Stuehus,191,1999,
+Kærbyvej 41B 5466 Asperup,0,50000.0,24-11-2005,Alm.,0,9,Villa,236,2006,
+Middelfartvej 92 5466 Asperup,92,1225000.0,18-11-2005,Alm.,0,5,Villa,223,1932,
+Jensbjergvænget 1B 5466 Asperup,0,1784672.0,04-11-2005,Alm.,15253,4,Sommerhus,117,1995,
+Molevej 3 5466 Asperup,3,2500000.0,17-10-2005,Alm.,16233,5,Stuehus,154,1972,
+Kærbyvænget 4 5466 Asperup,4,212112.0,14-10-2005,Alm.,1060,5,Villa,200,2006,
+Kærbyvænget 8 5466 Asperup,8,267350.0,13-10-2005,Alm.,1267,9,Villa,211,2007,
+Kærbyvænget 6 5466 Asperup,6,194324.0,02-10-2005,Alm.,1270,5,Villa,153,2006,
+Sommerlandsvej 27 5466 Asperup,27,1515000.0,30-09-2005,Alm.,14428,4,Sommerhus,105,1974,
+Kystvejen 10 5466 Asperup,10,800000.0,23-09-2005,Alm.,13114,4,Villa,61,1827,
+Kærbyvænget 7 5466 Asperup,7,273150.0,22-09-2005,Alm.,1858,5,Villa,147,2006,
+Læsøvej 3 5466 Asperup,3,980000.0,05-09-2005,Alm.,8750,5,Villa,112,1979,
+Drejøvej 8 5466 Asperup,8,245000.0,30-08-2005,Alm.,1441,6,Villa,170,2006,
+Middelfartvej 89 5466 Asperup,89,625000.0,25-08-2005,Alm.,7911,3,Villa,79,1900,
+Fynsvej 24 5466 Asperup,24,910000.0,23-08-2005,Alm.,8666,4,Villa,105,1977,
+Kærbyvænget 3 5466 Asperup,3,216140.0,17-08-2005,Alm.,1263,6,Villa,171,2006,
+Blankegaardvænget 5 5466 Asperup,5,898000.0,17-08-2005,Alm.,6907,4,Villa,130,1915,
+Kærbyvænget 11 5466 Asperup,11,220584.0,10-08-2005,Alm.,1035,8,Villa,213,2007,
+Kærbyvænget 2 5466 Asperup,2,271352.0,26-07-2005,Alm.,1654,5,Villa,164,2006,
+Kærbyvænget 9 5466 Asperup,9,226846.0,19-07-2005,Alm.,1134,5,Villa,200,2006,
+Byvejen 8 5466 Asperup,8,985000.0,18-07-2005,Alm.,5502,7,Villa,179,1908,
+Skarøvej 8 5466 Asperup,8,284220.0,11-07-2005,Alm.,1373,8,Villa,207,2006,
+Skarøvej 10 5466 Asperup,10,202636.0,04-07-2005,Alm.,1151,5,Villa,176,2008,
+Skarøvej 6 5466 Asperup,6,277958.0,04-07-2005,Alm.,1213,6,Villa,229,2007,
+Kærbyvænget 13 5466 Asperup,13,263610.0,04-07-2005,Alm.,1093,6,Villa,241,2008,
+Hedegaardsvej 6 5466 Asperup,6,650000.0,04-07-2005,Alm.,5803,4,Villa,112,1960,
+Eskelundsvej 2 5466 Asperup,2,995000.0,01-07-2005,Alm.,0,6,Sommerhus,95,1969,
+Skarøvej 12 5466 Asperup,12,270478.0,27-06-2005,Alm.,945,8,Villa,286,2007,
+Kærbyvænget 10 5466 Asperup,10,276440.0,24-06-2005,Alm.,1396,6,Villa,198,2006,
+Hjortevænget 20 5466 Asperup,20,1682500.0,23-06-2005,Alm.,12650,4,Sommerhus,133,1970,
+Skarøvej 2 5466 Asperup,2,351100.0,10-06-2005,Alm.,2089,4,Villa,168,2006,
+Hjortevænget 22 5466 Asperup,22,2700000.0,31-05-2005,Alm.,14917,7,Sommerhus,181,1994,
+Harevænget 6 5466 Asperup,6,1000000.0,30-05-2005,Alm.,9708,4,Sommerhus,103,1987,
+Daadyrvænget 15 5466 Asperup,15,1800000.0,04-05-2005,Alm.,23684,4,Sommerhus,76,1971,
+Byvejen 33 5466 Asperup,33,500000.0,04-05-2005,Alm.,4310,3,Villa,116,1900,
+Skovgyden 11 5466 Asperup,11,1050000.0,01-05-2005,Alm.,0,7,Stuehus,230,1878,
+Æbeløvej 3 5466 Asperup,3,750000.0,29-04-2005,Alm.,6250,5,Villa,120,1965,
+Blankegaardsvej 3 5466 Asperup,3,338966.0,18-04-2005,Fam.,1832,5,Villa,185,1905,
+Hjortevænget 1 5466 Asperup,1,1365000.0,16-04-2005,Alm.,15000,4,Sommerhus,91,1975,
+Byvejen 5 5466 Asperup,5,2300000.0,31-03-2005,Alm.,8363,7,Stuehus,275,1900,
+Skovgyden 17 5466 Asperup,17,1025000.0,18-02-2005,Alm.,0,4,Villa,204,1880,
+Blankegaardsvej 7 5466 Asperup,7,700000.0,11-02-2005,Alm.,2040,6,Stuehus,343,1880,
+Kærbyvej 45 5466 Asperup,45,795000.0,09-02-2005,Alm.,3154,10,Stuehus,252,2010,
+Strandvejen 26 5466 Asperup,26,190000.0,24-01-2005,Alm.,5428,2,Sommerhus,35,1959,
+Kærbyvej 23 5466 Asperup,23,1125000.0,22-01-2005,Alm.,8789,4,Villa,128,1978,
+Kærbyvej 14 5466 Asperup,14,350000.0,20-01-2005,Alm.,3181,3,Villa,110,1837,
+Stationsstien 3 5466 Asperup,3,585000.0,12-01-2005,Alm.,6500,4,Villa,90,1900,
+Lyøvej 14 5466 Asperup,14,785433.0,10-01-2005,Andet,3653,6,Villa,215,1997,
+Eskelundsvej 36 5466 Asperup,36,600000.0,16-12-2004,Alm.,9090,4,Sommerhus,66,1971,
+Drejøvej 14 5466 Asperup,14,245000.0,30-11-2004,Alm.,1775,4,Villa,138,2005,
+Eskelundsvej 15 5466 Asperup,15,1475000.0,19-11-2004,Alm.,12500,6,Sommerhus,118,1970,
+Ravnskovgyden 3 5466 Asperup,3,769546.0,15-11-2004,Fam.,7192,6,Stuehus,107,1911,
+Drejøvej 9 5466 Asperup,9,295000.0,31-10-2004,Alm.,2006,5,Villa,147,2006,
+Hjortevænget 10 5466 Asperup,10,1352000.0,27-10-2004,Alm.,11266,6,Sommerhus,120,1989,
+Kystvejen 9 5466 Asperup,9,875000.0,25-10-2004,Alm.,7543,5,Villa,116,1920,
+Ravnskovgyden 4 5466 Asperup,4,1500000.0,13-10-2004,Fam.,12000,5,Stuehus,125,1800,
+Skovgyden 1 5466 Asperup,1,470000.0,08-10-2004,Alm.,4392,5,Villa,107,1827,
+Mosehaven 2 5466 Asperup,2,730000.0,07-10-2004,Alm.,0,6,Villa,246,1961,
+Drejøvej 16 5466 Asperup,16,270000.0,27-09-2004,Alm.,1597,5,Villa,169,2005,
+Elmevænget 8 5466 Asperup,8,800000.0,20-08-2004,Alm.,12307,4,Sommerhus,65,1976,
+Hjortevænget 5 5466 Asperup,5,1094000.0,09-08-2004,Alm.,12870,4,Sommerhus,85,1974,
+Middelfartvej 94 5466 Asperup,94,1200000.0,06-07-2004,Alm.,7058,5,Villa,170,1907,
+Kildevænget 13 5466 Asperup,13,410909.0,23-06-2004,Auktion,5870,4,Sommerhus,70,1973,
+Drejøvej 15 5466 Asperup,15,245000.0,22-06-2004,Alm.,1550,6,Villa,158,2006,
+Skovgyden 7 5466 Asperup,7,980000.0,21-05-2004,Alm.,7840,4,Villa,125,1935,
+Hindballevej 10 5466 Asperup,10,2272000.0,22-04-2004,Fam.,9878,7,Stuehus,230,1870,
+Daadyrvænget 4 5466 Asperup,4,2150000.0,13-04-2004,Alm.,11621,5,Sommerhus,185,1986,
+Skovgyden 13 5466 Asperup,13,715000.0,02-04-2004,Alm.,5335,5,Villa,134,1877,
+Strandvejen 4 5466 Asperup,4,1800000.0,30-03-2004,Alm.,26470,3,Sommerhus,68,1937,
+Rankegårdsvænget 4 5466 Asperup,4,290000.0,19-03-2004,Alm.,1790,6,Villa,162,2005,
+Rankegårdsvænget 8 5466 Asperup,8,350000.0,16-03-2004,Alm.,0,7,Villa,250,2005,
+Drejøvej 10 5466 Asperup,10,245000.0,15-03-2004,Alm.,2008,4,Villa,122,2004,
+Jensbjergvænget 12 5466 Asperup,12,1200000.0,16-02-2004,Alm.,8695,5,Sommerhus,138,1972,
+Grønnegyden 5 5466 Asperup,5,615000.0,10-02-2004,Alm.,6340,4,Villa,97,1892,
+Hermelinvænget 10 5466 Asperup,10,892500.0,29-12-2003,Alm.,8188,4,Sommerhus,109,1987,
+Kærbyholmvej 4 5466 Asperup,4,650000.0,17-12-2003,Alm.,4779,4,Villa,136,1877,
+Strandgyden 4 5466 Asperup,4,650000.0,11-12-2003,Andet,0,0,Grund,0,0,
+Blankegaardsvej 2 5466 Asperup,2,2500000.0,10-12-2003,Alm.,5494,10,Stuehus,455,1841,
+Byvejen 39 5466 Asperup,39,840000.0,28-11-2003,Alm.,5217,7,Villa,161,1912,
+Byvejen 19 5466 Asperup,19,735000.0,25-11-2003,Alm.,5326,5,Villa,138,1905,
+Byvejen 41 5466 Asperup,41,385000.0,21-11-2003,Fam.,0,7,Villa,152,1912,
+Middelfartvej 100 5466 Asperup,100,1085000.0,20-11-2003,Alm.,6164,6,Villa,176,1910,
+Læsøvej 7 5466 Asperup,7,636941.0,14-11-2003,Alm.,3883,6,Villa,164,1996,
+Daadyrvænget 13 5466 Asperup,13,284000.0,07-11-2003,Alm.,2491,5,Sommerhus,114,2006,
+Kohavevej 2 5466 Asperup,2,450000.0,04-11-2003,Alm.,2238,5,Stuehus,201,2005,
+Skovgyden 15 5466 Asperup,15,895000.0,03-11-2003,Alm.,6729,3,Villa,133,1985,
+Lavmosevej 3 5466 Asperup,3,267300.0,23-10-2003,Alm.,0,6,Villa,233,1900,
+Lyøvej 20 5466 Asperup,20,1350000.0,14-10-2003,Alm.,0,6,Villa,198,1998,
+Byvejen 64 5466 Asperup,64,1065000.0,11-10-2003,Alm.,5756,8,Villa,185,1911,
+Hindballevej 14 5466 Asperup,14,425000.0,26-09-2003,Fam.,0,4,Villa,120,1907,
+Byvejen 17 5466 Asperup,17,446955.0,18-09-2003,Alm.,0,4,Villa,150,1894,
+Strandgyden 31 5466 Asperup,31,327800.0,16-09-2003,Alm.,0,6,Stuehus,221,1945,
+Kærbyvej 5B 5466 Asperup,0,660000.0,01-09-2003,Alm.,5076,5,Villa,130,1964,
+Blankegaardvænget 18 5466 Asperup,18,873083.0,26-08-2003,Alm.,6768,4,Villa,129,1980,
+Kærbyvej 57 5466 Asperup,57,850000.0,26-08-2003,Alm.,5379,5,Villa,158,1899,
+Kildevangsvej 18 5466 Asperup,18,1350000.0,16-08-2003,Alm.,13106,5,Sommerhus,103,1990,
+Hjortevænget 16 5466 Asperup,16,1100000.0,15-08-2003,Alm.,8088,6,Sommerhus,136,1974,
+Middelfartvej 78 5466 Asperup,78,731000.0,08-08-2003,Fam.,4809,5,Villa,152,1923,
+Jensbjergvænget 8 5466 Asperup,8,1425000.0,06-07-2003,Alm.,8636,5,Sommerhus,165,1968,
+Strandhavevej 6 5466 Asperup,6,1020000.0,03-07-2003,Fam.,6710,6,Stuehus,152,1910,
+Strandgyden 8 5466 Asperup,8,600000.0,30-05-2003,Alm.,7500,4,Villa,80,1929,
+Grønnegyden 4 5466 Asperup,4,1210000.0,21-05-2003,Alm.,5475,7,Villa,221,1910,
+Hindballevej 20 5466 Asperup,20,30000.0,20-05-2003,Alm.,230,4,Villa,130,1914,
+Eskelundsvej 9 5466 Asperup,9,665000.0,19-05-2003,Alm.,9236,4,Sommerhus,72,1968,
+Strandgyden 12 5466 Asperup,12,860000.0,19-05-2003,Alm.,5058,5,Villa,170,1870,
+Kirkestræde 8 5466 Asperup,8,530000.0,09-05-2003,Alm.,0,2,Villa,76,1907,
+Kærbyvej 29 5466 Asperup,29,1335000.0,29-04-2003,Alm.,6608,5,Villa,202,1980,
+Middelfartvej 79 5466 Asperup,79,170000.0,14-04-2003,Alm.,755,7,Stuehus,225,1788,
+Byvejen 27 5466 Asperup,27,785000.0,31-03-2003,Alm.,6826,4,Villa,115,1973,
+Hedegaardsvej 8 5466 Asperup,8,1720000.0,28-03-2003,Alm.,6231,8,Stuehus,276,1908,
+Hindballevej 6 5466 Asperup,6,905000.0,28-03-2003,Alm.,0,5,Villa,182,1970,
+Fynsvej 28 5466 Asperup,28,1500000.0,18-03-2003,Alm.,9677,5,Villa,155,1978,
+Lyøvej 8 5466 Asperup,8,1650000.0,25-02-2003,Alm.,10248,6,Villa,161,1999,
+Engvejen 16 5466 Asperup,16,825000.0,21-02-2003,Alm.,5892,3,Sommerhus,140,2009,
+Strandgyden 3 5466 Asperup,3,720000.0,06-02-2003,Alm.,4705,5,Villa,153,1964,
+Skyttevej 2 5466 Asperup,2,1350000.0,13-01-2003,Alm.,5793,7,Villa,233,1910,
+Sommerlandsvej 4 5466 Asperup,4,700000.0,30-12-2002,Alm.,3825,5,Sommerhus,183,1979,
+Middelfartvej 41 5466 Asperup,41,667000.0,14-12-2002,Alm.,6233,4,Villa,107,1940,
+Kystvejen 5 5466 Asperup,5,1000000.0,12-12-2002,Alm.,5405,6,Stuehus,185,1877,
+Bøgevangsvej 3 5466 Asperup,3,1100000.0,18-11-2002,Alm.,7432,6,Sommerhus,148,1986,
+Kystvejen 12 5466 Asperup,12,825000.0,08-11-2002,Alm.,0,3,Stuehus,150,1936,
+Middelfartvej 61 5466 Asperup,61,850000.0,15-10-2002,Alm.,4941,3,Villa,172,1902,
+Fynsvej 1 5466 Asperup,1,1010000.0,10-10-2002,Alm.,6433,5,Villa,157,1983,
+Kohavevej 3 5466 Asperup,3,960000.0,23-09-2002,Alm.,5133,8,Villa,187,1946,
+Samsøvej 23 5466 Asperup,23,955000.0,23-09-2002,Alm.,0,4,Villa,136,1974,
+Middelfartvej 71 5466 Asperup,71,1825000.0,02-09-2002,Alm.,0,10,Villa,194,1880,
+Strandvejen 6 5466 Asperup,6,70000.0,22-07-2002,Alm.,1166,3,Sommerhus,60,1952,
+Eskelundsvej 10 5466 Asperup,10,700000.0,22-07-2002,Fam.,0,3,Sommerhus,77,1973,
+Sommerlandsvej 3 5466 Asperup,3,421133.0,10-07-2002,Alm.,4627,4,Sommerhus,91,1978,
+Bævervænget 1 5466 Asperup,1,948000.0,01-07-2002,Alm.,11023,5,Sommerhus,86,1980,
+Samsøvej 17 5466 Asperup,17,820000.0,07-06-2002,Alm.,5985,4,Villa,137,1973,
+Elmevangsvej 3 5466 Asperup,3,1450000.0,01-06-2002,Alm.,8011,2,Stuehus,181,1850,
+Strandgyden 6 5466 Asperup,6,1356500.0,31-05-2002,Fam.,7751,7,Stuehus,175,1902,
+Elmevangsvej 1 5466 Asperup,1,1560000.0,15-05-2002,Alm.,9397,6,Villa,166,1878,
+Bøgevangsvej 1 5466 Asperup,1,260000.0,01-05-2002,Alm.,3611,4,Sommerhus,72,2004,
+Middelfartvej 69 5466 Asperup,69,3600000.0,29-04-2002,Fam.,12857,6,Stuehus,280,1857,
+Kirkebjergvej 28 5466 Asperup,28,561000.0,19-04-2002,Alm.,4921,3,Villa,114,1910,
+Lavmosevej 5 5466 Asperup,5,165000.0,19-04-2002,Alm.,1683,4,Villa,98,1840,
+Birkevangsvej 3 5466 Asperup,3,408000.0,15-04-2002,Fam.,4857,3,Stuehus,84,1830,
+Hedegaardsvej 10 5466 Asperup,10,535500.0,03-04-2002,Fam.,1373,15,Stuehus,390,1930,
+Daadyrvænget 9 5466 Asperup,9,1035000.0,02-04-2002,Alm.,0,3,Sommerhus,72,1973,
+Daadyrvænget 19 5466 Asperup,19,739500.0,20-03-2002,Fam.,12533,4,Sommerhus,59,1976,
+Strandgyden 25 5466 Asperup,25,2200000.0,18-03-2002,Alm.,8906,7,Villa,247,1859,
+Fynsvej 22 5466 Asperup,22,794999.0,13-03-2002,Alm.,4907,6,Villa,162,1978,
+Birkevangsvej 2 5466 Asperup,2,275000.0,05-01-2002,Alm.,1211,5,Villa,227,1912,
+Kærbyvej 43 5466 Asperup,43,695000.0,21-12-2001,Alm.,2509,7,Villa,277,1830,
+Kærbyvej 8 5466 Asperup,8,1500000.0,18-12-2001,Alm.,9803,7,Stuehus,153,1937,
+Byvejen 46 5466 Asperup,46,740000.0,26-11-2001,Alm.,7551,5,Villa,98,1960,
+Byvejen 2A 5466 Asperup,0,828516.0,28-09-2001,Alm.,2734,7,Stuehus,303,1877,
+Drejøvej 13 5466 Asperup,13,320000.0,31-08-2001,Alm.,1675,5,Villa,191,2002,
+Dybdalsvej 5 5466 Asperup,5,810000.0,31-08-2001,Alm.,4576,4,Villa,177,2003,
+Kildevænget 5 5466 Asperup,5,649999.0,16-08-2001,Alm.,0,4,Sommerhus,95,1970,
+Lyøvej 6 5466 Asperup,6,138840.0,10-08-2001,Alm.,521,7,Villa,266,2002,
+Kirkestræde 3 5466 Asperup,3,925000.0,27-07-2001,Alm.,5606,6,Villa,165,1970,
+Sommerlandsvej 5 5466 Asperup,5,985000.0,16-07-2001,Alm.,10260,5,Sommerhus,96,1973,
+Eskelundsvænget 17 5466 Asperup,17,660000.0,14-07-2001,Fam.,6111,6,Sommerhus,108,1969,
+Eskelundsvej 28 5466 Asperup,28,755000.0,13-07-2001,Alm.,11102,4,Sommerhus,68,1967,
+Grønnegyden 2 5466 Asperup,2,1700000.0,24-06-2001,Alm.,4857,11,Stuehus,350,1777,
+Tanggyden 3 5466 Asperup,3,420000.0,22-06-2001,Andet,0,9,Stuehus,262,1860,
+Kohavevej 4 5466 Asperup,4,675261.0,30-05-2001,Alm.,0,6,Stuehus,165,1800,
+Engvejen 34 5466 Asperup,34,420000.0,23-04-2001,Alm.,7924,4,Sommerhus,53,1967,
+Hjortevænget 6 5466 Asperup,6,320000.0,20-04-2001,Alm.,3678,4,Sommerhus,87,2001,
+Drejøvej 5 5466 Asperup,5,320000.0,30-03-2001,Alm.,2269,4,Villa,141,2002,
+Hindballevej 15 5466 Asperup,15,585193.0,30-03-2001,Alm.,6225,4,Villa,94,1900,
+Drejøvej 11 5466 Asperup,11,320000.0,26-03-2001,Alm.,2091,6,Villa,153,2001,
+Kærbyvej 18 5466 Asperup,18,250000.0,15-02-2001,Alm.,0,5,Villa,173,1900,
+Strandvejen 20 5466 Asperup,20,565000.0,12-11-2000,Alm.,7337,3,Sommerhus,77,2001,
+Daadyrvænget 10 5466 Asperup,10,1188987.0,06-11-2000,Alm.,7573,5,Sommerhus,157,1973,
+Strandgyden 19 5466 Asperup,19,1085000.0,07-09-2000,Alm.,7091,4,Stuehus,153,1877,
+Middelfartvej 14 5466 Asperup,14,560000.0,06-09-2000,Fam.,2580,5,Villa,217,2004,
+Sommerlandsvej 1B 5466 Asperup,0,905000.0,30-08-2000,Alm.,0,4,Sommerhus,85,1983,
+Enghøjvej 4 5466 Asperup,4,990000.0,22-08-2000,Alm.,9252,5,Villa,107,1934,
+Eskelundsvænget 1 5466 Asperup,1,825000.0,18-08-2000,Alm.,11785,4,Sommerhus,70,1969,
+Middelfartvej 49 5466 Asperup,49,130000.0,30-07-2000,Alm.,580,6,Stuehus,224,1902,
+Kirkestræde 20 5466 Asperup,20,970000.0,28-07-2000,Alm.,5843,5,Villa,166,1979,
+Strandgyden 16 5466 Asperup,16,1010941.0,26-07-2000,Alm.,7272,5,Villa,139,1907,
+Hjortevænget 9 5466 Asperup,9,1069086.0,16-07-2000,Alm.,11878,4,Sommerhus,90,1973,
+Fynsvej 14 5466 Asperup,14,775000.0,30-06-2000,Alm.,6200,3,Villa,125,1969,
+Daadyrvænget 2 5466 Asperup,2,1750000.0,23-06-2000,Alm.,8064,5,Sommerhus,217,1977,
+Lærkestræde 11 5466 Asperup,11,1401000.0,02-06-2000,Alm.,7655,6,Villa,183,1904,
+Kirkebjergvej 10 5466 Asperup,10,620000.0,20-03-2000,Alm.,7948,4,Villa,78,1910,
+Ravnskovgyden 1 5466 Asperup,1,1150000.0,21-02-2000,Fam.,3432,7,Stuehus,335,2008,
+Middelfartvej 73 5466 Asperup,73,703609.0,15-02-2000,Alm.,5371,4,Villa,131,1865,
+Egernvænget 6 5466 Asperup,6,2000000.0,14-02-2000,Alm.,11764,5,Sommerhus,170,1968,
+Tangmosevej 2 5466 Asperup,2,1494802.0,03-02-2000,Alm.,6556,7,Villa,228,1935,
+Brentebjerg 6 5466 Asperup,6,1985000.0,05-01-2000,Alm.,6774,5,Stuehus,293,1877,
+Middelfartvej 60 5466 Asperup,60,515000.0,02-12-1999,Alm.,7803,2,Villa,66,1877,
+Middelfartvej 30 5466 Asperup,30,1880000.0,29-11-1999,Alm.,8430,5,Villa,223,1927,
+Blankegaardsvej 25 5466 Asperup,25,634888.0,27-11-1999,Alm.,7838,3,Villa,81,1940,
+Kirkebjergvej 20A 5466 Asperup,0,120000.0,25-11-1999,Fam.,3333,1,Sommerhus,36,2001,
+Timsgyden 7 5466 Asperup,7,45000.0,22-11-1999,Fam.,182,6,Villa,247,2001,
+Strandvejen 1 5466 Asperup,1,465000.0,08-11-1999,Alm.,10333,3,Sommerhus,45,1965,
+Lyøvej 26 5466 Asperup,26,129220.0,26-10-1999,Alm.,0,7,Villa,183,2002,
+Blankegaardsvej 11 5466 Asperup,11,479691.0,26-10-1999,Alm.,4796,3,Villa,100,1961,
+Blankegaardsvej 9 5466 Asperup,9,312871.0,11-10-1999,Andet,1896,6,Villa,165,1917,
+Middelfartvej 50 5466 Asperup,50,829640.0,01-10-1999,Alm.,5185,5,Villa,160,1877,
+Ravnskovgyden 6 5466 Asperup,6,450000.0,06-08-1999,Alm.,1973,4,Stuehus,228,2005,
+Molevej 22 5466 Asperup,22,400000.0,20-07-1999,Alm.,10000,3,Sommerhus,40,1967,
+Eskelundsvænget 12 5466 Asperup,12,786799.0,12-07-1999,Alm.,0,6,Sommerhus,85,1971,
+Engvejen 22 5466 Asperup,22,625000.0,08-07-1999,Alm.,0,4,Sommerhus,105,1964,
+Ægypten 4 5466 Asperup,4,807000.0,30-06-1999,Alm.,4247,5,Villa,190,1932,
+Skovgyden 9 5466 Asperup,9,485000.0,21-06-1999,Fam.,4490,4,Stuehus,108,1935,
+Lyøvej 38 5466 Asperup,38,121290.0,15-06-1999,Alm.,681,7,Villa,178,1999,
+Lyøvej 18 5466 Asperup,18,230400.0,25-05-1999,Alm.,1440,5,Villa,160,2000,
+Kystvejen 34 5466 Asperup,34,454272.0,17-05-1999,Andet,2949,4,Villa,154,1935,
+Byvejen 34 5466 Asperup,34,559751.0,16-04-1999,Alm.,2665,7,Villa,210,1890,
+Lyøvej 22 5466 Asperup,22,127400.0,16-04-1999,Alm.,749,6,Villa,170,1999,
+Læsøvej 1 5466 Asperup,1,1064000.0,25-02-1999,Alm.,6371,6,Villa,167,1979,
+Molevej 20 5466 Asperup,20,1359000.0,17-02-1999,Alm.,10295,5,Sommerhus,132,1991,
+Kaj Thanings Alle 1 5466 Asperup,1,775000.0,02-02-1999,Alm.,4813,7,Villa,161,1967,
+Blankegaardsvej 12 5466 Asperup,12,690000.0,20-01-1999,Fam.,4480,4,Stuehus,154,1947,
+Kærbyholmvej 6 5466 Asperup,6,1587869.0,23-12-1998,Alm.,7419,8,Villa,214,1772,
+Middelfartvej 93 5466 Asperup,93,430000.0,06-12-1998,Fam.,2574,5,Villa,167,2014,
+Strandgyden 27 5466 Asperup,27,1284635.0,26-11-1998,Alm.,5308,7,Stuehus,242,1974,
+Kystvejen 24 5466 Asperup,24,695000.0,12-11-1998,Alm.,6881,4,Villa,101,1912,
+Blankegaardvænget 10 5466 Asperup,10,235463.0,11-11-1998,Alm.,1279,5,Villa,184,1912,
+Strandvejen 7 5466 Asperup,7,175000.0,09-11-1998,Fam.,4268,3,Sommerhus,41,1949,
+Hjortevænget 19 5466 Asperup,19,260000.0,24-10-1998,Fam.,2680,5,Sommerhus,97,1976,
+Kildevænget 4 5466 Asperup,4,540000.0,23-10-1998,Alm.,5684,4,Sommerhus,95,1966,
+Kystvejen 13 5466 Asperup,13,120000.0,21-10-1998,Fam.,0,3,Stuehus,123,1850,
+Byvejen 28A 5466 Asperup,0,442000.0,20-10-1998,Alm.,4652,3,Villa,95,1936,
+Vanghavevej 11 5466 Asperup,11,1131000.0,29-09-1998,Alm.,4597,7,Stuehus,246,1877,
+Eskelundsvej 14 5466 Asperup,14,736000.0,21-09-1998,Alm.,6237,5,Sommerhus,118,1971,
+Kildevænget 6 5466 Asperup,6,350000.0,31-08-1998,Alm.,6862,2,Sommerhus,51,1967,
+Lærkestræde 10 5466 Asperup,10,548000.0,17-08-1998,Alm.,5708,3,Villa,96,1850,
+Strandvejen 14 5466 Asperup,14,320000.0,10-08-1998,Fam.,5818,3,Sommerhus,55,1937,
+Fynsvej 6 5466 Asperup,6,530000.0,24-06-1998,Alm.,5300,4,Villa,100,1966,
+Middelfartvej 48 5466 Asperup,48,325000.0,09-06-1998,Alm.,3651,3,Villa,89,1863,
+Lyøvej 24 5466 Asperup,24,143000.0,27-05-1998,Alm.,593,5,Villa,241,1998,
+Ravnskovgyden 9 5466 Asperup,9,1165000.0,24-05-1998,Alm.,5574,7,Stuehus,209,1924,
+Kystvejen 21 5466 Asperup,21,892500.0,12-05-1998,Fam.,5376,6,Stuehus,166,1970,
+Eskelundsvej 18 5466 Asperup,18,675000.0,11-05-1998,Alm.,10384,4,Sommerhus,65,1971,
+Samsøvej 2 5466 Asperup,2,761000.0,04-05-1998,Alm.,4373,6,Villa,174,1969,
+Ravnskovgyden 5 5466 Asperup,5,900000.0,30-04-1998,Alm.,4054,7,Stuehus,222,1902,
+Kystvejen 1A 5466 Asperup,0,2000000.0,29-04-1998,Alm.,7692,6,Stuehus,260,1877,
+Lyøvej 40 5466 Asperup,40,123500.0,27-04-1998,Alm.,1012,4,Villa,122,1998,
+Blankegaardsvej 23 5466 Asperup,23,750000.0,14-04-1998,Fam.,5102,4,Villa,147,1936,
+Læsøvej 4 5466 Asperup,4,925000.0,14-04-1998,Alm.,7061,4,Villa,131,1983,
+Kildevænget 8 5466 Asperup,8,238000.0,28-03-1998,Alm.,0,4,Sommerhus,60,1966,
+Samsøvej 37 5466 Asperup,37,1010000.0,26-03-1998,Alm.,5372,4,Villa,188,1978,
+Kirkestræde 6 5466 Asperup,6,1180000.0,26-02-1998,Alm.,5841,6,Villa,202,1867,
+Molevej 14 5466 Asperup,14,1400000.0,25-02-1998,Alm.,0,5,Sommerhus,141,1994,
+Byvejen 68 5466 Asperup,68,648420.0,23-02-1998,Alm.,3412,3,Villa,190,1912,
+Middelfartvej 107 5466 Asperup,107,475660.0,08-01-1998,Alm.,0,5,Stuehus,165,1862,
+Lyøvej 12 5466 Asperup,12,116220.0,21-11-1997,Alm.,614,5,Villa,189,2000,
+Lyøvej 34 5466 Asperup,34,113230.0,11-11-1997,Alm.,770,5,Villa,147,1998,
+Ægypten 6 5466 Asperup,6,526000.0,05-11-1997,Alm.,0,3,Stuehus,206,1818,
+Sildegravsbanken 6 5466 Asperup,6,958000.0,03-11-1997,Alm.,3548,6,Villa,270,1875,
+Middelfartvej 105 5466 Asperup,105,909413.0,22-10-1997,Alm.,2674,6,Stuehus,340,1914,
+Middelfartvej 81 5466 Asperup,81,853000.0,16-10-1997,Alm.,4419,7,Villa,193,1953,
+Vestermarken 3 5466 Asperup,3,834000.0,10-10-1997,Alm.,5312,4,Stuehus,157,1777,
+Hindballevej 12 5466 Asperup,12,380000.0,29-09-1997,Alm.,5588,4,Villa,68,1902,
+Byvejen 24 5466 Asperup,24,898000.0,16-09-1997,Alm.,5756,4,Villa,156,1848,
+Grævlingevænget 8 5466 Asperup,8,400000.0,03-09-1997,Fam.,0,3,Sommerhus,73,1927,
+Lyøvej 16 5466 Asperup,16,117000.0,14-08-1997,Alm.,966,4,Villa,121,1997,
+Byvejen 45 5466 Asperup,45,400000.0,08-08-1997,Alm.,3603,4,Villa,111,1900,
+Lyøvej 4 5466 Asperup,4,117000.0,28-07-1997,Alm.,1063,3,Villa,110,1997,
+Dybdalsvej 4 5466 Asperup,4,181740.0,23-07-1997,Alm.,0,6,Stuehus,187,1890,
+Kystvejen 28 5466 Asperup,28,625000.0,20-07-1997,Alm.,4340,4,Villa,144,1850,
+Dybdalsvej 2 5466 Asperup,2,742941.0,02-07-1997,Alm.,4319,5,Villa,172,1918,
+Byvejen 25 5466 Asperup,25,914000.0,21-06-1997,Alm.,3745,6,Villa,244,1905,
+Lykkegaardsvej 1 5466 Asperup,1,400080.0,21-05-1997,Alm.,3810,3,Villa,105,1942,
+Æbeløvej 6 5466 Asperup,6,550000.0,01-05-1997,Alm.,5238,4,Villa,105,1962,
+Kildevangsvej 17 5466 Asperup,17,597193.0,30-04-1997,Alm.,7025,5,Sommerhus,85,1984,
+Middelfartvej 4 5466 Asperup,4,493500.0,23-04-1997,Alm.,0,7,Villa,130,1951,
+Sommerlandsvej 2 5466 Asperup,2,889000.0,21-04-1997,Alm.,7867,5,Sommerhus,113,1974,
+Byvejen 32 5466 Asperup,32,515000.0,10-04-1997,Alm.,4023,5,Villa,128,1877,
+Eskelundsvænget 18 5466 Asperup,18,900000.0,13-02-1997,Alm.,0,5,Sommerhus,84,1970,
+Lindegaardsvej 2 5466 Asperup,2,1193000.0,17-01-1997,Alm.,4003,9,Villa,298,1918,
+Hjortevænget 2 5466 Asperup,2,1250000.0,17-01-1997,Alm.,0,4,Sommerhus,95,1995,
+Jensbjergvænget 3 5466 Asperup,3,456715.0,22-12-1996,Fam.,3683,5,Sommerhus,124,1972,
+Eskelundsvænget 9 5466 Asperup,9,555000.0,04-12-1996,Alm.,0,4,Sommerhus,74,1969,
+Dybdalsvej 7 5466 Asperup,7,140000.0,01-12-1996,Alm.,886,6,Stuehus,158,1933,
+Middelfartvej 91 5466 Asperup,91,485000.0,23-09-1996,Alm.,3368,6,Villa,144,1910,
+Blankegaardsvej 19 5466 Asperup,19,435000.0,09-09-1996,Alm.,3883,4,Villa,112,1907,
+Middelfartvej 103B 5466 Asperup,0,211464.0,05-09-1996,Fam.,2643,3,Villa,80,1960,
+Sildegravsbanken 1 5466 Asperup,1,552000.0,15-08-1996,Alm.,0,4,Stuehus,221,1850,
+Kildevænget 1 5466 Asperup,1,430000.0,25-06-1996,Fam.,0,4,Sommerhus,106,1973,
+Middelfartvej 51 5466 Asperup,51,410000.0,19-06-1996,Alm.,0,7,Villa,189,1942,
+Daadyrvænget 12 5466 Asperup,12,735000.0,24-05-1996,Alm.,8855,4,Sommerhus,83,1985,
+Middelfartvej 110 5466 Asperup,110,907000.0,15-05-1996,Alm.,4199,6,Villa,216,1900,
+Bøgevangsvej 4 5466 Asperup,4,815000.0,13-05-1996,Alm.,9939,4,Sommerhus,82,1988,
+Hjortevænget 3 5466 Asperup,3,700000.0,12-05-1996,Alm.,8974,5,Sommerhus,78,1976,
+Hjortevænget 7 5466 Asperup,7,600000.0,09-05-1996,Alm.,8571,4,Sommerhus,70,1979,
+Hermelinvænget 6 5466 Asperup,6,615095.0,01-04-1996,Fam.,0,4,Sommerhus,79,1972,
+Middelfartvej 86 5466 Asperup,86,450000.0,29-02-1996,Alm.,3040,7,Villa,148,1912,
+Hedegaardsvej 4 5466 Asperup,4,88978.0,28-02-1996,Alm.,303,6,Stuehus,293,1890,
+Middelfartvej 44 5466 Asperup,44,354878.0,01-02-1996,Alm.,1867,4,Villa,190,1827,
+Strandvejen 23 5466 Asperup,23,293300.0,30-01-1996,Fam.,5237,4,Sommerhus,56,1938,
+Bøgevangsvej 20 5466 Asperup,20,106800.0,01-01-1996,Fam.,1286,4,Sommerhus,83,1996,
+Egernvænget 3 5466 Asperup,3,800000.0,08-12-1995,Alm.,7017,4,Sommerhus,114,1969,
+Kirkebjergvej 8 5466 Asperup,8,495000.0,01-11-1995,Alm.,0,5,Villa,181,1885,
+Kirkestræde 22 5466 Asperup,22,247223.0,25-08-1995,Alm.,2060,3,Villa,120,1937,
+Byvejen 52 5466 Asperup,52,375000.0,05-07-1995,Alm.,2586,6,Villa,145,1942,
+Vedelshavevej 15 5466 Asperup,15,350000.0,03-07-1995,Fam.,3398,4,Villa,103,1968,
+Strandvejen 22 5466 Asperup,22,350000.0,29-06-1995,Alm.,7000,3,Sommerhus,50,1961,
+Vedelshavevej 5 5466 Asperup,5,442000.0,16-06-1995,Alm.,2678,4,Villa,165,1900,
+Vedelshavevej 19 5466 Asperup,19,560000.0,07-06-1995,Alm.,6666,3,Villa,84,1902,
+Læsøvej 15 5466 Asperup,15,47220.0,22-05-1995,Alm.,0,5,Villa,152,1996,
+Læsøvej 11 5466 Asperup,11,44820.0,27-04-1995,Alm.,373,4,Villa,120,1996,
+Vedelshavevej 9 5466 Asperup,9,212500.0,30-03-1995,Alm.,1344,6,Villa,158,1927,
+Lærkestræde 5 5466 Asperup,5,439000.0,06-03-1995,Alm.,3456,5,Villa,127,1900,
+Kirkestræde 2 5466 Asperup,2,395000.0,21-02-1995,Alm.,2219,5,Villa,178,1880,
+Hjortevænget 15 5466 Asperup,15,985000.0,16-02-1995,Alm.,0,7,Sommerhus,197,1974,
+Molevej 24 5466 Asperup,24,510000.0,10-02-1995,Fam.,6710,4,Sommerhus,76,1991,
+Blankegaardvænget 1 5466 Asperup,1,440000.0,15-12-1994,Fam.,1594,8,Villa,276,1958,
+Sommerlandsvej 1A 5466 Asperup,0,450000.0,04-11-1994,Alm.,5555,5,Sommerhus,81,1974,
+Middelfartvej 28 5466 Asperup,28,498000.0,31-10-1994,Alm.,3458,4,Villa,144,1895,
+Læsøvej 13 5466 Asperup,13,50220.0,31-10-1994,Alm.,339,5,Villa,148,1995,
+Eskelundsvænget 7 5466 Asperup,7,445000.0,16-10-1994,Alm.,5056,5,Sommerhus,88,1969,
+Grønnegyden 7 5466 Asperup,7,217800.0,14-09-1994,Alm.,0,5,Villa,138,1877,
+Timsgyden 3 5466 Asperup,3,200000.0,05-09-1994,Alm.,1063,6,Villa,188,1900,
+Strandhavevej 1 5466 Asperup,1,422000.0,31-08-1994,Fam.,1981,6,Stuehus,213,1947,
+Middelfartvej 12 5466 Asperup,12,745000.0,18-07-1994,Alm.,3239,6,Stuehus,230,1903,
+Vedelshavevej 21 5466 Asperup,21,669000.0,16-07-1994,Alm.,3395,6,Villa,197,1911,
+Samsøvej 7 5466 Asperup,7,480000.0,14-06-1994,Alm.,4247,4,Villa,113,1970,
+Læsøvej 6 5466 Asperup,6,551519.0,06-06-1994,Alm.,4085,5,Villa,135,1979,
+Kildevænget 2 5466 Asperup,2,389180.0,30-05-1994,Alm.,7076,3,Sommerhus,55,1966,
+Tanggyden 5 5466 Asperup,5,298000.0,19-05-1994,Fam.,1910,5,Villa,156,2012,
+Kildevænget 14 5466 Asperup,14,332000.0,01-05-1994,Fam.,1897,5,Sommerhus,175,2007,
+Middelfartvej 104 5466 Asperup,104,625000.0,05-04-1994,Alm.,3472,6,Stuehus,180,1877,
+Sommerlandsvej 7 5466 Asperup,7,490000.0,03-04-1994,Alm.,0,5,Sommerhus,94,1974,
+Blankegaardvænget 12 5466 Asperup,12,600000.0,25-03-1994,Alm.,4444,4,Villa,135,1978,
+Middelfartvej 87 5466 Asperup,87,409000.0,05-03-1994,Alm.,2820,4,Villa,145,1880,
+Jensbjergvænget 14 5466 Asperup,14,903090.0,20-01-1994,Fam.,6271,5,Sommerhus,144,1986,
+Molevej 12 5466 Asperup,12,90000.0,19-01-1994,Fam.,725,5,Sommerhus,124,1994,
+Strandvejen 11 5466 Asperup,11,323000.0,20-12-1993,Fam.,4250,5,Sommerhus,76,1928,
+Hjortevænget 21 5466 Asperup,21,743583.0,10-12-1993,Alm.,0,7,Sommerhus,254,1971,
+Kildevangsvej 11 5466 Asperup,11,403000.0,22-09-1993,Alm.,5757,4,Sommerhus,70,1984,
+Hermelinvænget 8 5466 Asperup,8,501000.0,05-07-1993,Alm.,5894,3,Sommerhus,85,1978,
+Hindballevej 11 5466 Asperup,11,538000.0,24-06-1993,Alm.,3788,5,Villa,142,1908,
+Dybdalsvej 3 5466 Asperup,3,575000.0,24-05-1993,Alm.,3304,5,Stuehus,174,1994,
+Daadyrvænget 20 5466 Asperup,20,140726.0,10-05-1993,Alm.,1090,5,Sommerhus,129,1973,
+Skovgyden 8 5466 Asperup,8,610000.0,15-04-1993,Alm.,4586,6,Villa,133,1937,
+Engvejen 11 5466 Asperup,11,50000.0,18-02-1993,Fam.,1111,3,Sommerhus,45,1963,
+Kildevangsvej 5 5466 Asperup,5,306000.0,09-02-1993,Fam.,4636,5,Sommerhus,66,1985,
+Kærbyvej 53 5466 Asperup,53,555000.0,09-02-1993,Alm.,4172,4,Stuehus,133,1909,
+Daadyrvænget 6 5466 Asperup,6,1070000.0,08-02-1993,Alm.,4331,7,Sommerhus,247,1975,
+Eskelundsvej 32 5466 Asperup,32,500000.0,01-02-1993,Alm.,0,3,Sommerhus,113,1972,
+Bøgevangsvej 22 5466 Asperup,22,160000.0,18-01-1993,Alm.,2388,4,Sommerhus,67,1993,
+Bågøvej 3 5466 Asperup,3,204925.0,11-01-1993,Andet,1951,4,Villa,105,1979,
+Tanggyden 1 5466 Asperup,1,445000.0,03-12-1992,Alm.,2270,5,Stuehus,196,1969,
+Middelfartvej 101 5466 Asperup,101,500000.0,05-11-1992,Alm.,5000,5,Stuehus,100,1947,
+Middelfartvej 20 5466 Asperup,20,172600.0,01-11-1992,Auktion,1876,2,Rækkehus,92,1852,
+Ægypten 3 5466 Asperup,3,600000.0,26-10-1992,Alm.,4000,6,Stuehus,150,1880,
+Dybdalsvej 9 5466 Asperup,9,450589.0,01-10-1992,Fam.,3003,5,Stuehus,150,1877,
+Grævlingevænget 3 5466 Asperup,3,505000.0,31-08-1992,Alm.,5611,4,Sommerhus,90,1930,
+Enghøjvej 2 5466 Asperup,2,226000.0,18-08-1992,Alm.,2539,4,Villa,89,1810,
+Middelfartvej 80 5466 Asperup,80,445000.0,04-08-1992,Alm.,0,3,Villa,154,1912,
+Bøgevangsvej 26 5466 Asperup,26,139000.0,18-07-1992,Alm.,1654,5,Sommerhus,84,1993,
+Kærbyvej 55 5466 Asperup,55,900000.0,02-07-1992,Alm.,0,6,Stuehus,194,1880,
+Skyttevej 6I 5466 Asperup,0,68850.0,26-06-1992,Alm.,8606,1,Sommerhus,8,1937,
+Hindballevej 13 5466 Asperup,13,725642.0,05-05-1992,Alm.,2485,5,Stuehus,292,1827,
+Blankegaardsvej 17 5466 Asperup,17,345000.0,10-04-1992,Alm.,2065,6,Villa,167,1957,
+Byvejen 7 5466 Asperup,7,300000.0,27-03-1992,Alm.,3157,4,Villa,95,1895,
+Sildegravsbanken 9 5466 Asperup,9,516000.0,22-03-1992,Alm.,3440,3,Villa,150,1870,
+Kystvejen 18 5466 Asperup,18,680000.0,02-03-1992,Alm.,4657,4,Villa,146,1965,
+Elmevænget 10 5466 Asperup,10,57545.0,20-01-1992,Fam.,737,3,Sommerhus,78,1993,

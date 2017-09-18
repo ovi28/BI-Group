@@ -1,0 +1,405 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Surmosevej 9 7150 Barrit,9,300000.0,28-04-2017,Alm.,4166,4,Villa,72,1932,
+Barrit Langgade 153 7150 Barrit,153,455000.0,01-04-2017,Alm.,2757,5,Villa,165,1943,
+Bagervænget 16 7150 Barrit,16,698000.0,20-03-2017,Alm.,3388,6,Villa,206,1964,0 %
+Barrit Langgade 74 7150 Barrit,74,545000.0,17-02-2017,Alm.,4780,4,Villa,114,1900,-8 %
+Barrit Langgade 31 7150 Barrit,31,382000.0,26-01-2017,Fam.,3979,3,Villa,96,1961,
+Vævergade 25 7150 Barrit,25,870000.0,21-01-2017,Alm.,6692,3,Villa,130,1877,-3 %
+Vangevej 25 7150 Barrit,25,689000.0,16-01-2017,Alm.,4150,6,Villa,166,1971,
+Serupsvej 1 7150 Barrit,1,825200.0,04-01-2017,Alm.,5358,5,Stuehus,154,1750,-13 %
+Fennen 19 7150 Barrit,19,895000.0,10-12-2016,Andet,7160,5,Rækkehus,125,1985,
+Vævergade 28 7150 Barrit,28,1000000.0,18-11-2016,Alm.,6250,6,Villa,160,1972,-9 %
+Barrit Langgade 33 7150 Barrit,33,155000.0,16-11-2016,Alm.,2066,3,Villa,75,1956,0 %
+Bakkesvinget 6 7150 Barrit,6,935000.0,23-10-2016,Alm.,5993,5,Villa,156,1971,-6 %
+Mikkelbro 8 7150 Barrit,8,644000.0,04-10-2016,Andet,4700,6,Villa,137,1998,
+Randvej 10 7150 Barrit,10,1318400.0,26-07-2016,Alm.,7577,6,Stuehus,174,1877,-17 %
+Bakkesvinget 5 7150 Barrit,5,600000.0,15-06-2016,Alm.,4687,4,Villa,128,1975,-14 %
+Barrit Langgade 189 7150 Barrit,189,1150000.0,27-05-2016,Alm.,11734,4,Stuehus,98,1937,-11 %
+Bagervænget 3 7150 Barrit,3,760000.0,20-05-2016,Alm.,8941,3,Villa,85,1967,-4 %
+Barrit Langgade 155 7150 Barrit,155,600000.0,13-05-2016,Alm.,3141,7,Villa,191,1969,-8 %
+Sigurd Stenhøj Vej 4 7150 Barrit,4,800000.0,14-04-2016,Andet,3478,6,Villa,230,1965,-46 %
+Nørløkkevej 1 7150 Barrit,1,1350000.0,30-03-2016,Alm.,7941,6,Villa,170,1912,-10 %
+Vangevej 24 7150 Barrit,24,1400000.0,01-03-2016,Alm.,6763,7,Villa,207,1971,-6 %
+Randvej 12 7150 Barrit,12,9250000.0,01-03-2016,Andet,54411,7,Stuehus,170,1815,
+Høkervej 10 7150 Barrit,10,865000.0,16-12-2015,Alm.,7032,4,Villa,123,1925,-3 %
+Serupsvej 6 7150 Barrit,6,300000.0,01-12-2015,Andet,2000,6,Villa,150,1850,
+Barrit Stationsvej 1 7150 Barrit,1,484200.0,20-11-2015,Auktion,2457,5,Villa,197,1909,-19 %
+Barrit Langgade 140 7150 Barrit,140,1025000.0,29-10-2015,Alm.,6029,6,Villa,170,1972,-2 %
+Randvej 7 7150 Barrit,7,1150000.0,22-09-2015,Alm.,11057,3,Villa,104,1835,-4 %
+Serupsvej 15 7150 Barrit,15,1509000.0,13-09-2015,Fam.,7545,5,Stuehus,200,1975,
+Barrit Langgade 122 7150 Barrit,122,350000.0,03-09-2015,Alm.,3240,4,Villa,108,1962,-36 %
+Barrit Langgade 72 7150 Barrit,72,750000.0,30-08-2015,Alm.,7142,5,Villa,105,1965,
+Brethvej 9 7150 Barrit,9,412000.0,07-08-2015,Auktion,2881,4,Villa,143,1920,-51 %
+Barrit Langgade 199 7150 Barrit,199,467500.0,03-08-2015,Fam.,3740,4,Villa,125,1984,
+Randvej 23 7150 Barrit,23,1500000.0,26-06-2015,Alm.,5905,7,Villa,254,1914,-6 %
+Serupsvej 16 7150 Barrit,16,1600000.0,11-06-2015,Alm.,9411,5,Villa,170,1850,-11 %
+Vævergade 34 7150 Barrit,34,415000.0,04-06-2015,Andet,3952,4,Villa,105,1950,-60 %
+Vangevej 22 7150 Barrit,22,1200000.0,28-05-2015,Alm.,6818,5,Villa,176,1975,
+Serupsvej 2 7150 Barrit,2,820000.0,24-04-2015,Alm.,7130,4,Villa,115,1960,-3 %
+Serupsvej 25 7150 Barrit,25,875000.0,09-04-2015,Alm.,5271,4,Stuehus,166,1972,
+Barrit Langgade 144 7150 Barrit,144,480000.0,14-03-2015,Alm.,5161,4,Villa,93,1949,-19 %
+Staksrodevej 2 7150 Barrit,2,19450000.0,12-03-2015,Alm.,180092,6,Villa,108,1926,
+Skulsballevej 2 7150 Barrit,2,1700000.0,26-02-2015,Alm.,12318,4,Villa,138,1870,-10 %
+Barrit Langgade 41 7150 Barrit,41,620000.0,13-02-2015,Andet,5166,5,Villa,120,1930,
+Barrit Langgade 114 7150 Barrit,114,1400000.0,02-02-2015,Alm.,11666,5,Villa,120,1974,-3 %
+Barrit Langgade 59B 7150 Barrit,0,575000.0,30-01-2015,Alm.,5000,4,Rækkehus,115,1982,-3 %
+Barrit Langgade 99 7150 Barrit,99,770000.0,19-12-2014,Alm.,7938,4,Villa,97,1952,-3 %
+Barrit Stationsvej 8 7150 Barrit,8,500000.0,16-12-2014,Alm.,4201,3,Villa,119,1938,
+Staksrodevej 13B 7150 Barrit,0,535000.0,12-12-2014,Auktion,2939,4,Villa,182,1863,-53 %
+Barrit Langgade 64 7150 Barrit,64,585000.0,09-12-2014,Alm.,4431,4,Villa,132,1960,-6 %
+Skerrildgårdvej 9 7150 Barrit,9,1400000.0,01-12-2014,Alm.,5932,8,Villa,236,1990,-12 %
+Dynnesvej 21 7150 Barrit,21,620000.0,19-11-2014,Alm.,5166,4,Villa,120,1976,-4 %
+Brethvej 8 7150 Barrit,8,1237500.0,03-10-2014,Alm.,11899,4,Villa,104,1897,-4 %
+Kirkebro 5 7150 Barrit,5,685000.0,15-08-2014,Alm.,6116,5,Villa,112,1959,-14 %
+Bagervænget 11 7150 Barrit,11,760000.0,26-05-2014,Alm.,6608,4,Villa,115,1965,-5 %
+Vejlevej 58 7150 Barrit,58,1000000.0,21-05-2014,Alm.,11111,4,Stuehus,90,1954,
+Barrit Langgade 135 7150 Barrit,135,500000.0,27-04-2014,Alm.,4901,4,Villa,102,1962,-8 %
+Brølbæk 15 7150 Barrit,15,300000.0,11-04-2014,Alm.,2380,4,Villa,126,1953,
+Høkervej 1B 7150 Barrit,0,1512000.0,24-03-2014,Alm.,10427,6,Villa,145,1996,-11 %
+Bagervænget 19 7150 Barrit,19,699000.0,27-02-2014,Alm.,5592,4,Villa,125,1965,0 %
+Barrit Langgade 11 7150 Barrit,11,350000.0,14-02-2014,Auktion,2692,5,Villa,130,1968,
+Barrit Langgade 4 7150 Barrit,4,1675000.0,28-01-2014,Alm.,10090,5,Villa,166,1974,-7 %
+Barrit Langgade 78 7150 Barrit,78,1050000.0,09-01-2014,Fam.,4468,5,Villa,235,1897,
+Barrit Langgade 63 7150 Barrit,63,1100000.0,13-12-2013,Alm.,5188,7,Villa,212,1885,-8 %
+Dynnesvej 23 7150 Barrit,23,700000.0,04-12-2013,Alm.,4487,5,Villa,156,1976,-12 %
+Vangevej 20 7150 Barrit,20,514890.0,06-11-2013,Alm.,2574,6,Villa,200,2010,
+Overmarksvej 2 7150 Barrit,2,950000.0,10-10-2013,Fam.,5000,6,Villa,190,1875,
+Vangevej 9 7150 Barrit,9,900000.0,23-09-2013,Alm.,5113,6,Villa,176,1971,-18 %
+Barrit Langgade 158 7150 Barrit,158,1250000.0,19-09-2013,Alm.,5230,6,Villa,239,1898,-3 %
+Gramtangevej 17 7150 Barrit,17,1350000.0,04-09-2013,Alm.,8333,4,Villa,162,1981,-10 %
+Barrit Langgade 195 7150 Barrit,195,450000.0,22-08-2013,Alm.,3750,5,Villa,120,1951,
+Barrit Stationsvej 7 7150 Barrit,7,650000.0,06-08-2013,Alm.,7831,3,Villa,83,1960,-6 %
+Barrit Langgade 103 7150 Barrit,103,375180.0,07-07-2013,Alm.,1437,6,Stuehus,261,2007,
+Barrit Langgade 187 7150 Barrit,187,925000.0,19-06-2013,Alm.,5441,8,Villa,170,1877,0 %
+Brølbæk 19 7150 Barrit,19,735000.0,14-06-2013,Fam.,8166,5,Villa,90,1957,
+Surmosevej 23 7150 Barrit,23,1575000.0,07-06-2013,Fam.,12804,6,Stuehus,123,1877,
+Vævergade 32 7150 Barrit,32,500000.0,23-05-2013,Alm.,4464,4,Villa,112,1942,-20 %
+Vævergade 11 7150 Barrit,11,160000.0,07-12-2012,Auktion,1927,3,Villa,83,1850,
+Barrit Langgade 62 7150 Barrit,62,595000.0,30-11-2012,Alm.,5509,3,Villa,108,1950,0 %
+Randvej 3 7150 Barrit,3,1091109.0,12-10-2012,Alm.,5245,5,Stuehus,208,1941,
+Surmosevej 7 7150 Barrit,7,1422500.0,15-09-2012,Alm.,8835,4,Villa,161,1977,-5 %
+Dynnesvej 1 7150 Barrit,1,1025000.0,25-07-2012,Alm.,6101,5,Villa,168,1980,-2 %
+Blæsbjergvej 1 7150 Barrit,1,470000.0,29-06-2012,Auktion,2974,6,Villa,158,1892,-54 %
+Barrit Langgade 44 7150 Barrit,44,624000.0,29-05-2012,Alm.,4691,4,Villa,133,1956,-58 %
+Staksrodevej 17C 7150 Barrit,0,300000.0,25-05-2012,Fam.,2142,4,Villa,140,2014,
+Barrit Langgade 115 7150 Barrit,115,5479000.0,16-05-2012,Fam.,49809,4,Stuehus,110,1912,
+Brølbæk 1B 7150 Barrit,0,500000.0,20-04-2012,Auktion,2314,6,Rækkehus,216,1910,-64 %
+Barrit Hulevej 4 7150 Barrit,4,625000.0,28-02-2012,Alm.,6127,3,Villa,102,1962,
+Vangevej 10 7150 Barrit,10,500000.0,21-02-2012,Alm.,3030,6,Villa,165,1969,
+Barrit Langgade 80 7150 Barrit,80,2000000.0,10-02-2012,Alm.,19230,7,Industri o.l.,104,1964,
+Gramtangevej 4 7150 Barrit,4,900000.0,21-12-2011,Alm.,8181,4,Villa,110,1995,-59 %
+Serupsvej 17 7150 Barrit,17,1900000.0,07-12-2011,Alm.,8755,8,Villa,217,1877,-13 %
+Bagervænget 14 7150 Barrit,14,1025000.0,18-11-2011,Alm.,7536,4,Villa,136,1964,
+Barrit Langgade 132 7150 Barrit,132,630000.0,20-10-2011,Alm.,6774,4,Rækkehus,93,1959,-7 %
+Vangevej 16 7150 Barrit,16,1000000.0,14-09-2011,Alm.,6134,5,Villa,163,1973,
+Korsbækdal 1 7150 Barrit,1,1565000.0,13-09-2011,Alm.,8236,6,Villa,190,2001,-8 %
+Barrit Langgade 7 7150 Barrit,7,700000.0,14-07-2011,Alm.,6194,4,Villa,113,1963,-12 %
+Lhombrevej 2 7150 Barrit,2,870000.0,01-06-2011,Alm.,10875,4,Villa,80,1777,-3 %
+Vangevej 28 7150 Barrit,28,695000.0,26-05-2011,Alm.,5429,3,Villa,128,1969,-13 %
+Barrit Langgade 70 7150 Barrit,70,780000.0,14-04-2011,Alm.,5131,3,Villa,152,1877,-2 %
+Barrit Stationsvej 4 7150 Barrit,4,650000.0,24-02-2011,Auktion,2355,8,Villa,276,1908,
+Brølbæk 1A 7150 Barrit,0,180000.0,18-02-2011,Auktion,1353,4,Rækkehus,133,1910,-70 %
+Vangevej 26 7150 Barrit,26,1090000.0,03-02-2011,Alm.,7676,6,Villa,142,1972,
+Dynnesvej 17 7150 Barrit,17,710000.0,04-01-2011,Alm.,6339,4,Villa,112,1978,-11 %
+Barrit Langgade 110 7150 Barrit,110,930000.0,14-12-2010,Alm.,5284,4,Villa,176,1962,-7 %
+Bagervænget 5 7150 Barrit,5,775000.0,08-12-2010,Alm.,8072,3,Villa,96,1966,-13 %
+Serupsvej 14 7150 Barrit,14,575000.0,25-11-2010,Alm.,7876,3,Villa,73,1850,-12 %
+Brethvej 6 7150 Barrit,6,685000.0,29-10-2010,Alm.,5708,6,Villa,120,1965,-1 %
+Staksrodevej 41 7150 Barrit,41,1070000.0,27-09-2010,Alm.,7535,6,Villa,142,1900,-2 %
+Barrit Langgade 87 7150 Barrit,87,513000.0,21-09-2010,Alm.,7434,3,Villa,69,1877,
+Vævergade 36 7150 Barrit,36,950000.0,15-09-2010,Alm.,7089,4,Villa,134,1963,-11 %
+Barrit Langgade 185 7150 Barrit,185,455128.0,09-09-2010,Auktion,3992,4,Villa,114,1946,-8 %
+Bagervænget 17 7150 Barrit,17,875000.0,09-07-2010,Alm.,7352,4,Villa,119,1965,-10 %
+Barrit Langgade 18 7150 Barrit,18,544554.0,24-06-2010,Alm.,0,6,Villa,178,1918,-54 %
+Surmosevej 3B 7150 Barrit,0,1500000.0,15-04-2010,Auktion,6097,5,Villa,246,1877,-35 %
+Barrit Langgade 85 7150 Barrit,85,420000.0,25-03-2010,Alm.,4000,4,Rækkehus,105,1920,-15 %
+Bakkesvinget 40 7150 Barrit,40,1345000.0,20-03-2010,Alm.,8302,6,Villa,162,1975,-4 %
+Overmarksvej 1 7150 Barrit,1,395000.0,12-03-2010,Fam.,2821,5,Villa,140,1877,
+Vævergade 5 7150 Barrit,5,650000.0,12-02-2010,Auktion,7558,4,Villa,86,1877,
+Gramtangevej 1 7150 Barrit,1,1545000.0,07-02-2010,Alm.,9537,6,Villa,162,1900,-3 %
+Brethvej 11 7150 Barrit,11,1125000.0,23-01-2010,Alm.,7500,6,Villa,150,1890,
+Overmarksvej 3 7150 Barrit,3,1475000.0,14-01-2010,Alm.,10034,5,Villa,147,1900,-8 %
+Barrit Langgade 186 7150 Barrit,186,450000.0,18-11-2009,Auktion,2542,8,Villa,177,1941,
+Skerrildgårdvej 5 7150 Barrit,5,1840000.0,16-11-2009,Alm.,6996,9,Villa,263,1877,
+Nørløkkevej 2 7150 Barrit,2,825000.0,24-09-2009,Alm.,7500,4,Villa,110,1961,0 %
+Vævergade 18 7150 Barrit,18,1495000.0,14-09-2009,Alm.,7512,7,Villa,199,1976,-6 %
+Barrit Langgade 131 7150 Barrit,131,2098000.0,08-09-2009,Alm.,9004,8,Villa,233,1927,-4 %
+Brølbæk 10 7150 Barrit,10,700000.0,03-08-2009,Alm.,5343,4,Villa,131,1960,-7 %
+Vangevej 7 7150 Barrit,7,795000.0,23-07-2009,Alm.,8281,4,Villa,96,1966,-4 %
+Vangevej 15 7150 Barrit,15,700000.0,10-07-2009,Alm.,5882,4,Villa,119,1970,-12 %
+Barrit Langgade 6 7150 Barrit,6,1145000.0,29-06-2009,Alm.,6856,5,Villa,167,1960,-12 %
+Vævergade 21 7150 Barrit,21,80000.0,22-06-2009,Alm.,526,4,Villa,152,1964,
+Vævergade 19 7150 Barrit,19,610000.0,19-06-2009,Alm.,0,6,Villa,212,1943,
+Brethvej 1 7150 Barrit,1,950000.0,28-05-2009,Alm.,2386,6,Villa,398,1900,
+Blæsbjergvej 7 7150 Barrit,7,1800000.0,18-05-2009,Fam.,10000,6,Villa,180,1910,0 %
+Kirkebro 4 7150 Barrit,4,530000.0,14-05-2009,Fam.,6162,4,Villa,86,1916,
+Lykkevej 1 7150 Barrit,1,450000.0,04-05-2009,Alm.,3125,4,Villa,144,1887,-43 %
+Barrit Langgade 164 7150 Barrit,164,1098000.0,26-04-2009,Alm.,10980,4,Villa,100,1960,0 %
+Barrit Langgade 145 7150 Barrit,145,810000.0,17-04-2009,Alm.,5827,5,Villa,139,1941,-19 %
+Skulsballevej 6 7150 Barrit,6,10600000.0,20-01-2009,Alm.,63473,4,Stuehus,167,1901,
+Staksrodevej 43 7150 Barrit,43,1350000.0,28-12-2008,Fam.,10975,4,Sommerhus,123,1850,
+Brethvej 2 7150 Barrit,2,355000.0,13-10-2008,Alm.,5298,3,Villa,67,1956,
+Vævergade 14 7150 Barrit,14,695000.0,03-10-2008,Auktion,6205,4,Villa,112,1973,
+Barrit Langgade 1 7150 Barrit,1,2200000.0,12-09-2008,Alm.,10476,6,Villa,210,1909,-4 %
+Brethvej 7 7150 Barrit,7,884835.0,21-08-2008,Alm.,4657,5,Villa,190,1849,
+Brethvej 12 7150 Barrit,12,1095000.0,12-08-2008,Alm.,13035,4,Villa,84,1825,0 %
+Serupsvej 5 7150 Barrit,5,960000.0,04-07-2008,Alm.,5647,5,Villa,170,1913,-6 %
+Randvej 1 7150 Barrit,1,7000000.0,02-07-2008,Alm.,51851,6,Villa,135,1858,
+Smedskærlund 20 7150 Barrit,20,2250000.0,30-06-2008,Alm.,15734,6,Villa,143,1890,-10 %
+Fennen 16 7150 Barrit,16,1345000.0,04-06-2008,Alm.,11594,4,Villa,116,1977,0 %
+Korsbækdal 4 7150 Barrit,4,1395000.0,27-05-2008,Alm.,8558,6,Villa,163,1867,0 %
+Barrit Langgade 9 7150 Barrit,9,1185000.0,20-05-2008,Alm.,7900,6,Villa,150,1964,-3 %
+Blæsbjergvej 17 7150 Barrit,17,198231.0,02-05-2008,Alm.,1126,7,Stuehus,176,1888,
+Vejlevej 47 7150 Barrit,47,231423.0,02-05-2008,Alm.,1361,9,Stuehus,170,1965,
+Vejlevej 54 7150 Barrit,54,85000.0,02-05-2008,Alm.,412,6,Stuehus,206,1872,
+Smedskærlund 26 7150 Barrit,26,3130000.0,17-04-2008,Alm.,16918,5,Villa,185,1972,-7 %
+Vævergade 8 7150 Barrit,8,1170000.0,10-03-2008,Alm.,3391,8,Villa,345,1939,
+Vævergade 10A 7150 Barrit,0,240000.0,20-02-2008,Fam.,1621,5,Villa,148,2011,
+Barrit Langgade 65 7150 Barrit,65,807815.0,04-02-2008,Andet,4039,7,Villa,200,1880,
+Barrit Langgade 66 7150 Barrit,66,1050000.0,19-01-2008,Alm.,9545,3,Villa,110,1962,0 %
+Randvej 17 7150 Barrit,17,1200000.0,17-01-2008,Alm.,10000,3,Villa,120,1970,
+Korsbækdal 10 7150 Barrit,10,416500.0,04-12-2007,Fam.,7572,3,Sommerhus,55,1867,
+Barrit Langgade 32 7150 Barrit,32,1800000.0,25-10-2007,Alm.,10465,4,Villa,172,1877,
+Skerrildgårdvej 4 7150 Barrit,4,600000.0,25-10-2007,Fam.,4958,4,Villa,121,1987,
+Vævergade 20 7150 Barrit,20,1750000.0,24-10-2007,Alm.,10542,5,Villa,166,1950,
+Høkervænget 6 7150 Barrit,6,340000.0,03-10-2007,Alm.,2125,6,Villa,160,2008,
+Blæsbjergvej 11 7150 Barrit,11,1895000.0,19-09-2007,Alm.,12891,4,Villa,147,1934,0 %
+Randvej 15 7150 Barrit,15,995000.0,17-09-2007,Alm.,16583,3,Villa,60,1954,
+Høkervej 16 7150 Barrit,16,1150000.0,29-08-2007,Alm.,10454,4,Villa,110,1949,0 %
+Vejlevej 52 7150 Barrit,52,1327000.0,23-07-2007,Alm.,15797,3,Villa,84,1850,
+Serupsvej 13 7150 Barrit,13,1095000.0,03-07-2007,Alm.,8423,5,Villa,130,1931,
+Barrit Langgade 175 7150 Barrit,175,1550000.0,15-06-2007,Alm.,8806,7,Villa,176,1915,
+Barrit Langgade 124 7150 Barrit,124,1035000.0,11-06-2007,Alm.,11129,4,Rækkehus,93,1959,
+Barrit Langgade 146 7150 Barrit,146,547185.0,01-06-2007,Alm.,4929,4,Villa,111,1948,
+Barrit Langgade 142 7150 Barrit,142,1250000.0,29-05-2007,Alm.,12254,4,Villa,102,1950,
+Barrit Langgade 84 7150 Barrit,84,698460.0,18-05-2007,Alm.,3174,6,Villa,220,1870,
+Barrit Langgade 90 7150 Barrit,90,200000.0,14-05-2007,Alm.,854,8,Villa,234,2009,
+Skulsballevej 4 7150 Barrit,4,2885000.0,30-04-2007,Alm.,10490,7,Villa,275,1847,
+Brethvej 4 7150 Barrit,4,1050000.0,27-04-2007,Alm.,9459,3,Villa,111,1910,
+Barrit Langgade 57 7150 Barrit,57,1095000.0,23-04-2007,Alm.,7300,4,Villa,150,1900,
+Geert Strandvej 5 7150 Barrit,5,3400000.0,03-04-2007,Fam.,38202,4,Sommerhus,89,1777,
+Gramtangevej 11 7150 Barrit,11,2145000.0,27-03-2007,Alm.,8511,7,Villa,252,1877,
+Barrit Langgade 20 7150 Barrit,20,1225000.0,14-03-2007,Alm.,9496,4,Villa,129,1959,
+Korsbækdal 8 7150 Barrit,8,7500000.0,05-01-2007,Fam.,35885,8,Stuehus,209,1970,
+Barrit Langgade 151 7150 Barrit,151,1245000.0,08-12-2006,Alm.,7781,5,Villa,160,1936,
+Ørnsvigvej 3 7150 Barrit,3,1395000.0,14-11-2006,Alm.,14090,4,Villa,99,1913,
+Brølbæk 28 7150 Barrit,28,700000.0,14-09-2006,Alm.,9859,2,Villa,71,1932,
+Skulsballevej 3 7150 Barrit,3,2295000.0,10-09-2006,Alm.,12207,6,Villa,188,1860,
+Midterfolden 5 7150 Barrit,5,173758.0,28-08-2006,Alm.,1143,5,Villa,152,2007,
+Midterfolden 7 7150 Barrit,7,173758.0,24-08-2006,Alm.,1206,5,Villa,144,2007,
+Vævergade 2 7150 Barrit,2,820000.0,17-08-2006,Alm.,7321,6,Villa,112,1930,
+Barrit Langgade 141 7150 Barrit,141,1150000.0,05-08-2006,Alm.,8984,4,Villa,128,1973,
+Barrit Hulevej 2 7150 Barrit,2,610000.0,24-07-2006,Alm.,10517,2,Villa,58,1870,
+Skerrildgårdvej 2 7150 Barrit,2,1600000.0,28-06-2006,Alm.,11594,4,Villa,138,1920,
+Barrit Langgade 39 7150 Barrit,39,950000.0,28-06-2006,Alm.,7037,5,Villa,135,1952,
+Randvej 16 7150 Barrit,16,1800000.0,27-06-2006,Alm.,12949,5,Villa,139,1969,
+Kirkebro 7 7150 Barrit,7,1295000.0,21-06-2006,Alm.,4796,6,Villa,270,1974,
+Ørnsvigvej 8 7150 Barrit,8,1850000.0,08-06-2006,Alm.,10511,7,Villa,176,1870,
+Høkervænget 4 7150 Barrit,4,360000.0,02-06-2006,Alm.,2337,4,Villa,154,2007,
+Midterfolden 10 7150 Barrit,10,180441.0,01-06-2006,Alm.,1219,5,Villa,148,2007,
+Lykkevej 2 7150 Barrit,2,960000.0,19-05-2006,Alm.,11566,4,Villa,83,1932,
+Skulsballevej 1 7150 Barrit,1,1995000.0,17-05-2006,Alm.,10445,6,Villa,191,1997,
+Høkervej 12 7150 Barrit,12,1283000.0,08-05-2006,Alm.,8610,4,Villa,149,1974,
+Bakkesvinget 9 7150 Barrit,9,1295000.0,04-05-2006,Alm.,8633,5,Villa,150,1973,
+Vævergade 12 7150 Barrit,12,895000.0,03-05-2006,Alm.,6832,5,Villa,131,1910,
+Vandmøllevej 3 7150 Barrit,3,3500000.0,24-04-2006,Alm.,17073,8,Villa,205,1863,
+Barrit Langgade 107 7150 Barrit,107,875000.0,22-04-2006,Alm.,0,6,Villa,150,1870,
+Serupsvej 18 7150 Barrit,18,80000.0,10-04-2006,Alm.,0,8,Stuehus,193,1870,
+Bagervænget 2 7150 Barrit,2,1025000.0,13-03-2006,Alm.,7481,3,Villa,137,1964,
+Vævergade 24 7150 Barrit,24,570468.0,13-03-2006,Alm.,3656,7,Villa,156,1957,
+Barrit Stationsvej 3 7150 Barrit,3,675000.0,08-03-2006,Alm.,5192,6,Villa,130,1920,
+Barrit Langgade 149 7150 Barrit,149,1255000.0,01-03-2006,Alm.,6605,6,Villa,190,1930,
+Midterfolden 17 7150 Barrit,17,1375000.0,25-02-2006,Alm.,8088,5,Villa,170,1980,
+Smedskærlund 19 7150 Barrit,19,1150000.0,15-02-2006,Alm.,7931,4,Villa,145,1916,
+Vangevej 2 7150 Barrit,2,1490000.0,23-01-2006,Alm.,6106,8,Villa,244,1967,
+Barrit Stationsvej 12 7150 Barrit,12,600696.0,13-12-2005,Alm.,0,3,Villa,174,1945,
+Fennen 17 7150 Barrit,17,955000.0,12-12-2005,Alm.,7519,5,Rækkehus,127,1984,
+Randvej 2 7150 Barrit,2,1400000.0,16-11-2005,Alm.,9333,8,Villa,150,1880,
+Barrit Langgade 134 7150 Barrit,134,735000.0,14-11-2005,Alm.,7903,4,Rækkehus,93,1959,
+Barrit Langgade 77 7150 Barrit,77,1095000.0,29-08-2005,Alm.,0,5,Villa,160,1910,
+Barrit Langgade 60 7150 Barrit,60,635000.0,25-08-2005,Alm.,5669,4,Villa,112,1957,
+Ørnsvigvej 6 7150 Barrit,6,675000.0,22-08-2005,Alm.,2596,6,Villa,260,2007,
+Barrit Langgade 67 7150 Barrit,67,423748.0,04-08-2005,Fam.,4074,5,Villa,104,1900,
+Barrit Langgade 128 7150 Barrit,128,659000.0,15-07-2005,Alm.,7086,4,Rækkehus,93,1959,
+Midterfolden 4 7150 Barrit,4,173758.0,12-07-2005,Alm.,1099,5,Villa,158,2006,
+Midterfolden 3 7150 Barrit,3,173758.0,29-06-2005,Alm.,1326,4,Villa,131,2006,
+Ørnsvigvej 2 7150 Barrit,2,9191810.0,28-06-2005,Fam.,45959,6,Stuehus,200,1912,
+Barrit Langgade 171 7150 Barrit,171,978845.0,10-06-2005,Auktion,5968,5,Villa,164,1900,
+Kirkebro 18 7150 Barrit,18,899000.0,25-05-2005,Alm.,5137,6,Villa,175,1800,
+Dynnesvej 3 7150 Barrit,3,880000.0,07-05-2005,Alm.,0,4,Villa,129,1979,
+Brølbæk 12 7150 Barrit,12,432397.0,25-04-2005,Andet,2485,5,Villa,174,1884,
+Geert Strandvej 3 7150 Barrit,3,1000000.0,24-04-2005,Fam.,13698,3,Sommerhus,73,1850,
+Bagervænget 10 7150 Barrit,10,670000.0,18-04-2005,Alm.,5982,4,Villa,112,1964,
+Barrit Langgade 8 7150 Barrit,8,1257500.0,04-04-2005,Alm.,6834,6,Villa,184,1906,
+Staksrodevej 35 7150 Barrit,35,1385000.0,04-03-2005,Alm.,6471,7,Villa,214,1777,
+Randvej 26 7150 Barrit,26,1100000.0,28-01-2005,Alm.,4453,8,Villa,247,1969,
+Brølbæk 24 7150 Barrit,24,975000.0,20-01-2005,Alm.,7500,4,Villa,130,1827,
+Barrit Langgade 14 7150 Barrit,14,685000.0,06-12-2004,Alm.,5351,4,Villa,128,1962,
+Blæsbjergvej 4 7150 Barrit,4,395000.0,23-09-2004,Alm.,4157,4,Villa,95,1908,
+Kirkebro 11 7150 Barrit,11,600000.0,05-05-2004,Alm.,4615,5,Villa,130,1870,
+Lykkevej 5 7150 Barrit,5,3780000.0,26-04-2004,Alm.,23924,6,Villa,158,1900,
+Barrit Langgade 183 7150 Barrit,183,455000.0,23-04-2004,Alm.,3500,5,Villa,130,1927,
+Randvej 6 7150 Barrit,6,383316.0,05-04-2004,Fam.,4852,4,Villa,79,1877,
+Kirkebro 16 7150 Barrit,16,625000.0,20-01-2004,Alm.,4734,4,Villa,132,1909,
+Barrit Langgade 174 7150 Barrit,174,2750000.0,07-01-2004,Fam.,17187,5,Stuehus,160,1909,
+Barrit Langgade 94 7150 Barrit,94,870000.0,01-12-2003,Alm.,7016,6,Villa,124,1928,
+Midterfolden 11 7150 Barrit,11,800000.0,13-11-2003,Alm.,7476,4,Villa,107,1980,
+Barrit Langgade 125 7150 Barrit,125,470000.0,21-10-2003,Fam.,4519,3,Villa,104,1939,
+Randvej 28 7150 Barrit,28,520000.0,20-10-2003,Alm.,4062,4,Villa,128,1930,
+Barrit Langgade 69 7150 Barrit,69,410000.0,14-10-2003,Alm.,2356,6,Villa,174,1900,
+Surmosevej 11 7150 Barrit,11,850000.0,13-10-2003,Alm.,4250,8,Villa,200,1860,
+Barrit Langgade 160 7150 Barrit,160,737000.0,06-10-2003,Fam.,2440,8,Stuehus,302,1930,
+Høkervej 1A 7150 Barrit,0,790000.0,24-09-2003,Alm.,6171,4,Villa,128,1890,
+Staksrodevej 14 7150 Barrit,14,564965.0,15-09-2003,Alm.,5885,4,Villa,96,1781,
+Midterfolden 13 7150 Barrit,13,1195000.0,11-07-2003,Alm.,6867,4,Villa,174,1980,
+Skulsballevej 7 7150 Barrit,7,1300000.0,10-07-2003,Alm.,7692,8,Villa,169,1900,
+Smedskærlund 12 7150 Barrit,12,1300000.0,03-07-2003,Alm.,8074,5,Villa,161,1904,
+Gramtangevej 5 7150 Barrit,5,621073.0,28-06-2003,Alm.,6824,3,Villa,91,1900,
+Brethvej 3 7150 Barrit,3,824762.0,28-06-2003,Alm.,5572,5,Villa,148,1931,
+Vævergade 26 7150 Barrit,26,780008.0,24-06-2003,Alm.,6000,4,Villa,130,1957,
+Randvej 11 7150 Barrit,11,1625000.0,07-05-2003,Alm.,9730,5,Villa,167,1910,
+Gramtangevej 15 7150 Barrit,15,885000.0,24-01-2003,Alm.,6413,11,Villa,138,1963,
+Fennen 18 7150 Barrit,18,755000.0,09-10-2002,Alm.,6508,4,Villa,116,1977,
+Overmarksvej 4 7150 Barrit,4,675000.0,04-10-2002,Fam.,0,5,Villa,141,1924,
+Kirkebro 6 7150 Barrit,6,650000.0,12-09-2002,Alm.,4333,5,Villa,150,1952,
+Barrit Langgade 68 7150 Barrit,68,501000.0,10-09-2002,Auktion,4682,4,Villa,107,1964,
+Kirkebro 8 7150 Barrit,8,925000.0,17-06-2002,Alm.,6902,5,Villa,134,1926,
+Midterfolden 14 7150 Barrit,14,236341.0,15-04-2002,Alm.,1641,6,Villa,144,2002,
+Midterfolden 15 7150 Barrit,15,970000.0,06-04-2002,Alm.,6423,4,Villa,151,1980,
+Dynnesvej 13 7150 Barrit,13,755000.0,02-04-2002,Alm.,6508,4,Villa,116,1979,
+Barrit Langgade 154 7150 Barrit,154,970000.0,27-03-2002,Alm.,5105,5,Villa,190,1979,
+Gramtangevej 3 7150 Barrit,3,1492500.0,15-03-2002,Alm.,9156,6,Villa,163,1912,
+Høkervej 14 7150 Barrit,14,760000.0,27-02-2002,Alm.,6333,4,Villa,120,1963,
+Bagervænget 18 7150 Barrit,18,970000.0,21-01-2002,Alm.,5574,4,Villa,174,1965,
+Randvej 16B 7150 Barrit,0,664590.0,17-01-2002,Alm.,4615,4,Villa,144,2005,
+Barrit Langgade 181 7150 Barrit,181,638000.0,03-01-2002,Alm.,4253,6,Villa,150,1870,
+Staksrodevej 6 7150 Barrit,6,1110000.0,28-12-2001,Alm.,5186,5,Villa,214,2014,
+Lhombrevej 1 7150 Barrit,1,9200000.0,19-12-2001,Alm.,31724,8,Stuehus,290,1922,
+Mikkelbro 4 7150 Barrit,4,297012.0,22-11-2001,Andet,2475,3,Villa,120,1977,
+Barrit Langgade 46 7150 Barrit,46,490000.0,20-09-2001,Alm.,6901,4,Villa,71,1949,
+Vangevej 8 7150 Barrit,8,835000.0,13-09-2001,Alm.,0,6,Villa,158,1970,
+Barrit Langgade 100 7150 Barrit,100,915000.0,12-09-2001,Alm.,6310,4,Villa,145,1937,
+Surmosevej 15 7150 Barrit,15,900000.0,22-08-2001,Alm.,0,4,Villa,166,1850,
+Barrit Langgade 192 7150 Barrit,192,720000.0,10-08-2001,Alm.,0,5,Villa,174,1820,
+Ørnsvigvej 10 7150 Barrit,10,169260.0,01-08-2001,Alm.,2015,3,Villa,84,1928,
+Dynnesvej 29 7150 Barrit,29,880000.0,18-06-2001,Alm.,4916,5,Villa,179,1978,
+Blæsbjergvej 10 7150 Barrit,10,1116394.0,21-05-2001,Alm.,6002,6,Villa,186,1931,
+Vandmøllevej 1 7150 Barrit,1,290000.0,07-05-2001,Alm.,3118,3,Villa,93,1930,
+Barrit Stationsvej 5 7150 Barrit,5,870000.0,16-03-2001,Alm.,4887,5,Villa,178,1937,
+Barrit Langgade 21 7150 Barrit,21,595000.0,02-03-2001,Auktion,0,3,Villa,182,1942,
+Staksrodevej 21 7150 Barrit,21,225000.0,18-01-2001,Alm.,0,6,Villa,135,1921,
+Randvej 5 7150 Barrit,5,2650000.0,08-12-2000,Fam.,13184,7,Stuehus,201,1983,
+Randvej 13 7150 Barrit,13,270000.0,20-10-2000,Fam.,3913,4,Villa,69,1890,
+Staksrodevej 31 7150 Barrit,31,340000.0,17-08-2000,Alm.,4358,4,Villa,78,1830,
+Kirkebro 20 7150 Barrit,20,992061.0,15-08-2000,Alm.,6049,5,Villa,164,1827,
+Bagervænget 20 7150 Barrit,20,1214826.0,31-07-2000,Alm.,5703,9,Villa,213,1968,
+Bagervænget 8 7150 Barrit,8,645000.0,11-07-2000,Alm.,5119,4,Villa,126,1966,
+Blæsbjergvej 8 7150 Barrit,8,565000.0,30-06-2000,Alm.,3951,5,Villa,143,1920,
+Smedskærlund 18 7150 Barrit,18,320145.0,18-05-2000,Fam.,2645,3,Villa,121,1877,
+Barrit Langgade 79 7150 Barrit,79,504000.0,16-05-2000,Alm.,5727,4,Villa,88,1962,
+Staksrodevej 3 7150 Barrit,3,790000.0,05-05-2000,Alm.,0,6,Villa,163,1860,
+Barrit Langgade 165 7150 Barrit,165,35000.0,03-04-2000,Alm.,246,4,Villa,142,2000,
+Barrit Langgade 30 7150 Barrit,30,715000.0,24-02-2000,Alm.,3823,9,Villa,187,1909,
+Brølbæk 3 7150 Barrit,3,710000.0,27-01-2000,Alm.,0,5,Villa,114,1931,
+Bakkesvinget 11 7150 Barrit,11,643300.0,17-01-2000,Alm.,0,5,Villa,187,1973,
+Serupsvej 11 7150 Barrit,11,1310000.0,21-12-1999,Fam.,6208,6,Stuehus,211,2007,
+Brølbæk 11 7150 Barrit,11,413500.0,04-11-1999,Alm.,4014,5,Villa,103,1957,
+Staksrodevej 16 7150 Barrit,16,1250501.0,03-09-1999,Alm.,6129,4,Villa,204,2002,
+Barrit Langgade 55 7150 Barrit,55,547000.0,15-03-1999,Alm.,3772,5,Villa,145,1900,
+Barrit Langgade 130 7150 Barrit,130,590957.0,08-02-1999,Alm.,6354,4,Rækkehus,93,1959,
+Vævergade 30 7150 Barrit,30,1149510.0,17-12-1998,Alm.,4210,6,Villa,273,1972,
+Vævergade 9 7150 Barrit,9,508000.0,30-11-1998,Alm.,3907,4,Villa,130,1965,
+Barrit Langgade 191 7150 Barrit,191,685000.0,08-11-1998,Alm.,6919,5,Villa,99,1949,
+Barrit Langgade 76 7150 Barrit,76,270000.0,06-11-1998,Alm.,3000,3,Villa,90,1949,
+Brølbæk 21 7150 Barrit,21,377000.0,22-09-1998,Alm.,0,5,Villa,149,1897,
+Brølbæk 23 7150 Barrit,23,567000.0,08-09-1998,Alm.,0,6,Villa,232,1870,
+Lykkevej 4 7150 Barrit,4,1068000.0,25-08-1998,Alm.,6433,6,Villa,166,1900,
+Vævergade 6 7150 Barrit,6,408000.0,04-06-1998,Alm.,5666,3,Villa,72,1937,
+Barrit Langgade 92 7150 Barrit,92,510000.0,03-06-1998,Alm.,6800,3,Villa,75,1954,
+Barrit Langgade 10 7150 Barrit,10,701000.0,26-05-1998,Alm.,0,4,Villa,160,1777,
+Barrit Stationsvej 2 7150 Barrit,2,1095000.0,25-05-1998,Alm.,4910,13,Villa,223,1964,
+Fennen 8 7150 Barrit,8,568878.0,30-03-1998,Alm.,5523,4,Villa,103,1977,
+Midterfolden 12 7150 Barrit,12,845000.0,16-01-1998,Alm.,0,7,Villa,216,1980,
+Barrit Langgade 114A 7150 Barrit,0,1615000.0,15-01-1998,Alm.,8367,5,Villa,193,1988,
+Gramtangevej 9 7150 Barrit,9,1390943.0,09-12-1997,Alm.,6687,6,Stuehus,208,1777,
+Brølbæk 9 7150 Barrit,9,160000.0,06-12-1997,Alm.,1523,3,Villa,105,1890,
+Barrit Langgade 136 7150 Barrit,136,553705.0,05-12-1997,Fam.,5174,4,Villa,107,1949,
+Serupsvej 4 7150 Barrit,4,402006.0,05-11-1997,Alm.,4020,3,Villa,100,1777,
+Barrit Langgade 143 7150 Barrit,143,506972.0,29-09-1997,Alm.,3621,5,Villa,140,2005,
+Barrit Langgade 19 7150 Barrit,19,1301400.0,23-09-1997,Alm.,0,7,Villa,214,1915,
+Kirkebro 1 7150 Barrit,1,1166000.0,14-08-1997,Alm.,0,7,Stuehus,217,1913,
+Barrit Langgade 82 7150 Barrit,82,541589.0,31-07-1997,Alm.,6017,5,Villa,90,1907,
+Blæsbjergvej 5 7150 Barrit,5,378226.0,28-07-1997,Alm.,2701,4,Villa,140,1892,
+Blæsbjergvej 3 7150 Barrit,3,483861.0,28-07-1997,Alm.,4398,4,Villa,110,1887,
+Surmosevej 21 7150 Barrit,21,689000.0,24-07-1997,Alm.,6321,4,Villa,109,1882,
+Kirkebro 15 7150 Barrit,15,1071000.0,02-07-1997,Fam.,7140,5,Stuehus,150,1770,
+Sigurd Stenhøj Vej 1 7150 Barrit,1,736843.0,24-06-1997,Alm.,0,8,Villa,210,1900,
+Sigurd Stenhøj Vej 3 7150 Barrit,3,515000.0,05-05-1997,Alm.,0,6,Villa,144,1954,
+Skerrildgårdvej 3 7150 Barrit,3,285000.0,07-04-1997,Alm.,0,7,Villa,198,1800,
+Barrit Langgade 26 7150 Barrit,26,325000.0,14-03-1997,Alm.,1231,9,Villa,264,1905,
+Blæsbjergvej 9 7150 Barrit,9,234000.0,28-02-1997,Alm.,0,4,Villa,151,1925,
+Barrit Langgade 127B 7150 Barrit,0,380000.0,20-01-1997,Alm.,2857,5,Villa,133,1999,
+Surmosevej 2 7150 Barrit,2,770000.0,18-12-1996,Fam.,0,8,Stuehus,256,1870,
+Barrit Langgade 127 7150 Barrit,127,200178.0,16-12-1996,Fam.,1450,6,Villa,138,1955,
+Mikkelbro 1 7150 Barrit,1,101780.0,16-12-1996,Alm.,742,5,Villa,137,1997,
+Gramtangevej 13 7150 Barrit,13,611000.0,05-12-1996,Alm.,4128,6,Villa,148,1740,
+Ørnsvigvej 4 7150 Barrit,4,635000.0,30-09-1996,Alm.,0,7,Villa,213,1877,
+Barrit Langgade 201 7150 Barrit,201,1626186.0,12-09-1996,Alm.,5019,8,Villa,324,1964,
+Barrit Langgade 120 7150 Barrit,120,272000.0,15-08-1996,Fam.,3022,3,Villa,90,1948,
+Barrit Langgade 2 7150 Barrit,2,858000.0,09-07-1996,Alm.,6128,5,Villa,140,1870,
+Staksrodevej 27 7150 Barrit,27,305000.0,03-07-1996,Alm.,0,7,Villa,218,1917,
+Rosenvoldvej 29 7150 Barrit,29,1200000.0,02-07-1996,Alm.,0,8,Stuehus,262,1900,
+Blæsbjergvej 12 7150 Barrit,12,2350000.0,18-06-1996,Alm.,11989,5,Stuehus,196,1876,
+Fennen 11 7150 Barrit,11,672563.0,12-06-1996,Alm.,4051,6,Villa,166,1978,
+Randvej 4 7150 Barrit,4,50000.0,29-05-1996,Alm.,833,3,Sommerhus,60,1777,
+Barrit Langgade 138 7150 Barrit,138,310000.0,21-05-1996,Alm.,3444,4,Villa,90,1951,
+Staksrodevej 7 7150 Barrit,7,745000.0,07-05-1996,Alm.,0,6,Villa,261,1900,
+Brølbæk 27 7150 Barrit,27,899000.0,22-04-1996,Alm.,3444,6,Villa,261,1924,
+Vævergade 4 7150 Barrit,4,230000.0,18-04-1996,Alm.,3709,3,Villa,62,1877,
+Høkervej 6 7150 Barrit,6,405000.0,17-04-1996,Alm.,2396,5,Villa,169,1927,
+Staksrodevej 39 7150 Barrit,39,620000.0,31-03-1996,Alm.,0,9,Villa,178,1902,
+Staksrodevej 15 7150 Barrit,15,523000.0,25-03-1996,Alm.,2355,6,Villa,222,1907,
+Barrit Langgade 59A 7150 Barrit,0,216876.0,12-03-1996,Fam.,1869,4,Rækkehus,116,1982,
+Dynnesvej 7 7150 Barrit,7,624853.0,25-01-1996,Alm.,2919,6,Villa,214,1979,
+Skerrildgårdvej 7 7150 Barrit,7,75000.0,12-10-1995,Alm.,365,5,Villa,205,1998,
+Smedskærlund 16 7150 Barrit,16,875000.0,05-10-1995,Alm.,5271,5,Villa,166,1877,
+Surmosevej 5 7150 Barrit,5,354000.0,31-08-1995,Alm.,0,4,Villa,91,1850,
+Lykkevej 6 7150 Barrit,6,135000.0,21-08-1995,Alm.,1038,4,Villa,130,1997,
+Barrit Langgade 35 7150 Barrit,35,450000.0,08-08-1995,Alm.,0,5,Villa,148,1946,
+Barrit Langgade 97 7150 Barrit,97,2240000.0,07-08-1995,Andet,13913,5,Villa,161,1911,
+Barrit Langgade 38 7150 Barrit,38,890000.0,28-07-1995,Alm.,5527,6,Villa,161,1931,
+Bagervænget 4 7150 Barrit,4,290000.0,15-05-1995,Alm.,3918,3,Villa,74,1965,
+Randvej 19 7150 Barrit,19,525000.0,14-05-1995,Alm.,0,9,Villa,230,1900,
+Fennen 12 7150 Barrit,12,630000.0,08-05-1995,Alm.,3579,6,Villa,176,1976,
+Smedskærlund 24 7150 Barrit,24,270000.0,24-04-1995,Alm.,3750,3,Villa,72,1900,
+Bakkesvinget 3 7150 Barrit,3,325000.0,18-04-1995,Fam.,2777,4,Villa,117,1970,
+Barrit Langgade 22 7150 Barrit,22,271564.0,25-03-1995,Fam.,2715,4,Villa,100,1961,
+Barrit Langgade 118 7150 Barrit,118,385000.0,24-11-1994,Alm.,4476,4,Villa,86,1947,
+Brølbæk 7 7150 Barrit,7,450000.0,07-11-1994,Alm.,2812,5,Villa,160,1877,
+Brølbæk 30 7150 Barrit,30,518500.0,03-11-1994,Fam.,4050,5,Stuehus,128,1890,
+Staksrodevej 17 7150 Barrit,17,607500.0,28-10-1994,Alm.,3164,5,Villa,192,1935,
+Brølbæk 18 7150 Barrit,18,237000.0,14-09-1994,Alm.,2693,3,Villa,88,1930,
+Blæsbjergvej 2 7150 Barrit,2,280000.0,28-08-1994,Alm.,2434,4,Villa,115,1923,
+Midterfolden 1 7150 Barrit,1,465000.0,05-08-1994,Alm.,0,9,Villa,199,1979,
+Serupsvej 3 7150 Barrit,3,174250.0,25-04-1994,Alm.,0,5,Villa,195,1882,
+Bagervænget 1B 7150 Barrit,0,635000.0,30-11-1993,Alm.,3848,7,Villa,165,1968,
+Staksrodevej 37 7150 Barrit,37,166645.0,19-10-1993,Andet,0,8,Villa,191,1850,
+Fennen 14 7150 Barrit,14,685763.0,01-10-1993,Alm.,3941,6,Villa,174,1976,
+Barrit Langgade 126 7150 Barrit,126,378000.0,30-09-1993,Alm.,4064,4,Rækkehus,93,1959,
+Barrit Langgade 3 7150 Barrit,3,355000.0,22-09-1993,Alm.,0,5,Villa,165,1941,
+Barrit Langgade 17 7150 Barrit,17,425000.0,18-09-1993,Alm.,3541,4,Villa,120,1971,
+Staksrodevej 12 7150 Barrit,12,389000.0,06-09-1993,Alm.,3704,4,Villa,105,1966,
+Bakkesvinget 10 7150 Barrit,10,645000.0,16-06-1993,Alm.,3706,5,Villa,174,1973,
+Barrit Langgade 102 7150 Barrit,102,855157.0,01-04-1993,Fam.,5120,6,Stuehus,167,1939,
+Barrit Langgade 48 7150 Barrit,48,225000.0,02-03-1993,Alm.,991,6,Villa,227,1950,
+Korsbækdal 2 7150 Barrit,2,575000.0,18-02-1993,Fam.,2566,6,Stuehus,224,2016,
+Bakkesvinget 15 7150 Barrit,15,529875.0,30-01-1993,Alm.,3784,4,Villa,140,1975,
+Brethvej 5 7150 Barrit,5,640000.0,24-01-1993,Fam.,3368,6,Stuehus,190,1857,
+Barrit Langgade 178 7150 Barrit,178,24386038.0,01-11-1992,Alm.,151466,6,Villa,161,1827,
+Dynnesvej 27 7150 Barrit,27,525000.0,01-07-1992,Fam.,3776,4,Villa,139,1977,
+Brølbæk 16 7150 Barrit,16,330000.0,12-04-1992,Alm.,1709,5,Villa,193,1885,
+Brølbæk 25 7150 Barrit,25,325000.0,12-03-1992,Alm.,2954,4,Villa,110,1962,
+Høkervej 3 7150 Barrit,3,285000.0,07-03-1992,Alm.,3701,3,Villa,77,1897,
+Barrit Langgade 83 7150 Barrit,83,330000.0,26-02-1992,Alm.,2500,5,Villa,132,1900,
+Randvej 9 7150 Barrit,9,740000.0,11-02-1992,Alm.,9367,3,Stuehus,79,1880,
+Barrit Langgade 16 7150 Barrit,16,353000.0,18-01-1992,Alm.,3361,4,Villa,105,1961,

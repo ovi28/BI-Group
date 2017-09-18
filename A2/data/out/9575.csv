@@ -1,0 +1,548 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Pilevej 14 9575 Terndrup,14,1425000.0,14-04-2017,Alm.,6818,6,Villa,209,1976,-10 %
+Solsortevej 2 9575 Terndrup,2,950000.0,06-04-2017,Alm.,6168,4,Villa,154,1975,
+Hedevej 31 9575 Terndrup,31,790000.0,06-04-2017,Alm.,3160,12,Villa,250,1897,-19 %
+Pilevej 34 9575 Terndrup,34,816000.0,23-03-2017,Fam.,4080,5,Villa,200,1974,
+Aavangen 5 9575 Terndrup,5,775000.0,09-03-2017,Alm.,3326,7,Villa,233,1970,-13 %
+Hadsundvej 2 9575 Terndrup,2,550000.0,07-03-2017,Alm.,2820,6,Villa,195,1927,
+Hadsundvej 16 9575 Terndrup,16,1025000.0,16-02-2017,Alm.,4575,7,Villa,224,1907,-9 %
+Skørpingvej 28 9575 Terndrup,28,525000.0,15-02-2017,Alm.,5833,4,Stuehus,90,1924,
+Hadsundvej 63 9575 Terndrup,63,1225000.0,03-02-2017,Fam.,5061,7,Stuehus,242,1906,
+Egevej 1 9575 Terndrup,1,1500000.0,12-01-2017,Alm.,9202,5,Villa,163,1971,-12 %
+Kastanievej 22 9575 Terndrup,22,800000.0,29-11-2016,Alm.,6837,4,Villa,117,1981,-11 %
+Højmarken 18 9575 Terndrup,18,1475000.0,24-11-2016,Alm.,7023,6,Villa,210,1973,-8 %
+Aavangen 7 9575 Terndrup,7,1575000.0,15-11-2016,Alm.,8798,7,Villa,179,1972,
+Solsortevej 15 9575 Terndrup,15,810000.0,06-10-2016,Alm.,6377,4,Villa,127,1977,-7 %
+Bymidten 6 9575 Terndrup,6,1182500.0,05-10-2016,Alm.,5326,7,Villa,222,1980,-9 %
+Bælumvej 12 9575 Terndrup,12,1000000.0,17-09-2016,Alm.,7246,4,Villa,138,1934,-9 %
+Rypevej 25 9575 Terndrup,25,900000.0,12-07-2016,Alm.,7627,3,Villa,118,1975,-5 %
+Solsortevej 1 9575 Terndrup,1,960000.0,21-06-2016,Alm.,8000,5,Villa,120,1976,
+Terndrup Skovbrynet 1 9575 Terndrup,1,750000.0,06-06-2016,Alm.,7500,2,Villa,100,1960,-6 %
+Trinnerupvej 2 9575 Terndrup,2,1700000.0,24-05-2016,Alm.,9392,8,Stuehus,181,1942,-3 %
+Bælumvej 9 9575 Terndrup,9,625000.0,14-05-2016,Alm.,2990,6,Villa,209,1967,-26 %
+Spurvevej 7 9575 Terndrup,7,750000.0,06-05-2016,Alm.,6696,4,Villa,112,1976,-6 %
+Kastanievej 10 9575 Terndrup,10,304000.0,19-04-2016,Auktion,2393,4,Rækkehus,127,1979,
+Ahornvej 45 9575 Terndrup,45,950000.0,18-04-2016,Alm.,5654,6,Villa,168,1976,-5 %
+Glerupvej 95 9575 Terndrup,95,1680000.0,13-04-2016,Alm.,11586,5,Stuehus,145,1930,-6 %
+Skørpingvej 38 9575 Terndrup,38,638000.0,01-04-2016,Alm.,6134,3,Villa,104,1937,
+"Hadsundvej 22B, 1 9575 Terndrup",1,600000.0,31-03-2016,Alm.,8333,2,Lejlighed,72,1937,
+Ahornvej 25 9575 Terndrup,25,960000.0,22-03-2016,Alm.,6575,5,Villa,146,1974,-8 %
+Bælumvej 25 9575 Terndrup,25,15900.0,21-03-2016,Alm.,94,6,Stuehus,169,1904,
+Kastanievej 1 9575 Terndrup,1,895000.0,28-02-2016,Fam.,5424,5,Villa,165,1983,
+Spættevej 5 9575 Terndrup,5,625000.0,10-02-2016,Alm.,6944,3,Rækkehus,90,1984,-10 %
+Skovvej 13 9575 Terndrup,13,550000.0,18-01-2016,Alm.,4583,4,Villa,120,1942,-15 %
+Bredalsvej 4 9575 Terndrup,4,1100000.0,05-01-2016,Fam.,7534,5,Villa,146,1948,
+Pilevej 58 9575 Terndrup,58,725000.0,18-12-2015,Alm.,4898,4,Villa,148,1979,-9 %
+Apotekerhaven 5 9575 Terndrup,5,300000.0,15-12-2015,Alm.,4477,3,Rækkehus,67,1984,
+Bælumvej 10A 9575 Terndrup,0,400000.0,01-12-2015,Alm.,3669,3,Lejlighed,109,1900,
+Terndrup Skovbrynet 15 9575 Terndrup,15,1175000.0,25-11-2015,Alm.,10307,5,Villa,114,1963,-6 %
+"Bælumvej 10B, ST 9575 Terndrup",0,220000.0,24-11-2015,Auktion,3013,3,Lejlighed,73,1900,
+Ådalen 47 9575 Terndrup,47,1215000.0,16-11-2015,Fam.,7319,5,Villa,166,2012,
+Hadsundvej 51 9575 Terndrup,51,420000.0,27-10-2015,Alm.,3281,4,Villa,128,1952,-23 %
+Pilevej 25 9575 Terndrup,25,750000.0,22-10-2015,Alm.,7894,4,Villa,95,1974,-6 %
+Højmarken 12 9575 Terndrup,12,1015000.0,19-10-2015,Alm.,8388,3,Villa,121,1965,
+Mølledamsvej 3 9575 Terndrup,3,950000.0,14-10-2015,Alm.,5135,5,Villa,185,1957,
+Spurvevej 10 9575 Terndrup,10,395000.0,04-10-2015,Alm.,3526,5,Villa,112,1976,0 %
+Hedevej 8 9575 Terndrup,8,600000.0,28-07-2015,Alm.,4651,4,Villa,129,1900,-7 %
+"Kastanievej 2B, 1. TV 9575 Terndrup",0,305000.0,28-05-2015,Alm.,3910,3,Lejlighed,78,1986,
+Skørpingvej 54 9575 Terndrup,54,183273.0,27-05-2015,Alm.,1593,4,Villa,115,1900,-72 %
+Skørpingvej 15 9575 Terndrup,15,312857.0,28-04-2015,Fam.,2744,3,Sommerhus,114,1877,-22 %
+Stærevej 19 9575 Terndrup,19,397117.0,23-04-2015,Alm.,2481,5,Villa,160,2016,
+Hadsundvej 47 9575 Terndrup,47,1250000.0,10-04-2015,Alm.,6443,6,Villa,194,1955,-3 %
+Elvej 5 9575 Terndrup,5,269300.0,07-04-2015,Auktion,986,8,Villa,273,1885,
+Anemonelunden 20 9575 Terndrup,20,398000.0,01-04-2015,Alm.,2163,7,Villa,184,2016,
+Hadsundvej 38 9575 Terndrup,38,495000.0,26-03-2015,Alm.,4380,4,Villa,113,1937,-6 %
+Hadsundvej 22 9575 Terndrup,22,70000.0,24-03-2015,Auktion,350,7,Villa,200,1897,
+Solsortevej 5 9575 Terndrup,5,925000.0,10-03-2015,Alm.,7644,3,Villa,121,1977,-5 %
+Hedevej 24 9575 Terndrup,24,210000.0,04-03-2015,Alm.,1500,7,Villa,140,1897,
+Elvej 3 9575 Terndrup,3,575000.0,27-02-2015,Alm.,5424,4,Villa,106,1977,-17 %
+Aalborgvej 13 9575 Terndrup,13,880000.0,08-02-2015,Alm.,6616,4,Villa,133,1985,-20 %
+Anemonelunden 30 9575 Terndrup,30,515000.0,05-02-2015,Alm.,2845,5,Villa,181,2015,
+Poppelvej 4 9575 Terndrup,4,1249000.0,27-01-2015,Alm.,9682,5,Villa,129,1978,0 %
+Østermarksvej 6 9575 Terndrup,6,550000.0,28-11-2014,Alm.,4910,5,Villa,112,1964,
+Astrupvej 2B 9575 Terndrup,0,1700000.0,21-11-2014,Alm.,10240,5,Stuehus,166,1877,
+Hadsundvej 50 9575 Terndrup,50,310000.0,08-11-2014,Alm.,3827,4,Villa,81,1952,
+Terndrup Skovbrynet 3 9575 Terndrup,3,1450000.0,31-10-2014,Alm.,8787,7,Villa,165,1962,-9 %
+Skørpingvej 17 9575 Terndrup,17,200000.0,28-09-2014,Alm.,1904,5,Villa,105,1863,-47 %
+Mølledamsvej 10A 9575 Terndrup,0,620000.0,05-09-2014,Alm.,6888,3,Rækkehus,90,1985,
+Kastanievej 12 9575 Terndrup,12,545000.0,05-09-2014,Alm.,4395,4,Rækkehus,124,1979,-16 %
+Højmarken 5 9575 Terndrup,5,895000.0,19-08-2014,Alm.,8523,4,Villa,105,1965,
+Hedevej 13 9575 Terndrup,13,587500.0,01-08-2014,Alm.,3582,6,Villa,164,1964,
+Elmelunden 11 9575 Terndrup,11,410000.0,22-07-2014,Alm.,4505,3,Villa,91,1966,-17 %
+Ådalen 43 9575 Terndrup,43,1995000.0,19-07-2014,Alm.,11335,6,Villa,176,2009,0 %
+Hedevej 5 9575 Terndrup,5,490000.0,15-07-2014,Alm.,4711,4,Villa,104,1982,-11 %
+Ahornvej 31 9575 Terndrup,31,950000.0,25-06-2014,Alm.,7851,4,Villa,121,1975,
+Industrivej 3 9575 Terndrup,3,2300000.0,25-06-2014,Alm.,19827,4,Villa,116,1910,
+Aavangen 6 9575 Terndrup,6,1600000.0,24-06-2014,Alm.,8000,7,Villa,200,1971,7 %
+Industrivej 8 9575 Terndrup,8,2040000.0,18-06-2014,Alm.,28333,3,Stuehus,72,1935,
+Pilevej 33 9575 Terndrup,33,825000.0,17-06-2014,Alm.,4252,7,Villa,194,1973,-8 %
+Aalborgvej 32 9575 Terndrup,32,914092.0,17-06-2014,Alm.,3685,5,Stuehus,248,1955,
+Bogfinkevej 4 9575 Terndrup,4,1047500.0,08-06-2014,Fam.,4988,5,Villa,210,2008,
+Solsortevej 14 9575 Terndrup,14,840000.0,19-05-2014,Alm.,7179,4,Villa,117,1976,-5 %
+Mejsevej 5 9575 Terndrup,5,900000.0,14-05-2014,Alm.,7758,4,Villa,116,1972,-10 %
+Pilevej 3 9575 Terndrup,3,600000.0,24-04-2014,Alm.,4316,5,Villa,139,1973,-14 %
+Anemonelunden 26 9575 Terndrup,26,535000.0,09-04-2014,Alm.,2488,5,Villa,215,2017,
+Elmelunden 17 9575 Terndrup,17,501500.0,27-03-2014,Alm.,5510,3,Villa,91,1967,
+Hadsundvej 5A 9575 Terndrup,0,594655.0,18-03-2014,Fam.,1429,11,Rækkehus,416,1880,
+Skovvej 15 9575 Terndrup,15,670000.0,13-03-2014,Alm.,7444,3,Villa,90,1942,-4 %
+Siem Skovvej 1 9575 Terndrup,1,238000.0,05-03-2014,Alm.,2224,5,Villa,107,1877,
+Pilevej 36 9575 Terndrup,36,499000.0,04-03-2014,Auktion,3809,5,Villa,131,1974,-33 %
+Elmelunden 4 9575 Terndrup,4,795000.0,03-03-2014,Alm.,0,6,Villa,167,1966,-6 %
+Terndrup Skovbrynet 5 9575 Terndrup,5,766144.0,23-02-2014,Alm.,4643,6,Villa,165,1962,
+Anemonelunden 28 9575 Terndrup,28,545000.0,20-02-2014,Alm.,2511,5,Villa,217,2016,
+Mølledamsvej 6 9575 Terndrup,6,1100000.0,06-02-2014,Alm.,5288,7,Villa,208,1960,-8 %
+Vestermarken 3 9575 Terndrup,3,635000.0,22-01-2014,Alm.,7559,3,Villa,84,1965,-7 %
+Spurvevej 13 9575 Terndrup,13,725000.0,30-12-2013,Alm.,6473,5,Villa,112,1976,-6 %
+Hedevej 32 9575 Terndrup,32,640000.0,17-12-2013,Alm.,4539,5,Villa,141,1969,-14 %
+Ejstrupvej 31 9575 Terndrup,31,1750000.0,19-11-2013,Auktion,8139,8,Stuehus,215,1956,
+Højmarken 6 9575 Terndrup,6,329387.0,12-11-2013,Auktion,2058,5,Villa,160,1965,
+Aalborgvej 17 9575 Terndrup,17,500000.0,12-11-2013,Alm.,4237,4,Villa,118,1962,-22 %
+Rypevej 19 9575 Terndrup,19,1200000.0,09-10-2013,Alm.,6282,6,Villa,191,1973,
+Skovvej 12 9575 Terndrup,12,975000.0,12-09-2013,Alm.,8125,4,Villa,120,1877,0 %
+Hedevej 10 9575 Terndrup,10,137000.0,02-07-2013,Auktion,1902,2,Villa,72,1852,-72 %
+Dommerhaven 4 9575 Terndrup,4,360000.0,01-07-2013,Alm.,2812,3,Lejlighed,128,1979,
+Anemonelunden 1 9575 Terndrup,1,289000.0,10-06-2013,Alm.,1926,4,Villa,150,2014,
+Rypevej 10 9575 Terndrup,10,1000000.0,10-04-2013,Alm.,8064,4,Villa,124,1973,
+Hadsundvej 28 9575 Terndrup,28,800000.0,10-04-2013,Alm.,5594,3,Villa,143,1900,
+Mølledamsvej 10B 9575 Terndrup,0,350000.0,05-04-2013,Alm.,4861,3,Rækkehus,72,1979,
+Skovvej 18 9575 Terndrup,18,400000.0,20-03-2013,Alm.,4081,4,Stuehus,98,1872,
+Hedevej 29 9575 Terndrup,29,1475000.0,15-03-2013,Alm.,8779,4,Villa,168,1969,-8 %
+Hadsundvej 64 9575 Terndrup,64,2175000.0,07-03-2013,Alm.,13942,5,Stuehus,156,1890,
+Pilevej 41 9575 Terndrup,41,995000.0,04-02-2013,Alm.,6297,5,Villa,158,2014,
+Hadsundvej 14B 9575 Terndrup,0,538109.0,01-02-2013,Alm.,3363,4,Villa,160,1987,
+Enebærvej 7 9575 Terndrup,7,1050000.0,27-12-2012,Alm.,9051,4,Villa,116,1971,
+Hadsundvej 31 9575 Terndrup,31,325000.0,18-12-2012,Alm.,3316,5,Villa,98,1934,-18 %
+Astrupvej 1 9575 Terndrup,1,610372.0,30-10-2012,Fam.,2441,8,Stuehus,250,1926,
+Ahornvej 37 9575 Terndrup,37,1050000.0,01-10-2012,Alm.,6730,6,Villa,156,1974,-8 %
+Tistedvej 16 9575 Terndrup,16,535345.0,28-09-2012,Alm.,5948,4,Stuehus,90,1880,
+Ahornvej 20 9575 Terndrup,20,1250000.0,20-09-2012,Alm.,7102,6,Villa,176,1977,-7 %
+Glerupvej 105 9575 Terndrup,105,1341000.0,20-09-2012,Alm.,10902,3,Stuehus,123,1930,-21 %
+Trinnerupvej 10 9575 Terndrup,10,496425.0,13-09-2012,Auktion,5225,5,Stuehus,95,1936,
+Hybenvej 7 9575 Terndrup,7,1475000.0,22-08-2012,Alm.,7375,5,Villa,200,1973,-5 %
+Ejstrupvej 33 9575 Terndrup,33,1150000.0,21-07-2012,Alm.,6182,6,Villa,186,1942,-18 %
+Bælumvej 15 9575 Terndrup,15,750000.0,20-07-2012,Alm.,7075,3,Villa,106,1960,-3 %
+Hadsundvej 53 9575 Terndrup,53,1300000.0,19-06-2012,Alm.,7926,6,Villa,164,1970,
+Skørpingvej 52 9575 Terndrup,52,200000.0,13-06-2012,Alm.,1538,3,Villa,130,1948,-38 %
+Skalbjerghøjvej 6 9575 Terndrup,6,10693000.0,12-06-2012,Alm.,55404,10,Stuehus,193,1977,
+Hadsundvej 27 9575 Terndrup,27,765000.0,27-05-2012,Alm.,5795,3,Villa,132,1952,-23 %
+Bakkekrogen 6 9575 Terndrup,6,495000.0,21-05-2012,Alm.,5500,3,Rækkehus,90,1981,-9 %
+Anemonelunden 5 9575 Terndrup,5,365000.0,26-04-2012,Alm.,2339,5,Villa,156,2014,
+Musvitvej 5 9575 Terndrup,5,1010000.0,31-03-2012,Alm.,7214,4,Villa,140,1974,-8 %
+Terndrup Skovbrynet 7C 9575 Terndrup,0,1540000.0,18-03-2012,Alm.,6086,6,Villa,253,2011,
+Siem Byvej 3 9575 Terndrup,3,1552254.0,07-03-2012,Alm.,11671,5,Villa,133,1879,
+Spættevej 1 9575 Terndrup,1,925000.0,13-02-2012,Alm.,7644,5,Villa,121,1980,-16 %
+Pilevej 23 9575 Terndrup,23,406168.0,03-02-2012,Fam.,3531,4,Villa,115,1974,
+Pilevej 9 9575 Terndrup,9,635000.0,10-01-2012,Alm.,3670,6,Villa,173,1973,-12 %
+Bogfinkevej 13 9575 Terndrup,13,682306.0,27-12-2011,Fam.,4211,6,Villa,162,1999,
+Elvej 1A 9575 Terndrup,0,613243.0,20-12-2011,Alm.,3144,7,Villa,195,1960,-46 %
+Pilevej 17 9575 Terndrup,17,597800.0,18-10-2011,Alm.,3416,5,Villa,175,1973,
+Lyngbyskovvej 18 9575 Terndrup,18,384460.0,11-10-2011,Alm.,2135,4,Stuehus,180,1910,
+Søndermarken 9 9575 Terndrup,9,925000.0,01-09-2011,Alm.,7226,5,Villa,128,1971,-7 %
+Skørpingvej 8 9575 Terndrup,8,750000.0,01-09-2011,Alm.,5597,4,Villa,134,1950,-6 %
+Elmelunden 7 9575 Terndrup,7,1250000.0,28-07-2011,Alm.,10080,5,Villa,124,1964,-7 %
+Søndermarken 5 9575 Terndrup,5,825000.0,20-07-2011,Alm.,3966,8,Villa,208,1969,-17 %
+Mejsevej 9 9575 Terndrup,9,1200000.0,16-07-2011,Alm.,7692,6,Villa,156,1972,
+Hadsundvej 32B 9575 Terndrup,0,260000.0,15-07-2011,Alm.,2260,2,Villa,115,1961,
+Hedevej 9 9575 Terndrup,9,845000.0,24-06-2011,Alm.,6079,5,Villa,139,1944,0 %
+Hadsundvej 6D 9575 Terndrup,0,1100000.0,13-06-2011,Alm.,9166,5,Villa,120,1988,
+Bælumvej 8 9575 Terndrup,8,550000.0,13-06-2011,Alm.,7857,2,Rækkehus,70,1940,
+Hedevej 26 9575 Terndrup,26,1650000.0,06-06-2011,Alm.,10060,4,Villa,164,2005,
+Enebærvej 13 9575 Terndrup,13,1300000.0,27-05-2011,Alm.,8965,4,Villa,145,1980,
+Pilevej 54 9575 Terndrup,54,1495000.0,02-05-2011,Alm.,8952,5,Villa,167,1974,-2 %
+Hedevej 3 9575 Terndrup,3,730000.0,27-04-2011,Alm.,5983,6,Villa,122,1902,-5 %
+Siem Skovvej 8 9575 Terndrup,8,1498000.0,15-04-2011,Alm.,6064,7,Stuehus,247,1929,0 %
+Ådalen 6 9575 Terndrup,6,404869.0,01-04-2011,Alm.,3114,5,Villa,130,2012,
+Hedevej 62 9575 Terndrup,62,2000000.0,17-03-2011,Auktion,6410,7,Stuehus,312,1882,-20 %
+Kastanievej 3 9575 Terndrup,3,425000.0,07-03-2011,Alm.,4250,4,Villa,100,1990,-53 %
+Hadsundvej 23 9575 Terndrup,23,350000.0,08-01-2011,Alm.,3763,4,Villa,93,1900,
+Anemonelunden 7 9575 Terndrup,7,508000.0,09-12-2010,Alm.,3060,5,Villa,166,2011,
+Spurvevej 12 9575 Terndrup,12,645000.0,25-11-2010,Fam.,4271,5,Villa,151,1977,
+Spættevej 6 9575 Terndrup,6,850000.0,25-10-2010,Alm.,5629,5,Villa,151,1979,-5 %
+Elmelunden 6 9575 Terndrup,6,1350000.0,14-10-2010,Alm.,8181,7,Villa,165,1964,-3 %
+Kastanievej 2A 9575 Terndrup,0,630000.0,28-08-2010,Alm.,6000,3,Lejlighed,105,1986,
+Pilevej 46 9575 Terndrup,46,1335000.0,26-08-2010,Alm.,7458,7,Villa,179,1974,
+Bakkekrogen 12 9575 Terndrup,12,580000.0,23-08-2010,Alm.,6444,3,Rækkehus,90,1981,-7 %
+Lyngbyskovvej 14 9575 Terndrup,14,450000.0,14-07-2010,Alm.,0,5,Villa,206,1864,
+Mølledamsvej 7 9575 Terndrup,7,1450000.0,08-07-2010,Alm.,9666,5,Stuehus,150,1890,-3 %
+Kastanievej 6 9575 Terndrup,6,675000.0,07-07-2010,Alm.,5314,5,Rækkehus,127,1980,-3 %
+Spættevej 3 9575 Terndrup,3,695000.0,23-06-2010,Alm.,7722,3,Rækkehus,90,1984,
+Rypevej 8 9575 Terndrup,8,750000.0,17-06-2010,Alm.,5244,5,Villa,143,1973,-11 %
+Aalborgvej 21 9575 Terndrup,21,546659.0,09-06-2010,Alm.,3644,6,Villa,150,1938,
+Tingvej 4 9575 Terndrup,4,1550000.0,27-05-2010,Alm.,7077,8,Villa,219,1950,-3 %
+Astrupvej 2 9575 Terndrup,2,4427500.0,20-05-2010,Fam.,18145,6,Stuehus,244,2009,
+Elmelunden 9 9575 Terndrup,9,600000.0,20-05-2010,Alm.,0,3,Villa,91,1967,-11 %
+Bælumvej 13 9575 Terndrup,13,1100000.0,06-05-2010,Alm.,6748,6,Villa,163,1950,-10 %
+Terndrup Skovbrynet 11 9575 Terndrup,11,625000.0,22-03-2010,Alm.,0,4,Villa,150,1961,-10 %
+Skørpingvej 31 9575 Terndrup,31,1070000.0,18-03-2010,Alm.,5752,7,Stuehus,186,1917,-11 %
+Bælumvej 2 9575 Terndrup,2,731000.0,08-03-2010,Alm.,2335,10,Villa,313,1907,-27 %
+Kastanievej 24 9575 Terndrup,24,100000.0,24-02-2010,Alm.,729,4,Villa,137,2011,
+Hedevej 11 9575 Terndrup,11,750000.0,12-02-2010,Alm.,5952,3,Villa,126,1962,-9 %
+Aalborgvej 26 9575 Terndrup,26,3780000.0,07-01-2010,Fam.,9593,10,Stuehus,394,1850,
+Pilevej 52 9575 Terndrup,52,725000.0,22-12-2009,Alm.,5942,4,Villa,122,1977,-9 %
+Bogfinkevej 6 9575 Terndrup,6,180000.0,15-12-2009,Alm.,762,6,Villa,236,2011,-18 %
+Søndermarken 10 9575 Terndrup,10,1600000.0,20-11-2009,Alm.,9696,7,Villa,165,1998,-14 %
+Højmarken 22 9575 Terndrup,22,1250000.0,17-11-2009,Alm.,6443,7,Villa,194,1972,-10 %
+Spurvevej 15 9575 Terndrup,15,2160000.0,05-11-2009,Alm.,14117,5,Villa,153,2004,-2 %
+Mølledamsvej 10 9575 Terndrup,10,760000.0,01-10-2009,Alm.,8444,3,Rækkehus,90,1985,-4 %
+Skovvej 10 9575 Terndrup,10,912000.0,18-08-2009,Auktion,4800,4,Villa,190,1957,-21 %
+Bælumvej 21 9575 Terndrup,21,550000.0,10-07-2009,Alm.,6707,3,Villa,82,1944,-15 %
+Siem Byvej 4 9575 Terndrup,4,650000.0,14-05-2009,Alm.,3779,6,Villa,172,1827,
+Vester Korupvej 3 9575 Terndrup,3,370000.0,30-04-2009,Auktion,3303,4,Stuehus,112,1860,
+Ådalen 49 9575 Terndrup,49,300000.0,06-04-2009,Alm.,1973,5,Villa,152,2009,
+Anemonelunden 3 9575 Terndrup,3,400000.0,01-04-2009,Alm.,2272,6,Villa,176,2009,
+Dommerhaven 2 9575 Terndrup,2,575000.0,22-02-2009,Alm.,4389,3,Lejlighed,131,1979,
+Aalborgvej 31 9575 Terndrup,31,760000.0,18-02-2009,Alm.,5066,5,Stuehus,150,1900,
+Terndrup Skovbrynet 2 9575 Terndrup,2,436667.0,16-02-2009,Alm.,4596,3,Villa,95,1962,
+Hedevej 17 9575 Terndrup,17,331500.0,10-02-2009,Fam.,2762,4,Villa,120,1966,
+Trinnerupvej 15 9575 Terndrup,15,1487500.0,06-02-2009,Fam.,14875,6,Stuehus,100,1885,
+Elmelunden 2 9575 Terndrup,2,710000.0,22-01-2009,Alm.,5966,3,Villa,119,1967,
+Engesvangvej 9 9575 Terndrup,9,765000.0,22-01-2009,Alm.,7968,4,Stuehus,96,1906,
+Terndrup Skovbrynet 6 9575 Terndrup,6,837500.0,16-01-2009,Alm.,9305,3,Villa,90,1962,-1 %
+Ådalen 41 9575 Terndrup,41,2950000.0,02-01-2009,Alm.,14182,4,Villa,208,2008,
+Spurvevej 6 9575 Terndrup,6,830000.0,18-12-2008,Alm.,7410,5,Villa,112,1976,
+Dommerhaven 6 9575 Terndrup,6,385000.0,15-12-2008,Alm.,4476,2,Lejlighed,86,1979,
+Vibevej 14 9575 Terndrup,14,1410000.0,06-12-2008,Alm.,9929,5,Villa,142,1973,-6 %
+Pilevej 56 9575 Terndrup,56,875000.0,25-11-2008,Alm.,7882,3,Villa,111,1987,
+Hadsundvej 80 9575 Terndrup,80,1284053.0,31-10-2008,Alm.,9877,5,Stuehus,130,1934,
+Bælumvej 7A 9575 Terndrup,0,750000.0,24-09-2008,Alm.,4010,8,Villa,187,1870,-16 %
+Skørpingvej 2 9575 Terndrup,2,700000.0,10-09-2008,Alm.,3888,5,Villa,180,1960,
+"Bælumvej 10B, 1 9575 Terndrup",1,315374.0,08-09-2008,Fam.,6183,2,Lejlighed,51,1900,
+Bælumvej 1B 9575 Terndrup,0,725000.0,05-09-2008,Alm.,8055,3,Rækkehus,90,1984,-9 %
+Dommerhaven 7 9575 Terndrup,7,300000.0,05-08-2008,Auktion,3488,2,Lejlighed,86,1979,
+Anemonelunden 11 9575 Terndrup,11,250000.0,14-07-2008,Alm.,954,5,Villa,262,2009,
+Anemonelunden 13 9575 Terndrup,13,300000.0,14-07-2008,Alm.,1612,4,Villa,186,2010,
+Anemonelunden 15 9575 Terndrup,15,300000.0,14-07-2008,Alm.,0,7,Villa,243,2011,
+Apotekerhaven 2 9575 Terndrup,2,405000.0,02-06-2008,Auktion,6428,3,Rækkehus,63,1984,
+Skørpingvej 16 9575 Terndrup,16,1285000.0,29-05-2008,Alm.,7558,3,Villa,170,1972,8 %
+Industrivej 4 9575 Terndrup,4,740000.0,28-05-2008,Alm.,4134,5,Villa,179,2008,
+Bredalsvej 6 9575 Terndrup,6,2350000.0,26-05-2008,Alm.,5802,11,Villa,405,1913,-6 %
+Ahornvej 23 9575 Terndrup,23,1540000.0,14-05-2008,Alm.,9506,6,Villa,162,1974,0 %
+Højmarken 14 9575 Terndrup,14,1325000.0,15-04-2008,Alm.,10037,5,Villa,132,1966,-5 %
+Hadsundvej 33 9575 Terndrup,33,425000.0,08-04-2008,Alm.,2951,4,Villa,144,1937,0 %
+Hadsundvej 14 9575 Terndrup,14,447500.0,31-03-2008,Alm.,1748,7,Villa,256,1883,
+Trinnerupvej 20 9575 Terndrup,20,1645000.0,05-03-2008,Alm.,7985,4,Stuehus,206,1942,
+Solsortevej 9 9575 Terndrup,9,1448000.0,28-02-2008,Alm.,6552,7,Villa,221,1973,0 %
+Mejsevej 1 9575 Terndrup,1,965000.0,27-02-2008,Alm.,8041,4,Villa,120,1971,-3 %
+Østermarksvej 7 9575 Terndrup,7,475000.0,31-01-2008,Alm.,5397,3,Villa,88,1962,
+Ahornvej 21 9575 Terndrup,21,1095000.0,23-01-2008,Alm.,9125,4,Villa,120,1986,0 %
+Kastanievej 13 9575 Terndrup,13,855000.0,29-12-2007,Alm.,6732,4,Rækkehus,127,1980,-2 %
+Poppelvej 9 9575 Terndrup,9,1150000.0,14-10-2007,Alm.,6764,5,Villa,170,1979,
+Anemonelunden 17 9575 Terndrup,17,300000.0,03-10-2007,Alm.,1401,7,Villa,214,2010,
+Engesvangvej 3 9575 Terndrup,3,1651000.0,24-09-2007,Alm.,5485,7,Villa,301,2015,0 %
+Pilevej 32 9575 Terndrup,32,910000.0,12-09-2007,Alm.,6148,5,Villa,148,1976,-4 %
+Kastanievej 20 9575 Terndrup,20,1495000.0,30-08-2007,Alm.,11074,4,Villa,135,2007,
+Ejstrupvej 27 9575 Terndrup,27,1000000.0,20-08-2007,Alm.,3389,7,Villa,295,1900,
+Ahornvej 10 9575 Terndrup,10,885000.0,26-07-2007,Alm.,6020,5,Villa,147,1977,
+Ejstrupvej 8 9575 Terndrup,8,2270000.0,14-07-2007,Alm.,11641,7,Stuehus,195,1910,
+Østermarksvej 3 9575 Terndrup,3,530000.0,09-07-2007,Alm.,5300,3,Villa,100,1962,
+Apotekerhaven 7 9575 Terndrup,7,500000.0,04-07-2007,Alm.,6756,3,Rækkehus,74,1984,
+Skørpingvej 30 9575 Terndrup,30,150000.0,23-05-2007,Alm.,721,5,Stuehus,208,1888,
+Trinnerupvej 3 9575 Terndrup,3,1285000.0,10-05-2007,Fam.,4589,6,Stuehus,280,1870,
+Hadsundvej 41 9575 Terndrup,41,675000.0,23-04-2007,Alm.,5192,6,Villa,130,1948,
+Enebærvej 9 9575 Terndrup,9,1300000.0,19-04-2007,Alm.,9285,4,Villa,140,1981,
+Hadsundvej 29 9575 Terndrup,29,370000.0,19-02-2007,Alm.,2312,5,Villa,160,1924,
+Terndrup Skovbrynet 9 9575 Terndrup,9,550000.0,31-01-2007,Auktion,0,2,Villa,105,1961,
+Østergårdsvej 3 9575 Terndrup,3,683000.0,30-01-2007,Alm.,9356,3,Villa,73,1924,
+Hadsundvej 5B 9575 Terndrup,0,975000.0,19-01-2007,Alm.,3155,4,Rækkehus,309,1880,
+Bælumvej 6 9575 Terndrup,6,945000.0,18-01-2007,Alm.,2787,10,Villa,339,1900,-5 %
+Hedevej 6 9575 Terndrup,6,1060000.0,08-01-2007,Alm.,0,6,Villa,155,1922,-3 %
+Bælumvej 23 9575 Terndrup,23,675000.0,07-01-2007,Alm.,5720,4,Villa,118,1946,
+Enebærvej 2 9575 Terndrup,2,680000.0,07-12-2006,Alm.,7083,3,Villa,96,1967,
+Krogsholmvej 5 9575 Terndrup,5,400000.0,02-11-2006,Alm.,3076,3,Villa,130,1927,
+Pilevej 8 9575 Terndrup,8,935000.0,29-09-2006,Alm.,5312,6,Villa,176,1974,
+Hedevej 56 9575 Terndrup,56,420000.0,26-09-2006,Alm.,1935,6,Stuehus,217,1895,
+Ahornvej 41 9575 Terndrup,41,1425000.0,25-09-2006,Alm.,9076,5,Villa,157,1974,
+Elmelunden 19 9575 Terndrup,19,867004.0,21-09-2006,Alm.,7225,6,Villa,120,1964,
+Hedevej 35 9575 Terndrup,35,1920000.0,14-09-2006,Alm.,13913,6,Stuehus,138,1900,
+Ahornvej 15 9575 Terndrup,15,1110000.0,11-09-2006,Alm.,7025,6,Villa,158,1974,
+Hadsundvej 62 9575 Terndrup,62,1950000.0,08-09-2006,Alm.,5508,6,Stuehus,354,2010,
+Hadsundvej 49 9575 Terndrup,49,450000.0,30-08-2006,Alm.,5625,3,Villa,80,1957,
+Ådalen 45 9575 Terndrup,45,301000.0,24-08-2006,Alm.,1980,4,Villa,152,2007,
+Ahornvej 43 9575 Terndrup,43,1230000.0,18-08-2006,Alm.,5347,6,Villa,230,1974,
+Ådalen 57 9575 Terndrup,57,326500.0,17-08-2006,Alm.,1764,5,Villa,185,2008,
+Ådalen 55 9575 Terndrup,55,327650.0,17-08-2006,Alm.,1771,5,Villa,185,2008,
+Skovvej 3 9575 Terndrup,3,740000.0,11-08-2006,Alm.,4228,5,Villa,175,1964,
+Vibevej 3 9575 Terndrup,3,1145000.0,27-07-2006,Alm.,6939,6,Villa,165,1970,
+Kummerhøjvej 6 9575 Terndrup,6,896000.0,20-07-2006,Alm.,5430,4,Villa,165,1917,
+Hadsundvej 70 9575 Terndrup,70,1400000.0,19-07-2006,Alm.,12068,5,Stuehus,116,1932,
+Ådalen 51 9575 Terndrup,51,327000.0,17-07-2006,Alm.,1786,6,Villa,183,2008,
+Ådalen 53 9575 Terndrup,53,325700.0,10-07-2006,Alm.,0,8,Villa,280,2008,
+Kastanievej 18 9575 Terndrup,18,725000.0,30-06-2006,Alm.,5991,4,Villa,121,1980,
+Elmelunden 10 9575 Terndrup,10,740000.0,19-06-2006,Alm.,6166,5,Villa,120,1964,
+Skørpingvej 18 9575 Terndrup,18,545000.0,13-06-2006,Alm.,0,3,Villa,116,1901,
+Birkevej 8 9575 Terndrup,8,950000.0,18-05-2006,Alm.,3893,8,Villa,244,1969,
+Hadsundvej 37 9575 Terndrup,37,1072500.0,17-05-2006,Alm.,9750,5,Villa,110,1949,
+Ådalen 10 9575 Terndrup,10,252000.0,17-05-2006,Alm.,1400,5,Villa,180,2007,
+Egevej 6 9575 Terndrup,6,995000.0,02-05-2006,Alm.,4481,7,Villa,222,1971,
+Bogfinkevej 2 9575 Terndrup,2,120000.0,30-04-2006,Alm.,621,5,Villa,193,2007,
+Pilevej 2 9575 Terndrup,2,1315000.0,28-04-2006,Alm.,4503,7,Villa,292,1979,
+Ejstrupvej 29 9575 Terndrup,29,4540000.0,24-04-2006,Alm.,22814,7,Stuehus,199,1936,
+N. Bødkersvej 2 9575 Terndrup,2,995000.0,21-04-2006,Alm.,4830,6,Villa,206,1965,
+Tvorupvej 3 9575 Terndrup,3,1400000.0,10-04-2006,Alm.,5982,6,Stuehus,234,2008,
+Hedevej 15 9575 Terndrup,15,1000000.0,03-04-2006,Alm.,0,4,Villa,125,1966,
+Skørpingvej 23 9575 Terndrup,23,475000.0,23-03-2006,Alm.,3544,6,Villa,134,1928,
+Lyngbyskovvej 6 9575 Terndrup,6,1500000.0,19-03-2006,Alm.,8333,9,Stuehus,180,1900,
+Dommerhaven 5 9575 Terndrup,5,522500.0,16-03-2006,Alm.,2721,6,Lejlighed,192,1979,
+Solsortevej 12 9575 Terndrup,12,935000.0,23-02-2006,Alm.,5993,6,Villa,156,1976,
+Højmarken 3 9575 Terndrup,3,457000.0,15-02-2006,Alm.,6528,3,Villa,70,1963,
+Egevej 8 9575 Terndrup,8,775000.0,07-02-2006,Alm.,6250,5,Villa,124,1972,
+Lyngbyskovvej 12 9575 Terndrup,12,3437500.0,02-02-2006,Fam.,10609,6,Stuehus,324,1880,
+Aalborgvej 22 9575 Terndrup,22,560860.0,30-01-2006,Alm.,2951,6,Villa,190,1947,
+Skovvej 11 9575 Terndrup,11,500000.0,25-01-2006,Alm.,5747,2,Villa,87,1954,
+Glerupvej 117 9575 Terndrup,117,3400000.0,09-01-2006,Alm.,0,7,Stuehus,238,1897,
+Siem Byvej 15 9575 Terndrup,15,390000.0,09-01-2006,Alm.,0,7,Villa,192,1906,
+Spurvevej 9 9575 Terndrup,9,695000.0,15-12-2005,Alm.,5036,5,Villa,138,1979,
+Elmelunden 13 9575 Terndrup,13,685000.0,29-11-2005,Alm.,5614,4,Villa,122,1965,
+Svalevej 11 9575 Terndrup,11,844539.0,28-11-2005,Alm.,5118,6,Villa,165,1978,
+Solsortevej 10 9575 Terndrup,10,850000.0,25-11-2005,Alm.,6159,5,Villa,138,1976,
+Apotekerhaven 1 9575 Terndrup,1,335000.0,24-11-2005,Fam.,5075,3,Rækkehus,66,1984,
+Lyngbyskovvej 1 9575 Terndrup,1,1900000.0,23-11-2005,Alm.,14285,5,Stuehus,133,1817,
+Vibevej 6 9575 Terndrup,6,955000.0,12-11-2005,Alm.,4360,6,Villa,219,1974,
+Aalborgvej 15 9575 Terndrup,15,765000.0,08-11-2005,Alm.,0,6,Villa,160,1897,
+Skørpingvej 50 9575 Terndrup,50,964400.0,26-10-2005,Alm.,0,9,Villa,196,1893,
+Mejsevej 7 9575 Terndrup,7,695000.0,25-10-2005,Alm.,6043,5,Villa,115,1972,
+Hadsundvej 19 9575 Terndrup,19,430000.0,24-10-2005,Alm.,3185,4,Villa,135,1895,
+Enebærvej 8 9575 Terndrup,8,785000.0,14-10-2005,Alm.,5064,4,Villa,155,1975,
+Bælumvej 10C 9575 Terndrup,0,425000.0,13-10-2005,Alm.,4381,3,Lejlighed,97,1900,
+Højmarken 8 9575 Terndrup,8,440000.0,30-09-2005,Alm.,5365,3,Villa,82,1965,
+Aalborgvej 5A 9575 Terndrup,0,880000.0,30-09-2005,Alm.,3548,8,Villa,248,1900,
+Vibevej 5 9575 Terndrup,5,555000.0,26-09-2005,Alm.,0,7,Villa,191,1970,
+Hedevej 58 9575 Terndrup,58,1650000.0,29-08-2005,Alm.,10312,4,Villa,160,1999,
+Ahornvej 19 9575 Terndrup,19,580000.0,26-08-2005,Alm.,0,5,Villa,156,1975,
+Østermarksvej 5 9575 Terndrup,5,525000.0,24-08-2005,Alm.,3476,6,Villa,151,1960,
+Bælumvej 1C 9575 Terndrup,0,645000.0,21-07-2005,Alm.,5917,3,Rækkehus,109,1984,
+Pilevej 12 9575 Terndrup,12,900000.0,08-07-2005,Alm.,5294,5,Villa,170,1948,
+Vibevej 10 9575 Terndrup,10,645000.0,23-06-2005,Alm.,5201,4,Villa,124,1970,
+Ejstrupvej 25 9575 Terndrup,25,1375000.0,14-05-2005,Alm.,7638,4,Villa,180,1901,
+Ahornvej 49 9575 Terndrup,49,925000.0,06-05-2005,Alm.,5891,5,Villa,157,1976,
+Enebærvej 6 9575 Terndrup,6,630000.0,26-04-2005,Alm.,4500,5,Villa,140,1969,
+Elmelunden 18 9575 Terndrup,18,485000.0,21-04-2005,Alm.,5388,4,Villa,90,1963,
+Siem Skovvej 2 9575 Terndrup,2,151272.0,19-04-2005,Alm.,607,8,Stuehus,249,1925,
+Hedevej 60 9575 Terndrup,60,396410.0,31-03-2005,Alm.,2541,5,Stuehus,156,1908,
+Bredalsvej 2 9575 Terndrup,2,400000.0,13-03-2005,Alm.,4166,3,Villa,96,1948,
+Rypevej 17 9575 Terndrup,17,730000.0,31-01-2005,Fam.,4562,5,Villa,160,1974,
+Spurvevej 17 9575 Terndrup,17,685000.0,31-01-2005,Alm.,0,5,Villa,162,1976,
+Kummerhøjvej 8 9575 Terndrup,8,3335000.0,22-12-2004,Fam.,0,6,Stuehus,272,1977,
+Aavangen 9 9575 Terndrup,9,765000.0,21-12-2004,Fam.,4841,4,Villa,158,1973,
+Skørpingvej 13 9575 Terndrup,13,435000.0,17-12-2004,Alm.,3320,4,Villa,131,1929,
+Musvitvej 6 9575 Terndrup,6,590000.0,22-11-2004,Alm.,4720,4,Villa,125,1973,
+Apotekerhaven 3 9575 Terndrup,3,375000.0,20-11-2004,Alm.,5952,3,Rækkehus,63,1984,
+Ådalen 12 9575 Terndrup,12,252100.0,10-11-2004,Alm.,0,4,Villa,143,2007,
+Glerupvej 115 9575 Terndrup,115,1322500.0,22-10-2004,Fam.,4971,5,Stuehus,266,2015,
+Solsortevej 3 9575 Terndrup,3,665000.0,29-07-2004,Alm.,5155,4,Villa,129,1976,
+Skørpingvej 34 9575 Terndrup,34,230000.0,08-07-2004,Alm.,3382,3,Villa,68,1907,
+Ahornvej 17 9575 Terndrup,17,655000.0,06-07-2004,Alm.,5413,4,Villa,121,1976,
+Hedevej 54 9575 Terndrup,54,226095.0,29-06-2004,Alm.,1916,4,Stuehus,118,1951,
+Østermarksvej 2 9575 Terndrup,2,445000.0,18-06-2004,Alm.,6544,3,Villa,68,1964,
+N. Bødkersvej 4 9575 Terndrup,4,545000.0,26-05-2004,Alm.,3892,6,Villa,140,1965,
+Hadsundvej 40 9575 Terndrup,40,448000.0,11-05-2004,Alm.,0,7,Villa,182,1940,
+Rypevej 2 9575 Terndrup,2,71500.0,28-04-2004,Alm.,464,4,Villa,154,2005,
+Kastanievej 8 9575 Terndrup,8,598000.0,23-04-2004,Alm.,4708,4,Rækkehus,127,1980,
+Rypevej 14 9575 Terndrup,14,745000.0,10-04-2004,Alm.,5866,4,Villa,127,1974,
+Flougårdsvej 8 9575 Terndrup,8,1960000.0,04-04-2004,Alm.,9800,5,Stuehus,200,1910,
+Pilevej 50 9575 Terndrup,50,945000.0,24-01-2004,Alm.,5080,6,Villa,186,1977,
+Hedevej 12 9575 Terndrup,12,300000.0,22-01-2004,Fam.,2142,5,Villa,140,1901,
+Skørpingvej 46 9575 Terndrup,46,775000.0,17-11-2003,Alm.,3836,7,Stuehus,202,1895,
+Østermarksvej 1 9575 Terndrup,1,385000.0,11-11-2003,Alm.,5661,3,Villa,68,1957,
+Elmelunden 12 9575 Terndrup,12,670000.0,29-10-2003,Alm.,5583,5,Villa,120,1966,
+Hedevej 66 9575 Terndrup,66,812000.0,24-10-2003,Alm.,0,8,Stuehus,166,1877,
+Ådalen 2 9575 Terndrup,2,260500.0,21-10-2003,Alm.,1874,4,Villa,139,2004,
+Ådalen 4 9575 Terndrup,4,300000.0,13-10-2003,Alm.,2112,5,Villa,142,2004,
+Skørpingvej 4 9575 Terndrup,4,374000.0,09-10-2003,Alm.,4155,3,Villa,90,1950,
+Hybenvej 8 9575 Terndrup,8,650000.0,18-09-2003,Alm.,4062,7,Villa,160,1959,
+Aalborgvej 37 9575 Terndrup,37,545000.0,16-09-2003,Alm.,3811,7,Villa,143,1877,
+Astrupvej 6 9575 Terndrup,6,460000.0,17-08-2003,Alm.,1877,4,Villa,245,2011,
+Vester Korupvej 5 9575 Terndrup,5,454281.0,25-07-2003,Alm.,6680,3,Villa,68,1959,
+Solsortevej 20 9575 Terndrup,20,859999.0,11-07-2003,Alm.,5548,7,Villa,155,1977,
+Egevej 9 9575 Terndrup,9,475000.0,26-06-2003,Alm.,2328,8,Villa,204,1971,
+Kastanievej 16 9575 Terndrup,16,684239.0,26-06-2003,Alm.,5387,4,Rækkehus,127,1979,
+Højmarken 16 9575 Terndrup,16,770360.0,24-05-2003,Alm.,6065,4,Villa,127,1966,
+Pilevej 7 9575 Terndrup,7,670000.0,11-04-2003,Alm.,5726,4,Villa,117,1973,
+Bælumvej 4 9575 Terndrup,4,655547.0,16-03-2003,Alm.,3121,8,Villa,210,1900,
+Kastanievej 11 9575 Terndrup,11,590000.0,04-03-2003,Alm.,0,5,Rækkehus,125,1980,
+Pilevej 49 9575 Terndrup,49,725000.0,23-12-2002,Alm.,4769,4,Villa,152,1974,
+Skovvej 6 9575 Terndrup,6,607571.0,07-12-2002,Alm.,4371,4,Villa,139,1956,
+Ahornvej 1 9575 Terndrup,1,730000.0,26-11-2002,Alm.,4010,6,Villa,182,1977,
+Ejstrupvej 37 9575 Terndrup,37,708909.0,26-11-2002,Alm.,7089,5,Stuehus,100,1877,
+Solsortevej 17 9575 Terndrup,17,763000.0,15-11-2002,Alm.,5298,6,Villa,144,1973,
+Astrupvej 3 9575 Terndrup,3,3025000.0,17-10-2002,Alm.,20166,5,Stuehus,150,1926,
+Skalbjerghøjvej 8 9575 Terndrup,8,750000.0,10-10-2002,Alm.,3605,5,Stuehus,208,1974,
+Pilevej 16 9575 Terndrup,16,375000.0,03-10-2002,Alm.,2218,7,Villa,169,1974,
+Elmelunden 1 9575 Terndrup,1,300000.0,27-09-2002,Alm.,2097,5,Villa,143,1966,
+Bogfinkevej 11 9575 Terndrup,11,65000.0,12-09-2002,Alm.,507,4,Villa,128,2004,
+Hedevej 40 9575 Terndrup,40,1606700.0,09-09-2002,Alm.,6251,5,Stuehus,257,1877,
+Hedevej 4 9575 Terndrup,4,300000.0,28-08-2002,Alm.,2586,3,Villa,116,1953,
+Astrupvej 4 9575 Terndrup,4,1150000.0,22-07-2002,Alm.,5275,7,Villa,218,1974,
+Bælumvej 16 9575 Terndrup,16,401188.0,21-06-2002,Alm.,4892,3,Villa,82,1959,
+Aavangen 1 9575 Terndrup,1,550000.0,10-06-2002,Alm.,3873,4,Villa,142,1969,
+Trinnerupvej 25 9575 Terndrup,25,700000.0,30-05-2002,Alm.,2868,11,Stuehus,244,1922,
+Terndrup Skovbrynet 7E 9575 Terndrup,0,198000.0,18-04-2002,Alm.,1523,4,Villa,130,2003,
+Pilevej 22 9575 Terndrup,22,1039761.0,23-03-2002,Alm.,5251,6,Villa,198,1974,
+Dommerhaven 8 9575 Terndrup,8,300000.0,20-03-2002,Alm.,3370,2,Lejlighed,89,1979,
+Enebærvej 12 9575 Terndrup,12,640000.0,11-03-2002,Alm.,5423,4,Villa,118,1984,
+Solsortevej 6 9575 Terndrup,6,760000.0,19-02-2002,Alm.,5352,4,Villa,142,1976,
+Hadsundvej 30 9575 Terndrup,30,580000.0,14-02-2002,Fam.,4677,5,Villa,124,1938,
+Terndrup Skovbrynet 7B 9575 Terndrup,0,335000.0,06-02-2002,Alm.,2055,4,Villa,163,2006,
+Hybenvej 6 9575 Terndrup,6,430000.0,30-01-2002,Alm.,2905,4,Villa,148,1960,
+Birkevej 10 9575 Terndrup,10,640000.0,30-01-2002,Alm.,4475,4,Villa,143,1970,
+Ejstrupvej 20 9575 Terndrup,20,1095000.0,19-01-2002,Alm.,8760,6,Stuehus,125,1924,
+Hedevej 34 9575 Terndrup,34,782000.0,13-11-2001,Fam.,7174,3,Stuehus,109,1903,
+Ahornvej 29 9575 Terndrup,29,635000.0,09-11-2001,Alm.,5247,4,Villa,121,1977,
+Bogfinkevej 9 9575 Terndrup,9,65000.0,15-10-2001,Alm.,422,4,Villa,154,2003,
+Hadsundvej 57 9575 Terndrup,57,775000.0,26-09-2001,Alm.,4754,5,Villa,163,1923,
+Hadsundvej 26 9575 Terndrup,26,649420.0,14-08-2001,Alm.,4058,5,Villa,160,1896,
+Hadsundvej 39 9575 Terndrup,39,299193.0,25-07-2001,Alm.,4904,2,Villa,61,1950,
+Ejstrupvej 12 9575 Terndrup,12,663283.0,01-06-2001,Andet,3401,6,Stuehus,195,1900,
+Hybenvej 12 9575 Terndrup,12,630000.0,30-05-2001,Alm.,2703,7,Villa,233,1968,
+Bogfinkevej 7 9575 Terndrup,7,65000.0,08-05-2001,Alm.,312,6,Villa,208,2002,
+Hedevej 46 9575 Terndrup,46,3360000.0,08-05-2001,Fam.,18876,6,Stuehus,178,1890,
+Søndermarken 12 9575 Terndrup,12,725000.0,29-04-2001,Alm.,5708,5,Villa,127,1979,
+Aalborgvej 27 9575 Terndrup,27,89375.0,29-04-2001,Alm.,323,9,Stuehus,276,1890,
+Vester Korupvej 9 9575 Terndrup,9,265000.0,26-04-2001,Alm.,4076,2,Villa,65,1937,
+Birkevej 3 9575 Terndrup,3,700000.0,25-04-2001,Alm.,5147,4,Villa,136,1971,
+Skovvej 7 9575 Terndrup,7,295000.0,09-04-2001,Alm.,3734,3,Villa,79,1957,
+Hadsundvej 45 9575 Terndrup,45,630000.0,28-02-2001,Alm.,4666,4,Villa,135,1948,
+Bælumvej 11 9575 Terndrup,11,550000.0,19-02-2001,Alm.,3216,8,Villa,171,1951,
+Solsortevej 7 9575 Terndrup,7,590000.0,22-01-2001,Alm.,4097,5,Villa,144,1976,
+Poppelvej 1 9575 Terndrup,1,362079.0,12-01-2001,Alm.,2117,5,Villa,171,1978,
+Vibevej 1 9575 Terndrup,1,670000.0,08-01-2001,Fam.,5153,4,Villa,130,1973,
+Aalborgvej 11 9575 Terndrup,11,1005000.0,14-12-2000,Alm.,3865,8,Stuehus,260,1927,
+Rypevej 3 9575 Terndrup,3,620000.0,13-12-2000,Alm.,4025,6,Villa,154,1974,
+Apotekerhaven 4 9575 Terndrup,4,400000.0,24-11-2000,Alm.,5970,3,Rækkehus,67,1984,
+Pilevej 18 9575 Terndrup,18,1025000.0,08-11-2000,Alm.,4495,6,Villa,228,1979,
+Hedevej 23 9575 Terndrup,23,439996.0,21-09-2000,Alm.,4999,4,Villa,88,1948,
+Skørpingvej 32 9575 Terndrup,32,650000.0,14-09-2000,Fam.,4779,8,Stuehus,136,1912,
+Vester Korupvej 25 9575 Terndrup,25,1250000.0,10-07-2000,Fam.,7183,4,Villa,174,1922,
+Vibevej 8 9575 Terndrup,8,615000.0,26-06-2000,Alm.,4767,5,Villa,129,1973,
+Ahornvej 22 9575 Terndrup,22,650000.0,15-06-2000,Alm.,3801,5,Villa,171,1977,
+Vibevej 2 9575 Terndrup,2,935364.0,31-05-2000,Alm.,6034,4,Villa,155,1976,
+Terndrup Skovbrynet 7A 9575 Terndrup,0,1197000.0,07-05-2000,Andet,5925,8,Villa,202,1972,
+Vibevej 12 9575 Terndrup,12,720000.0,24-03-2000,Alm.,4472,5,Villa,161,1974,
+Flougårdsvej 2 9575 Terndrup,2,2396000.0,24-03-2000,Fam.,13930,5,Stuehus,172,1913,
+Ejstrupvej 10 9575 Terndrup,10,2040000.0,24-03-2000,Alm.,5982,7,Villa,341,2010,
+Hadsundvej 75 9575 Terndrup,75,1895000.0,09-03-2000,Alm.,12225,5,Stuehus,155,1957,
+Poppelvej 14 9575 Terndrup,14,764316.0,25-02-2000,Alm.,0,6,Villa,170,1978,
+Ejstrupvej 16 9575 Terndrup,16,1850000.0,15-02-2000,Alm.,11562,6,Stuehus,160,1919,
+Trinnerupvej 22 9575 Terndrup,22,1400000.0,06-12-1999,Alm.,0,5,Stuehus,164,1932,
+Siem Byvej 11 9575 Terndrup,11,1000343.0,05-11-1999,Alm.,7409,4,Stuehus,135,1860,
+Højmarken 10 9575 Terndrup,10,1275000.0,02-11-1999,Alm.,4829,7,Villa,264,1979,
+Ejstrupvej 22 9575 Terndrup,22,860000.0,03-09-1999,Fam.,10750,1,Stuehus,80,1777,
+Hadsundvej 71 9575 Terndrup,71,524000.0,30-08-1999,Alm.,3540,4,Villa,148,1920,
+Mølledamsvej 4 9575 Terndrup,4,2162950.0,02-08-1999,Alm.,12723,12,Døgninstitution,170,1961,
+Apotekerhaven 8 9575 Terndrup,8,350000.0,20-07-1999,Alm.,5223,3,Rækkehus,67,1984,
+Vester Korupvej 7 9575 Terndrup,7,275000.0,09-07-1999,Alm.,2433,3,Villa,113,1900,
+Bælumvej 18 9575 Terndrup,18,219731.0,18-06-1999,Alm.,835,9,Villa,263,1912,
+Krogsholmvej 3 9575 Terndrup,3,199240.0,27-05-1999,Alm.,3320,2,Villa,60,1917,
+Tingvej 2 9575 Terndrup,2,350490.0,29-04-1999,Alm.,4381,3,Villa,80,1950,
+Rypevej 18 9575 Terndrup,18,745000.0,22-04-1999,Alm.,5246,5,Villa,142,1974,
+Skørpingvej 6 9575 Terndrup,6,490000.0,06-04-1999,Alm.,0,5,Villa,120,1955,
+Siem Byvej 7 9575 Terndrup,7,395000.0,31-03-1999,Alm.,2821,4,Villa,140,1936,
+Astrupvej 8 9575 Terndrup,8,340000.0,12-03-1999,Alm.,1798,4,Villa,189,2008,
+Krogsholmvej 6 9575 Terndrup,6,1495000.0,23-02-1999,Fam.,0,7,Stuehus,189,1930,
+Skørpingvej 42 9575 Terndrup,42,240000.0,19-01-1999,Alm.,4000,3,Villa,60,1907,
+Aalborgvej 34 9575 Terndrup,34,920000.0,28-12-1998,Fam.,7540,4,Stuehus,122,1877,
+Pilevej 44 9575 Terndrup,44,276000.0,05-11-1998,Fam.,2555,4,Villa,108,1974,
+Østergårdsvej 5 9575 Terndrup,5,340000.0,22-10-1998,Alm.,0,4,Villa,158,1946,
+"Kastanievej 2B, 1. TH 9575 Terndrup",0,350000.0,15-10-1998,Alm.,4487,3,Lejlighed,78,1986,
+Apotekerhaven 10 9575 Terndrup,10,429000.0,01-10-1998,Alm.,5797,3,Rækkehus,74,1984,
+Kastanievej 26 9575 Terndrup,26,525000.0,25-09-1998,Alm.,5412,3,Villa,97,1979,
+Industrivej 7 9575 Terndrup,7,800000.0,18-09-1998,Alm.,5000,4,Stuehus,160,1964,
+Bogfinkevej 1 9575 Terndrup,1,75000.0,26-08-1998,Alm.,416,6,Villa,180,1999,
+Lærkevej 1 9575 Terndrup,1,670000.0,17-08-1998,Alm.,5537,5,Villa,121,1972,
+Elmelunden 15 9575 Terndrup,15,511778.0,13-08-1998,Alm.,5276,3,Villa,97,1966,
+Hadsundvej 46 9575 Terndrup,46,669100.0,05-08-1998,Alm.,4234,5,Villa,158,1951,
+Hadsundvej 24 9575 Terndrup,24,305000.0,22-07-1998,Alm.,3244,4,Villa,94,1908,
+Rypevej 20 9575 Terndrup,20,590000.0,04-05-1998,Alm.,4573,5,Villa,129,1973,
+Pilevej 42 9575 Terndrup,42,600000.0,28-04-1998,Alm.,4411,5,Villa,136,1974,
+Pilevej 19 9575 Terndrup,19,490000.0,20-04-1998,Alm.,0,6,Villa,171,1973,
+Astrupvej 7 9575 Terndrup,7,837580.0,03-04-1998,Alm.,3807,5,Stuehus,220,1923,
+Vibevej 7 9575 Terndrup,7,523520.0,02-04-1998,Alm.,4513,4,Villa,116,1972,
+Poppelvej 2 9575 Terndrup,2,773613.0,02-04-1998,Alm.,4688,6,Villa,165,1977,
+Aalborgvej 16 9575 Terndrup,16,3060000.0,27-03-1998,Fam.,11167,7,Stuehus,274,1870,
+Hadsundvej 48 9575 Terndrup,48,465000.0,13-03-1998,Alm.,4514,4,Villa,103,1952,
+Pilevej 27 9575 Terndrup,27,583000.0,11-03-1998,Alm.,4778,5,Villa,122,1973,
+Glerupvej 93 9575 Terndrup,93,1225833.0,17-12-1997,Alm.,8282,4,Stuehus,148,1975,
+Bælumvej 14 9575 Terndrup,14,250000.0,25-11-1997,Alm.,2659,4,Villa,94,1908,
+Bakkekrogen 4 9575 Terndrup,4,415000.0,06-11-1997,Alm.,4611,3,Rækkehus,90,1981,
+Vester Korupvej 10 9575 Terndrup,10,1079000.0,25-10-1997,Alm.,4882,8,Stuehus,221,1924,
+Vester Korupvej 11 9575 Terndrup,11,1290000.0,16-09-1997,Alm.,8600,5,Stuehus,150,1904,
+Elmelunden 5 9575 Terndrup,5,349613.0,06-09-1997,Alm.,0,4,Villa,114,1968,
+Pilevej 40 9575 Terndrup,40,615000.0,18-08-1997,Alm.,4959,5,Villa,124,1974,
+Spurvevej 3 9575 Terndrup,3,581496.0,07-08-1997,Alm.,4066,6,Villa,143,1976,
+Fuglevænget 3 9575 Terndrup,3,113632.0,04-08-1997,Alm.,0,7,Stuehus,212,1951,
+Hedevej 16 9575 Terndrup,16,180537.0,01-07-1997,Alm.,1179,5,Villa,153,1943,
+Hedevej 33 9575 Terndrup,33,359160.0,01-07-1997,Alm.,2805,4,Villa,128,1900,
+Poppelvej 3 9575 Terndrup,3,810000.0,03-06-1997,Alm.,5472,5,Villa,148,1979,
+Siem Byvej 2 9575 Terndrup,2,206576.0,02-06-1997,Alm.,0,8,Villa,196,1917,
+Engesvangvej 2 9575 Terndrup,2,1744942.0,21-05-1997,Alm.,3441,12,Villa,507,1962,
+Apotekerhaven 6 9575 Terndrup,6,399233.0,09-05-1997,Alm.,5395,3,Rækkehus,74,1984,
+Pilevej 5 9575 Terndrup,5,570000.0,02-05-1997,Alm.,0,5,Villa,122,1973,
+Mølledamsvej 14 9575 Terndrup,14,444268.0,29-04-1997,Alm.,2495,8,Villa,178,1930,
+Ahornvej 3 9575 Terndrup,3,650000.0,09-02-1997,Alm.,4248,7,Villa,153,1977,
+Aavangen 4 9575 Terndrup,4,560000.0,06-01-1997,Alm.,4117,4,Villa,136,1972,
+Hybenvej 4 9575 Terndrup,4,358863.0,18-12-1996,Alm.,2392,5,Villa,150,1957,
+Lyngbyskovvej 9 9575 Terndrup,9,750000.0,18-12-1996,Alm.,3826,4,Stuehus,196,1948,
+Hedevej 64 9575 Terndrup,64,284750.0,16-12-1996,Fam.,942,7,Stuehus,302,2017,
+Krogsholmvej 1 9575 Terndrup,1,191000.0,18-11-1996,Alm.,2546,3,Villa,75,1890,
+Ahornvej 5 9575 Terndrup,5,495000.0,26-09-1996,Alm.,3613,7,Villa,137,1975,
+Aalborgvej 7 9575 Terndrup,7,200000.0,18-09-1996,Alm.,2000,3,Rækkehus,100,1899,
+Hedevej 42 9575 Terndrup,42,600000.0,29-08-1996,Alm.,3550,6,Stuehus,169,2000,
+Spurvevej 1 9575 Terndrup,1,545481.0,09-08-1996,Alm.,4261,5,Villa,128,1978,
+Hybenvej 1 9575 Terndrup,1,200000.0,15-06-1996,Alm.,1818,4,Villa,110,1958,
+Aalborgvej 29 9575 Terndrup,29,270000.0,11-06-1996,Alm.,1862,5,Villa,145,1877,
+Poppelvej 10 9575 Terndrup,10,695000.0,03-06-1996,Alm.,0,7,Villa,182,1977,
+Mølledamsvej 10E 9575 Terndrup,0,367000.0,15-03-1996,Alm.,1660,7,Villa,221,1987,
+Skovvej 8 9575 Terndrup,8,473320.0,04-03-1996,Alm.,3198,6,Villa,148,1958,
+Skørpingvej 26 9575 Terndrup,26,550000.0,07-02-1996,Alm.,3089,3,Stuehus,178,1893,
+Enebærvej 1 9575 Terndrup,1,567000.0,27-01-1996,Alm.,3150,5,Villa,180,1969,
+Birkevej 12 9575 Terndrup,12,504000.0,24-11-1995,Alm.,3937,4,Villa,128,1972,
+Siem Byvej 13 9575 Terndrup,13,210000.0,23-11-1995,Alm.,3281,4,Villa,64,1827,
+Ahornvej 18 9575 Terndrup,18,585000.0,31-10-1995,Alm.,3874,5,Villa,151,1977,
+Hedevej 18 9575 Terndrup,18,280000.0,25-09-1995,Alm.,0,5,Villa,93,1942,
+Svalevej 7 9575 Terndrup,7,565000.0,21-09-1995,Alm.,3923,5,Villa,144,1976,
+Ahornvej 6 9575 Terndrup,6,600000.0,20-09-1995,Alm.,3636,6,Villa,165,1977,
+Poppelvej 8 9575 Terndrup,8,637000.0,13-06-1995,Alm.,0,7,Villa,166,1977,
+Ejstrupvej 35 9575 Terndrup,35,637655.0,27-04-1995,Alm.,2592,11,Stuehus,246,1894,
+"Musvitvej 1A, ST 9575 Terndrup",0,1500000.0,10-04-1995,Alm.,17241,3,Lejlighed,87,1877,
+Bælumvej 19 9575 Terndrup,19,607000.0,07-03-1995,Alm.,4335,5,Villa,140,1950,
+Enebærvej 10 9575 Terndrup,10,435000.0,30-01-1995,Alm.,3750,3,Villa,116,1977,
+Lyngbyskovvej 16 9575 Terndrup,16,700000.0,09-01-1995,Fam.,5384,4,Stuehus,130,1928,
+Mejsevej 8 9575 Terndrup,8,595000.0,15-11-1994,Alm.,3966,5,Villa,150,1974,
+Aalborgvej 33 9575 Terndrup,33,475000.0,11-11-1994,Alm.,2595,9,Villa,183,1924,
+Vester Korupvej 13 9575 Terndrup,13,250000.0,07-11-1994,Fam.,1785,4,Stuehus,140,1885,
+Mølledamsvej 10D 9575 Terndrup,0,594000.0,17-10-1994,Alm.,4040,5,Villa,147,1986,
+Mølledamsvej 10C 9575 Terndrup,0,319000.0,14-09-1994,Alm.,3009,3,Rækkehus,106,1970,
+Hedevej 48 9575 Terndrup,48,603500.0,23-06-1994,Fam.,3315,6,Stuehus,182,1927,
+Birkevej 2B 9575 Terndrup,0,501825.0,26-05-1994,Alm.,3279,6,Villa,153,1971,
+Hadsundvej 12 9575 Terndrup,12,525000.0,03-05-1994,Alm.,3017,6,Villa,174,1891,
+Hadsundvej 68 9575 Terndrup,68,629400.0,21-03-1994,Alm.,0,9,Stuehus,180,1916,
+Poppelvej 15 9575 Terndrup,15,555000.0,08-03-1994,Alm.,3363,5,Villa,165,1978,
+"Musvitvej 1C, ST 9575 Terndrup",0,200000.0,28-02-1994,Alm.,2500,3,Lejlighed,80,1877,
+"Musvitvej 1B, 1 9575 Terndrup",1,150000.0,28-02-1994,Alm.,2542,2,Lejlighed,59,1877,
+"Musvitvej 1D, 1 9575 Terndrup",1,150000.0,28-02-1994,Alm.,2307,2,Lejlighed,65,1877,
+"Musvitvej 1F, 1 9575 Terndrup",1,150000.0,28-02-1994,Alm.,2272,2,Lejlighed,66,1877,
+"Musvitvej 1E, ST 9575 Terndrup",0,200000.0,28-02-1994,Alm.,2150,3,Lejlighed,93,1877,
+Pilevej 48 9575 Terndrup,48,375000.0,21-02-1994,Alm.,2929,5,Villa,128,1974,
+Trinnerupvej 16 9575 Terndrup,16,500000.0,28-01-1994,Fam.,0,4,Stuehus,123,1997,
+Hedevej 21 9575 Terndrup,21,175000.0,10-01-1994,Alm.,0,5,Villa,178,1926,
+Pilevej 21 9575 Terndrup,21,530000.0,13-12-1993,Alm.,3655,5,Villa,145,1976,
+Søndermarken 1 9575 Terndrup,1,350000.0,13-12-1993,Alm.,3125,4,Villa,112,1967,
+Hedevej 27 9575 Terndrup,27,640000.0,13-12-1993,Alm.,2746,7,Villa,233,1900,
+Hadsundvej 36 9575 Terndrup,36,340000.0,06-12-1993,Alm.,0,6,Villa,132,1936,
+Hedevej 30 9575 Terndrup,30,140000.0,02-12-1993,Alm.,756,5,Villa,185,1936,
+Egevej 11 9575 Terndrup,11,455000.0,17-11-1993,Alm.,3204,5,Villa,142,1971,
+Hedevej 37 9575 Terndrup,37,1300000.0,08-11-1993,Alm.,6310,6,Stuehus,206,1935,
+Lyngbyskovvej 2 9575 Terndrup,2,975000.0,29-10-1993,Alm.,5386,7,Villa,181,1985,
+Vibevej 4 9575 Terndrup,4,454000.0,28-09-1993,Alm.,3131,4,Villa,145,1974,
+Skørpingvej 40 9575 Terndrup,40,200000.0,16-08-1993,Alm.,0,6,Villa,160,1957,
+Lærkevej 5 9575 Terndrup,5,187000.0,01-02-1993,Alm.,1206,5,Villa,155,1973,
+Mejsevej 3 9575 Terndrup,3,450000.0,17-01-1993,Alm.,3461,4,Villa,130,1969,
+Aalborgvej 19 9575 Terndrup,19,300000.0,04-12-1992,Alm.,0,6,Villa,164,1925,
+Skørpingvej 24 9575 Terndrup,24,1105000.0,09-10-1992,Fam.,6138,8,Stuehus,180,1912,
+Siem Skovvej 5 9575 Terndrup,5,480000.0,05-10-1992,Alm.,3750,3,Stuehus,128,1920,
+Hedevej 2C 9575 Terndrup,0,140000.0,17-08-1992,Alm.,2058,2,Villa,68,1940,
+Aalborgvej 14 9575 Terndrup,14,597000.0,13-08-1992,Alm.,2332,8,Stuehus,256,1907,
+Solsortevej 19 9575 Terndrup,19,425000.0,06-07-1992,Alm.,2992,4,Villa,142,1977,
+Skørpingvej 25 9575 Terndrup,25,340000.0,06-07-1992,Alm.,0,5,Villa,247,1942,
+Hadsundvej 66 9575 Terndrup,66,1125000.0,12-05-1992,Alm.,2545,6,Stuehus,442,1973,
+Skalbjerghøjvej 10 9575 Terndrup,10,500000.0,09-01-1992,Alm.,2906,6,Stuehus,172,1941,

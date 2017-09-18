@@ -1,0 +1,590 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Omøvej 5 4243 Rude,5,1100000.0,17-05-2017,Alm.,13750,4,Sommerhus,80,1964,-4 %
+Fjordbakken 18 4243 Rude,18,1320000.0,11-05-2017,Alm.,15529,3,Sommerhus,85,2002,2 %
+Omøvej 2 4243 Rude,2,815000.0,10-04-2017,Alm.,13813,3,Sommerhus,59,1962,-7 %
+Askøvej 20 4243 Rude,20,2100000.0,10-04-2017,Alm.,20000,4,Sommerhus,105,2003,-4 %
+Kærvej 1 4243 Rude,1,820000.0,05-04-2017,Alm.,9879,3,Villa,83,1985,-6 %
+Hvirvilsvej 4 4243 Rude,4,625000.0,13-03-2017,Alm.,14880,3,Sommerhus,42,1956,-10 %
+Smålandsvej 4 4243 Rude,4,950000.0,20-02-2017,Alm.,12500,4,Sommerhus,76,1965,-13 %
+Enøvej 10 4243 Rude,10,550000.0,09-02-2017,Alm.,15714,2,Sommerhus,35,1972,0 %
+Holsteinborgvej 210 4243 Rude,210,1600000.0,30-01-2017,Alm.,9756,5,Villa,164,1800,
+Dyvekær 6 4243 Rude,6,1300000.0,10-01-2017,Alm.,7344,5,Villa,177,1973,-5 %
+Egesvinget 11 4243 Rude,11,875000.0,10-01-2017,Fam.,6944,4,Villa,126,1974,
+Gammel Strandvej 71 4243 Rude,71,1700000.0,13-12-2016,Fam.,14655,5,Sommerhus,116,1957,
+Trolhætten 4 4243 Rude,4,1932500.0,08-12-2016,Alm.,27607,3,Sommerhus,70,2002,-3 %
+Omøvej 13 4243 Rude,13,1375000.0,01-12-2016,Alm.,18092,4,Sommerhus,76,2002,-8 %
+Smålandsvej 15 4243 Rude,15,432000.0,29-11-2016,Fam.,7081,3,Sommerhus,61,1972,-49 %
+Hvirvilsvej 5B 4243 Rude,0,700000.0,25-11-2016,Alm.,10000,3,Rækkehus,70,1984,1 %
+Næstved Landevej 681 4243 Rude,681,400000.0,24-11-2016,Fam.,2173,6,Villa,184,1880,
+Fuglevænget 14 4243 Rude,14,284750.0,22-11-2016,Fam.,4995,3,Sommerhus,57,1961,
+Fuglevænget 5 4243 Rude,5,1200000.0,07-11-2016,Alm.,16901,4,Sommerhus,71,2008,-7 %
+Østengen 47 4243 Rude,47,569500.0,19-10-2016,Alm.,17257,2,Sommerhus,33,1973,
+Holsteinborgvej 220A 4243 Rude,0,780000.0,19-10-2016,Alm.,8965,4,Villa,87,1986,-2 %
+Møllebakkevej 76 4243 Rude,76,2015000.0,10-10-2016,Alm.,11448,5,Stuehus,176,1898,-10 %
+Engvej 2 4243 Rude,2,1175000.0,22-09-2016,Alm.,17279,4,Sommerhus,68,1955,0 %
+Fjordbakken 42 4243 Rude,42,825000.0,07-09-2016,Alm.,13524,4,Sommerhus,61,1983,0 %
+Niels Jensensvej 19A 4243 Rude,0,650000.0,25-08-2016,Alm.,7647,3,Rækkehus,85,2004,-6 %
+Engdraget 2 4243 Rude,2,950000.0,24-08-2016,Alm.,15833,3,Sommerhus,60,2003,-3 %
+Møllebakkevej 84 4243 Rude,84,2841550.0,23-08-2016,Alm.,17015,5,Stuehus,167,1920,
+Fjordbakken 5 4243 Rude,5,760000.0,29-07-2016,Alm.,10857,3,Sommerhus,70,1970,-4 %
+Fjordbakken 17 4243 Rude,17,400000.0,01-07-2016,Alm.,6060,2,Sommerhus,66,1969,
+Østengen 38 4243 Rude,38,164560.0,21-06-2016,Alm.,2493,3,Sommerhus,66,1970,
+Fjordbakken 21 4243 Rude,21,585000.0,20-06-2016,Alm.,6647,4,Sommerhus,88,1972,-6 %
+Olstrupvej 31 4243 Rude,31,2595000.0,30-05-2016,Alm.,8948,7,Stuehus,290,1800,0 %
+Smedevangen 6 4243 Rude,6,600000.0,24-05-2016,Alm.,4651,5,Villa,129,1963,-25 %
+Skovløbervej 15 4243 Rude,15,892596.0,24-05-2016,Alm.,10885,4,Sommerhus,82,2006,
+Askøvej 11 4243 Rude,11,300000.0,17-05-2016,Alm.,11111,1,Sommerhus,27,1962,-25 %
+Venslev Enghavevej 98 4243 Rude,98,565000.0,02-05-2016,Alm.,4484,4,Villa,126,1800,-2 %
+Fasanvej 3 4243 Rude,3,1475000.0,25-04-2016,Alm.,9966,6,Villa,148,2005,-1 %
+Aadalsvej 151 4243 Rude,151,10164500.0,30-03-2016,Fam.,47057,6,Stuehus,216,1870,
+Venslevvej 100 4243 Rude,100,10164500.0,30-03-2016,Fam.,61978,5,Stuehus,164,2001,
+Kristiansholmsvej 35 4243 Rude,35,1800000.0,22-03-2016,Alm.,13333,6,Sommerhus,135,1800,
+Vejrøvej 2 4243 Rude,2,780000.0,26-02-2016,Fam.,11641,3,Sommerhus,67,1970,
+Omøvej 23 4243 Rude,23,525000.0,15-02-2016,Alm.,5468,3,Sommerhus,96,2016,-10 %
+Møllebakkevej 182 4243 Rude,182,290000.0,05-02-2016,Alm.,3580,5,Villa,81,1960,
+Skolebakken 19 4243 Rude,19,2300000.0,27-01-2016,Alm.,11057,5,Villa,208,1975,-19 %
+Østervej 25 4243 Rude,25,2600000.0,25-01-2016,Alm.,6598,18,Villa,394,1850,-5 %
+Møllebakkevej 184 4243 Rude,184,410000.0,19-01-2016,Auktion,3037,5,Villa,135,1920,-17 %
+Tværvej 2 4243 Rude,2,215000.0,13-01-2016,Fam.,6718,3,Sommerhus,32,1950,
+Strædet 4 4243 Rude,4,297500.0,11-01-2016,Fam.,2754,3,Villa,108,1994,
+Vinkelvej 5 4243 Rude,5,1430000.0,09-01-2016,Alm.,7009,5,Villa,204,1973,-4 %
+Østengen 42 4243 Rude,42,530000.0,12-11-2015,Fam.,8153,3,Villa,65,1975,
+Gammel Strandvej 73 4243 Rude,73,977500.0,08-10-2015,Alm.,15273,3,Sommerhus,64,1942,
+Skovløbervej 12 4243 Rude,12,1385000.0,07-10-2015,Alm.,17312,4,Sommerhus,80,2005,-7 %
+Fasanvej 9 4243 Rude,9,1800000.0,02-10-2015,Alm.,9183,5,Villa,196,2008,-16 %
+Næstved Landevej 603 4243 Rude,603,759092.0,30-09-2015,Alm.,5581,3,Stuehus,136,1910,
+Gammel Strandvej 15 4243 Rude,15,1575000.0,09-09-2015,Alm.,18313,4,Sommerhus,86,1981,-7 %
+Fuglevænget 8 4243 Rude,8,710000.0,03-09-2015,Alm.,12909,3,Sommerhus,55,1958,-11 %
+Østengen 7 4243 Rude,7,750000.0,02-09-2015,Alm.,10714,4,Sommerhus,70,1970,-11 %
+Østengen 17 4243 Rude,17,350000.0,28-08-2015,Alm.,12962,2,Sommerhus,27,1972,0 %
+Fjordbakken 72 4243 Rude,72,610000.0,11-08-2015,Alm.,8714,3,Sommerhus,70,1976,0 %
+Smedevangen 1 4243 Rude,1,880000.0,15-07-2015,Fam.,6984,4,Villa,126,1970,
+Christiansholmsvej 13 4243 Rude,13,346875.0,10-07-2015,Fam.,3770,4,Sommerhus,92,2003,
+Engdraget 4 4243 Rude,4,824500.0,30-06-2015,Fam.,9587,5,Sommerhus,86,1972,
+Møllebakkevej 5 4243 Rude,5,1300000.0,18-06-2015,Alm.,3513,10,Villa,370,1900,-4 %
+Niels Jensensvej 7B 4243 Rude,0,695000.0,17-06-2015,Alm.,9928,3,Rækkehus,70,1989,0 %
+Avnøvej 25 4243 Rude,25,1995000.0,12-06-2015,Alm.,20357,3,Sommerhus,98,2006,0 %
+Fuglevænget 24 4243 Rude,24,450000.0,08-06-2015,Alm.,8035,3,Sommerhus,56,1961,-9 %
+Fuglevænget 4 4243 Rude,4,290000.0,12-05-2015,Alm.,4142,3,Sommerhus,70,2016,-21 %
+Skovløbervej 27 4243 Rude,27,1550000.0,25-04-2015,Alm.,15656,4,Sommerhus,99,2005,-3 %
+Østengen 40 4243 Rude,40,740000.0,05-04-2015,Alm.,11384,3,Sommerhus,65,1974,-3 %
+Smedevangen 7 4243 Rude,7,315000.0,24-03-2015,Alm.,2250,5,Villa,140,1967,-9 %
+Møllebakkevej 178 4243 Rude,178,450000.0,25-02-2015,Alm.,2941,4,Villa,153,1890,-9 %
+Bisserup Havnevej 21 4243 Rude,21,885000.0,17-02-2015,Alm.,7195,4,Villa,123,1944,-4 %
+Smedevangen 2 4243 Rude,2,729786.0,30-01-2015,Andet,5366,6,Villa,136,1965,
+Bøgelundevej 125 4243 Rude,125,1350000.0,23-12-2014,Alm.,9060,4,Villa,149,1943,0 %
+Næstved Landevej 582 4243 Rude,582,4290000.0,21-12-2014,Alm.,27857,5,Stuehus,154,1850,
+Holsteinborgvej 51 4243 Rude,51,325000.0,16-12-2014,Auktion,2826,3,Villa,115,1800,
+Dyvekær 29A 4243 Rude,0,765000.0,12-12-2014,Alm.,5976,5,Villa,128,1977,-4 %
+Fjordbakken 3 4243 Rude,3,725000.0,10-12-2014,Alm.,8630,3,Sommerhus,84,1967,-3 %
+Østervej 42 4243 Rude,42,725000.0,25-11-2014,Auktion,4531,5,Villa,160,1942,
+Askøvej 2 4243 Rude,2,374000.0,04-11-2014,Fam.,4675,5,Sommerhus,80,1971,
+Holsteinborgvej 220C 4243 Rude,0,425000.0,29-10-2014,Andet,0,5,Villa,124,1986,
+Fuglevænget 2 4243 Rude,2,255500.0,28-10-2014,Fam.,5322,3,Sommerhus,48,1960,
+Holsteinborgvej 220B 4243 Rude,0,780000.0,01-10-2014,Alm.,9176,3,Villa,85,1987,
+Skoleengen 10 4243 Rude,10,1636000.0,12-09-2014,Alm.,10834,5,Villa,151,2002,
+Holsteinborgvej 55 4243 Rude,55,2195000.0,11-09-2014,Alm.,11256,6,Villa,195,1805,
+Bisserup Havnevej 73 4243 Rude,73,2500000.0,01-09-2014,Alm.,17006,5,Villa,147,1830,-4 %
+Hvirvilsvej 16 4243 Rude,16,725000.0,31-07-2014,Alm.,4707,4,Villa,154,1970,-15 %
+Agersøvej 10 4243 Rude,10,250000.0,25-07-2014,Fam.,6410,3,Sommerhus,39,1966,
+Engvej 4 4243 Rude,4,750000.0,23-07-2014,Alm.,14705,4,Sommerhus,51,1977,-6 %
+Engvej 6 4243 Rude,6,475000.0,17-07-2014,Fam.,8636,4,Sommerhus,55,1952,
+Niels Jensensvej 21B 4243 Rude,0,585000.0,11-07-2014,Alm.,6157,4,Rækkehus,95,2005,-8 %
+Venslev Enghavevej 33 4243 Rude,33,1995000.0,27-06-2014,Alm.,10668,4,Stuehus,187,2012,0 %
+Christiansholmsvej 23 4243 Rude,23,1495000.0,25-06-2014,Alm.,21357,3,Sommerhus,70,2004,0 %
+Fjordbakken 56 4243 Rude,56,710000.0,24-06-2014,Alm.,10757,3,Sommerhus,66,1973,-2 %
+Fjordbakken 32 4243 Rude,32,720000.0,23-06-2014,Alm.,12000,3,Sommerhus,60,1981,-3 %
+Holsteinborgvej 59 4243 Rude,59,375000.0,13-05-2014,Alm.,2467,4,Stuehus,152,1877,
+Skafterupvej 120 4243 Rude,120,370678.0,08-05-2014,Fam.,3943,5,Villa,94,1890,
+Aadalsvej 139 4243 Rude,139,4418139.0,02-05-2014,Fam.,13636,16,Stuehus,324,1811,
+Kærvej 3 4243 Rude,3,700000.0,28-04-2014,Alm.,4430,6,Villa,158,1974,-15 %
+Strædet 7 4243 Rude,7,800000.0,08-04-2014,Alm.,5333,6,Villa,150,1974,-25 %
+"Bisserup Havnevej 67, 1 4243 Rude",1,1500000.0,03-04-2014,Alm.,12711,4,Lejlighed,118,1935,
+Østengen 46 4243 Rude,46,400000.0,18-02-2014,Alm.,10810,2,Sommerhus,37,1970,-19 %
+Gammel Strandvej 61 4243 Rude,61,935000.0,15-02-2014,Alm.,21250,2,Sommerhus,44,1938,
+Hvirvilsvej 13 4243 Rude,13,850000.0,05-02-2014,Alm.,9550,4,Villa,89,1955,-5 %
+Egesvinget 8 4243 Rude,8,995000.0,25-10-2013,Alm.,6958,6,Villa,143,1976,0 %
+Niels Jensensvej 11 4243 Rude,11,1302000.0,22-10-2013,Auktion,5685,5,Villa,229,2007,
+Møllebakkevej 47 4243 Rude,47,220000.0,30-09-2013,Alm.,1629,5,Villa,135,1885,-56 %
+Holsteinborgvej 208 4243 Rude,208,925000.0,19-09-2013,Alm.,6468,6,Villa,143,1980,
+Møllebakkevej 33 4243 Rude,33,276666.0,17-09-2013,Alm.,3373,4,Villa,82,1962,
+Næstved Landevej 619 4243 Rude,619,2150000.0,16-09-2013,Alm.,10436,5,Villa,206,1927,-17 %
+Gammel Strandvej 89 4243 Rude,89,2100000.0,12-09-2013,Alm.,44680,2,Sommerhus,47,1951,-2 %
+Hvirvilsvej 6 4243 Rude,6,1500000.0,26-08-2013,Alm.,4901,4,Villa,306,1973,
+Smålandsvej 7 4243 Rude,7,1295000.0,22-08-2013,Alm.,6744,4,Stuehus,192,1750,0 %
+Agersøvej 11 4243 Rude,11,603500.0,15-08-2013,Fam.,14719,3,Sommerhus,41,1977,
+Næstved Landevej 575 4243 Rude,575,359763.0,26-06-2013,Alm.,3362,4,Villa,107,1962,
+Møllebakkevej 80 4243 Rude,80,299000.0,18-06-2013,Auktion,2248,3,Villa,133,1890,
+Gammel Strandvej 115 4243 Rude,115,980000.0,21-05-2013,Alm.,22272,4,Sommerhus,44,1935,
+Strædet 6 4243 Rude,6,903000.0,15-05-2013,Alm.,5250,6,Villa,172,1980,
+Bisserup Havnevej 55 4243 Rude,55,350000.0,12-04-2013,Alm.,2058,4,Villa,170,1936,
+Strædet 5 4243 Rude,5,650000.0,02-04-2013,Fam.,2589,7,Villa,251,1920,
+Tværvej 4 4243 Rude,4,640000.0,22-02-2013,Alm.,10847,3,Sommerhus,59,1952,
+Skolebakken 7 4243 Rude,7,485000.0,19-02-2013,Alm.,3321,4,Villa,146,2014,
+Christiansholmsvej 11 4243 Rude,11,1250000.0,10-01-2013,Alm.,13586,4,Sommerhus,92,2003,-11 %
+Møllebakkevej 156 4243 Rude,156,625000.0,14-12-2012,Alm.,5387,3,Villa,116,1840,5 %
+Bøgelundevej 30 4243 Rude,30,1600000.0,01-10-2012,Alm.,9411,6,Stuehus,170,1900,
+Skovløbervej 35 4243 Rude,35,850000.0,25-09-2012,Fam.,5862,4,Sommerhus,145,2010,
+Fjordbakken 64 4243 Rude,64,700000.0,14-09-2012,Alm.,15555,2,Sommerhus,45,1972,
+Bisserup Byvej 13 4243 Rude,13,595000.0,21-08-2012,Alm.,4837,5,Villa,123,1926,0 %
+Fjordbakken 68 4243 Rude,68,685000.0,06-08-2012,Alm.,11048,4,Sommerhus,62,1975,-9 %
+Niels Jensensvej 19B 4243 Rude,0,700000.0,19-07-2012,Alm.,8235,3,Rækkehus,85,2004,-12 %
+Møllebakkevej 1 4243 Rude,1,840000.0,21-06-2012,Alm.,5957,4,Stuehus,141,1810,
+Gammel Strandvej 97 4243 Rude,97,2000000.0,18-06-2012,Alm.,16666,4,Sommerhus,120,1958,
+Østengen 4 4243 Rude,4,760000.0,20-04-2012,Alm.,16521,3,Sommerhus,46,1971,-10 %
+Avnøvej 32 4243 Rude,32,701250.0,02-04-2012,Fam.,6553,5,Sommerhus,107,1940,-77 %
+Bisserup Havnevej 17 4243 Rude,17,2225000.0,26-03-2012,Alm.,10446,6,Villa,213,1949,-10 %
+Christiansholmsvej 19 4243 Rude,19,1230000.0,20-03-2012,Alm.,20163,3,Sommerhus,61,2003,-5 %
+Skolebakken 9 4243 Rude,9,930000.0,16-02-2012,Alm.,0,4,Villa,163,1972,-13 %
+Hvirvilsvej 11 4243 Rude,11,543944.0,30-01-2012,Alm.,5180,5,Villa,105,1959,
+Gaunøvej 5 4243 Rude,5,500000.0,11-01-2012,Alm.,13513,2,Sommerhus,37,1962,-20 %
+Fjordbakken 44 4243 Rude,44,818500.0,12-12-2011,Alm.,13872,4,Sommerhus,59,1970,-9 %
+Bakkekammen 25 4243 Rude,25,1095000.0,07-12-2011,Alm.,6556,6,Villa,167,1893,-15 %
+Gammel Strandvej 51 4243 Rude,51,1317500.0,29-11-2011,Fam.,21598,4,Sommerhus,61,1937,
+Bisserup Byvej 24 4243 Rude,24,451300.0,08-11-2011,Fam.,3008,5,Villa,150,1850,
+Venslev Enghavevej 101 4243 Rude,101,2000000.0,04-11-2011,Alm.,7812,5,Villa,256,1997,-39 %
+Skovløbervej 3 4243 Rude,3,1070000.0,26-09-2011,Alm.,14459,3,Sommerhus,74,2005,-2 %
+Bisserup Havnevej 13 4243 Rude,13,375000.0,15-09-2011,Alm.,3205,4,Villa,117,1961,
+Enøvej 15 4243 Rude,15,305000.0,09-09-2011,Fam.,4841,3,Sommerhus,63,2011,
+Omøvej 1 4243 Rude,1,915000.0,26-07-2011,Alm.,12039,4,Sommerhus,76,1973,-8 %
+Gammel Strandvej 63 4243 Rude,63,775000.0,15-07-2011,Fam.,10763,3,Sommerhus,72,1973,
+Skovløbervej 5 4243 Rude,5,385000.0,09-07-2011,Alm.,4010,4,Sommerhus,96,2014,-14 %
+Næstved Landevej 673 4243 Rude,673,1600000.0,01-07-2011,Andet,10000,6,Villa,160,1890,
+Fjordbakken 8B 4243 Rude,0,595000.0,28-06-2011,Fam.,12659,3,Sommerhus,47,1980,
+Smålandsvej 9 4243 Rude,9,1425000.0,27-06-2011,Alm.,14393,4,Sommerhus,99,1946,-5 %
+Skovløbervej 23 4243 Rude,23,861197.0,17-05-2011,Auktion,11331,3,Sommerhus,76,2005,-32 %
+Bøgelundevej 115 4243 Rude,115,400000.0,13-05-2011,Fam.,4040,4,Stuehus,99,1930,
+Christiansholmsvej 17 4243 Rude,17,1350000.0,06-05-2011,Alm.,19565,3,Sommerhus,69,2003,0 %
+Holsteinborgvej 16 4243 Rude,16,2645000.0,04-05-2011,Alm.,11500,6,Villa,230,1917,-5 %
+Strædet 32 4243 Rude,32,1260000.0,24-03-2011,Alm.,11250,4,Villa,112,1987,-7 %
+Skovløbervej 11 4243 Rude,11,3400000.0,14-02-2011,Alm.,23611,5,Sommerhus,144,2003,-3 %
+Niels Jensensvej 3 4243 Rude,3,600000.0,07-02-2011,Alm.,5825,4,Villa,103,1988,
+Omøvej 24 4243 Rude,24,1800000.0,26-01-2011,Alm.,19354,4,Sommerhus,93,2010,-2 %
+Niels Jensensvej 5 4243 Rude,5,1270000.0,10-12-2010,Alm.,6791,6,Villa,187,1988,-9 %
+Bisserup Byvej 9 4243 Rude,9,1350000.0,12-11-2010,Alm.,14210,3,Villa,95,1800,
+Avnøvej 28 4243 Rude,28,1445000.0,10-11-2010,Fam.,19266,5,Sommerhus,75,1940,
+Askøvej 14 4243 Rude,14,1575000.0,11-10-2010,Alm.,17307,4,Sommerhus,91,2010,
+Bisserup Byvej 32 4243 Rude,32,845000.0,29-09-2010,Alm.,9388,4,Villa,90,1880,-6 %
+Venslevvej 123 4243 Rude,123,800000.0,23-09-2010,Alm.,6299,4,Villa,127,1934,-11 %
+Næstved Landevej 710 4243 Rude,710,799033.0,20-09-2010,Andet,5587,9,Stuehus,143,1930,
+Østengen 53 4243 Rude,53,700000.0,16-09-2010,Alm.,0,5,Sommerhus,99,1978,-3 %
+Gammel Strandvej 81 4243 Rude,81,1550000.0,03-09-2010,Alm.,36904,3,Sommerhus,42,1965,
+Engvej 5 4243 Rude,5,760000.0,16-08-2010,Alm.,11014,4,Sommerhus,69,1965,
+Gammel Strandvej 31 4243 Rude,31,1565000.0,14-08-2010,Alm.,19810,4,Sommerhus,79,1985,
+Ørslevvej 255 4243 Rude,255,1916570.0,22-07-2010,Alm.,15839,6,Villa,121,1800,
+Bisserup Havnevej 48 4243 Rude,48,1400000.0,20-07-2010,Alm.,12962,3,Villa,108,1880,-6 %
+Aadalsvej 125 4243 Rude,125,753500.0,08-07-2010,Alm.,3805,6,Villa,198,1914,
+Fuglevænget 25 4243 Rude,25,1450000.0,30-06-2010,Alm.,23015,3,Sommerhus,63,1966,
+Gammel Strandvej 123 4243 Rude,123,687500.0,25-05-2010,Fam.,8928,4,Sommerhus,77,2015,
+Enøvej 4 4243 Rude,4,700000.0,06-05-2010,Alm.,15909,4,Sommerhus,44,1968,-3 %
+Dyvekær 25A 4243 Rude,0,1125000.0,27-04-2010,Alm.,9375,5,Villa,120,1970,-6 %
+Lodsstien 5 4243 Rude,5,1350000.0,16-04-2010,Fam.,11344,7,Villa,119,1935,
+Møllebakkevej 51 4243 Rude,51,90000.0,23-03-2010,Auktion,1125,3,Villa,80,1880,
+Dalstrøget 12 4243 Rude,12,1170000.0,15-12-2009,Alm.,12315,4,Villa,95,1986,-12 %
+Omøvej 18 4243 Rude,18,1500000.0,10-12-2009,Alm.,17647,4,Sommerhus,85,2006,-8 %
+Møllebakkevej 55 4243 Rude,55,469759.0,11-11-2009,Alm.,3585,5,Villa,131,1895,
+Fjordbakken 22 4243 Rude,22,500000.0,04-10-2009,Alm.,11904,2,Sommerhus,42,1973,
+Bøgelundevej 40 4243 Rude,40,180000.0,20-08-2009,Alm.,1046,8,Stuehus,172,1860,
+Møllebakkevej 17 4243 Rude,17,1150000.0,29-07-2009,Alm.,9829,5,Villa,117,1905,
+Strædet 3 4243 Rude,3,1140000.0,15-07-2009,Alm.,6031,9,Villa,189,1974,
+Tværvej 8 4243 Rude,8,450000.0,11-07-2009,Fam.,12500,4,Sommerhus,36,1969,
+Smålandsvej 5 4243 Rude,5,900000.0,09-07-2009,Alm.,24324,3,Sommerhus,37,1999,-16 %
+Gammel Strandvej 85 4243 Rude,85,1550000.0,10-06-2009,Alm.,35227,3,Sommerhus,44,1990,-22 %
+Skafterupvej 110 4243 Rude,110,1025000.0,03-06-2009,Auktion,8401,5,Villa,122,1850,
+Niels Jensensvej 27A 4243 Rude,0,1100000.0,13-04-2009,Alm.,11578,4,Rækkehus,95,2008,-8 %
+Niels Jensensvej 27B 4243 Rude,0,1100000.0,13-04-2009,Alm.,11578,4,Rækkehus,95,2008,-8 %
+Gammel Strandvej 95 4243 Rude,95,895000.0,14-01-2009,Alm.,9322,4,Sommerhus,96,2010,
+Venslev Enghavevej 48 4243 Rude,48,1900000.0,23-10-2008,Alm.,26388,4,Stuehus,72,1906,
+Østervej 11 4243 Rude,11,388480.0,17-10-2008,Andet,4796,4,Villa,81,1955,
+Gammel Strandvej 105 4243 Rude,105,1800000.0,05-10-2008,Alm.,46153,3,Sommerhus,39,1937,
+Bisserup Byvej 37 4243 Rude,37,3600000.0,29-09-2008,Alm.,12080,5,Villa,298,2004,
+Smålandsvej 6 4243 Rude,6,900000.0,21-08-2008,Alm.,15000,4,Sommerhus,60,1966,-8 %
+Voldstien 10 4243 Rude,10,4800000.0,10-08-2008,Alm.,27428,5,Villa,175,2006,
+Bøgelundevej 100 4243 Rude,100,2545000.0,23-07-2008,Alm.,13831,5,Stuehus,184,1800,
+Holsteinborgvej 9 4243 Rude,9,1775000.0,14-07-2008,Alm.,13867,4,Villa,128,2008,11 %
+Strandengen 1 4243 Rude,1,1995000.0,26-06-2008,Alm.,15346,4,Villa,130,1960,5 %
+Møllebakkevej 2 4243 Rude,2,641975.0,25-06-2008,Andet,4223,6,Villa,152,1924,
+Venslev Enghavevej 51 4243 Rude,51,1550000.0,23-06-2008,Alm.,8611,7,Villa,180,1916,0 %
+Smålandsvej 13 4243 Rude,13,850000.0,11-06-2008,Alm.,21250,3,Sommerhus,40,1966,-3 %
+Nyrupvej 125 4243 Rude,125,1800000.0,27-05-2008,Alm.,15000,5,Stuehus,120,1905,
+Askøvej 6 4243 Rude,6,1125000.0,25-05-2008,Alm.,25000,3,Sommerhus,45,1985,-4 %
+Møllebakkevej 25 4243 Rude,25,998000.0,10-04-2008,Alm.,10080,3,Villa,99,1880,0 %
+Strandengen 9 4243 Rude,9,2080000.0,04-04-2008,Alm.,13866,5,Villa,150,1977,-5 %
+Strædet 17 4243 Rude,17,2415000.0,01-04-2008,Alm.,14122,5,Villa,171,2001,
+Møllebakkevej 148 4243 Rude,148,1200000.0,27-03-2008,Alm.,9022,3,Villa,133,1950,
+Gammel Strandvej 19 4243 Rude,19,2000000.0,26-03-2008,Alm.,23529,4,Sommerhus,85,2004,
+Engvej 3 4243 Rude,3,930000.0,20-03-2008,Alm.,15762,3,Sommerhus,59,1953,
+Fuglevænget 16 4243 Rude,16,650000.0,19-03-2008,Alm.,10483,3,Sommerhus,62,2015,-18 %
+Bisserup Havnevej 56 4243 Rude,56,2000000.0,07-03-2008,Fam.,28169,3,Villa,71,1959,
+Trolhætten 6 4243 Rude,6,935000.0,31-12-2007,Fam.,13750,3,Sommerhus,68,2009,
+Venslev Enghavevej 95 4243 Rude,95,1350000.0,18-12-2007,Alm.,15168,4,Stuehus,89,1906,
+Engdraget 12 4243 Rude,12,1500000.0,29-11-2007,Alm.,15957,4,Sommerhus,94,2010,
+Skoleengen 12 4243 Rude,12,1600000.0,18-11-2007,Alm.,9411,10,Villa,170,1938,
+Gammel Strandvej 103 4243 Rude,103,1785000.0,09-10-2007,Fam.,22594,4,Sommerhus,79,2008,
+Bøgelundevej 75 4243 Rude,75,1550000.0,03-10-2007,Alm.,9748,3,Villa,159,1860,-3 %
+Fjordbakken 4 4243 Rude,4,1340000.0,01-10-2007,Alm.,20615,3,Sommerhus,65,1990,-4 %
+Bakkekammen 45 4243 Rude,45,4000000.0,15-09-2007,Alm.,20942,7,Stuehus,191,1920,
+Dyvekær 21 4243 Rude,21,1075000.0,30-08-2007,Alm.,12951,3,Villa,83,1984,0 %
+Dyvekær 2 4243 Rude,2,1250000.0,23-08-2007,Alm.,10683,3,Villa,117,1965,-3 %
+Egesvinget 1 4243 Rude,1,1765000.0,13-08-2007,Alm.,10895,4,Villa,162,1975,
+Omøvej 7 4243 Rude,7,1212500.0,12-08-2007,Alm.,23317,2,Sommerhus,52,1999,-1 %
+Holsteinborgvej 216 4243 Rude,216,1500000.0,02-08-2007,Alm.,9433,7,Villa,159,1825,-6 %
+Smålandsvej 2 4243 Rude,2,1500000.0,26-07-2007,Alm.,11450,5,Sommerhus,131,2010,
+Næstved Landevej 693 4243 Rude,693,800000.0,22-07-2007,Alm.,4878,4,Villa,164,1944,
+Hvirvilsvej 12 4243 Rude,12,2150000.0,18-07-2007,Alm.,12356,3,Villa,174,1972,
+Fjordbakken 13 4243 Rude,13,1085000.0,04-07-2007,Alm.,14863,4,Sommerhus,73,1978,
+Skovløbervej 4 4243 Rude,4,1100000.0,28-06-2007,Alm.,14666,4,Sommerhus,75,2005,
+Niels Jensensvej 29B 4243 Rude,0,1295000.0,11-06-2007,Alm.,14230,4,Rækkehus,91,2006,0 %
+Avnøvej 26 4243 Rude,26,1875000.0,01-06-2007,Alm.,44642,4,Sommerhus,42,1928,-5 %
+Strandengen 11 4243 Rude,11,900000.0,28-05-2007,Fam.,6569,5,Villa,137,1981,
+Hvirvilsvej 9 4243 Rude,9,1345000.0,14-05-2007,Alm.,13865,3,Villa,97,1961,
+Strædet 31 4243 Rude,31,1495000.0,03-05-2007,Alm.,14950,4,Villa,100,1987,
+Skovvænget 1 4243 Rude,1,1450000.0,01-05-2007,Alm.,12831,4,Villa,113,1961,0 %
+Vejrøvej 5 4243 Rude,5,1035000.0,24-03-2007,Alm.,16171,3,Sommerhus,64,1970,
+Holsteinborgvej 15 4243 Rude,15,1250000.0,14-03-2007,Alm.,11467,5,Villa,109,1939,-2 %
+Fjordbakken 46 4243 Rude,46,1065000.0,05-03-2007,Alm.,13831,4,Sommerhus,77,1971,
+Fjordbakken 23 4243 Rude,23,1070000.0,03-03-2007,Alm.,19107,4,Sommerhus,56,1973,-3 %
+Venslevvej 125 4243 Rude,125,1350000.0,02-03-2007,Alm.,10384,5,Villa,130,1892,-2 %
+Østengen 35 4243 Rude,35,1250000.0,01-03-2007,Alm.,11467,4,Villa,109,1971,
+Dalstrøget 16 4243 Rude,16,1250000.0,06-02-2007,Alm.,10593,3,Villa,118,1973,
+Gammel Strandvej 99 4243 Rude,99,708940.0,10-01-2007,Alm.,12889,3,Sommerhus,55,1935,
+Kærvej 6 4243 Rude,6,1290000.0,09-01-2007,Alm.,7633,5,Villa,169,1975,
+Smedevangen 9 4243 Rude,9,1065000.0,06-01-2007,Alm.,9508,4,Villa,112,1970,
+Østengen 37 4243 Rude,37,1175000.0,27-11-2006,Alm.,15460,2,Villa,76,1976,
+Østengen 44 4243 Rude,44,845000.0,24-11-2006,Alm.,9825,5,Villa,86,1968,
+Holsteinborgvej 229 4243 Rude,229,350000.0,29-09-2006,Alm.,3153,3,Rækkehus,111,2008,
+Niels Jensensvej 25 4243 Rude,25,2000000.0,27-09-2006,Alm.,11834,5,Villa,169,2006,
+Bisserup Byvej 5 4243 Rude,5,1325000.0,12-09-2006,Alm.,10772,4,Villa,123,1926,
+Fuglevænget 26 4243 Rude,26,1200000.0,24-08-2006,Alm.,31578,2,Sommerhus,38,1965,
+Christiansholmsvej 3 4243 Rude,3,1999000.0,26-07-2006,Alm.,28557,4,Sommerhus,70,1949,
+Dyvekær 5 4243 Rude,5,380000.0,24-07-2006,Alm.,2945,4,Villa,129,2007,
+Vinkelvej 1 4243 Rude,1,840000.0,24-07-2006,Fam.,5060,4,Villa,166,1970,
+Møllebakkevej 174 4243 Rude,174,1200000.0,17-07-2006,Alm.,6451,6,Villa,186,1928,
+Østengen 43 4243 Rude,43,1125000.0,13-07-2006,Alm.,15202,3,Villa,74,1968,
+Enøvej 12 4243 Rude,12,1280000.0,30-06-2006,Alm.,18823,4,Sommerhus,68,1977,
+Dybsøvej 1 4243 Rude,1,1045000.0,18-06-2006,Alm.,17711,3,Sommerhus,59,1966,
+Vrængegårdsvej 4 4243 Rude,4,650000.0,05-06-2006,Alm.,6500,3,Villa,100,1956,
+Bøgelundevej 25 4243 Rude,25,1475000.0,17-05-2006,Alm.,18209,4,Villa,81,1936,
+Hvirvilsvej 2 4243 Rude,2,1450000.0,03-05-2006,Alm.,9731,5,Villa,149,1959,
+Fasanvej 7 4243 Rude,7,1295000.0,12-04-2006,Alm.,15235,3,Villa,85,1992,
+Engdraget 7 4243 Rude,7,1105000.0,06-04-2006,Fam.,8185,5,Sommerhus,135,1920,
+Møllebakkevej 30 4243 Rude,30,1725000.0,03-04-2006,Alm.,10648,5,Villa,162,1939,
+Olstrupvej 151 4243 Rude,151,875000.0,27-03-2006,Alm.,8027,4,Villa,109,1905,
+Skolebakken 10 4243 Rude,10,495000.0,26-03-2006,Alm.,3778,4,Villa,131,2006,
+Trolhætten 14 4243 Rude,14,550000.0,24-03-2006,Alm.,10576,3,Sommerhus,52,1960,
+Aadalsvej 138 4243 Rude,138,4208000.0,20-03-2006,Fam.,18060,7,Stuehus,233,1965,
+Fjordbakken 30 4243 Rude,30,403750.0,13-03-2006,Fam.,6618,3,Sommerhus,61,1982,
+Omøvej 15 4243 Rude,15,2345000.0,08-03-2006,Alm.,20570,5,Sommerhus,114,2006,
+Avnøvej 10 4243 Rude,10,340000.0,05-03-2006,Fam.,9714,3,Sommerhus,35,1935,
+Skovløbervej 2 4243 Rude,2,1475000.0,27-02-2006,Alm.,20774,4,Sommerhus,71,2005,
+Kærvej 2 4243 Rude,2,1195000.0,24-02-2006,Alm.,12070,4,Villa,99,1965,
+Poststien 5 4243 Rude,5,810000.0,20-02-2006,Fam.,0,3,Sommerhus,98,1959,
+Skovløbervej 25 4243 Rude,25,1525000.0,13-02-2006,Alm.,20065,3,Sommerhus,76,2005,
+Gammel Strandvej 77 4243 Rude,77,790000.0,16-01-2006,Fam.,10533,3,Sommerhus,75,1937,
+Næstved Landevej 669 4243 Rude,669,348500.0,15-01-2006,Fam.,4840,4,Villa,72,1850,
+Trolhætten 16 4243 Rude,16,1020000.0,23-12-2005,Fam.,8360,3,Sommerhus,122,1976,
+Østengen 57 4243 Rude,57,845000.0,21-12-2005,Alm.,15943,3,Sommerhus,53,1983,
+Trolhætten 8 4243 Rude,8,144500.0,18-12-2005,Fam.,5351,2,Sommerhus,27,1948,
+Smedevangen 3 4243 Rude,3,1375000.0,25-11-2005,Alm.,10110,5,Villa,136,1973,
+Omøvej 10 4243 Rude,10,865000.0,25-11-2005,Alm.,16960,4,Sommerhus,51,1962,
+Venslev Enghavevej 38 4243 Rude,38,1475000.0,17-11-2005,Alm.,10460,3,Villa,141,1900,
+Møllebakkevej 11 4243 Rude,11,800000.0,07-11-2005,Fam.,6837,4,Stuehus,117,1890,
+Vejrøvej 4 4243 Rude,4,178500.0,05-10-2005,Fam.,2550,3,Sommerhus,70,2010,
+Østengen 9 4243 Rude,9,750000.0,29-09-2005,Fam.,9146,4,Sommerhus,82,1972,
+Østengen 6 4243 Rude,6,750000.0,27-09-2005,Alm.,10273,4,Sommerhus,73,1978,
+Niels Jensensvej 29A 4243 Rude,0,900000.0,22-09-2005,Alm.,9890,4,Rækkehus,91,2006,
+Bisserup Havnevej 12 4243 Rude,12,294361.0,05-09-2005,Alm.,1479,7,Villa,199,1937,
+Bakkekammen 60 4243 Rude,60,650000.0,25-08-2005,Alm.,6500,4,Villa,100,1820,
+Omøvej 14 4243 Rude,14,2000000.0,05-08-2005,Alm.,16260,4,Sommerhus,123,2005,
+Venslevvej 130 4243 Rude,130,2495000.0,26-07-2005,Alm.,16633,6,Villa,150,1944,
+Bisserup Havnevej 45 4243 Rude,45,1500000.0,25-07-2005,Alm.,15789,3,Villa,95,1900,
+Bisserup Havnevej 58 4243 Rude,58,3795000.0,21-07-2005,Alm.,12952,7,Villa,293,1880,
+Næstved Landevej 571 4243 Rude,571,995000.0,07-07-2005,Fam.,9045,4,Villa,110,1950,
+Skolebakken 22 4243 Rude,22,475000.0,06-07-2005,Alm.,3392,4,Villa,140,2006,
+Bisserup Havnevej 42A 4243 Rude,0,4000000.0,20-06-2005,Alm.,17241,6,Villa,232,2004,
+Engvej 9 4243 Rude,9,340000.0,16-06-2005,Fam.,10625,2,Sommerhus,32,1965,
+Skovløbervej 14 4243 Rude,14,1810000.0,16-05-2005,Alm.,17745,5,Sommerhus,102,2006,
+Skovløbervej 10 4243 Rude,10,1440000.0,13-05-2005,Alm.,16363,4,Sommerhus,88,2005,
+Fjordbakken 62 4243 Rude,62,935000.0,05-05-2005,Alm.,19081,3,Sommerhus,49,1983,
+Østengen 50 4243 Rude,50,895000.0,04-05-2005,Alm.,15431,4,Sommerhus,58,1973,
+Skovløbervej 16 4243 Rude,16,1508800.0,03-05-2005,Alm.,0,6,Sommerhus,124,2005,
+Næstved Landevej 649 4243 Rude,649,540000.0,02-05-2005,Alm.,6206,4,Villa,87,1885,
+Smedevangen 11 4243 Rude,11,945000.0,23-04-2005,Alm.,7560,4,Villa,125,1975,
+Niels Jensensvej 21A 4243 Rude,0,983000.0,15-04-2005,Alm.,10347,4,Rækkehus,95,2005,
+Niels Jensensvej 9 4243 Rude,9,1495000.0,05-04-2005,Alm.,13590,3,Villa,110,2003,
+Skovløbervej 17 4243 Rude,17,1275000.0,28-03-2005,Alm.,19318,3,Sommerhus,66,2005,
+Gammel Strandvej 109 4243 Rude,109,580000.0,25-03-2005,Andet,10740,4,Sommerhus,54,1937,
+Strædet 10 4243 Rude,10,1250000.0,23-03-2005,Alm.,13157,4,Villa,95,2001,
+Næstved Landevej 757 4243 Rude,757,645000.0,25-02-2005,Alm.,6084,3,Rækkehus,106,1800,
+Omøvej 19 4243 Rude,19,1325000.0,16-02-2005,Alm.,17905,3,Sommerhus,74,2005,
+Østervej 22 4243 Rude,22,1125000.0,10-02-2005,Alm.,5625,7,Villa,200,1800,
+Gammel Strandvej 55 4243 Rude,55,160000.0,06-02-2005,Andet,3018,4,Sommerhus,53,1937,
+Bisserup Havnevej 52 4243 Rude,52,800000.0,26-01-2005,Alm.,4968,5,Villa,161,2008,
+Poststien 10 4243 Rude,10,1100000.0,25-01-2005,Alm.,7692,5,Villa,143,1980,
+Dalstrøget 6 4243 Rude,6,1050000.0,20-01-2005,Alm.,14000,3,Villa,75,1995,
+Bisserup Havnevej 83 4243 Rude,83,600000.0,03-01-2005,Fam.,4800,5,Rækkehus,125,1860,
+Gammel Strandvej 45 4243 Rude,45,366000.0,22-12-2004,Fam.,10166,3,Sommerhus,36,1937,
+Omøvej 6 4243 Rude,6,695000.0,26-11-2004,Alm.,13900,3,Sommerhus,50,1961,
+Fjordbakken 19 4243 Rude,19,725000.0,15-11-2004,Alm.,0,4,Sommerhus,104,1971,
+Enøvej 11 4243 Rude,11,629000.0,15-11-2004,Fam.,9828,3,Sommerhus,64,1986,
+Holsteinborgvej 11 4243 Rude,11,157563.0,15-11-2004,Alm.,1221,4,Villa,129,2008,
+Fuglevænget 19 4243 Rude,19,1225000.0,03-11-2004,Alm.,15705,4,Sommerhus,78,1978,
+Nyrupvej 119 4243 Rude,119,1175000.0,28-10-2004,Alm.,7121,3,Villa,165,1800,
+Gammel Strandvej 111 4243 Rude,111,1050000.0,17-10-2004,Alm.,26250,5,Sommerhus,40,1950,
+Skafterupvej 131 4243 Rude,131,1255400.0,09-10-2004,Alm.,5706,8,Stuehus,220,1870,
+Askøvej 10 4243 Rude,10,690000.0,28-09-2004,Alm.,17250,3,Sommerhus,40,1966,
+Næstved Landevej 653 4243 Rude,653,901472.0,13-09-2004,Alm.,6677,5,Villa,135,1800,
+Gammel Strandvej 17 4243 Rude,17,1040000.0,08-08-2004,Alm.,14054,4,Sommerhus,74,1971,
+Avnøvej 17 4243 Rude,17,1695000.0,24-07-2004,Alm.,19044,3,Sommerhus,89,2000,
+Skovløbervej 6 4243 Rude,6,399900.0,09-07-2004,Alm.,4544,4,Sommerhus,88,2005,
+Christiansholmsvej 15 4243 Rude,15,1456780.0,28-06-2004,Alm.,16744,4,Sommerhus,87,2003,
+Agersøvej 13 4243 Rude,13,1310000.0,14-06-2004,Alm.,15595,4,Sommerhus,84,1972,
+Christiansholmsvej 21 4243 Rude,21,1000000.0,14-06-2004,Alm.,16393,3,Sommerhus,61,2003,
+Hvirvilsvej 3 4243 Rude,3,1295000.0,03-05-2004,Alm.,7357,5,Villa,176,1980,
+Bisserup Havnevej 57 4243 Rude,57,1885000.0,12-04-2004,Alm.,10589,5,Villa,178,1999,
+Næstved Landevej 589 4243 Rude,589,1982500.0,23-02-2004,Alm.,9718,8,Stuehus,204,1912,
+Aadalsvej 155 4243 Rude,155,1275000.0,09-02-2004,Alm.,4086,7,Villa,312,1900,
+Skovløbervej 8 4243 Rude,8,340900.0,03-02-2004,Alm.,4157,4,Sommerhus,82,2004,
+Holsteinborgvej 2A 4243 Rude,0,1225000.0,19-01-2004,Alm.,0,6,Villa,285,1907,
+Gammel Strandvej 113 4243 Rude,113,357000.0,14-12-2003,Fam.,9394,3,Sommerhus,38,1951,
+Østervej 13 4243 Rude,13,1125000.0,26-11-2003,Alm.,7500,6,Villa,150,1939,
+Enøvej 6 4243 Rude,6,485000.0,13-11-2003,Alm.,13108,3,Sommerhus,37,1962,
+Næstved Landevej 663 4243 Rude,663,449858.0,03-11-2003,Alm.,6519,3,Villa,69,1880,
+Avnøvej 19 4243 Rude,19,433500.0,02-11-2003,Alm.,5222,4,Sommerhus,83,1962,
+Dyvekær 22 4243 Rude,22,765000.0,29-10-2003,Alm.,5543,5,Villa,138,1972,
+Østengen 55 4243 Rude,55,163050.0,17-10-2003,Alm.,1663,3,Villa,98,2009,
+Enøvej 2 4243 Rude,2,440000.0,01-10-2003,Alm.,8800,3,Sommerhus,50,1964,
+Enøvej 5 4243 Rude,5,485000.0,17-09-2003,Alm.,7348,4,Sommerhus,66,1960,
+Fjordbakken 26 4243 Rude,26,1150000.0,12-09-2003,Alm.,11979,4,Sommerhus,96,1974,
+Møllebakkevej 37 4243 Rude,37,850000.0,08-09-2003,Alm.,3846,8,Villa,221,1910,
+Fjordbakken 54 4243 Rude,54,640000.0,20-08-2003,Alm.,8311,3,Sommerhus,77,1978,
+Askøvej 13 4243 Rude,13,289000.0,13-08-2003,Alm.,3175,4,Sommerhus,91,2006,
+Avnøvej 36 4243 Rude,36,1425000.0,01-08-2003,Alm.,24568,3,Sommerhus,58,1961,
+Avnøvej 8 4243 Rude,8,200000.0,28-07-2003,Alm.,8000,1,Sommerhus,25,1966,
+Næstved Landevej 659 4243 Rude,659,2700000.0,23-07-2003,Alm.,15428,7,Stuehus,175,1850,
+Næstved Landevej 637 4243 Rude,637,1100000.0,11-07-2003,Alm.,7142,3,Stuehus,154,1894,
+Skoleengen 4 4243 Rude,4,375000.0,05-07-2003,Alm.,4166,2,Villa,90,2004,
+Bisserup Havnevej 85 4243 Rude,85,1700000.0,01-07-2003,Alm.,23287,2,Rækkehus,73,1860,
+Fjordbakken 6 4243 Rude,6,595000.0,16-06-2003,Alm.,9444,3,Sommerhus,63,1972,
+Niels Jensensvej 17 4243 Rude,17,107000.0,16-06-2003,Alm.,594,5,Villa,180,2004,
+Dyvekær 13 4243 Rude,13,470000.0,28-04-2003,Alm.,5402,4,Villa,87,1974,
+Gammel Strandvej 25 4243 Rude,25,385000.0,14-04-2003,Alm.,4375,5,Sommerhus,88,2010,
+Fjordbakken 70 4243 Rude,70,945000.0,14-04-2003,Alm.,13897,4,Sommerhus,68,1989,
+Fjordbakken 82 4243 Rude,82,700000.0,14-04-2003,Alm.,9859,3,Sommerhus,71,1974,
+Østengen 41 4243 Rude,41,539000.0,21-03-2003,Alm.,9135,3,Sommerhus,59,1970,
+Dyvekær 30 4243 Rude,30,1450000.0,03-03-2003,Alm.,5894,9,Villa,246,1976,
+Holsteinborgvej 207 4243 Rude,207,975000.0,25-02-2003,Alm.,8333,4,Rækkehus,117,1820,
+Fasanvej 12 4243 Rude,12,225000.0,01-02-2003,Alm.,1844,3,Villa,122,2003,
+Bøgelundevej 110 4243 Rude,110,3470000.0,17-01-2003,Alm.,16291,8,Stuehus,213,1873,
+Avnøvej 4 4243 Rude,4,442000.0,15-01-2003,Fam.,7491,3,Sommerhus,59,1946,
+Avnøvej 6 4243 Rude,6,518500.0,15-01-2003,Fam.,6822,4,Sommerhus,76,1975,
+Næstved Landevej 759 4243 Rude,759,650000.0,13-01-2003,Alm.,7558,3,Rækkehus,86,1800,
+Dyvekær 11 4243 Rude,11,550000.0,18-12-2002,Alm.,0,4,Villa,98,1964,
+Møllebakkevej 168 4243 Rude,168,577126.0,04-10-2002,Alm.,2219,5,Villa,260,1890,
+Dyvekær 20 4243 Rude,20,687210.0,02-10-2002,Alm.,11453,2,Villa,60,1965,
+Fuglevænget 3 4243 Rude,3,685000.0,02-10-2002,Alm.,13700,3,Sommerhus,50,1984,
+Fjordbakken 14 4243 Rude,14,560000.0,01-10-2002,Alm.,6292,5,Sommerhus,89,1977,
+Fuglevænget 6 4243 Rude,6,491447.0,09-08-2002,Alm.,11986,2,Sommerhus,41,1960,
+Aadalsvej 157 4243 Rude,157,495000.0,08-08-2002,Alm.,5823,4,Villa,85,1880,
+Fjordbakken 10 4243 Rude,10,575000.0,02-08-2002,Alm.,0,4,Sommerhus,73,1979,
+Vejrøvej 1 4243 Rude,1,490000.0,01-08-2002,Alm.,9607,3,Sommerhus,51,1965,
+Fjordbakken 7 4243 Rude,7,500000.0,22-07-2002,Alm.,12500,3,Sommerhus,40,1969,
+Avnøvej 27 4243 Rude,27,390000.0,15-07-2002,Alm.,4875,3,Sommerhus,80,2006,
+Niels Jensensvej 1 4243 Rude,1,850000.0,15-07-2002,Alm.,8252,3,Villa,103,1987,
+Omøvej 22 4243 Rude,22,340900.0,13-06-2002,Alm.,3918,4,Sommerhus,87,2005,
+Fasanvej 14 4243 Rude,14,250000.0,11-06-2002,Alm.,1515,4,Villa,165,2006,
+Askøvej 3 4243 Rude,3,998000.0,10-06-2002,Alm.,8180,5,Sommerhus,122,1972,
+Dyvekær 19 4243 Rude,19,220000.0,10-06-2002,Alm.,1594,5,Villa,138,2004,
+Christiansholmsvej 5 4243 Rude,5,795000.0,10-06-2002,Alm.,15000,3,Sommerhus,53,1984,
+Skovløbervej 19 4243 Rude,19,340900.0,27-05-2002,Alm.,3071,4,Sommerhus,111,2011,
+Avnøvej 23 4243 Rude,23,390900.0,04-05-2002,Alm.,3399,5,Sommerhus,115,2004,
+Omøvej 17 4243 Rude,17,299900.0,04-05-2002,Alm.,3796,4,Sommerhus,79,2003,
+Omøvej 25 4243 Rude,25,340900.0,21-04-2002,Alm.,4485,3,Sommerhus,76,2009,
+Møllebakkevej 144 4243 Rude,144,972241.0,01-04-2002,Alm.,4501,6,Villa,216,1948,
+Omøvej 21 4243 Rude,21,310900.0,29-03-2002,Alm.,4145,3,Sommerhus,75,2003,
+Holsteinborgvej 27 4243 Rude,27,300500.0,21-03-2002,Fam.,2683,6,Villa,112,1930,
+Ørslevvej 257 4243 Rude,257,459000.0,19-03-2002,Fam.,3825,5,Villa,120,1800,
+Dyvekær 17 4243 Rude,17,785000.0,08-03-2002,Alm.,7008,4,Villa,112,1975,
+Venslevvej 129 4243 Rude,129,632160.0,02-03-2002,Alm.,5139,5,Villa,123,1943,
+Nyrupvej 116 4243 Rude,116,606523.0,02-03-2002,Alm.,3887,2,Villa,156,1780,
+Fuglevænget 9 4243 Rude,9,890000.0,01-03-2002,Alm.,11866,4,Sommerhus,75,1980,
+Bisserup Byvej 31 4243 Rude,31,664929.0,18-02-2002,Alm.,0,4,Villa,140,1963,
+Holsteinborgvej 206 4243 Rude,206,300594.0,14-02-2002,Fam.,2102,5,Villa,143,1850,
+Næstved Landevej 569 4243 Rude,569,431171.0,31-12-2001,Andet,3919,4,Villa,110,1950,
+Poststien 13 4243 Rude,13,470000.0,31-12-2001,Auktion,3560,4,Villa,132,1930,
+Askøvej 8 4243 Rude,8,424717.0,26-10-2001,Alm.,8494,4,Sommerhus,50,1970,
+Enøvej 14 4243 Rude,14,210000.0,21-10-2001,Alm.,2079,4,Sommerhus,101,2004,
+Møllebakkevej 19 4243 Rude,19,920750.0,27-09-2001,Alm.,0,13,Stuehus,527,1850,
+Holsteinborgvej 232 4243 Rude,232,1153416.0,05-09-2001,Alm.,5914,6,Villa,195,1969,
+Østervej 7 4243 Rude,7,935000.0,30-08-2001,Alm.,6678,5,Villa,140,1967,
+Engdraget 10 4243 Rude,10,830000.0,30-08-2001,Alm.,9880,3,Sommerhus,84,1975,
+Askøvej 16 4243 Rude,16,250900.0,06-08-2001,Alm.,3484,3,Sommerhus,72,2002,
+Askøvej 12 4243 Rude,12,190000.0,30-07-2001,Alm.,3166,3,Sommerhus,60,2017,
+Gammel Strandvej 57 4243 Rude,57,800000.0,30-07-2001,Fam.,8421,5,Sommerhus,95,2016,
+Kærvej 10 4243 Rude,10,780000.0,30-07-2001,Fam.,6446,4,Villa,121,1974,
+Næstved Landevej 609 4243 Rude,609,1150000.0,30-06-2001,Fam.,10000,4,Stuehus,115,1939,
+Vejrøvej 8 4243 Rude,8,545000.0,25-06-2001,Alm.,7676,4,Sommerhus,71,1973,
+Venslev Enghavevej 79 4243 Rude,79,1700000.0,25-06-2001,Alm.,7053,6,Stuehus,241,1920,
+Østengen 1 4243 Rude,1,350000.0,24-06-2001,Alm.,7000,2,Sommerhus,50,1971,
+Skovløbervej 1 4243 Rude,1,320900.0,04-06-2001,Alm.,4584,3,Sommerhus,70,2002,
+Fuglevænget 22 4243 Rude,22,120000.0,30-05-2001,Alm.,2307,3,Sommerhus,52,2006,
+Skovløbervej 33 4243 Rude,33,199900.0,27-05-2001,Alm.,2530,4,Sommerhus,79,2005,
+Skovløbervej 29 4243 Rude,29,210900.0,26-05-2001,Alm.,2775,4,Sommerhus,76,2008,
+Gammel Strandvej 9 4243 Rude,9,475000.0,14-05-2001,Alm.,0,4,Sommerhus,79,1967,
+Engdraget 9 4243 Rude,9,528000.0,02-05-2001,Alm.,10560,3,Sommerhus,50,1978,
+Enøvej 16 4243 Rude,16,230900.0,15-04-2001,Alm.,3724,3,Sommerhus,62,2004,
+Skovløbervej 7 4243 Rude,7,310000.0,13-04-2001,Alm.,2952,4,Sommerhus,105,2005,
+Kærvej 4 4243 Rude,4,153300.0,03-04-2001,Alm.,1064,5,Villa,144,2002,
+Holsteinborgvej 233 4243 Rude,233,1225000.0,26-02-2001,Alm.,6094,6,Villa,201,1979,
+Avnøvej 7 4243 Rude,7,1100000.0,24-02-2001,Alm.,10476,5,Sommerhus,105,1995,
+Strandengen 5 4243 Rude,5,550000.0,18-02-2001,Alm.,11458,3,Sommerhus,48,1950,
+Enøvej 13 4243 Rude,13,199900.0,17-01-2001,Alm.,2082,5,Sommerhus,96,2002,
+Bisserup Byvej 6 4243 Rude,6,523256.0,15-01-2001,Alm.,4756,3,Villa,110,1800,
+Smålandsvej 17 4243 Rude,17,440000.0,02-01-2001,Alm.,7333,3,Sommerhus,60,1976,
+Egesvinget 7 4243 Rude,7,880000.0,20-11-2000,Alm.,5751,5,Villa,153,1969,
+Omøvej 11 4243 Rude,11,170000.0,03-11-2000,Alm.,2179,3,Sommerhus,78,2005,
+Holsteinborgvej 43 4243 Rude,43,828084.0,15-10-2000,Alm.,6044,5,Villa,137,1948,
+Vejrøvej 3 4243 Rude,3,270000.0,09-10-2000,Alm.,7297,3,Sommerhus,37,1972,
+Egesvinget 2 4243 Rude,2,940000.0,28-09-2000,Alm.,5628,5,Villa,167,1969,
+Fjordbakken 50 4243 Rude,50,532008.0,18-09-2000,Alm.,8580,3,Sommerhus,62,1978,
+Lodsstien 4 4243 Rude,4,300000.0,27-08-2000,Alm.,5660,2,Sommerhus,53,1953,
+Holsteinborgvej 20 4243 Rude,20,585000.0,02-08-2000,Alm.,7134,3,Villa,82,1959,
+Bisserup Havnevej 28 4243 Rude,28,300825.0,25-06-2000,Alm.,2406,6,Villa,125,1883,
+Bisserup Havnevej 44 4243 Rude,44,1840000.0,14-06-2000,Alm.,6571,7,Villa,280,1946,
+Fjordbakken 40 4243 Rude,40,450210.0,12-06-2000,Alm.,0,3,Sommerhus,73,1973,
+Lodsstien 3 4243 Rude,3,1300000.0,07-06-2000,Alm.,10655,6,Villa,122,1800,
+Møllebakkevej 170 4243 Rude,170,424000.0,25-05-2000,Alm.,4000,5,Villa,106,1878,
+Agersøvej 6 4243 Rude,6,280000.0,15-05-2000,Fam.,6666,3,Sommerhus,42,1967,
+Skolebakken 16 4243 Rude,16,983280.0,15-05-2000,Alm.,7177,4,Villa,137,1969,
+Næstved Landevej 697 4243 Rude,697,1375000.0,10-05-2000,Alm.,7198,6,Stuehus,191,1892,
+Dyvekær 24 4243 Rude,24,310000.0,05-05-2000,Alm.,0,3,Villa,97,1965,
+Trolhætten 10 4243 Rude,10,240000.0,05-05-2000,Alm.,3582,3,Sommerhus,67,2005,
+Smedevangen 5 4243 Rude,5,710000.0,24-04-2000,Fam.,5378,5,Villa,132,1977,
+Fasanvej 4 4243 Rude,4,733000.0,28-02-2000,Alm.,6486,3,Villa,113,1962,
+Fjordbakken 52 4243 Rude,52,297500.0,14-12-1999,Fam.,5312,3,Sommerhus,56,1973,
+Holsteinborgvej 13 4243 Rude,13,764347.0,10-12-1999,Alm.,5579,4,Villa,137,1969,
+Strædet 14 4243 Rude,14,100000.0,29-10-1999,Alm.,471,6,Villa,212,2001,
+Østervej 5 4243 Rude,5,485000.0,25-10-1999,Alm.,3759,5,Villa,129,1895,
+Dyvekær 27 4243 Rude,27,225524.0,27-09-1999,Alm.,2478,4,Villa,91,1964,
+Agersøvej 14 4243 Rude,14,475000.0,14-09-1999,Alm.,7421,3,Sommerhus,64,1971,
+Avnøvej 12 4243 Rude,12,105000.0,16-08-1999,Fam.,3000,3,Sommerhus,35,1937,
+Fjordbakken 38 4243 Rude,38,400000.0,05-08-1999,Alm.,8000,3,Sommerhus,50,1974,
+Avnøvej 38 4243 Rude,38,400000.0,26-07-1999,Alm.,0,4,Sommerhus,77,1940,
+Gammel Strandvej 33 4243 Rude,33,800000.0,15-07-1999,Alm.,0,8,Stuehus,266,1800,
+Fjordbakken 78 4243 Rude,78,410000.0,27-06-1999,Alm.,5616,4,Sommerhus,73,1971,
+Avnøvej 9 4243 Rude,9,570000.0,21-06-1999,Alm.,9500,3,Sommerhus,60,1972,
+Dyvekær 3 4243 Rude,3,267000.0,21-06-1999,Alm.,0,5,Villa,165,1967,
+Østengen 15 4243 Rude,15,289064.0,02-06-1999,Alm.,5558,3,Sommerhus,52,1983,
+Vinkelvej 7 4243 Rude,7,550000.0,16-04-1999,Fam.,3900,4,Villa,141,1973,
+Agersøvej 5 4243 Rude,5,474000.0,13-03-1999,Alm.,6970,3,Sommerhus,68,1974,
+Agersøvej 2 4243 Rude,2,300000.0,21-02-1999,Alm.,5454,3,Sommerhus,55,1968,
+Strædet 11 4243 Rude,11,289000.0,01-02-1999,Fam.,3247,3,Villa,89,1780,
+Fjordbakken 34 4243 Rude,34,275000.0,24-01-1999,Alm.,6111,3,Sommerhus,45,1972,
+Fuglevænget 23 4243 Rude,23,417000.0,21-01-1999,Alm.,5712,4,Sommerhus,73,1999,
+Fjordbakken 2 4243 Rude,2,154000.0,20-01-1999,Fam.,1524,3,Sommerhus,101,1968,
+Gaunøvej 3 4243 Rude,3,334982.0,07-12-1998,Alm.,4999,3,Sommerhus,67,1971,
+Agersøvej 4 4243 Rude,4,215000.0,01-12-1998,Fam.,6142,3,Sommerhus,35,1964,
+Gammel Strandvej 11 4243 Rude,11,374929.0,16-11-1998,Alm.,6248,3,Sommerhus,60,1971,
+Venslev Enghavevej 71 4243 Rude,71,300000.0,04-11-1998,Alm.,0,8,Villa,212,1900,
+Agersøvej 8 4243 Rude,8,204000.0,29-09-1998,Fam.,4533,3,Sommerhus,45,1967,
+Fuglevænget 1 4243 Rude,1,82380.0,20-09-1998,Alm.,1248,4,Sommerhus,66,2005,
+Fjordbakken 80 4243 Rude,80,408000.0,04-09-1998,Alm.,4689,4,Sommerhus,87,1977,
+Avnøvej 15 4243 Rude,15,450500.0,17-08-1998,Alm.,7385,4,Sommerhus,61,1961,
+Skoleengen 14 4243 Rude,14,525000.0,07-08-1998,Alm.,7500,4,Sommerhus,70,1938,
+Østervej 4 4243 Rude,4,321200.0,27-07-1998,Fam.,2261,6,Villa,142,1780,
+Bøgelundevej 130 4243 Rude,130,90000.0,12-06-1998,Alm.,633,6,Villa,142,1885,
+Østengen 2 4243 Rude,2,325800.0,28-05-1998,Alm.,0,4,Sommerhus,103,1972,
+Bisserup Havnevej 5 4243 Rude,5,285000.0,07-05-1998,Alm.,0,3,Villa,186,1960,
+Holsteinborgvej 22 4243 Rude,22,510500.0,01-04-1998,Alm.,2514,7,Villa,203,1937,
+Vrængegårdsvej 20 4243 Rude,20,1166002.0,30-03-1998,Alm.,4682,7,Villa,249,1925,
+Østervej 21 4243 Rude,21,821400.0,06-03-1998,Alm.,3666,7,Villa,224,1850,
+Dalstrøget 8 4243 Rude,8,125000.0,02-03-1998,Alm.,1785,3,Villa,70,1998,
+Gammel Strandvej 101 4243 Rude,101,464000.0,20-02-1998,Alm.,5658,4,Sommerhus,82,1937,
+Skovvænget 3 4243 Rude,3,325633.0,08-02-1998,Alm.,3072,3,Villa,106,1963,
+Egesvinget 9 4243 Rude,9,484000.0,03-02-1998,Alm.,4101,4,Villa,118,1972,
+Strædet 28 4243 Rude,28,120000.0,31-12-1997,Alm.,750,5,Villa,160,1999,
+Tværvej 5 4243 Rude,5,95000.0,17-11-1997,Fam.,2065,3,Sommerhus,46,1963,
+Bisserup Havnevej 9 4243 Rude,9,200000.0,17-11-1997,Fam.,2197,3,Villa,91,1880,
+Bisserup Byvej 20 4243 Rude,20,465000.0,31-10-1997,Fam.,6200,4,Sommerhus,75,1910,
+Omøvej 12 4243 Rude,12,195700.0,02-10-1997,Alm.,2575,4,Sommerhus,76,1961,
+Strædet 25 4243 Rude,25,90000.0,29-09-1997,Alm.,562,4,Villa,160,1998,
+Møllebakkevej 155 4243 Rude,155,713500.0,03-09-1997,Alm.,5800,5,Stuehus,123,1964,
+Bisserup Havnevej 15 4243 Rude,15,571122.0,24-07-1997,Alm.,4568,4,Villa,125,1958,
+Skovvænget 4 4243 Rude,4,703000.0,01-07-1997,Alm.,4750,4,Villa,148,1979,
+Møllebakkevej 176 4243 Rude,176,402000.0,20-06-1997,Alm.,3495,4,Villa,115,1909,
+Fjordbakken 66 4243 Rude,66,408000.0,01-05-1997,Alm.,6276,3,Sommerhus,65,1973,
+Askøvej 4 4243 Rude,4,235000.0,29-04-1997,Alm.,4196,3,Sommerhus,56,1962,
+Voldstien 20 4243 Rude,20,480000.0,21-04-1997,Fam.,0,7,Villa,207,1865,
+Dyvekær 15 4243 Rude,15,325000.0,24-03-1997,Alm.,4642,4,Sommerhus,70,1970,
+Kærvej 11 4243 Rude,11,675000.0,22-02-1997,Alm.,5578,4,Villa,121,1974,
+Fjordbakken 8A 4243 Rude,0,251000.0,01-02-1997,Alm.,4403,2,Sommerhus,57,1982,
+Bisserup Havnevej 47 4243 Rude,47,260090.0,20-01-1997,Fam.,2131,5,Villa,122,1909,
+Gammel Strandvej 79A 4243 Rude,0,170000.0,07-11-1996,Alm.,2931,3,Sommerhus,58,2007,
+Østervej 6 4243 Rude,6,575000.0,09-10-1996,Alm.,5275,5,Villa,109,1964,
+Fjordbakken 83 4243 Rude,83,435000.0,20-09-1996,Alm.,6796,3,Sommerhus,64,1971,
+Engdraget 6 4243 Rude,6,330000.0,05-09-1996,Alm.,9428,2,Sommerhus,35,1965,
+Bisserup Byvej 42 4243 Rude,42,510000.0,03-07-1996,Alm.,4112,4,Villa,124,1900,
+Engvej 7 4243 Rude,7,109669.0,24-06-1996,Alm.,1890,3,Sommerhus,58,1960,
+Vinkelvej 8 4243 Rude,8,100000.0,19-06-1996,Alm.,675,4,Villa,148,1999,
+Strædet 8 4243 Rude,8,650000.0,03-06-1996,Alm.,5200,5,Villa,125,1981,
+Møllebakkevej 110 4243 Rude,110,450000.0,24-05-1996,Alm.,0,6,Stuehus,226,1750,
+Strædet 12 4243 Rude,12,779000.0,02-05-1996,Alm.,4868,4,Villa,160,1980,
+Kærvej 9 4243 Rude,9,600000.0,22-04-1996,Alm.,4958,4,Villa,121,1974,
+Skovvænget 7 4243 Rude,7,495175.0,18-04-1996,Alm.,4268,4,Villa,116,1965,
+Gammel Strandvej 49 4243 Rude,49,204000.0,24-02-1996,Fam.,2794,4,Sommerhus,73,2005,
+Fjordbakken 58 4243 Rude,58,58750.0,24-01-1996,Alm.,932,4,Sommerhus,63,1997,
+Avnøvej 14 4243 Rude,14,153000.0,27-11-1995,Fam.,4781,2,Sommerhus,32,1935,
+Gammel Strandvej 65 4243 Rude,65,187000.0,27-11-1995,Fam.,3816,3,Sommerhus,49,1935,
+Aadalsvej 152 4243 Rude,152,1500000.0,24-10-1995,Fam.,9375,7,Stuehus,160,1864,
+Næstved Landevej 683 4243 Rude,683,525000.0,04-08-1995,Alm.,3301,6,Villa,159,1950,
+Næstved Landevej 625 4243 Rude,625,372375.0,19-07-1995,Alm.,0,5,Villa,190,1909,
+Fjordbakken 16 4243 Rude,16,350000.0,18-07-1995,Alm.,4375,4,Sommerhus,80,1973,
+Fjordbakken 24 4243 Rude,24,350000.0,17-07-1995,Alm.,5645,4,Sommerhus,62,1974,
+Dyvekær 14 4243 Rude,14,333000.0,17-07-1995,Alm.,3741,4,Villa,89,1965,
+Holsteinborgvej 239 4243 Rude,239,776000.0,15-07-1995,Alm.,3464,6,Villa,224,1979,
+Lodsstien 16 4243 Rude,16,955000.0,28-06-1995,Alm.,5968,5,Sommerhus,160,1900,
+Dyvekær 12 4243 Rude,12,295150.0,27-06-1995,Alm.,5178,3,Villa,57,1972,
+Strædet 24 4243 Rude,24,1368000.0,10-06-1995,Alm.,7685,7,Villa,178,1988,
+Hvirvilsvej 14 4243 Rude,14,175000.0,31-05-1995,Alm.,1232,4,Villa,142,1996,
+Østengen 3 4243 Rude,3,400000.0,03-04-1995,Alm.,7407,3,Sommerhus,54,1985,
+Gaunøvej 7 4243 Rude,7,275000.0,27-03-1995,Alm.,4435,3,Sommerhus,62,1974,
+Bisserup Havnevej 39A 4243 Rude,0,516301.0,25-03-1995,Alm.,3741,3,Villa,138,1921,
+Nyrupvej 120 4243 Rude,120,193292.0,12-03-1995,Fam.,0,8,Stuehus,229,1890,
+Skovridergårdsvej 106 4243 Rude,106,2014656.0,05-12-1994,Alm.,7689,6,Stuehus,262,1920,
+Fuglevænget 12 4243 Rude,12,220000.0,18-11-1994,Alm.,3666,3,Sommerhus,60,1961,
+Strædet 23 4243 Rude,23,83000.0,06-11-1994,Alm.,728,5,Villa,114,1995,
+Kærvej 14 4243 Rude,14,65000.0,11-10-1994,Alm.,442,4,Villa,147,1998,
+Fjordbakken 20 4243 Rude,20,181600.0,07-09-1994,Alm.,1650,3,Sommerhus,110,2007,
+Vinkelvej 9 4243 Rude,9,118000.0,26-07-1994,Alm.,608,4,Villa,194,1995,
+Strædet 21 4243 Rude,21,650000.0,21-06-1994,Alm.,4513,4,Villa,144,1974,
+Avnøvej 13 4243 Rude,13,325000.0,20-06-1994,Alm.,5701,3,Sommerhus,57,1960,
+Møllebakkevej 154 4243 Rude,154,300000.0,04-06-1994,Alm.,3296,2,Villa,91,1890,
+Næstved Landevej 661 4243 Rude,661,715000.0,16-05-1994,Alm.,3108,8,Stuehus,230,1918,
+Holsteinborgvej 215 4243 Rude,215,285000.0,06-04-1994,Alm.,2126,6,Villa,134,1896,
+Dyvekær 16 4243 Rude,16,561800.0,04-04-1994,Alm.,0,4,Villa,158,1980,
+Bøgelundevej 121 4243 Rude,121,170000.0,23-03-1994,Fam.,3777,2,Villa,45,1800,
+Poststien 17 4243 Rude,17,410000.0,11-03-1994,Alm.,2546,6,Villa,161,1937,
+Dyvekær 23 4243 Rude,23,490000.0,21-02-1994,Alm.,5764,3,Villa,85,1986,
+Holsteinborgvej 10 4243 Rude,10,450000.0,21-01-1994,Alm.,4166,2,Villa,108,1900,
+Østengen 10 4243 Rude,10,70000.0,30-12-1993,Alm.,833,4,Sommerhus,84,1998,
+Bisserup Byvej 33 4243 Rude,33,285000.0,07-10-1993,Alm.,3475,4,Villa,82,1860,
+Niels Jensensvej 15 4243 Rude,15,591400.0,27-08-1993,Alm.,5741,4,Villa,103,1988,
+Fjordbakken 11 4243 Rude,11,340000.0,18-08-1993,Alm.,4473,3,Sommerhus,76,1977,
+Askøvej 7 4243 Rude,7,362870.0,09-06-1993,Alm.,3987,5,Sommerhus,91,1965,
+Avnøvej 22 4243 Rude,22,175000.0,24-04-1993,Fam.,1988,6,Sommerhus,88,1996,
+Vejrøvej 6 4243 Rude,6,330000.0,21-04-1993,Alm.,5409,3,Sommerhus,61,1977,
+Møllebakkevej 66 4243 Rude,66,966262.0,08-03-1993,Alm.,3745,7,Stuehus,258,1885,
+Skovvænget 8 4243 Rude,8,705000.0,17-02-1993,Alm.,3389,6,Villa,208,1967,
+Bisserup Havnevej 11 4243 Rude,11,465000.0,15-02-1993,Alm.,4115,5,Villa,113,1952,
+Strædet 1 4243 Rude,1,415000.0,21-01-1993,Alm.,4940,3,Villa,84,1966,
+Østengen 13 4243 Rude,13,250000.0,12-10-1992,Alm.,0,5,Sommerhus,105,1978,
+Kærvej 8 4243 Rude,8,535000.0,05-10-1992,Alm.,3821,6,Villa,140,1977,
+Holsteinborgvej 45 4243 Rude,45,130000.0,04-08-1992,Alm.,1444,4,Villa,90,1800,
+Holsteinborgvej 35 4243 Rude,35,279400.0,08-06-1992,Alm.,0,6,Villa,186,1930,
+Gammel Strandvej 117 4243 Rude,117,325000.0,30-05-1992,Alm.,9027,2,Sommerhus,36,1935,
+Østengen 8 4243 Rude,8,310000.0,19-05-1992,Alm.,4558,4,Sommerhus,68,1975,
+Bisserup Havnevej 10 4243 Rude,10,130000.0,18-05-1992,Fam.,3714,1,Sommerhus,35,1956,
+Fasanvej 6 4243 Rude,6,1072000.0,09-05-1992,Alm.,5129,6,Villa,209,1967,
+Fjordbakken 28 4243 Rude,28,90000.0,05-05-1992,Alm.,1267,3,Sommerhus,71,1993,
+Strædet 9 4243 Rude,9,182500.0,30-03-1992,Alm.,1962,3,Villa,93,1780,
+Fuglevænget 27 4243 Rude,27,390000.0,27-02-1992,Alm.,5909,5,Sommerhus,66,1978,

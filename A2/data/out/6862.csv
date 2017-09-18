@@ -1,0 +1,522 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Ahornvej 10 6862 Tistrup,10,875000.0,07-04-2017,Alm.,6889,4,Villa,127,1974,
+Diget 6 6862 Tistrup,6,1320000.0,05-04-2017,Alm.,9041,5,Villa,146,1984,
+Skolevej 4 6862 Tistrup,4,525965.0,19-03-2017,Andet,3328,4,Villa,158,1930,
+Vejlevej 20 6862 Tistrup,20,188320.0,09-03-2017,Alm.,1076,5,Stuehus,175,1883,
+Møllegårdsvej 63 6862 Tistrup,63,950000.0,22-02-2017,Alm.,6597,5,Villa,144,1980,
+Agervej 9 6862 Tistrup,9,949178.0,01-02-2017,Andet,5787,5,Villa,164,2007,-44 %
+Nordenskovvej 16 6862 Tistrup,16,1698550.0,28-12-2016,Alm.,13809,5,Stuehus,123,1919,
+Krarupvej 19 6862 Tistrup,19,9300000.0,22-12-2016,Alm.,32746,9,Stuehus,284,1956,
+Krarupvej 17 6862 Tistrup,17,2400000.0,22-12-2016,Alm.,12631,6,Stuehus,190,1858,
+Storegade 33 6862 Tistrup,33,1165000.0,24-11-2016,Alm.,7281,5,Rækkehus,160,1927,-3 %
+Yderikvej 31 6862 Tistrup,31,1970000.0,21-10-2016,Alm.,9850,3,Stuehus,200,1910,
+Vardevej 28 6862 Tistrup,28,1540000.0,20-10-2016,Alm.,7000,6,Stuehus,220,1929,-7 %
+Søparken 1 6862 Tistrup,1,870000.0,08-10-2016,Alm.,8207,4,Villa,106,1981,-2 %
+Snorupvej 10 6862 Tistrup,10,300000.0,30-09-2016,Alm.,2307,3,Stuehus,130,1907,-8 %
+Søndervang 31 6862 Tistrup,31,504000.0,28-09-2016,Alm.,2260,8,Villa,223,1984,
+Bredhovej 5 6862 Tistrup,5,1300000.0,02-09-2016,Alm.,9027,3,Villa,144,1940,-4 %
+Elmelyvej 5 6862 Tistrup,5,1375000.0,30-08-2016,Alm.,6944,6,Stuehus,198,1980,-8 %
+Askevej 18 6862 Tistrup,18,775000.0,30-08-2016,Alm.,5871,5,Villa,132,1976,
+Agerkrogvej 6 6862 Tistrup,6,1900000.0,22-08-2016,Alm.,11111,6,Villa,171,1892,-5 %
+Tistrup Kirkevej 14 6862 Tistrup,14,399000.0,19-08-2016,Alm.,3325,4,Villa,120,1901,0 %
+Hulvigvej 4 6862 Tistrup,4,50000.0,18-08-2016,Alm.,526,4,Villa,95,1961,0 %
+Krarupvej 9 6862 Tistrup,9,4490000.0,12-08-2016,Fam.,19270,7,Stuehus,233,1991,
+Toften 7 6862 Tistrup,7,900000.0,28-07-2016,Alm.,4591,6,Villa,196,1968,-18 %
+Vardevej 30 6862 Tistrup,30,4045000.0,15-07-2016,Alm.,20225,7,Stuehus,200,1939,-12 %
+Engvej 8 6862 Tistrup,8,1280000.0,09-07-2016,Alm.,9411,5,Villa,136,1996,-1 %
+Hesseldalvej 1 6862 Tistrup,1,1750000.0,27-06-2016,Alm.,12867,5,Stuehus,136,1883,46 %
+Storegade 52 6862 Tistrup,52,1950000.0,24-06-2016,Alm.,6964,13,Villa,280,1902,-2 %
+Grødevej 55 6862 Tistrup,55,475000.0,14-06-2016,Alm.,2513,5,Villa,189,1957,-20 %
+Hasselvej 2 6862 Tistrup,2,1195000.0,29-04-2016,Alm.,6223,6,Villa,192,1976,0 %
+Søndervang 7 6862 Tistrup,7,575000.0,28-03-2016,Fam.,6460,3,Rækkehus,89,1980,
+Degnevænget 15 6862 Tistrup,15,261577.0,14-03-2016,Alm.,1445,6,Villa,181,2016,
+Birkevej 8 6862 Tistrup,8,1050000.0,08-03-2016,Alm.,8467,4,Villa,124,1972,-4 %
+Grødevej 26A 6862 Tistrup,0,1475000.0,13-02-2016,Alm.,6223,8,Villa,237,1925,-1 %
+Søparken 13 6862 Tistrup,13,1000000.0,28-01-2016,Alm.,6711,5,Villa,149,1986,
+Storegade 37 6862 Tistrup,37,410000.0,23-12-2015,Alm.,4456,3,Rækkehus,92,1875,-8 %
+Storegade 61 6862 Tistrup,61,695000.0,21-12-2015,Alm.,5604,3,Villa,124,1906,-7 %
+"Jernbanegade 1, ST. TV 6862 Tistrup",0,375000.0,20-12-2015,Alm.,4166,4,Lejlighed,90,1900,0 %
+Diget 9 6862 Tistrup,9,347000.0,15-10-2015,Auktion,3691,4,Villa,94,1980,
+Vardevej 53 6862 Tistrup,53,470000.0,14-10-2015,Alm.,5662,3,Villa,83,1948,0 %
+Nørrevang 2 6862 Tistrup,2,1695000.0,10-10-2015,Alm.,10935,5,Villa,155,1999,
+Nordenskovvej 14 6862 Tistrup,14,1600000.0,02-10-2015,Alm.,9876,5,Stuehus,162,1926,-6 %
+Elmelyvej 4 6862 Tistrup,4,2005000.0,14-09-2015,Alm.,8495,8,Stuehus,236,1977,
+Engholmvej 2 6862 Tistrup,2,6750000.0,01-09-2015,Alm.,60267,6,Stuehus,112,1926,
+Bøgevej 17 6862 Tistrup,17,900000.0,01-09-2015,Andet,3409,8,Villa,264,1973,
+Søparken 19 6862 Tistrup,19,1095000.0,28-08-2015,Alm.,9439,4,Villa,116,1980,0 %
+Møllegårdsvej 23 6862 Tistrup,23,1020000.0,27-08-2015,Alm.,8095,3,Villa,126,1979,
+Grødevej 47 6862 Tistrup,47,1213865.0,26-06-2015,Fam.,7539,7,Stuehus,161,1907,
+Krarupvej 11 6862 Tistrup,11,685000.0,24-06-2015,Alm.,6850,3,Villa,100,1910,0 %
+Skolevej 5 6862 Tistrup,5,425000.0,09-06-2015,Alm.,2335,7,Villa,182,1901,-22 %
+Storegade 58 6862 Tistrup,58,1125000.0,01-06-2015,Alm.,6736,7,Villa,167,1947,
+Uhrevej 3 6862 Tistrup,3,1150000.0,13-05-2015,Alm.,4693,7,Stuehus,245,1789,-11 %
+Søndergade 20 6862 Tistrup,20,1191000.0,12-05-2015,Alm.,9022,4,Villa,132,1954,1 %
+Søndergade 46 6862 Tistrup,46,730000.0,05-05-2015,Alm.,8111,3,Villa,90,1967,-9 %
+Storegade 71 6862 Tistrup,71,420000.0,05-05-2015,Alm.,2745,7,Villa,153,1935,-6 %
+Ahornvej 12 6862 Tistrup,12,950000.0,09-03-2015,Alm.,6597,6,Villa,144,1973,-5 %
+Kasthøjvej 3 6862 Tistrup,3,1368070.0,22-02-2015,Alm.,6514,5,Stuehus,210,1997,
+Lærkevej 2 6862 Tistrup,2,780000.0,16-02-2015,Alm.,5165,6,Villa,151,1966,-13 %
+Agerkrogvej 7 6862 Tistrup,7,1100000.0,03-02-2015,Alm.,6145,6,Stuehus,179,1935,11 %
+Møllegårdsvej 59 6862 Tistrup,59,610000.0,23-01-2015,Alm.,5350,4,Villa,114,1979,-12 %
+Vejlevej 25 6862 Tistrup,25,675000.0,12-01-2015,Alm.,6958,4,Villa,97,1934,-15 %
+Skolevej 9 6862 Tistrup,9,620000.0,19-12-2014,Alm.,3875,4,Villa,160,1930,-17 %
+Søparken 9 6862 Tistrup,9,1245000.0,16-11-2014,Andet,9291,4,Villa,134,1979,
+Birkevej 10 6862 Tistrup,10,1310000.0,13-11-2014,Alm.,10234,4,Villa,128,1973,-6 %
+Vardevej 26 6862 Tistrup,26,750000.0,26-10-2014,Alm.,4901,8,Villa,153,1937,-16 %
+Søndergade 21 6862 Tistrup,21,405000.0,10-09-2014,Auktion,2852,5,Villa,142,1966,
+Hasselvej 21 6862 Tistrup,21,500000.0,09-09-2014,Andet,2336,7,Villa,214,1976,
+"Jernbanegade 1, 1. TV 6862 Tistrup",0,285000.0,17-08-2014,Alm.,3166,3,Lejlighed,90,1900,-17 %
+Tøndingvej 7 6862 Tistrup,7,5850000.0,14-08-2014,Alm.,22500,5,Stuehus,260,1900,
+Askevej 6 6862 Tistrup,6,612500.0,12-08-2014,Fam.,3240,7,Villa,189,1976,
+Møllegårdsvej 25 6862 Tistrup,25,1200000.0,06-08-2014,Alm.,7894,4,Villa,152,1980,-7 %
+Hasselvej 7 6862 Tistrup,7,1320000.0,30-07-2014,Alm.,7810,6,Villa,169,1976,-2 %
+Møllegade 9 6862 Tistrup,9,695000.0,20-06-2014,Alm.,8081,6,Rækkehus,86,1905,0 %
+Ahornvej 1 6862 Tistrup,1,925000.0,18-06-2014,Alm.,6954,4,Villa,133,1974,-5 %
+Vardevej 65 6862 Tistrup,65,900000.0,16-06-2014,Alm.,6122,5,Stuehus,147,1921,-51 %
+Lervadvej 30 6862 Tistrup,30,4929204.0,11-06-2014,Alm.,29694,6,Stuehus,166,1913,
+Møllegårdsvej 47 6862 Tistrup,47,895000.0,30-05-2014,Alm.,7396,4,Villa,121,1978,
+Søndergade 54 6862 Tistrup,54,351333.0,23-05-2014,Fam.,2621,5,Villa,134,1906,
+Søndergade 32 6862 Tistrup,32,1078000.0,09-05-2014,Alm.,9889,5,Villa,109,1945,-2 %
+Tøndingvej 8 6862 Tistrup,8,10800000.0,12-04-2014,Alm.,43724,9,Stuehus,247,1908,
+Elmelyvej 12 6862 Tistrup,12,500000.0,10-04-2014,Auktion,4032,5,Stuehus,124,1930,
+Krarupvej 31 6862 Tistrup,31,277759.0,03-04-2014,Auktion,1402,8,Villa,198,1873,-72 %
+Kølhusvej 1 6862 Tistrup,1,25000.0,01-04-2014,Andet,416,3,Villa,60,1907,
+Tøndingvej 10 6862 Tistrup,10,1260000.0,14-03-2014,Alm.,6086,7,Villa,207,1883,
+Engvej 11 6862 Tistrup,11,750000.0,05-03-2014,Fam.,5208,6,Villa,144,1994,
+Storegade 28 6862 Tistrup,28,795000.0,18-02-2014,Alm.,7361,2,Villa,108,1897,0 %
+Pilevej 8 6862 Tistrup,8,850000.0,07-02-2014,Alm.,5821,3,Villa,146,1973,-5 %
+Vejlevej 41 6862 Tistrup,41,160424.0,12-12-2013,Alm.,2005,6,Ukendt,80,1935,
+Vardevej 21 6862 Tistrup,21,750000.0,27-11-2013,Alm.,4687,5,Stuehus,160,1934,
+Bøgevej 1 6862 Tistrup,1,765000.0,27-11-2013,Alm.,8500,4,Villa,90,1965,-4 %
+Askevej 4 6862 Tistrup,4,1200000.0,25-11-2013,Alm.,9160,4,Villa,131,1977,0 %
+"Storegade 15, 1 6862 Tistrup",1,750000.0,21-11-2013,Alm.,6637,4,Lejlighed,113,1900,
+Lervadvej 20 6862 Tistrup,20,3960000.0,01-10-2013,Alm.,26577,6,Stuehus,149,1920,
+Tistrupvej 12 6862 Tistrup,12,3000000.0,25-09-2013,Alm.,25210,4,Stuehus,119,1988,9 %
+Bøgevej 20 6862 Tistrup,20,525000.0,08-08-2013,Alm.,5250,3,Villa,100,1967,-4 %
+Agerkrogvej 9 6862 Tistrup,9,38300000.0,05-08-2013,Alm.,103513,8,Stuehus,370,1894,
+Kølhusvej 8 6862 Tistrup,8,116000.0,24-06-2013,Alm.,1757,3,Villa,66,1961,
+Agervej 15 6862 Tistrup,15,2150000.0,19-06-2013,Alm.,8143,9,Villa,264,2000,-7 %
+Tistrup Kirkevej 12 6862 Tistrup,12,1100000.0,10-06-2013,Alm.,5978,4,Villa,184,1884,
+Møllegårdsvej 49 6862 Tistrup,49,625000.0,23-05-2013,Alm.,6250,5,Villa,100,1984,-4 %
+Nørrevang 5 6862 Tistrup,5,1700000.0,08-05-2013,Alm.,13385,5,Villa,127,1997,
+Hasselvej 4 6862 Tistrup,4,1204882.0,17-04-2013,Andet,8086,5,Villa,149,1979,
+Krarupvej 10 6862 Tistrup,10,9965000.0,16-04-2013,Alm.,47452,5,Stuehus,210,1928,
+Vejlevej 26 6862 Tistrup,26,390000.0,28-02-2013,Alm.,4193,3,Villa,93,1934,-10 %
+Tøndingvej 5 6862 Tistrup,5,4630000.0,28-12-2012,Alm.,19618,8,Stuehus,236,1900,
+Krarupvej 18 6862 Tistrup,18,5620000.0,21-12-2012,Alm.,29270,7,Stuehus,192,1893,
+Søndergade 44 6862 Tistrup,44,300000.0,14-12-2012,Alm.,6382,2,Villa,47,1935,
+Uhrevej 4 6862 Tistrup,4,10038100.0,06-12-2012,Alm.,32911,10,Stuehus,305,1858,
+Søndergade 11 6862 Tistrup,11,600000.0,19-11-2012,Alm.,7500,1,Villa,80,1937,-11 %
+Hulvigvej 25 6862 Tistrup,25,900000.0,14-11-2012,Alm.,5357,5,Stuehus,168,1930,-10 %
+Storegade 14 6862 Tistrup,14,510000.0,19-10-2012,Alm.,3377,5,Rækkehus,151,1900,-11 %
+Degnevænget 17 6862 Tistrup,17,310120.0,10-10-2012,Alm.,1713,6,Villa,181,2013,
+Kasthøjvej 7 6862 Tistrup,7,1450000.0,05-10-2012,Alm.,11693,3,Stuehus,124,1924,
+Vardevej 43 6862 Tistrup,43,1750868.0,02-10-2012,Alm.,7886,5,Stuehus,222,1912,
+Diget 3 6862 Tistrup,3,500000.0,20-09-2012,Alm.,3571,4,Villa,140,1987,
+Møllegårdsvej 3 6862 Tistrup,3,890000.0,14-09-2012,Alm.,8640,3,Villa,103,1967,-9 %
+Bjerremosevej 54 6862 Tistrup,54,1200000.0,12-09-2012,Alm.,10619,3,Stuehus,113,1898,-2 %
+Møllegade 5A 6862 Tistrup,0,1216342.0,10-09-2012,Andet,6871,3,Villa,177,1974,
+Møllegårdsvej 4 6862 Tistrup,4,1075000.0,10-09-2012,Alm.,4352,10,Villa,247,1970,-10 %
+Storegade 83 6862 Tistrup,83,1125000.0,28-08-2012,Alm.,11718,6,Villa,96,1911,-13 %
+Nordenskovvej 9 6862 Tistrup,9,650000.0,18-07-2012,Alm.,6500,5,Stuehus,100,1872,
+Møllegårdsvej 57 6862 Tistrup,57,1245000.0,03-07-2012,Alm.,5790,7,Villa,215,1979,-11 %
+Møllegade 4 6862 Tistrup,4,700000.0,26-06-2012,Alm.,4375,6,Villa,160,1905,-5 %
+Elmevej 3 6862 Tistrup,3,1250000.0,14-06-2012,Alm.,8802,4,Villa,142,1969,
+Søndervang 29 6862 Tistrup,29,1005000.0,25-05-2012,Fam.,8815,6,Villa,114,1984,
+Skolevej 7 6862 Tistrup,7,550000.0,30-04-2012,Alm.,4661,4,Villa,118,1971,-4 %
+Vardevej 25 6862 Tistrup,25,1250000.0,26-04-2012,Alm.,9765,5,Stuehus,128,1905,-10 %
+Lærkevej 1 6862 Tistrup,1,650000.0,18-04-2012,Alm.,6132,3,Villa,106,1966,0 %
+Møllegade 25 6862 Tistrup,25,720000.0,12-04-2012,Alm.,3380,9,Villa,213,1960,
+Tøndingvej 6 6862 Tistrup,6,423844.0,14-03-2012,Fam.,3418,4,Stuehus,124,2015,
+Hulvigvej 18 6862 Tistrup,18,1315000.0,12-03-2012,Alm.,7225,5,Villa,182,1924,-9 %
+Vejlevej 47 6862 Tistrup,47,5365000.0,01-12-2011,Alm.,31374,7,Stuehus,171,1935,
+Grødevej 34 6862 Tistrup,34,160000.0,19-11-2011,Alm.,1904,3,Villa,84,1932,
+Askevej 8 6862 Tistrup,8,700000.0,14-11-2011,Fam.,5223,4,Villa,134,1976,
+Ahornvej 11 6862 Tistrup,11,775000.0,11-11-2011,Fam.,3369,7,Villa,230,1974,
+Kirke Allé 4 6862 Tistrup,4,1551250.0,31-10-2011,Alm.,4589,6,Villa,338,2009,
+Baldersvej 28 6862 Tistrup,28,1400000.0,07-10-2011,Alm.,9929,5,Villa,141,1981,-7 %
+Ahornvej 9 6862 Tistrup,9,975000.0,22-09-2011,Alm.,6170,5,Villa,158,1973,-11 %
+Uhrevej 2 6862 Tistrup,2,2410000.0,19-09-2011,Fam.,12110,8,Stuehus,199,1924,
+Ahornvej 16 6862 Tistrup,16,620000.0,29-08-2011,Alm.,5391,4,Villa,115,1979,-11 %
+Kastanievej 14 6862 Tistrup,14,600000.0,25-08-2011,Alm.,4379,5,Villa,137,1973,-19 %
+Bøgevej 12 6862 Tistrup,12,1175000.0,08-07-2011,Alm.,6250,7,Villa,188,1966,
+Møllegade 18 6862 Tistrup,18,395000.0,07-07-2011,Alm.,3160,6,Villa,125,1897,-10 %
+Akacievej 4 6862 Tistrup,4,950000.0,30-06-2011,Alm.,6209,5,Villa,153,1975,-19 %
+Elmevej 7 6862 Tistrup,7,609450.0,31-05-2011,Andet,4688,5,Villa,130,1973,
+Bøgevej 3 6862 Tistrup,3,293000.0,31-05-2011,Andet,2930,3,Villa,100,1964,
+Grødevej 38 6862 Tistrup,38,1520000.0,12-04-2011,Alm.,0,6,Stuehus,226,1927,-3 %
+Agerkrogvej 19 6862 Tistrup,19,291203.0,10-04-2011,Alm.,1043,8,Stuehus,279,1974,
+Kastanievej 13 6862 Tistrup,13,1063000.0,25-03-2011,Alm.,8176,4,Villa,130,1976,-6 %
+Storegade 60 6862 Tistrup,60,400000.0,15-03-2011,Alm.,4938,4,Rækkehus,81,1908,
+Skolevej 14 6862 Tistrup,14,825000.0,08-03-2011,Andet,3966,6,Villa,208,1927,
+"Storegade 23, 1 6862 Tistrup",1,1200000.0,15-02-2011,Alm.,9090,5,Lejlighed,132,1897,-25 %
+Yderikvej 29 6862 Tistrup,29,350000.0,08-02-2011,Auktion,2243,6,Villa,156,1892,
+Vejlevej 44 6862 Tistrup,44,104000.0,14-01-2011,Fam.,611,8,Stuehus,170,1952,
+Tistrupvej 2 6862 Tistrup,2,3515000.0,06-01-2011,Alm.,19747,6,Stuehus,178,1905,
+Søndergade 24 6862 Tistrup,24,963917.0,09-12-2010,Alm.,10146,4,Villa,95,1942,-11 %
+Elmevej 6 6862 Tistrup,6,600000.0,28-11-2010,Alm.,4958,4,Villa,121,1969,-7 %
+Agerkrogvej 15 6862 Tistrup,15,845000.0,19-11-2010,Alm.,5416,6,Villa,156,1937,-2 %
+Skolevej 2 6862 Tistrup,2,105000.0,18-11-2010,Auktion,875,4,Villa,120,1908,
+Bøgevej 21 6862 Tistrup,21,795000.0,15-11-2010,Alm.,7227,4,Villa,110,1968,0 %
+Søndergade 7 6862 Tistrup,7,900000.0,31-10-2010,Alm.,8571,3,Villa,105,1909,
+Hasselvej 9 6862 Tistrup,9,1725000.0,24-10-2010,Alm.,8098,7,Villa,213,1976,-4 %
+Agerkrogvej 11 6862 Tistrup,11,1605000.0,28-09-2010,Alm.,5857,5,Stuehus,274,1931,-5 %
+Søndermarksvej 6 6862 Tistrup,6,1230000.0,27-09-2010,Alm.,10423,3,Villa,118,1963,-2 %
+Vestervang 8 6862 Tistrup,8,1128000.0,22-09-2010,Alm.,3944,9,Villa,286,2009,-67 %
+Bredhovej 13 6862 Tistrup,13,1197000.0,31-08-2010,Alm.,9000,4,Stuehus,133,1933,
+Møllegårdsvej 15 6862 Tistrup,15,660000.0,26-08-2010,Alm.,5238,4,Villa,126,1979,-5 %
+Assenbækvej 4 6862 Tistrup,4,1750000.0,19-08-2010,Alm.,9210,7,Stuehus,190,1941,-5 %
+Bøgevej 11 6862 Tistrup,11,800000.0,15-07-2010,Alm.,7692,3,Villa,104,1966,-3 %
+Haugegårdvej 5 6862 Tistrup,5,2441554.0,29-06-2010,Alm.,10615,7,Stuehus,230,1902,
+Kølhusvej 2 6862 Tistrup,2,450000.0,14-05-2010,Alm.,4545,3,Villa,99,1948,0 %
+Snorupvej 7 6862 Tistrup,7,2800000.0,29-04-2010,Alm.,17073,6,Stuehus,164,1942,-3 %
+Vejlevej 14 6862 Tistrup,14,395000.0,28-04-2010,Alm.,3950,4,Villa,100,1948,0 %
+Kirke Allé 8 6862 Tistrup,8,375183.0,15-04-2010,Alm.,2119,6,Villa,177,2011,
+Bøgevej 9 6862 Tistrup,9,995000.0,25-03-2010,Alm.,9567,4,Villa,104,1965,0 %
+Yderikvej 33 6862 Tistrup,33,100000.0,14-03-2010,Alm.,438,3,Stuehus,228,1929,
+Tistrup Kirkevej 11 6862 Tistrup,11,450000.0,05-03-2010,Auktion,4285,4,Villa,105,1940,
+Storegade 70 6862 Tistrup,70,737500.0,21-02-2010,Alm.,4983,6,Villa,148,1912,
+Thyrasvej 1 6862 Tistrup,1,810570.0,10-02-2010,Alm.,10953,3,Stuehus,74,1938,
+Grødevej 61 6862 Tistrup,61,680000.0,29-01-2010,Alm.,5074,4,Villa,134,1928,-6 %
+Vardevej 27 6862 Tistrup,27,5541400.0,25-01-2010,Andet,15832,11,Villa,350,1997,
+Lervadvej 43 6862 Tistrup,43,1275000.0,15-01-2010,Alm.,6746,9,Villa,189,1920,-1 %
+Engvej 4 6862 Tistrup,4,125716.0,07-01-2010,Alm.,690,4,Villa,182,2010,
+Kirke Allé 12 6862 Tistrup,12,351136.0,06-01-2010,Alm.,1918,5,Villa,183,2011,
+Søparken 17 6862 Tistrup,17,1200000.0,17-12-2009,Alm.,9600,5,Villa,125,1980,-4 %
+Søparken 3 6862 Tistrup,3,1100000.0,02-11-2009,Alm.,10377,4,Villa,106,1987,-2 %
+Hasselvej 1 6862 Tistrup,1,830000.0,06-10-2009,Alm.,4486,6,Villa,185,1976,0 %
+Bredhovej 3 6862 Tistrup,3,180000.0,01-10-2009,Alm.,1200,5,Stuehus,150,1868,-86 %
+Søparken 22 6862 Tistrup,22,940500.0,30-09-2009,Fam.,6766,6,Villa,139,1980,
+Agervej 11 6862 Tistrup,11,131701.0,29-09-2009,Alm.,849,4,Villa,155,2010,
+Vardevej 67 6862 Tistrup,67,5270000.0,02-09-2009,Alm.,41171,5,Stuehus,128,1940,
+Hasselvej 3 6862 Tistrup,3,1235000.0,27-08-2009,Alm.,9880,5,Villa,125,1977,-5 %
+Søndergade 29 6862 Tistrup,29,635061.0,06-08-2009,Andet,4922,2,Villa,129,1940,
+Jernbanegade 3 6862 Tistrup,3,250000.0,24-07-2009,Alm.,3048,6,Villa,82,1900,
+Vardevej 57 6862 Tistrup,57,575000.0,26-06-2009,Alm.,7876,3,Villa,73,1955,-3 %
+Møllegade 17 6862 Tistrup,17,1100000.0,02-06-2009,Alm.,6077,6,Rækkehus,181,1906,-8 %
+Storegade 53 6862 Tistrup,53,1468000.0,18-05-2009,Alm.,7767,7,Villa,189,1929,-2 %
+Pilevej 5 6862 Tistrup,5,860000.0,03-04-2009,Alm.,6466,4,Villa,133,1973,
+Akacievej 7 6862 Tistrup,7,575000.0,04-03-2009,Alm.,3422,7,Villa,168,1976,-8 %
+Storegade 29 6862 Tistrup,29,567000.0,18-02-2009,Andet,3730,6,Villa,152,1911,
+Mosebjergvej 5 6862 Tistrup,5,617501.0,14-02-2009,Andet,5323,5,Stuehus,116,1935,-63 %
+Nordenskovvej 11 6862 Tistrup,11,5940000.0,10-02-2009,Alm.,38823,5,Stuehus,153,1914,
+Storegade 40 6862 Tistrup,40,610000.0,18-12-2008,Alm.,7721,4,Rækkehus,79,1895,
+Akacievej 6 6862 Tistrup,6,1295000.0,11-12-2008,Alm.,7993,5,Villa,162,1976,-7 %
+"Jernbanegade 1, 2. TV 6862 Tistrup",0,379547.0,19-11-2008,Alm.,4465,3,Lejlighed,85,1900,
+Grødevej 53 6862 Tistrup,53,1260000.0,10-11-2008,Alm.,7241,7,Stuehus,174,1914,-2 %
+Agerkrogvej 17 6862 Tistrup,17,1750000.0,26-09-2008,Alm.,6294,7,Stuehus,278,1972,
+Vestervang 6 6862 Tistrup,6,271015.0,24-09-2008,Alm.,971,4,Villa,279,2010,
+Letbækvej 20 6862 Tistrup,20,1850000.0,21-09-2008,Fam.,9113,7,Stuehus,203,1900,
+"Jernbanegade 1, 1. TH 6862 Tistrup",0,450000.0,20-09-2008,Alm.,4639,5,Lejlighed,97,1900,-5 %
+Lærkevej 4 6862 Tistrup,4,600000.0,18-09-2008,Alm.,4958,5,Villa,121,1966,
+Søndergade 13 6862 Tistrup,13,850000.0,10-09-2008,Fam.,6854,5,Villa,124,1963,
+Vejlevej 2 6862 Tistrup,2,895000.0,08-09-2008,Alm.,6302,7,Villa,142,1936,0 %
+Vejlevej 43 6862 Tistrup,43,380000.0,03-09-2008,Alm.,3800,3,Villa,100,1901,
+Pilevej 2 6862 Tistrup,2,1125000.0,15-08-2008,Alm.,7550,5,Villa,149,1974,-2 %
+Sønderkærvej 5 6862 Tistrup,5,14292000.0,13-08-2008,Alm.,75221,6,Stuehus,190,1900,959 %
+Bøgevej 15 6862 Tistrup,15,895000.0,18-07-2008,Alm.,6937,4,Villa,129,1973,0 %
+Storegade 21 6862 Tistrup,21,640000.0,15-07-2008,Fam.,0,8,Rækkehus,176,1942,
+Askevej 11 6862 Tistrup,11,1498000.0,03-07-2008,Alm.,6935,7,Villa,216,1976,0 %
+Bøgevej 10 6862 Tistrup,10,1085000.0,23-06-2008,Alm.,7750,4,Villa,140,1965,-1 %
+Lervadvej 47 6862 Tistrup,47,1265000.0,12-06-2008,Alm.,5750,6,Stuehus,220,1900,-2 %
+Søndergade 12A 6862 Tistrup,0,1645000.0,19-05-2008,Alm.,11750,3,Villa,140,1998,-3 %
+Poppelvej 6 6862 Tistrup,6,945000.0,13-05-2008,Alm.,7620,3,Villa,124,1973,
+Askevej 12 6862 Tistrup,12,1165000.0,24-04-2008,Alm.,8893,5,Villa,131,1977,
+Storegade 63 6862 Tistrup,63,910000.0,18-04-2008,Alm.,6107,5,Villa,149,1944,-9 %
+Kirke Allé 10 6862 Tistrup,10,321810.0,16-04-2008,Alm.,1363,6,Villa,236,2009,
+Nørrevang 10 6862 Tistrup,10,1662500.0,10-04-2008,Alm.,12314,5,Villa,135,1999,
+Vejlevej 46 6862 Tistrup,46,2334806.0,03-04-2008,Fam.,15991,6,Stuehus,146,1972,
+Storegade 79 6862 Tistrup,79,855000.0,16-03-2008,Alm.,9000,4,Villa,95,1954,-2 %
+Bøgevej 7 6862 Tistrup,7,935000.0,13-03-2008,Alm.,5632,4,Villa,166,1964,-3 %
+Højlundevej 3 6862 Tistrup,3,975000.0,13-03-2008,Alm.,8333,5,Villa,117,1900,-10 %
+Vejlevej 19 6862 Tistrup,19,365500.0,13-03-2008,Fam.,3263,4,Villa,112,1918,
+Birkevej 1 6862 Tistrup,1,850000.0,05-03-2008,Alm.,5059,6,Villa,168,1974,-15 %
+Møllegårdsvej 6 6862 Tistrup,6,1600000.0,11-02-2008,Alm.,9302,7,Villa,172,1974,
+Vejlevej 53 6862 Tistrup,53,4550000.0,08-02-2008,Alm.,32500,5,Stuehus,140,1964,
+Hornevej 4 6862 Tistrup,4,300000.0,07-02-2008,Alm.,2290,4,Villa,131,1943,
+Lervadvej 45 6862 Tistrup,45,7500000.0,06-02-2008,Fam.,47468,3,Stuehus,158,1934,
+Lervadvej 23 6862 Tistrup,23,985000.0,28-01-2008,Fam.,3940,8,Anden beboelse,250,1870,
+Nørrevang 14 6862 Tistrup,14,1450000.0,28-01-2008,Alm.,13181,3,Villa,110,1999,-3 %
+Nørrevang 4 6862 Tistrup,4,1475000.0,28-11-2007,Alm.,7525,7,Villa,196,1981,
+Storegade 85 6862 Tistrup,85,354000.0,28-11-2007,Alm.,1601,7,Villa,221,1927,
+Hornevej 2 6862 Tistrup,2,360000.0,23-11-2007,Fam.,5294,2,Villa,68,1900,
+Kastanievej 7 6862 Tistrup,7,1275000.0,12-11-2007,Alm.,6311,7,Villa,202,1967,
+Nordenskovvej 13 6862 Tistrup,13,1325000.0,12-11-2007,Alm.,13383,3,Stuehus,99,1938,-4 %
+Askevej 20 6862 Tistrup,20,1200000.0,02-11-2007,Alm.,8510,5,Villa,141,1981,-6 %
+Kirke Allé 18 6862 Tistrup,18,366192.0,10-10-2007,Alm.,1237,5,Villa,296,2008,
+Søndervang 11 6862 Tistrup,11,698000.0,09-10-2007,Alm.,7842,3,Rækkehus,89,1980,
+Søndergade 30 6862 Tistrup,30,585022.0,01-10-2007,Alm.,5679,6,Villa,103,1948,
+Søndergade 58 6862 Tistrup,58,350000.0,06-09-2007,Alm.,3977,3,Villa,88,1943,-30 %
+Vardevej 52 6862 Tistrup,52,800000.0,24-08-2007,Alm.,7272,3,Stuehus,110,1915,-3 %
+Engvej 6 6862 Tistrup,6,1595000.0,20-08-2007,Alm.,9327,5,Villa,171,1995,
+Søparken 2 6862 Tistrup,2,1590000.0,09-08-2007,Alm.,10743,6,Villa,148,1992,0 %
+Møllegårdsvej 16 6862 Tistrup,16,395818.0,03-08-2007,Alm.,3598,4,Villa,110,1979,
+Grødevej 49 6862 Tistrup,49,4954250.0,17-07-2007,Fam.,22622,6,Stuehus,219,1914,
+Askevej 1 6862 Tistrup,1,1235000.0,17-07-2007,Alm.,7967,5,Villa,155,1980,
+Hasselvej 6 6862 Tistrup,6,1235000.0,11-07-2007,Alm.,8697,6,Villa,142,1977,
+Vejlevej 15 6862 Tistrup,15,730000.0,10-07-2007,Alm.,7300,3,Villa,100,1993,-12 %
+Møllegårdsvej 5 6862 Tistrup,5,1150000.0,29-06-2007,Alm.,8846,3,Villa,130,1971,
+Letbækvej 3 6862 Tistrup,3,1295000.0,28-06-2007,Alm.,7993,4,Stuehus,162,1919,0 %
+Toften 8 6862 Tistrup,8,1500000.0,22-06-2007,Alm.,6578,6,Villa,228,1970,-2 %
+Bredhovej 2 6862 Tistrup,2,1648000.0,03-06-2007,Alm.,7559,7,Stuehus,218,1865,
+Hulvigvej 3 6862 Tistrup,3,795000.0,25-05-2007,Alm.,4732,8,Villa,168,1920,
+Møllegårdsvej 43 6862 Tistrup,43,1355000.0,11-05-2007,Alm.,9280,5,Villa,146,1979,
+Krarupvej 4 6862 Tistrup,4,1425000.0,23-04-2007,Alm.,7160,6,Villa,199,1897,-7 %
+Diget 4 6862 Tistrup,4,1530000.0,18-04-2007,Alm.,9870,5,Villa,155,1986,0 %
+Møllegade 16 6862 Tistrup,16,765000.0,31-03-2007,Alm.,5666,6,Villa,135,1912,
+Vardevej 24 6862 Tistrup,24,1265000.0,22-03-2007,Alm.,7270,6,Stuehus,174,1933,
+Rønnealle 4 6862 Tistrup,4,405000.0,20-03-2007,Alm.,2812,5,Villa,144,1902,-10 %
+Bøgevej 18 6862 Tistrup,18,487500.0,19-03-2007,Alm.,3808,5,Villa,128,1966,
+Sønderkærvej 1 6862 Tistrup,1,350000.0,09-03-2007,Alm.,4117,3,Villa,85,1968,
+Hulvigvej 16 6862 Tistrup,16,1400000.0,06-03-2007,Alm.,8333,6,Stuehus,168,1870,
+Elmelyvej 8 6862 Tistrup,8,891200.0,17-02-2007,Fam.,3205,8,Stuehus,278,1912,
+Storegade 67 6862 Tistrup,67,400000.0,30-01-2007,Alm.,5063,4,Rækkehus,79,1920,
+Pilevej 3 6862 Tistrup,3,895000.0,12-01-2007,Alm.,6485,4,Villa,138,1975,
+Nordenskovvej 12 6862 Tistrup,12,8500000.0,11-01-2007,Alm.,43147,7,Stuehus,197,1921,
+Agervej 6 6862 Tistrup,6,2500000.0,27-12-2006,Alm.,7936,5,Villa,315,2004,
+Storegade 43 6862 Tistrup,43,475000.0,21-11-2006,Alm.,5397,3,Villa,88,1904,
+Engvej 2 6862 Tistrup,2,116035.0,10-11-2006,Alm.,725,5,Villa,160,2008,
+Vardevej 39 6862 Tistrup,39,963469.0,26-10-2006,Alm.,8028,5,Villa,120,1961,
+Vardevej 40 6862 Tistrup,40,185000.0,09-10-2006,Alm.,0,3,Villa,112,1892,
+Lervadvej 40 6862 Tistrup,40,700000.0,04-09-2006,Alm.,3517,7,Stuehus,199,1899,
+Pilevej 4 6862 Tistrup,4,1050000.0,14-08-2006,Fam.,7894,4,Villa,133,1972,
+Grødevej 24 6862 Tistrup,24,21900000.0,08-08-2006,Alm.,89754,8,Stuehus,244,1878,
+Møllegade 15 6862 Tistrup,15,630000.0,31-07-2006,Auktion,3727,4,Rækkehus,169,1908,
+Vejlevej 51 6862 Tistrup,51,1100000.0,21-07-2006,Alm.,5288,10,Villa,208,1939,
+Kirke Allé 16 6862 Tistrup,16,462331.0,29-06-2006,Alm.,2785,4,Villa,166,2007,
+Kirke Allé 6 6862 Tistrup,6,353516.0,29-06-2006,Alm.,1578,7,Villa,224,2010,
+Møllegade 2 6862 Tistrup,2,695000.0,28-06-2006,Alm.,3619,5,Villa,192,1907,
+Bredhovej 1 6862 Tistrup,1,507291.0,26-06-2006,Alm.,2234,10,Stuehus,227,1923,
+Søndergade 56B 6862 Tistrup,0,1045000.0,20-06-2006,Alm.,6785,6,Rækkehus,154,1980,
+Storegade 62 6862 Tistrup,62,620000.0,12-06-2006,Alm.,4558,4,Rækkehus,136,1907,
+Elmelyvej 10 6862 Tistrup,10,2000000.0,11-06-2006,Alm.,7042,7,Stuehus,284,2010,
+Agervej 1 6862 Tistrup,1,712500.0,11-06-2006,Alm.,4266,5,Villa,167,1994,
+Vestervang 10 6862 Tistrup,10,253016.0,06-06-2006,Alm.,984,8,Villa,257,2010,
+Snorupvej 12 6862 Tistrup,12,1650000.0,29-05-2006,Alm.,9166,5,Stuehus,180,1876,
+Rønnealle 1 6862 Tistrup,1,600000.0,20-05-2006,Alm.,4166,4,Villa,144,1902,
+Poppelvej 4 6862 Tistrup,4,1315000.0,19-05-2006,Alm.,6202,5,Villa,212,1973,
+Vestervang 12 6862 Tistrup,12,258716.0,09-05-2006,Alm.,1119,8,Villa,231,2010,
+Hulvigvej 2 6862 Tistrup,2,1395000.0,03-05-2006,Alm.,9823,3,Villa,142,1959,
+Møllegårdsvej 13 6862 Tistrup,13,898000.0,28-04-2006,Alm.,6067,5,Villa,148,1979,
+Agervej 13 6862 Tistrup,13,128698.0,26-04-2006,Alm.,684,4,Villa,188,2007,
+Poppelvej 10 6862 Tistrup,10,1250000.0,07-04-2006,Alm.,5530,8,Villa,226,1973,
+Bjerremosevej 52 6862 Tistrup,52,560000.0,06-04-2006,Alm.,4307,6,Stuehus,130,1902,
+Hulvigvej 20 6862 Tistrup,20,700000.0,01-04-2006,Alm.,5468,3,Stuehus,128,1915,
+Toften 4 6862 Tistrup,4,925000.0,24-03-2006,Alm.,6045,4,Villa,153,1970,
+Møllegade 12 6862 Tistrup,12,850000.0,12-03-2006,Alm.,6800,7,Villa,125,1912,
+Mosebjergvej 2 6862 Tistrup,2,538866.0,16-02-2006,Fam.,2438,7,Villa,221,1910,
+Krarupvej 12 6862 Tistrup,12,385000.0,08-02-2006,Alm.,6015,3,Villa,64,1910,
+Grødevej 32 6862 Tistrup,32,213462.0,19-01-2006,Alm.,1129,8,Stuehus,189,1936,
+Vejlevej 3 6862 Tistrup,3,225000.0,21-12-2005,Alm.,0,2,Villa,99,1918,
+Hornevej 12 6862 Tistrup,12,460000.0,18-12-2005,Alm.,4509,3,Villa,102,1961,
+Vejlevej 28 6862 Tistrup,28,527500.0,01-12-2005,Alm.,7326,3,Villa,72,1933,
+Vardevej 37 6862 Tistrup,37,365000.0,25-11-2005,Alm.,4055,2,Villa,90,1959,
+Søndergade 15 6862 Tistrup,15,1050000.0,08-11-2005,Alm.,6325,5,Villa,166,1917,
+Storegade 69 6862 Tistrup,69,500000.0,05-11-2005,Alm.,4629,4,Rækkehus,108,1926,
+Storegade 44 6862 Tistrup,44,241055.0,26-10-2005,Alm.,1734,6,Villa,139,1920,
+Akacievej 10 6862 Tistrup,10,1062000.0,11-10-2005,Alm.,5932,6,Villa,179,1976,
+Agervej 7 6862 Tistrup,7,99808.0,23-08-2005,Alm.,627,5,Villa,159,2008,
+Møllegårdsvej 27 6862 Tistrup,27,550000.0,22-08-2005,Alm.,4824,4,Villa,114,1979,
+Vejlevej 17 6862 Tistrup,17,100000.0,10-08-2005,Alm.,1063,5,Villa,94,1946,
+Agervej 5 6862 Tistrup,5,121987.0,21-07-2005,Alm.,726,5,Villa,168,2007,
+Sønderkærvej 7 6862 Tistrup,7,507143.0,19-07-2005,Andet,2726,7,Stuehus,186,1878,
+Ahornvej 7 6862 Tistrup,7,988000.0,12-07-2005,Alm.,7967,4,Villa,124,1973,
+Vejlevej 11 6862 Tistrup,11,645000.0,18-04-2005,Alm.,0,8,Stuehus,217,1907,
+Birkevej 12 6862 Tistrup,12,1030000.0,07-04-2005,Alm.,5309,5,Villa,194,1973,
+Møllegårdsvej 2 6862 Tistrup,2,975000.0,22-03-2005,Alm.,5945,5,Villa,164,1972,
+Storegade 38 6862 Tistrup,38,652256.0,12-03-2005,Alm.,5176,4,Rækkehus,126,1900,
+Møllegårdsvej 17 6862 Tistrup,17,780000.0,01-03-2005,Alm.,6093,4,Villa,128,1980,
+Nørrevang 1 6862 Tistrup,1,1125000.0,23-02-2005,Alm.,8720,4,Villa,129,1997,
+Søparken 24 6862 Tistrup,24,775000.0,18-02-2005,Alm.,6858,4,Villa,113,1980,
+Tøndingvej 1 6862 Tistrup,1,850000.0,18-02-2005,Alm.,6800,4,Stuehus,125,1970,
+Snorupvej 9 6862 Tistrup,9,1400000.0,16-02-2005,Alm.,9210,6,Stuehus,152,1963,
+Vejlevej 37 6862 Tistrup,37,384450.0,24-01-2005,Alm.,3258,5,Stuehus,118,1868,
+Agervej 12 6862 Tistrup,12,112933.0,04-01-2005,Alm.,638,4,Villa,177,2006,
+Krarupvej 1 6862 Tistrup,1,1150000.0,03-01-2005,Alm.,6534,6,Villa,176,1976,
+Søparken 20 6862 Tistrup,20,1075000.0,11-11-2004,Alm.,5718,4,Villa,188,1980,
+Baldersvej 16 6862 Tistrup,16,765000.0,11-11-2004,Alm.,5312,5,Villa,144,1978,
+Storegade 72 6862 Tistrup,72,572000.0,18-10-2004,Fam.,4650,4,Villa,123,1904,
+Grødevej 40 6862 Tistrup,40,427608.0,23-09-2004,Alm.,2758,5,Stuehus,155,1927,
+Storegade 32 6862 Tistrup,32,700000.0,07-09-2004,Alm.,2941,6,Villa,238,1900,
+Søndergade 16 6862 Tistrup,16,1075000.0,12-07-2004,Alm.,6677,5,Villa,161,1909,
+Vejlevej 16 6862 Tistrup,16,375000.0,18-06-2004,Alm.,3024,3,Villa,124,1945,
+Skolevej 12 6862 Tistrup,12,595000.0,11-06-2004,Alm.,4250,4,Villa,140,1953,
+Bøgevej 13 6862 Tistrup,13,437500.0,04-05-2004,Fam.,4375,3,Villa,100,1964,
+Poppelvej 3 6862 Tistrup,3,722500.0,22-04-2004,Fam.,4914,5,Villa,147,1975,
+Kastanievej 20 6862 Tistrup,20,785000.0,01-04-2004,Alm.,5772,5,Villa,136,1976,
+Yderikvej 35 6862 Tistrup,35,1100000.0,01-04-2004,Alm.,5729,4,Villa,192,1964,
+Lærkevej 21 6862 Tistrup,21,810000.0,30-03-2004,Alm.,4263,7,Villa,190,1915,
+Elmevej 1 6862 Tistrup,1,620000.0,05-03-2004,Alm.,5344,4,Villa,116,1972,
+Søndergade 42 6862 Tistrup,42,675000.0,04-03-2004,Alm.,0,5,Villa,160,1938,
+Hornevej 8 6862 Tistrup,8,206217.0,27-02-2004,Alm.,2041,3,Villa,101,1957,
+Letbækvej 6 6862 Tistrup,6,580000.0,17-02-2004,Fam.,3135,7,Villa,185,1934,
+Tistrupvej 3 6862 Tistrup,3,747418.0,12-02-2004,Alm.,4422,4,Stuehus,169,1910,
+Storegade 56 6862 Tistrup,56,90000.0,19-01-2004,Auktion,1363,3,Rækkehus,66,1926,
+Toften 6 6862 Tistrup,6,1020000.0,15-01-2004,Alm.,4232,11,Villa,241,1967,
+Møllegade 11 6862 Tistrup,11,600000.0,15-01-2004,Alm.,4411,5,Villa,136,1905,
+Ahornvej 5 6862 Tistrup,5,1400000.0,10-12-2003,Fam.,6422,5,Villa,218,1974,
+Odinsvej 2 6862 Tistrup,2,615000.0,28-11-2003,Alm.,3993,4,Villa,154,1978,
+Grødevej 36 6862 Tistrup,36,680000.0,09-11-2003,Alm.,3597,5,Stuehus,189,2006,
+Søndergade 34 6862 Tistrup,34,255000.0,08-11-2003,Alm.,2297,4,Villa,111,1947,
+Baldersvej 6 6862 Tistrup,6,900000.0,30-09-2003,Alm.,4522,6,Villa,199,1978,
+Vestervang 14 6862 Tistrup,14,268595.0,25-09-2003,Alm.,1188,7,Villa,226,2004,
+Lærkevej 5 6862 Tistrup,5,540000.0,15-09-2003,Alm.,4655,4,Villa,116,1971,
+Storegade 49 6862 Tistrup,49,575000.0,04-09-2003,Alm.,4791,4,Villa,120,1911,
+Bredhovej 7 6862 Tistrup,7,300000.0,01-09-2003,Alm.,1107,5,Villa,271,2011,
+Baldersvej 8 6862 Tistrup,8,765000.0,29-08-2003,Alm.,5751,6,Villa,133,1977,
+Vestervang 7 6862 Tistrup,7,675000.0,04-05-2003,Alm.,3443,6,Villa,196,1944,
+Rønnealle 3 6862 Tistrup,3,665000.0,12-04-2003,Alm.,4463,6,Villa,149,1918,
+Hasselvej 17 6862 Tistrup,17,730000.0,06-04-2003,Fam.,7019,4,Villa,104,1977,
+Diget 2 6862 Tistrup,2,713767.0,21-03-2003,Fam.,0,5,Villa,193,1986,
+Tøndingvej 3 6862 Tistrup,3,850000.0,26-02-2003,Fam.,5029,7,Stuehus,169,1926,
+"Jernbanegade 1, 2. TH 6862 Tistrup",0,280000.0,12-02-2003,Alm.,4000,3,Lejlighed,70,1900,
+Søndervang 14 6862 Tistrup,14,610000.0,07-02-2003,Alm.,5648,3,Villa,108,1977,
+Møllegårdsvej 35 6862 Tistrup,35,435000.0,01-02-2003,Alm.,2959,5,Villa,147,1979,
+"Storegade 2, 2 6862 Tistrup",2,200000.0,31-01-2003,Alm.,3225,3,Lejlighed,62,1900,
+Møllegårdsvej 61 6862 Tistrup,61,737500.0,29-01-2003,Alm.,5545,3,Villa,133,1979,
+Bøgevej 8 6862 Tistrup,8,700000.0,21-01-2003,Alm.,4575,4,Villa,153,1965,
+"Storegade 81, ST 6862 Tistrup",0,940000.0,19-12-2002,Alm.,8545,6,Villa,110,1933,
+Tistrup Kirkevej 4 6862 Tistrup,4,301000.0,09-12-2002,Auktion,2663,4,Villa,113,1973,
+Agervej 14 6862 Tistrup,14,1655000.0,05-12-2002,Alm.,9043,5,Villa,183,2000,
+Engvej 1 6862 Tistrup,1,721417.0,04-12-2002,Fam.,4146,6,Villa,174,1995,
+Toften 2 6862 Tistrup,2,639204.0,29-11-2002,Alm.,3760,4,Villa,170,1969,
+Hulvigvej 1 6862 Tistrup,1,376345.0,27-08-2002,Fam.,4276,3,Villa,88,1946,
+Storegade 55 6862 Tistrup,55,375000.0,20-03-2002,Alm.,1595,6,Villa,235,1903,
+Nørrevang 9 6862 Tistrup,9,130000.0,19-01-2002,Alm.,448,7,Villa,290,2002,
+Søndervang 5 6862 Tistrup,5,477500.0,11-01-2002,Alm.,5365,3,Rækkehus,89,1980,
+Nørrevang 16 6862 Tistrup,16,975000.0,17-12-2001,Alm.,8783,3,Villa,111,1998,
+Vejlevej 40 6862 Tistrup,40,2415000.0,26-10-2001,Fam.,10276,10,Stuehus,235,1830,
+Møllegade 21 6862 Tistrup,21,341432.0,07-09-2001,Andet,2845,4,Rækkehus,120,1908,
+Ahornvej 3 6862 Tistrup,3,745000.0,02-08-2001,Alm.,0,5,Villa,153,1976,
+Engvej 5 6862 Tistrup,5,1170000.0,13-07-2001,Alm.,8602,6,Villa,136,1995,
+Møllegade 10 6862 Tistrup,10,450000.0,03-07-2001,Alm.,3571,5,Villa,126,1927,
+Baldersvej 26 6862 Tistrup,26,700000.0,02-07-2001,Alm.,5343,4,Villa,131,1978,
+Letbækvej 23 6862 Tistrup,23,623578.0,15-06-2001,Alm.,2219,11,Villa,281,1909,
+Søndervang 22 6862 Tistrup,22,780000.0,18-05-2001,Alm.,5200,6,Villa,150,1967,
+Bredhovej 11 6862 Tistrup,11,4628381.0,05-05-2001,Fam.,18738,8,Stuehus,247,2004,
+Pilevej 7 6862 Tistrup,7,730000.0,20-03-2001,Alm.,5447,4,Villa,134,1973,
+Tistrup Kirkevej 13 6862 Tistrup,13,850000.0,22-11-2000,Alm.,3207,5,Villa,265,2010,
+Søparken 8 6862 Tistrup,8,975000.0,02-11-2000,Alm.,5909,2,Villa,165,1981,
+Nørrevang 12 6862 Tistrup,12,96250.0,30-10-2000,Alm.,687,5,Villa,140,2000,
+Søndergade 26 6862 Tistrup,26,670061.0,25-10-2000,Alm.,0,8,Villa,191,1995,
+Storegade 73 6862 Tistrup,73,332548.0,10-10-2000,Alm.,3325,4,Villa,100,1953,
+Søparken 6 6862 Tistrup,6,650000.0,03-10-2000,Alm.,5555,4,Villa,117,1980,
+"Møllegade 1, 1 6862 Tistrup",1,615000.0,20-09-2000,Alm.,7151,5,Anden beboelse,86,1916,
+Vejlevej 49 6862 Tistrup,49,337232.0,01-09-2000,Andet,2676,6,Stuehus,126,1907,
+Agerkrogvej 13 6862 Tistrup,13,1369000.0,15-08-2000,Alm.,5265,4,Stuehus,260,1964,
+Vejlevej 10 6862 Tistrup,10,520000.0,14-08-2000,Alm.,4444,4,Villa,117,1923,
+Søndergade 22 6862 Tistrup,22,825000.0,14-07-2000,Alm.,0,4,Villa,169,1962,
+Møllegade 6 6862 Tistrup,6,670000.0,22-06-2000,Alm.,5037,4,Villa,133,1911,
+Agervej 16 6862 Tistrup,16,266900.0,03-05-2000,Alm.,1507,5,Villa,177,2004,
+Agervej 4 6862 Tistrup,4,158270.0,16-03-2000,Alm.,942,4,Villa,168,2000,
+Lærkevej 3B 6862 Tistrup,0,625000.0,11-03-2000,Alm.,6009,4,Villa,104,1967,
+Vejlevej 5 6862 Tistrup,5,362898.0,24-02-2000,Alm.,0,6,Villa,160,1903,
+Tistrup Kirkevej 7 6862 Tistrup,7,1275000.0,07-01-2000,Alm.,15937,13,Servicevirksomhed,80,1905,
+Ahornvej 14 6862 Tistrup,14,645515.0,08-12-1999,Alm.,5291,4,Villa,122,1974,
+Ahornvej 6 6862 Tistrup,6,749300.0,01-12-1999,Alm.,6459,4,Villa,116,1973,
+Pilevej 6 6862 Tistrup,6,611172.0,05-11-1999,Alm.,0,5,Villa,170,1973,
+Snorupvej 14 6862 Tistrup,14,9200000.0,27-10-1999,Alm.,56441,6,Stuehus,163,1915,
+Søndergade 48 6862 Tistrup,48,682665.0,04-10-1999,Alm.,7340,5,Villa,93,1942,
+Storegade 36 6862 Tistrup,36,417441.0,24-09-1999,Alm.,4853,3,Villa,86,1900,
+Askevej 10 6862 Tistrup,10,693935.0,02-09-1999,Alm.,6485,4,Villa,107,1976,
+Bøgevej 24 6862 Tistrup,24,707198.0,24-06-1999,Alm.,5993,4,Villa,118,1972,
+Søndermarksvej 4 6862 Tistrup,4,297438.0,08-06-1999,Alm.,0,7,Villa,182,1957,
+Søndervang 13 6862 Tistrup,13,515000.0,27-05-1999,Alm.,5786,3,Rækkehus,89,1980,
+Agervej 8 6862 Tistrup,8,220830.0,06-05-1999,Alm.,1269,4,Villa,174,1999,
+Vejlevej 22 6862 Tistrup,22,375000.0,23-04-1999,Alm.,4166,3,Villa,90,1969,
+Haugegårdvej 3 6862 Tistrup,3,6554074.0,03-03-1999,Alm.,23241,8,Stuehus,282,1903,
+Højlundevej 1 6862 Tistrup,1,545615.0,13-11-1998,Alm.,4262,4,Villa,128,1952,
+Hasselvej 13 6862 Tistrup,13,875000.0,25-09-1998,Alm.,6679,4,Villa,131,1978,
+Søndervang 9 6862 Tistrup,9,415000.0,14-04-1998,Alm.,4662,3,Rækkehus,89,1980,
+Hetoftevej 2 6862 Tistrup,2,850000.0,23-02-1998,Fam.,7589,5,Stuehus,112,1878,
+Grødevej 30 6862 Tistrup,30,1050000.0,18-02-1998,Alm.,6562,6,Stuehus,160,1891,
+Møllegade 13 6862 Tistrup,13,494146.0,05-02-1998,Alm.,2246,6,Rækkehus,220,1905,
+Nørrevang 8 6862 Tistrup,8,123505.0,02-02-1998,Alm.,840,5,Villa,147,1999,
+Søparken 5 6862 Tistrup,5,400000.0,01-02-1998,Alm.,3448,3,Villa,116,1985,
+Skolevej 10 6862 Tistrup,10,685000.0,26-01-1998,Alm.,0,7,Villa,201,1972,
+Uhrevej 11 6862 Tistrup,11,519600.0,21-01-1998,Alm.,2249,4,Villa,231,1926,
+Yderikvej 27 6862 Tistrup,27,485784.0,20-01-1998,Alm.,2302,6,Stuehus,211,1938,
+Bredhovej 8 6862 Tistrup,8,412179.0,19-01-1998,Alm.,2498,5,Stuehus,165,1983,
+Bredhovej 10 6862 Tistrup,10,4170000.0,04-11-1997,Alm.,18699,6,Stuehus,223,1909,
+Birkevej 6 6862 Tistrup,6,644000.0,31-10-1997,Alm.,4380,5,Villa,147,1973,
+Uhrevej 5 6862 Tistrup,5,225000.0,03-10-1997,Alm.,1923,4,Villa,117,1962,
+Diget 11 6862 Tistrup,11,994445.0,15-09-1997,Alm.,6905,5,Villa,144,1987,
+Krarupvej 21 6862 Tistrup,21,894173.0,02-09-1997,Alm.,4383,9,Stuehus,204,1880,
+Letbækvej 35 6862 Tistrup,35,700000.0,04-07-1997,Fam.,4605,7,Stuehus,152,1900,
+Baldersvej 2 6862 Tistrup,2,710000.0,01-07-1997,Alm.,5503,4,Villa,129,1977,
+Højlundevej 4 6862 Tistrup,4,337500.0,30-06-1997,Alm.,0,5,Villa,131,1905,
+Letbækvej 32 6862 Tistrup,32,572555.0,11-06-1997,Alm.,2236,6,Stuehus,256,2011,
+Bjerremosevej 49 6862 Tistrup,49,500000.0,09-06-1997,Alm.,2631,6,Stuehus,190,1908,
+Toften 3 6862 Tistrup,3,532000.0,12-05-1997,Fam.,0,3,Villa,136,1969,
+Letbækvej 36 6862 Tistrup,36,889000.0,12-05-1997,Alm.,4994,8,Stuehus,178,1976,
+Hornevej 14 6862 Tistrup,14,360000.0,27-04-1997,Alm.,0,5,Villa,141,1957,
+Letbækvej 34 6862 Tistrup,34,547121.0,21-02-1997,Alm.,1683,5,Stuehus,325,2011,
+Hesseldalvej 5 6862 Tistrup,5,238000.0,04-02-1997,Alm.,1293,7,Stuehus,184,1776,
+Askevej 3 6862 Tistrup,3,715000.0,01-12-1996,Alm.,5416,6,Villa,132,1976,
+Nørrevang 11 6862 Tistrup,11,76809.0,18-11-1996,Alm.,529,3,Villa,145,1997,
+Nørrevang 7 6862 Tistrup,7,133970.0,02-09-1996,Alm.,0,4,Villa,137,1997,
+Storegade 9 6862 Tistrup,9,400000.0,25-05-1996,Alm.,4705,4,Villa,85,1897,
+Storegade 30 6862 Tistrup,30,303000.0,01-04-1996,Alm.,4040,3,Villa,75,1920,
+Søparken 11 6862 Tistrup,11,765000.0,13-01-1996,Alm.,4135,5,Villa,185,1984,
+Hornevej 21 6862 Tistrup,21,988000.0,03-01-1996,Alm.,5311,5,Stuehus,186,1909,
+Sønderkærvej 9 6862 Tistrup,9,865000.0,26-12-1995,Alm.,8317,5,Stuehus,104,1937,
+Tøndingvej 2 6862 Tistrup,2,61538.0,30-11-1995,Alm.,359,6,Stuehus,171,1993,
+Møllegårdsvej 53 6862 Tistrup,53,821585.0,11-11-1995,Alm.,4256,6,Villa,193,1979,
+Søndergade 5 6862 Tistrup,5,398000.0,25-09-1995,Alm.,3133,3,Villa,127,1905,
+Vardevej 51 6862 Tistrup,51,412020.0,01-09-1995,Alm.,3052,5,Villa,135,1940,
+Akacievej 16 6862 Tistrup,16,850000.0,20-06-1995,Alm.,5345,5,Villa,159,1979,
+Vardevej 23 6862 Tistrup,23,675500.0,11-06-1995,Alm.,3950,6,Villa,171,1910,
+Bøgevej 28 6862 Tistrup,28,1065890.0,09-05-1995,Alm.,3416,8,Villa,312,1974,
+Agerkrogvej 1B 6862 Tistrup,0,435000.0,10-04-1995,Alm.,0,7,Villa,204,1970,
+Kastanievej 21 6862 Tistrup,21,900000.0,24-02-1995,Alm.,6716,5,Villa,134,1988,
+Bøgevej 5 6862 Tistrup,5,515000.0,02-02-1995,Alm.,0,4,Villa,117,1964,
+Uhrevej 9 6862 Tistrup,9,933000.0,30-01-1995,Alm.,4442,6,Stuehus,210,1858,
+Agerkrogvej 1A 6862 Tistrup,0,257000.0,30-12-1994,Alm.,829,7,Villa,310,1997,
+Baldersvej 4 6862 Tistrup,4,755010.0,10-11-1994,Alm.,3871,7,Villa,195,1978,
+Grødevej 43 6862 Tistrup,43,721000.0,24-10-1994,Alm.,5150,4,Stuehus,140,1870,
+Agervej 3 6862 Tistrup,3,99762.0,10-10-1994,Alm.,767,4,Villa,130,1995,
+Søndervang 8A 6862 Tistrup,0,480000.0,02-10-1994,Alm.,4137,4,Villa,116,1968,
+Baldersvej 12 6862 Tistrup,12,541835.0,21-09-1994,Alm.,5160,4,Villa,105,1978,
+Mosebjergvej 1 6862 Tistrup,1,280000.0,19-08-1994,Alm.,0,7,Stuehus,140,1860,
+Storegade 42 6862 Tistrup,42,366775.0,19-07-1994,Alm.,0,3,Villa,100,1878,
+Søndervang 1 6862 Tistrup,1,166600.0,04-07-1994,Alm.,2346,4,Villa,71,1944,
+Hornevej 10 6862 Tistrup,10,691000.0,08-06-1994,Alm.,3561,6,Villa,194,1974,
+Storegade 54 6862 Tistrup,54,270000.0,27-04-1994,Alm.,2160,5,Villa,125,1904,
+Diget 16 6862 Tistrup,16,59150.0,21-04-1994,Alm.,448,5,Villa,132,1995,
+Diget 14 6862 Tistrup,14,61950.0,30-03-1994,Alm.,309,6,Villa,200,1998,
+Diget 7 6862 Tistrup,7,58772.0,29-03-1994,Alm.,416,5,Villa,141,1995,
+Skolevej 3 6862 Tistrup,3,340000.0,29-03-1994,Alm.,0,8,Villa,184,1941,
+Storegade 48 6862 Tistrup,48,350000.0,17-01-1994,Alm.,2536,6,Villa,138,1931,
+Møllegårdsvej 55 6862 Tistrup,55,650000.0,13-12-1993,Alm.,0,5,Villa,150,1978,
+Poppelvej 8 6862 Tistrup,8,530000.0,19-11-1993,Alm.,0,4,Villa,110,1973,
+Engvej 7 6862 Tistrup,7,96280.0,11-11-1993,Alm.,668,5,Villa,144,1994,
+Engvej 13 6862 Tistrup,13,105080.0,11-11-1993,Alm.,648,5,Villa,162,1995,
+Bredhovej 9 6862 Tistrup,9,317369.0,30-10-1993,Alm.,1193,9,Villa,266,1900,
+Engvej 3 6862 Tistrup,3,94600.0,29-10-1993,Alm.,829,4,Villa,114,1995,
+Engvej 9 6862 Tistrup,9,100280.0,25-10-1993,Alm.,560,7,Villa,179,1994,
+Akacievej 14 6862 Tistrup,14,795000.0,25-10-1993,Alm.,3412,8,Villa,233,1976,
+Diget 5 6862 Tistrup,5,898000.0,26-09-1993,Alm.,6193,5,Villa,145,1987,
+Nørrevang 3 6862 Tistrup,3,350000.0,13-09-1993,Alm.,0,4,Villa,114,1981,
+Grødevej 45 6862 Tistrup,45,340000.0,09-06-1993,Alm.,2931,5,Stuehus,116,1885,
+Kølhusvej 6 6862 Tistrup,6,260000.0,05-05-1993,Alm.,2184,4,Villa,119,1961,
+Letbækvej 42 6862 Tistrup,42,347040.0,22-04-1993,Alm.,1855,9,Stuehus,187,1906,
+Askevej 9 6862 Tistrup,9,420000.0,01-04-1993,Alm.,0,5,Villa,156,1976,
+Engholmvej 5 6862 Tistrup,5,255000.0,05-02-1993,Alm.,1275,6,Stuehus,200,1895,
+Søndergade 56A 6862 Tistrup,0,280000.0,26-01-1993,Alm.,3146,3,Villa,89,1980,
+Søparken 18 6862 Tistrup,18,625000.0,16-12-1992,Alm.,3238,6,Villa,193,1982,
+Elmevej 8 6862 Tistrup,8,650000.0,02-11-1992,Alm.,0,5,Villa,180,1968,
+Bjerremosevej 35 6862 Tistrup,35,825000.0,28-10-1992,Alm.,6875,4,Stuehus,120,1892,
+Søndergade 50 6862 Tistrup,50,390000.0,18-10-1992,Alm.,0,5,Villa,175,1942,
+Rønnealle 8 6862 Tistrup,8,500000.0,04-09-1992,Alm.,2808,4,Villa,178,1971,
+Storegade 41 6862 Tistrup,41,230000.0,04-09-1992,Alm.,2875,3,Rækkehus,80,1900,
+Bredhovej 15 6862 Tistrup,15,1425000.0,29-06-1992,Fam.,8005,5,Stuehus,178,1948,
+Hulvigvej 5 6862 Tistrup,5,665000.0,22-06-1992,Alm.,4156,5,Villa,160,1980,
+Jernbanegade 5A 6862 Tistrup,0,2000000.0,29-05-1992,Alm.,14084,6,Villa,142,1933,
+Sønderkærvej 4 6862 Tistrup,4,420000.0,02-05-1992,Alm.,3360,4,Villa,125,1934,
+Storegade 31 6862 Tistrup,31,510000.0,10-04-1992,Fam.,2512,6,Rækkehus,203,1918,
+Storegade 47 6862 Tistrup,47,150000.0,18-03-1992,Alm.,1048,7,Villa,143,1940,
+Baldersvej 10 6862 Tistrup,10,714822.0,05-03-1992,Alm.,0,7,Villa,220,1977,
+Storegade 45 6862 Tistrup,45,468921.0,02-03-1992,Alm.,2930,8,Villa,160,1910,
+Bredhovej 16 6862 Tistrup,16,1100000.0,02-03-1992,Alm.,0,6,Stuehus,207,1911,
+Vejlevej 39 6862 Tistrup,39,603750.0,22-02-1992,Alm.,3821,5,Villa,158,1900,
+Thorsvej 5 6862 Tistrup,5,740000.0,09-01-1992,Alm.,5481,5,Villa,135,1978,

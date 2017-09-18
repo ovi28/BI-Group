@@ -1,0 +1,941 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Tystrupvej 23 4250 Fuglebjerg,23,2763963.0,21-04-2017,Alm.,11711,6,Villa,236,1976,
+Røgeskovvej 3 4250 Fuglebjerg,3,2310895.0,04-04-2017,Alm.,21008,4,Stuehus,110,1860,
+Rejnstrupvej 1 4250 Fuglebjerg,1,899008.0,29-03-2017,Andet,3699,7,Stuehus,243,1800,
+Glentevænget 7 4250 Fuglebjerg,7,1135000.0,25-03-2017,Alm.,9956,4,Villa,114,1977,-3 %
+Kærsangervej 3 4250 Fuglebjerg,3,653236.0,20-03-2017,Alm.,4474,4,Villa,146,1973,
+Kirkestræde 8 4250 Fuglebjerg,8,985000.0,17-03-2017,Alm.,9949,3,Villa,99,1959,-1 %
+Sneslevvej 13 4250 Fuglebjerg,13,598000.0,06-03-2017,Alm.,6361,3,Villa,94,1775,0 %
+Mågevej 11 4250 Fuglebjerg,11,1060000.0,28-02-2017,Alm.,9217,4,Villa,115,1977,-2 %
+Grængebjergvej 12 4250 Fuglebjerg,12,1995000.0,20-02-2017,Alm.,8312,9,Villa,240,1877,0 %
+Slagelsevej 5 4250 Fuglebjerg,5,350000.0,20-02-2017,Alm.,3240,4,Villa,108,1880,-11 %
+Margrethevej 17 4250 Fuglebjerg,17,1100000.0,17-02-2017,Alm.,6666,4,Villa,165,1967,-6 %
+Kirkevej 14 4250 Fuglebjerg,14,913622.0,02-02-2017,Alm.,7808,5,Villa,117,1968,
+Dalsgårdsvej 19 4250 Fuglebjerg,19,2445000.0,26-01-2017,Alm.,11372,6,Villa,215,2006,-2 %
+Krummerupvej 50 4250 Fuglebjerg,50,927725.0,24-01-2017,Alm.,8835,3,Villa,105,1880,
+Korsørvej 30 4250 Fuglebjerg,30,876500.0,23-01-2017,Andet,3506,9,Villa,250,1930,-41 %
+Krogvej 1 4250 Fuglebjerg,1,2500000.0,20-01-2017,Alm.,9960,5,Stuehus,251,1877,-12 %
+Haldagermaglevej 16A 4250 Fuglebjerg,0,1300000.0,13-01-2017,Alm.,11016,4,Villa,118,1977,-3 %
+Rugkrogvej 12 4250 Fuglebjerg,12,5200000.0,05-01-2017,Alm.,24186,5,Stuehus,215,1855,1 %
+Rosenvænget 2 4250 Fuglebjerg,2,449000.0,27-12-2016,Fam.,3507,5,Villa,128,1969,
+Erik Bøghs Vej 9 4250 Fuglebjerg,9,875000.0,14-12-2016,Alm.,7954,3,Villa,110,1962,-5 %
+Parkvej 6 4250 Fuglebjerg,6,1450000.0,12-12-2016,Alm.,12288,7,Villa,118,1941,-3 %
+Dalsgårdsvej 62 4250 Fuglebjerg,62,1135000.0,12-12-2016,Alm.,8224,4,Villa,138,1986,-9 %
+Rødkælkevej 9 4250 Fuglebjerg,9,621000.0,30-11-2016,Fam.,3089,4,Villa,201,1976,
+Dalsgårdsvej 70 4250 Fuglebjerg,70,1050000.0,23-11-2016,Alm.,8823,4,Villa,119,1987,
+Lærkevej 16 4250 Fuglebjerg,16,1075000.0,21-11-2016,Alm.,7214,5,Villa,149,1973,0 %
+Margrethevej 28 4250 Fuglebjerg,28,625000.0,14-11-2016,Alm.,6578,3,Villa,95,1966,-10 %
+Margrethevej 16 4250 Fuglebjerg,16,750000.0,12-11-2016,Alm.,3947,7,Villa,190,1965,-14 %
+Stjernelunden 7 4250 Fuglebjerg,7,2195000.0,09-11-2016,Andet,13980,5,Villa,157,2011,
+Sneslevvej 17 4250 Fuglebjerg,17,1050000.0,21-10-2016,Alm.,6140,5,Villa,171,1907,-4 %
+Benediktevej 2 4250 Fuglebjerg,2,825000.0,04-10-2016,Alm.,5892,3,Villa,140,1970,-6 %
+Tystrupvej 31 4250 Fuglebjerg,31,995000.0,03-10-2016,Alm.,9950,3,Villa,100,1959,0 %
+Lærkevej 19 4250 Fuglebjerg,19,1257500.0,30-09-2016,Alm.,10141,4,Villa,124,1972,-7 %
+Sneslevvej 83 4250 Fuglebjerg,83,365000.0,21-09-2016,Alm.,1520,5,Villa,240,1870,-8 %
+Dalsgårdsvej 133 4250 Fuglebjerg,133,1700000.0,04-09-2016,Alm.,10000,5,Villa,170,2008,
+Falkevej 1 4250 Fuglebjerg,1,1700000.0,04-09-2016,Alm.,9289,4,Villa,183,1989,
+Stjernelunden 1 4250 Fuglebjerg,1,1545000.0,30-08-2016,Alm.,13093,4,Villa,118,2005,0 %
+Sandvedvej 57 4250 Fuglebjerg,57,1125000.0,30-08-2016,Alm.,9146,4,Villa,123,1878,-6 %
+Dalsgårdsvej 1 4250 Fuglebjerg,1,1020000.0,25-08-2016,Alm.,7285,4,Villa,140,1979,-11 %
+Nortvedvej 1 4250 Fuglebjerg,1,1295000.0,25-08-2016,Alm.,7993,7,Villa,162,1913,0 %
+Dyres Kvarter 43 4250 Fuglebjerg,43,1300000.0,24-08-2016,Alm.,8024,4,Villa,162,2009,-4 %
+Dalsgårdsvej 54 4250 Fuglebjerg,54,650000.0,23-08-2016,Alm.,6435,3,Rækkehus,101,1980,-5 %
+Sorøvej 43 4250 Fuglebjerg,43,745000.0,17-08-2016,Alm.,7680,4,Villa,97,1878,0 %
+Fasanvej 1 4250 Fuglebjerg,1,1500000.0,10-07-2016,Alm.,10416,5,Villa,144,1975,-3 %
+Indre Krummerupvej 34 4250 Fuglebjerg,34,2004000.0,06-07-2016,Alm.,10547,6,Villa,190,1970,-2 %
+Sorøvej 36 4250 Fuglebjerg,36,1943250.0,30-06-2016,Fam.,11566,7,Stuehus,168,1880,
+Sandvedvej 9 4250 Fuglebjerg,9,400000.0,29-06-2016,Alm.,8000,7,Engroshandel,50,1903,
+Rugkrogvej 8 4250 Fuglebjerg,8,1100000.0,24-06-2016,Alm.,5612,6,Villa,196,1920,
+Dalsgårdsvej 12 4250 Fuglebjerg,12,1200000.0,21-06-2016,Alm.,7453,5,Villa,161,1981,-7 %
+Haldager Mark Vej 6 4250 Fuglebjerg,6,1100000.0,15-06-2016,Alm.,8461,6,Stuehus,130,1964,
+Sorøvej 16 4250 Fuglebjerg,16,270000.0,14-06-2016,Alm.,3857,3,Villa,70,1890,-8 %
+Sneslevvej 38 4250 Fuglebjerg,38,1075000.0,10-06-2016,Alm.,6891,6,Villa,156,1890,0 %
+Erik Bøghs Vej 21 4250 Fuglebjerg,21,830000.0,07-06-2016,Alm.,6859,4,Villa,121,1963,-7 %
+Kirkestræde 14 4250 Fuglebjerg,14,475000.0,07-06-2016,Auktion,5219,2,Villa,91,1880,
+Anne Marie Vej 4 4250 Fuglebjerg,4,1245000.0,17-05-2016,Alm.,6073,5,Villa,205,1965,0 %
+Fuglebjerglundvej 22 4250 Fuglebjerg,22,300000.0,13-05-2016,Alm.,2654,5,Villa,113,1828,9 %
+Vibevej 4 4250 Fuglebjerg,4,1150000.0,06-05-2016,Alm.,8394,5,Villa,137,1973,-4 %
+Tystrupvej 46 4250 Fuglebjerg,46,5505000.0,25-04-2016,Alm.,20388,6,Stuehus,270,1912,
+Svalevej 5 4250 Fuglebjerg,5,1150000.0,21-04-2016,Alm.,8333,5,Villa,138,1974,-7 %
+Benediktevej 28 4250 Fuglebjerg,28,1112500.0,21-04-2016,Alm.,8003,6,Villa,139,1968,-7 %
+Haldagermaglevej 2 4250 Fuglebjerg,2,2275000.0,20-04-2016,Alm.,10201,7,Villa,223,1800,-8 %
+Sneslevvej 24 4250 Fuglebjerg,24,435000.0,14-04-2016,Alm.,7016,1,Villa,62,1930,-12 %
+Korsørvej 34 4250 Fuglebjerg,34,1370000.0,13-04-2016,Alm.,8404,6,Villa,163,1920,-8 %
+Haldagermaglevej 13 4250 Fuglebjerg,13,800000.0,13-04-2016,Alm.,5555,6,Stuehus,144,1908,
+"Sorøvej 9C, 1. TV 4250 Fuglebjerg",0,200000.0,18-03-2016,Alm.,2739,2,Lejlighed,73,1900,
+Dalsgårdsvej 52 4250 Fuglebjerg,52,725000.0,15-03-2016,Alm.,7250,3,Rækkehus,100,1980,0 %
+Lærkevej 13 4250 Fuglebjerg,13,1195000.0,04-03-2016,Alm.,8535,4,Villa,140,1973,-8 %
+Korsørvej 31B 4250 Fuglebjerg,0,1125000.0,24-02-2016,Alm.,12500,3,Dobbelthus,90,2003,-1 %
+Kællerødvej 4 4250 Fuglebjerg,4,1300000.0,23-02-2016,Fam.,8496,8,Villa,153,1928,
+Spurvevej 6 4250 Fuglebjerg,6,1300000.0,15-02-2016,Alm.,7784,6,Villa,167,1978,-7 %
+Dyres Kvarter 39 4250 Fuglebjerg,39,450000.0,05-02-2016,Alm.,2459,5,Villa,183,2017,-9 %
+Korsørvej 42 4250 Fuglebjerg,42,595000.0,03-02-2016,Alm.,4685,5,Villa,127,1931,0 %
+Mågevej 36 4250 Fuglebjerg,36,745000.0,29-01-2016,Alm.,6313,4,Villa,118,1980,0 %
+Sandvedvej 17 4250 Fuglebjerg,17,300000.0,28-01-2016,Alm.,2752,4,Villa,109,1800,-13 %
+Flemstoftevej 3 4250 Fuglebjerg,3,6282500.0,27-01-2016,Alm.,36526,6,Stuehus,172,1929,
+Parkvej 5 4250 Fuglebjerg,5,427600.0,19-01-2016,Auktion,3032,6,Villa,141,1945,-38 %
+Rugkrogvej 2 4250 Fuglebjerg,2,55001.0,19-01-2016,Auktion,733,4,Villa,75,1800,-78 %
+Margrethevej 7 4250 Fuglebjerg,7,975000.0,15-01-2016,Alm.,9750,4,Villa,100,1967,-2 %
+Fredensvej 2 4250 Fuglebjerg,2,595000.0,15-01-2016,Alm.,6263,4,Villa,95,1957,8 %
+Krummerupvej 46 4250 Fuglebjerg,46,400000.0,13-01-2016,Auktion,2352,5,Villa,170,1858,-50 %
+Højbjergvej 26 4250 Fuglebjerg,26,2200000.0,11-01-2016,Alm.,13095,4,Stuehus,168,1973,-4 %
+Næblerødvej 24 4250 Fuglebjerg,24,9780500.0,07-01-2016,Alm.,30468,12,Stuehus,321,1911,
+Dalsgårdsvej 42 4250 Fuglebjerg,42,542500.0,22-12-2015,Andet,3902,5,Villa,139,1981,
+Haldager Mark Vej 21 4250 Fuglebjerg,21,1100000.0,09-12-2015,Alm.,8800,6,Villa,125,1900,-12 %
+Sorøvej 19 4250 Fuglebjerg,19,600000.0,26-11-2015,Andet,5357,5,Villa,112,1914,
+Sorøvej 21 4250 Fuglebjerg,21,1150000.0,26-11-2015,Andet,11386,5,Villa,101,1912,
+Lærkevej 1 4250 Fuglebjerg,1,1429000.0,18-11-2015,Alm.,8308,4,Villa,172,1971,-1 %
+Næblerødvej 12 4250 Fuglebjerg,12,1595000.0,16-11-2015,Alm.,9785,6,Villa,163,1912,0 %
+Højbjergvej 7 4250 Fuglebjerg,7,4000000.0,15-11-2015,Alm.,18604,7,Villa,215,1800,60 %
+Bendslevvej 51 4250 Fuglebjerg,51,75000.0,11-11-2015,Auktion,833,2,Villa,90,1778,
+Fredensvej 18 4250 Fuglebjerg,18,1000000.0,04-11-2015,Alm.,8333,5,Villa,120,1949,
+Lærkevej 27 4250 Fuglebjerg,27,575000.0,23-10-2015,Alm.,4166,5,Villa,138,1973,
+Sandvedvej 18 4250 Fuglebjerg,18,250000.0,21-10-2015,Alm.,2380,5,Villa,105,1913,-50 %
+Bendslevvej 22 4250 Fuglebjerg,22,825000.0,13-10-2015,Alm.,4940,5,Villa,167,1877,-8 %
+Dalsgårdsvej 74 4250 Fuglebjerg,74,920000.0,06-10-2015,Alm.,6917,4,Villa,133,1981,-7 %
+Korsørvej 31E 4250 Fuglebjerg,0,890000.0,05-10-2015,Alm.,9780,3,Dobbelthus,91,2002,-4 %
+Højbjergvej 22 4250 Fuglebjerg,22,753670.0,01-10-2015,Andet,9420,4,Stuehus,80,1902,
+Rolighedsvej 11 4250 Fuglebjerg,11,691050.0,30-09-2015,Andet,5081,4,Villa,136,1972,
+Skælskørvej 55 4250 Fuglebjerg,55,375000.0,29-09-2015,Alm.,3378,5,Villa,111,1935,-5 %
+Krummerupvej 37 4250 Fuglebjerg,37,595000.0,23-09-2015,Auktion,5721,4,Villa,104,1920,
+Drosselvænget 9 4250 Fuglebjerg,9,850000.0,22-09-2015,Alm.,3413,8,Villa,249,1974,-15 %
+Benediktevej 9 4250 Fuglebjerg,9,725000.0,16-09-2015,Alm.,7712,4,Villa,94,1972,-6 %
+Benediktevej 25 4250 Fuglebjerg,25,725000.0,09-09-2015,Auktion,7712,4,Villa,94,1969,
+Højbjergvej 12 4250 Fuglebjerg,12,3500000.0,03-08-2015,Alm.,20000,5,Stuehus,175,1877,-5 %
+Rødkælkevej 5 4250 Fuglebjerg,5,685000.0,29-07-2015,Alm.,5956,4,Villa,115,1974,-8 %
+Sneslevvej 44 4250 Fuglebjerg,44,350000.0,20-07-2015,Alm.,2755,5,Villa,127,1905,-29 %
+Nyvej 9 4250 Fuglebjerg,9,760710.0,19-07-2015,Fam.,8452,4,Villa,90,1950,
+Erik Bøghs Vej 14 4250 Fuglebjerg,14,1295000.0,15-07-2015,Alm.,10360,6,Villa,125,1960,0 %
+Svalevej 6 4250 Fuglebjerg,6,700000.0,10-07-2015,Alm.,6086,4,Villa,115,1973,-17 %
+Dalsgårdsvej 24A 4250 Fuglebjerg,0,700000.0,10-07-2015,Alm.,9210,3,Rækkehus,76,1984,-12 %
+Hindholmvej 17B 4250 Fuglebjerg,0,1200000.0,08-07-2015,Alm.,10909,3,Villa,110,1993,-7 %
+Tværvej 3 4250 Fuglebjerg,3,575000.0,03-07-2015,Alm.,5043,3,Villa,114,1828,0 %
+Vådagervej 15 4250 Fuglebjerg,15,500000.0,23-06-2015,Alm.,4901,3,Villa,102,1900,
+Krummerupvej 38 4250 Fuglebjerg,38,654000.0,22-06-2015,Andet,5839,3,Villa,112,1938,
+Krummerupvej 31 4250 Fuglebjerg,31,798500.0,15-06-2015,Fam.,3412,6,Stuehus,234,1877,
+Vådagervej 11 4250 Fuglebjerg,11,350000.0,19-05-2015,Auktion,7777,2,Villa,45,1877,
+Lindekrogvej 1 4250 Fuglebjerg,1,499260.0,19-05-2015,Auktion,3962,4,Villa,126,1865,
+Margrethevej 23 4250 Fuglebjerg,23,600000.0,19-05-2015,Alm.,4838,4,Villa,124,1966,-14 %
+Lærkevej 15 4250 Fuglebjerg,15,1195000.0,19-05-2015,Alm.,8851,5,Villa,135,1974,-4 %
+Sneslevvej 29 4250 Fuglebjerg,29,425872.0,18-05-2015,Fam.,2534,7,Villa,168,1924,
+Svalevænget 1 4250 Fuglebjerg,1,650000.0,13-05-2015,Alm.,5371,4,Villa,121,1972,-17 %
+Tystrupvej 30 4250 Fuglebjerg,30,585000.0,27-04-2015,Fam.,5850,3,Villa,100,1944,6 %
+Sneslevvej 18 4250 Fuglebjerg,18,355000.0,21-04-2015,Alm.,3446,3,Villa,103,1900,-11 %
+Sandvedvej 61 4250 Fuglebjerg,61,728000.0,20-04-2015,Alm.,3339,7,Villa,218,1944,
+Rejnstrupvej 15 4250 Fuglebjerg,15,5992500.0,18-04-2015,Fam.,22613,10,Stuehus,265,1858,
+Sneslevvej 4 4250 Fuglebjerg,4,1645000.0,17-04-2015,Alm.,6450,7,Villa,255,1914,0 %
+Næblerødvej 16 4250 Fuglebjerg,16,1195000.0,16-04-2015,Alm.,4361,6,Villa,274,1867,0 %
+Næstved Landevej 14 4250 Fuglebjerg,14,1050000.0,03-04-2015,Alm.,7664,5,Villa,137,1909,-4 %
+Korsørvej 29 4250 Fuglebjerg,29,375000.0,31-03-2015,Andet,3504,7,Engroshandel,107,1932,
+Sorøvej 5 4250 Fuglebjerg,5,270000.0,17-03-2015,Auktion,1888,6,Villa,143,1931,
+Margrethevej 13 4250 Fuglebjerg,13,895000.0,15-03-2015,Alm.,6392,4,Villa,140,1970,-10 %
+Slagelsevej 6 4250 Fuglebjerg,6,1220000.0,10-03-2015,Alm.,6815,4,Villa,179,1827,-6 %
+Storgårdsvej 2A 4250 Fuglebjerg,0,1025000.0,18-02-2015,Alm.,7592,5,Villa,135,1877,
+Brunemosevej 1 4250 Fuglebjerg,1,572500.0,14-01-2015,Alm.,4472,4,Villa,128,1966,-4 %
+Solvænget 3 4250 Fuglebjerg,3,550000.0,05-01-2015,Alm.,7236,3,Villa,76,1960,-5 %
+Rolighedsvej 7 4250 Fuglebjerg,7,520000.0,17-12-2014,Alm.,5360,3,Villa,97,1953,-5 %
+Spurvevej 24 4250 Fuglebjerg,24,750000.0,09-12-2014,Alm.,6250,4,Villa,120,1977,-16 %
+Næblerødvej 22 4250 Fuglebjerg,22,700000.0,02-12-2014,Auktion,5882,5,Villa,119,1878,
+Tystrupvej 55 4250 Fuglebjerg,55,810000.0,05-11-2014,Alm.,9310,3,Villa,87,1964,
+Vibevej 6 4250 Fuglebjerg,6,1250000.0,15-10-2014,Alm.,9328,5,Villa,134,1973,-10 %
+Dalsgårdsvej 32 4250 Fuglebjerg,32,605000.0,08-10-2014,Alm.,6505,4,Dobbelthus,93,1980,-10 %
+Glentevænget 13 4250 Fuglebjerg,13,995000.0,02-10-2014,Alm.,8652,3,Villa,115,1975,0 %
+Lærkevej 43 4250 Fuglebjerg,43,1080000.0,30-09-2014,Alm.,5454,7,Villa,198,1972,-10 %
+Tværvej 12 4250 Fuglebjerg,12,400000.0,25-09-2014,Alm.,1913,5,Villa,209,1877,-11 %
+Dyres Kvarter 1B 4250 Fuglebjerg,0,1725000.0,12-09-2014,Fam.,10518,5,Villa,164,2008,
+Haldagermaglevej 26 4250 Fuglebjerg,26,895000.0,12-09-2014,Alm.,6679,6,Villa,134,1875,0 %
+Haldagerlillevej 9 4250 Fuglebjerg,9,1224362.0,08-09-2014,Andet,5668,8,Villa,216,1870,-18 %
+Tystrupvej 1 4250 Fuglebjerg,1,2295000.0,08-09-2014,Alm.,9216,8,Villa,249,1917,-8 %
+Bendslevvej 16 4250 Fuglebjerg,16,2450000.0,24-08-2014,Alm.,12373,4,Villa,198,1864,-6 %
+Lærkevej 31 4250 Fuglebjerg,31,725000.0,18-08-2014,Andet,5178,4,Villa,140,1973,-14 %
+Korsørvej 31 4250 Fuglebjerg,31,760000.0,13-08-2014,Alm.,5066,6,Villa,150,1967,-13 %
+Tystrupvej 39 4250 Fuglebjerg,39,550000.0,08-08-2014,Alm.,10576,3,Villa,52,1922,-13 %
+Rugkrogvej 27 4250 Fuglebjerg,27,650000.0,01-08-2014,Alm.,4482,5,Villa,145,1950,-18 %
+Fuglebjergvej 5 4250 Fuglebjerg,5,940796.0,29-07-2014,Fam.,4355,5,Villa,216,1850,
+Sandvedvej 25C 4250 Fuglebjerg,0,700000.0,03-07-2014,Alm.,1876,11,Villa,373,1971,
+Ravnebjergvej 3 4250 Fuglebjerg,3,650000.0,19-06-2014,Alm.,5803,4,Villa,112,1895,-13 %
+Dalsgårdsvej 49 4250 Fuglebjerg,49,1600000.0,21-05-2014,Alm.,10457,5,Villa,153,1999,-3 %
+Hestehavevej 4 4250 Fuglebjerg,4,960000.0,06-05-2014,Alm.,6575,4,Villa,146,1826,-17 %
+Bendslevvej 24 4250 Fuglebjerg,24,875000.0,06-05-2014,Auktion,5573,4,Villa,157,1850,
+Skælskørvej 104 4250 Fuglebjerg,104,774008.0,17-04-2014,Andet,5776,5,Villa,134,1930,
+Svalevænget 3 4250 Fuglebjerg,3,975000.0,16-04-2014,Alm.,6055,5,Villa,161,1972,-11 %
+Lærkevej 41 4250 Fuglebjerg,41,975000.0,04-04-2014,Alm.,6818,4,Villa,143,1973,-8 %
+Krummerupvej 52 4250 Fuglebjerg,52,1318000.0,27-03-2014,Alm.,7241,7,Villa,182,1878,-6 %
+Grængebjergvej 6 4250 Fuglebjerg,6,725000.0,19-03-2014,Alm.,7967,3,Villa,91,2000,-9 %
+Dyres Kvarter 23 4250 Fuglebjerg,23,1900000.0,20-02-2014,Alm.,12751,3,Villa,149,2008,-9 %
+Virkelystvej 3 4250 Fuglebjerg,3,65000.0,17-02-2014,Alm.,1048,3,Villa,62,1877,
+Dalsgårdsvej 143 4250 Fuglebjerg,143,1100000.0,14-01-2014,Auktion,6250,4,Villa,176,2006,
+Spurvevej 2 4250 Fuglebjerg,2,650000.0,07-01-2014,Alm.,3823,5,Villa,170,1978,-13 %
+Haldager Mark Vej 32 4250 Fuglebjerg,32,363000.0,07-01-2014,Auktion,3129,5,Villa,116,1827,-64 %
+Parkvej 4 4250 Fuglebjerg,4,856500.0,01-01-2014,Alm.,5190,6,Villa,165,1951,
+Fuglebjerglundvej 9 4250 Fuglebjerg,9,160000.0,12-12-2013,Alm.,1290,6,Villa,124,1915,-36 %
+Erik Bøghs Vej 3 4250 Fuglebjerg,3,245000.0,15-11-2013,Alm.,2450,3,Villa,100,1957,
+Næstved Landevej 1 4250 Fuglebjerg,1,5475000.0,29-10-2013,Alm.,32205,7,Stuehus,170,1877,
+Mågevej 48 4250 Fuglebjerg,48,600000.0,24-10-2013,Alm.,3157,5,Villa,190,1976,-20 %
+Krummerupvej 45 4250 Fuglebjerg,45,1365000.0,23-10-2013,Alm.,8425,5,Villa,162,1722,-2 %
+Fuglebjerglundvej 5 4250 Fuglebjerg,5,1200000.0,16-10-2013,Alm.,11009,3,Villa,109,1900,
+Palmevængevej 27 4250 Fuglebjerg,27,1175000.0,30-09-2013,Alm.,7781,4,Villa,151,1933,-9 %
+Skælskørvej 106 4250 Fuglebjerg,106,664845.0,27-09-2013,Alm.,5682,3,Villa,117,1777,
+Næblerødvej 6 4250 Fuglebjerg,6,535000.0,24-09-2013,Auktion,4147,6,Villa,129,1936,
+Fredensvej 1 4250 Fuglebjerg,1,430000.0,18-09-2013,Alm.,4095,4,Villa,105,1954,-35 %
+Rugkrogvej 13 4250 Fuglebjerg,13,7500000.0,10-09-2013,Alm.,46875,7,Stuehus,160,1907,
+Tystrupvej 33 4250 Fuglebjerg,33,2995000.0,09-09-2013,Alm.,21091,6,Stuehus,142,1856,0 %
+Nyvej 1 4250 Fuglebjerg,1,900000.0,20-08-2013,Alm.,7086,4,Villa,127,1927,-5 %
+Højbjergvej 10A 4250 Fuglebjerg,0,15890000.0,17-08-2013,Alm.,66485,7,Stuehus,239,1877,
+Højbjergvej 16 4250 Fuglebjerg,16,2810000.0,17-08-2013,Alm.,16529,6,Stuehus,170,1902,
+Glentevænget 5 4250 Fuglebjerg,5,595000.0,12-08-2013,Alm.,6071,4,Villa,98,1977,0 %
+Dyres Kvarter 51 4250 Fuglebjerg,51,832000.0,07-08-2013,Auktion,5135,5,Villa,162,2009,
+Sneslevvej 27 4250 Fuglebjerg,27,775000.0,18-07-2013,Alm.,4585,4,Villa,169,1900,-11 %
+Mågevej 46 4250 Fuglebjerg,46,675000.0,11-07-2013,Alm.,7031,4,Rækkehus,96,1977,-7 %
+Storgårdsvej 1 4250 Fuglebjerg,1,985000.0,06-07-2013,Alm.,7035,4,Villa,140,2001,-10 %
+Dalsgårdsvej 23 4250 Fuglebjerg,23,500000.0,01-07-2013,Alm.,5376,4,Rækkehus,93,1980,-41 %
+Svalevej 11 4250 Fuglebjerg,11,1275000.0,15-06-2013,Alm.,8614,5,Villa,148,1973,-4 %
+Grængebjergvej 7 4250 Fuglebjerg,7,603745.0,24-05-2013,Alm.,5204,3,Villa,116,1948,
+Erik Bøghs Vej 26 4250 Fuglebjerg,26,650000.0,22-05-2013,Alm.,0,5,Villa,177,1962,-4 %
+Rejnstrupvej 18 4250 Fuglebjerg,18,311272.0,16-05-2013,Alm.,2779,4,Villa,112,1700,
+Palmevængevej 2 4250 Fuglebjerg,2,63900.0,24-04-2013,Auktion,575,4,Villa,111,1728,
+Virkelystvej 12 4250 Fuglebjerg,12,800000.0,19-04-2013,Alm.,6896,5,Stuehus,116,1870,-20 %
+Flemstoftevej 23 4250 Fuglebjerg,23,1525000.0,18-04-2013,Alm.,7741,6,Stuehus,197,1875,-4 %
+Sorøvej 33 4250 Fuglebjerg,33,395000.0,15-04-2013,Alm.,2821,8,Stuehus,140,1925,
+Næblerødvej 32 4250 Fuglebjerg,32,2700000.0,20-03-2013,Alm.,0,7,Villa,236,1916,4 %
+Falkevænget 6A 4250 Fuglebjerg,0,1358000.0,19-03-2013,Auktion,8230,5,Villa,165,2004,
+Haldagerlillevej 7D 4250 Fuglebjerg,0,155000.0,11-03-2013,Fam.,1091,5,Villa,142,2004,
+Røgeskovvej 2 4250 Fuglebjerg,2,1450000.0,06-03-2013,Alm.,7397,6,Villa,196,1875,-3 %
+Benediktevej 23 4250 Fuglebjerg,23,925000.0,02-03-2013,Alm.,6045,5,Villa,153,1970,-7 %
+Ingridvej 23 4250 Fuglebjerg,23,750000.0,15-02-2013,Alm.,6000,4,Villa,125,1970,-6 %
+Drosselvænget 1 4250 Fuglebjerg,1,1170000.0,09-01-2013,Alm.,7959,4,Villa,147,1972,-2 %
+Fuglebjerglundvej 20 4250 Fuglebjerg,20,3450000.0,14-12-2012,Andet,34500,4,Villa,100,1961,
+Flemstoftevej 13 4250 Fuglebjerg,13,60000.0,05-12-2012,Auktion,800,3,Villa,75,1890,
+Tystrupvej 28 4250 Fuglebjerg,28,248900.0,28-11-2012,Auktion,2370,4,Villa,105,1800,
+Øllemosevej 6 4250 Fuglebjerg,6,994000.0,26-11-2012,Auktion,5150,4,Stuehus,193,1996,
+Korsørvej 35 4250 Fuglebjerg,35,425000.0,14-11-2012,Auktion,3695,4,Villa,115,1925,
+Vådagervej 6 4250 Fuglebjerg,6,977300.0,13-11-2012,Auktion,2486,10,Villa,393,1858,
+Lundevej 14 4250 Fuglebjerg,14,1100000.0,17-10-2012,Alm.,9243,6,Villa,119,1905,-20 %
+Sorøvej 48 4250 Fuglebjerg,48,1225000.0,05-10-2012,Alm.,0,9,Villa,233,1902,-9 %
+Tystrupvej 25 4250 Fuglebjerg,25,420000.0,27-09-2012,Alm.,6363,2,Villa,66,1901,
+Haldagermaglevej 20 4250 Fuglebjerg,20,498000.0,20-09-2012,Andet,5354,3,Villa,93,1978,
+Parkvej 7 4250 Fuglebjerg,7,700000.0,18-09-2012,Alm.,7692,5,Villa,91,1953,-7 %
+Rugkrogvej 5 4250 Fuglebjerg,5,450000.0,18-09-2012,Alm.,3358,5,Villa,134,1924,-24 %
+Fuglebjerglundvej 12 4250 Fuglebjerg,12,680000.0,03-09-2012,Alm.,6476,4,Villa,105,1908,
+Tystrupvej 29 4250 Fuglebjerg,29,2775000.0,27-08-2012,Alm.,17675,6,Villa,157,1935,-7 %
+Tystrupvej 14 4250 Fuglebjerg,14,725000.0,17-08-2012,Alm.,12083,2,Sommerhus,60,1854,0 %
+Haldagerlillevej 3 4250 Fuglebjerg,3,750000.0,01-08-2012,Alm.,4746,4,Villa,158,1790,-32 %
+Storgårdsvej 14 4250 Fuglebjerg,14,65000.0,30-07-2012,Alm.,2166,2,Villa,30,1850,
+Grængebjergvej 17 4250 Fuglebjerg,17,100000.0,24-07-2012,Auktion,632,5,Villa,158,1800,-84 %
+Benediktevej 26 4250 Fuglebjerg,26,1050000.0,10-07-2012,Alm.,8536,4,Villa,123,1969,
+Tystrupvej 50 4250 Fuglebjerg,50,950000.0,05-07-2012,Fam.,6643,3,Villa,143,1925,
+Haldager Mark Vej 12 4250 Fuglebjerg,12,1200000.0,25-06-2012,Fam.,10810,5,Stuehus,111,1877,
+Dalsgårdsvej 28 4250 Fuglebjerg,28,472000.0,11-06-2012,Fam.,5075,4,Dobbelthus,93,1980,
+Næblerødvej 3 4250 Fuglebjerg,3,700000.0,07-06-2012,Auktion,6666,4,Villa,105,1800,
+Tranevej 4 4250 Fuglebjerg,4,250000.0,22-05-2012,Fam.,2192,4,Villa,114,1978,
+Ydre Korsørvej 51 4250 Fuglebjerg,51,1450000.0,21-05-2012,Alm.,10740,4,Stuehus,135,1877,-14 %
+Duevænget 3 4250 Fuglebjerg,3,1002000.0,11-05-2012,Alm.,7648,6,Villa,131,1973,-8 %
+Haldagerlillevej 4 4250 Fuglebjerg,4,1145000.0,30-04-2012,Alm.,9956,3,Villa,115,1966,-8 %
+Højbjergvej 2 4250 Fuglebjerg,2,625000.0,12-04-2012,Auktion,2626,8,Villa,238,1862,
+Mågevej 42 4250 Fuglebjerg,42,600000.0,11-04-2012,Auktion,6250,4,Rækkehus,96,1977,
+Fuglebjergvej 11 4250 Fuglebjerg,11,572331.0,02-04-2012,Auktion,5020,4,Villa,114,1900,
+Fredensvej 13 4250 Fuglebjerg,13,695000.0,26-03-2012,Alm.,7988,3,Villa,87,1953,0 %
+Solsortevej 1 4250 Fuglebjerg,1,1035000.0,22-03-2012,Alm.,8846,4,Villa,117,1978,-13 %
+Haldagerlillevej 5 4250 Fuglebjerg,5,450000.0,02-03-2012,Alm.,3913,5,Villa,115,1877,-9 %
+Flemstoftevej 25 4250 Fuglebjerg,25,880000.0,29-02-2012,Alm.,10602,4,Villa,83,1900,-6 %
+Dalsgårdsvej 21 4250 Fuglebjerg,21,815000.0,27-02-2012,Alm.,8763,4,Dobbelthus,93,1980,-4 %
+Lærkevej 11 4250 Fuglebjerg,11,1100000.0,20-02-2012,Alm.,6790,6,Villa,162,1974,-26 %
+Sorøvej 50 4250 Fuglebjerg,50,1100000.0,09-02-2012,Alm.,11000,3,Stuehus,100,1827,-8 %
+Bendslevvej 55 4250 Fuglebjerg,55,1490000.0,10-01-2012,Alm.,6834,6,Villa,218,1877,-4 %
+Nortvedvej 6 4250 Fuglebjerg,6,650000.0,11-12-2011,Alm.,2901,4,Villa,224,1678,-73 %
+Svalevej 9 4250 Fuglebjerg,9,995000.0,30-11-2011,Auktion,6067,5,Villa,164,1974,
+Dalsgårdsvej 72 4250 Fuglebjerg,72,1075000.0,24-11-2011,Alm.,8333,4,Villa,129,1986,-9 %
+Bakkevej 1 4250 Fuglebjerg,1,875000.0,21-11-2011,Alm.,7812,4,Villa,112,1966,-12 %
+Haldager Mark Vej 9 4250 Fuglebjerg,9,1970000.0,20-11-2011,Alm.,6816,5,Villa,289,1827,-1 %
+Vibevænget 11 4250 Fuglebjerg,11,1650000.0,11-11-2011,Alm.,6903,6,Villa,239,1974,-8 %
+Nyvej 14 4250 Fuglebjerg,14,945000.0,19-10-2011,Alm.,10271,4,Villa,92,1946,-17 %
+Parkvej 1 4250 Fuglebjerg,1,1600000.0,09-10-2011,Alm.,12698,7,Villa,126,1946,-11 %
+Lærkevej 8 4250 Fuglebjerg,8,990000.0,22-09-2011,Alm.,7920,4,Villa,125,1972,-10 %
+Lindekrogvej 17 4250 Fuglebjerg,17,1975000.0,15-09-2011,Alm.,24085,3,Villa,82,1904,
+Krogvej 3 4250 Fuglebjerg,3,2000000.0,26-08-2011,Alm.,22222,4,Stuehus,90,1840,
+Mågevej 22 4250 Fuglebjerg,22,945000.0,20-07-2011,Alm.,9843,4,Rækkehus,96,1977,0 %
+Haldagerlillevej 6 4250 Fuglebjerg,6,450000.0,18-07-2011,Alm.,5625,3,Villa,80,1884,-24 %
+"Sorøvej 9D, ST. TV 4250 Fuglebjerg",0,1080000.0,07-07-2011,Andet,10909,3,Lejlighed,99,1900,
+Bendslevvej 32 4250 Fuglebjerg,32,1050000.0,30-06-2011,Fam.,7241,4,Villa,145,1932,
+Vådagervej 7 4250 Fuglebjerg,7,1450000.0,29-06-2011,Alm.,6444,7,Stuehus,225,1927,-3 %
+Korsørvej 11 4250 Fuglebjerg,11,325000.0,28-06-2011,Alm.,3186,3,Villa,102,1900,-16 %
+Korsørvej 24 4250 Fuglebjerg,24,475000.0,23-06-2011,Alm.,3800,5,Villa,125,1907,
+Sneslevvej 42 4250 Fuglebjerg,42,1250000.0,09-06-2011,Alm.,8333,4,Villa,150,1827,
+Haldagermaglevej 22 4250 Fuglebjerg,22,750000.0,06-06-2011,Alm.,5000,5,Villa,150,1878,0 %
+Højbjergvej 6 4250 Fuglebjerg,6,1650000.0,01-06-2011,Alm.,6420,7,Villa,257,1800,
+Indre Krummerupvej 8 4250 Fuglebjerg,8,590976.0,01-06-2011,Fam.,4690,4,Villa,126,1900,
+Tystrupvej 3 4250 Fuglebjerg,3,727379.0,19-05-2011,Andet,7422,4,Villa,98,1931,
+Erik Bøghs Vej 16 4250 Fuglebjerg,16,892500.0,30-04-2011,Fam.,9201,3,Villa,97,1961,
+Hindholmvej 17 4250 Fuglebjerg,17,1220000.0,28-04-2011,Alm.,6853,6,Villa,178,1972,-2 %
+Lærkevej 6 4250 Fuglebjerg,6,1080000.0,10-04-2011,Alm.,9391,4,Villa,115,1973,-2 %
+Virkelystvej 6 4250 Fuglebjerg,6,815000.0,31-03-2011,Auktion,7912,5,Villa,103,1800,-8 %
+Sneslevvej 56 4250 Fuglebjerg,56,7050000.0,29-03-2011,Auktion,44062,4,Stuehus,160,1927,
+Benediktevej 4 4250 Fuglebjerg,4,1105000.0,28-03-2011,Alm.,8185,4,Villa,135,1968,
+Fredensvej 8 4250 Fuglebjerg,8,1498000.0,25-03-2011,Alm.,8415,5,Villa,178,1947,0 %
+Hestehavevej 2 4250 Fuglebjerg,2,1750000.0,18-03-2011,Fam.,7954,5,Stuehus,220,2002,
+Ingridvej 15 4250 Fuglebjerg,15,835000.0,15-03-2011,Alm.,7660,4,Villa,109,1970,-5 %
+Bendslevvej 46 4250 Fuglebjerg,46,800000.0,11-03-2011,Alm.,5063,6,Villa,158,1984,-14 %
+Indre Krummerupvej 26 4250 Fuglebjerg,26,545000.0,01-03-2011,Auktion,4192,5,Villa,130,1933,
+Solvænget 8 4250 Fuglebjerg,8,700000.0,18-02-2011,Alm.,9459,3,Villa,74,1961,-12 %
+Hindholmvej 2 4250 Fuglebjerg,2,1550000.0,15-02-2011,Alm.,5762,7,Villa,269,1878,-3 %
+Indre Krummerupvej 1 4250 Fuglebjerg,1,1700000.0,04-02-2011,Alm.,4569,14,Villa,372,1864,
+Sneslevvej 59 4250 Fuglebjerg,59,1200000.0,03-02-2011,Alm.,9375,4,Villa,128,1900,
+Flemstoftevej 1 4250 Fuglebjerg,1,1200000.0,02-02-2011,Alm.,9230,5,Stuehus,130,2013,-35 %
+Korsørvej 19 4250 Fuglebjerg,19,950000.0,13-01-2011,Auktion,4656,8,Villa,204,1913,
+Palmevængevej 23 4250 Fuglebjerg,23,3450000.0,12-12-2010,Alm.,19166,4,Stuehus,180,1917,-7 %
+Haldagermaglevej 17 4250 Fuglebjerg,17,875000.0,26-11-2010,Alm.,5993,5,Villa,146,1900,0 %
+Lystager Torp Vej 2 4250 Fuglebjerg,2,955000.0,09-11-2010,Alm.,11790,3,Villa,81,1928,-4 %
+Fredensvej 7 4250 Fuglebjerg,7,1025000.0,25-10-2010,Alm.,9579,4,Villa,107,1960,-6 %
+Indre Krummerupvej 23 4250 Fuglebjerg,23,1550000.0,20-10-2010,Alm.,9171,7,Villa,169,1979,-6 %
+Rolighedsvej 20 4250 Fuglebjerg,20,100000.0,15-10-2010,Alm.,787,4,Villa,127,2012,
+Fredensvej 6 4250 Fuglebjerg,6,1225000.0,05-10-2010,Alm.,10040,4,Villa,122,1948,-2 %
+Dalsgårdsvej 58 4250 Fuglebjerg,58,845000.0,28-09-2010,Alm.,8450,3,Rækkehus,100,1980,-11 %
+Dalsgårdsvej 2 4250 Fuglebjerg,2,870000.0,27-09-2010,Alm.,8613,4,Dobbelthus,101,1980,-3 %
+Korsørvej 31D 4250 Fuglebjerg,0,1400000.0,24-09-2010,Alm.,15384,3,Dobbelthus,91,2002,
+Skælskørvej 75 4250 Fuglebjerg,75,2775000.0,23-09-2010,Alm.,13669,8,Stuehus,203,1866,-3 %
+Dalsgårdsvej 51 4250 Fuglebjerg,51,1575000.0,22-09-2010,Alm.,11842,4,Villa,133,1999,-4 %
+Bakkegårdsvej 5 4250 Fuglebjerg,5,690000.0,20-09-2010,Alm.,8846,2,Villa,78,1924,-37 %
+Sorøvej 26 4250 Fuglebjerg,26,300000.0,02-09-2010,Auktion,1630,6,Villa,184,1914,
+Gunderslevlillevej 1 4250 Fuglebjerg,1,1350000.0,31-08-2010,Alm.,9060,5,Villa,149,1919,-7 %
+Lærkevej 33 4250 Fuglebjerg,33,1295000.0,22-08-2010,Alm.,8248,5,Villa,157,1974,0 %
+Vibevej 8 4250 Fuglebjerg,8,1150000.0,04-08-2010,Alm.,6927,5,Villa,166,1974,-8 %
+Tystrupvej 36B 4250 Fuglebjerg,0,2300000.0,26-07-2010,Alm.,11794,3,Villa,195,1980,-6 %
+Svalevej 13 4250 Fuglebjerg,13,1050000.0,22-07-2010,Alm.,9130,3,Villa,115,1973,-4 %
+Spurvevej 12B 4250 Fuglebjerg,0,875000.0,20-07-2010,Alm.,8663,3,Dobbelthus,101,1978,-2 %
+Fladholtevej 11 4250 Fuglebjerg,11,6950000.0,08-07-2010,Alm.,73936,4,Stuehus,94,1800,
+Tystrupvej 51 4250 Fuglebjerg,51,1400000.0,07-07-2010,Alm.,10852,4,Villa,129,1925,
+Fuglebjerglundvej 13 4250 Fuglebjerg,13,1950000.0,05-07-2010,Alm.,14028,5,Villa,139,1924,-2 %
+Haldager Mark Vej 20 4250 Fuglebjerg,20,60000.0,14-06-2010,Alm.,500,4,Stuehus,120,1932,
+Flemstoftevej 8 4250 Fuglebjerg,8,264840.0,04-06-2010,Alm.,4012,4,Villa,66,1915,
+Stjernelunden 3 4250 Fuglebjerg,3,883951.0,01-06-2010,Alm.,6852,4,Villa,129,2005,
+Bendslevvej 44 4250 Fuglebjerg,44,500000.0,31-05-2010,Alm.,2173,7,Villa,230,1800,-5 %
+Hindholmvej 1 4250 Fuglebjerg,1,500000.0,27-05-2010,Andet,2976,5,Villa,168,1927,
+Lærkevænget 3 4250 Fuglebjerg,3,1150000.0,21-05-2010,Alm.,9200,4,Villa,125,1973,-11 %
+Solvænget 5 4250 Fuglebjerg,5,925000.0,18-05-2010,Alm.,8409,4,Villa,110,1966,-7 %
+Sorøvej 7 4250 Fuglebjerg,7,530000.0,17-05-2010,Alm.,0,6,Villa,173,1927,
+Sneslevvej 60 4250 Fuglebjerg,60,1800000.0,12-05-2010,Alm.,13533,5,Villa,133,1877,-10 %
+Margrethevej 18 4250 Fuglebjerg,18,905000.0,10-05-2010,Alm.,7605,4,Villa,119,1966,
+Virkelystvej 4 4250 Fuglebjerg,4,887500.0,10-05-2010,Alm.,7274,4,Villa,122,1870,
+Lærkevænget 7 4250 Fuglebjerg,7,1275000.0,03-05-2010,Alm.,8854,4,Villa,144,1973,-5 %
+Haldager Mark Vej 14 4250 Fuglebjerg,14,1100000.0,24-04-2010,Alm.,8870,4,Villa,124,1967,-4 %
+Erik Bøghs Vej 12 4250 Fuglebjerg,12,800000.0,08-04-2010,Alm.,8000,4,Villa,100,1962,-9 %
+Lundevej 4 4250 Fuglebjerg,4,850000.0,04-04-2010,Alm.,6538,8,Villa,130,1955,
+Svalevænget 13 4250 Fuglebjerg,13,950000.0,30-03-2010,Alm.,7916,5,Villa,120,1973,-17 %
+Ydre Korsørvej 9 4250 Fuglebjerg,9,396000.0,17-03-2010,Alm.,2506,5,Stuehus,158,1877,
+Svalevej 4 4250 Fuglebjerg,4,597153.0,16-03-2010,Andet,5192,4,Villa,115,1973,
+Sorøvej 3 4250 Fuglebjerg,3,1325000.0,12-03-2010,Alm.,11324,6,Detailhandel,117,1945,
+Tystrupvej 38 4250 Fuglebjerg,38,2499222.0,08-03-2010,Alm.,11257,10,Stuehus,222,1842,
+Mågevej 44 4250 Fuglebjerg,44,995000.0,04-03-2010,Alm.,10364,4,Rækkehus,96,1977,-3 %
+Haldagermaglevej 22A 4250 Fuglebjerg,0,639553.0,23-02-2010,Alm.,5419,4,Villa,118,1977,
+Anne Marie Vej 3 4250 Fuglebjerg,3,750000.0,18-02-2010,Alm.,5434,4,Villa,138,1968,-37 %
+Skælskørvej 68 4250 Fuglebjerg,68,650000.0,01-02-2010,Alm.,4642,6,Villa,140,1915,
+Flemstoftevej 12 4250 Fuglebjerg,12,900000.0,12-01-2010,Auktion,8108,4,Villa,111,1890,
+Sandvedvej 43 4250 Fuglebjerg,43,850000.0,26-11-2009,Alm.,6800,4,Villa,125,1927,
+Fuglebjerglundvej 27 4250 Fuglebjerg,27,1125000.0,02-11-2009,Alm.,5461,5,Villa,206,1852,-5 %
+Lærkevej 4 4250 Fuglebjerg,4,1415000.0,15-10-2009,Alm.,0,4,Villa,154,1971,-10 %
+Fredensvej 14 4250 Fuglebjerg,14,1175000.0,06-10-2009,Alm.,11084,4,Villa,106,1948,
+Fredensvej 10 4250 Fuglebjerg,10,1250000.0,05-10-2009,Alm.,16025,3,Villa,78,1953,0 %
+Storgårdsvej 2B 4250 Fuglebjerg,0,475000.0,24-09-2009,Alm.,2486,5,Villa,191,2015,
+Skælskørvej 71 4250 Fuglebjerg,71,1573889.0,09-07-2009,Alm.,12491,3,Villa,126,1927,-17 %
+Kirkevej 7 4250 Fuglebjerg,7,810500.0,01-07-2009,Andet,4712,6,Villa,172,1970,
+Haldager Mark Vej 26 4250 Fuglebjerg,26,410850.0,26-06-2009,Alm.,2232,9,Stuehus,184,1923,
+Sorøvej 45 4250 Fuglebjerg,45,85655.0,22-06-2009,Auktion,1142,4,Villa,75,1853,
+Erik Bøghs Vej 11 4250 Fuglebjerg,11,1270000.0,09-06-2009,Alm.,9338,5,Villa,136,1961,-8 %
+Tværvej 11 4250 Fuglebjerg,11,1300000.0,04-06-2009,Alm.,9285,5,Villa,140,1918,-7 %
+Tystrupvej 18 4250 Fuglebjerg,18,1250000.0,01-06-2009,Alm.,13020,3,Villa,96,1886,0 %
+Sorøvej 47 4250 Fuglebjerg,47,1420000.0,29-05-2009,Auktion,9281,7,Stuehus,153,1895,
+Spurvevej 34 4250 Fuglebjerg,34,750000.0,27-05-2009,Andet,4360,5,Villa,172,1975,
+Ingridvej 25 4250 Fuglebjerg,25,1540000.0,11-05-2009,Alm.,7738,6,Villa,199,1971,-8 %
+Krummerupvej 35 4250 Fuglebjerg,35,1450000.0,03-04-2009,Alm.,12083,4,Villa,120,1901,-6 %
+Sandvedvej 27 4250 Fuglebjerg,27,815000.0,31-03-2009,Alm.,5433,4,Villa,150,1909,-7 %
+Indre Krummerupvej 11 4250 Fuglebjerg,11,1200000.0,27-03-2009,Auktion,11538,6,Villa,104,1922,-39 %
+Dalsgårdsvej 47 4250 Fuglebjerg,47,1995000.0,26-02-2009,Alm.,12239,5,Villa,163,1999,0 %
+Rejnstrupvej 17 4250 Fuglebjerg,17,510000.0,21-02-2009,Fam.,8500,2,Engroshandel,60,1850,
+Dalsgårdsvej 68 4250 Fuglebjerg,68,1125000.0,18-02-2009,Alm.,8522,5,Villa,132,1980,-12 %
+Tystrupvej 45 4250 Fuglebjerg,45,2499222.0,27-01-2009,Alm.,9878,9,Stuehus,253,1903,-63 %
+Lærkevænget 5 4250 Fuglebjerg,5,780000.0,16-12-2008,Alm.,7500,3,Villa,104,1972,
+Krummerupvej 40 4250 Fuglebjerg,40,1900000.0,08-12-2008,Alm.,12025,5,Villa,158,1928,-2 %
+Dyres Kvarter 47 4250 Fuglebjerg,47,435000.0,23-10-2008,Alm.,2753,3,Villa,158,2010,
+Dalsgårdsvej 76 4250 Fuglebjerg,76,1305536.0,08-10-2008,Andet,10444,5,Villa,125,1980,
+Solvænget 4 4250 Fuglebjerg,4,800000.0,03-10-2008,Alm.,10958,3,Villa,73,1961,
+Drosselvænget 13 4250 Fuglebjerg,13,1795000.0,30-08-2008,Alm.,10945,7,Villa,164,1972,-5 %
+Sneslevvej 57 4250 Fuglebjerg,57,900000.0,21-08-2008,Alm.,15000,3,Villa,60,1876,-5 %
+Falkevænget 1 4250 Fuglebjerg,1,1900000.0,08-08-2008,Alm.,9595,6,Villa,198,1977,-4 %
+Gunderslevlillevej 2 4250 Fuglebjerg,2,850000.0,18-07-2008,Fam.,4066,3,Villa,209,1890,
+Sorøvej 40 4250 Fuglebjerg,40,975000.0,10-07-2008,Alm.,9948,4,Villa,98,1878,-4 %
+Slagelsevej 16 4250 Fuglebjerg,16,690000.0,09-07-2008,Fam.,9857,2,Villa,70,1920,
+Dalsgårdsvej 4 4250 Fuglebjerg,4,1180000.0,29-06-2008,Alm.,11683,4,Rækkehus,101,1980,
+Benediktevej 7 4250 Fuglebjerg,7,540280.0,29-06-2008,Andet,4823,4,Villa,112,1969,
+Overdrevsvej 7 4250 Fuglebjerg,7,866700.0,26-06-2008,Andet,7471,5,Stuehus,116,1890,
+Erik Bøghs Vej 15 4250 Fuglebjerg,15,1100000.0,24-06-2008,Alm.,10000,4,Villa,110,1965,-12 %
+Lindekrogvej 1A 4250 Fuglebjerg,0,1150000.0,04-06-2008,Alm.,14556,3,Villa,79,1952,
+Tranevænget 7 4250 Fuglebjerg,7,1695000.0,02-06-2008,Alm.,13139,4,Villa,129,1977,0 %
+Sneslevvej 12 4250 Fuglebjerg,12,995000.0,27-05-2008,Alm.,8432,5,Villa,118,1905,0 %
+Haldagermaglevej 27 4250 Fuglebjerg,27,4900000.0,15-05-2008,Alm.,50000,5,Villa,98,1900,
+Indre Krummerupvej 5 4250 Fuglebjerg,5,1650000.0,09-05-2008,Alm.,12313,6,Villa,134,1960,-3 %
+Duevænget 7 4250 Fuglebjerg,7,1375000.0,06-05-2008,Alm.,11458,4,Villa,120,1973,-5 %
+Sandvedvej 33 4250 Fuglebjerg,33,1000000.0,10-04-2008,Alm.,10000,4,Villa,100,1909,
+Hindholmvej 7 4250 Fuglebjerg,7,875000.0,10-04-2008,Alm.,7056,5,Villa,124,1963,0 %
+Krummerupvej 59 4250 Fuglebjerg,59,1525000.0,03-04-2008,Alm.,8615,4,Villa,177,1925,-3 %
+Røgeskovvej 4 4250 Fuglebjerg,4,4002894.0,31-03-2008,Alm.,21520,7,Stuehus,186,1961,
+Margrethevej 8 4250 Fuglebjerg,8,1150000.0,25-03-2008,Alm.,9829,3,Villa,117,1968,-6 %
+Lystager Torp Vej 4 4250 Fuglebjerg,4,1045000.0,18-03-2008,Alm.,7464,4,Villa,140,1950,-5 %
+Lærkevej 21 4250 Fuglebjerg,21,1845000.0,27-02-2008,Alm.,10423,6,Villa,177,1972,0 %
+Sandvedvej 14 4250 Fuglebjerg,14,1395000.0,26-02-2008,Alm.,12025,4,Villa,116,1930,0 %
+Skælskørvej 57 4250 Fuglebjerg,57,3000000.0,20-02-2008,Alm.,16949,8,Villa,177,1927,
+Dalsgårdsvej 31 4250 Fuglebjerg,31,1875000.0,16-02-2008,Alm.,15000,4,Villa,125,1998,
+Vådagervej 13 4250 Fuglebjerg,13,200000.0,15-02-2008,Alm.,1739,5,Stuehus,115,1837,
+Dalsgårdsvej 139 4250 Fuglebjerg,139,2200000.0,11-02-2008,Alm.,14285,6,Villa,154,2006,-1 %
+Kærsangervej 7 4250 Fuglebjerg,7,1610000.0,05-02-2008,Alm.,9147,5,Villa,176,1977,-2 %
+Sorøvej 41 4250 Fuglebjerg,41,679000.0,03-02-2008,Alm.,8934,4,Villa,76,1878,9 %
+Bendslevvej 42 4250 Fuglebjerg,42,7500000.0,31-01-2008,Alm.,42857,5,Villa,175,1873,
+Næstved Landevej 12 4250 Fuglebjerg,12,1585000.0,29-01-2008,Alm.,11402,5,Villa,139,1912,0 %
+Sorøvej 15 4250 Fuglebjerg,15,935000.0,29-01-2008,Alm.,8990,3,Villa,104,1906,-6 %
+Dyres Kvarter 5 4250 Fuglebjerg,5,1795000.0,24-01-2008,Alm.,16933,3,Rækkehus,106,2008,
+Dyres Kvarter 15 4250 Fuglebjerg,15,1817500.0,18-01-2008,Alm.,17146,3,Rækkehus,106,2007,
+Dalsgårdsvej 45 4250 Fuglebjerg,45,2000000.0,16-01-2008,Alm.,10416,7,Villa,192,1999,-11 %
+Lindekrogvej 3A 4250 Fuglebjerg,0,2565000.0,14-01-2008,Alm.,17812,3,Villa,144,2004,-5 %
+Fuglebjerglundvej 8 4250 Fuglebjerg,8,1830000.0,23-12-2007,Alm.,11226,4,Villa,163,1969,-2 %
+Rolighedsvej 2 4250 Fuglebjerg,2,969000.0,13-12-2007,Alm.,11400,3,Villa,85,1800,-3 %
+Korsørvej 23 4250 Fuglebjerg,23,1595000.0,06-12-2007,Alm.,15047,5,Villa,106,1915,
+Dalsgårdsvej 137 4250 Fuglebjerg,137,2250000.0,03-12-2007,Alm.,15100,4,Villa,149,2008,0 %
+Indre Krummerupvej 3 4250 Fuglebjerg,3,425000.0,22-11-2007,Fam.,2053,16,Engroshandel,207,1870,
+Dyres Kvarter 3 4250 Fuglebjerg,3,1795000.0,22-11-2007,Alm.,16933,4,Rækkehus,106,2008,
+Vådagervej 17 4250 Fuglebjerg,17,580000.0,19-11-2007,Alm.,10943,2,Villa,53,1936,0 %
+Erik Bøghs Vej 23 4250 Fuglebjerg,23,571550.0,13-11-2007,Fam.,3861,5,Villa,148,1964,
+Dalsgårdsvej 26 4250 Fuglebjerg,26,1025000.0,12-11-2007,Fam.,11021,4,Rækkehus,93,1980,
+Glentevænget 11 4250 Fuglebjerg,11,1395000.0,07-11-2007,Alm.,10813,4,Villa,129,1979,0 %
+Ydre Korsørvej 52 4250 Fuglebjerg,52,425000.0,06-11-2007,Fam.,3219,5,Villa,132,1827,
+Næblerødvej 7 4250 Fuglebjerg,7,1300000.0,24-10-2007,Alm.,10833,5,Villa,120,1930,-4 %
+Erik Bøghs Vej 5 4250 Fuglebjerg,5,600000.0,15-10-2007,Alm.,5504,4,Villa,109,1959,
+Sneslevvej 64 4250 Fuglebjerg,64,2800000.0,05-10-2007,Alm.,16374,5,Villa,171,1870,-5 %
+Erik Bøghs Vej 22 4250 Fuglebjerg,22,1625000.0,02-10-2007,Alm.,13000,5,Villa,125,1960,0 %
+Dyres Kvarter 9 4250 Fuglebjerg,9,1735000.0,25-09-2007,Alm.,16367,3,Rækkehus,106,2007,
+Korsørvej 6 4250 Fuglebjerg,6,950000.0,22-09-2007,Fam.,3830,9,Villa,248,1915,
+Svalevej 3 4250 Fuglebjerg,3,1595000.0,04-09-2007,Alm.,11902,5,Villa,134,1973,
+Haldagerlillevej 7B 4250 Fuglebjerg,0,405000.0,22-08-2007,Alm.,2596,5,Villa,156,2009,
+Dyres Kvarter 31 4250 Fuglebjerg,31,540000.0,27-07-2007,Alm.,3253,5,Villa,166,2009,
+Drosselvænget 11 4250 Fuglebjerg,11,1600000.0,24-07-2007,Alm.,9302,5,Villa,172,1973,-9 %
+Nortvedvej 11 4250 Fuglebjerg,11,1550000.0,18-07-2007,Alm.,8563,5,Villa,181,1800,
+Sorøvej 29A 4250 Fuglebjerg,0,1050000.0,15-07-2007,Alm.,15909,3,Villa,66,1956,
+Nyvej 10 4250 Fuglebjerg,10,1400000.0,15-07-2007,Alm.,12727,4,Villa,110,1945,
+Svalevej 14 4250 Fuglebjerg,14,1735000.0,06-07-2007,Alm.,9179,4,Villa,189,1973,-3 %
+Bendslevvej 34 4250 Fuglebjerg,34,1495000.0,27-06-2007,Alm.,7868,6,Villa,190,1900,
+Fuglebjerglundvej 15 4250 Fuglebjerg,15,1685000.0,21-06-2007,Alm.,11783,5,Villa,143,1900,-4 %
+Sorøvej 9F 4250 Fuglebjerg,0,825000.0,06-06-2007,Alm.,9593,3,Dobbelthus,86,1982,
+Dyres Kvarter 7 4250 Fuglebjerg,7,1766200.0,23-05-2007,Alm.,16662,3,Rækkehus,106,2007,
+Benediktevej 8 4250 Fuglebjerg,8,1515000.0,02-05-2007,Alm.,12120,5,Villa,125,1968,
+Øllemosevej 10 4250 Fuglebjerg,10,2250000.0,27-04-2007,Alm.,11842,5,Villa,190,1828,-4 %
+Sandvedvej 39 4250 Fuglebjerg,39,2345000.0,26-04-2007,Alm.,23928,4,Stuehus,98,1850,
+Bendslevvej 43 4250 Fuglebjerg,43,400000.0,26-04-2007,Alm.,5479,2,Villa,73,1898,-32 %
+Dyres Kvarter 13 4250 Fuglebjerg,13,1727400.0,04-04-2007,Alm.,16296,3,Rækkehus,106,2007,
+Dyres Kvarter 21 4250 Fuglebjerg,21,450000.0,26-03-2007,Alm.,2542,6,Villa,177,2009,0 %
+Rolighedsvej 9 4250 Fuglebjerg,9,1295000.0,20-03-2007,Alm.,11666,5,Villa,111,1959,0 %
+Spurvevej 10 4250 Fuglebjerg,10,1200000.0,19-03-2007,Fam.,8571,4,Villa,140,1979,
+Sneslevvej 37 4250 Fuglebjerg,37,3966000.0,28-02-2007,Fam.,22662,6,Stuehus,175,1800,
+"Korsørvej 17, 1 4250 Fuglebjerg",1,1735000.0,27-02-2007,Alm.,13661,3,Lejlighed,127,1913,12 %
+Rugkrogvej 7 4250 Fuglebjerg,7,1100000.0,15-02-2007,Fam.,8208,5,Villa,134,1912,
+"Sorøvej 9B, 1. TH 4250 Fuglebjerg",0,695000.0,12-02-2007,Alm.,9652,2,Lejlighed,72,1900,
+Haldager Mark Vej 13 4250 Fuglebjerg,13,1085705.0,07-02-2007,Fam.,9279,3,Villa,117,1930,
+Skælskørvej 100 4250 Fuglebjerg,100,4500000.0,04-02-2007,Alm.,29220,6,Stuehus,154,1860,-16 %
+Sneslevvej 28 4250 Fuglebjerg,28,1079000.0,04-02-2007,Alm.,12261,3,Villa,88,1923,
+Spurvevej 12A 4250 Fuglebjerg,0,1200000.0,02-02-2007,Alm.,11881,4,Dobbelthus,101,1978,-5 %
+Nyvej 12 4250 Fuglebjerg,12,1800000.0,25-01-2007,Alm.,10465,6,Villa,172,1971,
+Haldagermaglevej 15 4250 Fuglebjerg,15,1275000.0,15-01-2007,Alm.,11184,4,Villa,114,1966,0 %
+Lindekrogvej 18 4250 Fuglebjerg,18,1250000.0,08-01-2007,Alm.,10775,5,Villa,116,1945,-14 %
+Dyres Kvarter 17 4250 Fuglebjerg,17,1729100.0,04-01-2007,Alm.,16312,3,Rækkehus,106,2007,
+Næblerødvej 14 4250 Fuglebjerg,14,1450000.0,21-12-2006,Alm.,11240,5,Villa,129,1935,
+Nyvej 5 4250 Fuglebjerg,5,562500.0,01-12-2006,Alm.,7705,3,Villa,73,1930,
+Mågevej 32 4250 Fuglebjerg,32,1428000.0,28-11-2006,Alm.,12526,4,Villa,114,1978,
+Lindekrogvej 6 4250 Fuglebjerg,6,1100000.0,24-11-2006,Fam.,11702,2,Villa,94,1952,
+Sorøvej 14 4250 Fuglebjerg,14,1825000.0,24-11-2006,Alm.,8449,7,Villa,216,1883,
+Dyres Kvarter 11 4250 Fuglebjerg,11,1695000.0,17-11-2006,Alm.,15990,3,Rækkehus,106,2007,
+Dyres Kvarter 33 4250 Fuglebjerg,33,445000.0,01-11-2006,Alm.,2060,6,Villa,216,2007,
+Dyres Kvarter 19 4250 Fuglebjerg,19,440000.0,01-11-2006,Alm.,2699,4,Villa,163,2007,
+Dyres Kvarter 25 4250 Fuglebjerg,25,425000.0,01-11-2006,Alm.,3269,4,Villa,130,2007,
+Dyres Kvarter 37 4250 Fuglebjerg,37,405000.0,01-11-2006,Alm.,2484,5,Villa,163,2009,
+Dyres Kvarter 49 4250 Fuglebjerg,49,425000.0,01-11-2006,Alm.,2560,6,Villa,166,2007,
+Dyres Kvarter 35 4250 Fuglebjerg,35,405000.0,01-11-2006,Alm.,2736,5,Villa,148,2007,
+Dyres Kvarter 45 4250 Fuglebjerg,45,395000.0,01-11-2006,Alm.,2992,3,Villa,132,2007,
+Dyres Kvarter 29 4250 Fuglebjerg,29,445000.0,01-11-2006,Alm.,2696,5,Villa,165,2007,
+Dyres Kvarter 1A 4250 Fuglebjerg,0,1650000.0,21-10-2006,Alm.,10377,6,Villa,159,1800,
+Spurvevej 16 4250 Fuglebjerg,16,1600000.0,13-10-2006,Alm.,10457,7,Villa,153,1978,
+Parkvej 9 4250 Fuglebjerg,9,1145000.0,19-09-2006,Alm.,10043,4,Villa,114,1963,
+Dalsgårdsvej 30 4250 Fuglebjerg,30,1035000.0,15-09-2006,Alm.,11129,3,Rækkehus,93,1980,
+Svalevej 1 4250 Fuglebjerg,1,1475000.0,08-09-2006,Alm.,8240,7,Villa,179,1973,
+Ingridvej 17 4250 Fuglebjerg,17,1590000.0,04-09-2006,Alm.,10890,5,Villa,146,1972,
+Tystrupvej 40 4250 Fuglebjerg,40,1150000.0,29-08-2006,Alm.,13855,3,Villa,83,1890,
+Haldagermaglevej 25 4250 Fuglebjerg,25,2350000.0,23-08-2006,Alm.,11989,6,Stuehus,196,1908,
+Haldagermaglevej 7 4250 Fuglebjerg,7,6500000.0,09-08-2006,Alm.,38235,6,Stuehus,170,1860,
+Bakkegårdsvej 7 4250 Fuglebjerg,7,1415000.0,09-08-2006,Alm.,13101,4,Villa,108,1922,
+Korsørvej 40 4250 Fuglebjerg,40,1575000.0,04-08-2006,Alm.,10227,4,Villa,154,1930,
+Sandvedvej 51 4250 Fuglebjerg,51,1195000.0,03-08-2006,Alm.,6159,8,Villa,194,1932,
+Haldager Mark Vej 11 4250 Fuglebjerg,11,1300000.0,02-08-2006,Alm.,11711,4,Villa,111,1878,
+Lærkevej 39 4250 Fuglebjerg,39,1180000.0,28-07-2006,Alm.,10535,3,Villa,112,1972,
+Sneslevvej 31 4250 Fuglebjerg,31,1095000.0,25-07-2006,Alm.,8488,4,Villa,129,1933,
+Dalsgårdsvej 38 4250 Fuglebjerg,38,1225000.0,18-07-2006,Alm.,11036,4,Villa,111,1979,
+Palmevængevej 16 4250 Fuglebjerg,16,1445000.0,16-07-2006,Alm.,10321,5,Villa,140,1850,
+Lærkevænget 1 4250 Fuglebjerg,1,1200000.0,13-07-2006,Alm.,10000,4,Villa,120,1973,
+Sneslevvej 53 4250 Fuglebjerg,53,1620000.0,10-07-2006,Alm.,10125,4,Villa,160,1870,
+Skælskørvej 53 4250 Fuglebjerg,53,750000.0,04-07-2006,Alm.,8333,3,Villa,90,1953,
+Sneslevvej 33 4250 Fuglebjerg,33,1875000.0,15-06-2006,Alm.,10416,5,Villa,180,1833,
+Sneslevvej 58 4250 Fuglebjerg,58,706250.0,12-06-2006,Alm.,4586,6,Villa,154,1827,
+Kirkestræde 12 4250 Fuglebjerg,12,910000.0,08-06-2006,Alm.,12465,3,Villa,73,1962,
+Fredensvej 11 4250 Fuglebjerg,11,1950000.0,29-05-2006,Alm.,10156,8,Villa,192,1947,
+Haldagermaglevej 12 4250 Fuglebjerg,12,1795000.0,21-05-2006,Alm.,25642,20,Industri o.l.,70,1877,
+Korsørvej 22 4250 Fuglebjerg,22,1075000.0,13-05-2006,Alm.,10750,4,Villa,100,1915,
+Flemstoftevej 6 4250 Fuglebjerg,6,1075000.0,11-05-2006,Alm.,9110,4,Villa,118,1878,
+Rejnstrupvej 14 4250 Fuglebjerg,14,1152900.0,04-05-2006,Andet,4764,10,Stuehus,242,1848,
+Kirkevej 6 4250 Fuglebjerg,6,1500000.0,25-04-2006,Alm.,11450,4,Villa,131,1972,
+Stjernelunden 8 4250 Fuglebjerg,8,295000.0,20-04-2006,Alm.,2269,4,Villa,130,2008,
+Margrethevej 26 4250 Fuglebjerg,26,1550000.0,20-04-2006,Alm.,11071,4,Villa,140,1965,
+Tranevænget 13 4250 Fuglebjerg,13,1174563.0,20-04-2006,Fam.,8573,6,Villa,137,1976,
+Bakkegårdsvej 3 4250 Fuglebjerg,3,2500000.0,14-04-2006,Alm.,24509,8,Villa,102,1724,
+Dalsgårdsvej 153 4250 Fuglebjerg,153,1475000.0,12-04-2006,Alm.,14047,3,Dobbelthus,105,2006,
+Vibevej 7 4250 Fuglebjerg,7,1350000.0,06-04-2006,Alm.,11637,4,Villa,116,1974,
+Sneslevvej 2 4250 Fuglebjerg,2,1250000.0,06-04-2006,Alm.,3687,7,Villa,339,1885,
+Flemstoftevej 5 4250 Fuglebjerg,5,2220000.0,04-04-2006,Alm.,5606,11,Villa,396,1878,
+Erik Bøghs Vej 25 4250 Fuglebjerg,25,1375000.0,25-03-2006,Alm.,11752,4,Villa,117,1966,
+Stjernelunden 4 4250 Fuglebjerg,4,1825000.0,20-03-2006,Alm.,13825,4,Villa,132,2002,
+Tystrupvej 36 4250 Fuglebjerg,36,1310000.0,08-03-2006,Fam.,6517,6,Villa,201,1857,
+Rugkrogvej 10 4250 Fuglebjerg,10,2425000.0,06-03-2006,Alm.,11123,7,Villa,218,1863,
+Solsortevej 2 4250 Fuglebjerg,2,1495000.0,01-03-2006,Alm.,11240,4,Villa,133,1978,
+Langebjergvej 16 4250 Fuglebjerg,16,816000.0,28-02-2006,Fam.,6000,5,Stuehus,136,1977,
+Falkevænget 3 4250 Fuglebjerg,3,1650000.0,27-02-2006,Alm.,8291,6,Villa,199,1979,
+Haldagermaglevej 19 4250 Fuglebjerg,19,1800000.0,07-02-2006,Alm.,10714,6,Villa,168,1906,
+Langebjergvej 10 4250 Fuglebjerg,10,2050000.0,05-01-2006,Alm.,9715,6,Villa,211,1775,
+Indre Krummerupvej 30 4250 Fuglebjerg,30,2850000.0,04-01-2006,Alm.,11680,8,Villa,244,1968,
+Grængebjergvej 13 4250 Fuglebjerg,13,695000.0,29-12-2005,Alm.,0,4,Villa,141,1900,
+Anne Marie Vej 25 4250 Fuglebjerg,25,688500.0,22-12-2005,Fam.,6557,3,Villa,105,1972,
+Sandvedvej 36 4250 Fuglebjerg,36,1670000.0,16-12-2005,Alm.,7990,7,Villa,209,1867,
+Lindekrogvej 4 4250 Fuglebjerg,4,1201000.0,13-12-2005,Alm.,12776,3,Villa,94,1939,
+Dalsgårdsvej 155 4250 Fuglebjerg,155,1420000.0,16-11-2005,Alm.,13523,4,Dobbelthus,105,2006,
+Sneslevvej 43 4250 Fuglebjerg,43,391000.0,14-11-2005,Fam.,4768,2,Villa,82,1897,
+Næblerødvej 2 4250 Fuglebjerg,2,1452213.0,04-11-2005,Alm.,9369,3,Villa,155,1878,
+Margrethevej 30 4250 Fuglebjerg,30,815000.0,27-10-2005,Fam.,6269,3,Villa,130,1967,
+Svalevænget 11 4250 Fuglebjerg,11,1360000.0,27-10-2005,Alm.,9066,5,Villa,150,1973,
+Sneslevvej 46 4250 Fuglebjerg,46,995000.0,25-10-2005,Alm.,10585,5,Villa,94,1906,
+Dalsgårdsvej 43 4250 Fuglebjerg,43,1700000.0,17-10-2005,Alm.,13385,3,Villa,127,1999,
+Bendslevvej 40 4250 Fuglebjerg,40,780000.0,13-10-2005,Alm.,5270,5,Villa,148,1800,
+Rugkrogvej 29 4250 Fuglebjerg,29,835000.0,12-10-2005,Alm.,9488,3,Villa,88,1963,
+Dalsgårdsvej 135 4250 Fuglebjerg,135,309000.0,12-10-2005,Alm.,2073,5,Villa,149,2006,
+Stjernelunden 13 4250 Fuglebjerg,13,320000.0,03-10-2005,Alm.,2461,4,Villa,130,2006,
+Rugkrogvej 3 4250 Fuglebjerg,3,1495000.0,01-10-2005,Alm.,8081,7,Villa,185,1878,
+Røgeskovvej 1 4250 Fuglebjerg,1,310100.0,23-09-2005,Fam.,1987,5,Stuehus,156,1880,
+Mågevej 5 4250 Fuglebjerg,5,1320000.0,23-09-2005,Alm.,11578,4,Villa,114,1978,
+Haldagermaglevej 5 4250 Fuglebjerg,5,2125000.0,20-09-2005,Fam.,13980,5,Stuehus,152,1885,
+Lærkevej 2 4250 Fuglebjerg,2,1125000.0,08-09-2005,Alm.,6656,5,Villa,169,1972,
+Virkelystvej 16 4250 Fuglebjerg,16,1400000.0,30-08-2005,Alm.,6965,7,Stuehus,201,1885,
+Bendslevvej 49 4250 Fuglebjerg,49,444500.0,29-08-2005,Alm.,3244,5,Villa,137,1900,
+Palmevængevej 1 4250 Fuglebjerg,1,1550000.0,11-08-2005,Alm.,8659,4,Villa,179,1922,
+Solvænget 6 4250 Fuglebjerg,6,750000.0,09-08-2005,Alm.,0,7,Villa,150,1962,
+Fuglebjergvej 9 4250 Fuglebjerg,9,700000.0,24-07-2005,Fam.,5343,6,Villa,131,1954,
+Tystrupvej 16 4250 Fuglebjerg,16,1100000.0,24-07-2005,Fam.,7189,4,Villa,153,1954,
+Dalsgårdsvej 147 4250 Fuglebjerg,147,250425.0,18-07-2005,Alm.,1636,5,Villa,153,2006,
+Rejnstrupvej 16 4250 Fuglebjerg,16,945000.0,17-07-2005,Alm.,6428,5,Villa,147,1968,
+Haldager Mark Vej 5 4250 Fuglebjerg,5,155000.0,16-07-2005,Alm.,1371,5,Stuehus,113,1900,
+Skælskørvej 72 4250 Fuglebjerg,72,550000.0,14-07-2005,Alm.,0,6,Villa,173,1928,
+Hørhavevej 5 4250 Fuglebjerg,5,3407000.0,13-07-2005,Alm.,0,5,Stuehus,236,1800,
+Næstvedvej 7 4250 Fuglebjerg,7,1600000.0,01-07-2005,Alm.,4040,17,Villa,396,1840,
+Haldager Mark Vej 15 4250 Fuglebjerg,15,825000.0,30-06-2005,Alm.,5061,4,Villa,163,1876,
+Dalsgårdsvej 41 4250 Fuglebjerg,41,1750000.0,30-06-2005,Alm.,10670,6,Villa,164,1998,
+Lundevej 7 4250 Fuglebjerg,7,975000.0,27-06-2005,Alm.,5270,6,Villa,185,1887,
+Næblerødvej 5 4250 Fuglebjerg,5,1745000.0,20-06-2005,Alm.,7270,5,Villa,240,1976,
+Tystrupvej 37 4250 Fuglebjerg,37,1895000.0,14-06-2005,Alm.,13439,6,Villa,141,1932,
+Sorøvej 6 4250 Fuglebjerg,6,735000.0,14-06-2005,Alm.,8448,5,Villa,87,1923,
+Benediktevej 12 4250 Fuglebjerg,12,1295000.0,13-06-2005,Alm.,9250,4,Villa,140,1969,
+Mågevej 13 4250 Fuglebjerg,13,1145000.0,06-06-2005,Alm.,9956,3,Villa,115,1977,
+Dalsgårdsvej 66 4250 Fuglebjerg,66,1350000.0,28-05-2005,Alm.,10800,5,Villa,125,1980,
+Indre Krummerupvej 7 4250 Fuglebjerg,7,970000.0,26-05-2005,Alm.,8220,5,Villa,118,1922,
+Anne Marie Vej 21 4250 Fuglebjerg,21,975000.0,21-05-2005,Alm.,9375,3,Villa,104,1972,
+Rødkælkevej 1 4250 Fuglebjerg,1,1175000.0,20-05-2005,Alm.,7629,6,Villa,154,1973,
+Skælskørvej 61 4250 Fuglebjerg,61,700000.0,02-05-2005,Auktion,2592,9,Villa,270,1870,
+Kirkevej 12 4250 Fuglebjerg,12,1230000.0,26-04-2005,Alm.,7735,4,Villa,159,1969,
+Skælskørvej 80 4250 Fuglebjerg,80,795000.0,20-04-2005,Alm.,9352,3,Villa,85,1901,
+Haldager Mark Vej 2 4250 Fuglebjerg,2,2030000.0,12-04-2005,Alm.,6424,9,Stuehus,316,1853,
+Dalsgårdsvej 24B 4250 Fuglebjerg,0,815000.0,12-04-2005,Alm.,10723,3,Dobbelthus,76,1984,
+Dalsgårdsvej 131A 4250 Fuglebjerg,0,244000.0,07-04-2005,Alm.,3050,3,Dobbelthus,80,2005,
+Virkelystvej 10 4250 Fuglebjerg,10,1171408.0,04-04-2005,Alm.,8488,4,Stuehus,138,1935,
+Ydre Korsørvej 19 4250 Fuglebjerg,19,731000.0,28-03-2005,Fam.,9746,2,Stuehus,75,1857,
+Næstvedvej 13 4250 Fuglebjerg,13,1094064.0,21-03-2005,Alm.,8104,4,Villa,135,1860,
+Sneslevvej 81 4250 Fuglebjerg,81,330000.0,16-03-2005,Alm.,1641,4,Villa,201,2015,
+Vådagervej 2 4250 Fuglebjerg,2,625000.0,11-03-2005,Alm.,8445,4,Villa,74,1958,
+Stjernelunden 9 4250 Fuglebjerg,9,244492.0,04-03-2005,Alm.,1880,5,Villa,130,2005,
+Solvænget 1 4250 Fuglebjerg,1,735000.0,02-03-2005,Alm.,9800,3,Villa,75,1962,
+Haldagerlillevej 15 4250 Fuglebjerg,15,6500000.0,27-02-2005,Alm.,46099,6,Stuehus,141,1877,
+Kællerødvej 11 4250 Fuglebjerg,11,31000.0,17-02-2005,Fam.,155,4,Villa,200,2005,
+Dalsgårdsvej 35 4250 Fuglebjerg,35,104000.0,07-02-2005,Alm.,896,4,Villa,116,2006,
+Krummerupvej 57 4250 Fuglebjerg,57,81250.0,07-02-2005,Alm.,527,7,Stuehus,154,1888,
+Kærsangervej 1 4250 Fuglebjerg,1,592500.0,04-02-2005,Fam.,4232,5,Villa,140,1974,
+Storgårdsvej 4 4250 Fuglebjerg,4,355000.0,28-01-2005,Fam.,0,5,Villa,153,1965,
+Bakkevej 4 4250 Fuglebjerg,4,1575000.0,27-01-2005,Alm.,5015,7,Stuehus,314,1901,
+Skælskørvej 63 4250 Fuglebjerg,63,810000.0,26-01-2005,Alm.,6230,4,Villa,130,1916,
+Ydre Korsørvej 17 4250 Fuglebjerg,17,895000.0,20-01-2005,Alm.,13560,2,Villa,66,2002,
+Sneslevvej 23 4250 Fuglebjerg,23,795000.0,17-01-2005,Alm.,7871,5,Villa,101,1900,
+Rejnstrupvej 10 4250 Fuglebjerg,10,1325000.0,09-01-2005,Alm.,11134,3,Villa,119,1906,
+Krummerupvej 39 4250 Fuglebjerg,39,2775000.0,15-12-2004,Alm.,11100,7,Stuehus,250,2002,
+Korsørvej 45 4250 Fuglebjerg,45,2850000.0,14-12-2004,Alm.,10961,8,Stuehus,260,1926,
+Vibevænget 7 4250 Fuglebjerg,7,1275000.0,12-12-2004,Alm.,9375,4,Villa,136,1973,
+Falkevænget 8 4250 Fuglebjerg,8,1575000.0,10-12-2004,Alm.,10031,5,Villa,157,1987,
+Virkelystvej 14 4250 Fuglebjerg,14,790000.0,01-12-2004,Alm.,8061,3,Stuehus,98,1897,
+Dalsgårdsvej 53 4250 Fuglebjerg,53,1770000.0,30-11-2004,Alm.,10290,6,Villa,172,2000,
+Tværvej 10 4250 Fuglebjerg,10,1160000.0,30-11-2004,Alm.,8656,4,Villa,134,1923,
+Korsørvej 37 4250 Fuglebjerg,37,1045000.0,29-11-2004,Alm.,8708,5,Villa,120,1931,
+Langebjergvej 5 4250 Fuglebjerg,5,1050000.0,28-11-2004,Alm.,3476,8,Stuehus,302,1855,
+Tystrupvej 79 4250 Fuglebjerg,79,241000.0,19-11-2004,Fam.,4228,2,Villa,57,1777,
+Stjernelunden 11 4250 Fuglebjerg,11,1800000.0,16-11-2004,Alm.,12162,5,Villa,148,2001,
+Ingridvej 3 4250 Fuglebjerg,3,1157051.0,09-11-2004,Alm.,10149,4,Villa,114,1971,
+Erik Bøghs Vej 27 4250 Fuglebjerg,27,825000.0,08-11-2004,Alm.,6818,3,Villa,121,1963,
+Solsortevej 6 4250 Fuglebjerg,6,1295000.0,28-10-2004,Alm.,9664,4,Villa,134,1974,
+Fuglebjergvej 3 4250 Fuglebjerg,3,798000.0,22-10-2004,Alm.,8226,4,Villa,97,1902,
+"Torvet 4, 1 4250 Fuglebjerg",1,480000.0,19-10-2004,Alm.,7058,2,Lejlighed,68,1927,
+Sorøvej 46 4250 Fuglebjerg,46,10100000.0,18-10-2004,Alm.,68243,6,Villa,148,1901,
+Skælskørvej 98 4250 Fuglebjerg,98,1595000.0,14-10-2004,Alm.,11000,6,Villa,145,1910,
+Dyndmosevej 2 4250 Fuglebjerg,2,2250000.0,26-09-2004,Alm.,10321,6,Villa,218,1777,
+Stjernelunden 12 4250 Fuglebjerg,12,289492.0,22-09-2004,Alm.,1712,5,Villa,169,2005,
+Stjernelunden 2 4250 Fuglebjerg,2,1572198.0,11-08-2004,Alm.,11910,4,Villa,132,2003,
+Lindekrogvej 10 4250 Fuglebjerg,10,1093215.0,10-08-2004,Alm.,11882,4,Villa,92,1917,
+Tystrupvej 15 4250 Fuglebjerg,15,1550000.0,30-07-2004,Alm.,10544,5,Villa,147,1891,
+Sneslevvej 14 4250 Fuglebjerg,14,3800000.0,23-07-2004,Alm.,12666,12,Stuehus,300,1913,
+Skælskørvej 96 4250 Fuglebjerg,96,1150000.0,16-07-2004,Alm.,9663,4,Villa,119,1962,
+Ingridvej 27 4250 Fuglebjerg,27,1150000.0,14-07-2004,Alm.,7324,4,Villa,157,1973,
+Dalsgårdsvej 55 4250 Fuglebjerg,55,1370000.0,11-07-2004,Alm.,10960,4,Villa,125,2000,
+Næstvedvej 11 4250 Fuglebjerg,11,725000.0,08-07-2004,Alm.,6971,3,Villa,104,1963,
+Anne Marie Vej 19 4250 Fuglebjerg,19,1200000.0,03-07-2004,Alm.,8053,4,Villa,149,1971,
+Sorøvej 22A 4250 Fuglebjerg,0,2175000.0,01-07-2004,Alm.,6861,9,Villa,317,1964,
+Mågevej 38 4250 Fuglebjerg,38,1170000.0,01-06-2004,Alm.,0,6,Villa,185,1979,
+Dalsgårdsvej 18A 4250 Fuglebjerg,0,943552.0,10-05-2004,Alm.,9072,3,Dobbelthus,104,2004,
+Korsørvej 46 4250 Fuglebjerg,46,995000.0,24-04-2004,Alm.,7896,4,Villa,126,1964,
+Tranevej 9 4250 Fuglebjerg,9,998402.0,14-04-2004,Alm.,8320,4,Villa,120,1978,
+Tystrupvej 45A 4250 Fuglebjerg,0,850000.0,07-04-2004,Alm.,2972,5,Villa,286,2007,
+Haldagerlillevej 7A 4250 Fuglebjerg,0,1600000.0,02-04-2004,Alm.,6837,7,Villa,234,1989,
+Næblerødvej 9 4250 Fuglebjerg,9,853279.0,15-03-2004,Fam.,3555,9,Stuehus,240,1969,
+Vibevænget 13 4250 Fuglebjerg,13,1036856.0,15-03-2004,Andet,7975,4,Villa,130,1976,
+Spurvevej 50 4250 Fuglebjerg,50,985000.0,25-02-2004,Alm.,7755,4,Villa,127,1977,
+Næblerødvej 13 4250 Fuglebjerg,13,298434.0,23-02-2004,Alm.,4973,2,Villa,60,1828,
+Benediktevej 18 4250 Fuglebjerg,18,1195000.0,18-02-2004,Alm.,9958,4,Villa,120,1969,
+Højbjergvej 24 4250 Fuglebjerg,24,529017.0,05-02-2004,Alm.,7779,2,Villa,68,1800,
+Tværvej 18 4250 Fuglebjerg,18,657397.0,01-02-2004,Fam.,5618,3,Villa,117,1971,
+Tystrupvej 11 4250 Fuglebjerg,11,175000.0,31-01-2004,Alm.,1121,3,Villa,156,1971,
+Anne Marie Vej 23 4250 Fuglebjerg,23,1075000.0,15-01-2004,Alm.,7312,4,Villa,147,1972,
+Skælskørvej 79 4250 Fuglebjerg,79,566424.0,13-01-2004,Andet,7080,4,Villa,80,1908,
+Sandvedvej 31 4250 Fuglebjerg,31,679999.0,18-12-2003,Andet,6538,4,Villa,104,1967,
+Sandvedvej 29 4250 Fuglebjerg,29,746347.0,13-12-2003,Alm.,7774,4,Villa,96,1900,
+Dalsgårdsvej 17 4250 Fuglebjerg,17,1255000.0,09-12-2003,Alm.,10635,4,Villa,118,1995,
+Lindekrogvej 20 4250 Fuglebjerg,20,1285000.0,01-12-2003,Andet,10362,5,Stuehus,124,1880,
+Sorøvej 34A 4250 Fuglebjerg,0,1000000.0,22-10-2003,Alm.,4651,9,Villa,215,1962,
+Skælskørvej 92 4250 Fuglebjerg,92,695000.0,22-09-2003,Alm.,0,4,Villa,124,1912,
+Haldagerlillevej 2 4250 Fuglebjerg,2,1046420.0,05-09-2003,Alm.,6228,5,Stuehus,168,1930,
+Margrethevej 11 4250 Fuglebjerg,11,1085000.0,21-08-2003,Alm.,9041,4,Villa,120,1966,
+Sneslevvej 26 4250 Fuglebjerg,26,700000.0,18-08-2003,Alm.,5737,4,Villa,122,1911,
+Anne Marie Vej 17 4250 Fuglebjerg,17,975000.0,18-08-2003,Alm.,6964,4,Villa,140,1971,
+Rødkælkevej 11 4250 Fuglebjerg,11,1015000.0,14-08-2003,Alm.,7807,5,Villa,130,1974,
+Næstved Landevej 10 4250 Fuglebjerg,10,709355.0,12-08-2003,Alm.,8979,2,Villa,79,1800,
+Margrethevej 22 4250 Fuglebjerg,22,900000.0,31-07-2003,Alm.,8181,4,Villa,110,1967,
+Haldagermaglevej 29 4250 Fuglebjerg,29,700000.0,23-06-2003,Alm.,0,7,Villa,137,1965,
+Dalsgårdsvej 18B 4250 Fuglebjerg,0,37321.0,11-06-2003,Alm.,358,3,Dobbelthus,104,2004,
+Sorøvej 37 4250 Fuglebjerg,37,1404903.0,09-06-2003,Alm.,11707,3,Stuehus,120,1911,
+Sneslevvej 5 4250 Fuglebjerg,5,755000.0,31-05-2003,Alm.,3973,6,Villa,190,1907,
+Næstved Landevej 8 4250 Fuglebjerg,8,1248000.0,27-05-2003,Alm.,6534,5,Villa,191,1897,
+Margrethevej 3 4250 Fuglebjerg,3,930000.0,22-05-2003,Alm.,8691,4,Villa,107,1969,
+Ydre Korsørvej 15 4250 Fuglebjerg,15,600000.0,22-05-2003,Alm.,5714,4,Villa,105,1878,
+Kællerødvej 2 4250 Fuglebjerg,2,2200000.0,20-05-2003,Alm.,9482,4,Villa,232,1992,
+Krummerupvej 61 4250 Fuglebjerg,61,1185000.0,18-05-2003,Alm.,6849,4,Villa,173,1905,
+Storgårdsvej 5 4250 Fuglebjerg,5,4055000.0,06-05-2003,Fam.,11519,10,Stuehus,352,1890,
+Krogvej 7 4250 Fuglebjerg,7,1650000.0,30-04-2003,Alm.,8418,5,Stuehus,196,1860,
+Tystrupvej 36A 4250 Fuglebjerg,0,1662320.0,24-04-2003,Alm.,7421,6,Villa,224,1978,
+Spurvevej 46 4250 Fuglebjerg,46,892500.0,31-03-2003,Fam.,5509,5,Villa,162,1976,
+Sneslevvej 45 4250 Fuglebjerg,45,1176000.0,27-03-2003,Alm.,8977,2,Stuehus,131,1890,
+Palmevængevej 21 4250 Fuglebjerg,21,650000.0,19-03-2003,Alm.,3757,4,Villa,173,1852,
+Dalsgårdsvej 10 4250 Fuglebjerg,10,1050000.0,13-03-2003,Alm.,7777,4,Villa,135,1981,
+Bakkegårdsvej 1 4250 Fuglebjerg,1,1700000.0,21-02-2003,Alm.,9042,7,Villa,188,1870,
+Dalsgårdsvej 129 4250 Fuglebjerg,129,244175.0,13-02-2003,Alm.,1585,6,Villa,154,2004,
+Rolighedsvej 5 4250 Fuglebjerg,5,825000.0,03-02-2003,Alm.,6875,4,Villa,120,1950,
+Parkvej 2 4250 Fuglebjerg,2,1500000.0,25-01-2003,Alm.,8823,7,Villa,170,1959,
+Korsørvej 20 4250 Fuglebjerg,20,385000.0,19-01-2003,Alm.,2851,5,Villa,135,1909,
+Skælskørvej 51 4250 Fuglebjerg,51,666649.0,11-01-2003,Alm.,6944,4,Villa,96,1957,
+Sneslevvej 41 4250 Fuglebjerg,41,2575000.0,16-12-2002,Alm.,14548,5,Stuehus,177,1982,
+Korsørvej 4 4250 Fuglebjerg,4,47500.0,08-12-2002,Alm.,1583,4,Villa,30,1850,
+Højbjergvej 8 4250 Fuglebjerg,8,1600000.0,08-12-2002,Fam.,8556,6,Stuehus,187,2011,
+Korsørvej 31A 4250 Fuglebjerg,0,1033500.0,07-11-2002,Alm.,11483,3,Rækkehus,90,2003,
+Lærkevej 35 4250 Fuglebjerg,35,1075000.0,21-10-2002,Alm.,6803,5,Villa,158,1974,
+Palmevængevej 11 4250 Fuglebjerg,11,1325000.0,28-09-2002,Alm.,11830,5,Stuehus,112,1979,
+Haldagerlillevej 8 4250 Fuglebjerg,8,1075000.0,24-09-2002,Alm.,7678,7,Villa,140,1928,
+Vibevænget 5 4250 Fuglebjerg,5,790000.0,10-09-2002,Alm.,7314,4,Villa,108,1973,
+Flemstoftevej 14 4250 Fuglebjerg,14,271500.0,30-08-2002,Alm.,1160,3,Villa,234,1920,
+Skælskørvej 102 4250 Fuglebjerg,102,890000.0,26-08-2002,Alm.,3787,7,Villa,235,1930,
+Indre Krummerupvej 17 4250 Fuglebjerg,17,1075000.0,26-08-2002,Alm.,5906,6,Villa,182,1953,
+Mågevej 18 4250 Fuglebjerg,18,822601.0,10-08-2002,Alm.,8568,4,Rækkehus,96,1977,
+Solsortevej 7 4250 Fuglebjerg,7,940000.0,06-08-2002,Alm.,8173,4,Villa,115,1974,
+Palmevængevej 17 4250 Fuglebjerg,17,1295000.0,01-08-2002,Alm.,10528,4,Stuehus,123,1800,
+Storgårdsvej 3 4250 Fuglebjerg,3,1425125.0,24-07-2002,Alm.,5545,8,Villa,257,1979,
+Tranevej 2 4250 Fuglebjerg,2,1050000.0,10-07-2002,Alm.,7094,4,Villa,148,1977,
+Korsørvej 26 4250 Fuglebjerg,26,450000.0,05-07-2002,Alm.,5625,4,Villa,80,1913,
+Anne Marie Vej 29 4250 Fuglebjerg,29,1023696.0,05-07-2002,Alm.,9140,4,Villa,112,1972,
+Hørhavevej 1 4250 Fuglebjerg,1,3100000.0,10-06-2002,Alm.,8401,7,Stuehus,369,1913,
+Sandvedvej 4 4250 Fuglebjerg,4,1300000.0,07-05-2002,Alm.,13000,10,Engroshandel,100,1901,
+Haldager Mark Vej 34 4250 Fuglebjerg,34,283590.0,30-04-2002,Alm.,2509,3,Stuehus,113,1887,
+Sneslevvej 47 4250 Fuglebjerg,47,1090000.0,30-04-2002,Alm.,5561,6,Villa,196,1900,
+Margrethevej 9 4250 Fuglebjerg,9,948184.0,29-04-2002,Alm.,7836,4,Villa,121,1967,
+Bakkevej 3 4250 Fuglebjerg,3,212500.0,17-04-2002,Alm.,2125,4,Villa,100,1800,
+Brunemosevej 10 4250 Fuglebjerg,10,2175000.0,11-04-2002,Alm.,9841,9,Stuehus,221,1903,
+Mågevej 34 4250 Fuglebjerg,34,1070000.0,09-04-2002,Alm.,8045,4,Villa,133,1979,
+Spurvevej 14A 4250 Fuglebjerg,0,758049.0,17-03-2002,Alm.,7505,4,Rækkehus,101,1978,
+Rugkrogvej 33 4250 Fuglebjerg,33,2431000.0,12-03-2002,Fam.,18557,4,Villa,131,1940,
+Sneslevvej 55 4250 Fuglebjerg,55,656800.0,06-03-2002,Alm.,0,5,Villa,86,1976,
+Lindekrogvej 15 4250 Fuglebjerg,15,1099580.0,15-02-2002,Alm.,14468,3,Stuehus,76,1890,
+Mågevej 20 4250 Fuglebjerg,20,749620.0,18-01-2002,Alm.,7808,4,Rækkehus,96,1977,
+Sorøvej 25 4250 Fuglebjerg,25,714682.0,06-01-2002,Alm.,7367,5,Villa,97,1928,
+Ingridvej 19 4250 Fuglebjerg,19,650000.0,31-12-2001,Fam.,5462,4,Villa,119,1970,
+Haldagermaglevej 31 4250 Fuglebjerg,31,594666.0,25-12-2001,Alm.,6326,2,Villa,94,1917,
+Svalevej 19 4250 Fuglebjerg,19,1050000.0,04-12-2001,Alm.,6176,4,Villa,170,1973,
+Fredensvej 9 4250 Fuglebjerg,9,720000.0,30-11-2001,Alm.,4864,6,Villa,148,1950,
+Erik Bøghs Vej 6 4250 Fuglebjerg,6,765420.0,14-11-2001,Alm.,9112,3,Villa,84,1959,
+Fladholtevej 13 4250 Fuglebjerg,13,2400000.0,14-11-2001,Alm.,17777,5,Stuehus,135,1897,
+Kællerødvej 10 4250 Fuglebjerg,10,1487500.0,18-10-2001,Alm.,14583,5,Villa,102,1939,
+Højbjergvej 9 4250 Fuglebjerg,9,1225000.0,07-10-2001,Alm.,7080,4,Villa,173,1800,
+Højbjergvej 11 4250 Fuglebjerg,11,80000.0,17-09-2001,Alm.,503,5,Villa,159,2003,
+Tystrupvej 47 4250 Fuglebjerg,47,1500000.0,03-09-2001,Alm.,7462,6,Villa,201,1900,
+Ydre Korsørvej 5 4250 Fuglebjerg,5,735000.0,03-09-2001,Alm.,0,4,Villa,143,1909,
+Lundevej 13 4250 Fuglebjerg,13,850000.0,30-07-2001,Alm.,0,4,Villa,246,1877,
+Dalsgårdsvej 151 4250 Fuglebjerg,151,248700.0,19-07-2001,Alm.,1213,5,Villa,205,2001,
+Sandvedvej 45 4250 Fuglebjerg,45,870000.0,17-07-2001,Alm.,6170,3,Villa,141,1958,
+Ydre Korsørvej 3 4250 Fuglebjerg,3,2761686.0,11-07-2001,Alm.,26301,4,Stuehus,105,1905,
+Svalevænget 9 4250 Fuglebjerg,9,921627.0,30-06-2001,Alm.,7616,3,Villa,121,1973,
+Sandvedvej 53 4250 Fuglebjerg,53,3300000.0,20-06-2001,Alm.,20625,6,Stuehus,160,1909,
+Storgårdsvej 6 4250 Fuglebjerg,6,600000.0,19-06-2001,Alm.,5660,3,Stuehus,106,1915,
+Krummerupvej 54 4250 Fuglebjerg,54,1022129.0,18-06-2001,Alm.,0,8,Villa,176,1900,
+Grængebjergvej 2 4250 Fuglebjerg,2,404100.0,14-06-2001,Andet,2786,7,Villa,145,1870,
+Gunderslevvej 2 4250 Fuglebjerg,2,1127000.0,29-05-2001,Alm.,7719,5,Stuehus,146,1850,
+Sneslevvej 20 4250 Fuglebjerg,20,660270.0,29-05-2001,Alm.,8253,3,Villa,80,1912,
+Bendslevvej 20 4250 Fuglebjerg,20,499000.0,16-05-2001,Alm.,6237,3,Villa,80,1906,
+Spurvevej 30 4250 Fuglebjerg,30,898000.0,08-05-2001,Alm.,7877,4,Villa,114,1976,
+Haldagermaglevej 18 4250 Fuglebjerg,18,678000.0,28-04-2001,Alm.,5895,5,Villa,115,1880,
+Palmevængevej 7 4250 Fuglebjerg,7,337101.0,01-04-2001,Alm.,1883,6,Villa,179,1800,
+Langebjergvej 9 4250 Fuglebjerg,9,3758115.0,30-03-2001,Alm.,21849,6,Stuehus,172,1894,
+Sorøvej 31 4250 Fuglebjerg,31,1100000.0,30-03-2001,Alm.,8029,4,Stuehus,137,1926,
+Bendslevvej 50 4250 Fuglebjerg,50,1265000.0,26-03-2001,Alm.,11396,5,Stuehus,111,1941,
+Tystrupvej 20 4250 Fuglebjerg,20,540000.0,26-03-2001,Fam.,0,5,Villa,127,1945,
+Drosselvænget 5 4250 Fuglebjerg,5,978090.0,24-03-2001,Alm.,5120,7,Villa,191,1974,
+Tystrupvej 34 4250 Fuglebjerg,34,828646.0,16-03-2001,Alm.,6138,4,Villa,135,1921,
+Kirkevej 8 4250 Fuglebjerg,8,840000.0,07-03-2001,Alm.,6086,4,Villa,138,1967,
+Dalsgårdsvej 9 4250 Fuglebjerg,9,407955.0,06-03-2001,Fam.,2487,5,Villa,164,1980,
+Tystrupvej 49 4250 Fuglebjerg,49,1125000.0,20-02-2001,Alm.,7258,5,Villa,155,1916,
+Stjernelunden 10 4250 Fuglebjerg,10,240000.0,01-02-2001,Alm.,1548,5,Villa,155,2001,
+Palmevængevej 20 4250 Fuglebjerg,20,906788.0,29-01-2001,Alm.,9856,3,Villa,92,1860,
+Parkvej 8 4250 Fuglebjerg,8,684962.0,12-12-2000,Alm.,9383,3,Villa,73,1946,
+Dalsgårdsvej 22B 4250 Fuglebjerg,0,723000.0,06-12-2000,Alm.,8123,3,Rækkehus,89,1986,
+Dalsgårdsvej 37 4250 Fuglebjerg,37,1200000.0,23-11-2000,Alm.,8333,5,Villa,144,1999,
+Dalsgårdsvej 56 4250 Fuglebjerg,56,665000.0,19-11-2000,Alm.,6584,3,Rækkehus,101,1980,
+Solsortevej 3 4250 Fuglebjerg,3,971000.0,12-11-2000,Alm.,7585,4,Villa,128,1978,
+Flemstoftevej 9 4250 Fuglebjerg,9,1100000.0,21-10-2000,Alm.,5789,7,Villa,190,1918,
+Krummerupvej 47 4250 Fuglebjerg,47,803000.0,10-10-2000,Alm.,4723,8,Villa,170,1906,
+Bakkegårdsvej 9 4250 Fuglebjerg,9,655619.0,07-10-2000,Alm.,5906,4,Villa,111,1902,
+Svalevej 15 4250 Fuglebjerg,15,813624.0,04-10-2000,Alm.,7899,4,Villa,103,1976,
+Fuglebjerglundvej 10 4250 Fuglebjerg,10,680600.0,15-09-2000,Alm.,5867,4,Villa,116,1965,
+Slagelsevej 4 4250 Fuglebjerg,4,1065000.0,06-09-2000,Alm.,9342,4,Stuehus,114,1875,
+Ingridvej 7 4250 Fuglebjerg,7,785000.0,25-08-2000,Alm.,7850,4,Villa,100,1975,
+Tranevej 5 4250 Fuglebjerg,5,1430532.0,20-07-2000,Alm.,7774,5,Villa,184,1976,
+Korsørvej 28 4250 Fuglebjerg,28,743000.0,19-07-2000,Alm.,5269,5,Villa,141,1912,
+Drosselvænget 7 4250 Fuglebjerg,7,900000.0,13-07-2000,Fam.,5696,4,Villa,158,1973,
+Sorøvej 42 4250 Fuglebjerg,42,290000.0,28-06-2000,Alm.,2000,4,Villa,145,1902,
+Fuglebjerglundvej 26 4250 Fuglebjerg,26,174334.0,27-06-2000,Alm.,1050,4,Stuehus,166,1852,
+Næstvedvej 8 4250 Fuglebjerg,8,1083000.0,23-06-2000,Alm.,6603,6,Villa,164,1917,
+Rejnstrupvej 22 4250 Fuglebjerg,22,864000.0,19-06-2000,Alm.,9931,2,Villa,87,1922,
+Nyvej 3 4250 Fuglebjerg,3,894946.0,02-06-2000,Alm.,6728,5,Villa,133,1928,
+Sneslevvej 35 4250 Fuglebjerg,35,950000.0,23-05-2000,Alm.,6985,4,Stuehus,136,1906,
+Stjernelunden 6 4250 Fuglebjerg,6,245000.0,11-05-2000,Alm.,1346,4,Villa,182,2000,
+Mågevej 14 4250 Fuglebjerg,14,367494.0,27-04-2000,Andet,3062,4,Villa,120,1978,
+Rugkrogvej 14 4250 Fuglebjerg,14,110000.0,11-04-2000,Alm.,679,5,Stuehus,162,1907,
+Flemstoftevej 15 4250 Fuglebjerg,15,813422.0,27-03-2000,Alm.,5810,5,Villa,140,1877,
+Anne Marie Vej 8 4250 Fuglebjerg,8,831000.0,18-01-2000,Alm.,5503,5,Villa,151,1968,
+Fredensvej 4 4250 Fuglebjerg,4,665887.0,12-01-2000,Alm.,5044,5,Villa,132,1965,
+Langebjergvej 6 4250 Fuglebjerg,6,946000.0,09-12-1999,Alm.,12613,3,Stuehus,75,1910,
+Margrethevej 21 4250 Fuglebjerg,21,590000.0,23-11-1999,Alm.,5267,4,Villa,112,1966,
+Stjernelunden 14 4250 Fuglebjerg,14,270000.0,09-11-1999,Alm.,1636,4,Villa,165,2000,
+Grængebjergvej 11 4250 Fuglebjerg,11,170000.0,31-10-1999,Alm.,2236,5,Villa,76,1777,
+Lærkevej 3 4250 Fuglebjerg,3,835000.0,27-10-1999,Alm.,6185,5,Villa,135,1972,
+Falkevænget 7 4250 Fuglebjerg,7,939830.0,13-10-1999,Alm.,8543,4,Villa,110,1988,
+Stjernelunden 5 4250 Fuglebjerg,5,245000.0,05-10-1999,Alm.,1633,4,Villa,150,1999,
+Dalsgårdsvej 36 4250 Fuglebjerg,36,1162267.0,15-09-1999,Alm.,8127,4,Villa,143,1986,
+Rugkrogvej 15 4250 Fuglebjerg,15,550000.0,31-08-1999,Alm.,3179,6,Stuehus,173,2009,
+Palmevængevej 5 4250 Fuglebjerg,5,2935000.0,30-08-1999,Fam.,10951,8,Stuehus,268,1890,
+Sneslevvej 49 4250 Fuglebjerg,49,1475646.0,17-08-1999,Alm.,11012,5,Stuehus,134,1944,
+Rugkrogvej 19 4250 Fuglebjerg,19,381000.0,02-08-1999,Alm.,3810,3,Villa,100,1840,
+Dalsgårdsvej 78 4250 Fuglebjerg,78,1100000.0,29-07-1999,Alm.,6626,6,Villa,166,1999,
+Benediktevej 20 4250 Fuglebjerg,20,766000.0,09-07-1999,Alm.,6547,3,Villa,117,1969,
+Lærkevej 17 4250 Fuglebjerg,17,950000.0,18-05-1999,Alm.,5428,5,Villa,175,1973,
+Skælskørvej 77 4250 Fuglebjerg,77,540000.0,11-05-1999,Alm.,7714,3,Villa,70,1903,
+Fuglebjergvej 13 4250 Fuglebjerg,13,935000.0,30-04-1999,Alm.,2073,12,Villa,451,1935,
+Fuglebjerglundvej 24 4250 Fuglebjerg,24,599200.0,29-04-1999,Alm.,7490,4,Villa,80,1888,
+Næstvedvej 5 4250 Fuglebjerg,5,824000.0,23-04-1999,Alm.,4454,6,Villa,185,1877,
+Haldager Mark Vej 28 4250 Fuglebjerg,28,899900.0,19-04-1999,Alm.,11998,3,Stuehus,75,1935,
+Rugkrogvej 6 4250 Fuglebjerg,6,564829.0,11-04-1999,Andet,2424,6,Stuehus,233,1926,
+Duevænget 9 4250 Fuglebjerg,9,765000.0,04-04-1999,Alm.,6428,4,Villa,119,1973,
+Næblerødvej 28 4250 Fuglebjerg,28,500000.0,11-03-1999,Fam.,3125,7,Villa,160,1941,
+Højbjergvej 13 4250 Fuglebjerg,13,833767.0,07-03-1999,Alm.,3403,7,Villa,245,1890,
+Dalsgårdsvej 20 4250 Fuglebjerg,20,1208320.0,01-03-1999,Alm.,5646,7,Villa,214,1984,
+Hindholmvej 23 4250 Fuglebjerg,23,3512218.0,04-02-1999,Fam.,14394,8,Stuehus,244,1936,
+Rugkrogvej 9 4250 Fuglebjerg,9,2900000.0,17-01-1999,Alm.,0,10,Stuehus,325,1890,
+Højbjergvej 14 4250 Fuglebjerg,14,621314.0,14-01-1999,Alm.,4970,3,Villa,125,1903,
+Lærkevej 10 4250 Fuglebjerg,10,775000.0,11-01-1999,Alm.,6150,4,Villa,126,1974,
+Lindekrogvej 8 4250 Fuglebjerg,8,1147500.0,02-12-1998,Fam.,7650,6,Stuehus,150,1835,
+Parkvej 11 4250 Fuglebjerg,11,780485.0,27-11-1998,Alm.,6294,4,Villa,124,1966,
+Fuglebjerglundvej 14 4250 Fuglebjerg,14,505447.0,24-11-1998,Fam.,2888,7,Stuehus,175,1921,
+Erik Bøghs Vej 17 4250 Fuglebjerg,17,719551.0,20-11-1998,Alm.,5451,5,Villa,132,1962,
+Dalsgårdsvej 50 4250 Fuglebjerg,50,1039000.0,11-11-1998,Alm.,8447,4,Villa,123,1998,
+Nortvedvej 9 4250 Fuglebjerg,9,1820415.0,14-10-1998,Alm.,17503,5,Stuehus,104,1903,
+Langebjergvej 12 4250 Fuglebjerg,12,459000.0,02-10-1998,Alm.,4211,3,Villa,109,1878,
+Fuglebjerglundvej 19 4250 Fuglebjerg,19,1183000.0,25-09-1998,Alm.,0,6,Stuehus,327,1887,
+Grængebjergvej 10 4250 Fuglebjerg,10,1467090.0,17-09-1998,Fam.,6112,8,Stuehus,240,2004,
+Fredensvej 16 4250 Fuglebjerg,16,630000.0,14-09-1998,Alm.,5338,4,Villa,118,1954,
+Næblerødvej 10 4250 Fuglebjerg,10,570000.0,18-08-1998,Fam.,3725,4,Villa,153,1974,
+Næstved Landevej 18 4250 Fuglebjerg,18,820000.0,16-08-1998,Alm.,12238,4,Stuehus,67,1914,
+Rugkrogvej 18 4250 Fuglebjerg,18,887000.0,11-08-1998,Alm.,7516,4,Villa,118,1877,
+Tystrupvej 43 4250 Fuglebjerg,43,1699350.0,11-08-1998,Alm.,8289,6,Villa,205,1890,
+Sandvedvej 49 4250 Fuglebjerg,49,553000.0,31-07-1998,Alm.,5027,4,Villa,110,1986,
+Indre Krummerupvej 22 4250 Fuglebjerg,22,506000.0,16-07-1998,Fam.,4728,3,Villa,107,1926,
+Tranevej 7 4250 Fuglebjerg,7,810000.0,30-06-1998,Alm.,5400,4,Villa,150,1976,
+Lindekrogvej 7 4250 Fuglebjerg,7,1300000.0,29-06-1998,Alm.,7103,5,Stuehus,183,1900,
+Indre Krummerupvej 12 4250 Fuglebjerg,12,196810.0,22-06-1998,Fam.,2659,3,Villa,74,1911,
+Sorøvej 52 4250 Fuglebjerg,52,880000.0,22-06-1998,Alm.,2758,9,Villa,319,1857,
+Rugkrogvej 17 4250 Fuglebjerg,17,1307568.0,02-06-1998,Alm.,7558,8,Stuehus,173,1877,
+Slagelsevej 7 4250 Fuglebjerg,7,325758.0,19-05-1998,Alm.,3660,5,Villa,89,1878,
+Kildehusvej 2 4250 Fuglebjerg,2,607560.0,18-05-1998,Alm.,5376,2,Villa,113,1900,
+Korsørvej 7 4250 Fuglebjerg,7,225000.0,23-04-1998,Alm.,882,5,Villa,255,1868,
+Anne Marie Vej 1 4250 Fuglebjerg,1,820500.0,10-04-1998,Alm.,5506,4,Villa,149,1965,
+Spurvevej 38 4250 Fuglebjerg,38,759290.0,06-04-1998,Alm.,5624,5,Villa,135,1978,
+Palmevængevej 18 4250 Fuglebjerg,18,1126432.0,30-03-1998,Alm.,9386,2,Stuehus,120,1890,
+Fuglebjerglundvej 28 4250 Fuglebjerg,28,1183210.0,30-03-1998,Alm.,13146,2,Stuehus,90,1800,
+Dalsgårdsvej 6 4250 Fuglebjerg,6,610715.0,27-03-1998,Alm.,6046,4,Dobbelthus,101,1979,
+Sneslevvej 51 4250 Fuglebjerg,51,533417.0,13-03-1998,Alm.,6667,2,Villa,80,1900,
+Slagelsevej 8 4250 Fuglebjerg,8,486220.0,02-02-1998,Alm.,4502,3,Villa,108,1969,
+Grængebjergvej 9 4250 Fuglebjerg,9,2561162.0,12-01-1998,Fam.,12313,10,Stuehus,208,1810,
+Tværvej 20 4250 Fuglebjerg,20,357500.0,12-01-1998,Alm.,3310,4,Villa,108,1928,
+Fuglebjerglundvej 25 4250 Fuglebjerg,25,375528.0,05-01-1998,Alm.,2933,4,Villa,128,1877,
+Storgårdsvej 8 4250 Fuglebjerg,8,637136.0,03-11-1997,Alm.,0,5,Stuehus,179,1877,
+Haldager Mark Vej 16 4250 Fuglebjerg,16,600395.0,12-10-1997,Alm.,6671,2,Stuehus,90,1827,
+Brunemosevej 12 4250 Fuglebjerg,12,1262000.0,10-10-1997,Alm.,8089,5,Stuehus,156,1941,
+Nyvej 2 4250 Fuglebjerg,2,400000.0,01-10-1997,Alm.,4444,5,Industri o.l.,90,1928,
+Rugkrogvej 25 4250 Fuglebjerg,25,1028015.0,29-09-1997,Alm.,6506,5,Stuehus,158,1900,
+Sorøvej 13 4250 Fuglebjerg,13,150000.0,25-09-1997,Alm.,857,7,Villa,175,1906,
+Sorøvej 23 4250 Fuglebjerg,23,309928.0,18-09-1997,Alm.,1801,9,Villa,172,1800,
+Tystrupvej 27 4250 Fuglebjerg,27,265000.0,12-09-1997,Fam.,4732,4,Stuehus,56,1898,
+Tystrupvej 32 4250 Fuglebjerg,32,507700.0,08-09-1997,Alm.,6508,3,Villa,78,1958,
+Slagelsevej 10 4250 Fuglebjerg,10,426000.0,08-09-1997,Alm.,1717,7,Villa,248,1907,
+Flemstoftevej 21 4250 Fuglebjerg,21,380000.0,10-07-1997,Andet,4222,3,Villa,90,1936,
+Fuglebjerglundvej 17 4250 Fuglebjerg,17,485416.0,02-07-1997,Alm.,2805,6,Villa,173,1800,
+Palmevængevej 14 4250 Fuglebjerg,14,430000.0,01-07-1997,Fam.,2687,5,Villa,160,1878,
+Haldagermaglevej 3 4250 Fuglebjerg,3,746000.0,16-06-1997,Alm.,4662,9,Villa,160,1927,
+Indre Krummerupvej 20 4250 Fuglebjerg,20,465000.0,16-06-1997,Alm.,4345,5,Villa,107,1926,
+Dalsgårdsvej 48 4250 Fuglebjerg,48,93333.0,16-06-1997,Alm.,583,4,Villa,160,1997,
+Haldager Mark Vej 10 4250 Fuglebjerg,10,798700.0,15-06-1997,Alm.,5152,4,Villa,155,1877,
+Margrethevej 14 4250 Fuglebjerg,14,693000.0,02-06-1997,Alm.,5330,5,Villa,130,1964,
+Vibevej 1 4250 Fuglebjerg,1,695000.0,02-06-1997,Alm.,6435,4,Villa,108,1974,
+Lærkevej 12 4250 Fuglebjerg,12,500000.0,02-06-1997,Alm.,4098,4,Villa,122,1972,
+Solvænget 14 4250 Fuglebjerg,14,334500.0,03-04-1997,Alm.,4460,3,Villa,75,1961,
+Lindekrogvej 24 4250 Fuglebjerg,24,35000.0,27-02-1997,Auktion,460,3,Villa,76,1800,
+Skælskørvej 73 4250 Fuglebjerg,73,1900000.0,10-02-1997,Fam.,13103,5,Stuehus,145,1877,
+Næstvedvej 19 4250 Fuglebjerg,19,325000.0,04-02-1997,Alm.,2620,6,Villa,124,1800,
+Dalsgårdsvej 39 4250 Fuglebjerg,39,1025000.0,31-01-1997,Alm.,5510,6,Villa,186,1980,
+Haldager Mark Vej 8 4250 Fuglebjerg,8,1300000.0,17-12-1996,Alm.,9774,5,Stuehus,133,1921,
+Bendslevvej 18 4250 Fuglebjerg,18,299000.0,08-11-1996,Alm.,0,8,Villa,321,1790,
+Sneslevvej 62 4250 Fuglebjerg,62,2375000.0,29-10-1996,Alm.,12369,7,Stuehus,192,1877,
+Skælskørvej 88 4250 Fuglebjerg,88,468000.0,14-10-1996,Alm.,4727,6,Villa,99,1887,
+Næstved Landevej 6 4250 Fuglebjerg,6,496000.0,24-09-1996,Alm.,0,9,Villa,170,1870,
+Grængebjergvej 15 4250 Fuglebjerg,15,399800.0,21-09-1996,Alm.,2196,4,Villa,182,1890,
+Dalsgårdsvej 33 4250 Fuglebjerg,33,35920.0,19-09-1996,Alm.,262,5,Villa,137,1999,
+Anne Marie Vej 15 4250 Fuglebjerg,15,686920.0,05-09-1996,Alm.,5243,3,Villa,131,1969,
+Tystrupvej 35 4250 Fuglebjerg,35,426500.0,02-09-1996,Alm.,3877,4,Villa,110,1800,
+Sneslevvej 52 4250 Fuglebjerg,52,817000.0,11-07-1996,Alm.,4564,5,Stuehus,179,1900,
+Hestehavevej 6 4250 Fuglebjerg,6,675000.0,25-06-1996,Alm.,3375,5,Stuehus,200,1800,
+Tystrupvej 44 4250 Fuglebjerg,44,2006000.0,10-06-1996,Alm.,6754,8,Stuehus,297,1912,
+Tystrupvej 48 4250 Fuglebjerg,48,1144858.0,10-06-1996,Fam.,6504,5,Stuehus,176,1877,
+Tystrupvej 19 4250 Fuglebjerg,19,360000.0,10-06-1996,Fam.,2322,7,Stuehus,155,1943,
+Haldagerlillevej 12 4250 Fuglebjerg,12,219468.0,06-05-1996,Fam.,1155,7,Stuehus,190,1920,
+Næstvedvej 23 4250 Fuglebjerg,23,220000.0,30-04-1996,Alm.,1073,5,Stuehus,205,2000,
+Haldagerlillevej 10 4250 Fuglebjerg,10,1750000.0,05-02-1996,Alm.,10606,6,Stuehus,165,1864,
+Højbjergvej 1 4250 Fuglebjerg,1,378000.0,25-01-1996,Alm.,2147,4,Villa,176,1917,
+Sneslevvej 22 4250 Fuglebjerg,22,564000.0,02-01-1996,Alm.,3048,6,Villa,185,1863,
+Erik Bøghs Vej 19 4250 Fuglebjerg,19,464000.0,21-12-1995,Alm.,5043,3,Villa,92,1962,
+Øllemosevej 2 4250 Fuglebjerg,2,277000.0,20-11-1995,Alm.,0,5,Villa,201,1877,
+Erik Bøghs Vej 24 4250 Fuglebjerg,24,485000.0,20-11-1995,Alm.,4490,3,Villa,108,1962,
+Højbjergvej 3 4250 Fuglebjerg,3,275000.0,10-11-1995,Fam.,0,4,Stuehus,86,1926,
+Lindekrogvej 5 4250 Fuglebjerg,5,670000.0,08-11-1995,Alm.,4926,5,Villa,136,1968,
+Krummerupvej 48 4250 Fuglebjerg,48,77000.0,01-11-1995,Alm.,1013,3,Sommerhus,76,1850,
+Næstved Landevej 16 4250 Fuglebjerg,16,625000.0,26-10-1995,Alm.,3930,6,Stuehus,159,1914,
+Sneslevvej 11 4250 Fuglebjerg,11,375000.0,16-10-1995,Alm.,3906,2,Villa,96,1800,
+Lystager Torp Vej 3 4250 Fuglebjerg,3,790800.0,13-10-1995,Alm.,0,9,Villa,378,1827,
+Sandvedvej 55 4250 Fuglebjerg,55,66870.0,25-09-1995,Alm.,636,3,Villa,105,2002,
+Sorøvej 18 4250 Fuglebjerg,18,280000.0,25-09-1995,Alm.,3111,4,Villa,90,1892,
+Haldager Mark Vej 24 4250 Fuglebjerg,24,482000.0,19-09-1995,Alm.,0,4,Villa,143,1933,
+Rugkrogvej 4 4250 Fuglebjerg,4,581700.0,24-08-1995,Alm.,3421,6,Villa,170,1890,
+Lindekrogvej 3 4250 Fuglebjerg,3,307200.0,20-08-1995,Alm.,2898,4,Villa,106,1942,
+Lærkevej 20 4250 Fuglebjerg,20,635000.0,16-08-1995,Alm.,4738,4,Villa,134,1973,
+Haldager Mark Vej 30 4250 Fuglebjerg,30,430000.0,06-08-1995,Alm.,1482,5,Stuehus,290,1877,
+Langebjergvej 14 4250 Fuglebjerg,14,234650.0,02-08-1995,Alm.,0,10,Stuehus,249,1900,
+Krummerupvej 41 4250 Fuglebjerg,41,120000.0,05-06-1995,Auktion,937,4,Villa,128,1902,
+Tystrupvej 49A 4250 Fuglebjerg,0,970000.0,22-05-1995,Alm.,4024,8,Villa,241,1976,
+Krummerupvej 42 4250 Fuglebjerg,42,485000.0,22-05-1995,Alm.,0,5,Villa,201,1800,
+Dalsgårdsvej 60 4250 Fuglebjerg,60,15940.0,20-03-1995,Alm.,100,5,Villa,159,1995,
+Dalsgårdsvej 44 4250 Fuglebjerg,44,615000.0,19-02-1995,Alm.,3704,6,Villa,166,1980,
+Sandvedvej 3 4250 Fuglebjerg,3,896000.0,30-01-1995,Alm.,0,10,Villa,309,1932,
+Rejnstrupvej 21 4250 Fuglebjerg,21,550000.0,30-01-1995,Alm.,3666,5,Stuehus,150,1888,
+Tværvej 2 4250 Fuglebjerg,2,225000.0,30-01-1995,Alm.,1530,6,Villa,147,1927,
+Tystrupvej 12 4250 Fuglebjerg,12,150000.0,30-01-1995,Fam.,937,6,Villa,160,1760,
+Næstved Landevej 2 4250 Fuglebjerg,2,1400000.0,19-01-1995,Alm.,9722,6,Villa,144,1900,
+Lindekrogvej 9 4250 Fuglebjerg,9,432740.0,11-01-1995,Alm.,0,5,Villa,249,1921,
+Nyvej 8 4250 Fuglebjerg,8,400000.0,21-11-1994,Alm.,3007,4,Villa,133,1943,
+Sneslevvej 48 4250 Fuglebjerg,48,375000.0,13-10-1994,Alm.,2083,6,Villa,180,1898,
+Dalsgårdsvej 11 4250 Fuglebjerg,11,685000.0,03-10-1994,Alm.,6523,4,Villa,105,1988,
+Fuglebjerglundvej 3 4250 Fuglebjerg,3,320000.0,20-09-1994,Alm.,1367,6,Villa,234,1827,
+Svalevej 7 4250 Fuglebjerg,7,543000.0,12-09-1994,Alm.,4721,4,Villa,115,1974,
+Dalsgårdsvej 13 4250 Fuglebjerg,13,895000.0,31-08-1994,Alm.,4890,5,Villa,183,1990,
+Sandvedvej 23 4250 Fuglebjerg,23,425000.0,29-08-1994,Alm.,2125,5,Villa,200,1800,
+Sneslevvej 34 4250 Fuglebjerg,34,434440.0,29-08-1994,Alm.,0,3,Stuehus,118,1927,
+Solvænget 12 4250 Fuglebjerg,12,250000.0,19-08-1994,Alm.,3333,3,Villa,75,1961,
+Lærkevænget 11 4250 Fuglebjerg,11,295000.0,25-07-1994,Alm.,1766,5,Villa,167,1970,
+Krummerupvej 53 4250 Fuglebjerg,53,525000.0,13-07-1994,Alm.,0,8,Stuehus,236,1927,
+Kællerødvej 8 4250 Fuglebjerg,8,268586.0,05-07-1994,Alm.,1029,8,Villa,261,1936,
+Næblerødvej 20 4250 Fuglebjerg,20,1216746.0,31-05-1994,Alm.,6403,6,Stuehus,190,1916,
+Falkevænget 5 4250 Fuglebjerg,5,575000.0,03-05-1994,Auktion,2804,8,Villa,205,1980,
+Flemstoftevej 17 4250 Fuglebjerg,17,295000.0,13-12-1993,Alm.,2304,4,Villa,128,1827,
+Sneslevvej 71 4250 Fuglebjerg,71,650000.0,13-12-1993,Fam.,0,7,Stuehus,259,1906,
+Skælskørvej 59 4250 Fuglebjerg,59,285000.0,06-11-1993,Alm.,4318,3,Villa,66,1892,
+Højbjergvej 20 4250 Fuglebjerg,20,420000.0,25-10-1993,Alm.,2837,5,Villa,148,1887,
+Skælskørvej 86 4250 Fuglebjerg,86,176920.0,08-09-1993,Alm.,2010,4,Villa,88,1904,
+Overdrevsvej 2 4250 Fuglebjerg,2,962500.0,14-08-1993,Alm.,6730,6,Stuehus,143,1910,
+Korsørvej 38 4250 Fuglebjerg,38,440000.0,09-08-1993,Alm.,2378,4,Villa,185,1930,
+Krummerupvej 27 4250 Fuglebjerg,27,2444920.0,08-05-1993,Alm.,0,9,Stuehus,240,1913,
+Fredensvej 5 4250 Fuglebjerg,5,425000.0,08-02-1993,Alm.,3269,4,Villa,130,1962,
+"Lundevej 3, 1 4250 Fuglebjerg",1,395000.0,08-02-1993,Alm.,2500,5,Lejlighed,158,1927,
+Næstvedvej 3 4250 Fuglebjerg,3,490000.0,19-01-1993,Alm.,3951,5,Villa,124,1865,
+Dalsgårdsvej 46 4250 Fuglebjerg,46,432000.0,15-12-1992,Alm.,4277,4,Villa,101,1980,
+Dalsgårdsvej 14 4250 Fuglebjerg,14,350000.0,07-12-1992,Alm.,2364,5,Villa,148,1980,
+Palmevængevej 29 4250 Fuglebjerg,29,375000.0,12-10-1992,Alm.,0,5,Villa,160,1929,
+Haldagermaglevej 23 4250 Fuglebjerg,23,674100.0,14-09-1992,Alm.,2365,5,Villa,285,1906,
+Sorøvej 30 4250 Fuglebjerg,30,531000.0,14-09-1992,Alm.,3962,5,Villa,134,1925,
+Dalsgårdsvej 8 4250 Fuglebjerg,8,490000.0,31-08-1992,Alm.,4851,4,Rækkehus,101,1979,
+Ingridvej 5 4250 Fuglebjerg,5,585000.0,28-08-1992,Alm.,4834,4,Villa,121,1971,
+Palmevængevej 6 4250 Fuglebjerg,6,590000.0,17-08-1992,Alm.,4041,4,Villa,146,1898,
+Sorøvej 10 4250 Fuglebjerg,10,375000.0,10-08-1992,Alm.,2586,6,Villa,145,1882,
+Tystrupvej 41 4250 Fuglebjerg,41,390000.0,05-08-1992,Alm.,3095,5,Villa,126,1910,
+Benediktevej 21 4250 Fuglebjerg,21,508008.0,27-07-1992,Alm.,4535,3,Villa,112,1969,
+Erik Bøghs Vej 20 4250 Fuglebjerg,20,515000.0,24-07-1992,Alm.,4681,3,Villa,110,1962,
+Flemstoftevej 11 4250 Fuglebjerg,11,210000.0,24-06-1992,Alm.,0,4,Villa,84,1923,
+Nortvedvej 3 4250 Fuglebjerg,3,210000.0,19-06-1992,Alm.,2916,4,Villa,72,1953,
+Øllemosevej 1 4250 Fuglebjerg,1,380000.0,10-06-1992,Alm.,0,3,Stuehus,43,1896,
+Vibevænget 1 4250 Fuglebjerg,1,535000.0,18-05-1992,Fam.,3992,5,Villa,134,1973,
+Korsørvej 33 4250 Fuglebjerg,33,300000.0,18-05-1992,Alm.,0,4,Villa,132,1926,
+Mågevej 3 4250 Fuglebjerg,3,520000.0,14-05-1992,Alm.,4333,4,Villa,120,1978,
+Næstvedvej 31 4250 Fuglebjerg,31,486000.0,16-04-1992,Alm.,4458,3,Villa,109,1900,
+Glentevænget 3 4250 Fuglebjerg,3,795000.0,13-04-1992,Fam.,4847,5,Villa,164,1975,
+Førslevvej 31 4250 Fuglebjerg,31,600000.0,08-04-1992,Alm.,1666,11,Villa,360,1860,
+Lærkevej 23 4250 Fuglebjerg,23,585000.0,06-04-1992,Alm.,3874,4,Villa,151,1975,
+Bendslevvej 26 4250 Fuglebjerg,26,540000.0,20-03-1992,Fam.,3506,5,Stuehus,154,1800,
+Tystrupvej 6 4250 Fuglebjerg,6,990000.0,04-03-1992,Alm.,5129,6,Stuehus,193,1850,
+Sandvedvej 6 4250 Fuglebjerg,6,350000.0,02-03-1992,Alm.,0,8,Villa,150,1900,
+Korsørvej 14 4250 Fuglebjerg,14,617880.0,02-03-1992,Alm.,1780,11,Villa,347,1880,
+Rugkrogvej 31 4250 Fuglebjerg,31,850000.0,28-02-1992,Alm.,0,4,Stuehus,187,1827,
+Brunemosevej 2 4250 Fuglebjerg,2,1775000.0,18-02-1992,Alm.,7924,7,Stuehus,224,1870,
+Sorøvej 8 4250 Fuglebjerg,8,440000.0,20-01-1992,Fam.,4036,4,Villa,109,1877,

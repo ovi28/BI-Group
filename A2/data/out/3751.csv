@@ -1,0 +1,507 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Lærkevej 9 3751 Østermarie,9,395000.0,13-04-2017,Alm.,3405,6,Villa,116,1964,0 %
+Kirkebyvej 35 3751 Østermarie,35,60186.0,05-04-2017,Andet,601,6,Sommerhus,100,1909,
+Lyrsbyvej 14 3751 Østermarie,14,154631.0,21-03-2017,Fam.,954,7,Villa,162,1850,
+Dyndevej 13 3751 Østermarie,13,725000.0,20-03-2017,Alm.,4367,6,Villa,166,1900,0 %
+Lyrsbyvej 24 3751 Østermarie,24,1395000.0,09-03-2017,Alm.,5344,8,Villa,261,1884,
+Aspevej 13 3751 Østermarie,13,1300000.0,07-03-2017,Fam.,8125,4,Stuehus,160,1890,
+Godthåbsvej 6 3751 Østermarie,6,675000.0,03-03-2017,Alm.,4166,6,Villa,162,1910,5 %
+Stenbakkevej 5 3751 Østermarie,5,38501.0,13-02-2017,Auktion,396,3,Villa,97,1900,
+Hedebovej 2 3751 Østermarie,2,462500.0,26-01-2017,Alm.,3503,5,Villa,132,1934,-22 %
+Buskevej 12 3751 Østermarie,12,266666.0,20-01-2017,Alm.,2359,4,Sommerhus,113,1952,
+Havrehøjvej 6 3751 Østermarie,6,431526.0,13-01-2017,Fam.,2838,4,Villa,152,1909,
+Godthåbsvej 20 3751 Østermarie,20,211500.0,02-01-2017,Auktion,618,11,Villa,342,1904,-14 %
+Myregårdsvej 14 3751 Østermarie,14,4340000.0,15-12-2016,Fam.,17086,7,Stuehus,254,1777,
+Ølenevej 25 3751 Østermarie,25,2340000.0,12-12-2016,Alm.,20707,4,Stuehus,113,1974,
+Kirkebyvej 48 3751 Østermarie,48,510000.0,08-12-2016,Alm.,3269,7,Sommerhus,156,1966,
+Kirkebyvej 34 3751 Østermarie,34,845000.0,18-10-2016,Alm.,3164,5,Villa,267,1828,
+Kirkebyvej 19 3751 Østermarie,19,1255000.0,14-10-2016,Alm.,4403,10,Stuehus,285,1918,-3 %
+Rosenørns Allé 17 3751 Østermarie,17,148854.0,12-10-2016,Andet,1431,4,Villa,104,1962,
+Ypnasted 10 3751 Østermarie,10,2000000.0,10-10-2016,Fam.,9345,5,Stuehus,214,1777,
+Nydamsvej 5 3751 Østermarie,5,825000.0,29-09-2016,Alm.,5427,2,Stuehus,152,1988,-3 %
+Bølshavnvej 2 3751 Østermarie,2,450000.0,26-09-2016,Alm.,3260,5,Villa,138,1913,
+Myregårdsvej 4 3751 Østermarie,4,50000.0,08-09-2016,Alm.,458,4,Stuehus,109,1845,
+Ølenevej 20 3751 Østermarie,20,995000.0,19-08-2016,Alm.,4077,4,Stuehus,244,1826,0 %
+Svanekevej 27 3751 Østermarie,27,315000.0,19-07-2016,Fam.,1640,5,Villa,192,1828,
+Almindingensvej 43 3751 Østermarie,43,147500.0,19-07-2016,Fam.,1229,3,Villa,120,1928,
+Dalslundevej 4 3751 Østermarie,4,395000.0,19-07-2016,Alm.,1717,3,Villa,230,1923,0 %
+Bølshavn 2 3751 Østermarie,2,1685000.0,04-07-2016,Alm.,7262,8,Villa,232,1922,-15 %
+Godthåbsvej 68 3751 Østermarie,68,135000.0,29-06-2016,Alm.,1336,3,Villa,101,1920,0 %
+Almindingensvej 57 3751 Østermarie,57,957525.0,14-06-2016,Alm.,7539,4,Stuehus,127,1912,-13 %
+Godthåbsvej 44 3751 Østermarie,44,375000.0,03-06-2016,Alm.,3640,4,Villa,103,1928,-5 %
+Almindingensvej 3 3751 Østermarie,3,345000.0,11-05-2016,Alm.,2738,4,Villa,126,1935,0 %
+Ølenevej 11 3751 Østermarie,11,125000.0,01-05-2016,Alm.,753,6,Stuehus,166,1870,-77 %
+Skrullevej 2 3751 Østermarie,2,1198000.0,29-04-2016,Alm.,6305,8,Stuehus,190,1877,0 %
+Lærkevej 14 3751 Østermarie,14,315000.0,21-04-2016,Alm.,2943,4,Villa,107,1974,-6 %
+Drosselvej 2 3751 Østermarie,2,325000.0,20-04-2016,Alm.,3385,3,Villa,96,1986,-7 %
+Lundsvej 1 3751 Østermarie,1,598000.0,06-04-2016,Alm.,4600,5,Villa,130,1959,0 %
+Godthåbsvej 23 3751 Østermarie,23,200000.0,05-04-2016,Alm.,975,6,Villa,205,1937,0 %
+Svanekevej 14 3751 Østermarie,14,300000.0,01-03-2016,Fam.,2255,5,Villa,133,1935,
+Risenholmsvej 18 3751 Østermarie,18,250000.0,01-03-2016,Alm.,1012,5,Stuehus,247,1922,
+Lærkevej 3 3751 Østermarie,3,165000.0,01-03-2016,Fam.,1386,3,Villa,119,1949,
+Lærkevej 16 3751 Østermarie,16,315000.0,29-02-2016,Alm.,2943,4,Villa,107,1972,-20 %
+Glappevej 4 3751 Østermarie,4,4965000.0,28-02-2016,Alm.,34964,5,Stuehus,142,1917,
+Godthåbsvej 76 3751 Østermarie,76,150000.0,05-02-2016,Alm.,931,4,Villa,161,1900,-33 %
+Godthåbsvej 4 3751 Østermarie,4,435000.0,02-02-2016,Alm.,2253,8,Villa,193,1920,-2 %
+Lyrsbyvej 18 3751 Østermarie,18,560000.0,21-01-2016,Alm.,4628,4,Sommerhus,121,1945,-19 %
+Almindingensvej 27 3751 Østermarie,27,200000.0,21-01-2016,Alm.,1212,5,Stuehus,165,1900,
+Kirkebyvej 22 3751 Østermarie,22,22000.0,01-12-2015,Alm.,137,7,Villa,160,1778,
+Plantagevej 45 3751 Østermarie,45,1000000.0,25-11-2015,Fam.,11494,4,Stuehus,87,1981,
+Risevej 1 3751 Østermarie,1,735000.0,16-11-2015,Alm.,3951,6,Villa,186,1890,0 %
+Glappevej 10 3751 Østermarie,10,386500.0,05-10-2015,Auktion,1242,6,Stuehus,311,1870,
+Randkløvevej 3 3751 Østermarie,3,1160000.0,14-09-2015,Alm.,4202,7,Stuehus,276,1908,-3 %
+Ølenevej 6 3751 Østermarie,6,235000.0,18-08-2015,Alm.,3133,4,Villa,75,1910,-11 %
+Kirkeskolevej 5 3751 Østermarie,5,100000.0,29-07-2015,Alm.,1086,2,Villa,92,1945,-56 %
+Svanekevej 47 3751 Østermarie,47,910000.0,22-07-2015,Alm.,7982,6,Stuehus,114,1777,
+Vestervej 4 3751 Østermarie,4,795000.0,17-07-2015,Alm.,4818,6,Villa,165,1985,0 %
+Myregårdsvej 9 3751 Østermarie,9,898000.0,07-07-2015,Alm.,3563,7,Stuehus,252,1898,0 %
+Ølenevej 8 3751 Østermarie,8,75000.0,03-07-2015,Alm.,347,8,Stuehus,216,1850,
+Almindingensvej 6 3751 Østermarie,6,1065000.0,13-04-2015,Alm.,4775,10,Villa,223,1954,7 %
+Hentregårdsvej 11 3751 Østermarie,11,495000.0,25-03-2015,Alm.,4267,4,Villa,116,1930,
+Almindingensvej 53 3751 Østermarie,53,1050000.0,24-03-2015,Alm.,6034,4,Stuehus,174,1905,-3 %
+Kirkebyvej 39 3751 Østermarie,39,16250000.0,18-02-2015,Fam.,89285,8,Stuehus,182,1991,
+Godthåbsvej 65 3751 Østermarie,65,200000.0,08-02-2015,Andet,2061,4,Villa,97,1878,
+Kirkebyvej 13 3751 Østermarie,13,70000.0,02-02-2015,Alm.,614,4,Villa,114,1918,-7 %
+Aspevej 31 3751 Østermarie,31,871250.0,28-01-2015,Fam.,6860,5,Stuehus,127,1928,
+Lyrsbyvej 27 3751 Østermarie,27,150000.0,27-01-2015,Alm.,714,8,Stuehus,210,1938,-40 %
+Ølenevej 30 3751 Østermarie,30,798808.0,26-01-2015,Alm.,2349,11,Stuehus,340,1877,
+Svanekevej 10 3751 Østermarie,10,995000.0,13-01-2015,Alm.,5467,5,Stuehus,182,1900,0 %
+Elmevej 7 3751 Østermarie,7,250000.0,06-01-2015,Alm.,1666,6,Villa,150,1913,-29 %
+Torvevænget 3 3751 Østermarie,3,420000.0,22-12-2014,Alm.,3962,4,Villa,106,1987,
+Stenbakkevej 4 3751 Østermarie,4,595000.0,21-11-2014,Alm.,4103,4,Villa,145,1935,0 %
+Saltunavej 6 3751 Østermarie,6,300000.0,06-11-2014,Alm.,1764,7,Stuehus,170,1915,-14 %
+Heroldsvej 1 3751 Østermarie,1,520000.0,03-11-2014,Auktion,1954,8,Stuehus,266,1898,-48 %
+Godthåbsvej 15 3751 Østermarie,15,145000.0,03-11-2014,Alm.,1380,4,Villa,105,1962,
+Svanekevej 24 3751 Østermarie,24,80300.0,01-09-2014,Auktion,603,3,Stuehus,133,1974,
+Godthåbsvej 74 3751 Østermarie,74,3382500.0,29-08-2014,Fam.,18896,7,Stuehus,179,1905,
+Præstegaden 12 3751 Østermarie,12,550000.0,04-08-2014,Auktion,2217,8,Stuehus,248,1919,
+Randkløvevej 30 3751 Østermarie,30,5000000.0,01-08-2014,Alm.,34965,7,Sommerhus,143,1946,-16 %
+Elmevej 3 3751 Østermarie,3,165000.0,24-07-2014,Alm.,1341,5,Villa,123,1928,-30 %
+Kirkebyvej 16 3751 Østermarie,16,175000.0,23-07-2014,Alm.,2364,3,Villa,74,1928,0 %
+Godthåbsvej 49 3751 Østermarie,49,164230.0,30-06-2014,Alm.,1273,4,Villa,129,1900,
+Lundsvej 6 3751 Østermarie,6,87000.0,30-06-2014,Auktion,763,5,Villa,114,1947,
+Hentregårdsvej 9 3751 Østermarie,9,625000.0,25-06-2014,Alm.,7716,4,Villa,81,1928,
+Svanekevej 51 3751 Østermarie,51,950000.0,20-06-2014,Alm.,4947,7,Villa,192,1928,-5 %
+Godthåbsvej 21 3751 Østermarie,21,20000.0,20-06-2014,Alm.,173,5,Villa,115,1935,
+Kirkebyvej 26 3751 Østermarie,26,450000.0,17-06-2014,Alm.,5294,5,Sommerhus,85,1903,
+Lyrsbyvej 12 3751 Østermarie,12,298000.0,06-06-2014,Alm.,1752,2,Villa,170,1859,0 %
+Almindingensvej 2 3751 Østermarie,2,310000.0,03-06-2014,Alm.,3100,3,Villa,100,1954,-22 %
+Nydamsvej 4 3751 Østermarie,4,400000.0,23-05-2014,Alm.,3053,4,Stuehus,131,1900,-20 %
+Ypnasted 19 3751 Østermarie,19,675000.0,20-05-2014,Fam.,10546,4,Sommerhus,64,1803,
+Dyndevej 3 3751 Østermarie,3,198000.0,01-05-2014,Alm.,2275,4,Villa,87,1878,0 %
+Glappevej 9 3751 Østermarie,9,895000.0,15-03-2014,Alm.,6629,4,Stuehus,135,1920,0 %
+Rosenørns Allé 1 3751 Østermarie,1,285000.0,10-03-2014,Alm.,2126,4,Villa,134,1967,-12 %
+Elmevej 1 3751 Østermarie,1,80000.0,20-02-2014,Alm.,1066,4,Villa,75,1920,
+Ypnasted 5 3751 Østermarie,5,516875.0,18-02-2014,Fam.,6891,4,Sommerhus,75,1728,
+Saltunavej 4 3751 Østermarie,4,400000.0,31-01-2014,Alm.,4761,4,Sommerhus,84,1878,-25 %
+Maglegårdsvej 2 3751 Østermarie,2,6527097.0,30-01-2014,Fam.,30078,7,Stuehus,217,1937,
+Randkløvevej 40 3751 Østermarie,40,3075000.0,07-01-2014,Alm.,14436,6,Sommerhus,213,1920,-12 %
+Randkløvevej 4 3751 Østermarie,4,4750000.0,27-12-2013,Alm.,21300,10,Stuehus,223,1949,
+Slamrebjergvej 22 3751 Østermarie,22,833800.0,20-12-2013,Fam.,4458,7,Villa,187,1927,
+Gadebyvej 6 3751 Østermarie,6,1050000.0,18-12-2013,Alm.,4646,6,Stuehus,226,1880,-11 %
+Torvegade 22 3751 Østermarie,22,475000.0,05-12-2013,Fam.,4896,3,Villa,97,1934,
+Almindingensvej 82 3751 Østermarie,82,540000.0,03-12-2013,Alm.,4218,4,Stuehus,128,1930,-6 %
+Godthåbsvej 1 3751 Østermarie,1,360000.0,02-12-2013,Alm.,2627,3,Villa,137,1934,-6 %
+Almindingensvej 46 3751 Østermarie,46,200000.0,19-11-2013,Alm.,1428,5,Villa,140,1950,-42 %
+Glappevej 3 3751 Østermarie,3,400000.0,08-10-2013,Alm.,3125,5,Stuehus,128,1850,-36 %
+Ypnasted 13 3751 Østermarie,13,1250000.0,10-09-2013,Alm.,15060,4,Sommerhus,83,1723,
+Skrullevej 6 3751 Østermarie,6,345000.0,03-09-2013,Alm.,3349,3,Villa,103,1900,0 %
+Glappevej 1 3751 Østermarie,1,280000.0,30-08-2013,Alm.,2170,6,Stuehus,129,1847,-20 %
+Nyvej 1 3751 Østermarie,1,250000.0,28-08-2013,Alm.,1953,4,Villa,128,1967,-28 %
+Kirkebyvej 3 3751 Østermarie,3,80000.0,08-08-2013,Alm.,769,3,Villa,104,1910,
+Ølenevej 18 3751 Østermarie,18,89000.0,05-08-2013,Auktion,494,5,Stuehus,180,1925,-93 %
+Svanekevej 30 3751 Østermarie,30,112500.0,15-07-2013,Auktion,1071,4,Villa,105,1918,
+Kirkebyvej 8 3751 Østermarie,8,70000.0,15-07-2013,Auktion,686,3,Rækkehus,102,1909,
+Kirkebyvej 44 3751 Østermarie,44,87500.0,21-06-2013,Alm.,2187,2,Villa,40,1870,
+Randkløvevej 46 3751 Østermarie,46,7100000.0,13-06-2013,Alm.,59166,4,Villa,120,1939,
+Savmøllevej 7 3751 Østermarie,7,370000.0,08-05-2013,Alm.,3008,3,Villa,123,1926,-20 %
+Lærkevej 7 3751 Østermarie,7,400000.0,25-04-2013,Alm.,1970,7,Villa,203,1962,-8 %
+Kirkebyvej 29 3751 Østermarie,29,62500.0,15-04-2013,Auktion,672,4,Stuehus,93,1818,
+Lyrsbyvej 21 3751 Østermarie,21,275000.0,11-04-2013,Alm.,2291,5,Stuehus,120,1840,0 %
+Lyrsbyvej 8 3751 Østermarie,8,500000.0,27-03-2013,Alm.,4716,3,Stuehus,106,1867,
+Godthåbsvej 18 3751 Østermarie,18,75000.0,21-02-2013,Alm.,585,4,Villa,128,1900,-21 %
+Havrehøjvej 10 3751 Østermarie,10,1475000.0,19-12-2012,Alm.,5363,8,Villa,275,1900,
+Lærkevej 19 3751 Østermarie,19,545000.0,12-12-2012,Alm.,4325,4,Villa,126,1979,0 %
+Ølenevej 22 3751 Østermarie,22,695000.0,05-12-2012,Alm.,3601,6,Villa,193,1865,0 %
+Kirkebyvej 6 3751 Østermarie,6,65000.0,15-11-2012,Alm.,369,3,Rækkehus,176,1903,-13 %
+Ølenevej 15 3751 Østermarie,15,25000.0,12-11-2012,Auktion,113,6,Villa,220,1870,-94 %
+Nybrovej 56 3751 Østermarie,56,522470.0,21-10-2012,Alm.,3002,7,Stuehus,174,1900,
+Nyvej 4 3751 Østermarie,4,250000.0,25-09-2012,Alm.,1953,6,Villa,128,1964,-15 %
+Almindingensvej 62 3751 Østermarie,62,120000.0,17-09-2012,Alm.,1935,3,Sommerhus,62,1890,-27 %
+Lyrsbyvej 13 3751 Østermarie,13,800000.0,13-08-2012,Alm.,8163,3,Stuehus,98,1893,
+Skrullevej 4 3751 Østermarie,4,14740000.0,30-07-2012,Alm.,58492,6,Stuehus,252,1908,
+Godthåbsvej 63 3751 Østermarie,63,250000.0,06-07-2012,Alm.,2659,4,Villa,94,1878,
+Hedebovej 4 3751 Østermarie,4,1584900.0,05-07-2012,Alm.,12781,4,Stuehus,124,1945,
+Myregårdsvej 5 3751 Østermarie,5,200000.0,02-07-2012,Alm.,1612,4,Villa,124,1900,-20 %
+Flæskedalsvej 7 3751 Østermarie,7,1600000.0,08-06-2012,Alm.,5031,6,Stuehus,318,1918,-14 %
+Rosenørns Allé 10 3751 Østermarie,10,650000.0,01-06-2012,Alm.,2549,9,Villa,255,1900,-7 %
+Kirkebyvej 41 3751 Østermarie,41,59014.0,15-03-2012,Alm.,281,4,Sommerhus,210,1848,
+Torvegade 15 3751 Østermarie,15,480000.0,02-02-2012,Alm.,3934,5,Villa,122,1960,-3 %
+Kirkeskolevej 7 3751 Østermarie,7,137413.0,16-12-2011,Alm.,543,8,Villa,253,1780,
+Svalevej 5 3751 Østermarie,5,1550000.0,13-12-2011,Alm.,9064,6,Villa,171,1999,-14 %
+Plantagevej 51 3751 Østermarie,51,950000.0,09-12-2011,Fam.,6089,4,Stuehus,156,1820,
+Torvevænget 4 3751 Østermarie,4,650000.0,23-11-2011,Alm.,5000,4,Villa,130,1987,
+Kirkebyvej 24 3751 Østermarie,24,1650000.0,17-11-2011,Alm.,10000,6,Villa,165,1917,
+Saltunavej 2 3751 Østermarie,2,150000.0,29-09-2011,Alm.,892,4,Sommerhus,168,1952,-23 %
+Saltunavej 5 3751 Østermarie,5,1175000.0,29-09-2011,Alm.,5389,6,Stuehus,218,1909,7 %
+Myregårdsvej 11 3751 Østermarie,11,166000.0,22-08-2011,Auktion,976,8,Stuehus,170,1818,
+Kirkebyvej 7 3751 Østermarie,7,395000.0,14-07-2011,Alm.,2500,5,Villa,158,1937,0 %
+Møllevej 3 3751 Østermarie,3,350000.0,23-06-2011,Alm.,3301,2,Villa,106,1950,
+Lærkevej 15 3751 Østermarie,15,425000.0,15-06-2011,Alm.,4569,3,Villa,93,1984,-4 %
+Grammegårdsvej 3 3751 Østermarie,3,401000.0,30-05-2011,Auktion,1572,5,Stuehus,255,1909,-46 %
+Kirkebyvej 2 3751 Østermarie,2,765000.0,04-05-2011,Alm.,4297,8,Villa,178,1975,-4 %
+Almindingensvej 31 3751 Østermarie,31,1700000.0,07-04-2011,Alm.,13385,4,Lejlighed,127,1908,
+Lyrsbyvej 20 3751 Østermarie,20,800000.0,14-03-2011,Alm.,3125,6,Villa,256,1990,
+Kirkebyvej 10 3751 Østermarie,10,150000.0,28-02-2011,Auktion,1063,6,Rækkehus,141,1918,-75 %
+Godthåbsvej 32 3751 Østermarie,32,500000.0,09-12-2010,Alm.,2512,7,Villa,199,1928,-8 %
+Lyrsbyvej 4 3751 Østermarie,4,495000.0,15-10-2010,Alm.,4304,5,Stuehus,115,1878,0 %
+Ypnasted 6 3751 Østermarie,6,3000000.0,06-10-2010,Alm.,21739,4,Sommerhus,138,1777,0 %
+Saltunavej 36 3751 Østermarie,36,637500.0,28-09-2010,Fam.,2213,5,Villa,288,1840,
+Lyrsbyvej 11 3751 Østermarie,11,301400.0,07-09-2010,Fam.,3767,4,Sommerhus,80,1867,
+Møllevej 10 3751 Østermarie,10,300000.0,25-08-2010,Alm.,2343,3,Villa,128,1943,-24 %
+Lyrsbyvej 36 3751 Østermarie,36,66666.0,17-08-2010,Alm.,623,5,Sommerhus,107,1877,
+Buskevej 1 3751 Østermarie,1,695000.0,19-07-2010,Alm.,5186,6,Stuehus,134,1908,0 %
+Kirkebyvej 21 3751 Østermarie,21,280000.0,05-07-2010,Auktion,2014,6,Sommerhus,139,1903,
+Randkløvevej 16 3751 Østermarie,16,1720000.0,10-06-2010,Fam.,5695,8,Stuehus,302,1904,
+Maglegårdsvej 5 3751 Østermarie,5,1150000.0,10-06-2010,Alm.,7142,7,Stuehus,161,1938,
+Plantagevej 59 3751 Østermarie,59,1100000.0,08-06-2010,Alm.,10891,4,Villa,101,1934,-6 %
+Nydamsvej 3 3751 Østermarie,3,1400000.0,03-06-2010,Alm.,11864,7,Stuehus,118,1930,-7 %
+Almindingensvej 30 3751 Østermarie,30,51000.0,31-05-2010,Auktion,531,3,Villa,96,1933,
+Randkløvevej 18 3751 Østermarie,18,1950000.0,21-05-2010,Alm.,26000,3,Sommerhus,75,1870,-2 %
+Lundsvej 7 3751 Østermarie,7,105000.0,18-05-2010,Auktion,1590,4,Rækkehus,66,1930,
+Lundsvej 14 3751 Østermarie,14,675000.0,10-05-2010,Alm.,6192,4,Villa,109,1966,-1 %
+Nybrovej 60 3751 Østermarie,60,13650000.0,24-02-2010,Fam.,41615,9,Stuehus,328,1916,
+Drosselvej 6 3751 Østermarie,6,725000.0,29-01-2010,Alm.,4965,4,Villa,146,1983,-3 %
+Rosenørns Allé 7 3751 Østermarie,7,650000.0,22-01-2010,Alm.,4304,5,Villa,151,1966,-6 %
+Aspevej 3 3751 Østermarie,3,1600000.0,08-01-2010,Alm.,6177,8,Stuehus,259,1854,
+Elmevej 8 3751 Østermarie,8,400000.0,05-01-2010,Alm.,3703,6,Villa,108,1933,-11 %
+Godthåbsvej 12 3751 Østermarie,12,700000.0,14-12-2009,Alm.,5737,5,Villa,122,1946,-6 %
+Rosenørns Allé 2A 3751 Østermarie,0,350000.0,08-12-2009,Alm.,5932,2,Fritid,59,1960,
+Almindingensvej 18 3751 Østermarie,18,395000.0,27-11-2009,Alm.,3834,3,Villa,103,1934,
+Lyrsbyvej 35 3751 Østermarie,35,745000.0,10-11-2009,Alm.,9312,5,Sommerhus,80,1850,-12 %
+Ypnasted 8 3751 Østermarie,8,3000000.0,21-10-2009,Alm.,16042,5,Villa,187,1600,
+Svalevej 4 3751 Østermarie,4,1145000.0,05-10-2009,Alm.,10504,4,Villa,109,1988,0 %
+Svanekevej 19 3751 Østermarie,19,900000.0,01-10-2009,Alm.,5389,6,Villa,167,1936,-10 %
+Kirkebyvej 27 3751 Østermarie,27,730000.0,11-09-2009,Alm.,7934,2,Villa,92,1878,-14 %
+Lyrsbyvej 22 3751 Østermarie,22,435000.0,04-09-2009,Alm.,3686,6,Villa,118,1898,-12 %
+Torvegade 9 3751 Østermarie,9,450000.0,10-08-2009,Auktion,2459,4,Villa,183,1970,-35 %
+Ølenevej 2 3751 Østermarie,2,585000.0,23-07-2009,Alm.,4915,4,Villa,119,1934,-2 %
+Rosenørns Allé 11 3751 Østermarie,11,495000.0,15-07-2009,Alm.,4759,4,Villa,104,1963,0 %
+Svanekevej 2B 3751 Østermarie,0,430000.0,03-07-2009,Alm.,3185,5,Villa,135,1927,-11 %
+Lindetsvej 2 3751 Østermarie,2,995000.0,20-06-2009,Alm.,5621,4,Villa,177,1800,0 %
+Almindingensvej 88 3751 Østermarie,88,400000.0,29-04-2009,Alm.,4000,3,Villa,100,1934,-11 %
+Åløsevej 37 3751 Østermarie,37,655000.0,22-04-2009,Alm.,7705,4,Villa,85,1908,-6 %
+Hentregårdsvej 7 3751 Østermarie,7,345000.0,08-04-2009,Alm.,2899,5,Villa,119,1910,0 %
+Almindingensvej 17 3751 Østermarie,17,675000.0,24-03-2009,Alm.,4623,6,Villa,146,1926,-4 %
+Almindingensvej 45 3751 Østermarie,45,385000.0,22-01-2009,Alm.,4184,4,Villa,92,1908,-22 %
+Dalslundevej 3 3751 Østermarie,3,1962500.0,19-01-2009,Fam.,10608,6,Stuehus,185,1850,
+Torvevænget 2 3751 Østermarie,2,695000.0,31-12-2008,Alm.,6556,4,Villa,106,1987,0 %
+Svanekevej 57 3751 Østermarie,57,1295000.0,17-12-2008,Alm.,7194,5,Stuehus,180,1903,
+Godthåbsvej 7 3751 Østermarie,7,560000.0,17-11-2008,Fam.,5833,3,Villa,96,1971,
+Ypnasted 7 3751 Østermarie,7,1475000.0,11-11-2008,Alm.,19155,5,Sommerhus,77,1900,
+Aspevej 17 3751 Østermarie,17,425000.0,10-11-2008,Alm.,5312,5,Villa,80,1885,
+Skrullevej 7 3751 Østermarie,7,700000.0,05-11-2008,Alm.,4000,5,Sommerhus,175,1900,-8 %
+Dyndevej 17 3751 Østermarie,17,1168000.0,27-10-2008,Alm.,14072,3,Stuehus,83,1895,-3 %
+Plantagevej 39 3751 Østermarie,39,3195000.0,23-10-2008,Alm.,23321,6,Stuehus,137,1877,-6 %
+Drosselvej 4 3751 Østermarie,4,695000.0,15-10-2008,Alm.,5036,2,Villa,138,1983,0 %
+Stenbakkevej 1 3751 Østermarie,1,400000.0,14-10-2008,Alm.,3225,3,Villa,124,1943,-20 %
+Dyndevej 19 3751 Østermarie,19,670000.0,29-09-2008,Alm.,7701,3,Villa,87,1908,0 %
+Godthåbsvej 17 3751 Østermarie,17,347500.0,18-09-2008,Fam.,1791,4,Villa,194,1931,
+Åløsevej 41 3751 Østermarie,41,1195000.0,04-09-2008,Alm.,5456,7,Villa,219,1916,0 %
+Drosselvej 8 3751 Østermarie,8,595000.0,14-08-2008,Alm.,3459,5,Villa,172,1983,-14 %
+Louisenlundvej 4 3751 Østermarie,4,3000000.0,10-08-2008,Alm.,18750,5,Stuehus,160,1870,
+Kirkebyvej 54 3751 Østermarie,54,4902863.0,25-07-2008,Alm.,15815,4,Stuehus,310,1878,64 %
+Hentregårdsvej 12 3751 Østermarie,12,1025000.0,22-07-2008,Alm.,6029,7,Villa,170,1930,-18 %
+Åløsevej 38 3751 Østermarie,38,670000.0,15-07-2008,Alm.,6261,5,Stuehus,107,1935,
+Stenbakkevej 13 3751 Østermarie,13,960000.0,15-07-2008,Alm.,0,5,Stuehus,214,1950,-20 %
+Randkløvevej 7 3751 Østermarie,7,1525000.0,13-07-2008,Alm.,15099,3,Sommerhus,101,1770,
+Myregårdsvej 8 3751 Østermarie,8,575000.0,03-07-2008,Alm.,4791,4,Stuehus,120,1900,0 %
+Almindingensvej 9 3751 Østermarie,9,11500000.0,02-07-2008,Alm.,0,12,Stuehus,419,1868,
+Aspevej 16 3751 Østermarie,16,955000.0,27-06-2008,Alm.,9744,2,Sommerhus,98,1870,
+Vestervej 5 3751 Østermarie,5,935000.0,17-06-2008,Alm.,5404,3,Villa,173,1966,
+Elmevej 9 3751 Østermarie,9,400000.0,08-06-2008,Fam.,3773,3,Villa,106,1875,
+Saltunavej 8 3751 Østermarie,8,2100000.0,26-05-2008,Alm.,5675,7,Villa,370,1900,-5 %
+Risevej 9 3751 Østermarie,9,28400000.0,05-05-2008,Alm.,103272,4,Stuehus,275,1750,
+Almindingensvej 36 3751 Østermarie,36,950000.0,17-04-2008,Alm.,5974,6,Villa,159,1927,-5 %
+Vestervej 3 3751 Østermarie,3,525000.0,10-04-2008,Alm.,8750,2,Villa,60,1967,0 %
+Almindingensvej 56 3751 Østermarie,56,585000.0,01-04-2008,Alm.,4957,3,Villa,118,1933,0 %
+Myregårdsvej 12 3751 Østermarie,12,400000.0,22-03-2008,Alm.,2857,4,Villa,140,1900,-8 %
+Svalevej 6 3751 Østermarie,6,730000.0,27-02-2008,Alm.,5887,3,Villa,124,1985,-8 %
+Lyrsbyvej 32 3751 Østermarie,32,13500000.0,18-01-2008,Alm.,40419,10,Stuehus,334,1808,
+Torvegade 11 3751 Østermarie,11,965000.0,09-01-2008,Alm.,7845,5,Villa,123,1956,-3 %
+Kirkebyvej 36 3751 Østermarie,36,875000.0,05-12-2007,Alm.,4943,6,Villa,177,1878,-2 %
+Kirkeskolevej 12 3751 Østermarie,12,950000.0,29-11-2007,Alm.,5080,7,Stuehus,187,1913,
+Møllevej 1 3751 Østermarie,1,489268.0,22-11-2007,Alm.,1664,5,Villa,294,1965,
+Almindingensvej 63 3751 Østermarie,63,755000.0,24-10-2007,Alm.,6622,5,Villa,114,1940,-6 %
+Lyrsbyvej 16 3751 Østermarie,16,425000.0,15-10-2007,Alm.,6071,3,Villa,70,1867,0 %
+Kirkeskolevej 13 3751 Østermarie,13,80000.0,11-10-2007,Alm.,555,6,Stuehus,144,1828,
+Plantagevej 28 3751 Østermarie,28,1570000.0,11-10-2007,Alm.,10753,4,Villa,146,1865,
+Staggevej 1 3751 Østermarie,1,210000.0,26-09-2007,Fam.,2142,4,Villa,98,1910,
+Møllevej 6 3751 Østermarie,6,585000.0,10-09-2007,Alm.,3900,5,Villa,150,1959,0 %
+Almindingensvej 70 3751 Østermarie,70,363000.0,29-08-2007,Auktion,3704,3,Villa,98,1934,
+Almindingensvej 51 3751 Østermarie,51,655000.0,27-08-2007,Alm.,6421,6,Villa,102,1959,10 %
+Møllevej 12 3751 Østermarie,12,365000.0,01-06-2007,Auktion,3119,5,Villa,117,1963,-39 %
+Svanekevej 1 3751 Østermarie,1,550000.0,22-05-2007,Alm.,3437,6,Villa,160,1975,
+Svanekevej 26 3751 Østermarie,26,1335000.0,09-05-2007,Alm.,12714,3,Villa,105,1870,0 %
+Gadebyvej 4 3751 Østermarie,4,1450000.0,02-05-2007,Alm.,6775,7,Stuehus,214,1900,0 %
+Plantagevej 35A 3751 Østermarie,0,1300000.0,26-04-2007,Alm.,8666,6,Sommerhus,150,1931,
+Myregårdsvej 1 3751 Østermarie,1,1365000.0,22-04-2007,Alm.,5617,6,Sommerhus,243,1878,0 %
+Kirkebyvej 28 3751 Østermarie,28,835000.0,13-04-2007,Alm.,10986,3,Villa,76,1923,0 %
+Ølenevej 17 3751 Østermarie,17,795000.0,23-03-2007,Alm.,6210,4,Stuehus,128,1925,
+Godthåbsvej 53 3751 Østermarie,53,498000.0,22-03-2007,Alm.,4788,3,Villa,104,1960,
+Skrullevej 10 3751 Østermarie,10,745000.0,26-02-2007,Alm.,3311,5,Villa,225,1877,0 %
+Lærkevej 5 3751 Østermarie,5,775000.0,23-02-2007,Alm.,7750,3,Villa,100,1962,-3 %
+Aspevej 15 3751 Østermarie,15,690000.0,05-02-2007,Alm.,3920,5,Sommerhus,176,1888,
+Kildevangsvej 5 3751 Østermarie,5,1000000.0,02-02-2007,Alm.,17241,2,Stuehus,58,1860,
+Glappevej 12 3751 Østermarie,12,1500000.0,24-01-2007,Alm.,9615,4,Stuehus,156,1850,
+Savmøllevej 2 3751 Østermarie,2,30000.0,20-01-2007,Alm.,194,3,Stuehus,154,1901,
+Svanekevej 21 3751 Østermarie,21,695000.0,15-01-2007,Fam.,3564,5,Villa,195,1934,
+Risevej 3 3751 Østermarie,3,1195000.0,29-12-2006,Alm.,6459,5,Sommerhus,185,1936,
+Hentregårdsvej 8 3751 Østermarie,8,1225000.0,19-12-2006,Alm.,6155,8,Villa,199,1878,
+Svanekevej 35 3751 Østermarie,35,1045000.0,17-12-2006,Alm.,4976,3,Villa,210,1903,
+Møllevej 2 3751 Østermarie,2,635000.0,15-12-2006,Alm.,4601,4,Villa,138,1962,
+Almindingensvej 8 3751 Østermarie,8,835000.0,11-12-2006,Alm.,5387,4,Villa,155,1945,
+Lyrsbyvej 31 3751 Østermarie,31,1900000.0,27-11-2006,Alm.,10734,6,Stuehus,177,1910,
+Svanekevej 11 3751 Østermarie,11,398000.0,13-11-2006,Alm.,3372,3,Villa,118,1912,
+Åløsevej 35 3751 Østermarie,35,2200000.0,08-11-2006,Alm.,12790,5,Stuehus,172,1933,
+Lyrsbyvej 34 3751 Østermarie,34,1400000.0,26-10-2006,Alm.,6451,6,Stuehus,217,1900,
+Plantagevej 24 3751 Østermarie,24,460000.0,11-10-2006,Alm.,5822,4,Stuehus,79,1800,
+Torvegade 14 3751 Østermarie,14,560000.0,02-10-2006,Alm.,6511,4,Villa,86,1956,
+Grammegårdsvej 2 3751 Østermarie,2,1000000.0,28-09-2006,Alm.,8474,8,Fritid,118,1890,
+Lyrsbyvej 5 3751 Østermarie,5,520000.0,15-09-2006,Alm.,5777,4,Villa,90,1932,
+Præstegaden 1 3751 Østermarie,1,495000.0,25-08-2006,Alm.,5380,4,Villa,92,1877,
+Godthåbsvej 19 3751 Østermarie,19,595000.0,25-08-2006,Alm.,2306,11,Villa,258,1931,
+Svanekevej 16 3751 Østermarie,16,525000.0,16-08-2006,Alm.,3453,8,Villa,152,1951,
+Torvegade 18 3751 Østermarie,18,440000.0,15-08-2006,Alm.,3283,4,Villa,134,1945,
+Plantagevej 30 3751 Østermarie,30,200000.0,14-08-2006,Andet,1360,5,Stuehus,147,1930,
+Dyndevej 12 3751 Østermarie,12,695000.0,11-08-2006,Alm.,6318,4,Villa,110,1913,
+Savmøllevej 13 3751 Østermarie,13,619000.0,11-08-2006,Alm.,6252,3,Sommerhus,99,1932,
+Almindingensvej 66 3751 Østermarie,66,848000.0,03-08-2006,Alm.,6894,4,Sommerhus,123,1859,
+Godthåbsvej 57 3751 Østermarie,57,475000.0,20-07-2006,Alm.,2844,6,Villa,167,1930,
+Hentregårdsvej 10 3751 Østermarie,10,690000.0,14-07-2006,Alm.,3965,4,Villa,174,1932,
+Saltunavej 11 3751 Østermarie,11,1070000.0,03-07-2006,Alm.,10490,3,Stuehus,102,1889,
+Maglegårdsvej 1 3751 Østermarie,1,175695.0,01-07-2006,Andet,430,10,Stuehus,408,1803,
+Torvevænget 1 3751 Østermarie,1,850000.0,27-06-2006,Alm.,5151,4,Villa,165,1971,
+Aspevej 19 3751 Østermarie,19,500000.0,25-06-2006,Alm.,3030,7,Villa,165,1878,
+Kirkebyvej 18 3751 Østermarie,18,595000.0,09-06-2006,Alm.,3914,3,Villa,152,1777,
+Lundsvej 3 3751 Østermarie,3,580000.0,31-05-2006,Alm.,5132,4,Villa,113,1938,
+Kirkebyvej 31 3751 Østermarie,31,197901.0,30-05-2006,Alm.,1423,4,Villa,139,1900,
+Rosenørns Allé 6 3751 Østermarie,6,695000.0,19-05-2006,Alm.,0,5,Villa,154,1968,
+Kirkebyvej 9 3751 Østermarie,9,465000.0,18-05-2006,Alm.,4227,5,Villa,110,1911,
+Kirkebyvej 33 3751 Østermarie,33,284784.0,15-05-2006,Alm.,1539,7,Rækkehus,185,1908,
+Aspevej 14 3751 Østermarie,14,11100000.0,04-05-2006,Alm.,44758,7,Stuehus,248,1858,
+Svanekevej 18 3751 Østermarie,18,1195000.0,27-04-2006,Alm.,6356,9,Stuehus,188,1916,
+Lindetsvej 4 3751 Østermarie,4,935000.0,19-04-2006,Alm.,4369,6,Stuehus,214,1941,
+Myregårdsvej 18 3751 Østermarie,18,125000.0,28-03-2006,Alm.,1736,3,Sommerhus,72,1900,
+Spurvevej 1 3751 Østermarie,1,795000.0,17-03-2006,Alm.,4732,5,Villa,168,1929,
+Almindingensvej 4 3751 Østermarie,4,998000.0,17-02-2006,Alm.,4844,8,Villa,206,1950,
+Randkløvevej 34 3751 Østermarie,34,3165550.0,14-02-2006,Alm.,24164,4,Sommerhus,131,1777,
+Aspevej 21 3751 Østermarie,21,865000.0,10-02-2006,Alm.,4219,4,Villa,205,1900,
+Lærkevej 25 3751 Østermarie,25,825000.0,09-02-2006,Alm.,4824,5,Villa,171,1974,
+Lundsvej 12 3751 Østermarie,12,930000.0,09-02-2006,Alm.,5849,4,Villa,159,1951,
+Lyrsbyvej 15 3751 Østermarie,15,350000.0,02-01-2006,Alm.,3043,3,Stuehus,115,1827,
+Almindingensvej 1 3751 Østermarie,1,600000.0,18-12-2005,Alm.,2727,8,Villa,220,1897,
+Dyndevej 6 3751 Østermarie,6,1395000.0,02-11-2005,Alm.,15163,5,Sommerhus,92,1913,
+Lærkevej 27 3751 Østermarie,27,835000.0,02-11-2005,Alm.,5641,6,Villa,148,1976,
+Randkløvevej 42 3751 Østermarie,42,200000.0,26-10-2005,Alm.,543,6,Stuehus,368,1777,
+Svanekevej 4 3751 Østermarie,4,870000.0,14-10-2005,Alm.,4806,8,Villa,181,1952,
+Lærkevej 29 3751 Østermarie,29,795000.0,02-10-2005,Alm.,6853,5,Villa,116,1979,
+Almindingensvej 84 3751 Østermarie,84,420000.0,30-09-2005,Alm.,2916,8,Villa,144,1930,
+Godthåbsvej 50 3751 Østermarie,50,475000.0,23-09-2005,Alm.,4166,2,Villa,114,1914,
+Kirkeskolevej 18 3751 Østermarie,18,560000.0,23-09-2005,Alm.,4274,4,Villa,131,1902,
+Aspevej 11 3751 Østermarie,11,850000.0,17-08-2005,Alm.,5379,4,Stuehus,158,1913,
+Præstegaden 3 3751 Østermarie,3,530000.0,23-07-2005,Alm.,3375,4,Sommerhus,157,1800,
+Dyndevej 2 3751 Østermarie,2,300000.0,11-07-2005,Alm.,1657,6,Villa,181,1908,
+Rosenørns Allé 15 3751 Østermarie,15,585000.0,08-07-2005,Alm.,5625,4,Villa,104,1963,
+Rosenørns Allé 19 3751 Østermarie,19,420000.0,12-06-2005,Alm.,2937,5,Villa,143,1963,
+Almindingensvej 35 3751 Østermarie,35,1650000.0,10-06-2005,Alm.,9939,4,Stuehus,166,1923,
+Ølenevej 16 3751 Østermarie,16,295000.0,19-05-2005,Alm.,1903,4,Villa,155,1870,
+Risevej 6 3751 Østermarie,6,5580000.0,02-05-2005,Fam.,31885,5,Stuehus,175,1911,
+Ypnasted 21 3751 Østermarie,21,552500.0,25-04-2005,Fam.,6500,4,Sommerhus,85,1828,
+Almindingensvej 12 3751 Østermarie,12,298500.0,31-03-2005,Alm.,2789,5,Villa,107,1945,
+Saltunavej 1 3751 Østermarie,1,605000.0,18-03-2005,Alm.,2585,8,Stuehus,234,1800,
+Rosenørns Allé 13 3751 Østermarie,13,398000.0,09-03-2005,Alm.,3901,4,Villa,102,1965,
+Kirkebyvej 15 3751 Østermarie,15,400000.0,08-03-2005,Alm.,3200,6,Villa,125,1931,
+"Godthåbsvej 26, 1 3751 Østermarie",1,325000.0,28-02-2005,Alm.,3611,3,Lejlighed,90,1943,
+Præstegaden 9 3751 Østermarie,9,400000.0,20-02-2005,Alm.,4444,5,Stuehus,90,1916,
+Ølenevej 1 3751 Østermarie,1,465000.0,08-02-2005,Alm.,3750,4,Villa,124,1949,
+Ypnasted 15 3751 Østermarie,15,510000.0,31-01-2005,Fam.,8500,3,Sommerhus,60,1777,
+Hentregårdsvej 5 3751 Østermarie,5,250000.0,25-01-2005,Alm.,2252,3,Villa,111,1936,
+Randkløvevej 10B 3751 Østermarie,0,610906.0,19-01-2005,Fam.,6787,5,Sommerhus,90,1800,
+Staggevej 4 3751 Østermarie,4,68000.0,05-01-2005,Alm.,511,5,Stuehus,133,1952,
+Randkløvevej 10A 3751 Østermarie,0,467500.0,19-12-2004,Fam.,4921,4,Sommerhus,95,1931,
+Ølenevej 24 3751 Østermarie,24,165000.0,14-12-2004,Fam.,2391,4,Sommerhus,69,1900,
+Aspevej 27 3751 Østermarie,27,4575000.0,09-12-2004,Alm.,19719,6,Stuehus,232,1924,
+Ølenevej 21 3751 Østermarie,21,669000.0,24-11-2004,Alm.,5395,5,Villa,124,1928,
+Lyrsbyskov 7 3751 Østermarie,7,359000.0,01-11-2004,Alm.,3094,5,Villa,116,1900,
+Godthåbsvej 47 3751 Østermarie,47,145000.0,18-10-2004,Alm.,2843,3,Villa,51,1940,
+Lindetsvej 6 3751 Østermarie,6,1285000.0,25-09-2004,Alm.,7385,5,Villa,174,1920,
+Svanekevej 41 3751 Østermarie,41,565000.0,16-09-2004,Alm.,4708,5,Villa,120,1896,
+Stenbakkevej 9 3751 Østermarie,9,795000.0,02-09-2004,Alm.,8195,3,Sommerhus,97,1930,
+Lyrsbyvej 7 3751 Østermarie,7,495000.0,26-08-2004,Alm.,3867,5,Villa,128,1900,
+Ølenevej 9 3751 Østermarie,9,425000.0,03-08-2004,Alm.,3195,4,Stuehus,133,1925,
+Møllevej 4 3751 Østermarie,4,175000.0,21-07-2004,Alm.,1842,3,Villa,95,1942,
+Svalevej 3 3751 Østermarie,3,760000.0,20-07-2004,Alm.,6129,5,Villa,124,1988,
+Lyrsbyvej 17 3751 Østermarie,17,596187.0,22-06-2004,Alm.,4551,4,Villa,131,1947,
+Lyrsbyvej 6 3751 Østermarie,6,398000.0,10-06-2004,Alm.,3790,5,Villa,105,1828,
+Godthåbsvej 59A 3751 Østermarie,0,465000.0,10-05-2004,Alm.,4946,3,Villa,94,1958,
+Drosselvej 3 3751 Østermarie,3,550000.0,01-04-2004,Alm.,5913,3,Villa,93,1984,
+Almindingensvej 38 3751 Østermarie,38,499992.0,08-03-2004,Alm.,3546,4,Villa,141,1915,
+Randkløvevej 20 3751 Østermarie,20,30000.0,08-03-2004,Fam.,1875,1,Sommerhus,16,1934,
+Randkløvevej 28 3751 Østermarie,28,1850000.0,08-03-2004,Alm.,14682,5,Stuehus,126,1877,
+Almindingensvej 28 3751 Østermarie,28,250000.0,02-03-2004,Alm.,2717,3,Villa,92,1934,
+Torvegade 19 3751 Østermarie,19,210000.0,03-02-2004,Alm.,2876,2,Villa,73,1943,
+Lyrsbyskov 2 3751 Østermarie,2,425000.0,21-01-2004,Alm.,0,6,Villa,219,1927,
+Dyndevej 15 3751 Østermarie,15,885000.0,03-01-2004,Alm.,5746,7,Stuehus,154,1900,
+Havrehøjvej 2 3751 Østermarie,2,545000.0,29-12-2003,Alm.,2041,10,Stuehus,267,1910,
+Randkløvevej 8 3751 Østermarie,8,380000.0,10-12-2003,Fam.,6333,2,Sommerhus,60,1969,
+Møllevej 5 3751 Østermarie,5,325000.0,01-12-2003,Alm.,2801,4,Villa,116,1960,
+Nydamsvej 2 3751 Østermarie,2,442992.0,01-12-2003,Fam.,1659,7,Stuehus,267,1900,
+Godthåbsvej 48 3751 Østermarie,48,415000.0,11-09-2003,Alm.,2694,6,Villa,154,1920,
+Plantagevej 61 3751 Østermarie,61,660000.0,30-08-2003,Alm.,5365,4,Sommerhus,123,1928,
+Kildevangsvej 1 3751 Østermarie,1,295000.0,25-08-2003,Alm.,0,7,Villa,195,1930,
+Savmøllevej 5 3751 Østermarie,5,835000.0,18-08-2003,Alm.,4911,5,Villa,170,1885,
+Saltunavej 10 3751 Østermarie,10,625000.0,01-07-2003,Alm.,4370,8,Villa,143,1890,
+Rosenørns Allé 8 3751 Østermarie,8,535000.0,19-06-2003,Alm.,4458,5,Villa,120,1978,
+Buskevej 6 3751 Østermarie,6,720000.0,17-06-2003,Alm.,11250,3,Sommerhus,64,1972,
+Ypnasted 4 3751 Østermarie,4,1355000.0,12-06-2003,Alm.,23362,2,Sommerhus,58,1827,
+Åløsevej 39 3751 Østermarie,39,750000.0,07-05-2003,Alm.,2500,5,Stuehus,300,1923,
+Torvegade 13 3751 Østermarie,13,480000.0,14-04-2003,Alm.,3902,5,Villa,123,1957,
+Randkløvevej 14 3751 Østermarie,14,127987.0,14-04-2003,Andet,969,4,Stuehus,132,1860,
+Randkløvevej 32 3751 Østermarie,32,775000.0,04-03-2003,Alm.,3621,6,Stuehus,214,2007,
+Lyrsbyvej 37 3751 Østermarie,37,35000.0,01-01-2003,Andet,583,3,Stuehus,60,1800,
+Ølenevej 7 3751 Østermarie,7,380869.0,18-12-2002,Alm.,1943,6,Stuehus,196,1870,
+Havrehøjvej 4 3751 Østermarie,4,370000.0,10-12-2002,Alm.,2605,3,Villa,142,1901,
+Kirkeskolevej 20 3751 Østermarie,20,950000.0,22-11-2002,Alm.,10674,4,Stuehus,89,1880,
+Almindingensvej 54 3751 Østermarie,54,127500.0,20-11-2002,Fam.,1554,3,Villa,82,1877,
+Kirkeskolevej 8 3751 Østermarie,8,325000.0,23-10-2002,Alm.,3735,4,Sommerhus,87,1900,
+Svanekevej 8 3751 Østermarie,8,475000.0,10-10-2002,Alm.,5397,4,Stuehus,88,1927,
+Svanekevej 15 3751 Østermarie,15,575000.0,09-10-2002,Alm.,4423,5,Stuehus,130,1900,
+Godthåbsvej 61 3751 Østermarie,61,295000.0,12-09-2002,Alm.,2681,4,Villa,110,1927,
+Almindingensvej 59 3751 Østermarie,59,595000.0,30-08-2002,Alm.,5509,5,Villa,108,1878,
+Ypnasted 1 3751 Østermarie,1,70000.0,29-08-2002,Fam.,813,3,Sommerhus,86,1953,
+Aspevej 29 3751 Østermarie,29,485000.0,24-07-2002,Alm.,1796,6,Stuehus,270,1900,
+Godthåbsvej 58 3751 Østermarie,58,390000.0,20-07-2002,Alm.,0,6,Villa,154,1928,
+Almindingensvej 48 3751 Østermarie,48,400000.0,18-06-2002,Alm.,3636,3,Villa,110,1940,
+Lyrsbyvej 19 3751 Østermarie,19,625000.0,14-06-2002,Alm.,3858,6,Villa,162,1900,
+Jættebrovej 4 3751 Østermarie,4,1245000.0,02-06-2002,Alm.,4698,5,Villa,265,1936,
+Lærkevej 4 3751 Østermarie,4,775000.0,01-06-2002,Alm.,6054,4,Villa,128,1920,
+Svanekevej 2A 3751 Østermarie,0,670000.0,03-05-2002,Alm.,3722,6,Villa,180,1979,
+Kirkebyvej 38 3751 Østermarie,38,2159500.0,01-05-2002,Fam.,10483,5,Stuehus,206,1943,
+Åløsevej 31 3751 Østermarie,31,1137500.0,01-05-2002,Fam.,5011,8,Stuehus,227,1803,
+Dyndevej 7 3751 Østermarie,7,325000.0,15-04-2002,Alm.,2272,4,Villa,143,1948,
+Savmøllevej 8 3751 Østermarie,8,1000000.0,20-02-2002,Alm.,4237,4,Stuehus,236,1921,
+Lyrsbyvej 23 3751 Østermarie,23,270000.0,18-02-2002,Alm.,3214,4,Stuehus,84,1897,
+Kirkeskolevej 4 3751 Østermarie,4,395000.0,15-11-2001,Alm.,2925,5,Villa,135,1900,
+Buskevej 4 3751 Østermarie,4,163000.0,08-11-2001,Alm.,1537,4,Stuehus,106,1850,
+Lærkevej 6 3751 Østermarie,6,660000.0,21-10-2001,Alm.,3567,4,Villa,185,1975,
+Ølenevej 19 3751 Østermarie,19,465000.0,19-10-2001,Alm.,3470,5,Stuehus,134,1925,
+Bølshavn 1 3751 Østermarie,1,1050000.0,30-09-2001,Alm.,4200,4,Stuehus,250,2008,
+Almindingensvej 15 3751 Østermarie,15,275000.0,25-09-2001,Alm.,1656,4,Villa,166,1920,
+Saltunavej 24 3751 Østermarie,24,1100000.0,25-09-2001,Alm.,5045,5,Stuehus,218,1877,
+Godthåbsvej 27 3751 Østermarie,27,345000.0,24-09-2001,Alm.,2412,3,Villa,143,1898,
+Gadebyvej 1 3751 Østermarie,1,475000.0,18-09-2001,Alm.,1452,11,Stuehus,327,1921,
+Ypnasted 12 3751 Østermarie,12,1875000.0,12-09-2001,Alm.,19132,3,Sommerhus,98,1925,
+Møllevej 7 3751 Østermarie,7,750000.0,10-09-2001,Alm.,3712,6,Villa,202,1947,
+Godthåbsvej 34 3751 Østermarie,34,400000.0,12-07-2001,Alm.,1702,12,Servicevirksomhed,235,1880,
+Savmøllevej 4 3751 Østermarie,4,180002.0,10-07-2001,Fam.,0,4,Stuehus,124,1900,
+Godthåbsvej 14 3751 Østermarie,14,260000.0,29-06-2001,Alm.,2653,3,Villa,98,1896,
+Rosenørns Allé 9 3751 Østermarie,9,425000.0,27-06-2001,Alm.,4086,4,Villa,104,1964,
+Kirkeskolevej 2 3751 Østermarie,2,524939.0,04-05-2001,Alm.,4037,6,Stuehus,130,1900,
+Lyrsbyvej 26 3751 Østermarie,26,800640.0,06-04-2001,Alm.,5718,5,Lejlighed,140,1911,
+Kirkeskolevej 9 3751 Østermarie,9,3850000.0,03-04-2001,Alm.,19743,7,Stuehus,195,1911,
+Ølenevej 5 3751 Østermarie,5,484518.0,26-03-2001,Alm.,6824,4,Villa,71,1912,
+Kirkeskolevej 14 3751 Østermarie,14,485000.0,02-03-2001,Alm.,2819,7,Villa,172,1903,
+Godthåbsvej 59B 3751 Østermarie,0,395000.0,05-02-2001,Alm.,1507,7,Villa,262,1916,
+Møllevej 8 3751 Østermarie,8,325000.0,30-01-2001,Alm.,3915,4,Villa,83,1946,
+Lundsvej 4 3751 Østermarie,4,280000.0,16-10-2000,Alm.,2170,4,Villa,129,1957,
+Savmøllevej 15 3751 Østermarie,15,260000.0,26-09-2000,Alm.,2988,4,Villa,87,1910,
+Stenbakkevej 11 3751 Østermarie,11,334697.0,30-08-2000,Alm.,3638,4,Villa,92,1930,
+Segenvej 45 3751 Østermarie,45,445000.0,20-08-2000,Alm.,2342,6,Villa,190,1830,
+Plantagevej 57 3751 Østermarie,57,795000.0,03-07-2000,Alm.,8112,3,Stuehus,98,1900,
+Savmøllevej 3 3751 Østermarie,3,80792.0,22-06-2000,Fam.,1049,3,Sommerhus,77,1903,
+Glappevej 7 3751 Østermarie,7,575000.0,19-06-2000,Alm.,3285,6,Stuehus,175,1923,
+Lærkevej 11 3751 Østermarie,11,575000.0,02-06-2000,Alm.,3402,6,Villa,169,1968,
+Saltunavej 14 3751 Østermarie,14,423000.0,31-03-2000,Alm.,0,9,Villa,323,1820,
+Almindingensvej 44 3751 Østermarie,44,420000.0,17-03-2000,Alm.,2608,5,Villa,161,1890,
+Almindingensvej 14 3751 Østermarie,14,402000.0,29-12-1999,Alm.,3495,5,Villa,115,1942,
+Lindetsvej 5 3751 Østermarie,5,372000.0,02-11-1999,Alm.,3647,3,Sommerhus,102,1828,
+Kirkebyvej 37 3751 Østermarie,37,268380.0,21-10-1999,Alm.,8946,2,Sommerhus,30,1958,
+Dyndevej 10 3751 Østermarie,10,325600.0,20-10-1999,Alm.,1134,6,Stuehus,287,1870,
+Kirkeskolevej 6 3751 Østermarie,6,1075000.0,19-10-1999,Alm.,3490,10,Villa,308,1825,
+Almindingensvej 72 3751 Østermarie,72,353940.0,01-10-1999,Alm.,4537,3,Villa,78,1935,
+Lundsvej 2 3751 Østermarie,2,410000.0,01-10-1999,Fam.,2530,7,Villa,162,1937,
+Lindetsvej 10 3751 Østermarie,10,535000.0,20-09-1999,Alm.,3005,4,Sommerhus,178,1878,
+Almindingensvej 78 3751 Østermarie,78,275000.0,09-09-1999,Alm.,0,6,Stuehus,155,1917,
+Ølenevej 12 3751 Østermarie,12,365000.0,25-08-1999,Alm.,3041,6,Sommerhus,120,1870,
+Ypnasted 2 3751 Østermarie,2,810920.0,20-08-1999,Alm.,6757,5,Sommerhus,120,1870,
+Lundsvej 8 3751 Østermarie,8,400000.0,12-08-1999,Alm.,3603,5,Villa,111,1945,
+Godthåbsvej 62 3751 Østermarie,62,127000.0,28-07-1999,Alm.,1186,2,Villa,107,1920,
+Myregårdsvej 3 3751 Østermarie,3,412000.0,05-07-1999,Alm.,2112,8,Stuehus,195,1921,
+Plantagevej 35 3751 Østermarie,35,509550.0,21-06-1999,Fam.,2586,7,Stuehus,197,1895,
+Savmøllevej 17 3751 Østermarie,17,1300000.0,02-06-1999,Alm.,8496,6,Stuehus,153,1900,
+Almindingensvej 68 3751 Østermarie,68,125000.0,26-05-1999,Fam.,1077,3,Villa,116,1945,
+Randkløvevej 13 3751 Østermarie,13,456000.0,18-05-1999,Alm.,3428,5,Sommerhus,133,1900,
+Randkløvevej 22 3751 Østermarie,22,720000.0,07-05-1999,Alm.,7578,5,Sommerhus,95,1934,
+Almindingensvej 42 3751 Østermarie,42,925000.0,05-05-1999,Alm.,4092,8,Stuehus,226,1906,
+Vestervej 2 3751 Østermarie,2,350000.0,01-05-1999,Alm.,3181,3,Villa,110,1973,
+Saltunavej 9 3751 Østermarie,9,370000.0,29-04-1999,Alm.,0,5,Stuehus,132,1917,
+Savmøllevej 6 3751 Østermarie,6,140000.0,22-04-1999,Alm.,1228,5,Villa,114,1930,
+Svanekevej 49 3751 Østermarie,49,468900.0,19-04-1999,Alm.,0,7,Stuehus,220,1900,
+Lundsvej 9 3751 Østermarie,9,280000.0,23-03-1999,Alm.,2314,6,Villa,121,1948,
+Elmevej 2 3751 Østermarie,2,357000.0,19-03-1999,Alm.,2833,4,Villa,126,1850,
+Åløsevej 40 3751 Østermarie,40,120500.0,02-03-1999,Alm.,866,4,Villa,139,1932,
+Lundsvej 5 3751 Østermarie,5,104000.0,13-02-1999,Alm.,1444,3,Rækkehus,72,1937,
+Svanekevej 37 3751 Østermarie,37,3050000.0,18-01-1999,Fam.,8970,10,Stuehus,340,1865,
+Kirkebyvej 23 3751 Østermarie,23,566000.0,15-12-1998,Alm.,3349,6,Villa,169,1798,
+Lyrsbyvej 2 3751 Østermarie,2,700000.0,20-10-1998,Alm.,4929,4,Stuehus,142,1989,
+Risevej 11 3751 Østermarie,11,114765.0,19-10-1998,Fam.,620,4,Villa,185,1828,
+Havrehøjvej 12 3751 Østermarie,12,1230000.0,08-10-1998,Alm.,0,7,Stuehus,225,1905,
+Flæskedalsvej 6 3751 Østermarie,6,580000.0,05-10-1998,Alm.,3866,5,Stuehus,150,1878,
+Vestervej 1 3751 Østermarie,1,201000.0,24-09-1998,Alm.,2010,3,Villa,100,1966,
+Nyvej 6 3751 Østermarie,6,230000.0,24-09-1998,Alm.,0,6,Villa,152,1965,
+Nydamsvej 1 3751 Østermarie,1,175000.0,16-09-1998,Alm.,1268,4,Stuehus,138,1907,
+Åløsevej 34 3751 Østermarie,34,60000.0,21-08-1998,Alm.,288,8,Stuehus,208,1828,
+Torvegade 19A 3751 Østermarie,0,730000.0,20-08-1998,Alm.,4078,8,Villa,179,1973,
+Bølshavn 3 3751 Østermarie,3,1350000.0,12-08-1998,Alm.,0,5,Sommerhus,87,1934,
+Ølenevej 26 3751 Østermarie,26,3836585.0,10-07-1998,Fam.,10313,9,Stuehus,372,2006,
+Kirkeskolevej 11 3751 Østermarie,11,750000.0,30-06-1998,Alm.,0,11,Stuehus,298,1900,
+Stenbakkevej 7 3751 Østermarie,7,175000.0,28-06-1998,Alm.,1093,4,Sommerhus,160,1942,
+Louisenlundvej 3 3751 Østermarie,3,480000.0,10-06-1998,Alm.,2436,5,Villa,197,1897,
+Myregårdsvej 10 3751 Østermarie,10,750000.0,04-06-1998,Alm.,5102,12,Servicevirksomhed,147,1908,
+Lyrsbyvej 43 3751 Østermarie,43,255000.0,26-03-1998,Alm.,0,8,Villa,217,1870,
+Saltunavej 16 3751 Østermarie,16,306000.0,21-12-1997,Fam.,2372,5,Sommerhus,129,1840,
+Havrehøjvej 7 3751 Østermarie,7,241818.0,11-12-1997,Alm.,0,3,Stuehus,98,1926,
+Staggevej 3 3751 Østermarie,3,145000.0,04-11-1997,Alm.,2164,3,Villa,67,1877,
+Aspevej 9 3751 Østermarie,9,452000.0,22-10-1997,Alm.,2553,3,Stuehus,177,1828,
+Elmevej 4 3751 Østermarie,4,250000.0,16-10-1997,Alm.,2403,4,Villa,104,1922,
+Præstegaden 6 3751 Østermarie,6,436082.0,07-10-1997,Alm.,3049,4,Villa,143,1930,
+Nybrovej 58 3751 Østermarie,58,483000.0,25-09-1997,Alm.,5307,3,Sommerhus,91,1900,
+Ølenevej 4 3751 Østermarie,4,195000.0,15-09-1997,Fam.,2096,4,Stuehus,93,1910,
+Dalslundevej 1 3751 Østermarie,1,505000.0,08-09-1997,Alm.,3216,6,Sommerhus,157,1900,
+Lyrsbyvej 30A 3751 Østermarie,0,393000.0,22-08-1997,Alm.,2655,5,Villa,148,1920,
+Svanekevej 12 3751 Østermarie,12,350000.0,11-08-1997,Alm.,2916,4,Stuehus,120,1920,
+Randkløvevej 5 3751 Østermarie,5,310000.0,06-08-1997,Alm.,2672,5,Villa,116,1889,
+Buskevej 8 3751 Østermarie,8,386918.0,05-08-1997,Andet,1311,10,Stuehus,295,1866,
+Savmøllevej 11 3751 Østermarie,11,356000.0,04-08-1997,Alm.,2870,5,Stuehus,124,1892,
+Randkløvevej 12A 3751 Østermarie,0,950000.0,04-04-1997,Alm.,0,4,Sommerhus,110,1966,
+Almindingensvej 60 3751 Østermarie,60,1903759.0,27-01-1997,Fam.,12524,6,Stuehus,152,1850,
+Almindingensvej 50 3751 Østermarie,50,401815.0,23-01-1997,Alm.,3114,5,Villa,129,1928,
+Stenbakkevej 2 3751 Østermarie,2,279542.0,15-12-1996,Andet,1736,5,Villa,161,1856,
+Myregårdsvej 16 3751 Østermarie,16,1400000.0,09-12-1996,Fam.,6167,8,Stuehus,227,1800,
+Dalslundevej 8 3751 Østermarie,8,574250.0,29-11-1996,Fam.,2787,5,Stuehus,206,1910,
+Almindingensvej 58 3751 Østermarie,58,372650.0,12-11-1996,Alm.,3482,4,Villa,107,1878,
+Almindingensvej 20 3751 Østermarie,20,225000.0,10-11-1996,Alm.,2848,3,Villa,79,1928,
+Plantagevej 53 3751 Østermarie,53,450000.0,07-11-1996,Alm.,5113,4,Stuehus,88,1932,
+Kirkebyvej 1 3751 Østermarie,1,185000.0,18-10-1996,Alm.,2256,5,Villa,82,1906,
+Dyndevej 1 3751 Østermarie,1,467933.0,02-10-1996,Alm.,3743,5,Stuehus,125,1932,
+Godthåbsvej 22 3751 Østermarie,22,250000.0,05-09-1996,Alm.,2380,4,Villa,105,1900,
+Aspevej 8 3751 Østermarie,8,90000.0,13-08-1996,Fam.,937,4,Villa,96,1887,
+Godthåbsvej 25 3751 Østermarie,25,125000.0,08-08-1996,Alm.,0,4,Villa,148,1905,
+Torvegade 21 3751 Østermarie,21,270000.0,05-08-1996,Alm.,3253,3,Villa,83,1944,
+Skrullevej 3 3751 Østermarie,3,1600000.0,08-05-1996,Alm.,7547,7,Stuehus,212,1918,
+Kirkebyvej 30A 3751 Østermarie,0,150000.0,06-05-1996,Fam.,1923,3,Villa,78,1923,
+Almindingensvej 76 3751 Østermarie,76,394375.0,17-04-1996,Alm.,3490,4,Stuehus,113,1906,
+Kirkebyvej 25 3751 Østermarie,25,391706.0,27-02-1996,Alm.,1456,6,Villa,269,1930,
+Randkløvevej 1 3751 Østermarie,1,165726.0,07-02-1996,Fam.,2511,4,Sommerhus,66,1803,
+Aspevej 10 3751 Østermarie,10,450000.0,06-01-1996,Alm.,0,7,Villa,249,1888,

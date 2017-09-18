@@ -1,0 +1,779 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Burvej 75 7570 Vemb,75,370000.0,01-05-2017,Alm.,3333,5,Villa,111,1969,-13 %
+Neesvej 77 7570 Vemb,77,375000.0,07-04-2017,Alm.,3125,5,Villa,120,1916,
+Søndergade 21 7570 Vemb,21,555000.0,03-04-2017,Alm.,4080,5,Villa,136,1905,-7 %
+Hedevej 11 7570 Vemb,11,315000.0,27-03-2017,Alm.,2625,5,Stuehus,120,1955,
+Hyttevej 111 7570 Vemb,111,550000.0,18-03-2017,Alm.,6790,4,Sommerhus,81,1976,-8 %
+Bygaden 34 7570 Vemb,34,541323.0,16-03-2017,Andet,2494,7,Villa,217,1982,
+Skalstrupvej 2 7570 Vemb,2,249026.0,07-03-2017,Alm.,2394,3,Villa,104,1904,
+Ørvigvej 4 7570 Vemb,4,4750000.0,06-03-2017,Alm.,27941,5,Stuehus,170,1928,
+Bygaden 1 7570 Vemb,1,500000.0,28-02-2017,Fam.,5102,4,Villa,98,1925,
+Knudehus 49 7570 Vemb,49,635000.0,20-02-2017,Alm.,10583,3,Sommerhus,60,2002,-9 %
+Skovvangvej 27 7570 Vemb,27,7100000.0,16-02-2017,Alm.,12769,13,Stuehus,556,2010,
+Burvej 15 7570 Vemb,15,625000.0,06-02-2017,Alm.,6313,2,Villa,99,1955,0 %
+Burvej 67 7570 Vemb,67,300000.0,03-02-2017,Alm.,2586,4,Villa,116,1931,-15 %
+Harpøtvej 134 7570 Vemb,134,725000.0,28-01-2017,Alm.,9539,4,Sommerhus,76,1974,-1 %
+Neesvej 53A 7570 Vemb,0,130000.0,19-01-2017,Alm.,1040,5,Villa,125,1920,-13 %
+Skalstrupvej 64 7570 Vemb,64,432000.0,19-01-2017,Fam.,3428,4,Villa,126,1958,
+Enghavevej 7 7570 Vemb,7,1550000.0,14-01-2017,Alm.,6126,8,Villa,253,1979,
+Rosenvænget 8 7570 Vemb,8,850000.0,14-01-2017,Alm.,9659,4,Villa,88,1967,
+Skolevej 1 7570 Vemb,1,247500.0,12-01-2017,Fam.,1718,4,Villa,144,1975,
+Humlevænget 19 7570 Vemb,19,1400000.0,03-01-2017,Alm.,7368,6,Villa,190,1979,
+Donskærvej 25 7570 Vemb,25,2847500.0,01-01-2017,Fam.,18983,5,Stuehus,150,1954,
+Vestergade 20 7570 Vemb,20,50000.0,22-12-2016,Alm.,793,2,Villa,63,1906,
+Skalstrupvej 86 7570 Vemb,86,450000.0,16-12-2016,Alm.,3040,5,Stuehus,148,1930,-36 %
+Sandbækvej 31 7570 Vemb,31,1150000.0,16-12-2016,Alm.,11500,4,Stuehus,100,1892,
+Bur Kirkevej 1 7570 Vemb,1,25500000.0,16-12-2016,Alm.,72857,12,Stuehus,350,1919,
+Sønderbyvej 3 7570 Vemb,3,764000.0,15-12-2016,Fam.,4835,5,Stuehus,158,1932,
+Hasselvej 21 7570 Vemb,21,1675000.0,12-12-2016,Alm.,12407,5,Villa,135,2008,-1 %
+Damhusvej 50 7570 Vemb,50,2400000.0,03-12-2016,Alm.,14545,5,Stuehus,165,1929,-8 %
+Søndergade 11 7570 Vemb,11,1230000.0,22-11-2016,Alm.,9318,6,Villa,132,1914,-4 %
+Skolevej 6C 7570 Vemb,0,350000.0,02-11-2016,Alm.,4605,2,Rækkehus,76,1979,-12 %
+Bygaden 31 7570 Vemb,31,275383.0,20-10-2016,Auktion,2503,3,Villa,110,1912,-30 %
+Humlevænget 56 7570 Vemb,56,152351.0,13-10-2016,Auktion,1928,3,Rækkehus,79,1979,
+Skolegade 29 7570 Vemb,29,478665.0,13-10-2016,Alm.,3860,5,Villa,124,1934,-3 %
+Chr. Schmidtsvej 11 7570 Vemb,11,1400000.0,12-10-2016,Alm.,8284,4,Villa,169,1937,
+Harpøtvej 54 7570 Vemb,54,200000.0,12-10-2016,Alm.,3076,4,Sommerhus,65,1996,
+Skovvangvej 16B 7570 Vemb,0,20125000.0,11-10-2016,Andet,559027,3,Villa,36,1920,
+Øgelstrupvej 4 7570 Vemb,4,720000.0,06-10-2016,Auktion,5142,5,Villa,140,1966,
+Bigårdsvej 10 7570 Vemb,10,630000.0,06-10-2016,Alm.,5080,5,Villa,124,1975,
+Skalstrupvej 61 7570 Vemb,61,250000.0,29-09-2016,Alm.,1851,5,Villa,135,1955,
+Hyttevej 51 7570 Vemb,51,345000.0,20-09-2016,Alm.,5564,3,Sommerhus,62,1987,-8 %
+Harpøtvej 122 7570 Vemb,122,133000.0,19-09-2016,Fam.,2293,3,Sommerhus,58,1980,
+Søndergade 34 7570 Vemb,34,935000.0,16-09-2016,Alm.,8657,6,Villa,108,1939,-1 %
+Koldborgvej 5 7570 Vemb,5,70000.0,16-09-2016,Alm.,823,3,Villa,85,1900,
+Hyttevej 73 7570 Vemb,73,345000.0,31-08-2016,Alm.,5948,3,Sommerhus,58,1981,-13 %
+Hyttevej 53 7570 Vemb,53,385000.0,29-08-2016,Alm.,6754,4,Sommerhus,57,1979,-3 %
+Søndergårdsvej 1 7570 Vemb,1,10150000.0,19-08-2016,Andet,47877,6,Stuehus,212,1965,
+Neesvej 13A 7570 Vemb,0,800000.0,26-07-2016,Alm.,5194,3,Villa,154,1993,62 %
+Humlevænget 65 7570 Vemb,65,750000.0,13-07-2016,Alm.,5859,5,Rækkehus,128,1979,
+Burvej 33 7570 Vemb,33,1425000.0,13-07-2016,Alm.,7916,5,Villa,180,1994,
+Blomstervænget 5 7570 Vemb,5,555000.0,10-07-2016,Alm.,5606,4,Rækkehus,99,1985,-14 %
+Egevej 1 7570 Vemb,1,105750.0,08-07-2016,Alm.,423,9,Stuehus,250,1988,
+Nøragervej 25 7570 Vemb,25,8900000.0,24-06-2016,Alm.,40639,7,Stuehus,219,1918,
+Harpøtvej 140 7570 Vemb,140,155834.0,27-05-2016,Fam.,2164,3,Sommerhus,72,1976,
+Fjordvejen 14 7570 Vemb,14,1000000.0,23-05-2016,Alm.,5780,6,Stuehus,173,1935,
+Blomstervænget 6 7570 Vemb,6,675000.0,13-05-2016,Alm.,6818,4,Rækkehus,99,1986,
+Enghavevej 1 7570 Vemb,1,825000.0,09-05-2016,Alm.,6395,4,Villa,129,1962,-8 %
+Nørregade 22 7570 Vemb,22,450000.0,08-05-2016,Alm.,3383,5,Villa,133,1900,-14 %
+Harpøtvej 112 7570 Vemb,112,440000.0,29-04-2016,Alm.,7857,3,Sommerhus,56,1974,-7 %
+Kikkenborgvej 10 7570 Vemb,10,24000000.0,13-04-2016,Alm.,187500,4,Villa,128,1984,
+Neesvej 92 7570 Vemb,92,8220000.0,08-04-2016,Alm.,46440,6,Stuehus,177,2005,
+Råsted Kirkevej 5 7570 Vemb,5,3465550.0,07-04-2016,Alm.,11551,8,Stuehus,300,1976,
+Skalstrupvej 4 7570 Vemb,4,2737500.0,06-04-2016,Alm.,14038,7,Stuehus,195,1912,
+Skalstrupvej 83 7570 Vemb,83,15675000.0,04-04-2016,Alm.,66987,7,Stuehus,234,1992,
+Skalstrupvej 76 7570 Vemb,76,57617.0,31-03-2016,Auktion,320,4,Villa,180,1910,
+Tangsgårdsvej 8 7570 Vemb,8,1400000.0,31-03-2016,Alm.,5577,6,Villa,251,1908,-12 %
+Nørregade 20 7570 Vemb,20,285000.0,24-03-2016,Alm.,2544,4,Villa,112,1900,-3 %
+Råsted Kirkevej 9 7570 Vemb,9,2300000.0,17-03-2016,Alm.,11111,6,Villa,207,1967,-10 %
+Industrivej 20 7570 Vemb,20,220000.0,16-03-2016,Alm.,2500,3,Rækkehus,88,1978,-25 %
+Neesvej 38 7570 Vemb,38,700000.0,02-03-2016,Alm.,5185,9,Engroshandel,135,1896,
+Donskærvej 31 7570 Vemb,31,9750000.0,25-02-2016,Auktion,42576,7,Stuehus,229,1954,
+Vestergade 36 7570 Vemb,36,240000.0,17-02-2016,Alm.,2666,4,Villa,90,1959,
+Rørsgårdsvej 25 7570 Vemb,25,2695000.0,11-02-2016,Alm.,8421,11,Stuehus,320,1923,
+Kjærsvej 12 7570 Vemb,12,80000.0,05-02-2016,Alm.,640,4,Villa,125,1927,
+Kjærsvej 16 7570 Vemb,16,510000.0,18-01-2016,Alm.,3834,5,Villa,133,1915,-3 %
+Fjordvejen 25A 7570 Vemb,0,34967.0,06-01-2016,Alm.,1165,1,Fritid,30,1932,
+Stensigvej 12 7570 Vemb,12,1636000.0,20-12-2015,Alm.,25968,4,Stuehus,63,1913,
+Skalstrupvej 30 7570 Vemb,30,390000.0,08-12-2015,Fam.,3333,4,Villa,117,1913,
+Sønderbyvej 5 7570 Vemb,5,1100470.0,08-12-2015,Fam.,5731,8,Villa,192,1902,
+Skalstrupvej 5 7570 Vemb,5,4542980.0,08-12-2015,Fam.,31992,5,Stuehus,142,1904,
+Damhusvej 23 7570 Vemb,23,110000.0,08-12-2015,Fam.,1294,3,Villa,85,1877,
+Neesvej 63 7570 Vemb,63,250000.0,03-12-2015,Fam.,2380,4,Villa,105,1960,
+Bigårdsvej 19 7570 Vemb,19,435000.0,17-11-2015,Alm.,3815,4,Villa,114,1978,-12 %
+Hyttevej 91 7570 Vemb,91,765000.0,06-11-2015,Alm.,8406,4,Sommerhus,91,2007,-3 %
+Hyldevej 8 7570 Vemb,8,1240000.0,02-11-2015,Alm.,9612,4,Villa,129,2010,-4 %
+Hasselvej 6 7570 Vemb,6,2150000.0,01-10-2015,Alm.,12951,5,Villa,166,2008,-4 %
+Nørregade 25 7570 Vemb,25,375000.0,14-09-2015,Alm.,2586,4,Villa,145,1920,
+Burvej 54 7570 Vemb,54,350000.0,04-09-2015,Alm.,2517,4,Villa,139,1944,-9 %
+Ballesigvej 27 7570 Vemb,27,570000.0,01-09-2015,Alm.,5937,3,Villa,96,1942,-4 %
+Burvej 50 7570 Vemb,50,175000.0,20-08-2015,Alm.,813,9,Villa,215,1909,-29 %
+Nørregade 16 7570 Vemb,16,785000.0,02-07-2015,Alm.,8722,5,Detailhandel,90,1915,
+Skalstrupvej 101 7570 Vemb,101,2100000.0,29-06-2015,Alm.,13461,4,Stuehus,156,1957,
+Øgelstrupvej 2 7570 Vemb,2,3500000.0,24-06-2015,Alm.,7936,9,Stuehus,441,1800,
+Fjordvejen 16 7570 Vemb,16,245000.0,21-05-2015,Alm.,2041,5,Villa,120,1914,0 %
+Koldborgvej 8 7570 Vemb,8,75000.0,20-05-2015,Alm.,572,4,Stuehus,131,1980,
+Harpøtvej 34 7570 Vemb,34,465000.0,16-05-2015,Fam.,6118,4,Sommerhus,76,1987,
+Blomstervænget 1 7570 Vemb,1,500000.0,11-05-2015,Alm.,5050,4,Rækkehus,99,1984,
+Fjordvejen 12 7570 Vemb,12,139018.0,23-04-2015,Auktion,1139,4,Villa,122,1956,
+Burvej 41 7570 Vemb,41,14350000.0,31-03-2015,Alm.,90251,8,Stuehus,159,1909,
+Koldborgvej 11 7570 Vemb,11,60000.0,30-03-2015,Alm.,750,2,Villa,80,1907,
+Søndergade 22 7570 Vemb,22,107000.0,20-01-2015,Alm.,660,6,Villa,162,1936,-64 %
+Stationsvej 4 7570 Vemb,4,1525000.0,10-01-2015,Alm.,13377,4,Villa,114,1930,
+Søndergade 23 7570 Vemb,23,430000.0,23-12-2014,Alm.,2362,4,Villa,182,1877,-27 %
+Sandbækvej 33 7570 Vemb,33,1155000.0,18-12-2014,Auktion,5179,7,Villa,223,2002,
+Hvolbyvej 3A 7570 Vemb,0,1228612.0,18-12-2014,Fam.,8082,4,Stuehus,152,1978,
+Nørgårdsvej 2 7570 Vemb,2,290000.0,18-12-2014,Alm.,2685,4,Villa,108,1960,
+Hyttevej 99 7570 Vemb,99,700000.0,11-12-2014,Fam.,8045,3,Sommerhus,87,1972,
+Hyttevej 75 7570 Vemb,75,465000.0,28-11-2014,Alm.,7750,4,Sommerhus,60,1973,-6 %
+Nørregade 5 7570 Vemb,5,100000.0,14-11-2014,Alm.,833,4,Rækkehus,120,1877,0 %
+Sdr Hedegårdsvej 1 7570 Vemb,1,375000.0,14-11-2014,Alm.,2604,4,Villa,144,1930,-16 %
+Stensigvej 5 7570 Vemb,5,2260000.0,13-11-2014,Alm.,32285,3,Stuehus,70,1939,
+Kikkenborgvej 1 7570 Vemb,1,1300000.0,07-11-2014,Alm.,11926,2,Villa,109,1902,-3 %
+Neesvej 93 7570 Vemb,93,400000.0,27-10-2014,Alm.,3361,4,Villa,119,1970,-33 %
+Burvej 44 7570 Vemb,44,395000.0,20-10-2014,Alm.,3264,4,Villa,121,1916,-20 %
+Harpøtvej 18 7570 Vemb,18,800000.0,10-10-2014,Alm.,9638,3,Sommerhus,83,2007,-2 %
+Rørsgårdsvej 9 7570 Vemb,9,750000.0,03-10-2014,Alm.,5859,3,Villa,128,1969,-9 %
+Bækbyvej 7 7570 Vemb,7,795000.0,20-09-2014,Alm.,5888,4,Stuehus,135,1907,-11 %
+Burvej 22 7570 Vemb,22,1249000.0,14-08-2014,Alm.,9757,5,Stuehus,128,1907,
+Blommehaven 6 7570 Vemb,6,100000.0,13-08-2014,Alm.,653,5,Rækkehus,153,2015,
+Humlevænget 5 7570 Vemb,5,540433.0,11-08-2014,Alm.,3602,6,Villa,150,1958,
+Idomvej 1 7570 Vemb,1,625000.0,08-08-2014,Alm.,4562,4,Villa,137,1910,-17 %
+Damhusvej 38 7570 Vemb,38,850000.0,04-08-2014,Fam.,7327,3,Stuehus,116,1920,
+Skolevej 6A 7570 Vemb,0,350000.0,26-07-2014,Fam.,4605,3,Rækkehus,76,1979,
+Alleen 2 7570 Vemb,2,140000.0,04-07-2014,Alm.,1707,6,Villa,82,1957,
+Bigårdsvej 25 7570 Vemb,25,387000.0,02-06-2014,Alm.,2186,5,Villa,177,1914,-22 %
+Nygade 8 7570 Vemb,8,960000.0,30-05-2014,Alm.,7680,3,Villa,125,1925,-4 %
+Egevej 4 7570 Vemb,4,255000.0,28-05-2014,Alm.,3187,3,Villa,80,1960,
+Nørrealle 1 7570 Vemb,1,515000.0,21-05-2014,Alm.,5852,3,Villa,88,1945,-6 %
+Dinesensvej 2 7570 Vemb,2,4325000.0,12-05-2014,Andet,50290,4,Villa,86,1960,652 %
+Hyttevej 97 7570 Vemb,97,485000.0,01-05-2014,Alm.,6217,4,Sommerhus,78,1980,-2 %
+Hasselvej 22 7570 Vemb,22,1995000.0,25-04-2014,Alm.,11946,6,Villa,167,2006,0 %
+Vestergade 42 7570 Vemb,42,895000.0,25-04-2014,Alm.,6215,4,Villa,144,1932,
+Stationsvej 3 7570 Vemb,3,200000.0,23-04-2014,Fam.,682,10,Villa,293,1907,
+Skolevej 40 7570 Vemb,40,650000.0,10-04-2014,Auktion,3735,5,Villa,174,1900,-24 %
+Hyttevej 93 7570 Vemb,93,509100.0,06-04-2014,Fam.,6973,4,Sommerhus,73,1978,
+Vesteralle 10 7570 Vemb,10,90000.0,31-03-2014,Alm.,656,5,Villa,137,1946,
+Nørgårdsvej 16 7570 Vemb,16,1174118.0,27-03-2014,Fam.,7724,5,Stuehus,152,2001,
+Grønne Vej 5 7570 Vemb,5,1095000.0,22-03-2014,Alm.,4845,7,Villa,226,1967,0 %
+Damhusvej 2 7570 Vemb,2,1395000.0,15-03-2014,Alm.,6428,6,Villa,217,1952,0 %
+Skalstrupvej 12 7570 Vemb,12,6025000.0,04-03-2014,Alm.,38870,6,Stuehus,155,1929,
+Neesvej 54 7570 Vemb,54,170000.0,21-02-2014,Alm.,1360,5,Villa,125,1973,-8 %
+Stenumvej 9 7570 Vemb,9,2041000.0,11-02-2014,Fam.,13606,4,Stuehus,150,1920,
+Nøragervej 1 7570 Vemb,1,300000.0,07-02-2014,Alm.,2000,5,Villa,150,1979,
+Bygaden 23 7570 Vemb,23,58000.0,06-02-2014,Auktion,464,4,Villa,125,1910,
+Humlevænget 18 7570 Vemb,18,825000.0,28-01-2014,Alm.,6547,4,Villa,126,1978,-6 %
+Nørrealle 7 7570 Vemb,7,255000.0,18-01-2014,Alm.,2833,4,Villa,90,1964,-12 %
+Fjordvejen 4 7570 Vemb,4,368812.0,17-01-2014,Fam.,3207,4,Villa,115,1926,
+Ballesigvej 14 7570 Vemb,14,990000.0,16-01-2014,Alm.,7071,3,Villa,140,1912,-1 %
+Møborgåvej 2 7570 Vemb,2,12037000.0,15-01-2014,Alm.,44581,11,Stuehus,270,1929,
+Bygaden 3 7570 Vemb,3,300000.0,15-01-2014,Alm.,3370,3,Villa,89,1960,-38 %
+Kjærsvej 11 7570 Vemb,11,200000.0,13-01-2014,Alm.,0,5,Villa,126,1952,-49 %
+Skolegade 35 7570 Vemb,35,569500.0,19-12-2013,Alm.,4380,5,Villa,130,1961,
+Gørdingvej 7 7570 Vemb,7,620000.0,05-12-2013,Auktion,3351,8,Stuehus,185,1906,
+Hasselvej 9 7570 Vemb,9,1350000.0,21-10-2013,Alm.,8823,5,Villa,153,1999,-7 %
+Bigårdsvej 33 7570 Vemb,33,518000.0,16-09-2013,Alm.,3647,4,Villa,142,1976,
+Rosenvænget 3 7570 Vemb,3,845000.0,22-08-2013,Alm.,7971,4,Villa,106,1967,0 %
+Kikkenborgvej 58 7570 Vemb,58,445000.0,26-07-2013,Alm.,5705,4,Villa,78,1930,-10 %
+Skovvangvej 23 7570 Vemb,23,1275000.0,24-06-2013,Alm.,7083,6,Villa,180,1861,-9 %
+Burvej 39 7570 Vemb,39,1350000.0,06-06-2013,Alm.,9000,5,Villa,150,1960,-3 %
+Harpøtvej 82 7570 Vemb,82,474000.0,03-06-2013,Alm.,7900,4,Sommerhus,60,1987,-5 %
+Sandbækvej 27 7570 Vemb,27,210000.0,24-05-2013,Alm.,2282,4,Villa,92,1938,
+Søndergade 7 7570 Vemb,7,275000.0,24-05-2013,Alm.,1858,4,Villa,148,1908,-21 %
+Enghavevej 11 7570 Vemb,11,1025000.0,17-05-2013,Alm.,6406,5,Villa,160,1967,-9 %
+Nørregade 57 7570 Vemb,57,558500.0,16-05-2013,Auktion,3960,5,Villa,141,1978,
+Skolevej 5 7570 Vemb,5,400000.0,08-05-2013,Alm.,3703,4,Villa,108,1965,-35 %
+Humlevænget 54 7570 Vemb,54,1200000.0,29-04-2013,Alm.,7317,6,Villa,164,1976,-7 %
+Neesvej 107 7570 Vemb,107,290000.0,18-04-2013,Alm.,2589,5,Villa,112,1860,-2 %
+Æblehaven 8 7570 Vemb,8,740000.0,28-03-2013,Alm.,3333,8,Villa,222,1971,
+Råsted Kirkevej 12 7570 Vemb,12,3800000.0,15-03-2013,Alm.,22093,6,Stuehus,172,1907,
+Bundgårdvej 8 7570 Vemb,8,840000.0,13-03-2013,Alm.,3636,9,Stuehus,231,1978,-4 %
+Enghavevej 10 7570 Vemb,10,775000.0,11-03-2013,Alm.,7175,3,Villa,108,1967,-6 %
+Harpøtvej 128 7570 Vemb,128,1100000.0,04-03-2013,Alm.,12941,4,Sommerhus,85,1975,-8 %
+Rørsgårdsvej 3 7570 Vemb,3,465619.0,27-02-2013,Alm.,3063,6,Villa,152,1968,
+Lyngholmvej 3 7570 Vemb,3,9750000.0,20-02-2013,Alm.,56686,5,Stuehus,172,1912,
+Knudsigvej 3 7570 Vemb,3,12300000.0,18-02-2013,Alm.,44565,7,Stuehus,276,2008,
+Fjordvejen 5A 7570 Vemb,0,75000.0,18-02-2013,Alm.,625,6,Stuehus,120,1877,
+Humlevænget 39 7570 Vemb,39,600000.0,25-01-2013,Alm.,4411,4,Villa,136,1977,-11 %
+Kjærsvej 22 7570 Vemb,22,760000.0,18-01-2013,Alm.,8172,3,Villa,93,1959,
+Nørtoftvej 7 7570 Vemb,7,492915.0,17-01-2013,Alm.,3597,7,Villa,137,1914,
+Bigårdsvej 13 7570 Vemb,13,995000.0,07-01-2013,Alm.,7896,4,Villa,126,1978,0 %
+Knudehus 33 7570 Vemb,33,740000.0,17-12-2012,Alm.,6851,4,Sommerhus,108,2005,
+Sandbækvej 4 7570 Vemb,4,495000.0,04-12-2012,Alm.,5500,3,Sommerhus,90,1850,
+Vestergade 15 7570 Vemb,15,260000.0,30-11-2012,Alm.,1830,6,Villa,142,1940,-26 %
+Æblehaven 19 7570 Vemb,19,468000.0,23-11-2012,Alm.,3545,4,Villa,132,1984,
+Nørrealle 10 7570 Vemb,10,475000.0,15-11-2012,Alm.,2896,5,Villa,164,1951,-20 %
+Neesvej 121 7570 Vemb,121,595000.0,10-11-2012,Fam.,4958,4,Sommerhus,120,1830,
+Chr. Schmidtsvej 17 7570 Vemb,17,70000.0,01-11-2012,Alm.,1014,2,Villa,69,1935,
+Skolegade 8 7570 Vemb,8,190000.0,30-10-2012,Alm.,1759,4,Villa,108,1932,-16 %
+Damhusvej 5 7570 Vemb,5,982000.0,03-10-2012,Alm.,4959,8,Villa,198,1973,-6 %
+Præstegårdsvej 10 7570 Vemb,10,570000.0,02-10-2012,Alm.,4523,4,Villa,126,1908,-12 %
+Kløvervænget 1 7570 Vemb,1,394783.0,11-09-2012,Alm.,3183,4,Villa,124,1972,
+Skolegade 27 7570 Vemb,27,541238.0,10-09-2012,Fam.,5819,3,Villa,93,1936,
+Bygaden 22 7570 Vemb,22,800000.0,07-09-2012,Alm.,5925,3,Villa,135,1991,-10 %
+Hyttevej 103 7570 Vemb,103,850000.0,24-08-2012,Alm.,10119,5,Sommerhus,84,1983,-15 %
+Fjordvejen 24 7570 Vemb,24,425000.0,17-08-2012,Alm.,0,6,Villa,156,1934,-19 %
+Råsted Kirkevej 28 7570 Vemb,28,1625000.0,10-08-2012,Alm.,12404,5,Villa,131,1982,-14 %
+Hyttevej 17 7570 Vemb,17,772500.0,06-08-2012,Alm.,12070,2,Sommerhus,64,2009,-3 %
+Skolevej 19 7570 Vemb,19,750000.0,12-07-2012,Fam.,4870,3,Villa,154,1973,
+Burvej 77 7570 Vemb,77,1700000.0,12-07-2012,Fam.,9604,5,Villa,177,1968,
+Nørtoftvej 18 7570 Vemb,18,625000.0,11-07-2012,Alm.,4032,7,Villa,155,1956,
+Knudehus 31 7570 Vemb,31,750000.0,21-06-2012,Auktion,6944,4,Sommerhus,108,2005,
+Skolevej 14 7570 Vemb,14,800000.0,07-06-2012,Alm.,6400,4,Villa,125,1978,-10 %
+Harpøtvej 72 7570 Vemb,72,618000.0,03-06-2012,Alm.,9088,4,Sommerhus,68,1976,-6 %
+Skalstrupvej 6 7570 Vemb,6,330960.0,31-05-2012,Alm.,2928,6,Stuehus,113,1890,
+Skolevej 4A 7570 Vemb,0,275000.0,14-05-2012,Alm.,3618,2,Villa,76,1980,
+Enghavevej 14 7570 Vemb,14,1085000.0,17-04-2012,Alm.,6867,4,Villa,158,1972,-1 %
+Skolevej 16 7570 Vemb,16,810000.0,26-03-2012,Alm.,5000,7,Villa,162,1975,-4 %
+Skolegade 7 7570 Vemb,7,280000.0,12-01-2012,Auktion,2000,4,Villa,140,1920,
+Stenumvej 7 7570 Vemb,7,3537718.0,14-12-2011,Fam.,12634,8,Stuehus,280,1952,
+Nørregade 41 7570 Vemb,41,285000.0,08-12-2011,Auktion,1979,5,Villa,144,1924,-61 %
+Golfsvinget 50 7570 Vemb,50,175000.0,05-12-2011,Alm.,3723,3,Sommerhus,47,2013,
+Hedevej 21 7570 Vemb,21,3750000.0,28-11-2011,Alm.,42613,3,Stuehus,88,1956,582 %
+Nørrealle 13 7570 Vemb,13,150000.0,03-11-2011,Auktion,892,5,Villa,168,1960,
+Skalstrupvej 87 7570 Vemb,87,1900000.0,12-10-2011,Alm.,6462,8,Stuehus,294,1876,-13 %
+Humlevænget 24 7570 Vemb,24,695000.0,03-09-2011,Alm.,5743,5,Villa,121,1980,-4 %
+Bigårdsvej 27 7570 Vemb,27,760000.0,01-09-2011,Alm.,6129,4,Villa,124,1976,
+Bigårdsvej 6 7570 Vemb,6,650000.0,25-08-2011,Alm.,6132,4,Villa,106,1976,0 %
+Skalstrupvej 57 7570 Vemb,57,244000.0,16-08-2011,Alm.,1326,7,Villa,184,1842,
+Bygaden 27 7570 Vemb,27,225000.0,04-08-2011,Alm.,2743,4,Villa,82,1877,-53 %
+Bigårdsvej 45 7570 Vemb,45,550000.0,21-07-2011,Alm.,0,4,Villa,153,1975,-21 %
+Kløvervænget 5 7570 Vemb,5,775000.0,21-07-2011,Alm.,4100,6,Villa,189,1972,-12 %
+Vestergade 22 7570 Vemb,22,451739.0,06-07-2011,Fam.,3529,5,Villa,128,1920,
+Humlevænget 26 7570 Vemb,26,2095000.0,05-07-2011,Alm.,11026,6,Villa,190,2007,0 %
+Skolevej 2 7570 Vemb,2,475000.0,28-06-2011,Alm.,4094,4,Villa,116,1976,-4 %
+Tangsgårdsvej 2 7570 Vemb,2,387500.0,23-06-2011,Alm.,3836,4,Villa,101,1900,-14 %
+Nørrealle 15 7570 Vemb,15,400000.0,15-06-2011,Alm.,3508,4,Villa,114,1959,-11 %
+Bigårdsvej 15 7570 Vemb,15,1215000.0,01-06-2011,Alm.,8678,5,Villa,140,1979,-3 %
+Nørregade 40A 7570 Vemb,0,678750.0,20-05-2011,Alm.,5430,4,Villa,125,1973,
+Nørtoftvej 19 7570 Vemb,19,11681848.0,16-05-2011,Alm.,56984,8,Stuehus,205,1955,
+Humlevænget 63 7570 Vemb,63,470000.0,16-05-2011,Alm.,5949,3,Rækkehus,79,1979,
+Fjordvejen 18 7570 Vemb,18,385600.0,16-05-2011,Alm.,3213,4,Stuehus,120,1865,
+Fousingvej 1A 7570 Vemb,0,120000.0,16-05-2011,Alm.,480,7,Stuehus,250,1899,
+Fælledvej 5 7570 Vemb,5,136000.0,16-05-2011,Alm.,894,6,Stuehus,152,1904,
+Vestergade 25 7570 Vemb,25,765000.0,11-05-2011,Alm.,4526,6,Villa,169,1964,-4 %
+Hestbækvej 14 7570 Vemb,14,287875.0,03-05-2011,Alm.,3690,3,Villa,78,1940,
+"Stationsvej 6, 1 7570 Vemb",1,1200000.0,04-04-2011,Alm.,5581,6,Anden beboelse,215,1880,
+Søndergade 20 7570 Vemb,20,400000.0,02-04-2011,Alm.,2919,7,Villa,137,1902,-18 %
+Koldborgvej 12 7570 Vemb,12,1525000.0,01-04-2011,Alm.,9531,5,Villa,160,1859,-2 %
+Skolevej 24 7570 Vemb,24,500000.0,25-03-2011,Alm.,4132,4,Villa,121,1975,-16 %
+Fjordvejen 9 7570 Vemb,9,2250000.0,25-03-2011,Alm.,0,6,Villa,315,1998,0 %
+Burvej 24 7570 Vemb,24,750000.0,11-03-2011,Alm.,3787,7,Villa,198,1916,
+Dinesensvej 6 7570 Vemb,6,1070000.0,10-02-2011,Alm.,10288,3,Villa,104,1998,-10 %
+Hasselvej 8 7570 Vemb,8,2200000.0,07-02-2011,Fam.,13017,5,Villa,169,2002,
+"Stationsvej 2, 1 7570 Vemb",1,1670291.0,07-02-2011,Fam.,11930,4,Lejlighed,140,1935,
+Rørsgårdsvej 23 7570 Vemb,23,440000.0,07-02-2011,Alm.,2732,6,Villa,161,1907,-16 %
+Hestbækvej 2 7570 Vemb,2,1190000.0,03-02-2011,Alm.,7437,4,Villa,160,1965,-5 %
+Vesteralle 6 7570 Vemb,6,667500.0,25-01-2011,Alm.,5656,4,Villa,118,1965,-3 %
+Fjordvejen 15 7570 Vemb,15,905000.0,12-01-2011,Fam.,6198,3,Stuehus,146,1925,
+Damhusvej 21 7570 Vemb,21,2480000.0,04-01-2011,Alm.,17714,4,Stuehus,140,1901,-24 %
+Bigårdsvej 21 7570 Vemb,21,1050000.0,22-12-2010,Alm.,8267,4,Villa,127,1994,-8 %
+Humlevænget 30B 7570 Vemb,0,905000.0,17-12-2010,Alm.,7298,4,Villa,124,1977,-16 %
+Hyttevej 69 7570 Vemb,69,542000.0,06-12-2010,Alm.,7424,4,Sommerhus,73,1978,-9 %
+Færgevej 11 7570 Vemb,11,680000.0,29-11-2010,Alm.,22666,2,Sommerhus,30,1960,-14 %
+Skalstrupvej 13 7570 Vemb,13,1060000.0,22-11-2010,Alm.,0,8,Stuehus,242,1934,
+Humlevænget 61 7570 Vemb,61,475000.0,08-11-2010,Alm.,6012,3,Rækkehus,79,1979,-10 %
+Kikkenborgvej 44 7570 Vemb,44,311392.0,27-10-2010,Alm.,2048,4,Villa,152,1911,
+Enghavevej 17 7570 Vemb,17,735000.0,24-09-2010,Alm.,4298,6,Villa,171,1967,-18 %
+Møborgåvej 1 7570 Vemb,1,2045000.0,20-09-2010,Alm.,18097,4,Stuehus,113,1941,
+Neesvej 14 7570 Vemb,14,400000.0,09-09-2010,Alm.,3361,3,Villa,119,1900,-27 %
+Sønderbyvej 1 7570 Vemb,1,995000.0,28-08-2010,Alm.,5621,5,Villa,177,1957,0 %
+Alleen 3 7570 Vemb,3,800000.0,29-07-2010,Fam.,5839,7,Villa,137,1931,
+Neesvej 87 7570 Vemb,87,875000.0,20-07-2010,Alm.,5952,5,Villa,147,1977,-2 %
+Fjordvejen 6 7570 Vemb,6,450000.0,19-07-2010,Alm.,2647,6,Villa,170,1930,-31 %
+Bygaden 35 7570 Vemb,35,700000.0,16-07-2010,Alm.,4729,5,Villa,148,1951,-5 %
+Burvej 36 7570 Vemb,36,1060000.0,01-07-2010,Alm.,6463,5,Stuehus,164,1900,
+Ballesigvej 17 7570 Vemb,17,1300000.0,26-06-2010,Alm.,8280,5,Villa,157,1987,-19 %
+Humlevænget 11 7570 Vemb,11,1250000.0,10-06-2010,Alm.,8620,6,Villa,145,1979,
+Alleen 8 7570 Vemb,8,1295000.0,09-06-2010,Alm.,11163,4,Villa,116,1941,-7 %
+Skolevej 37 7570 Vemb,37,517500.0,20-05-2010,Alm.,3618,6,Villa,143,1978,
+Bigårdsvej 37 7570 Vemb,37,735000.0,19-05-2010,Alm.,6228,4,Villa,118,1976,-1 %
+Hyldevej 16 7570 Vemb,16,1695000.0,01-05-2010,Alm.,9469,5,Villa,179,2008,0 %
+Skalstrupvej 1 7570 Vemb,1,200000.0,23-04-2010,Alm.,1680,4,Villa,119,1927,-20 %
+Skalstrupvej 62 7570 Vemb,62,275000.0,31-03-2010,Alm.,2235,5,Villa,123,1939,-29 %
+Dinesensvej 1 7570 Vemb,1,1350000.0,20-03-2010,Alm.,5252,5,Villa,257,1970,-3 %
+Harpøtvej 66 7570 Vemb,66,280000.0,17-03-2010,Alm.,5600,3,Sommerhus,50,1980,
+Vembvej 14 7570 Vemb,14,640000.0,25-02-2010,Alm.,4571,6,Stuehus,140,1914,
+Vestergade 37 7570 Vemb,37,872000.0,19-02-2010,Alm.,5450,4,Villa,160,1956,
+Burvej 73 7570 Vemb,73,570000.0,31-01-2010,Alm.,5757,4,Villa,99,1954,-10 %
+Humlevænget 1 7570 Vemb,1,3148800.0,11-01-2010,Fam.,20314,4,Villa,155,1978,
+Kjærsvej 20 7570 Vemb,20,965000.0,05-01-2010,Alm.,0,8,Villa,200,1940,-3 %
+Vestergade 12 7570 Vemb,12,400000.0,15-12-2009,Fam.,4545,5,Villa,88,1910,
+Tangsgårdsvej 3 7570 Vemb,3,695000.0,12-12-2009,Alm.,10859,2,Villa,64,1954,0 %
+Fjordvejen 3 7570 Vemb,3,490000.0,24-11-2009,Alm.,5000,3,Villa,98,1940,
+Nørgårdsvej 22 7570 Vemb,22,500000.0,11-11-2009,Alm.,2777,6,Stuehus,180,1917,
+Kløvervænget 7 7570 Vemb,7,398925.0,04-11-2009,Alm.,2849,5,Villa,140,1973,
+Neesvej 50 7570 Vemb,50,290000.0,01-11-2009,Alm.,1361,7,Villa,213,1913,-11 %
+Skalstrupvej 7 7570 Vemb,7,670000.0,26-10-2009,Andet,5317,3,Villa,126,1918,
+Harpøtvej 14 7570 Vemb,14,670000.0,25-08-2009,Alm.,10983,4,Sommerhus,61,1986,-4 %
+Skolevej 25 7570 Vemb,25,900000.0,24-08-2009,Alm.,4761,6,Villa,189,1974,-10 %
+Bygaden 10 7570 Vemb,10,800000.0,22-08-2009,Alm.,4145,4,Rækkehus,193,1909,-7 %
+Burvej 42 7570 Vemb,42,1025000.0,21-08-2009,Alm.,7884,5,Stuehus,130,1880,-6 %
+Skolevej 31B 7570 Vemb,0,495000.0,19-08-2009,Alm.,6875,3,Rækkehus,72,1978,0 %
+Nørrealle 20 7570 Vemb,20,545000.0,17-08-2009,Alm.,4160,4,Villa,131,1958,0 %
+Hyttevej 1 7570 Vemb,1,535000.0,11-08-2009,Alm.,7430,4,Sommerhus,72,1988,
+Søndergade 12 7570 Vemb,12,850000.0,18-07-2009,Alm.,5029,5,Villa,169,1918,-10 %
+Skalstrupvej 97 7570 Vemb,97,700000.0,15-07-2009,Alm.,4861,4,Villa,144,1983,
+Nygade 10 7570 Vemb,10,280000.0,29-06-2009,Alm.,3333,3,Villa,84,1920,-14 %
+Chr. Schmidtsvej 21 7570 Vemb,21,750000.0,19-06-2009,Alm.,3260,5,Villa,230,1963,-12 %
+Burvej 7 7570 Vemb,7,740000.0,02-06-2009,Alm.,6434,3,Villa,115,1923,-7 %
+Hyttevej 5 7570 Vemb,5,259306.0,01-06-2009,Fam.,3457,4,Sommerhus,75,1987,
+Skalstrupvej 84 7570 Vemb,84,1000000.0,29-05-2009,Alm.,6060,6,Stuehus,165,1942,
+Kikkenborgvej 46 7570 Vemb,46,1000000.0,29-05-2009,Alm.,5263,9,Stuehus,190,1924,
+Enghavevej 12 7570 Vemb,12,775000.0,14-05-2009,Alm.,5308,4,Villa,146,1966,-3 %
+Knudehus 5 7570 Vemb,5,1250000.0,07-05-2009,Alm.,13297,4,Sommerhus,94,2009,-16 %
+Sandbækvej 9 7570 Vemb,9,1200000.0,19-04-2009,Fam.,12000,2,Stuehus,100,1850,
+Præstegårdsvej 20 7570 Vemb,20,1625000.0,08-04-2009,Alm.,0,12,Villa,395,1961,
+Humlevænget 51 7570 Vemb,51,757000.0,26-03-2009,Alm.,6104,4,Villa,124,1976,-5 %
+Damhusvej 14 7570 Vemb,14,585000.0,24-03-2009,Alm.,4957,5,Villa,118,1931,-2 %
+Skalstrupvej 41 7570 Vemb,41,10187100.0,18-02-2009,Fam.,59227,6,Stuehus,172,1898,
+Harpøtvej 132 7570 Vemb,132,1060000.0,17-02-2009,Alm.,10192,6,Sommerhus,104,1986,
+Skovvangvej 15 7570 Vemb,15,600000.0,02-02-2009,Fam.,2666,8,Villa,225,1976,
+Neesvej 11 7570 Vemb,11,6600000.0,21-01-2009,Alm.,25000,7,Stuehus,264,1975,
+Hvolbyvej 2 7570 Vemb,2,3000000.0,30-12-2008,Fam.,13392,8,Stuehus,224,1972,
+Hvolbyvej 4 7570 Vemb,4,2085000.0,30-12-2008,Alm.,19305,5,Stuehus,108,1877,
+Burvej 40 7570 Vemb,40,725000.0,21-11-2008,Alm.,6250,3,Villa,116,1927,-3 %
+Planteskolevej 1 7570 Vemb,1,700000.0,07-11-2008,Alm.,3431,4,Villa,204,1959,-8 %
+Bygaden 33 7570 Vemb,33,730000.0,05-11-2008,Alm.,5840,5,Villa,125,1960,-14 %
+Damhusvej 19 7570 Vemb,19,1138000.0,27-10-2008,Alm.,7341,5,Villa,155,1910,-1 %
+Skolegade 43 7570 Vemb,43,375000.0,16-10-2008,Alm.,4310,3,Villa,87,1960,-24 %
+Bygaden 37 7570 Vemb,37,4780565.0,13-10-2008,Alm.,29509,6,Stuehus,162,1920,
+Lindtorpvej 12 7570 Vemb,12,1500000.0,01-10-2008,Alm.,6880,8,Stuehus,218,1937,
+Dinesensvej 5 7570 Vemb,5,1470000.0,26-09-2008,Alm.,6391,9,Villa,230,1963,
+Søndergade 3 7570 Vemb,3,410000.0,12-09-2008,Fam.,1589,9,Villa,258,1908,
+Neesvej 28 7570 Vemb,28,395000.0,12-09-2008,Alm.,2947,4,Villa,134,1917,-7 %
+Sdr Hedegårdsvej 6 7570 Vemb,6,1175000.0,22-08-2008,Alm.,7035,6,Villa,167,1937,-2 %
+Skalstrupvej 95 7570 Vemb,95,2850000.0,12-08-2008,Alm.,18037,6,Stuehus,158,1958,
+Søndergade 24 7570 Vemb,24,465000.0,27-07-2008,Alm.,3297,5,Villa,141,1915,-6 %
+Kjærsvej 5 7570 Vemb,5,360000.0,26-07-2008,Alm.,5000,6,Villa,72,1937,-9 %
+Neesvej 96 7570 Vemb,96,360000.0,25-07-2008,Alm.,4444,3,Villa,81,1860,-15 %
+Æblehaven 7 7570 Vemb,7,995000.0,01-07-2008,Alm.,7537,5,Villa,132,1971,
+Æblehaven 9 7570 Vemb,9,900000.0,30-06-2008,Alm.,6338,5,Villa,142,1972,-3 %
+Humlevænget 21 7570 Vemb,21,1250000.0,13-06-2008,Alm.,8333,5,Villa,150,1978,
+Nørregade 38 7570 Vemb,38,500000.0,02-06-2008,Alm.,5494,3,Villa,91,1941,-5 %
+Kjærsvej 3 7570 Vemb,3,650000.0,29-05-2008,Alm.,2888,9,Biograf o.l.,225,1935,
+Enghavevej 3 7570 Vemb,3,840000.0,25-05-2008,Alm.,6720,4,Villa,125,1900,-1 %
+Planteskolevej 2 7570 Vemb,2,387500.0,24-04-2008,Alm.,1937,7,Villa,200,1969,
+Harpøtvej 4 7570 Vemb,4,520000.0,21-03-2008,Alm.,9122,3,Sommerhus,57,1974,-5 %
+Nørtoftvej 16 7570 Vemb,16,750000.0,14-03-2008,Alm.,4310,4,Villa,174,1955,-6 %
+Skolevej 27 7570 Vemb,27,650000.0,10-03-2008,Alm.,6500,4,Villa,100,1960,0 %
+Vestergade 10 7570 Vemb,10,500000.0,06-03-2008,Alm.,2645,5,Rækkehus,189,1900,
+Skolevej 30 7570 Vemb,30,1170000.0,29-02-2008,Alm.,6964,7,Villa,168,1978,
+"Bygaden 14, 1 7570 Vemb",1,600000.0,01-02-2008,Alm.,4166,6,Lejlighed,144,1923,
+Møborgåvej 7 7570 Vemb,7,1844500.0,01-02-2008,Alm.,13269,5,Stuehus,139,1916,0 %
+Damhusvej 15 7570 Vemb,15,700000.0,31-01-2008,Alm.,3703,6,Villa,189,1777,
+Dinesensvej 3 7570 Vemb,3,1100000.0,17-01-2008,Alm.,5759,6,Villa,191,1964,
+Knudsigvej 1 7570 Vemb,1,370000.0,18-12-2007,Fam.,3854,3,Villa,96,1960,
+Nørtoftvej 21 7570 Vemb,21,6703995.0,18-12-2007,Fam.,35470,4,Stuehus,189,1956,
+Nørrealle 4 7570 Vemb,4,835000.0,21-11-2007,Alm.,6680,5,Villa,125,1935,-1 %
+Nørregade 34 7570 Vemb,34,720000.0,09-11-2007,Alm.,7058,4,Villa,102,1926,0 %
+Skalstrupvej 53 7570 Vemb,53,574000.0,07-11-2007,Alm.,5466,3,Villa,105,1960,
+Koldborgvej 7 7570 Vemb,7,250000.0,07-11-2007,Fam.,3125,3,Sommerhus,80,1830,
+Alleen 4 7570 Vemb,4,380000.0,02-11-2007,Alm.,5671,3,Villa,67,1947,-12 %
+Burvej 59 7570 Vemb,59,480000.0,22-10-2007,Alm.,5217,3,Villa,92,1959,-7 %
+Nørgårdsvej 18 7570 Vemb,18,563627.0,12-10-2007,Alm.,3522,6,Stuehus,160,1650,
+Skolegade 33 7570 Vemb,33,660000.0,09-10-2007,Alm.,6111,4,Villa,108,1962,-5 %
+Blommehaven 5 7570 Vemb,5,1575000.0,03-10-2007,Alm.,14449,4,Rækkehus,109,2008,
+Lindtorpvej 11 7570 Vemb,11,980000.0,03-10-2007,Alm.,7840,3,Villa,125,1931,-2 %
+Harpøtvej 6 7570 Vemb,6,495000.0,27-09-2007,Alm.,8250,4,Sommerhus,60,1974,0 %
+Nørrealle 12 7570 Vemb,12,895000.0,12-09-2007,Alm.,7160,5,Villa,125,1939,
+Præstegårdsvej 16 7570 Vemb,16,875000.0,04-09-2007,Alm.,8495,5,Villa,103,1935,-5 %
+Skalstrupvej 96 7570 Vemb,96,955000.0,29-08-2007,Alm.,5000,7,Villa,191,1880,
+Rørsgårdsvej 13 7570 Vemb,13,1245000.0,23-08-2007,Alm.,9154,5,Villa,136,1971,
+Blommehaven 3 7570 Vemb,3,1715000.0,21-08-2007,Alm.,12894,4,Rækkehus,133,2008,
+Blommehaven 1 7570 Vemb,1,1715000.0,21-08-2007,Alm.,12894,4,Rækkehus,133,2008,
+Hyttevej 79 7570 Vemb,79,460000.0,21-08-2007,Fam.,5897,3,Sommerhus,78,1978,
+Fousingvej 2 7570 Vemb,2,645000.0,16-08-2007,Alm.,5201,3,Villa,124,1924,0 %
+Alleen 1 7570 Vemb,1,538668.0,15-08-2007,Fam.,2640,6,Villa,204,1928,
+Knudehus 51 7570 Vemb,51,2500000.0,07-08-2007,Alm.,0,6,Sommerhus,221,2001,
+Pøtparken 22 7570 Vemb,22,85051.0,06-08-2007,Alm.,425,7,Villa,200,2008,
+Præstegårdsvej 1 7570 Vemb,1,1450000.0,06-08-2007,Alm.,7880,5,Villa,184,1940,
+Lyngholmvej 1 7570 Vemb,1,720000.0,27-07-2007,Alm.,0,4,Villa,138,1877,
+Bigårdsvej 4 7570 Vemb,4,755000.0,13-07-2007,Alm.,12583,3,Villa,60,1954,-1 %
+Gedmosevej 3 7570 Vemb,3,1275000.0,05-07-2007,Alm.,0,5,Villa,176,1955,-2 %
+Hyttevej 95 7570 Vemb,95,620000.0,01-07-2007,Alm.,9117,4,Sommerhus,68,1977,-11 %
+Fousingvej 3 7570 Vemb,3,1630000.0,12-06-2007,Alm.,7409,5,Stuehus,220,1925,
+Skalstrupvej 114 7570 Vemb,114,1637500.0,25-05-2007,Alm.,7987,8,Villa,205,1928,
+Neesvej 36 7570 Vemb,36,360000.0,24-05-2007,Alm.,3130,5,Villa,115,1900,-4 %
+Nørtoftvej 3 7570 Vemb,3,995000.0,23-05-2007,Alm.,0,4,Villa,142,1928,
+Sandbækvej 52 7570 Vemb,52,3400000.0,21-05-2007,Alm.,34000,4,Stuehus,100,1895,21 %
+Tangsgårdsvej 6 7570 Vemb,6,795000.0,14-05-2007,Alm.,6115,4,Villa,130,1951,
+Harpøtvej 94 7570 Vemb,94,450000.0,12-05-2007,Alm.,9000,3,Sommerhus,50,1974,
+Sdr Hedegårdsvej 7 7570 Vemb,7,485000.0,08-05-2007,Alm.,6381,4,Villa,76,1960,
+Åbrinken 14 7570 Vemb,14,330480.0,30-04-2007,Alm.,1867,5,Villa,177,2008,
+Nørregade 49 7570 Vemb,49,460000.0,23-04-2007,Alm.,4842,4,Villa,95,1910,
+Dinesensvej 11 7570 Vemb,11,925000.0,21-04-2007,Alm.,6045,5,Villa,153,1962,0 %
+Chr. Schmidtsvej 20 7570 Vemb,20,1195000.0,18-04-2007,Alm.,7810,6,Villa,153,1972,0 %
+Holmgårdvej 194 7570 Vemb,194,1775000.0,11-04-2007,Alm.,9391,6,Villa,189,2002,
+Fjordvejen 10 7570 Vemb,10,990000.0,29-03-2007,Alm.,6689,5,Villa,148,2014,
+Koldborgvej 23 7570 Vemb,23,485000.0,25-03-2007,Alm.,5773,3,Sommerhus,84,1920,-8 %
+Holmgårdvej 197 7570 Vemb,197,2750000.0,22-03-2007,Alm.,15277,5,Stuehus,180,1977,
+Neesvej 67 7570 Vemb,67,1900000.0,22-03-2007,Alm.,0,4,Anden beboelse,200,1968,
+Vestergade 16 7570 Vemb,16,485000.0,09-03-2007,Alm.,0,6,Rækkehus,147,1905,
+Hasselvej 15 7570 Vemb,15,1800000.0,14-02-2007,Alm.,11392,5,Villa,158,2002,
+Burvej 38 7570 Vemb,38,350000.0,14-02-2007,Fam.,2095,4,Villa,167,1875,
+Burvej 29 7570 Vemb,29,1750000.0,08-02-2007,Fam.,18421,3,Stuehus,95,1904,
+Søndergade 17 7570 Vemb,17,350000.0,12-01-2007,Fam.,2554,5,Villa,137,1909,
+Vestervangen 1A 7570 Vemb,0,660000.0,10-01-2007,Alm.,8461,3,Rækkehus,78,1966,
+Humlevænget 10 7570 Vemb,10,1000000.0,08-01-2007,Alm.,6410,5,Villa,156,1979,
+Nørtoftvej 15 7570 Vemb,15,825000.0,05-01-2007,Alm.,6066,5,Villa,136,1957,0 %
+Industrivej 10 7570 Vemb,10,395000.0,05-01-2007,Alm.,6076,2,Rækkehus,65,1978,0 %
+Harpøtvej 90 7570 Vemb,90,470000.0,26-12-2006,Alm.,5529,4,Sommerhus,85,1976,
+Burvej 19 7570 Vemb,19,1025000.0,17-12-2006,Alm.,4701,5,Villa,218,1880,
+Hyttevej 89 7570 Vemb,89,650000.0,29-11-2006,Alm.,12500,2,Sommerhus,52,1979,
+Skolegade 23 7570 Vemb,23,760000.0,27-11-2006,Alm.,8172,6,Villa,93,1932,
+Sdr Hedegårdsvej 5 7570 Vemb,5,980000.0,06-11-2006,Alm.,6405,6,Villa,153,1950,
+Humlevænget 44 7570 Vemb,44,800000.0,30-10-2006,Alm.,6349,4,Villa,126,1977,
+Neesvej 53B 7570 Vemb,0,400000.0,03-10-2006,Alm.,4444,3,Villa,90,1981,
+Nørregade 24 7570 Vemb,24,360000.0,28-09-2006,Andet,2857,5,Villa,126,1900,
+Humlevænget 69 7570 Vemb,69,598000.0,27-09-2006,Alm.,5200,4,Villa,115,1960,
+Hyttevej 61 7570 Vemb,61,185000.0,25-08-2006,Alm.,4204,2,Sommerhus,44,2009,
+Skalstrupvej 43 7570 Vemb,43,1495000.0,21-08-2006,Alm.,7706,4,Stuehus,194,1904,
+Harpøtvej 42 7570 Vemb,42,630000.0,15-08-2006,Alm.,10500,4,Sommerhus,60,1986,
+Neesvej 49 7570 Vemb,49,420000.0,03-08-2006,Alm.,3360,5,Villa,125,1928,
+Ulfsundvej 38 7570 Vemb,38,595000.0,28-07-2006,Alm.,6010,4,Villa,99,1961,
+Gedmosevej 5 7570 Vemb,5,7250000.0,22-06-2006,Fam.,30082,7,Stuehus,241,1969,
+Skadkjærvej 3 7570 Vemb,3,1000000.0,22-06-2006,Fam.,0,6,Stuehus,162,1938,
+Hestbækvej 7 7570 Vemb,7,2285000.0,21-06-2006,Alm.,28562,3,Stuehus,80,1924,
+Hasselvej 4 7570 Vemb,4,150000.0,21-06-2006,Alm.,789,5,Villa,190,2006,
+Nøragervej 27 7570 Vemb,27,510000.0,20-06-2006,Alm.,3167,9,Villa,161,1913,
+Bækbyvej 15 7570 Vemb,15,730750.0,18-06-2006,Fam.,7307,3,Stuehus,100,1901,
+Fælledvej 2 7570 Vemb,2,132000.0,18-06-2006,Alm.,1760,4,Stuehus,75,1900,
+Harpøtvej 30 7570 Vemb,30,775000.0,16-06-2006,Alm.,10333,3,Sommerhus,75,2005,
+Bigårdsvej 2 7570 Vemb,2,750000.0,02-06-2006,Alm.,6944,4,Villa,108,1952,
+Nørrealle 3 7570 Vemb,3,925000.0,24-05-2006,Alm.,12171,4,Villa,76,1950,
+Neesvej 41 7570 Vemb,41,180000.0,04-05-2006,Alm.,1451,3,Villa,124,1908,
+Sandbækvej 40 7570 Vemb,40,510000.0,01-05-2006,Alm.,6800,3,Stuehus,75,1899,
+Hyttevej 83 7570 Vemb,83,1000000.0,24-04-2006,Alm.,14285,3,Sommerhus,70,2006,
+Harpøtvej 74 7570 Vemb,74,625000.0,24-04-2006,Alm.,9057,4,Sommerhus,69,1980,
+Hyttevej 3 7570 Vemb,3,550000.0,10-04-2006,Alm.,6395,4,Sommerhus,86,1988,
+Harpøtvej 130 7570 Vemb,130,765000.0,24-02-2006,Alm.,9329,4,Sommerhus,82,1979,
+Kjærsvej 9 7570 Vemb,9,450000.0,22-02-2006,Alm.,4838,3,Villa,93,1959,
+Neesvej 30 7570 Vemb,30,370000.0,18-02-2006,Alm.,4204,3,Villa,88,1908,
+Burvej 30 7570 Vemb,30,13640000.0,13-02-2006,Alm.,78843,5,Stuehus,173,1909,
+Søndergade 5 7570 Vemb,5,235000.0,09-02-2006,Alm.,1807,6,Rækkehus,130,1900,
+Kløvervænget 14 7570 Vemb,14,735000.0,24-01-2006,Alm.,5742,4,Villa,128,1972,
+Hyldevej 19 7570 Vemb,19,31856.0,16-01-2006,Alm.,212,4,Villa,150,2008,
+Neesvej 29 7570 Vemb,29,298000.0,16-01-2006,Alm.,3040,4,Villa,98,1928,
+Humlevænget 30C 7570 Vemb,0,460000.0,02-01-2006,Alm.,3382,4,Villa,136,1977,
+Skolegade 17 7570 Vemb,17,950000.0,24-12-2005,Alm.,3505,8,Villa,271,1928,
+Rønnebærvej 1 7570 Vemb,1,250000.0,18-12-2005,Alm.,2631,2,Villa,95,1952,
+Donskærvej 21 7570 Vemb,21,1637500.0,13-12-2005,Alm.,0,6,Stuehus,135,1939,
+Hyldevej 1 7570 Vemb,1,1465000.0,04-12-2005,Alm.,9451,5,Villa,155,2001,
+Bigårdsvej 23 7570 Vemb,23,70000.0,01-12-2005,Alm.,463,4,Villa,151,2007,
+Harpøtvej 102 7570 Vemb,102,185000.0,21-11-2005,Alm.,1850,4,Sommerhus,100,2007,
+Stenumvej 5A 7570 Vemb,0,875000.0,26-10-2005,Alm.,0,8,Stuehus,285,1911,
+Humlevænget 29 7570 Vemb,29,293250.0,24-10-2005,Fam.,2327,4,Villa,126,1978,
+Harpøtvej 64 7570 Vemb,64,565000.0,05-10-2005,Alm.,7062,4,Sommerhus,80,1973,
+Idomvej 8 7570 Vemb,8,1050000.0,03-10-2005,Alm.,7000,4,Stuehus,150,1916,
+Soltoften 3 7570 Vemb,3,685000.0,23-09-2005,Alm.,3391,6,Villa,202,1981,
+Neesvej 31 7570 Vemb,31,165000.0,07-09-2005,Alm.,2115,3,Villa,78,1920,
+Harpøtvej 114 7570 Vemb,114,795000.0,05-09-2005,Alm.,12045,3,Sommerhus,66,2003,
+Blomstervænget 2 7570 Vemb,2,585000.0,02-09-2005,Alm.,5909,4,Rækkehus,99,1984,
+Bygaden 8 7570 Vemb,8,375000.0,29-08-2005,Alm.,3205,4,Villa,117,1916,
+Burvej 43 7570 Vemb,43,1295000.0,26-08-2005,Alm.,7993,3,Villa,162,1917,
+Skolevej 36 7570 Vemb,36,650000.0,24-08-2005,Alm.,4513,5,Villa,144,1978,
+Neesvej 59 7570 Vemb,59,180000.0,12-08-2005,Fam.,1538,4,Villa,117,1946,
+Kikkenborgvej 24 7570 Vemb,24,2250000.0,10-08-2005,Fam.,11718,6,Villa,192,2006,
+Hasselvej 16 7570 Vemb,16,1100000.0,22-06-2005,Alm.,7534,4,Villa,146,1995,
+Burvej 49 7570 Vemb,49,1560000.0,13-06-2005,Alm.,9873,6,Stuehus,158,1912,
+Nørregade 32 7570 Vemb,32,412000.0,10-06-2005,Alm.,3646,4,Villa,113,1899,
+Søndergade 15 7570 Vemb,15,650000.0,08-06-2005,Alm.,4421,5,Villa,147,1918,
+Chr. Schmidtsvej 19 7570 Vemb,19,510000.0,06-06-2005,Alm.,3017,5,Villa,169,1905,
+Holmgårdvej 190 7570 Vemb,190,460000.0,02-06-2005,Alm.,2421,5,Villa,190,1927,
+Industrivej 12 7570 Vemb,12,375000.0,31-05-2005,Alm.,5769,2,Rækkehus,65,1978,
+Burvej 48 7570 Vemb,48,17420000.0,13-05-2005,Alm.,197954,3,Villa,88,1960,
+Neesvej 61 7570 Vemb,61,350000.0,11-05-2005,Alm.,2592,4,Villa,135,1948,
+Egevej 6 7570 Vemb,6,650000.0,09-05-2005,Alm.,5508,3,Villa,118,1877,
+Neesvej 65 7570 Vemb,65,650000.0,26-04-2005,Alm.,3266,6,Villa,199,1972,
+Enghavevej 5 7570 Vemb,5,795000.0,20-04-2005,Alm.,3549,6,Villa,224,1969,
+Humlevænget 53 7570 Vemb,53,640000.0,14-04-2005,Alm.,4776,5,Villa,134,1976,
+Enghavevej 15 7570 Vemb,15,880000.0,13-04-2005,Alm.,3946,9,Villa,223,1966,
+Hyttevej 55 7570 Vemb,55,570000.0,12-02-2005,Alm.,6627,4,Sommerhus,86,1988,
+Rørsgårdsvej 21 7570 Vemb,21,700000.0,03-01-2005,Fam.,4794,4,Villa,146,1971,
+Råsted Kirkevej 18 7570 Vemb,18,1150000.0,03-01-2005,Fam.,4389,7,Stuehus,262,1929,
+Hvolbyvej 7 7570 Vemb,7,5900000.0,18-12-2004,Alm.,27830,5,Stuehus,212,1983,
+Skolegade 19 7570 Vemb,19,495000.0,01-10-2004,Alm.,5561,4,Villa,89,1954,
+Burvej 32 7570 Vemb,32,250000.0,28-09-2004,Fam.,2066,4,Villa,121,1903,
+Hestbækvej 5 7570 Vemb,5,450000.0,26-08-2004,Alm.,4945,5,Stuehus,91,1928,
+Hyttevej 85 7570 Vemb,85,45000.0,19-07-2004,Alm.,511,4,Sommerhus,88,2005,
+Nørregade 26 7570 Vemb,26,560000.0,13-07-2004,Alm.,3393,5,Villa,165,1913,
+Skolevej 38 7570 Vemb,38,715000.0,07-07-2004,Alm.,4965,4,Villa,144,1979,
+Hasselvej 20 7570 Vemb,20,1125000.0,24-06-2004,Alm.,6016,6,Villa,187,2001,
+Humlevænget 12 7570 Vemb,12,875000.0,23-06-2004,Alm.,7113,4,Villa,123,1986,
+Skovvangvej 10 7570 Vemb,10,250000.0,15-06-2004,Alm.,2049,4,Villa,122,1910,
+Harpøtvej 56 7570 Vemb,56,362500.0,07-06-2004,Alm.,5034,4,Sommerhus,72,1973,
+Burvej 21 7570 Vemb,21,3735000.0,12-05-2004,Fam.,17785,7,Stuehus,210,1909,
+Harpøtvej 96 7570 Vemb,96,340000.0,26-04-2004,Alm.,5230,3,Sommerhus,65,1975,
+Hyldevej 4 7570 Vemb,4,27294.0,12-04-2004,Alm.,205,4,Villa,133,2004,
+Dinesensvej 4 7570 Vemb,4,560000.0,31-03-2004,Alm.,3888,5,Villa,144,1963,
+Harpøtvej 48 7570 Vemb,48,361862.0,28-03-2004,Alm.,5743,3,Sommerhus,63,1975,
+Sandbækvej 10 7570 Vemb,10,1270000.0,17-03-2004,Alm.,6978,8,Stuehus,182,1922,
+Knudehus 55 7570 Vemb,55,1250000.0,04-03-2004,Alm.,11363,5,Sommerhus,110,2002,
+Harpøtvej 106 7570 Vemb,106,375000.0,29-02-2004,Alm.,5434,4,Sommerhus,69,1987,
+Nørregade 27 7570 Vemb,27,6001.0,16-02-2004,Auktion,57,4,Villa,105,1932,
+Æblehaven 3 7570 Vemb,3,305000.0,04-02-2004,Fam.,2401,5,Villa,127,1972,
+Nørrealle 6 7570 Vemb,6,425000.0,30-01-2004,Alm.,0,3,Villa,137,1934,
+Bygaden 12 7570 Vemb,12,300000.0,15-01-2004,Alm.,1935,7,Villa,155,1907,
+Hestbækvej 1 7570 Vemb,1,3900000.0,19-12-2003,Alm.,19500,6,Stuehus,200,1943,
+Neesvej 57 7570 Vemb,57,310000.0,08-12-2003,Alm.,2818,4,Villa,110,1938,
+Harpøtvej 52 7570 Vemb,52,87500.0,04-12-2003,Fam.,2034,3,Sommerhus,43,1979,
+Humlevænget 48 7570 Vemb,48,714000.0,28-11-2003,Fam.,4576,6,Villa,156,1977,
+Nørrealle 9 7570 Vemb,9,520000.0,03-11-2003,Alm.,5200,3,Villa,100,1955,
+Sandbækvej 38 7570 Vemb,38,150000.0,01-11-2003,Fam.,2307,3,Villa,65,1934,
+Bygaden 13 7570 Vemb,13,475000.0,10-10-2003,Alm.,4398,4,Villa,108,1937,
+Skalstrupvej 60 7570 Vemb,60,485000.0,07-10-2003,Alm.,3255,7,Villa,149,1951,
+Pøtparken 12 7570 Vemb,12,825000.0,23-09-2003,Alm.,5729,4,Villa,144,1987,
+Skolegade 2 7570 Vemb,2,730000.0,19-09-2003,Alm.,4965,5,Villa,147,1922,
+Neesvej 117 7570 Vemb,117,2000000.0,16-09-2003,Fam.,12269,6,Stuehus,163,1908,
+Hedevej 6 7570 Vemb,6,330000.0,20-08-2003,Alm.,0,7,Stuehus,166,1924,
+Kløvervænget 4 7570 Vemb,4,650000.0,14-08-2003,Alm.,0,5,Villa,116,1973,
+Burvej 79 7570 Vemb,79,550000.0,11-08-2003,Alm.,0,5,Villa,125,1907,
+Hyldevej 17 7570 Vemb,17,41087.0,31-07-2003,Alm.,247,5,Villa,166,2004,
+Nørregade 39 7570 Vemb,39,555000.0,09-07-2003,Alm.,2860,5,Villa,194,1910,
+Burvej 85 7570 Vemb,85,205000.0,26-06-2003,Alm.,2562,3,Villa,80,1910,
+Nr Viumvej 2 7570 Vemb,2,5300000.0,25-06-2003,Fam.,17666,9,Stuehus,300,1855,
+Knudsigvej 7 7570 Vemb,7,7200000.0,17-06-2003,Fam.,32432,4,Stuehus,222,1860,
+Knudsigvej 5 7570 Vemb,5,370000.0,17-06-2003,Fam.,0,6,Villa,166,1968,
+Hyttevej 45 7570 Vemb,45,312500.0,17-06-2003,Alm.,6793,3,Sommerhus,46,1979,
+Bygaden 11 7570 Vemb,11,448071.0,16-06-2003,Alm.,3111,6,Villa,144,1927,
+Nøragervej 14 7570 Vemb,14,1125000.0,11-06-2003,Alm.,5331,8,Stuehus,211,1919,
+Neesvej 45A 7570 Vemb,0,175000.0,10-06-2003,Alm.,2083,4,Villa,84,1927,
+Skolevej 18 7570 Vemb,18,960000.0,06-06-2003,Alm.,5079,6,Villa,189,1979,
+Humlevænget 28 7570 Vemb,28,750000.0,26-05-2003,Andet,4385,7,Villa,171,1979,
+Kikkenborgvej 11 7570 Vemb,11,76500.0,15-05-2003,Alm.,266,9,Stuehus,287,1880,
+Humlevænget 59 7570 Vemb,59,515000.0,13-05-2003,Alm.,6518,3,Rækkehus,79,1979,
+Hyttevej 59 7570 Vemb,59,30000.0,11-04-2003,Alm.,517,4,Sommerhus,58,2006,
+Hyldevej 18 7570 Vemb,18,33666.0,26-03-2003,Alm.,233,5,Villa,144,2003,
+Hyldevej 9 7570 Vemb,9,26281.0,03-02-2003,Alm.,162,5,Villa,162,2003,
+Neesvej 27 7570 Vemb,27,110000.0,29-01-2003,Auktion,1067,5,Villa,103,1934,
+Harpøtvej 16 7570 Vemb,16,100000.0,25-01-2003,Fam.,1538,3,Sommerhus,65,1979,
+Søndergade 32 7570 Vemb,32,675000.0,20-01-2003,Alm.,6026,3,Villa,112,1945,
+Skolevej 8 7570 Vemb,8,970000.0,06-01-2003,Alm.,6298,4,Villa,154,1989,
+Søndergade 16 7570 Vemb,16,650000.0,17-12-2002,Alm.,0,8,Villa,163,1904,
+Kløvervænget 11 7570 Vemb,11,970000.0,17-12-2002,Alm.,6062,4,Villa,160,1973,
+Hyttevej 63 7570 Vemb,63,89250.0,09-12-2002,Fam.,0,4,Sommerhus,66,1976,
+Chr. Schmidtsvej 23A 7570 Vemb,0,945000.0,16-11-2002,Alm.,0,6,Villa,226,1955,
+Søndergade 38 7570 Vemb,38,525000.0,04-11-2002,Fam.,4487,5,Villa,117,1966,
+Harpøtvej 28 7570 Vemb,28,40000.0,02-11-2002,Alm.,500,4,Sommerhus,80,2004,
+Burvej 3 7570 Vemb,3,540436.0,31-10-2002,Fam.,3860,4,Villa,140,1935,
+Skolegade 14 7570 Vemb,14,509257.0,26-09-2002,Alm.,3744,6,Villa,136,1963,
+Gørdingvej 4 7570 Vemb,4,38700.0,18-09-2002,Fam.,263,5,Stuehus,147,1974,
+Møborgåvej 4 7570 Vemb,4,1997500.0,15-09-2002,Fam.,13968,5,Stuehus,143,2004,
+Hyldevej 3 7570 Vemb,3,29865.0,02-09-2002,Alm.,244,4,Villa,122,2003,
+Bigårdsvej 8 7570 Vemb,8,635000.0,01-09-2002,Alm.,4960,4,Villa,128,1977,
+Nøragervej 50 7570 Vemb,50,1000000.0,31-08-2002,Alm.,7352,6,Stuehus,136,1922,
+Humlevænget 16 7570 Vemb,16,625000.0,09-08-2002,Alm.,6188,4,Villa,101,1979,
+Rørsgårdsvej 7 7570 Vemb,7,465000.0,01-08-2002,Alm.,3907,4,Villa,119,1965,
+Bigårdsvej 17 7570 Vemb,17,369262.0,01-07-2002,Fam.,2715,4,Villa,136,1976,
+Hvolbyvej 5 7570 Vemb,5,1815000.0,01-07-2002,Alm.,8601,7,Stuehus,211,1912,
+Humlevænget 37 7570 Vemb,37,675000.0,01-06-2002,Alm.,5400,4,Villa,125,1978,
+Vestergade 13 7570 Vemb,13,462808.0,30-05-2002,Alm.,3236,6,Villa,143,1904,
+Sdr Hedegårdsvej 9 7570 Vemb,9,712500.0,28-05-2002,Alm.,4567,5,Stuehus,156,1917,
+Damhusvej 13 7570 Vemb,13,360000.0,14-05-2002,Alm.,2975,5,Villa,121,1917,
+Skalstrupvej 28 7570 Vemb,28,415547.0,06-05-2002,Alm.,2388,7,Stuehus,174,1948,
+Kikkenborgvej 45 7570 Vemb,45,89698.0,06-05-2002,Alm.,527,6,Stuehus,170,1913,
+Fjordvejen 38 7570 Vemb,38,406900.0,06-05-2002,Alm.,0,7,Villa,180,1928,
+Stenumvej 5 7570 Vemb,5,2900000.0,12-04-2002,Alm.,10740,6,Stuehus,270,1936,
+Burvej 37 7570 Vemb,37,789000.0,06-04-2002,Alm.,5331,4,Stuehus,148,1890,
+Soltoften 2 7570 Vemb,2,465000.0,02-04-2002,Alm.,3940,3,Villa,118,1984,
+Bygaden 30 7570 Vemb,30,500000.0,06-03-2002,Alm.,3937,5,Villa,127,1957,
+Enghavevej 13 7570 Vemb,13,1075000.0,26-02-2002,Alm.,6475,6,Villa,166,1967,
+Bygaden 18 7570 Vemb,18,250000.0,25-02-2002,Alm.,2873,3,Villa,87,1900,
+Burvej 35 7570 Vemb,35,42912.0,28-01-2002,Alm.,0,6,Stuehus,156,1930,
+Nørgårdsvej 20 7570 Vemb,20,225000.0,16-01-2002,Alm.,2250,4,Stuehus,100,1910,
+Hyldevej 5 7570 Vemb,5,25000.0,09-01-2002,Alm.,158,4,Villa,158,2002,
+Skalstrupvej 14 7570 Vemb,14,498664.0,25-12-2001,Fam.,0,5,Stuehus,123,1939,
+Sandbækvej 59 7570 Vemb,59,354870.0,19-12-2001,Alm.,2534,6,Stuehus,140,1875,
+Øster Dalgårdvej 2 7570 Vemb,2,875000.0,17-12-2001,Alm.,3995,8,Villa,219,1955,
+Donskærvej 19 7570 Vemb,19,782000.0,24-11-2001,Fam.,6062,5,Stuehus,129,1924,
+Lindtorpvej 18 7570 Vemb,18,331209.0,16-11-2001,Alm.,2253,5,Villa,147,2010,
+Hasselvej 11 7570 Vemb,11,25000.0,03-11-2001,Alm.,203,4,Villa,123,2002,
+Færgevej 5 7570 Vemb,5,55000.0,30-09-2001,Alm.,0,1,Fritid,27,1985,
+Nørgårdsvej 1A 7570 Vemb,0,870000.0,28-09-2001,Alm.,7190,4,Villa,121,1950,
+Harpøtvej 80 7570 Vemb,80,390000.0,15-09-2001,Alm.,5820,4,Sommerhus,67,1987,
+Tangsgårdsvej 4 7570 Vemb,4,600000.0,10-09-2001,Alm.,6185,4,Villa,97,1954,
+Hyttevej 101 7570 Vemb,101,34600.0,19-08-2001,Fam.,443,4,Sommerhus,78,2003,
+Nøragervej 23 7570 Vemb,23,258000.0,09-08-2001,Alm.,0,4,Villa,145,1935,
+Bigårdsvej 16 7570 Vemb,16,895000.0,07-08-2001,Alm.,6172,5,Villa,145,1975,
+Burvej 10 7570 Vemb,10,310000.0,03-08-2001,Alm.,3100,5,Sommerhus,100,2003,
+Koldsøvej 12 7570 Vemb,12,275000.0,02-08-2001,Alm.,1527,6,Stuehus,180,2012,
+Hyttevej 57 7570 Vemb,57,295000.0,25-07-2001,Alm.,4916,4,Sommerhus,60,1980,
+Burvej 56 7570 Vemb,56,60000.0,06-07-2001,Alm.,352,6,Stuehus,170,1922,
+Skalstrupvej 16 7570 Vemb,16,825000.0,03-07-2001,Alm.,7857,6,Stuehus,105,1827,
+Damhusvej 41A 7570 Vemb,0,100000.0,20-06-2001,Alm.,374,5,Villa,267,1890,
+Hyttevej 67 7570 Vemb,67,315773.0,15-06-2001,Alm.,6315,4,Sommerhus,50,1980,
+Soltoften 15 7570 Vemb,15,50000.0,09-06-2001,Alm.,347,5,Villa,144,2002,
+Burvej 31 7570 Vemb,31,1225399.0,09-06-2001,Alm.,8752,4,Stuehus,140,1908,
+Sandbækvej 15 7570 Vemb,15,150000.0,21-05-2001,Alm.,1595,3,Villa,94,1935,
+Nørgårdsvej 7 7570 Vemb,7,747080.0,01-05-2001,Fam.,5047,6,Villa,148,1953,
+Burvej 9 7570 Vemb,9,708597.0,01-05-2001,Fam.,6326,5,Villa,112,1929,
+Skolevej 7 7570 Vemb,7,551000.0,12-03-2001,Alm.,5622,3,Villa,98,1968,
+Hasselvej 10 7570 Vemb,10,25000.0,19-02-2001,Alm.,208,3,Villa,120,2004,
+Hyldevej 7 7570 Vemb,7,25000.0,05-02-2001,Alm.,182,5,Villa,137,2001,
+Skolegade 39 7570 Vemb,39,524527.0,23-01-2001,Alm.,4995,4,Villa,105,1960,
+Skalstrupvej 50 7570 Vemb,50,625000.0,18-01-2001,Fam.,7102,3,Stuehus,88,1908,
+Brunsborgvej 2 7570 Vemb,2,1100000.0,14-12-2000,Alm.,7333,5,Stuehus,150,1972,
+Damhusvej 7 7570 Vemb,7,290000.0,11-12-2000,Alm.,2457,3,Villa,118,1922,
+Råsted Kirkevej 8 7570 Vemb,8,250000.0,01-12-2000,Alm.,1219,6,Stuehus,205,2004,
+Neesvej 60 7570 Vemb,60,221000.0,30-11-2000,Fam.,1841,4,Villa,120,1952,
+Humlevænget 23 7570 Vemb,23,660000.0,20-11-2000,Alm.,6000,4,Villa,110,1985,
+Bigårdsvej 19A 7570 Vemb,0,700000.0,16-11-2000,Alm.,5737,4,Villa,122,1978,
+Bigårdsvej 12 7570 Vemb,12,750000.0,23-10-2000,Fam.,5067,5,Villa,148,1975,
+Sandbækvej 21 7570 Vemb,21,185000.0,19-10-2000,Auktion,1850,4,Villa,100,1909,
+Nøragervej 20 7570 Vemb,20,3565000.0,29-09-2000,Fam.,13980,8,Stuehus,255,1908,
+Bækbyvej 11 7570 Vemb,11,640000.0,27-09-2000,Alm.,4444,6,Stuehus,144,1880,
+Burvej 20 7570 Vemb,20,1170000.0,14-09-2000,Alm.,6223,10,Stuehus,188,1900,
+Skalstrupvej 120 7570 Vemb,120,136000.0,13-09-2000,Fam.,1283,4,Villa,106,1860,
+Nørgårdsvej 4 7570 Vemb,4,611733.0,18-08-2000,Alm.,3871,6,Villa,158,1961,
+Lyngholmvej 5 7570 Vemb,5,2150000.0,09-08-2000,Alm.,12721,5,Stuehus,169,1954,
+Skolevej 31A 7570 Vemb,0,405000.0,08-08-2000,Alm.,5625,3,Rækkehus,72,1978,
+Nørregade 47 7570 Vemb,47,690000.0,08-08-2000,Alm.,4600,5,Stuehus,150,1929,
+Blomstervænget 7 7570 Vemb,7,625000.0,14-07-2000,Alm.,0,4,Rækkehus,99,1984,
+Søndergade 30 7570 Vemb,30,495000.0,17-06-2000,Alm.,6187,3,Villa,80,1953,
+Bygaden 16 7570 Vemb,16,250000.0,14-06-2000,Alm.,0,6,Villa,228,1897,
+Skolevej 15 7570 Vemb,15,590000.0,22-05-2000,Alm.,4503,4,Villa,131,1971,
+Skolegade 49 7570 Vemb,49,1085000.0,17-04-2000,Alm.,7482,5,Villa,145,1963,
+Råsted Kirkevej 17 7570 Vemb,17,695416.0,10-03-2000,Alm.,8915,3,Villa,78,1961,
+Neesvej 33 7570 Vemb,33,231249.0,28-02-2000,Alm.,2010,4,Villa,115,1908,
+Gørdingvej 11 7570 Vemb,11,130800.0,27-02-2000,Alm.,514,9,Stuehus,254,1924,
+Industrivej 30B 7570 Vemb,0,1430000.0,22-02-2000,Auktion,8125,5,Villa,176,1977,
+Hyttevej 27 7570 Vemb,27,345000.0,02-01-2000,Alm.,4928,4,Sommerhus,70,1979,
+Nørrealle 11 7570 Vemb,11,430000.0,30-11-1999,Alm.,2828,6,Villa,152,1959,
+Humlevænget 27 7570 Vemb,27,973051.0,26-11-1999,Alm.,6852,6,Villa,142,1995,
+Harpøtvej 44 7570 Vemb,44,312500.0,25-11-1999,Alm.,5040,4,Sommerhus,62,1984,
+Damhusvej 46 7570 Vemb,46,306000.0,21-11-1999,Fam.,0,7,Villa,223,1927,
+Skalstrupvej 39 7570 Vemb,39,800000.0,10-11-1999,Alm.,6015,4,Stuehus,133,1898,
+Pøtparken 24 7570 Vemb,24,65000.0,29-10-1999,Alm.,555,3,Villa,117,2002,
+Engholmvej 2 7570 Vemb,2,880215.0,04-10-1999,Alm.,7654,5,Stuehus,115,1956,
+Skolevej 12 7570 Vemb,12,1170000.0,10-08-1999,Alm.,5043,6,Villa,232,1975,
+Skalstrupvej 100 7570 Vemb,100,470000.0,23-07-1999,Alm.,4272,4,Villa,110,1900,
+Fælledvej 4 7570 Vemb,4,330000.0,27-06-1999,Alm.,0,4,Stuehus,170,1904,
+Skolevej 21 7570 Vemb,21,671000.0,18-06-1999,Alm.,4473,4,Villa,150,1973,
+Nørrealle 17 7570 Vemb,17,127500.0,04-06-1999,Fam.,0,6,Villa,157,1941,
+Fjordvejen 27 7570 Vemb,27,525000.0,02-06-1999,Alm.,3595,5,Villa,146,1939,
+Sandbækvej 55 7570 Vemb,55,360000.0,28-05-1999,Alm.,2384,5,Villa,151,1926,
+Skalstrupvej 98 7570 Vemb,98,210000.0,25-05-1999,Alm.,2727,3,Villa,77,1900,
+Sandbækvej 29 7570 Vemb,29,225000.0,20-05-1999,Alm.,1744,5,Villa,129,1932,
+Stensigvej 10 7570 Vemb,10,435000.0,19-05-1999,Fam.,2485,5,Villa,175,1930,
+Hyttevej 109 7570 Vemb,109,50000.0,10-05-1999,Alm.,1562,1,Fritid,32,2013,
+Sandbækvej 44 7570 Vemb,44,115000.0,04-05-1999,Alm.,435,7,Stuehus,264,2003,
+Sdr Hedegårdsvej 3 7570 Vemb,3,385000.0,26-04-1999,Alm.,4010,4,Villa,96,1964,
+Humlevænget 57 7570 Vemb,57,407612.0,12-04-1999,Alm.,5159,3,Rækkehus,79,1979,
+Bækbyvej 13 7570 Vemb,13,117500.0,09-04-1999,Alm.,0,6,Villa,132,1915,
+Råsted Kirkevej 24B 7570 Vemb,0,200000.0,29-03-1999,Alm.,1562,5,Villa,128,2000,
+Ballesigvej 21 7570 Vemb,21,133000.0,02-03-1999,Alm.,1231,3,Villa,108,1920,
+Nygade 14 7570 Vemb,14,375000.0,29-01-1999,Alm.,3289,4,Villa,114,1910,
+Ørvigvej 6 7570 Vemb,6,2008607.0,29-12-1998,Fam.,13214,5,Stuehus,152,1911,
+Stensigvej 18 7570 Vemb,18,350000.0,15-12-1998,Fam.,1977,9,Villa,177,1934,
+Nørrealle 14 7570 Vemb,14,263500.0,19-11-1998,Fam.,0,4,Villa,106,1954,
+Præstegårdsvej 18 7570 Vemb,18,405000.0,06-11-1998,Alm.,2718,10,Villa,149,1960,
+Stensigvej 4 7570 Vemb,4,396000.0,23-10-1998,Fam.,2712,5,Stuehus,146,1877,
+Humlevænget 50 7570 Vemb,50,720000.0,25-09-1998,Alm.,5806,4,Villa,124,1976,
+Humlevænget 55 7570 Vemb,55,319000.0,14-09-1998,Alm.,4037,3,Rækkehus,79,1979,
+Fjordvejen 5 7570 Vemb,5,870000.0,10-09-1998,Alm.,3346,8,Villa,260,1920,
+Burvej 13 7570 Vemb,13,585000.0,09-09-1998,Alm.,5318,4,Villa,110,1956,
+Humlevænget 34 7570 Vemb,34,650000.0,28-08-1998,Alm.,5416,4,Villa,120,1979,
+Æblehaven 16 7570 Vemb,16,60000.0,05-08-1998,Andet,304,6,Villa,197,1998,
+Industrivej 18 7570 Vemb,18,375000.0,02-07-1998,Alm.,4310,3,Rækkehus,87,1978,
+Ulfsundvej 32 7570 Vemb,32,260000.0,28-06-1998,Fam.,2708,4,Villa,96,1970,
+Nørgårdsvej 8 7570 Vemb,8,2200000.0,28-05-1998,Fam.,9243,6,Stuehus,238,2006,
+Vestervangen 1B 7570 Vemb,0,290000.0,23-04-1998,Alm.,0,4,Rækkehus,110,1966,
+Grønne Vej 7 7570 Vemb,7,395000.0,23-04-1998,Alm.,2283,5,Detailhandel,173,1969,
+Enghavevej 2A 7570 Vemb,0,760000.0,06-04-1998,Alm.,4967,4,Villa,153,1972,
+Humlevænget 62 7570 Vemb,62,425000.0,03-04-1998,Alm.,5379,3,Rækkehus,79,1979,
+Dinesensvej 13 7570 Vemb,13,900000.0,24-03-1998,Alm.,5625,7,Villa,160,1970,
+Vestergade 5 7570 Vemb,5,554000.0,20-02-1998,Alm.,2367,8,Villa,234,1936,
+Blomstervænget 4 7570 Vemb,4,525000.0,21-01-1998,Alm.,5303,4,Rækkehus,99,1984,
+Nørregade 51 7570 Vemb,51,685000.0,08-01-1998,Fam.,4724,6,Villa,145,1952,
+Harpøtvej 12 7570 Vemb,12,270000.0,30-12-1997,Alm.,3552,4,Sommerhus,76,1986,
+Hyttevej 81 7570 Vemb,81,210000.0,23-12-1997,Alm.,3442,3,Sommerhus,61,1977,
+Ørvigvej 1 7570 Vemb,1,482298.0,17-12-1997,Alm.,3653,5,Villa,132,1924,
+Chr. Schmidtsvej 3 7570 Vemb,3,350000.0,12-12-1997,Alm.,2160,4,Villa,162,1915,
+Nørtoftvej 22 7570 Vemb,22,624783.0,04-12-1997,Alm.,2560,6,Villa,244,1956,
+Vestergade 7 7570 Vemb,7,520000.0,28-11-1997,Alm.,3113,5,Villa,167,1910,
+Fjordvejen 19 7570 Vemb,19,425000.0,26-11-1997,Alm.,0,4,Villa,140,1917,
+Neesvej 51 7570 Vemb,51,210000.0,15-10-1997,Alm.,1615,3,Villa,130,1950,
+Enghavevej 6 7570 Vemb,6,425000.0,15-10-1997,Alm.,0,5,Villa,143,1966,
+Neesvej 55 7570 Vemb,55,350000.0,07-10-1997,Alm.,3125,4,Villa,112,1908,
+Fælledvej 3 7570 Vemb,3,250000.0,19-09-1997,Alm.,2500,4,Villa,100,1850,
+Vestergade 27 7570 Vemb,27,475000.0,12-09-1997,Alm.,0,4,Villa,114,1967,
+Chr. Schmidtsvej 18 7570 Vemb,18,809000.0,29-08-1997,Alm.,0,7,Villa,207,1972,
+Vestergade 9 7570 Vemb,9,333215.0,05-07-1997,Alm.,2031,4,Villa,164,1877,
+Hyttevej 7 7570 Vemb,7,270000.0,05-06-1997,Alm.,3214,4,Sommerhus,84,1987,
+Humlevænget 22 7570 Vemb,22,550000.0,16-05-1997,Alm.,4365,4,Villa,126,1978,
+Nørgårdsvej 1B 7570 Vemb,0,95000.0,14-05-1997,Alm.,772,4,Villa,123,1998,
+Rosenvænget 1 7570 Vemb,1,575000.0,02-05-1997,Alm.,4356,5,Villa,132,1973,
+Damhusvej 8 7570 Vemb,8,3313691.0,30-04-1997,Alm.,27614,5,Stuehus,120,1929,
+Hasselvej 14 7570 Vemb,14,463523.0,28-04-1997,Alm.,3218,7,Villa,144,1996,
+Fjordvejen 1 7570 Vemb,1,41767.0,08-04-1997,Alm.,210,5,Villa,198,1803,
+Skolegade 21 7570 Vemb,21,330000.0,06-04-1997,Alm.,2750,5,Villa,120,1934,
+Idomvej 6 7570 Vemb,6,1355000.0,04-04-1997,Alm.,4593,7,Stuehus,295,2001,
+Bygaden 2 7570 Vemb,2,349668.0,21-03-1997,Alm.,3330,5,Villa,105,1923,
+Harpøtvej 2 7570 Vemb,2,250000.0,19-03-1997,Alm.,3676,4,Sommerhus,68,1987,
+Chr. Schmidtsvej 23B 7570 Vemb,0,70000.0,13-03-1997,Alm.,448,4,Villa,156,1997,
+Hestbækvej 17 7570 Vemb,17,4075000.0,07-03-1997,Fam.,0,5,Stuehus,138,1959,
+Råsted Kirkevej 22 7570 Vemb,22,150000.0,12-02-1997,Andet,2205,2,Villa,68,1962,
+Skalstrupvej 58 7570 Vemb,58,273288.0,24-01-1997,Alm.,2258,3,Villa,121,1962,
+Råsted Kirkevej 10 7570 Vemb,10,450000.0,23-01-1997,Alm.,0,6,Villa,153,1918,
+Burvej 18 7570 Vemb,18,600000.0,20-01-1997,Fam.,3973,5,Stuehus,151,1900,
+Neesvej 39A 7570 Vemb,0,38000.0,16-12-1996,Alm.,883,2,Villa,43,1906,
+Søndergade 4 7570 Vemb,4,150000.0,29-11-1996,Alm.,0,7,Villa,101,1887,
+Skalstrupvej 11 7570 Vemb,11,468114.0,07-11-1996,Alm.,2425,7,Villa,193,1907,
+Nørrealle 18 7570 Vemb,18,280000.0,22-10-1996,Fam.,0,6,Villa,166,1958,
+Harpøtvej 86 7570 Vemb,86,235000.0,19-09-1996,Alm.,2937,5,Sommerhus,80,1975,
+Skalstrupvej 18 7570 Vemb,18,616000.0,05-09-1996,Auktion,4162,4,Stuehus,148,2003,
+Lillelundvej 7 7570 Vemb,7,57500.0,16-08-1996,Alm.,267,7,Stuehus,215,1960,
+Lindtorpvej 16 7570 Vemb,16,477000.0,16-08-1996,Alm.,2373,5,Villa,201,1877,
+Humlevænget 60 7570 Vemb,60,340000.0,12-08-1996,Alm.,4303,3,Rækkehus,79,1979,
+Burvej 23 7570 Vemb,23,1062500.0,07-08-1996,Fam.,5837,9,Stuehus,182,1928,
+Stensigvej 9 7570 Vemb,9,208000.0,02-08-1996,Alm.,0,3,Villa,155,1852,
+Fælledvej 6 7570 Vemb,6,30000.0,02-08-1996,Alm.,600,2,Villa,50,1900,
+Møborgåvej 5 7570 Vemb,5,6000.0,18-07-1996,Alm.,38,5,Stuehus,155,2002,
+Møborgåvej 6 7570 Vemb,6,6000.0,18-07-1996,Alm.,44,3,Stuehus,136,1955,
+Hestbækvej 4 7570 Vemb,4,6000.0,14-07-1996,Alm.,24,9,Stuehus,250,1970,
+Skalstrupvej 34 7570 Vemb,34,6000.0,11-07-1996,Alm.,44,7,Stuehus,136,1912,
+Nørregade 40 7570 Vemb,40,200000.0,05-07-1996,Alm.,2985,2,Villa,67,1937,
+Humlevænget 58 7570 Vemb,58,335000.0,27-06-1996,Alm.,4240,3,Rækkehus,79,1979,
+Hasselvej 13 7570 Vemb,13,53395.0,06-06-1996,Alm.,355,4,Villa,150,1997,
+Skolegade 45 7570 Vemb,45,331000.0,20-05-1996,Alm.,3761,4,Villa,88,1961,
+Hedevej 16 7570 Vemb,16,375000.0,30-04-1996,Alm.,2640,3,Villa,142,1955,
+Nørregade 42 7570 Vemb,42,600000.0,26-04-1996,Alm.,3680,5,Villa,163,1955,
+Skolegade 47 7570 Vemb,47,400000.0,25-04-1996,Alm.,4347,3,Villa,92,1961,
+Humlevænget 49 7570 Vemb,49,565000.0,24-04-1996,Alm.,4448,3,Villa,127,1977,
+Burvej 71 7570 Vemb,71,150000.0,11-04-1996,Alm.,955,4,Villa,157,1910,
+Hasselvej 12 7570 Vemb,12,101821.0,28-03-1996,Alm.,509,5,Villa,200,1996,
+Chr. Schmidtsvej 14 7570 Vemb,14,610000.0,26-02-1996,Alm.,3262,6,Villa,187,1952,
+Skalstrupvej 38 7570 Vemb,38,194666.0,31-01-1996,Alm.,0,6,Villa,204,1927,
+Stensigvej 14 7570 Vemb,14,385000.0,22-12-1995,Alm.,0,5,Villa,178,1906,
+Vestervangen 5 7570 Vemb,5,930000.0,18-12-1995,Fam.,4151,7,Villa,224,1975,
+Industrivej 16 7570 Vemb,16,315000.0,03-11-1995,Alm.,3620,4,Rækkehus,87,1978,
+Skadkjærvej 1 7570 Vemb,1,1500000.0,27-10-1995,Fam.,12931,9,Stuehus,116,1916,
+Rørsgårdsvej 19 7570 Vemb,19,650000.0,25-10-1995,Alm.,4088,5,Villa,159,1962,
+Nørrealle 2 7570 Vemb,2,100000.0,21-09-1995,Alm.,740,4,Villa,135,1950,
+Knudsigvej 2 7570 Vemb,2,2500000.0,14-07-1995,Fam.,16666,6,Stuehus,150,1810,
+Neesvej 113 7570 Vemb,113,1600000.0,06-07-1995,Alm.,7881,7,Villa,203,1860,
+Skolegade 10 7570 Vemb,10,200000.0,16-06-1995,Alm.,3076,3,Villa,65,1936,
+Nørtoftvej 17 7570 Vemb,17,4500000.0,11-04-1995,Alm.,23560,7,Stuehus,191,1955,
+Nøragervej 11 7570 Vemb,11,520000.0,04-04-1995,Fam.,3151,7,Villa,165,1982,
+Skalstrupvej 109 7570 Vemb,109,240000.0,14-03-1995,Alm.,1387,7,Villa,173,1925,
+Rosenvænget 6 7570 Vemb,6,525000.0,09-03-1995,Alm.,3571,4,Villa,147,1970,
+Råsted Kirkevej 15 7570 Vemb,15,590000.0,14-02-1995,Alm.,4041,4,Villa,146,1959,
+Vestergade 32 7570 Vemb,32,330000.0,10-02-1995,Alm.,2750,6,Villa,120,1965,
+Hasselvej 2 7570 Vemb,2,289000.0,06-02-1995,Fam.,2006,4,Villa,144,1995,
+Vestergade 34 7570 Vemb,34,445299.0,27-01-1995,Alm.,4947,6,Villa,90,1957,
+Humlevænget 38 7570 Vemb,38,507493.0,18-11-1994,Alm.,3677,5,Villa,138,1978,
+Skalstrupvej 20 7570 Vemb,20,475000.0,13-09-1994,Alm.,0,7,Villa,250,1912,
+Gørdingvej 2 7570 Vemb,2,285000.0,17-07-1994,Alm.,0,4,Villa,175,1880,
+Gedmosevej 8 7570 Vemb,8,2260000.0,08-07-1994,Fam.,12988,8,Stuehus,174,1914,
+Bygaden 24 7570 Vemb,24,410000.0,08-07-1994,Fam.,2971,4,Villa,138,1976,
+Skalstrupvej 108 7570 Vemb,108,140000.0,02-05-1994,Alm.,1971,2,Villa,71,1930,
+Skolevej 31C 7570 Vemb,0,361000.0,28-04-1994,Alm.,5013,3,Rækkehus,72,1978,
+Skolevej 34 7570 Vemb,34,500000.0,26-04-1994,Alm.,3472,5,Villa,144,1978,
+Harpøtvej 84 7570 Vemb,84,250000.0,14-04-1994,Alm.,4166,4,Sommerhus,60,1980,
+Æblehaven 11 7570 Vemb,11,425000.0,08-04-1994,Alm.,4381,4,Villa,97,1972,
+Råsted Kirkevej 7 7570 Vemb,7,750000.0,11-03-1994,Fam.,0,4,Stuehus,128,1914,
+Humlevænget 15 7570 Vemb,15,710000.0,04-03-1994,Alm.,5071,5,Villa,140,1988,
+Neesvej 32 7570 Vemb,32,155000.0,11-02-1994,Alm.,1240,4,Villa,125,1900,
+Damhusvej 6 7570 Vemb,6,146500.0,14-01-1994,Alm.,915,6,Villa,160,1950,
+Neesvej 129 7570 Vemb,129,700000.0,08-12-1993,Alm.,3825,5,Stuehus,183,1870,
+Blomstervænget 3 7570 Vemb,3,460000.0,26-11-1993,Alm.,4646,4,Rækkehus,99,1984,
+Stenumvej 1 7570 Vemb,1,1850000.0,15-09-1993,Alm.,7226,7,Stuehus,256,1923,
+Skolevej 20 7570 Vemb,20,500000.0,03-09-1993,Alm.,0,6,Villa,164,1979,
+Burvej 34 7570 Vemb,34,200000.0,31-08-1993,Alm.,0,3,Villa,125,1907,
+Kjærsvej 14 7570 Vemb,14,280000.0,11-05-1993,Alm.,2978,4,Villa,94,1956,
+Nørrealle 8 7570 Vemb,8,205000.0,16-02-1993,Alm.,1971,5,Villa,104,1932,
+Nørregade 44 7570 Vemb,44,225000.0,05-02-1993,Alm.,978,6,Villa,230,1925,
+Kjærsvej 10 7570 Vemb,10,290000.0,30-09-1992,Alm.,2071,2,Villa,140,1910,
+Lillelundvej 12 7570 Vemb,12,600000.0,03-07-1992,Fam.,3191,6,Villa,188,1916,
+Skalstrupvej 77 7570 Vemb,77,138053.0,01-07-1992,Alm.,654,8,Stuehus,211,1940,
+Skalstrupvej 80 7570 Vemb,80,32251.0,01-07-1992,Alm.,157,7,Stuehus,205,1930,
+Skalstrupvej 63 7570 Vemb,63,292504.0,01-07-1992,Alm.,1300,7,Stuehus,225,1840,
+Burvej 17 7570 Vemb,17,310000.0,29-06-1992,Fam.,2719,4,Villa,114,1956,
+Holmgårdvej 191 7570 Vemb,191,179622.0,18-05-1992,Alm.,688,7,Stuehus,261,1910,
+Enghavevej 2 7570 Vemb,2,280000.0,27-04-1992,Alm.,0,5,Villa,150,1965,
+Bundgårdvej 6 7570 Vemb,6,256000.0,28-03-1992,Alm.,948,7,Stuehus,270,1989,
+Hyttevej 105 7570 Vemb,105,47000.0,27-03-1992,Alm.,701,4,Sommerhus,67,1993,
+Bigårdsvej 6A 7570 Vemb,0,154997.0,22-03-1992,Andet,1359,3,Villa,114,1976,
+Grønne Vej 3 7570 Vemb,3,390000.0,02-03-1992,Alm.,3305,5,Villa,118,1954,
+Skolevej 9 7570 Vemb,9,480000.0,17-01-1992,Fam.,3221,4,Villa,149,1969,

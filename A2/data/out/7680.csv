@@ -1,0 +1,610 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Mågevej 10 7680 Thyborøn,10,450000.0,18-04-2017,Fam.,7031,3,Villa,64,1943,
+Glentevej 21 7680 Thyborøn,21,350000.0,12-04-2017,Alm.,3301,4,Villa,106,1964,
+Drejøvej 65 7680 Thyborøn,65,2020000.0,06-04-2017,Alm.,10049,5,Villa,201,2007,-4 %
+Svanegade 6 7680 Thyborøn,6,530000.0,23-03-2017,Alm.,4568,3,Villa,116,1939,-18 %
+Fasanvej 18 7680 Thyborøn,18,687500.0,09-03-2017,Alm.,4910,4,Villa,140,1965,
+Jernbanegade 17 7680 Thyborøn,17,1020000.0,28-02-2017,Fam.,6580,4,Villa,155,1939,
+Sprogøvej 125 7680 Thyborøn,125,495000.0,16-02-2017,Alm.,5380,3,Rækkehus,92,1980,
+Morsøvej 7 7680 Thyborøn,7,695000.0,10-02-2017,Alm.,6043,4,Villa,115,1974,0 %
+Anholtvej 17A 7680 Thyborøn,0,900000.0,27-01-2017,Alm.,5113,6,Villa,176,1974,-10 %
+Ternevej 29 7680 Thyborøn,29,425000.0,12-01-2017,Alm.,4521,3,Villa,94,1960,
+Rypevej 9 7680 Thyborøn,9,375000.0,19-12-2016,Alm.,2717,4,Villa,138,1971,-5 %
+Sprogøvej 127 7680 Thyborøn,127,650000.0,13-12-2016,Alm.,7065,3,Rækkehus,92,1980,
+Fælledvej 2 7680 Thyborøn,2,315000.0,25-10-2016,Alm.,3500,4,Villa,90,1936,-20 %
+Ternevej 27 7680 Thyborøn,27,295000.0,18-10-2016,Alm.,2892,4,Villa,102,1959,0 %
+Sprogøvej 25B 7680 Thyborøn,0,400000.0,09-10-2016,Alm.,3389,4,Rækkehus,118,1982,-11 %
+Vesterhavsgade 17 7680 Thyborøn,17,875000.0,12-09-2016,Alm.,9510,3,Villa,92,1958,
+Glentevej 16 7680 Thyborøn,16,1345000.0,09-09-2016,Alm.,8053,6,Villa,167,1985,
+Harboørevej 15 7680 Thyborøn,15,750000.0,02-09-2016,Alm.,4870,3,Villa,154,1960,
+Drosselvej 8 7680 Thyborøn,8,400000.0,15-08-2016,Alm.,2666,5,Villa,150,1967,-30 %
+Fjordgade 6 7680 Thyborøn,6,275000.0,09-08-2016,Alm.,1279,6,Villa,215,1947,-30 %
+Anholtvej 3 7680 Thyborøn,3,1150000.0,08-08-2016,Alm.,6353,5,Villa,181,1972,-4 %
+Ternevej 8 7680 Thyborøn,8,500000.0,26-07-2016,Alm.,3521,3,Villa,142,1949,
+Mågevej 17 7680 Thyborøn,17,780000.0,13-07-2016,Alm.,6240,5,Villa,125,1952,
+Bredgade 34 7680 Thyborøn,34,375000.0,07-07-2016,Alm.,4411,4,Villa,85,1958,-12 %
+Sprogøvej 66A 7680 Thyborøn,0,535134.0,06-07-2016,Fam.,2956,6,Villa,181,1981,-53 %
+Ternevej 15 7680 Thyborøn,15,292500.0,03-06-2016,Andet,1937,4,Villa,151,1960,
+Anholtvej 1A 7680 Thyborøn,0,825000.0,09-04-2016,Alm.,3699,7,Villa,223,1973,-13 %
+Sprogøvej 103A 7680 Thyborøn,0,425000.0,10-03-2016,Fam.,4250,3,Rækkehus,100,1981,
+Kirkevej 15B 7680 Thyborøn,0,416000.0,06-03-2016,Fam.,2791,3,Rækkehus,149,1987,
+Kirkevej 13 7680 Thyborøn,13,1004554.0,02-03-2016,Alm.,8371,5,Villa,120,1947,
+Sprogøvej 7 7680 Thyborøn,7,726475.0,26-02-2016,Alm.,4656,5,Villa,156,1980,
+Kirkegaardsvej 6 7680 Thyborøn,6,250000.0,16-02-2016,Alm.,2336,4,Villa,107,1957,
+Ternevej 7 7680 Thyborøn,7,620000.0,12-02-2016,Alm.,7948,2,Villa,78,1954,-4 %
+Drejøvej 73 7680 Thyborøn,73,210000.0,25-01-2016,Alm.,1147,6,Villa,183,2016,
+Thurøvej 21 7680 Thyborøn,21,750000.0,20-01-2016,Alm.,5474,4,Villa,137,1972,-6 %
+Drejøvej 77 7680 Thyborøn,77,210000.0,19-01-2016,Alm.,843,7,Villa,249,2016,
+Drejøvej 41 7680 Thyborøn,41,1250000.0,06-01-2016,Alm.,9398,4,Villa,133,1977,
+Morsøvej 14A 7680 Thyborøn,0,1740000.0,24-12-2015,Alm.,9157,5,Villa,190,1974,-7 %
+Vesterhavsgade 74 7680 Thyborøn,74,500000.0,16-12-2015,Alm.,6410,3,Sommerhus,78,1937,-7 %
+Anholtvej 1 7680 Thyborøn,1,976000.0,13-12-2015,Alm.,0,8,Villa,233,1973,
+Sprogøvej 8 7680 Thyborøn,8,610000.0,04-11-2015,Alm.,4919,4,Villa,124,1979,-5 %
+Vesterhavsgade 126 7680 Thyborøn,126,1195000.0,08-10-2015,Alm.,8020,5,Villa,149,1952,-8 %
+Vesterhavsgade 28 7680 Thyborøn,28,700000.0,01-10-2015,Alm.,4929,3,Villa,142,1929,
+Rømøvej 4 7680 Thyborøn,4,380000.0,25-09-2015,Alm.,2602,5,Villa,146,1958,-17 %
+"Bredgade 5, 1 7680 Thyborøn",1,1000000.0,14-09-2015,Alm.,8333,4,Anden beboelse,120,1928,-20 %
+Vesterhavsgade 111 7680 Thyborøn,111,355000.0,11-09-2015,Alm.,4863,3,Sommerhus,73,1911,
+Sneglevej 1 7680 Thyborøn,1,695000.0,26-08-2015,Alm.,5429,4,Villa,128,1943,0 %
+Sprogøvej 21A 7680 Thyborøn,0,375000.0,16-08-2015,Alm.,3177,4,Rækkehus,118,1982,
+Samsøvej 18 7680 Thyborøn,18,730000.0,13-08-2015,Alm.,4124,5,Villa,177,1973,-13 %
+Mågevej 4 7680 Thyborøn,4,125000.0,31-07-2015,Alm.,844,4,Villa,148,1936,
+Vesterhavsgade 18 7680 Thyborøn,18,1030000.0,30-07-2015,Alm.,5228,7,Villa,197,1917,-13 %
+Lærkevej 46 7680 Thyborøn,46,650000.0,24-07-2015,Alm.,4391,4,Villa,148,1965,-7 %
+Jegindøvej 11A 7680 Thyborøn,0,1020000.0,09-07-2015,Alm.,6891,4,Villa,148,1976,-12 %
+"Bredgade 29A, 1 7680 Thyborøn",1,1087342.0,25-06-2015,Auktion,15758,2,Lejlighed,69,1990,
+"Bredgade 29C, 1 7680 Thyborøn",1,1087342.0,25-06-2015,Auktion,20910,1,Lejlighed,52,1990,
+"Bredgade 29G, 1 7680 Thyborøn",1,1087342.0,25-06-2015,Auktion,14121,2,Lejlighed,77,1990,
+"Bredgade 29D, 1 7680 Thyborøn",1,1087342.0,25-06-2015,Auktion,11691,2,Lejlighed,93,1990,
+"Bredgade 29E, 1 7680 Thyborøn",1,1087342.0,25-06-2015,Auktion,11818,2,Lejlighed,92,1990,
+"Bredgade 29F, 1 7680 Thyborøn",1,1087342.0,25-06-2015,Auktion,13940,2,Lejlighed,78,1990,
+"Bredgade 29B, 1 7680 Thyborøn",1,1087342.0,25-06-2015,Auktion,20910,1,Lejlighed,52,1990,
+Samsøvej 1 7680 Thyborøn,1,350000.0,11-06-2015,Alm.,2892,4,Villa,121,1972,
+Mågevej 43 7680 Thyborøn,43,435500.0,08-06-2015,Alm.,3324,5,Villa,131,1960,10 %
+Limfjordsvej 7 7680 Thyborøn,7,1125000.0,03-06-2015,Alm.,8035,5,Villa,140,1985,
+Vesterhavsgade 49E 7680 Thyborøn,0,775000.0,03-06-2015,Alm.,12500,3,Rækkehus,62,1984,
+Vesterhavsgade 30 7680 Thyborøn,30,1150000.0,01-06-2015,Alm.,10000,6,Villa,115,1930,-4 %
+Holmevej 1 7680 Thyborøn,1,246500.0,27-05-2015,Fam.,2833,4,Villa,87,1900,
+Fanøvej 2 7680 Thyborøn,2,250000.0,21-05-2015,Alm.,3205,2,Villa,78,1955,-15 %
+Harboørevej 13 7680 Thyborøn,13,685000.0,19-05-2015,Fam.,7210,3,Villa,95,1960,
+Ternevej 5 7680 Thyborøn,5,475000.0,14-05-2015,Alm.,3492,5,Villa,136,1953,-24 %
+Thurøvej 7 7680 Thyborøn,7,850000.0,21-04-2015,Alm.,4404,6,Villa,193,1971,-2 %
+Vesterhavsgade 3 7680 Thyborøn,3,1100000.0,19-04-2015,Alm.,5238,7,Villa,210,1960,0 %
+Ternevej 31 7680 Thyborøn,31,650000.0,25-03-2015,Fam.,5371,4,Villa,121,1959,
+Glentevej 14 7680 Thyborøn,14,800000.0,12-03-2015,Alm.,6896,3,Villa,116,1985,-9 %
+Morsøvej 12A 7680 Thyborøn,0,575000.0,12-03-2015,Alm.,3026,4,Villa,190,1975,-3 %
+Drejøvej 25 7680 Thyborøn,25,1335000.0,11-03-2015,Fam.,6675,6,Villa,200,1977,
+Lærkevej 36 7680 Thyborøn,36,600000.0,10-03-2015,Fam.,5217,3,Villa,115,1965,-2 %
+Fasanvej 21 7680 Thyborøn,21,335000.0,20-02-2015,Alm.,3130,4,Villa,107,1966,-11 %
+Sprogøvej 153B 7680 Thyborøn,0,275000.0,28-01-2015,Alm.,2391,4,Rækkehus,115,1982,-20 %
+Vesterhavsgade 51 7680 Thyborøn,51,928816.0,10-01-2015,Fam.,4837,6,Villa,192,1965,
+Morsøvej 4 7680 Thyborøn,4,530000.0,12-12-2014,Alm.,4649,4,Villa,114,1974,-11 %
+Vesterhavsgade 157 7680 Thyborøn,157,425000.0,11-12-2014,Fam.,3102,4,Villa,137,1947,
+Furvej 12 7680 Thyborøn,12,475000.0,27-11-2014,Fam.,3392,4,Villa,140,1974,
+Ternevej 24 7680 Thyborøn,24,380000.0,24-10-2014,Alm.,3454,2,Villa,110,1962,
+Klitvej 6 7680 Thyborøn,6,400000.0,09-10-2014,Alm.,3418,3,Villa,117,1954,
+Harboørevej 20 7680 Thyborøn,20,1195000.0,06-10-2014,Fam.,6867,5,Villa,174,1965,
+Klitvej 13 7680 Thyborøn,13,475000.0,30-09-2014,Alm.,7916,2,Villa,60,1949,-20 %
+Anholtvej 21A 7680 Thyborøn,0,1800000.0,30-09-2014,Fam.,8530,7,Villa,211,1975,
+Harboørevej 21 7680 Thyborøn,21,485000.0,26-09-2014,Alm.,5271,4,Villa,92,1960,
+Johnny Madsens Vej 4 7680 Thyborøn,4,250000.0,06-09-2014,Alm.,3086,3,Villa,81,1920,
+Vestvej 11 7680 Thyborøn,11,400000.0,05-09-2014,Alm.,8000,2,Villa,50,1957,
+Glentevej 11 7680 Thyborøn,11,640000.0,25-08-2014,Alm.,5333,4,Villa,120,1959,-8 %
+Limfjordsvej 6 7680 Thyborøn,6,455000.0,15-08-2014,Alm.,3473,3,Villa,131,1932,-4 %
+Fasanvej 17 7680 Thyborøn,17,1280000.0,06-08-2014,Alm.,8767,5,Villa,146,1966,-1 %
+Skolevej 3 7680 Thyborøn,3,200000.0,28-06-2014,Alm.,3333,2,Anden beboelse,60,1965,
+Kirkevej 3 7680 Thyborøn,3,1800000.0,27-06-2014,Alm.,12857,4,Villa,140,1954,
+Venøvej 3 7680 Thyborøn,3,580000.0,15-06-2014,Alm.,2761,11,Villa,210,1976,0 %
+Fanøvej 5 7680 Thyborøn,5,330000.0,03-06-2014,Alm.,3666,3,Villa,90,1961,-16 %
+Morsøvej 6A 7680 Thyborøn,0,2050000.0,16-04-2014,Alm.,8333,6,Villa,246,1975,-2 %
+Sprogøvej 2A 7680 Thyborøn,0,2300000.0,14-04-2014,Fam.,10222,7,Villa,225,1978,
+Lærkevej 50 7680 Thyborøn,50,300000.0,06-03-2014,Auktion,2500,4,Villa,120,1967,-57 %
+"Havnegade 52, 1 7680 Thyborøn",1,1900000.0,30-01-2014,Fam.,10795,5,Anden beboelse,176,1959,-16 %
+Fasanvej 9 7680 Thyborøn,9,470000.0,16-01-2014,Alm.,4311,4,Villa,109,1965,-3 %
+Vesterhavsgade 115 7680 Thyborøn,115,640000.0,13-01-2014,Alm.,6530,4,Villa,98,1935,-8 %
+Drejøvej 35 7680 Thyborøn,35,1165000.0,10-12-2013,Alm.,7373,6,Villa,158,1977,0 %
+Ærøvej 3 7680 Thyborøn,3,290000.0,29-11-2013,Alm.,1035,6,Villa,280,2014,
+Jegindøvej 13 7680 Thyborøn,13,243750.0,04-10-2013,Alm.,1625,4,Villa,150,1975,-77 %
+Læsøvej 1 7680 Thyborøn,1,850000.0,30-08-2013,Alm.,5000,4,Villa,170,1971,0 %
+Anholtvej 7A 7680 Thyborøn,0,1100000.0,19-08-2013,Alm.,5500,7,Villa,200,1974,0 %
+Drejøvej 15 7680 Thyborøn,15,1750000.0,06-08-2013,Alm.,6889,7,Villa,254,1977,
+Vesterhavsgade 104 7680 Thyborøn,104,949635.0,26-07-2013,Fam.,4587,7,Villa,207,1927,
+Jagtvej 7 7680 Thyborøn,7,730000.0,26-07-2013,Alm.,4562,4,Villa,160,1938,
+Svanegade 10 7680 Thyborøn,10,1250000.0,18-07-2013,Alm.,6648,7,Villa,188,1938,-7 %
+Lærkevej 20 7680 Thyborøn,20,545000.0,30-04-2013,Alm.,5046,3,Villa,108,1964,
+Fanøvej 1 7680 Thyborøn,1,835000.0,26-03-2013,Alm.,6680,4,Sommerhus,125,1939,-3 %
+Venøvej 10A 7680 Thyborøn,0,580000.0,19-03-2013,Alm.,3694,5,Villa,157,1975,-11 %
+"Johnny Madsens Vej 1, ST 7680 Thyborøn",0,962500.0,04-03-2013,Alm.,7578,3,Villa,127,1952,-8 %
+Vesterhavsgade 11 7680 Thyborøn,11,360000.0,07-02-2013,Auktion,2278,4,Villa,158,1956,
+Vesterhavsgade 141 7680 Thyborøn,141,700000.0,15-12-2012,Alm.,5468,5,Villa,128,1947,
+Nørrevej 14 7680 Thyborøn,14,325000.0,13-12-2012,Alm.,2480,4,Villa,131,1967,-24 %
+Godthåbsvej 11 7680 Thyborøn,11,383824.0,26-11-2012,Fam.,2257,6,Villa,170,1944,
+Ternevej 28 7680 Thyborøn,28,445000.0,14-11-2012,Alm.,3371,3,Villa,132,1959,
+Fasanvej 14 7680 Thyborøn,14,800000.0,07-11-2012,Alm.,4705,7,Villa,170,1966,0 %
+Samsøvej 11 7680 Thyborøn,11,575000.0,25-10-2012,Alm.,2566,7,Villa,224,1972,
+Venøvej 5 7680 Thyborøn,5,1850000.0,18-10-2012,Alm.,17129,4,Villa,108,1970,
+Vesterhavsgade 26 7680 Thyborøn,26,1650000.0,27-09-2012,Alm.,8461,5,Villa,195,1935,
+Klydevej 1 7680 Thyborøn,1,475000.0,13-09-2012,Alm.,4896,3,Villa,97,1960,
+Vestvej 10 7680 Thyborøn,10,435000.0,06-09-2012,Alm.,3750,3,Villa,116,1957,-2 %
+Morsøvej 12 7680 Thyborøn,12,1000000.0,09-08-2012,Alm.,4901,6,Villa,204,1975,
+Jegindøvej 2 7680 Thyborøn,2,627000.0,05-07-2012,Alm.,5548,4,Villa,113,1976,
+Furvej 16 7680 Thyborøn,16,1165000.0,05-07-2012,Alm.,6067,6,Villa,192,1975,
+Lærkevej 23 7680 Thyborøn,23,595000.0,03-07-2012,Alm.,6685,4,Villa,89,1964,
+Sneglevej 8 7680 Thyborøn,8,715000.0,21-06-2012,Alm.,6327,4,Villa,113,1952,-7 %
+Bredgade 21 7680 Thyborøn,21,1800000.0,31-05-2012,Alm.,8571,5,Villa,210,1947,
+Vesterhavsgade 70 7680 Thyborøn,70,540000.0,01-04-2012,Alm.,4821,2,Villa,112,1938,-8 %
+Lærkevej 11 7680 Thyborøn,11,520000.0,26-03-2012,Alm.,5473,3,Villa,95,1961,
+Rønbovej 5 7680 Thyborøn,5,385000.0,22-03-2012,Alm.,4812,3,Villa,80,1954,-9 %
+Sprogøvej 61 7680 Thyborøn,61,70000.0,22-03-2012,Alm.,546,5,Villa,128,2012,
+Vesterhavsgade 54 7680 Thyborøn,54,450000.0,16-03-2012,Alm.,3658,4,Villa,123,1930,-7 %
+Læsøvej 2 7680 Thyborøn,2,915000.0,06-03-2012,Alm.,7379,4,Villa,124,1971,
+Venøvej 16A 7680 Thyborøn,0,1440000.0,06-03-2012,Alm.,6889,5,Villa,209,1975,
+Rypevej 1 7680 Thyborøn,1,1495000.0,05-03-2012,Alm.,6443,6,Villa,232,1969,-6 %
+Vesterhavsgade 87 7680 Thyborøn,87,201500.0,15-02-2012,Fam.,4197,3,Sommerhus,48,1955,
+Havnegade 30A 7680 Thyborøn,0,665000.0,03-02-2012,Alm.,8312,2,Lejlighed,80,1959,
+Vesterhavsgade 32 7680 Thyborøn,32,500000.0,06-01-2012,Alm.,4347,4,Villa,115,1931,-8 %
+Glentevej 4 7680 Thyborøn,4,710000.0,03-01-2012,Fam.,7100,3,Villa,100,1958,
+Mågevej 12 7680 Thyborøn,12,425000.0,03-01-2012,Alm.,2125,6,Villa,200,2014,
+Ternevej 1 7680 Thyborøn,1,30000.0,16-12-2011,Andet,200,6,Villa,150,1949,
+Sprogøvej 75 7680 Thyborøn,75,490000.0,12-12-2011,Alm.,5000,3,Rækkehus,98,1983,
+Samsøvej 16 7680 Thyborøn,16,970000.0,03-11-2011,Alm.,0,6,Villa,252,1973,-3 %
+Klydevej 4 7680 Thyborøn,4,518500.0,28-10-2011,Fam.,3988,3,Villa,130,1959,
+Bredgade 17 7680 Thyborøn,17,1215000.0,25-10-2011,Alm.,6825,5,Villa,178,1932,
+Godthåbsvej 1 7680 Thyborøn,1,700000.0,28-09-2011,Alm.,9090,1,Villa,77,1943,
+Vesterhavsgade 121 7680 Thyborøn,121,650000.0,12-09-2011,Alm.,0,5,Villa,157,1942,
+Samsøvej 2 7680 Thyborøn,2,1250000.0,09-09-2011,Alm.,5387,8,Villa,232,1971,
+"Vesterhavsgade 47A, 1 7680 Thyborøn",1,1200000.0,04-09-2011,Alm.,22641,2,Kollegium,53,1957,
+Digevej 14 7680 Thyborøn,14,715000.0,23-08-2011,Alm.,7688,4,Villa,93,1950,-8 %
+Drejøvej 69 7680 Thyborøn,69,85000.0,18-07-2011,Alm.,447,6,Villa,190,2012,
+Holmevej 3 7680 Thyborøn,3,850000.0,29-06-2011,Alm.,6854,3,Villa,124,1952,-5 %
+Furvej 1 7680 Thyborøn,1,1200000.0,31-05-2011,Alm.,7692,5,Villa,156,1976,
+Drejøvej 71 7680 Thyborøn,71,141000.0,31-05-2011,Alm.,566,7,Villa,249,2012,
+Drejøvej 43 7680 Thyborøn,43,1395000.0,20-05-2011,Alm.,6283,6,Villa,222,1977,0 %
+Drosselvej 9 7680 Thyborøn,9,1125000.0,11-05-2011,Alm.,6250,5,Villa,180,1967,
+Sprogøvej 15 7680 Thyborøn,15,712000.0,14-04-2011,Alm.,5741,4,Villa,124,1980,-4 %
+Rønbovej 6 7680 Thyborøn,6,435000.0,07-04-2011,Alm.,3625,3,Villa,120,1938,-12 %
+Vesterhavsgade 155 7680 Thyborøn,155,425000.0,04-04-2011,Alm.,4619,4,Villa,92,1949,-29 %
+Drejøvej 63 7680 Thyborøn,63,85000.0,21-02-2011,Alm.,379,8,Villa,224,2011,
+Jegindøvej 16 7680 Thyborøn,16,1300000.0,08-02-2011,Alm.,5726,5,Villa,227,1976,
+Sneglevej 5 7680 Thyborøn,5,335000.0,04-02-2011,Alm.,5491,3,Villa,61,1944,-8 %
+Ærøvej 15 7680 Thyborøn,15,395000.0,03-02-2011,Alm.,3264,4,Villa,121,1980,
+Vesterhavsgade 186 7680 Thyborøn,186,1250000.0,27-01-2011,Alm.,10683,3,Villa,117,2011,
+Sprogøvej 129 7680 Thyborøn,129,550000.0,26-01-2011,Alm.,6321,3,Rækkehus,87,1980,
+Vesterhavsgade 166 7680 Thyborøn,166,650000.0,07-12-2010,Alm.,0,4,Villa,124,1956,-6 %
+Manøvej 9 7680 Thyborøn,9,550000.0,22-11-2010,Alm.,4782,4,Villa,115,1919,-8 %
+Fanøvej 12 7680 Thyborøn,12,500000.0,16-11-2010,Alm.,3086,4,Villa,162,1949,
+Vesterhavsgade 117 7680 Thyborøn,117,550000.0,15-11-2010,Alm.,3525,6,Villa,156,1947,-6 %
+Mågevej 27 7680 Thyborøn,27,580000.0,09-11-2010,Alm.,3717,6,Villa,156,1958,-6 %
+Thurøvej 2A 7680 Thyborøn,0,725000.0,05-11-2010,Alm.,0,4,Villa,188,1971,-27 %
+Mågevej 13 7680 Thyborøn,13,400000.0,05-11-2010,Alm.,3125,5,Villa,128,1949,
+Kirkevej 12 7680 Thyborøn,12,629000.0,21-10-2010,Alm.,6988,3,Villa,90,1953,-3 %
+Glentevej 1 7680 Thyborøn,1,765000.0,11-10-2010,Alm.,5751,4,Villa,133,1958,
+Drosselvej 4 7680 Thyborøn,4,1500000.0,24-09-2010,Alm.,6521,6,Villa,230,1967,-3 %
+Morsøvej 2A 7680 Thyborøn,0,805000.0,23-09-2010,Alm.,4304,6,Villa,187,1976,1 %
+Vesterhavsgade 149 7680 Thyborøn,149,945000.0,06-09-2010,Alm.,9356,4,Villa,101,1934,0 %
+Lærkevej 14 7680 Thyborøn,14,1030000.0,26-08-2010,Alm.,5754,6,Villa,179,1963,-8 %
+Sprogøvej 69 7680 Thyborøn,69,1050000.0,01-08-2010,Alm.,7342,2,Rækkehus,143,1983,6 %
+Sprogøvej 137 7680 Thyborøn,137,2070000.0,19-07-2010,Alm.,12469,6,Villa,166,2008,-1 %
+Thurøvej 12 7680 Thyborøn,12,1225000.0,19-07-2010,Alm.,6657,6,Villa,184,1970,0 %
+Anholtvej 13A 7680 Thyborøn,0,1100000.0,19-07-2010,Alm.,5978,6,Villa,184,1973,-6 %
+Kirkevej 17 7680 Thyborøn,17,545000.0,07-07-2010,Alm.,3168,5,Villa,172,1848,-19 %
+Manøvej 7 7680 Thyborøn,7,550000.0,23-05-2010,Alm.,4954,3,Villa,111,1936,0 %
+Lærkevej 27 7680 Thyborøn,27,595000.0,21-04-2010,Alm.,3500,5,Villa,170,1964,0 %
+Thurøvej 2 7680 Thyborøn,2,640000.0,18-03-2010,Alm.,4129,6,Villa,155,2015,
+Anholtvej 12 7680 Thyborøn,12,845000.0,18-03-2010,Alm.,6500,4,Villa,130,1973,0 %
+Furvej 9 7680 Thyborøn,9,406667.0,09-03-2010,Fam.,2884,5,Villa,141,1974,
+Harboørevej 11 7680 Thyborøn,11,525000.0,05-03-2010,Alm.,5706,3,Villa,92,1959,-7 %
+Vesterhavsgade 160 7680 Thyborøn,160,1125000.0,25-02-2010,Auktion,3750,10,Villa,300,1946,
+Klitvej 17 7680 Thyborøn,17,343472.0,09-02-2010,Andet,0,4,Villa,140,1946,
+Harboørevej 14 7680 Thyborøn,14,620000.0,14-01-2010,Alm.,3147,7,Villa,197,1962,-11 %
+Thurøvej 5 7680 Thyborøn,5,1125000.0,15-12-2009,Alm.,6540,4,Villa,172,1970,-6 %
+Venøvej 12 7680 Thyborøn,12,750000.0,25-11-2009,Alm.,6578,4,Villa,114,1975,-9 %
+Kirkevej 15D 7680 Thyborøn,0,785000.0,20-11-2009,Alm.,0,3,Rækkehus,91,1990,
+Glentevej 5 7680 Thyborøn,5,870000.0,09-11-2009,Alm.,7699,3,Villa,113,1959,-1 %
+Sprogøvej 109 7680 Thyborøn,109,1225000.0,09-11-2009,Alm.,8166,5,Villa,150,1987,-2 %
+Lærkevej 25 7680 Thyborøn,25,860000.0,30-10-2009,Alm.,6825,4,Villa,126,1964,
+Sprogøvej 11 7680 Thyborøn,11,600000.0,05-08-2009,Alm.,4411,5,Villa,136,1981,-14 %
+Vesterhavsgade 140 7680 Thyborøn,140,860000.0,23-07-2009,Alm.,4942,6,Villa,174,1938,-4 %
+Godthåbsvej 7 7680 Thyborøn,7,226231.0,21-07-2009,Alm.,3770,3,Sommerhus,60,1940,
+Vesterhavsgade 9 7680 Thyborøn,9,1900000.0,17-07-2009,Alm.,11176,5,Villa,170,2005,-9 %
+Samsøvej 22 7680 Thyborøn,22,1100000.0,15-07-2009,Alm.,5288,6,Villa,208,1973,0 %
+Anholtvej 9 7680 Thyborøn,9,1150000.0,10-07-2009,Alm.,6725,5,Villa,171,1972,0 %
+Sprogøvej 149 7680 Thyborøn,149,600000.0,04-07-2009,Alm.,6000,3,Rækkehus,100,1980,-6 %
+Lærkevej 9 7680 Thyborøn,9,490000.0,03-07-2009,Alm.,5444,3,Villa,90,1962,-10 %
+Kirkevej 6 7680 Thyborøn,6,795000.0,02-07-2009,Alm.,6737,4,Villa,118,1936,0 %
+Vesterhavsgade 153 7680 Thyborøn,153,375000.0,18-06-2009,Fam.,3676,3,Villa,102,1926,
+Vesterhavsgade 127 7680 Thyborøn,127,110000.0,12-06-2009,Alm.,625,6,Villa,176,1910,
+Mågevej 40 7680 Thyborøn,40,510000.0,22-05-2009,Alm.,4080,5,Villa,125,1960,
+"Svanegade 5, ST 7680 Thyborøn",0,500000.0,09-05-2009,Alm.,5952,3,Lejlighed,84,1936,
+Mågevej 39 7680 Thyborøn,39,450000.0,04-05-2009,Fam.,4166,4,Villa,108,1958,
+Mågevej 21 7680 Thyborøn,21,1000000.0,29-04-2009,Fam.,9174,4,Villa,109,1952,
+Vesterhavsgade 136 7680 Thyborøn,136,380000.0,28-04-2009,Auktion,3064,4,Villa,124,1936,-64 %
+Limfjordsvej 15 7680 Thyborøn,15,500000.0,21-04-2009,Alm.,6410,3,Villa,78,1954,-16 %
+Vibevej 6 7680 Thyborøn,6,749799.0,16-04-2009,Andet,0,6,Villa,196,1964,
+Mågevej 35 7680 Thyborøn,35,754000.0,25-03-2009,Alm.,0,4,Villa,102,1958,
+Mågevej 47 7680 Thyborøn,47,770000.0,18-03-2009,Fam.,6015,4,Villa,128,1959,
+Thurøvej 12A 7680 Thyborøn,0,469558.0,24-02-2009,Alm.,2652,6,Villa,177,1970,
+Limfjordsvej 4A 7680 Thyborøn,0,750000.0,20-01-2009,Alm.,5859,4,Villa,128,1948,-16 %
+Vesterhavsgade 134A 7680 Thyborøn,0,170400.0,13-01-2009,Fam.,2840,4,Villa,60,1770,
+Fasanvej 19 7680 Thyborøn,19,1050000.0,05-12-2008,Alm.,5585,6,Villa,188,1965,0 %
+Jegindøvej 11 7680 Thyborøn,11,960000.0,31-10-2008,Alm.,4155,7,Villa,231,1977,-4 %
+Ternevej 17 7680 Thyborøn,17,530000.0,29-10-2008,Alm.,5638,4,Villa,94,1961,-14 %
+Limfjordsvej 1 7680 Thyborøn,1,875000.0,04-10-2008,Alm.,7291,4,Villa,120,1970,-5 %
+"Bredgade 20, 1 7680 Thyborøn",1,1335000.0,03-10-2008,Alm.,41718,5,Servicevirksomhed,32,1961,
+Vesterhavsgade 138A 7680 Thyborøn,0,750000.0,30-09-2008,Alm.,0,5,Villa,145,1932,
+Anholtvej 15 7680 Thyborøn,15,800000.0,26-09-2008,Alm.,5970,5,Villa,134,1973,-6 %
+Kirkevej 15C 7680 Thyborøn,0,725000.0,17-09-2008,Alm.,0,3,Rækkehus,91,1990,-6 %
+Vesterhavsgade 5 7680 Thyborøn,5,640000.0,11-09-2008,Fam.,7710,3,Villa,83,1957,
+Vibevej 8 7680 Thyborøn,8,576623.0,11-07-2008,Fam.,5544,4,Villa,104,1963,
+Glentevej 2 7680 Thyborøn,2,725000.0,07-07-2008,Alm.,0,4,Villa,148,1958,
+Sprogøvej 9 7680 Thyborøn,9,587500.0,18-06-2008,Fam.,4196,4,Villa,140,1980,
+Jagtvej 6 7680 Thyborøn,6,865000.0,14-06-2008,Alm.,8160,3,Villa,106,1905,-13 %
+Vesterhavsgade 27 7680 Thyborøn,27,1395000.0,04-06-2008,Alm.,9177,5,Villa,152,1930,
+Vesterhavsgade 113 7680 Thyborøn,113,807685.0,02-06-2008,Alm.,5810,4,Villa,139,1936,
+Vesterhavsgade 95 7680 Thyborøn,95,212500.0,13-05-2008,Fam.,3035,2,Villa,70,1945,
+Digevej 1 7680 Thyborøn,1,1070000.0,08-05-2008,Alm.,5631,6,Villa,190,1966,
+Vesterhavsgade 29 7680 Thyborøn,29,475000.0,05-05-2008,Alm.,0,7,Villa,176,1930,
+Glentevej 19 7680 Thyborøn,19,725000.0,28-04-2008,Alm.,6712,4,Villa,108,1960,
+Lærkevej 3 7680 Thyborøn,3,937500.0,21-04-2008,Alm.,5787,4,Villa,162,1961,-5 %
+Drejøvej 27 7680 Thyborøn,27,1650000.0,08-04-2008,Alm.,8168,5,Villa,202,1979,
+Thurøvej 3 7680 Thyborøn,3,1100000.0,07-04-2008,Alm.,6626,4,Villa,166,1970,0 %
+Vesterhavsgade 49B 7680 Thyborøn,0,501611.0,31-03-2008,Alm.,8090,3,Rækkehus,62,1984,
+Lærkevej 30 7680 Thyborøn,30,785000.0,28-03-2008,Alm.,6826,5,Villa,115,1964,0 %
+Vibevej 10 7680 Thyborøn,10,1250000.0,17-03-2008,Alm.,8223,3,Villa,152,1965,
+Ternevej 3 7680 Thyborøn,3,485000.0,29-02-2008,Fam.,2904,4,Villa,167,1955,
+"Bredgade 6, 1 7680 Thyborøn",1,1250000.0,19-02-2008,Alm.,0,5,Anden beboelse,124,1930,-11 %
+Jegindøvej 5A 7680 Thyborøn,0,500000.0,15-02-2008,Alm.,3846,5,Villa,130,1976,
+Jegindøvej 3A 7680 Thyborøn,0,1220000.0,12-02-2008,Alm.,5236,10,Villa,233,1976,
+Havnegade 20 7680 Thyborøn,20,3125000.0,31-01-2008,Alm.,31565,36,Servicevirksomhed,99,1916,
+Limfjordsvej 4 7680 Thyborøn,4,720000.0,28-01-2008,Alm.,5625,4,Villa,128,1955,
+Vesterhavsgade 44 7680 Thyborøn,44,700000.0,28-01-2008,Alm.,4861,4,Villa,144,1931,
+Drejøvej 11 7680 Thyborøn,11,1200000.0,14-12-2007,Alm.,6122,6,Villa,196,1977,
+Anholtvej 10 7680 Thyborøn,10,720000.0,12-12-2007,Alm.,4161,5,Villa,173,1973,
+Vesterhavsgade 174 7680 Thyborøn,174,675000.0,30-11-2007,Alm.,11065,1,Villa,61,1945,
+Nørrevej 2 7680 Thyborøn,2,725000.0,29-11-2007,Alm.,6304,3,Villa,115,1954,
+Digevej 9 7680 Thyborøn,9,575000.0,26-11-2007,Alm.,6609,4,Villa,87,1954,0 %
+Anholtvej 3A 7680 Thyborøn,0,1000000.0,24-11-2007,Fam.,5780,5,Villa,173,1972,-9 %
+Nordkap 2 7680 Thyborøn,2,625000.0,22-11-2007,Fam.,5681,3,Villa,110,1960,
+Bredgade 22A 7680 Thyborøn,0,800000.0,18-11-2007,Alm.,8000,3,Rækkehus,100,1941,
+Sprogøvej 6A 7680 Thyborøn,0,1500000.0,12-11-2007,Alm.,4643,9,Villa,323,1979,
+Vesterhavsgade 128 7680 Thyborøn,128,820000.0,31-10-2007,Fam.,0,2,Villa,99,1954,
+Vesterhavsgade 19 7680 Thyborøn,19,640000.0,26-09-2007,Alm.,6956,4,Rækkehus,92,1951,
+Rømøvej 7 7680 Thyborøn,7,355000.0,25-09-2007,Alm.,3622,3,Villa,98,1945,
+Sprogøvej 36 7680 Thyborøn,36,600000.0,10-09-2007,Alm.,4761,4,Rækkehus,126,1978,
+Drejøvej 3A 7680 Thyborøn,0,1800000.0,10-09-2007,Fam.,7894,7,Villa,228,1997,
+Klydevej 2 7680 Thyborøn,2,500000.0,28-08-2007,Fam.,5154,4,Villa,97,1961,
+Sprogøvej 58 7680 Thyborøn,58,825000.0,24-08-2007,Alm.,0,5,Villa,148,1980,-2 %
+Vestvej 6 7680 Thyborøn,6,550000.0,24-08-2007,Alm.,5729,4,Villa,96,1965,-4 %
+Idrætsvej 3 7680 Thyborøn,3,2500000.0,23-08-2007,Alm.,30487,15,"Ferie, andet",82,1975,
+Fanøvej 8 7680 Thyborøn,8,575000.0,17-08-2007,Alm.,0,5,Villa,113,1943,0 %
+Ternevej 6 7680 Thyborøn,6,835000.0,17-08-2007,Alm.,0,4,Villa,130,1946,0 %
+Vesterhavsgade 25 7680 Thyborøn,25,765000.0,08-08-2007,Alm.,6954,4,Villa,110,1942,
+Samsøvej 20 7680 Thyborøn,20,1200000.0,06-08-2007,Fam.,5769,5,Villa,208,1973,
+Morsøvej 15 7680 Thyborøn,15,760000.0,06-08-2007,Alm.,5277,5,Villa,144,1973,
+Thurøvej 14A 7680 Thyborøn,0,975000.0,30-07-2007,Alm.,6866,4,Villa,142,1971,
+Sprogøvej 101A 7680 Thyborøn,0,610000.0,17-07-2007,Alm.,6100,3,Rækkehus,100,1981,
+Vesterhavsgade 35 7680 Thyborøn,35,605000.0,29-06-2007,Alm.,5990,5,Villa,101,1930,
+Morsøvej 4A 7680 Thyborøn,0,1050000.0,18-06-2007,Fam.,4545,4,Villa,231,1975,
+Sneglevej 9A 7680 Thyborøn,0,300000.0,07-06-2007,Fam.,3157,3,Villa,95,1945,
+Sneglevej 3 7680 Thyborøn,3,695000.0,30-05-2007,Alm.,5991,5,Villa,116,1944,-4 %
+Jagtvej 10 7680 Thyborøn,10,630000.0,26-05-2007,Alm.,4038,4,Villa,156,1952,-7 %
+Kirkevej 10 7680 Thyborøn,10,595000.0,23-05-2007,Alm.,6918,3,Villa,86,1896,0 %
+Vesterhavsgade 136A 7680 Thyborøn,0,800000.0,13-05-2007,Alm.,7920,1,Villa,101,1966,
+Fjordgade 3 7680 Thyborøn,3,470000.0,01-05-2007,Alm.,4051,5,Villa,116,1938,
+Samsøvej 15 7680 Thyborøn,15,785000.0,23-04-2007,Alm.,5164,4,Villa,152,1972,
+Kirkegaardsvej 8 7680 Thyborøn,8,525000.0,16-04-2007,Fam.,0,6,Villa,199,1936,
+Havnegade 22 7680 Thyborøn,22,2050000.0,05-04-2007,Alm.,12424,8,Detailhandel,165,1916,
+Vesterhavsgade 42 7680 Thyborøn,42,800000.0,17-03-2007,Alm.,5925,3,Villa,135,1932,-9 %
+Vesterhavsgade 103 7680 Thyborøn,103,875000.0,12-03-2007,Alm.,6386,5,Villa,137,1951,
+Thurøvej 4A 7680 Thyborøn,0,850000.0,08-03-2007,Alm.,5985,4,Villa,142,1970,
+Lærkevej 17 7680 Thyborøn,17,530000.0,07-03-2007,Alm.,3375,5,Villa,157,1963,
+Samsøvej 10 7680 Thyborøn,10,1000000.0,05-03-2007,Alm.,6451,3,Villa,155,1971,
+Sprogøvej 68 7680 Thyborøn,68,1050000.0,19-02-2007,Alm.,5833,5,Villa,180,1979,-7 %
+Anholtvej 4 7680 Thyborøn,4,1450000.0,02-02-2007,Alm.,0,7,Villa,287,1973,
+Bredgade 23 7680 Thyborøn,23,640000.0,21-01-2007,Alm.,4571,4,Villa,140,1938,
+Jagtvej 4 7680 Thyborøn,4,650000.0,18-01-2007,Alm.,5963,5,Villa,109,1936,
+Sprogøvej 23B 7680 Thyborøn,0,550000.0,10-01-2007,Alm.,4661,4,Rækkehus,118,1982,-6 %
+Nordkap 6 7680 Thyborøn,6,715000.0,03-01-2007,Alm.,5813,4,Villa,123,1962,-1 %
+Sprogøvej 48B 7680 Thyborøn,0,515000.0,23-12-2006,Alm.,4327,4,Rækkehus,119,1982,
+Vesterhavsgade 1 7680 Thyborøn,1,3800000.0,21-12-2006,Alm.,16450,6,Villa,231,2000,
+Bredgade 22B 7680 Thyborøn,0,650000.0,18-12-2006,Alm.,0,5,Villa,292,2008,
+Anholtvej 15A 7680 Thyborøn,0,1250000.0,14-12-2006,Alm.,6830,5,Villa,183,1974,
+Sprogøvej 12 7680 Thyborøn,12,1140000.0,07-12-2006,Alm.,7500,4,Villa,152,1978,
+Vesterhavsgade 136B 7680 Thyborøn,0,795000.0,01-12-2006,Alm.,7571,4,Sommerhus,105,1953,
+Vibevej 12 7680 Thyborøn,12,1100000.0,01-12-2006,Alm.,6358,4,Villa,173,1967,
+Lærkevej 34 7680 Thyborøn,34,600000.0,27-11-2006,Alm.,5042,4,Villa,119,1964,
+Sprogøvej 22 7680 Thyborøn,22,950000.0,25-11-2006,Alm.,0,5,Villa,143,1978,
+Drejøvej 5 7680 Thyborøn,5,1240000.0,21-11-2006,Alm.,5145,8,Villa,241,1977,
+Ternevej 21 7680 Thyborøn,21,555000.0,10-11-2006,Alm.,4784,4,Villa,116,1960,
+Sprogøvej 78 7680 Thyborøn,78,1500000.0,08-11-2006,Alm.,8426,5,Villa,178,1980,
+Sprogøvej 40 7680 Thyborøn,40,775000.0,03-11-2006,Andet,4403,6,Villa,176,1978,
+Vestvej 14 7680 Thyborøn,14,961000.0,03-11-2006,Alm.,6627,5,Villa,145,1978,
+Kirkevej 1 7680 Thyborøn,1,725000.0,31-10-2006,Alm.,0,5,Villa,158,1957,
+Vesterhavsgade 72 7680 Thyborøn,72,760000.0,14-10-2006,Alm.,5714,5,Villa,133,1938,
+Sprogøvej 49 7680 Thyborøn,49,800000.0,01-10-2006,Fam.,3902,5,Villa,205,1990,
+Fanøvej 4 7680 Thyborøn,4,625000.0,29-09-2006,Alm.,4058,2,Villa,154,1951,
+Vesterhavsgade 40 7680 Thyborøn,40,760000.0,25-09-2006,Alm.,4634,5,Sommerhus,164,1930,
+Anholtvej 23A 7680 Thyborøn,0,945000.0,22-09-2006,Alm.,5080,7,Villa,186,1972,
+Johnny Madsens Vej 3 7680 Thyborøn,3,250000.0,03-09-2006,Alm.,2100,3,Villa,119,1952,
+Vesterhavsgade 123A 7680 Thyborøn,0,640000.0,14-08-2006,Alm.,3478,6,Villa,184,1917,
+Vibevej 4 7680 Thyborøn,4,1155000.0,12-06-2006,Alm.,7173,4,Villa,161,1962,
+Sprogøvej 25A 7680 Thyborøn,0,475000.0,10-06-2006,Alm.,4025,4,Rækkehus,118,1982,
+Vesterhavsgade 64 7680 Thyborøn,64,525000.0,31-05-2006,Alm.,5585,4,Villa,94,1942,
+Vesterhavsgade 22 7680 Thyborøn,22,1700000.0,19-05-2006,Alm.,7264,8,Villa,234,1929,
+Vesterhavsgade 162A 7680 Thyborøn,0,375000.0,17-05-2006,Alm.,0,5,Villa,131,1946,
+Klydevej 3 7680 Thyborøn,3,450000.0,15-05-2006,Alm.,4455,3,Villa,101,1960,
+Vesterhavsgade 167 7680 Thyborøn,167,525000.0,15-05-2006,Alm.,3125,6,Villa,168,1949,
+Vesterhavsgade 172 7680 Thyborøn,172,725000.0,15-05-2006,Alm.,5708,4,Villa,127,1946,
+Lærkevej 41 7680 Thyborøn,41,705000.0,21-04-2006,Alm.,5183,4,Villa,136,1966,
+Fasanvej 22 7680 Thyborøn,22,985625.0,06-04-2006,Auktion,5730,4,Villa,172,1966,
+Drejøvej 67 7680 Thyborøn,67,105995.0,01-04-2006,Alm.,490,7,Villa,216,2008,
+Sprogøvej 29 7680 Thyborøn,29,98280.0,30-03-2006,Alm.,412,5,Villa,238,2007,
+Thurøvej 16 7680 Thyborøn,16,362500.0,28-03-2006,Alm.,2810,4,Villa,129,1970,
+Manøvej 5 7680 Thyborøn,5,585000.0,15-03-2006,Alm.,5223,4,Villa,112,1938,
+Sprogøvej 66 7680 Thyborøn,66,700000.0,20-02-2006,Alm.,5109,4,Villa,137,1978,
+Vesterhavsgade 98 7680 Thyborøn,98,220564.0,10-02-2006,Alm.,737,5,Villa,299,2007,
+Sprogøvej 2 7680 Thyborøn,2,850000.0,10-02-2006,Alm.,4009,6,Villa,212,1979,
+Jagtvej 1 7680 Thyborøn,1,580000.0,03-02-2006,Alm.,6987,4,Villa,83,1925,
+Sneglevej 14 7680 Thyborøn,14,350000.0,01-02-2006,Alm.,4375,2,Villa,80,1947,
+Sprogøvej 153A 7680 Thyborøn,0,400000.0,26-01-2006,Alm.,3389,4,Rækkehus,118,1982,
+Vesterhavsgade 109 7680 Thyborøn,109,465000.0,13-01-2006,Alm.,4471,3,Sommerhus,104,1938,
+Drejøvej 23 7680 Thyborøn,23,700000.0,19-12-2005,Alm.,0,8,Villa,207,1977,
+Limfjordsvej 5 7680 Thyborøn,5,375000.0,15-12-2005,Fam.,4518,3,Villa,83,1953,
+Fanøvej 10 7680 Thyborøn,10,675000.0,12-12-2005,Alm.,5357,5,Villa,126,1944,
+Manøvej 2 7680 Thyborøn,2,425000.0,12-12-2005,Alm.,4427,3,Villa,96,1949,
+Jagtvej 5 7680 Thyborøn,5,171100.0,21-11-2005,Alm.,2086,4,Villa,82,1918,
+Vestvej 13 7680 Thyborøn,13,500000.0,19-11-2005,Alm.,4629,5,Villa,108,1973,
+Sprogøvej 85 7680 Thyborøn,85,1100000.0,17-11-2005,Alm.,7284,5,Villa,151,1982,
+Klitvej 4 7680 Thyborøn,4,595000.0,03-11-2005,Alm.,7727,3,Villa,77,1947,
+Holmevej 5 7680 Thyborøn,5,90000.0,01-11-2005,Alm.,891,6,Sommerhus,101,1882,
+Jegindøvej 1 7680 Thyborøn,1,950000.0,26-10-2005,Fam.,5491,6,Villa,173,1976,
+Morsøvej 14 7680 Thyborøn,14,770000.0,25-10-2005,Alm.,5923,4,Villa,130,1975,
+Kirkevej 8A 7680 Thyborøn,0,640000.0,24-10-2005,Alm.,5470,3,Villa,117,1979,
+Lærkevej 48 7680 Thyborøn,48,400000.0,12-10-2005,Alm.,2816,5,Villa,142,1965,
+Samsøvej 6 7680 Thyborøn,6,500000.0,11-10-2005,Fam.,5208,4,Villa,96,1973,
+Jernbanegade 21 7680 Thyborøn,21,675000.0,20-09-2005,Alm.,5973,4,Villa,113,1934,
+Vesterhavsgade 134 7680 Thyborøn,134,310000.0,19-09-2005,Alm.,5166,2,Villa,60,1958,
+Kirkevej 5 7680 Thyborøn,5,230000.0,17-09-2005,Alm.,3432,3,Villa,67,1943,
+Sprogøvej 14A 7680 Thyborøn,0,1000000.0,15-09-2005,Alm.,4950,6,Villa,202,1979,
+Vesterhavsgade 129 7680 Thyborøn,129,725000.0,11-09-2005,Alm.,4190,4,Villa,173,1957,
+Vesterhavsgade 122 7680 Thyborøn,122,140000.0,29-08-2005,Auktion,972,4,Villa,144,2007,
+Spættevej 6 7680 Thyborøn,6,600000.0,24-08-2005,Alm.,2830,5,Villa,212,1969,
+Samsøvej 13 7680 Thyborøn,13,855000.0,03-08-2005,Alm.,0,5,Villa,156,1974,
+Ternevej 25 7680 Thyborøn,25,1200000.0,20-07-2005,Alm.,6349,4,Villa,189,1960,
+Rypevej 18 7680 Thyborøn,18,800000.0,20-07-2005,Alm.,7407,4,Villa,108,1969,
+Mågevej 8 7680 Thyborøn,8,650000.0,10-06-2005,Alm.,6190,4,Villa,105,1942,
+Harboørevej 7 7680 Thyborøn,7,340000.0,07-06-2005,Fam.,2956,3,Villa,115,1960,
+Vestvej 8 7680 Thyborøn,8,400000.0,12-05-2005,Alm.,3960,3,Sommerhus,101,1958,
+Drejøvej 55 7680 Thyborøn,55,1150000.0,04-05-2005,Alm.,5450,7,Villa,211,1977,
+Vesterhavsgade 118 7680 Thyborøn,118,556160.0,19-04-2005,Alm.,4150,3,Villa,134,1933,
+Jernbanegade 3 7680 Thyborøn,3,350000.0,07-04-2005,Alm.,2892,4,Villa,121,1947,
+Glentevej 6 7680 Thyborøn,6,405000.0,07-04-2005,Alm.,3552,5,Villa,114,1959,
+Digevej 8 7680 Thyborøn,8,135000.0,06-03-2005,Alm.,1551,2,Villa,87,1959,
+Anholtvej 2 7680 Thyborøn,2,1100000.0,11-02-2005,Alm.,4198,8,Villa,262,1972,
+Ternevej 19 7680 Thyborøn,19,750000.0,04-02-2005,Alm.,6578,4,Villa,114,1961,
+Glentevej 15 7680 Thyborøn,15,325000.0,26-01-2005,Alm.,1608,5,Villa,202,1958,
+Rønbovej 1 7680 Thyborøn,1,375000.0,24-01-2005,Alm.,4687,3,Villa,80,1958,
+Jegindøvej 1A 7680 Thyborøn,0,850000.0,03-01-2005,Alm.,4670,5,Villa,182,1978,
+Ærøvej 5 7680 Thyborøn,5,76500.0,16-12-2004,Alm.,320,6,Villa,239,2005,
+Vesterhavsgade 168 7680 Thyborøn,168,315000.0,06-12-2004,Andet,2142,5,Villa,147,1955,
+Havnegade 54 7680 Thyborøn,54,500000.0,01-12-2004,Alm.,4504,7,Industri o.l.,111,1954,
+Samsøvej 17 7680 Thyborøn,17,740000.0,30-11-2004,Alm.,4774,4,Villa,155,1972,
+Thurøvej 1 7680 Thyborøn,1,1450000.0,30-11-2004,Alm.,8238,5,Villa,176,1970,
+Vesterhavsgade 100 7680 Thyborøn,100,375000.0,29-11-2004,Alm.,2884,4,Villa,130,1937,
+Vesterhavsgade 52 7680 Thyborøn,52,525000.0,24-11-2004,Alm.,5147,6,Engroshandel,102,1937,
+Jegindøvej 5 7680 Thyborøn,5,900000.0,10-11-2004,Alm.,5421,6,Villa,166,1976,
+Vesterhavsgade 92 7680 Thyborøn,92,251000.0,05-11-2004,Alm.,1183,6,Villa,212,2006,
+Vesterhavsgade 94 7680 Thyborøn,94,175000.0,04-11-2004,Alm.,951,5,Villa,184,2006,
+Sneglevej 9 7680 Thyborøn,9,265000.0,12-10-2004,Alm.,3354,2,Villa,79,1946,
+Klitvej 7 7680 Thyborøn,7,175000.0,10-10-2004,Alm.,0,3,Villa,89,1943,
+Vesterhavsgade 41 7680 Thyborøn,41,480000.0,09-08-2004,Fam.,3000,4,Villa,160,1931,
+Vesterhavsgade 49A 7680 Thyborøn,0,385000.0,09-07-2004,Alm.,6209,3,Rækkehus,62,1984,
+"Havnegade 44, 1 7680 Thyborøn",1,450000.0,06-07-2004,Alm.,4545,3,Anden beboelse,99,1955,
+Havnegade 16 7680 Thyborøn,16,1051500.0,01-07-2004,Alm.,0,5,Detailhandel,98,1917,
+Jernbanegade 9 7680 Thyborøn,9,575000.0,23-06-2004,Alm.,3807,5,Villa,151,1937,
+Sprogøvej 55 7680 Thyborøn,55,1200000.0,17-05-2004,Alm.,6451,6,Villa,186,1986,
+Morsøvej 10 7680 Thyborøn,10,865000.0,20-04-2004,Alm.,4042,6,Villa,214,1975,
+Sprogøvej 93 7680 Thyborøn,93,620000.0,15-04-2004,Fam.,4920,5,Villa,126,1981,
+Vesterhavsgade 123 7680 Thyborøn,123,501500.0,12-04-2004,Fam.,2667,5,Villa,188,1892,
+Mågevej 42 7680 Thyborøn,42,510000.0,31-03-2004,Alm.,5795,3,Villa,88,1952,
+Fanøvej 6 7680 Thyborøn,6,310000.0,27-03-2004,Alm.,4078,3,Villa,76,1953,
+Samsøvej 12 7680 Thyborøn,12,820000.0,02-03-2004,Alm.,5324,5,Villa,154,1972,
+Fasanvej 23 7680 Thyborøn,23,585000.0,13-01-2004,Fam.,4034,5,Villa,145,1969,
+Lærkevej 6 7680 Thyborøn,6,303065.0,07-01-2004,Fam.,0,5,Villa,121,1963,
+Digevej 12 7680 Thyborøn,12,299000.0,22-12-2003,Alm.,2960,4,Villa,101,1971,
+Kirkevej 21 7680 Thyborøn,21,212250.0,18-12-2003,Fam.,1248,6,Villa,170,1937,
+Vestvej 4 7680 Thyborøn,4,190000.0,05-12-2003,Auktion,2345,3,Villa,81,1961,
+Vibevej 2 7680 Thyborøn,2,425000.0,18-11-2003,Alm.,3863,5,Villa,110,1963,
+Sprogøvej 105 7680 Thyborøn,105,720000.0,09-11-2003,Alm.,5714,4,Villa,126,1981,
+Sprogøvej 21C 7680 Thyborøn,0,445000.0,03-11-2003,Fam.,3771,4,Rækkehus,118,1982,
+Vesterhavsgade 142 7680 Thyborøn,142,310000.0,03-11-2003,Fam.,4133,2,Villa,75,1949,
+Thurøvej 4 7680 Thyborøn,4,650000.0,31-10-2003,Alm.,5038,5,Villa,129,1970,
+Johnny Madsens Vej 2 7680 Thyborøn,2,435000.0,29-10-2003,Alm.,3020,4,Villa,144,1930,
+Jernbanegade 11 7680 Thyborøn,11,655382.0,17-10-2003,Alm.,4201,5,Villa,156,1934,
+Vesterhavsgade 68 7680 Thyborøn,68,375000.0,13-10-2003,Alm.,4120,2,Villa,91,1950,
+Sprogøvej 56 7680 Thyborøn,56,950000.0,29-09-2003,Alm.,4797,6,Villa,198,1981,
+Drosselvej 7 7680 Thyborøn,7,925000.0,28-07-2003,Alm.,5709,5,Villa,162,1967,
+Bredgade 26 7680 Thyborøn,26,925000.0,23-06-2003,Alm.,4039,7,Villa,229,1958,
+Mågevej 29 7680 Thyborøn,29,446353.0,22-06-2003,Alm.,3658,4,Villa,122,1958,
+Nordkap 10 7680 Thyborøn,10,625000.0,30-05-2003,Alm.,3906,5,Villa,160,1963,
+Sprogøvej 30 7680 Thyborøn,30,345000.0,07-05-2003,Alm.,3415,3,Rækkehus,101,1978,
+Drejøvej 33 7680 Thyborøn,33,735000.0,28-04-2003,Alm.,5104,5,Villa,144,1977,
+Sprogøvej 8A 7680 Thyborøn,0,808919.0,14-04-2003,Alm.,5087,6,Villa,159,1978,
+Rypevej 2 7680 Thyborøn,2,570000.0,04-04-2003,Alm.,3081,8,Villa,185,1967,
+Vesterhavsgade 23 7680 Thyborøn,23,360000.0,01-04-2003,Alm.,2812,4,Villa,128,1928,
+Sprogøvej 121 7680 Thyborøn,121,262500.0,31-03-2003,Fam.,2151,4,Rækkehus,122,1980,
+Digevej 5 7680 Thyborøn,5,345000.0,02-03-2003,Alm.,3833,2,Villa,90,1955,
+Harboørevej 16 7680 Thyborøn,16,1500000.0,05-02-2003,Fam.,12500,5,Industri o.l.,120,1962,
+Sprogøvej 141 7680 Thyborøn,141,170000.0,27-01-2003,Fam.,0,3,Rækkehus,100,1980,
+Kirkevej 9 7680 Thyborøn,9,400000.0,20-12-2002,Fam.,4494,4,Villa,89,1887,
+Vesterhavsgade 49C 7680 Thyborøn,0,350000.0,08-11-2002,Alm.,5645,3,Rækkehus,62,1984,
+Jegindøvej 3 7680 Thyborøn,3,293250.0,04-11-2002,Fam.,2022,5,Villa,145,1976,
+"Havnegade 50, 1 7680 Thyborøn",1,500000.0,29-10-2002,Alm.,4464,4,Anden beboelse,112,1958,
+Sprogøvej 1A 7680 Thyborøn,0,1030000.0,08-10-2002,Alm.,5988,5,Villa,172,1979,
+Jegindøvej 7A 7680 Thyborøn,0,635000.0,03-10-2002,Alm.,3670,5,Villa,173,1976,
+Ternevej 26 7680 Thyborøn,26,345000.0,27-08-2002,Fam.,2574,4,Villa,134,1960,
+Sprogøvej 87 7680 Thyborøn,87,935000.0,09-08-2002,Alm.,5880,5,Villa,159,1981,
+Digevej 3 7680 Thyborøn,3,288000.0,08-08-2002,Alm.,3200,3,Villa,90,1953,
+Rømøvej 6 7680 Thyborøn,6,275000.0,30-07-2002,Alm.,2500,5,Villa,110,1904,
+Vesterhavsgade 162 7680 Thyborøn,162,205000.0,25-06-2002,Alm.,1413,4,Villa,145,1933,
+Vestvej 16 7680 Thyborøn,16,230000.0,01-06-2002,Alm.,2277,3,Sommerhus,101,1945,
+Jagtvej 8 7680 Thyborøn,8,195500.0,24-05-2002,Fam.,1229,4,Villa,159,1940,
+Drejøvej 59 7680 Thyborøn,59,550000.0,03-05-2002,Alm.,2401,6,Villa,229,1977,
+Vesterhavsgade 99 7680 Thyborøn,99,275000.0,25-03-2002,Alm.,2412,3,Villa,114,1959,
+Drejøvej 51 7680 Thyborøn,51,1183000.0,22-03-2002,Alm.,5188,7,Villa,228,1978,
+Limfjordsvej 9 7680 Thyborøn,9,229922.0,15-03-2002,Alm.,2874,2,Villa,80,1958,
+Jegindøvej 9A 7680 Thyborøn,0,895000.0,22-02-2002,Alm.,5966,6,Villa,150,1976,
+Limfjordsvej 17A 7680 Thyborøn,0,150000.0,15-02-2002,Alm.,1704,4,Villa,88,2006,
+Limfjordsvej 2 7680 Thyborøn,2,260000.0,13-12-2001,Fam.,3376,3,Villa,77,1955,
+Sprogøvej 177 7680 Thyborøn,177,66690.0,13-12-2001,Alm.,0,7,Villa,226,2002,
+Digevej 6 7680 Thyborøn,6,135000.0,15-11-2001,Alm.,937,5,Villa,144,1957,
+Harboørevej 9 7680 Thyborøn,9,560000.0,13-11-2001,Alm.,3733,4,Villa,150,1960,
+Thurøvej 10A 7680 Thyborøn,0,585000.0,05-11-2001,Alm.,5043,4,Villa,116,1970,
+Ternevej 22 7680 Thyborøn,22,450000.0,18-10-2001,Alm.,3719,4,Villa,121,1960,
+Vesterhavsgade 8A 7680 Thyborøn,0,705000.0,10-10-2001,Alm.,5423,5,Villa,130,1935,
+Sprogøvej 100 7680 Thyborøn,100,840000.0,01-10-2001,Alm.,0,7,Villa,176,1990,
+Vesterhavsgade 31 7680 Thyborøn,31,545000.0,20-09-2001,Alm.,3061,4,Villa,178,1930,
+Sprogøvej 112 7680 Thyborøn,112,540000.0,11-09-2001,Alm.,3884,4,Villa,139,1979,
+Lærkevej 12 7680 Thyborøn,12,375000.0,07-09-2001,Alm.,3947,3,Villa,95,1962,
+Fasanvej 6 7680 Thyborøn,6,650000.0,10-08-2001,Alm.,4276,6,Villa,152,1965,
+Mågevej 38A 7680 Thyborøn,0,180369.0,09-08-2001,Alm.,1751,4,Villa,103,1959,
+Sprogøvej 54 7680 Thyborøn,54,835000.0,28-07-2001,Alm.,4613,4,Villa,181,1978,
+Mågevej 31 7680 Thyborøn,31,366571.0,19-06-2001,Alm.,0,5,Villa,136,1958,
+Furvej 4 7680 Thyborøn,4,875000.0,14-05-2001,Alm.,5794,5,Villa,151,1975,
+Fælledvej 2A 7680 Thyborøn,0,225500.0,27-04-2001,Alm.,3268,2,Villa,69,1949,
+Fasanvej 5 7680 Thyborøn,5,310000.0,17-04-2001,Alm.,3483,4,Villa,89,1965,
+Rønbovej 4 7680 Thyborøn,4,400580.0,14-02-2001,Alm.,2725,6,Villa,147,1935,
+Thurøvej 9 7680 Thyborøn,9,540000.0,29-12-2000,Fam.,4186,5,Villa,129,1970,
+Venøvej 16 7680 Thyborøn,16,650000.0,09-11-2000,Alm.,4814,5,Villa,135,1976,
+Lærkevej 10 7680 Thyborøn,10,595000.0,06-11-2000,Alm.,5613,4,Villa,106,1962,
+Vesterhavsgade 169 7680 Thyborøn,169,230000.0,03-11-2000,Alm.,2254,3,Villa,102,1953,
+Thurøvej 10 7680 Thyborøn,10,600000.0,16-10-2000,Alm.,4477,5,Villa,134,1970,
+Jegindøvej 8 7680 Thyborøn,8,690000.0,09-10-2000,Alm.,5564,4,Villa,124,1975,
+Harboørevej 5 7680 Thyborøn,5,360000.0,23-09-2000,Alm.,3495,4,Villa,103,1963,
+Drosselvej 3 7680 Thyborøn,3,1200000.0,13-09-2000,Fam.,3883,7,Villa,309,1969,
+Fjordgade 11 7680 Thyborøn,11,485000.0,02-08-2000,Alm.,3344,5,Villa,145,1950,
+Jagtvej 9 7680 Thyborøn,9,425000.0,27-06-2000,Alm.,0,4,Villa,164,1941,
+Rømøvej 1 7680 Thyborøn,1,195000.0,19-06-2000,Alm.,1756,6,Sommerhus,111,1897,
+"Vesterhavsgade 47B, 1 7680 Thyborøn",1,360000.0,01-06-2000,Alm.,6792,2,Kollegium,53,1957,
+"Vesterhavsgade 47B, ST 7680 Thyborøn",0,350000.0,01-06-2000,Alm.,6603,2,Kollegium,53,1957,
+"Vesterhavsgade 47A, ST 7680 Thyborøn",0,350000.0,01-06-2000,Alm.,6603,2,Kollegium,53,1957,
+"Vesterhavsgade 47C, 1 7680 Thyborøn",1,360000.0,01-06-2000,Alm.,6792,2,Kollegium,53,1957,
+"Vesterhavsgade 47D, ST 7680 Thyborøn",0,390000.0,01-06-2000,Alm.,7358,2,Kollegium,53,1957,
+"Vesterhavsgade 47C, ST 7680 Thyborøn",0,350000.0,01-06-2000,Alm.,6603,2,Kollegium,53,1957,
+"Vesterhavsgade 47D, 1 7680 Thyborøn",1,360000.0,01-06-2000,Alm.,6792,2,Kollegium,53,1957,
+Harboørevej 3 7680 Thyborøn,3,755000.0,15-03-2000,Alm.,0,6,Villa,154,1963,
+Venøvej 1 7680 Thyborøn,1,910000.0,15-03-2000,Alm.,4572,7,Villa,199,1979,
+Sprogøvej 135 7680 Thyborøn,135,1039971.0,09-03-2000,Alm.,6190,6,Villa,168,1987,
+Nørrevej 10 7680 Thyborøn,10,259000.0,23-02-2000,Alm.,3120,4,Villa,83,1958,
+Samsøvej 19 7680 Thyborøn,19,950000.0,28-01-2000,Alm.,5588,4,Villa,170,1971,
+Drosselvej 2 7680 Thyborøn,2,640000.0,25-01-2000,Alm.,3232,7,Villa,198,1966,
+Sprogøvej 101B 7680 Thyborøn,0,356634.0,10-01-2000,Alm.,3566,3,Rækkehus,100,1981,
+Vesterhavsgade 156 7680 Thyborøn,156,190000.0,05-11-1999,Alm.,0,6,Villa,212,1932,
+Vesterhavsgade 24 7680 Thyborøn,24,474312.0,01-10-1999,Alm.,2857,6,Villa,166,1929,
+Drosselvej 5 7680 Thyborøn,5,650000.0,01-10-1999,Fam.,0,5,Villa,168,1968,
+Mågevej 19 7680 Thyborøn,19,307500.0,07-09-1999,Alm.,3236,4,Villa,95,1950,
+Sprogøvej 74A 7680 Thyborøn,0,775000.0,26-08-1999,Alm.,5065,5,Villa,153,1978,
+Morsøvej 16 7680 Thyborøn,16,650000.0,15-07-1999,Alm.,0,5,Villa,150,1975,
+Bredgade 33 7680 Thyborøn,33,825000.0,19-05-1999,Alm.,2854,8,Villa,289,1965,
+Drejøvej 61 7680 Thyborøn,61,600000.0,19-05-1999,Alm.,4615,4,Villa,130,1977,
+Fasanvej 10 7680 Thyborøn,10,490000.0,10-05-1999,Alm.,3202,6,Villa,153,1966,
+Bredgade 28 7680 Thyborøn,28,400000.0,03-05-1999,Alm.,3076,4,Villa,130,1958,
+Rypevej 3 7680 Thyborøn,3,810000.0,16-04-1999,Alm.,4050,5,Villa,200,1968,
+Sprogøvej 35 7680 Thyborøn,35,675000.0,11-03-1999,Alm.,0,5,Villa,150,1981,
+Anholtvej 21 7680 Thyborøn,21,554508.0,04-03-1999,Alm.,4582,4,Villa,121,1973,
+Drejøvej 49 7680 Thyborøn,49,1091000.0,22-01-1999,Alm.,6129,6,Villa,178,1977,
+Harboørevej 18 7680 Thyborøn,18,490000.0,12-01-1999,Alm.,3141,5,Villa,156,1967,
+Ærøvej 7 7680 Thyborøn,7,785000.0,11-01-1999,Alm.,4109,8,Villa,191,1979,
+Drejøvej 13 7680 Thyborøn,13,1031000.0,24-11-1998,Alm.,5053,6,Villa,204,1977,
+Ærøvej 7A 7680 Thyborøn,0,1050000.0,16-11-1998,Alm.,4411,8,Villa,238,1976,
+Jegindøvej 12 7680 Thyborøn,12,800000.0,09-11-1998,Alm.,4761,6,Villa,168,1976,
+Jegindøvej 10 7680 Thyborøn,10,624999.0,29-10-1998,Alm.,4734,4,Villa,132,1976,
+Vesterhavsgade 134B 7680 Thyborøn,0,190000.0,27-10-1998,Fam.,2405,2,Villa,79,1937,
+Sprogøvej 151A 7680 Thyborøn,0,455000.0,29-09-1998,Alm.,3956,4,Rækkehus,115,1982,
+Sprogøvej 95 7680 Thyborøn,95,768463.0,14-09-1998,Andet,4574,6,Villa,168,1981,
+Sprogøvej 64 7680 Thyborøn,64,666000.0,08-09-1998,Alm.,3041,7,Villa,219,1978,
+Fjordgade 5 7680 Thyborøn,5,360000.0,24-07-1998,Alm.,2057,6,Villa,175,1945,
+Vesterhavsgade 147 7680 Thyborøn,147,6000.0,21-07-1998,Auktion,82,3,Villa,73,1920,
+Kirkevej 7 7680 Thyborøn,7,401000.0,30-04-1998,Alm.,2372,6,Villa,169,1942,
+Vesterhavsgade 145 7680 Thyborøn,145,250000.0,09-03-1998,Fam.,1666,6,Villa,150,1945,
+Furvej 2 7680 Thyborøn,2,810000.0,28-02-1998,Alm.,4009,5,Villa,202,1975,
+Sprogøvej 99 7680 Thyborøn,99,86310.0,19-02-1998,Alm.,504,5,Villa,171,1998,
+Kirkevej 12B 7680 Thyborøn,0,595000.0,29-12-1997,Fam.,2380,7,Villa,250,1964,
+Sprogøvej 97 7680 Thyborøn,97,76680.0,17-12-1997,Alm.,488,5,Villa,157,1998,
+Sprogøvej 48C 7680 Thyborøn,0,503362.0,20-11-1997,Alm.,4229,4,Rækkehus,119,1982,
+Nordkap 1 7680 Thyborøn,1,491489.0,03-09-1997,Alm.,3276,5,Villa,150,1961,
+Glentevej 9 7680 Thyborøn,9,550000.0,15-08-1997,Fam.,0,8,Villa,193,1958,
+Vesterhavsgade 120 7680 Thyborøn,120,55000.0,11-07-1997,Alm.,381,6,Villa,144,1997,
+Vesterhavsgade 108 7680 Thyborøn,108,252976.0,13-06-1997,Alm.,2874,2,Villa,88,1929,
+Jagtvej 10A 7680 Thyborøn,0,695000.0,12-06-1997,Alm.,5346,6,Villa,130,1907,
+Ternevej 9 7680 Thyborøn,9,323000.0,15-05-1997,Fam.,2647,4,Villa,122,1951,
+Mågevej 9 7680 Thyborøn,9,550000.0,22-04-1997,Alm.,4741,4,Villa,116,1949,
+Samsøvej 3 7680 Thyborøn,3,545000.0,17-04-1997,Alm.,0,5,Villa,133,1971,
+Drejøvej 5A 7680 Thyborøn,0,756923.0,14-04-1997,Alm.,0,8,Villa,220,1977,
+Ærøvej 13 7680 Thyborøn,13,899625.0,04-03-1997,Alm.,0,13,Villa,320,1984,
+Vesterhavsgade 135 7680 Thyborøn,135,374611.0,24-02-1997,Alm.,2116,4,Villa,177,1937,
+Mågevej 23 7680 Thyborøn,23,386967.0,24-01-1997,Alm.,2198,5,Villa,176,1960,
+Nordkap 4 7680 Thyborøn,4,375491.0,23-01-1997,Alm.,2980,5,Villa,126,1962,
+Sprogøvej 161 7680 Thyborøn,161,670000.0,20-01-1997,Alm.,5677,4,Villa,118,1989,
+Fanøvej 11 7680 Thyborøn,11,595000.0,17-01-1997,Alm.,0,4,Villa,130,1941,
+Klitvej 15 7680 Thyborøn,15,140000.0,08-01-1997,Andet,1573,3,Villa,89,1997,
+Vesterhavsgade 37 7680 Thyborøn,37,169000.0,05-11-1996,Fam.,1157,5,Villa,146,1931,
+Drosselvej 1 7680 Thyborøn,1,425000.0,08-10-1996,Fam.,0,8,Villa,186,1968,
+Vesterhavsgade 124 7680 Thyborøn,124,240000.0,06-10-1996,Alm.,1832,6,Villa,131,1931,
+Anholtvej 17 7680 Thyborøn,17,635735.0,25-09-1996,Alm.,4155,5,Villa,153,1973,
+Drejøvej 37 7680 Thyborøn,37,602372.0,19-09-1996,Alm.,3741,5,Villa,161,1977,
+Svanegade 1C 7680 Thyborøn,0,98000.0,19-08-1996,Alm.,1272,2,Villa,77,1934,
+Sprogøvej 14 7680 Thyborøn,14,800000.0,25-07-1996,Alm.,3738,9,Villa,214,1978,
+Digevej 7 7680 Thyborøn,7,150000.0,03-07-1996,Fam.,0,5,Villa,132,1954,
+Glentevej 10 7680 Thyborøn,10,475000.0,17-06-1996,Alm.,5397,3,Villa,88,1958,
+Johnny Madsens Vej 5 7680 Thyborøn,5,90000.0,30-04-1996,Alm.,1058,3,Villa,85,2002,
+Vesterhavsgade 48 7680 Thyborøn,48,307000.0,30-03-1996,Fam.,2046,4,Villa,150,1935,
+Rypevej 5 7680 Thyborøn,5,650000.0,21-03-1996,Alm.,4193,6,Villa,155,1969,
+Rømøvej 3 7680 Thyborøn,3,120000.0,19-03-1996,Alm.,1318,3,Villa,91,1953,
+Vesterhavsgade 188 7680 Thyborøn,188,235000.0,16-03-1996,Alm.,2136,4,Villa,110,1942,
+Morsøvej 16A 7680 Thyborøn,0,743000.0,28-12-1995,Alm.,3423,6,Villa,217,1976,
+Vesterhavsgade 144 7680 Thyborøn,144,295000.0,21-12-1995,Alm.,2783,3,Villa,106,1897,
+Fjordgade 7 7680 Thyborøn,7,636500.0,27-11-1995,Alm.,0,6,Villa,245,1951,
+Glentevej 13 7680 Thyborøn,13,320000.0,15-11-1995,Fam.,2644,4,Villa,121,1958,
+Vesterhavsgade 13 7680 Thyborøn,13,420000.0,17-10-1995,Alm.,2709,5,Villa,155,1958,
+Drejøvej 57 7680 Thyborøn,57,680000.0,17-10-1995,Alm.,3285,7,Villa,207,1977,
+Sneglevej 11 7680 Thyborøn,11,56533.0,06-08-1995,Fam.,628,3,Villa,90,1946,
+Mågevej 15 7680 Thyborøn,15,340000.0,03-07-1995,Fam.,2720,5,Villa,125,1952,
+Sprogøvej 133 7680 Thyborøn,133,832104.0,19-04-1995,Alm.,0,8,Villa,230,1986,
+Drejøvej 7 7680 Thyborøn,7,563000.0,23-03-1995,Alm.,0,7,Villa,256,1977,
+Sprogøvej 34 7680 Thyborøn,34,386764.0,13-02-1995,Alm.,3829,3,Rækkehus,101,1978,
+Anholtvej 11A 7680 Thyborøn,0,270401.0,10-02-1995,Fam.,1519,5,Villa,178,1973,
+Vesterhavsgade 132A 7680 Thyborøn,0,175000.0,31-01-1995,Alm.,0,7,Villa,165,1940,
+Sprogøvej 145 7680 Thyborøn,145,434903.0,23-01-1995,Fam.,0,3,Rækkehus,100,1980,
+Nordkap 12 7680 Thyborøn,12,235000.0,16-01-1995,Alm.,2350,4,Villa,100,1960,
+Vesterhavsgade 1A 7680 Thyborøn,0,361000.0,10-09-1994,Alm.,1671,4,Villa,216,1973,
+Sprogøvej 110 7680 Thyborøn,110,395000.0,29-07-1994,Fam.,3160,3,Villa,125,1979,
+Lærkevej 7 7680 Thyborøn,7,440000.0,18-07-1994,Fam.,2444,7,Villa,180,1962,
+Sprogøvej 44 7680 Thyborøn,44,901800.0,31-05-1994,Alm.,0,9,Villa,323,1980,
+Sprogøvej 60 7680 Thyborøn,60,467000.0,30-05-1994,Alm.,2830,5,Villa,165,1978,
+Ternevej 23 7680 Thyborøn,23,335000.0,11-05-1994,Fam.,2617,4,Villa,128,1960,
+Sprogøvej 11A 7680 Thyborøn,0,465000.0,28-03-1994,Alm.,3690,5,Villa,126,1981,
+Sprogøvej 28 7680 Thyborøn,28,365000.0,11-02-1994,Alm.,3613,3,Rækkehus,101,1978,
+Fasanvej 24 7680 Thyborøn,24,460000.0,17-12-1993,Alm.,2486,6,Villa,185,1969,
+Drejøvej 31 7680 Thyborøn,31,550000.0,06-11-1993,Alm.,4583,4,Villa,120,1977,
+Fasanvej 15 7680 Thyborøn,15,263500.0,29-10-1993,Fam.,2583,4,Villa,102,1965,
+Morsøvej 19 7680 Thyborøn,19,409357.0,27-09-1993,Fam.,2046,4,Villa,200,1975,
+Sprogøvej 5A 7680 Thyborøn,0,668406.0,25-07-1993,Alm.,0,6,Villa,196,1980,
+Sprogøvej 70A 7680 Thyborøn,0,572000.0,06-07-1993,Alm.,4028,5,Villa,142,1978,
+Jagtvej 2 7680 Thyborøn,2,70000.0,29-04-1993,Alm.,933,4,Villa,75,1942,
+Furvej 13 7680 Thyborøn,13,575000.0,06-02-1993,Alm.,3885,5,Villa,148,1974,
+Lærkevej 44 7680 Thyborøn,44,475000.0,27-01-1993,Alm.,3958,5,Villa,120,1967,
+Lærkevej 33 7680 Thyborøn,33,555000.0,13-01-1993,Alm.,3908,5,Villa,142,1964,
+Mågevej 40A 7680 Thyborøn,0,390000.0,27-12-1992,Alm.,3679,3,Villa,106,1960,
+Kirkevej 11 7680 Thyborøn,11,285000.0,01-10-1992,Alm.,2035,3,Villa,140,1954,
+Rypevej 14 7680 Thyborøn,14,330000.0,01-10-1992,Alm.,2558,5,Villa,129,1967,
+Sprogøvej 13A 7680 Thyborøn,0,650000.0,28-09-1992,Alm.,5327,4,Villa,122,1987,
+Anholtvej 19A 7680 Thyborøn,0,394000.0,17-08-1992,Auktion,3426,4,Villa,115,1973,
+Fanøvej 3 7680 Thyborøn,3,400000.0,23-03-1992,Fam.,2272,6,Villa,176,1939,
+Jegindøvej 13A 7680 Thyborøn,0,600000.0,09-03-1992,Alm.,3260,5,Villa,184,1976,
+Fjordgade 9 7680 Thyborøn,9,510000.0,02-03-1992,Fam.,0,5,Villa,152,1949,
+Sprogøvej 24 7680 Thyborøn,24,450000.0,28-02-1992,Alm.,3308,5,Villa,136,1978,
+Vesterhavsgade 138 7680 Thyborøn,138,425000.0,17-02-1992,Alm.,0,4,Villa,177,1905,
+Sprogøvej 115 7680 Thyborøn,115,710100.0,17-02-1992,Alm.,5072,5,Villa,140,1987,
+Anholtvej 6 7680 Thyborøn,6,550000.0,10-01-1992,Fam.,3716,4,Villa,148,1973,
+Thurøvej 16A 7680 Thyborøn,0,595000.0,09-01-1992,Alm.,4103,5,Villa,145,1970,

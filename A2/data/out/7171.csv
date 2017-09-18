@@ -1,0 +1,530 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Åparken 22 7171 Uldum,22,487500.0,28-04-2017,Alm.,3869,5,Villa,126,1973,
+Skrædderbakken 9 7171 Uldum,9,455000.0,25-04-2017,Alm.,3421,4,Villa,133,1900,-8 %
+Nørregade 10 7171 Uldum,10,1775000.0,21-04-2017,Alm.,9861,6,Villa,180,1924,-4 %
+Fælledvej 15 7171 Uldum,15,2200000.0,14-04-2017,Fam.,7357,7,Stuehus,299,1925,
+Solsortevej 15 7171 Uldum,15,468253.0,14-04-2017,Alm.,3716,4,Villa,126,1973,
+Nørregade 17 7171 Uldum,17,700000.0,10-03-2017,Alm.,6034,4,Villa,116,1905,-10 %
+Fælledvej 14 7171 Uldum,14,1435000.0,06-03-2017,Alm.,7247,6,Villa,198,1965,0 %
+Kalhavevej 54 7171 Uldum,54,1975000.0,05-02-2017,Alm.,10505,6,Villa,188,1928,-1 %
+Skrædderbakken 10 7171 Uldum,10,275000.0,20-01-2017,Alm.,4435,2,Villa,62,1900,-7 %
+Vestergade 18 7171 Uldum,18,1200000.0,04-01-2017,Fam.,10256,4,Villa,117,1971,
+Industrivej 18 7171 Uldum,18,1050000.0,31-12-2016,Alm.,6521,5,Villa,161,1972,
+Hvilehøjparken 10A 7171 Uldum,0,880000.0,30-12-2016,Andet,11000,3,Rækkehus,80,1988,
+Fælledvej 13 7171 Uldum,13,2849500.0,16-12-2016,Fam.,9963,7,Villa,286,2009,
+Kærvejen 2 7171 Uldum,2,630000.0,05-12-2016,Alm.,7159,4,Villa,88,1964,-16 %
+Rosenvænget 4 7171 Uldum,4,1900000.0,05-12-2016,Alm.,8837,8,Villa,215,1974,-13 %
+Kirkegade 9 7171 Uldum,9,1300000.0,02-12-2016,Fam.,6842,7,Villa,190,1907,
+Haurumvej 3 7171 Uldum,3,360000.0,28-11-2016,Alm.,3600,4,Villa,100,1926,
+Kærvejen 26 7171 Uldum,26,920000.0,22-11-2016,Alm.,11500,3,Villa,80,1959,-8 %
+Åparken 11 7171 Uldum,11,810000.0,21-11-2016,Alm.,6480,5,Villa,125,1970,-4 %
+Skanderborgvej 25 7171 Uldum,25,895000.0,28-10-2016,Alm.,6729,5,Villa,133,1938,0 %
+Industrivej 24 7171 Uldum,24,1275000.0,10-10-2016,Alm.,7412,6,Villa,172,1978,-9 %
+Fasanvej 2 7171 Uldum,2,445000.0,04-10-2016,Alm.,4635,3,Villa,96,1900,0 %
+Uldum Hedevej 12 7171 Uldum,12,2055000.0,26-09-2016,Alm.,10873,7,Villa,189,1900,8 %
+Østerled 10 7171 Uldum,10,1100000.0,06-09-2016,Alm.,10000,3,Villa,110,1969,
+Bøgballevej 125 7171 Uldum,125,540705.0,30-08-2016,Andet,3180,6,Villa,170,1935,
+Bygaden 3 7171 Uldum,3,830000.0,30-08-2016,Alm.,6102,4,Villa,136,1988,-30 %
+Langagervej 29 7171 Uldum,29,750000.0,25-08-2016,Alm.,5281,4,Villa,142,1900,-6 %
+Kirketoften 1 7171 Uldum,1,700000.0,15-08-2016,Alm.,4294,5,Villa,163,1950,
+Bøgballevej 108 7171 Uldum,108,650000.0,12-08-2016,Alm.,6190,5,Stuehus,105,1940,
+Bøgballevej 77 7171 Uldum,77,339750.0,07-07-2016,Alm.,3502,4,Stuehus,97,1904,
+Hesselballevej 38 7171 Uldum,38,1900000.0,13-06-2016,Alm.,11515,3,Villa,165,1910,-5 %
+Bøgballevej 92 7171 Uldum,92,194428.0,06-06-2016,Fam.,1287,5,Villa,151,1962,
+Vestergade 3 7171 Uldum,3,875000.0,06-06-2016,Alm.,8027,3,Villa,109,1966,
+Nørregade 19 7171 Uldum,19,480000.0,03-06-2016,Alm.,5517,2,Villa,87,1900,7 %
+Kalhave Byvej 2 7171 Uldum,2,1795000.0,04-05-2016,Alm.,8427,6,Villa,213,1900,0 %
+Haurumvej 7 7171 Uldum,7,771550.0,07-04-2016,Alm.,3571,7,Stuehus,216,1961,
+Ørum Skovvej 28 7171 Uldum,28,2498000.0,29-03-2016,Alm.,16993,3,Stuehus,147,1924,
+Skanderborgvej 55 7171 Uldum,55,1150000.0,22-03-2016,Alm.,15333,3,Stuehus,75,1907,
+Industrivej 13 7171 Uldum,13,1900000.0,22-03-2016,Alm.,9405,6,Villa,202,1974,
+Ørumvej 2 7171 Uldum,2,470000.0,02-03-2016,Alm.,4159,4,Villa,113,1877,-5 %
+Kalhavevej 68 7171 Uldum,68,200000.0,29-02-2016,Alm.,1388,5,Villa,144,2017,
+Bøgballevej 51 7171 Uldum,51,1550000.0,23-02-2016,Alm.,9011,6,Villa,172,1760,0 %
+Højskolebakken 6 7171 Uldum,6,850000.0,19-02-2016,Alm.,4696,4,Villa,181,1900,-10 %
+Kalhavevej 63 7171 Uldum,63,280000.0,08-01-2016,Auktion,2074,4,Villa,135,1930,
+Københavnervej 2 7171 Uldum,2,1536500.0,24-12-2015,Alm.,9603,3,Villa,160,1882,
+Kærvejen 22 7171 Uldum,22,820000.0,23-12-2015,Alm.,9425,3,Villa,87,1959,-8 %
+Lillekongens Ager 28 7171 Uldum,28,245000.0,22-12-2015,Alm.,1914,4,Villa,128,2016,
+Bøgballevej 118 7171 Uldum,118,900000.0,21-12-2015,Alm.,6818,4,Villa,132,1908,
+Bøgballevej 53 7171 Uldum,53,2925000.0,21-12-2015,Alm.,10263,7,Villa,285,2008,-2 %
+Lillekongens Ager 2 7171 Uldum,2,1840000.0,09-12-2015,Alm.,11794,5,Villa,156,2008,-3 %
+Langagervej 23 7171 Uldum,23,2700000.0,09-12-2015,Alm.,21600,4,Stuehus,125,2009,
+Skolegade 8 7171 Uldum,8,835000.0,13-11-2015,Alm.,9277,3,Villa,90,1963,-14 %
+Hesselballevej 21 7171 Uldum,21,18940000.0,23-10-2015,Alm.,88920,8,Stuehus,213,1915,
+Skanderborgvej 19 7171 Uldum,19,360000.0,14-10-2015,Alm.,2250,4,Villa,160,1902,-3 %
+Åbrinken 9 7171 Uldum,9,1050000.0,12-10-2015,Alm.,7664,4,Villa,137,1975,-16 %
+Ørum Skovvej 25 7171 Uldum,25,1630000.0,07-10-2015,Alm.,8624,6,Villa,189,1912,-1 %
+Hesselballevej 16 7171 Uldum,16,600000.0,07-10-2015,Alm.,3750,5,Villa,160,1871,
+Hesselballevej 24 7171 Uldum,24,654431.0,24-09-2015,Alm.,3918,6,Villa,167,1909,
+Nørregade 32G 7171 Uldum,0,515000.0,30-07-2015,Alm.,6358,3,Rækkehus,81,1982,-10 %
+Bakkegårdsparken 1 7171 Uldum,1,1065000.0,09-07-2015,Alm.,7294,5,Villa,146,1974,-3 %
+Nørregade 21 7171 Uldum,21,1325000.0,03-07-2015,Alm.,8892,5,Villa,149,1928,
+Østerled 3 7171 Uldum,3,751000.0,30-06-2015,Alm.,5179,6,Villa,145,1927,0 %
+Åparken 15 7171 Uldum,15,925000.0,29-06-2015,Alm.,7520,4,Villa,123,1971,
+Åparken 17 7171 Uldum,17,735000.0,25-06-2015,Alm.,8258,4,Villa,89,1967,-8 %
+Kærvejen 34 7171 Uldum,34,2300000.0,22-06-2015,Alm.,8646,7,Villa,266,1900,-20 %
+Langagervej 12 7171 Uldum,12,2000000.0,17-06-2015,Alm.,10204,9,Villa,196,1895,-9 %
+Bøgballevej 68 7171 Uldum,68,1600000.0,12-06-2015,Auktion,10256,5,Stuehus,156,1914,
+Lillekongens Ager 26 7171 Uldum,26,225000.0,08-06-2015,Alm.,1584,5,Villa,142,2016,
+Langagervej 26 7171 Uldum,26,2600000.0,21-05-2015,Alm.,17687,5,Villa,147,2004,-4 %
+Vesterled 5 7171 Uldum,5,985000.0,15-05-2015,Alm.,6566,4,Villa,150,1916,-8 %
+"Søndergade 2, 1 7171 Uldum",1,1995000.0,06-05-2015,Alm.,17198,3,Lejlighed,116,1900,
+Kalhavevej 39 7171 Uldum,39,15300000.0,31-03-2015,Alm.,92727,7,Stuehus,165,1954,
+Nørregade 32 7171 Uldum,32,775000.0,23-03-2015,Alm.,5132,5,Rækkehus,151,1967,-9 %
+Kirketoften 5 7171 Uldum,5,540000.0,23-03-2015,Alm.,4695,3,Villa,115,1963,-6 %
+Lillekongens Ager 16 7171 Uldum,16,1710000.0,17-03-2015,Alm.,11400,5,Villa,150,2007,-5 %
+Horsensvej 7 7171 Uldum,7,1040000.0,12-03-2015,Alm.,8739,5,Villa,119,1887,0 %
+Kalhavevej 65 7171 Uldum,65,1200000.0,10-03-2015,Alm.,6060,4,Villa,198,1850,-4 %
+Hvilehøjparken 5B 7171 Uldum,0,980000.0,02-03-2015,Alm.,7840,4,Rækkehus,125,1987,
+Bøgballevej 57 7171 Uldum,57,4625000.0,20-02-2015,Fam.,24732,6,Stuehus,187,1827,
+Lillekongens Ager 34 7171 Uldum,34,1475000.0,18-02-2015,Alm.,10535,5,Villa,140,2009,-8 %
+Industrivej 8 7171 Uldum,8,675000.0,07-02-2015,Alm.,6958,3,Villa,97,1967,
+Rosenvænget 2B 7171 Uldum,0,475000.0,28-01-2015,Alm.,7661,2,Rækkehus,62,1984,-5 %
+Rosenvænget 27 7171 Uldum,27,568182.0,17-01-2015,Alm.,3713,5,Villa,153,1986,
+Vestergade 9 7171 Uldum,9,740000.0,07-01-2015,Alm.,4933,5,Villa,150,1970,-7 %
+Nørregade 25 7171 Uldum,25,43750.0,16-12-2014,Alm.,416,4,Villa,105,1934,
+Bakkegårdsparken 4 7171 Uldum,4,1325000.0,04-12-2014,Alm.,9397,4,Villa,141,1976,-5 %
+Østerled 2 7171 Uldum,2,668000.0,04-11-2014,Alm.,5758,6,Villa,116,1900,-4 %
+Ørum Skovvej 22 7171 Uldum,22,1450000.0,25-10-2014,Fam.,7073,9,Stuehus,205,1912,
+Åbrinken 45 7171 Uldum,45,1250000.0,16-09-2014,Alm.,9328,5,Villa,134,1986,
+I P Hansens Vej 14 7171 Uldum,14,650000.0,29-08-2014,Alm.,3155,10,Villa,206,1900,0 %
+Kalhave Byvej 3 7171 Uldum,3,537500.0,27-08-2014,Fam.,2488,7,Villa,216,1966,
+Skolegade 13 7171 Uldum,13,610000.0,27-08-2014,Alm.,5126,4,Villa,119,1948,-5 %
+Bøgballevej 39 7171 Uldum,39,2495000.0,15-08-2014,Alm.,10020,10,Villa,249,1871,0 %
+Haurumvej 11 7171 Uldum,11,1840000.0,30-07-2014,Alm.,10952,6,Villa,168,1900,
+Lærkevej 2 7171 Uldum,2,1040000.0,03-07-2014,Alm.,7761,4,Villa,134,1999,-3 %
+Sebastiansvej 5 7171 Uldum,5,950000.0,08-06-2014,Fam.,7089,4,Villa,134,1995,-13 %
+Sønderløkke 4 7171 Uldum,4,1950000.0,12-05-2014,Alm.,13448,6,Villa,145,2005,-2 %
+Hesselballevej 31 7171 Uldum,31,250000.0,14-04-2014,Alm.,1592,4,Villa,157,1900,-37 %
+Fælledvej 36 7171 Uldum,36,5400000.0,04-04-2014,Alm.,16363,8,Stuehus,330,2006,
+Industrivej 10 7171 Uldum,10,700000.0,31-03-2014,Alm.,6306,4,Villa,111,1970,-11 %
+Bøgballevej 59 7171 Uldum,59,500000.0,21-03-2014,Auktion,5000,5,Industri o.l.,100,1962,
+Hvilehøjparken 3B 7171 Uldum,0,1820000.0,04-03-2014,Alm.,10963,6,Villa,166,2002,-9 %
+Kirkegade 10 7171 Uldum,10,575000.0,14-11-2013,Alm.,7187,3,Villa,80,1955,-17 %
+Fasanvej 7 7171 Uldum,7,670000.0,13-11-2013,Alm.,4557,6,Villa,147,1900,-39 %
+Bøgballevej 120 7171 Uldum,120,998000.0,07-11-2013,Alm.,7447,3,Villa,134,1900,0 %
+Industrivej 4 7171 Uldum,4,1025000.0,01-10-2013,Alm.,8134,5,Villa,126,1965,-2 %
+Nørregade 32C 7171 Uldum,0,600000.0,27-09-2013,Alm.,6666,3,Rækkehus,90,1982,-14 %
+Skrædderbakken 1 7171 Uldum,1,459855.0,12-09-2013,Auktion,1389,12,Villa,331,1913,
+Sønderløkke 12 7171 Uldum,12,1840000.0,05-08-2013,Alm.,13237,5,Villa,139,2003,-8 %
+Åbrinken 33 7171 Uldum,33,1250000.0,30-07-2013,Alm.,8992,5,Villa,139,1975,-10 %
+Skanderborgvej 23 7171 Uldum,23,4450000.0,28-06-2013,Andet,26969,6,Villa,165,1890,
+Kærvejen 6 7171 Uldum,6,700000.0,17-06-2013,Alm.,4575,5,Villa,153,1929,
+Østerled 16 7171 Uldum,16,1600000.0,08-06-2013,Alm.,8247,6,Villa,194,1935,-16 %
+Åbrinken 5 7171 Uldum,5,975000.0,04-06-2013,Alm.,8333,4,Villa,117,1976,-2 %
+Uldum Hedevej 5 7171 Uldum,5,1010000.0,17-05-2013,Alm.,8487,5,Stuehus,119,1902,-33 %
+Industrivej 6 7171 Uldum,6,750000.0,10-05-2013,Alm.,6302,4,Villa,119,1967,-6 %
+Industrisvinget 1 7171 Uldum,1,1000000.0,19-04-2013,Alm.,9523,3,Villa,105,1987,-9 %
+Dortheasvej 6 7171 Uldum,6,795000.0,19-03-2013,Alm.,5482,6,Villa,145,1900,-11 %
+Hesselballevej 37 7171 Uldum,37,1546500.0,30-01-2013,Fam.,7930,6,Stuehus,195,1890,
+Nørregade 85 7171 Uldum,85,1795000.0,22-12-2012,Alm.,5084,13,Villa,353,1975,-10 %
+Bøgballevej 104 7171 Uldum,104,895000.0,20-12-2012,Alm.,4566,7,Villa,196,1964,-5 %
+Skanderborgvej 54 7171 Uldum,54,200000.0,14-12-2012,Auktion,1058,5,Villa,189,1970,-78 %
+Nørregade 23 7171 Uldum,23,500000.0,19-11-2012,Alm.,4424,4,Villa,113,1930,-9 %
+Åparken 25 7171 Uldum,25,1200000.0,29-10-2012,Alm.,6557,7,Villa,183,1973,-6 %
+Sechersvej 1 7171 Uldum,1,300000.0,26-10-2012,Alm.,2884,4,Villa,104,1877,-25 %
+Kirkegade 16 7171 Uldum,16,1750000.0,15-10-2012,Alm.,5271,12,Villa,332,1879,-12 %
+Industrisvinget 7 7171 Uldum,7,1400000.0,01-10-2012,Alm.,8641,6,Villa,162,1977,-6 %
+Dortheasvej 2 7171 Uldum,2,1200000.0,26-09-2012,Fam.,5607,6,Villa,214,1920,
+Langagervej 6 7171 Uldum,6,175000.0,06-09-2012,Auktion,1822,4,Villa,96,1879,-65 %
+Østerled 4 7171 Uldum,4,450000.0,28-08-2012,Alm.,5232,4,Villa,86,1880,
+Skrædderbakken 1A 7171 Uldum,0,1745000.0,23-08-2012,Alm.,9858,5,Villa,177,2003,-3 %
+Skrædderbakken 3 7171 Uldum,3,1475000.0,23-08-2012,Alm.,10387,6,Villa,142,1860,-1 %
+Fasanvej 3 7171 Uldum,3,463000.0,17-08-2012,Alm.,7982,3,Villa,58,1827,-15 %
+Horsensvej 4 7171 Uldum,4,550000.0,12-07-2012,Alm.,2350,7,Villa,234,1890,
+Bøgballevej 67 7171 Uldum,67,1750000.0,11-07-2012,Alm.,9459,5,Villa,185,2001,17 %
+Bakkegårdsparken 3 7171 Uldum,3,880000.0,15-06-2012,Alm.,7333,3,Villa,120,1976,
+Vestergade 21 7171 Uldum,21,190000.0,14-06-2012,Alm.,1338,5,Villa,142,2015,-39 %
+Kalhave Byvej 1 7171 Uldum,1,425000.0,11-06-2012,Alm.,5059,3,Villa,84,1961,-11 %
+Bøgballevej 55 7171 Uldum,55,825000.0,02-05-2012,Auktion,4187,5,Villa,197,1959,
+Kærvejen 3 7171 Uldum,3,291218.0,18-04-2012,Andet,2240,4,Villa,130,1917,
+Højskolebakken 2 7171 Uldum,2,3295678.0,13-03-2012,Alm.,21126,5,Villa,156,1929,
+Bøgballevej 99 7171 Uldum,99,6035000.0,15-12-2011,Fam.,16810,10,Stuehus,359,1981,
+Åparken 29 7171 Uldum,29,895000.0,15-12-2011,Alm.,6580,4,Villa,136,1973,
+Åparken 18 7171 Uldum,18,1175000.0,27-11-2011,Alm.,7833,6,Villa,150,1970,
+Industrivej 2A 7171 Uldum,0,960000.0,27-10-2011,Alm.,8421,3,Villa,114,2007,-4 %
+Langagervej 24 7171 Uldum,24,1254776.0,29-07-2011,Alm.,9294,4,Villa,135,2004,
+Fælledvej 30 7171 Uldum,30,2000000.0,31-05-2011,Alm.,6289,9,Stuehus,318,1924,
+Fælledvej 12B 7171 Uldum,0,1172220.0,09-05-2011,Alm.,5074,5,Villa,231,2007,
+Haurumvej 6 7171 Uldum,6,1434750.0,29-04-2011,Auktion,8540,5,Villa,168,1955,
+Uldum Hedevej 7 7171 Uldum,7,2358000.0,18-03-2011,Fam.,11282,6,Stuehus,209,1928,
+Nørregade 49 7171 Uldum,49,750000.0,15-03-2011,Fam.,4777,4,Villa,157,1950,
+Hesselballevej 26 7171 Uldum,26,770925.0,16-02-2011,Alm.,4282,5,Villa,180,1927,
+Hesselballevej 27 7171 Uldum,27,1295000.0,16-11-2010,Alm.,9664,6,Villa,134,1900,0 %
+Lærkevej 6 7171 Uldum,6,1050000.0,09-11-2010,Alm.,8974,4,Villa,117,1973,-9 %
+Engelgårdsvej 2 7171 Uldum,2,290000.0,21-10-2010,Auktion,2213,6,Villa,131,1960,
+Ribevej 8 7171 Uldum,8,100000.0,18-10-2010,Alm.,490,8,Stuehus,204,1992,
+Langagervej 27 7171 Uldum,27,1550000.0,12-10-2010,Alm.,9748,6,Villa,159,1971,-5 %
+Bakkegårdsparken 15 7171 Uldum,15,1280000.0,25-09-2010,Alm.,10756,4,Villa,119,1976,-3 %
+Mågevej 5 7171 Uldum,5,1400000.0,21-07-2010,Alm.,9523,5,Villa,147,1973,
+Bøgballevej 75 7171 Uldum,75,10000.0,30-06-2010,Alm.,77,4,Stuehus,129,1913,
+Højskolebakken 1 7171 Uldum,1,1390000.0,28-06-2010,Alm.,9928,5,Villa,140,1900,-2 %
+Vestergade 6 7171 Uldum,6,1375000.0,04-06-2010,Alm.,6840,6,Villa,201,1968,-5 %
+Hvilehøjparken 7 7171 Uldum,7,718000.0,02-06-2010,Fam.,4692,5,Villa,153,1991,
+Lillekongens Ager 24 7171 Uldum,24,390000.0,28-04-2010,Alm.,2378,6,Villa,164,2010,
+Ribevej 6 7171 Uldum,6,225000.0,27-04-2010,Alm.,1300,3,Villa,173,1920,
+Kalhavevej 56 7171 Uldum,56,1633000.0,23-04-2010,Alm.,12561,5,Villa,130,1984,-5 %
+Søndergade 4 7171 Uldum,4,625000.0,16-04-2010,Auktion,3654,5,Villa,171,1890,
+Kærvejen 42 7171 Uldum,42,150000.0,14-04-2010,Alm.,714,6,Stuehus,210,1870,
+Kærvejen 47 7171 Uldum,47,440000.0,29-03-2010,Alm.,2352,5,Villa,187,2008,
+Hesselballevej 29 7171 Uldum,29,1309000.0,25-03-2010,Alm.,9417,4,Villa,139,1977,
+Industrivej 12 7171 Uldum,12,800000.0,16-03-2010,Alm.,9195,3,Villa,87,1971,
+Bakken 4 7171 Uldum,4,2375000.0,04-03-2010,Alm.,7890,7,Villa,301,1919,-7 %
+Nørregade 5 7171 Uldum,5,795000.0,23-02-2010,Alm.,7227,3,Villa,110,1936,0 %
+Søndergade 3 7171 Uldum,3,1150000.0,09-02-2010,Alm.,6424,5,Villa,179,1930,-8 %
+Nørregade 69 7171 Uldum,69,975000.0,06-01-2010,Alm.,5357,5,Villa,182,1900,-9 %
+Åbrinken 27 7171 Uldum,27,1625000.0,10-12-2009,Alm.,10833,5,Villa,150,1986,-7 %
+Vestergade 20 7171 Uldum,20,762500.0,08-12-2009,Alm.,3910,7,Villa,195,1972,
+Skanderborgvej 46 7171 Uldum,46,1550000.0,30-11-2009,Alm.,11231,5,Villa,138,1934,-5 %
+Uldum Hedevej 2 7171 Uldum,2,533410.0,26-11-2009,Alm.,3292,6,Villa,162,1986,
+Hesselballevej 35 7171 Uldum,35,250000.0,06-11-2009,Auktion,1865,4,Villa,134,1930,
+Bakkegårdsparken 17 7171 Uldum,17,1150000.0,23-09-2009,Alm.,9583,4,Villa,120,1976,-2 %
+"Søndergade 21, 1 7171 Uldum",1,1000000.0,11-09-2009,Alm.,8695,5,Lejlighed,115,1896,-5 %
+Dortheasvej 12 7171 Uldum,12,795000.0,24-08-2009,Alm.,7162,3,Rækkehus,111,1900,0 %
+Skanderborgvej 11 7171 Uldum,11,9318630.0,13-08-2009,Alm.,48534,5,Stuehus,192,1856,
+I P Hansens Vej 6 7171 Uldum,6,750000.0,10-08-2009,Alm.,0,4,Villa,112,1963,-9 %
+Skolegade 20 7171 Uldum,20,1400000.0,30-07-2009,Alm.,8750,5,Villa,160,1958,
+Højskolebakken 17 7171 Uldum,17,340000.0,01-07-2009,Fam.,4927,2,Villa,69,1860,
+Ørumvej 4 7171 Uldum,4,845000.0,26-06-2009,Alm.,5868,5,Villa,144,1910,-6 %
+Kastanievej 1 7171 Uldum,1,652500.0,24-06-2009,Alm.,4906,4,Villa,133,1884,-10 %
+Mågevej 4 7171 Uldum,4,581000.0,04-06-2009,Alm.,3748,4,Villa,155,1972,-61 %
+Hesselballevej 33 7171 Uldum,33,1100000.0,20-04-2009,Andet,7096,5,Villa,155,1900,
+Haurumvej 15 7171 Uldum,15,1690000.0,08-04-2009,Alm.,8407,6,Villa,201,1935,-6 %
+Hvilehøjparken 4 7171 Uldum,4,1925000.0,01-04-2009,Alm.,12664,5,Villa,152,1997,-4 %
+Nørregade 2 7171 Uldum,2,975000.0,13-03-2009,Alm.,11607,3,Villa,84,1960,
+Skolegade 10 7171 Uldum,10,990000.0,09-03-2009,Fam.,6644,6,Villa,149,1940,
+Hvilehøjparken 3A 7171 Uldum,0,588216.0,07-10-2008,Andet,3722,6,Villa,158,1999,
+Langagervej 14 7171 Uldum,14,1620000.0,06-10-2008,Alm.,10451,5,Villa,155,1897,
+Skrædderbakken 7 7171 Uldum,7,800000.0,01-10-2008,Alm.,4597,6,Villa,174,1900,
+Åbrinken 43 7171 Uldum,43,1590000.0,30-09-2008,Alm.,10600,4,Villa,150,1977,
+Lillekongens Ager 22 7171 Uldum,22,602000.0,24-09-2008,Alm.,3670,4,Villa,164,2010,
+Åbrinken 29 7171 Uldum,29,1850000.0,27-08-2008,Alm.,12012,5,Villa,154,1980,
+Bøgballevej 41 7171 Uldum,41,11203573.0,12-08-2008,Alm.,48084,8,Stuehus,233,1907,
+Dortheasvej 8 7171 Uldum,8,1345000.0,06-07-2008,Alm.,8621,6,Villa,156,1907,0 %
+Skrædderbakken 6 7171 Uldum,6,1325000.0,25-06-2008,Alm.,7614,6,Villa,174,1980,-5 %
+I P Hansens Vej 2 7171 Uldum,2,910000.0,12-06-2008,Alm.,11375,3,Villa,80,1887,
+Søndergade 25 7171 Uldum,25,1100000.0,09-06-2008,Alm.,6666,8,Villa,165,1938,
+Nørregade 32E 7171 Uldum,0,731000.0,27-05-2008,Alm.,9371,3,Rækkehus,78,1982,
+Rosenvænget 9 7171 Uldum,9,1450000.0,20-05-2008,Alm.,10357,5,Villa,140,1980,-3 %
+Nørregade 14 7171 Uldum,14,950000.0,24-03-2008,Alm.,0,9,Villa,150,1929,
+Uldum Hedevej 8A 7171 Uldum,0,1550000.0,18-03-2008,Alm.,9337,5,Villa,166,1965,-3 %
+Industrivej 22 7171 Uldum,22,1750000.0,06-03-2008,Alm.,11824,6,Villa,148,1986,-1 %
+Søndergade 14 7171 Uldum,14,1200000.0,05-03-2008,Alm.,14814,10,Detailhandel,81,1877,-9 %
+Kærvejen 1B 7171 Uldum,0,550000.0,22-02-2008,Alm.,4782,4,Villa,115,1917,
+Åparken 5 7171 Uldum,5,1175000.0,16-01-2008,Alm.,10129,4,Villa,116,1971,
+Uldum Hedevej 16 7171 Uldum,16,1734900.0,12-12-2007,Alm.,9746,7,Stuehus,178,2007,
+Kærvejen 56 7171 Uldum,56,1475000.0,03-12-2007,Alm.,8939,5,Stuehus,165,2013,0 %
+Søndergade 6 7171 Uldum,6,970000.0,03-12-2007,Alm.,12435,3,Villa,78,1877,
+Haurumvej 18 7171 Uldum,18,800000.0,24-10-2007,Alm.,5128,4,Villa,156,1931,
+Lillekongens Ager 4 7171 Uldum,4,384364.0,16-10-2007,Alm.,2479,5,Villa,155,2009,
+Bøgballevej 126 7171 Uldum,126,1070000.0,10-10-2007,Alm.,10288,4,Villa,104,1980,-1 %
+Åbrinken 51 7171 Uldum,51,1450000.0,06-10-2007,Alm.,11153,4,Villa,130,1977,0 %
+Skolegade 21 7171 Uldum,21,1300000.0,21-09-2007,Alm.,10400,4,Villa,125,1949,-4 %
+Stationsvej 2 7171 Uldum,2,980000.0,14-09-2007,Alm.,7000,5,Villa,140,1922,
+Østervænget 2 7171 Uldum,2,426000.0,11-09-2007,Alm.,3276,5,Villa,130,1906,
+Rosenvænget 6 7171 Uldum,6,1825000.0,22-08-2007,Alm.,10863,8,Villa,168,1989,-3 %
+Hvilehøjparken 14 7171 Uldum,14,1600000.0,22-08-2007,Alm.,0,5,Villa,156,2001,3 %
+Horsensvej 1 7171 Uldum,1,725000.0,15-08-2007,Alm.,6359,4,Villa,114,1964,
+Vestergade 4 7171 Uldum,4,1576500.0,13-07-2007,Alm.,9383,6,Villa,168,1972,-1 %
+Skolegade 29 7171 Uldum,29,1000000.0,27-06-2007,Alm.,11904,3,Villa,84,1961,
+Nørregade 24 7171 Uldum,24,975000.0,25-06-2007,Alm.,9375,4,Villa,104,1964,
+Nørregade 12 7171 Uldum,12,1275000.0,18-06-2007,Alm.,7369,5,Villa,173,1925,-11 %
+Højskolebakken 4 7171 Uldum,4,1480000.0,08-06-2007,Alm.,5441,7,Villa,272,1900,-1 %
+Vestergade 7C 7171 Uldum,0,1445000.0,22-05-2007,Alm.,13379,4,Rækkehus,108,2005,
+Kalhavevej 49 7171 Uldum,49,1590000.0,16-05-2007,Alm.,0,6,Stuehus,189,1900,
+Rosenvænget 3 7171 Uldum,3,1425000.0,15-04-2007,Alm.,11875,3,Villa,120,1985,
+Solsortevej 3 7171 Uldum,3,1325000.0,03-04-2007,Alm.,10192,4,Villa,130,1972,0 %
+Lillekongens Ager 10 7171 Uldum,10,394364.0,02-04-2007,Alm.,2347,6,Villa,168,2008,
+Skolegade 24 7171 Uldum,24,1400000.0,26-03-2007,Alm.,8000,6,Villa,175,1961,-6 %
+Hesselballevej 20 7171 Uldum,20,1500000.0,12-02-2007,Alm.,9677,4,Villa,155,1900,0 %
+Vestergade 11 7171 Uldum,11,1330000.0,26-01-2007,Alm.,7112,5,Villa,187,1975,-3 %
+Kirkegade 15 7171 Uldum,15,460000.0,22-01-2007,Alm.,4466,3,Villa,103,1930,
+Åbrinken 49 7171 Uldum,49,1200000.0,19-01-2007,Alm.,8333,5,Villa,144,1977,-11 %
+Industrivej 20 7171 Uldum,20,1080000.0,09-01-2007,Alm.,9000,4,Villa,120,1976,0 %
+Åparken 23 7171 Uldum,23,975000.0,18-12-2006,Alm.,8783,4,Villa,111,1974,
+Lillekongens Ager 12 7171 Uldum,12,532214.0,21-11-2006,Alm.,2522,5,Villa,211,2007,
+Østerled 17 7171 Uldum,17,66350.0,06-11-2006,Alm.,473,6,Villa,140,2006,
+Åbrinken 47 7171 Uldum,47,1425000.0,19-10-2006,Alm.,11400,4,Villa,125,1977,
+Kalhavevej 69 7171 Uldum,69,1045000.0,12-10-2006,Alm.,3745,8,Villa,279,1908,
+Ørum Skovvej 3 7171 Uldum,3,1800000.0,06-10-2006,Alm.,7826,10,Villa,230,1880,
+Fælledvej 5 7171 Uldum,5,750000.0,05-10-2006,Andet,2533,11,Villa,296,1948,
+Skrædderbakken 4 7171 Uldum,4,985000.0,04-10-2006,Alm.,0,9,Villa,243,1880,
+Kalhavevej 64A 7171 Uldum,0,70000.0,14-09-2006,Alm.,500,4,Villa,140,2007,
+Lillekongens Ager 6 7171 Uldum,6,324664.0,01-09-2006,Alm.,2459,4,Villa,132,2007,
+Lillekongens Ager 14 7171 Uldum,14,442304.0,01-09-2006,Alm.,2256,6,Villa,196,2007,
+Hesselballevej 30 7171 Uldum,30,975000.0,30-08-2006,Alm.,5357,6,Villa,182,1900,
+Bakkegårdsparken 9 7171 Uldum,9,1350000.0,22-08-2006,Alm.,10000,5,Villa,135,1978,
+Mågevej 3 7171 Uldum,3,1100000.0,21-07-2006,Alm.,9166,3,Villa,120,1974,
+Østerled 15 7171 Uldum,15,150000.0,21-06-2006,Alm.,1376,4,Villa,109,2007,
+Lærkevej 10 7171 Uldum,10,1225000.0,14-06-2006,Alm.,8812,4,Villa,139,1973,
+Langagervej 3 7171 Uldum,3,385000.0,09-05-2006,Alm.,5500,4,Villa,70,1898,
+Ribevej 2 7171 Uldum,2,2400000.0,29-04-2006,Alm.,19047,5,Villa,126,1989,
+Mekuvej 34 7171 Uldum,34,191360.0,27-04-2006,Alm.,1012,5,Villa,189,2007,
+Vestergade 17 7171 Uldum,17,1300000.0,21-04-2006,Alm.,8125,5,Villa,160,1972,
+Bygaden 11 7171 Uldum,11,20000.0,21-04-2006,Alm.,91,8,Stuehus,219,1913,
+Haurumvej 2 7171 Uldum,2,369850.0,31-03-2006,Alm.,1804,4,Villa,205,1912,
+Tjørnevej 1 7171 Uldum,1,1057500.0,31-03-2006,Alm.,4679,11,Stuehus,226,1865,
+Kalhavevej 55 7171 Uldum,55,1580000.0,27-03-2006,Alm.,8020,7,Villa,197,1750,
+Vesterled 3 7171 Uldum,3,1185000.0,15-03-2006,Alm.,9045,5,Villa,131,1920,
+Kalbækvej 3 7171 Uldum,3,1125000.0,06-03-2006,Alm.,0,5,Villa,188,1928,
+Haurumvej 25 7171 Uldum,25,1695000.0,24-02-2006,Alm.,7811,7,Villa,217,1914,
+Lærkevej 7 7171 Uldum,7,1295000.0,10-02-2006,Alm.,9184,4,Villa,141,1977,
+Rosenvænget 12 7171 Uldum,12,880000.0,30-01-2006,Alm.,7521,5,Villa,117,1977,
+Skanderborgvej 16 7171 Uldum,16,16750000.0,19-01-2006,Alm.,57758,8,Stuehus,290,1915,
+Søndergade 8 7171 Uldum,8,1220000.0,17-01-2006,Alm.,7052,6,Villa,173,1923,
+Højskolebakken 20 7171 Uldum,20,1050000.0,13-01-2006,Alm.,7553,4,Villa,139,1973,
+Kærvejen 24 7171 Uldum,24,2067263.0,02-01-2006,Alm.,7684,7,Villa,269,1906,
+Mågevej 8 7171 Uldum,8,612000.0,21-12-2005,Fam.,4434,4,Villa,138,1973,
+Nørregade 32D 7171 Uldum,0,725000.0,12-12-2005,Alm.,7967,3,Rækkehus,91,1982,
+Fælledvej 8 7171 Uldum,8,1175000.0,11-12-2005,Alm.,0,6,Villa,163,1935,
+Industrivej 11 7171 Uldum,11,1125000.0,21-11-2005,Alm.,7500,4,Villa,150,1965,
+Sønderløkke 8 7171 Uldum,8,1880000.0,31-10-2005,Alm.,0,7,Villa,231,2005,
+Skanderborgvej 35 7171 Uldum,35,545000.0,30-09-2005,Alm.,4467,4,Villa,122,1900,
+Hvilehøjparken 2A 7171 Uldum,0,213675.0,28-09-2005,Alm.,1155,7,Villa,185,2006,
+Langagervej 9 7171 Uldum,9,2875000.0,30-08-2005,Alm.,11318,8,Villa,254,1870,
+Nørregade 31 7171 Uldum,31,750000.0,28-08-2005,Alm.,6756,4,Villa,111,1948,
+Haurumvej 13 7171 Uldum,13,800000.0,20-08-2005,Alm.,8602,4,Villa,93,1912,
+Skanderborgvej 60 7171 Uldum,60,949532.0,12-08-2005,Alm.,8402,4,Villa,113,1955,
+Nordvestvej 1 7171 Uldum,1,420000.0,11-08-2005,Fam.,0,4,Villa,112,1900,
+Langagervej 16 7171 Uldum,16,1488880.0,12-07-2005,Alm.,11631,4,Villa,128,1920,
+Bøgballevej 66 7171 Uldum,66,4135000.0,06-07-2005,Alm.,27939,5,Stuehus,148,1988,
+Hedevej 43 7171 Uldum,43,150000.0,06-07-2005,Fam.,641,8,Stuehus,234,1912,
+Ørumvej 3 7171 Uldum,3,830000.0,24-06-2005,Alm.,6803,5,Villa,122,1900,
+Nørregade 8 7171 Uldum,8,725000.0,22-06-2005,Alm.,4264,8,Villa,170,1920,
+Kærvejen 38 7171 Uldum,38,1875000.0,17-06-2005,Alm.,8408,6,Stuehus,223,1900,
+Solsortevej 9 7171 Uldum,9,815000.0,16-06-2005,Alm.,5821,4,Villa,140,1974,
+Åparken 12 7171 Uldum,12,800000.0,15-06-2005,Alm.,0,5,Villa,141,1967,
+Kirketoften 3 7171 Uldum,3,655000.0,15-06-2005,Alm.,8397,2,Villa,78,1961,
+Bøgballevej 93 7171 Uldum,93,1125000.0,14-06-2005,Alm.,7922,5,Villa,142,1877,
+Nordvestvej 3 7171 Uldum,3,690000.0,12-06-2005,Alm.,6272,3,Villa,110,1920,
+Vestergade 16 7171 Uldum,16,1050000.0,31-05-2005,Alm.,9051,4,Villa,116,1971,
+Åbrinken 11 7171 Uldum,11,1100000.0,13-05-2005,Alm.,7586,5,Villa,145,1977,
+Søndergade 19 7171 Uldum,19,900000.0,06-05-2005,Alm.,17307,11,Servicevirksomhed,52,1920,
+Langagervej 21 7171 Uldum,21,1800000.0,04-05-2005,Alm.,10526,5,Villa,171,1979,
+Rosenvænget 11 7171 Uldum,11,1150000.0,29-04-2005,Alm.,8273,5,Villa,139,1981,
+Bygaden 2 7171 Uldum,2,310000.0,21-04-2005,Alm.,3444,3,Villa,90,1900,
+Nørregade 16A 7171 Uldum,0,550000.0,21-04-2005,Alm.,5670,4,Lejlighed,97,1905,
+Skolegade 18 7171 Uldum,18,725000.0,20-04-2005,Alm.,6304,3,Villa,115,1947,
+Sønderløkke 16 7171 Uldum,16,305030.0,18-04-2005,Alm.,1882,6,Villa,162,2005,
+Tjørnevej 12 7171 Uldum,12,805000.0,13-04-2005,Alm.,7061,4,Villa,114,1971,
+Nørregade 16D 7171 Uldum,0,450000.0,11-04-2005,Alm.,6081,3,Lejlighed,74,1905,
+Nørregade 16C 7171 Uldum,0,598000.0,11-04-2005,Alm.,6164,4,Lejlighed,97,1905,
+Nørregade 16B 7171 Uldum,0,495000.0,11-04-2005,Alm.,6689,3,Lejlighed,74,1905,
+Kærvejen 12 7171 Uldum,12,985000.0,07-04-2005,Alm.,0,8,Villa,207,1900,
+Højskolebakken 14 7171 Uldum,14,1325000.0,01-04-2005,Alm.,8952,6,Villa,148,1996,
+Kalhavevej 51 7171 Uldum,51,1200000.0,28-03-2005,Alm.,7272,6,Villa,165,1911,
+Skolegade 22 7171 Uldum,22,935000.0,15-03-2005,Alm.,5807,5,Villa,161,1959,
+Rosenvænget 14 7171 Uldum,14,980000.0,28-02-2005,Alm.,5730,6,Villa,171,1976,
+Nordvestvej 2 7171 Uldum,2,940000.0,20-02-2005,Alm.,6351,5,Villa,148,1974,
+Sønderløkke 14 7171 Uldum,14,343540.0,10-02-2005,Alm.,0,6,Villa,215,2006,
+Fælledvej 34 7171 Uldum,34,935000.0,27-01-2005,Alm.,7248,5,Villa,129,1900,
+Langagervej 1 7171 Uldum,1,1580000.0,20-01-2005,Alm.,9132,5,Villa,173,1900,
+Hvilehøjparken 1 7171 Uldum,1,462175.0,10-01-2005,Alm.,1610,6,Villa,287,2005,
+Sebastiansvej 2 7171 Uldum,2,1875000.0,21-12-2004,Alm.,7780,7,Villa,241,1998,
+Nørregade 37 7171 Uldum,37,1100000.0,16-11-2004,Alm.,12941,4,Villa,85,1955,
+Åparken 13 7171 Uldum,13,950000.0,03-11-2004,Alm.,7307,4,Villa,130,1973,
+Ribevej 9 7171 Uldum,9,795000.0,07-10-2004,Alm.,3180,9,Villa,250,1929,
+Stationsvej 4 7171 Uldum,4,1250000.0,06-10-2004,Alm.,5319,5,Villa,235,1906,
+Østerled 7 7171 Uldum,7,475000.0,03-09-2004,Alm.,4611,4,Villa,103,1827,
+Kalhave Byvej 8 7171 Uldum,8,1295000.0,17-06-2004,Alm.,6442,6,Villa,201,1873,
+Bøgballevej 58 7171 Uldum,58,515000.0,17-05-2004,Alm.,4768,4,Villa,108,1900,
+Bøgballevej 123 7171 Uldum,123,1040000.0,03-05-2004,Alm.,0,7,Stuehus,290,1890,
+Nørregade 73 7171 Uldum,73,400000.0,03-05-2004,Alm.,2531,6,Villa,158,1902,
+Hesselballevej 18 7171 Uldum,18,396627.0,26-04-2004,Alm.,1513,9,Villa,262,1880,
+Skanderborgvej 29 7171 Uldum,29,770000.0,06-04-2004,Alm.,4556,5,Villa,169,1967,
+Skanderborgvej 27 7171 Uldum,27,634000.0,29-03-2004,Alm.,5196,4,Villa,122,1939,
+Dortheasvej 10 7171 Uldum,10,590000.0,24-03-2004,Alm.,4097,3,Rækkehus,144,1910,
+Rosenvænget 10 7171 Uldum,10,1580000.0,01-03-2004,Alm.,10000,6,Villa,158,1986,
+Hvilehøjparken 5A 7171 Uldum,0,665000.0,16-02-2004,Alm.,7916,3,Rækkehus,84,1987,
+Langagervej 2 7171 Uldum,2,1148000.0,12-02-2004,Fam.,0,8,Stuehus,178,1890,
+Horsensvej 10 7171 Uldum,10,945000.0,12-01-2004,Alm.,5250,7,Villa,180,1910,
+Bakkegårdsparken 7 7171 Uldum,7,1030000.0,22-12-2003,Alm.,5537,7,Villa,186,1977,
+Langagervej 18 7171 Uldum,18,1000000.0,09-12-2003,Alm.,4484,7,Villa,223,1900,
+Kærvejen 4 7171 Uldum,4,725266.0,08-12-2003,Alm.,7798,4,Villa,93,1938,
+Uldum Hedevej 4 7171 Uldum,4,4200000.0,04-12-2003,Alm.,20388,5,Villa,206,1901,
+Åbrinken 35 7171 Uldum,35,799000.0,01-12-2003,Alm.,5154,4,Villa,155,1975,
+Mekuvej 24 7171 Uldum,24,162825.0,23-10-2003,Alm.,723,10,Villa,225,2004,
+Industrisvinget 6 7171 Uldum,6,1160000.0,15-10-2003,Alm.,0,5,Villa,156,1986,
+Ørum Skovvej 21 7171 Uldum,21,1300000.0,22-09-2003,Alm.,0,7,Villa,186,1877,
+Bakkegårdsparken 6 7171 Uldum,6,760000.0,19-09-2003,Alm.,5170,6,Villa,147,1977,
+I P Hansens Vej 4 7171 Uldum,4,300000.0,05-09-2003,Alm.,5084,2,Villa,59,1885,
+Kærvejen 63 7171 Uldum,63,2000000.0,27-08-2003,Alm.,11695,4,Villa,171,1996,
+Åparken 8 7171 Uldum,8,700000.0,22-08-2003,Alm.,6194,2,Villa,113,1969,
+Sebastiansvej 4 7171 Uldum,4,1258000.0,30-07-2003,Alm.,9828,5,Villa,128,1998,
+Nørregade 28 7171 Uldum,28,550000.0,05-07-2003,Alm.,5238,3,Villa,105,1962,
+Hesselballevej 28 7171 Uldum,28,459000.0,02-07-2003,Fam.,2765,6,Villa,166,1900,
+Skanderborgvej 70 7171 Uldum,70,700000.0,23-06-2003,Alm.,6086,3,Villa,115,1950,
+Kalhavevej 57 7171 Uldum,57,690000.0,17-06-2003,Alm.,4181,6,Villa,165,1924,
+Uldum Hedevej 20 7171 Uldum,20,55000.0,16-06-2003,Alm.,0,5,Villa,150,1934,
+Vestergade 2 7171 Uldum,2,42600.0,06-06-2003,Alm.,390,4,Villa,109,2006,
+Vesterled 7 7171 Uldum,7,200000.0,02-06-2003,Alm.,1709,4,Villa,117,1867,
+Hesselballevej 2 7171 Uldum,2,850000.0,21-05-2003,Alm.,6204,4,Villa,137,1941,
+Ribevej 13 7171 Uldum,13,4400000.0,20-05-2003,Alm.,20952,7,Stuehus,210,1914,
+Kærvejen 32 7171 Uldum,32,1475000.0,13-05-2003,Alm.,0,9,Villa,263,1909,
+Langagervej 32 7171 Uldum,32,845000.0,16-04-2003,Alm.,6500,4,Villa,130,1900,
+Fasanvej 12 7171 Uldum,12,581395.0,26-03-2003,Alm.,4037,4,Villa,144,1907,
+Sønderløkke 10 7171 Uldum,10,340580.0,24-03-2003,Alm.,2115,6,Villa,161,2004,
+Langagervej 17 7171 Uldum,17,500000.0,19-03-2003,Alm.,4310,5,Villa,116,1930,
+Vestergade 19 7171 Uldum,19,885000.0,15-03-2003,Alm.,0,5,Villa,191,1969,
+Nordvestvej 10 7171 Uldum,10,1275000.0,04-03-2003,Alm.,0,6,Villa,165,1932,
+Hesselballevej 4 7171 Uldum,4,640000.0,07-02-2003,Alm.,5614,4,Villa,114,1963,
+Hedevej 68 7171 Uldum,68,1298000.0,06-02-2003,Alm.,8320,5,Villa,156,1885,
+Haurumvej 27 7171 Uldum,27,5385000.0,03-02-2003,Alm.,20872,9,Stuehus,258,1924,
+Nørregade 56 7171 Uldum,56,920000.0,28-01-2003,Alm.,6301,4,Villa,146,1969,
+Skolegade 3 7171 Uldum,3,850000.0,19-12-2002,Fam.,3761,8,Villa,226,1903,
+Østerled 27 7171 Uldum,27,297902.0,18-12-2002,Fam.,2892,5,Villa,103,1976,
+Skolegade 9 7171 Uldum,9,705000.0,06-12-2002,Alm.,5423,6,Villa,130,1948,
+Fælledvej 10 7171 Uldum,10,760000.0,11-10-2002,Alm.,0,7,Villa,249,1910,
+Sønderløkke 6 7171 Uldum,6,403190.0,12-09-2002,Alm.,2687,5,Villa,150,2003,
+Fasanvej 15 7171 Uldum,15,1250000.0,26-08-2002,Alm.,0,9,Villa,250,1857,
+I P Hansens Vej 10 7171 Uldum,10,735000.0,29-07-2002,Alm.,6074,5,Villa,121,1914,
+Højskolebakken 16 7171 Uldum,16,1045000.0,01-07-2002,Alm.,8100,4,Villa,129,1985,
+Rosenvænget 2A 7171 Uldum,0,645000.0,01-07-2002,Alm.,7329,3,Rækkehus,88,1984,
+Hvilehøjparken 17 7171 Uldum,17,1058983.0,15-06-2002,Alm.,0,6,Villa,175,1989,
+Skanderborgvej 66 7171 Uldum,66,369667.0,12-06-2002,Alm.,2678,3,Villa,138,1955,
+Bakkegårdsparken 5 7171 Uldum,5,725000.0,06-06-2002,Alm.,5534,6,Villa,131,1975,
+Nørregade 32A 7171 Uldum,0,335000.0,03-06-2002,Alm.,5877,2,Rækkehus,57,1982,
+Lærkevej 8 7171 Uldum,8,795000.0,29-05-2002,Alm.,7098,4,Villa,112,1974,
+Skanderborgvej 56 7171 Uldum,56,1035000.0,08-05-2002,Alm.,0,8,Villa,298,1894,
+Industrivej 9 7171 Uldum,9,100000.0,03-05-2002,Alm.,613,5,Villa,163,2003,
+Kærvejen 40 7171 Uldum,40,895541.0,02-05-2002,Alm.,0,6,Villa,129,1900,
+Åbrinken 19 7171 Uldum,19,1250000.0,30-04-2002,Alm.,6793,5,Villa,184,1977,
+Kærvejen 10 7171 Uldum,10,525000.0,25-04-2002,Alm.,4303,4,Villa,122,1900,
+Nørregade 39 7171 Uldum,39,520000.0,26-03-2002,Alm.,6933,3,Villa,75,1963,
+Industrivej 15 7171 Uldum,15,1572500.0,26-03-2002,Fam.,6607,7,Villa,238,1976,
+Nørregade 20 7171 Uldum,20,697294.0,16-03-2002,Alm.,0,4,Villa,146,1953,
+Skolegade 11 7171 Uldum,11,450000.0,07-03-2002,Alm.,2980,5,Villa,151,1913,
+Nørregade 43 7171 Uldum,43,805000.0,06-03-2002,Alm.,7666,4,Villa,105,1943,
+Stationsvej 3 7171 Uldum,3,475000.0,21-02-2002,Fam.,3800,5,Villa,125,1919,
+Kærvejen 49 7171 Uldum,49,700000.0,20-02-2002,Alm.,4545,4,Villa,154,2004,
+Kærvejen 55 7171 Uldum,55,83000.0,17-12-2001,Alm.,538,5,Villa,154,1883,
+Hvilehøjparken 6 7171 Uldum,6,164220.0,30-10-2001,Alm.,1117,5,Villa,147,2002,
+Kirkegade 11 7171 Uldum,11,658637.0,16-10-2001,Alm.,0,5,Villa,135,1957,
+Åparken 14 7171 Uldum,14,775000.0,03-10-2001,Alm.,6458,4,Villa,120,1968,
+Kærvejen 8 7171 Uldum,8,680000.0,27-09-2001,Alm.,0,8,Villa,232,1900,
+Dortheasvej 21 7171 Uldum,21,975000.0,27-08-2001,Alm.,8783,6,Villa,111,1900,
+Nordvestvej 7 7171 Uldum,7,1730000.0,22-08-2001,Alm.,6577,7,Villa,263,1987,
+Industrivej 14 7171 Uldum,14,520000.0,12-08-2001,Alm.,0,4,Villa,114,1966,
+Kalhavevej 45 7171 Uldum,45,650000.0,04-08-2001,Alm.,0,4,Villa,171,1900,
+Søndergade 12 7171 Uldum,12,550000.0,02-08-2001,Fam.,4365,4,Villa,126,1900,
+Fælledvej 21 7171 Uldum,21,1600000.0,23-05-2001,Alm.,8333,7,Villa,192,1941,
+Kirketoften 9 7171 Uldum,9,360000.0,15-05-2001,Alm.,3870,6,Villa,93,1725,
+Skrædderbakken 8 7171 Uldum,8,412796.0,18-04-2001,Andet,2399,7,Villa,172,1979,
+Kærvejen 58 7171 Uldum,58,385000.0,28-03-2001,Fam.,2830,7,Villa,136,1900,
+Ørumvej 1 7171 Uldum,1,360000.0,23-01-2001,Alm.,3829,3,Rækkehus,94,1882,
+Uldum Hedevej 1 7171 Uldum,1,557500.0,29-12-2000,Fam.,3420,6,Stuehus,163,1914,
+Hvilehøjparken 2B 7171 Uldum,0,361000.0,28-12-2000,Alm.,2062,6,Villa,175,2002,
+Lærkevej 12 7171 Uldum,12,570000.0,05-12-2000,Fam.,5135,3,Villa,111,1968,
+Højskolebakken 5 7171 Uldum,5,339913.0,23-11-2000,Alm.,4855,4,Villa,70,1885,
+Ribevej 3 7171 Uldum,3,825000.0,27-10-2000,Alm.,4796,7,Villa,172,1923,
+Sindballevej 36 7171 Uldum,36,218042.0,28-09-2000,Alm.,0,5,Villa,98,1870,
+Bøgballevej 89 7171 Uldum,89,1485000.0,22-08-2000,Alm.,10241,5,Villa,145,1823,
+Kalhave Byvej 6 7171 Uldum,6,7000000.0,08-08-2000,Alm.,29535,7,Stuehus,237,1875,
+Industrivej 26 7171 Uldum,26,850000.0,07-08-2000,Fam.,4829,7,Villa,176,1978,
+Nørregade 71 7171 Uldum,71,350000.0,20-07-2000,Alm.,2734,4,Villa,128,1900,
+Nørregade 47 7171 Uldum,47,650000.0,22-06-2000,Alm.,7386,3,Villa,88,1949,
+Kalhavevej 47 7171 Uldum,47,10244600.0,26-05-2000,Fam.,43968,8,Stuehus,233,1907,
+Nørregade 54 7171 Uldum,54,1179168.0,20-05-2000,Alm.,8865,6,Villa,133,1969,
+Hvilehøjparken 19 7171 Uldum,19,83835.0,15-05-2000,Alm.,639,4,Villa,131,2000,
+Dortheasvej 14 7171 Uldum,14,800000.0,26-04-2000,Alm.,5797,3,Villa,138,1920,
+Søndergade 24 7171 Uldum,24,370118.0,14-04-2000,Alm.,2960,4,Villa,125,1827,
+Østerled 19 7171 Uldum,19,525000.0,07-04-2000,Alm.,4772,4,Villa,110,1973,
+Åbrinken 39 7171 Uldum,39,1068234.0,05-04-2000,Alm.,8478,4,Villa,126,1979,
+Kirkegade 5 7171 Uldum,5,437687.0,24-03-2000,Alm.,4249,5,Villa,103,1877,
+Vesterled 3A 7171 Uldum,0,553000.0,09-03-2000,Alm.,6743,3,Villa,82,1968,
+Haurumvej 20 7171 Uldum,20,1248184.0,28-02-2000,Alm.,8491,7,Villa,147,1900,
+Solsortevej 1 7171 Uldum,1,975000.0,19-02-2000,Alm.,4826,7,Villa,202,1971,
+Langagervej 22 7171 Uldum,22,1319000.0,28-11-1999,Alm.,6221,5,Villa,212,1997,
+Fasanvej 1 7171 Uldum,1,589119.0,09-11-1999,Alm.,6073,4,Villa,97,1877,
+Mekuvej 26 7171 Uldum,26,178750.0,10-09-1999,Alm.,780,8,Villa,229,2005,
+Nørregade 13 7171 Uldum,13,400000.0,26-07-1999,Alm.,4000,4,Villa,100,1946,
+Dortheasvej 20 7171 Uldum,20,1255471.0,26-07-1999,Alm.,6573,5,Villa,191,1917,
+Uldum Hedevej 14 7171 Uldum,14,17850.0,28-06-1999,Alm.,156,3,Villa,114,2000,
+Hvilehøjparken 16 7171 Uldum,16,84571.0,09-06-1999,Alm.,621,4,Villa,136,1999,
+Haurumvej 16 7171 Uldum,16,1125474.0,17-04-1999,Alm.,4538,7,Villa,248,1931,
+Kirkegade 12 7171 Uldum,12,592000.0,20-03-1999,Alm.,5381,4,Villa,110,1957,
+Hesselballevej 15 7171 Uldum,15,940000.0,27-02-1999,Alm.,6911,4,Villa,136,1971,
+Nørregade 58 7171 Uldum,58,630300.0,29-12-1998,Alm.,6002,2,Villa,105,1936,
+Bøgballevej 114 7171 Uldum,114,700000.0,01-11-1998,Alm.,6363,4,Villa,110,1964,
+Poul M.Møllers Plads 4 7171 Uldum,4,606500.0,12-10-1998,Fam.,3078,6,Villa,197,1999,
+Nørregade 67 7171 Uldum,67,503500.0,02-09-1998,Alm.,3545,4,Villa,142,1890,
+Hvilehøjparken 12 7171 Uldum,12,92920.0,26-08-1998,Alm.,703,5,Villa,132,1999,
+Ribevej 11 7171 Uldum,11,498680.0,24-08-1998,Alm.,0,7,Villa,285,1864,
+Ribevej 12 7171 Uldum,12,140000.0,08-07-1998,Alm.,588,10,Villa,238,1864,
+Bøgballevej 97 7171 Uldum,97,200000.0,02-07-1998,Alm.,0,8,Villa,229,1970,
+Fælledvej 38 7171 Uldum,38,200000.0,01-07-1998,Alm.,1587,4,Villa,126,2002,
+Kirkegade 14 7171 Uldum,14,289000.0,30-06-1998,Alm.,4013,2,Villa,72,1955,
+Åparken 4 7171 Uldum,4,616000.0,24-06-1998,Alm.,5008,4,Villa,123,1971,
+Fælledvej 32 7171 Uldum,32,650000.0,18-06-1998,Alm.,0,7,Villa,187,1875,
+Kalhavevej 62 7171 Uldum,62,247710.0,21-05-1998,Alm.,1651,7,Villa,150,1900,
+Ørum Skovvej 4 7171 Uldum,4,289000.0,07-05-1998,Alm.,3141,5,Villa,92,1897,
+Skolegade 16 7171 Uldum,16,618153.0,06-05-1998,Alm.,0,5,Villa,147,1947,
+Åparken 10 7171 Uldum,10,600000.0,14-04-1998,Alm.,5357,4,Villa,112,1967,
+Kirkegade 6 7171 Uldum,6,718000.0,08-03-1998,Alm.,4432,7,Villa,162,1915,
+Bjerremosevej 13 7171 Uldum,13,925000.0,12-02-1998,Alm.,0,7,Villa,193,1877,
+Kærvejen 25 7171 Uldum,25,840000.0,15-12-1997,Alm.,7118,4,Villa,118,1985,
+Nørregade 55 7171 Uldum,55,288000.0,25-11-1997,Alm.,1645,6,Villa,175,1998,
+Kærvejen 35 7171 Uldum,35,688500.0,13-10-1997,Alm.,5138,5,Villa,134,1969,
+Skanderborgvej 31 7171 Uldum,31,240000.0,06-09-1997,Alm.,0,6,Villa,179,1908,
+Ørum Skovvej 15 7171 Uldum,15,96250.0,01-08-1997,Alm.,0,7,Villa,178,1962,
+Åparken 7 7171 Uldum,7,670000.0,30-07-1997,Alm.,4527,5,Villa,148,1973,
+Nørregade 75 7171 Uldum,75,225000.0,01-07-1997,Alm.,0,5,Villa,148,1897,
+Vesterled 2 7171 Uldum,2,795000.0,12-06-1997,Alm.,4517,6,Villa,176,1825,
+Dortheasvej 24 7171 Uldum,24,1585000.0,23-05-1997,Fam.,10856,5,Stuehus,146,1920,
+Nordvestvej 20 7171 Uldum,20,1775000.0,23-05-1997,Fam.,9699,6,Stuehus,183,1985,
+Langagervej 8 7171 Uldum,8,1750000.0,28-04-1997,Fam.,6433,8,Stuehus,272,1877,
+Østerled 1 7171 Uldum,1,675000.0,31-03-1997,Alm.,3708,9,Villa,182,1877,
+Skanderborgvej 51 7171 Uldum,51,23000.0,10-03-1997,Alm.,108,6,Stuehus,212,1893,
+Åparken 20 7171 Uldum,20,500000.0,03-02-1997,Alm.,0,6,Villa,166,1970,
+Nørregade 15 7171 Uldum,15,310000.0,09-12-1996,Fam.,2480,6,Villa,125,1910,
+Højskolebakken 7 7171 Uldum,7,315000.0,07-11-1996,Alm.,0,4,Rækkehus,130,1885,
+Nørregade 7 7171 Uldum,7,473000.0,01-11-1996,Alm.,3378,4,Villa,140,1937,
+Skolegade 27 7171 Uldum,27,590000.0,12-10-1996,Alm.,0,4,Villa,159,1965,
+Skanderborgvej 44 7171 Uldum,44,890000.0,21-09-1996,Alm.,2789,7,Villa,319,1906,
+Sechersvej 3 7171 Uldum,3,606000.0,12-09-1996,Alm.,2525,6,Villa,240,1856,
+Horsensvej 8 7171 Uldum,8,600000.0,13-08-1996,Alm.,2884,8,Villa,208,1910,
+Dortheasvej 7 7171 Uldum,7,706000.0,30-07-1996,Alm.,5191,4,Villa,136,1978,
+Nørregade 11 7171 Uldum,11,605000.0,25-07-1996,Alm.,4481,6,Villa,135,1928,
+Stationsvej 6 7171 Uldum,6,485500.0,05-06-1996,Alm.,2345,7,Villa,207,1893,
+Hvilehøjparken 8A 7171 Uldum,0,533508.0,23-05-1996,Alm.,5927,4,Rækkehus,90,1988,
+Hesselballevej 6 7171 Uldum,6,520000.0,16-03-1996,Alm.,4406,4,Villa,118,1973,
+Kærvejen 61 7171 Uldum,61,586000.0,16-03-1996,Alm.,3685,5,Villa,159,1880,
+Skanderborgvej 49 7171 Uldum,49,523000.0,11-03-1996,Alm.,0,11,Villa,303,1941,
+Bakkegårdsparken 13 7171 Uldum,13,750000.0,19-02-1996,Alm.,0,8,Villa,266,1974,
+Hvilehøjparken 13 7171 Uldum,13,145000.0,31-01-1996,Alm.,796,6,Villa,182,1996,
+Skanderborgvej 53 7171 Uldum,53,565000.0,21-12-1995,Alm.,4956,5,Villa,114,1900,
+Skolegade 12 7171 Uldum,12,325000.0,21-09-1995,Alm.,3125,4,Villa,104,1930,
+Mågevej 2 7171 Uldum,2,595000.0,20-09-1995,Alm.,3305,7,Villa,180,1972,
+Hvilehøjparken 18 7171 Uldum,18,131600.0,15-08-1995,Alm.,0,5,Villa,189,1995,
+Nørregade 32H 7171 Uldum,0,275000.0,11-08-1995,Alm.,3437,3,Rækkehus,80,1983,
+Søndergade 23 7171 Uldum,23,310000.0,05-07-1995,Alm.,1178,10,Villa,263,1908,
+Hvilehøjparken 21 7171 Uldum,21,95800.0,06-06-1995,Alm.,0,7,Villa,190,1996,
+Sechersvej 4 7171 Uldum,4,370000.0,28-05-1995,Alm.,0,5,Villa,123,1877,
+Bøgballevej 128 7171 Uldum,128,300000.0,22-05-1995,Alm.,2142,6,Villa,140,1900,
+Nørregade 18 7171 Uldum,18,413000.0,01-05-1995,Alm.,0,5,Villa,195,1900,
+Ribevej 1 7171 Uldum,1,549473.0,01-05-1995,Andet,3290,5,Stuehus,167,1900,
+Skrædderbakken 5 7171 Uldum,5,255000.0,22-02-1995,Alm.,0,7,Villa,209,1900,
+Kalhavevej 66 7171 Uldum,66,374000.0,02-02-1995,Alm.,0,7,Villa,151,1912,
+Kastanievej 3 7171 Uldum,3,800000.0,25-08-1994,Alm.,4444,8,Villa,180,1824,
+Nørregade 29 7171 Uldum,29,325000.0,06-07-1994,Alm.,2642,3,Villa,123,1890,
+Industrivej 1 7171 Uldum,1,125000.0,04-07-1994,Alm.,919,4,Villa,136,2006,
+Langagervej 4 7171 Uldum,4,4751000.0,30-06-1994,Alm.,16907,6,Stuehus,281,1900,
+Bøgballevej 116 7171 Uldum,116,400000.0,09-05-1994,Fam.,2162,5,Stuehus,185,1908,
+Industrivej 32 7171 Uldum,32,585000.0,09-05-1994,Alm.,0,5,Villa,185,1987,
+Skanderborgvej 43 7171 Uldum,43,325000.0,23-03-1994,Alm.,1805,6,Villa,180,1916,
+Hesselballevej 8 7171 Uldum,8,610000.0,05-03-1994,Alm.,3546,6,Villa,172,1966,
+Rosenvænget 5 7171 Uldum,5,610000.0,18-10-1993,Alm.,0,5,Villa,210,1979,
+Sechersvej 2 7171 Uldum,2,435000.0,27-08-1993,Alm.,3246,5,Villa,134,1897,
+Kalhavevej 60 7171 Uldum,60,540000.0,16-05-1993,Alm.,4218,4,Villa,128,1975,
+Kirketoften 7 7171 Uldum,7,380000.0,12-05-1993,Fam.,2900,4,Villa,131,1963,
+Kærvejen 53 7171 Uldum,53,375000.0,06-05-1993,Alm.,0,5,Villa,167,1939,
+Åbrinken 41 7171 Uldum,41,732500.0,12-04-1993,Alm.,0,5,Villa,183,1976,
+Vesterbovej 4 7171 Uldum,4,666500.0,11-01-1993,Alm.,4628,5,Stuehus,144,1935,
+Kalbækvej 4 7171 Uldum,4,275000.0,08-10-1992,Alm.,2217,4,Villa,124,1933,
+Åparken 9 7171 Uldum,9,569000.0,27-09-1992,Alm.,3793,4,Villa,150,1972,
+Højskolebakken 8 7171 Uldum,8,238000.0,15-09-1992,Alm.,2183,4,Villa,109,1948,
+Nørregade 59 7171 Uldum,59,290000.0,07-07-1992,Alm.,0,7,Villa,176,1918,
+Horsensvej 3 7171 Uldum,3,1500000.0,02-07-1992,Alm.,8152,5,Stuehus,184,1898,
+Langagervej 20 7171 Uldum,20,625000.0,27-04-1992,Fam.,3272,7,Villa,191,1900,
+Kalhavevej 59 7171 Uldum,59,200000.0,09-03-1992,Alm.,1886,4,Villa,106,1870,

@@ -1,0 +1,348 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Drostrupvej 10 6621 Gesten,10,1200000.0,06-04-2017,Alm.,7741,4,Stuehus,155,1750,
+Lyngvej 21 6621 Gesten,21,300000.0,31-03-2017,Alm.,5454,2,Rækkehus,55,1972,
+Lyngvej 10 6621 Gesten,10,1080000.0,13-03-2017,Alm.,7448,5,Villa,145,1974,-9 %
+Gyvelvej 63 6621 Gesten,63,1240000.0,01-03-2017,Alm.,7607,6,Villa,163,1979,
+Gyvelvej 19 6621 Gesten,19,810000.0,10-02-2017,Alm.,6639,6,Villa,122,1975,-6 %
+Lyngvej 23 6621 Gesten,23,280000.0,09-01-2017,Alm.,5090,2,Rækkehus,55,1972,
+Lyngvej 27 6621 Gesten,27,1100000.0,23-12-2016,Alm.,8527,4,Villa,129,1973,-6 %
+Gyvelvej 13 6621 Gesten,13,700000.0,05-12-2016,Alm.,3888,6,Villa,180,1975,-6 %
+Villesholmvænget 12 6621 Gesten,12,900000.0,25-11-2016,Alm.,11250,3,Villa,80,1997,-10 %
+Staushedevejen 24 6621 Gesten,24,3000000.0,17-11-2016,Alm.,15000,5,Villa,200,1931,
+Hovedgaden 13 6621 Gesten,13,850000.0,28-10-2016,Alm.,7391,3,Villa,115,1919,-4 %
+Stilundvej 3 6621 Gesten,3,680000.0,15-10-2016,Alm.,4963,6,Villa,137,1949,-2 %
+Bækkevej 11 6621 Gesten,11,1995000.0,13-10-2016,Alm.,10283,6,Villa,194,1926,0 %
+Stadion Alle 5 6621 Gesten,5,625000.0,14-09-2016,Alm.,3633,7,Villa,172,1947,
+Vestre Stationsvej 39 6621 Gesten,39,1000000.0,30-08-2016,Alm.,3571,8,Stuehus,280,1857,
+Gesten Kærvej 14 6621 Gesten,14,695000.0,26-07-2016,Alm.,5696,4,Villa,122,1969,-4 %
+Kirkevej 14 6621 Gesten,14,700000.0,20-06-2016,Fam.,3030,7,Villa,231,1912,
+Asserholtvej 14 6621 Gesten,14,2850000.0,07-06-2016,Alm.,20212,4,Stuehus,141,1870,
+Hovedgaden 35 6621 Gesten,35,1195000.0,31-05-2016,Alm.,7913,5,Villa,151,1923,-6 %
+Gyvelvej 81 6621 Gesten,81,1325000.0,23-05-2016,Alm.,6279,7,Villa,211,1977,-1 %
+Staushedevejen 41 6621 Gesten,41,930000.0,04-05-2016,Alm.,5602,4,Stuehus,166,1922,
+Staushedevejen 5A 6621 Gesten,0,1545000.0,26-04-2016,Alm.,6082,5,Stuehus,254,1830,-3 %
+Hovedgaden 17 6621 Gesten,17,475000.0,21-04-2016,Alm.,3958,3,Villa,120,1943,-4 %
+Ø. Gesten Mosevej 2 6621 Gesten,2,1445000.0,15-04-2016,Alm.,7410,6,Stuehus,195,1872,
+Gyvelvej 17 6621 Gesten,17,569712.0,01-04-2016,Alm.,4382,5,Villa,130,1978,
+Drostrupvej 14 6621 Gesten,14,1350000.0,18-03-2016,Alm.,7848,7,Stuehus,172,1800,
+Drostrupvej 17 6621 Gesten,17,1585000.0,17-02-2016,Alm.,8954,4,Villa,177,1962,-9 %
+Drostrupvej 12 6621 Gesten,12,2704446.0,01-01-2016,Fam.,13064,5,Villa,207,2002,
+Stadion Alle 11 6621 Gesten,11,645000.0,29-12-2015,Fam.,4448,5,Villa,145,1948,
+Gyvelvej 59 6621 Gesten,59,835000.0,15-12-2015,Alm.,5529,6,Villa,151,1980,-7 %
+Bækkevej 18 6621 Gesten,18,314500.0,11-12-2015,Alm.,6048,2,Villa,52,1920,
+Staushedevejen 9 6621 Gesten,9,390000.0,07-12-2015,Alm.,2254,7,Stuehus,173,1890,
+Gestenvej 60 6621 Gesten,60,468770.0,04-11-2015,Alm.,1921,9,Villa,244,1930,-53 %
+Gyvelvej 4 6621 Gesten,4,732436.0,21-09-2015,Alm.,3471,8,Villa,211,1952,
+Ø. Gesten Mosevej 3 6621 Gesten,3,500000.0,24-08-2015,Alm.,2645,5,Villa,189,1915,-28 %
+Bækkevej 14 6621 Gesten,14,845000.0,01-07-2015,Alm.,7544,4,Villa,112,1952,-2 %
+Lyngvej 19 6621 Gesten,19,280000.0,27-06-2015,Alm.,5000,2,Rækkehus,56,1972,
+Gyvelvej 16 6621 Gesten,16,750000.0,31-05-2015,Fam.,5725,4,Villa,131,1977,
+Tværgade 7 6621 Gesten,7,335000.0,11-05-2015,Alm.,4527,4,Villa,74,1954,-15 %
+Vestre Stationsvej 3 6621 Gesten,3,575000.0,07-05-2015,Alm.,3042,6,Villa,189,1972,-17 %
+Stilundvej 14B 6621 Gesten,0,1350000.0,29-04-2015,Alm.,9310,8,Villa,145,1878,-3 %
+Vestre Stationsvej 49 6621 Gesten,49,1300000.0,28-04-2015,Alm.,6842,5,Villa,190,1980,-13 %
+Hovedgaden 22 6621 Gesten,22,306000.0,22-04-2015,Andet,2707,4,Villa,113,1950,
+Staushedevejen 22 6621 Gesten,22,950000.0,13-04-2015,Alm.,5337,4,Stuehus,178,1931,
+Engen 2 6621 Gesten,2,750000.0,19-02-2015,Alm.,4838,6,Villa,155,2007,-69 %
+Villesholmvænget 18 6621 Gesten,18,1675000.0,23-01-2015,Alm.,8333,5,Villa,201,2006,-4 %
+Gyvelvej 49B 6621 Gesten,0,840000.0,08-12-2014,Alm.,8750,4,Rækkehus,96,1982,-4 %
+Gyvelvej 42 6621 Gesten,42,400000.0,24-11-2014,Alm.,4347,3,Villa,92,1981,-22 %
+Stilundvej 2 6621 Gesten,2,600000.0,20-11-2014,Alm.,2521,7,Villa,238,1902,
+Vestre Stationsvej 20 6621 Gesten,20,475000.0,19-11-2014,Fam.,4523,4,Villa,105,1948,
+Engholmvej 1 6621 Gesten,1,725000.0,11-11-2014,Alm.,4707,7,Villa,154,1979,
+Villesholmvænget 28 6621 Gesten,28,1425000.0,06-10-2014,Alm.,8962,5,Villa,159,2000,-11 %
+Hovedgaden 67 6621 Gesten,67,1895000.0,03-10-2014,Alm.,6792,5,Villa,279,1979,0 %
+Hovedgaden 58 6621 Gesten,58,962500.0,30-08-2014,Alm.,5695,8,Villa,169,1914,
+Gyvelvej 1 6621 Gesten,1,800000.0,20-08-2014,Alm.,6106,4,Villa,131,1968,-11 %
+Engholmvej 10 6621 Gesten,10,1100000.0,18-08-2014,Alm.,7432,5,Villa,148,1980,
+Hovedgaden 24 6621 Gesten,24,450000.0,15-08-2014,Alm.,3308,3,Villa,136,1953,-3 %
+Nygade 22 6621 Gesten,22,1070000.0,02-08-2014,Alm.,5169,6,Villa,207,1972,-10 %
+Gesten Kærvej 5 6621 Gesten,5,2098000.0,23-07-2014,Alm.,8563,7,Stuehus,245,2000,
+Åvej 1 6621 Gesten,1,1500000.0,08-07-2014,Alm.,13043,4,Villa,115,1990,-11 %
+Villesholmvænget 8 6621 Gesten,8,704048.0,03-07-2014,Auktion,3785,6,Villa,186,2007,
+Hovedgaden 44 6621 Gesten,44,413791.0,26-06-2014,Andet,3978,5,Villa,104,1951,-54 %
+Hovedgaden 40 6621 Gesten,40,375000.0,11-06-2014,Auktion,1609,8,Villa,233,1925,-44 %
+Gesten Kærvej 28 6621 Gesten,28,3305000.0,04-06-2014,Alm.,22636,7,Stuehus,146,1900,
+Vestre Stationsvej 4 6621 Gesten,4,500000.0,11-04-2014,Alm.,4672,4,Rækkehus,107,1980,-8 %
+Hovedgaden 38 6621 Gesten,38,1620000.0,31-03-2014,Alm.,10125,5,Villa,160,1916,-4 %
+Hovedgaden 34 6621 Gesten,34,1750000.0,21-03-2014,Alm.,8706,7,Villa,201,1915,-3 %
+Villesholmvænget 30 6621 Gesten,30,1705000.0,28-02-2014,Alm.,10791,4,Villa,158,2008,-10 %
+Hovedgaden 32 6621 Gesten,32,400000.0,20-02-2014,Fam.,1652,7,Villa,242,1914,-55 %
+Kirkevej 4 6621 Gesten,4,1500000.0,18-12-2013,Alm.,8571,5,Villa,175,1927,
+Husmandsvej 6 6621 Gesten,6,1000000.0,23-09-2013,Alm.,6666,6,Stuehus,150,1923,-5 %
+Købmandskrogen 8 6621 Gesten,8,10000.0,23-08-2013,Alm.,144,3,Rækkehus,69,1920,
+Krogslundvej 6 6621 Gesten,6,995000.0,09-08-2013,Alm.,9045,5,Stuehus,110,1877,
+Gyvelvej 45 6621 Gesten,45,850000.0,04-06-2013,Alm.,6439,4,Villa,132,1973,-10 %
+Kirkevej 8A 6621 Gesten,0,1100000.0,03-06-2013,Alm.,5945,4,Villa,185,1981,
+Gl. Koldingvej 7 6621 Gesten,7,925000.0,15-05-2013,Fam.,6379,6,Villa,145,1911,
+Staushedevejen 23 6621 Gesten,23,1480000.0,07-05-2013,Alm.,9308,3,Villa,159,1945,-7 %
+Bækkevej 4 6621 Gesten,4,775000.0,29-04-2013,Alm.,6567,4,Villa,118,1966,-11 %
+Vestre Stationsvej 33 6621 Gesten,33,443500.0,08-04-2013,Andet,2917,4,Villa,152,1957,
+Tværgade 15 6621 Gesten,15,475000.0,25-03-2013,Alm.,2500,5,Villa,190,1947,-26 %
+Staushedevejen 29 6621 Gesten,29,950000.0,28-02-2013,Fam.,4298,4,Villa,221,1900,
+Stadion Alle 7 6621 Gesten,7,690000.0,26-09-2012,Alm.,4058,8,Villa,170,1956,-1 %
+Lyngvej 17 6621 Gesten,17,1010000.0,20-09-2012,Alm.,8145,4,Villa,124,1972,-8 %
+Stilundvej 6 6621 Gesten,6,1095000.0,14-09-2012,Alm.,7934,4,Villa,138,1903,0 %
+Gestenvej 68 6621 Gesten,68,1550000.0,08-09-2012,Alm.,11567,4,Stuehus,134,1930,
+Engen 1 6621 Gesten,1,1350000.0,31-07-2012,Alm.,4397,6,Villa,307,2010,
+Gyvelvej 29 6621 Gesten,29,854637.0,31-07-2012,Andet,5934,5,Villa,144,1974,
+Ø. Gesten Skovvej 2 6621 Gesten,2,2540000.0,17-04-2012,Alm.,14111,7,Stuehus,180,1870,-6 %
+Stilundvej 16 6621 Gesten,16,900000.0,28-03-2012,Alm.,6206,4,Villa,145,1887,-18 %
+Langbjergvej 6 6621 Gesten,6,377500.0,19-03-2012,Andet,2500,6,Villa,151,1876,
+Andstvej 2 6621 Gesten,2,1070000.0,29-02-2012,Alm.,7642,5,Villa,140,1937,-7 %
+Hovedgaden 20 6621 Gesten,20,595000.0,30-12-2011,Alm.,7828,4,Villa,76,1948,-5 %
+Gestenvej 64 6621 Gesten,64,50000.0,12-11-2011,Alm.,471,4,Stuehus,106,1877,
+Hovedgaden 55 6621 Gesten,55,500000.0,29-09-2011,Auktion,2976,6,Villa,168,1919,
+Lyngvej 12 6621 Gesten,12,985000.0,28-09-2011,Alm.,7755,4,Villa,127,1973,-1 %
+Vestre Stationsvej 14 6621 Gesten,14,770000.0,08-09-2011,Alm.,7196,4,Rækkehus,107,1980,
+Gesten Kærvej 3 6621 Gesten,3,400000.0,15-08-2011,Alm.,2197,6,Stuehus,182,1910,
+Staushedevejen 26 6621 Gesten,26,190000.0,15-08-2011,Alm.,1144,8,Stuehus,166,1900,
+Andstvej 11 6621 Gesten,11,665000.0,06-07-2011,Alm.,5732,4,Villa,116,1946,-4 %
+Gyvelvej 33 6621 Gesten,33,608865.0,29-06-2011,Andet,3255,6,Villa,187,1975,
+Nygade 11 6621 Gesten,11,1200000.0,02-06-2011,Alm.,7692,5,Villa,156,1972,
+Gyvelvej 24 6621 Gesten,24,1030000.0,30-05-2011,Alm.,8583,4,Villa,120,1976,-6 %
+Hovedgaden 19 6621 Gesten,19,500500.0,16-05-2011,Fam.,4390,4,Villa,114,1956,
+Stilundvej 21 6621 Gesten,21,1745000.0,15-05-2011,Alm.,15307,4,Stuehus,114,1924,-12 %
+Bækkevej 5 6621 Gesten,5,524000.0,04-04-2011,Alm.,4192,4,Villa,125,1947,
+Stadion Alle 4 6621 Gesten,4,1750000.0,24-03-2011,Fam.,10000,4,Lejlighed,175,1917,
+Drostrupvadvej 2 6621 Gesten,2,2925000.0,05-10-2010,Alm.,0,6,Stuehus,351,1900,-11 %
+Gyvelvej 6 6621 Gesten,6,695000.0,30-08-2010,Alm.,6096,4,Villa,114,1966,0 %
+Drostrupvadvej 3 6621 Gesten,3,1877000.0,27-08-2010,Alm.,9292,6,Villa,202,1908,-6 %
+Vestre Stationsvej 10 6621 Gesten,10,700000.0,15-08-2010,Alm.,6930,4,Rækkehus,101,1980,-12 %
+Lyngvej 25 6621 Gesten,25,320000.0,22-07-2010,Alm.,5714,2,Rækkehus,56,1972,-17 %
+Gyvelvej 9 6621 Gesten,9,750000.0,16-07-2010,Alm.,5597,5,Villa,134,1973,-4 %
+Gyvelvej 58 6621 Gesten,58,850000.0,09-07-2010,Alm.,6343,5,Villa,134,1977,
+Nygade 17 6621 Gesten,17,650000.0,21-05-2010,Alm.,6074,3,Villa,107,1972,-13 %
+Villesholmvænget 20 6621 Gesten,20,2225000.0,21-05-2010,Alm.,8150,6,Villa,273,2006,-3 %
+Hovedgaden 70 6621 Gesten,70,350000.0,21-04-2010,Auktion,0,5,Villa,283,1906,
+Gestenvej 62 6621 Gesten,62,74140.0,19-04-2010,Alm.,446,6,Villa,166,1900,
+Gl. Koldingvej 5 6621 Gesten,5,280000.0,10-04-2010,Alm.,1272,8,Stuehus,220,1912,
+Nygade 10 6621 Gesten,10,760000.0,04-03-2010,Alm.,6666,4,Villa,114,1971,-4 %
+Drostrupvej 15 6621 Gesten,15,2150000.0,20-02-2010,Alm.,9267,7,Stuehus,232,1957,
+Husmandsvej 3 6621 Gesten,3,540753.0,09-02-2010,Alm.,4291,4,Stuehus,126,1923,
+Hovedgaden 26 6621 Gesten,26,1500000.0,31-01-2010,Alm.,5747,8,Villa,261,1877,-5 %
+Gyvelvej 61 6621 Gesten,61,995000.0,09-12-2009,Alm.,8577,4,Villa,116,1979,0 %
+Stilundvej 18 6621 Gesten,18,1900000.0,15-10-2009,Alm.,7450,8,Villa,255,1850,-13 %
+Stilundvej 26 6621 Gesten,26,1590000.0,22-06-2009,Alm.,0,5,Villa,143,1976,0 %
+Gesten Kærvej 34 6621 Gesten,34,1125000.0,13-06-2009,Alm.,7450,4,Villa,151,1908,-12 %
+Nygade 7 6621 Gesten,7,735000.0,04-06-2009,Alm.,6447,4,Villa,114,1968,-8 %
+Villesholmvænget 10 6621 Gesten,10,116265.0,04-06-2009,Alm.,1056,4,Villa,110,2016,-94 %
+Gyvelvej 65 6621 Gesten,65,945000.0,24-04-2009,Alm.,6654,4,Villa,142,1979,-2 %
+Rugholmvej 28 6621 Gesten,28,1300000.0,20-03-2009,Alm.,7558,6,Stuehus,172,1931,-7 %
+Glibstrupvej 46 6621 Gesten,46,280000.0,06-01-2009,Alm.,1421,6,Stuehus,197,1878,
+Gyvelvej 56 6621 Gesten,56,495000.0,03-10-2008,Alm.,3694,5,Villa,134,1977,
+Hovedgaden 31 6621 Gesten,31,850000.0,03-10-2008,Alm.,7264,3,Villa,117,1917,
+Vestre Stationsvej 2 6621 Gesten,2,75000.0,20-09-2008,Alm.,480,5,Villa,156,2009,
+Gesten Kærvej 30 6621 Gesten,30,1435000.0,19-09-2008,Alm.,9566,5,Villa,150,1900,0 %
+Villesholmvænget 7 6621 Gesten,7,84295.0,15-09-2008,Alm.,658,4,Villa,128,2009,
+Stilundvej 5 6621 Gesten,5,775000.0,08-09-2008,Alm.,8611,3,Villa,90,1953,-8 %
+Staushedevejen 33 6621 Gesten,33,1760000.0,02-09-2008,Alm.,7652,4,Villa,230,1900,-2 %
+Stilundvej 7 6621 Gesten,7,1100000.0,20-08-2008,Alm.,7857,5,Villa,140,1967,
+Nygade 13 6621 Gesten,13,707705.0,14-08-2008,Alm.,4237,6,Villa,167,1972,-56 %
+Staushedevejen 1 6621 Gesten,1,1335000.0,12-07-2008,Alm.,0,8,Villa,210,1954,0 %
+Staushedevejen 3 6621 Gesten,3,1559000.0,12-07-2008,Alm.,8336,4,Villa,187,1946,12 %
+Stilundvej 1 6621 Gesten,1,1275000.0,09-07-2008,Alm.,10537,4,Villa,121,1877,0 %
+Villesholmvænget 5 6621 Gesten,5,118910.0,18-06-2008,Alm.,671,5,Villa,177,2008,
+Glibstrupvej 37 6621 Gesten,37,1198000.0,26-05-2008,Alm.,7534,4,Villa,159,1900,0 %
+Ø. Gesten Skovvej 8 6621 Gesten,8,2000000.0,21-05-2008,Alm.,10526,6,Villa,190,1827,
+Gestenvej 53 6621 Gesten,53,1700000.0,07-05-2008,Alm.,11564,4,Villa,147,1883,-14 %
+Drostrupvej 13 6621 Gesten,13,541410.0,05-05-2008,Andet,2565,6,Villa,211,1978,
+Gyvelvej 54 6621 Gesten,54,1120000.0,17-04-2008,Alm.,9333,4,Villa,120,1979,-3 %
+Drostrupvej 11 6621 Gesten,11,1500000.0,12-04-2008,Alm.,0,5,Stuehus,242,1986,0 %
+Tværgade 2A 6621 Gesten,0,900000.0,12-04-2008,Alm.,9183,3,Villa,98,1989,
+Gyvelvej 75 6621 Gesten,75,1230000.0,07-04-2008,Alm.,8482,6,Villa,145,1977,-1 %
+Andstvej 8 6621 Gesten,8,675000.0,31-03-2008,Alm.,5769,4,Villa,117,1934,0 %
+Bækkevej 16 6621 Gesten,16,710000.0,15-03-2008,Alm.,6826,3,Villa,104,1949,0 %
+Tværgade 14 6621 Gesten,14,1230000.0,14-03-2008,Alm.,10336,5,Villa,119,1957,-10 %
+Villesholmvænget 26 6621 Gesten,26,1740000.0,20-02-2008,Alm.,12517,4,Villa,139,2005,-3 %
+Staushedevejen 7 6621 Gesten,7,1450000.0,19-02-2008,Alm.,5967,8,Stuehus,243,1931,-3 %
+Villesholmvænget 3 6621 Gesten,3,90160.0,14-02-2008,Alm.,727,4,Villa,124,2008,
+Stadion Alle 15 6621 Gesten,15,1200000.0,04-02-2008,Alm.,11538,6,Lejlighed,104,1919,
+Villesholmvænget 4 6621 Gesten,4,81305.0,03-01-2008,Alm.,602,3,Villa,135,2008,
+Staushedevejen 8 6621 Gesten,8,865096.0,30-11-2007,Fam.,9943,4,Stuehus,87,1900,
+Hovedgaden 11 6621 Gesten,11,875000.0,15-11-2007,Alm.,6628,5,Villa,132,1912,-2 %
+Hovedgaden 78 6621 Gesten,78,798000.0,02-11-2007,Alm.,9068,3,Villa,88,1939,0 %
+Gestenvej 51 6621 Gesten,51,3250000.0,29-10-2007,Alm.,24809,3,Stuehus,131,1994,-18 %
+Villesholmvænget 9 6621 Gesten,9,99245.0,25-09-2007,Alm.,813,4,Villa,122,2007,
+Villesholmvænget 2 6621 Gesten,2,92805.0,07-09-2007,Alm.,622,6,Villa,149,2007,
+Gyvelvej 3 6621 Gesten,3,516613.0,27-08-2007,Alm.,3798,5,Villa,136,1968,-45 %
+Staushedevejen 5 6621 Gesten,5,920000.0,31-07-2007,Alm.,6618,5,Villa,139,1898,0 %
+Andstvej 18 6621 Gesten,18,995000.0,10-07-2007,Alm.,7425,3,Villa,134,1980,
+Bækkevej 12 6621 Gesten,12,1112500.0,06-07-2007,Alm.,7367,5,Villa,151,1973,
+Villesholmvænget 1 6621 Gesten,1,97405.0,03-07-2007,Alm.,636,3,Villa,153,2008,
+Gyvelvej 32 6621 Gesten,32,995000.0,26-06-2007,Alm.,8883,4,Villa,112,1974,0 %
+Hovedgaden 46 6621 Gesten,46,610000.0,28-05-2007,Alm.,4880,4,Villa,125,1916,-2 %
+Kirkevej 1 6621 Gesten,1,975000.0,25-05-2007,Alm.,5357,5,Villa,182,1923,
+Gyvelvej 50 6621 Gesten,50,1075000.0,23-05-2007,Alm.,8531,4,Villa,126,1978,
+Drostrupvej 7 6621 Gesten,7,1495000.0,10-05-2007,Alm.,9966,6,Stuehus,150,1900,
+Hovedgaden 25 6621 Gesten,25,650000.0,09-05-2007,Alm.,5963,3,Villa,109,1947,0 %
+Andstvej 16 6621 Gesten,16,695000.0,21-04-2007,Alm.,5889,4,Villa,118,1955,0 %
+Troldhedevej 5 6621 Gesten,5,1135000.0,16-04-2007,Alm.,9784,5,Villa,116,1986,
+Troldhedevej 9 6621 Gesten,9,990400.0,26-03-2007,Alm.,7446,5,Villa,133,1986,
+Troldhedevej 3 6621 Gesten,3,1485000.0,22-03-2007,Alm.,10457,5,Villa,142,1988,
+Gyvelvej 5 6621 Gesten,5,1275000.0,11-03-2007,Alm.,7727,5,Villa,165,1971,
+Husmandsvej 7 6621 Gesten,7,1900000.0,09-03-2007,Alm.,12101,4,Stuehus,157,1920,
+Nygade 28 6621 Gesten,28,850000.0,15-02-2007,Alm.,5666,3,Villa,150,1974,
+Langbjergvej 1 6621 Gesten,1,750000.0,14-02-2007,Alm.,6578,3,Villa,114,1922,
+Søndermarksvej 2 6621 Gesten,2,1250000.0,27-01-2007,Alm.,5605,8,Villa,223,1906,
+Langbjergvej 8 6621 Gesten,8,2600000.0,10-01-2007,Alm.,7738,8,Villa,336,1981,
+Staushedevejen 31 6621 Gesten,31,17230000.0,12-12-2006,Alm.,58013,7,Stuehus,297,1987,
+Andstvej 5 6621 Gesten,5,1300000.0,19-11-2006,Alm.,6280,6,Villa,207,1919,
+Stilundvej 11 6621 Gesten,11,895000.0,08-11-2006,Alm.,7584,4,Villa,118,1919,
+Gl. Koldingvej 3 6621 Gesten,3,1740000.0,18-10-2006,Alm.,10235,4,Villa,170,1870,
+Stilundvej 25 6621 Gesten,25,2750000.0,08-08-2006,Alm.,17857,10,Stuehus,154,1923,
+Drostrupvadvej 4 6621 Gesten,4,2750000.0,28-07-2006,Alm.,0,5,Stuehus,395,1870,
+Hovedgaden 36 6621 Gesten,36,1195000.0,20-07-2006,Alm.,6223,5,Villa,192,1916,
+Bækkevej 1A 6621 Gesten,0,795000.0,07-07-2006,Alm.,7361,4,Villa,108,1963,
+Gyvelvej 23 6621 Gesten,23,1175000.0,26-06-2006,Alm.,8834,4,Villa,133,1988,
+Gyvelvej 60 6621 Gesten,60,1000000.0,20-06-2006,Alm.,7462,4,Villa,134,1978,
+Stadion Alle 18A 6621 Gesten,0,1150000.0,06-06-2006,Alm.,8333,4,Villa,138,1984,
+Villesholmvænget 24 6621 Gesten,24,137980.0,28-04-2006,Alm.,726,5,Villa,190,2008,
+Andstvej 14 6621 Gesten,14,740000.0,28-04-2006,Alm.,6607,4,Villa,112,1955,
+Hovedgaden 42 6621 Gesten,42,1195000.0,27-04-2006,Alm.,6947,5,Villa,172,1954,
+Engen 3 6621 Gesten,3,280000.0,26-04-2006,Alm.,1538,6,Villa,182,2007,
+Ø. Gesten Mosevej 22 6621 Gesten,22,1995000.0,30-03-2006,Alm.,11207,6,Stuehus,178,1885,
+Kirkevej 18 6621 Gesten,18,475000.0,09-03-2006,Alm.,5792,4,Villa,82,1943,
+Gyvelvej 46 6621 Gesten,46,1100000.0,22-02-2006,Alm.,5729,7,Villa,192,1978,
+Krogslundvej 14 6621 Gesten,14,31886240.0,15-02-2006,Alm.,161859,6,Stuehus,197,1857,
+Hovedgaden 50 6621 Gesten,50,764500.0,10-02-2006,Alm.,3940,6,Villa,194,1943,
+Stilundvej 14A 6621 Gesten,0,1280000.0,07-02-2006,Alm.,7441,5,Villa,172,1988,
+Gyvelvej 25 6621 Gesten,25,1065000.0,19-11-2005,Alm.,6228,6,Villa,171,1977,
+Villesholmvænget 14 6621 Gesten,14,93955.0,07-11-2005,Alm.,626,4,Villa,150,2006,
+Drostrupvej 5 6621 Gesten,5,1037500.0,04-10-2005,Alm.,10171,5,Stuehus,102,1900,
+Gyvelvej 44 6621 Gesten,44,1195000.0,29-09-2005,Alm.,6638,7,Villa,180,1980,
+Kirkevej 8B 6621 Gesten,0,1850000.0,27-09-2005,Alm.,8851,6,Villa,209,1988,
+Ø. Gesten Mosevej 16 6621 Gesten,16,650000.0,19-09-2005,Fam.,8666,1,Villa,75,1877,
+Nygade 20 6621 Gesten,20,800000.0,01-09-2005,Alm.,3921,7,Villa,204,1967,
+Krogslundvej 4 6621 Gesten,4,1575000.0,30-08-2005,Alm.,7031,6,Villa,224,1877,
+Tværgade 11 6621 Gesten,11,565000.0,23-08-2005,Alm.,7434,3,Villa,76,1952,
+Ø. Gesten Skovvej 5 6621 Gesten,5,1075000.0,07-08-2005,Alm.,7846,5,Villa,137,1827,
+Gyvelvej 36 6621 Gesten,36,1145000.0,27-06-2005,Alm.,4654,5,Villa,246,1976,
+Søndermarksvej 4 6621 Gesten,4,1250000.0,25-05-2005,Alm.,8503,5,Villa,147,1999,
+Villesholmvænget 22 6621 Gesten,22,110055.0,17-05-2005,Alm.,719,5,Villa,153,2005,
+Gyvelvej 8 6621 Gesten,8,820000.0,11-05-2005,Alm.,5540,5,Villa,148,1970,
+Søndermarksvej 6 6621 Gesten,6,1275000.0,06-04-2005,Alm.,8279,6,Stuehus,154,1905,
+Nygade 16 6621 Gesten,16,1011129.0,30-03-2005,Alm.,5648,6,Villa,179,1973,
+Staushedevejen 14 6621 Gesten,14,655284.0,28-02-2005,Fam.,2374,8,Villa,276,1956,
+Vestre Stationsvej 22 6621 Gesten,22,705000.0,10-08-2004,Alm.,3916,5,Villa,180,1900,
+Ø. Gesten Skovvej 3 6621 Gesten,3,1575000.0,22-07-2004,Alm.,6011,8,Villa,262,1962,
+Bækkevej 8 6621 Gesten,8,1095000.0,13-07-2004,Alm.,7156,4,Villa,153,1969,
+Hovedgaden 23 6621 Gesten,23,120000.0,09-06-2004,Alm.,1538,3,Villa,78,1900,
+Gesten Kærvej 10 6621 Gesten,10,600000.0,21-05-2004,Alm.,0,7,Villa,201,1887,
+Stadion Alle 3 6621 Gesten,3,660000.0,19-05-2004,Alm.,4400,5,Villa,150,1910,
+Krogslundvej 1 6621 Gesten,1,7450000.0,19-04-2004,Alm.,22713,10,Stuehus,328,1870,
+Nygade 6 6621 Gesten,6,575000.0,30-03-2004,Alm.,0,6,Villa,154,1968,
+Ø. Gesten Mosevej 5 6621 Gesten,5,2924000.0,22-03-2004,Alm.,11696,7,Stuehus,250,1850,
+Nygade 4 6621 Gesten,4,895000.0,12-03-2004,Alm.,6780,4,Villa,132,1989,
+Storkevej 3 6621 Gesten,3,1250000.0,07-03-2004,Alm.,7062,6,Villa,177,1912,
+Gesten Kærvej 1 6621 Gesten,1,608795.0,11-02-2004,Alm.,2871,6,Stuehus,212,1870,
+Tværgade 12 6621 Gesten,12,1139833.0,29-12-2003,Alm.,5936,4,Villa,192,1952,
+Stilundvej 23 6621 Gesten,23,1249339.0,26-09-2003,Alm.,10959,5,Stuehus,114,1923,
+Staushedevejen 13 6621 Gesten,13,1131000.0,13-08-2003,Alm.,8835,3,Villa,128,1986,
+Gyvelvej 10 6621 Gesten,10,610000.0,05-08-2003,Alm.,4518,5,Villa,135,1966,
+Gyvelvej 71 6621 Gesten,71,885000.0,29-07-2003,Alm.,4944,7,Villa,179,1979,
+Stilundvej 17 6621 Gesten,17,1195000.0,01-05-2003,Alm.,7611,5,Villa,157,1996,
+Hovedgaden 41 6621 Gesten,41,1095000.0,09-04-2003,Alm.,4910,6,Villa,223,1918,
+Staushedevejen 16 6621 Gesten,16,150000.0,07-04-2003,Alm.,773,6,Stuehus,194,1920,
+Hovedgaden 49 6621 Gesten,49,725000.0,13-03-2003,Alm.,5215,5,Villa,139,1912,
+Hovedgaden 15 6621 Gesten,15,899298.0,17-02-2003,Alm.,6423,5,Villa,140,1897,
+Husmandsvej 5 6621 Gesten,5,30000.0,19-12-2002,Alm.,184,5,Stuehus,163,1923,
+Tværgade 6 6621 Gesten,6,350000.0,04-12-2002,Alm.,3723,4,Villa,94,1938,
+Ø. Gesten Skovvej 6 6621 Gesten,6,4000000.0,24-10-2002,Alm.,16528,8,Stuehus,242,1934,
+Gyvelvej 52 6621 Gesten,52,728000.0,15-10-2002,Alm.,5313,4,Villa,137,1980,
+Gyvelvej 77 6621 Gesten,77,1005000.0,10-07-2002,Alm.,0,6,Villa,221,1977,
+Tværgade 3 6621 Gesten,3,910000.0,05-02-2002,Alm.,5055,6,Villa,180,1968,
+Andstvej 12 6621 Gesten,12,440000.0,29-01-2002,Alm.,2913,4,Villa,151,1926,
+Hovedgaden 12 6621 Gesten,12,812974.0,14-10-2001,Alm.,6022,4,Villa,135,1931,
+Gesten Kærvej 22 6621 Gesten,22,567461.0,12-10-2001,Alm.,4503,4,Stuehus,126,1880,
+Nygade 18 6621 Gesten,18,727409.0,02-10-2001,Alm.,5773,5,Villa,126,1967,
+Hovedgaden 51 6621 Gesten,51,599000.0,14-09-2001,Alm.,4131,5,Villa,145,1914,
+Glibstrupvej 42 6621 Gesten,42,610000.0,04-04-2001,Alm.,5446,4,Villa,112,1877,
+Bækkevej 9 6621 Gesten,9,492693.0,13-03-2001,Alm.,6082,4,Villa,81,1951,
+Engholmvej 2 6621 Gesten,2,1185758.0,06-03-2001,Alm.,4424,9,Villa,268,1919,
+Husmandsvej 2 6621 Gesten,2,1670000.0,13-02-2001,Alm.,14152,6,Stuehus,118,1923,
+Stilundvej 2A 6621 Gesten,0,2872800.0,22-12-2000,Andet,9207,8,Villa,312,1869,
+Stilundvej 12 6621 Gesten,12,531335.0,14-12-2000,Fam.,3965,4,Villa,134,1750,
+Gyvelvej 39 6621 Gesten,39,800000.0,12-12-2000,Alm.,5161,7,Villa,155,1974,
+Søndermarksvej 8 6621 Gesten,8,200000.0,01-09-2000,Auktion,2666,1,Villa,75,1967,
+Villesholmvænget 16 6621 Gesten,16,900000.0,10-07-2000,Alm.,7258,3,Villa,124,1997,
+Købmandskrogen 6 6621 Gesten,6,282516.0,23-06-2000,Alm.,4094,3,Rækkehus,69,1920,
+Stilundvej 9 6621 Gesten,9,413809.0,21-06-2000,Alm.,4138,3,Villa,100,1967,
+Gyvelvej 18 6621 Gesten,18,750000.0,18-06-2000,Alm.,6250,3,Villa,120,1968,
+Gyvelvej 34 6621 Gesten,34,785000.0,12-05-2000,Alm.,4153,6,Villa,189,1977,
+Staushedevejen 20 6621 Gesten,20,2510781.0,28-04-2000,Alm.,17315,3,Stuehus,145,1936,
+Drostrupvadvej 6 6621 Gesten,6,1300000.0,22-02-2000,Alm.,8496,4,Stuehus,153,2001,
+Gesten Kærvej 11 6621 Gesten,11,1123285.0,11-02-2000,Alm.,5943,5,Villa,189,2003,
+Glibstrupvej 40 6621 Gesten,40,711350.0,19-11-1999,Alm.,0,4,Villa,117,1864,
+Glibstrupvej 48 6621 Gesten,48,1143000.0,03-09-1999,Alm.,5861,5,Villa,195,1900,
+Stilundvej 4 6621 Gesten,4,162675.0,26-03-1999,Alm.,623,8,Stuehus,261,1852,
+Gyvelvej 30 6621 Gesten,30,650000.0,22-03-1999,Alm.,5603,4,Villa,116,1974,
+Glibstrupvej 43 6621 Gesten,43,1087000.0,21-12-1998,Alm.,6394,5,Villa,170,1870,
+Ø. Gesten Mosevej 8 6621 Gesten,8,1606870.0,03-12-1998,Fam.,8828,9,Stuehus,182,1907,
+Bækkevej 10 6621 Gesten,10,765000.0,11-11-1998,Alm.,3903,6,Villa,196,1968,
+Gesten Kærvej 9 6621 Gesten,9,1180000.0,12-10-1998,Alm.,8676,4,Stuehus,136,1914,
+Hovedgaden 76 6621 Gesten,76,536000.0,01-10-1998,Alm.,5104,3,Villa,105,1953,
+Tværgade 13 6621 Gesten,13,330000.0,03-09-1998,Fam.,3666,4,Villa,90,1952,
+Ø. Gesten Mosevej 10 6621 Gesten,10,96000.0,19-08-1998,Alm.,1745,2,Villa,55,1880,
+Kirkevej 5 6621 Gesten,5,513000.0,28-07-1998,Alm.,6035,3,Villa,85,1956,
+Ø. Gesten Mosevej 6 6621 Gesten,6,712088.0,08-05-1998,Alm.,4264,4,Villa,167,1900,
+Vestre Stationsvej 35 6621 Gesten,35,594160.0,21-04-1998,Alm.,4870,6,Villa,122,1947,
+Hovedgaden 56 6621 Gesten,56,786543.0,20-04-1998,Alm.,5243,5,Villa,150,1925,
+Hovedgaden 21 6621 Gesten,21,345000.0,09-03-1998,Alm.,0,6,Villa,155,1937,
+Staushedevejen 18 6621 Gesten,18,310000.0,25-02-1998,Alm.,1341,7,Villa,231,2011,
+Gyvelvej 35 6621 Gesten,35,808000.0,18-08-1997,Alm.,5179,4,Villa,156,1974,
+Stilundvej 24 6621 Gesten,24,269960.0,16-06-1997,Alm.,3067,3,Stuehus,88,1907,
+Hovedgaden 1 6621 Gesten,1,758000.0,18-04-1997,Alm.,6369,4,Villa,119,1984,
+Nygade 12 6621 Gesten,12,776000.0,03-04-1997,Alm.,4384,6,Villa,177,1967,
+Hovedgaden 43 6621 Gesten,43,625000.0,02-03-1997,Fam.,6009,4,Villa,104,1948,
+Lyngvej 29 6621 Gesten,29,817032.0,28-02-1997,Alm.,4233,5,Villa,193,1972,
+Tværgade 10 6621 Gesten,10,500000.0,20-01-1997,Alm.,0,6,Villa,185,1948,
+Hovedgaden 18 6621 Gesten,18,425000.0,15-11-1996,Alm.,4250,4,Villa,100,1948,
+Staushedevejen 17 6621 Gesten,17,255520.0,20-09-1996,Alm.,0,7,Stuehus,175,1827,
+Gyvelvej 27B 6621 Gesten,0,457051.0,09-09-1996,Alm.,5441,3,Villa,84,1983,
+Staushedevejen 35 6621 Gesten,35,914000.0,03-07-1996,Alm.,5408,6,Stuehus,169,1992,
+Drostrupvadvej 1 6621 Gesten,1,927000.0,24-06-1996,Alm.,5584,5,Stuehus,166,1915,
+Drostrupvej 9 6621 Gesten,9,583999.0,20-05-1996,Alm.,0,4,Villa,175,1995,
+Købmandskrogen 20 6621 Gesten,20,153000.0,20-05-1996,Alm.,1681,3,Rækkehus,91,1920,
+Købmandskrogen 24 6621 Gesten,24,153000.0,20-05-1996,Alm.,1681,3,Rækkehus,91,1920,
+Staushedevejen 39 6621 Gesten,39,686952.0,25-03-1996,Alm.,2898,10,Stuehus,237,1947,
+Nygade 26 6621 Gesten,26,509012.0,21-03-1996,Alm.,4241,4,Villa,120,1971,
+Gyvelvej 83 6621 Gesten,83,833115.0,07-03-1996,Alm.,4186,4,Villa,199,1980,
+Gyvelvej 73 6621 Gesten,73,607090.0,02-10-1995,Alm.,0,6,Villa,177,1980,
+Rugholmvej 24 6621 Gesten,24,590000.0,22-08-1995,Alm.,2783,7,Villa,212,1827,
+Bækkevej 6 6621 Gesten,6,520000.0,17-08-1995,Alm.,3714,5,Villa,140,1968,
+Hovedgaden 64 6621 Gesten,64,280500.0,30-06-1995,Fam.,1163,9,Villa,241,1947,
+Tværgade 16 6621 Gesten,16,450000.0,06-06-1995,Alm.,2307,8,Villa,195,1960,
+Vestre Stationsvej 6 6621 Gesten,6,430336.0,15-05-1995,Alm.,4260,4,Rækkehus,101,1980,
+Staushedevejen 19 6621 Gesten,19,470000.0,01-05-1995,Fam.,2259,6,Villa,208,1910,
+Hovedgaden 45 6621 Gesten,45,495000.0,26-04-1995,Alm.,2379,8,Villa,208,1912,
+Vestre Stationsvej 8 6621 Gesten,8,474000.0,13-02-1995,Alm.,4693,4,Rækkehus,101,1980,
+Staushedevejen 28 6621 Gesten,28,190000.0,21-12-1994,Alm.,0,4,Stuehus,137,1869,
+Kirkevej 8 6621 Gesten,8,325000.0,26-10-1994,Alm.,2152,5,Villa,151,1947,
+Hovedgaden 14 6621 Gesten,14,325000.0,15-09-1994,Alm.,0,5,Villa,161,1947,
+Drostrupvej 18 6621 Gesten,18,91829.0,26-08-1994,Alm.,1457,2,Villa,63,1900,
+Kirkevej 6A 6621 Gesten,0,1700000.0,18-08-1994,Alm.,7296,9,Lejlighed,233,1930,
+Stilundvej 15 6621 Gesten,15,430000.0,14-07-1994,Alm.,0,15,Villa,380,1897,
+Gyvelvej 62 6621 Gesten,62,740000.0,29-06-1994,Alm.,4539,5,Villa,163,1979,
+Stadion Alle 10 6621 Gesten,10,355000.0,04-03-1994,Alm.,3060,3,Villa,116,1971,
+Tværgade 1 6621 Gesten,1,350000.0,02-02-1994,Alm.,0,5,Villa,113,1962,
+Storkevej 1 6621 Gesten,1,716000.0,09-11-1993,Alm.,3509,5,Stuehus,204,1882,
+Gyvelvej 22 6621 Gesten,22,525000.0,04-11-1993,Alm.,3917,3,Villa,134,1973,
+Gyvelvej 27A 6621 Gesten,0,456000.0,29-10-1993,Alm.,0,3,Villa,85,1982,
+Gyvelvej 64 6621 Gesten,64,522500.0,09-08-1993,Alm.,3185,5,Villa,164,1977,
+Kirkevej 10 6621 Gesten,10,411000.0,03-08-1993,Alm.,2014,6,Villa,204,1927,
+Vestre Stationsvej 12 6621 Gesten,12,255000.0,26-07-1993,Alm.,2524,4,Rækkehus,101,1980,
+Hovedgaden 8 6621 Gesten,8,312000.0,21-06-1993,Alm.,0,4,Villa,128,1963,
+Stadion Alle 20 6621 Gesten,20,550000.0,17-05-1993,Alm.,1978,8,Villa,278,1917,
+Hovedgaden 3 6621 Gesten,3,370000.0,11-05-1993,Alm.,2551,4,Villa,145,1915,
+Husmandsvej 4 6621 Gesten,4,805000.0,16-04-1993,Alm.,0,6,Stuehus,220,1924,
+Gyvelvej 37 6621 Gesten,37,480000.0,16-02-1993,Alm.,3902,4,Villa,123,1974,
+Gyvelvej 66 6621 Gesten,66,250000.0,10-02-1993,Alm.,2083,4,Villa,120,1979,
+Købmandskrogen 2 6621 Gesten,2,1963000.0,16-12-1992,Alm.,28867,3,Rækkehus,68,1920,
+Andstvej 10 6621 Gesten,10,335000.0,16-09-1992,Alm.,3489,4,Villa,96,1965,
+Ø. Gesten Mosevej 20 6621 Gesten,20,693000.0,14-09-1992,Alm.,0,7,Stuehus,172,1877,
+Drostrupvej 8 6621 Gesten,8,223314.0,02-09-1992,Fam.,0,3,Stuehus,116,1801,
+Gesten Kærvej 26 6621 Gesten,26,673000.0,28-08-1992,Alm.,0,5,Stuehus,181,1939,
+Ø. Gesten Mosevej 4 6621 Gesten,4,300000.0,30-04-1992,Fam.,2013,4,Villa,149,1920,
+Ø. Gesten Skovvej 7 6621 Gesten,7,787000.0,21-03-1992,Alm.,3839,6,Villa,205,1900,
+Tværgade 8 6621 Gesten,8,325000.0,06-03-1992,Alm.,2850,3,Villa,114,1960,

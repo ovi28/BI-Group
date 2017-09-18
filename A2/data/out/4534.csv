@@ -1,0 +1,965 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Sølvagervej 25 4534 Hørve,25,450000.0,04-05-2017,Alm.,8490,2,Rækkehus,53,1974,
+Troldebanken 2 4534 Hørve,2,412500.0,28-04-2017,Alm.,2291,4,Villa,180,1922,
+Søhusvej 16 4534 Hørve,16,1050000.0,24-04-2017,Fam.,6104,6,Villa,172,2007,
+På Højen 4A 4534 Hørve,0,625000.0,11-04-2017,Alm.,10775,3,Rækkehus,58,1975,-10 %
+Nekseløvej 55 4534 Hørve,55,225000.0,30-03-2017,Alm.,5625,2,Sommerhus,40,1952,
+Slugten 5 4534 Hørve,5,656500.0,27-03-2017,Fam.,10588,4,Sommerhus,62,1979,-22 %
+Højskolevej 2 4534 Hørve,2,2865000.0,20-03-2017,Alm.,12456,9,Villa,230,1875,-4 %
+Dragsmøllevej 13 4534 Hørve,13,815000.0,20-03-2017,Alm.,9702,3,Villa,84,1988,-7 %
+Poppelvang 8 4534 Hørve,8,1295000.0,07-03-2017,Alm.,8750,4,Villa,148,1976,0 %
+Vallekildevej 163 4534 Hørve,163,250000.0,03-03-2017,Alm.,3246,4,Villa,77,1897,-29 %
+Slotsvej 4 4534 Hørve,4,265000.0,24-02-2017,Alm.,4076,3,Villa,65,1910,
+Elmkær 26 4534 Hørve,26,1275000.0,23-02-2017,Alm.,8388,5,Villa,152,1969,-2 %
+Strandlystvej 12 4534 Hørve,12,1850000.0,18-02-2017,Alm.,8222,5,Villa,225,1997,-11 %
+Industrivej 6 4534 Hørve,6,1645000.0,09-02-2017,Alm.,9791,7,Villa,168,1991,-3 %
+Elmkær 56 4534 Hørve,56,900000.0,31-01-2017,Alm.,4736,5,Villa,190,1972,-10 %
+Vallekildevej 39 4534 Hørve,39,900000.0,31-01-2017,Fam.,5487,7,Stuehus,164,1910,
+Skolegade 29 4534 Hørve,29,1050000.0,15-12-2016,Fam.,8015,5,Villa,131,1996,
+Vallekildevej 67 4534 Hørve,67,372167.0,08-12-2016,Alm.,4652,2,Villa,80,1944,
+Hørve Kanalvej 31 4534 Hørve,31,1800000.0,07-12-2016,Alm.,8695,7,Stuehus,207,1915,-10 %
+Lindebjerg 10B 4534 Hørve,0,600000.0,22-11-2016,Alm.,8219,2,Rækkehus,73,1986,
+Svinget 2 4534 Hørve,2,550000.0,25-10-2016,Alm.,4044,3,Villa,136,1954,-12 %
+Skolelodden 1 4534 Hørve,1,595000.0,12-10-2016,Alm.,7727,4,Villa,77,1981,0 %
+Slugten 10 4534 Hørve,10,875000.0,26-09-2016,Alm.,14344,4,Sommerhus,61,2004,-12 %
+Søndergade 15C 4534 Hørve,0,600000.0,25-09-2016,Alm.,7792,3,Rækkehus,77,1987,-8 %
+Bulskovvej 15 4534 Hørve,15,500000.0,25-09-2016,Alm.,8928,3,Sommerhus,56,1967,
+Teglværksvej 5 4534 Hørve,5,1450000.0,22-09-2016,Alm.,3950,9,Villa,367,1922,-12 %
+Dragsmøllevej 1 4534 Hørve,1,360000.0,22-09-2016,Auktion,4090,5,Villa,88,1948,
+Lindebjerg 10A 4534 Hørve,0,625000.0,21-09-2016,Alm.,8561,2,Rækkehus,73,1986,-3 %
+Nørregade 18 4534 Hørve,18,2067000.0,12-09-2016,Andet,7489,8,Villa,276,1926,
+Vallekildevej 118 4534 Hørve,118,495000.0,07-09-2016,Alm.,4900,4,Villa,101,1941,0 %
+Lindebjerg 11 4534 Hørve,11,680000.0,06-09-2016,Alm.,9444,3,Rækkehus,72,1983,-2 %
+Elmkær 97 4534 Hørve,97,1140000.0,26-08-2016,Alm.,8260,4,Villa,138,1973,-5 %
+Bulskovvej 17 4534 Hørve,17,500000.0,11-08-2016,Alm.,11111,3,Sommerhus,45,1951,
+Søhusvej 32 4534 Hørve,32,922378.0,10-08-2016,Fam.,4231,2,Villa,218,2008,
+Kolåsvej 11 4534 Hørve,11,2700000.0,10-08-2016,Alm.,10505,5,Villa,257,1968,-10 %
+Pilevang 6 4534 Hørve,6,1565000.0,06-08-2016,Alm.,11592,5,Villa,135,1999,-1 %
+Vallekildevej 47A 4534 Hørve,0,785000.0,15-07-2016,Alm.,6038,4,Villa,130,1918,
+Vallekildevej 44 4534 Hørve,44,775000.0,02-07-2016,Alm.,5575,5,Villa,139,1949,-8 %
+Bjergesøstien 8 4534 Hørve,8,750000.0,20-06-2016,Fam.,6465,4,Villa,116,1966,
+Hørve Kirkevej 5A 4534 Hørve,0,1175000.0,08-06-2016,Alm.,9325,6,Villa,126,1950,-2 %
+Holstensvejen 10 4534 Hørve,10,1160000.0,08-06-2016,Alm.,6553,5,Stuehus,177,1860,-10 %
+Nørregade 7 4534 Hørve,7,600000.0,06-06-2016,Alm.,3636,5,Villa,165,1910,
+Holmagervej 7 4534 Hørve,7,745000.0,31-05-2016,Alm.,5246,6,Villa,142,1961,0 %
+Søhusvej 50 4534 Hørve,50,1895000.0,13-05-2016,Alm.,14248,5,Villa,133,2007,-5 %
+Maglebjergvej 7 4534 Hørve,7,1305000.0,12-05-2016,Alm.,8312,7,Villa,157,1981,-6 %
+Elmkær 5 4534 Hørve,5,970000.0,30-04-2016,Alm.,8220,4,Villa,118,1970,-3 %
+Vejlebyvej 2 4534 Hørve,2,260000.0,01-04-2016,Alm.,2000,5,Villa,130,1927,
+På Højen 4C 4534 Hørve,0,500000.0,31-03-2016,Alm.,8620,3,Rækkehus,58,1975,0 %
+Fladehøj 53 4534 Hørve,53,991000.0,31-03-2016,Alm.,8122,4,Villa,122,1978,-9 %
+Pilevang 15 4534 Hørve,15,1595000.0,23-03-2016,Alm.,11076,5,Villa,144,1998,-6 %
+Hørve Kanalvej 33 4534 Hørve,33,1495000.0,01-03-2016,Alm.,6500,6,Stuehus,230,1904,
+Kalundborgvej 47 4534 Hørve,47,1500000.0,26-02-2016,Fam.,7731,5,Villa,194,1921,
+Adelers Alle 202 4534 Hørve,202,1200000.0,23-02-2016,Alm.,9600,5,Villa,125,1900,
+Vallekildevej 126 4534 Hørve,126,720000.0,19-02-2016,Alm.,5581,4,Villa,129,1935,-4 %
+Vallekildevej 52 4534 Hørve,52,481000.0,16-02-2016,Fam.,6012,3,Villa,80,1959,
+Bjergesøvej 5 4534 Hørve,5,675000.0,15-02-2016,Auktion,3994,6,Villa,169,1887,71 %
+Vallekildevej 24 4534 Hørve,24,500000.0,12-02-2016,Alm.,3448,6,Villa,145,1908,
+Engmosevej 1 4534 Hørve,1,500000.0,26-01-2016,Alm.,5952,4,Villa,84,1965,-9 %
+Hørve Kanalvej 29 4534 Hørve,29,1240000.0,11-01-2016,Alm.,7948,5,Stuehus,156,1908,
+Teglværksvej 2 4534 Hørve,2,2050000.0,17-12-2015,Alm.,9951,6,Villa,206,1921,-11 %
+Pilevang 16 4534 Hørve,16,900000.0,14-12-2015,Alm.,6000,4,Villa,150,1973,-10 %
+Vallekildevej 138 4534 Hørve,138,4606800.0,01-12-2015,Fam.,17062,7,Stuehus,270,1914,
+Højskolevej 1 4534 Hørve,1,170000.0,11-11-2015,Auktion,1588,5,Villa,107,1895,
+Fjordvej 3 4534 Hørve,3,1078000.0,04-11-2015,Fam.,7045,4,Stuehus,153,1943,
+Vallekildevej 115C 4534 Hørve,0,1250000.0,03-11-2015,Alm.,7668,7,Villa,163,1935,-3 %
+Bakkedraget 57 4534 Hørve,57,2195000.0,29-10-2015,Alm.,8922,7,Villa,246,1979,0 %
+Hovvejen 10 4534 Hørve,10,1032450.0,26-10-2015,Andet,5933,5,Villa,174,1900,
+Nyrupsvej 9 4534 Hørve,9,456500.0,08-10-2015,Alm.,3935,4,Villa,116,1962,
+Nygårdsvej 4 4534 Hørve,4,400000.0,02-10-2015,Alm.,2040,9,Villa,196,1887,-19 %
+Bakkedraget 45 4534 Hørve,45,575000.0,01-10-2015,Alm.,4227,5,Villa,136,1978,
+Strandlunden 7 4534 Hørve,7,204000.0,28-09-2015,Alm.,2000,4,Sommerhus,102,2017,
+Lillevangen 3 4534 Hørve,3,945000.0,24-09-2015,Alm.,7620,5,Villa,124,1900,-5 %
+Hørve Kirkevej 7B 4534 Hørve,0,1221945.0,14-09-2015,Andet,5455,10,Stuehus,224,1900,-51 %
+Holstensvejen 4 4534 Hørve,4,2225000.0,08-09-2015,Alm.,11835,6,Stuehus,188,1900,-7 %
+Dragsmøllevej 55 4534 Hørve,55,366000.0,04-09-2015,Alm.,1633,6,Stuehus,224,1937,
+Elmkær 4 4534 Hørve,4,800000.0,01-09-2015,Alm.,6722,4,Villa,119,1968,
+Sølvagervej 18 4534 Hørve,18,500000.0,01-09-2015,Alm.,3846,3,Villa,130,1876,-33 %
+Bakkedraget 43 4534 Hørve,43,1995000.0,28-08-2015,Alm.,7854,6,Villa,254,1993,-2 %
+Starreklintevej 3 4534 Hørve,3,950000.0,21-08-2015,Alm.,6834,6,Villa,139,1943,
+Vallekildevej 30 4534 Hørve,30,575000.0,19-08-2015,Alm.,3443,5,Villa,167,1917,-3 %
+Starreklintevej 19 4534 Hørve,19,1700000.0,09-08-2015,Fam.,9497,7,Villa,179,1910,
+Søndergade 21 4534 Hørve,21,1076000.0,07-08-2015,Alm.,7741,5,Villa,139,1877,-10 %
+På Højen 1 4534 Hørve,1,1175000.0,31-07-2015,Alm.,9038,4,Villa,130,1990,-2 %
+Dragsmøllevej 2 4534 Hørve,2,302336.0,22-07-2015,Fam.,2029,5,Villa,149,1920,
+Kildebakken 3 4534 Hørve,3,300000.0,15-07-2015,Alm.,2586,4,Villa,116,1973,
+Vallekildevej 180 4534 Hørve,180,295000.0,13-07-2015,Auktion,1993,7,Villa,148,1867,-34 %
+Dragsmøllevej 5 4534 Hørve,5,750000.0,08-07-2015,Alm.,6410,4,Villa,117,1968,-6 %
+Bjergesøvej 38 4534 Hørve,38,4285000.0,02-07-2015,Alm.,24073,4,Stuehus,178,1900,
+Kildegårdsvej 11 4534 Hørve,11,525000.0,24-06-2015,Alm.,4952,4,Villa,106,1975,-12 %
+Hørve Stationsvej 5 4534 Hørve,5,720000.0,19-06-2015,Auktion,4965,4,Villa,145,1903,
+Hørve Kirkevej 26 4534 Hørve,26,200000.0,16-06-2015,Alm.,1388,7,Villa,144,1907,
+Hørve Kanalvej 11A 4534 Hørve,0,212927.0,31-05-2015,Alm.,1339,4,Stuehus,159,1900,
+Hørve Kanalvej 19 4534 Hørve,19,350077.0,31-05-2015,Alm.,2448,3,Stuehus,143,1910,
+Vallekildevej 34 4534 Hørve,34,400000.0,27-05-2015,Alm.,0,7,Villa,100,1936,
+Bakken 2 4534 Hørve,2,590000.0,15-05-2015,Alm.,3959,4,Villa,149,1949,-15 %
+Søhusvej 56 4534 Hørve,56,1850000.0,14-05-2015,Alm.,11783,5,Villa,157,2011,-7 %
+Elmkær 10 4534 Hørve,10,550000.0,09-05-2015,Alm.,4166,4,Villa,132,1974,
+På Højen 4D 4534 Hørve,0,600000.0,21-04-2015,Alm.,10344,3,Rækkehus,58,1975,-3 %
+Fladehøj 49 4534 Hørve,49,825000.0,10-04-2015,Alm.,8870,4,Villa,93,1979,-8 %
+Vallekildevej 113A 4534 Hørve,0,1230000.0,31-03-2015,Alm.,10081,4,Villa,122,1985,-2 %
+Nyrupsvej 4 4534 Hørve,4,425000.0,30-03-2015,Alm.,4381,4,Villa,97,1966,-14 %
+Engmosevej 10 4534 Hørve,10,1100000.0,25-03-2015,Fam.,6586,5,Villa,167,1974,
+Lundevej 7 4534 Hørve,7,950000.0,15-03-2015,Alm.,5491,6,Villa,173,1969,-5 %
+Industrivej 5 4534 Hørve,5,595000.0,11-03-2015,Auktion,5613,4,Villa,106,1925,
+Hørve Kanalvej 55A 4534 Hørve,0,220000.0,09-03-2015,Auktion,1294,5,Villa,170,1925,
+Sølvagervej 13 4534 Hørve,13,797000.0,18-02-2015,Alm.,6930,5,Rækkehus,115,1988,
+Næbbevej 6A 4534 Hørve,0,795500.0,13-02-2015,Alm.,3356,5,Villa,237,1800,0 %
+Starreklintevej 23 4534 Hørve,23,1320000.0,10-02-2015,Alm.,7904,6,Villa,167,1919,-5 %
+Dragsmøllevej 5B 4534 Hørve,0,350000.0,10-02-2015,Fam.,2258,5,Villa,155,1974,
+Vallekildevej 146 4534 Hørve,146,1200000.0,09-02-2015,Alm.,7500,6,Villa,160,1939,-14 %
+Strandlystvej 5 4534 Hørve,5,1057756.0,21-01-2015,Andet,7244,7,Stuehus,146,1850,
+Skolelodden 8 4534 Hørve,8,470525.0,19-01-2015,Alm.,4277,3,Villa,110,1968,
+Strandlunden 13 4534 Hørve,13,246000.0,13-01-2015,Alm.,2827,4,Sommerhus,87,2015,
+Starreklintevej 7 4534 Hørve,7,750000.0,10-01-2015,Alm.,6355,8,Villa,118,1877,0 %
+Bakkedraget 31 4534 Hørve,31,760000.0,06-01-2015,Fam.,4634,5,Villa,164,1980,
+Skolegade 2 4534 Hørve,2,647000.0,05-01-2015,Andet,5725,6,Villa,113,1920,
+Bakkedraget 3 4534 Hørve,3,1200000.0,16-12-2014,Alm.,8955,6,Villa,134,2007,-14 %
+Kildevej 2 4534 Hørve,2,650000.0,10-12-2014,Alm.,5508,4,Villa,118,1987,-6 %
+Starreklintevej 31 4534 Hørve,31,110000.0,07-12-2014,Alm.,1666,3,Villa,66,1887,
+Bjergesøvej 7 4534 Hørve,7,998000.0,28-11-2014,Alm.,8048,5,Stuehus,124,1925,-6 %
+Elmkær 14 4534 Hørve,14,674750.0,05-11-2014,Auktion,5622,4,Villa,120,1968,
+Holmagervej 3 4534 Hørve,3,600000.0,03-11-2014,Alm.,5000,9,Villa,120,1958,-8 %
+Nørregade 24 4534 Hørve,24,615700.0,01-10-2014,Auktion,4077,7,Villa,151,1935,
+Nekseløvej 35 4534 Hørve,35,1525000.0,08-09-2014,Alm.,28240,4,Sommerhus,54,1952,-10 %
+Bjergesøvej 9 4534 Hørve,9,600000.0,04-09-2014,Alm.,8571,3,Villa,70,1700,
+Bakkedraget 49 4534 Hørve,49,915000.0,27-08-2014,Alm.,7148,4,Villa,128,1976,-8 %
+Hørve Kirkevej 23E 4534 Hørve,0,237000.0,26-08-2014,Alm.,3485,2,Rækkehus,68,1975,
+Søhusvej 4 4534 Hørve,4,1425000.0,25-08-2014,Alm.,10714,4,Villa,133,2008,-11 %
+Strandlunden 36 4534 Hørve,36,1100000.0,08-08-2014,Alm.,9166,3,Sommerhus,120,2014,
+Kirkestien 2 4534 Hørve,2,283333.0,05-08-2014,Fam.,4885,4,Villa,58,1957,
+Starreklintevej 35 4534 Hørve,35,1997000.0,05-08-2014,Alm.,10622,5,Stuehus,188,1853,
+Vallekildevej 17 4534 Hørve,17,950000.0,16-07-2014,Alm.,7600,4,Villa,125,1911,-5 %
+Bjergesøvej 42 4534 Hørve,42,1130000.0,15-07-2014,Fam.,10272,2,Villa,110,1827,
+Hørve Kanalvej 1 4534 Hørve,1,1325000.0,10-07-2014,Alm.,11622,2,Stuehus,114,1931,
+Fladehøj 17 4534 Hørve,17,1235000.0,04-07-2014,Alm.,8821,4,Villa,140,1986,-5 %
+Industrivej 9 4534 Hørve,9,525000.0,20-06-2014,Alm.,3697,4,Villa,142,1953,-12 %
+Klitvej 6A 4534 Hørve,0,1500000.0,10-06-2014,Alm.,10638,6,Sommerhus,141,2017,0 %
+Fyrrestien 4 4534 Hørve,4,260000.0,26-05-2014,Alm.,4561,3,Sommerhus,57,2010,-25 %
+Bjergesøvej 45 4534 Hørve,45,350000.0,23-05-2014,Andet,1724,7,Villa,203,1935,
+Højskolevej 4 4534 Hørve,4,1385000.0,16-05-2014,Alm.,6856,7,Villa,202,1885,
+Fladehøj 11 4534 Hørve,11,1025000.0,15-05-2014,Alm.,0,4,Villa,142,1981,-6 %
+Industrivej 1 4534 Hørve,1,399000.0,06-05-2014,Alm.,4113,4,Villa,97,1902,0 %
+Højskolevej 17 4534 Hørve,17,3300000.0,30-04-2014,Alm.,10476,7,Villa,315,1885,
+Sølvagervej 12 4534 Hørve,12,450000.0,23-04-2014,Alm.,4838,4,Villa,93,1927,-10 %
+Teglværksvej 12 4534 Hørve,12,1500000.0,16-04-2014,Alm.,13043,4,Stuehus,115,1921,-12 %
+Vallekildevej 58 4534 Hørve,58,495000.0,14-04-2014,Alm.,2750,7,Villa,180,1900,0 %
+Bakkedraget 15 4534 Hørve,15,850000.0,24-03-2014,Auktion,6640,4,Villa,128,1978,
+"Teglværksvej 9A, ST. 1 4534 Hørve",1,1500000.0,23-03-2014,Alm.,9036,4,Villa,166,1836,
+Brunbjergvej 2 4534 Hørve,2,4585000.0,16-03-2014,Alm.,59545,2,Villa,77,1920,
+Holstensvejen 9 4534 Hørve,9,1172500.0,12-03-2014,Alm.,4708,5,Stuehus,249,2015,
+Hørve Møllevej 9 4534 Hørve,9,525000.0,27-02-2014,Alm.,4303,4,Villa,122,1959,-24 %
+På Højen 21 4534 Hørve,21,1050000.0,26-02-2014,Alm.,6104,4,Villa,172,1974,-5 %
+Starreklintevej 39 4534 Hørve,39,1038500.0,23-02-2014,Andet,5968,7,Stuehus,174,1934,-63 %
+På Højen 17 4534 Hørve,17,970000.0,19-02-2014,Alm.,6689,4,Villa,145,1973,0 %
+Elmkær 46 4534 Hørve,46,1045000.0,19-02-2014,Alm.,8228,4,Villa,127,1970,-5 %
+Kolåsvej 13 4534 Hørve,13,557207.0,03-02-2014,Alm.,5207,4,Villa,107,1949,
+Rødelejevej 2 4534 Hørve,2,4632500.0,18-01-2014,Fam.,18530,7,Stuehus,250,1900,
+Vikæret 8 4534 Hørve,8,850000.0,12-01-2014,Alm.,15178,2,Villa,56,1987,
+Skolegade 17 4534 Hørve,17,496054.0,10-01-2014,Alm.,4168,6,Villa,119,1961,-53 %
+Hørve Kanalvej 35 4534 Hørve,35,1640000.0,20-12-2013,Fam.,8200,6,Stuehus,200,1907,
+Sølvagervej 33 4534 Hørve,33,349000.0,05-12-2013,Auktion,6584,2,Rækkehus,53,1974,
+Østerled 2 4534 Hørve,2,550000.0,12-11-2013,Alm.,3642,7,Villa,151,1957,
+Skolegade 33 4534 Hørve,33,800000.0,22-10-2013,Alm.,0,6,Villa,170,1969,-3 %
+Nekseløvej 33 4534 Hørve,33,1024192.0,16-10-2013,Fam.,16790,4,Sommerhus,61,2006,
+Banevej 8 4534 Hørve,8,152000.0,10-10-2013,Alm.,1357,5,Villa,112,1904,-64 %
+Bjergesøvej 23 4534 Hørve,23,200000.0,08-10-2013,Alm.,2083,3,Villa,96,1850,-33 %
+Bjergesøvej 43 4534 Hørve,43,1150000.0,28-08-2013,Alm.,10747,3,Stuehus,107,1924,
+Kalundborgvej 57 4534 Hørve,57,600000.0,26-08-2013,Auktion,4081,5,Stuehus,147,1880,
+Kildebakken 12 4534 Hørve,12,900000.0,19-08-2013,Auktion,5625,5,Villa,160,1973,-31 %
+Hørve Kanalvej 3 4534 Hørve,3,2890000.0,14-08-2013,Fam.,15130,5,Stuehus,191,1900,
+Sandbyhagevej 1 4534 Hørve,1,1006000.0,11-07-2013,Alm.,7921,5,Stuehus,127,1922,
+Vallekildevej 11B 4534 Hørve,0,430000.0,03-07-2013,Alm.,3771,4,Villa,114,1940,-34 %
+Lillevangen 12 4534 Hørve,12,658218.0,20-06-2013,Alm.,3210,5,Villa,205,1916,
+Fladehøj 23 4534 Hørve,23,895000.0,20-06-2013,Alm.,6884,4,Villa,130,1979,0 %
+Kildevej 8 4534 Hørve,8,915000.0,14-06-2013,Alm.,4377,7,Villa,209,1974,-8 %
+Nekseløvej 59 4534 Hørve,59,1765000.0,13-06-2013,Alm.,27153,2,Sommerhus,65,1935,
+Hørve Kanalvej 67 4534 Hørve,67,2210000.0,03-06-2013,Fam.,30694,4,Stuehus,72,1928,
+Dragsmøllevej 4 4534 Hørve,4,250000.0,30-05-2013,Alm.,2941,2,Villa,85,1959,-57 %
+Hørve Kanalvej 65 4534 Hørve,65,850000.0,19-05-2013,Alm.,8333,2,Villa,102,1913,-5 %
+Slugten 11 4534 Hørve,11,995000.0,16-05-2013,Alm.,12594,4,Sommerhus,79,2006,-9 %
+Svinget 1 4534 Hørve,1,478109.0,01-05-2013,Alm.,4597,3,Villa,104,1952,
+Fladehøj 9 4534 Hørve,9,1600000.0,18-04-2013,Alm.,11188,4,Villa,143,2000,-6 %
+Strandlunden 38 4534 Hørve,38,250000.0,08-04-2013,Alm.,2604,4,Sommerhus,96,2015,-9 %
+Hørve Kanalvej 45 4534 Hørve,45,487000.0,13-03-2013,Auktion,4728,5,Villa,103,1900,
+Kalundborgvej 49 4534 Hørve,49,80000.0,19-02-2013,Alm.,547,6,Stuehus,146,1921,
+Fladehøj 8 4534 Hørve,8,502431.0,14-02-2013,Alm.,5521,3,Villa,91,1977,
+Nygårdsvej 8 4534 Hørve,8,3290000.0,11-02-2013,Alm.,19939,5,Stuehus,165,1910,-11 %
+Sølvagervej 37 4534 Hørve,37,285000.0,24-01-2013,Alm.,5181,2,Rækkehus,55,1974,-28 %
+Søndergade 10 4534 Hørve,10,550000.0,10-01-2013,Alm.,4263,4,Villa,129,1908,-15 %
+Dragsmøllevej 7 4534 Hørve,7,1700000.0,03-01-2013,Alm.,10000,4,Stuehus,170,1900,
+Overbyvej 2 4534 Hørve,2,350000.0,14-12-2012,Fam.,3333,4,Sommerhus,105,1979,-61 %
+Starreklintevej 14B 4534 Hørve,0,500000.0,10-12-2012,Alm.,4310,4,Villa,116,1937,
+Slotsvej 7 4534 Hørve,7,500000.0,09-12-2012,Alm.,4761,3,Villa,105,1958,-15 %
+Bjergesøvej 28 4534 Hørve,28,475000.0,07-12-2012,Alm.,4203,5,Villa,113,1900,-20 %
+Næbbevej 17 4534 Hørve,17,125000.0,05-12-2012,Alm.,781,4,Stuehus,160,1907,
+Vallekildevej 112 4534 Hørve,112,74380.0,16-11-2012,Alm.,175,8,Stuehus,425,1877,
+Hørve Kirkevej 23F 4534 Hørve,0,363000.0,09-11-2012,Andet,5338,2,Rækkehus,68,1975,
+Kirkebakken 2 4534 Hørve,2,1150000.0,08-11-2012,Alm.,6216,6,Villa,185,1964,
+Nyrupsvej 7 4534 Hørve,7,282500.0,05-11-2012,Auktion,2173,4,Villa,130,1963,
+Nekseløvej 57 4534 Hørve,57,1600000.0,30-10-2012,Alm.,29629,3,Sommerhus,54,1936,
+Hørve Møllevej 7 4534 Hørve,7,542376.0,15-10-2012,Alm.,8748,3,Villa,62,1954,
+Vallekildevej 9 4534 Hørve,9,845774.0,15-10-2012,Alm.,5714,6,Villa,148,1907,
+Hovvejen 9 4534 Hørve,9,245000.0,08-10-2012,Alm.,1424,4,Stuehus,172,1917,
+Vindekilde Strandvej 10 4534 Hørve,10,1742500.0,26-09-2012,Fam.,11934,5,Sommerhus,146,1777,
+Bakkedraget 26 4534 Hørve,26,845000.0,24-09-2012,Alm.,6601,5,Villa,128,1975,-6 %
+Remisevej 2 4534 Hørve,2,700000.0,18-09-2012,Alm.,7954,3,Villa,88,1960,
+Vallekildevej 12 4534 Hørve,12,675000.0,17-09-2012,Alm.,6026,11,Villa,112,1886,
+Kalundborgvej 30 4534 Hørve,30,299000.0,29-08-2012,Auktion,1625,6,Stuehus,184,1777,
+Elmkær 89 4534 Hørve,89,800000.0,13-08-2012,Alm.,5194,4,Villa,154,1974,-9 %
+På Højen 13 4534 Hørve,13,800000.0,08-08-2012,Alm.,6896,2,Villa,116,1973,-6 %
+Kildegårdsvej 8 4534 Hørve,8,890000.0,25-07-2012,Alm.,6544,5,Villa,136,1973,-11 %
+Bjergesøvej 8 4534 Hørve,8,1200000.0,17-07-2012,Alm.,11214,4,Villa,107,1910,
+Søhusvej 46 4534 Hørve,46,1350000.0,11-07-2012,Alm.,9712,4,Villa,139,2006,-3 %
+Nyrupsvej 11 4534 Hørve,11,950000.0,06-07-2012,Alm.,6597,7,Villa,144,1965,-5 %
+Holstensvejen 2 4534 Hørve,2,300000.0,04-07-2012,Auktion,3157,2,Villa,95,1830,
+Lillevangen 15 4534 Hørve,15,495000.0,23-06-2012,Alm.,8839,3,Stuehus,56,1850,
+Søhusvej 22 4534 Hørve,22,2250000.0,15-06-2012,Alm.,10613,7,Villa,212,2007,-6 %
+Kalundborgvej 36 4534 Hørve,36,1900000.0,14-06-2012,Alm.,7251,6,Villa,262,1921,
+Søndergade 15A 4534 Hørve,0,250000.0,01-06-2012,Alm.,2808,4,Villa,89,1952,
+Hørve Kanalvej 51 4534 Hørve,51,199000.0,23-05-2012,Auktion,1431,5,Villa,139,1910,
+Starreklintevej 8 4534 Hørve,8,500000.0,07-05-2012,Alm.,2762,6,Villa,181,1797,
+Hørve Møllevej 17 4534 Hørve,17,420000.0,02-05-2012,Alm.,3000,6,Villa,140,1902,-28 %
+Skolegade 27 4534 Hørve,27,1100000.0,29-04-2012,Alm.,7857,6,Villa,140,1962,-8 %
+Bakkedraget 38 4534 Hørve,38,1000000.0,26-04-2012,Alm.,7142,4,Villa,140,1977,-16 %
+Fladehøj 51 4534 Hørve,51,975000.0,08-04-2012,Alm.,6866,4,Villa,142,1980,-15 %
+Lindebjerg 14 4534 Hørve,14,780000.0,04-04-2012,Alm.,10000,3,Rækkehus,78,1986,-2 %
+Bjergesøvej 41 4534 Hørve,41,1475000.0,11-03-2012,Alm.,11259,2,Stuehus,131,1870,-11 %
+Starreklintevej 9 4534 Hørve,9,668350.0,04-03-2012,Alm.,6188,3,Villa,108,1910,
+Dragsmøllevej 57 4534 Hørve,57,1575000.0,25-02-2012,Alm.,10500,4,Villa,150,1937,-5 %
+Skovlyvej 8 4534 Hørve,8,8285000.0,22-02-2012,Alm.,47073,7,Stuehus,176,1887,
+Bakken 1 4534 Hørve,1,400000.0,15-02-2012,Auktion,4000,4,Villa,100,1948,-60 %
+Bakkedraget 7 4534 Hørve,7,1200000.0,28-01-2012,Alm.,8823,5,Villa,136,2002,-20 %
+Skolegade 25 4534 Hørve,25,725000.0,23-12-2011,Alm.,6415,5,Villa,113,1961,-3 %
+Skolelodden 6 4534 Hørve,6,1000000.0,13-12-2011,Alm.,7407,5,Villa,135,1969,-16 %
+Bakkedraget 44 4534 Hørve,44,875000.0,01-12-2011,Alm.,7812,4,Villa,112,1980,-12 %
+Bakkedraget 63 4534 Hørve,63,750000.0,22-11-2011,Alm.,6465,4,Villa,116,1979,-6 %
+Teglværksvej 14D 4534 Hørve,0,2675000.0,15-11-2011,Alm.,26750,4,Sommerhus,100,2004,
+Vallekildevej 141A 4534 Hørve,0,430000.0,14-11-2011,Auktion,6056,3,Villa,71,1950,
+Sølvagervej 24 4534 Hørve,24,977500.0,03-11-2011,Fam.,7032,7,Villa,139,1920,
+Hørve Kanalvej 13 4534 Hørve,13,2500000.0,31-10-2011,Alm.,9057,7,Stuehus,276,1914,
+Engmosevej 9 4534 Hørve,9,925000.0,31-08-2011,Alm.,9158,4,Villa,101,1968,-7 %
+Tinghøjvej 1 4534 Hørve,1,1250000.0,27-08-2011,Fam.,7225,6,Villa,173,1777,
+Dragsmøllevej 25 4534 Hørve,25,400000.0,24-08-2011,Alm.,2424,6,Villa,165,2013,
+Overbyvej 7 4534 Hørve,7,1700000.0,07-08-2011,Alm.,19101,4,Sommerhus,89,2007,
+Vallekildevej 119 4534 Hørve,119,1575000.0,04-08-2011,Alm.,15594,5,Villa,101,1940,
+Lindebjerg 2D 4534 Hørve,0,930000.0,04-08-2011,Alm.,10219,4,Rækkehus,91,1999,
+Vallekildevej 96 4534 Hørve,96,1400000.0,20-07-2011,Alm.,7608,5,Villa,184,1942,-12 %
+Industrivej 21 4534 Hørve,21,1200000.0,13-07-2011,Fam.,7272,6,Villa,165,1972,
+Sølvagervej 45 4534 Hørve,45,647500.0,05-07-2011,Andet,4434,6,Villa,146,1933,
+Næbbevej 1 4534 Hørve,1,650000.0,21-06-2011,Alm.,6770,3,Villa,96,1960,-6 %
+Kirkestien 5 4534 Hørve,5,150000.0,15-06-2011,Alm.,757,6,Villa,198,1905,
+Vallekildevej 134 4534 Hørve,134,1200000.0,01-06-2011,Alm.,8219,10,Villa,146,1932,
+Fladehøj 37 4534 Hørve,37,634500.0,31-05-2011,Fam.,4287,5,Villa,148,1979,
+Vallekildevej 143 4534 Hørve,143,360000.0,06-05-2011,Auktion,3302,3,Villa,109,1887,
+Kirkebakken 11 4534 Hørve,11,100000.0,02-05-2011,Alm.,877,4,Stuehus,114,1934,
+Lundevej 12 4534 Hørve,12,850000.0,15-03-2011,Alm.,8854,4,Villa,96,1973,-5 %
+Fjordvej 4 4534 Hørve,4,4925772.0,20-02-2011,Andet,25260,6,Stuehus,195,1900,
+Stendyssevej 1B 4534 Hørve,0,1092218.0,10-02-2011,Alm.,8337,5,Stuehus,131,1938,
+Nekseløvej 3 4534 Hørve,3,3000000.0,09-02-2011,Auktion,0,6,Stuehus,247,1919,-25 %
+Vallekildevej 154 4534 Hørve,154,500000.0,03-02-2011,Fam.,3267,3,Villa,153,1914,
+Banevej 6A 4534 Hørve,0,520000.0,01-02-2011,Alm.,5473,3,Villa,95,1947,
+Vallekildevej 110 4534 Hørve,110,1100000.0,26-01-2011,Alm.,7857,4,Villa,140,1964,
+Skolelodden 11 4534 Hørve,11,700000.0,24-01-2011,Fam.,5833,4,Villa,120,1976,
+Starreklintevej 12 4534 Hørve,12,230000.0,14-01-2011,Auktion,1474,4,Villa,156,1899,-58 %
+Poppelvang 22 4534 Hørve,22,747500.0,10-01-2011,Alm.,4199,6,Villa,178,1973,
+Starreklintevej 14A 4534 Hørve,0,1250000.0,07-01-2011,Alm.,5952,7,Villa,210,1982,0 %
+Bulskovvej 12 4534 Hørve,12,750000.0,29-12-2010,Alm.,11718,3,Sommerhus,64,1952,
+Nekseløvej 49 4534 Hørve,49,750000.0,15-12-2010,Alm.,25000,4,Sommerhus,30,1956,
+Møllevangen 10 4534 Hørve,10,1450000.0,08-12-2010,Alm.,16477,3,Stuehus,88,1870,
+Industrivej 11 4534 Hørve,11,3150000.0,03-12-2010,Alm.,20192,5,Villa,156,2005,-3 %
+Strandlunden 5 4534 Hørve,5,350000.0,29-11-2010,Alm.,5147,4,Sommerhus,68,2011,1 %
+Skolegade 14 4534 Hørve,14,1175000.0,01-11-2010,Alm.,8392,5,Villa,140,1954,-2 %
+Skolegade 30 4534 Hørve,30,1175000.0,01-11-2010,Alm.,8834,4,Villa,133,1962,0 %
+Elmkær 36 4534 Hørve,36,510000.0,01-11-2010,Fam.,4214,4,Villa,121,1970,
+Nørregade 25 4534 Hørve,25,1064373.0,22-10-2010,Alm.,4927,6,Villa,216,1952,
+Lindebjerg 10C 4534 Hørve,0,2195000.0,19-10-2010,Alm.,17991,4,Stuehus,122,1900,
+Hovvejen 4 4534 Hørve,4,1050000.0,11-10-2010,Auktion,6213,6,Stuehus,169,1875,
+Holmagervej 1 4534 Hørve,1,1133000.0,04-10-2010,Alm.,7125,5,Villa,159,1960,-1 %
+Sølvagervej 20B 4534 Hørve,0,1550000.0,17-09-2010,Alm.,9281,6,Villa,167,2006,0 %
+Holstensvejen 30 4534 Hørve,30,7725000.0,16-09-2010,Auktion,44142,6,Stuehus,175,1882,
+Vallekildevej 64 4534 Hørve,64,750000.0,31-08-2010,Alm.,6756,5,Villa,111,1945,-16 %
+Bulskovvej 29 4534 Hørve,29,1200000.0,25-08-2010,Alm.,17142,5,Sommerhus,70,2004,
+Fyrrestien 1 4534 Hørve,1,1150000.0,16-08-2010,Alm.,11734,3,Sommerhus,98,1969,-4 %
+Søndergade 28 4534 Hørve,28,800000.0,10-08-2010,Alm.,8080,3,Villa,99,1960,-20 %
+Hørve Kanalvej 23 4534 Hørve,23,350000.0,22-07-2010,Alm.,2023,4,Villa,173,2014,
+Bjergesøvej 21 4534 Hørve,21,1500000.0,01-07-2010,Andet,8823,6,Villa,170,1878,
+Slugten 3 4534 Hørve,3,782000.0,16-06-2010,Alm.,13719,2,Sommerhus,57,1977,
+Stendyssevej 18 4534 Hørve,18,2100000.0,07-06-2010,Fam.,8467,5,Stuehus,248,1915,
+Lindebjerg 16 4534 Hørve,16,734000.0,04-06-2010,Fam.,9410,3,Rækkehus,78,1988,
+Overbyvej 20 4534 Hørve,20,301750.0,24-05-2010,Fam.,3635,3,Sommerhus,83,2015,
+Remisevej 5 4534 Hørve,5,850000.0,29-04-2010,Alm.,9659,3,Villa,88,1948,0 %
+Hovvejen 11 4534 Hørve,11,820000.0,28-04-2010,Auktion,4315,7,Villa,190,1914,
+Poppelvang 7 4534 Hørve,7,1300000.0,27-04-2010,Alm.,8724,6,Villa,149,1973,-3 %
+Firstensvej 2 4534 Hørve,2,380000.0,26-04-2010,Alm.,3193,3,Villa,119,1921,
+Rørmosevej 6 4534 Hørve,6,123324.0,19-04-2010,Alm.,560,8,Stuehus,220,2006,
+Vallekildevej 50 4534 Hørve,50,600000.0,15-04-2010,Auktion,4761,5,Villa,126,1915,-50 %
+Kildegårdsvej 6A 4534 Hørve,0,1350000.0,09-04-2010,Alm.,7142,7,Villa,189,1973,-11 %
+Elmkær 8C 4534 Hørve,0,1849000.0,08-04-2010,Alm.,13595,5,Villa,136,2010,
+Fladehøj 57 4534 Hørve,57,1250000.0,08-04-2010,Alm.,8680,5,Villa,144,1978,-10 %
+Vallekildevej 94 4534 Hørve,94,500000.0,30-03-2010,Alm.,3184,5,Stuehus,157,1913,
+Søhusvej 38 4534 Hørve,38,200000.0,26-03-2010,Alm.,1204,6,Villa,166,2011,
+Bjergesøvej 3 4534 Hørve,3,825000.0,21-03-2010,Alm.,8088,4,Villa,102,1942,-8 %
+Skovvangsvej 2 4534 Hørve,2,200000.0,06-03-2010,Alm.,1315,6,Stuehus,152,1921,
+Vallekildevej 35 4534 Hørve,35,1250000.0,03-03-2010,Alm.,5630,7,Villa,222,1926,
+Vallekildevej 151 4534 Hørve,151,300000.0,22-02-2010,Alm.,1886,4,Villa,159,1923,
+Tinghøjvej 4 4534 Hørve,4,110000.0,22-02-2010,Alm.,480,11,Stuehus,229,1923,
+Søndergade 30 4534 Hørve,30,330000.0,04-02-2010,Auktion,3473,3,Villa,95,1934,
+Møllevangen 3 4534 Hørve,3,109158.0,02-02-2010,Alm.,415,6,Villa,263,1918,
+Næbbevej 9 4534 Hørve,9,970848.0,19-01-2010,Alm.,8906,2,Villa,109,1850,
+Remisevej 4 4534 Hørve,4,850000.0,16-01-2010,Alm.,8173,4,Villa,104,1957,-5 %
+Vallekildevej 131 4534 Hørve,131,2090000.0,29-12-2009,Alm.,7060,9,Villa,296,1904,-16 %
+Lindebjerg 15 4534 Hørve,15,1000000.0,01-12-2009,Alm.,12195,4,Rækkehus,82,1989,
+Højskolevej 7B 4534 Hørve,0,2000000.0,28-11-2009,Alm.,7968,11,Villa,251,1950,
+Nygårdsvej 6 4534 Hørve,6,1400000.0,01-10-2009,Alm.,9333,5,Stuehus,150,1870,-48 %
+Teglværksvej 9E 4534 Hørve,0,305000.0,01-10-2009,Andet,3961,3,Sommerhus,77,1963,
+Bjergesøvej 1 4534 Hørve,1,2700000.0,29-09-2009,Alm.,13846,5,Stuehus,195,1928,-7 %
+Overbyvej 16 4534 Hørve,16,1075000.0,08-09-2009,Alm.,15579,3,Sommerhus,69,1980,-10 %
+Vejrhøjvej 1 4534 Hørve,1,1450000.0,28-08-2009,Alm.,9177,4,Villa,158,1937,-9 %
+Sølvagervej 4 4534 Hørve,4,1250000.0,16-08-2009,Alm.,9920,5,Villa,126,1963,-7 %
+Møllevangen 1 4534 Hørve,1,150000.0,05-08-2009,Alm.,643,7,Stuehus,233,1912,
+Stendyssevej 5 4534 Hørve,5,588000.0,30-07-2009,Fam.,3698,3,Villa,159,1917,
+Elmkær 20 4534 Hørve,20,674474.0,21-07-2009,Fam.,5764,4,Villa,117,1971,-62 %
+Vallekildevej 28C 4534 Hørve,0,1700000.0,17-07-2009,Alm.,12408,4,Villa,137,2009,0 %
+Stendyssevej 14 4534 Hørve,14,1500000.0,19-06-2009,Alm.,10135,5,Villa,148,1930,-9 %
+Lundevej 10 4534 Hørve,10,800000.0,28-05-2009,Alm.,8163,3,Villa,98,2011,-5 %
+Slugten 13 4534 Hørve,13,750000.0,24-05-2009,Alm.,17857,3,Sommerhus,42,1980,-14 %
+Sølvagervej 9 4534 Hørve,9,1350000.0,05-05-2009,Alm.,11739,5,Rækkehus,115,1988,
+På Højen 5 4534 Hørve,5,1665000.0,20-04-2009,Alm.,8242,5,Villa,202,1973,-2 %
+Kildebakken 5 4534 Hørve,5,1325000.0,10-04-2009,Alm.,11422,4,Villa,116,1973,-2 %
+Vallekildevej 14 4534 Hørve,14,1025000.0,07-04-2009,Alm.,6655,5,Villa,154,1904,-2 %
+Vikæret 4 4534 Hørve,4,850000.0,26-03-2009,Fam.,13281,2,Villa,64,1952,
+Lindebjerg 8B 4534 Hørve,0,1000000.0,17-03-2009,Alm.,10869,3,Rækkehus,92,1985,
+Strandlystvej 1 4534 Hørve,1,26500000.0,10-03-2009,Alm.,128640,6,Stuehus,206,1920,
+Kolåsvej 15 4534 Hørve,15,478953.0,02-03-2009,Andet,3831,5,Villa,125,1967,
+Kalundborgvej 59 4534 Hørve,59,2950000.0,31-01-2009,Alm.,31052,5,Stuehus,95,1930,
+Kirkestien 6 4534 Hørve,6,890000.0,31-01-2009,Alm.,10348,3,Villa,86,1959,
+Lindebjerg 12B 4534 Hørve,0,875000.0,13-01-2009,Alm.,11217,3,Rækkehus,78,1986,-12 %
+Parkvej 7 4534 Hørve,7,1200000.0,13-12-2008,Alm.,7894,5,Villa,152,1966,-7 %
+Kalundborgvej 26B 4534 Hørve,0,384000.0,24-11-2008,Fam.,8347,3,Sommerhus,46,1962,
+Skolegade 28 4534 Hørve,28,1450000.0,17-11-2008,Alm.,10820,4,Villa,134,1963,-9 %
+Parkvej 3 4534 Hørve,3,1150000.0,19-10-2008,Alm.,8156,7,Villa,141,1966,-17 %
+Elmkær 83 4534 Hørve,83,1200000.0,10-10-2008,Alm.,10084,4,Villa,119,1971,-7 %
+Nekseløvej 4 4534 Hørve,4,1695000.0,09-10-2008,Alm.,21187,2,Stuehus,80,1921,
+Hørve Kirkevej 27 4534 Hørve,27,2060000.0,06-10-2008,Alm.,14206,6,Villa,145,2006,-10 %
+Lindebjerg 4A 4534 Hørve,0,1200000.0,01-10-2008,Alm.,13186,4,Rækkehus,91,1999,-7 %
+Triersvej 5 4534 Hørve,5,730000.0,01-10-2008,Alm.,5367,5,Villa,136,1899,
+Vejrhøjvej 4 4534 Hørve,4,869243.0,28-09-2008,Alm.,3863,13,Villa,225,1989,
+Sølvagervej 39 4534 Hørve,39,1425000.0,24-09-2008,Alm.,13571,5,Villa,105,1959,-3 %
+Vallekildevej 172 4534 Hørve,172,2000000.0,15-09-2008,Alm.,13071,5,Villa,153,1894,-4 %
+Tømrervænget 5 4534 Hørve,5,1425000.0,15-09-2008,Alm.,11585,5,Villa,123,1960,-2 %
+Hørve Kanalvej 53 4534 Hørve,53,1567000.0,05-09-2008,Alm.,8379,7,Villa,187,1910,
+Starreklintevej 27 4534 Hørve,27,350000.0,28-08-2008,Fam.,3645,3,Villa,96,1967,
+Kildevej 3 4534 Hørve,3,203500.0,15-08-2008,Alm.,1785,4,Villa,114,2010,
+Bulskovvej 30 4534 Hørve,30,425000.0,09-08-2008,Alm.,6854,5,Sommerhus,62,1967,0 %
+Vallekildevej 157 4534 Hørve,157,589288.0,15-07-2008,Andet,6932,4,Villa,85,1951,
+Holstensvejen 8 4534 Hørve,8,995000.0,03-07-2008,Alm.,6677,6,Villa,149,1978,
+Fladehøj 13 4534 Hørve,13,900000.0,01-07-2008,Alm.,6122,5,Villa,147,1981,
+Dragsmøllevej 39 4534 Hørve,39,16790000.0,25-06-2008,Alm.,54161,10,Stuehus,310,1854,
+Dragsmøllevej 44 4534 Hørve,44,2300000.0,22-06-2008,Fam.,0,8,Stuehus,196,1937,
+På Højen 15 4534 Hørve,15,1475000.0,19-06-2008,Alm.,16032,3,Villa,92,1980,0 %
+Elmkær 22 4534 Hørve,22,1400000.0,09-06-2008,Alm.,11475,4,Villa,122,1970,-7 %
+Idrætsvej 2 4534 Hørve,2,650000.0,08-06-2008,Fam.,3494,7,Villa,186,1971,
+Vallekildevej 149 4534 Hørve,149,110000.0,29-05-2008,Alm.,1325,3,Stuehus,83,1923,
+Tuborgvej 64 4534 Hørve,64,2186000.0,15-05-2008,Alm.,18216,3,Villa,120,1933,-9 %
+Vallekildevej 20 4534 Hørve,20,1275000.0,15-05-2008,Alm.,10039,5,Villa,127,1907,-6 %
+Pilevang 2 4534 Hørve,2,1600000.0,14-05-2008,Alm.,10738,6,Villa,149,1973,-6 %
+Rørmosevej 4 4534 Hørve,4,991362.0,02-05-2008,Alm.,8473,4,Stuehus,117,1973,
+Bjergesøvej 35 4534 Hørve,35,1995000.0,28-04-2008,Alm.,15585,5,Villa,128,1907,0 %
+Kildebakken 7 4534 Hørve,7,1625000.0,18-03-2008,Alm.,0,4,Villa,116,1973,
+Dragsmøllevej 49 4534 Hørve,49,1050000.0,14-03-2008,Alm.,12068,4,Villa,87,1870,0 %
+Lindebjerg 20 4534 Hørve,20,1165000.0,11-03-2008,Fam.,12010,4,Rækkehus,97,1984,
+Lindebjerg 5A 4534 Hørve,0,800000.0,10-03-2008,Fam.,8695,4,Villa,92,1981,
+Hørve Kirkevej 23G 4534 Hørve,0,750000.0,28-02-2008,Alm.,11029,2,Rækkehus,68,1975,-6 %
+Tangmosen 2 4534 Hørve,2,1650000.0,27-02-2008,Alm.,11148,4,Villa,148,1904,-6 %
+Vallekildevej 102 4534 Hørve,102,1340000.0,19-02-2008,Fam.,10468,5,Villa,128,1936,
+Sølvagervej 35 4534 Hørve,35,865000.0,18-02-2008,Alm.,16320,2,Rækkehus,53,1974,-3 %
+Starreklintevej 11 4534 Hørve,11,950000.0,18-02-2008,Alm.,12179,3,Villa,78,1827,
+Hørve Kirkevej 23D 4534 Hørve,0,545000.0,04-02-2008,Alm.,8014,2,Rækkehus,68,1975,
+Hørve Kirkevej 23B 4534 Hørve,0,850000.0,24-01-2008,Alm.,12500,2,Rækkehus,68,1975,
+Nørregade 13C 4534 Hørve,0,1500000.0,22-01-2008,Alm.,12096,5,Servicevirksomhed,124,1924,
+Tangmosen 14 4534 Hørve,14,450000.0,08-01-2008,Alm.,11250,2,Villa,40,1822,
+Elmkær 8D 4534 Hørve,0,2012500.0,07-01-2008,Alm.,14797,4,Villa,136,2008,
+Slugten 6 4534 Hørve,6,1020000.0,22-12-2007,Alm.,18545,4,Sommerhus,55,1980,-11 %
+Nørregade 28 4534 Hørve,28,1425000.0,13-12-2007,Alm.,16569,4,Villa,86,1920,0 %
+Strandlunden 30 4534 Hørve,30,548000.0,11-12-2007,Alm.,6227,4,Sommerhus,88,2009,
+Vallekildevej 186 4534 Hørve,186,1257000.0,04-12-2007,Alm.,4537,8,Villa,277,1928,
+Vallekildevej 108D 4534 Hørve,0,2475000.0,21-11-2007,Alm.,10576,6,Villa,234,1988,-3 %
+Lindebjerg 9A 4534 Hørve,0,1050000.0,18-11-2007,Alm.,15441,3,Rækkehus,68,1989,
+Strandlystvej 11 4534 Hørve,11,4600000.0,15-11-2007,Alm.,20087,7,Stuehus,229,1927,
+Stendyssevej 7 4534 Hørve,7,1265000.0,30-10-2007,Alm.,13041,5,Villa,97,1964,
+Dragsmøllevej 45 4534 Hørve,45,5400000.0,20-10-2007,Alm.,24545,6,Stuehus,220,1873,
+Teglværksvej 11 4534 Hørve,11,2700000.0,17-10-2007,Alm.,14136,4,Stuehus,191,1921,
+Vallekildevej 141B 4534 Hørve,0,1195000.0,20-09-2007,Alm.,12070,3,Villa,99,1917,0 %
+Sølvagervej 31 4534 Hørve,31,750000.0,18-09-2007,Alm.,14150,2,Rækkehus,53,1974,-6 %
+Vindekilde Strandvej 13 4534 Hørve,13,1200000.0,11-09-2007,Alm.,14457,3,Villa,83,1952,
+Stendyssevej 3 4534 Hørve,3,1677000.0,10-09-2007,Alm.,14973,5,Villa,112,1943,
+Hørve Møllevej 10 4534 Hørve,10,1375000.0,07-09-2007,Alm.,11458,6,Villa,120,1915,
+Søhusvej 44 4534 Hørve,44,300000.0,04-09-2007,Alm.,1796,5,Villa,167,2008,
+Vikæret 16 4534 Hørve,16,739448.0,31-08-2007,Alm.,7623,4,Villa,97,1993,
+Vallekildevej 108B 4534 Hørve,0,1200000.0,15-08-2007,Fam.,10434,4,Villa,115,1987,
+Rødelejevej 6 4534 Hørve,6,2075000.0,06-08-2007,Alm.,16338,5,Stuehus,127,1907,-1 %
+Vejlebyvej 5 4534 Hørve,5,4500000.0,06-08-2007,Alm.,23195,3,Stuehus,194,1930,
+Vallekildevej 111 4534 Hørve,111,429500.0,01-08-2007,Andet,3869,5,Villa,111,1938,
+Næbbevej 5A 4534 Hørve,0,1676000.0,29-07-2007,Alm.,14203,3,Villa,118,1910,29 %
+Fladehøj 41 4534 Hørve,41,1625000.0,21-07-2007,Alm.,13888,5,Villa,117,1979,-1 %
+Industrivej 7 4534 Hørve,7,1375000.0,20-07-2007,Alm.,10742,4,Villa,128,1958,0 %
+Kirkebakken 6 4534 Hørve,6,2900000.0,15-07-2007,Alm.,12033,7,Villa,241,1850,-6 %
+Vallekildevej 117 4534 Hørve,117,1015000.0,11-07-2007,Alm.,7518,5,Villa,135,1850,-3 %
+Holstensvejen 22 4534 Hørve,22,2300000.0,05-07-2007,Alm.,16312,4,Stuehus,141,1937,-7 %
+Hørve Kirkevej 20 4534 Hørve,20,1125000.0,28-06-2007,Alm.,17307,2,Villa,65,1957,
+Elmkær 16 4534 Hørve,16,1530000.0,27-06-2007,Alm.,12439,5,Villa,123,1970,
+Bakkedraget 37 4534 Hørve,37,637500.0,22-06-2007,Andet,4793,5,Villa,133,1976,
+Vallekildevej 170 4534 Hørve,170,3500000.0,10-06-2007,Alm.,17156,6,Stuehus,204,1927,
+Vallekildevej 79 4534 Hørve,79,1758000.0,07-06-2007,Alm.,14177,5,Villa,124,1953,-5 %
+Sølvagervej 32 4534 Hørve,32,346070.0,30-05-2007,Alm.,2403,6,Villa,144,1965,
+Søhusvej 26 4534 Hørve,26,325000.0,23-05-2007,Alm.,2124,4,Villa,153,2013,
+Agervej 2 4534 Hørve,2,1205000.0,18-05-2007,Alm.,15448,3,Villa,78,1960,
+Vejrhøjvej 7B 4534 Hørve,0,1750000.0,15-05-2007,Alm.,11904,5,Villa,147,1993,
+Søhusvej 36 4534 Hørve,36,295000.0,08-05-2007,Alm.,1638,5,Villa,180,2010,
+Kildebakken 11 4534 Hørve,11,1450000.0,15-04-2007,Alm.,14500,3,Villa,100,2006,
+Søhusvej 40 4534 Hørve,40,365000.0,13-04-2007,Alm.,2339,5,Villa,156,2007,
+Næbbevej 13 4534 Hørve,13,1275000.0,12-04-2007,Alm.,10714,2,Villa,119,1877,
+Maglebjergvej 3 4534 Hørve,3,1240000.0,06-04-2007,Alm.,0,6,Villa,143,1967,-13 %
+Strandlunden 2 4534 Hørve,2,498000.0,30-03-2007,Alm.,4293,4,Sommerhus,116,2013,
+Strandlunden 34 4534 Hørve,34,548000.0,30-03-2007,Alm.,5320,4,Sommerhus,103,2007,
+Strandlunden 10 4534 Hørve,10,548000.0,27-03-2007,Alm.,5829,4,Sommerhus,94,2007,
+Holstensvejen 7 4534 Hørve,7,911436.0,27-03-2007,Alm.,5805,7,Villa,157,1877,
+Strandlunden 40 4534 Hørve,40,548000.0,27-03-2007,Alm.,7506,4,Sommerhus,73,2013,
+Strandlunden 62 4534 Hørve,62,583000.0,27-03-2007,Alm.,5500,5,Sommerhus,106,2014,
+Engmosevej 3 4534 Hørve,3,1400000.0,20-03-2007,Alm.,10218,5,Villa,137,1970,
+Vikæret 12 4534 Hørve,12,1480000.0,20-03-2007,Alm.,11044,4,Villa,134,1974,-1 %
+Lindebjerg 2B 4534 Hørve,0,1495000.0,01-03-2007,Alm.,14375,3,Rækkehus,104,2007,
+Hørve Møllevej 11 4534 Hørve,11,100000.0,16-02-2007,Alm.,769,5,Villa,130,1915,
+Vallekildevej 125 4534 Hørve,125,1525000.0,16-02-2007,Alm.,15721,4,Villa,97,1902,-2 %
+Nekseløvej 17 4534 Hørve,17,639000.0,16-02-2007,Alm.,10306,5,Sommerhus,62,1961,
+Starreklintevej 25 4534 Hørve,25,2600000.0,09-02-2007,Alm.,10317,10,Villa,252,1915,
+Nygårdsvej 10 4534 Hørve,10,1400000.0,05-02-2007,Alm.,9589,6,Villa,146,1976,-10 %
+Teglværksvej 14A 4534 Hørve,0,1050000.0,01-02-2007,Alm.,8076,4,Sommerhus,130,2017,-9 %
+Møllevangen 12 4534 Hørve,12,1045000.0,21-01-2007,Alm.,0,6,Villa,168,1890,-5 %
+Tangmosen 10 4534 Hørve,10,1200000.0,13-01-2007,Alm.,11320,4,Stuehus,106,1900,
+Søndergade 5 4534 Hørve,5,1285000.0,19-12-2006,Alm.,9809,4,Villa,131,1937,
+Holstensvejen 5 4534 Hørve,5,1495000.0,15-12-2006,Alm.,13590,3,Stuehus,110,1956,
+Sølvagervej 7 4534 Hørve,7,1425000.0,14-12-2006,Alm.,12391,5,Rækkehus,115,1987,
+Bulskovvej 21 4534 Hørve,21,225000.0,12-12-2006,Alm.,6428,3,Sommerhus,35,1956,
+Lindebjerg 22 4534 Hørve,22,1145000.0,12-12-2006,Alm.,14679,3,Rækkehus,78,1984,
+Hørve Kanalvej 57 4534 Hørve,57,4800000.0,11-12-2006,Fam.,22535,7,Stuehus,213,1890,
+Tømrervænget 1 4534 Hørve,1,1150000.0,01-12-2006,Alm.,9583,4,Villa,120,1942,
+Hørve Kanalvej 49 4534 Hørve,49,2710515.0,01-12-2006,Alm.,18693,6,Stuehus,145,1907,
+Nekseløvej 13 4534 Hørve,13,1920000.0,27-11-2006,Alm.,10434,5,Stuehus,184,1921,
+På Højen 25 4534 Hørve,25,850000.0,21-11-2006,Alm.,6390,5,Villa,133,1974,
+Bakkedraget 71 4534 Hørve,71,865345.0,13-11-2006,Alm.,5846,4,Villa,148,1987,
+"Hørve Stationsvej 7, 1 4534 Hørve",1,1600000.0,02-11-2006,Alm.,0,5,Lejlighed,119,1897,
+Fladehøj 12 4534 Hørve,12,1585000.0,27-10-2006,Alm.,12099,4,Villa,131,1978,
+Vallekildevej 121 4534 Hørve,121,3050000.0,10-10-2006,Alm.,15561,15,Villa,196,1907,
+Hørve Kanalvej 61 4534 Hørve,61,1951000.0,08-10-2006,Alm.,11544,4,Villa,169,1900,
+Dragsmøllevej 18 4534 Hørve,18,1900000.0,05-10-2006,Alm.,10326,6,Villa,184,1897,
+Lindebjerg 17 4534 Hørve,17,1215000.0,30-09-2006,Alm.,14817,4,Rækkehus,82,1989,
+Vallekildevej 108A 4534 Hørve,0,1225000.0,22-09-2006,Alm.,15312,2,Villa,80,1941,
+Søhusvej 30 4534 Hørve,30,270000.0,24-08-2006,Alm.,1928,4,Villa,140,2010,
+Lindebjerg 2A 4534 Hørve,0,1475000.0,23-08-2006,Alm.,0,5,Rækkehus,128,2007,
+Vallekildevej 62 4534 Hørve,62,1275000.0,11-08-2006,Alm.,10450,3,Villa,122,1942,
+Kirkebakken 1 4534 Hørve,1,800000.0,10-08-2006,Alm.,10000,2,Villa,80,1949,
+Skolegade 19 4534 Hørve,19,1245000.0,02-08-2006,Alm.,10732,4,Villa,116,1961,
+Skolelodden 2 4534 Hørve,2,935000.0,01-08-2006,Fam.,7083,4,Villa,132,1967,
+Nyrupsvej 2B 4534 Hørve,0,1395000.0,19-07-2006,Alm.,14684,3,Rækkehus,95,2006,
+Vindekilde Strandvej 15 4534 Hørve,15,1195000.0,17-07-2006,Alm.,14058,2,Villa,85,1960,
+Bakkedraget 41 4534 Hørve,41,1800000.0,10-07-2006,Alm.,11538,4,Villa,156,1988,
+Nyrupsvej 3 4534 Hørve,3,1100000.0,07-07-2006,Alm.,12222,2,Villa,90,1947,
+Nyrupsvej 2A 4534 Hørve,0,1395000.0,05-07-2006,Alm.,14684,3,Rækkehus,95,2006,
+Dragsmøllevej 37 4534 Hørve,37,650000.0,21-06-2006,Alm.,6500,4,Villa,100,1777,
+Bjergesøvej 51 4534 Hørve,51,850000.0,17-06-2006,Alm.,13281,3,Villa,64,1940,
+Kildegårdsvej 15 4534 Hørve,15,1650000.0,16-06-2006,Alm.,10312,5,Villa,160,1973,
+Bakkedraget 11 4534 Hørve,11,1595000.0,16-06-2006,Alm.,12083,5,Villa,132,2006,
+Søhusvej 18 4534 Hørve,18,1821250.0,01-06-2006,Alm.,12916,5,Villa,141,2006,
+Nørregade 16 4534 Hørve,16,995000.0,31-05-2006,Alm.,10473,6,Villa,95,1929,
+Søhusvej 54 4534 Hørve,54,270000.0,31-05-2006,Alm.,1607,6,Villa,168,2007,
+Bakkedraget 42 4534 Hørve,42,1295000.0,18-05-2006,Alm.,11562,4,Villa,112,1980,
+Poppelvang 24 4534 Hørve,24,1278665.0,16-05-2006,Andet,6393,6,Villa,200,1973,
+Sølvagervej 10 4534 Hørve,10,1350000.0,15-05-2006,Alm.,9000,4,Villa,150,1902,
+Dragsmøllevej 9 4534 Hørve,9,795000.0,13-05-2006,Alm.,14196,2,Villa,56,1886,
+Remisevej 1 4534 Hørve,1,1195000.0,08-05-2006,Alm.,7071,5,Villa,169,1922,
+Dragsmøllevej 19 4534 Hørve,19,1082000.0,01-05-2006,Alm.,12295,3,Villa,88,1982,
+Søhusvej 52 4534 Hørve,52,295000.0,27-04-2006,Alm.,1903,6,Villa,155,2009,
+Kolåsvej 23 4534 Hørve,23,1100000.0,25-04-2006,Alm.,0,6,Villa,148,1985,
+Næbbevej 3 4534 Hørve,3,1660000.0,21-04-2006,Alm.,14821,4,Villa,112,1969,
+Fjordvej 12 4534 Hørve,12,1500000.0,18-04-2006,Fam.,13513,4,Stuehus,111,1898,
+Skolegade 18 4534 Hørve,18,775000.0,13-04-2006,Alm.,7451,4,Villa,104,1947,
+Poppelvang 20 4534 Hørve,20,1335000.0,08-04-2006,Alm.,11608,4,Villa,115,1974,
+Bjergesøvej 16 4534 Hørve,16,2600000.0,05-04-2006,Alm.,14444,6,Villa,180,1877,
+Elmkær 40 4534 Hørve,40,600000.0,31-03-2006,Andet,4081,6,Villa,147,1970,
+Lindebjerg 1 4534 Hørve,1,1617000.0,27-03-2006,Alm.,12157,5,Villa,133,2006,
+Holstensvejen 14 4534 Hørve,14,2700000.0,27-03-2006,Alm.,9000,8,Stuehus,300,1935,
+Hørve Kirkevej 23C 4534 Hørve,0,785000.0,24-03-2006,Alm.,11544,2,Rækkehus,68,1975,
+Højskolevej 3 4534 Hørve,3,1000000.0,17-03-2006,Alm.,7633,5,Villa,131,1900,
+Kirkestien 19 4534 Hørve,19,2100000.0,09-03-2006,Alm.,14000,6,Villa,150,1967,
+Vallekildevej 19A 4534 Hørve,0,975000.0,07-03-2006,Alm.,15476,2,Villa,63,1956,
+Kildevej 5 4534 Hørve,5,95000.0,07-03-2006,Alm.,760,3,Villa,125,2008,
+Fladehøj 3 4534 Hørve,3,128680.0,06-03-2006,Alm.,779,4,Villa,165,2008,
+Søhusvej 48 4534 Hørve,48,285552.0,28-02-2006,Alm.,2039,5,Villa,140,2007,
+Pilevang 14 4534 Hørve,14,1415000.0,23-02-2006,Alm.,10639,5,Villa,133,1978,
+Sandbyhagevej 5 4534 Hørve,5,1495000.0,22-02-2006,Alm.,12458,5,Villa,120,1908,
+Skovvangsvej 4A 4534 Hørve,0,2150000.0,22-02-2006,Alm.,17916,4,Villa,120,1922,
+Poppelvang 12 4534 Hørve,12,1472093.0,20-02-2006,Alm.,10667,4,Villa,138,1974,
+Industrivej 16 4534 Hørve,16,1800000.0,13-02-2006,Alm.,10909,6,Villa,165,1976,
+Elmkær 50 4534 Hørve,50,1600000.0,07-01-2006,Alm.,8376,6,Villa,191,1971,
+Fladehøj 19 4534 Hørve,19,1275000.0,21-12-2005,Alm.,8673,5,Villa,147,1981,
+Pilevang 4 4534 Hørve,4,1735000.0,18-12-2005,Alm.,13554,5,Villa,128,2002,
+Kolåsvej 16A 4534 Hørve,0,425000.0,16-12-2005,Fam.,3695,4,Villa,115,1967,
+Svinget 4 4534 Hørve,4,820000.0,05-12-2005,Alm.,13015,3,Villa,63,1959,
+Sølvagervej 19 4534 Hørve,19,715000.0,20-11-2005,Alm.,13000,2,Rækkehus,55,1974,
+Bakkedraget 36 4534 Hørve,36,800000.0,17-11-2005,Fam.,7476,4,Rækkehus,107,1977,
+Søhusvej 2 4534 Hørve,2,190000.0,10-11-2005,Alm.,1283,5,Villa,148,2006,
+Poppelvang 14 4534 Hørve,14,1285000.0,10-11-2005,Alm.,12722,4,Villa,101,1988,
+Sølvagervej 23 4534 Hørve,23,354636.0,04-11-2005,Andet,6691,2,Rækkehus,53,1974,
+Søhusvej 6 4534 Hørve,6,222000.0,02-11-2005,Alm.,1632,4,Villa,136,2007,
+Vallekildevej 32 4534 Hørve,32,1025000.0,22-10-2005,Alm.,11141,2,Villa,92,1902,
+Elmkær 91 4534 Hørve,91,1300000.0,19-10-2005,Alm.,9285,4,Villa,140,1972,
+Dragsmøllevej 8 4534 Hørve,8,1950000.0,03-10-2005,Alm.,8125,4,Stuehus,240,1984,
+Teglværksvej 14E 4534 Hørve,0,2900000.0,29-09-2005,Alm.,0,6,Sommerhus,123,2004,
+Klitvej 5 4534 Hørve,5,2300000.0,18-09-2005,Alm.,46000,3,Sommerhus,50,1945,
+Østervangsvej 2 4534 Hørve,2,2800000.0,08-09-2005,Alm.,18918,4,Stuehus,148,1920,
+På Højen 4E 4534 Hørve,0,795000.0,06-09-2005,Alm.,13706,3,Rækkehus,58,1975,
+Bakkedraget 61 4534 Hørve,61,300000.0,29-08-2005,Alm.,2013,5,Villa,149,2007,
+Holstensvejen 32 4534 Hørve,32,454000.0,28-08-2005,Andet,4017,3,Stuehus,113,1876,
+Søhusvej 20 4534 Hørve,20,331000.0,19-08-2005,Alm.,1606,7,Villa,206,2008,
+Søhusvej 12 4534 Hørve,12,326100.0,19-08-2005,Alm.,2174,5,Villa,150,2006,
+Søhusvej 10 4534 Hørve,10,320000.0,19-08-2005,Alm.,1860,6,Villa,172,2006,
+Sølvagervej 29 4534 Hørve,29,775000.0,10-08-2005,Alm.,14351,2,Rækkehus,54,1974,
+Bjergesøvej 10 4534 Hørve,10,900000.0,10-08-2005,Alm.,0,5,Villa,143,1927,
+Elmkær 52 4534 Hørve,52,1050000.0,02-08-2005,Alm.,9905,4,Villa,106,1970,
+Kolåsvej 17 4534 Hørve,17,1645000.0,01-08-2005,Alm.,6633,6,Villa,248,1875,
+Bjergesøvej 2 4534 Hørve,2,850000.0,01-08-2005,Alm.,5985,4,Villa,142,2009,
+Bulskovvej 18 4534 Hørve,18,395000.0,20-07-2005,Alm.,0,5,Sommerhus,107,1967,
+Fladehøj 5 4534 Hørve,5,105000.0,19-07-2005,Alm.,840,4,Villa,125,2006,
+Bakkedraget 34 4534 Hørve,34,945000.0,18-07-2005,Alm.,10738,3,Rækkehus,88,1977,
+Overbyvej 18 4534 Hørve,18,1075000.0,18-07-2005,Alm.,15808,3,Sommerhus,68,1980,
+Vallekildevej 21 4534 Hørve,21,1400000.0,22-06-2005,Alm.,10000,5,Villa,140,1925,
+Vallekildevej 144 4534 Hørve,144,890000.0,31-05-2005,Alm.,9673,3,Villa,92,1964,
+Sandbyhagevej 4 4534 Hørve,4,100000.0,28-05-2005,Alm.,694,6,Stuehus,144,1906,
+Overbyvej 3 4534 Hørve,3,1170000.0,27-05-2005,Alm.,20172,3,Sommerhus,58,1979,
+Maglebjergvej 5 4534 Hørve,5,1150000.0,25-05-2005,Alm.,9745,4,Villa,118,1970,
+Kildegårdsvej 16 4534 Hørve,16,100000.0,16-05-2005,Alm.,900,3,Villa,111,2006,
+Nekseløvej 6 4534 Hørve,6,1370580.0,08-05-2005,Alm.,4269,10,Stuehus,321,1922,
+Bakkedraget 35 4534 Hørve,35,1165000.0,23-04-2005,Alm.,8566,4,Villa,136,1976,
+Lindebjerg 7A 4534 Hørve,0,950000.0,20-04-2005,Alm.,10326,4,Villa,92,1981,
+Overbyvej 13 4534 Hørve,13,1010000.0,14-04-2005,Alm.,20200,3,Sommerhus,50,2004,
+Maglebjergvej 8 4534 Hørve,8,825000.0,13-04-2005,Fam.,6762,4,Villa,122,1964,
+Bjergesøvej 19 4534 Hørve,19,850000.0,04-04-2005,Alm.,8095,3,Villa,105,1900,
+Vallekildevej 175 4534 Hørve,175,1375000.0,01-04-2005,Alm.,7313,4,Villa,188,1974,
+Teglværksvej 8 4534 Hørve,8,3400000.0,22-03-2005,Alm.,23448,6,Stuehus,145,1921,
+Bakkedraget 28 4534 Hørve,28,1090000.0,22-03-2005,Alm.,10283,4,Villa,106,1976,
+Starreklintevej 18 4534 Hørve,18,1542500.0,18-03-2005,Alm.,7712,6,Villa,200,1800,
+Sandbyhagevej 3. TH 4534 Hørve,0,2250000.0,16-03-2005,Alm.,10765,7,Villa,209,1977,
+Strandlystvej 14 4534 Hørve,14,825000.0,15-03-2005,Alm.,7500,3,Villa,110,1951,
+Hørve Kanalvej 63 4534 Hørve,63,990913.0,04-03-2005,Alm.,9620,3,Villa,103,1907,
+Skovvangsvej 6 4534 Hørve,6,2125000.0,08-02-2005,Alm.,7988,9,Villa,266,1921,
+Søhusvej 11 4534 Hørve,11,1190000.0,04-02-2005,Alm.,8814,4,Villa,135,1979,
+Bakkedraget 17 4534 Hørve,17,1075000.0,28-01-2005,Andet,9267,4,Villa,116,1979,
+Lindebjerg 5B 4534 Hørve,0,944186.0,11-01-2005,Alm.,10262,4,Villa,92,1981,
+Sølvagervej 6 4534 Hørve,6,795000.0,10-01-2005,Alm.,6853,4,Villa,116,1900,
+Kildegårdsvej 9 4534 Hørve,9,1250000.0,08-01-2005,Alm.,10330,5,Villa,121,1972,
+Bulskovvej 3 4534 Hørve,3,70000.0,06-01-2005,Alm.,2592,2,Sommerhus,27,1948,
+Elmkær 44 4534 Hørve,44,1350000.0,21-12-2004,Alm.,7803,5,Villa,173,1971,
+Holstensvejen 16 4534 Hørve,16,1105000.0,16-12-2004,Fam.,12010,5,Stuehus,92,1800,
+Bakkedraget 9 4534 Hørve,9,120000.0,12-12-2004,Alm.,718,6,Villa,167,2007,
+Stendyssevej 8B 4534 Hørve,0,1320000.0,09-12-2004,Alm.,11000,5,Villa,120,1985,
+Elmkær 79 4534 Hørve,79,1200000.0,08-12-2004,Alm.,8275,5,Villa,145,1973,
+Nekseløvej 21 4534 Hørve,21,125000.0,07-12-2004,Andet,2450,3,Sommerhus,51,1949,
+Kirkebakken 3 4534 Hørve,3,1395000.0,06-12-2004,Alm.,9238,6,Villa,151,1825,
+Lindebjerg 18 4534 Hørve,18,850000.0,01-12-2004,Alm.,10897,3,Rækkehus,78,1988,
+Søndergade 19 4534 Hørve,19,875000.0,29-11-2004,Alm.,9408,4,Villa,93,1930,
+Lindebjerg 13 4534 Hørve,13,725000.0,17-11-2004,Alm.,10069,3,Rækkehus,72,1983,
+Østerled 7 4534 Hørve,7,1000000.0,01-11-2004,Alm.,11235,3,Villa,89,1919,
+Bakkedraget 23 4534 Hørve,23,1050000.0,25-10-2004,Alm.,6645,4,Villa,158,1980,
+Bulskovvej 27 4534 Hørve,27,400000.0,10-10-2004,Alm.,5633,3,Sommerhus,71,1947,
+Fjordvej 1 4534 Hørve,1,1253000.0,10-10-2004,Alm.,3729,14,Villa,336,1911,
+Bakkedraget 5 4534 Hørve,5,135000.0,03-09-2004,Alm.,992,5,Villa,136,2006,
+Bjergesøvej 25 4534 Hørve,25,367000.0,27-08-2004,Alm.,7340,2,Sommerhus,50,1957,
+Poppelvang 4 4534 Hørve,4,1200000.0,02-08-2004,Alm.,7272,4,Villa,165,1973,
+Nekseløvej 12 4534 Hørve,12,300000.0,26-07-2004,Alm.,2777,4,Sommerhus,108,2006,
+Vallekildevej 28A 4534 Hørve,0,582000.0,15-07-2004,Alm.,5388,3,Villa,108,1916,
+Poppelvang 3 4534 Hørve,3,1170000.0,03-07-2004,Alm.,10833,4,Villa,108,1974,
+Lundevej 4 4534 Hørve,4,845000.0,30-06-2004,Alm.,8711,3,Villa,97,1966,
+Bakkedraget 14 4534 Hørve,14,1035000.0,24-06-2004,Alm.,8085,3,Villa,128,1978,
+Østerled 6 4534 Hørve,6,784000.0,12-06-2004,Alm.,9800,3,Villa,80,1955,
+Højskolevej 10 4534 Hørve,10,1900000.0,07-06-2004,Alm.,10326,7,Villa,184,1847,
+Pilevang 13 4534 Hørve,13,1365000.0,04-06-2004,Alm.,8323,4,Villa,164,1976,
+Kildebakken 2 4534 Hørve,2,1005073.0,17-05-2004,Alm.,7500,4,Villa,134,1976,
+"Nørregade 14, 1 4534 Hørve",1,1495000.0,17-05-2004,Alm.,0,6,Lejlighed,198,1950,
+Dragsmøllevej 20A 4534 Hørve,0,865000.0,12-05-2004,Alm.,7393,4,Villa,117,1920,
+Lillevangen 6 4534 Hørve,6,840000.0,01-05-2004,Alm.,6562,4,Villa,128,1923,
+Hørve Kirkevej 30 4534 Hørve,30,386500.0,29-04-2004,Alm.,3578,3,Villa,108,1974,
+Skolegade 3 4534 Hørve,3,1050000.0,11-04-2004,Alm.,9130,5,Villa,115,1936,
+Nygårdsvej 1A 4534 Hørve,0,1850000.0,06-04-2004,Alm.,10632,8,Stuehus,174,1930,
+Damgårdsvej 4 4534 Hørve,4,1424999.0,02-04-2004,Alm.,9437,6,Villa,151,1943,
+Vallekildevej 28B 4534 Hørve,0,495000.0,01-04-2004,Alm.,8839,3,Villa,56,1947,
+Elmkær 24 4534 Hørve,24,1080000.0,27-03-2004,Alm.,8852,4,Villa,122,1972,
+Lindebjerg 2C 4534 Hørve,0,1065000.0,09-03-2004,Alm.,12102,5,Rækkehus,88,1999,
+På Højen 2E 4534 Hørve,0,650000.0,08-03-2004,Alm.,11818,2,Rækkehus,55,1973,
+Hørve Kirkevej 25 4534 Hørve,25,1290000.0,19-02-2004,Alm.,7247,7,Villa,178,1958,
+Hørve Kirkevej 29 4534 Hørve,29,1150000.0,27-01-2004,Alm.,7012,7,Villa,164,1936,
+På Højen 4B 4534 Hørve,0,670000.0,15-01-2004,Alm.,11551,3,Rækkehus,58,1975,
+Vallekildevej 182 4534 Hørve,182,625000.0,05-01-2004,Alm.,7812,2,Villa,80,1953,
+Klitvej 8 4534 Hørve,8,484500.0,15-12-2003,Fam.,15629,3,Sommerhus,31,1937,
+Starreklintevej 1 4534 Hørve,1,536591.0,02-12-2003,Alm.,0,5,Villa,132,1900,
+Starreklintevej 13 4534 Hørve,13,326000.0,22-11-2003,Fam.,0,4,Villa,168,1900,
+Lindebjerg 4B 4534 Hørve,0,1028000.0,19-11-2003,Alm.,11296,4,Rækkehus,91,1999,
+Damgårdsvej 1 4534 Hørve,1,650000.0,18-11-2003,Alm.,0,5,Villa,126,1916,
+Vikæret 10 4534 Hørve,10,500000.0,15-11-2003,Andet,7462,4,Villa,67,1975,
+Elmkær 34 4534 Hørve,34,1030000.0,02-11-2003,Alm.,8373,5,Villa,123,1977,
+Fladehøj 6 4534 Hørve,6,895000.0,10-10-2003,Alm.,5593,4,Villa,160,1979,
+Vallekildevej 190 4534 Hørve,190,370000.0,08-10-2003,Alm.,4111,3,Villa,90,1777,
+Søndergade 4 4534 Hørve,4,282614.0,02-10-2003,Alm.,3140,6,Villa,90,1924,
+På Højen 2A 4534 Hørve,0,590000.0,02-10-2003,Alm.,10350,2,Rækkehus,57,1973,
+Næbbevej 2 4534 Hørve,2,850000.0,01-10-2003,Alm.,0,4,Villa,129,1973,
+Kolåsvej 10B 4534 Hørve,0,900000.0,25-09-2003,Alm.,0,4,Sommerhus,83,1937,
+Sølvagervej 8 4534 Hørve,8,325000.0,25-09-2003,Alm.,0,5,Villa,116,1958,
+Banevej 12 4534 Hørve,12,725000.0,20-09-2003,Alm.,5753,4,Villa,126,1900,
+Teglværksvej 14C 4534 Hørve,0,1500000.0,16-09-2003,Alm.,15000,4,Sommerhus,100,2006,
+Vallekildevej 100 4534 Hørve,100,1274335.0,14-09-2003,Alm.,10194,3,Villa,125,1949,
+Bjergesøvej 27 4534 Hørve,27,725000.0,29-08-2003,Alm.,13181,4,Sommerhus,55,1860,
+Holstensvejen 18 4534 Hørve,18,3250000.0,21-08-2003,Alm.,24809,4,Stuehus,131,1937,
+Nykøbingvej 76 4534 Hørve,76,615000.0,13-08-2003,Alm.,5590,2,Villa,110,1880,
+Bjergesøvej 20 4534 Hørve,20,825000.0,04-08-2003,Alm.,7300,3,Villa,113,1850,
+Nekseløvej 37 4534 Hørve,37,550000.0,23-07-2003,Alm.,18965,2,Sommerhus,29,1932,
+Fyrrestien 8 4534 Hørve,8,450000.0,20-07-2003,Alm.,8653,3,Sommerhus,52,1963,
+Maglebjergvej 12 4534 Hørve,12,1215000.0,15-07-2003,Alm.,0,6,Villa,150,1965,
+Bakken 6 4534 Hørve,6,530000.0,01-07-2003,Alm.,5047,3,Villa,105,1949,
+Lammefjordsvej 2 4534 Hørve,2,4904375.0,30-06-2003,Fam.,15769,11,Stuehus,311,1916,
+Kildegårdsvej 12 4534 Hørve,12,90000.0,24-06-2003,Alm.,666,4,Villa,135,2010,
+Engmosevej 6 4534 Hørve,6,1095000.0,24-06-2003,Alm.,10841,3,Villa,101,1989,
+Vallekildevej 45 4534 Hørve,45,1295000.0,02-06-2003,Alm.,9885,4,Villa,131,1912,
+Nygårdsvej 7 4534 Hørve,7,2750000.0,16-05-2003,Alm.,18581,5,Stuehus,148,1907,
+Fladehøj 1 4534 Hørve,1,154560.0,12-05-2003,Alm.,888,5,Villa,174,2006,
+Vallekildevej 150 4534 Hørve,150,875000.0,05-05-2003,Alm.,6730,7,Villa,130,1917,
+Teglværksvej 10 4534 Hørve,10,1164136.0,03-05-2003,Fam.,7510,5,Villa,155,1920,
+Overbyvej 9 4534 Hørve,9,952500.0,10-04-2003,Alm.,14216,4,Sommerhus,67,1990,
+Bakkedraget 25 4534 Hørve,25,1420000.0,08-04-2003,Alm.,9594,5,Villa,148,1980,
+Agervej 1 4534 Hørve,1,3500000.0,07-03-2003,Alm.,13157,8,Stuehus,266,2016,
+Søhusvej 19 4534 Hørve,19,1395000.0,07-03-2003,Alm.,7793,8,Villa,179,1777,
+Holstensvejen 6 4534 Hørve,6,935000.0,25-02-2003,Alm.,11130,3,Villa,84,1815,
+Lindebjerg 8A 4534 Hørve,0,865000.0,22-02-2003,Alm.,0,3,Sommerhus,118,1985,
+Vallekildevej 192 4534 Hørve,192,917857.0,15-02-2003,Alm.,6556,5,Villa,140,1930,
+Nørregade 27 4534 Hørve,27,909402.0,19-01-2003,Alm.,0,5,Villa,152,1948,
+Lindebjerg 6B 4534 Hørve,0,800000.0,13-12-2002,Alm.,8791,4,Rækkehus,91,1991,
+Vallekildevej 57 4534 Hørve,57,670000.0,27-11-2002,Alm.,6036,3,Villa,111,1945,
+Industrivej 3 4534 Hørve,3,450000.0,01-11-2002,Alm.,7500,3,Villa,60,1969,
+Vindekilde Strandvej 7 4534 Hørve,7,850000.0,30-09-2002,Alm.,0,3,Villa,161,1953,
+Kildegårdsvej 3 4534 Hørve,3,580000.0,25-09-2002,Alm.,7532,4,Villa,77,1981,
+Elmkær 54 4534 Hørve,54,1125000.0,14-09-2002,Alm.,8522,4,Villa,132,1971,
+Bulskovvej 14 4534 Hørve,14,250000.0,01-09-2002,Alm.,5681,3,Sommerhus,44,1965,
+Dragsmøllevej 5A 4534 Hørve,0,1270000.0,27-08-2002,Alm.,8193,5,Villa,155,1974,
+Højskolevej 23 4534 Hørve,23,1995000.0,26-08-2002,Alm.,13854,5,Villa,144,1929,
+Kildegårdsvej 5 4534 Hørve,5,540000.0,06-08-2002,Alm.,0,5,Villa,122,1981,
+Hørve Kirkevej 9 4534 Hørve,9,480168.0,31-07-2002,Fam.,2841,5,Villa,169,1901,
+Vallekildevej 137 4534 Hørve,137,509923.0,17-07-2002,Alm.,5794,2,Villa,88,1900,
+Vallekildevej 148 4534 Hørve,148,575000.0,02-07-2002,Alm.,6686,4,Villa,86,1890,
+Skolegade 20 4534 Hørve,20,950000.0,14-06-2002,Alm.,7421,4,Villa,128,1972,
+Holmagervej 9 4534 Hørve,9,721575.0,12-06-2002,Alm.,6329,6,Villa,114,1962,
+Hørve Kanalvej 43 4534 Hørve,43,5140000.0,11-06-2002,Fam.,23796,6,Stuehus,216,1920,
+Klitvej 9 4534 Hørve,9,1125000.0,04-06-2002,Fam.,10321,5,Sommerhus,109,2010,
+Elmkær 12 4534 Hørve,12,1088000.0,26-05-2002,Alm.,8500,4,Villa,128,1973,
+Rørmosevej 3 4534 Hørve,3,1006623.0,24-05-2002,Alm.,7088,4,Villa,142,1827,
+Næbbevej 7 4534 Hørve,7,1415000.0,14-05-2002,Alm.,9433,4,Villa,150,1885,
+Søndergade 12 4534 Hørve,12,944131.0,10-04-2002,Alm.,7867,6,Villa,120,1908,
+Sølvagervej 20A 4534 Hørve,0,196100.0,20-02-2002,Alm.,1233,5,Villa,159,2003,
+Slugten 12 4534 Hørve,12,225000.0,25-12-2001,Alm.,5000,2,Sommerhus,45,1981,
+Vallekildevej 173 4534 Hørve,173,230000.0,30-11-2001,Andet,0,3,Villa,119,1830,
+Vallekildevej 53 4534 Hørve,53,1095000.0,26-11-2001,Alm.,7877,3,Villa,139,1939,
+Skolelodden 9 4534 Hørve,9,1275000.0,25-11-2001,Alm.,9659,5,Villa,132,1980,
+Slugten 7 4534 Hørve,7,528350.0,20-11-2001,Alm.,9968,3,Sommerhus,53,1982,
+Vallekildevej 74 4534 Hørve,74,810000.0,04-11-2001,Alm.,7363,3,Villa,110,1944,
+Sandbyhagevej 9 4534 Hørve,9,1367500.0,18-10-2001,Alm.,11891,5,Stuehus,115,1902,
+Hørve Kirkevej 28 4534 Hørve,28,895000.0,11-10-2001,Alm.,0,4,Villa,146,1978,
+Lillevangen 7 4534 Hørve,7,1500000.0,06-09-2001,Alm.,6465,7,Stuehus,232,1830,
+Bakkedraget 20 4534 Hørve,20,970486.0,31-07-2001,Alm.,7581,4,Villa,128,1976,
+Nørregade 30 4534 Hørve,30,510000.0,15-07-2001,Alm.,4636,4,Villa,110,1920,
+Vallekildevej 76 4534 Hørve,76,814260.0,12-07-2001,Alm.,6312,6,Villa,129,1940,
+Storøhagevej 27 4534 Hørve,27,346692.0,11-07-2001,Alm.,3852,4,Stuehus,90,1931,
+Bulskovvej 26 4534 Hørve,26,250000.0,09-07-2001,Alm.,5000,4,Sommerhus,50,1965,
+Slotsvej 9 4534 Hørve,9,48000.0,02-07-2001,Alm.,413,4,Villa,116,2005,
+Højskolevej 19 4534 Hørve,19,950000.0,21-06-2001,Alm.,0,8,Villa,323,1880,
+Hørve Kirkevej 2 4534 Hørve,2,942880.0,20-06-2001,Alm.,10476,3,Villa,90,1916,
+Vallekildevej 78 4534 Hørve,78,1395344.0,16-05-2001,Alm.,5092,5,Villa,274,1947,
+Bulskovvej 24 4534 Hørve,24,200000.0,16-05-2001,Alm.,6250,3,Sommerhus,32,1968,
+Vejlebyvej 10 4534 Hørve,10,96138.0,10-05-2001,Andet,537,9,Stuehus,179,1936,
+Nygårdsvej 14 4534 Hørve,14,1132021.0,07-05-2001,Alm.,8707,6,Stuehus,130,1890,
+Sølvagervej 30 4534 Hørve,30,930000.0,03-05-2001,Alm.,7265,5,Villa,128,1973,
+Vallekildevej 29 4534 Hørve,29,860000.0,19-04-2001,Alm.,0,4,Villa,100,1965,
+Nygårdsvej 2 4534 Hørve,2,600000.0,18-04-2001,Alm.,2764,9,Stuehus,217,1936,
+Starreklintevej 15A 4534 Hørve,0,492000.0,10-04-2001,Andet,6150,2,Lejlighed,80,1900,
+Bjergesøvej 24B 4534 Hørve,0,1100000.0,08-04-2001,Alm.,8943,4,Stuehus,123,1979,
+På Højen 11 4534 Hørve,11,527808.0,30-03-2001,Andet,2208,9,Villa,239,1975,
+Teglværksvej 14B 4534 Hørve,0,350000.0,21-03-2001,Alm.,5833,4,Sommerhus,60,1967,
+Adelers Alle 200 4534 Hørve,200,1592000.0,21-03-2001,Alm.,6419,7,Villa,248,1921,
+Vallekildevej 140 4534 Hørve,140,875000.0,15-03-2001,Alm.,5147,5,Villa,170,1973,
+Søndergade 15D 4534 Hørve,0,671000.0,20-02-2001,Alm.,8714,3,Rækkehus,77,1987,
+Bakkedraget 75 4534 Hørve,75,357725.0,15-02-2001,Andet,3888,4,Villa,92,1980,
+Bakkedraget 47 4534 Hørve,47,865000.0,17-01-2001,Alm.,6503,4,Villa,133,1976,
+Krogen 2 4534 Hørve,2,650000.0,16-01-2001,Alm.,6132,5,Villa,106,1967,
+Lammefjordsvej 6 4534 Hørve,6,1350000.0,11-01-2001,Alm.,9246,4,Stuehus,146,1930,
+Bjergesøvej 13 4534 Hørve,13,795000.0,22-12-2000,Alm.,6737,4,Villa,118,1949,
+Nekseløvej 8 4534 Hørve,8,590644.0,13-12-2000,Alm.,7875,4,Villa,75,1921,
+Vallekildevej 69 4534 Hørve,69,685000.0,11-12-2000,Fam.,5480,7,Villa,125,1959,
+Vallekildevej 42 4534 Hørve,42,649000.0,27-11-2000,Alm.,8012,4,Villa,81,1932,
+Maglebjergvej 2 4534 Hørve,2,571877.0,04-11-2000,Alm.,8409,3,Villa,68,1964,
+Strandlystvej 3 4534 Hørve,3,1500000.0,03-11-2000,Fam.,6578,9,Stuehus,228,1947,
+Dragsmøllevej 10 4534 Hørve,10,825000.0,24-10-2000,Alm.,4459,6,Villa,185,1946,
+På Højen 2B 4534 Hørve,0,395000.0,10-10-2000,Alm.,7314,2,Rækkehus,54,1973,
+Maglebjergvej 1 4534 Hørve,1,729575.0,09-10-2000,Alm.,6818,3,Villa,107,1966,
+Hørve Kanalvej 25 4534 Hørve,25,875000.0,28-09-2000,Alm.,0,5,Villa,184,1900,
+Tangmosen 6 4534 Hørve,6,710000.0,08-09-2000,Alm.,6635,4,Villa,107,1899,
+Vejlebyvej 3 4534 Hørve,3,1500000.0,24-08-2000,Alm.,5813,6,Stuehus,258,1900,
+Søndergade 9 4534 Hørve,9,1096000.0,22-08-2000,Alm.,4104,11,Villa,267,1918,
+Fladehøj 47 4534 Hørve,47,948000.0,03-08-2000,Alm.,7236,4,Villa,131,1977,
+Holmagervej 5 4534 Hørve,5,879984.0,27-07-2000,Alm.,5751,5,Villa,153,1961,
+Kirkestien 8 4534 Hørve,8,470000.0,13-07-2000,Alm.,0,7,Villa,180,1962,
+Hørve Møllevej 13 4534 Hørve,13,913929.0,28-06-2000,Alm.,6133,4,Villa,149,1965,
+Kalundborgvej 32 4534 Hørve,32,1164000.0,28-06-2000,Alm.,10034,4,Villa,116,1900,
+Bulskovvej 20 4534 Hørve,20,146966.0,02-06-2000,Fam.,3340,3,Sommerhus,44,1967,
+Vindekilde Strandvej 9 4534 Hørve,9,480000.0,29-05-2000,Alm.,5581,4,Villa,86,1947,
+Skippingevej 37 4534 Hørve,37,3324999.0,26-05-2000,Alm.,20781,6,Stuehus,160,1930,
+Kalundborgvej 34 4534 Hørve,34,782000.0,19-04-2000,Alm.,4797,4,Villa,163,1921,
+Vallekildevej 133 4534 Hørve,133,345000.0,03-04-2000,Fam.,1825,7,Villa,189,1952,
+Hørve Stationsvej 3 4534 Hørve,3,766000.0,22-03-2000,Alm.,0,7,Villa,164,1910,
+Fjordvej 8 4534 Hørve,8,1625000.0,28-02-2000,Alm.,0,4,Stuehus,133,1916,
+Hørve Kanalvej 47 4534 Hørve,47,319871.0,14-02-2000,Alm.,4921,3,Villa,65,1935,
+Vallekildevej 139 4534 Hørve,139,325210.0,07-02-2000,Alm.,6022,2,Villa,54,1940,
+Hovvejen 3 4534 Hørve,3,784486.0,28-01-2000,Alm.,0,6,Villa,128,1954,
+Vallekildevej 166 4534 Hørve,166,633000.0,27-01-2000,Alm.,4795,4,Villa,132,1942,
+Teglværksvej 3 4534 Hørve,3,1800000.0,14-01-2000,Alm.,12500,5,Stuehus,144,1921,
+Dragsmøllevej 35 4534 Hørve,35,1049417.0,05-01-2000,Alm.,5830,4,Stuehus,180,1960,
+Slugten 8 4534 Hørve,8,170000.0,01-12-1999,Fam.,4857,3,Sommerhus,35,1982,
+Nygårdsvej 5 4534 Hørve,5,515495.0,12-11-1999,Alm.,0,5,Villa,216,1880,
+Søndergade 22 4534 Hørve,22,634111.0,09-11-1999,Alm.,5982,3,Villa,106,1948,
+Hovvejen 7 4534 Hørve,7,799710.0,10-09-1999,Alm.,4209,7,Villa,190,1916,
+Klitvej 7 4534 Hørve,7,2023716.0,03-09-1999,Alm.,8915,7,Sommerhus,227,1954,
+Vallekildevej 165 4534 Hørve,165,400000.0,16-08-1999,Alm.,0,5,Villa,115,1897,
+Overbyvej 8 4534 Hørve,8,58000.0,29-07-1999,Alm.,816,3,Sommerhus,71,2003,
+Tangmosen 4 4534 Hørve,4,582635.0,26-07-1999,Alm.,0,6,Villa,163,1877,
+På Højen 2C 4534 Hørve,0,361534.0,08-07-1999,Alm.,6695,2,Rækkehus,54,1973,
+Tuborgvej 71 4534 Hørve,71,730000.0,07-07-1999,Alm.,4649,5,Villa,157,1979,
+Triersvej 3 4534 Hørve,3,949000.0,07-07-1999,Alm.,5615,5,Villa,169,1870,
+Vallekildevej 99 4534 Hørve,99,520000.0,06-07-1999,Fam.,2194,6,Villa,237,1913,
+Vallekildevej 15 4534 Hørve,15,596311.0,05-07-1999,Alm.,3636,7,Villa,164,1904,
+Vallekildevej 116 4534 Hørve,116,895722.0,04-07-1999,Alm.,6586,4,Villa,136,1975,
+Elmkær 85 4534 Hørve,85,715000.0,25-06-1999,Alm.,5585,4,Villa,128,1975,
+Sølvagervej 41 4534 Hørve,41,504000.0,13-06-1999,Fam.,4460,4,Villa,113,1959,
+Sølvagervej 21 4534 Hørve,21,335000.0,02-06-1999,Alm.,6320,2,Rækkehus,53,1974,
+Hørve Kanalvej 27 4534 Hørve,27,431000.0,22-05-1999,Alm.,4788,4,Sommerhus,90,1969,
+Skolegade 21 4534 Hørve,21,698207.0,20-05-1999,Alm.,6124,4,Villa,114,1962,
+Hørve Kirkevej 13 4534 Hørve,13,373000.0,20-05-1999,Alm.,0,7,Rækkehus,184,1850,
+Hovvejen 5 4534 Hørve,5,6300000.0,18-05-1999,Alm.,23507,7,Stuehus,268,2016,
+Hørve Kirkevej 14 4534 Hørve,14,300000.0,12-05-1999,Alm.,6666,4,Villa,45,1948,
+Bakkedraget 67 4534 Hørve,67,1064974.0,07-05-1999,Alm.,9260,4,Villa,115,1980,
+Bulskovvej 25 4534 Hørve,25,260922.0,28-04-1999,Alm.,3433,4,Sommerhus,76,2005,
+Vallekildevej 127B 4534 Hørve,0,20000.0,06-04-1999,Alm.,123,7,Villa,162,2002,
+Dragsmøllevej 43 4534 Hørve,43,462622.0,06-04-1999,Alm.,3304,4,Villa,140,1920,
+Nygårdsvej 16 4534 Hørve,16,665940.0,04-04-1999,Alm.,3917,4,Villa,170,1909,
+Lindebjerg 6A 4534 Hørve,0,680679.0,23-03-1999,Alm.,7479,4,Rækkehus,91,1991,
+Kalundborgvej 51 4534 Hørve,51,1160000.0,16-03-1999,Alm.,7733,5,Stuehus,150,1921,
+Vikæret 1 4534 Hørve,1,867783.0,10-03-1999,Alm.,0,11,Villa,276,1892,
+Elmkær 3 4534 Hørve,3,741000.0,09-03-1999,Alm.,6073,4,Villa,122,1970,
+Møllevangen 2 4534 Hørve,2,1100000.0,08-03-1999,Alm.,7913,4,Stuehus,139,1914,
+Dragsmøllevej 29 4534 Hørve,29,1004665.0,10-02-1999,Alm.,11960,4,Villa,84,1953,
+Skolegade 6 4534 Hørve,6,564000.0,01-02-1999,Alm.,6197,4,Villa,91,1933,
+Hørve Kirkevej 6 4534 Hørve,6,65000.0,25-01-1999,Alm.,477,5,Villa,136,1900,
+Stendyssevej 13 4534 Hørve,13,705003.0,10-01-1999,Alm.,6025,3,Villa,117,1954,
+Østerled 5 4534 Hørve,5,503500.0,04-01-1999,Alm.,3356,3,Villa,150,1933,
+Bjergesøstien 4 4534 Hørve,4,881801.0,29-12-1998,Alm.,0,4,Villa,153,1970,
+Sølvagervej 22 4534 Hørve,22,659020.0,14-12-1998,Alm.,4224,5,Villa,156,1907,
+Næbbevej 8 4534 Hørve,8,660472.0,01-12-1998,Alm.,0,4,Villa,113,1924,
+Nekseløvej 9 4534 Hørve,9,647299.0,17-11-1998,Alm.,0,6,Stuehus,160,1928,
+Østervangsvej 4 4534 Hørve,4,300000.0,05-11-1998,Alm.,0,3,Villa,100,1936,
+Kolåsvej 19 4534 Hørve,19,550000.0,27-10-1998,Alm.,3928,5,Villa,140,1955,
+Vallekildevej 141D 4534 Hørve,0,964697.0,12-10-1998,Alm.,5882,6,Villa,164,1932,
+Bjergesøvej 39A 4534 Hørve,0,845500.0,08-10-1998,Alm.,4104,6,Villa,206,1850,
+Bjergesøvej 37 4534 Hørve,37,116500.0,08-10-1998,Alm.,510,6,Villa,228,1908,
+Skolelodden 13 4534 Hørve,13,747729.0,23-09-1998,Alm.,5707,4,Villa,131,1977,
+Vallekildevej 167 4534 Hørve,167,765344.0,19-09-1998,Alm.,4528,7,Stuehus,169,1900,
+Dragsmøllevej 27 4534 Hørve,27,314002.0,02-09-1998,Alm.,4301,3,Villa,73,1877,
+Dragsmøllevej 36 4534 Hørve,36,285000.0,26-08-1998,Alm.,1706,4,Villa,167,2000,
+Overbyvej 1 4534 Hørve,1,344581.0,24-07-1998,Alm.,9845,3,Sommerhus,35,1979,
+Vejlebyvej 8 4534 Hørve,8,4316234.0,23-07-1998,Alm.,16664,10,Stuehus,259,1910,
+Hørve Kirkevej 17 4534 Hørve,17,421300.0,23-07-1998,Alm.,3830,6,Villa,110,1935,
+Kildebakken 4 4534 Hørve,4,730000.0,14-07-1998,Alm.,0,3,Villa,144,1976,
+Fyrrestien 6 4534 Hørve,6,90000.0,30-06-1998,Alm.,3333,3,Sommerhus,27,1986,
+Bulskovvej 31 4534 Hørve,31,67000.0,14-06-1998,Alm.,2093,3,Sommerhus,32,1962,
+Tangmosen 8 4534 Hørve,8,649000.0,14-06-1998,Alm.,4992,6,Villa,130,1947,
+Poppelvang 16 4534 Hørve,16,777304.0,10-06-1998,Alm.,5435,5,Villa,143,1973,
+Vallekildevej 147A 4534 Hørve,0,625000.0,10-06-1998,Alm.,3633,8,Villa,172,1976,
+Søndergade 3 4534 Hørve,3,397000.0,06-06-1998,Alm.,3101,4,Villa,128,1903,
+Slotsvej 1 4534 Hørve,1,497000.0,02-06-1998,Alm.,5177,3,Villa,96,1946,
+Kolåsvej 10A 4534 Hørve,0,396716.0,02-06-1998,Fam.,0,15,Villa,438,1610,
+Vallekildevej 155 4534 Hørve,155,297500.0,19-05-1998,Alm.,2806,5,Villa,106,1898,
+Teglværksvej 6 4534 Hørve,6,595000.0,08-05-1998,Alm.,0,5,Villa,112,1922,
+Kolåsvej 7 4534 Hørve,7,95000.0,06-05-1998,Fam.,527,5,Villa,180,2000,
+Nygårdsvej 3 4534 Hørve,3,1988000.0,03-04-1998,Alm.,14200,5,Stuehus,140,1870,
+Vallekildevej 153 4534 Hørve,153,3093194.0,01-04-1998,Alm.,10666,9,Stuehus,290,1922,
+Teglværksvej 14 4534 Hørve,14,925000.0,24-03-1998,Alm.,0,8,Stuehus,272,1921,
+Elmkær 48 4534 Hørve,48,805335.0,22-03-1998,Alm.,6055,4,Villa,133,1974,
+Dragsmøllevej 51 4534 Hørve,51,1300000.0,18-03-1998,Fam.,0,5,Stuehus,128,1939,
+Hovvejen 2 4534 Hørve,2,370000.0,28-02-1998,Alm.,3162,5,Villa,117,1860,
+Vallekildevej 161 4534 Hørve,161,171670.0,28-01-1998,Alm.,1208,5,Villa,142,1892,
+Lillevangen 11 4534 Hørve,11,750000.0,17-12-1997,Alm.,3333,10,Villa,225,1887,
+Kildegårdsvej 23 4534 Hørve,23,664887.0,16-12-1997,Alm.,5540,4,Villa,120,1974,
+Pilevang 7 4534 Hørve,7,770000.0,15-12-1997,Alm.,5273,5,Villa,146,1974,
+Bulskovvej 1 4534 Hørve,1,200000.0,10-12-1997,Alm.,3773,3,Sommerhus,53,1951,
+Vallekildevej 176 4534 Hørve,176,413000.0,08-12-1997,Alm.,3059,4,Villa,135,1727,
+Kalundborgvej 55A 4534 Hørve,0,318326.0,23-11-1997,Alm.,1829,6,Sommerhus,174,1975,
+Hovvejen 6 4534 Hørve,6,647200.0,18-11-1997,Alm.,5992,4,Villa,108,1924,
+Stendyssevej 10 4534 Hørve,10,284284.0,14-11-1997,Andet,3090,4,Villa,92,1802,
+Søndergade 24 4534 Hørve,24,580000.0,13-10-1997,Alm.,0,5,Villa,165,1960,
+Nørregade 21 4534 Hørve,21,445000.0,10-10-1997,Alm.,3320,4,Villa,134,1932,
+Dragsmøllevej 3 4534 Hørve,3,460000.0,07-10-1997,Alm.,6052,4,Villa,76,1946,
+Lindebjerg 7B 4534 Hørve,0,520000.0,15-09-1997,Alm.,5652,4,Villa,92,1981,
+Starreklintevej 4A 4534 Hørve,0,30000.0,01-09-1997,Alm.,164,5,Villa,182,2004,
+Bjergesøvej 30 4534 Hørve,30,378728.0,22-07-1997,Alm.,1611,5,Villa,235,2010,
+Sandbyhagevej 2 4534 Hørve,2,831337.0,22-07-1997,Alm.,0,4,Villa,183,1906,
+Vallekildevej 19 4534 Hørve,19,701067.0,19-07-1997,Alm.,4868,4,Villa,144,1917,
+Vallekildevej 26 4534 Hørve,26,313000.0,14-07-1997,Alm.,3726,3,Villa,84,1912,
+Fjordvej 10 4534 Hørve,10,1072000.0,09-07-1997,Alm.,5280,10,Villa,203,1917,
+Sølvagervej 43 4534 Hørve,43,270000.0,01-07-1997,Alm.,7714,2,Villa,35,1962,
+Elmkær 28 4534 Hørve,28,661898.0,18-06-1997,Alm.,5014,4,Villa,132,1971,
+Bjergesøvej 12 4534 Hørve,12,576421.0,18-06-1997,Alm.,6944,4,Villa,83,1956,
+Fjordvej 5 4534 Hørve,5,125000.0,16-06-1997,Alm.,0,7,Villa,210,2003,
+Tømrervænget 1A 4534 Hørve,0,605000.0,09-06-1997,Alm.,6436,4,Villa,94,1969,
+Næbbevej 15 4534 Hørve,15,845460.0,08-06-1997,Alm.,0,10,Villa,249,1913,
+Nekseløvej 5 4534 Hørve,5,1150000.0,17-05-1997,Alm.,10454,4,Stuehus,110,1972,
+Slotsvej 2 4534 Hørve,2,526808.0,08-05-1997,Alm.,4580,4,Villa,115,1926,
+Hørve Kirkevej 12A 4534 Hørve,0,353000.0,14-04-1997,Alm.,4358,2,Villa,81,1922,
+Bjergesøvej 31 4534 Hørve,31,597920.0,10-04-1997,Alm.,4745,3,Stuehus,126,1854,
+Søndergade 20 4534 Hørve,20,590000.0,08-04-1997,Alm.,4796,5,Villa,123,1959,
+Bjergesøvej 47 4534 Hørve,47,385000.0,24-03-1997,Alm.,2333,5,Villa,165,1884,
+Vallekildevej 178 4534 Hørve,178,679904.0,15-03-1997,Alm.,0,8,Villa,227,1924,
+Bjergesøvej 15 4534 Hørve,15,561399.0,27-02-1997,Fam.,3793,4,Villa,148,1943,
+Bakkedraget 29 4534 Hørve,29,90000.0,12-02-1997,Alm.,0,5,Villa,172,2001,
+Vallekildevej 101 4534 Hørve,101,327671.0,08-02-1997,Alm.,0,8,Villa,178,1917,
+Vallekildevej 51 4534 Hørve,51,623402.0,03-02-1997,Alm.,4048,5,Villa,154,1937,
+Bjergesøvej 17 4534 Hørve,17,280000.0,01-02-1997,Fam.,2240,4,Villa,125,1929,
+Nyrupsvej 1 4534 Hørve,1,635700.0,22-01-1997,Alm.,3695,7,Villa,172,1927,
+Lillevangen 5 4534 Hørve,5,1010000.0,15-01-1997,Alm.,7214,6,Stuehus,140,1880,
+Vallekildevej 162 4534 Hørve,162,789408.0,27-12-1996,Alm.,4111,7,Stuehus,192,1909,
+Elmkær 93 4534 Hørve,93,732741.0,27-12-1996,Alm.,5861,4,Villa,125,1973,
+Strandlystvej 9 4534 Hørve,9,2055000.0,23-12-1996,Fam.,14270,3,Stuehus,144,2009,
+Bakkedraget 73 4534 Hørve,73,815000.0,11-12-1996,Alm.,0,5,Villa,159,1987,
+Kildevej 4 4534 Hørve,4,692000.0,19-11-1996,Alm.,5864,4,Villa,118,1988,
+Bakkedraget 40 4534 Hørve,40,498000.0,05-11-1996,Alm.,4446,4,Villa,112,1980,
+Bjergesøvej 40 4534 Hørve,40,358377.0,21-10-1996,Alm.,3853,3,Villa,93,1807,
+Vallekildevej 122 4534 Hørve,122,430000.0,26-09-1996,Alm.,5375,3,Villa,80,1934,
+Vallekildevej 38 4534 Hørve,38,198650.0,26-09-1996,Alm.,2452,4,Villa,81,1877,
+Stendyssevej 2 4534 Hørve,2,225000.0,24-09-1996,Fam.,3308,3,Villa,68,1800,
+Vejrhøjvej 5 4534 Hørve,5,585000.0,23-09-1996,Alm.,5223,5,Villa,112,1939,
+Højskolevej 5 4534 Hørve,5,350000.0,14-09-1996,Alm.,3125,3,Villa,112,1875,
+Sølvagervej 16 4534 Hørve,16,317300.0,04-09-1996,Alm.,0,5,Villa,177,1961,
+Kirkestien 11 4534 Hørve,11,678000.0,23-08-1996,Alm.,5512,6,Villa,123,1930,
+Nekseløvej 61 4534 Hørve,61,200000.0,08-08-1996,Alm.,0,3,Sommerhus,60,1937,
+Slugten 2 4534 Hørve,2,295000.0,29-07-1996,Alm.,5673,3,Sommerhus,52,1977,
+Lindebjerg 9B 4534 Hørve,0,480000.0,28-07-1996,Alm.,7058,3,Rækkehus,68,1989,
+Hørve Kirkevej 15 4534 Hørve,15,268330.0,15-07-1996,Alm.,3396,2,Rækkehus,79,1900,
+Industrivej 17 4534 Hørve,17,900000.0,08-07-1996,Alm.,3629,6,Industri o.l.,248,1981,
+Vallekildevej 120 4534 Hørve,120,509371.0,25-06-1996,Alm.,3144,5,Villa,162,1938,
+Hørve Kirkevej 4 4534 Hørve,4,246764.0,24-06-1996,Alm.,2625,2,Villa,94,1925,
+Bakkedraget 69 4534 Hørve,69,840000.0,20-06-1996,Alm.,4491,3,Villa,187,1980,
+Skolegade 13 4534 Hørve,13,685000.0,07-06-1996,Alm.,3425,6,Villa,200,1967,
+Sandbyhagevej 8 4534 Hørve,8,100000.0,20-05-1996,Alm.,621,4,Stuehus,161,1918,
+Overbyvej 11 4534 Hørve,11,105000.0,08-05-1996,Alm.,1842,3,Sommerhus,57,2004,
+Bulskovvej 22 4534 Hørve,22,685000.0,02-05-1996,Alm.,18513,2,Sommerhus,37,1967,
+Overbyvej 4 4534 Hørve,4,80000.0,30-04-1996,Fam.,1176,3,Sommerhus,68,1997,
+Elmkær 101 4534 Hørve,101,579450.0,21-04-1996,Alm.,0,5,Villa,132,1972,
+Vejlebyvej 1B 4534 Hørve,0,635000.0,15-04-1996,Auktion,7055,2,Stuehus,90,1924,
+Damgårdsvej 3 4534 Hørve,3,522080.0,20-03-1996,Alm.,3729,4,Villa,140,1940,
+Vallekildevej 60 4534 Hørve,60,391900.0,20-03-1996,Alm.,0,5,Villa,152,1942,
+Remisevej 3 4534 Hørve,3,460000.0,24-02-1996,Alm.,3680,4,Villa,125,1942,
+Vallekildevej 188 4534 Hørve,188,122000.0,21-02-1996,Alm.,0,2,Villa,35,1870,
+Teglværksvej 16B 4534 Hørve,0,280000.0,30-12-1995,Fam.,4057,4,Sommerhus,69,1980,
+"Vallekildevej 11A, 1 4534 Hørve",1,400000.0,04-12-1995,Auktion,4123,3,Lejlighed,97,1952,
+Bulskovvej 5 4534 Hørve,5,125000.0,30-10-1995,Alm.,2314,4,Sommerhus,54,1957,
+Hørve Kanalvej 4 4534 Hørve,4,765000.0,27-09-1995,Alm.,3269,9,Villa,234,1989,
+Bakkedraget 22 4534 Hørve,22,262227.0,13-09-1995,Andet,2167,4,Villa,121,1978,
+Elmkær 103 4534 Hørve,103,540000.0,22-08-1995,Alm.,3354,6,Villa,161,1973,
+Krogen 3 4534 Hørve,3,450000.0,15-08-1995,Alm.,0,3,Villa,131,1966,
+Sølvagervej 27 4534 Hørve,27,265000.0,25-07-1995,Alm.,4907,2,Rækkehus,54,1974,
+Poppelvang 17 4534 Hørve,17,445000.0,01-07-1995,Alm.,5000,3,Villa,89,1975,
+"Hørve Møllevej 2A, 1 4534 Hørve",1,1000000.0,20-06-1995,Alm.,4830,7,Lejlighed,207,1913,
+På Højen 2D 4534 Hørve,0,260000.0,16-06-1995,Alm.,0,2,Rækkehus,54,1973,
+Bakkedraget 10 4534 Hørve,10,512000.0,14-06-1995,Alm.,4031,4,Villa,127,1977,
+Nekseløvej 47 4534 Hørve,47,100000.0,12-06-1995,Alm.,2325,2,Sommerhus,43,1952,
+Strandlystvej 7 4534 Hørve,7,200000.0,03-06-1995,Alm.,1197,4,Stuehus,167,1914,
+Skolegade 10 4534 Hørve,10,485000.0,31-05-1995,Alm.,4801,4,Villa,101,1949,
+Holstensvejen 1 4534 Hørve,1,904920.0,26-05-1995,Alm.,5354,6,Stuehus,169,1928,
+Sandbyhagevej 7 4534 Hørve,7,181689.0,28-03-1995,Alm.,0,5,Villa,167,1908,
+Starreklintevej 20 4534 Hørve,20,380000.0,27-03-1995,Alm.,2968,5,Villa,128,1965,
+Elmkær 32 4534 Hørve,32,539210.0,21-03-1995,Alm.,4456,4,Villa,121,1969,
+Bakkedraget 51 4534 Hørve,51,655000.0,16-03-1995,Alm.,3291,6,Villa,199,1976,
+Dragsmøllevej 11 4534 Hørve,11,210000.0,16-03-1995,Alm.,2187,4,Villa,96,1887,
+"Vallekildevej 115B, 1 4534 Hørve",1,500000.0,16-03-1995,Alm.,0,3,Lejlighed,90,1961,
+Bulskovvej 10 4534 Hørve,10,92000.0,08-03-1995,Alm.,1840,3,Sommerhus,50,1962,
+Hørve Kanalvej 15 4534 Hørve,15,1575000.0,03-03-1995,Alm.,13695,4,Stuehus,115,1962,
+Kildebakken 14 4534 Hørve,14,420000.0,15-02-1995,Alm.,2763,3,Villa,152,1974,
+Lillevangen 13 4534 Hørve,13,280000.0,09-02-1995,Fam.,3111,5,Villa,90,1942,
+Kirkestien 13 4534 Hørve,13,310000.0,20-12-1994,Alm.,3827,3,Villa,81,1972,
+Næbbevej 4 4534 Hørve,4,387525.0,15-12-1994,Alm.,3399,5,Villa,114,1969,
+Elmkær 81 4534 Hørve,81,675000.0,14-12-1994,Alm.,3245,7,Villa,208,1972,
+Skolegade 23 4534 Hørve,23,420000.0,12-12-1994,Alm.,4285,5,Villa,98,1962,
+Sølvagervej 15 4534 Hørve,15,517000.0,24-10-1994,Alm.,4495,5,Rækkehus,115,1988,
+Skolegade 8 4534 Hørve,8,185000.0,18-10-1994,Alm.,1927,3,Villa,96,1934,
+Hørve Kirkevej 16 4534 Hørve,16,278000.0,05-10-1994,Alm.,3088,3,Villa,90,1900,
+Pilevang 5 4534 Hørve,5,625000.0,26-09-1994,Alm.,4251,5,Villa,147,1974,
+Overbyvej 14 4534 Hørve,14,260000.0,20-09-1994,Alm.,5200,4,Sommerhus,50,1980,
+Næbbevej 10 4534 Hørve,10,550000.0,31-08-1994,Alm.,0,6,Villa,122,1900,
+Tømrervænget 4 4534 Hørve,4,245000.0,14-08-1994,Andet,1666,5,Villa,147,1955,
+Vallekildevej 130 4534 Hørve,130,380000.0,09-08-1994,Alm.,0,6,Villa,158,1918,
+Bjergesøvej 18 4534 Hørve,18,360000.0,02-08-1994,Alm.,2080,5,Stuehus,173,1912,
+Kolåsvej 21 4534 Hørve,21,796000.0,28-07-1994,Alm.,0,4,Villa,254,1777,
+Vallekildevej 128 4534 Hørve,128,625000.0,02-07-1994,Alm.,0,5,Villa,226,1923,
+Vejrhøjvej 3 4534 Hørve,3,532180.0,27-06-1994,Alm.,0,5,Villa,167,1950,
+Vallekildevej 40 4534 Hørve,40,273000.0,26-06-1994,Alm.,2313,4,Villa,118,1932,
+Bjergesøvej 22 4534 Hørve,22,520000.0,15-06-1994,Alm.,0,6,Villa,198,1946,
+Bjergesøvej 29 4534 Hørve,29,530240.0,11-06-1994,Alm.,3957,4,Villa,134,1930,
+Maglebjergvej 6 4534 Hørve,6,213672.0,06-06-1994,Alm.,1682,4,Villa,127,1964,
+Søndergade 34 4534 Hørve,34,575000.0,14-04-1994,Alm.,4600,5,Villa,125,1924,
+Kirkebakken 15 4534 Hørve,15,660890.0,21-03-1994,Alm.,3389,9,Villa,195,1979,
+Sølvagervej 28 4534 Hørve,28,560000.0,15-02-1994,Alm.,0,5,Villa,161,1978,
+Stendyssevej 4 4534 Hørve,4,470000.0,31-01-1994,Alm.,0,7,Villa,168,1964,
+Hørve Kirkevej 7A 4534 Hørve,0,365000.0,13-01-1994,Alm.,2703,4,Villa,135,1928,
+Kildegårdsvej 2 4534 Hørve,2,465000.0,18-12-1993,Alm.,3940,4,Villa,118,1967,
+Dragsmøllevej 20B 4534 Hørve,0,288600.0,17-11-1993,Alm.,0,6,Villa,243,1852,
+Skippingevej 40 4534 Hørve,40,739000.0,12-11-1993,Fam.,4296,5,Stuehus,172,1857,
+Fladehøj 7 4534 Hørve,7,278082.0,26-10-1993,Fam.,2648,4,Villa,105,1988,
+Bakken 8 4534 Hørve,8,541073.0,12-10-1993,Fam.,4162,7,Villa,130,1950,
+Kirkebakken 9 4534 Hørve,9,430000.0,04-10-1993,Alm.,0,5,Villa,171,1913,
+Kalundborgvej 42 4534 Hørve,42,465000.0,02-10-1993,Alm.,2870,5,Villa,162,1921,
+Lundevej 3 4534 Hørve,3,464868.0,12-09-1993,Fam.,3250,5,Villa,143,1968,
+På Højen 12 4534 Hørve,12,710000.0,09-08-1993,Alm.,5144,4,Villa,138,1976,
+Lundevej 5 4534 Hørve,5,315000.0,04-08-1993,Alm.,1675,5,Villa,188,1967,
+Tømrervænget 3 4534 Hørve,3,275000.0,30-07-1993,Alm.,0,5,Villa,149,1958,
+Nørregade 23 4534 Hørve,23,358400.0,30-07-1993,Alm.,3584,5,Villa,100,1914,
+Møllevangen 6 4534 Hørve,6,10000.0,03-06-1993,Alm.,0,7,Stuehus,223,1930,
+Vallekildevej 55 4534 Hørve,55,370000.0,29-05-1993,Alm.,0,6,Villa,159,1940,
+Vallekildevej 158 4534 Hørve,158,150000.0,24-05-1993,Fam.,0,4,Villa,124,1897,
+Hørve Møllevej 5 4534 Hørve,5,310000.0,11-05-1993,Alm.,2052,6,Villa,151,1906,
+Søndergade 15B 4534 Hørve,0,450000.0,10-05-1993,Alm.,5844,3,Rækkehus,77,1987,
+Vallekildevej 124 4534 Hørve,124,520000.0,19-04-1993,Alm.,2954,7,Villa,176,1927,
+Holstensvejen 24 4534 Hørve,24,675000.0,13-04-1993,Alm.,4927,4,Stuehus,137,1937,
+Østervangsvej 6 4534 Hørve,6,60000.0,16-12-1992,Alm.,631,2,Stuehus,95,1880,
+Slugten 4 4534 Hørve,4,220000.0,08-12-1992,Alm.,3666,4,Sommerhus,60,1979,
+På Højen 10 4534 Hørve,10,530000.0,04-12-1992,Fam.,3630,5,Villa,146,1973,
+Møllevangen 5 4534 Hørve,5,207278.0,02-12-1992,Alm.,544,10,Villa,381,1800,
+Hørve Enghave 1 4534 Hørve,1,575000.0,28-10-1992,Alm.,0,4,Stuehus,136,1905,
+Vallekildevej 169 4534 Hørve,169,260000.0,14-10-1992,Alm.,1699,5,Villa,153,1868,
+Søndergade 38 4534 Hørve,38,198000.0,24-08-1992,Alm.,2750,3,Villa,72,1887,
+Kildebakken 8 4534 Hørve,8,540000.0,11-08-1992,Alm.,3648,5,Villa,148,1973,
+Bakkedraget 24 4534 Hørve,24,500000.0,02-07-1992,Alm.,0,5,Villa,156,1978,
+Holstensvejen 20 4534 Hørve,20,475000.0,20-06-1992,Alm.,0,5,Villa,202,1937,
+Vallekildevej 106 4534 Hørve,106,480000.0,29-05-1992,Alm.,5161,4,Villa,93,1941,
+Dragsmøllevej 17 4534 Hørve,17,475000.0,28-04-1992,Alm.,0,6,Villa,165,1943,
+Dragsmøllevej 40 4534 Hørve,40,600000.0,06-04-1992,Fam.,0,5,Stuehus,147,1937,
+Vallekildevej 135 4534 Hørve,135,470000.0,20-03-1992,Alm.,4700,6,Villa,100,1950,
+Vejrhøjvej 7A 4534 Hørve,0,282000.0,09-03-1992,Fam.,2820,6,Villa,100,1780,
+Dragsmøllevej 31 4534 Hørve,31,320000.0,25-02-1992,Alm.,5333,3,Villa,60,1887,
+Starreklintevej 2 4534 Hørve,2,220000.0,12-02-1992,Alm.,1896,5,Villa,116,1827,
+Skippingevej 35 4534 Hørve,35,1032332.0,14-01-1992,Alm.,6108,7,Stuehus,169,1914,
+På Højen 23 4534 Hørve,23,149000.0,02-01-1992,Fam.,986,5,Villa,151,1973,

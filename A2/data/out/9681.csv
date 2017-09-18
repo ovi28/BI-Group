@@ -1,0 +1,668 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Blåmuslingen 325 9681 Ranum,325,500000.0,16-05-2017,Fam.,10869,3,Fritid,46,1993,
+Rødspætten 228 9681 Ranum,228,595000.0,06-04-2017,Alm.,12934,3,Fritid,46,1993,0 %
+Gråsælen 114 9681 Ranum,114,540000.0,22-03-2017,Alm.,11739,3,Fritid,46,1993,-6 %
+Grønspætten 405 9681 Ranum,405,545000.0,21-03-2017,Alm.,11847,3,Fritid,46,1993,
+Vestervang 11 9681 Ranum,11,300000.0,20-03-2017,Alm.,2142,5,Villa,140,1974,
+Sølvmågen 633 9681 Ranum,633,495000.0,12-03-2017,Alm.,10760,3,Fritid,46,1993,-10 %
+Kirkevej 11 9681 Ranum,11,300000.0,06-02-2017,Alm.,2500,4,Villa,120,1962,-20 %
+Grønspætten 428 9681 Ranum,428,290000.0,03-02-2017,Alm.,6304,3,Fritid,46,1993,-2 %
+Søndergade 11 9681 Ranum,11,480000.0,20-01-2017,Alm.,3200,5,Villa,150,1974,-3 %
+Rødspætten 239 9681 Ranum,239,510000.0,13-01-2017,Alm.,11086,3,Fritid,46,1993,-6 %
+Gråsælen 126 9681 Ranum,126,650000.0,31-12-2016,Alm.,12037,3,Fritid,54,1993,-4 %
+Blåmuslingen 314 9681 Ranum,314,365000.0,22-12-2016,Alm.,3967,5,Fritid,92,1993,
+Ålevej 21 9681 Ranum,21,450000.0,21-12-2016,Alm.,5421,4,Villa,83,1927,-17 %
+Fiskerhytterne 728 9681 Ranum,728,1940000.0,15-12-2016,Alm.,19595,4,Fritid,99,2014,-3 %
+Guldsmeden 505 9681 Ranum,505,552500.0,09-12-2016,Alm.,10231,3,Fritid,54,1993,
+Søndergade 30 9681 Ranum,30,625000.0,02-12-2016,Alm.,3306,6,Villa,189,1974,5 %
+Sønderbakken 7 9681 Ranum,7,700000.0,14-11-2016,Alm.,4516,4,Villa,155,1976,
+Vestergade 12 9681 Ranum,12,250000.0,10-11-2016,Alm.,1582,6,Villa,158,1937,
+Sigsvej 34 9681 Ranum,34,500000.0,03-11-2016,Alm.,3816,3,Villa,131,1979,
+Nørregade 8B 9681 Ranum,0,50000.0,03-11-2016,Alm.,704,3,Villa,71,1859,
+Ranumvej 73 9681 Ranum,73,230000.0,31-10-2016,Fam.,2190,3,Stuehus,105,1895,
+Guldsmeden 509 9681 Ranum,509,545000.0,14-09-2016,Alm.,11847,3,Fritid,46,1993,-1 %
+Fjordlystvej 35 9681 Ranum,35,800000.0,13-09-2016,Alm.,3669,6,Stuehus,218,1850,15 %
+Vestergade 43 9681 Ranum,43,400000.0,12-09-2016,Alm.,2816,4,Villa,142,1913,
+Skov Sørens Vej 65 9681 Ranum,65,603500.0,28-08-2016,Fam.,12070,3,Sommerhus,50,1968,
+Rønnevej 14 9681 Ranum,14,370000.0,19-08-2016,Alm.,3083,7,Villa,120,1950,
+Gråsælen 107 9681 Ranum,107,285000.0,21-07-2016,Fam.,6195,3,Fritid,46,1993,
+Malle Kirkevej 8 9681 Ranum,8,1070000.0,15-07-2016,Alm.,6772,7,Stuehus,158,1862,-17 %
+Grønspætten 410 9681 Ranum,410,565000.0,05-06-2016,Alm.,12282,3,Fritid,46,1993,-5 %
+Mallevej 34 9681 Ranum,34,294252.0,30-05-2016,Alm.,1131,8,Stuehus,260,1957,
+Mallevej 37 9681 Ranum,37,277116.0,30-05-2016,Alm.,1601,6,Stuehus,173,1976,
+Blåmuslingen 306 9681 Ranum,306,565000.0,19-05-2016,Alm.,12282,3,Fritid,46,1993,0 %
+Grønspætten 412 9681 Ranum,412,1175000.0,18-05-2016,Alm.,12771,5,Fritid,92,1993,-6 %
+Gråsælen 121 9681 Ranum,121,565000.0,12-05-2016,Alm.,12282,3,Fritid,46,1993,-3 %
+Fiskerhytterne 711 9681 Ranum,711,300000.0,28-04-2016,Fam.,7142,2,Fritid,42,1993,
+Sølvmågen 616 9681 Ranum,616,1150000.0,21-04-2016,Alm.,12500,5,Fritid,92,1993,0 %
+Blåmuslingen 309 9681 Ranum,309,545000.0,12-04-2016,Alm.,11847,3,Fritid,46,1993,
+Næsbyvej 64 9681 Ranum,64,1500000.0,12-04-2016,Fam.,8021,7,Stuehus,187,1993,
+Holmgårdsvej 7 9681 Ranum,7,452000.0,22-03-2016,Fam.,4388,6,Villa,103,1964,
+Vesterled 8A 9681 Ranum,0,280000.0,21-03-2016,Alm.,2240,4,Villa,125,1930,-5 %
+Gl. Næsbyvej 10 9681 Ranum,10,230000.0,04-03-2016,Alm.,1243,6,Villa,185,1953,-8 %
+Solbakkevej 4 9681 Ranum,4,675000.0,24-02-2016,Alm.,4963,6,Villa,136,1965,-3 %
+Vinkelvej 1C. 2 9681 Ranum,2,350000.0,18-02-2016,Alm.,6481,2,Rækkehus,54,1958,
+Seminarievej 13 9681 Ranum,13,130000.0,22-01-2016,Alm.,734,7,Villa,177,1890,-13 %
+Vestergade 27 9681 Ranum,27,1000000.0,21-01-2016,Alm.,4347,6,Villa,230,2001,-9 %
+Rødspætten 238 9681 Ranum,238,1100000.0,19-01-2016,Alm.,11956,5,Fritid,92,1993,-8 %
+Fiskerhytterne 702 9681 Ranum,702,400000.0,15-01-2016,Alm.,12500,1,Fritid,32,1993,-27 %
+"Næsbydalevej 17, KL. 1 9681 Ranum",1,1370000.0,11-01-2016,Alm.,10148,3,"Ferie, andet",135,1918,
+Skov Sørens Vej 103 9681 Ranum,103,337500.0,09-12-2015,Alm.,5113,4,Sommerhus,66,1973,
+Blåmuslingen 334 9681 Ranum,334,515000.0,27-11-2015,Alm.,11195,3,Fritid,46,1993,-6 %
+Blåmuslingen 307 9681 Ranum,307,500000.0,25-11-2015,Alm.,10869,3,Fritid,46,1993,-5 %
+Nygade 9 9681 Ranum,9,450000.0,13-11-2015,Alm.,3308,4,Villa,136,1967,-24 %
+Seminarievej 7 9681 Ranum,7,755000.0,06-11-2015,Alm.,5392,7,Villa,140,1877,-5 %
+Gråsælen 120 9681 Ranum,120,583000.0,04-11-2015,Alm.,12673,3,Fritid,46,1993,-2 %
+Idrætsvej 4 9681 Ranum,4,295000.0,26-10-2015,Alm.,3105,4,Villa,95,1955,-9 %
+Guldsmeden 508 9681 Ranum,508,530000.0,21-10-2015,Alm.,11521,3,Fritid,46,1993,-4 %
+Søndergade 16 9681 Ranum,16,247371.0,21-10-2015,Fam.,2061,3,Villa,120,1957,
+Søndergade 32 9681 Ranum,32,750000.0,20-10-2015,Alm.,4807,6,Villa,156,1930,-6 %
+Vesterled 10C 9681 Ranum,0,550000.0,06-10-2015,Alm.,3395,4,Villa,162,1950,-8 %
+Mallevej 2 9681 Ranum,2,520000.0,06-10-2015,Fam.,2080,6,Villa,250,1927,
+Fjordlystvej 27 9681 Ranum,27,2750000.0,11-09-2015,Alm.,11178,8,Stuehus,246,1928,-5 %
+Næsbyvej 29 9681 Ranum,29,390000.0,24-08-2015,Fam.,3900,3,Villa,100,1957,
+Næsbyvej 52 9681 Ranum,52,640000.0,24-08-2015,Fam.,7441,2,Villa,86,1892,-19 %
+Idrætsvej 27 9681 Ranum,27,700000.0,20-08-2015,Alm.,4242,7,Villa,165,1979,
+Kærgaardsvej 7 9681 Ranum,7,490000.0,29-07-2015,Alm.,4049,4,Villa,121,1973,-8 %
+Rødspætten 230 9681 Ranum,230,1155000.0,27-07-2015,Alm.,12554,5,Fritid,92,1993,0 %
+Seminarievej 3 9681 Ranum,3,120000.0,21-07-2015,Alm.,895,5,Villa,134,1932,-59 %
+Vestergade 62 9681 Ranum,62,412500.0,16-07-2015,Andet,1747,7,Villa,236,1962,
+Ryttergade 8 9681 Ranum,8,575000.0,17-06-2015,Alm.,4423,5,Villa,130,1930,-4 %
+Fiskerhytterne 715 9681 Ranum,715,725000.0,10-06-2015,Alm.,17261,2,Fritid,42,1993,
+Blåmuslingen 316 9681 Ranum,316,1150000.0,04-06-2015,Alm.,12500,5,Fritid,92,1993,-4 %
+Vestergade 64 9681 Ranum,64,515000.0,03-06-2015,Alm.,2384,5,Villa,216,1927,-29 %
+Solbakkevej 8 9681 Ranum,8,600000.0,26-05-2015,Alm.,4444,4,Villa,135,1967,-7 %
+Gråsælen 117 9681 Ranum,117,1125000.0,23-05-2015,Alm.,12228,5,Fritid,92,1993,-6 %
+Guldsmeden 507 9681 Ranum,507,515000.0,17-05-2015,Alm.,11195,3,Fritid,46,1993,-4 %
+Blåmuslingen 336 9681 Ranum,336,1195000.0,10-05-2015,Alm.,12989,5,Fritid,92,1993,-3 %
+Guldsmeden 532 9681 Ranum,532,490000.0,04-05-2015,Alm.,10652,3,Fritid,46,1993,-8 %
+Gråsælen 110 9681 Ranum,110,1175000.0,22-04-2015,Alm.,12771,5,Fritid,92,1993,-2 %
+Rødspætten 203 9681 Ranum,203,1170000.0,14-04-2015,Alm.,12717,5,Fritid,92,1993,
+Nygade 18 9681 Ranum,18,500000.0,13-04-2015,Alm.,2890,5,Villa,173,1967,-16 %
+Sølvmågen 602 9681 Ranum,602,510000.0,31-03-2015,Alm.,11086,3,Fritid,46,1993,-6 %
+"Vestergade 18, 1 9681 Ranum",1,75000.0,20-03-2015,Alm.,568,4,Lejlighed,132,1930,
+Skov Sørens Vej 27 9681 Ranum,27,932000.0,25-02-2015,Fam.,10471,4,Sommerhus,89,1973,
+Næsbyvej 4 9681 Ranum,4,420000.0,23-02-2015,Fam.,2957,5,Villa,142,1961,
+Rønnevej 22 9681 Ranum,22,445000.0,06-02-2015,Alm.,4944,4,Villa,90,1907,0 %
+Rødspætten 232 9681 Ranum,232,525000.0,14-12-2014,Fam.,5706,5,Fritid,92,1993,
+Skov Sørens Vej 55 9681 Ranum,55,510000.0,11-12-2014,Fam.,11333,3,Sommerhus,45,1968,
+Vesterled 2 9681 Ranum,2,260000.0,11-12-2014,Alm.,2429,4,Villa,107,1956,-25 %
+Vestervang 2 9681 Ranum,2,225000.0,14-11-2014,Alm.,2647,2,Villa,85,1928,-24 %
+Vestergade 1B 9681 Ranum,0,35000.0,11-11-2014,Alm.,294,4,Villa,119,1877,
+Rødspætten 218 9681 Ranum,218,575000.0,10-11-2014,Alm.,0,3,Fritid,54,1993,-3 %
+Sigsvej 91 9681 Ranum,91,356814.0,17-09-2014,Alm.,2662,4,Stuehus,134,2010,
+Rødspætten 227 9681 Ranum,227,1200000.0,07-09-2014,Alm.,13043,5,Fritid,92,1993,-7 %
+Næsbyvej 27 9681 Ranum,27,175000.0,20-08-2014,Alm.,2083,4,Villa,84,1950,-12 %
+Ryttergade 10 9681 Ranum,10,945000.0,17-08-2014,Alm.,6608,3,Villa,143,1928,-5 %
+Rønbjergvej 256 9681 Ranum,256,875000.0,13-08-2014,Alm.,12867,4,Sommerhus,68,1953,-12 %
+Elkangårdsvej 21 9681 Ranum,21,499000.0,13-08-2014,Alm.,3960,3,Stuehus,126,1877,
+Nørregade 10 9681 Ranum,10,525000.0,12-08-2014,Alm.,3671,4,Villa,143,1925,-4 %
+Rønbjergvej 271 9681 Ranum,271,445000.0,04-08-2014,Alm.,5426,3,Stuehus,82,1938,-13 %
+Bydamsvej 2 9681 Ranum,2,360637.0,03-08-2014,Fam.,2613,4,Villa,138,1968,
+Livøvej 127 9681 Ranum,127,700000.0,09-07-2014,Fam.,6796,4,Villa,103,1968,
+Solbakkevej 3 9681 Ranum,3,375000.0,23-06-2014,Alm.,2533,4,Villa,148,1964,-16 %
+Fjordblinkvej 34 9681 Ranum,34,2375000.0,19-06-2014,Alm.,13571,7,Stuehus,175,2006,-3 %
+Søndergade 42 9681 Ranum,42,853000.0,18-06-2014,Alm.,4846,7,Villa,176,1963,
+Fiskerhytterne 717 9681 Ranum,717,148750.0,01-06-2014,Alm.,4648,1,Fritid,32,1993,
+Rønbjergvej 122 9681 Ranum,122,455130.0,19-04-2014,Fam.,2585,4,Villa,176,2008,
+Næsbyvej 5 9681 Ranum,5,565000.0,17-04-2014,Alm.,6075,4,Villa,93,1957,-2 %
+Gråsælen 112 9681 Ranum,112,1200000.0,10-04-2014,Alm.,13043,5,Fritid,92,1993,-7 %
+Kirkevej 7 9681 Ranum,7,550000.0,03-04-2014,Alm.,4296,4,Villa,128,1961,-21 %
+Blåmuslingen 322 9681 Ranum,322,1225000.0,02-04-2014,Alm.,13315,5,Fritid,92,1993,-5 %
+Grønspætten 424 9681 Ranum,424,520000.0,28-03-2014,Alm.,11304,3,Fritid,46,1993,-5 %
+Vestergade 54 9681 Ranum,54,1005000.0,24-03-2014,Alm.,3988,5,Villa,252,1945,1 %
+Skov Sørens Vej 43 9681 Ranum,43,638300.0,23-03-2014,Fam.,7509,4,Sommerhus,85,1969,
+Grønspætten 408 9681 Ranum,408,1150000.0,26-02-2014,Alm.,12500,5,Fritid,92,1993,-11 %
+Fiskerhytterne 707 9681 Ranum,707,650000.0,19-02-2014,Alm.,15476,2,Fritid,42,1993,-6 %
+Sølvmågen 630 9681 Ranum,630,510000.0,17-02-2014,Alm.,11086,3,Fritid,46,1993,-10 %
+Solbakkevej 17 9681 Ranum,17,725000.0,14-02-2014,Fam.,2705,7,Villa,268,1973,
+Veststien 10 9681 Ranum,10,120000.0,25-01-2014,Alm.,863,6,Villa,139,1935,-60 %
+Holmgårdsvej 24 9681 Ranum,24,210000.0,16-01-2014,Alm.,2019,3,Villa,104,1967,-29 %
+Ranumvej 95 9681 Ranum,95,2350000.0,16-01-2014,Alm.,0,21,Døgninstitution,694,1987,
+Ryttergade 7 9681 Ranum,7,360000.0,13-01-2014,Alm.,2222,5,Villa,162,1930,-9 %
+Ryttergade 22 9681 Ranum,22,350000.0,10-01-2014,Alm.,4375,3,Villa,80,1964,-22 %
+Fiskerhytterne 725 9681 Ranum,725,545000.0,08-01-2014,Fam.,17031,1,Fritid,32,1993,
+Nørregade 24 9681 Ranum,24,332602.0,17-12-2013,Alm.,2618,7,Villa,127,1867,
+Fiskerhytterne 704 9681 Ranum,704,645000.0,16-12-2013,Alm.,18970,1,Fritid,34,1993,0 %
+Blåmuslingen 305 9681 Ranum,305,550000.0,15-12-2013,Alm.,5978,5,Fritid,92,1993,-58 %
+Fjordblinkvej 23 9681 Ranum,23,290000.0,10-12-2013,Alm.,1959,4,Villa,148,1901,-27 %
+Rødspætten 222 9681 Ranum,222,640000.0,14-11-2013,Alm.,13913,3,Fritid,46,2012,-3 %
+Nygade 8 9681 Ranum,8,370293.0,11-11-2013,Alm.,2204,7,Villa,168,1967,-57 %
+Stadionvej 8 9681 Ranum,8,325000.0,05-11-2013,Alm.,3250,5,Villa,100,1955,-7 %
+Viborgvej 250 9681 Ranum,250,5652500.0,03-11-2013,Fam.,18116,8,Stuehus,312,1870,
+Troldbjergvej 70 9681 Ranum,70,127000.0,30-10-2013,Alm.,654,2,Villa,194,2010,
+Blåmuslingen 319 9681 Ranum,319,575000.0,29-10-2013,Alm.,12500,3,Fritid,46,1993,-3 %
+Seminarievej 11 9681 Ranum,11,700000.0,28-10-2013,Alm.,4000,6,Villa,175,1947,-6 %
+Skov Sørens Vej 51 9681 Ranum,51,1350000.0,18-10-2013,Alm.,19285,3,Sommerhus,70,1967,
+Blåmuslingen 318 9681 Ranum,318,582500.0,07-10-2013,Alm.,12663,3,Fritid,46,1993,-2 %
+Guldsmeden 525 9681 Ranum,525,540000.0,30-09-2013,Alm.,11739,3,Fritid,46,1993,-4 %
+Næsbyvej 22 9681 Ranum,22,261495.0,13-09-2013,Fam.,2125,5,Villa,123,1875,
+Fjordlystvej 37 9681 Ranum,37,1100000.0,30-08-2013,Andet,10377,6,Villa,106,1927,
+Vesterled 22 9681 Ranum,22,450000.0,27-08-2013,Alm.,3409,6,Rækkehus,132,1963,-12 %
+Grønspætten 419 9681 Ranum,419,595000.0,26-08-2013,Alm.,0,3,Fritid,54,1993,0 %
+Ålevej 15 9681 Ranum,15,32351100.0,15-08-2013,Alm.,170268,4,Stuehus,190,1880,
+Nygade 14 9681 Ranum,14,575000.0,09-08-2013,Alm.,3859,5,Villa,149,1967,
+Idrætsvej 40B 9681 Ranum,0,675000.0,05-08-2013,Alm.,4720,4,Rækkehus,143,1976,
+Guldsmeden 518 9681 Ranum,518,595000.0,31-07-2013,Alm.,0,3,Fritid,54,1993,0 %
+Engtoften 16 9681 Ranum,16,255000.0,29-07-2013,Fam.,2217,4,Villa,115,1967,-14 %
+Sønderbakken 23 9681 Ranum,23,361918.0,21-07-2013,Fam.,3015,4,Villa,120,1977,-60 %
+Guldsmeden 504 9681 Ranum,504,1225000.0,18-07-2013,Alm.,13315,5,Fritid,92,1993,-5 %
+Fiskerhytterne 729 9681 Ranum,729,1795000.0,18-07-2013,Alm.,18131,3,Fritid,99,2014,0 %
+Kærgaardsvej 9 9681 Ranum,9,270000.0,10-07-2013,Alm.,1836,4,Villa,147,1972,-10 %
+Næsbyvej 85 9681 Ranum,85,500000.0,20-06-2013,Alm.,3787,5,Villa,132,1926,-16 %
+Gråsælen 105 9681 Ranum,105,565000.0,20-06-2013,Alm.,12282,3,Fritid,46,1993,-5 %
+Rødspætten 221 9681 Ranum,221,660000.0,14-06-2013,Alm.,0,3,Fritid,54,2012,-9 %
+Rødspætten 207 9681 Ranum,207,515000.0,06-06-2013,Alm.,11195,3,Fritid,46,1993,
+Fiskerhytterne 727 9681 Ranum,727,1845000.0,20-05-2013,Alm.,18636,3,Fritid,99,2014,
+Rønbjergvej 85 9681 Ranum,85,762500.0,14-05-2013,Alm.,4485,5,Sommerhus,170,1958,-10 %
+Gråsælen 131 9681 Ranum,131,1245000.0,24-04-2013,Alm.,13532,5,Fritid,92,1993,0 %
+Skov Sørens Vej 37 9681 Ranum,37,1465000.0,17-04-2013,Alm.,13952,4,Sommerhus,105,1997,-2 %
+Skov Sørens Vej 113 9681 Ranum,113,400000.0,15-04-2013,Alm.,4040,4,Sommerhus,99,1973,-42 %
+Vinkelvej 5 9681 Ranum,5,527000.0,09-04-2013,Fam.,2879,9,Villa,183,1962,
+Seminarievej 10 9681 Ranum,10,625000.0,04-04-2013,Alm.,3342,8,Villa,187,1910,-10 %
+Fiskerhytterne 730 9681 Ranum,730,1895000.0,27-03-2013,Alm.,19141,3,Fritid,99,2014,
+Vinkelvej 3 9681 Ranum,3,50000.0,19-03-2013,Auktion,423,5,Villa,118,1960,-90 %
+Ranumvej 77 9681 Ranum,77,353593.0,12-03-2013,Alm.,2067,7,Villa,171,1910,
+Rønbjergvej 148 9681 Ranum,148,473737.0,28-02-2013,Fam.,5445,3,Stuehus,87,1930,
+Nørregade 16 9681 Ranum,16,275000.0,15-02-2013,Alm.,1617,6,Villa,170,1909,
+Fiskerhytterne 705 9681 Ranum,705,535000.0,12-02-2013,Alm.,16718,1,Fritid,32,1993,-5 %
+Sølvmågen 604 9681 Ranum,604,1065000.0,08-02-2013,Alm.,11576,5,Fritid,92,1993,-3 %
+Elkangårdsvej 52 9681 Ranum,52,310250.0,31-01-2013,Alm.,994,8,Villa,312,1935,
+Vester Alle 2 9681 Ranum,2,110000.0,22-01-2013,Auktion,1506,3,Villa,73,1961,
+Seminarievej 18 9681 Ranum,18,575000.0,31-12-2012,Fam.,2318,7,Villa,248,1902,
+Blåmuslingen 331 9681 Ranum,331,544000.0,23-12-2012,Alm.,11826,3,Fritid,46,1993,-9 %
+Søndergade 28 9681 Ranum,28,175000.0,22-11-2012,Alm.,1166,6,Villa,150,1896,-64 %
+Fiskerhytterne 708 9681 Ranum,708,535000.0,15-11-2012,Alm.,16718,1,Fritid,32,1993,-2 %
+Guldsmeden 520 9681 Ranum,520,570000.0,04-11-2012,Alm.,12391,3,Fritid,46,1993,-4 %
+Fiskerhytterne 703 9681 Ranum,703,590000.0,28-10-2012,Alm.,17352,1,Fritid,34,1993,-1 %
+Elkangårdsvej 22 9681 Ranum,22,650722.0,25-10-2012,Alm.,5164,4,Stuehus,126,1934,
+Skov Sørens Vej 79 9681 Ranum,79,1360000.0,21-10-2012,Alm.,34000,3,Sommerhus,40,1962,-12 %
+Rønbjergvej 207 9681 Ranum,207,1200000.0,04-10-2012,Alm.,4137,9,Villa,290,1971,-11 %
+Grønspætten 403 9681 Ranum,403,478943.0,20-09-2012,Alm.,5205,5,Fritid,92,1993,
+Fiskerhytterne 726 9681 Ranum,726,890000.0,18-09-2012,Alm.,21190,2,Fritid,42,1993,
+Ålevej 44 9681 Ranum,44,800000.0,10-09-2012,Alm.,4040,5,Stuehus,198,1922,-10 %
+Vestervang 1A 9681 Ranum,0,420000.0,04-09-2012,Alm.,3500,3,Villa,120,1966,-15 %
+Næsbyvej 72 9681 Ranum,72,700000.0,01-09-2012,Fam.,3664,5,Villa,191,1910,
+Vesterled 6 9681 Ranum,6,100000.0,23-07-2012,Alm.,704,5,Villa,142,1932,
+Nørregade 25 9681 Ranum,25,350000.0,14-06-2012,Alm.,2734,4,Villa,128,1934,
+Kærgaardsvej 18 9681 Ranum,18,345000.0,13-06-2012,Alm.,2653,6,Villa,130,1974,0 %
+Grønspætten 427 9681 Ranum,427,1080000.0,09-06-2012,Alm.,11739,5,Fritid,92,1993,-1 %
+Rødspætten 211 9681 Ranum,211,1195000.0,04-06-2012,Alm.,12989,5,Fritid,92,1993,0 %
+Engtoften 1 9681 Ranum,1,800000.0,03-05-2012,Alm.,5594,5,Villa,143,1965,-11 %
+Fiskerhytterne 710 9681 Ranum,710,595000.0,29-04-2012,Alm.,14166,2,Fritid,42,1993,0 %
+Søndergade 7 9681 Ranum,7,336065.0,13-04-2012,Alm.,2100,3,Villa,160,1975,
+Solbakkevej 13 9681 Ranum,13,450000.0,30-03-2012,Alm.,3333,4,Villa,135,1968,-24 %
+Vesterled 10A 9681 Ranum,0,110000.0,19-03-2012,Alm.,839,5,Villa,131,1930,-33 %
+Grønspætten 406 9681 Ranum,406,250000.0,14-03-2012,Fam.,5434,3,Fritid,46,1993,
+Vestervænget 3 9681 Ranum,3,580000.0,08-03-2012,Alm.,4113,4,Villa,141,1975,-14 %
+Vesterled 9 9681 Ranum,9,92000.0,29-02-2012,Fam.,1164,2,Villa,79,1922,-53 %
+Blåmuslingen 303 9681 Ranum,303,1045000.0,23-02-2012,Alm.,11358,5,Fritid,92,1993,-9 %
+Vesterled 26 9681 Ranum,26,924000.0,23-02-2012,Alm.,3208,10,Villa,288,1966,
+Søndergade 36 9681 Ranum,36,377500.0,16-02-2012,Fam.,1926,5,Villa,196,1977,
+Gråsælen 138 9681 Ranum,138,595000.0,15-02-2012,Alm.,12934,3,Fritid,46,1993,0 %
+Rønnevej 20 9681 Ranum,20,96120.0,02-02-2012,Alm.,933,4,Villa,103,1881,-36 %
+Skov Sørens Vej 61 9681 Ranum,61,1425000.0,07-01-2012,Alm.,14843,4,Sommerhus,96,1966,10 %
+Sigsvej 24 9681 Ranum,24,975000.0,03-01-2012,Auktion,4850,6,Villa,201,2010,
+Rønnevej 18B 9681 Ranum,0,70000.0,23-12-2011,Alm.,897,4,Villa,78,1897,-52 %
+Vestergade 10 9681 Ranum,10,2000000.0,21-12-2011,Andet,44444,9,Servicevirksomhed,45,1997,
+Veststien 7 9681 Ranum,7,400000.0,10-12-2011,Alm.,4255,3,Villa,94,1924,1 %
+Næsbyvej 37 9681 Ranum,37,150000.0,10-11-2011,Alm.,10714,5,Idrætsudøvelse,14,1959,
+Sigsvej 12 9681 Ranum,12,985000.0,08-11-2011,Alm.,5472,8,Villa,180,1979,-9 %
+Rødspætten 220 9681 Ranum,220,1200000.0,03-11-2011,Alm.,13043,5,Fritid,92,1993,-6 %
+Kærgaardsvej 13 9681 Ranum,13,880000.0,26-10-2011,Alm.,3682,6,Villa,239,1974,
+Rønnevej 24 9681 Ranum,24,250000.0,13-10-2011,Auktion,1351,5,Villa,185,1958,
+Søndergade 18 9681 Ranum,18,600000.0,07-09-2011,Alm.,2400,5,Villa,250,1980,-14 %
+Livøvej 31 9681 Ranum,31,550000.0,23-08-2011,Alm.,2989,8,Stuehus,184,1928,-15 %
+Sølvmågen 627 9681 Ranum,627,545000.0,08-06-2011,Alm.,11847,3,Fritid,46,1993,
+Kirkevej 4 9681 Ranum,4,300000.0,16-05-2011,Auktion,2400,4,Villa,125,1962,-6 %
+Guldsmeden 536 9681 Ranum,536,545000.0,16-05-2011,Alm.,11847,3,Fritid,46,1993,
+Elkangårdsvej 31 9681 Ranum,31,2520000.0,12-05-2011,Fam.,9843,6,Stuehus,256,2012,
+Guldsmeden 524 9681 Ranum,524,545000.0,10-05-2011,Alm.,11847,3,Fritid,46,1993,
+Rødspætten 215 9681 Ranum,215,1230000.0,04-05-2011,Alm.,13369,5,Fritid,92,1993,
+Rønbjergvej 102 9681 Ranum,102,1700000.0,28-04-2011,Auktion,7083,6,Stuehus,240,1921,-51 %
+Grønspætten 437 9681 Ranum,437,545000.0,26-04-2011,Alm.,11847,3,Fritid,46,1993,
+Holmgårdsvej 2 9681 Ranum,2,505620.0,16-04-2011,Alm.,3919,5,Villa,129,1964,-7 %
+Grønspætten 435 9681 Ranum,435,1545000.0,05-04-2011,Alm.,12261,6,Fritid,126,1993,
+Kærgaardsvej 17 9681 Ranum,17,591540.0,22-03-2011,Andet,3323,5,Villa,178,1973,
+Vestergade 47 9681 Ranum,47,465000.0,04-02-2011,Alm.,3059,6,Villa,152,1942,-9 %
+Rønbjergvej 81 9681 Ranum,81,419037.0,01-02-2011,Andet,2265,6,Villa,185,1954,
+Guldsmeden 531 9681 Ranum,531,545000.0,20-01-2011,Alm.,0,3,Fritid,54,1993,
+Mallevej 11 9681 Ranum,11,686310.0,30-12-2010,Alm.,4515,4,Stuehus,152,1927,
+Sølvmågen 624 9681 Ranum,624,545000.0,29-11-2010,Alm.,11847,3,Fritid,46,1993,
+Sønderbakken 39 9681 Ranum,39,1395000.0,29-11-2010,Alm.,5911,6,Villa,236,1977,0 %
+Mallevej 49 9681 Ranum,49,510000.0,19-11-2010,Auktion,6891,3,Villa,74,1852,
+Vestervænget 14 9681 Ranum,14,180000.0,10-11-2010,Auktion,1323,4,Villa,136,1970,
+Sølvmågen 635 9681 Ranum,635,545000.0,09-11-2010,Alm.,11847,3,Fritid,46,1993,
+Lendrupvej 118 9681 Ranum,118,2010420.0,04-11-2010,Alm.,12887,6,Villa,156,1959,
+Guldsmeden 526 9681 Ranum,526,545000.0,03-11-2010,Alm.,11847,3,Fritid,46,1993,
+Rønbjergvej 217 9681 Ranum,217,1182500.0,28-10-2010,Alm.,5630,9,Stuehus,210,1914,
+Livøvej 131 9681 Ranum,131,900000.0,25-10-2010,Alm.,4368,5,Villa,206,2012,-23 %
+Sølvmågen 605 9681 Ranum,605,545000.0,20-10-2010,Alm.,11847,3,Fritid,46,1993,
+Grønspætten 436 9681 Ranum,436,495000.0,20-10-2010,Alm.,10760,3,Fritid,46,1993,
+Fiskerhytterne 709 9681 Ranum,709,525000.0,12-10-2010,Alm.,16406,1,Fritid,32,1993,
+Sølvmågen 618 9681 Ranum,618,545000.0,08-10-2010,Alm.,11847,3,Fritid,46,1993,
+Blåmuslingen 326 9681 Ranum,326,545000.0,26-09-2010,Alm.,11847,3,Fritid,46,1993,
+Grønspætten 401 9681 Ranum,401,545000.0,22-09-2010,Alm.,11847,3,Fritid,46,1993,
+Grønspætten 423 9681 Ranum,423,545000.0,22-09-2010,Alm.,11847,3,Fritid,46,1993,
+Fiskerhytterne 713 9681 Ranum,713,525000.0,15-09-2010,Alm.,16406,1,Fritid,32,1993,
+Guldsmeden 529 9681 Ranum,529,495000.0,12-09-2010,Alm.,10760,3,Fritid,46,1993,
+Guldsmeden 533 9681 Ranum,533,495000.0,08-09-2010,Alm.,10760,3,Fritid,46,1993,
+Sølvmågen 634 9681 Ranum,634,495000.0,08-09-2010,Alm.,10760,3,Fritid,46,1993,
+Søndergade 37 9681 Ranum,37,600000.0,08-09-2010,Alm.,4878,6,Stuehus,123,1933,
+Grønspætten 430 9681 Ranum,430,1445000.0,07-09-2010,Alm.,11468,6,Fritid,126,1993,
+Guldsmeden 506 9681 Ranum,506,545000.0,05-09-2010,Alm.,11847,3,Fritid,46,1993,
+Guldsmeden 513 9681 Ranum,513,545000.0,05-09-2010,Alm.,11847,3,Fritid,46,1993,
+Grønspætten 432 9681 Ranum,432,545000.0,05-09-2010,Alm.,11847,3,Fritid,46,1993,
+Grønspætten 433 9681 Ranum,433,545000.0,05-09-2010,Alm.,11847,3,Fritid,46,1993,
+Guldsmeden 530 9681 Ranum,530,495000.0,02-09-2010,Alm.,10760,3,Fritid,46,1993,
+Solbakkevej 1 9681 Ranum,1,625000.0,31-08-2010,Alm.,4629,4,Villa,135,1967,-10 %
+Guldsmeden 514 9681 Ranum,514,495000.0,30-08-2010,Alm.,10760,3,Fritid,46,1993,
+Nørregade 9 9681 Ranum,9,165000.0,29-08-2010,Alm.,1320,4,Villa,125,1907,
+Grønspætten 431 9681 Ranum,431,495000.0,24-08-2010,Alm.,10760,3,Fritid,46,1993,
+Fiskerhytterne 712 9681 Ranum,712,525000.0,23-08-2010,Alm.,16406,1,Fritid,32,1993,
+Rødspætten 223 9681 Ranum,223,545000.0,18-08-2010,Alm.,11847,3,Fritid,46,1993,
+Fiskerhytterne 716 9681 Ranum,716,525000.0,09-08-2010,Alm.,16406,1,Fritid,32,1993,
+Guldsmeden 501 9681 Ranum,501,545000.0,05-08-2010,Alm.,11847,3,Fritid,46,1993,
+Østerled 9 9681 Ranum,9,460576.0,05-08-2010,Fam.,2302,6,Villa,200,1960,-54 %
+Skov Sørens Vej 45 9681 Ranum,45,2000000.0,05-08-2010,Alm.,33333,4,Sommerhus,60,1973,
+Holmgårdsvej 8 9681 Ranum,8,610000.0,29-07-2010,Alm.,5126,4,Villa,119,1963,-5 %
+Sølvmågen 611 9681 Ranum,611,495000.0,03-07-2010,Alm.,10760,3,Fritid,46,1993,
+Grønspætten 425 9681 Ranum,425,495000.0,01-07-2010,Alm.,10760,3,Fritid,46,1993,
+Fiskerhytterne 722 9681 Ranum,722,345000.0,27-06-2010,Alm.,8214,2,Fritid,42,1993,
+Blåmuslingen 327 9681 Ranum,327,495000.0,25-06-2010,Alm.,10760,3,Fritid,46,1993,
+Ryttergade 9 9681 Ranum,9,292000.0,18-06-2010,Alm.,3945,4,Villa,74,1928,
+Sølvmågen 612 9681 Ranum,612,545000.0,17-06-2010,Alm.,11847,3,Fritid,46,1993,
+Gråsælen 119 9681 Ranum,119,545000.0,15-06-2010,Alm.,11847,3,Fritid,46,1993,
+Fiskerhytterne 719 9681 Ranum,719,345000.0,15-06-2010,Alm.,8214,2,Fritid,42,1993,
+Gråsælen 123 9681 Ranum,123,1045000.0,14-06-2010,Alm.,11358,5,Fritid,92,1993,
+Guldsmeden 511 9681 Ranum,511,995000.0,14-06-2010,Alm.,10815,5,Fritid,92,1993,
+Rødspætten 234 9681 Ranum,234,545000.0,14-06-2010,Alm.,11847,3,Fritid,46,1993,
+Blåmuslingen 332 9681 Ranum,332,495000.0,14-06-2010,Alm.,10760,3,Fritid,46,1993,
+Fiskerhytterne 706 9681 Ranum,706,545000.0,13-06-2010,Alm.,17031,1,Fritid,32,1993,
+Gråsælen 125 9681 Ranum,125,545000.0,07-06-2010,Alm.,11847,3,Fritid,46,1993,
+Gråsælen 133 9681 Ranum,133,545000.0,07-06-2010,Alm.,0,3,Fritid,54,1993,
+Gråsælen 137 9681 Ranum,137,1045000.0,07-06-2010,Alm.,11358,5,Fritid,92,1993,
+Rødspætten 236 9681 Ranum,236,1045000.0,07-06-2010,Alm.,11358,5,Fritid,92,1993,
+Sølvmågen 613 9681 Ranum,613,545000.0,07-06-2010,Alm.,0,3,Fritid,54,1993,
+Fiskerhytterne 720 9681 Ranum,720,495000.0,07-06-2010,Alm.,15468,1,Fritid,32,1993,
+Gråsælen 140 9681 Ranum,140,545000.0,07-06-2010,Alm.,11847,3,Fritid,46,1993,
+Blåmuslingen 328 9681 Ranum,328,495000.0,07-06-2010,Alm.,10760,3,Fritid,46,1993,
+Grønspætten 409 9681 Ranum,409,545000.0,07-06-2010,Alm.,11847,3,Fritid,46,1993,
+Gråsælen 115 9681 Ranum,115,545000.0,07-06-2010,Alm.,11847,2,Fritid,46,1993,
+Gråsælen 132 9681 Ranum,132,545000.0,30-05-2010,Alm.,11847,3,Fritid,46,1993,
+Guldsmeden 502 9681 Ranum,502,495000.0,30-05-2010,Alm.,10760,3,Fritid,46,1993,
+Guldsmeden 512 9681 Ranum,512,545000.0,30-05-2010,Alm.,11847,3,Fritid,46,1993,
+Rødspætten 201 9681 Ranum,201,545000.0,30-05-2010,Alm.,11847,3,Fritid,46,1993,
+Rødspætten 225 9681 Ranum,225,545000.0,30-05-2010,Alm.,11847,3,Fritid,46,1993,
+Rødspætten 233 9681 Ranum,233,545000.0,30-05-2010,Alm.,11847,3,Fritid,46,1993,
+Sølvmågen 614 9681 Ranum,614,495000.0,30-05-2010,Alm.,0,3,Fritid,54,1993,
+Blåmuslingen 301 9681 Ranum,301,545000.0,30-05-2010,Alm.,11847,3,Fritid,46,1993,
+Blåmuslingen 320 9681 Ranum,320,545000.0,30-05-2010,Alm.,0,3,Fritid,54,1993,
+Fiskerhytterne 721 9681 Ranum,721,495000.0,30-05-2010,Alm.,15468,1,Fritid,32,1993,
+Blåmuslingen 333 9681 Ranum,333,495000.0,30-05-2010,Alm.,10760,3,Fritid,46,1993,
+Grønspætten 404 9681 Ranum,404,545000.0,30-05-2010,Alm.,11847,3,Fritid,46,1993,
+Grønspætten 420 9681 Ranum,420,545000.0,30-05-2010,Alm.,11847,3,Fritid,46,1993,
+Gråsælen 108 9681 Ranum,108,495000.0,30-05-2010,Alm.,10760,3,Fritid,46,1993,
+Fiskerhytterne 724 9681 Ranum,724,495000.0,29-05-2010,Alm.,15468,1,Fritid,32,1993,
+Solbakkevej 15 9681 Ranum,15,550000.0,28-05-2010,Alm.,3873,5,Villa,142,1971,-12 %
+Skov Sørens Vej 39 9681 Ranum,39,243333.0,25-05-2010,Alm.,2644,4,Sommerhus,92,1970,
+Gråsælen 127 9681 Ranum,127,495000.0,24-05-2010,Alm.,10760,3,Fritid,46,1993,
+Rødspætten 208 9681 Ranum,208,545000.0,24-05-2010,Alm.,11847,3,Fritid,46,1993,
+Sølvmågen 608 9681 Ranum,608,545000.0,24-05-2010,Alm.,0,3,Fritid,54,1993,
+Gråsælen 139 9681 Ranum,139,495000.0,24-05-2010,Alm.,10760,3,Fritid,46,1993,
+Gråsælen 129 9681 Ranum,129,1045000.0,23-05-2010,Alm.,11358,5,Fritid,92,1993,
+Gråsælen 134 9681 Ranum,134,495000.0,23-05-2010,Alm.,10760,3,Fritid,46,1993,
+Gråsælen 135 9681 Ranum,135,495000.0,23-05-2010,Alm.,10760,3,Fritid,46,1993,
+Guldsmeden 516 9681 Ranum,516,1045000.0,23-05-2010,Alm.,11358,5,Fritid,92,1993,
+Guldsmeden 517 9681 Ranum,517,545000.0,23-05-2010,Alm.,11847,3,Fritid,46,1993,
+Guldsmeden 519 9681 Ranum,519,545000.0,23-05-2010,Alm.,0,3,Fritid,54,1993,
+Guldsmeden 522 9681 Ranum,522,1045000.0,23-05-2010,Alm.,11358,5,Fritid,92,1993,
+Guldsmeden 523 9681 Ranum,523,545000.0,23-05-2010,Alm.,0,3,Fritid,54,1993,
+Rødspætten 206 9681 Ranum,206,495000.0,23-05-2010,Alm.,10760,3,Fritid,46,1993,
+Rødspætten 205 9681 Ranum,205,1045000.0,23-05-2010,Alm.,11358,5,Fritid,92,1993,
+Rødspætten 209 9681 Ranum,209,545000.0,23-05-2010,Alm.,11847,3,Fritid,46,1993,
+Rødspætten 212 9681 Ranum,212,495000.0,23-05-2010,Alm.,10760,3,Fritid,46,1993,
+Guldsmeden 535 9681 Ranum,535,995000.0,23-05-2010,Alm.,10815,5,Fritid,92,1993,
+Rødspætten 224 9681 Ranum,224,495000.0,23-05-2010,Alm.,10760,3,Fritid,46,1993,
+Sølvmågen 601 9681 Ranum,601,545000.0,23-05-2010,Alm.,11847,3,Fritid,46,1993,
+Sølvmågen 619 9681 Ranum,619,495000.0,23-05-2010,Alm.,10760,3,Fritid,46,1993,
+Sølvmågen 626 9681 Ranum,626,995000.0,23-05-2010,Alm.,10815,5,Fritid,92,1993,
+Sølvmågen 629 9681 Ranum,629,1095000.0,23-05-2010,Alm.,11902,5,Fritid,92,1993,
+Sølvmågen 632 9681 Ranum,632,995000.0,23-05-2010,Alm.,10815,5,Fritid,92,1993,
+Blåmuslingen 308 9681 Ranum,308,495000.0,23-05-2010,Alm.,0,3,Fritid,54,1993,
+Fiskerhytterne 714 9681 Ranum,714,595000.0,23-05-2010,Alm.,14166,2,Fritid,42,1993,
+Blåmuslingen 317 9681 Ranum,317,545000.0,23-05-2010,Alm.,0,3,Fritid,54,1993,
+Blåmuslingen 324 9681 Ranum,324,495000.0,23-05-2010,Alm.,10760,3,Fritid,46,1993,
+Blåmuslingen 323 9681 Ranum,323,495000.0,23-05-2010,Alm.,10760,3,Fritid,46,1993,
+Blåmuslingen 338 9681 Ranum,338,1095000.0,23-05-2010,Alm.,11902,5,Fritid,92,1993,
+Grønspætten 415 9681 Ranum,415,1045000.0,23-05-2010,Alm.,11358,5,Fritid,92,1993,
+Grønspætten 413 9681 Ranum,413,545000.0,23-05-2010,Alm.,11847,3,Fritid,46,1993,
+Grønspætten 417 9681 Ranum,417,495000.0,23-05-2010,Alm.,10760,3,Fritid,46,1993,
+Grønspætten 416 9681 Ranum,416,545000.0,23-05-2010,Alm.,11847,3,Fritid,46,1993,
+Grønspætten 418 9681 Ranum,418,545000.0,23-05-2010,Alm.,0,3,Fritid,54,1993,
+Grønspætten 422 9681 Ranum,422,1045000.0,23-05-2010,Alm.,11358,5,Fritid,92,1993,
+Gråsælen 118 9681 Ranum,118,545000.0,23-05-2010,Alm.,11847,3,Fritid,46,1993,
+Gråsælen 102 9681 Ranum,102,545000.0,23-05-2010,Alm.,11847,3,Fritid,46,1993,
+Gråsælen 101 9681 Ranum,101,545000.0,23-05-2010,Alm.,11847,3,Fritid,46,1993,
+Gråsælen 104 9681 Ranum,104,1045000.0,23-05-2010,Alm.,11358,5,Fritid,92,1993,
+Gråsælen 106 9681 Ranum,106,545000.0,23-05-2010,Alm.,11847,3,Fritid,46,1993,
+Gråsælen 113 9681 Ranum,113,495000.0,23-05-2010,Alm.,0,3,Fritid,54,1993,
+Gråsælen 124 9681 Ranum,124,495000.0,22-05-2010,Alm.,10760,3,Fritid,46,1993,
+Guldsmeden 528 9681 Ranum,528,1045000.0,22-05-2010,Alm.,11358,5,Fritid,92,1993,
+Rødspætten 213 9681 Ranum,213,545000.0,22-05-2010,Alm.,11847,3,Fritid,46,1993,
+Sølvmågen 607 9681 Ranum,607,1095000.0,22-05-2010,Alm.,11902,5,Fritid,92,1993,
+Blåmuslingen 311 9681 Ranum,311,1045000.0,22-05-2010,Alm.,11358,5,Fritid,92,1993,
+Blåmuslingen 312 9681 Ranum,312,545000.0,22-05-2010,Alm.,11847,3,Fritid,46,1993,
+Fiskerhytterne 718 9681 Ranum,718,595000.0,22-05-2010,Alm.,14166,2,Fritid,42,1993,
+Fiskerhytterne 723 9681 Ranum,723,595000.0,22-05-2010,Alm.,14166,2,Fritid,42,1993,
+Blåmuslingen 330 9681 Ranum,330,1045000.0,22-05-2010,Alm.,11358,5,Fritid,92,1993,
+Sølvmågen 610 9681 Ranum,610,995000.0,21-05-2010,Alm.,10815,5,Fritid,92,1993,
+Rødspætten 217 9681 Ranum,217,1045000.0,19-05-2010,Alm.,11358,5,Fritid,92,1993,
+Fiskerhytterne 701 9681 Ranum,701,595000.0,02-05-2010,Alm.,18593,1,Fritid,32,1993,
+Mallevej 27 9681 Ranum,27,2200000.0,28-04-2010,Alm.,9282,8,Stuehus,237,1935,-15 %
+Holmgårdsvej 5 9681 Ranum,5,725000.0,26-04-2010,Alm.,5370,6,Villa,135,1965,-5 %
+Næsbyvej 11 9681 Ranum,11,260000.0,09-04-2010,Auktion,2321,6,Villa,112,1955,-39 %
+Fjordlystvej 11 9681 Ranum,11,3380000.0,26-02-2010,Alm.,21125,5,Stuehus,160,1900,-6 %
+Brøttrupvej 4 9681 Ranum,4,500000.0,26-02-2010,Alm.,2840,6,Villa,176,1927,-28 %
+Skov Sørens Vej 15 9681 Ranum,15,535000.0,12-02-2010,Alm.,5047,4,Sommerhus,106,2011,-3 %
+Rønbjergvej 54 9681 Ranum,54,565000.0,19-01-2010,Auktion,4280,5,Villa,132,1890,-43 %
+Holmgårdsvej 19 9681 Ranum,19,595000.0,16-12-2009,Alm.,3500,6,Villa,170,1965,0 %
+Fjordblinkvej 31 9681 Ranum,31,200000.0,16-11-2009,Alm.,966,7,Villa,207,1877,
+Livøvej 133 9681 Ranum,133,2400000.0,15-11-2009,Alm.,15584,4,Villa,154,1900,-2 %
+Sportsvej 2 9681 Ranum,2,545000.0,14-10-2009,Alm.,3633,6,Villa,150,1930,0 %
+Nygade 5 9681 Ranum,5,415000.0,12-10-2009,Alm.,3672,4,Villa,113,1976,-3 %
+Holmgårdsvej 9 9681 Ranum,9,410000.0,20-09-2009,Alm.,4555,4,Villa,90,1963,
+Søndergade 38 9681 Ranum,38,820000.0,10-08-2009,Alm.,4969,5,Villa,165,1926,-4 %
+Ålevej 32 9681 Ranum,32,1100000.0,09-08-2009,Alm.,7142,5,Stuehus,154,1928,-8 %
+Vestergade 6 9681 Ranum,6,662500.0,11-07-2009,Alm.,5520,5,Villa,120,1936,-2 %
+Kærgaardsvej 4 9681 Ranum,4,1200000.0,26-06-2009,Alm.,5607,6,Villa,214,1973,-14 %
+Vestervænget 15 9681 Ranum,15,561000.0,05-05-2009,Fam.,3596,4,Villa,156,1972,
+Lendrupvej 88 9681 Ranum,88,501500.0,18-03-2009,Fam.,10030,3,Sommerhus,50,1966,
+Kirkevej 10 9681 Ranum,10,484500.0,26-01-2009,Fam.,4037,4,Villa,120,1962,
+Vestergade 15 9681 Ranum,15,423000.0,29-11-2008,Alm.,2563,6,Villa,165,1930,-5 %
+Mosesvinget 4 9681 Ranum,4,375000.0,28-11-2008,Alm.,4166,3,Villa,90,1956,-29 %
+Rønbjergvej 92 9681 Ranum,92,27660.0,18-11-2008,Alm.,181,5,Stuehus,152,1870,
+Vesterled 23 9681 Ranum,23,320000.0,31-10-2008,Alm.,4210,4,Villa,76,1957,
+Nørregade 22 9681 Ranum,22,300000.0,30-10-2008,Alm.,1875,6,Villa,160,1930,-14 %
+Vestergade 52 9681 Ranum,52,600000.0,26-09-2008,Alm.,4580,5,Villa,131,1938,-5 %
+Kærgaardsvej 25 9681 Ranum,25,885000.0,10-09-2008,Alm.,6321,3,Villa,140,1975,
+Vestervænget 9 9681 Ranum,9,390000.0,17-08-2008,Alm.,4642,2,Villa,84,1953,-2 %
+Kærgaardsvej 5 9681 Ranum,5,700000.0,04-08-2008,Alm.,5000,4,Villa,140,1974,
+Søndergade 46 9681 Ranum,46,1187000.0,30-07-2008,Alm.,5734,7,Villa,207,1962,-5 %
+Vesterled 24 9681 Ranum,24,331500.0,30-07-2008,Andet,1985,6,Villa,167,1962,
+Livøvej 104 9681 Ranum,104,1350000.0,04-07-2008,Alm.,19285,11,Servicevirksomhed,70,1971,
+Holmgårdsvej 16 9681 Ranum,16,655000.0,26-06-2008,Alm.,0,4,Villa,111,1965,-2 %
+Næsbyvej 54 9681 Ranum,54,2300000.0,20-06-2008,Fam.,9236,9,Stuehus,249,1985,
+Holmgårdsvej 6 9681 Ranum,6,590000.0,17-06-2008,Alm.,5728,4,Villa,103,1964,-6 %
+Ranumvej 80 9681 Ranum,80,435000.0,15-05-2008,Fam.,3398,4,Stuehus,128,1929,
+Vestervang 7A 9681 Ranum,0,743421.0,30-04-2008,Alm.,8169,3,Villa,91,1987,7 %
+Nørregade 8A 9681 Ranum,0,400000.0,21-03-2008,Alm.,2614,7,Villa,153,1954,-13 %
+Bydamsvej 3 9681 Ranum,3,700000.0,14-03-2008,Alm.,4794,4,Villa,146,1960,
+Solbakkevej 5 9681 Ranum,5,925000.0,14-03-2008,Alm.,5110,6,Villa,181,1964,
+Mallevej 25 9681 Ranum,25,4100000.0,29-02-2008,Alm.,33606,4,Stuehus,122,2009,
+Brøttrupvej 6 9681 Ranum,6,1250000.0,28-02-2008,Alm.,0,8,Villa,280,1900,-4 %
+Søndergade 21 9681 Ranum,21,380000.0,26-02-2008,Alm.,3015,4,Villa,126,1927,
+Viborgvej 422 9681 Ranum,422,1380000.0,30-01-2008,Alm.,7624,6,Stuehus,181,1928,-5 %
+Næsbyvej 73 9681 Ranum,73,462500.0,24-01-2008,Andet,3146,6,Villa,147,1955,
+Ranumvej 60 9681 Ranum,60,940000.0,22-01-2008,Alm.,3671,6,Stuehus,256,1875,
+Holmgårdsvej 15 9681 Ranum,15,410000.0,17-01-2008,Alm.,3037,5,Villa,135,1964,
+Lendrupvej 90 9681 Ranum,90,4400000.0,09-01-2008,Alm.,17959,6,Stuehus,245,1985,
+Livøvej 103 9681 Ranum,103,1975000.0,08-01-2008,Alm.,9228,6,Villa,214,1979,
+Kærgaardsvej 11 9681 Ranum,11,1200000.0,04-12-2007,Alm.,5357,8,Villa,224,1977,
+Fjordlystvej 51 9681 Ranum,51,5056000.0,23-11-2007,Alm.,19297,8,Stuehus,262,2011,
+Seminarievej 14 9681 Ranum,14,550000.0,20-11-2007,Alm.,1791,9,Villa,307,1900,
+Nørregade 23 9681 Ranum,23,250000.0,14-11-2007,Alm.,2000,4,Villa,125,1890,
+Elkangårdsvej 42 9681 Ranum,42,440000.0,24-10-2007,Alm.,4536,3,Stuehus,97,1927,
+Solbakkevej 10 9681 Ranum,10,950000.0,24-10-2007,Alm.,4077,3,Villa,233,1966,
+Rønnevej 8 9681 Ranum,8,425000.0,23-10-2007,Alm.,2931,5,Villa,145,1947,0 %
+Søndergade 4 9681 Ranum,4,975000.0,25-09-2007,Alm.,5539,6,Stuehus,176,1900,-17 %
+Vestergade 51 9681 Ranum,51,625000.0,09-09-2007,Alm.,4340,6,Villa,144,1953,-4 %
+Næsbyvej 12 9681 Ranum,12,375000.0,06-09-2007,Alm.,3289,3,Villa,114,1942,-12 %
+Livøvej 123 9681 Ranum,123,250000.0,31-08-2007,Alm.,1865,4,Villa,134,2008,
+Næsbyvej 7 9681 Ranum,7,490000.0,21-08-2007,Alm.,3798,5,Villa,129,1959,
+Rønnevej 16 9681 Ranum,16,575000.0,13-08-2007,Alm.,4107,5,Villa,140,1958,-12 %
+Viborgvej 426 9681 Ranum,426,854000.0,24-07-2007,Alm.,4616,6,Stuehus,185,1912,-2 %
+Rønbjergvej 157 9681 Ranum,157,1100000.0,26-06-2007,Alm.,5945,5,Villa,185,1923,
+Skov Sørens Vej 73 9681 Ranum,73,1550000.0,22-06-2007,Alm.,8857,5,Sommerhus,175,1964,
+Idrætsvej 2 9681 Ranum,2,475000.0,22-06-2007,Alm.,5459,3,Villa,87,1952,-4 %
+Vestervang 16 9681 Ranum,16,660000.0,22-06-2007,Alm.,4852,4,Villa,136,1977,
+Vesterled 12 9681 Ranum,12,347500.0,09-05-2007,Alm.,1623,7,Villa,214,1963,
+Rønbjergvej 83 9681 Ranum,83,450000.0,07-05-2007,Alm.,4411,4,Villa,102,1957,
+"Næsbydalevej 29, ST. 4 9681 Ranum",4,49910.0,27-04-2007,Andet,767,2,"Ferie, andet",65,1918,
+"Næsbydalevej 27, ST. 5 9681 Ranum",5,49910.0,27-04-2007,Andet,779,2,"Ferie, andet",64,1918,
+"Næsbydalevej 25, ST. 6 9681 Ranum",6,58228.0,27-04-2007,Andet,710,2,"Ferie, andet",82,1918,
+"Næsbydalevej 31, ST. 3 9681 Ranum",3,91256.0,27-04-2007,Andet,1659,2,"Ferie, andet",55,1918,
+"Næsbydalevej 33, ST. 2 9681 Ranum",2,41592.0,27-04-2007,Andet,704,2,"Ferie, andet",59,1918,
+"Næsbydalevej 35, ST. 10 9681 Ranum",10,87342.0,27-04-2007,Andet,772,3,"Ferie, andet",113,1918,
+Mallevej 12 9681 Ranum,12,455000.0,13-04-2007,Alm.,3888,4,Villa,117,1880,
+Vestergade 2A 9681 Ranum,0,1370000.0,03-04-2007,Alm.,6618,7,Stuehus,207,1996,
+Kærgaardsvej 3 9681 Ranum,3,960000.0,02-03-2007,Alm.,6000,5,Villa,160,1972,
+Næsbyvej 83 9681 Ranum,83,795000.0,01-03-2007,Alm.,5888,5,Villa,135,1927,
+Vesterled 18 9681 Ranum,18,795000.0,17-02-2007,Alm.,4542,7,Villa,175,1958,0 %
+Engtoften 8 9681 Ranum,8,410000.0,10-02-2007,Alm.,3416,3,Villa,120,1969,
+Nygade 16 9681 Ranum,16,400000.0,02-02-2007,Alm.,2941,6,Villa,136,1968,
+Lendrupvej 101 9681 Ranum,101,1650000.0,01-02-2007,Alm.,0,8,Villa,366,1920,-8 %
+Veststien 11 9681 Ranum,11,440000.0,19-12-2006,Alm.,7333,2,Villa,60,1948,
+Vinkelvej 1A 9681 Ranum,0,375000.0,22-11-2006,Alm.,5769,2,Rækkehus,65,1984,
+"Vestergade 28A, 1 9681 Ranum",1,1330000.0,25-10-2006,Alm.,14777,3,Lejlighed,90,1900,
+Rønnevej 3 9681 Ranum,3,420000.0,20-10-2006,Alm.,2857,6,Villa,147,1933,
+Vestergade 37 9681 Ranum,37,90000.0,18-10-2006,Alm.,1200,7,Servicevirksomhed,75,1912,
+Vestergade 1D 9681 Ranum,0,615000.0,07-10-2006,Alm.,2605,6,Villa,236,1930,
+Næsbyvej 102 9681 Ranum,102,700000.0,12-09-2006,Alm.,2822,9,Stuehus,248,1974,
+Rønnevej 10 9681 Ranum,10,208938.0,30-08-2006,Auktion,3214,2,Villa,65,1948,
+Rønbjergvej 68 9681 Ranum,68,620000.0,22-08-2006,Alm.,3604,5,Villa,172,1907,
+Viborgvej 424 9681 Ranum,424,1150000.0,29-07-2006,Alm.,10454,3,Stuehus,110,1930,
+Sportsvej 3 9681 Ranum,3,350000.0,28-07-2006,Alm.,3070,4,Rækkehus,114,1930,
+Ranumvej 68 9681 Ranum,68,1195000.0,03-07-2006,Alm.,6128,5,Villa,195,1967,
+Livøvej 11 9681 Ranum,11,8054500.0,20-06-2006,Fam.,23346,8,Stuehus,345,1971,
+Ålevej 6 9681 Ranum,6,1050000.0,19-05-2006,Alm.,4449,6,Stuehus,236,1902,
+Kirkevej 5 9681 Ranum,5,635000.0,06-04-2006,Alm.,4096,6,Villa,155,1962,
+Ålevej 28 9681 Ranum,28,260000.0,17-03-2006,Alm.,2031,3,Stuehus,128,1911,
+Vestergade 41A 9681 Ranum,0,350000.0,10-03-2006,Fam.,1977,8,Rækkehus,177,1883,
+Fjordlystvej 5 9681 Ranum,5,950000.0,13-02-2006,Alm.,9693,3,Stuehus,98,1890,
+Vester Søvej 21 9681 Ranum,21,1835000.0,13-01-2006,Alm.,10308,5,Villa,178,1940,
+Næsbyvej 1B 9681 Ranum,0,425000.0,08-12-2005,Alm.,5902,3,Villa,72,1956,
+Rønnevej 17 9681 Ranum,17,180000.0,05-11-2005,Alm.,1512,5,Villa,119,1930,
+Idrætsvej 26 9681 Ranum,26,895000.0,31-10-2005,Alm.,6392,6,Villa,140,1965,
+Kirkevej 16 9681 Ranum,16,641023.0,26-10-2005,Alm.,3981,7,Villa,161,1962,
+Ryttergade 6 9681 Ranum,6,175000.0,21-10-2005,Fam.,1750,4,Villa,100,1930,
+Kærgaardsvej 15 9681 Ranum,15,695000.0,06-10-2005,Alm.,4793,5,Villa,145,1973,
+Veststien 9 9681 Ranum,9,395000.0,30-09-2005,Alm.,3761,3,Villa,105,1920,
+Nørregade 6 9681 Ranum,6,389389.0,14-09-2005,Alm.,2905,5,Stuehus,134,1911,
+Livøvej 137 9681 Ranum,137,1445000.0,23-08-2005,Alm.,12675,5,Sommerhus,114,1877,
+Holmgårdsvej 17 9681 Ranum,17,575000.0,22-08-2005,Alm.,4049,4,Villa,142,1964,
+Vestergade 14 9681 Ranum,14,300000.0,28-07-2005,Alm.,2479,4,Villa,121,1925,
+Nygade 4 9681 Ranum,4,533915.0,10-07-2005,Alm.,0,6,Villa,185,1962,
+Vestervang 8 9681 Ranum,8,960000.0,07-07-2005,Alm.,4848,4,Villa,198,1877,
+Engtoften 12 9681 Ranum,12,433467.0,07-06-2005,Alm.,4468,3,Villa,97,1966,
+Rønbjergvej 22 9681 Ranum,22,480000.0,04-06-2005,Alm.,2742,6,Stuehus,175,1880,
+Skov Sørens Vej 115 9681 Ranum,115,520000.0,02-06-2005,Alm.,7123,3,Sommerhus,73,1972,
+Engtoften 4 9681 Ranum,4,710000.0,17-05-2005,Alm.,4176,6,Villa,170,1970,
+Rønbjergvej 251 9681 Ranum,251,80000.0,15-02-2005,Alm.,289,9,Stuehus,276,1921,
+Kærgaardsvej 27 9681 Ranum,27,538800.0,03-02-2005,Alm.,4345,5,Villa,124,1974,
+Mosesvinget 2 9681 Ranum,2,436132.0,25-01-2005,Fam.,3727,5,Villa,117,1927,
+Næsbyvej 23 9681 Ranum,23,525197.0,18-01-2005,Alm.,5470,3,Villa,96,1960,
+Næsbyvej 17 9681 Ranum,17,375000.0,08-01-2005,Alm.,4687,4,Villa,80,1960,
+Kærgaardsvej 22 9681 Ranum,22,675000.0,29-12-2004,Alm.,4591,5,Villa,147,1972,
+Rønbjergvej 125 9681 Ranum,125,1254000.0,16-12-2004,Alm.,7376,5,Stuehus,170,1925,
+"Rønnevej 5C, ST. 3 9681 Ranum",3,965000.0,28-10-2004,Alm.,10604,3,Lejlighed,91,1967,
+Stadionvej 12 9681 Ranum,12,265000.0,08-10-2004,Alm.,2944,4,Villa,90,1962,
+Kærvej 4 9681 Ranum,4,1000000.0,30-07-2004,Alm.,3194,11,Villa,313,1958,
+Vestergade 49 9681 Ranum,49,535000.0,16-07-2004,Alm.,4083,5,Villa,131,1962,
+Mosesvinget 3 9681 Ranum,3,540000.0,01-07-2004,Alm.,3857,6,Villa,140,1957,
+Elkangårdsvej 61 9681 Ranum,61,480000.0,13-06-2004,Alm.,4528,3,Stuehus,106,1930,
+Vestergade 17 9681 Ranum,17,302000.0,28-04-2004,Alm.,3020,3,Villa,100,1877,
+Ranumvej 74 9681 Ranum,74,1015000.0,21-04-2004,Alm.,5516,9,Stuehus,184,1933,
+Skov Sørens Vej 117 9681 Ranum,117,825000.0,15-04-2004,Alm.,8168,4,Sommerhus,101,1975,
+Sønderbakken 5 9681 Ranum,5,825000.0,15-03-2004,Alm.,5156,6,Villa,160,1975,
+Nygade 3 9681 Ranum,3,695000.0,09-03-2004,Alm.,3510,5,Villa,198,1973,
+Sønderbakken 1 9681 Ranum,1,1153000.0,22-02-2004,Alm.,4927,9,Villa,234,1928,
+Vesterled 3A 9681 Ranum,0,374432.0,21-02-2004,Alm.,5349,3,Villa,70,1950,
+Sønderbakken 19 9681 Ranum,19,635000.0,02-02-2004,Alm.,0,7,Villa,194,1976,
+Holmgårdsvej 18 9681 Ranum,18,400000.0,16-12-2003,Alm.,4494,4,Villa,89,1963,
+Idrætsvej 28 9681 Ranum,28,825000.0,08-12-2003,Alm.,4583,5,Villa,180,1976,
+Vesterled 5A 9681 Ranum,0,350000.0,05-12-2003,Alm.,0,4,Villa,125,1964,
+Sigsvej 98 9681 Ranum,98,244560.0,17-11-2003,Fam.,1142,5,Villa,214,1873,
+Kirkevej 3 9681 Ranum,3,510000.0,07-11-2003,Alm.,4250,4,Villa,120,1961,
+Rønbjergvej 138 9681 Ranum,138,1100000.0,30-10-2003,Alm.,0,8,Stuehus,243,1927,
+Rønbjergvej 69 9681 Ranum,69,85000.0,15-10-2003,Alm.,0,7,Villa,231,2005,
+Gl. Næsbyvej 6 9681 Ranum,6,450000.0,14-10-2003,Alm.,2647,7,Villa,170,1949,
+Kærvej 2 9681 Ranum,2,1000000.0,10-10-2003,Alm.,4587,6,Villa,218,1906,
+Holmgårdsvej 3 9681 Ranum,3,725000.0,27-09-2003,Alm.,3452,7,Villa,210,1963,
+Nygade 13 9681 Ranum,13,430000.0,12-09-2003,Alm.,0,6,Villa,184,1964,
+Rønbjergvej 41 9681 Ranum,41,625000.0,04-09-2003,Fam.,4194,5,Villa,149,1934,
+Vestergade 56 9681 Ranum,56,640000.0,22-08-2003,Alm.,5120,6,Villa,125,1950,
+Sportsvej 5 9681 Ranum,5,630000.0,24-07-2003,Alm.,3818,8,Villa,165,1927,
+Lendrupvej 110 9681 Ranum,110,231214.0,02-07-2003,Alm.,2312,3,Villa,100,1920,
+Rønbjergvej 286 9681 Ranum,286,895000.0,12-06-2003,Alm.,0,5,Villa,231,1921,
+Vestervænget 11 9681 Ranum,11,125000.0,27-05-2003,Alm.,1736,3,Villa,72,1954,
+Holmgårdsvej 4 9681 Ranum,4,725000.0,15-05-2003,Alm.,5800,4,Villa,125,1963,
+Rønnevej 13 9681 Ranum,13,388754.0,20-03-2003,Alm.,3599,3,Villa,108,1947,
+Mosesvinget 1 9681 Ranum,1,350000.0,24-02-2003,Alm.,3365,4,Villa,104,1957,
+Nygade 15 9681 Ranum,15,322000.0,28-01-2003,Alm.,2596,3,Villa,124,1964,
+Skov Sørens Vej 47 9681 Ranum,47,800000.0,15-12-2002,Fam.,0,7,Sommerhus,104,1975,
+Vestergade 22 9681 Ranum,22,210000.0,07-11-2002,Alm.,1707,6,Rækkehus,123,1914,
+Vestervang 1B 9681 Ranum,0,200000.0,31-10-2002,Alm.,3030,2,Villa,66,1932,
+Søndergade 13 9681 Ranum,13,340000.0,29-08-2002,Auktion,2518,6,Villa,135,1955,
+Vestergade 32 9681 Ranum,32,450000.0,27-08-2002,Alm.,2616,5,Villa,172,1932,
+Rønbjergvej 139 9681 Ranum,139,335850.0,23-08-2002,Alm.,1301,6,Stuehus,258,1870,
+Livøvej 50 9681 Ranum,50,4350070.0,07-07-2002,Fam.,18750,8,Stuehus,232,1866,
+Ryttergade 12 9681 Ranum,12,96000.0,16-05-2002,Auktion,1142,4,Villa,84,1926,
+Gl. Næsbyvej 4 9681 Ranum,4,242299.0,30-04-2002,Auktion,1969,3,Villa,123,1907,
+Lendrupvej 102 9681 Ranum,102,900009.0,25-03-2002,Alm.,0,7,Villa,208,1977,
+Kærgaardsvej 30 9681 Ranum,30,765000.0,22-03-2002,Alm.,4811,5,Villa,159,1972,
+Ålevej 48 9681 Ranum,48,1100000.0,08-03-2002,Alm.,4000,8,Villa,275,1921,
+Østerled 8 9681 Ranum,8,88000.0,18-02-2002,Andet,822,3,Villa,107,1917,
+Holmgårdsvej 13 9681 Ranum,13,453996.0,06-02-2002,Alm.,2837,5,Villa,160,1964,
+"Rønnevej 5C, ST. 1 9681 Ranum",1,206000.0,30-11-2001,Fam.,2710,2,Lejlighed,76,1967,
+"Rønnevej 5C, ST. 2 9681 Ranum",2,225000.0,30-11-2001,Fam.,2647,3,Lejlighed,85,1967,
+Kærgaardsvej 8 9681 Ranum,8,525000.0,28-09-2001,Alm.,4525,4,Villa,116,1972,
+Rønnevej 15 9681 Ranum,15,409575.0,25-09-2001,Alm.,4095,4,Villa,100,1958,
+Vesterled 7 9681 Ranum,7,529421.0,17-09-2001,Alm.,2877,5,Villa,184,1927,
+Skov Sørens Vej 35 9681 Ranum,35,502000.0,06-09-2001,Fam.,9843,4,Sommerhus,51,1992,
+Skov Sørens Vej 19 9681 Ranum,19,391000.0,12-08-2001,Fam.,7519,3,Sommerhus,52,1970,
+Livøvej 27 9681 Ranum,27,138240.0,12-07-2001,Alm.,372,7,Stuehus,371,2006,
+Fjordlystvej 39 9681 Ranum,39,1225000.0,26-06-2001,Alm.,3125,6,Stuehus,392,1937,
+Nørregade 2 9681 Ranum,2,225000.0,26-06-2001,Alm.,1875,5,Villa,120,1894,
+Nygade 1 9681 Ranum,1,395329.0,23-06-2001,Alm.,3694,3,Villa,107,1963,
+Næsbyvej 16 9681 Ranum,16,336008.0,20-06-2001,Alm.,0,3,Villa,94,1963,
+Engtoften 3 9681 Ranum,3,231535.0,03-06-2001,Alm.,1715,4,Villa,135,1968,
+Veststien 14 9681 Ranum,14,267447.0,22-05-2001,Alm.,3261,3,Villa,82,1954,
+Nørregade 13 9681 Ranum,13,351959.0,10-05-2001,Alm.,1955,5,Villa,180,2008,
+Søndergade 40 9681 Ranum,40,850000.0,29-03-2001,Alm.,0,11,Stuehus,286,1870,
+Troldbjergvej 61 9681 Ranum,61,976000.0,21-03-2001,Alm.,4784,7,Villa,204,1907,
+Skov Sørens Vej 69 9681 Ranum,69,200000.0,25-02-2001,Alm.,1081,6,Sommerhus,185,2005,
+Skov Sørens Vej 75 9681 Ranum,75,330000.0,23-12-2000,Fam.,2323,5,Sommerhus,142,2013,
+Vestergade 9 9681 Ranum,9,400200.0,08-12-2000,Alm.,3176,6,Villa,126,1925,
+Vestervænget 5 9681 Ranum,5,485000.0,11-11-2000,Alm.,4292,4,Villa,113,1977,
+Fjordlystvej 7 9681 Ranum,7,800000.0,30-08-2000,Alm.,4102,6,Stuehus,195,2014,
+Ranumvej 58 9681 Ranum,58,820000.0,21-08-2000,Alm.,2949,8,Villa,278,1902,
+Holmgårdsvej 12 9681 Ranum,12,850000.0,10-06-2000,Alm.,5944,4,Villa,143,1963,
+"Vestergade 41B, 1 9681 Ranum",1,795000.0,23-05-2000,Alm.,6115,4,Lejlighed,130,1968,
+Næsbydalevej 11 9681 Ranum,11,2150000.0,28-04-2000,Alm.,9347,7,Stuehus,230,1916,
+Livøvej 51 9681 Ranum,51,415000.0,19-04-2000,Alm.,2712,5,Villa,153,1917,
+Rønnevej 7 9681 Ranum,7,360000.0,24-02-2000,Alm.,3000,4,Villa,120,1942,
+Skov Sørens Vej 41 9681 Ranum,41,579783.0,27-01-2000,Alm.,10171,4,Sommerhus,57,1982,
+Idrætsvej 11 9681 Ranum,11,595000.0,19-01-2000,Alm.,4760,4,Villa,125,1967,
+Skov Sørens Vej 13 9681 Ranum,13,656023.0,17-12-1999,Alm.,7717,5,Sommerhus,85,1972,
+Sportsvej 4 9681 Ranum,4,521000.0,02-12-1999,Alm.,3859,5,Villa,135,1937,
+Vestergade 53 9681 Ranum,53,350000.0,28-11-1999,Alm.,0,3,Villa,86,1956,
+Næsbyvej 91 9681 Ranum,91,707500.0,15-11-1999,Alm.,3502,7,Stuehus,202,1890,
+Vestervang 3 9681 Ranum,3,520000.0,02-11-1999,Alm.,0,4,Villa,118,1981,
+Elkangårdsvej 58 9681 Ranum,58,800000.0,19-10-1999,Alm.,4624,5,Stuehus,173,1928,
+Skov Sørens Vej 23 9681 Ranum,23,280000.0,14-09-1999,Alm.,2692,4,Sommerhus,104,2003,
+Østerled 5 9681 Ranum,5,538000.0,23-08-1999,Alm.,4170,4,Villa,129,1959,
+Rønbjergvej 156 9681 Ranum,156,1673000.0,06-08-1999,Alm.,0,8,Stuehus,255,1923,
+Nørregade 3 9681 Ranum,3,130000.0,06-08-1999,Alm.,942,6,Villa,138,1910,
+Søndergade 31 9681 Ranum,31,265000.0,04-08-1999,Alm.,2819,3,Villa,94,1908,
+Vestergade 5 9681 Ranum,5,312000.0,02-07-1999,Alm.,2713,5,Villa,115,1926,
+Elkangårdsvej 32 9681 Ranum,32,2675000.0,25-06-1999,Alm.,11334,8,Stuehus,236,1915,
+Vinkelvej 9 9681 Ranum,9,479012.0,15-06-1999,Alm.,4790,3,Villa,100,1961,
+Sønderbakken 37 9681 Ranum,37,985163.0,07-06-1999,Alm.,4228,6,Villa,233,1977,
+Mallevej 23 9681 Ranum,23,1000000.0,04-06-1999,Alm.,5747,7,Stuehus,174,1928,
+Skov Sørens Vej 101 9681 Ranum,101,586005.0,30-05-1999,Alm.,0,4,Sommerhus,71,1983,
+Engtoften 6 9681 Ranum,6,355253.0,19-02-1999,Alm.,2819,4,Villa,126,1967,
+Mallevej 21 9681 Ranum,21,579800.0,08-02-1999,Alm.,3084,6,Villa,188,1850,
+Vestergade 2B 9681 Ranum,0,391286.0,30-01-1999,Alm.,2126,5,Villa,184,1877,
+Søndergade 9 9681 Ranum,9,513390.0,19-01-1999,Alm.,4010,4,Villa,128,1973,
+Vesterled 16 9681 Ranum,16,480000.0,21-11-1998,Alm.,3692,4,Villa,130,1960,
+Nørregade 18 9681 Ranum,18,361703.0,09-11-1998,Alm.,3767,5,Villa,96,1923,
+Ranumvej 69 9681 Ranum,69,275000.0,01-09-1998,Alm.,2500,5,Villa,110,1902,
+Livøvej 41 9681 Ranum,41,434000.0,24-08-1998,Fam.,3616,4,Villa,120,1970,
+Brøttrupvej 16 9681 Ranum,16,288000.0,07-08-1998,Alm.,2000,7,Villa,144,1928,
+Næsbyvej 78 9681 Ranum,78,154000.0,29-07-1998,Alm.,0,5,Villa,215,1877,
+Kærgaardsvej 21 9681 Ranum,21,702000.0,07-05-1998,Alm.,4443,4,Villa,158,1974,
+Vesterled 20 9681 Ranum,20,388700.0,17-04-1998,Alm.,0,6,Villa,141,1959,
+Skov Sørens Vej 67 9681 Ranum,67,610000.0,24-03-1998,Fam.,7176,4,Sommerhus,85,1970,
+Sportsvej 1 9681 Ranum,1,325000.0,20-03-1998,Alm.,3250,4,Rækkehus,100,1927,
+Næsbyvej 63 9681 Ranum,63,340000.0,04-02-1998,Alm.,1965,4,Stuehus,173,1914,
+Rønbjergvej 215 9681 Ranum,215,42500.0,02-02-1998,Fam.,0,5,Sommerhus,115,1979,
+Søndergade 48 9681 Ranum,48,471900.0,30-01-1998,Alm.,3146,5,Villa,150,1966,
+Vester Søvej 4 9681 Ranum,4,1017095.0,05-01-1998,Alm.,5468,6,Stuehus,186,1991,
+Vestergade 50 9681 Ranum,50,191500.0,28-11-1997,Alm.,0,8,Villa,206,1910,
+Kærgaardsvej 19 9681 Ranum,19,410000.0,19-09-1997,Alm.,2928,5,Villa,140,1973,
+Vinkelvej 2 9681 Ranum,2,410000.0,16-06-1997,Alm.,2827,6,Villa,145,1965,
+Troldbjergvej 85 9681 Ranum,85,950000.0,14-05-1997,Alm.,3653,9,Villa,260,1966,
+Fjordblinkvej 41 9681 Ranum,41,180000.0,21-04-1997,Alm.,2337,4,Stuehus,77,1882,
+Vestergade 1A 9681 Ranum,0,247000.0,11-03-1997,Auktion,2058,5,Villa,120,1955,
+Solbakkevej 11 9681 Ranum,11,833200.0,28-02-1997,Alm.,3471,7,Villa,240,1979,
+Skov Sørens Vej 63 9681 Ranum,63,150000.0,26-02-1997,Alm.,2142,3,Sommerhus,70,2000,
+Rønnevej 11 9681 Ranum,11,269400.0,21-12-1996,Alm.,2449,4,Villa,110,1950,
+Holmgårdsvej 20 9681 Ranum,20,485000.0,10-12-1996,Fam.,3514,4,Villa,138,1960,
+Næsbyvej 21 9681 Ranum,21,275000.0,29-11-1996,Alm.,2619,4,Villa,105,1958,
+Vinkelvej 1B 9681 Ranum,0,221848.0,28-11-1996,Alm.,3413,2,Rækkehus,65,1984,
+Rønbjergvej 73 9681 Ranum,73,243931.0,31-10-1996,Fam.,1478,8,Villa,165,1932,
+Vestervang 4 9681 Ranum,4,86694.0,25-10-1996,Fam.,1083,2,Villa,80,1957,
+Brøttrupvej 12 9681 Ranum,12,230000.0,27-09-1996,Fam.,0,6,Villa,233,1910,
+Rønbjergvej 80 9681 Ranum,80,345000.0,16-09-1996,Alm.,0,5,Villa,126,1900,
+Ryttergade 3 9681 Ranum,3,299054.0,03-09-1996,Alm.,1869,6,Villa,160,1932,
+Livøvej 121 9681 Ranum,121,200000.0,26-08-1996,Alm.,2816,3,Villa,71,1897,
+Rønnevej 12 9681 Ranum,12,577900.0,13-08-1996,Alm.,3302,7,Villa,175,1951,
+Rønbjergvej 261 9681 Ranum,261,4200000.0,08-05-1996,Alm.,47727,2,Stuehus,88,1921,
+Rønbjergvej 48 9681 Ranum,48,383000.0,04-05-1996,Alm.,3165,4,Stuehus,121,1897,
+"Næsbydalevej 23, ST. 7 9681 Ranum",7,200000.0,19-04-1996,Alm.,3030,1,"Ferie, andet",66,1918,
+"Næsbydalevej 37, 1. 11 9681 Ranum",11,380000.0,19-04-1996,Alm.,1826,6,"Ferie, andet",208,1918,
+Bydamsvej 4 9681 Ranum,4,372000.0,01-04-1996,Alm.,3179,4,Villa,117,1959,
+Næsbydalevej 14 9681 Ranum,14,810200.0,29-03-1996,Alm.,4379,7,Stuehus,185,1912,
+"Næsbydalevej 21, ST. 8 9681 Ranum",8,91247.0,29-03-1996,Alm.,1285,2,"Ferie, andet",71,1918,
+"Næsbydalevej 19, ST. 9 9681 Ranum",9,91247.0,22-03-1996,Alm.,1322,2,"Ferie, andet",69,1918,
+Sigsvej 28 9681 Ranum,28,295906.0,20-02-1996,Fam.,1429,7,Villa,207,1980,
+Rønbjergvej 240 9681 Ranum,240,550000.0,12-02-1996,Fam.,6043,3,Sommerhus,91,1933,
+Kravad 4 9681 Ranum,4,236050.0,05-02-1996,Fam.,2126,5,Villa,111,1933,
+Vesterled 14 9681 Ranum,14,253590.0,05-12-1995,Alm.,2881,4,Villa,88,1961,
+Kirkevej 12 9681 Ranum,12,170000.0,12-11-1995,Alm.,1338,4,Villa,127,1963,
+Vestergade 13A 9681 Ranum,0,186800.0,03-10-1995,Alm.,0,5,Villa,110,1952,
+Rønbjergvej 35 9681 Ranum,35,148750.0,26-06-1995,Fam.,0,5,Villa,183,1913,
+Skov Sørens Vej 25 9681 Ranum,25,300000.0,12-06-1995,Alm.,0,7,Sommerhus,93,1970,
+Troldbjergvej 81 9681 Ranum,81,451000.0,08-05-1995,Alm.,0,7,Stuehus,228,1910,
+Vesterled 4 9681 Ranum,4,305285.0,13-03-1995,Alm.,0,3,Villa,95,1956,
+Mallevej 50 9681 Ranum,50,780000.0,11-03-1995,Alm.,4020,4,Villa,194,1980,
+Ålevej 17 9681 Ranum,17,339000.0,17-12-1994,Fam.,1970,7,Villa,172,1912,
+Solbakkevej 2A 9681 Ranum,0,360000.0,16-12-1994,Alm.,2769,4,Stuehus,130,1883,
+Kærgaardsvej 16 9681 Ranum,16,536000.0,25-10-1994,Alm.,3350,5,Villa,160,1973,
+Vestergade 30 9681 Ranum,30,295000.0,20-10-1994,Alm.,0,10,Villa,342,1904,
+Vestergade 24 9681 Ranum,24,225000.0,04-10-1994,Alm.,1654,5,Villa,136,1900,
+Nørregade 19 9681 Ranum,19,500000.0,02-09-1994,Alm.,3355,5,Villa,149,1927,
+Sigsvej 36 9681 Ranum,36,1075000.0,10-06-1994,Alm.,6039,5,Villa,178,1976,
+Skov Sørens Vej 109 9681 Ranum,109,260000.0,27-05-1994,Alm.,3250,3,Sommerhus,80,2007,
+Nygade 11 9681 Ranum,11,295000.0,02-05-1994,Alm.,2500,4,Villa,118,1965,
+Malle Kirkevej 17 9681 Ranum,17,863000.0,05-04-1994,Alm.,3172,7,Stuehus,272,1902,
+Vestergade 4 9681 Ranum,4,340820.0,13-01-1994,Alm.,2963,4,Villa,115,1958,
+Kærgaardsvej 10 9681 Ranum,10,574200.0,05-11-1993,Alm.,3357,6,Villa,171,1973,
+Nørregade 20 9681 Ranum,20,200775.0,20-10-1993,Alm.,1476,6,Villa,136,1907,
+Holmgårdsvej 11 9681 Ranum,11,360000.0,06-07-1993,Alm.,3157,4,Villa,114,1965,
+Kravad 2 9681 Ranum,2,593484.0,02-07-1993,Alm.,2826,7,Villa,210,1935,
+Solbakkevej 7 9681 Ranum,7,665000.0,09-03-1993,Alm.,4716,6,Villa,141,1963,
+Veststien 1 9681 Ranum,1,225000.0,25-02-1993,Alm.,1875,4,Villa,120,1962,
+Holmgårdsvej 14 9681 Ranum,14,225000.0,15-02-1993,Alm.,2812,3,Villa,80,1964,
+Livøvej 25 9681 Ranum,25,200000.0,04-01-1993,Alm.,1398,5,Villa,143,1960,
+Nygade 6 9681 Ranum,6,495000.0,22-12-1992,Alm.,0,9,Villa,290,1964,
+Rønbjergvej 86 9681 Ranum,86,200000.0,27-11-1992,Alm.,2272,4,Villa,88,1967,
+Næsbyvej 96 9681 Ranum,96,144500.0,12-09-1992,Alm.,0,9,Villa,335,1937,
+Skov Sørens Vej 11 9681 Ranum,11,144500.0,11-09-1992,Fam.,1553,4,Sommerhus,93,1981,
+Sønderbakken 9 9681 Ranum,9,495000.0,18-08-1992,Alm.,3778,5,Villa,131,1979,
+Rønnevej 6 9681 Ranum,6,370000.0,27-07-1992,Alm.,1681,7,Villa,220,1938,
+Vester Alle 4 9681 Ranum,4,410000.0,15-04-1992,Fam.,2611,7,Villa,157,1942,
+Nørregade 11 9681 Ranum,11,187000.0,02-04-1992,Fam.,1764,5,Villa,106,1900,
+Mallevej 1 9681 Ranum,1,410650.0,28-02-1992,Fam.,1642,7,Villa,250,1927,
+Næsbyvej 25 9681 Ranum,25,340000.0,28-01-1992,Fam.,0,4,Villa,138,1950,

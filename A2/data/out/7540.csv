@@ -1,0 +1,572 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Teglværksvej 24 7540 Haderup,24,364907.0,09-05-2017,Andet,1861,5,Stuehus,196,1910,
+Viborgvej 360 7540 Haderup,360,250000.0,29-03-2017,Alm.,1785,5,Villa,140,1931,
+Herningvej 2 7540 Haderup,2,550000.0,21-03-2017,Alm.,3985,4,Villa,138,1964,-4 %
+Vormstrupvej 33 7540 Haderup,33,1075000.0,09-03-2017,Alm.,7789,4,Stuehus,138,1903,-17 %
+Skovvænget 94 7540 Haderup,94,774500.0,24-02-2017,Fam.,29788,3,Sommerhus,26,1965,
+Skovvænget 6 7540 Haderup,6,1050000.0,20-02-2017,Alm.,9375,3,Villa,112,1958,
+Stavlundvej 10 7540 Haderup,10,4500000.0,05-01-2017,Alm.,19565,10,Villa,230,1959,
+Vester Feldborgvej 15 7540 Haderup,15,142857.0,09-12-2016,Alm.,1700,2,Stuehus,84,1908,
+Hogagervej 11 7540 Haderup,11,990000.0,28-10-2016,Alm.,15468,5,Stuehus,64,1940,-17 %
+Lærkevej 7 7540 Haderup,7,312304.0,11-10-2016,Alm.,2692,4,Villa,116,1973,-50 %
+Bækvej 18 7540 Haderup,18,3107019.0,28-09-2016,Fam.,18169,6,Stuehus,171,1906,
+Nørregade 17A 7540 Haderup,0,6004383.0,08-07-2016,Alm.,46909,5,Villa,128,1949,
+Falkevej 1 7540 Haderup,1,1075000.0,05-07-2016,Alm.,5718,6,Villa,188,1972,-14 %
+Vibevej 4 7540 Haderup,4,425000.0,29-06-2016,Alm.,3863,4,Villa,110,1964,
+Karupvej 15 7540 Haderup,15,15100000.0,20-06-2016,Alm.,93209,7,Stuehus,162,1941,
+Natovej 3 7540 Haderup,3,300000.0,06-06-2016,Alm.,3157,4,Villa,95,1929,-37 %
+Lyngskrænten 17 7540 Haderup,17,1000000.0,19-05-2016,Alm.,10000,3,Villa,100,2001,-9 %
+Hækvej 3 7540 Haderup,3,1385000.0,12-05-2016,Auktion,7213,6,Stuehus,192,1950,-44 %
+Gindeskovgård 2 7540 Haderup,2,900000.0,01-05-2016,Alm.,10000,4,Villa,90,1955,
+Taterbakkevej 3 7540 Haderup,3,614522.0,20-04-2016,Fam.,3840,5,Stuehus,160,1925,
+Karupvej 21 7540 Haderup,21,23516600.0,19-04-2016,Fam.,123771,9,Stuehus,190,1909,
+Karupvej 23 7540 Haderup,23,977500.0,19-04-2016,Fam.,7240,4,Villa,135,1932,
+Drosselvej 6 7540 Haderup,6,357000.0,18-04-2016,Fam.,3680,3,Villa,97,1961,
+Herningvej 13 7540 Haderup,13,500000.0,13-04-2016,Alm.,3703,4,Villa,135,1988,0 %
+Åskrænten 10 7540 Haderup,10,1985000.0,12-04-2016,Alm.,10076,6,Villa,197,2004,-1 %
+Langgade 56 7540 Haderup,56,540000.0,01-04-2016,Alm.,4186,4,Villa,129,1975,
+Vormstrupvej 23 7540 Haderup,23,1247000.0,16-03-2016,Alm.,6563,6,Stuehus,190,1966,-4 %
+Viborgvej 378 7540 Haderup,378,5357500.0,04-02-2016,Alm.,29275,5,Stuehus,183,1977,
+Ahornvej 7 7540 Haderup,7,400000.0,29-01-2016,Alm.,3149,5,Villa,127,1974,-20 %
+Lærkevej 20 7540 Haderup,20,655000.0,16-12-2015,Alm.,4746,5,Villa,138,1973,-6 %
+Karupvej 26 7540 Haderup,26,434718.0,13-11-2015,Alm.,1940,7,Stuehus,224,1924,-66 %
+Natovej 4 7540 Haderup,4,5715000.0,15-10-2015,Alm.,44648,5,Stuehus,128,1962,
+Herningvej 50 7540 Haderup,50,1520269.0,25-09-2015,Auktion,6496,7,Stuehus,234,1943,
+Nygade 12A 7540 Haderup,0,1100000.0,21-09-2015,Alm.,11827,3,Rækkehus,93,2015,
+Mølleparken 25 7540 Haderup,25,800000.0,15-09-2015,Alm.,4678,7,Villa,171,1976,-10 %
+Drosselvej 15 7540 Haderup,15,1495000.0,31-08-2015,Fam.,11074,4,Villa,135,2003,
+Falkevej 9 7540 Haderup,9,935000.0,31-08-2015,Fam.,0,7,Villa,211,1977,
+Tusbækvej 49 7540 Haderup,49,683783.0,14-08-2015,Andet,3798,8,Stuehus,180,2008,
+Vibevej 10 7540 Haderup,10,537241.0,12-08-2015,Alm.,3630,5,Villa,148,1971,
+Lærkevej 16 7540 Haderup,16,580000.0,07-08-2015,Alm.,4233,4,Villa,137,1974,-3 %
+Skovvænget 19 7540 Haderup,19,765000.0,29-07-2015,Alm.,4664,6,Villa,164,1974,-9 %
+Herningvej 20 7540 Haderup,20,375000.0,28-07-2015,Alm.,2180,6,Villa,172,1941,
+Elmevej 12 7540 Haderup,12,1260000.0,25-06-2015,Alm.,6631,5,Villa,190,1989,-1 %
+Langgade 21 7540 Haderup,21,198000.0,15-06-2015,Alm.,2200,3,Villa,90,1912,0 %
+Lærkevej 1 7540 Haderup,1,440000.0,12-06-2015,Alm.,2894,5,Villa,152,1973,-7 %
+Gammel Landevej 14 7540 Haderup,14,422108.0,12-06-2015,Alm.,4796,3,Villa,88,1957,
+Skovvej 5 7540 Haderup,5,650000.0,09-06-2015,Alm.,4814,4,Stuehus,135,1985,-16 %
+Mølleparken 24 7540 Haderup,24,325000.0,08-06-2015,Alm.,2876,4,Villa,113,1986,-28 %
+Granbakken 2 7540 Haderup,2,785000.0,15-05-2015,Fam.,4906,5,Villa,160,1945,
+Langgade 75 7540 Haderup,75,687000.0,08-05-2015,Alm.,2050,7,Stuehus,335,2008,
+Langgade 36 7540 Haderup,36,660000.0,20-04-2015,Alm.,4647,4,Villa,142,1972,-5 %
+Stavlundvej 8 7540 Haderup,8,3200000.0,20-04-2015,Alm.,18604,6,Stuehus,172,1968,-20 %
+Vormstrupvej 5 7540 Haderup,5,300000.0,28-03-2015,Alm.,3571,3,Sommerhus,84,1965,-45 %
+Karupvej 20 7540 Haderup,20,510000.0,27-03-2015,Alm.,5666,3,Villa,90,1961,
+Grovevej 16 7540 Haderup,16,3925000.0,24-02-2015,Alm.,14537,8,Stuehus,270,1928,
+Birkevej 1 7540 Haderup,1,555500.0,23-02-2015,Fam.,2394,6,Villa,232,1962,
+Hallundbækvej 30 7540 Haderup,30,1222500.0,11-02-2015,Alm.,9332,5,Stuehus,131,1951,-2 %
+Solskrænten 6 7540 Haderup,6,332547.0,17-01-2015,Andet,3260,4,Villa,102,1953,
+Åskrænten 8 7540 Haderup,8,804836.0,29-12-2014,Fam.,4004,7,Villa,201,2007,
+Skovvænget 89 7540 Haderup,89,850000.0,12-12-2014,Alm.,5214,5,Villa,163,1979,-13 %
+Grovevej 31 7540 Haderup,31,2700000.0,28-10-2014,Alm.,10112,11,Villa,267,1917,-7 %
+Herningvej 18 7540 Haderup,18,233940.0,24-10-2014,Auktion,2436,4,Villa,96,1910,
+Hallundbækvej 24 7540 Haderup,24,1675000.0,23-10-2014,Alm.,11394,5,Villa,147,1896,-7 %
+Herningvej 81 7540 Haderup,81,4200000.0,21-10-2014,Alm.,12962,9,Stuehus,324,1965,
+Mølleparken 10 7540 Haderup,10,550000.0,08-10-2014,Alm.,3956,4,Villa,139,1974,0 %
+Herningvej 14 7540 Haderup,14,150000.0,01-10-2014,Alm.,675,8,Villa,222,1896,
+Sandgårdvej 2 7540 Haderup,2,111000.0,27-07-2014,Alm.,2134,2,Stuehus,52,1907,
+Langgade 60 7540 Haderup,60,600000.0,08-07-2014,Alm.,4511,5,Villa,133,1971,-7 %
+Herningvej 86 7540 Haderup,86,810000.0,30-06-2014,Alm.,3875,6,Villa,209,1962,-19 %
+Hækvej 1 7540 Haderup,1,720000.0,22-04-2014,Alm.,5294,7,Villa,136,1877,-12 %
+Tjørnevej 52 7540 Haderup,52,575000.0,14-04-2014,Alm.,4356,4,Villa,132,1957,-17 %
+Vistorpvej 9 7540 Haderup,9,225000.0,11-04-2014,Alm.,2083,4,Villa,108,1967,-43 %
+Teglværksvej 14 7540 Haderup,14,110000.0,07-04-2014,Alm.,763,6,Villa,144,1950,-27 %
+Langgade 79 7540 Haderup,79,3145000.0,04-04-2014,Alm.,21993,5,Stuehus,143,1985,-5 %
+Stavlundvej 20 7540 Haderup,20,3450000.0,05-03-2014,Alm.,69000,4,Sommerhus,50,1877,
+Mølleparken 45 7540 Haderup,45,250000.0,07-02-2014,Alm.,2118,3,Villa,118,1954,-37 %
+Sandgårdvej 5 7540 Haderup,5,620000.0,24-01-2014,Alm.,4428,6,Stuehus,140,1940,
+Karupvej 6 7540 Haderup,6,617000.0,20-01-2014,Andet,3808,6,Stuehus,162,1929,
+Ravnevej 4 7540 Haderup,4,1220000.0,17-11-2013,Alm.,6666,6,Villa,183,1977,
+Teglværksvej 13 7540 Haderup,13,200000.0,10-10-2013,Alm.,1020,9,Stuehus,196,1895,
+Teglværksvej 26 7540 Haderup,26,30000.0,30-09-2013,Alm.,312,3,Villa,96,1932,
+Gindeskovvej 20 7540 Haderup,20,4235000.0,19-09-2013,Alm.,17869,7,Stuehus,237,1993,
+"Herningvej 3, 1 7540 Haderup",1,100000.0,30-08-2013,Auktion,621,5,Lejlighed,161,1975,
+Elmevej 7 7540 Haderup,7,335000.0,16-08-2013,Alm.,2991,4,Villa,112,1967,
+Fladerne 2 7540 Haderup,2,1000000.0,13-08-2013,Alm.,7751,5,Stuehus,129,2013,
+Herningvej 84 7540 Haderup,84,2289000.0,13-08-2013,Alm.,31791,3,Stuehus,72,1910,
+Nørregade 38 7540 Haderup,38,1085000.0,07-08-2013,Alm.,4340,7,Stuehus,250,1916,-13 %
+Vibevej 6 7540 Haderup,6,895000.0,30-07-2013,Alm.,5966,5,Villa,150,1966,-10 %
+Birkevej 4 7540 Haderup,4,730000.0,29-07-2013,Alm.,3842,6,Villa,190,1965,-1 %
+Tusbækvej 27 7540 Haderup,27,1400000.0,26-06-2013,Andet,9395,5,Villa,149,2000,
+Tusbækvej 42 7540 Haderup,42,1350000.0,14-06-2013,Auktion,8544,6,Villa,158,1900,-10 %
+Gammel Landevej 10A 7540 Haderup,0,1350000.0,31-05-2013,Alm.,8823,5,Villa,153,2006,-3 %
+Gindeskovvej 23 7540 Haderup,23,1200000.0,30-05-2013,Alm.,6629,4,Villa,181,1941,-7 %
+Gindeskovvej 4 7540 Haderup,4,795000.0,15-05-2013,Alm.,5482,6,Villa,145,1934,-6 %
+Ahornvej 12 7540 Haderup,12,727000.0,02-05-2013,Alm.,4432,6,Villa,164,1973,-12 %
+Karupvej 10 7540 Haderup,10,356540.0,30-04-2013,Alm.,1937,9,Stuehus,184,1903,
+Tjørnevej 16 7540 Haderup,16,2094000.0,04-04-2013,Alm.,8546,7,Stuehus,245,1894,
+Bredgade 20 7540 Haderup,20,160000.0,20-03-2013,Alm.,2807,3,Villa,57,1957,
+Mølleparken 9 7540 Haderup,9,267686.0,11-03-2013,Alm.,1953,4,Villa,137,1973,
+Tjørnevej 12C 7540 Haderup,0,875000.0,24-01-2013,Alm.,8254,3,Villa,106,2000,0 %
+Eliseborgvej 3 7540 Haderup,3,12090000.0,23-01-2013,Alm.,71964,7,Stuehus,168,1898,
+Hogagervej 26 7540 Haderup,26,3250000.0,17-01-2013,Fam.,26209,5,Stuehus,124,1941,
+Gammel Landevej 30 7540 Haderup,30,1425374.0,14-01-2013,Alm.,9137,6,Stuehus,156,1962,
+Vormstrupvej 8 7540 Haderup,8,735000.0,07-11-2012,Alm.,5104,6,Stuehus,144,1913,-8 %
+Langgade 51 7540 Haderup,51,525000.0,26-10-2012,Alm.,3070,4,Villa,171,1906,0 %
+Solskrænten 8 7540 Haderup,8,475000.0,23-10-2012,Alm.,5053,4,Villa,94,1962,-17 %
+Tjørnevej 12A 7540 Haderup,0,700000.0,16-10-2012,Alm.,6862,3,Villa,102,1989,-3 %
+Røjbækvej 2 7540 Haderup,2,8638000.0,08-10-2012,Alm.,27422,9,Stuehus,315,1920,
+Langgade 31 7540 Haderup,31,560272.0,11-09-2012,Fam.,3710,7,Villa,151,1939,
+Herningvej 77 7540 Haderup,77,1990000.0,03-09-2012,Alm.,13445,5,Stuehus,148,1971,
+Skovvænget 96 7540 Haderup,96,1742500.0,01-09-2012,Fam.,10890,3,Stuehus,160,1930,
+Nørregade 20 7540 Haderup,20,300000.0,16-08-2012,Alm.,2325,6,Villa,129,1932,
+Viftrupvej 5 7540 Haderup,5,285000.0,03-08-2012,Alm.,3131,4,Villa,91,1964,-15 %
+Viftrupvej 8 7540 Haderup,8,1075000.0,23-07-2012,Alm.,6718,5,Stuehus,160,1900,-17 %
+Hogagervej 12 7540 Haderup,12,1790000.0,20-07-2012,Alm.,14320,5,Stuehus,125,1957,-3 %
+Teglværksvej 15 7540 Haderup,15,1680000.0,06-07-2012,Alm.,9438,3,Stuehus,178,1967,
+Ved Hegnet 6 7540 Haderup,6,156588.0,25-06-2012,Alm.,991,6,Villa,158,2013,
+Vormstrupvej 19 7540 Haderup,19,1575000.0,15-06-2012,Alm.,11931,4,Villa,132,1953,
+Herningvej 78 7540 Haderup,78,570000.0,06-06-2012,Alm.,5428,3,Stuehus,105,1896,-12 %
+Mølleparken 23 7540 Haderup,23,1500000.0,31-05-2012,Alm.,5976,8,Villa,251,1979,
+Tjørnevej 25 7540 Haderup,25,686957.0,08-05-2012,Alm.,4293,5,Villa,160,1932,
+Skovvænget 1 7540 Haderup,1,392500.0,07-05-2012,Andet,3774,4,Villa,104,1954,
+Bredgade 24 7540 Haderup,24,875000.0,22-04-2012,Alm.,5335,5,Villa,164,1969,-2 %
+Ahornvej 5 7540 Haderup,5,1025000.0,12-04-2012,Alm.,6570,6,Villa,156,1978,
+Sandgårdvej 7 7540 Haderup,7,1719000.0,11-04-2012,Fam.,15916,5,Stuehus,108,1930,
+Bredgade 26 7540 Haderup,26,303000.0,20-03-2012,Alm.,2805,5,Villa,108,1939,
+Vibevej 3 7540 Haderup,3,680000.0,16-03-2012,Alm.,4857,5,Villa,140,1963,-11 %
+Gindeskovvej 3 7540 Haderup,3,520000.0,02-03-2012,Alm.,3586,5,Villa,145,1965,-13 %
+Falkevej 4 7540 Haderup,4,600000.0,24-02-2012,Alm.,3947,5,Villa,152,1975,-14 %
+Drosselvej 14 7540 Haderup,14,1075000.0,16-02-2012,Alm.,5243,5,Villa,205,1975,-2 %
+Nørregade 19 7540 Haderup,19,410000.0,08-02-2012,Alm.,3106,4,Villa,132,1954,-17 %
+Langgade 54 7540 Haderup,54,80000.0,27-01-2012,Auktion,727,8,Villa,110,1932,-81 %
+Tusbækvej 43 7540 Haderup,43,1330000.0,27-01-2012,Alm.,11176,4,Stuehus,119,1935,-5 %
+Taterbakkevej 4 7540 Haderup,4,15675000.0,23-01-2012,Alm.,65312,11,Stuehus,240,1976,
+Vester Feldborgvej 26 7540 Haderup,26,12150000.0,23-01-2012,Alm.,75937,7,Stuehus,160,1912,
+Gindeskovvej 17 7540 Haderup,17,340833.0,18-01-2012,Alm.,1670,6,Stuehus,204,1941,
+Tjørnevej 17 7540 Haderup,17,900000.0,08-12-2011,Alm.,5696,5,Villa,158,1979,-8 %
+Haderisvej 2 7540 Haderup,2,400000.0,14-11-2011,Alm.,13793,1,Sommerhus,29,1967,
+Ørnevej 1 7540 Haderup,1,1005000.0,11-11-2011,Alm.,6931,4,Villa,145,1979,-8 %
+Skovvænget 77 7540 Haderup,77,422500.0,08-11-2011,Alm.,3061,4,Villa,138,1978,
+Gråsandvej 3 7540 Haderup,3,970000.0,04-11-2011,Alm.,5271,4,Villa,184,1937,-11 %
+Hedevej 4 7540 Haderup,4,2295000.0,01-11-2011,Fam.,20131,6,Stuehus,114,1955,
+Tjørnevej 13 7540 Haderup,13,775000.0,31-10-2011,Alm.,6250,4,Villa,124,1986,
+Karupvej 11 7540 Haderup,11,14615000.0,28-10-2011,Alm.,74566,6,Stuehus,196,1929,
+Nørregade 14 7540 Haderup,14,200000.0,14-10-2011,Alm.,2352,4,Villa,85,1942,
+Langgade 28 7540 Haderup,28,505000.0,03-10-2011,Alm.,5611,3,Villa,90,1964,
+Langgade 20 7540 Haderup,20,375000.0,19-09-2011,Alm.,3151,4,Villa,119,1965,-17 %
+Tusbækvej 44 7540 Haderup,44,1675000.0,19-08-2011,Alm.,12884,4,Stuehus,130,1942,
+Karupvej 3 7540 Haderup,3,495000.0,03-08-2011,Alm.,4626,4,Villa,107,1930,
+Ved Hegnet 5 7540 Haderup,5,172188.0,02-08-2011,Alm.,1049,6,Villa,164,2012,
+Karupvej 22 7540 Haderup,22,955000.0,19-05-2011,Alm.,3131,9,Stuehus,305,1921,-4 %
+Vormstrupvej 13 7540 Haderup,13,950000.0,06-05-2011,Auktion,3156,6,Stuehus,301,1972,
+Ahornvej 8 7540 Haderup,8,1150000.0,05-05-2011,Alm.,7770,4,Villa,148,1978,-4 %
+Egevej 4 7540 Haderup,4,875000.0,21-03-2011,Alm.,7478,4,Villa,117,1971,
+Ahornvej 14 7540 Haderup,14,1125000.0,17-03-2011,Alm.,4536,8,Villa,248,1977,-6 %
+Skovvænget 83 7540 Haderup,83,985000.0,11-02-2011,Alm.,5794,6,Villa,170,1981,0 %
+Vistorpvej 24 7540 Haderup,24,2500000.0,09-02-2011,Alm.,19379,4,Stuehus,129,1934,-11 %
+Langgade 25 7540 Haderup,25,300000.0,27-01-2011,Fam.,3846,4,Villa,78,1933,
+Herningvej 11 7540 Haderup,11,695000.0,14-12-2010,Alm.,5110,5,Villa,136,1955,0 %
+Vibevej 2 7540 Haderup,2,1150000.0,04-12-2010,Alm.,7931,7,Villa,145,1965,-4 %
+Herningvej 28 7540 Haderup,28,1220000.0,22-11-2010,Alm.,7870,4,Villa,155,1950,0 %
+Hestbjergvej 10 7540 Haderup,10,1095000.0,18-11-2010,Alm.,8111,5,Stuehus,135,1990,0 %
+Vormstrupvej 7 7540 Haderup,7,1080000.0,16-11-2010,Fam.,7826,6,Villa,138,1907,
+Tusbækvej 23 7540 Haderup,23,470000.0,01-11-2010,Alm.,5222,4,Villa,90,1964,
+Lærkevej 6 7540 Haderup,6,730000.0,07-10-2010,Alm.,5289,4,Villa,138,1974,
+Langgade 58 7540 Haderup,58,281500.0,02-09-2010,Fam.,2199,5,Villa,128,1973,-59 %
+Skovvænget 73 7540 Haderup,73,582500.0,28-08-2010,Alm.,3347,6,Villa,174,1984,
+Langgade 44 7540 Haderup,44,220000.0,20-08-2010,Alm.,2115,4,Villa,104,1948,
+Vibevej 1 7540 Haderup,1,565000.0,17-08-2010,Alm.,5090,4,Villa,111,1965,-5 %
+Viborgvej 345 7540 Haderup,345,260000.0,12-08-2010,Auktion,977,7,Villa,266,1938,
+Ahornvej 3 7540 Haderup,3,780000.0,13-07-2010,Alm.,5652,4,Villa,138,1975,-2 %
+Tusbækvej 35 7540 Haderup,35,450000.0,06-07-2010,Fam.,3913,4,Villa,115,1968,
+Åskrænten 12 7540 Haderup,12,251845.0,30-06-2010,Alm.,1422,6,Villa,177,2011,
+Hedevej 7 7540 Haderup,7,2750000.0,17-06-2010,Alm.,8986,7,Villa,306,1943,-8 %
+Drosselvej 7 7540 Haderup,7,1080000.0,07-06-2010,Alm.,4675,8,Villa,231,1963,-17 %
+Egeskrænten 10 7540 Haderup,10,1380000.0,07-06-2010,Alm.,8414,6,Villa,164,1987,
+Bredgade 27 7540 Haderup,27,505000.0,28-05-2010,Alm.,5941,3,Villa,85,1962,-15 %
+Herningvej 60 7540 Haderup,60,950000.0,25-05-2010,Alm.,9895,3,Stuehus,96,1967,
+Hestbjergvej 7 7540 Haderup,7,1650000.0,21-05-2010,Alm.,10000,6,Villa,165,1900,-3 %
+Tjørnevej 44 7540 Haderup,44,1085000.0,11-05-2010,Alm.,0,7,Villa,218,1968,-22 %
+Langgade 23 7540 Haderup,23,560498.0,06-05-2010,Andet,2981,5,Villa,188,1951,
+Nygade 4 7540 Haderup,4,400000.0,05-05-2010,Alm.,4938,4,Villa,81,1928,
+Gammel Landevej 7 7540 Haderup,7,300000.0,30-03-2010,Alm.,3409,3,Villa,88,1877,
+Herningvej 10 7540 Haderup,10,536106.0,19-03-2010,Alm.,2425,10,Villa,221,1909,
+Åskrænten 14 7540 Haderup,14,252845.0,19-03-2010,Alm.,1436,6,Villa,176,2011,
+Tjørnevej 15 7540 Haderup,15,995000.0,12-03-2010,Alm.,7425,4,Villa,134,1986,0 %
+Langgade 33 7540 Haderup,33,1135000.0,15-02-2010,Alm.,3270,7,Villa,347,1981,
+Hedevej 1 7540 Haderup,1,761350.0,10-02-2010,Alm.,2974,6,Villa,256,1966,
+Langgade 91 7540 Haderup,91,325000.0,12-01-2010,Alm.,4166,4,Villa,78,1957,-32 %
+Eliseborgvej 6 7540 Haderup,6,5597000.0,08-12-2009,Alm.,22388,6,Stuehus,250,1974,357 %
+Nørregade 26 7540 Haderup,26,555000.0,04-12-2009,Auktion,6686,3,Villa,83,1930,
+Nygårdvej 3 7540 Haderup,3,4200000.0,19-11-2009,Alm.,10447,8,Stuehus,402,1911,-10 %
+Skovvænget 21 7540 Haderup,21,1035000.0,29-10-2009,Alm.,7237,5,Villa,143,1972,-5 %
+Karupvej 8 7540 Haderup,8,545000.0,07-10-2009,Alm.,5343,4,Villa,102,1957,-13 %
+Gammel Landevej 22 7540 Haderup,22,800000.0,16-09-2009,Alm.,4761,4,Villa,168,1940,-20 %
+Herningvej 69 7540 Haderup,69,800000.0,14-08-2009,Alm.,12500,2,Villa,64,1951,-9 %
+Birkevej 33 7540 Haderup,33,1300000.0,08-07-2009,Alm.,11607,4,Villa,112,1973,
+Feldborgvej 25 7540 Haderup,25,1650000.0,06-07-2009,Alm.,10714,5,Stuehus,154,1916,
+Nørregade 18 7540 Haderup,18,575000.0,24-06-2009,Alm.,4914,3,Villa,117,1917,-2 %
+Pilhusevej 5 7540 Haderup,5,765000.0,03-06-2009,Alm.,6322,4,Villa,121,1943,-3 %
+Langgade 8 7540 Haderup,8,435000.0,12-05-2009,Alm.,5000,3,Villa,87,1958,-27 %
+Nygade 1 7540 Haderup,1,465000.0,13-03-2009,Alm.,5344,5,Villa,87,1929,-15 %
+Viborgvej 380 7540 Haderup,380,380000.0,27-02-2009,Alm.,3958,3,Villa,96,1900,-22 %
+Hogagervej 15 7540 Haderup,15,1675000.0,12-02-2009,Alm.,6320,7,Villa,265,1890,-6 %
+Vormstrupvej 21 7540 Haderup,21,3737700.0,06-02-2009,Fam.,15381,8,Stuehus,243,2007,
+Drosselvej 4 7540 Haderup,4,810000.0,26-01-2009,Alm.,6750,4,Villa,120,1978,-10 %
+Skolevænget 29 7540 Haderup,29,272945.0,10-12-2008,Alm.,1831,5,Villa,149,2011,
+Åskrænten 7 7540 Haderup,7,70619.0,06-11-2008,Alm.,430,6,Villa,164,2009,
+Lærkevej 14 7540 Haderup,14,895000.0,30-10-2008,Alm.,7217,4,Villa,124,1974,
+Åbakkevej 1 7540 Haderup,1,495000.0,28-10-2008,Alm.,5380,3,Villa,92,1897,
+Langgade 47 7540 Haderup,47,825000.0,21-10-2008,Alm.,7568,3,Villa,109,1951,-2 %
+Feldborgvej 27 7540 Haderup,27,547760.0,03-10-2008,Alm.,4564,4,Stuehus,120,1927,
+Herningvej 16 7540 Haderup,16,500000.0,29-09-2008,Alm.,4273,5,Villa,117,1905,
+Bredgade 85 7540 Haderup,85,4100000.0,09-09-2008,Alm.,25949,10,Stuehus,158,1937,-7 %
+Grovevej 18 7540 Haderup,18,35000.0,28-08-2008,Alm.,271,5,Stuehus,129,1924,
+Bredgade 40 7540 Haderup,40,950000.0,29-07-2008,Alm.,8962,5,Villa,106,1964,
+Herningvej 72 7540 Haderup,72,680000.0,04-07-2008,Alm.,5964,6,Villa,114,1953,-2 %
+Hogagervej 24 7540 Haderup,24,1795000.0,11-06-2008,Alm.,12294,4,Villa,146,1932,0 %
+Skovvænget 85 7540 Haderup,85,1395000.0,06-06-2008,Alm.,11160,5,Villa,125,2000,0 %
+Falkevej 22 7540 Haderup,22,895000.0,03-06-2008,Alm.,7336,4,Villa,122,1973,0 %
+Feldborgvej 19 7540 Haderup,19,4000000.0,30-05-2008,Alm.,13605,8,Villa,294,1933,
+Langgade 70 7540 Haderup,70,640000.0,29-05-2008,Alm.,4413,5,Villa,145,1928,-8 %
+Viftrupvej 9 7540 Haderup,9,1470000.0,21-05-2008,Alm.,7819,7,Stuehus,188,1955,-2 %
+Hogagervej 17 7540 Haderup,17,2690000.0,03-05-2008,Alm.,13517,6,Villa,199,2002,1 %
+Herningvej 57 7540 Haderup,57,4080000.0,30-04-2008,Alm.,37090,2,Stuehus,110,1986,
+Skovvænget 47 7540 Haderup,47,1125000.0,29-04-2008,Alm.,7352,5,Villa,153,1977,-4 %
+Tusbækvej 14 7540 Haderup,14,1150000.0,28-04-2008,Alm.,4372,9,Villa,263,1946,
+Vormstrupvej 9 7540 Haderup,9,187000.0,24-04-2008,Fam.,1558,4,Stuehus,120,1911,
+Tjørnevej 2 7540 Haderup,2,985000.0,15-04-2008,Alm.,7035,5,Villa,140,1900,0 %
+Tusbækvej 13 7540 Haderup,13,560000.0,09-04-2008,Alm.,5436,4,Villa,103,1965,-6 %
+Bredgade 25 7540 Haderup,25,575000.0,03-04-2008,Alm.,0,4,Villa,195,1972,
+Bredgade 46 7540 Haderup,46,400000.0,27-03-2008,Alm.,3603,5,Villa,111,1920,
+Eliseborgvej 12 7540 Haderup,12,1685940.0,27-03-2008,Alm.,11315,6,Stuehus,149,1944,
+Hallundbækvej 26 7540 Haderup,26,146909.0,19-03-2008,Alm.,1412,4,Stuehus,104,1914,
+Langgade 7 7540 Haderup,7,550000.0,07-03-2008,Alm.,3716,4,Villa,148,1939,-8 %
+Herningvej 22 7540 Haderup,22,855000.0,28-02-2008,Alm.,5059,5,Villa,169,1967,-2 %
+Egevej 6 7540 Haderup,6,940000.0,27-02-2008,Alm.,7401,4,Villa,127,1973,-3 %
+Bredgade 59 7540 Haderup,59,495000.0,25-02-2008,Alm.,4626,4,Villa,107,1910,-5 %
+Skovvænget 8 7540 Haderup,8,950000.0,18-01-2008,Alm.,8119,3,Villa,117,1964,
+Herningvej 7 7540 Haderup,7,662500.0,16-01-2008,Alm.,5300,6,Villa,125,1948,-9 %
+Vistorpvej 7 7540 Haderup,7,550000.0,12-12-2007,Alm.,5045,5,Villa,109,1958,
+Drosselvej 5 7540 Haderup,5,920000.0,25-11-2007,Alm.,6433,5,Villa,143,1963,-3 %
+Haderisvej 4 7540 Haderup,4,72000.0,16-11-2007,Alm.,450,6,Stuehus,160,1856,
+Teglværksvej 1 7540 Haderup,1,665000.0,09-11-2007,Alm.,4683,5,Villa,142,1968,
+Vistorpvej 17 7540 Haderup,17,1225000.0,01-11-2007,Alm.,7954,4,Villa,154,1968,
+Gammel Landevej 18C 7540 Haderup,0,1225000.0,16-10-2007,Alm.,6034,6,Villa,203,2008,
+Karupvej 13 7540 Haderup,13,585000.0,25-09-2007,Alm.,5366,5,Villa,109,1965,0 %
+Mølleparken 28 7540 Haderup,28,845000.0,16-09-2007,Alm.,6814,4,Villa,124,1977,
+Skovvænget 63 7540 Haderup,63,1190000.0,05-09-2007,Alm.,7000,6,Villa,170,1976,
+Herningvej 58 7540 Haderup,58,300000.0,24-08-2007,Alm.,6000,4,Villa,50,1956,
+Skovvænget 29 7540 Haderup,29,860000.0,03-08-2007,Alm.,5477,5,Villa,157,1974,-4 %
+Tjørnevej 31 7540 Haderup,31,1800000.0,02-08-2007,Alm.,12000,5,Villa,150,1969,
+Bredgade 62 7540 Haderup,62,595000.0,25-07-2007,Alm.,5666,4,Villa,105,1934,
+Skovvænget 15 7540 Haderup,15,700000.0,15-07-2007,Alm.,4430,5,Villa,158,1970,
+Åskrænten 18 7540 Haderup,18,258645.0,01-07-2007,Alm.,1679,5,Villa,154,2008,
+Mølleparken 15 7540 Haderup,15,1100000.0,28-06-2007,Fam.,4910,9,Villa,224,1978,
+Gammel Landevej 5 7540 Haderup,5,403000.0,18-06-2007,Alm.,4428,3,Villa,91,1910,
+Skovvænget 17 7540 Haderup,17,46000.0,01-06-2007,Andet,333,4,Villa,138,1972,
+Viborgvej 366 7540 Haderup,366,399500.0,22-05-2007,Andet,4993,6,Villa,80,1955,
+Åbakkevej 14 7540 Haderup,14,372000.0,14-05-2007,Alm.,3720,3,Villa,100,1956,-17 %
+Vestparken 12 7540 Haderup,12,87350.0,30-04-2007,Alm.,516,6,Villa,169,2008,
+Bredgade 37 7540 Haderup,37,495000.0,24-04-2007,Alm.,6346,2,Villa,78,1958,0 %
+Tusbækvej 18 7540 Haderup,18,590000.0,13-04-2007,Alm.,4758,3,Villa,124,1947,
+Haderisvej 1 7540 Haderup,1,500000.0,12-04-2007,Alm.,9615,3,Villa,52,1930,
+Bredgade 12 7540 Haderup,12,857000.0,10-04-2007,Alm.,6492,4,Villa,132,1935,-4 %
+Bredgade 2 7540 Haderup,2,635000.0,28-03-2007,Alm.,5291,5,Villa,120,1961,-2 %
+Bredgade 33 7540 Haderup,33,431110.0,28-03-2007,Fam.,3394,4,Villa,127,1955,
+Røjbækvej 3 7540 Haderup,3,785000.0,08-02-2007,Alm.,6230,5,Villa,126,1912,-2 %
+Herningvej 90 7540 Haderup,90,6500000.0,01-01-2007,Fam.,25896,7,Stuehus,251,1979,
+Lærkevej 10 7540 Haderup,10,1115000.0,27-12-2006,Alm.,4514,9,Villa,247,1973,
+Tusbækvej 20 7540 Haderup,20,340000.0,15-12-2006,Fam.,0,3,Villa,101,1931,
+Skovvænget 51 7540 Haderup,51,750000.0,14-12-2006,Fam.,6048,4,Villa,124,1976,
+Falkevej 8 7540 Haderup,8,905000.0,07-12-2006,Alm.,7669,4,Villa,118,1997,
+Bredgade 18 7540 Haderup,18,655000.0,06-12-2006,Alm.,6894,4,Villa,95,1964,
+Vormstrupvej 6 7540 Haderup,6,1200000.0,29-11-2006,Alm.,0,5,Stuehus,210,1928,
+Teglværksvej 11 7540 Haderup,11,1250000.0,06-11-2006,Alm.,4940,7,Villa,253,1959,
+Stavlundvej 22 7540 Haderup,22,4200000.0,02-11-2006,Alm.,15272,7,Stuehus,275,1953,
+Gindeskovvej 8 7540 Haderup,8,850000.0,01-11-2006,Alm.,6746,5,Villa,126,1951,
+Skovvænget 3 7540 Haderup,3,466022.0,16-10-2006,Alm.,3328,5,Villa,140,1964,
+Bredgade 49 7540 Haderup,49,625000.0,11-10-2006,Alm.,5952,4,Villa,105,1910,
+Nørregade 21 7540 Haderup,21,270000.0,04-10-2006,Alm.,3375,3,Villa,80,1958,
+Skovvænget 45 7540 Haderup,45,975000.0,02-10-2006,Alm.,6290,6,Villa,155,1977,
+Fladerne 3 7540 Haderup,3,1050000.0,15-09-2006,Alm.,6481,4,Villa,162,1936,
+Åbakkevej 24 7540 Haderup,24,900000.0,05-09-2006,Alm.,12857,2,Villa,70,1951,
+Bredgade 71 7540 Haderup,71,695000.0,23-08-2006,Alm.,6096,5,Villa,114,1955,
+Mølleparken 17 7540 Haderup,17,725000.0,14-08-2006,Alm.,3295,5,Villa,220,1979,
+Gammel Landevej 20 7540 Haderup,20,750000.0,14-07-2006,Alm.,3623,7,Villa,207,1960,
+Drosselvej 8 7540 Haderup,8,400000.0,26-06-2006,Alm.,4000,4,Villa,100,1962,
+Langgade 84 7540 Haderup,84,584000.0,22-06-2006,Alm.,3743,6,Villa,156,2009,
+Skovvænget 31 7540 Haderup,31,980000.0,21-06-2006,Alm.,6712,5,Villa,146,1979,
+Lærkevej 12 7540 Haderup,12,635000.0,20-06-2006,Alm.,4703,4,Villa,135,1974,
+Herningvej 94 7540 Haderup,94,1685000.0,16-06-2006,Alm.,7659,6,Villa,220,1955,
+Hallundbækvej 17 7540 Haderup,17,4300000.0,06-06-2006,Alm.,26219,4,Stuehus,164,2007,
+Gindeskovgård 4 7540 Haderup,4,1625000.0,30-05-2006,Alm.,6552,6,Villa,248,1900,
+Åbakkevej 11 7540 Haderup,11,515000.0,19-04-2006,Alm.,2829,5,Villa,182,1955,
+Mølleparken 20 7540 Haderup,20,850000.0,31-03-2006,Alm.,0,7,Villa,199,1986,
+Åskrænten 16 7540 Haderup,16,242445.0,20-03-2006,Alm.,1524,6,Villa,159,2007,
+Bredgade 75 7540 Haderup,75,290000.0,14-03-2006,Alm.,2248,5,Villa,129,1952,
+Bredgade 55 7540 Haderup,55,325000.0,15-02-2006,Alm.,3095,5,Villa,105,1917,
+Bredgade 58 7540 Haderup,58,410000.0,10-02-2006,Alm.,5324,3,Villa,77,1959,
+Herningvej 24 7540 Haderup,24,675000.0,09-02-2006,Andet,6250,5,Villa,108,1948,
+Bredgade 8 7540 Haderup,8,250000.0,30-12-2005,Alm.,2066,5,Villa,121,1915,
+Vormstrupvej 39 7540 Haderup,39,2700000.0,26-12-2005,Alm.,19285,4,Stuehus,140,1928,
+Skovvænget 53 7540 Haderup,53,450000.0,21-12-2005,Fam.,3284,5,Villa,137,1974,
+Røjbækvej 7 7540 Haderup,7,150000.0,15-12-2005,Andet,694,7,Stuehus,216,1980,
+Gindeskovvej 24 7540 Haderup,24,701590.0,30-11-2005,Alm.,4127,6,Stuehus,170,1900,
+Bredgade 28 7540 Haderup,28,660000.0,22-11-2005,Alm.,4615,5,Villa,143,1965,
+Gindeskovgård 6 7540 Haderup,6,11850000.0,11-11-2005,Fam.,80612,3,Stuehus,147,2002,
+Bredgade 29 7540 Haderup,29,395000.0,27-10-2005,Alm.,4072,3,Villa,97,1954,
+Bredgade 5 7540 Haderup,5,355000.0,18-10-2005,Alm.,0,4,Villa,152,1928,
+Herningvej 6 7540 Haderup,6,390000.0,13-10-2005,Alm.,2846,4,Villa,137,1900,
+Bredgade 6 7540 Haderup,6,889000.0,26-09-2005,Alm.,6216,4,Villa,143,1931,
+Stavlundvej 11 7540 Haderup,11,1790000.0,14-09-2005,Alm.,15431,3,Sommerhus,116,2016,
+Vormstrupvej 3 7540 Haderup,3,2090000.0,31-08-2005,Alm.,8636,8,Villa,242,1930,
+Fladerne 4 7540 Haderup,4,3251000.0,26-08-2005,Alm.,10836,7,Stuehus,300,1900,
+Herningvej 55 7540 Haderup,55,525000.0,18-08-2005,Alm.,3052,5,Villa,172,1957,
+Gammel Landevej 4 7540 Haderup,4,115000.0,21-07-2005,Alm.,1105,4,Villa,104,2006,
+Røjbækvej 9 7540 Haderup,9,750000.0,07-07-2005,Fam.,7142,4,Villa,105,1930,
+Nørregade 22 7540 Haderup,22,575000.0,13-06-2005,Alm.,2738,7,Villa,210,1928,
+Ahornvej 1 7540 Haderup,1,480000.0,01-06-2005,Alm.,3902,4,Villa,123,1974,
+Drosselvej 12 7540 Haderup,12,610000.0,30-05-2005,Alm.,5398,4,Villa,113,1970,
+Mølleparken 21 7540 Haderup,21,350000.0,30-05-2005,Alm.,4117,4,Villa,85,1984,
+Vistorpvej 27 7540 Haderup,27,3928000.0,20-04-2005,Alm.,18528,9,Stuehus,212,1937,
+Skolevænget 12 7540 Haderup,12,107390.0,12-04-2005,Alm.,859,3,Villa,125,2006,
+Herningvej 53 7540 Haderup,53,935000.0,08-04-2005,Fam.,17314,2,Stuehus,54,1880,
+Nygade 16 7540 Haderup,16,500000.0,17-03-2005,Alm.,5000,3,Villa,100,1959,
+Mølleparken 22 7540 Haderup,22,650000.0,14-03-2005,Alm.,0,8,Villa,217,1979,
+Bredgade 47 7540 Haderup,47,675000.0,26-02-2005,Alm.,3096,10,Villa,218,1928,
+Vistorpvej 5 7540 Haderup,5,13600000.0,11-02-2005,Alm.,80473,6,Stuehus,169,2003,
+Tusbækvej 34 7540 Haderup,34,750000.0,29-01-2005,Alm.,3456,8,Villa,217,1969,
+Gindeskovvej 21 7540 Haderup,21,825000.0,06-01-2005,Fam.,0,6,Stuehus,161,1897,
+Birkevej 8 7540 Haderup,8,500000.0,04-01-2005,Alm.,4000,6,Villa,125,1964,
+Hallundbækvej 26A 7540 Haderup,0,575000.0,20-12-2004,Alm.,0,6,Stuehus,239,2007,
+Barslundvej 1 7540 Haderup,1,2521634.0,20-12-2004,Alm.,10209,7,Villa,247,1877,
+Langgade 13 7540 Haderup,13,4329857.0,16-12-2004,Alm.,29454,5,Stuehus,147,1900,
+Skolevænget 23 7540 Haderup,23,90000.0,14-12-2004,Alm.,552,6,Villa,163,2008,
+Langgade 10 7540 Haderup,10,428360.0,10-12-2004,Alm.,3245,5,Villa,132,1959,
+Vestparken 8 7540 Haderup,8,850000.0,03-12-2004,Alm.,5862,6,Villa,145,1988,
+Stavlundvej 18 7540 Haderup,18,3800000.0,30-11-2004,Alm.,18357,4,Stuehus,207,1968,
+Teglværksvej 12 7540 Haderup,12,765000.0,30-11-2004,Alm.,4371,3,Villa,175,1956,
+Stavlundvej 3 7540 Haderup,3,2500000.0,29-10-2004,Alm.,7331,6,Stuehus,341,1900,
+Skovvænget 59 7540 Haderup,59,765000.0,01-10-2004,Alm.,6071,4,Villa,126,1975,
+Solskrænten 1 7540 Haderup,1,750000.0,14-09-2004,Alm.,4573,7,Villa,164,1965,
+Tusbækvej 3 7540 Haderup,3,350000.0,01-09-2004,Alm.,4666,3,Villa,75,1956,
+Viftrupvej 7 7540 Haderup,7,1165000.0,23-08-2004,Alm.,0,5,Stuehus,213,1915,
+Karupvej 17 7540 Haderup,17,450000.0,02-08-2004,Andet,2571,8,Villa,175,1903,
+Grovevej 19 7540 Haderup,19,1550000.0,25-06-2004,Fam.,22142,3,Stuehus,70,1955,
+Bredgade 43 7540 Haderup,43,495000.0,14-05-2004,Alm.,2765,7,Villa,179,1908,
+Viborgvej 368 7540 Haderup,368,595000.0,11-05-2004,Alm.,5265,6,Villa,113,1958,
+Pilhusevej 9 7540 Haderup,9,3200000.0,07-04-2004,Alm.,12851,8,Stuehus,249,1900,
+Skovvænget 33 7540 Haderup,33,935000.0,31-03-2004,Alm.,5312,6,Villa,176,1977,
+Kirkevej 9 7540 Haderup,9,400000.0,19-03-2004,Alm.,2877,8,Villa,139,1893,
+Vestparken 18 7540 Haderup,18,775000.0,18-03-2004,Alm.,7045,5,Villa,110,1988,
+Vistorpvej 30 7540 Haderup,30,909000.0,09-03-2004,Alm.,8263,3,Villa,110,1979,
+Ved Hegnet 1 7540 Haderup,1,166398.0,24-02-2004,Alm.,1615,4,Villa,103,2005,
+Nørregade 13 7540 Haderup,13,600000.0,20-02-2004,Alm.,2553,7,Villa,235,1931,
+Lærkevej 9 7540 Haderup,9,750000.0,17-02-2004,Alm.,5395,4,Villa,139,1973,
+Vibevej 8 7540 Haderup,8,634948.0,07-02-2004,Alm.,4999,4,Villa,127,1976,
+Langgade 53 7540 Haderup,53,799000.0,21-01-2004,Alm.,2884,7,Stuehus,277,1922,
+Løvigvej 2 7540 Haderup,2,1985639.0,29-12-2003,Fam.,8273,4,Stuehus,240,1913,
+Sandgårdvej 1 7540 Haderup,1,1245000.0,16-12-2003,Alm.,6693,9,Villa,186,1928,
+Taterbakkevej 12 7540 Haderup,12,1459510.0,10-11-2003,Alm.,8108,6,Stuehus,180,1922,
+Skovvænget 69 7540 Haderup,69,625000.0,20-10-2003,Alm.,4734,4,Villa,132,1978,
+Åbakkevej 4 7540 Haderup,4,475000.0,19-10-2003,Alm.,0,7,Villa,383,1907,
+Viborgvej 347 7540 Haderup,347,550000.0,30-09-2003,Alm.,3503,5,Stuehus,157,1913,
+Åbakkevej 16 7540 Haderup,16,398384.0,27-08-2003,Alm.,3723,4,Villa,107,1942,
+Eliseborgvej 4 7540 Haderup,4,442500.0,12-08-2003,Alm.,2011,5,Villa,220,1900,
+Falkevej 10 7540 Haderup,10,575000.0,08-08-2003,Alm.,3911,4,Villa,147,1974,
+Pilhusevej 11 7540 Haderup,11,399000.0,06-08-2003,Fam.,6879,2,Stuehus,58,1955,
+Tjørnevej 50 7540 Haderup,50,1185000.0,27-06-2003,Alm.,6475,6,Villa,183,1978,
+Åskrænten 9 7540 Haderup,9,156423.0,15-06-2003,Alm.,1042,5,Villa,150,2004,
+Viftrupvej 16 7540 Haderup,16,1270000.0,10-03-2003,Alm.,7888,4,Villa,161,1958,
+Langgade 29 7540 Haderup,29,780000.0,27-02-2003,Alm.,6046,4,Villa,129,1867,
+Åbakkevej 2 7540 Haderup,2,435000.0,14-02-2003,Alm.,0,9,Villa,319,1929,
+Skolevænget 8 7540 Haderup,8,525000.0,07-02-2003,Alm.,4816,4,Villa,109,1965,
+Karupvej 4 7540 Haderup,4,1750000.0,06-02-2003,Alm.,0,7,Stuehus,217,1929,
+Vistorpvej 20 7540 Haderup,20,2025000.0,29-01-2003,Fam.,15576,4,Stuehus,130,1925,
+Lærkevej 4 7540 Haderup,4,272000.0,26-01-2003,Alm.,2428,4,Villa,112,1963,
+Skovvænget 95 7540 Haderup,95,1860000.0,31-10-2002,Alm.,11772,5,Stuehus,158,1971,
+Skolevænget 10 7540 Haderup,10,495000.0,29-10-2002,Fam.,2750,5,Villa,180,1969,
+Bredgade 38 7540 Haderup,38,520000.0,01-10-2002,Alm.,4601,3,Villa,113,1972,
+Vester Feldborgvej 22 7540 Haderup,22,431093.0,24-09-2002,Alm.,2694,6,Stuehus,160,1911,
+Langgade 4 7540 Haderup,4,390000.0,29-08-2002,Alm.,3979,5,Villa,98,1949,
+Fladerne 1 7540 Haderup,1,1300000.0,14-08-2002,Fam.,9774,3,Stuehus,133,1959,
+Ørnevej 9 7540 Haderup,9,525000.0,15-07-2002,Alm.,4411,3,Villa,119,1988,
+Lærkevej 8 7540 Haderup,8,690000.0,05-07-2002,Alm.,4791,4,Villa,144,1973,
+Fladerne 6 7540 Haderup,6,370000.0,24-06-2002,Alm.,5285,3,Villa,70,1954,
+Vester Feldborgvej 19 7540 Haderup,19,560000.0,07-06-2002,Alm.,0,4,Villa,131,1914,
+Hogagervej 28 7540 Haderup,28,145000.0,03-06-2002,Alm.,1367,3,Stuehus,106,1908,
+Viborgvej 364 7540 Haderup,364,825000.0,03-05-2002,Alm.,0,3,Stuehus,95,1930,
+Vistorpvej 28 7540 Haderup,28,452500.0,30-04-2002,Alm.,4713,4,Villa,96,1960,
+Vistorpvej 12 7540 Haderup,12,75000.0,14-04-2002,Alm.,1363,3,Sommerhus,55,1969,
+Over Høstrupvej 6 7540 Haderup,6,5750000.0,09-04-2002,Alm.,24572,9,Stuehus,234,1957,
+Lyngskrænten 2 7540 Haderup,2,90675.0,02-04-2002,Alm.,629,5,Villa,144,2003,
+Vester Feldborgvej 24A 7540 Haderup,0,625000.0,01-04-2002,Fam.,3472,6,Stuehus,180,1900,
+Skovvænget 67 7540 Haderup,67,869508.0,27-03-2002,Alm.,5683,5,Villa,153,1978,
+Lyngskrænten 12 7540 Haderup,12,1075000.0,27-03-2002,Alm.,7072,5,Villa,152,1984,
+Stavlundvej 15 7540 Haderup,15,1547500.0,14-03-2002,Alm.,10672,4,Stuehus,145,1931,
+Åbakkevej 6 7540 Haderup,6,1625000.0,16-02-2002,Alm.,6914,12,Villa,235,1900,
+Nørregade 10 7540 Haderup,10,382000.0,31-01-2002,Alm.,3820,5,Villa,100,1932,
+Tusbækvej 16 7540 Haderup,16,360000.0,21-01-2002,Alm.,2627,4,Villa,137,1945,
+Bredgade 34 7540 Haderup,34,507178.0,02-11-2001,Alm.,2139,9,Villa,237,1975,
+Tjørnevej 36 7540 Haderup,36,120000.0,16-10-2001,Alm.,662,6,Villa,181,2002,
+Birkevej 32 7540 Haderup,32,1200000.0,24-09-2001,Alm.,0,4,Villa,173,1938,
+Eliseborgvej 5 7540 Haderup,5,720000.0,04-09-2001,Alm.,4311,4,Stuehus,167,1927,
+Fårbækvej 20 7540 Haderup,20,2600000.0,31-08-2001,Fam.,16250,8,Stuehus,160,1932,
+Åbakkevej 8 7540 Haderup,8,415000.0,29-08-2001,Alm.,4825,3,Villa,86,1927,
+Mølleparken 14 7540 Haderup,14,845000.0,31-07-2001,Alm.,2923,8,Villa,289,1975,
+Bredgade 10 7540 Haderup,10,293822.0,26-07-2001,Fam.,1895,6,Villa,155,1948,
+Hoppes Alle 5 7540 Haderup,5,69000.0,23-07-2001,Alm.,518,4,Villa,133,2002,
+Bredgade 36 7540 Haderup,36,420000.0,13-07-2001,Alm.,4615,4,Villa,91,1958,
+Feldborgvej 16 7540 Haderup,16,490000.0,02-07-2001,Fam.,2258,7,Stuehus,217,2002,
+Pilhusevej 1 7540 Haderup,1,210000.0,10-06-2001,Alm.,0,5,Villa,180,1933,
+Langgade 43 7540 Haderup,43,460000.0,18-05-2001,Alm.,4220,4,Villa,109,1943,
+Langgade 27 7540 Haderup,27,568000.0,16-05-2001,Alm.,4544,4,Villa,125,1976,
+Langgade 18 7540 Haderup,18,80000.0,02-05-2001,Alm.,441,4,Villa,181,2002,
+Vistorpvej 19 7540 Haderup,19,450000.0,25-04-2001,Alm.,3846,4,Villa,117,1970,
+Tusbækvej 51 7540 Haderup,51,315000.0,25-04-2001,Auktion,1740,4,Villa,181,1907,
+Nørregade 35 7540 Haderup,35,1000000.0,11-04-2001,Alm.,5235,9,Stuehus,191,1929,
+Viftrupvej 4 7540 Haderup,4,3000000.0,05-04-2001,Fam.,15625,6,Stuehus,192,1952,
+Herningvej 66 7540 Haderup,66,1325000.0,02-04-2001,Fam.,9742,4,Stuehus,136,1973,
+Tusbækvej 45 7540 Haderup,45,600000.0,16-03-2001,Fam.,8219,4,Stuehus,73,1905,
+Sandgårdvej 3 7540 Haderup,3,1700000.0,15-03-2001,Fam.,7423,6,Stuehus,229,2009,
+Sandgårdvej 11A 7540 Haderup,0,1332500.0,06-03-2001,Fam.,4659,6,Stuehus,286,2008,
+Vester Feldborgvej 16 7540 Haderup,16,465000.0,26-01-2001,Alm.,2360,6,Stuehus,197,2002,
+Hallundbækvej 28 7540 Haderup,28,850000.0,15-01-2001,Alm.,6967,4,Stuehus,122,1903,
+Pilhusevej 7 7540 Haderup,7,339000.0,17-11-2000,Alm.,3356,5,Villa,101,1944,
+Nørregade 9 7540 Haderup,9,500000.0,15-11-2000,Fam.,3378,7,Villa,148,1948,
+Ahornvej 2 7540 Haderup,2,650000.0,30-10-2000,Fam.,0,7,Villa,221,1979,
+Tusbækvej 22 7540 Haderup,22,450000.0,13-09-2000,Fam.,0,7,Villa,173,1949,
+Skovvænget 71 7540 Haderup,71,56875.0,04-09-2000,Alm.,357,5,Villa,159,2001,
+Skovvænget 81 7540 Haderup,81,1215000.0,28-08-2000,Alm.,0,7,Villa,171,2001,
+Drosselvej 10 7540 Haderup,10,275000.0,24-07-2000,Alm.,2864,3,Villa,96,1964,
+Herningvej 49 7540 Haderup,49,1900000.0,07-07-2000,Alm.,11728,5,Stuehus,162,1941,
+Nørregade 23 7540 Haderup,23,330000.0,28-06-2000,Alm.,3235,3,Villa,102,1935,
+Gammel Landevej 3 7540 Haderup,3,265000.0,16-06-2000,Fam.,2038,4,Villa,130,1939,
+Drosselvej 2 7540 Haderup,2,674440.0,02-06-2000,Alm.,5620,5,Villa,120,1956,
+Karupvej 1 7540 Haderup,1,167472.0,26-05-2000,Alm.,935,5,Stuehus,179,1968,
+Nørregade 25 7540 Haderup,25,350000.0,02-05-2000,Alm.,2243,5,Villa,156,1935,
+Taterbakkevej 6 7540 Haderup,6,1150000.0,17-04-2000,Alm.,10648,4,Stuehus,108,1900,
+Falkevej 17 7540 Haderup,17,26600.0,17-04-2000,Alm.,129,7,Villa,205,2000,
+Gammel Landevej 8 7540 Haderup,8,440000.0,12-04-2000,Alm.,0,3,Villa,144,1905,
+Skovvænget 37 7540 Haderup,37,328168.0,22-03-2000,Fam.,1875,6,Villa,175,1978,
+Lyngskrænten 8 7540 Haderup,8,64294.0,20-03-2000,Alm.,434,6,Villa,148,2000,
+Stavlundvej 14 7540 Haderup,14,134000.0,15-03-2000,Alm.,1240,4,Stuehus,108,1912,
+Langgade 24 7540 Haderup,24,100000.0,11-03-2000,Alm.,602,5,Villa,166,2002,
+Hestbjergvej 8 7540 Haderup,8,310000.0,10-02-2000,Fam.,1201,6,Villa,258,2001,
+Haderisvej 3 7540 Haderup,3,500000.0,21-12-1999,Alm.,4098,7,Stuehus,122,1930,
+Vistorpvej 4 7540 Haderup,4,225000.0,27-10-1999,Alm.,4500,2,Villa,50,1974,
+Tusbækvej 33 7540 Haderup,33,460000.0,04-10-1999,Alm.,4000,4,Villa,115,1967,
+Tusbækvej 11 7540 Haderup,11,450000.0,01-10-1999,Alm.,4787,3,Villa,94,1950,
+Stavlundvej 24 7540 Haderup,24,900000.0,30-09-1999,Alm.,8737,4,Stuehus,103,1931,
+Bredgade 92 7540 Haderup,92,650000.0,13-09-1999,Alm.,3823,3,Villa,170,1924,
+Birkevej 10 7540 Haderup,10,623025.0,10-09-1999,Alm.,3993,3,Villa,156,1973,
+Falkevej 13 7540 Haderup,13,142500.0,02-09-1999,Alm.,800,7,Villa,178,2000,
+Mølleparken 19 7540 Haderup,19,850000.0,09-07-1999,Alm.,3917,7,Villa,217,1984,
+Bredgade 67 7540 Haderup,67,900000.0,05-07-1999,Alm.,0,10,Stuehus,275,1999,
+Gindeskovvej 18 7540 Haderup,18,550000.0,17-05-1999,Alm.,4910,5,Villa,112,1883,
+Bredgade 77 7540 Haderup,77,50430.0,21-04-1999,Alm.,227,7,Villa,222,1999,
+Herningvej 79 7540 Haderup,79,1561074.0,18-04-1999,Fam.,14454,3,Stuehus,108,1974,
+Bredgade 23 7540 Haderup,23,75000.0,17-04-1999,Alm.,543,4,Villa,138,1999,
+Vistorpvej 15 7540 Haderup,15,325000.0,22-03-1999,Alm.,3651,3,Villa,89,1950,
+Mølleparken 18 7540 Haderup,18,897000.0,24-02-1999,Alm.,3849,8,Villa,233,1978,
+Jens Jensensvej 5 7540 Haderup,5,512000.0,30-01-1999,Alm.,2639,6,Villa,194,1960,
+Tjørnevej 38 7540 Haderup,38,950000.0,29-01-1999,Alm.,3518,7,Villa,270,1977,
+Tjørnevej 48 7540 Haderup,48,520000.0,06-01-1999,Alm.,4444,4,Villa,117,1968,
+Gammel Landevej 18 7540 Haderup,18,517747.0,30-09-1998,Alm.,4706,5,Villa,110,1923,
+Sandgårdvej 4 7540 Haderup,4,473400.0,29-09-1998,Alm.,3945,4,Villa,120,1928,
+Over Høstrupvej 5 7540 Haderup,5,1100000.0,21-09-1998,Alm.,10576,4,Stuehus,104,1928,
+Ahornvej 4 7540 Haderup,4,563000.0,04-09-1998,Alm.,4771,4,Villa,118,1974,
+Taterbakkevej 5 7540 Haderup,5,650100.0,03-09-1998,Alm.,3916,3,Villa,166,1917,
+Langgade 9 7540 Haderup,9,590000.0,17-08-1998,Alm.,4068,4,Villa,145,1965,
+Tusbækvej 30A 7540 Haderup,0,75000.0,17-08-1998,Alm.,669,5,Villa,112,1999,
+Gråsandvej 6 7540 Haderup,6,401040.0,08-07-1998,Alm.,2864,5,Stuehus,140,1998,
+Feldborgvej 21 7540 Haderup,21,1250000.0,26-06-1998,Alm.,9328,5,Stuehus,134,1934,
+Hogagervej 19 7540 Haderup,19,520000.0,25-05-1998,Alm.,2270,7,Stuehus,229,1991,
+Grovevej 26 7540 Haderup,26,468500.0,21-05-1998,Alm.,4259,4,Villa,110,1959,
+Lærkevej 24 7540 Haderup,24,660109.0,03-05-1998,Alm.,5455,4,Villa,121,1979,
+Bredgade 64 7540 Haderup,64,658000.0,20-03-1998,Alm.,6266,5,Villa,105,1954,
+Tusbækvej 29A 7540 Haderup,0,53775.0,11-03-1998,Alm.,212,6,Villa,253,1998,
+Tjørnevej 8 7540 Haderup,8,700000.0,05-03-1998,Alm.,0,6,Villa,179,1953,
+Sandgårdvej 11 7540 Haderup,11,340000.0,29-01-1998,Alm.,2956,3,Villa,115,1960,
+Viborgvej 374 7540 Haderup,374,14000.0,23-01-1998,Fam.,280,2,Villa,50,1900,
+Solskrænten 5 7540 Haderup,5,495000.0,29-12-1997,Alm.,0,6,Villa,173,1965,
+Falkevej 11 7540 Haderup,11,720000.0,22-12-1997,Alm.,4800,5,Villa,150,1977,
+Bredgade 15 7540 Haderup,15,250000.0,01-12-1997,Fam.,3125,3,Villa,80,1946,
+Løvigvej 6 7540 Haderup,6,535028.0,14-11-1997,Alm.,3005,6,Stuehus,178,2009,
+Hestbjergvej 6 7540 Haderup,6,862000.0,07-11-1997,Alm.,10261,4,Stuehus,84,1912,
+Åbakkevej 18 7540 Haderup,18,550000.0,06-11-1997,Alm.,5092,5,Villa,108,1951,
+Solskrænten 10 7540 Haderup,10,468074.0,22-10-1997,Alm.,5200,3,Villa,90,1961,
+Granbakken 1 7540 Haderup,1,400000.0,16-10-1997,Fam.,2484,6,Villa,161,1951,
+Teglværksvej 6 7540 Haderup,6,215000.0,02-10-1997,Alm.,2067,5,Villa,104,1903,
+Langgade 16 7540 Haderup,16,345173.0,01-10-1997,Alm.,0,5,Villa,118,1965,
+Herningvej 8 7540 Haderup,8,400000.0,01-10-1997,Fam.,3883,5,Villa,103,1934,
+Hallundbækvej 19 7540 Haderup,19,406000.0,29-09-1997,Alm.,0,6,Stuehus,283,1902,
+Tjørnevej 19 7540 Haderup,19,510000.0,19-09-1997,Alm.,3953,4,Villa,129,1969,
+Vestparken 14 7540 Haderup,14,715000.0,20-08-1997,Alm.,0,5,Villa,161,1984,
+Tusbækvej 5 7540 Haderup,5,182000.0,04-08-1997,Alm.,1685,3,Villa,108,1900,
+Fårbækvej 18 7540 Haderup,18,470000.0,07-07-1997,Fam.,3032,5,Stuehus,155,1855,
+Nørregade 29 7540 Haderup,29,635000.0,12-06-1997,Alm.,3670,4,Villa,173,1921,
+Gindeskovvej 6 7540 Haderup,6,264000.0,11-06-1997,Alm.,2933,3,Villa,90,1950,
+Tusbækvej 12 7540 Haderup,12,250000.0,23-05-1997,Fam.,2631,4,Villa,95,1949,
+Skolevænget 2 7540 Haderup,2,590000.0,18-05-1997,Alm.,3532,7,Villa,167,1947,
+Teglværksvej 20 7540 Haderup,20,627000.0,09-05-1997,Alm.,3542,5,Stuehus,177,2005,
+Kirkevej 1 7540 Haderup,1,388000.0,24-04-1997,Alm.,2063,7,Villa,188,1930,
+Skovvænget 35 7540 Haderup,35,798000.0,23-04-1997,Alm.,5741,6,Villa,139,1976,
+Skovvænget 5 7540 Haderup,5,650000.0,17-04-1997,Alm.,4220,3,Villa,154,1967,
+Vistorpvej 23 7540 Haderup,23,1625000.0,14-04-1997,Alm.,4723,8,Villa,344,1894,
+Stavlundvej 2 7540 Haderup,2,161500.0,31-01-1997,Fam.,2446,2,Sommerhus,66,1966,
+Teglværksvej 9 7540 Haderup,9,465000.0,23-12-1996,Alm.,2906,6,Villa,160,1902,
+Herningvej 26 7540 Haderup,26,430000.0,23-12-1996,Alm.,0,4,Villa,194,1945,
+Falkevej 6 7540 Haderup,6,623000.0,03-09-1996,Alm.,4580,5,Villa,136,1972,
+Hogagervej 14 7540 Haderup,14,320000.0,29-08-1996,Alm.,0,7,Villa,153,1930,
+Langgade 42 7540 Haderup,42,480000.0,28-08-1996,Alm.,3057,4,Villa,157,1967,
+Falkevej 16 7540 Haderup,16,685000.0,20-08-1996,Alm.,5036,5,Villa,136,1974,
+Tjørnevej 21 7540 Haderup,21,547500.0,23-07-1996,Alm.,4415,4,Villa,124,1969,
+Skolevænget 6 7540 Haderup,6,450000.0,12-07-1996,Alm.,2710,6,Villa,166,1960,
+Sandgårdvej 13 7540 Haderup,13,497440.0,02-06-1996,Alm.,0,7,Stuehus,238,1910,
+Herningvej 15 7540 Haderup,15,138245.0,13-05-1996,Andet,1055,4,Villa,131,1948,
+Mølleparken 8 7540 Haderup,8,705000.0,01-05-1996,Alm.,3025,7,Villa,233,1974,
+Bredgade 14C 7540 Haderup,0,190000.0,13-03-1996,Alm.,0,7,Villa,242,1908,
+Hestbjergvej 9 7540 Haderup,9,679798.0,21-12-1995,Fam.,4855,7,Stuehus,140,1917,
+Karupvej 18 7540 Haderup,18,972000.0,07-12-1995,Fam.,6480,6,Stuehus,150,1960,
+Tusbækvej 19 7540 Haderup,19,450000.0,27-10-1995,Alm.,4128,4,Villa,109,1972,
+Åbakkevej 12 7540 Haderup,12,345000.0,17-10-1995,Alm.,2804,4,Villa,123,1957,
+Gråsandvej 2 7540 Haderup,2,419000.0,29-09-1995,Alm.,3741,3,Villa,112,1968,
+Langgade 90 7540 Haderup,90,398000.0,08-09-1995,Alm.,3038,7,Villa,131,1932,
+Egevej 8 7540 Haderup,8,535000.0,31-08-1995,Alm.,4179,5,Villa,128,1973,
+Egevej 2 7540 Haderup,2,695000.0,15-08-1995,Alm.,3971,6,Villa,175,1973,
+Fårbækvej 17 7540 Haderup,17,250000.0,17-06-1995,Alm.,2272,3,Villa,110,1962,
+Vistorpvej 3 7540 Haderup,3,935000.0,26-05-1995,Alm.,7362,4,Villa,127,1966,
+Bredgade 87 7540 Haderup,87,347000.0,18-05-1995,Alm.,0,6,Villa,181,1900,
+Tusbækvej 10 7540 Haderup,10,140000.0,28-04-1995,Fam.,1346,4,Villa,104,1964,
+Karupvej 14 7540 Haderup,14,2400000.0,05-04-1995,Alm.,18604,6,Stuehus,129,1890,
+Nørregade 15 7540 Haderup,15,290000.0,01-02-1995,Alm.,0,6,Villa,137,1949,
+Nørregade 7 7540 Haderup,7,520000.0,06-01-1995,Alm.,3312,5,Villa,157,1925,
+Viftrupvej 6 7540 Haderup,6,174175.0,30-11-1994,Alm.,1123,4,Villa,155,1917,
+Mølleparken 26 7540 Haderup,26,368000.0,25-11-1994,Alm.,0,7,Villa,204,1978,
+Herningvej 35 7540 Haderup,35,10426.0,27-10-1994,Andet,53,6,Stuehus,194,1945,
+Karupvej 2 7540 Haderup,2,550000.0,24-08-1994,Alm.,4583,2,Stuehus,120,2007,
+Vester Feldborgvej 24 7540 Haderup,24,625000.0,08-08-1994,Alm.,0,7,Stuehus,199,1860,
+Drosselvej 16 7540 Haderup,16,300000.0,05-07-1994,Fam.,2654,4,Villa,113,1970,
+Falkevej 14 7540 Haderup,14,448000.0,30-05-1994,Alm.,3555,4,Villa,126,1978,
+Teglværksvej 17 7540 Haderup,17,900000.0,26-05-1994,Alm.,5232,6,Stuehus,172,1935,
+Solskrænten 12 7540 Haderup,12,950000.0,19-05-1994,Alm.,4203,9,Villa,226,1964,
+Herningvej 83 7540 Haderup,83,256933.0,18-05-1994,Alm.,2039,4,Stuehus,126,1881,
+Grovevej 17 7540 Haderup,17,3575000.0,01-03-1994,Alm.,18815,6,Stuehus,190,1899,
+Tusbækvej 53 7540 Haderup,53,2200000.0,25-02-1994,Alm.,14666,7,Stuehus,150,1929,
+Langgade 30 7540 Haderup,30,330000.0,12-02-1994,Alm.,0,7,Villa,163,1965,
+Højmosevej 2 7540 Haderup,2,400000.0,10-01-1994,Alm.,4000,3,Stuehus,100,1922,
+Tusbækvej 46 7540 Haderup,46,750000.0,25-11-1993,Alm.,3289,7,Stuehus,228,1973,
+Feldborgvej 23 7540 Haderup,23,595000.0,20-10-1993,Alm.,5950,3,Stuehus,100,1900,
+Langgade 88 7540 Haderup,88,505000.0,16-10-1993,Alm.,2254,8,Villa,224,1932,
+Over Høstrupvej 8 7540 Haderup,8,463000.0,20-09-1993,Fam.,5202,5,Stuehus,89,1927,
+Gindeskovgård 3 7540 Haderup,3,571709.0,27-08-1993,Alm.,2540,7,Stuehus,225,1994,
+Tusbækvej 17 7540 Haderup,17,250000.0,03-08-1993,Alm.,0,9,Villa,128,1929,
+Herningvej 70 7540 Haderup,70,650000.0,05-07-1993,Alm.,0,7,Stuehus,311,1961,
+Hækvej 5 7540 Haderup,5,210000.0,04-07-1993,Alm.,958,6,Villa,219,1907,
+Skovvænget 23 7540 Haderup,23,422959.0,13-05-1993,Alm.,3356,4,Villa,126,1980,
+Pilhusevej 3 7540 Haderup,3,85000.0,07-12-1992,Auktion,1089,3,Villa,78,1943,
+Tjørnevej 12B 7540 Haderup,0,65000.0,27-10-1992,Alm.,637,2,Villa,102,1993,
+Nørregade 32 7540 Haderup,32,900000.0,08-10-1992,Alm.,2970,8,Villa,303,1976,
+Langgade 22 7540 Haderup,22,263000.0,24-08-1992,Alm.,3704,4,Villa,71,1959,
+Vibevej 12 7540 Haderup,12,360000.0,22-08-1992,Alm.,2535,5,Villa,142,1969,
+Bredgade 9 7540 Haderup,9,150000.0,14-07-1992,Alm.,2000,3,Villa,75,1944,
+Langgade 12 7540 Haderup,12,375000.0,20-05-1992,Fam.,2622,5,Villa,143,1963,
+Langgade 62A 7540 Haderup,0,392000.0,08-05-1992,Fam.,3266,6,Villa,120,1965,
+Langgade 34 7540 Haderup,34,450000.0,30-04-1992,Fam.,2727,6,Villa,165,1969,
+Viborgvej 372 7540 Haderup,372,195000.0,28-04-1992,Alm.,0,7,Villa,145,1927,
+Sandgårdvej 17 7540 Haderup,17,1523168.0,05-02-1992,Alm.,9175,5,Stuehus,166,1918,
+Bredgade 86 7540 Haderup,86,675000.0,18-01-1992,Alm.,0,8,Stuehus,230,1957,

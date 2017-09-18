@@ -1,0 +1,627 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+"Odensevej 19, ST 5772 Kværndrup",0,465500.0,17-05-2017,Fam.,3188,6,Lejlighed,146,1937,
+Bukgårdsvej 4 5772 Kværndrup,4,1525000.0,12-04-2017,Alm.,5648,4,Villa,270,1926,-4 %
+Trunderup Dongsvej 26 5772 Kværndrup,26,1250000.0,08-04-2017,Alm.,7183,6,Villa,174,1900,-3 %
+Odensevej 7 5772 Kværndrup,7,750000.0,12-02-2017,Alm.,5813,6,Villa,129,1962,-6 %
+Trunderup Dongsvej 18 5772 Kværndrup,18,190000.0,25-01-2017,Alm.,1727,3,Villa,110,1868,-36 %
+Bøgegyden 4 5772 Kværndrup,4,448198.0,10-01-2017,Alm.,4819,4,Villa,93,1877,
+Søltvej 23 5772 Kværndrup,23,365000.0,21-12-2016,Alm.,2097,7,Stuehus,174,1867,
+Nyborgvej 19A 5772 Kværndrup,0,525000.0,13-12-2016,Alm.,5412,4,Villa,97,1961,
+Paprikavænget 1 5772 Kværndrup,1,920000.0,13-12-2016,Alm.,7603,4,Villa,121,1977,-8 %
+Vængevej 6 5772 Kværndrup,6,575000.0,07-12-2016,Alm.,6117,3,Villa,94,1962,-8 %
+Stationsvej 13 5772 Kværndrup,13,650000.0,05-12-2016,Alm.,6701,3,Villa,97,1963,-10 %
+Kanelvænget 14 5772 Kværndrup,14,550000.0,02-12-2016,Alm.,6179,3,Rækkehus,89,1977,-8 %
+Mejsevænget 2 5772 Kværndrup,2,1530000.0,30-11-2016,Alm.,9935,5,Villa,154,1971,-4 %
+Trunderup Dongsvej 13 5772 Kværndrup,13,2200000.0,28-11-2016,Alm.,9090,6,Villa,242,2009,-2 %
+Nyborgvej 4 5772 Kværndrup,4,975000.0,21-11-2016,Alm.,3779,9,Villa,258,1910,
+Toftevej 7 5772 Kværndrup,7,300000.0,14-11-2016,Alm.,1250,9,Villa,240,1859,-62 %
+Toftevej 4 5772 Kværndrup,4,545000.0,30-10-2016,Alm.,5190,6,Villa,105,1910,0 %
+Gl. Nyborgvej 36 5772 Kværndrup,36,495000.0,02-10-2016,Alm.,4583,5,Villa,108,1940,0 %
+Bøjdenvejen 21 5772 Kværndrup,21,875000.0,23-09-2016,Alm.,6889,4,Villa,127,1937,-12 %
+Odensevej 37 5772 Kværndrup,37,300000.0,16-09-2016,Alm.,1829,6,Villa,164,1904,
+Lærkevej 10 5772 Kværndrup,10,1850000.0,09-09-2016,Alm.,11349,6,Villa,163,1964,0 %
+Toftevænget 2 5772 Kværndrup,2,370000.0,07-09-2016,Fam.,5522,2,Rækkehus,67,1977,
+Rødhøjsvej 13C 5772 Kværndrup,0,725000.0,02-09-2016,Alm.,9294,2,Rækkehus,78,1980,-9 %
+Paprikavænget 6 5772 Kværndrup,6,1550000.0,02-09-2016,Alm.,10763,5,Villa,144,1976,
+Lærkevej 9 5772 Kværndrup,9,925000.0,24-07-2016,Alm.,7974,4,Villa,116,1967,-5 %
+Gl. Nyborgvej 69 5772 Kværndrup,69,100000.0,12-07-2016,Alm.,769,5,Villa,130,1969,-59 %
+"Bøjdenvejen 2B, 1 5772 Kværndrup",1,625000.0,13-06-2016,Alm.,10416,2,Lejlighed,60,1927,
+Mullerupvej 29 5772 Kværndrup,29,1310000.0,10-06-2016,Alm.,4943,10,Villa,265,1917,-4 %
+Stationsvej 3 5772 Kværndrup,3,1275000.0,08-06-2016,Alm.,8500,5,Villa,150,1960,-2 %
+Rødhøjsvej 57 5772 Kværndrup,57,1830000.0,03-06-2016,Alm.,11960,5,Villa,153,2009,-3 %
+Kanelvænget 2 5772 Kværndrup,2,925000.0,30-05-2016,Alm.,8980,4,Rækkehus,103,1977,-7 %
+Bøjdenvejen 12 5772 Kværndrup,12,400000.0,01-05-2016,Andet,2739,6,Villa,146,1902,
+Egevænget 1 5772 Kværndrup,1,875000.0,23-04-2016,Alm.,8838,3,Villa,99,2001,
+Stationsvej 2A 5772 Kværndrup,0,540000.0,21-03-2016,Alm.,6750,3,Rækkehus,80,1958,
+Stationsvej 2B 5772 Kværndrup,0,560000.0,21-03-2016,Alm.,5000,4,Rækkehus,112,1958,
+Bøjdenvejen 51 5772 Kværndrup,51,690000.0,21-03-2016,Alm.,3670,6,Villa,188,1870,-1 %
+Rødhøjsvej 75 5772 Kværndrup,75,675000.0,23-02-2016,Fam.,3924,5,Villa,172,2001,-53 %
+Timianvænget 1 5772 Kværndrup,1,1665000.0,17-02-2016,Alm.,9568,6,Villa,174,1978,-2 %
+Industrivej 3 5772 Kværndrup,3,925000.0,01-02-2016,Alm.,5572,4,Villa,166,1967,-7 %
+Mullerupvej 13 5772 Kværndrup,13,1350000.0,30-01-2016,Alm.,5895,6,Villa,229,1919,-10 %
+Svendborgvej 26 5772 Kværndrup,26,562817.0,29-01-2016,Alm.,4078,4,Villa,138,1900,
+Grønnegyden 2 5772 Kværndrup,2,3025000.0,26-01-2016,Alm.,15201,7,Stuehus,199,1827,
+Gultvedgyden 12 5772 Kværndrup,12,995000.0,16-01-2016,Alm.,8089,4,Villa,123,1907,0 %
+Mågevej 8 5772 Kværndrup,8,1300000.0,09-01-2016,Alm.,8280,5,Villa,157,1976,
+Mågevej 27 5772 Kværndrup,27,1395000.0,18-12-2015,Alm.,6940,6,Villa,201,1972,0 %
+Glasmestervej 29 5772 Kværndrup,29,1200000.0,18-12-2015,Andet,8333,5,Villa,144,1980,
+Kanelvænget 10 5772 Kværndrup,10,675000.0,04-12-2015,Fam.,7584,3,Rækkehus,89,1977,
+Nyborgvej 2 5772 Kværndrup,2,500000.0,01-12-2015,Alm.,2427,6,Villa,206,1895,
+Bøjdenvejen 3A 5772 Kværndrup,0,660000.0,23-11-2015,Alm.,3219,7,Villa,205,1960,0 %
+Lærkevej 11 5772 Kværndrup,11,550000.0,21-11-2015,Alm.,4910,4,Villa,112,1967,
+Svendborgvej 22 5772 Kværndrup,22,372274.0,19-11-2015,Auktion,1764,7,Villa,211,1850,
+Svendborgvej 24 5772 Kværndrup,24,250000.0,16-11-2015,Alm.,3164,4,Villa,79,1890,-15 %
+Møllevej 4 5772 Kværndrup,4,800000.0,02-10-2015,Alm.,5970,5,Villa,134,1937,-38 %
+Nyvej 11 5772 Kværndrup,11,1325000.0,23-09-2015,Alm.,8548,4,Villa,155,1980,-10 %
+Rødhøjsvej 12 5772 Kværndrup,12,1125000.0,22-09-2015,Alm.,7922,5,Villa,142,1980,-8 %
+Gl. Nyborgvej 43 5772 Kværndrup,43,750000.0,18-09-2015,Alm.,5859,4,Villa,128,1934,
+Egeparken 40 5772 Kværndrup,40,950000.0,04-09-2015,Alm.,10326,3,Villa,92,2005,
+Gl. Nyborgvej 84 5772 Kværndrup,84,1300000.0,28-08-2015,Alm.,5508,10,Villa,236,1898,-7 %
+Mellemvej 5 5772 Kværndrup,5,500000.0,28-08-2015,Alm.,4201,3,Villa,119,1964,-16 %
+Kirkevej 9 5772 Kværndrup,9,1655000.0,19-08-2015,Alm.,8619,6,Villa,192,1917,-1 %
+Odensevej 42 5772 Kværndrup,42,775000.0,12-08-2015,Alm.,5308,4,Villa,146,1877,-3 %
+Odensevej 50A 5772 Kværndrup,0,425000.0,12-08-2015,Alm.,2833,8,Stuehus,150,1892,-29 %
+Kløvervej 6 5772 Kværndrup,6,915000.0,30-07-2015,Alm.,6828,4,Villa,134,1971,-8 %
+Odensevej 22 5772 Kværndrup,22,880000.0,28-07-2015,Alm.,7040,4,Villa,125,1936,1 %
+Gl. Nyborgvej 56 5772 Kværndrup,56,1300000.0,12-07-2015,Alm.,6951,5,Villa,187,1905,-5 %
+Dyrebjergvej 3 5772 Kværndrup,3,520000.0,07-07-2015,Alm.,6666,3,Villa,78,1930,
+Vestermarken 4 5772 Kværndrup,4,1150000.0,01-07-2015,Alm.,9913,5,Stuehus,116,1926,-11 %
+Svendborgvej 35 5772 Kværndrup,35,1265000.0,29-06-2015,Alm.,8489,6,Villa,149,1880,
+Egeparken 4 5772 Kværndrup,4,1665000.0,19-06-2015,Alm.,10406,5,Villa,160,2009,-10 %
+Rødhøjsvej 18 5772 Kværndrup,18,1500000.0,17-06-2015,Alm.,10416,6,Villa,144,1980,3 %
+Muskatvænget 3 5772 Kværndrup,3,1100000.0,21-05-2015,Alm.,7971,5,Villa,138,1975,-12 %
+Mågevej 31 5772 Kværndrup,31,995000.0,21-05-2015,Alm.,8577,4,Villa,116,1973,0 %
+Drosselvej 9 5772 Kværndrup,9,690000.0,17-05-2015,Alm.,6900,4,Villa,100,1972,-5 %
+Svendborgvej 51 5772 Kværndrup,51,1450000.0,02-05-2015,Fam.,7512,6,Villa,193,1812,
+Kohavegårdsvej 2 5772 Kværndrup,2,740000.0,16-04-2015,Alm.,8222,5,Villa,90,1890,-1 %
+Glasmestervej 1 5772 Kværndrup,1,1680000.0,10-04-2015,Alm.,10370,5,Villa,162,1987,-10 %
+Industrivej 10 5772 Kværndrup,10,547150.0,09-04-2015,Auktion,1861,7,Villa,294,1973,
+Rødhøjsvej 15 5772 Kværndrup,15,1420000.0,08-04-2015,Alm.,8554,6,Villa,166,1979,-5 %
+Rødhøjsvej 35 5772 Kværndrup,35,660000.0,21-03-2015,Alm.,6168,4,Villa,107,1979,-17 %
+Gl. Nyborgvej 78 5772 Kværndrup,78,497149.0,13-03-2015,Fam.,2941,6,Villa,169,1935,
+Drosselvej 10 5772 Kværndrup,10,995000.0,06-03-2015,Alm.,6633,3,Villa,150,1973,0 %
+Kohavevej 11 5772 Kværndrup,11,701795.0,20-01-2015,Alm.,3249,9,Villa,216,1805,
+Toftevej 7A 5772 Kværndrup,0,1000000.0,13-01-2015,Alm.,6172,5,Villa,162,1980,-9 %
+Gl. Nyborgvej 66 5772 Kværndrup,66,400000.0,12-01-2015,Andet,2777,5,Villa,144,1777,-55 %
+Gultvedgyden 1 5772 Kværndrup,1,55246.0,26-11-2014,Auktion,449,3,Villa,123,1900,
+Kanelvænget 4 5772 Kværndrup,4,425000.0,24-11-2014,Alm.,4775,4,Rækkehus,89,1977,-15 %
+Kohavegårdsvej 4 5772 Kværndrup,4,207700.0,20-11-2014,Auktion,2360,2,Villa,88,1827,
+Kløvervej 5 5772 Kværndrup,5,300000.0,11-11-2014,Alm.,2307,5,Villa,130,1970,-39 %
+Hundtoftevej 9 5772 Kværndrup,9,700000.0,31-10-2014,Alm.,4964,5,Stuehus,141,1926,-6 %
+Trunderup Dongsvej 15 5772 Kværndrup,15,2300000.0,11-10-2014,Alm.,11111,5,Stuehus,207,1872,-15 %
+Hønsehavevej 17 5772 Kværndrup,17,184000.0,10-10-2014,Alm.,1437,6,Stuehus,128,1878,
+Trunderup Dongsvej 17 5772 Kværndrup,17,2250000.0,06-10-2014,Alm.,10273,6,Stuehus,219,1860,-10 %
+Mullerupvej 16A 5772 Kværndrup,0,886000.0,05-10-2014,Alm.,8772,5,Villa,101,1926,
+Toftevej 5 5772 Kværndrup,5,300000.0,03-10-2014,Alm.,2752,5,Villa,109,1902,-33 %
+Vængevej 3 5772 Kværndrup,3,925000.0,15-09-2014,Alm.,9635,3,Villa,96,1942,-7 %
+Mejsevænget 1 5772 Kværndrup,1,725000.0,17-07-2014,Alm.,6144,5,Villa,118,1973,0 %
+Mullerupvej 19 5772 Kværndrup,19,650000.0,30-06-2014,Alm.,4513,7,Villa,144,1800,-18 %
+Bøjdenvejen 19 5772 Kværndrup,19,625000.0,30-06-2014,Alm.,4664,5,Villa,134,1880,
+Glasmestervej 4 5772 Kværndrup,4,1565000.0,21-06-2014,Alm.,11340,6,Villa,138,1974,-5 %
+Bøjdenvejen 13 5772 Kværndrup,13,521800.0,11-06-2014,Auktion,3753,5,Villa,139,1902,
+Lærkevej 17 5772 Kværndrup,17,975000.0,02-06-2014,Fam.,9948,4,Villa,98,1966,
+Trunderup Dongsvej 30 5772 Kværndrup,30,250000.0,14-05-2014,Alm.,2747,4,Villa,91,1887,
+Laurbærvænget 11 5772 Kværndrup,11,950000.0,06-05-2014,Alm.,8878,4,Villa,107,1978,-5 %
+Odensevej 40 5772 Kværndrup,40,6673000.0,16-04-2014,Fam.,23832,9,Stuehus,280,1917,
+Nyvej 8 5772 Kværndrup,8,319000.0,02-04-2014,Alm.,3709,3,Villa,86,1965,-33 %
+Vængevej 13 5772 Kværndrup,13,500000.0,25-03-2014,Alm.,4098,4,Villa,122,1964,-28 %
+Mejsevænget 5 5772 Kværndrup,5,650000.0,06-03-2014,Alm.,4850,5,Villa,134,1973,-18 %
+Svendborgvej 25 5772 Kværndrup,25,85000.0,19-02-2014,Auktion,537,4,Villa,158,1910,
+Faaborgvej 55 5772 Kværndrup,55,5368000.0,16-12-2013,Fam.,48360,5,Stuehus,111,1965,
+Møllevej 3 5772 Kværndrup,3,774000.0,14-12-2013,Fam.,4010,6,Villa,193,1902,
+Møllevej 2 5772 Kværndrup,2,672000.0,14-12-2013,Fam.,3976,5,Villa,169,1877,
+Mellemvej 1 5772 Kværndrup,1,935000.0,12-12-2013,Alm.,6875,5,Villa,136,1964,-6 %
+Kalkbrænderivej 13A 5772 Kværndrup,0,1295000.0,26-09-2013,Alm.,5098,7,Villa,254,1963,0 %
+Rødhøjsvej 1C 5772 Kværndrup,0,650000.0,25-09-2013,Alm.,10000,2,Rækkehus,65,1980,
+Gl. Nyborgvej 70 5772 Kværndrup,70,650000.0,26-08-2013,Fam.,7065,4,Villa,92,1954,
+Trunderup Dongsvej 23 5772 Kværndrup,23,24199335.0,05-08-2013,Auktion,135191,6,Stuehus,179,1854,
+Mågevej 4 5772 Kværndrup,4,700000.0,05-08-2013,Alm.,6306,5,Villa,111,1972,-12 %
+Laurbærvænget 12 5772 Kværndrup,12,960000.0,05-08-2013,Alm.,8135,4,Villa,118,1976,-12 %
+Bøjdenvejen 55 5772 Kværndrup,55,236130.0,17-07-2013,Auktion,2089,4,Villa,113,1877,-60 %
+Odensevej 27 5772 Kværndrup,27,150000.0,11-07-2013,Alm.,1153,4,Villa,130,1947,
+"Krohaven 1, ST. TH 5772 Kværndrup",0,4350000.0,28-05-2013,Alm.,58000,3,Lejlighed,75,2003,
+Svendborgvej 63 5772 Kværndrup,63,940000.0,02-05-2013,Alm.,7286,4,Villa,129,1860,-5 %
+Gl. Nyborgvej 48 5772 Kværndrup,48,835000.0,24-04-2013,Alm.,4911,5,Villa,170,1900,-7 %
+Odensevej 38 5772 Kværndrup,38,2400000.0,12-04-2013,Alm.,8988,10,Villa,267,1962,
+Odensevej 44 5772 Kværndrup,44,1350000.0,09-04-2013,Alm.,7670,6,Stuehus,176,2015,-18 %
+Gl. Nyborgvej 32 5772 Kværndrup,32,900000.0,25-03-2013,Alm.,4615,6,Villa,195,1850,
+Faaborgvej 63 5772 Kværndrup,63,1430000.0,11-03-2013,Alm.,11171,2,Stuehus,128,1900,
+Nyvej 1 5772 Kværndrup,1,850000.0,28-02-2013,Alm.,6746,6,Villa,126,1955,-10 %
+Lærkevej 5 5772 Kværndrup,5,735000.0,18-01-2013,Alm.,6024,5,Villa,122,1967,-2 %
+Faaborgvej 69 5772 Kværndrup,69,635000.0,17-01-2013,Fam.,5080,5,Rækkehus,125,1800,
+Kværndrup Vænge 5 5772 Kværndrup,5,690000.0,19-12-2012,Alm.,7187,3,Villa,96,1952,-8 %
+Strarupvej 8 5772 Kværndrup,8,1575000.0,14-12-2012,Alm.,12209,4,Stuehus,129,1997,-17 %
+Yderste Tværvej 2 5772 Kværndrup,2,2100000.0,10-12-2012,Alm.,21000,3,Stuehus,100,1954,-27 %
+Gl. Nyborgvej 54 5772 Kværndrup,54,4185000.0,06-12-2012,Alm.,16943,7,Stuehus,247,1914,
+Glasmestervej 1A 5772 Kværndrup,0,2363000.0,07-11-2012,Alm.,13818,6,Villa,171,2008,-5 %
+Søltvej 36 5772 Kværndrup,36,750000.0,02-11-2012,Alm.,5725,2,Villa,131,1907,-6 %
+Spurvevej 2 5772 Kværndrup,2,1200000.0,28-10-2012,Alm.,11009,4,Villa,109,1973,-4 %
+Bøjdenvejen 49 5772 Kværndrup,49,218000.0,28-10-2012,Alm.,1313,4,Villa,166,1883,
+Bukgårdsvej 1 5772 Kværndrup,1,1040000.0,15-10-2012,Alm.,7123,4,Villa,146,1877,-4 %
+Engvej 1 5772 Kværndrup,1,815000.0,28-09-2012,Alm.,5397,5,Villa,151,1972,-12 %
+Egeskov Gade 3 5772 Kværndrup,3,166000.0,20-08-2012,Andet,2184,3,Villa,76,1912,
+Lærkevej 1 5772 Kværndrup,1,450000.0,15-08-2012,Alm.,3435,4,Villa,131,1969,-24 %
+Svendborgvej 29 5772 Kværndrup,29,375000.0,07-08-2012,Alm.,2640,5,Villa,142,1907,-37 %
+Rødhøjsvej 71 5772 Kværndrup,71,1752000.0,05-08-2012,Alm.,10011,5,Villa,175,2015,0 %
+Kalkbrænderivej 8 5772 Kværndrup,8,430139.0,23-07-2012,Andet,3614,5,Villa,119,1947,
+Odensevej 52 5772 Kværndrup,52,574086.0,13-06-2012,Andet,3376,5,Stuehus,170,1864,
+Trunderup Dongsvej 12 5772 Kværndrup,12,1695000.0,08-06-2012,Alm.,8737,6,Villa,194,1880,0 %
+Kværndrup Vænge 19 5772 Kværndrup,19,599000.0,30-04-2012,Alm.,5119,4,Stuehus,117,1913,0 %
+Ternevænget 6 5772 Kværndrup,6,1050000.0,28-04-2012,Alm.,6104,2,Villa,172,1972,-4 %
+Bøjdenvejen 57 5772 Kværndrup,57,1900000.0,02-04-2012,Alm.,11111,4,Villa,171,1952,
+Stationsvej 4 5772 Kværndrup,4,615000.0,28-03-2012,Alm.,4920,4,Villa,125,1961,-12 %
+Grønnegyden 1 5772 Kværndrup,1,610000.0,23-02-2012,Alm.,2640,6,Villa,231,1906,-6 %
+Trunderup Gade 7 5772 Kværndrup,7,275000.0,20-02-2012,Alm.,2500,3,Villa,110,1948,-30 %
+Kalkbrænderivej 23 5772 Kværndrup,23,600000.0,17-02-2012,Alm.,7594,3,Villa,79,1954,-8 %
+Trunderup Gade 9 5772 Kværndrup,9,75000.0,02-02-2012,Alm.,914,3,Villa,82,1777,50 %
+Sønderhave 2 5772 Kværndrup,2,2050000.0,26-01-2012,Alm.,3583,16,Villa,572,1950,
+Gl. Nyborgvej 42 5772 Kværndrup,42,950000.0,20-01-2012,Alm.,3877,9,Villa,245,1916,-13 %
+Strarupvej 9 5772 Kværndrup,9,80000.0,21-12-2011,Auktion,437,7,Stuehus,183,1880,-84 %
+Tværvej 7 5772 Kværndrup,7,650000.0,12-12-2011,Alm.,6500,3,Villa,100,1965,-13 %
+Bryggerivej 9 5772 Kværndrup,9,530000.0,07-12-2011,Alm.,4649,5,Villa,114,1912,-33 %
+Gl. Nyborgvej 85 5772 Kværndrup,85,200000.0,24-11-2011,Alm.,2739,2,Villa,73,1954,
+Strarupvej 11 5772 Kværndrup,11,300000.0,17-11-2011,Alm.,3529,4,Villa,85,1859,-39 %
+Kalkbrænderivej 15 5772 Kværndrup,15,704000.0,28-10-2011,Alm.,5374,5,Villa,131,1950,-21 %
+Mågevej 5 5772 Kværndrup,5,1250000.0,21-10-2011,Alm.,9469,4,Villa,132,1972,-6 %
+Kløvervej 2 5772 Kværndrup,2,1325000.0,30-09-2011,Alm.,6691,4,Villa,198,1967,-5 %
+Gl. Nyborgvej 34 5772 Kværndrup,34,90000.0,19-09-2011,Alm.,900,4,Villa,100,1830,-69 %
+Drosselvej 8 5772 Kværndrup,8,925000.0,12-09-2011,Alm.,6851,4,Villa,135,1975,-16 %
+Grønnebjergvej 2 5772 Kværndrup,2,1550000.0,02-09-2011,Alm.,11397,6,Villa,136,1926,-9 %
+Svendborgvej 40 5772 Kværndrup,40,695000.0,10-08-2011,Alm.,6747,3,Villa,103,1825,-4 %
+Ravndrupvej 26 5772 Kværndrup,26,1550000.0,30-07-2011,Alm.,10915,5,Stuehus,142,1914,0 %
+Lærkevej 7 5772 Kværndrup,7,700000.0,28-06-2011,Alm.,5737,4,Villa,122,1966,-12 %
+Møllevej 7 5772 Kværndrup,7,775000.0,27-06-2011,Alm.,9935,3,Villa,78,1777,-3 %
+Kværndrup Vænge 36 5772 Kværndrup,36,17100000.0,11-05-2011,Auktion,84236,6,Stuehus,203,2011,
+Dyrebjergvej 5 5772 Kværndrup,5,14358000.0,11-05-2011,Auktion,83964,5,Stuehus,171,1941,
+Svendborgvej 20 5772 Kværndrup,20,1360000.0,06-05-2011,Alm.,10225,6,Villa,133,1931,-3 %
+Gl. Nyborgvej 65 5772 Kværndrup,65,700000.0,06-04-2011,Auktion,3097,6,Villa,226,1900,
+Filipsgyden 3 5772 Kværndrup,3,1650000.0,01-04-2011,Alm.,12132,6,Stuehus,136,1920,-13 %
+Søltvej 42 5772 Kværndrup,42,1350000.0,30-03-2011,Alm.,6650,4,Stuehus,203,1897,-3 %
+Rødhøjsvej 13B 5772 Kværndrup,0,310000.0,03-03-2011,Auktion,4025,2,Rækkehus,77,1980,
+Lærkevej 16 5772 Kværndrup,16,1280000.0,18-02-2011,Alm.,6095,5,Villa,210,1966,
+Gultvedgyden 7 5772 Kværndrup,7,1100000.0,02-02-2011,Alm.,6077,7,Villa,181,1777,-8 %
+Bøjdenvejen 28 5772 Kværndrup,28,2000000.0,16-01-2011,Fam.,20000,3,Stuehus,100,1850,
+Møllevej 7A 5772 Kværndrup,0,50000.0,28-12-2010,Alm.,427,3,Villa,117,2012,
+Odensevej 17 5772 Kværndrup,17,365701.0,23-12-2010,Auktion,5079,3,Villa,72,1937,
+Nyborgvej 18 5772 Kværndrup,18,1337000.0,30-11-2010,Alm.,10527,7,Villa,127,1910,
+Laurbærvænget 7 5772 Kværndrup,7,975000.0,09-11-2010,Alm.,8125,4,Villa,120,1977,-11 %
+Vængevej 28 5772 Kværndrup,28,420219.0,03-11-2010,Alm.,3718,4,Villa,113,1971,
+Gl. Nyborgvej 49 5772 Kværndrup,49,1200000.0,20-10-2010,Alm.,9022,3,Villa,133,1914,-4 %
+Gultvedholm 3 5772 Kværndrup,3,433333.0,25-09-2010,Fam.,2329,5,Villa,186,1930,-45 %
+Odensevej 1 5772 Kværndrup,1,985378.0,12-07-2010,Andet,4583,7,Villa,215,1918,
+Svendborgvej 49A 5772 Kværndrup,0,1050000.0,07-07-2010,Alm.,5223,5,Villa,201,1914,-9 %
+Vængevej 5 5772 Kværndrup,5,1750000.0,28-06-2010,Alm.,9887,5,Villa,177,1961,-5 %
+Toftevej 1 5772 Kværndrup,1,1700000.0,18-06-2010,Alm.,10365,6,Villa,164,1969,-15 %
+Toftevej 6 5772 Kværndrup,6,750000.0,15-06-2010,Alm.,5905,5,Villa,127,1872,-9 %
+Strarupvej 21 5772 Kværndrup,21,875000.0,11-06-2010,Alm.,0,6,Villa,164,1881,-7 %
+Toftevænget 1 5772 Kværndrup,1,525000.0,11-06-2010,Alm.,7954,2,Rækkehus,66,1979,-12 %
+Nyvej 13A 5772 Kværndrup,0,825000.0,04-06-2010,Andet,8088,4,Villa,102,1975,
+Gl. Nyborgvej 81 5772 Kværndrup,81,1095000.0,17-05-2010,Alm.,5951,3,Villa,184,1910,0 %
+Banepladsen 5 5772 Kværndrup,5,1180000.0,11-05-2010,Alm.,7612,4,Villa,155,1932,-5 %
+Fallevej 7 5772 Kværndrup,7,350000.0,07-04-2010,Alm.,1658,6,Stuehus,211,1907,
+Hundtoftevej 3 5772 Kværndrup,3,1400000.0,31-03-2010,Auktion,11200,5,Stuehus,125,1926,
+Engvej 11 5772 Kværndrup,11,780000.0,18-03-2010,Alm.,6240,4,Villa,125,1964,-8 %
+Svendborgvej 71A 5772 Kværndrup,0,2250000.0,31-12-2009,Alm.,12096,7,Villa,186,2005,-5 %
+Vængevej 10 5772 Kværndrup,10,499972.0,14-12-2009,Andet,6493,5,Villa,77,1961,
+Søltvej 44 5772 Kværndrup,44,386594.0,07-12-2009,Alm.,3865,2,Villa,100,1877,
+Søltvej 21 5772 Kværndrup,21,1900000.0,30-11-2009,Alm.,8444,7,Stuehus,225,1874,-5 %
+Vængevej 8 5772 Kværndrup,8,685000.0,26-11-2009,Alm.,8353,4,Villa,82,1962,-9 %
+Drosselvej 7 5772 Kværndrup,7,1560000.0,21-11-2009,Alm.,10263,5,Villa,152,1972,-2 %
+Kalkbrænderivej 10 5772 Kværndrup,10,625000.0,17-11-2009,Alm.,7621,4,Villa,82,1943,-10 %
+Trunderup Dongsvej 22 5772 Kværndrup,22,795000.0,17-11-2009,Alm.,9464,4,Villa,84,1905,-11 %
+Yderste Tværvej 1 5772 Kværndrup,1,775000.0,12-11-2009,Alm.,7598,4,Villa,102,1954,
+Egeparken 6 5772 Kværndrup,6,1095000.0,10-11-2009,Alm.,11526,3,Villa,95,1999,0 %
+Egeparken 42 5772 Kværndrup,42,98791.0,02-11-2009,Alm.,534,6,Villa,185,2012,
+Mejsevænget 3 5772 Kværndrup,3,1600000.0,27-10-2009,Alm.,11940,5,Villa,134,1973,-3 %
+Krusemyntevænget 11 5772 Kværndrup,11,1285000.0,27-08-2009,Alm.,8290,6,Villa,155,1976,-3 %
+Trunderupvej 7 5772 Kværndrup,7,858303.0,29-07-2009,Alm.,7528,4,Villa,114,1959,
+Spurvevej 4 5772 Kværndrup,4,1000000.0,02-07-2009,Alm.,8333,3,Villa,120,1973,-9 %
+Holmegyden 1 5772 Kværndrup,1,1225000.0,01-07-2009,Alm.,3480,3,Villa,352,1909,-2 %
+Kalkbrænderivej 12A 5772 Kværndrup,0,1475000.0,24-06-2009,Alm.,13169,3,Villa,112,1980,-1 %
+Gl. Nyborgvej 52 5772 Kværndrup,52,1300000.0,28-05-2009,Alm.,6403,6,Villa,203,1920,-7 %
+Yderste Tværvej 4 5772 Kværndrup,4,590414.0,21-04-2009,Fam.,5089,3,Villa,116,1954,
+Industrivej 4 5772 Kværndrup,4,2774000.0,18-03-2009,Alm.,14225,5,Villa,195,1964,
+Hassellundsvej 6 5772 Kværndrup,6,1250000.0,17-03-2009,Andet,5144,8,Villa,243,1860,
+Mullerupvej 25 5772 Kværndrup,25,4000000.0,16-03-2009,Alm.,47058,4,Villa,85,1954,
+Bryggerivej 1 5772 Kværndrup,1,825000.0,14-01-2009,Alm.,8776,4,Villa,94,1906,-12 %
+Bøjdenvejen 27 5772 Kværndrup,27,450000.0,09-01-2009,Alm.,5625,3,Villa,80,1907,-31 %
+Grønnegyden 4 5772 Kværndrup,4,4860000.0,17-12-2008,Fam.,23940,5,Stuehus,203,1877,
+Rødhøjsvej 11B 5772 Kværndrup,0,1245000.0,16-12-2008,Fam.,13833,3,Rækkehus,90,1981,
+Vængevej 15 5772 Kværndrup,15,2762500.0,05-11-2008,Fam.,19051,4,Stuehus,145,1916,
+Odensevej 53 5772 Kværndrup,53,650000.0,29-09-2008,Alm.,4304,5,Villa,151,1866,
+Bøjdenvejen 5 5772 Kværndrup,5,900000.0,29-09-2008,Alm.,6206,6,Villa,145,1861,
+Bøjdenvejen 43 5772 Kværndrup,43,800000.0,22-09-2008,Alm.,7843,4,Villa,102,1877,-9 %
+Paprikavænget 12 5772 Kværndrup,12,1400000.0,19-09-2008,Alm.,9722,5,Villa,144,1976,-6 %
+Engvej 4 5772 Kværndrup,4,800000.0,10-09-2008,Alm.,6779,4,Villa,118,1970,-11 %
+Egeparken 7 5772 Kværndrup,7,200000.0,09-09-2008,Alm.,1639,3,Villa,122,2010,
+Filipsgyden 12 5772 Kværndrup,12,784697.0,28-08-2008,Andet,3809,6,Villa,206,1877,
+Rødhøjsvej 3A 5772 Kværndrup,0,750000.0,22-08-2008,Alm.,9375,3,Rækkehus,80,1980,
+Odensevej 43 5772 Kværndrup,43,295000.0,10-07-2008,Alm.,8428,1,Villa,35,1930,0 %
+Rødhøjsvej 21 5772 Kværndrup,21,1200000.0,01-07-2008,Alm.,8510,4,Villa,141,1980,-7 %
+Rødhøjsvej 27 5772 Kværndrup,27,103403.0,03-06-2008,Alm.,698,5,Villa,148,2009,
+Gl. Nyborgvej 73 5772 Kværndrup,73,330000.0,01-06-2008,Alm.,2275,4,Villa,145,1945,
+Rødhøjsvej 37 5772 Kværndrup,37,1600000.0,29-05-2008,Alm.,13333,3,Villa,120,1999,0 %
+Gl. Nyborgvej 74 5772 Kværndrup,74,725000.0,16-05-2008,Alm.,7397,2,Villa,98,1957,0 %
+Rødhøjsvej 63 5772 Kværndrup,63,88425.0,16-05-2008,Alm.,485,6,Villa,182,2010,
+Odensevej 51 5772 Kværndrup,51,800000.0,30-04-2008,Alm.,4968,3,Villa,161,1900,-9 %
+Rødhøjsvej 10 5772 Kværndrup,10,2185000.0,24-04-2008,Alm.,12206,6,Villa,179,1997,0 %
+Rødhøjsvej 19 5772 Kværndrup,19,1275000.0,19-03-2008,Alm.,11184,4,Villa,114,1987,
+Stationsvej 11 5772 Kværndrup,11,725000.0,10-03-2008,Alm.,8146,4,Villa,89,1960,-3 %
+Nyborgvej 13 5772 Kværndrup,13,860000.0,05-03-2008,Alm.,8958,4,Villa,96,1953,-4 %
+Rødhøjsvej 23 5772 Kværndrup,23,830500.0,03-03-2008,Alm.,4745,7,Villa,175,1965,
+Egeparken 24 5772 Kværndrup,24,103025.0,27-02-2008,Alm.,673,5,Villa,153,2009,
+Toftevænget 3 5772 Kværndrup,3,750000.0,27-02-2008,Alm.,11363,2,Rækkehus,66,1979,0 %
+Vængevej 26 5772 Kværndrup,26,1230000.0,26-02-2008,Fam.,10165,6,Villa,121,1967,
+Kværndrup Vænge 24 5772 Kværndrup,24,819500.0,23-02-2008,Andet,3331,5,Villa,246,1900,
+Odensevej 46 5772 Kværndrup,46,1650000.0,14-02-2008,Alm.,0,6,Stuehus,300,1807,
+Rødhøjsvej 22 5772 Kværndrup,22,92274.0,07-02-2008,Alm.,478,6,Villa,193,2009,
+Kanelvænget 8 5772 Kværndrup,8,800000.0,28-01-2008,Alm.,8988,3,Rækkehus,89,1977,
+Rødhøjsvej 29 5772 Kværndrup,29,103403.0,23-01-2008,Alm.,671,5,Villa,154,2008,
+Filipsgyden 9 5772 Kværndrup,9,1395000.0,15-01-2008,Alm.,5788,8,Villa,241,1877,-3 %
+Rødhøjsvej 3B 5772 Kværndrup,0,695000.0,08-01-2008,Alm.,8910,3,Rækkehus,78,1980,
+Rødhøjsvej 31 5772 Kværndrup,31,99271.0,17-12-2007,Alm.,594,6,Villa,167,2008,
+Trunderup Gade 6 5772 Kværndrup,6,18255000.0,06-12-2007,Fam.,62091,14,Stuehus,294,1856,
+Faaborgvej 50 5772 Kværndrup,50,2050000.0,26-11-2007,Alm.,12893,5,Villa,159,1923,-7 %
+Rødhøjsvej 1B 5772 Kværndrup,0,635000.0,01-11-2007,Alm.,10079,2,Rækkehus,63,1980,0 %
+Rødhøjsvej 65 5772 Kværndrup,65,88425.0,26-10-2007,Alm.,593,5,Villa,149,2008,
+Trunderup Dongsvej 38 5772 Kværndrup,38,2550000.0,24-10-2007,Alm.,16139,5,Villa,158,1997,-5 %
+Stationsvej 9 5772 Kværndrup,9,835000.0,24-10-2007,Alm.,10437,5,Villa,80,1960,
+Stationsvej 5 5772 Kværndrup,5,1250000.0,15-10-2007,Alm.,10869,4,Villa,115,1962,-2 %
+Vængevej 14 5772 Kværndrup,14,835000.0,14-10-2007,Alm.,9823,2,Villa,85,1957,-2 %
+Toftevænget 6 5772 Kværndrup,6,585000.0,03-09-2007,Alm.,8863,2,Rækkehus,66,1977,-2 %
+Søltvej 32 5772 Kværndrup,32,1230000.0,30-08-2007,Alm.,11181,4,Villa,110,1850,-5 %
+Tværvej 1 5772 Kværndrup,1,995000.0,21-08-2007,Alm.,8432,4,Villa,118,1965,0 %
+"Krohaven 1, 1. TH 5772 Kværndrup",0,713365.0,09-08-2007,Alm.,9511,3,Lejlighed,75,2003,
+"Krohaven 1, ST. TV 5772 Kværndrup",0,713364.0,09-08-2007,Alm.,9772,3,Lejlighed,73,2003,
+"Krohaven 1, 1. TV 5772 Kværndrup",0,713365.0,09-08-2007,Alm.,9772,3,Lejlighed,73,2003,
+"Krohaven 2, ST. TH 5772 Kværndrup",0,713364.0,09-08-2007,Alm.,9772,3,Lejlighed,73,2003,
+"Krohaven 2, 1. TV 5772 Kværndrup",0,713365.0,09-08-2007,Alm.,9511,3,Lejlighed,75,2003,
+"Krohaven 2, ST. TV 5772 Kværndrup",0,713365.0,09-08-2007,Alm.,9511,3,Lejlighed,75,2003,
+"Krohaven 2, 1. TH 5772 Kværndrup",0,713365.0,09-08-2007,Alm.,9772,3,Lejlighed,73,2003,
+Muskatvænget 1 5772 Kværndrup,1,1125000.0,06-08-2007,Alm.,9533,3,Villa,118,1975,0 %
+Mågevej 1 5772 Kværndrup,1,750000.0,31-07-2007,Alm.,6944,3,Villa,108,1966,-25 %
+Nyvej 4 5772 Kværndrup,4,700000.0,20-07-2007,Alm.,8333,3,Villa,84,1958,0 %
+Svendborgvej 75 5772 Kværndrup,75,755000.0,19-07-2007,Alm.,7259,3,Villa,104,1946,-5 %
+Gultvedgyden 16 5772 Kværndrup,16,545000.0,19-07-2007,Alm.,4360,6,Villa,125,1877,0 %
+Gl. Nyborgvej 80 5772 Kværndrup,80,277112.0,18-07-2007,Fam.,1565,8,Villa,177,1877,
+Mullerupvej 18 5772 Kværndrup,18,1950000.0,04-07-2007,Alm.,7959,9,Stuehus,245,1907,
+Muskatvænget 14 5772 Kværndrup,14,84088.0,18-06-2007,Alm.,556,5,Villa,151,2007,
+Vængevej 1 5772 Kværndrup,1,975000.0,18-06-2007,Alm.,10051,3,Villa,97,1945,0 %
+Kværndrup Vænge 34 5772 Kværndrup,34,815000.0,05-06-2007,Alm.,8150,4,Villa,100,1968,-4 %
+Rødhøjsvej 55 5772 Kværndrup,55,103430.0,17-05-2007,Alm.,658,5,Villa,157,2008,
+Rødhøjsvej 69 5772 Kværndrup,69,94416.0,13-05-2007,Alm.,660,5,Villa,143,2010,
+Mullerupvej 15 5772 Kværndrup,15,150000.0,14-04-2007,Alm.,1153,4,Villa,130,1877,
+Drosselvej 3 5772 Kværndrup,3,1050000.0,10-04-2007,Alm.,8333,5,Villa,126,1968,0 %
+Trunderup Dongsvej 32 5772 Kværndrup,32,1050000.0,15-03-2007,Alm.,5675,3,Villa,185,1887,
+Bukgårdsvej 3 5772 Kværndrup,3,967271.0,06-03-2007,Alm.,7060,7,Stuehus,137,1926,
+Strarupvej 2 5772 Kværndrup,2,527026.0,02-03-2007,Andet,6427,3,Villa,82,1913,
+Vinkelvej 2 5772 Kværndrup,2,600000.0,02-03-2007,Alm.,5555,4,Villa,108,1935,0 %
+Rødhøjsvej 59 5772 Kværndrup,59,1725000.0,26-02-2007,Alm.,11500,5,Villa,150,2000,-1 %
+Safranvænget 5 5772 Kværndrup,5,1650000.0,19-02-2007,Alm.,8009,10,Villa,206,1976,0 %
+Vængevej 30 5772 Kværndrup,30,925000.0,16-02-2007,Alm.,3902,6,Villa,237,1912,
+Rosmarinvænget 3 5772 Kværndrup,3,950000.0,12-02-2007,Fam.,7307,4,Villa,130,1977,
+Rødhøjsvej 33 5772 Kværndrup,33,94416.0,06-02-2007,Alm.,629,5,Villa,150,2008,
+"Svendborgvej 7, 1 5772 Kværndrup",1,800000.0,01-02-2007,Alm.,9411,3,Villa,85,1910,
+Odensevej 8 5772 Kværndrup,8,1195000.0,18-01-2007,Alm.,8298,5,Villa,144,1947,
+Trunderup Gade 2 5772 Kværndrup,2,589336.0,15-01-2007,Alm.,2946,4,Villa,200,1906,
+Egevænget 5 5772 Kværndrup,5,1053000.0,08-01-2007,Alm.,11084,3,Villa,95,2001,-2 %
+Kværndrup Vænge 10 5772 Kværndrup,10,190000.0,28-12-2006,Auktion,1792,3,Villa,106,1867,
+Vængevej 18 5772 Kværndrup,18,895000.0,21-12-2006,Alm.,9132,4,Villa,98,1954,
+Kværndrup Vænge 26 5772 Kværndrup,26,1395000.0,07-12-2006,Alm.,7971,5,Villa,175,1874,
+Toftevænget 7 5772 Kværndrup,7,495000.0,30-11-2006,Alm.,7500,2,Rækkehus,66,1979,
+Toftevænget 12 5772 Kværndrup,12,532000.0,23-11-2006,Alm.,7940,2,Rækkehus,67,1977,
+Odensevej 4 5772 Kværndrup,4,3212681.0,19-11-2006,Alm.,21561,6,Villa,149,1963,
+Mågevej 11 5772 Kværndrup,11,1450000.0,06-11-2006,Alm.,10820,5,Villa,134,1972,
+Nyvej 14 5772 Kværndrup,14,850000.0,09-10-2006,Alm.,5743,4,Villa,148,1964,
+Gl. Nyborgvej 88 5772 Kværndrup,88,845000.0,06-10-2006,Alm.,5633,7,Villa,150,1936,
+Banepladsen 1 5772 Kværndrup,1,650000.0,29-09-2006,Alm.,5909,3,Villa,110,1947,
+Toftevænget 11 5772 Kværndrup,11,550000.0,28-09-2006,Alm.,8333,2,Rækkehus,66,1979,
+Bøjdenvejen 3 5772 Kværndrup,3,800000.0,20-09-2006,Alm.,5442,7,Villa,147,1877,
+Grønnebjergvej 6 5772 Kværndrup,6,2300000.0,19-09-2006,Alm.,15333,2,Stuehus,150,1926,
+Toftevænget 5 5772 Kværndrup,5,495000.0,14-09-2006,Alm.,7500,2,Rækkehus,66,1979,
+Kalkbrænderivej 9 5772 Kværndrup,9,1200000.0,04-09-2006,Alm.,10714,5,Villa,112,1947,
+Odensevej 26B 5772 Kværndrup,0,1250000.0,30-08-2006,Alm.,6313,4,Villa,198,1960,
+Nyborgvej 29 5772 Kværndrup,29,1350000.0,18-08-2006,Alm.,10546,5,Villa,128,1952,
+Odensevej 23 5772 Kværndrup,23,795000.0,16-08-2006,Alm.,8932,3,Villa,89,1959,
+Mellemvej 4 5772 Kværndrup,4,1200000.0,08-08-2006,Alm.,5714,6,Villa,210,1964,
+Kalkbrænderivej 14 5772 Kværndrup,14,875000.0,14-07-2006,Alm.,9114,3,Villa,96,1951,
+Kanelvænget 12 5772 Kværndrup,12,810000.0,10-07-2006,Alm.,7864,4,Rækkehus,103,1977,
+Trunderupvej 4 5772 Kværndrup,4,1700000.0,08-07-2006,Alm.,7870,5,Villa,216,1902,
+Mullerupvej 9 5772 Kværndrup,9,1150000.0,06-07-2006,Alm.,4713,12,Villa,244,1899,
+Rødhøjsvej 77 5772 Kværndrup,77,118485.0,26-06-2006,Alm.,617,5,Villa,192,2009,
+Filipsgyden 4 5772 Kværndrup,4,375000.0,22-06-2006,Alm.,3947,4,Villa,95,1870,
+Svendborgvej 14 5772 Kværndrup,14,915000.0,20-06-2006,Alm.,9531,4,Villa,96,1934,
+Svendborgvej 46 5772 Kværndrup,46,1100000.0,19-06-2006,Alm.,4867,6,Villa,226,1935,
+Rødhøjsvej 67 5772 Kværndrup,67,89148.0,01-06-2006,Alm.,560,6,Villa,159,2009,
+Laurbærvænget 2 5772 Kværndrup,2,806000.0,19-05-2006,Alm.,6948,4,Villa,116,1975,
+"Nyborgvej 33, 1 5772 Kværndrup",1,2350000.0,03-05-2006,Alm.,15359,6,Villa,153,1943,
+Vestermarken 3 5772 Kværndrup,3,650000.0,24-04-2006,Alm.,6132,3,Villa,106,1926,
+Rosmarinvænget 2 5772 Kværndrup,2,1000000.0,21-04-2006,Alm.,8620,4,Villa,116,1978,
+Svendborgvej 48 5772 Kværndrup,48,1175000.0,10-04-2006,Alm.,7343,4,Villa,160,1887,
+Svendborgvej 53 5772 Kværndrup,53,995000.0,06-04-2006,Alm.,6461,5,Villa,154,1892,
+Kværndrup Vænge 14 5772 Kværndrup,14,585000.0,07-03-2006,Alm.,4301,5,Villa,136,1877,
+Rødhøjsvej 53 5772 Kværndrup,53,103403.0,20-02-2006,Alm.,718,5,Villa,144,2007,
+Mullerupvej 12A 5772 Kværndrup,0,2000000.0,06-02-2006,Alm.,7380,8,Stuehus,271,1859,
+Odensevej 45 5772 Kværndrup,45,385000.0,19-01-2006,Alm.,3774,3,Villa,102,1865,
+Åvang 2 5772 Kværndrup,2,975000.0,16-01-2006,Alm.,6818,5,Villa,143,1890,
+Lærkevej 25 5772 Kværndrup,25,925000.0,13-01-2006,Alm.,6702,5,Villa,138,1969,
+Mullerupvej 11 5772 Kværndrup,11,1075000.0,10-01-2006,Alm.,7962,6,Villa,135,1913,
+Gultvedholm 2 5772 Kværndrup,2,520000.0,23-12-2005,Alm.,3851,5,Villa,135,1961,
+Kværndrup Vænge 23 5772 Kværndrup,23,650000.0,20-12-2005,Alm.,5462,3,Villa,119,1803,
+Svendborgvej 33 5772 Kværndrup,33,355000.0,14-12-2005,Alm.,2958,5,Villa,120,1877,
+Egeparken 37B 5772 Kværndrup,0,715000.0,09-12-2005,Alm.,8511,3,Rækkehus,84,1987,
+Faaborgvej 57 5772 Kværndrup,57,375000.0,28-11-2005,Alm.,2419,4,Villa,155,1907,
+Kalkbrænderivej 12 5772 Kværndrup,12,1595000.0,10-11-2005,Alm.,10031,7,Villa,159,1951,
+Lærkevej 13 5772 Kværndrup,13,840000.0,13-10-2005,Alm.,7500,4,Villa,112,1968,
+Gl. Nyborgvej 68 5772 Kværndrup,68,675000.0,06-10-2005,Alm.,5037,5,Villa,134,1945,
+Laurbærvænget 10 5772 Kværndrup,10,790000.0,22-09-2005,Alm.,6269,4,Villa,126,1977,
+Odensevej 6 5772 Kværndrup,6,510000.0,12-09-2005,Fam.,3863,6,Villa,132,1910,
+Bøjdenvejen 32 5772 Kværndrup,32,9150000.0,08-09-2005,Alm.,64893,5,Stuehus,141,1810,
+Bøjdenvejen 39 5772 Kværndrup,39,244540.0,30-08-2005,Fam.,2243,4,Villa,109,1777,
+Bøjdenvejen 41 5772 Kværndrup,41,725000.0,15-07-2005,Alm.,3033,8,Villa,239,1919,
+Kløvervej 9 5772 Kværndrup,9,1290000.0,08-07-2005,Alm.,8486,3,Villa,152,1975,
+Ternevænget 1 5772 Kværndrup,1,900000.0,04-07-2005,Alm.,6474,5,Villa,139,1972,
+Mullerupvej 6 5772 Kværndrup,6,400000.0,28-06-2005,Alm.,2649,3,Villa,151,1910,
+Kværndrup Vænge 30 5772 Kværndrup,30,970000.0,22-06-2005,Alm.,4449,6,Stuehus,218,1832,
+Laurbærvænget 9 5772 Kværndrup,9,875000.0,08-06-2005,Alm.,7172,3,Villa,122,1976,
+Odensevej 29 5772 Kværndrup,29,995000.0,31-05-2005,Alm.,7896,4,Villa,126,1954,
+Bryggerivej 3 5772 Kværndrup,3,630000.0,12-05-2005,Alm.,6237,3,Villa,101,1930,
+Vængevej 20 5772 Kværndrup,20,665000.0,09-05-2005,Alm.,6456,3,Villa,103,1952,
+Nyvej 3 5772 Kværndrup,3,540000.0,29-04-2005,Alm.,7297,4,Villa,74,1956,
+Nyvej 12 5772 Kværndrup,12,615000.0,28-04-2005,Alm.,6150,3,Villa,100,1964,
+Kløvervej 12 5772 Kværndrup,12,610000.0,16-04-2005,Alm.,4692,3,Villa,130,1970,
+Svendborgvej 30 5772 Kværndrup,30,340000.0,07-04-2005,Alm.,3777,3,Villa,90,1850,
+Kværndrup Vænge 20 5772 Kværndrup,20,1850000.0,18-03-2005,Alm.,10164,6,Villa,182,1998,
+Søltvej 19 5772 Kværndrup,19,1050000.0,14-03-2005,Alm.,4200,4,Stuehus,250,1923,
+Toftevænget 10 5772 Kværndrup,10,420000.0,10-03-2005,Alm.,6363,2,Rækkehus,66,1977,
+Trunderupvej 9 5772 Kværndrup,9,1447247.0,18-02-2005,Alm.,6375,7,Stuehus,227,1902,
+Krusemyntevænget 15 5772 Kværndrup,15,780000.0,15-02-2005,Alm.,6724,4,Villa,116,1978,
+Trunderup Dongsvej 34 5772 Kværndrup,34,1050000.0,09-02-2005,Alm.,7291,3,Villa,144,1927,
+Nyborgvej 15 5772 Kværndrup,15,665000.0,04-02-2005,Alm.,5833,4,Villa,114,1954,
+Trunderup Gade 20 5772 Kværndrup,20,1000000.0,02-02-2005,Alm.,3875,10,Stuehus,258,1906,
+Gl. Nyborgvej 86 5772 Kværndrup,86,825000.0,31-01-2005,Alm.,6156,4,Villa,134,1937,
+Timianvænget 4 5772 Kværndrup,4,408728.0,05-01-2005,Andet,2654,5,Villa,154,1980,
+Svendborgvej 56 5772 Kværndrup,56,735000.0,18-11-2004,Alm.,6562,5,Villa,112,1939,
+Filipsgyden 8 5772 Kværndrup,8,1030000.0,13-11-2004,Alm.,8046,3,Stuehus,128,1877,
+Nyborgvej 11 5772 Kværndrup,11,448000.0,28-10-2004,Alm.,4226,3,Villa,106,1962,
+Lærkevej 29 5772 Kværndrup,29,725000.0,25-10-2004,Alm.,5000,4,Villa,145,1968,
+Egeparken 41A 5772 Kværndrup,0,698000.0,17-09-2004,Alm.,8309,3,Rækkehus,84,1987,
+Mullerupvej 20 5772 Kværndrup,20,610000.0,14-09-2004,Alm.,3407,7,Villa,179,1890,
+"Nyborgvej 3, 1 5772 Kværndrup",1,550000.0,27-08-2004,Alm.,7333,3,Villa,75,1946,
+Rødhøjsvej 17A 5772 Kværndrup,0,540000.0,28-07-2004,Alm.,6835,3,Rækkehus,79,1980,
+Strarupvej 13 5772 Kværndrup,13,550000.0,12-07-2004,Alm.,3333,7,Villa,165,1870,
+Timianvænget 11 5772 Kværndrup,11,1040000.0,02-07-2004,Alm.,5842,6,Villa,178,1977,
+Kohavegårdsvej 8 5772 Kværndrup,8,8690000.0,28-06-2004,Andet,71229,6,Villa,122,1951,
+Lærkevej 8 5772 Kværndrup,8,645000.0,17-06-2004,Alm.,4134,6,Villa,156,1965,
+Egeparken 43B 5772 Kværndrup,0,680000.0,09-06-2004,Alm.,8095,3,Rækkehus,84,1987,
+Svendborgvej 52 5772 Kværndrup,52,748000.0,19-04-2004,Alm.,4857,6,Villa,154,1955,
+Odensevej 24 5772 Kværndrup,24,710000.0,15-03-2004,Alm.,5071,8,Villa,140,1915,
+Trunderupvej 2 5772 Kværndrup,2,450000.0,01-03-2004,Fam.,2830,5,Villa,159,1897,
+Egevænget 4 5772 Kværndrup,4,833000.0,16-02-2004,Alm.,8414,3,Villa,99,2001,
+Odensevej 30 5772 Kværndrup,30,675000.0,09-02-2004,Alm.,0,7,Villa,183,1904,
+Kanelvænget 16 5772 Kværndrup,16,613000.0,08-02-2004,Alm.,5951,4,Rækkehus,103,1977,
+Rødhøjsvej 11A 5772 Kværndrup,0,550000.0,30-01-2004,Alm.,5978,4,Rækkehus,92,1981,
+Krusemyntevænget 10 5772 Kværndrup,10,850000.0,27-01-2004,Alm.,6115,5,Villa,139,1975,
+Filipsgyden 5 5772 Kværndrup,5,1085000.0,19-12-2003,Alm.,0,4,Villa,170,1909,
+Egevænget 7 5772 Kværndrup,7,870000.0,08-12-2003,Alm.,8787,3,Villa,99,2001,
+Lærkevej 22 5772 Kværndrup,22,450000.0,26-11-2003,Andet,3358,5,Villa,134,1970,
+Odensevej 56 5772 Kværndrup,56,495000.0,21-11-2003,Alm.,3173,6,Villa,156,1800,
+Trunderup Dongsvej 36 5772 Kværndrup,36,550000.0,10-10-2003,Fam.,3273,5,Stuehus,168,1927,
+Strarupvej 15 5772 Kværndrup,15,770000.0,04-10-2003,Alm.,4074,9,Stuehus,189,1890,
+"Svendborgvej 17, ST. TH 5772 Kværndrup",0,800539.0,10-09-2003,Alm.,5886,6,Lejlighed,136,1900,
+Spurvevej 1 5772 Kværndrup,1,885000.0,26-08-2003,Alm.,6604,6,Villa,134,1973,
+Grønnebjergvej 4 5772 Kværndrup,4,595000.0,27-06-2003,Alm.,4131,4,Villa,144,1700,
+Mågevej 2 5772 Kværndrup,2,685000.0,19-06-2003,Alm.,3870,4,Villa,177,1966,
+Laurbærvænget 4 5772 Kværndrup,4,760000.0,28-05-2003,Alm.,6551,4,Villa,116,1975,
+Toftevænget 4 5772 Kværndrup,4,436182.0,20-05-2003,Alm.,6608,2,Rækkehus,66,1977,
+Trunderupvej 3 5772 Kværndrup,3,495000.0,09-05-2003,Alm.,0,4,Villa,172,1794,
+Drosselvej 1 5772 Kværndrup,1,610000.0,06-04-2003,Alm.,3567,6,Villa,171,1962,
+Egeparken 41B 5772 Kværndrup,0,600000.0,31-03-2003,Alm.,7142,3,Rækkehus,84,1987,
+Engvej 8 5772 Kværndrup,8,760000.0,01-03-2003,Fam.,4750,5,Villa,160,1970,
+Odensevej 39 5772 Kværndrup,39,490000.0,11-02-2003,Alm.,3006,5,Villa,163,1890,
+Rødhøjsvej 17C 5772 Kværndrup,0,570000.0,21-01-2003,Alm.,7215,3,Rækkehus,79,1980,
+Trunderup Dongsvej 4 5772 Kværndrup,4,885000.0,03-12-2002,Alm.,3277,6,Villa,270,1899,
+Sundsgårdsvej 17 5772 Kværndrup,17,800000.0,28-11-2002,Alm.,0,6,Stuehus,128,1900,
+Rødhøjsvej 1A 5772 Kværndrup,0,500000.0,17-11-2002,Alm.,7692,2,Rækkehus,65,1980,
+Kalkbrænderivej 1 5772 Kværndrup,1,580000.0,05-11-2002,Alm.,0,6,Villa,146,1904,
+Trunderup Dongsvej 6 5772 Kværndrup,6,255000.0,04-11-2002,Auktion,1385,4,Villa,184,1904,
+Rødhøjsvej 17B 5772 Kværndrup,0,500000.0,28-10-2002,Alm.,6410,3,Rækkehus,78,1980,
+Sundsgårdsvej 21 5772 Kværndrup,21,182750.0,16-10-2002,Alm.,1473,4,Villa,124,1904,
+Bøjdenvejen 23 5772 Kværndrup,23,300000.0,11-10-2002,Alm.,2830,4,Villa,106,1877,
+Rødhøjsvej 2 5772 Kværndrup,2,810000.0,10-09-2002,Alm.,7500,4,Villa,108,1980,
+Nyborgvej 17B 5772 Kværndrup,0,2100000.0,25-08-2002,Alm.,9502,6,Villa,221,1973,
+Egeparken 37A 5772 Kværndrup,0,680000.0,10-08-2002,Alm.,8095,3,Rækkehus,84,1987,
+Vængevej 22 5772 Kværndrup,22,705000.0,27-07-2002,Alm.,5222,5,Villa,135,1963,
+Krusemyntevænget 5 5772 Kværndrup,5,885000.0,25-07-2002,Alm.,7195,5,Villa,123,1975,
+Vængevej 16 5772 Kværndrup,16,642000.0,08-07-2002,Alm.,6618,4,Villa,97,1955,
+Rødhøjsvej 20 5772 Kværndrup,20,995000.0,15-06-2002,Alm.,6909,4,Villa,144,1979,
+Kværndrup Vænge 7 5772 Kværndrup,7,450000.0,14-06-2002,Alm.,3813,5,Villa,118,1933,
+Hundtoftevej 5 5772 Kværndrup,5,200000.0,03-06-2002,Alm.,2173,4,Villa,92,1926,
+Trunderup Dongsvej 20 5772 Kværndrup,20,6012000.0,08-04-2002,Fam.,25050,8,Stuehus,240,1918,
+Ternevænget 5 5772 Kværndrup,5,620000.0,05-04-2002,Alm.,5391,3,Villa,115,1972,
+Krusemyntevænget 14 5772 Kværndrup,14,926000.0,21-03-2002,Alm.,6256,5,Villa,148,1974,
+Bøjdenvejen 30 5772 Kværndrup,30,2124935.0,21-03-2002,Alm.,7327,8,Stuehus,290,1827,
+Nyvej 10 5772 Kværndrup,10,775000.0,18-01-2002,Alm.,5871,5,Villa,132,1967,
+Kværndrup Vænge 1 5772 Kværndrup,1,250000.0,31-12-2001,Alm.,3571,4,Villa,70,1912,
+Kværndrup Vænge 22 5772 Kværndrup,22,285000.0,26-11-2001,Alm.,2878,2,Villa,99,1955,
+Svendborgvej 65 5772 Kværndrup,65,1215000.0,26-11-2001,Alm.,6361,6,Villa,191,1939,
+Drosselvej 5 5772 Kværndrup,5,649076.0,04-11-2001,Alm.,5234,5,Villa,124,1971,
+Filipsgyden 2 5772 Kværndrup,2,580000.0,28-10-2001,Alm.,4957,4,Villa,117,1827,
+Rødhøjsvej 6 5772 Kværndrup,6,950000.0,17-10-2001,Alm.,7421,4,Villa,128,1979,
+Svendborgvej 3 5772 Kværndrup,3,700000.0,08-10-2001,Alm.,4430,9,Villa,158,1912,
+Muskatvænget 6 5772 Kværndrup,6,870000.0,15-08-2001,Alm.,7250,4,Villa,120,1978,
+Egeparken 39B 5772 Kværndrup,0,617000.0,03-08-2001,Alm.,7345,3,Rækkehus,84,1987,
+Rødhøjsvej 43 5772 Kværndrup,43,97785.0,30-07-2001,Alm.,769,4,Villa,127,2001,
+Rødhøjsvej 11C 5772 Kværndrup,0,610000.0,24-07-2001,Alm.,6630,3,Rækkehus,92,1981,
+Mågevej 29 5772 Kværndrup,29,889678.0,17-07-2001,Alm.,7005,4,Villa,127,1975,
+Lærkevej 21 5772 Kværndrup,21,620000.0,21-06-2001,Alm.,5740,5,Villa,108,1966,
+Svendborgvej 13 5772 Kværndrup,13,645000.0,11-06-2001,Alm.,5243,4,Villa,123,1902,
+Nyvej 6A 5772 Kværndrup,0,550000.0,06-04-2001,Alm.,5612,3,Villa,98,1967,
+Gl. Nyborgvej 71A 5772 Kværndrup,0,1910000.0,05-04-2001,Alm.,10670,4,Villa,179,2000,
+Nyborgvej 37 5772 Kværndrup,37,1075255.0,12-03-2001,Alm.,5514,7,Villa,195,1954,
+Ternevænget 8 5772 Kværndrup,8,475000.0,21-02-2001,Andet,3417,5,Villa,139,1974,
+Mejsevænget 11 5772 Kværndrup,11,764335.0,08-02-2001,Alm.,6646,4,Villa,115,1973,
+Kirkevej 11 5772 Kværndrup,11,635701.0,11-01-2001,Alm.,6985,4,Villa,91,1880,
+Vestermarken 2 5772 Kværndrup,2,1300000.0,24-11-2000,Alm.,4642,7,Stuehus,280,1925,
+Filipsgyden 6 5772 Kværndrup,6,280500.0,20-11-2000,Fam.,3462,4,Villa,81,1777,
+Toftevænget 8 5772 Kværndrup,8,387073.0,30-10-2000,Alm.,5864,2,Rækkehus,66,1977,
+Gultvedgyden 2 5772 Kværndrup,2,705000.0,29-09-2000,Alm.,0,5,Villa,164,1897,
+Odensevej 48 5772 Kværndrup,48,550000.0,28-09-2000,Fam.,2631,5,Villa,209,1925,
+Bøjdenvejen 47 5772 Kværndrup,47,465000.0,27-09-2000,Alm.,4843,3,Villa,96,1900,
+Faaborgvej 56 5772 Kværndrup,56,200000.0,01-09-2000,Alm.,1600,5,Villa,125,1860,
+Rødhøjsvej 5B 5772 Kværndrup,0,600000.0,31-08-2000,Alm.,5825,3,Rækkehus,103,1980,
+Trunderup Gade 14 5772 Kværndrup,14,183358.0,21-08-2000,Alm.,783,6,Stuehus,234,1870,
+Trunderup Dongsvej 21 5772 Kværndrup,21,785269.0,07-08-2000,Fam.,3849,5,Villa,204,1906,
+Trunderup Dongsvej 28 5772 Kværndrup,28,1250000.0,07-08-2000,Alm.,5144,6,Stuehus,243,1912,
+Sønderhave 3 5772 Kværndrup,3,502000.0,22-06-2000,Alm.,3746,6,Villa,134,1867,
+Hassellundsvej 4A 5772 Kværndrup,0,834627.0,31-05-2000,Alm.,4824,5,Villa,173,1875,
+Tværvej 2 5772 Kværndrup,2,539623.0,25-04-2000,Alm.,5188,4,Villa,104,1961,
+Kalkbrænderivej 3 5772 Kværndrup,3,625000.0,18-04-2000,Alm.,5252,4,Villa,119,1948,
+Stationsvej 12 5772 Kværndrup,12,535000.0,15-04-2000,Alm.,5095,4,Villa,105,1963,
+Rødhøjsvej 7 5772 Kværndrup,7,385000.0,14-04-2000,Andet,3080,4,Villa,125,1980,
+Faaborgvej 67 5772 Kværndrup,67,413977.0,08-04-2000,Alm.,2797,4,Villa,148,1827,
+Lærkevej 2 5772 Kværndrup,2,940000.0,10-03-2000,Alm.,5595,6,Villa,168,1969,
+Gl. Nyborgvej 61 5772 Kværndrup,61,1000000.0,08-02-2000,Alm.,5235,7,Stuehus,191,1917,
+Grønnebjergvej 8 5772 Kværndrup,8,894783.0,04-02-2000,Alm.,5083,5,Stuehus,176,1900,
+Muskatvænget 2 5772 Kværndrup,2,380000.0,11-01-2000,Alm.,2714,4,Villa,140,1978,
+Trunderup Dongsvej 10 5772 Kværndrup,10,580000.0,06-01-2000,Fam.,3866,4,Villa,150,1962,
+Safranvænget 2 5772 Kværndrup,2,685000.0,10-09-1999,Alm.,5905,4,Villa,116,1976,
+Dongsvænget 4 5772 Kværndrup,4,850000.0,06-09-1999,Alm.,3935,6,Villa,216,1902,
+Faaborgvej 60 5772 Kværndrup,60,900000.0,09-08-1999,Alm.,5521,5,Stuehus,163,1877,
+Nyborgvej 10 5772 Kværndrup,10,1000000.0,03-08-1999,Alm.,6578,5,Villa,152,1926,
+Gl. Nyborgvej 44 5772 Kværndrup,44,480000.0,17-06-1999,Alm.,3934,5,Villa,122,1905,
+Kværndrup Vænge 12 5772 Kværndrup,12,845939.0,14-06-1999,Alm.,4947,6,Stuehus,171,1911,
+Kværndrup Vænge 28 5772 Kværndrup,28,875000.0,11-06-1999,Alm.,0,6,Villa,187,1887,
+Nyvej 15 5772 Kværndrup,15,1625844.0,22-05-1999,Alm.,11369,5,Villa,143,1975,
+Kanelvænget 6 5772 Kværndrup,6,640000.0,18-05-1999,Alm.,6213,4,Rækkehus,103,1977,
+Faaborgvej 62 5772 Kværndrup,62,5037500.0,12-05-1999,Fam.,20150,9,Stuehus,250,1907,
+Rødhøjsvej 39 5772 Kværndrup,39,62850.0,10-05-1999,Alm.,448,4,Villa,140,1999,
+Mågevej 6 5772 Kværndrup,6,790000.0,10-05-1999,Alm.,6475,5,Villa,122,1974,
+Stævningen 2A 5772 Kværndrup,0,350000.0,09-05-1999,Alm.,3070,4,Villa,114,1926,
+Gl. Nyborgvej 58 5772 Kværndrup,58,565000.0,20-04-1999,Alm.,5885,3,Villa,96,1967,
+Rødhøjsvej 9 5772 Kværndrup,9,54750.0,29-03-1999,Alm.,335,6,Villa,163,1999,
+Timianvænget 5 5772 Kværndrup,5,855000.0,10-03-1999,Alm.,5937,4,Villa,144,1977,
+Faaborgvej 52 5772 Kværndrup,52,1025000.0,05-03-1999,Fam.,8836,4,Stuehus,116,1890,
+Kirkevej 5 5772 Kværndrup,5,405000.0,05-03-1999,Alm.,3894,4,Villa,104,1949,
+Nyborgvej 17 5772 Kværndrup,17,830000.0,28-02-1999,Alm.,6102,4,Villa,136,1969,
+Lærkevej 31 5772 Kværndrup,31,660208.0,24-02-1999,Alm.,5547,4,Villa,119,1969,
+Svendborgvej 69 5772 Kværndrup,69,888000.0,20-02-1999,Alm.,3877,7,Villa,229,1900,
+Laurbærvænget 8 5772 Kværndrup,8,780466.0,03-02-1999,Alm.,7727,4,Villa,101,1975,
+Trunderup Gade 10 5772 Kværndrup,10,1100000.0,07-12-1998,Alm.,2981,9,Villa,369,1977,
+"Svendborgvej 1, 1 5772 Kværndrup",1,1100000.0,30-10-1998,Alm.,7382,6,Villa,149,1900,
+Grønnebjergvej 5 5772 Kværndrup,5,1723078.0,08-10-1998,Alm.,8166,9,Stuehus,211,1927,
+Gl. Nyborgvej 75 5772 Kværndrup,75,689972.0,24-09-1998,Alm.,4339,4,Villa,159,1850,
+Rosenvænget 2 5772 Kværndrup,2,621044.0,21-09-1998,Alm.,5175,4,Villa,120,1976,
+Gl. Nyborgvej 89 5772 Kværndrup,89,616590.0,17-09-1998,Alm.,3902,6,Villa,158,1906,
+Rødhøjsvej 3C 5772 Kværndrup,0,462760.0,07-08-1998,Alm.,5784,3,Rækkehus,80,1980,
+Bøjdenvejen 25 5772 Kværndrup,25,550000.0,29-07-1998,Alm.,5339,2,Villa,103,1914,
+Nyvej 2 5772 Kværndrup,2,475000.0,28-05-1998,Alm.,4702,4,Villa,101,1953,
+Mågevej 13 5772 Kværndrup,13,892420.0,13-05-1998,Alm.,4001,7,Villa,223,1973,
+Krusemyntevænget 3 5772 Kværndrup,3,600000.0,07-04-1998,Alm.,4724,4,Villa,127,1975,
+Filipsgyden 8A 5772 Kværndrup,0,824637.0,26-02-1998,Alm.,4581,5,Villa,180,1850,
+Bukgårdsvej 6 5772 Kværndrup,6,730000.0,22-01-1998,Fam.,5140,4,Stuehus,142,1920,
+Rødhøjsvej 49 5772 Kværndrup,49,52200.0,12-01-1998,Alm.,365,5,Villa,143,1998,
+Bryggerivej 2 5772 Kværndrup,2,583483.0,07-01-1998,Alm.,5256,5,Villa,111,1917,
+Bøjdenvejen 53 5772 Kværndrup,53,420000.0,11-12-1997,Alm.,5060,3,Villa,83,1950,
+Bøjdenvejen 6 5772 Kværndrup,6,625000.0,09-12-1997,Alm.,3955,6,Villa,158,1895,
+Odensevej 25 5772 Kværndrup,25,393000.0,30-09-1997,Fam.,3605,6,Villa,109,1944,
+Hassellundsvej 4 5772 Kværndrup,4,1032756.0,01-09-1997,Alm.,3148,8,Villa,328,1870,
+Glasmestervej 5 5772 Kværndrup,5,565000.0,20-08-1997,Alm.,4346,4,Villa,130,1985,
+Rødhøjsvej 73 5772 Kværndrup,73,67400.0,11-08-1997,Alm.,398,6,Villa,169,1998,
+Mullerupvej 23 5772 Kværndrup,23,550000.0,10-08-1997,Alm.,5288,3,Villa,104,1870,
+Hulvej 5 5772 Kværndrup,5,408000.0,08-08-1997,Alm.,0,6,Villa,208,1897,
+Kværndrup Vænge 9 5772 Kværndrup,9,510911.0,04-07-1997,Alm.,3406,5,Villa,150,1888,
+Svendborgvej 34A 5772 Kværndrup,0,170000.0,04-07-1997,Alm.,0,5,Rækkehus,146,1800,
+Odensevej 31 5772 Kværndrup,31,505937.0,27-06-1997,Alm.,6324,3,Villa,80,1956,
+Odensevej 14 5772 Kværndrup,14,402950.0,25-06-1997,Alm.,4332,3,Villa,93,1934,
+Nyborgvej 12 5772 Kværndrup,12,468000.0,29-05-1997,Alm.,3099,6,Villa,151,1923,
+Spurvevej 12 5772 Kværndrup,12,720000.0,27-05-1997,Alm.,5714,5,Villa,126,1972,
+Paprikavænget 8 5772 Kværndrup,8,898000.0,09-05-1997,Alm.,6236,5,Villa,144,1976,
+Kirkevej 1 5772 Kværndrup,1,547000.0,06-05-1997,Alm.,3907,4,Villa,140,1899,
+Vængevej 12 5772 Kværndrup,12,410000.0,21-04-1997,Alm.,4315,8,Villa,95,1958,
+Odensevej 10 5772 Kværndrup,10,527000.0,17-04-1997,Alm.,3585,6,Villa,147,1907,
+Mågevej 15 5772 Kværndrup,15,875000.0,03-04-1997,Alm.,5537,6,Villa,158,1972,
+Kohavegårdsvej 6 5772 Kværndrup,6,800000.0,14-02-1997,Alm.,3418,6,Stuehus,234,1903,
+Muskatvænget 15 5772 Kværndrup,15,670000.0,30-01-1997,Alm.,0,4,Villa,168,1978,
+Mullerupvej 21 5772 Kværndrup,21,65000.0,10-12-1996,Alm.,248,8,Stuehus,262,2009,
+Rødhøjsvej 45 5772 Kværndrup,45,48000.0,06-11-1996,Alm.,228,7,Villa,210,1997,
+Mullerupvej 17 5772 Kværndrup,17,950000.0,24-10-1996,Alm.,6089,5,Villa,156,1964,
+Faaborgvej 48 5772 Kværndrup,48,855000.0,15-10-1996,Alm.,3097,6,Villa,276,1909,
+Strarupvej 12 5772 Kværndrup,12,790000.0,21-09-1996,Alm.,0,7,Villa,205,1850,
+Smedevej 4 5772 Kværndrup,4,225000.0,29-07-1996,Alm.,1875,4,Villa,120,1981,
+Kalkbrænderivej 13 5772 Kværndrup,13,400000.0,30-06-1996,Alm.,4761,5,Villa,84,1954,
+Svendborgvej 42 5772 Kværndrup,42,410000.0,07-06-1996,Alm.,3280,5,Villa,125,1911,
+Lærkevej 23 5772 Kværndrup,23,391000.0,06-06-1996,Fam.,2384,5,Villa,164,1970,
+Nyborgvej 5 5772 Kværndrup,5,523000.0,17-05-1996,Alm.,3268,6,Villa,160,1939,
+Mullerupvej 5 5772 Kværndrup,5,862600.0,01-05-1996,Alm.,3833,6,Villa,225,1928,
+Stationsvej 10 5772 Kværndrup,10,490000.0,01-05-1996,Alm.,4711,5,Villa,104,1962,
+Kværndrup Vænge 15 5772 Kværndrup,15,415000.0,30-03-1996,Alm.,3242,4,Villa,128,1907,
+Gultvedgyden 6 5772 Kværndrup,6,1562676.0,27-03-1996,Alm.,5123,10,Stuehus,305,1877,
+Faaborgvej 71 5772 Kværndrup,71,615000.0,11-03-1996,Alm.,0,6,Villa,185,1880,
+Kalkbrænderivej 7 5772 Kværndrup,7,510000.0,17-01-1996,Alm.,4473,5,Villa,114,1946,
+Odensevej 3 5772 Kværndrup,3,75000.0,20-12-1995,Alm.,520,5,Villa,144,1997,
+Nyborgvej 8 5772 Kværndrup,8,442000.0,12-12-1995,Fam.,2946,4,Villa,150,1935,
+Mullerupvej 4 5772 Kværndrup,4,60485.0,08-12-1995,Alm.,0,6,Stuehus,162,1926,
+Bøgegyden 2 5772 Kværndrup,2,415000.0,06-12-1995,Alm.,3120,5,Stuehus,133,1870,
+Mullerupvej 10 5772 Kværndrup,10,362500.0,04-12-1995,Alm.,4588,3,Villa,79,1957,
+Nyvej 6 5772 Kværndrup,6,420000.0,02-12-1995,Alm.,3962,3,Villa,106,1962,
+Hulvej 3 5772 Kværndrup,3,532000.0,18-10-1995,Alm.,0,6,Villa,197,1827,
+Nyborgvej 14 5772 Kværndrup,14,370000.0,24-09-1995,Fam.,2371,5,Villa,156,1939,
+Gultvedgyden 14 5772 Kværndrup,14,535500.0,12-09-1995,Fam.,5149,3,Stuehus,104,1969,
+Bryggerivej 4 5772 Kværndrup,4,609000.0,01-09-1995,Alm.,3346,5,Villa,182,1914,
+Odensevej 15 5772 Kværndrup,15,400000.0,07-08-1995,Alm.,0,3,Villa,78,1937,
+Svendborgvej 43 5772 Kværndrup,43,595000.0,12-07-1995,Alm.,3115,8,Villa,191,1953,
+Møllevej 1 5772 Kværndrup,1,460000.0,03-07-1995,Fam.,2857,5,Stuehus,161,1891,
+Grønnebjergvej 1 5772 Kværndrup,1,758000.0,03-07-1995,Alm.,2283,10,Villa,332,1930,
+Odensevej 9 5772 Kværndrup,9,331747.0,26-06-1995,Andet,0,7,Villa,155,1935,
+Industrivej 6 5772 Kværndrup,6,865000.0,01-06-1995,Alm.,4552,6,Villa,190,1970,
+Kløvervej 1 5772 Kværndrup,1,500000.0,15-05-1995,Alm.,4201,4,Villa,119,1972,
+Mejsevænget 9 5772 Kværndrup,9,540743.0,19-04-1995,Alm.,2907,5,Villa,186,1973,
+Gultvedgyden 3 5772 Kværndrup,3,815892.0,29-03-1995,Fam.,3224,7,Stuehus,253,1850,
+Sønderhave 1 5772 Kværndrup,1,460000.0,20-03-1995,Alm.,0,5,Villa,189,1957,
+Bøjdenvejen 9 5772 Kværndrup,9,417000.0,16-03-1995,Alm.,2254,8,Villa,185,1909,
+Muskatvænget 7 5772 Kværndrup,7,602447.0,14-03-1995,Alm.,4154,6,Villa,145,1978,
+Svendborgvej 55 5772 Kværndrup,55,350000.0,02-02-1995,Alm.,2671,5,Villa,131,1902,
+Krumstrupvej 20 5772 Kværndrup,20,761000.0,19-01-1995,Alm.,3443,9,Villa,221,1700,
+Nyvej 5 5772 Kværndrup,5,600000.0,21-12-1994,Alm.,4000,7,Villa,150,1958,
+Nyborgvej 27 5772 Kværndrup,27,490000.0,16-12-1994,Andet,2951,6,Villa,166,1940,
+Kløvervej 10 5772 Kværndrup,10,500000.0,02-12-1994,Alm.,3787,5,Villa,132,1972,
+Vinkelvej 1 5772 Kværndrup,1,200000.0,22-11-1994,Alm.,2222,4,Villa,90,1940,
+Svendborgvej 34B 5772 Kværndrup,0,540000.0,21-11-1994,Alm.,0,10,Rækkehus,333,1800,
+Stationsvej 1 5772 Kværndrup,1,360000.0,11-07-1994,Alm.,0,5,Villa,143,1959,
+Spurvevej 6 5772 Kværndrup,6,450000.0,08-07-1994,Alm.,4017,3,Villa,112,1973,
+Safranvænget 6 5772 Kværndrup,6,260000.0,06-07-1994,Alm.,2222,4,Villa,117,1977,
+Kalkbrænderivej 2 5772 Kværndrup,2,355000.0,14-06-1994,Alm.,0,4,Villa,132,1951,
+Engvej 6 5772 Kværndrup,6,460000.0,17-05-1994,Alm.,3650,4,Villa,126,1972,
+Dongsvænget 1 5772 Kværndrup,1,790000.0,06-05-1994,Alm.,5374,6,Stuehus,147,1939,
+Glasmestervej 7 5772 Kværndrup,7,535500.0,22-04-1994,Fam.,3500,5,Villa,153,1994,
+Gl. Nyborgvej 79 5772 Kværndrup,79,746000.0,24-03-1994,Alm.,0,8,Villa,213,1987,
+Gl. Nyborgvej 50 5772 Kværndrup,50,625000.0,21-03-1994,Auktion,0,7,Villa,212,1883,
+Laurbærvænget 5 5772 Kværndrup,5,87500.0,14-03-1994,Alm.,560,5,Villa,156,1994,
+Hulvej 1 5772 Kværndrup,1,156060.0,11-03-1994,Fam.,2026,3,Villa,77,1827,
+Vestermarken 1 5772 Kværndrup,1,181161.0,14-12-1993,Alm.,1776,3,Villa,102,1924,
+Kalkbrænderivej 5 5772 Kværndrup,5,218100.0,20-10-1993,Alm.,0,4,Villa,122,1945,
+Rødhøjsvej 14 5772 Kværndrup,14,700000.0,26-08-1993,Alm.,4827,4,Villa,145,1980,
+Toftevej 3 5772 Kværndrup,3,300000.0,25-08-1993,Alm.,1875,4,Villa,160,1923,
+Stationsvej 7 5772 Kværndrup,7,460000.0,23-08-1993,Alm.,3309,5,Villa,139,1960,
+Gl. Nyborgvej 92 5772 Kværndrup,92,455000.0,12-08-1993,Alm.,0,5,Villa,217,1910,
+Lærkevej 15 5772 Kværndrup,15,470000.0,31-07-1993,Alm.,4351,4,Villa,108,1962,
+Svendborgvej 44 5772 Kværndrup,44,277000.0,29-07-1993,Fam.,1497,4,Villa,185,1969,
+Lærkevej 4 5772 Kværndrup,4,650000.0,03-07-1993,Alm.,3823,6,Villa,170,1967,
+Ternevænget 11 5772 Kværndrup,11,540000.0,30-06-1993,Alm.,4320,4,Villa,125,1972,
+Ternevænget 7 5772 Kværndrup,7,633000.0,09-06-1993,Alm.,4137,5,Villa,153,1973,
+Gultvedgyden 10 5772 Kværndrup,10,920000.0,01-06-1993,Alm.,5935,7,Stuehus,155,1914,
+Kirkevej 15 5772 Kværndrup,15,770000.0,25-03-1993,Andet,4782,6,Villa,161,1928,
+Krusemyntevænget 9 5772 Kværndrup,9,650000.0,11-03-1993,Alm.,4513,5,Villa,144,1976,
+Svendborgvej 54 5772 Kværndrup,54,375000.0,28-02-1993,Alm.,2952,4,Villa,127,1939,
+Rødhøjsvej 61 5772 Kværndrup,61,491163.0,10-12-1992,Alm.,0,5,Villa,148,1988,
+Kværndrup Vænge 4 5772 Kværndrup,4,230000.0,05-11-1992,Alm.,2613,3,Villa,88,1871,
+Odensevej 54 5772 Kværndrup,54,450000.0,01-10-1992,Alm.,3191,4,Villa,141,1857,
+Kirkevej 4 5772 Kværndrup,4,392000.0,03-08-1992,Alm.,3469,6,Villa,113,1910,
+Nyborgvej 25 5772 Kværndrup,25,715000.0,22-07-1992,Alm.,0,7,Villa,160,1939,
+Paprikavænget 7 5772 Kværndrup,7,611723.0,04-05-1992,Alm.,3972,4,Villa,154,1978,
+Rosmarinvænget 4 5772 Kværndrup,4,532110.0,29-04-1992,Alm.,4434,4,Villa,120,1977,
+Hassellundsvej 2 5772 Kværndrup,2,250000.0,12-03-1992,Alm.,3424,3,Villa,73,1900,
+Hassellundsvej 1 5772 Kværndrup,1,340000.0,24-02-1992,Alm.,0,4,Villa,175,1910,
+Muskatvænget 5 5772 Kværndrup,5,375000.0,30-01-1992,Alm.,3205,4,Villa,117,1975,
+Mullerupvej 14 5772 Kværndrup,14,672000.0,13-01-1992,Alm.,0,4,Villa,200,1864,

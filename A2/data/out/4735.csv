@@ -1,0 +1,656 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Sandvigvej 3B 4735 Mern,0,820000.0,05-05-2017,Alm.,7192,4,Villa,114,1981,-8 %
+Mejsekrogen 4 4735 Mern,4,275000.0,03-05-2017,Fam.,4230,4,Sommerhus,65,1961,
+Lærkevej 1 4735 Mern,1,945000.0,26-04-2017,Alm.,14318,3,Sommerhus,66,1973,
+Strandhusene 4 4735 Mern,4,375000.0,23-03-2017,Alm.,9146,3,Sommerhus,41,1962,12 %
+Drosselbakken 9 4735 Mern,9,740000.0,18-03-2017,Alm.,10724,4,Sommerhus,69,1972,
+Drosselbakken 12 4735 Mern,12,660000.0,17-03-2017,Alm.,8148,5,Sommerhus,81,1968,-5 %
+Engvej 6 4735 Mern,6,950000.0,17-03-2017,Alm.,8050,3,Villa,118,1890,6 %
+Ørslevvej 255 4735 Mern,255,26800000.0,09-03-2017,Fam.,206153,6,Stuehus,130,1940,
+Skalsbyvej 6 4735 Mern,6,2400000.0,02-02-2017,Alm.,13114,5,Villa,183,1938,-11 %
+Blåbærvej 6 4735 Mern,6,455000.0,30-01-2017,Alm.,3421,5,Villa,133,1978,
+Hulvejen 2A 4735 Mern,0,895000.0,27-01-2017,Alm.,8689,5,Villa,103,1920,0 %
+Fyrrekrogen 2 4735 Mern,2,1140000.0,13-01-2017,Alm.,11400,5,Sommerhus,100,1970,-5 %
+Røstofte Skovvej 8 4735 Mern,8,800000.0,11-01-2017,Alm.,3587,7,Villa,223,1850,
+Banevej 26 4735 Mern,26,535500.0,04-01-2017,Fam.,4183,4,Villa,128,1965,
+Lekkendevej 6 4735 Mern,6,2400000.0,21-12-2016,Alm.,10762,5,Villa,223,2004,
+Søndervej 50 4735 Mern,50,841500.0,09-12-2016,Fam.,5464,5,Villa,154,2006,
+Lilliendalsvej 33B 4735 Mern,0,605000.0,30-11-2016,Alm.,4033,6,Villa,150,1897,-13 %
+Nordvej 22 4735 Mern,22,330000.0,25-11-2016,Alm.,7173,2,Sommerhus,46,1961,-17 %
+Spurvekrogen 6 4735 Mern,6,695000.0,02-11-2016,Auktion,6435,4,Villa,108,2010,
+Morelvej 21 4735 Mern,21,1125000.0,31-10-2016,Fam.,5921,5,Villa,190,1971,
+Strandhusene 18 4735 Mern,18,720000.0,19-10-2016,Alm.,16000,3,Sommerhus,45,1962,
+Ballevej 16 4735 Mern,16,1215000.0,14-10-2016,Alm.,5704,5,Stuehus,213,1920,-6 %
+Vandtårnsvej 1 4735 Mern,1,247688.0,14-10-2016,Fam.,2293,4,Villa,108,1967,-50 %
+Røstofte Skovvej 2 4735 Mern,2,12246803.0,11-10-2016,Alm.,47284,9,Stuehus,259,1926,
+Kalvehavevej 37 4735 Mern,37,195000.0,07-10-2016,Alm.,1423,4,Villa,137,1928,0 %
+Kohavevej 4 4735 Mern,4,2400000.0,07-10-2016,Alm.,12000,7,Villa,200,1875,-4 %
+Tolstrupvej 2 4735 Mern,2,2100000.0,02-10-2016,Alm.,11052,8,Stuehus,190,1951,-4 %
+Banevej 2 4735 Mern,2,600000.0,26-09-2016,Alm.,3592,4,Villa,167,1930,-8 %
+Morelvej 4 4735 Mern,4,625000.0,19-09-2016,Alm.,4222,5,Villa,148,1974,0 %
+Ørslevvej 272 4735 Mern,272,1200000.0,30-08-2016,Alm.,7947,5,Villa,151,1943,-7 %
+Sagebyvej 18 4735 Mern,18,965000.0,25-08-2016,Alm.,7909,6,Villa,122,1921,-3 %
+Solbærvej 11 4735 Mern,11,695000.0,06-08-2016,Alm.,5036,4,Villa,138,1979,0 %
+Æblevej 8 4735 Mern,8,395000.0,03-08-2016,Alm.,3211,3,Villa,123,1967,-20 %
+Enighedsvej 1 4735 Mern,1,450000.0,17-07-2016,Alm.,4017,4,Villa,112,1880,
+Æblevej 4 4735 Mern,4,525000.0,15-07-2016,Alm.,4565,3,Villa,115,1968,-5 %
+Blåbærvej 3 4735 Mern,3,635000.0,27-06-2016,Alm.,5990,4,Villa,106,1980,-7 %
+Kærsangervej 4 4735 Mern,4,450000.0,24-06-2016,Alm.,8035,2,Sommerhus,56,1966,-5 %
+Nordvej 25 4735 Mern,25,1195000.0,27-05-2016,Alm.,9263,4,Villa,129,1912,0 %
+Sagebyvej 15 4735 Mern,15,650000.0,21-05-2016,Alm.,6701,4,Villa,97,1963,0 %
+Kindvigvej 9 4735 Mern,9,915000.0,16-05-2016,Alm.,7148,6,Villa,128,1907,
+Drosselbakken 18 4735 Mern,18,645000.0,04-05-2016,Alm.,8835,4,Sommerhus,73,1973,-4 %
+Poppelvænget 5 4735 Mern,5,540000.0,27-04-2016,Alm.,8437,4,Sommerhus,64,1981,-9 %
+Strandhusene 20 4735 Mern,20,650000.0,20-04-2016,Alm.,19117,3,Sommerhus,34,2003,
+Balle Strandvej 38 4735 Mern,38,750000.0,04-04-2016,Alm.,5681,3,Villa,132,1777,-50 %
+Tangvej 5 4735 Mern,5,240000.0,23-03-2016,Alm.,5454,3,Sommerhus,44,1970,-30 %
+Slåenvej 9 4735 Mern,9,1395000.0,09-03-2016,Alm.,9300,5,Villa,150,2006,0 %
+Kindvigvej 33 4735 Mern,33,1400000.0,27-02-2016,Alm.,8974,4,Villa,156,1952,-6 %
+Morelvej 3 4735 Mern,3,500000.0,26-02-2016,Alm.,4166,4,Villa,120,1971,
+Kindvigvej 14 4735 Mern,14,1206875.0,26-02-2016,Alm.,7226,6,Villa,167,1979,
+Ørslevvej 229 4735 Mern,229,850000.0,10-02-2016,Alm.,5345,7,Villa,159,1887,
+Solhøjvej 10 4735 Mern,10,465000.0,08-02-2016,Alm.,3039,4,Villa,153,1972,-11 %
+Drosselbakken 11 4735 Mern,11,287500.0,27-12-2015,Alm.,4563,3,Sommerhus,63,1970,
+Kindvigvej 17 4735 Mern,17,200000.0,17-12-2015,Alm.,800,6,Villa,250,1942,-20 %
+Solbærvej 13 4735 Mern,13,950000.0,16-12-2015,Alm.,6643,5,Villa,143,1979,-3 %
+Ballevej 21 4735 Mern,21,175000.0,07-12-2015,Alm.,1635,4,Villa,107,1882,-10 %
+Rørsangerkrogen 6 4735 Mern,6,525000.0,26-11-2015,Alm.,10500,3,Sommerhus,50,1974,-4 %
+Nordvej 5 4735 Mern,5,225000.0,22-11-2015,Alm.,2743,3,Villa,82,1970,
+Sandvigvej 25 4735 Mern,25,600000.0,16-11-2015,Alm.,5714,5,Villa,105,1920,-8 %
+Strandhusene 2 4735 Mern,2,552500.0,25-10-2015,Alm.,9866,3,Sommerhus,56,1979,
+Slåenvej 2 4735 Mern,2,810000.0,20-10-2015,Alm.,5785,4,Villa,140,1976,-4 %
+Nordvej 23 4735 Mern,23,1515000.0,18-10-2015,Alm.,11835,5,Villa,128,1887,1 %
+Bydammen 10 4735 Mern,10,300000.0,07-10-2015,Auktion,1485,7,Villa,202,1777,
+Ballevej 15B 4735 Mern,0,285000.0,05-10-2015,Alm.,4830,3,Villa,59,1800,-5 %
+Drosselbakken 15 4735 Mern,15,575000.0,04-10-2015,Alm.,6927,2,Sommerhus,83,1971,0 %
+Søndervej 1 4735 Mern,1,970000.0,24-09-2015,Fam.,7461,4,Villa,130,1967,
+Røstofte Skovvej 7 4735 Mern,7,24600000.0,07-09-2015,Alm.,121782,5,Stuehus,202,1973,
+Stårbyvej 10 4735 Mern,10,4600000.0,24-08-2015,Alm.,30666,6,Stuehus,150,1915,
+Tågebyvej 1 4735 Mern,1,1080000.0,07-08-2015,Alm.,9230,4,Villa,117,1960,-6 %
+Lilliendalsvej 7A 4735 Mern,0,845000.0,31-07-2015,Alm.,4747,6,Villa,178,1973,0 %
+Lekkendevej 8 4735 Mern,8,807500.0,28-07-2015,Alm.,6358,4,Villa,127,1880,-4 %
+Lærkevej 12 4735 Mern,12,468500.0,22-07-2015,Alm.,10184,2,Sommerhus,46,1969,-5 %
+Havnen 4 4735 Mern,4,1495000.0,15-07-2015,Alm.,5909,7,Villa,253,1900,0 %
+Skolemarksvej 1 4735 Mern,1,195000.0,08-07-2015,Alm.,1875,3,Villa,104,1910,0 %
+Gl Engvej 1 4735 Mern,1,355000.0,22-06-2015,Alm.,3114,6,Sommerhus,114,1827,20 %
+Lilliendalsvej 21 4735 Mern,21,865000.0,16-06-2015,Alm.,4887,5,Villa,177,1917,-3 %
+Præstetoften 24 4735 Mern,24,2250000.0,30-05-2015,Alm.,18595,4,Stuehus,121,1938,-5 %
+Morelvej 2 4735 Mern,2,750000.0,16-05-2015,Alm.,5555,3,Villa,135,1969,-12 %
+Lilliendalsvej 28 4735 Mern,28,695000.0,14-05-2015,Alm.,4929,4,Villa,141,1944,0 %
+Vandtårnsvej 11 4735 Mern,11,565000.0,06-05-2015,Alm.,5650,4,Villa,100,1975,-5 %
+Rørsangerkrogen 4 4735 Mern,4,340000.0,25-04-2015,Alm.,10303,1,Sommerhus,33,1967,-14 %
+Lilliendalsvej 22 4735 Mern,22,465000.0,24-04-2015,Alm.,3039,5,Villa,153,1936,-6 %
+Slåenvej 5 4735 Mern,5,635000.0,21-04-2015,Alm.,5990,4,Villa,106,1979,-2 %
+Tjørnevænget 3 4735 Mern,3,120000.0,18-03-2015,Alm.,2926,2,Sommerhus,41,1973,-17 %
+Ørslevvej 250 4735 Mern,250,435000.0,23-02-2015,Alm.,3815,3,Villa,114,1950,
+Lydehøjvej 2 4735 Mern,2,370500.0,18-02-2015,Auktion,1939,3,Villa,191,1802,
+Kalvehavevej 20 4735 Mern,20,445000.0,02-02-2015,Fam.,2648,4,Villa,168,1902,
+Drosselbakken 2 4735 Mern,2,265000.0,22-01-2015,Alm.,4015,3,Sommerhus,66,1975,-10 %
+Spurvekrogen 4 4735 Mern,4,400000.0,08-01-2015,Alm.,2366,6,Villa,169,1973,-33 %
+Blåbærvej 8 4735 Mern,8,725000.0,23-12-2014,Alm.,4738,5,Villa,153,1978,-9 %
+Kalvehavevej 4 4735 Mern,4,953388.0,22-12-2014,Andet,6441,6,Villa,148,1944,
+Solhøjvej 4 4735 Mern,4,362500.0,10-12-2014,Fam.,1812,5,Villa,200,1974,
+Gl Præstøvej 14 4735 Mern,14,465000.0,01-12-2014,Alm.,2735,4,Villa,170,1932,-6 %
+Ørslevvej 292 4735 Mern,292,725000.0,29-10-2014,Alm.,5942,2,Villa,122,1922,-9 %
+Solbærvej 15 4735 Mern,15,304000.0,29-10-2014,Auktion,2666,4,Villa,114,1978,
+Morelvej 7 4735 Mern,7,425000.0,26-10-2014,Alm.,3632,4,Villa,117,1972,-29 %
+Gl Præstøvej 5 4735 Mern,5,895000.0,10-10-2014,Alm.,3551,6,Villa,252,1961,0 %
+Sagebyvej 9 4735 Mern,9,295000.0,05-10-2014,Alm.,3072,2,Villa,96,1965,
+Søndervej 30 4735 Mern,30,1495000.0,25-09-2014,Alm.,10602,5,Villa,141,2010,0 %
+Gl Præstøvej 9E 4735 Mern,0,249968.0,25-09-2014,Auktion,2380,5,Villa,105,1914,
+Ballevej 9 4735 Mern,9,275000.0,23-09-2014,Alm.,2806,4,Villa,98,1947,-15 %
+Aavej 5 4735 Mern,5,1125000.0,18-09-2014,Alm.,9868,6,Villa,114,1937,-6 %
+Vandtårnsvej 2 4735 Mern,2,685000.0,18-09-2014,Alm.,6008,4,Villa,114,1966,-9 %
+Smedevej 15 4735 Mern,15,505000.0,04-09-2014,Alm.,4173,3,Villa,121,1935,
+Ørslevvej 264 4735 Mern,264,825000.0,14-08-2014,Alm.,6445,4,Villa,128,1908,-3 %
+Vallebovej 6 4735 Mern,6,1500000.0,14-08-2014,Alm.,18750,4,Stuehus,80,1936,
+Tangvej 3 4735 Mern,3,210000.0,12-07-2014,Alm.,5250,3,Sommerhus,40,1961,
+Gl Præstøvej 13 4735 Mern,13,295000.0,11-07-2014,Alm.,1843,3,Villa,160,1920,-14 %
+Tangvej 12 4735 Mern,12,305000.0,10-07-2014,Alm.,4066,4,Villa,75,1974,-12 %
+Gl Præstøvej 35 4735 Mern,35,1050000.0,24-06-2014,Alm.,6562,6,Villa,160,1907,-16 %
+Kalvehavevej 2B 4735 Mern,0,516400.0,18-06-2014,Auktion,3825,4,Villa,135,1893,
+Sandvigvej 10 4735 Mern,10,124596.0,21-05-2014,Auktion,1618,3,Villa,77,1959,-68 %
+Bydammen 20 4735 Mern,20,850000.0,30-04-2014,Auktion,3183,9,Villa,267,1923,
+Skovlinien 5 4735 Mern,5,1810000.0,08-04-2014,Fam.,7387,6,Stuehus,245,2012,
+Smedevej 2 4735 Mern,2,195000.0,19-03-2014,Auktion,1535,5,Villa,127,1902,-84 %
+Sandvig Kohave 4 4735 Mern,4,1250000.0,05-03-2014,Alm.,6510,4,Villa,192,1900,-10 %
+Ballevej 6 4735 Mern,6,750000.0,03-03-2014,Alm.,5639,5,Villa,133,1880,
+Sandvigvej 8 4735 Mern,8,15470100.0,27-02-2014,Alm.,119000,5,Stuehus,130,1910,
+Skovhusevej 23 4735 Mern,23,200000.0,17-02-2014,Alm.,1851,3,Villa,108,1900,-42 %
+Bakkekammen 6 4735 Mern,6,120000.0,05-02-2014,Alm.,1666,4,Villa,72,1900,-20 %
+Gl Engvej 2 4735 Mern,2,15000.0,15-01-2014,Auktion,116,4,Villa,129,1887,-94 %
+Skovlinien 1 4735 Mern,1,180000.0,08-01-2014,Auktion,2000,3,Villa,90,1777,-39 %
+Kalvehavevej 41B 4735 Mern,0,475000.0,11-12-2013,Auktion,4523,3,Villa,105,1877,
+Bydammen 22 4735 Mern,22,1223194.0,10-12-2013,Andet,8154,5,Stuehus,150,1892,
+Morelvej 6 4735 Mern,6,845000.0,09-11-2013,Alm.,7824,3,Villa,108,1970,-6 %
+Gl Præstøvej 40 4735 Mern,40,1095963.0,28-10-2013,Fam.,6122,6,Villa,179,1877,
+Gl Præstøvej 46 4735 Mern,46,675000.0,25-10-2013,Alm.,5625,4,Villa,120,1930,-15 %
+Nedermarken 6 4735 Mern,6,270000.0,09-10-2013,Auktion,1343,5,Villa,201,1911,-23 %
+Lillebyvej 2 4735 Mern,2,330338.0,05-10-2013,Alm.,2521,2,Villa,131,1877,
+Kindvigvej 38 4735 Mern,38,320294.0,27-09-2013,Fam.,2522,4,Villa,127,1967,
+Vandtårnsvej 10 4735 Mern,10,600000.0,14-09-2013,Alm.,6976,3,Rækkehus,86,1965,-11 %
+Hybenvej 5 4735 Mern,5,800000.0,03-09-2013,Fam.,7142,4,Villa,112,1971,
+Smedevej 16 4735 Mern,16,1075000.0,31-08-2013,Alm.,9598,3,Villa,112,1950,-2 %
+Gl Præstøvej 27 4735 Mern,27,783988.0,23-08-2013,Alm.,5226,5,Villa,150,1911,
+Lærkevej 2 4735 Mern,2,405000.0,24-07-2013,Alm.,8617,2,Sommerhus,47,2007,
+Sandvigvej 20 4735 Mern,20,1343800.0,12-07-2013,Fam.,6652,6,Stuehus,202,1940,
+Gl Præstøvej 10 4735 Mern,10,1400000.0,11-07-2013,Alm.,11382,4,Villa,123,2010,
+Bakkekammen 3 4735 Mern,3,45000.0,27-06-2013,Alm.,692,2,Villa,65,1955,
+Strandhusene 8 4735 Mern,8,670000.0,27-06-2013,Alm.,13400,3,Sommerhus,50,1970,
+Strandhusene 12 4735 Mern,12,550000.0,24-06-2013,Alm.,6790,3,Sommerhus,81,1964,
+Lilliendalsvej 11 4735 Mern,11,300000.0,13-06-2013,Alm.,1604,5,Villa,187,1904,-53 %
+Havnen 2 4735 Mern,2,1250000.0,06-06-2013,Alm.,6127,7,Villa,204,1934,-16 %
+Strandhusene 10 4735 Mern,10,645000.0,04-06-2013,Alm.,12403,3,Sommerhus,52,1966,-7 %
+Gl Præstøvej 24 4735 Mern,24,624000.0,04-06-2013,Alm.,7341,4,Villa,85,1800,
+Markskellet 3 4735 Mern,3,775000.0,29-05-2013,Auktion,2969,6,Villa,261,1887,
+Hasselstien 9 4735 Mern,9,345000.0,24-05-2013,Alm.,7187,3,Sommerhus,48,1967,0 %
+Gl Præstøvej 9B 4735 Mern,0,3275000.0,01-03-2013,Alm.,7797,15,Villa,420,1924,
+Jungshovedvej 14 4735 Mern,14,175000.0,26-02-2013,Alm.,1750,3,Villa,100,1963,-8 %
+Røstoftevej 13 4735 Mern,13,1025000.0,13-02-2013,Fam.,6879,5,Villa,149,2009,
+Vandtårnsvej 3 4735 Mern,3,665000.0,18-01-2013,Alm.,5195,6,Villa,128,1963,-5 %
+Jungshovedvej 5 4735 Mern,5,930000.0,05-12-2012,Alm.,5166,7,Villa,180,1976,-7 %
+Gl Engvej 9 4735 Mern,9,4800000.0,30-11-2012,Alm.,0,6,Stuehus,270,1980,
+Lilliendalsvej 5 4735 Mern,5,445000.0,21-11-2012,Alm.,2258,5,Villa,197,1912,-10 %
+Røstofte Mark 1C 4735 Mern,0,1955000.0,16-11-2012,Alm.,8354,6,Villa,234,2009,-2 %
+Tjørnevænget 9 4735 Mern,9,465000.0,19-10-2012,Alm.,11625,3,Sommerhus,40,1969,-6 %
+Tolstrupvej 10 4735 Mern,10,500000.0,18-10-2012,Alm.,9615,2,Villa,52,1900,-26 %
+Lærkevej 6 4735 Mern,6,350000.0,05-10-2012,Alm.,5000,4,Sommerhus,70,1984,
+Kindvigvej 28 4735 Mern,28,810000.0,20-09-2012,Fam.,3665,6,Villa,221,1980,
+Strandhusene 9 4735 Mern,9,475000.0,14-09-2012,Alm.,10555,2,Sommerhus,45,1964,-2 %
+Lilliendal 11 4735 Mern,11,235000.0,13-09-2012,Alm.,2079,4,Villa,113,1920,-53 %
+Gl Præstøvej 1 4735 Mern,1,34145274.0,10-09-2012,Alm.,304868,5,Villa,112,1920,
+Sagebyvej 13 4735 Mern,13,620000.0,01-08-2012,Auktion,2844,6,Villa,218,1973,
+Banevej 28 4735 Mern,28,275000.0,27-06-2012,Auktion,1833,5,Villa,150,1966,
+Blåbærvej 17 4735 Mern,17,475000.0,26-06-2012,Alm.,4203,4,Villa,113,1979,-20 %
+Østergårdstræde 52 4735 Mern,52,466788.0,21-05-2012,Alm.,3070,7,Stuehus,152,1923,
+Blåbærvej 16 4735 Mern,16,795000.0,19-04-2012,Alm.,7571,4,Villa,105,1978,0 %
+Gl Præstøvej 45 4735 Mern,45,1670000.0,13-04-2012,Andet,7198,8,Villa,232,1935,
+Lekkendevej 3 4735 Mern,3,1150000.0,12-04-2012,Alm.,7012,7,Stuehus,164,1900,0 %
+Blåbærvej 21 4735 Mern,21,696523.0,19-03-2012,Andet,4353,6,Villa,160,1976,
+Tolstrupvej 1A 4735 Mern,0,1400000.0,21-02-2012,Alm.,7291,9,Stuehus,192,1850,
+Kærmindevej 7 4735 Mern,7,745000.0,28-01-2012,Alm.,7450,3,Villa,100,1936,-5 %
+Banevej 10 4735 Mern,10,240000.0,11-01-2012,Auktion,1904,5,Villa,126,1950,
+Bakkekammen 1 4735 Mern,1,75000.0,14-12-2011,Auktion,707,3,Villa,106,1952,-86 %
+Lillebyvej 9 4735 Mern,9,400000.0,05-10-2011,Auktion,3333,5,Villa,120,1920,
+Mølletoften 1 4735 Mern,1,520000.0,27-09-2011,Alm.,2626,7,Stuehus,198,1899,
+Præstetoften 16 4735 Mern,16,1120000.0,31-08-2011,Auktion,8000,4,Stuehus,140,1938,
+Lilliendalsvej 32A 4735 Mern,0,662500.0,04-07-2011,Fam.,5915,4,Villa,112,1937,
+Spurvekrogen 8 4735 Mern,8,825000.0,31-05-2011,Alm.,8505,4,Villa,97,1974,-8 %
+Kløverbakken 15 4735 Mern,15,545000.0,27-05-2011,Alm.,8257,2,Sommerhus,66,1966,-8 %
+Strandhusene 17 4735 Mern,17,2700000.0,17-05-2011,Alm.,28421,4,Villa,95,1867,
+Kvædevej 11 4735 Mern,11,1150000.0,24-03-2011,Alm.,9745,4,Villa,118,1977,-11 %
+Skolemarksvej 2 4735 Mern,2,65001.0,23-02-2011,Auktion,541,4,Villa,120,1926,
+Fyrrekrogen 1 4735 Mern,1,820000.0,20-02-2011,Alm.,13442,3,Sommerhus,61,1968,-8 %
+Skolemarksvej 11 4735 Mern,11,480000.0,15-02-2011,Andet,6075,3,Villa,79,1925,
+Jungshovedvej 6 4735 Mern,6,1000033.0,31-01-2011,Fam.,4651,5,Villa,215,2012,
+Gl Præstøvej 9F 4735 Mern,0,560000.0,20-01-2011,Alm.,8235,2,Villa,68,1901,-13 %
+Lekkende Mark 1 4735 Mern,1,105000.0,15-12-2010,Auktion,1050,3,Villa,100,1912,-84 %
+Røstofte Skovvej 6 4735 Mern,6,2200000.0,25-11-2010,Alm.,25287,3,Stuehus,87,1907,-24 %
+Ballevej 2 4735 Mern,2,212250.0,05-11-2010,Alm.,1505,3,Villa,141,2012,
+Drosselbakken 4 4735 Mern,4,325000.0,24-08-2010,Alm.,0,3,Sommerhus,98,1968,-52 %
+Enighedsvej 2 4735 Mern,2,560000.0,15-08-2010,Alm.,5714,4,Villa,98,1918,
+Søndervej 36 4735 Mern,36,2000000.0,13-07-2010,Alm.,10695,6,Villa,187,2007,-20 %
+Hyldestien 5 4735 Mern,5,460000.0,02-06-2010,Alm.,9787,2,Sommerhus,47,2011,
+Østergårdstræde 58 4735 Mern,58,770000.0,31-05-2010,Alm.,7700,5,Sommerhus,100,1827,-9 %
+Kindvigvej 6 4735 Mern,6,755000.0,30-05-2010,Fam.,4194,4,Villa,180,1880,
+Strandhusene 16 4735 Mern,16,578000.0,26-04-2010,Fam.,10321,3,Sommerhus,56,1962,
+Under Egen 4 4735 Mern,4,59918.0,26-04-2010,Alm.,431,6,Villa,139,2015,
+Stationsvej 3 4735 Mern,3,418556.0,21-04-2010,Auktion,1511,8,Villa,277,1913,
+Præstetoften 4 4735 Mern,4,2290000.0,31-03-2010,Alm.,11225,5,Villa,204,1864,-4 %
+Enighedsvej 3 4735 Mern,3,910000.0,24-03-2010,Auktion,4764,4,Villa,191,1880,
+Røstoftevej 12 4735 Mern,12,1000000.0,15-01-2010,Alm.,9090,4,Villa,110,1979,-16 %
+Ørslevvej 290 4735 Mern,290,1080000.0,05-01-2010,Alm.,8571,6,Villa,126,1922,-10 %
+Østergårdstræde 27 4735 Mern,27,775000.0,16-12-2009,Fam.,4078,6,Villa,190,1943,
+Kindvigvej 20 4735 Mern,20,4457400.0,30-11-2009,Alm.,17973,8,Villa,248,1966,50 %
+Nordvej 20 4735 Mern,20,445000.0,18-11-2009,Alm.,9673,2,Villa,46,1969,
+Blåbærvej 7 4735 Mern,7,1625000.0,26-10-2009,Alm.,9027,5,Villa,180,1980,
+Jungshovedvej 10 4735 Mern,10,464726.0,02-10-2009,Andet,2335,4,Villa,199,1863,
+Røstoftevej 21 4735 Mern,21,1300000.0,31-08-2009,Alm.,9154,5,Villa,142,1900,-7 %
+Tangvej 10 4735 Mern,10,735000.0,26-08-2009,Alm.,0,8,Villa,219,1981,
+Sagebyvej 19 4735 Mern,19,1175000.0,14-08-2009,Alm.,11633,5,Villa,101,1900,-8 %
+Gl Engvej 4 4735 Mern,4,495000.0,12-08-2009,Alm.,6600,3,Villa,75,1777,0 %
+Tågebyvej 13 4735 Mern,13,505000.0,22-07-2009,Auktion,2837,6,Villa,178,1900,
+Røstoftevej 23 4735 Mern,23,150000.0,11-07-2009,Alm.,1363,4,Villa,110,2010,0 %
+Nordvej 6 4735 Mern,6,400000.0,30-06-2009,Alm.,6896,2,Villa,58,1959,1 %
+Vandtårnsvej 17 4735 Mern,17,845000.0,10-06-2009,Auktion,0,4,Villa,126,1977,
+Skovhusevej 40 4735 Mern,40,112500.0,08-06-2009,Alm.,1814,2,Villa,62,1900,-68 %
+Morelvej 12 4735 Mern,12,1350000.0,23-04-2009,Alm.,8823,5,Villa,153,1971,
+Røstofte Mark 1A 4735 Mern,0,350000.0,15-04-2009,Alm.,2845,3,Villa,123,2011,
+Vandtårnsvej 6 4735 Mern,6,700000.0,23-03-2009,Alm.,8139,3,Rækkehus,86,1965,-24 %
+Tjørnevænget 19 4735 Mern,19,500000.0,10-03-2009,Alm.,10000,4,Sommerhus,50,1975,-28 %
+Ballevej 12 4735 Mern,12,630000.0,18-02-2009,Auktion,3333,5,Villa,189,1890,-63 %
+Stårbyvej 7 4735 Mern,7,350000.0,11-02-2009,Auktion,3333,5,Villa,105,1877,
+Aavej 1 4735 Mern,1,1050000.0,17-11-2008,Alm.,12209,3,Villa,86,1956,-9 %
+Røstofte Skovvej 10 4735 Mern,10,7900000.0,05-11-2008,Alm.,35426,7,Stuehus,223,2001,
+Tolstrupvej 8 4735 Mern,8,1600000.0,17-10-2008,Alm.,6530,6,Villa,245,1900,-6 %
+Røstoftevej 5 4735 Mern,5,1450000.0,16-09-2008,Alm.,10661,4,Villa,136,1978,
+Morelvej 5 4735 Mern,5,1225000.0,12-09-2008,Alm.,9280,5,Villa,132,1972,-4 %
+Sandevej 1 4735 Mern,1,750000.0,02-09-2008,Alm.,8522,5,Villa,88,1964,-16 %
+Blåbærvej 10 4735 Mern,10,1085000.0,27-08-2008,Alm.,8893,4,Villa,122,1979,0 %
+Røstofte Skovvej 4 4735 Mern,4,59050.0,23-08-2008,Fam.,371,5,Villa,159,1917,-97 %
+Strandhusene 15 4735 Mern,15,1600000.0,21-08-2008,Alm.,17777,4,Villa,90,1727,-16 %
+Morelvej 9 4735 Mern,9,1650000.0,13-08-2008,Alm.,8461,5,Villa,195,1970,0 %
+Lilliendalsvej 7B 4735 Mern,0,792441.0,31-07-2008,Fam.,4716,5,Villa,168,1900,
+Tågebyvej 5 4735 Mern,5,1900000.0,19-07-2008,Alm.,12837,5,Villa,148,1891,-3 %
+Gl Præstøvej 39 4735 Mern,39,420000.0,04-06-2008,Alm.,12000,2,Villa,35,1943,0 %
+Gl Præstøvej 18 4735 Mern,18,995000.0,12-05-2008,Alm.,8504,4,Villa,117,1842,0 %
+Røstofte Mark 9 4735 Mern,9,750000.0,08-04-2008,Alm.,0,4,Villa,199,1900,-16 %
+Røstoftevej 9 4735 Mern,9,1850000.0,05-04-2008,Alm.,13909,4,Villa,133,1899,-2 %
+Tjørnevænget 11 4735 Mern,11,750000.0,04-04-2008,Alm.,13157,4,Sommerhus,57,1974,-12 %
+Hasselstien 1 4735 Mern,1,650000.0,01-04-2008,Alm.,10833,3,Sommerhus,60,1967,-13 %
+Lilliendalsvej 17 4735 Mern,17,625000.0,31-03-2008,Alm.,4960,5,Villa,126,1897,4 %
+Kvædevej 4 4735 Mern,4,1585000.0,28-03-2008,Alm.,12099,4,Villa,131,1986,-1 %
+Lilliendalsvej 14 4735 Mern,14,625000.0,27-03-2008,Alm.,6377,4,Villa,98,1927,0 %
+Hestetoften 5 4735 Mern,5,411978.0,18-03-2008,Alm.,4039,5,Stuehus,102,1872,
+Tangvej 1 4735 Mern,1,795000.0,17-03-2008,Alm.,4877,5,Villa,163,2009,
+Kindvigvej 21 4735 Mern,21,825000.0,14-03-2008,Alm.,13750,3,Sommerhus,60,1900,-6 %
+Smedevej 13 4735 Mern,13,106755.0,09-03-2008,Alm.,415,5,Stuehus,257,1951,
+Hasselstien 7 4735 Mern,7,670000.0,13-02-2008,Alm.,0,5,Sommerhus,89,1966,-4 %
+Under Egen 9 4735 Mern,9,74560.0,27-01-2008,Alm.,457,5,Villa,163,2010,
+Under Egen 7 4735 Mern,7,63280.0,27-01-2008,Alm.,347,6,Villa,182,2014,
+Smedevej 8 4735 Mern,8,1265000.0,25-01-2008,Alm.,13901,3,Villa,91,1972,-5 %
+Jungshovedvej 4 4735 Mern,4,1245000.0,16-01-2008,Alm.,11857,4,Villa,105,1953,0 %
+Banevej 20 4735 Mern,20,1195000.0,12-01-2008,Alm.,11490,4,Villa,104,1967,0 %
+Røstoftevej 17 4735 Mern,17,1395000.0,02-01-2008,Alm.,14531,3,Villa,96,1926,0 %
+Solbærvej 9 4735 Mern,9,1465000.0,31-12-2007,Alm.,12629,4,Villa,116,1978,-2 %
+Enemarksvej 1 4735 Mern,1,2337500.0,31-12-2007,Fam.,12986,6,Stuehus,180,1923,
+Østergårdstræde 23 4735 Mern,23,2495000.0,05-12-2007,Alm.,19645,4,Stuehus,127,1923,
+Drosselbakken 1 4735 Mern,1,895000.0,04-12-2007,Alm.,12430,4,Sommerhus,72,1978,0 %
+Kærsangervej 1 4735 Mern,1,900000.0,27-11-2007,Alm.,10588,2,Sommerhus,85,1994,-5 %
+Ørslevvej 240 4735 Mern,240,1900000.0,07-11-2007,Alm.,11875,6,Villa,160,1880,-13 %
+Kvædevej 1 4735 Mern,1,1130000.0,16-10-2007,Alm.,9576,4,Villa,118,1977,-5 %
+Kvædevej 3 4735 Mern,3,1310000.0,11-10-2007,Alm.,10916,4,Villa,120,1978,
+Vandtårnsvej 4 4735 Mern,4,1000000.0,10-10-2007,Alm.,11235,3,Rækkehus,89,1965,
+Sagebyvej 2 4735 Mern,2,2100000.0,05-10-2007,Alm.,0,5,Villa,250,1909,-5 %
+Balle Strandvej 24 4735 Mern,24,1125000.0,12-09-2007,Alm.,0,4,Villa,117,1935,-8 %
+Morelvej 10 4735 Mern,10,1400000.0,11-09-2007,Alm.,10370,4,Villa,135,1971,-10 %
+Vandtårnsvej 8 4735 Mern,8,756500.0,05-09-2007,Fam.,8796,3,Rækkehus,86,1965,
+Gl Præstøvej 23 4735 Mern,23,1200000.0,05-09-2007,Fam.,9230,5,Villa,130,1917,
+Vandtårnsvej 20 4735 Mern,20,1300000.0,30-08-2007,Alm.,0,4,Villa,124,1978,
+Kindvigvej 37 4735 Mern,37,2945000.0,24-08-2007,Alm.,15664,7,Villa,188,1959,-2 %
+Kløverbakken 22 4735 Mern,22,475000.0,23-07-2007,Alm.,7916,3,Sommerhus,60,1974,
+Hulvejen 8 4735 Mern,8,1405000.0,17-07-2007,Alm.,16149,3,Villa,87,1727,1 %
+Morelvej 13 4735 Mern,13,1875000.0,12-07-2007,Alm.,9765,7,Villa,192,1972,
+Kindvigvej 26 4735 Mern,26,1450000.0,11-07-2007,Alm.,4178,9,Villa,347,1905,
+Lilliendalsvej 9 4735 Mern,9,670000.0,14-06-2007,Alm.,6836,3,Villa,98,1902,-11 %
+Kløverbakken 12 4735 Mern,12,825000.0,08-06-2007,Alm.,15277,3,Sommerhus,54,1971,-13 %
+Gl Præstøvej 9D 4735 Mern,0,2200000.0,07-06-2007,Alm.,11000,8,Villa,200,1901,-11 %
+Hyldestien 8 4735 Mern,8,995000.0,18-05-2007,Alm.,0,4,Sommerhus,102,1967,0 %
+Tågebyvej 11 4735 Mern,11,925000.0,30-04-2007,Alm.,8564,4,Villa,108,1966,-3 %
+Kærsangervej 6 4735 Mern,6,575000.0,21-04-2007,Alm.,4291,6,Sommerhus,134,2009,-12 %
+Kærsangervej 10 4735 Mern,10,200000.0,26-02-2007,Alm.,0,3,Sommerhus,57,1970,
+Øster Egesborgvej 12 4735 Mern,12,1800000.0,10-02-2007,Alm.,12000,4,Villa,150,1973,
+Ørslevvej 273 4735 Mern,273,925000.0,29-01-2007,Alm.,7905,3,Villa,117,1938,-2 %
+Smedevej 19 4735 Mern,19,1220000.0,19-01-2007,Alm.,13260,3,Villa,92,1967,0 %
+Søndervej 52 4735 Mern,52,2207500.0,04-01-2007,Alm.,11679,6,Villa,189,2007,
+Vallebovej 14 4735 Mern,14,800000.0,04-01-2007,Alm.,6611,3,Villa,121,1895,
+Søndervej 40 4735 Mern,40,2295000.0,20-11-2006,Alm.,14525,5,Villa,158,2007,
+Sagebyvej 16 4735 Mern,16,807500.0,17-11-2006,Alm.,6211,6,Villa,130,1959,
+Tågebyvej 3 4735 Mern,3,995000.0,10-11-2006,Alm.,9045,3,Villa,110,1929,
+Søndervej 46 4735 Mern,46,2175000.0,30-10-2006,Alm.,15425,5,Villa,141,2006,
+Kindvigvej 44 4735 Mern,44,210000.0,30-10-2006,Alm.,3750,2,Sommerhus,56,1970,
+Søndervej 42 4735 Mern,42,2459000.0,17-10-2006,Alm.,17439,5,Villa,141,2006,
+Gl Præstøvej 8A 4735 Mern,0,1700000.0,10-10-2006,Alm.,13281,4,Villa,128,1936,
+Lekkendevej 2 4735 Mern,2,600000.0,01-10-2006,Alm.,7058,3,Villa,85,1897,
+Lilliendalsvej 13 4735 Mern,13,1045000.0,20-09-2006,Alm.,10450,4,Villa,100,1900,
+Under Egen 1 4735 Mern,1,59760.0,20-09-2006,Alm.,891,2,Villa,67,2009,
+Lilliendalsvej 33C 4735 Mern,0,132090.0,04-09-2006,Fam.,800,5,Villa,165,2008,
+Øster Egesborgvej 10 4735 Mern,10,630000.0,22-08-2006,Alm.,0,6,Villa,155,1900,
+Kindvigvej 46 4735 Mern,46,635000.0,17-08-2006,Alm.,9202,3,Villa,69,1970,
+Solhøjvej 6 4735 Mern,6,1235000.0,10-08-2006,Alm.,8288,5,Villa,149,1972,
+Hasselstien 11 4735 Mern,11,600000.0,26-07-2006,Alm.,8108,2,Sommerhus,74,1967,
+Kalvehavevej 28 4735 Mern,28,1750000.0,20-07-2006,Alm.,7028,6,Villa,249,1927,
+Under Egen 3 4735 Mern,3,59520.0,19-07-2006,Alm.,708,3,Villa,84,2008,
+Under Egen 2 4735 Mern,2,58320.0,18-07-2006,Alm.,455,5,Villa,128,2008,
+Under Egen 5 4735 Mern,5,60400.0,18-07-2006,Alm.,0,4,Villa,170,2010,
+Sandvigvej 27 4735 Mern,27,1275000.0,18-07-2006,Alm.,12259,5,Villa,104,1890,
+Valmuevænget 2 4735 Mern,2,360000.0,13-07-2006,Alm.,5142,3,Sommerhus,70,1965,
+Kløverbakken 20 4735 Mern,20,150000.0,28-06-2006,Alm.,2142,3,Sommerhus,70,2008,
+Søndervej 44 4735 Mern,44,2040000.0,25-06-2006,Alm.,15937,3,Villa,128,2006,
+Røstoftevej 15 4735 Mern,15,1125000.0,16-06-2006,Alm.,8928,7,Villa,126,1827,
+Tolstrupvej 6 4735 Mern,6,637500.0,14-06-2006,Fam.,3817,8,Stuehus,167,1877,
+Kindvigvej 10 4735 Mern,10,1125000.0,01-06-2006,Alm.,6696,4,Villa,168,1927,
+Jungshovedvej 12 4735 Mern,12,1575000.0,29-05-2006,Alm.,8848,5,Villa,178,1870,
+Skolemarksvej 14 4735 Mern,14,925000.0,23-05-2006,Alm.,9068,3,Villa,102,1777,
+Tangvej 16 4735 Mern,16,1645000.0,22-05-2006,Alm.,20060,1,Villa,82,1989,
+Sandvig Kohave 5 4735 Mern,5,3500000.0,20-05-2006,Alm.,17326,4,Villa,202,1997,
+Poppelvænget 9 4735 Mern,9,430000.0,01-05-2006,Auktion,3583,2,Sommerhus,120,2007,
+Ørslevvej 275 4735 Mern,275,1800000.0,25-04-2006,Alm.,7627,8,Villa,236,1939,
+Engvej 10 4735 Mern,10,1935000.0,12-04-2006,Alm.,14333,3,Sommerhus,135,1977,
+Lilliendal 8 4735 Mern,8,1300000.0,10-04-2006,Alm.,11607,3,Villa,112,1920,
+Gl Præstøvej 15 4735 Mern,15,798000.0,10-04-2006,Alm.,0,6,Villa,154,1894,
+Skovlinien 3 4735 Mern,3,1700000.0,30-03-2006,Alm.,17525,5,Stuehus,97,1850,
+Kløverbakken 16 4735 Mern,16,860000.0,29-03-2006,Alm.,13650,3,Sommerhus,63,1972,
+Mølletoften 3 4735 Mern,3,1500000.0,26-03-2006,Alm.,12605,4,Stuehus,119,1933,
+Nedermarken 4 4735 Mern,4,792935.0,17-03-2006,Alm.,0,11,Stuehus,278,1900,
+Drosselbakken 5 4735 Mern,5,870000.0,23-02-2006,Alm.,15535,2,Sommerhus,56,1973,
+Bydammen 8 4735 Mern,8,850000.0,23-02-2006,Fam.,4047,6,Villa,210,1750,
+Gl Præstøvej 31 4735 Mern,31,1095000.0,09-02-2006,Alm.,9954,3,Villa,110,1973,
+Drosselbakken 17 4735 Mern,17,1175000.0,08-02-2006,Alm.,17803,2,Sommerhus,66,1973,
+Sagebyvej 4 4735 Mern,4,355000.0,08-02-2006,Alm.,4176,4,Sommerhus,85,1777,
+Mølletoften 4 4735 Mern,4,74486.0,02-02-2006,Andet,625,4,Villa,119,1908,
+Ballevej 15A 4735 Mern,0,450000.0,01-02-2006,Alm.,6923,3,Sommerhus,65,1777,
+Øster Egesborgvej 4 4735 Mern,4,1972000.0,10-01-2006,Alm.,8843,9,Villa,223,1972,
+Søndervej 48 4735 Mern,48,165000.0,01-12-2005,Alm.,1187,6,Villa,139,2007,
+Vandtårnsvej 14 4735 Mern,14,1170000.0,25-11-2005,Alm.,10636,4,Villa,110,1968,
+Engvej 1 4735 Mern,1,255000.0,24-11-2005,Fam.,7500,2,Sommerhus,34,1972,
+Søndervej 32 4735 Mern,32,225000.0,05-11-2005,Alm.,1165,6,Villa,193,2006,
+Kalvehavevej 24 4735 Mern,24,1725000.0,21-10-2005,Alm.,10329,5,Villa,167,1880,
+Søndervej 28 4735 Mern,28,150000.0,20-10-2005,Alm.,967,5,Villa,155,2008,
+Kindvigvej 15 4735 Mern,15,1000000.0,22-09-2005,Alm.,0,7,Villa,190,1840,
+Røstoftevej 11 4735 Mern,11,900000.0,22-09-2005,Alm.,7500,5,Villa,120,1900,
+Sandvigvej 17 4735 Mern,17,875000.0,21-09-2005,Alm.,9722,3,Sommerhus,90,1970,
+Røstofte Mark 7 4735 Mern,7,2365000.0,18-09-2005,Alm.,14161,4,Villa,167,1980,
+Øster Egesborgvej 22 4735 Mern,22,1165000.0,15-09-2005,Alm.,8961,3,Villa,130,1952,
+Kalvehavevej 3B 4735 Mern,0,1475000.0,12-09-2005,Alm.,8333,6,Villa,177,2009,
+Nordstien 6 4735 Mern,6,775000.0,01-09-2005,Alm.,10763,2,Villa,72,1930,
+Røstoftevej 4 4735 Mern,4,1475000.0,01-09-2005,Alm.,8727,4,Villa,169,2006,
+Hestetoften 3 4735 Mern,3,1731000.0,29-08-2005,Alm.,8831,5,Villa,196,1880,
+Ballevej 23 4735 Mern,23,1070000.0,21-08-2005,Alm.,16461,3,Sommerhus,65,1877,
+Østergårdstræde 40 4735 Mern,40,1450000.0,04-08-2005,Alm.,9177,5,Villa,158,1923,
+Stadionsvej 6 4735 Mern,6,1125000.0,22-07-2005,Alm.,11029,5,Villa,102,1857,
+Søndervej 54 4735 Mern,54,150000.0,21-07-2005,Alm.,943,6,Villa,159,2006,
+Gl Præstøvej 12 4735 Mern,12,650000.0,28-06-2005,Alm.,6701,5,Villa,97,1800,
+Øster Egesborgvej 7 4735 Mern,7,570000.0,22-06-2005,Alm.,8507,3,Villa,67,1800,
+Sagebyvej 14 4735 Mern,14,1382965.0,21-06-2005,Alm.,14405,3,Villa,96,1936,
+Slåenvej 3 4735 Mern,3,1100000.0,18-06-2005,Alm.,11000,4,Villa,100,1975,
+Spurvekrogen 3 4735 Mern,3,95000.0,16-06-2005,Alm.,502,5,Villa,189,2006,
+Gl Præstøvej 42 4735 Mern,42,1125000.0,14-06-2005,Alm.,9453,5,Villa,119,1954,
+Nordvej 1 4735 Mern,1,995000.0,10-06-2005,Alm.,9567,5,Sommerhus,104,1777,
+Vibekrogen 2 4735 Mern,2,390000.0,02-06-2005,Fam.,6964,3,Sommerhus,56,1974,
+Banevej 24 4735 Mern,24,874000.0,01-06-2005,Fam.,12138,3,Villa,72,1967,
+Kindvigvej 32 4735 Mern,32,525000.0,27-05-2005,Andet,3500,4,Villa,150,1917,
+Stadionsvej 7 4735 Mern,7,450000.0,11-05-2005,Alm.,4500,3,Villa,100,1825,
+Hestetoften 2 4735 Mern,2,1125000.0,30-04-2005,Alm.,7450,4,Villa,151,1900,
+Øster Egesborgvej 8 4735 Mern,8,560000.0,29-04-2005,Alm.,4516,3,Villa,124,1915,
+Lærkevej 8 4735 Mern,8,895000.0,19-04-2005,Alm.,7160,5,Sommerhus,125,1973,
+Solbærvej 3 4735 Mern,3,646986.0,22-03-2005,Alm.,0,5,Villa,200,1979,
+Vandtårnsvej 9 4735 Mern,9,1250000.0,14-03-2005,Alm.,8865,4,Villa,141,1977,
+Ballevej 10 4735 Mern,10,2396340.0,22-02-2005,Fam.,16757,5,Stuehus,143,1914,
+Ballevej 19 4735 Mern,19,664765.0,15-02-2005,Alm.,9775,3,Villa,68,1850,
+Hestetoften 1A 4735 Mern,0,3770000.0,15-02-2005,Fam.,14726,8,Stuehus,256,1980,
+Gl Præstøvej 37 4735 Mern,37,805000.0,03-02-2005,Alm.,5366,4,Villa,150,1887,
+Ballevej 4 4735 Mern,4,700000.0,31-01-2005,Andet,3888,4,Villa,180,2004,
+Ballevej 13 4735 Mern,13,650000.0,28-01-2005,Alm.,4850,5,Villa,134,1947,
+Sagebyvej 10 4735 Mern,10,875000.0,10-01-2005,Alm.,5718,5,Villa,153,1900,
+Stårbyvej 13 4735 Mern,13,1300000.0,28-12-2004,Alm.,0,7,Villa,253,1921,
+Valmuevænget 5 4735 Mern,5,675000.0,28-12-2004,Alm.,8766,2,Sommerhus,77,1971,
+Poppelvænget 8 4735 Mern,8,1445000.0,22-12-2004,Alm.,6880,6,Villa,210,1971,
+Skolemarksvej 20 4735 Mern,20,595000.0,13-12-2004,Alm.,11900,2,Villa,50,1955,
+Morelvej 15 4735 Mern,15,1095000.0,02-12-2004,Alm.,9776,4,Villa,112,1971,
+Balle Strandvej 13 4735 Mern,13,560000.0,21-10-2004,Alm.,7000,3,Villa,80,1890,
+Bakkekammen 5 4735 Mern,5,1125000.0,08-10-2004,Alm.,7450,4,Villa,151,1812,
+Sagebyvej 23 4735 Mern,23,1300000.0,22-09-2004,Alm.,16049,4,Villa,81,1892,
+Sagebyvej 1 4735 Mern,1,1500000.0,06-09-2004,Alm.,9375,5,Villa,160,1876,
+Lærkevej 10 4735 Mern,10,550000.0,01-09-2004,Fam.,9322,3,Sommerhus,59,1981,
+Skovmarksvej 2 4735 Mern,2,750000.0,30-08-2004,Alm.,0,5,Villa,114,1877,
+Hyldestien 1 4735 Mern,1,720000.0,18-08-2004,Alm.,6666,3,Sommerhus,108,1977,
+Tjørnevænget 5 4735 Mern,5,420000.0,11-08-2004,Alm.,7924,4,Sommerhus,53,1967,
+Sandvig Kohave 1 4735 Mern,1,760000.0,05-08-2004,Alm.,6129,4,Villa,124,1882,
+Ballevej 14 4735 Mern,14,725000.0,02-08-2004,Alm.,8529,3,Villa,85,1850,
+Jungshovedvej 3 4735 Mern,3,725000.0,28-07-2004,Alm.,8841,3,Villa,82,1953,
+Stårbyvej 1 4735 Mern,1,1295000.0,25-05-2004,Alm.,6573,6,Villa,197,1935,
+Kalvehavevej 9 4735 Mern,9,945000.0,24-05-2004,Alm.,6608,5,Villa,143,1920,
+Poppelvænget 10 4735 Mern,10,759081.0,05-05-2004,Alm.,8826,5,Sommerhus,86,1968,
+Banevej 7 4735 Mern,7,925000.0,03-05-2004,Fam.,5781,4,Villa,160,1967,
+Smedevej 14 4735 Mern,14,975000.0,31-03-2004,Alm.,7677,4,Villa,127,1962,
+Solbærvej 4 4735 Mern,4,975000.0,21-03-2004,Alm.,7500,4,Villa,130,1981,
+Balledammen 3 4735 Mern,3,250000.0,12-03-2004,Alm.,1420,7,Stuehus,176,1912,
+Nordvej 2 4735 Mern,2,339400.0,10-03-2004,Fam.,5656,3,Sommerhus,60,1961,
+Poppelvænget 3 4735 Mern,3,645000.0,19-02-2004,Alm.,8376,5,Sommerhus,77,1971,
+Kalvehavevej 17 4735 Mern,17,875000.0,27-01-2004,Alm.,7812,5,Villa,112,1963,
+Poppelvænget 7 4735 Mern,7,383000.0,24-01-2004,Alm.,6177,3,Sommerhus,62,1974,
+Kalvehavevej 23 4735 Mern,23,630000.0,19-12-2003,Alm.,4144,4,Villa,152,1850,
+Vandtårnsvej 16 4735 Mern,16,394163.0,08-12-2003,Alm.,3427,4,Villa,115,1965,
+Nordvej 14 4735 Mern,14,775000.0,27-11-2003,Alm.,5740,8,Villa,135,1853,
+Lilliendalsvej 20 4735 Mern,20,565000.0,13-11-2003,Alm.,8560,3,Villa,66,1932,
+Morelvej 17 4735 Mern,17,1143000.0,07-10-2003,Fam.,7143,6,Villa,160,1972,
+Østergårdstræde 54 4735 Mern,54,710000.0,06-10-2003,Alm.,6339,4,Villa,112,1902,
+Røstoftevej 14 4735 Mern,14,771328.0,26-09-2003,Alm.,6536,4,Villa,118,1925,
+Tangvej 14 4735 Mern,14,210000.0,11-09-2003,Alm.,2307,3,Sommerhus,91,2013,
+Banevej 5 4735 Mern,5,885000.0,09-09-2003,Alm.,6507,5,Villa,136,1966,
+Ørslevvej 294 4735 Mern,294,1825000.0,27-08-2003,Alm.,6684,11,Villa,273,1927,
+Strandhusene 5 4735 Mern,5,625000.0,01-08-2003,Alm.,14204,3,Sommerhus,44,1965,
+Morelvej 11 4735 Mern,11,1428190.0,25-07-2003,Alm.,6209,6,Villa,230,1971,
+Balledammen 1B 4735 Mern,0,1424000.0,30-06-2003,Alm.,6685,6,Villa,213,1870,
+Nordvej 9 4735 Mern,9,495000.0,23-06-2003,Alm.,8534,3,Sommerhus,58,1967,
+Gl Præstøvej 32 4735 Mern,32,1156531.0,19-06-2003,Alm.,6724,6,Villa,172,1911,
+Drosselbakken 16 4735 Mern,16,695000.0,15-06-2003,Alm.,6495,4,Sommerhus,107,1999,
+Hasselstien 3 4735 Mern,3,425000.0,08-06-2003,Alm.,7870,3,Sommerhus,54,1976,
+Bydammen 7 4735 Mern,7,1100000.0,14-04-2003,Alm.,5339,8,Villa,206,1850,
+Kindvigvej 5 4735 Mern,5,500000.0,31-03-2003,Fam.,6024,4,Villa,83,1924,
+Kindvigvej 25 4735 Mern,25,1120000.0,19-02-2003,Alm.,7671,6,Villa,146,1910,
+Spurvekrogen 14 4735 Mern,14,61000.0,09-02-2003,Alm.,378,4,Villa,161,2008,
+Gl Præstøvej 33 4735 Mern,33,1135000.0,29-01-2003,Alm.,6305,6,Villa,180,1920,
+Æblevej 6 4735 Mern,6,895000.0,09-01-2003,Alm.,8950,3,Villa,100,1968,
+Lydehøjvej 1 4735 Mern,1,1840000.0,02-12-2002,Alm.,10109,7,Stuehus,182,1800,
+Skolemarksvej 15 4735 Mern,15,732952.0,22-10-2002,Fam.,4668,6,Villa,157,1968,
+Gl Præstøvej 38 4735 Mern,38,770000.0,21-10-2002,Alm.,6470,3,Villa,119,1896,
+Lærkevej 15 4735 Mern,15,1075000.0,19-10-2002,Alm.,10969,4,Sommerhus,98,1973,
+Smedevej 1 4735 Mern,1,390843.0,18-10-2002,Auktion,0,2,Villa,80,1827,
+Hasselstien 4 4735 Mern,4,300000.0,15-10-2002,Alm.,0,3,Sommerhus,51,1970,
+Sagebyvej 17 4735 Mern,17,1594000.0,20-09-2002,Alm.,10697,4,Villa,149,1780,
+Lilliendalsvej 27 4735 Mern,27,80000.0,19-09-2002,Alm.,833,4,Villa,96,1948,
+Røstoftevej 7 4735 Mern,7,795000.0,07-09-2002,Alm.,5559,5,Villa,143,1974,
+Ørslevvej 269 4735 Mern,269,643072.0,20-08-2002,Alm.,6010,4,Villa,107,1924,
+Lilliendalsvej 18 4735 Mern,18,1075000.0,29-07-2002,Alm.,6718,6,Villa,160,1915,
+Lilliendalsvej 16 4735 Mern,16,630000.0,18-07-2002,Alm.,3500,3,Villa,180,1922,
+Tjørnevænget 2 4735 Mern,2,270000.0,12-07-2002,Alm.,4576,2,Sommerhus,59,1962,
+Kløverbakken 18 4735 Mern,18,495000.0,05-07-2002,Alm.,5380,4,Sommerhus,92,1971,
+Sandvigvej 13 4735 Mern,13,687574.0,26-06-2002,Alm.,7813,4,Villa,88,1976,
+Drosselbakken 10 4735 Mern,10,372500.0,21-06-2002,Alm.,6898,3,Sommerhus,54,1966,
+Lærkevej 7 4735 Mern,7,375000.0,11-06-2002,Alm.,10135,3,Sommerhus,37,1972,
+Sandevej 6 4735 Mern,6,864802.0,11-06-2002,Alm.,5804,5,Villa,149,1966,
+Skolemarksvej 4 4735 Mern,4,710040.0,07-06-2002,Alm.,8161,2,Villa,87,1900,
+Skalsbyvej 4 4735 Mern,4,1025000.0,26-03-2002,Alm.,0,5,Villa,191,1890,
+Nordvej 4 4735 Mern,4,435000.0,09-03-2002,Alm.,5304,4,Villa,82,1922,
+Banevej 30 4735 Mern,30,775000.0,09-03-2002,Alm.,5740,4,Villa,135,1965,
+Morelvej 16 4735 Mern,16,850000.0,08-03-2002,Alm.,6854,3,Villa,124,1973,
+Røstoftevej 25 4735 Mern,25,3000000.0,07-02-2002,Fam.,20000,5,Stuehus,150,1945,
+Røstofte Mark 4 4735 Mern,4,950000.0,30-01-2002,Alm.,7600,5,Villa,125,1872,
+Skovhusevej 25 4735 Mern,25,1175000.0,29-01-2002,Alm.,4875,4,Villa,241,1915,
+Kindvigvej 3 4735 Mern,3,1125000.0,21-01-2002,Alm.,8653,5,Villa,130,1965,
+Lilliendalsvej 15 4735 Mern,15,650000.0,17-12-2001,Alm.,4924,3,Villa,132,1932,
+Solbærvej 8 4735 Mern,8,80000.0,26-11-2001,Alm.,592,4,Villa,135,2003,
+Lilliendalsvej 48 4735 Mern,48,1013134.0,14-11-2001,Alm.,4424,6,Villa,229,1919,
+Nedermarken 8 4735 Mern,8,1976000.0,31-10-2001,Alm.,7718,8,Villa,256,1850,
+Kindvigvej 16 4735 Mern,16,575000.0,26-10-2001,Alm.,2366,8,Villa,243,1895,
+Hasselstien 6 4735 Mern,6,158763.0,28-09-2001,Alm.,5292,2,Sommerhus,30,1967,
+Lilliendalsvej 37 4735 Mern,37,1243258.0,24-09-2001,Alm.,5501,6,Villa,226,1923,
+Sandvigvej 22 4735 Mern,22,476771.0,21-08-2001,Fam.,3783,3,Villa,126,1971,
+Skolemarksvej 7 4735 Mern,7,466567.0,17-08-2001,Alm.,3332,4,Villa,140,1892,
+Gl Præstøvej 21 4735 Mern,21,1208461.0,03-08-2001,Alm.,7193,5,Stuehus,168,1897,
+Ørslevvej 248 4735 Mern,248,650000.0,31-07-2001,Alm.,5158,4,Villa,126,1954,
+Østergårdstræde 36 4735 Mern,36,899450.0,29-06-2001,Fam.,7138,4,Stuehus,126,1937,
+Hasselstien 2 4735 Mern,2,254475.0,20-06-2001,Auktion,4313,3,Sommerhus,59,1975,
+Kindvigvej 13 4735 Mern,13,464340.0,16-06-2001,Alm.,4508,4,Villa,103,1926,
+Sandvigvej 9 (4735) 4735 Mern,0,140000.0,12-06-2001,Alm.,0,0,Andre vurderinger,0,0,
+Hestehavevej 4 4735 Mern,4,585000.0,08-06-2001,Alm.,5625,3,Villa,104,1943,
+Balledammen 8 4735 Mern,8,725000.0,08-05-2001,Alm.,0,4,Villa,156,1933,
+Tjørnevænget 4 4735 Mern,4,445509.0,24-04-2001,Alm.,6102,4,Sommerhus,73,1972,
+Tolstrupvej 4 4735 Mern,4,1299000.0,12-04-2001,Alm.,8068,3,Stuehus,161,1931,
+Gl Præstøvej 11 4735 Mern,11,627000.0,28-03-2001,Alm.,3688,5,Villa,170,1899,
+Lilliendalsvej 4 4735 Mern,4,586538.0,13-02-2001,Alm.,3784,5,Villa,155,1937,
+Lilliendalsvej 38 4735 Mern,38,392500.0,05-02-2001,Alm.,5233,3,Villa,75,1877,
+Sandvigvej 7 4735 Mern,7,870000.0,16-01-2001,Alm.,6304,5,Villa,138,1962,
+Vallebovej 1 4735 Mern,1,5200000.0,22-12-2000,Fam.,32298,5,Stuehus,161,1900,
+Kindvigvej 1 4735 Mern,1,475000.0,14-12-2000,Auktion,0,5,Villa,155,1877,
+Lilliendalsvej 6 4735 Mern,6,480000.0,06-12-2000,Fam.,0,4,Villa,162,1917,
+Møllebakken 1 4735 Mern,1,1062538.0,01-12-2000,Alm.,6558,5,Villa,162,1989,
+Sagebyvej 11 4735 Mern,11,875000.0,27-10-2000,Alm.,0,8,Villa,314,1800,
+Kalvehavevej 16 4735 Mern,16,1035000.0,09-10-2000,Alm.,5073,5,Villa,204,1930,
+Kindvigvej 31 4735 Mern,31,850000.0,03-10-2000,Alm.,4941,5,Villa,172,1959,
+Vandtårnsvej 18 4735 Mern,18,760000.0,01-09-2000,Alm.,0,4,Villa,92,1976,
+Sagebyvej 3 4735 Mern,3,1165740.0,31-08-2000,Alm.,7569,4,Villa,154,1926,
+Røstoftevej 16 4735 Mern,16,546000.0,18-08-2000,Alm.,0,4,Villa,188,1939,
+Nordvej 13 4735 Mern,13,150163.0,10-07-2000,Alm.,4290,2,Villa,35,1977,
+Tjørnevænget 13 4735 Mern,13,210000.0,10-07-2000,Alm.,0,2,Sommerhus,38,1968,
+Sandvigvej 14 4735 Mern,14,210000.0,16-06-2000,Alm.,0,3,Sommerhus,66,1962,
+Røstoftevej 8A 4735 Mern,0,95000.0,14-06-2000,Alm.,465,5,Villa,204,2001,
+Engvej 8 4735 Mern,8,726156.0,13-06-2000,Alm.,5007,5,Sommerhus,145,1982,
+Nordvej 16 4735 Mern,16,666967.0,09-06-2000,Alm.,4868,5,Villa,137,1923,
+Røstofte Mark 2 4735 Mern,2,1042260.0,25-05-2000,Alm.,6316,7,Villa,165,1875,
+Kindvigvej 34 4735 Mern,34,547028.0,18-05-2000,Fam.,3506,5,Villa,156,1968,
+Tjørnevænget 17 4735 Mern,17,350000.0,13-05-2000,Alm.,4375,3,Sommerhus,80,1968,
+Strandhusene 11 4735 Mern,11,505480.0,06-05-2000,Alm.,5054,3,Sommerhus,100,1961,
+Hestehavevej 2 4735 Mern,2,630000.0,28-04-2000,Alm.,3937,5,Villa,160,1933,
+Præstetoften 12 4735 Mern,12,901685.0,04-04-2000,Alm.,6051,7,Villa,149,1960,
+Rørsangerkrogen 1 4735 Mern,1,265000.0,29-03-2000,Fam.,3581,4,Sommerhus,74,1969,
+Mølletoften 2 4735 Mern,2,300000.0,28-03-2000,Andet,0,8,Villa,238,1800,
+Stadionsvej 4 4735 Mern,4,437938.0,17-03-2000,Alm.,2979,5,Villa,147,1827,
+Øster Egesborgvej 1 4735 Mern,1,212367.0,22-02-2000,Andet,0,4,Villa,193,1917,
+Tangvej 6 4735 Mern,6,305000.0,07-02-2000,Alm.,5754,3,Sommerhus,53,1962,
+Nedermarken 9 4735 Mern,9,452096.0,28-01-2000,Alm.,6458,3,Villa,70,1874,
+Præstetoften 1 4735 Mern,1,902962.0,12-01-2000,Alm.,3344,8,Villa,270,1880,
+Gl Præstøvej 34 4735 Mern,34,2181191.0,10-01-2000,Alm.,10797,7,Stuehus,202,1905,
+Skovlinien 2B 4735 Mern,0,1675000.0,06-01-2000,Alm.,9571,7,Villa,175,1890,
+Kalvehavevej 12 4735 Mern,12,719200.0,17-12-1999,Alm.,3126,6,Villa,230,2011,
+Kalvehavevej 30 4735 Mern,30,184730.0,29-11-1999,Alm.,839,5,Villa,220,1923,
+Skolemarksvej 9 4735 Mern,9,639174.0,23-11-1999,Alm.,3850,7,Villa,166,1903,
+Hybenvej 4 4735 Mern,4,725000.0,03-11-1999,Alm.,5800,3,Villa,125,1967,
+Lillebyvej 11 4735 Mern,11,5023721.0,01-11-1999,Alm.,21377,7,Stuehus,235,1944,
+Stårbyvej 11 4735 Mern,11,1489000.0,05-10-1999,Fam.,9424,7,Stuehus,158,1914,
+Røstoftevej 10 4735 Mern,10,595000.0,01-10-1999,Alm.,4219,5,Villa,141,1934,
+Møllebakken 9 4735 Mern,9,1149000.0,21-09-1999,Alm.,5660,6,Villa,203,1981,
+Gl Engvej 7 4735 Mern,7,670115.0,12-09-1999,Alm.,0,8,Villa,221,1848,
+Blåbærvej 2 4735 Mern,2,765000.0,25-08-1999,Alm.,6023,4,Villa,127,1983,
+Møllebakken 5 4735 Mern,5,580088.0,12-08-1999,Fam.,2468,4,Villa,235,1912,
+Poppelvænget 1 4735 Mern,1,168446.0,25-07-1999,Alm.,3368,3,Sommerhus,50,1968,
+Slåenvej 12 4735 Mern,12,695000.0,23-07-1999,Alm.,6950,4,Villa,100,1975,
+Bydammen 16 4735 Mern,16,470000.0,05-07-1999,Alm.,5340,2,Sommerhus,88,1795,
+Aavej 3 4735 Mern,3,927000.0,02-07-1999,Alm.,3649,7,Villa,254,1917,
+Ballevej 1 4735 Mern,1,100000.0,02-07-1999,Alm.,1492,6,Villa,67,1965,
+Drosselbakken 7 4735 Mern,7,360000.0,01-06-1999,Alm.,6792,3,Sommerhus,53,1967,
+Bakkekammen 7 4735 Mern,7,259286.0,03-05-1999,Alm.,2493,3,Villa,104,1905,
+Engvej 5 4735 Mern,5,395000.0,29-04-1999,Alm.,3657,4,Sommerhus,108,1970,
+Balledammen 10 4735 Mern,10,353000.0,20-04-1999,Alm.,8209,2,Sommerhus,43,1840,
+Vallebovej 3 4735 Mern,3,495000.0,24-03-1999,Alm.,2719,5,Villa,182,2016,
+Hasselstien 8 4735 Mern,8,280000.0,22-03-1999,Alm.,6511,2,Sommerhus,43,1967,
+Mernvej 5 4735 Mern,5,128000.0,14-03-1999,Alm.,962,5,Villa,133,1877,
+Smedevej 11 4735 Mern,11,648121.0,01-03-1999,Alm.,3224,4,Villa,201,1963,
+Røstofte Skovvej 11 4735 Mern,11,740200.0,21-01-1999,Alm.,5874,4,Stuehus,126,1850,
+Solbærvej 6 4735 Mern,6,779000.0,18-01-1999,Alm.,5158,4,Villa,151,1978,
+Skovlinien 4 4735 Mern,4,1014000.0,31-12-1998,Alm.,7921,4,Villa,128,1900,
+Trekanten 2 4735 Mern,2,1753205.0,29-12-1998,Alm.,7460,9,Stuehus,235,1900,
+Gl Præstøvej 17 4735 Mern,17,50000.0,10-12-1998,Alm.,714,2,Villa,70,1900,
+Sandvigvej 33 4735 Mern,33,308000.0,10-11-1998,Alm.,3623,3,Villa,85,1920,
+Skolemarksvej 12 4735 Mern,12,585000.0,13-10-1998,Alm.,5416,4,Villa,108,1971,
+Kløverbakken 26 4735 Mern,26,70000.0,13-10-1998,Fam.,3043,2,Sommerhus,23,1971,
+Ørslevvej 267 4735 Mern,267,524000.0,24-09-1998,Alm.,4596,6,Villa,114,1923,
+Gl Præstøvej 44 4735 Mern,44,578739.0,01-09-1998,Alm.,5121,4,Villa,113,1947,
+Vallebovej 2 4735 Mern,2,421280.0,30-08-1998,Alm.,5332,3,Villa,79,1915,
+Tjørnevænget 15 4735 Mern,15,317579.0,29-08-1998,Alm.,4602,4,Sommerhus,69,1974,
+Kalvehavevej 15 4735 Mern,15,567000.0,25-06-1998,Alm.,5504,3,Villa,103,1961,
+Hestetoften 1B 4735 Mern,0,900000.0,24-06-1998,Alm.,5232,6,Stuehus,172,1913,
+Lilliendalsvej 25 4735 Mern,25,536067.0,17-06-1998,Alm.,4323,3,Villa,124,1981,
+Skolemarksvej 16 4735 Mern,16,559588.0,11-06-1998,Alm.,3730,4,Villa,150,1900,
+Ørslevvej 265 4735 Mern,265,650000.0,01-06-1998,Alm.,4924,6,Villa,132,1943,
+Øster Egesborgvej 2 4735 Mern,2,142330.0,25-05-1998,Alm.,0,5,Villa,196,1917,
+Hybenvej 7 4735 Mern,7,719825.0,18-05-1998,Alm.,6048,5,Villa,119,1973,
+Lilliendalsvej 29 4735 Mern,29,680445.0,15-05-1998,Alm.,5916,4,Villa,115,1965,
+Sandvigvej 12 4735 Mern,12,771188.0,13-03-1998,Alm.,4975,6,Villa,155,1919,
+Hulvejen 2B 4735 Mern,0,1000000.0,03-03-1998,Alm.,5050,7,Villa,198,1975,
+Balle Strandvej 26 4735 Mern,26,250000.0,04-12-1997,Andet,0,3,Villa,102,1936,
+Hasselstien 5 4735 Mern,5,306000.0,16-11-1997,Alm.,4135,3,Sommerhus,74,1972,
+Sandvigvej 16 4735 Mern,16,705000.0,17-10-1997,Alm.,4378,6,Villa,161,1981,
+Kindvigvej 30 4735 Mern,30,976948.0,02-10-1997,Alm.,6343,4,Villa,154,1915,
+Nordvej 7 4735 Mern,7,290000.0,12-09-1997,Alm.,917,6,Villa,316,2001,
+Engvej 7 4735 Mern,7,381000.0,10-09-1997,Alm.,4884,3,Villa,78,1885,
+Vallebovej 8 4735 Mern,8,849525.0,05-09-1997,Alm.,5516,5,Villa,154,1923,
+Røstoftevej 19 4735 Mern,19,195000.0,13-08-1997,Andet,4333,2,Villa,45,1877,
+Lærkevej 4 4735 Mern,4,164000.0,18-07-1997,Alm.,0,4,Sommerhus,94,1969,
+Solbærvej 10 4735 Mern,10,657000.0,27-06-1997,Alm.,0,5,Villa,157,1980,
+Nedermarken 10 4735 Mern,10,1319683.0,26-06-1997,Andet,9775,5,Stuehus,135,1912,
+Smedevej 17 4735 Mern,17,332000.0,30-05-1997,Alm.,2405,4,Villa,138,1917,
+Præstetoften 10 4735 Mern,10,532164.0,28-05-1997,Alm.,4362,5,Villa,122,1960,
+Kvædevej 5 4735 Mern,5,632828.0,22-05-1997,Alm.,0,4,Villa,166,1976,
+Røstofte Mark 6 4735 Mern,6,620000.0,21-05-1997,Alm.,4960,4,Stuehus,125,1910,
+Gl Præstøvej 28 4735 Mern,28,417000.0,21-04-1997,Alm.,3594,4,Villa,116,1920,
+Præstetoften 8 4735 Mern,8,619636.0,14-04-1997,Alm.,3972,7,Villa,156,1960,
+Blåbærvej 19 4735 Mern,19,599953.0,09-04-1997,Alm.,4687,4,Villa,128,1976,
+Vibekrogen 1 4735 Mern,1,47000.0,05-02-1997,Alm.,610,3,Sommerhus,77,1999,
+Hyldestien 4 4735 Mern,4,290000.0,30-01-1997,Alm.,2338,4,Sommerhus,124,1969,
+Kindvigvej 29 4735 Mern,29,320000.0,11-01-1997,Alm.,4050,2,Villa,79,1956,
+Solbærvej 17 4735 Mern,17,579000.0,28-12-1996,Alm.,4632,4,Villa,125,1976,
+Lekkendevej 15 4735 Mern,15,307227.0,19-12-1996,Alm.,2118,5,Villa,145,1900,
+Sandvigvej 21 4735 Mern,21,230000.0,18-12-1996,Fam.,2190,4,Sommerhus,105,1890,
+Drosselbakken 3 4735 Mern,3,180000.0,30-10-1996,Fam.,3333,2,Sommerhus,54,1967,
+Præstetoften 20 4735 Mern,20,276886.0,14-10-1996,Alm.,0,6,Stuehus,174,1938,
+Markskellet 1 4735 Mern,1,650000.0,09-10-1996,Alm.,5701,3,Stuehus,114,1877,
+Balledammen 12 4735 Mern,12,538800.0,03-09-1996,Alm.,3498,5,Villa,154,1825,
+Tangvej 9 4735 Mern,9,170000.0,19-08-1996,Alm.,4857,3,Villa,35,1967,
+Mernvej 1 4735 Mern,1,1897500.0,08-07-1996,Alm.,14484,4,Sommerhus,131,1885,
+Poppelvænget 6 4735 Mern,6,450000.0,04-06-1996,Alm.,7894,3,Sommerhus,57,1970,
+Sandevej 3 4735 Mern,3,260000.0,27-05-1996,Alm.,3466,5,Sommerhus,75,1962,
+Bydammen 2 4735 Mern,2,160600.0,24-05-1996,Alm.,2470,2,Villa,65,1800,
+Balle Strandvej 36 4735 Mern,36,1000000.0,10-05-1996,Alm.,0,4,Villa,80,1990,
+Kalvehavevej 13 4735 Mern,13,686640.0,03-05-1996,Alm.,3992,6,Villa,172,1944,
+Bydammen 18 4735 Mern,18,880000.0,21-03-1996,Alm.,4230,9,Villa,208,1860,
+Kohavevej 2 4735 Mern,2,62000.0,23-02-1996,Alm.,382,5,Villa,162,1913,
+Poppelvænget 2 4735 Mern,2,280000.0,21-01-1996,Alm.,3943,3,Sommerhus,71,2007,
+Hulvejen 4 4735 Mern,4,2314203.0,12-01-1996,Alm.,11571,8,Stuehus,200,1956,
+Skolemarksvej 6 4735 Mern,6,395000.0,03-01-1996,Alm.,3237,4,Villa,122,1908,
+Hulvejen 6 4735 Mern,6,219000.0,31-12-1995,Alm.,2607,3,Villa,84,1945,
+Nordvej 8 4735 Mern,8,130000.0,11-12-1995,Fam.,2241,2,Sommerhus,58,2004,
+Nordvej 10 4735 Mern,10,330000.0,11-12-1995,Fam.,0,4,Villa,108,1960,
+Balledammen 5 4735 Mern,5,820896.0,01-11-1995,Alm.,5472,5,Stuehus,150,1877,
+Jungshovedvej 8 4735 Mern,8,426000.0,31-10-1995,Alm.,3610,4,Villa,118,1890,
+Stårbyvej 5 4735 Mern,5,195500.0,19-09-1995,Fam.,0,3,Villa,93,1914,
+Smedevej 7 4735 Mern,7,319880.0,11-09-1995,Alm.,4921,2,Villa,65,1777,
+Kalvehavevej 8 4735 Mern,8,396000.0,02-09-1995,Alm.,3882,4,Villa,102,1948,
+Kærsangervej 5 4735 Mern,5,212580.0,28-08-1995,Alm.,4010,3,Sommerhus,53,1968,
+Møllebakken 4 4735 Mern,4,408196.0,07-07-1995,Alm.,2874,4,Villa,142,1920,
+Balle Strandvej 11 4735 Mern,11,900000.0,22-06-1995,Alm.,0,4,Stuehus,146,1900,
+Gl Præstøvej 25 4735 Mern,25,369000.0,07-06-1995,Alm.,2816,5,Villa,131,1944,
+Ørslevvej 298 4735 Mern,298,190000.0,24-04-1995,Alm.,2714,3,Villa,70,1944,
+Strandhusene 7 4735 Mern,7,177000.0,14-03-1995,Alm.,3540,4,Sommerhus,50,1965,
+Lillebyvej 5 4735 Mern,5,257566.0,09-03-1995,Alm.,2994,3,Villa,86,1885,
+Lilliendalsvej 3 4735 Mern,3,245000.0,03-03-1995,Alm.,1633,8,Villa,150,1900,
+Kvædevej 2 4735 Mern,2,585000.0,03-03-1995,Alm.,2867,6,Villa,204,1976,
+Øster Egesborgvej 18 4735 Mern,18,260000.0,03-02-1995,Alm.,1756,5,Villa,148,1971,
+Stadionsvej 9 4735 Mern,9,225000.0,20-12-1994,Alm.,0,7,Villa,244,1827,
+Røstofte Skovvej 5 4735 Mern,5,660000.0,06-10-1994,Alm.,0,8,Stuehus,248,1886,
+Kindvigvej 12 4735 Mern,12,180000.0,26-09-1994,Fam.,2647,3,Villa,68,1802,
+Sandevej 4 4735 Mern,4,625000.0,12-09-1994,Alm.,3140,8,Villa,199,1976,
+Gl Præstøvej 19 4735 Mern,19,290000.0,19-08-1994,Fam.,3918,2,Villa,74,1937,
+Stårbyvej 8 4735 Mern,8,240000.0,10-08-1994,Alm.,2666,3,Villa,90,1875,
+Hybenvej 9 4735 Mern,9,206717.0,09-08-1994,Andet,1782,4,Villa,116,1973,
+Lilliendalsvej 40 4735 Mern,40,400000.0,01-08-1994,Alm.,3007,5,Villa,133,1900,
+Kindvigvej 11 4735 Mern,11,375000.0,28-07-1994,Alm.,2403,7,Villa,156,1923,
+Markskellet 2 4735 Mern,2,1965000.0,20-06-1994,Alm.,9357,5,Stuehus,210,1872,
+Gl Præstøvej 49 4735 Mern,49,841500.0,13-05-1994,Fam.,5008,9,Stuehus,168,1911,
+Trekanten 3 4735 Mern,3,268265.0,08-05-1994,Fam.,1741,2,Villa,154,1905,
+Kindvigvej 24 4735 Mern,24,650000.0,05-05-1994,Alm.,2256,8,Villa,288,1908,
+Lekkendevej 1 4735 Mern,1,290000.0,24-01-1994,Alm.,0,5,Villa,154,1896,
+Slåenvej 6 4735 Mern,6,400000.0,24-01-1994,Alm.,0,5,Villa,159,1976,
+Sandvigvej 18 4735 Mern,18,100000.0,30-10-1993,Fam.,840,3,Villa,119,1860,
+Kindvigvej 22 4735 Mern,22,460000.0,15-10-1993,Alm.,3565,5,Villa,129,1827,
+Østergårdstræde 60 4735 Mern,60,250000.0,15-10-1993,Alm.,4310,3,Villa,58,1897,
+Vallebovej 12 4735 Mern,12,160000.0,12-10-1993,Andet,0,7,Villa,138,1800,
+Jungshovedvej 16 4735 Mern,16,505750.0,05-10-1993,Alm.,4771,3,Villa,106,1865,
+Smedevej 5B 4735 Mern,0,221000.0,23-08-1993,Alm.,3400,2,Villa,65,1827,
+Smedevej 12 4735 Mern,12,350000.0,27-07-1993,Alm.,0,5,Villa,162,1949,
+Præstetoften 18 4735 Mern,18,495000.0,19-07-1993,Alm.,5625,3,Villa,88,1938,
+Kalvehavevej 39 4735 Mern,39,410000.0,01-07-1993,Alm.,0,5,Villa,144,1927,
+Skolemarksvej 22 4735 Mern,22,275000.0,21-06-1993,Alm.,2037,4,Villa,135,1927,
+Øster Egesborgvej 20 4735 Mern,20,320000.0,08-03-1993,Alm.,3720,4,Villa,86,1960,
+Kvædevej 9 4735 Mern,9,545000.0,02-02-1993,Alm.,0,4,Villa,187,1979,
+Teglgårdsvej 1 4735 Mern,1,360000.0,04-01-1993,Alm.,0,5,Villa,172,1930,
+Poppelvænget 11 4735 Mern,11,120000.0,21-11-1992,Alm.,2448,3,Sommerhus,49,1973,
+Lilliendalsvej 10 4735 Mern,10,580000.0,20-11-1992,Fam.,2815,7,Villa,206,1950,
+Balle Strandvej 20 4735 Mern,20,276375.0,18-11-1992,Alm.,0,4,Villa,142,1930,
+Smedevej 10 4735 Mern,10,495000.0,16-11-1992,Alm.,4669,4,Villa,106,1927,
+Nordvej 18 4735 Mern,18,175000.0,14-11-1992,Alm.,1650,4,Villa,106,1980,
+Jungshovedvej 9 4735 Mern,9,415000.0,01-09-1992,Fam.,3705,4,Villa,112,1962,
+Hybenvej 2 4735 Mern,2,442500.0,03-08-1992,Auktion,3403,5,Villa,130,1969,
+Østergårdstræde 34 4735 Mern,34,495000.0,24-07-1992,Alm.,5625,3,Villa,88,1885,
+Strandhusene 1 4735 Mern,1,290000.0,22-07-1992,Alm.,3452,3,Sommerhus,84,1950,
+Gl Præstøvej 51 4735 Mern,51,175000.0,17-06-1992,Andet,0,6,Stuehus,221,1877,
+Bakkekammen 4 4735 Mern,4,454695.0,08-05-1992,Alm.,0,5,Villa,181,1877,
+Røstoftevej 18 4735 Mern,18,242500.0,20-04-1992,Alm.,2204,6,Villa,110,1777,
+Banevej 3 4735 Mern,3,380000.0,25-03-1992,Fam.,3140,5,Villa,121,1967,
+Morelvej 8 4735 Mern,8,435000.0,23-03-1992,Alm.,0,6,Villa,173,1970,
+Bakkehøjvej 2 4735 Mern,2,625000.0,16-03-1992,Alm.,3396,8,Villa,184,1930,
+Hyldestien 6 4735 Mern,6,35194.0,03-02-1992,Alm.,0,5,Sommerhus,136,1967,
+Sagebyvej 7 4735 Mern,7,495000.0,03-02-1992,Alm.,2828,6,Villa,175,1927,
+Stårbyvej 12 4735 Mern,12,475000.0,27-01-1992,Alm.,924,14,Døgninstitution,514,1890,

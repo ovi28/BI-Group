@@ -1,0 +1,604 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Højgården 39 9380 Vestbjerg,39,1970000.0,05-05-2017,Alm.,16837,4,Rækkehus,117,2017,
+Bellisvej 8 9380 Vestbjerg,8,2510000.0,21-04-2017,Alm.,12425,7,Villa,202,1968,
+Søhusevej 20 9380 Vestbjerg,20,4500000.0,18-04-2017,Andet,24324,7,Villa,185,1962,
+Vedbendvej 7 9380 Vestbjerg,7,1650000.0,27-03-2017,Alm.,14601,4,Villa,113,1966,
+Mølbjergvej 19 9380 Vestbjerg,19,3695000.0,14-03-2017,Alm.,16949,8,Villa,218,1971,0 %
+Højgården 73 9380 Vestbjerg,73,840000.0,10-03-2017,Andet,7179,4,Rækkehus,117,2017,
+Stråtaget 78 9380 Vestbjerg,78,1050000.0,22-02-2017,Fam.,6603,5,Villa,159,1979,
+Stråtaget 123 9380 Vestbjerg,123,2198000.0,17-02-2017,Alm.,17725,4,Villa,124,2016,0 %
+Stråtaget 98 9380 Vestbjerg,98,1845000.0,08-02-2017,Alm.,15247,4,Villa,121,1986,0 %
+Højgården 45 9380 Vestbjerg,45,1825000.0,27-01-2017,Alm.,15598,4,Rækkehus,117,2017,
+Højgården 41 9380 Vestbjerg,41,1895000.0,24-01-2017,Alm.,16196,4,Rækkehus,117,2017,
+Højgården 35 9380 Vestbjerg,35,1895000.0,24-01-2017,Alm.,16196,4,Rækkehus,117,2017,
+Højgården 37 9380 Vestbjerg,37,1895000.0,24-01-2017,Alm.,16196,4,Rækkehus,117,2017,
+Højgården 26 9380 Vestbjerg,26,700000.0,18-01-2017,Alm.,7368,4,Villa,95,1967,
+Stakladen 66 9380 Vestbjerg,66,2254500.0,17-01-2017,Alm.,14639,5,Villa,154,1974,-6 %
+Tingvej 26 9380 Vestbjerg,26,2275000.0,16-01-2017,Alm.,8425,7,Stuehus,270,1877,
+Slugten 3 9380 Vestbjerg,3,1617000.0,16-01-2017,Alm.,13939,5,Villa,116,1963,
+Stråtaget 120 9380 Vestbjerg,120,1600000.0,12-01-2017,Alm.,13223,4,Villa,121,1985,-6 %
+Møllehusvej 24 9380 Vestbjerg,24,2200000.0,07-01-2017,Alm.,14864,4,Villa,148,1966,-4 %
+Vestbjerg Skovvej 25 9380 Vestbjerg,25,2610000.0,05-01-2017,Alm.,23513,3,Villa,111,1952,31 %
+Jasminvej 4 9380 Vestbjerg,4,1430000.0,03-01-2017,Alm.,11916,4,Villa,120,1966,-4 %
+Tines Vej 46 9380 Vestbjerg,46,150000.0,22-12-2016,Alm.,697,7,Villa,215,1977,
+Læhegnet 29 9380 Vestbjerg,29,1760000.0,20-12-2016,Alm.,13538,4,Villa,130,1973,-2 %
+Stakladen 42 9380 Vestbjerg,42,2295000.0,16-12-2016,Alm.,10384,5,Villa,221,1975,0 %
+Højgården 9 9380 Vestbjerg,9,1970000.0,23-11-2016,Alm.,16837,4,Rækkehus,117,2017,
+Højgården 67 9380 Vestbjerg,67,1895000.0,11-11-2016,Alm.,16196,4,Rækkehus,117,2016,
+Sulsted Landevej 39 9380 Vestbjerg,39,470000.0,08-11-2016,Alm.,4653,4,Villa,101,1949,-55 %
+Vestbjerggårdvej 9 9380 Vestbjerg,9,1483000.0,28-10-2016,Alm.,11496,5,Rækkehus,129,1977,
+Læhegnet 47 9380 Vestbjerg,47,1825000.0,27-10-2016,Alm.,12500,5,Villa,146,1973,-4 %
+Rosenvej 2 9380 Vestbjerg,2,590857.0,09-10-2016,Fam.,5093,4,Villa,116,1966,
+Højgården 11 9380 Vestbjerg,11,1895000.0,04-10-2016,Alm.,16196,4,Rækkehus,117,2017,
+Højgården 7 9380 Vestbjerg,7,1895000.0,04-10-2016,Alm.,16196,4,Rækkehus,117,2017,
+Myntevej 8 9380 Vestbjerg,8,1970000.0,09-09-2016,Alm.,12160,5,Villa,162,1969,-1 %
+Højgården 55 9380 Vestbjerg,55,1895000.0,07-09-2016,Alm.,16196,4,Rækkehus,117,2016,
+Hyacintvej 10 9380 Vestbjerg,10,2995000.0,06-09-2016,Alm.,17312,5,Villa,173,1965,0 %
+Vestbjerggårdvej 3 9380 Vestbjerg,3,1265000.0,05-09-2016,Alm.,9806,5,Rækkehus,129,1977,-6 %
+Mølbjergvej 1 9380 Vestbjerg,1,1660000.0,01-09-2016,Alm.,12769,4,Villa,130,1964,-2 %
+Højgården 65 9380 Vestbjerg,65,1895000.0,01-09-2016,Alm.,16196,4,Rækkehus,117,2016,
+Vestbjerggårdvej 19 9380 Vestbjerg,19,1430000.0,30-08-2016,Alm.,11085,5,Rækkehus,129,1977,-4 %
+Kongelysvej 8 9380 Vestbjerg,8,2578000.0,30-08-2016,Alm.,14816,5,Villa,174,1969,0 %
+Vindfløjen 44 9380 Vestbjerg,44,1400000.0,15-08-2016,Alm.,9459,5,Villa,148,1978,-6 %
+Læhegnet 41 9380 Vestbjerg,41,2145000.0,22-07-2016,Alm.,16250,5,Villa,132,1973,-2 %
+Stråtaget 127 9380 Vestbjerg,127,2945000.0,12-07-2016,Alm.,16361,6,Villa,180,2010,-2 %
+Tingvej 3 9380 Vestbjerg,3,1468000.0,08-07-2016,Alm.,13345,4,Villa,110,1957,-2 %
+Højgården 17 9380 Vestbjerg,17,1895000.0,06-07-2016,Alm.,16196,4,Rækkehus,117,2017,
+Kaprifolievej 11 9380 Vestbjerg,11,2240000.0,05-07-2016,Alm.,14177,5,Villa,158,1972,-2 %
+Højgården 16 9380 Vestbjerg,16,650000.0,01-07-2016,Alm.,3170,5,Villa,205,2016,
+Mølbjergvej 15 9380 Vestbjerg,15,1598000.0,28-06-2016,Alm.,15980,4,Villa,100,1963,0 %
+Tagskægget 47 9380 Vestbjerg,47,1445000.0,23-06-2016,Alm.,15052,4,Villa,96,1979,0 %
+Højgården 51 9380 Vestbjerg,51,1895000.0,22-06-2016,Alm.,16196,4,Rækkehus,117,2016,
+Højgården 53 9380 Vestbjerg,53,1895000.0,07-06-2016,Alm.,16196,4,Rækkehus,117,2016,
+Højgården 47 9380 Vestbjerg,47,1895000.0,07-06-2016,Alm.,16196,4,Rækkehus,117,2016,
+Højgården 15 9380 Vestbjerg,15,1895000.0,02-06-2016,Alm.,16196,4,Rækkehus,117,2017,
+Højgården 61 9380 Vestbjerg,61,1895000.0,02-06-2016,Alm.,16196,4,Rækkehus,117,2016,
+Højgården 5 9380 Vestbjerg,5,1895000.0,02-06-2016,Alm.,16196,4,Rækkehus,117,2017,
+Tines Vej 50 9380 Vestbjerg,50,2115000.0,31-05-2016,Alm.,11432,5,Villa,185,1980,-4 %
+Højgården 13 9380 Vestbjerg,13,1895000.0,30-05-2016,Alm.,16196,4,Rækkehus,117,2017,
+Gyldenrisvej 17 9380 Vestbjerg,17,2200000.0,27-05-2016,Alm.,11111,6,Villa,198,1964,-4 %
+Valmuevej 5 9380 Vestbjerg,5,1975000.0,20-05-2016,Alm.,12660,4,Villa,156,1968,-1 %
+Slugten 18 9380 Vestbjerg,18,3250000.0,18-05-2016,Alm.,26000,4,Villa,125,1969,0 %
+Stråtaget 6 9380 Vestbjerg,6,1400000.0,28-04-2016,Alm.,11570,4,Villa,121,1985,
+Lupinvej 1 9380 Vestbjerg,1,2700000.0,20-04-2016,Alm.,15789,6,Villa,171,1968,-3 %
+Højgården 71 9380 Vestbjerg,71,1895000.0,20-04-2016,Alm.,16196,4,Rækkehus,117,2017,
+Højgården 75 9380 Vestbjerg,75,1895000.0,15-04-2016,Alm.,16196,4,Rækkehus,117,2017,
+Guldregnsvej 12 9380 Vestbjerg,12,2050000.0,13-04-2016,Alm.,13486,5,Villa,152,1969,-2 %
+Højgården 77 9380 Vestbjerg,77,1895000.0,13-04-2016,Alm.,16196,4,Rækkehus,117,2017,
+Mejlstedvej 17 9380 Vestbjerg,17,575000.0,31-03-2016,Alm.,5227,4,Villa,110,1963,-17 %
+Søhusevej 11 9380 Vestbjerg,11,4000000.0,20-03-2016,Alm.,11428,10,Villa,350,1968,-11 %
+Slugten 15 9380 Vestbjerg,15,2225000.0,15-03-2016,Alm.,15033,5,Villa,148,1999,-3 %
+Læhegnet 59 9380 Vestbjerg,59,2495000.0,14-03-2016,Alm.,14676,5,Villa,170,1974,
+Mølbjergvej 20 9380 Vestbjerg,20,3400000.0,11-03-2016,Alm.,17708,5,Villa,192,1962,-8 %
+Søhusevej 59 9380 Vestbjerg,59,330000.0,21-01-2016,Alm.,6875,2,Sommerhus,48,1945,
+Marie Grubbes Vej 1 9380 Vestbjerg,1,2275000.0,13-01-2016,Alm.,11973,6,Villa,190,1963,-5 %
+Hanebjælken 60 9380 Vestbjerg,60,600000.0,12-01-2016,Alm.,3947,4,Villa,152,2016,0 %
+Tines Vej 64 9380 Vestbjerg,64,1615000.0,09-01-2016,Alm.,14816,3,Villa,109,1975,-4 %
+Højgården 63 9380 Vestbjerg,63,1895000.0,14-12-2015,Alm.,16196,4,Rækkehus,117,2016,
+Bellisvej 11 9380 Vestbjerg,11,1570000.0,10-12-2015,Alm.,14537,4,Villa,108,1969,-2 %
+Højgården 4 9380 Vestbjerg,4,700000.0,01-12-2015,Alm.,3867,6,Villa,181,2016,
+Højgården 18 9380 Vestbjerg,18,900000.0,01-12-2015,Alm.,5000,5,Villa,180,2017,
+Stakladen 62 9380 Vestbjerg,62,2195000.0,11-11-2015,Alm.,14346,5,Villa,153,1975,
+Egelundsvej 9 9380 Vestbjerg,9,2925000.0,30-10-2015,Alm.,10675,8,Villa,274,1971,0 %
+Læhegnet 1 9380 Vestbjerg,1,2275000.0,30-10-2015,Alm.,13382,5,Villa,170,1973,0 %
+Tines Vej 1B 9380 Vestbjerg,0,1495000.0,16-10-2015,Alm.,16075,4,Villa,93,2003,
+Kaprifolievej 5 9380 Vestbjerg,5,1950000.0,13-10-2015,Alm.,12187,5,Villa,160,1971,-2 %
+Højgården 49 9380 Vestbjerg,49,1845000.0,13-10-2015,Alm.,15769,4,Rækkehus,117,2016,
+Højgården 59 9380 Vestbjerg,59,1895000.0,07-10-2015,Alm.,16196,4,Rækkehus,117,2016,
+Læhegnet 25 9380 Vestbjerg,25,1900000.0,06-10-2015,Alm.,11728,4,Villa,162,1973,-5 %
+Tines Vej 5 9380 Vestbjerg,5,2395000.0,04-10-2015,Alm.,15966,4,Villa,150,2006,-4 %
+Hanebjælken 68 9380 Vestbjerg,68,520000.0,02-10-2015,Alm.,2872,4,Villa,181,2016,-20 %
+Højgården 69 9380 Vestbjerg,69,1895000.0,02-10-2015,Alm.,16196,4,Rækkehus,117,2016,
+Højgården 43 9380 Vestbjerg,43,1895000.0,30-09-2015,Alm.,16196,4,Rækkehus,117,2017,
+Højgården 2 9380 Vestbjerg,2,700000.0,29-09-2015,Alm.,4575,5,Villa,153,2016,
+Højgården 24 9380 Vestbjerg,24,900000.0,29-09-2015,Alm.,4568,6,Villa,197,2017,
+Højgården 14 9380 Vestbjerg,14,650000.0,29-09-2015,Alm.,3532,5,Villa,184,2017,
+Højgården 57 9380 Vestbjerg,57,1895000.0,29-09-2015,Alm.,16196,4,Rækkehus,117,2016,
+Bakkelyvej 5 9380 Vestbjerg,5,800000.0,16-09-2015,Alm.,10000,3,Villa,80,1962,
+Hanebjælken 64 9380 Vestbjerg,64,520000.0,09-09-2015,Alm.,3250,5,Villa,160,2016,
+Hanebjælken 62 9380 Vestbjerg,62,520000.0,09-09-2015,Alm.,3312,5,Villa,157,2016,
+Stakladen 16 9380 Vestbjerg,16,1525000.0,03-09-2015,Alm.,10445,5,Villa,146,1974,-4 %
+Tagskægget 76 9380 Vestbjerg,76,2480000.0,31-08-2015,Alm.,12717,4,Villa,195,2015,-1 %
+Stråtaget 36 9380 Vestbjerg,36,1675000.0,21-08-2015,Alm.,14692,3,Villa,114,1979,0 %
+Månelysvej 12 9380 Vestbjerg,12,1420000.0,17-08-2015,Alm.,8875,5,Villa,160,1972,
+Guldstjernevej 2 9380 Vestbjerg,2,1685000.0,25-06-2015,Alm.,11308,6,Villa,149,1968,0 %
+Lobeliavej 9 9380 Vestbjerg,9,2090000.0,24-06-2015,Alm.,14413,5,Villa,145,1964,
+Hanebjælken 171 9380 Vestbjerg,171,620000.0,23-06-2015,Alm.,4161,5,Villa,149,2016,
+Tines Vej 5A 9380 Vestbjerg,0,2300000.0,04-06-2015,Alm.,15333,4,Villa,150,2006,-4 %
+Møllehusvej 2 9380 Vestbjerg,2,2170000.0,02-06-2015,Alm.,14466,4,Villa,150,1970,
+Gyldenrisvej 12 9380 Vestbjerg,12,1965000.0,31-05-2015,Alm.,10916,5,Villa,180,1965,-2 %
+Bakkelyvej 38 9380 Vestbjerg,38,2040000.0,27-05-2015,Alm.,11657,5,Villa,175,1967,-3 %
+Hyacintvej 2 9380 Vestbjerg,2,1212500.0,19-05-2015,Fam.,5388,6,Villa,225,1965,
+Stakladen 10 9380 Vestbjerg,10,1765000.0,16-05-2015,Alm.,11031,5,Villa,160,1974,0 %
+Søhusevej 15 9380 Vestbjerg,15,360000.0,11-05-2015,Alm.,786,8,Villa,458,2008,
+Bakkelyvej 25 9380 Vestbjerg,25,1900000.0,22-04-2015,Fam.,11377,6,Villa,167,1986,
+Myntevej 6 9380 Vestbjerg,6,1850000.0,31-03-2015,Alm.,9736,5,Villa,190,1967,-7 %
+Jørgen Steins Vej 1 9380 Vestbjerg,1,2200000.0,20-03-2015,Alm.,11458,6,Villa,192,1965,-12 %
+Bellisvej 3 9380 Vestbjerg,3,2100000.0,18-03-2015,Alm.,10606,7,Villa,198,1973,-4 %
+Læhegnet 51 9380 Vestbjerg,51,2070000.0,12-03-2015,Alm.,12105,4,Villa,171,1975,-1 %
+Hyacintvej 4 9380 Vestbjerg,4,1350000.0,15-02-2015,Fam.,6923,6,Villa,195,1969,
+Vestbjerg Kærvej 19 9380 Vestbjerg,19,1450000.0,06-02-2015,Alm.,3670,7,Stuehus,395,1850,
+Kongelysvej 7 9380 Vestbjerg,7,1482095.0,03-02-2015,Fam.,8982,5,Villa,165,1968,
+Vindfløjen 4 9380 Vestbjerg,4,1650000.0,30-01-2015,Alm.,11148,5,Villa,148,1977,-8 %
+Tines Vej 7K 9380 Vestbjerg,0,2200000.0,26-01-2015,Andet,11458,5,Rækkehus,192,1930,
+Hyacintvej 8 9380 Vestbjerg,8,1500000.0,21-01-2015,Alm.,10638,5,Villa,141,1964,-3 %
+Jørgen Steins Vej 11 9380 Vestbjerg,11,1450000.0,20-01-2015,Alm.,12083,3,Villa,120,1965,-3 %
+Vindfløjen 32 9380 Vestbjerg,32,1275000.0,05-01-2015,Alm.,0,4,Villa,102,1979,-5 %
+Irene Holms Vej 3 9380 Vestbjerg,3,525000.0,25-12-2014,Alm.,6562,2,Villa,80,1960,-12 %
+Terosevej 5 9380 Vestbjerg,5,1120000.0,23-12-2014,Fam.,5957,5,Villa,188,1969,
+Egelundsvej 6 9380 Vestbjerg,6,1050000.0,22-12-2014,Andet,7291,4,Villa,144,1940,
+Kongelysvej 11 9380 Vestbjerg,11,2101000.0,28-11-2014,Alm.,11116,5,Villa,189,1969,
+Tines Vej 18 9380 Vestbjerg,18,621046.0,12-11-2014,Fam.,2822,6,Villa,220,1976,
+Terosevej 11 9380 Vestbjerg,11,2895000.0,24-10-2014,Alm.,15564,5,Villa,186,1971,
+Tagskægget 74 9380 Vestbjerg,74,2200000.0,24-10-2014,Alm.,11640,7,Villa,189,2015,-4 %
+Stakladen 44 9380 Vestbjerg,44,1250000.0,14-10-2014,Alm.,10416,3,Villa,120,1974,-3 %
+Lobeliavej 4 9380 Vestbjerg,4,1675000.0,08-10-2014,Alm.,12500,5,Villa,134,1967,-1 %
+Primulavej 3 9380 Vestbjerg,3,1995000.0,30-09-2014,Alm.,17198,6,Villa,116,1965,-7 %
+Helledivej 69 9380 Vestbjerg,69,1193662.0,12-09-2014,Andet,3449,11,Stuehus,346,1986,
+Bakkelyvej 1 9380 Vestbjerg,1,713500.0,03-09-2014,Fam.,6995,4,Villa,102,1958,
+Møllehusvej 18 9380 Vestbjerg,18,1295000.0,27-08-2014,Alm.,10443,4,Villa,124,1965,0 %
+Tagskægget 5 9380 Vestbjerg,5,1700000.0,29-07-2014,Alm.,11643,6,Villa,146,1986,-3 %
+Læhegnet 35 9380 Vestbjerg,35,1940000.0,18-07-2014,Alm.,13472,4,Villa,144,1973,-3 %
+Egelundsvej 1B 9380 Vestbjerg,0,3050000.0,02-07-2014,Alm.,17039,5,Villa,179,1972,-1 %
+Stråtaget 118 9380 Vestbjerg,118,2060000.0,25-06-2014,Alm.,12046,7,Villa,171,1985,-2 %
+Bakkelyvej 2C 9380 Vestbjerg,0,1225000.0,18-06-2014,Alm.,10560,3,Villa,116,1948,-6 %
+Mølbjergvej 16 9380 Vestbjerg,16,2675000.0,10-06-2014,Alm.,12384,5,Villa,216,1966,-6 %
+Gyldenrisvej 4 9380 Vestbjerg,4,1865000.0,26-05-2014,Alm.,9713,5,Villa,192,1963,-7 %
+Marie Grubbes Vej 3 9380 Vestbjerg,3,1300000.0,20-05-2014,Alm.,10833,4,Villa,120,1964,-5 %
+Hanebjælken 179 9380 Vestbjerg,179,480000.0,07-05-2014,Alm.,2330,6,Villa,206,2016,
+Slugten 12 9380 Vestbjerg,12,1700000.0,09-04-2014,Alm.,11409,4,Villa,149,1964,-5 %
+Hanebjælken 181 9380 Vestbjerg,181,480000.0,04-04-2014,Alm.,2891,6,Villa,166,2014,-84 %
+Stråtaget 30 9380 Vestbjerg,30,1147500.0,28-03-2014,Fam.,8315,4,Villa,138,1979,
+Hanebjælken 177 9380 Vestbjerg,177,480000.0,10-03-2014,Alm.,2388,6,Villa,201,2017,
+Hanebjælken 175 9380 Vestbjerg,175,480120.0,05-03-2014,Alm.,2667,5,Villa,180,2015,
+Mølbjergvej 18 9380 Vestbjerg,18,1625000.0,14-02-2014,Alm.,8879,6,Villa,183,1966,-29 %
+Jasminvej 10 9380 Vestbjerg,10,1795000.0,09-02-2014,Alm.,8930,7,Villa,201,1966,-3 %
+Møllehusvej 22B 9380 Vestbjerg,0,800000.0,31-01-2014,Alm.,5000,5,Villa,160,2015,0 %
+Stråtaget 34 9380 Vestbjerg,34,1600000.0,30-01-2014,Alm.,11594,4,Villa,138,1979,-6 %
+Vestbjerggårdvej 1 9380 Vestbjerg,1,1225000.0,23-01-2014,Alm.,9496,5,Rækkehus,129,1977,-9 %
+Jasminvej 7 9380 Vestbjerg,7,1645000.0,20-01-2014,Alm.,12368,5,Villa,133,1967,0 %
+Mejlstedvej 13 9380 Vestbjerg,13,1645000.0,23-12-2013,Alm.,13708,4,Villa,120,1939,-3 %
+Læhegnet 101 9380 Vestbjerg,101,2000000.0,16-12-2013,Alm.,11428,5,Villa,175,1976,-5 %
+Gyldenrisvej 2 9380 Vestbjerg,2,2000000.0,12-12-2013,Alm.,14184,4,Villa,141,1966,
+Læhegnet 7 9380 Vestbjerg,7,1200000.0,29-11-2013,Alm.,7361,6,Villa,163,1972,-20 %
+Bakkelyvej 2 9380 Vestbjerg,2,2300000.0,25-11-2013,Alm.,11330,6,Villa,203,1960,0 %
+Stråtaget 111 9380 Vestbjerg,111,1975000.0,17-10-2013,Alm.,14208,5,Villa,139,2009,-1 %
+Tines Vej 15 9380 Vestbjerg,15,1072874.0,22-09-2013,Andet,7348,3,Villa,146,1976,
+Guldregnsvej 7 9380 Vestbjerg,7,1630000.0,18-09-2013,Alm.,11164,5,Villa,146,1970,-4 %
+Stråtaget 29 9380 Vestbjerg,29,440000.0,13-09-2013,Alm.,1818,7,Villa,242,2016,
+Vestbjerggårdvej 27 9380 Vestbjerg,27,975000.0,09-09-2013,Alm.,11470,3,Rækkehus,85,1987,-11 %
+Læhegnet 17 9380 Vestbjerg,17,1820000.0,08-08-2013,Alm.,11165,5,Villa,163,1974,-4 %
+Vestbjerggårdvej 7 9380 Vestbjerg,7,1400000.0,12-07-2013,Alm.,10852,5,Rækkehus,129,1977,-3 %
+Stråtaget 125 9380 Vestbjerg,125,2245000.0,12-07-2013,Alm.,14483,5,Villa,155,2010,0 %
+Vedbendvej 1 9380 Vestbjerg,1,1355000.0,03-07-2013,Alm.,9678,4,Villa,140,1968,-9 %
+Guldstjernevej 6 9380 Vestbjerg,6,1300000.0,31-05-2013,Alm.,9420,4,Villa,138,1968,-7 %
+Lupinvej 5 9380 Vestbjerg,5,2350000.0,27-05-2013,Alm.,13823,6,Villa,170,1966,-9 %
+Vestbjerggårdvej 2 9380 Vestbjerg,2,960000.0,26-04-2013,Alm.,5333,5,Villa,180,1960,-8 %
+Stråtaget 113 9380 Vestbjerg,113,2100000.0,22-04-2013,Alm.,13375,6,Villa,157,2004,-5 %
+Fyrbakkevej 8 9380 Vestbjerg,8,1400000.0,17-04-2013,Alm.,9090,5,Villa,154,1963,-9 %
+Guldstjernevej 12 9380 Vestbjerg,12,1850000.0,15-04-2013,Alm.,10335,7,Villa,179,1969,-2 %
+Egelundsvej 16A 9380 Vestbjerg,0,2077276.0,05-04-2013,Fam.,11670,6,Villa,178,2010,
+Vestbjerggårdvej 52 9380 Vestbjerg,52,1100000.0,25-03-2013,Fam.,7586,5,Villa,145,1996,
+Tagskægget 63 9380 Vestbjerg,63,1410000.0,17-03-2013,Fam.,10217,4,Villa,138,1980,
+Gyldenrisvej 33 9380 Vestbjerg,33,1395000.0,27-02-2013,Alm.,10813,4,Villa,129,1963,
+Tines Vej 7H 9380 Vestbjerg,0,1500000.0,12-01-2013,Alm.,11811,4,Rækkehus,127,1930,-3 %
+Tagskægget 17 9380 Vestbjerg,17,1550000.0,08-01-2013,Alm.,13135,5,Villa,118,1984,-3 %
+Niels Lyhnes Vej 4 9380 Vestbjerg,4,850100.0,20-12-2012,Alm.,4620,7,Villa,184,1965,13 %
+Bakkelyvej 4 9380 Vestbjerg,4,600000.0,19-11-2012,Fam.,4580,5,Villa,131,1960,
+Gyldenrisvej 5 9380 Vestbjerg,5,1500000.0,24-10-2012,Alm.,9433,5,Villa,159,1963,-5 %
+Hyacintvej 7 9380 Vestbjerg,7,1375000.0,26-09-2012,Alm.,9482,5,Villa,145,1968,-1 %
+Mølbjergvej 11 9380 Vestbjerg,11,750000.0,22-08-2012,Andet,4335,5,Villa,173,1969,
+Stråtaget 68 9380 Vestbjerg,68,1400000.0,15-08-2012,Alm.,12389,5,Villa,113,1979,-3 %
+Tagskægget 78 9380 Vestbjerg,78,2200000.0,27-07-2012,Alm.,11282,4,Villa,195,2010,-4 %
+Tines Vej 1C 9380 Vestbjerg,0,1365000.0,16-07-2012,Alm.,14677,4,Villa,93,2003,-2 %
+Stråtaget 94 9380 Vestbjerg,94,1550000.0,13-07-2012,Alm.,12704,5,Villa,122,1980,-3 %
+Stråtaget 15 9380 Vestbjerg,15,618000.0,13-07-2012,Alm.,4175,4,Villa,148,2013,-5 %
+Irene Holms Vej 5 9380 Vestbjerg,5,675000.0,25-06-2012,Alm.,6553,4,Villa,103,1963,-10 %
+Bakkelyvej 36 9380 Vestbjerg,36,1195000.0,21-06-2012,Alm.,8597,4,Villa,139,1968,-8 %
+Tagskægget 71 9380 Vestbjerg,71,1600000.0,19-06-2012,Alm.,10738,6,Villa,149,1986,-11 %
+Myntevej 9 9380 Vestbjerg,9,1450000.0,12-06-2012,Alm.,11240,4,Villa,129,1969,-6 %
+Stakladen 30 9380 Vestbjerg,30,2025000.0,12-06-2012,Alm.,9782,5,Villa,207,1975,-15 %
+Vestbjerggårdvej 5 9380 Vestbjerg,5,1350000.0,08-06-2012,Alm.,10465,5,Rækkehus,129,1977,-3 %
+Guldstjernevej 13 9380 Vestbjerg,13,1050000.0,06-06-2012,Alm.,9722,5,Villa,108,1963,-4 %
+Tandal 13 9380 Vestbjerg,13,700000.0,01-06-2012,Alm.,10769,2,Sommerhus,65,1962,-12 %
+Egelundsvej 2A 9380 Vestbjerg,0,1550000.0,31-05-2012,Alm.,10839,5,Villa,143,1974,-14 %
+Bakkelyvej 12 9380 Vestbjerg,12,1715000.0,31-05-2012,Alm.,12703,5,Villa,135,1964,-4 %
+Stakladen 18 9380 Vestbjerg,18,1950000.0,28-04-2012,Alm.,11206,5,Villa,174,1974,-2 %
+Vindfløjen 40 9380 Vestbjerg,40,1200000.0,26-04-2012,Alm.,9375,4,Villa,128,1984,-7 %
+Rosenvej 7 9380 Vestbjerg,7,1480000.0,26-03-2012,Alm.,9673,6,Villa,153,1967,
+Marie Grubbes Vej 4 9380 Vestbjerg,4,1475000.0,03-03-2012,Alm.,6704,6,Villa,220,1964,
+Guldstjernevej 3 9380 Vestbjerg,3,3000000.0,28-02-2012,Alm.,13636,5,Villa,220,1967,
+Vestbjerggårdvej 15 9380 Vestbjerg,15,1435000.0,13-02-2012,Alm.,11124,5,Rækkehus,129,1977,-4 %
+Tines Vej 66 9380 Vestbjerg,66,975000.0,08-02-2012,Alm.,8333,4,Villa,117,1979,-11 %
+Stakladen 12 9380 Vestbjerg,12,2100000.0,21-01-2012,Alm.,11111,5,Villa,189,1975,
+Vindfløjen 36 9380 Vestbjerg,36,1750000.0,19-01-2012,Alm.,11824,5,Villa,148,1978,-3 %
+Primulavej 1 9380 Vestbjerg,1,2325000.0,15-01-2012,Alm.,14440,5,Villa,161,1966,-7 %
+Tines Vej 7A 9380 Vestbjerg,0,2295000.0,29-12-2011,Alm.,13909,5,Villa,165,1800,
+Vindfløjen 16 9380 Vestbjerg,16,1200000.0,08-11-2011,Andet,7228,6,Villa,166,1978,
+Bellisvej 10 9380 Vestbjerg,10,1050000.0,26-10-2011,Alm.,9292,3,Villa,113,1965,-12 %
+Irene Holms Vej 1A 9380 Vestbjerg,0,850000.0,05-10-2011,Alm.,8947,3,Villa,95,1959,-15 %
+Søhusevej 4 9380 Vestbjerg,4,9700000.0,13-09-2011,Alm.,26216,10,Villa,370,1971,-3 %
+Tagskægget 27 9380 Vestbjerg,27,1325000.0,11-08-2011,Alm.,8030,6,Villa,165,1981,-9 %
+Vestbjerg Skovvej 21 9380 Vestbjerg,21,635000.0,05-08-2011,Alm.,12211,3,Sommerhus,52,1951,-9 %
+Læhegnet 9 9380 Vestbjerg,9,2575000.0,04-08-2011,Alm.,15058,5,Villa,171,1972,
+Jasminvej 6 9380 Vestbjerg,6,1645000.0,03-08-2011,Alm.,12851,5,Villa,128,1966,-3 %
+Søhusevej 1 9380 Vestbjerg,1,1850000.0,28-07-2011,Alm.,13602,5,Villa,136,1936,-6 %
+Bakkelyvej 17 9380 Vestbjerg,17,780000.0,25-07-2011,Alm.,6782,5,Villa,115,1961,-13 %
+Tagskægget 79 9380 Vestbjerg,79,1740000.0,12-07-2011,Alm.,10545,4,Villa,165,1985,-13 %
+Mogensvej 3 9380 Vestbjerg,3,1145000.0,20-06-2011,Alm.,12445,3,Villa,92,1962,-4 %
+Bellisvej 13 9380 Vestbjerg,13,1750000.0,30-05-2011,Fam.,11904,5,Villa,147,1967,
+Tines Vej 4A 9380 Vestbjerg,0,1525000.0,23-05-2011,Alm.,10374,5,Villa,147,1969,-8 %
+Stråtaget 60 9380 Vestbjerg,60,1700000.0,22-05-2011,Alm.,12781,4,Villa,133,1977,-6 %
+Mejlstedvej 11 9380 Vestbjerg,11,1020000.0,03-05-2011,Alm.,9532,3,Villa,107,1877,-7 %
+Myntevej 11 9380 Vestbjerg,11,925000.0,14-04-2011,Alm.,5640,4,Villa,164,1969,-54 %
+Stråtaget 12 9380 Vestbjerg,12,1625000.0,14-04-2011,Alm.,11054,4,Villa,147,1979,
+Mogensvej 13 9380 Vestbjerg,13,1170000.0,30-03-2011,Alm.,8125,5,Villa,144,1962,-10 %
+Guldstjernevej 8 9380 Vestbjerg,8,1270000.0,15-03-2011,Alm.,9007,5,Villa,141,1967,-6 %
+Bakkelyvej 22 9380 Vestbjerg,22,762500.0,21-02-2011,Alm.,3563,5,Villa,214,1964,
+Stråtaget 27 9380 Vestbjerg,27,500000.0,23-12-2010,Alm.,2631,4,Villa,190,2012,
+Stråtaget 17 9380 Vestbjerg,17,500000.0,23-12-2010,Alm.,2631,6,Villa,190,2013,
+Stråtaget 23 9380 Vestbjerg,23,500000.0,23-12-2010,Alm.,2673,5,Villa,187,2013,
+Vedbendvej 13 9380 Vestbjerg,13,1650000.0,22-11-2010,Alm.,11619,5,Villa,142,1967,-5 %
+Stråtaget 21 9380 Vestbjerg,21,600000.0,23-10-2010,Alm.,3680,5,Villa,163,2012,
+Hjørring Landevej 53 9380 Vestbjerg,53,700000.0,07-10-2010,Andet,5185,4,Stuehus,135,1991,
+Mølbjergvej 5 9380 Vestbjerg,5,1575000.0,17-09-2010,Alm.,10787,5,Villa,146,1963,-7 %
+Myntevej 1 9380 Vestbjerg,1,2195000.0,16-09-2010,Alm.,16884,4,Villa,130,1994,0 %
+Vestbjerggårdvej 62 9380 Vestbjerg,62,1250000.0,08-09-2010,Alm.,13736,1,Villa,91,1940,-11 %
+Vestbjerggårdvej 6 9380 Vestbjerg,6,1895000.0,07-09-2010,Alm.,15039,4,Villa,126,1998,0 %
+Hyacintvej 1 9380 Vestbjerg,1,1450000.0,20-08-2010,Alm.,9931,5,Villa,146,1970,
+Læhegnet 87 9380 Vestbjerg,87,1880000.0,18-08-2010,Alm.,9740,6,Villa,193,1974,5 %
+Slugten 13 9380 Vestbjerg,13,1615000.0,27-06-2010,Alm.,9969,5,Villa,162,1972,-5 %
+Vang Mark 42 9380 Vestbjerg,42,1500000.0,25-06-2010,Alm.,19736,3,Villa,76,1985,
+Mølbjergvej 4 9380 Vestbjerg,4,1300000.0,02-06-2010,Alm.,10400,4,Villa,125,1965,-3 %
+Vestbjerggårdvej 10 9380 Vestbjerg,10,850000.0,12-04-2010,Alm.,0,6,Villa,183,1997,
+Slugten 9B 9380 Vestbjerg,0,1745000.0,05-03-2010,Alm.,13527,4,Villa,129,1965,-8 %
+Vestbjerggårdvej 8 9380 Vestbjerg,8,825000.0,02-03-2010,Andet,6600,4,Villa,125,1997,
+Møllehusvej 11 9380 Vestbjerg,11,2260000.0,02-03-2010,Alm.,14394,5,Villa,157,1969,-6 %
+Læhegnet 39 9380 Vestbjerg,39,1750000.0,29-01-2010,Alm.,10174,7,Villa,172,1973,-3 %
+Tagskægget 31 9380 Vestbjerg,31,1750000.0,28-01-2010,Alm.,10174,5,Villa,172,1981,-8 %
+Tines Vej 24 9380 Vestbjerg,24,1345000.0,09-01-2010,Alm.,12339,4,Villa,109,1976,4 %
+Stakladen 56 9380 Vestbjerg,56,2693500.0,20-11-2009,Alm.,12355,6,Villa,218,1975,-4 %
+Sulsted Landevej 14 9380 Vestbjerg,14,955000.0,06-11-2009,Auktion,4380,6,Villa,218,1977,
+Tines Vej 11 9380 Vestbjerg,11,1420000.0,07-10-2009,Alm.,11833,5,Villa,120,1974,-5 %
+Tagskægget 77 9380 Vestbjerg,77,1700000.0,09-09-2009,Alm.,11724,5,Villa,145,1988,-5 %
+Vindfløjen 28 9380 Vestbjerg,28,1950000.0,25-08-2009,Alm.,11746,5,Villa,166,1979,-7 %
+Læhegnet 91 9380 Vestbjerg,91,1745000.0,30-07-2009,Alm.,11114,5,Villa,157,1972,0 %
+Gyldenrisvej 27 9380 Vestbjerg,27,566666.0,09-07-2009,Fam.,2432,6,Villa,233,1963,
+Stakladen 54 9380 Vestbjerg,54,1100000.0,09-07-2009,Fam.,7333,3,Villa,150,1972,
+Vedbendvej 12 9380 Vestbjerg,12,1300000.0,01-07-2009,Alm.,12149,4,Villa,107,1968,-7 %
+Tagskægget 11 9380 Vestbjerg,11,925000.0,26-06-2009,Fam.,4404,7,Villa,210,1988,
+Gyldenrisvej 31 9380 Vestbjerg,31,1750000.0,02-06-2009,Alm.,10606,3,Villa,165,1962,
+Rosenvej 11 9380 Vestbjerg,11,1235000.0,06-05-2009,Alm.,10466,4,Villa,118,1968,-5 %
+Lobeliavej 6 9380 Vestbjerg,6,1500000.0,01-05-2009,Andet,12000,4,Villa,125,1965,-12 %
+Kongelysvej 1 9380 Vestbjerg,1,2450000.0,01-04-2009,Alm.,14244,6,Villa,172,1969,-4 %
+Bakkelyvej 3 9380 Vestbjerg,3,1395000.0,06-03-2009,Alm.,10257,4,Villa,136,1971,0 %
+Tagskægget 72 9380 Vestbjerg,72,400000.0,26-02-2009,Alm.,2531,5,Villa,158,2009,
+Stakladen 38 9380 Vestbjerg,38,1835000.0,19-02-2009,Alm.,11540,6,Villa,159,1974,-8 %
+Egelundsvej 20 9380 Vestbjerg,20,1650000.0,11-02-2009,Alm.,6111,9,Villa,270,1967,
+Valmuevej 14 9380 Vestbjerg,14,1200000.0,09-02-2009,Alm.,9836,6,Villa,122,1967,
+Bakkelyvej 40 9380 Vestbjerg,40,2400000.0,19-12-2008,Alm.,15894,5,Villa,151,1967,-8 %
+Bakkelyvej 7 9380 Vestbjerg,7,957119.0,25-11-2008,Andet,8545,4,Villa,112,1968,
+Stråtaget 116 9380 Vestbjerg,116,847500.0,07-11-2008,Fam.,4956,6,Villa,171,1985,-57 %
+Gyldenrisvej 7 9380 Vestbjerg,7,1450000.0,25-10-2008,Alm.,9731,4,Villa,149,1963,-6 %
+Bakkelyvej 10 9380 Vestbjerg,10,795000.0,22-10-2008,Alm.,5371,7,Villa,148,1962,-6 %
+Rosenvej 5 9380 Vestbjerg,5,1450000.0,24-09-2008,Alm.,9863,5,Villa,147,1966,-6 %
+Læhegnet 23 9380 Vestbjerg,23,2345000.0,28-08-2008,Alm.,14475,4,Villa,162,1973,
+Egelundsvej 13 9380 Vestbjerg,13,4200000.0,29-07-2008,Alm.,20388,7,Villa,206,1968,-4 %
+Egelundsvej 1A 9380 Vestbjerg,0,1065000.0,03-07-2008,Fam.,10047,3,Villa,106,1964,
+Stakladen 13 9380 Vestbjerg,13,1500000.0,03-06-2008,Alm.,6787,7,Villa,221,1975,-10 %
+Læhegnet 67 9380 Vestbjerg,67,2350000.0,28-05-2008,Alm.,16095,4,Villa,146,1973,-2 %
+Guldregnsvej 11 9380 Vestbjerg,11,2185000.0,09-05-2008,Alm.,14763,5,Villa,148,1970,
+Stråtaget 44 9380 Vestbjerg,44,1800000.0,16-04-2008,Alm.,11111,5,Villa,162,1977,
+Primulavej 6 9380 Vestbjerg,6,1625000.0,07-03-2008,Alm.,0,5,Villa,161,1969,
+Tengedal 2 9380 Vestbjerg,2,4350000.0,19-01-2008,Alm.,27187,5,Stuehus,160,1939,-3 %
+Stokrosevej 6 9380 Vestbjerg,6,1700000.0,17-01-2008,Andet,10967,5,Villa,155,1970,
+Vedbendvej 3 9380 Vestbjerg,3,1085000.0,04-01-2008,Alm.,9863,4,Villa,110,1967,-1 %
+Højrimmenvej 30 9380 Vestbjerg,30,568750.0,01-11-2007,Alm.,10156,2,Stuehus,56,1915,
+Stråtaget 56 9380 Vestbjerg,56,1270000.0,31-10-2007,Alm.,13510,4,Villa,94,1977,-2 %
+Irene Holms Vej 11 9380 Vestbjerg,11,1000000.0,25-10-2007,Andet,4081,6,Villa,245,2008,
+Bellisvej 14 9380 Vestbjerg,14,1000000.0,28-09-2007,Fam.,5714,4,Villa,175,1970,
+Tagskægget 45 9380 Vestbjerg,45,1125000.0,14-09-2007,Fam.,8789,4,Villa,128,1983,
+Tagskægget 65 9380 Vestbjerg,65,2050000.0,13-09-2007,Alm.,12349,6,Villa,166,1985,
+Slugten 1 9380 Vestbjerg,1,850000.0,12-09-2007,Fam.,8173,4,Villa,104,1966,
+Mejlstedvej 31 9380 Vestbjerg,31,530000.0,28-08-2007,Alm.,7571,3,Villa,70,1910,
+Stakladen 11 9380 Vestbjerg,11,2795000.0,25-08-2007,Alm.,0,7,Villa,196,1976,0 %
+Vindfløjen 54 9380 Vestbjerg,54,1745000.0,20-08-2007,Alm.,11044,5,Villa,158,1977,-8 %
+Rosenvej 6 9380 Vestbjerg,6,1200000.0,14-08-2007,Fam.,7594,3,Villa,158,1967,
+Kongelysvej 9 9380 Vestbjerg,9,2498000.0,10-08-2007,Alm.,13216,5,Villa,189,1966,
+Bellisvej 5 9380 Vestbjerg,5,1800000.0,01-08-2007,Alm.,9473,6,Villa,190,1972,-5 %
+Vindfløjen 18 9380 Vestbjerg,18,1635000.0,09-07-2007,Alm.,13625,4,Villa,120,1977,-1 %
+Vindfløjen 12 9380 Vestbjerg,12,1625000.0,25-04-2007,Alm.,11775,4,Villa,138,1977,0 %
+Tingvej 15 9380 Vestbjerg,15,1095000.0,25-04-2007,Alm.,10428,4,Villa,105,1960,
+Sulsted Landevej 31 9380 Vestbjerg,31,375000.0,02-04-2007,Alm.,3409,5,Villa,110,1910,-25 %
+Læhegnet 3 9380 Vestbjerg,3,2050000.0,26-03-2007,Alm.,13666,5,Villa,150,1973,
+Vestbjerggårdvej 35 9380 Vestbjerg,35,985000.0,20-03-2007,Alm.,11321,3,Rækkehus,87,1987,
+Vedbendvej 9 9380 Vestbjerg,9,1445000.0,12-03-2007,Alm.,12787,4,Villa,113,1966,
+Tingvej 51 9380 Vestbjerg,51,3900000.0,07-03-2007,Alm.,13684,7,Villa,285,1940,
+Bellisvej 4 9380 Vestbjerg,4,1250000.0,28-02-2007,Alm.,9920,5,Villa,126,1966,
+Guldstjernevej 10 9380 Vestbjerg,10,1399000.0,26-02-2007,Alm.,10362,5,Villa,135,1968,
+Stråtaget 119 9380 Vestbjerg,119,1965000.0,26-01-2007,Alm.,14664,4,Villa,134,2003,
+Tagskægget 23 9380 Vestbjerg,23,1725000.0,26-01-2007,Alm.,9530,4,Villa,181,1984,
+Tagskægget 88 9380 Vestbjerg,88,125000.0,25-01-2007,Alm.,762,5,Villa,164,2008,
+Irene Holms Vej 1B 9380 Vestbjerg,0,1495000.0,28-12-2006,Alm.,8305,8,Villa,180,1958,
+Tines Vej 32 9380 Vestbjerg,32,750000.0,18-12-2006,Andet,3024,7,Villa,248,1977,
+Vang Mark 78 9380 Vestbjerg,78,1815000.0,18-12-2006,Alm.,10868,6,Stuehus,167,2009,
+Tingvej 1 9380 Vestbjerg,1,600000.0,05-12-2006,Alm.,6382,3,Villa,94,1936,
+"Blomsterbakken 4, 1 9380 Vestbjerg",1,7500000.0,30-10-2006,Alm.,0,6,Anden beboelse,200,1986,
+Læhegnet 75 9380 Vestbjerg,75,2050000.0,25-10-2006,Alm.,10250,6,Villa,200,1973,
+Kaprifolievej 1 9380 Vestbjerg,1,2170000.0,13-10-2006,Alm.,10585,7,Villa,205,1972,
+Tagskægget 80 9380 Vestbjerg,80,225000.0,07-10-2006,Alm.,1520,5,Villa,148,2008,
+Vedbendvej 10 9380 Vestbjerg,10,1378000.0,21-09-2006,Alm.,10600,4,Villa,130,1969,
+Tagskægget 29 9380 Vestbjerg,29,1595000.0,19-09-2006,Alm.,12967,5,Villa,123,1984,
+Gyldenrisvej 10 9380 Vestbjerg,10,1695000.0,21-08-2006,Alm.,13780,4,Villa,123,1963,
+Tagskægget 81 9380 Vestbjerg,81,1875000.0,18-08-2006,Alm.,9868,7,Villa,190,1986,
+Valmuevej 10 9380 Vestbjerg,10,3375000.0,26-07-2006,Alm.,15552,6,Villa,217,1968,
+Tines Vej 1D 9380 Vestbjerg,0,1200000.0,07-07-2006,Alm.,12903,4,Villa,93,2003,
+Stråtaget 121 9380 Vestbjerg,121,1495000.0,20-06-2006,Alm.,13230,5,Villa,113,2005,
+Tines Vej 1G 9380 Vestbjerg,0,1978000.0,13-06-2006,Alm.,11704,7,Villa,169,1988,
+Læhegnet 49 9380 Vestbjerg,49,1950000.0,05-05-2006,Alm.,11403,6,Villa,171,1973,
+Tingvej 2C 9380 Vestbjerg,0,1275000.0,19-04-2006,Alm.,8916,5,Villa,143,1964,
+Tines Vej 22 9380 Vestbjerg,22,678000.0,18-04-2006,Andet,4431,4,Villa,153,1976,
+Læhegnet 53 9380 Vestbjerg,53,1800000.0,04-04-2006,Alm.,9326,7,Villa,193,1973,
+Lupinvej 8 9380 Vestbjerg,8,1775000.0,22-03-2006,Alm.,10441,6,Villa,170,1967,
+Guldstjernevej 11 9380 Vestbjerg,11,706000.0,22-02-2006,Andet,3795,6,Villa,186,1967,
+Tagskægget 86 9380 Vestbjerg,86,284900.0,13-02-2006,Alm.,1780,6,Villa,160,2007,
+Mogensvej 4 9380 Vestbjerg,4,1425000.0,10-02-2006,Alm.,11875,4,Villa,120,1963,
+Tines Vej 70B 9380 Vestbjerg,0,720000.0,12-01-2006,Alm.,5142,5,Villa,140,1880,
+Tines Vej 30B 9380 Vestbjerg,0,1100000.0,30-12-2005,Alm.,10784,4,Rækkehus,102,1981,
+Tagskægget 61 9380 Vestbjerg,61,1355000.0,14-12-2005,Alm.,11885,4,Villa,114,1979,
+Tagskægget 83 9380 Vestbjerg,83,1550000.0,14-12-2005,Alm.,11923,5,Villa,130,1986,
+Højrimmenvej 32 9380 Vestbjerg,32,2000000.0,10-11-2005,Alm.,8888,7,Stuehus,225,2015,
+Vestbjerggårdvej 29 9380 Vestbjerg,29,895000.0,28-10-2005,Alm.,10529,3,Rækkehus,85,1987,
+Vestbjerggårdvej 33 9380 Vestbjerg,33,870000.0,25-10-2005,Alm.,10235,3,Rækkehus,85,1987,
+Lupinvej 10 9380 Vestbjerg,10,1695000.0,12-10-2005,Alm.,8921,4,Villa,190,1968,
+Læhegnet 33 9380 Vestbjerg,33,1645000.0,12-10-2005,Alm.,10612,5,Villa,155,1973,
+Valmuevej 12 9380 Vestbjerg,12,1782000.0,11-10-2005,Alm.,5979,12,Villa,298,1970,
+Stakladen 5 9380 Vestbjerg,5,1230000.0,18-09-2005,Alm.,10250,3,Villa,120,1975,
+Bakmøllevej 273 9380 Vestbjerg,273,3150000.0,04-08-2005,Alm.,9025,7,Villa,349,1966,
+Tagskægget 19 9380 Vestbjerg,19,1652500.0,07-07-2005,Alm.,9720,3,Villa,170,1979,
+Marie Grubbes Vej 8 9380 Vestbjerg,8,1950000.0,06-07-2005,Alm.,10833,5,Villa,180,2000,
+Tagskægget 73 9380 Vestbjerg,73,250000.0,23-06-2005,Alm.,1116,6,Villa,224,2014,
+Vestbjerg Skovvej 49 9380 Vestbjerg,49,204000.0,23-06-2005,Fam.,8500,2,Sommerhus,24,1966,
+Vestbjerg Skovvej 11 9380 Vestbjerg,11,410000.0,22-06-2005,Alm.,9761,2,Sommerhus,42,1944,
+Stråtaget 18 9380 Vestbjerg,18,1055000.0,16-06-2005,Alm.,9254,4,Villa,114,1980,
+Stakladen 68 9380 Vestbjerg,68,1795000.0,06-06-2005,Alm.,10027,5,Villa,179,1975,
+Primulavej 5 9380 Vestbjerg,5,1327000.0,31-05-2005,Alm.,10788,3,Villa,123,1965,
+Egelundsvej 2 9380 Vestbjerg,2,940000.0,11-05-2005,Alm.,6619,8,Villa,142,1962,
+Myntevej 14 9380 Vestbjerg,14,1725000.0,02-05-2005,Alm.,11896,5,Villa,145,1968,
+Bakkelyvej 8 9380 Vestbjerg,8,1000000.0,27-04-2005,Alm.,8849,4,Villa,113,1960,
+Hjørring Landevej 59 9380 Vestbjerg,59,995000.0,26-04-2005,Alm.,7107,5,Stuehus,140,1900,
+Bakmøllevej 267 9380 Vestbjerg,267,875000.0,13-04-2005,Alm.,3486,5,Stuehus,251,2009,
+Tingvej 14 9380 Vestbjerg,14,1150000.0,10-04-2005,Alm.,7931,5,Villa,145,1962,
+Myntevej 4 9380 Vestbjerg,4,554000.0,29-03-2005,Fam.,4616,4,Villa,120,1967,
+Vindfløjen 48 9380 Vestbjerg,48,1395000.0,23-03-2005,Alm.,7190,7,Villa,194,1977,
+Tines Vej 38 9380 Vestbjerg,38,1170000.0,31-01-2005,Alm.,0,8,Villa,204,1985,
+Mølbjergvej 2 9380 Vestbjerg,2,1100000.0,27-01-2005,Alm.,8593,4,Villa,128,1963,
+Tagskægget 1 9380 Vestbjerg,1,1370000.0,25-01-2005,Alm.,10300,5,Villa,133,1985,
+Mølbjergvej 10 9380 Vestbjerg,10,887000.0,30-12-2004,Alm.,8870,3,Villa,100,1964,
+Stråtaget 102 9380 Vestbjerg,102,1665000.0,28-12-2004,Alm.,10673,5,Villa,156,1986,
+Tines Vej 30A 9380 Vestbjerg,0,1100000.0,26-12-2004,Alm.,10784,4,Rækkehus,102,1981,
+Bellisvej 1 9380 Vestbjerg,1,1475000.0,02-12-2004,Alm.,8380,3,Villa,176,1973,
+Tines Vej 26 9380 Vestbjerg,26,1275000.0,30-11-2004,Alm.,7822,5,Villa,163,1975,
+Tingvej 2B 9380 Vestbjerg,0,998000.0,29-11-2004,Alm.,10731,4,Villa,93,2003,
+Vestbjerggårdvej 17 9380 Vestbjerg,17,1050000.0,24-11-2004,Alm.,8139,5,Rækkehus,129,1977,
+Tagskægget 9 9380 Vestbjerg,9,1275000.0,04-11-2004,Alm.,9807,5,Villa,130,1985,
+Stråtaget 16 9380 Vestbjerg,16,1325000.0,28-10-2004,Alm.,6592,6,Villa,201,1979,
+Valmuevej 8 9380 Vestbjerg,8,1545000.0,14-10-2004,Alm.,8089,5,Villa,191,1969,
+Tingvej 22 9380 Vestbjerg,22,1983419.0,04-10-2004,Fam.,9182,7,Stuehus,216,1920,
+Bakmøllevej 285 9380 Vestbjerg,285,750000.0,22-09-2004,Alm.,5244,2,Villa,143,1956,
+Tingvej 10 9380 Vestbjerg,10,1110000.0,15-09-2004,Alm.,0,6,Villa,205,1964,
+Myntevej 7 9380 Vestbjerg,7,1045000.0,29-08-2004,Alm.,7359,5,Villa,142,1965,
+Tines Vej 4 9380 Vestbjerg,4,950000.0,10-08-2004,Alm.,6643,5,Villa,143,1966,
+Kongelysvej 12 9380 Vestbjerg,12,1195000.0,10-08-2004,Alm.,8917,4,Villa,134,1969,
+Bakkelyvej 21 9380 Vestbjerg,21,750000.0,05-08-2004,Alm.,6944,4,Villa,108,1961,
+Stråtaget 72 9380 Vestbjerg,72,1645000.0,03-08-2004,Alm.,10477,6,Villa,157,1978,
+Stråtaget 114 9380 Vestbjerg,114,1300000.0,19-07-2004,Alm.,9420,5,Villa,138,1986,
+Månelysvej 7 9380 Vestbjerg,7,1375000.0,25-06-2004,Alm.,8702,5,Villa,158,1969,
+Irene Holms Vej 9 9380 Vestbjerg,9,145000.0,07-06-2004,Alm.,625,7,Villa,232,2008,
+Bellisvej 17 9380 Vestbjerg,17,885000.0,18-05-2004,Alm.,0,5,Villa,115,1968,
+Vang Mark 72 9380 Vestbjerg,72,783460.0,06-05-2004,Fam.,5935,5,Stuehus,132,1914,
+Slugten 14 9380 Vestbjerg,14,1585000.0,24-04-2004,Alm.,10566,7,Villa,150,1968,
+Gyldenrisvej 16 9380 Vestbjerg,16,835000.0,15-04-2004,Alm.,7198,4,Villa,116,1962,
+Tagskægget 89 9380 Vestbjerg,89,1225000.0,03-04-2004,Alm.,0,6,Villa,176,1988,
+Stråtaget 74 9380 Vestbjerg,74,1180000.0,30-03-2004,Alm.,7662,5,Villa,154,1979,
+Tines Vej 1E 9380 Vestbjerg,0,1095000.0,15-03-2004,Alm.,11774,4,Villa,93,2003,
+Tines Vej 48 9380 Vestbjerg,48,1099000.0,12-03-2004,Alm.,0,7,Villa,184,1975,
+Lupinvej 3 9380 Vestbjerg,3,1336000.0,08-03-2004,Alm.,7952,5,Villa,168,1967,
+Tagskægget 25 9380 Vestbjerg,25,1165000.0,05-03-2004,Alm.,8442,5,Villa,138,1980,
+Tingvej 65 9380 Vestbjerg,65,3100000.0,06-02-2004,Alm.,12601,5,Stuehus,246,1877,
+Bellisvej 9 9380 Vestbjerg,9,1118000.0,20-11-2003,Alm.,7710,6,Villa,145,1967,
+Tingvej 19 9380 Vestbjerg,19,1310000.0,12-10-2003,Alm.,9632,3,Villa,136,1965,
+Bakkelyvej 6 9380 Vestbjerg,6,790000.0,26-09-2003,Alm.,3434,5,Villa,230,1961,
+Stokrosevej 14 9380 Vestbjerg,14,550000.0,23-09-2003,Alm.,3216,6,Villa,171,1969,
+Møllehusvej 5 9380 Vestbjerg,5,1075000.0,30-07-2003,Alm.,7363,4,Villa,146,1969,
+Vestbjerggårdvej 11A 9380 Vestbjerg,0,604664.0,04-07-2003,Alm.,3455,6,Villa,175,1880,
+Tingvej 17B 9380 Vestbjerg,0,400000.0,22-03-2003,Alm.,2197,4,Villa,182,2009,
+Læhegnet 93 9380 Vestbjerg,93,1531750.0,13-03-2003,Alm.,8905,5,Villa,172,1974,
+Søhusevej 50 9380 Vestbjerg,50,1150000.0,07-03-2003,Alm.,9055,9,Stuehus,127,1932,
+Valmuevej 13 9380 Vestbjerg,13,1373000.0,06-03-2003,Alm.,8475,5,Villa,162,1969,
+Fyrbakkevej 7 9380 Vestbjerg,7,365901.0,26-02-2003,Andet,3518,4,Villa,104,1963,
+Tines Vej 1A 9380 Vestbjerg,0,1207500.0,26-02-2003,Alm.,11285,4,Villa,107,2003,
+Vestbjerggårdvej 23 9380 Vestbjerg,23,940000.0,26-02-2003,Alm.,7286,5,Rækkehus,129,1977,
+Tengedal 4 9380 Vestbjerg,4,750000.0,14-02-2003,Fam.,2906,6,Stuehus,258,2004,
+Stakladen 60 9380 Vestbjerg,60,1645000.0,24-01-2003,Alm.,7833,6,Villa,210,1977,
+Møllehusvej 3 9380 Vestbjerg,3,1250000.0,17-12-2002,Alm.,6983,5,Villa,179,1977,
+Slugten 11 9380 Vestbjerg,11,537500.0,28-11-2002,Andet,2621,6,Villa,205,1968,
+Helledivej 1 9380 Vestbjerg,1,1300000.0,26-11-2002,Alm.,7182,5,Stuehus,181,1912,
+Vedbendvej 4 9380 Vestbjerg,4,1175000.0,28-10-2002,Alm.,6351,5,Villa,185,1971,
+Tines Vej 70A 9380 Vestbjerg,0,1035000.0,09-09-2002,Alm.,8483,5,Villa,122,1981,
+Mejlstedvej 29 9380 Vestbjerg,29,3604178.0,09-09-2002,Fam.,15402,7,Stuehus,234,1942,
+Jasminvej 9 9380 Vestbjerg,9,1600000.0,27-08-2002,Alm.,8510,7,Villa,188,1968,
+Tagskægget 55 9380 Vestbjerg,55,1332000.0,22-08-2002,Alm.,8763,5,Villa,152,1979,
+Møllehusvej 10 9380 Vestbjerg,10,730000.0,09-08-2002,Alm.,0,4,Villa,135,1962,
+Tagskægget 37 9380 Vestbjerg,37,1600000.0,04-07-2002,Alm.,7619,6,Villa,210,1986,
+Vestbjerg Skovvej 41 9380 Vestbjerg,41,700000.0,28-06-2002,Alm.,8045,4,Sommerhus,87,1942,
+Stråtaget 40 9380 Vestbjerg,40,990000.0,24-06-2002,Alm.,7173,5,Villa,138,1979,
+Myntevej 10 9380 Vestbjerg,10,1065000.0,01-05-2002,Alm.,7947,3,Villa,134,1969,
+Stråtaget 110 9380 Vestbjerg,110,1175000.0,24-04-2002,Alm.,8103,5,Villa,145,1987,
+Jasminvej 2 9380 Vestbjerg,2,975000.0,15-03-2002,Alm.,0,6,Villa,162,1967,
+Gyldenrisvej 35 9380 Vestbjerg,35,1450000.0,24-01-2002,Alm.,7631,7,Villa,190,1966,
+Solsikkevej 4 9380 Vestbjerg,4,446250.0,18-01-2002,Alm.,2860,5,Villa,156,1971,
+Læhegnet 55 9380 Vestbjerg,55,1675000.0,16-01-2002,Alm.,8251,6,Villa,203,1972,
+Månelysvej 10 9380 Vestbjerg,10,932880.0,07-01-2002,Alm.,5904,6,Villa,158,1969,
+Mølbjergvej 13 9380 Vestbjerg,13,1249180.0,27-11-2001,Alm.,8327,6,Villa,150,1968,
+Læhegnet 11 9380 Vestbjerg,11,1325000.0,30-10-2001,Alm.,8548,5,Villa,155,1971,
+Bakkelyvej 35 9380 Vestbjerg,35,1200000.0,13-10-2001,Alm.,6741,6,Villa,178,1968,
+Tingvej 17A 9380 Vestbjerg,0,1475000.0,08-10-2001,Alm.,10535,5,Villa,140,1927,
+Læhegnet 15 9380 Vestbjerg,15,1315000.0,06-09-2001,Alm.,7032,4,Villa,187,1973,
+Tandal 25 9380 Vestbjerg,25,2450000.0,28-08-2001,Fam.,15408,4,Stuehus,159,1940,
+Sulsted Landevej 35 9380 Vestbjerg,35,630000.0,26-08-2001,Fam.,3865,6,Villa,163,1928,
+Mølbjergvej 14 9380 Vestbjerg,14,1064992.0,17-08-2001,Alm.,7147,5,Villa,149,1962,
+Kaprifolievej 12 9380 Vestbjerg,12,1450000.0,06-08-2001,Alm.,6839,7,Villa,212,1969,
+Bakkelyvej 26 9380 Vestbjerg,26,960000.0,05-08-2001,Alm.,5962,4,Villa,161,1971,
+Kongelysvej 3 9380 Vestbjerg,3,1450000.0,23-05-2001,Alm.,8841,6,Villa,164,1969,
+Vestbjerggårdvej 58 9380 Vestbjerg,58,1130000.0,10-05-2001,Alm.,10089,4,Villa,112,1996,
+Myntevej 13 9380 Vestbjerg,13,1495000.0,14-03-2001,Alm.,9402,5,Villa,159,1967,
+Myntevej 3 9380 Vestbjerg,3,1339720.0,01-02-2001,Alm.,6379,7,Villa,210,1969,
+Hyacintvej 6 9380 Vestbjerg,6,1240000.0,20-01-2001,Alm.,8266,6,Villa,150,1969,
+Tagskægget 82 9380 Vestbjerg,82,1345000.0,18-01-2001,Alm.,10760,5,Villa,125,2000,
+Tingvej 4 9380 Vestbjerg,4,885000.0,04-01-2001,Alm.,10056,4,Villa,88,1959,
+Mølbjergvej 6 9380 Vestbjerg,6,1010000.0,15-12-2000,Alm.,6312,6,Villa,160,1963,
+Hyacintvej 9 9380 Vestbjerg,9,925000.0,06-11-2000,Alm.,0,6,Villa,149,1964,
+Myntevej 5 9380 Vestbjerg,5,975000.0,28-09-2000,Alm.,0,6,Villa,206,1969,
+Mogensvej 2 9380 Vestbjerg,2,365500.0,04-09-2000,Fam.,2256,5,Villa,162,1965,
+Tagskægget 49 9380 Vestbjerg,49,1121000.0,28-07-2000,Alm.,9663,5,Villa,116,1979,
+Stråtaget 80 9380 Vestbjerg,80,1250000.0,12-07-2000,Alm.,6944,6,Villa,180,1979,
+Vestbjerg Skovvej 30 9380 Vestbjerg,30,64000.0,01-07-2000,Fam.,1828,1,Sommerhus,35,2007,
+Søhusevej 46 9380 Vestbjerg,46,2000000.0,31-05-2000,Alm.,9090,8,Villa,220,1973,
+Gyldenrisvej 1 9380 Vestbjerg,1,876000.0,30-05-2000,Alm.,6441,6,Villa,136,1964,
+Tagskægget 15 9380 Vestbjerg,15,1295000.0,18-05-2000,Alm.,0,6,Villa,170,1985,
+Kaprifolievej 4 9380 Vestbjerg,4,1150000.0,18-05-2000,Alm.,6388,6,Villa,180,1970,
+Jasminvej 3 9380 Vestbjerg,3,898000.0,11-05-2000,Alm.,8471,4,Villa,106,1965,
+Bakkelyvej 19 9380 Vestbjerg,19,600000.0,04-05-2000,Alm.,3947,5,Villa,152,1960,
+Stråtaget 50 9380 Vestbjerg,50,1090775.0,16-03-2000,Alm.,8079,5,Villa,135,1977,
+Kongelysvej 2 9380 Vestbjerg,2,1012500.0,15-03-2000,Alm.,5785,7,Villa,175,1968,
+Vestbjerg Kærvej 16 9380 Vestbjerg,16,1028990.0,01-03-2000,Alm.,5748,7,Stuehus,179,1920,
+Mogensvej 10 9380 Vestbjerg,10,568000.0,09-02-2000,Alm.,6311,4,Villa,90,1963,
+Stråtaget 2 9380 Vestbjerg,2,985000.0,27-01-2000,Alm.,8640,4,Villa,114,1979,
+Vindfløjen 10 9380 Vestbjerg,10,1150000.0,23-12-1999,Alm.,0,7,Villa,190,1977,
+Vestbjerggårdvej 13 9380 Vestbjerg,13,1080000.0,16-11-1999,Alm.,8372,5,Rækkehus,129,1977,
+Kaprifolievej 7 9380 Vestbjerg,7,1179637.0,12-11-1999,Alm.,7149,5,Villa,165,1971,
+Vang Mark 81 9380 Vestbjerg,81,750000.0,09-11-1999,Alm.,3826,5,Stuehus,196,2001,
+Kaprifolievej 9 9380 Vestbjerg,9,1476000.0,12-10-1999,Alm.,7978,7,Villa,185,1969,
+Læhegnet 99 9380 Vestbjerg,99,1042645.0,07-08-1999,Alm.,7447,5,Villa,140,1975,
+Bakkelyvej 18 9380 Vestbjerg,18,1045000.0,02-08-1999,Alm.,8100,5,Villa,129,1962,
+Månelysvej 2 9380 Vestbjerg,2,994291.0,24-06-1999,Alm.,6810,5,Villa,146,1970,
+Gyldenrisvej 23 9380 Vestbjerg,23,448348.0,12-06-1999,Alm.,2637,5,Villa,170,1965,
+Slugten 27 9380 Vestbjerg,27,945000.0,02-06-1999,Alm.,8008,3,Villa,118,1967,
+Stråtaget 96 9380 Vestbjerg,96,1099096.0,23-04-1999,Alm.,0,6,Villa,201,1979,
+Vedbendvej 14 9380 Vestbjerg,14,999000.0,16-02-1999,Alm.,8325,4,Villa,120,1969,
+Jasminvej 8 9380 Vestbjerg,8,878000.0,11-02-1999,Alm.,7568,4,Villa,116,1969,
+Terosevej 2 9380 Vestbjerg,2,944427.0,21-01-1999,Alm.,7555,4,Villa,125,1971,
+Tagskægget 3 9380 Vestbjerg,3,1184799.0,15-01-1999,Alm.,7137,6,Villa,166,1987,
+Stråtaget 88 9380 Vestbjerg,88,725000.0,18-12-1998,Alm.,5000,6,Villa,145,1977,
+Mogensvej 11 9380 Vestbjerg,11,1000000.0,09-11-1998,Alm.,6060,6,Villa,165,1972,
+Hjørring Landevej 63 9380 Vestbjerg,63,1231320.0,02-11-1998,Alm.,5239,7,Villa,235,1900,
+Primulavej 13 9380 Vestbjerg,13,914929.0,02-11-1998,Alm.,6443,4,Villa,142,1965,
+Tingvej 43 9380 Vestbjerg,43,400000.0,28-10-1998,Alm.,0,5,Villa,111,1941,
+Irene Holms Vej 23B 9380 Vestbjerg,0,904216.0,09-10-1998,Alm.,0,7,Lejlighed,254,1968,
+Tines Vej 20B 9380 Vestbjerg,0,982013.0,15-09-1998,Alm.,9177,4,Rækkehus,107,1987,
+Tines Vej 6 9380 Vestbjerg,6,540000.0,14-09-1998,Andet,4695,4,Villa,115,1966,
+Tagskægget 7 9380 Vestbjerg,7,900000.0,12-09-1998,Alm.,7317,5,Villa,123,1980,
+Bakkelyvej 6A 9380 Vestbjerg,0,636736.0,31-08-1998,Alm.,7491,4,Villa,85,1958,
+Stakladen 70 9380 Vestbjerg,70,1191088.0,14-08-1998,Alm.,8047,5,Villa,148,1977,
+Læhegnet 13 9380 Vestbjerg,13,1033120.0,01-07-1998,Alm.,6887,3,Villa,150,1973,
+Møllehusvej 14 9380 Vestbjerg,14,1037820.0,13-05-1998,Alm.,5702,6,Villa,182,1972,
+Solsikkevej 10 9380 Vestbjerg,10,800000.0,03-05-1998,Alm.,5442,5,Villa,147,1972,
+Stråtaget 8 9380 Vestbjerg,8,1070000.0,27-03-1998,Alm.,6564,6,Villa,163,1979,
+Vestbjerg Skovvej 24 9380 Vestbjerg,24,1400081.0,12-03-1998,Alm.,12174,5,Stuehus,115,1926,
+Sulsted Landevej 33 9380 Vestbjerg,33,236000.0,03-03-1998,Auktion,1685,4,Villa,140,1929,
+Stråtaget 62 9380 Vestbjerg,62,850000.0,10-12-1997,Alm.,6967,4,Villa,122,1979,
+Tingvej 16 9380 Vestbjerg,16,1266500.0,08-12-1997,Alm.,5005,10,Villa,253,1963,
+Slugten 2 9380 Vestbjerg,2,1185055.0,23-11-1997,Alm.,4557,5,Villa,260,1963,
+Stokrosevej 11 9380 Vestbjerg,11,980000.0,09-11-1997,Alm.,6533,5,Villa,150,1972,
+Tagskægget 67 9380 Vestbjerg,67,989900.0,04-11-1997,Alm.,7173,4,Villa,138,1980,
+Mejlstedvej 6 9380 Vestbjerg,6,840000.0,27-10-1997,Alm.,5419,7,Villa,155,1966,
+Slugten 20 9380 Vestbjerg,20,1049000.0,22-10-1997,Alm.,7136,4,Villa,147,1977,
+Bakkelyvej 6B 9380 Vestbjerg,0,606602.0,02-09-1997,Alm.,5616,4,Villa,108,1952,
+Vestbjerggårdvej 4 9380 Vestbjerg,4,195000.0,21-08-1997,Alm.,1839,4,Villa,106,1998,
+Guldregnsvej 4 9380 Vestbjerg,4,825484.0,20-08-1997,Alm.,6603,4,Villa,125,1970,
+Månelysvej 4 9380 Vestbjerg,4,759960.0,10-07-1997,Fam.,4578,5,Villa,166,1969,
+Terosevej 1 9380 Vestbjerg,1,922420.0,30-05-1997,Alm.,6190,5,Villa,149,1969,
+Læhegnet 71 9380 Vestbjerg,71,960700.0,29-05-1997,Alm.,5930,4,Villa,162,1973,
+Tagskægget 41 9380 Vestbjerg,41,682920.0,07-05-1997,Alm.,7265,4,Villa,94,1981,
+Stråtaget 122 9380 Vestbjerg,122,1123723.0,30-04-1997,Alm.,7749,5,Villa,145,1987,
+Guldregnsvej 9 9380 Vestbjerg,9,940000.0,11-04-1997,Alm.,5222,6,Villa,180,1971,
+Tingvej 13 9380 Vestbjerg,13,834825.0,26-03-1997,Alm.,8027,4,Villa,104,1961,
+Tagskægget 39 9380 Vestbjerg,39,220000.0,18-03-1997,Alm.,1286,7,Villa,171,1997,
+Vindfløjen 14 9380 Vestbjerg,14,992000.0,01-03-1997,Alm.,5975,5,Villa,166,1978,
+Stråtaget 46 9380 Vestbjerg,46,943000.0,16-02-1997,Alm.,0,6,Villa,169,1979,
+Vindfløjen 46 9380 Vestbjerg,46,1029000.0,06-02-1997,Alm.,7350,4,Villa,140,1986,
+Bellisvej 12 9380 Vestbjerg,12,623300.0,02-02-1997,Alm.,5880,4,Villa,106,1968,
+Terosevej 8 9380 Vestbjerg,8,895852.0,30-01-1997,Alm.,5238,6,Villa,171,1971,
+Vindfløjen 34 9380 Vestbjerg,34,1196340.0,23-01-1997,Alm.,8307,4,Villa,144,1977,
+Stråtaget 104 9380 Vestbjerg,104,1053000.0,23-01-1997,Alm.,7212,5,Villa,146,1985,
+Vindfløjen 26 9380 Vestbjerg,26,960000.0,11-01-1997,Alm.,7272,4,Villa,132,1977,
+Mølbjergvej 9 9380 Vestbjerg,9,704780.0,10-12-1996,Alm.,5220,4,Villa,135,1968,
+Vestbjerg Kærvej 10 9380 Vestbjerg,10,625000.0,02-12-1996,Alm.,4222,5,Villa,148,1922,
+Tines Vej 60 9380 Vestbjerg,60,1166000.0,06-11-1996,Alm.,7721,5,Villa,151,1987,
+Vestbjerggårdvej 12 9380 Vestbjerg,12,195000.0,15-10-1996,Alm.,1500,5,Villa,130,1997,
+Egelundsvej 16 9380 Vestbjerg,16,1412000.0,09-10-1996,Alm.,6537,8,Villa,216,1983,
+Tengedal 6 9380 Vestbjerg,6,829040.0,20-09-1996,Alm.,0,6,Stuehus,245,1939,
+Stakladen 40 9380 Vestbjerg,40,947920.0,21-08-1996,Alm.,7021,5,Villa,135,1977,
+Primulavej 7 9380 Vestbjerg,7,695000.0,20-08-1996,Alm.,3423,8,Villa,203,1966,
+Egelundsvej 16B 9380 Vestbjerg,0,2461000.0,24-06-1996,Alm.,10086,6,Villa,244,1991,
+Lobeliavej 3 9380 Vestbjerg,3,796000.0,17-06-1996,Alm.,6218,3,Villa,128,1967,
+Solsikkevej 8 9380 Vestbjerg,8,470500.0,04-06-1996,Alm.,2251,5,Villa,209,1970,
+Tagskægget 75 9380 Vestbjerg,75,950000.0,14-05-1996,Alm.,0,6,Villa,176,1987,
+Egelundsvej 2C 9380 Vestbjerg,0,950000.0,13-05-1996,Alm.,6785,5,Villa,140,1960,
+Søhusevej 52 9380 Vestbjerg,52,480000.0,01-05-1996,Fam.,3840,3,Stuehus,125,1930,
+Stråtaget 20 9380 Vestbjerg,20,877000.0,29-04-1996,Alm.,5885,6,Villa,149,1984,
+Solsikkevej 2 9380 Vestbjerg,2,901732.0,29-04-1996,Alm.,6936,4,Villa,130,1969,
+Vestbjerggårdvej 25 9380 Vestbjerg,25,575000.0,25-04-1996,Alm.,6609,3,Rækkehus,87,1987,
+Vestbjerggårdvej 44 9380 Vestbjerg,44,200000.0,10-04-1996,Alm.,1538,5,Villa,130,1996,
+Vestbjerggårdvej 54 9380 Vestbjerg,54,300000.0,08-04-1996,Alm.,2173,5,Stuehus,138,1997,
+Jørgen Steins Vej 5 9380 Vestbjerg,5,635000.0,14-03-1996,Alm.,3359,6,Villa,189,1966,
+Solsikkevej 1 9380 Vestbjerg,1,949813.0,11-03-1996,Alm.,5791,6,Villa,164,1974,
+Bakkelyvej 20 9380 Vestbjerg,20,585430.0,05-02-1996,Alm.,5420,3,Villa,108,1962,
+Tagskægget 33 9380 Vestbjerg,33,952650.0,04-12-1995,Alm.,0,5,Villa,158,1986,
+Mejlstedvej 15 9380 Vestbjerg,15,535000.0,27-11-1995,Alm.,4652,3,Villa,115,1962,
+Stakladen 64 9380 Vestbjerg,64,1175000.0,06-11-1995,Alm.,6871,6,Villa,171,1975,
+Guldregnsvej 2 9380 Vestbjerg,2,915000.0,26-10-1995,Alm.,4716,8,Villa,194,1970,
+Vindfløjen 38 9380 Vestbjerg,38,845000.0,08-08-1995,Alm.,5787,4,Villa,146,1978,
+Vestbjerggårdvej 31 9380 Vestbjerg,31,420000.0,05-07-1995,Alm.,4941,3,Rækkehus,85,1987,
+Vestbjerg Skovvej 34 9380 Vestbjerg,34,125000.0,29-06-1995,Andet,3571,3,Sommerhus,35,1943,
+Gyldenrisvej 15 9380 Vestbjerg,15,423450.0,07-06-1995,Alm.,3257,4,Villa,130,1969,
+Stråtaget 124 9380 Vestbjerg,124,893000.0,06-04-1995,Alm.,7380,4,Villa,121,1987,
+Gyldenrisvej 20 9380 Vestbjerg,20,450000.0,29-03-1995,Alm.,4205,4,Villa,107,1963,
+Hjørring Landevej 64 9380 Vestbjerg,64,1580000.0,13-03-1995,Fam.,0,7,Stuehus,213,1995,
+Stokrosevej 2 9380 Vestbjerg,2,710700.0,06-03-1995,Alm.,4867,4,Villa,146,1970,
+Egelundsvej 10 9380 Vestbjerg,10,800691.0,03-03-1995,Alm.,4523,6,Villa,177,1970,
+Helledivej 4 9380 Vestbjerg,4,270000.0,23-01-1995,Fam.,0,5,Villa,142,1926,
+Bakkelyvej 16 9380 Vestbjerg,16,525000.0,05-01-1995,Alm.,5250,3,Villa,100,1961,
+Tagskægget 59 9380 Vestbjerg,59,1101055.0,02-12-1994,Alm.,8216,5,Villa,134,1984,
+Valmuevej 16 9380 Vestbjerg,16,770000.0,22-11-1994,Alm.,4723,6,Villa,163,1969,
+Læhegnet 43 9380 Vestbjerg,43,863400.0,02-11-1994,Alm.,5430,8,Villa,159,1975,
+Vang Mark 80 9380 Vestbjerg,80,605750.0,25-08-1994,Alm.,0,6,Stuehus,289,1914,
+Bakkelyvej 9 9380 Vestbjerg,9,507600.0,09-06-1994,Alm.,3965,6,Villa,128,1965,
+Vindfløjen 2 9380 Vestbjerg,2,745000.0,11-05-1994,Alm.,0,6,Villa,153,1977,
+Rosenvej 12 9380 Vestbjerg,12,695000.0,28-04-1994,Alm.,0,5,Villa,155,1969,
+Vindfløjen 24 9380 Vestbjerg,24,853720.0,18-04-1994,Alm.,5021,6,Villa,170,2012,
+Læhegnet 57 9380 Vestbjerg,57,1032000.0,07-04-1994,Alm.,5670,5,Villa,182,1973,
+Lobeliavej 8 9380 Vestbjerg,8,845000.0,25-02-1994,Alm.,5787,6,Villa,146,1967,
+Solsikkevej 7 9380 Vestbjerg,7,658360.0,23-02-1994,Alm.,4509,3,Villa,146,1973,
+Stakladen 26 9380 Vestbjerg,26,925000.0,31-01-1994,Alm.,6335,5,Villa,146,1976,
+Guldstjernevej 7 9380 Vestbjerg,7,625000.0,22-12-1993,Alm.,5787,4,Villa,108,1969,
+Slugten 9A 9380 Vestbjerg,0,494000.0,14-10-1993,Alm.,3271,9,Villa,151,1960,
+Vestbjerggårdvej 11 9380 Vestbjerg,11,570000.0,01-09-1993,Alm.,4418,5,Rækkehus,129,1977,
+Marie Grubbes Vej 5D 9380 Vestbjerg,0,685000.0,18-08-1993,Alm.,0,4,Rækkehus,100,1984,
+Stråtaget 42 9380 Vestbjerg,42,740000.0,13-08-1993,Alm.,4868,5,Villa,152,1977,
+Agdrupvej 15 9380 Vestbjerg,15,815000.0,12-08-1993,Alm.,4527,7,Stuehus,180,1967,
+Stråtaget 28 9380 Vestbjerg,28,475000.0,03-08-1993,Alm.,4656,4,Villa,102,1980,
+Lobeliavej 7 9380 Vestbjerg,7,654800.0,13-07-1993,Alm.,5644,4,Villa,116,1964,
+Stakladen 7 9380 Vestbjerg,7,763000.0,01-07-1993,Alm.,4954,4,Villa,154,1974,
+Tagskægget 57 9380 Vestbjerg,57,480000.0,24-06-1993,Alm.,3609,5,Villa,133,1984,
+Bellisvej 2 9380 Vestbjerg,2,650000.0,20-06-1993,Alm.,5416,4,Villa,120,1969,
+Læhegnet 73 9380 Vestbjerg,73,903590.0,10-06-1993,Alm.,3828,7,Villa,236,1973,
+Læhegnet 89 9380 Vestbjerg,89,660000.0,05-05-1993,Alm.,3666,4,Villa,180,1974,
+Møllehusvej 4 9380 Vestbjerg,4,650000.0,01-12-1992,Alm.,4276,6,Villa,152,1973,
+Hjørring Landevej 67 9380 Vestbjerg,67,620000.0,10-10-1992,Alm.,6458,3,Stuehus,96,1900,
+Møllehusvej 13 9380 Vestbjerg,13,820000.0,08-06-1992,Alm.,4270,6,Villa,192,1966,
+Niels Lyhnes Vej 2 9380 Vestbjerg,2,455000.0,18-05-1992,Alm.,0,4,Villa,130,1963,
+Møllehusvej 7 9380 Vestbjerg,7,580000.0,04-05-1992,Fam.,3918,5,Villa,148,1971,
+Kaprifolievej 3 9380 Vestbjerg,3,739500.0,27-03-1992,Fam.,3679,7,Villa,201,1970,
+Tines Vej 28 9380 Vestbjerg,28,500000.0,09-01-1992,Fam.,3424,5,Villa,146,1975,

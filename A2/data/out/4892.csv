@@ -1,0 +1,513 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Rågelundevej 22 4892 Kettinge,22,475000.0,03-05-2017,Alm.,4241,4,Villa,112,1927,0 %
+Grønnegadevej 60 4892 Kettinge,60,5822500.0,30-03-2017,Fam.,21971,8,Stuehus,265,1896,
+Rågelundevej 35 4892 Kettinge,35,100000.0,23-03-2017,Alm.,1315,3,Villa,76,1877,
+Høgevej 5 4892 Kettinge,5,325000.0,17-03-2017,Alm.,2620,4,Villa,124,1973,-18 %
+Bregningevej 22 4892 Kettinge,22,285600.0,08-03-2017,Fam.,2944,4,Villa,97,1914,
+Kolkevej 10 4892 Kettinge,10,430000.0,07-03-2017,Fam.,3185,6,Villa,135,1877,
+Præstegårdsstræde 2 4892 Kettinge,2,85000.0,03-03-2017,Alm.,1089,4,Villa,78,1860,-51 %
+Rågelundevej 42 4892 Kettinge,42,154000.0,02-02-2017,Alm.,684,6,Stuehus,225,1897,
+Enghavevej 13 4892 Kettinge,13,62254.0,01-02-2017,Auktion,622,3,Villa,100,1800,
+Birkevænget 12 4892 Kettinge,12,470000.0,06-01-2017,Fam.,3455,5,Villa,136,1976,
+Kolkevej 19 4892 Kettinge,19,1890000.0,25-11-2016,Alm.,12857,5,Stuehus,147,1800,
+Rågelundevej 32 4892 Kettinge,32,700000.0,25-11-2016,Alm.,5185,5,Villa,135,1968,-3 %
+Sønderhavevej 8 4892 Kettinge,8,175000.0,23-11-2016,Auktion,1620,2,Villa,108,1914,
+Nørrevej 11 4892 Kettinge,11,250000.0,21-11-2016,Alm.,1582,5,Villa,158,1918,-15 %
+Sløsserupvej 10 4892 Kettinge,10,275000.0,14-11-2016,Alm.,2291,4,Villa,120,1900,0 %
+Fuglsangvej 9 4892 Kettinge,9,238500.0,27-10-2016,Alm.,1908,7,Villa,125,1924,
+Fuglsangvej 25A 4892 Kettinge,0,695000.0,15-10-2016,Alm.,4602,9,Villa,151,1870,0 %
+Kolkevej 4 4892 Kettinge,4,630000.0,14-10-2016,Alm.,4598,3,Villa,137,1925,-2 %
+Eskemosevej 19 4892 Kettinge,19,277120.0,03-10-2016,Alm.,3379,3,Villa,82,1962,7 %
+Kettingevej 112 4892 Kettinge,112,450000.0,30-09-2016,Alm.,4591,5,Villa,98,1915,
+Rågelundevej 46 4892 Kettinge,46,180000.0,30-08-2016,Alm.,1285,4,Villa,140,1750,-8 %
+Kettingevej 137 4892 Kettinge,137,530000.0,25-08-2016,Alm.,4380,4,Villa,121,1943,-4 %
+Kettingevej 151 4892 Kettinge,151,225000.0,18-07-2016,Alm.,2045,6,Villa,110,1902,-24 %
+Enghavevej 74 4892 Kettinge,74,701250.0,11-07-2016,Fam.,3831,4,Villa,183,1900,
+Bukkeholmvej 2 4892 Kettinge,2,2550000.0,07-07-2016,Fam.,11135,9,Stuehus,229,1889,
+Stoffervej 9 4892 Kettinge,9,393779.0,06-07-2016,Andet,3579,4,Villa,110,1965,
+Kettingevej 96 4892 Kettinge,96,175000.0,30-06-2016,Alm.,1121,5,Villa,156,1915,-29 %
+Kettingevej 11 4892 Kettinge,11,495000.0,27-06-2016,Alm.,3437,5,Villa,144,1910,-9 %
+Frejlevvej 24 4892 Kettinge,24,240000.0,02-06-2016,Alm.,1818,4,Villa,132,1909,
+Bækkeskovvej 9 4892 Kettinge,9,500000.0,20-05-2016,Alm.,4716,3,Villa,106,1910,-13 %
+Sønderhavevej 6 4892 Kettinge,6,450000.0,15-05-2016,Alm.,2727,5,Villa,165,1964,-14 %
+Falkevej 5 4892 Kettinge,5,860000.0,14-04-2016,Alm.,5512,5,Villa,156,1973,-4 %
+Kettingevej 145 4892 Kettinge,145,325000.0,02-04-2016,Alm.,2850,4,Villa,114,1899,-6 %
+Mejerivej 5 4892 Kettinge,5,500000.0,14-03-2016,Alm.,2083,7,Villa,240,1906,
+Torupvej 2 4892 Kettinge,2,2175000.0,10-03-2016,Alm.,12500,7,Stuehus,174,1912,
+Bækkeskovvej 31 4892 Kettinge,31,195000.0,29-02-2016,Alm.,1373,4,Villa,142,1918,-29 %
+Høgevej 1 4892 Kettinge,1,920000.0,29-02-2016,Alm.,6917,3,Villa,133,1974,-3 %
+Rågelundevej 41 4892 Kettinge,41,603147.0,18-02-2016,Alm.,5971,4,Villa,101,1934,
+Kettingevej 89 4892 Kettinge,89,300000.0,11-01-2016,Alm.,3448,4,Villa,87,1925,-8 %
+Stationsvej 13 4892 Kettinge,13,477997.0,06-01-2016,Alm.,2845,3,Villa,168,1877,
+Grønnegadevej 39 4892 Kettinge,39,215082.0,21-10-2015,Auktion,1361,4,Villa,158,1877,-52 %
+Kettingevej 19 4892 Kettinge,19,550000.0,05-10-2015,Alm.,5238,4,Villa,105,1967,-4 %
+Kettingevej 10 4892 Kettinge,10,1250000.0,29-09-2015,Alm.,4612,6,Villa,271,1850,-10 %
+Grønnegadevej 20 4892 Kettinge,20,575000.0,03-09-2015,Alm.,2875,7,Villa,200,1910,-11 %
+Kettingevej 128 4892 Kettinge,128,374000.0,31-08-2015,Fam.,3666,6,Villa,102,1898,
+Klokkemosen 2 4892 Kettinge,2,890000.0,28-08-2015,Alm.,6267,5,Villa,142,1962,-6 %
+Enghavevej 12 4892 Kettinge,12,700000.0,23-08-2015,Alm.,3888,6,Villa,180,1971,-22 %
+Bækkeskovvej 13 4892 Kettinge,13,225000.0,21-08-2015,Alm.,1520,5,Villa,148,1857,
+Birkevænget 1 4892 Kettinge,1,375000.0,14-08-2015,Alm.,3232,3,Villa,116,1975,0 %
+Frejlevvej 22 4892 Kettinge,22,555500.0,06-08-2015,Andet,2709,4,Villa,205,1885,
+Kettingevej 123 4892 Kettinge,123,305000.0,05-08-2015,Auktion,2401,5,Villa,127,1927,
+Torupvej 3 4892 Kettinge,3,1050000.0,20-07-2015,Alm.,6000,6,Villa,175,1927,-25 %
+Nørrevej 6 4892 Kettinge,6,640000.0,14-07-2015,Alm.,4507,4,Villa,142,1915,-7 %
+Kettingevej 66 4892 Kettinge,66,720000.0,13-07-2015,Alm.,5333,5,Villa,135,1966,-6 %
+Enghavevej 84 4892 Kettinge,84,475000.0,29-06-2015,Alm.,4656,4,Sommerhus,102,1915,
+Fuglsangvej 15 4892 Kettinge,15,635000.0,23-06-2015,Alm.,4070,4,Villa,156,1895,-1 %
+Kettingevej 45 4892 Kettinge,45,320000.0,21-06-2015,Alm.,2162,4,Villa,148,1917,-15 %
+Bækkeskovvej 25 4892 Kettinge,25,21418000.0,11-06-2015,Alm.,103970,7,Stuehus,206,1986,
+Rågelundevej 21 4892 Kettinge,21,2658750.0,31-05-2015,Alm.,9361,6,Villa,284,2014,
+Syttenbanken 4 4892 Kettinge,4,450000.0,18-05-2015,Alm.,3125,7,Villa,144,1827,-9 %
+Bregningevej 16 4892 Kettinge,16,20000.0,18-05-2015,Alm.,162,3,Villa,123,1877,
+Sønderhavevej 3 4892 Kettinge,3,240000.0,28-04-2015,Alm.,1568,4,Villa,153,1900,-19 %
+Plantagevej 12 4892 Kettinge,12,275000.0,27-04-2015,Alm.,1936,4,Villa,142,1877,-7 %
+Plantagevej 16A 4892 Kettinge,0,1000000.0,10-04-2015,Alm.,2985,14,Villa,335,1937,-9 %
+Kettingevej 27 4892 Kettinge,27,767267.0,31-03-2015,Alm.,1492,13,Villa,514,1900,
+Kettingevej 100 4892 Kettinge,100,175000.0,19-03-2015,Alm.,1367,4,Villa,128,1970,0 %
+Grønnegadevej 56 4892 Kettinge,56,190000.0,27-02-2015,Alm.,1520,3,Villa,125,1938,-28 %
+Høgevej 3 4892 Kettinge,3,450000.0,20-02-2015,Alm.,1956,10,Villa,230,1973,-24 %
+Bøgevænget 1 4892 Kettinge,1,160000.0,19-02-2015,Alm.,1684,3,Villa,95,1979,-18 %
+Enghavevej 80A 4892 Kettinge,0,1200000.0,19-02-2015,Fam.,16666,3,Stuehus,72,1890,
+Bregningevej 20 4892 Kettinge,20,4212690.0,09-02-2015,Fam.,17700,9,Stuehus,238,1938,
+Mejerivej 7 4892 Kettinge,7,150000.0,01-02-2015,Alm.,1388,4,Villa,108,1850,
+Engvej 1 4892 Kettinge,1,325000.0,15-01-2015,Alm.,3385,3,Villa,96,1877,-18 %
+Kettingevej 76A 4892 Kettinge,0,30000.0,07-01-2015,Auktion,225,4,Villa,133,1930,-91 %
+Grønnegadevej 38 4892 Kettinge,38,115000.0,14-11-2014,Alm.,1306,3,Villa,88,1934,-38 %
+Sløsserupvej 14 4892 Kettinge,14,28192296.0,22-10-2014,Fam.,84661,7,Stuehus,333,1926,
+Rågelundevej 5 4892 Kettinge,5,475000.0,06-10-2014,Alm.,3682,5,Villa,129,1928,-4 %
+Nyvej 1 4892 Kettinge,1,395000.0,16-09-2014,Alm.,3110,5,Villa,127,1954,0 %
+Kettingevej 84 4892 Kettinge,84,360000.0,13-09-2014,Alm.,4337,3,Villa,83,1928,-9 %
+Grønnegadevej 21 4892 Kettinge,21,460000.0,27-08-2014,Alm.,2987,4,Villa,154,1968,-8 %
+Grønnegadevej 17C 4892 Kettinge,0,150000.0,13-08-2014,Auktion,1764,3,Villa,85,1991,-50 %
+Kettingevej 2 4892 Kettinge,2,1425000.0,05-08-2014,Alm.,8850,4,Villa,161,1882,
+Stoffervej 13 4892 Kettinge,13,220000.0,22-07-2014,Alm.,1833,5,Villa,120,1900,-25 %
+Fuglsangvej 31 4892 Kettinge,31,599000.0,14-07-2014,Alm.,5348,4,Villa,112,1939,0 %
+Bækkeskovvej 16 4892 Kettinge,16,179000.0,04-07-2014,Alm.,1845,3,Villa,97,1849,-39 %
+Kettingevej 57 4892 Kettinge,57,1294000.0,11-06-2014,Auktion,5015,6,Villa,258,2004,
+Bækkeskovvej 2 4892 Kettinge,2,5440000.0,08-04-2014,Alm.,24727,9,Stuehus,220,1911,
+Falkevej 2 4892 Kettinge,2,960000.0,26-03-2014,Alm.,4137,7,Villa,232,1975,-4 %
+Granhækken 8 4892 Kettinge,8,975000.0,20-02-2014,Alm.,6210,6,Villa,157,1920,0 %
+Kildevangsvej 8 4892 Kettinge,8,660000.0,14-02-2014,Alm.,3300,7,Villa,200,1880,
+Stoffervej 18 4892 Kettinge,18,240000.0,04-02-2014,Alm.,2352,3,Villa,102,1980,-39 %
+Høgevej 6 4892 Kettinge,6,544039.0,19-12-2013,Andet,3913,4,Villa,139,1973,
+Granvænget 6 4892 Kettinge,6,1000000.0,13-12-2013,Alm.,5405,5,Villa,185,1974,-13 %
+Eskemosevej 20 4892 Kettinge,20,960000.0,12-12-2013,Alm.,4423,6,Villa,217,1907,
+Frejlevvej 1 4892 Kettinge,1,185000.0,04-12-2013,Auktion,1114,6,Villa,166,1910,
+Kettingevej 71 4892 Kettinge,71,400000.0,03-12-2013,Alm.,4000,4,Villa,100,1912,-14 %
+Nyvej 5 4892 Kettinge,5,135000.0,18-11-2013,Alm.,1500,3,Villa,90,1957,-18 %
+Bækkeskovvej 6 4892 Kettinge,6,650000.0,17-11-2013,Fam.,3551,6,Villa,183,1927,
+Kertevej 2 4892 Kettinge,2,400000.0,30-10-2013,Auktion,2597,7,Villa,154,1908,-55 %
+Plantagevej 8 4892 Kettinge,8,45059.0,30-10-2013,Auktion,693,2,Villa,65,1777,
+Tokkerupvej 9 4892 Kettinge,9,800000.0,16-10-2013,Auktion,3433,9,Villa,233,1910,
+Bækkeskovvej 21 4892 Kettinge,21,500000.0,07-10-2013,Alm.,3267,3,Villa,153,1883,
+Brandtvej 11 4892 Kettinge,11,295000.0,16-09-2013,Alm.,3041,3,Villa,97,1966,-31 %
+Langet 6 4892 Kettinge,6,250000.0,28-08-2013,Auktion,1515,7,Villa,165,1908,
+Kettingevej 110 4892 Kettinge,110,150000.0,14-08-2013,Alm.,1456,3,Villa,103,1908,-33 %
+Kettingevej 126 4892 Kettinge,126,52000.0,19-06-2013,Auktion,764,5,Villa,68,1700,-85 %
+Bregningevej 18 4892 Kettinge,18,9885000.0,06-06-2013,Alm.,38764,8,Stuehus,255,1850,
+Bækkeskovvej 33 4892 Kettinge,33,67000.0,29-05-2013,Auktion,478,4,Villa,140,1897,
+Knoldeholmsvej 4 4892 Kettinge,4,800000.0,05-05-2013,Alm.,6666,3,Villa,120,1962,-20 %
+Kettingevej 87 4892 Kettinge,87,20001.0,24-04-2013,Auktion,240,3,Villa,83,1877,
+Kildevej 9 4892 Kettinge,9,23550000.0,17-04-2013,Alm.,78500,12,Stuehus,300,1907,
+Kettingevej 83 4892 Kettinge,83,300000.0,09-04-2013,Alm.,3370,4,Villa,89,1912,-8 %
+Kolkevej 31 4892 Kettinge,31,486000.0,27-02-2013,Auktion,1205,8,Villa,403,1872,
+Rågelundevej 15 4892 Kettinge,15,30001.0,13-02-2013,Auktion,375,3,Villa,80,1903,
+Kettingevej 21 4892 Kettinge,21,509352.0,04-12-2012,Fam.,3858,4,Villa,132,1939,
+Enghavevej 40 4892 Kettinge,40,3500000.0,03-12-2012,Fam.,14583,3,Stuehus,240,1913,
+Bregningevej 6 4892 Kettinge,6,810219.0,03-12-2012,Alm.,4501,10,Stuehus,180,1907,
+Fuglsangvej 13 4892 Kettinge,13,115000.0,29-11-2012,Alm.,657,5,Villa,175,1910,-8 %
+Kettingevej 49 4892 Kettinge,49,1775000.0,13-11-2012,Alm.,6525,11,Villa,272,1916,-11 %
+Nyvej 17 4892 Kettinge,17,350000.0,12-11-2012,Alm.,3977,3,Villa,88,1963,-7 %
+Knoldeholmsvej 2 4892 Kettinge,2,305900.0,22-08-2012,Alm.,2185,4,Villa,140,1914,
+Eskemosevej 10 4892 Kettinge,10,1195000.0,24-07-2012,Alm.,5241,5,Villa,228,1890,0 %
+Skolevej 4 4892 Kettinge,4,4854000.0,12-07-2012,Fam.,24270,5,Stuehus,200,1906,
+Nyvej 10 4892 Kettinge,10,522206.0,24-06-2012,Alm.,3868,6,Villa,135,1954,-25 %
+Langet 16 4892 Kettinge,16,447500.0,04-06-2012,Fam.,2458,7,Villa,182,1943,
+Enghavevej 38 4892 Kettinge,38,565000.0,21-05-2012,Fam.,2839,7,Villa,199,1992,
+Falkevej 1 4892 Kettinge,1,850000.0,15-05-2012,Alm.,6854,4,Villa,124,1972,-9 %
+Nørrevej 4 4892 Kettinge,4,650000.0,06-05-2012,Alm.,5118,5,Villa,127,1900,
+Birkevænget 10 4892 Kettinge,10,760000.0,26-04-2012,Fam.,6725,4,Villa,113,1979,-11 %
+Anneksvej 5 4892 Kettinge,5,5710000.0,02-03-2012,Alm.,33988,6,Stuehus,168,1910,
+Bregningevej 1 4892 Kettinge,1,295000.0,29-02-2012,Auktion,3172,3,Villa,93,1957,-60 %
+Stenrisvej 4 4892 Kettinge,4,5040000.0,20-02-2012,Alm.,17379,9,Stuehus,290,1916,
+Langet 14 4892 Kettinge,14,301704.0,12-02-2012,Alm.,3389,2,Villa,89,1942,
+Enghavevej 9 4892 Kettinge,9,355500.0,04-01-2012,Alm.,3146,4,Villa,113,1961,-28 %
+Fuglsangvej 2D 4892 Kettinge,0,200000.0,10-11-2011,Auktion,1459,4,Villa,137,1904,-49 %
+Syttenbanken 6 4892 Kettinge,6,900000.0,17-10-2011,Alm.,6250,5,Villa,144,1910,-10 %
+Nørrevej 10 4892 Kettinge,10,175000.0,28-09-2011,Auktion,714,7,Villa,245,1917,
+Granhækken 4 4892 Kettinge,4,995000.0,10-08-2011,Alm.,4760,8,Villa,209,1900,
+Mejerivej 6 4892 Kettinge,6,522000.0,29-07-2011,Alm.,3389,4,Villa,154,1931,
+Birkevænget 11 4892 Kettinge,11,500000.0,08-07-2011,Alm.,4950,3,Villa,101,1979,-16 %
+Kettingevej 117 4892 Kettinge,117,430000.0,06-07-2011,Fam.,4479,4,Villa,96,1942,-31 %
+Enghavevej 86 4892 Kettinge,86,200000.0,01-07-2011,Alm.,2777,3,Villa,72,1877,
+Grønnegadevej 36 4892 Kettinge,36,1315000.0,27-06-2011,Alm.,10115,5,Villa,130,1936,-12 %
+Bækkeskovvej 17 4892 Kettinge,17,2597000.0,10-06-2011,Alm.,19976,5,Stuehus,130,1918,
+Sløsserupvej 3 4892 Kettinge,3,75000.0,01-06-2011,Auktion,781,4,Villa,96,1912,
+Kolkevej 12 4892 Kettinge,12,413093.0,10-04-2011,Fam.,3082,4,Villa,134,1897,
+Nyvej 8 4892 Kettinge,8,349054.0,16-03-2011,Andet,2792,4,Villa,125,1950,
+Fuglsangvej 5 4892 Kettinge,5,447289.0,25-02-2011,Fam.,3127,4,Villa,143,1929,-55 %
+Enghavevej 44 4892 Kettinge,44,600000.0,25-02-2011,Alm.,4225,3,Villa,142,1926,-14 %
+Enghavevej 2 4892 Kettinge,2,300000.0,25-01-2011,Fam.,2054,4,Stuehus,146,1902,
+Grønnegadevej 46 4892 Kettinge,46,250000.0,25-12-2010,Alm.,2212,3,Villa,113,1900,
+Frejlevvej 21 4892 Kettinge,21,1195000.0,14-12-2010,Alm.,5558,5,Villa,215,1897,0 %
+Kettingevej 20 4892 Kettinge,20,1600000.0,24-11-2010,Andet,6837,6,Villa,234,1917,
+Frejlevvej 25 4892 Kettinge,25,300000.0,08-11-2010,Fam.,5000,2,Villa,60,1902,
+Kettingevej 22 4892 Kettinge,22,350000.0,30-09-2010,Alm.,3977,3,Villa,88,1932,-7 %
+Lienlundsvej 3 4892 Kettinge,3,7690000.0,12-08-2010,Alm.,45235,6,Stuehus,170,1948,
+Grønnegadevej 10 4892 Kettinge,10,645000.0,06-08-2010,Alm.,7500,5,Villa,86,1926,-7 %
+Kettingevej 16 4892 Kettinge,16,1250000.0,11-05-2010,Alm.,7716,5,Villa,162,1910,-10 %
+Kildevej 3 4892 Kettinge,3,1000000.0,06-05-2010,Alm.,6666,6,Villa,150,1870,
+Nyvej 13 4892 Kettinge,13,460000.0,28-04-2010,Auktion,3833,4,Villa,120,1964,-34 %
+Fuglsangvej 27 4892 Kettinge,27,730000.0,26-04-2010,Alm.,4709,6,Villa,155,1921,-3 %
+Enghavevej 18 4892 Kettinge,18,1260000.0,14-04-2010,Fam.,9000,4,Villa,140,1910,-3 %
+Eskemosevej 16 4892 Kettinge,16,698000.0,09-04-2010,Alm.,5674,5,Villa,123,1910,0 %
+Kettingevej 50 4892 Kettinge,50,65000.0,07-04-2010,Alm.,265,8,Villa,245,1940,
+Rågelundevej 52 4892 Kettinge,52,195000.0,24-03-2010,Alm.,2096,3,Villa,93,1963,-9 %
+Enghavevej 45 4892 Kettinge,45,800000.0,24-03-2010,Fam.,6400,5,Villa,125,1948,
+Kildevej 18 4892 Kettinge,18,600000.0,19-03-2010,Alm.,3846,6,Villa,156,1903,
+Bækkeskovvej 18 4892 Kettinge,18,400000.0,17-03-2010,Auktion,2312,5,Villa,173,1870,
+Rågelundevej 3 4892 Kettinge,3,365000.0,23-02-2010,Alm.,3924,5,Villa,93,1913,-16 %
+Rågelundevej 37 4892 Kettinge,37,650000.0,18-02-2010,Alm.,4710,3,Villa,138,1860,-4 %
+Grønnegadevej 50 4892 Kettinge,50,550000.0,17-02-2010,Alm.,4104,4,Villa,134,1911,
+Langet 3 4892 Kettinge,3,420000.0,12-02-2010,Alm.,6363,3,Sommerhus,66,1850,-15 %
+Kettingevej 120B 4892 Kettinge,0,1400000.0,25-01-2010,Alm.,5303,5,Stuehus,264,1910,-14 %
+Grønnegadevej 62 4892 Kettinge,62,686000.0,04-12-2009,Alm.,2679,8,Stuehus,256,1875,
+Kettingevej 8 4892 Kettinge,8,750000.0,03-12-2009,Alm.,5555,5,Villa,135,1870,-6 %
+Kettingevej 136 4892 Kettinge,136,500000.0,18-11-2009,Auktion,2304,5,Villa,217,1914,
+Langet 8 4892 Kettinge,8,101000.0,06-11-2009,Alm.,1603,2,Sommerhus,63,1877,
+Fuglsangvej 29 4892 Kettinge,29,125000.0,04-11-2009,Auktion,722,7,Villa,173,1928,0 %
+Falkevej 7 4892 Kettinge,7,750000.0,14-10-2009,Alm.,5952,4,Villa,126,1972,-16 %
+Stoffervej 2 4892 Kettinge,2,635000.0,30-09-2009,Alm.,5204,4,Villa,122,1950,0 %
+Kettingevej 125 4892 Kettinge,125,1375000.0,28-09-2009,Alm.,6740,6,Villa,204,1919,0 %
+Kettingevej 3C 4892 Kettinge,0,1100000.0,21-08-2009,Alm.,7189,4,Villa,153,1974,-15 %
+Kettingevej 5 4892 Kettinge,5,800000.0,11-08-2009,Alm.,5000,4,Villa,160,1827,-4 %
+Kildevangsvej 2 4892 Kettinge,2,100000.0,16-07-2009,Alm.,714,4,Villa,140,1936,
+Grønnegadevej 23 4892 Kettinge,23,925000.0,03-07-2009,Alm.,8894,4,Villa,104,1957,-7 %
+Tokkerupvej 6 4892 Kettinge,6,395000.0,26-06-2009,Alm.,4702,2,Villa,84,1900,0 %
+Sønderhavevej 7 4892 Kettinge,7,250000.0,20-06-2009,Alm.,3246,3,Villa,77,1900,11 %
+Kettingevej 55 4892 Kettinge,55,416500.0,31-05-2009,Fam.,6717,3,Villa,62,1956,
+Nørrevej 3 4892 Kettinge,3,500000.0,25-05-2009,Fam.,5208,3,Villa,96,1880,-13 %
+Eskemosevej 1B 4892 Kettinge,0,6982128.0,25-05-2009,Fam.,31031,4,Stuehus,225,1956,
+Enghavevej 72 4892 Kettinge,72,80000.0,07-05-2009,Andet,349,8,Sommerhus,229,1860,
+Enghavevej 14 4892 Kettinge,14,230332.0,06-05-2009,Auktion,1785,4,Villa,129,1960,
+Nyvej 3 4892 Kettinge,3,177000.0,08-04-2009,Auktion,1701,4,Villa,104,1954,-49 %
+Valtersvej 5 4892 Kettinge,5,850000.0,01-04-2009,Fam.,4106,5,Villa,207,1877,
+Grønnegadevej 58 4892 Kettinge,58,1500000.0,26-02-2009,Alm.,7500,8,Stuehus,200,1927,
+Rågelundevej 39 4892 Kettinge,39,8421465.0,25-02-2009,Fam.,28355,7,Stuehus,297,1965,
+Grønnegadevej 8 4892 Kettinge,8,515000.0,11-02-2009,Andet,0,6,Villa,177,1911,-24 %
+Nørrevej 17 4892 Kettinge,17,38690000.0,09-02-2009,Fam.,154760,10,Stuehus,250,1941,
+Kolkevej 1 4892 Kettinge,1,975000.0,30-12-2008,Alm.,7169,5,Villa,136,1950,-7 %
+Eskemosevej 7 4892 Kettinge,7,1145000.0,27-11-2008,Alm.,7024,6,Stuehus,163,1930,
+Rågelundevej 12A 4892 Kettinge,0,15000.0,26-11-2008,Auktion,107,4,Villa,140,1909,-98 %
+Eskemosevej 3 4892 Kettinge,3,200000.0,14-10-2008,Alm.,840,8,Stuehus,238,1922,
+Kettingevej 119 4892 Kettinge,119,695000.0,28-08-2008,Alm.,7239,4,Villa,96,1931,0 %
+Kettingevej 28 4892 Kettinge,28,850000.0,15-08-2008,Alm.,6250,4,Villa,136,1934,-8 %
+Tokkerupvej 4 4892 Kettinge,4,900000.0,14-08-2008,Alm.,9000,4,Villa,100,1908,-10 %
+Bukkeholmvej 6 4892 Kettinge,6,265000.0,06-08-2008,Auktion,2154,4,Villa,123,1946,
+Grønnegadevej 37 4892 Kettinge,37,235000.0,04-08-2008,Alm.,2670,4,Sommerhus,88,1852,
+Frostrupvej 2 4892 Kettinge,2,749820.0,21-07-2008,Alm.,9372,3,Villa,80,1900,-11 %
+Kolkevej 6A 4892 Kettinge,0,1100000.0,12-07-2008,Alm.,7857,5,Villa,140,1909,-3 %
+Enghavevej 4 4892 Kettinge,4,1200000.0,20-06-2008,Alm.,8000,5,Villa,150,1870,-6 %
+Kettingevej 6 4892 Kettinge,6,374000.0,28-05-2008,Fam.,4298,3,Villa,87,1942,
+Kettingevej 47 4892 Kettinge,47,387500.0,18-05-2008,Andet,2709,7,Villa,143,1912,
+Nyvej 12 4892 Kettinge,12,935000.0,11-04-2008,Alm.,8990,5,Villa,104,1949,
+Stoffervej 11 4892 Kettinge,11,870000.0,06-04-2008,Alm.,7699,3,Villa,113,1910,-3 %
+Granhækken 1 4892 Kettinge,1,7500000.0,31-03-2008,Alm.,35714,7,Stuehus,210,1907,
+Enghavevej 3 4892 Kettinge,3,244000.0,22-03-2008,Fam.,1220,4,Villa,200,1822,
+Torupvej 9 4892 Kettinge,9,490115.0,24-02-2008,Andet,3141,8,Villa,156,1850,
+Enghavevej 37 4892 Kettinge,37,2171500.0,19-02-2008,Fam.,13657,6,Stuehus,159,1801,
+Kolkevej 2 4892 Kettinge,2,1115000.0,17-01-2008,Alm.,7964,4,Villa,140,1850,-3 %
+Kettingevej 108 4892 Kettinge,108,1595000.0,07-01-2008,Alm.,7975,8,Villa,200,1967,0 %
+Sløsserupvej 1 4892 Kettinge,1,1495000.0,19-12-2007,Alm.,6953,4,Villa,215,1969,0 %
+Kettingevej 29 4892 Kettinge,29,935000.0,11-12-2007,Alm.,6538,4,Villa,143,1925,0 %
+Fuglsangvej 35 4892 Kettinge,35,940000.0,12-11-2007,Alm.,4895,8,Villa,192,1901,-6 %
+Kettingevej 131 4892 Kettinge,131,865000.0,24-10-2007,Alm.,6653,4,Villa,130,1910,-3 %
+Sønderhavevej 11 4892 Kettinge,11,1450000.0,25-09-2007,Alm.,7250,5,Villa,200,1880,
+Plantagevej 10 4892 Kettinge,10,1365200.0,19-09-2007,Alm.,8922,6,Stuehus,153,1933,9 %
+Fuglsangvej 7 4892 Kettinge,7,462000.0,03-09-2007,Auktion,4442,4,Villa,104,1926,-29 %
+Stationsvej 5 4892 Kettinge,5,975000.0,30-07-2007,Alm.,7014,5,Villa,139,1897,0 %
+Kettingevej 24 4892 Kettinge,24,1065000.0,25-07-2007,Alm.,8588,3,Villa,124,1936,
+Sporet 4 4892 Kettinge,4,690000.0,24-07-2007,Alm.,5267,4,Villa,131,1936,-6 %
+Kettingevej 59 4892 Kettinge,59,550000.0,21-07-2007,Alm.,5092,5,Villa,108,1922,-4 %
+Bregningevej 25 4892 Kettinge,25,919709.0,02-07-2007,Alm.,11496,5,Villa,80,1930,3 %
+Klokkemosen 4 4892 Kettinge,4,551000.0,21-06-2007,Alm.,3773,4,Villa,146,1962,
+Kildevej 20 4892 Kettinge,20,565000.0,07-06-2007,Alm.,3021,10,Villa,187,1883,
+Birkevænget 4 4892 Kettinge,4,895000.0,04-06-2007,Alm.,7217,4,Villa,124,1978,
+Margrethelundsvej 3 4892 Kettinge,3,1035000.0,04-06-2007,Alm.,5880,5,Villa,176,1903,
+Kettingevej 139 4892 Kettinge,139,710000.0,14-05-2007,Alm.,7473,5,Villa,95,1933,-5 %
+Plantagevej 3 4892 Kettinge,3,675000.0,24-04-2007,Alm.,7258,3,Villa,93,1956,
+Eskemosevej 4 4892 Kettinge,4,1550000.0,04-04-2007,Fam.,11151,6,Villa,139,1902,
+Grønnegadevej 42 4892 Kettinge,42,895000.0,27-03-2007,Alm.,6729,5,Villa,133,1878,
+Kolkevej 7A 4892 Kettinge,0,75000.0,14-03-2007,Alm.,454,5,Villa,165,2010,
+Kettingevej 133 4892 Kettinge,133,970000.0,06-03-2007,Alm.,8016,6,Villa,121,1936,-3 %
+Kolkevej 11 4892 Kettinge,11,795000.0,19-02-2007,Alm.,8736,3,Villa,91,1960,
+Fuglsangvej 33 4892 Kettinge,33,1050000.0,18-02-2007,Alm.,8333,3,Villa,126,1934,
+Fuglsangvej 41 4892 Kettinge,41,1699000.0,04-02-2007,Alm.,9491,5,Villa,179,1977,0 %
+Grønnegadevej 12A 4892 Kettinge,0,732000.0,22-12-2006,Alm.,7956,4,Villa,92,1932,
+Plantagevej 1A 4892 Kettinge,0,975000.0,18-12-2006,Alm.,7014,5,Villa,139,1938,
+Nyvej 11 4892 Kettinge,11,495000.0,06-11-2006,Alm.,6036,2,Villa,82,1957,
+Rågelundevej 31 4892 Kettinge,31,263500.0,22-10-2006,Fam.,2558,5,Villa,103,1900,
+Granvænget 2 4892 Kettinge,2,875000.0,28-09-2006,Alm.,8928,3,Villa,98,1965,
+Grønnegadevej 5 4892 Kettinge,5,775000.0,09-09-2006,Alm.,5308,6,Villa,146,1914,
+Kettingevej 140 4892 Kettinge,140,795000.0,09-09-2006,Alm.,7794,4,Villa,102,1945,
+Kettingevej 48 4892 Kettinge,48,1295000.0,10-08-2006,Alm.,6573,7,Villa,197,1946,
+Kettingevej 111 4892 Kettinge,111,595000.0,09-08-2006,Alm.,6134,2,Villa,97,1920,
+Grønnegadevej 41 4892 Kettinge,41,910000.0,21-07-2006,Alm.,9479,4,Villa,96,1852,
+Kettingevej 93 4892 Kettinge,93,850000.0,15-07-2006,Alm.,4748,4,Villa,179,1939,
+Kolkevej 8A 4892 Kettinge,0,900000.0,09-06-2006,Alm.,5084,7,Villa,177,1940,
+Enghavevej 16 4892 Kettinge,16,920000.0,30-05-2006,Alm.,9387,3,Villa,98,1983,
+Enghavevej 82 4892 Kettinge,82,595000.0,08-03-2006,Fam.,3380,5,Villa,176,1870,
+Kettingevej 149 4892 Kettinge,149,595000.0,07-03-2006,Alm.,5219,3,Villa,114,1900,
+Granvænget 4 4892 Kettinge,4,1175000.0,06-03-2006,Alm.,6911,4,Villa,170,1974,
+Enghavevej 39 4892 Kettinge,39,1475000.0,01-03-2006,Alm.,6555,7,Villa,225,1850,
+Høgevej 4 4892 Kettinge,4,1500000.0,29-01-2006,Alm.,9493,4,Villa,158,1973,
+Kolkevej 18 4892 Kettinge,18,450000.0,23-01-2006,Alm.,3040,3,Villa,148,1917,
+Fuglsangvej 39 4892 Kettinge,39,695000.0,23-01-2006,Alm.,5791,4,Villa,120,1890,
+Kolkevej 29 4892 Kettinge,29,820000.0,15-01-2006,Alm.,6560,6,Villa,125,1877,
+Stoffervej 17 4892 Kettinge,17,275000.0,10-01-2006,Alm.,2370,4,Villa,116,1877,
+Nyvej 4 4892 Kettinge,4,795000.0,22-12-2005,Alm.,5719,6,Villa,139,1953,
+Kettingevej 43 4892 Kettinge,43,645000.0,14-12-2005,Alm.,8062,3,Villa,80,1954,
+Nyvej 6 4892 Kettinge,6,174821.0,22-11-2005,Andet,1285,2,Villa,136,1948,
+Enghavevej 64 4892 Kettinge,64,910000.0,19-11-2005,Alm.,9680,3,Villa,94,1925,
+Vænget 3 4892 Kettinge,3,895000.0,14-11-2005,Alm.,4543,7,Villa,197,1945,
+Grønnegadevej 17B 4892 Kettinge,0,675000.0,09-11-2005,Alm.,7941,3,Rækkehus,85,1960,
+Langet 11 4892 Kettinge,11,816000.0,31-10-2005,Alm.,8160,3,Villa,100,1917,
+Rågelundevej 27 4892 Kettinge,27,500000.0,03-10-2005,Alm.,6493,2,Villa,77,1900,
+Stoffervej 7 4892 Kettinge,7,685000.0,30-08-2005,Alm.,6227,4,Villa,110,1965,
+Langet 13 4892 Kettinge,13,775000.0,22-08-2005,Alm.,4754,3,Villa,163,1909,
+Grønnegadevej 17A 4892 Kettinge,0,645000.0,22-08-2005,Alm.,7588,3,Rækkehus,85,1960,
+Eskemosevej 12 4892 Kettinge,12,1195000.0,02-08-2005,Alm.,6713,5,Villa,178,1940,
+Rågelundevej 23 4892 Kettinge,23,700000.0,08-06-2005,Alm.,2766,6,Villa,253,1777,
+Kettingevej 34 4892 Kettinge,34,895000.0,06-06-2005,Alm.,7584,5,Villa,118,1946,
+Kettingevej 92 4892 Kettinge,92,12500000.0,06-06-2005,Alm.,48076,7,Stuehus,260,1926,
+Bækkeskovvej 19 4892 Kettinge,19,1025000.0,30-05-2005,Alm.,4575,6,Villa,224,1934,
+Kettingevej 4 4892 Kettinge,4,321801.0,23-05-2005,Alm.,4022,3,Villa,80,1943,
+Bregningevej 3 4892 Kettinge,3,485000.0,23-05-2005,Alm.,6062,3,Villa,80,1941,
+Frostrupvej 8 4892 Kettinge,8,598338.0,07-05-2005,Andet,2862,10,Villa,209,1940,
+Kettingevej 56 4892 Kettinge,56,440000.0,03-05-2005,Andet,2000,7,Villa,220,1912,
+Mosevej 2 4892 Kettinge,2,600000.0,11-04-2005,Alm.,3428,5,Villa,175,1850,
+Langet 1 4892 Kettinge,1,425000.0,01-04-2005,Alm.,4086,3,Villa,104,1932,
+Kettingevej 155 4892 Kettinge,155,875000.0,03-03-2005,Alm.,7172,5,Villa,122,1887,
+Falkevej 8 4892 Kettinge,8,995000.0,08-02-2005,Alm.,5852,5,Villa,170,1974,
+Enghavevej 19 4892 Kettinge,19,820000.0,13-01-2005,Alm.,6074,4,Villa,135,1820,
+Plantagevej 13 4892 Kettinge,13,3230000.0,13-01-2005,Fam.,12716,9,Stuehus,254,1922,
+Kettingevej 15 4892 Kettinge,15,1807000.0,29-12-2004,Fam.,6950,10,Stuehus,260,1890,
+Nørrevej 8 4892 Kettinge,8,386500.0,17-12-2004,Fam.,3513,4,Villa,110,1947,
+Bækkeskovvej 8A 4892 Kettinge,0,620664.0,29-11-2004,Alm.,6084,3,Villa,102,1897,
+Kildevej 2 4892 Kettinge,2,467500.0,27-11-2004,Fam.,5081,4,Villa,92,1937,
+Birkevænget 2 4892 Kettinge,2,875000.0,15-11-2004,Alm.,7954,4,Villa,110,1979,
+Stationsvej 15 4892 Kettinge,15,675000.0,20-10-2004,Alm.,4440,5,Villa,152,1933,
+Enghavevej 17 4892 Kettinge,17,767000.0,18-10-2004,Alm.,6391,4,Villa,120,1900,
+Kettingevej 9 4892 Kettinge,9,975000.0,08-10-2004,Alm.,4899,7,Villa,199,1907,
+Bukkeholmvej 1 4892 Kettinge,1,658845.0,06-09-2004,Alm.,6459,5,Villa,102,1900,
+Vivevej 5 4892 Kettinge,5,244500.0,25-08-2004,Andet,2144,5,Villa,114,1900,
+Bækkeskovvej 12 4892 Kettinge,12,885000.0,24-08-2004,Alm.,4809,4,Villa,184,1905,
+Kettingevej 30 4892 Kettinge,30,745000.0,16-08-2004,Alm.,6008,3,Villa,124,1937,
+Nyvej 2 4892 Kettinge,2,286101.0,16-08-2004,Andet,1973,5,Villa,145,1940,
+Enghavevej 47 4892 Kettinge,47,840000.0,14-07-2004,Alm.,0,6,Villa,150,1902,
+Kettingevej 103 4892 Kettinge,103,399000.0,02-07-2004,Alm.,4586,4,Villa,87,1964,
+Frejlevvej 4 4892 Kettinge,4,746000.0,30-06-2004,Alm.,5180,4,Villa,144,1912,
+Kolkevej 16 4892 Kettinge,16,4571312.0,28-06-2004,Alm.,15237,10,Stuehus,300,1919,
+Kettingevej 80 4892 Kettinge,80,272000.0,14-06-2004,Fam.,2045,5,Villa,133,1933,
+Birkevænget 3 4892 Kettinge,3,337528.0,10-05-2004,Alm.,0,3,Villa,151,1976,
+Stationsvej 10 4892 Kettinge,10,609576.0,26-04-2004,Alm.,5644,5,Villa,108,1913,
+Kolkevej 9 4892 Kettinge,9,600000.0,20-04-2004,Alm.,5825,3,Villa,103,1959,
+Bækkeskovvej 23 4892 Kettinge,23,695000.0,24-03-2004,Alm.,6096,4,Villa,114,1906,
+Fuglsangvej 23 4892 Kettinge,23,712500.0,01-03-2004,Alm.,3830,9,Villa,186,1900,
+Nørrevej 7 4892 Kettinge,7,125000.0,17-02-2004,Andet,1302,4,Villa,96,1800,
+Grønnegadevej 54 4892 Kettinge,54,560000.0,16-02-2004,Alm.,3708,3,Villa,151,1887,
+Torupvej 8 4892 Kettinge,8,550000.0,22-12-2003,Fam.,2455,7,Villa,224,1900,
+Sløsserupvej 9 4892 Kettinge,9,775000.0,11-12-2003,Alm.,4428,6,Villa,175,1912,
+Birkevænget 6 4892 Kettinge,6,544000.0,08-12-2003,Fam.,4495,4,Villa,121,1978,
+Plantagevej 7 4892 Kettinge,7,833000.0,24-09-2003,Alm.,6941,4,Villa,120,1963,
+Rågelundevej 49 4892 Kettinge,49,375000.0,29-08-2003,Alm.,2976,4,Villa,126,1900,
+Bregningevej 8 4892 Kettinge,8,270000.0,29-08-2003,Alm.,2368,3,Villa,114,1920,
+Nørrevej 1 4892 Kettinge,1,905000.0,28-07-2003,Alm.,3678,8,Villa,246,1880,
+Stoffervej 12 4892 Kettinge,12,815000.0,21-07-2003,Alm.,5659,4,Villa,144,1984,
+Kettingevej 132 4892 Kettinge,132,420000.0,23-06-2003,Alm.,0,4,Villa,106,1964,
+Bøgevænget 16 4892 Kettinge,16,690000.0,20-06-2003,Alm.,7187,4,Villa,96,1982,
+Mosevej 6 4892 Kettinge,6,130000.0,30-05-2003,Alm.,2321,3,Villa,56,1956,
+Sporet 2 4892 Kettinge,2,575000.0,15-04-2003,Alm.,3549,5,Villa,162,1922,
+Grønnegadevej 26 4892 Kettinge,26,550000.0,02-04-2003,Alm.,4910,2,Villa,112,1941,
+Bækkeskovvej 20 4892 Kettinge,20,463565.0,10-03-2003,Alm.,3863,4,Villa,120,1837,
+Mosevej 3 4892 Kettinge,3,580000.0,06-03-2003,Alm.,2857,8,Villa,203,1914,
+Enghavevej 26 4892 Kettinge,26,120000.0,14-02-2003,Alm.,609,5,Stuehus,197,1912,
+Kettingevej 53 4892 Kettinge,53,565000.0,10-01-2003,Alm.,4520,5,Villa,125,1919,
+Kettingevej 121 4892 Kettinge,121,440000.0,18-11-2002,Andet,2993,5,Villa,147,1931,
+Fuglsangvej 3 4892 Kettinge,3,662428.0,23-10-2002,Alm.,3200,6,Villa,207,1934,
+Bregningevej 5 4892 Kettinge,5,300000.0,19-08-2002,Fam.,3658,3,Villa,82,1820,
+Stoffervej 5 4892 Kettinge,5,397822.0,13-08-2002,Andet,2669,4,Villa,149,1965,
+Kettingevej 75 4892 Kettinge,75,809000.0,25-06-2002,Alm.,5120,5,Villa,158,1909,
+Kettingevej 3A 4892 Kettinge,0,395000.0,24-06-2002,Alm.,5563,3,Rækkehus,71,1976,
+Nørrevej 9 4892 Kettinge,9,345000.0,17-06-2002,Alm.,0,5,Villa,149,1880,
+Nørrevej 12 4892 Kettinge,12,692969.0,28-05-2002,Alm.,3937,5,Villa,176,1920,
+Stenrisvej 2 4892 Kettinge,2,797182.0,23-04-2002,Alm.,3690,7,Villa,216,1900,
+Eskemosevej 8 4892 Kettinge,8,3102500.0,05-04-2002,Fam.,7215,11,Stuehus,430,1930,
+Kettingevej 105 4892 Kettinge,105,660000.0,27-03-2002,Alm.,4074,6,Villa,162,1966,
+Plantagevej 5 4892 Kettinge,5,420000.0,26-03-2002,Alm.,5250,3,Villa,80,1960,
+Grønnegadevej 22 4892 Kettinge,22,537066.0,25-03-2002,Alm.,4838,5,Villa,111,1955,
+Nørrevej 5 4892 Kettinge,5,395000.0,30-01-2002,Alm.,3950,3,Villa,100,1900,
+Sløsserupvej 12 4892 Kettinge,12,4600000.0,18-12-2001,Fam.,18473,7,Stuehus,249,1968,
+Kettingevej 118A 4892 Kettinge,0,250000.0,08-12-2001,Alm.,1445,4,Villa,173,1860,
+Torupvej 6 4892 Kettinge,6,802200.0,07-12-2001,Andet,2938,9,Villa,273,1879,
+Rågelundevej 34 4892 Kettinge,34,474000.0,25-11-2001,Alm.,3019,6,Villa,157,1877,
+Kettingevej 68 4892 Kettinge,68,665000.0,19-11-2001,Alm.,5450,3,Villa,122,1947,
+Tokkerupvej 1 4892 Kettinge,1,811000.0,08-10-2001,Alm.,3310,11,Villa,245,1908,
+Vivevej 2 4892 Kettinge,2,484000.0,23-09-2001,Alm.,4400,3,Sommerhus,110,1900,
+Stoffervej 8 4892 Kettinge,8,830000.0,16-09-2001,Alm.,6014,5,Villa,138,1978,
+Grønnegadevej 45A 4892 Kettinge,0,126000.0,06-08-2001,Fam.,1298,2,Villa,97,1850,
+Bregningevej 17 4892 Kettinge,17,673500.0,28-06-2001,Alm.,4317,5,Villa,156,1877,
+Torupvej 5 4892 Kettinge,5,1200000.0,27-06-2001,Alm.,0,4,Villa,138,1969,
+Stoffervej 6 4892 Kettinge,6,1079000.0,27-06-2001,Alm.,6273,4,Villa,172,1980,
+Rågelundevej 17 4892 Kettinge,17,258000.0,08-06-2001,Alm.,3583,4,Villa,72,1900,
+Enghavevej 66 4892 Kettinge,66,830000.0,04-06-2001,Alm.,0,6,Villa,200,1900,
+Frejlevvej 2 4892 Kettinge,2,1050000.0,23-05-2001,Alm.,4929,7,Villa,213,1912,
+Enghavevej 76 4892 Kettinge,76,490000.0,04-05-2001,Alm.,5833,3,Stuehus,84,1877,
+Rågelundevej 16 4892 Kettinge,16,446241.0,23-04-2001,Alm.,0,5,Villa,190,1909,
+Kertevej 5 4892 Kettinge,5,840000.0,01-01-2001,Alm.,4019,4,Villa,209,1894,
+Fuglsangvej 47 4892 Kettinge,47,437000.0,01-01-2001,Fam.,3387,5,Villa,129,1930,
+Granhækken 2 4892 Kettinge,2,3643000.0,01-01-2001,Fam.,13010,7,Stuehus,280,1910,
+Frostrupvej 5A 4892 Kettinge,0,974450.0,28-12-2000,Alm.,3419,8,Villa,285,1870,
+Langet 9 4892 Kettinge,9,385000.0,01-12-2000,Alm.,2938,5,Villa,131,1912,
+Kettingevej 101 4892 Kettinge,101,545000.0,30-10-2000,Alm.,3657,3,Villa,149,1945,
+Kildevangsvej 4 4892 Kettinge,4,451721.0,21-06-2000,Alm.,2140,5,Villa,211,1800,
+Nyvej 9 4892 Kettinge,9,355000.0,19-06-2000,Alm.,4930,3,Villa,72,1957,
+Grønnegadevej 11 4892 Kettinge,11,422000.0,19-06-2000,Alm.,3080,5,Villa,137,1939,
+Eskemosevej 5 4892 Kettinge,5,291708.0,15-06-2000,Andet,2581,5,Villa,113,1910,
+Kettingevej 3B 4892 Kettinge,0,340000.0,07-06-2000,Alm.,4788,3,Rækkehus,71,1976,
+Enghavevej 30 4892 Kettinge,30,604000.0,06-06-2000,Alm.,1498,10,Villa,403,1914,
+Stoffervej 15 4892 Kettinge,15,178000.0,09-05-2000,Alm.,1424,4,Villa,125,1850,
+Langet 7 4892 Kettinge,7,6458285.0,15-04-2000,Alm.,25326,6,Villa,255,1860,
+Grønnegadevej 6 4892 Kettinge,6,265000.0,15-04-2000,Alm.,2284,4,Villa,116,1910,
+Enghavevej 7 4892 Kettinge,7,387000.0,09-04-2000,Alm.,0,6,Villa,154,1917,
+Birkevænget 8 4892 Kettinge,8,756500.0,31-03-2000,Fam.,4641,3,Villa,163,1995,
+Frostrupvej 6 4892 Kettinge,6,785000.0,19-03-2000,Alm.,4485,7,Villa,175,1935,
+Kettingevej 41 4892 Kettinge,41,370000.0,03-02-2000,Alm.,2483,4,Villa,149,1910,
+Sønderhavevej 15 4892 Kettinge,15,50000.0,29-12-1999,Alm.,145,9,Villa,344,1933,
+Bækkeskovvej 22 4892 Kettinge,22,50000.0,28-12-1999,Alm.,359,5,Stuehus,139,1917,
+Enghavevej 22 4892 Kettinge,22,871545.0,29-09-1999,Alm.,3378,6,Villa,258,1945,
+Vivevej 4 4892 Kettinge,4,260290.0,09-08-1999,Alm.,0,6,Villa,136,1914,
+Eskemosevej 18 4892 Kettinge,18,265960.0,03-08-1999,Alm.,3499,3,Villa,76,1942,
+Rågelundevej 36 4892 Kettinge,36,640725.0,03-08-1999,Alm.,3930,5,Villa,163,1968,
+Kolkevej 25 4892 Kettinge,25,223905.0,06-07-1999,Fam.,1544,5,Villa,145,2001,
+Mejerivej 4 4892 Kettinge,4,365000.0,08-06-1999,Alm.,3379,4,Villa,108,1949,
+Stationsvej 11 4892 Kettinge,11,186000.0,25-05-1999,Alm.,1660,7,Villa,112,1925,
+Kolkevej 13 4892 Kettinge,13,404476.0,26-04-1999,Alm.,3370,5,Villa,120,1962,
+Enghavevej 32 4892 Kettinge,32,482000.0,26-04-1999,Alm.,3597,5,Villa,134,1912,
+Grønnegadevej 1A 4892 Kettinge,0,133349.0,12-04-1999,Alm.,1212,5,Villa,110,1877,
+Kettingevej 1B 4892 Kettinge,0,1254000.0,09-02-1999,Alm.,0,8,Stuehus,223,1930,
+Valtersvej 8 4892 Kettinge,8,719000.0,16-01-1999,Alm.,3423,7,Villa,210,1926,
+Kildevej 10 4892 Kettinge,10,355000.0,15-01-1999,Alm.,2933,3,Villa,121,1971,
+Bøgevænget 17 4892 Kettinge,17,619000.0,15-12-1998,Alm.,6585,4,Villa,94,1980,
+Kettingevej 7 4892 Kettinge,7,679000.0,19-09-1998,Alm.,4217,6,Villa,161,1916,
+Eskemosevej 17 4892 Kettinge,17,388000.0,02-09-1998,Alm.,4790,3,Villa,81,1963,
+Præstegårdsstræde 1 4892 Kettinge,1,462000.0,01-09-1998,Alm.,0,6,Villa,144,1928,
+Kolkevej 17 4892 Kettinge,17,250000.0,20-08-1998,Alm.,0,6,Villa,184,1870,
+Mosevej 4 4892 Kettinge,4,345000.0,14-08-1998,Alm.,3965,3,Villa,87,1910,
+Kolkevej 7B 4892 Kettinge,0,390000.0,29-06-1998,Alm.,4431,3,Villa,88,1958,
+Bækkeskovvej 15 4892 Kettinge,15,515000.0,17-06-1998,Alm.,3678,7,Villa,140,1885,
+Rågelundevej 8 4892 Kettinge,8,196700.0,08-06-1998,Alm.,2489,4,Villa,79,1934,
+Kettingevej 116 4892 Kettinge,116,340000.0,04-06-1998,Alm.,3269,5,Villa,104,1924,
+Anneksvej 1 4892 Kettinge,1,275000.0,11-05-1998,Alm.,2455,3,Villa,112,1900,
+Syttenbanken 2 4892 Kettinge,2,747000.0,11-05-1998,Alm.,0,6,Villa,199,1896,
+Vivevej 6 4892 Kettinge,6,2230000.0,11-05-1998,Fam.,11150,7,Stuehus,200,1900,
+Stationsvej 7 4892 Kettinge,7,280000.0,11-05-1998,Alm.,1842,6,Villa,152,1932,
+Langet 2 4892 Kettinge,2,481000.0,22-04-1998,Alm.,3589,4,Villa,134,1919,
+Rågelundevej 40 4892 Kettinge,40,57668.0,05-03-1998,Alm.,678,3,Sommerhus,85,1880,
+Tokkerupvej 7 4892 Kettinge,7,308000.0,23-02-1998,Alm.,0,6,Villa,192,1877,
+Kettingevej 65 4892 Kettinge,65,499000.0,21-02-1998,Alm.,3809,5,Villa,131,1925,
+Enghavevej 34 4892 Kettinge,34,371500.0,13-01-1998,Alm.,2751,6,Villa,135,1907,
+Sløsserupvej 8 4892 Kettinge,8,325000.0,06-01-1998,Alm.,1321,7,Villa,246,1912,
+Grønnegadevej 52 4892 Kettinge,52,343000.0,03-11-1997,Alm.,2956,4,Villa,116,1900,
+Enghavevej 41 4892 Kettinge,41,470000.0,14-10-1997,Alm.,0,12,Villa,258,1924,
+Falkevej 3 4892 Kettinge,3,584000.0,06-10-1997,Alm.,0,5,Villa,158,1972,
+Kettingevej 122 4892 Kettinge,122,290000.0,08-09-1997,Alm.,3295,3,Villa,88,1964,
+Kettingevej 143 4892 Kettinge,143,1258700.0,29-08-1997,Fam.,6357,5,Stuehus,198,1860,
+Bregningevej 21 4892 Kettinge,21,273000.0,22-08-1997,Alm.,1727,4,Villa,158,1877,
+Kildevej 1 4892 Kettinge,1,461500.0,11-07-1997,Alm.,3273,4,Villa,141,1897,
+Rågelundevej 50 4892 Kettinge,50,371000.0,17-06-1997,Alm.,2473,4,Villa,150,1870,
+Nørrevej 19A 4892 Kettinge,0,504000.0,15-05-1997,Alm.,2057,7,Villa,245,1900,
+Kettingevej 79 4892 Kettinge,79,274050.0,11-05-1997,Alm.,2514,3,Villa,109,1927,
+Kildevej 12 4892 Kettinge,12,1307000.0,07-05-1997,Alm.,6952,10,Villa,188,1928,
+Torupvej 1 4892 Kettinge,1,399000.0,18-04-1997,Alm.,2216,7,Villa,180,1875,
+Plantagevej 14 4892 Kettinge,14,1050000.0,02-04-1997,Alm.,7894,5,Stuehus,133,1925,
+Plantagevej 2 4892 Kettinge,2,390000.0,10-02-1997,Alm.,1578,6,Villa,247,1967,
+Stationsvej 12 4892 Kettinge,12,250000.0,10-02-1997,Alm.,3125,3,Villa,80,1925,
+Nørrevej 33 4892 Kettinge,33,655994.0,03-02-1997,Alm.,3545,8,Villa,185,1900,
+Grønnegadevej 27 4892 Kettinge,27,300873.0,28-11-1996,Alm.,2332,6,Villa,129,1957,
+Grønnegadevej 35 4892 Kettinge,35,520000.0,27-11-1996,Alm.,2653,6,Villa,196,1900,
+Kettingevej 109 4892 Kettinge,109,210000.0,29-10-1996,Alm.,1500,4,Villa,140,1933,
+Vænget 5 4892 Kettinge,5,556965.0,10-08-1996,Alm.,2946,7,Villa,189,1927,
+Kildevej 5 4892 Kettinge,5,579000.0,22-07-1996,Alm.,2984,5,Villa,194,1880,
+Nørrevej 23 4892 Kettinge,23,276205.0,04-07-1996,Alm.,2209,3,Villa,125,1827,
+Kettingevej 114 4892 Kettinge,114,257000.0,04-07-1996,Alm.,2793,3,Villa,92,1914,
+Enghavevej 28 4892 Kettinge,28,152000.0,02-06-1996,Alm.,1583,5,Sommerhus,96,1887,
+Grønnegadevej 28 4892 Kettinge,28,350000.0,29-04-1996,Alm.,2333,5,Villa,150,1927,
+Torupvej 4 4892 Kettinge,4,664440.0,16-04-1996,Alm.,3885,3,Villa,171,1873,
+Kolkevej 15 4892 Kettinge,15,320000.0,10-04-1996,Alm.,2442,3,Villa,131,1963,
+Lienlundsvej 1 4892 Kettinge,1,351400.0,08-04-1996,Alm.,2043,4,Villa,172,1803,
+Kettingevej 36 4892 Kettinge,36,329840.0,29-03-1996,Alm.,3171,4,Villa,104,1933,
+Eskemosevej 6 4892 Kettinge,6,265000.0,02-01-1996,Fam.,0,2,Villa,114,1880,
+Grønnegadevej 13 4892 Kettinge,13,360000.0,28-11-1995,Alm.,0,4,Villa,124,1927,
+Tokkerupvej 11 4892 Kettinge,11,250000.0,30-10-1995,Alm.,0,5,Villa,164,1864,
+Enghavevej 50 4892 Kettinge,50,331500.0,30-10-1995,Fam.,3683,3,Villa,90,1933,
+Brandtvej 2 4892 Kettinge,2,515000.0,18-10-1995,Alm.,0,5,Villa,170,1909,
+Rågelundevej 10 4892 Kettinge,10,295000.0,16-10-1995,Alm.,0,4,Villa,85,1934,
+Granhækken 6 4892 Kettinge,6,600000.0,15-10-1995,Alm.,3076,6,Stuehus,195,1907,
+Stationsvej 1 4892 Kettinge,1,197695.0,13-10-1995,Alm.,2601,3,Villa,76,1942,
+Nørrevej 37 4892 Kettinge,37,550000.0,07-09-1995,Alm.,2455,7,Villa,224,1914,
+Brandtvej 7 4892 Kettinge,7,295000.0,23-08-1995,Alm.,0,4,Villa,113,1961,
+Margrethelundsvej 2 4892 Kettinge,2,1986705.0,16-07-1995,Alm.,11161,6,Stuehus,178,1915,
+Bregningevej 31 4892 Kettinge,31,327750.0,13-07-1995,Alm.,2276,5,Villa,144,1932,
+Rågelundevej 26 4892 Kettinge,26,280000.0,08-05-1995,Alm.,3414,3,Villa,82,1902,
+Grønnegadevej 18 4892 Kettinge,18,248000.0,15-03-1995,Alm.,3263,3,Villa,76,1935,
+Sløsserupvej 5 4892 Kettinge,5,135000.0,24-02-1995,Alm.,964,4,Villa,140,1900,
+Grønnegadevej 34A 4892 Kettinge,0,265000.0,18-02-1995,Alm.,0,7,Villa,155,1898,
+Enghavevej 48 4892 Kettinge,48,495000.0,27-01-1995,Alm.,0,9,Villa,328,1877,
+Kampervej 2 4892 Kettinge,2,254000.0,16-01-1995,Alm.,1443,3,Villa,176,1890,
+Sporet 6 4892 Kettinge,6,214044.0,03-01-1995,Alm.,1363,5,Villa,157,1911,
+Grønnegadevej 44A 4892 Kettinge,0,80000.0,11-11-1994,Alm.,833,3,Villa,96,1909,
+Bukkeholmvej 3 4892 Kettinge,3,502871.0,26-10-1994,Alm.,3868,4,Villa,130,1930,
+Anneksvej 3 4892 Kettinge,3,320000.0,13-10-1994,Alm.,2857,3,Villa,112,1875,
+Enghavevej 20 4892 Kettinge,20,138700.0,18-08-1994,Alm.,0,4,Villa,129,1900,
+Kettingevej 147 4892 Kettinge,147,145000.0,09-08-1994,Alm.,1647,3,Villa,88,1900,
+Kettingevej 129 4892 Kettinge,129,555800.0,13-07-1994,Alm.,1916,8,Villa,290,1876,
+Skolevej 6 4892 Kettinge,6,480000.0,13-06-1994,Alm.,3750,4,Villa,128,1880,
+Kettingevej 58 4892 Kettinge,58,320000.0,03-06-1994,Alm.,0,9,Villa,192,1897,
+Mejerivej 2 4892 Kettinge,2,406000.0,30-05-1994,Alm.,2346,5,Villa,173,1927,
+Stenrisvej 1 4892 Kettinge,1,550000.0,30-05-1994,Alm.,2972,6,Stuehus,185,1938,
+Stoffervej 1 4892 Kettinge,1,330000.0,30-05-1994,Fam.,2578,3,Villa,128,1962,
+Eskemosevej 15 4892 Kettinge,15,430000.0,16-05-1994,Alm.,2721,5,Villa,158,1963,
+Enghavevej 24 4892 Kettinge,24,150000.0,10-05-1994,Auktion,1162,4,Villa,129,1800,
+Kertevej 1 4892 Kettinge,1,415000.0,02-05-1994,Alm.,2184,6,Villa,190,1934,
+Knoldeholmsvej 8 4892 Kettinge,8,2500000.0,19-03-1994,Fam.,11792,9,Stuehus,212,1926,
+Kettingevej 54 4892 Kettinge,54,265000.0,14-03-1994,Alm.,1802,6,Villa,147,1908,
+Plantagevej 16B 4892 Kettinge,0,717000.0,07-02-1994,Fam.,1723,10,Villa,416,1920,
+Kampervej 4 4892 Kettinge,4,385800.0,07-02-1994,Fam.,3709,6,Villa,104,1900,
+Stationsvej 2 4892 Kettinge,2,150000.0,27-01-1994,Alm.,1666,4,Villa,90,1800,
+Brandtvej 1B 4892 Kettinge,0,170000.0,14-01-1994,Fam.,1491,4,Villa,114,1887,
+Kettingevej 23 4892 Kettinge,23,353000.0,15-10-1993,Fam.,1782,6,Villa,198,1910,
+Nørrevej 29 4892 Kettinge,29,150000.0,24-09-1993,Alm.,750,8,Villa,200,1913,
+Grønnegadevej 25 4892 Kettinge,25,495000.0,24-09-1993,Alm.,0,4,Villa,123,1943,
+Brandtvej 13 4892 Kettinge,13,255000.0,30-08-1993,Alm.,0,6,Villa,115,1965,
+Enghavevej 52 4892 Kettinge,52,401200.0,09-08-1993,Alm.,1840,6,Villa,218,1900,
+Birkevænget 13 4892 Kettinge,13,655000.0,28-07-1993,Alm.,4281,5,Villa,153,1976,
+Kettingevej 70 4892 Kettinge,70,300000.0,21-07-1993,Alm.,3703,3,Villa,81,1943,
+Kettingevej 32 4892 Kettinge,32,380000.0,12-07-1993,Alm.,0,4,Villa,135,1940,
+Rågelundevej 45 4892 Kettinge,45,375000.0,07-07-1993,Alm.,1171,13,Stuehus,320,1908,
+Brandtvej 5 4892 Kettinge,5,360000.0,07-04-1993,Alm.,0,6,Villa,137,1966,
+Mallehavevej 14 4892 Kettinge,14,380000.0,15-02-1993,Alm.,2620,3,Stuehus,145,1912,
+Engvej 2 4892 Kettinge,2,344000.0,15-02-1993,Alm.,1645,6,Villa,209,1917,
+Kolkevej 27 4892 Kettinge,27,126000.0,05-02-1993,Fam.,602,7,Villa,209,1997,
+Enghavevej 5 4892 Kettinge,5,305000.0,03-02-1993,Alm.,1596,6,Villa,191,1931,
+Kettingevej 74A 4892 Kettinge,0,289000.0,18-01-1993,Fam.,0,5,Villa,208,1920,
+Rågelundevej 7 4892 Kettinge,7,150000.0,13-01-1993,Alm.,1363,3,Villa,110,1913,
+Kettingevej 42 4892 Kettinge,42,361250.0,23-12-1992,Alm.,1931,5,Villa,187,1954,
+Kettingevej 81A 4892 Kettinge,0,185000.0,02-11-1992,Alm.,3083,4,Villa,60,1827,
+Vivevej 3 4892 Kettinge,3,65000.0,06-10-1992,Alm.,580,4,Villa,112,1907,
+Bregningevej 4 4892 Kettinge,4,1088920.0,28-09-1992,Fam.,4355,8,Stuehus,250,1940,
+Enghavevej 6 4892 Kettinge,6,235000.0,18-08-1992,Alm.,0,9,Villa,197,1908,
+Skolevej 2 4892 Kettinge,2,400000.0,27-07-1992,Fam.,4166,5,Stuehus,96,1923,
+Rågelundevej 20 4892 Kettinge,20,30000.0,30-06-1992,Alm.,265,4,Villa,113,1920,
+Knoldeholmsvej 6 4892 Kettinge,6,140000.0,30-03-1992,Alm.,1728,3,Villa,81,1914,

@@ -1,0 +1,751 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Thorsgade 2 8881 Thorsø,2,370000.0,25-04-2017,Andet,4204,4,Villa,88,1904,
+Thorsgade 8 8881 Thorsø,8,965000.0,25-04-2017,Andet,13219,3,Villa,73,1960,
+Kongensbrovej 21 8881 Thorsø,21,600000.0,01-04-2017,Alm.,2666,7,Stuehus,225,1925,
+Kongensbrovej 8 8881 Thorsø,8,1195000.0,30-03-2017,Andet,6424,5,Villa,186,1920,0 %
+Byvænget 5 8881 Thorsø,5,1295000.0,17-03-2017,Alm.,8354,5,Villa,155,1971,0 %
+Industrivej 6 8881 Thorsø,6,1350000.0,16-03-2017,Andet,9926,4,Villa,136,1974,
+Tungelund Bakker 21 8881 Thorsø,21,1569320.0,09-03-2017,Alm.,13528,4,Villa,116,2003,
+Nygade 7 8881 Thorsø,7,1098000.0,19-02-2017,Alm.,14447,2,Villa,76,1948,0 %
+Møllevænget 22 8881 Thorsø,22,637500.0,17-02-2017,Andet,3050,7,Villa,209,1980,-62 %
+Vestermarksvej 65 8881 Thorsø,65,950507.0,14-02-2017,Fam.,6336,5,Villa,150,1942,
+Marsvej 11C 8881 Thorsø,0,515000.0,13-02-2017,Alm.,8879,2,Rækkehus,58,1987,
+Thorsgade 15 8881 Thorsø,15,415000.0,02-02-2017,Alm.,4560,3,Villa,91,1920,
+Nygade 18 8881 Thorsø,18,1050000.0,02-02-2017,Alm.,9905,4,Villa,106,1962,
+Overgårdsvej 6 8881 Thorsø,6,295000.0,26-01-2017,Alm.,1953,5,Villa,151,1905,0 %
+Snuhøjvej 9 8881 Thorsø,9,1000000.0,12-01-2017,Alm.,5555,5,Villa,180,1930,-6 %
+Jernbanegade 19B 8881 Thorsø,0,725000.0,06-01-2017,Alm.,11885,3,Villa,61,1990,
+Futting Tværvej 1 8881 Thorsø,1,848000.0,06-01-2017,Alm.,3703,8,Villa,229,1907,
+Gl Tungelundvej 7 8881 Thorsø,7,725000.0,09-12-2016,Alm.,5492,5,Villa,132,1973,-19 %
+Thorsølundvej 15 8881 Thorsø,15,1100000.0,08-12-2016,Alm.,9821,3,Villa,112,1958,
+Frejasvej 4 8881 Thorsø,4,1150000.0,01-12-2016,Alm.,6353,4,Villa,181,1969,
+Præstevænget 10 8881 Thorsø,10,550000.0,08-11-2016,Alm.,4661,3,Villa,118,1961,0 %
+Solskrænten 23 8881 Thorsø,23,1100000.0,30-10-2016,Alm.,7857,4,Villa,140,1972,-12 %
+Rosenparken 64 8881 Thorsø,64,1145000.0,25-10-2016,Alm.,8178,5,Villa,140,1974,-4 %
+Mondrupvej 2 8881 Thorsø,2,75000.0,17-09-2016,Alm.,568,6,Stuehus,132,1959,-97 %
+Rosenparken 50 8881 Thorsø,50,1580000.0,08-08-2016,Alm.,10533,5,Villa,150,1976,
+Præstevænget 3 8881 Thorsø,3,2550000.0,01-08-2016,Fam.,18888,5,Stuehus,135,1930,
+Skolegade 14 8881 Thorsø,14,600000.0,26-07-2016,Alm.,6451,3,Villa,93,1960,-7 %
+Herregårdsalle 6 8881 Thorsø,6,676800.0,06-07-2016,Alm.,4177,4,Stuehus,162,1921,-64 %
+Nygade 8 8881 Thorsø,8,665000.0,05-07-2016,Alm.,4375,4,Villa,152,1957,
+Møllevej 9 8881 Thorsø,9,572500.0,30-06-2016,Fam.,4692,6,Villa,122,1955,
+Hesselbækvej 13 8881 Thorsø,13,1320000.0,20-06-2016,Alm.,6600,4,Villa,200,1920,-5 %
+Møllevænget 57 8881 Thorsø,57,975000.0,11-06-2016,Alm.,11890,3,Rækkehus,82,1990,-2 %
+Overgårdsvej 31 8881 Thorsø,31,307400.0,09-06-2016,Alm.,2120,6,Villa,145,1870,
+Grølstedvej 6 8881 Thorsø,6,500000.0,08-06-2016,Alm.,3546,4,Villa,141,1924,
+Snuhøjvej 11 8881 Thorsø,11,750000.0,08-06-2016,Alm.,4777,6,Stuehus,157,1931,-69 %
+Gl Tungelundvej 2 8881 Thorsø,2,2345000.0,04-05-2016,Alm.,9455,7,Stuehus,248,1921,4 %
+Kirkegade 46 8881 Thorsø,46,630000.0,04-05-2016,Alm.,8400,2,Villa,75,1964,-7 %
+Thorsølundvej 13 8881 Thorsø,13,525000.0,01-05-2016,Alm.,3723,5,Villa,141,1966,-62 %
+Ridder Munks Vej 97 8881 Thorsø,97,2750000.0,30-04-2016,Alm.,15714,6,Villa,175,2011,-2 %
+Gelbrovej 38 8881 Thorsø,38,250000.0,29-04-2016,Alm.,2840,3,Villa,88,1900,
+Pittevej 16 8881 Thorsø,16,1850000.0,18-04-2016,Alm.,12171,3,Villa,152,1912,-7 %
+Marsvej 14B 8881 Thorsø,0,675000.0,23-03-2016,Alm.,9375,3,Rækkehus,72,1988,-10 %
+Rosenparken 52 8881 Thorsø,52,1125000.0,02-03-2016,Alm.,8653,4,Villa,130,1973,-4 %
+Thorsølundvej 14 8881 Thorsø,14,1300000.0,10-02-2016,Alm.,9090,4,Villa,143,1964,-7 %
+Snuhøjvej 13 8881 Thorsø,13,1745000.0,02-02-2016,Alm.,12737,4,Stuehus,137,1931,0 %
+Nygade 17 8881 Thorsø,17,780000.0,29-01-2016,Alm.,6902,3,Villa,113,1960,-2 %
+Thorsgade 5 8881 Thorsø,5,575000.0,27-01-2016,Alm.,3859,6,Villa,149,1897,-8 %
+Thorsgade 23 8881 Thorsø,23,850000.0,20-01-2016,Alm.,10000,4,Villa,85,1961,-8 %
+Thorsølundvej 11 8881 Thorsø,11,525000.0,20-01-2016,Fam.,5303,4,Villa,99,1965,
+Astrupvej 11 8881 Thorsø,11,447000.0,11-01-2016,Alm.,1943,8,Stuehus,230,1925,
+Rs Brochsvej 12 8881 Thorsø,12,900000.0,28-12-2015,Andet,4186,7,Villa,215,1983,
+Grølstedvej 10 8881 Thorsø,10,925000.0,18-12-2015,Alm.,11562,3,Villa,80,1908,-7 %
+Nedergårdsvej 16 8881 Thorsø,16,3673059.0,16-12-2015,Fam.,23697,5,Stuehus,155,1887,
+Rosenparken 13 8881 Thorsø,13,2275000.0,08-12-2015,Alm.,10340,6,Villa,220,1978,-1 %
+Rosenparken 42 8881 Thorsø,42,1350000.0,02-12-2015,Alm.,10546,5,Villa,128,1974,-3 %
+Møllevænget 48 8881 Thorsø,48,930000.0,01-12-2015,Alm.,6888,5,Villa,135,1977,-7 %
+Ridder Munks Vej 75 8881 Thorsø,75,357750.0,23-11-2015,Alm.,1965,6,Villa,182,2016,-25 %
+Marsvej 12C 8881 Thorsø,0,625000.0,17-11-2015,Alm.,8561,3,Rækkehus,73,1988,0 %
+Møllevej 28 8881 Thorsø,28,525000.0,13-11-2015,Alm.,7291,3,Villa,72,1959,-12 %
+Thorsølundvej 17 8881 Thorsø,17,925000.0,20-10-2015,Fam.,8409,3,Villa,110,1968,
+Rosenparken 30 8881 Thorsø,30,1357500.0,19-10-2015,Alm.,9172,5,Villa,148,1974,-3 %
+Skolegade 19 8881 Thorsø,19,500000.0,19-10-2015,Alm.,5747,3,Villa,87,1960,-28 %
+Thorsøvej 79 8881 Thorsø,79,750000.0,07-10-2015,Alm.,6097,4,Villa,123,1900,3 %
+Herregårdsalle 5 8881 Thorsø,5,2000000.0,06-10-2015,Fam.,13513,2,Villa,148,2008,
+Thostrupvej 21 8881 Thorsø,21,980000.0,30-09-2015,Alm.,6621,4,Villa,148,1898,-2 %
+Jernbanegade 50 8881 Thorsø,50,470000.0,29-09-2015,Alm.,5529,2,Villa,85,1944,-15 %
+Overgårdsvej 47B 8881 Thorsø,0,125000.0,25-09-2015,Alm.,1302,3,Villa,96,1830,0 %
+Vestermarksvej 80 8881 Thorsø,80,3824592.0,25-09-2015,Alm.,21366,5,Stuehus,179,1895,
+Møllevænget 23 8881 Thorsø,23,1550000.0,15-08-2015,Alm.,9687,5,Villa,160,1984,-6 %
+Elmevej 4 8881 Thorsø,4,1550000.0,11-08-2015,Alm.,7673,5,Villa,202,1969,
+Pittevej 6 8881 Thorsø,6,7638000.0,05-08-2015,Alm.,48961,5,Stuehus,156,1863,351 %
+Møllevej 30 8881 Thorsø,30,2050000.0,26-06-2015,Alm.,15891,4,Villa,129,2006,-2 %
+Herregårdsalle 8 8881 Thorsø,8,350040.0,24-06-2015,Andet,3889,3,Stuehus,90,1922,
+Jernbanegade 66 8881 Thorsø,66,1750000.0,14-06-2015,Alm.,16990,5,Villa,103,1950,-5 %
+Saturnvej 8 8881 Thorsø,8,1700000.0,03-06-2015,Alm.,10303,5,Villa,165,1997,-8 %
+Jernbanegade 52 8881 Thorsø,52,775000.0,03-06-2015,Alm.,6250,4,Villa,124,1928,-1 %
+Ridder Munks Vej 25 8881 Thorsø,25,2495000.0,01-06-2015,Alm.,10395,5,Villa,240,2008,0 %
+Ridder Munks Vej 21 8881 Thorsø,21,2330000.0,12-05-2015,Alm.,11421,4,Villa,204,2007,-3 %
+Præstevænget 6 8881 Thorsø,6,950000.0,15-04-2015,Alm.,6462,3,Villa,147,1912,-5 %
+Rolighedsvej 14C 8881 Thorsø,0,1355000.0,23-03-2015,Alm.,9344,5,Rækkehus,145,2007,-3 %
+Møllevej 14 8881 Thorsø,14,450000.0,23-03-2015,Alm.,2710,9,Villa,166,1965,
+Klepgabsvej 8 8881 Thorsø,8,85400.0,11-03-2015,Auktion,543,9,Villa,157,1897,
+Håndværkervej 11A 8881 Thorsø,0,2495000.0,10-03-2015,Alm.,16307,5,Villa,153,2012,4 %
+Tubækvej 7 8881 Thorsø,7,2595000.0,25-02-2015,Alm.,21625,5,Stuehus,120,1864,
+Ridder Munks Vej 73 8881 Thorsø,73,407200.0,23-02-2015,Alm.,2577,5,Villa,158,2015,
+Klepgabsvej 4 8881 Thorsø,4,225000.0,12-02-2015,Alm.,2227,4,Villa,101,1890,
+Tjørnevej 5 8881 Thorsø,5,1195000.0,29-01-2015,Alm.,10301,4,Villa,116,1929,
+Snuhøjvej 20 8881 Thorsø,20,2195000.0,29-01-2015,Alm.,9340,7,Stuehus,235,1924,0 %
+Katvad Møllevej 1 8881 Thorsø,1,2650000.0,28-01-2015,Alm.,10772,10,Stuehus,246,1919,-12 %
+Snuhøjvej 18 8881 Thorsø,18,495000.0,28-01-2015,Alm.,4230,3,Villa,117,1921,0 %
+Rosenparken 8 8881 Thorsø,8,1000000.0,13-01-2015,Alm.,7692,5,Villa,130,1974,-8 %
+Overgårdsvej 11 8881 Thorsø,11,600000.0,19-12-2014,Alm.,2197,6,Villa,273,1877,-37 %
+Rs Brochsvej 11 8881 Thorsø,11,1700000.0,17-12-2014,Auktion,6967,5,Villa,244,1978,26 %
+Skolegade 3 8881 Thorsø,3,1333981.0,12-12-2014,Alm.,10261,5,Villa,130,1951,
+Herregårdsalle 9 8881 Thorsø,9,439936.0,21-11-2014,Alm.,5865,3,Stuehus,75,1922,-56 %
+Borggade 16 8881 Thorsø,16,500000.0,19-11-2014,Alm.,5434,3,Villa,92,1929,
+Futting Tværvej 5 8881 Thorsø,5,300000.0,19-11-2014,Alm.,0,5,Villa,221,1900,-24 %
+Ridder Munks Vej 7 8881 Thorsø,7,2400000.0,18-11-2014,Alm.,13333,5,Villa,180,2009,-4 %
+Dalvej 4 8881 Thorsø,4,735000.0,17-11-2014,Alm.,5176,3,Villa,142,1935,-2 %
+Overgårdsvej 14 8881 Thorsø,14,250000.0,16-11-2014,Alm.,2403,5,Villa,104,1883,-15 %
+Tingvej 42 8881 Thorsø,42,380000.0,13-11-2014,Alm.,974,6,Villa,390,1887,-62 %
+Kongensbrovej 5 8881 Thorsø,5,450000.0,21-10-2014,Alm.,3461,4,Villa,130,1776,0 %
+Søndergade 11 8881 Thorsø,11,861290.0,08-10-2014,Auktion,5939,6,Stuehus,145,1961,
+Kongensbrovej 1 8881 Thorsø,1,1245000.0,06-10-2014,Alm.,7455,5,Villa,167,1876,0 %
+Byvænget 4 8881 Thorsø,4,1150000.0,03-10-2014,Alm.,7142,4,Villa,161,1976,-8 %
+Tungelund Bakker 4 8881 Thorsø,4,825000.0,29-09-2014,Alm.,6395,5,Villa,129,2005,
+Nygade 10 8881 Thorsø,10,625000.0,27-09-2014,Alm.,6377,3,Villa,98,1955,
+Møllevej 36 8881 Thorsø,36,2100000.0,16-09-2014,Alm.,7777,10,Villa,270,1827,-16 %
+Ridder Munks Vej 65 8881 Thorsø,65,1025000.0,01-09-2014,Fam.,5099,6,Villa,201,2007,
+Hesselbækvej 1 8881 Thorsø,1,120000.0,28-08-2014,Alm.,1224,3,Villa,98,1902,-39 %
+Møllevænget 41 8881 Thorsø,41,1375000.0,13-08-2014,Alm.,9821,5,Rækkehus,140,1980,-1 %
+Tungelund Bakker 13 8881 Thorsø,13,1011106.0,13-08-2014,Alm.,5586,5,Villa,181,2000,-54 %
+Rosenparken 5 8881 Thorsø,5,1000000.0,11-08-2014,Fam.,4405,5,Villa,227,1975,
+Møllevænget 38 8881 Thorsø,38,1327500.0,02-08-2014,Alm.,10133,4,Villa,131,1977,-5 %
+Overgårdsvej 49 8881 Thorsø,49,850000.0,01-08-2014,Fam.,5519,4,Villa,154,1926,
+Jernbanegade 60 8881 Thorsø,60,775000.0,11-07-2014,Alm.,8516,4,Villa,91,1959,-6 %
+Rs Brochsvej 8 8881 Thorsø,8,550000.0,01-07-2014,Alm.,7236,3,Villa,76,1948,-21 %
+Tjørnevej 4 8881 Thorsø,4,850000.0,27-06-2014,Alm.,10240,3,Villa,83,1956,-5 %
+Mondrupvej 1 8881 Thorsø,1,1099000.0,15-06-2014,Alm.,7850,5,Stuehus,140,1935,
+Overgårdsvej 27 8881 Thorsø,27,1562500.0,10-06-2014,Alm.,6351,7,Villa,246,1910,-2 %
+Møllevænget 9 8881 Thorsø,9,1170000.0,06-06-2014,Alm.,11584,4,Villa,101,1979,
+Fattiggårdsvej 4 8881 Thorsø,4,821500.0,25-05-2014,Alm.,5440,5,Stuehus,151,2000,-79 %
+Sallvej 9 8881 Thorsø,9,950000.0,18-05-2014,Alm.,5428,4,Villa,175,1962,-27 %
+Thorsøvej 65 8881 Thorsø,65,995000.0,06-05-2014,Alm.,6768,3,Villa,147,1910,0 %
+Møllevænget 14 8881 Thorsø,14,1125000.0,08-04-2014,Alm.,9533,4,Villa,118,1976,-2 %
+Møllevænget 43 8881 Thorsø,43,1175000.0,08-04-2014,Alm.,6351,5,Villa,185,1979,-9 %
+Slåenvej 1 8881 Thorsø,1,200000.0,02-04-2014,Alm.,4255,3,Sommerhus,47,1978,
+Klepgabsvej 22 8881 Thorsø,22,1297599.0,25-03-2014,Fam.,6829,6,Stuehus,190,1924,
+Tingvej 19 8881 Thorsø,19,825000.0,17-03-2014,Alm.,10312,2,Stuehus,80,1907,-34 %
+Møllevænget 25B 8881 Thorsø,0,719000.0,24-02-2014,Alm.,4579,5,Rækkehus,157,1981,
+Thorsøvej 64 8881 Thorsø,64,4480000.0,14-02-2014,Alm.,28176,4,Stuehus,159,1913,
+Tingvej 25 8881 Thorsø,25,2150000.0,27-01-2014,Alm.,9728,8,Stuehus,221,1908,
+Delingen 6 8881 Thorsø,6,1150000.0,23-01-2014,Alm.,7666,5,Villa,150,1870,-11 %
+Nygade 27 8881 Thorsø,27,950000.0,11-12-2013,Alm.,5937,4,Villa,160,1965,-5 %
+Solskrænten 9 8881 Thorsø,9,878503.0,09-12-2013,Fam.,4599,7,Villa,191,1973,
+Kirkegade 2 8881 Thorsø,2,681600.0,19-11-2013,Fam.,4975,3,Villa,137,1910,
+Thorsølundvej 27A 8881 Thorsø,0,326700.0,06-11-2013,Auktion,4414,3,Rækkehus,74,1983,
+Møllevænget 1 8881 Thorsø,1,1570000.0,25-10-2013,Alm.,11376,4,Villa,138,1987,-2 %
+Grølstedvej 5 8881 Thorsø,5,1650000.0,14-10-2013,Alm.,6680,6,Villa,247,1985,-17 %
+Thorsølundvej 9 8881 Thorsø,9,910000.0,14-10-2013,Alm.,8198,4,Villa,111,1962,-8 %
+Overgårdsvej 15 8881 Thorsø,15,556000.0,29-09-2013,Alm.,2586,5,Villa,215,1930,-49 %
+Rosenparken 68 8881 Thorsø,68,1325000.0,29-08-2013,Alm.,11725,4,Villa,113,1976,-5 %
+Nedergårdsvej 10 8881 Thorsø,10,1100000.0,21-08-2013,Alm.,9482,4,Villa,116,1929,
+Rosenparken 74 8881 Thorsø,74,1100000.0,19-08-2013,Alm.,8800,4,Villa,125,1976,-15 %
+Ridder Munks Vej 63 8881 Thorsø,63,2265000.0,24-07-2013,Alm.,13168,5,Villa,172,2008,0 %
+Enslevvej 39 8881 Thorsø,39,1545000.0,22-07-2013,Alm.,9903,5,Villa,156,1973,7 %
+Overgårdsvej 58 8881 Thorsø,58,545000.0,03-07-2013,Alm.,6264,3,Villa,87,1902,-8 %
+Tungelund Bakker 32 8881 Thorsø,32,1975000.0,28-06-2013,Alm.,12660,4,Villa,156,2003,-1 %
+Thorsgade 4 8881 Thorsø,4,400000.0,04-06-2013,Alm.,3278,4,Villa,122,1850,-33 %
+Håndværkervej 2 8881 Thorsø,2,1450000.0,03-06-2013,Alm.,7880,5,Villa,184,1974,-12 %
+Møllevænget 25A 8881 Thorsø,0,383500.0,23-05-2013,Alm.,3584,4,Rækkehus,107,1981,
+Ridder Munks Vej 83 8881 Thorsø,83,470000.0,06-05-2013,Alm.,2919,6,Villa,161,2014,
+Odinsvej 3 8881 Thorsø,3,725000.0,02-05-2013,Alm.,8146,3,Villa,89,1964,-9 %
+Søndergade 14 8881 Thorsø,14,916300.0,10-04-2013,Auktion,7765,3,Stuehus,118,1905,
+Snuhøjvej 23 8881 Thorsø,23,4658625.0,04-04-2013,Alm.,15076,6,Stuehus,309,2008,17 %
+Ridder Munks Vej 67 8881 Thorsø,67,2520000.0,19-03-2013,Alm.,12791,5,Villa,197,2008,-3 %
+Thorsølundvej 18 8881 Thorsø,18,987500.0,19-03-2013,Alm.,8977,3,Villa,110,1964,-10 %
+Hovbro 3 8881 Thorsø,3,1460000.0,16-03-2013,Alm.,10895,4,Villa,134,1999,-6 %
+Rs Brochsvej 1 8881 Thorsø,1,1295000.0,07-03-2013,Alm.,0,6,Villa,119,1947,0 %
+Nygade 14B 8881 Thorsø,0,480000.0,26-02-2013,Alm.,5393,3,Rækkehus,89,2014,
+Kirkegade 3 8881 Thorsø,3,1130000.0,22-02-2013,Auktion,6531,7,Villa,173,1904,
+Ridder Munks Vej 35 8881 Thorsø,35,1250000.0,11-02-2013,Alm.,5841,6,Villa,214,2007,
+Mondrupvej 5 8881 Thorsø,5,3800000.0,08-02-2013,Alm.,18357,4,Stuehus,207,1934,-16 %
+Ridder Munks Vej 19 8881 Thorsø,19,2125000.0,16-01-2013,Alm.,10572,5,Villa,201,2006,-3 %
+Ridder Munks Vej 1A 8881 Thorsø,0,1275000.0,02-01-2013,Alm.,12142,4,Rækkehus,105,2007,-5 %
+Overgårdsvej 17 8881 Thorsø,17,1250000.0,21-12-2012,Alm.,7102,6,Villa,176,1900,0 %
+Violvej 8 8881 Thorsø,8,792669.0,03-12-2012,Fam.,5785,5,Villa,137,1975,
+Jernbanegade 46 8881 Thorsø,46,750000.0,08-11-2012,Alm.,7653,4,Villa,98,1939,
+Jernbanegade 54 8881 Thorsø,54,1125000.0,30-10-2012,Alm.,8093,4,Villa,139,1919,
+Odinsvej 1 8881 Thorsø,1,623413.0,18-10-2012,Andet,4329,4,Villa,144,1963,-43 %
+Møllevænget 36B 8881 Thorsø,0,1125000.0,05-10-2012,Alm.,12931,3,Villa,87,2005,-6 %
+Thorsølundvej 35 8881 Thorsø,35,1485000.0,04-10-2012,Alm.,9110,5,Villa,163,1972,-7 %
+Pittevej 11 8881 Thorsø,11,2800000.0,27-09-2012,Alm.,11965,6,Villa,234,2008,
+Ridder Munks Vej 17 8881 Thorsø,17,2100000.0,24-09-2012,Alm.,11475,5,Villa,183,2008,-4 %
+Bavnehøjvej 19 8881 Thorsø,19,1800000.0,18-09-2012,Alm.,24000,2,Stuehus,75,1897,-10 %
+Thorsølundvej 21 8881 Thorsø,21,1090000.0,10-09-2012,Alm.,9159,4,Villa,119,1970,-9 %
+Rosenparken 58 8881 Thorsø,58,660084.0,30-08-2012,Fam.,5156,5,Villa,128,1974,-60 %
+Overgårdsvej 43 8881 Thorsø,43,49501.0,01-08-2012,Auktion,568,5,Villa,87,1827,
+Brunhøjvej 11 8881 Thorsø,11,1765000.0,01-08-2012,Alm.,15619,4,Stuehus,113,1959,-12 %
+Hesselbækvej 15 8881 Thorsø,15,1400000.0,30-07-2012,Alm.,5645,7,Stuehus,248,2012,-26 %
+Mondrupvej 3 8881 Thorsø,3,1725000.0,26-07-2012,Alm.,16273,3,Stuehus,106,1937,-14 %
+Thorsølundvej 20 8881 Thorsø,20,950000.0,25-07-2012,Alm.,7307,5,Villa,130,1965,-13 %
+Lokesvej 20 8881 Thorsø,20,1800000.0,25-06-2012,Alm.,9375,8,Villa,192,1965,-14 %
+Dejehøjvej 13 8881 Thorsø,13,1300000.0,14-06-2012,Alm.,8333,6,Villa,156,1926,-10 %
+Skolegade 16 8881 Thorsø,16,781500.0,07-06-2012,Alm.,7974,5,Villa,98,1959,-8 %
+Lokesvej 25 8881 Thorsø,25,1200000.0,31-05-2012,Alm.,9917,5,Villa,121,1968,-7 %
+Nygade 15 8881 Thorsø,15,1020000.0,22-05-2012,Alm.,12000,3,Villa,85,1961,-7 %
+Midgårdsvej 7 8881 Thorsø,7,1116978.0,16-05-2012,Fam.,7160,4,Villa,156,1969,
+Herregårdsalle 2 8881 Thorsø,2,1500000.0,03-05-2012,Alm.,11538,5,Stuehus,130,1922,
+Hesselbækvej 5 8881 Thorsø,5,805800.0,10-04-2012,Fam.,0,5,Villa,181,1966,-55 %
+Møllevej 20A 8881 Thorsø,0,1150000.0,02-04-2012,Alm.,16428,3,Villa,70,1925,
+Thostrupvej 17 8881 Thorsø,17,1250000.0,30-03-2012,Alm.,5165,5,Villa,242,1907,
+Skolegade 8 8881 Thorsø,8,800000.0,06-03-2012,Alm.,0,4,Villa,115,1955,
+Skolegade 9 8881 Thorsø,9,845000.0,27-02-2012,Alm.,7544,6,Villa,112,1955,-6 %
+Møllevænget 51 8881 Thorsø,51,1580000.0,11-02-2012,Alm.,11791,4,Villa,134,1987,-7 %
+Astrupvej 18 8881 Thorsø,18,1522730.0,02-02-2012,Alm.,0,5,Stuehus,248,2004,
+Herregårdsalle 12 8881 Thorsø,12,1895000.0,13-01-2012,Alm.,14576,4,Villa,130,1929,-5 %
+Industrivej 3 8881 Thorsø,3,1500000.0,09-01-2012,Alm.,7500,6,Villa,200,1970,
+Boskovvej 2 8881 Thorsø,2,700000.0,30-12-2011,Alm.,6250,4,Villa,112,1967,0 %
+Torvet 6 8881 Thorsø,6,100000.0,14-12-2011,Auktion,1515,2,Lejlighed,66,1999,
+Industrivej 5 8881 Thorsø,5,2000000.0,24-11-2011,Alm.,14388,5,Villa,139,1972,-16 %
+Astrupvej 1 8881 Thorsø,1,561500.0,23-11-2011,Auktion,1896,11,Villa,296,1885,3 %
+Enghavevej 5 8881 Thorsø,5,620325.0,21-11-2011,Alm.,4108,5,Villa,151,1961,
+Elmevej 8 8881 Thorsø,8,1225000.0,11-11-2011,Alm.,9570,3,Villa,128,1973,-2 %
+Overgårdsvej 28 8881 Thorsø,28,170000.0,09-11-2011,Auktion,1440,4,Villa,118,1890,
+Klepgabsvej 18 8881 Thorsø,18,2300000.0,04-11-2011,Alm.,8394,8,Villa,274,1897,-8 %
+Skelvej 8 8881 Thorsø,8,1100000.0,01-11-2011,Alm.,8333,4,Villa,132,2015,
+Nedergårdsvej 14 8881 Thorsø,14,1150000.0,31-10-2011,Alm.,5958,5,Villa,193,1952,-8 %
+Marsvej 23 8881 Thorsø,23,1024250.0,25-10-2011,Alm.,6482,5,Villa,158,1997,
+Thorsølundvej 16 8881 Thorsø,16,957500.0,25-09-2011,Alm.,8784,4,Villa,109,1962,
+Sallvej 20 8881 Thorsø,20,1125000.0,21-09-2011,Alm.,7401,6,Villa,152,1927,
+Brunhøjvej 3 8881 Thorsø,3,1200000.0,07-09-2011,Alm.,9230,4,Villa,130,1973,0 %
+Tingvej 2 8881 Thorsø,2,2000000.0,28-08-2011,Alm.,8547,5,Villa,234,1875,-17 %
+Sallvej 26 8881 Thorsø,26,467465.0,22-08-2011,Alm.,4249,4,Villa,110,1970,
+Overgårdsvej 26 8881 Thorsø,26,600000.0,10-08-2011,Auktion,3529,6,Villa,170,1890,-57 %
+Møllevej 24A 8881 Thorsø,0,625000.0,28-07-2011,Alm.,10245,3,Rækkehus,61,1991,
+Forten 40 8881 Thorsø,40,901600.0,26-06-2011,Fam.,7908,4,Stuehus,114,1900,-50 %
+Frejasvej 5 8881 Thorsø,5,1570000.0,19-05-2011,Alm.,10827,5,Villa,145,1974,0 %
+Lokesvej 7 8881 Thorsø,7,1270000.0,18-04-2011,Alm.,9270,4,Villa,137,1970,-2 %
+Mads Post Vej 1 8881 Thorsø,1,1948000.0,13-04-2011,Alm.,9320,7,Villa,209,1910,-3 %
+Kongensbrovej 19A 8881 Thorsø,0,1350000.0,11-03-2011,Alm.,9440,5,Villa,143,1970,-10 %
+Snuhøjvej 21 8881 Thorsø,21,2345000.0,11-03-2011,Alm.,10285,5,Stuehus,228,1953,-7 %
+Dejehøjvej 15 8881 Thorsø,15,1075000.0,01-02-2011,Alm.,0,6,Villa,162,1926,-10 %
+Selli Ager 10 8881 Thorsø,10,3050000.0,31-01-2011,Alm.,14663,5,Villa,208,2008,-3 %
+Thorsgade 12 8881 Thorsø,12,2600000.0,25-01-2011,Alm.,14857,7,Villa,175,1964,-13 %
+Ridder Munks Vej 101 8881 Thorsø,101,353000.0,21-12-2010,Alm.,1417,7,Villa,249,2013,
+Ridder Munks Vej 81 8881 Thorsø,81,436000.0,21-12-2010,Alm.,2306,5,Villa,189,2011,
+Sallvej 25 8881 Thorsø,25,800000.0,06-12-2010,Alm.,4419,8,Villa,181,1914,-11 %
+Jernbanegade 10 8881 Thorsø,10,495000.0,29-11-2010,Alm.,3561,4,Villa,139,1927,0 %
+Klostergårdsvej 1 8881 Thorsø,1,1175000.0,23-11-2010,Alm.,7629,4,Villa,154,1955,-2 %
+Solskrænten 3 8881 Thorsø,3,1850000.0,22-11-2010,Alm.,11212,5,Villa,165,1972,-7 %
+Møllevej 2 8881 Thorsø,2,998000.0,11-11-2010,Alm.,6653,5,Villa,150,1949,0 %
+Futting Tværvej 7 8881 Thorsø,7,1450000.0,20-10-2010,Alm.,9177,6,Villa,158,1900,
+Lokesvej 24 8881 Thorsø,24,1100000.0,18-10-2010,Alm.,8527,5,Villa,129,1962,
+Odinsvej 13 8881 Thorsø,13,640000.0,29-09-2010,Auktion,7804,2,Villa,82,1967,
+Jernbanegade 58 8881 Thorsø,58,1260000.0,15-09-2010,Auktion,15180,7,Detailhandel,83,1927,
+Grølstedvej 4 8881 Thorsø,4,830000.0,12-09-2010,Alm.,4129,5,Stuehus,201,1924,
+Thorsølundvej 4 8881 Thorsø,4,1150000.0,27-07-2010,Alm.,11616,4,Villa,99,1959,-4 %
+Saturnvej 1 8881 Thorsø,1,1300000.0,13-07-2010,Alm.,7222,6,Villa,180,1979,-7 %
+Herregårdsalle 10 8881 Thorsø,10,905000.0,09-07-2010,Alm.,4480,4,Stuehus,202,1922,
+Snuhøjvej 24 8881 Thorsø,24,725000.0,30-06-2010,Alm.,5000,5,Stuehus,145,1956,
+Astrupvej 16 8881 Thorsø,16,900000.0,27-06-2010,Fam.,6474,5,Stuehus,139,1904,
+Violvej 2 8881 Thorsø,2,1098000.0,26-06-2010,Alm.,7572,4,Villa,145,1975,0 %
+Klepgabsvej 5 8881 Thorsø,5,2330000.0,18-06-2010,Alm.,26781,3,Stuehus,87,1928,-3 %
+Møllevej 24C 8881 Thorsø,0,1055000.0,11-06-2010,Alm.,12411,4,Villa,85,1989,
+Ridder Munks Vej 89 8881 Thorsø,89,395000.0,08-06-2010,Alm.,2393,4,Villa,165,2013,
+Frejasvej 13 8881 Thorsø,13,950000.0,05-06-2010,Alm.,7851,5,Villa,121,1971,-5 %
+Hovbro 4 8881 Thorsø,4,400000.0,03-06-2010,Alm.,1058,9,Stuehus,378,1934,
+Søndergade 5 8881 Thorsø,5,850000.0,26-05-2010,Auktion,5704,6,Villa,149,1953,-19 %
+Skovdalsvej 7 8881 Thorsø,7,1025000.0,19-05-2010,Alm.,9761,3,Villa,105,1930,
+Overgårdsvej 54 8881 Thorsø,54,450000.0,28-04-2010,Auktion,2812,5,Villa,160,1912,
+Saturnvej 12 8881 Thorsø,12,2225000.0,23-04-2010,Alm.,12158,6,Villa,183,1997,-2 %
+Overgårdsvej 55 8881 Thorsø,55,970000.0,24-03-2010,Auktion,7348,3,Villa,132,1936,
+Jernbanegade 35 8881 Thorsø,35,456595.0,24-03-2010,Alm.,3433,4,Villa,133,1945,
+Herregårdsalle 1 8881 Thorsø,1,1000000.0,20-03-2010,Alm.,4016,8,Villa,249,1875,
+Skolegade 6 8881 Thorsø,6,1498000.0,10-03-2010,Alm.,13743,6,Villa,109,1954,0 %
+Kongensbrovej 6 8881 Thorsø,6,451085.0,09-03-2010,Fam.,3068,4,Villa,147,1877,
+Ridder Munks Vej 69 8881 Thorsø,69,2500000.0,26-02-2010,Alm.,13089,5,Villa,191,2008,-7 %
+Pittevej 7 8881 Thorsø,7,300000.0,22-02-2010,Andet,3125,3,Stuehus,96,1857,
+Jernbanegade 33 8881 Thorsø,33,700000.0,18-02-2010,Alm.,5384,3,Villa,130,1942,
+Baunegårdsvej 5 8881 Thorsø,5,3217225.0,17-02-2010,Alm.,9991,11,Stuehus,322,1915,
+Kirkegade 7 8881 Thorsø,7,890000.0,08-02-2010,Alm.,7120,5,Villa,125,1900,
+Tungelund Bakker 20 8881 Thorsø,20,2100000.0,01-02-2010,Alm.,12883,5,Villa,163,2007,
+Sallvej 8 8881 Thorsø,8,760000.0,14-01-2010,Alm.,5547,5,Villa,137,1908,
+Tungelund Bakker 35 8881 Thorsø,35,2200000.0,22-12-2009,Alm.,12941,5,Villa,170,2000,
+Søndergade 9 8881 Thorsø,9,1175000.0,07-12-2009,Alm.,4384,10,Stuehus,268,1911,
+Bavnehøjvej 1A 8881 Thorsø,0,2950000.0,02-12-2009,Alm.,15284,4,Villa,193,1930,
+Borggade 7 8881 Thorsø,7,860000.0,29-10-2009,Alm.,5029,5,Villa,171,1908,-4 %
+Ridder Munks Vej 1B 8881 Thorsø,0,1350000.0,10-10-2009,Alm.,12857,4,Rækkehus,105,2007,
+Tingvej 32 8881 Thorsø,32,1100000.0,01-10-2009,Alm.,7432,4,Villa,148,1949,-8 %
+Futtingvej 1 8881 Thorsø,1,875000.0,30-09-2009,Auktion,5468,4,Villa,160,1900,
+Grøndalslundvej 1 8881 Thorsø,1,760000.0,21-09-2009,Alm.,10555,3,Villa,72,1963,-4 %
+Marsvej 17 8881 Thorsø,17,2198000.0,27-08-2009,Alm.,14089,5,Villa,156,2004,
+Thorsgade 13 8881 Thorsø,13,800000.0,22-08-2009,Alm.,6956,3,Villa,115,1897,0 %
+Overgårdsvej 18 8881 Thorsø,18,950000.0,21-08-2009,Alm.,6129,6,Villa,155,1907,0 %
+Skolegade 17 8881 Thorsø,17,2293980.0,14-08-2009,Alm.,14895,6,Stuehus,154,1861,
+Hesselbækvej 2 8881 Thorsø,2,2780000.0,13-08-2009,Alm.,11120,5,Villa,250,1880,-7 %
+Banealle 4 8881 Thorsø,4,575000.0,31-07-2009,Alm.,6318,4,Villa,91,1938,-23 %
+Overgårdsvej 39 8881 Thorsø,39,755000.0,13-07-2009,Fam.,6681,5,Villa,113,1877,
+Banealle 2 8881 Thorsø,2,765000.0,06-07-2009,Fam.,6023,6,Villa,127,1934,
+Marsvej 31 8881 Thorsø,31,2300000.0,26-06-2009,Alm.,12432,5,Villa,185,1997,
+Møllevænget 36A 8881 Thorsø,0,291530.0,26-06-2009,Andet,3350,3,Villa,87,2004,
+Astrupvej 6 8881 Thorsø,6,900000.0,29-05-2009,Alm.,0,4,Villa,135,1929,-5 %
+Møllevej 12 8881 Thorsø,12,950000.0,23-05-2009,Alm.,8715,4,Villa,109,1965,-5 %
+Skolegade 30 8881 Thorsø,30,655000.0,01-05-2009,Alm.,7528,3,Villa,87,1960,-18 %
+Herregårdsalle 7 8881 Thorsø,7,581300.0,01-05-2009,Alm.,3340,6,Stuehus,174,1922,
+Snuhøjvej 3 8881 Thorsø,3,1025000.0,23-04-2009,Alm.,7706,5,Villa,133,1900,0 %
+Møllevænget 18 8881 Thorsø,18,1520000.0,14-04-2009,Alm.,8539,5,Villa,178,1976,-8 %
+Marsvej 11D 8881 Thorsø,0,625000.0,10-04-2009,Alm.,10775,2,Rækkehus,58,1987,-5 %
+Lokesvej 15 8881 Thorsø,15,1075000.0,07-04-2009,Alm.,7312,4,Villa,147,1971,
+Hesselbækvej 10 8881 Thorsø,10,995000.0,31-03-2009,Alm.,3783,7,Stuehus,263,1800,
+Thorsgade 25 8881 Thorsø,25,700000.0,28-02-2009,Alm.,7142,4,Villa,98,1962,
+Skolegade 22 8881 Thorsø,22,950000.0,23-02-2009,Alm.,7851,4,Villa,121,1974,-13 %
+Lokesvej 21 8881 Thorsø,21,945000.0,30-01-2009,Alm.,9642,3,Villa,98,1965,
+Boskovvej 4 8881 Thorsø,4,1200000.0,29-01-2009,Alm.,10000,4,Stuehus,120,1931,14 %
+Snuhøjvej 26 8881 Thorsø,26,9850000.0,02-01-2009,Fam.,50512,5,Stuehus,195,1936,
+Møllevej 32 8881 Thorsø,32,730000.0,17-11-2008,Auktion,7604,3,Villa,96,1959,
+Thorsølundvej 27E 8881 Thorsø,0,600000.0,14-11-2008,Alm.,8108,3,Rækkehus,74,1983,
+Rs Brochsvej 3 8881 Thorsø,3,900000.0,23-10-2008,Alm.,0,4,Villa,122,1950,-5 %
+Grøndalslundvej 2 8881 Thorsø,2,788000.0,27-08-2008,Alm.,6973,3,Villa,113,1935,
+Rosenparken 44 8881 Thorsø,44,1350000.0,15-08-2008,Alm.,9782,5,Villa,138,1973,
+Skovdalsvej 6 8881 Thorsø,6,2500000.0,13-08-2008,Alm.,16556,6,Villa,151,1917,
+Pittevej 8 8881 Thorsø,8,1950000.0,11-08-2008,Alm.,14028,4,Villa,139,1902,-6 %
+Jernbanegade 44 8881 Thorsø,44,1725000.0,29-07-2008,Alm.,12591,6,Villa,137,1918,-1 %
+Skovdalsvej 11 8881 Thorsø,11,2325000.0,29-07-2008,Alm.,14622,8,Villa,159,1915,
+Overgårdsvej 4 8881 Thorsø,4,685000.0,22-07-2008,Alm.,6342,2,Villa,108,1927,0 %
+Tingvej 12 8881 Thorsø,12,1020000.0,14-07-2008,Alm.,6375,5,Villa,160,1931,-3 %
+Overgårdsvej 50 8881 Thorsø,50,900000.0,10-07-2008,Alm.,6716,4,Villa,134,1912,
+Lokesvej 1 8881 Thorsø,1,1275000.0,08-07-2008,Alm.,9172,6,Villa,139,1964,
+Frejasvej 9 8881 Thorsø,9,1145000.0,04-07-2008,Alm.,9087,4,Villa,126,1971,0 %
+Thorsgade 6 8881 Thorsø,6,945000.0,30-06-2008,Alm.,7269,4,Villa,130,1897,
+Snuhøjvej 12 8881 Thorsø,12,2525000.0,11-06-2008,Alm.,0,7,Stuehus,328,1863,-2 %
+Odinsvej 7 8881 Thorsø,7,1000000.0,05-06-2008,Alm.,8333,4,Villa,120,1964,
+Thorsølundvej 7 8881 Thorsø,7,500000.0,02-06-2008,Alm.,8196,1,Villa,61,1937,
+Thostrupvej 12 8881 Thorsø,12,1648000.0,02-06-2008,Alm.,11942,4,Stuehus,138,1915,-3 %
+Tingvej 21 8881 Thorsø,21,510000.0,27-05-2008,Fam.,0,7,Stuehus,234,1907,
+Ridder Munks Vej 41 8881 Thorsø,41,2238248.0,13-05-2008,Alm.,12645,6,Villa,177,2008,
+Overgårdsvej 45 8881 Thorsø,45,2665000.0,04-05-2008,Alm.,13128,3,Stuehus,203,1867,
+Saturnvej 10 8881 Thorsø,10,1998000.0,04-05-2008,Alm.,14583,5,Villa,137,1997,
+Overgårdsvej 37 8881 Thorsø,37,915000.0,01-04-2008,Alm.,9838,2,Villa,93,1910,
+Borggade 14 8881 Thorsø,14,1600000.0,28-03-2008,Alm.,5498,10,Villa,291,1909,-3 %
+Overgårdsvej 62 8881 Thorsø,62,2040000.0,12-03-2008,Alm.,12215,6,Villa,167,1940,0 %
+Kirkegade 15 8881 Thorsø,15,1405000.0,28-02-2008,Alm.,10976,4,Villa,128,1938,
+Overgårdsvej 48 8881 Thorsø,48,1240000.0,18-02-2008,Alm.,9465,5,Villa,131,1924,0 %
+Snuhøjvej 19 8881 Thorsø,19,2195000.0,07-02-2008,Alm.,13892,4,Villa,158,1913,0 %
+Møllevænget 47 8881 Thorsø,47,1670000.0,04-02-2008,Alm.,12370,5,Villa,135,1981,0 %
+Grølstedvej 2 8881 Thorsø,2,2565000.0,28-01-2008,Alm.,13086,5,Stuehus,196,1923,
+Møllevej 3 8881 Thorsø,3,1616698.0,28-01-2008,Alm.,14307,4,Villa,113,1966,
+Tjørnevej 6 8881 Thorsø,6,550000.0,26-01-2008,Fam.,4166,5,Villa,132,1932,
+Overgårdsvej 44 8881 Thorsø,44,575000.0,18-01-2008,Alm.,9583,2,Rækkehus,60,1907,-8 %
+Møllevej 5 8881 Thorsø,5,1375000.0,10-01-2008,Alm.,11458,4,Villa,120,1981,
+Thorsølundvej 27F 8881 Thorsø,0,825000.0,15-12-2007,Fam.,11148,3,Rækkehus,74,1983,
+Futting Tværvej 2 8881 Thorsø,2,1198000.0,14-12-2007,Alm.,9819,6,Villa,122,1900,
+Tidselsbjergvej 3 8881 Thorsø,3,1570000.0,12-12-2007,Alm.,5750,9,Stuehus,273,1998,
+Rolighedsvej 11 8881 Thorsø,11,890000.0,15-11-2007,Alm.,0,6,Villa,221,1910,
+Lokesvej 17 8881 Thorsø,17,1250000.0,08-11-2007,Alm.,10080,5,Villa,124,1966,
+Rolighedsvej 14B 8881 Thorsø,0,1230000.0,14-10-2007,Alm.,13820,3,Rækkehus,89,2007,
+Rosenparken 4 8881 Thorsø,4,1510000.0,12-10-2007,Alm.,11705,4,Villa,129,1976,
+Højgårdsvej 4 8881 Thorsø,4,250000.0,01-10-2007,Alm.,1351,7,Stuehus,185,1974,
+Rolighedsvej 14A 8881 Thorsø,0,1298000.0,26-09-2007,Alm.,9686,5,Rækkehus,134,2007,
+Højgårdsvej 2 8881 Thorsø,2,1695000.0,19-09-2007,Alm.,11936,4,Villa,142,1827,0 %
+Skolegade 24 8881 Thorsø,24,3500000.0,19-09-2007,Alm.,15151,6,Villa,231,1913,-7 %
+Pittevej 5 8881 Thorsø,5,2645000.0,18-09-2007,Alm.,15650,6,Stuehus,169,1928,7 %
+Møllevej 10 8881 Thorsø,10,630000.0,14-09-2007,Fam.,5727,4,Villa,110,1965,
+Odinsvej 9 8881 Thorsø,9,1123000.0,14-09-2007,Alm.,13695,3,Villa,82,1967,
+Møllevænget 16 8881 Thorsø,16,749000.0,05-09-2007,Alm.,5548,6,Villa,135,1978,
+Tidselsbjergvej 1 8881 Thorsø,1,5700000.0,28-08-2007,Alm.,26760,4,Stuehus,213,1900,
+Rolighedsvej 14D 8881 Thorsø,0,1375933.0,15-08-2007,Alm.,15459,3,Rækkehus,89,2007,
+Rosenparken 12 8881 Thorsø,12,662500.0,31-07-2007,Andet,4766,4,Villa,139,1973,
+Bavnehøjvej 21 8881 Thorsø,21,2300000.0,19-07-2007,Alm.,8455,5,Stuehus,272,2013,
+Odinsvej 22 8881 Thorsø,22,290000.0,14-07-2007,Alm.,2566,4,Rækkehus,113,2009,
+Møllevænget 39 8881 Thorsø,39,1495000.0,09-07-2007,Alm.,10678,5,Rækkehus,140,1980,0 %
+Nygade 6 8881 Thorsø,6,1450000.0,09-07-2007,Alm.,11240,4,Villa,129,1957,
+Marsvej 13 8881 Thorsø,13,1645000.0,19-06-2007,Alm.,0,4,Villa,109,2005,0 %
+Møllevej 22 8881 Thorsø,22,1550000.0,15-06-2007,Alm.,9627,6,Villa,161,1980,
+Tingvej 6 8881 Thorsø,6,1635000.0,13-06-2007,Alm.,7676,8,Villa,213,1877,-3 %
+Skolegade 38 8881 Thorsø,38,1315000.0,13-06-2007,Alm.,10691,4,Villa,123,1910,-3 %
+Ridder Munks Vej 55 8881 Thorsø,55,2295000.0,11-06-2007,Alm.,15937,5,Villa,144,2007,
+Overgårdsvej 32 8881 Thorsø,32,5790000.0,06-06-2007,Alm.,38600,5,Stuehus,150,1912,
+Odinsvej 17 8881 Thorsø,17,1075000.0,15-05-2007,Alm.,8464,5,Villa,127,1973,-2 %
+Tungelund Bakker 19 8881 Thorsø,19,1995000.0,07-05-2007,Alm.,14250,5,Villa,140,2004,
+Skolegade 2 8881 Thorsø,2,1285000.0,30-04-2007,Alm.,10889,4,Villa,118,1954,0 %
+Selli Ager 11 8881 Thorsø,11,726500.0,23-04-2007,Alm.,4248,6,Villa,171,2009,1 %
+Selli Ager 16 8881 Thorsø,16,650010.0,23-04-2007,Alm.,3250,6,Villa,200,2007,9 %
+Tingvej 17 8881 Thorsø,17,1550000.0,19-04-2007,Alm.,12109,5,Stuehus,128,1905,
+Ridder Munks Vej 47 8881 Thorsø,47,332320.0,16-04-2007,Alm.,2064,5,Villa,161,2008,
+Tingvej 4 8881 Thorsø,4,880000.0,16-04-2007,Alm.,6197,4,Villa,142,1870,
+Forten 42 8881 Thorsø,42,825000.0,12-04-2007,Alm.,8250,4,Villa,100,1965,
+Ridder Munks Vej 9A 8881 Thorsø,0,1445000.0,03-04-2007,Alm.,12787,4,Rækkehus,113,2007,
+Selli Ager 13 8881 Thorsø,13,666510.0,29-03-2007,Alm.,2543,5,Villa,262,2008,0 %
+Overgårdsvej 19 8881 Thorsø,19,2200000.0,29-03-2007,Alm.,11000,6,Stuehus,200,1870,
+Ridder Munks Vej 9B 8881 Thorsø,0,1445000.0,27-03-2007,Alm.,12787,4,Rækkehus,113,2007,
+Ridder Munks Vej 27B 8881 Thorsø,0,1502000.0,24-03-2007,Alm.,13292,4,Rækkehus,113,2007,4 %
+Ridder Munks Vej 27A 8881 Thorsø,0,1445000.0,06-03-2007,Alm.,12787,4,Rækkehus,113,2007,
+Ridder Munks Vej 77 8881 Thorsø,77,289540.0,05-03-2007,Alm.,2316,4,Villa,125,2008,
+Marsvej 11E 8881 Thorsø,0,690000.0,02-03-2007,Alm.,11896,2,Rækkehus,58,1987,
+Selli Ager 12 8881 Thorsø,12,1377310.0,28-02-2007,Alm.,6466,7,Villa,213,2010,135 %
+Gyden 4 8881 Thorsø,4,1400000.0,16-02-2007,Alm.,7865,6,Villa,178,1979,-3 %
+Tungelund Bakker 28 8881 Thorsø,28,2198000.0,13-02-2007,Alm.,12348,6,Villa,178,2003,
+Frejasvej 17 8881 Thorsø,17,1745000.0,12-02-2007,Alm.,9803,4,Villa,178,1974,0 %
+Møllevænget 40 8881 Thorsø,40,1245000.0,07-02-2007,Alm.,10040,4,Villa,124,1979,-4 %
+Ridder Munks Vej 61 8881 Thorsø,61,286440.0,02-02-2007,Alm.,1565,6,Villa,183,2009,
+Selli Ager 14 8881 Thorsø,14,587187.0,29-01-2007,Alm.,2980,6,Villa,197,2008,0 %
+Præstevænget 8B 8881 Thorsø,0,795000.0,29-01-2007,Alm.,7794,3,Villa,102,1941,
+Thorsølundvej 27D 8881 Thorsø,0,675000.0,26-01-2007,Alm.,9121,3,Rækkehus,74,1983,0 %
+Tungelund Bakker 16 8881 Thorsø,16,2215000.0,25-01-2007,Alm.,13757,5,Villa,161,2005,
+Hesselbækvej 11 8881 Thorsø,11,875000.0,09-01-2007,Alm.,6481,5,Villa,135,1887,
+Frejasvej 10 8881 Thorsø,10,684409.0,04-01-2007,Andet,3933,6,Villa,174,1968,
+Brunhøjvej 2 8881 Thorsø,2,1500000.0,03-01-2007,Alm.,9615,5,Villa,156,1970,
+Rs Brochsvej 2 8881 Thorsø,2,870000.0,21-12-2006,Alm.,11756,2,Villa,74,1952,
+Dejehøjvej 18 8881 Thorsø,18,1550000.0,20-12-2006,Alm.,8333,7,Villa,186,1877,
+Selli Ager 9 8881 Thorsø,9,745446.0,19-12-2006,Alm.,3566,5,Villa,209,2008,
+Klepgabsvej 16 8881 Thorsø,16,6724745.0,18-12-2006,Fam.,33126,6,Stuehus,203,1875,
+Dejehøjvej 20 8881 Thorsø,20,1435000.0,07-12-2006,Alm.,11859,4,Villa,121,1932,
+Frejasvej 16 8881 Thorsø,16,1395000.0,15-11-2006,Alm.,7664,3,Villa,182,1969,
+Fabriksvej 8A 8881 Thorsø,0,251600.0,02-11-2006,Alm.,3594,3,Villa,70,2007,
+Kirkegade 13 8881 Thorsø,13,925000.0,25-10-2006,Alm.,7838,5,Villa,118,1879,
+Møllevænget 45 8881 Thorsø,45,1495000.0,11-10-2006,Alm.,10992,5,Villa,136,1980,
+Ridder Munks Vej 49 8881 Thorsø,49,313720.0,22-09-2006,Alm.,2037,5,Villa,154,2008,
+Byvænget 3 8881 Thorsø,3,1085000.0,18-08-2006,Alm.,11302,5,Villa,96,1963,
+Forten 35 8881 Thorsø,35,5035100.0,08-08-2006,Alm.,31469,6,Stuehus,160,1958,
+Skolegade 32 8881 Thorsø,32,650000.0,03-08-2006,Alm.,6435,4,Villa,101,1962,
+Enghavevej 7 8881 Thorsø,7,1089000.0,22-07-2006,Alm.,0,8,Villa,192,1972,
+Møllevænget 27 8881 Thorsø,27,1229000.0,17-06-2006,Alm.,8778,5,Rækkehus,140,1979,
+Klepgabsvej 2 8881 Thorsø,2,1075000.0,16-06-2006,Alm.,5657,8,Stuehus,190,1889,
+Marsvej 12A 8881 Thorsø,0,585000.0,16-05-2006,Alm.,8013,3,Rækkehus,73,1988,
+Ridder Munks Vej 3 8881 Thorsø,3,362390.0,04-05-2006,Alm.,2482,5,Villa,146,2007,
+Ridder Munks Vej 53 8881 Thorsø,53,334490.0,02-05-2006,Alm.,1520,6,Villa,220,2007,
+Ridder Munks Vej 51 8881 Thorsø,51,340975.0,02-05-2006,Alm.,1713,5,Villa,199,2008,
+Møllevænget 15 8881 Thorsø,15,1198000.0,24-04-2006,Alm.,10696,4,Villa,112,1979,
+Tingvej 9 8881 Thorsø,9,2050000.0,05-04-2006,Alm.,14335,3,Stuehus,143,1927,
+Ridder Munks Vej 39 8881 Thorsø,39,337900.0,27-03-2006,Alm.,1816,6,Villa,186,2006,
+Nygade 23 8881 Thorsø,23,895000.0,27-03-2006,Alm.,11474,2,Villa,78,1960,
+Nygade 33 8881 Thorsø,33,815000.0,16-03-2006,Alm.,8402,3,Villa,97,1973,
+Tingvej 34 8881 Thorsø,34,848000.0,14-03-2006,Alm.,10216,3,Villa,83,1962,
+Klostervej 4 8881 Thorsø,4,960000.0,12-03-2006,Fam.,5485,5,Villa,175,1971,
+Borggade 20 8881 Thorsø,20,750000.0,30-01-2006,Alm.,8620,5,Villa,87,1961,
+Tungelund Bakker 22 8881 Thorsø,22,181043.0,23-01-2006,Alm.,1097,6,Villa,165,2007,
+Ridder Munks Vej 13 8881 Thorsø,13,402023.0,20-12-2005,Alm.,1869,5,Villa,215,2007,
+Ridder Munks Vej 43 8881 Thorsø,43,363600.0,19-12-2005,Alm.,1997,5,Villa,182,2007,
+Ridder Munks Vej 45 8881 Thorsø,45,306900.0,19-12-2005,Alm.,0,6,Villa,255,2007,
+Ridder Munks Vej 29 8881 Thorsø,29,385000.0,15-12-2005,Alm.,1984,6,Villa,194,2007,
+Ridder Munks Vej 5 8881 Thorsø,5,331390.0,14-12-2005,Alm.,1665,7,Villa,199,2008,
+Ridder Munks Vej 11 8881 Thorsø,11,350100.0,14-12-2005,Alm.,2334,4,Villa,150,2007,
+Enghavevej 3 8881 Thorsø,3,995000.0,13-12-2005,Alm.,0,6,Villa,143,1962,
+Ridder Munks Vej 33 8881 Thorsø,33,453100.0,13-12-2005,Alm.,1756,6,Villa,258,2009,
+Nygade 29 8881 Thorsø,29,760000.0,12-12-2005,Alm.,0,6,Villa,190,1962,
+Dejehøjvej 11 8881 Thorsø,11,1550000.0,05-12-2005,Alm.,9451,6,Stuehus,164,1929,
+Tungelund Bakker 24 8881 Thorsø,24,2190000.0,18-11-2005,Alm.,11526,6,Villa,190,2004,
+Selli Ager 2 8881 Thorsø,2,989453.0,01-11-2005,Alm.,8756,4,Villa,113,2006,
+Violvej 12 8881 Thorsø,12,1400000.0,21-10-2005,Alm.,7070,5,Villa,198,1976,
+Industrivej 4 8881 Thorsø,4,1450000.0,21-10-2005,Alm.,9477,4,Villa,153,1972,
+Ridder Munks Vej 15 8881 Thorsø,15,510000.0,17-10-2005,Alm.,2428,6,Villa,210,2006,
+Thorsølundvej 44 8881 Thorsø,44,1375000.0,17-10-2005,Alm.,9548,4,Villa,144,1970,
+Byvænget 1 8881 Thorsø,1,625000.0,17-10-2005,Alm.,5841,4,Villa,107,1960,
+Ridder Munks Vej 31 8881 Thorsø,31,406500.0,16-10-2005,Alm.,1847,5,Villa,220,2007,
+Ridder Munks Vej 37 8881 Thorsø,37,351222.0,14-10-2005,Alm.,2237,5,Villa,157,2007,
+Tingvej 23 8881 Thorsø,23,1599000.0,06-10-2005,Alm.,12792,5,Stuehus,125,1907,
+Overgårdsvej 2 8881 Thorsø,2,1200000.0,03-10-2005,Alm.,6629,4,Engroshandel,181,1929,
+Jernbanegade 64 8881 Thorsø,64,1075000.0,28-09-2005,Alm.,6437,5,Villa,167,1961,
+Tungelund Bakker 8 8881 Thorsø,8,228126.0,06-09-2005,Alm.,1134,5,Villa,201,2005,
+Jernbanegade 70 8881 Thorsø,70,1050000.0,01-09-2005,Alm.,8076,5,Villa,130,1954,
+Marsvej 18B 8881 Thorsø,0,625000.0,31-08-2005,Alm.,10245,2,Rækkehus,61,1987,
+Sallvej 23 8881 Thorsø,23,323500.0,26-08-2005,Alm.,2673,4,Villa,121,1910,
+Odinsvej 16 8881 Thorsø,16,1070000.0,13-08-2005,Alm.,8916,4,Villa,120,1800,
+Rs Brochsvej 10 8881 Thorsø,10,698000.0,10-08-2005,Alm.,6122,4,Villa,114,1955,
+Solskrænten 7 8881 Thorsø,7,1370000.0,09-08-2005,Alm.,6850,7,Villa,200,1972,
+Dalvej 1 8881 Thorsø,1,955000.0,21-07-2005,Alm.,7126,4,Villa,134,1951,
+Snuhøjvej 8A 8881 Thorsø,0,700000.0,12-07-2005,Alm.,7608,3,Villa,92,1970,
+Saturnvej 11 8881 Thorsø,11,1398000.0,11-07-2005,Alm.,11184,3,Villa,125,1986,
+Tungelund Bakker 36 8881 Thorsø,36,242610.0,07-07-2005,Alm.,1177,6,Villa,206,2005,
+Tungelund Bakker 12 8881 Thorsø,12,159176.0,05-07-2005,Alm.,1233,4,Villa,129,2006,
+Tungelund Bakker 30 8881 Thorsø,30,175133.0,26-06-2005,Alm.,1081,5,Villa,162,2006,
+Selli Ager 6 8881 Thorsø,6,384236.0,09-06-2005,Alm.,1621,6,Villa,237,2006,
+Nygade 25 8881 Thorsø,25,869000.0,08-06-2005,Alm.,12069,3,Villa,72,1962,
+Tungelund Bakker 10 8881 Thorsø,10,181831.0,06-06-2005,Alm.,1115,5,Villa,163,2006,
+Tungelund Bakker 2 8881 Thorsø,2,182422.0,06-06-2005,Alm.,1303,5,Villa,140,2006,
+Selli Ager 3 8881 Thorsø,3,397802.0,06-06-2005,Alm.,2040,6,Villa,195,2006,
+Saturnvej 14 8881 Thorsø,14,1755000.0,01-06-2005,Alm.,10144,5,Villa,173,1994,
+Selli Ager 4 8881 Thorsø,4,382060.0,23-05-2005,Alm.,2599,6,Villa,147,2006,
+Baunegårdsvej 9 8881 Thorsø,9,2195000.0,20-05-2005,Alm.,7952,7,Stuehus,276,1890,
+Stougårdsvej 5 8881 Thorsø,5,800000.0,19-05-2005,Fam.,2702,8,Villa,296,1918,
+Tingvej 36 8881 Thorsø,36,2868000.0,18-05-2005,Fam.,14340,6,Stuehus,200,1900,
+Tungelund Bakker 17 8881 Thorsø,17,192497.0,17-05-2005,Alm.,1327,5,Villa,145,2006,
+Tungelund Bakker 27 8881 Thorsø,27,2150000.0,16-05-2005,Alm.,10804,6,Villa,199,2000,
+Møllevej 24B 8881 Thorsø,0,637000.0,11-05-2005,Alm.,10442,3,Rækkehus,61,1991,
+Tungelund Bakker 14 8881 Thorsø,14,197591.0,09-05-2005,Alm.,1519,5,Villa,130,2006,
+Skolegade 5 8881 Thorsø,5,825000.0,06-05-2005,Alm.,9482,4,Villa,87,1953,
+Thorsølundvej 1 8881 Thorsø,1,1250000.0,04-05-2005,Alm.,8116,5,Villa,154,1947,
+Selli Ager 1 8881 Thorsø,1,319092.0,02-05-2005,Alm.,1653,7,Villa,193,2006,
+Selli Ager 5 8881 Thorsø,5,383556.0,21-04-2005,Alm.,1571,6,Villa,244,2006,
+Selli Ager 8 8881 Thorsø,8,367576.0,06-04-2005,Alm.,2311,5,Villa,159,2006,
+Tungelund Bakker 31 8881 Thorsø,31,225274.0,02-04-2005,Alm.,1251,6,Villa,180,2006,
+Marsvej 15 8881 Thorsø,15,119030.0,28-03-2005,Alm.,1008,4,Villa,118,2005,
+Overgårdsvej 40 8881 Thorsø,40,433793.0,25-03-2005,Alm.,7746,2,Rækkehus,56,1920,
+Sallvej 22 8881 Thorsø,22,550000.0,22-03-2005,Fam.,3179,8,Villa,173,1907,
+Slugten 3 8881 Thorsø,3,1750000.0,16-03-2005,Alm.,9562,6,Villa,183,1927,
+Selli Ager 7 8881 Thorsø,7,365774.0,07-03-2005,Alm.,1847,4,Villa,198,2008,
+Overgårdsvej 51 8881 Thorsø,51,785000.0,27-01-2005,Alm.,6085,5,Villa,129,1927,
+Skovdalsvej 14 8881 Thorsø,14,1750000.0,27-01-2005,Alm.,8293,6,Villa,211,1910,
+Thostrupvej 11 8881 Thorsø,11,950000.0,20-01-2005,Alm.,8260,5,Stuehus,115,1919,
+Sallvej 30 8881 Thorsø,30,785000.0,07-01-2005,Alm.,6132,4,Villa,128,1972,
+Tungelund Bakker 33 8881 Thorsø,33,1625000.0,06-01-2005,Alm.,9672,5,Villa,168,2000,
+Klostervej 1 8881 Thorsø,1,4291150.0,22-12-2004,Fam.,29799,5,Stuehus,144,1976,
+Rolighedsvej 14F 8881 Thorsø,0,300000.0,01-12-2004,Alm.,2054,3,Rækkehus,146,2005,
+Lokesvej 9 8881 Thorsø,9,900000.0,25-11-2004,Alm.,7031,4,Villa,128,1971,
+Thorsgade 21 8881 Thorsø,21,535000.0,12-11-2004,Alm.,6220,3,Villa,86,1962,
+Tungelund Bakker 18 8881 Thorsø,18,181043.0,01-11-2004,Alm.,1293,5,Villa,140,2005,
+Sallvej 11 8881 Thorsø,11,610000.0,28-10-2004,Alm.,6421,3,Villa,95,1942,
+Tubækvej 8 8881 Thorsø,8,1550000.0,28-10-2004,Alm.,9281,4,Stuehus,167,1904,
+Vestermarksvej 45 8881 Thorsø,45,1250000.0,20-10-2004,Alm.,0,9,Stuehus,277,1912,
+Baunegårdsvej 4 8881 Thorsø,4,1000000.0,04-10-2004,Alm.,9090,5,Stuehus,110,1931,
+Klostergårdsvej 4 8881 Thorsø,4,510000.0,06-09-2004,Alm.,4180,3,Villa,122,1925,
+Møllevænget 3 8881 Thorsø,3,965000.0,12-08-2004,Alm.,7909,4,Villa,122,1980,
+Møllevænget 4 8881 Thorsø,4,1150000.0,12-08-2004,Alm.,7187,6,Villa,160,1976,
+Tungelund Bakker 34 8881 Thorsø,34,197300.0,12-08-2004,Alm.,0,5,Villa,150,2004,
+Kongensbrovej 19B 8881 Thorsø,0,1400000.0,09-07-2004,Alm.,11965,3,Stuehus,117,1965,
+Søndergade 8 8881 Thorsø,8,575000.0,07-06-2004,Alm.,4197,5,Villa,137,1954,
+Tubækvej 2 8881 Thorsø,2,429447.0,27-05-2004,Alm.,2982,5,Stuehus,144,1890,
+Astrupvej 2 8881 Thorsø,2,990000.0,19-05-2004,Alm.,3694,10,Villa,268,1913,
+Astrupvej 20 8881 Thorsø,20,400000.0,13-05-2004,Alm.,1754,7,Stuehus,228,1918,
+Astrupvej 5 8881 Thorsø,5,375000.0,07-05-2004,Alm.,3378,3,Villa,111,1965,
+Jernbanegade 48 8881 Thorsø,48,550000.0,03-05-2004,Alm.,3767,5,Villa,146,1929,
+Thorsølundvej 38 8881 Thorsø,38,527000.0,25-04-2004,Fam.,5323,3,Villa,99,1970,
+Gyden 8 8881 Thorsø,8,745000.0,24-04-2004,Alm.,4966,5,Villa,150,1974,
+Sallvej 14 8881 Thorsø,14,233923.0,20-04-2004,Andet,1682,6,Villa,139,1911,
+Nygade 31 8881 Thorsø,31,765000.0,14-04-2004,Alm.,7886,3,Villa,97,1973,
+Sallvej 19 8881 Thorsø,19,4750000.0,02-04-2004,Alm.,16267,7,Stuehus,292,1900,
+Astrupvej 10 8881 Thorsø,10,100000.0,22-03-2004,Andet,581,6,Villa,172,1971,
+Herregårdsalle 3 8881 Thorsø,3,1700000.0,27-02-2004,Alm.,9770,6,Stuehus,174,1993,
+Klepgabsvej 10 8881 Thorsø,10,700000.0,19-02-2004,Alm.,5833,4,Villa,120,1935,
+Gelbrovej 36 8881 Thorsø,36,1500000.0,06-02-2004,Alm.,15306,4,Stuehus,98,1925,
+Tingvej 31 8881 Thorsø,31,1245000.0,05-02-2004,Alm.,6552,5,Villa,190,1930,
+Tingvej 46 8881 Thorsø,46,350000.0,05-02-2004,Alm.,2868,4,Villa,122,1950,
+Marsvej 29 8881 Thorsø,29,1085000.0,20-01-2004,Alm.,6781,5,Villa,160,1985,
+Tungelund Bakker 25 8881 Thorsø,25,402133.0,03-01-2004,Alm.,1386,6,Villa,290,2004,
+Søndergade 13B 8881 Thorsø,0,5443980.0,30-12-2003,Fam.,27634,7,Stuehus,197,1890,
+Thorsølundvej 40 8881 Thorsø,40,845000.0,08-12-2003,Alm.,6814,3,Villa,124,1973,
+Nygade 12 8881 Thorsø,12,612000.0,25-11-2003,Fam.,5321,4,Villa,115,1964,
+Solskrænten 5 8881 Thorsø,5,850000.0,17-10-2003,Alm.,7589,6,Villa,112,1976,
+Tjørnevej 7A 8881 Thorsø,0,1510000.0,08-09-2003,Alm.,7905,7,Villa,191,1921,
+Snuhøjvej 22 8881 Thorsø,22,640000.0,25-07-2003,Alm.,9696,4,Stuehus,66,1880,
+Lokesvej 13 8881 Thorsø,13,1065000.0,22-07-2003,Alm.,8129,4,Villa,131,1971,
+Bavnehøjvej 3 8881 Thorsø,3,381788.0,21-07-2003,Alm.,2766,6,Villa,138,1920,
+Thorsølundvej 5 8881 Thorsø,5,590000.0,27-06-2003,Alm.,7283,3,Villa,81,1953,
+Odinsvej 11 8881 Thorsø,11,565000.0,16-06-2003,Alm.,5824,3,Villa,97,1966,
+Vestermarksvej 60 8881 Thorsø,60,4100000.0,12-06-2003,Alm.,14801,7,Stuehus,277,1928,
+Futtingvej 10 8881 Thorsø,10,750000.0,02-06-2003,Alm.,3750,7,Villa,200,1860,
+Tungelund Bakker 7 8881 Thorsø,7,371912.0,01-06-2003,Alm.,2043,5,Villa,182,2004,
+Tungelund Bakker 26 8881 Thorsø,26,980000.0,23-05-2003,Alm.,8032,4,Villa,122,2002,
+Tungelund Bakker 15 8881 Thorsø,15,190934.0,07-05-2003,Alm.,1307,4,Villa,146,2004,
+Lokesvej 23 8881 Thorsø,23,720000.0,15-04-2003,Alm.,7058,4,Villa,102,1966,
+Solskrænten 11 8881 Thorsø,11,1065000.0,05-04-2003,Alm.,6377,6,Villa,167,1974,
+Hesselbækvej 4 8881 Thorsø,4,6075842.0,03-04-2003,Alm.,0,10,Stuehus,298,1917,
+Skolegade 34 8881 Thorsø,34,67512.0,31-03-2003,Alm.,278,8,Stuehus,242,1909,
+Kirkegade 50 8881 Thorsø,50,1295000.0,25-03-2003,Alm.,6675,7,Villa,194,1970,
+Frejasvej 2 8881 Thorsø,2,699000.0,08-03-2003,Fam.,6721,4,Villa,104,1968,
+Sallvej 16 8881 Thorsø,16,998000.0,25-02-2003,Alm.,6276,5,Villa,159,1927,
+Tungelund Bakker 38 8881 Thorsø,38,198932.0,20-02-2003,Alm.,1220,6,Villa,163,2003,
+Skolegade 20 8881 Thorsø,20,640000.0,18-02-2003,Alm.,6464,3,Villa,99,1959,
+Tjørnevej 2 8881 Thorsø,2,800000.0,14-02-2003,Alm.,5298,4,Villa,151,1967,
+Kirkegade 25 8881 Thorsø,25,453468.0,03-02-2003,Alm.,0,6,Villa,185,2004,
+Gl Tungelundvej 12 8881 Thorsø,12,1137500.0,28-01-2003,Alm.,6935,5,Villa,164,1865,
+Lokesvej 14 8881 Thorsø,14,865000.0,12-01-2003,Alm.,5884,4,Villa,147,1966,
+Thorsølundvej 25 8881 Thorsø,25,982000.0,06-11-2002,Alm.,6546,4,Villa,150,1970,
+Skovdalsvej 13 8881 Thorsø,13,540208.0,05-11-2002,Alm.,2756,7,Stuehus,196,1910,
+Tungelund Bakker 6 8881 Thorsø,6,206274.0,28-10-2002,Alm.,1242,4,Villa,166,2003,
+Møllevænget 46 8881 Thorsø,46,825000.0,22-10-2002,Alm.,0,5,Villa,162,1977,
+Jernbanegade 19A 8881 Thorsø,0,639000.0,26-09-2002,Alm.,10306,3,Villa,62,1990,
+Violvej 4 8881 Thorsø,4,845000.0,04-09-2002,Alm.,5992,5,Villa,141,1974,
+Tjørnevej 7B 8881 Thorsø,0,1188000.0,29-08-2002,Alm.,7815,5,Villa,152,1987,
+Midgårdsvej 3 8881 Thorsø,3,975000.0,20-08-2002,Alm.,6632,5,Villa,147,1968,
+Møllevej 26 8881 Thorsø,26,690000.0,07-08-2002,Alm.,6764,3,Villa,102,1947,
+Overgårdsvej 66 8881 Thorsø,66,1680000.0,01-08-2002,Alm.,0,8,Stuehus,231,1925,
+Tungelund Bakker 11 8881 Thorsø,11,250782.0,29-07-2002,Alm.,1483,5,Villa,169,2003,
+Rosenparken 70 8881 Thorsø,70,975000.0,16-07-2002,Alm.,0,6,Villa,163,1976,
+Gyden 2 8881 Thorsø,2,895000.0,17-06-2002,Alm.,4387,5,Villa,204,1914,
+Jernbanegade 56 8881 Thorsø,56,805261.0,04-06-2002,Alm.,5368,4,Villa,150,1919,
+Søndergade 10 8881 Thorsø,10,1215000.0,29-04-2002,Alm.,6428,6,Villa,189,2007,
+Baunegårdsvej 3 8881 Thorsø,3,1229125.0,29-04-2002,Alm.,6469,7,Villa,190,1914,
+Snuhøjvej 17 8881 Thorsø,17,1700000.0,29-04-2002,Alm.,0,5,Stuehus,197,1923,
+Pittevej 12 8881 Thorsø,12,370000.0,04-04-2002,Alm.,2418,4,Villa,153,2002,
+Thorsgade 19 8881 Thorsø,19,1286080.0,08-03-2002,Alm.,6804,5,Stuehus,189,1898,
+Pittevej 20 8881 Thorsø,20,260000.0,10-01-2002,Fam.,2549,3,Stuehus,102,1918,
+Marsvej 16A 8881 Thorsø,0,625580.0,13-12-2001,Alm.,6874,3,Rækkehus,91,1990,
+Præstevænget 22 8881 Thorsø,22,1100000.0,13-12-2001,Alm.,0,7,Stuehus,184,1923,
+Skolegade 36 8881 Thorsø,36,880000.0,11-12-2001,Alm.,4861,4,Villa,181,1930,
+Industrivej 1 8881 Thorsø,1,800000.0,01-12-2001,Alm.,5161,6,Villa,155,1970,
+Rs Brochsvej 18 8881 Thorsø,18,990000.0,27-11-2001,Alm.,5210,5,Villa,190,1979,
+Nedergårdsvej 2 8881 Thorsø,2,670000.0,01-11-2001,Alm.,5929,4,Villa,113,1973,
+Boskovvej 3 8881 Thorsø,3,975000.0,31-10-2001,Alm.,8262,5,Villa,118,1923,
+Jernbanegade 7 8881 Thorsø,7,665000.0,15-10-2001,Alm.,4716,4,Villa,141,1917,
+Marsvej 16B 8881 Thorsø,0,608244.0,10-09-2001,Alm.,8447,3,Rækkehus,72,1990,
+Gl Tungelundvej 4 8881 Thorsø,4,725000.0,30-08-2001,Fam.,6144,4,Villa,118,1909,
+Thorsølundvej 33 8881 Thorsø,33,863085.0,28-08-2001,Alm.,6690,4,Villa,129,1971,
+Marsvej 1 8881 Thorsø,1,48468.0,20-08-2001,Alm.,444,4,Villa,109,2002,
+Borggade 15 8881 Thorsø,15,464153.0,18-08-2001,Alm.,6272,2,Villa,74,1931,
+Kongensbrovej 3 8881 Thorsø,3,674385.0,25-07-2001,Alm.,6130,3,Villa,110,1900,
+Hovbro 1 8881 Thorsø,1,411937.0,28-06-2001,Alm.,3999,4,Villa,103,1942,
+Overgårdsvej 13 8881 Thorsø,13,290000.0,23-06-2001,Alm.,2416,3,Villa,120,1904,
+Tingvej 29 8881 Thorsø,29,630000.0,25-05-2001,Alm.,2480,6,Stuehus,254,1914,
+Søndergade 1A 8881 Thorsø,0,881000.0,23-05-2001,Alm.,7048,4,Villa,125,1971,
+Astrupvej 14 8881 Thorsø,14,3200000.0,17-05-2001,Alm.,4848,9,Stuehus,660,2003,
+Sallvej 2 8881 Thorsø,2,310000.0,30-04-2001,Alm.,3690,3,Villa,84,1934,
+Marsvej 12B 8881 Thorsø,0,616000.0,06-03-2001,Alm.,8438,3,Rækkehus,73,1988,
+Saturnvej 3 8881 Thorsø,3,1095000.0,02-02-2001,Andet,7821,5,Villa,140,2001,
+Hesselbækvej 9 8881 Thorsø,9,190470.0,02-02-2001,Alm.,1341,5,Stuehus,142,1927,
+Tingvej 44 8881 Thorsø,44,10000000.0,08-01-2001,Alm.,39682,10,Stuehus,252,1910,
+Vestermarksvej 59 8881 Thorsø,59,541173.0,21-11-2000,Andet,2273,7,Villa,238,1943,
+Møllevej 7 8881 Thorsø,7,761871.0,20-11-2000,Alm.,4947,4,Villa,154,1911,
+Møllevænget 21 8881 Thorsø,21,904000.0,01-11-2000,Alm.,8776,4,Villa,103,1981,
+Skolegade 11 8881 Thorsø,11,897204.0,30-09-2000,Alm.,8156,3,Villa,110,1956,
+Thorsølundvej 26 8881 Thorsø,26,1045000.0,30-08-2000,Alm.,5903,5,Villa,177,1969,
+Saturnvej 2 8881 Thorsø,2,1107515.0,12-07-2000,Alm.,6257,6,Villa,177,1972,
+Jernbanegade 27 8881 Thorsø,27,940000.0,11-07-2000,Alm.,4653,7,Villa,202,1943,
+Lokesvej 19 8881 Thorsø,19,475000.0,07-07-2000,Fam.,4797,3,Villa,99,1965,
+Hovbro 9 8881 Thorsø,9,1953000.0,04-07-2000,Alm.,0,9,Villa,282,1925,
+Søndergade 6 8881 Thorsø,6,739000.0,07-06-2000,Auktion,3713,6,Villa,199,1943,
+Rolighedsvej 5A 8881 Thorsø,0,103000.0,22-05-2000,Alm.,10300,1,Fritid,10,2001,
+Hovbro 7 8881 Thorsø,7,590000.0,09-05-2000,Alm.,5315,4,Villa,111,1975,
+Møllevej 13A 8881 Thorsø,0,684000.0,10-04-2000,Alm.,4653,4,Villa,147,1910,
+Dalvej 6 8881 Thorsø,6,457095.0,03-04-2000,Alm.,5194,3,Villa,88,1958,
+Jernbanegade 37 8881 Thorsø,37,942000.0,31-03-2000,Alm.,5091,9,Villa,185,1934,
+Præstevænget 12 8881 Thorsø,12,535000.0,14-02-2000,Alm.,4280,4,Villa,125,1961,
+Hovbro 11 8881 Thorsø,11,895000.0,18-01-2000,Alm.,6392,5,Villa,140,1934,
+Thorsølundvej 28 8881 Thorsø,28,938887.0,22-11-1999,Alm.,4814,5,Villa,195,1971,
+Rs Brochsvej 5 8881 Thorsø,5,410000.0,16-11-1999,Alm.,0,6,Villa,149,1948,
+Saturnvej 4 8881 Thorsø,4,990533.0,12-10-1999,Alm.,5028,5,Villa,197,1973,
+Skolegade 10 8881 Thorsø,10,380000.0,27-09-1999,Alm.,2159,4,Villa,176,1962,
+Tungelund Bakker 40 8881 Thorsø,40,236482.0,01-09-1999,Alm.,1359,5,Villa,174,2000,
+Overgårdsvej 35 8881 Thorsø,35,450000.0,15-07-1999,Alm.,0,5,Villa,143,1877,
+Rosenparken 36 8881 Thorsø,36,257745.0,14-06-1999,Fam.,1967,4,Villa,131,1973,
+Nedergårdsvej 3 8881 Thorsø,3,801500.0,14-06-1999,Alm.,0,6,Villa,181,1880,
+Overgårdsvej 36 8881 Thorsø,36,711761.0,11-06-1999,Alm.,3826,7,Villa,186,1900,
+Møllevænget 55 8881 Thorsø,55,578929.0,07-06-1999,Alm.,7060,3,Rækkehus,82,1990,
+Hesselbækvej 8 8881 Thorsø,8,317500.0,28-05-1999,Fam.,0,5,Villa,251,1847,
+Hesselbækvej 3 8881 Thorsø,3,354000.0,25-05-1999,Alm.,0,6,Villa,100,1922,
+Kirkegade 17 8881 Thorsø,17,547490.0,18-05-1999,Alm.,4487,4,Villa,122,1939,
+Enslevvej 26 8881 Thorsø,26,625656.0,23-04-1999,Alm.,0,4,Villa,119,1920,
+Vestermarksvej 55 8881 Thorsø,55,970000.0,22-04-1999,Alm.,0,6,Stuehus,217,1943,
+Tingvej 30 8881 Thorsø,30,631177.0,11-02-1999,Alm.,5173,3,Villa,122,1955,
+Møllevænget 34 8881 Thorsø,34,118248.0,26-01-1999,Alm.,844,5,Villa,140,1999,
+Bavnehøjvej 5 8881 Thorsø,5,815376.0,25-01-1999,Fam.,4181,5,Villa,195,1900,
+Klepgabsvej 12 8881 Thorsø,12,1360722.0,07-01-1999,Alm.,0,6,Stuehus,173,1950,
+Tingvej 28 8881 Thorsø,28,648000.0,18-12-1998,Alm.,3975,7,Villa,163,1949,
+Møllevænget 33 8881 Thorsø,33,850460.0,10-12-1998,Alm.,6074,5,Rækkehus,140,1978,
+Thorsgade 1 8881 Thorsø,1,694770.0,26-11-1998,Alm.,6316,3,Villa,110,1927,
+Møllevænget 19A 8881 Thorsø,0,597000.0,25-11-1998,Alm.,8178,3,Rækkehus,73,1988,
+Kongensbrovej 17 8881 Thorsø,17,1384097.0,19-11-1998,Alm.,0,8,Stuehus,230,1866,
+Søndergade 3 8881 Thorsø,3,693000.0,22-09-1998,Alm.,9625,6,Villa,72,1957,
+Møllevænget 26 8881 Thorsø,26,725000.0,17-08-1998,Alm.,6473,4,Villa,112,1979,
+Kirkegade 4 8881 Thorsø,4,1100000.0,17-08-1998,Alm.,3594,13,Villa,306,1905,
+Saturnvej 5 8881 Thorsø,5,930000.0,16-08-1998,Alm.,6458,4,Villa,144,1998,
+Skolegade 28 8881 Thorsø,28,665000.0,12-08-1998,Alm.,5450,4,Villa,122,1922,
+Kongensbrovej 11 8881 Thorsø,11,690000.0,10-08-1998,Alm.,4451,7,Villa,155,1875,
+Enslevvej 24 8881 Thorsø,24,490750.0,30-07-1998,Alm.,0,2,Villa,106,1887,
+Midgårdsvej 1 8881 Thorsø,1,738000.0,16-07-1998,Alm.,4761,6,Villa,155,1953,
+Rosenparken 9 8881 Thorsø,9,1218918.0,19-06-1998,Alm.,0,5,Villa,198,1998,
+Thostrupvej 15 8881 Thorsø,15,1471000.0,15-06-1998,Alm.,8217,9,Villa,179,1897,
+Solskrænten 16 8881 Thorsø,16,75000.0,18-05-1998,Alm.,436,4,Villa,172,1999,
+Marsvej 19 8881 Thorsø,19,25808.0,14-05-1998,Alm.,125,6,Villa,206,1999,
+Hovbro 10 8881 Thorsø,10,876000.0,14-05-1998,Alm.,0,8,Villa,191,1848,
+Møllevænget 28A 8881 Thorsø,0,286255.0,03-05-1998,Alm.,0,8,Villa,198,1998,
+Rosenparken 34 8881 Thorsø,34,748000.0,07-04-1998,Alm.,5267,5,Villa,142,1973,
+Solskrænten 8 8881 Thorsø,8,834000.0,26-03-1998,Alm.,5560,6,Villa,150,1980,
+Brunhøjvej 8 8881 Thorsø,8,690000.0,09-03-1998,Andet,3520,8,Villa,196,1971,
+Tidselsbjergvej 4 8881 Thorsø,4,1239000.0,27-02-1998,Alm.,7891,3,Villa,157,1920,
+Rolighedsvej 10 8881 Thorsø,10,350000.0,19-02-1998,Alm.,4268,4,Villa,82,1950,
+Møllevænget 11 8881 Thorsø,11,1035000.0,16-01-1998,Alm.,6197,5,Villa,167,1980,
+Skolegade 4 8881 Thorsø,4,730000.0,16-01-1998,Alm.,6517,3,Villa,112,1954,
+Søndergade 2 8881 Thorsø,2,405000.0,02-10-1997,Alm.,1569,6,Villa,258,1911,
+Marsvej 11A 8881 Thorsø,0,455986.0,15-08-1997,Alm.,7861,2,Rækkehus,58,1987,
+Klepgabsvej 24 8881 Thorsø,24,1555000.0,23-06-1997,Fam.,6588,6,Stuehus,236,1901,
+Dejehøjvej 16 8881 Thorsø,16,754000.0,13-06-1997,Alm.,5236,5,Villa,144,1900,
+Rs Brochsvej 7 8881 Thorsø,7,877000.0,04-06-1997,Alm.,5885,5,Villa,149,1934,
+Marsvej 11B 8881 Thorsø,0,300000.0,16-05-1997,Alm.,5172,2,Rækkehus,58,1987,
+Skolegade 7 8881 Thorsø,7,613000.0,17-04-1997,Alm.,4865,5,Villa,126,1953,
+Skovdalsvej 2 8881 Thorsø,2,530000.0,17-04-1997,Alm.,0,10,Stuehus,334,1997,
+Tjørnevej 3 8881 Thorsø,3,235000.0,09-04-1997,Alm.,3405,3,Villa,69,1931,
+Enslevvej 53 8881 Thorsø,53,348000.0,01-04-1997,Alm.,0,4,Villa,150,1904,
+Rosenparken 60 8881 Thorsø,60,862000.0,24-03-1997,Alm.,5785,4,Villa,149,1975,
+Søndergade 7 8881 Thorsø,7,480000.0,19-03-1997,Alm.,4285,4,Villa,112,1954,
+Møllevænget 42 8881 Thorsø,42,725000.0,12-03-1997,Alm.,5620,4,Villa,129,1981,
+Saturnvej 9 8881 Thorsø,9,50358.0,10-03-1997,Alm.,0,5,Villa,166,1997,
+Pittevej 13 8881 Thorsø,13,393000.0,28-02-1997,Alm.,3930,4,Villa,100,1810,
+Snuhøjvej 2 8881 Thorsø,2,515000.0,18-02-1997,Alm.,2668,7,Villa,193,1906,
+Overgårdsvej 38 8881 Thorsø,38,669168.0,13-02-1997,Alm.,2765,7,Villa,242,1877,
+Rosenparken 11 8881 Thorsø,11,1042000.0,13-02-1997,Alm.,4846,5,Villa,215,1979,
+Møllevej 1 8881 Thorsø,1,990000.0,31-01-1997,Alm.,6073,6,Villa,163,1908,
+Rs Brochsvej 16 8881 Thorsø,16,1008825.0,30-12-1996,Alm.,6680,5,Villa,151,1979,
+Søndergade 16 8881 Thorsø,16,260000.0,23-12-1996,Fam.,0,3,Villa,163,1909,
+Astrupvej 8 8881 Thorsø,8,408160.0,20-12-1996,Alm.,3023,3,Villa,135,1936,
+Violvej 10 8881 Thorsø,10,698000.0,11-12-1996,Alm.,5410,4,Villa,129,1974,
+Tingvej 13 8881 Thorsø,13,543916.0,07-11-1996,Alm.,4282,6,Villa,127,1905,
+Grølstedvej 3 8881 Thorsø,3,595000.0,24-10-1996,Alm.,0,5,Villa,140,1929,
+Klepgabsvej 26 8881 Thorsø,26,1050000.0,26-09-1996,Alm.,8076,3,Stuehus,130,1973,
+Violvej 14 8881 Thorsø,14,733766.0,22-09-1996,Alm.,4795,5,Villa,153,1978,
+Hovbro 17 8881 Thorsø,17,1230000.0,05-09-1996,Alm.,10982,5,Stuehus,112,1850,
+Klepgabsvej 28 8881 Thorsø,28,2250000.0,12-08-1996,Alm.,13392,8,Stuehus,168,1887,
+Møllevej 15 8881 Thorsø,15,548000.0,08-08-1996,Alm.,0,6,Villa,166,1957,
+Overgårdsvej 9 8881 Thorsø,9,229500.0,26-06-1996,Fam.,0,4,Villa,96,1960,
+Tidselsbjergvej 2 8881 Thorsø,2,1213244.0,26-06-1996,Alm.,7489,6,Stuehus,162,1910,
+Hovbro 6 8881 Thorsø,6,795000.0,19-06-1996,Alm.,4760,6,Stuehus,167,1800,
+Sallvej 18 8881 Thorsø,18,390977.0,18-06-1996,Alm.,3030,4,Villa,129,1930,
+Nygade 11 8881 Thorsø,11,353401.0,15-06-1996,Alm.,3534,4,Villa,100,1955,
+Overgårdsvej 16 8881 Thorsø,16,460000.0,20-05-1996,Alm.,2335,5,Villa,197,1930,
+Frejasvej 8 8881 Thorsø,8,575000.0,09-05-1996,Alm.,4049,5,Villa,142,1972,
+Møllevej 20B 8881 Thorsø,0,544098.0,29-04-1996,Alm.,6635,3,Villa,82,1925,
+Thorsølundvej 36 8881 Thorsø,36,812000.0,14-03-1996,Alm.,3500,6,Villa,232,1974,
+Møllevej 11 8881 Thorsø,11,700000.0,22-02-1996,Alm.,4635,5,Villa,151,1910,
+Rosenparken 2 8881 Thorsø,2,569713.0,20-02-1996,Alm.,3984,5,Villa,143,1974,
+Klepgabsvej 7 8881 Thorsø,7,435000.0,03-12-1995,Fam.,0,5,Villa,130,1928,
+Tingvej 24 8881 Thorsø,24,365000.0,22-11-1995,Alm.,3067,3,Villa,119,1937,
+Boskovvej 6 8881 Thorsø,6,1521969.0,01-11-1995,Alm.,7424,10,Stuehus,205,1915,
+Kongensbrovej 4 8881 Thorsø,4,4950000.0,08-10-1995,Alm.,0,9,Stuehus,283,1955,
+Tubækvej 9 8881 Thorsø,9,1725000.0,03-08-1995,Alm.,13476,6,Villa,128,1864,
+Overgårdsvej 23 8881 Thorsø,23,245000.0,01-08-1995,Alm.,0,4,Villa,131,1885,
+Gl Tungelundvej 3 8881 Thorsø,3,595000.0,03-07-1995,Alm.,3966,5,Villa,150,1973,
+Grølstedvej 7 8881 Thorsø,7,670000.0,29-06-1995,Alm.,4110,6,Villa,163,1900,
+Søndergade 12 8881 Thorsø,12,500000.0,16-05-1995,Alm.,0,7,Villa,201,1909,
+Rosenparken 14 8881 Thorsø,14,598000.0,10-05-1995,Alm.,4013,5,Villa,149,1973,
+Jernbanegade 68 8881 Thorsø,68,548000.0,09-05-1995,Alm.,5320,3,Villa,103,1952,
+Boskovvej 1 8881 Thorsø,1,898000.0,21-04-1995,Alm.,6193,4,Stuehus,145,1923,
+Hovbro 13 8881 Thorsø,13,257000.0,18-03-1995,Alm.,0,4,Villa,178,1900,
+Marsvej 25 8881 Thorsø,25,790000.0,16-02-1995,Alm.,5197,5,Villa,152,1986,
+Overgårdsvej 30 8881 Thorsø,30,143000.0,17-01-1995,Alm.,2698,2,Villa,53,1953,
+Industrivej 11A 8881 Thorsø,0,850000.0,16-12-1994,Alm.,4670,8,Villa,182,1985,
+Skovdalsvej 8 8881 Thorsø,8,1232000.0,14-12-1994,Alm.,5500,6,Stuehus,224,1983,
+Elmevej 3 8881 Thorsø,3,700000.0,08-12-1994,Alm.,3684,6,Villa,190,1971,
+Rs Brochsvej 6 8881 Thorsø,6,375000.0,04-10-1994,Alm.,3125,4,Villa,120,1949,
+Rs Brochsvej 9 8881 Thorsø,9,262500.0,28-09-1994,Alm.,0,5,Villa,152,1977,
+Enslevvej 43 8881 Thorsø,43,791000.0,23-09-1994,Alm.,8071,3,Stuehus,98,1939,
+Møllevænget 49 8881 Thorsø,49,495000.0,02-09-1994,Alm.,4459,4,Villa,111,1980,
+Pittevej 9 8881 Thorsø,9,561148.0,19-08-1994,Alm.,3281,7,Villa,171,1934,
+Rs Brochsvej 4 8881 Thorsø,4,85000.0,14-07-1994,Alm.,1062,3,Villa,80,1948,
+Overgårdsvej 42 8881 Thorsø,42,420000.0,20-06-1994,Fam.,3360,3,Villa,125,1847,
+Kongensbrovej 15 8881 Thorsø,15,420000.0,20-06-1994,Fam.,3021,3,Villa,139,1848,
+Overgårdsvej 7 8881 Thorsø,7,300000.0,07-06-1994,Alm.,0,3,Villa,152,1936,
+Vestermarksvej 75 8881 Thorsø,75,568000.0,31-05-1994,Alm.,2989,7,Villa,190,1894,
+Rs Brochsvej 20 8881 Thorsø,20,325418.0,01-05-1994,Fam.,2428,4,Villa,134,1981,
+Enslevvej 45 8881 Thorsø,45,3000000.0,29-03-1994,Alm.,0,8,Stuehus,253,1929,
+Snuhøjvej 28 8881 Thorsø,28,750000.0,29-03-1994,Andet,3989,5,Stuehus,188,1940,
+Skovdalsvej 10 8881 Thorsø,10,738000.0,05-03-1994,Alm.,7380,4,Stuehus,100,1890,
+Thorsølundvej 27C 8881 Thorsø,0,428000.0,02-03-1994,Alm.,5783,3,Rækkehus,74,1983,
+Jernbanegade 4 8881 Thorsø,4,400000.0,03-02-1994,Alm.,2500,4,Villa,160,1911,
+Solskrænten 17 8881 Thorsø,17,615000.0,05-01-1994,Alm.,3236,7,Villa,190,1972,
+Vestermarksvej 90 8881 Thorsø,90,888000.0,10-12-1993,Alm.,5285,4,Stuehus,168,1900,
+Sallvej 24 8881 Thorsø,24,318000.0,23-11-1993,Alm.,3456,4,Villa,92,1953,
+Jernbanegade 11A 8881 Thorsø,0,694000.0,26-10-1993,Alm.,5338,4,Villa,130,1975,
+Thorsølundvej 3 8881 Thorsø,3,295000.0,22-10-1993,Alm.,2543,5,Villa,116,1947,
+Dalvej 3 8881 Thorsø,3,365000.0,13-10-1993,Alm.,4294,3,Villa,85,1959,
+Marsvej 18A 8881 Thorsø,0,214000.0,20-09-1993,Alm.,3508,2,Rækkehus,61,1987,
+Overgårdsvej 57 8881 Thorsø,57,235000.0,31-08-1993,Alm.,0,7,Villa,206,1939,
+Solskrænten 22 8881 Thorsø,22,662800.0,28-07-1993,Alm.,4041,4,Villa,164,1976,
+Solskrænten 13 8881 Thorsø,13,539000.0,05-06-1993,Alm.,0,6,Villa,183,1974,
+Jernbanegade 62 8881 Thorsø,62,350000.0,04-04-1993,Alm.,2916,4,Villa,120,1952,
+Forten 38 8881 Thorsø,38,700000.0,01-04-1993,Fam.,0,6,Stuehus,153,1929,
+Delingen 8 8881 Thorsø,8,495000.0,15-02-1993,Alm.,3300,3,Villa,150,1888,
+Overgårdsvej 41 8881 Thorsø,41,243000.0,27-01-1993,Alm.,3796,2,Villa,64,1930,
+Baunegårdsvej 2 8881 Thorsø,2,738000.0,21-12-1992,Alm.,4032,7,Villa,183,1932,
+Skolegade 1 8881 Thorsø,1,288000.0,19-12-1992,Alm.,3272,3,Villa,88,1952,
+Jernbanegade 26B 8881 Thorsø,0,2401039.0,17-08-1992,Alm.,0,4,Lejlighed,153,1923,
+Vesterbro 2 8881 Thorsø,2,225000.0,13-08-1992,Alm.,0,10,Villa,266,1928,
+Gelbrovej 34 8881 Thorsø,34,500000.0,18-05-1992,Alm.,3225,8,Stuehus,155,1860,
+Hovbro 23 8881 Thorsø,23,590000.0,01-05-1992,Fam.,0,4,Villa,153,1850,
+Klepgabsvej 3 8881 Thorsø,3,760000.0,27-03-1992,Alm.,5390,5,Stuehus,141,1928,
+Borggade 18 8881 Thorsø,18,348000.0,10-03-1992,Alm.,3866,4,Villa,90,1961,
+Delingen 4 8881 Thorsø,4,925000.0,02-03-1992,Alm.,8258,3,Stuehus,112,1800,
+Tingvej 10 8881 Thorsø,10,228270.0,09-02-1992,Alm.,1220,4,Villa,187,1933,
+Møllevænget 10 8881 Thorsø,10,600000.0,28-01-1992,Alm.,0,7,Villa,208,1979,

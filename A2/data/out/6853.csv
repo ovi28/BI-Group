@@ -1,0 +1,844 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Nordvej 39 6853 Vejers Strand,6853,1795000.0,24-05-2017,Alm.,11149,6,Sommerhus,161,1938,0 %
+Engesøvej 17 6853 Vejers Strand,6853,1450000.0,05-05-2017,Alm.,18831,4,Sommerhus,77,1988,0 %
+Kratvej 20 6853 Vejers Strand,6853,2700000.0,25-04-2017,Alm.,22131,5,Sommerhus,122,2007,
+Jafdalvej 19 6853 Vejers Strand,6853,2130000.0,06-04-2017,Alm.,14295,6,Sommerhus,149,1988,-15 %
+Nordvej 43 6853 Vejers Strand,6853,1003300.0,02-04-2017,Alm.,10033,6,Sommerhus,100,1933,
+Nordvej 41A 6853 Vejers Strand,6853,2717488.0,02-04-2017,Alm.,19137,5,Sommerhus,142,2016,
+Nordvej 19 6853 Vejers Strand,6853,3100000.0,31-03-2017,Alm.,16666,6,Sommerhus,186,2006,-17 %
+"Vejers Havvej 68A, 1. TV 6853 Vejers Strand",6853,840000.0,10-03-2017,Alm.,14736,3,Lejlighed,57,1993,-6 %
+Engesøvej 27 6853 Vejers Strand,6853,1265000.0,10-03-2017,Alm.,12650,5,Sommerhus,100,1992,-6 %
+Violvej 12 6853 Vejers Strand,6853,2475000.0,03-03-2017,Fam.,44196,4,Sommerhus,56,1962,
+Gøgevej 11 6853 Vejers Strand,6853,1512500.0,02-03-2017,Alm.,13750,3,Sommerhus,110,1972,-5 %
+Havstien 14 6853 Vejers Strand,6853,385000.0,26-02-2017,Alm.,4277,5,Sommerhus,90,1967,
+Gulspurvevej 3 6853 Vejers Strand,6853,1450000.0,12-02-2017,Alm.,18125,5,Sommerhus,80,1971,-3 %
+Risvej 20 6853 Vejers Strand,6853,837500.0,11-02-2017,Alm.,11964,3,Sommerhus,70,1968,
+Kratvej 3 6853 Vejers Strand,6853,2000000.0,06-02-2017,Alm.,16260,4,Sommerhus,123,1988,-2 %
+Mosevej 4 6853 Vejers Strand,6853,828750.0,03-02-2017,Fam.,6424,4,Sommerhus,129,1967,-58 %
+Kratvej 26 6853 Vejers Strand,6853,1180000.0,01-02-2017,Alm.,22692,3,Sommerhus,52,1959,-8 %
+Uglevej 5 6853 Vejers Strand,6853,667422.0,18-01-2017,Auktion,7945,5,Sommerhus,84,1963,
+Engesøvej 108 6853 Vejers Strand,6853,1000000.0,14-01-2017,Fam.,15384,4,Sommerhus,65,1974,-16 %
+Vejers Havvej 65 6853 Vejers Strand,6853,1742500.0,31-12-2016,Andet,19801,4,Sommerhus,88,1989,
+Mosevej 7 6853 Vejers Strand,6853,1041153.0,23-12-2016,Alm.,14262,4,Sommerhus,73,1937,
+Engesøvej 90 6853 Vejers Strand,6853,2550000.0,19-12-2016,Alm.,20400,4,Sommerhus,125,2010,-2 %
+Vejers Havvej 75B 6853 Vejers Strand,6853,786250.0,15-12-2016,Fam.,10211,4,Sommerhus,77,1974,
+Bjærgevej 11 6853 Vejers Strand,6853,138375.0,13-12-2016,Fam.,941,5,Sommerhus,147,2004,
+Engesøvej 117 6853 Vejers Strand,6853,500000.0,07-12-2016,Fam.,5882,4,Sommerhus,85,1977,
+Tyttebærvej 15 6853 Vejers Strand,6853,2000000.0,18-10-2016,Fam.,11049,6,Sommerhus,181,1992,
+Aavej 19 6853 Vejers Strand,6853,2065000.0,13-10-2016,Alm.,19299,4,Sommerhus,107,2003,-6 %
+Mågevej 11 6853 Vejers Strand,6853,1225000.0,07-10-2016,Alm.,14939,6,Sommerhus,82,1922,-6 %
+"Mågevej 8G, ST 6853 Vejers Strand",6853,525000.0,01-10-2016,Fam.,8898,3,Sommerhus,59,1937,
+Snogevej 20 6853 Vejers Strand,6853,1580000.0,28-09-2016,Alm.,20256,3,Sommerhus,78,1986,-1 %
+Risvej 17 6853 Vejers Strand,6853,700000.0,23-09-2016,Fam.,20000,3,Sommerhus,35,1940,
+Kratvej 16 6853 Vejers Strand,6853,1957500.0,21-09-2016,Fam.,24778,6,Sommerhus,79,1954,
+Torskevej 4 6853 Vejers Strand,6853,2812500.0,19-09-2016,Alm.,20529,6,Sommerhus,137,2008,-4 %
+Tyttebærvej 16 6853 Vejers Strand,6853,2365000.0,11-09-2016,Alm.,10605,8,Sommerhus,223,1993,
+Nordvej 11. 2 6853 Vejers Strand,6853,1017500.0,09-09-2016,Alm.,16411,4,Sommerhus,62,1992,
+Spættevej 5 6853 Vejers Strand,6853,1665000.0,31-08-2016,Alm.,15707,4,Sommerhus,106,1967,-7 %
+Ørnevej 10 6853 Vejers Strand,6853,875000.0,30-08-2016,Alm.,15909,4,Sommerhus,55,1970,-12 %
+Fugltoft 18 6853 Vejers Strand,6853,1000000.0,24-08-2016,Alm.,10416,5,Sommerhus,96,1988,
+Vejers Havvej 21 6853 Vejers Strand,6853,700000.0,22-08-2016,Alm.,8974,4,Sommerhus,78,1975,
+Risvej 31 6853 Vejers Strand,6853,625000.0,18-08-2016,Andet,8223,4,Sommerhus,76,1965,
+Nordvej 11. 22 6853 Vejers Strand,6853,1085000.0,30-07-2016,Alm.,13562,3,Sommerhus,80,1994,
+Spættevej 1B 6853 Vejers Strand,6853,1400000.0,24-07-2016,Alm.,12173,6,Sommerhus,115,1966,-8 %
+Rådyrvej 15 6853 Vejers Strand,6853,1625000.0,19-07-2016,Alm.,11130,4,Sommerhus,146,1991,-10 %
+"Mågevej 8E, 1. TH 6853 Vejers Strand",6853,450000.0,02-07-2016,Alm.,9574,3,Sommerhus,47,1937,
+Mosevej 1 6853 Vejers Strand,6853,1340000.0,02-07-2016,Alm.,15402,5,Sommerhus,87,1952,-4 %
+Vejers Sydstrand 1. 10 6853 Vejers Strand,6853,500000.0,27-06-2016,Alm.,17857,2,Sommerhus,28,1961,
+Mågevej 6 6853 Vejers Strand,6853,730000.0,24-06-2016,Alm.,10138,3,Sommerhus,72,1959,
+Vejers Sydstrand 12 6853 Vejers Strand,6853,1520000.0,19-06-2016,Alm.,18536,4,Sommerhus,82,1994,-8 %
+Rylevej 30 6853 Vejers Strand,6853,1100000.0,14-06-2016,Alm.,15714,3,Sommerhus,70,1953,
+Nordvej 63A 6853 Vejers Strand,6853,1326258.0,13-06-2016,Fam.,15603,4,Sommerhus,85,1996,
+Kræmmervej 43 6853 Vejers Strand,6853,835000.0,05-06-2016,Alm.,8106,4,Sommerhus,103,2017,-7 %
+Jafdalvej 37 6853 Vejers Strand,6853,980000.0,03-06-2016,Andet,6012,5,Sommerhus,163,1992,
+Gulspurvevej 13 6853 Vejers Strand,6853,1300000.0,30-05-2016,Alm.,14130,4,Sommerhus,92,1985,-10 %
+Nålevej 2 6853 Vejers Strand,6853,2100000.0,25-05-2016,Andet,15441,3,Sommerhus,136,2009,
+Uglevej 2 6853 Vejers Strand,6853,675000.0,24-05-2016,Alm.,10384,4,Sommerhus,65,1939,-15 %
+Vejers Sydstrand 10 6853 Vejers Strand,6853,900000.0,17-05-2016,Alm.,10975,5,Sommerhus,82,1986,
+Engesøvej 22 6853 Vejers Strand,6853,1165000.0,14-05-2016,Alm.,20086,4,Sommerhus,58,1988,-3 %
+Bjærgevej 8 6853 Vejers Strand,6853,1800000.0,12-05-2016,Alm.,27692,5,Sommerhus,65,1931,-18 %
+Fugltoft 15 6853 Vejers Strand,6853,1100000.0,28-04-2016,Alm.,11458,5,Sommerhus,96,1988,-12 %
+Vejers Havvej 3 6853 Vejers Strand,6853,800000.0,27-04-2016,Alm.,12698,6,Sommerhus,63,1964,-11 %
+Engesøvej 107 6853 Vejers Strand,6853,1275000.0,24-04-2016,Alm.,14825,4,Sommerhus,86,1974,-4 %
+Uglevej 15 6853 Vejers Strand,6853,700000.0,24-04-2016,Alm.,12068,4,Sommerhus,58,1935,
+Rylevej 22 6853 Vejers Strand,6853,665000.0,22-04-2016,Alm.,14456,3,Sommerhus,46,1950,
+Ørnevej 31 6853 Vejers Strand,6853,960000.0,20-04-2016,Alm.,15737,4,Sommerhus,61,1968,
+Torskevej 1 6853 Vejers Strand,6853,1350000.0,20-04-2016,Alm.,15340,3,Sommerhus,88,1973,-10 %
+Spættevej 2 6853 Vejers Strand,6853,1275000.0,15-04-2016,Alm.,17465,4,Sommerhus,73,1982,
+Spættevej 6 6853 Vejers Strand,6853,905000.0,15-04-2016,Alm.,15083,3,Sommerhus,60,1960,-9 %
+Uglevej 1 6853 Vejers Strand,6853,1425000.0,06-04-2016,Alm.,17378,4,Sommerhus,82,2008,
+Vibevej 3 6853 Vejers Strand,6853,324166.0,22-03-2016,Fam.,7047,4,Sommerhus,46,1950,
+Gøgevej 28 6853 Vejers Strand,6853,750000.0,19-03-2016,Alm.,11194,4,Sommerhus,67,1960,
+Nordvej 47A 6853 Vejers Strand,6853,2550000.0,17-03-2016,Alm.,18345,5,Sommerhus,139,1993,-5 %
+Rådyrvej 17A 6853 Vejers Strand,6853,125000.0,17-03-2016,Fam.,1116,5,Sommerhus,112,1990,
+Risvej 7 6853 Vejers Strand,6853,1500000.0,16-03-2016,Alm.,20547,4,Sommerhus,73,1969,-12 %
+Vejers Havvej 11E 6853 Vejers Strand,6853,995000.0,15-03-2016,Fam.,16864,2,Sommerhus,59,1877,
+Jafdalvej 33 6853 Vejers Strand,6853,1350000.0,08-03-2016,Alm.,19852,4,Sommerhus,68,1984,-3 %
+Nordvej 39 6853 Vejers Strand,6853,975000.0,08-02-2016,Alm.,14130,4,Sommerhus,69,1975,-11 %
+Risvej 30 6853 Vejers Strand,6853,956250.0,07-02-2016,Fam.,6929,6,Sommerhus,138,1969,
+Nordvej 39 6853 Vejers Strand,6853,980000.0,03-02-2016,Alm.,14848,4,Sommerhus,66,1975,-11 %
+Engesøvej 5 6853 Vejers Strand,6853,1360000.0,22-01-2016,Fam.,14166,4,Sommerhus,96,1990,
+Nordvej 39 6853 Vejers Strand,6853,1225000.0,20-01-2016,Alm.,17753,4,Sommerhus,69,1975,0 %
+Nordvej 39 6853 Vejers Strand,6853,1300000.0,20-01-2016,Alm.,19696,4,Sommerhus,66,1975,0 %
+Nordvej 39 6853 Vejers Strand,6853,1275000.0,20-01-2016,Alm.,18478,4,Sommerhus,69,1975,0 %
+Rådyrvej 14 6853 Vejers Strand,6853,335000.0,12-01-2016,Andet,4926,4,Sommerhus,68,1978,-66 %
+Havstien 10 6853 Vejers Strand,6853,1000000.0,15-12-2015,Fam.,6024,8,Sommerhus,166,1973,
+Rylevej 24 6853 Vejers Strand,6853,1780000.0,11-12-2015,Alm.,19777,4,Sommerhus,90,1972,
+Nordvej 11. 17 6853 Vejers Strand,6853,900000.0,08-12-2015,Alm.,14516,4,Sommerhus,62,1992,
+Tyttebærvej 6A 6853 Vejers Strand,6853,1493600.0,06-12-2015,Fam.,18670,4,Sommerhus,80,2014,
+Spættevej 9 6853 Vejers Strand,6853,1575000.0,05-12-2015,Alm.,20192,4,Sommerhus,78,2002,-7 %
+Rylevej 14 6853 Vejers Strand,6853,300000.0,16-11-2015,Fam.,4545,4,Sommerhus,66,1978,
+Gulspurvevej 12 6853 Vejers Strand,6853,1120000.0,15-11-2015,Alm.,20740,3,Sommerhus,54,1968,-6 %
+Nordvej 39 6853 Vejers Strand,6853,1140000.0,13-11-2015,Alm.,17272,4,Sommerhus,66,1975,
+Nordvej 39 6853 Vejers Strand,6853,1235000.0,09-11-2015,Alm.,17898,4,Sommerhus,69,1975,
+Nordvej 39 6853 Vejers Strand,6853,1092500.0,09-11-2015,Alm.,16553,4,Sommerhus,66,1975,
+Nordvej 39 6853 Vejers Strand,6853,1100000.0,06-11-2015,Alm.,15942,4,Sommerhus,69,1975,0 %
+Sydvej 31 6853 Vejers Strand,6853,3800000.0,26-10-2015,Alm.,38775,5,Sommerhus,98,1936,-4 %
+Rådyrvej 5 6853 Vejers Strand,6853,1360000.0,18-10-2015,Fam.,19428,3,Sommerhus,70,1972,
+Aarrildsøvej 20 6853 Vejers Strand,6853,1510000.0,12-10-2015,Fam.,19610,4,Sommerhus,77,1980,
+Risvej 15 6853 Vejers Strand,6853,1687500.0,09-09-2015,Alm.,22804,5,Sommerhus,74,1959,
+Havstien 12 6853 Vejers Strand,6853,2380000.0,07-09-2015,Alm.,19349,5,Sommerhus,123,1974,-5 %
+Mågevej 19 6853 Vejers Strand,6853,1175000.0,07-09-2015,Alm.,14687,4,Sommerhus,80,1929,
+Vejers Havvej 57 6853 Vejers Strand,6853,1385000.0,29-08-2015,Alm.,20072,3,Sommerhus,69,1993,-8 %
+Nordvej 72 6853 Vejers Strand,6853,1335000.0,24-08-2015,Alm.,18541,3,Sommerhus,72,1957,-11 %
+Risvej 41 6853 Vejers Strand,6853,278571.0,01-08-2015,Alm.,3979,4,Sommerhus,70,1960,
+Snogevej 14 6853 Vejers Strand,6853,1160000.0,23-07-2015,Alm.,14146,5,Sommerhus,82,1970,-11 %
+Ørnevej 19 6853 Vejers Strand,6853,960000.0,22-07-2015,Alm.,11707,3,Sommerhus,82,1975,-17 %
+Ørnevej 27 6853 Vejers Strand,6853,1605000.0,03-07-2015,Alm.,19814,4,Sommerhus,81,1969,-4 %
+Spættevej 1A 6853 Vejers Strand,6853,1550000.0,03-07-2015,Alm.,10130,5,Sommerhus,153,1989,-3 %
+"Mågevej 8E, 1. TV 6853 Vejers Strand",6853,310000.0,25-06-2015,Alm.,6326,3,Sommerhus,49,1937,-22 %
+Nålevej 4 6853 Vejers Strand,6853,950000.0,24-06-2015,Alm.,9500,5,Sommerhus,100,1970,-17 %
+Rådyrvej 1 6853 Vejers Strand,6853,1650000.0,14-06-2015,Alm.,12692,4,Sommerhus,130,1970,-3 %
+Uglevej 8 6853 Vejers Strand,6853,62500.0,08-06-2015,Alm.,1136,4,Sommerhus,55,1932,
+Kratvej 44 6853 Vejers Strand,6853,800000.0,03-06-2015,Fam.,8080,4,Sommerhus,99,1967,
+Nordvej 71 6853 Vejers Strand,6853,1961200.0,02-06-2015,Fam.,18678,5,Sommerhus,105,1974,
+Sydvej 23 6853 Vejers Strand,6853,1026100.0,01-06-2015,Fam.,16550,3,Sommerhus,62,1950,
+Sydvej 43A 6853 Vejers Strand,6853,1132500.0,27-05-2015,Alm.,10785,4,Sommerhus,105,2006,
+Nordvej 59A 6853 Vejers Strand,6853,2337500.0,17-05-2015,Fam.,23611,4,Sommerhus,99,2005,
+Ternevej 6 6853 Vejers Strand,6853,1165000.0,06-05-2015,Alm.,20803,4,Sommerhus,56,1961,-9 %
+Nordvej 11. 16 6853 Vejers Strand,6853,975000.0,04-05-2015,Alm.,15725,4,Sommerhus,62,1992,-2 %
+Fugltoft 9 6853 Vejers Strand,6853,1200000.0,03-05-2015,Alm.,12500,5,Sommerhus,96,1988,-14 %
+Bjærgevej 7 6853 Vejers Strand,6853,3750000.0,23-04-2015,Alm.,24038,5,Sommerhus,156,1975,
+Vejers Havvej 58B 6853 Vejers Strand,6853,1800000.0,23-04-2015,Alm.,35294,2,Engroshandel,51,2002,
+Nordvej 78 6853 Vejers Strand,6853,1225000.0,23-04-2015,Alm.,14939,4,Sommerhus,82,1963,-6 %
+Engesøvej 73 6853 Vejers Strand,6853,1375000.0,17-04-2015,Alm.,16176,4,Sommerhus,85,1984,-8 %
+Bjærgevej 21 6853 Vejers Strand,6853,2600000.0,01-04-2015,Alm.,26000,3,Sommerhus,100,2016,
+Havstien 5 6853 Vejers Strand,6853,1400000.0,26-03-2015,Alm.,26923,3,Sommerhus,52,1967,-7 %
+Havstien 1 6853 Vejers Strand,6853,1275000.0,23-03-2015,Fam.,17000,5,Sommerhus,75,1964,
+Engesøvej 118 6853 Vejers Strand,6853,1500000.0,21-03-2015,Alm.,15463,4,Sommerhus,97,1993,-9 %
+Vejers Havvej 81D 6853 Vejers Strand,6853,1535000.0,19-03-2015,Alm.,38375,2,Engroshandel,40,2001,
+Vejers Havvej 58 6853 Vejers Strand,6853,945000.0,06-03-2015,Alm.,7875,6,Villa,120,1957,
+Ørnevej 8 6853 Vejers Strand,6853,950000.0,23-02-2015,Alm.,17592,4,Sommerhus,54,1969,-5 %
+Risvej 25A 6853 Vejers Strand,6853,1530000.0,14-02-2015,Fam.,16105,3,Sommerhus,95,2012,
+Nordvej 11. 15 6853 Vejers Strand,6853,1015000.0,12-02-2015,Alm.,15615,4,Sommerhus,65,1992,
+Engesøvej 94 6853 Vejers Strand,6853,1475000.0,07-02-2015,Alm.,21376,4,Sommerhus,69,1985,-8 %
+Torskevej 18 6853 Vejers Strand,6853,675000.0,06-02-2015,Alm.,8881,4,Sommerhus,76,1976,
+Ørnevej 29 6853 Vejers Strand,6853,1041250.0,13-01-2015,Fam.,8677,5,Sommerhus,120,2006,
+Vejers Sydstrand 1. 17 6853 Vejers Strand,6853,350000.0,15-12-2014,Fam.,0,2,Sommerhus,24,1961,
+Stendalsvej 5 6853 Vejers Strand,6853,786250.0,11-12-2014,Fam.,11735,4,Sommerhus,67,1964,
+Rylevej 34 6853 Vejers Strand,6853,624000.0,05-12-2014,Fam.,7428,5,Sommerhus,84,1954,
+Nordvej 96 6853 Vejers Strand,6853,1657500.0,01-12-2014,Fam.,20981,4,Sommerhus,79,1930,
+Engesøvej 71 6853 Vejers Strand,6853,1485000.0,26-11-2014,Alm.,14142,4,Sommerhus,105,1982,-11 %
+Kræmmervej 41 6853 Vejers Strand,6853,900000.0,14-11-2014,Alm.,8411,4,Sommerhus,107,2015,-10 %
+Nordvej 11. 3 6853 Vejers Strand,6853,950000.0,12-11-2014,Alm.,15322,4,Sommerhus,62,1992,
+Ternevej 3A 6853 Vejers Strand,6853,399500.0,05-11-2014,Fam.,7263,3,Sommerhus,55,1961,
+Rådyrvej 10 6853 Vejers Strand,6853,900000.0,13-10-2014,Fam.,13846,3,Sommerhus,65,1971,
+Vejers Havvej 6 6853 Vejers Strand,6853,1062500.0,12-10-2014,Fam.,26562,3,Sommerhus,40,1960,
+Gulspurvevej 2 6853 Vejers Strand,6853,1162500.0,11-10-2014,Alm.,12916,4,Sommerhus,90,1969,-5 %
+Mosevej 5 6853 Vejers Strand,6853,1912500.0,01-10-2014,Fam.,18935,4,Sommerhus,101,1934,
+Sydvej 19 6853 Vejers Strand,6853,3100000.0,25-09-2014,Alm.,28440,5,Sommerhus,109,1993,
+"Mågevej 8C, 1. TV 6853 Vejers Strand",6853,450000.0,23-09-2014,Alm.,7894,3,Sommerhus,57,1937,
+Torskevej 3 6853 Vejers Strand,6853,575000.0,22-09-2014,Fam.,7770,4,Sommerhus,74,1971,
+Lyngdalsvej 7 6853 Vejers Strand,6853,832700.0,02-09-2014,Fam.,19365,3,Sommerhus,43,1965,
+Mosevej 10 6853 Vejers Strand,6853,1550000.0,20-08-2014,Alm.,22463,4,Sommerhus,69,1980,-8 %
+Ørnevej 12 6853 Vejers Strand,6853,1500000.0,18-08-2014,Alm.,17857,4,Sommerhus,84,1969,-6 %
+"Vejers Havvej 17, ST. 2 6853 Vejers Strand",6853,1375000.0,07-08-2014,Alm.,39285,2,Anden beboelse,35,1975,-8 %
+Rylevej 15 6853 Vejers Strand,6853,1420000.0,17-07-2014,Alm.,22187,4,Sommerhus,64,1937,
+Nordvej 28 6853 Vejers Strand,6853,1200000.0,14-07-2014,Fam.,23076,5,Sommerhus,52,1950,
+Kratvej 5 6853 Vejers Strand,6853,1165000.0,11-07-2014,Alm.,19745,3,Sommerhus,59,1959,-10 %
+Vejers Sydstrand 1. 22 6853 Vejers Strand,6853,525000.0,30-06-2014,Alm.,0,2,Sommerhus,31,1961,
+Kræmmervej 11 6853 Vejers Strand,6853,1040000.0,21-06-2014,Alm.,13866,4,Sommerhus,75,1969,-13 %
+Mosevej 8 6853 Vejers Strand,6853,1025000.0,09-06-2014,Alm.,17372,3,Sommerhus,59,1966,-14 %
+Vejers Sydstrand 1. 9 6853 Vejers Strand,6853,300000.0,10-05-2014,Fam.,0,2,Sommerhus,31,1961,
+Vejers Sydstrand 1. 15 6853 Vejers Strand,6853,480000.0,08-05-2014,Alm.,0,2,Sommerhus,28,1961,
+Rylevej 4 6853 Vejers Strand,6853,365000.0,24-04-2014,Fam.,9125,2,Sommerhus,40,1977,
+Nordvej 94 6853 Vejers Strand,6853,2337500.0,26-03-2014,Fam.,18850,5,Sommerhus,124,2009,
+Engesøvej 64 6853 Vejers Strand,6853,1350000.0,14-03-2014,Alm.,19852,4,Sommerhus,68,1978,
+Rådyrvej 18 6853 Vejers Strand,6853,1232500.0,13-03-2014,Fam.,20889,3,Sommerhus,59,1972,
+Gøgevej 20 6853 Vejers Strand,6853,365000.0,17-02-2014,Fam.,3802,6,Sommerhus,96,1976,
+Engesøvej 53 6853 Vejers Strand,6853,1375000.0,05-02-2014,Alm.,13613,6,Sommerhus,101,1985,-8 %
+Rådyrvej 22 6853 Vejers Strand,6853,1578000.0,16-01-2014,Alm.,17533,5,Sommerhus,90,1982,-1 %
+Engesøvej 63 6853 Vejers Strand,6853,1530000.0,14-01-2014,Alm.,11417,7,Sommerhus,134,1981,
+Nordvej 77 6853 Vejers Strand,6853,450000.0,01-01-2014,Fam.,7500,5,Sommerhus,60,1927,
+Kræmmervej 25 6853 Vejers Strand,6853,310269.0,31-12-2013,Fam.,3198,6,Sommerhus,97,1995,
+Engesøvej 13 6853 Vejers Strand,6853,1317500.0,16-12-2013,Fam.,16067,4,Sommerhus,82,1991,
+Risvej 22 6853 Vejers Strand,6853,1220000.0,27-11-2013,Fam.,27111,3,Sommerhus,45,1955,
+Gøgevej 27 6853 Vejers Strand,6853,1050000.0,24-09-2013,Alm.,14189,3,Sommerhus,74,1961,-19 %
+Ørnevej 32 6853 Vejers Strand,6853,1077000.0,12-09-2013,Fam.,16569,4,Sommerhus,65,1972,
+Vejers Havvej 16 6853 Vejers Strand,6853,900000.0,10-09-2013,Alm.,10465,3,Sommerhus,86,1981,-25 %
+Lyngdalsvej 6 6853 Vejers Strand,6853,1630000.0,06-09-2013,Alm.,18314,4,Sommerhus,89,1964,
+Muffparken 7 6853 Vejers Strand,6853,717000.0,02-09-2013,Alm.,8337,5,Sommerhus,86,1968,
+Vejers Havvej 18 6853 Vejers Strand,6853,850000.0,28-08-2013,Alm.,5379,5,Sommerhus,158,2015,-5 %
+Violvej 9 6853 Vejers Strand,6853,525000.0,25-08-2013,Fam.,7000,5,Sommerhus,75,1961,
+Torskevej 14 6853 Vejers Strand,6853,950000.0,19-08-2013,Alm.,18269,3,Sommerhus,52,1977,-13 %
+Rylevej 27 6853 Vejers Strand,6853,1050000.0,08-08-2013,Alm.,13815,4,Sommerhus,76,2015,5 %
+"Mågevej 8B, ST 6853 Vejers Strand",6853,595000.0,29-07-2013,Alm.,9754,3,Sommerhus,61,1937,
+Bjærgevej 14 6853 Vejers Strand,6853,1725000.0,25-07-2013,Andet,13582,4,Sommerhus,127,2008,
+Engesøvej 80 6853 Vejers Strand,6853,1400000.0,08-07-2013,Fam.,14285,5,Sommerhus,98,1980,
+Rådyrvej 7 6853 Vejers Strand,6853,920000.0,19-06-2013,Alm.,16727,4,Sommerhus,55,1966,-8 %
+Bjærgevej 31 6853 Vejers Strand,6853,2100000.0,10-06-2013,Alm.,24418,4,Sommerhus,86,1928,
+Mågevej 13 6853 Vejers Strand,6853,649500.0,24-05-2013,Alm.,7552,4,Sommerhus,86,1928,
+Nordvej 100 6853 Vejers Strand,6853,2845000.0,24-05-2013,Alm.,26100,5,Sommerhus,109,1957,0 %
+Muffparken 8 6853 Vejers Strand,6853,810000.0,19-05-2013,Alm.,14727,4,Sommerhus,55,1968,-25 %
+Rosenvej 8 6853 Vejers Strand,6853,1750000.0,18-05-2013,Alm.,33653,3,Sommerhus,52,1937,-26 %
+Risvej 16 6853 Vejers Strand,6853,1450000.0,25-04-2013,Alm.,26363,3,Sommerhus,55,1950,-3 %
+Risvej 21 6853 Vejers Strand,6853,1317500.0,14-04-2013,Fam.,18298,3,Sommerhus,72,1987,
+Tyttebærvej 2A 6853 Vejers Strand,6853,912500.0,25-02-2013,Alm.,10138,4,Sommerhus,90,1937,
+Mågevej 2A 6853 Vejers Strand,6853,900000.0,19-02-2013,Alm.,15000,4,Sommerhus,60,1996,
+Spurvevej 2 6853 Vejers Strand,6853,2350000.0,15-02-2013,Alm.,28313,4,Sommerhus,83,2012,-11 %
+Vejers Sydstrand 1. 26 6853 Vejers Strand,6853,562500.0,31-01-2013,Alm.,0,2,Sommerhus,39,1961,-6 %
+Rosenvej 5 6853 Vejers Strand,6853,4224603.0,11-01-2013,Auktion,28164,6,Villa,150,2006,
+Vejers Havvej 48 6853 Vejers Strand,6853,255000.0,17-12-2012,Fam.,2217,4,Sommerhus,115,1970,
+Spættevej 11B 6853 Vejers Strand,6853,950000.0,11-12-2012,Alm.,20212,4,Sommerhus,47,1957,-9 %
+Gøgevej 8 6853 Vejers Strand,6853,865500.0,26-11-2012,Fam.,8165,4,Sommerhus,106,1991,-57 %
+Gulspurvevej 19 6853 Vejers Strand,6853,1062500.0,21-11-2012,Fam.,16346,4,Sommerhus,65,1972,
+Kratvej 56 6853 Vejers Strand,6853,1315000.0,12-11-2012,Alm.,19338,6,Sommerhus,68,1965,-12 %
+Peders Vej 9 6853 Vejers Strand,6853,1065000.0,28-10-2012,Fam.,16136,3,Sommerhus,66,1976,
+Engesøvej 92 6853 Vejers Strand,6853,2465000.0,18-10-2012,Fam.,17862,4,Sommerhus,138,2011,
+Spættevej 16 6853 Vejers Strand,6853,850000.0,10-10-2012,Alm.,11643,4,Sommerhus,73,1975,
+Gulspurvevej 23 6853 Vejers Strand,6853,1550000.0,07-10-2012,Alm.,16666,4,Sommerhus,93,1979,-10 %
+Nordvej 17A 6853 Vejers Strand,6853,3100000.0,17-09-2012,Alm.,26271,5,Sommerhus,118,1935,-11 %
+Nordvej 29 6853 Vejers Strand,6853,1565000.0,12-09-2012,Alm.,11766,6,Sommerhus,133,1958,-12 %
+Engesøvej 24 6853 Vejers Strand,6853,1925000.0,21-08-2012,Alm.,17342,6,Sommerhus,111,1993,-8 %
+Rylevej 25 6853 Vejers Strand,6853,1450000.0,21-07-2012,Alm.,9062,4,Sommerhus,160,2015,-15 %
+Bjærgevej 12 6853 Vejers Strand,6853,3450000.0,20-07-2012,Alm.,28991,5,Sommerhus,119,2008,-12 %
+Havstien 16 6853 Vejers Strand,6853,2275000.0,11-07-2012,Alm.,35000,4,Sommerhus,65,1969,-9 %
+Vibevej 7 6853 Vejers Strand,6853,1065000.0,11-07-2012,Alm.,15000,4,Sommerhus,71,1935,
+Risvej 36 6853 Vejers Strand,6853,5700000.0,06-07-2012,Alm.,19000,11,Sommerhus,300,2008,
+Mågevej 12 6853 Vejers Strand,6853,1200000.0,03-07-2012,Alm.,17647,4,Sommerhus,68,1973,-20 %
+Rosenvej 19 6853 Vejers Strand,6853,2150000.0,27-06-2012,Alm.,25903,3,Sommerhus,83,1985,-46 %
+Fugltoft 4 6853 Vejers Strand,6853,722500.0,18-06-2012,Fam.,7526,5,Sommerhus,96,1988,
+Vibevej 2 6853 Vejers Strand,6853,475000.0,13-06-2012,Alm.,7421,3,Sommerhus,64,1954,
+Mosevej 20 6853 Vejers Strand,6853,2167500.0,31-05-2012,Fam.,20448,4,Sommerhus,106,2003,
+Muffparken 1 6853 Vejers Strand,6853,2390000.0,30-05-2012,Alm.,20782,7,Sommerhus,115,1968,-8 %
+Havstien 9 6853 Vejers Strand,6853,1710000.0,22-05-2012,Alm.,24084,3,Sommerhus,71,1978,-4 %
+Engesøvej 21 6853 Vejers Strand,6853,4295000.0,11-05-2012,Alm.,22253,5,Sommerhus,193,1991,
+Mågevej 25 6853 Vejers Strand,6853,1195000.0,20-03-2012,Alm.,12849,5,Sommerhus,93,1940,
+Aarrildsøvej 14 6853 Vejers Strand,6853,1429300.0,28-01-2012,Alm.,14888,4,Sommerhus,96,1977,
+Tyttebærvej 1A 6853 Vejers Strand,6853,3300000.0,09-01-2012,Alm.,23913,5,Sommerhus,138,2008,-6 %
+Nordvej 90A 6853 Vejers Strand,6853,1300000.0,26-12-2011,Alm.,8965,5,Sommerhus,145,2012,-7 %
+Peders Vej 18 6853 Vejers Strand,6853,1750000.0,22-12-2011,Alm.,20833,4,Sommerhus,84,1994,-11 %
+Vejers Sydstrand 1. 20 6853 Vejers Strand,6853,500000.0,21-12-2011,Alm.,0,2,Sommerhus,31,1961,
+Muffparken 17 6853 Vejers Strand,6853,1200000.0,19-12-2011,Fam.,17910,4,Sommerhus,67,1968,
+Nålevej 10 6853 Vejers Strand,6853,600000.0,14-12-2011,Fam.,6896,5,Sommerhus,87,1967,
+Gøgevej 2 6853 Vejers Strand,6853,1000000.0,13-12-2011,Alm.,14285,4,Villa,70,1972,-9 %
+Risvej 54 6853 Vejers Strand,6853,2245000.0,21-11-2011,Fam.,21380,5,Sommerhus,105,1960,
+"Vejers Havvej 60, 1 6853 Vejers Strand",6853,1400000.0,28-10-2011,Alm.,28000,2,Anden beboelse,50,1995,
+Fugltoft 8 6853 Vejers Strand,6853,1900000.0,11-10-2011,Alm.,17272,5,Sommerhus,110,1988,-16 %
+Havstien 2A 6853 Vejers Strand,6853,1317500.0,04-10-2011,Fam.,0,6,Sommerhus,107,1961,
+Spættevej 22 6853 Vejers Strand,6853,2350000.0,28-09-2011,Alm.,20614,4,Sommerhus,114,2004,-6 %
+Risvej 1 6853 Vejers Strand,6853,1700000.0,27-09-2011,Fam.,9604,6,Sommerhus,177,1957,
+Engesøvej 68 6853 Vejers Strand,6853,1275000.0,13-09-2011,Fam.,13281,4,Sommerhus,96,1983,
+Jafdalvej 67 6853 Vejers Strand,6853,2700000.0,21-08-2011,Alm.,25961,5,Sommerhus,104,1987,-7 %
+Peders Vej 10 6853 Vejers Strand,6853,1275000.0,25-07-2011,Alm.,19318,3,Sommerhus,66,1973,-9 %
+Mosevej 22 6853 Vejers Strand,6853,4324175.0,15-07-2011,Alm.,13103,10,Sommerhus,330,2013,-33 %
+Rylevej 19 6853 Vejers Strand,6853,125000.0,15-07-2011,Alm.,3125,5,Sommerhus,40,1927,
+Violvej 10 6853 Vejers Strand,6853,1300000.0,01-06-2011,Andet,16250,4,Sommerhus,80,1961,
+Nordvej 11. 6 6853 Vejers Strand,6853,1200000.0,24-05-2011,Alm.,19354,4,Sommerhus,62,1992,
+Engesøvej 1 6853 Vejers Strand,6853,2600000.0,20-05-2011,Alm.,13197,8,Sommerhus,197,1995,-7 %
+Spurvevej 5 6853 Vejers Strand,6853,2000000.0,03-05-2011,Alm.,28169,5,Sommerhus,71,1956,-5 %
+Ternevej 10 6853 Vejers Strand,6853,1500000.0,18-03-2011,Alm.,21428,4,Sommerhus,70,1972,-4 %
+Risvej 8 6853 Vejers Strand,6853,1275000.0,04-03-2011,Alm.,9107,5,Sommerhus,140,2014,-7 %
+Kræmmervej 9 6853 Vejers Strand,6853,1345000.0,28-02-2011,Alm.,18680,3,Sommerhus,72,1969,0 %
+Nordvej 25B 6853 Vejers Strand,6853,1400000.0,24-01-2011,Alm.,11864,4,Sommerhus,118,2011,-18 %
+Nordvej 57 6853 Vejers Strand,6853,2400000.0,10-01-2011,Alm.,26373,4,Sommerhus,91,1978,-13 %
+Vejers Sydstrand 1. 21 6853 Vejers Strand,6853,575000.0,06-01-2011,Alm.,0,2,Sommerhus,31,1961,
+Vejers Havvej 41 6853 Vejers Strand,6853,959315.0,28-12-2010,Fam.,6149,5,Sommerhus,156,2010,
+Snogevej 4 6853 Vejers Strand,6853,1550000.0,16-12-2010,Alm.,23134,4,Sommerhus,67,1985,-5 %
+Violvej 18 6853 Vejers Strand,6853,1615000.0,15-12-2010,Alm.,19457,7,Sommerhus,83,1964,
+Nordvej 26 6853 Vejers Strand,6853,539000.0,09-12-2010,Fam.,4855,4,Sommerhus,111,2004,-82 %
+Torskevej 30 6853 Vejers Strand,6853,977500.0,07-12-2010,Fam.,14810,4,Sommerhus,66,1973,
+Ørnevej 4 6853 Vejers Strand,6853,894900.0,14-11-2010,Fam.,16572,3,Sommerhus,54,1970,
+Muffparken 10 6853 Vejers Strand,6853,1500000.0,10-11-2010,Alm.,13043,5,Sommerhus,115,1968,-5 %
+Torskevej 19 6853 Vejers Strand,6853,1100000.0,02-11-2010,Alm.,15277,4,Sommerhus,72,1973,-13 %
+Rylevej 6 6853 Vejers Strand,6853,103321.0,22-10-2010,Alm.,1614,5,Sommerhus,64,1968,
+Ternevej 11 6853 Vejers Strand,6853,583333.0,30-09-2010,Alm.,5608,5,Sommerhus,104,1918,
+Jafdalvej 87 6853 Vejers Strand,6853,1950000.0,22-09-2010,Alm.,10773,6,Sommerhus,181,1988,-19 %
+Kræmmervej 49 6853 Vejers Strand,6853,975000.0,16-09-2010,Alm.,6678,6,Stuehus,146,1870,
+Jafdalvej 79 6853 Vejers Strand,6853,1487500.0,09-09-2010,Fam.,16346,5,Sommerhus,91,1988,
+Engesøvej 4 6853 Vejers Strand,6853,1780000.0,12-08-2010,Alm.,19777,4,Sommerhus,90,1990,-4 %
+Fugltoft 7 6853 Vejers Strand,6853,1520000.0,30-07-2010,Alm.,15833,5,Sommerhus,96,1988,-5 %
+Muffparken 6 6853 Vejers Strand,6853,1310000.0,19-07-2010,Alm.,19552,4,Sommerhus,67,1968,-3 %
+Nålevej 6 6853 Vejers Strand,6853,1000000.0,06-07-2010,Alm.,0,4,Sommerhus,104,1966,
+Kratvej 11 6853 Vejers Strand,6853,1645000.0,20-06-2010,Alm.,31634,4,Sommerhus,52,1960,-12 %
+Mågevej 5 6853 Vejers Strand,6853,337500.0,08-06-2010,Fam.,3068,8,Sommerhus,110,1932,
+Nordvej 11. 12 6853 Vejers Strand,6853,925000.0,28-05-2010,Alm.,14919,4,Sommerhus,62,1992,
+Vejers Havvej 7 6853 Vejers Strand,6853,10800000.0,26-05-2010,Alm.,135000,7,"Ferie, andet",80,1971,
+Peders Vej 7 6853 Vejers Strand,6853,1310000.0,25-05-2010,Alm.,19264,4,Sommerhus,68,1980,
+Duevej 2 6853 Vejers Strand,6853,800000.0,17-05-2010,Alm.,9523,5,Sommerhus,84,1950,0 %
+Gulspurvevej 21 6853 Vejers Strand,6853,1550000.0,10-05-2010,Alm.,20129,4,Sommerhus,77,1973,0 %
+Gøgevej 4 6853 Vejers Strand,6853,2535000.0,03-05-2010,Fam.,15000,5,Sommerhus,169,1977,
+Jafdalvej 31 6853 Vejers Strand,6853,1572500.0,07-04-2010,Fam.,25362,4,Sommerhus,62,1984,
+Nordvej 116D 6853 Vejers Strand,6853,4250000.0,08-03-2010,Alm.,21573,7,Sommerhus,197,2003,
+Vejers Havvej 7C 6853 Vejers Strand,6853,2580000.0,01-03-2010,Alm.,21500,5,Sommerhus,120,2007,-4 %
+Nordvej 102A 6853 Vejers Strand,6853,3300000.0,16-02-2010,Alm.,27966,4,Sommerhus,118,2006,
+Jafdalvej 29 6853 Vejers Strand,6853,1100000.0,15-01-2010,Alm.,14102,4,Sommerhus,78,1984,
+Kræmmervej 39 6853 Vejers Strand,6853,2700000.0,17-12-2009,Alm.,25961,4,Sommerhus,104,2004,-8 %
+Uglevej 6 6853 Vejers Strand,6853,120000.0,11-12-2009,Alm.,3243,3,Sommerhus,37,1932,
+Rådyrvej 16 6853 Vejers Strand,6853,425000.0,01-12-2009,Fam.,4473,5,Sommerhus,95,1974,
+Mågevej 9 6853 Vejers Strand,6853,1360000.0,26-11-2009,Fam.,18133,4,Sommerhus,75,1959,
+Plantørstien 2 6853 Vejers Strand,6853,1085000.0,24-11-2009,Alm.,12329,4,Sommerhus,88,1935,-13 %
+Nordvej 11. 23 6853 Vejers Strand,6853,987500.0,06-11-2009,Alm.,15192,4,Sommerhus,65,1992,
+Ørnevej 13 6853 Vejers Strand,6853,1187000.0,04-11-2009,Alm.,12494,4,Sommerhus,95,1970,-5 %
+Engesøvej 23 6853 Vejers Strand,6853,2075000.0,28-10-2009,Alm.,23579,5,Sommerhus,88,1991,-8 %
+Gøgevej 10 6853 Vejers Strand,6853,1480000.0,07-10-2009,Alm.,10068,4,Sommerhus,147,1986,6 %
+Mosevej 4C 6853 Vejers Strand,6853,1375000.0,03-10-2009,Alm.,0,3,Sommerhus,88,1975,-8 %
+Gøgevej 25 6853 Vejers Strand,6853,1300000.0,08-09-2009,Fam.,14444,4,Sommerhus,90,1972,
+Mågevej 3 6853 Vejers Strand,6853,450000.0,13-08-2009,Fam.,9375,3,Sommerhus,48,1961,
+Rylevej 10 6853 Vejers Strand,6853,585000.0,31-07-2009,Alm.,6223,4,Sommerhus,94,2010,0 %
+Torskevej 23 6853 Vejers Strand,6853,1200000.0,27-07-2009,Alm.,20338,4,Sommerhus,59,1973,-6 %
+Violvej 11 6853 Vejers Strand,6853,1650000.0,24-07-2009,Alm.,27500,5,Sommerhus,60,1935,-13 %
+Vejers Havvej 76 6853 Vejers Strand,6853,892500.0,21-07-2009,Fam.,14875,3,Sommerhus,60,1974,
+Bjærgevej 13 6853 Vejers Strand,6853,3600000.0,14-07-2009,Alm.,36000,6,Sommerhus,100,1927,-15 %
+Risvej 5 6853 Vejers Strand,6853,1025000.0,24-06-2009,Alm.,18303,4,Sommerhus,56,1934,
+Nordvej 1 6853 Vejers Strand,6853,5400000.0,23-06-2009,Alm.,79411,42,Ukendt,68,1927,
+Fugltoft 2 6853 Vejers Strand,6853,1535000.0,21-06-2009,Alm.,15989,5,Sommerhus,96,1988,0 %
+Vejers Havvej 34 6853 Vejers Strand,6853,925000.0,23-05-2009,Alm.,6379,6,Sommerhus,145,2015,-23 %
+Vejers Sydstrand 4 6853 Vejers Strand,6853,2050000.0,04-05-2009,Alm.,17672,6,Sommerhus,116,1957,-10 %
+Uglevej 7 6853 Vejers Strand,6853,345000.0,27-04-2009,Fam.,5227,3,Sommerhus,66,1992,
+Engesøvej 102 6853 Vejers Strand,6853,1400000.0,17-04-2009,Alm.,0,4,Sommerhus,69,1983,-8 %
+Muffparken 19 6853 Vejers Strand,6853,1600000.0,06-04-2009,Alm.,18181,6,Sommerhus,88,1968,-8 %
+Vejers Havvej 38 6853 Vejers Strand,6853,1450000.0,24-03-2009,Alm.,10069,5,Villa,144,1969,-27 %
+Jafdalvej 59 6853 Vejers Strand,6853,1850000.0,20-03-2009,Alm.,24025,4,Sommerhus,77,1987,-7 %
+Engesøvej 119 6853 Vejers Strand,6853,1950000.0,26-02-2009,Fam.,17105,4,Sommerhus,114,2000,
+Vejers Havvej 73 6853 Vejers Strand,6853,2375000.0,30-01-2009,Andet,16964,6,Sommerhus,140,1973,-5 %
+Jafdalvej 83 6853 Vejers Strand,6853,2483995.0,27-01-2009,Alm.,13648,6,Sommerhus,182,1992,
+Mågevej 14 6853 Vejers Strand,6853,671500.0,11-01-2009,Fam.,10492,5,Sommerhus,64,1937,
+Gøgevej 44 6853 Vejers Strand,6853,1191000.0,31-12-2008,Fam.,23820,4,Sommerhus,50,1960,
+Vejers Havvej 20 6853 Vejers Strand,6853,1725000.0,10-12-2008,Alm.,19382,6,Sommerhus,89,1964,-1 %
+Sydvej 39 6853 Vejers Strand,6853,2080000.0,21-10-2008,Alm.,31515,5,Sommerhus,66,1931,-1 %
+Kratvej 12 6853 Vejers Strand,6853,1360000.0,03-10-2008,Alm.,19428,4,Sommerhus,70,1973,
+Stendalsvej 1 6853 Vejers Strand,6853,1865000.0,27-09-2008,Alm.,20494,5,Sommerhus,91,1957,-4 %
+Kræmmervej 8 6853 Vejers Strand,6853,2950000.0,25-09-2008,Alm.,20205,6,Sommerhus,146,2007,-16 %
+Rylevej 29 6853 Vejers Strand,6853,3200000.0,09-09-2008,Alm.,34782,4,Sommerhus,92,2003,-8 %
+Nålevej 1 6853 Vejers Strand,6853,980000.0,11-07-2008,Alm.,8750,4,Sommerhus,112,2010,-32 %
+Risvej 38 6853 Vejers Strand,6853,616250.0,17-06-2008,Alm.,7424,4,Sommerhus,83,1983,
+Bjærgevej 18 6853 Vejers Strand,6853,2200000.0,16-06-2008,Alm.,33846,3,Sommerhus,65,1976,-10 %
+Torskevej 7 6853 Vejers Strand,6853,1390000.0,13-06-2008,Alm.,25272,3,Sommerhus,55,1973,0 %
+Engesøvej 104 6853 Vejers Strand,6853,2250000.0,11-06-2008,Alm.,16791,6,Sommerhus,134,1974,0 %
+Vejers Havvej 17 6853 Vejers Strand,6853,3000000.0,28-05-2008,Alm.,18987,5,Villa,158,1974,
+Nordvej 104 6853 Vejers Strand,6853,2325000.0,26-05-2008,Alm.,23019,5,Sommerhus,101,1975,-7 %
+Jafdalvej 65 6853 Vejers Strand,6853,1275000.0,16-05-2008,Alm.,7544,6,Sommerhus,169,1987,-57 %
+Aavej 11 6853 Vejers Strand,6853,1062500.0,15-05-2008,Fam.,13449,4,Sommerhus,79,1955,
+Vibevej 4 6853 Vejers Strand,6853,1050000.0,29-04-2008,Alm.,12500,4,Sommerhus,84,1979,-8 %
+Spættevej 3A 6853 Vejers Strand,6853,2400000.0,28-04-2008,Alm.,20168,5,Sommerhus,119,2001,-3 %
+Nordvej 11. 7 6853 Vejers Strand,6853,1330000.0,22-04-2008,Alm.,21451,4,Sommerhus,62,1992,
+Tyttebærvej 2 6853 Vejers Strand,6853,2300000.0,15-04-2008,Alm.,14110,7,Sommerhus,163,1937,-4 %
+Rådyrvej 2 6853 Vejers Strand,6853,1505000.0,13-04-2008,Alm.,23515,3,Sommerhus,64,1978,-3 %
+Engesøvej 69 6853 Vejers Strand,6853,1500000.0,12-04-2008,Alm.,21739,4,Sommerhus,69,1988,-12 %
+Vejers Havvej 64 6853 Vejers Strand,6853,1000000.0,25-03-2008,Alm.,40000,4,BygningTilHandel,25,1950,
+Vejers Havvej 53 6853 Vejers Strand,6853,2425000.0,19-03-2008,Alm.,22453,4,Sommerhus,108,2000,-8 %
+Engesøvej 103 6853 Vejers Strand,6853,900000.0,10-03-2008,Fam.,13846,4,Sommerhus,65,1974,
+Nordvej 124 6853 Vejers Strand,6853,892500.0,01-03-2008,Fam.,8925,4,Sommerhus,100,1983,
+Engesøvej 66 6853 Vejers Strand,6853,1530000.0,15-02-2008,Alm.,16105,5,Sommerhus,95,1980,-7 %
+Mosevej 24 6853 Vejers Strand,6853,2870000.0,11-02-2008,Alm.,20354,5,Sommerhus,141,2007,-4 %
+Havstien 6 6853 Vejers Strand,6853,700000.0,12-01-2008,Alm.,12727,3,Sommerhus,55,1969,
+Engesøvej 100 6853 Vejers Strand,6853,1700000.0,18-12-2007,Alm.,22666,4,Sommerhus,75,1978,-5 %
+Sydvej 7 6853 Vejers Strand,6853,1320000.0,11-12-2007,Fam.,18333,4,Sommerhus,72,1973,
+Ternevej 14 6853 Vejers Strand,6853,1200000.0,05-12-2007,Fam.,0,4,Sommerhus,101,1977,
+Engesøvej 120 6853 Vejers Strand,6853,1730000.0,03-12-2007,Alm.,21358,3,Sommerhus,81,1967,
+Kræmmervej 3 6853 Vejers Strand,6853,1335000.0,02-12-2007,Alm.,0,4,Sommerhus,127,1962,-4 %
+Gøgevej 1 6853 Vejers Strand,6853,1710000.0,29-11-2007,Alm.,16764,4,Sommerhus,102,1966,-5 %
+Stendalsvej 7 6853 Vejers Strand,6853,837500.0,26-11-2007,Fam.,0,4,Sommerhus,119,1964,
+Risvej 44 6853 Vejers Strand,6853,1360000.0,19-11-2007,Fam.,8192,6,Sommerhus,166,1970,
+Nålevej 15 6853 Vejers Strand,6853,1300000.0,07-11-2007,Fam.,11016,6,Sommerhus,118,1973,
+Engesøvej 51 6853 Vejers Strand,6853,1400000.0,06-11-2007,Alm.,17948,4,Sommerhus,78,1983,-3 %
+Rylevej 42 6853 Vejers Strand,6853,791000.0,30-10-2007,Alm.,0,2,Sommerhus,28,1990,
+Risvej 42 6853 Vejers Strand,6853,2000000.0,29-10-2007,Alm.,18181,5,Sommerhus,110,1976,
+Rådyrvej 12 6853 Vejers Strand,6853,1565000.0,12-10-2007,Alm.,15343,4,Sommerhus,102,2015,-5 %
+Ørnevej 2 6853 Vejers Strand,6853,739500.0,12-10-2007,Fam.,10564,5,Sommerhus,70,1969,
+Kratvej 6 6853 Vejers Strand,6853,950000.0,02-10-2007,Alm.,14393,4,Sommerhus,66,1989,
+Engesøvej 40 6853 Vejers Strand,6853,1745000.0,24-09-2007,Alm.,24577,4,Sommerhus,71,1982,
+Muffparken 12 6853 Vejers Strand,6853,1625000.0,13-09-2007,Alm.,22260,3,Sommerhus,73,1969,
+Risvej 35 6853 Vejers Strand,6853,1150000.0,05-09-2007,Fam.,15333,4,Sommerhus,75,1984,
+Vejers Sydstrand 1. 7 6853 Vejers Strand,6853,375000.0,01-09-2007,Alm.,0,2,Sommerhus,28,1961,
+Vejers Havvej 23 6853 Vejers Strand,6853,865000.0,17-08-2007,Alm.,14180,4,Sommerhus,61,1979,9 %
+Torskevej 10 6853 Vejers Strand,6853,1385000.0,17-08-2007,Alm.,26634,3,Sommerhus,52,1971,
+Violvej 7 6853 Vejers Strand,6853,1200000.0,04-08-2007,Alm.,21052,4,Sommerhus,57,1935,
+Risvej 18 6853 Vejers Strand,6853,2185000.0,06-07-2007,Alm.,37672,5,Sommerhus,58,1930,-5 %
+Ørnevej 14 6853 Vejers Strand,6853,1435000.0,06-07-2007,Alm.,23916,4,Sommerhus,60,1976,
+Engesøvej 58 6853 Vejers Strand,6853,1600000.0,04-07-2007,Alm.,20512,4,Sommerhus,78,1978,
+Engesøvej 15 6853 Vejers Strand,6853,1900000.0,18-06-2007,Alm.,19387,6,Sommerhus,98,1990,-5 %
+Engesøvej 87 6853 Vejers Strand,6853,1300000.0,16-06-2007,Fam.,16049,4,Sommerhus,81,1979,-20 %
+Jafdalvej 51 6853 Vejers Strand,6853,1800000.0,31-05-2007,Alm.,22784,4,Sommerhus,79,1988,-4 %
+Engesøvej 48 6853 Vejers Strand,6853,1565000.0,25-05-2007,Alm.,22681,4,Sommerhus,69,1980,
+Gøgevej 16 6853 Vejers Strand,6853,1350000.0,05-05-2007,Alm.,12500,4,Sommerhus,108,2009,
+Rylevej 12 6853 Vejers Strand,6853,250000.0,03-05-2007,Alm.,3424,4,Sommerhus,73,2011,
+Mosevej 2 6853 Vejers Strand,6853,2075000.0,26-04-2007,Alm.,13387,5,Sommerhus,155,1992,-3 %
+Fugltoft 10 6853 Vejers Strand,6853,2500000.0,24-04-2007,Alm.,26041,5,Sommerhus,96,1988,
+Risvej 4 6853 Vejers Strand,6853,1675000.0,24-04-2007,Alm.,34183,3,Sommerhus,49,1987,0 %
+Tyttebærvej 1B 6853 Vejers Strand,6853,322500.0,23-04-2007,Fam.,3225,4,Sommerhus,100,2014,
+Spættevej 24 6853 Vejers Strand,6853,2675000.0,29-03-2007,Alm.,29076,4,Sommerhus,92,2005,
+Nordvej 90B 6853 Vejers Strand,6853,236400.0,14-03-2007,Fam.,1713,5,Sommerhus,138,2008,
+Nordvej 88 6853 Vejers Strand,6853,690525.0,14-03-2007,Fam.,9590,4,Sommerhus,72,1939,
+Engesøvej 84 6853 Vejers Strand,6853,977500.0,09-03-2007,Fam.,0,4,Sommerhus,87,1979,
+Nordvej 86 6853 Vejers Strand,6853,322500.0,28-02-2007,Fam.,3290,4,Sommerhus,98,2008,
+Mosevej 6 6853 Vejers Strand,6853,1550000.0,28-02-2007,Alm.,21232,3,Sommerhus,73,1966,-5 %
+Risvej 12 6853 Vejers Strand,6853,1470000.0,22-02-2007,Alm.,24500,4,Sommerhus,60,1970,
+Bjærgevej 23 6853 Vejers Strand,6853,2337500.0,18-02-2007,Fam.,9862,4,Sommerhus,237,2009,
+Duevej 9 6853 Vejers Strand,6853,650000.0,04-02-2007,Fam.,9285,5,Sommerhus,70,1931,
+Mosevej 4A 6853 Vejers Strand,6853,1495000.0,26-01-2007,Alm.,12458,5,Sommerhus,120,2007,
+Engesøvej 41 6853 Vejers Strand,6853,650000.0,03-01-2007,Alm.,7926,4,Sommerhus,82,1983,
+Nordvej 73 6853 Vejers Strand,6853,1377000.0,22-12-2006,Fam.,0,7,Sommerhus,167,1958,
+Nordvej 65 6853 Vejers Strand,6853,2950000.0,18-12-2006,Alm.,0,7,Sommerhus,126,1964,
+Bjærgevej 3B 6853 Vejers Strand,6853,3850000.0,12-12-2006,Alm.,40526,4,Sommerhus,95,2000,
+Gulspurvevej 17 6853 Vejers Strand,6853,1000000.0,10-12-2006,Fam.,13513,3,Sommerhus,74,1966,
+Vejers Sydstrand 1. 25 6853 Vejers Strand,6853,725000.0,25-11-2006,Alm.,0,2,Sommerhus,39,1961,
+Nordvej 87 6853 Vejers Strand,6853,2886000.0,22-11-2006,Alm.,48100,2,Sommerhus,60,1934,
+Peders Vej 14 6853 Vejers Strand,6853,900000.0,20-11-2006,Alm.,14062,4,Villa,64,1973,
+Rylevej 8 6853 Vejers Strand,6853,250750.0,13-11-2006,Fam.,4643,3,Sommerhus,54,1927,
+Fugltoft 19 6853 Vejers Strand,6853,1930000.0,03-11-2006,Alm.,20104,5,Sommerhus,96,1988,
+Rosenvej 17 6853 Vejers Strand,6853,3600000.0,24-10-2006,Alm.,20224,9,Sommerhus,178,2010,
+Nordvej 85 6853 Vejers Strand,6853,4000000.0,15-10-2006,Alm.,55555,4,Sommerhus,72,1953,
+Kræmmervej 2 6853 Vejers Strand,6853,1225000.0,02-10-2006,Alm.,15312,5,Sommerhus,80,1966,
+Gøgevej 40 6853 Vejers Strand,6853,1225000.0,22-09-2006,Alm.,15909,3,Sommerhus,77,1968,
+Engesøvej 42 6853 Vejers Strand,6853,1500000.0,17-09-2006,Alm.,22388,4,Sommerhus,67,1983,
+Uglevej 9 6853 Vejers Strand,6853,780000.0,05-09-2006,Alm.,12786,5,Sommerhus,61,1950,
+Duevej 8 6853 Vejers Strand,6853,775000.0,30-08-2006,Alm.,14090,4,Sommerhus,55,1957,
+Peders Vej 3 6853 Vejers Strand,6853,1250000.0,29-08-2006,Alm.,15625,5,Sommerhus,80,1981,
+Nordvej 4 6853 Vejers Strand,6853,1100000.0,22-08-2006,Fam.,0,3,Sommerhus,62,1992,
+Violvej 16 6853 Vejers Strand,6853,1460000.0,20-08-2006,Alm.,29200,4,Sommerhus,50,1952,
+Engesøvej 82 6853 Vejers Strand,6853,1280000.0,26-06-2006,Fam.,15609,4,Sommerhus,82,1979,
+Nordvej 11. 5 6853 Vejers Strand,6853,1275000.0,21-06-2006,Alm.,20564,4,Sommerhus,62,1992,
+Nordvej 5 6853 Vejers Strand,6853,3900000.0,07-06-2006,Alm.,25657,5,Sommerhus,152,2009,
+Gøgevej 29 6853 Vejers Strand,6853,1700000.0,03-06-2006,Alm.,18279,5,Sommerhus,93,1960,
+Vejers Sydstrand 1. 23 6853 Vejers Strand,6853,480000.0,30-05-2006,Alm.,0,2,Sommerhus,31,1961,
+Risvej 48 6853 Vejers Strand,6853,775000.0,17-05-2006,Fam.,0,4,Sommerhus,89,1963,
+Rylevej 23 6853 Vejers Strand,6853,370000.0,17-05-2006,Fam.,5285,3,Sommerhus,70,1930,
+Engesøvej 25 6853 Vejers Strand,6853,1790000.0,14-05-2006,Alm.,17900,5,Sommerhus,100,1992,
+Risvej 26 6853 Vejers Strand,6853,2345000.0,12-05-2006,Alm.,21318,5,Sommerhus,110,1967,
+Spættevej 4 6853 Vejers Strand,6853,1000000.0,05-05-2006,Alm.,13888,4,Sommerhus,72,1984,
+Torskevej 22 6853 Vejers Strand,6853,1600000.0,05-05-2006,Alm.,0,4,Sommerhus,77,1976,
+Uglevej 13 6853 Vejers Strand,6853,595000.0,01-05-2006,Alm.,15657,3,Sommerhus,38,1937,
+Peders Vej 8 6853 Vejers Strand,6853,1850000.0,25-04-2006,Alm.,16818,4,Sommerhus,110,1992,
+Bjærgevej 3A 6853 Vejers Strand,6853,4700000.0,24-04-2006,Alm.,25824,6,Sommerhus,182,1993,
+Kratvej 64 6853 Vejers Strand,6853,1750000.0,21-04-2006,Alm.,23026,4,Sommerhus,76,1984,
+Ørnevej 17 6853 Vejers Strand,6853,2200000.0,21-04-2006,Alm.,22222,4,Sommerhus,99,2001,
+Snerlevej 6 6853 Vejers Strand,6853,3050000.0,14-04-2006,Alm.,35057,4,Sommerhus,87,1960,
+Kræmmervej 17 6853 Vejers Strand,6853,1020000.0,05-04-2006,Fam.,13421,3,Sommerhus,76,1966,
+Engesøvej 67 6853 Vejers Strand,6853,1540000.0,30-03-2006,Alm.,5220,11,Sommerhus,295,2008,
+Muffparken 4 6853 Vejers Strand,6853,1150000.0,17-03-2006,Alm.,7565,5,Sommerhus,152,2010,
+Gøgevej 32 6853 Vejers Strand,6853,1870000.0,12-03-2006,Alm.,11333,7,Sommerhus,165,1963,
+Plantørstien 6 6853 Vejers Strand,6853,975000.0,27-02-2006,Alm.,16525,4,Sommerhus,59,1972,
+Nordvej 79 6853 Vejers Strand,6853,47625.0,24-02-2006,Alm.,0,9,Sommerhus,538,1961,
+Engesøvej 12 6853 Vejers Strand,6853,1610000.0,09-02-2006,Alm.,0,4,Sommerhus,105,1988,
+"Mågevej 8C, 2 6853 Vejers Strand",6853,840000.0,03-02-2006,Alm.,11506,3,Sommerhus,73,1937,
+Spættevej 10 6853 Vejers Strand,6853,1490000.0,16-01-2006,Alm.,16741,5,Sommerhus,89,1970,
+Vejers Havvej 5 6853 Vejers Strand,6853,2795000.0,10-01-2006,Alm.,14333,6,Villa,195,2000,
+Vejers Sydstrand 1. 24 6853 Vejers Strand,6853,400000.0,04-01-2006,Alm.,0,2,Sommerhus,31,1961,
+Nordvej 11. 20 6853 Vejers Strand,6853,1250000.0,03-01-2006,Alm.,19230,4,Sommerhus,65,1992,
+Sydvej 45 6853 Vejers Strand,6853,714000.0,28-12-2005,Fam.,0,5,Sommerhus,88,1929,
+Sydvej 11 6853 Vejers Strand,6853,58084.0,21-12-2005,Fam.,829,5,Sommerhus,70,1914,
+Nordvej 56 6853 Vejers Strand,6853,850000.0,16-12-2005,Fam.,14406,3,Sommerhus,59,1962,
+Rådyrvej 11 6853 Vejers Strand,6853,1670000.0,27-11-2005,Alm.,24558,4,Sommerhus,68,1971,
+Muffparken 20 6853 Vejers Strand,6853,680000.0,23-11-2005,Fam.,12592,3,Sommerhus,54,1961,
+Muffparken 22 6853 Vejers Strand,6853,850000.0,23-11-2005,Fam.,12500,4,Sommerhus,68,1980,
+Torskevej 32 6853 Vejers Strand,6853,374000.0,21-11-2005,Fam.,3309,4,Sommerhus,113,2006,
+Gøgevej 12 6853 Vejers Strand,6853,1442000.0,16-11-2005,Alm.,16574,4,Sommerhus,87,1986,
+Violvej 5 6853 Vejers Strand,6853,2290000.0,16-11-2005,Alm.,0,4,Sommerhus,106,1932,
+Nordvej 58 6853 Vejers Strand,6853,1300000.0,28-10-2005,Alm.,11711,4,Sommerhus,111,2006,
+Muffparken 13 6853 Vejers Strand,6853,800000.0,15-10-2005,Fam.,0,4,Sommerhus,119,1968,
+Nordvej 98B 6853 Vejers Strand,6853,2375000.0,13-10-2005,Alm.,25265,4,Sommerhus,94,1986,
+Engesøvej 76 6853 Vejers Strand,6853,1150000.0,12-10-2005,Alm.,18548,3,Sommerhus,62,1979,
+Fugltoft 11 6853 Vejers Strand,6853,1375000.0,11-10-2005,Alm.,14322,5,Sommerhus,96,1988,
+Vejers Sydstrand 2 6853 Vejers Strand,6853,483000.0,03-10-2005,Fam.,0,6,Sommerhus,86,1957,
+Tyttebærvej 10 6853 Vejers Strand,6853,1175000.0,26-09-2005,Fam.,15259,4,Sommerhus,77,1998,
+Aavej 4 6853 Vejers Strand,6853,1399000.0,23-09-2005,Alm.,25436,3,Sommerhus,55,1961,
+Bjærgevej 5 6853 Vejers Strand,6853,2995000.0,16-09-2005,Alm.,0,4,Sommerhus,121,1966,
+Gulspurvevej 8 6853 Vejers Strand,6853,1100000.0,24-08-2005,Alm.,26829,3,Sommerhus,41,1970,
+Tyttebærvej 4 6853 Vejers Strand,6853,977500.0,15-08-2005,Fam.,8886,3,Sommerhus,110,2014,
+Jafdalvej 7 6853 Vejers Strand,6853,1550000.0,08-08-2005,Alm.,22142,4,Sommerhus,70,1984,
+Kratvej 46 6853 Vejers Strand,6853,1480000.0,29-07-2005,Alm.,18500,4,Sommerhus,80,1969,
+Jafdalvej 93 6853 Vejers Strand,6853,1848000.0,29-06-2005,Alm.,16800,5,Sommerhus,110,1990,
+Gøgevej 34 6853 Vejers Strand,6853,300000.0,29-06-2005,Alm.,1621,6,Sommerhus,185,1978,
+Jafdalvej 89 6853 Vejers Strand,6853,1395000.0,18-06-2005,Alm.,20820,3,Sommerhus,67,1988,
+Vejers Havvej 10 6853 Vejers Strand,6853,262500.0,13-06-2005,Fam.,2282,5,Sommerhus,115,1972,
+Ørnevej 21 6853 Vejers Strand,6853,675000.0,13-06-2005,Alm.,7336,3,Sommerhus,92,1968,
+Ørnevej 3 6853 Vejers Strand,6853,2070000.0,05-06-2005,Alm.,20097,4,Sommerhus,103,2002,
+Nordvej 45A 6853 Vejers Strand,6853,3750000.0,02-06-2005,Alm.,27777,5,Sommerhus,135,1999,
+Vejers Havvej 11D 6853 Vejers Strand,6853,970000.0,29-05-2005,Alm.,15645,2,Sommerhus,62,1877,
+Ternevej 9 6853 Vejers Strand,6853,1295000.0,29-05-2005,Alm.,14388,4,Sommerhus,90,1937,
+Nålevej 9 6853 Vejers Strand,6853,1280000.0,27-05-2005,Alm.,12427,4,Sommerhus,103,2006,
+Jafdalvej 9 6853 Vejers Strand,6853,1457750.0,26-05-2005,Alm.,20825,4,Sommerhus,70,1988,
+Gulspurvevej 25 6853 Vejers Strand,6853,561000.0,25-05-2005,Alm.,0,4,Sommerhus,70,1973,
+Vejers Havvej 69 6853 Vejers Strand,6853,2120000.0,02-04-2005,Alm.,0,5,Sommerhus,139,1973,
+Spættevej 3C 6853 Vejers Strand,6853,2200000.0,22-03-2005,Alm.,18487,5,Sommerhus,119,2001,
+Aarrildsøvej 6 6853 Vejers Strand,6853,1655000.0,17-03-2005,Alm.,11906,5,Sommerhus,139,2007,
+Engesøvej 113 6853 Vejers Strand,6853,1125000.0,11-03-2005,Alm.,0,4,Sommerhus,72,1974,
+Jafdalvej 45 6853 Vejers Strand,6853,1410000.0,11-03-2005,Alm.,0,4,Sommerhus,94,1987,
+Engesøvej 35 6853 Vejers Strand,6853,1845000.0,05-02-2005,Alm.,18450,5,Sommerhus,100,1992,
+Vejers Havvej 81 6853 Vejers Strand,6853,3400000.0,04-02-2005,Alm.,68000,5,Villa,50,1976,
+Gøgevej 14 6853 Vejers Strand,6853,1900000.0,31-01-2005,Alm.,20652,4,Sommerhus,92,2002,
+Engesøvej 116 6853 Vejers Strand,6853,1035000.0,24-01-2005,Alm.,11629,4,Sommerhus,89,1964,
+Vejers Havvej 43A 6853 Vejers Strand,6853,660000.0,21-01-2005,Alm.,12452,4,Sommerhus,53,1963,
+Snogevej 6 6853 Vejers Strand,6853,1800000.0,05-01-2005,Alm.,8653,6,Sommerhus,208,1984,
+Bjærgevej 9 6853 Vejers Strand,6853,1262000.0,01-01-2005,Fam.,10516,6,Sommerhus,120,1930,
+Stendalsvej 4 6853 Vejers Strand,6853,629000.0,23-12-2004,Fam.,9676,4,Sommerhus,65,1973,
+Nordvej 17B 6853 Vejers Strand,6853,3143000.0,22-12-2004,Alm.,25762,5,Sommerhus,122,2005,
+Sydvej 13 6853 Vejers Strand,6853,850000.0,20-12-2004,Fam.,13709,3,Sommerhus,62,1974,
+Stendalsvej 11 6853 Vejers Strand,6853,345000.0,15-12-2004,Fam.,6160,4,Sommerhus,56,1975,
+Kratvej 28 6853 Vejers Strand,6853,700000.0,12-12-2004,Fam.,9459,4,Sommerhus,74,1959,
+Kræmmervej 29 6853 Vejers Strand,6853,1900000.0,12-12-2004,Alm.,19191,5,Sommerhus,99,1998,
+Ørnevej 28 6853 Vejers Strand,6853,950000.0,04-12-2004,Alm.,6462,6,Sommerhus,147,2009,
+Kræmmervej 31 6853 Vejers Strand,6853,1995000.0,30-11-2004,Alm.,16906,5,Sommerhus,118,2003,
+Aarrildsøvej 7 6853 Vejers Strand,6853,1150000.0,28-10-2004,Alm.,14935,4,Sommerhus,77,1980,
+Nordvej 37 6853 Vejers Strand,6853,2550000.0,06-09-2004,Alm.,15178,5,Sommerhus,168,1990,
+Engesøvej 52 6853 Vejers Strand,6853,613661.0,17-08-2004,Alm.,0,4,Sommerhus,187,1989,
+Rosenvej 11 6853 Vejers Strand,6853,653000.0,30-07-2004,Fam.,13326,4,Sommerhus,49,1975,
+Snogevej 3 6853 Vejers Strand,6853,1398000.0,29-07-2004,Alm.,18891,4,Sommerhus,74,1984,
+Vejers Havvej 59 6853 Vejers Strand,6853,1540000.0,08-07-2004,Alm.,19493,4,Sommerhus,79,1977,
+Havstien 3 6853 Vejers Strand,6853,720000.0,21-06-2004,Fam.,9729,3,Sommerhus,74,1975,
+Jafdalvej 11 6853 Vejers Strand,6853,1900000.0,17-06-2004,Alm.,0,4,Sommerhus,120,1996,
+Muffparken 11 6853 Vejers Strand,6853,1075000.0,11-06-2004,Alm.,0,5,Sommerhus,76,1968,
+Ørnevej 40 6853 Vejers Strand,6853,1382500.0,25-05-2004,Alm.,0,4,Sommerhus,112,1970,
+Aarrildsøvej 11 6853 Vejers Strand,6853,1135000.0,27-04-2004,Alm.,0,4,Sommerhus,77,1977,
+Vejers Havvej 54 6853 Vejers Strand,6853,680000.0,24-04-2004,Fam.,9714,3,Sommerhus,70,1958,
+Jafdalvej 71 6853 Vejers Strand,6853,1545000.0,20-04-2004,Alm.,15927,5,Sommerhus,97,1987,
+Kræmmervej 37 6853 Vejers Strand,6853,715000.0,31-03-2004,Alm.,6441,5,Sommerhus,111,2005,
+Muffparken 5 6853 Vejers Strand,6853,1051000.0,26-03-2004,Alm.,19109,4,Sommerhus,55,1968,
+Vejers Sydstrand 6 6853 Vejers Strand,6853,715000.0,25-03-2004,Alm.,8313,5,Sommerhus,86,1927,
+Rådyrvej 6 6853 Vejers Strand,6853,2025000.0,24-03-2004,Andet,13965,5,Sommerhus,145,1926,
+Sydvej 35 6853 Vejers Strand,6853,1815000.0,19-03-2004,Alm.,22407,4,Sommerhus,81,1991,
+Gøgevej 15 6853 Vejers Strand,6853,1695000.0,23-02-2004,Alm.,20670,5,Sommerhus,82,1998,
+Peders Vej 5 6853 Vejers Strand,6853,1000000.0,08-02-2004,Alm.,12500,6,Sommerhus,80,1979,
+Rylevej 1 6853 Vejers Strand,6853,795000.0,05-02-2004,Fam.,9814,4,Sommerhus,81,1986,
+Nordvej 98A 6853 Vejers Strand,6853,2875000.0,04-02-2004,Alm.,18668,5,Sommerhus,154,1989,
+Kratvej 52 6853 Vejers Strand,6853,150000.0,04-02-2004,Fam.,1388,4,Sommerhus,108,2009,
+Rådyrvej 8 6853 Vejers Strand,6853,1125000.0,02-02-2004,Alm.,10613,5,Sommerhus,106,2007,
+Kræmmervej 10 6853 Vejers Strand,6853,1200000.0,29-01-2004,Alm.,7228,7,Sommerhus,166,1928,
+Engesøvej 38 6853 Vejers Strand,6853,1650000.0,27-01-2004,Alm.,9537,5,Sommerhus,173,1992,
+Vejers Havvej 37 6853 Vejers Strand,6853,2150000.0,12-01-2004,Alm.,11025,5,Sommerhus,195,2016,
+Fugltoft 5 6853 Vejers Strand,6853,1275000.0,23-12-2003,Alm.,12378,5,Sommerhus,103,1996,
+Gøgevej 24 6853 Vejers Strand,6853,300000.0,08-12-2003,Andet,8333,4,Sommerhus,36,1960,
+Aavej 5 6853 Vejers Strand,6853,544000.0,04-12-2003,Fam.,4000,5,Sommerhus,136,2008,
+Rosenvej 4 6853 Vejers Strand,6853,225000.0,01-12-2003,Fam.,4591,4,Sommerhus,49,1914,
+Ørnevej 7 6853 Vejers Strand,6853,835000.0,19-11-2003,Alm.,8028,4,Sommerhus,104,1969,
+Nordvej 27 6853 Vejers Strand,6853,376000.0,18-11-2003,Fam.,8355,5,Sommerhus,45,1934,
+Aarrildsøvej 22 6853 Vejers Strand,6853,1250000.0,11-11-2003,Alm.,10869,4,Sommerhus,115,2009,
+Tyttebærvej 17 6853 Vejers Strand,6853,1973000.0,10-11-2003,Alm.,11674,5,Sommerhus,169,1994,
+Muffparken 9 6853 Vejers Strand,6853,787500.0,10-11-2003,Alm.,6508,5,Sommerhus,121,2008,
+Vejers Havvej 56 6853 Vejers Strand,6853,750000.0,06-11-2003,Fam.,16666,3,Sommerhus,45,1956,
+Mågevej 23 6853 Vejers Strand,6853,600000.0,06-11-2003,Alm.,0,5,Sommerhus,71,1931,
+Fugltoft 1 6853 Vejers Strand,6853,2500000.0,03-10-2003,Alm.,8680,8,Sommerhus,288,1988,
+Vejers Havvej 4 6853 Vejers Strand,6853,1595000.0,29-08-2003,Alm.,12460,5,Sommerhus,128,1996,
+Peders Vej 11 6853 Vejers Strand,6853,950000.0,29-08-2003,Fam.,11875,4,Sommerhus,80,1974,
+Risvej 45 6853 Vejers Strand,6853,1425000.0,19-08-2003,Alm.,13194,4,Sommerhus,108,1999,
+Aarrildsøvej 18 6853 Vejers Strand,6853,1245000.0,18-08-2003,Fam.,6916,6,Sommerhus,180,1990,
+Vejers Sydstrand 1. 11 6853 Vejers Strand,6853,390000.0,18-08-2003,Alm.,0,3,Sommerhus,61,1961,
+Mågevej 10 6853 Vejers Strand,6853,245000.0,15-08-2003,Fam.,2692,4,Sommerhus,91,1959,
+Gulspurvevej 14 6853 Vejers Strand,6853,735000.0,14-07-2003,Alm.,8258,4,Sommerhus,89,1985,
+Jafdalvej 35 6853 Vejers Strand,6853,1675000.0,11-07-2003,Alm.,14692,5,Sommerhus,114,1998,
+Torskevej 29 6853 Vejers Strand,6853,850000.0,26-06-2003,Alm.,14166,4,Sommerhus,60,1973,
+Gøgevej 22 6853 Vejers Strand,6853,835000.0,24-06-2003,Alm.,11438,4,Sommerhus,73,1979,
+Kratvej 32 6853 Vejers Strand,6853,795000.0,22-06-2003,Fam.,14454,4,Sommerhus,55,1961,
+Nordvej 8 6853 Vejers Strand,6853,1112509.0,13-06-2003,Alm.,12361,5,Sommerhus,90,1925,
+Gøgevej 31 6853 Vejers Strand,6853,929634.0,11-05-2003,Alm.,11620,3,Sommerhus,80,1960,
+Risvej 23 6853 Vejers Strand,6853,990000.0,05-05-2003,Alm.,18333,3,Sommerhus,54,1976,
+Nordvej 52 6853 Vejers Strand,6853,750000.0,23-04-2003,Alm.,12096,3,Sommerhus,62,1962,
+Engesøvej 47 6853 Vejers Strand,6853,865000.0,11-04-2003,Alm.,0,4,Sommerhus,103,1984,
+Ternevej 5 6853 Vejers Strand,6853,365000.0,24-03-2003,Alm.,5703,3,Sommerhus,64,1950,
+Gulspurvevej 10 6853 Vejers Strand,6853,740086.0,19-03-2003,Alm.,9867,4,Sommerhus,75,1979,
+Engesøvej 89 6853 Vejers Strand,6853,1250000.0,22-02-2003,Alm.,6578,5,Sommerhus,190,1989,
+Muffparken 25 6853 Vejers Strand,6853,1020000.0,14-01-2003,Alm.,7555,5,Sommerhus,135,1972,
+Jafdalvej 57 6853 Vejers Strand,6853,1000000.0,30-12-2002,Alm.,0,6,Sommerhus,114,1987,
+Mågevej 17B 6853 Vejers Strand,6853,525000.0,12-12-2002,Fam.,9545,3,Sommerhus,55,2009,
+Engesøvej 32 6853 Vejers Strand,6853,990000.0,11-12-2002,Alm.,0,11,Sommerhus,321,1992,
+Risvej 10 6853 Vejers Strand,6853,1755000.0,02-12-2002,Alm.,13818,6,Sommerhus,127,1932,
+Vejers Havvej 28 6853 Vejers Strand,6853,611700.0,29-11-2002,Alm.,7646,4,Sommerhus,80,1958,
+Engesøvej 7 6853 Vejers Strand,6853,390000.0,29-11-2002,Fam.,0,3,Sommerhus,85,1990,
+Ørnevej 15 6853 Vejers Strand,6853,1626000.0,22-11-2002,Alm.,15485,4,Sommerhus,105,2003,
+Snogevej 22 6853 Vejers Strand,6853,739500.0,20-11-2002,Fam.,8909,4,Sommerhus,83,1965,
+Nordvej 23A 6853 Vejers Strand,6853,1477026.0,08-11-2002,Alm.,23444,4,Sommerhus,63,1979,
+Jafdalvej 101 6853 Vejers Strand,6853,1250000.0,01-11-2002,Alm.,7440,6,Sommerhus,168,1989,
+Kræmmervej 23 6853 Vejers Strand,6853,1749500.0,23-10-2002,Alm.,16199,4,Sommerhus,108,2003,
+Vejers Havvej 71 6853 Vejers Strand,6853,950000.0,22-10-2002,Alm.,14393,4,Sommerhus,66,1970,
+Nålevej 16 6853 Vejers Strand,6853,682500.0,07-10-2002,Fam.,7036,4,Sommerhus,97,2000,
+Vejers Havvej 42 6853 Vejers Strand,6853,698000.0,07-10-2002,Alm.,10264,3,Sommerhus,68,1950,
+Vejers Havvej 47 6853 Vejers Strand,6853,850000.0,27-09-2002,Alm.,13709,3,Sommerhus,62,1982,
+Jafdalvej 49 6853 Vejers Strand,6853,925000.0,24-09-2002,Alm.,12671,4,Sommerhus,73,1987,
+Duevej 6 6853 Vejers Strand,6853,650000.0,17-09-2002,Alm.,13000,2,Sommerhus,50,1950,
+Kratvej 18 6853 Vejers Strand,6853,390000.0,16-09-2002,Fam.,7800,3,Sommerhus,50,1972,
+Ørnevej 11 6853 Vejers Strand,6853,665000.0,16-09-2002,Alm.,6157,4,Sommerhus,108,2003,
+Gulspurvevej 4 6853 Vejers Strand,6853,550000.0,05-09-2002,Alm.,5612,4,Sommerhus,98,2005,
+Engesøvej 14A 6853 Vejers Strand,6853,1195000.0,23-08-2002,Alm.,0,4,Sommerhus,154,1991,
+Vejers Havvej 45 6853 Vejers Strand,6853,620000.0,13-08-2002,Alm.,0,4,Sommerhus,81,1947,
+Rosenvej 13 6853 Vejers Strand,6853,1095000.0,12-08-2002,Alm.,15642,4,Sommerhus,70,1972,
+Kræmmervej 15 6853 Vejers Strand,6853,795000.0,05-07-2002,Alm.,0,5,Sommerhus,85,1985,
+Rådyrvej 3 6853 Vejers Strand,6853,625000.0,27-06-2002,Alm.,7440,4,Sommerhus,84,1974,
+Muffparken 14 6853 Vejers Strand,6853,1258975.0,21-06-2002,Alm.,6917,5,Sommerhus,182,1992,
+Snogevej 2 6853 Vejers Strand,6853,738000.0,05-06-2002,Alm.,0,4,Sommerhus,57,1991,
+Engesøvej 45 6853 Vejers Strand,6853,866197.0,18-05-2002,Alm.,0,3,Sommerhus,88,1983,
+Bjærgevej 1 6853 Vejers Strand,6853,1550000.0,27-04-2002,Alm.,13362,5,Sommerhus,116,1991,
+Engesøvej 16 6853 Vejers Strand,6853,1290000.0,25-04-2002,Alm.,10840,5,Sommerhus,119,1997,
+Ørnevej 5 6853 Vejers Strand,6853,603500.0,25-04-2002,Fam.,7543,4,Sommerhus,80,1972,
+Risvej 33 6853 Vejers Strand,6853,520000.0,15-04-2002,Fam.,9454,4,Sommerhus,55,1967,
+Aarrildsøvej 5 6853 Vejers Strand,6853,570500.0,13-04-2002,Fam.,8035,4,Sommerhus,71,1977,
+Ørnevej 1 6853 Vejers Strand,6853,655000.0,25-03-2002,Alm.,0,5,Sommerhus,132,1970,
+Gulspurvevej 6 6853 Vejers Strand,6853,785000.0,15-03-2002,Alm.,12076,4,Sommerhus,65,1970,
+Nordvej 11. 13 6853 Vejers Strand,6853,795000.0,14-03-2002,Alm.,12822,4,Sommerhus,62,1992,
+Nålevej 14 6853 Vejers Strand,6853,136000.0,12-03-2002,Fam.,1789,4,Sommerhus,76,1968,
+Duevej 1 6853 Vejers Strand,6853,570000.0,26-02-2002,Alm.,7808,4,Sommerhus,73,1980,
+Sydvej 29 6853 Vejers Strand,6853,1449592.0,23-02-2002,Alm.,13675,5,Sommerhus,106,1955,
+Kræmmervej 35 6853 Vejers Strand,6853,1728339.0,21-02-2002,Alm.,16152,4,Sommerhus,107,2001,
+Torskevej 27 6853 Vejers Strand,6853,725000.0,18-02-2002,Alm.,10357,4,Sommerhus,70,1972,
+Snogevej 8 6853 Vejers Strand,6853,1325000.0,13-02-2002,Alm.,11725,5,Sommerhus,113,1990,
+Risvej 39 6853 Vejers Strand,6853,1186454.0,11-02-2002,Alm.,10985,4,Sommerhus,108,1959,
+Bjærgevej 33 6853 Vejers Strand,6853,405000.0,23-01-2002,Fam.,3461,6,Sommerhus,117,1931,
+Nordvej 11. 1 6853 Vejers Strand,6853,837300.0,07-01-2002,Alm.,12881,4,Sommerhus,65,1992,
+Nordvej 11. 4 6853 Vejers Strand,6853,845000.0,18-12-2001,Alm.,0,4,Fritid,0,1992,
+Bjærgevej 4 6853 Vejers Strand,6853,127500.0,10-12-2001,Fam.,1108,6,Sommerhus,115,1928,
+Nordvej 74 6853 Vejers Strand,6853,825548.0,09-12-2001,Fam.,8255,4,Sommerhus,100,2005,
+Nordvej 10 6853 Vejers Strand,6853,850000.0,07-12-2001,Fam.,7727,3,Sommerhus,110,2009,
+Vejers Havvej 46 6853 Vejers Strand,6853,569500.0,06-12-2001,Fam.,8500,4,Sommerhus,67,1975,
+Mågevej 17A 6853 Vejers Strand,6853,550000.0,06-12-2001,Alm.,9016,4,Sommerhus,61,1952,
+Spurvevej 3 6853 Vejers Strand,6853,620000.0,29-11-2001,Alm.,12400,3,Sommerhus,50,1958,
+Lyngdalsvej 8 6853 Vejers Strand,6853,433500.0,26-11-2001,Fam.,0,7,Sommerhus,137,1964,
+Nordvej 116A 6853 Vejers Strand,6853,1200000.0,24-11-2001,Andet,0,6,Sommerhus,87,1988,
+Rylevej 18 6853 Vejers Strand,6853,425000.0,10-10-2001,Fam.,5246,4,Sommerhus,81,1931,
+Bjærgevej 6 6853 Vejers Strand,6853,1645000.0,24-09-2001,Alm.,8350,6,Sommerhus,197,2002,
+Nordvej 34 6853 Vejers Strand,6853,625000.0,03-09-2001,Alm.,10080,4,Sommerhus,62,1955,
+Snerlevej 7 6853 Vejers Strand,6853,1500000.0,27-08-2001,Alm.,11111,6,Sommerhus,135,1926,
+Nordvej 30 6853 Vejers Strand,6853,715000.0,22-08-2001,Alm.,11916,3,Sommerhus,60,1957,
+Kratvej 24 6853 Vejers Strand,6853,887577.0,25-07-2001,Alm.,9861,5,Sommerhus,90,1961,
+Risvej 11 6853 Vejers Strand,6853,600000.0,05-07-2001,Fam.,12000,4,Sommerhus,50,1958,
+"Vejers Havvej 83, 1 6853 Vejers Strand",6853,1700000.0,29-06-2001,Andet,0,2,Lejlighed,52,1976,
+Spættevej 3B 6853 Vejers Strand,6853,1500000.0,15-06-2001,Alm.,14851,5,Sommerhus,101,2003,
+Vejers Sydstrand 1. 5 6853 Vejers Strand,6853,375000.0,11-06-2001,Alm.,0,2,Sommerhus,31,1961,
+Tyttebærvej 14 6853 Vejers Strand,6853,1275000.0,21-05-2001,Alm.,15937,3,Sommerhus,80,1962,
+Kræmmervej 33 6853 Vejers Strand,6853,1243000.0,07-05-2001,Alm.,13811,3,Sommerhus,90,2001,
+Aavej 6 6853 Vejers Strand,6853,667500.0,26-04-2001,Alm.,8449,4,Sommerhus,79,1964,
+Engesøvej 2 6853 Vejers Strand,6853,775000.0,17-04-2001,Alm.,10763,4,Sommerhus,72,1988,
+Engesøvej 86 6853 Vejers Strand,6853,808525.0,12-04-2001,Alm.,13475,4,Sommerhus,60,1986,
+Nordvej 81 6853 Vejers Strand,6853,1300000.0,07-04-2001,Alm.,12500,5,Sommerhus,104,1938,
+Nordvej 47C 6853 Vejers Strand,6853,1635000.0,26-03-2001,Alm.,13974,5,Sommerhus,117,1992,
+Vejers Sydstrand 1. 13 6853 Vejers Strand,6853,300000.0,27-02-2001,Alm.,0,2,Sommerhus,31,1961,
+Snerlevej 4 6853 Vejers Strand,6853,1895000.0,26-02-2001,Alm.,17546,5,Sommerhus,108,1999,
+Engesøvej 20B 6853 Vejers Strand,6853,285743.0,19-02-2001,Alm.,0,4,Sommerhus,82,1988,
+Nordvej 36 6853 Vejers Strand,6853,1130000.0,03-02-2001,Alm.,0,5,Sommerhus,126,1968,
+Mågevej 4 6853 Vejers Strand,6853,330000.0,11-01-2001,Alm.,5156,3,Sommerhus,64,1949,
+Vejers Havvej 39 6853 Vejers Strand,6853,770000.0,10-12-2000,Alm.,17111,3,Sommerhus,45,1948,
+Fugltoft 17 6853 Vejers Strand,6853,880000.0,30-11-2000,Alm.,9166,5,Sommerhus,96,1988,
+Engesøvej 115 6853 Vejers Strand,6853,1370146.0,01-11-2000,Alm.,14125,4,Sommerhus,97,2000,
+Vibevej 8 6853 Vejers Strand,6853,525000.0,10-10-2000,Alm.,10937,3,Sommerhus,48,1952,
+Kræmmervej 47 6853 Vejers Strand,6853,1504245.0,06-10-2000,Alm.,14058,4,Sommerhus,107,2000,
+Spættevej 12 6853 Vejers Strand,6853,539999.0,04-10-2000,Alm.,10799,3,Sommerhus,50,1969,
+Risvej 24 6853 Vejers Strand,6853,785000.0,03-10-2000,Alm.,9812,4,Sommerhus,80,1969,
+Nordvej 46 6853 Vejers Strand,6853,263500.0,27-09-2000,Fam.,0,3,Sommerhus,50,1951,
+"Vejers Havvej 81B, 1 6853 Vejers Strand",6853,1200000.0,23-09-2000,Alm.,0,1,Lejlighed,30,2001,
+Torskevej 25 6853 Vejers Strand,6853,625000.0,22-08-2000,Alm.,12500,3,Sommerhus,50,1973,
+Kratvej 17 6853 Vejers Strand,6853,323000.0,12-08-2000,Fam.,6460,4,Sommerhus,50,1940,
+Rylevej 32 6853 Vejers Strand,6853,229500.0,07-08-2000,Fam.,5100,4,Sommerhus,45,1955,
+Sydvej 49 6853 Vejers Strand,6853,1096081.0,28-07-2000,Alm.,15437,3,Sommerhus,71,1946,
+Rosenvej 3 6853 Vejers Strand,6853,450000.0,30-06-2000,Alm.,4736,5,Sommerhus,95,1914,
+Nordvej 14 6853 Vejers Strand,6853,800000.0,26-06-2000,Alm.,13559,3,Sommerhus,59,1952,
+Sydvej 53 6853 Vejers Strand,6853,603500.0,12-06-2000,Fam.,8621,5,Sommerhus,70,1950,
+Fugltoft 14 6853 Vejers Strand,6853,750000.0,18-05-2000,Alm.,7812,5,Sommerhus,96,1988,
+Aarrildsøvej 13 6853 Vejers Strand,6853,847000.0,21-04-2000,Alm.,12455,4,Sommerhus,68,1977,
+Vejers Havvej 32 6853 Vejers Strand,6853,495808.0,17-04-2000,Alm.,3998,5,Sommerhus,124,2006,
+"Mågevej 8C, 1. TH 6853 Vejers Strand",6853,320000.0,11-04-2000,Alm.,5245,3,Sommerhus,61,1937,
+Vejers Havvej 31 6853 Vejers Strand,6853,475000.0,30-03-2000,Andet,9134,5,Sommerhus,52,1948,
+Vejers Havvej 25 6853 Vejers Strand,6853,260000.0,27-03-2000,Fam.,4000,3,Sommerhus,65,1976,
+Kræmmervej 27 6853 Vejers Strand,6853,1397505.0,20-03-2000,Alm.,14557,4,Sommerhus,96,2000,
+Tyttebærvej 5A 6853 Vejers Strand,6853,880000.0,28-02-2000,Alm.,11000,5,Sommerhus,80,1978,
+Nålevej 8 6853 Vejers Strand,6853,680000.0,24-02-2000,Alm.,0,5,Sommerhus,99,1967,
+Snogevej 18 6853 Vejers Strand,6853,467500.0,23-01-2000,Alm.,6493,4,Sommerhus,72,1965,
+"Mågevej 8A, ST 6853 Vejers Strand",6853,161500.0,20-01-2000,Fam.,3047,3,Sommerhus,53,1937,
+Sydvej 27 6853 Vejers Strand,6853,1000000.0,05-01-2000,Alm.,6944,5,Sommerhus,144,1992,
+Torskevej 5 6853 Vejers Strand,6853,535000.0,22-12-1999,Fam.,5095,5,Sommerhus,105,1974,
+Sydvej 9 6853 Vejers Strand,6853,650000.0,15-12-1999,Fam.,6914,5,Sommerhus,94,1976,
+Nålevej 11 6853 Vejers Strand,6853,540000.0,01-12-1999,Alm.,7500,6,Sommerhus,72,1962,
+Kræmmervej 45 6853 Vejers Strand,6853,400000.0,08-11-1999,Alm.,3883,5,Sommerhus,103,2001,
+Nordvej 108 6853 Vejers Strand,6853,1195000.0,29-09-1999,Alm.,8984,5,Sommerhus,133,2000,
+Kræmmervej 21 6853 Vejers Strand,6853,493000.0,22-09-1999,Fam.,5082,5,Sommerhus,97,1964,
+Vejers Havvej 89 6853 Vejers Strand,6853,901067.0,20-09-1999,Alm.,7904,3,Sommerhus,114,1910,
+Rylevej 26 6853 Vejers Strand,6853,364148.0,16-09-1999,Alm.,3833,4,Sommerhus,95,1965,
+Aavej 1 6853 Vejers Strand,6853,510000.0,06-09-1999,Alm.,7083,4,Sommerhus,72,1927,
+Fugltoft 3 6853 Vejers Strand,6853,825000.0,06-09-1999,Alm.,8593,6,Sommerhus,96,1988,
+Risvej 52 6853 Vejers Strand,6853,680000.0,23-08-1999,Alm.,10149,4,Sommerhus,67,1962,
+Rosenvej 15 6853 Vejers Strand,6853,250000.0,18-08-1999,Alm.,0,5,Sommerhus,115,1971,
+Ørnevej 25 6853 Vejers Strand,6853,713851.0,11-08-1999,Alm.,8111,4,Sommerhus,88,1975,
+Kræmmervej 7 6853 Vejers Strand,6853,725000.0,09-08-1999,Alm.,0,4,Sommerhus,90,1969,
+"Vejers Havvej 77, ST 6853 Vejers Strand",6853,792500.0,04-08-1999,Alm.,7925,4,Sommerhus,100,2017,
+Uglevej 11 6853 Vejers Strand,6853,42500.0,26-07-1999,Fam.,0,5,Sommerhus,76,1955,
+Torskevej 11 6853 Vejers Strand,6853,255487.0,09-07-1999,Alm.,4258,4,Sommerhus,60,1972,
+Jafdalvej 81 6853 Vejers Strand,6853,881000.0,30-06-1999,Alm.,4921,5,Sommerhus,179,1989,
+Mosevej 18 6853 Vejers Strand,6853,660000.0,16-06-1999,Alm.,0,4,Sommerhus,85,1976,
+Rådyrvej 25 6853 Vejers Strand,6853,565000.0,03-06-1999,Alm.,7533,4,Sommerhus,75,1973,
+Vejers Sydstrand 1. 14 6853 Vejers Strand,6853,265000.0,01-06-1999,Alm.,0,2,Sommerhus,28,1961,
+Vejers Havvej 11C 6853 Vejers Strand,6853,280000.0,28-05-1999,Alm.,3294,2,Sommerhus,85,1877,
+Jafdalvej 95 6853 Vejers Strand,6853,1150000.0,12-05-1999,Alm.,9829,4,Sommerhus,117,1989,
+Vejers Havvej 43B 6853 Vejers Strand,6853,531426.0,02-05-1999,Fam.,0,4,Sommerhus,78,1963,
+Rådyrvej 17B 6853 Vejers Strand,6853,900000.0,19-04-1999,Alm.,0,4,Sommerhus,143,1991,
+Engesøvej 109 6853 Vejers Strand,6853,672000.0,29-03-1999,Alm.,10338,4,Sommerhus,65,1975,
+Nordvej 66 6853 Vejers Strand,6853,730000.0,23-02-1999,Alm.,11060,4,Sommerhus,66,1929,
+Ørnevej 38 6853 Vejers Strand,6853,43700.0,10-02-1999,Fam.,910,4,Sommerhus,48,1969,
+Violvej 22 6853 Vejers Strand,6853,1080214.0,19-01-1999,Alm.,11022,4,Sommerhus,98,1993,
+Spurvevej 1 6853 Vejers Strand,6853,72000.0,29-12-1998,Alm.,1800,4,Sommerhus,40,1957,
+Fugltoft 6 6853 Vejers Strand,6853,810000.0,20-12-1998,Alm.,8437,5,Sommerhus,96,1988,
+Havstien 2B 6853 Vejers Strand,6853,209100.0,18-12-1998,Fam.,1972,4,Sommerhus,106,2012,
+Risvej 13 6853 Vejers Strand,6853,340000.0,06-12-1998,Fam.,6800,3,Sommerhus,50,1975,
+Jafdalvej 73 6853 Vejers Strand,6853,325000.0,01-12-1998,Fam.,2754,5,Sommerhus,118,1994,
+Jafdalvej 99 6853 Vejers Strand,6853,1107840.0,18-11-1998,Alm.,6633,6,Sommerhus,167,1988,
+Nordvej 45B 6853 Vejers Strand,6853,1025000.0,16-11-1998,Alm.,14236,4,Sommerhus,72,1983,
+Risvej 50 6853 Vejers Strand,6853,216200.0,13-11-1998,Fam.,6005,3,Sommerhus,36,1962,
+Nordvej 64 6853 Vejers Strand,6853,1351628.0,26-10-1998,Alm.,12751,4,Sommerhus,106,1998,
+Vejers Havvej 30 6853 Vejers Strand,6853,475929.0,18-10-1998,Alm.,7211,4,Sommerhus,66,1958,
+Gulspurvevej 11 6853 Vejers Strand,6853,615000.0,17-09-1998,Alm.,9461,4,Sommerhus,65,1972,
+Sydvej 25 6853 Vejers Strand,6853,575000.0,12-09-1998,Alm.,5373,3,Sommerhus,107,1999,
+Engesøvej 10B 6853 Vejers Strand,6853,999000.0,26-08-1998,Alm.,10298,4,Sommerhus,97,1995,
+Vejers Havvej 72 6853 Vejers Strand,6853,975000.0,13-08-1998,Alm.,0,9,Villa,152,1955,
+Vejers Havvej 35 6853 Vejers Strand,6853,740000.0,08-08-1998,Fam.,8131,5,Sommerhus,91,1977,
+Ørnevej 22 6853 Vejers Strand,6853,487500.0,23-06-1998,Alm.,8405,3,Sommerhus,58,1970,
+Vejers Sydstrand 1. 18 6853 Vejers Strand,6853,250000.0,17-06-1998,Alm.,0,2,Sommerhus,31,1961,
+Gøgevej 19 6853 Vejers Strand,6853,615400.0,04-06-1998,Alm.,5544,4,Sommerhus,111,1962,
+Rylevej 28 6853 Vejers Strand,6853,427000.0,25-05-1998,Alm.,0,8,Sommerhus,113,1950,
+Muffparken 2 6853 Vejers Strand,6853,643485.0,11-05-1998,Alm.,0,3,Sommerhus,69,1977,
+Muffparken 15 6853 Vejers Strand,6853,560000.0,03-05-1998,Alm.,6588,5,Sommerhus,85,1969,
+Aavej 15 6853 Vejers Strand,6853,550000.0,10-04-1998,Alm.,0,5,Sommerhus,86,1962,
+Fugltoft 21 6853 Vejers Strand,6853,840000.0,20-03-1998,Alm.,0,6,Sommerhus,123,1988,
+Nordvej 73A 6853 Vejers Strand,6853,1225000.0,06-03-1998,Alm.,15123,4,Sommerhus,81,1987,
+Torskevej 20 6853 Vejers Strand,6853,711000.0,19-01-1998,Alm.,0,4,Sommerhus,95,1976,
+Kratvej 8 6853 Vejers Strand,6853,176975.0,14-01-1998,Fam.,0,5,Sommerhus,102,1958,
+Aarrildsøvej 21 6853 Vejers Strand,6853,238000.0,31-12-1997,Fam.,2975,4,Sommerhus,80,1977,
+Torskevej 15 6853 Vejers Strand,6853,133200.0,30-12-1997,Fam.,2081,5,Sommerhus,64,1937,
+Ternevej 2 6853 Vejers Strand,6853,391000.0,30-12-1997,Fam.,6015,4,Sommerhus,65,1999,
+Ørnevej 44 6853 Vejers Strand,6853,405000.0,03-12-1997,Alm.,0,4,Sommerhus,80,1960,
+Lyngdalsvej 5 6853 Vejers Strand,6853,1214980.0,06-10-1997,Alm.,9346,5,Sommerhus,130,1992,
+Nordvej 15 6853 Vejers Strand,6853,735000.0,24-09-1997,Alm.,0,3,Sommerhus,83,1932,
+Peders Vej 12 6853 Vejers Strand,6853,765000.0,22-09-1997,Alm.,10928,4,Sommerhus,70,1975,
+Gøgevej 42 6853 Vejers Strand,6853,467500.0,29-07-1997,Fam.,5500,5,Sommerhus,85,1969,
+Nordvej 38 6853 Vejers Strand,6853,200000.0,12-07-1997,Alm.,3030,3,Sommerhus,66,1998,
+Duevej 3 6853 Vejers Strand,6853,110500.0,26-06-1997,Fam.,1347,4,Sommerhus,82,1997,
+Vejers Havvej 52 6853 Vejers Strand,6853,760000.0,21-06-1997,Alm.,9047,4,Sommerhus,84,1970,
+Jafdalvej 21 6853 Vejers Strand,6853,894440.0,21-05-1997,Alm.,12087,4,Sommerhus,74,1988,
+Plantørstien 1 6853 Vejers Strand,6853,670000.0,16-05-1997,Alm.,6979,5,Sommerhus,96,1952,
+Vejers Havvej 29A 6853 Vejers Strand,6853,300000.0,30-04-1997,Fam.,4054,4,Sommerhus,74,1967,
+Nordvej 48 6853 Vejers Strand,6853,655184.0,30-04-1997,Alm.,10919,2,Sommerhus,60,1935,
+Vejers Havvej 105 6853 Vejers Strand,6853,2790934.0,30-04-1997,Fam.,12459,5,Villa,224,1978,
+Nordvej 75 6853 Vejers Strand,6853,1150000.0,28-04-1997,Alm.,6534,4,Sommerhus,176,2004,
+Vejers Havvej 74 6853 Vejers Strand,6853,770000.0,17-04-1997,Fam.,5032,4,Villa,153,2016,
+Sydvej 37 6853 Vejers Strand,6853,240000.0,12-03-1997,Fam.,5000,3,Sommerhus,48,1932,
+Gøgevej 13 6853 Vejers Strand,6853,849000.0,06-03-1997,Alm.,9228,4,Sommerhus,92,1988,
+Spættevej 8 6853 Vejers Strand,6853,919772.0,17-02-1997,Alm.,10334,5,Sommerhus,89,1968,
+Rådyrvej 20 6853 Vejers Strand,6853,350000.0,13-02-1997,Fam.,3500,4,Sommerhus,100,2007,
+Peders Vej 2 6853 Vejers Strand,6853,1279000.0,10-02-1997,Alm.,9544,4,Sommerhus,134,1995,
+Tyttebærvej 19 6853 Vejers Strand,6853,800000.0,07-02-1997,Alm.,13559,3,Sommerhus,59,1985,
+Engesøvej 105 6853 Vejers Strand,6853,674000.0,30-01-1997,Alm.,8219,4,Sommerhus,82,1974,
+Kratvej 60 6853 Vejers Strand,6853,470000.0,29-01-1997,Alm.,7230,3,Sommerhus,65,1960,
+Engesøvej 101 6853 Vejers Strand,6853,1297650.0,09-01-1997,Alm.,6723,5,Sommerhus,193,1992,
+Engesøvej 11 6853 Vejers Strand,6853,743077.0,18-12-1996,Alm.,0,4,Sommerhus,87,1990,
+Nordvej 55 6853 Vejers Strand,6853,958510.0,26-10-1996,Alm.,10892,4,Sommerhus,88,1988,
+Nordvej 40 6853 Vejers Strand,6853,797000.0,09-08-1996,Alm.,0,5,Sommerhus,84,1981,
+Stendalsvej 10 6853 Vejers Strand,6853,272000.0,10-07-1996,Fam.,3626,4,Sommerhus,75,1967,
+Vejers Havvej 55 6853 Vejers Strand,6853,467498.0,05-07-1996,Fam.,4452,4,Sommerhus,105,1948,
+Jafdalvej 91 6853 Vejers Strand,6853,1106000.0,27-06-1996,Alm.,9452,4,Sommerhus,117,1991,
+Mosevej 3 6853 Vejers Strand,6853,196000.0,22-06-1996,Alm.,3438,5,Sommerhus,57,1934,
+Nordvej 7B 6853 Vejers Strand,6853,1100000.0,15-06-1996,Alm.,13924,4,Sommerhus,79,1994,
+Violvej 1A 6853 Vejers Strand,6853,725000.0,12-06-1996,Alm.,9177,4,Sommerhus,79,1976,
+Vejers Havvej 85 6853 Vejers Strand,6853,860000.0,06-06-1996,Alm.,27741,4,BygningTilHandel,31,1998,
+Vejers Havvej 8 6853 Vejers Strand,6853,320000.0,31-05-1996,Fam.,5818,4,Sommerhus,55,1967,
+Duevej 5 6853 Vejers Strand,6853,450000.0,31-05-1996,Alm.,5696,4,Sommerhus,79,1959,
+Nordvej 51A 6853 Vejers Strand,6853,662000.0,14-05-1996,Alm.,8710,4,Sommerhus,76,1976,
+Risvej 6 6853 Vejers Strand,6853,537381.0,06-05-1996,Alm.,0,4,Sommerhus,66,1950,
+Stendalsvej 3 6853 Vejers Strand,6853,323000.0,02-05-1996,Fam.,5046,3,Sommerhus,64,1959,
+Kratvej 2 6853 Vejers Strand,6853,365500.0,27-04-1996,Fam.,5375,4,Sommerhus,68,1975,
+Nordvej 116C 6853 Vejers Strand,6853,1293000.0,18-04-1996,Alm.,11862,5,Sommerhus,109,1990,
+Nordvej 63B 6853 Vejers Strand,6853,900000.0,01-04-1996,Alm.,0,6,Sommerhus,208,1999,
+Nordvej 4A 6853 Vejers Strand,6853,675000.0,23-03-1996,Alm.,10227,3,Sommerhus,66,1916,
+Nordvej 13 6853 Vejers Strand,6853,245000.0,07-01-1996,Alm.,2187,5,Sommerhus,112,1973,
+Nordvej 18 6853 Vejers Strand,6853,578000.0,26-10-1995,Alm.,11560,4,Sommerhus,50,2000,
+Vejers Havvej 11B 6853 Vejers Strand,6853,165000.0,24-10-1995,Alm.,3437,2,Sommerhus,48,1877,
+Risvej 19 6853 Vejers Strand,6853,1058000.0,16-10-1995,Alm.,13225,5,Sommerhus,80,1995,
+Nordvej 22 6853 Vejers Strand,6853,544000.0,29-09-1995,Fam.,4945,4,Villa,110,1972,
+Ørnevej 20 6853 Vejers Strand,6853,418000.0,26-09-1995,Alm.,8530,3,Sommerhus,49,1969,
+Kratvej 62 6853 Vejers Strand,6853,575000.0,11-09-1995,Alm.,6764,5,Sommerhus,85,1977,
+Kratvej 40 6853 Vejers Strand,6853,212500.0,28-08-1995,Fam.,1967,4,Sommerhus,108,1950,
+Spættevej 13 6853 Vejers Strand,6853,292335.0,25-08-1995,Alm.,0,3,Sommerhus,85,1968,
+Stendalsvej 2 6853 Vejers Strand,6853,756000.0,10-07-1995,Alm.,7485,6,Sommerhus,101,1964,
+Bjærgevej 15B 6853 Vejers Strand,6853,600000.0,01-07-1995,Alm.,4026,6,Sommerhus,149,1995,
+Snogevej 16 6853 Vejers Strand,6853,435000.0,31-05-1995,Alm.,10875,3,Sommerhus,40,1962,
+Engesøvej 36 6853 Vejers Strand,6853,725000.0,29-05-1995,Alm.,6775,5,Sommerhus,107,1992,
+Engesøvej 29 6853 Vejers Strand,6853,700000.0,29-05-1995,Alm.,7000,5,Sommerhus,100,1992,
+Vejers Havvej 103 6853 Vejers Strand,6853,162500.0,03-05-1995,Alm.,2031,4,Sommerhus,80,1925,
+Rådyrvej 21 6853 Vejers Strand,6853,460000.0,27-04-1995,Alm.,7666,4,Sommerhus,60,1972,
+Spættevej 7 6853 Vejers Strand,6853,441985.0,17-04-1995,Fam.,6596,4,Sommerhus,67,1968,
+Torskevej 16 6853 Vejers Strand,6853,690000.0,02-04-1995,Alm.,8625,4,Sommerhus,80,1986,
+Aavej 2 6853 Vejers Strand,6853,385000.0,28-03-1995,Alm.,0,4,Sommerhus,82,1962,
+Gøgevej 7 6853 Vejers Strand,6853,665000.0,24-03-1995,Alm.,8986,4,Sommerhus,74,1973,
+Gøgevej 6 6853 Vejers Strand,6853,573000.0,16-03-1995,Alm.,0,5,Sommerhus,111,1971,
+Spurvevej 7 6853 Vejers Strand,6853,260000.0,18-02-1995,Fam.,5000,3,Sommerhus,52,1954,
+"Mågevej 8F, ST 6853 Vejers Strand",6853,127500.0,10-02-1995,Fam.,2318,3,Sommerhus,55,1937,
+Peders Vej 4 6853 Vejers Strand,6853,900000.0,01-02-1995,Alm.,10714,4,Sommerhus,84,1994,
+Vejers Havvej 49 6853 Vejers Strand,6853,330000.0,21-01-1995,Fam.,6346,3,Sommerhus,52,1930,
+Engesøvej 37 6853 Vejers Strand,6853,825000.0,21-12-1994,Alm.,7783,5,Sommerhus,106,1992,
+Gulspurvevej 1 6853 Vejers Strand,6853,600000.0,05-12-1994,Auktion,5000,4,Sommerhus,120,1977,
+Kratvej 34 6853 Vejers Strand,6853,550000.0,01-12-1994,Alm.,0,4,Sommerhus,84,1970,
+Engesøvej 70 6853 Vejers Strand,6853,465000.0,30-11-1994,Alm.,7500,3,Sommerhus,62,1981,
+Vejers Sydstrand 1. 1 6853 Vejers Strand,6853,200000.0,10-11-1994,Alm.,0,2,Sommerhus,24,1961,
+Risvej 2 6853 Vejers Strand,6853,578000.0,01-11-1994,Fam.,5504,5,Sommerhus,105,1935,
+Vejers Havvej 11A 6853 Vejers Strand,6853,206800.0,30-08-1994,Alm.,4700,2,Sommerhus,44,1877,
+Nordvej 128 6853 Vejers Strand,6853,846000.0,24-08-1994,Alm.,0,4,Sommerhus,112,1977,
+Engesøvej 31 6853 Vejers Strand,6853,1075000.0,07-07-1994,Alm.,0,5,Sommerhus,109,1994,
+Havstien 7 6853 Vejers Strand,6853,330000.0,02-07-1994,Fam.,0,4,Sommerhus,65,1966,
+Engesøvej 9 6853 Vejers Strand,6853,680000.0,24-06-1994,Alm.,6800,5,Sommerhus,100,1992,
+Engesøvej 26 6853 Vejers Strand,6853,725000.0,24-06-1994,Alm.,6775,5,Sommerhus,107,1992,
+Engesøvej 28 6853 Vejers Strand,6853,725000.0,24-06-1994,Alm.,6775,5,Sommerhus,107,1992,
+Ternevej 12 6853 Vejers Strand,6853,650000.0,21-06-1994,Alm.,7647,4,Sommerhus,85,1977,
+Engesøvej 8 6853 Vejers Strand,6853,680000.0,20-06-1994,Alm.,6800,5,Sommerhus,100,1992,
+Engesøvej 34 6853 Vejers Strand,6853,725000.0,20-06-1994,Alm.,6531,6,Sommerhus,111,1992,
+Snerlevej 2 6853 Vejers Strand,6853,189100.0,17-06-1994,Fam.,2011,5,Sommerhus,94,1973,
+Vejers Sydstrand 1. 6 6853 Vejers Strand,6853,192000.0,31-05-1994,Alm.,0,2,Sommerhus,28,1961,
+Muffparken 27 6853 Vejers Strand,6853,365000.0,10-05-1994,Alm.,5289,3,Sommerhus,69,1968,
+Nordvej 122 6853 Vejers Strand,6853,540000.0,09-05-1994,Alm.,8181,4,Sommerhus,66,1979,
+Rådyrvej 4 6853 Vejers Strand,6853,178500.0,02-05-1994,Fam.,2348,4,Sommerhus,76,1973,
+Rådyrvej 23 6853 Vejers Strand,6853,500000.0,15-04-1994,Alm.,7142,4,Sommerhus,70,1972,
+Rådyrvej 27 6853 Vejers Strand,6853,425000.0,14-04-1994,Alm.,0,4,Sommerhus,106,1965,
+Kræmmervej 14 6853 Vejers Strand,6853,330000.0,12-04-1994,Alm.,4024,4,Sommerhus,82,1998,
+Kratvej 30 6853 Vejers Strand,6853,445000.0,01-04-1994,Alm.,6357,4,Sommerhus,70,1971,
+Kræmmervej 13 6853 Vejers Strand,6853,595000.0,01-04-1994,Alm.,0,4,Sommerhus,104,1976,
+Kræmmervej 5 6853 Vejers Strand,6853,290000.0,17-03-1994,Alm.,1920,3,Sommerhus,151,2000,
+Engesøvej 79 6853 Vejers Strand,6853,451000.0,11-03-1994,Alm.,0,5,Sommerhus,109,1981,
+Snogevej 9 6853 Vejers Strand,6853,250000.0,10-01-1994,Alm.,2551,4,Sommerhus,98,1997,
+Tyttebærvej 3 6853 Vejers Strand,6853,1050000.0,01-01-1994,Fam.,7094,4,Sommerhus,148,1992,
+Fugltoft 13 6853 Vejers Strand,6853,1045000.0,15-12-1993,Alm.,0,5,Sommerhus,124,1988,
+Tyttebærvej 8 6853 Vejers Strand,6853,493000.0,15-12-1993,Fam.,5477,4,Sommerhus,90,1968,
+Engesøvej 6 6853 Vejers Strand,6853,764180.0,09-12-1993,Alm.,8490,4,Sommerhus,90,1990,
+Fugltoft 23 6853 Vejers Strand,6853,1045000.0,06-12-1993,Alm.,0,5,Sommerhus,96,1988,
+Snogevej 7 6853 Vejers Strand,6853,257000.0,17-11-1993,Alm.,2595,4,Sommerhus,99,1994,
+Vejers Havvej 51 6853 Vejers Strand,6853,300000.0,13-11-1993,Fam.,5555,4,Sommerhus,54,1937,
+Risvej 40 6853 Vejers Strand,6853,550000.0,01-10-1993,Alm.,5238,4,Sommerhus,105,1969,
+Duevej 4 6853 Vejers Strand,6853,51000.0,07-09-1993,Fam.,0,3,Sommerhus,66,1961,
+Vejers Sydstrand 1. 19 6853 Vejers Strand,6853,145000.0,19-08-1993,Alm.,0,2,Sommerhus,31,1961,
+Mosevej 14 6853 Vejers Strand,6853,300000.0,18-08-1993,Alm.,5357,3,Sommerhus,56,1961,
+Gøgevej 38 6853 Vejers Strand,6853,229500.0,02-08-1993,Fam.,3642,3,Sommerhus,63,1972,
+Snogevej 5 6853 Vejers Strand,6853,555000.0,28-05-1993,Alm.,7115,4,Sommerhus,78,1984,
+Violvej 17 6853 Vejers Strand,6853,310000.0,09-05-1993,Alm.,0,4,Sommerhus,88,1993,
+Ternevej 8 6853 Vejers Strand,6853,285000.0,27-04-1993,Alm.,3958,4,Sommerhus,72,1947,
+Duevej 7 6853 Vejers Strand,6853,300000.0,15-03-1993,Alm.,0,4,Sommerhus,100,1942,
+Nordvej 118 6853 Vejers Strand,6853,885000.0,27-11-1992,Alm.,0,6,Sommerhus,172,1936,
+Engesøvej 121 6853 Vejers Strand,6853,310000.0,13-11-1992,Alm.,3369,4,Sommerhus,92,2007,
+Jafdalvej 39 6853 Vejers Strand,6853,640000.0,14-10-1992,Alm.,8101,4,Sommerhus,79,1984,
+Jafdalvej 27 6853 Vejers Strand,6853,770000.0,30-09-1992,Alm.,8651,4,Sommerhus,89,1983,
+Gøgevej 5 6853 Vejers Strand,6853,785000.0,29-08-1992,Alm.,8820,4,Sommerhus,89,1986,
+Engesøvej 14B 6853 Vejers Strand,6853,860500.0,03-08-1992,Alm.,11032,3,Sommerhus,78,1992,
+Rosenvej 12 6853 Vejers Strand,6853,781000.0,08-07-1992,Alm.,11157,4,Sommerhus,70,1973,
+Rosenvej 2 6853 Vejers Strand,6853,345000.0,01-07-1992,Alm.,4600,5,Sommerhus,75,1936,
+Bjærgevej 17 6853 Vejers Strand,6853,598870.0,20-06-1992,Fam.,7984,4,Sommerhus,75,1994,
+Jafdalvej 13 6853 Vejers Strand,6853,570000.0,10-06-1992,Alm.,8507,4,Sommerhus,67,1984,
+Jafdalvej 97 6853 Vejers Strand,6853,958000.0,03-06-1992,Alm.,0,7,Sommerhus,192,1990,
+Nordvej 51B 6853 Vejers Strand,6853,548000.0,26-05-1992,Alm.,3942,5,Sommerhus,139,1992,
+Gøgevej 18 6853 Vejers Strand,6853,533000.0,25-05-1992,Andet,5922,4,Sommerhus,90,2003,
+Kræmmervej 4 6853 Vejers Strand,6853,610000.0,11-03-1992,Fam.,6777,2,Sommerhus,90,1965,
+Engesøvej 98 6853 Vejers Strand,6853,200000.0,09-03-1992,Fam.,3076,4,Sommerhus,65,1980,
+"Mågevej 8D, ST 6853 Vejers Strand",6853,165000.0,05-03-1992,Alm.,2750,3,Sommerhus,60,1937,
+Engesøvej 112 6853 Vejers Strand,6853,395000.0,27-01-1992,Alm.,0,4,Sommerhus,81,1974,

@@ -1,0 +1,828 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Vejlevej 21 7182 Bredsten,21,609635.0,01-05-2017,Fam.,4175,6,Villa,146,1907,
+Johan Skjoldborg Vej 70 7182 Bredsten,70,1495000.0,19-04-2017,Alm.,10992,4,Villa,136,1978,
+Storedalsvej 7 7182 Bredsten,7,1400000.0,19-04-2017,Alm.,14736,3,Rækkehus,95,2008,
+Lihmskovvej 1 7182 Bredsten,1,3500000.0,21-03-2017,Alm.,18134,6,Villa,193,1912,-22 %
+Møllegårdsvej 2 7182 Bredsten,2,700000.0,14-03-2017,Fam.,5147,4,Villa,136,1971,
+Lille Ravningvej 10 7182 Bredsten,10,1525000.0,14-03-2017,Alm.,8567,6,Stuehus,178,1877,
+Vesterløkke 6 7182 Bredsten,6,985000.0,14-03-2017,Alm.,7817,5,Villa,126,1978,0 %
+Jennumvej 249 7182 Bredsten,249,710000.0,24-02-2017,Alm.,5259,2,Stuehus,135,1885,-10 %
+De Lichtenbergs Vej 2 7182 Bredsten,2,850000.0,15-02-2017,Alm.,6854,4,Villa,124,1877,-15 %
+Ladegårdvej 10 7182 Bredsten,10,1255000.0,31-01-2017,Alm.,9160,5,Villa,137,1877,-10 %
+Kirkegade 2 7182 Bredsten,2,550000.0,19-01-2017,Alm.,3928,5,Villa,140,1900,
+Skovvej 9 7182 Bredsten,9,489000.0,22-12-2016,Andet,2317,7,Villa,211,1973,
+Skolevænget 1 7182 Bredsten,1,1400000.0,12-12-2016,Alm.,9790,5,Villa,143,1925,
+Anton Berntsen Vej 19 7182 Bredsten,19,873500.0,11-12-2016,Alm.,4411,6,Villa,198,1986,
+Steen Blicher Vej 101 7182 Bredsten,101,3000000.0,07-12-2016,Fam.,10869,7,Stuehus,276,1934,
+Storedalsvej 5 7182 Bredsten,5,1380000.0,05-12-2016,Alm.,14526,3,Rækkehus,95,2008,-1 %
+Johan Skjoldborg Vej 50 7182 Bredsten,50,1575000.0,30-11-2016,Alm.,11580,5,Villa,136,1978,-1 %
+Engelsholmvej 3 7182 Bredsten,3,4400000.0,23-11-2016,Alm.,19909,5,Stuehus,221,1997,-12 %
+Anton Berntsen Vej 24 7182 Bredsten,24,2250000.0,18-11-2016,Alm.,14331,6,Villa,157,1997,-10 %
+Nybovej 5 7182 Bredsten,5,2300000.0,31-10-2016,Alm.,10648,5,Villa,216,2009,-4 %
+Vesterløkke 44 7182 Bredsten,44,950000.0,17-10-2016,Alm.,6884,5,Villa,138,1977,-5 %
+Møllegårdsvej 17 7182 Bredsten,17,950000.0,10-10-2016,Alm.,7600,4,Villa,125,1973,-17 %
+Kærbøllinghusevej 22 7182 Bredsten,22,2550000.0,10-10-2016,Alm.,11086,6,Stuehus,230,1973,
+Rolighedsvej 27 7182 Bredsten,27,2700000.0,07-10-2016,Alm.,14136,6,Villa,191,1920,-3 %
+Balle Nørremarksvej 8 7182 Bredsten,8,400000.0,06-10-2016,Alm.,4761,3,Stuehus,84,1924,
+Billundvej 9 7182 Bredsten,9,1125000.0,30-09-2016,Alm.,7705,5,Villa,146,1942,-2 %
+Gyngemosen 1 7182 Bredsten,1,825500.0,13-09-2016,Alm.,3620,8,Villa,228,1877,
+Mejerivej 10 7182 Bredsten,10,2370000.0,01-09-2016,Alm.,11617,7,Villa,204,1928,0 %
+Steen Blicher Vej 95 7182 Bredsten,95,2830000.0,22-08-2016,Alm.,13804,7,Villa,205,2007,-2 %
+Skovtoften 31 7182 Bredsten,31,1300000.0,15-08-2016,Alm.,7975,8,Villa,163,1979,-7 %
+De Lichtenbergs Vej 13 7182 Bredsten,13,1400000.0,12-08-2016,Alm.,11290,4,Villa,124,1974,-6 %
+Skovvej 3 7182 Bredsten,3,1535000.0,02-08-2016,Alm.,7994,5,Villa,192,1970,-4 %
+Ravningvej 60 7182 Bredsten,60,1500000.0,21-07-2016,Alm.,10714,3,Villa,140,1970,-25 %
+Storedalsvej 3 7182 Bredsten,3,1350000.0,18-07-2016,Alm.,14210,3,Rækkehus,95,2008,-3 %
+Johan Skjoldborg Vej 24 7182 Bredsten,24,1450000.0,01-07-2016,Alm.,10357,5,Villa,140,1976,-2 %
+Hærvejen 87 7182 Bredsten,87,80000.0,29-06-2016,Alm.,340,6,Stuehus,235,1927,
+Østermarksvej 4 7182 Bredsten,4,1100000.0,28-06-2016,Alm.,7333,5,Stuehus,150,1840,-7 %
+Kærbølling Skovvej 2 7182 Bredsten,2,85000.0,01-06-2016,Fam.,337,11,Villa,252,1847,
+Jeppe Åkjær Vej 24 7182 Bredsten,24,1475000.0,31-05-2016,Alm.,10688,5,Villa,138,1977,-8 %
+Thit Jensen Vej 3 7182 Bredsten,3,2275000.0,12-05-2016,Alm.,14218,5,Villa,160,2001,-5 %
+Steen Blicher Vej 19 7182 Bredsten,19,1295000.0,04-05-2016,Alm.,9452,4,Villa,137,1982,0 %
+Lihmskovvej 23 7182 Bredsten,23,3400000.0,19-04-2016,Alm.,14285,6,Villa,238,2007,-15 %
+Lupinvej 1 7182 Bredsten,1,745000.0,19-04-2016,Alm.,5173,6,Villa,144,1952,0 %
+St. Lihme Møllevej 27 7182 Bredsten,27,3025000.0,11-04-2016,Alm.,14135,8,Stuehus,214,1929,
+Engelsholmvej 5 7182 Bredsten,5,1970000.0,04-04-2016,Alm.,12792,5,Stuehus,154,1932,-1 %
+Molsgårdvej 3 7182 Bredsten,3,1125000.0,23-03-2016,Alm.,5653,5,Villa,199,1890,
+Hærvejen 86 7182 Bredsten,86,685000.0,18-03-2016,Alm.,5150,5,Stuehus,133,1928,-13 %
+Skovvej 23 7182 Bredsten,23,825000.0,16-03-2016,Alm.,6875,4,Villa,120,1972,-12 %
+Mejerivej 6 7182 Bredsten,6,1150000.0,28-02-2016,Alm.,8582,4,Villa,134,1927,-11 %
+Jellingvej 14 7182 Bredsten,14,500000.0,25-02-2016,Fam.,5952,3,Villa,84,1963,
+Vestervang 5 7182 Bredsten,5,495000.0,24-02-2016,Alm.,4125,5,Villa,120,1962,
+Lihmskovvej 8 7182 Bredsten,8,550000.0,17-02-2016,Alm.,6626,3,Villa,83,1770,0 %
+"Billundvej 24, 1 7182 Bredsten",1,460000.0,12-02-2016,Andet,3865,5,Lejlighed,119,1956,-34 %
+Lihmskovvej 19 7182 Bredsten,19,804570.0,09-02-2016,Alm.,4650,5,Stuehus,173,1932,
+Billundvej 1 7182 Bredsten,1,451129.0,28-01-2016,Auktion,3366,5,Villa,134,1960,
+Storedalsvej 26 7182 Bredsten,26,2325000.0,16-12-2015,Alm.,13757,5,Villa,169,2005,-7 %
+Hærvejen 93 7182 Bredsten,93,1840913.0,10-12-2015,Alm.,7800,7,Stuehus,236,1910,-63 %
+De Lichtenbergs Vej 28A 7182 Bredsten,0,1950000.0,02-12-2015,Alm.,10209,9,Villa,191,1924,
+Lihmskovvej 22 7182 Bredsten,22,195000.0,25-11-2015,Alm.,2052,4,Villa,95,1883,0 %
+Kærbøllinghusevej 51 7182 Bredsten,51,2215000.0,15-11-2015,Alm.,7637,9,Villa,290,1877,-11 %
+Buen 9 7182 Bredsten,9,1375000.0,13-11-2015,Alm.,7472,5,Villa,184,1970,-5 %
+Skovvej 22 7182 Bredsten,22,1317500.0,10-11-2015,Alm.,8132,5,Villa,162,1973,-5 %
+Sødovervej 48 7182 Bredsten,48,6975000.0,02-11-2015,Alm.,20394,7,Stuehus,342,1978,
+Lyngbjergvej 8 7182 Bredsten,8,2770500.0,21-10-2015,Fam.,13068,7,Stuehus,212,1900,
+Nybovej 47 7182 Bredsten,47,750000.0,14-10-2015,Alm.,3926,7,Villa,191,1997,
+Skovtoften 13B 7182 Bredsten,0,725000.0,07-10-2015,Alm.,8950,3,Rækkehus,81,1988,-3 %
+Nybovej 17A 7182 Bredsten,0,375000.0,01-09-2015,Alm.,1785,5,Villa,210,2016,
+Storedalsvej 15B 7182 Bredsten,0,1020000.0,28-08-2015,Fam.,9714,4,Rækkehus,105,2008,
+Fabriksvejen 28 7182 Bredsten,28,1780000.0,21-08-2015,Alm.,11125,4,Villa,160,1936,-6 %
+Smedens Ager 4 7182 Bredsten,4,2670000.0,09-08-2015,Alm.,10113,7,Villa,264,1973,-4 %
+Skovtoften 13A 7182 Bredsten,0,180000.0,30-07-2015,Fam.,2222,3,Rækkehus,81,1988,
+Lindeparken 1 7182 Bredsten,1,1960000.0,27-07-2015,Alm.,9377,9,Villa,209,1999,-2 %
+Lille Ravningvej 6 7182 Bredsten,6,125000.0,03-07-2015,Alm.,816,6,Villa,153,1777,
+Søgårdvej 1 7182 Bredsten,1,895000.0,04-06-2015,Alm.,7991,2,Villa,112,1927,0 %
+Lihmskovvej 24 7182 Bredsten,24,1340000.0,29-05-2015,Alm.,8589,6,Villa,156,1880,-4 %
+Dyrehavevej 2 7182 Bredsten,2,285000.0,28-05-2015,Alm.,2850,3,Villa,100,1925,-28 %
+Storedalsvej 64 7182 Bredsten,64,2700000.0,22-05-2015,Alm.,12918,6,Villa,209,2008,-3 %
+Ollerupvej 3 7182 Bredsten,3,120000.0,14-05-2015,Alm.,2500,2,Villa,48,1900,-38 %
+Kærbøllinghusevej 26 7182 Bredsten,26,1136203.0,07-05-2015,Alm.,6141,7,Villa,185,1872,
+Bredstenvej 61 7182 Bredsten,61,888916.0,22-04-2015,Alm.,3864,4,Villa,230,1926,-55 %
+Billundvej 46 7182 Bredsten,46,1555000.0,07-04-2015,Alm.,10506,5,Villa,148,1917,-3 %
+Skærhejselvej 4 7182 Bredsten,4,1500000.0,27-03-2015,Fam.,8522,7,Villa,176,1950,
+Ballevej 17 7182 Bredsten,17,1400000.0,17-03-2015,Alm.,6603,6,Villa,212,1924,-3 %
+Johan Skjoldborg Vej 20 7182 Bredsten,20,1425000.0,11-03-2015,Alm.,9563,5,Villa,149,1977,-5 %
+Søbakken 13 7182 Bredsten,13,853840.0,09-03-2015,Fam.,5206,5,Stuehus,164,1933,-52 %
+Skovtoften 10 7182 Bredsten,10,699395.0,02-03-2015,Fam.,4066,6,Villa,172,1980,
+Nybovej 7B 7182 Bredsten,0,750000.0,18-02-2015,Alm.,7211,4,Rækkehus,104,2016,
+Johan Skjoldborg Vej 37 7182 Bredsten,37,1400000.0,02-02-2015,Alm.,10852,4,Villa,129,1977,-6 %
+Anton Berntsen Vej 8 7182 Bredsten,8,1772500.0,02-02-2015,Alm.,12224,5,Villa,145,1999,-6 %
+Storedalsvej 24 7182 Bredsten,24,942500.0,29-01-2015,Alm.,6080,6,Villa,155,2003,
+De Lichtenbergs Vej 10 7182 Bredsten,10,1225000.0,20-12-2014,Alm.,9141,7,Villa,134,1938,
+Kærbøllingvej 10 7182 Bredsten,10,580000.0,19-12-2014,Alm.,2222,7,Stuehus,261,1904,
+Kærbøllingvej 90 7182 Bredsten,90,650000.0,19-12-2014,Alm.,5118,2,Villa,127,1900,-17 %
+Skærhejselvej 20 7182 Bredsten,20,1318000.0,16-12-2014,Fam.,5272,6,Villa,250,2015,
+Søgårdvej 7 7182 Bredsten,7,1925000.0,11-12-2014,Alm.,9344,5,Stuehus,206,1904,-4 %
+Ravning Skovvej 6 7182 Bredsten,6,1540000.0,03-12-2014,Alm.,9685,4,Villa,159,1877,-7 %
+Kærbøllingvej 101 7182 Bredsten,101,1200000.0,21-11-2014,Alm.,7843,6,Villa,153,1892,-4 %
+De Lichtenbergs Vej 15 7182 Bredsten,15,970000.0,08-11-2014,Alm.,6830,6,Villa,142,1918,-3 %
+Ballevej 56 7182 Bredsten,56,885000.0,30-10-2014,Alm.,5709,8,Villa,155,1930,-11 %
+Steen Blicher Vej 91C 7182 Bredsten,0,627902.0,27-10-2014,Alm.,4158,4,Villa,151,2015,
+Kobberbølvej 6 7182 Bredsten,6,895000.0,10-10-2014,Alm.,5593,5,Stuehus,160,1916,
+Bredstenlundvej 1 7182 Bredsten,1,13920000.0,02-10-2014,Alm.,46245,10,Stuehus,301,1909,
+Sødovervej 19 7182 Bredsten,19,1170200.0,16-09-2014,Fam.,7007,6,Stuehus,167,1877,
+Molsgårdvej 5 7182 Bredsten,5,1425000.0,30-07-2014,Alm.,8850,7,Stuehus,161,1930,-5 %
+Svinget 2 7182 Bredsten,2,1450000.0,24-06-2014,Alm.,10283,5,Villa,141,1968,-3 %
+Ballevej 8 7182 Bredsten,8,750000.0,26-05-2014,Alm.,5859,4,Villa,128,1904,-16 %
+Nybovej 81 7182 Bredsten,81,1750000.0,29-04-2014,Alm.,10294,5,Villa,170,1999,-3 %
+Søskovvej 3 7182 Bredsten,3,1000000.0,25-04-2014,Alm.,5208,5,Villa,192,1872,-26 %
+"Kirkegade 13, 1 7182 Bredsten",1,660000.0,02-04-2014,Alm.,3384,5,Villa,195,1900,-26 %
+Kærbøllinghusevej 24 7182 Bredsten,24,1865000.0,14-02-2014,Alm.,8288,5,Villa,225,2005,-61 %
+"Kirkegade 29, 1 7182 Bredsten",1,280000.0,30-01-2014,Auktion,3636,3,Lejlighed,77,1980,
+Billundvej 15 7182 Bredsten,15,895000.0,17-01-2014,Alm.,7160,3,Villa,125,1964,0 %
+Vejlevej 63 7182 Bredsten,63,585500.0,13-01-2014,Fam.,3705,4,Stuehus,158,1911,
+Johan Skjoldborg Vej 2 7182 Bredsten,2,1200000.0,16-12-2013,Alm.,7272,6,Villa,165,1975,-7 %
+Steen Blicher Vej 93B 7182 Bredsten,0,605928.0,10-12-2013,Alm.,3189,5,Villa,190,2015,
+Vesterløkke 46 7182 Bredsten,46,1675000.0,06-12-2013,Alm.,10601,4,Villa,158,1979,-1 %
+Ballevej 93 7182 Bredsten,93,434597.0,04-12-2013,Alm.,5432,3,Villa,80,1957,
+Johan Skjoldborg Vej 60 7182 Bredsten,60,875500.0,28-11-2013,Alm.,6122,6,Villa,143,1978,
+Møllegårdsvej 5 7182 Bredsten,5,700000.0,14-11-2013,Alm.,5555,4,Villa,126,1972,-18 %
+Smedens Ager 8 7182 Bredsten,8,910000.0,14-11-2013,Alm.,7913,4,Villa,115,1972,-9 %
+Johan Skjoldborg Vej 19 7182 Bredsten,19,1750000.0,22-10-2013,Alm.,10479,6,Villa,167,1975,
+Ballevej 36 7182 Bredsten,36,175000.0,24-09-2013,Alm.,767,5,Villa,228,1915,
+Sødover Tværvej 1 7182 Bredsten,1,1615000.0,01-09-2013,Alm.,4295,8,Stuehus,376,2014,
+Billundvej 44 7182 Bredsten,44,850000.0,27-08-2013,Alm.,5666,4,Villa,150,1918,-5 %
+Molsgårdvej 1 7182 Bredsten,1,610000.0,15-08-2013,Alm.,4552,5,Stuehus,134,1875,
+Fabriksvejen 12 7182 Bredsten,12,1045000.0,15-08-2013,Alm.,11875,3,Villa,88,1947,-9 %
+Storedalsvej 9 7182 Bredsten,9,1300000.0,22-07-2013,Alm.,12380,4,Rækkehus,105,2007,-3 %
+Billundvej 40 7182 Bredsten,40,660000.0,10-07-2013,Andet,3203,8,Villa,206,1956,
+Nybovej 21 7182 Bredsten,21,400000.0,01-07-2013,Alm.,2209,7,Villa,181,2014,
+Søbakken 3 7182 Bredsten,3,2850000.0,30-06-2013,Alm.,15240,5,Villa,187,1827,-9 %
+Buen 8 7182 Bredsten,8,850000.0,20-06-2013,Alm.,7798,4,Villa,109,1969,-8 %
+Ravningvej 51 7182 Bredsten,51,1850200.0,23-05-2013,Alm.,11420,5,Stuehus,162,1932,
+Nederbyvej 3 7182 Bredsten,3,900000.0,23-05-2013,Alm.,10227,3,Villa,88,1969,-10 %
+Skovvej 24 7182 Bredsten,24,435700.0,21-05-2013,Andet,3025,5,Villa,144,1973,
+Johan Skjoldborg Vej 72 7182 Bredsten,72,780000.0,17-05-2013,Andet,5270,5,Villa,148,1978,
+Kirkegade 38 7182 Bredsten,38,955000.0,10-05-2013,Alm.,7958,4,Villa,120,1932,-13 %
+Mølletoften 1 7182 Bredsten,1,625000.0,02-05-2013,Auktion,5122,5,Villa,122,1895,-21 %
+Kærbøllingvej 114 7182 Bredsten,114,1845000.0,16-04-2013,Alm.,9271,7,Villa,199,1981,0 %
+Sødovervej 33 7182 Bredsten,33,850000.0,08-04-2013,Fam.,4644,6,Stuehus,183,1910,
+Høllundvej 67 7182 Bredsten,67,1350000.0,13-03-2013,Alm.,10714,4,Villa,126,1874,-3 %
+Kapselvej 4 7182 Bredsten,4,1170000.0,11-03-2013,Alm.,6324,4,Villa,185,1978,-22 %
+Ballevej 22 7182 Bredsten,22,1000000.0,08-03-2013,Fam.,8130,4,Villa,123,1948,
+Ballevej 33 7182 Bredsten,33,795000.0,09-02-2013,Alm.,5408,6,Villa,147,1871,-20 %
+Molsgårdvej 17 7182 Bredsten,17,1575000.0,28-01-2013,Alm.,10096,3,Stuehus,156,1892,-7 %
+Dyrehavevej 6 7182 Bredsten,6,725000.0,17-01-2013,Alm.,7323,3,Villa,99,1984,-9 %
+Billundvej 16 7182 Bredsten,16,3200000.0,20-12-2012,Alm.,13973,10,Lejlighed,229,1902,
+Balle Nørremarksvej 11 7182 Bredsten,11,1950000.0,05-12-2012,Alm.,9420,5,Stuehus,207,1860,-15 %
+De Lichtenbergs Vej 22 7182 Bredsten,22,1725000.0,05-12-2012,Alm.,12777,4,Villa,135,1938,
+Vesterløkke 8 7182 Bredsten,8,1340000.0,21-11-2012,Fam.,8758,5,Villa,153,1976,
+Storedalsvej 58 7182 Bredsten,58,2600000.0,17-11-2012,Alm.,16250,5,Villa,160,2008,-4 %
+Kærbøllinghusevej 53 7182 Bredsten,53,1980000.0,09-11-2012,Alm.,13469,3,Stuehus,147,1850,-10 %
+Hærvejen 90 7182 Bredsten,90,1250000.0,15-10-2012,Alm.,7530,4,Villa,166,1956,-10 %
+Skovvej 11 7182 Bredsten,11,1810000.0,20-08-2012,Alm.,10055,6,Villa,180,1973,-3 %
+Buen 12 7182 Bredsten,12,820000.0,14-08-2012,Alm.,6119,5,Villa,134,1967,-18 %
+Smedens Ager 10 7182 Bredsten,10,1550000.0,01-08-2012,Alm.,10402,4,Villa,149,1973,-22 %
+Kærbøllinghusevej 68 7182 Bredsten,68,1850000.0,04-07-2012,Alm.,19072,5,Stuehus,97,1964,-16 %
+Ravningvej 27 7182 Bredsten,27,100000.0,28-06-2012,Alm.,892,3,Sommerhus,112,1996,
+Bredstenlundvej 19 7182 Bredsten,19,50000.0,19-06-2012,Alm.,196,8,Stuehus,254,1923,
+Jeppe Åkjær Vej 18 7182 Bredsten,18,1885000.0,24-05-2012,Alm.,10080,7,Villa,187,1976,-6 %
+Sødovervej 46 7182 Bredsten,46,1300000.0,16-05-2012,Alm.,4676,5,Villa,278,1880,
+Ollerupvej 1 7182 Bredsten,1,590000.0,14-05-2012,Alm.,5728,3,Villa,103,1857,-15 %
+Buen 11 7182 Bredsten,11,1145000.0,27-04-2012,Alm.,13011,3,Villa,88,1968,0 %
+Nybovej 89 7182 Bredsten,89,1485000.0,21-04-2012,Alm.,11165,5,Villa,133,1997,-7 %
+Storedalsvej 60B 7182 Bredsten,0,325000.0,04-04-2012,Alm.,1649,7,Villa,197,2012,
+Schæferhusvej 13 7182 Bredsten,13,2395000.0,27-02-2012,Alm.,11740,5,Villa,204,1878,0 %
+Kjeldkærvej 1 7182 Bredsten,1,1500000.0,09-02-2012,Alm.,11718,5,Villa,128,1971,
+Møllegårdsvej 21 7182 Bredsten,21,1295000.0,07-02-2012,Alm.,9452,4,Villa,137,1973,
+Ravningvej 50 7182 Bredsten,50,275000.0,24-01-2012,Alm.,1131,7,Stuehus,243,1887,
+Kærbøllingvej 126 7182 Bredsten,126,2700000.0,23-01-2012,Alm.,10887,7,Villa,248,1873,-15 %
+Kløvermarksvej 2 7182 Bredsten,2,1500000.0,21-12-2011,Alm.,11718,6,Villa,128,1951,-12 %
+Smedens Ager 15 7182 Bredsten,15,983000.0,01-11-2011,Alm.,5715,4,Villa,172,1974,-18 %
+Buen 1 7182 Bredsten,1,925000.0,27-10-2011,Alm.,8114,3,Villa,114,1965,-7 %
+Steen Blicher Vej 93A 7182 Bredsten,0,593000.0,25-10-2011,Alm.,3638,5,Villa,163,2012,
+Engen 23 7182 Bredsten,23,998000.0,24-10-2011,Alm.,10967,4,Rækkehus,91,2002,
+Steen Blicher Vej 91D 7182 Bredsten,0,550000.0,06-10-2011,Alm.,4263,4,Villa,129,2012,
+Jellingvej 23 7182 Bredsten,23,30000.0,03-10-2011,Andet,176,6,Villa,170,1923,
+Jellingvej 28 7182 Bredsten,28,110000.0,21-09-2011,Alm.,666,5,Villa,165,1875,
+Ladegårdvej 6 7182 Bredsten,6,1930000.0,17-09-2011,Alm.,0,7,Stuehus,192,1900,-6 %
+Storedalsvej 48 7182 Bredsten,48,2495000.0,15-09-2011,Alm.,12111,5,Villa,206,2008,0 %
+Steen Blicher Vej 91B 7182 Bredsten,0,569000.0,13-09-2011,Alm.,4515,3,Villa,126,2015,
+Tørskindvej 8 7182 Bredsten,8,950000.0,12-09-2011,Alm.,8796,4,Villa,108,1968,-5 %
+Storedalsvej 40 7182 Bredsten,40,2450000.0,05-06-2011,Alm.,15506,5,Villa,158,2011,-6 %
+Sødovervej 23 7182 Bredsten,23,2875000.0,31-05-2011,Alm.,16715,6,Stuehus,172,1852,
+Vejlevej 2 7182 Bredsten,2,650000.0,12-05-2011,Auktion,4193,5,Rækkehus,155,1908,-57 %
+Billundvej 36 7182 Bredsten,36,875000.0,31-03-2011,Alm.,6944,4,Villa,126,1988,-2 %
+Gammelbyvej 12 7182 Bredsten,12,1550000.0,17-03-2011,Auktion,8201,4,Stuehus,189,1965,-38 %
+Fabriksvejen 6 7182 Bredsten,6,1450000.0,19-01-2011,Alm.,8192,5,Villa,177,1920,-3 %
+Ballevej 46 7182 Bredsten,46,824500.0,24-12-2010,Fam.,4409,6,Villa,187,1896,
+Skovvej 20 7182 Bredsten,20,1450000.0,20-12-2010,Alm.,10820,5,Villa,134,1972,-9 %
+Østermarksvej 2 7182 Bredsten,2,865000.0,08-12-2010,Alm.,10058,4,Villa,86,1827,-6 %
+Ballevej 66 7182 Bredsten,66,1180000.0,18-11-2010,Alm.,13258,6,Villa,89,1958,-6 %
+Kirkegade 4 7182 Bredsten,4,580913.0,18-11-2010,Fam.,4468,3,Villa,130,1895,
+Thit Jensen Vej 17 7182 Bredsten,17,2055000.0,08-11-2010,Alm.,13700,5,Villa,150,1999,
+Thit Jensen Vej 11 7182 Bredsten,11,2300000.0,05-11-2010,Alm.,13609,5,Villa,169,1999,-4 %
+Thit Jensen Vej 21 7182 Bredsten,21,2325000.0,03-11-2010,Alm.,14090,5,Villa,165,1998,
+Ballevej 100 7182 Bredsten,100,1351000.0,09-10-2010,Alm.,9861,6,Villa,137,1870,-3 %
+Thit Jensen Vej 29 7182 Bredsten,29,1050000.0,30-09-2010,Fam.,6250,5,Villa,168,2000,
+Elmevej 28 7182 Bredsten,28,2245000.0,20-09-2010,Alm.,12472,4,Villa,180,1973,0 %
+Jeppe Åkjær Vej 15 7182 Bredsten,15,820000.0,07-09-2010,Fam.,4852,7,Villa,169,1975,
+Industriparken 2 7182 Bredsten,2,2600000.0,10-08-2010,Alm.,10400,7,Villa,250,1976,
+Møllegårdsvej 15 7182 Bredsten,15,1150000.0,02-08-2010,Alm.,10000,4,Villa,115,1972,-4 %
+Storedalsvej 6A 7182 Bredsten,0,3350000.0,15-07-2010,Alm.,13673,6,Villa,245,2005,
+Tørskindvej 2 7182 Bredsten,2,463000.0,12-07-2010,Fam.,2875,5,Villa,161,1944,
+Bredstenlundvej 20 7182 Bredsten,20,2300000.0,10-07-2010,Alm.,12921,8,Villa,178,1912,-8 %
+Mølletoften 7 7182 Bredsten,7,1410000.0,18-06-2010,Alm.,7833,6,Villa,180,1929,8 %
+Billundvej 4 7182 Bredsten,4,980000.0,15-06-2010,Fam.,4711,8,Villa,208,1963,
+Mølletoften 11 7182 Bredsten,11,1400000.0,04-05-2010,Alm.,18666,2,Villa,75,1939,-3 %
+Billundvej 59 7182 Bredsten,59,1200000.0,03-05-2010,Alm.,4528,5,Villa,265,2012,
+Jellingvej 51 7182 Bredsten,51,100000.0,03-05-2010,Alm.,462,4,Stuehus,216,1986,
+Storedalsvej 29 7182 Bredsten,29,1150000.0,27-04-2010,Fam.,6886,6,Villa,167,2007,
+Kirkegade 19 7182 Bredsten,19,666700.0,25-04-2010,Alm.,5650,3,Villa,118,1959,
+De Lichtenbergs Vej 14 7182 Bredsten,14,1175000.0,23-04-2010,Alm.,12634,3,Villa,93,1965,-6 %
+Ballevej 37 7182 Bredsten,37,1850000.0,21-04-2010,Alm.,8604,6,Villa,215,1970,
+St. Lihme Møllevej 17 7182 Bredsten,17,1317500.0,31-03-2010,Fam.,0,4,Stuehus,132,1969,
+Kapselvej 8 7182 Bredsten,8,1425000.0,25-03-2010,Alm.,11400,4,Villa,125,1979,0 %
+Buen 5 7182 Bredsten,5,1475000.0,08-03-2010,Alm.,12938,4,Villa,114,1970,-1 %
+Kærbøllinghusevej 46 7182 Bredsten,46,1200000.0,03-03-2010,Fam.,8695,4,Villa,138,1941,
+Storedalsvej 54 7182 Bredsten,54,606637.0,01-02-2010,Alm.,3063,6,Villa,198,2011,
+Ladegårdvej 7 7182 Bredsten,7,227910.0,30-01-2010,Alm.,1156,8,Villa,197,1900,
+Vejlevej 22A 7182 Bredsten,0,2445000.0,23-12-2009,Alm.,14132,6,Villa,173,1998,
+Lunden 3 7182 Bredsten,3,1850000.0,09-12-2009,Alm.,15546,3,Villa,119,1957,
+De Lichtenbergs Vej 16 7182 Bredsten,16,1075000.0,02-12-2009,Alm.,8958,5,Villa,120,1961,-10 %
+Steen Blicher Vej 23 7182 Bredsten,23,290000.0,19-10-2009,Alm.,1726,3,Villa,168,1982,
+Mølletoften 9 7182 Bredsten,9,1345000.0,11-09-2009,Alm.,8512,8,Villa,158,1947,-4 %
+Vejlevej 27 7182 Bredsten,27,1325000.0,11-09-2009,Alm.,6625,6,Villa,200,1941,-17 %
+Kløvermarksvej 1 7182 Bredsten,1,1300000.0,10-09-2009,Alm.,9629,7,Villa,135,1960,-13 %
+Vejlevej 25 7182 Bredsten,25,1499000.0,31-08-2009,Alm.,9547,5,Villa,157,1944,0 %
+De Lichtenbergs Vej 11 7182 Bredsten,11,595000.0,26-08-2009,Alm.,3606,6,Villa,165,1903,0 %
+Hærvejen 85 7182 Bredsten,85,1950000.0,21-08-2009,Alm.,10427,5,Stuehus,187,1917,-15 %
+Vestervang 8 7182 Bredsten,8,1125000.0,12-08-2009,Alm.,5921,6,Villa,190,1929,-10 %
+Kærbølling Skovvej 8 7182 Bredsten,8,777000.0,17-07-2009,Alm.,4440,5,Villa,175,2010,
+Elmevej 11 7182 Bredsten,11,1850000.0,06-07-2009,Alm.,10451,4,Villa,177,1973,-2 %
+Nederbyvej 3A 7182 Bredsten,0,1145000.0,01-07-2009,Alm.,6396,6,Villa,179,1973,-4 %
+Kærbøllingvej 15 7182 Bredsten,15,1450000.0,27-06-2009,Alm.,9062,5,Stuehus,160,1897,-27 %
+Vesterløkke 10 7182 Bredsten,10,1325000.0,17-06-2009,Alm.,9075,5,Villa,146,1976,-8 %
+Johan Skjoldborg Vej 48 7182 Bredsten,48,1760000.0,16-06-2009,Alm.,12222,5,Villa,144,1978,
+Storedalsvej 68 7182 Bredsten,68,1800000.0,06-06-2009,Alm.,14173,4,Villa,127,2008,-5 %
+Engen 35 7182 Bredsten,35,1075000.0,11-05-2009,Alm.,11813,4,Rækkehus,91,2001,-6 %
+Ravningvej 45 7182 Bredsten,45,327070.0,27-04-2009,Alm.,3406,4,Villa,96,1899,
+Jennumvej 247 7182 Bredsten,247,2000000.0,21-04-2009,Alm.,10695,6,Stuehus,187,2015,
+Mølletoften 5D 7182 Bredsten,0,825000.0,31-03-2009,Alm.,9375,2,Rækkehus,88,1981,
+Ballevej 51 7182 Bredsten,51,1200000.0,30-03-2009,Alm.,10344,3,Villa,116,1947,-7 %
+Søgårdvej 5 7182 Bredsten,5,2010660.0,19-03-2009,Alm.,14060,5,Stuehus,143,1904,
+Billundvej 30 7182 Bredsten,30,225000.0,15-03-2009,Fam.,2083,3,Villa,108,1902,
+Vejlevej 20 7182 Bredsten,20,590000.0,23-02-2009,Alm.,6020,3,Rækkehus,98,1900,-50 %
+Sødovervej 17 7182 Bredsten,17,58500.0,15-02-2009,Alm.,387,7,Stuehus,151,1877,
+Møllegårdsvej 13 7182 Bredsten,13,1100000.0,14-02-2009,Alm.,6395,6,Villa,172,1973,-18 %
+Kærbøllingvej 5 7182 Bredsten,5,1275000.0,25-01-2009,Alm.,6071,7,Villa,210,1902,-2 %
+Engen 21 7182 Bredsten,21,1050000.0,20-01-2009,Alm.,11538,4,Rækkehus,91,2002,-12 %
+Vesterløkke 50 7182 Bredsten,50,1700000.0,19-01-2009,Alm.,13600,4,Villa,125,1977,-8 %
+Anton Berntsen Vej 7 7182 Bredsten,7,825000.0,18-01-2009,Alm.,6156,5,Villa,134,1986,
+Mejerivej 9 7182 Bredsten,9,400000.0,05-01-2009,Alm.,1843,9,Villa,217,1960,
+Sødovervej 31 7182 Bredsten,31,3507240.0,17-12-2008,Alm.,23697,5,Stuehus,148,1910,
+Storedalsvej 31 7182 Bredsten,31,500000.0,11-12-2008,Alm.,2066,6,Villa,242,2014,0 %
+Smedens Ager 1 7182 Bredsten,1,600000.0,27-11-2008,Alm.,4166,4,Villa,144,1972,
+Elmevej 14 7182 Bredsten,14,1700000.0,25-11-2008,Fam.,13492,4,Villa,126,1972,7 %
+Vestervang 12 7182 Bredsten,12,1050000.0,21-10-2008,Alm.,10194,4,Villa,103,1962,-9 %
+Engen 19 7182 Bredsten,19,1310000.0,03-10-2008,Alm.,14395,5,Rækkehus,91,2001,-1 %
+Thit Jensen Vej 13 7182 Bredsten,13,2330000.0,24-09-2008,Alm.,16180,5,Villa,144,2000,-7 %
+Vesterløkke 34 7182 Bredsten,34,1445000.0,21-08-2008,Alm.,12787,4,Villa,113,1978,0 %
+Storedalsvej 14 7182 Bredsten,14,2385000.0,16-08-2008,Alm.,16448,5,Villa,145,2005,0 %
+Jellingvej 22 7182 Bredsten,22,1900000.0,08-08-2008,Alm.,9223,8,Villa,206,1972,-5 %
+Møllegårdsvej 7 7182 Bredsten,7,1350000.0,25-07-2008,Alm.,12272,3,Villa,110,1967,-4 %
+Dyrehavevej 1 7182 Bredsten,1,1200000.0,18-07-2008,Alm.,9230,5,Villa,130,1927,0 %
+Søbakken 11 7182 Bredsten,11,1900000.0,16-07-2008,Alm.,14728,6,Villa,129,1931,0 %
+Ravningvej 24 7182 Bredsten,24,575000.0,15-07-2008,Fam.,3571,4,Villa,161,2003,
+Vestervej 7 7182 Bredsten,7,1514000.0,06-06-2008,Alm.,10026,4,Villa,151,1877,1 %
+Vestervang 14 7182 Bredsten,14,1085000.0,03-06-2008,Alm.,11302,4,Villa,96,1964,-1 %
+Billundvej 42 7182 Bredsten,42,960000.0,02-06-2008,Alm.,12000,2,Villa,80,1955,
+Lunden 9 7182 Bredsten,9,600000.0,13-05-2008,Alm.,4316,4,Villa,139,1877,
+Storedalsvej 46 7182 Bredsten,46,800000.0,25-04-2008,Alm.,4232,5,Villa,189,2008,
+Storedalsvej 15A 7182 Bredsten,0,1625000.0,24-04-2008,Alm.,15476,4,Rækkehus,105,2008,0 %
+Ravningvej 46 7182 Bredsten,46,700000.0,15-04-2008,Andet,3743,5,Villa,187,1963,
+Storedalsvej 36 7182 Bredsten,36,507000.0,31-03-2008,Alm.,3054,6,Villa,166,2009,
+Storedalsvej 56 7182 Bredsten,56,575000.0,10-03-2008,Alm.,2686,4,Villa,214,2010,
+Lihmskovvej 14 7182 Bredsten,14,720075.0,07-03-2008,Andet,4557,6,Villa,158,1935,
+Jellingvej 5 7182 Bredsten,5,900000.0,01-03-2008,Alm.,7826,4,Villa,115,1966,
+Billundvej 7 7182 Bredsten,7,1675000.0,29-02-2008,Alm.,10090,4,Villa,166,1947,-1 %
+Storedalsvej 1 7182 Bredsten,1,1457500.0,08-02-2008,Alm.,15342,3,Rækkehus,95,2008,1 %
+Johan Skjoldborg Vej 15 7182 Bredsten,15,1250000.0,05-02-2008,Alm.,11061,4,Villa,113,1975,-2 %
+Kærbøllinghusevej 45 7182 Bredsten,45,6400000.0,01-02-2008,Alm.,40251,5,Stuehus,159,1985,
+Ballevej 44 7182 Bredsten,44,1495000.0,28-01-2008,Alm.,14375,3,Villa,104,1938,0 %
+Storedalsvej 66 7182 Bredsten,66,618101.0,17-01-2008,Alm.,3593,6,Villa,172,2009,
+Kapselvej 6 7182 Bredsten,6,1400000.0,16-01-2008,Alm.,10937,5,Villa,128,1979,
+Johan Skjoldborg Vej 47 7182 Bredsten,47,1735000.0,11-01-2008,Alm.,12664,5,Villa,137,1977,-2 %
+Hærvejen 77 7182 Bredsten,77,399500.0,02-01-2008,Fam.,2681,4,Villa,149,2015,
+Johan Skjoldborg Vej 36 7182 Bredsten,36,1750000.0,28-12-2007,Alm.,12068,6,Villa,145,1978,-3 %
+Engvej 1 7182 Bredsten,1,1400000.0,27-12-2007,Alm.,10526,6,Villa,133,1942,-6 %
+Storedalsvej 27 7182 Bredsten,27,2475000.0,15-12-2007,Alm.,18198,5,Villa,136,2004,
+Storedalsvej 13B 7182 Bredsten,0,1698500.0,10-12-2007,Alm.,16176,4,Rækkehus,105,2007,5 %
+Kærbøllinghusevej 44 7182 Bredsten,44,161143.0,29-11-2007,Alm.,592,6,Villa,272,2008,
+Ballevej 10 7182 Bredsten,10,885000.0,24-11-2007,Alm.,10056,3,Villa,88,1910,-11 %
+Bredstenvej 45 7182 Bredsten,45,9256725.0,13-11-2007,Fam.,34799,9,Stuehus,266,1914,
+Storedalsvej 38 7182 Bredsten,38,501500.0,08-11-2007,Alm.,2667,6,Villa,188,2009,
+Sødovervej 14 7182 Bredsten,14,1239200.0,06-11-2007,Alm.,6134,7,Stuehus,202,1984,
+Billundvej 26 7182 Bredsten,26,965000.0,03-11-2007,Alm.,9747,4,Villa,99,1894,-1 %
+Jellingvej 34 7182 Bredsten,34,1200000.0,30-10-2007,Fam.,11111,4,Villa,108,1927,
+Nybovej 41 7182 Bredsten,41,766000.0,20-10-2007,Fam.,5356,5,Villa,143,2005,
+Lindeparken 10 7182 Bredsten,10,1940000.0,17-10-2007,Alm.,11975,4,Villa,162,2000,-3 %
+Thit Jensen Vej 19 7182 Bredsten,19,2450000.0,13-10-2007,Alm.,16333,5,Villa,150,1999,
+Ballevej 87 7182 Bredsten,87,3100000.0,10-10-2007,Alm.,19496,7,Stuehus,159,1907,77 %
+Elmevej 1 7182 Bredsten,1,1400000.0,05-10-2007,Alm.,11666,4,Villa,120,1971,
+St. Lihme Møllevej 15 7182 Bredsten,15,650000.0,27-09-2007,Fam.,7558,3,Villa,86,1964,
+Tørskindvej 7 7182 Bredsten,7,1062000.0,24-09-2007,Fam.,4425,7,Villa,240,1964,
+Møllevænget 7 7182 Bredsten,7,1198000.0,20-09-2007,Alm.,10696,4,Villa,112,1967,0 %
+Møllevænget 6 7182 Bredsten,6,1295000.0,19-09-2007,Alm.,12950,4,Villa,100,1965,0 %
+Skovtoften 23B 7182 Bredsten,0,895000.0,30-08-2007,Alm.,11049,3,Rækkehus,81,1986,-3 %
+Kapselvej 3 7182 Bredsten,3,1200000.0,30-08-2007,Alm.,9836,4,Villa,122,1961,
+Nybovej 83 7182 Bredsten,83,2150000.0,28-08-2007,Alm.,14052,4,Villa,153,1999,-4 %
+Nederbyvej 1 7182 Bredsten,1,1395000.0,15-08-2007,Alm.,15674,3,Villa,89,1965,0 %
+Skovtoften 27 7182 Bredsten,27,1748000.0,12-08-2007,Alm.,11133,5,Villa,157,1986,
+Skovtoften 11 7182 Bredsten,11,1070000.0,06-08-2007,Alm.,11888,4,Villa,90,1981,
+Kobberbølvej 10 7182 Bredsten,10,1410000.0,05-08-2007,Alm.,10217,5,Villa,138,1937,-6 %
+Ravningvej 53 7182 Bredsten,53,750000.0,02-08-2007,Alm.,12295,2,Villa,61,1960,
+Jellingvej 20 7182 Bredsten,20,1500000.0,02-08-2007,Fam.,15000,3,Villa,100,1995,
+Smedens Ager 24 7182 Bredsten,24,1100000.0,30-07-2007,Alm.,6918,5,Villa,159,1972,
+Vestervang 6 7182 Bredsten,6,1042500.0,18-07-2007,Alm.,11209,4,Villa,93,1966,
+Møllegårdsvej 3 7182 Bredsten,3,1395000.0,10-07-2007,Andet,10898,4,Villa,128,1972,
+Hærvejen 95 7182 Bredsten,95,1650000.0,03-07-2007,Alm.,7021,8,Villa,235,1917,
+Ollerupvej 14 7182 Bredsten,14,2290000.0,01-07-2007,Alm.,16357,7,Villa,140,1893,
+Lindeparken 14 7182 Bredsten,14,199250.0,14-06-2007,Alm.,922,6,Villa,216,2007,
+Sødovervej 41 7182 Bredsten,41,3800000.0,13-06-2007,Alm.,18536,5,Stuehus,205,1936,
+Kærbøllinghusevej 47 7182 Bredsten,47,1625000.0,09-06-2007,Alm.,0,5,Villa,256,1788,-8 %
+Lupinvej 3 7182 Bredsten,3,1700000.0,05-06-2007,Alm.,12142,4,Villa,140,1954,
+Balle Nørremarksvej 4 7182 Bredsten,4,2110000.0,01-06-2007,Alm.,8612,6,Villa,245,1850,-16 %
+Steen Blicher Vej 105 7182 Bredsten,105,701820.0,29-05-2007,Alm.,1982,11,Stuehus,354,1852,
+Johan Skjoldborg Vej 33 7182 Bredsten,33,1620000.0,25-05-2007,Alm.,11095,5,Villa,146,1977,
+Johan Skjoldborg Vej 12 7182 Bredsten,12,1480000.0,25-05-2007,Alm.,9736,5,Villa,152,1976,-1 %
+Storedalsvej 35 7182 Bredsten,35,455000.0,16-05-2007,Alm.,3527,4,Villa,129,2008,
+"Billundvej 35, 1 7182 Bredsten",1,3623808.0,09-05-2007,Alm.,23685,4,Lejlighed,153,1959,
+Storedalsvej 42 7182 Bredsten,42,440000.0,30-04-2007,Alm.,2573,4,Villa,171,2008,
+Storedalsvej 52 7182 Bredsten,52,460000.0,30-04-2007,Alm.,2929,5,Villa,157,2010,
+Storedalsvej 37 7182 Bredsten,37,501000.0,30-04-2007,Alm.,2330,6,Villa,215,2008,
+Storedalsvej 34 7182 Bredsten,34,527000.0,30-04-2007,Alm.,2331,4,Villa,226,2008,
+Jellingvej 57 7182 Bredsten,57,1371138.0,26-04-2007,Alm.,12579,4,Villa,109,1827,-6 %
+Storedalsvej 44 7182 Bredsten,44,472500.0,17-04-2007,Alm.,3375,5,Villa,140,2007,
+Mejerivej 4 7182 Bredsten,4,1550000.0,13-04-2007,Alm.,16847,3,Villa,92,1969,-9 %
+Storedalsvej 33 7182 Bredsten,33,472000.0,10-04-2007,Alm.,2666,6,Villa,177,2007,
+Storedalsvej 50 7182 Bredsten,50,651000.0,10-04-2007,Alm.,2906,6,Villa,224,2007,
+Billundvej 17 7182 Bredsten,17,800000.0,28-03-2007,Alm.,10000,3,Villa,80,1963,-11 %
+Mølletoften 5B 7182 Bredsten,0,860000.0,27-03-2007,Alm.,6013,5,Rækkehus,143,1981,
+Vejlevej 65 7182 Bredsten,65,1260000.0,26-03-2007,Alm.,6028,6,Villa,209,1877,-8 %
+Kærbøllinghusevej 57 7182 Bredsten,57,2650000.0,25-03-2007,Alm.,18027,4,Stuehus,147,2009,
+Ballevej 16 7182 Bredsten,16,1070000.0,08-03-2007,Alm.,8359,3,Villa,128,1971,
+Skovtoften 3 7182 Bredsten,3,1380000.0,20-02-2007,Alm.,10298,4,Villa,134,1985,-3 %
+Jellingvej 65 7182 Bredsten,65,268000.0,18-02-2007,Fam.,2504,3,Villa,107,1966,
+Tørskindvej 6 7182 Bredsten,6,1235000.0,28-01-2007,Alm.,7307,5,Villa,169,1966,-1 %
+Vesterløkke 19 7182 Bredsten,19,1345000.0,12-12-2006,Alm.,10267,5,Villa,131,1975,
+Møllevænget 1 7182 Bredsten,1,1670000.0,11-12-2006,Alm.,8978,6,Villa,186,1971,
+Tørskindvej 9B 7182 Bredsten,0,750000.0,04-12-2006,Alm.,7211,3,Rækkehus,104,1964,
+Ballevej 42 7182 Bredsten,42,1250000.0,03-12-2006,Alm.,10245,5,Villa,122,1939,
+Balle Nørremarksvej 13 7182 Bredsten,13,977500.0,29-11-2006,Fam.,7405,4,Stuehus,132,1850,
+Kærbøllingvej 8 7182 Bredsten,8,1100000.0,25-10-2006,Alm.,7236,5,Villa,152,1902,
+Kærbølling Skovvej 7A 7182 Bredsten,0,391000.0,27-09-2006,Alm.,5283,3,Sommerhus,74,1960,
+Sødovervej 4 7182 Bredsten,4,2500000.0,21-09-2006,Alm.,11848,6,Villa,211,2011,
+De Lichtenbergs Vej 27 7182 Bredsten,27,150000.0,05-09-2006,Alm.,724,6,Stuehus,207,1875,
+Fabriksvejen 8A 7182 Bredsten,0,795000.0,28-08-2006,Alm.,5031,5,Villa,158,1901,
+Elmevej 19 7182 Bredsten,19,1275000.0,15-08-2006,Alm.,10625,4,Villa,120,1972,
+Jennumvej 250 7182 Bredsten,250,66487.0,01-08-2006,Alm.,285,6,Villa,233,1978,
+Søndervang 10 7182 Bredsten,10,1150000.0,31-07-2006,Alm.,9274,4,Villa,124,1968,
+Johan Skjoldborg Vej 25 7182 Bredsten,25,1625000.0,21-07-2006,Alm.,10906,5,Villa,149,1977,
+Kobberbølvej 12 7182 Bredsten,12,1150000.0,19-07-2006,Alm.,6969,4,Villa,165,1946,
+Vesterløkke 32 7182 Bredsten,32,1310000.0,19-07-2006,Alm.,8791,4,Villa,149,1976,
+Johan Skjoldborg Vej 9 7182 Bredsten,9,2045000.0,15-07-2006,Alm.,8665,7,Villa,236,1976,
+Skovtoften 25B 7182 Bredsten,0,855000.0,01-07-2006,Alm.,10555,3,Rækkehus,81,1986,
+Nederbyvej 12 7182 Bredsten,12,60000.0,28-06-2006,Alm.,342,7,Stuehus,175,1924,
+Schæferhusvej 9 7182 Bredsten,9,1100000.0,23-06-2006,Andet,3416,9,Villa,322,1900,
+Buen 13 7182 Bredsten,13,1075000.0,20-06-2006,Alm.,8269,5,Villa,130,1970,
+Billundvej 11 7182 Bredsten,11,895000.0,16-06-2006,Alm.,6729,4,Villa,133,1951,
+Nybovej 49 7182 Bredsten,49,160000.0,13-06-2006,Alm.,903,5,Villa,177,2008,
+Hærvejen 91 7182 Bredsten,91,1895000.0,26-05-2006,Alm.,10188,5,Stuehus,186,1910,
+Nybovej 39 7182 Bredsten,39,255000.0,22-05-2006,Alm.,1508,5,Villa,169,2006,
+Engen 11 7182 Bredsten,11,1050000.0,21-05-2006,Alm.,11538,4,Rækkehus,91,2001,
+Vesterløkke 22 7182 Bredsten,22,1110000.0,18-05-2006,Alm.,10373,4,Villa,107,1976,
+Nederbyvej 3B 7182 Bredsten,0,1130000.0,12-05-2006,Alm.,7062,4,Villa,160,1974,
+Nybovej 3 7182 Bredsten,3,212000.0,10-05-2006,Alm.,1643,5,Villa,129,2006,
+Mejerivej 14 7182 Bredsten,14,1770000.0,08-05-2006,Alm.,9315,7,Villa,190,1930,
+Industriparken 12A 7182 Bredsten,0,2553979.0,05-05-2006,Fam.,16584,3,Villa,154,1986,
+Dyrehavevej 11 7182 Bredsten,11,1325000.0,05-05-2006,Alm.,12619,5,Villa,105,1955,
+Kirkegade 20 7182 Bredsten,20,620000.0,01-05-2006,Alm.,5438,6,Villa,114,1900,
+Jeppe Åkjær Vej 4 7182 Bredsten,4,1380000.0,25-04-2006,Alm.,10615,3,Villa,130,1976,
+Kærbøllinghusevej 31 7182 Bredsten,31,1895000.0,19-04-2006,Alm.,15791,4,Villa,120,1962,
+Vejlevej 26 7182 Bredsten,26,995000.0,12-04-2006,Alm.,10815,4,Villa,92,1880,
+Lille Ravningvej 16 7182 Bredsten,16,2700000.0,11-04-2006,Alm.,14210,4,Stuehus,190,1983,
+Vesterløkke 23 7182 Bredsten,23,1125000.0,05-04-2006,Alm.,8035,4,Villa,140,1976,
+De Lichtenbergs Vej 12 7182 Bredsten,12,241816.0,04-04-2006,Fam.,2600,5,Villa,93,1892,
+Vesterløkke 15 7182 Bredsten,15,1110000.0,31-03-2006,Alm.,8809,4,Villa,126,1974,
+Thit Jensen Vej 15 7182 Bredsten,15,2465000.0,27-03-2006,Alm.,13181,4,Villa,187,2000,
+Johan Skjoldborg Vej 21 7182 Bredsten,21,1595000.0,15-03-2006,Alm.,12083,5,Villa,132,1977,
+Ballevej 12 7182 Bredsten,12,870000.0,07-03-2006,Alm.,7565,3,Villa,115,1910,
+Nybovej 31 7182 Bredsten,31,1750000.0,07-03-2006,Alm.,13888,4,Villa,126,2003,
+Storedalsvej 2 7182 Bredsten,2,297000.0,21-02-2006,Alm.,1640,3,Villa,181,2006,
+Vesterløkke 36 7182 Bredsten,36,990000.0,08-02-2006,Alm.,8114,4,Villa,122,1979,
+Ravningvej 63 7182 Bredsten,63,900000.0,27-01-2006,Alm.,3879,8,Villa,232,1907,
+Skovvej 26 7182 Bredsten,26,1072500.0,23-01-2006,Alm.,9662,4,Villa,111,1973,
+Ballevej 3 7182 Bredsten,3,864250.0,21-12-2005,Alm.,6805,5,Villa,127,1906,
+Rolighedsvej 29 7182 Bredsten,29,2050000.0,20-12-2005,Alm.,12500,6,Villa,164,1850,
+Sødovervej 21 7182 Bredsten,21,600000.0,16-12-2005,Alm.,3773,5,Villa,159,1884,
+Skærhejselvej 10 7182 Bredsten,10,5645000.0,16-12-2005,Alm.,22312,8,Stuehus,253,1902,
+Billundvej 13 7182 Bredsten,13,750000.0,01-12-2005,Alm.,6578,3,Villa,114,1959,
+Storedalsvej 4 7182 Bredsten,4,286000.0,29-11-2005,Alm.,1821,6,Villa,157,2007,
+Billundvej 6 7182 Bredsten,6,675000.0,02-11-2005,Alm.,4560,4,Villa,148,1943,
+Billundvej 5 7182 Bredsten,5,745000.0,27-10-2005,Alm.,5687,5,Villa,131,1945,
+Kirkegade 5 7182 Bredsten,5,945000.0,24-10-2005,Alm.,3677,5,Villa,257,1867,
+Nybovej 1 7182 Bredsten,1,212000.0,20-10-2005,Alm.,1341,5,Villa,158,2006,
+Nybovej 33 7182 Bredsten,33,244000.0,20-10-2005,Alm.,1682,4,Villa,145,2006,
+Lunden 2 7182 Bredsten,2,2367000.0,17-10-2005,Alm.,12076,5,Stuehus,196,1877,
+Kobberbølvej 18 7182 Bredsten,18,825000.0,09-10-2005,Alm.,5061,7,Villa,163,1967,
+Søbakken 12 7182 Bredsten,12,2095000.0,03-10-2005,Alm.,14349,5,Stuehus,146,1932,
+Skovtoften 1 7182 Bredsten,1,1065000.0,01-10-2005,Alm.,8068,6,Villa,132,1983,
+Ballevej 1 7182 Bredsten,1,550000.0,30-09-2005,Fam.,2806,5,Villa,196,1900,
+Søndervang 4 7182 Bredsten,4,1050000.0,29-09-2005,Alm.,8076,4,Villa,130,1969,
+Søbakken 4 7182 Bredsten,4,3900000.0,14-09-2005,Alm.,18660,6,Stuehus,209,1837,
+Johan Skjoldborg Vej 13 7182 Bredsten,13,1295000.0,13-09-2005,Alm.,8301,5,Villa,156,1975,
+Kærbøllinghusevej 62 7182 Bredsten,62,2700000.0,01-09-2005,Alm.,13567,7,Villa,199,1978,
+Bredstenvej 55 7182 Bredsten,55,600000.0,10-08-2005,Alm.,5607,3,Villa,107,1966,
+Dyrehavevej 7 7182 Bredsten,7,1025000.0,01-08-2005,Alm.,6101,5,Villa,168,1977,
+Ballevej 30 7182 Bredsten,30,1435000.0,14-07-2005,Alm.,6185,11,Villa,232,1926,
+Fabriksvejen 2 7182 Bredsten,2,1497000.0,04-07-2005,Alm.,5735,5,Villa,261,1925,
+Balle Nørremarksvej 9 7182 Bredsten,9,725000.0,16-06-2005,Alm.,5620,5,Villa,129,1867,
+Bredstenvej 54 7182 Bredsten,54,1020000.0,15-06-2005,Alm.,7083,5,Stuehus,144,1932,
+Vesterløkke 14 7182 Bredsten,14,1040000.0,02-06-2005,Alm.,8524,3,Villa,122,1976,
+Storedalsvej 19 7182 Bredsten,19,292000.0,31-05-2005,Alm.,1269,6,Villa,230,2006,
+Ladegårdvej 4 7182 Bredsten,4,1795000.0,20-05-2005,Alm.,14593,4,Stuehus,123,1850,
+Johan Skjoldborg Vej 61 7182 Bredsten,61,993367.0,17-05-2005,Alm.,8790,4,Villa,113,1977,
+Hærvejen 75 7182 Bredsten,75,1350000.0,16-05-2005,Alm.,8544,7,Stuehus,158,1940,
+Gammelbyvej 20 7182 Bredsten,20,1200000.0,11-05-2005,Fam.,5429,6,Stuehus,221,1951,
+Schæferhusvej 1 7182 Bredsten,1,3000000.0,09-05-2005,Alm.,10989,9,Villa,273,1989,
+Jeppe Åkjær Vej 6 7182 Bredsten,6,1900000.0,24-04-2005,Fam.,8715,9,Villa,218,1979,
+Thit Jensen Vej 7 7182 Bredsten,7,241250.0,20-04-2005,Alm.,2010,4,Villa,120,2005,
+Storedalsvej 23 7182 Bredsten,23,275000.0,13-04-2005,Alm.,2007,5,Villa,137,2006,
+Storedalsvej 6B 7182 Bredsten,0,295000.0,13-04-2005,Alm.,2034,5,Villa,145,2006,
+Ladegårdvej 5 7182 Bredsten,5,480000.0,29-03-2005,Alm.,3137,4,Stuehus,153,1912,
+Tørskindvej 12 7182 Bredsten,12,800000.0,23-03-2005,Alm.,6153,3,Villa,130,1966,
+Ballevej 55 7182 Bredsten,55,480000.0,10-03-2005,Alm.,3478,7,Villa,138,1929,
+Dyrehavevej 13 7182 Bredsten,13,1390000.0,07-03-2005,Alm.,8273,6,Villa,168,1971,
+Kjeldkærvej 4 7182 Bredsten,4,11819500.0,01-03-2005,Fam.,118195,3,Villa,100,1948,
+Ballevej 49 7182 Bredsten,49,798000.0,01-03-2005,Alm.,7125,4,Villa,112,1980,
+Bredsten Landevej 11 7182 Bredsten,11,200000.0,30-01-2005,Andet,1212,5,Stuehus,165,1927,
+Skovvej 1 7182 Bredsten,1,1195000.0,29-01-2005,Alm.,8129,5,Villa,147,1970,
+Ladegårdvej 2 7182 Bredsten,2,1092000.0,20-01-2005,Alm.,8531,6,Stuehus,128,1890,
+Kirkegade 15 7182 Bredsten,15,675000.0,31-12-2004,Alm.,7670,3,Villa,88,1958,
+Kobberbølvej 8A 7182 Bredsten,0,1250000.0,22-12-2004,Alm.,0,6,Villa,160,1912,
+Søgårdvej 2 7182 Bredsten,2,560000.0,22-11-2004,Alm.,4341,4,Villa,129,1925,
+Buen 6 7182 Bredsten,6,1470000.0,18-11-2004,Alm.,8166,6,Villa,180,1971,
+Buen 4 7182 Bredsten,4,1145000.0,17-11-2004,Alm.,7246,6,Villa,158,1965,
+Vejlevej 24A 7182 Bredsten,0,1557500.0,07-10-2004,Alm.,8154,6,Villa,191,1987,
+Storedalsvej 10 7182 Bredsten,10,357000.0,01-10-2004,Alm.,2496,5,Villa,143,2005,
+Storedalsvej 8 7182 Bredsten,8,357000.0,17-09-2004,Alm.,1758,5,Villa,203,2005,
+De Lichtenbergs Vej 20 7182 Bredsten,20,825000.0,09-09-2004,Alm.,0,6,Villa,184,1928,
+Balle Nørremarksvej 7 7182 Bredsten,7,1101000.0,30-08-2004,Alm.,6401,5,Villa,172,1917,
+Vejlevej 23 7182 Bredsten,23,1300000.0,23-08-2004,Alm.,7027,5,Villa,185,1900,
+Johan Skjoldborg Vej 54 7182 Bredsten,54,1150000.0,18-08-2004,Alm.,8518,5,Villa,135,1978,
+Storedalsvej 17 7182 Bredsten,17,282000.0,12-08-2004,Alm.,1807,5,Villa,156,2005,
+Anton Berntsen Vej 36 7182 Bredsten,36,1500000.0,12-08-2004,Alm.,9554,5,Villa,157,1995,
+Thit Jensen Vej 27 7182 Bredsten,27,1635000.0,03-08-2004,Alm.,9289,6,Villa,176,1998,
+Storedalsvej 21 7182 Bredsten,21,286000.0,09-07-2004,Alm.,1722,6,Villa,166,2005,
+Skovvej 2 7182 Bredsten,2,1130000.0,08-07-2004,Alm.,6975,6,Villa,162,1967,
+Nederbyvej 2 7182 Bredsten,2,1020000.0,24-06-2004,Alm.,8031,4,Villa,127,1976,
+Jeppe Åkjær Vej 1 7182 Bredsten,1,745000.0,17-06-2004,Alm.,6651,6,Villa,112,1976,
+Møllegårdsvej 23 7182 Bredsten,23,1230000.0,01-06-2004,Alm.,7687,5,Villa,160,1973,
+Kirkegade 11 7182 Bredsten,11,655000.0,01-06-2004,Alm.,6121,3,Villa,107,1908,
+Jeppe Åkjær Vej 16 7182 Bredsten,16,1135000.0,16-05-2004,Alm.,6069,4,Villa,187,1977,
+Engen 31 7182 Bredsten,31,3650000.0,15-05-2004,Alm.,40109,5,Rækkehus,91,2002,
+Johan Skjoldborg Vej 16 7182 Bredsten,16,1160000.0,13-05-2004,Alm.,6705,4,Villa,173,1976,
+Tørskindvej 4 7182 Bredsten,4,230000.0,27-04-2004,Alm.,3709,2,Villa,62,1932,
+Mølletoften 5A 7182 Bredsten,0,746000.0,05-04-2004,Alm.,5216,5,Rækkehus,143,1981,
+Stensgårdsvej 3 7182 Bredsten,3,976627.0,28-03-2004,Alm.,7077,4,Villa,138,1910,
+Jeppe Åkjær Vej 17 7182 Bredsten,17,1040000.0,26-03-2004,Alm.,7536,5,Villa,138,1975,
+Skovtoften 25A 7182 Bredsten,0,675000.0,05-03-2004,Alm.,8333,3,Rækkehus,81,1986,
+Lyngbjergvej 1 7182 Bredsten,1,242220.0,05-03-2004,Alm.,1274,6,Stuehus,190,1895,
+Kærbøllingvej 16 7182 Bredsten,16,6700000.0,26-02-2004,Alm.,33838,6,Stuehus,198,1865,
+Rolighedsvej 6 7182 Bredsten,6,650000.0,23-02-2004,Alm.,6190,2,Villa,105,1967,
+De Lichtenbergs Vej 18 7182 Bredsten,18,1225000.0,19-02-2004,Alm.,10040,3,Villa,122,1931,
+Kløvermarksvej 5 7182 Bredsten,5,650000.0,16-02-2004,Alm.,9027,3,Villa,72,1964,
+Thit Jensen Vej 1 7182 Bredsten,1,210000.0,10-02-2004,Alm.,1381,5,Villa,152,2004,
+Skovvej 4 7182 Bredsten,4,1135000.0,05-02-2004,Alm.,8284,5,Villa,137,1971,
+Johan Skjoldborg Vej 29 7182 Bredsten,29,1150000.0,02-02-2004,Alm.,6764,6,Villa,170,1976,
+Skovvej 18 7182 Bredsten,18,1050000.0,30-01-2004,Alm.,7835,5,Villa,134,1973,
+Storedalsvej 16 7182 Bredsten,16,337000.0,26-01-2004,Alm.,2324,5,Villa,145,2004,
+Industriparken 9 7182 Bredsten,9,680465.0,23-12-2003,Alm.,4966,5,Villa,137,2005,
+Molsgårdvej 15 7182 Bredsten,15,1150000.0,16-12-2003,Alm.,6216,5,Stuehus,185,1929,
+Skovvej 13 7182 Bredsten,13,1350500.0,01-12-2003,Alm.,6370,7,Villa,212,1974,
+Rolighedsvej 24 7182 Bredsten,24,428725.0,27-11-2003,Alm.,0,6,Stuehus,172,1900,
+St. Lihme Møllevej 25 7182 Bredsten,25,1600000.0,13-11-2003,Alm.,5904,9,Stuehus,271,1928,
+Vejlevej 11 7182 Bredsten,11,455931.0,13-11-2003,Alm.,3618,6,Villa,126,1895,
+Ballevej 89 7182 Bredsten,89,1525195.0,31-10-2003,Alm.,7160,5,Stuehus,213,1877,
+Ravning Skovvej 5 7182 Bredsten,5,459000.0,29-10-2003,Fam.,2668,5,Villa,172,2012,
+Møllegårdsvej 25 7182 Bredsten,25,1120000.0,01-10-2003,Alm.,7272,5,Villa,154,1973,
+Vesterløkke 21 7182 Bredsten,21,825000.0,01-10-2003,Alm.,8250,3,Villa,100,1976,
+Søgårdvej 11 7182 Bredsten,11,2300000.0,25-09-2003,Alm.,11165,6,Stuehus,206,1934,
+Vejlevej 17 7182 Bredsten,17,600000.0,15-09-2003,Alm.,6451,4,Villa,93,1910,
+Kærbøllingvej 88 7182 Bredsten,88,257541.0,10-09-2003,Alm.,3902,3,Stuehus,66,1877,
+Gammelbyvej 19 7182 Bredsten,19,540000.0,26-08-2003,Alm.,0,6,Villa,135,1878,
+Vestervang 16 7182 Bredsten,16,696500.0,01-08-2003,Alm.,7653,42,Villa,91,1964,
+Rolighedsvej 9 7182 Bredsten,9,1150000.0,10-07-2003,Fam.,6388,7,Villa,180,1939,
+Storedalsvej 25 7182 Bredsten,25,270000.0,08-07-2003,Alm.,1788,5,Villa,151,2003,
+Ladegårdvej 3 7182 Bredsten,3,801979.0,07-07-2003,Alm.,5769,3,Stuehus,139,1850,
+Engen 25 7182 Bredsten,25,920000.0,04-07-2003,Alm.,10109,4,Rækkehus,91,2002,
+Skovvej 10 7182 Bredsten,10,1144314.0,30-06-2003,Alm.,8173,4,Villa,140,1972,
+Skovtoften 19 7182 Bredsten,19,700000.0,04-06-2003,Alm.,8750,3,Villa,80,1983,
+Vesterløkke 26 7182 Bredsten,26,798838.0,21-05-2003,Alm.,6240,4,Villa,128,1976,
+Kirkegade 17 7182 Bredsten,17,995000.0,18-05-2003,Alm.,4950,10,Villa,201,1939,
+Storedalsvej 32 7182 Bredsten,32,325000.0,09-05-2003,Alm.,2181,5,Villa,149,2003,
+Storedalsvej 28 7182 Bredsten,28,310000.0,07-05-2003,Alm.,1812,5,Villa,171,2003,
+Vejlevej 7 7182 Bredsten,7,1200000.0,11-04-2003,Alm.,5172,7,Lejlighed,232,1885,
+Ballevej 28 7182 Bredsten,28,950000.0,09-04-2003,Alm.,6785,4,Villa,140,1966,
+Ballevej 40 7182 Bredsten,40,1240000.0,07-04-2003,Alm.,7167,6,Villa,173,1900,
+Ballevej 85 7182 Bredsten,85,1245000.0,03-04-2003,Alm.,8527,5,Stuehus,146,1894,
+Johan Skjoldborg Vej 8 7182 Bredsten,8,1051837.0,01-04-2003,Alm.,0,6,Villa,180,1976,
+Skovvej 29 7182 Bredsten,29,892500.0,31-03-2003,Fam.,5648,5,Villa,158,1970,
+Johan Skjoldborg Vej 30 7182 Bredsten,30,1270000.0,04-03-2003,Alm.,7559,5,Villa,168,1978,
+Lindeparken 6 7182 Bredsten,6,280000.0,24-02-2003,Alm.,1609,5,Villa,174,2003,
+Gammelbyvej 16 7182 Bredsten,16,529756.0,22-02-2003,Andet,4606,6,Stuehus,115,1920,
+Sødovervej 40 7182 Bredsten,40,1169000.0,17-02-2003,Alm.,5787,6,Villa,202,1910,
+Johan Skjoldborg Vej 26 7182 Bredsten,26,1160000.0,08-02-2003,Alm.,7160,4,Villa,162,1976,
+Ollerupvej 13 7182 Bredsten,13,1125000.0,03-02-2003,Alm.,5921,6,Villa,190,1927,
+Billundvej 2 7182 Bredsten,2,175000.0,30-01-2003,Alm.,866,7,Stuehus,202,1920,
+Rolighedsvej 22 7182 Bredsten,22,7503000.0,20-01-2003,Fam.,35728,8,Stuehus,210,1938,
+Bredstenvej 22 7182 Bredsten,22,634950.0,01-01-2003,Alm.,4960,4,Stuehus,128,1923,
+Jeppe Åkjær Vej 10 7182 Bredsten,10,1131487.0,19-12-2002,Alm.,6735,5,Villa,168,1977,
+Storedalsvej 12 7182 Bredsten,12,340000.0,09-12-2002,Alm.,2297,5,Villa,148,2003,
+Storedalsvej 22 7182 Bredsten,22,260000.0,29-11-2002,Alm.,1645,6,Villa,158,2003,
+Mejerivej 7 7182 Bredsten,7,2400000.0,28-11-2002,Alm.,8108,11,Villa,296,1955,
+Elmevej 24 7182 Bredsten,24,891950.0,27-11-2002,Alm.,6558,5,Villa,136,1973,
+Storedalsvej 20 7182 Bredsten,20,377000.0,17-11-2002,Alm.,2298,6,Villa,164,2003,
+Storedalsvej 30 7182 Bredsten,30,302000.0,14-11-2002,Alm.,1899,4,Villa,159,2005,
+Storedalsvej 18 7182 Bredsten,18,330000.0,10-11-2002,Alm.,1907,6,Villa,173,2003,
+Dyrehavevej 10 7182 Bredsten,10,897073.0,04-11-2002,Alm.,4983,6,Villa,180,1968,
+Tørskindvej 9A 7182 Bredsten,0,530000.0,17-10-2002,Alm.,5888,3,Rækkehus,90,1952,
+Kirkegade 26 7182 Bredsten,26,1250000.0,25-09-2002,Alm.,5681,8,Villa,220,1898,
+Steen Blicher Vej 25 7182 Bredsten,25,425000.0,23-09-2002,Alm.,2442,4,Rækkehus,174,1982,
+Ravningvej 69 7182 Bredsten,69,640032.0,31-08-2002,Alm.,5517,4,Villa,116,1887,
+Sødover Tværvej 4 7182 Bredsten,4,1803830.0,24-08-2002,Alm.,9750,4,Stuehus,185,1927,
+Rolighedsvej 5 7182 Bredsten,5,410000.0,24-08-2002,Alm.,3416,4,Villa,120,1939,
+Johan Skjoldborg Vej 34 7182 Bredsten,34,1500000.0,23-08-2002,Alm.,8620,6,Villa,174,1978,
+Skråvej 2 7182 Bredsten,2,652650.0,23-08-2002,Alm.,0,5,Villa,144,1877,
+Mølletoften 5E 7182 Bredsten,0,750000.0,05-08-2002,Alm.,8522,2,Rækkehus,88,1981,
+Kobberbølvej 2 7182 Bredsten,2,655000.0,09-07-2002,Alm.,8291,3,Villa,79,1944,
+Pilevej 1 7182 Bredsten,1,695000.0,04-07-2002,Alm.,7239,4,Villa,96,1960,
+Johan Skjoldborg Vej 52 7182 Bredsten,52,975952.0,01-07-2002,Alm.,7283,5,Villa,134,1978,
+Lihmskovvej 18 7182 Bredsten,18,520000.0,24-06-2002,Fam.,6046,4,Stuehus,86,1880,
+Vestervang 10 7182 Bredsten,10,450000.0,12-06-2002,Alm.,2812,4,Villa,160,1961,
+Anton Berntsen Vej 14 7182 Bredsten,14,1575000.0,07-06-2002,Alm.,9843,5,Villa,160,1996,
+Vejlevej 40 7182 Bredsten,40,924000.0,03-06-2002,Alm.,3526,5,Stuehus,262,1902,
+Ladegårdvej 14 7182 Bredsten,14,3600000.0,27-05-2002,Alm.,16438,5,Stuehus,219,1915,
+Skovtoften 15A 7182 Bredsten,0,620000.0,01-05-2002,Alm.,7654,3,Rækkehus,81,1987,
+Kærbøllingvej 104 7182 Bredsten,104,170000.0,01-04-2002,Alm.,648,10,Stuehus,262,1882,
+Skærhejselvej 6 7182 Bredsten,6,60000.0,21-03-2002,Alm.,177,8,Stuehus,338,1898,
+Engelsholmvej 4 7182 Bredsten,4,498400.0,12-03-2002,Alm.,2966,6,Stuehus,168,1932,
+Kærbøllingvej 110 7182 Bredsten,110,300000.0,04-03-2002,Alm.,2803,4,Villa,107,2002,
+Hærvejen 88 7182 Bredsten,88,773356.0,05-02-2002,Andet,5333,5,Stuehus,145,2001,
+Engen 9 7182 Bredsten,9,2840000.0,25-01-2002,Andet,31208,4,Rækkehus,91,2002,
+Rolighedsvej 14 7182 Bredsten,14,700000.0,21-01-2002,Alm.,4964,5,Villa,141,1975,
+Skovvej 15 7182 Bredsten,15,1246570.0,14-01-2002,Alm.,5936,6,Villa,210,1973,
+Vejlevej 18 7182 Bredsten,18,798000.0,03-01-2002,Alm.,6186,4,Villa,129,1895,
+Østermarksvej 10 7182 Bredsten,10,1296000.0,20-12-2001,Alm.,5003,5,Villa,259,1933,
+Ollerupvej 16 7182 Bredsten,16,350000.0,13-12-2001,Fam.,2692,5,Villa,130,2003,
+Mejerivej 8 7182 Bredsten,8,995000.0,07-12-2001,Alm.,6815,5,Villa,146,1974,
+Skovtoften 15B 7182 Bredsten,0,584343.0,04-12-2001,Alm.,7214,3,Rækkehus,81,1987,
+Østermarksvej 3 7182 Bredsten,3,100000.0,22-11-2001,Alm.,636,6,Villa,157,1897,
+Søgårdvej 3 7182 Bredsten,3,1525000.0,20-11-2001,Alm.,8333,6,Stuehus,183,1827,
+Smedens Ager 13 7182 Bredsten,13,1237459.0,14-11-2001,Alm.,6688,7,Villa,185,1972,
+Anton Berntsen Vej 13 7182 Bredsten,13,1292449.0,25-10-2001,Alm.,7260,6,Villa,178,1990,
+Bredstenvej 20 7182 Bredsten,20,1700000.0,13-09-2001,Alm.,8717,6,Stuehus,195,1912,
+Nybovej 37 7182 Bredsten,37,230000.0,06-08-2001,Alm.,1503,5,Villa,153,2002,
+Engen 17 7182 Bredsten,17,910274.0,02-08-2001,Alm.,10003,5,Rækkehus,91,2001,
+Anton Berntsen Vej 15 7182 Bredsten,15,1025000.0,14-07-2001,Alm.,6788,6,Villa,151,1986,
+Anton Berntsen Vej 18 7182 Bredsten,18,700000.0,01-07-2001,Fam.,0,6,Villa,170,1997,
+Nybovej 35 7182 Bredsten,35,230000.0,26-06-2001,Alm.,1144,6,Villa,201,2002,
+Johan Skjoldborg Vej 27 7182 Bredsten,27,840000.0,25-06-2001,Alm.,7433,4,Villa,113,1977,
+De Lichtenbergs Vej 35 7182 Bredsten,35,1457500.0,15-06-2001,Alm.,8523,6,Villa,171,1990,
+Johan Skjoldborg Vej 10 7182 Bredsten,10,830000.0,06-06-2001,Auktion,4715,5,Villa,176,1976,
+Skovtoften 37 7182 Bredsten,37,1000000.0,30-05-2001,Alm.,8333,4,Villa,120,1986,
+Anton Berntsen Vej 6 7182 Bredsten,6,164800.0,23-05-2001,Alm.,1121,5,Villa,147,2002,
+Kirkegade 30 7182 Bredsten,30,900000.0,15-05-2001,Alm.,7258,4,Villa,124,1892,
+Engen 37 7182 Bredsten,37,902920.0,08-05-2001,Alm.,9922,5,Rækkehus,91,2001,
+Engen 13 7182 Bredsten,13,895000.0,17-04-2001,Alm.,9835,4,Rækkehus,91,2001,
+Florasvej 1 7182 Bredsten,1,898850.0,14-04-2001,Alm.,7553,3,Villa,119,1935,
+Elmevej 9 7182 Bredsten,9,1200000.0,05-04-2001,Alm.,7142,6,Villa,168,1973,
+Engen 29 7182 Bredsten,29,907107.0,05-04-2001,Alm.,9968,4,Rækkehus,91,2001,
+Vejlevej 29 7182 Bredsten,29,870000.0,04-04-2001,Alm.,8055,4,Villa,108,1928,
+Vestervang 1 7182 Bredsten,1,1081552.0,03-04-2001,Alm.,4622,7,Villa,234,1936,
+Møllegårdsvej 4 7182 Bredsten,4,1065000.0,01-04-2001,Alm.,9102,4,Villa,117,1970,
+Søskovvej 4 7182 Bredsten,4,430000.0,28-03-2001,Alm.,1586,13,Villa,271,1850,
+Lindeparken 2 7182 Bredsten,2,220000.0,17-03-2001,Alm.,1718,4,Villa,128,2002,
+Engelsholmvej 10 7182 Bredsten,10,1425000.0,16-03-2001,Alm.,0,8,BygningTilHandel,150,1884,
+Ballevej 32 7182 Bredsten,32,849000.0,26-01-2001,Alm.,6431,7,Villa,132,1949,
+Sødovervej 29 7182 Bredsten,29,1060356.0,12-01-2001,Alm.,6129,6,Villa,173,1985,
+Ballevej 83 7182 Bredsten,83,1250000.0,27-12-2000,Fam.,8333,7,Stuehus,150,1929,
+Engen 27 7182 Bredsten,27,895000.0,04-12-2000,Alm.,9835,5,Rækkehus,91,2001,
+Sødover Tværvej 5 7182 Bredsten,5,447753.0,21-11-2000,Alm.,2713,6,Villa,165,1927,
+Nybovej 45 7182 Bredsten,45,1221000.0,21-11-2000,Alm.,7355,5,Villa,166,1997,
+Jellingvej 2 7182 Bredsten,2,442250.0,16-11-2000,Alm.,0,4,Villa,120,1877,
+Ballevej 13 7182 Bredsten,13,819551.0,31-10-2000,Alm.,4268,5,Villa,192,1927,
+Jeppe Åkjær Vej 21 7182 Bredsten,21,1045000.0,19-10-2000,Alm.,6295,5,Villa,166,1976,
+Skovtoften 4 7182 Bredsten,4,1399341.0,04-10-2000,Alm.,9028,5,Villa,155,1986,
+Lunden 5 7182 Bredsten,5,685000.0,14-09-2000,Alm.,6715,3,Villa,102,1965,
+Kirkegade 12 7182 Bredsten,12,320000.0,30-08-2000,Alm.,5333,2,Villa,60,1897,
+Billundvej 27 7182 Bredsten,27,810208.0,28-08-2000,Alm.,5474,4,Villa,148,1911,
+Skovtoften 23A 7182 Bredsten,0,653000.0,08-08-2000,Alm.,8061,3,Rækkehus,81,1986,
+Johan Skjoldborg Vej 49 7182 Bredsten,49,937500.0,04-08-2000,Alm.,7440,4,Villa,126,1977,
+Anton Berntsen Vej 34 7182 Bredsten,34,1423406.0,03-08-2000,Alm.,9617,5,Villa,148,1997,
+Skråvej 6 7182 Bredsten,6,950000.0,03-07-2000,Alm.,5428,5,Stuehus,175,2000,
+Kirkegade 21 7182 Bredsten,21,1500000.0,13-06-2000,Fam.,6250,8,Stuehus,240,1923,
+Østermarksvej 8 7182 Bredsten,8,691344.0,04-06-2000,Alm.,5858,4,Villa,118,1877,
+Bredstenvej 23 7182 Bredsten,23,936000.0,30-04-2000,Alm.,4703,8,Villa,199,1898,
+Thit Jensen Vej 35 7182 Bredsten,35,260000.0,10-04-2000,Alm.,1125,7,Villa,231,2002,
+Møllegårdsvej 8 7182 Bredsten,8,528076.0,24-03-2000,Fam.,3667,6,Villa,144,1972,
+Lundskovvej 2 7182 Bredsten,2,306000.0,24-03-2000,Fam.,4707,3,Villa,65,1887,
+Sødovervej 28 7182 Bredsten,28,975000.0,11-03-2000,Alm.,10833,3,Villa,90,1968,
+Ravningvej 26 7182 Bredsten,26,200000.0,11-02-2000,Fam.,930,5,Villa,215,1999,
+Vejlevej 22 7182 Bredsten,22,788000.0,11-02-2000,Alm.,6566,4,Rækkehus,120,1900,
+Skærhejselvej 18 7182 Bredsten,18,787500.0,10-02-2000,Alm.,6350,3,Stuehus,124,1900,
+Kapselvej 5 7182 Bredsten,5,782271.0,08-02-2000,Alm.,6629,4,Villa,118,1955,
+Thit Jensen Vej 9 7182 Bredsten,9,210000.0,04-01-2000,Alm.,0,6,Villa,161,2000,
+Billundvej 8 7182 Bredsten,8,790000.0,20-12-1999,Alm.,4566,4,Villa,173,1935,
+Lindeparken 16 7182 Bredsten,16,200000.0,07-12-1999,Alm.,1257,5,Villa,159,2000,
+Rolighedsvej 15 7182 Bredsten,15,908594.0,02-12-1999,Alm.,3833,7,Villa,237,1939,
+Ravningvej 73 7182 Bredsten,73,500000.0,01-12-1999,Fam.,0,4,Stuehus,205,1880,
+Smedens Ager 14 7182 Bredsten,14,1525000.0,24-11-1999,Fam.,9472,4,Villa,161,1972,
+Sødovervej 5 7182 Bredsten,5,1300000.0,22-11-1999,Fam.,4482,6,Stuehus,290,1877,
+Elmevej 7 7182 Bredsten,7,1220000.0,08-11-1999,Alm.,6815,6,Villa,179,1973,
+Thit Jensen Vej 5 7182 Bredsten,5,220000.0,25-10-1999,Alm.,1392,5,Villa,158,2000,
+Vestervej 5 7182 Bredsten,5,350000.0,23-10-1999,Alm.,1851,7,Villa,189,2008,
+Dyrehavevej 5A 7182 Bredsten,0,799000.0,05-10-1999,Alm.,0,6,Villa,154,1988,
+Kærbøllingvej 125 7182 Bredsten,125,846000.0,25-09-1999,Alm.,3192,7,Villa,265,1897,
+Nybovej 51 7182 Bredsten,51,162200.0,24-09-1999,Alm.,1001,5,Villa,162,2000,
+Skovtoften 2 7182 Bredsten,2,1045000.0,31-08-1999,Alm.,6531,6,Villa,160,1988,
+Elmevej 3 7182 Bredsten,3,815000.0,29-08-1999,Alm.,6269,5,Villa,130,1967,
+Lupinvej 5 7182 Bredsten,5,665433.0,09-08-1999,Alm.,8423,4,Villa,79,1957,
+Anton Berntsen Vej 30 7182 Bredsten,30,1304814.0,26-07-1999,Alm.,0,7,Villa,177,1995,
+Bredstenlundvej 22 7182 Bredsten,22,870023.0,15-07-1999,Alm.,4627,5,Villa,188,1960,
+Billundvej 62 7182 Bredsten,62,415000.0,03-07-1999,Alm.,1844,6,Villa,225,1938,
+Florasvej 6 7182 Bredsten,6,1335000.0,28-06-1999,Alm.,6297,4,Villa,212,1973,
+Thit Jensen Vej 31 7182 Bredsten,31,210000.0,24-06-1999,Alm.,1372,5,Villa,153,1999,
+Vestervej 6 7182 Bredsten,6,451000.0,19-06-1999,Alm.,5305,3,Villa,85,1897,
+Kærbøllingvej 6 7182 Bredsten,6,457000.0,14-05-1999,Alm.,0,6,Villa,167,1800,
+Vesterløkke 28 7182 Bredsten,28,970001.0,26-04-1999,Alm.,5739,5,Villa,169,1978,
+Thit Jensen Vej 23 7182 Bredsten,23,230000.0,22-04-1999,Alm.,1277,7,Villa,180,1999,
+Thit Jensen Vej 39 7182 Bredsten,39,270000.0,19-04-1999,Alm.,1719,5,Villa,157,1999,
+Anton Berntsen Vej 4 7182 Bredsten,4,1340111.0,16-04-1999,Alm.,9572,5,Villa,140,1997,
+Johan Skjoldborg Vej 11 7182 Bredsten,11,1250000.0,12-03-1999,Alm.,5434,6,Villa,230,1975,
+Lildfrostvej 5 7182 Bredsten,5,393691.0,25-02-1999,Alm.,1781,6,Villa,221,2001,
+Tørskindvej 1 7182 Bredsten,1,421147.0,15-01-1999,Alm.,3828,4,Villa,110,1942,
+Kirkegade 34 7182 Bredsten,34,769000.0,07-12-1998,Alm.,5340,4,Villa,144,1913,
+Thit Jensen Vej 33 7182 Bredsten,33,200000.0,30-11-1998,Alm.,1418,5,Villa,141,1999,
+Møllevænget 3 7182 Bredsten,3,405786.0,27-11-1998,Alm.,0,7,Villa,188,1968,
+Tørskindvej 10 7182 Bredsten,10,714000.0,04-11-1998,Alm.,5852,4,Villa,122,1967,
+Rolighedsvej 12 7182 Bredsten,12,710000.0,29-10-1998,Fam.,5144,5,Villa,138,1976,
+Sødovervej 34 7182 Bredsten,34,1915000.0,28-10-1998,Alm.,0,9,Stuehus,291,1910,
+Anton Berntsen Vej 21 7182 Bredsten,21,1540000.0,21-10-1998,Alm.,8850,6,Villa,174,1986,
+Skovtoften 29 7182 Bredsten,29,1085000.0,09-10-1998,Alm.,7482,6,Villa,145,1985,
+Thit Jensen Vej 41 7182 Bredsten,41,275000.0,29-09-1998,Alm.,1687,5,Villa,163,1999,
+Billundvej 28 7182 Bredsten,28,500000.0,25-09-1998,Alm.,2808,7,Villa,178,1930,
+Skovtoften 14 7182 Bredsten,14,853385.0,23-09-1998,Alm.,5926,5,Villa,144,1979,
+De Lichtenbergs Vej 17 7182 Bredsten,17,1308000.0,21-09-1998,Alm.,6848,5,Villa,191,1914,
+Ballevej 102 7182 Bredsten,102,2064138.0,08-09-1998,Fam.,12900,6,Stuehus,160,1938,
+Kærbøllinghusevej 20 7182 Bredsten,20,535000.0,07-09-1998,Alm.,5815,3,Villa,92,1937,
+Ballevej 19 7182 Bredsten,19,1095000.0,21-08-1998,Alm.,7064,5,Villa,155,1973,
+Vejlevej 19 7182 Bredsten,19,607000.0,20-08-1998,Alm.,7226,3,Villa,84,1900,
+Nybovej 43 7182 Bredsten,43,1344000.0,14-08-1998,Alm.,8727,5,Villa,154,1997,
+Thit Jensen Vej 25 7182 Bredsten,25,200000.0,31-07-1998,Alm.,1307,5,Villa,153,1999,
+Thit Jensen Vej 37 7182 Bredsten,37,280000.0,13-07-1998,Alm.,1879,5,Villa,149,1998,
+Mølletoften 5C 7182 Bredsten,0,800000.0,08-06-1998,Fam.,4761,5,Villa,168,1979,
+Lindeparken 7 7182 Bredsten,7,275000.0,05-06-1998,Alm.,1341,5,Villa,205,2000,
+Ravningvej 59 7182 Bredsten,59,90000.0,04-06-1998,Auktion,737,5,Villa,122,1870,
+Lindeparken 3 7182 Bredsten,3,250000.0,27-05-1998,Alm.,1497,5,Villa,167,2000,
+Lindeparken 4 7182 Bredsten,4,195000.0,13-05-1998,Alm.,1189,5,Villa,164,1999,
+Vesterløkke 12 7182 Bredsten,12,536000.0,04-05-1998,Alm.,2552,6,Villa,210,1978,
+Kærbølling Skovvej 4 7182 Bredsten,4,481300.0,02-05-1998,Alm.,2455,9,Villa,196,1977,
+Vingsted Skovvej 11 7182 Bredsten,11,892500.0,28-04-1998,Alm.,0,6,Villa,281,1990,
+Skovtoften 12 7182 Bredsten,12,1100000.0,25-04-1998,Alm.,6111,5,Villa,180,1980,
+Nybovej 79 7182 Bredsten,79,210000.0,11-04-1998,Fam.,1200,5,Villa,175,1998,
+Ballevej 88 7182 Bredsten,88,236475.0,24-03-1998,Alm.,2463,4,Stuehus,96,1862,
+Skovvej 21 7182 Bredsten,21,934000.0,09-03-1998,Alm.,5949,3,Villa,157,1971,
+Lildfrostvej 3 7182 Bredsten,3,125000.0,05-03-1998,Alm.,516,10,Stuehus,242,1863,
+Jellingvej 12 7182 Bredsten,12,655000.0,02-03-1998,Alm.,9097,5,Villa,72,1959,
+Lindeparken 5 7182 Bredsten,5,234725.0,10-02-1998,Alm.,1504,5,Villa,156,1998,
+De Lichtenbergs Vej 34 7182 Bredsten,34,623802.0,06-02-1998,Fam.,3465,5,Stuehus,180,1880,
+Jellingvej 4 7182 Bredsten,4,779800.0,19-01-1998,Alm.,3481,10,Villa,224,1917,
+Anton Berntsen Vej 42 7182 Bredsten,42,1371000.0,05-01-1998,Alm.,8732,4,Villa,157,1986,
+Anton Berntsen Vej 16 7182 Bredsten,16,129000.0,29-12-1997,Alm.,786,6,Villa,164,1998,
+Nybovej 53 7182 Bredsten,53,151925.0,10-12-1997,Alm.,1006,5,Villa,151,1998,
+Skovtoften 5 7182 Bredsten,5,809500.0,04-12-1997,Alm.,6581,4,Villa,123,1984,
+Dyrehavevej 8 7182 Bredsten,8,874000.0,16-11-1997,Alm.,5265,6,Villa,166,1967,
+Smedens Ager 3 7182 Bredsten,3,957500.0,12-11-1997,Alm.,5066,5,Villa,189,1972,
+Jeppe Åkjær Vej 12 7182 Bredsten,12,779000.0,31-10-1997,Alm.,7212,4,Villa,108,1976,
+Anton Berntsen Vej 12 7182 Bredsten,12,111700.0,03-10-1997,Alm.,786,4,Villa,142,1998,
+Smedens Ager 9 7182 Bredsten,9,890000.0,01-10-1997,Alm.,5235,6,Villa,170,1973,
+Hærvejen 89 7182 Bredsten,89,1423692.0,18-09-1997,Alm.,0,7,Stuehus,242,1925,
+Vejlevej 15 7182 Bredsten,15,615000.0,15-09-1997,Alm.,0,6,Villa,138,1850,
+Jellingvej 21 7182 Bredsten,21,520000.0,09-09-1997,Fam.,0,7,Stuehus,193,1904,
+Anton Berntsen Vej 2 7182 Bredsten,2,139800.0,08-09-1997,Alm.,1109,5,Villa,126,1998,
+Kærbøllingvej 2 7182 Bredsten,2,784750.0,27-08-1997,Alm.,7069,5,Villa,111,1922,
+Ballevej 105 7182 Bredsten,105,7250000.0,13-08-1997,Alm.,38157,6,Stuehus,190,1991,
+Ballevej 58 7182 Bredsten,58,430000.0,01-08-1997,Alm.,1936,8,Villa,222,1931,
+Sødovervej 11 7182 Bredsten,11,315000.0,30-06-1997,Fam.,1492,5,Villa,211,1925,
+Mejerivej 1 7182 Bredsten,1,908000.0,27-06-1997,Alm.,4656,9,Villa,195,1927,
+Smedens Ager 20 7182 Bredsten,20,1045000.0,30-05-1997,Alm.,6830,4,Villa,153,1973,
+Molsgårdvej 10 7182 Bredsten,10,375000.0,06-05-1997,Alm.,1829,6,Stuehus,205,1919,
+De Lichtenbergs Vej 4 7182 Bredsten,4,659000.0,30-04-1997,Alm.,6793,4,Villa,97,1950,
+Lundskovvej 5 7182 Bredsten,5,357500.0,30-04-1997,Alm.,1380,7,Stuehus,259,1970,
+Kærbølling Skovvej 9 7182 Bredsten,9,700000.0,31-03-1997,Fam.,3571,7,Stuehus,196,1962,
+Skovvej 8 7182 Bredsten,8,600000.0,20-03-1997,Alm.,6818,4,Villa,88,1968,
+Sødovervej 15 7182 Bredsten,15,875013.0,11-03-1997,Alm.,0,6,Villa,185,1965,
+Nybovej 85 7182 Bredsten,85,122300.0,10-03-1997,Alm.,636,5,Villa,192,1998,
+Østermarksvej 12 7182 Bredsten,12,314608.0,06-03-1997,Alm.,1417,7,Stuehus,222,1928,
+Billundvej 10 7182 Bredsten,10,654000.0,03-03-1997,Alm.,0,6,Villa,170,1944,
+Billundvej 48 7182 Bredsten,48,300000.0,25-02-1997,Fam.,2884,4,Villa,104,1877,
+De Lichtenbergs Vej 21 7182 Bredsten,21,933975.0,03-01-1997,Alm.,4008,7,Villa,233,1927,
+Johan Skjoldborg Vej 63 7182 Bredsten,63,930000.0,03-01-1997,Alm.,6549,5,Villa,142,1977,
+Ravningvej 48 7182 Bredsten,48,622000.0,03-01-1997,Alm.,3362,6,Villa,185,1938,
+Bredstenvej 37 7182 Bredsten,37,4380006.0,03-01-1997,Alm.,16043,11,Stuehus,273,1917,
+Anton Berntsen Vej 20 7182 Bredsten,20,174060.0,16-12-1996,Alm.,1074,6,Villa,162,1997,
+Jellingvej 8 7182 Bredsten,8,651396.0,25-11-1996,Alm.,3464,8,Villa,188,1965,
+Ballevej 94 7182 Bredsten,94,121000.0,21-11-1996,Auktion,1512,3,Villa,80,1852,
+Johan Skjoldborg Vej 3 7182 Bredsten,3,724000.0,21-11-1996,Fam.,5134,5,Villa,141,1975,
+Ballevej 54 7182 Bredsten,54,421727.0,29-10-1996,Alm.,2525,7,Villa,167,1918,
+Vestervang 9 7182 Bredsten,9,673000.0,23-10-1996,Alm.,5060,5,Villa,133,1965,
+"Ballevej 24B, ST. 4 7182 Bredsten",4,4825000.0,21-10-1996,Alm.,55459,2,Lejlighed,87,1938,
+Billundvej 32 7182 Bredsten,32,425000.0,04-10-1996,Alm.,3244,5,Villa,131,1940,
+Anton Berntsen Vej 26 7182 Bredsten,26,127046.0,26-09-1996,Alm.,824,5,Villa,154,1997,
+De Lichtenbergs Vej 26 7182 Bredsten,26,400000.0,25-09-1996,Fam.,0,6,Villa,170,1905,
+Buen 7 7182 Bredsten,7,695000.0,14-08-1996,Alm.,3971,8,Villa,175,1965,
+Sødover Tværvej 1A 7182 Bredsten,0,240000.0,06-08-1996,Alm.,1085,5,Villa,221,2001,
+Møllegårdsvej 11 7182 Bredsten,11,707500.0,05-08-1996,Alm.,4685,4,Villa,151,1970,
+Skyttevej 11 7182 Bredsten,11,95000.0,05-08-1996,Alm.,390,6,Villa,243,1998,
+Kærbøllinghusevej 39 7182 Bredsten,39,995000.0,22-07-1996,Alm.,0,3,Stuehus,130,1930,
+Skovvej 65 7182 Bredsten,65,1875000.0,10-07-1996,Alm.,6768,9,Stuehus,277,1840,
+Balle Nørremarksvej 2 7182 Bredsten,2,800000.0,06-06-1996,Fam.,5442,5,Stuehus,147,1924,
+Johan Skjoldborg Vej 66 7182 Bredsten,66,1230000.0,30-05-1996,Alm.,8145,5,Villa,151,1979,
+Smedens Ager 16 7182 Bredsten,16,775000.0,09-05-1996,Alm.,5032,6,Villa,154,1972,
+Smedens Ager 23 7182 Bredsten,23,802600.0,08-05-1996,Alm.,3262,9,Villa,246,1972,
+Ørskovvej 4 7182 Bredsten,4,986000.0,03-04-1996,Alm.,4091,6,Stuehus,241,1959,
+Nybovej 87 7182 Bredsten,87,110000.0,21-03-1996,Alm.,758,6,Villa,145,1996,
+Smedens Ager 22 7182 Bredsten,22,932000.0,19-03-1996,Alm.,6472,5,Villa,144,1973,
+Anton Berntsen Vej 10 7182 Bredsten,10,137835.0,15-03-1996,Alm.,957,5,Villa,144,1996,
+Anton Berntsen Vej 11 7182 Bredsten,11,960000.0,15-03-1996,Alm.,0,5,Villa,143,1986,
+Skovtoften 33 7182 Bredsten,33,1082200.0,08-03-1996,Alm.,7166,5,Villa,151,1985,
+Balle Vestvej 1 7182 Bredsten,1,1253500.0,23-02-1996,Alm.,5595,8,Villa,224,1978,
+Skovvej 17 7182 Bredsten,17,65000.0,17-01-1996,Alm.,496,4,Villa,131,1996,
+"Billundvej 33C, 1 7182 Bredsten",1,2224350.0,21-12-1995,Alm.,7750,7,Lejlighed,287,1978,
+Ravning Skovvej 1 7182 Bredsten,1,965000.0,17-12-1995,Alm.,5000,5,Stuehus,193,1912,
+Johan Skjoldborg Vej 28 7182 Bredsten,28,888000.0,10-12-1995,Alm.,4748,8,Villa,187,1978,
+Florasvej 3 7182 Bredsten,3,233830.0,07-12-1995,Alm.,1452,5,Villa,161,1926,
+Kærbøllinghusevej 2 7182 Bredsten,2,722000.0,17-11-1995,Alm.,5270,4,Villa,137,1951,
+Lihmskovvej 12 7182 Bredsten,12,719000.0,04-10-1995,Alm.,5530,4,Villa,130,1777,
+Johan Skjoldborg Vej 51 7182 Bredsten,51,701000.0,19-09-1995,Alm.,6258,4,Villa,112,1977,
+Elmevej 6 7182 Bredsten,6,970000.0,08-09-1995,Alm.,4801,7,Villa,202,1972,
+Dyrehavevej 16 7182 Bredsten,16,750000.0,08-09-1995,Alm.,4189,6,Villa,179,1968,
+Søbakken 10 7182 Bredsten,10,915000.0,28-08-1995,Alm.,5613,5,Stuehus,163,1932,
+Møllegårdsvej 1 7182 Bredsten,1,625000.0,02-08-1995,Alm.,0,4,Villa,130,1971,
+Dyrehavevej 9 7182 Bredsten,9,380000.0,01-08-1995,Fam.,3917,3,Villa,97,1952,
+Jennumvej 244 7182 Bredsten,244,314969.0,31-07-1995,Alm.,2157,4,Stuehus,146,1856,
+Rolighedsvej 1 7182 Bredsten,1,354000.0,21-07-1995,Alm.,0,6,Villa,140,1927,
+Anton Berntsen Vej 9 7182 Bredsten,9,949000.0,07-07-1995,Alm.,6284,5,Villa,151,1986,
+Vejlevej 10 7182 Bredsten,10,285000.0,07-07-1995,Alm.,2968,6,Villa,96,1907,
+Vejlevej 12 7182 Bredsten,12,871000.0,07-07-1995,Alm.,3003,14,Villa,290,1907,
+Molsgårdvej 12 7182 Bredsten,12,505000.0,30-06-1995,Alm.,5260,3,Stuehus,96,1914,
+Hærvejen 97 7182 Bredsten,97,950000.0,23-06-1995,Alm.,0,8,Stuehus,255,1920,
+Smedens Ager 18 7182 Bredsten,18,832000.0,22-06-1995,Alm.,4894,5,Villa,170,1974,
+Rolighedsvej 7 7182 Bredsten,7,20000.0,06-06-1995,Alm.,139,5,Villa,143,2003,
+Johan Skjoldborg Vej 38 7182 Bredsten,38,780000.0,26-05-1995,Alm.,3959,8,Villa,197,1980,
+Johan Skjoldborg Vej 35 7182 Bredsten,35,667800.0,15-05-1995,Alm.,0,5,Villa,155,1977,
+Søbakken 5 7182 Bredsten,5,500000.0,12-05-1995,Alm.,2369,4,Stuehus,211,1860,
+Kirkegade 18 7182 Bredsten,18,565000.0,17-04-1995,Alm.,2897,5,Villa,195,1905,
+Ladegårdvej 8 7182 Bredsten,8,1160000.0,12-04-1995,Alm.,5132,7,Stuehus,226,1939,
+Anton Berntsen Vej 1 7182 Bredsten,1,1085000.0,07-04-1995,Alm.,7091,6,Villa,153,1990,
+Skærhejselvej 14 7182 Bredsten,14,1132325.0,16-03-1995,Alm.,8846,7,Stuehus,128,1911,
+Vesterløkke 7 7182 Bredsten,7,510000.0,10-03-1995,Alm.,4285,4,Villa,119,1969,
+Dyrehavevej 4 7182 Bredsten,4,207820.0,02-03-1995,Alm.,1315,5,Villa,158,1943,
+Mejerivej 19 7182 Bredsten,19,331500.0,01-03-1995,Fam.,2907,4,Villa,114,1963,
+Kirkegade 14 7182 Bredsten,14,325000.0,07-02-1995,Fam.,0,6,Villa,202,1880,
+Hærvejen 96 7182 Bredsten,96,65000.0,06-02-1995,Alm.,0,6,Stuehus,120,1898,
+Lihmskovvej 21 7182 Bredsten,21,698000.0,31-01-1995,Alm.,0,9,Stuehus,313,1800,
+Hærvejen 70 7182 Bredsten,70,120000.0,23-12-1994,Alm.,628,6,Stuehus,191,1962,
+Møllegårdsvej 12 7182 Bredsten,12,640000.0,05-12-1994,Alm.,4025,3,Villa,159,1972,
+Elmevej 20 7182 Bredsten,20,565000.0,02-12-1994,Alm.,4631,4,Villa,122,1972,
+Billundvej 3 7182 Bredsten,3,418000.0,15-11-1994,Alm.,3666,3,Villa,114,1916,
+Kærbøllinghusevej 64 7182 Bredsten,64,730000.0,07-11-1994,Alm.,5840,5,Villa,125,1971,
+Ballevej 45 7182 Bredsten,45,327890.0,27-10-1994,Alm.,4098,3,Rækkehus,80,1950,
+Johan Skjoldborg Vej 18 7182 Bredsten,18,782000.0,26-10-1994,Alm.,4980,5,Villa,157,1977,
+Buen 15 7182 Bredsten,15,286000.0,30-08-1994,Alm.,5107,2,Villa,56,1966,
+Ballevej 11 7182 Bredsten,11,530000.0,02-08-1994,Alm.,2355,7,Villa,225,1924,
+Ballevej 29 7182 Bredsten,29,1030000.0,29-07-1994,Fam.,4439,9,Stuehus,232,1925,
+Hærvejen 92 7182 Bredsten,92,786000.0,08-07-1994,Alm.,3275,8,Stuehus,240,1911,
+Elmevej 22 7182 Bredsten,22,612176.0,27-06-1994,Alm.,4534,4,Villa,135,1973,
+Anton Berntsen Vej 32 7182 Bredsten,32,146970.0,15-06-1994,Alm.,1020,6,Villa,144,1995,
+Sødovervej 9 7182 Bredsten,9,652000.0,06-06-1994,Alm.,5258,5,Stuehus,124,1885,
+Bredstenvej 32 7182 Bredsten,32,580639.0,02-06-1994,Fam.,3795,5,Stuehus,153,1998,
+Jellingvej 44 7182 Bredsten,44,100000.0,23-05-1994,Alm.,719,7,Stuehus,139,1884,
+Ballevej 53 7182 Bredsten,53,295000.0,19-05-1994,Alm.,1586,5,Villa,186,1944,
+Dyrehavevej 5B 7182 Bredsten,0,475000.0,13-04-1994,Alm.,3710,4,Villa,128,1867,
+Østermarksvej 14 7182 Bredsten,14,550000.0,08-04-1994,Alm.,4621,3,Villa,119,1934,
+Bredstenvej 57 7182 Bredsten,57,850000.0,24-03-1994,Alm.,3794,6,Stuehus,224,1879,
+Kærbøllingvej 112 7182 Bredsten,112,39666.0,23-03-1994,Fam.,1469,2,Sommerhus,27,1981,
+Billundvej 21 7182 Bredsten,21,430000.0,18-03-1994,Alm.,2721,5,Villa,158,1958,
+Rolighedsvej 13 7182 Bredsten,13,490000.0,20-02-1994,Alm.,0,2,Villa,208,1923,
+Søgårdvej 4 7182 Bredsten,4,1217100.0,24-01-1994,Alm.,5482,7,Villa,222,1777,
+Elmevej 12 7182 Bredsten,12,515000.0,19-12-1993,Alm.,0,6,Villa,178,1972,
+Mejerivej 17 7182 Bredsten,17,573000.0,23-11-1993,Alm.,5305,5,Villa,108,1961,
+Johan Skjoldborg Vej 22 7182 Bredsten,22,850000.0,22-11-1993,Alm.,4271,7,Villa,199,1976,
+Johan Skjoldborg Vej 55 7182 Bredsten,55,692000.0,28-10-1993,Alm.,3512,7,Villa,197,1977,
+Elmevej 4 7182 Bredsten,4,662400.0,14-10-1993,Alm.,4731,4,Villa,140,1970,
+Vestervang 7 7182 Bredsten,7,315000.0,26-09-1993,Alm.,3500,3,Villa,90,1963,
+Elmevej 2 7182 Bredsten,2,675500.0,16-09-1993,Alm.,3171,7,Villa,213,1970,
+Mejerivej 3 7182 Bredsten,3,525000.0,11-09-1993,Alm.,3804,5,Villa,138,1933,
+Bredstenvej 44 7182 Bredsten,44,385000.0,10-08-1993,Alm.,1868,5,Villa,206,2002,
+Skovtoften 8 7182 Bredsten,8,735000.0,04-08-1993,Alm.,5880,5,Villa,125,1986,
+Lildfrostvej 1 7182 Bredsten,1,850000.0,04-08-1993,Alm.,0,10,Stuehus,190,1860,
+Buen 10 7182 Bredsten,10,380000.0,09-07-1993,Alm.,0,6,Villa,165,1966,
+Vingsted Skovvej 15 7182 Bredsten,15,850000.0,15-06-1993,Alm.,3244,6,Villa,262,1957,
+Mejerivej 12 7182 Bredsten,12,575000.0,03-06-1993,Alm.,6182,5,Villa,93,1912,
+Anton Berntsen Vej 38 7182 Bredsten,38,140000.0,29-03-1993,Alm.,1000,4,Villa,140,1993,
+Skærhejselvej 22 7182 Bredsten,22,825000.0,26-02-1993,Alm.,5769,4,Villa,143,1914,
+Rolighedsvej 3 7182 Bredsten,3,250000.0,17-02-1993,Fam.,0,3,Villa,120,1950,
+Steen Blicher Vej 21 7182 Bredsten,21,185000.0,12-02-1993,Alm.,1868,3,Rækkehus,99,1982,
+Ollerupvej 18 7182 Bredsten,18,1412667.0,08-02-1993,Alm.,6570,7,Villa,215,2008,
+Vejlevej 24 7182 Bredsten,24,658800.0,23-12-1992,Alm.,2524,9,Villa,261,1912,
+Balle Nørremarksvej 5 7182 Bredsten,5,515000.0,07-12-1992,Alm.,3601,4,Stuehus,143,1909,
+"Ballevej 2, 1 7182 Bredsten",1,275000.0,15-09-1992,Alm.,3571,2,Lejlighed,77,1900,
+Søskovvej 6 7182 Bredsten,6,650000.0,20-06-1992,Alm.,0,3,Stuehus,136,1868,
+Jellingvej 29 7182 Bredsten,29,535000.0,10-06-1992,Alm.,0,6,Villa,160,1912,
+Lille Ravningvej 8 7182 Bredsten,8,585000.0,26-05-1992,Alm.,3545,5,Villa,165,1899,
+Balle Nørremarksvej 10 7182 Bredsten,10,640000.0,21-05-1992,Alm.,3720,5,Villa,172,1928,
+Kirkegade 22 7182 Bredsten,22,425000.0,31-03-1992,Alm.,2931,9,Villa,145,1900,

@@ -1,0 +1,559 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Ørnekildevej 30 4173 Fjenneslev,30,1900000.0,10-04-2017,Alm.,6934,8,Villa,274,1897,-5 %
+Bakkegårdsvej 9 4173 Fjenneslev,9,1250000.0,06-04-2017,Alm.,8389,5,Villa,149,1971,0 %
+Ørnekildevej 20 4173 Fjenneslev,20,3290000.0,14-03-2017,Alm.,24014,4,Stuehus,137,1953,-11 %
+Grønagervej 10 4173 Fjenneslev,10,1050000.0,04-03-2017,Alm.,8750,4,Villa,120,1973,-4 %
+Stokholtsvej 36 4173 Fjenneslev,36,4925000.0,27-02-2017,Alm.,26336,4,Stuehus,187,2009,-1 %
+Mosegårdsvej 6 4173 Fjenneslev,6,768500.0,27-02-2017,Fam.,7841,4,Stuehus,98,1847,
+Fjenneslevmaglevej 27 4173 Fjenneslev,27,1200000.0,21-02-2017,Alm.,2065,12,Villa,581,2014,-40 %
+Gulagervej 11 4173 Fjenneslev,11,3925000.0,13-02-2017,Alm.,15154,5,Stuehus,259,1922,-2 %
+Havrevænget 34 4173 Fjenneslev,34,537500.0,08-02-2017,Fam.,4673,4,Villa,115,1972,
+Egerupvej 134 4173 Fjenneslev,134,2195000.0,25-01-2017,Alm.,12194,5,Villa,180,1914,-4 %
+Ørslevvestervej 79 4173 Fjenneslev,79,630000.0,10-01-2017,Alm.,6300,3,Villa,100,1902,-9 %
+Havrevænget 16 4173 Fjenneslev,16,738400.0,02-01-2017,Fam.,5510,5,Villa,134,1973,
+Sorøvej 185 4173 Fjenneslev,185,700000.0,22-12-2016,Alm.,6542,4,Villa,107,1900,
+Ørslevvestervej 74 4173 Fjenneslev,74,590000.0,07-12-2016,Alm.,3105,7,Villa,190,1950,-1 %
+Kildeagervej 2 4173 Fjenneslev,2,581193.0,24-11-2016,Alm.,4369,4,Villa,133,1983,
+Kløvervænget 4 4173 Fjenneslev,4,995000.0,20-10-2016,Alm.,7713,5,Villa,129,1974,0 %
+Hylstrupvej 20 4173 Fjenneslev,20,2300000.0,17-10-2016,Alm.,13450,9,Villa,171,1870,-8 %
+Tornmarksvej 6 4173 Fjenneslev,6,2462500.0,04-10-2016,Alm.,10568,5,Stuehus,233,1908,-5 %
+Bakkegårdsvej 13 4173 Fjenneslev,13,1400892.0,04-10-2016,Fam.,9339,4,Villa,150,1970,-10 %
+Bygagervej 5 4173 Fjenneslev,5,800000.0,26-09-2016,Alm.,6666,5,Villa,120,1958,-5 %
+Fjenneslevmaglevej 13 4173 Fjenneslev,13,628730.0,08-09-2016,Fam.,4191,5,Villa,150,1953,
+Bygagervej 8 4173 Fjenneslev,8,2170000.0,06-09-2016,Alm.,10140,3,Villa,214,1957,
+Ringstedvej 207 4173 Fjenneslev,207,1100000.0,30-08-2016,Alm.,8270,3,Villa,133,2014,
+Kløvervænget 40 4173 Fjenneslev,40,1150000.0,19-08-2016,Alm.,8214,5,Villa,140,1976,-4 %
+Brohusevej 13 4173 Fjenneslev,13,823122.0,09-08-2016,Alm.,7991,4,Villa,103,1877,
+Violvænget 15 4173 Fjenneslev,15,1195000.0,04-08-2016,Alm.,7660,5,Villa,156,1971,0 %
+Høvestensvej 32 4173 Fjenneslev,32,750000.0,28-05-2016,Alm.,7211,4,Stuehus,104,1900,-16 %
+Alstedvej 43 4173 Fjenneslev,43,1095000.0,27-05-2016,Alm.,8423,4,Villa,130,1910,-4 %
+Egerupvej 115 4173 Fjenneslev,115,659000.0,20-05-2016,Alm.,3414,3,Villa,193,1880,
+Rosenvænget 2 4173 Fjenneslev,2,1100000.0,12-05-2016,Alm.,8333,7,Villa,132,1968,-8 %
+Hvedevænget 1 4173 Fjenneslev,1,1030000.0,04-05-2016,Alm.,7923,4,Villa,130,1970,-6 %
+Rugtoften 12 4173 Fjenneslev,12,1095000.0,18-04-2016,Alm.,8760,3,Villa,125,1979,0 %
+Sorøvej 164 4173 Fjenneslev,164,1150000.0,17-03-2016,Alm.,9274,5,Villa,124,1937,-18 %
+Engen 3 4173 Fjenneslev,3,845000.0,16-03-2016,Alm.,9086,4,Villa,93,2003,0 %
+Sorøvej 146 4173 Fjenneslev,146,2250000.0,14-03-2016,Alm.,8754,6,Villa,257,1911,-10 %
+Gyrstinge Skovhuse 40 4173 Fjenneslev,40,895000.0,09-03-2016,Alm.,6679,5,Villa,134,1964,0 %
+Rosenvænget 13 4173 Fjenneslev,13,795000.0,25-02-2016,Alm.,6463,4,Villa,123,1967,0 %
+Gyrstinge Skovhuse 41 4173 Fjenneslev,41,1775000.0,08-01-2016,Alm.,9543,5,Villa,186,1917,-1 %
+Ringstedvej 239 4173 Fjenneslev,239,1165169.0,05-01-2016,Alm.,7819,6,Stuehus,149,1852,
+Ringstedvej 96 4173 Fjenneslev,96,923105.0,23-12-2015,Fam.,7957,3,Villa,116,1916,
+Ørslevvestervej 78 4173 Fjenneslev,78,200000.0,17-12-2015,Fam.,1612,4,Villa,124,1902,
+Bakkegårdsvej 16C 4173 Fjenneslev,0,1267800.0,14-12-2015,Alm.,8232,5,Villa,154,1986,-21 %
+Irisvænget 6 4173 Fjenneslev,6,750000.0,22-11-2015,Alm.,4716,4,Villa,159,1972,
+Skelbækvej 16 4173 Fjenneslev,16,998000.0,18-11-2015,Alm.,7796,5,Villa,128,1882,0 %
+Egerupvej 64 4173 Fjenneslev,64,750000.0,17-11-2015,Alm.,8333,4,Stuehus,90,1877,
+Kløvervænget 7 4173 Fjenneslev,7,888000.0,11-11-2015,Alm.,7789,4,Villa,114,1973,-4 %
+Havrevænget 12 4173 Fjenneslev,12,695000.0,05-11-2015,Alm.,6043,5,Villa,115,1968,0 %
+Stokholtsvej 56 4173 Fjenneslev,56,777129.0,03-11-2015,Auktion,4090,5,Villa,190,1920,-13 %
+Gulagervej 3 4173 Fjenneslev,3,385350.0,08-10-2015,Alm.,3503,5,Stuehus,110,1922,
+Fuglagervej 9 4173 Fjenneslev,9,815000.0,01-10-2015,Alm.,10584,3,Villa,77,1852,-4 %
+Havrevænget 30 4173 Fjenneslev,30,1000000.0,25-09-2015,Alm.,5434,5,Villa,184,1975,-9 %
+Violvænget 11 4173 Fjenneslev,11,595000.0,16-09-2015,Alm.,5173,4,Villa,115,1970,0 %
+Thyrasvej 50 4173 Fjenneslev,50,1795000.0,12-09-2015,Alm.,13102,5,Villa,137,2002,0 %
+Stokholtsvej 21 4173 Fjenneslev,21,1750000.0,04-09-2015,Alm.,16355,5,Stuehus,107,1902,-9 %
+Pilegårdsvej 8 4173 Fjenneslev,8,1456000.0,20-08-2015,Alm.,11837,5,Stuehus,123,1877,-3 %
+Gyrstinge Skovhuse 26 4173 Fjenneslev,26,1925000.0,28-07-2015,Alm.,9166,8,Villa,210,1920,-4 %
+Ringstedvej 159 4173 Fjenneslev,159,1691000.0,10-07-2015,Alm.,12078,4,Stuehus,140,1919,-15 %
+Hylstrupvej 14 4173 Fjenneslev,14,825000.0,07-07-2015,Alm.,4583,5,Stuehus,180,1906,-8 %
+Thyrasvej 26 4173 Fjenneslev,26,1035000.0,25-06-2015,Alm.,6160,6,Villa,168,1978,-5 %
+Alstedvej 89 4173 Fjenneslev,89,995000.0,25-06-2015,Alm.,8432,3,Villa,118,1926,0 %
+Hejreskovvej 18 4173 Fjenneslev,18,825000.0,19-05-2015,Alm.,5392,5,Villa,153,1972,-17 %
+Ringstedvej 245 4173 Fjenneslev,245,300000.0,12-05-2015,Alm.,3614,4,Villa,83,1917,
+Ringstedvej 134 4173 Fjenneslev,134,395000.0,07-05-2015,Alm.,2883,4,Villa,137,1904,
+Engelsborgvej 7 4173 Fjenneslev,7,1740000.0,27-04-2015,Fam.,7250,5,Stuehus,240,2005,-61 %
+Sorøvej 158 4173 Fjenneslev,158,400000.0,22-04-2015,Alm.,3252,4,Villa,123,1938,-47 %
+Alstedvej 61 4173 Fjenneslev,61,2975000.0,07-04-2015,Alm.,16346,5,Stuehus,182,1890,
+Thyrasvej 4 4173 Fjenneslev,4,1295000.0,24-03-2015,Alm.,5373,9,Villa,241,1977,0 %
+Alstedvej 71 4173 Fjenneslev,71,1300000.0,22-03-2015,Alm.,7471,5,Villa,174,1900,0 %
+Margrethevej 4 4173 Fjenneslev,4,475000.0,12-03-2015,Alm.,6785,3,Villa,70,1962,
+Sorøvej 180 4173 Fjenneslev,180,838218.0,02-03-2015,Alm.,10222,3,Villa,82,1938,
+Fuglagervej 7 4173 Fjenneslev,7,2100000.0,01-03-2015,Alm.,8045,7,Villa,261,1890,-8 %
+Yrsavej 7 4173 Fjenneslev,7,652372.0,23-02-2015,Alm.,4128,5,Villa,158,1973,
+Havrevænget 25 4173 Fjenneslev,25,875000.0,07-02-2015,Alm.,6889,4,Villa,127,1979,
+Bakkegårdsvej 16 4173 Fjenneslev,16,775000.0,03-02-2015,Auktion,7045,4,Villa,110,1962,
+Hejreskovvej 11 4173 Fjenneslev,11,5900000.0,20-12-2014,Alm.,23886,6,Villa,247,1800,-5 %
+Hejreskovvej 26 4173 Fjenneslev,26,700000.0,02-12-2014,Auktion,3571,7,Villa,196,1967,
+Knabstrupvej 3 4173 Fjenneslev,3,750000.0,13-11-2014,Alm.,15000,3,Stuehus,50,1897,
+Engen 5 4173 Fjenneslev,5,900000.0,11-11-2014,Auktion,3829,8,Villa,235,1937,
+Skælskørvej 12 4173 Fjenneslev,12,825000.0,21-10-2014,Alm.,3650,8,Villa,226,1890,-25 %
+Hvedevænget 3 4173 Fjenneslev,3,400000.0,25-09-2014,Fam.,2083,7,Villa,192,1971,
+Tornmarksvej 8 4173 Fjenneslev,8,1600000.0,23-09-2014,Auktion,7766,6,Villa,206,1870,
+Alstedvej 35 4173 Fjenneslev,35,1675000.0,16-09-2014,Alm.,7282,6,Villa,230,1828,-7 %
+Kærvej 4 4173 Fjenneslev,4,300000.0,22-08-2014,Alm.,2970,4,Villa,101,1904,
+Stokholtsvej 60 4173 Fjenneslev,60,777984.0,05-08-2014,Andet,5938,4,Villa,131,1932,
+Bakkegårdsvej 12 4173 Fjenneslev,12,800000.0,05-08-2014,Alm.,0,5,Villa,165,1970,-11 %
+Stokholtsvej 44 4173 Fjenneslev,44,650000.0,10-07-2014,Fam.,5284,4,Villa,123,1880,
+Alstedvej 45 4173 Fjenneslev,45,1550000.0,31-05-2014,Alm.,10402,5,Villa,149,2010,-3 %
+Kongsholm 4 4173 Fjenneslev,4,459000.0,28-05-2014,Alm.,3187,4,Villa,144,1924,
+Bygagervej 7 4173 Fjenneslev,7,550000.0,15-04-2014,Alm.,6790,2,Villa,81,1958,0 %
+Alstedvej 20 4173 Fjenneslev,20,695000.0,26-03-2014,Alm.,7988,3,Villa,87,1954,0 %
+Alstedvej 69 4173 Fjenneslev,69,800000.0,19-03-2014,Auktion,3902,6,Stuehus,205,1868,
+Langevej 4 4173 Fjenneslev,4,1030000.0,12-03-2014,Auktion,2968,8,Stuehus,347,1897,-54 %
+Kildeagervej 3A 4173 Fjenneslev,0,1320000.0,08-03-2014,Alm.,8627,6,Villa,153,1976,-5 %
+Ørslevvestervej 77 4173 Fjenneslev,77,1600000.0,05-03-2014,Alm.,9523,9,Villa,168,1917,-6 %
+Alsted Vænge 6 4173 Fjenneslev,6,8000000.0,26-02-2014,Auktion,65040,4,Rækkehus,123,2008,
+Alsted Vænge 2 4173 Fjenneslev,2,8000000.0,26-02-2014,Auktion,65040,4,Rækkehus,123,2008,
+Alsted Vænge 3 4173 Fjenneslev,3,8000000.0,26-02-2014,Auktion,65040,4,Rækkehus,123,2008,
+Alsted Vænge 4 4173 Fjenneslev,4,8000000.0,26-02-2014,Auktion,65040,4,Rækkehus,123,2008,
+Alsted Vænge 8 4173 Fjenneslev,8,8000000.0,26-02-2014,Auktion,65040,4,Rækkehus,123,2008,
+Alsted Vænge 1 4173 Fjenneslev,1,8000000.0,26-02-2014,Auktion,65040,4,Rækkehus,123,2008,
+Ringstedvej 213 4173 Fjenneslev,213,800000.0,20-02-2014,Alm.,8888,4,Villa,90,1935,-11 %
+Kløvervænget 30 4173 Fjenneslev,30,709886.0,06-02-2014,Andet,4579,4,Villa,155,1974,
+Ringstedvej 175 4173 Fjenneslev,175,153000.0,29-01-2014,Auktion,1296,4,Villa,118,1802,-61 %
+Skelbækvej 14 4173 Fjenneslev,14,3475000.0,20-01-2014,Alm.,13900,9,Stuehus,250,1877,-1 %
+Ringstedvej 94 4173 Fjenneslev,94,852662.0,08-01-2014,Auktion,4372,8,Stuehus,195,1904,
+Havrevænget 19 4173 Fjenneslev,19,1050000.0,02-01-2014,Alm.,9633,3,Villa,109,1974,0 %
+Stokholtsvej 23 4173 Fjenneslev,23,670000.0,23-12-2013,Alm.,6442,3,Villa,104,1792,-10 %
+Havrevænget 20 4173 Fjenneslev,20,855000.0,14-12-2013,Alm.,7008,4,Villa,122,1967,-5 %
+Sasserbrovej 12 4173 Fjenneslev,12,417500.0,12-11-2013,Andet,3394,5,Villa,123,1827,
+Ringstedvej 197 4173 Fjenneslev,197,400000.0,12-11-2013,Alm.,3278,6,Villa,122,1935,
+Kærvej 12 4173 Fjenneslev,12,500000.0,31-10-2013,Alm.,2439,6,Villa,205,1775,
+Ringstedvej 227 4173 Fjenneslev,227,520000.0,14-10-2013,Alm.,3661,5,Villa,142,1934,-25 %
+Skelbækvej 18 4173 Fjenneslev,18,1605000.0,08-10-2013,Alm.,13717,4,Stuehus,117,1920,
+Slaglillevej 5 4173 Fjenneslev,5,770000.0,17-09-2013,Auktion,3666,5,Villa,210,1910,
+Tornmarksvej 22 4173 Fjenneslev,22,2100000.0,23-08-2013,Alm.,8641,6,Villa,243,1902,-7 %
+Tornmarksvej 17 4173 Fjenneslev,17,26000000.0,14-08-2013,Alm.,96296,7,Stuehus,270,1750,
+Harpeager 4 4173 Fjenneslev,4,2350000.0,11-07-2013,Alm.,12702,6,Villa,185,2005,0 %
+Ørnekildevej 25 4173 Fjenneslev,25,1500000.0,26-06-2013,Alm.,13513,4,Stuehus,111,1850,-6 %
+Stokholtsvej 37 4173 Fjenneslev,37,1446000.0,13-06-2013,Alm.,6232,7,Villa,232,2005,-48 %
+Fjenneslevmaglevej 26 4173 Fjenneslev,26,300000.0,30-05-2013,Alm.,4285,3,Villa,70,1959,
+Alstedvej 66D 4173 Fjenneslev,0,1500000.0,19-04-2013,Alm.,11538,5,Villa,130,2007,-6 %
+Stokholtsvej 62 4173 Fjenneslev,62,1550000.0,18-04-2013,Alm.,7487,4,Stuehus,207,1993,
+Egekærsvej 5 4173 Fjenneslev,5,330000.0,14-04-2013,Alm.,4125,2,Villa,80,1870,-17 %
+Rugtoften 3 4173 Fjenneslev,3,665000.0,13-04-2013,Alm.,8209,3,Villa,81,1950,-4 %
+Stokholtsvej 22 4173 Fjenneslev,22,250000.0,29-01-2013,Alm.,4032,2,Villa,62,1850,
+Sorøvej 188 4173 Fjenneslev,188,917000.0,13-12-2012,Auktion,8490,3,Villa,108,1900,
+Ørslevvestervej 72B 4173 Fjenneslev,0,1800000.0,16-10-2012,Alm.,8181,7,Villa,220,1972,-14 %
+Alstedvej 86 4173 Fjenneslev,86,350000.0,02-10-2012,Alm.,3932,3,Villa,89,1900,-50 %
+Ringstedvej 181 4173 Fjenneslev,181,800000.0,01-10-2012,Alm.,6722,3,Villa,119,1950,-20 %
+Alstedvej 26 4173 Fjenneslev,26,720000.0,19-09-2012,Auktion,5538,7,Stuehus,130,1829,
+Valborgvej 6 4173 Fjenneslev,6,1000000.0,18-09-2012,Alm.,6250,7,Villa,160,2000,
+Thyrasvej 15 4173 Fjenneslev,15,1450000.0,29-08-2012,Alm.,10069,4,Villa,144,1977,-3 %
+Munkebrovej 22 4173 Fjenneslev,22,7000000.0,08-08-2012,Alm.,27027,8,Stuehus,259,1870,
+Munkebrovej 7 4173 Fjenneslev,7,1795000.0,25-07-2012,Alm.,10436,5,Villa,172,1993,0 %
+Irisvænget 7 4173 Fjenneslev,7,925000.0,14-07-2012,Alm.,6560,5,Villa,141,1972,-7 %
+Havrevænget 13 4173 Fjenneslev,13,350000.0,22-06-2012,Alm.,4487,3,Villa,78,1945,-41 %
+Pilegårdsvej 14 4173 Fjenneslev,14,850000.0,21-05-2012,Alm.,6071,6,Villa,140,1850,-15 %
+Ringstedvej 150 4173 Fjenneslev,150,300000.0,25-04-2012,Alm.,2654,4,Villa,113,1960,-39 %
+Ringstedvej 165 4173 Fjenneslev,165,2250000.0,14-04-2012,Alm.,12784,8,Stuehus,176,1877,-12 %
+Pilegårdsvej 10 4173 Fjenneslev,10,1150000.0,31-03-2012,Alm.,11979,3,Stuehus,96,1914,-11 %
+Sorøvej 173 4173 Fjenneslev,173,1950000.0,28-03-2012,Alm.,9750,4,Stuehus,200,1874,-2 %
+Hylstrupvej 8 4173 Fjenneslev,8,812500.0,06-01-2012,Fam.,4865,4,Stuehus,167,1850,
+Havebo 1 4173 Fjenneslev,1,773000.0,10-12-2011,Fam.,5521,4,Villa,140,1969,-43 %
+Skelbækvej 3A 4173 Fjenneslev,0,700500.0,18-11-2011,Andet,4350,6,Villa,161,1902,
+Harpeager 5 4173 Fjenneslev,5,1815000.0,19-10-2011,Alm.,14291,4,Villa,127,2006,-4 %
+Langevej 6 4173 Fjenneslev,6,325000.0,26-09-2011,Alm.,4642,2,Villa,70,1877,-24 %
+Sasserbrovej 6 4173 Fjenneslev,6,2200000.0,17-09-2011,Alm.,10891,4,Villa,202,1765,-20 %
+Ringstedvej 142 4173 Fjenneslev,142,645000.0,10-09-2011,Alm.,6789,4,Villa,95,1918,0 %
+Hejreskovvej 14 4173 Fjenneslev,14,1000000.0,06-09-2011,Auktion,5813,7,Villa,172,1966,
+Havrevænget 28 4173 Fjenneslev,28,975000.0,17-07-2011,Alm.,11746,4,Villa,83,1970,
+Liljevænget 2 4173 Fjenneslev,2,1285000.0,12-07-2011,Alm.,10708,4,Villa,120,1967,-8 %
+Kløvervænget 9 4173 Fjenneslev,9,1100000.0,08-07-2011,Alm.,8088,4,Villa,136,1973,-14 %
+Kildeagervej 1A 4173 Fjenneslev,0,1200000.0,19-05-2011,Alm.,9230,5,Villa,130,1966,
+Brunemark 2 4173 Fjenneslev,2,1500000.0,01-04-2011,Alm.,9375,5,Stuehus,160,1777,-12 %
+Alstedvej 12 4173 Fjenneslev,12,1995000.0,30-03-2011,Alm.,10336,3,Villa,193,2007,0 %
+Alstedvej 36 4173 Fjenneslev,36,850000.0,24-03-2011,Alm.,7727,4,Villa,110,1967,-5 %
+Alstedvej 51 4173 Fjenneslev,51,550000.0,22-02-2011,Alm.,2750,4,Villa,200,2012,-8 %
+Egerupvej 62 4173 Fjenneslev,62,675000.0,27-01-2011,Alm.,6683,4,Villa,101,1949,
+Violvænget 13 4173 Fjenneslev,13,1395000.0,30-12-2010,Alm.,10730,4,Villa,130,1974,0 %
+Alstedvej 19 4173 Fjenneslev,19,925000.0,01-12-2010,Alm.,10632,3,Villa,87,1962,-7 %
+Bygagervej 12 4173 Fjenneslev,12,690000.0,01-12-2010,Auktion,5750,4,Villa,120,1952,-37 %
+Fjenneslevmaglevej 53 4173 Fjenneslev,53,350000.0,11-11-2010,Alm.,4666,3,Villa,75,1952,-33 %
+Ringstedvej 130 4173 Fjenneslev,130,447500.0,15-10-2010,Andet,4430,4,Villa,101,1880,
+Alstedvej 49 4173 Fjenneslev,49,500000.0,12-09-2010,Alm.,2702,4,Villa,185,2012,-9 %
+Kløvervænget 34 4173 Fjenneslev,34,1012138.0,10-09-2010,Alm.,5137,6,Villa,197,1976,
+Margrethevej 6 4173 Fjenneslev,6,1170000.0,02-08-2010,Alm.,8068,4,Villa,145,1961,-10 %
+Brohusevej 51 4173 Fjenneslev,51,657374.0,19-07-2010,Fam.,6201,3,Villa,106,1935,-45 %
+Egerupvej 137 4173 Fjenneslev,137,875000.0,14-07-2010,Alm.,3771,5,Villa,232,1910,-8 %
+Slaglillevej 12 4173 Fjenneslev,12,1500000.0,10-07-2010,Alm.,5102,7,Villa,294,2016,
+Alstedvej 81 4173 Fjenneslev,81,3200000.0,02-07-2010,Alm.,12800,7,Villa,250,1847,
+Sasserbrovej 10 4173 Fjenneslev,10,1495000.0,26-06-2010,Alm.,5641,9,Villa,265,1912,0 %
+Gartnervænget 5 4173 Fjenneslev,5,1100000.0,15-06-2010,Alm.,9166,5,Villa,120,1969,-8 %
+Rugtoften 6 4173 Fjenneslev,6,795000.0,14-05-2010,Alm.,9814,3,Villa,81,1978,0 %
+Tornmarksvej 10 4173 Fjenneslev,10,2500000.0,18-03-2010,Fam.,9541,15,Stuehus,262,1912,
+Engen 6 4173 Fjenneslev,6,740000.0,16-03-2010,Alm.,7956,3,Villa,93,1955,-7 %
+Brohusevej 11 4173 Fjenneslev,11,1150000.0,03-03-2010,Alm.,10360,3,Villa,111,1897,
+Stokholtsvej 31 4173 Fjenneslev,31,2225000.0,17-02-2010,Alm.,14638,3,Villa,152,1880,12 %
+Smedemarksvej 8 4173 Fjenneslev,8,1020000.0,10-02-2010,Fam.,9714,5,Villa,105,1957,
+Thyrasvej 19 4173 Fjenneslev,19,1600000.0,14-12-2009,Alm.,8510,5,Villa,188,1977,-11 %
+Havebo 5A 4173 Fjenneslev,0,900000.0,11-11-2009,Alm.,8256,3,Rækkehus,109,1969,
+Yrsavej 11 4173 Fjenneslev,11,1400000.0,28-10-2009,Alm.,8284,5,Villa,169,1974,-12 %
+Skafterupvej 61 4173 Fjenneslev,61,1200000.0,21-10-2009,Alm.,8695,7,Villa,138,1964,-20 %
+Egerupvej 131 4173 Fjenneslev,131,1500000.0,20-10-2009,Alm.,10638,3,Villa,141,1861,-5 %
+Bakkegårdsvej 4 4173 Fjenneslev,4,1600000.0,05-10-2009,Alm.,11347,4,Villa,141,1900,-20 %
+Alstedvej 9 4173 Fjenneslev,9,1860000.0,28-08-2009,Alm.,10941,4,Villa,170,1850,-1 %
+Thyrasvej 64 4173 Fjenneslev,64,1150000.0,27-07-2009,Alm.,17692,2,Rækkehus,65,1991,
+Egekærsvej 1 4173 Fjenneslev,1,5552500.0,03-07-2009,Fam.,16427,12,Stuehus,338,1915,
+Brunemark 7 4173 Fjenneslev,7,1500000.0,14-05-2009,Fam.,8241,4,Villa,182,1777,
+Ringstedvej 104 4173 Fjenneslev,104,1145000.0,02-05-2009,Alm.,10315,3,Villa,111,1912,-4 %
+Egerupvej 132 4173 Fjenneslev,132,2900000.0,04-03-2009,Alm.,15934,11,Villa,182,1914,-9 %
+Ringstedvej 128 4173 Fjenneslev,128,815000.0,02-03-2009,Alm.,7409,3,Villa,110,1900,-16 %
+Alstedvej 6 4173 Fjenneslev,6,1420000.0,12-02-2009,Alm.,12678,4,Villa,112,1828,-5 %
+Hylstrupvej 17 4173 Fjenneslev,17,1600000.0,02-02-2009,Fam.,10596,6,Stuehus,151,1930,
+Mosegårdsvej 1 4173 Fjenneslev,1,747500.0,02-02-2009,Alm.,8305,4,Villa,90,1963,-42 %
+"Hejreskovvej 36, ST 4173 Fjenneslev",0,300000.0,01-02-2009,Alm.,1408,5,Stuehus,213,1956,
+Thyrasvej 56 4173 Fjenneslev,56,1250000.0,11-01-2009,Alm.,14204,3,Villa,88,1991,
+Irisvænget 4 4173 Fjenneslev,4,1350000.0,05-12-2008,Fam.,8653,5,Villa,156,1971,
+Ringstedvej 122 4173 Fjenneslev,122,136297.0,07-11-2008,Fam.,717,6,Villa,190,1902,
+Alstedvej 74 4173 Fjenneslev,74,1397500.0,30-10-2008,Andet,5458,7,Villa,256,1913,
+Brunemark 1A 4173 Fjenneslev,0,1875000.0,03-10-2008,Alm.,14312,5,Stuehus,131,1890,-6 %
+Liljevænget 4 4173 Fjenneslev,4,1300000.0,15-09-2008,Alm.,9285,5,Villa,140,1977,-4 %
+Hejreskovvej 8 4173 Fjenneslev,8,300000.0,15-06-2008,Alm.,1764,4,Villa,170,1900,-75 %
+Alstedvej 90 4173 Fjenneslev,90,1850000.0,04-06-2008,Alm.,20555,3,Stuehus,90,1827,0 %
+Ørnekildevej 12 4173 Fjenneslev,12,3500000.0,26-05-2008,Alm.,28000,8,Stuehus,125,1700,-18 %
+Violvænget 8 4173 Fjenneslev,8,1350000.0,19-05-2008,Alm.,9000,6,Villa,150,1973,-10 %
+Gyrstinge Skovhuse 34 4173 Fjenneslev,34,2250000.0,10-05-2008,Alm.,8333,7,Villa,270,1902,
+Mosekærsvej 1B 4173 Fjenneslev,0,1750000.0,29-04-2008,Alm.,13461,3,Stuehus,130,1912,
+Kløvervænget 13 4173 Fjenneslev,13,876881.0,19-04-2008,Alm.,7625,5,Villa,115,1973,-48 %
+Havrevænget 33 4173 Fjenneslev,33,800000.0,09-04-2008,Alm.,9195,4,Villa,87,1971,-5 %
+Ørnekildevej 24 4173 Fjenneslev,24,2925000.0,24-03-2008,Alm.,21992,4,Stuehus,133,1900,-2 %
+Stokholtsvej 29 4173 Fjenneslev,29,1155000.0,24-03-2008,Alm.,8309,4,Stuehus,139,1927,
+Ørslevvestervej 71 4173 Fjenneslev,71,1100000.0,10-03-2008,Alm.,11458,3,Villa,96,1900,
+Engen 1 4173 Fjenneslev,1,1000000.0,26-02-2008,Alm.,6802,4,Villa,147,2016,-8 %
+Sorøvej 189 4173 Fjenneslev,189,1825000.0,15-02-2008,Alm.,15082,4,Villa,121,1920,-2 %
+Hylstrupvej 43 4173 Fjenneslev,43,1425000.0,07-02-2008,Alm.,8906,4,Stuehus,160,1857,0 %
+Skelbækvej 5 4173 Fjenneslev,5,1047500.0,31-01-2008,Alm.,5513,6,Villa,190,1947,
+Ringstedvej 137 4173 Fjenneslev,137,2715000.0,25-01-2008,Alm.,20413,4,Stuehus,133,1937,
+Ringstedvej 171 4173 Fjenneslev,171,320000.0,16-01-2008,Alm.,4637,3,Villa,69,1852,
+Ringstedvej 154 4173 Fjenneslev,154,1400000.0,08-01-2008,Alm.,10000,5,Villa,140,1875,0 %
+Alstedvej 79 4173 Fjenneslev,79,2095000.0,31-12-2007,Alm.,8802,9,Villa,238,1824,
+Frøsmosevej 9 4173 Fjenneslev,9,300620.0,15-12-2007,Alm.,1398,4,Stuehus,215,1925,-93 %
+Brunemark 11 4173 Fjenneslev,11,4500000.0,12-12-2007,Alm.,18750,7,Stuehus,240,1870,0 %
+Hylstrupvej 11 4173 Fjenneslev,11,2050000.0,04-12-2007,Alm.,7321,7,Villa,280,1806,-14 %
+Ørslevvestervej 73 4173 Fjenneslev,73,900000.0,01-12-2007,Alm.,4433,6,Villa,203,1897,
+Pilegårdsvej 4 4173 Fjenneslev,4,1230000.0,08-10-2007,Alm.,12300,4,Villa,100,1933,
+Kløvervænget 6 4173 Fjenneslev,6,1700000.0,05-10-2007,Alm.,10000,5,Villa,170,1974,-5 %
+Skælskørvej 58 4173 Fjenneslev,58,1595000.0,13-09-2007,Alm.,10031,7,Villa,159,1877,
+Ringstedvej 70 4173 Fjenneslev,70,888000.0,06-09-2007,Alm.,4748,6,Villa,187,1929,
+Thyrasvej 58 4173 Fjenneslev,58,1050000.0,23-08-2007,Alm.,16153,2,Rækkehus,65,1991,-7 %
+Thyrasvej 60 4173 Fjenneslev,60,1050000.0,03-08-2007,Alm.,16153,2,Rækkehus,65,1991,-4 %
+Alstedvej 24 4173 Fjenneslev,24,800000.0,08-07-2007,Alm.,8988,4,Villa,89,1880,
+Grønagervej 14 4173 Fjenneslev,14,1455000.0,05-06-2007,Alm.,14550,4,Villa,100,1970,
+Hylstrupvej 41 4173 Fjenneslev,41,3350000.0,11-05-2007,Alm.,0,6,Stuehus,204,1915,
+Kærvej 10 4173 Fjenneslev,10,995000.0,11-05-2007,Alm.,9950,4,Villa,100,1963,0 %
+Tornmarksvej 13 4173 Fjenneslev,13,2395000.0,11-05-2007,Alm.,16182,4,Stuehus,148,1847,
+Thyrasvej 24 4173 Fjenneslev,24,1950000.0,08-05-2007,Alm.,14444,6,Villa,135,1977,0 %
+Bakkegårdsvej 2 4173 Fjenneslev,2,1320000.0,04-05-2007,Alm.,10909,4,Villa,121,1887,
+Sorøvej 162 4173 Fjenneslev,162,1775000.0,27-04-2007,Alm.,19086,4,Villa,93,1908,
+Hjortholmvej 3 4173 Fjenneslev,3,980000.0,25-04-2007,Alm.,15312,2,Villa,64,1900,
+Stokholtsvej 48 4173 Fjenneslev,48,3795000.0,24-04-2007,Alm.,17094,10,Villa,222,1999,0 %
+Ringstedvej 144 4173 Fjenneslev,144,1525000.0,19-04-2007,Alm.,13034,3,Villa,117,1965,-3 %
+Alstedvej 65 4173 Fjenneslev,65,1495000.0,09-04-2007,Alm.,10310,5,Villa,145,1900,
+Rugtoften 5 4173 Fjenneslev,5,2095000.0,04-04-2007,Alm.,15871,4,Villa,132,1967,
+Smedemarksvej 3 4173 Fjenneslev,3,1390000.0,04-04-2007,Alm.,13238,3,Villa,105,1951,
+Rosenvænget 4 4173 Fjenneslev,4,1560000.0,29-03-2007,Alm.,13684,3,Villa,114,1967,-2 %
+Ringstedvej 229 4173 Fjenneslev,229,1700000.0,24-02-2007,Alm.,13178,4,Villa,129,1950,-4 %
+Dagmarsvej 6 4173 Fjenneslev,6,2250000.0,21-02-2007,Alm.,14802,4,Villa,152,2006,
+Liljevænget 6 4173 Fjenneslev,6,1455000.0,20-02-2007,Alm.,12652,4,Villa,115,1967,
+Stokholtsvej 35 4173 Fjenneslev,35,2115000.0,15-02-2007,Fam.,8886,6,Stuehus,238,2013,
+Bygagervej 4 4173 Fjenneslev,4,1260000.0,05-02-2007,Alm.,12600,4,Villa,100,1934,
+Hejreskovvej 20 4173 Fjenneslev,20,1295000.0,15-01-2007,Alm.,9055,4,Villa,143,1970,
+Egerupvej 87 4173 Fjenneslev,87,1994387.0,19-12-2006,Fam.,6291,9,Stuehus,317,1856,
+Valborgvej 4 4173 Fjenneslev,4,3650000.0,15-12-2006,Alm.,16590,6,Villa,220,1987,
+Alstedvej 76 4173 Fjenneslev,76,11700000.0,23-11-2006,Alm.,61904,5,Stuehus,189,1976,
+Irisvænget 3 4173 Fjenneslev,3,1300000.0,31-10-2006,Alm.,9774,4,Villa,133,1976,
+Smedemarksvej 4 4173 Fjenneslev,4,1200000.0,24-10-2006,Alm.,13333,3,Villa,90,1951,
+Yrsavej 3 4173 Fjenneslev,3,1850000.0,05-10-2006,Alm.,14566,3,Villa,127,1973,
+Kløvervænget 17 4173 Fjenneslev,17,1650000.0,11-09-2006,Alm.,11379,5,Villa,145,1974,
+Brohusevej 9 4173 Fjenneslev,9,3855000.0,06-09-2006,Fam.,18533,7,Stuehus,208,1929,
+Høvestensvej 28 4173 Fjenneslev,28,930000.0,05-09-2006,Fam.,4043,7,Villa,230,1917,
+Hylstrupvej 22 4173 Fjenneslev,22,15500000.0,09-08-2006,Alm.,72429,8,Stuehus,214,1914,
+Alstedvej 7 4173 Fjenneslev,7,895000.0,31-07-2006,Alm.,0,4,Villa,203,1900,
+Stokholtsvej 27 4173 Fjenneslev,27,1275000.0,10-07-2006,Fam.,8279,5,Stuehus,154,1850,
+Yrsavej 8 4173 Fjenneslev,8,1845000.0,29-06-2006,Alm.,10482,7,Villa,176,1974,
+Ringstedvej 170 4173 Fjenneslev,170,1300000.0,12-06-2006,Alm.,12149,3,Villa,107,1802,
+Egerupvej 129 4173 Fjenneslev,129,1450000.0,06-06-2006,Alm.,9666,4,Villa,150,1877,
+Alstedvej 85 4173 Fjenneslev,85,2585000.0,08-05-2006,Alm.,9791,7,Villa,264,1877,
+Liljevænget 12 4173 Fjenneslev,12,1383000.0,22-04-2006,Alm.,8135,7,Villa,170,1968,
+Stokholtsvej 52 4173 Fjenneslev,52,990000.0,07-04-2006,Fam.,4691,9,Villa,211,1890,
+Bakkegårdsvej 20 4173 Fjenneslev,20,1485000.0,04-04-2006,Alm.,13878,5,Villa,107,1950,
+Liljevænget 1 4173 Fjenneslev,1,1817000.0,27-03-2006,Alm.,9176,6,Villa,198,1975,
+Fjenneslevmaglevej 16 4173 Fjenneslev,16,1265000.0,24-03-2006,Alm.,9440,5,Villa,134,1959,
+Langtoftevej 6 4173 Fjenneslev,6,1450000.0,01-03-2006,Fam.,4617,9,Stuehus,314,1956,
+Rosenvænget 9 4173 Fjenneslev,9,1465000.0,20-02-2006,Alm.,13820,4,Villa,106,1967,
+Rosenvænget 11 4173 Fjenneslev,11,1700000.0,20-02-2006,Alm.,11038,5,Villa,154,1952,
+Havrevænget 8 4173 Fjenneslev,8,1275000.0,16-02-2006,Alm.,12500,3,Villa,102,1930,
+Dagmarsvej 4 4173 Fjenneslev,4,350000.0,15-02-2006,Alm.,2147,4,Villa,163,2006,
+Ørnekildevej 34 4173 Fjenneslev,34,1995000.0,14-02-2006,Alm.,17500,4,Villa,114,1890,
+Dagmarsvej 10 4173 Fjenneslev,10,350000.0,29-01-2006,Alm.,1923,5,Villa,182,2008,
+Hejreskovvej 15 4173 Fjenneslev,15,4000000.0,12-01-2006,Alm.,16000,9,Stuehus,250,1850,
+Dagmarsvej 2 4173 Fjenneslev,2,360000.0,23-12-2005,Alm.,2195,2,Villa,164,2007,
+Dagmarsvej 14 4173 Fjenneslev,14,375000.0,18-12-2005,Alm.,2314,6,Villa,162,2007,
+Alstedvej 13 4173 Fjenneslev,13,1695000.0,15-12-2005,Alm.,11300,5,Villa,150,1878,
+Dagmarsvej 8 4173 Fjenneslev,8,350000.0,11-12-2005,Alm.,2447,4,Villa,143,2007,
+Dagmarsvej 12 4173 Fjenneslev,12,375000.0,21-11-2005,Alm.,2130,4,Villa,176,2006,
+Sorøvej 172 4173 Fjenneslev,172,1400000.0,14-11-2005,Alm.,18666,3,Villa,75,1845,
+Dagmarsvej 16 4173 Fjenneslev,16,375000.0,10-10-2005,Alm.,2373,6,Villa,158,2009,
+Alstedvej 91 4173 Fjenneslev,91,850000.0,30-09-2005,Alm.,0,5,Villa,113,1905,
+Egerupvej 101 4173 Fjenneslev,101,1432665.0,07-09-2005,Alm.,10160,5,Villa,141,1965,
+Harpeager 3 4173 Fjenneslev,3,595000.0,02-09-2005,Alm.,2860,6,Villa,208,2007,
+Dagmarsvej 18 4173 Fjenneslev,18,380000.0,26-08-2005,Alm.,2714,5,Villa,140,2006,
+Alstedvej 33 4173 Fjenneslev,33,775000.0,15-08-2005,Alm.,13362,2,Villa,58,1968,
+Dagmarsvej 20 4173 Fjenneslev,20,390000.0,08-08-2005,Alm.,1839,6,Villa,212,2007,
+Egerupvej 68 4173 Fjenneslev,68,1295000.0,03-08-2005,Alm.,10882,4,Villa,119,1920,
+Liljevænget 9 4173 Fjenneslev,9,1495000.0,26-07-2005,Alm.,13590,3,Villa,110,1968,
+Ringstedvej 235 4173 Fjenneslev,235,1350000.0,21-07-2005,Alm.,10384,6,Stuehus,130,1880,
+Kildeagervej 3B 4173 Fjenneslev,0,2335000.0,18-07-2005,Alm.,11446,5,Villa,204,1984,
+Hejreskovvej 16 4173 Fjenneslev,16,1198000.0,08-07-2005,Alm.,9584,4,Villa,125,1969,
+Ringstedvej 169 4173 Fjenneslev,169,1075000.0,12-06-2005,Alm.,10969,2,Villa,98,1877,
+Alstedvej 59 4173 Fjenneslev,59,865000.0,03-06-2005,Alm.,0,3,Villa,110,1962,
+Hjortholmvej 29 4173 Fjenneslev,29,769790.0,23-05-2005,Alm.,7546,3,Villa,102,1920,
+Grønagervej 11 4173 Fjenneslev,11,1150000.0,11-05-2005,Alm.,8273,5,Villa,139,1969,
+Skelbækvej 1 4173 Fjenneslev,1,1650000.0,11-05-2005,Alm.,6762,9,Villa,244,1910,
+Stokholtsvej 34 4173 Fjenneslev,34,501024.0,09-05-2005,Andet,0,4,Villa,226,1777,
+Alstedvej 66C 4173 Fjenneslev,0,335000.0,29-04-2005,Alm.,1970,5,Villa,170,2005,
+Alstedvej 47 4173 Fjenneslev,47,375000.0,26-03-2005,Alm.,1903,3,Villa,197,2007,
+Bakkegårdsvej 22B 4173 Fjenneslev,0,1195000.0,23-03-2005,Alm.,7660,4,Villa,156,1947,
+Gulagervej 1 4173 Fjenneslev,1,2180000.0,26-02-2005,Alm.,6282,6,Stuehus,347,1937,
+Liljevænget 5 4173 Fjenneslev,5,1304000.0,26-02-2005,Alm.,12784,3,Villa,102,1968,
+Havrevænget 29 4173 Fjenneslev,29,1495000.0,23-02-2005,Alm.,10678,4,Villa,140,2005,
+Kløvervænget 38 4173 Fjenneslev,38,1450000.0,14-02-2005,Alm.,10902,3,Villa,133,1974,
+Rugtoften 4 4173 Fjenneslev,4,1235000.0,11-02-2005,Alm.,8071,4,Villa,153,1965,
+Hjortholmvej 27 4173 Fjenneslev,27,1560643.0,02-02-2005,Alm.,12485,4,Villa,125,1887,
+Ringstedvej 152 4173 Fjenneslev,152,1100000.0,18-01-2005,Alm.,8661,5,Villa,127,1932,
+Havrevænget 11 4173 Fjenneslev,11,1755000.0,07-01-2005,Alm.,5014,12,Villa,350,1900,
+Thyrasvej 52 4173 Fjenneslev,52,695570.0,30-12-2004,Fam.,5434,4,Villa,128,2002,
+Kløvervænget 8 4173 Fjenneslev,8,1285000.0,15-12-2004,Alm.,7883,4,Villa,163,1977,
+Bakkegårdsvej 16B 4173 Fjenneslev,0,1250000.0,06-12-2004,Alm.,10245,4,Villa,122,1984,
+Ringstedvej 209 4173 Fjenneslev,209,1145000.0,03-12-2004,Alm.,10504,4,Villa,109,1945,
+Egerupvej 125 4173 Fjenneslev,125,865000.0,29-11-2004,Alm.,7330,6,Villa,118,1922,
+Egerupvej 80 4173 Fjenneslev,80,725000.0,11-11-2004,Alm.,7323,2,Villa,99,1900,
+Kildeagervej 14 4173 Fjenneslev,14,550000.0,01-11-2004,Alm.,6547,3,Villa,84,1897,
+Slaglillevej 9 4173 Fjenneslev,9,4567500.0,01-09-2004,Alm.,18873,7,Stuehus,242,1891,
+Kildeagervej 12 4173 Fjenneslev,12,29000.0,12-08-2004,Auktion,162,8,Villa,178,1877,
+Gartnervænget 4 4173 Fjenneslev,4,469092.0,05-08-2004,Andet,0,4,Villa,172,1970,
+Engen 2 4173 Fjenneslev,2,1307347.0,04-08-2004,Alm.,9206,5,Villa,142,1932,
+Harpeager 7 4173 Fjenneslev,7,400000.0,01-07-2004,Alm.,0,6,Villa,175,2006,
+Høvestensvej 25 4173 Fjenneslev,25,1114405.0,24-06-2004,Alm.,2864,11,Villa,389,1860,
+Ringstedvej 151 4173 Fjenneslev,151,1031059.0,13-06-2004,Alm.,6873,5,Villa,150,1948,
+Egerupvej 133B 4173 Fjenneslev,0,250000.0,02-06-2004,Alm.,1136,6,Villa,220,2006,
+Skælskørvej 1 4173 Fjenneslev,1,945000.0,27-05-2004,Alm.,7213,5,Villa,131,1968,
+Stokholtsvej 24 4173 Fjenneslev,24,850000.0,21-05-2004,Alm.,7456,4,Villa,114,1877,
+Harpeager 2 4173 Fjenneslev,2,300000.0,12-05-2004,Alm.,1948,6,Villa,154,2006,
+Høvestensvej 6 4173 Fjenneslev,6,1700000.0,29-04-2004,Alm.,11805,4,Stuehus,144,1900,
+Thyrasvej 17 4173 Fjenneslev,17,1490000.0,25-04-2004,Alm.,7967,7,Villa,187,1977,
+Ringstedvej 192 4173 Fjenneslev,192,3400000.0,20-04-2004,Fam.,16346,8,Stuehus,208,1908,
+Hylstrupvej 16 4173 Fjenneslev,16,520000.0,06-04-2004,Alm.,2921,4,Villa,178,1850,
+Engen 4 4173 Fjenneslev,4,521019.0,01-04-2004,Fam.,2579,3,Villa,202,1972,
+Rosenvænget 6 4173 Fjenneslev,6,950000.0,24-03-2004,Alm.,6884,4,Villa,138,1966,
+Brohusevej 3 4173 Fjenneslev,3,590818.0,15-03-2004,Alm.,2637,5,Villa,224,1856,
+Ringstedvej 183 4173 Fjenneslev,183,980000.0,15-03-2004,Alm.,6490,5,Villa,151,1906,
+Hjortholmvej 21 4173 Fjenneslev,21,1515000.0,03-03-2004,Alm.,0,3,Villa,153,1937,
+Harpeager 9 4173 Fjenneslev,9,400000.0,18-02-2004,Alm.,1793,8,Villa,223,2006,
+Harpeager 1 4173 Fjenneslev,1,400000.0,13-02-2004,Alm.,1951,4,Villa,205,2010,
+Sorøvej 144 4173 Fjenneslev,144,891000.0,09-02-2004,Alm.,7071,4,Villa,126,1931,
+Havrevænget 37 4173 Fjenneslev,37,1090000.0,04-02-2004,Alm.,7465,4,Villa,146,1975,
+Mosegårdsvej 2 4173 Fjenneslev,2,765000.0,02-02-2004,Alm.,8693,2,Villa,88,1877,
+Ringstedvej 243 4173 Fjenneslev,243,934000.0,26-01-2004,Alm.,5367,5,Villa,174,1908,
+Kærvej 2 4173 Fjenneslev,2,600000.0,26-01-2004,Andet,4477,5,Villa,134,1908,
+Havrevænget 15 4173 Fjenneslev,15,412500.0,26-01-2004,Fam.,3101,3,Villa,133,1963,
+Harpeager 6 4173 Fjenneslev,6,300000.0,25-11-2003,Alm.,1595,5,Villa,188,2004,
+Brunemark 9 4173 Fjenneslev,9,1565000.0,02-10-2003,Alm.,10574,3,Stuehus,148,1858,
+Ørnekildevej 35 4173 Fjenneslev,35,600000.0,29-08-2003,Alm.,3015,5,Villa,199,1870,
+Liljevænget 8 4173 Fjenneslev,8,925000.0,20-08-2003,Alm.,7773,3,Villa,119,1969,
+Brohusevej 4 4173 Fjenneslev,4,374761.0,16-08-2003,Fam.,6692,3,Stuehus,56,1930,
+Alstedvej 77 4173 Fjenneslev,77,2525000.0,24-07-2003,Alm.,10348,7,Stuehus,244,1912,
+Kløvervænget 42 4173 Fjenneslev,42,980000.0,21-07-2003,Alm.,8032,4,Villa,122,1976,
+Fjenneslevmaglevej 5 4173 Fjenneslev,5,1050000.0,21-07-2003,Alm.,7094,5,Villa,148,1977,
+Stokholtsvej 20 4173 Fjenneslev,20,1075000.0,20-07-2003,Alm.,6142,5,Villa,175,1777,
+Brunemark 4 4173 Fjenneslev,4,725000.0,24-06-2003,Alm.,7631,4,Villa,95,1850,
+Gyrstinge Skovhuse 27 4173 Fjenneslev,27,1475000.0,30-05-2003,Alm.,10925,4,Stuehus,135,1877,
+Bakkegårdsvej 18 4173 Fjenneslev,18,1035000.0,05-04-2003,Alm.,6349,6,Villa,163,1961,
+Ringstedvej 72 4173 Fjenneslev,72,905000.0,21-03-2003,Alm.,7735,6,Stuehus,117,1954,
+Kløvervænget 22 4173 Fjenneslev,22,1290000.0,14-03-2003,Alm.,9280,4,Villa,139,1974,
+Alstedvej 92 4173 Fjenneslev,92,1725000.0,04-02-2003,Alm.,9274,5,Villa,186,1850,
+Bygagervej 9 4173 Fjenneslev,9,825000.0,28-01-2003,Alm.,7366,4,Villa,112,1959,
+Egekærsvej 3 4173 Fjenneslev,3,840000.0,10-12-2002,Alm.,6412,6,Villa,131,1912,
+Hejreskovvej 24 4173 Fjenneslev,24,1198580.0,19-10-2002,Alm.,7634,5,Villa,157,1978,
+Havrevænget 27 4173 Fjenneslev,27,1095000.0,18-10-2002,Alm.,8358,4,Villa,131,1973,
+Hejreskovvej 34 4173 Fjenneslev,34,1225000.0,30-09-2002,Alm.,11238,4,Stuehus,109,1907,
+Egerupvej 127 4173 Fjenneslev,127,773000.0,26-09-2002,Alm.,7432,5,Villa,104,1900,
+Høvestensvej 12 4173 Fjenneslev,12,1263820.0,12-09-2002,Alm.,8776,4,Villa,144,1900,
+Bakkegårdsvej 15 4173 Fjenneslev,15,1625000.0,30-08-2002,Auktion,4879,9,Villa,333,1977,
+Bakkegårdsvej 5 4173 Fjenneslev,5,1086000.0,22-08-2002,Alm.,8688,5,Villa,125,1976,
+Havrevænget 1 4173 Fjenneslev,1,895000.0,01-08-2002,Alm.,3173,8,Villa,282,1930,
+Langevej 2 4173 Fjenneslev,2,556500.0,29-07-2002,Fam.,1836,7,Stuehus,303,1877,
+Kildeagervej 20 4173 Fjenneslev,20,475000.0,22-07-2002,Alm.,2209,4,Stuehus,215,1852,
+Stokholtsvej 50 4173 Fjenneslev,50,316128.0,09-07-2002,Alm.,1988,7,Villa,159,1903,
+Ringstedvej 148 4173 Fjenneslev,148,1250000.0,17-05-2002,Alm.,5319,9,Villa,235,1946,
+Kildeagervej 4 4173 Fjenneslev,4,1223500.0,18-03-2002,Alm.,8555,4,Villa,143,1980,
+Langtoftevej 5 4173 Fjenneslev,5,594466.0,18-03-2002,Alm.,6993,3,Villa,85,1827,
+Hejreskovvej 13 4173 Fjenneslev,13,327250.0,27-02-2002,Fam.,2576,6,Villa,127,1827,
+Thyrasvej 8 4173 Fjenneslev,8,1280000.0,25-02-2002,Alm.,8767,4,Villa,146,1978,
+Ringstedvej 168 4173 Fjenneslev,168,1058000.0,22-02-2002,Alm.,7398,5,Villa,143,1894,
+Sorøvej 192 4173 Fjenneslev,192,1170000.0,13-02-2002,Alm.,7647,6,Stuehus,153,1902,
+Tornmarksvej 19 4173 Fjenneslev,19,1395564.0,29-01-2002,Alm.,7929,7,Villa,176,1912,
+Gartnervænget 11 4173 Fjenneslev,11,877054.0,03-01-2002,Alm.,6905,4,Villa,127,1910,
+Hylstrupvej 6 4173 Fjenneslev,6,530000.0,06-12-2001,Fam.,0,4,Stuehus,136,1827,
+Mosestien 2 4173 Fjenneslev,2,905073.0,02-11-2001,Alm.,8227,5,Villa,110,1907,
+Alstedvej 75 4173 Fjenneslev,75,934350.0,19-10-2001,Alm.,9160,4,Stuehus,102,1911,
+Signesvej 1 4173 Fjenneslev,1,412500.0,12-10-2001,Andet,2884,4,Villa,143,1904,
+Kærvej 5 4173 Fjenneslev,5,1125000.0,10-10-2001,Alm.,8858,4,Villa,127,1965,
+Langtoftevej 8 4173 Fjenneslev,8,275000.0,02-10-2001,Alm.,2412,3,Villa,114,2003,
+Alstedvej 5 4173 Fjenneslev,5,680091.0,24-09-2001,Alm.,8001,3,Villa,85,1878,
+Bakkegårdsvej 26 4173 Fjenneslev,26,324287.0,19-09-2001,Fam.,0,9,Villa,221,1945,
+Kærvej 14 4173 Fjenneslev,14,879424.0,06-09-2001,Alm.,5710,5,Villa,154,1968,
+Sasserbrovej 22 4173 Fjenneslev,22,2350000.0,20-08-2001,Alm.,0,6,Stuehus,170,1892,
+Bakkegårdsvej 22 4173 Fjenneslev,22,1085000.0,17-08-2001,Alm.,7233,5,Villa,150,1976,
+Stokholtsvej 68 4173 Fjenneslev,68,1595000.0,17-07-2001,Alm.,13073,5,Stuehus,122,1850,
+Langevej 1 4173 Fjenneslev,1,846000.0,17-07-2001,Alm.,10071,3,Villa,84,1827,
+Egerupvej 76 4173 Fjenneslev,76,1289000.0,16-07-2001,Alm.,15530,3,Villa,83,1925,
+Bakkegårdsvej 11 4173 Fjenneslev,11,1095000.0,28-06-2001,Alm.,7711,5,Villa,142,1973,
+Gulagervej 13 4173 Fjenneslev,13,1313987.0,27-06-2001,Alm.,0,6,Stuehus,157,1920,
+Yrsavej 2 4173 Fjenneslev,2,1025000.0,14-04-2001,Alm.,6137,4,Villa,167,1973,
+Frøsmosevej 5 4173 Fjenneslev,5,750000.0,10-04-2001,Alm.,4411,3,Villa,170,1877,
+Pilegårdsvej 16 4173 Fjenneslev,16,975032.0,06-04-2001,Alm.,10484,4,Villa,93,1960,
+Stokholtsvej 15 4173 Fjenneslev,15,460000.0,05-04-2001,Alm.,4600,3,Villa,100,1827,
+Havrevænget 31 4173 Fjenneslev,31,910000.0,04-04-2001,Alm.,7520,4,Villa,121,1974,
+Mosegårdsvej 8 4173 Fjenneslev,8,290000.0,12-03-2001,Fam.,4027,2,Villa,72,1877,
+Hjortholmvej 5 4173 Fjenneslev,5,629280.0,12-02-2001,Alm.,6555,3,Villa,96,1877,
+Bakkegårdsvej 14 4173 Fjenneslev,14,1020000.0,05-02-2001,Alm.,7555,3,Villa,135,1962,
+Ringstedvej 237 4173 Fjenneslev,237,2255774.0,17-01-2001,Alm.,15139,6,Stuehus,149,1900,
+Knabstrupvej 2 4173 Fjenneslev,2,778560.0,15-01-2001,Alm.,14155,2,Stuehus,55,1777,
+Thyrasvej 16 4173 Fjenneslev,16,970000.0,11-01-2001,Alm.,7238,5,Villa,134,1980,
+Sasserbrovej 18 4173 Fjenneslev,18,2800000.0,31-12-2000,Alm.,15909,5,Stuehus,176,2015,
+Ringstedvej 136 4173 Fjenneslev,136,682900.0,18-12-2000,Alm.,5253,4,Villa,130,1887,
+Kærvej 3 4173 Fjenneslev,3,265000.0,08-11-2000,Fam.,2304,4,Villa,115,1900,
+Thyrasvej 48 4173 Fjenneslev,48,100000.0,31-10-2000,Alm.,787,4,Villa,127,2001,
+Kildeagervej 5 4173 Fjenneslev,5,738082.0,23-10-2000,Alm.,7769,4,Villa,95,1961,
+Langtoftevej 1 4173 Fjenneslev,1,795000.0,14-09-2000,Alm.,6022,5,Villa,132,1900,
+Brunemark 3 4173 Fjenneslev,3,756160.0,26-06-2000,Alm.,0,2,Stuehus,193,1860,
+Liljevænget 11 4173 Fjenneslev,11,856772.0,24-05-2000,Alm.,7139,4,Villa,120,1968,
+Kløvervænget 15 4173 Fjenneslev,15,676000.0,20-05-2000,Alm.,0,4,Villa,119,1974,
+Brohusevej 5 4173 Fjenneslev,5,795000.0,06-05-2000,Alm.,7871,4,Stuehus,101,1880,
+Slaglillevej 4 4173 Fjenneslev,4,645506.0,28-04-2000,Alm.,6794,3,Villa,95,1908,
+Fjenneslevmaglevej 38 4173 Fjenneslev,38,1063000.0,26-04-2000,Alm.,8370,5,Villa,127,1877,
+Egerupvej 66 4173 Fjenneslev,66,1418740.0,10-03-2000,Alm.,6887,5,Villa,206,1963,
+Thyrasvej 10 4173 Fjenneslev,10,1288000.0,26-02-2000,Alm.,7901,5,Villa,163,1977,
+Sorøvej 179 4173 Fjenneslev,179,684700.0,15-02-2000,Alm.,0,4,Villa,120,1914,
+Kløvervænget 32 4173 Fjenneslev,32,925300.0,04-02-2000,Alm.,7710,3,Villa,120,1975,
+Stokholtsvej 19 4173 Fjenneslev,19,971920.0,21-01-2000,Alm.,5253,6,Stuehus,185,1840,
+Ringstedvej 172 4173 Fjenneslev,172,913160.0,18-01-2000,Alm.,6385,4,Villa,143,1877,
+Bakkegårdsvej 24 4173 Fjenneslev,24,304166.0,18-01-2000,Fam.,3135,2,Villa,97,1950,
+Fjenneslevmaglevej 21 4173 Fjenneslev,21,853660.0,02-12-1999,Alm.,6370,5,Villa,134,1963,
+Bakkegårdsvej 1 4173 Fjenneslev,1,135000.0,18-11-1999,Alm.,668,6,Villa,202,2001,
+Gulagervej 4 4173 Fjenneslev,4,908681.0,26-10-1999,Alm.,7509,4,Villa,121,1922,
+Ringstedvej 102 4173 Fjenneslev,102,276700.0,18-10-1999,Alm.,0,3,Villa,91,1777,
+Bygagervej 2 4173 Fjenneslev,2,1200978.0,28-08-1999,Alm.,9238,6,Villa,130,1935,
+Sorøvej 181 4173 Fjenneslev,181,833840.0,19-08-1999,Alm.,6131,3,Villa,136,1915,
+Ringstedvej 68 4173 Fjenneslev,68,850000.0,29-07-1999,Fam.,3917,4,Rækkehus,217,1883,
+Tornmarksvej 14 4173 Fjenneslev,14,1189540.0,17-07-1999,Alm.,6645,5,Villa,179,1959,
+Alstedvej 56 4173 Fjenneslev,56,594617.0,28-06-1999,Alm.,4539,5,Villa,131,1965,
+Tornmarksvej 12 4173 Fjenneslev,12,765000.0,15-06-1999,Alm.,7285,3,Villa,105,1958,
+Rugtoften 8 4173 Fjenneslev,8,922000.0,10-06-1999,Alm.,8087,4,Villa,114,1978,
+Slaglillevej 8 4173 Fjenneslev,8,931267.0,07-06-1999,Alm.,4157,8,Villa,224,1877,
+Sasserbrovej 26 4173 Fjenneslev,26,91000.0,02-05-1999,Alm.,500,6,Villa,182,2000,
+Gulagervej 9 4173 Fjenneslev,9,2353455.0,20-03-1999,Alm.,0,5,Stuehus,215,1922,
+Engelsborgvej 15 4173 Fjenneslev,15,516000.0,26-01-1999,Alm.,0,5,Villa,161,1877,
+Munkebrovej 20 4173 Fjenneslev,20,604000.0,19-01-1999,Alm.,0,7,Villa,261,1900,
+Egerupvej 107 4173 Fjenneslev,107,824260.0,11-01-1999,Alm.,0,4,Villa,174,1930,
+Sasserbrovej 7 4173 Fjenneslev,7,509735.0,22-12-1998,Alm.,6707,3,Villa,76,1827,
+Alstedvej 53 4173 Fjenneslev,53,555383.0,21-12-1998,Alm.,2657,5,Villa,209,1878,
+Hylstrupvej 18 4173 Fjenneslev,18,690046.0,12-12-1998,Andet,3920,4,Villa,176,1780,
+Slaglillevej 10 4173 Fjenneslev,10,160000.0,09-12-1998,Alm.,6400,1,Sommerhus,25,1962,
+Hjortholmvej 9 4173 Fjenneslev,9,446812.0,03-12-1998,Alm.,1718,5,Stuehus,260,1968,
+Tornmarksvej 11 4173 Fjenneslev,11,780200.0,27-11-1998,Alm.,5271,4,Villa,148,1870,
+Alstedvej 27 4173 Fjenneslev,27,1217159.0,28-10-1998,Alm.,5879,6,Villa,207,1931,
+Ringstedvej 92 4173 Fjenneslev,92,2813000.0,09-10-1998,Fam.,12671,7,Stuehus,222,1858,
+Knabstrupvej 1 4173 Fjenneslev,1,1050000.0,01-10-1998,Alm.,0,6,Villa,220,1973,
+Violvænget 4 4173 Fjenneslev,4,939552.0,27-09-1998,Alm.,0,6,Villa,179,1972,
+Pilegårdsvej 2 4173 Fjenneslev,2,310000.0,17-09-1998,Alm.,3690,3,Villa,84,1952,
+Hejreskovvej 4 4173 Fjenneslev,4,645000.0,07-08-1998,Alm.,5863,5,Villa,110,1925,
+Havrevænget 38 4173 Fjenneslev,38,680000.0,02-07-1998,Alm.,4358,5,Villa,156,1973,
+Skælskørvej 16 4173 Fjenneslev,16,390000.0,29-06-1998,Alm.,0,4,Villa,141,1916,
+Yrsavej 6 4173 Fjenneslev,6,1102000.0,15-06-1998,Alm.,5989,7,Villa,184,1974,
+Alstedvej 10 4173 Fjenneslev,10,656306.0,29-05-1998,Alm.,6133,4,Villa,107,1962,
+Munkebrovej 11 4173 Fjenneslev,11,796000.0,05-05-1998,Alm.,0,6,Villa,239,1922,
+Hylstrupvej 19 4173 Fjenneslev,19,470000.0,03-05-1998,Alm.,4895,5,Villa,96,1900,
+Signesvej 4 4173 Fjenneslev,4,670811.0,28-04-1998,Alm.,4384,5,Villa,153,1900,
+Ørnekildevej 7 4173 Fjenneslev,7,1966142.0,20-04-1998,Alm.,0,6,Stuehus,310,1776,
+Fjenneslevmaglevej 39 4173 Fjenneslev,39,2030000.0,18-04-1998,Alm.,19708,4,Stuehus,103,1907,
+Ørnekildevej 39 4173 Fjenneslev,39,601000.0,03-04-1998,Alm.,0,6,Villa,136,1937,
+Yrsavej 12 4173 Fjenneslev,12,1121380.0,03-04-1998,Alm.,7426,4,Villa,151,1976,
+Ringstedvej 98 4173 Fjenneslev,98,1244000.0,17-03-1998,Alm.,10912,3,Villa,114,1949,
+Brunemark 15 4173 Fjenneslev,15,497000.0,27-01-1998,Alm.,0,2,Stuehus,236,1877,
+Brunemark 13 4173 Fjenneslev,13,675180.0,16-01-1998,Alm.,0,5,Villa,134,1963,
+Egerupvej 105 4173 Fjenneslev,105,1187446.0,05-01-1998,Alm.,7110,6,Villa,167,1989,
+Havrevænget 17 4173 Fjenneslev,17,526000.0,11-12-1997,Alm.,5313,3,Villa,99,1970,
+Gartnervænget 10 4173 Fjenneslev,10,610400.0,21-11-1997,Alm.,8248,4,Villa,74,1777,
+Thyrasvej 44 4173 Fjenneslev,44,200000.0,14-11-1997,Alm.,1398,4,Villa,143,1999,
+Kløvervænget 44 4173 Fjenneslev,44,805300.0,17-09-1997,Alm.,6710,4,Villa,120,1978,
+Hylstrupvej 10 4173 Fjenneslev,10,1173000.0,21-07-1997,Alm.,0,11,Stuehus,183,1877,
+Fjenneslevmaglevej 24 4173 Fjenneslev,24,704190.0,02-07-1997,Alm.,5177,4,Villa,136,1940,
+Gartnervænget 8 4173 Fjenneslev,8,491000.0,23-06-1997,Alm.,5279,4,Villa,93,1967,
+Sorøvej 156 4173 Fjenneslev,156,790400.0,11-06-1997,Alm.,3576,7,Villa,221,1857,
+Yrsavej 1 4173 Fjenneslev,1,867650.0,06-06-1997,Alm.,4615,5,Villa,188,1973,
+Alstedvej 55 4173 Fjenneslev,55,642500.0,05-06-1997,Alm.,4312,5,Villa,149,1858,
+Skelbækvej 9 4173 Fjenneslev,9,484648.0,31-05-1997,Alm.,3589,6,Stuehus,135,1939,
+Violvænget 6 4173 Fjenneslev,6,615000.0,29-04-1997,Alm.,4880,4,Villa,126,1969,
+Munkebrovej 29 4173 Fjenneslev,29,327165.0,08-03-1997,Alm.,5452,4,Villa,60,1850,
+Ringstedvej 187 4173 Fjenneslev,187,1234690.0,07-03-1997,Alm.,10830,4,Stuehus,114,1877,
+Sasserbrovej 39 4173 Fjenneslev,39,937462.0,19-02-1997,Fam.,4782,6,Stuehus,196,1905,
+Alstedvej 62 4173 Fjenneslev,62,95000.0,08-11-1996,Alm.,1172,4,Villa,81,1828,
+Sorøvej 159 4173 Fjenneslev,159,494000.0,24-10-1996,Alm.,4891,4,Villa,101,1959,
+Hvedevænget 5 4173 Fjenneslev,5,701400.0,10-10-1996,Alm.,0,4,Villa,137,1976,
+Gulagervej 5 4173 Fjenneslev,5,200000.0,24-09-1996,Alm.,0,5,Stuehus,132,1924,
+Sorøvej 157 4173 Fjenneslev,157,370000.0,16-09-1996,Alm.,4805,3,Villa,77,1915,
+Engelsborgvej 13 4173 Fjenneslev,13,547930.0,27-08-1996,Alm.,3652,4,Villa,150,1967,
+Fjenneslevmaglevej 17 4173 Fjenneslev,17,1850000.0,22-08-1996,Alm.,14230,5,Stuehus,130,1930,
+Slaglillevej 11 4173 Fjenneslev,11,461000.0,01-07-1996,Alm.,4904,4,Villa,94,1951,
+Tornmarksvej 3 4173 Fjenneslev,3,1701835.0,23-05-1996,Alm.,7735,8,Stuehus,220,1956,
+Mosekærsvej 2 4173 Fjenneslev,2,383000.0,29-03-1996,Fam.,4352,4,Stuehus,88,1877,
+Ringstedvej 100 4173 Fjenneslev,100,695000.0,21-03-1996,Alm.,4964,4,Villa,140,1950,
+Hylstrupvej 12 4173 Fjenneslev,12,700000.0,12-03-1996,Alm.,0,6,Stuehus,133,1850,
+Gulagervej 6 4173 Fjenneslev,6,672640.0,30-01-1996,Alm.,0,7,Stuehus,205,1922,
+Brohusevej 7 4173 Fjenneslev,7,455100.0,10-01-1996,Alm.,4790,4,Villa,95,1877,
+Alstedvej 94 4173 Fjenneslev,94,1650000.0,31-12-1995,Alm.,6573,8,Stuehus,251,1900,
+Mosegårdsvej 5 4173 Fjenneslev,5,510000.0,04-12-1995,Alm.,5100,4,Stuehus,100,1877,
+Grønagervej 8 4173 Fjenneslev,8,595000.0,26-10-1995,Alm.,0,5,Villa,152,1969,
+Havebo 8 4173 Fjenneslev,8,333120.0,30-09-1995,Alm.,2069,3,Villa,161,1939,
+Egerupvej 138 4173 Fjenneslev,138,120000.0,18-08-1995,Alm.,0,5,Villa,189,1802,
+Sorøvej 149 4173 Fjenneslev,149,671300.0,13-08-1995,Alm.,0,7,Stuehus,174,1878,
+Mosekærsvej 6 4173 Fjenneslev,6,873455.0,26-07-1995,Alm.,9098,3,Stuehus,96,1930,
+Kærvej 6 4173 Fjenneslev,6,350000.0,13-07-1995,Alm.,0,6,Villa,156,1890,
+Fjenneslevmaglevej 55 4173 Fjenneslev,55,480000.0,28-06-1995,Alm.,0,5,Villa,150,1910,
+Mosestien 3 4173 Fjenneslev,3,240000.0,07-06-1995,Fam.,1363,4,Villa,176,1877,
+Stokholtsvej 66 4173 Fjenneslev,66,1535159.0,15-05-1995,Fam.,8079,8,Stuehus,190,1900,
+Violvænget 12 4173 Fjenneslev,12,585000.0,01-05-1995,Alm.,3000,5,Villa,195,1972,
+Grønagervej 12 4173 Fjenneslev,12,645000.0,23-03-1995,Alm.,5608,4,Villa,115,1982,
+Ringstedvej 138 4173 Fjenneslev,138,347000.0,25-01-1995,Alm.,3614,3,Villa,96,1903,
+Egerupvej 71 4173 Fjenneslev,71,386250.0,16-12-1994,Alm.,3218,3,Villa,120,1877,
+Ringstedvej 247 4173 Fjenneslev,247,395000.0,07-12-1994,Alm.,3798,5,Villa,104,1933,
+Sasserbrovej 14 4173 Fjenneslev,14,494000.0,28-11-1994,Alm.,4116,4,Villa,120,1927,
+Egerupvej 133 4173 Fjenneslev,133,789600.0,13-11-1994,Alm.,3556,9,Villa,222,1930,
+Stokholtsvej 46 4173 Fjenneslev,46,495000.0,07-11-1994,Alm.,4159,4,Villa,119,1932,
+Thyrasvej 62 4173 Fjenneslev,62,360000.0,27-10-1994,Alm.,5538,2,Rækkehus,65,1991,
+Sasserbrovej 1 4173 Fjenneslev,1,113568.0,16-09-1994,Alm.,709,6,Stuehus,160,1924,
+Sasserbrovej 30 4173 Fjenneslev,30,540000.0,04-09-1994,Alm.,3214,7,Villa,168,1930,
+Stokholtsvej 40 4173 Fjenneslev,40,151000.0,08-08-1994,Alm.,1438,2,Sommerhus,105,1864,
+Yrsavej 9 4173 Fjenneslev,9,530000.0,31-07-1994,Alm.,3925,4,Villa,135,1974,
+Thyrasvej 20 4173 Fjenneslev,20,751000.0,02-04-1994,Alm.,4723,4,Villa,159,1977,
+Fjenneslevmaglevej 47 4173 Fjenneslev,47,415750.0,31-03-1994,Alm.,4157,3,Villa,100,1936,
+Thyrasvej 12 4173 Fjenneslev,12,726000.0,18-03-1994,Alm.,3781,5,Villa,192,1979,
+Ringstedvej 118 4173 Fjenneslev,118,200000.0,04-03-1994,Alm.,0,5,Villa,115,1917,
+Mosegårdsvej 4 4173 Fjenneslev,4,789750.0,24-02-1994,Alm.,4729,6,Stuehus,167,1874,
+Grønagervej 3 4173 Fjenneslev,3,520000.0,17-02-1994,Alm.,4160,4,Villa,125,1972,
+Sorøvej 138 4173 Fjenneslev,138,65280.0,15-02-1994,Alm.,510,5,Villa,128,1890,
+Sorøvej 168B 4173 Fjenneslev,0,870000.0,10-12-1993,Andet,0,1,Rækkehus,73,1977,
+Ringstedvej 64 4173 Fjenneslev,64,625000.0,03-12-1993,Alm.,4194,4,Villa,149,1958,
+Slaglillevej 7 4173 Fjenneslev,7,365000.0,21-10-1993,Alm.,4294,3,Villa,85,1897,
+Ringstedvej 203 4173 Fjenneslev,203,400000.0,02-09-1993,Alm.,4000,4,Villa,100,1935,
+Stokholtsvej 25 4173 Fjenneslev,25,392000.0,04-08-1993,Fam.,3629,3,Stuehus,108,1850,
+Gulagervej 12 4173 Fjenneslev,12,436960.0,30-07-1993,Alm.,0,6,Stuehus,150,1932,
+Bakkegårdsvej 32 4173 Fjenneslev,32,640000.0,06-07-1993,Alm.,0,4,Villa,126,1880,
+Skelbækvej 6 4173 Fjenneslev,6,682000.0,28-04-1993,Alm.,4035,6,Villa,169,1924,
+Alstedvej 66A 4173 Fjenneslev,0,91000.0,13-01-1993,Auktion,1516,3,Villa,60,1825,
+Sorøvej 166 4173 Fjenneslev,166,320000.0,22-12-1992,Alm.,0,5,Villa,148,1902,
+Ringstedvej 126 4173 Fjenneslev,126,425000.0,19-11-1992,Alm.,3512,7,Villa,121,1900,
+Egerupvej 111 4173 Fjenneslev,111,2002648.0,15-07-1992,Alm.,11125,6,Stuehus,180,1920,
+Sasserbrovej 16 4173 Fjenneslev,16,825000.0,10-07-1992,Alm.,0,7,Stuehus,205,1870,
+Gartnervænget 6 4173 Fjenneslev,6,510000.0,06-07-1992,Alm.,1795,6,Villa,284,1877,
+Ringstedvej 166 4173 Fjenneslev,166,1453500.0,02-07-1992,Fam.,7986,8,Stuehus,182,1875,
+Skelbækvej 8 4173 Fjenneslev,8,540000.0,24-05-1992,Alm.,5192,3,Villa,104,1949,
+Bakkegårdsvej 7 4173 Fjenneslev,7,320000.0,22-05-1992,Alm.,3018,4,Villa,106,1966,
+Stokholtsvej 28 4173 Fjenneslev,28,680000.0,15-05-1992,Alm.,5666,4,Stuehus,120,1958,
+Ørslevvestervej 80 4173 Fjenneslev,80,600000.0,14-04-1992,Fam.,4724,4,Villa,127,1917,
+Kløvervænget 3 4173 Fjenneslev,3,625000.0,14-02-1992,Alm.,3787,5,Villa,165,1975,
+Alstedvej 34 4173 Fjenneslev,34,165417.0,17-01-1992,Alm.,0,12,Villa,249,1770,

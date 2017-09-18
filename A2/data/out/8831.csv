@@ -1,0 +1,980 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Romlundvej 4 8831 Løgstrup,4,1035000.0,03-05-2017,Fam.,9000,4,Villa,115,1940,
+Vildandvej 1 8831 Løgstrup,1,325000.0,24-04-2017,Alm.,7558,3,Sommerhus,43,1968,-7 %
+Villumhøj 51 8831 Løgstrup,51,2700000.0,27-03-2017,Alm.,12857,7,Villa,210,2000,-3 %
+Rogenstrupvej 13 8831 Løgstrup,13,1820000.0,02-03-2017,Alm.,6046,6,Villa,301,1901,-2 %
+Skivevej 252 8831 Løgstrup,252,1900000.0,27-02-2017,Fam.,21590,4,Stuehus,88,1935,
+Østergade 19 8831 Løgstrup,19,1065000.0,27-02-2017,Alm.,6826,5,Villa,156,1963,-3 %
+Søndersiden 10 8831 Løgstrup,10,1850000.0,20-01-2017,Alm.,13120,5,Villa,141,1900,-2 %
+Ladehøjvej 24 8831 Løgstrup,24,625500.0,11-01-2017,Andet,5212,4,Villa,120,1972,-45 %
+Skovlunden 45 8831 Løgstrup,45,1750000.0,23-12-2016,Alm.,11824,5,Villa,148,2012,
+Skovlunden 41 8831 Løgstrup,41,1750000.0,23-12-2016,Alm.,11824,5,Villa,148,2012,
+Villumhøj 38 8831 Løgstrup,38,2595000.0,15-12-2016,Alm.,13657,4,Villa,190,2007,-4 %
+Jelshøjvej 4 8831 Løgstrup,4,880000.0,17-11-2016,Alm.,6470,4,Villa,136,1971,-12 %
+Strandvejen 3 8831 Løgstrup,3,3785000.0,15-11-2016,Alm.,11754,6,Villa,322,1862,-5 %
+Svanevej 22A 8831 Løgstrup,0,800000.0,14-11-2016,Alm.,20000,3,Sommerhus,40,1965,
+Svanevej 12B 8831 Løgstrup,0,50000.0,13-11-2016,Alm.,352,4,Sommerhus,142,2008,
+Villumhøj 17 8831 Løgstrup,17,1478056.0,09-11-2016,Fam.,8303,5,Villa,178,1999,
+Vordevej 16 8831 Løgstrup,16,1090000.0,07-11-2016,Alm.,8515,3,Villa,128,1969,-8 %
+Fægteborgbakken 18 8831 Løgstrup,18,2150000.0,18-10-2016,Alm.,13437,5,Villa,160,2007,-4 %
+Hovedgaden 90 8831 Løgstrup,90,4100000.0,14-10-2016,Alm.,21243,6,Stuehus,193,1918,46 %
+Anderslevgårdvej 2A 8831 Løgstrup,0,775000.0,11-10-2016,Alm.,7750,4,Rækkehus,100,1981,-11 %
+Fiskbækvej 15 8831 Løgstrup,15,795000.0,10-10-2016,Alm.,9352,3,Villa,85,1965,-20 %
+Jonshøjvej 5 8831 Løgstrup,5,670000.0,09-10-2016,Fam.,4213,5,Villa,159,1972,
+Vildandvej 10 8831 Løgstrup,10,540000.0,07-10-2016,Alm.,11489,2,Sommerhus,47,1966,-8 %
+Hjarbækvej 34 8831 Løgstrup,34,365000.0,03-10-2016,Alm.,2050,5,Villa,178,1943,
+Villumhøj 31 8831 Løgstrup,31,2795000.0,30-09-2016,Alm.,13567,5,Villa,206,1996,0 %
+Gormendal 9 8831 Løgstrup,9,1350000.0,20-09-2016,Alm.,17088,4,Sommerhus,79,2007,-10 %
+Hovedgaden 23 8831 Løgstrup,23,2830000.0,13-09-2016,Alm.,11185,10,Villa,253,2013,-2 %
+Østergade 2 8831 Løgstrup,2,860000.0,13-09-2016,Alm.,8686,1,Villa,99,1907,-9 %
+Jelshøjvej 11 8831 Løgstrup,11,1545000.0,13-09-2016,Alm.,7119,11,Villa,217,1972,-3 %
+Ladehøjvej 22 8831 Løgstrup,22,1310000.0,12-09-2016,Alm.,10000,4,Villa,131,1973,-4 %
+Brændhøje 11 8831 Løgstrup,11,900000.0,05-09-2016,Alm.,9090,4,Villa,99,1969,-5 %
+Ørnehøjvej 7 8831 Løgstrup,7,750000.0,21-08-2016,Alm.,6250,4,Villa,120,1973,-6 %
+Ørnehøjvej 9 8831 Løgstrup,9,1375000.0,18-08-2016,Alm.,11458,4,Villa,120,1972,-3 %
+Strandvejen 62 8831 Løgstrup,62,300000.0,11-08-2016,Alm.,6521,3,Sommerhus,46,1947,
+Svanevej 38 8831 Løgstrup,38,1600000.0,10-08-2016,Alm.,18823,4,Sommerhus,85,1965,-10 %
+Strandhaverne 3 8831 Løgstrup,3,1725000.0,09-08-2016,Alm.,14375,4,Sommerhus,120,2007,-4 %
+Fægteborgbakken 26 8831 Løgstrup,26,2255000.0,04-08-2016,Alm.,14835,5,Villa,152,2006,-2 %
+Lærkebakken 34 8831 Løgstrup,34,1425000.0,03-08-2016,Alm.,10035,5,Villa,142,1987,-5 %
+Ladehøjvej 20 8831 Løgstrup,20,1110000.0,25-07-2016,Alm.,7449,5,Villa,149,1972,-14 %
+Skivevej 134 8831 Løgstrup,134,975000.0,25-07-2016,Alm.,8478,4,Villa,115,1927,-2 %
+Fægteborgvej 26 8831 Løgstrup,26,1295000.0,25-07-2016,Alm.,8144,4,Villa,159,1974,0 %
+Kølsenvej 67 8831 Løgstrup,67,3321000.0,06-07-2016,Fam.,17296,6,Stuehus,192,1890,
+Virksundvej 89 8831 Løgstrup,89,150000.0,23-06-2016,Alm.,1630,3,Villa,92,1961,-62 %
+Ladehøjvej 14 8831 Løgstrup,14,1100000.0,22-06-2016,Alm.,6707,6,Villa,164,1972,-6 %
+Svanevej 34 8831 Løgstrup,34,650000.0,21-06-2016,Andet,10317,3,Sommerhus,63,1966,-57 %
+Romlundvej 8 8831 Løgstrup,8,825000.0,15-06-2016,Alm.,5061,6,Villa,163,1948,-17 %
+Hjarbækvej 15 8831 Løgstrup,15,1935000.0,13-06-2016,Alm.,11517,6,Villa,168,1893,-3 %
+Strandvejen 30 8831 Løgstrup,30,550000.0,02-06-2016,Alm.,11000,2,Sommerhus,50,1939,
+Borgergade 27 8831 Løgstrup,27,950000.0,02-06-2016,Alm.,7539,4,Villa,126,1938,-19 %
+Strandvejen 15 8831 Løgstrup,15,2375000.0,31-05-2016,Alm.,14481,5,Villa,164,1910,-8 %
+Virksundvej 99 8831 Løgstrup,99,450000.0,24-05-2016,Auktion,4090,4,Villa,110,1962,
+Borgergade 67 8831 Løgstrup,67,1555000.0,02-05-2016,Alm.,9658,6,Villa,161,1988,-3 %
+Løgstørvej 42 8831 Løgstrup,42,950000.0,01-05-2016,Alm.,10106,3,Stuehus,94,1900,-4 %
+Virksundvej 111 8831 Løgstrup,111,19350000.0,14-04-2016,Alm.,71933,9,Stuehus,269,1971,
+Kirkebækvej 150 8831 Løgstrup,150,2000000.0,12-04-2016,Alm.,11363,7,Stuehus,176,1938,
+Knudbyvej 18 8831 Løgstrup,18,1100000.0,06-04-2016,Alm.,8661,4,Villa,127,1941,-4 %
+Sejrshøje 14 8831 Løgstrup,14,1070000.0,22-03-2016,Alm.,9304,4,Villa,115,1970,-10 %
+Hulager 6 8831 Løgstrup,6,340000.0,21-03-2016,Fam.,1942,8,Sommerhus,175,1931,
+Rogenstrupvej 26B 8831 Løgstrup,0,149000.0,16-03-2016,Alm.,776,6,Villa,192,1954,
+Agnetevej 6 8831 Løgstrup,6,450000.0,10-03-2016,Alm.,2486,6,Villa,181,2016,
+Fægteborgbakken 10 8831 Løgstrup,10,1050000.0,23-02-2016,Fam.,4525,5,Villa,232,2008,
+Svanevej 20H 8831 Løgstrup,0,850000.0,21-02-2016,Alm.,5483,6,Sommerhus,155,2017,
+Kølsenvej 23 8831 Løgstrup,23,959200.0,17-02-2016,Alm.,4545,6,Stuehus,211,1894,
+Kølsenvej 42 8831 Løgstrup,42,1200000.0,20-01-2016,Alm.,8275,5,Villa,145,1890,0 %
+Nørresiden 15 8831 Løgstrup,15,1001000.0,22-12-2015,Fam.,20020,4,Sommerhus,50,1930,
+Bavnevej 13 8831 Løgstrup,13,50000.0,20-12-2015,Alm.,215,8,Villa,232,1975,
+Østergade 6 8831 Løgstrup,6,428500.0,08-12-2015,Auktion,3895,5,Villa,110,1925,-46 %
+Gammelstrupvej 10A 8831 Løgstrup,0,2150000.0,03-12-2015,Alm.,9817,8,Stuehus,219,1918,-5 %
+Møllevang 1 8831 Løgstrup,1,1665000.0,30-11-2015,Alm.,9406,7,Villa,177,1965,-5 %
+Skivevej 260 8831 Løgstrup,260,1045000.0,25-11-2015,Alm.,4750,7,Stuehus,220,1868,-37 %
+Sejrshøje 2 8831 Løgstrup,2,1000000.0,18-11-2015,Alm.,7812,4,Villa,128,1977,-9 %
+Klostervej 7 8831 Løgstrup,7,665174.0,12-11-2015,Alm.,2760,7,Villa,241,1900,
+Villumhøj 49 8831 Løgstrup,49,947500.0,09-11-2015,Alm.,5573,5,Villa,170,2001,
+Rishøjvej 7 8831 Løgstrup,7,1150000.0,05-11-2015,Alm.,10648,4,Villa,108,1967,
+Hjarbækvej 50 8831 Løgstrup,50,560000.0,04-11-2015,Alm.,2213,7,Stuehus,253,1964,
+Virksundvej 71 8831 Løgstrup,71,390000.0,03-11-2015,Alm.,4062,3,Villa,96,1956,-18 %
+Gormendal 24 8831 Løgstrup,24,1875000.0,28-10-2015,Alm.,26785,2,Sommerhus,70,1975,-10 %
+Ekkodalen 4 8831 Løgstrup,4,500000.0,22-10-2015,Auktion,3787,4,Villa,132,1969,
+Rogenstrupvej 27 8831 Løgstrup,27,2500000.0,13-10-2015,Alm.,17006,8,Villa,147,1978,-7 %
+Trenmosevej 3 8831 Løgstrup,3,620000.0,08-10-2015,Alm.,4626,4,Villa,134,1967,0 %
+Snabevej 5 8831 Løgstrup,5,1250000.0,05-10-2015,Alm.,8802,5,Villa,142,1935,-3 %
+Svanevej 61 8831 Løgstrup,61,900000.0,01-10-2015,Alm.,10975,3,Sommerhus,82,2007,-18 %
+Tårupgårdvej 1 8831 Løgstrup,1,850000.0,01-10-2015,Fam.,5862,4,Villa,145,1934,
+Agnetevej 13 8831 Løgstrup,13,500000.0,26-09-2015,Alm.,3311,6,Villa,151,2016,
+Skovlunden 30 8831 Løgstrup,30,395000.0,24-09-2015,Alm.,2283,5,Villa,173,2016,0 %
+Svanevej 40 8831 Løgstrup,40,675000.0,21-09-2015,Alm.,13500,3,Sommerhus,50,1966,
+Østergade 4 8831 Løgstrup,4,700000.0,11-09-2015,Alm.,7954,3,Villa,88,1928,-26 %
+Romlundvej 15 8831 Løgstrup,15,810000.0,14-08-2015,Alm.,4939,5,Villa,164,1963,-9 %
+Kølsenvej 19 8831 Løgstrup,19,900000.0,13-08-2015,Alm.,2500,11,Villa,360,1970,
+Søndersiden 3 8831 Løgstrup,3,1705000.0,09-08-2015,Alm.,12723,4,Villa,134,1880,-9 %
+Romlundvej 5 8831 Løgstrup,5,612500.0,21-07-2015,Alm.,7205,3,Villa,85,1958,-12 %
+Tårupgårdvej 6 8831 Løgstrup,6,2000000.0,16-07-2015,Alm.,6920,5,Stuehus,289,1950,21 %
+Skivevej 249 8831 Løgstrup,249,8480000.0,02-07-2015,Alm.,75044,5,Stuehus,113,1907,
+Skivevej 250 8831 Løgstrup,250,3720000.0,02-07-2015,Alm.,21502,4,Stuehus,173,1918,
+Tårupgårdvej 3 8831 Løgstrup,3,2575000.0,30-06-2015,Andet,19360,4,Stuehus,133,1936,
+Lyngsøvej 7 8831 Løgstrup,7,1700000.0,16-06-2015,Fam.,8947,4,Stuehus,190,1981,
+Romlundvej 16 8831 Løgstrup,16,730000.0,11-06-2015,Alm.,7684,3,Villa,95,1965,
+Sejrshøje 22 8831 Løgstrup,22,650000.0,09-06-2015,Auktion,3779,7,Villa,172,1969,
+Kvostedvej 34 8831 Løgstrup,34,850000.0,09-06-2015,Alm.,6343,5,Stuehus,134,1909,-13 %
+Virksundvej 95 8831 Løgstrup,95,275000.0,21-05-2015,Alm.,3197,3,Villa,86,1950,-15 %
+Romlundvej 31 8831 Løgstrup,31,997500.0,18-05-2015,Fam.,5334,5,Stuehus,187,1964,
+Villumhøj 52 8831 Løgstrup,52,2635000.0,13-04-2015,Alm.,14243,5,Villa,185,2005,-2 %
+Villumhøj 4 8831 Løgstrup,4,400000.0,26-03-2015,Alm.,2222,5,Villa,180,2016,
+Hovedgaden 69 8831 Løgstrup,69,1025000.0,25-03-2015,Alm.,9070,4,Villa,113,1938,-10 %
+Rogenstrupvej 2 8831 Løgstrup,2,995000.0,24-03-2015,Alm.,5128,6,Villa,194,1978,-8 %
+Skivevej 138 8831 Løgstrup,138,220000.0,17-03-2015,Auktion,1946,4,Villa,113,1940,
+Bavnevej 14B 8831 Løgstrup,0,1000000.0,16-03-2015,Alm.,8000,3,Villa,125,1987,-16 %
+Svanevej 37 8831 Løgstrup,37,1792961.0,04-03-2015,Alm.,17929,4,Sommerhus,100,2012,-5 %
+Rylevej 1 8831 Løgstrup,1,1175000.0,24-02-2015,Alm.,11084,4,Sommerhus,106,1972,-6 %
+Fægteborgbakken 15 8831 Løgstrup,15,1950000.0,04-02-2015,Alm.,15000,4,Villa,130,2007,-7 %
+Hovedgaden 27 8831 Løgstrup,27,320000.0,27-01-2015,Alm.,2388,5,Villa,134,1924,
+Nørresiden 22 8831 Løgstrup,22,840000.0,17-01-2015,Fam.,11200,3,Sommerhus,75,1945,-39 %
+Hovedgaden 71 8831 Løgstrup,71,650000.0,12-01-2015,Alm.,8125,3,Villa,80,1941,-6 %
+Hvidbjergvej 7B 8831 Løgstrup,0,350000.0,22-12-2014,Alm.,1785,6,Villa,196,2017,
+Galgehøjvej 10 8831 Løgstrup,10,1039000.0,18-12-2014,Fam.,8117,5,Villa,128,1973,
+Skolegade 50 8831 Løgstrup,50,755000.0,28-11-2014,Alm.,8031,3,Villa,94,1972,-5 %
+Kølsenvej 6 8831 Løgstrup,6,1232500.0,24-11-2014,Fam.,9860,5,Villa,125,1998,
+Anderslevgårdvej 35 8831 Løgstrup,35,1180000.0,06-11-2014,Alm.,13111,3,Rækkehus,90,2006,-1 %
+Villumhøj 42 8831 Løgstrup,42,3067665.0,05-11-2014,Alm.,15812,5,Villa,194,2003,-3 %
+Storhøjvej 5 8831 Løgstrup,5,945000.0,30-10-2014,Alm.,6300,5,Villa,150,1971,-14 %
+Rogenstrupvej 16 8831 Løgstrup,16,1000000.0,27-10-2014,Alm.,9708,5,Villa,103,1959,
+Nørresiden 12 8831 Løgstrup,12,815400.0,23-10-2014,Fam.,12170,3,Sommerhus,67,2011,
+Fægteborgbakken 11 8831 Løgstrup,11,2309000.0,22-10-2014,Alm.,14896,5,Villa,155,2015,6 %
+Strandvejen 9 8831 Løgstrup,9,300000.0,21-10-2014,Alm.,2189,4,Villa,137,1859,-50 %
+Svanevej 46 8831 Løgstrup,46,325000.0,02-10-2014,Andet,3457,4,Sommerhus,94,2015,
+Kvolsvej 19 8831 Løgstrup,19,800000.0,19-09-2014,Alm.,4301,5,Villa,186,1930,-6 %
+Lærkebakken 3 8831 Løgstrup,3,960977.0,26-08-2014,Andet,4620,6,Villa,208,1980,-46 %
+Borgergade 19 8831 Løgstrup,19,600000.0,25-08-2014,Alm.,5504,3,Villa,109,1910,
+Borgergade 35 8831 Løgstrup,35,535000.0,17-08-2014,Alm.,5350,3,Villa,100,1969,
+Galgehøjvej 12 8831 Løgstrup,12,785000.0,18-07-2014,Alm.,7072,4,Villa,111,1965,-12 %
+Kvostedvej 32 8831 Løgstrup,32,1995000.0,17-07-2014,Alm.,16352,4,Stuehus,122,1914,
+Fiskbækvej 25 8831 Løgstrup,25,55127.0,29-05-2014,Alm.,417,4,Villa,132,1938,
+Brunbankevej 58 8831 Løgstrup,58,900000.0,26-05-2014,Alm.,3896,8,Villa,231,1868,
+Ekkodalen 19 8831 Løgstrup,19,1225000.0,26-05-2014,Alm.,6250,5,Villa,196,2011,
+Anderslevgårdvej 25 8831 Løgstrup,25,750000.0,23-05-2014,Alm.,8620,4,Rækkehus,87,1984,
+Anderslevgårdvej 16 8831 Løgstrup,16,835000.0,22-05-2014,Alm.,8267,4,Rækkehus,101,1982,-7 %
+Bavnevej 49 8831 Løgstrup,49,151445.0,12-05-2014,Alm.,620,8,Stuehus,244,1895,
+Bavnevej 19 8831 Løgstrup,19,400000.0,05-05-2014,Alm.,2919,2,Villa,137,1968,
+Albertevej 9 8831 Løgstrup,9,550000.0,07-04-2014,Alm.,3416,5,Villa,161,2014,
+Bollervej 6 8831 Løgstrup,6,340000.0,13-03-2014,Fam.,2394,6,Stuehus,142,2015,
+Hørhøjvej 3 8831 Løgstrup,3,1650000.0,01-03-2014,Alm.,10784,6,Villa,153,1974,
+Hørhøjvej 4 8831 Løgstrup,4,1450000.0,01-03-2014,Alm.,6502,8,Villa,223,1974,
+Villumhøj 10 8831 Løgstrup,10,2550000.0,17-02-2014,Alm.,14166,5,Villa,180,2006,-2 %
+Bavnevej 6 8831 Løgstrup,6,625000.0,13-02-2014,Alm.,3720,5,Villa,168,1918,-58 %
+Trenmosevej 14 8831 Løgstrup,14,885000.0,05-02-2014,Alm.,7080,3,Villa,125,2002,0 %
+Hovedgaden 93 8831 Løgstrup,93,1325000.0,30-01-2014,Alm.,10037,4,Villa,132,1971,-11 %
+Sønderdalvej 8 8831 Løgstrup,8,1600000.0,15-01-2014,Alm.,7017,8,Stuehus,228,1870,-9 %
+Kølsenvej 63 8831 Løgstrup,63,1300000.0,09-01-2014,Alm.,6735,5,Stuehus,193,1930,
+Skivevej 105 8831 Løgstrup,105,945000.0,07-01-2014,Alm.,4748,5,Villa,199,1910,
+Østergade 39 8831 Løgstrup,39,950000.0,02-01-2014,Alm.,6643,5,Villa,143,1963,
+Blishønevej 7 8831 Løgstrup,7,900000.0,12-12-2013,Alm.,9375,4,Sommerhus,96,2015,
+Ekkodalen 17 8831 Løgstrup,17,1995000.0,09-12-2013,Alm.,13211,5,Villa,151,2013,
+Ekkodalen 22 8831 Løgstrup,22,1637049.0,04-12-2013,Alm.,12401,5,Rækkehus,132,2011,
+Gammelstrupvej 3B 8831 Løgstrup,0,1100000.0,03-12-2013,Auktion,1890,15,Villa,582,1912,
+Ekkodalen 24 8831 Løgstrup,24,1653114.0,03-12-2013,Alm.,12619,5,Rækkehus,131,2011,
+Ekkodalen 26 8831 Løgstrup,26,1657123.0,03-12-2013,Alm.,13363,4,Villa,124,2011,
+Hovedgaden 59 8831 Løgstrup,59,430000.0,15-11-2013,Alm.,5375,3,Villa,80,1915,-28 %
+Hulhøjvej 10 8831 Løgstrup,10,725000.0,15-11-2013,Alm.,5034,4,Villa,144,1969,-19 %
+Borgergade 24 8831 Løgstrup,24,1865000.0,14-11-2013,Alm.,14457,4,Villa,129,2006,-2 %
+Skivevej 232 8831 Løgstrup,232,318750.0,08-11-2013,Fam.,3706,4,Villa,86,1900,
+Gøgevej 6 8831 Løgstrup,6,1400000.0,06-11-2013,Alm.,20000,4,Sommerhus,70,1966,
+Svanevej 58 8831 Løgstrup,58,1150000.0,15-10-2013,Alm.,14935,4,Sommerhus,77,2004,-4 %
+Fægteborgbakken 21 8831 Løgstrup,21,1050194.0,15-10-2013,Fam.,5469,6,Villa,192,2008,
+Hejrevej 17 8831 Løgstrup,17,1250000.0,11-10-2013,Alm.,20833,3,Sommerhus,60,1977,-3 %
+Anderslevgårdvej 1A 8831 Løgstrup,0,750000.0,03-10-2013,Alm.,9259,3,Rækkehus,81,1981,
+Kølsenvej 8 8831 Løgstrup,8,1440000.0,30-09-2013,Alm.,7955,5,Villa,181,1977,-9 %
+Borgergade 20 8831 Løgstrup,20,563472.0,19-09-2013,Alm.,4083,4,Villa,138,1971,
+Bollerhøjvej 4 8831 Løgstrup,4,632000.0,12-09-2013,Fam.,4450,4,Villa,142,1973,
+Skovledet 9 8831 Løgstrup,9,912500.0,06-09-2013,Alm.,3306,9,Villa,276,1971,-54 %
+Fiskbækvej 19 8831 Løgstrup,19,410500.0,29-08-2013,Alm.,2487,5,Villa,165,1907,
+Nørresiden 14 8831 Løgstrup,14,465000.0,28-08-2013,Fam.,11625,2,Sommerhus,40,1965,
+Brunbankevej 37 8831 Løgstrup,37,1388194.0,27-08-2013,Andet,5278,6,Stuehus,263,1976,
+Ladehøjvej 5 8831 Løgstrup,5,1180000.0,21-08-2013,Alm.,10085,4,Villa,117,1973,-1 %
+Vildandvej 13 8831 Løgstrup,13,585000.0,10-08-2013,Alm.,6882,2,Sommerhus,85,1969,-15 %
+Svanevej 20E 8831 Løgstrup,0,765000.0,30-07-2013,Alm.,6428,5,Sommerhus,119,2015,
+Rishøjvej 1 8831 Løgstrup,1,1200000.0,09-07-2013,Alm.,10434,4,Villa,115,1969,
+Lærkebakken 43 8831 Løgstrup,43,1700000.0,09-07-2013,Alm.,10625,4,Villa,160,1905,-4 %
+Villumhøj 48 8831 Løgstrup,48,2075000.0,04-07-2013,Alm.,13387,5,Villa,155,2003,-9 %
+Sønderdalvej 3 8831 Løgstrup,3,225000.0,04-07-2013,Alm.,2272,2,Stuehus,99,1815,
+Jonshøjvej 7 8831 Løgstrup,7,850000.0,04-07-2013,Alm.,5592,4,Villa,152,1972,-19 %
+Sparkærvej 1 8831 Løgstrup,1,1960000.0,27-06-2013,Alm.,11395,7,Stuehus,172,1931,4 %
+Rogenstrupvej 9 8831 Løgstrup,9,800000.0,27-06-2013,Alm.,6400,3,Villa,125,1927,-33 %
+Svanevej 20G 8831 Løgstrup,0,895000.0,25-06-2013,Alm.,7782,5,Sommerhus,115,2016,
+Albertevej 12 8831 Løgstrup,12,450000.0,25-06-2013,Alm.,1923,6,Villa,234,2015,
+Skolegade 3 8831 Løgstrup,3,670000.0,20-06-2013,Alm.,8375,3,Villa,80,1959,-11 %
+Storhøjvej 12 8831 Løgstrup,12,600000.0,07-06-2013,Andet,4918,4,Villa,122,1962,
+Svanevej 20F 8831 Løgstrup,0,905000.0,05-06-2013,Alm.,7669,5,Sommerhus,118,2016,
+Svanevej 41 8831 Løgstrup,41,1450000.0,15-05-2013,Alm.,10357,4,Sommerhus,140,1962,
+Storhøjvej 4 8831 Løgstrup,4,750000.0,13-05-2013,Alm.,7211,5,Villa,104,1964,-6 %
+Dragshøjvej 2 8831 Løgstrup,2,750000.0,29-04-2013,Fam.,6355,4,Villa,118,1972,
+Agnetevej 1 8831 Løgstrup,1,475000.0,29-04-2013,Alm.,2698,5,Villa,176,2014,
+Blishønevej 6 8831 Løgstrup,6,925000.0,15-04-2013,Alm.,16818,3,Sommerhus,55,1963,-7 %
+Borgergade 32 8831 Løgstrup,32,1204253.0,19-03-2013,Andet,6920,5,Villa,174,2007,
+Ekkodalen 15 8831 Løgstrup,15,1950000.0,18-03-2013,Alm.,12913,5,Villa,151,2013,
+Albertevej 14 8831 Løgstrup,14,450000.0,21-02-2013,Alm.,1906,8,Villa,236,2014,
+Østergade 15 8831 Løgstrup,15,1455000.0,07-02-2013,Alm.,10543,3,Villa,138,1970,-3 %
+Møllevang 4 8831 Løgstrup,4,1220000.0,05-02-2013,Alm.,7770,5,Villa,157,1969,-4 %
+Romlundvej 51 8831 Løgstrup,51,2750000.0,14-01-2013,Alm.,15895,5,Stuehus,173,1933,-14 %
+Svanevej 22B 8831 Løgstrup,0,2750000.0,27-12-2012,Alm.,11363,5,Sommerhus,242,1994,
+Kvolsvej 6 8831 Løgstrup,6,1837500.0,06-12-2012,Fam.,9722,5,Stuehus,189,2015,
+Kølsenvej 55 8831 Løgstrup,55,489000.0,29-11-2012,Alm.,2686,4,Villa,182,1896,
+Fægteborgvej 8 8831 Løgstrup,8,832500.0,28-11-2012,Alm.,6937,4,Villa,120,1974,
+Fægteborgvej 24 8831 Løgstrup,24,1400000.0,26-10-2012,Alm.,6862,7,Villa,204,1973,-6 %
+Lærkebakken 8 8831 Løgstrup,8,1160000.0,24-10-2012,Alm.,9206,4,Villa,126,1996,
+Hjarbækvej 6 8831 Løgstrup,6,1500000.0,19-10-2012,Alm.,9554,5,Villa,157,1886,
+Skivevej 246 8831 Løgstrup,246,760000.0,17-10-2012,Alm.,0,8,Villa,316,1962,-24 %
+Storhøjvej 16 8831 Løgstrup,16,1100000.0,12-10-2012,Alm.,4888,5,Villa,225,1966,-15 %
+Svanevej 73 8831 Løgstrup,73,750000.0,10-10-2012,Alm.,0,4,Sommerhus,116,1968,-16 %
+Fægteborgbakken 30 8831 Løgstrup,30,2230000.0,01-10-2012,Alm.,13195,5,Villa,169,2009,-7 %
+Hjarbækvej 3 8831 Løgstrup,3,900000.0,14-09-2012,Alm.,7692,3,Villa,117,1893,0 %
+Anderslevgårdvej 12 8831 Løgstrup,12,1030000.0,12-09-2012,Alm.,8655,5,Villa,119,1984,-1 %
+Skivevej 230 8831 Løgstrup,230,1550000.0,11-09-2012,Alm.,6981,7,Villa,222,1938,2 %
+Snabevej 3 8831 Løgstrup,3,745000.0,27-08-2012,Alm.,6367,3,Villa,117,1935,-12 %
+Sejrsmosevej 3 8831 Løgstrup,3,650000.0,16-08-2012,Auktion,4012,5,Villa,162,1900,-35 %
+Hjarbækvej 2 8831 Løgstrup,2,1200000.0,14-08-2012,Alm.,9302,7,Villa,129,1855,-14 %
+Galgehøjvej 4 8831 Løgstrup,4,1450000.0,07-08-2012,Alm.,10283,4,Villa,141,1964,-8 %
+Virksundvej 58 8831 Løgstrup,58,1000000.0,05-07-2012,Alm.,0,7,Stuehus,230,1916,
+Møllevang 12 8831 Løgstrup,12,900000.0,17-06-2012,Alm.,3719,7,Villa,242,1968,-5 %
+Lærkebakken 31 8831 Løgstrup,31,795550.0,14-06-2012,Alm.,6167,4,Villa,129,1981,
+Fægteborgbakken 44 8831 Løgstrup,44,554000.0,12-06-2012,Alm.,2900,5,Villa,191,2013,
+Svanevej 69 8831 Løgstrup,69,1510000.0,06-06-2012,Alm.,11615,3,Sommerhus,130,1968,-5 %
+Klostervej 5 8831 Løgstrup,5,670000.0,04-06-2012,Alm.,6380,3,Villa,105,1984,-4 %
+Lærkebakken 33 8831 Løgstrup,33,701250.0,24-05-2012,Fam.,5194,5,Villa,135,1997,
+Kølsenvej 10 8831 Løgstrup,10,1360000.0,16-05-2012,Alm.,9714,4,Villa,140,1979,-3 %
+Svanevej 52 8831 Løgstrup,52,1250000.0,11-05-2012,Alm.,14705,4,Sommerhus,85,1969,
+Skolegade 1B 8831 Løgstrup,0,629000.0,10-05-2012,Fam.,5241,5,Villa,120,1950,
+Nørresiden 28 8831 Løgstrup,28,700000.0,25-04-2012,Fam.,14000,3,Sommerhus,50,1939,
+Rogenstrupvej 11 8831 Løgstrup,11,1225523.0,16-04-2012,Alm.,7338,5,Stuehus,167,1864,
+Villumhøj 33 8831 Løgstrup,33,2195000.0,11-04-2012,Alm.,14440,5,Villa,152,1996,0 %
+Kølsenvej 11 8831 Løgstrup,11,1000000.0,04-04-2012,Alm.,8403,4,Villa,119,1974,-7 %
+Ørnehøjvej 14 8831 Løgstrup,14,830000.0,30-03-2012,Alm.,6587,4,Villa,126,1973,-6 %
+Skivevej 251 8831 Løgstrup,251,1145000.0,26-03-2012,Alm.,7156,3,Villa,160,1895,-4 %
+Lærkebakken 2 8831 Løgstrup,2,1035000.0,19-03-2012,Alm.,9000,5,Villa,115,1986,-5 %
+Trenmosevej 13 8831 Løgstrup,13,895000.0,12-03-2012,Alm.,5849,4,Villa,153,1971,0 %
+Gammelstrupvej 5 8831 Løgstrup,5,1360000.0,12-03-2012,Fam.,13333,4,Stuehus,102,1860,
+Sønderdalvej 6B 8831 Løgstrup,0,246500.0,06-03-2012,Fam.,4481,3,Sommerhus,55,1920,
+Anderslevgårdvej 15 8831 Løgstrup,15,1030000.0,24-02-2012,Alm.,10618,4,Rækkehus,97,1985,-6 %
+Bavnevej 31 8831 Løgstrup,31,170000.0,16-02-2012,Fam.,3777,2,Villa,45,1912,
+Klostervej 3 8831 Løgstrup,3,610000.0,14-02-2012,Alm.,4066,4,Villa,150,1959,-11 %
+Kølsenvej 53 8831 Løgstrup,53,1050000.0,06-02-2012,Fam.,14000,3,Villa,75,1957,-9 %
+Rylevej 3 8831 Løgstrup,3,515000.0,27-01-2012,Alm.,8306,3,Sommerhus,62,1970,-10 %
+Svanevej 30 8831 Løgstrup,30,510800.0,17-01-2012,Fam.,6997,4,Sommerhus,73,2012,
+Fægteborgvej 1 8831 Løgstrup,1,990000.0,17-01-2012,Alm.,9428,4,Villa,105,1969,-6 %
+Virksundvej 113 8831 Løgstrup,113,475000.0,10-01-2012,Alm.,2729,6,Villa,174,1916,-5 %
+Hjarbækvej 31B 8831 Løgstrup,0,1200000.0,14-12-2011,Alm.,8450,5,Villa,142,1999,-14 %
+Borgergade 43 8831 Løgstrup,43,985000.0,11-12-2011,Alm.,8716,4,Villa,113,1969,-12 %
+Kvolsvej 14 8831 Løgstrup,14,100000.0,11-10-2011,Alm.,847,4,Stuehus,118,1875,
+Vildandvej 7 8831 Løgstrup,7,625000.0,06-10-2011,Auktion,5081,4,Sommerhus,123,1967,
+Nørresiden 9B 8831 Løgstrup,0,2000000.0,06-10-2011,Alm.,12738,4,Villa,157,1974,-32 %
+Fægteborgvej 30 8831 Løgstrup,30,1650000.0,19-09-2011,Alm.,7819,7,Villa,211,1969,
+Svanevej 36 8831 Løgstrup,36,940000.0,10-09-2011,Alm.,8623,4,Sommerhus,109,2013,-36 %
+Romlundvej 47 8831 Løgstrup,47,728589.0,06-09-2011,Alm.,0,7,Stuehus,211,1916,
+Strandvejen 60 8831 Løgstrup,60,1200000.0,30-08-2011,Alm.,21428,4,Sommerhus,56,1930,-7 %
+Fiskbækvej 27 8831 Løgstrup,27,1100000.0,15-08-2011,Alm.,0,4,Villa,127,1940,-8 %
+Skovlunden 43 8831 Løgstrup,43,1675000.0,08-08-2011,Alm.,15801,4,Villa,106,2011,186 %
+Fægteborgbakken 9 8831 Løgstrup,9,2400000.0,18-07-2011,Alm.,16666,5,Villa,144,2008,
+Virksundvej 1 8831 Løgstrup,1,525000.0,01-07-2011,Alm.,3343,5,Villa,157,1890,-30 %
+Kølsenvej 54 8831 Løgstrup,54,1075000.0,23-06-2011,Alm.,6073,5,Villa,177,1950,-16 %
+Vildandvej 5 8831 Løgstrup,5,895000.0,05-06-2011,Alm.,13984,3,Sommerhus,64,2002,0 %
+Hovedgaden 64 8831 Løgstrup,64,1217000.0,01-06-2011,Alm.,8818,4,Villa,138,1954,-6 %
+Strandvejen 70 8831 Løgstrup,70,975000.0,21-05-2011,Alm.,6866,3,Sommerhus,142,1974,-11 %
+Søndersiden 4 8831 Løgstrup,4,700000.0,10-05-2011,Alm.,6363,3,Villa,110,1877,
+Fægteborgbakken 13 8831 Løgstrup,13,1913000.0,11-04-2011,Alm.,14170,4,Villa,135,2011,-2 %
+Kølsenvej 39 8831 Løgstrup,39,1388469.0,10-04-2011,Andet,9318,4,Stuehus,149,1850,
+Anderslevgårdvej 33 8831 Løgstrup,33,1625000.0,01-04-2011,Alm.,14008,4,Rækkehus,116,2006,-1 %
+Virksundvej 152 8831 Løgstrup,152,400000.0,25-02-2011,Alm.,2500,5,Villa,160,1913,-38 %
+Fægteborgvej 10 8831 Løgstrup,10,950000.0,22-02-2011,Alm.,7786,5,Villa,122,1973,-12 %
+Romlundvej 14 8831 Løgstrup,14,1000000.0,21-02-2011,Alm.,10416,4,Villa,96,1962,
+Albertevej 7 8831 Løgstrup,7,538000.0,15-02-2011,Alm.,3202,6,Villa,168,2012,
+Vildandvej 8 8831 Løgstrup,8,1598000.0,06-02-2011,Alm.,12106,4,Sommerhus,132,1968,
+Virksundvej 180 8831 Løgstrup,180,1080000.0,04-02-2011,Alm.,8000,3,Villa,135,1976,-1 %
+Fjordvej 4 8831 Løgstrup,4,1995000.0,01-02-2011,Fam.,13125,4,Villa,152,1965,
+Rishøjvej 9 8831 Løgstrup,9,1225000.0,30-12-2010,Alm.,7954,6,Villa,154,1971,-11 %
+Albertevej 5 8831 Løgstrup,5,480000.0,29-12-2010,Alm.,3000,5,Villa,160,2013,
+Strandhaverne 4 8831 Løgstrup,4,825000.0,20-12-2010,Fam.,10312,5,Sommerhus,80,1947,
+Rogenstrupvej 38 8831 Løgstrup,38,3045000.0,03-12-2010,Alm.,24166,4,Stuehus,126,1941,
+Fægteborgbakken 3 8831 Løgstrup,3,2348000.0,26-11-2010,Alm.,16771,5,Villa,140,2011,21 %
+Hejrevej 13A 8831 Løgstrup,0,652700.0,09-11-2010,Alm.,5626,5,Sommerhus,116,2015,
+Rogenstrupvej 30 8831 Løgstrup,30,2508000.0,04-11-2010,Fam.,12294,7,Stuehus,204,1906,
+Møllevang 6 8831 Løgstrup,6,600000.0,24-10-2010,Fam.,4026,6,Villa,149,1969,
+Albertevej 16 8831 Løgstrup,16,498000.0,24-10-2010,Alm.,2782,5,Villa,179,2014,
+Skurrehøjvej 10 8831 Løgstrup,10,1400000.0,16-10-2010,Alm.,9523,6,Villa,147,1975,-12 %
+Skurrehøjvej 4 8831 Løgstrup,4,1140000.0,27-09-2010,Alm.,7916,5,Villa,144,1972,-5 %
+Lærkebakken 23 8831 Løgstrup,23,832300.0,26-09-2010,Alm.,6353,5,Villa,131,1988,
+Borgergade 18 8831 Løgstrup,18,1400000.0,25-09-2010,Alm.,8284,4,Villa,169,1972,-6 %
+Østergade 27 8831 Løgstrup,27,800000.0,20-09-2010,Alm.,6779,4,Villa,118,1966,
+Svanevej 29 8831 Løgstrup,29,900000.0,16-09-2010,Alm.,8653,4,Sommerhus,104,2015,
+Skovledet 2 8831 Løgstrup,2,519500.0,16-09-2010,Alm.,5971,4,Villa,87,1960,
+Ladehøjvej 1 8831 Løgstrup,1,1625000.0,15-09-2010,Alm.,9232,6,Villa,176,1972,-4 %
+Borgergade 30 8831 Løgstrup,30,1046968.0,07-09-2010,Fam.,6423,5,Villa,163,2006,
+Hedegårdvej 4 8831 Løgstrup,4,1747000.0,27-08-2010,Alm.,8648,6,Stuehus,202,1931,
+Virksundvej 85 8831 Løgstrup,85,725000.0,23-08-2010,Alm.,5664,5,Villa,128,1964,-18 %
+Ravnehøjvej 6 8831 Løgstrup,6,1500000.0,03-08-2010,Fam.,14563,4,Stuehus,103,1923,
+Kølsenvej 64 8831 Løgstrup,64,157000.0,03-08-2010,Alm.,534,5,Stuehus,294,1900,-96 %
+Fiskbækvej 41 8831 Løgstrup,41,4615000.0,16-07-2010,Alm.,23308,8,Stuehus,198,1934,
+Virksundvej 182 8831 Løgstrup,182,875000.0,16-07-2010,Alm.,2956,10,Stuehus,296,2013,-12 %
+Elkærvej 25 8831 Løgstrup,25,797000.0,08-07-2010,Alm.,7379,4,Villa,108,1924,
+Ørnehøjvej 10 8831 Løgstrup,10,1185000.0,03-07-2010,Alm.,10042,4,Villa,118,1972,-5 %
+Agnetevej 5 8831 Løgstrup,5,475000.0,30-06-2010,Alm.,2473,7,Villa,192,2011,
+Elkærvej 30 8831 Løgstrup,30,1408355.0,28-06-2010,Alm.,9712,4,Villa,145,1890,
+Svanevej 48 8831 Løgstrup,48,1150000.0,22-06-2010,Alm.,13855,4,Sommerhus,83,2003,-11 %
+Borgergade 63 8831 Løgstrup,63,1350000.0,21-06-2010,Alm.,0,4,Villa,125,1981,-2 %
+Anderslevgårdvej 27 8831 Løgstrup,27,1050000.0,17-06-2010,Alm.,12068,4,Rækkehus,87,1985,
+Villumhøj 1 8831 Løgstrup,1,2100000.0,17-06-2010,Alm.,14583,5,Villa,144,2000,-4 %
+Hovedgaden 22 8831 Løgstrup,22,1300000.0,13-06-2010,Alm.,10743,5,Villa,121,1919,
+Strandhaverne 9 8831 Løgstrup,9,610000.0,07-06-2010,Alm.,6161,4,Sommerhus,99,2013,
+Rogenstrupvej 24 8831 Løgstrup,24,1800000.0,05-06-2010,Alm.,18947,3,Stuehus,95,1920,
+Brændhøje 6 8831 Løgstrup,6,1300000.0,02-06-2010,Alm.,9489,6,Villa,137,1970,-7 %
+Agnetevej 4 8831 Løgstrup,4,500000.0,31-05-2010,Alm.,2702,6,Villa,185,2013,
+Agnetevej 3 8831 Løgstrup,3,475000.0,31-05-2010,Alm.,2553,6,Villa,186,2011,
+Villumhøj 54 8831 Løgstrup,54,2950000.0,29-05-2010,Alm.,16032,5,Villa,184,2006,-2 %
+Agnetevej 7 8831 Løgstrup,7,500000.0,27-05-2010,Alm.,2840,5,Villa,176,2011,
+Villumhøj 46 8831 Løgstrup,46,1990000.0,10-05-2010,Alm.,14316,5,Villa,139,2005,-5 %
+Virksundvej 115 8831 Løgstrup,115,150000.0,27-04-2010,Alm.,2027,2,Villa,74,1942,
+Albertevej 8 8831 Løgstrup,8,590000.0,23-04-2010,Alm.,2448,7,Villa,241,2010,
+Villumhøj 25 8831 Løgstrup,25,1860000.0,16-04-2010,Alm.,13880,5,Villa,134,1998,
+Skivevej 113 8831 Løgstrup,113,625000.0,13-04-2010,Alm.,7267,3,Villa,86,1932,-20 %
+Virksundvej 117 8831 Løgstrup,117,5400000.0,07-04-2010,Alm.,22222,7,Stuehus,243,1974,
+Knudbyvej 14 8831 Løgstrup,14,400000.0,25-03-2010,Alm.,1769,8,Stuehus,226,1900,
+Skurrehøjvej 7 8831 Løgstrup,7,1315000.0,20-03-2010,Alm.,8218,5,Villa,160,1972,0 %
+Virksundvej 103 8831 Løgstrup,103,245000.0,19-03-2010,Alm.,1256,7,Stuehus,195,1924,
+Kølsenvej 2 8831 Løgstrup,2,912500.0,03-03-2010,Alm.,7019,4,Villa,130,1929,-6 %
+Agnetevej 9 8831 Løgstrup,9,500000.0,21-02-2010,Alm.,2631,5,Villa,190,2011,
+Jelshøjvej 1 8831 Løgstrup,1,1275000.0,10-02-2010,Alm.,9659,4,Villa,132,1972,
+Ekkodalen 5 8831 Løgstrup,5,1325000.0,05-02-2010,Fam.,11324,4,Villa,117,1970,
+Snabevej 6 8831 Løgstrup,6,1250000.0,05-02-2010,Alm.,9541,5,Villa,131,1967,14 %
+Rogenstrupvej 34 8831 Løgstrup,34,1930000.0,05-02-2010,Fam.,12062,6,Stuehus,160,1893,
+Borgergade 23 8831 Løgstrup,23,425000.0,03-02-2010,Alm.,4521,2,Villa,94,1937,
+Østergade 25 8831 Løgstrup,25,600171.0,26-01-2010,Andet,3158,8,Villa,190,1965,-67 %
+Svanevej 24 8831 Løgstrup,24,1100000.0,11-01-2010,Fam.,11000,5,Sommerhus,100,1987,
+Bollerhøjvej 10 8831 Løgstrup,10,1350000.0,08-01-2010,Alm.,8881,5,Villa,152,1975,-3 %
+Svanevej 18B 8831 Løgstrup,0,1000000.0,19-12-2009,Alm.,6451,4,Sommerhus,155,2014,
+Svanevej 25 8831 Løgstrup,25,500000.0,18-12-2009,Alm.,6666,3,Sommerhus,75,1969,
+Nørresiden 26 8831 Løgstrup,26,1200000.0,19-11-2009,Fam.,15189,3,Sommerhus,79,1939,
+Lærkebakken 128 8831 Løgstrup,128,900000.0,13-11-2009,Alm.,6766,4,Villa,133,2000,
+Strandvejen 82 8831 Løgstrup,82,490000.0,12-11-2009,Alm.,10425,2,Sommerhus,47,2010,
+Fjordvej 23 8831 Løgstrup,23,745000.0,03-11-2009,Alm.,9312,5,Sommerhus,80,1979,-7 %
+Sejrshøje 20 8831 Løgstrup,20,935000.0,29-10-2009,Auktion,7248,4,Villa,129,1971,
+Hørhøjvej 6 8831 Løgstrup,6,1225000.0,10-10-2009,Alm.,6347,6,Villa,193,1975,-19 %
+Jonshøjvej 6 8831 Løgstrup,6,2560000.0,29-09-2009,Alm.,16953,5,Villa,151,2001,-7 %
+Brunbankevej 72 8831 Løgstrup,72,895000.0,05-08-2009,Alm.,4972,5,Villa,180,1908,-8 %
+Svanevej 62 8831 Løgstrup,62,740000.0,03-08-2009,Alm.,20000,1,Sommerhus,37,2006,-10 %
+Trenmosevej 8 8831 Løgstrup,8,885000.0,20-07-2009,Alm.,6321,5,Villa,140,1972,-5 %
+Agnetevej 2 8831 Løgstrup,2,475000.0,16-07-2009,Alm.,2513,6,Villa,189,2010,
+Agnetevej 11 8831 Løgstrup,11,528000.0,16-07-2009,Alm.,3718,5,Villa,142,2011,
+Virksundvej 162 8831 Løgstrup,162,1037500.0,09-07-2009,Alm.,6212,5,Villa,167,1932,-10 %
+Ladehøjvej 12 8831 Løgstrup,12,1437500.0,26-06-2009,Alm.,9913,5,Villa,145,1973,-3 %
+Bollerhøjvej 8 8831 Løgstrup,8,1295000.0,22-06-2009,Alm.,10791,3,Villa,120,1974,-2 %
+Svanevej 10 8831 Løgstrup,10,498750.0,19-06-2009,Fam.,9591,4,Sommerhus,52,1963,
+Nørresiden 10 8831 Løgstrup,10,475000.0,13-06-2009,Alm.,10555,2,Sommerhus,45,1962,-4 %
+Hulager 8 8831 Løgstrup,8,550000.0,03-06-2009,Andet,12222,3,Sommerhus,45,1957,
+Virksundvej 118 8831 Løgstrup,118,1095000.0,22-04-2009,Fam.,9954,3,Villa,110,1955,
+Virksundvej 122 8831 Løgstrup,122,300000.0,06-04-2009,Alm.,3333,2,Villa,90,1900,
+Fjordvej 20B 8831 Løgstrup,0,710687.0,03-04-2009,Fam.,3663,6,Villa,194,1897,
+Svanevej 18C 8831 Løgstrup,0,2750000.0,31-03-2009,Alm.,14864,4,Sommerhus,185,2011,
+Rylevej 2 8831 Løgstrup,2,525000.0,27-03-2009,Alm.,0,5,Sommerhus,120,2010,-12 %
+Anderslevgårdvej 14 8831 Løgstrup,14,1048000.0,23-03-2009,Alm.,12938,4,Rækkehus,81,1982,
+Romlundvej 53 8831 Løgstrup,53,1700000.0,02-02-2009,Alm.,15596,3,Villa,109,1898,-5 %
+Villumhøj 8 8831 Løgstrup,8,531000.0,16-01-2009,Alm.,2668,5,Villa,199,2011,
+Kvostedvej 22 8831 Løgstrup,22,400000.0,22-12-2008,Alm.,5633,3,Stuehus,71,1877,-76 %
+Strandvejen 18 8831 Løgstrup,18,1400000.0,09-12-2008,Alm.,15555,5,Villa,90,1877,-22 %
+Trenmosevej 2 8831 Løgstrup,2,1110000.0,08-12-2008,Alm.,5751,6,Villa,193,1979,-7 %
+Ladehøjvej 4 8831 Løgstrup,4,1500000.0,05-12-2008,Alm.,10273,4,Villa,146,1975,-6 %
+Brunbankevej 48 8831 Løgstrup,48,419000.0,02-12-2008,Fam.,3036,5,Stuehus,138,1910,
+Anderslevgårdvej 19 8831 Løgstrup,19,975000.0,28-11-2008,Alm.,11079,4,Rækkehus,88,1985,
+Skovlunden 44 8831 Løgstrup,44,600000.0,29-09-2008,Alm.,3529,5,Villa,170,2010,
+Elkærvej 34 8831 Løgstrup,34,1020000.0,15-07-2008,Fam.,4880,6,Stuehus,209,2010,
+Skivevej 256B 8831 Løgstrup,0,120000.0,30-06-2008,Alm.,839,4,Stuehus,143,1938,
+Gormendal 6 8831 Løgstrup,6,1078000.0,26-06-2008,Alm.,0,5,Sommerhus,115,2005,-20 %
+Ravnehøjvej 10 8831 Løgstrup,10,950000.0,24-06-2008,Alm.,0,5,Villa,164,1952,-14 %
+Borgergade 57B 8831 Løgstrup,0,900000.0,20-06-2008,Alm.,11392,3,Rækkehus,79,1982,-3 %
+Kølsenvej 3 8831 Løgstrup,3,1275000.0,18-06-2008,Alm.,5204,6,Villa,245,1912,-2 %
+Strandhaverne 11 8831 Løgstrup,11,219511.0,18-06-2008,Andet,5776,1,Sommerhus,38,1937,
+Østergade 24 8831 Løgstrup,24,1700000.0,13-06-2008,Alm.,10625,5,Villa,160,1968,-10 %
+Lærkebakken 22 8831 Løgstrup,22,2250000.0,13-06-2008,Alm.,14331,5,Villa,157,1988,-3 %
+Skurrehøjvej 2 8831 Løgstrup,2,1180000.0,09-06-2008,Alm.,12421,4,Villa,95,1973,-1 %
+Svanevej 35 8831 Løgstrup,35,700000.0,02-06-2008,Alm.,5263,5,Sommerhus,133,2010,
+Elkærvej 21 8831 Løgstrup,21,764500.0,02-06-2008,Alm.,3070,5,Stuehus,249,1862,
+Virksundvej 92A 8831 Løgstrup,0,1200000.0,02-06-2008,Alm.,7692,3,Stuehus,156,1878,
+Gormendal 4 8831 Løgstrup,4,1950000.0,30-05-2008,Alm.,17727,4,Sommerhus,110,2001,0 %
+Virksundvej 23 8831 Løgstrup,23,1125000.0,26-05-2008,Alm.,7165,5,Stuehus,157,1868,-4 %
+Østergade 12 8831 Løgstrup,12,1250000.0,07-05-2008,Alm.,10416,4,Villa,120,1934,
+Virksundvej 32 8831 Løgstrup,32,650000.0,08-04-2008,Alm.,7647,3,Villa,85,1862,-6 %
+Fægteborgbakken 23 8831 Løgstrup,23,645000.0,02-04-2008,Alm.,4243,6,Villa,152,2010,
+Rogenstrupvej 22 8831 Løgstrup,22,2295000.0,27-03-2008,Alm.,6270,9,Stuehus,366,1920,0 %
+Svanevej 57 8831 Løgstrup,57,945000.0,21-03-2008,Alm.,11812,4,Sommerhus,80,1967,-4 %
+Strandhaverne 19 8831 Løgstrup,19,475000.0,18-03-2008,Alm.,26388,1,Sommerhus,18,1957,
+Skivevej 109 8831 Løgstrup,109,775000.0,06-03-2008,Alm.,4783,6,Stuehus,162,1920,
+Villumhøj 23 8831 Løgstrup,23,2365000.0,21-02-2008,Alm.,14874,5,Villa,159,2000,-5 %
+Villumhøj 29 8831 Løgstrup,29,786000.0,06-02-2008,Fam.,4792,4,Villa,164,1999,
+Hovedgaden 77 8831 Løgstrup,77,2025000.0,01-02-2008,Alm.,11571,5,Villa,175,1969,-2 %
+Kirkebækvej 152 8831 Løgstrup,152,2145000.0,01-02-2008,Alm.,10725,6,Villa,200,1885,0 %
+Skivevej 136 8831 Løgstrup,136,1100000.0,31-01-2008,Alm.,8943,4,Villa,123,1957,
+Hovedgaden 2 8831 Løgstrup,2,13375000.0,18-01-2008,Alm.,63089,8,Stuehus,212,1950,
+Hovedgaden 75 8831 Løgstrup,75,1725000.0,13-12-2007,Alm.,0,4,Villa,154,1957,-1 %
+Svanevej 50 8831 Løgstrup,50,605000.0,11-12-2007,Alm.,12100,3,Sommerhus,50,1967,
+Borgergade 34 8831 Løgstrup,34,2900000.0,05-12-2007,Alm.,11462,6,Villa,253,2003,-9 %
+Svanevej 33 8831 Løgstrup,33,1480000.0,04-12-2007,Alm.,11562,4,Sommerhus,128,1965,0 %
+Nørresiden 30 8831 Løgstrup,30,1000000.0,01-12-2007,Alm.,12048,4,Sommerhus,83,2010,
+Hjarbækvej 57 8831 Løgstrup,57,2600000.0,26-11-2007,Alm.,14207,6,Stuehus,183,1979,
+Østergade 5 8831 Løgstrup,5,1885000.0,21-11-2007,Alm.,13368,5,Villa,141,1924,
+Kølsenvej 60 8831 Løgstrup,60,1385000.0,21-11-2007,Alm.,10109,6,Villa,137,1910,
+Virksundvej 34 8831 Løgstrup,34,1835000.0,20-11-2007,Alm.,9865,6,Villa,186,1937,0 %
+Rogenstrupvej 5 8831 Løgstrup,5,2600000.0,19-11-2007,Alm.,12149,6,Stuehus,214,2009,
+Vordevej 24 8831 Løgstrup,24,200000.0,11-11-2007,Alm.,1307,6,Villa,153,1929,
+Hjarbækvej 7 8831 Løgstrup,7,1002085.0,30-10-2007,Fam.,5505,6,Lejlighed,182,1929,
+Fægteborgbakken 4 8831 Løgstrup,4,2195875.0,17-10-2007,Alm.,14076,6,Villa,156,2008,
+Møllevang 3 8831 Løgstrup,3,1425000.0,15-10-2007,Alm.,7421,5,Villa,192,1969,
+Bavnevej 23 8831 Løgstrup,23,700000.0,11-10-2007,Alm.,2834,6,Villa,247,2009,
+Svanevej 45 8831 Løgstrup,45,289000.0,10-10-2007,Fam.,12565,2,Sommerhus,23,1970,
+Anderslevgårdvej 8 8831 Løgstrup,8,2080000.0,09-10-2007,Alm.,14647,3,Villa,142,1994,
+Lærkebakken 130 8831 Løgstrup,130,2085000.0,05-10-2007,Alm.,14087,6,Villa,148,2012,0 %
+Borgergade 47 8831 Løgstrup,47,350000.0,28-09-2007,Alm.,2083,6,Villa,168,2009,
+Sejrsmosevej 2 8831 Løgstrup,2,3950000.0,20-09-2007,Alm.,26333,4,Stuehus,150,1914,
+Svanevej 55 8831 Løgstrup,55,655000.0,10-09-2007,Alm.,6968,4,Sommerhus,94,2012,
+Borgergade 45 8831 Løgstrup,45,2320000.0,06-09-2007,Alm.,14967,5,Villa,155,1997,
+Lærkebakken 21 8831 Løgstrup,21,1550000.0,03-09-2007,Alm.,11481,4,Villa,135,1980,
+Rogenstrupvej 3B 8831 Løgstrup,0,2175000.0,30-08-2007,Alm.,11387,4,Villa,191,1947,-3 %
+Fægteborgbakken 33 8831 Løgstrup,33,662500.0,24-08-2007,Alm.,3785,5,Villa,175,2009,
+Skolegade 1A 8831 Løgstrup,0,1060000.0,15-08-2007,Alm.,9059,4,Villa,117,1978,
+Virksundvej 56 8831 Løgstrup,56,1635000.0,14-08-2007,Alm.,7822,7,Villa,209,1927,
+Dalgasmindevej 5 8831 Løgstrup,5,425000.0,14-08-2007,Alm.,2672,5,Villa,159,2012,
+Blishønevej 1B 8831 Løgstrup,0,1475000.0,13-07-2007,Alm.,20486,4,Sommerhus,72,1964,-13 %
+Romlundvej 54 8831 Løgstrup,54,1935000.0,10-07-2007,Alm.,10750,5,Villa,180,1907,
+Virksundvej 69 8831 Løgstrup,69,650000.0,10-07-2007,Alm.,4710,6,Villa,138,1943,
+Virksundvej 101 8831 Løgstrup,101,650000.0,05-07-2007,Alm.,6372,3,Villa,102,1961,
+Villumhøj 40 8831 Løgstrup,40,2550000.0,01-07-2007,Alm.,13563,6,Villa,188,2006,
+Fægteborgbakken 46 8831 Løgstrup,46,460000.0,16-06-2007,Alm.,2584,6,Villa,178,2010,
+Møllevang 10 8831 Løgstrup,10,1245000.0,14-06-2007,Alm.,11116,4,Villa,112,1969,
+Hovedgaden 81 8831 Løgstrup,81,1150000.0,06-06-2007,Alm.,11734,3,Villa,98,1957,-2 %
+Strandvejen 58 8831 Løgstrup,58,790000.0,22-05-2007,Alm.,14905,3,Sommerhus,53,1957,
+Strandhaverne 6 8831 Løgstrup,6,730000.0,22-05-2007,Fam.,7765,3,Sommerhus,94,1930,
+Gammelstrupvej 17 8831 Løgstrup,17,2100000.0,15-05-2007,Alm.,24705,5,Stuehus,85,1910,
+Trenmosevej 18 8831 Løgstrup,18,275000.0,11-05-2007,Alm.,1833,5,Villa,150,2008,
+Ravnehøjvej 4 8831 Løgstrup,4,1624000.0,09-05-2007,Alm.,10545,4,Stuehus,154,1920,
+Kvolsvej 21 8831 Løgstrup,21,514980.0,06-05-2007,Alm.,2429,5,Stuehus,212,1920,
+Fiskbækvej 14 8831 Løgstrup,14,775000.0,04-04-2007,Alm.,7908,4,Villa,98,1880,
+Hovedgaden 85 8831 Løgstrup,85,695000.0,30-03-2007,Alm.,8687,3,Villa,80,2014,
+Vordevej 48 8831 Løgstrup,48,4010000.0,30-03-2007,Alm.,13972,9,Villa,287,1920,
+Kølsenvej 46 8831 Løgstrup,46,515000.0,21-03-2007,Alm.,3344,6,Stuehus,154,1888,-60 %
+Anderslevgårdvej 10 8831 Løgstrup,10,1275000.0,20-03-2007,Alm.,11086,4,Villa,115,1985,
+Ladehøjvej 40 8831 Løgstrup,40,1025000.0,08-03-2007,Alm.,8266,4,Villa,124,1973,
+Virksundvej 47A 8831 Løgstrup,0,2500000.0,08-03-2007,Fam.,9765,5,Villa,256,1935,
+Kølsenvej 45 8831 Løgstrup,45,1375000.0,01-03-2007,Alm.,10110,6,Villa,136,1972,
+Fægteborgbakken 35 8831 Løgstrup,35,412000.0,25-02-2007,Alm.,2168,7,Villa,190,2008,
+Bollerhøjvej 5 8831 Løgstrup,5,1795000.0,16-02-2007,Alm.,10558,7,Villa,170,1973,
+Fægteborgbakken 5 8831 Løgstrup,5,2190000.0,10-02-2007,Alm.,14897,6,Villa,147,2008,14 %
+Rishøjvej 5 8831 Løgstrup,5,925000.0,09-02-2007,Alm.,8333,4,Villa,111,1969,
+Østergade 32 8831 Løgstrup,32,562394.0,31-01-2007,Andet,3514,6,Villa,160,1971,
+Sejrshøje 5 8831 Løgstrup,5,1520000.0,29-01-2007,Alm.,8260,7,Villa,184,1974,
+Jelshøjvej 7 8831 Løgstrup,7,1325000.0,28-01-2007,Alm.,14095,4,Villa,94,1969,0 %
+Svanevej 39 8831 Løgstrup,39,900000.0,25-01-2007,Alm.,10975,3,Sommerhus,82,1964,
+Fjordvej 5 8831 Løgstrup,5,785000.0,23-01-2007,Alm.,12868,2,Villa,61,1870,
+Virksundvej 45 8831 Løgstrup,45,9000000.0,19-01-2007,Fam.,41860,5,Stuehus,215,1920,
+Hjarbækvej 31A 8831 Løgstrup,0,464698.0,15-01-2007,Alm.,2655,5,Villa,175,1932,
+Fægteborgbakken 37 8831 Løgstrup,37,420000.0,10-01-2007,Alm.,2079,7,Villa,202,2010,
+Storhøjvej 11 8831 Løgstrup,11,1240000.0,22-12-2006,Alm.,5990,8,Villa,207,1970,
+Vældgaardvej 13 8831 Løgstrup,13,1650000.0,15-12-2006,Alm.,13636,5,Villa,121,2007,
+Trenmosevej 11 8831 Løgstrup,11,825000.0,10-11-2006,Alm.,6297,4,Villa,131,1975,
+Hovedgaden 63 8831 Løgstrup,63,500000.0,03-11-2006,Alm.,2941,6,Villa,170,1918,
+Hovedgaden 65 8831 Løgstrup,65,35000000.0,03-11-2006,Alm.,309734,3,Villa,113,1925,
+Sønderdalvej 6 8831 Løgstrup,6,1135000.0,17-10-2006,Alm.,11127,3,Villa,102,1887,
+Hovedgaden 79 8831 Løgstrup,79,1595000.0,13-10-2006,Alm.,12658,3,Villa,126,1955,
+Svanevej 51 8831 Løgstrup,51,374000.0,10-10-2006,Fam.,0,2,Sommerhus,61,1966,
+Brunbankevej 56 8831 Løgstrup,56,4200000.0,03-10-2006,Alm.,24852,6,Stuehus,169,1970,
+Strandhaverne 1 8831 Løgstrup,1,295000.0,23-09-2006,Alm.,3881,4,Sommerhus,76,2009,
+Fægteborgbakken 7 8831 Løgstrup,7,1972500.0,20-09-2006,Alm.,13989,6,Villa,141,2007,
+Fægteborgbakken 17 8831 Løgstrup,17,2338809.0,14-09-2006,Alm.,16947,4,Villa,138,2007,
+Østergade 17 8831 Løgstrup,17,1050000.0,07-09-2006,Alm.,9051,3,Villa,116,1965,
+Sejrsmosevej 4 8831 Løgstrup,4,1250000.0,06-09-2006,Alm.,6830,5,Stuehus,183,2011,
+Hejrevej 2 8831 Løgstrup,2,915000.0,06-09-2006,Alm.,0,5,Sommerhus,92,1972,
+Hovedgaden 19 8831 Løgstrup,19,800000.0,04-09-2006,Alm.,0,4,Villa,133,1951,
+Jelshøjvej 6 8831 Løgstrup,6,1500000.0,31-08-2006,Alm.,8522,5,Villa,176,1968,
+Villumhøj 11 8831 Løgstrup,11,1965000.0,07-08-2006,Alm.,13458,6,Villa,146,1999,
+Fægteborgbakken 6 8831 Løgstrup,6,415000.0,28-07-2006,Alm.,2331,7,Villa,178,2007,
+Skovledet 5 8831 Løgstrup,5,1325000.0,24-07-2006,Alm.,7886,6,Villa,168,1965,
+Fægteborgbakken 32 8831 Løgstrup,32,2194000.0,18-07-2006,Alm.,14246,5,Villa,154,2007,
+Vældgaardvej 5 8831 Løgstrup,5,325000.0,11-07-2006,Alm.,2600,4,Villa,125,2007,
+Svanevej 47 8831 Løgstrup,47,1300000.0,10-07-2006,Alm.,0,3,Sommerhus,65,1966,
+Vildandvej 2 8831 Løgstrup,2,760000.0,05-07-2006,Alm.,0,3,Sommerhus,87,1967,
+Kølsenvej 17 8831 Løgstrup,17,750000.0,30-06-2006,Alm.,8620,5,Villa,87,1960,
+Fægteborgbakken 28 8831 Løgstrup,28,395000.0,29-06-2006,Alm.,2904,4,Villa,136,2007,
+Fægteborgbakken 34 8831 Løgstrup,34,360000.0,29-06-2006,Alm.,1865,6,Villa,193,2008,
+Fægteborgbakken 14 8831 Løgstrup,14,380000.0,29-06-2006,Alm.,1727,6,Villa,220,2009,
+Fægteborgbakken 40 8831 Løgstrup,40,388000.0,29-06-2006,Alm.,2323,5,Villa,167,2007,
+Fægteborgbakken 36 8831 Løgstrup,36,388000.0,29-06-2006,Alm.,2552,4,Villa,152,2008,
+Bollervej 4 8831 Løgstrup,4,1800000.0,27-06-2006,Alm.,8612,5,Stuehus,209,1920,
+Sønderdalvej 5 8831 Løgstrup,5,880000.0,08-06-2006,Alm.,8800,3,Villa,100,1948,
+Fægteborgbakken 12 8831 Løgstrup,12,2516300.0,21-05-2006,Alm.,12970,5,Villa,194,2007,
+Strandvejen 66 8831 Løgstrup,66,416500.0,11-05-2006,Fam.,8166,3,Sommerhus,51,1960,
+Fjordvej 14 8831 Løgstrup,14,800000.0,09-05-2006,Alm.,10526,4,Sommerhus,76,1976,
+Østergade 60 8831 Løgstrup,60,975000.0,26-04-2006,Alm.,8478,4,Villa,115,1962,
+Virksundvej 25 8831 Løgstrup,25,90000.0,18-04-2006,Alm.,1097,2,Villa,82,2011,
+Brændhøje 2 8831 Løgstrup,2,1065000.0,11-04-2006,Alm.,6656,5,Villa,160,1973,
+Vordevej 14 8831 Løgstrup,14,1120000.0,07-04-2006,Alm.,11089,4,Villa,101,2000,
+Romlundvej 36A 8831 Løgstrup,0,1240000.0,06-04-2006,Alm.,9763,5,Villa,127,1934,
+Dragshøjvej 8 8831 Løgstrup,8,1250000.0,06-04-2006,Alm.,8116,4,Villa,154,1967,
+Sejrshøje 12 8831 Løgstrup,12,1162500.0,03-04-2006,Alm.,7698,5,Villa,151,1971,
+Fægteborgbakken 24 8831 Løgstrup,24,355000.0,31-03-2006,Alm.,2177,5,Villa,163,2008,
+Ladehøjvej 2 8831 Løgstrup,2,1785000.0,28-03-2006,Alm.,8113,6,Villa,220,1973,
+Østergade 8 8831 Løgstrup,8,735000.0,27-03-2006,Alm.,6074,3,Villa,121,1930,
+Fægteborgbakken 22 8831 Løgstrup,22,345000.0,27-03-2006,Alm.,2379,5,Villa,145,2008,
+Fægteborgbakken 42 8831 Løgstrup,42,372000.0,27-03-2006,Alm.,2162,5,Villa,172,2006,
+Fægteborgbakken 19 8831 Løgstrup,19,360000.0,27-03-2006,Alm.,2236,5,Villa,161,2007,
+Fægteborgbakken 25 8831 Løgstrup,25,345000.0,27-03-2006,Alm.,2240,5,Villa,154,2008,
+Fægteborgbakken 16 8831 Løgstrup,16,375000.0,26-03-2006,Alm.,2419,5,Villa,155,2006,
+Strandvejen 46 8831 Løgstrup,46,225000.0,20-03-2006,Fam.,3308,2,Sommerhus,68,1950,
+Fægteborgbakken 29 8831 Løgstrup,29,388000.0,20-03-2006,Alm.,2120,6,Villa,183,2007,
+Fægteborgbakken 27 8831 Løgstrup,27,372000.0,17-03-2006,Alm.,2354,5,Villa,158,2009,
+Hjarbækvej 1A 8831 Løgstrup,0,4000000.0,06-03-2006,Alm.,20618,6,Villa,194,1847,
+Fægteborgbakken 31 8831 Løgstrup,31,400000.0,28-02-2006,Alm.,1913,5,Villa,209,2008,
+Fægteborgbakken 38 8831 Løgstrup,38,372000.0,28-02-2006,Alm.,2066,6,Villa,180,2008,
+Anderslevgårdvej 31 8831 Løgstrup,31,1150000.0,23-02-2006,Alm.,12777,3,Rækkehus,90,2006,
+Fægteborgbakken 20 8831 Løgstrup,20,345000.0,20-02-2006,Alm.,2379,4,Villa,145,2008,
+Møllevang 8 8831 Løgstrup,8,1695000.0,20-02-2006,Alm.,10727,4,Villa,158,1969,
+Hjarbækvej 37 8831 Løgstrup,37,900000.0,15-02-2006,Alm.,7031,4,Villa,128,1940,
+Ørnehøjvej 3 8831 Løgstrup,3,1400000.0,13-02-2006,Alm.,10218,5,Villa,137,1974,
+Østergade 9 8831 Løgstrup,9,1375000.0,26-01-2006,Alm.,13095,6,Villa,105,1957,
+Tårupgårdvej 4 8831 Løgstrup,4,1715000.0,26-01-2006,Alm.,10993,3,Stuehus,156,1936,
+Knudbyvej 12 8831 Løgstrup,12,1709792.0,11-01-2006,Alm.,0,6,Stuehus,262,1930,
+Østergade 62 8831 Løgstrup,62,1200000.0,10-01-2006,Alm.,21052,1,Lejlighed,57,1964,
+Snabevej 1 8831 Løgstrup,1,650000.0,01-01-2006,Alm.,6770,3,Villa,96,1955,
+Strandhaverne 31 8831 Løgstrup,31,442000.0,24-12-2005,Fam.,7366,3,Sommerhus,60,1931,
+Villumhøj 5 8831 Løgstrup,5,1350000.0,22-12-2005,Alm.,10714,5,Villa,126,2000,
+Ladehøjvej 13 8831 Løgstrup,13,1295000.0,15-12-2005,Alm.,8409,5,Villa,154,1973,
+Anderslevgårdvej 29 8831 Løgstrup,29,1350000.0,14-12-2005,Alm.,12272,4,Rækkehus,110,2006,
+Villumhøj 18 8831 Løgstrup,18,1983980.0,08-12-2005,Alm.,11272,5,Villa,176,2006,
+Strandhaverne 23 8831 Løgstrup,23,450000.0,03-12-2005,Alm.,0,3,Sommerhus,60,1940,
+Trenmosevej 7 8831 Løgstrup,7,850000.0,24-11-2005,Alm.,6538,4,Villa,130,1966,
+Hovedgaden 47 8831 Løgstrup,47,1265000.0,16-11-2005,Alm.,6950,6,Villa,182,1911,
+Vordevej 2 8831 Løgstrup,2,1095000.0,15-11-2005,Alm.,7156,5,Villa,153,1962,
+Virksundvej 146 8831 Løgstrup,146,300000.0,11-11-2005,Alm.,0,6,Villa,182,1836,
+Bavnevej 33 8831 Løgstrup,33,1020000.0,03-11-2005,Alm.,7285,5,Stuehus,140,1865,
+Klostervej 24 8831 Løgstrup,24,540000.0,01-11-2005,Alm.,2934,5,Villa,184,2008,
+Bavnevej 47 8831 Løgstrup,47,13500000.0,25-10-2005,Alm.,27217,10,Stuehus,496,1974,
+Skolegade 52 8831 Løgstrup,52,825000.0,12-10-2005,Alm.,6875,4,Villa,120,1974,
+Brændhøje 5 8831 Løgstrup,5,1350000.0,05-10-2005,Alm.,7336,4,Villa,184,1970,
+Ladehøjvej 30 8831 Løgstrup,30,1175000.0,29-09-2005,Alm.,6871,5,Villa,171,1973,
+Virksundvej 174A 8831 Løgstrup,0,1432500.0,29-09-2005,Alm.,9124,5,Stuehus,157,1986,
+Ekkodalen 13 8831 Løgstrup,13,1820000.0,28-09-2005,Alm.,10224,5,Villa,178,1976,
+Bavnevej 41D 8831 Løgstrup,0,1030000.0,26-09-2005,Alm.,8046,3,Villa,128,1980,
+Vældgaardvej 7 8831 Løgstrup,7,250000.0,21-09-2005,Alm.,1923,2,Villa,130,2008,
+Rogenstrupvej 19 8831 Løgstrup,19,445000.0,14-09-2005,Auktion,5361,3,Villa,83,1954,
+Villumhøj 16 8831 Løgstrup,16,250000.0,08-08-2005,Alm.,1453,5,Villa,172,2006,
+Kvostedvej 15 8831 Løgstrup,15,1100000.0,01-08-2005,Alm.,10377,6,Villa,106,1969,
+Hejrevej 8 8831 Løgstrup,8,950000.0,21-07-2005,Fam.,15833,3,Sommerhus,60,1972,
+Hjarbækvej 8 8831 Løgstrup,8,2050000.0,19-07-2005,Alm.,9447,6,Villa,217,1900,
+Pamhulevej 9 8831 Løgstrup,9,879000.0,15-07-2005,Alm.,25114,2,Sommerhus,35,1935,
+Gormendal 23 8831 Løgstrup,23,350000.0,13-07-2005,Alm.,2592,4,Sommerhus,135,2008,
+Rylevej 6 8831 Løgstrup,6,350000.0,30-06-2005,Alm.,3431,4,Sommerhus,102,2013,
+Lærkebakken 35 8831 Løgstrup,35,1455000.0,29-06-2005,Alm.,10543,5,Villa,138,1997,
+Bavnevej 21 8831 Løgstrup,21,1430000.0,24-06-2005,Alm.,9050,5,Villa,158,1910,
+Gormendal 22 8831 Løgstrup,22,1400000.0,16-06-2005,Alm.,23333,4,Sommerhus,60,1949,
+Villumhøj 2 8831 Løgstrup,2,240000.0,05-06-2005,Alm.,1481,5,Villa,162,2007,
+Virksundvej 114 8831 Løgstrup,114,560000.0,31-05-2005,Alm.,3943,4,Villa,142,1880,
+Strandvejen 56 8831 Løgstrup,56,440000.0,20-05-2005,Alm.,0,4,Sommerhus,115,1960,
+Storhøjvej 18 8831 Løgstrup,18,832803.0,20-05-2005,Fam.,6770,3,Villa,123,1970,
+Virksundvej 62 8831 Løgstrup,62,1900000.0,19-05-2005,Alm.,0,6,Stuehus,375,1936,
+Svanevej 27 8831 Løgstrup,27,875000.0,18-05-2005,Alm.,10294,3,Sommerhus,85,1973,
+Kvolsvej 33 8831 Løgstrup,33,1480000.0,02-05-2005,Alm.,7437,6,Stuehus,199,2007,
+Vildandvej 4 8831 Løgstrup,4,660000.0,26-04-2005,Alm.,9295,3,Sommerhus,71,1969,
+Knudbyvej 16B 8831 Løgstrup,0,75000.0,19-04-2005,Andet,294,5,Stuehus,255,1912,
+"Bavnevej 41B, 1 8831 Løgstrup",1,655000.0,18-04-2005,Alm.,7197,4,Lejlighed,91,1907,
+Lærkebakken 30 8831 Løgstrup,30,1395000.0,14-04-2005,Alm.,0,6,Villa,177,1986,
+Gormendal 15 8831 Løgstrup,15,875000.0,06-04-2005,Alm.,0,3,Sommerhus,86,1980,
+Svanevej 75 8831 Løgstrup,75,590000.0,05-04-2005,Alm.,0,5,Sommerhus,112,1967,
+Strandvejen 84 8831 Løgstrup,84,275000.0,01-04-2005,Fam.,4741,3,Sommerhus,58,2009,
+Ekkodalen 10 8831 Løgstrup,10,815000.0,01-04-2005,Alm.,7342,3,Rækkehus,111,1980,
+Vordevej 6 8831 Løgstrup,6,950000.0,29-03-2005,Alm.,8482,4,Villa,112,1964,
+Romlundvej 24 8831 Løgstrup,24,1900000.0,18-03-2005,Alm.,8675,8,Villa,219,1969,
+Villumhøj 14 8831 Løgstrup,14,250000.0,15-03-2005,Alm.,1366,6,Villa,183,2006,
+Rishøjvej 10 8831 Løgstrup,10,1184000.0,15-03-2005,Alm.,10033,4,Villa,118,1970,
+Virksundvej 104 8831 Løgstrup,104,430000.0,11-03-2005,Alm.,0,8,Stuehus,195,1952,
+Svanevej 65 8831 Løgstrup,65,300000.0,02-03-2005,Alm.,2702,4,Sommerhus,111,2009,
+Hulager 3 8831 Løgstrup,3,2000000.0,11-02-2005,Alm.,18348,4,Sommerhus,109,1992,
+Bollervej 12 8831 Løgstrup,12,2400000.0,10-02-2005,Alm.,13186,6,Stuehus,182,1910,
+Vældgaardvej 3B 8831 Løgstrup,0,1000000.0,10-02-2005,Alm.,10204,4,Rækkehus,98,2005,
+Dragshøjvej 3 8831 Løgstrup,3,329026.0,02-02-2005,Fam.,0,4,Villa,124,1969,
+Vildandvej 11 8831 Løgstrup,11,210000.0,18-01-2005,Andet,4038,3,Sommerhus,52,1969,
+Hjarbækvej 14 8831 Løgstrup,14,1425000.0,10-01-2005,Alm.,9500,6,Villa,150,1902,
+Borgergade 28 8831 Løgstrup,28,280000.0,10-12-2004,Alm.,1428,5,Villa,196,2008,
+Vældgaardvej 1 8831 Løgstrup,1,1530000.0,10-12-2004,Alm.,7574,7,Villa,202,1912,
+Strandvejen 80 8831 Løgstrup,80,275000.0,09-12-2004,Alm.,11458,2,Sommerhus,24,1960,
+Villumhøj 12 8831 Løgstrup,12,250000.0,06-12-2004,Alm.,1497,5,Villa,167,2007,
+Villumhøj 19 8831 Løgstrup,19,744520.0,30-11-2004,Andet,4682,5,Villa,159,1998,
+Romlundvej 48 8831 Løgstrup,48,1824660.0,29-11-2004,Alm.,0,8,Villa,263,1924,
+Vældgaardvej 9 8831 Løgstrup,9,250000.0,29-11-2004,Alm.,1479,5,Villa,169,2008,
+Ravnehøjvej 8 8831 Løgstrup,8,950000.0,11-11-2004,Alm.,0,8,Stuehus,261,1976,
+Fjordvej 25 8831 Løgstrup,25,342000.0,10-11-2004,Fam.,3137,3,Sommerhus,109,1971,
+Ørregårdsvej 10 8831 Løgstrup,10,782319.0,08-11-2004,Alm.,8889,4,Villa,88,1962,
+Kølsenvej 52 8831 Løgstrup,52,735000.0,28-10-2004,Alm.,5287,4,Villa,139,1936,
+Borgergade 22 8831 Løgstrup,22,238000.0,07-10-2004,Alm.,1641,5,Villa,145,2007,
+Villumhøj 3 8831 Løgstrup,3,1705000.0,24-09-2004,Alm.,10656,5,Villa,160,2000,
+Strandvejen 48 8831 Løgstrup,48,280000.0,03-09-2004,Alm.,0,3,Sommerhus,39,1940,
+Strandvejen 10 8831 Løgstrup,10,935873.0,02-09-2004,Andet,8431,4,Villa,111,1939,
+Brunbankevej 60 8831 Løgstrup,60,2100000.0,27-07-2004,Fam.,10937,7,Stuehus,192,1910,
+Villumhøj 60 8831 Løgstrup,60,260000.0,05-07-2004,Alm.,1420,5,Villa,183,2005,
+Anderslevgårdvej 13 8831 Løgstrup,13,875000.0,30-06-2004,Alm.,10057,4,Rækkehus,87,1985,
+Ørnehøjvej 4 8831 Løgstrup,4,985000.0,07-06-2004,Alm.,7695,4,Villa,128,1973,
+Fægteborgvej 12 8831 Løgstrup,12,790000.0,01-06-2004,Alm.,0,6,Villa,157,1973,
+Strandhaverne 10 8831 Løgstrup,10,887500.0,06-05-2004,Alm.,4393,3,Sommerhus,202,2010,
+Svanevej 59 8831 Løgstrup,59,575000.0,28-04-2004,Alm.,9426,4,Sommerhus,61,1968,
+Villumhøj 58 8831 Løgstrup,58,255000.0,27-04-2004,Alm.,1465,5,Villa,174,2005,
+Strandvejen 35 8831 Løgstrup,35,900000.0,26-04-2004,Alm.,17307,3,Sommerhus,52,1995,
+Sejrshøje 4 8831 Løgstrup,4,840000.0,24-04-2004,Alm.,6774,4,Villa,124,1976,
+Gormendal 2 8831 Løgstrup,2,651507.0,24-04-2004,Andet,5050,4,Sommerhus,129,2004,
+Gormendal 17 8831 Løgstrup,17,1400000.0,23-04-2004,Alm.,12612,5,Sommerhus,111,2000,
+Kvolsvej 34 8831 Løgstrup,34,1950000.0,21-04-2004,Alm.,7303,7,Stuehus,267,1925,
+Ladehøjvej 16 8831 Løgstrup,16,1205000.0,03-04-2004,Alm.,6085,7,Villa,198,1972,
+Østergade 3 8831 Løgstrup,3,575000.0,31-03-2004,Alm.,0,7,Villa,171,1954,
+Svanevej 54 8831 Løgstrup,54,265000.0,15-03-2004,Alm.,2172,4,Sommerhus,122,2004,
+Sølvmågevej 7 8831 Løgstrup,7,275000.0,15-03-2004,Alm.,1978,3,Sommerhus,139,2011,
+Villumhøj 56 8831 Løgstrup,56,205000.0,04-03-2004,Alm.,1443,5,Villa,142,2004,
+Vordevej 12 8831 Løgstrup,12,1760000.0,01-03-2004,Alm.,7521,6,Villa,234,1969,
+Gormendal 5 8831 Løgstrup,5,120000.0,25-02-2004,Alm.,1395,4,Sommerhus,86,2004,
+Brunbankevej 74 8831 Løgstrup,74,525000.0,18-02-2004,Alm.,2638,7,Villa,199,1905,
+Villumhøj 32 8831 Løgstrup,32,190000.0,12-02-2004,Alm.,1165,5,Villa,163,2005,
+Svanevej 56 8831 Løgstrup,56,475000.0,11-02-2004,Alm.,9134,3,Sommerhus,52,1967,
+Nørresiden 16 8831 Løgstrup,16,450000.0,04-02-2004,Fam.,5625,2,Sommerhus,80,2016,
+Kvolsvej 18 8831 Løgstrup,18,915000.0,19-01-2004,Alm.,0,5,Villa,142,1911,
+Rogenstrupvej 25 8831 Løgstrup,25,1200000.0,18-12-2003,Alm.,0,7,Stuehus,212,1875,
+Skivevej 107 8831 Løgstrup,107,2800000.0,15-12-2003,Alm.,23333,5,Stuehus,120,1875,
+Trenmosevej 9 8831 Løgstrup,9,875000.0,08-12-2003,Alm.,4861,4,Villa,180,1973,
+Pamhulevej 11 8831 Løgstrup,11,211150.0,05-12-2003,Fam.,6032,2,Sommerhus,35,1935,
+Hulhøjvej 1 8831 Løgstrup,1,925000.0,02-12-2003,Alm.,4842,4,Villa,191,1969,
+Gormendal 18 8831 Løgstrup,18,830000.0,01-12-2003,Alm.,10000,4,Sommerhus,83,1980,
+Lærkebakken 9 8831 Løgstrup,9,1194999.0,29-11-2003,Alm.,12193,6,Villa,98,1967,
+Ladehøjvej 26 8831 Løgstrup,26,998000.0,26-11-2003,Alm.,0,7,Villa,184,1973,
+Lærkebakken 16 8831 Løgstrup,16,1512504.0,26-11-2003,Alm.,8845,5,Villa,171,1998,
+Kølsenvej 62 8831 Løgstrup,62,2996888.0,20-11-2003,Alm.,16649,7,Stuehus,180,1897,
+Vældgaardvej 3A 8831 Løgstrup,0,1000604.0,28-10-2003,Alm.,10210,4,Rækkehus,98,2005,
+Svanevej 49 8831 Løgstrup,49,900000.0,24-09-2003,Alm.,10975,4,Sommerhus,82,1966,
+Stensigvej 10 8831 Løgstrup,10,575000.0,19-09-2003,Alm.,2031,7,Stuehus,283,1927,
+Lærkebakken 45 8831 Løgstrup,45,1550000.0,18-09-2003,Alm.,9509,6,Villa,163,2000,
+Kølsenvej 59 8831 Løgstrup,59,1040000.0,08-08-2003,Alm.,4792,9,Villa,217,1928,
+Rylevej 7 8831 Løgstrup,7,720000.0,04-08-2003,Alm.,5853,3,Sommerhus,123,1972,
+Løgstørvej 44 8831 Løgstrup,44,350000.0,29-07-2003,Alm.,0,6,Stuehus,183,1827,
+Rylevej 5 8831 Løgstrup,5,645000.0,29-07-2003,Alm.,5863,4,Sommerhus,110,1976,
+Ravnehøjvej 16 8831 Løgstrup,16,1750000.0,28-07-2003,Alm.,0,10,Stuehus,238,1921,
+Rishøjvej 4 8831 Løgstrup,4,900000.0,28-07-2003,Alm.,5555,4,Villa,162,1972,
+Sønderdalvej 10 8831 Løgstrup,10,970000.0,30-06-2003,Alm.,7698,5,Villa,126,1923,
+Villumhøj 59 8831 Løgstrup,59,1657000.0,27-06-2003,Alm.,10042,5,Villa,165,2002,
+Virksundvej 174C 8831 Løgstrup,0,1900000.0,27-06-2003,Alm.,8597,7,Villa,221,2000,
+Østergade 20 8831 Løgstrup,20,825000.0,25-06-2003,Alm.,7500,4,Villa,110,1966,
+Uglehøjvej 1 8831 Løgstrup,1,2450000.0,25-06-2003,Alm.,15605,4,Stuehus,157,1900,
+Jonshøjvej 2 8831 Løgstrup,2,960000.0,23-06-2003,Alm.,6274,6,Villa,153,1971,
+Fjordvej 10A 8831 Løgstrup,0,145000.0,17-06-2003,Alm.,2071,3,Sommerhus,70,2004,
+Skurrehøjvej 13 8831 Løgstrup,13,680000.0,04-06-2003,Alm.,7234,4,Villa,94,1973,
+Strandvejen 40 8831 Løgstrup,40,555600.0,25-05-2003,Alm.,9921,3,Sommerhus,56,1930,
+Villumhøj 50 8831 Løgstrup,50,240000.0,25-05-2003,Alm.,1371,5,Villa,175,2004,
+Bavnevej 41C 8831 Løgstrup,0,715000.0,15-05-2003,Alm.,4525,6,Lejlighed,158,1907,
+Slagtehusvej 2 8831 Løgstrup,2,212500.0,06-05-2003,Fam.,1700,3,Villa,125,1877,
+Villumhøj 62 8831 Løgstrup,62,240000.0,05-05-2003,Alm.,1325,5,Villa,181,2005,
+Bavnevej 39 8831 Løgstrup,39,1295000.0,05-05-2003,Alm.,8809,4,Villa,147,1921,
+Elkærvej 23 8831 Løgstrup,23,570000.0,26-04-2003,Alm.,6000,2,Villa,95,1870,
+Ravnehøjvej 1 8831 Løgstrup,1,540000.0,10-04-2003,Alm.,4821,3,Villa,112,1925,
+Villumhøj 41 8831 Løgstrup,41,825699.0,04-04-2003,Alm.,5327,5,Villa,155,2001,
+Ravnehøjvej 2 8831 Løgstrup,2,625000.0,03-04-2003,Alm.,4432,5,Villa,141,1937,
+Fiskbækvej 12 8831 Løgstrup,12,850000.0,27-03-2003,Alm.,0,6,Villa,148,1991,
+Rogenstrupvej 36 8831 Løgstrup,36,2400000.0,18-03-2003,Alm.,14201,4,Stuehus,169,1990,
+Fjordvej 18 8831 Løgstrup,18,475000.0,02-03-2003,Alm.,0,6,Sommerhus,115,1977,
+Østergade 21 8831 Løgstrup,21,510000.0,25-02-2003,Fam.,5312,3,Villa,96,1961,
+Brunbankevej 17 8831 Løgstrup,17,364567.0,07-02-2003,Alm.,1804,7,Stuehus,202,1950,
+Gormendal 19 8831 Løgstrup,19,620000.0,01-02-2003,Alm.,8611,4,Sommerhus,72,1976,
+Skivevej 254 8831 Løgstrup,254,8125000.0,29-01-2003,Alm.,45138,8,Stuehus,180,1947,
+Rogenstrupvej 1B 8831 Løgstrup,0,1300000.0,28-01-2003,Alm.,0,4,Stuehus,146,1911,
+Svanevej 16 8831 Løgstrup,16,410000.0,28-01-2003,Alm.,8723,3,Sommerhus,47,1983,
+Kvolsvej 11 8831 Løgstrup,11,940000.0,28-01-2003,Alm.,8318,3,Villa,113,1946,
+Østergade 56 8831 Løgstrup,56,1251250.0,17-12-2002,Alm.,5005,7,Villa,250,1973,
+Anderslevgårdvej 21 8831 Løgstrup,21,720000.0,11-12-2002,Alm.,8181,4,Rækkehus,88,1984,
+Hvidbjergvej 7A 8831 Løgstrup,0,58100.0,11-12-2002,Alm.,374,4,Villa,155,2003,
+Jelshøjvej 8 8831 Løgstrup,8,525000.0,05-12-2002,Fam.,3387,3,Villa,155,1970,
+Vordevej 5 8831 Løgstrup,5,1300000.0,04-12-2002,Alm.,7558,6,Villa,172,1965,
+Kølsenvej 21 8831 Løgstrup,21,501783.0,26-11-2002,Fam.,2951,5,Villa,170,1931,
+Sejrshøje 9 8831 Løgstrup,9,700000.0,21-11-2002,Alm.,5343,4,Villa,131,1970,
+Virksundvej 120 8831 Løgstrup,120,783298.0,11-11-2002,Fam.,3450,5,Villa,227,1936,
+Hjarbækvej 13 8831 Løgstrup,13,860000.0,08-11-2002,Alm.,5243,5,Villa,164,1887,
+Østergade 27A 8831 Løgstrup,0,500000.0,22-10-2002,Alm.,5813,3,Villa,86,1966,
+Lærkebakken 1 8831 Løgstrup,1,984773.0,17-10-2002,Andet,6838,5,Villa,144,1980,
+Rogenstrupvej 7 8831 Løgstrup,7,1450000.0,04-10-2002,Alm.,9539,7,Stuehus,152,1900,
+Sølvmågevej 2 8831 Løgstrup,2,690000.0,03-10-2002,Alm.,8414,5,Sommerhus,82,1974,
+Strandhaverne 29 8831 Løgstrup,29,495000.0,01-10-2002,Alm.,0,4,Sommerhus,86,1933,
+Ekkodalen 12 8831 Løgstrup,12,820000.0,26-09-2002,Alm.,7387,3,Rækkehus,111,1980,
+Stensigvej 12 8831 Løgstrup,12,1509469.0,16-09-2002,Auktion,9553,2,Stuehus,158,2007,
+Strandhaverne 5 8831 Løgstrup,5,340000.0,25-08-2002,Alm.,7727,3,Sommerhus,44,1984,
+Vildandvej 9 8831 Løgstrup,9,403664.0,08-08-2002,Alm.,5382,4,Sommerhus,75,1972,
+Hejrevej 6 8831 Løgstrup,6,1300000.0,27-06-2002,Alm.,10236,4,Sommerhus,127,1972,
+Villumhøj 36 8831 Løgstrup,36,220000.0,17-06-2002,Alm.,1383,5,Villa,159,2003,
+Gormendal 11 8831 Løgstrup,11,300000.0,17-06-2002,Alm.,2803,4,Sommerhus,107,1975,
+Stensigvej 5 8831 Løgstrup,5,1000000.0,04-06-2002,Alm.,3952,9,Stuehus,253,1914,
+Strandhaverne 21 8831 Løgstrup,21,420000.0,31-05-2002,Alm.,8571,2,Sommerhus,49,1936,
+Svanevej 26A 8831 Løgstrup,0,550000.0,30-05-2002,Alm.,9482,3,Sommerhus,58,1965,
+Lærkebakken 134 8831 Løgstrup,134,1165000.0,22-05-2002,Alm.,8961,4,Villa,130,1995,
+Gormendal 21 8831 Løgstrup,21,475000.0,01-05-2002,Alm.,3958,4,Sommerhus,120,1973,
+Skurrehøjvej 21 8831 Løgstrup,21,726024.0,16-04-2002,Alm.,6600,3,Villa,110,1970,
+Trenmosevej 6 8831 Løgstrup,6,1250000.0,09-04-2002,Alm.,5506,7,Villa,227,1980,
+Vordevej 4 8831 Løgstrup,4,737912.0,04-04-2002,Alm.,6769,4,Villa,109,1965,
+Hulager 5 8831 Løgstrup,5,1120000.0,03-04-2002,Alm.,10769,3,Sommerhus,104,1913,
+Borgergade 33 8831 Løgstrup,33,735000.0,27-03-2002,Alm.,0,3,Villa,117,1976,
+Borgergade 65 8831 Løgstrup,65,862500.0,23-03-2002,Alm.,6341,5,Villa,136,1980,
+Villumhøj 44 8831 Løgstrup,44,205000.0,21-02-2002,Alm.,1404,4,Villa,146,2002,
+Villumhøj 43 8831 Løgstrup,43,1597300.0,19-02-2002,Alm.,9799,5,Villa,163,2002,
+Anderslevgårdvej 5 8831 Løgstrup,5,995000.0,13-02-2002,Alm.,0,5,Villa,140,1986,
+Romlundvej 12 8831 Løgstrup,12,480000.0,30-01-2002,Alm.,5853,3,Villa,82,1957,
+Hovedgaden 83 8831 Løgstrup,83,793000.0,17-01-2002,Alm.,7209,3,Villa,110,1952,
+Romlundvej 1 8831 Løgstrup,1,1216080.0,02-01-2002,Alm.,9575,5,Villa,127,1953,
+Hovedgaden 18 8831 Løgstrup,18,530000.0,31-12-2001,Alm.,0,4,Villa,142,1893,
+Virksundvej 102 8831 Løgstrup,102,350000.0,18-12-2001,Alm.,2108,4,Villa,166,2002,
+Ekkodalen 11 8831 Løgstrup,11,1062000.0,28-11-2001,Alm.,7478,5,Villa,142,1977,
+Virksundvej 28 8831 Løgstrup,28,715000.0,19-11-2001,Fam.,0,5,Villa,186,1946,
+Villumhøj 34 8831 Løgstrup,34,200000.0,14-11-2001,Alm.,975,5,Villa,205,2003,
+Kurgårdvej 1 8831 Løgstrup,1,1463950.0,12-11-2001,Fam.,11902,4,Stuehus,123,1949,
+Hovedgaden 42 8831 Løgstrup,42,735000.0,08-11-2001,Alm.,8258,4,Rækkehus,89,1983,
+Svanevej 6 8831 Løgstrup,6,87500.0,05-11-2001,Fam.,3240,3,Sommerhus,27,1962,
+Fjordvej 15 8831 Løgstrup,15,416500.0,01-11-2001,Fam.,2636,5,Villa,158,2015,
+Ekkodalen 14 8831 Løgstrup,14,930000.0,16-10-2001,Alm.,8454,4,Rækkehus,110,1980,
+Svanevej 31 8831 Løgstrup,31,480000.0,16-08-2001,Alm.,0,5,Sommerhus,101,1966,
+Snabevej 2 8831 Løgstrup,2,560000.0,14-08-2001,Alm.,5283,3,Villa,106,1954,
+Gormendal 29 8831 Løgstrup,29,900420.0,08-08-2001,Alm.,7261,5,Sommerhus,124,1996,
+Rogenstrupvej 4 8831 Løgstrup,4,780000.0,03-08-2001,Alm.,0,4,Villa,140,1989,
+Lærkebakken 26 8831 Løgstrup,26,1515700.0,31-07-2001,Alm.,8661,6,Villa,175,1986,
+Hvidbjergvej 8 8831 Løgstrup,8,3500000.0,30-07-2001,Alm.,18716,6,Stuehus,187,1912,
+Kirkebækvej 184 8831 Løgstrup,184,650000.0,12-07-2001,Alm.,0,5,Stuehus,267,2002,
+Hejrevej 13B 8831 Løgstrup,0,500000.0,11-07-2001,Alm.,0,5,Sommerhus,118,1966,
+Bollervej 1 8831 Løgstrup,1,6006851.0,06-07-2001,Alm.,23931,9,Stuehus,251,1917,
+Brunbankevej 53 8831 Løgstrup,53,1250000.0,17-06-2001,Alm.,0,7,Villa,249,1870,
+Skurrehøjvej 9 8831 Løgstrup,9,1121999.0,11-06-2001,Alm.,7530,6,Villa,149,1973,
+Gormendal 20 8831 Løgstrup,20,350000.0,01-06-2001,Fam.,5223,3,Sommerhus,67,2004,
+Brunbankevej 41 8831 Løgstrup,41,319558.0,22-05-2001,Fam.,1826,6,Villa,175,1894,
+Hedegårdvej 2B 8831 Løgstrup,0,1400000.0,14-05-2001,Fam.,6086,9,Stuehus,230,1860,
+Jonshøjvej 1 8831 Løgstrup,1,297404.0,02-05-2001,Andet,1093,15,Villa,272,1970,
+Jelshøjvej 2 8831 Løgstrup,2,1110000.0,02-05-2001,Alm.,5692,6,Villa,195,1972,
+Gormendal 12 8831 Løgstrup,12,485000.0,30-04-2001,Alm.,3789,5,Sommerhus,128,2006,
+Romlundvej 6 8831 Løgstrup,6,915000.0,27-04-2001,Alm.,4893,6,Villa,187,1942,
+Lærkebakken 24 8831 Løgstrup,24,1120000.0,05-04-2001,Alm.,6021,6,Villa,186,1987,
+Storhøjvej 7 8831 Løgstrup,7,1222751.0,03-04-2001,Alm.,8375,5,Villa,146,1971,
+Bavnevej 20 8831 Løgstrup,20,600000.0,14-03-2001,Alm.,6000,3,Villa,100,1900,
+Ekkodalen 7 8831 Løgstrup,7,1385000.0,07-03-2001,Alm.,5819,5,Villa,238,1968,
+Villumhøj 53 8831 Løgstrup,53,190000.0,01-03-2001,Alm.,1032,5,Villa,184,2002,
+Lærkebakken 146 8831 Løgstrup,146,1385000.0,22-02-2001,Alm.,9551,5,Villa,145,1998,
+"Borgergade 1, 1 8831 Løgstrup",1,1730000.0,16-02-2001,Alm.,15043,4,Villa,115,1905,
+Kurgårdvej 2 8831 Løgstrup,2,312500.0,08-02-2001,Alm.,0,2,Villa,85,1955,
+Kvostedvej 24 8831 Løgstrup,24,2248043.0,05-02-2001,Alm.,0,6,Stuehus,191,1907,
+Jelshøjvej 10 8831 Løgstrup,10,675000.0,16-01-2001,Alm.,7105,4,Villa,95,1971,
+Villumhøj 57 8831 Løgstrup,57,195000.0,02-01-2001,Alm.,942,6,Villa,207,2002,
+Lærkebakken 37 8831 Løgstrup,37,1140000.0,13-12-2000,Alm.,0,6,Villa,164,1991,
+Hulhøjvej 5 8831 Løgstrup,5,851365.0,30-10-2000,Alm.,7214,4,Villa,118,1969,
+Virksundvej 20 8831 Løgstrup,20,1300000.0,26-10-2000,Fam.,0,6,Villa,209,1877,
+Ravnehøjvej 3 8831 Løgstrup,3,1150000.0,28-09-2000,Alm.,6216,5,Stuehus,185,1872,
+Fjordvej 16 8831 Løgstrup,16,290000.0,26-09-2000,Alm.,0,4,Sommerhus,98,1972,
+Skivevej 122 8831 Løgstrup,122,1655115.0,08-09-2000,Alm.,9851,6,Stuehus,168,1932,
+Fiskbækvej 9 8831 Løgstrup,9,995000.0,14-08-2000,Alm.,8155,4,Villa,122,1900,
+Møllegårdsvej 2 8831 Løgstrup,2,889809.0,10-08-2000,Alm.,4943,5,Villa,180,1920,
+Romlundvej 56 8831 Løgstrup,56,1981221.0,07-08-2000,Alm.,5580,9,Stuehus,355,2001,
+Svanevej 53 8831 Løgstrup,53,410000.0,13-07-2000,Alm.,0,4,Sommerhus,112,1973,
+Rogenstrupvej 15B 8831 Løgstrup,0,1728861.0,12-07-2000,Fam.,8558,6,Stuehus,202,1877,
+Villumhøj 55 8831 Løgstrup,55,190000.0,11-07-2000,Alm.,1319,5,Villa,144,2000,
+Strandvejen 29 8831 Løgstrup,29,180000.0,05-07-2000,Alm.,2571,3,Sommerhus,70,2015,
+Sønderdalvej 4 8831 Løgstrup,4,1225000.0,27-06-2000,Fam.,6920,6,Villa,177,1890,
+Fjordvej 10B 8831 Løgstrup,0,112000.0,28-04-2000,Alm.,1836,3,Sommerhus,61,2004,
+Ekkodalen 6 8831 Løgstrup,6,1310685.0,22-04-2000,Alm.,10160,3,Villa,129,1970,
+Hjarbækvej 9 8831 Løgstrup,9,604000.0,19-04-2000,Fam.,3573,5,Villa,169,1890,
+Fægteborgvej 14 8831 Løgstrup,14,780000.0,14-03-2000,Alm.,6190,4,Villa,126,1973,
+Nørresiden 5 8831 Løgstrup,5,1325000.0,02-03-2000,Alm.,11521,3,Villa,115,1993,
+Villumhøj 45 8831 Løgstrup,45,190000.0,25-02-2000,Alm.,1310,5,Villa,145,2000,
+Fjordvej 19 8831 Løgstrup,19,350000.0,21-02-2000,Alm.,0,5,Sommerhus,137,1967,
+Hørhøjvej 1 8831 Løgstrup,1,1005000.0,10-02-2000,Alm.,8237,3,Villa,122,1974,
+Strandvejen 44 8831 Løgstrup,44,85000.0,28-01-2000,Fam.,1089,3,Sommerhus,78,2004,
+Hjarbækvej 32 8831 Løgstrup,32,734510.0,27-01-2000,Alm.,8252,3,Villa,89,1930,
+Ravnehøjvej 12 8831 Løgstrup,12,160930.0,26-01-2000,Alm.,2117,3,Stuehus,76,1922,
+Bavnevej 10 8831 Løgstrup,10,1249000.0,19-01-2000,Alm.,0,6,Villa,181,1986,
+Villumhøj 47 8831 Løgstrup,47,190000.0,07-01-2000,Alm.,1061,5,Villa,179,2000,
+Stensigvej 7 8831 Løgstrup,7,280773.0,04-01-2000,Alm.,2064,6,Villa,136,1927,
+Kvolsvej 12 8831 Løgstrup,12,460000.0,15-12-1999,Fam.,3309,5,Villa,139,1933,
+Lærkebakken 126 8831 Løgstrup,126,125543.0,07-12-1999,Alm.,729,6,Villa,172,2001,
+Kvostedvej 11 8831 Løgstrup,11,63750.0,25-11-1999,Fam.,724,2,Sommerhus,88,1920,
+Hjarbækvej 33 8831 Løgstrup,33,1088490.0,08-11-1999,Alm.,0,8,Villa,245,1947,
+Bavnevej 22 8831 Løgstrup,22,1131478.0,04-11-1999,Alm.,6321,7,Stuehus,179,1883,
+Skolegade 2 8831 Løgstrup,2,574915.0,19-10-1999,Alm.,4355,5,Villa,132,1931,
+Anderslevgårdvej 17 8831 Løgstrup,17,636658.0,15-10-1999,Alm.,7234,4,Rækkehus,88,1985,
+Bollervej 14 8831 Løgstrup,14,1250000.0,15-10-1999,Alm.,7911,5,Stuehus,158,1923,
+Skivevej 128 8831 Løgstrup,128,550000.0,14-10-1999,Alm.,4330,4,Stuehus,127,1906,
+Romlundvej 22 8831 Løgstrup,22,874177.0,07-09-1999,Alm.,5112,5,Villa,171,1970,
+Dragshøjvej 1 8831 Løgstrup,1,731428.0,31-08-1999,Alm.,8037,4,Villa,91,1969,
+Strandhaverne 27 8831 Løgstrup,27,442800.0,30-08-1999,Alm.,4384,3,Sommerhus,101,1942,
+Rogenstrupvej 14 8831 Løgstrup,14,1200000.0,04-08-1999,Fam.,8108,6,Stuehus,148,1971,
+Virksundvej 94 8831 Løgstrup,94,5560250.0,30-07-1999,Fam.,28224,7,Stuehus,197,1896,
+Knudbyvej 11 8831 Løgstrup,11,3000000.0,30-07-1999,Fam.,16853,4,Stuehus,178,1915,
+Virksundvej 96 8831 Løgstrup,96,325554.0,26-07-1999,Alm.,3970,3,Villa,82,1898,
+Borgergade 61 8831 Løgstrup,61,1275955.0,26-07-1999,Alm.,8450,4,Villa,151,1996,
+Kvostedvej 40 8831 Løgstrup,40,635000.0,23-07-1999,Alm.,0,4,Villa,144,1942,
+Trenmosevej 10 8831 Løgstrup,10,695000.0,19-07-1999,Alm.,6261,4,Villa,111,1980,
+Skolegade 54 8831 Løgstrup,54,830000.0,15-07-1999,Alm.,6587,3,Villa,126,1974,
+Kølsenvej 50 8831 Løgstrup,50,1277000.0,12-07-1999,Alm.,6417,4,Villa,199,1912,
+Gammelstrupvej 21 8831 Løgstrup,21,1200000.0,22-06-1999,Fam.,7547,7,Stuehus,159,1902,
+Kvostedvej 13 8831 Løgstrup,13,1118470.0,17-06-1999,Alm.,4948,7,Stuehus,226,1907,
+Strandvejen 39 8831 Løgstrup,39,360000.0,16-06-1999,Fam.,7346,3,Sommerhus,49,1937,
+Lærkebakken 32 8831 Løgstrup,32,974000.0,03-06-1999,Alm.,7109,6,Villa,137,1980,
+Østergade 14 8831 Løgstrup,14,709236.0,31-05-1999,Alm.,6332,4,Villa,112,1968,
+Østergade 47 8831 Løgstrup,47,550000.0,31-05-1999,Alm.,3481,4,Villa,158,1966,
+Østergade 11 8831 Løgstrup,11,75000.0,27-05-1999,Fam.,735,3,Villa,102,1966,
+Lærkebakken 140 8831 Løgstrup,140,110000.0,25-05-1999,Alm.,748,5,Villa,147,1999,
+Lærkebakken 136 8831 Løgstrup,136,120000.0,03-05-1999,Alm.,648,5,Villa,185,2001,
+Bavnevej 3 8831 Løgstrup,3,1091500.0,27-04-1999,Alm.,7909,4,Villa,138,1850,
+Østergade 37 8831 Løgstrup,37,595000.0,22-04-1999,Alm.,5666,3,Villa,105,1964,
+Nørresiden 9 8831 Løgstrup,9,1350000.0,15-04-1999,Alm.,7584,5,Villa,178,1910,
+Virksundvej 98 8831 Løgstrup,98,1482059.0,12-04-1999,Alm.,6767,5,Villa,219,1896,
+Villumhøj 7 8831 Løgstrup,7,155000.0,08-04-1999,Alm.,968,5,Villa,160,1999,
+Brændalsvej 3 8831 Løgstrup,3,120000.0,14-03-1999,Alm.,1034,3,Villa,116,1999,
+Rogenstrupvej 10 8831 Løgstrup,10,658122.0,09-02-1999,Alm.,0,6,Stuehus,121,1916,
+Lærkebakken 18 8831 Løgstrup,18,408261.0,12-01-1999,Fam.,3292,4,Villa,124,1989,
+Virksundvej 154 8831 Løgstrup,154,317950.0,21-12-1998,Alm.,3532,3,Villa,90,1916,
+Sejrshøje 26 8831 Løgstrup,26,1192000.0,26-11-1998,Alm.,5596,6,Villa,213,1979,
+Borgergade 59 8831 Løgstrup,59,895000.0,30-10-1998,Alm.,9132,4,Villa,98,1998,
+Lærkebakken 6 8831 Løgstrup,6,43320.0,20-10-1998,Alm.,408,4,Villa,106,1999,
+Hejrevej 15 8831 Løgstrup,15,470000.0,01-09-1998,Alm.,0,3,Sommerhus,129,1966,
+Vildandvej 15 8831 Løgstrup,15,148750.0,14-08-1998,Fam.,2324,3,Sommerhus,64,1974,
+Romlundvej 46 8831 Løgstrup,46,1132000.0,11-08-1998,Alm.,7700,5,Villa,147,1937,
+Borgergade 29 8831 Løgstrup,29,781000.0,03-08-1998,Alm.,6791,5,Villa,115,1947,
+Villumhøj 9 8831 Løgstrup,9,160000.0,10-07-1998,Alm.,893,5,Villa,179,1999,
+Rylevej 9 8831 Løgstrup,9,230000.0,24-06-1998,Alm.,0,5,Sommerhus,91,1967,
+Lærkebakken 138 8831 Løgstrup,138,110000.0,12-06-1998,Alm.,679,4,Villa,162,2000,
+Strandvejen 50 8831 Løgstrup,50,285000.0,06-06-1998,Alm.,0,3,Sommerhus,52,1945,
+Virksundvej 176 8831 Løgstrup,176,213568.0,04-06-1998,Alm.,1581,4,Villa,135,1916,
+Vildandvej 19 8831 Løgstrup,19,265000.0,11-05-1998,Alm.,4907,3,Sommerhus,54,1967,
+Virksundvej 87 8831 Løgstrup,87,372000.0,30-04-1998,Alm.,2929,5,Villa,127,1961,
+Lærkebakken 47 8831 Løgstrup,47,90000.0,29-04-1998,Alm.,720,5,Villa,125,1998,
+Ladehøjvej 18 8831 Løgstrup,18,993000.0,07-04-1998,Alm.,5841,5,Villa,170,1973,
+Kvostedvej 30 8831 Løgstrup,30,125000.0,06-04-1998,Alm.,2232,2,Villa,56,1897,
+Virksundvej 108A 8831 Løgstrup,0,700000.0,01-04-1998,Alm.,6363,3,Villa,110,1902,
+Villumhøj 21 8831 Løgstrup,21,145000.0,31-03-1998,Alm.,767,6,Villa,189,1998,
+Rishøjvej 6 8831 Løgstrup,6,906000.0,18-02-1998,Alm.,6040,5,Villa,150,1972,
+Kvostedvej 16 8831 Løgstrup,16,465000.0,18-02-1998,Alm.,6283,4,Villa,74,1957,
+Rogenstrupvej 12 8831 Løgstrup,12,2350000.0,06-02-1998,Alm.,12303,7,Stuehus,191,1936,
+Romlundvej 17 8831 Løgstrup,17,674000.0,23-01-1998,Alm.,7573,3,Villa,89,1961,
+Virksundvej 30 8831 Løgstrup,30,740000.0,23-01-1998,Alm.,4404,4,Villa,168,1870,
+Jonshøjvej 4 8831 Løgstrup,4,1299052.0,20-01-1998,Alm.,6560,7,Villa,198,1966,
+Østergade 43 8831 Løgstrup,43,123006.0,09-01-1998,Fam.,953,5,Villa,129,1959,
+Villumhøj 15 8831 Løgstrup,15,170000.0,07-01-1998,Alm.,1069,4,Villa,159,1998,
+Villumhøj 13 8831 Løgstrup,13,160000.0,18-12-1997,Alm.,1095,5,Villa,146,1998,
+Borgergade 25 8831 Løgstrup,25,632822.0,13-12-1997,Alm.,5408,4,Villa,117,1969,
+Hjarbækvej 23 8831 Løgstrup,23,1075000.0,13-12-1997,Alm.,6718,5,Villa,160,1978,
+Ørnehøjvej 6 8831 Løgstrup,6,237050.0,09-12-1997,Alm.,1580,5,Villa,150,1973,
+Villumhøj 27 8831 Løgstrup,27,160000.0,11-11-1997,Alm.,1045,4,Villa,153,1999,
+Hovedgaden 35 8831 Løgstrup,35,955000.0,04-11-1997,Alm.,4380,8,Villa,218,1925,
+Hørhøjvej 9 8831 Løgstrup,9,753000.0,08-10-1997,Alm.,5157,6,Villa,146,1974,
+Rogenstrupvej 42 8831 Løgstrup,42,710000.0,29-09-1997,Fam.,6173,4,Stuehus,115,1890,
+Svanevej 8 8831 Løgstrup,8,300000.0,22-09-1997,Alm.,0,5,Sommerhus,125,1960,
+Fiskbækvej 16 8831 Løgstrup,16,165000.0,15-09-1997,Alm.,1666,2,Villa,99,2000,
+Skivevej 120 8831 Løgstrup,120,1580000.0,28-08-1997,Alm.,11969,4,Stuehus,132,1961,
+Fiskbækvej 6 8831 Løgstrup,6,1880720.0,28-08-1997,Alm.,9219,6,Stuehus,204,1890,
+Vildandvej 6 8831 Løgstrup,6,287749.0,27-08-1997,Alm.,0,4,Sommerhus,105,1967,
+Ravnehøjvej 14 8831 Løgstrup,14,1000000.0,08-08-1997,Alm.,0,6,Stuehus,332,1921,
+Bavnevej 35 8831 Løgstrup,35,467840.0,30-07-1997,Alm.,3803,4,Villa,123,1917,
+Svanevej 32A 8831 Løgstrup,0,510000.0,22-07-1997,Alm.,0,4,Sommerhus,170,1974,
+Trenmosevej 15 8831 Løgstrup,15,776860.0,15-07-1997,Alm.,3923,6,Villa,198,1976,
+Romlundvej 39 8831 Løgstrup,39,550000.0,11-07-1997,Fam.,4296,5,Stuehus,128,1939,
+Kvostedvej 42 8831 Løgstrup,42,629000.0,01-07-1997,Fam.,4058,5,Stuehus,155,1898,
+Villumhøj 39 8831 Løgstrup,39,155000.0,19-06-1997,Alm.,895,5,Villa,173,1998,
+Romlundvej 37 8831 Løgstrup,37,500000.0,18-06-1997,Alm.,0,6,Stuehus,178,1920,
+Kølsenvej 65A 8831 Løgstrup,0,1095000.0,12-06-1997,Alm.,0,7,Stuehus,184,1930,
+Brændalsvej 8 8831 Løgstrup,8,818680.0,30-05-1997,Alm.,5685,4,Villa,144,1976,
+Hulager 11 8831 Løgstrup,11,150000.0,07-05-1997,Fam.,3409,3,Sommerhus,44,1962,
+Kvolsvej 3 8831 Løgstrup,3,548000.0,06-05-1997,Alm.,5169,4,Villa,106,1877,
+Villumhøj 37 8831 Løgstrup,37,160000.0,16-04-1997,Alm.,958,5,Villa,167,1998,
+Møllevang 7 8831 Løgstrup,7,872380.0,14-04-1997,Alm.,6231,5,Villa,140,1970,
+Romlundvej 38 8831 Løgstrup,38,1020000.0,04-04-1997,Alm.,0,8,Stuehus,201,1945,
+Fiskbækvej 37 8831 Løgstrup,37,100000.0,01-04-1997,Alm.,483,6,Stuehus,207,1912,
+Sejrshøje 6 8831 Løgstrup,6,675000.0,17-02-1997,Fam.,5532,4,Villa,122,1973,
+Fjordvej 27 8831 Løgstrup,27,375000.0,27-01-1997,Alm.,0,4,Sommerhus,79,1973,
+Bollervej 8 8831 Løgstrup,8,725000.0,23-01-1997,Fam.,0,5,Stuehus,262,1867,
+Kølsenvej 15 8831 Løgstrup,15,327500.0,20-12-1996,Fam.,2775,4,Villa,118,1970,
+Kvostedvej 3 8831 Løgstrup,3,402480.0,27-11-1996,Alm.,4791,3,Villa,84,1870,
+Romlundvej 42 8831 Løgstrup,42,500000.0,20-11-1996,Alm.,4132,5,Stuehus,121,1947,
+Virksundvej 24 8831 Løgstrup,24,530000.0,05-11-1996,Alm.,5824,4,Villa,91,1875,
+Tårupgårdvej 7 8831 Løgstrup,7,445200.0,29-10-1996,Alm.,3905,4,Villa,114,1933,
+Ørnehøjvej 2 8831 Løgstrup,2,695000.0,25-10-1996,Alm.,5560,4,Villa,125,1973,
+Kølsenvej 51 8831 Løgstrup,51,640000.0,23-10-1996,Alm.,5765,3,Villa,111,1939,
+Ladehøjvej 32 8831 Løgstrup,32,711000.0,17-10-1996,Alm.,4257,6,Villa,167,1973,
+Bavnevej 27 8831 Løgstrup,27,647500.0,06-10-1996,Alm.,4465,5,Villa,145,1875,
+Strandvejen 28 8831 Løgstrup,28,212500.0,01-10-1996,Fam.,2910,4,Sommerhus,73,1930,
+Nørresiden 32 8831 Løgstrup,32,260000.0,18-09-1996,Alm.,6190,4,Sommerhus,42,1924,
+Brunbankevej 46 8831 Løgstrup,46,78900.0,11-09-1996,Alm.,789,4,Stuehus,100,1951,
+Borgergade 49 8831 Løgstrup,49,100000.0,04-09-1996,Alm.,735,5,Villa,136,1997,
+Slagtehusvej 7 8831 Løgstrup,7,400000.0,09-08-1996,Alm.,2649,5,Villa,151,1894,
+Kvolsvej 22 8831 Løgstrup,22,595594.0,06-08-1996,Fam.,4379,4,Stuehus,136,1930,
+Svanevej 43 8831 Løgstrup,43,289000.0,13-07-1996,Alm.,6880,3,Sommerhus,42,1964,
+Ørnehøjvej 13 8831 Løgstrup,13,750000.0,09-07-1996,Alm.,4285,6,Villa,175,1972,
+Sølvmågevej 1 8831 Løgstrup,1,300000.0,26-06-1996,Alm.,0,4,Sommerhus,127,1980,
+Fægteborgvej 32 8831 Løgstrup,32,725000.0,05-06-1996,Alm.,6196,4,Villa,117,1970,
+Pamhulevej 15 8831 Løgstrup,15,50000.0,01-05-1996,Alm.,3125,1,Sommerhus,16,1960,
+Blishønevej 4 8831 Løgstrup,4,295000.0,26-04-1996,Alm.,3687,3,Sommerhus,80,1972,
+Lærkebakken 144 8831 Løgstrup,144,110000.0,11-04-1996,Alm.,814,5,Villa,135,1996,
+Ladehøjvej 10 8831 Løgstrup,10,770000.0,02-04-1996,Alm.,5746,4,Villa,134,1973,
+Brunbankevej 47 8831 Løgstrup,47,383000.0,02-04-1996,Alm.,0,7,Villa,161,1908,
+Fiskbækvej 17 8831 Løgstrup,17,257145.0,15-03-1996,Alm.,3673,3,Villa,70,1954,
+Lærkebakken 4 8831 Løgstrup,4,36860.0,15-03-1996,Alm.,265,5,Villa,139,1996,
+Strandvejen 36 8831 Løgstrup,36,330000.0,11-03-1996,Fam.,0,4,Sommerhus,104,1942,
+Hvidbjergvej 5 8831 Løgstrup,5,250000.0,20-02-1996,Alm.,3048,3,Villa,82,1881,
+Kølsenvej 44 8831 Løgstrup,44,65000.0,01-02-1996,Alm.,302,6,Stuehus,215,1914,
+Lærkebakken 25 8831 Løgstrup,25,603000.0,30-01-1996,Alm.,6414,3,Villa,94,1985,
+Virksundvej 112 8831 Løgstrup,112,255000.0,08-11-1995,Alm.,1888,4,Villa,135,2010,
+Rogenstrupvej 18 8831 Løgstrup,18,831000.0,07-11-1995,Alm.,0,6,Villa,217,1931,
+Rylevej 8 8831 Løgstrup,8,70000.0,30-10-1995,Alm.,1093,4,Sommerhus,64,1998,
+Lærkebakken 49 8831 Løgstrup,49,90000.0,30-10-1995,Alm.,604,5,Villa,149,1996,
+Pamhulevej 7 8831 Løgstrup,7,66300.0,18-10-1995,Fam.,1035,4,Sommerhus,64,1999,
+Hvidbjergvej 9 8831 Løgstrup,9,294460.0,27-09-1995,Alm.,0,6,Villa,204,1890,
+Lærkebakken 10 8831 Løgstrup,10,42028.0,21-09-1995,Alm.,0,5,Villa,171,1997,
+Gøgevej 8 8831 Løgstrup,8,120000.0,08-09-1995,Alm.,0,5,Sommerhus,116,1967,
+Ladehøjvej 3 8831 Løgstrup,3,670000.0,23-08-1995,Fam.,2838,5,Villa,236,1972,
+Sejrshøje 10 8831 Løgstrup,10,925000.0,14-08-1995,Alm.,4792,6,Villa,193,1973,
+Hovedgaden 53 8831 Løgstrup,53,575000.0,27-07-1995,Alm.,4259,5,Villa,135,1902,
+Elkærvej 27 8831 Løgstrup,27,630600.0,17-07-1995,Alm.,2905,9,Villa,217,1864,
+Villumhøj 35 8831 Løgstrup,35,165000.0,14-07-1995,Alm.,0,5,Villa,148,1997,
+Hejrevej 11 8831 Løgstrup,11,90000.0,12-07-1995,Alm.,1125,3,Sommerhus,80,1997,
+Kirkebækvej 169B 8831 Løgstrup,0,825000.0,22-06-1995,Alm.,6547,4,Stuehus,126,1880,
+Borgergade 51 8831 Løgstrup,51,104500.0,19-06-1995,Alm.,842,4,Villa,124,1996,
+Strandvejen 38 8831 Løgstrup,38,245000.0,06-06-1995,Alm.,5697,3,Sommerhus,43,1971,
+Hedegårdvej 3 8831 Løgstrup,3,985100.0,01-06-1995,Fam.,8008,3,Stuehus,123,1930,
+Romlundvej 35 8831 Løgstrup,35,2435000.0,09-05-1995,Fam.,11540,7,Stuehus,211,1895,
+Hejrevej 9 8831 Løgstrup,9,295000.0,06-05-1995,Alm.,0,3,Sommerhus,73,1962,
+Ørnehøjvej 11 8831 Løgstrup,11,737600.0,04-03-1995,Alm.,4758,5,Villa,155,1971,
+Gøgevej 5 8831 Løgstrup,5,280000.0,17-02-1995,Alm.,4179,4,Sommerhus,67,1975,
+Lærkebakken 142 8831 Løgstrup,142,110000.0,10-02-1995,Alm.,887,4,Villa,124,1995,
+Hovedgaden 87 8831 Løgstrup,87,369000.0,30-01-1995,Alm.,4920,2,Villa,75,1947,
+Ørregårdsvej 1 8831 Løgstrup,1,225000.0,20-01-1995,Alm.,1551,4,Stuehus,145,1988,
+Hedegårdvej 1 8831 Løgstrup,1,1156410.0,15-11-1994,Alm.,7319,7,Stuehus,158,1922,
+Rogenstrupvej 8 8831 Løgstrup,8,1550000.0,13-10-1994,Alm.,0,4,Stuehus,197,1930,
+Skivevej 124 8831 Løgstrup,124,1802564.0,10-10-1994,Andet,19593,3,Stuehus,92,1896,
+Strandvejen 13 8831 Løgstrup,13,751812.0,22-09-1994,Alm.,0,6,Villa,202,1926,
+Kvolsvej 16 8831 Løgstrup,16,565000.0,19-08-1994,Alm.,5432,4,Villa,104,1877,
+Strandvejen 37 8831 Løgstrup,37,180000.0,18-08-1994,Alm.,3829,3,Sommerhus,47,1930,
+Svanevej 63 8831 Løgstrup,63,65000.0,17-08-1994,Alm.,942,3,Sommerhus,69,1995,
+Romlundvej 20 8831 Løgstrup,20,510000.0,30-06-1994,Alm.,4951,4,Villa,103,1967,
+Anderslevgårdvej 23 8831 Løgstrup,23,621884.0,05-06-1994,Alm.,7066,4,Rækkehus,88,1986,
+Brunbankevej 14 8831 Løgstrup,14,981600.0,01-06-1994,Fam.,6723,7,Stuehus,146,1897,
+Kølsenvej 49 8831 Løgstrup,49,800000.0,25-05-1994,Alm.,3174,3,Villa,252,1877,
+Svanevej 67 8831 Løgstrup,67,205000.0,30-03-1994,Alm.,3660,2,Sommerhus,56,1964,
+Svanevej 28B 8831 Løgstrup,0,310000.0,25-03-1994,Alm.,0,5,Sommerhus,108,1968,
+Rogenstrupvej 40 8831 Løgstrup,40,836000.0,21-12-1993,Alm.,5573,3,Stuehus,150,1911,
+Romlundvej 41 8831 Løgstrup,41,1575000.0,07-12-1993,Fam.,9104,7,Stuehus,173,1922,
+Virksundvej 77 8831 Løgstrup,77,400000.0,26-11-1993,Fam.,2547,4,Villa,157,1870,
+Bavnevej 43 8831 Løgstrup,43,748377.0,31-10-1993,Alm.,2771,6,Villa,270,1884,
+Lyngsøvej 6 8831 Løgstrup,6,600000.0,26-10-1993,Alm.,3870,4,Villa,155,1970,
+Hovedgaden 70 8831 Løgstrup,70,417680.0,18-10-1993,Alm.,3368,6,Villa,124,1943,
+Strandvejen 17 8831 Løgstrup,17,550000.0,23-09-1993,Alm.,0,4,Villa,120,1957,
+Vordevej 10 8831 Løgstrup,10,76000.0,14-08-1993,Alm.,429,4,Villa,177,1995,
+Vordevej 3 8831 Løgstrup,3,535200.0,10-08-1993,Alm.,3878,4,Villa,138,1966,
+Lyngsøvej 9 8831 Løgstrup,9,1190000.0,30-07-1993,Alm.,4979,4,Stuehus,239,1877,
+Bavnevej 17 8831 Løgstrup,17,929620.0,09-06-1993,Alm.,4534,6,Stuehus,205,1978,
+Stensigvej 11 8831 Løgstrup,11,270000.0,20-04-1993,Alm.,2307,5,Villa,117,1940,
+Strandvejen 4 8831 Løgstrup,4,365000.0,31-03-1993,Alm.,3724,3,Villa,98,1932,
+Lærkebakken 12 8831 Løgstrup,12,40128.0,20-03-1993,Alm.,334,4,Villa,120,1993,
+Blishønevej 3 8831 Løgstrup,3,90000.0,25-02-1993,Fam.,900,4,Sommerhus,100,1995,
+Vordevej 50 8831 Løgstrup,50,445000.0,28-01-1993,Alm.,0,7,Villa,149,1936,
+Hovedgaden 40 8831 Løgstrup,40,305000.0,22-01-1993,Alm.,3426,4,Rækkehus,89,1983,
+Søndersiden 8 8831 Løgstrup,8,315000.0,22-12-1992,Alm.,3118,3,Villa,101,1850,
+Hovedgaden 55 8831 Løgstrup,55,350000.0,17-12-1992,Fam.,0,6,Villa,147,1915,
+Kølsenvej 40 8831 Løgstrup,40,1175000.0,03-12-1992,Alm.,5340,6,Stuehus,220,1922,
+Svanevej 60 8831 Løgstrup,60,196955.0,11-11-1992,Alm.,3939,4,Sommerhus,50,1968,
+Lærkebakken 36 8831 Løgstrup,36,96525.0,05-10-1992,Alm.,0,5,Villa,164,1992,
+Vordevej 46 8831 Løgstrup,46,795000.0,19-08-1992,Alm.,0,5,Stuehus,209,1868,
+Hulhøjvej 12 8831 Løgstrup,12,665000.0,19-08-1992,Alm.,4523,4,Villa,147,1971,
+Hjarbækvej 38 8831 Løgstrup,38,530000.0,13-08-1992,Alm.,3758,7,Villa,141,1961,
+Rogenstrupvej 23 8831 Løgstrup,23,225000.0,03-08-1992,Alm.,0,5,Villa,142,1946,
+Tårupgårdvej 5 8831 Løgstrup,5,1050000.0,01-08-1992,Alm.,0,5,Stuehus,162,1936,
+Virksundvej 21 8831 Løgstrup,21,72000.0,31-07-1992,Auktion,818,2,Villa,88,1914,
+Bollervej 3 8831 Løgstrup,3,255000.0,08-07-1992,Alm.,0,6,Villa,177,1955,
+Brændhøje 13 8831 Løgstrup,13,500000.0,02-07-1992,Alm.,7692,2,Villa,65,1984,
+Storhøjvej 9 8831 Løgstrup,9,510000.0,01-07-1992,Fam.,3493,6,Villa,146,1970,
+Gormendal 16 8831 Løgstrup,16,140000.0,11-06-1992,Alm.,5000,2,Sommerhus,28,1961,
+Østergade 35 8831 Løgstrup,35,590000.0,10-06-1992,Alm.,3734,5,Villa,158,1963,
+Brunbankevej 42 8831 Løgstrup,42,1293000.0,25-04-1992,Alm.,6563,5,Stuehus,197,1886,
+Ladehøjvej 15 8831 Løgstrup,15,300000.0,01-04-1992,Fam.,1796,5,Villa,167,1973,
+Virksundvej 73 8831 Løgstrup,73,450000.0,06-03-1992,Alm.,3214,5,Villa,140,1974,
+Bollervej 5 8831 Løgstrup,5,460000.0,03-03-1992,Alm.,2222,8,Stuehus,207,1923,
+Skurrehøjvej 5 8831 Løgstrup,5,463000.0,12-02-1992,Fam.,3561,4,Villa,130,1974,
+Hulager 1 8831 Løgstrup,1,580000.0,29-01-1992,Alm.,4715,4,Stuehus,123,1922,
+Galgehøjvej 3 8831 Løgstrup,3,580000.0,24-01-1992,Alm.,4640,5,Villa,125,1971,

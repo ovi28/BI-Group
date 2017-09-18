@@ -1,0 +1,969 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Sneserevej 52 4733 Tappernøje,52,912452.0,05-05-2017,Alm.,3366,6,Villa,271,1925,
+Teglværksvej 13 4733 Tappernøje,13,6100000.0,28-04-2017,Andet,74390,4,Villa,82,1900,
+Jægervænget 6 4733 Tappernøje,6,1510000.0,16-04-2017,Alm.,11889,5,Villa,127,1974,-4 %
+Sneserevej 22 4733 Tappernøje,22,1141000.0,11-04-2017,Alm.,14262,3,Villa,80,1952,
+Tværvej 2 4733 Tappernøje,2,540000.0,03-04-2017,Alm.,1824,11,Villa,296,1920,
+Lundhøjvej 9 4733 Tappernøje,9,975000.0,15-03-2017,Alm.,7330,5,Villa,133,1978,-2 %
+Tågeskovvej 8 4733 Tappernøje,8,1020000.0,14-03-2017,Alm.,9107,4,Stuehus,112,1914,
+Karlshøj 18 4733 Tappernøje,18,1100000.0,08-03-2017,Alm.,8088,5,Villa,136,1960,-15 %
+Brøderupvej 5A 4733 Tappernøje,0,440000.0,04-03-2017,Alm.,4888,3,Villa,90,1953,
+Harevænget 76B 4733 Tappernøje,0,1950000.0,07-02-2017,Alm.,13448,4,Villa,145,2005,-2 %
+Bårsevej 15 4733 Tappernøje,15,1700000.0,03-02-2017,Alm.,12592,3,Villa,135,1902,-8 %
+Kildebakken 5 4733 Tappernøje,5,1995000.0,30-01-2017,Alm.,8750,7,Villa,228,1934,0 %
+Bredeshave Strand 5 4733 Tappernøje,5,2350000.0,25-01-2017,Alm.,13055,6,Villa,180,1974,-4 %
+Tågeskov By 7 4733 Tappernøje,7,957100.0,20-01-2017,Fam.,9571,3,Villa,100,2000,
+Lunden 4 4733 Tappernøje,4,1300000.0,09-01-2017,Alm.,8024,6,Stuehus,162,1910,
+Bredeshave Strand 6 4733 Tappernøje,6,1200000.0,05-01-2017,Alm.,12500,4,Villa,96,1971,-7 %
+Kildebakken 30 4733 Tappernøje,30,1095000.0,02-01-2017,Alm.,7019,5,Villa,156,1956,-8 %
+Saksholmvej 33 4733 Tappernøje,33,1355000.0,29-12-2016,Alm.,10840,5,Villa,125,1913,-3 %
+Bårsevej 6B 4733 Tappernøje,0,1840000.0,27-12-2016,Alm.,11428,5,Villa,161,2007,-8 %
+Hovedvejen 81B 4733 Tappernøje,0,825000.0,19-12-2016,Alm.,5851,4,Lejlighed,141,1927,-2 %
+Brøderupvej 38A 4733 Tappernøje,0,895000.0,08-12-2016,Alm.,6215,5,Villa,144,1930,-9 %
+Karlshøj 3 4733 Tappernøje,3,334559.0,08-12-2016,Alm.,2424,5,Villa,138,1903,
+Pilevej 1 4733 Tappernøje,1,560000.0,22-11-2016,Alm.,6511,4,Villa,86,1964,-4 %
+Rypevænget 5 4733 Tappernøje,5,325000.0,16-11-2016,Alm.,3186,4,Villa,102,1988,
+Oddervænget 3 4733 Tappernøje,3,1850000.0,15-11-2016,Alm.,9840,5,Villa,188,1974,0 %
+Hovedvejen 104 4733 Tappernøje,104,587413.0,11-11-2016,Alm.,1513,9,Villa,388,1882,
+Sneserevej 50 4733 Tappernøje,50,1700000.0,05-11-2016,Alm.,7870,5,Villa,216,1939,6 %
+Egernvænget 3 4733 Tappernøje,3,850000.0,19-10-2016,Alm.,4857,5,Villa,175,2004,
+Sjoltevej 24 4733 Tappernøje,24,300000.0,07-10-2016,Alm.,1948,6,Villa,154,1877,
+Gl Skolevej 19 4733 Tappernøje,19,810000.0,26-09-2016,Alm.,4009,5,Villa,202,1927,
+Hovedvejen 86 4733 Tappernøje,86,450000.0,22-09-2016,Alm.,3146,4,Villa,143,1911,-24 %
+Videbækvej 2A 4733 Tappernøje,0,890000.0,09-09-2016,Alm.,6013,6,Villa,148,1966,-6 %
+Gl Skolevej 22 4733 Tappernøje,22,2330000.0,07-09-2016,Alm.,9282,8,Villa,251,2005,-3 %
+Vildtbanevej 14 4733 Tappernøje,14,895000.0,05-09-2016,Alm.,6992,5,Villa,128,1975,
+Harevænget 51 4733 Tappernøje,51,1375000.0,11-08-2016,Alm.,7313,7,Villa,188,1986,-1 %
+Smidstrupvej 10 4733 Tappernøje,10,595000.0,09-08-2016,Alm.,3914,5,Villa,152,1968,0 %
+Lindhøjgårdsvej 76 4733 Tappernøje,76,1775000.0,03-08-2016,Alm.,11677,5,Villa,152,2008,-4 %
+Pilevej 4 4733 Tappernøje,4,560000.0,08-07-2016,Alm.,5894,3,Villa,95,1968,-6 %
+Harevænget 116 4733 Tappernøje,116,700000.0,07-07-2016,Alm.,6250,4,Villa,112,1978,1 %
+Karlshøj 32B 4733 Tappernøje,0,1250000.0,05-07-2016,Alm.,4807,6,Villa,260,1916,-3 %
+Snigsvej 4 4733 Tappernøje,4,890000.0,29-06-2016,Alm.,5668,5,Villa,157,1972,-6 %
+Gl Skolevej 9 4733 Tappernøje,9,280000.0,23-06-2016,Alm.,2916,3,Villa,96,1885,-29 %
+Størlingevej 22 4733 Tappernøje,22,2823740.0,17-06-2016,Fam.,56474,2,Villa,50,1880,
+Størlingevej 24 4733 Tappernøje,24,2823740.0,17-06-2016,Fam.,12777,5,Stuehus,221,1900,
+Teglværksvej 2 4733 Tappernøje,2,1080000.0,09-06-2016,Alm.,4931,7,Stuehus,219,1870,
+Bårsevej 5 4733 Tappernøje,5,400000.0,02-06-2016,Alm.,5714,2,Villa,70,1877,-19 %
+Sneppevænget 3 4733 Tappernøje,3,760000.0,01-06-2016,Alm.,6280,4,Villa,121,1979,
+Sjoltevej 28 4733 Tappernøje,28,1350000.0,23-05-2016,Alm.,7941,6,Villa,170,1837,-3 %
+Tværvej 4 4733 Tappernøje,4,1495000.0,19-05-2016,Alm.,3051,11,Villa,490,1900,0 %
+Harevænget 55 4733 Tappernøje,55,1600000.0,05-05-2016,Alm.,10810,5,Villa,148,1997,
+Flintemosevej 10 4733 Tappernøje,10,595000.0,26-04-2016,Alm.,7437,4,Villa,80,1887,0 %
+Stavnstrupvej 37 4733 Tappernøje,37,560000.0,20-04-2016,Alm.,5333,2,Villa,105,1885,-6 %
+Gl Skolevej 13 4733 Tappernøje,13,1152000.0,12-04-2016,Alm.,7111,6,Villa,162,1900,
+Hulebækvej 4 4733 Tappernøje,4,208091.0,01-04-2016,Alm.,2972,2,Villa,70,1880,
+Stavnstrupvej 43 4733 Tappernøje,43,1745000.0,29-03-2016,Alm.,5665,9,Villa,308,1974,-3 %
+Svingkærvej 18 4733 Tappernøje,18,1265000.0,15-03-2016,Alm.,9166,4,Villa,138,2004,-9 %
+Oddervænget 4 4733 Tappernøje,4,429961.0,10-03-2016,Fam.,3838,4,Villa,112,1980,
+Sneserevej 8 4733 Tappernøje,8,695000.0,08-03-2016,Alm.,5387,5,Villa,129,1938,0 %
+Sølperupvej 7 4733 Tappernøje,7,459200.0,04-03-2016,Auktion,2717,4,Villa,169,1925,
+Størlingevej 11 4733 Tappernøje,11,800000.0,02-03-2016,Alm.,4705,14,Stuehus,170,1802,-11 %
+Stavnstrupvej 31 4733 Tappernøje,31,671270.0,23-02-2016,Alm.,2918,6,Villa,230,1880,
+Åsidevej 4 4733 Tappernøje,4,2150000.0,11-02-2016,Alm.,10141,4,Villa,212,1911,-2 %
+Hovvej 4 4733 Tappernøje,4,495000.0,08-02-2016,Alm.,3036,3,Stuehus,163,1925,-7 %
+Engelstrupvej 12 4733 Tappernøje,12,1147500.0,04-02-2016,Andet,4841,7,Villa,237,1958,
+Smidstrupvej 55 4733 Tappernøje,55,3551871.0,25-01-2016,Fam.,17759,8,Stuehus,200,1954,
+Vildtbanevej 10 4733 Tappernøje,10,575000.0,13-01-2016,Alm.,3833,4,Villa,150,1973,-3 %
+Hovedvejen 99 4733 Tappernøje,99,300000.0,04-01-2016,Fam.,1023,6,Stuehus,293,1913,
+Bækkeskov Stræde 6 4733 Tappernøje,6,3770000.0,04-01-2016,Alm.,22710,5,Stuehus,166,1934,
+Kærvej 1 4733 Tappernøje,1,665000.0,16-12-2015,Alm.,5000,5,Villa,133,1926,-11 %
+Bækkeskov Stræde 2 4733 Tappernøje,2,2805000.0,10-12-2015,Fam.,32616,3,Stuehus,86,1920,
+Kildebakken 35 4733 Tappernøje,35,50000.0,08-12-2015,Alm.,0,4,Villa,129,1912,
+Snesere Torpvej 30 4733 Tappernøje,30,1564000.0,01-12-2015,Alm.,8231,5,Stuehus,190,1943,-13 %
+Svingkærvej 32 4733 Tappernøje,32,1495000.0,24-11-2015,Alm.,9966,5,Villa,150,1987,0 %
+Stavnstrupvej 5 4733 Tappernøje,5,1362479.0,18-11-2015,Alm.,7967,3,Stuehus,171,1916,
+Askovvej 18 4733 Tappernøje,18,4200000.0,06-11-2015,Alm.,10769,11,Villa,390,1870,0 %
+Fasanvænget 2A 4733 Tappernøje,0,690000.0,26-10-2015,Alm.,6764,4,Dobbelthus,102,1978,-7 %
+Sneserevej 25 4733 Tappernøje,25,375000.0,12-10-2015,Alm.,1334,8,Villa,281,1900,-42 %
+St Røttingevej 3 4733 Tappernøje,3,1063800.0,29-09-2015,Alm.,5319,5,Villa,200,1850,-11 %
+Rønnedevej 35 4733 Tappernøje,35,1250000.0,28-09-2015,Alm.,4545,10,Stuehus,275,1902,-10 %
+Jægersborgvej 3 4733 Tappernøje,3,1750000.0,25-09-2015,Alm.,14227,4,Villa,123,1997,-11 %
+Hovvej 3 4733 Tappernøje,3,1495000.0,18-09-2015,Alm.,10602,6,Stuehus,141,1877,
+Stavnstrupvej 11 4733 Tappernøje,11,1700000.0,16-09-2015,Alm.,8542,5,Stuehus,199,1867,31 %
+Hovedvejen 74 4733 Tappernøje,74,120000.0,14-09-2015,Alm.,1363,2,Villa,88,1909,
+Jægersborgvej 5 4733 Tappernøje,5,950000.0,11-09-2015,Alm.,10326,3,Villa,92,1963,0 %
+Smidstrupvej 34 4733 Tappernøje,34,1187500.0,06-09-2015,Fam.,5967,5,Stuehus,199,1924,
+Sjoltevej 5 4733 Tappernøje,5,1500000.0,28-08-2015,Alm.,10714,5,Villa,140,1940,0 %
+Sneppevænget 32 4733 Tappernøje,32,870000.0,24-08-2015,Alm.,6904,4,Villa,126,1978,-3 %
+Snesere Torpvej 32 4733 Tappernøje,32,700000.0,22-08-2015,Fam.,3517,5,Villa,199,1946,
+Rønnedevej 14 4733 Tappernøje,14,2750000.0,13-08-2015,Alm.,14248,8,Stuehus,193,1872,-8 %
+Pilevej 8 4733 Tappernøje,8,1300000.0,11-08-2015,Alm.,10317,6,Villa,126,1967,1 %
+Sneserevej 4 4733 Tappernøje,4,275000.0,04-08-2015,Auktion,3125,2,Villa,88,1921,
+Karlshøj 22 4733 Tappernøje,22,895000.0,29-07-2015,Alm.,5774,6,Villa,155,1959,0 %
+Lundhøjvej 19 4733 Tappernøje,19,1000000.0,18-07-2015,Alm.,6756,5,Villa,148,1976,
+Snesere Torpvej 42 4733 Tappernøje,42,1700000.0,16-07-2015,Fam.,14166,4,Stuehus,120,1916,
+Bakkehusene 6 4733 Tappernøje,6,2025000.0,07-07-2015,Alm.,13322,5,Villa,152,2008,-3 %
+Egernvænget 4 4733 Tappernøje,4,999000.0,02-07-2015,Alm.,4802,7,Villa,208,1968,0 %
+Æskebjergvej 4 4733 Tappernøje,4,100000.0,30-06-2015,Alm.,892,4,Villa,112,1901,-50 %
+Hovedvejen 1A 4733 Tappernøje,0,4129579.0,29-06-2015,Fam.,17799,6,Stuehus,232,1917,
+Lindhøjgårdsvej 82 4733 Tappernøje,82,1700000.0,25-06-2015,Alm.,11184,5,Villa,152,2008,-4 %
+Muldbjergvej 6 4733 Tappernøje,6,525000.0,24-06-2015,Auktion,1909,7,Villa,275,1730,
+Svingkærvej 16 4733 Tappernøje,16,1060000.0,10-06-2015,Alm.,7412,5,Villa,143,1979,-3 %
+Brøderupvej 18 4733 Tappernøje,18,1600000.0,29-05-2015,Alm.,6584,10,Villa,243,1903,-6 %
+Kærvej 9 4733 Tappernøje,9,1222000.0,20-05-2015,Andet,5028,6,Villa,243,1986,
+Pilevej 16 4733 Tappernøje,16,837500.0,20-05-2015,Alm.,5368,4,Villa,156,1970,0 %
+Korskildevej 13 4733 Tappernøje,13,478000.0,19-05-2015,Auktion,3025,6,Villa,158,1860,
+Oddervænget 7 4733 Tappernøje,7,837500.0,11-05-2015,Alm.,5982,4,Villa,140,1968,-6 %
+Jægervænget 16 4733 Tappernøje,16,1050000.0,07-05-2015,Alm.,6818,5,Villa,154,1977,-5 %
+Rønnedevej 17 4733 Tappernøje,17,991500.0,06-05-2015,Fam.,7344,4,Villa,135,1948,-42 %
+Vildtbanevej 1 4733 Tappernøje,1,1200000.0,25-04-2015,Alm.,8219,4,Villa,146,1968,-2 %
+Harevænget 93 4733 Tappernøje,93,995000.0,16-04-2015,Alm.,7425,4,Villa,134,2005,0 %
+Størlingevej 70 4733 Tappernøje,70,785000.0,09-04-2015,Alm.,6541,3,Villa,120,1877,-1 %
+Jægervænget 22 4733 Tappernøje,22,850000.0,10-03-2015,Alm.,6250,5,Villa,136,1973,0 %
+Sjoltevej 8 4733 Tappernøje,8,83413.0,09-03-2015,Alm.,251,11,Stuehus,332,1860,
+Oddervænget 19 4733 Tappernøje,19,1000000.0,08-03-2015,Alm.,6622,4,Villa,151,1986,-13 %
+Bellisvej 1 4733 Tappernøje,1,395000.0,18-02-2015,Alm.,3211,4,Villa,123,1967,-12 %
+Smidstrupvej 75 4733 Tappernøje,75,441455.0,17-02-2015,Auktion,1511,8,Villa,292,1850,
+Snigsvej 10 4733 Tappernøje,10,495000.0,05-02-2015,Alm.,3535,5,Villa,140,1971,0 %
+Brøderupvej 9 4733 Tappernøje,9,845000.0,03-02-2015,Alm.,5029,5,Villa,168,1904,0 %
+Bårsevej 11 4733 Tappernøje,11,1950000.0,02-02-2015,Alm.,6678,8,Villa,292,1932,-2 %
+Sneppevænget 26 4733 Tappernøje,26,754000.0,27-01-2015,Alm.,4742,6,Villa,159,1979,
+Flintemosevej 6A 4733 Tappernøje,0,1195000.0,22-01-2015,Alm.,7611,3,Villa,157,1876,0 %
+Bækkeskov Stræde 4 4733 Tappernøje,4,475000.0,22-01-2015,Alm.,4567,3,Villa,104,1962,-14 %
+Snesere Torpvej 17 4733 Tappernøje,17,822900.0,20-01-2015,Auktion,4263,6,Stuehus,193,1905,
+Sjoltevej 18 4733 Tappernøje,18,1100000.0,03-01-2015,Alm.,13095,5,Stuehus,84,1890,
+Højgårdsvej 4 4733 Tappernøje,4,410000.0,22-12-2014,Alm.,2562,7,Villa,160,1852,
+Sjoltevej 30 4733 Tappernøje,30,1872745.0,19-12-2014,Fam.,9856,7,Villa,190,1877,
+Tågeskov Overdrev 6 4733 Tappernøje,6,1975000.0,15-12-2014,Alm.,16737,4,Villa,118,1677,-1 %
+Størlingevej 57 4733 Tappernøje,57,765000.0,14-12-2014,Fam.,8693,2,Villa,88,1827,
+Sneserevej 82 4733 Tappernøje,82,625000.0,21-11-2014,Alm.,5000,5,Villa,125,1909,
+Mårvænget 25 4733 Tappernøje,25,309509.0,18-11-2014,Fam.,2763,4,Villa,112,1979,
+Hybenvej 6 4733 Tappernøje,6,995000.0,17-11-2014,Alm.,6677,5,Villa,149,1967,0 %
+Strandvejen 29 4733 Tappernøje,29,1400000.0,05-11-2014,Alm.,10000,6,Villa,140,1952,-6 %
+Gl Skolevej 7 4733 Tappernøje,7,98600.0,05-11-2014,Auktion,719,5,Villa,137,1897,
+Mårvænget 6 4733 Tappernøje,6,1100000.0,30-10-2014,Alm.,5945,8,Villa,185,1977,-12 %
+Hovedvejen 63 4733 Tappernøje,63,475000.0,27-10-2014,Alm.,3104,4,Villa,153,1932,-10 %
+St Røttingevej 2 4733 Tappernøje,2,650000.0,21-10-2014,Alm.,3125,6,Villa,208,1900,
+Fasanvænget 3 4733 Tappernøje,3,630000.0,20-10-2014,Fam.,4256,6,Villa,148,1979,
+Askovvej 7 4733 Tappernøje,7,785000.0,15-10-2014,Alm.,6541,3,Villa,120,1934,
+Sjoltevej 23 4733 Tappernøje,23,1250000.0,14-10-2014,Alm.,7267,7,Villa,172,1937,-15 %
+Fasanvænget 21 4733 Tappernøje,21,475000.0,13-10-2014,Alm.,4318,3,Villa,110,1976,-5 %
+Oddervænget 5 4733 Tappernøje,5,750000.0,08-10-2014,Alm.,5357,4,Villa,140,1979,
+Harevænget 59 4733 Tappernøje,59,1595000.0,29-09-2014,Alm.,11392,4,Villa,140,2002,0 %
+Sneppevænget 9 4733 Tappernøje,9,480000.0,24-09-2014,Alm.,3636,4,Villa,132,1977,-19 %
+Brøderupvej 15A 4733 Tappernøje,0,2695000.0,22-09-2014,Alm.,9835,7,Villa,274,1903,0 %
+Sjoltevej 12 4733 Tappernøje,12,1300000.0,25-08-2014,Alm.,5963,6,Villa,218,1900,-7 %
+Everdrupvej 2 4733 Tappernøje,2,1700000.0,22-08-2014,Alm.,7083,8,Villa,240,1870,-3 %
+Tågeskovvej 4 4733 Tappernøje,4,1100000.0,21-08-2014,Alm.,7051,5,Stuehus,156,1966,11 %
+Rypevænget 38 4733 Tappernøje,38,1650000.0,13-08-2014,Alm.,10248,4,Villa,161,2000,-3 %
+Stavnstrupvej 20 4733 Tappernøje,20,1235000.0,01-08-2014,Alm.,7180,6,Villa,172,1906,-7 %
+Smidstrupvej 60 4733 Tappernøje,60,600000.0,25-07-2014,Alm.,6666,4,Villa,90,1777,-11 %
+Harevænget 95 4733 Tappernøje,95,960019.0,08-07-2014,Auktion,6037,5,Villa,159,2007,-42 %
+Everdrupvej 9 4733 Tappernøje,9,150000.0,08-07-2014,Auktion,1327,4,Villa,113,1877,
+Hovedvejen 5 4733 Tappernøje,5,499000.0,30-06-2014,Alm.,4536,4,Villa,110,1930,0 %
+Bygårdsvej 16 4733 Tappernøje,16,625000.0,27-06-2014,Alm.,6510,3,Villa,96,1972,-4 %
+Flintholm 3 4733 Tappernøje,3,235000.0,25-06-2014,Alm.,4272,2,Villa,55,1950,
+Nyvej 10 4733 Tappernøje,10,600000.0,20-06-2014,Andet,5454,3,Villa,110,1962,
+Sneserevej 26 4733 Tappernøje,26,935000.0,04-06-2014,Alm.,7991,4,Villa,117,1950,0 %
+Skovvej 1 4733 Tappernøje,1,200000.0,24-05-2014,Alm.,1818,3,Villa,110,1914,-32 %
+Jægersborgvej 2 4733 Tappernøje,2,1250000.0,14-05-2014,Alm.,5841,5,Villa,214,1780,-7 %
+Jægervænget 3 4733 Tappernøje,3,1225000.0,14-05-2014,Alm.,6843,6,Villa,179,1979,-5 %
+Sølperupvej 13 4733 Tappernøje,13,700000.0,04-05-2014,Alm.,6034,5,Stuehus,116,1925,
+Teglværksvej 5 4733 Tappernøje,5,503000.0,01-05-2014,Fam.,5988,4,Villa,84,1920,
+Jægervænget 20 4733 Tappernøje,20,700000.0,02-04-2014,Alm.,6034,4,Villa,116,1979,-7 %
+Tågeskovvej 21 4733 Tappernøje,21,2700000.0,20-03-2014,Alm.,9310,7,Villa,290,1880,-5 %
+Flintemosevej 18 4733 Tappernøje,18,300000.0,18-03-2014,Auktion,2912,3,Villa,103,1880,
+Hovedvejen 23 4733 Tappernøje,23,895000.0,27-02-2014,Alm.,7458,4,Villa,120,1929,0 %
+Hovedvejen 81C 4733 Tappernøje,0,150000.0,18-02-2014,Alm.,925,4,Lejlighed,162,1927,
+Gl Skolevej 17 4733 Tappernøje,17,507166.0,10-02-2014,Alm.,2983,6,Villa,170,1968,
+Snigsvej 2 4733 Tappernøje,2,753000.0,14-01-2014,Auktion,5020,5,Villa,150,1972,
+Stenagervej 1 4733 Tappernøje,1,995000.0,14-01-2014,Alm.,7896,5,Villa,126,1900,0 %
+Bøgebjergvej 2 4733 Tappernøje,2,5831000.0,27-12-2013,Fam.,16660,12,Stuehus,350,1870,
+Pilevej 11 4733 Tappernøje,11,675000.0,18-11-2013,Alm.,7031,3,Villa,96,1966,-9 %
+Oddervænget 17 4733 Tappernøje,17,895000.0,07-11-2013,Alm.,8774,4,Villa,102,1988,
+Hemmestrupvej 2 4733 Tappernøje,2,845000.0,05-11-2013,Alm.,5868,5,Anden beboelse,144,1975,0 %
+Kærvej 10 4733 Tappernøje,10,1100000.0,29-10-2013,Alm.,2511,10,Villa,438,1902,-12 %
+Bredeshave Strand 2 4733 Tappernøje,2,1000000.0,30-09-2013,Fam.,13513,3,Villa,74,1986,
+Stenagervej 2 4733 Tappernøje,2,98550.0,18-09-2013,Auktion,821,3,Villa,120,1900,
+Snesere Torpvej 26 4733 Tappernøje,26,435000.0,16-09-2013,Alm.,4943,4,Villa,88,1950,-27 %
+Stavnstrupvej 70 4733 Tappernøje,70,1595000.0,13-08-2013,Alm.,6845,6,Villa,233,1930,0 %
+Pilevej 12 4733 Tappernøje,12,927000.0,13-08-2013,Fam.,7130,6,Villa,130,1967,
+Bøgebjergvej 1 4733 Tappernøje,1,3500000.0,12-08-2013,Alm.,13944,6,Villa,251,1869,
+Sjoltevej 4 4733 Tappernøje,4,1850000.0,05-08-2013,Alm.,3767,9,Villa,491,1920,-16 %
+Snesere Torpvej 8 4733 Tappernøje,8,1680500.0,31-07-2013,Alm.,8530,4,Stuehus,197,1923,-16 %
+Brøderupvej 36 4733 Tappernøje,36,650000.0,18-07-2013,Alm.,4609,5,Villa,141,1911,-6 %
+Sneserevej 12 4733 Tappernøje,12,426600.0,15-07-2013,Auktion,2666,6,Villa,160,1944,
+Oddervænget 11 4733 Tappernøje,11,605000.0,09-07-2013,Auktion,5401,4,Villa,112,1988,
+Tågeskovvej 11 4733 Tappernøje,11,350000.0,17-06-2013,Alm.,2500,4,Villa,140,1925,0 %
+Stenagervej 4 4733 Tappernøje,4,250000.0,10-06-2013,Alm.,2941,3,Villa,85,1825,
+Skovmosevej 8 4733 Tappernøje,8,1701525.0,04-06-2013,Alm.,11898,4,Villa,143,1923,
+Sneserevej 2 4733 Tappernøje,2,370000.0,29-05-2013,Auktion,3737,4,Villa,99,1920,25 %
+Sjoltevej 22 4733 Tappernøje,22,950000.0,27-05-2013,Alm.,8878,3,Villa,107,1900,-5 %
+Smidstrupvej 7 4733 Tappernøje,7,438683.0,19-04-2013,Fam.,3749,4,Villa,117,1905,
+Svingkærvej 36 4733 Tappernøje,36,725000.0,02-04-2013,Alm.,6473,4,Villa,112,1980,-6 %
+Sjoltevej 32 4733 Tappernøje,32,1450000.0,02-04-2013,Alm.,7323,6,Villa,198,1900,
+Hovskovvej 3 4733 Tappernøje,3,3500000.0,25-03-2013,Alm.,12867,9,Villa,272,1880,
+Kildehøjvej 3 4733 Tappernøje,3,420000.0,12-03-2013,Auktion,3255,4,Villa,129,1977,
+Tågeskov Overdrev 10 4733 Tappernøje,10,191000.0,11-03-2013,Auktion,1736,4,Villa,110,1962,
+Sneppevænget 30 4733 Tappernøje,30,1354733.0,11-03-2013,Fam.,11289,4,Villa,120,1977,
+Mårvænget 8 4733 Tappernøje,8,920000.0,27-02-2013,Alm.,6618,5,Villa,139,1977,-6 %
+Åsidevej 7 4733 Tappernøje,7,6900000.0,26-02-2013,Fam.,23389,9,Stuehus,295,1858,
+Stavnstrupvej 62 4733 Tappernøje,62,235000.0,31-01-2013,Alm.,5875,2,Villa,40,1750,
+Strandvejen 47 4733 Tappernøje,47,1200000.0,04-01-2013,Alm.,14117,4,Villa,85,1956,
+Hovedvejen 3 4733 Tappernøje,3,795000.0,20-12-2012,Alm.,7098,4,Villa,112,1936,0 %
+Hovedvejen 37 4733 Tappernøje,37,1500000.0,20-12-2012,Alm.,9868,4,Villa,152,1930,
+Kildebakken 41 4733 Tappernøje,41,1117000.0,11-12-2012,Andet,8592,4,Stuehus,130,1846,
+Stavnstrupvej 16 4733 Tappernøje,16,850000.0,07-12-2012,Fam.,5821,5,Villa,146,1840,
+Stavnstrupvej 34 4733 Tappernøje,34,2382914.0,05-12-2012,Alm.,14441,6,Villa,165,1901,
+Harevænget 75 4733 Tappernøje,75,895000.0,04-12-2012,Alm.,7991,4,Villa,112,1977,-5 %
+Sneserevej 88 4733 Tappernøje,88,225000.0,19-11-2012,Auktion,1530,3,Villa,147,1909,
+Størlingevej 21 4733 Tappernøje,21,952222.0,19-10-2012,Alm.,0,4,Villa,139,1906,37 %
+Gl Skolevej 3 4733 Tappernøje,3,150000.0,16-10-2012,Alm.,1401,4,Villa,107,1921,-62 %
+Størlingevej 30 4733 Tappernøje,30,1100000.0,14-10-2012,Alm.,7857,4,Villa,140,1820,
+Stavnstrupvej 22 4733 Tappernøje,22,1950000.0,28-09-2012,Alm.,10597,4,Villa,184,1880,-2 %
+Vildtbanevej 11 4733 Tappernøje,11,700000.0,25-09-2012,Alm.,5185,5,Villa,135,1968,-22 %
+Snesere Torpvej 20 4733 Tappernøje,20,3995000.0,06-09-2012,Alm.,19393,4,Stuehus,206,1880,0 %
+Kildebakken 27 4733 Tappernøje,27,125000.0,28-08-2012,Alm.,538,7,Stuehus,232,1880,
+Hovedvejen 9 4733 Tappernøje,9,400000.0,08-08-2012,Alm.,4210,4,Villa,95,1948,-11 %
+Strandvejen 65 4733 Tappernøje,65,1040806.0,25-07-2012,Auktion,8006,3,Villa,130,1877,-39 %
+Sneserevej 80 4733 Tappernøje,80,550000.0,02-07-2012,Andet,2972,5,Villa,185,1904,-27 %
+Bygårdsvej 1 4733 Tappernøje,1,475000.0,02-07-2012,Auktion,4241,4,Villa,112,1971,-21 %
+Centervej 11 4733 Tappernøje,11,1237500.0,22-06-2012,Alm.,6582,6,Villa,188,2011,
+Everdrupvej 24 4733 Tappernøje,24,90000.0,30-05-2012,Auktion,1384,3,Villa,65,1963,-79 %
+Svingkærvej 12 4733 Tappernøje,12,407900.0,24-05-2012,Auktion,3641,4,Villa,112,1980,-49 %
+Kirkevej 8 4733 Tappernøje,8,275000.0,18-05-2012,Alm.,3055,4,Villa,90,1902,-31 %
+Oddervænget 23 4733 Tappernøje,23,750000.0,14-05-2012,Alm.,7352,4,Villa,102,1988,
+Snesere Torpvej 45 4733 Tappernøje,45,958218.0,09-05-2012,Fam.,4839,5,Stuehus,198,1921,
+Engelstrupvej 20 4733 Tappernøje,20,425000.0,08-05-2012,Alm.,3935,4,Villa,108,1969,
+Kildebakken 31 4733 Tappernøje,31,375000.0,30-04-2012,Auktion,3947,4,Villa,95,1882,-12 %
+Nyvej 1 4733 Tappernøje,1,600000.0,30-04-2012,Alm.,5825,4,Villa,103,1968,
+Sjoltevej 40 4733 Tappernøje,40,1400000.0,20-04-2012,Alm.,9333,6,Villa,150,1966,-8 %
+Møllevej 5 4733 Tappernøje,5,575000.0,14-04-2012,Andet,3833,5,Villa,150,1968,
+Mårvænget 29 4733 Tappernøje,29,678822.0,03-04-2012,Alm.,6060,4,Villa,112,1979,
+Sneserevej 1 4733 Tappernøje,1,1229000.0,02-04-2012,Alm.,9171,6,Villa,134,1913,-18 %
+Brøderupvej 3 4733 Tappernøje,3,460000.0,26-03-2012,Alm.,4423,3,Villa,104,1959,-19 %
+"Hovedvejen 79, 1 4733 Tappernøje",1,10000.0,26-03-2012,Auktion,120,3,Anden beboelse,83,1925,
+Rønnedevej 20 4733 Tappernøje,20,9096927.0,26-03-2012,Fam.,55132,3,Stuehus,165,1900,
+Brøderupvej 7B 4733 Tappernøje,0,180000.0,15-03-2012,Auktion,2093,2,Villa,86,1911,
+Sneserevej 90 4733 Tappernøje,90,1700000.0,20-02-2012,Alm.,11333,4,Villa,150,1890,
+Pilevej 18 4733 Tappernøje,18,674760.0,10-02-2012,Alm.,4621,5,Villa,146,1966,
+Harevænget 33 4733 Tappernøje,33,900000.0,26-01-2012,Alm.,7692,4,Villa,117,1978,-10 %
+Karlshøj 32A 4733 Tappernøje,0,474000.0,20-12-2011,Auktion,3314,3,Villa,143,1966,
+Sneserevej 75 4733 Tappernøje,75,250000.0,14-12-2011,Alm.,2272,3,Villa,110,1920,0 %
+Sjoltevej 14 4733 Tappernøje,14,1080787.0,22-11-2011,Alm.,4358,9,Stuehus,248,1900,
+Flintemosevej 23 4733 Tappernøje,23,468300.0,12-11-2011,Fam.,0,5,Sommerhus,97,1854,
+Flintemosevej 8 4733 Tappernøje,8,100000.0,09-11-2011,Alm.,1428,3,Villa,70,1870,
+Kærvej 6 4733 Tappernøje,6,757625.0,24-10-2011,Andet,3845,6,Villa,197,1825,-55 %
+Hovedvejen 52 4733 Tappernøje,52,600000.0,12-10-2011,Auktion,4081,7,Engroshandel,147,1900,
+Harevænget 86 4733 Tappernøje,86,775000.0,05-10-2011,Alm.,6919,4,Villa,112,1978,-9 %
+Brøderupvej 40 4733 Tappernøje,40,701250.0,28-09-2011,Fam.,3895,7,Villa,180,1880,
+Fasanvænget 31 4733 Tappernøje,31,975000.0,27-09-2011,Alm.,8705,4,Villa,112,1979,0 %
+Bredeshave Strand 1 4733 Tappernøje,1,1800000.0,07-09-2011,Alm.,7860,7,Villa,229,1968,-10 %
+Rønnedevej 24 4733 Tappernøje,24,695000.0,31-08-2011,Alm.,6950,5,Villa,100,1896,0 %
+Scheelsvej 3 4733 Tappernøje,3,1295000.0,27-08-2011,Alm.,7801,5,Villa,166,1976,0 %
+Mårvænget 7 4733 Tappernøje,7,915000.0,22-08-2011,Alm.,7204,4,Villa,127,1982,-8 %
+Fasanvænget 46 4733 Tappernøje,46,1100000.0,09-08-2011,Alm.,9821,4,Villa,112,1977,-6 %
+Everdrupvej 15 4733 Tappernøje,15,1335000.0,01-07-2011,Alm.,8668,5,Villa,154,1916,-11 %
+Hovedvejen 30B 4733 Tappernøje,0,580000.0,16-06-2011,Auktion,5321,3,Villa,109,1939,
+Fasanvænget 11 4733 Tappernøje,11,850000.0,16-06-2011,Alm.,7391,4,Villa,115,1977,
+Lindhøjgårdsvej 68 4733 Tappernøje,68,2420830.0,05-06-2011,Fam.,19366,4,Villa,125,2008,21 %
+Sølperupvej 3 4733 Tappernøje,3,1775000.0,23-05-2011,Alm.,12412,5,Villa,143,1885,-5 %
+Lindhøjgårdsvej 56 4733 Tappernøje,56,1300000.0,09-05-2011,Alm.,9774,5,Villa,133,2011,
+Flintemosevej 17 4733 Tappernøje,17,525000.0,24-04-2011,Alm.,7608,3,Villa,69,1827,
+Hovedvejen 97 4733 Tappernøje,97,1275000.0,30-03-2011,Andet,3464,7,Villa,368,1911,
+Askovvej 33 4733 Tappernøje,33,1025000.0,17-03-2011,Auktion,5423,6,Villa,189,1880,
+Sneserevej 64 4733 Tappernøje,64,625000.0,03-03-2011,Auktion,3612,5,Villa,173,1873,
+Fasanvænget 14 4733 Tappernøje,14,1125500.0,02-03-2011,Alm.,8591,4,Villa,131,2001,-42 %
+Sneppevænget 21 4733 Tappernøje,21,589000.0,25-02-2011,Andet,4908,4,Villa,120,1978,
+Brøderupvej 11 4733 Tappernøje,11,675000.0,09-02-2011,Fam.,4192,5,Villa,161,1963,-55 %
+Askovvej 54 4733 Tappernøje,54,995000.0,04-01-2011,Alm.,8432,5,Villa,118,1890,0 %
+Leestrup Byvej 5 4733 Tappernøje,5,1195000.0,23-11-2010,Alm.,10765,4,Villa,111,1941,0 %
+Skovvej 2 4733 Tappernøje,2,5000000.0,13-11-2010,Alm.,22727,5,Stuehus,220,1935,
+Jægervænget 7 4733 Tappernøje,7,1219994.0,09-11-2010,Fam.,10517,4,Villa,116,1974,
+Engelstrupvej 26 4733 Tappernøje,26,1500000.0,28-10-2010,Fam.,6250,7,Villa,240,1814,
+Smidstrupvej 35 4733 Tappernøje,35,1405000.0,13-10-2010,Alm.,9493,4,Villa,148,1923,-6 %
+Sneserevej 10 4733 Tappernøje,10,850000.0,13-10-2010,Alm.,7203,4,Villa,118,1942,-3 %
+Tyrehule 4 4733 Tappernøje,4,1350000.0,13-10-2010,Alm.,0,3,Villa,155,1945,
+Everdrupvej 8 4733 Tappernøje,8,1595000.0,29-09-2010,Alm.,9845,4,Villa,162,1948,
+Stavnstrupvej 41 4733 Tappernøje,41,500000.0,22-09-2010,Auktion,4273,4,Villa,117,1877,
+Askovvej 27 4733 Tappernøje,27,746697.0,19-09-2010,Andet,5656,3,Villa,132,1900,
+St Røttingevej 22 4733 Tappernøje,22,775000.0,16-09-2010,Alm.,3762,8,Villa,206,1916,-13 %
+Egernvænget 62 4733 Tappernøje,62,395000.0,13-09-2010,Alm.,1803,6,Villa,219,2012,-12 %
+Broskovvej 20 4733 Tappernøje,20,800000.0,08-09-2010,Alm.,6201,3,Villa,129,1827,-20 %
+Hovedvejen 53 4733 Tappernøje,53,1345000.0,02-09-2010,Auktion,7642,8,Villa,176,1929,
+Flintemosevej 12 4733 Tappernøje,12,390000.0,01-09-2010,Alm.,6190,3,Villa,63,1900,-2 %
+Askovvej 52 4733 Tappernøje,52,400000.0,20-08-2010,Alm.,5405,2,Villa,74,1870,-10 %
+Mårvænget 1 4733 Tappernøje,1,950000.0,17-08-2010,Alm.,7851,3,Villa,121,1983,-5 %
+Snigsvej 8 4733 Tappernøje,8,1100000.0,09-08-2010,Alm.,9909,4,Villa,111,1974,
+Fasanvænget 52 4733 Tappernøje,52,917743.0,04-08-2010,Fam.,4520,4,Villa,203,1979,
+Snesere Torpvej 5 4733 Tappernøje,5,450000.0,22-07-2010,Alm.,2884,5,Villa,156,1935,-71 %
+Saksholmvej 35 4733 Tappernøje,35,10500000.0,17-07-2010,Alm.,10791,20,Villa,973,1909,
+Kærvej 7 4733 Tappernøje,7,1750000.0,09-07-2010,Alm.,7709,5,Villa,227,1780,-3 %
+Hovedvejen 39 4733 Tappernøje,39,1000000.0,07-07-2010,Alm.,5263,6,Villa,190,1943,
+Tågeskov Overdrev 18 4733 Tappernøje,18,1395000.0,07-07-2010,Alm.,13543,4,Villa,103,1827,0 %
+Sneppevænget 5 4733 Tappernøje,5,1100000.0,17-06-2010,Alm.,10476,4,Villa,105,1978,-8 %
+Smidstrupvej 21 4733 Tappernøje,21,700000.0,14-06-2010,Alm.,2573,9,Villa,272,1922,-22 %
+Skovvej 4 4733 Tappernøje,4,1445000.0,11-06-2010,Fam.,10864,3,Stuehus,133,1942,
+Korskildevej 9 4733 Tappernøje,9,1575000.0,09-06-2010,Alm.,14062,4,Stuehus,112,1909,-16 %
+Sneppevænget 23 4733 Tappernøje,23,426711.0,09-06-2010,Fam.,4063,4,Villa,105,1979,
+Brøderupvej 41 4733 Tappernøje,41,500000.0,27-05-2010,Alm.,3846,4,Villa,130,1900,
+Svingkærvej 7 4733 Tappernøje,7,2450000.0,26-05-2010,Auktion,7954,7,Villa,308,1900,-26 %
+Egernvænget 64 4733 Tappernøje,64,350000.0,26-04-2010,Fam.,1758,6,Villa,199,2012,
+Jægersborgvej 7 4733 Tappernøje,7,1900000.0,31-03-2010,Alm.,16379,4,Villa,116,1986,
+Mårvænget 26 4733 Tappernøje,26,950000.0,09-03-2010,Alm.,8482,4,Villa,112,1979,-5 %
+Pilevej 10 4733 Tappernøje,10,1195000.0,23-02-2010,Alm.,0,5,Villa,108,1967,
+Kildevej 2 4733 Tappernøje,2,870000.0,14-01-2010,Auktion,0,5,Villa,192,1917,-27 %
+Harevænget 46 4733 Tappernøje,46,1525000.0,04-12-2009,Alm.,11296,5,Villa,135,2008,-4 %
+Sneppevænget 25 4733 Tappernøje,25,960000.0,30-11-2009,Alm.,9142,4,Villa,105,1979,-11 %
+Sneppevænget 7 4733 Tappernøje,7,1295000.0,20-11-2009,Alm.,11562,4,Villa,112,1978,0 %
+Kildebakken 24 4733 Tappernøje,24,940000.0,12-11-2009,Alm.,8173,4,Villa,115,1963,-4 %
+Mårvænget 9 4733 Tappernøje,9,1625000.0,04-11-2009,Alm.,13541,4,Villa,120,2000,0 %
+Sølperupvej 6 4733 Tappernøje,6,2925000.0,30-10-2009,Alm.,11987,11,Villa,244,1926,2 %
+Harevænget 56B 4733 Tappernøje,0,1745000.0,24-10-2009,Alm.,11405,5,Villa,153,2008,0 %
+Egernvænget 6 4733 Tappernøje,6,1379000.0,20-10-2009,Alm.,8565,5,Villa,161,1967,-1 %
+Gl Skolevej 15 4733 Tappernøje,15,1250000.0,01-10-2009,Alm.,8169,5,Villa,153,1887,
+Sneserevej 36 4733 Tappernøje,36,790000.0,29-09-2009,Alm.,7523,3,Villa,105,1901,-17 %
+Størlingevej 53 4733 Tappernøje,53,2375000.0,24-07-2009,Alm.,10371,7,Villa,229,1847,0 %
+Harevænget 76A 4733 Tappernøje,0,1900000.0,17-07-2009,Alm.,13768,5,Villa,138,2006,-3 %
+Toftegårdsvej 14 4733 Tappernøje,14,890000.0,27-05-2009,Alm.,9270,3,Villa,96,1968,-1 %
+Harevænget 72 4733 Tappernøje,72,1985113.0,25-05-2009,Alm.,14281,5,Villa,139,2009,5 %
+Egernvænget 50 4733 Tappernøje,50,2250000.0,06-05-2009,Alm.,12857,5,Villa,175,2008,-2 %
+Rypevænget 23 4733 Tappernøje,23,1975000.0,24-03-2009,Alm.,10618,5,Villa,186,2004,-6 %
+Harevænget 52 4733 Tappernøje,52,400000.0,23-03-2009,Alm.,3539,3,Villa,113,2010,
+Bårsevej 19 4733 Tappernøje,19,375000.0,16-03-2009,Alm.,4076,4,Villa,92,1877,-32 %
+Kildebakken 18 4733 Tappernøje,18,334784.0,12-03-2009,Andet,3219,3,Villa,104,1930,
+Størlingevej 15 4733 Tappernøje,15,1062000.0,17-02-2009,Fam.,8362,5,Villa,127,1922,
+Sjoltevej 11 4733 Tappernøje,11,6885000.0,10-02-2009,Fam.,29934,7,Stuehus,230,1900,
+Lundhøjvej 5 4733 Tappernøje,5,1650000.0,21-01-2009,Alm.,12790,5,Villa,129,1978,-7 %
+Stavnstrupvej 52 4733 Tappernøje,52,1050000.0,29-12-2008,Alm.,11170,3,Villa,94,1905,-9 %
+Kongskildevej 4 4733 Tappernøje,4,3585000.0,17-12-2008,Alm.,9689,9,Stuehus,370,1924,-10 %
+Everdrupvej 13 4733 Tappernøje,13,1830000.0,24-10-2008,Alm.,14186,5,Villa,129,1939,-1 %
+Hulebækvej 2 4733 Tappernøje,2,850000.0,24-09-2008,Fam.,4569,7,Villa,186,1877,
+Størlingevej 9 4733 Tappernøje,9,972562.0,22-09-2008,Alm.,2114,10,Stuehus,460,2002,
+Nyvej 8 4733 Tappernøje,8,1395000.0,14-09-2008,Alm.,10568,5,Villa,132,1967,-5 %
+Askovvej 10 4733 Tappernøje,10,150000.0,04-09-2008,Alm.,993,4,Stuehus,151,1902,
+Brøderupvej 48 4733 Tappernøje,48,1600000.0,04-09-2008,Alm.,9411,5,Villa,170,1800,-6 %
+Stavnstrupvej 51 4733 Tappernøje,51,1420000.0,02-09-2008,Alm.,9861,5,Rækkehus,144,1802,-5 %
+Størlingevej 72 4733 Tappernøje,72,3600000.0,27-08-2008,Alm.,15929,7,Stuehus,226,1880,
+Rønnedevej 33 4733 Tappernøje,33,1575000.0,19-08-2008,Alm.,11842,5,Stuehus,133,1900,-5 %
+Hovedvejen 76 4733 Tappernøje,76,5677632.0,14-08-2008,Alm.,54072,3,Villa,105,1900,
+Brøderupvej 4 4733 Tappernøje,4,1125000.0,08-08-2008,Alm.,8272,3,Villa,136,1904,
+Højgårdsvej 2 4733 Tappernøje,2,250000.0,15-07-2008,Fam.,1096,7,Stuehus,228,1780,
+Kildebakken 20 4733 Tappernøje,20,1525000.0,16-06-2008,Alm.,11466,4,Villa,133,1934,-9 %
+Sjoltevej 15 4733 Tappernøje,15,1000000.0,11-06-2008,Alm.,11111,4,Villa,90,1877,-16 %
+Bygårdsvej 3 4733 Tappernøje,3,1640000.0,16-05-2008,Alm.,11714,5,Villa,140,1971,0 %
+Askovvej 31 4733 Tappernøje,31,90000.0,14-05-2008,Alm.,468,6,Stuehus,192,1867,
+Askovvej 50 4733 Tappernøje,50,1430000.0,30-04-2008,Alm.,6809,7,Villa,210,1880,-8 %
+Smidstrupvej 19 4733 Tappernøje,19,1055000.0,19-04-2008,Alm.,7814,4,Villa,135,1927,
+Ll Røttingevej 5 4733 Tappernøje,5,2550000.0,17-04-2008,Alm.,17708,5,Villa,144,1909,0 %
+Hovedvejen 41 4733 Tappernøje,41,1200000.0,01-04-2008,Alm.,6857,6,Villa,175,1930,-19 %
+Harevænget 89 4733 Tappernøje,89,1575000.0,28-03-2008,Alm.,14062,4,Villa,112,1977,0 %
+Ny Prøvevej 5 4733 Tappernøje,5,1550000.0,26-03-2008,Alm.,7750,5,Stuehus,200,2010,
+Smidstrupvej 53 4733 Tappernøje,53,950000.0,14-03-2008,Alm.,7786,5,Villa,122,1877,6 %
+Snesere Torpvej 13 4733 Tappernøje,13,1800000.0,10-03-2008,Alm.,5787,7,Villa,311,1902,-10 %
+Egernvænget 68 4733 Tappernøje,68,510013.0,26-02-2008,Alm.,3090,5,Villa,165,2008,
+Rønnedevej 22 4733 Tappernøje,22,2620000.0,19-02-2008,Fam.,13034,5,Stuehus,201,1936,
+Stavnstrupvej 78 4733 Tappernøje,78,604500.0,31-01-2008,Alm.,7283,4,Villa,83,1884,
+Karlshøj 9 4733 Tappernøje,9,1525000.0,17-01-2008,Alm.,7439,9,Villa,205,1907,-8 %
+Hovedvejen 101 4733 Tappernøje,101,711060.0,15-01-2008,Alm.,2394,8,Stuehus,297,1912,
+Skovmosevej 3 4733 Tappernøje,3,692500.0,21-12-2007,Alm.,4122,4,Villa,168,1923,
+Bakkehusene 3 4733 Tappernøje,3,450000.0,18-12-2007,Alm.,3543,4,Villa,127,2008,
+Hovedvejen 82 4733 Tappernøje,82,312500.0,10-12-2007,Andet,2648,5,Villa,118,1905,
+Egernvænget 66 4733 Tappernøje,66,510000.0,29-11-2007,Alm.,3333,4,Villa,153,2008,
+Korskildevej 1 4733 Tappernøje,1,1350000.0,15-11-2007,Alm.,6650,5,Villa,203,1910,0 %
+Flintemosevej 6B 4733 Tappernøje,0,965000.0,03-11-2007,Alm.,7909,4,Villa,122,1849,
+Lindhøjgårdsvej 60 4733 Tappernøje,60,395000.0,30-10-2007,Alm.,1965,5,Villa,201,2008,
+Askovvej 44 4733 Tappernøje,44,1095000.0,24-10-2007,Alm.,7300,4,Villa,150,1850,0 %
+Stavnstrupvej 30 4733 Tappernøje,30,2038000.0,23-10-2007,Andet,8635,6,Villa,236,1901,
+Lindhøjgårdsvej 74 4733 Tappernøje,74,395000.0,22-10-2007,Alm.,3495,3,Villa,113,2009,
+Bakkehusene 2 4733 Tappernøje,2,495000.0,19-10-2007,Alm.,2538,4,Villa,195,2010,
+Sneserevej 31 4733 Tappernøje,31,3850000.0,18-10-2007,Fam.,16594,7,Villa,232,1927,
+Fasanvænget 1 4733 Tappernøje,1,1795000.0,10-10-2007,Alm.,15084,4,Villa,119,1976,0 %
+Harevænget 99 4733 Tappernøje,99,1390000.0,09-10-2007,Alm.,12410,4,Villa,112,1977,0 %
+Kirkevej 2 4733 Tappernøje,2,3100000.0,28-09-2007,Alm.,12704,7,Villa,244,1942,
+Brøderupvej 35 4733 Tappernøje,35,1835000.0,07-09-2007,Alm.,16834,3,Villa,109,1907,0 %
+Hovedvejen 88 4733 Tappernøje,88,1850000.0,30-08-2007,Alm.,13405,5,Villa,138,1924,0 %
+Storgårdsvej 1 4733 Tappernøje,1,1250000.0,26-08-2007,Alm.,7861,4,Villa,159,1944,
+Askovvej 46 4733 Tappernøje,46,975000.0,20-08-2007,Alm.,11890,3,Villa,82,1965,-2 %
+Rypevænget 52 4733 Tappernøje,52,2200000.0,18-08-2007,Alm.,16176,5,Villa,136,2004,-2 %
+Askovvej 16 4733 Tappernøje,16,1250000.0,03-08-2007,Alm.,13440,3,Villa,93,1777,-3 %
+Rypevænget 19 4733 Tappernøje,19,2350000.0,31-07-2007,Alm.,15986,5,Villa,147,2004,-2 %
+Stavnstrupvej 3 4733 Tappernøje,3,2250000.0,24-07-2007,Alm.,12711,4,Villa,177,1914,
+Broskovvej 18 4733 Tappernøje,18,9050000.0,23-07-2007,Alm.,34280,9,Stuehus,264,1906,-3 %
+Askovvej 41 4733 Tappernøje,41,699572.0,12-07-2007,Andet,4632,4,Villa,151,1917,
+Sneppevænget 2 4733 Tappernøje,2,900000.0,06-07-2007,Fam.,7758,4,Villa,116,1976,
+Hovedvejen 33 4733 Tappernøje,33,925000.0,02-07-2007,Alm.,10054,4,Villa,92,1938,-3 %
+Stavnstrupvej 49 4733 Tappernøje,49,330000.0,29-06-2007,Alm.,2000,6,Rækkehus,165,1803,-22 %
+Bakkehusene 1 4733 Tappernøje,1,450000.0,25-06-2007,Alm.,2903,5,Villa,155,2010,
+Hovedvejen 55 4733 Tappernøje,55,2300000.0,24-06-2007,Alm.,9623,8,Villa,239,1929,
+Lunden 2 4733 Tappernøje,2,3100000.0,23-06-2007,Alm.,8333,10,Stuehus,372,1830,-2 %
+Svingkærvej 14 4733 Tappernøje,14,1475000.0,10-06-2007,Alm.,13169,4,Villa,112,1979,0 %
+Størlingevej 66 4733 Tappernøje,66,495000.0,09-06-2007,Alm.,5156,3,Villa,96,1954,0 %
+Askovvej 42 4733 Tappernøje,42,1450000.0,24-05-2007,Alm.,15591,2,Villa,93,1928,0 %
+Rønnedevej 12 4733 Tappernøje,12,2600000.0,23-05-2007,Alm.,17687,3,Stuehus,147,1929,-5 %
+Rødlersvej 9 4733 Tappernøje,9,2800000.0,22-05-2007,Alm.,10370,5,Villa,270,2003,-7 %
+Rypevænget 3 4733 Tappernøje,3,1995000.0,18-05-2007,Alm.,12314,5,Villa,162,1988,
+Harevænget 44 4733 Tappernøje,44,398000.0,08-05-2007,Alm.,2863,5,Villa,139,2008,
+Everdrupvej 22 4733 Tappernøje,22,1350000.0,01-05-2007,Alm.,14062,3,Villa,96,1960,0 %
+Hovedvejen 54 4733 Tappernøje,54,1625000.0,30-04-2007,Alm.,10906,5,Villa,149,1974,0 %
+Smidstrupvej 8 4733 Tappernøje,8,8000000.0,24-04-2007,Alm.,80000,3,Stuehus,100,1959,
+Fasanvænget 28 4733 Tappernøje,28,1645000.0,21-04-2007,Alm.,13373,5,Villa,123,1977,0 %
+Sneserevej 21 4733 Tappernøje,21,1575000.0,17-04-2007,Alm.,14449,4,Villa,109,1962,-1 %
+Ny Prøvevej 10 4733 Tappernøje,10,2025000.0,13-04-2007,Alm.,15340,4,Villa,132,1962,0 %
+Hovedvejen 100 4733 Tappernøje,100,1800000.0,12-04-2007,Alm.,10465,6,Villa,172,1914,-4 %
+Sølperupvej 2D 4733 Tappernøje,0,595000.0,11-04-2007,Alm.,3269,5,Villa,182,2011,0 %
+Brøderupvej 52 4733 Tappernøje,52,607000.0,02-04-2007,Alm.,6322,3,Villa,96,1850,2 %
+Jægervænget 11 4733 Tappernøje,11,1825000.0,02-04-2007,Alm.,15208,4,Villa,120,1974,0 %
+Skovholmvej 5 4733 Tappernøje,5,395500.0,01-04-2007,Fam.,3839,3,Villa,103,1880,
+Bredeshave Strand 10B 4733 Tappernøje,0,1550000.0,06-03-2007,Alm.,8908,4,Villa,174,2013,
+Hovedvejen 42 4733 Tappernøje,42,1900000.0,27-02-2007,Alm.,17272,4,Villa,110,1968,
+Snesere Torpvej 28 4733 Tappernøje,28,1730000.0,21-02-2007,Alm.,10236,6,Villa,169,1918,
+Rypevænget 13 4733 Tappernøje,13,1655000.0,15-02-2007,Alm.,12350,6,Villa,134,1988,
+Centervej 7 4733 Tappernøje,7,285000.0,05-02-2007,Alm.,1446,7,Villa,197,2007,
+Flintemosevej 20 4733 Tappernøje,20,1100000.0,05-02-2007,Alm.,11340,6,Villa,97,1872,
+Hovedvejen 87 4733 Tappernøje,87,500000.0,25-01-2007,Fam.,3125,5,Villa,160,1935,
+Flintemosevej 1 4733 Tappernøje,1,2100000.0,15-01-2007,Alm.,15000,5,Stuehus,140,1921,-5 %
+Mårvænget 4 4733 Tappernøje,4,2750000.0,12-01-2007,Alm.,15027,5,Villa,183,2004,
+Ll Røttingevej 8 4733 Tappernøje,8,1275000.0,04-01-2007,Alm.,10714,4,Villa,119,1827,
+Sneppevænget 16 4733 Tappernøje,16,875000.0,20-12-2006,Alm.,7743,4,Villa,113,1976,
+Fasanvænget 6 4733 Tappernøje,6,1865000.0,12-12-2006,Alm.,12032,5,Villa,155,1973,
+Størlingevej 42 4733 Tappernøje,42,3600000.0,27-11-2006,Alm.,12456,8,Villa,289,1900,
+Sneppevænget 4 4733 Tappernøje,4,1425000.0,21-11-2006,Alm.,0,7,Villa,180,1978,
+Strandvejen 9 4733 Tappernøje,9,1965000.0,20-11-2006,Alm.,9825,4,Villa,200,1900,
+Strandvejen 75 4733 Tappernøje,75,1550000.0,09-11-2006,Alm.,0,10,Villa,227,1939,
+Sneserevej 40 4733 Tappernøje,40,1365000.0,30-10-2006,Alm.,10500,4,Villa,130,1877,
+Størlingevej 48 4733 Tappernøje,48,2400000.0,26-10-2006,Alm.,13259,5,Villa,181,1840,
+Brøderupvej 34 4733 Tappernøje,34,552500.0,15-10-2006,Fam.,7366,4,Villa,75,1917,
+Harevænget 48 4733 Tappernøje,48,348000.0,13-10-2006,Alm.,2503,5,Villa,139,2010,
+Rypevænget 42 4733 Tappernøje,42,1595000.0,13-10-2006,Alm.,15637,4,Villa,102,1988,
+Skovholmvej 9 4733 Tappernøje,9,1300000.0,12-10-2006,Alm.,7558,4,Villa,172,1967,
+Størlingevej 40 4733 Tappernøje,40,2200000.0,02-10-2006,Alm.,14285,7,Villa,154,1920,
+Hovedvejen 49 4733 Tappernøje,49,1300000.0,25-09-2006,Alm.,13541,3,Villa,96,1960,
+Sneppevænget 15 4733 Tappernøje,15,1575000.0,04-09-2006,Alm.,13235,4,Villa,119,1978,
+Pilevej 5 4733 Tappernøje,5,1118000.0,03-09-2006,Alm.,10750,4,Villa,104,1965,
+Harevænget 58A 4733 Tappernøje,0,348000.0,01-09-2006,Alm.,2320,5,Villa,150,2009,
+Oddervænget 8 4733 Tappernøje,8,1575000.0,30-08-2006,Alm.,12209,4,Villa,129,1986,
+Tågeskov Overdrev 20 4733 Tappernøje,20,1250000.0,31-07-2006,Alm.,18939,3,Villa,66,1877,
+Harevænget 54 4733 Tappernøje,54,348000.0,28-07-2006,Alm.,1766,8,Villa,197,2007,
+Mårvænget 11 4733 Tappernøje,11,300000.0,10-07-2006,Alm.,1775,5,Villa,169,2008,
+Skovholmvej 1 4733 Tappernøje,1,1700000.0,10-07-2006,Alm.,9497,5,Villa,179,1910,
+Kildebakken 12 4733 Tappernøje,12,1000000.0,07-07-2006,Alm.,10416,3,Villa,96,1963,
+Lundhøjvej 16 4733 Tappernøje,16,1350000.0,05-07-2006,Alm.,10546,4,Villa,128,1977,
+Tværvej 1 4733 Tappernøje,1,1005000.0,05-07-2006,Alm.,10923,2,Villa,92,1925,
+Bårsevej 7 4733 Tappernøje,7,1345000.0,04-07-2006,Alm.,9746,4,Villa,138,1877,
+Hjortevej 1 4733 Tappernøje,1,1795000.0,04-07-2006,Alm.,10141,5,Villa,177,1974,
+Brydesvej 2 4733 Tappernøje,2,340000.0,01-07-2006,Alm.,5964,2,Dobbelthus,57,1988,
+"Brydesvej 6, ST. TH 4733 Tappernøje",0,1000000.0,01-07-2006,Alm.,9523,3,Lejlighed,105,1902,
+Brydesvej 4 4733 Tappernøje,4,1000000.0,01-07-2006,Alm.,11764,3,Dobbelthus,85,1988,
+"Brydesvej 6, ST. TV 4733 Tappernøje",0,530000.0,01-07-2006,Alm.,4568,3,Lejlighed,116,1902,
+"Brydesvej 6, 1. TV 4733 Tappernøje",0,530000.0,01-07-2006,Alm.,4568,3,Lejlighed,116,1902,
+"Brydesvej 6, 2. TH 4733 Tappernøje",0,550000.0,01-07-2006,Alm.,5238,3,Lejlighed,105,1902,
+"Brydesvej 6, 1. TH 4733 Tappernøje",0,550000.0,01-07-2006,Alm.,5238,3,Lejlighed,105,1902,
+"Brydesvej 6, 2. TV 4733 Tappernøje",0,1200000.0,01-07-2006,Alm.,10344,3,Lejlighed,116,1902,
+Leestrup Skovvej 17 4733 Tappernøje,17,1500000.0,29-06-2006,Alm.,0,3,Villa,100,1877,
+Egernvænget 17 4733 Tappernøje,17,198500.0,24-06-2006,Alm.,1084,5,Villa,183,2008,
+Oddervænget 6 4733 Tappernøje,6,1255000.0,22-06-2006,Alm.,11205,4,Villa,112,1983,
+Fasanvænget 33 4733 Tappernøje,33,1040000.0,17-06-2006,Alm.,6842,7,Villa,152,1979,
+Sneppevænget 24 4733 Tappernøje,24,1645000.0,15-06-2006,Alm.,11040,4,Villa,149,1976,
+Askovvej 17 4733 Tappernøje,17,2407000.0,14-06-2006,Alm.,13994,5,Villa,172,1979,
+Fasanvænget 54 4733 Tappernøje,54,2495000.0,13-06-2006,Alm.,14505,5,Villa,172,2004,
+Sneserevej 16B 4733 Tappernøje,0,1180000.0,09-06-2006,Alm.,9833,2,Villa,120,1951,
+Lundhøjvej 11 4733 Tappernøje,11,1250000.0,06-06-2006,Alm.,9469,4,Villa,132,1979,
+Everdrupvej 10 4733 Tappernøje,10,1545000.0,10-05-2006,Alm.,7357,5,Villa,210,1942,
+Everdrupvej 27 4733 Tappernøje,27,4750000.0,04-05-2006,Alm.,0,7,Stuehus,229,1927,
+Tværvej 3 4733 Tappernøje,3,1720000.0,03-05-2006,Alm.,11466,4,Villa,150,1945,
+Fasanvænget 30 4733 Tappernøje,30,1260000.0,28-04-2006,Alm.,11250,4,Villa,112,1977,
+Brøderupvej 26 4733 Tappernøje,26,700003.0,24-04-2006,Andet,4964,6,Villa,141,1866,
+Sneserevej 58 4733 Tappernøje,58,2500000.0,10-04-2006,Alm.,10330,6,Stuehus,242,1880,
+Smidstrupvej 22 4733 Tappernøje,22,1514000.0,06-04-2006,Alm.,10026,5,Villa,151,1928,
+Jægersborgvej 4 4733 Tappernøje,4,1650000.0,31-03-2006,Alm.,10855,5,Villa,152,1971,
+Sneserevej 3 4733 Tappernøje,3,975000.0,30-03-2006,Alm.,0,4,Villa,138,1929,
+Bårsevej 17 4733 Tappernøje,17,134800.0,24-03-2006,Alm.,1053,5,Villa,128,1906,
+Smidstrupvej 28 4733 Tappernøje,28,895000.0,16-03-2006,Alm.,11933,2,Villa,75,1907,
+Fasanvænget 18 4733 Tappernøje,18,435000.0,07-03-2006,Andet,3883,4,Villa,112,1978,
+Fasanvænget 7 4733 Tappernøje,7,1465000.0,21-02-2006,Alm.,12415,4,Villa,118,1993,
+Sølperupvej 5A 4733 Tappernøje,0,3070000.0,19-02-2006,Fam.,19554,8,Stuehus,157,1880,
+"Hovedvejen 68, 1 4733 Tappernøje",1,569500.0,16-02-2006,Fam.,7396,3,Anden beboelse,77,1927,
+Flintemosevej 22 4733 Tappernøje,22,595000.0,13-02-2006,Fam.,5666,5,Villa,105,1860,
+Harevænget 69 4733 Tappernøje,69,2325000.0,10-02-2006,Alm.,14808,5,Villa,157,2004,
+Hovedvejen 31 4733 Tappernøje,31,895000.0,07-02-2006,Alm.,9322,4,Villa,96,1949,
+Harevænget 70 4733 Tappernøje,70,1700000.0,07-02-2006,Alm.,11333,5,Villa,150,2006,
+Gl Skolevej 27 4733 Tappernøje,27,720000.0,07-02-2006,Fam.,3750,7,Villa,192,1877,
+Kildevej 13 4733 Tappernøje,13,1025000.0,27-01-2006,Alm.,8134,3,Villa,126,1977,
+St Røttingevej 8 4733 Tappernøje,8,1250000.0,27-01-2006,Alm.,9689,5,Villa,129,1966,
+Rønnedevej 37 4733 Tappernøje,37,808000.0,20-01-2006,Fam.,5179,4,Villa,156,1889,
+Hjortevej 6 4733 Tappernøje,6,1150000.0,14-01-2006,Alm.,9913,4,Villa,116,1976,
+Rypevænget 11 4733 Tappernøje,11,1320000.0,05-12-2005,Alm.,12941,4,Villa,102,1988,
+Svingkærvej 24 4733 Tappernøje,24,1285000.0,01-12-2005,Alm.,12598,4,Villa,102,1988,
+Hjortevej 3 4733 Tappernøje,3,1165566.0,28-11-2005,Fam.,6585,7,Villa,177,1973,
+Sneserevej 32 4733 Tappernøje,32,924066.0,28-11-2005,Fam.,10744,3,Villa,86,1961,
+Strandvejen 19 4733 Tappernøje,19,1815000.0,24-11-2005,Alm.,9705,6,Villa,187,1877,
+"Hovedvejen 67, 1 4733 Tappernøje",1,2430000.0,22-11-2005,Alm.,12789,7,Anden beboelse,190,1936,
+Smidstrupvej 11 4733 Tappernøje,11,850000.0,21-11-2005,Alm.,0,5,Villa,206,1928,
+Hovedvejen 81F 4733 Tappernøje,0,1450000.0,09-11-2005,Alm.,9294,4,Lejlighed,156,1927,
+Harevænget 66 4733 Tappernøje,66,270500.0,05-11-2005,Alm.,1932,5,Villa,140,2006,
+Saksholmvej 43 4733 Tappernøje,43,1295000.0,03-11-2005,Alm.,8043,5,Villa,161,1900,
+Oddervænget 1 4733 Tappernøje,1,900000.0,02-11-2005,Fam.,8108,3,Villa,111,1973,
+Mårvænget 22 4733 Tappernøje,22,1395000.0,27-10-2005,Alm.,12455,4,Villa,112,1978,
+Harevænget 68 4733 Tappernøje,68,270500.0,19-10-2005,Alm.,1639,5,Villa,165,2010,
+Kærvej 4 4733 Tappernøje,4,391867.0,12-10-2005,Alm.,4213,4,Villa,93,1960,
+Rypevænget 17 4733 Tappernøje,17,2300000.0,10-10-2005,Alm.,16197,4,Villa,142,2004,
+Everdrupvej 7 4733 Tappernøje,7,571732.0,08-10-2005,Andet,2634,8,Villa,217,1924,
+Flintemosevej 9 4733 Tappernøje,9,900000.0,01-10-2005,Alm.,13846,2,Villa,65,1882,
+Egernvænget 22 4733 Tappernøje,22,350000.0,29-09-2005,Alm.,1583,5,Villa,221,2008,
+Harevænget 80B 4733 Tappernøje,0,270500.0,28-09-2005,Alm.,1932,5,Villa,140,2006,
+Tværvej 5 4733 Tappernøje,5,975000.0,20-09-2005,Alm.,10156,3,Villa,96,1951,
+Rønnedevej 28 4733 Tappernøje,28,785000.0,16-09-2005,Alm.,9812,3,Villa,80,1881,
+Brøderupvej 8 4733 Tappernøje,8,1250000.0,08-09-2005,Alm.,10869,4,Villa,115,1966,
+Kildebakken 1 4733 Tappernøje,1,100000.0,05-09-2005,Alm.,458,10,Villa,218,1870,
+Smidstrupvej 54 4733 Tappernøje,54,2500000.0,03-09-2005,Alm.,15625,5,Stuehus,160,1877,
+St Røttingevej 10 4733 Tappernøje,10,1035000.0,23-08-2005,Alm.,0,5,Villa,186,1856,
+Hovedvejen 51 4733 Tappernøje,51,925000.0,13-08-2005,Alm.,10511,3,Villa,88,1958,
+Hovedvejen 20 4733 Tappernøje,20,977500.0,13-08-2005,Fam.,5522,5,Villa,177,1953,
+Hovedvejen 81D 4733 Tappernøje,0,1195000.0,12-08-2005,Alm.,9122,3,Lejlighed,131,1927,
+Jægervænget 13 4733 Tappernøje,13,1095000.0,09-08-2005,Alm.,10735,4,Villa,102,1974,
+Hovedvejen 26 4733 Tappernøje,26,1000000.0,02-08-2005,Alm.,5405,6,Villa,185,1925,
+Kærvej 14 4733 Tappernøje,14,1326000.0,01-08-2005,Andet,6254,4,Villa,212,1680,
+Vildtbanevej 9 4733 Tappernøje,9,800000.0,20-07-2005,Fam.,7142,5,Villa,112,1969,
+St Røttingevej 4 4733 Tappernøje,4,1825000.0,20-07-2005,Alm.,10928,5,Villa,167,1977,
+Rønnedevej 26 4733 Tappernøje,26,1500000.0,19-07-2005,Alm.,8823,4,Villa,170,1952,
+Hovedvejen 81E 4733 Tappernøje,0,1045000.0,15-07-2005,Alm.,10773,3,Lejlighed,97,1927,
+Tågeskov By 4 4733 Tappernøje,4,850000.0,12-07-2005,Alm.,0,5,Villa,159,1895,
+Hybenvej 2 4733 Tappernøje,2,754904.0,10-07-2005,Andet,6087,4,Villa,124,1972,
+Scheelsvej 1 4733 Tappernøje,1,2500000.0,09-07-2005,Alm.,14705,5,Villa,170,1970,
+Egernvænget 5 4733 Tappernøje,5,250000.0,30-06-2005,Alm.,1269,5,Villa,197,2008,
+Harevænget 78A 4733 Tappernøje,0,270500.0,17-06-2005,Alm.,1669,5,Villa,162,2005,
+Harevænget 35 4733 Tappernøje,35,1175000.0,12-06-2005,Alm.,11519,4,Villa,102,1987,
+Egernvænget 26 4733 Tappernøje,26,150000.0,08-06-2005,Alm.,694,6,Villa,216,2006,
+Everdrupvej 17 4733 Tappernøje,17,1610000.0,05-06-2005,Alm.,10189,6,Villa,158,1912,
+Brøderupvej 19 4733 Tappernøje,19,555000.0,02-06-2005,Alm.,6306,3,Villa,88,1925,
+St Røttingevej 9 4733 Tappernøje,9,439109.0,31-05-2005,Alm.,4142,3,Villa,106,1909,
+Sneserevej 34 4733 Tappernøje,34,735000.0,30-05-2005,Alm.,8352,3,Villa,88,1961,
+Everdrupvej 16 4733 Tappernøje,16,1350000.0,22-05-2005,Alm.,6164,5,Villa,219,1827,
+Smidstrupvej 64 4733 Tappernøje,64,5500000.0,20-05-2005,Fam.,25000,7,Stuehus,220,1900,
+Smidstrupvej 66 4733 Tappernøje,66,1300000.0,20-05-2005,Fam.,0,4,Villa,67,1924,
+Hovedvejen 4 4733 Tappernøje,4,2100000.0,15-05-2005,Alm.,4918,10,Villa,427,1912,
+Ny Prøvevej 8 4733 Tappernøje,8,2400000.0,13-05-2005,Alm.,6818,5,Villa,352,1877,
+Leestrup Byvej 14 4733 Tappernøje,14,2398750.0,12-05-2005,Alm.,10078,7,Stuehus,238,2009,
+Harevænget 82 4733 Tappernøje,82,1395000.0,30-04-2005,Alm.,7045,7,Villa,198,1978,
+Mårvænget 2 4733 Tappernøje,2,1035000.0,11-04-2005,Alm.,7137,4,Villa,145,1964,
+Egernvænget 16 4733 Tappernøje,16,190000.0,04-04-2005,Alm.,1079,4,Villa,176,2006,
+Smidstrupvej 4 4733 Tappernøje,4,645000.0,30-03-2005,Alm.,4031,7,Villa,160,1909,
+Smidstrupvej 31 4733 Tappernøje,31,1300000.0,29-03-2005,Fam.,9027,5,Villa,144,1930,
+Harevænget 91 4733 Tappernøje,91,1010000.0,24-03-2005,Alm.,9017,4,Villa,112,1977,
+Hovvej 7 4733 Tappernøje,7,765000.0,22-03-2005,Alm.,6538,5,Villa,117,1900,
+Harevænget 74 4733 Tappernøje,74,270500.0,18-03-2005,Alm.,2033,5,Villa,133,2005,
+Kildebakken 17 4733 Tappernøje,17,1725000.0,12-03-2005,Alm.,7666,7,Villa,225,1929,
+Teglvej 4A 4733 Tappernøje,0,1150000.0,10-03-2005,Alm.,12234,3,Villa,94,1998,
+Sneserevej 5 4733 Tappernøje,5,610000.0,28-02-2005,Alm.,6100,4,Villa,100,1916,
+Skovmosevej 5 4733 Tappernøje,5,1197500.0,28-02-2005,Fam.,5206,6,Villa,230,1923,
+Hovedvejen 80 4733 Tappernøje,80,995000.0,23-02-2005,Alm.,4606,5,Villa,216,1910,
+Brøderupvej 44 4733 Tappernøje,44,962200.0,12-02-2005,Alm.,7886,4,Villa,122,1900,
+Pilevej 3 4733 Tappernøje,3,870000.0,04-02-2005,Alm.,9666,3,Villa,90,1966,
+Ll Røttingevej 12 4733 Tappernøje,12,1100000.0,30-01-2005,Alm.,0,4,Stuehus,260,1870,
+Sjoltevej 34 4733 Tappernøje,34,1800000.0,29-01-2005,Alm.,7287,6,Villa,247,2011,
+Brøderupvej 24 4733 Tappernøje,24,5475000.0,14-01-2005,Alm.,27375,5,Stuehus,200,1877,
+Hovedvejen 30A 4733 Tappernøje,0,1003449.0,06-01-2005,Fam.,0,5,Villa,182,1929,
+Sølperupvej 1 4733 Tappernøje,1,1250000.0,05-01-2005,Alm.,5924,5,Villa,211,1877,
+Hovedvejen 44 4733 Tappernøje,44,637500.0,05-01-2005,Fam.,4553,5,Villa,140,1929,
+Sneserevej 24 4733 Tappernøje,24,695000.0,03-01-2005,Alm.,9144,4,Villa,76,1951,
+Brøderupvej 6 4733 Tappernøje,6,415000.0,20-12-2004,Andet,3458,4,Villa,120,1910,
+Hjortevej 4 4733 Tappernøje,4,1116000.0,20-12-2004,Fam.,6603,5,Villa,169,1974,
+Egernvænget 20 4733 Tappernøje,20,80000.0,11-12-2004,Alm.,555,4,Villa,144,2006,
+Everdrupvej 26 4733 Tappernøje,26,618985.0,30-11-2004,Alm.,5032,4,Villa,123,1972,
+Korskildevej 4 4733 Tappernøje,4,1695000.0,23-11-2004,Alm.,9313,7,Villa,182,1780,
+Teglvej 2A 4733 Tappernøje,0,1000000.0,03-11-2004,Alm.,8620,4,Villa,116,1971,
+Sneppevænget 10 4733 Tappernøje,10,870000.0,26-10-2004,Alm.,0,4,Villa,113,1976,
+Askovvej 19 4733 Tappernøje,19,1035000.0,22-10-2004,Alm.,7392,4,Villa,140,1932,
+Engelstrupvej 1 4733 Tappernøje,1,725000.0,19-10-2004,Alm.,5620,4,Villa,129,1960,
+Fasanvænget 17 4733 Tappernøje,17,687500.0,05-10-2004,Alm.,3489,6,Villa,197,1998,
+Kildebakken 39 4733 Tappernøje,39,791925.0,06-09-2004,Andet,3369,8,Villa,235,1989,
+Kildebakken 21 4733 Tappernøje,21,875000.0,01-09-2004,Alm.,5434,6,Villa,161,1948,
+Strandvejen 49 4733 Tappernøje,49,1815000.0,21-08-2004,Alm.,16061,4,Villa,113,1837,
+Møllevej 3 4733 Tappernøje,3,1050000.0,18-08-2004,Alm.,11931,3,Villa,88,1968,
+Ll Røttingevej 17 4733 Tappernøje,17,775000.0,16-08-2004,Alm.,7524,4,Villa,103,1860,
+Snesere Torpvej 11 4733 Tappernøje,11,875000.0,03-08-2004,Alm.,6481,5,Villa,135,1920,
+Hovedvejen 65 4733 Tappernøje,65,775000.0,26-07-2004,Alm.,6200,5,Villa,125,1934,
+Flintemosevej 3 4733 Tappernøje,3,2050000.0,06-07-2004,Alm.,7824,10,Villa,262,1922,
+Sneserevej 46 4733 Tappernøje,46,925000.0,22-06-2004,Fam.,9343,3,Villa,99,1910,
+Kongskildevej 6 4733 Tappernøje,6,480000.0,16-06-2004,Alm.,9600,2,Villa,50,1827,
+Egernvænget 29 4733 Tappernøje,29,93800.0,14-06-2004,Alm.,432,6,Villa,217,2009,
+Egernvænget 27 4733 Tappernøje,27,91400.0,14-06-2004,Alm.,491,5,Villa,186,2005,
+Størlingevej 68 4733 Tappernøje,68,298000.0,07-06-2004,Fam.,3973,4,Villa,75,1884,
+Mårvænget 10 4733 Tappernøje,10,995000.0,04-06-2004,Alm.,8883,4,Villa,112,1979,
+Tågeskovvej 16 4733 Tappernøje,16,1400000.0,03-06-2004,Alm.,10294,5,Villa,136,1917,
+Everdrupvej 23 4733 Tappernøje,23,385000.0,02-06-2004,Fam.,3437,4,Villa,112,1901,
+Harevænget 81 4733 Tappernøje,81,1490000.0,24-05-2004,Alm.,12627,4,Villa,118,2004,
+Tågeskov Overdrev 12A 4733 Tappernøje,0,1385000.0,24-05-2004,Alm.,4616,6,Villa,300,2010,
+Bredeshave Strand 8 4733 Tappernøje,8,2208425.0,13-05-2004,Alm.,12002,6,Villa,184,1965,
+Engelstrupvej 6 4733 Tappernøje,6,950000.0,10-05-2004,Alm.,4846,5,Villa,196,1930,
+Sneserevej 44 4733 Tappernøje,44,550000.0,10-05-2004,Alm.,5092,4,Villa,108,1922,
+Smidstrupvej 82 4733 Tappernøje,82,1555000.0,21-04-2004,Alm.,9841,5,Villa,158,1934,
+Sneserevej 69 4733 Tappernøje,69,1800000.0,21-04-2004,Alm.,9523,6,Villa,189,1903,
+Smidstrupvej 56 4733 Tappernøje,56,625000.0,19-04-2004,Alm.,4401,6,Villa,142,2016,
+Tågeskov Overdrev 22 4733 Tappernøje,22,2250000.0,17-04-2004,Alm.,12228,8,Stuehus,184,1947,
+Sneppevænget 13 4733 Tappernøje,13,995000.0,05-04-2004,Alm.,9476,4,Villa,105,1978,
+Bækkeskov Stræde 22 4733 Tappernøje,22,2200000.0,05-04-2004,Alm.,15277,5,Stuehus,144,1934,
+Svingkærvej 30 4733 Tappernøje,30,1225000.0,30-03-2004,Alm.,12009,4,Villa,102,1989,
+Sjoltevej 20 4733 Tappernøje,20,890000.0,30-03-2004,Alm.,9270,2,Villa,96,1850,
+Karlshøj 6 4733 Tappernøje,6,980000.0,18-03-2004,Alm.,0,7,Villa,196,1937,
+Fasanvænget 37 4733 Tappernøje,37,185000.0,08-03-2004,Alm.,1468,3,Villa,126,2004,
+Kildevej 11 4733 Tappernøje,11,1150000.0,07-03-2004,Alm.,8582,5,Villa,134,1973,
+Stavnstrupvej 53 4733 Tappernøje,53,1345000.0,11-02-2004,Alm.,8966,6,Villa,150,1948,
+Sneserevej 18 4733 Tappernøje,18,625000.0,10-02-2004,Andet,4960,5,Villa,126,1952,
+Smidstrupvej 71 4733 Tappernøje,71,62610.0,02-02-2004,Alm.,391,8,Stuehus,160,1916,
+Engelstrupvej 32 4733 Tappernøje,32,270000.0,22-01-2004,Alm.,3857,5,Villa,70,1875,
+Sneppevænget 14 4733 Tappernøje,14,1265000.0,17-12-2003,Alm.,8784,5,Villa,144,1978,
+Flintemosevej 11 4733 Tappernøje,11,620000.0,27-10-2003,Alm.,6739,4,Villa,92,1917,
+Harevænget 57 4733 Tappernøje,57,1450000.0,20-10-2003,Alm.,8100,4,Villa,179,1998,
+Fasanvænget 4 4733 Tappernøje,4,1198000.0,19-10-2003,Alm.,7304,6,Villa,164,1973,
+Mårvænget 16 4733 Tappernøje,16,910000.0,15-10-2003,Alm.,9680,3,Villa,94,1976,
+Møllevej 12 4733 Tappernøje,12,1200000.0,13-10-2003,Alm.,8571,4,Villa,140,1976,
+Askovvej 1 4733 Tappernøje,1,1395000.0,13-10-2003,Alm.,9362,3,Villa,149,1875,
+Oddervænget 15 4733 Tappernøje,15,1595000.0,11-10-2003,Alm.,7152,6,Villa,223,1988,
+Sneserevej 38 4733 Tappernøje,38,800000.0,07-10-2003,Alm.,7079,4,Villa,113,1954,
+Harevænget 79 4733 Tappernøje,79,1685000.0,22-09-2003,Alm.,11085,5,Villa,152,2003,
+Sneserevej 71 4733 Tappernøje,71,1580000.0,19-09-2003,Alm.,7821,7,Villa,202,1958,
+Mårvænget 20 4733 Tappernøje,20,835000.0,29-08-2003,Alm.,0,5,Villa,148,1978,
+Tyrehule 2 4733 Tappernøje,2,1295000.0,26-08-2003,Alm.,9384,6,Villa,138,1827,
+Kildevej 5 4733 Tappernøje,5,208984.0,18-08-2003,Alm.,1251,6,Villa,167,1971,
+Engelstrupvej 16 4733 Tappernøje,16,860000.0,14-08-2003,Alm.,9347,4,Villa,92,1964,
+Smidstrupvej 24 4733 Tappernøje,24,845000.0,28-07-2003,Alm.,10059,4,Villa,84,1908,
+Irisvej 3 4733 Tappernøje,3,518500.0,25-07-2003,Fam.,5892,3,Villa,88,1969,
+Brøderupvej 33 4733 Tappernøje,33,1037500.0,22-07-2003,Alm.,7204,3,Villa,144,1893,
+Irisvej 4 4733 Tappernøje,4,900000.0,17-07-2003,Alm.,6766,4,Villa,133,1970,
+Brøderupvej 29 4733 Tappernøje,29,982239.0,20-06-2003,Alm.,10449,4,Villa,94,1900,
+Bygårdsvej 5 4733 Tappernøje,5,1000000.0,20-06-2003,Alm.,8928,4,Villa,112,1971,
+Everdrupvej 32 4733 Tappernøje,32,855000.0,19-06-2003,Alm.,6576,5,Villa,130,1920,
+Ll Røttingevej 10 4733 Tappernøje,10,1011000.0,18-06-2003,Alm.,5585,6,Villa,181,1954,
+Hovedvejen 10 4733 Tappernøje,10,1345000.0,16-06-2003,Alm.,7041,4,Villa,191,1912,
+Everdrupvej 3 4733 Tappernøje,3,675000.0,06-06-2003,Alm.,4753,4,Villa,142,1677,
+Hovedvejen 15 4733 Tappernøje,15,775000.0,27-05-2003,Alm.,9226,3,Villa,84,1962,
+Ll Røttingevej 2 4733 Tappernøje,2,1295000.0,25-05-2003,Alm.,7194,6,Villa,180,1845,
+Rypevænget 36 4733 Tappernøje,36,1695000.0,20-05-2003,Alm.,10935,5,Villa,155,2001,
+Fasanvænget 15 4733 Tappernøje,15,975000.0,08-05-2003,Alm.,8478,4,Villa,115,1977,
+Vildtbanevej 5 4733 Tappernøje,5,825000.0,03-05-2003,Alm.,0,4,Villa,162,1970,
+Bygårdsvej 14 4733 Tappernøje,14,1075000.0,18-04-2003,Alm.,7733,4,Villa,139,1973,
+Teglværksvej 7 4733 Tappernøje,7,1150000.0,31-03-2003,Fam.,5111,7,Stuehus,225,1910,
+Fasanvænget 10 4733 Tappernøje,10,895000.0,29-03-2003,Alm.,6679,5,Villa,134,1971,
+Saksholmvej 30 4733 Tappernøje,30,300000.0,28-03-2003,Fam.,4347,3,Villa,69,1948,
+Hovedvejen 21 4733 Tappernøje,21,855000.0,27-03-2003,Alm.,6195,4,Villa,138,1925,
+Sneserevej 84 4733 Tappernøje,84,1050000.0,24-03-2003,Alm.,6402,7,Villa,164,1974,
+Snesere Torpvej 24 4733 Tappernøje,24,466945.0,10-03-2003,Alm.,2370,3,Villa,197,1900,
+Pilevej 9 4733 Tappernøje,9,646000.0,21-02-2003,Fam.,5126,4,Villa,126,1972,
+Egernvænget 2 4733 Tappernøje,2,695000.0,21-02-2003,Alm.,7473,5,Villa,93,1973,
+Bredeshave Strand 4 4733 Tappernøje,4,1587880.0,16-02-2003,Alm.,12805,4,Villa,124,2000,
+Snigsvej 7 4733 Tappernøje,7,1100000.0,07-02-2003,Alm.,7638,5,Villa,144,1973,
+Smidstrupvej 57 4733 Tappernøje,57,3060000.0,03-02-2003,Fam.,16190,8,Stuehus,189,1860,
+Jægervænget 18 4733 Tappernøje,18,700000.0,31-01-2003,Alm.,7000,4,Villa,100,1974,
+Korskildevej 8 4733 Tappernøje,8,2862000.0,22-01-2003,Alm.,14238,6,Stuehus,201,1896,
+Brøderupvej 42 4733 Tappernøje,42,415000.0,10-12-2002,Alm.,0,6,Villa,171,1964,
+Vildtbanevej 3 4733 Tappernøje,3,1065000.0,29-11-2002,Alm.,6339,5,Villa,168,1971,
+Sneserevej 6 4733 Tappernøje,6,785000.0,08-11-2002,Fam.,4617,6,Villa,170,1923,
+Engelstrupvej 14 4733 Tappernøje,14,420000.0,29-10-2002,Alm.,0,4,Villa,150,1964,
+Storgårdsvej 2 4733 Tappernøje,2,715000.0,23-10-2002,Alm.,5296,5,Villa,135,1949,
+Stavnstrupvej 63 4733 Tappernøje,63,1099272.0,19-10-2002,Andet,5974,6,Villa,184,1877,
+Sjoltevej 42 4733 Tappernøje,42,1195000.0,16-10-2002,Alm.,9958,4,Villa,120,1968,
+Kildebakken 33 4733 Tappernøje,33,770000.0,12-10-2002,Alm.,0,6,Villa,163,1891,
+Harevænget 43 4733 Tappernøje,43,1090000.0,27-09-2002,Alm.,8320,5,Villa,131,1980,
+Nyvej 9 4733 Tappernøje,9,655000.0,27-09-2002,Alm.,7797,3,Villa,84,1971,
+Askovvej 21 4733 Tappernøje,21,544914.0,24-09-2002,Fam.,3632,4,Villa,150,1900,
+Engelstrupvej 10 4733 Tappernøje,10,1430000.0,23-09-2002,Alm.,6412,6,Villa,223,1927,
+Smidstrupvej 76 4733 Tappernøje,76,360000.0,20-09-2002,Alm.,1800,8,Villa,200,1850,
+Toftegårdsvej 6 4733 Tappernøje,6,765000.0,12-09-2002,Alm.,0,4,Villa,153,1973,
+Scheelsvej 7 4733 Tappernøje,7,250000.0,12-09-2002,Alm.,912,4,Villa,274,2014,
+Jægervænget 2 4733 Tappernøje,2,950924.0,11-09-2002,Alm.,9056,4,Villa,105,1978,
+Harevænget 71 4733 Tappernøje,71,1302000.0,04-09-2002,Alm.,11522,4,Villa,113,2000,
+Kærvej 8 4733 Tappernøje,8,600000.0,27-08-2002,Fam.,3191,5,Villa,188,1927,
+Snesere Torpvej 3 4733 Tappernøje,3,767770.0,15-08-2002,Alm.,6398,4,Villa,120,1941,
+Hovedvejen 57 4733 Tappernøje,57,1060000.0,12-08-2002,Fam.,7794,5,Villa,136,1962,
+Gl Skolevej 5 4733 Tappernøje,5,1450000.0,30-07-2002,Alm.,14215,4,Stuehus,102,1900,
+Saksholmvej 41 4733 Tappernøje,41,1285200.0,22-07-2002,Alm.,8742,9,Villa,147,1880,
+Pilevej 2 4733 Tappernøje,2,1040000.0,19-07-2002,Alm.,5200,8,Villa,200,1966,
+Muldbjergvej 2 4733 Tappernøje,2,1275000.0,15-07-2002,Alm.,5059,8,Villa,252,1780,
+Skovholmvej 2 4733 Tappernøje,2,895000.0,04-07-2002,Alm.,6729,5,Villa,133,1825,
+Harevænget 83 4733 Tappernøje,83,110000.0,24-06-2002,Alm.,839,4,Villa,131,2005,
+Tågeskov By 1 4733 Tappernøje,1,1085000.0,13-06-2002,Alm.,5740,5,Villa,189,1920,
+Everdrupvej 1 4733 Tappernøje,1,1360120.0,10-06-2002,Alm.,7556,6,Villa,180,1912,
+Sjoltevej 36 4733 Tappernøje,36,1800000.0,29-05-2002,Alm.,12949,4,Villa,139,1996,
+Stavnstrupvej 7 4733 Tappernøje,7,795000.0,25-05-2002,Alm.,3680,5,Stuehus,216,2005,
+Fasanvænget 34 4733 Tappernøje,34,240000.0,10-05-2002,Alm.,1445,4,Villa,166,2002,
+Bygårdsvej 10 4733 Tappernøje,10,1200000.0,06-05-2002,Alm.,8053,4,Villa,149,1971,
+Tågeskovvej 17 4733 Tappernøje,17,1560950.0,12-04-2002,Alm.,15609,4,Stuehus,100,1817,
+Smidstrupvej 73A 4733 Tappernøje,0,311000.0,25-03-2002,Auktion,2591,3,Villa,120,1896,
+Strandvejen 51 4733 Tappernøje,51,600000.0,18-03-2002,Alm.,6382,4,Villa,94,1913,
+Fasanvænget 38 4733 Tappernøje,38,950000.0,07-03-2002,Fam.,8482,4,Villa,112,1977,
+Vildtbanevej 24 4733 Tappernøje,24,860000.0,19-02-2002,Alm.,7478,4,Villa,115,1973,
+Snesere Torpvej 43 4733 Tappernøje,43,3008000.0,06-02-2002,Alm.,23138,4,Stuehus,130,1920,
+Kildebakken 4 4733 Tappernøje,4,595000.0,01-02-2002,Alm.,4837,4,Villa,123,1900,
+Fasanvænget 40 4733 Tappernøje,40,1120000.0,29-01-2002,Alm.,6327,6,Villa,177,1980,
+Bårsevej 13 4733 Tappernøje,13,473000.0,03-01-2002,Alm.,7166,3,Villa,66,1850,
+Hovedvejen 102 4733 Tappernøje,102,345088.0,28-12-2001,Fam.,1282,6,Stuehus,269,2014,
+Hovedvejen 78 4733 Tappernøje,78,775000.0,27-12-2001,Alm.,8611,3,Villa,90,1908,
+Hovedvejen 12 4733 Tappernøje,12,700000.0,30-11-2001,Fam.,0,5,Villa,169,1953,
+Ll Røttingevej 13 4733 Tappernøje,13,1250000.0,30-11-2001,Fam.,9259,6,Stuehus,135,1890,
+Brøderupvej 22 4733 Tappernøje,22,1395000.0,21-11-2001,Alm.,8063,6,Villa,173,1988,
+Bårsevej 21 4733 Tappernøje,21,943400.0,20-11-2001,Alm.,6836,5,Villa,138,1972,
+Kongskildevej 2 4733 Tappernøje,2,150000.0,22-10-2001,Fam.,460,9,Villa,326,1857,
+Fasanvænget 2B 4733 Tappernøje,0,680000.0,24-09-2001,Alm.,6666,4,Rækkehus,102,1978,
+Sneserevej 74 4733 Tappernøje,74,715000.0,19-09-2001,Alm.,8313,3,Villa,86,1957,
+Harevænget 67 4733 Tappernøje,67,130000.0,11-09-2001,Alm.,955,5,Villa,136,2003,
+Stavnstrupvej 42 4733 Tappernøje,42,731000.0,03-09-2001,Alm.,5710,4,Villa,128,1932,
+Brøderupvej 21 4733 Tappernøje,21,650000.0,30-08-2001,Alm.,0,5,Villa,250,1737,
+Møllevej 6 4733 Tappernøje,6,585000.0,21-08-2001,Alm.,5850,3,Villa,100,1964,
+Hovedvejen 47B 4733 Tappernøje,0,1600000.0,15-08-2001,Alm.,5734,14,Villa,279,1980,
+Bækkeskov Stræde 3 4733 Tappernøje,3,1350000.0,06-08-2001,Alm.,11250,3,Stuehus,120,1940,
+Møllevej 10 4733 Tappernøje,10,655000.0,19-07-2001,Alm.,5695,4,Villa,115,1966,
+Harevænget 60 4733 Tappernøje,60,847320.0,02-07-2001,Alm.,7565,4,Villa,112,1978,
+Bækkeskov Stræde 23 4733 Tappernøje,23,5050000.0,02-07-2001,Alm.,20039,15,Engroshandel,252,1869,
+Bækkeskov Stræde 18 4733 Tappernøje,18,1550000.0,01-07-2001,Alm.,11923,5,Villa,130,1934,
+Engelstrupvej 8 4733 Tappernøje,8,894806.0,26-06-2001,Alm.,5925,5,Villa,151,1900,
+Hovedvejen 11 4733 Tappernøje,11,850000.0,21-06-2001,Alm.,7657,3,Villa,111,1946,
+Bækkeskov Stræde 30 4733 Tappernøje,30,450500.0,19-06-2001,Fam.,4290,3,Villa,105,1868,
+Egernvænget 10 4733 Tappernøje,10,80000.0,16-06-2001,Alm.,264,10,Villa,302,2004,
+Askovvej 3 4733 Tappernøje,3,375000.0,08-06-2001,Alm.,2016,4,Villa,186,1910,
+Tågeskovvej 34 4733 Tappernøje,34,650000.0,31-05-2001,Alm.,6250,4,Villa,104,1800,
+Hovedvejen 25 4733 Tappernøje,25,1600000.0,24-05-2001,Alm.,9523,7,Stuehus,168,1919,
+Sneserevej 9 4733 Tappernøje,9,631644.0,01-05-2001,Alm.,5177,5,Villa,122,1927,
+Sjoltevej 21A 4733 Tappernøje,0,459232.0,06-04-2001,Fam.,2870,5,Villa,160,1838,
+Sneserevej 11 4733 Tappernøje,11,746388.0,27-03-2001,Alm.,3750,4,Villa,199,1930,
+Karlshøj 8 4733 Tappernøje,8,685000.0,22-03-2001,Alm.,5189,5,Villa,132,1944,
+Bækkeskov Stræde 7 4733 Tappernøje,7,2800000.0,09-03-2001,Alm.,27722,4,Stuehus,101,1986,
+Tågeskov Overdrev 14 4733 Tappernøje,14,1495000.0,20-02-2001,Alm.,14375,3,Stuehus,104,1877,
+Engelstrupvej 9 4733 Tappernøje,9,1407500.0,19-02-2001,Fam.,6340,8,Stuehus,222,1870,
+Kildevej 17 4733 Tappernøje,17,416716.0,14-02-2001,Andet,3109,5,Villa,134,1973,
+Engelstrupvej 24 4733 Tappernøje,24,983900.0,09-02-2001,Alm.,7129,4,Villa,138,1777,
+Smidstrupvej 51 4733 Tappernøje,51,605000.0,06-02-2001,Alm.,6722,4,Villa,90,1850,
+Kildebakken 29 4733 Tappernøje,29,720000.0,30-01-2001,Fam.,3130,12,Villa,230,1872,
+Engelstrupvej 3 4733 Tappernøje,3,686098.0,22-12-2000,Alm.,6412,3,Villa,107,1962,
+Skovholmvej 7 4733 Tappernøje,7,457000.0,12-12-2000,Alm.,5077,3,Villa,90,1961,
+Svingkærvej 42 4733 Tappernøje,42,1075080.0,07-12-2000,Alm.,9034,4,Villa,119,1986,
+Tågeskovvej 30 4733 Tappernøje,30,839608.0,05-12-2000,Alm.,5997,4,Villa,140,1877,
+Tågeskov By 6 4733 Tappernøje,6,683421.0,08-11-2000,Alm.,6973,4,Villa,98,1954,
+Saksholmvej 29 4733 Tappernøje,29,320000.0,25-09-2000,Fam.,6153,2,Villa,52,1962,
+Hovedvejen 35 4733 Tappernøje,35,1250000.0,06-09-2000,Alm.,11261,5,Villa,111,1931,
+Hovedvejen 92B 4733 Tappernøje,0,1270096.0,28-08-2000,Alm.,0,4,Stuehus,181,1927,
+Brøderupvej 16 4733 Tappernøje,16,667000.0,23-08-2000,Fam.,2425,8,Stuehus,275,1880,
+Rypevænget 46 4733 Tappernøje,46,478375.0,15-08-2000,Alm.,3889,4,Villa,123,1998,
+Everdrupvej 30 4733 Tappernøje,30,550000.0,02-08-2000,Alm.,7236,2,Villa,76,1877,
+Videbækvej 1 4733 Tappernøje,1,895000.0,24-07-2000,Alm.,6392,3,Villa,140,1960,
+Tågeskovvej 24A 4733 Tappernøje,0,792160.0,24-07-2000,Alm.,7473,3,Anden beboelse,106,1977,
+Åsidevej 11 4733 Tappernøje,11,562000.0,24-07-2000,Alm.,3556,4,Villa,158,1900,
+Hovedvejen 14 4733 Tappernøje,14,475913.0,20-07-2000,Alm.,4906,3,Villa,97,1947,
+Askovvej 12 4733 Tappernøje,12,396044.0,14-07-2000,Alm.,5280,4,Villa,75,1904,
+Sølperupvej 10 4733 Tappernøje,10,619769.0,13-07-2000,Alm.,5297,4,Villa,117,1918,
+Bækkeskov Stræde 19 4733 Tappernøje,19,822500.0,07-07-2000,Andet,5751,4,Stuehus,143,1934,
+Tågeskovvej 20 4733 Tappernøje,20,1750000.0,06-07-2000,Alm.,12773,4,Villa,137,1917,
+Harevænget 64 4733 Tappernøje,64,823000.0,21-06-2000,Alm.,7348,4,Villa,112,1978,
+Kildebakken 43 4733 Tappernøje,43,1050000.0,14-06-2000,Alm.,7954,5,Villa,132,1877,
+Snesere Torpvej 15 4733 Tappernøje,15,670000.0,26-04-2000,Alm.,0,5,Stuehus,199,1902,
+Leestrupvej 37 4733 Tappernøje,37,1333754.0,24-04-2000,Alm.,0,5,Stuehus,178,1938,
+Æskebjergvej 5 4733 Tappernøje,5,1450000.0,19-04-2000,Alm.,5451,10,Villa,266,1880,
+Hemmestrupvej 4 4733 Tappernøje,4,4100000.0,13-04-2000,Alm.,18894,7,Stuehus,217,1907,
+Harevænget 31 4733 Tappernøje,31,62000.0,10-04-2000,Alm.,469,4,Villa,132,2001,
+Everdrupvej 19 4733 Tappernøje,19,672142.0,10-04-2000,Andet,2884,6,Villa,233,1892,
+Teglværksvej 1 4733 Tappernøje,1,225000.0,28-03-2000,Alm.,1171,5,Villa,192,2002,
+Harevænget 39 4733 Tappernøje,39,120000.0,26-03-2000,Alm.,645,6,Villa,186,2001,
+Harevænget 42 4733 Tappernøje,42,625000.0,18-03-2000,Andet,3930,5,Villa,159,1998,
+Størlingevej 38 4733 Tappernøje,38,1429000.0,02-03-2000,Alm.,6408,5,Villa,223,1907,
+Sølperupvej 2B 4733 Tappernøje,0,80000.0,14-02-2000,Alm.,0,7,Villa,221,1972,
+St Røttingevej 14 4733 Tappernøje,14,350000.0,08-02-2000,Alm.,2991,3,Villa,117,1880,
+Skovmosevej 6 4733 Tappernøje,6,550000.0,03-01-2000,Fam.,4471,4,Stuehus,123,1923,
+Bårsevej 3 4733 Tappernøje,3,283707.0,02-01-2000,Alm.,0,9,Villa,283,1856,
+Rypevænget 9 4733 Tappernøje,9,649773.0,23-12-1999,Alm.,6370,4,Villa,102,1988,
+Kildebakken 14 4733 Tappernøje,14,75000.0,08-12-1999,Alm.,403,4,Villa,186,2004,
+Bårsevej 9 4733 Tappernøje,9,387640.0,18-11-1999,Alm.,2202,6,Villa,176,1932,
+Størlingevej 25 4733 Tappernøje,25,715306.0,09-11-1999,Alm.,3472,4,Villa,206,1877,
+Karlshøj 4 4733 Tappernøje,4,125000.0,02-11-1999,Fam.,637,6,Villa,196,1937,
+Karlshøj 10 4733 Tappernøje,10,813132.0,07-10-1999,Alm.,7325,4,Villa,111,1950,
+Stavnstrupvej 18 4733 Tappernøje,18,645000.0,30-09-1999,Alm.,0,4,Villa,94,1910,
+Hjortevej 8 4733 Tappernøje,8,939980.0,20-09-1999,Alm.,6527,5,Villa,144,1975,
+Sneserevej 42 4733 Tappernøje,42,493000.0,13-09-1999,Alm.,7042,3,Villa,70,1850,
+Fasanvænget 16 4733 Tappernøje,16,90000.0,30-08-1999,Alm.,461,6,Villa,195,2001,
+Flintholm 1 4733 Tappernøje,1,1618000.0,30-08-1999,Alm.,8515,4,Stuehus,190,1827,
+Brøderupvej 39 4733 Tappernøje,39,518000.0,25-08-1999,Alm.,0,6,Villa,151,1955,
+Oddervænget 2A 4733 Tappernøje,0,108500.0,19-08-1999,Alm.,758,5,Villa,143,2000,
+Askovvej 25 4733 Tappernøje,25,485000.0,30-07-1999,Alm.,4490,4,Villa,108,1890,
+Hovedvejen 92A 4733 Tappernøje,0,280000.0,18-07-1999,Alm.,1076,8,Villa,260,1929,
+Fasanvænget 5 4733 Tappernøje,5,1145000.0,07-07-1999,Alm.,7736,5,Villa,148,1996,
+Smidstrupvej 58 4733 Tappernøje,58,305000.0,24-06-1999,Auktion,3050,4,Villa,100,1932,
+Harevænget 77 4733 Tappernøje,77,718360.0,21-06-1999,Alm.,6413,4,Villa,112,1977,
+Harevænget 37 4733 Tappernøje,37,372000.0,14-06-1999,Alm.,3321,4,Villa,112,1979,
+Hovedvejen 18A 4733 Tappernøje,0,1225568.0,09-06-1999,Alm.,8170,5,Villa,150,1968,
+Hovedvejen 16 4733 Tappernøje,16,1872380.0,02-06-1999,Alm.,7580,8,Villa,247,1920,
+Egernvænget 1 4733 Tappernøje,1,32000.0,01-06-1999,Alm.,172,6,Villa,185,2000,
+Oddervænget 13 4733 Tappernøje,13,1218000.0,17-04-1999,Alm.,5461,6,Villa,223,1988,
+Sjoltevej 16 4733 Tappernøje,16,200000.0,10-04-1999,Alm.,0,3,Villa,114,1921,
+Broskovvej 2 4733 Tappernøje,2,1100000.0,24-02-1999,Alm.,6547,6,Villa,168,1966,
+Bårsevej 10 4733 Tappernøje,10,331453.0,26-01-1999,Alm.,3724,3,Villa,89,1870,
+Pilevej 14 4733 Tappernøje,14,700000.0,15-12-1998,Fam.,0,4,Villa,151,1967,
+Kildehøjvej 4 4733 Tappernøje,4,625120.0,30-11-1998,Alm.,4845,4,Villa,129,1977,
+Hovedvejen 95 4733 Tappernøje,95,1053000.0,12-11-1998,Alm.,7521,5,Villa,140,1877,
+Smidstrupvej 33 4733 Tappernøje,33,692120.0,12-11-1998,Alm.,3327,5,Villa,208,1925,
+Snesere Torpvej 34 4733 Tappernøje,34,1109000.0,27-10-1998,Alm.,7201,7,Stuehus,154,1880,
+Snesere Torpvej 23 4733 Tappernøje,23,692000.0,05-10-1998,Alm.,5323,5,Villa,130,1913,
+Harevænget 45 4733 Tappernøje,45,1005000.0,20-09-1998,Alm.,6090,5,Villa,165,1998,
+Lundhøjvej 2 4733 Tappernøje,2,685000.0,06-09-1998,Alm.,5310,4,Villa,129,1977,
+Svingkærvej 46 4733 Tappernøje,46,985000.0,29-07-1998,Alm.,5794,4,Villa,170,1980,
+Bårsevej 8 4733 Tappernøje,8,386000.0,30-06-1998,Alm.,0,4,Villa,148,1920,
+Karlshøj 20 4733 Tappernøje,20,609000.0,30-06-1998,Alm.,4288,5,Villa,142,1959,
+Snigsvej 3 4733 Tappernøje,3,259037.0,27-06-1998,Alm.,0,5,Villa,148,1973,
+Rypevænget 50 4733 Tappernøje,50,66666.0,17-06-1998,Alm.,574,4,Villa,116,1998,
+Rypevænget 7 4733 Tappernøje,7,744846.0,02-06-1998,Alm.,0,4,Villa,102,1988,
+Sjoltevej 10 4733 Tappernøje,10,560000.0,19-05-1998,Alm.,0,5,Villa,166,1900,
+Sneserevej 30 4733 Tappernøje,30,388920.0,18-05-1998,Alm.,2818,5,Villa,138,1960,
+Askovvej 56 4733 Tappernøje,56,708000.0,16-05-1998,Alm.,5057,6,Villa,140,1870,
+Sneppevænget 20 4733 Tappernøje,20,950000.0,11-05-1998,Fam.,4279,6,Villa,222,1978,
+Rypevænget 15 4733 Tappernøje,15,599000.0,09-05-1998,Alm.,5872,4,Villa,102,1988,
+Sølperupvej 4B 4733 Tappernøje,0,280000.0,05-05-1998,Alm.,2333,4,Villa,120,1738,
+Stavnstrupvej 28 4733 Tappernøje,28,250536.0,05-05-1998,Alm.,1298,4,Stuehus,193,1920,
+Hovedvejen 90 4733 Tappernøje,90,400000.0,28-04-1998,Alm.,4210,4,Villa,95,1916,
+Størlingevej 64 4733 Tappernøje,64,430000.0,14-04-1998,Alm.,3071,4,Villa,140,1900,
+Kildebakken 7 4733 Tappernøje,7,285000.0,02-04-1998,Alm.,2261,3,Villa,126,1900,
+Bækkeskov Stræde 24 4733 Tappernøje,24,544000.0,26-03-1998,Fam.,5551,4,Stuehus,98,1934,
+Jægervænget 8 4733 Tappernøje,8,555000.0,19-03-1998,Alm.,4955,4,Villa,112,1975,
+Lundhøjvej 3 4733 Tappernøje,3,727240.0,17-03-1998,Alm.,5427,6,Villa,134,1977,
+Brøderupvej 45 4733 Tappernøje,45,536260.0,14-03-1998,Alm.,6308,3,Villa,85,1905,
+Sneserevej 23 4733 Tappernøje,23,226320.0,24-02-1998,Alm.,0,3,Villa,156,1959,
+Fasanvænget 24 4733 Tappernøje,24,1150000.0,17-02-1998,Alm.,4181,5,Villa,275,1977,
+Bårsevej 14 4733 Tappernøje,14,935000.0,06-02-1998,Fam.,3462,10,Villa,270,1926,
+Fasanvænget 35 4733 Tappernøje,35,35000.0,28-01-1998,Alm.,282,3,Villa,124,1998,
+Flintemosevej 24 4733 Tappernøje,24,1770000.0,18-12-1997,Alm.,10290,6,Stuehus,172,1877,
+Snesere Torpvej 25 4733 Tappernøje,25,2296200.0,08-12-1997,Alm.,14910,5,Stuehus,154,1875,
+Oddervænget 12 4733 Tappernøje,12,640000.0,26-11-1997,Fam.,0,4,Villa,102,1988,
+Lunden 5 4733 Tappernøje,5,359939.0,14-11-1997,Andet,2790,3,Villa,129,1913,
+Hovedvejen 71 4733 Tappernøje,71,130000.0,30-10-1997,Alm.,2000,2,Villa,65,1947,
+Kærvej 12 4733 Tappernøje,12,818000.0,23-10-1997,Alm.,6292,4,Villa,130,1967,
+Hybenvej 4 4733 Tappernøje,4,593959.0,23-09-1997,Alm.,5164,3,Villa,115,1971,
+Skovholmvej 10 4733 Tappernøje,10,2496850.0,17-09-1997,Fam.,11297,9,Stuehus,221,1951,
+Pilevej 6 4733 Tappernøje,6,949162.0,01-09-1997,Alm.,4793,6,Villa,198,1969,
+Korskildevej 14 4733 Tappernøje,14,825000.0,08-08-1997,Alm.,0,4,Villa,139,1902,
+Skovholmvej 13 4733 Tappernøje,13,1407340.0,22-07-1997,Alm.,8427,4,Villa,167,1885,
+Stavnstrupvej 58 4733 Tappernøje,58,310000.0,07-07-1997,Alm.,3734,3,Villa,83,1942,
+Tågeskov Overdrev 2 4733 Tappernøje,2,712000.0,04-07-1997,Alm.,5274,5,Villa,135,1777,
+Lundhøjvej 1 4733 Tappernøje,1,350000.0,19-06-1997,Fam.,2134,5,Villa,164,1978,
+Størlingevej 19 4733 Tappernøje,19,490000.0,05-06-1997,Fam.,5000,4,Villa,98,1827,
+Sneppevænget 19 4733 Tappernøje,19,553000.0,30-05-1997,Alm.,4608,4,Villa,120,1978,
+Irisvej 2 4733 Tappernøje,2,607170.0,22-05-1997,Alm.,4857,4,Villa,125,1970,
+Størlingevej 32 4733 Tappernøje,32,694221.0,10-05-1997,Alm.,4923,3,Villa,141,1898,
+Bækkeskov Stræde 8B 4733 Tappernøje,0,1003000.0,02-05-1997,Alm.,4600,8,Villa,218,1825,
+Tågeskov By 2 4733 Tappernøje,2,847000.0,24-04-1997,Alm.,4840,5,Villa,175,1877,
+St Røttingevej 12 4733 Tappernøje,12,1200000.0,15-04-1997,Alm.,8000,7,Villa,150,1880,
+Kildehøjvej 7 4733 Tappernøje,7,639600.0,12-04-1997,Alm.,4845,4,Villa,132,1979,
+Sjoltevej 2 4733 Tappernøje,2,703008.0,26-03-1997,Alm.,3379,7,Villa,208,1856,
+Gl Skolevej 24 4733 Tappernøje,24,650000.0,11-03-1997,Alm.,0,4,Stuehus,118,1785,
+Hulebækvej 1 4733 Tappernøje,1,863000.0,03-03-1997,Alm.,3818,6,Stuehus,226,1900,
+St Røttingevej 5 4733 Tappernøje,5,1359999.0,20-02-1997,Fam.,6799,7,Stuehus,200,1918,
+Leestrup Skovvej 18 4733 Tappernøje,18,580000.0,03-02-1997,Fam.,5132,3,Stuehus,113,1939,
+Æskebjergvej 2A 4733 Tappernøje,0,1351250.0,17-01-1997,Fam.,5217,8,Stuehus,259,1923,
+Hovedvejen 94 4733 Tappernøje,94,280000.0,09-01-1997,Alm.,0,5,Villa,179,1901,
+Svingkærvej 20 4733 Tappernøje,20,859505.0,30-12-1996,Alm.,6611,4,Villa,130,1987,
+Ny Prøvevej 3 4733 Tappernøje,3,918140.0,30-12-1996,Alm.,0,7,Stuehus,238,1945,
+Stavnstrupvej 38 4733 Tappernøje,38,479786.0,11-12-1996,Alm.,0,4,Villa,133,1963,
+Sjoltevej 6 4733 Tappernøje,6,603000.0,10-12-1996,Alm.,7934,3,Villa,76,1934,
+Smidstrupvej 13 4733 Tappernøje,13,435000.0,26-11-1996,Alm.,1995,7,Villa,218,1934,
+Pilevej 7 4733 Tappernøje,7,350000.0,22-11-1996,Alm.,3645,3,Villa,96,1966,
+St Røttingevej 1 4733 Tappernøje,1,918710.0,19-11-1996,Alm.,3765,6,Villa,244,1877,
+Harevænget 97 4733 Tappernøje,97,609000.0,15-11-1996,Alm.,4757,4,Villa,128,1980,
+Saksholmvej 26 4733 Tappernøje,26,446500.0,28-10-1996,Alm.,2325,6,Villa,192,1880,
+Kildebakken 8 4733 Tappernøje,8,374000.0,21-10-1996,Fam.,2200,8,Villa,170,1899,
+Strandvejen 74 4733 Tappernøje,74,852000.0,21-10-1996,Alm.,4868,5,Villa,175,1875,
+Bredeshave Strand 12 4733 Tappernøje,12,615730.0,04-10-1996,Alm.,6692,2,Villa,92,1970,
+Kildebakken 3 4733 Tappernøje,3,568602.0,18-09-1996,Alm.,3249,6,Villa,175,1900,
+Stavnstrupvej 71 4733 Tappernøje,71,2233048.0,11-09-1996,Alm.,11815,4,Stuehus,189,1920,
+Hovvej 13 4733 Tappernøje,13,430000.0,05-09-1996,Alm.,0,5,Villa,153,1850,
+Fasanvænget 12 4733 Tappernøje,12,507700.0,03-09-1996,Alm.,4533,4,Villa,112,1979,
+Lundhøjvej 14 4733 Tappernøje,14,650000.0,31-08-1996,Alm.,4961,4,Villa,131,1975,
+Leestrup Byvej 9 4733 Tappernøje,9,654640.0,19-08-1996,Alm.,5279,3,Villa,124,1956,
+Bårsevej 1 4733 Tappernøje,1,210000.0,22-07-1996,Alm.,2187,3,Villa,96,1880,
+Brøderupvej 10 4733 Tappernøje,10,1340244.0,12-07-1996,Fam.,9307,5,Stuehus,144,1910,
+Rønnedevej 31 4733 Tappernøje,31,599000.0,24-06-1996,Alm.,4437,6,Villa,135,1902,
+Brøderupvej 17 4733 Tappernøje,17,250000.0,31-05-1996,Alm.,2450,4,Villa,102,1960,
+Jægersborgvej 11 4733 Tappernøje,11,460000.0,20-05-1996,Alm.,0,3,Villa,110,1976,
+Stenagervej 8 4733 Tappernøje,8,548000.0,19-05-1996,Alm.,4384,4,Villa,125,1700,
+Karlshøj 39 4733 Tappernøje,39,342000.0,29-04-1996,Fam.,0,5,Villa,146,1932,
+Skovholmvej 16 4733 Tappernøje,16,1275000.0,24-04-1996,Alm.,4009,10,Villa,318,1925,
+Fasanvænget 20 4733 Tappernøje,20,530000.0,26-03-1996,Alm.,4732,4,Villa,112,1978,
+Kildehøjvej 5 4733 Tappernøje,5,478600.0,19-03-1996,Alm.,4090,3,Villa,117,1979,
+Svingkærvej 38 4733 Tappernøje,38,595000.0,05-03-1996,Alm.,3098,8,Villa,192,1979,
+Bredeshave Strand 10A 4733 Tappernøje,0,765345.0,28-02-1996,Alm.,3510,5,Villa,218,1966,
+Stavnstrupvej 61 4733 Tappernøje,61,672000.0,23-02-1996,Alm.,5376,5,Villa,125,1877,
+Sjoltevej 27 4733 Tappernøje,27,783800.0,23-02-1996,Alm.,5679,3,Villa,138,1910,
+Vildtbanevej 20 4733 Tappernøje,20,755000.0,22-02-1996,Alm.,5206,4,Villa,145,1972,
+Hovedvejen 105 4733 Tappernøje,105,681000.0,29-01-1996,Auktion,3584,4,Stuehus,190,1950,
+Askovvej 14 4733 Tappernøje,14,520000.0,24-01-1996,Alm.,3443,4,Villa,151,1900,
+Hovvej 8 4733 Tappernøje,8,580000.0,28-12-1995,Fam.,4142,7,Stuehus,140,1960,
+Karlshøj 2 4733 Tappernøje,2,394183.0,22-12-1995,Alm.,2463,7,Villa,160,1937,
+Fasanvænget 2D 4733 Tappernøje,0,636080.0,18-12-1995,Alm.,3655,4,Villa,174,1969,
+Saksholmvej 28 4733 Tappernøje,28,1199167.0,11-12-1995,Alm.,6852,5,Stuehus,175,1912,
+Hovedvejen 85 4733 Tappernøje,85,540000.0,22-11-1995,Alm.,4186,4,Villa,129,1978,
+Brøderupvej 38B 4733 Tappernøje,0,697000.0,20-11-1995,Alm.,2904,8,Villa,240,1974,
+Fasanvænget 27 4733 Tappernøje,27,476000.0,14-11-1995,Alm.,4250,4,Villa,112,1978,
+Karlshøj 26 4733 Tappernøje,26,420000.0,08-11-1995,Alm.,3134,4,Villa,134,1964,
+Brøderupvej 20 4733 Tappernøje,20,501635.0,03-11-1995,Fam.,0,7,Villa,228,1914,
+Stavnstrupvej 35 4733 Tappernøje,35,1115000.0,16-10-1995,Alm.,6558,5,Stuehus,170,1907,
+Smidstrupvej 20 4733 Tappernøje,20,495000.0,11-10-1995,Alm.,0,4,Villa,202,1926,
+Oddervænget 10 4733 Tappernøje,10,560000.0,10-10-1995,Alm.,4341,4,Villa,129,1986,
+Sneserevej 19 4733 Tappernøje,19,351000.0,02-10-1995,Auktion,2193,5,Villa,160,1946,
+Kirkevej 6 4733 Tappernøje,6,445000.0,21-09-1995,Alm.,2966,4,Villa,150,1961,
+Stavnstrupvej 60 4733 Tappernøje,60,500000.0,01-08-1995,Alm.,4310,3,Villa,116,1930,
+Stenagervej 10 4733 Tappernøje,10,579000.0,21-07-1995,Fam.,6225,2,Villa,93,1700,
+Bygårdsvej 6 4733 Tappernøje,6,500000.0,13-07-1995,Alm.,3546,4,Villa,141,1972,
+Svingkærvej 34 4733 Tappernøje,34,485357.0,04-07-1995,Fam.,3279,5,Villa,148,1980,
+Videbækvej 4 4733 Tappernøje,4,513400.0,24-04-1995,Alm.,3802,5,Villa,135,1965,
+Sneppevænget 28 4733 Tappernøje,28,479000.0,16-04-1995,Alm.,3548,4,Villa,135,1977,
+Hovedvejen 8 4733 Tappernøje,8,607500.0,14-04-1995,Alm.,3491,4,Villa,174,1946,
+Kildebakken 9 4733 Tappernøje,9,320000.0,29-03-1995,Alm.,3047,3,Villa,105,1905,
+Rypevænget 1 4733 Tappernøje,1,395000.0,15-03-1995,Alm.,0,4,Villa,133,1988,
+Æskebjergvej 6 4733 Tappernøje,6,840391.0,05-03-1995,Alm.,2546,8,Stuehus,330,1907,
+Kildehøjvej 8 4733 Tappernøje,8,815400.0,27-02-1995,Alm.,5742,4,Villa,142,1987,
+Hestehavevej 4 4733 Tappernøje,4,665000.0,20-02-1995,Alm.,6157,3,Villa,108,1900,
+Brøderupvej 27 4733 Tappernøje,27,607000.0,20-01-1995,Alm.,3967,4,Villa,153,1900,
+Broskovvej 1 4733 Tappernøje,1,270575.0,14-01-1995,Andet,1780,6,Villa,152,1920,
+Broskovvej 3 4733 Tappernøje,3,206778.0,14-01-1995,Andet,0,5,Villa,171,1920,
+Kildebakken 19 4733 Tappernøje,19,276761.0,02-12-1994,Andet,1637,6,Villa,169,1977,
+Svingkærvej 6 4733 Tappernøje,6,571972.0,14-11-1994,Alm.,4333,4,Villa,132,1980,
+Hovvej 2 4733 Tappernøje,2,169900.0,14-11-1994,Alm.,1306,3,Villa,130,2000,
+Hovvej 10 4733 Tappernøje,10,295000.0,08-11-1994,Alm.,2185,2,Villa,135,1925,
+Gl Skolevej 1 4733 Tappernøje,1,578600.0,03-10-1994,Alm.,0,3,Stuehus,153,1920,
+Bredeshave Strand 3 4733 Tappernøje,3,787700.0,21-09-1994,Alm.,4773,6,Villa,165,1979,
+Kongskildevej 8 4733 Tappernøje,8,640000.0,01-09-1994,Alm.,3832,6,Stuehus,167,1937,
+Tågeskov By 3 4733 Tappernøje,3,294000.0,15-08-1994,Fam.,3161,3,Villa,93,1968,
+Smidstrupvej 73B 4733 Tappernøje,0,700000.0,15-08-1994,Alm.,2834,8,Villa,247,1896,
+Størlingevej 74 4733 Tappernøje,74,400000.0,04-08-1994,Alm.,3448,5,Villa,116,1958,
+Skovholmvej 17 4733 Tappernøje,17,2100000.0,01-08-1994,Alm.,8400,8,Stuehus,250,1800,
+Sneserevej 28 4733 Tappernøje,28,322000.0,27-07-1994,Alm.,2728,3,Villa,118,1954,
+Ll Røttingevej 15 4733 Tappernøje,15,540000.0,14-06-1994,Auktion,4153,5,Villa,130,1945,
+Strandvejen 80 4733 Tappernøje,80,926509.0,30-05-1994,Fam.,2790,8,Villa,332,1910,
+Sneserevej 37 4733 Tappernøje,37,580000.0,18-05-1994,Alm.,1624,8,Villa,357,1927,
+Stavnstrupvej 40 4733 Tappernøje,40,50000.0,24-01-1994,Alm.,892,3,Villa,56,1898,
+Hovedvejen 103 4733 Tappernøje,103,291000.0,29-11-1993,Auktion,2621,3,Stuehus,111,1912,
+Bygårdsvej 20 4733 Tappernøje,20,540000.0,31-10-1993,Alm.,5046,4,Villa,107,1969,
+Jægervænget 4 4733 Tappernøje,4,420000.0,29-10-1993,Alm.,3620,4,Villa,116,1979,
+Saksholmvej 45 4733 Tappernøje,45,100000.0,06-09-1993,Alm.,0,5,Villa,161,1860,
+Møllevej 2 4733 Tappernøje,2,385000.0,13-08-1993,Alm.,5000,3,Villa,77,1964,
+Toftegårdsvej 2 4733 Tappernøje,2,765960.0,09-08-1993,Alm.,3126,7,Villa,245,1720,
+Bækkeskov Stræde 17 4733 Tappernøje,17,700000.0,28-06-1993,Alm.,6603,3,Stuehus,106,1938,
+Jægervænget 12 4733 Tappernøje,12,346169.0,28-06-1993,Fam.,2420,4,Villa,143,1975,
+Smidstrupvej 25 4733 Tappernøje,25,425000.0,24-06-1993,Alm.,1666,6,Villa,255,1920,
+Smidstrupvej 62 4733 Tappernøje,62,335000.0,18-06-1993,Alm.,3350,3,Villa,100,1777,
+Smidstrupvej 68 4733 Tappernøje,68,282550.0,15-06-1993,Alm.,2825,4,Villa,100,1927,
+Irisvej 6 4733 Tappernøje,6,450000.0,28-05-1993,Alm.,4090,4,Villa,110,1967,
+Korskildevej 15 4733 Tappernøje,15,1150000.0,13-05-1993,Alm.,6764,8,Stuehus,170,1906,
+Ny Prøvevej 12 4733 Tappernøje,12,1161000.0,02-05-1993,Alm.,4221,8,Villa,275,1880,
+Rypevænget 44 4733 Tappernøje,44,337148.0,05-04-1993,Alm.,0,5,Villa,165,1988,
+Harevænget 84 4733 Tappernøje,84,525000.0,22-03-1993,Alm.,3476,5,Villa,151,1978,
+Toftegårdsvej 10 4733 Tappernøje,10,310000.0,22-03-1993,Alm.,0,6,Villa,194,1966,
+Møllevej 1 4733 Tappernøje,1,347000.0,04-02-1993,Alm.,3368,3,Villa,103,1965,
+Smidstrupvej 69 4733 Tappernøje,69,359000.0,20-12-1992,Alm.,0,4,Villa,152,1700,
+Smidstrupvej 46 4733 Tappernøje,46,1850000.0,23-11-1992,Alm.,9736,6,Stuehus,190,1859,
+Ll Røttingevej 7 4733 Tappernøje,7,1500000.0,16-10-1992,Alm.,11278,4,Stuehus,133,1976,
+Sneserevej 76 4733 Tappernøje,76,340000.0,02-09-1992,Fam.,3035,5,Villa,112,1951,
+Broskovvej 22 4733 Tappernøje,22,290000.0,28-08-1992,Fam.,3222,3,Villa,90,1777,
+Snesere Torpvej 21 4733 Tappernøje,21,550000.0,25-08-1992,Alm.,2989,5,Villa,184,1864,
+Brøderupvej 32 4733 Tappernøje,32,622195.0,27-07-1992,Alm.,0,6,Villa,223,1908,
+Bækkeskov Stræde 28B 4733 Tappernøje,0,1500000.0,20-07-1992,Alm.,0,10,Villa,252,1965,
+Karlshøj 30 4733 Tappernøje,30,230000.0,09-07-1992,Alm.,0,6,Villa,175,1931,
+Brøderupvej 43 4733 Tappernøje,43,481600.0,08-07-1992,Alm.,4300,5,Villa,112,1923,
+Karlshøj 28 4733 Tappernøje,28,395000.0,11-06-1992,Alm.,4247,4,Villa,93,1939,
+Videbækvej 2B 4733 Tappernøje,0,353000.0,09-06-1992,Alm.,3096,4,Villa,114,1974,
+Sølperupvej 19 4733 Tappernøje,19,112756.0,01-06-1992,Alm.,2818,2,Villa,40,1830,
+Kærvej 2 4733 Tappernøje,2,275000.0,01-06-1992,Alm.,0,4,Villa,143,1930,
+Kærvej 3 4733 Tappernøje,3,325000.0,01-06-1992,Fam.,0,7,Villa,230,1926,
+Bækkeskov Stræde 5 4733 Tappernøje,5,511624.0,18-05-1992,Fam.,0,8,Stuehus,262,1830,
+Skovmosevej 4 4733 Tappernøje,4,885000.0,18-05-1992,Alm.,0,3,Stuehus,164,1923,
+Lundhøjvej 6 4733 Tappernøje,6,530000.0,13-05-1992,Alm.,4108,4,Villa,129,1977,
+Brøderupvej 5B 4733 Tappernøje,0,185000.0,23-03-1992,Alm.,1107,3,Villa,167,1902,
+Gl Skolevej 11 4733 Tappernøje,11,225000.0,11-03-1992,Alm.,1859,3,Villa,121,1907,
+Teglværksvej 15 4733 Tappernøje,15,285000.0,04-02-1992,Alm.,2938,3,Villa,97,1885,

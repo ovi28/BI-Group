@@ -1,0 +1,2239 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Nørrebro 84 5900 Rudkøbing,84,675000.0,18-05-2017,Andet,4560,5,Villa,148,1932,
+"Skudehavnen 57, ST 5900 Rudkøbing",0,765000.0,16-05-2017,Fam.,11417,3,Fritid,67,1989,
+Spodsbjergvej 138 5900 Rudkøbing,138,875000.0,11-05-2017,Andet,5368,4,Villa,163,1900,
+Broløkken 18 5900 Rudkøbing,18,237250.0,11-05-2017,Andet,1706,5,Villa,139,1968,
+Strandløkken 13 5900 Rudkøbing,13,2100000.0,25-04-2017,Alm.,14383,4,Villa,146,1936,-3 %
+Kirkegaardsvej 22 5900 Rudkøbing,22,745000.0,14-04-2017,Alm.,9430,3,Rækkehus,79,1910,0 %
+Blandebjerg 4 5900 Rudkøbing,4,195000.0,13-04-2017,Alm.,2010,6,Villa,97,1896,-13 %
+Rosenvænget 23 5900 Rudkøbing,23,925000.0,07-04-2017,Alm.,12012,3,Rækkehus,77,1981,0 %
+Illebøllevej 11 5900 Rudkøbing,11,375000.0,05-04-2017,Alm.,3989,5,Villa,94,1897,-5 %
+Krogsbjergvej 13 5900 Rudkøbing,13,325000.0,31-03-2017,Alm.,4710,2,Villa,69,1852,-18 %
+Nørrebro 219 5900 Rudkøbing,219,900000.0,24-03-2017,Alm.,6766,4,Villa,133,1953,-10 %
+Kulepilevej 2 5900 Rudkøbing,2,1100000.0,23-03-2017,Alm.,7534,4,Villa,146,1917,-7 %
+Humblevej 24 5900 Rudkøbing,24,1425000.0,20-03-2017,Alm.,7916,3,Villa,180,1886,
+Udsigten 8 5900 Rudkøbing,8,1155000.0,19-03-2017,Alm.,15821,4,Sommerhus,73,2001,-3 %
+Nørrebro 164 5900 Rudkøbing,164,350000.0,18-03-2017,Alm.,5833,3,Rækkehus,60,1897,0 %
+Illebøllevej 10 5900 Rudkøbing,10,395000.0,17-03-2017,Alm.,1936,7,Villa,204,1893,0 %
+Knolden 2 5900 Rudkøbing,2,1645000.0,16-03-2017,Alm.,11114,5,Villa,148,1992,-3 %
+"Skudehavnen 37, 1 5900 Rudkøbing",1,900000.0,15-03-2017,Alm.,13432,3,Fritid,67,1989,-9 %
+"Østergade 52, 1 5900 Rudkøbing",1,1050000.0,10-03-2017,Alm.,16666,2,Lejlighed,63,1861,
+Skovridervænget 30 5900 Rudkøbing,30,1800000.0,10-03-2017,Alm.,17647,4,Sommerhus,102,2011,-9 %
+Strandløkken 15 5900 Rudkøbing,15,725000.0,06-03-2017,Alm.,8630,3,Rækkehus,84,1942,-9 %
+Longelsevej 71B 5900 Rudkøbing,0,375000.0,02-03-2017,Alm.,2757,4,Villa,136,1976,
+Rue 5A 5900 Rudkøbing,0,2750000.0,24-02-2017,Alm.,11088,8,Villa,248,1952,-8 %
+Banken 18 5900 Rudkøbing,18,1225000.0,21-02-2017,Alm.,13611,4,Sommerhus,90,1991,-9 %
+Spodsbjergvej 24 5900 Rudkøbing,24,900000.0,19-02-2017,Alm.,6000,6,Villa,150,1900,-25 %
+Rolighedsvej 12 5900 Rudkøbing,12,507500.0,17-02-2017,Alm.,4572,4,Villa,111,1920,
+Skrøbelev Kirkevej 28 5900 Rudkøbing,28,547500.0,14-02-2017,Fam.,4487,6,Villa,122,1898,
+Østergade 62 5900 Rudkøbing,62,347500.0,14-02-2017,Fam.,3217,3,Rækkehus,108,1877,
+Skovridervænget 11 5900 Rudkøbing,11,814200.0,14-02-2017,Fam.,10306,4,Sommerhus,79,2008,
+Nørregade 35 5900 Rudkøbing,35,200000.0,09-02-2017,Alm.,2500,3,Rækkehus,80,1900,-49 %
+Brogade 15 5900 Rudkøbing,15,2923000.0,09-02-2017,Alm.,9279,26,Engroshandel,315,1856,
+Nørrebro 199 5900 Rudkøbing,199,2500000.0,31-01-2017,Alm.,9225,11,Villa,271,1937,
+Præstevænget 4 5900 Rudkøbing,4,100000.0,30-01-2017,Alm.,1538,2,Villa,65,1827,-43 %
+Løjtnantvænget 3 5900 Rudkøbing,3,1660000.0,27-01-2017,Alm.,18241,5,Sommerhus,91,2007,-2 %
+Skovridervænget 6 5900 Rudkøbing,6,434259.0,24-01-2017,Alm.,6031,4,Sommerhus,72,2007,-65 %
+Hennetvedvej 27 5900 Rudkøbing,27,250000.0,23-01-2017,Alm.,868,7,Stuehus,288,1861,
+Rue 23 5900 Rudkøbing,23,750000.0,12-01-2017,Alm.,4716,6,Villa,159,1922,-25 %
+Strandengen 2 5900 Rudkøbing,2,2250000.0,10-01-2017,Alm.,15625,5,Villa,144,2009,-10 %
+Ringvejen 14 5900 Rudkøbing,14,1130000.0,03-01-2017,Alm.,7902,3,Villa,143,1953,-13 %
+Langøvej 31 5900 Rudkøbing,31,987000.0,25-12-2016,Fam.,4367,11,Stuehus,226,1827,
+Haverne 11 5900 Rudkøbing,11,895000.0,22-12-2016,Alm.,10287,5,Villa,87,1982,
+"Østergade 49, 1 5900 Rudkøbing",1,600000.0,20-12-2016,Alm.,7317,3,Rækkehus,82,1900,
+Humblevej 73 5900 Rudkøbing,73,920000.0,17-12-2016,Alm.,9200,4,Villa,100,1948,-3 %
+Spodsbjergvej 140 5900 Rudkøbing,140,320000.0,16-12-2016,Auktion,2000,6,Villa,160,1950,-19 %
+Havnegade 20 5900 Rudkøbing,20,439000.0,14-12-2016,Fam.,3598,4,Rækkehus,122,1875,
+Rifbjerg Udflytter 11 5900 Rudkøbing,11,8300000.0,13-12-2016,Alm.,39712,6,Stuehus,209,1861,
+Sylen 1 5900 Rudkøbing,1,1700000.0,02-12-2016,Alm.,12056,5,Villa,141,1997,0 %
+Strandbakken 3 5900 Rudkøbing,3,700000.0,29-11-2016,Alm.,7954,3,Villa,88,1954,-12 %
+Vindebyvej 49 5900 Rudkøbing,49,898766.0,28-11-2016,Alm.,2808,7,Stuehus,320,1980,-50 %
+Strandengen 3 5900 Rudkøbing,3,2335000.0,25-11-2016,Alm.,13575,5,Villa,172,2011,-6 %
+Støbergården 1 5900 Rudkøbing,1,7500000.0,21-11-2016,Alm.,120967,2,Villa,62,1983,
+Løjtnantvænget 10 5900 Rudkøbing,10,1200000.0,15-11-2016,Alm.,13636,2,Sommerhus,88,2008,-6 %
+Gartnervænget 12 5900 Rudkøbing,12,275000.0,11-11-2016,Alm.,5000,2,Rækkehus,55,1970,
+Påøvej 2 5900 Rudkøbing,2,1150000.0,10-11-2016,Alm.,6927,8,Villa,166,1897,0 %
+Torpevej 16 5900 Rudkøbing,16,640600.0,04-11-2016,Andet,4642,4,Villa,138,1927,
+Humblevej 33 5900 Rudkøbing,33,860000.0,02-11-2016,Alm.,10117,3,Villa,85,1955,-9 %
+Langegade 28 5900 Rudkøbing,28,350000.0,25-10-2016,Alm.,3097,4,Villa,113,1960,
+"Skudehavnen 61, 1 5900 Rudkøbing",1,1050000.0,21-10-2016,Alm.,15671,3,Fritid,67,1989,-2 %
+Kulepilevej 27 5900 Rudkøbing,27,330000.0,20-10-2016,Alm.,3173,3,Villa,104,1962,
+Lindevej 15 5900 Rudkøbing,15,1625000.0,20-10-2016,Alm.,9789,5,Villa,166,1928,-4 %
+Strandgade 34 5900 Rudkøbing,34,285000.0,19-10-2016,Alm.,3904,4,Rækkehus,73,1877,
+Peløkkevej 42 5900 Rudkøbing,42,1375000.0,17-10-2016,Alm.,11270,4,Villa,122,2001,0 %
+Illebøllevej 9 5900 Rudkøbing,9,465000.0,17-10-2016,Alm.,4793,5,Villa,97,1902,-22 %
+Sidsel Bagers Gade 10 5900 Rudkøbing,10,469946.0,14-10-2016,Alm.,5053,5,Rækkehus,93,1870,
+Spodsbjergvej 155 5900 Rudkøbing,155,527000.0,13-10-2016,Fam.,6587,3,Villa,80,1947,
+Peløkkevej 27 5900 Rudkøbing,27,530000.0,13-10-2016,Alm.,3655,5,Villa,145,1965,-36 %
+Fuglsbøllevejen 29 5900 Rudkøbing,29,254671.0,07-10-2016,Alm.,1819,4,Villa,140,1877,
+Nordre Landevej 19 5900 Rudkøbing,19,275000.0,07-10-2016,Alm.,3125,3,Villa,88,1920,-30 %
+Ravnerydvej 16 5900 Rudkøbing,16,20000.0,03-10-2016,Alm.,117,4,Sommerhus,170,1813,
+Spodsbjergvej 194 5900 Rudkøbing,194,1317500.0,30-09-2016,Fam.,11977,4,Sommerhus,110,1952,
+Rolighedsvej 38 5900 Rudkøbing,38,650000.0,28-09-2016,Alm.,6018,4,Villa,108,1951,-6 %
+Digevænget 3 5900 Rudkøbing,3,765000.0,25-09-2016,Fam.,4636,4,Villa,165,2017,
+Lindevej 14 5900 Rudkøbing,14,1175000.0,15-09-2016,Alm.,10491,4,Villa,112,1930,-6 %
+Byskrivervej 1 5900 Rudkøbing,1,1400002.0,14-09-2016,Alm.,7446,5,Villa,188,1972,2 %
+Pederstrupvej 9 5900 Rudkøbing,9,669375.0,13-09-2016,Fam.,3960,4,Villa,169,1900,
+Kirkegaardsvej 7 5900 Rudkøbing,7,400000.0,11-09-2016,Alm.,3921,4,Villa,102,1920,-19 %
+Strandgade 30 5900 Rudkøbing,30,265000.0,09-09-2016,Alm.,5300,3,Rækkehus,50,1827,-10 %
+Hennetvedvej 8 5900 Rudkøbing,8,375000.0,08-09-2016,Alm.,3024,6,Villa,124,1900,-6 %
+Gartnervænget 16 5900 Rudkøbing,16,220000.0,05-09-2016,Alm.,4000,2,Rækkehus,55,1970,
+Kastanievej 9 5900 Rudkøbing,9,720000.0,26-08-2016,Alm.,6486,3,Villa,111,1934,-9 %
+Pederstrupvej 16K 5900 Rudkøbing,0,805000.0,25-08-2016,Alm.,5439,5,Villa,148,1973,
+Sølyst 22 5900 Rudkøbing,22,600000.0,25-08-2016,Alm.,6976,4,Sommerhus,86,1975,-14 %
+Vindebyvej 26 5900 Rudkøbing,26,1500000.0,23-08-2016,Alm.,7978,6,Stuehus,188,1914,
+Kragholmvej 16 5900 Rudkøbing,16,150000.0,23-08-2016,Alm.,1704,3,Villa,88,1877,
+"Havnepladsen 7B, 2. TH 5900 Rudkøbing",0,1825000.0,16-08-2016,Alm.,21726,2,Lejlighed,84,1933,-9 %
+Abildgaardsvænget 4 5900 Rudkøbing,4,550000.0,15-08-2016,Alm.,3691,6,Villa,149,1965,-21 %
+Porsevænget 7 5900 Rudkøbing,7,1500000.0,11-08-2016,Alm.,33333,3,Sommerhus,45,1968,-12 %
+Ramsherred 25 5900 Rudkøbing,25,1200000.0,11-08-2016,Alm.,11764,3,Rækkehus,102,1877,-4 %
+Blandebjerg 10 5900 Rudkøbing,10,950000.0,10-08-2016,Alm.,4077,3,Villa,233,1850,-5 %
+Sølyst 24 5900 Rudkøbing,24,900000.0,08-08-2016,Alm.,14062,3,Sommerhus,64,1969,
+Fuglsbøllevejen 36 5900 Rudkøbing,36,180000.0,05-08-2016,Alm.,1578,4,Villa,114,1948,-8 %
+Strandlystvej 30 5900 Rudkøbing,30,525000.0,31-07-2016,Alm.,4861,3,Villa,108,1954,-30 %
+Æblevænget 2 5900 Rudkøbing,2,650000.0,23-07-2016,Alm.,4391,6,Villa,148,1967,
+"Skudehavnen 45, 1 5900 Rudkøbing",1,900000.0,18-07-2016,Alm.,13432,3,Fritid,67,1989,-10 %
+Pilevænget 7 5900 Rudkøbing,7,2275000.0,14-07-2016,Fam.,30743,4,Sommerhus,74,1973,
+Schnohrsvej 18 5900 Rudkøbing,18,1050000.0,08-07-2016,Alm.,5737,5,Villa,183,1969,-4 %
+Elmevænget 7 5900 Rudkøbing,7,1695000.0,07-07-2016,Alm.,12840,5,Villa,132,1972,0 %
+Vinkældergade 8 5900 Rudkøbing,8,280000.0,30-06-2016,Auktion,2772,4,Rækkehus,101,1750,
+Humblevej 108 5900 Rudkøbing,108,1285000.0,29-06-2016,Alm.,7514,4,Villa,171,1935,-8 %
+Strandengen 6 5900 Rudkøbing,6,2300000.0,29-06-2016,Alm.,9787,4,Villa,235,2009,-8 %
+Reberbanen 27A 5900 Rudkøbing,0,845000.0,28-06-2016,Alm.,10974,3,Rækkehus,77,1982,
+Nørrebro 187 5900 Rudkøbing,187,950000.0,28-06-2016,Alm.,11445,3,Villa,83,1956,-5 %
+Spodsbjergvej 198 5900 Rudkøbing,198,470000.0,25-06-2016,Alm.,4607,4,Villa,102,1928,-5 %
+Banevænget 6 5900 Rudkøbing,6,500000.0,21-06-2016,Alm.,4273,4,Villa,117,1975,-12 %
+Havgaardsvej 8 5900 Rudkøbing,8,840000.0,20-06-2016,Alm.,5562,3,Villa,151,1700,-6 %
+Næbbevej 1 5900 Rudkøbing,1,650000.0,16-06-2016,Alm.,4642,5,Villa,140,1846,-6 %
+Peløkkevej 65 5900 Rudkøbing,65,1875000.0,15-06-2016,Andet,14204,6,Villa,132,1897,
+Rolighedsvej 17 5900 Rudkøbing,17,515000.0,14-06-2016,Alm.,5000,4,Villa,103,1935,-13 %
+Hannebjergvej 11 5900 Rudkøbing,11,235000.0,13-06-2016,Alm.,2526,4,Villa,93,1965,0 %
+Kragholmvej 38 5900 Rudkøbing,38,300000.0,13-06-2016,Alm.,3061,3,Villa,98,1920,
+"Skudehavnen 51, 1 5900 Rudkøbing",1,935000.0,13-06-2016,Alm.,13550,3,Fritid,69,1989,-6 %
+Hannebjergvej 4 5900 Rudkøbing,4,2640000.0,10-06-2016,Alm.,21639,5,Villa,122,1777,
+Humblevej 15 5900 Rudkøbing,15,830000.0,07-06-2016,Alm.,6587,3,Villa,126,1888,-2 %
+Nøddevænget 1 5900 Rudkøbing,1,1250000.0,06-06-2016,Alm.,9615,5,Villa,130,1976,0 %
+Spodsbjergvej 223 5900 Rudkøbing,223,600000.0,02-06-2016,Alm.,1595,11,Stuehus,376,1887,-25 %
+Vinkældergade 11 5900 Rudkøbing,11,110000.0,31-05-2016,Alm.,2075,2,Rækkehus,53,1877,
+Polleholmsvej 3 5900 Rudkøbing,3,787943.0,26-05-2016,Alm.,3939,7,Villa,200,1860,
+Ahlefeldtsgade 36 5900 Rudkøbing,36,319000.0,19-05-2016,Auktion,3067,4,Rækkehus,104,1890,
+Longelsevej 6 5900 Rudkøbing,6,370000.0,13-05-2016,Fam.,3135,5,Villa,118,1830,-43 %
+Langøvej 25 5900 Rudkøbing,25,775000.0,12-05-2016,Alm.,9687,4,Villa,80,1900,-13 %
+Grønnegade 10 5900 Rudkøbing,10,740000.0,12-05-2016,Alm.,7047,3,Rækkehus,105,1880,-7 %
+Rolighedsvej 20 5900 Rudkøbing,20,400000.0,04-05-2016,Alm.,3883,4,Villa,103,1903,-33 %
+"Ørstedsgade 26, 1 5900 Rudkøbing",1,1200000.0,02-05-2016,Alm.,9836,7,Anden beboelse,122,1900,
+"Sidsel Bagers Gade 6, 1 5900 Rudkøbing",1,1100000.0,27-04-2016,Alm.,11000,5,Anden beboelse,100,1804,
+Drejet 14 5900 Rudkøbing,14,520000.0,25-04-2016,Fam.,11555,3,Sommerhus,45,1973,
+Nordre Landevej 55 5900 Rudkøbing,55,550000.0,25-04-2016,Alm.,4700,5,Villa,117,1896,-8 %
+Spodsbjergvej 303 5900 Rudkøbing,303,742500.0,20-04-2016,Alm.,5380,4,Villa,138,1949,-4 %
+Haverne 26 5900 Rudkøbing,26,1885000.0,19-04-2016,Alm.,9766,5,Villa,193,1979,
+Rosenvænget 2 5900 Rudkøbing,2,705000.0,13-04-2016,Alm.,6409,4,Villa,110,1961,9 %
+Ringvejen 8 5900 Rudkøbing,8,558310.0,11-04-2016,Fam.,4614,5,Villa,121,1946,
+"Skudehavnen 9, 1 5900 Rudkøbing",1,975000.0,01-04-2016,Alm.,14552,3,Fritid,67,1989,-1 %
+Peløkkevej 45 5900 Rudkøbing,45,1200000.0,29-03-2016,Alm.,8053,6,Villa,149,1927,-14 %
+"Skudehavnen 19, ST 5900 Rudkøbing",0,1295000.0,24-03-2016,Alm.,18768,3,Fritid,69,1989,0 %
+Skippervænget 1 5900 Rudkøbing,1,450000.0,22-03-2016,Fam.,5232,4,Villa,86,1922,
+Kildemosevej 27 5900 Rudkøbing,27,3595000.0,22-03-2016,Fam.,32681,3,Stuehus,110,1870,
+Broløkken 28 5900 Rudkøbing,28,925000.0,18-03-2016,Alm.,5781,4,Villa,160,1967,-11 %
+Fuglsbøllevejen 24 5900 Rudkøbing,24,205000.0,16-03-2016,Auktion,1385,5,Villa,148,1780,
+Gyvelvænget 7 5900 Rudkøbing,7,1120000.0,11-03-2016,Alm.,14736,4,Sommerhus,76,1991,-14 %
+Vævergyden 2 5900 Rudkøbing,2,365000.0,08-03-2016,Alm.,4244,3,Villa,86,1958,-8 %
+Ramsherred 30 5900 Rudkøbing,30,350000.0,07-03-2016,Alm.,7142,3,Rækkehus,49,1777,-7 %
+Digevænget 6 5900 Rudkøbing,6,1525000.0,07-03-2016,Alm.,12200,3,Villa,125,1924,-3 %
+Kulepilevej 12 5900 Rudkøbing,12,450000.0,04-03-2016,Alm.,3813,3,Villa,118,1958,-5 %
+Sønderskovvej 15E 5900 Rudkøbing,0,408000.0,28-02-2016,Alm.,2305,7,Villa,177,1877,
+Ramsherred 81 5900 Rudkøbing,81,1550000.0,23-02-2016,Alm.,5762,9,Rækkehus,269,1898,-6 %
+Spodsbjergvej 211 5900 Rudkøbing,211,200000.0,23-02-2016,Alm.,1724,5,Villa,116,1920,
+Skrøbelev Kirkevej 18 5900 Rudkøbing,18,725000.0,18-02-2016,Alm.,6144,4,Villa,118,1961,-6 %
+Kildemosevej 13 5900 Rudkøbing,13,297500.0,17-02-2016,Fam.,2860,4,Villa,104,1827,
+Skovsbovej 1 5900 Rudkøbing,1,204400.0,11-02-2016,Auktion,1777,4,Villa,115,1966,
+Nørrebro 86B 5900 Rudkøbing,0,750000.0,26-01-2016,Alm.,7500,3,Rækkehus,100,1920,8 %
+Lønkildevej 26 5900 Rudkøbing,26,445000.0,20-01-2016,Alm.,3201,6,Villa,139,1977,-18 %
+Fuglsbøllevejen 11 5900 Rudkøbing,11,320000.0,19-01-2016,Alm.,3764,2,Villa,85,1852,8 %
+Jens Winthers Vej 26 5900 Rudkøbing,26,560000.0,18-01-2016,Alm.,4480,5,Villa,125,1930,-6 %
+Ahlefeldtsgade 30 5900 Rudkøbing,30,1100000.0,18-01-2016,Alm.,7638,4,Rækkehus,144,1900,-4 %
+Byskrivervej 9 5900 Rudkøbing,9,1275000.0,12-01-2016,Alm.,7083,5,Villa,180,1972,
+Pederstrupvej 3 5900 Rudkøbing,3,300000.0,11-01-2016,Alm.,1734,5,Villa,173,1800,-24 %
+Kulepilevej 26 5900 Rudkøbing,26,775000.0,07-01-2016,Alm.,3270,6,Villa,237,1976,-13 %
+"Østergade 1B, 1 5900 Rudkøbing",1,650000.0,28-12-2015,Andet,5909,4,Anden beboelse,110,1880,
+Spodsbjergvej 30 5900 Rudkøbing,30,667329.0,22-12-2015,Andet,4069,5,Villa,164,1907,
+Banevænget 9 5900 Rudkøbing,9,700000.0,21-12-2015,Alm.,5384,5,Villa,130,1977,-22 %
+Byvej 5 5900 Rudkøbing,5,642402.0,17-12-2015,Andet,4171,4,Villa,154,1939,
+Gillesbjergvej 2 5900 Rudkøbing,2,125000.0,11-12-2015,Alm.,1213,4,Villa,103,1905,
+Hennetvedvej 38 5900 Rudkøbing,38,100000.0,09-12-2015,Fam.,1204,2,Villa,83,1900,
+Longelsevej 23 5900 Rudkøbing,23,885000.0,30-11-2015,Alm.,5860,5,Villa,151,1930,-1 %
+Schnohrsvej 24 5900 Rudkøbing,24,1395000.0,25-11-2015,Alm.,8454,6,Villa,165,1968,0 %
+Rævegade 10 5900 Rudkøbing,10,690000.0,18-11-2015,Alm.,5520,4,Villa,125,1907,-5 %
+Drejet 38 5900 Rudkøbing,38,625000.0,14-11-2015,Alm.,5896,4,Villa,106,1810,-16 %
+Strandløkken 3 5900 Rudkøbing,3,1800000.0,05-11-2015,Alm.,12162,5,Villa,148,1934,-10 %
+Udsigten 15 5900 Rudkøbing,15,1200000.0,05-11-2015,Alm.,11428,5,Sommerhus,105,1997,-17 %
+Møllemosevej 3 5900 Rudkøbing,3,250000.0,04-11-2015,Andet,1811,7,Stuehus,138,1924,
+Skovridervænget 36 5900 Rudkøbing,36,442500.0,29-10-2015,Alm.,3430,4,Sommerhus,129,2017,-11 %
+Hannebjergvej 7 5900 Rudkøbing,7,65000.0,24-10-2015,Alm.,1181,3,Villa,55,1900,
+Rue 4 5900 Rudkøbing,4,600000.0,21-10-2015,Alm.,5769,5,Villa,104,1964,-25 %
+Hennetvedvej 28 5900 Rudkøbing,28,375000.0,21-10-2015,Auktion,2862,6,Villa,131,1945,-24 %
+Skrøbelev Hedevej 1 5900 Rudkøbing,1,1200000.0,16-10-2015,Alm.,5263,6,Villa,228,1914,-14 %
+Fuglsbøllevejen 38A 5900 Rudkøbing,0,155000.0,13-10-2015,Fam.,1250,5,Villa,124,1974,
+Rue 9 5900 Rudkøbing,9,270000.0,07-10-2015,Auktion,3600,2,Rækkehus,75,1899,
+Simmerbølle Kirkevej 7 5900 Rudkøbing,7,663000.0,05-10-2015,Fam.,3946,4,Villa,168,1965,
+Æblevænget 4 5900 Rudkøbing,4,1050000.0,30-09-2015,Alm.,5000,6,Villa,210,1966,-12 %
+Mosevænget 23 5900 Rudkøbing,23,746418.0,25-09-2015,Andet,5256,5,Villa,142,2012,
+Pederstrupvej 31 5900 Rudkøbing,31,575000.0,21-09-2015,Alm.,4791,5,Stuehus,120,1900,
+Pederstrupvej 16 5900 Rudkøbing,16,370000.0,17-09-2015,Alm.,5441,3,Villa,68,1900,-7 %
+Nørrebro 116 5900 Rudkøbing,116,275000.0,14-09-2015,Alm.,3125,4,Rækkehus,88,1900,-44 %
+Rue 15 5900 Rudkøbing,15,790000.0,11-09-2015,Alm.,9080,3,Rækkehus,87,1910,-3 %
+Nordre Landevej 29 5900 Rudkøbing,29,845000.0,11-09-2015,Alm.,6035,4,Villa,140,1933,-15 %
+Spodsbjergvej 291 5900 Rudkøbing,291,285000.0,09-09-2015,Alm.,3064,4,Villa,93,1967,
+Ramsherred 19 5900 Rudkøbing,19,300000.0,09-09-2015,Alm.,4166,2,Rækkehus,72,1868,
+Illebøllevej 50 5900 Rudkøbing,50,1300000.0,09-09-2015,Fam.,9558,4,Villa,136,1974,
+Vindebyvej 33 5900 Rudkøbing,33,1150000.0,02-09-2015,Alm.,10087,3,Villa,114,1927,-2 %
+Klintevej 4 5900 Rudkøbing,4,330000.0,31-08-2015,Alm.,5238,3,Villa,63,1929,-10 %
+Kragholmvej 20 5900 Rudkøbing,20,145000.0,27-08-2015,Alm.,1407,3,Villa,103,1928,-38 %
+Nørrebro 139D 5900 Rudkøbing,0,300000.0,25-08-2015,Alm.,1522,10,Stuehus,197,1898,-50 %
+Sommerlyst 30 5900 Rudkøbing,30,350000.0,25-08-2015,Alm.,3398,4,Villa,103,1950,-29 %
+Humblevej 92 5900 Rudkøbing,92,700000.0,24-08-2015,Fam.,5691,4,Villa,123,1906,
+"Skudehavnen 43, ST 5900 Rudkøbing",0,1200000.0,23-08-2015,Alm.,17910,3,Fritid,67,1989,
+Haugbøllevej 22 5900 Rudkøbing,22,75000.0,21-08-2015,Alm.,625,3,Villa,120,1840,
+Spodsbjergvej 54D 5900 Rudkøbing,0,1195000.0,20-08-2015,Alm.,9876,4,Villa,121,1976,0 %
+Sommerlyst 24 5900 Rudkøbing,24,365000.0,20-08-2015,Alm.,4294,2,Rækkehus,85,1880,-18 %
+Kirkegade 11 5900 Rudkøbing,11,285000.0,12-08-2015,Alm.,1862,5,Villa,153,1910,-3 %
+Humblevej 106A 5900 Rudkøbing,0,952857.0,06-08-2015,Fam.,5068,4,Villa,188,1962,
+Kulepilevej 25 5900 Rudkøbing,25,995000.0,03-08-2015,Alm.,11055,3,Villa,90,1957,-5 %
+"Skudehavnen 19, 1 5900 Rudkøbing",1,1100000.0,31-07-2015,Alm.,15942,3,Fritid,69,1989,-8 %
+Banken 7 5900 Rudkøbing,7,700000.0,27-07-2015,Alm.,13207,2,Sommerhus,53,1982,-22 %
+Søndre Landevej 15 5900 Rudkøbing,15,250000.0,25-07-2015,Alm.,2717,3,Villa,92,1900,-9 %
+Vindeltorpvej 6 5900 Rudkøbing,6,630000.0,24-07-2015,Alm.,7078,3,Villa,89,1737,-9 %
+Cirklen 4 5900 Rudkøbing,4,812500.0,16-07-2015,Fam.,6944,4,Villa,117,1996,
+Vindebyvej 20 5900 Rudkøbing,20,438000.0,15-07-2015,Andet,3476,5,Villa,126,1924,
+Langøvej 7 5900 Rudkøbing,7,382500.0,02-07-2015,Fam.,3084,6,Villa,124,1877,
+Nørrebro 140 5900 Rudkøbing,140,160000.0,01-07-2015,Alm.,3265,3,Rækkehus,49,1830,-46 %
+Kildemosevej 4 5900 Rudkøbing,4,7420000.0,30-06-2015,Alm.,44698,8,Stuehus,166,1854,
+Strandgade 44A 5900 Rudkøbing,0,225000.0,26-06-2015,Alm.,1607,3,Rækkehus,140,1877,-8 %
+Smedegade 15 5900 Rudkøbing,15,925000.0,25-06-2015,Alm.,12012,3,Rækkehus,77,1900,-5 %
+Broløkken 15 5900 Rudkøbing,15,735000.0,24-06-2015,Alm.,6074,4,Villa,121,1965,
+Hjelmbjergvej 10 5900 Rudkøbing,10,595000.0,17-06-2015,Fam.,5085,3,Villa,117,1900,
+Lønkildevej 4 5900 Rudkøbing,4,475000.0,16-06-2015,Alm.,3769,4,Villa,126,1975,-4 %
+Ramsherred 73 5900 Rudkøbing,73,225000.0,07-06-2015,Alm.,2743,3,Rækkehus,82,1827,-43 %
+Torpevej 17 5900 Rudkøbing,17,610000.0,04-06-2015,Alm.,4586,5,Villa,133,1892,-6 %
+Nordre Landevej 26 5900 Rudkøbing,26,494641.0,01-06-2015,Alm.,2997,7,Villa,165,1931,
+Nordre Landevej 9 5900 Rudkøbing,9,600000.0,21-05-2015,Alm.,6818,3,Villa,88,1885,-29 %
+Snaremosevej 2 5900 Rudkøbing,2,41000.0,20-05-2015,Auktion,241,6,Villa,170,1925,-86 %
+Longelsevej 1 5900 Rudkøbing,1,100000.0,20-05-2015,Auktion,395,7,Villa,253,1926,-75 %
+Bellevue 15 5900 Rudkøbing,15,625000.0,18-05-2015,Alm.,7812,3,Rækkehus,80,1890,-10 %
+Fuglsbøllevejen 54 5900 Rudkøbing,54,175000.0,18-05-2015,Alm.,1434,2,Stuehus,122,1780,
+Ringvejen 20 5900 Rudkøbing,20,500000.0,13-05-2015,Alm.,5494,4,Villa,91,1948,
+Knolden 4 5900 Rudkøbing,4,1515000.0,13-05-2015,Alm.,9351,5,Villa,162,1980,-2 %
+"Havnepladsen 7B, 2. TV 5900 Rudkøbing",0,1250000.0,13-05-2015,Alm.,12755,2,Lejlighed,98,1933,-10 %
+Broløkken 14 5900 Rudkøbing,14,675000.0,13-05-2015,Fam.,6136,4,Villa,110,1965,
+Gillesbjergvej 16 5900 Rudkøbing,16,1275000.0,12-05-2015,Alm.,5402,8,Villa,236,1898,
+Nørrebro 158 5900 Rudkøbing,158,545000.0,08-05-2015,Alm.,5240,3,Villa,104,1934,-4 %
+Rifbjerg Udflytter 5 5900 Rudkøbing,5,384579.0,01-05-2015,Alm.,2727,4,Stuehus,141,1800,
+"Skudehavnen 61, ST 5900 Rudkøbing",0,1015000.0,30-04-2015,Alm.,15149,3,Fritid,67,1989,-7 %
+Skovbakken 20A 5900 Rudkøbing,0,1500000.0,29-04-2015,Alm.,6000,7,Villa,250,1974,-11 %
+Strandbakken 16 5900 Rudkøbing,16,1000000.0,29-04-2015,Alm.,9009,4,Villa,111,1954,
+Herslevvej 5 5900 Rudkøbing,5,300000.0,24-04-2015,Fam.,2912,9,Villa,103,1940,
+Udsigten 11 5900 Rudkøbing,11,1690000.0,23-04-2015,Alm.,9883,5,Sommerhus,171,1992,-6 %
+Pederstrupvej 16L 5900 Rudkøbing,0,785000.0,20-04-2015,Alm.,6596,4,Villa,119,1974,-1 %
+Torpevej 12A 5900 Rudkøbing,0,500000.0,18-04-2015,Alm.,4166,4,Villa,120,1977,-28 %
+Nørrebro 30 5900 Rudkøbing,30,150000.0,16-04-2015,Alm.,2459,3,Rækkehus,61,1900,
+Strandgade 8 5900 Rudkøbing,8,855000.0,16-04-2015,Alm.,10961,3,Rækkehus,78,1850,-4 %
+"Skudehavnen 43, 1 5900 Rudkøbing",1,800000.0,16-04-2015,Alm.,11940,3,Fritid,67,1989,-11 %
+Grønnegade 1 5900 Rudkøbing,1,585000.0,16-04-2015,Alm.,4957,5,Rækkehus,118,1900,0 %
+Brogade 26 5900 Rudkøbing,26,550000.0,12-04-2015,Fam.,7534,3,Rækkehus,73,1777,
+Grønnegade 7 5900 Rudkøbing,7,750000.0,06-04-2015,Alm.,7500,3,Rækkehus,100,1888,-3 %
+Spodsbjergvej 32 5900 Rudkøbing,32,2500000.0,27-03-2015,Alm.,8561,10,Villa,292,1925,
+Mads Langes Vej 1 5900 Rudkøbing,1,1493814.0,27-03-2015,Fam.,8253,5,Villa,181,2015,
+Nordre Landevej 16 5900 Rudkøbing,16,1025000.0,22-03-2015,Alm.,6029,6,Villa,170,1952,-6 %
+Kibshavevej 23 5900 Rudkøbing,23,995000.0,20-03-2015,Alm.,6257,5,Villa,159,1969,0 %
+Peløkkevej 84 5900 Rudkøbing,84,275000.0,06-03-2015,Alm.,2644,4,Villa,104,1964,-20 %
+Illebøllevej 20 5900 Rudkøbing,20,7487000.0,02-03-2015,Alm.,19754,10,Stuehus,379,1858,
+Planken 4 5900 Rudkøbing,4,1725000.0,25-02-2015,Alm.,11815,6,Villa,146,1998,-9 %
+Nørrebro 94 5900 Rudkøbing,94,300000.0,13-02-2015,Alm.,2500,4,Villa,120,1899,
+Banken 28 5900 Rudkøbing,28,1750000.0,08-02-2015,Alm.,16990,4,Sommerhus,103,1992,-8 %
+Østerled 1 5900 Rudkøbing,1,130000.0,23-01-2015,Alm.,1688,4,Villa,77,1952,-33 %
+Nørrebro 74 5900 Rudkøbing,74,1020000.0,19-01-2015,Fam.,6754,6,Villa,151,1918,
+Illebøllevej 44 5900 Rudkøbing,44,150000.0,19-01-2015,Alm.,1648,4,Villa,91,1910,-49 %
+Assemose 4 5900 Rudkøbing,4,700000.0,15-01-2015,Fam.,5691,4,Villa,123,1777,
+Nørrebro 23 5900 Rudkøbing,23,705000.0,07-01-2015,Fam.,3525,13,Rækkehus,200,1890,-17 %
+Skovridervænget 7 5900 Rudkøbing,7,1695000.0,05-01-2015,Alm.,13242,6,Sommerhus,128,2008,-3 %
+Kløvervænget 4 5900 Rudkøbing,4,1475000.0,02-01-2015,Alm.,10535,5,Villa,140,1975,-5 %
+Drejet 42 5900 Rudkøbing,42,853300.0,30-12-2014,Alm.,5300,6,Villa,161,1931,-22 %
+Skovridervænget 10 5900 Rudkøbing,10,1300000.0,22-12-2014,Andet,14285,4,Sommerhus,91,2010,-23 %
+Fuglsbølle Strand 1 5900 Rudkøbing,1,2335000.0,22-12-2014,Alm.,22451,2,Stuehus,104,1974,-6 %
+Viebæltet 27A 5900 Rudkøbing,0,895000.0,19-12-2014,Alm.,6780,3,Villa,132,1962,-10 %
+Sølyst 7 5900 Rudkøbing,7,603500.0,18-12-2014,Fam.,9429,3,Sommerhus,64,1973,
+Havnegade 26 5900 Rudkøbing,26,53754145.0,17-12-2014,Alm.,338076,6,Rækkehus,159,1887,
+Broløkken 36 5900 Rudkøbing,36,1220000.0,10-12-2014,Alm.,11090,4,Villa,110,1964,0 %
+Spodsbjergvej 11 5900 Rudkøbing,11,500000.0,06-12-2014,Alm.,2840,6,Villa,176,1890,-25 %
+Skovvej 1 5900 Rudkøbing,1,85000.0,02-12-2014,Alm.,1011,3,Villa,84,1917,-11 %
+Snaremosevej 22 5900 Rudkøbing,22,730000.0,27-11-2014,Alm.,6576,3,Stuehus,111,1928,
+Udsigten 13 5900 Rudkøbing,13,1062500.0,25-11-2014,Fam.,10023,4,Sommerhus,106,1998,
+Ringvejen 18 5900 Rudkøbing,18,445000.0,20-11-2014,Alm.,4890,3,Villa,91,1950,-10 %
+Nørregade 25 5900 Rudkøbing,25,700000.0,12-11-2014,Alm.,4697,4,Rækkehus,149,1890,-17 %
+Fiskervænget 4 5900 Rudkøbing,4,575000.0,10-11-2014,Alm.,5088,5,Villa,113,1977,
+Kulepilevej 23 5900 Rudkøbing,23,450000.0,10-11-2014,Alm.,3571,3,Villa,126,1958,-5 %
+Skrøbelev Kirkevej 16 5900 Rudkøbing,16,500000.0,07-11-2014,Andet,3267,5,Villa,153,1962,
+Solbakken 26 5900 Rudkøbing,26,3300000.0,02-11-2014,Alm.,35483,4,Sommerhus,93,1998,-4 %
+Spodsbjergvej 208 5900 Rudkøbing,208,312500.0,20-10-2014,Fam.,2155,3,Villa,145,1924,
+Vindebyvej 8 5900 Rudkøbing,8,87125.0,13-10-2014,Fam.,744,4,Villa,117,1890,
+Rifbjerg Strand 14 5900 Rudkøbing,14,1100000.0,13-10-2014,Alm.,9909,4,Villa,111,1878,-26 %
+Udsigten 1 5900 Rudkøbing,1,1100000.0,13-10-2014,Alm.,11458,6,Sommerhus,96,1992,-26 %
+Skovridervænget 45 5900 Rudkøbing,45,1435000.0,09-10-2014,Alm.,12812,4,Sommerhus,112,2008,-10 %
+Rosenvænget 1 5900 Rudkøbing,1,667457.0,09-10-2014,Andet,6067,5,Villa,110,1960,
+Nøddevænget 6 5900 Rudkøbing,6,650000.0,08-10-2014,Alm.,5284,4,Villa,123,1971,-6 %
+Baragervej 5 5900 Rudkøbing,5,900000.0,07-10-2014,Alm.,8571,3,Villa,105,1777,-10 %
+Sølyst 9 5900 Rudkøbing,9,785000.0,25-09-2014,Alm.,12661,3,Sommerhus,62,1970,-21 %
+Drejet 36B 5900 Rudkøbing,0,1325000.0,22-09-2014,Alm.,15963,6,Sommerhus,83,1991,-5 %
+"Skudehavnen 7, ST 5900 Rudkøbing",0,765000.0,19-09-2014,Fam.,11417,3,Fritid,67,1989,
+Platanvej 14 5900 Rudkøbing,14,1600000.0,16-09-2014,Alm.,7729,5,Villa,207,1911,-6 %
+Nørrebro 49 5900 Rudkøbing,49,400000.0,16-09-2014,Alm.,2000,6,Rækkehus,200,1890,-27 %
+Sølyst 14 5900 Rudkøbing,14,1000000.0,13-09-2014,Alm.,14925,3,Sommerhus,67,1971,-9 %
+Kirkegade 2 5900 Rudkøbing,2,340000.0,12-09-2014,Fam.,5666,4,Villa,60,1900,
+Strandgade 24 5900 Rudkøbing,24,300000.0,11-09-2014,Alm.,3370,3,Rækkehus,89,1842,-14 %
+Nørrebro 78 5900 Rudkøbing,78,1100000.0,10-09-2014,Alm.,6285,6,Villa,175,1926,-8 %
+"Havnegade 44A, ST 5900 Rudkøbing",0,2000000.0,27-08-2014,Alm.,20000,4,Lejlighed,100,1913,
+Ørstedsgade 21 5900 Rudkøbing,21,695000.0,27-08-2014,Alm.,3357,6,Rækkehus,207,1907,-18 %
+Strandgade 13A 5900 Rudkøbing,0,714000.0,21-08-2014,Fam.,5712,5,Villa,125,1928,
+Ramsherred 79 5900 Rudkøbing,79,1300000.0,14-08-2014,Alm.,8965,2,Rækkehus,145,1899,-6 %
+"Skovridervænget 51, ST 5900 Rudkøbing",0,1500000.0,13-08-2014,Alm.,17857,4,Sommerhus,84,2010,-9 %
+Lønkildevej 22 5900 Rudkøbing,22,407000.0,06-08-2014,Alm.,2907,4,Villa,140,1978,
+"Skudehavnen 17, ST 5900 Rudkøbing",0,1095000.0,29-07-2014,Alm.,16343,3,Fritid,67,1989,
+"Skudehavnen 11, 1 5900 Rudkøbing",1,875000.0,24-07-2014,Alm.,13059,3,Fritid,67,1989,-12 %
+Sommerlyst 8 5900 Rudkøbing,8,400000.0,23-07-2014,Alm.,3846,4,Villa,104,1860,-19 %
+Rue Villavej 7 5900 Rudkøbing,7,1900000.0,17-07-2014,Alm.,4367,14,Villa,435,1908,-3 %
+Spodsbjergvej 209B 5900 Rudkøbing,0,705000.0,09-07-2014,Alm.,3000,6,Villa,235,1777,-3 %
+Rue Mark 4 5900 Rudkøbing,4,1400000.0,04-07-2014,Alm.,6334,6,Villa,221,2016,-30 %
+Spodsbjergvej 182 5900 Rudkøbing,182,1000000.0,27-06-2014,Alm.,4854,11,Villa,206,1919,
+Egevænget 15 5900 Rudkøbing,15,488750.0,22-06-2014,Fam.,9050,2,Sommerhus,54,1973,
+Torpevej 22 5900 Rudkøbing,22,5470000.0,18-06-2014,Fam.,21284,7,Stuehus,257,1856,
+Viebæltet 3 5900 Rudkøbing,3,140000.0,18-06-2014,Auktion,1102,4,Villa,127,1856,
+Sølyst 30 5900 Rudkøbing,30,537500.0,16-06-2014,Alm.,6554,4,Sommerhus,82,1973,
+Møllemosevej 8 5900 Rudkøbing,8,500000.0,26-05-2014,Alm.,4385,4,Villa,114,1960,-8 %
+"Skudehavnen 53, 1 5900 Rudkøbing",1,975000.0,23-05-2014,Alm.,14552,3,Fritid,67,1989,-2 %
+"Skudehavnen 51, ST 5900 Rudkøbing",0,1025000.0,22-05-2014,Alm.,14855,3,Fritid,69,1989,-5 %
+"Skudehavnen 13, ST 5900 Rudkøbing",0,1010000.0,19-05-2014,Alm.,15074,3,Fritid,67,1989,-4 %
+Skovbakken 18 5900 Rudkøbing,18,785000.0,15-05-2014,Alm.,11214,3,Villa,70,1952,-9 %
+Rolighedsvej 9 5900 Rudkøbing,9,1300000.0,09-05-2014,Alm.,7975,7,Villa,163,1935,-13 %
+Strandengen 1 5900 Rudkøbing,1,2525000.0,08-05-2014,Alm.,13430,5,Villa,188,2012,-3 %
+Drejet 6 5900 Rudkøbing,6,1250000.0,02-05-2014,Alm.,12500,4,Villa,100,1874,-26 %
+Smedegade 17 5900 Rudkøbing,17,450000.0,30-04-2014,Alm.,6250,4,Rækkehus,72,1877,
+Bellevue 31 5900 Rudkøbing,31,216750.0,25-04-2014,Fam.,2550,3,Rækkehus,85,1877,
+Skovsbovej 17 5900 Rudkøbing,17,165000.0,24-04-2014,Alm.,1161,4,Villa,142,1827,-15 %
+Ramsherred 22 5900 Rudkøbing,22,220000.0,23-04-2014,Auktion,3666,3,Rækkehus,60,1880,
+Blandebjerg 1 5900 Rudkøbing,1,555000.0,23-04-2014,Auktion,4269,4,Villa,130,1963,
+Løjtnantvænget 6 5900 Rudkøbing,6,1375000.0,11-04-2014,Alm.,11458,3,Sommerhus,120,2010,
+"Skudehavnen 47, ST 5900 Rudkøbing",0,900000.0,08-04-2014,Alm.,13432,3,Fritid,67,1989,-14 %
+Longelsevej 8 5900 Rudkøbing,8,50000.0,05-04-2014,Alm.,500,3,Villa,100,1860,
+Kværnen 8 5900 Rudkøbing,8,1672500.0,02-04-2014,Alm.,9089,7,Villa,184,1979,-9 %
+Statenevej 9 5900 Rudkøbing,9,100000.0,02-04-2014,Alm.,847,5,Villa,118,1900,-20 %
+Fuglsbøllevejen 20 5900 Rudkøbing,20,150000.0,01-04-2014,Andet,1190,7,Villa,126,1914,
+Spodsbjergvej 29 5900 Rudkøbing,29,175000.0,26-03-2014,Auktion,1785,3,Rækkehus,98,1890,
+Vinkældergade 13 5900 Rudkøbing,13,280000.0,18-03-2014,Auktion,4912,2,Rækkehus,57,1787,-29 %
+Vinkældergade 12 5900 Rudkøbing,12,500000.0,14-03-2014,Alm.,7042,3,Rækkehus,71,1761,-26 %
+Statenevej 3 5900 Rudkøbing,3,433200.0,14-03-2014,Fam.,3139,7,Villa,138,1857,
+Spodsbjergvej 181 5900 Rudkøbing,181,160000.0,28-02-2014,Alm.,1702,2,Villa,94,1926,-20 %
+Nordre Landevej 12 5900 Rudkøbing,12,475000.0,28-02-2014,Alm.,2729,6,Villa,174,1913,-20 %
+Sølyst 23 5900 Rudkøbing,23,900000.0,25-02-2014,Alm.,13636,4,Sommerhus,66,1973,-10 %
+Nordre Landevej 20 5900 Rudkøbing,20,675000.0,20-02-2014,Auktion,5273,4,Villa,128,1952,
+Haugbøllevej 17 5900 Rudkøbing,17,350000.0,19-02-2014,Fam.,1590,6,Villa,220,1860,
+Nørrebro 119 5900 Rudkøbing,119,250000.0,18-02-2014,Alm.,2777,4,Villa,90,1877,-15 %
+Havgaardsvej 4 5900 Rudkøbing,4,300000.0,13-02-2014,Auktion,1694,4,Villa,177,1913,-77 %
+Ahlefeldtsgade 32 5900 Rudkøbing,32,350000.0,13-02-2014,Auktion,3535,5,Rækkehus,99,1880,
+Spodsbjergvej 61 5900 Rudkøbing,61,428000.0,05-02-2014,Alm.,3292,5,Villa,130,1915,
+Løjtnantvænget 4 5900 Rudkøbing,4,1375000.0,04-02-2014,Alm.,11458,3,Sommerhus,120,2010,
+Rolighedsvej 35 5900 Rudkøbing,35,500000.0,22-01-2014,Alm.,3649,4,Villa,137,1940,
+Solbakken 25 5900 Rudkøbing,25,700000.0,20-01-2014,Fam.,10769,4,Sommerhus,65,1935,
+Sommerlyst 36 5900 Rudkøbing,36,615000.0,10-01-2014,Alm.,6758,4,Villa,91,1948,-5 %
+Bogøvej 40 5900 Rudkøbing,40,214713.0,06-01-2014,Fam.,1263,6,Villa,170,1877,
+Spodsbjergvej 263 5900 Rudkøbing,263,200000.0,03-01-2014,Alm.,1801,3,Villa,111,1931,-32 %
+Bønneløkkevej 2 5900 Rudkøbing,2,250000.0,02-01-2014,Alm.,0,4,Villa,195,1914,-28 %
+Søndre Landevej 13 5900 Rudkøbing,13,100000.0,20-12-2013,Alm.,980,4,Villa,102,1900,
+Ramsherred 54 5900 Rudkøbing,54,600000.0,19-12-2013,Alm.,4615,6,Rækkehus,130,1877,-25 %
+Bregnevej 3 5900 Rudkøbing,3,550000.0,18-12-2013,Alm.,3416,5,Villa,161,1978,-15 %
+Grønnegaardsvej 4 5900 Rudkøbing,4,250000.0,13-12-2013,Alm.,2631,3,Villa,95,1875,
+Fuglsbøllevejen 30 5900 Rudkøbing,30,120000.0,04-12-2013,Alm.,1111,4,Villa,108,1878,-17 %
+Hjelmbjergvej 8 5900 Rudkøbing,8,690000.0,25-11-2013,Fam.,6052,3,Villa,114,1882,
+Kløvervænget 20 5900 Rudkøbing,20,1150000.0,21-11-2013,Alm.,8984,4,Villa,128,1963,-8 %
+Æblevænget 1 5900 Rudkøbing,1,635500.0,21-11-2013,Fam.,4742,5,Villa,134,1966,
+Rolighedsvej 43 5900 Rudkøbing,43,970000.0,18-11-2013,Alm.,6510,3,Villa,149,1972,-12 %
+Skovsbovej 11 5900 Rudkøbing,11,275000.0,07-11-2013,Alm.,1870,5,Villa,147,1937,
+Nørrebro 76 5900 Rudkøbing,76,270000.0,01-11-2013,Alm.,2783,3,Villa,97,1899,-23 %
+Omgangen 12 5900 Rudkøbing,12,975000.0,29-10-2013,Alm.,7738,4,Villa,126,1976,-11 %
+Longelsevej 29 5900 Rudkøbing,29,44036.0,24-10-2013,Auktion,314,4,Villa,140,1900,
+Ramsherred 6 5900 Rudkøbing,6,440000.0,23-10-2013,Auktion,5000,3,Rækkehus,88,1777,-45 %
+Blandebjerg 18 5900 Rudkøbing,18,95000.0,19-10-2013,Alm.,730,3,Villa,130,1860,
+Langegade 33 5900 Rudkøbing,33,5030.0,16-10-2013,Auktion,50,5,Villa,99,1931,
+Kværnen 12 5900 Rudkøbing,12,1425000.0,14-10-2013,Alm.,10178,5,Villa,140,1981,-3 %
+Herslevvej 41 5900 Rudkøbing,41,335000.0,13-10-2013,Alm.,2359,4,Villa,142,1925,-15 %
+Skovridervænget 41 5900 Rudkøbing,41,1500000.0,10-10-2013,Alm.,13513,4,Sommerhus,111,2009,-16 %
+Mosevænget 22 5900 Rudkøbing,22,1385000.0,10-10-2013,Alm.,10653,5,Villa,130,1981,0 %
+Kværnen 20 5900 Rudkøbing,20,650000.0,09-10-2013,Alm.,4088,3,Villa,159,1976,
+Haugbøllevej 10 5900 Rudkøbing,10,1050000.0,07-10-2013,Alm.,3804,7,Villa,276,1862,-12 %
+Strandvejen 4 5900 Rudkøbing,4,1750000.0,02-10-2013,Fam.,5737,6,Stuehus,305,1855,
+Rifbjergvej 18 5900 Rudkøbing,18,1275000.0,02-10-2013,Alm.,10625,4,Stuehus,120,1892,-9 %
+Spodsbjergvej 101 5900 Rudkøbing,101,500000.0,26-09-2013,Alm.,4716,4,Villa,106,1939,-9 %
+Bogøvej 15 5900 Rudkøbing,15,499500.0,26-09-2013,Alm.,3375,6,Stuehus,148,1924,
+"Ørstedsgade 14, 1. 01 5900 Rudkøbing",1,1500000.0,24-09-2013,Alm.,17857,2,Lejlighed,84,2013,
+Pederstrupvej 8 5900 Rudkøbing,8,65000.0,18-09-2013,Auktion,631,4,Villa,103,1847,
+Humblevej 79 5900 Rudkøbing,79,310000.0,16-09-2013,Alm.,2366,6,Villa,131,1927,-35 %
+Sommerlyst 13 5900 Rudkøbing,13,1050000.0,16-09-2013,Fam.,7094,6,Villa,148,1952,
+Spodsbjergvej 293 5900 Rudkøbing,293,300000.0,10-09-2013,Alm.,2678,4,Villa,112,1927,-39 %
+Rolighedsvej 4 5900 Rudkøbing,4,575000.0,03-09-2013,Alm.,3443,4,Villa,167,1962,
+Humblevej 11 5900 Rudkøbing,11,249673.0,03-09-2013,Alm.,1965,4,Villa,127,1903,
+Byskrivervej 10 5900 Rudkøbing,10,1675000.0,19-08-2013,Alm.,10806,5,Villa,155,1974,-6 %
+Gyvelvænget 10 5900 Rudkøbing,10,1090000.0,05-08-2013,Alm.,18793,3,Sommerhus,58,1980,-5 %
+Krogsbjergvej 3 5900 Rudkøbing,3,165000.0,05-08-2013,Alm.,1755,2,Villa,94,1790,-27 %
+Fuglsbøllevejen 14 5900 Rudkøbing,14,290000.0,01-08-2013,Alm.,2566,3,Villa,113,1960,-11 %
+Kulepilevej 24 5900 Rudkøbing,24,498483.0,01-08-2013,Fam.,3805,5,Villa,131,1973,
+Kirkegaardsvej 6 5900 Rudkøbing,6,600000.0,01-08-2013,Alm.,7894,4,Rækkehus,76,1950,
+Ramsherred 41 5900 Rudkøbing,41,505000.0,18-07-2013,Alm.,5489,5,Rækkehus,92,1897,-15 %
+Kirkegade 9 5900 Rudkøbing,9,120000.0,17-07-2013,Alm.,1276,5,Villa,94,1887,-38 %
+Spodsbjergvej 16 5900 Rudkøbing,16,185000.0,10-07-2013,Alm.,2605,3,Rækkehus,71,1877,-53 %
+Fuglsbøllevejen 23 5900 Rudkøbing,23,10000.0,10-07-2013,Auktion,196,2,Rækkehus,51,1900,
+Havnegade 108 5900 Rudkøbing,108,1175000.0,10-07-2013,Alm.,9791,5,Villa,120,1918,-15 %
+Viebæltet 19 5900 Rudkøbing,19,25000.0,10-07-2013,Alm.,500,3,Rækkehus,50,1877,
+Gyvelvænget 1 5900 Rudkøbing,1,925000.0,08-07-2013,Alm.,18137,2,Sommerhus,51,1984,-5 %
+"Nørrebro 12A, 1. TV 5900 Rudkøbing",0,100000.0,08-07-2013,Auktion,1428,3,Lejlighed,70,1900,-72 %
+Planken 20 5900 Rudkøbing,20,1850000.0,01-07-2013,Alm.,11562,5,Villa,160,2008,-7 %
+Spodsbjergvej 55 5900 Rudkøbing,55,750000.0,01-07-2013,Alm.,9493,2,Villa,79,1900,-6 %
+Spodsbjergvej 75 5900 Rudkøbing,75,275000.0,01-07-2013,Fam.,3437,3,Rækkehus,80,1877,
+Rolighedsvej 10 5900 Rudkøbing,10,623679.0,26-06-2013,Alm.,4689,5,Villa,133,1915,
+Strandvejen 1 5900 Rudkøbing,1,1000000.0,25-06-2013,Alm.,10989,3,Stuehus,91,1903,
+Grisebjergvej 3 5900 Rudkøbing,3,6900000.0,25-06-2013,Alm.,68316,4,Stuehus,101,1877,
+Kirkegaardsvej 13 5900 Rudkøbing,13,1495000.0,17-06-2013,Alm.,12056,4,Villa,124,1938,
+Kirkegade 16 5900 Rudkøbing,16,500000.0,06-06-2013,Alm.,1552,9,Villa,322,1891,
+Havnegade 74 5900 Rudkøbing,74,600000.0,04-06-2013,Alm.,4580,5,Villa,131,1927,-8 %
+Spodsbjergvej 239 5900 Rudkøbing,239,390000.0,30-05-2013,Alm.,3333,3,Villa,117,1716,-48 %
+Skovbakken 14 5900 Rudkøbing,14,1070000.0,23-05-2013,Alm.,10700,4,Villa,100,1947,-2 %
+Bellevue 25 5900 Rudkøbing,25,485000.0,22-05-2013,Alm.,5574,3,Rækkehus,87,1890,-12 %
+Humblevej 37 5900 Rudkøbing,37,510000.0,21-05-2013,Fam.,6000,3,Rækkehus,85,1877,
+Reberbanen 12 5900 Rudkøbing,12,875000.0,21-05-2013,Alm.,10542,3,Rækkehus,83,1890,-7 %
+Lønkildevej 28 5900 Rudkøbing,28,500000.0,08-05-2013,Fam.,2873,6,Villa,174,1975,
+Fiskervænget 19 5900 Rudkøbing,19,775000.0,05-05-2013,Alm.,5698,4,Villa,136,1977,-13 %
+Statenevej 30 5900 Rudkøbing,30,149500.0,28-04-2013,Alm.,1158,3,Villa,129,1938,
+Vesterby Mark 12 5900 Rudkøbing,12,850000.0,24-04-2013,Alm.,5743,3,Villa,148,1877,-5 %
+"Havnepladsen 7B, ST. TV 5900 Rudkøbing",0,1050000.0,23-04-2013,Alm.,12500,2,Lejlighed,84,1933,
+Langøvej 20 5900 Rudkøbing,20,1445000.0,18-04-2013,Fam.,10703,5,Stuehus,135,1847,
+Gyvelvænget 27 5900 Rudkøbing,27,1795000.0,18-04-2013,Alm.,18316,4,Sommerhus,98,2008,-5 %
+Langegade 55 5900 Rudkøbing,55,195000.0,11-04-2013,Alm.,2241,4,Villa,87,1935,0 %
+Fuglsbøllevejen 1 5900 Rudkøbing,1,1800000.0,03-04-2013,Alm.,10778,6,Stuehus,167,1968,-28 %
+Kværnen 15 5900 Rudkøbing,15,1450000.0,21-03-2013,Alm.,10211,5,Villa,142,1978,-6 %
+Rolighedsvej 18 5900 Rudkøbing,18,340760.0,14-03-2013,Alm.,2937,4,Villa,116,1914,
+Langegade 25 5900 Rudkøbing,25,350000.0,12-03-2013,Alm.,3535,3,Villa,99,1877,
+Bogøvej 24 5900 Rudkøbing,24,1650000.0,12-03-2013,Alm.,18539,5,Stuehus,89,1923,
+Havgaardsvej 14 5900 Rudkøbing,14,325000.0,07-03-2013,Auktion,2708,4,Villa,120,1906,
+Skrøbelev Hedevej 13C 5900 Rudkøbing,0,1070000.0,26-02-2013,Alm.,5431,6,Villa,197,2006,-23 %
+"Langegade 21A, 1 5900 Rudkøbing",1,350000.0,26-02-2013,Auktion,4375,3,Anden beboelse,80,1890,
+Bjergvej 10 5900 Rudkøbing,10,280500.0,26-02-2013,Alm.,3950,3,Villa,71,1907,
+Gyvelvænget 6 5900 Rudkøbing,6,1040000.0,16-02-2013,Alm.,13506,5,Sommerhus,77,1978,-13 %
+Birkevænget 8 5900 Rudkøbing,8,590729.0,14-02-2013,Fam.,3356,4,Villa,176,1971,
+Gyvelvænget 5 5900 Rudkøbing,5,510000.0,02-02-2013,Fam.,11860,3,Sommerhus,43,1979,
+Banevej 2 5900 Rudkøbing,2,730000.0,01-02-2013,Alm.,4055,8,Villa,180,1910,-6 %
+Østerport 3 5900 Rudkøbing,3,695000.0,29-01-2013,Alm.,5560,4,Rækkehus,125,1912,-30 %
+Spodsbjergvej 233 5900 Rudkøbing,233,350000.0,25-01-2013,Alm.,2447,6,Villa,143,1935,-29 %
+Statenevej 24 5900 Rudkøbing,24,2450000.0,24-01-2013,Alm.,6901,6,Stuehus,355,1971,
+Longelsevej 15 5900 Rudkøbing,15,44000.0,08-01-2013,Auktion,733,2,Rækkehus,60,1852,
+Hennetvedvej 15 5900 Rudkøbing,15,1600000.0,31-12-2012,Alm.,5839,11,Villa,274,1823,
+Broløkken 2A 5900 Rudkøbing,0,1300000.0,19-12-2012,Alm.,13829,4,Rækkehus,94,2012,0 %
+Nørrebro 135 5900 Rudkøbing,135,373613.0,18-12-2012,Fam.,2524,6,Rækkehus,148,1863,
+Vindebyvej 11 5900 Rudkøbing,11,800000.0,13-12-2012,Alm.,2777,8,Stuehus,288,1857,-33 %
+Spodsbjergvej 77 5900 Rudkøbing,77,425000.0,06-12-2012,Alm.,5743,3,Rækkehus,74,1877,-47 %
+Digevænget 1 5900 Rudkøbing,1,1150000.0,04-12-2012,Alm.,13690,2,Villa,84,1949,
+Fuglsbøllevejen 42 5900 Rudkøbing,42,400000.0,29-11-2012,Alm.,4000,4,Villa,100,1960,-33 %
+Rifbjergvej 4 5900 Rudkøbing,4,800000.0,29-11-2012,Fam.,3720,6,Villa,215,1872,
+Spodsbjergvej 73 5900 Rudkøbing,73,900000.0,28-11-2012,Alm.,7692,5,Rækkehus,117,1877,-10 %
+Pederstrupvej 33 5900 Rudkøbing,33,537862.0,27-11-2012,Andet,3240,5,Villa,166,1830,
+Gyvelvænget 13 5900 Rudkøbing,13,1175000.0,26-11-2012,Alm.,13988,5,Sommerhus,84,1986,-9 %
+Gyvelvænget 23 5900 Rudkøbing,23,740000.0,26-11-2012,Fam.,9135,4,Sommerhus,81,1979,
+Porsevænget 2 5900 Rudkøbing,2,850000.0,22-11-2012,Alm.,7657,5,Sommerhus,111,1977,-15 %
+Nordre Landevej 30 5900 Rudkøbing,30,575000.0,16-11-2012,Alm.,4831,3,Villa,119,1925,-3 %
+Longelsevej 57 5900 Rudkøbing,57,350000.0,14-11-2012,Auktion,1495,6,Villa,234,1935,
+Humblevej 90 5900 Rudkøbing,90,737550.0,07-11-2012,Alm.,4288,4,Villa,172,1900,
+Knolden 10 5900 Rudkøbing,10,1800000.0,05-11-2012,Fam.,13333,4,Villa,135,1980,
+Broløkken 23 5900 Rudkøbing,23,1015000.0,30-10-2012,Alm.,11277,4,Villa,90,1966,-7 %
+Nørrebro 108 5900 Rudkøbing,108,275000.0,24-10-2012,Fam.,3437,4,Rækkehus,80,1885,
+"Skudehavnen 53, ST 5900 Rudkøbing",0,1050000.0,22-10-2012,Alm.,15671,3,Fritid,67,1989,-12 %
+Havnegade 94 5900 Rudkøbing,94,610500.0,13-10-2012,Andet,3508,7,Villa,174,1906,
+"Vinkældergade 4, 1 5900 Rudkøbing",1,900000.0,11-10-2012,Alm.,9183,4,Lejlighed,98,1890,
+"Vinkældergade 4, 2 5900 Rudkøbing",2,700000.0,11-10-2012,Alm.,9210,3,Lejlighed,76,1890,
+"Vinkældergade 4, ST 5900 Rudkøbing",0,900000.0,11-10-2012,Alm.,10465,5,Lejlighed,86,1890,
+Skovvej 5 5900 Rudkøbing,5,400000.0,04-10-2012,Alm.,2877,5,Villa,139,1847,-33 %
+Hennetvedvej 29 5900 Rudkøbing,29,715000.0,03-10-2012,Alm.,6383,5,Villa,112,1946,-4 %
+Æblevænget 12 5900 Rudkøbing,12,800000.0,02-10-2012,Alm.,5714,4,Villa,140,1966,-26 %
+Strandløkken 25 5900 Rudkøbing,25,1425000.0,27-09-2012,Alm.,10401,5,Villa,137,1963,-11 %
+Skrøbelev Hedevej 18 5900 Rudkøbing,18,650000.0,19-09-2012,Alm.,3939,5,Villa,165,1905,-6 %
+Snaremosevej 10 5900 Rudkøbing,10,6678000.0,17-09-2012,Alm.,41222,5,Stuehus,162,1928,
+Herslevvej 33A 5900 Rudkøbing,0,995000.0,14-09-2012,Alm.,4925,5,Villa,202,1974,0 %
+Kragholmvej 21 5900 Rudkøbing,21,1300000.0,06-09-2012,Alm.,7975,5,Villa,163,1822,-13 %
+Nørrebro 62 5900 Rudkøbing,62,450000.0,03-09-2012,Fam.,7377,2,Rækkehus,61,1880,-14 %
+Spodsbjergvej 187 5900 Rudkøbing,187,125000.0,28-08-2012,Alm.,1865,3,Villa,67,1900,-32 %
+"Ahlefeldtsgade 29A, ST. TH 5900 Rudkøbing",0,2373000.0,23-08-2012,Alm.,27593,3,Lejlighed,86,1916,
+Vinkældergade 16 5900 Rudkøbing,16,200000.0,23-08-2012,Alm.,1851,5,Villa,108,1795,
+Rolighedsvej 15 5900 Rudkøbing,15,797600.0,22-08-2012,Alm.,6182,5,Villa,129,1921,
+Banken 5 5900 Rudkøbing,5,1150000.0,15-08-2012,Alm.,22115,4,Sommerhus,52,1981,
+Ramsherred 51 5900 Rudkøbing,51,880000.0,14-08-2012,Alm.,9565,2,Rækkehus,92,1877,-7 %
+Krogsbjergvej 12 5900 Rudkøbing,12,1175000.0,10-08-2012,Alm.,4700,6,Villa,250,1915,4 %
+"Skudehavnen 5, ST 5900 Rudkøbing",0,1130000.0,09-08-2012,Alm.,16865,3,Fritid,67,1989,
+Nordre Landevej 49 5900 Rudkøbing,49,835000.0,09-08-2012,Alm.,8978,3,Villa,93,1932,-1 %
+Havnegade 104 5900 Rudkøbing,104,1850000.0,31-07-2012,Alm.,10451,5,Rækkehus,177,1912,-2 %
+Lollesgaardsvej 4 5900 Rudkøbing,4,1945000.0,16-07-2012,Alm.,13794,5,Villa,141,1898,0 %
+Rue 19 5900 Rudkøbing,19,575000.0,12-07-2012,Fam.,4423,4,Rækkehus,130,1885,
+Fuglsbøllevejen 10 5900 Rudkøbing,10,850000.0,05-07-2012,Alm.,7943,3,Villa,107,1902,-5 %
+Herslevvej 7 5900 Rudkøbing,7,195000.0,04-07-2012,Auktion,1893,5,Villa,103,1938,-74 %
+Strandengen 19 5900 Rudkøbing,19,925000.0,29-06-2012,Alm.,6166,5,Villa,150,2013,-3 %
+Broløkken 2B 5900 Rudkøbing,0,1300000.0,29-06-2012,Alm.,13829,4,Rækkehus,94,2012,
+Kværnen 1 5900 Rudkøbing,1,1125000.0,26-06-2012,Alm.,9453,4,Villa,119,1980,-12 %
+Drejet 62 5900 Rudkøbing,62,2170000.0,14-06-2012,Alm.,0,7,Villa,218,1896,-12 %
+Strandløkken 19 5900 Rudkøbing,19,1165000.0,13-06-2012,Andet,10130,6,Villa,115,1943,
+Bogøvej 17 5900 Rudkøbing,17,1215000.0,12-06-2012,Alm.,6675,5,Stuehus,182,1924,2 %
+Fuglsbøllevejen 33 5900 Rudkøbing,33,725000.0,07-06-2012,Alm.,6250,5,Villa,116,1949,-6 %
+"Skudehavnen 29, ST 5900 Rudkøbing",0,1150000.0,06-06-2012,Alm.,17164,3,Fritid,67,1989,
+Langøvej 13 5900 Rudkøbing,13,4740000.0,04-06-2012,Fam.,13166,11,Stuehus,360,1863,
+"Skudehavnen 31, ST 5900 Rudkøbing",0,1150000.0,29-05-2012,Alm.,17164,3,Fritid,67,1989,-6 %
+Skovridervænget 12 5900 Rudkøbing,12,250000.0,05-05-2012,Alm.,1724,4,Sommerhus,145,2017,-37 %
+Løjtnantvænget 11 5900 Rudkøbing,11,1395000.0,01-05-2012,Fam.,15852,4,Sommerhus,88,2007,
+Pederstrupvej 26 5900 Rudkøbing,26,600000.0,30-04-2012,Alm.,5454,3,Villa,110,1965,-14 %
+Spodsbjergvej 186B 5900 Rudkøbing,0,1000000.0,30-04-2012,Alm.,10309,3,Villa,97,1991,-9 %
+Byvej 17 5900 Rudkøbing,17,200000.0,28-04-2012,Alm.,2197,3,Rækkehus,91,1907,
+Spodsbjergvej 153B 5900 Rudkøbing,0,150000.0,19-04-2012,Auktion,1500,3,Villa,100,1951,-67 %
+Spodsbjergvej 80 5900 Rudkøbing,80,495000.0,17-04-2012,Alm.,4419,5,Villa,112,1939,-17 %
+Drejet 30 5900 Rudkøbing,30,1550000.0,03-04-2012,Alm.,10402,4,Sommerhus,149,1993,
+Porsevænget 8 5900 Rudkøbing,8,1300000.0,30-03-2012,Alm.,18309,4,Sommerhus,71,1969,
+Nordre Landevej 4 5900 Rudkøbing,4,275000.0,29-03-2012,Alm.,2433,3,Villa,113,1907,
+Nordre Landevej 37 5900 Rudkøbing,37,120000.0,29-03-2012,Auktion,1379,3,Villa,87,1880,
+Byvej 19 5900 Rudkøbing,19,35000.0,25-03-2012,Alm.,384,3,Rækkehus,91,1880,
+Skovridervænget 22 5900 Rudkøbing,22,1725000.0,22-03-2012,Alm.,13911,5,Sommerhus,124,2010,-9 %
+Smedegade 9 5900 Rudkøbing,9,615000.0,22-03-2012,Alm.,6988,4,Rækkehus,88,1850,
+Spodsbjergvej 128 5900 Rudkøbing,128,550000.0,20-03-2012,Andet,2558,5,Stuehus,215,1905,
+Løjtnantvænget 1 5900 Rudkøbing,1,1700000.0,14-03-2012,Alm.,16504,4,Sommerhus,103,2008,0 %
+Ramsherred 7 5900 Rudkøbing,7,1200000.0,10-03-2012,Alm.,5687,7,Rækkehus,211,1682,-20 %
+"Skudehavnen 65, 1 5900 Rudkøbing",1,1300000.0,01-03-2012,Alm.,18840,3,Fritid,69,1989,-5 %
+Smedegade 3 5900 Rudkøbing,3,1237500.0,22-02-2012,Alm.,9593,4,Rækkehus,129,1860,-10 %
+Reberbanen 22 5900 Rudkøbing,22,725000.0,20-02-2012,Alm.,8734,3,Rækkehus,83,1890,-9 %
+Illebøllevej 26 5900 Rudkøbing,26,230000.0,15-02-2012,Auktion,2613,4,Villa,88,1852,
+Langøvej 19 5900 Rudkøbing,19,989208.0,14-02-2012,Alm.,5717,5,Stuehus,173,1000,
+Bogøvej 44 5900 Rudkøbing,44,446211.0,14-02-2012,Alm.,2411,4,Stuehus,185,1943,
+Vindebyvej 23 5900 Rudkøbing,23,200000.0,11-02-2012,Alm.,2150,4,Villa,93,1947,-49 %
+Skrøbelev Hedevej 2 5900 Rudkøbing,2,1000000.0,02-02-2012,Fam.,4347,5,Villa,230,1999,
+"Ahlefeldtsgade 2, 1 5900 Rudkøbing",1,3500000.0,31-01-2012,Andet,55555,2,Lejlighed,63,1997,
+Løjtnantvænget 13 5900 Rudkøbing,13,1750000.0,20-01-2012,Alm.,15350,4,Sommerhus,114,2008,
+Vævergyden 6 5900 Rudkøbing,6,350000.0,17-01-2012,Fam.,3571,3,Villa,98,1965,
+Fiskervænget 1 5900 Rudkøbing,1,645000.0,11-01-2012,Auktion,4961,4,Villa,130,1989,
+Pilevænget 4 5900 Rudkøbing,4,1035000.0,29-12-2011,Alm.,14178,4,Sommerhus,73,1984,-17 %
+Spodsbjergvej 154 5900 Rudkøbing,154,458119.0,28-12-2011,Alm.,3817,3,Villa,120,1949,
+Spangevej 4 5900 Rudkøbing,4,350000.0,22-12-2011,Alm.,2800,4,Villa,125,1856,
+Sommerlyst 22 5900 Rudkøbing,22,650000.0,21-12-2011,Andet,8552,3,Rækkehus,76,1827,
+Ravnerydvej 11 5900 Rudkøbing,11,397175.0,12-12-2011,Alm.,1539,6,Stuehus,258,1827,
+Hennetvedvej 34 5900 Rudkøbing,34,990000.0,01-12-2011,Alm.,8534,4,Villa,116,1890,
+Statenevej 10 5900 Rudkøbing,10,1045000.0,25-11-2011,Alm.,5937,6,Villa,176,1926,-5 %
+Solbakken 21 5900 Rudkøbing,21,2400000.0,25-11-2011,Alm.,17777,4,Sommerhus,135,2016,-20 %
+Drejet 62A 5900 Rudkøbing,0,795000.0,08-11-2011,Alm.,17666,3,Sommerhus,45,1973,-10 %
+Østerled 3 5900 Rudkøbing,3,140000.0,07-11-2011,Alm.,1372,3,Villa,102,1912,0 %
+Spangevej 9 5900 Rudkøbing,9,1610000.0,02-11-2011,Alm.,11258,5,Villa,143,1939,-2 %
+Spodsbjergvej 228 5900 Rudkøbing,228,1100000.0,02-11-2011,Alm.,13414,2,Villa,82,1877,
+Longelsevej 75 5900 Rudkøbing,75,407610.0,01-11-2011,Fam.,3454,4,Villa,118,1967,
+Hennetvedvej 56 5900 Rudkøbing,56,461000.0,25-10-2011,Alm.,4308,4,Villa,107,1937,
+Spodsbjergvej 215 5900 Rudkøbing,215,500000.0,21-10-2011,Alm.,3067,4,Villa,163,1900,-22 %
+Mosevænget 27 5900 Rudkøbing,27,2600000.0,16-10-2011,Alm.,12264,5,Villa,212,1998,
+Strandlystvej 13 5900 Rudkøbing,13,290000.0,13-10-2011,Auktion,2589,4,Villa,112,1918,-64 %
+Ramsherred 71 5900 Rudkøbing,71,795000.0,12-10-2011,Alm.,9695,4,Rækkehus,82,1890,-11 %
+Reberbanen 24 5900 Rudkøbing,24,700000.0,11-10-2011,Alm.,7865,3,Rækkehus,89,1890,
+Omgangen 17 5900 Rudkøbing,17,1150000.0,10-10-2011,Alm.,10849,5,Villa,106,1976,-4 %
+Kastanievej 18 5900 Rudkøbing,18,585000.0,09-10-2011,Alm.,5318,4,Villa,110,1912,-16 %
+Spangevej 7 5900 Rudkøbing,7,700000.0,07-10-2011,Alm.,5833,4,Villa,120,1963,-15 %
+"Skovridervænget 28, ST 5900 Rudkøbing",0,395000.0,30-09-2011,Alm.,3015,4,Sommerhus,131,2012,-11 %
+Fuglsbøllevejen 34 5900 Rudkøbing,34,450000.0,27-09-2011,Fam.,3040,4,Sommerhus,148,1802,
+Bogøvej 1 5900 Rudkøbing,1,160000.0,19-09-2011,Alm.,1280,5,Villa,125,1852,-36 %
+Solbakken 15 5900 Rudkøbing,15,1500000.0,17-09-2011,Alm.,22058,3,Sommerhus,68,1996,-16 %
+Schnohrsvej 17 5900 Rudkøbing,17,1000000.0,12-09-2011,Alm.,8264,4,Villa,121,1970,-16 %
+Kassebøllevej 26 5900 Rudkøbing,26,1170000.0,03-09-2011,Alm.,15000,3,Stuehus,78,1870,
+Elmevænget 8 5900 Rudkøbing,8,1500000.0,01-09-2011,Alm.,12605,3,Villa,119,1971,-19 %
+Hannebjergvej 15 5900 Rudkøbing,15,125000.0,28-08-2011,Fam.,2049,2,Rækkehus,61,1750,
+Spangevej 12 5900 Rudkøbing,12,500000.0,24-08-2011,Fam.,3846,4,Villa,130,1870,
+Kildemosevej 8 5900 Rudkøbing,8,40000.0,17-08-2011,Alm.,392,5,Villa,102,1963,
+Spodsbjergvej 146 5900 Rudkøbing,146,119464.0,16-08-2011,Alm.,1405,2,Villa,85,1941,
+Vævergyden 7 5900 Rudkøbing,7,325000.0,10-08-2011,Auktion,2407,10,Industri o.l.,135,1977,
+Torpevej 21 5900 Rudkøbing,21,1050000.0,05-08-2011,Alm.,6953,5,Villa,151,1827,-11 %
+Drejet 46 5900 Rudkøbing,46,1900000.0,02-08-2011,Alm.,17592,5,Sommerhus,108,1958,-9 %
+Chr Kiilsgaards Vej 8 5900 Rudkøbing,8,885000.0,20-07-2011,Alm.,9315,4,Villa,95,1971,-21 %
+Spodsbjergvej 31 5900 Rudkøbing,31,895000.0,16-07-2011,Alm.,9944,4,Rækkehus,90,1890,-7 %
+Nørrebro 69 5900 Rudkøbing,69,425000.0,15-07-2011,Alm.,5519,3,Rækkehus,77,1877,
+Rosenvænget 9 5900 Rudkøbing,9,1200000.0,14-07-2011,Fam.,8759,5,Villa,137,1962,
+Voldstien 2 5900 Rudkøbing,2,1300000.0,13-07-2011,Alm.,9629,6,Villa,135,1966,
+Kystvænget 5 5900 Rudkøbing,5,2400000.0,12-07-2011,Alm.,15686,4,Villa,153,1972,
+"Havnegade 34, 1 5900 Rudkøbing",1,1317500.0,07-07-2011,Andet,10374,4,Anden beboelse,127,1917,
+Strandlystvej 5 5900 Rudkøbing,5,785000.0,05-07-2011,Alm.,9936,3,Rækkehus,79,1978,-7 %
+Skippervænget 4 5900 Rudkøbing,4,3200000.0,04-07-2011,Alm.,32000,5,Sommerhus,100,2001,-2 %
+Rue 1 5900 Rudkøbing,1,1275000.0,29-06-2011,Fam.,7005,7,Villa,182,1771,
+Havgaardsvej 2 5900 Rudkøbing,2,480000.0,29-06-2011,Alm.,2909,5,Villa,165,1925,-9 %
+Krogsbjergvej 6 5900 Rudkøbing,6,955000.0,27-06-2011,Alm.,8232,4,Villa,116,1916,-2 %
+Fuglsbøllevejen 26 5900 Rudkøbing,26,275000.0,21-06-2011,Alm.,4583,2,Villa,60,1925,0 %
+Kibshavevej 6 5900 Rudkøbing,6,750000.0,21-06-2011,Fam.,4010,4,Stuehus,187,1890,
+Longelsevej 39 5900 Rudkøbing,39,395000.0,20-06-2011,Alm.,4293,4,Villa,92,1887,0 %
+Spodsbjergvej 23 5900 Rudkøbing,23,390000.0,17-06-2011,Alm.,3679,4,Rækkehus,106,1910,
+Fuglsbøllevejen 18 5900 Rudkøbing,18,290000.0,08-06-2011,Auktion,1336,5,Industri o.l.,217,1861,
+Strandgade 36 5900 Rudkøbing,36,337000.0,01-06-2011,Auktion,2390,6,Rækkehus,141,1897,-77 %
+Lindevej 7 5900 Rudkøbing,7,750000.0,30-05-2011,Andet,5769,6,Villa,130,1916,
+Skrøbelev Kirkevej 4 5900 Rudkøbing,4,1025000.0,27-05-2011,Alm.,9318,4,Villa,110,1952,-14 %
+"Skudehavnen 63, 1 5900 Rudkøbing",1,1050000.0,26-05-2011,Alm.,15671,3,Fritid,67,1989,
+"Strandengen 23, ST 5900 Rudkøbing",0,755000.0,21-05-2011,Alm.,4241,5,Villa,178,2011,-8 %
+"Østergade 64, 1 5900 Rudkøbing",1,625000.0,17-05-2011,Alm.,13020,2,Rækkehus,48,1842,-21 %
+Simmerbølle Kirkevej 5 5900 Rudkøbing,5,1335000.0,16-05-2011,Alm.,9816,5,Villa,136,1965,-4 %
+Jens Winthers Vej 14 5900 Rudkøbing,14,1535000.0,29-04-2011,Alm.,7675,6,Villa,200,1905,
+Kulepilevej 17 5900 Rudkøbing,17,500000.0,26-04-2011,Alm.,5434,2,Villa,92,1958,-10 %
+Nørrebro 90 5900 Rudkøbing,90,970000.0,15-04-2011,Alm.,9897,4,Rækkehus,98,1950,-3 %
+Langegade 2 5900 Rudkøbing,2,875000.0,12-04-2011,Alm.,2044,10,Villa,428,1750,-8 %
+Sølyst 44 5900 Rudkøbing,44,1215000.0,09-04-2011,Alm.,12397,5,Sommerhus,98,1973,-13 %
+Drejet 62B 5900 Rudkøbing,0,722500.0,08-04-2011,Fam.,14166,3,Sommerhus,51,1978,
+Rolighedsvej 24 5900 Rudkøbing,24,1797500.0,06-04-2011,Alm.,13934,3,Villa,129,1925,-3 %
+"Gyvelvænget 21, ST 5900 Rudkøbing",0,565000.0,15-03-2011,Alm.,5594,4,Sommerhus,101,2013,-19 %
+Spodsbjergvej 227 5900 Rudkøbing,227,5700000.0,14-03-2011,Alm.,30645,6,Stuehus,186,1954,
+Kulepilevej 9 5900 Rudkøbing,9,1265000.0,12-03-2011,Alm.,5121,7,Villa,247,1966,-9 %
+Langegade 13 5900 Rudkøbing,13,100000.0,10-03-2011,Auktion,952,5,Villa,105,1877,
+Simmerbølle Kirkevej 6 5900 Rudkøbing,6,150000.0,10-03-2011,Auktion,898,6,Villa,167,1853,-62 %
+Klæsøvej 4 5900 Rudkøbing,4,335000.0,03-03-2011,Auktion,1634,11,Villa,205,1777,-74 %
+Spodsbjergvej 52 5900 Rudkøbing,52,695000.0,28-02-2011,Alm.,8373,3,Rækkehus,83,1877,0 %
+Nordre Landevej 41 5900 Rudkøbing,41,1185000.0,26-02-2011,Alm.,7745,4,Stuehus,153,1973,
+Broløkken 17 5900 Rudkøbing,17,950000.0,22-02-2011,Alm.,7600,4,Villa,125,1965,-21 %
+Birkevænget 6 5900 Rudkøbing,6,1895000.0,15-02-2011,Alm.,11993,7,Villa,158,1972,0 %
+"Skudehavnen 37, ST 5900 Rudkøbing",0,1055000.0,09-02-2011,Alm.,15746,3,Fritid,67,1989,
+Spodsbjergvej 331 5900 Rudkøbing,331,500000.0,08-02-2011,Alm.,4132,6,Villa,121,1930,-33 %
+Humblevej 32 5900 Rudkøbing,32,664000.0,06-02-2011,Alm.,7904,2,Rækkehus,84,1852,
+Reberbanen 27B 5900 Rudkøbing,0,795000.0,02-02-2011,Alm.,10324,3,Rækkehus,77,1982,0 %
+Krogsbjergvej 15 5900 Rudkøbing,15,50000.0,20-01-2011,Auktion,666,3,Villa,75,1875,
+Bregnevej 7 5900 Rudkøbing,7,1350000.0,17-01-2011,Alm.,8385,5,Villa,161,1980,-3 %
+Reberbanen 35 5900 Rudkøbing,35,485000.0,10-01-2011,Alm.,3439,3,Villa,141,1927,-29 %
+Humblevej 26 5900 Rudkøbing,26,655000.0,06-01-2011,Alm.,7987,3,Rækkehus,82,1923,-6 %
+Udsigten 4 5900 Rudkøbing,4,975000.0,05-01-2011,Alm.,12341,3,Sommerhus,79,1998,
+Skovridervænget 18 5900 Rudkøbing,18,380000.0,28-12-2010,Alm.,5135,2,Sommerhus,74,2011,
+Ørsted Bygade 33 5900 Rudkøbing,33,405000.0,21-12-2010,Alm.,2250,4,Villa,180,2012,
+Østerled 2 5900 Rudkøbing,2,875000.0,20-12-2010,Fam.,6076,6,Villa,144,1922,
+Vestergårdsvej 13 5900 Rudkøbing,13,150000.0,17-12-2010,Alm.,1724,3,Villa,87,1827,
+Rifbjerg Strand 12 5900 Rudkøbing,12,500000.0,16-12-2010,Fam.,6944,2,Villa,72,1890,
+Skovsbovej 7 5900 Rudkøbing,7,500000.0,14-12-2010,Alm.,5000,3,Villa,100,1962,-26 %
+Kragholmvej 42 5900 Rudkøbing,42,650000.0,13-12-2010,Andet,4193,3,Villa,155,1910,
+Spodsbjergvej 259 5900 Rudkøbing,259,400000.0,12-12-2010,Alm.,4210,3,Villa,95,1923,
+Møllemosevej 15 5900 Rudkøbing,15,795000.0,08-12-2010,Alm.,8281,3,Villa,96,1917,
+Nordre Landevej 23 5900 Rudkøbing,23,1390000.0,07-12-2010,Alm.,6984,6,Villa,199,1917,-13 %
+Kragholmvej 28 5900 Rudkøbing,28,525000.0,30-11-2010,Alm.,5303,4,Villa,99,1877,
+Langegade 5 5900 Rudkøbing,5,1200000.0,30-11-2010,Alm.,6629,6,Engroshandel,181,1910,
+Jens Winthers Vej 31 5900 Rudkøbing,31,1600000.0,23-11-2010,Alm.,12800,4,Villa,125,1935,-6 %
+Ramsherred 83 5900 Rudkøbing,83,600000.0,22-11-2010,Alm.,5555,4,Rækkehus,108,1877,
+Peløkkevej 76 5900 Rudkøbing,76,1750000.0,22-11-2010,Alm.,12681,4,Villa,138,1963,-8 %
+Drejet 52 5900 Rudkøbing,52,850000.0,21-11-2010,Fam.,9444,3,Sommerhus,90,1987,
+"Østergade 11, 1 5900 Rudkøbing",1,710000.0,17-11-2010,Auktion,6283,4,Lejlighed,113,1900,
+Haugbøllevej 23 5900 Rudkøbing,23,400000.0,14-11-2010,Alm.,6060,4,Villa,66,1877,
+Teglbakken 22 5900 Rudkøbing,22,507604.0,12-11-2010,Andet,2884,6,Villa,176,1920,
+Drejet 26 5900 Rudkøbing,26,977500.0,11-11-2010,Alm.,23273,3,Sommerhus,42,1962,
+Påøvej 12 5900 Rudkøbing,12,4535000.0,03-11-2010,Alm.,19547,5,Villa,232,1968,
+Spodsbjergvej 126 5900 Rudkøbing,126,495000.0,26-10-2010,Alm.,5322,2,Villa,93,1906,0 %
+Bakkevænget 5 5900 Rudkøbing,5,1700000.0,25-10-2010,Alm.,10967,4,Villa,155,1973,
+Viebæltet 8 5900 Rudkøbing,8,895000.0,22-10-2010,Alm.,8523,4,Villa,105,1960,0 %
+Spodsbjergvej 295 5900 Rudkøbing,295,950000.0,21-10-2010,Alm.,5974,4,Villa,159,1927,-5 %
+Gyvelvænget 19 5900 Rudkøbing,19,560000.0,21-10-2010,Alm.,9333,3,Sommerhus,60,2011,-19 %
+Kibshavevej 16 5900 Rudkøbing,16,626361.0,20-10-2010,Andet,2913,5,Villa,215,1972,
+Bregnevej 9 5900 Rudkøbing,9,1295000.0,19-10-2010,Fam.,7275,4,Villa,178,1979,
+Kragholmvej 6 5900 Rudkøbing,6,775000.0,19-10-2010,Alm.,9117,3,Villa,85,1900,-3 %
+Nørrebro 61 5900 Rudkøbing,61,675000.0,19-10-2010,Alm.,10384,4,Rækkehus,65,1880,
+Møllebjergvej 4 5900 Rudkøbing,4,895000.0,19-10-2010,Fam.,7458,4,Villa,120,1966,
+"Havnegade 9, 1 5900 Rudkøbing",1,900000.0,18-10-2010,Alm.,10843,2,Lejlighed,83,1963,
+Nørrebro 28 5900 Rudkøbing,28,335000.0,13-10-2010,Alm.,4855,3,Rækkehus,69,1777,-15 %
+Ramsherred 28 5900 Rudkøbing,28,280000.0,05-10-2010,Andet,6363,3,Rækkehus,44,1890,
+Spodsbjergvej 58 5900 Rudkøbing,58,575000.0,05-10-2010,Alm.,5227,3,Rækkehus,110,1900,-3 %
+Skovridervænget 49 5900 Rudkøbing,49,350000.0,05-10-2010,Alm.,2941,5,Sommerhus,119,2012,
+Smediestræde 5 5900 Rudkøbing,5,350000.0,04-10-2010,Alm.,3301,4,Villa,106,1857,-11 %
+Nordre Landevej 22 5900 Rudkøbing,22,695000.0,03-10-2010,Alm.,4664,6,Villa,149,1952,0 %
+Gyvelvænget 14 5900 Rudkøbing,14,1075000.0,24-09-2010,Alm.,17622,4,Sommerhus,61,1982,-10 %
+Løjtnantvænget 12 5900 Rudkøbing,12,1408500.0,20-09-2010,Alm.,18532,4,Sommerhus,76,2011,
+Longelsevej 79 5900 Rudkøbing,79,687500.0,16-09-2010,Alm.,5876,4,Villa,117,1800,-14 %
+Søndre Landevej 30 5900 Rudkøbing,30,1464000.0,10-09-2010,Alm.,10764,3,Stuehus,136,1920,-8 %
+Nørrebro 162 5900 Rudkøbing,162,375000.0,09-09-2010,Alm.,6465,2,Rækkehus,58,1900,
+Kragholmvej 13 5900 Rudkøbing,13,285000.0,08-09-2010,Auktion,4071,3,Villa,70,1750,
+Skovsbovej 13 5900 Rudkøbing,13,240000.0,30-08-2010,Auktion,1437,4,Villa,167,1940,
+Nørrebro 63 5900 Rudkøbing,63,635000.0,27-08-2010,Alm.,8698,2,Rækkehus,73,1877,0 %
+Spodsbjergvej 150 5900 Rudkøbing,150,400000.0,27-08-2010,Alm.,3846,4,Villa,104,1927,
+Sølyst 15 5900 Rudkøbing,15,835000.0,27-08-2010,Alm.,17765,2,Sommerhus,47,1970,-7 %
+Strandengen 16 5900 Rudkøbing,16,870000.0,27-08-2010,Alm.,4806,4,Villa,181,2011,
+Nørrebro 72 5900 Rudkøbing,72,695000.0,24-08-2010,Alm.,5387,3,Villa,129,1910,0 %
+Skovridervænget 34 5900 Rudkøbing,34,1500000.0,14-08-2010,Alm.,20270,3,Sommerhus,74,2010,
+Strandløkken 23 5900 Rudkøbing,23,1100000.0,13-08-2010,Alm.,8208,3,Villa,134,1947,-31 %
+Skovridervænget 24 5900 Rudkøbing,24,1600000.0,11-08-2010,Alm.,12903,5,Sommerhus,124,2010,
+Langegade 47 5900 Rudkøbing,47,620000.0,11-08-2010,Alm.,4189,6,Villa,148,1930,-14 %
+Fuglsbølle Strand 2 5900 Rudkøbing,2,1380057.0,08-08-2010,Fam.,5774,9,Villa,239,1777,
+Broløkken 42 5900 Rudkøbing,42,1200000.0,01-08-2010,Alm.,12371,2,Villa,97,1964,-11 %
+Sommerlyst 18 5900 Rudkøbing,18,550000.0,30-07-2010,Alm.,6395,3,Rækkehus,86,1877,
+Brogade 21 5900 Rudkøbing,21,1450000.0,28-07-2010,Alm.,12083,6,Rækkehus,120,1900,-3 %
+Kystvænget 9 5900 Rudkøbing,9,1610000.0,23-07-2010,Alm.,10733,5,Villa,150,1970,-27 %
+Peløkkevej 14 5900 Rudkøbing,14,1125000.0,22-07-2010,Alm.,7758,4,Rækkehus,145,1852,-6 %
+Pederstrupvej 6 5900 Rudkøbing,6,1100000.0,21-07-2010,Alm.,4661,6,Villa,236,1850,-25 %
+Torpevej 10 5900 Rudkøbing,10,1200000.0,12-07-2010,Fam.,8000,4,Villa,150,1972,
+Hjelmbjergvej 1 5900 Rudkøbing,1,1200000.0,10-07-2010,Alm.,6451,4,Villa,186,1830,-7 %
+Drejet 40 5900 Rudkøbing,40,1244323.0,08-07-2010,Fam.,5760,6,Villa,216,1900,
+Strandbakken 14 5900 Rudkøbing,14,726000.0,02-07-2010,Andet,5076,4,Villa,143,1947,
+Kastanievej 20 5900 Rudkøbing,20,1600000.0,29-06-2010,Alm.,11678,4,Villa,137,1912,-6 %
+Rifbjerg Udflytter 9 5900 Rudkøbing,9,350000.0,28-06-2010,Alm.,5468,2,Villa,64,1965,
+Bønneløkkevej 6 5900 Rudkøbing,6,1460000.0,22-06-2010,Alm.,12066,4,Stuehus,121,1952,-1 %
+"Skudehavnen 3, 1 5900 Rudkøbing",1,850000.0,22-06-2010,Fam.,12686,2,Fritid,67,1989,
+Spodsbjergvej 20 5900 Rudkøbing,20,1229000.0,21-06-2010,Alm.,13215,4,Rækkehus,93,1904,-5 %
+Spodsbjergvej 64 5900 Rudkøbing,64,945000.0,11-06-2010,Alm.,10384,4,Villa,91,1880,0 %
+Torpevej 9 5900 Rudkøbing,9,4998800.0,03-06-2010,Fam.,23690,4,Stuehus,211,1887,
+Banevej 10 5900 Rudkøbing,10,473000.0,02-06-2010,Alm.,2993,4,Villa,158,1935,-19 %
+Krogsbjergvej 14 5900 Rudkøbing,14,1129000.0,31-05-2010,Alm.,4951,7,Stuehus,228,1877,-43 %
+Møllemosevej 10 5900 Rudkøbing,10,1020000.0,25-05-2010,Alm.,7611,4,Villa,134,1960,-14 %
+Spodsbjergvej 230 5900 Rudkøbing,230,337750.0,21-05-2010,Fam.,2520,6,Villa,134,1950,
+Longelsevej 26 5900 Rudkøbing,26,135400.0,20-05-2010,Alm.,576,10,Villa,235,1900,
+Reberbanen 7 5900 Rudkøbing,7,775000.0,17-05-2010,Alm.,9451,3,Rækkehus,82,1900,-11 %
+Krogsbjergvej 7 5900 Rudkøbing,7,275000.0,06-05-2010,Alm.,3437,3,Villa,80,1900,
+Nørrebro 129 5900 Rudkøbing,129,270000.0,05-05-2010,Auktion,2142,4,Rækkehus,126,1900,
+Vindeltorpvej 11 5900 Rudkøbing,11,1735000.0,29-04-2010,Alm.,10579,3,Stuehus,164,1907,-3 %
+Rolighedsvej 42 5900 Rudkøbing,42,1250000.0,27-04-2010,Alm.,11904,5,Villa,105,1952,
+Spodsbjergvej 54C 5900 Rudkøbing,0,885000.0,26-04-2010,Alm.,10290,3,Rækkehus,86,1890,-1 %
+Hennetvedvej 21 5900 Rudkøbing,21,525000.0,24-04-2010,Alm.,3017,5,Stuehus,174,1800,
+Langøvej 22 5900 Rudkøbing,22,1410000.0,19-04-2010,Alm.,6650,9,Stuehus,212,1917,
+Nørrebro 34 5900 Rudkøbing,34,780000.0,18-04-2010,Alm.,5531,6,Rækkehus,141,1897,
+Sidsel Bagers Gade 11 5900 Rudkøbing,11,550000.0,16-04-2010,Andet,6395,5,Rækkehus,86,1700,
+Kassebøllevej 18 5900 Rudkøbing,18,725000.0,14-04-2010,Alm.,5253,4,Villa,138,1900,-9 %
+Cirklen 3 5900 Rudkøbing,3,1835000.0,09-04-2010,Alm.,11054,7,Villa,166,1986,-16 %
+Gyvelvænget 8 5900 Rudkøbing,8,1065000.0,31-03-2010,Alm.,18684,4,Sommerhus,57,1981,-14 %
+Reberbanen 18 5900 Rudkøbing,18,125000.0,29-03-2010,Alm.,1785,2,Rækkehus,70,1900,
+Kastanievej 12 5900 Rudkøbing,12,1175000.0,29-03-2010,Alm.,10879,6,Villa,108,1920,-5 %
+Søndre Landevej 16 5900 Rudkøbing,16,210000.0,29-03-2010,Alm.,1794,6,Villa,117,1900,-7 %
+Herslevvej 17 5900 Rudkøbing,17,300000.0,23-03-2010,Auktion,3092,4,Villa,97,1897,
+Sølyst 20 5900 Rudkøbing,20,930000.0,18-03-2010,Andet,16315,3,Sommerhus,57,1970,
+Kragholmvej 2 5900 Rudkøbing,2,1375000.0,11-03-2010,Alm.,17628,4,Stuehus,78,1932,75 %
+Assemose 3 5900 Rudkøbing,3,750000.0,08-03-2010,Alm.,5597,5,Villa,134,1840,-21 %
+Banevænget 2 5900 Rudkøbing,2,804500.0,28-02-2010,Andet,5435,5,Villa,148,1974,
+Sølyst 10 5900 Rudkøbing,10,440000.0,28-02-2010,Fam.,8800,3,Sommerhus,50,1969,
+Kassebøllevej 8 5900 Rudkøbing,8,518500.0,19-02-2010,Fam.,2592,7,Villa,200,1958,
+Spodsbjergvej 204 5900 Rudkøbing,204,617783.0,16-02-2010,Andet,2733,6,Villa,226,1935,
+Spodsbjergvej 245 5900 Rudkøbing,245,1073000.0,16-02-2010,Andet,7250,4,Villa,148,1952,
+Haverne 17 5900 Rudkøbing,17,1780000.0,09-02-2010,Alm.,13185,4,Villa,135,1986,-11 %
+"Skudehavnen 27, 1 5900 Rudkøbing",1,837500.0,07-02-2010,Alm.,12137,3,Fritid,69,1989,-4 %
+Vindebyvej 28 5900 Rudkøbing,28,300000.0,02-02-2010,Alm.,2068,7,Stuehus,145,1827,
+Spodsbjergvej 22 5900 Rudkøbing,22,1135000.0,30-01-2010,Alm.,8407,4,Rækkehus,135,1910,-12 %
+Humblevej 118 5900 Rudkøbing,118,465000.0,26-01-2010,Alm.,2279,5,Villa,204,2010,
+Langegade 43 5900 Rudkøbing,43,770000.0,21-01-2010,Alm.,5238,5,Villa,147,1942,-14 %
+Havnegade 108A 5900 Rudkøbing,0,800000.0,20-01-2010,Alm.,7142,5,Villa,112,1937,-20 %
+Platanvej 10 5900 Rudkøbing,10,533333.0,15-01-2010,Fam.,1858,8,Villa,287,1910,
+Snaremosevej 20 5900 Rudkøbing,20,1350000.0,13-01-2010,Alm.,14835,2,Stuehus,91,1928,-15 %
+Østerled 7 5900 Rudkøbing,7,1650000.0,09-01-2010,Alm.,9705,7,Villa,170,1993,-17 %
+Vindebyvej 16 5900 Rudkøbing,16,1100000.0,04-01-2010,Alm.,2902,10,Stuehus,379,1807,-20 %
+Ramsherred 70 5900 Rudkøbing,70,815000.0,31-12-2009,Alm.,8232,4,Rækkehus,99,1850,-9 %
+Udsigten 10 5900 Rudkøbing,10,1800000.0,22-12-2009,Alm.,10526,5,Sommerhus,171,1992,-18 %
+Skippervænget 3 5900 Rudkøbing,3,733333.0,19-12-2009,Fam.,6853,4,Sommerhus,107,1934,
+Spodsbjergvej 148 5900 Rudkøbing,148,740000.0,17-12-2009,Alm.,9736,2,Villa,76,1926,-10 %
+Skovridervænget 35 5900 Rudkøbing,35,1270000.0,12-12-2009,Alm.,10241,5,Fritid,124,2009,-2 %
+Reberbanen 24A 5900 Rudkøbing,0,1400000.0,10-12-2009,Alm.,7106,6,Villa,197,1967,-12 %
+Skrøbelev Hedevej 12 5900 Rudkøbing,12,3900000.0,02-12-2009,Alm.,7289,15,Stuehus,535,1895,-2 %
+Banken 26 5900 Rudkøbing,26,1400000.0,27-11-2009,Alm.,23728,4,Sommerhus,59,1986,-6 %
+Humblevej 30 5900 Rudkøbing,30,385000.0,25-11-2009,Alm.,4277,2,Villa,90,1850,0 %
+Skudehavnen 25A 5900 Rudkøbing,0,4500000.0,25-11-2009,Alm.,36885,14,"Ferie, andet",122,1989,
+Langøvej 33 5900 Rudkøbing,33,1782500.0,21-11-2009,Fam.,11426,6,Stuehus,156,1894,
+"Torvet 2, 2. TV 5900 Rudkøbing",0,975000.0,18-11-2009,Alm.,6632,6,Lejlighed,147,1987,0 %
+Gyvelvænget 17 5900 Rudkøbing,17,640000.0,16-11-2009,Alm.,6336,4,Sommerhus,101,2014,-8 %
+Jens Winthers Vej 29 5900 Rudkøbing,29,976000.0,12-11-2009,Alm.,6684,7,Villa,146,1917,-30 %
+Spodsbjergvej 349 5900 Rudkøbing,349,1150000.0,05-11-2009,Alm.,9349,3,Villa,123,1934,-11 %
+Skovridervænget 17 5900 Rudkøbing,17,1875000.0,25-10-2009,Alm.,18382,4,Sommerhus,102,2008,
+Æblevænget 6 5900 Rudkøbing,6,1500000.0,23-10-2009,Alm.,10204,4,Villa,147,1966,
+Spodsbjergvej 169 5900 Rudkøbing,169,1650000.0,21-10-2009,Alm.,8505,5,Stuehus,194,1908,-12 %
+Torpevej 7 5900 Rudkøbing,7,1145000.0,15-10-2009,Alm.,7633,4,Villa,150,1970,-15 %
+"Skudehavnen 33, 1 5900 Rudkøbing",1,1145000.0,12-10-2009,Alm.,17089,3,Fritid,67,1989,0 %
+"Skudehavnen 27, ST 5900 Rudkøbing",0,945000.0,12-10-2009,Alm.,13695,3,Fritid,69,1989,0 %
+Vindebyvej 55 5900 Rudkøbing,55,1400000.0,08-10-2009,Fam.,6113,9,Villa,229,1857,
+Bryggervej 3 5900 Rudkøbing,3,1775000.0,07-10-2009,Alm.,11525,6,Villa,154,1970,-5 %
+Banevej 12 5900 Rudkøbing,12,857500.0,02-10-2009,Alm.,6213,5,Villa,138,1934,-12 %
+Nordre Landevej 67 5900 Rudkøbing,67,1150000.0,01-10-2009,Alm.,7371,5,Villa,156,1921,-4 %
+Nøddevænget 8 5900 Rudkøbing,8,1352000.0,30-09-2009,Alm.,11081,4,Villa,122,1971,-3 %
+Banevænget 13 5900 Rudkøbing,13,1650000.0,24-09-2009,Alm.,12222,5,Villa,135,1978,-8 %
+"Skudehavnen 57, 1 5900 Rudkøbing",1,780000.0,23-09-2009,Auktion,11641,3,Fritid,67,1989,
+Østerport 1A 5900 Rudkøbing,0,1100000.0,20-09-2009,Alm.,10784,4,Rækkehus,102,1880,
+Østerport 1B 5900 Rudkøbing,0,1100000.0,20-09-2009,Alm.,12359,4,Rækkehus,89,1880,
+Skovbakken 10 5900 Rudkøbing,10,788000.0,18-09-2009,Alm.,0,4,Villa,126,1948,-1 %
+Arnskovvej 4 5900 Rudkøbing,4,785000.0,16-09-2009,Alm.,6280,4,Villa,125,1984,-11 %
+Rifbjerg Udflytter 13 5900 Rudkøbing,13,845000.0,10-09-2009,Alm.,4828,5,Villa,175,1935,-6 %
+Torpevej 29 5900 Rudkøbing,29,450000.0,09-09-2009,Alm.,6250,3,Villa,72,1900,-5 %
+Sølyst 19 5900 Rudkøbing,19,850000.0,01-09-2009,Alm.,11805,4,Sommerhus,72,1971,-13 %
+Rævegade 7 5900 Rudkøbing,7,1300000.0,20-08-2009,Alm.,7514,8,Villa,173,1919,-7 %
+Kulepilevej 46 5900 Rudkøbing,46,850000.0,18-08-2009,Alm.,7657,4,Villa,111,1966,-13 %
+Sommerlyst 12 5900 Rudkøbing,12,925000.0,16-08-2009,Alm.,9635,3,Villa,96,1907,-7 %
+Mosevænget 10 5900 Rudkøbing,10,1200000.0,13-08-2009,Alm.,9756,5,Villa,123,1975,-7 %
+Løkkeby Strandvej 10 5900 Rudkøbing,10,3300000.0,04-08-2009,Alm.,12087,7,Villa,273,1921,-17 %
+Illebøllevej 15 5900 Rudkøbing,15,210000.0,04-08-2009,Auktion,2164,4,Villa,97,1907,
+Spodsbjergvej 297 5900 Rudkøbing,297,1100000.0,31-07-2009,Alm.,12790,4,Villa,86,1943,-11 %
+Abildgaardsvænget 2 5900 Rudkøbing,2,1130000.0,27-07-2009,Alm.,9658,4,Villa,117,1965,-12 %
+Kirkegaardsvej 26 5900 Rudkøbing,26,675000.0,27-07-2009,Alm.,12053,2,Villa,56,1900,
+Herslevvej 10 5900 Rudkøbing,10,825000.0,17-07-2009,Fam.,4388,7,Villa,188,1909,
+Ramsherred 17 5900 Rudkøbing,17,2200000.0,14-07-2009,Alm.,18644,5,Rækkehus,118,1900,
+Spodsbjergvej 95 5900 Rudkøbing,95,975000.0,09-07-2009,Alm.,6250,6,Villa,156,1862,0 %
+Statenevej 23 5900 Rudkøbing,23,1785000.0,07-07-2009,Alm.,10625,6,Stuehus,168,1827,-5 %
+Sølyst 40 5900 Rudkøbing,40,1175000.0,01-07-2009,Alm.,11519,4,Sommerhus,102,1973,-17 %
+Blandebjerg 11 5900 Rudkøbing,11,1050000.0,27-06-2009,Alm.,13636,3,Villa,77,1927,-7 %
+Humblevej 23 5900 Rudkøbing,23,1195000.0,24-06-2009,Alm.,10042,4,Villa,119,1969,0 %
+Slaaenvænget 8 5900 Rudkøbing,8,1350000.0,23-06-2009,Alm.,14516,5,Sommerhus,93,1987,
+Lønkildevej 3 5900 Rudkøbing,3,720000.0,19-06-2009,Alm.,6990,4,Villa,103,1971,-3 %
+Schnohrsvej 11 5900 Rudkøbing,11,1250000.0,17-06-2009,Alm.,9469,5,Villa,132,1969,-10 %
+Humblevej 78C 5900 Rudkøbing,0,273145.0,15-06-2009,Fam.,2905,5,Villa,94,1925,
+Nørrebro 52 5900 Rudkøbing,52,625000.0,15-06-2009,Alm.,7352,2,Rækkehus,85,1880,-13 %
+Spodsbjergvej 345 5900 Rudkøbing,345,1200000.0,09-06-2009,Alm.,11320,5,Villa,106,1933,-25 %
+Jens Winthers Vej 17 5900 Rudkøbing,17,560000.0,03-06-2009,Alm.,4786,6,Villa,117,1908,-25 %
+Elmevænget 9 5900 Rudkøbing,9,1825000.0,02-06-2009,Alm.,14257,4,Villa,128,1988,-8 %
+Langegade 39 5900 Rudkøbing,39,395000.0,02-06-2009,Alm.,4937,3,Villa,80,1934,0 %
+Kværnen 10 5900 Rudkøbing,10,2295000.0,29-05-2009,Alm.,14806,6,Villa,155,1979,-4 %
+Skovridervænget 19 5900 Rudkøbing,19,1716000.0,25-05-2009,Alm.,22285,3,Sommerhus,77,2009,
+Humblevej 110 5900 Rudkøbing,110,465000.0,22-05-2009,Alm.,3345,4,Stuehus,139,1900,
+Statenevej 25 5900 Rudkøbing,25,1050000.0,21-05-2009,Alm.,9633,4,Villa,109,1877,-6 %
+"Skudehavnen 35, 1 5900 Rudkøbing",1,1100000.0,18-05-2009,Alm.,16417,3,Fritid,67,1989,
+Møllestien 1 5900 Rudkøbing,1,300000.0,11-05-2009,Alm.,2830,5,Villa,106,1877,
+Spodsbjergvej 157 5900 Rudkøbing,157,410988.0,07-05-2009,Andet,3161,4,Villa,130,1936,-64 %
+Strandengen 10 5900 Rudkøbing,10,995000.0,06-05-2009,Alm.,4502,4,Villa,221,2012,
+Slaaenvænget 4 5900 Rudkøbing,4,784000.0,04-05-2009,Alm.,7396,3,Sommerhus,106,2010,
+Peløkkevej 8 5900 Rudkøbing,8,40000.0,04-05-2009,Alm.,353,4,Villa,113,1877,
+"Skudehavnen 39, 1 5900 Rudkøbing",1,1050000.0,29-04-2009,Alm.,15671,3,Fritid,67,1989,0 %
+Viebæltet 29 5900 Rudkøbing,29,550000.0,23-04-2009,Alm.,6470,3,Villa,85,1820,
+Rifbjerg Strand 5 5900 Rudkøbing,5,1534981.0,22-04-2009,Andet,11286,3,Villa,136,1864,
+Kirkegaardsvej 10 5900 Rudkøbing,10,1050000.0,22-04-2009,Fam.,9292,4,Rækkehus,113,1887,
+Jens Winthers Vej 21 5900 Rudkøbing,21,1175000.0,18-04-2009,Alm.,7993,4,Villa,147,1911,-9 %
+Kløvervænget 1 5900 Rudkøbing,1,1200000.0,14-04-2009,Alm.,11881,3,Villa,101,1991,
+Hennetvedvej 2 5900 Rudkøbing,2,895000.0,12-04-2009,Alm.,8950,4,Villa,100,1936,0 %
+Nøddevænget 7 5900 Rudkøbing,7,680771.0,09-04-2009,Andet,5318,4,Villa,128,1971,
+Herslevvej 12 5900 Rudkøbing,12,2900000.0,06-04-2009,Alm.,26851,3,Stuehus,108,1880,
+Langegade 17 5900 Rudkøbing,17,425000.0,06-04-2009,Fam.,4166,4,Villa,102,1827,
+"Skudehavnen 49, ST 5900 Rudkøbing",0,1200000.0,05-04-2009,Alm.,17391,3,Fritid,69,1989,
+Skovridervænget 27 5900 Rudkøbing,27,500000.0,05-04-2009,Alm.,4000,5,Sommerhus,125,2010,-57 %
+Rosenvænget 4 5900 Rudkøbing,4,1335000.0,01-04-2009,Alm.,8612,4,Villa,155,1960,-4 %
+Tjørnevænget 7 5900 Rudkøbing,7,1100000.0,27-03-2009,Alm.,7692,5,Villa,143,1966,
+Møllemosevej 14 5900 Rudkøbing,14,1310000.0,23-03-2009,Alm.,9492,4,Villa,138,1961,-3 %
+Sylen 4 5900 Rudkøbing,4,900000.0,23-03-2009,Andet,6617,5,Villa,136,1996,
+Æblevænget 3 5900 Rudkøbing,3,1885000.0,20-03-2009,Alm.,11708,6,Villa,161,1967,-10 %
+Sønderskovvej 25 5900 Rudkøbing,25,89250.0,20-03-2009,Fam.,1439,4,Villa,62,1962,
+Bregnevej 6 5900 Rudkøbing,6,1080000.0,15-03-2009,Alm.,7714,3,Villa,140,1979,
+Peløkkevej 43 5900 Rudkøbing,43,1275000.0,12-03-2009,Alm.,10714,4,Villa,119,1964,-10 %
+Slaaenvænget 10 5900 Rudkøbing,10,120000.0,25-02-2009,Fam.,1237,6,Sommerhus,97,1985,
+Grønnegade 9 5900 Rudkøbing,9,625000.0,24-02-2009,Alm.,7440,2,Rækkehus,84,1800,0 %
+Vindrosen 16 5900 Rudkøbing,16,1650000.0,23-02-2009,Alm.,14473,4,Villa,114,1978,-3 %
+Vindebyvej 30 5900 Rudkøbing,30,758460.0,20-02-2009,Alm.,5745,6,Stuehus,132,1858,
+Spodsbjergvej 190 5900 Rudkøbing,190,274700.0,17-02-2009,Alm.,2388,5,Villa,115,1927,
+Statenevej 22 5900 Rudkøbing,22,726791.0,17-02-2009,Fam.,3318,5,Stuehus,219,1936,
+Hybenvænget 13 5900 Rudkøbing,13,1352472.0,17-02-2009,Fam.,19889,4,Sommerhus,68,2008,
+Broløkken 38 5900 Rudkøbing,38,1350000.0,10-02-2009,Alm.,12385,4,Villa,109,1964,-3 %
+Lollesgaardsvej 1 5900 Rudkøbing,1,3307500.0,10-02-2009,Fam.,13445,9,Stuehus,246,1907,
+Møllebanken 1 5900 Rudkøbing,1,1175000.0,07-02-2009,Alm.,6601,7,Villa,178,1828,-33 %
+Broløkken 6 5900 Rudkøbing,6,1250000.0,04-02-2009,Alm.,10330,4,Villa,121,1968,-3 %
+Kibshavevej 18 5900 Rudkøbing,18,586163.0,30-01-2009,Alm.,3831,4,Villa,153,1972,
+Langegade 19 5900 Rudkøbing,19,600000.0,29-01-2009,Fam.,5128,6,Villa,117,1938,
+Langegade 23 5900 Rudkøbing,23,400000.0,29-01-2009,Fam.,5882,3,Villa,68,1827,
+Reberbanen 11 5900 Rudkøbing,11,575000.0,13-01-2009,Alm.,4136,5,Rækkehus,139,1900,
+Jens Winthers Vej 27 5900 Rudkøbing,27,1745000.0,08-01-2009,Alm.,11790,5,Villa,148,1923,-12 %
+Egevænget 14 5900 Rudkøbing,14,2500000.0,28-12-2008,Fam.,34246,4,Sommerhus,73,1982,
+Ramsherred 9 5900 Rudkøbing,9,1460000.0,23-12-2008,Alm.,6759,7,Rækkehus,216,1870,-19 %
+Spodsbjergvej 9 5900 Rudkøbing,9,437361.0,18-12-2008,Alm.,3644,4,Villa,120,1900,
+Haugbøllevej 27 5900 Rudkøbing,27,600000.0,16-12-2008,Andet,5263,4,Stuehus,114,1929,
+Blandebjerg 6 5900 Rudkøbing,6,365000.0,11-12-2008,Alm.,4397,5,Villa,83,1890,-22 %
+Skovridervænget 9 5900 Rudkøbing,9,1575000.0,04-12-2008,Alm.,20723,4,Sommerhus,76,2008,
+Spodsbjergvej 341 5900 Rudkøbing,341,750000.0,04-12-2008,Alm.,4746,5,Villa,158,2014,-24 %
+Nørrebro 60 5900 Rudkøbing,60,995000.0,30-11-2008,Alm.,10364,4,Rækkehus,96,1852,-5 %
+Nørrebro 173 5900 Rudkøbing,173,1100000.0,25-11-2008,Alm.,12359,3,Villa,89,1953,
+Statenevej 13 5900 Rudkøbing,13,200000.0,10-11-2008,Alm.,1666,5,Villa,120,1924,-82 %
+Spodsbjergvej 59 5900 Rudkøbing,59,1200000.0,06-11-2008,Alm.,8823,6,Villa,136,1908,
+Østerport 10 5900 Rudkøbing,10,875000.0,06-11-2008,Alm.,7056,4,Rækkehus,124,1900,-12 %
+Søvejen 5 5900 Rudkøbing,5,2580000.0,04-11-2008,Alm.,10978,6,Stuehus,235,1875,
+Nørrebro 88A 5900 Rudkøbing,0,1495000.0,24-10-2008,Alm.,7786,6,Villa,192,1937,-9 %
+Guldborgvej 5 5900 Rudkøbing,5,13710000.0,20-10-2008,Alm.,52934,13,Stuehus,259,1800,19 %
+Rifbjergvej 16 5900 Rudkøbing,16,54000.0,08-10-2008,Fam.,225,11,Villa,240,2009,
+Gyvelvænget 9 5900 Rudkøbing,9,1750000.0,06-10-2008,Alm.,13358,7,Sommerhus,131,1980,-3 %
+Statenevej 18 5900 Rudkøbing,18,350000.0,03-10-2008,Alm.,3070,3,Villa,114,1838,
+"Skudehavnen 39, ST 5900 Rudkøbing",0,1450000.0,21-09-2008,Alm.,21641,3,Fritid,67,1989,
+Hine Bakkevej 1 5900 Rudkøbing,1,1650000.0,09-09-2008,Alm.,0,11,Villa,299,1986,-17 %
+Skovridervænget 47 5900 Rudkøbing,47,450000.0,09-09-2008,Alm.,4787,4,Sommerhus,94,2009,
+"Skudehavnen 33, ST 5900 Rudkøbing",0,1245000.0,07-09-2008,Alm.,18582,3,Fritid,67,1989,-7 %
+Spangevej 17 5900 Rudkøbing,17,825000.0,06-09-2008,Alm.,6297,5,Villa,131,1932,-15 %
+Kassebøllevej 6 5900 Rudkøbing,6,8640000.0,05-09-2008,Alm.,39815,5,Stuehus,217,1852,
+Hennetvedvej 40 5900 Rudkøbing,40,540000.0,05-09-2008,Alm.,8181,2,Villa,66,1900,-9 %
+Spodsbjergvej 151 5900 Rudkøbing,151,4720000.0,04-09-2008,Alm.,21851,5,Stuehus,216,1928,
+Illebøllevej 40 5900 Rudkøbing,40,845000.0,03-09-2008,Alm.,5248,6,Villa,161,1877,0 %
+Nørrebro 31 5900 Rudkøbing,31,730000.0,02-09-2008,Alm.,9358,2,Rækkehus,78,1877,-8 %
+"Skudehavnen 41, ST 5900 Rudkøbing",0,1525000.0,01-09-2008,Alm.,22761,3,Fritid,67,1989,-10 %
+Bækkebovej 4 5900 Rudkøbing,4,350000.0,01-09-2008,Alm.,3240,3,Villa,108,1877,-11 %
+Rifbjergvej 22 5900 Rudkøbing,22,1630000.0,01-09-2008,Alm.,5093,9,Villa,320,1888,-1 %
+Fuglsbølle Skovvej 1 5900 Rudkøbing,1,1000000.0,25-08-2008,Alm.,6896,5,Villa,145,1931,-4 %
+Rævegade 1 5900 Rudkøbing,1,825000.0,24-08-2008,Fam.,6395,4,Villa,129,1930,-31 %
+Rifbjergvej 9 5900 Rudkøbing,9,3000000.0,18-08-2008,Alm.,13574,9,Stuehus,221,1890,
+Skovridervænget 37 5900 Rudkøbing,37,1565000.0,08-08-2008,Alm.,12620,5,Sommerhus,124,2009,-25 %
+Slaaenvænget 11 5900 Rudkøbing,11,1395000.0,07-08-2008,Alm.,16220,5,Sommerhus,86,1992,
+Longelsevej 47A 5900 Rudkøbing,0,1100000.0,03-08-2008,Alm.,7971,4,Villa,138,1975,-2 %
+Solbakken 9 5900 Rudkøbing,9,1200000.0,29-07-2008,Fam.,18461,3,Sommerhus,65,1961,
+Skovbakken 20 5900 Rudkøbing,20,1000000.0,21-07-2008,Alm.,7299,4,Villa,137,1962,-7 %
+Humblevej 51 5900 Rudkøbing,51,685000.0,17-07-2008,Alm.,6650,4,Rækkehus,103,1790,-8 %
+Brungårdsvænget 35 5900 Rudkøbing,35,67500.0,16-07-2008,Alm.,392,4,Villa,172,2008,
+Kulepilevej 41 5900 Rudkøbing,41,1070500.0,11-07-2008,Alm.,6818,4,Villa,157,1961,8 %
+Nørrebro 64 5900 Rudkøbing,64,600000.0,10-07-2008,Alm.,8333,3,Rækkehus,72,1861,
+Sølyst 8 5900 Rudkøbing,8,995000.0,10-07-2008,Alm.,8728,5,Sommerhus,114,2012,0 %
+Skovridervænget 31 5900 Rudkøbing,31,2400000.0,03-07-2008,Alm.,18461,6,Sommerhus,130,2007,
+Spodsbjergvej 307 5900 Rudkøbing,307,1200000.0,27-06-2008,Alm.,5853,5,Villa,205,1974,
+Løjtnantvænget 9 5900 Rudkøbing,9,575000.0,14-06-2008,Alm.,5989,4,Sommerhus,96,2010,
+Rosenvænget 13 5900 Rudkøbing,13,1200000.0,12-06-2008,Alm.,6976,4,Villa,172,1964,
+Spodsbjergvej 19 5900 Rudkøbing,19,1275000.0,04-06-2008,Alm.,11383,5,Rækkehus,112,1900,0 %
+Spodsbjergvej 235 5900 Rudkøbing,235,795000.0,02-06-2008,Alm.,6068,4,Villa,131,1887,0 %
+Strandengen 22 5900 Rudkøbing,22,595000.0,29-05-2008,Alm.,4343,4,Villa,137,2009,
+Lønkildevej 17 5900 Rudkøbing,17,895000.0,29-05-2008,Alm.,11187,3,Villa,80,1972,0 %
+Elnegaardsvænget 2 5900 Rudkøbing,2,1265000.0,29-05-2008,Alm.,11000,4,Villa,115,1966,
+Longelsevej 73 5900 Rudkøbing,73,900000.0,28-05-2008,Alm.,4433,5,Villa,203,1875,-17 %
+Humblevej 82 5900 Rudkøbing,82,1075000.0,27-05-2008,Alm.,6178,4,Villa,174,1898,
+Lønkildevej 15 5900 Rudkøbing,15,1145000.0,27-05-2008,Alm.,8740,4,Villa,131,1973,-4 %
+Vinkældergade 18 5900 Rudkøbing,18,1100000.0,26-05-2008,Alm.,12643,4,Villa,87,1888,3 %
+Spodsbjergvej 50 5900 Rudkøbing,50,925000.0,23-05-2008,Alm.,8564,3,Rækkehus,108,1950,-16 %
+Byskrivervej 12 5900 Rudkøbing,12,1500000.0,21-05-2008,Alm.,12711,6,Villa,118,1971,-9 %
+Blandebjerg 17 5900 Rudkøbing,17,1145000.0,20-05-2008,Alm.,7842,5,Villa,146,1905,0 %
+Humblevej 16 5900 Rudkøbing,16,597500.0,09-05-2008,Alm.,2872,7,Villa,208,1906,
+Platanvej 17 5900 Rudkøbing,17,1695000.0,08-05-2008,Alm.,14125,4,Villa,120,1920,0 %
+Spodsbjergvej 305 5900 Rudkøbing,305,1025000.0,08-05-2008,Alm.,8134,5,Villa,126,1968,-6 %
+Hennetvedvej 26 5900 Rudkøbing,26,1400000.0,02-05-2008,Alm.,12280,5,Villa,114,1870,
+Bønneløkkevej 5 5900 Rudkøbing,5,600000.0,30-04-2008,Alm.,4687,3,Stuehus,128,1955,
+Statenevej 20 5900 Rudkøbing,20,1000000.0,28-04-2008,Fam.,5025,8,Stuehus,199,1900,
+Snaremosevej 8 5900 Rudkøbing,8,350000.0,26-04-2008,Alm.,5223,3,Villa,67,1900,-18 %
+Toftevej 2 5900 Rudkøbing,2,1150000.0,25-04-2008,Alm.,11274,3,Villa,102,1967,-6 %
+Herslevvej 9 5900 Rudkøbing,9,525000.0,17-04-2008,Alm.,4605,4,Villa,114,1936,-15 %
+Lønkildevej 20 5900 Rudkøbing,20,1000000.0,17-04-2008,Fam.,6756,5,Villa,148,1976,
+Smedegade 20 5900 Rudkøbing,20,850000.0,17-04-2008,Alm.,9340,4,Rækkehus,91,1900,-12 %
+Planken 16 5900 Rudkøbing,16,1895000.0,15-04-2008,Alm.,14576,4,Villa,130,1998,0 %
+Reberbanen 6 5900 Rudkøbing,6,990000.0,15-04-2008,Alm.,8608,4,Villa,115,1907,-4 %
+Pederstrupvej 13 5900 Rudkøbing,13,687326.0,14-04-2008,Andet,2771,8,Villa,248,1896,
+Udsigten 7 5900 Rudkøbing,7,990000.0,14-04-2008,Alm.,13200,4,Sommerhus,75,1965,-10 %
+Fuglsbølle Skovvej 13 5900 Rudkøbing,13,1095000.0,10-04-2008,Alm.,6801,3,Stuehus,161,1827,0 %
+Nordre Landevej 45 5900 Rudkøbing,45,650000.0,10-04-2008,Alm.,5327,4,Stuehus,122,1936,-4 %
+Bogøvej 27 5900 Rudkøbing,27,850000.0,07-04-2008,Alm.,6296,6,Villa,135,1923,
+"Ahlefeldtsgade 29A, 2 5900 Rudkøbing",2,600000.0,01-04-2008,Alm.,4411,5,Lejlighed,136,1916,
+"Ahlefeldtsgade 29A, 1 5900 Rudkøbing",1,550000.0,01-04-2008,Alm.,4014,5,Lejlighed,137,1916,
+Longelsevej 28 5900 Rudkøbing,28,1050000.0,31-03-2008,Alm.,5121,6,Villa,205,1938,-18 %
+Humblevej 43 5900 Rudkøbing,43,750000.0,28-03-2008,Alm.,6302,4,Villa,119,1948,
+Rolighedsvej 28 5900 Rudkøbing,28,1345000.0,27-03-2008,Alm.,12809,3,Villa,105,1935,0 %
+Skovridervænget 25 5900 Rudkøbing,25,850000.0,17-03-2008,Alm.,8333,4,Sommerhus,102,2009,
+Møllemosevej 12 5900 Rudkøbing,12,920000.0,17-03-2008,Fam.,9892,4,Villa,93,1961,
+Gartnervænget 9 5900 Rudkøbing,9,1680000.0,15-03-2008,Fam.,12352,4,Villa,136,1974,
+Vindebyvej 12 5900 Rudkøbing,12,900000.0,14-03-2008,Alm.,4166,12,Villa,216,1887,-15 %
+Sidsel Bagers Gade 5 5900 Rudkøbing,5,1050000.0,13-03-2008,Alm.,8974,6,Rækkehus,117,1877,-4 %
+Hjelmbjergvej 12 5900 Rudkøbing,12,163333.0,10-03-2008,Fam.,1856,4,Villa,88,1900,
+Nørrebro 138 5900 Rudkøbing,138,600000.0,05-03-2008,Alm.,9090,2,Rækkehus,66,1902,
+Smedegade 5 5900 Rudkøbing,5,2450000.0,04-03-2008,Alm.,19140,5,Rækkehus,128,1761,
+Strandengen 12 5900 Rudkøbing,12,380000.0,03-03-2008,Andet,1862,4,Villa,204,2008,
+Hinestien 1 5900 Rudkøbing,1,2985000.0,28-02-2008,Alm.,9950,20,Døgninstitution,300,1870,
+"Havnegade 18, 1 5900 Rudkøbing",1,1150000.0,25-02-2008,Alm.,8273,2,Lejlighed,139,1917,
+Krogsbjergvej 9 5900 Rudkøbing,9,575000.0,18-02-2008,Alm.,9274,4,Villa,62,1870,-3 %
+Rifbjergvej 5 5900 Rudkøbing,5,16000000.0,14-02-2008,Alm.,86956,5,Stuehus,184,1877,
+Torpevej 34 5900 Rudkøbing,34,1650000.0,13-02-2008,Alm.,11000,5,Stuehus,150,1926,
+Peløkkevej 78 5900 Rudkøbing,78,1850000.0,11-02-2008,Alm.,14800,4,Villa,125,1964,0 %
+Baragervej 1 5900 Rudkøbing,1,250000.0,08-02-2008,Alm.,1689,5,Villa,148,1827,
+Longelsevej 21 5900 Rudkøbing,21,850000.0,01-02-2008,Alm.,7083,5,Villa,120,1930,-4 %
+Langøvej 10 5900 Rudkøbing,10,210000.0,01-02-2008,Alm.,3442,2,Villa,61,1907,
+Chr Kiilsgaards Vej 16 5900 Rudkøbing,16,1405000.0,31-01-2008,Alm.,10725,4,Villa,131,1973,-1 %
+Ramsherred 77 5900 Rudkøbing,77,975000.0,30-01-2008,Alm.,9750,3,Rækkehus,100,1850,0 %
+Ramsherred 59 5900 Rudkøbing,59,1150000.0,28-01-2008,Alm.,13690,5,Rækkehus,84,1850,0 %
+Skovridervænget 13 5900 Rudkøbing,13,1829500.0,25-01-2008,Alm.,20789,4,Sommerhus,88,2008,
+Nordre Landevej 42 5900 Rudkøbing,42,450000.0,21-01-2008,Fam.,3982,4,Villa,113,1932,
+Skovridervænget 33 5900 Rudkøbing,33,1639000.0,21-01-2008,Alm.,18625,4,Sommerhus,88,2008,
+Longelsevej 47 5900 Rudkøbing,47,26100000.0,15-01-2008,Alm.,92226,7,Stuehus,283,1775,
+Nørrebro 139C 5900 Rudkøbing,0,840000.0,11-01-2008,Alm.,10000,3,Rækkehus,84,1910,
+Langøvej 17 5900 Rudkøbing,17,380000.0,07-01-2008,Alm.,3800,4,Stuehus,100,1925,
+Smediestræde 3 5900 Rudkøbing,3,810000.0,07-01-2008,Alm.,11571,4,Villa,70,1780,-2 %
+Kibshavevej 19 5900 Rudkøbing,19,850000.0,06-01-2008,Alm.,6071,5,Villa,140,1973,
+Langegade 3 5900 Rudkøbing,3,555000.0,18-12-2007,Alm.,9250,2,Villa,60,1847,-17 %
+Omgangen 1 5900 Rudkøbing,1,1475000.0,11-12-2007,Alm.,11800,4,Villa,125,1977,0 %
+Rue 3 5900 Rudkøbing,3,755000.0,10-12-2007,Alm.,7056,5,Rækkehus,107,1907,
+Langegade 51 5900 Rudkøbing,51,319000.0,05-12-2007,Alm.,2773,7,Villa,115,1937,
+"Skudehavnen 29, 1 5900 Rudkøbing",1,1100000.0,28-11-2007,Alm.,16417,3,Fritid,67,1989,
+"Skudehavnen 35, ST 5900 Rudkøbing",0,1200000.0,28-11-2007,Alm.,17910,3,Fritid,67,1989,
+"Skudehavnen 31, 1 5900 Rudkøbing",1,1100000.0,28-11-2007,Alm.,16417,3,Fritid,67,1989,
+Løjtnantvænget 17 5900 Rudkøbing,17,475000.0,22-11-2007,Alm.,5397,4,Sommerhus,88,2009,
+Havnegade 42 5900 Rudkøbing,42,1100000.0,20-11-2007,Alm.,6043,6,Rækkehus,182,1936,-10 %
+Haverne 28 5900 Rudkøbing,28,2685000.0,18-11-2007,Alm.,19888,4,Villa,135,1994,
+Nørrebro 5 5900 Rudkøbing,5,1170000.0,15-11-2007,Alm.,13448,3,Villa,87,1880,
+Humblevej 81 5900 Rudkøbing,81,1175000.0,12-11-2007,Alm.,7679,5,Villa,153,1920,
+Vesterby Mark 6 5900 Rudkøbing,6,54804.0,12-11-2007,Alm.,721,3,Stuehus,76,1877,
+Mjølbyvej 3 5900 Rudkøbing,3,900000.0,09-11-2007,Alm.,6818,4,Villa,132,1950,
+"Skudehavnen 65, ST 5900 Rudkøbing",0,720000.0,07-11-2007,Andet,10434,3,Fritid,69,1989,
+Solbakken 7 5900 Rudkøbing,7,3430000.0,06-11-2007,Alm.,23020,6,Sommerhus,149,1908,
+Østergade 45 5900 Rudkøbing,45,725000.0,02-11-2007,Alm.,8333,2,Rækkehus,87,1841,
+Simmerbølle Kirkevej 1 5900 Rudkøbing,1,1345000.0,30-10-2007,Alm.,8459,7,Villa,159,1967,
+Bellevue 7 5900 Rudkøbing,7,560000.0,25-10-2007,Fam.,5000,3,Rækkehus,112,1883,
+Vesterby Stræde 3 5900 Rudkøbing,3,410000.0,19-10-2007,Fam.,4019,4,Villa,102,1887,
+Drejet 8 5900 Rudkøbing,8,900000.0,12-10-2007,Fam.,25714,2,Sommerhus,35,1958,
+Sommerlyst 28 5900 Rudkøbing,28,1395000.0,11-10-2007,Alm.,10035,4,Villa,139,1953,
+Torpevej 3 5900 Rudkøbing,3,400000.0,08-10-2007,Alm.,2857,5,Stuehus,140,1886,
+Hennetvedvej 1 5900 Rudkøbing,1,495066.0,08-10-2007,Alm.,6972,3,Villa,71,1855,
+Teglbakken 16 5900 Rudkøbing,16,2200000.0,07-10-2007,Alm.,10945,7,Villa,201,1932,0 %
+Pederstrupvej 11 5900 Rudkøbing,11,435000.0,04-10-2007,Alm.,6796,2,Villa,64,1900,
+Præstevænget 2 5900 Rudkøbing,2,1000000.0,30-09-2007,Alm.,10416,4,Villa,96,1954,
+Spodsbjergvej 329 5900 Rudkøbing,329,1100000.0,29-09-2007,Alm.,7913,5,Villa,139,1897,
+Augløkkevej 3 5900 Rudkøbing,3,515000.0,28-09-2007,Alm.,5722,3,Villa,90,1897,
+Ringvejen 6 5900 Rudkøbing,6,1375000.0,24-09-2007,Alm.,9683,4,Villa,142,1950,
+Torpevej 10A 5900 Rudkøbing,0,1100000.0,17-09-2007,Alm.,5913,6,Stuehus,186,1877,
+Schnohrsvej 34 5900 Rudkøbing,34,687000.0,17-09-2007,Alm.,4214,6,Villa,163,1900,
+Strandbakken 7 5900 Rudkøbing,7,1835000.0,13-09-2007,Alm.,11613,5,Villa,158,1960,2 %
+Brogade 28 5900 Rudkøbing,28,1250000.0,08-09-2007,Alm.,12376,5,Rækkehus,101,1852,-2 %
+Nørrebro 46 5900 Rudkøbing,46,835000.0,07-09-2007,Alm.,7389,4,Villa,113,1880,-3 %
+Statenevej 15 5900 Rudkøbing,15,775000.0,03-09-2007,Alm.,7598,5,Villa,102,1955,
+Elmevænget 4 5900 Rudkøbing,4,1878000.0,03-09-2007,Alm.,12604,5,Villa,149,1975,
+Vindeltorpvej 13 5900 Rudkøbing,13,1815000.0,31-08-2007,Alm.,9260,3,Villa,196,1932,
+Spodsbjergvej 183 5900 Rudkøbing,183,900000.0,29-08-2007,Alm.,7258,8,Villa,124,1900,
+Lindevej 10 5900 Rudkøbing,10,895000.0,24-08-2007,Alm.,7782,3,Rækkehus,115,1923,0 %
+Reberbanen 29 5900 Rudkøbing,29,1225000.0,22-08-2007,Alm.,11136,4,Villa,110,1915,0 %
+Strandengen 18 5900 Rudkøbing,18,725000.0,20-08-2007,Alm.,4096,5,Villa,177,2010,
+Ramsherred 55 5900 Rudkøbing,55,1695000.0,20-08-2007,Alm.,13452,4,Rækkehus,126,1850,0 %
+Peløkkevej 37 5900 Rudkøbing,37,2750000.0,20-08-2007,Alm.,10416,4,Villa,264,2016,
+Strandengen 4 5900 Rudkøbing,4,495000.0,15-08-2007,Alm.,2462,4,Villa,201,2009,
+Kragholmvej 36 5900 Rudkøbing,36,1595000.0,15-08-2007,Alm.,11474,6,Villa,139,1880,0 %
+Banken 8 5900 Rudkøbing,8,1400000.0,14-08-2007,Alm.,16666,4,Sommerhus,84,1980,-6 %
+Skovridervænget 14 5900 Rudkøbing,14,1750000.0,13-08-2007,Alm.,19886,4,Sommerhus,88,2007,
+Hennetvedvej 58 5900 Rudkøbing,58,137500.0,13-08-2007,Alm.,1227,5,Villa,112,1877,
+Gillesbjergvej 4 5900 Rudkøbing,4,1100000.0,10-08-2007,Alm.,4435,8,Villa,248,1866,
+Brogade 10 5900 Rudkøbing,10,1250000.0,10-08-2007,Alm.,11792,5,Rækkehus,106,1759,0 %
+Søndre Landevej 28 5900 Rudkøbing,28,569768.0,09-08-2007,Andet,2983,5,Villa,191,1872,
+Spodsbjergvej 131 5900 Rudkøbing,131,850000.0,09-08-2007,Fam.,6746,4,Villa,126,1882,
+Strandengen 11 5900 Rudkøbing,11,785000.0,09-08-2007,Alm.,3964,5,Villa,198,2013,
+Nørre Stræde 2 5900 Rudkøbing,2,645000.0,06-08-2007,Alm.,7500,3,Villa,86,1780,
+Herslevvej 19 5900 Rudkøbing,19,1067998.0,31-07-2007,Alm.,7315,5,Villa,146,1930,
+Hennetvedvej 22 5900 Rudkøbing,22,545000.0,29-07-2007,Alm.,6812,3,Villa,80,1850,0 %
+Nørrebro 209 5900 Rudkøbing,209,1095000.0,26-07-2007,Alm.,8975,5,Villa,122,1948,0 %
+Torpevej 2 5900 Rudkøbing,2,442000.0,25-07-2007,Andet,3507,3,Villa,126,1877,
+Haverne 9 5900 Rudkøbing,9,1300000.0,18-07-2007,Alm.,11504,4,Villa,113,1980,
+Broløkken 30 5900 Rudkøbing,30,1325000.0,18-07-2007,Alm.,11134,4,Villa,119,1965,
+Fuglsbøllevejen 4A 5900 Rudkøbing,0,395000.0,16-07-2007,Alm.,4247,2,Villa,93,1870,
+Langegade 37 5900 Rudkøbing,37,403413.0,15-07-2007,Andet,2619,6,Villa,154,1933,
+Spodsbjergvej 309 5900 Rudkøbing,309,450000.0,13-07-2007,Alm.,2941,3,Villa,153,2011,
+"Havnepladsen 7B, 3 5900 Rudkøbing",3,2600000.0,12-07-2007,Alm.,17687,3,Lejlighed,147,1933,
+Byvej 9 5900 Rudkøbing,9,880000.0,10-07-2007,Alm.,7652,3,Villa,115,1947,-7 %
+Smedegade 6 5900 Rudkøbing,6,1225000.0,10-07-2007,Alm.,0,4,Rækkehus,124,1890,
+Spodsbjergvej 167 5900 Rudkøbing,167,900000.0,09-07-2007,Alm.,7500,4,Villa,120,1913,
+Østergade 68 5900 Rudkøbing,68,650000.0,08-07-2007,Alm.,7142,3,Rækkehus,91,1900,
+Spodsbjergvej 273 5900 Rudkøbing,273,2800000.0,06-07-2007,Alm.,10000,10,Stuehus,280,1915,
+Skrøbelev Hedevej 5 5900 Rudkøbing,5,361172.0,02-07-2007,Andet,2655,4,Villa,136,1850,
+Pederstrupvej 19 5900 Rudkøbing,19,1318000.0,28-06-2007,Fam.,8036,4,Stuehus,164,1864,
+Pilevænget 5 5900 Rudkøbing,5,1375000.0,28-06-2007,Alm.,16975,4,Sommerhus,81,1976,
+Humblevej 98 5900 Rudkøbing,98,1725000.0,26-06-2007,Alm.,9583,5,Villa,180,1914,
+Ørstedsgade 15 5900 Rudkøbing,15,1400000.0,26-06-2007,Fam.,4444,13,Rækkehus,315,1850,
+Herslevvej 11 5900 Rudkøbing,11,1300000.0,25-06-2007,Alm.,5990,5,Villa,217,1910,
+Nørrebro 4 5900 Rudkøbing,4,1100000.0,25-06-2007,Alm.,8593,4,Rækkehus,128,1903,
+Haugbøllevej 15 5900 Rudkøbing,15,700000.0,24-06-2007,Fam.,5072,5,Villa,138,1964,
+Reberbanen 15 5900 Rudkøbing,15,625000.0,22-06-2007,Alm.,5841,4,Rækkehus,107,1900,
+Ramsherred 91 5900 Rudkøbing,91,2025000.0,21-06-2007,Alm.,15697,4,Rækkehus,129,1857,
+Søndre Landevej 21 5900 Rudkøbing,21,290000.0,13-06-2007,Alm.,3536,2,Villa,82,1887,
+Fuglsbøllevejen 46 5900 Rudkøbing,46,515000.0,13-06-2007,Alm.,3121,4,Villa,165,1800,
+Hennetvedvej 12 5900 Rudkøbing,12,350000.0,11-06-2007,Fam.,3365,4,Villa,104,1942,
+Vesterbyvej 1 5900 Rudkøbing,1,600000.0,10-06-2007,Fam.,3015,8,Villa,199,1856,
+Møllebjergvej 2 5900 Rudkøbing,2,700000.0,09-06-2007,Alm.,6603,4,Villa,106,1968,
+Snaremosevej 6 5900 Rudkøbing,6,12000000.0,08-06-2007,Alm.,61538,6,Stuehus,195,1982,
+Vindeltorpvej 3 5900 Rudkøbing,3,945000.0,07-06-2007,Alm.,8008,2,Villa,118,1900,
+Spodsbjergvej 202 5900 Rudkøbing,202,970000.0,31-05-2007,Alm.,6879,5,Villa,141,1938,
+Hennetvedvej 46 5900 Rudkøbing,46,280000.0,24-05-2007,Alm.,1147,9,Villa,244,1890,
+Haugbøllevej 1 5900 Rudkøbing,1,595000.0,21-05-2007,Alm.,4280,3,Villa,139,1890,
+Løjtnantvænget 15 5900 Rudkøbing,15,1478800.0,17-05-2007,Alm.,16615,4,Sommerhus,89,2008,
+Skovridervænget 1 5900 Rudkøbing,1,1185200.0,17-05-2007,Alm.,13943,4,Sommerhus,85,2008,
+Kløvervænget 8 5900 Rudkøbing,8,1350000.0,15-05-2007,Alm.,9642,5,Villa,140,1975,
+Sølyst 17B 5900 Rudkøbing,0,1300000.0,13-05-2007,Alm.,13131,4,Sommerhus,99,1994,
+Havnegade 114 5900 Rudkøbing,114,3700000.0,10-05-2007,Alm.,19576,5,Villa,189,1920,
+Vindeltorpvej 5 5900 Rudkøbing,5,1150000.0,09-05-2007,Alm.,13690,4,Stuehus,84,1930,
+Spodsbjergvej 160 5900 Rudkøbing,160,2350000.0,03-05-2007,Alm.,13823,6,Villa,170,1964,
+Torpevej 4 5900 Rudkøbing,4,645000.0,02-05-2007,Alm.,3449,4,Stuehus,187,1900,
+Kystvænget 8 5900 Rudkøbing,8,1850000.0,25-04-2007,Alm.,6851,10,Villa,270,1974,
+Søndre Landevej 20 5900 Rudkøbing,20,680000.0,20-04-2007,Alm.,5714,3,Villa,119,1895,
+Nørrebro 98 5900 Rudkøbing,98,1200000.0,19-04-2007,Alm.,7947,5,Rækkehus,151,1871,
+Vesterby Mark 3 5900 Rudkøbing,3,415000.0,16-04-2007,Alm.,5000,2,Rækkehus,83,1877,
+Nordre Landevej 31 5900 Rudkøbing,31,995000.0,14-04-2007,Alm.,7713,5,Villa,129,1935,
+Nørrebro 38 5900 Rudkøbing,38,765000.0,13-04-2007,Alm.,5976,4,Rækkehus,128,1877,
+Skrøbelev Hedevej 17 5900 Rudkøbing,17,1800000.0,12-04-2007,Alm.,9625,4,Villa,187,1777,
+Reberbanen 17 5900 Rudkøbing,17,600000.0,06-04-2007,Alm.,3921,5,Rækkehus,153,1902,
+Longelsevej 19 5900 Rudkøbing,19,393750.0,28-03-2007,Andet,2289,4,Villa,172,1900,
+Søndre Landevej 17 5900 Rudkøbing,17,375000.0,26-03-2007,Alm.,4746,3,Villa,79,1857,
+Longelsevej 30 5900 Rudkøbing,30,310000.0,23-03-2007,Alm.,2480,4,Villa,125,1919,0 %
+Gaasetorvet 5 5900 Rudkøbing,5,650000.0,21-03-2007,Fam.,11206,3,Rækkehus,58,1800,
+Møllestræde 4 5900 Rudkøbing,4,575000.0,16-03-2007,Alm.,4791,6,Villa,120,1850,
+Augløkkevej 1 5900 Rudkøbing,1,4470000.0,13-03-2007,Alm.,22806,7,Stuehus,196,1850,
+Fuglsbøllevejen 56 5900 Rudkøbing,56,700000.0,13-03-2007,Alm.,7000,3,Villa,100,1908,-40 %
+Reberbanen 10 5900 Rudkøbing,10,650000.0,12-03-2007,Alm.,7558,4,Rækkehus,86,1875,
+Nordre Landevej 17 5900 Rudkøbing,17,875000.0,07-03-2007,Alm.,5537,4,Villa,158,1925,
+Spodsbjergvej 83 5900 Rudkøbing,83,1100000.0,28-02-2007,Alm.,7382,4,Villa,149,1950,
+Strandløkken 1B 5900 Rudkøbing,0,2500000.0,27-02-2007,Alm.,14705,5,Villa,170,2008,
+Cirklen 8 5900 Rudkøbing,8,586719.0,20-02-2007,Fam.,3885,5,Villa,151,1988,
+Faarevejle Alle 2 5900 Rudkøbing,2,275000.0,20-02-2007,Alm.,2546,3,Villa,108,1877,
+Ramsherred 13 5900 Rudkøbing,13,815000.0,16-02-2007,Alm.,12538,4,Rækkehus,65,1877,
+Skovridervænget 5 5900 Rudkøbing,5,1669000.0,10-02-2007,Alm.,18340,4,Sommerhus,91,2007,
+Løjtnantvænget 2 5900 Rudkøbing,2,1445000.0,10-02-2007,Alm.,17202,4,Sommerhus,84,2006,
+Løjtnantvænget 5 5900 Rudkøbing,5,2447000.0,10-02-2007,Alm.,23757,4,Sommerhus,103,2007,
+Sølyst 27 5900 Rudkøbing,27,1195000.0,10-02-2007,Alm.,18384,4,Sommerhus,65,1979,
+Illebøllevej 42 5900 Rudkøbing,42,2000000.0,06-02-2007,Alm.,9259,7,Stuehus,216,1933,
+Schnohrsvej 28 5900 Rudkøbing,28,1100000.0,31-01-2007,Alm.,8088,4,Villa,136,1969,
+Grønnegaardsvej 7 5900 Rudkøbing,7,775000.0,30-01-2007,Alm.,7242,3,Villa,107,1880,
+Peløkkevej 33B 5900 Rudkøbing,0,350000.0,24-01-2007,Alm.,1674,6,Villa,209,2009,
+Krogsbjergvej 31 5900 Rudkøbing,31,515000.0,23-01-2007,Alm.,4813,5,Villa,107,1903,
+Nørrebro 160 5900 Rudkøbing,160,845000.0,21-01-2007,Alm.,6983,4,Villa,121,1900,
+Ramsherred 61 5900 Rudkøbing,61,1100000.0,18-01-2007,Alm.,13095,4,Rækkehus,84,1850,
+Ravnerydvej 8 5900 Rudkøbing,8,585000.0,18-01-2007,Alm.,5467,4,Villa,107,1961,
+Kastanievej 6 5900 Rudkøbing,6,1100000.0,11-01-2007,Alm.,9482,5,Villa,116,1920,
+Vindebyvej 1 5900 Rudkøbing,1,465000.0,11-01-2007,Fam.,4043,4,Villa,115,1951,
+Slaaenvænget 12 5900 Rudkøbing,12,1080000.0,05-01-2007,Alm.,17419,4,Sommerhus,62,1990,
+Haugbøllevej 14 5900 Rudkøbing,14,375000.0,29-12-2006,Alm.,1126,16,Villa,333,1882,
+Banken 20 5900 Rudkøbing,20,690000.0,28-12-2006,Fam.,10147,4,Sommerhus,68,1978,
+Drejet 16 5900 Rudkøbing,16,289000.0,24-12-2006,Fam.,11115,2,Sommerhus,26,1949,
+Spodsbjergvej 179 5900 Rudkøbing,179,580000.0,23-12-2006,Alm.,7073,3,Villa,82,1960,
+Sønderskovvej 19 5900 Rudkøbing,19,1350000.0,23-12-2006,Alm.,7142,5,Villa,189,1969,
+Klintevej 5 5900 Rudkøbing,5,335750.0,17-12-2006,Fam.,4865,5,Villa,69,1933,
+Solbakken 23 5900 Rudkøbing,23,977500.0,17-12-2006,Fam.,13767,4,Sommerhus,71,2012,
+Peløkkevej 74 5900 Rudkøbing,74,720000.0,11-12-2006,Alm.,5760,4,Villa,125,1962,
+Søndre Landevej 3 5900 Rudkøbing,3,775000.0,11-12-2006,Alm.,4211,4,Villa,184,1915,
+Blandebjerg 3 5900 Rudkøbing,3,680000.0,30-11-2006,Alm.,8500,1,Villa,80,1934,
+Byvej 13 5900 Rudkøbing,13,695000.0,27-11-2006,Alm.,7164,4,Villa,97,1902,
+Ramsherred 23 5900 Rudkøbing,23,995000.0,25-11-2006,Alm.,9950,4,Rækkehus,100,1916,
+Strandgade 12 5900 Rudkøbing,12,1050000.0,21-11-2006,Alm.,12962,4,Rækkehus,81,1900,
+Bogøvej 42 5900 Rudkøbing,42,1097050.0,19-11-2006,Fam.,6856,6,Stuehus,160,1877,
+Statenevej 14 5900 Rudkøbing,14,635000.0,13-11-2006,Alm.,5934,4,Villa,107,1936,
+Spodsbjergvej 315 5900 Rudkøbing,315,200000.0,11-11-2006,Alm.,1212,6,Villa,165,1920,
+Sagers Alle 1 5900 Rudkøbing,1,2550000.0,11-11-2006,Alm.,8528,8,Villa,299,1932,
+Strandbakken 6 5900 Rudkøbing,6,1075000.0,10-11-2006,Alm.,13961,3,Villa,77,1949,
+Strandengen 17 5900 Rudkøbing,17,815000.0,09-11-2006,Alm.,3918,7,Villa,208,2008,
+Langegade 11 5900 Rudkøbing,11,563233.0,08-11-2006,Alm.,2631,5,Villa,214,1900,
+Slaaenvænget 9 5900 Rudkøbing,9,1100000.0,06-11-2006,Alm.,20000,3,Sommerhus,55,1991,
+Kulepilevej 18 5900 Rudkøbing,18,600000.0,06-11-2006,Alm.,5172,5,Villa,116,1963,
+Kværnen 17 5900 Rudkøbing,17,276250.0,31-10-2006,Alm.,1694,6,Villa,163,1977,
+Lønkildevej 23 5900 Rudkøbing,23,1310000.0,30-10-2006,Alm.,4851,8,Villa,270,1977,
+Ahlefeldtsgade 54 5900 Rudkøbing,54,728000.0,27-10-2006,Alm.,9333,4,Rækkehus,78,1884,
+Bellevue 65 5900 Rudkøbing,65,2895000.0,26-10-2006,Alm.,19300,6,Villa,150,1941,
+Mosevænget 16 5900 Rudkøbing,16,555002.0,23-10-2006,Fam.,3284,5,Villa,169,1979,
+Humblevej 19 5900 Rudkøbing,19,295000.0,20-10-2006,Alm.,3277,4,Villa,90,1900,
+Spodsbjergvej 220 5900 Rudkøbing,220,1695000.0,14-10-2006,Alm.,17842,4,Villa,95,1954,
+Skovridervænget 16 5900 Rudkøbing,16,475000.0,13-10-2006,Alm.,7307,3,Sommerhus,65,2008,
+Ørstedsgade 20 5900 Rudkøbing,20,1125000.0,13-10-2006,Alm.,5710,8,Rækkehus,197,1853,
+Herslevvej 33 5900 Rudkøbing,33,501000.0,12-10-2006,Alm.,2767,10,Stuehus,181,1777,
+Nordre Landevej 2 5900 Rudkøbing,2,329000.0,12-10-2006,Fam.,3103,3,Villa,106,1900,
+Spodsbjergvej 327 5900 Rudkøbing,327,2900000.0,11-10-2006,Alm.,16763,9,Detailhandel,173,1903,
+Nørrebro 10 5900 Rudkøbing,10,825000.0,10-10-2006,Alm.,5188,6,Rækkehus,159,1900,
+Løjtnantvænget 7 5900 Rudkøbing,7,1534000.0,06-10-2006,Alm.,15494,4,Sommerhus,99,2007,
+Humblevej 106B 5900 Rudkøbing,0,572819.0,06-10-2006,Andet,5114,3,Villa,112,2004,
+Kibshavevej 4 5900 Rudkøbing,4,497926.0,04-10-2006,Andet,3151,6,Villa,158,1857,
+Løjtnantvænget 8 5900 Rudkøbing,8,995000.0,03-10-2006,Alm.,12134,4,Sommerhus,82,2007,
+Sagers Alle 3 5900 Rudkøbing,3,728000.0,02-10-2006,Alm.,4853,4,Villa,150,1917,
+Strandengen 20 5900 Rudkøbing,20,555000.0,27-09-2006,Alm.,3512,5,Villa,158,2007,
+Kløvervænget 6 5900 Rudkøbing,6,475256.0,27-09-2006,Fam.,3394,5,Villa,140,1975,
+Strandbakken 1A 5900 Rudkøbing,0,1675000.0,22-09-2006,Alm.,10339,6,Villa,162,1972,
+Møllemosevej 2 5900 Rudkøbing,2,1350000.0,22-09-2006,Alm.,8231,7,Villa,164,1951,
+Strandbakken 5 5900 Rudkøbing,5,1195000.0,06-09-2006,Alm.,11168,3,Villa,107,1937,
+Nørre Stræde 4 5900 Rudkøbing,4,850000.0,06-09-2006,Alm.,6589,3,Villa,129,1894,
+Kildemosevej 17 5900 Rudkøbing,17,820000.0,04-09-2006,Alm.,10933,3,Villa,75,1850,
+Pederstrupvej 14 5900 Rudkøbing,14,337000.0,30-08-2006,Alm.,2407,4,Rækkehus,140,1900,
+Peløkkevej 22 5900 Rudkøbing,22,500000.0,30-08-2006,Alm.,3968,4,Stuehus,126,1852,
+Spodsbjergvej 249 5900 Rudkøbing,249,1640000.0,29-08-2006,Alm.,9010,8,Villa,182,1900,
+Løjtnantvænget 14 5900 Rudkøbing,14,395000.0,28-08-2006,Alm.,7181,3,Sommerhus,55,2007,
+Krogsbjergvej 8 5900 Rudkøbing,8,930000.0,26-08-2006,Alm.,5886,5,Villa,158,1923,
+Byskrivervej 3 5900 Rudkøbing,3,1685000.0,25-08-2006,Alm.,9010,6,Villa,187,1973,
+Nørrebro 67 5900 Rudkøbing,67,850000.0,24-08-2006,Alm.,8585,4,Villa,99,1890,
+Sølyst 1 5900 Rudkøbing,1,500000.0,24-08-2006,Alm.,8474,3,Sommerhus,59,1969,
+Vindebyvej 3 5900 Rudkøbing,3,600000.0,23-08-2006,Alm.,6818,3,Villa,88,1953,
+Kulepilevej 14 5900 Rudkøbing,14,795000.0,17-08-2006,Alm.,6973,3,Villa,114,1960,
+Spodsbjergvej 164 5900 Rudkøbing,164,950000.0,16-08-2006,Alm.,4502,4,Villa,211,1912,
+Rolighedsvej 29 5900 Rudkøbing,29,600000.0,13-08-2006,Alm.,5660,4,Villa,106,1937,
+Mosevænget 28 5900 Rudkøbing,28,225000.0,07-08-2006,Alm.,1757,4,Villa,128,2008,
+Planken 8 5900 Rudkøbing,8,1650000.0,06-08-2006,Alm.,12500,4,Villa,132,1997,
+Søndre Landevej 53 5900 Rudkøbing,53,550000.0,02-08-2006,Alm.,2864,6,Stuehus,192,1914,
+Schnohrsvej 8 5900 Rudkøbing,8,543997.0,24-07-2006,Andet,4533,6,Villa,120,1964,
+Nordre Landevej 46 5900 Rudkøbing,46,641500.0,21-07-2006,Alm.,5215,3,Villa,123,1903,
+Kragholmvej 11 5900 Rudkøbing,11,1700000.0,18-07-2006,Alm.,10493,5,Villa,162,2001,
+Rue 37A 5900 Rudkøbing,0,850000.0,14-07-2006,Alm.,5862,5,Villa,145,1982,
+Teglbakken 11 5900 Rudkøbing,11,700000.0,10-07-2006,Alm.,5645,4,Villa,124,1933,
+Langegade 45 5900 Rudkøbing,45,520000.0,10-07-2006,Alm.,5777,4,Villa,90,1943,
+Peløkkevej 60 5900 Rudkøbing,60,900000.0,08-07-2006,Alm.,7200,5,Villa,125,1963,
+Banevej 4 5900 Rudkøbing,4,325000.0,07-07-2006,Andet,2321,6,Villa,140,1928,
+Langegade 1 5900 Rudkøbing,1,500000.0,06-07-2006,Fam.,5263,5,Villa,95,1840,
+"Skudehavnen 63, ST 5900 Rudkøbing",0,1400000.0,04-07-2006,Alm.,20895,2,Fritid,67,1989,
+"Skudehavnen 7, 1 5900 Rudkøbing",1,1350000.0,29-06-2006,Alm.,20149,3,Fritid,67,1989,
+Peløkkevej 73 5900 Rudkøbing,73,2145000.0,22-06-2006,Alm.,14395,4,Villa,149,1962,
+Torpevej 13 5900 Rudkøbing,13,780000.0,20-06-2006,Alm.,7428,4,Villa,105,1975,
+Hybenvænget 9 5900 Rudkøbing,9,1300000.0,19-06-2006,Fam.,25000,2,Sommerhus,52,2003,
+Halvmånen 7 5900 Rudkøbing,7,195000.0,19-06-2006,Alm.,1250,4,Villa,156,2007,
+Kulepilevej 31 5900 Rudkøbing,31,1060000.0,14-06-2006,Alm.,8480,4,Villa,125,1963,
+Møllebanken 5 5900 Rudkøbing,5,514595.0,12-06-2006,Fam.,3407,6,Villa,151,1910,
+Halvmånen 6 5900 Rudkøbing,6,185000.0,12-06-2006,Alm.,1302,5,Villa,142,2007,
+Kragholmvej 15 5900 Rudkøbing,15,915000.0,10-06-2006,Alm.,5828,3,Villa,157,1877,
+Byvej 3 5900 Rudkøbing,3,890000.0,09-06-2006,Alm.,6793,4,Villa,131,1960,
+Ahlefeldtsgade 44 5900 Rudkøbing,44,725000.0,08-06-2006,Alm.,9294,2,Rækkehus,78,1892,
+Kulepilevej 10 5900 Rudkøbing,10,415228.0,07-06-2006,Andet,3674,3,Villa,113,1957,
+Nørrebro 123 5900 Rudkøbing,123,500000.0,31-05-2006,Alm.,4385,4,Villa,114,1866,
+Ramsherred 42 5900 Rudkøbing,42,750000.0,30-05-2006,Alm.,13636,2,Rækkehus,55,1798,
+Ramsherred 20 5900 Rudkøbing,20,490000.0,29-05-2006,Alm.,9245,3,Rækkehus,53,1877,
+Peløkkevej 33E 5900 Rudkøbing,0,350000.0,24-05-2006,Alm.,2692,5,Villa,130,2008,
+Reberbanen 5 5900 Rudkøbing,5,650000.0,22-05-2006,Alm.,7471,4,Villa,87,1900,
+Skovridervænget 3 5900 Rudkøbing,3,475000.0,20-05-2006,Alm.,5107,4,Sommerhus,93,2007,
+Skovridervænget 39 5900 Rudkøbing,39,575000.0,19-05-2006,Alm.,6845,4,Sommerhus,84,2007,
+Mosevænget 13 5900 Rudkøbing,13,1175000.0,18-05-2006,Alm.,7781,7,Villa,151,1980,
+Bogøvej 11 5900 Rudkøbing,11,515000.0,18-05-2006,Alm.,2500,7,Stuehus,206,1872,
+Nørrebro 195 5900 Rudkøbing,195,580000.0,17-05-2006,Fam.,5800,4,Villa,100,1940,
+Kibshavevej 27 5900 Rudkøbing,27,1092521.0,17-05-2006,Andet,4590,7,Stuehus,238,1793,
+Humblevej 75 5900 Rudkøbing,75,416152.0,16-05-2006,Fam.,4203,4,Villa,99,1939,
+Rolighedsvej 26 5900 Rudkøbing,26,1025000.0,15-05-2006,Alm.,5150,6,Villa,199,1934,
+Bellevue 39 5900 Rudkøbing,39,775000.0,15-05-2006,Alm.,8908,2,Rækkehus,87,1896,
+Grønnegaardsvej 2 5900 Rudkøbing,2,1045000.0,15-05-2006,Alm.,8164,4,Villa,128,1878,
+Nørrebro 68 5900 Rudkøbing,68,450000.0,08-05-2006,Alm.,7758,3,Rækkehus,58,1852,
+Kastanievej 10 5900 Rudkøbing,10,825000.0,08-05-2006,Alm.,3985,6,Villa,207,1917,
+Klæsøvej 3 5900 Rudkøbing,3,175000.0,28-04-2006,Alm.,1286,5,Villa,136,1887,
+Nørrebro 193 5900 Rudkøbing,193,675000.0,28-04-2006,Alm.,6887,4,Villa,98,1952,
+Kastanievej 3 5900 Rudkøbing,3,1900000.0,26-04-2006,Alm.,13868,4,Villa,137,2005,
+Nørrebro 50 5900 Rudkøbing,50,550000.0,24-04-2006,Alm.,5500,2,Rækkehus,100,1900,
+Pilevænget 8 5900 Rudkøbing,8,1900000.0,23-04-2006,Alm.,0,4,Sommerhus,123,1979,
+Skovridervænget 2 5900 Rudkøbing,2,1524080.0,21-04-2006,Alm.,18586,4,Sommerhus,82,2007,
+Sommerlyst 26 5900 Rudkøbing,26,605000.0,19-04-2006,Alm.,6722,3,Rækkehus,90,1920,
+Spodsbjergvej 62 5900 Rudkøbing,62,680000.0,07-04-2006,Alm.,8000,5,Rækkehus,85,1950,
+Jens Winthers Vej 2 5900 Rudkøbing,2,900000.0,07-04-2006,Alm.,5625,6,Villa,160,1850,
+Haugbøllevej 25 5900 Rudkøbing,25,760000.0,02-04-2006,Fam.,3377,3,Stuehus,225,1930,
+Skovbakken 16 5900 Rudkøbing,16,625000.0,31-03-2006,Alm.,7812,4,Villa,80,1950,
+Humblevej 36 5900 Rudkøbing,36,629000.0,28-03-2006,Alm.,8386,4,Rækkehus,75,1900,
+Skovsbovej 8 5900 Rudkøbing,8,600000.0,27-03-2006,Alm.,4651,5,Villa,129,1897,
+Nørregade 6 5900 Rudkøbing,6,585000.0,27-03-2006,Alm.,10446,2,Rækkehus,56,1783,
+Skovsbovej 5 5900 Rudkøbing,5,860000.0,21-03-2006,Alm.,8865,4,Villa,97,1962,
+Langegade 7 5900 Rudkøbing,7,425000.0,20-03-2006,Alm.,1445,6,Villa,294,1907,
+Blandebjerg 26 5900 Rudkøbing,26,1276000.0,20-03-2006,Alm.,9891,5,Villa,129,1890,
+Nørrebro 139A 5900 Rudkøbing,0,565000.0,10-03-2006,Alm.,6420,5,Rækkehus,88,1850,
+Hannebjergvej 2 5900 Rudkøbing,2,133870.0,06-03-2006,Alm.,548,8,Villa,244,1977,
+"Nørrebro 12A, ST 5900 Rudkøbing",0,1100000.0,06-03-2006,Alm.,15942,3,Rækkehus,69,1900,
+Humblevej 85 5900 Rudkøbing,85,1550000.0,01-03-2006,Alm.,11231,4,Stuehus,138,1911,
+Teglbakken 20 5900 Rudkøbing,20,950000.0,21-02-2006,Alm.,8333,4,Villa,114,1938,
+Nordre Landevej 36 5900 Rudkøbing,36,495000.0,14-02-2006,Alm.,4500,4,Villa,110,1921,
+Pilevænget 1 5900 Rudkøbing,1,1060000.0,11-02-2006,Alm.,17377,3,Sommerhus,61,1974,
+Rolighedsvej 8 5900 Rudkøbing,8,952000.0,08-02-2006,Alm.,7739,6,Villa,123,1914,
+"Østergade 54, 1 5900 Rudkøbing",1,1050000.0,08-02-2006,Alm.,9722,5,Lejlighed,108,1923,
+Broløkken 19 5900 Rudkøbing,19,820000.0,08-02-2006,Alm.,4555,5,Villa,180,1964,
+Hybenvænget 10 5900 Rudkøbing,10,365500.0,02-02-2006,Fam.,7166,3,Sommerhus,51,1960,
+Peløkkevej 18A 5900 Rudkøbing,0,840000.0,02-02-2006,Alm.,8484,4,Villa,99,1980,
+Ramsherred 64 5900 Rudkøbing,64,732500.0,30-01-2006,Alm.,4024,6,Rækkehus,182,1843,
+Æblevænget 10 5900 Rudkøbing,10,1004118.0,27-01-2006,Alm.,7665,4,Villa,131,1967,
+Nørrebro 88 5900 Rudkøbing,88,1275000.0,26-01-2006,Alm.,7919,4,Villa,161,1923,
+Humblevej 100 5900 Rudkøbing,100,1500000.0,24-01-2006,Alm.,7211,3,Villa,208,1910,
+Bogøvej 28 5900 Rudkøbing,28,2000000.0,18-01-2006,Alm.,9708,4,Stuehus,206,2008,
+Brogade 25B 5900 Rudkøbing,0,595000.0,10-01-2006,Fam.,2155,5,Anden beboelse,276,1761,
+Rue 31 5900 Rudkøbing,31,3140000.0,09-01-2006,Alm.,11459,8,Villa,274,1900,
+Kløvervænget 2 5900 Rudkøbing,2,1127000.0,03-01-2006,Alm.,7463,5,Villa,151,1969,
+Platanvej 11 5900 Rudkøbing,11,807500.0,22-12-2005,Fam.,3958,6,Villa,204,1925,
+Spangevej 11 5900 Rudkøbing,11,200000.0,20-12-2005,Alm.,3773,2,Villa,53,1945,
+Kløvervænget 7 5900 Rudkøbing,7,965000.0,19-12-2005,Alm.,8041,4,Villa,120,1966,
+Haverne 22 5900 Rudkøbing,22,1300000.0,16-12-2005,Alm.,9629,4,Villa,135,1986,
+Gyden 5 5900 Rudkøbing,5,1550000.0,15-12-2005,Alm.,5938,8,Villa,261,1900,
+Blandebjerg 24 5900 Rudkøbing,24,470000.0,15-12-2005,Alm.,3852,5,Villa,122,1896,
+Skovridervænget 4 5900 Rudkøbing,4,625000.0,14-12-2005,Alm.,6648,4,Sommerhus,94,2008,
+Fuglsbøllevejen 31 5900 Rudkøbing,31,550000.0,14-12-2005,Alm.,7432,3,Villa,74,1950,
+Omgangen 9 5900 Rudkøbing,9,1275000.0,09-12-2005,Alm.,7774,6,Villa,164,1978,
+Rolighedsvej 21 5900 Rudkøbing,21,1125000.0,08-12-2005,Alm.,8395,3,Villa,134,1914,
+Ravnerydvej 12 5900 Rudkøbing,12,94760.0,08-12-2005,Alm.,349,8,Stuehus,271,1918,
+Nordre Landevej 47 5900 Rudkøbing,47,1330000.0,08-12-2005,Alm.,7430,4,Villa,179,1934,
+Humblevej 78A 5900 Rudkøbing,0,1750000.0,05-12-2005,Alm.,5591,5,Villa,313,1996,
+Spodsbjergvej 97 5900 Rudkøbing,97,347630.0,01-12-2005,Andet,2009,5,Villa,173,1870,
+Porsevænget 3 5900 Rudkøbing,3,1450000.0,29-11-2005,Alm.,20138,4,Sommerhus,72,1950,
+Schnohrsvej 3 5900 Rudkøbing,3,467500.0,29-11-2005,Fam.,3928,3,Villa,119,1850,
+Havgaardsvej 18 5900 Rudkøbing,18,1000000.0,28-11-2005,Alm.,7142,4,Villa,140,1827,
+Spodsbjergvej 222 5900 Rudkøbing,222,496400.0,23-11-2005,Fam.,4554,3,Villa,109,1867,
+Hybenvænget 1 5900 Rudkøbing,1,1070000.0,15-11-2005,Alm.,20980,3,Sommerhus,51,1997,
+Spangevej 20 5900 Rudkøbing,20,860000.0,14-11-2005,Alm.,5276,7,Villa,163,1887,
+Spodsbjergvej 203 5900 Rudkøbing,203,625000.0,08-11-2005,Alm.,5787,2,Villa,108,1897,
+Kassebøllevej 24 5900 Rudkøbing,24,357000.0,04-11-2005,Fam.,3923,5,Villa,91,1929,
+Ravnerydvej 9 5900 Rudkøbing,9,625000.0,03-11-2005,Alm.,4629,5,Villa,135,1950,
+Sylen 2 5900 Rudkøbing,2,1250000.0,31-10-2005,Andet,6510,8,Villa,192,2002,
+"Havnepladsen 7B, ST. TH 5900 Rudkøbing",0,1258000.0,31-10-2005,Alm.,13526,2,Lejlighed,93,1933,
+"Torvet 11, 1 5900 Rudkøbing",1,1250000.0,31-10-2005,Andet,9469,6,Anden beboelse,132,1877,
+Sommerlyst 38 5900 Rudkøbing,38,567500.0,27-10-2005,Andet,5254,4,Villa,108,1951,
+Nørrebro 45 5900 Rudkøbing,45,580000.0,26-10-2005,Alm.,7435,4,Rækkehus,78,1835,
+Skrøbelev Hedevej 9 5900 Rudkøbing,9,2150000.0,21-10-2005,Alm.,6574,10,Villa,327,1864,
+Kirkegaardsvej 20 5900 Rudkøbing,20,467000.0,21-10-2005,Alm.,8339,3,Villa,56,1900,
+Krogsbjergvej 17 5900 Rudkøbing,17,385000.0,19-10-2005,Alm.,0,3,Villa,110,1900,
+Skovridervænget 8 5900 Rudkøbing,8,475000.0,16-10-2005,Alm.,3392,5,Sommerhus,140,2009,
+Torpevej 27 5900 Rudkøbing,27,425000.0,14-10-2005,Alm.,4829,3,Villa,88,1875,
+"Havnepladsen 7B, 1. TH 5900 Rudkøbing",0,1395000.0,13-10-2005,Alm.,16607,2,Lejlighed,84,1933,
+Vestergårdsvej 20 5900 Rudkøbing,20,408000.0,10-10-2005,Alm.,3400,5,Villa,120,1942,
+Illebøllevej 6 5900 Rudkøbing,6,525000.0,29-09-2005,Alm.,4007,4,Villa,131,1951,
+Drejet 41 5900 Rudkøbing,41,518500.0,27-09-2005,Fam.,0,5,Sommerhus,96,1942,
+Knolden 14 5900 Rudkøbing,14,1325000.0,24-09-2005,Alm.,9888,6,Villa,134,1987,
+Sølyst 2 5900 Rudkøbing,2,1000000.0,17-09-2005,Alm.,12500,4,Sommerhus,80,1967,
+Sødalsvej 6 5900 Rudkøbing,6,3200000.0,14-09-2005,Alm.,18181,5,Stuehus,176,1930,
+Udsigten 2 5900 Rudkøbing,2,1525000.0,13-09-2005,Alm.,15885,6,Sommerhus,96,1992,
+Pederstrupvej 27 5900 Rudkøbing,27,1885000.0,12-09-2005,Alm.,8849,6,Villa,213,1900,
+Humblevej 86 5900 Rudkøbing,86,855000.0,11-09-2005,Alm.,5445,4,Villa,157,1930,
+Omgangen 18 5900 Rudkøbing,18,1500000.0,11-09-2005,Alm.,8720,6,Villa,172,1975,
+Haugbøllevej 11 5900 Rudkøbing,11,965000.0,01-09-2005,Alm.,5676,5,Villa,170,1890,
+Søndre Landevej 49 5900 Rudkøbing,49,525000.0,01-09-2005,Alm.,6402,3,Villa,82,1899,
+Møllemosevej 6 5900 Rudkøbing,6,595000.0,29-08-2005,Alm.,6397,4,Villa,93,1960,
+Kirkegade 6 5900 Rudkøbing,6,197500.0,15-08-2005,Alm.,2408,5,Villa,82,1877,
+Nørregade 1 5900 Rudkøbing,1,1075000.0,10-08-2005,Alm.,4166,8,Rækkehus,258,1852,
+Ringvejen 12 5900 Rudkøbing,12,820000.0,04-08-2005,Alm.,9010,4,Villa,91,1949,
+"Skudehavnen 3, ST 5900 Rudkøbing",0,1350000.0,30-07-2005,Alm.,20149,3,Fritid,67,1989,
+Haugbøllevej 12 5900 Rudkøbing,12,715000.0,22-07-2005,Alm.,4612,6,Villa,155,1944,
+Skrøbelev Hedevej 13B 5900 Rudkøbing,0,100000.0,21-07-2005,Alm.,543,5,Villa,184,2006,
+Broløkken 11 5900 Rudkøbing,11,525000.0,12-07-2005,Fam.,5412,3,Villa,97,1966,
+Drejet 36C 5900 Rudkøbing,0,1375000.0,11-07-2005,Alm.,15277,6,Sommerhus,90,1991,
+Lollesgaardsvej 2 5900 Rudkøbing,2,700000.0,07-07-2005,Alm.,4575,5,Villa,153,1832,
+Hybenvænget 8 5900 Rudkøbing,8,350000.0,05-07-2005,Alm.,6730,2,Sommerhus,52,1952,
+Nørrebro 92 5900 Rudkøbing,92,710000.0,05-07-2005,Alm.,6454,4,Rækkehus,110,1929,
+Hybenvænget 6 5900 Rudkøbing,6,640000.0,04-07-2005,Alm.,9696,3,Sommerhus,66,1950,
+Bellevue 47 5900 Rudkøbing,47,745000.0,04-07-2005,Alm.,8563,3,Rækkehus,87,1900,
+Pederstrupvej 22 5900 Rudkøbing,22,1050000.0,04-07-2005,Alm.,9292,4,Villa,113,1967,
+Kassebøllevej 10 5900 Rudkøbing,10,2770000.0,01-07-2005,Fam.,8629,6,Stuehus,321,1950,
+Illebøllevej 24 5900 Rudkøbing,24,320000.0,30-06-2005,Alm.,1767,7,Villa,181,1907,
+Hennetvedvej 16 5900 Rudkøbing,16,9710000.0,28-06-2005,Alm.,48069,7,Stuehus,202,1909,
+Rue 7 5900 Rudkøbing,7,1426399.0,26-06-2005,Alm.,9202,4,Villa,155,1900,
+Byvej 16 5900 Rudkøbing,16,90000.0,24-06-2005,Alm.,909,2,Anden beboelse,99,1875,
+Bækkebovej 3 5900 Rudkøbing,3,485779.0,16-06-2005,Alm.,3304,6,Villa,147,1857,
+Hennetvedvej 42 5900 Rudkøbing,42,1129000.0,13-06-2005,Alm.,7840,5,Villa,144,1777,
+Hennetvedvej 17 5900 Rudkøbing,17,940000.0,12-06-2005,Alm.,12876,5,Villa,73,1877,
+Gillesbjergvej 10 5900 Rudkøbing,10,112500.0,09-06-2005,Alm.,598,6,Stuehus,188,1979,
+Spodsbjergvej 213 5900 Rudkøbing,213,405000.0,07-06-2005,Alm.,4354,3,Villa,93,1897,
+Spodsbjergvej 241 5900 Rudkøbing,241,285000.0,04-06-2005,Alm.,2280,3,Villa,125,1927,
+Banevej 6 5900 Rudkøbing,6,850000.0,03-06-2005,Alm.,7327,3,Villa,116,1960,
+Byvej 12 5900 Rudkøbing,12,220000.0,02-06-2005,Alm.,1732,4,Villa,127,1805,
+Vinkældergade 7 5900 Rudkøbing,7,395000.0,02-06-2005,Alm.,6810,3,Rækkehus,58,1700,
+Peløkkevej 62 5900 Rudkøbing,62,662000.0,31-05-2005,Alm.,6245,3,Villa,106,1963,
+Bøgehave Stræde 5 5900 Rudkøbing,5,775000.0,26-05-2005,Alm.,2849,9,Villa,272,1777,
+Peløkkevej 33D 5900 Rudkøbing,0,350000.0,24-05-2005,Alm.,2966,4,Villa,118,2005,
+Skrøbelev Hedevej 3 5900 Rudkøbing,3,560000.0,23-05-2005,Alm.,5833,4,Villa,96,1911,
+Langøvej 23 5900 Rudkøbing,23,1390000.0,22-05-2005,Alm.,6780,8,Stuehus,205,1910,
+Rolighedsvej 25 5900 Rudkøbing,25,845000.0,21-05-2005,Alm.,6167,5,Villa,137,1927,
+Longelsevej 31 5900 Rudkøbing,31,448961.0,12-05-2005,Alm.,8314,2,Villa,54,1925,
+Pederstrupvej 1 5900 Rudkøbing,1,540000.0,06-05-2005,Alm.,4537,3,Villa,119,1943,
+Skrøbelev Kirkevej 22 5900 Rudkøbing,22,735000.0,28-04-2005,Alm.,3808,5,Villa,193,1937,
+Nørrebro 191 5900 Rudkøbing,191,850000.0,28-04-2005,Alm.,4619,7,Villa,184,1960,
+Rolighedsvej 23B 5900 Rudkøbing,0,710000.0,21-04-2005,Alm.,16511,2,Rækkehus,43,1927,
+Herslevvej 31 5900 Rudkøbing,31,745000.0,20-04-2005,Alm.,6313,4,Villa,118,1930,
+Østerled 5 5900 Rudkøbing,5,450000.0,18-04-2005,Alm.,3750,5,Villa,120,1930,
+Vindebyvej 17 5900 Rudkøbing,17,545000.0,15-04-2005,Alm.,4395,4,Villa,124,1897,
+Humblevej 47 5900 Rudkøbing,47,815000.0,14-04-2005,Alm.,0,5,Villa,112,1963,
+Humblevej 59 5900 Rudkøbing,59,650000.0,14-04-2005,Alm.,7471,3,Rækkehus,87,1888,
+Snaremosevej 9 5900 Rudkøbing,9,7200000.0,12-04-2005,Alm.,76595,2,Villa,94,1930,
+Drejet 36E 5900 Rudkøbing,0,1325000.0,07-04-2005,Alm.,15963,6,Sommerhus,83,1991,
+Rolighedsvej 23A 5900 Rudkøbing,0,1110000.0,06-04-2005,Alm.,23125,2,Lejlighed,48,1927,
+Rolighedsvej 23D 5900 Rudkøbing,0,1110000.0,06-04-2005,Alm.,24666,2,Rækkehus,45,1927,
+Rolighedsvej 23C 5900 Rudkøbing,0,1110000.0,06-04-2005,Alm.,24666,2,Rækkehus,45,1927,
+Kastanievej 11 5900 Rudkøbing,11,830000.0,05-04-2005,Alm.,8736,4,Villa,95,1934,
+Hennetvedvej 54 5900 Rudkøbing,54,275000.0,01-04-2005,Alm.,2644,5,Villa,104,1827,
+Vindebyvej 45 5900 Rudkøbing,45,670000.0,14-03-2005,Alm.,5403,3,Villa,124,1897,
+Spangevej 8 5900 Rudkøbing,8,435000.0,11-03-2005,Alm.,5649,3,Villa,77,1862,
+Sønderskovvej 6 5900 Rudkøbing,6,80000.0,01-03-2005,Alm.,368,9,Stuehus,217,1850,
+Herslevvej 15 5900 Rudkøbing,15,315000.0,27-02-2005,Alm.,6300,3,Villa,50,1830,
+Rue 2 5900 Rudkøbing,2,700000.0,17-02-2005,Alm.,8333,3,Villa,84,1961,
+Drejet 36A 5900 Rudkøbing,0,1375000.0,17-02-2005,Alm.,16566,6,Sommerhus,83,1991,
+Nordre Landevej 39 5900 Rudkøbing,39,500000.0,16-02-2005,Alm.,4132,4,Villa,121,1900,
+Spodsbjergvej 37 5900 Rudkøbing,37,550000.0,15-02-2005,Alm.,6043,3,Rækkehus,91,1900,
+Platanvej 5 5900 Rudkøbing,5,680000.0,07-02-2005,Alm.,4331,5,Villa,157,1900,
+Udsigten 12 5900 Rudkøbing,12,1450000.0,07-02-2005,Alm.,15104,6,Sommerhus,96,1992,
+Schnohrsvej 16 5900 Rudkøbing,16,935000.0,31-01-2005,Fam.,5880,6,Villa,159,1999,
+Lønkildevej 9 5900 Rudkøbing,9,633000.0,29-01-2005,Alm.,4457,4,Villa,142,1974,
+"Havnepladsen 7B, 1. TV 5900 Rudkøbing",0,1395000.0,26-01-2005,Alm.,14234,2,Lejlighed,98,1933,
+Kirkegaardsvej 23 5900 Rudkøbing,23,723000.0,25-01-2005,Alm.,7303,4,Rækkehus,99,1906,
+Peløkkevej 3 5900 Rudkøbing,3,1500000.0,21-01-2005,Alm.,6302,9,Villa,238,1937,
+Simmerbølle Kirkevej 23A 5900 Rudkøbing,0,467525.0,21-01-2005,Alm.,0,3,Rækkehus,99,1890,
+Humblevej 41 5900 Rudkøbing,41,1025000.0,15-01-2005,Alm.,9855,5,Villa,104,1947,
+Knolden 3 5900 Rudkøbing,3,540000.0,07-01-2005,Alm.,4186,5,Villa,129,1994,
+Skovbakken 6 5900 Rudkøbing,6,350000.0,07-01-2005,Alm.,5000,3,Villa,70,1946,
+Schnohrsvej 21 5900 Rudkøbing,21,850000.0,29-12-2004,Alm.,8095,4,Villa,105,1969,
+Illebøllevej 7 5900 Rudkøbing,7,675000.0,29-12-2004,Alm.,5921,4,Villa,114,1949,
+Torpevej 19 5900 Rudkøbing,19,435000.0,24-12-2004,Alm.,4780,4,Villa,91,1852,
+Langegade 10 5900 Rudkøbing,10,265000.0,23-12-2004,Alm.,1677,5,Villa,158,1895,
+Omgangen 14 5900 Rudkøbing,14,975000.0,19-12-2004,Alm.,7222,4,Villa,135,1976,
+Skovsbovej 21 5900 Rudkøbing,21,300000.0,08-12-2004,Fam.,4838,3,Sommerhus,62,1827,
+Skovsbovej 19 5900 Rudkøbing,19,300000.0,08-12-2004,Fam.,3797,3,Villa,79,1777,
+Toftevej 12 5900 Rudkøbing,12,925000.0,06-12-2004,Alm.,7974,5,Villa,116,1967,
+Nørrebro 117 5900 Rudkøbing,117,875000.0,06-12-2004,Alm.,5993,5,Villa,146,1910,
+Bogøvej 33 5900 Rudkøbing,33,560000.0,29-11-2004,Alm.,5000,3,Villa,112,1963,
+Bellevue 33 5900 Rudkøbing,33,615000.0,19-11-2004,Alm.,6910,3,Rækkehus,89,1898,
+Omgangen 16 5900 Rudkøbing,16,1033000.0,17-11-2004,Alm.,7825,4,Villa,132,1975,
+Pederstrupvej 28 5900 Rudkøbing,28,495000.0,15-11-2004,Alm.,3639,5,Villa,136,1943,
+Peløkkevej 33C 5900 Rudkøbing,0,270000.0,11-11-2004,Alm.,1616,4,Villa,167,2005,
+Slaaenvænget 18 5900 Rudkøbing,18,825000.0,10-11-2004,Alm.,15000,3,Sommerhus,55,1983,
+Havgaardsvej 12 5900 Rudkøbing,12,250000.0,09-11-2004,Fam.,2032,5,Villa,123,1907,
+Nørrebro 136 5900 Rudkøbing,136,585000.0,08-11-2004,Alm.,4534,4,Villa,129,1924,
+Fuglsbøllevejen 7 5900 Rudkøbing,7,600000.0,07-11-2004,Fam.,5000,4,Villa,120,1825,
+Spodsbjergvej 279 5900 Rudkøbing,279,236758.0,06-11-2004,Alm.,1322,6,Stuehus,179,1900,
+Havnegade 100 5900 Rudkøbing,100,1250000.0,04-11-2004,Alm.,6281,4,Villa,199,1912,
+Broløkken 24 5900 Rudkøbing,24,824999.0,04-11-2004,Alm.,7300,5,Villa,113,1962,
+Solbakken 19B 5900 Rudkøbing,0,3000000.0,26-10-2004,Alm.,20689,6,Sommerhus,145,2005,
+Vinkældergade 20 5900 Rudkøbing,20,250000.0,25-10-2004,Alm.,3787,3,Rækkehus,66,1927,
+Pederstrupvej 16J 5900 Rudkøbing,0,705000.0,20-10-2004,Alm.,5875,4,Villa,120,1974,
+Torpevej 24 5900 Rudkøbing,24,900000.0,18-10-2004,Alm.,0,4,Stuehus,106,1856,
+Sølyst 5 5900 Rudkøbing,5,770000.0,15-10-2004,Alm.,10694,4,Sommerhus,72,1970,
+Nørrebro 99 5900 Rudkøbing,99,363000.0,09-10-2004,Alm.,4537,3,Villa,80,1877,
+Nørrebro 71 5900 Rudkøbing,71,785000.0,08-10-2004,Alm.,8092,3,Rækkehus,97,1883,
+Spodsbjergvej 333 5900 Rudkøbing,333,935000.0,05-10-2004,Alm.,6233,5,Villa,150,1920,
+Bryggervej 9 5900 Rudkøbing,9,935000.0,04-10-2004,Alm.,6678,4,Villa,140,1971,
+Vestergårdsvej 24 5900 Rudkøbing,24,4170000.0,28-09-2004,Fam.,31353,6,Stuehus,133,1912,
+Vindebyvej 47 5900 Rudkøbing,47,480000.0,27-09-2004,Alm.,5274,3,Villa,91,1827,
+Ravnerydvej 4 5900 Rudkøbing,4,715000.0,23-09-2004,Alm.,4766,4,Villa,150,1877,
+Nørrebro 148 5900 Rudkøbing,148,530000.0,14-09-2004,Alm.,7910,4,Rækkehus,67,1877,
+Omgangen 11 5900 Rudkøbing,11,850000.0,10-09-2004,Alm.,5279,5,Villa,161,1977,
+Humblevej 12 5900 Rudkøbing,12,475000.0,08-09-2004,Alm.,0,4,Villa,142,1900,
+Sønderskovvej 23 5900 Rudkøbing,23,795000.0,29-08-2004,Alm.,3613,8,Stuehus,220,1779,
+Spodsbjergvej 159 5900 Rudkøbing,159,597000.0,25-08-2004,Alm.,8779,2,Villa,68,1936,
+Bellevue 13 5900 Rudkøbing,13,225000.0,22-08-2004,Andet,2250,3,Rækkehus,100,1883,
+Møllestræde 1 5900 Rudkøbing,1,238000.0,21-08-2004,Alm.,3777,3,Villa,63,1000,
+Brovejen 1 5900 Rudkøbing,1,800000.0,19-08-2004,Alm.,4733,5,Villa,169,1890,
+Peløkkevej 30 5900 Rudkøbing,30,745000.0,19-08-2004,Alm.,6592,4,Villa,113,1961,
+Vindebyvej 4 5900 Rudkøbing,4,540000.0,16-08-2004,Alm.,3214,8,Stuehus,168,1850,
+Spodsbjergvej 337 5900 Rudkøbing,337,585000.0,09-08-2004,Fam.,6223,4,Villa,94,1970,
+Humblevej 21 5900 Rudkøbing,21,650000.0,28-07-2004,Alm.,7065,3,Villa,92,1964,
+Ahlefeldtsgade 38 5900 Rudkøbing,38,695000.0,26-07-2004,Alm.,4664,6,Rækkehus,149,1900,
+Påøvej 6 5900 Rudkøbing,6,238000.0,22-07-2004,Fam.,3606,2,Villa,66,1800,
+Skrøbelev Hedevej 13D 5900 Rudkøbing,0,100000.0,15-07-2004,Alm.,625,5,Villa,160,2006,
+Havgaardsvej 16 5900 Rudkøbing,16,230000.0,15-07-2004,Alm.,4035,3,Villa,57,1934,
+Langegade 20 5900 Rudkøbing,20,600000.0,12-07-2004,Alm.,5172,4,Villa,116,1967,
+Halvmånen 14 5900 Rudkøbing,14,195000.0,09-07-2004,Alm.,1354,4,Villa,144,2005,
+Peløkkevej 11 5900 Rudkøbing,11,975000.0,05-07-2004,Alm.,4802,5,Villa,203,1910,
+Nørrebro 48 5900 Rudkøbing,48,500000.0,02-07-2004,Alm.,4504,3,Rækkehus,111,1890,
+Vindrosen 7 5900 Rudkøbing,7,900000.0,22-06-2004,Alm.,5389,5,Villa,167,1974,
+Simmerbølle Kirkevej 11 5900 Rudkøbing,11,1219999.0,22-06-2004,Alm.,6321,9,Villa,193,1900,
+Nørrebro 47 5900 Rudkøbing,47,510000.0,21-06-2004,Alm.,4722,3,Rækkehus,108,1900,
+Pederstrupvej 20 5900 Rudkøbing,20,335000.0,21-06-2004,Fam.,3350,3,Villa,100,1969,
+Peløkkevej 28 5900 Rudkøbing,28,945000.0,19-06-2004,Alm.,10500,3,Villa,90,1960,
+"Skudehavnen 1, ST 5900 Rudkøbing",0,1025000.0,17-06-2004,Alm.,14855,3,Fritid,69,1989,
+Peløkkevej 9 5900 Rudkøbing,9,977500.0,17-06-2004,Fam.,4039,8,Stuehus,242,1870,
+Assemose 5 5900 Rudkøbing,5,735435.0,14-06-2004,Alm.,5701,4,Villa,129,1850,
+Spodsbjergvej 221 5900 Rudkøbing,221,919310.0,09-06-2004,Alm.,6474,5,Villa,142,1777,
+Sidsel Bagers Gade 12 5900 Rudkøbing,12,840000.0,05-06-2004,Alm.,4590,6,Rækkehus,183,1847,
+Longelsevej 33 5900 Rudkøbing,33,250000.0,28-05-2004,Alm.,2500,5,Villa,100,1877,
+Fuglsbøllevejen 40 5900 Rudkøbing,40,196237.0,28-05-2004,Andet,1833,3,Villa,107,1932,
+Ramsherred 29 5900 Rudkøbing,29,565000.0,26-05-2004,Alm.,7151,2,Rækkehus,79,1802,
+Næbbevej 3 5900 Rudkøbing,3,131750.0,26-05-2004,Fam.,1176,3,Villa,112,1935,
+Cirklen 5 5900 Rudkøbing,5,1055000.0,25-05-2004,Alm.,9504,4,Villa,111,2001,
+Slaaenvænget 6 5900 Rudkøbing,6,900000.0,22-05-2004,Alm.,13432,4,Sommerhus,67,1985,
+Herslevvej 45 5900 Rudkøbing,45,294000.0,18-05-2004,Fam.,1680,5,Villa,175,1930,
+Longelsevej 38 5900 Rudkøbing,38,715000.0,13-05-2004,Alm.,4132,5,Villa,173,1928,
+Banken 24 5900 Rudkøbing,24,1500000.0,12-05-2004,Alm.,18072,4,Sommerhus,83,1986,
+Sommerlyst 17 5900 Rudkøbing,17,740000.0,10-05-2004,Alm.,6434,5,Villa,115,1960,
+Fuglsbølle Skovvej 7 5900 Rudkøbing,7,650000.0,04-05-2004,Alm.,4248,6,Stuehus,153,1910,
+Nordre Landevej 6 5900 Rudkøbing,6,290000.0,03-05-2004,Alm.,2989,3,Villa,97,1900,
+Ramsherred 44 5900 Rudkøbing,44,227500.0,18-04-2004,Alm.,3791,2,Rækkehus,60,2001,
+Drejet 10 5900 Rudkøbing,10,267000.0,18-04-2004,Alm.,7628,2,Sommerhus,35,1957,
+Ahlefeldtsgade 50 5900 Rudkøbing,50,593000.0,07-04-2004,Alm.,6738,3,Rækkehus,88,1919,
+Sødalsvej 1 5900 Rudkøbing,1,857000.0,05-04-2004,Alm.,3709,6,Villa,231,1877,
+Gillesbjergvej 1 5900 Rudkøbing,1,337000.0,05-04-2004,Alm.,2572,5,Villa,131,1908,
+Snaremosevej 3 5900 Rudkøbing,3,895000.0,05-04-2004,Alm.,4735,5,Villa,189,1928,
+Rolighedsvej 31 5900 Rudkøbing,31,709000.0,02-04-2004,Alm.,4856,4,Villa,146,1937,
+Reberbanen 20 5900 Rudkøbing,20,391000.0,01-04-2004,Fam.,5835,2,Rækkehus,67,1895,
+Kløvervænget 12 5900 Rudkøbing,12,1036500.0,30-03-2004,Alm.,6097,4,Villa,170,1962,
+Rolighedsvej 40 5900 Rudkøbing,40,675000.0,30-03-2004,Alm.,5532,4,Villa,122,1940,
+Søndre Landevej 33 5900 Rudkøbing,33,375000.0,27-03-2004,Alm.,2373,5,Villa,158,1827,
+Slaaenvænget 15 5900 Rudkøbing,15,899999.0,26-03-2004,Alm.,7758,5,Sommerhus,116,1983,
+Nørrebro 194 5900 Rudkøbing,194,300000.0,26-03-2004,Alm.,1960,5,Villa,153,1870,
+Møllestræde 6 5900 Rudkøbing,6,260000.0,19-03-2004,Fam.,2888,4,Villa,90,1800,
+Mosevænget 30 5900 Rudkøbing,30,200000.0,09-03-2004,Alm.,1156,5,Villa,173,2008,
+Kirkegade 15 5900 Rudkøbing,15,925000.0,09-03-2004,Alm.,5817,8,Villa,159,1909,
+Bogøvej 34 5900 Rudkøbing,34,375000.0,04-03-2004,Alm.,3750,3,Villa,100,1910,
+Spodsbjergvej 67 5900 Rudkøbing,67,595000.0,02-03-2004,Alm.,5833,4,Rækkehus,102,1900,
+Ramsherred 34 5900 Rudkøbing,34,510000.0,29-02-2004,Alm.,4396,5,Rækkehus,116,1720,
+Langøvej 12 5900 Rudkøbing,12,850000.0,23-02-2004,Alm.,5483,6,Villa,155,1887,
+Strandløkken 1A 5900 Rudkøbing,0,712000.0,22-02-2004,Alm.,10171,2,Villa,70,1947,
+Broløkken 44 5900 Rudkøbing,44,1100000.0,19-02-2004,Alm.,7006,5,Villa,157,1965,
+Møllebjergvej 1 5900 Rudkøbing,1,441350.0,15-02-2004,Alm.,4086,3,Villa,108,1969,
+Kassebøllevej 9 5900 Rudkøbing,9,413587.0,12-02-2004,Alm.,1549,9,Villa,267,1872,
+Søndre Landevej 39 5900 Rudkøbing,39,750000.0,12-02-2004,Alm.,0,4,Stuehus,161,1920,
+"Skudehavnen 13, 1 5900 Rudkøbing",1,800000.0,06-02-2004,Alm.,11940,3,Fritid,67,1989,
+Slaaenvænget 5 5900 Rudkøbing,5,1075000.0,05-02-2004,Alm.,14144,4,Sommerhus,76,1997,
+Gyvelvænget 29 5900 Rudkøbing,29,837000.0,01-02-2004,Alm.,12876,4,Sommerhus,65,1983,
+Humblevej 22 5900 Rudkøbing,22,1275000.0,26-01-2004,Alm.,8069,5,Villa,158,1974,
+Ahlefeldtsgade 21 5900 Rudkøbing,21,640000.0,22-01-2004,Alm.,3575,5,Rækkehus,179,1882,
+Rifbjergvej 20 5900 Rudkøbing,20,1232500.0,20-01-2004,Fam.,7336,5,Stuehus,168,1873,
+Kragholmvej 46 5900 Rudkøbing,46,875000.0,19-01-2004,Alm.,8413,3,Villa,104,1850,
+Bregnevej 4 5900 Rudkøbing,4,725000.0,12-01-2004,Alm.,5370,6,Villa,135,1979,
+Møllevænget 3 5900 Rudkøbing,3,1185000.0,30-12-2003,Alm.,5410,8,Villa,219,1969,
+"Østergade 35, 1 5900 Rudkøbing",1,5150000.0,22-12-2003,Alm.,19003,8,Anden beboelse,271,1882,
+Rævegade 5 5900 Rudkøbing,5,440000.0,17-12-2003,Alm.,3333,4,Villa,132,1926,
+Haverne 13 5900 Rudkøbing,13,1241379.0,16-12-2003,Alm.,8331,4,Villa,149,1979,
+Bækkebovej 8 5900 Rudkøbing,8,251000.0,15-12-2003,Alm.,1549,5,Villa,162,1877,
+Bellevue 23 5900 Rudkøbing,23,438023.0,13-12-2003,Alm.,6000,2,Rækkehus,73,1877,
+Kulepilevej 21 5900 Rudkøbing,21,460000.0,06-12-2003,Alm.,5609,3,Villa,82,1959,
+Smediestræde 4 5900 Rudkøbing,4,2270000.0,30-11-2003,Fam.,16569,6,Stuehus,137,1876,
+Bellevue 61 5900 Rudkøbing,61,838195.0,28-11-2003,Alm.,0,5,Villa,154,1935,
+Havnegade 110 5900 Rudkøbing,110,385344.0,19-11-2003,Andet,3601,4,Villa,107,1928,
+Søndre Landevej 22 5900 Rudkøbing,22,140918.0,14-11-2003,Andet,1067,4,Villa,132,1928,
+Illebøllevej 8 5900 Rudkøbing,8,390000.0,12-11-2003,Alm.,3823,2,Villa,102,1910,
+Rosenvænget 15 5900 Rudkøbing,15,885000.0,07-11-2003,Alm.,9833,3,Villa,90,1962,
+Nørrebro 146 5900 Rudkøbing,146,112501.0,04-11-2003,Alm.,953,3,Rækkehus,118,1950,
+Vindebyvej 27 5900 Rudkøbing,27,490000.0,01-11-2003,Alm.,4495,4,Villa,109,1945,
+Spodsbjergvej 269 5900 Rudkøbing,269,616506.0,31-10-2003,Andet,3605,4,Villa,171,2009,
+Peløkkevej 80 5900 Rudkøbing,80,550000.0,28-10-2003,Fam.,0,4,Villa,127,1964,
+Rue 5 5900 Rudkøbing,5,655000.0,26-10-2003,Alm.,5695,4,Rækkehus,115,1777,
+Halvmånen 10 5900 Rudkøbing,10,601605.0,23-10-2003,Andet,4328,5,Villa,139,1999,
+Chr Kiilsgaards Vej 14 5900 Rudkøbing,14,1055000.0,23-10-2003,Alm.,7377,6,Villa,143,1969,
+Rifbjerg Strand 2 5900 Rudkøbing,2,310000.0,22-10-2003,Alm.,0,2,Villa,121,1890,
+Bellevue 21 5900 Rudkøbing,21,400000.0,21-10-2003,Fam.,4651,4,Rækkehus,86,1887,
+Hennetvedvej 7 5900 Rudkøbing,7,750000.0,15-10-2003,Alm.,4573,5,Villa,164,1889,
+Platanvej 8 5900 Rudkøbing,8,870000.0,07-10-2003,Alm.,4943,6,Villa,176,1912,
+Nørregade 8 5900 Rudkøbing,8,550000.0,06-10-2003,Alm.,5392,5,Rækkehus,102,1827,
+Kassebøllevej 20 5900 Rudkøbing,20,1050000.0,30-09-2003,Fam.,7720,3,Stuehus,136,1941,
+Kassebøllevej 17 5900 Rudkøbing,17,552500.0,29-09-2003,Fam.,5525,4,Stuehus,100,1850,
+Kirkegaardsvej 4 5900 Rudkøbing,4,500000.0,27-09-2003,Alm.,5555,2,Rækkehus,90,1900,
+"Skudehavnen 59, 1 5900 Rudkøbing",1,900000.0,23-09-2003,Alm.,13432,3,Fritid,67,1989,
+Peløkkevej 35 5900 Rudkøbing,35,1200000.0,19-09-2003,Fam.,6741,7,Villa,178,1963,
+Spodsbjergvej 134 5900 Rudkøbing,134,1545000.0,17-09-2003,Alm.,0,8,Villa,253,1926,
+Nørrebro 89 5900 Rudkøbing,89,557000.0,10-09-2003,Alm.,5304,4,Villa,105,1934,
+Hjelmbjergvej 4 5900 Rudkøbing,4,638000.0,09-09-2003,Fam.,3467,4,Villa,184,1825,
+Hennetvedvej 13 5900 Rudkøbing,13,165000.0,09-09-2003,Alm.,1650,4,Villa,100,1900,
+Bakkevænget 1 5900 Rudkøbing,1,950000.0,08-09-2003,Alm.,7916,4,Villa,120,1972,
+Ramsherred 43 5900 Rudkøbing,43,400000.0,08-09-2003,Alm.,6153,3,Rækkehus,65,1818,
+Spodsbjergvej 207B 5900 Rudkøbing,0,95000.0,05-09-2003,Alm.,778,5,Villa,122,1900,
+Nørrebro 176 5900 Rudkøbing,176,700000.0,02-09-2003,Alm.,8235,4,Villa,85,1934,
+Illebøllevej 18 5900 Rudkøbing,18,581607.0,01-09-2003,Alm.,5435,4,Stuehus,107,1900,
+Grønnegade 5 5900 Rudkøbing,5,515113.0,27-08-2003,Alm.,5538,3,Rækkehus,93,1870,
+Herslevvej 14 5900 Rudkøbing,14,255000.0,26-08-2003,Alm.,2550,4,Villa,100,1877,
+Ramsherred 85 5900 Rudkøbing,85,585000.0,24-08-2003,Alm.,5969,4,Rækkehus,98,1877,
+Humblevej 29 5900 Rudkøbing,29,500000.0,22-08-2003,Alm.,7246,3,Villa,69,1959,
+Bogøvej 6 5900 Rudkøbing,6,532268.0,21-08-2003,Alm.,6653,3,Villa,80,1972,
+Ramsherred 27 5900 Rudkøbing,27,471041.0,06-08-2003,Alm.,3463,5,Rækkehus,136,1880,
+Langøvej 29 5900 Rudkøbing,29,750000.0,03-08-2003,Andet,7211,4,Stuehus,104,1914,
+Hennetvedvej 36 5900 Rudkøbing,36,655250.0,24-07-2003,Alm.,5552,4,Villa,118,1890,
+Gyvelvænget 15 5900 Rudkøbing,15,97100.0,14-07-2003,Fam.,1213,4,Sommerhus,80,2003,
+Haugbøllevej 6 5900 Rudkøbing,6,793765.0,14-07-2003,Alm.,2834,10,Stuehus,280,1858,
+Johan Nielsens Vej 2 5900 Rudkøbing,2,450000.0,13-07-2003,Fam.,4736,4,Villa,95,1957,
+Hybenvænget 12 5900 Rudkøbing,12,440000.0,12-07-2003,Alm.,6376,2,Sommerhus,69,1953,
+Rolighedsvej 16 5900 Rudkøbing,16,496568.0,06-07-2003,Alm.,4555,4,Villa,109,1920,
+Spodsbjergvej 229 5900 Rudkøbing,229,850000.0,06-07-2003,Alm.,5629,4,Villa,151,1898,
+Peløkkevej 6 5900 Rudkøbing,6,366154.0,02-07-2003,Alm.,5547,3,Rækkehus,66,1877,
+Spodsbjergvej 27 5900 Rudkøbing,27,424475.0,30-06-2003,Auktion,3031,7,Villa,140,1900,
+Pilevænget 3 5900 Rudkøbing,3,895000.0,30-06-2003,Alm.,8364,6,Sommerhus,107,1976,
+Rue Villavej 6 5900 Rudkøbing,6,1040000.0,27-06-2003,Alm.,4463,7,Villa,233,1913,
+Spodsbjergvej 49 5900 Rudkøbing,49,800000.0,19-06-2003,Alm.,5095,6,Villa,157,1900,
+Ramsherred 65 5900 Rudkøbing,65,725000.0,19-06-2003,Alm.,8430,4,Rækkehus,86,1877,
+Sødalsvej 3 5900 Rudkøbing,3,386997.0,19-06-2003,Fam.,2449,5,Villa,158,1800,
+Snaremosevej 24 5900 Rudkøbing,24,465000.0,16-06-2003,Alm.,9117,1,Villa,51,1827,
+"Skudehavnen 1, 1 5900 Rudkøbing",1,800000.0,15-06-2003,Alm.,11594,3,Fritid,69,1989,
+Snaremosevej 28 5900 Rudkøbing,28,212008.0,15-06-2003,Alm.,1594,3,Villa,133,1937,
+Lønkildevej 5 5900 Rudkøbing,5,560000.0,11-06-2003,Alm.,4307,4,Villa,130,1970,
+Fuglsbøllevejen 50 5900 Rudkøbing,50,615000.0,10-06-2003,Alm.,4694,4,Villa,131,1971,
+Haverne 12 5900 Rudkøbing,12,1249000.0,06-06-2003,Alm.,7806,6,Villa,160,1982,
+Hannebjergvej 17 5900 Rudkøbing,17,291000.0,30-05-2003,Alm.,6466,2,Villa,45,1750,
+Kirkegade 5 5900 Rudkøbing,5,250000.0,25-05-2003,Alm.,2840,4,Villa,88,1900,
+Kibshavevej 13 5900 Rudkøbing,13,759406.0,23-05-2003,Alm.,6903,4,Villa,110,1963,
+Møllestræde 2 5900 Rudkøbing,2,175000.0,22-05-2003,Alm.,2243,3,Villa,78,1902,
+Bogøvej 3 5900 Rudkøbing,3,290000.0,14-05-2003,Alm.,4461,3,Villa,65,1930,
+Nørrebro 59 5900 Rudkøbing,59,525000.0,12-05-2003,Alm.,8203,2,Rækkehus,64,1880,
+Kulepilevej 13 5900 Rudkøbing,13,340738.0,12-05-2003,Andet,1437,6,Villa,237,1900,
+Bellevue 29 5900 Rudkøbing,29,635000.0,07-05-2003,Alm.,5934,5,Rækkehus,107,1890,
+Bækkebovej 2 5900 Rudkøbing,2,243640.0,06-05-2003,Auktion,1804,2,Villa,135,1915,
+Spodsbjergvej 124 5900 Rudkøbing,124,1243219.0,06-05-2003,Alm.,3229,10,Villa,385,1906,
+Longelsevej 55 5900 Rudkøbing,55,400000.0,01-05-2003,Alm.,2531,7,Villa,158,1940,
+Hybenvænget 5 5900 Rudkøbing,5,480000.0,01-05-2003,Alm.,7868,3,Sommerhus,61,1978,
+Longelsevej 27 5900 Rudkøbing,27,390000.0,24-04-2003,Alm.,2826,3,Rækkehus,138,1827,
+Nordre Landevej 14 5900 Rudkøbing,14,412500.0,03-04-2003,Alm.,1858,6,Villa,222,1974,
+Rue 27 5900 Rudkøbing,27,1243204.0,31-03-2003,Fam.,9277,5,Villa,134,1959,
+Kragholmvej 34 5900 Rudkøbing,34,745000.0,25-03-2003,Alm.,5866,5,Villa,127,1877,
+Kildemosevej 5 5900 Rudkøbing,5,300000.0,20-03-2003,Fam.,1639,5,Villa,183,1827,
+Spodsbjergvej 321 5900 Rudkøbing,321,440000.0,19-03-2003,Fam.,3464,5,Villa,127,1910,
+Ramsherred 15 5900 Rudkøbing,15,380000.0,11-03-2003,Alm.,4810,3,Rækkehus,79,1917,
+Torpevej 14 5900 Rudkøbing,14,455000.0,10-03-2003,Alm.,2309,4,Villa,197,1875,
+Sidsel Bagers Gade 18 5900 Rudkøbing,18,687500.0,08-03-2003,Alm.,4092,6,Rækkehus,168,1852,
+Mads Langes Vej 6 5900 Rudkøbing,6,1000000.0,06-03-2003,Alm.,5263,7,Villa,190,1973,
+Gartnervænget 10 5900 Rudkøbing,10,325000.0,06-03-2003,Alm.,5909,2,Rækkehus,55,1970,
+Statenevej 8 5900 Rudkøbing,8,490733.0,04-03-2003,Alm.,4055,6,Stuehus,121,1900,
+Kirkegade 8 5900 Rudkøbing,8,650000.0,03-03-2003,Alm.,3250,10,Villa,200,1925,
+Bregnevej 8 5900 Rudkøbing,8,750000.0,26-02-2003,Alm.,6410,4,Villa,117,1978,
+Krogsbjergvej 19 5900 Rudkøbing,19,816000.0,20-02-2003,Alm.,5746,5,Villa,142,1901,
+Hjelmbjergvej 6 5900 Rudkøbing,6,1370000.0,04-02-2003,Alm.,8562,4,Stuehus,160,1897,
+Peløkkevej 72 5900 Rudkøbing,72,750000.0,03-02-2003,Alm.,7009,5,Villa,107,1963,
+Haugbøllevej 3 5900 Rudkøbing,3,650000.0,30-01-2003,Alm.,4248,5,Villa,153,1870,
+Rue Villavej 1 5900 Rudkøbing,1,812000.0,28-01-2003,Alm.,4981,5,Villa,163,1905,
+Spodsbjergvej 25 5900 Rudkøbing,25,342000.0,27-01-2003,Alm.,2923,4,Rækkehus,117,1885,
+Kibshavevej 21 5900 Rudkøbing,21,840000.0,17-01-2003,Alm.,6614,4,Villa,127,1972,
+Nørrebro 39 5900 Rudkøbing,39,375000.0,15-01-2003,Alm.,1884,8,Villa,199,1870,
+Spodsbjergvej 34 5900 Rudkøbing,34,795000.0,14-01-2003,Alm.,6973,4,Villa,114,1900,
+Halvmånen 5 5900 Rudkøbing,5,195000.0,07-01-2003,Alm.,1326,6,Villa,147,2003,
+Spodsbjergvej 193 5900 Rudkøbing,193,950000.0,18-12-2002,Alm.,4439,15,Landbrug,214,1885,
+Vindrosen 10 5900 Rudkøbing,10,1267000.0,09-12-2002,Alm.,8560,4,Villa,148,1977,
+Bønneløkkevej 1 5900 Rudkøbing,1,1598778.0,09-12-2002,Alm.,6220,11,Villa,257,1962,
+Klæsøvej 1 5900 Rudkøbing,1,515000.0,09-12-2002,Alm.,3576,4,Villa,144,1961,
+Banken 14 5900 Rudkøbing,14,675000.0,05-12-2002,Alm.,7336,5,Sommerhus,92,1978,
+Torpevej 12 5900 Rudkøbing,12,19450000.0,18-11-2002,Fam.,96287,5,Stuehus,202,1900,
+Grønnegaardsvej 5 5900 Rudkøbing,5,250000.0,14-11-2002,Alm.,2136,5,Villa,117,1938,
+Jens Winthers Vej 15 5900 Rudkøbing,15,950000.0,30-10-2002,Alm.,8715,3,Villa,109,1910,
+Humblevej 69 5900 Rudkøbing,69,275390.0,25-10-2002,Alm.,3129,3,Villa,88,1894,
+Drejet 2 5900 Rudkøbing,2,580000.0,12-10-2002,Alm.,6744,3,Sommerhus,86,1802,
+Spodsbjergvej 265 5900 Rudkøbing,265,285000.0,08-10-2002,Alm.,3750,1,Villa,76,1877,
+Gaasetorvet 6 5900 Rudkøbing,6,968000.0,27-09-2002,Alm.,6585,4,Villa,147,1846,
+Kirkegaardsvej 1 5900 Rudkøbing,1,620000.0,16-09-2002,Alm.,4881,5,Villa,127,1917,
+Solbakken 24 5900 Rudkøbing,24,552500.0,14-09-2002,Fam.,11755,3,Sommerhus,47,1950,
+Halvmånen 3 5900 Rudkøbing,3,195000.0,11-09-2002,Alm.,1326,5,Villa,147,2003,
+Ramsherred 46 5900 Rudkøbing,46,400000.0,05-09-2002,Alm.,2325,8,Villa,172,1870,
+Vindebyvej 25 5900 Rudkøbing,25,250000.0,04-09-2002,Fam.,2427,3,Villa,103,1877,
+Peløkkevej 70 5900 Rudkøbing,70,500000.0,26-08-2002,Alm.,4672,4,Villa,107,1962,
+Næbbevej 4 5900 Rudkøbing,4,695000.0,26-08-2002,Alm.,9391,2,Villa,74,1780,
+Bryggervej 7 5900 Rudkøbing,7,485000.0,19-08-2002,Andet,3391,4,Villa,143,1973,
+Jens Winthers Vej 3 5900 Rudkøbing,3,1100000.0,19-08-2002,Alm.,5392,4,Rækkehus,204,1911,
+Pilevænget 6 5900 Rudkøbing,6,578000.0,19-08-2002,Fam.,0,4,Sommerhus,98,1984,
+Sølyst 32 5900 Rudkøbing,32,467500.0,18-08-2002,Alm.,7420,4,Sommerhus,63,1972,
+Nørrebro 168 5900 Rudkøbing,168,520000.0,12-08-2002,Alm.,5714,3,Rækkehus,91,1910,
+"Ørstedsgade 2, 1 5900 Rudkøbing",1,850000.0,09-08-2002,Alm.,4569,7,Anden beboelse,186,1920,
+Rue 13 5900 Rudkøbing,13,355000.0,13-07-2002,Alm.,4127,3,Rækkehus,86,1900,
+Nørrebro 54 5900 Rudkøbing,54,240000.0,11-07-2002,Alm.,4000,3,Rækkehus,60,1877,
+Langegade 27 5900 Rudkøbing,27,450000.0,17-06-2002,Alm.,5000,3,Villa,90,1889,
+Vævergyden 9 5900 Rudkøbing,9,683000.0,12-06-2002,Alm.,3520,6,Villa,194,1977,
+Strandlystvej 15 5900 Rudkøbing,15,685000.0,12-06-2002,Alm.,5150,4,Villa,133,1934,
+"Østergade 3, 1 5900 Rudkøbing",1,800000.0,11-06-2002,Alm.,5228,6,Rækkehus,153,1900,
+Nordre Landevej 34 5900 Rudkøbing,34,1265000.0,31-05-2002,Alm.,4015,12,Villa,315,1857,
+Søndre Landevej 19 5900 Rudkøbing,19,520000.0,28-05-2002,Alm.,3687,6,Villa,141,1877,
+Klintevej 3 5900 Rudkøbing,3,415001.0,27-05-2002,Alm.,3192,3,Villa,130,1934,
+Rifbjerg Udflytter 15 5900 Rudkøbing,15,395000.0,26-05-2002,Alm.,4438,4,Stuehus,89,1878,
+Hannebjergvej 1 5900 Rudkøbing,1,986000.0,23-05-2002,Alm.,8016,6,Villa,123,1850,
+Statenevej 12 5900 Rudkøbing,12,1088000.0,20-05-2002,Alm.,6400,4,Stuehus,170,1900,
+Rue Villavej 5 5900 Rudkøbing,5,750000.0,13-05-2002,Alm.,6696,5,Villa,112,1908,
+Ravnerydvej 7 5900 Rudkøbing,7,860000.0,13-05-2002,Alm.,8958,8,Villa,96,1877,
+Nørrebro 190A 5900 Rudkøbing,0,695000.0,13-05-2002,Alm.,0,4,Døgninstitution,165,1945,
+Bogøvej 14 5900 Rudkøbing,14,1700000.0,07-05-2002,Alm.,7327,8,Stuehus,232,1933,
+Strandbakken 10 5900 Rudkøbing,10,550000.0,06-05-2002,Alm.,5045,7,Villa,109,1950,
+Bøgehave Stræde 4 5900 Rudkøbing,4,1222443.0,06-05-2002,Alm.,6985,7,Villa,175,1898,
+Havnegade 116 5900 Rudkøbing,116,699000.0,04-05-2002,Alm.,5682,4,Villa,123,1925,
+Spangevej 22 5900 Rudkøbing,22,295000.0,01-05-2002,Andet,2892,2,Villa,102,1936,
+Solbakken 11 5900 Rudkøbing,11,127500.0,28-04-2002,Fam.,2833,2,Sommerhus,45,1942,
+Nørrebro 70 5900 Rudkøbing,70,1225000.0,25-04-2002,Alm.,8333,4,Villa,147,1904,
+Bækkebovej 6 5900 Rudkøbing,6,1000000.0,24-04-2002,Alm.,0,6,Stuehus,183,1945,
+Simmerbølle Kirkevej 13 5900 Rudkøbing,13,377228.0,16-04-2002,Alm.,2167,4,Villa,174,1890,
+Østerled 4 5900 Rudkøbing,4,527500.0,15-04-2002,Alm.,3338,6,Villa,158,1937,
+Pederstrupvej 39 5900 Rudkøbing,39,850000.0,05-04-2002,Fam.,4748,5,Rækkehus,179,1908,
+Gartnervænget 2 5900 Rudkøbing,2,360000.0,25-03-2002,Alm.,6545,2,Rækkehus,55,1970,
+Møllemosevej 1 5900 Rudkøbing,1,380000.0,21-03-2002,Alm.,4470,3,Villa,85,1890,
+Søndre Landevej 41 5900 Rudkøbing,41,395000.0,21-03-2002,Alm.,4340,3,Villa,91,1951,
+Skrøbelev Kirkevej 8 5900 Rudkøbing,8,691640.0,17-03-2002,Alm.,7436,3,Villa,93,1959,
+Pederstrupvej 37 5900 Rudkøbing,37,600000.0,11-03-2002,Alm.,4878,4,Villa,123,1897,
+Drejet 4 5900 Rudkøbing,4,919000.0,10-03-2002,Alm.,0,5,Sommerhus,78,1973,
+Peløkkevej 86 5900 Rudkøbing,86,600000.0,07-03-2002,Fam.,4545,5,Villa,132,1964,
+Peløkkevej 66 5900 Rudkøbing,66,600000.0,06-03-2002,Alm.,5309,5,Villa,113,1962,
+Schnohrsvej 32 5900 Rudkøbing,32,552500.0,25-02-2002,Fam.,4062,4,Villa,136,1971,
+Rifbjerg Udflytter 7 5900 Rudkøbing,7,267383.0,25-02-2002,Alm.,2522,3,Villa,106,1887,
+Ramsherred 53 5900 Rudkøbing,53,211500.0,13-02-2002,Fam.,2548,4,Rækkehus,83,1833,
+Statenevej 7 5900 Rudkøbing,7,163843.0,11-02-2002,Alm.,1449,3,Villa,113,1893,
+Statenevej 16 5900 Rudkøbing,16,6875000.0,05-02-2002,Alm.,40204,5,Stuehus,171,1935,
+Grønnegade 17 5900 Rudkøbing,17,955444.0,05-02-2002,Alm.,6327,4,Rækkehus,151,1777,
+Hine Møllevej 5 5900 Rudkøbing,5,995000.0,04-02-2002,Alm.,7653,4,Villa,130,1978,
+Sommerlyst 32 5900 Rudkøbing,32,767000.0,31-01-2002,Alm.,7519,4,Villa,102,1947,
+Vindebyvej 6 5900 Rudkøbing,6,848459.0,09-01-2002,Alm.,3340,7,Stuehus,254,1827,
+Herslevvej 35 5900 Rudkøbing,35,2400000.0,07-01-2002,Fam.,10300,7,Stuehus,233,1930,
+Kragholmvej 32 5900 Rudkøbing,32,300000.0,21-12-2001,Alm.,3750,4,Villa,80,1880,
+Sønderskovvej 1 5900 Rudkøbing,1,462500.0,21-12-2001,Fam.,3425,3,Villa,135,1944,
+Langegade 12 5900 Rudkøbing,12,300000.0,19-12-2001,Fam.,2564,6,Villa,117,1870,
+Spodsbjergvej 231 5900 Rudkøbing,231,5703528.0,19-12-2001,Fam.,18823,8,Stuehus,303,1877,
+Statenevej 17 5900 Rudkøbing,17,389527.0,18-12-2001,Alm.,3219,4,Villa,121,1910,
+"Østergade 63, 2 5900 Rudkøbing",2,383000.0,03-12-2001,Fam.,2536,5,Lejlighed,151,1962,
+Kulepilevej 37 5900 Rudkøbing,37,775000.0,27-11-2001,Alm.,4479,8,Villa,173,1806,
+Drejet 12 5900 Rudkøbing,12,285000.0,24-11-2001,Fam.,5089,3,Sommerhus,56,2009,
+Nørrebro 102 5900 Rudkøbing,102,465000.0,22-11-2001,Alm.,3444,4,Villa,135,1912,
+Hennetvedvej 3 5900 Rudkøbing,3,210000.0,22-11-2001,Alm.,2258,3,Villa,93,1890,
+Nørrebro 211 5900 Rudkøbing,211,850000.0,20-11-2001,Alm.,5414,5,Villa,157,1931,
+"Skudehavnen 59, ST 5900 Rudkøbing",0,810000.0,19-11-2001,Alm.,12089,3,Fritid,67,1989,
+Hjelmbjergvej 3 5900 Rudkøbing,3,475000.0,08-11-2001,Fam.,14393,1,Sommerhus,33,1997,
+Spodsbjergvej 163 5900 Rudkøbing,163,400000.0,08-11-2001,Alm.,3125,5,Villa,128,1930,
+Ravnerydvej 5 5900 Rudkøbing,5,425000.0,31-10-2001,Alm.,5120,3,Villa,83,1876,
+Ramsherred 3 5900 Rudkøbing,3,695000.0,22-10-2001,Alm.,6747,3,Rækkehus,103,1803,
+Pederstrupvej 16N 5900 Rudkøbing,0,885000.0,22-10-2001,Alm.,5462,6,Villa,162,1973,
+Vindrosen 4 5900 Rudkøbing,4,895000.0,15-10-2001,Alm.,6780,4,Villa,132,1976,
+Bogøvej 5 5900 Rudkøbing,5,200000.0,10-10-2001,Fam.,1869,4,Villa,107,1917,
+Skovbakken 2 5900 Rudkøbing,2,652069.0,01-10-2001,Alm.,6792,5,Villa,96,1949,
+Halvmånen 1 5900 Rudkøbing,1,205000.0,30-09-2001,Alm.,1242,5,Villa,165,2002,
+Mads Langes Vej 5 5900 Rudkøbing,5,1401000.0,26-09-2001,Alm.,6064,6,Villa,231,1969,
+Strandgade 18 5900 Rudkøbing,18,331500.0,24-09-2001,Fam.,3854,4,Rækkehus,86,1841,
+Vindebyvej 24 5900 Rudkøbing,24,428588.0,19-09-2001,Alm.,3542,4,Villa,121,1942,
+Søndre Landevej 55 5900 Rudkøbing,55,332630.0,10-09-2001,Andet,2247,5,Villa,148,1914,
+Havgaardsvej 1 5900 Rudkøbing,1,272000.0,10-09-2001,Fam.,3090,4,Sommerhus,88,1880,
+Spangevej 25 5900 Rudkøbing,25,665644.0,07-09-2001,Alm.,7740,4,Villa,86,1960,
+Jens Winthers Vej 33 5900 Rudkøbing,33,900000.0,03-09-2001,Alm.,4838,7,Villa,186,1932,
+Vindebyvej 37 5900 Rudkøbing,37,290001.0,31-08-2001,Alm.,3815,2,Villa,76,1850,
+Nordre Landevej 38 5900 Rudkøbing,38,586339.0,30-08-2001,Alm.,4968,3,Villa,118,1934,
+Skovsbovej 22 5900 Rudkøbing,22,450000.0,27-08-2001,Alm.,1584,8,Stuehus,284,1911,
+Spodsbjergvej 63 5900 Rudkøbing,63,650000.0,23-08-2001,Alm.,7558,2,Rækkehus,86,1890,
+Gyden 3 5900 Rudkøbing,3,335000.0,23-08-2001,Alm.,2106,5,Villa,159,1880,
+Byvej 15 5900 Rudkøbing,15,286750.0,31-07-2001,Alm.,2583,2,Villa,111,1877,
+Platanvej 19 5900 Rudkøbing,19,970000.0,25-07-2001,Alm.,4369,7,Villa,222,1912,
+Skrøbelev Kirkevej 14 5900 Rudkøbing,14,777000.0,25-07-2001,Alm.,5045,5,Villa,154,1964,
+Bakkevænget 7 5900 Rudkøbing,7,893000.0,17-07-2001,Alm.,5132,4,Villa,174,1975,
+Peløkkevej 69 5900 Rudkøbing,69,877949.0,05-07-2001,Alm.,7838,3,Villa,112,1961,
+Halvmånen 2 5900 Rudkøbing,2,205000.0,29-06-2001,Alm.,1385,4,Villa,148,2003,
+Statenevej 2 5900 Rudkøbing,2,230000.0,26-06-2001,Fam.,1619,4,Villa,142,1910,
+Kibshavevej 11 5900 Rudkøbing,11,585000.0,22-06-2001,Alm.,5735,4,Villa,102,1964,
+Porsevænget 6 5900 Rudkøbing,6,459000.0,19-06-2001,Fam.,6375,4,Sommerhus,72,1969,
+Sølyst 21 5900 Rudkøbing,21,629000.0,19-06-2001,Fam.,7488,4,Sommerhus,84,1991,
+Nordre Landevej 24 5900 Rudkøbing,24,589518.0,17-06-2001,Alm.,5458,4,Villa,108,1939,
+Skrøbelev Hedevej 19 5900 Rudkøbing,19,1650000.0,11-06-2001,Fam.,5045,9,Stuehus,327,1870,
+Ellehaven 4 5900 Rudkøbing,4,1150000.0,07-06-2001,Alm.,7012,4,Villa,164,1977,
+Longelsevej 2 5900 Rudkøbing,2,290000.0,28-05-2001,Alm.,1086,6,Stuehus,267,1850,
+Pederstrupvej 18 5900 Rudkøbing,18,1070000.0,22-05-2001,Alm.,5350,7,Villa,200,1976,
+Hennetvedvej 20 5900 Rudkøbing,20,363000.0,21-05-2001,Alm.,3184,5,Villa,114,1827,
+Spodsbjergvej 54A 5900 Rudkøbing,0,416862.0,16-05-2001,Alm.,4631,3,Villa,90,1915,
+Ramsherred 45 5900 Rudkøbing,45,575000.0,14-05-2001,Alm.,6052,4,Rækkehus,95,1850,
+Strandbakken 20 5900 Rudkøbing,20,1800000.0,14-05-2001,Alm.,6360,8,Villa,283,1967,
+Havnegade 96 5900 Rudkøbing,96,850274.0,10-05-2001,Alm.,5706,6,Villa,149,1907,
+Guldborgvej 2 5900 Rudkøbing,2,2252500.0,26-04-2001,Fam.,8044,7,Stuehus,280,1924,
+Blandebjerg 13 5900 Rudkøbing,13,610000.0,12-04-2001,Alm.,4919,6,Villa,124,1890,
+Sølyst 29 5900 Rudkøbing,29,570000.0,05-04-2001,Fam.,6951,4,Sommerhus,82,1971,
+Bogøvej 19 5900 Rudkøbing,19,557100.0,05-04-2001,Alm.,5803,4,Villa,96,1924,
+Strandlystvej 3 5900 Rudkøbing,3,750000.0,31-03-2001,Alm.,6465,6,Rækkehus,116,1978,
+Søvertorpvej 5 5900 Rudkøbing,5,595000.0,28-03-2001,Fam.,5312,2,Villa,112,1700,
+Polleholmsvej 1 5900 Rudkøbing,1,2012891.0,16-03-2001,Alm.,8828,6,Stuehus,228,1877,
+Assemose 2 5900 Rudkøbing,2,1500000.0,13-03-2001,Alm.,7812,4,Stuehus,192,1932,
+Søndre Landevej 1 5900 Rudkøbing,1,406960.0,07-03-2001,Alm.,3733,3,Villa,109,1870,
+Humblevej 49 5900 Rudkøbing,49,280366.0,01-03-2001,Alm.,3222,2,Villa,87,1900,
+Spodsbjergvej 287 5900 Rudkøbing,287,75000.0,19-02-2001,Alm.,882,4,Stuehus,85,1870,
+Ravnerydvej 3 5900 Rudkøbing,3,490000.0,19-02-2001,Alm.,3888,4,Villa,126,1777,
+Blandebjerg 7 5900 Rudkøbing,7,424096.0,22-01-2001,Alm.,2465,6,Villa,172,1955,
+Drejet 61 5900 Rudkøbing,61,800000.0,17-01-2001,Fam.,11428,3,Stuehus,70,1835,
+Vindebyvej 34 5900 Rudkøbing,34,950000.0,08-01-2001,Alm.,3769,6,Villa,252,1905,
+"Skudehavnen 5, 1 5900 Rudkøbing",1,220557.0,08-01-2001,Fam.,3291,3,Fritid,67,1989,
+Fuglsbøllevejen 25 5900 Rudkøbing,25,265000.0,28-12-2000,Alm.,3354,3,Rækkehus,79,1857,
+Drejet 50 5900 Rudkøbing,50,790000.0,19-12-2000,Alm.,8061,4,Sommerhus,98,1973,
+Møllemosevej 19 5900 Rudkøbing,19,214115.0,15-12-2000,Alm.,1964,3,Villa,109,1900,
+Haverne 7 5900 Rudkøbing,7,945000.0,12-12-2000,Alm.,8289,4,Villa,114,1980,
+Langegade 6 5900 Rudkøbing,6,381302.0,11-12-2000,Alm.,2933,4,Villa,130,1892,
+Spodsbjergvej 257 5900 Rudkøbing,257,325000.0,10-12-2000,Alm.,1710,5,Villa,190,1923,
+Krogsbjergvej 11 5900 Rudkøbing,11,645000.0,06-12-2000,Alm.,4886,5,Villa,132,1958,
+Rolighedsvej 22 5900 Rudkøbing,22,661537.0,27-11-2000,Alm.,5802,5,Villa,114,1929,
+Simmerbølle Kirkevej 8 5900 Rudkøbing,8,450000.0,19-11-2000,Alm.,2812,4,Villa,160,1960,
+Spodsbjergvej 54B 5900 Rudkøbing,0,387810.0,13-11-2000,Alm.,4672,2,Rækkehus,83,1890,
+Kragholmvej 12 5900 Rudkøbing,12,226382.0,03-11-2000,Andet,2076,5,Villa,109,1827,
+Hennetvedvej 4 5900 Rudkøbing,4,425000.0,30-10-2000,Alm.,2623,5,Villa,162,1903,
+Bellevue 45 5900 Rudkøbing,45,575043.0,28-10-2000,Alm.,6250,3,Rækkehus,92,1899,
+Næbbevej 8 5900 Rudkøbing,8,1065000.0,27-10-2000,Alm.,5120,7,Villa,208,1896,
+Herslevvej 2 5900 Rudkøbing,2,1344562.0,19-10-2000,Alm.,6495,6,Stuehus,207,1897,
+Vindebyvej 35 5900 Rudkøbing,35,313817.0,16-10-2000,Alm.,2728,3,Villa,115,1938,
+Blandebjerg 2 5900 Rudkøbing,2,770000.0,16-10-2000,Alm.,6525,8,Stuehus,118,1937,
+Spodsbjergvej 14 5900 Rudkøbing,14,187500.0,12-10-2000,Alm.,2083,2,Rækkehus,90,1877,
+Søvejen 1 5900 Rudkøbing,1,669000.0,09-10-2000,Alm.,6826,4,Villa,98,1927,
+Solbakken 14 5900 Rudkøbing,14,810000.0,05-10-2000,Alm.,10253,4,Sommerhus,79,1973,
+Nørrebro 86A 5900 Rudkøbing,0,515393.0,02-10-2000,Alm.,5153,6,Rækkehus,100,1920,
+Byskrivervej 5 5900 Rudkøbing,5,750000.0,29-09-2000,Alm.,0,3,Villa,94,1971,
+Fredensvej 10 5900 Rudkøbing,10,990828.0,27-09-2000,Alm.,5107,10,Villa,194,1952,
+Kastanievej 17 5900 Rudkøbing,17,755120.0,17-09-2000,Alm.,6089,5,Villa,124,1912,
+Gyvelvænget 4 5900 Rudkøbing,4,660000.0,13-09-2000,Alm.,10153,3,Sommerhus,65,1985,
+Pederstrupvej 30 5900 Rudkøbing,30,1241000.0,11-09-2000,Alm.,5372,6,Villa,231,1968,
+Næbbevej 2 5900 Rudkøbing,2,2500000.0,01-09-2000,Alm.,16129,6,Stuehus,155,1930,
+Teglbakken 10 5900 Rudkøbing,10,763254.0,30-08-2000,Alm.,6256,4,Villa,122,1934,
+Rifbjerg Strand 16 5900 Rudkøbing,16,794539.0,18-08-2000,Alm.,0,4,Villa,185,1877,
+Sønderskovvej 15C 5900 Rudkøbing,0,525000.0,17-08-2000,Alm.,5198,3,Villa,101,1968,
+Langøvej 15 5900 Rudkøbing,15,1575000.0,10-08-2000,Alm.,7258,7,Villa,217,1983,
+Spodsbjergvej 130 5900 Rudkøbing,130,594000.0,07-08-2000,Alm.,3473,6,Villa,171,1912,
+Jens Winthers Vej 24 5900 Rudkøbing,24,430000.0,03-08-2000,Alm.,4215,2,Villa,102,1890,
+Sødalsvej 4 5900 Rudkøbing,4,350000.0,31-07-2000,Alm.,1282,8,Villa,273,1912,
+Kildemosevej 21 5900 Rudkøbing,21,352795.0,25-07-2000,Alm.,3963,4,Villa,89,1942,
+Spodsbjergvej 53 5900 Rudkøbing,53,525000.0,25-07-2000,Alm.,4200,4,Rækkehus,125,1901,
+Pederstrupvej 23 5900 Rudkøbing,23,1750000.0,14-07-2000,Alm.,8578,7,Stuehus,204,1900,
+Spodsbjergvej 161 5900 Rudkøbing,161,486420.0,13-07-2000,Alm.,4229,5,Villa,115,1957,
+"Østergade 18, 1 5900 Rudkøbing",1,625000.0,12-07-2000,Alm.,10245,1,Lejlighed,61,1903,
+Humblevej 35 5900 Rudkøbing,35,610732.0,11-07-2000,Alm.,3793,5,Rækkehus,161,1770,
+Spodsbjergvej 247 5900 Rudkøbing,247,637500.0,10-07-2000,Alm.,4250,3,Villa,150,2004,
+Fuglsbøllevejen 12 5900 Rudkøbing,12,458000.0,26-06-2000,Alm.,3634,5,Villa,126,1897,
+Gyvelvænget 2 5900 Rudkøbing,2,647000.0,20-06-2000,Alm.,9376,4,Sommerhus,69,1978,
+Nordre Landevej 51 5900 Rudkøbing,51,430000.0,19-06-2000,Alm.,4174,3,Villa,103,1926,
+Spodsbjergvej 177 5900 Rudkøbing,177,242250.0,14-06-2000,Fam.,2035,4,Villa,119,1961,
+Spangevej 13 5900 Rudkøbing,13,625000.0,12-06-2000,Alm.,5482,4,Villa,114,1944,
+Strandgade 16 5900 Rudkøbing,16,646000.0,09-06-2000,Fam.,5617,4,Rækkehus,115,1887,
+Reberbanen 19 5900 Rudkøbing,19,564435.0,08-06-2000,Alm.,4588,5,Rækkehus,123,1900,
+Næbbevej 10 5900 Rudkøbing,10,633483.0,02-06-2000,Alm.,0,5,Villa,146,1900,
+Fiskervænget 12 5900 Rudkøbing,12,728000.0,26-05-2000,Alm.,6558,3,Villa,111,1982,
+Kildemosevej 11 5900 Rudkøbing,11,680000.0,26-05-2000,Alm.,4358,5,Villa,156,1877,
+Vindebyvej 22 5900 Rudkøbing,22,339000.0,20-05-2000,Alm.,3228,3,Villa,105,1827,
+Lindevej 4 5900 Rudkøbing,4,815000.0,14-05-2000,Alm.,5397,5,Villa,151,1909,
+Lindevej 3 5900 Rudkøbing,3,1095000.0,12-05-2000,Alm.,6293,6,Villa,174,1951,
+Humblevej 31 5900 Rudkøbing,31,670237.0,05-05-2000,Alm.,7703,3,Villa,87,1956,
+Teglbakken 14 5900 Rudkøbing,14,701576.0,03-05-2000,Alm.,6436,4,Villa,109,1929,
+Egevænget 18 5900 Rudkøbing,18,966396.0,28-04-2000,Alm.,13805,4,Sommerhus,70,1985,
+Sølyst 13 5900 Rudkøbing,13,545000.0,12-04-2000,Alm.,8384,3,Sommerhus,65,1968,
+Fuglsbøllevejen 2 5900 Rudkøbing,2,266000.0,04-04-2000,Alm.,2440,5,Villa,109,1922,
+Elnegaardsvænget 3 5900 Rudkøbing,3,673000.0,30-03-2000,Alm.,6938,4,Villa,97,1966,
+Kirkegade 13 5900 Rudkøbing,13,665564.0,22-03-2000,Alm.,4558,7,Villa,146,1897,
+Hennetvedvej 19 5900 Rudkøbing,19,265000.0,21-03-2000,Alm.,3732,3,Villa,71,1827,
+Spodsbjergvej 255 5900 Rudkøbing,255,540000.0,21-03-2000,Alm.,4000,5,Villa,135,1900,
+Ramsherred 72 5900 Rudkøbing,72,614225.0,16-03-2000,Alm.,9749,4,Villa,63,1877,
+Peløkkevej 54 5900 Rudkøbing,54,928547.0,09-03-2000,Alm.,4421,6,Villa,210,1900,
+Udsigten 5 5900 Rudkøbing,5,895000.0,28-02-2000,Alm.,10529,4,Sommerhus,85,1999,
+Longelsevej 49 5900 Rudkøbing,49,470580.0,23-02-2000,Alm.,2516,5,Villa,187,1944,
+Rosenvænget 17 5900 Rudkøbing,17,700000.0,07-02-2000,Alm.,6730,4,Villa,104,1962,
+Gartnervænget 14 5900 Rudkøbing,14,359234.0,27-01-2000,Alm.,6531,2,Rækkehus,55,1970,
+Haugbøllevej 5 5900 Rudkøbing,5,290142.0,22-01-2000,Fam.,1727,4,Villa,168,1866,
+Østergade 47 5900 Rudkøbing,47,565000.0,17-01-2000,Alm.,7957,4,Rækkehus,71,1900,
+Longelsevej 71 5900 Rudkøbing,71,324519.0,15-01-2000,Alm.,2617,4,Villa,124,1949,
+Solbakken 17 5900 Rudkøbing,17,600000.0,11-01-2000,Fam.,3314,4,Sommerhus,181,1999,
+Strandløkken 17 5900 Rudkøbing,17,711242.0,01-01-2000,Alm.,8467,3,Rækkehus,84,1944,
+Statenevej 11 5900 Rudkøbing,11,550634.0,29-12-1999,Alm.,5561,5,Villa,99,1900,
+Haverne 14 5900 Rudkøbing,14,1030000.0,21-12-1999,Alm.,9035,4,Villa,114,1980,
+Peløkkevej 32 5900 Rudkøbing,32,764000.0,21-12-1999,Alm.,4745,5,Villa,161,1963,
+Humblevej 7 5900 Rudkøbing,7,551386.0,18-12-1999,Alm.,3362,6,Villa,164,1890,
+Sølyst 26 5900 Rudkøbing,26,600000.0,18-12-1999,Alm.,7792,4,Sommerhus,77,1968,
+Rifbjerg Udflytter 12 5900 Rudkøbing,12,861416.0,10-12-1999,Alm.,4533,7,Villa,190,1860,
+Ramsherred 40 5900 Rudkøbing,40,450000.0,03-12-1999,Alm.,5172,3,Rækkehus,87,1798,
+Udsigten 6 5900 Rudkøbing,6,1001000.0,30-11-1999,Alm.,9268,5,Sommerhus,108,1997,
+Ramsherred 16 5900 Rudkøbing,16,410000.0,19-11-1999,Alm.,5324,3,Rækkehus,77,1896,
+Solbakken 13 5900 Rudkøbing,13,650000.0,19-11-1999,Alm.,0,6,Sommerhus,79,1935,
+Gillesbjergvej 8 5900 Rudkøbing,8,382500.0,16-11-1999,Fam.,0,7,Stuehus,128,1863,
+Lindevej 11 5900 Rudkøbing,11,865000.0,15-11-1999,Alm.,3760,8,Villa,230,1933,
+Planken 18 5900 Rudkøbing,18,1400000.0,07-11-1999,Alm.,10526,4,Villa,133,1999,
+Vesterbyvej 3 5900 Rudkøbing,3,600000.0,02-11-1999,Alm.,3296,5,Villa,182,1912,
+Haugbøllevej 8 5900 Rudkøbing,8,2150000.0,01-11-1999,Fam.,10487,8,Stuehus,205,1860,
+Sylen 3 5900 Rudkøbing,3,1100000.0,01-11-1999,Alm.,9565,4,Villa,115,1996,
+Torpevej 5 5900 Rudkøbing,5,291019.0,17-10-1999,Fam.,1341,7,Villa,217,1859,
+Østerled 9 5900 Rudkøbing,9,709168.0,15-10-1999,Alm.,3939,6,Villa,180,1910,
+Kildemosevej 9 5900 Rudkøbing,9,280500.0,11-10-1999,Fam.,2750,4,Villa,102,1827,
+Egevænget 21 5900 Rudkøbing,21,566667.0,09-10-1999,Fam.,5151,4,Sommerhus,110,1974,
+Birkevænget 3 5900 Rudkøbing,3,794946.0,17-09-1999,Alm.,8367,4,Villa,95,1971,
+Skovsbovej 20 5900 Rudkøbing,20,680000.0,01-09-1999,Alm.,3675,6,Villa,185,1864,
+Fiskervænget 14 5900 Rudkøbing,14,950000.0,27-08-1999,Alm.,6129,5,Villa,155,1977,
+Kirkegaardsvej 24 5900 Rudkøbing,24,315241.0,26-08-1999,Alm.,3623,3,Rækkehus,87,1902,
+Sølyst 28 5900 Rudkøbing,28,595000.0,23-08-1999,Alm.,7345,4,Sommerhus,81,1971,
+Torpevej 20 5900 Rudkøbing,20,550000.0,20-08-1999,Alm.,4545,5,Villa,121,1923,
+Kassebøllevej 15 5900 Rudkøbing,15,365000.0,17-08-1999,Alm.,2683,4,Stuehus,136,1830,
+Søvejen 11 5900 Rudkøbing,11,785000.0,16-08-1999,Alm.,3552,6,Villa,221,1852,
+Planken 1 5900 Rudkøbing,1,135000.0,12-08-1999,Alm.,1015,4,Villa,133,1999,
+Torpevej 8 5900 Rudkøbing,8,612500.0,08-08-1999,Fam.,2469,7,Stuehus,248,1905,
+Simmerbølle Kirkevej 15 5900 Rudkøbing,15,385000.0,27-07-1999,Alm.,3181,4,Villa,121,1884,
+Strandgade 40 5900 Rudkøbing,40,555000.0,23-07-1999,Alm.,6379,3,Rækkehus,87,1780,
+Langegade 8 5900 Rudkøbing,8,598609.0,20-07-1999,Alm.,3990,6,Villa,150,1905,
+Sølyst 42 5900 Rudkøbing,42,602668.0,19-07-1999,Alm.,8144,4,Sommerhus,74,1979,
+Solbakken 20 5900 Rudkøbing,20,671500.0,19-07-1999,Fam.,9326,3,Sommerhus,72,1973,
+Skovbakken 8 5900 Rudkøbing,8,650000.0,16-07-1999,Alm.,9027,3,Villa,72,1948,
+Byskrivervej 8 5900 Rudkøbing,8,950000.0,06-07-1999,Fam.,5864,5,Villa,162,1972,
+Rue 17 5900 Rudkøbing,17,396946.0,30-06-1999,Alm.,4410,3,Villa,90,1886,
+Fredskovvej 3 5900 Rudkøbing,3,520000.0,29-06-1999,Alm.,5048,2,Villa,103,1900,
+Statenevej 27 5900 Rudkøbing,27,469781.0,28-06-1999,Alm.,4349,4,Villa,108,1901,
+Langegade 29 5900 Rudkøbing,29,450000.0,24-06-1999,Alm.,3169,5,Villa,142,1928,
+Spodsbjergvej 197 5900 Rudkøbing,197,585373.0,21-06-1999,Alm.,4434,4,Villa,132,1888,
+Vestergårdsvej 21 5900 Rudkøbing,21,209000.0,20-06-1999,Alm.,1632,4,Villa,128,2001,
+Byskrivervej 6 5900 Rudkøbing,6,1050000.0,16-06-1999,Alm.,7191,6,Villa,146,1974,
+Spodsbjergvej 90 5900 Rudkøbing,90,890000.0,14-06-1999,Alm.,0,4,Villa,179,1932,
+Illebøllevej 2 5900 Rudkøbing,2,378525.0,04-06-1999,Alm.,4070,4,Villa,93,1952,
+Strandgade 44C 5900 Rudkøbing,0,405880.0,31-05-1999,Alm.,4141,4,Rækkehus,98,1902,
+Spodsbjergvej 65 5900 Rudkøbing,65,475000.0,24-05-1999,Alm.,6597,3,Rækkehus,72,1900,
+Schnohrsvej 20 5900 Rudkøbing,20,1019400.0,21-05-1999,Alm.,7607,5,Villa,134,1968,
+Humblevej 56 5900 Rudkøbing,56,425000.0,19-05-1999,Alm.,6746,3,Rækkehus,63,1920,
+Gillesbjergvej 14 5900 Rudkøbing,14,621963.0,18-05-1999,Alm.,4506,5,Villa,138,1948,
+Slaaenvænget 16 5900 Rudkøbing,16,827965.0,12-05-1999,Alm.,12544,4,Sommerhus,66,1988,
+Schnohrsvej 22 5900 Rudkøbing,22,1334000.0,03-05-1999,Alm.,6841,6,Villa,195,1974,
+Spangevej 5 5900 Rudkøbing,5,370000.0,26-04-1999,Fam.,4065,2,Villa,91,1956,
+Sidsel Bagers Gade 16 5900 Rudkøbing,16,636333.0,26-04-1999,Alm.,4820,3,Rækkehus,132,1877,
+Ramsherred 50 5900 Rudkøbing,50,492000.0,25-04-1999,Alm.,5857,2,Rækkehus,84,1877,
+"Østergade 63, 1. TH 5900 Rudkøbing",0,242500.0,19-04-1999,Alm.,4254,3,Lejlighed,57,1962,
+Humblevej 28 5900 Rudkøbing,28,266504.0,19-04-1999,Alm.,1788,3,Rækkehus,149,1950,
+Vævergyden 8 5900 Rudkøbing,8,412359.0,15-04-1999,Alm.,3272,4,Villa,126,1965,
+Langegade 4 5900 Rudkøbing,4,135000.0,15-04-1999,Alm.,1406,6,Villa,96,1827,
+Nordre Landevej 44 5900 Rudkøbing,44,576233.0,12-04-1999,Alm.,3311,4,Villa,174,1933,
+Humblevej 106C 5900 Rudkøbing,0,170000.0,29-03-1999,Alm.,696,6,Villa,244,2000,
+Egevænget 25 5900 Rudkøbing,25,1011000.0,29-03-1999,Alm.,14041,3,Sommerhus,72,1977,
+Strandgade 17 5900 Rudkøbing,17,294000.0,22-02-1999,Alm.,4523,2,Villa,65,1930,
+Grønnegade 11 5900 Rudkøbing,11,396438.0,19-02-1999,Alm.,2462,3,Rækkehus,161,1900,
+Rolighedsvej 19 5900 Rudkøbing,19,593215.0,16-02-1999,Alm.,6979,3,Villa,85,1915,
+Næbbevej 5 5900 Rudkøbing,5,488302.0,10-02-1999,Alm.,4359,5,Sommerhus,112,1850,
+Nørrebro 19 5900 Rudkøbing,19,468282.0,08-02-1999,Alm.,0,4,Lejlighed,185,1900,
+Nørrebro 82 5900 Rudkøbing,82,584067.0,01-02-1999,Alm.,7122,4,Villa,82,1927,
+Bellevue 49 5900 Rudkøbing,49,509000.0,01-02-1999,Alm.,6283,3,Villa,81,1900,
+Torpevej 1 5900 Rudkøbing,1,230000.0,22-01-1999,Alm.,737,6,Villa,312,1892,
+Illebøllevej 19 5900 Rudkøbing,19,1650000.0,04-01-1999,Alm.,7051,7,Stuehus,234,1854,
+Spodsbjergvej 72 5900 Rudkøbing,72,157500.0,17-12-1998,Alm.,1711,2,Rækkehus,92,1900,
+Spodsbjergvej 232 5900 Rudkøbing,232,310000.0,07-12-1998,Andet,6200,3,Sommerhus,50,1935,
+Humblevej 53 5900 Rudkøbing,53,350000.0,02-12-1998,Alm.,3888,4,Rækkehus,90,1890,
+Rifbjerg Strand 6 5900 Rudkøbing,6,854000.0,30-11-1998,Alm.,0,5,Stuehus,137,1860,
+Rue 21 5900 Rudkøbing,21,665000.0,23-11-1998,Alm.,4156,4,Rækkehus,160,1890,
+Spodsbjergvej 60 5900 Rudkøbing,60,390000.0,23-11-1998,Alm.,7647,3,Rækkehus,51,1880,
+Jens Winthers Vej 5 5900 Rudkøbing,5,695000.0,23-11-1998,Alm.,0,4,Rækkehus,130,1910,
+Peløkkevej 31 5900 Rudkøbing,31,460000.0,18-11-1998,Fam.,3357,5,Stuehus,137,1898,
+Krogsbjergvej 25 5900 Rudkøbing,25,497000.0,17-11-1998,Alm.,3380,4,Villa,147,1924,
+Bellevue 51 5900 Rudkøbing,51,405000.0,16-11-1998,Alm.,4764,3,Rækkehus,85,1917,
+Haugbøllevej 7 5900 Rudkøbing,7,200000.0,06-11-1998,Alm.,1666,4,Villa,120,1877,
+Viebæltet 92 5900 Rudkøbing,92,800000.0,28-10-1998,Alm.,6611,4,Villa,121,1967,
+Planken 12 5900 Rudkøbing,12,150000.0,12-10-1998,Alm.,0,5,Villa,149,1999,
+Lønkildevej 2 5900 Rudkøbing,2,711000.0,10-10-1998,Alm.,5688,8,Villa,125,1976,
+Ahlefeldtsgade 19 5900 Rudkøbing,19,309000.0,09-10-1998,Alm.,2686,5,Rækkehus,115,1910,
+Bothvej 3 5900 Rudkøbing,3,601000.0,01-10-1998,Alm.,8232,3,Villa,73,1981,
+Rue 6 5900 Rudkøbing,6,620000.0,28-09-1998,Alm.,6888,4,Villa,90,1961,
+Strandløkken 9 5900 Rudkøbing,9,1006800.0,28-09-1998,Alm.,7457,5,Villa,135,1938,
+Havnepladsen 2 5900 Rudkøbing,2,1142000.0,28-09-1998,Alm.,4568,8,Villa,250,1894,
+Søndre Landevej 31 5900 Rudkøbing,31,1234853.0,31-08-1998,Alm.,7966,5,Villa,155,1885,
+Ramsherred 89 5900 Rudkøbing,89,180000.0,31-08-1998,Alm.,0,7,Rækkehus,143,1877,
+Langegade 22 5900 Rudkøbing,22,475000.0,26-08-1998,Alm.,4241,4,Villa,112,1968,
+Spangevej 29 5900 Rudkøbing,29,1030000.0,25-08-1998,Fam.,6959,6,Stuehus,148,1902,
+Rosenvænget 6 5900 Rudkøbing,6,665000.0,14-08-1998,Alm.,6333,4,Villa,105,1961,
+Nørrebro 58 5900 Rudkøbing,58,368346.0,10-08-1998,Alm.,5262,2,Rækkehus,70,1841,
+Drejet 18 5900 Rudkøbing,18,565000.0,10-08-1998,Andet,7635,4,Sommerhus,74,1850,
+Sommerlyst 5 5900 Rudkøbing,5,800000.0,08-07-1998,Alm.,5369,4,Villa,149,1950,
+Gillesbjergvej 3 5900 Rudkøbing,3,500000.0,01-07-1998,Fam.,1858,6,Villa,269,1850,
+Mjølbyvej 5 5900 Rudkøbing,5,497261.0,29-06-1998,Alm.,4972,4,Villa,100,1877,
+Rue 37 5900 Rudkøbing,37,877000.0,26-06-1998,Alm.,5189,6,Villa,169,1925,
+Torpevej 23 5900 Rudkøbing,23,165000.0,21-06-1998,Alm.,371,11,Stuehus,444,1847,
+Ramsherred 5 5900 Rudkøbing,5,490000.0,18-06-1998,Alm.,3223,4,Rækkehus,152,1880,
+Hybenvænget 14 5900 Rudkøbing,14,728000.0,12-06-1998,Alm.,16177,2,Sommerhus,45,1955,
+Møllestræde 9 5900 Rudkøbing,9,322000.0,01-06-1998,Alm.,2576,5,Villa,125,1927,
+Mosevænget 24 5900 Rudkøbing,24,1311000.0,25-05-1998,Alm.,5675,7,Villa,231,1979,
+Spodsbjergvej 57 5900 Rudkøbing,57,530150.0,19-05-1998,Alm.,4174,5,Rækkehus,127,1900,
+Fuglsbøllevejen 22 5900 Rudkøbing,22,393000.0,19-05-1998,Alm.,0,3,Villa,118,1910,
+Rosenvænget 11 5900 Rudkøbing,11,800100.0,15-05-1998,Alm.,5556,5,Villa,144,1961,
+Peløkkevej 67 5900 Rudkøbing,67,289000.0,15-05-1998,Fam.,3211,3,Villa,90,1962,
+Udsigten 16 5900 Rudkøbing,16,203000.0,12-05-1998,Alm.,1353,6,Sommerhus,150,1999,
+Augløkkevej 4 5900 Rudkøbing,4,1800000.0,11-05-1998,Alm.,16363,4,Villa,110,1964,
+Vesterby Mark 9 5900 Rudkøbing,9,306000.0,11-05-1998,Fam.,2886,4,Villa,106,1827,
+Jens Winthers Vej 10 5900 Rudkøbing,10,815000.0,05-05-1998,Alm.,2910,9,Villa,280,1910,
+Langegade 16 5900 Rudkøbing,16,682240.0,05-05-1998,Alm.,4908,6,Lejlighed,139,1926,
+Strandbakken 12 5900 Rudkøbing,12,725000.0,04-05-1998,Alm.,6971,5,Villa,104,1953,
+Gyvelvænget 3 5900 Rudkøbing,3,485000.0,02-05-1998,Alm.,9150,3,Sommerhus,53,1962,
+Hennetvedvej 18 5900 Rudkøbing,18,270000.0,01-05-1998,Alm.,3648,2,Villa,74,1877,
+"Østergade 23, 1 5900 Rudkøbing",1,1475310.0,27-04-1998,Alm.,24588,3,Anden beboelse,60,1905,
+Kystvænget 12 5900 Rudkøbing,12,518500.0,27-04-1998,Fam.,3503,5,Villa,148,1968,
+Humblevej 5 5900 Rudkøbing,5,425000.0,08-04-1998,Alm.,4207,3,Villa,101,1906,
+Rævegade 12 5900 Rudkøbing,12,694000.0,08-04-1998,Alm.,4420,4,Villa,157,1907,
+Haverne 2 5900 Rudkøbing,2,175000.0,06-04-1998,Alm.,14583,1,Sommerhus,12,1968,
+Illebøllevej 14 5900 Rudkøbing,14,550000.0,06-04-1998,Alm.,6875,11,Industri o.l.,80,1952,
+Planken 5 5900 Rudkøbing,5,135000.0,30-03-1998,Alm.,1125,4,Villa,120,1998,
+Gaasetorvet 4 5900 Rudkøbing,4,587960.0,21-03-1998,Alm.,2305,13,Rækkehus,255,1897,
+Udsigten 9 5900 Rudkøbing,9,185000.0,04-03-1998,Alm.,2642,4,Sommerhus,70,1998,
+Påøvej 8 5900 Rudkøbing,8,1300000.0,04-03-1998,Alm.,7471,5,Stuehus,174,1895,
+Nørrebro 126 5900 Rudkøbing,126,650000.0,20-02-1998,Alm.,0,9,Rækkehus,243,1887,
+Rifbjergvej 10 5900 Rudkøbing,10,132947.0,19-02-1998,Alm.,1072,5,Villa,124,1920,
+Platanvej 15 5900 Rudkøbing,15,928000.0,14-02-1998,Alm.,5590,5,Villa,166,1920,
+Broløkken 3 5900 Rudkøbing,3,625000.0,09-02-1998,Alm.,5482,4,Villa,114,1965,
+Nørrebro 103 5900 Rudkøbing,103,408300.0,30-01-1998,Alm.,4253,3,Rækkehus,96,1920,
+Østergade 20 5900 Rudkøbing,20,400000.0,29-01-1998,Alm.,4938,5,Rækkehus,81,1903,
+Søndre Landevej 37 5900 Rudkøbing,37,126435.0,27-01-1998,Andet,1192,3,Villa,106,1950,
+Strandgade 6 5900 Rudkøbing,6,485000.0,22-01-1998,Alm.,0,7,Rækkehus,156,1827,
+Baragervej 7 5900 Rudkøbing,7,744769.0,19-01-1998,Fam.,5282,4,Stuehus,141,1923,
+Rosenvænget 21 5900 Rudkøbing,21,570000.0,12-01-1998,Alm.,7402,3,Rækkehus,77,1981,
+Kassebøllevej 1 5900 Rudkøbing,1,500000.0,29-12-1997,Alm.,3086,6,Villa,162,1898,
+Havnegade 106 5900 Rudkøbing,106,755280.0,22-12-1997,Alm.,4104,7,Rækkehus,184,1917,
+Nørrebro 112 5900 Rudkøbing,112,474000.0,18-12-1997,Alm.,5152,3,Rækkehus,92,1877,
+Nordre Landevej 53 5900 Rudkøbing,53,675000.0,09-12-1997,Alm.,4856,5,Villa,139,1912,
+Planken 3 5900 Rudkøbing,3,135000.0,30-11-1997,Alm.,1000,4,Villa,135,1998,
+Illebøllevej 22 5900 Rudkøbing,22,508000.0,25-11-1997,Alm.,5080,4,Villa,100,1982,
+Planken 14 5900 Rudkøbing,14,140000.0,25-11-1997,Alm.,1284,5,Villa,109,1998,
+Vesterby Mark 1 5900 Rudkøbing,1,361000.0,24-11-1997,Alm.,3923,4,Rækkehus,92,1877,
+Jens Winthers Vej 32 5900 Rudkøbing,32,681000.0,21-11-1997,Alm.,7168,4,Villa,95,1950,
+Slaaenvænget 14 5900 Rudkøbing,14,275000.0,19-11-1997,Fam.,4910,4,Sommerhus,56,1986,
+Vindebyvej 19 5900 Rudkøbing,19,222000.0,10-11-1997,Alm.,2522,4,Villa,88,1924,
+Humblevej 94 5900 Rudkøbing,94,339000.0,06-11-1997,Alm.,1893,4,Villa,179,1904,
+Nørrebro 166A 5900 Rudkøbing,0,574000.0,01-11-1997,Alm.,4905,3,Rækkehus,117,1936,
+Planken 10 5900 Rudkøbing,10,145000.0,29-10-1997,Alm.,1074,4,Villa,135,1998,
+Vindebyvej 10 5900 Rudkøbing,10,2750000.0,15-10-1997,Alm.,8730,10,Stuehus,315,1852,
+Brogade 8 5900 Rudkøbing,8,645000.0,22-09-1997,Alm.,9772,3,Rækkehus,66,1800,
+Vindebyvej 57 5900 Rudkøbing,57,735000.0,12-09-1997,Fam.,2100,6,Villa,350,1938,
+Planken 6 5900 Rudkøbing,6,135000.0,11-09-1997,Alm.,1238,5,Villa,109,1998,
+Kirkegaardsvej 12 5900 Rudkøbing,12,440660.0,02-09-1997,Alm.,5373,4,Rækkehus,82,1880,
+Rifbjerg Strand 3 5900 Rudkøbing,3,975000.0,28-08-1997,Alm.,5104,4,Villa,191,1949,
+Spodsbjergvej 44 5900 Rudkøbing,44,468327.0,22-08-1997,Alm.,3229,7,Villa,145,1934,
+Søndre Landevej 11 5900 Rudkøbing,11,157800.0,21-08-1997,Alm.,1282,4,Stuehus,123,1877,
+Sølyst 4 5900 Rudkøbing,4,500000.0,17-08-1997,Alm.,8474,4,Sommerhus,59,1968,
+Krogsbjergvej 1 5900 Rudkøbing,1,770000.0,15-08-1997,Alm.,3830,6,Villa,201,1870,
+Pederstrupvej 25 5900 Rudkøbing,25,450000.0,15-08-1997,Alm.,2866,3,Villa,157,1800,
+Hennetvedvej 24 5900 Rudkøbing,24,275000.0,14-08-1997,Alm.,2594,4,Villa,106,1780,
+Planken 2 5900 Rudkøbing,2,140000.0,10-08-1997,Alm.,972,7,Villa,144,1997,
+Ørstedsgade 30 5900 Rudkøbing,30,157547.0,30-07-1997,Andet,829,5,Rækkehus,190,1850,
+Skovsbovej 6 5900 Rudkøbing,6,296000.0,29-07-1997,Alm.,2930,4,Villa,101,1877,
+Nørrebro 26 5900 Rudkøbing,26,320000.0,28-07-1997,Alm.,3333,4,Rækkehus,96,1777,
+Fuglsbølle Skovvej 9 5900 Rudkøbing,9,284000.0,22-07-1997,Alm.,1844,4,Villa,154,2000,
+Ramsherred 37 5900 Rudkøbing,37,325000.0,14-07-1997,Alm.,4166,3,Rækkehus,78,1870,
+Longelsevej 17 5900 Rudkøbing,17,350000.0,09-07-1997,Alm.,3271,3,Rækkehus,107,1800,
+Peløkkevej 12 5900 Rudkøbing,12,140682.0,08-07-1997,Alm.,1875,3,Rækkehus,75,1850,
+Søndre Landevej 34 5900 Rudkøbing,34,4500000.0,04-07-1997,Alm.,15000,10,Stuehus,300,1860,
+Kragholmvej 30 5900 Rudkøbing,30,537660.0,30-06-1997,Alm.,3924,4,Villa,137,1906,
+Østergade 22 5900 Rudkøbing,22,187000.0,16-06-1997,Alm.,1508,4,Rækkehus,124,1907,
+Pederstrupvej 10 5900 Rudkøbing,10,419000.0,16-06-1997,Alm.,4655,3,Villa,90,1900,
+Bogøvej 13 5900 Rudkøbing,13,360000.0,16-06-1997,Alm.,3130,3,Villa,115,1958,
+Byvej 10 5900 Rudkøbing,10,499014.0,10-06-1997,Alm.,2935,5,Villa,170,1937,
+Krogsbjergvej 23 5900 Rudkøbing,23,675000.0,30-05-1997,Alm.,2947,8,Villa,229,1918,
+Nørrebro 161 5900 Rudkøbing,161,633088.0,25-05-1997,Alm.,4724,5,Villa,134,1918,
+Pederstrupvej 35 5900 Rudkøbing,35,462000.0,21-05-1997,Alm.,3422,2,Villa,135,1940,
+Rifbjergvej 8 5900 Rudkøbing,8,580000.0,21-05-1997,Alm.,3717,6,Villa,156,1916,
+Herslevvej 37 5900 Rudkøbing,37,504389.0,17-05-1997,Alm.,2786,4,Villa,181,1877,
+Viebæltet 21 5900 Rudkøbing,21,363000.0,16-05-1997,Alm.,6258,3,Rækkehus,58,1877,
+Augløkkevej 5 5900 Rudkøbing,5,3390000.0,16-05-1997,Fam.,14125,9,Stuehus,240,1878,
+Rifbjerg Strand 8 5900 Rudkøbing,8,85000.0,01-05-1997,Fam.,1287,2,Villa,66,1897,
+Hybenvænget 11 5900 Rudkøbing,11,221000.0,21-04-1997,Fam.,3683,3,Sommerhus,60,1962,
+Spodsbjergvej 51 5900 Rudkøbing,51,425000.0,15-04-1997,Alm.,0,5,Rækkehus,116,1900,
+Nørrebro 131 5900 Rudkøbing,131,465000.0,07-04-1997,Alm.,4946,3,Rækkehus,94,1900,
+Abildgaardsvænget 3 5900 Rudkøbing,3,720000.0,03-04-1997,Alm.,5413,5,Villa,133,1972,
+Kirkegaardsvej 14 5900 Rudkøbing,14,284216.0,03-04-1997,Alm.,4817,2,Rækkehus,59,1900,
+Egevænget 10 5900 Rudkøbing,10,570000.0,01-04-1997,Alm.,8636,4,Sommerhus,66,1977,
+Spodsbjergvej 132 5900 Rudkøbing,132,425000.0,31-03-1997,Alm.,3346,4,Villa,127,1911,
+Søndre Landevej 29 5900 Rudkøbing,29,145000.0,25-03-1997,Alm.,1160,3,Villa,125,1922,
+Viebæltet 27 5900 Rudkøbing,27,555000.0,14-03-1997,Alm.,4955,3,Villa,112,1962,
+Kløvervænget 18 5900 Rudkøbing,18,760000.0,13-03-1997,Alm.,3877,10,Villa,196,1964,
+Spodsbjergvej 216A 5900 Rudkøbing,0,673510.0,07-03-1997,Alm.,0,4,Villa,131,1987,
+Sølyst 11 5900 Rudkøbing,11,631000.0,27-02-1997,Alm.,8763,4,Sommerhus,72,1973,
+Peløkkevej 75 5900 Rudkøbing,75,700000.0,17-02-1997,Alm.,8750,3,Stuehus,80,1855,
+Kirkegade 12 5900 Rudkøbing,12,216800.0,11-02-1997,Alm.,1935,7,Villa,112,1930,
+Havgaardsvej 5 5900 Rudkøbing,5,110500.0,09-02-1997,Fam.,1938,3,Sommerhus,57,1999,
+Hybenvænget 2 5900 Rudkøbing,2,178500.0,03-02-1997,Fam.,5950,2,Sommerhus,30,1960,
+Langegade 26 5900 Rudkøbing,26,284000.0,30-01-1997,Alm.,3594,3,Villa,79,1960,
+Søndre Landevej 10A 5900 Rudkøbing,0,273750.0,30-01-1997,Alm.,3146,3,Villa,87,1877,
+Ahlefeldtsgade 33 5900 Rudkøbing,33,479800.0,29-01-1997,Alm.,3502,7,Villa,137,1910,
+Mosevænget 19 5900 Rudkøbing,19,785000.0,29-01-1997,Alm.,0,5,Villa,170,1979,
+Pederstrupvej 4 5900 Rudkøbing,4,290000.0,24-01-1997,Alm.,2396,3,Villa,121,1910,
+Knolden 6 5900 Rudkøbing,6,700000.0,20-01-1997,Alm.,9722,4,Villa,72,1979,
+Møllemosevej 9 5900 Rudkøbing,9,530000.0,06-01-1997,Alm.,2944,6,Villa,180,1960,
+Banevænget 17 5900 Rudkøbing,17,1300000.0,22-12-1996,Alm.,5416,6,Villa,240,1972,
+Nørrebro 170 5900 Rudkøbing,170,535000.0,18-12-1996,Alm.,4314,5,Rækkehus,124,1918,
+Nørrebro 182 5900 Rudkøbing,182,585000.0,12-12-1996,Alm.,6157,4,Villa,95,1970,
+Strandgade 22 5900 Rudkøbing,22,385000.0,09-12-1996,Alm.,3850,4,Rækkehus,100,1900,
+Drejet 36D 5900 Rudkøbing,0,795000.0,08-12-1996,Alm.,9578,6,Sommerhus,83,1991,
+Drejet 22 5900 Rudkøbing,22,155000.0,05-12-1996,Fam.,2583,3,Sommerhus,60,1957,
+Bogøvej 9 5900 Rudkøbing,9,326000.0,28-11-1996,Alm.,2963,4,Villa,110,1900,
+Fuglsbølle Skovvej 2 5900 Rudkøbing,2,519300.0,18-11-1996,Alm.,3994,3,Villa,130,1900,
+Kulepilevej 6 5900 Rudkøbing,6,360000.0,18-11-1996,Alm.,0,5,Villa,162,1939,
+Nørrebro 183 5900 Rudkøbing,183,475000.0,16-10-1996,Alm.,0,2,Villa,68,1950,
+Fredensvej 42 5900 Rudkøbing,42,515000.0,14-10-1996,Alm.,4904,4,Villa,105,1950,
+Bjergvej 5 5900 Rudkøbing,5,110000.0,12-10-1996,Alm.,679,5,Villa,162,1902,
+Humblevej 83 5900 Rudkøbing,83,762341.0,24-09-1996,Alm.,3869,5,Villa,197,1880,
+Jens Winthers Vej 8 5900 Rudkøbing,8,296000.0,23-09-1996,Alm.,0,4,Villa,142,1900,
+Pederstrupvej 2 5900 Rudkøbing,2,195500.0,23-09-1996,Fam.,1320,6,Villa,148,1916,
+Søndre Landevej 6 5900 Rudkøbing,6,300000.0,17-09-1996,Alm.,2205,4,Villa,136,1852,
+Bryggergården 21 5900 Rudkøbing,21,922408.0,11-09-1996,Alm.,6028,8,Villa,153,1937,
+Polleholmsvej 2 5900 Rudkøbing,2,220000.0,09-09-1996,Alm.,2528,4,Villa,87,1902,
+Nørrebro 43 5900 Rudkøbing,43,207000.0,29-08-1996,Alm.,0,4,Rækkehus,177,1852,
+Snaremosevej 5 5900 Rudkøbing,5,700000.0,26-08-1996,Alm.,4605,8,Stuehus,152,1928,
+Bellevue 57 5900 Rudkøbing,57,246500.0,23-08-1996,Fam.,1925,5,Rækkehus,128,1900,
+Kulepilevej 48 5900 Rudkøbing,48,675000.0,19-08-1996,Alm.,3901,6,Stuehus,173,1887,
+Longelsevej 11 5900 Rudkøbing,11,132500.0,05-08-1996,Fam.,1162,4,Villa,114,1900,
+Jens Winthers Vej 16 5900 Rudkøbing,16,488000.0,05-08-1996,Alm.,4206,6,Rækkehus,116,1905,
+Ørstedsgade 28 5900 Rudkøbing,28,300000.0,31-07-1996,Alm.,4000,3,Rækkehus,75,1902,
+Nørrebro 87 5900 Rudkøbing,87,681000.0,18-07-1996,Alm.,4795,4,Villa,142,1934,
+Ahlefeldtsgade 18 5900 Rudkøbing,18,530000.0,05-07-1996,Alm.,3312,5,Rækkehus,160,1897,
+Mosevænget 11 5900 Rudkøbing,11,666000.0,28-06-1996,Alm.,5123,5,Villa,130,1974,
+Vindebyvej 2 5900 Rudkøbing,2,412000.0,19-06-1996,Alm.,2624,5,Villa,157,1922,
+Ramsherred 67 5900 Rudkøbing,67,645000.0,19-06-1996,Alm.,5707,5,Rækkehus,113,1827,
+Cirklen 2 5900 Rudkøbing,2,120000.0,17-06-1996,Alm.,923,5,Villa,130,1996,
+Solbakken 5 5900 Rudkøbing,5,288000.0,17-06-1996,Alm.,1870,6,Sommerhus,154,1999,
+Klæsøvej 7 5900 Rudkøbing,7,663000.0,31-05-1996,Fam.,3157,8,Stuehus,210,1914,
+Augløkkevej 9 5900 Rudkøbing,9,119340.0,26-05-1996,Alm.,1473,2,Villa,81,1880,
+Statenevej 6 5900 Rudkøbing,6,148000.0,23-05-1996,Alm.,1243,4,Villa,119,1916,
+Haugbøllevej 16 5900 Rudkøbing,16,345000.0,21-05-1996,Alm.,2395,6,Villa,144,1925,
+Nørrebro 192 5900 Rudkøbing,192,490000.0,20-05-1996,Alm.,3951,6,Villa,124,1936,
+Vinkældergade 21 5900 Rudkøbing,21,225000.0,06-05-1996,Alm.,1584,3,Rækkehus,142,1910,
+Vindrosen 14 5900 Rudkøbing,14,725000.0,21-04-1996,Alm.,5620,4,Villa,129,1976,
+Spodsbjergvej 171 5900 Rudkøbing,171,310494.0,08-04-1996,Alm.,3786,4,Villa,82,1827,
+Sommerlyst 20 5900 Rudkøbing,20,363000.0,08-04-1996,Alm.,4172,3,Rækkehus,87,1890,
+Fiskervænget 20 5900 Rudkøbing,20,295248.0,27-03-1996,Alm.,1833,3,Villa,161,1980,
+Kystvænget 1 5900 Rudkøbing,1,796952.0,25-03-1996,Alm.,5534,4,Villa,144,1967,
+Jens Winthers Vej 22 5900 Rudkøbing,22,410000.0,20-03-1996,Alm.,2397,5,Villa,171,1911,
+Byvej 4 5900 Rudkøbing,4,373000.0,19-03-1996,Alm.,3330,3,Villa,112,1956,
+Spodsbjergvej 299 5900 Rudkøbing,299,245000.0,18-03-1996,Alm.,2041,3,Villa,120,1943,
+Hatten 9 5900 Rudkøbing,9,703500.0,15-03-1996,Alm.,4628,7,Villa,152,1976,
+Statenevej 4 5900 Rudkøbing,4,327261.0,13-03-1996,Alm.,0,5,Villa,167,1898,
+Torpevej 25 5900 Rudkøbing,25,210000.0,12-03-1996,Alm.,2000,4,Villa,105,1918,
+Smedegade 18 5900 Rudkøbing,18,406000.0,11-03-1996,Alm.,5342,2,Rækkehus,76,1877,
+Banevej 8 5900 Rudkøbing,8,432755.0,26-02-1996,Alm.,4242,4,Villa,102,1944,
+"Østergade 40, 1 5900 Rudkøbing",1,1600000.0,16-02-1996,Fam.,7766,6,Rækkehus,206,1870,
+Ramsherred 12 5900 Rudkøbing,12,250000.0,11-02-1996,Alm.,2577,4,Rækkehus,97,1777,
+Ravnerydvej 10 5900 Rudkøbing,10,144432.0,05-02-1996,Alm.,423,7,Stuehus,341,1861,
+Nordre Landevej 21 5900 Rudkøbing,21,529281.0,31-01-1996,Alm.,5240,4,Villa,101,1943,
+Langøvej 18 5900 Rudkøbing,18,190000.0,30-01-1996,Andet,1900,4,Villa,100,1926,
+Illebøllevej 23 5900 Rudkøbing,23,750000.0,17-01-1996,Fam.,4189,5,Stuehus,179,1907,
+Herslevvej 3 5900 Rudkøbing,3,348000.0,05-01-1996,Alm.,4350,4,Villa,80,1957,
+Kirkegaardsvej 15 5900 Rudkøbing,15,515000.0,21-12-1995,Alm.,5000,3,Villa,103,1933,
+Kragholmvej 26 5900 Rudkøbing,26,37707.0,19-12-1995,Alm.,190,6,Stuehus,198,2007,
+Ahlefeldtsgade 24 5900 Rudkøbing,24,410000.0,14-12-1995,Alm.,2426,5,Villa,169,1890,
+"Nørregade 33, 1 5900 Rudkøbing",1,500000.0,11-12-1995,Alm.,4273,3,Anden beboelse,117,1933,
+Pederstrupvej 12 5900 Rudkøbing,12,258000.0,11-12-1995,Alm.,0,4,Rækkehus,111,1890,
+Humblevej 71 5900 Rudkøbing,71,220000.0,08-12-1995,Alm.,0,5,Villa,177,1900,
+Haugbøllevej 4 5900 Rudkøbing,4,1067500.0,05-12-1995,Alm.,4504,4,Villa,237,1877,
+Johan Nielsens Vej 1 5900 Rudkøbing,1,380000.0,04-12-1995,Alm.,3518,5,Villa,108,1777,
+Spodsbjergvej 168 5900 Rudkøbing,168,688000.0,28-11-1995,Alm.,3528,7,Villa,195,1878,
+Langegade 9 5900 Rudkøbing,9,261537.0,27-11-1995,Andet,1951,7,Villa,134,1890,
+Simmerbølle Kirkevej 2 5900 Rudkøbing,2,610000.0,26-11-1995,Alm.,3588,5,Stuehus,170,1884,
+Drejet 51 5900 Rudkøbing,51,350000.0,02-11-1995,Alm.,7000,3,Sommerhus,50,2008,
+Brogade 12 5900 Rudkøbing,12,350000.0,25-10-1995,Alm.,3365,4,Rækkehus,104,1880,
+Kirkegade 14 5900 Rudkøbing,14,335000.0,23-10-1995,Alm.,0,4,Villa,132,1936,
+Cirklen 10 5900 Rudkøbing,10,722000.0,23-10-1995,Alm.,5596,5,Villa,129,1995,
+Lindegårdsvej 4 5900 Rudkøbing,4,2600000.0,02-10-1995,Alm.,11206,9,Stuehus,232,1920,
+Kulepilevej 22 5900 Rudkøbing,22,725000.0,30-09-1995,Alm.,3835,6,Villa,189,1905,
+Kirkegaardsvej 36 5900 Rudkøbing,36,550000.0,29-09-1995,Alm.,0,7,Villa,195,1891,
+Humblevej 76 5900 Rudkøbing,76,171364.0,22-09-1995,Alm.,1260,5,Villa,136,1895,
+Spodsbjergvej 323 5900 Rudkøbing,323,327492.0,11-09-1995,Alm.,3004,4,Villa,109,1900,
+Drejet 24 5900 Rudkøbing,24,292000.0,06-09-1995,Alm.,2678,4,Sommerhus,109,1801,
+Rolighedsvej 41 5900 Rudkøbing,41,662000.0,25-08-1995,Alm.,0,4,Villa,116,1939,
+Nørrebro 32 5900 Rudkøbing,32,135500.0,21-08-1995,Alm.,1613,3,Rækkehus,84,1880,
+"Nørregade 7, 1 5900 Rudkøbing",1,400000.0,14-08-1995,Alm.,3960,4,Anden beboelse,101,1898,
+Nøddevænget 5 5900 Rudkøbing,5,735000.0,11-08-1995,Alm.,5068,4,Villa,145,1971,
+Vindebyvej 21 5900 Rudkøbing,21,316000.0,07-08-1995,Alm.,0,3,Villa,132,1827,
+Hatten 5 5900 Rudkøbing,5,247125.0,07-08-1995,Alm.,2186,4,Villa,113,1975,
+Spangevej 3 5900 Rudkøbing,3,215000.0,31-07-1995,Alm.,1990,4,Villa,108,1934,
+Kløvervænget 10 5900 Rudkøbing,10,125000.0,31-07-1995,Alm.,644,5,Villa,194,1995,
+Ahlefeldtsgade 48 5900 Rudkøbing,48,355000.0,31-07-1995,Alm.,3622,2,Rækkehus,98,1870,
+Sønderskovvej 4 5900 Rudkøbing,4,326660.0,27-07-1995,Fam.,2768,3,Villa,118,1968,
+Nørrebro 17 5900 Rudkøbing,17,600000.0,10-07-1995,Alm.,2459,5,Rækkehus,244,1885,
+Nørrebro 120 5900 Rudkøbing,120,663000.0,10-07-1995,Alm.,2071,7,Villa,320,1900,
+Nørrebro 152 5900 Rudkøbing,152,395000.0,10-07-1995,Alm.,2947,5,Villa,134,1877,
+Langøvej 21 5900 Rudkøbing,21,385000.0,07-07-1995,Fam.,4529,4,Stuehus,85,1820,
+Rolighedsvej 6 5900 Rudkøbing,6,395000.0,27-06-1995,Alm.,2969,4,Villa,133,1912,
+Bogøvej 4 5900 Rudkøbing,4,330000.0,16-06-1995,Alm.,4074,3,Villa,81,1972,
+Søndre Landevej 8 5900 Rudkøbing,8,185000.0,16-06-1995,Alm.,1778,3,Villa,104,1852,
+Rolighedsvej 11 5900 Rudkøbing,11,415000.0,11-06-1995,Alm.,3029,4,Villa,137,1918,
+Statenevej 28 5900 Rudkøbing,28,1100000.0,01-06-1995,Fam.,6321,5,Stuehus,174,1890,
+Blandebjerg 16 5900 Rudkøbing,16,156471.0,22-05-1995,Fam.,1862,4,Villa,84,1897,
+Bækkebovej 5 5900 Rudkøbing,5,475000.0,21-05-1995,Alm.,2932,4,Villa,162,1800,
+Fredensvej 44 5900 Rudkøbing,44,525000.0,15-05-1995,Alm.,4772,5,Villa,110,1953,
+Spodsbjergvej 41 5900 Rudkøbing,41,322000.0,08-05-1995,Alm.,1685,5,Rækkehus,191,1920,
+Ringvejen 10 5900 Rudkøbing,10,478000.0,06-05-1995,Alm.,0,6,Villa,199,1950,
+Skovsbovej 10 5900 Rudkøbing,10,600000.0,01-05-1995,Alm.,4109,5,Villa,146,1745,
+Nørregade 24 5900 Rudkøbing,24,450000.0,28-04-1995,Alm.,2812,7,Rækkehus,160,1897,
+Kragholmvej 31 5900 Rudkøbing,31,600000.0,28-04-1995,Fam.,3947,5,Stuehus,152,2016,
+Kværnen 11 5900 Rudkøbing,11,798000.0,06-04-1995,Alm.,4433,6,Villa,180,1979,
+Sommerlyst 7 5900 Rudkøbing,7,365000.0,04-04-1995,Alm.,2625,4,Villa,139,1914,
+Nørrebro 185 5900 Rudkøbing,185,155626.0,31-03-1995,Fam.,1638,4,Villa,95,1962,
+Viebæltet 23 5900 Rudkøbing,23,183000.0,28-03-1995,Alm.,0,3,Rækkehus,92,1907,
+Nordre Landevej 15 5900 Rudkøbing,15,540000.0,27-03-1995,Alm.,0,5,Villa,178,1917,
+Statenevej 21 5900 Rudkøbing,21,310000.0,23-03-1995,Alm.,2137,4,Villa,145,1939,
+Hannebjergvej 6 5900 Rudkøbing,6,187000.0,19-03-1995,Fam.,2125,4,Villa,88,1800,
+Spodsbjergvej 319 5900 Rudkøbing,319,430000.0,16-03-1995,Alm.,2227,6,Villa,193,1897,
+Hannebjergvej 8 5900 Rudkøbing,8,40000.0,13-03-1995,Alm.,0,5,Stuehus,138,1850,
+Gartnervænget 6 5900 Rudkøbing,6,266000.0,13-03-1995,Alm.,4836,2,Rækkehus,55,1970,
+Hennetvedvej 5 5900 Rudkøbing,5,275000.0,13-03-1995,Alm.,2522,4,Villa,109,1956,
+Solbakken 16 5900 Rudkøbing,16,690000.0,13-03-1995,Alm.,9078,4,Sommerhus,76,1972,
+Cirklen 6 5900 Rudkøbing,6,120000.0,03-03-1995,Alm.,888,4,Villa,135,1995,
+Illebøllevej 48 5900 Rudkøbing,48,205000.0,17-02-1995,Fam.,2009,6,Villa,102,1827,
+Broløkken 40 5900 Rudkøbing,40,647448.0,13-02-1995,Alm.,0,4,Villa,125,1964,
+Snaremosevej 1 5900 Rudkøbing,1,395000.0,17-01-1995,Alm.,1984,7,Villa,199,1905,
+Illebøllevej 17 5900 Rudkøbing,17,262000.0,09-01-1995,Alm.,1082,4,Villa,242,1700,
+Haverne 19 5900 Rudkøbing,19,880000.0,09-01-1995,Alm.,6197,4,Villa,142,1979,
+Nørrebro 180 5900 Rudkøbing,180,385000.0,09-01-1995,Alm.,2347,10,Villa,164,1935,
+Nordre Landevej 5 5900 Rudkøbing,5,89801.0,08-01-1995,Andet,935,4,Villa,96,1914,
+Gyvelvænget 25 5900 Rudkøbing,25,117725.0,06-01-1995,Fam.,1353,5,Sommerhus,87,1995,
+Broløkken 26 5900 Rudkøbing,26,500000.0,04-01-1995,Alm.,5154,3,Villa,97,1967,
+Broløkken 8 5900 Rudkøbing,8,850000.0,18-12-1994,Alm.,2951,7,Villa,288,1965,
+Hybenvænget 4 5900 Rudkøbing,4,144500.0,15-12-1994,Fam.,2189,4,Sommerhus,66,1999,
+Rævegade 9 5900 Rudkøbing,9,200000.0,08-12-1994,Alm.,0,5,Villa,200,1910,
+Nørrebro 132 5900 Rudkøbing,132,514600.0,02-12-1994,Alm.,3157,9,Villa,163,1929,
+Rævegade 14 5900 Rudkøbing,14,205000.0,01-12-1994,Alm.,1752,4,Villa,117,1920,
+Bogøvej 32 5900 Rudkøbing,32,483000.0,01-12-1994,Alm.,2267,6,Stuehus,213,1924,
+Rolighedsvej 30 5900 Rudkøbing,30,422000.0,28-11-1994,Alm.,3701,3,Villa,114,1930,
+Spodsbjergvej 85A 5900 Rudkøbing,0,600000.0,28-11-1994,Alm.,1960,8,Villa,306,1870,
+Peløkkevej 33A 5900 Rudkøbing,0,382000.0,14-11-1994,Alm.,3237,4,Villa,118,1927,
+Fuglsbøllevejen 52 5900 Rudkøbing,52,130000.0,03-11-1994,Alm.,1048,4,Villa,124,1920,
+Vindebyvej 59 5900 Rudkøbing,59,319008.0,01-11-1994,Alm.,3009,5,Villa,106,1935,
+Longelsevej 20 5900 Rudkøbing,20,200000.0,24-10-1994,Alm.,1754,5,Villa,114,1925,
+Broløkken 21 5900 Rudkøbing,21,538000.0,03-10-1994,Alm.,4483,4,Villa,120,1966,
+Skrøbelev Hedevej 14 5900 Rudkøbing,14,285000.0,20-09-1994,Alm.,2336,5,Villa,122,1906,
+Snaremosevej 16 5900 Rudkøbing,16,1410000.0,19-09-1994,Alm.,10367,6,Stuehus,136,1928,
+Skrøbelev Hedevej 7 5900 Rudkøbing,7,337000.0,09-09-1994,Alm.,0,7,Villa,245,1905,
+Strandgade 28 5900 Rudkøbing,28,275000.0,29-08-1994,Alm.,3928,2,Rækkehus,70,1877,
+Søvejen 7 5900 Rudkøbing,7,695000.0,28-08-1994,Alm.,4263,7,Villa,163,1916,
+Hine Møllevej 9 5900 Rudkøbing,9,567000.0,24-08-1994,Alm.,4200,4,Villa,135,1978,
+Kværnen 14 5900 Rudkøbing,14,790000.0,23-08-1994,Alm.,5683,5,Villa,139,1978,
+Spodsbjergvej 89 5900 Rudkøbing,89,315000.0,20-08-1994,Alm.,3058,4,Villa,103,1938,
+Kirkegade 1 5900 Rudkøbing,1,418500.0,17-08-1994,Alm.,5435,4,Villa,77,1877,
+Stationsvej 4 5900 Rudkøbing,4,625000.0,15-08-1994,Alm.,4006,4,Villa,156,1912,
+Møllestræde 7 5900 Rudkøbing,7,198000.0,22-07-1994,Alm.,2538,2,Villa,78,1867,
+Vesterby Mark 7 5900 Rudkøbing,7,214549.0,16-07-1994,Alm.,2189,4,Villa,98,1852,
+Byskrivervej 2 5900 Rudkøbing,2,500000.0,10-07-1994,Alm.,3906,5,Villa,128,1973,
+Vesterbyvej 2 5900 Rudkøbing,2,450000.0,08-07-1994,Alm.,0,3,Villa,95,1900,
+Mosevænget 18 5900 Rudkøbing,18,52000.0,07-07-1994,Fam.,385,4,Villa,135,1980,
+Skrøbelev Hedevej 10 5900 Rudkøbing,10,216000.0,19-06-1994,Fam.,1430,5,Villa,151,1930,
+Toftevej 1 5900 Rudkøbing,1,616000.0,30-05-1994,Alm.,4463,5,Villa,138,1976,
+Fredskovvej 2 5900 Rudkøbing,2,350000.0,30-05-1994,Alm.,1569,9,Villa,223,1910,
+Bellevue 27 5900 Rudkøbing,27,300000.0,30-05-1994,Alm.,3947,3,Rækkehus,76,1900,
+Porsevænget 4 5900 Rudkøbing,4,212500.0,22-05-1994,Fam.,4619,2,Sommerhus,46,1962,
+Ahlefeldtsgade 31 5900 Rudkøbing,31,250000.0,19-05-1994,Alm.,796,5,Villa,314,1914,
+Skrøbelev Hedevej 13A 5900 Rudkøbing,0,360000.0,09-05-1994,Alm.,3050,4,Villa,118,1910,
+Fiskervænget 24 5900 Rudkøbing,24,565000.0,09-05-1994,Alm.,3383,4,Villa,167,1979,
+Peløkkevej 56 5900 Rudkøbing,56,425000.0,09-05-1994,Alm.,2972,5,Villa,143,1900,
+Toftevej 6 5900 Rudkøbing,6,544400.0,07-05-1994,Alm.,5135,5,Villa,106,1967,
+Sølyst 12 5900 Rudkøbing,12,395000.0,30-04-1994,Alm.,7053,2,Sommerhus,56,1979,
+Sølyst 6 5900 Rudkøbing,6,405096.0,27-04-1994,Alm.,0,3,Sommerhus,52,1970,
+Humblevej 34 5900 Rudkøbing,34,237000.0,25-04-1994,Alm.,5386,2,Rækkehus,44,1906,
+Spodsbjergvej 142 5900 Rudkøbing,142,385000.0,11-04-1994,Alm.,2769,5,Villa,139,1900,
+Simmerbølle Kirkevej 17 5900 Rudkøbing,17,225000.0,11-04-1994,Alm.,827,12,Villa,272,1950,
+Vesterbyvej 4 5900 Rudkøbing,4,60000.0,11-04-1994,Alm.,566,3,Rækkehus,106,1915,
+Statenevej 5 5900 Rudkøbing,5,260000.0,28-03-1994,Alm.,1793,4,Villa,145,1910,
+Vindrosen 9 5900 Rudkøbing,9,632000.0,24-03-1994,Alm.,4787,4,Villa,132,1975,
+Longelsevej 41 5900 Rudkøbing,41,65000.0,21-03-1994,Alm.,515,4,Villa,126,1875,
+Bogøvej 10 5900 Rudkøbing,10,1025000.0,21-03-1994,Alm.,8007,6,Stuehus,128,1929,
+Cirklen 1 5900 Rudkøbing,1,922000.0,13-03-1994,Alm.,6315,5,Villa,146,1986,
+"Østergade 51, 1 5900 Rudkøbing",1,325000.0,08-03-1994,Alm.,3282,3,Rækkehus,99,1905,
+Byvej 7 5900 Rudkøbing,7,550000.0,07-03-1994,Alm.,3374,6,Villa,163,1946,
+Toftevej 4 5900 Rudkøbing,4,550000.0,07-03-1994,Alm.,5000,3,Villa,110,1967,
+Nørrebro 118 5900 Rudkøbing,118,315000.0,28-02-1994,Alm.,3281,3,Rækkehus,96,1900,
+Nørrebro 207B 5900 Rudkøbing,0,50000.0,23-02-1994,Alm.,308,5,Villa,162,1867,
+Illebøllevej 12 5900 Rudkøbing,12,625000.0,22-02-1994,Alm.,3906,5,Villa,160,1967,
+Nørrebro 105 5900 Rudkøbing,105,295000.0,15-02-1994,Alm.,3597,3,Rækkehus,82,1897,
+Nørrebro 177 5900 Rudkøbing,177,650000.0,07-02-1994,Alm.,5078,4,Villa,128,1976,
+Peløkkevej 39 5900 Rudkøbing,39,450000.0,31-01-1994,Alm.,0,3,Villa,175,1916,
+Ramsherred 32 5900 Rudkøbing,32,265000.0,17-01-1994,Alm.,4206,2,Rækkehus,63,1720,
+Hannebjergvej 5 5900 Rudkøbing,5,50000.0,21-12-1993,Alm.,0,2,Rækkehus,56,1900,
+Bogøvej 22 5900 Rudkøbing,22,360000.0,21-12-1993,Fam.,2553,5,Villa,141,1924,
+Tjørnevænget 3 5900 Rudkøbing,3,375000.0,16-12-1993,Andet,2586,5,Villa,145,1967,
+Humblevej 18 5900 Rudkøbing,18,400000.0,13-12-1993,Alm.,1913,6,Villa,209,1933,
+Kulepilevej 8 5900 Rudkøbing,8,385000.0,13-12-1993,Alm.,3181,4,Villa,121,1943,
+Skovbakken 4 5900 Rudkøbing,4,260000.0,03-12-1993,Alm.,0,6,Villa,167,1948,
+Rue Mark 7 5900 Rudkøbing,7,60000.0,20-11-1993,Alm.,397,5,Villa,151,1994,
+Jens Winthers Vej 45 5900 Rudkøbing,45,615000.0,16-11-1993,Alm.,5347,4,Villa,115,1931,
+Humblevej 27 5900 Rudkøbing,27,380000.0,01-11-1993,Alm.,3958,3,Villa,96,1962,
+Slaaenvænget 13 5900 Rudkøbing,13,400000.0,01-11-1993,Alm.,5000,3,Sommerhus,80,1983,
+Kastanievej 24 5900 Rudkøbing,24,150000.0,01-11-1993,Alm.,0,5,Villa,126,1911,
+Nordre Landevej 28 5900 Rudkøbing,28,395000.0,31-10-1993,Alm.,2453,6,Villa,161,1932,
+Reberbanen 33 5900 Rudkøbing,33,375000.0,29-10-1993,Alm.,2659,5,Villa,141,1910,
+Nørrebro 100 5900 Rudkøbing,100,695000.0,28-10-1993,Alm.,6043,4,Rækkehus,115,1910,
+Nørrebro 171 5900 Rudkøbing,171,435000.0,12-10-1993,Alm.,3452,3,Villa,126,1951,
+Fuglsbøllevejen 44 5900 Rudkøbing,44,340000.0,11-10-1993,Fam.,4473,5,Stuehus,76,1934,
+Nørrebro 114 5900 Rudkøbing,114,272000.0,04-10-1993,Alm.,3358,3,Rækkehus,81,1923,
+Mosevænget 5 5900 Rudkøbing,5,590000.0,20-09-1993,Alm.,3933,5,Villa,150,1973,
+Nordre Landevej 11 5900 Rudkøbing,11,250000.0,20-09-1993,Alm.,2083,3,Villa,120,1900,
+Spodsbjergvej 253 5900 Rudkøbing,253,200000.0,20-09-1993,Alm.,0,6,Villa,147,1921,
+"Byvej 2, 1 5900 Rudkøbing",1,212347.0,16-09-1993,Alm.,1572,4,Anden beboelse,135,1917,
+Spodsbjergvej 281 5900 Rudkøbing,281,553830.0,13-09-1993,Alm.,2418,6,Villa,229,1925,
+Jens Winthers Vej 19 5900 Rudkøbing,19,370000.0,28-08-1993,Alm.,2681,4,Villa,138,1910,
+Kirkegaardsvej 17 5900 Rudkøbing,17,325000.0,20-08-1993,Alm.,2850,3,Villa,114,1931,
+Rifbjerg Udflytter 3 5900 Rudkøbing,3,395000.0,16-08-1993,Alm.,3062,3,Villa,129,1975,
+Augløkkevej 8 5900 Rudkøbing,8,80000.0,09-08-1993,Alm.,606,4,Villa,132,1886,
+Strandgade 32 5900 Rudkøbing,32,95000.0,09-08-1993,Alm.,1357,2,Rækkehus,70,1877,
+Møllemosevej 13 5900 Rudkøbing,13,380000.0,09-08-1993,Alm.,2360,6,Stuehus,161,1900,
+Nørrebro 101 5900 Rudkøbing,101,270000.0,09-08-1993,Alm.,4285,3,Rækkehus,63,1902,
+Lindevej 8 5900 Rudkøbing,8,680000.0,09-08-1993,Alm.,3736,7,Villa,182,1930,
+Vindrosen 5 5900 Rudkøbing,5,500000.0,08-08-1993,Alm.,4716,4,Villa,106,1976,
+Kassebøllevej 5 5900 Rudkøbing,5,275000.0,05-08-1993,Alm.,1091,6,Villa,252,1900,
+Illebøllevej 1 5900 Rudkøbing,1,500000.0,05-07-1993,Andet,1557,9,Stuehus,321,1875,
+Kragholmvej 5B 5900 Rudkøbing,0,293323.0,02-07-1993,Fam.,3223,2,Villa,91,1875,
+Kragholmvej 5A 5900 Rudkøbing,0,1429796.0,02-07-1993,Fam.,7813,5,Stuehus,183,1876,
+Platanvej 9 5900 Rudkøbing,9,722000.0,11-06-1993,Alm.,2155,10,Villa,335,1910,
+Fuglsbølle Skovvej 11 5900 Rudkøbing,11,235000.0,08-06-1993,Alm.,2901,2,Villa,81,1950,
+Omgangen 10 5900 Rudkøbing,10,197322.0,07-06-1993,Alm.,1578,4,Villa,125,1976,
+Tværvej 2 5900 Rudkøbing,2,435000.0,04-06-1993,Alm.,4677,3,Villa,93,1827,
+Humblevej 102 5900 Rudkøbing,102,389000.0,28-05-1993,Alm.,0,5,Villa,185,1934,
+Strandgade 7 5900 Rudkøbing,7,405000.0,24-05-1993,Alm.,5869,5,Servicevirksomhed,69,1899,
+Longelsevej 77 5900 Rudkøbing,77,1050000.0,17-05-1993,Andet,6862,5,Kollegium,153,1895,
+Sommerlyst 40 5900 Rudkøbing,40,400000.0,03-05-1993,Fam.,2127,3,Villa,188,1880,
+Drejet 59 5900 Rudkøbing,59,275000.0,01-05-1993,Alm.,3235,3,Villa,85,1907,
+Illebøllevej 25 5900 Rudkøbing,25,138000.0,30-04-1993,Alm.,958,4,Villa,144,1887,
+Gillesbjergvej 12 5900 Rudkøbing,12,244710.0,15-03-1993,Alm.,2224,4,Villa,110,1910,
+Bogøvej 31 5900 Rudkøbing,31,610000.0,24-02-1993,Alm.,7439,3,Stuehus,82,1924,
+Nørrebro 213 5900 Rudkøbing,213,375000.0,16-02-1993,Alm.,4076,3,Villa,92,1952,
+Nørregade 37 5900 Rudkøbing,37,128000.0,01-02-1993,Auktion,1230,4,Rækkehus,104,1800,
+Illebøllevej 28 5900 Rudkøbing,28,260000.0,28-01-1993,Alm.,2015,5,Villa,129,1899,
+Nørrebro 109 5900 Rudkøbing,109,180000.0,23-01-1993,Alm.,2195,3,Rækkehus,82,1827,
+Kassebøllevej 12 5900 Rudkøbing,12,220000.0,19-01-1993,Alm.,3013,3,Villa,73,1870,
+Søndre Landevej 35 5900 Rudkøbing,35,180000.0,14-01-1993,Andet,2068,3,Villa,87,1870,
+Rue Villavej 4 5900 Rudkøbing,4,431993.0,10-01-1993,Alm.,2860,6,Villa,151,1917,
+Rolighedsvej 7 5900 Rudkøbing,7,167018.0,09-01-1993,Andet,1274,3,Villa,131,1911,
+Broløkken 22 5900 Rudkøbing,22,590000.0,04-01-1993,Alm.,4154,6,Villa,142,1966,
+Vesterby Stræde 2 5900 Rudkøbing,2,250000.0,25-11-1992,Alm.,1146,6,Villa,218,1915,
+Klæsøvej 2 5900 Rudkøbing,2,280000.0,22-11-1992,Alm.,2074,6,Villa,135,1949,
+Strandbakken 2 5900 Rudkøbing,2,435000.0,16-11-1992,Alm.,3565,5,Villa,122,1943,
+Haverne 24 5900 Rudkøbing,24,625000.0,26-10-1992,Alm.,5208,4,Villa,120,1980,
+Høbjergvej 1 5900 Rudkøbing,1,368000.0,26-10-1992,Alm.,2852,5,Villa,129,1777,
+Havnegade 102 5900 Rudkøbing,102,624500.0,21-10-1992,Alm.,3528,5,Rækkehus,177,1912,
+Herslevvej 25 5900 Rudkøbing,25,400000.0,15-10-1992,Alm.,1593,8,Stuehus,251,1986,
+Jens Winthers Vej 28 5900 Rudkøbing,28,615000.0,05-10-1992,Alm.,3596,7,Villa,171,1933,
+Byskrivervej 14 5900 Rudkøbing,14,500000.0,27-09-1992,Andet,3378,4,Villa,148,1973,
+Vævergyden 10 5900 Rudkøbing,10,210000.0,30-08-1992,Alm.,3500,3,Villa,60,1792,
+Herslevvej 39 5900 Rudkøbing,39,649267.0,24-08-1992,Alm.,4271,5,Villa,152,1970,
+Hine Møllevej 1 5900 Rudkøbing,1,75000.0,24-08-1992,Andet,675,5,Villa,111,1978,
+Spangevej 16 5900 Rudkøbing,16,460000.0,19-08-1992,Alm.,3565,5,Villa,129,1960,
+Kløvervænget 14 5900 Rudkøbing,14,450000.0,11-08-1992,Alm.,3000,5,Villa,150,1963,
+Ramsherred 33 5900 Rudkøbing,33,132000.0,01-08-1992,Fam.,1015,4,Rækkehus,130,1850,
+Arnskovvej 2 5900 Rudkøbing,2,315000.0,27-07-1992,Alm.,2581,5,Villa,122,1897,
+Nordre Landevej 43 5900 Rudkøbing,43,225000.0,27-07-1992,Alm.,1757,4,Villa,128,1937,
+Skovbakken 12 5900 Rudkøbing,12,240000.0,13-07-1992,Alm.,1951,4,Villa,123,1949,
+Skovvej 9 5900 Rudkøbing,9,350000.0,07-07-1992,Alm.,0,3,Villa,153,1877,
+Haverne 10 5900 Rudkøbing,10,194294.0,22-06-1992,Alm.,1704,4,Villa,114,1979,
+Søndre Landevej 10B 5900 Rudkøbing,0,425000.0,22-06-1992,Alm.,0,3,Villa,98,1927,
+Hennetvedvej 50 5900 Rudkøbing,50,225000.0,12-06-1992,Alm.,2710,2,Villa,83,1767,
+Herslevvej 49 5900 Rudkøbing,49,1790000.0,10-06-1992,Fam.,13161,4,Stuehus,136,1896,
+Longelsevej 7 5900 Rudkøbing,7,330000.0,11-05-1992,Fam.,1803,5,Villa,183,1827,
+Spodsbjergvej 251 5900 Rudkøbing,251,360000.0,07-05-1992,Alm.,2812,4,Villa,128,1900,
+Nørrebro 139B 5900 Rudkøbing,0,220000.0,19-04-1992,Alm.,3188,2,Rækkehus,69,1897,
+Kibshavevej 25 5900 Rudkøbing,25,825000.0,03-04-1992,Alm.,3340,9,Villa,247,1971,
+Illebøllevej 36 5900 Rudkøbing,36,225000.0,30-03-1992,Alm.,0,3,Villa,54,1857,
+Skrøbelev Kirkevej 6 5900 Rudkøbing,6,370000.0,04-03-1992,Alm.,2890,2,Villa,128,1954,
+Ørstedsgade 17 5900 Rudkøbing,17,100000.0,24-02-1992,Alm.,343,7,Villa,291,1850,
+Kystvænget 18 5900 Rudkøbing,18,350000.0,24-02-1992,Fam.,2058,6,Villa,170,1967,
+Ramsherred 47 5900 Rudkøbing,47,270483.0,18-02-1992,Alm.,2436,2,Rækkehus,111,1890,
+Kastanievej 16 5900 Rudkøbing,16,545000.0,08-02-1992,Alm.,4128,6,Villa,132,1912,
+Humblevej 65 5900 Rudkøbing,65,385000.0,30-01-1992,Alm.,3598,4,Rækkehus,107,1940,
+Spodsbjergvej 71 5900 Rudkøbing,71,295000.0,11-01-1992,Alm.,3470,3,Rækkehus,85,1900,
+Søndre Landevej 2 5900 Rudkøbing,2,810000.0,09-01-1992,Fam.,3767,8,Villa,215,2005,

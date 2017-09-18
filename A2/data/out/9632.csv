@@ -1,0 +1,713 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Nørregade 18 9632 Møldrup,18,133000.0,26-04-2017,Alm.,1343,5,Villa,99,1964,
+Tingvej 63 9632 Møldrup,63,1060000.0,24-03-2017,Alm.,8688,4,Villa,122,1949,
+Havrevænget 10 9632 Møldrup,10,975000.0,15-03-2017,Alm.,5131,5,Villa,190,1972,-2 %
+Toftevænget 7 9632 Møldrup,7,810000.0,07-03-2017,Alm.,5625,5,Villa,144,1970,-4 %
+Gl. Aalborgvej 53C 9632 Møldrup,0,2485000.0,12-02-2017,Alm.,7990,6,Stuehus,311,1907,0 %
+Langmosevej 3 9632 Møldrup,3,775000.0,04-02-2017,Alm.,6102,4,Villa,127,1975,-12 %
+Dalvej 10 9632 Møldrup,10,103278.0,26-01-2017,Alm.,653,5,Stuehus,158,1873,
+Hobrovej 15 9632 Møldrup,15,946000.0,18-01-2017,Alm.,3814,7,Stuehus,248,1877,
+Møllegade 5 9632 Møldrup,5,1885000.0,07-01-2017,Alm.,9869,10,Villa,191,1935,
+Ahornvej 92 9632 Møldrup,92,550000.0,16-12-2016,Alm.,5000,4,Villa,110,1986,
+Søndergade 17 9632 Møldrup,17,425000.0,10-12-2016,Alm.,3148,7,Villa,135,1948,-14 %
+Birkevej 20 9632 Møldrup,20,650000.0,09-12-2016,Alm.,5803,4,Villa,112,1969,-6 %
+Birkevej 26 9632 Møldrup,26,1040000.0,08-12-2016,Alm.,8739,4,Villa,119,1971,-5 %
+Herredsvejen 53 9632 Møldrup,53,750000.0,28-11-2016,Alm.,3906,7,Villa,192,1914,-6 %
+Birkevej 3 9632 Møldrup,3,550000.0,24-11-2016,Alm.,6179,5,Villa,89,1967,-6 %
+Tværgade 3 9632 Møldrup,3,1050000.0,21-11-2016,Alm.,7954,4,Villa,132,1967,
+Nybovænget 14 9632 Møldrup,14,875000.0,02-11-2016,Alm.,4807,5,Villa,182,1975,
+Skovvænget 4 9632 Møldrup,4,660000.0,01-11-2016,Alm.,6600,4,Villa,100,1950,-4 %
+Lundvej 13 9632 Møldrup,13,1300000.0,28-10-2016,Fam.,12037,5,Stuehus,108,1938,
+Tingvej 66 9632 Møldrup,66,122281.0,21-10-2016,Alm.,1027,6,Villa,119,1900,
+Havrevænget 32 9632 Møldrup,32,660000.0,29-09-2016,Alm.,4852,5,Villa,136,1977,-5 %
+Gl. Aalborgvej 69 9632 Møldrup,69,500000.0,18-09-2016,Alm.,4166,3,Villa,120,1963,-7 %
+Gl. Aalborgvej 219 9632 Møldrup,219,415000.0,13-09-2016,Alm.,2292,8,Villa,181,1928,-13 %
+Kirkevænget 10 9632 Møldrup,10,550000.0,12-09-2016,Alm.,3666,4,Villa,150,1960,
+Rolighedsvej 1B 9632 Møldrup,0,498000.0,12-09-2016,Alm.,2929,5,Villa,170,1948,0 %
+Gl. Aalborgvej 65 9632 Møldrup,65,363000.0,30-07-2016,Fam.,3270,4,Villa,111,1962,
+Søndergade 51B 9632 Møldrup,0,300000.0,18-07-2016,Alm.,2307,5,Villa,130,1934,-39 %
+Drivvejen 3 9632 Møldrup,3,1225000.0,08-07-2016,Alm.,5889,6,Villa,208,1978,-4 %
+Vestergade 40 9632 Møldrup,40,225000.0,16-06-2016,Auktion,1844,6,Villa,122,1960,
+Nørdamvej 27 9632 Møldrup,27,1475000.0,16-06-2016,Alm.,8428,5,Villa,175,1907,-5 %
+Nørdamvej 12 9632 Møldrup,12,1500000.0,14-06-2016,Fam.,8152,6,Stuehus,184,1914,
+Roumvej 11 9632 Møldrup,11,585000.0,11-05-2016,Alm.,4178,4,Villa,140,1877,-2 %
+Østergade 4B 9632 Møldrup,0,1460000.0,05-05-2016,Alm.,6919,5,Villa,211,1974,
+Mosevænget 10 9632 Møldrup,10,745000.0,04-05-2016,Alm.,5398,6,Villa,138,1969,-4 %
+Hobrovej 25 9632 Møldrup,25,4375000.0,14-04-2016,Alm.,28225,6,Stuehus,155,1867,-11 %
+Birkevej 24 9632 Møldrup,24,980000.0,04-04-2016,Alm.,4260,8,Villa,230,1969,-2 %
+Østergade 11 9632 Møldrup,11,551331.0,31-03-2016,Fam.,3855,5,Villa,143,1947,
+Teglgårdvej 9 9632 Møldrup,9,1317500.0,22-03-2016,Fam.,9149,5,Stuehus,144,1898,
+Toftevænget 10 9632 Møldrup,10,850000.0,16-03-2016,Alm.,5151,5,Villa,165,1968,-5 %
+Fjelsøvej 3 9632 Møldrup,3,770513.0,13-01-2016,Alm.,3567,4,Villa,216,1975,
+Ahornvej 47 9632 Møldrup,47,1400000.0,12-01-2016,Alm.,10218,4,Villa,137,1986,
+Søndergade 9A 9632 Møldrup,0,500000.0,07-01-2016,Fam.,4424,5,Villa,113,1950,
+Langmosevej 17 9632 Møldrup,17,900000.0,17-12-2015,Alm.,8653,4,Villa,104,1977,-10 %
+Troelstrupvej 10 9632 Møldrup,10,2125000.0,01-12-2015,Alm.,10678,6,Stuehus,199,1939,
+Birkevej 16 9632 Møldrup,16,740000.0,20-11-2015,Alm.,6727,3,Villa,110,1970,
+Hørupvej 16 9632 Møldrup,16,1400000.0,04-11-2015,Alm.,10218,4,Stuehus,137,1927,-6 %
+Ugelrisvej 15 9632 Møldrup,15,1050000.0,29-10-2015,Alm.,6953,5,Villa,151,1963,-19 %
+Vestergade 29 9632 Møldrup,29,985000.0,27-10-2015,Alm.,7880,4,Villa,125,2002,
+Gl. Aalborgvej 46 9632 Møldrup,46,1350000.0,20-10-2015,Alm.,6750,5,Villa,200,1967,
+Troelstrupvej 7 9632 Møldrup,7,650000.0,23-09-2015,Alm.,3869,5,Villa,168,1951,-6 %
+Søndergade 55 9632 Møldrup,55,730000.0,10-09-2015,Fam.,5793,4,Villa,126,1948,
+Hovedvejen 18 9632 Møldrup,18,605000.0,10-09-2015,Auktion,5260,4,Stuehus,115,1936,
+Skivevej 172 9632 Møldrup,172,2340000.0,09-09-2015,Alm.,11527,8,Stuehus,203,1930,
+Bøgevej 2 9632 Møldrup,2,505000.0,04-09-2015,Alm.,4429,3,Villa,114,1954,-8 %
+Søndergade 42 9632 Møldrup,42,685000.0,21-08-2015,Alm.,4254,4,Villa,161,1940,-14 %
+Naundrupvej 28 9632 Møldrup,28,1430000.0,07-08-2015,Alm.,8614,7,Stuehus,166,1916,-4 %
+Troelstrupvej 3 9632 Møldrup,3,2100000.0,18-07-2015,Alm.,8267,9,Stuehus,254,1909,-8 %
+Havrevænget 16 9632 Møldrup,16,1000000.0,14-07-2015,Fam.,6666,6,Villa,150,1973,
+Elmevej 14B 9632 Møldrup,0,625000.0,13-07-2015,Alm.,8333,3,Rækkehus,75,1980,
+Gl. Aalborgvej 57 9632 Møldrup,57,1350000.0,03-07-2015,Alm.,9183,8,Villa,147,1908,0 %
+Broholmvej 4 9632 Møldrup,4,190500.0,02-07-2015,Alm.,1465,4,Villa,130,1939,
+Havrevænget 5 9632 Møldrup,5,740000.0,25-06-2015,Alm.,5563,5,Villa,133,1973,
+Naundrupvej 18 9632 Møldrup,18,2047500.0,23-06-2015,Alm.,10393,5,Stuehus,197,1886,-32 %
+Ahornvej 49 9632 Møldrup,49,925000.0,14-06-2015,Alm.,7115,3,Villa,130,1987,-7 %
+Møllegade 9 9632 Møldrup,9,125000.0,10-06-2015,Alm.,744,5,Villa,168,2017,0 %
+Skinderupvej 11 9632 Møldrup,11,2000000.0,20-05-2015,Alm.,20833,4,Stuehus,96,1988,
+Bøgevej 9A 9632 Møldrup,0,500000.0,13-05-2015,Auktion,2262,6,Villa,221,1951,-16 %
+Ahornvej 72 9632 Møldrup,72,650000.0,22-04-2015,Alm.,6018,4,Villa,108,1987,-6 %
+Nørdamvej 40 9632 Møldrup,40,850000.0,21-04-2015,Alm.,6343,4,Stuehus,134,1903,-15 %
+Nybovænget 38 9632 Møldrup,38,1070000.0,17-04-2015,Alm.,6257,5,Villa,171,1975,-2 %
+Lundvej 15 9632 Møldrup,15,810000.0,10-04-2015,Alm.,6532,6,Stuehus,124,1923,-5 %
+Haugårdvej 7 9632 Møldrup,7,1725000.0,08-04-2015,Alm.,7876,7,Stuehus,219,1922,-7 %
+Havrevænget 7 9632 Møldrup,7,1770000.0,15-03-2015,Alm.,10727,5,Villa,165,1972,-7 %
+Tingvej 70 9632 Møldrup,70,740000.0,12-03-2015,Alm.,5068,4,Villa,146,1973,-1 %
+Gl. Aalborgvej 20 9632 Møldrup,20,1020000.0,19-02-2015,Alm.,6580,5,Villa,155,1915,-7 %
+Nørregade 10 9632 Møldrup,10,712500.0,12-02-2015,Fam.,5745,6,Villa,124,1963,-20 %
+Grønnegade 11 9632 Møldrup,11,875000.0,03-01-2015,Alm.,5833,5,Villa,150,1987,-2 %
+Birkevej 1 9632 Møldrup,1,655000.0,29-12-2014,Alm.,4145,5,Villa,158,1967,-6 %
+Nybovænget 1 9632 Møldrup,1,498000.0,17-12-2014,Alm.,4654,3,Villa,107,1968,0 %
+Skivevej 152 9632 Møldrup,152,329108.0,03-12-2014,Alm.,2350,3,Stuehus,140,2003,
+Nørdamvej 21 9632 Møldrup,21,420000.0,25-11-2014,Alm.,3255,4,Villa,129,1920,-15 %
+Kirkevænget 4 9632 Møldrup,4,2000000.0,18-11-2014,Andet,9090,7,Villa,220,2001,34 %
+Herredsvejen 93 9632 Møldrup,93,1100000.0,27-10-2014,Alm.,8088,5,Villa,136,1933,-8 %
+Gl. Aalborgvej 18 9632 Møldrup,18,325000.0,16-10-2014,Alm.,3571,3,Villa,91,1913,-34 %
+Skolegade 7 9632 Møldrup,7,1250000.0,30-09-2014,Fam.,6613,5,Villa,189,1953,-10 %
+Herredsvejen 96 9632 Møldrup,96,230644.0,25-09-2014,Alm.,2217,3,Villa,104,1959,
+Herredsvejen 76 9632 Møldrup,76,1400000.0,12-09-2014,Alm.,5857,10,Stuehus,239,1914,-6 %
+Toftevænget 2 9632 Møldrup,2,375000.0,04-09-2014,Alm.,3177,4,Villa,118,1970,
+Havrevænget 31 9632 Møldrup,31,537500.0,25-08-2014,Andet,3923,4,Villa,137,1976,
+Søndergade 57 9632 Møldrup,57,600000.0,22-08-2014,Alm.,4838,4,Villa,124,1977,-4 %
+Herredsvejen 134 9632 Møldrup,134,6470000.0,15-08-2014,Alm.,43716,5,Stuehus,148,1964,
+Vestergade 46 9632 Møldrup,46,625000.0,02-08-2014,Alm.,5165,5,Villa,121,1968,-4 %
+Elmevej 24 9632 Møldrup,24,950000.0,31-07-2014,Alm.,5828,4,Stuehus,163,1929,
+Herredsvejen 72 9632 Møldrup,72,730600.0,13-06-2014,Fam.,8208,3,Sommerhus,89,1968,
+Birkevej 4 9632 Møldrup,4,595000.0,11-06-2014,Alm.,6611,4,Villa,90,1966,
+Hørupvej 2 9632 Møldrup,2,652500.0,23-05-2014,Andet,5220,4,Stuehus,125,1935,
+Møllebækvej 18C 9632 Møldrup,0,450000.0,20-05-2014,Alm.,4090,4,Villa,110,2012,
+Søndergade 30 9632 Møldrup,30,905000.0,12-05-2014,Alm.,6073,6,Villa,149,1960,-9 %
+Birkevej 6 9632 Møldrup,6,665000.0,04-05-2014,Alm.,6273,4,Villa,106,1966,
+Bag Højen 4 9632 Møldrup,4,240000.0,22-04-2014,Alm.,1188,5,Villa,202,2015,
+Herredsvejen 77 9632 Møldrup,77,1150000.0,21-03-2014,Alm.,7371,5,Villa,156,1952,
+Bag Højen 16 9632 Møldrup,16,240000.0,13-03-2014,Alm.,1655,5,Villa,145,2014,
+Vestergade 56 9632 Møldrup,56,450000.0,03-03-2014,Alm.,4368,4,Villa,103,1964,-9 %
+Birkevej 5 9632 Møldrup,5,1256000.0,02-03-2014,Alm.,8373,5,Villa,150,1966,0 %
+Skolegade 9 9632 Møldrup,9,990000.0,21-02-2014,Alm.,8839,3,Villa,112,1940,-5 %
+Havrevænget 34 9632 Møldrup,34,550000.0,14-01-2014,Alm.,4700,4,Villa,117,1974,-8 %
+Ugelrisvej 36 9632 Møldrup,36,500000.0,09-01-2014,Alm.,2000,9,Villa,250,1914,-9 %
+Kallestrupvej 85 9632 Møldrup,85,3690000.0,18-12-2013,Alm.,11714,10,Stuehus,315,1836,
+Nybovænget 4 9632 Møldrup,4,500000.0,11-12-2013,Alm.,4807,4,Villa,104,1973,
+Drivvejen 8 9632 Møldrup,8,1610000.0,09-12-2013,Alm.,7666,8,Villa,210,1981,
+Gl. Aalborgvej 206 9632 Møldrup,206,650000.0,25-11-2013,Alm.,4779,5,Villa,136,1905,-6 %
+Halesøvej 1 9632 Møldrup,1,750000.0,16-10-2013,Alm.,3676,7,Stuehus,204,1928,
+Vestergade 9 9632 Møldrup,9,295000.0,10-10-2013,Alm.,1993,4,Villa,148,1948,-9 %
+Tingvej 53 9632 Møldrup,53,375000.0,01-10-2013,Alm.,2118,6,Stuehus,177,1867,
+Lucernevej 1 9632 Møldrup,1,403500.0,30-09-2013,Fam.,2966,4,Villa,136,1974,
+Kallestrupvej 91 9632 Møldrup,91,885000.0,10-09-2013,Alm.,4174,8,Stuehus,212,1884,
+Naundrupvej 5 9632 Møldrup,5,725000.0,29-08-2013,Alm.,6041,4,Villa,120,1952,-24 %
+Nybovænget 7 9632 Møldrup,7,530000.0,27-08-2013,Alm.,4380,4,Villa,121,1976,-8 %
+Søndergade 9C 9632 Møldrup,0,1400000.0,26-08-2013,Alm.,12068,5,Rækkehus,116,2013,-7 %
+Kallestrupvej 86 9632 Møldrup,86,4848000.0,22-08-2013,Alm.,16775,10,Stuehus,289,1916,
+Skivevej 176 9632 Møldrup,176,1996000.0,09-08-2013,Alm.,14895,4,Stuehus,134,1928,
+Møllegade 8 9632 Møldrup,8,700000.0,01-08-2013,Alm.,4347,7,Villa,161,1930,-28 %
+Vestergade 60 9632 Møldrup,60,485000.0,29-07-2013,Alm.,4217,4,Villa,115,1977,-17 %
+Gl. Aalborgvej 54 9632 Møldrup,54,750000.0,16-06-2013,Fam.,6578,4,Villa,114,1966,-6 %
+Drivvejen 6 9632 Møldrup,6,370000.0,10-06-2013,Auktion,2356,6,Villa,157,1980,-53 %
+Skovvænget 1 9632 Møldrup,1,450000.0,13-05-2013,Alm.,3947,4,Villa,114,1947,
+Elmevej 14A 9632 Møldrup,0,598000.0,23-04-2013,Alm.,7868,3,Rækkehus,76,1980,0 %
+Ndr. Troelstrupvej 9 9632 Møldrup,9,625000.0,16-04-2013,Alm.,3453,6,Stuehus,181,2013,
+Lundvej 21 9632 Møldrup,21,1445000.0,12-04-2013,Fam.,10946,5,Stuehus,132,1976,
+Ndr. Troelstrupvej 7 9632 Møldrup,7,933000.0,11-03-2013,Fam.,5795,4,Stuehus,161,1902,
+Halesøvej 4 9632 Møldrup,4,700000.0,28-02-2013,Alm.,2243,10,Villa,312,1900,-17 %
+Ahornvej 39 9632 Møldrup,39,2300000.0,19-02-2013,Alm.,10087,7,Villa,228,1999,
+Støttrupvej 72 9632 Møldrup,72,1800000.0,15-02-2013,Alm.,16822,4,Stuehus,107,1895,
+Herredsvejen 55 9632 Møldrup,55,1177032.0,24-01-2013,Alm.,6260,8,Stuehus,188,1926,-26 %
+Erhvervsvej 27 9632 Møldrup,27,1660000.0,10-01-2013,Auktion,6535,8,Villa,254,1985,
+Hørupvej 1 9632 Møldrup,1,3100000.0,08-01-2013,Alm.,20000,6,Stuehus,155,1912,
+Vestergade 38 9632 Møldrup,38,40000.0,17-12-2012,Auktion,373,2,Villa,107,1946,
+Halesøvej 12 9632 Møldrup,12,400000.0,23-11-2012,Alm.,4819,4,Villa,83,1920,
+Nygade 5 9632 Møldrup,5,515000.0,22-11-2012,Alm.,3652,3,Villa,141,1965,-6 %
+Erhvervsvej 3 9632 Møldrup,3,31908000.0,19-11-2012,Alm.,167057,5,Villa,191,1973,
+Ahornvej 74 9632 Møldrup,74,845000.0,19-10-2012,Alm.,7412,5,Villa,114,1987,-6 %
+Roumvej 4 9632 Møldrup,4,680000.0,18-10-2012,Alm.,3578,3,Villa,190,1930,
+Birkevej 11 9632 Møldrup,11,490000.0,27-09-2012,Alm.,3828,5,Villa,128,1969,
+Halesøvej 6 9632 Møldrup,6,675000.0,27-09-2012,Alm.,4272,4,Villa,158,1910,
+Bøgevej 7 9632 Møldrup,7,912500.0,20-09-2012,Alm.,9505,5,Villa,96,1957,
+Roumvej 9 9632 Møldrup,9,550000.0,02-09-2012,Alm.,5288,3,Villa,104,1969,0 %
+Nørregade 4D 9632 Møldrup,0,1025000.0,27-07-2012,Alm.,8913,3,Villa,115,1973,
+Elmevej 9 9632 Møldrup,9,513117.0,04-07-2012,Alm.,5830,3,Stuehus,88,1927,
+Tingvej 55 9632 Møldrup,55,1350000.0,21-05-2012,Alm.,8282,6,Stuehus,163,1892,-10 %
+Grønnegade 9 9632 Møldrup,9,740000.0,15-05-2012,Alm.,5441,4,Villa,136,1976,-7 %
+Ahornvej 6 9632 Møldrup,6,1010000.0,11-05-2012,Alm.,7829,5,Villa,129,1979,
+Nygade 17 9632 Møldrup,17,615000.0,26-04-2012,Alm.,3617,4,Villa,170,1920,
+Gl. Aalborgvej 10 9632 Møldrup,10,1845000.0,04-04-2012,Alm.,7321,6,Villa,252,1901,-8 %
+Skivevej 148 9632 Møldrup,148,950000.0,02-04-2012,Fam.,6934,4,Villa,137,1900,
+Hovedvejen 16 9632 Møldrup,16,1760000.0,31-03-2012,Alm.,9943,7,Villa,177,1887,-5 %
+Søndergade 18 9632 Møldrup,18,622500.0,22-03-2012,Fam.,3328,9,Villa,187,1910,
+Ahornvej 86 9632 Møldrup,86,1450000.0,23-01-2012,Alm.,9177,5,Villa,158,1999,-3 %
+Gl. Aalborgvej 50 9632 Møldrup,50,1178750.0,07-12-2011,Alm.,5750,7,Stuehus,205,1912,
+Fårebrovej 6 9632 Møldrup,6,994000.0,22-11-2011,Alm.,7308,3,Stuehus,136,1877,0 %
+Hørupvej 8 9632 Møldrup,8,600000.0,22-11-2011,Auktion,5000,4,Villa,120,1965,
+Gl. Aalborgvej 211 9632 Møldrup,211,1395000.0,05-11-2011,Alm.,10257,4,Stuehus,136,1964,
+Kallestrupvej 88 9632 Møldrup,88,3690000.0,18-10-2011,Alm.,24600,4,Stuehus,150,1877,
+Toftevænget 12 9632 Møldrup,12,720000.0,17-10-2011,Alm.,5714,4,Villa,126,1968,-3 %
+Søndergade 37 9632 Møldrup,37,615000.0,05-10-2011,Alm.,4361,4,Villa,141,1933,-5 %
+Møllegade 1 9632 Møldrup,1,600000.0,22-09-2011,Alm.,2843,6,Villa,211,1910,-14 %
+Nørdamvej 26 9632 Møldrup,26,1107000.0,22-09-2011,Alm.,0,5,Stuehus,168,1934,
+Østergade 10 9632 Møldrup,10,875000.0,14-09-2011,Alm.,9210,3,Villa,95,1938,0 %
+Jordemodervej 2 9632 Møldrup,2,460000.0,13-09-2011,Alm.,5227,3,Villa,88,1869,-8 %
+Skolegade 3 9632 Møldrup,3,798000.0,06-09-2011,Alm.,5465,5,Villa,146,1950,0 %
+Roumvej 2 9632 Møldrup,2,225000.0,05-09-2011,Alm.,2045,5,Villa,110,1949,-18 %
+Drivvejen 5 9632 Møldrup,5,565000.0,05-08-2011,Alm.,3363,6,Villa,168,1980,
+Herredsvejen 107 9632 Møldrup,107,645000.0,29-07-2011,Alm.,10750,3,Villa,60,1970,-9 %
+Ahornvej 52 9632 Møldrup,52,1275000.0,21-07-2011,Alm.,9172,5,Villa,139,1989,
+Naundrupvej 24 9632 Møldrup,24,2100000.0,17-07-2011,Alm.,0,6,Stuehus,171,1930,-16 %
+Kallestrupvej 97 9632 Møldrup,97,797000.0,15-06-2011,Alm.,6226,4,Stuehus,128,1900,
+Mariendalvej 2 9632 Møldrup,2,70000.0,30-05-2011,Alm.,259,8,Stuehus,270,1922,
+Herredsvejen 80 9632 Møldrup,80,725000.0,14-05-2011,Alm.,5708,3,Villa,127,1916,-24 %
+Herredsvejen 147 9632 Møldrup,147,525000.0,13-05-2011,Alm.,1744,7,Villa,301,2014,
+Vestergade 18 9632 Møldrup,18,620500.0,26-04-2011,Fam.,4432,2,Villa,140,1932,
+Birkevej 30 9632 Møldrup,30,745705.0,06-04-2011,Alm.,4438,6,Villa,168,1981,
+Herredsvejen 125 9632 Møldrup,125,695000.0,24-03-2011,Alm.,5791,4,Villa,120,1933,0 %
+Kirkevænget 2 9632 Møldrup,2,451300.0,14-03-2011,Alm.,1735,7,Villa,260,1920,
+Rolighedsvej 1A 9632 Møldrup,0,1130000.0,25-02-2011,Alm.,7151,6,Villa,158,1980,-5 %
+Rishøjen 36 9632 Møldrup,36,275000.0,18-02-2011,Alm.,1222,8,Villa,225,2016,
+Østergade 7 9632 Møldrup,7,520000.0,07-02-2011,Alm.,6500,3,Villa,80,1938,
+Nørdamvej 8 9632 Møldrup,8,975000.0,04-02-2011,Alm.,7116,5,Villa,137,1950,-2 %
+Dalvej 14 9632 Møldrup,14,1400000.0,04-02-2011,Alm.,7526,6,Villa,186,1931,-12 %
+Drivvejen 4 9632 Møldrup,4,1000000.0,27-01-2011,Alm.,7751,4,Villa,129,1980,-13 %
+Gl. Aalborgvej 52A 9632 Møldrup,0,11650000.0,21-12-2010,Alm.,89615,5,Stuehus,130,1942,
+Søndergade 9B 9632 Møldrup,0,300000.0,15-12-2010,Alm.,3296,4,Rækkehus,91,2013,-80 %
+Gl. Aalborgvej 71 9632 Møldrup,71,150000.0,05-12-2010,Alm.,1034,5,Villa,145,2011,
+Herredsvejen 88 9632 Møldrup,88,940000.0,29-11-2010,Alm.,7286,4,Villa,129,1980,-10 %
+Solbakkevej 6 9632 Møldrup,6,614874.0,17-11-2010,Alm.,2105,11,Villa,292,1907,
+Elmevej 14D 9632 Møldrup,0,650000.0,16-11-2010,Alm.,8552,3,Rækkehus,76,1980,
+Lucernevej 7 9632 Møldrup,7,950000.0,16-11-2010,Alm.,4947,5,Villa,192,1976,-5 %
+Gl. Aalborgvej 52B 9632 Møldrup,0,1400000.0,08-11-2010,Alm.,7486,8,Villa,187,1977,
+Birkevej 8 9632 Møldrup,8,725000.0,01-11-2010,Alm.,7178,3,Villa,101,1966,0 %
+Nørdamvej 34B 9632 Møldrup,0,1300000.0,26-10-2010,Alm.,10317,4,Villa,126,1964,
+Nybovænget 34 9632 Møldrup,34,765000.0,22-10-2010,Alm.,5239,4,Villa,146,2017,-9 %
+Elmevej 6A 9632 Møldrup,0,1350000.0,15-09-2010,Alm.,11440,5,Rækkehus,118,2010,
+Skolegade 15 9632 Møldrup,15,514000.0,03-09-2010,Alm.,6119,3,Villa,84,1950,
+Langmosevej 5 9632 Møldrup,5,1250000.0,26-08-2010,Alm.,7961,6,Villa,157,1976,-2 %
+Toftevænget 8 9632 Møldrup,8,780000.0,21-08-2010,Alm.,6902,4,Villa,113,1970,-2 %
+Herredsvejen 67 9632 Møldrup,67,1191300.0,10-08-2010,Fam.,14353,5,Villa,83,1937,
+Skravad Møllevej 8 9632 Møldrup,8,183870.0,10-07-2010,Alm.,1313,4,Villa,140,2010,
+Langmosevej 10 9632 Møldrup,10,825000.0,29-06-2010,Alm.,6932,4,Villa,119,1976,-3 %
+Herredsvejen 139 9632 Møldrup,139,510000.0,28-06-2010,Alm.,5100,3,Stuehus,100,1953,
+Herredsvejen 81 9632 Møldrup,81,650000.0,28-05-2010,Alm.,5855,4,Villa,111,1957,0 %
+Nørdamvej 22 9632 Møldrup,22,2100000.0,27-05-2010,Alm.,14383,4,Stuehus,146,1935,-4 %
+Hobrovej 29 9632 Møldrup,29,450000.0,26-05-2010,Fam.,3571,4,Villa,126,1954,
+Hobrovej 39 9632 Møldrup,39,700000.0,25-05-2010,Alm.,0,4,Villa,167,1898,-7 %
+Ahornvej 4 9632 Møldrup,4,969979.0,10-05-2010,Fam.,6100,5,Villa,159,2006,
+Skivevej 123 9632 Møldrup,123,800000.0,05-05-2010,Alm.,3238,6,Stuehus,247,1880,
+Lundvej 19 9632 Møldrup,19,1000000.0,04-05-2010,Alm.,0,7,Villa,136,1930,-9 %
+Dalvej 7 9632 Møldrup,7,1285913.0,20-04-2010,Alm.,7564,5,Stuehus,170,1965,
+Vestergade 14 9632 Møldrup,14,490000.0,17-04-2010,Alm.,4336,5,Villa,113,1931,
+Elmevej 6B 9632 Møldrup,0,1350000.0,30-03-2010,Alm.,11440,5,Rækkehus,118,2010,
+Grønnegade 2 9632 Møldrup,2,100000.0,03-03-2010,Alm.,826,6,Villa,121,1960,
+Nørdamvej 16 9632 Møldrup,16,7191300.0,23-02-2010,Fam.,32393,5,Stuehus,222,1984,
+Herredsvejen 132 9632 Møldrup,132,500000.0,19-01-2010,Alm.,3875,4,Villa,129,1966,
+Skivevej 166 9632 Møldrup,166,5619414.0,18-12-2009,Fam.,29732,6,Stuehus,189,2014,
+Tværgade 8 9632 Møldrup,8,699000.0,17-12-2009,Alm.,6025,4,Villa,116,1942,
+Birkevej 12 9632 Møldrup,12,780000.0,12-12-2009,Alm.,7358,4,Villa,106,1967,-13 %
+Skårupvej 82 9632 Møldrup,82,670000.0,10-12-2009,Auktion,4187,6,Stuehus,160,1904,-63 %
+Vestergade 26 9632 Møldrup,26,440000.0,27-11-2009,Alm.,0,4,Villa,120,1955,-12 %
+Gl. Aalborgvej 30 9632 Møldrup,30,1055000.0,26-11-2009,Alm.,7377,4,Villa,143,1973,-4 %
+Lundvej 17 9632 Møldrup,17,546926.0,24-11-2009,Andet,3878,4,Stuehus,141,1900,
+Nybovænget 3 9632 Møldrup,3,470000.0,10-11-2009,Auktion,3092,4,Villa,152,1970,
+Ahornvej 82B 9632 Møldrup,0,700000.0,26-10-2009,Alm.,7368,4,Villa,95,1988,
+Havrevænget 13 9632 Møldrup,13,1000000.0,10-10-2009,Alm.,5747,5,Villa,174,1974,-9 %
+Grønnegade 1 9632 Møldrup,1,495000.0,05-10-2009,Alm.,5322,3,Villa,93,1937,0 %
+Toftevænget 1 9632 Møldrup,1,950000.0,30-09-2009,Alm.,7089,4,Villa,134,1968,-5 %
+Nørdamvej 5 9632 Møldrup,5,565000.0,17-09-2009,Alm.,4248,3,Villa,133,1913,-13 %
+Vestergade 50 9632 Møldrup,50,625000.0,01-09-2009,Alm.,6250,4,Villa,100,1967,-10 %
+Mariendalvej 1 9632 Møldrup,1,1400000.0,07-08-2009,Alm.,3977,7,Villa,352,1952,-5 %
+Skolegade 6 9632 Møldrup,6,760000.0,05-08-2009,Alm.,5801,5,Villa,131,1940,-4 %
+Nybovænget 24 9632 Møldrup,24,775000.0,14-07-2009,Alm.,6054,4,Villa,128,1975,-3 %
+Ahornvej 70 9632 Møldrup,70,1045000.0,01-06-2009,Alm.,0,5,Villa,166,1989,-5 %
+Haugårdvej 19 9632 Møldrup,19,843819.0,19-05-2009,Andet,4219,4,Stuehus,200,1905,
+Møllegade 2 9632 Møldrup,2,1355000.0,30-04-2009,Alm.,8113,9,Villa,167,1905,-1 %
+Møllebækvej 1 9632 Møldrup,1,1240000.0,28-04-2009,Alm.,8266,5,Villa,150,1976,-4 %
+Skravad Møllevej 6 9632 Møldrup,6,1285913.0,08-04-2009,Alm.,5664,6,Stuehus,227,1931,
+Elmevej 12 9632 Møldrup,12,630000.0,06-04-2009,Alm.,6000,4,Rækkehus,105,1917,-9 %
+Søndergade 24 9632 Møldrup,24,500000.0,30-03-2009,Alm.,3086,5,Villa,162,1935,
+Elmevej 10 9632 Møldrup,10,560000.0,02-03-2009,Auktion,5000,6,Rækkehus,112,1917,
+Ahornvej 43 9632 Møldrup,43,1500000.0,20-02-2009,Alm.,10000,5,Villa,150,1990,-6 %
+Vestergade 48 9632 Møldrup,48,356571.0,03-02-2009,Andet,3495,4,Villa,102,1964,
+Mariendalvej 3 9632 Møldrup,3,950000.0,26-01-2009,Fam.,9500,3,Villa,100,1965,
+Vestergade 22 9632 Møldrup,22,700000.0,23-12-2008,Alm.,5511,4,Villa,127,1939,-6 %
+Østergade 15 9632 Møldrup,15,360000.0,22-12-2008,Alm.,5294,4,Villa,68,1935,-20 %
+Vestergade 24 9632 Møldrup,24,675000.0,22-12-2008,Alm.,9507,2,Villa,71,1920,-2 %
+Søndergade 22 9632 Møldrup,22,687500.0,15-12-2008,Alm.,2614,7,Villa,263,1927,
+Herredsvejen 95A 9632 Møldrup,0,1710000.0,08-12-2008,Alm.,0,4,Villa,138,2009,
+Ahornvej 62 9632 Møldrup,62,750000.0,21-11-2008,Alm.,7075,4,Villa,106,1989,
+Halesøvej 14 9632 Møldrup,14,150000.0,19-11-2008,Alm.,867,5,Villa,173,2010,
+Bavsøvej 25 9632 Møldrup,25,2000000.0,18-11-2008,Fam.,9049,6,Stuehus,221,1928,
+Kløvervej 6 9632 Møldrup,6,600000.0,14-11-2008,Alm.,3636,5,Villa,165,1972,
+Gl. Aalborgvej 12 9632 Møldrup,12,820000.0,29-10-2008,Alm.,9111,3,Villa,90,1961,-4 %
+Nybovænget 20 9632 Møldrup,20,1390000.0,10-09-2008,Alm.,10775,4,Villa,129,1975,-1 %
+Nordskoven 4 9632 Møldrup,4,650000.0,08-09-2008,Alm.,6372,5,Villa,102,1973,
+Kallestrupvej 115 9632 Møldrup,115,724500.0,01-08-2008,Alm.,7546,3,Villa,96,1973,
+Halesøvej 7 9632 Møldrup,7,2350000.0,22-07-2008,Alm.,12239,6,Stuehus,192,1938,-61 %
+Nordskoven 6 9632 Møldrup,6,1450000.0,09-07-2008,Alm.,7837,7,Villa,185,1973,0 %
+Nybovænget 28 9632 Møldrup,28,900000.0,19-06-2008,Fam.,7438,3,Villa,121,1975,
+Tingvej 51B 9632 Møldrup,0,970000.0,05-06-2008,Alm.,9150,4,Villa,106,1986,-3 %
+Bøgevej 5 9632 Møldrup,5,825000.0,04-06-2008,Alm.,6600,3,Villa,125,1952,
+Skovvænget 7 9632 Møldrup,7,550000.0,02-06-2008,Alm.,3021,7,Villa,182,1977,
+Ahornvej 34A 9632 Møldrup,0,675000.0,14-05-2008,Alm.,7417,3,Rækkehus,91,1978,
+Langmosevej 7 9632 Møldrup,7,965000.0,05-05-2008,Alm.,6701,4,Villa,144,1976,-3 %
+Skolegade 14 9632 Møldrup,14,800000.0,30-04-2008,Alm.,7017,4,Villa,114,1955,
+Tingvej 82 9632 Møldrup,82,1000000.0,21-04-2008,Alm.,8771,5,Villa,114,1910,
+Ahornvej 21 9632 Møldrup,21,725000.0,14-04-2008,Alm.,5178,5,Villa,140,1991,
+Tingvej 58 9632 Møldrup,58,1700000.0,08-04-2008,Alm.,6390,7,Villa,266,1922,-48 %
+Østergade 4A 9632 Møldrup,0,810000.0,03-04-2008,Alm.,7297,4,Villa,111,1969,-3 %
+Bag Højen 28 9632 Møldrup,28,368000.0,28-03-2008,Alm.,1635,5,Villa,225,2009,
+Bag Højen 14 9632 Møldrup,14,301000.0,27-03-2008,Alm.,1681,6,Villa,179,2010,
+Bag Højen 30 9632 Møldrup,30,340050.0,27-03-2008,Alm.,2165,5,Villa,157,2010,
+Bag Højen 26 9632 Møldrup,26,406000.0,27-03-2008,Alm.,1657,6,Villa,245,2009,
+Søndergade 25 9632 Møldrup,25,475000.0,18-03-2008,Alm.,3166,6,Villa,150,1900,-17 %
+Bøgevej 6 9632 Møldrup,6,500000.0,07-03-2008,Alm.,7352,3,Villa,68,1958,
+Højvangen 4 9632 Møldrup,4,712500.0,03-03-2008,Andet,3562,6,Villa,200,1974,
+Gl. Aalborgvej 2 9632 Møldrup,2,1500000.0,29-02-2008,Fam.,8620,6,Stuehus,174,1940,
+Gl. Aalborgvej 17 9632 Møldrup,17,74000.0,21-02-2008,Alm.,304,5,Villa,243,2013,
+Vestergade 12 9632 Møldrup,12,870000.0,18-02-2008,Alm.,8207,4,Villa,106,1926,-3 %
+Herredsvejen 100 9632 Møldrup,100,250000.0,30-01-2008,Alm.,1358,5,Villa,184,1906,
+Søndergade 7 9632 Møldrup,7,650000.0,29-01-2008,Alm.,3823,6,Villa,170,1955,0 %
+Ahornvej 35 9632 Møldrup,35,100000.0,23-01-2008,Alm.,606,5,Villa,165,2008,
+Søndergade 26 9632 Møldrup,26,650000.0,19-01-2008,Alm.,2876,6,Villa,226,1922,-18 %
+Ahornvej 53A 9632 Møldrup,0,820000.0,11-01-2008,Alm.,8723,4,Rækkehus,94,1981,-3 %
+Gl. Aalborgvej 213 9632 Møldrup,213,1230000.0,07-01-2008,Alm.,4212,8,Villa,292,1980,
+Ahornvej 24B 9632 Møldrup,0,725000.0,27-12-2007,Alm.,7880,3,Rækkehus,92,1981,
+Søndergade 29 9632 Møldrup,29,695000.0,18-12-2007,Alm.,3971,6,Villa,175,1906,0 %
+Nordskoven 3 9632 Møldrup,3,1700000.0,18-12-2007,Alm.,9770,5,Villa,174,1983,-1 %
+Kirketoften 8 9632 Møldrup,8,105000.0,11-12-2007,Alm.,406,7,Villa,258,2010,
+Bøgevej 10 9632 Møldrup,10,1710000.0,22-11-2007,Alm.,10687,7,Villa,160,1930,-1 %
+Kirketoften 4 9632 Møldrup,4,900000.0,09-11-2007,Fam.,5389,5,Villa,167,1986,
+Vestergade 25 9632 Møldrup,25,469278.0,05-11-2007,Andet,3846,4,Villa,122,1950,
+Astrupvænget 19 9632 Møldrup,19,165000.0,12-10-2007,Alm.,753,6,Villa,219,2009,
+Nybovænget 33 9632 Møldrup,33,415301.0,08-10-2007,Andet,3053,5,Villa,136,1978,
+Nybovænget 10 9632 Møldrup,10,1345000.0,21-09-2007,Alm.,8848,5,Villa,152,1974,0 %
+Nybovænget 5 9632 Møldrup,5,1215000.0,17-09-2007,Alm.,10125,4,Villa,120,1972,
+Østergade 17 9632 Møldrup,17,740000.0,31-08-2007,Alm.,6379,5,Villa,116,1946,0 %
+Gl. Aalborgvej 25 9632 Møldrup,25,700000.0,20-08-2007,Alm.,4575,6,Villa,153,1920,
+Nygade 6 9632 Møldrup,6,625000.0,16-07-2007,Alm.,8680,2,Villa,72,1962,-4 %
+Søndergade 33 9632 Møldrup,33,425000.0,09-07-2007,Alm.,3219,6,Villa,132,1925,-6 %
+Hørupvej 3A 9632 Møldrup,0,1200000.0,06-06-2007,Alm.,0,7,Stuehus,153,1943,
+Gl. Aalborgvej 1 9632 Møldrup,1,24000000.0,01-06-2007,Alm.,137142,7,Stuehus,175,1880,
+Bøgevej 18 9632 Møldrup,18,660000.0,24-05-2007,Alm.,8048,3,Rækkehus,82,1985,
+Gl. Aalborgvej 21 9632 Møldrup,21,300000.0,23-05-2007,Alm.,3000,3,Villa,100,1946,-14 %
+"Jernbanegade 14, 1 9632 Møldrup",1,1700000.0,08-05-2007,Alm.,16037,4,Lejlighed,106,1902,
+Herredsvejen 97 9632 Møldrup,97,1200000.0,03-05-2007,Alm.,9523,4,Villa,126,1937,9 %
+Gl. Aalborgvej 23 9632 Møldrup,23,1380000.0,01-05-2007,Alm.,17692,4,Villa,78,1964,
+Hobrovej 20B 9632 Møldrup,0,200000.0,25-04-2007,Alm.,781,9,Villa,256,2008,
+Grønnegade 6 9632 Møldrup,6,795000.0,23-04-2007,Alm.,8548,3,Villa,93,1961,
+Vestergade 54 9632 Møldrup,54,725000.0,20-04-2007,Alm.,5178,6,Villa,140,1964,-3 %
+Bøgevej 15 9632 Møldrup,15,695000.0,04-04-2007,Alm.,6619,5,Villa,105,1959,
+Ahornvej 36A 9632 Møldrup,0,780000.0,23-02-2007,Alm.,8478,3,Rækkehus,92,1978,
+Nørdamvej 17 9632 Møldrup,17,2100000.0,12-02-2007,Fam.,10659,4,Stuehus,197,1906,
+Hovedvejen 20 9632 Møldrup,20,2576808.0,08-02-2007,Alm.,18947,4,Stuehus,136,1913,
+Søndergade 21 9632 Møldrup,21,525000.0,05-02-2007,Alm.,3697,6,Villa,142,1900,0 %
+Hobrovej 33A 9632 Møldrup,0,7600000.0,01-02-2007,Alm.,36190,7,Stuehus,210,1870,
+Møllegade 4 9632 Møldrup,4,4100000.0,30-01-2007,Andet,16078,8,Villa,255,1917,
+Nørdamvej 7 9632 Møldrup,7,425000.0,22-01-2007,Alm.,7203,2,Villa,59,1925,
+Søndergade 10 9632 Møldrup,10,620000.0,22-01-2007,Alm.,5123,5,Villa,121,1912,
+Skivevej 127 9632 Møldrup,127,452500.0,15-01-2007,Andet,2776,5,Villa,163,1931,
+Gl. Aalborgvej 201 9632 Møldrup,201,5620065.0,12-01-2007,Alm.,20970,7,Stuehus,268,1915,
+Ahornvej 10 9632 Møldrup,10,1500000.0,09-01-2007,Alm.,8021,8,Villa,187,1978,
+Ahornvej 84 9632 Møldrup,84,100000.0,04-01-2007,Alm.,483,6,Villa,207,2008,
+Astrupvænget 36 9632 Møldrup,36,200000.0,30-11-2006,Alm.,1104,4,Villa,181,2009,
+Skolegade 8 9632 Møldrup,8,695000.0,17-11-2006,Alm.,5472,5,Villa,127,1938,
+Skravad Møllevej 3 9632 Møldrup,3,3250000.0,08-11-2006,Alm.,18895,7,Stuehus,172,1924,
+Ahornvej 53B 9632 Møldrup,0,695000.0,19-10-2006,Alm.,7393,4,Rækkehus,94,1981,
+Herredsvejen 79 9632 Møldrup,79,625000.0,17-10-2006,Alm.,0,6,Villa,121,1936,
+Astrupvænget 26 9632 Møldrup,26,255000.0,16-10-2006,Alm.,1314,7,Villa,194,2008,
+Drivvejen 2 9632 Møldrup,2,45000.0,06-10-2006,Alm.,428,4,Villa,105,2009,
+Nørdamvej 10 9632 Møldrup,10,812500.0,29-09-2006,Alm.,5845,4,Stuehus,139,1993,
+Ahornvej 31 9632 Møldrup,31,1395000.0,29-09-2006,Alm.,10730,4,Villa,130,2001,
+Møllebækvej 4 9632 Møldrup,4,910230.0,27-09-2006,Fam.,6277,5,Villa,145,1968,
+Skårupvej 67 9632 Møldrup,67,90000.0,17-09-2006,Alm.,1168,3,Villa,77,1951,
+Østergade 14 9632 Møldrup,14,575000.0,13-09-2006,Alm.,4791,4,Villa,120,1966,
+Gl. Aalborgvej 27 9632 Møldrup,27,798000.0,01-09-2006,Alm.,4836,6,Villa,165,1927,
+Roumvej 14 9632 Møldrup,14,261339.0,01-09-2006,Fam.,2041,4,Villa,128,1965,
+Astrupvænget 12 9632 Møldrup,12,140000.0,28-08-2006,Alm.,1138,5,Villa,123,2008,
+Herredsvejen 103 9632 Møldrup,103,825000.0,17-08-2006,Fam.,5463,4,Villa,151,1966,
+Gl. Aalborgvej 26 9632 Møldrup,26,725000.0,16-08-2006,Alm.,0,4,Villa,145,1952,
+Hobrovej 4 9632 Møldrup,4,898000.0,14-08-2006,Alm.,6193,4,Villa,145,1976,
+Møllegade 7 9632 Møldrup,7,999000.0,13-08-2006,Alm.,8056,6,Villa,124,1946,
+Hovedvejen 1 9632 Møldrup,1,400000.0,09-08-2006,Alm.,3030,7,Villa,132,1961,
+Hørup Møllevej 3 9632 Møldrup,3,2850000.0,31-07-2006,Alm.,20212,5,Villa,141,1897,
+Tingvej 64 9632 Møldrup,64,650000.0,28-07-2006,Alm.,5652,4,Stuehus,115,1888,
+Nørdamvej 23 9632 Møldrup,23,225000.0,13-07-2006,Alm.,1551,4,Villa,145,1930,
+Erhvervsvej 7 9632 Møldrup,7,2200000.0,03-07-2006,Alm.,12643,7,Villa,174,1984,
+Vestergade 16 9632 Møldrup,16,850000.0,28-06-2006,Alm.,6910,5,Villa,123,1930,
+Østergade 23 9632 Møldrup,23,695000.0,21-06-2006,Alm.,5186,5,Villa,134,1952,
+Astrupvænget 27 9632 Møldrup,27,370000.0,01-06-2006,Alm.,1345,6,Villa,275,2007,
+Ahornvej 13 9632 Møldrup,13,1440000.0,29-05-2006,Alm.,9795,5,Villa,147,1990,
+Bygvænget 1 9632 Møldrup,1,1450000.0,22-05-2006,Alm.,8529,4,Villa,170,1971,
+Anlægsvej 4A 9632 Møldrup,0,560000.0,13-05-2006,Fam.,0,4,Villa,129,1939,
+Tingvej 60 9632 Møldrup,60,1445000.0,03-05-2006,Fam.,0,8,Stuehus,237,1951,
+Skolegade 25 9632 Møldrup,25,800000.0,27-04-2006,Alm.,6015,4,Villa,133,1953,
+Grønnegade 4 9632 Møldrup,4,760000.0,18-04-2006,Alm.,6495,4,Villa,117,1962,
+Astrupvænget 21 9632 Møldrup,21,185000.0,06-04-2006,Alm.,920,6,Villa,201,2008,
+Nørdamvej 32 9632 Møldrup,32,1800000.0,29-03-2006,Alm.,8571,9,Stuehus,210,1934,
+Teglgårdvej 1 9632 Møldrup,1,1000000.0,20-03-2006,Fam.,6410,8,Villa,156,1887,
+Astrupvænget 23 9632 Møldrup,23,185000.0,10-03-2006,Alm.,1057,6,Villa,175,2007,
+Astrupvænget 25 9632 Møldrup,25,185000.0,15-02-2006,Alm.,1121,5,Villa,165,2007,
+Højvangen 5 9632 Møldrup,5,730000.0,08-02-2006,Alm.,0,4,Villa,128,1975,
+Vestergade 20 9632 Møldrup,20,505000.0,27-01-2006,Alm.,6644,2,Villa,76,1933,
+Nørregade 4A 9632 Møldrup,0,1040000.0,26-01-2006,Alm.,5875,5,Villa,177,1932,
+Kløvervej 7 9632 Møldrup,7,840000.0,05-01-2006,Alm.,7058,4,Villa,119,1973,
+Vestergade 36 9632 Møldrup,36,850000.0,21-12-2005,Alm.,6159,4,Villa,138,1946,
+Astrupvænget 40 9632 Møldrup,40,115000.0,15-12-2005,Alm.,839,5,Villa,137,2007,
+Herredsvejen 61 9632 Møldrup,61,75000.0,14-12-2005,Alm.,714,3,Stuehus,105,1897,
+Astrupvænget 10 9632 Møldrup,10,115000.0,02-12-2005,Alm.,771,4,Villa,149,2010,
+Broholmvej 8 9632 Møldrup,8,950000.0,22-11-2005,Alm.,7364,8,Stuehus,129,1942,
+Møllebækvej 5B 9632 Møldrup,0,295000.0,21-11-2005,Alm.,1391,5,Villa,212,2008,
+Rishøjen 14 9632 Møldrup,14,175000.0,09-11-2005,Alm.,1047,4,Villa,167,2007,
+Drivvejen 10 9632 Møldrup,10,1149000.0,04-11-2005,Alm.,6491,8,Villa,177,1979,
+Hørup Møllevej 9 9632 Møldrup,9,3250000.0,03-11-2005,Alm.,18895,5,Stuehus,172,1919,
+Rishøjen 6 9632 Møldrup,6,175000.0,03-11-2005,Alm.,1129,4,Villa,155,2007,
+Fårebrovej 3 9632 Møldrup,3,1800000.0,02-11-2005,Alm.,14754,5,Stuehus,122,1970,
+Nørdamvej 15 9632 Møldrup,15,348400.0,27-09-2005,Fam.,3029,5,Stuehus,115,1912,
+Skravad Møllevej 11 9632 Møldrup,11,850000.0,27-09-2005,Alm.,34000,3,Stuehus,25,1877,
+Bøgevej 20 9632 Møldrup,20,563000.0,27-09-2005,Alm.,6865,3,Rækkehus,82,1985,
+Herredsvejen 98 9632 Møldrup,98,595000.0,19-09-2005,Alm.,4375,5,Villa,136,1958,
+Mosevænget 7 9632 Møldrup,7,700000.0,16-09-2005,Alm.,5035,7,Villa,139,1972,
+Herredsvejen 57 9632 Møldrup,57,1550000.0,14-09-2005,Alm.,5893,6,Stuehus,263,1918,
+Østergade 8 9632 Møldrup,8,700000.0,13-09-2005,Alm.,3608,7,Villa,194,1910,
+Tingvej 51A 9632 Møldrup,0,510000.0,09-09-2005,Alm.,3642,3,Villa,140,1948,
+Astrupvænget 24 9632 Møldrup,24,232500.0,25-08-2005,Alm.,1217,5,Villa,191,2006,
+Nørdamvej 11 9632 Møldrup,11,192360.0,19-07-2005,Alm.,0,6,Stuehus,277,1911,
+Vestergade 28 9632 Møldrup,28,550000.0,18-07-2005,Alm.,3819,4,Rækkehus,144,1907,
+Møllebækvej 9 9632 Møldrup,9,850000.0,07-07-2005,Alm.,6115,5,Villa,139,1974,
+Tostrupvej 1 9632 Møldrup,1,250000.0,04-07-2005,Alm.,0,5,Villa,132,1960,
+Ahornvej 29 9632 Møldrup,29,95000.0,01-07-2005,Alm.,840,4,Villa,113,2006,
+Bøgevej 13 9632 Møldrup,13,460500.0,06-06-2005,Alm.,5354,4,Villa,86,1956,
+Rishøjen 20 9632 Møldrup,20,150000.0,26-05-2005,Alm.,872,5,Villa,172,2006,
+Nørregade 4B 9632 Møldrup,0,845000.0,28-04-2005,Alm.,5950,4,Villa,142,1976,
+Ndr. Troelstrupvej 3 9632 Møldrup,3,4500000.0,07-04-2005,Alm.,18442,9,Stuehus,244,1915,
+Solbakkevej 9 9632 Møldrup,9,140000.0,29-03-2005,Alm.,864,5,Villa,162,2006,
+Hobrovej 3 9632 Møldrup,3,520000.0,18-03-2005,Alm.,4227,4,Villa,123,1970,
+Hobrovej 22 9632 Møldrup,22,865000.0,15-03-2005,Alm.,6553,3,Villa,132,1987,
+Grønnegade 5 9632 Møldrup,5,589000.0,04-03-2005,Alm.,5077,3,Villa,116,1962,
+Nybovænget 17 9632 Møldrup,17,775000.0,16-02-2005,Alm.,5166,6,Villa,150,1974,
+Skivevej 164 9632 Møldrup,164,1160300.0,15-02-2005,Fam.,8287,5,Stuehus,140,1938,
+Søndergade 19A 9632 Møldrup,0,280000.0,10-01-2005,Alm.,2393,5,Villa,117,1900,
+Hobrovej 37 9632 Møldrup,37,1450000.0,10-01-2005,Alm.,7397,7,Villa,196,1870,
+Østergade 16 9632 Møldrup,16,725000.0,28-12-2004,Alm.,5330,3,Villa,136,1972,
+Gl. Aalborgvej 204 9632 Møldrup,204,243100.0,22-12-2004,Alm.,2762,4,Stuehus,88,1930,
+Lundvej 9 9632 Møldrup,9,58975.0,20-12-2004,Alm.,337,7,Stuehus,175,1877,
+Skovvænget 2 9632 Møldrup,2,500000.0,15-11-2004,Alm.,0,5,Villa,156,1951,
+Langmosevej 15 9632 Møldrup,15,825000.0,16-10-2004,Alm.,4532,7,Villa,182,1979,
+Rishøjen 4 9632 Møldrup,4,175000.0,15-09-2004,Alm.,1767,3,Villa,99,2005,
+Nordskoven 19 9632 Møldrup,19,1285000.0,14-09-2004,Alm.,6489,6,Villa,198,1979,
+Nørdamvej 20 9632 Møldrup,20,1088000.0,27-08-2004,Alm.,7771,4,Villa,140,1904,
+Teglgårdvej 14 9632 Møldrup,14,1230000.0,10-08-2004,Alm.,6473,6,Stuehus,190,1908,
+Højvangen 1 9632 Møldrup,1,970000.0,26-07-2004,Alm.,3880,10,Villa,250,1975,
+Broholmvej 1 9632 Møldrup,1,1115000.0,11-07-2004,Alm.,2957,10,Villa,377,1930,
+Tingvej 54 9632 Møldrup,54,1575000.0,20-06-2004,Alm.,0,4,Sommerhus,122,1986,
+Ahornvej 28 9632 Møldrup,28,1050000.0,18-06-2004,Alm.,5198,5,Villa,202,1979,
+Hørupvej 12 9632 Møldrup,12,995130.0,18-06-2004,Alm.,5025,8,Stuehus,198,1924,
+Fårebrovej 4 9632 Møldrup,4,998000.0,07-06-2004,Alm.,0,6,Stuehus,173,1899,
+Nørdamvej 36 9632 Møldrup,36,1300000.0,27-05-2004,Fam.,11403,3,Stuehus,114,1932,
+Langmosevej 8 9632 Møldrup,8,819673.0,24-05-2004,Alm.,5428,5,Villa,151,1977,
+Rugvænget 15 9632 Møldrup,15,800000.0,19-05-2004,Alm.,4081,7,Villa,196,1973,
+Mariendalvej 4 9632 Møldrup,4,150000.0,17-05-2004,Alm.,566,9,Stuehus,265,1925,
+Havrevænget 26 9632 Møldrup,26,935000.0,30-04-2004,Alm.,4065,7,Villa,230,1916,
+Ahornvej 56 9632 Møldrup,56,880000.0,16-04-2004,Alm.,8224,4,Villa,107,1989,
+Nybovænget 40 9632 Møldrup,40,386906.0,06-04-2004,Fam.,0,9,Villa,262,1976,
+Gl. Aalborgvej 8 9632 Møldrup,8,550000.0,05-04-2004,Alm.,0,6,Villa,158,1936,
+Skivevej 131 9632 Møldrup,131,685000.0,31-03-2004,Fam.,0,6,Stuehus,202,1916,
+Halesøvej 9 9632 Møldrup,9,555000.0,22-03-2004,Fam.,2761,8,Stuehus,201,1893,
+Fjelsøvej 6 9632 Møldrup,6,3500000.0,04-03-2004,Alm.,11146,8,Stuehus,314,1932,
+Elmevej 4 9632 Møldrup,4,495000.0,25-02-2004,Alm.,7983,2,Villa,62,1958,
+Møllegade 3 9632 Møldrup,3,331000.0,09-02-2004,Auktion,2192,3,Villa,151,1900,
+Rishøjen 8 9632 Møldrup,8,175000.0,22-01-2004,Alm.,0,5,Villa,177,2004,
+Rishøjen 10 9632 Møldrup,10,175000.0,22-01-2004,Alm.,951,7,Villa,184,2005,
+Rishøjen 12 9632 Møldrup,12,175000.0,22-01-2004,Alm.,875,5,Villa,200,2005,
+Hørup Møllevej 28 9632 Møldrup,28,200000.0,21-01-2004,Alm.,1234,5,Stuehus,162,2004,
+Nørdamvej 18 9632 Møldrup,18,1000000.0,05-01-2004,Alm.,6802,6,Stuehus,147,1938,
+Søndergade 38 9632 Møldrup,38,775000.0,18-12-2003,Alm.,5740,6,Villa,135,1959,
+Søndergade 32 9632 Møldrup,32,775000.0,04-12-2003,Alm.,4378,4,Villa,177,1959,
+Herredsvejen 68 9632 Møldrup,68,295000.0,25-11-2003,Alm.,2610,4,Villa,113,1910,
+Dalvej 1 9632 Møldrup,1,325000.0,10-11-2003,Alm.,3611,3,Villa,90,1890,
+Østergade 21 9632 Møldrup,21,306000.0,05-11-2003,Fam.,2807,4,Villa,109,1948,
+Skolegade 21 9632 Møldrup,21,887000.0,21-10-2003,Alm.,3823,8,Villa,232,1968,
+Nørdamvej 9 9632 Møldrup,9,221000.0,20-10-2003,Fam.,1888,7,Villa,117,1953,
+Grønnegade 3 9632 Møldrup,3,350000.0,16-10-2003,Fam.,3645,4,Villa,96,1961,
+Herredsvejen 126 9632 Møldrup,126,360000.0,06-10-2003,Fam.,3333,3,Rækkehus,108,1961,
+Østergade 1 9632 Møldrup,1,650000.0,10-09-2003,Alm.,4276,5,Villa,152,1905,
+Rolighedsvej 3A 9632 Møldrup,0,550000.0,01-09-2003,Alm.,5045,5,Villa,109,1910,
+Lundvej 11 9632 Møldrup,11,1346000.0,24-08-2003,Alm.,6202,9,Stuehus,217,1931,
+Møllebækvej 13A 9632 Møldrup,0,1470000.0,12-08-2003,Fam.,14700,4,Stuehus,100,1850,
+Nygade 8 9632 Møldrup,8,695000.0,06-08-2003,Alm.,6261,4,Villa,111,1966,
+Ahornvej 46 9632 Møldrup,46,830000.0,29-07-2003,Alm.,0,5,Villa,123,1986,
+Bavsøvej 31 9632 Møldrup,31,1425000.0,11-07-2003,Alm.,0,7,Stuehus,168,1912,
+Hørupvej 18 9632 Møldrup,18,1075000.0,04-07-2003,Alm.,8958,5,Stuehus,120,1910,
+Gl. Aalborgvej 221 9632 Møldrup,221,6151502.0,12-06-2003,Alm.,36616,5,Stuehus,168,1918,
+Spanggårdvej 4 9632 Møldrup,4,5869069.0,26-05-2003,Fam.,19179,7,Stuehus,306,1973,
+Vestergade 13 9632 Møldrup,13,373211.0,22-05-2003,Andet,2724,5,Villa,137,1948,
+Ahornvej 12 9632 Møldrup,12,998000.0,15-05-2003,Alm.,6653,6,Villa,150,1978,
+Vestergade 66 9632 Møldrup,66,1289000.0,14-05-2003,Alm.,6543,7,Stuehus,197,1962,
+Havrevænget 37 9632 Møldrup,37,660000.0,01-05-2003,Alm.,5038,5,Villa,131,1975,
+Troelstrupvej 4 9632 Møldrup,4,455000.0,04-04-2003,Alm.,3500,4,Villa,130,1927,
+Havrevænget 12 9632 Møldrup,12,795000.0,04-04-2003,Alm.,4732,5,Villa,168,1975,
+Naundrupvej 14 9632 Møldrup,14,1650000.0,26-03-2003,Alm.,8638,6,Stuehus,191,2013,
+Møllebækvej 7 9632 Møldrup,7,593223.0,22-03-2003,Alm.,6818,2,Villa,87,1959,
+Nygade 13 9632 Møldrup,13,640000.0,22-03-2003,Alm.,5333,2,Villa,120,1966,
+Tværgade 4 9632 Møldrup,4,450000.0,19-03-2003,Alm.,4736,4,Villa,95,1945,
+Østergade 5 9632 Møldrup,5,750000.0,14-03-2003,Fam.,5172,8,Villa,145,1938,
+Roumvej 5 9632 Møldrup,5,347000.0,12-03-2003,Alm.,3855,3,Villa,90,1966,
+Naundrupvej 23 9632 Møldrup,23,555000.0,25-02-2003,Alm.,0,6,Villa,163,1971,
+Skolegade 13 9632 Møldrup,13,687500.0,06-02-2003,Alm.,6250,4,Villa,110,1970,
+Ahornvej 82A 9632 Møldrup,0,599000.0,30-12-2002,Alm.,6305,4,Villa,95,1988,
+Herredsvejen 90 9632 Møldrup,90,365000.0,29-11-2002,Alm.,2786,5,Villa,131,1933,
+Hobrovej 41 9632 Møldrup,41,1100000.0,11-11-2002,Alm.,6214,7,Villa,177,1931,
+Nybovænget 25 9632 Møldrup,25,430000.0,07-11-2002,Alm.,0,6,Villa,198,1976,
+Møllebækvej 11 9632 Møldrup,11,272000.0,07-11-2002,Andet,0,4,Villa,159,1968,
+Astrupvænget 28 9632 Møldrup,28,225000.0,14-10-2002,Alm.,1113,6,Villa,202,2004,
+Skinderupvej 16 9632 Møldrup,16,1405000.0,10-10-2002,Alm.,8074,7,Stuehus,174,2004,
+Skivevej 156 9632 Møldrup,156,360462.0,08-10-2002,Alm.,3400,5,Villa,106,1910,
+Ahornvej 27 9632 Møldrup,27,86000.0,02-09-2002,Alm.,565,4,Villa,152,2003,
+Haugårdvej 5A 9632 Møldrup,0,775000.0,12-08-2002,Alm.,3176,6,Villa,244,1900,
+Herredsvejen 124 9632 Møldrup,124,385000.0,10-08-2002,Alm.,2436,5,Rækkehus,158,1961,
+Astrupvænget 30 9632 Møldrup,30,180000.0,12-07-2002,Alm.,1005,5,Villa,179,2003,
+Mariendalvej 6 9632 Møldrup,6,795000.0,17-06-2002,Alm.,0,7,Villa,218,1928,
+Langmosevej 2 9632 Møldrup,2,645000.0,16-06-2002,Alm.,5201,5,Villa,124,1976,
+Nørdamvej 38 9632 Møldrup,38,290700.0,06-06-2002,Alm.,1571,8,Stuehus,185,1910,
+Herredsvejen 151 9632 Møldrup,151,2142105.0,29-05-2002,Fam.,11769,7,Stuehus,182,1900,
+Teglgårdvej 4 9632 Møldrup,4,280357.0,17-05-2002,Alm.,1177,11,Villa,238,1935,
+Naundrupvej 34 9632 Møldrup,34,375000.0,16-05-2002,Alm.,3125,5,Villa,120,1965,
+Rugvænget 3 9632 Møldrup,3,785893.0,10-05-2002,Alm.,5534,5,Villa,142,1973,
+Herredsvejen 75 9632 Møldrup,75,625000.0,06-05-2002,Alm.,4807,5,Villa,130,1956,
+Haugårdvej 3 9632 Møldrup,3,298000.0,06-05-2002,Alm.,4730,3,Sommerhus,63,1964,
+Søndergade 5 9632 Møldrup,5,550000.0,17-04-2002,Alm.,5392,5,Villa,102,1955,
+Naundrupvej 17 9632 Møldrup,17,441849.0,15-04-2002,Fam.,1774,7,Stuehus,249,1937,
+Skårupvej 84 9632 Møldrup,84,490000.0,09-04-2002,Alm.,0,5,Stuehus,179,1905,
+Mosevænget 1A 9632 Møldrup,0,678409.0,23-03-2002,Alm.,3990,4,Villa,170,1916,
+Havrevænget 30 9632 Møldrup,30,725000.0,22-03-2002,Alm.,6304,4,Villa,115,1977,
+Ahornvej 2B 9632 Møldrup,0,560901.0,27-02-2002,Alm.,7011,3,Rækkehus,80,1982,
+Bøgevej 4 9632 Møldrup,4,398000.0,25-02-2002,Alm.,0,4,Villa,98,1957,
+Vestergade 34 9632 Møldrup,34,750000.0,21-02-2002,Alm.,6198,4,Villa,121,1942,
+Tingvej 65 9632 Møldrup,65,1076400.0,19-02-2002,Fam.,8970,6,Stuehus,120,1954,
+Mosevænget 5 9632 Møldrup,5,612208.0,20-12-2001,Fam.,7288,4,Villa,84,1966,
+Halesøvej 8 9632 Møldrup,8,1125000.0,20-12-2001,Alm.,2757,9,Villa,408,1920,
+Gl. Aalborgvej 33 9632 Møldrup,33,777000.0,10-12-2001,Alm.,7770,4,Stuehus,100,1880,
+Hobrovej 13 9632 Møldrup,13,400000.0,13-11-2001,Fam.,2739,5,Stuehus,146,2002,
+Hobrovej 33B 9632 Møldrup,0,975000.0,08-11-2001,Alm.,5131,5,Villa,190,1934,
+Nørdamvej 19 9632 Møldrup,19,721000.0,20-10-2001,Alm.,0,8,Stuehus,228,1930,
+Haugårdvej 21 9632 Møldrup,21,902444.0,28-09-2001,Alm.,0,3,Stuehus,134,1973,
+Ugelrisvej 17 9632 Møldrup,17,1200000.0,15-09-2001,Alm.,0,6,Sommerhus,73,1960,
+Gl. Aalborgvej 45 9632 Møldrup,45,260000.0,12-09-2001,Alm.,2260,4,Villa,115,1870,
+Naundrupvej 26 9632 Møldrup,26,1100000.0,23-08-2001,Alm.,0,6,Stuehus,214,1910,
+Birkevej 7 9632 Møldrup,7,685000.0,22-08-2001,Alm.,6523,4,Villa,105,1967,
+Ahornvej 24A 9632 Møldrup,0,498000.0,17-08-2001,Alm.,0,3,Rækkehus,90,1981,
+Elmevej 26 9632 Møldrup,26,556032.0,10-08-2001,Alm.,5978,3,Stuehus,93,1970,
+Skravad Møllevej 7 9632 Møldrup,7,850000.0,07-08-2001,Alm.,3541,7,Villa,240,1895,
+Gl. Aalborgvej 209 9632 Møldrup,209,4900397.0,17-07-2001,Fam.,31015,5,Stuehus,158,1912,
+Elmevej 14C 9632 Møldrup,0,460000.0,12-07-2001,Alm.,6133,3,Rækkehus,75,1980,
+Troelstrupvej 2 9632 Møldrup,2,200000.0,13-06-2001,Alm.,1526,6,Stuehus,131,1882,
+Troelstrupvej 6 9632 Møldrup,6,200000.0,13-06-2001,Alm.,1136,6,Stuehus,176,1923,
+Teglgårdvej 16A 9632 Møldrup,0,920000.0,06-06-2001,Alm.,5750,6,Stuehus,160,1933,
+Østergade 18 9632 Møldrup,18,900000.0,29-05-2001,Alm.,6428,5,Villa,140,1970,
+Hobrovej 28 9632 Møldrup,28,362000.0,22-03-2001,Alm.,4022,3,Villa,90,1961,
+Lundvej 1 9632 Møldrup,1,510000.0,21-03-2001,Alm.,4722,4,Villa,108,1967,
+Nørdamvej 29 9632 Møldrup,29,2245000.0,20-03-2001,Alm.,21179,4,Stuehus,106,1923,
+Skivevej 144 9632 Møldrup,144,2100000.0,02-03-2001,Alm.,9090,6,Stuehus,231,1970,
+Teglgårdvej 5 9632 Møldrup,5,650000.0,01-03-2001,Alm.,8227,3,Stuehus,79,1914,
+Tostrupvej 4 9632 Møldrup,4,836000.0,15-02-2001,Alm.,0,7,Stuehus,190,1944,
+Kløvervej 5 9632 Møldrup,5,575000.0,29-01-2001,Alm.,4492,3,Villa,128,1972,
+Herredsvejen 138 9632 Møldrup,138,4140000.0,21-12-2000,Fam.,24069,5,Stuehus,172,1973,
+Jernbanegade 10 9632 Møldrup,10,572957.0,07-12-2000,Alm.,3536,5,Villa,162,1898,
+Østergade 19 9632 Møldrup,19,450000.0,02-12-2000,Alm.,4017,4,Villa,112,1960,
+Vestergade 19 9632 Møldrup,19,410000.0,07-11-2000,Alm.,5000,4,Villa,82,1960,
+Nørregade 12 9632 Møldrup,12,601022.0,26-10-2000,Andet,3180,6,Villa,189,1981,
+Skolegade 4 9632 Møldrup,4,510067.0,11-10-2000,Alm.,3750,4,Villa,136,1939,
+Skivevej 170 9632 Møldrup,170,710863.0,15-09-2000,Alm.,4770,6,Stuehus,149,1952,
+Gl. Aalborgvej 200 9632 Møldrup,200,351071.0,08-09-2000,Fam.,2562,6,Villa,137,1938,
+Skravad Møllevej 19 9632 Møldrup,19,55000.0,04-09-2000,Alm.,0,5,Villa,127,1870,
+Nordskoven 9 9632 Møldrup,9,1500000.0,03-09-2000,Fam.,7614,4,Villa,197,1997,
+Nørdamvej 6 9632 Møldrup,6,585000.0,15-08-2000,Alm.,4875,5,Villa,120,1931,
+Nybovænget 19 9632 Møldrup,19,575000.0,04-08-2000,Alm.,6388,4,Villa,90,1973,
+Tværgade 9 9632 Møldrup,9,257043.0,18-07-2000,Alm.,2424,4,Rækkehus,106,1895,
+Gl. Aalborgvej 202 9632 Møldrup,202,636896.0,09-07-2000,Alm.,4717,5,Villa,135,1910,
+Haugårdvej 1 9632 Møldrup,1,387194.0,30-06-2000,Fam.,1916,4,Stuehus,202,1920,
+Kirkevænget 8 9632 Møldrup,8,911785.0,28-05-2000,Alm.,6038,6,Villa,151,1979,
+Elmevej 2 9632 Møldrup,2,199689.0,18-05-2000,Alm.,3993,2,Villa,50,1957,
+Nybovænget 11 9632 Møldrup,11,625548.0,13-05-2000,Alm.,0,6,Villa,156,1973,
+Nordskoven 15 9632 Møldrup,15,1175000.0,29-04-2000,Alm.,5845,5,Villa,201,1979,
+Anlægsvej 8 9632 Møldrup,8,537000.0,27-04-2000,Auktion,4710,5,Villa,114,1932,
+Elmevej 7 9632 Møldrup,7,890545.0,09-04-2000,Alm.,9473,4,Stuehus,94,1933,
+Nørdamvej 31 9632 Møldrup,31,900000.0,24-03-2000,Alm.,6000,5,Villa,150,2003,
+Langmosevej 19 9632 Møldrup,19,810580.0,02-03-2000,Alm.,0,6,Villa,171,1976,
+Ahornvej 58 9632 Møldrup,58,75000.0,28-02-2000,Alm.,663,4,Villa,113,2000,
+Tværgade 7 9632 Møldrup,7,405455.0,25-01-2000,Alm.,2703,5,Rækkehus,150,1915,
+Ahornvej 60 9632 Møldrup,60,75000.0,18-11-1999,Alm.,500,5,Villa,150,2000,
+Astrupvænget 8 9632 Møldrup,8,90000.0,15-11-1999,Alm.,569,5,Villa,158,2001,
+Hobrovej 31 9632 Møldrup,31,245310.0,08-11-1999,Fam.,1232,7,Villa,199,1960,
+Roumvej 6 9632 Møldrup,6,423034.0,22-10-1999,Alm.,2858,5,Villa,148,1932,
+Hørupvej 10 9632 Møldrup,10,1400000.0,19-10-1999,Alm.,9655,5,Stuehus,145,1975,
+Ahornvej 51B 9632 Møldrup,0,640687.0,18-10-1999,Alm.,6160,4,Rækkehus,104,1986,
+Herredsvejen 123 9632 Møldrup,123,485000.0,07-10-1999,Alm.,0,4,Villa,163,1930,
+Lundvej 5 9632 Møldrup,5,1440000.0,05-10-1999,Fam.,11612,5,Stuehus,124,1877,
+Elmevej 8 9632 Møldrup,8,510000.0,31-08-1999,Alm.,4358,4,Villa,117,1959,
+Hobrovej 10 9632 Møldrup,10,250000.0,24-08-1999,Alm.,2500,3,Stuehus,100,1927,
+Solbakkevej 1 9632 Møldrup,1,665000.0,19-08-1999,Alm.,5115,4,Villa,130,1965,
+Tingvej 78 9632 Møldrup,78,750000.0,05-08-1999,Fam.,6198,4,Stuehus,121,1967,
+Naundrupvej 21 9632 Møldrup,21,1000000.0,05-08-1999,Alm.,4166,7,Stuehus,240,1925,
+Hovedvejen 2 9632 Møldrup,2,150000.0,27-07-1999,Alm.,0,3,Villa,81,1953,
+Roumvej 3 9632 Møldrup,3,338513.0,07-07-1999,Alm.,0,7,Villa,208,1941,
+Hobrovej 2 9632 Møldrup,2,800000.0,21-06-1999,Alm.,5633,4,Villa,142,1971,
+Roumvej 7 9632 Møldrup,7,641092.0,20-05-1999,Alm.,3052,8,Villa,210,1976,
+Havrevænget 8 9632 Møldrup,8,1030000.0,11-05-1999,Alm.,6130,5,Villa,168,1972,
+Gl. Aalborgvej 203 9632 Møldrup,203,1350000.0,09-04-1999,Alm.,0,6,Stuehus,204,1973,
+Astrupvænget 42 9632 Møldrup,42,90000.0,08-04-1999,Alm.,697,5,Villa,129,1999,
+Skolegade 5 9632 Møldrup,5,570000.0,03-04-1999,Alm.,5229,3,Villa,109,1958,
+Herredsvejen 70 9632 Møldrup,70,125000.0,25-03-1999,Alm.,482,6,Stuehus,259,1998,
+Skolegade 20 9632 Møldrup,20,780000.0,26-02-1999,Fam.,3804,5,Villa,205,1973,
+Søndergade 3 9632 Møldrup,3,465000.0,30-01-1999,Alm.,4843,3,Villa,96,1954,
+Møllebækvej 3 9632 Møldrup,3,140000.0,18-12-1998,Alm.,880,6,Villa,159,1999,
+Gl. Aalborgvej 7 9632 Møldrup,7,608531.0,17-12-1998,Alm.,3380,5,Villa,180,1969,
+Østergade 6 9632 Møldrup,6,480000.0,27-10-1998,Alm.,4137,4,Villa,116,1967,
+Vestergade 4 9632 Møldrup,4,527450.0,23-10-1998,Alm.,2851,7,Villa,185,1908,
+Kløvervej 4 9632 Møldrup,4,411000.0,20-10-1998,Alm.,0,4,Villa,116,1960,
+Ahornvej 8 9632 Møldrup,8,585000.0,16-10-1998,Alm.,0,7,Villa,201,1980,
+Skravad Møllevej 15 9632 Møldrup,15,640000.0,30-09-1998,Alm.,20000,2,Stuehus,32,1957,
+Hobrovej 19 9632 Møldrup,19,780000.0,17-09-1998,Andet,3611,7,Villa,216,1956,
+Lundvej 8 9632 Møldrup,8,517215.0,01-09-1998,Alm.,3831,4,Villa,135,1931,
+Lundvej 2 9632 Møldrup,2,4100000.0,13-08-1998,Alm.,25625,6,Stuehus,160,1913,
+Ugelrisvej 34 9632 Møldrup,34,350000.0,27-07-1998,Fam.,0,6,Stuehus,166,1912,
+Tingvej 45 9632 Møldrup,45,400000.0,21-07-1998,Fam.,2105,8,Villa,190,1887,
+Hørup Møllevej 7 9632 Møldrup,7,1450000.0,01-07-1998,Alm.,9666,5,Stuehus,150,1877,
+Nørregade 4C 9632 Møldrup,0,795000.0,26-06-1998,Alm.,4206,5,Villa,189,1969,
+Ahornvej 32 9632 Møldrup,32,311500.0,14-06-1998,Andet,2532,4,Villa,123,1978,
+Kallestrupvej 93 9632 Møldrup,93,395187.0,29-05-1998,Alm.,0,6,Stuehus,140,1924,
+Ahornvej 41 9632 Møldrup,41,68000.0,20-05-1998,Alm.,0,7,Villa,177,1999,
+Ahornvej 54 9632 Møldrup,54,1055000.0,10-05-1998,Alm.,8373,5,Villa,126,1988,
+Skårupvej 71 9632 Møldrup,71,831448.0,05-05-1998,Alm.,5938,5,Stuehus,140,1932,
+Havrevænget 17 9632 Møldrup,17,573000.0,27-04-1998,Alm.,4547,4,Villa,126,1973,
+Bøgevej 14 9632 Møldrup,14,503800.0,27-04-1998,Alm.,4498,4,Villa,112,1954,
+Vestergade 3 9632 Møldrup,3,511627.0,22-04-1998,Alm.,3680,4,Villa,139,1930,
+Herredsvejen 69 9632 Møldrup,69,1876837.0,16-03-1998,Alm.,6034,13,Stuehus,311,1925,
+Naundrupvej 16 9632 Møldrup,16,85000.0,16-02-1998,Alm.,1976,1,Sommerhus,43,1960,
+Havrevænget 35 9632 Møldrup,35,629000.0,22-01-1998,Alm.,3882,7,Villa,162,1976,
+Kallestrupvej 95 9632 Møldrup,95,1400000.0,29-12-1997,Alm.,8641,4,Stuehus,162,1923,
+Grønnegade 7 9632 Møldrup,7,640000.0,14-11-1997,Alm.,5120,5,Villa,125,1977,
+Haugårdvej 5C 9632 Møldrup,0,100000.0,01-11-1997,Alm.,833,3,Stuehus,120,1877,
+Roumvej 18 9632 Møldrup,18,214920.0,01-10-1997,Alm.,0,4,Rækkehus,127,1887,
+Søndergade 40A 9632 Møldrup,0,525000.0,12-09-1997,Alm.,7394,3,Villa,71,1958,
+Gl. Aalborgvej 56 9632 Møldrup,56,1360000.0,28-08-1997,Andet,15454,3,Stuehus,88,1910,
+Gl. Aalborgvej 208 9632 Møldrup,208,1550000.0,29-07-1997,Fam.,7380,7,Stuehus,210,1975,
+Ugelrisvej 42 9632 Møldrup,42,960000.0,28-07-1997,Alm.,7058,4,Stuehus,136,1902,
+Lundvej 3 9632 Møldrup,3,790733.0,03-07-1997,Alm.,3660,7,Stuehus,216,1976,
+Haugårdvej 4 9632 Møldrup,4,75000.0,04-06-1997,Alm.,0,6,Stuehus,172,1939,
+Hobrovej 14 9632 Møldrup,14,625000.0,06-05-1997,Fam.,0,8,Stuehus,257,1917,
+Bygvænget 2 9632 Møldrup,2,906680.0,28-04-1997,Alm.,3908,8,Villa,232,1974,
+Søndergade 41 9632 Møldrup,41,517000.0,03-04-1997,Alm.,0,6,Villa,183,1965,
+Møllebækvej 5 9632 Møldrup,5,100000.0,01-04-1997,Alm.,609,5,Villa,164,1998,
+Møllegade 10 9632 Møldrup,10,175000.0,24-03-1997,Alm.,0,7,Villa,184,1926,
+Gl. Aalborgvej 29 9632 Møldrup,29,245710.0,20-03-1997,Alm.,3276,2,Villa,75,1958,
+Haugårdvej 2 9632 Møldrup,2,507000.0,27-02-1997,Alm.,2535,7,Stuehus,200,1872,
+Havrevænget 25 9632 Møldrup,25,625000.0,25-02-1997,Alm.,4528,5,Villa,138,1972,
+Gl. Aalborgvej 6 9632 Møldrup,6,794000.0,21-02-1997,Alm.,3528,7,Villa,225,1978,
+Haugårdvej 5D 9632 Møldrup,0,1510000.0,30-01-1997,Alm.,11353,7,Stuehus,133,1916,
+Elmevej 20 9632 Møldrup,20,660000.0,06-12-1996,Alm.,0,9,Stuehus,228,1923,
+Broholmvej 10 9632 Møldrup,10,250000.0,08-09-1996,Fam.,0,6,Stuehus,279,1972,
+Havrevænget 27 9632 Møldrup,27,520000.0,08-08-1996,Alm.,3880,4,Villa,134,1972,
+Nybovænget 13 9632 Møldrup,13,528840.0,03-08-1996,Alm.,4520,4,Villa,117,1978,
+Lundvej 23 9632 Møldrup,23,330000.0,11-07-1996,Alm.,2558,7,Stuehus,129,1966,
+Søndergade 45 9632 Møldrup,45,600000.0,10-07-1996,Alm.,0,6,Stuehus,183,1955,
+Astrupvænget 2 9632 Møldrup,2,74290.0,08-07-1996,Alm.,613,3,Villa,121,1997,
+Nybovænget 30 9632 Møldrup,30,881000.0,06-07-1996,Alm.,3595,10,Villa,245,1975,
+Kløvervej 1 9632 Møldrup,1,270000.0,27-06-1996,Fam.,3461,2,Villa,78,1954,
+Ndr. Troelstrupvej 2 9632 Møldrup,2,498000.0,17-06-1996,Alm.,3055,6,Stuehus,163,1917,
+Elmevej 16 9632 Møldrup,16,625070.0,12-06-1996,Alm.,4032,4,Villa,155,1969,
+Havrevænget 11 9632 Møldrup,11,808405.0,31-05-1996,Alm.,4755,5,Villa,170,1972,
+Ndr. Troelstrupvej 1 9632 Møldrup,1,710000.0,06-05-1996,Alm.,0,5,Stuehus,168,1916,
+Hobrovej 34 9632 Møldrup,34,620000.0,06-05-1996,Fam.,3263,8,Stuehus,190,1939,
+Hobrovej 16 9632 Møldrup,16,1550000.0,24-04-1996,Alm.,8857,5,Stuehus,175,1932,
+Astrupvænget 6 9632 Møldrup,6,66130.0,15-04-1996,Alm.,560,4,Villa,118,1996,
+Skolegade 11 9632 Møldrup,11,600000.0,11-04-1996,Alm.,4109,5,Villa,146,1968,
+Dalvej 3 9632 Møldrup,3,100000.0,03-04-1996,Fam.,375,8,Villa,266,2008,
+Nordskoven 17 9632 Møldrup,17,746297.0,03-04-1996,Alm.,4814,5,Villa,155,1978,
+Skinderupvej 9 9632 Møldrup,9,185000.0,30-03-1996,Alm.,3135,4,Villa,59,1914,
+Vestergade 8 9632 Møldrup,8,222660.0,27-02-1996,Alm.,0,6,Villa,153,1937,
+Højvangen 10 9632 Møldrup,10,951000.0,20-02-1996,Alm.,3588,9,Villa,265,1974,
+Fårebrovej 8 9632 Møldrup,8,300000.0,19-02-1996,Alm.,1435,4,Stuehus,209,1905,
+Herredsvejen 78 9632 Møldrup,78,500000.0,08-02-1996,Alm.,0,5,Stuehus,171,1907,
+Gl. Aalborgvej 14 9632 Møldrup,14,574947.0,31-01-1996,Alm.,3832,4,Villa,150,1975,
+Bøgevej 8 9632 Møldrup,8,566000.0,31-12-1995,Alm.,3309,5,Villa,171,1960,
+Ndr. Troelstrupvej 5 9632 Møldrup,5,500000.0,17-12-1995,Alm.,0,8,Stuehus,180,1916,
+Ahornvej 9 9632 Møldrup,9,980904.0,23-11-1995,Alm.,0,6,Villa,170,1996,
+Langmosevej 6 9632 Møldrup,6,490000.0,12-11-1995,Alm.,0,6,Villa,211,1977,
+Møllebækvej 17 9632 Møldrup,17,1045000.0,02-10-1995,Alm.,5971,7,Villa,175,1991,
+Havrevænget 19 9632 Møldrup,19,575000.0,30-08-1995,Alm.,3382,5,Villa,170,1972,
+Dalvej 8 9632 Møldrup,8,275000.0,17-07-1995,Alm.,0,5,Villa,112,1964,
+Skivevej 121 9632 Møldrup,121,290000.0,12-06-1995,Alm.,0,9,Stuehus,387,1877,
+Skivevej 139 9632 Møldrup,139,1490000.0,31-05-1995,Alm.,6422,8,Stuehus,232,2004,
+Skolegade 2 9632 Møldrup,2,290000.0,10-05-1995,Alm.,3536,3,Villa,82,1939,
+Tostrupvej 2 9632 Møldrup,2,60000.0,01-05-1995,Alm.,419,3,Villa,143,1930,
+Herredsvejen 143 9632 Møldrup,143,345000.0,05-04-1995,Alm.,0,5,Villa,136,1923,
+Bøgevej 9B 9632 Møldrup,0,750000.0,31-03-1995,Alm.,0,3,Villa,100,1970,
+Nørregade 8 9632 Møldrup,8,321600.0,28-01-1995,Alm.,0,4,Villa,109,1961,
+Naundrupvej 22 9632 Møldrup,22,850000.0,13-01-1995,Alm.,0,5,Stuehus,168,1943,
+Fjelsøvej 1 9632 Møldrup,1,640000.0,12-12-1994,Fam.,0,5,Villa,169,1982,
+Nordskoven 1 9632 Møldrup,1,335000.0,06-12-1994,Alm.,2067,6,Villa,162,1980,
+Halesøvej 10 9632 Møldrup,10,4979874.0,17-11-1994,Alm.,20923,8,Stuehus,238,1981,
+Tværgade 2 9632 Møldrup,2,400000.0,28-10-1994,Alm.,2777,5,Villa,144,1942,
+Bavsøvej 29 9632 Møldrup,29,34850.0,25-10-1994,Alm.,2323,2,Sommerhus,15,1963,
+Kallestrupvej 103 9632 Møldrup,103,430000.0,28-08-1994,Fam.,0,5,Villa,149,1904,
+Vestergade 23 9632 Møldrup,23,395000.0,23-08-1994,Alm.,3657,3,Villa,108,1958,
+Skolegade 24 9632 Møldrup,24,633500.0,22-08-1994,Alm.,2892,9,Villa,219,1964,
+Skivevej 142 9632 Møldrup,142,370000.0,08-08-1994,Alm.,2067,7,Villa,179,1897,
+Havrevænget 4 9632 Møldrup,4,432265.0,02-08-1994,Alm.,3663,5,Villa,118,1972,
+Søndergade 43 9632 Møldrup,43,240000.0,18-07-1994,Alm.,2500,4,Villa,96,1948,
+Skivevej 150 9632 Møldrup,150,455000.0,14-07-1994,Alm.,0,6,Villa,293,1938,
+Skivevej 154 9632 Møldrup,154,196484.0,15-06-1994,Andet,0,4,Villa,127,1968,
+Søndergade 16 9632 Møldrup,16,250000.0,13-06-1994,Fam.,2066,5,Villa,121,1911,
+Broholmvej 6 9632 Møldrup,6,1111525.0,02-06-1994,Alm.,5122,8,Stuehus,217,1874,
+Skovvænget 3 9632 Møldrup,3,335000.0,30-03-1994,Alm.,0,3,Villa,126,1942,
+Rugvænget 17 9632 Møldrup,17,460000.0,25-03-1994,Alm.,2139,6,Villa,215,1975,
+Højvangen 2 9632 Møldrup,2,530000.0,03-03-1994,Fam.,3251,6,Villa,163,1974,
+Herredsvejen 65 9632 Møldrup,65,1489000.0,07-10-1993,Alm.,0,4,Villa,255,1850,
+Herredsvejen 145 9632 Møldrup,145,751259.0,21-09-1993,Alm.,0,6,Stuehus,180,1920,
+Hobrovej 17 9632 Møldrup,17,985000.0,25-06-1993,Alm.,4690,7,Stuehus,210,1994,
+Nordskoven 13 9632 Møldrup,13,310759.0,17-06-1993,Alm.,1906,5,Villa,163,1986,
+Tingvej 57 9632 Møldrup,57,763263.0,15-05-1993,Alm.,0,12,Villa,469,1866,
+Herredsvejen 51 9632 Møldrup,51,830000.0,14-05-1993,Fam.,6640,4,Stuehus,125,1913,
+Nordskoven 5 9632 Møldrup,5,855000.0,02-05-1993,Alm.,4110,6,Villa,208,1979,
+Herredsvejen 130 9632 Møldrup,130,310000.0,30-03-1993,Alm.,0,6,Villa,134,1943,
+Nybovænget 35 9632 Møldrup,35,450000.0,07-03-1993,Alm.,0,6,Villa,152,1977,
+Vestergade 35 9632 Møldrup,35,695000.0,20-02-1993,Alm.,5186,5,Villa,134,1929,
+Vestergade 21 9632 Møldrup,21,350000.0,08-02-1993,Alm.,3211,3,Villa,109,1954,
+Gl. Aalborgvej 22 9632 Møldrup,22,470000.0,02-02-1993,Alm.,0,5,Villa,133,1970,
+Bøgevej 12 9632 Møldrup,12,300000.0,16-01-1993,Alm.,0,4,Villa,114,1958,
+Tingvej 37 9632 Møldrup,37,21920.0,15-12-1992,Alm.,251,7,Stuehus,87,1938,
+Vestergade 2 9632 Møldrup,2,264125.0,07-11-1992,Alm.,1942,4,Villa,136,1910,
+Havrevænget 2 9632 Møldrup,2,489200.0,31-10-1992,Alm.,3544,4,Villa,138,1973,
+Fjelsøvej 2 9632 Møldrup,2,200000.0,19-10-1992,Alm.,1183,5,Stuehus,169,1922,
+Skivevej 174 9632 Møldrup,174,717706.0,25-07-1992,Alm.,0,3,Stuehus,218,1928,
+"Søndergade 4, ST 9632 Møldrup",0,810000.0,24-06-1992,Fam.,5955,6,Lejlighed,136,1959,
+Haugårdvej 15 9632 Møldrup,15,200000.0,26-05-1992,Alm.,1250,3,Villa,160,1949,
+Nybovænget 36 9632 Møldrup,36,290000.0,01-05-1992,Fam.,1283,7,Villa,226,1976,
+Haugårdvej 17 9632 Møldrup,17,43000.0,27-04-1992,Alm.,251,5,Stuehus,171,1989,
+Vestergade 32 9632 Møldrup,32,605000.0,18-04-1992,Alm.,6576,4,Villa,92,1961,
+Tværgade 14 9632 Møldrup,14,550000.0,02-04-1992,Alm.,3437,6,Villa,160,1919,
+Ahornvej 88 9632 Møldrup,88,779658.0,26-03-1992,Alm.,0,7,Villa,181,1987,
+Dalvej 6 9632 Møldrup,6,315000.0,17-03-1992,Alm.,3000,5,Villa,105,1921,
+Østergade 2 9632 Møldrup,2,1125000.0,05-03-1992,Fam.,8789,5,Villa,128,1901,
+Birkevej 2 9632 Møldrup,2,436415.0,05-03-1992,Fam.,4692,3,Villa,93,1965,
+Søndergade 53 9632 Møldrup,53,185000.0,27-01-1992,Fam.,1831,3,Villa,101,1952,
+Ahornvej 7 9632 Møldrup,7,263249.0,13-01-1992,Andet,0,6,Villa,173,2003,

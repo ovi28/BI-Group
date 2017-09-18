@@ -1,0 +1,564 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Torvegade 7B 7250 Hejnsvig,0,550000.0,15-03-2017,Alm.,5288,2,Villa,104,1965,-21 %
+Kolding Landevej 20 7250 Hejnsvig,20,5080000.0,09-03-2017,Alm.,26321,5,Stuehus,193,1932,0 %
+Klodhøjvej 5 7250 Hejnsvig,5,287010.0,28-02-2017,Fam.,2259,4,Villa,127,1949,
+Torvegade 5B 7250 Hejnsvig,0,300000.0,23-02-2017,Alm.,1829,5,Villa,164,1934,-20 %
+Nyvej 2B 7250 Hejnsvig,0,669032.0,08-02-2017,Fam.,5718,3,Villa,117,1973,
+Bredgade 75 7250 Hejnsvig,75,538000.0,08-02-2017,Fam.,3320,4,Villa,162,1915,
+Langmosevej 6 7250 Hejnsvig,6,1675000.0,07-02-2017,Alm.,6950,6,Villa,241,1996,-11 %
+Præstevænget 1 7250 Hejnsvig,1,600000.0,03-01-2017,Alm.,3468,7,Villa,173,1927,-14 %
+Trøllundvej 27 7250 Hejnsvig,27,4502000.0,22-12-2016,Fam.,27619,6,Stuehus,163,1961,
+Nyvej 19 7250 Hejnsvig,19,500000.0,21-12-2016,Alm.,7812,3,Villa,64,1962,-13 %
+Kirkevej 48 7250 Hejnsvig,48,825000.0,19-12-2016,Alm.,6932,5,Stuehus,119,1900,-6 %
+Bakkevej 2 7250 Hejnsvig,2,775000.0,18-10-2016,Alm.,7598,4,Villa,102,1985,0 %
+Klodhøjvej 21 7250 Hejnsvig,21,980000.0,07-10-2016,Alm.,6666,5,Villa,147,1974,-6 %
+Rugbjergvej 16 7250 Hejnsvig,16,425000.0,07-10-2016,Fam.,2972,7,Stuehus,143,1913,
+Egebjerg Landevej 53 7250 Hejnsvig,53,130000.0,05-10-2016,Alm.,1313,4,Villa,99,1962,-33 %
+Højene 5 7250 Hejnsvig,5,645000.0,30-09-2016,Alm.,4510,5,Villa,143,1971,-11 %
+Lundgårdvej 65 7250 Hejnsvig,65,1495000.0,21-09-2016,Fam.,17797,3,Stuehus,84,1912,
+Præstevænget 3 7250 Hejnsvig,3,475000.0,08-09-2016,Alm.,3925,5,Villa,121,1957,0 %
+Bredgade 85 7250 Hejnsvig,85,550000.0,01-09-2016,Alm.,3716,11,Ukendt,148,1950,10 %
+Kirkevej 13 7250 Hejnsvig,13,645000.0,17-08-2016,Fam.,5560,3,Villa,116,1950,0 %
+Klodhøjvej 8 7250 Hejnsvig,8,795000.0,15-08-2016,Alm.,8030,2,Villa,99,2009,0 %
+Søllingdalvej 72 7250 Hejnsvig,72,875000.0,09-08-2016,Fam.,6118,5,Villa,143,1977,
+Refshøjvej 106 7250 Hejnsvig,106,1450000.0,29-07-2016,Alm.,5800,6,Villa,250,1930,-3 %
+Fugdalvej 4 7250 Hejnsvig,4,60000.0,22-07-2016,Alm.,327,5,Stuehus,183,1890,
+Fugdalvej 8 7250 Hejnsvig,8,60000.0,22-07-2016,Alm.,147,10,Stuehus,407,2005,
+Ribe Landevej 66 7250 Hejnsvig,66,850000.0,13-07-2016,Alm.,4775,5,Villa,178,1969,0 %
+Billundvej 55 7250 Hejnsvig,55,453444.0,01-07-2016,Fam.,5813,3,Villa,78,1957,
+Søgårdvej 59 7250 Hejnsvig,59,325000.0,24-06-2016,Alm.,4779,3,Villa,68,1979,0 %
+Æblevej 6 7250 Hejnsvig,6,1240000.0,22-05-2016,Alm.,8985,5,Villa,138,1980,-4 %
+Refshøjvej 64 7250 Hejnsvig,64,1450000.0,12-05-2016,Alm.,5215,11,Villa,278,1800,0 %
+Langgade 69 7250 Hejnsvig,69,425000.0,12-05-2016,Alm.,3148,4,Villa,135,1910,0 %
+Søllingdalvej 38 7250 Hejnsvig,38,745000.0,03-05-2016,Alm.,6008,5,Villa,124,1975,0 %
+Fugdalvej 15 7250 Hejnsvig,15,4500000.0,25-04-2016,Andet,21531,7,Stuehus,209,2000,
+Bredgade 7 7250 Hejnsvig,7,930000.0,11-04-2016,Alm.,6000,5,Villa,155,1954,-7 %
+Klodhøjvej 50 7250 Hejnsvig,50,1800000.0,04-04-2016,Alm.,8256,8,Stuehus,218,1940,
+Løvlundvej 16 7250 Hejnsvig,16,1395000.0,01-04-2016,Alm.,9893,4,Villa,141,1964,0 %
+Lundgårdvej 56 7250 Hejnsvig,56,2082500.0,15-03-2016,Fam.,14166,5,Sommerhus,147,1961,
+Lundgårdvej 90 7250 Hejnsvig,90,275000.0,08-03-2016,Alm.,2750,4,Villa,100,1934,
+Bredgade 89 7250 Hejnsvig,89,695000.0,04-03-2016,Alm.,1838,8,Villa,378,1965,0 %
+Staruphøjevej 8 7250 Hejnsvig,8,1590000.0,26-02-2016,Alm.,4832,7,Villa,329,1930,-6 %
+"Bredgade 52, 1 7250 Hejnsvig",1,745000.0,18-02-2016,Alm.,5912,5,Lejlighed,126,1917,
+Søgårdvej 54B 7250 Hejnsvig,0,550000.0,10-02-2016,Alm.,6250,4,Rækkehus,88,1988,-21 %
+Søgårdvej 115 7250 Hejnsvig,115,5210000.0,09-02-2016,Alm.,14392,8,Stuehus,362,2007,
+Risbølvej 15 7250 Hejnsvig,15,1300000.0,20-01-2016,Alm.,12264,4,Stuehus,106,1877,
+Bakkevej 1 7250 Hejnsvig,1,725000.0,18-01-2016,Alm.,8146,3,Villa,89,1961,-3 %
+Langgade 10 7250 Hejnsvig,10,14050000.0,06-01-2016,Alm.,65654,8,Stuehus,214,1986,
+Møllevangen 10 7250 Hejnsvig,10,200000.0,12-12-2015,Alm.,2105,3,Rækkehus,95,1932,
+Møllevangen 3 7250 Hejnsvig,3,271000.0,10-12-2015,Auktion,1566,5,Villa,173,1900,-64 %
+Lillevej 3 7250 Hejnsvig,3,200000.0,09-12-2015,Alm.,1041,8,Stuehus,192,1918,
+Søgårdvej 144 7250 Hejnsvig,144,733000.0,04-12-2015,Fam.,3857,7,Stuehus,190,1900,
+Bredgade 3 7250 Hejnsvig,3,795000.0,13-11-2015,Alm.,3955,6,Villa,201,1872,0 %
+Østre Ringvej 2 7250 Hejnsvig,2,500000.0,29-10-2015,Alm.,2272,8,Villa,220,1950,-17 %
+Bøgelunden 4 7250 Hejnsvig,4,100000.0,14-10-2015,Andet,833,3,Villa,120,1932,
+Kolding Landevej 37 7250 Hejnsvig,37,1095000.0,21-09-2015,Alm.,9358,5,Stuehus,117,1955,-22 %
+Billundvej 36 7250 Hejnsvig,36,805000.0,01-09-2015,Alm.,5000,8,Stuehus,161,1879,
+Egebjerg Landevej 79 7250 Hejnsvig,79,784950.0,22-07-2015,Alm.,3473,8,Villa,226,1914,5 %
+Søllingdalvej 20 7250 Hejnsvig,20,975000.0,10-07-2015,Alm.,5769,6,Villa,169,1982,
+Søgårdparken 4 7250 Hejnsvig,4,875000.0,09-07-2015,Andet,6161,4,Villa,142,2007,
+Torvegade 3 7250 Hejnsvig,3,1795000.0,25-06-2015,Alm.,8588,7,Villa,209,1966,0 %
+Søgårdvej 39 7250 Hejnsvig,39,700000.0,21-06-2015,Alm.,5035,5,Villa,139,1979,-22 %
+Søgårdvej 145 7250 Hejnsvig,145,2460000.0,20-06-2015,Alm.,12424,7,Stuehus,198,1908,17 %
+Klodhøjvej 31 7250 Hejnsvig,31,4400000.0,15-06-2015,Fam.,24581,8,Stuehus,179,1915,
+Rungborgvej 7 7250 Hejnsvig,7,432085.0,20-05-2015,Andet,3224,6,Villa,134,1916,
+Søllingdalvej 42 7250 Hejnsvig,42,1695000.0,21-04-2015,Alm.,11151,5,Villa,152,1976,13 %
+Søllingdalvej 6 7250 Hejnsvig,6,995000.0,21-04-2015,Alm.,8024,5,Villa,124,1975,34 %
+Billundvej 6 7250 Hejnsvig,6,450000.0,20-04-2015,Alm.,2406,7,Villa,187,1961,
+Egebjerg Landevej 50 7250 Hejnsvig,50,50000.0,17-03-2015,Alm.,490,3,Villa,102,1960,
+Gilbjergvej 25 7250 Hejnsvig,25,230000.0,16-02-2015,Alm.,2446,4,Villa,94,1948,15 %
+Klinkvej 12 7250 Hejnsvig,12,10100000.0,11-02-2015,Fam.,50500,8,Stuehus,200,1960,
+Høstvej 1 7250 Hejnsvig,1,925000.0,06-02-2015,Alm.,6902,6,Villa,134,1967,-5 %
+Ribe Landevej 70 7250 Hejnsvig,70,360000.0,22-01-2015,Auktion,2448,6,Stuehus,147,1959,-63 %
+Søllingdalvej 40 7250 Hejnsvig,40,876050.0,14-12-2014,Alm.,5183,6,Villa,169,1975,0 %
+Grønmarksvej 3 7250 Hejnsvig,3,320000.0,11-12-2014,Alm.,2622,3,Villa,122,1947,-25 %
+Søgårdvej 134 7250 Hejnsvig,134,824500.0,21-11-2014,Fam.,6928,6,Villa,119,1942,
+Lundgårdvej 69 7250 Hejnsvig,69,5000000.0,11-11-2014,Alm.,57471,3,Stuehus,87,1905,
+Egebjerg Landevej 122 7250 Hejnsvig,122,15605400.0,31-10-2014,Alm.,65294,7,Stuehus,239,1912,
+Stenhøjvej 5 7250 Hejnsvig,5,450000.0,22-10-2014,Fam.,4500,4,Villa,100,1971,
+Søgårdvej 20 7250 Hejnsvig,20,1000000.0,06-09-2014,Alm.,5376,6,Villa,186,1972,-5 %
+Daugårdvej 40 7250 Hejnsvig,40,322710.0,06-09-2014,Alm.,2256,6,Villa,143,1947,
+Egebjerg Landevej 46 7250 Hejnsvig,46,2497580.0,03-09-2014,Alm.,9950,8,Stuehus,251,1978,
+Egebjerg Landevej 72 7250 Hejnsvig,72,390000.0,19-07-2014,Alm.,4062,4,Villa,96,1962,-13 %
+Søllingdalvej 64 7250 Hejnsvig,64,531960.0,17-06-2014,Alm.,3388,5,Villa,157,1976,
+Bøgelunden 5 7250 Hejnsvig,5,105000.0,08-06-2014,Alm.,1153,6,Villa,91,1930,-16 %
+Søgårdparken 9 7250 Hejnsvig,9,1375478.0,03-06-2014,Alm.,7316,6,Villa,188,2013,
+Frodeslundvej 32 7250 Hejnsvig,32,225000.0,31-05-2014,Alm.,4411,2,Sommerhus,51,1950,
+Rugbjergvej 27 7250 Hejnsvig,27,160000.0,30-04-2014,Alm.,2025,3,Villa,79,1940,-11 %
+Løvlundvej 32 7250 Hejnsvig,32,550000.0,29-04-2014,Alm.,3395,8,Stuehus,162,1924,-21 %
+Vandmosevej 4 7250 Hejnsvig,4,607000.0,20-03-2014,Alm.,4215,5,Villa,144,1969,
+Søllingdalvej 32 7250 Hejnsvig,32,825000.0,27-02-2014,Alm.,5650,4,Villa,146,1979,-8 %
+Egebjerg Landevej 150 7250 Hejnsvig,150,2000000.0,26-02-2014,Fam.,9090,8,Stuehus,220,1931,
+Rogusavej 3 7250 Hejnsvig,3,477550.0,08-02-2014,Alm.,3226,6,Villa,148,1964,
+Gilbjergvej 18 7250 Hejnsvig,18,4444000.0,28-01-2014,Fam.,31076,5,Stuehus,143,1888,
+Bredgade 59 7250 Hejnsvig,59,725000.0,30-12-2013,Alm.,4420,8,BygningTilLager,164,1912,
+Vinkelvej 3 7250 Hejnsvig,3,600000.0,23-12-2013,Alm.,5217,4,Villa,115,1961,-14 %
+Daugårdvej 36 7250 Hejnsvig,36,1075000.0,04-12-2013,Alm.,6107,5,Villa,176,1920,-2 %
+Fugdalvej 19 7250 Hejnsvig,19,1710000.0,29-11-2013,Alm.,9606,7,Stuehus,178,1897,
+Boldingvej 19 7250 Hejnsvig,19,898520.0,24-11-2013,Alm.,4754,7,Stuehus,189,1961,
+Gilbjergvej 31 7250 Hejnsvig,31,11300000.0,21-11-2013,Fam.,61413,8,Stuehus,184,1912,
+Gilbjergvej 51 7250 Hejnsvig,51,16804176.0,21-11-2013,Fam.,62008,6,Stuehus,271,1850,
+Klodhøjvej 14 7250 Hejnsvig,14,569500.0,21-11-2013,Fam.,4668,4,Villa,122,1969,
+Rogusavej 8 7250 Hejnsvig,8,960000.0,15-11-2013,Alm.,8275,4,Villa,116,1973,-4 %
+Højene 16 7250 Hejnsvig,16,605000.0,29-10-2013,Alm.,5654,4,Villa,107,1971,-2 %
+Langgade 39 7250 Hejnsvig,39,930000.0,24-10-2013,Fam.,5438,7,Villa,171,1978,
+Frodeslundvej 74 7250 Hejnsvig,74,1700000.0,09-10-2013,Alm.,8173,7,Stuehus,208,1915,-5 %
+Klodhøjvej 11 7250 Hejnsvig,11,387023.0,29-09-2013,Alm.,4961,3,Villa,78,1967,
+Bredgade 87 7250 Hejnsvig,87,310000.0,17-09-2013,Alm.,4843,2,Villa,64,1955,-7 %
+Højene 14 7250 Hejnsvig,14,780000.0,11-09-2013,Alm.,5693,4,Villa,137,1970,-2 %
+Langgade 80 7250 Hejnsvig,80,1400000.0,06-09-2013,Alm.,6392,5,Villa,219,1777,
+Ørnsbjergvej 11 7250 Hejnsvig,11,2995000.0,03-09-2013,Alm.,12909,6,Stuehus,232,1929,0 %
+Søllingdalvej 50 7250 Hejnsvig,50,750000.0,16-08-2013,Alm.,5905,5,Villa,127,1977,-6 %
+Klodhøjvej 19 7250 Hejnsvig,19,314064.0,14-08-2013,Alm.,2309,4,Villa,136,1973,
+Bredgade 83 7250 Hejnsvig,83,620000.0,29-06-2013,Alm.,6526,3,Villa,95,1946,-4 %
+Østerbo 9 7250 Hejnsvig,9,60000.0,02-05-2013,Auktion,560,4,Villa,107,1984,
+Rugbjergvej 14 7250 Hejnsvig,14,1900000.0,17-04-2013,Alm.,12258,4,Stuehus,155,1935,-22 %
+Egebjerg Landevej 114 7250 Hejnsvig,114,398855.0,04-04-2013,Andet,2266,6,Stuehus,176,1931,
+Langgade 53 7250 Hejnsvig,53,645000.0,13-03-2013,Alm.,6084,4,Villa,106,1979,-4 %
+Søllingdalvej 80 7250 Hejnsvig,80,225000.0,21-02-2013,Auktion,1480,5,Villa,152,1977,
+Daugårdvej 14 7250 Hejnsvig,14,306000.0,08-02-2013,Fam.,3326,4,Villa,92,1924,
+Rungborgvej 11 7250 Hejnsvig,11,725000.0,04-12-2012,Alm.,6359,4,Villa,114,1917,-9 %
+Kirkevej 5 7250 Hejnsvig,5,325000.0,16-11-2012,Alm.,2731,4,Villa,119,1927,-34 %
+Daugårdvej 75 7250 Hejnsvig,75,550000.0,14-11-2012,Fam.,5288,3,Stuehus,104,1925,
+Langgade 30 7250 Hejnsvig,30,750000.0,10-11-2012,Alm.,5905,4,Villa,127,1982,
+Søllingdalvej 44 7250 Hejnsvig,44,675000.0,24-10-2012,Alm.,5273,5,Villa,128,1975,0 %
+Staruphøjevej 4 7250 Hejnsvig,4,1100000.0,11-10-2012,Alm.,5238,7,Villa,210,1920,-15 %
+Billundvej 5 7250 Hejnsvig,5,210000.0,11-10-2012,Auktion,2038,4,Villa,103,1946,-62 %
+Billundvej 1 7250 Hejnsvig,1,840000.0,18-09-2012,Alm.,6461,3,Villa,130,1965,-6 %
+Ribe Landevej 53 7250 Hejnsvig,53,2525000.0,13-09-2012,Alm.,26302,4,Stuehus,96,1925,
+Bredgade 34 7250 Hejnsvig,34,900000.0,30-08-2012,Alm.,5232,6,Villa,172,1928,-10 %
+Vinkelvej 78 7250 Hejnsvig,78,675000.0,27-08-2012,Alm.,10887,3,Villa,62,1959,-3 %
+Søgårdvej 57 7250 Hejnsvig,57,1220000.0,17-08-2012,Alm.,8187,6,Villa,149,1979,-6 %
+Egebjerg Landevej 85 7250 Hejnsvig,85,1397310.0,15-08-2012,Alm.,7472,5,Stuehus,187,1921,
+Vesterhedevej 36 7250 Hejnsvig,36,159000.0,14-08-2012,Alm.,760,8,Stuehus,209,1936,
+Søgårdvej 31 7250 Hejnsvig,31,700000.0,23-07-2012,Alm.,4895,4,Villa,143,1980,-12 %
+Langgade 32 7250 Hejnsvig,32,1900000.0,18-07-2012,Alm.,9134,5,Villa,208,1916,
+Søllingdalvej 84 7250 Hejnsvig,84,1105000.0,06-07-2012,Alm.,6779,6,Villa,163,1980,-8 %
+Daugårdvej 19 7250 Hejnsvig,19,450000.0,26-05-2012,Alm.,3658,5,Villa,123,1932,
+Nyvej 7 7250 Hejnsvig,7,900000.0,22-05-2012,Alm.,10227,3,Villa,88,1947,-10 %
+Egebjerg Landevej 92 7250 Hejnsvig,92,950000.0,24-04-2012,Alm.,5428,6,Villa,175,1965,-5 %
+Rosengårdsvej 13 7250 Hejnsvig,13,517170.0,19-04-2012,Alm.,3380,5,Villa,153,1976,
+Møllevangen 2 7250 Hejnsvig,2,20000.0,29-03-2012,Auktion,178,4,Villa,112,1932,
+Tegnhøjvej 20 7250 Hejnsvig,20,3625000.0,19-03-2012,Alm.,27052,5,Villa,134,1966,
+Klodhøjvej 46 7250 Hejnsvig,46,2885000.0,30-01-2012,Alm.,25307,4,Stuehus,114,1939,
+Klinkvej 8 7250 Hejnsvig,8,3875000.0,22-12-2011,Alm.,0,7,Stuehus,215,1984,
+Tegnhøjvej 34 7250 Hejnsvig,34,1472200.0,20-12-2011,Fam.,8815,6,Stuehus,167,1928,
+Stenhøjvej 1B 7250 Hejnsvig,0,1070000.0,23-11-2011,Alm.,4349,8,Villa,246,1969,-7 %
+Lundgårdvej 73 7250 Hejnsvig,73,50000.0,04-11-2011,Alm.,833,4,Villa,60,1947,
+Risbølvej 5 7250 Hejnsvig,5,625000.0,24-10-2011,Alm.,3188,5,Villa,196,1953,0 %
+Torvegade 6 7250 Hejnsvig,6,400000.0,22-10-2011,Alm.,2684,5,Villa,149,1928,
+Søllingdalvej 52 7250 Hejnsvig,52,550000.0,05-09-2011,Alm.,4074,5,Villa,135,1977,
+Katrinebjergvej 7 7250 Hejnsvig,7,3260000.0,05-09-2011,Alm.,24328,5,Stuehus,134,1890,
+Langgade 54 7250 Hejnsvig,54,170000.0,25-08-2011,Auktion,1250,4,Villa,136,1978,
+Vinkelvej 6 7250 Hejnsvig,6,350000.0,23-08-2011,Alm.,4022,4,Villa,87,1960,-36 %
+Æblevej 10 7250 Hejnsvig,10,110000.0,18-08-2011,Auktion,0,4,Villa,111,1960,-71 %
+Egebjerg Landevej 91 7250 Hejnsvig,91,275000.0,24-06-2011,Alm.,1785,5,Villa,154,1945,
+Bredgade 44 7250 Hejnsvig,44,558730.0,19-06-2011,Alm.,3069,5,Villa,182,1935,
+Søndergade 4 7250 Hejnsvig,4,800000.0,18-06-2011,Fam.,3603,10,Villa,222,1925,
+Langgade 47 7250 Hejnsvig,47,150000.0,26-05-2011,Auktion,1339,4,Villa,112,1978,-68 %
+Langmosevej 14 7250 Hejnsvig,14,800000.0,03-05-2011,Fam.,4790,5,Villa,167,1998,
+Vinkelvej 5 7250 Hejnsvig,5,800000.0,28-04-2011,Alm.,7017,4,Villa,114,1963,-10 %
+Højene 9 7250 Hejnsvig,9,765000.0,13-04-2011,Alm.,4693,5,Villa,163,1971,-4 %
+Ribe Landevej 57 7250 Hejnsvig,57,1300000.0,16-03-2011,Alm.,7692,8,Villa,169,1918,-26 %
+Søgårdparken 20 7250 Hejnsvig,20,1995000.0,11-03-2011,Alm.,11598,5,Villa,172,2005,0 %
+Søgårdvej 50 7250 Hejnsvig,50,1545000.0,11-03-2011,Alm.,6630,8,Villa,233,1945,-3 %
+Søgårdvej 73 7250 Hejnsvig,73,1215000.0,18-02-2011,Alm.,8617,5,Villa,141,1979,-6 %
+Midtkjærvej 11 7250 Hejnsvig,11,560000.0,11-02-2011,Alm.,4087,5,Stuehus,137,1940,-6 %
+Søllingdalvej 4 7250 Hejnsvig,4,475000.0,10-02-2011,Alm.,3958,5,Villa,120,1974,
+Daugårdvej 16 7250 Hejnsvig,16,415963.0,05-02-2011,Alm.,3466,3,Villa,120,1949,
+Kirkevej 51 7250 Hejnsvig,51,5979000.0,24-01-2011,Fam.,27809,9,Stuehus,215,1931,
+Vinkelvej 2 7250 Hejnsvig,2,600000.0,11-11-2010,Alm.,7407,3,Villa,81,1947,
+Rosengårdsvej 11 7250 Hejnsvig,11,795000.0,21-10-2010,Alm.,5000,6,Villa,159,1974,-6 %
+Ørnsbjergvej 31 7250 Hejnsvig,31,2000000.0,15-10-2010,Alm.,12820,6,Stuehus,156,2016,-5 %
+Torvegade 8 7250 Hejnsvig,8,925000.0,06-10-2010,Alm.,6751,4,Villa,137,1978,
+Østerbo 6 7250 Hejnsvig,6,453000.0,30-09-2010,Alm.,2422,5,Villa,187,1928,
+Søllingdalvej 18 7250 Hejnsvig,18,1490000.0,06-08-2010,Alm.,7233,4,Villa,206,1975,-7 %
+Søllingdalvej 2 7250 Hejnsvig,2,785000.0,17-07-2010,Alm.,5858,4,Villa,134,1976,-12 %
+Højene 6 7250 Hejnsvig,6,900000.0,06-07-2010,Alm.,5027,6,Villa,179,1973,-10 %
+Rugbjergvej 20 7250 Hejnsvig,20,500000.0,03-06-2010,Alm.,1275,7,Stuehus,392,2012,
+Søgårdvej 58 7250 Hejnsvig,58,1250000.0,02-06-2010,Alm.,9328,5,Villa,134,1992,-3 %
+Klodhøjvej 10 7250 Hejnsvig,10,750000.0,30-03-2010,Alm.,7211,3,Villa,104,1961,-2 %
+Refshøjvej 59 7250 Hejnsvig,59,1555299.0,06-03-2010,Alm.,7699,9,Stuehus,202,1929,
+Billundvej 14 7250 Hejnsvig,14,645000.0,24-02-2010,Alm.,4215,7,Villa,153,1927,-7 %
+Klodhøjvej 13 7250 Hejnsvig,13,850000.0,12-01-2010,Alm.,7024,5,Villa,121,1967,-5 %
+Klodhøjvej 7 7250 Hejnsvig,7,625000.0,05-01-2010,Alm.,4734,5,Villa,132,1920,-10 %
+Løvlundvej 36 7250 Hejnsvig,36,5100000.0,22-12-2009,Fam.,25247,7,Stuehus,202,1940,
+Østre Ringvej 3 7250 Hejnsvig,3,1160000.0,09-11-2009,Alm.,7837,4,Villa,148,1976,-7 %
+Langgade 56 7250 Hejnsvig,56,690000.0,27-10-2009,Alm.,8214,3,Villa,84,1954,
+Askjærvej 26 7250 Hejnsvig,26,1550000.0,18-09-2009,Alm.,11923,6,Villa,130,1909,-9 %
+Nyvej 8 7250 Hejnsvig,8,1260000.0,17-09-2009,Alm.,13125,4,Villa,96,1959,-8 %
+Vinkelvej 14 7250 Hejnsvig,14,520000.0,14-09-2009,Alm.,4031,4,Villa,129,1958,-13 %
+Rosengårdsvej 8 7250 Hejnsvig,8,775000.0,28-07-2009,Alm.,5783,5,Villa,134,1973,
+Søgårdvej 67 7250 Hejnsvig,67,1140000.0,13-07-2009,Alm.,7402,7,Villa,154,1981,
+A G Jensens Vej 3 7250 Hejnsvig,3,600000.0,02-07-2009,Alm.,6122,3,Villa,98,1939,
+Askjærvej 36 7250 Hejnsvig,36,1265000.0,24-06-2009,Alm.,8322,3,Stuehus,152,1928,
+Præstevænget 4 7250 Hejnsvig,4,885000.0,20-06-2009,Alm.,6914,5,Villa,128,1935,-1 %
+Højene 8 7250 Hejnsvig,8,900000.0,26-05-2009,Alm.,6040,4,Villa,149,1970,-4 %
+Søgårdparken 3 7250 Hejnsvig,3,457500.0,27-04-2009,Alm.,2584,5,Villa,177,2009,
+Langgade 49 7250 Hejnsvig,49,700000.0,26-04-2009,Alm.,7070,3,Villa,99,1979,
+Søllingdalvej 12 7250 Hejnsvig,12,675000.0,20-04-2009,Fam.,4141,5,Villa,163,1976,
+Boldingvej 3 7250 Hejnsvig,3,1300000.0,02-04-2009,Alm.,10077,5,Villa,129,2004,-10 %
+Søndergade 14 7250 Hejnsvig,14,485000.0,30-03-2009,Auktion,5511,5,Villa,88,1958,
+Løvlundvej 28 7250 Hejnsvig,28,2006438.0,16-03-2009,Alm.,10672,9,Stuehus,188,1920,
+Søndergade 10 7250 Hejnsvig,10,795000.0,04-03-2009,Alm.,6210,5,Villa,128,2015,0 %
+Rogusavej 5 7250 Hejnsvig,5,845000.0,20-02-2009,Alm.,8535,3,Villa,99,1975,0 %
+Daugårdvej 74 7250 Hejnsvig,74,1555299.0,29-01-2009,Alm.,12644,5,Stuehus,123,1927,
+Refshøjvej 46 7250 Hejnsvig,46,4200000.0,29-01-2009,Alm.,28000,5,Stuehus,150,1924,
+Refshøjvej 58 7250 Hejnsvig,58,1960000.0,29-01-2009,Alm.,19215,3,Villa,102,1913,
+Vinkelvej 10 7250 Hejnsvig,10,900000.0,23-01-2009,Alm.,5325,7,Villa,169,1952,
+Søgårdparken 19 7250 Hejnsvig,19,270000.0,21-01-2009,Alm.,1646,5,Villa,164,2009,
+Bredgade 42 7250 Hejnsvig,42,670000.0,20-01-2009,Alm.,5153,6,Villa,130,1924,-8 %
+Trøllundvej 21 7250 Hejnsvig,21,12167705.0,15-01-2009,Fam.,81118,4,Stuehus,150,2010,
+Bredgade 15 7250 Hejnsvig,15,1036000.0,19-12-2008,Fam.,4666,7,Villa,222,1902,
+Østre Ringvej 5 7250 Hejnsvig,5,695000.0,05-12-2008,Alm.,6150,4,Villa,113,1968,0 %
+Søgårdvej 137 7250 Hejnsvig,137,1800000.0,04-12-2008,Fam.,13533,7,Stuehus,133,1910,
+Daugårdvej 3 7250 Hejnsvig,3,500000.0,11-11-2008,Andet,21739,1,Villa,23,1800,
+Klodhøjvej 38 7250 Hejnsvig,38,3400000.0,22-10-2008,Alm.,24285,5,Stuehus,140,1941,
+Gråhedevej 8 7250 Hejnsvig,8,3260000.0,20-10-2008,Fam.,28347,5,Stuehus,115,1911,
+Rogusavej 1 7250 Hejnsvig,1,1100000.0,16-09-2008,Alm.,7189,4,Villa,153,1962,-4 %
+Østerbo 2 7250 Hejnsvig,2,475000.0,01-08-2008,Alm.,0,6,Villa,157,1950,
+Rugbjergvej 15 7250 Hejnsvig,15,600247.0,25-07-2008,Fam.,8454,3,Villa,71,1963,
+Frodeslundvej 49 7250 Hejnsvig,49,1150000.0,21-07-2008,Alm.,7823,5,Villa,147,1927,0 %
+Søgårdvej 37 7250 Hejnsvig,37,1255000.0,20-06-2008,Alm.,8715,5,Villa,144,1978,-5 %
+Klinkvej 29 7250 Hejnsvig,29,1228000.0,09-06-2008,Alm.,11584,5,Stuehus,106,1700,
+Klinkvej 37 7250 Hejnsvig,37,1600000.0,30-05-2008,Alm.,5970,3,Villa,268,1985,-6 %
+Billundvej 4 7250 Hejnsvig,4,1350000.0,17-04-2008,Alm.,5335,10,Villa,253,1921,
+Rosengårdsvej 15 7250 Hejnsvig,15,1295000.0,25-02-2008,Alm.,10360,5,Villa,125,1974,0 %
+Præstevænget 12 7250 Hejnsvig,12,985000.0,05-02-2008,Alm.,5382,6,Villa,183,1919,
+Daugårdvej 71 7250 Hejnsvig,71,641885.0,14-01-2008,Andet,3585,7,Villa,179,1927,
+Nyvej 18 7250 Hejnsvig,18,530000.0,14-01-2008,Alm.,7464,2,Villa,71,1963,-8 %
+Egebjerg Landevej 73 7250 Hejnsvig,73,109340.0,07-01-2008,Alm.,581,6,Villa,188,1914,
+Søgårdparken 14 7250 Hejnsvig,14,159000.0,03-01-2008,Alm.,963,5,Villa,165,2009,
+Skrænten 12 7250 Hejnsvig,12,1100000.0,21-12-2007,Alm.,4721,8,Villa,233,1982,-6 %
+Refshøjvej 60 7250 Hejnsvig,60,1965000.0,17-12-2007,Alm.,8972,7,Stuehus,219,1910,-2 %
+Bredgade 58 7250 Hejnsvig,58,970000.0,26-11-2007,Alm.,4663,6,Villa,208,1925,-3 %
+Daugårdvej 42 7250 Hejnsvig,42,375000.0,25-11-2007,Alm.,3826,4,Villa,98,1956,0 %
+Nyvej 15 7250 Hejnsvig,15,1095000.0,22-11-2007,Alm.,7064,4,Villa,155,1956,
+Fugdalvej 12 7250 Hejnsvig,12,14000000.0,08-11-2007,Alm.,52830,9,Stuehus,265,1900,
+Æblevej 7 7250 Hejnsvig,7,895000.0,27-10-2007,Alm.,7047,5,Villa,127,1968,
+Donslundvej 15 7250 Hejnsvig,15,925000.0,13-10-2007,Alm.,9068,4,Villa,102,1957,
+Søgårdparken 12 7250 Hejnsvig,12,149000.0,12-10-2007,Alm.,866,6,Villa,172,2008,
+Lundgårdvej 81 7250 Hejnsvig,81,294350.0,10-10-2007,Alm.,3725,3,Stuehus,79,1855,
+Ribe Landevej 81 7250 Hejnsvig,81,2000000.0,05-10-2007,Alm.,6825,8,Villa,293,1925,
+Daugårdvej 72 7250 Hejnsvig,72,2700000.0,04-10-2007,Alm.,16981,6,Stuehus,159,1956,
+Løvlundvej 2 7250 Hejnsvig,2,995000.0,13-09-2007,Alm.,6378,5,Villa,156,1951,
+Søllingdalvej 22 7250 Hejnsvig,22,1600000.0,08-09-2007,Alm.,11111,5,Villa,144,1975,
+Gilbjergvej 27 7250 Hejnsvig,27,570000.0,15-08-2007,Alm.,3677,5,Villa,155,1918,
+Langgade 57 7250 Hejnsvig,57,625000.0,10-08-2007,Alm.,5787,4,Villa,108,1979,
+Daugårdvej 64 7250 Hejnsvig,64,1050000.0,09-08-2007,Alm.,6140,6,Villa,171,1912,
+Langgade 43 7250 Hejnsvig,43,645000.0,14-07-2007,Alm.,4777,6,Villa,135,1977,
+Kolding Landevej 41 7250 Hejnsvig,41,1350000.0,11-07-2007,Alm.,10800,5,Villa,125,1924,
+Søgårdparken 8 7250 Hejnsvig,8,974862.0,06-07-2007,Alm.,5908,4,Villa,165,2007,
+Fugdalvej 16 7250 Hejnsvig,16,4300000.0,25-06-2007,Alm.,33593,4,Stuehus,128,1936,
+Bøgelunden 3 7250 Hejnsvig,3,565000.0,23-06-2007,Alm.,7434,3,Villa,76,1959,
+Katrinebjergvej 3 7250 Hejnsvig,3,2095000.0,23-06-2007,Alm.,12323,6,Villa,170,1931,
+Søgårdvej 121 7250 Hejnsvig,121,9000000.0,14-06-2007,Fam.,45918,6,Stuehus,196,1930,
+Billundvej 8 7250 Hejnsvig,8,860000.0,09-06-2007,Alm.,6991,4,Villa,123,1952,
+Egebjerg Landevej 66 7250 Hejnsvig,66,1375000.0,30-05-2007,Fam.,8088,6,Stuehus,170,1969,
+Langgade 20B 7250 Hejnsvig,0,2050000.0,12-05-2007,Alm.,10098,7,Villa,203,2002,
+Ribe Landevej 75 7250 Hejnsvig,75,1850000.0,10-05-2007,Alm.,6026,8,Stuehus,307,2008,
+Bredgade 46 7250 Hejnsvig,46,615000.0,27-04-2007,Alm.,4241,6,Villa,145,1924,-9 %
+Gråhedevej 9 7250 Hejnsvig,9,1500000.0,26-04-2007,Alm.,7692,7,Villa,195,1932,
+Bredgade 95 7250 Hejnsvig,95,342500.0,16-04-2007,Alm.,3763,3,Villa,91,1912,
+Højene 17 7250 Hejnsvig,17,1395000.0,26-03-2007,Alm.,6674,8,Villa,209,1971,
+Holtevej 4 7250 Hejnsvig,4,765000.0,16-03-2007,Alm.,8895,3,Stuehus,86,1920,29 %
+Stenhøjvej 13 7250 Hejnsvig,13,1095000.0,05-03-2007,Alm.,7877,6,Villa,139,1976,
+Tegnhøjvej 23 7250 Hejnsvig,23,1690000.0,20-02-2007,Fam.,14201,6,Stuehus,119,1918,
+Østerbo 11 7250 Hejnsvig,11,400000.0,01-02-2007,Alm.,2919,5,Villa,137,1965,
+Trøllundvej 19 7250 Hejnsvig,19,1825000.0,31-01-2007,Alm.,10195,6,Villa,179,1930,-5 %
+Søllingdalvej 24 7250 Hejnsvig,24,679000.0,31-01-2007,Alm.,5475,5,Villa,124,1976,
+Billundvej 42 7250 Hejnsvig,42,1742500.0,18-01-2007,Fam.,11098,7,Stuehus,157,1913,
+Gilbjergvej 21 7250 Hejnsvig,21,27500000.0,16-01-2007,Alm.,189655,7,Stuehus,145,1935,
+Fugdalvej 7 7250 Hejnsvig,7,50000.0,16-01-2007,Alm.,279,6,Stuehus,179,1865,
+Nyvej 16B 7250 Hejnsvig,0,775000.0,04-12-2006,Alm.,6981,4,Villa,111,1968,
+Lundgårdvej 68 7250 Hejnsvig,68,2200000.0,09-11-2006,Alm.,12222,5,Stuehus,180,1937,
+Boldingvej 15 7250 Hejnsvig,15,2550145.0,03-11-2006,Alm.,18751,6,Villa,136,1923,
+Billundvej 12 7250 Hejnsvig,12,625000.0,30-10-2006,Alm.,5434,4,Villa,115,1989,
+Vinkelvej 4 7250 Hejnsvig,4,675000.0,17-10-2006,Alm.,6553,5,Villa,103,1947,
+Stenhøjvej 1A 7250 Hejnsvig,0,500000.0,27-09-2006,Alm.,0,6,Villa,170,1967,
+Bredgade 45 7250 Hejnsvig,45,262500.0,26-09-2006,Fam.,1750,4,Villa,150,1908,
+Ribe Landevej 80 7250 Hejnsvig,80,4100000.0,25-09-2006,Alm.,24848,3,Stuehus,165,1896,
+Vesterhedevej 38 7250 Hejnsvig,38,690000.0,13-09-2006,Alm.,6699,5,Villa,103,1923,
+Rosengårdsvej 4 7250 Hejnsvig,4,9000000.0,12-09-2006,Alm.,70866,5,Villa,127,1973,
+Vandmosevej 15 7250 Hejnsvig,15,1775000.0,23-08-2006,Andet,10757,5,Stuehus,165,1900,
+Egebjerg Landevej 58 7250 Hejnsvig,58,700000.0,16-08-2006,Alm.,3517,6,Villa,199,1943,
+Bredgade 77 7250 Hejnsvig,77,620000.0,04-08-2006,Alm.,5391,4,Villa,115,1953,
+Egebjerg Landevej 71 7250 Hejnsvig,71,170000.0,24-07-2006,Alm.,4358,2,Villa,39,1956,
+Daugårdvej 6 7250 Hejnsvig,6,1350000.0,22-07-2006,Alm.,6617,6,Villa,204,1954,
+Mejerivej 12 7250 Hejnsvig,12,100000.0,20-07-2006,Alm.,341,6,Villa,293,1875,
+Daugårdvej 12 7250 Hejnsvig,12,300000.0,19-07-2006,Alm.,6000,2,Villa,50,1944,
+Søllingdalvej 62 7250 Hejnsvig,62,835000.0,05-07-2006,Alm.,6374,4,Villa,131,1977,
+Møllevangen 8 7250 Hejnsvig,8,465000.0,04-07-2006,Alm.,3875,4,Rækkehus,120,1931,
+Søgårdvej 51 7250 Hejnsvig,51,865000.0,29-06-2006,Alm.,0,6,Villa,185,1979,
+Høstvej 5 7250 Hejnsvig,5,1075000.0,09-06-2006,Alm.,7166,5,Villa,150,1987,
+Refshøjvej 70 7250 Hejnsvig,70,775000.0,07-06-2006,Alm.,0,7,Villa,164,1954,
+Søgårdvej 153 7250 Hejnsvig,153,2500000.0,06-06-2006,Alm.,22321,4,Stuehus,112,1941,
+Ørnsbjergvej 15 7250 Hejnsvig,15,143450.0,02-05-2006,Alm.,637,7,Stuehus,225,1979,
+Løvlundvej 5 7250 Hejnsvig,5,800000.0,31-03-2006,Alm.,5263,5,Villa,152,1966,
+Østerbo 13 7250 Hejnsvig,13,515000.0,31-03-2006,Alm.,4364,6,Villa,118,1792,
+Præstevænget 5 7250 Hejnsvig,5,450000.0,28-03-2006,Alm.,2727,5,Villa,165,1915,
+Lundgårdvej 38 7250 Hejnsvig,38,2519812.0,15-03-2006,Fam.,19841,4,Villa,127,1960,
+Egebjerg Landevej 93 7250 Hejnsvig,93,600000.0,15-03-2006,Alm.,4137,7,Villa,145,1912,
+Tegnhøjvej 4 7250 Hejnsvig,4,5944008.0,09-03-2006,Alm.,51687,4,Stuehus,115,1902,
+Refshøjvej 50 7250 Hejnsvig,50,800000.0,08-03-2006,Alm.,4188,6,Villa,191,1956,
+Æblevej 5 7250 Hejnsvig,5,700000.0,27-02-2006,Alm.,6603,3,Villa,106,1965,
+Staruphøjevej 12 7250 Hejnsvig,12,7310445.0,23-02-2006,Alm.,38679,5,Stuehus,189,1936,
+Æblevej 3 7250 Hejnsvig,3,775000.0,16-02-2006,Alm.,7380,4,Villa,105,1966,
+Skrænten 4 7250 Hejnsvig,4,635997.0,12-02-2006,Alm.,4416,4,Villa,144,1979,
+Præstevænget 6 7250 Hejnsvig,6,550000.0,07-02-2006,Alm.,4741,4,Villa,116,1937,
+Søgårdvej 63 7250 Hejnsvig,63,825000.0,06-02-2006,Alm.,6547,4,Villa,126,1979,
+Langgade 65 7250 Hejnsvig,65,650000.0,01-02-2006,Alm.,4577,5,Villa,142,1980,
+Daugårdvej 18 7250 Hejnsvig,18,425000.0,02-01-2006,Alm.,3601,3,Villa,118,1924,
+A G Jensens Vej 5 7250 Hejnsvig,5,730000.0,23-12-2005,Fam.,5748,4,Villa,127,1960,
+Rungborgvej 2 7250 Hejnsvig,2,420000.0,05-12-2005,Fam.,2295,7,Villa,183,1923,
+Lundgårdvej 62 7250 Hejnsvig,62,800000.0,15-11-2005,Fam.,8333,4,Stuehus,96,1872,
+Nyvej 20 7250 Hejnsvig,20,725000.0,12-11-2005,Alm.,7397,3,Villa,98,1962,
+Søgårdvej 122 7250 Hejnsvig,122,1335000.0,04-11-2005,Fam.,5276,5,Stuehus,253,1900,
+Vandmosevej 10 7250 Hejnsvig,10,1095000.0,03-11-2005,Alm.,10735,3,Villa,102,1962,
+Egebjerg Landevej 83 7250 Hejnsvig,83,590000.0,02-11-2005,Alm.,0,7,Villa,285,1912,
+Søgårdparken 16 7250 Hejnsvig,16,159000.0,31-10-2005,Alm.,845,6,Villa,188,2007,
+Højene 13 7250 Hejnsvig,13,795000.0,28-10-2005,Alm.,6853,4,Villa,116,1971,
+Daugårdvej 23 7250 Hejnsvig,23,360000.0,27-10-2005,Fam.,2950,4,Villa,122,1929,
+Gilbjergvej 43 7250 Hejnsvig,43,564158.0,17-10-2005,Fam.,4001,5,Villa,141,1927,
+Kirkevej 16 7250 Hejnsvig,16,700000.0,10-10-2005,Alm.,0,7,Villa,193,1956,
+Højene 22 7250 Hejnsvig,22,675000.0,27-09-2005,Alm.,4470,5,Villa,151,1970,
+Søgårdparken 10 7250 Hejnsvig,10,159000.0,15-09-2005,Alm.,836,5,Villa,190,2006,
+Gilbjergvej 28 7250 Hejnsvig,28,517055.0,05-09-2005,Alm.,2765,6,Villa,187,1872,
+Nyvej 1B 7250 Hejnsvig,0,629000.0,01-08-2005,Fam.,5113,4,Villa,123,1985,
+Rogusavej 4 7250 Hejnsvig,4,995000.0,30-06-2005,Alm.,0,7,Villa,229,1970,
+Bredgade 81 7250 Hejnsvig,81,200000.0,28-06-2005,Alm.,0,5,Villa,164,1951,
+Nyvej 17 7250 Hejnsvig,17,250000.0,22-06-2005,Alm.,3623,4,Villa,69,1933,
+Nyvej 14 7250 Hejnsvig,14,655000.0,08-06-2005,Alm.,5458,4,Villa,120,1949,
+Løvlundvej 17 7250 Hejnsvig,17,230000.0,07-06-2005,Alm.,0,10,Villa,202,1964,
+Søgårdvej 62 7250 Hejnsvig,62,975000.0,31-05-2005,Alm.,6866,5,Villa,142,1986,
+Rosengårdsvej 6 7250 Hejnsvig,6,1065000.0,25-05-2005,Alm.,7052,4,Villa,151,1975,
+Nyvej 4 7250 Hejnsvig,4,675000.0,19-05-2005,Alm.,6617,4,Villa,102,1960,
+Egebjerg Landevej 108 7250 Hejnsvig,108,450000.0,17-05-2005,Alm.,0,4,Stuehus,116,1905,
+Fugdalvej 3 7250 Hejnsvig,3,2325000.0,09-05-2005,Alm.,14531,7,Stuehus,160,1880,
+Søllingdalvej 74 7250 Hejnsvig,74,695000.0,03-05-2005,Alm.,6205,4,Villa,112,1977,
+Nyvej 23 7250 Hejnsvig,23,725000.0,01-04-2005,Alm.,4769,6,Villa,152,1967,
+Nyvej 3 7250 Hejnsvig,3,475000.0,24-03-2005,Alm.,8189,2,Villa,58,1961,
+Bøgelunden 1 7250 Hejnsvig,1,284043.0,15-03-2005,Andet,2290,3,Villa,124,1948,
+Langgade 59 7250 Hejnsvig,59,515000.0,15-03-2005,Alm.,4221,4,Villa,122,1977,
+Daugårdvej 25 7250 Hejnsvig,25,400000.0,14-03-2005,Alm.,3225,6,Villa,124,1931,
+Fugdalvej 20 7250 Hejnsvig,20,255000.0,07-03-2005,Fam.,7285,1,Sommerhus,35,1968,
+Fugdalvej 11 7250 Hejnsvig,11,875000.0,02-03-2005,Alm.,4679,6,Villa,187,1911,
+Østre Ringvej 10 7250 Hejnsvig,10,425000.0,25-02-2005,Alm.,4207,3,Villa,101,1966,
+Midtkjærvej 12 7250 Hejnsvig,12,155000.0,31-01-2005,Alm.,1291,3,Stuehus,120,1895,
+Midtkjærvej 15 7250 Hejnsvig,15,155000.0,31-01-2005,Alm.,811,7,Stuehus,191,1897,
+Egebjerg Landevej 76 7250 Hejnsvig,76,400000.0,07-01-2005,Alm.,4347,4,Villa,92,1800,
+Egebjerg Landevej 90 7250 Hejnsvig,90,550000.0,17-12-2004,Alm.,2619,6,Villa,210,1962,
+Askjærvej 2 7250 Hejnsvig,2,470000.0,14-12-2004,Alm.,4234,5,Villa,111,1960,
+Søgårdvej 56 7250 Hejnsvig,56,930000.0,29-11-2004,Alm.,6549,5,Villa,142,1988,
+Daugårdvej 22 7250 Hejnsvig,22,325000.0,29-11-2004,Alm.,2876,5,Villa,113,1917,
+Egebjerg Landevej 54 7250 Hejnsvig,54,2200000.0,03-11-2004,Alm.,18803,5,Stuehus,117,1960,
+Langgade 50 7250 Hejnsvig,50,785000.0,01-10-2004,Alm.,5198,4,Villa,151,1910,
+Søgårdvej 53 7250 Hejnsvig,53,790000.0,10-06-2004,Alm.,5374,4,Villa,147,1979,
+Søllingdalvej 82 7250 Hejnsvig,82,625000.0,07-04-2004,Alm.,4340,5,Villa,144,1977,
+Vesterhedevej 42 7250 Hejnsvig,42,5300000.0,05-04-2004,Alm.,21900,8,Stuehus,242,1890,
+Egebjerg Landevej 88 7250 Hejnsvig,88,675000.0,02-04-2004,Alm.,4623,5,Villa,146,1930,
+Søgårdvej 158 7250 Hejnsvig,158,1508291.0,31-03-2004,Fam.,9426,6,Stuehus,160,1927,
+Æblevej 2 7250 Hejnsvig,2,490000.0,31-03-2004,Alm.,3798,4,Villa,129,1947,
+Katrinebjergvej 4 7250 Hejnsvig,4,1700000.0,19-03-2004,Fam.,9239,7,Stuehus,184,1908,
+Egebjerg Landevej 86 7250 Hejnsvig,86,585000.0,13-02-2004,Alm.,4090,4,Villa,143,1931,
+Ribe Landevej 105 7250 Hejnsvig,105,850000.0,16-01-2004,Alm.,6538,4,Stuehus,130,1932,
+Høstvej 3 7250 Hejnsvig,3,570000.0,22-12-2003,Fam.,4488,5,Villa,127,1968,
+Daugårdvej 35 7250 Hejnsvig,35,350000.0,12-12-2003,Alm.,6034,2,Villa,58,1935,
+Søgårdvej 81 7250 Hejnsvig,81,815000.0,15-11-2003,Alm.,6037,6,Villa,135,1985,
+Billundvej 47 7250 Hejnsvig,47,2600000.0,16-09-2003,Alm.,7761,7,Villa,335,1916,
+Daugårdvej 37 7250 Hejnsvig,37,170000.0,12-09-2003,Fam.,1545,3,Villa,110,1954,
+Bredgade 57 7250 Hejnsvig,57,355000.0,28-08-2003,Alm.,2414,6,Villa,147,1926,
+Midtkjærvej 9 7250 Hejnsvig,9,760000.0,19-08-2003,Alm.,4245,8,Villa,179,1927,
+Skrænten 8 7250 Hejnsvig,8,750000.0,12-08-2003,Alm.,5319,5,Villa,141,1985,
+Boldingvej 10 7250 Hejnsvig,10,1300000.0,06-08-2003,Alm.,9701,5,Villa,134,1965,
+Ribe Landevej 123 7250 Hejnsvig,123,100000.0,08-07-2003,Alm.,625,6,Stuehus,160,1916,
+Langgade 58 7250 Hejnsvig,58,390000.0,08-07-2003,Alm.,4756,2,Villa,82,1954,
+Søgårdvej 69 7250 Hejnsvig,69,910000.0,05-07-2003,Alm.,5947,6,Villa,153,1979,
+Søndergade 12 7250 Hejnsvig,12,470000.0,20-06-2003,Alm.,2764,8,Villa,170,1953,
+Bredgade 35 7250 Hejnsvig,35,580000.0,03-06-2003,Alm.,9666,2,Villa,60,1958,
+Nyvej 13 7250 Hejnsvig,13,450000.0,07-03-2003,Alm.,4838,2,Villa,93,1940,
+A G Jensens Vej 6 7250 Hejnsvig,6,505000.0,27-02-2003,Alm.,4243,4,Villa,119,1966,
+Langgade 37 7250 Hejnsvig,37,318017.0,24-02-2003,Auktion,0,3,Villa,124,1929,
+Kirkevej 15 7250 Hejnsvig,15,640000.0,14-02-2003,Alm.,5245,4,Villa,122,1952,
+Søgårdvej 85 7250 Hejnsvig,85,500000.0,14-02-2003,Andet,3623,4,Villa,138,1980,
+Refshøjvej 74 7250 Hejnsvig,74,950000.0,06-02-2003,Fam.,8119,5,Stuehus,117,1954,
+Langgade 8 7250 Hejnsvig,8,843318.0,21-01-2003,Alm.,5337,7,Stuehus,158,1917,
+Bredgade 4 7250 Hejnsvig,4,625000.0,13-12-2002,Fam.,5252,2,Villa,119,2012,
+Bredgade 39 7250 Hejnsvig,39,570000.0,02-12-2002,Alm.,0,6,Villa,186,1910,
+Tegnhøjvej 24 7250 Hejnsvig,24,1650000.0,14-11-2002,Alm.,10927,5,Stuehus,151,2011,
+Tegnhøjvej 28 7250 Hejnsvig,28,1170000.0,11-11-2002,Alm.,4936,8,Villa,237,1900,
+Ribe Landevej 84 7250 Hejnsvig,84,600000.0,21-10-2002,Fam.,0,7,Villa,245,1932,
+Østerbo 7 7250 Hejnsvig,7,406584.0,28-09-2002,Fam.,0,6,Villa,151,1910,
+Vesterhedevej 44 7250 Hejnsvig,44,680000.0,27-09-2002,Alm.,0,7,Stuehus,182,1900,
+Præstevænget 10 7250 Hejnsvig,10,375000.0,15-08-2002,Alm.,0,3,Villa,112,1927,
+Fugdalvej 22 7250 Hejnsvig,22,110500.0,30-07-2002,Fam.,7366,2,Sommerhus,15,1969,
+Søgårdvej 45 7250 Hejnsvig,45,775000.0,26-07-2002,Alm.,5698,5,Villa,136,1979,
+Ørnsbjergvej 10 7250 Hejnsvig,10,800000.0,25-07-2002,Alm.,9638,2,Stuehus,83,1930,
+Kirkevej 12 7250 Hejnsvig,12,765000.0,27-06-2002,Alm.,3297,7,Villa,232,1944,
+Stenhøjvej 11 7250 Hejnsvig,11,480000.0,20-06-2002,Andet,4000,5,Villa,120,1974,
+Søgårdparken 22 7250 Hejnsvig,22,179200.0,12-06-2002,Alm.,1171,6,Villa,153,2003,
+Daugårdvej 24 7250 Hejnsvig,24,259250.0,10-06-2002,Fam.,1705,4,Villa,152,1955,
+Søllingdalvej 14 7250 Hejnsvig,14,850000.0,28-05-2002,Alm.,5944,6,Villa,143,1974,
+Skrænten 10 7250 Hejnsvig,10,30000.0,14-05-2002,Alm.,184,6,Villa,163,2006,
+Løvlundvej 29 7250 Hejnsvig,29,1275000.0,19-04-2002,Fam.,10805,4,Stuehus,118,1884,
+Højene 3 7250 Hejnsvig,3,850000.0,25-03-2002,Alm.,6640,3,Villa,128,1970,
+Egebjerg Landevej 89 7250 Hejnsvig,89,420000.0,15-03-2002,Alm.,5600,2,Villa,75,1955,
+Nyvej 11 7250 Hejnsvig,11,650000.0,23-01-2002,Alm.,6632,3,Villa,98,1962,
+Langgade 29 7250 Hejnsvig,29,50000.0,19-11-2001,Alm.,295,4,Villa,169,2001,
+Ribe Landevej 62 7250 Hejnsvig,62,525000.0,17-11-2001,Alm.,4906,3,Stuehus,107,1850,
+Søgårdvej 79 7250 Hejnsvig,79,1180000.0,16-11-2001,Alm.,7564,5,Villa,156,1984,
+Bredgade 64 7250 Hejnsvig,64,825000.0,21-10-2001,Alm.,4064,7,Villa,203,1927,
+Søgårdvej 65 7250 Hejnsvig,65,954398.0,03-10-2001,Alm.,5819,6,Villa,164,1979,
+Langgade 52 7250 Hejnsvig,52,375000.0,21-09-2001,Alm.,3000,4,Villa,125,1954,
+Risbølvej 3 7250 Hejnsvig,3,1350000.0,18-09-2001,Alm.,9712,7,Stuehus,139,1934,
+Egebjerg Landevej 148 7250 Hejnsvig,148,1050000.0,21-08-2001,Fam.,6287,5,Stuehus,167,1955,
+Egebjerg Landevej 118 7250 Hejnsvig,118,1350000.0,13-08-2001,Alm.,12857,2,Stuehus,105,1940,
+Skrænten 22 7250 Hejnsvig,22,477500.0,18-05-2001,Alm.,5026,4,Villa,95,1937,
+Torvegade 1 7250 Hejnsvig,1,325000.0,18-05-2001,Alm.,2272,5,Villa,143,1921,
+Søgårdvej 66 7250 Hejnsvig,66,820000.0,23-04-2001,Alm.,5030,6,Villa,163,1981,
+Langgade 16 7250 Hejnsvig,16,650000.0,30-03-2001,Alm.,3823,9,Villa,170,1956,
+Vesterhedevej 40 7250 Hejnsvig,40,725000.0,26-03-2001,Alm.,0,9,Villa,250,1927,
+Lundgårdvej 60 7250 Hejnsvig,60,1034133.0,28-02-2001,Alm.,5745,6,Stuehus,180,1932,
+Klodhøjvej 43 7250 Hejnsvig,43,130776.0,21-02-2001,Alm.,983,5,Stuehus,133,1952,
+Langgade 34 7250 Hejnsvig,34,920000.0,01-02-2001,Alm.,5027,6,Villa,183,1929,
+Kirkevej 42 7250 Hejnsvig,42,812153.0,30-01-2001,Alm.,5639,5,Villa,144,1946,
+Vinkelvej 12 7250 Hejnsvig,12,720000.0,29-01-2001,Alm.,8275,4,Villa,87,1955,
+Lundgårdvej 77 7250 Hejnsvig,77,1626567.0,30-12-2000,Alm.,12707,5,Stuehus,128,1923,
+Ribe Landevej 83 7250 Hejnsvig,83,2298873.0,17-11-2000,Fam.,11437,6,Stuehus,201,1925,
+Egebjerg Landevej 60 7250 Hejnsvig,60,550000.0,31-10-2000,Fam.,6111,3,Villa,90,1993,
+Egebjerg Landevej 144 7250 Hejnsvig,144,940000.0,18-10-2000,Alm.,0,5,Stuehus,180,1952,
+Rungborgvej 1 7250 Hejnsvig,1,425000.0,09-10-2000,Fam.,3935,5,Villa,108,1926,
+Refshøjvej 76 7250 Hejnsvig,76,175000.0,04-10-2000,Fam.,4375,2,Sommerhus,40,1967,
+Rungborgvej 5 7250 Hejnsvig,5,695000.0,01-10-2000,Alm.,7020,5,Villa,99,1925,
+Søllingdalvej 56 7250 Hejnsvig,56,850000.0,21-09-2000,Andet,6390,6,Villa,133,1977,
+Rugbjergvej 26 7250 Hejnsvig,26,1630000.0,11-09-2000,Alm.,9055,5,Stuehus,180,1900,
+Søgårdparken 18 7250 Hejnsvig,18,154000.0,29-08-2000,Alm.,911,5,Villa,169,2000,
+Klodhøjvej 42 7250 Hejnsvig,42,250000.0,29-07-2000,Andet,1256,5,Stuehus,199,1936,
+Klodhøjvej 6 7250 Hejnsvig,6,550000.0,16-06-2000,Alm.,4910,4,Villa,112,1940,
+Langgade 66 7250 Hejnsvig,66,331500.0,08-05-2000,Fam.,4361,3,Stuehus,76,1909,
+Stenhøjvej 16 7250 Hejnsvig,16,673000.0,06-05-2000,Alm.,5427,4,Villa,124,1985,
+Højene 7 7250 Hejnsvig,7,762026.0,14-03-2000,Alm.,5953,5,Villa,128,1972,
+Egebjerg Landevej 126 7250 Hejnsvig,126,1139367.0,19-02-2000,Alm.,7446,7,Villa,153,1937,
+Stenhøjvej 10 7250 Hejnsvig,10,620000.0,14-01-2000,Alm.,4661,4,Villa,133,1976,
+Boldingvej 7 7250 Hejnsvig,7,3900000.0,28-12-1999,Alm.,11504,13,Stuehus,339,1937,
+Billundvej 27 7250 Hejnsvig,27,975000.0,21-12-1999,Fam.,6290,8,Stuehus,155,1913,
+Klinkvej 20 7250 Hejnsvig,20,1950000.0,20-12-1999,Fam.,11818,6,Stuehus,165,1926,
+Kirkevej 11 7250 Hejnsvig,11,300000.0,09-12-1999,Fam.,4761,3,Villa,63,1949,
+Vinkelvej 1 7250 Hejnsvig,1,303000.0,26-10-1999,Fam.,3564,3,Villa,85,1952,
+Egebjerg Landevej 84 7250 Hejnsvig,84,562000.0,20-10-1999,Alm.,4496,4,Villa,125,1913,
+Risbølvej 9 7250 Hejnsvig,9,780000.0,09-09-1999,Fam.,4561,6,Stuehus,171,1935,
+Egebjerg Landevej 52 7250 Hejnsvig,52,375000.0,30-08-1999,Alm.,5000,3,Villa,75,1940,
+Egebjerg Landevej 100 7250 Hejnsvig,100,457000.0,11-06-1999,Alm.,3776,5,Villa,121,1973,
+Bredgade 2 7250 Hejnsvig,2,854970.0,06-05-1999,Alm.,0,12,Villa,313,1876,
+Rugbjergvej 10 7250 Hejnsvig,10,1568687.0,28-04-1999,Alm.,5602,6,Stuehus,280,1955,
+Æblevej 11 7250 Hejnsvig,11,350000.0,27-03-1999,Alm.,5384,3,Villa,65,1961,
+Refshøjvej 89 7250 Hejnsvig,89,2788742.0,09-03-1999,Alm.,0,10,Stuehus,282,1973,
+Ribe Landevej 162 7250 Hejnsvig,162,1474000.0,03-03-1999,Alm.,8987,7,Stuehus,164,1959,
+"Bredgade 61, 1 7250 Hejnsvig",1,2300000.0,26-02-1999,Alm.,0,6,Lejlighed,81,1913,
+Nyvej 10 7250 Hejnsvig,10,263500.0,20-02-1999,Fam.,2533,2,Villa,104,2000,
+Langgade 46 7250 Hejnsvig,46,170000.0,29-01-1999,Alm.,3269,2,Villa,52,1950,
+Ribe Landevej 76 7250 Hejnsvig,76,1550000.0,12-01-1999,Alm.,11071,5,Stuehus,140,1936,
+Billundvej 58 7250 Hejnsvig,58,550000.0,12-12-1998,Alm.,2989,5,Villa,184,1999,
+Lundgårdvej 64 7250 Hejnsvig,64,170000.0,25-11-1998,Fam.,1847,3,Villa,92,1965,
+Søllingdalvej 8 7250 Hejnsvig,8,810000.0,17-11-1998,Alm.,5436,5,Villa,149,1975,
+Skrænten 3 7250 Hejnsvig,3,751000.0,06-10-1998,Alm.,5481,5,Villa,137,1979,
+Søllingdalvej 60 7250 Hejnsvig,60,451000.0,29-09-1998,Fam.,3887,5,Villa,116,1976,
+Mejerivej 20 7250 Hejnsvig,20,965000.0,25-09-1998,Alm.,0,5,Stuehus,130,1969,
+Rogusavej 6 7250 Hejnsvig,6,275000.0,06-08-1998,Alm.,2217,5,Villa,124,1973,
+Søgårdparken 6 7250 Hejnsvig,6,188497.0,20-07-1998,Alm.,1291,5,Villa,146,1999,
+Daugårdvej 20 7250 Hejnsvig,20,625000.0,19-05-1998,Alm.,4340,7,Villa,144,1940,
+Stenhøjvej 14 7250 Hejnsvig,14,747533.0,18-05-1998,Alm.,5794,5,Villa,129,1975,
+Langgade 45 7250 Hejnsvig,45,447000.0,21-04-1998,Alm.,4425,4,Villa,101,1977,
+Langmosevej 10 7250 Hejnsvig,10,125935.0,08-04-1998,Alm.,777,6,Villa,162,2000,
+Søgårdparken 24 7250 Hejnsvig,24,164000.0,01-04-1998,Alm.,911,6,Villa,180,1998,
+Søgårdvej 110 7250 Hejnsvig,110,535000.0,26-03-1998,Fam.,0,3,Stuehus,89,1894,
+Egebjerg Landevej 42 7250 Hejnsvig,42,850000.0,25-02-1998,Alm.,6343,4,Stuehus,134,1902,
+Egebjerg Landevej 48 7250 Hejnsvig,48,451957.0,11-02-1998,Alm.,4808,4,Villa,94,1935,
+A G Jensens Vej 4 7250 Hejnsvig,4,460000.0,16-01-1998,Alm.,2857,4,Villa,161,1942,
+Rugbjergvej 24 7250 Hejnsvig,24,1117000.0,06-12-1997,Alm.,8094,3,Stuehus,138,1910,
+Søgårdvej 41 7250 Hejnsvig,41,683440.0,05-11-1997,Alm.,5257,5,Villa,130,1979,
+Lundgårdvej 66 7250 Hejnsvig,66,105984.0,20-10-1997,Fam.,841,6,Villa,126,1954,
+Kirkevej 41 7250 Hejnsvig,41,640000.0,16-10-1997,Alm.,0,8,Villa,196,1944,
+Søgårdvej 124 7250 Hejnsvig,124,800000.0,17-09-1997,Alm.,3076,6,Stuehus,260,1999,
+Kolding Landevej 47 7250 Hejnsvig,47,838333.0,11-09-1997,Alm.,0,8,Stuehus,245,1959,
+Østerbo 3 7250 Hejnsvig,3,331000.0,10-09-1997,Fam.,2330,6,Villa,142,1963,
+Søgårdparken 2 7250 Hejnsvig,2,188497.0,01-09-1997,Alm.,1178,5,Villa,160,1997,
+Billundvej 35 7250 Hejnsvig,35,710000.0,07-05-1997,Fam.,3717,6,Stuehus,191,1972,
+Bredgade 49 7250 Hejnsvig,49,350000.0,30-04-1997,Alm.,2500,7,Villa,140,1910,
+Søllingdalvej 30 7250 Hejnsvig,30,664136.0,26-03-1997,Alm.,5355,5,Villa,124,1975,
+Bredgade 73 7250 Hejnsvig,73,452500.0,19-02-1997,Fam.,2011,9,Villa,225,1917,
+Kirkevej 52 7250 Hejnsvig,52,303456.0,15-02-1997,Alm.,0,4,Villa,139,1902,
+Præstevænget 2 7250 Hejnsvig,2,635000.0,01-02-1997,Alm.,4960,5,Villa,128,1967,
+Højene 4 7250 Hejnsvig,4,485000.0,06-01-1997,Fam.,3646,5,Villa,133,1973,
+Højene 10 7250 Hejnsvig,10,850000.0,17-12-1996,Alm.,5059,5,Villa,168,1971,
+Rungborgvej 13 7250 Hejnsvig,13,663406.0,21-11-1996,Alm.,3790,7,Villa,175,1961,
+Refshøjvej 69 7250 Hejnsvig,69,425000.0,07-11-1996,Alm.,0,6,Stuehus,191,1928,
+Østerbo 4 7250 Hejnsvig,4,100000.0,02-11-1996,Alm.,787,4,Villa,127,1999,
+Søgårdvej 125 7250 Hejnsvig,125,1411086.0,11-10-1996,Alm.,7545,6,Stuehus,187,1937,
+Langgade 33 7250 Hejnsvig,33,936599.0,05-09-1996,Alm.,0,6,Stuehus,168,1916,
+Søllingdalvej 34 7250 Hejnsvig,34,650000.0,23-08-1996,Alm.,4577,6,Villa,142,1976,
+Askjærvej 6 7250 Hejnsvig,6,1130800.0,29-07-1996,Alm.,0,5,Stuehus,191,1912,
+Refshøjvej 98 7250 Hejnsvig,98,854000.0,02-07-1996,Fam.,5972,5,Stuehus,143,1936,
+Skrænten 1 7250 Hejnsvig,1,444000.0,11-06-1996,Alm.,0,5,Villa,156,1978,
+Donslundvej 11 7250 Hejnsvig,11,1185000.0,31-05-1996,Alm.,5642,5,Stuehus,210,1905,
+Bøgelunden 2 7250 Hejnsvig,2,275000.0,28-04-1996,Alm.,0,6,Villa,134,1938,
+Vesterhedevej 34 7250 Hejnsvig,34,447500.0,12-04-1996,Fam.,2905,5,Stuehus,154,1909,
+Gråhedevej 6 7250 Hejnsvig,6,1540000.0,03-04-1996,Alm.,7096,6,Stuehus,217,2005,
+Billundvej 3 7250 Hejnsvig,3,450000.0,24-03-1996,Alm.,2142,6,Villa,210,1947,
+Refshøjvej 102 7250 Hejnsvig,102,1188000.0,22-03-1996,Alm.,7113,6,Stuehus,167,1975,
+Æblevej 4 7250 Hejnsvig,4,130000.0,14-03-1996,Alm.,1007,4,Villa,129,1996,
+Stenhøjvej 3 7250 Hejnsvig,3,675000.0,12-03-1996,Alm.,4383,4,Villa,154,1977,
+Løvlundvej 12 7250 Hejnsvig,12,530000.0,14-02-1996,Alm.,4108,5,Villa,129,1963,
+Trøllundvej 4 7250 Hejnsvig,4,650000.0,09-02-1996,Alm.,0,10,Villa,286,1922,
+Refshøjvej 85 7250 Hejnsvig,85,726790.0,19-01-1996,Alm.,3349,9,Villa,217,1966,
+Søllingdalvej 48 7250 Hejnsvig,48,692640.0,31-12-1995,Alm.,0,5,Villa,152,1977,
+Klinkvej 25 7250 Hejnsvig,25,1650000.0,22-12-1995,Alm.,0,8,Stuehus,206,1962,
+Søllingdalvej 36 7250 Hejnsvig,36,665000.0,25-10-1995,Alm.,4854,5,Villa,137,1975,
+Søgårdvej 54A 7250 Hejnsvig,0,469039.0,24-10-1995,Alm.,5329,4,Rækkehus,88,1988,
+Rugbjergvej 31 7250 Hejnsvig,31,780000.0,13-10-1995,Fam.,0,5,Stuehus,213,1929,
+Æblevej 1 7250 Hejnsvig,1,515000.0,30-09-1995,Alm.,0,7,Villa,138,1963,
+Rosengårdsvej 7 7250 Hejnsvig,7,530000.0,14-08-1995,Alm.,4416,5,Villa,120,1973,
+A G Jensens Vej 2 7250 Hejnsvig,2,349000.0,11-08-1995,Alm.,3144,5,Villa,111,1936,
+Nyvej 16A 7250 Hejnsvig,0,250000.0,31-05-1995,Alm.,2906,4,Villa,86,1954,
+Præstevænget 8 7250 Hejnsvig,8,595000.0,31-05-1995,Alm.,3672,6,Villa,162,1951,
+Kolding Landevej 40 7250 Hejnsvig,40,3200000.0,15-05-1995,Fam.,19047,6,Stuehus,168,1927,
+Bredgade 60 7250 Hejnsvig,60,365000.0,07-04-1995,Alm.,0,6,Villa,176,1910,
+Refshøjvej 79 7250 Hejnsvig,79,950000.0,24-02-1995,Alm.,5828,5,Stuehus,163,2011,
+Vesterhedevej 52 7250 Hejnsvig,52,278000.0,02-02-1995,Alm.,0,5,Villa,142,1929,
+Trøllundvej 22 7250 Hejnsvig,22,1850500.0,25-01-1995,Alm.,10167,6,Stuehus,182,1966,
+Østerbo 8 7250 Hejnsvig,8,285000.0,17-01-1995,Alm.,0,7,Villa,186,1946,
+Nyvej 5 7250 Hejnsvig,5,340000.0,16-12-1994,Alm.,8095,1,Villa,42,1960,
+Ribe Landevej 45 7250 Hejnsvig,45,868000.0,29-11-1994,Alm.,0,5,Stuehus,173,1910,
+Askjærvej 21 7250 Hejnsvig,21,838505.0,25-11-1994,Alm.,5743,4,Stuehus,146,1926,
+Bredgade 31 7250 Hejnsvig,31,213000.0,07-11-1994,Alm.,1092,7,Villa,195,1916,
+Søllingdalvej 88 7250 Hejnsvig,88,155500.0,10-09-1994,Alm.,1029,7,Villa,151,1995,
+Askjærvej 30 7250 Hejnsvig,30,485000.0,02-09-1994,Alm.,0,6,Stuehus,195,1919,
+Ribe Landevej 58 7250 Hejnsvig,58,144500.0,24-06-1994,Fam.,760,5,Stuehus,190,1860,
+Langmosevej 4 7250 Hejnsvig,4,68655.0,20-06-1994,Alm.,403,4,Villa,170,1996,
+Stenhøjvej 18 7250 Hejnsvig,18,675000.0,10-06-1994,Alm.,0,6,Villa,179,1979,
+Nyvej 16C 7250 Hejnsvig,0,370000.0,01-06-1994,Alm.,0,4,Villa,120,1970,
+Staruphøjevej 24 7250 Hejnsvig,24,915000.0,15-05-1994,Alm.,4945,5,Stuehus,185,1936,
+Vesterhedevej 35 7250 Hejnsvig,35,455628.0,13-05-1994,Alm.,4068,4,Villa,112,1951,
+Østre Ringvej 4 7250 Hejnsvig,4,315000.0,30-03-1994,Fam.,3315,3,Villa,95,1965,
+Rosengårdsvej 1 7250 Hejnsvig,1,495000.0,28-03-1994,Alm.,3897,4,Villa,127,1968,
+Stenhøjvej 9 7250 Hejnsvig,9,500909.0,15-02-1994,Alm.,3430,5,Villa,146,1979,
+Søgårdvej 27 7250 Hejnsvig,27,662000.0,23-11-1993,Alm.,4728,4,Villa,140,1979,
+Søllingdalvej 86 7250 Hejnsvig,86,212558.0,15-10-1993,Andet,1647,5,Villa,129,1980,
+Lundgårdvej 40 7250 Hejnsvig,40,475000.0,18-08-1993,Alm.,5459,4,Villa,87,1966,
+Søgårdvej 120 7250 Hejnsvig,120,790000.0,18-08-1993,Alm.,0,7,Stuehus,279,1918,
+Refshøjvej 86 7250 Hejnsvig,86,525000.0,13-07-1993,Alm.,0,6,Stuehus,193,1955,
+Mejerivej 25 7250 Hejnsvig,25,375000.0,03-06-1993,Alm.,2500,5,Stuehus,150,1927,
+Egebjerg Landevej 123 7250 Hejnsvig,123,222500.0,02-03-1993,Fam.,1838,4,Villa,121,1914,
+Højene 11 7250 Hejnsvig,11,640000.0,10-02-1993,Alm.,3720,5,Villa,172,1970,
+Gilbjergvej 20 7250 Hejnsvig,20,425000.0,03-02-1993,Alm.,2931,4,Stuehus,145,1997,
+Nyvej 2A 7250 Hejnsvig,0,275000.0,07-11-1992,Alm.,3395,3,Villa,81,1957,
+Kirkevej 44 7250 Hejnsvig,44,610000.0,15-10-1992,Alm.,3210,5,Villa,190,1899,
+Trøllundvej 28 7250 Hejnsvig,28,261885.0,14-08-1992,Alm.,0,6,Stuehus,174,1970,
+Nyvej 24 7250 Hejnsvig,24,295000.0,04-08-1992,Alm.,0,2,Villa,127,1966,
+Gilbjergvej 39 7250 Hejnsvig,39,650000.0,03-08-1992,Fam.,4193,5,Stuehus,155,1999,
+Mejerivej 4 7250 Hejnsvig,4,650000.0,17-07-1992,Alm.,0,10,Stuehus,210,1916,
+Gilbjergvej 35 7250 Hejnsvig,35,1135000.0,25-05-1992,Alm.,6376,8,Stuehus,178,1912,
+Klinkvej 11 7250 Hejnsvig,11,400000.0,20-05-1992,Alm.,2139,8,Stuehus,187,1869,
+Billundvej 16 7250 Hejnsvig,16,300000.0,19-05-1992,Alm.,3571,2,Villa,84,1957,
+Kolding Landevej 12 7250 Hejnsvig,12,530000.0,01-05-1992,Fam.,4108,4,Villa,129,1925,
+Kolding Landevej 16 7250 Hejnsvig,16,250000.0,19-02-1992,Alm.,1436,5,Stuehus,174,1993,

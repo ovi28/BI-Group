@@ -1,0 +1,361 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Nykøbingvej 23 4460 Snertinge,23,150000.0,05-04-2017,Alm.,1209,4,Villa,124,1934,
+Bakkekammen 5 4460 Snertinge,5,1145000.0,24-03-2017,Alm.,9015,3,Villa,127,1971,-4 %
+Æblekjærvej 11 4460 Snertinge,11,700000.0,15-02-2017,Alm.,6666,3,Villa,105,1946,-12 %
+Bakkekammen 7 4460 Snertinge,7,920000.0,30-01-2017,Alm.,8518,4,Villa,108,1966,-3 %
+Tværvej 4 4460 Snertinge,4,300000.0,01-12-2016,Alm.,3061,3,Villa,98,1964,
+Højgårdsvej 4 4460 Snertinge,4,450000.0,25-11-2016,Andet,5056,3,Villa,89,1956,
+Møllevej 4 4460 Snertinge,4,2150000.0,07-11-2016,Alm.,6039,14,Villa,356,1790,-4 %
+Nykøbingvej 50 4460 Snertinge,50,850000.0,27-10-2016,Alm.,7142,4,Villa,119,1965,
+Slagelsevej 1B 4460 Snertinge,0,840000.0,03-10-2016,Alm.,3255,7,Stuehus,258,1870,
+Askelunden 1 4460 Snertinge,1,499000.0,09-09-2016,Alm.,4990,4,Rækkehus,100,1981,0 %
+Birkevej 6 4460 Snertinge,6,1230000.0,15-07-2016,Alm.,8200,6,Villa,150,1978,-11 %
+Kalundborgvej 24 4460 Snertinge,24,975000.0,14-07-2016,Alm.,7386,7,Lejlighed,132,1932,
+Bjergstedvej 28 4460 Snertinge,28,200000.0,06-07-2016,Auktion,2000,4,Villa,100,1938,
+Kalundborgvej 11 4460 Snertinge,11,650000.0,21-06-2016,Alm.,6632,3,Villa,98,1915,-6 %
+Gartnerstien 15 4460 Snertinge,15,1295000.0,20-06-2016,Alm.,9316,6,Villa,139,1987,-4 %
+Teglværksvej 8 4460 Snertinge,8,825000.0,06-05-2016,Alm.,4388,5,Villa,188,1904,-31 %
+Ellevej 5 4460 Snertinge,5,1735000.0,25-04-2016,Alm.,10451,5,Villa,166,2001,-3 %
+Loddenhøj 2 4460 Snertinge,2,1895000.0,11-02-2016,Alm.,6719,6,Villa,282,1853,0 %
+Højgårdsvej 13 4460 Snertinge,13,305000.0,22-01-2016,Andet,4121,4,Stuehus,74,1847,
+Skelbæk 11 4460 Snertinge,11,825000.0,15-01-2016,Alm.,4852,5,Stuehus,170,1917,-6 %
+Bjergstedvej 15 4460 Snertinge,15,535000.0,08-01-2016,Alm.,3741,5,Villa,143,1950,-17 %
+Æblekjærvej 10 4460 Snertinge,10,540000.0,04-01-2016,Alm.,3354,4,Villa,161,1897,-9 %
+Skippingevej 3 4460 Snertinge,3,225300.0,16-12-2015,Auktion,1341,6,Villa,168,1923,
+Apotekervej 4 4460 Snertinge,4,455000.0,17-11-2015,Alm.,3473,4,Villa,131,1963,-8 %
+Gartnerstien 9 4460 Snertinge,9,475000.0,16-11-2015,Auktion,5864,3,Rækkehus,81,1987,-17 %
+Kalundborgvej 16 4460 Snertinge,16,600000.0,18-10-2015,Alm.,7058,3,Villa,85,1929,-8 %
+Vesterbjergvej 10 4460 Snertinge,10,590000.0,06-09-2015,Alm.,6145,4,Rækkehus,96,2000,-21 %
+Nykøbingvej 38 4460 Snertinge,38,200000.0,29-07-2015,Auktion,1492,5,Villa,134,1934,
+Nykøbingvej 7 4460 Snertinge,7,715000.0,18-06-2015,Andet,3310,7,Villa,216,1937,
+Mellemvangsvej 8 4460 Snertinge,8,950000.0,03-06-2015,Auktion,7661,4,Villa,124,1971,-27 %
+Bakken 9 4460 Snertinge,9,950000.0,29-04-2015,Alm.,4773,9,Villa,199,1980,-25 %
+Skelbæk 5 4460 Snertinge,5,395000.0,22-04-2015,Auktion,3185,5,Villa,124,1932,
+Vesterbjergvej 22 4460 Snertinge,22,900000.0,20-04-2015,Alm.,6923,4,Villa,130,1987,-10 %
+Poppelvej 3 4460 Snertinge,3,1195000.0,15-04-2015,Alm.,8851,5,Villa,135,1975,-4 %
+Firhøjvej 16 4460 Snertinge,16,900000.0,19-03-2015,Alm.,6716,5,Villa,134,2007,-10 %
+Bakken 1 4460 Snertinge,1,635000.0,15-01-2015,Alm.,5381,4,Villa,118,1980,-14 %
+Skippingevej 21 4460 Snertinge,21,250000.0,25-11-2014,Fam.,2403,4,Villa,104,1920,
+Slagelsevej 32 4460 Snertinge,32,1750000.0,31-10-2014,Alm.,13257,6,Stuehus,132,1930,-10 %
+Møllevej 8 4460 Snertinge,8,600000.0,09-10-2014,Alm.,3973,6,Villa,151,1900,-33 %
+Nykøbingvej 37 4460 Snertinge,37,450000.0,04-09-2014,Alm.,3333,4,Villa,135,1937,
+Gartnerstien 8 4460 Snertinge,8,450000.0,24-07-2014,Alm.,5769,3,Rækkehus,78,1987,-22 %
+Vesterbjergvej 21 4460 Snertinge,21,1145000.0,14-07-2014,Alm.,10223,3,Villa,112,1985,0 %
+Olesmindevej 5 4460 Snertinge,5,1100000.0,30-06-2014,Alm.,6875,5,Villa,160,1883,
+Nykøbingvej 21 4460 Snertinge,21,455276.0,16-04-2014,Alm.,4335,3,Villa,105,1933,
+Bjergstedvej 33 4460 Snertinge,33,588000.0,31-03-2014,Alm.,7259,3,Villa,81,1948,
+Højgårdsvej 5 4460 Snertinge,5,1850000.0,25-03-2014,Fam.,14015,3,Stuehus,132,1950,
+Bakkekammen 2 4460 Snertinge,2,350000.0,23-03-2014,Alm.,4375,3,Villa,80,1969,-11 %
+Gartnerstien 4 4460 Snertinge,4,895000.0,13-03-2014,Alm.,8287,3,Villa,108,1987,0 %
+Bjergstedvej 40 4460 Snertinge,40,750000.0,06-03-2014,Andet,3750,3,Stuehus,200,1920,
+Kildegården 1 4460 Snertinge,1,2650000.0,26-02-2014,Alm.,14804,6,Villa,179,2016,-17 %
+Mellemvangsvej 7 4460 Snertinge,7,780000.0,10-01-2014,Fam.,7722,4,Villa,101,1975,
+Skippingevej 10 4460 Snertinge,10,267600.0,02-01-2014,Auktion,3716,3,Villa,72,1870,
+Skelbæk 3 4460 Snertinge,3,275000.0,10-12-2013,Alm.,2254,4,Villa,122,1880,-30 %
+Skippingevej 27 4460 Snertinge,27,775000.0,29-11-2013,Alm.,6404,4,Villa,121,1904,-6 %
+Nykøbingvej 51 4460 Snertinge,51,164000.0,28-11-2013,Auktion,1906,3,Villa,86,1780,-44 %
+Lindebjergvej 6 4460 Snertinge,6,2800000.0,22-11-2013,Alm.,26666,2,Stuehus,105,1911,
+Møllevej 1 4460 Snertinge,1,470500.0,03-10-2013,Auktion,3055,3,Villa,154,1952,
+Nykøbingvej 48 4460 Snertinge,48,300000.0,26-09-2013,Alm.,3529,2,Villa,85,1948,-19 %
+Møllevej 14 4460 Snertinge,14,1350403.0,08-09-2013,Alm.,8712,3,Stuehus,155,1817,
+Slagelsevej 45 4460 Snertinge,45,320000.0,23-07-2013,Alm.,1641,6,Villa,195,1900,-2 %
+Slagelsevej 39 4460 Snertinge,39,643000.0,09-07-2013,Andet,3695,3,Villa,174,1909,
+Bakken 15 4460 Snertinge,15,1500000.0,17-06-2013,Alm.,8108,5,Villa,185,2002,
+Skovlyvej 3 4460 Snertinge,3,2000000.0,29-05-2013,Fam.,9950,3,Stuehus,201,1938,
+Højgårdsvej 2 4460 Snertinge,2,500000.0,20-05-2013,Alm.,4166,4,Villa,120,1969,-28 %
+Poppelvej 2 4460 Snertinge,2,1195000.0,10-05-2013,Alm.,7966,5,Villa,150,1975,0 %
+Trunebjergvej 3 4460 Snertinge,3,280000.0,06-03-2013,Auktion,3888,5,Villa,72,1956,
+Poppelvej 6 4460 Snertinge,6,750000.0,05-03-2013,Alm.,6355,4,Villa,118,1976,-11 %
+Hækkemosen 7 4460 Snertinge,7,1600000.0,06-02-2013,Alm.,9580,4,Villa,167,1971,-3 %
+Firhøjvej 13 4460 Snertinge,13,839510.0,22-01-2013,Andet,6265,5,Villa,134,2007,
+Mellemvangsvej 1 4460 Snertinge,1,745000.0,19-09-2012,Alm.,5960,4,Villa,125,1973,-6 %
+Møllevej 3 4460 Snertinge,3,320000.0,20-08-2012,Auktion,3106,4,Villa,103,1964,
+Kalundborgvej 28 4460 Snertinge,28,275000.0,05-07-2012,Alm.,3395,4,Villa,81,1900,-30 %
+Knoldvej 4 4460 Snertinge,4,1240000.0,01-07-2012,Alm.,10689,4,Villa,116,1900,
+Kalundborgvej 14 4460 Snertinge,14,150000.0,25-06-2012,Auktion,1612,2,Villa,93,1780,-62 %
+Skelbæk 2 4460 Snertinge,2,450000.0,21-06-2012,Auktion,3383,5,Stuehus,133,1877,
+Nykøbingvej 10 4460 Snertinge,10,530000.0,08-06-2012,Alm.,4649,3,Villa,114,1902,-24 %
+Skippingevej 26 4460 Snertinge,26,690000.0,29-04-2012,Alm.,6831,4,Villa,101,1964,-7 %
+Bjergstedvej 41 4460 Snertinge,41,800000.0,01-03-2012,Fam.,8000,4,Villa,100,1963,
+Skelbæk 17 4460 Snertinge,17,260000.0,29-02-2012,Auktion,1793,5,Villa,145,1827,
+Nykøbingvej 19 4460 Snertinge,19,750000.0,29-01-2012,Alm.,6880,4,Villa,109,1928,
+Nykøbingvej 6 4460 Snertinge,6,1100000.0,01-11-2011,Alm.,5759,5,Villa,191,1912,11 %
+Vesterbjergvej 13 4460 Snertinge,13,1190000.0,27-09-2011,Alm.,9083,4,Villa,131,1942,-13 %
+Æblekjærvej 9 4460 Snertinge,9,663000.0,14-09-2011,Fam.,6138,3,Villa,108,1929,
+Tværvej 2 4460 Snertinge,2,1000000.0,12-09-2011,Alm.,9708,4,Villa,103,1938,-16 %
+Skippingevej 34 4460 Snertinge,34,815000.0,30-08-2011,Alm.,5292,5,Villa,154,1942,-9 %
+Særslev Enge 3 4460 Snertinge,3,1250000.0,17-08-2011,Alm.,6983,7,Stuehus,179,1951,14 %
+Askelunden 6 4460 Snertinge,6,600000.0,17-08-2011,Alm.,6060,4,Rækkehus,99,1981,-14 %
+Æblekjærvej 13 4460 Snertinge,13,800000.0,05-05-2011,Alm.,9090,4,Villa,88,1947,
+Tingvej 2 4460 Snertinge,2,400000.0,02-05-2011,Fam.,4545,3,Villa,88,1968,
+Æblekjærvej 15 4460 Snertinge,15,830000.0,17-04-2011,Alm.,8469,3,Villa,98,1947,-7 %
+Bakkekammen 25 4460 Snertinge,25,920000.0,11-04-2011,Alm.,8932,3,Rækkehus,103,1981,-3 %
+Trunebjergvej 5 4460 Snertinge,5,420000.0,21-03-2011,Alm.,4883,2,Villa,86,1975,-15 %
+Møllevej 2 4460 Snertinge,2,800000.0,15-03-2011,Alm.,12500,3,Villa,64,1880,
+Firhøjvej 21 4460 Snertinge,21,1675000.0,20-02-2011,Alm.,10339,5,Villa,162,2010,-9 %
+Slagelsevej 16 4460 Snertinge,16,400000.0,24-01-2011,Alm.,2941,6,Villa,136,1830,-19 %
+Skippingevej 9 4460 Snertinge,9,235000.0,15-12-2010,Auktion,1740,3,Villa,135,1927,
+Olesmindevej 1 4460 Snertinge,1,500000.0,02-12-2010,Alm.,5617,4,Villa,89,1964,-16 %
+Vesterbjergvej 15 4460 Snertinge,15,675000.0,29-11-2010,Alm.,6683,3,Villa,101,1962,-10 %
+Nykøbingvej 36 4460 Snertinge,36,420000.0,25-11-2010,Alm.,7500,3,Villa,56,1945,-15 %
+Firhøjvej 31 4460 Snertinge,31,1675000.0,23-11-2010,Alm.,9517,5,Villa,176,2007,-12 %
+Højgårdsvej 9 4460 Snertinge,9,2300000.0,03-11-2010,Auktion,8646,6,Villa,266,1850,-39 %
+Kalundborgvej 18 4460 Snertinge,18,1350000.0,25-10-2010,Alm.,10000,5,Villa,135,1939,-8 %
+Firhøjvej 33 4460 Snertinge,33,1900000.0,19-10-2010,Alm.,10497,5,Villa,181,2007,-9 %
+Møllevej 10 4460 Snertinge,10,858236.0,14-10-2010,Alm.,12438,3,Stuehus,69,1880,-46 %
+Skippingevej 15 4460 Snertinge,15,1050000.0,01-10-2010,Alm.,7394,6,Villa,142,1955,
+Vesterbjergvej 17 4460 Snertinge,17,900000.0,28-09-2010,Alm.,6976,4,Villa,129,1962,-17 %
+Skippingevej 14 4460 Snertinge,14,1375000.0,19-09-2010,Fam.,12276,4,Villa,112,1960,
+Nykøbingvej 33 4460 Snertinge,33,535000.0,28-06-2010,Auktion,3566,4,Villa,150,1927,-51 %
+Firhøjvej 2 4460 Snertinge,2,950000.0,04-03-2010,Fam.,6834,5,Villa,139,2007,
+Slagelsevej 10 4460 Snertinge,10,300000.0,02-03-2010,Alm.,3846,3,Villa,78,1873,
+Nykøbingvej 12B 4460 Snertinge,0,1450000.0,24-02-2010,Auktion,10583,3,Villa,137,1983,
+Mellemvangsvej 3 4460 Snertinge,3,1250000.0,19-12-2009,Alm.,10162,4,Villa,123,1974,
+Mellemvangsvej 12 4460 Snertinge,12,900000.0,09-12-2009,Alm.,8181,4,Villa,110,1971,-25 %
+Vesterbjergvej 24 4460 Snertinge,24,1250000.0,28-09-2009,Alm.,11160,4,Villa,112,1984,-5 %
+Birkevej 1 4460 Snertinge,1,1390000.0,26-09-2009,Alm.,14183,4,Villa,98,1975,0 %
+Slagelsevej 47 4460 Snertinge,47,400000.0,23-09-2009,Auktion,2836,5,Villa,141,1910,
+Nykøbingvej 39 4460 Snertinge,39,600000.0,01-09-2009,Alm.,5714,3,Villa,105,1922,-13 %
+Nykøbingvej 35 4460 Snertinge,35,295000.0,24-06-2009,Auktion,3277,5,Villa,90,1930,
+Bjergstedvej 45 4460 Snertinge,45,1850000.0,15-04-2009,Fam.,10220,1,Villa,181,1880,
+Tingvej 6 4460 Snertinge,6,610762.0,06-04-2009,Alm.,6047,3,Villa,101,1892,-52 %
+Hækkemosen 9 4460 Snertinge,9,1260000.0,29-10-2008,Alm.,10080,4,Villa,125,1970,-3 %
+Gartnerstien 6 4460 Snertinge,6,1125000.0,27-10-2008,Alm.,11029,4,Rækkehus,102,1987,-10 %
+Skelbæk 16 4460 Snertinge,16,382500.0,23-09-2008,Fam.,5884,4,Stuehus,65,1903,
+Firhøjvej 14 4460 Snertinge,14,2290000.0,23-08-2008,Alm.,12651,5,Villa,181,2007,-4 %
+Bjergstedvej 12 4460 Snertinge,12,950000.0,10-08-2008,Alm.,6785,6,Villa,140,1964,-12 %
+Skippingevej 24 4460 Snertinge,24,1920000.0,30-06-2008,Alm.,10105,7,Villa,190,1877,-4 %
+Langholm 2 4460 Snertinge,2,1000000.0,25-06-2008,Alm.,12195,3,Villa,82,1877,
+Amtsvejen 45 4460 Snertinge,45,920000.0,18-06-2008,Alm.,10109,4,Villa,91,1900,-8 %
+Tværvej 10 4460 Snertinge,10,820000.0,15-06-2008,Alm.,8039,3,Villa,102,1939,-8 %
+Teglværksvej 3 4460 Snertinge,3,125760.0,08-05-2008,Alm.,714,4,Stuehus,176,1971,
+Nykøbingvej 41 4460 Snertinge,41,1150000.0,23-04-2008,Alm.,9274,3,Villa,124,1910,-2 %
+Bakkekammen 6 4460 Snertinge,6,1295000.0,17-04-2008,Alm.,12333,3,Villa,105,1967,0 %
+Nykøbingvej 14A 4460 Snertinge,0,706999.0,15-04-2008,Andet,4134,6,Villa,171,1934,
+Mellemvangsvej 4 4460 Snertinge,4,1685000.0,16-03-2008,Alm.,11783,3,Villa,143,1970,0 %
+Olesmindevej 6 4460 Snertinge,6,950000.0,22-02-2008,Alm.,9313,3,Villa,102,1970,-5 %
+Slagelsevej 9 4460 Snertinge,9,1230044.0,18-12-2007,Alm.,4767,7,Villa,258,1900,
+Langholm 4 4460 Snertinge,4,440000.0,18-12-2007,Andet,5569,3,Villa,79,1877,
+Æblekjærvej 2 4460 Snertinge,2,2300000.0,13-12-2007,Alm.,15333,4,Villa,150,1925,
+Bakkekammen 31 4460 Snertinge,31,1154500.0,13-12-2007,Alm.,11208,2,Rækkehus,103,1981,-3 %
+Lønnevej 2 4460 Snertinge,2,4500000.0,12-12-2007,Alm.,40178,4,Rækkehus,112,2002,201 %
+Skelbæk 29 4460 Snertinge,29,1375000.0,03-12-2007,Alm.,9290,6,Stuehus,148,1887,
+Mellemvangsvej 10 4460 Snertinge,10,1250000.0,12-11-2007,Alm.,8561,4,Villa,146,1973,
+Højgårdsvej 10 4460 Snertinge,10,965000.0,27-09-2007,Alm.,11626,3,Villa,83,1900,0 %
+Slagelsevej 43 4460 Snertinge,43,700000.0,21-09-2007,Alm.,9589,3,Villa,73,1880,
+Teglværksvej 10 4460 Snertinge,10,1350000.0,18-09-2007,Alm.,15697,5,Villa,86,1913,-8 %
+Apotekervej 3 4460 Snertinge,3,1900000.0,16-08-2007,Alm.,8878,5,Villa,214,1890,
+Knoldvej 10 4460 Snertinge,10,42000.0,06-08-2007,Alm.,254,5,Stuehus,165,1961,
+Nykøbingvej 34 4460 Snertinge,34,1470000.0,31-07-2007,Alm.,17093,8,Villa,86,1900,
+Skippingevej 23 4460 Snertinge,23,1025000.0,14-06-2007,Alm.,9761,4,Villa,105,1900,-5 %
+Bakken 13 4460 Snertinge,13,1805000.0,21-04-2007,Alm.,12448,4,Villa,145,1981,1 %
+Birkevej 4 4460 Snertinge,4,1385000.0,30-03-2007,Alm.,10413,4,Villa,133,1974,-3 %
+Lindebjergvej 1 4460 Snertinge,1,1445000.0,18-02-2007,Fam.,8652,5,Villa,167,2011,
+Skelbæk 7 4460 Snertinge,7,1425000.0,12-12-2006,Alm.,12837,5,Villa,111,1877,
+Firhøjvej 5 4460 Snertinge,5,345000.0,10-12-2006,Alm.,3000,4,Villa,115,2007,
+Ellevej 1 4460 Snertinge,1,3160000.0,05-12-2006,Alm.,17853,5,Villa,177,2004,
+Bakkekammen 13 4460 Snertinge,13,1330000.0,05-12-2006,Alm.,13039,3,Villa,102,1965,
+Askelunden 10 4460 Snertinge,10,1095000.0,03-12-2006,Alm.,10735,4,Rækkehus,102,1981,
+Mellemvangsvej 5 4460 Snertinge,5,1300000.0,27-11-2006,Alm.,12149,4,Villa,107,1975,
+Skippingevej 8 4460 Snertinge,8,1575000.0,24-11-2006,Alm.,12022,4,Villa,131,1890,
+Mellemvangsvej 14 4460 Snertinge,14,1080000.0,17-11-2006,Alm.,11489,4,Villa,94,1972,
+Firhøjvej 32 4460 Snertinge,32,335000.0,09-11-2006,Alm.,2030,5,Villa,165,2008,
+Tværvej 3 4460 Snertinge,3,661000.0,09-11-2006,Alm.,5084,3,Villa,130,1979,
+Kalundborgvej 29 4460 Snertinge,29,1800000.0,26-10-2006,Fam.,7826,6,Stuehus,230,1931,
+Kalundborgvej 19 4460 Snertinge,19,2560000.0,22-10-2006,Alm.,8951,6,Villa,286,1972,
+Firhøjvej 18 4460 Snertinge,18,325000.0,21-09-2006,Alm.,1900,5,Villa,171,2007,
+Teglværksvej 2 4460 Snertinge,2,500000.0,18-09-2006,Alm.,2314,5,Villa,216,2011,
+Knoldvej 2 4460 Snertinge,2,1435000.0,22-08-2006,Alm.,5583,7,Villa,257,1830,
+Firhøjvej 37 4460 Snertinge,37,265000.0,25-07-2006,Andet,1656,5,Villa,160,2008,
+Apotekervej 5 4460 Snertinge,5,1085000.0,10-07-2006,Alm.,13231,2,Villa,82,1918,
+Trunebjergvej 4 4460 Snertinge,4,1155000.0,03-07-2006,Alm.,11907,4,Villa,97,1953,
+Firhøjvej 38 4460 Snertinge,38,335000.0,24-06-2006,Alm.,2445,5,Villa,137,2006,
+Firhøjvej 12 4460 Snertinge,12,320000.0,16-06-2006,Alm.,2012,4,Villa,159,2009,
+Firhøjvej 30 4460 Snertinge,30,335000.0,16-06-2006,Alm.,2055,5,Villa,163,2007,
+Firhøjvej 20 4460 Snertinge,20,320000.0,14-06-2006,Alm.,2711,4,Villa,118,2007,
+Nykøbingvej 4 4460 Snertinge,4,1175000.0,05-05-2006,Alm.,6752,7,Villa,174,1897,
+Firhøjvej 11 4460 Snertinge,11,195000.0,04-05-2006,Alm.,859,7,Villa,227,2008,
+Nykøbingvej 27 4460 Snertinge,27,1350000.0,20-04-2006,Alm.,9642,5,Villa,140,1936,
+Firhøjvej 25 4460 Snertinge,25,265000.0,28-03-2006,Alm.,1962,4,Villa,135,2007,
+Tingvej 4 4460 Snertinge,4,640000.0,15-03-2006,Alm.,7191,4,Villa,89,1897,
+Bakkekammen 29 4460 Snertinge,29,990000.0,14-03-2006,Alm.,9611,4,Rækkehus,103,1981,
+Skippingevej 11 4460 Snertinge,11,1264986.0,10-03-2006,Andet,1907,23,Døgninstitution,663,1914,
+Skovlyvej 2 4460 Snertinge,2,1200000.0,08-03-2006,Alm.,13793,2,Villa,87,1800,
+Skippingevej 22 4460 Snertinge,22,425000.0,07-03-2006,Alm.,6250,4,Villa,68,1945,
+Nykøbingvej 46 4460 Snertinge,46,1268000.0,27-02-2006,Andet,9606,6,Villa,132,1960,
+Gartnerstien 3 4460 Snertinge,3,1100000.0,21-02-2006,Alm.,13414,3,Villa,82,1986,
+Firhøjvej 7 4460 Snertinge,7,265000.0,10-02-2006,Alm.,1505,6,Villa,176,2008,
+Firhøjvej 35 4460 Snertinge,35,265000.0,31-01-2006,Alm.,1577,4,Villa,168,2009,
+Firhøjvej 17 4460 Snertinge,17,230000.0,20-01-2006,Alm.,1031,5,Villa,223,2007,
+Skippingevej 1 4460 Snertinge,1,1400000.0,13-12-2005,Alm.,10071,5,Villa,139,1876,
+Bjergstedvej 17 4460 Snertinge,17,1045000.0,05-12-2005,Alm.,6005,7,Villa,174,1902,
+Slagelsevej 11 4460 Snertinge,11,2575000.0,05-12-2005,Alm.,10218,8,Villa,252,1870,
+Firhøjvej 15 4460 Snertinge,15,265000.0,21-11-2005,Alm.,1866,4,Villa,142,2006,
+Knoldvej 6 4460 Snertinge,6,4500000.0,07-11-2005,Alm.,6130,11,Stuehus,734,1970,
+Firhøjvej 27 4460 Snertinge,27,265000.0,26-10-2005,Alm.,1586,4,Villa,167,2009,
+Vesterbjergvej 6 4460 Snertinge,6,1460000.0,24-10-2005,Alm.,10656,5,Villa,137,1985,
+Bjergstedvej 37 4460 Snertinge,37,2750000.0,16-10-2005,Alm.,11270,8,Stuehus,244,1948,
+Firhøjvej 29 4460 Snertinge,29,265000.0,14-10-2005,Alm.,1232,5,Villa,215,2009,
+Firhøjvej 23 4460 Snertinge,23,265000.0,13-10-2005,Alm.,1892,4,Villa,140,2007,
+Firhøjvej 9 4460 Snertinge,9,265000.0,13-10-2005,Alm.,1906,5,Villa,139,2006,
+Gartnerstien 14 4460 Snertinge,14,1330000.0,10-10-2005,Alm.,12090,4,Villa,110,1988,
+Askelunden 4 4460 Snertinge,4,975000.0,10-10-2005,Alm.,9558,4,Rækkehus,102,1981,
+Skelbæk 6 4460 Snertinge,6,1485000.0,27-09-2005,Alm.,10457,4,Stuehus,142,1898,
+Bakkekammen 8 4460 Snertinge,8,1195000.0,09-09-2005,Alm.,11715,4,Villa,102,1966,
+Højgårdsvej 1 4460 Snertinge,1,832668.0,30-08-2005,Fam.,5990,4,Villa,139,1900,
+Skippingevej 13 4460 Snertinge,13,525000.0,16-08-2005,Alm.,5303,3,Villa,99,1925,
+Møllevej 6 4460 Snertinge,6,1100000.0,02-08-2005,Fam.,10476,4,Stuehus,105,1880,
+Nykøbingvej 12 4460 Snertinge,12,975000.0,02-08-2005,Alm.,5668,5,Villa,172,1895,
+Slagelsevej 21 4460 Snertinge,21,1351000.0,18-07-2005,Fam.,9650,6,Stuehus,140,1951,
+Trunebjergvej 7 4460 Snertinge,7,850000.0,04-07-2005,Alm.,7203,3,Villa,118,1960,
+Askelunden 7 4460 Snertinge,7,950000.0,19-06-2005,Alm.,9595,4,Rækkehus,99,1981,
+Gartnerstien 1 4460 Snertinge,1,1026000.0,15-06-2005,Alm.,8208,4,Villa,125,1960,
+Møllevej 5 4460 Snertinge,5,2598750.0,31-05-2005,Alm.,0,24,Døgninstitution,708,1958,
+Skippingevej 16 4460 Snertinge,16,489619.0,26-05-2005,Alm.,4753,3,Villa,103,1873,
+Ellevej 2 4460 Snertinge,2,1596000.0,22-05-2005,Alm.,8226,4,Villa,194,2002,
+Dalbovej 1 4460 Snertinge,1,1095000.0,20-04-2005,Alm.,9954,3,Villa,110,1972,
+Vesterbjergvej 23 4460 Snertinge,23,1160000.0,16-04-2005,Alm.,10357,4,Villa,112,1989,
+Nykøbingvej 45 4460 Snertinge,45,929000.0,15-04-2005,Alm.,9019,4,Villa,103,1890,
+Nykøbingvej 25 4460 Snertinge,25,1275000.0,05-04-2005,Alm.,7680,6,Villa,166,1937,
+Bjergstedvej 18 4460 Snertinge,18,825000.0,20-03-2005,Alm.,7366,4,Villa,112,1885,
+Tværvej 8 4460 Snertinge,8,536067.0,11-02-2005,Andet,0,3,Villa,153,1940,
+Askelunden 5 4460 Snertinge,5,899000.0,07-02-2005,Alm.,8813,4,Rækkehus,102,1981,
+Slagelsevej 23 4460 Snertinge,23,920000.0,25-01-2005,Alm.,5287,6,Villa,174,1830,
+Bjergstedvej 14 4460 Snertinge,14,5600000.0,30-12-2004,Fam.,20216,9,Stuehus,277,1913,
+Kalundborgvej 20 4460 Snertinge,20,1083000.0,13-12-2004,Alm.,10514,5,Villa,103,1941,
+Nykøbingvej 44 4460 Snertinge,44,885000.0,29-11-2004,Alm.,9414,2,Villa,94,1927,
+Olesmindevej 3 4460 Snertinge,3,890000.0,04-10-2004,Alm.,9175,3,Villa,97,1960,
+Skippingevej 17 4460 Snertinge,17,780000.0,17-09-2004,Alm.,6610,6,Villa,118,1797,
+Skippingevej 12 4460 Snertinge,12,650000.0,18-06-2004,Alm.,0,3,Villa,189,1950,
+Slagelsevej 30 4460 Snertinge,30,795000.0,21-05-2004,Alm.,5031,3,Villa,158,1920,
+Kalundborgvej 25 4460 Snertinge,25,810360.0,20-04-2004,Alm.,9882,4,Villa,82,1940,
+Skippingevej 2 4460 Snertinge,2,1135000.0,30-03-2004,Alm.,7418,5,Villa,153,1935,
+Nykøbingvej 24 4460 Snertinge,24,950000.0,23-03-2004,Alm.,7364,4,Villa,129,1800,
+Vesterbjergvej 18 4460 Snertinge,18,1200000.0,09-03-2004,Alm.,0,4,Villa,136,1984,
+Skelbæk 12 4460 Snertinge,12,1624620.0,03-03-2004,Andet,11604,4,Villa,140,1930,
+Skippingevej 18 4460 Snertinge,18,295000.0,25-02-2004,Alm.,6555,2,Villa,45,1848,
+Askelunden 2 4460 Snertinge,2,1045000.0,22-02-2004,Alm.,10245,4,Rækkehus,102,1981,
+Østergade 4 4460 Snertinge,4,669635.0,29-01-2004,Alm.,9704,2,Villa,69,1959,
+Møllevej 9 4460 Snertinge,9,750000.0,28-01-2004,Auktion,4870,6,Stuehus,154,1877,
+Bjergstedvej 23 4460 Snertinge,23,621378.0,13-01-2004,Alm.,8630,3,Villa,72,1961,
+Apotekervej 2 4460 Snertinge,2,650000.0,07-01-2004,Alm.,6372,4,Villa,102,1960,
+Nykøbingvej 16 4460 Snertinge,16,635000.0,11-12-2003,Alm.,7937,3,Villa,80,1917,
+Slagelsevej 13 4460 Snertinge,13,495000.0,21-11-2003,Alm.,3036,4,Villa,163,1912,
+Amtsvejen 41B 4460 Snertinge,0,1295000.0,27-10-2003,Alm.,8869,5,Villa,146,1977,
+Mellemvangsvej 6 4460 Snertinge,6,770561.0,22-09-2003,Alm.,6421,3,Villa,120,1970,
+Bjergstedvej 7 4460 Snertinge,7,745000.0,21-08-2003,Alm.,7163,4,Villa,104,1964,
+Dalbovej 6A 4460 Snertinge,0,650000.0,05-08-2003,Alm.,4220,5,Villa,154,1998,
+Slagelsevej 37 4460 Snertinge,37,1150000.0,30-07-2003,Alm.,5721,4,Villa,201,1877,
+Vesterbjergvej 5 4460 Snertinge,5,1034000.0,30-06-2003,Alm.,7659,5,Villa,135,1984,
+Skelbæk 10 4460 Snertinge,10,925000.0,16-06-2003,Alm.,6379,5,Villa,145,1928,
+Slagelsevej 14 4460 Snertinge,14,2200000.0,06-06-2003,Alm.,3806,16,Villa,578,1869,
+Slagelsevej 35 4460 Snertinge,35,730000.0,06-06-2003,Alm.,6576,2,Villa,111,1924,
+Nykøbingvej 17 4460 Snertinge,17,977164.0,06-06-2003,Alm.,5648,4,Villa,173,1932,
+Gartnerstien 11 4460 Snertinge,11,905000.0,03-05-2003,Alm.,8457,4,Villa,107,1988,
+Vesterbjergvej 4 4460 Snertinge,4,60000.0,20-04-2003,Alm.,317,5,Villa,189,2005,
+Kalundborgvej 30 4460 Snertinge,30,600000.0,14-04-2003,Alm.,5504,3,Villa,109,1917,
+Dalbovej 6B 4460 Snertinge,0,1195000.0,10-04-2003,Alm.,7759,5,Villa,154,1998,
+Bjergstedvej 8 4460 Snertinge,8,1063558.0,28-02-2003,Alm.,0,4,Villa,122,1882,
+Amtsvejen 14 4460 Snertinge,14,1775000.0,09-02-2003,Alm.,6826,8,Stuehus,260,1900,
+Skovlyvej 1 4460 Snertinge,1,1200000.0,13-12-2002,Alm.,6000,8,Villa,200,1900,
+Skippingevej 7 4460 Snertinge,7,1135000.0,02-12-2002,Alm.,6168,6,Villa,184,1931,
+Skippingevej 25 4460 Snertinge,25,1868404.0,24-11-2002,Alm.,2723,18,Stuehus,686,1822,
+Kalundborgvej 21 4460 Snertinge,21,995000.0,19-11-2002,Alm.,0,3,Villa,125,1958,
+Dalbovej 4 4460 Snertinge,4,395000.0,11-11-2002,Alm.,6370,2,Villa,62,1907,
+Kalundborgvej 10 4460 Snertinge,10,317825.0,07-11-2002,Andet,7391,2,Villa,43,1900,
+Bakkekammen 12 4460 Snertinge,12,700000.0,05-11-2002,Fam.,5185,4,Villa,135,1965,
+Bjergstedvej 27 4460 Snertinge,27,891315.0,04-11-2002,Alm.,3841,4,Villa,232,1859,
+Slagelsevej 22 4460 Snertinge,22,545000.0,27-09-2002,Alm.,0,4,Villa,109,1915,
+Slagelsevej 15 4460 Snertinge,15,330000.0,09-09-2002,Alm.,2340,4,Villa,141,1880,
+Gartnerstien 2 4460 Snertinge,2,445143.0,08-09-2002,Andet,4160,4,Villa,107,1987,
+Trunebjergvej 6 4460 Snertinge,6,887000.0,22-08-2002,Alm.,6770,5,Villa,131,1961,
+Nykøbingvej 20 4460 Snertinge,20,590000.0,12-08-2002,Alm.,4836,4,Villa,122,1922,
+Ellevej 4 4460 Snertinge,4,85000.0,07-06-2002,Alm.,598,4,Villa,142,2004,
+Skelbæk 33 4460 Snertinge,33,1475000.0,30-03-2002,Alm.,4804,9,Villa,307,1777,
+Ellevej 3 4460 Snertinge,3,85000.0,21-03-2002,Alm.,594,5,Villa,143,2004,
+Dalbovej 3 4460 Snertinge,3,430747.0,10-02-2002,Alm.,6626,2,Villa,65,1887,
+Olesmindevej 9 4460 Snertinge,9,85000.0,07-02-2002,Alm.,696,4,Stuehus,122,2007,
+Kalundborgvej 33 4460 Snertinge,33,2600000.0,07-02-2002,Fam.,12682,8,Stuehus,205,1967,
+Bjergstedvej 20 4460 Snertinge,20,300000.0,10-01-2002,Alm.,0,4,Stuehus,157,1924,
+Askelunden 3 4460 Snertinge,3,898300.0,24-10-2001,Alm.,9073,4,Rækkehus,99,1981,
+Teglværksvej 4 4460 Snertinge,4,800836.0,19-09-2001,Alm.,6729,5,Villa,119,1950,
+Teglværksvej 5 4460 Snertinge,5,1150000.0,09-08-2001,Alm.,0,8,Villa,238,1907,
+Nykøbingvej 5 4460 Snertinge,5,643794.0,31-07-2001,Alm.,6437,4,Villa,100,1934,
+Slagelsevej 4 4460 Snertinge,4,490000.0,28-07-2001,Alm.,4049,5,Villa,121,1780,
+Skippingevej 36 4460 Snertinge,36,1295000.0,21-06-2001,Alm.,6962,5,Stuehus,186,1973,
+Skelbæk 4 4460 Snertinge,4,1575000.0,20-06-2001,Alm.,11330,4,Villa,139,1909,
+Bakkekammen 27 4460 Snertinge,27,665427.0,22-03-2001,Alm.,6460,4,Rækkehus,103,1981,
+Nykøbingvej 43 4460 Snertinge,43,265000.0,19-03-2001,Alm.,2523,3,Villa,105,1890,
+Kalundborgvej 3 4460 Snertinge,3,1511721.0,05-03-2001,Alm.,0,9,Stuehus,281,1890,
+Skelbæk 9 4460 Snertinge,9,913626.0,16-02-2001,Alm.,0,6,Villa,162,1933,
+Gartnerstien 13 4460 Snertinge,13,546992.0,08-02-2001,Fam.,5112,4,Villa,107,1988,
+Skelbæk 23 4460 Snertinge,23,814400.0,14-12-2000,Alm.,5090,4,Villa,160,1870,
+Nykøbingvej 58 4460 Snertinge,58,525911.0,06-12-2000,Alm.,4494,4,Villa,117,1950,
+Tværvej 6 4460 Snertinge,6,493658.0,14-11-2000,Alm.,4255,4,Villa,116,1938,
+Bakken 17 4460 Snertinge,17,1119076.0,11-10-2000,Alm.,5921,9,Villa,189,1979,
+Nykøbingvej 32 4460 Snertinge,32,701760.0,03-07-2000,Alm.,7160,3,Villa,98,1901,
+Teglværksvej 14 4460 Snertinge,14,879000.0,03-06-2000,Alm.,4650,7,Stuehus,189,1900,
+Askelunden 8 4460 Snertinge,8,800000.0,18-05-2000,Alm.,8163,4,Rækkehus,98,1981,
+Bakken 8 4460 Snertinge,8,894935.0,10-05-2000,Alm.,6831,4,Villa,131,1979,
+Nykøbingvej 18 4460 Snertinge,18,850000.0,27-12-1999,Alm.,5151,7,Villa,165,1918,
+Slagelsevej 27 4460 Snertinge,27,410000.0,18-12-1999,Alm.,5256,2,Villa,78,1961,
+Bjergstedvej 34 4460 Snertinge,34,420380.0,17-12-1999,Alm.,2919,4,Stuehus,144,1900,
+Højgårdsvej 11 4460 Snertinge,11,647300.0,01-11-1999,Alm.,0,6,Villa,212,1939,
+Vesterbjergvej 11 4460 Snertinge,11,870000.0,19-10-1999,Alm.,9062,4,Rækkehus,96,2000,
+Trunebjergvej 1 4460 Snertinge,1,743680.0,29-09-1999,Alm.,7746,2,Villa,96,1947,
+Teglværksvej 16 4460 Snertinge,16,586210.0,08-09-1999,Alm.,3574,5,Villa,164,2008,
+Kalundborgvej 1 4460 Snertinge,1,445000.0,27-08-1999,Alm.,4734,2,Stuehus,94,1880,
+Olesmindevej 8 4460 Snertinge,8,1400000.0,26-08-1999,Alm.,7650,3,Villa,183,1800,
+Olesmindevej 2 4460 Snertinge,2,248097.0,13-08-1999,Fam.,1285,7,Villa,193,1880,
+Vesterbjergvej 16 4460 Snertinge,16,637200.0,09-07-1999,Alm.,7324,5,Villa,87,1963,
+Birkevej 3 4460 Snertinge,3,670348.0,24-06-1999,Alm.,0,6,Villa,150,1976,
+Kalundborgvej 26 4460 Snertinge,26,2617384.0,21-06-1999,Andet,27551,4,Villa,95,1966,
+Mellemvangsvej 2 4460 Snertinge,2,770000.0,08-06-1999,Alm.,8020,4,Villa,96,1970,
+Stenager 1 4460 Snertinge,1,5147065.0,06-06-1999,Fam.,26807,8,Stuehus,192,1916,
+Rosenstien 4 4460 Snertinge,4,40000.0,28-04-1999,Alm.,185,5,Villa,216,2011,
+Rosenstien 5 4460 Snertinge,5,950000.0,15-04-1999,Alm.,6129,4,Villa,155,1982,
+Kalundborgvej 27 4460 Snertinge,27,1400000.0,18-02-1999,Alm.,5737,7,Stuehus,244,1980,
+Bjergstedvej 6 4460 Snertinge,6,824000.0,06-01-1999,Alm.,4963,7,Stuehus,166,1911,
+Langholm 1 4460 Snertinge,1,672260.0,16-12-1998,Alm.,5335,6,Villa,126,1827,
+Nykøbingvej 56 4460 Snertinge,56,234117.0,11-11-1998,Alm.,2787,4,Villa,84,1945,
+Bakken 21 4460 Snertinge,21,850000.0,25-10-1998,Alm.,5666,4,Villa,150,1980,
+Rosenstien 1 4460 Snertinge,1,500000.0,22-10-1998,Alm.,4032,4,Villa,124,1966,
+Slagelsevej 28 4460 Snertinge,28,807780.0,24-09-1998,Alm.,5688,6,Villa,142,1880,
+Nykøbingvej 47 4460 Snertinge,47,543000.0,23-09-1998,Alm.,4309,4,Villa,126,1959,
+Bjergstedvej 32 4460 Snertinge,32,959584.0,18-08-1998,Alm.,5360,5,Villa,179,1912,
+Skelbæk 13 4460 Snertinge,13,786800.0,17-08-1998,Alm.,5245,4,Villa,150,1968,
+Bjergstedvej 43 4460 Snertinge,43,386000.0,21-07-1998,Alm.,0,6,Villa,187,1999,
+Gartnerstien 7 4460 Snertinge,7,563318.0,07-07-1998,Alm.,6954,3,Rækkehus,81,1988,
+Skippingevej 29 4460 Snertinge,29,690000.0,02-07-1998,Alm.,6330,3,Villa,109,1966,
+Ellevej 6 4460 Snertinge,6,80000.0,12-06-1998,Alm.,519,5,Villa,154,1999,
+Bjergstedvej 9 4460 Snertinge,9,432000.0,06-05-1998,Alm.,0,6,Villa,178,1939,
+Nykøbingvej 1 4460 Snertinge,1,590000.0,05-05-1998,Alm.,5841,3,Villa,101,1951,
+Bjergstedvej 30 4460 Snertinge,30,1020000.0,12-04-1998,Alm.,11333,3,Stuehus,90,1880,
+Kalundborgvej 8 4460 Snertinge,8,885000.0,12-02-1998,Alm.,4022,11,Villa,220,1950,
+Slagelsevej 33 4460 Snertinge,33,550000.0,16-01-1998,Fam.,4330,4,Villa,127,1916,
+Bjergstedvej 26 4460 Snertinge,26,475000.0,15-10-1997,Alm.,4357,6,Villa,109,1900,
+Skelbæk 27 4460 Snertinge,27,793000.0,08-10-1997,Alm.,4720,7,Villa,168,1918,
+Lindebjergvej 4 4460 Snertinge,4,1516880.0,27-09-1997,Alm.,4225,7,Villa,359,1877,
+Skippingevej 32 4460 Snertinge,32,932060.0,02-07-1997,Alm.,6091,4,Stuehus,153,1876,
+Gartnerstien 12 4460 Snertinge,12,585000.0,26-03-1997,Alm.,5467,4,Villa,107,1989,
+Skelbæk 18 4460 Snertinge,18,525000.0,25-11-1996,Alm.,5147,4,Villa,102,1877,
+Tingvej 8 4460 Snertinge,8,450000.0,02-09-1996,-,3488,4,Villa,129,1852,
+Bjergstedvej 5 4460 Snertinge,5,490000.0,18-07-1996,Alm.,3024,7,Villa,162,1910,
+Skelbæk 8 4460 Snertinge,8,285000.0,19-06-1996,Alm.,2614,3,Villa,109,1902,
+Bjergstedvej 3 4460 Snertinge,3,240000.0,13-03-1996,Alm.,1846,3,Villa,130,1902,
+Nykøbingvej 13 4460 Snertinge,13,530000.0,07-03-1996,Alm.,3605,5,Villa,147,1922,
+Vesterbjergvej 9 4460 Snertinge,9,637000.0,29-02-1996,Alm.,5687,4,Villa,112,1986,
+Løvvang 2 4460 Snertinge,2,884558.0,31-08-1995,Alm.,4293,7,Villa,206,1988,
+Bakken 10 4460 Snertinge,10,520000.0,16-06-1995,Alm.,4160,4,Villa,125,1980,
+Lindebjergvej 2 4460 Snertinge,2,1020000.0,27-05-1995,Alm.,5795,5,Stuehus,176,1920,
+Trunebjergvej 2 4460 Snertinge,2,411339.0,24-05-1995,Alm.,3739,4,Villa,110,1950,
+Bjergstedvej 38 4460 Snertinge,38,755000.0,03-05-1995,Alm.,4148,5,Stuehus,182,1914,
+Bjergstedvej 19 4460 Snertinge,19,2027330.0,18-04-1995,Andet,8590,4,Stuehus,236,1959,
+Højgårdsvej 6 4460 Snertinge,6,645100.0,28-03-1995,Alm.,2841,5,Villa,227,1998,
+Hækkemosen 11 4460 Snertinge,11,495000.0,01-08-1994,Alm.,4267,4,Villa,116,1972,
+Nykøbingvej 8 4460 Snertinge,8,495000.0,29-04-1994,Alm.,2964,4,Villa,167,1908,
+Slagelsevej 12 4460 Snertinge,12,360000.0,22-11-1993,Alm.,5070,3,Villa,71,1879,
+Knoldvej 1 4460 Snertinge,1,384023.0,16-06-1993,Alm.,3254,2,Stuehus,118,1907,
+Lindebjergvej 8 4460 Snertinge,8,565000.0,13-03-1992,Alm.,0,6,Stuehus,147,1910,
+Slagelsevej 6 4460 Snertinge,6,175000.0,17-02-1992,Auktion,1054,6,Villa,166,1900,
+Lindebjergvej 10 4460 Snertinge,10,710000.0,07-01-1992,Alm.,0,5,Villa,173,1917,

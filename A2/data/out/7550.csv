@@ -1,0 +1,425 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Enghavevej 8 7550 Sørvad,8,120000.0,28-04-2017,Alm.,779,6,Villa,154,1973,-27 %
+Langgade 3 7550 Sørvad,3,895000.0,06-04-2017,Alm.,6485,5,Villa,138,1923,-5 %
+Engvangen 10 7550 Sørvad,10,650000.0,05-04-2017,Alm.,4642,5,Villa,140,1972,
+Henningsvej 6 7550 Sørvad,6,476000.0,18-03-2017,Fam.,7000,4,Villa,68,1941,
+Koldkjærvej 1 7550 Sørvad,1,1650000.0,13-03-2017,Alm.,8967,9,Stuehus,184,1916,0 %
+Langgade 71A 7550 Sørvad,0,950000.0,03-03-2017,Alm.,6129,5,Villa,155,1935,-5 %
+Langgade 59 7550 Sørvad,59,425000.0,15-02-2017,Alm.,3601,2,BygningTilLager,118,1979,
+Møllevangen 3 7550 Sørvad,3,420000.0,21-12-2016,Alm.,4242,3,Villa,99,1967,-6 %
+Møllevangen 4 7550 Sørvad,4,585000.0,14-10-2016,Alm.,5131,4,Villa,114,1967,0 %
+Borupsvej 17 7550 Sørvad,17,1410000.0,19-09-2016,Alm.,6682,4,Villa,211,1973,-6 %
+Vildbjergvej 8 7550 Sørvad,8,2395000.0,08-09-2016,Alm.,16866,6,Villa,142,1930,4 %
+Kirkevangen 1 7550 Sørvad,1,995000.0,08-09-2016,Alm.,7773,5,Villa,128,1933,0 %
+Enghavevej 25 7550 Sørvad,25,755000.0,02-09-2016,Alm.,5067,4,Villa,149,1976,-13 %
+Thusholtvej 1 7550 Sørvad,1,10750000.0,15-07-2016,Alm.,44791,6,Stuehus,240,1936,
+Ribesvej 6 7550 Sørvad,6,1060000.0,14-07-2016,Alm.,7310,5,Villa,145,1992,-8 %
+Løgagervej 15 7550 Sørvad,15,2175000.0,14-07-2016,Alm.,7880,9,Stuehus,276,1928,-4 %
+Vognstrupvej 41 7550 Sørvad,41,300000.0,12-07-2016,Alm.,2912,4,Villa,103,1906,
+Horslundvej 3 7550 Sørvad,3,1800000.0,08-06-2016,Fam.,7894,6,Villa,228,1930,
+Løgagervej 8 7550 Sørvad,8,1095000.0,07-06-2016,Alm.,7019,6,Villa,156,1908,-19 %
+Engvangen 8 7550 Sørvad,8,865000.0,30-05-2016,Fam.,5805,4,Villa,149,1973,
+Enghavevej 21 7550 Sørvad,21,650000.0,21-04-2016,Andet,3735,6,Villa,174,1975,
+Langgade 6 7550 Sørvad,6,380000.0,05-04-2016,Alm.,3333,4,Villa,114,1937,-23 %
+Virkelystvej 5 7550 Sørvad,5,375000.0,22-02-2016,Alm.,4687,3,Villa,80,1910,-29 %
+Udsigten 22 7550 Sørvad,22,1525000.0,12-02-2016,Alm.,5910,6,Villa,258,1971,-9 %
+Bauneparken 17 7550 Sørvad,17,2350000.0,12-02-2016,Fam.,9143,5,Villa,257,2011,
+Enghavevej 35 7550 Sørvad,35,1200000.0,20-01-2016,Alm.,6349,6,Villa,189,1975,
+Vognstrupvej 50 7550 Sørvad,50,1447500.0,16-12-2015,Fam.,7618,7,Stuehus,190,1966,
+Løgagervej 18 7550 Sørvad,18,2950000.0,09-11-2015,Andet,11048,7,Stuehus,267,2005,
+Langgade 66 7550 Sørvad,66,490000.0,07-10-2015,Alm.,3798,4,Villa,129,1965,-18 %
+Horslundvej 4 7550 Sørvad,4,960000.0,21-09-2015,Alm.,3490,10,Stuehus,275,1924,-9 %
+Præstevejen 16 7550 Sørvad,16,1149000.0,16-09-2015,Fam.,7509,4,Stuehus,153,1954,
+Gyvelvej 4 7550 Sørvad,4,1060000.0,10-09-2015,Alm.,7794,4,Villa,136,1977,-3 %
+Vognstrupvej 4 7550 Sørvad,4,1265000.0,25-08-2015,Alm.,9370,6,Villa,135,1929,-2 %
+Enghavevej 34 7550 Sørvad,34,1275000.0,17-08-2015,Alm.,7244,4,Villa,176,1974,
+Gyvelvej 7 7550 Sørvad,7,895000.0,30-07-2015,Alm.,6780,4,Villa,132,1976,0 %
+Digevej 8 7550 Sørvad,8,1360000.0,06-07-2015,Alm.,8000,5,Villa,170,1972,-3 %
+Gyvelvej 29 7550 Sørvad,29,1300000.0,22-06-2015,Alm.,7182,7,Villa,181,1976,
+Ribesvej 14A 7550 Sørvad,0,495000.0,16-06-2015,Alm.,5823,3,Lejlighed,85,1981,0 %
+Kvædevej 6 7550 Sørvad,6,600000.0,12-05-2015,Alm.,4166,5,Villa,144,1979,
+Langgade 54 7550 Sørvad,54,1029000.0,08-05-2015,Fam.,7246,4,Villa,142,1938,
+Horslundvej 8 7550 Sørvad,8,1000000.0,27-04-2015,Fam.,7142,6,Stuehus,140,1860,
+Syrenvej 16 7550 Sørvad,16,750000.0,06-02-2015,Alm.,6250,4,Villa,120,1978,-6 %
+Vildbjergvej 10 7550 Sørvad,10,1645000.0,04-02-2015,Alm.,23840,2,Stuehus,69,1910,
+Grønningen 2 7550 Sørvad,2,760000.0,02-02-2015,Alm.,6440,4,Villa,118,1991,-15 %
+Langgade 75 7550 Sørvad,75,850000.0,22-01-2015,Alm.,6589,6,Villa,129,1931,-15 %
+Langgade 71 7550 Sørvad,71,372000.0,19-01-2015,Alm.,3542,3,Villa,105,1964,-17 %
+Baunevej 4 7550 Sørvad,4,1310000.0,17-01-2015,Alm.,8238,4,Villa,159,1964,-6 %
+Vognstrupvej 9 7550 Sørvad,9,425000.0,16-10-2014,Alm.,2741,6,Villa,155,1969,-29 %
+Vildbjergvej 11 7550 Sørvad,11,16600000.0,14-10-2014,Alm.,259375,2,Stuehus,64,1948,
+Grønningen 26 7550 Sørvad,26,1625000.0,14-08-2014,Alm.,9558,6,Villa,170,1998,-9 %
+Langgade 50 7550 Sørvad,50,625000.0,26-05-2014,Alm.,3810,5,Villa,164,1932,
+Grønningen 7 7550 Sørvad,7,1375000.0,28-04-2014,Alm.,10912,4,Villa,126,2008,-5 %
+Pogagervej 3 7550 Sørvad,3,870000.0,15-04-2014,Alm.,6960,5,Stuehus,125,1958,
+Stationsvej 9 7550 Sørvad,9,600000.0,04-04-2014,Alm.,4054,5,Villa,148,1966,-14 %
+Løgagervej 3 7550 Sørvad,3,6710000.0,03-04-2014,Alm.,24851,10,Stuehus,270,1907,
+Udsigten 20 7550 Sørvad,20,1000000.0,01-03-2014,Alm.,6134,5,Villa,163,1974,-4 %
+Bakkevej 1 7550 Sørvad,1,650000.0,18-11-2013,Andet,4304,8,Villa,151,1949,
+Thoustrupvej 1 7550 Sørvad,1,2500000.0,08-11-2013,Alm.,11363,6,Stuehus,220,1912,
+Gyvelvej 13 7550 Sørvad,13,270500.0,09-08-2013,Auktion,1554,7,Villa,174,1977,
+Koldkjærvej 11 7550 Sørvad,11,2045000.0,13-06-2013,Alm.,19663,5,Stuehus,104,1930,
+Langgade 77 7550 Sørvad,77,702000.0,08-06-2013,Fam.,6381,3,Villa,110,1936,
+Udsigten 3 7550 Sørvad,3,375000.0,27-05-2013,Alm.,4687,3,Villa,80,1964,-24 %
+Enghavevej 15 7550 Sørvad,15,712500.0,08-04-2013,Alm.,6142,5,Villa,116,1973,
+Udsigten 13 7550 Sørvad,13,485000.0,01-03-2013,Auktion,3514,5,Villa,138,1970,
+Udsigten 33 7550 Sørvad,33,1150000.0,01-03-2013,Fam.,7278,6,Villa,158,1973,
+Vognstrupvej 8 7550 Sørvad,8,565000.0,11-01-2013,Alm.,3575,4,Villa,158,1972,
+Præstevejen 3 7550 Sørvad,3,1350000.0,23-11-2012,Alm.,7803,6,Villa,173,1919,-10 %
+Grønningen 36 7550 Sørvad,36,950000.0,23-11-2012,Fam.,4973,6,Villa,191,2006,
+Langgade 52 7550 Sørvad,52,443000.0,15-10-2012,Alm.,4140,5,Villa,107,1931,-55 %
+Mølletoften 12 7550 Sørvad,12,2365000.0,17-07-2012,Alm.,12190,7,Villa,194,2006,-8 %
+Jasminvej 22 7550 Sørvad,22,950000.0,17-07-2012,Alm.,0,6,Villa,150,1978,
+Langgade 64 7550 Sørvad,64,580000.0,12-06-2012,Fam.,9666,5,Villa,60,1942,17 %
+Pogagervej 2 7550 Sørvad,2,765000.0,06-06-2012,Alm.,4250,4,Villa,180,1912,-3 %
+Syrenvej 7 7550 Sørvad,7,825000.0,24-05-2012,Alm.,6875,4,Villa,120,1977,-12 %
+Gyvelvej 1 7550 Sørvad,1,875000.0,01-05-2012,Alm.,7675,5,Villa,114,1976,
+Gyvelvej 12 7550 Sørvad,12,1250000.0,19-04-2012,Alm.,8389,4,Villa,149,1977,-14 %
+Syrenvej 12 7550 Sørvad,12,775000.0,10-04-2012,Alm.,6300,4,Villa,123,1977,-13 %
+Stradevej 2 7550 Sørvad,2,2050000.0,07-04-2012,Alm.,8874,8,Stuehus,231,1921,-2 %
+Ramskovvej 9 7550 Sørvad,9,2025000.0,22-03-2012,Alm.,11187,6,Villa,181,1975,-19 %
+Virkelystvej 3 7550 Sørvad,3,8700000.0,20-03-2012,Alm.,43500,7,Stuehus,200,1918,
+Enghavevej 5 7550 Sørvad,5,750000.0,01-02-2012,Alm.,5395,5,Villa,139,1974,
+Baunevej 2 7550 Sørvad,2,800000.0,20-01-2012,Fam.,6779,4,Villa,118,1963,
+Tværvej 1 7550 Sørvad,1,900000.0,16-12-2011,Alm.,8035,4,Villa,112,1967,-3 %
+Bauneparken 18 7550 Sørvad,18,427670.0,25-10-2011,Alm.,2724,4,Villa,157,2012,
+Svenstrupvej 4 7550 Sørvad,4,769383.0,06-10-2011,Alm.,6994,4,Stuehus,110,1964,
+Aulumvej 3 7550 Sørvad,3,650000.0,13-07-2011,Alm.,5555,5,Villa,117,1954,-6 %
+Blindkildevej 2 7550 Sørvad,2,1350000.0,16-06-2011,Alm.,0,8,Stuehus,231,1920,-10 %
+Horslundvej 1B 7550 Sørvad,0,1750000.0,10-06-2011,Alm.,15909,5,Stuehus,110,1875,
+Engvangen 4 7550 Sørvad,4,1220000.0,29-05-2011,Alm.,6421,5,Villa,190,1974,
+Ribesvej 18 7550 Sørvad,18,1325000.0,26-05-2011,Alm.,8333,4,Villa,159,1986,
+Mølletoften 8 7550 Sørvad,8,1600000.0,18-04-2011,Alm.,11851,4,Villa,135,1981,
+Thusholtvej 6 7550 Sørvad,6,650000.0,13-04-2011,Alm.,4482,4,Stuehus,145,1905,
+Henningsvej 10 7550 Sørvad,10,245000.0,11-04-2011,Alm.,4375,2,Villa,56,1956,-36 %
+Ribesvej 12B 7550 Sørvad,0,765000.0,05-04-2011,Alm.,9444,2,Rækkehus,81,1988,
+Langgade 19 7550 Sørvad,19,600000.0,04-04-2011,Alm.,5607,3,Villa,107,1964,-19 %
+Horslundvej 1 7550 Sørvad,1,800000.0,29-03-2011,Alm.,6153,5,Stuehus,130,1900,-16 %
+Bauneparken 15 7550 Sørvad,15,434204.0,23-03-2011,Alm.,2238,5,Villa,194,2014,
+Agerfeldvej 2 7550 Sørvad,2,2405000.0,15-02-2011,Alm.,0,9,Stuehus,238,1972,15 %
+Borupsvej 6 7550 Sørvad,6,1080000.0,07-02-2011,Alm.,5268,6,Villa,205,1960,
+Borupsvej 5 7550 Sørvad,5,500000.0,12-11-2010,Alm.,4950,3,Villa,101,1960,-37 %
+Ribesvej 5 7550 Sørvad,5,995000.0,10-11-2010,Alm.,8024,4,Villa,124,1989,0 %
+Skovvej 4 7550 Sørvad,4,550000.0,26-10-2010,Alm.,5045,4,Villa,109,1945,0 %
+Aulumvej 15 7550 Sørvad,15,610000.0,16-10-2010,Alm.,3485,6,Villa,175,1927,-12 %
+Skovvej 8 7550 Sørvad,8,600000.0,07-10-2010,Alm.,7058,4,Villa,85,1956,-7 %
+Koldkjærvej 4 7550 Sørvad,4,2100000.0,29-09-2010,Fam.,10000,9,Stuehus,210,1936,
+Grønningen 44 7550 Sørvad,44,370000.0,01-09-2010,Alm.,2189,6,Villa,169,2011,-10 %
+Pogagervej 4 7550 Sørvad,4,1300000.0,20-08-2010,Alm.,6735,5,Villa,193,1927,-7 %
+Bakkevej 8 7550 Sørvad,8,960000.0,16-07-2010,Alm.,8727,4,Villa,110,1957,-3 %
+Borupsvej 2 7550 Sørvad,2,200000.0,16-07-2010,Alm.,1282,5,Villa,156,2011,-18 %
+Vognstrupvej 14 7550 Sørvad,14,1175000.0,01-07-2010,Alm.,6564,6,Villa,179,1972,-6 %
+Agerfeldvej 1 7550 Sørvad,1,3203674.0,28-06-2010,Alm.,11909,7,Stuehus,269,1923,11 %
+Syrenvej 18 7550 Sørvad,18,1525000.0,27-06-2010,Alm.,6838,7,Villa,223,1977,
+Henningsvej 4 7550 Sørvad,4,850000.0,03-06-2010,Alm.,10625,5,Villa,80,1935,-4 %
+Grønningen 28 7550 Sørvad,28,357000.0,01-06-2010,Alm.,2125,4,Villa,168,2011,
+Grønningen 17 7550 Sørvad,17,2325000.0,21-05-2010,Alm.,14263,6,Villa,163,2009,-3 %
+Aulumvej 11 7550 Sørvad,11,775000.0,11-05-2010,Alm.,7175,4,Villa,108,1943,0 %
+Enghavevej 22 7550 Sørvad,22,620000.0,26-04-2010,Alm.,5438,4,Villa,114,1975,
+Baunevej 13 7550 Sørvad,13,542500.0,19-04-2010,Andet,2870,5,Villa,189,1973,
+Møllevangen 22 7550 Sørvad,22,2150000.0,30-03-2010,Alm.,10093,7,Villa,213,1951,
+Enghavevej 11 7550 Sørvad,11,1000000.0,04-03-2010,Alm.,7462,5,Villa,134,1975,-9 %
+Kirkevangen 10 7550 Sørvad,10,635000.0,25-01-2010,Alm.,3175,6,Villa,200,1965,-20 %
+Svenstrupvej 1 7550 Sørvad,1,2440000.0,22-12-2009,Alm.,12512,6,Stuehus,195,1949,-56 %
+Kirkevangen 8 7550 Sørvad,8,1200000.0,10-11-2009,Alm.,8510,5,Villa,141,1966,-2 %
+Løgagervej 28 7550 Sørvad,28,775000.0,17-09-2009,Alm.,7045,4,Stuehus,110,1890,
+Syrenvej 8 7550 Sørvad,8,1550000.0,09-09-2009,Alm.,8707,6,Villa,178,1977,-6 %
+Langgade 44 7550 Sørvad,44,875000.0,02-09-2009,Alm.,3556,4,Villa,246,1976,-8 %
+Møllevangen 13 7550 Sørvad,13,760000.0,19-08-2009,Alm.,9156,3,Villa,83,1927,-4 %
+"Løgagervej 13, ST 7550 Sørvad",0,560000.0,13-08-2009,Alm.,3076,5,Villa,182,2010,-6 %
+Langgade 61 7550 Sørvad,61,995000.0,07-08-2009,Alm.,6378,4,Villa,156,1959,0 %
+Langgade 2 7550 Sørvad,2,1325000.0,17-07-2009,Alm.,5735,7,Villa,231,1923,-8 %
+Ramskovvej 26 7550 Sørvad,26,2120000.0,08-07-2009,Alm.,12848,4,Stuehus,165,1934,-6 %
+Vildbjergvej 16 7550 Sørvad,16,1485000.0,01-07-2009,Alm.,8342,6,Villa,178,1961,0 %
+Vognstrupvej 6 7550 Sørvad,6,1000000.0,30-06-2009,Alm.,8474,4,Villa,118,1966,
+Bauneparken 13 7550 Sørvad,13,436528.0,15-06-2009,Alm.,2068,3,Villa,211,2014,
+Løgagervej 2 7550 Sørvad,2,1575000.0,12-04-2009,Fam.,7191,5,Stuehus,219,1904,
+Stradevej 6 7550 Sørvad,6,3000000.0,07-04-2009,Fam.,21428,6,Stuehus,140,1914,
+Præstevejen 18 7550 Sørvad,18,6000000.0,04-03-2009,Alm.,36363,5,Stuehus,165,1967,
+Præstevejen 13 7550 Sørvad,13,1785000.0,24-02-2009,Alm.,11297,6,Villa,158,1985,
+Svenstrupvej 8 7550 Sørvad,8,13292500.0,20-02-2009,Alm.,59341,6,Stuehus,224,1890,
+Stationsvej 5 7550 Sørvad,5,800000.0,19-02-2009,Alm.,8000,3,Villa,100,1965,-6 %
+Løgagervej 26 7550 Sørvad,26,242000.0,13-02-2009,Alm.,1440,8,Stuehus,168,1964,
+Pogagervej 5 7550 Sørvad,5,14875000.0,13-01-2009,Alm.,144417,4,Stuehus,103,1888,
+Bakkevej 4 7550 Sørvad,4,650000.0,11-01-2009,Alm.,9027,2,Villa,72,1954,-5 %
+Sigvej 6 7550 Sørvad,6,1700000.0,10-01-2009,Alm.,8500,5,Stuehus,200,1927,-7 %
+Skovvej 7 7550 Sørvad,7,995000.0,11-12-2008,Alm.,11306,3,Villa,88,1946,0 %
+Agerfeldvej 15 7550 Sørvad,15,985000.0,07-11-2008,Alm.,2462,7,Villa,400,1780,0 %
+Ribesvej 16 7550 Sørvad,16,977500.0,03-11-2008,Alm.,7757,4,Villa,126,1985,
+Enghavevej 13 7550 Sørvad,13,995000.0,23-10-2008,Alm.,8652,4,Villa,115,1973,-5 %
+Åbrinken 76 7550 Sørvad,76,193325.0,23-10-2008,Alm.,1104,7,Villa,175,2010,
+Grønningen 21 7550 Sørvad,21,241041.0,09-10-2008,Alm.,1147,6,Villa,210,2010,
+Digevej 1 7550 Sørvad,1,935000.0,19-09-2008,Alm.,8820,4,Villa,106,1968,-6 %
+Stationsvej 7 7550 Sørvad,7,1180000.0,12-09-2008,Alm.,8872,5,Villa,133,1967,
+Langgade 55 7550 Sørvad,55,1185000.0,07-08-2008,Alm.,9957,6,Villa,119,1953,-5 %
+Syrenvej 10 7550 Sørvad,10,1260000.0,13-06-2008,Alm.,10677,3,Villa,118,1980,-3 %
+Langgade 79 7550 Sørvad,79,945000.0,02-06-2008,Alm.,6654,3,Villa,142,1970,-14 %
+Åbrinken 20 7550 Sørvad,20,200000.0,30-05-2008,Alm.,1600,4,Villa,125,2009,
+Vildbjergvej 18 7550 Sørvad,18,17536900.0,29-05-2008,Alm.,71872,8,Stuehus,244,1990,
+Sigvej 2 7550 Sørvad,2,4045000.0,26-05-2008,Fam.,18990,7,Stuehus,213,1942,
+Kvædevej 2 7550 Sørvad,2,1750000.0,07-05-2008,Alm.,8495,7,Villa,206,1978,
+Åbrinken 26 7550 Sørvad,26,3235000.0,29-04-2008,Alm.,13150,9,Villa,246,1995,
+Stationsvej 6 7550 Sørvad,6,1200000.0,22-04-2008,Fam.,6976,6,Villa,172,1924,
+Gyvelvej 3 7550 Sørvad,3,1000000.0,04-04-2008,Alm.,7575,4,Villa,132,1979,
+Grønningen 27 7550 Sørvad,27,239128.0,01-04-2008,Alm.,1583,4,Villa,151,2009,
+Grønningen 35 7550 Sørvad,35,286629.0,09-03-2008,Alm.,1194,6,Villa,240,2008,
+Grønningen 25 7550 Sørvad,25,229008.0,09-03-2008,Alm.,1371,6,Villa,167,2009,
+Grønningen 19 7550 Sørvad,19,238889.0,03-03-2008,Alm.,1531,6,Villa,156,2010,
+Agerfeldvej 7 7550 Sørvad,7,1775000.0,22-02-2008,Alm.,11677,7,Villa,152,1950,
+Stradevej 3 7550 Sørvad,3,1500000.0,21-02-2008,Fam.,7317,8,Stuehus,205,1920,
+Grønningen 31 7550 Sørvad,31,257379.0,03-02-2008,Alm.,1995,4,Villa,129,2010,
+Langgade 62 7550 Sørvad,62,470000.0,02-02-2008,Alm.,3884,5,Villa,121,1926,
+Langgade 13 7550 Sørvad,13,815000.0,14-01-2008,Alm.,10187,3,Villa,80,1958,
+Langgade 26 7550 Sørvad,26,1410000.0,11-01-2008,Alm.,8392,8,Villa,168,1952,-6 %
+Koldkjærvej 6 7550 Sørvad,6,805941.0,12-12-2007,Andet,3415,8,Stuehus,236,1903,
+Tværvej 2 7550 Sørvad,2,657664.0,16-11-2007,Fam.,4504,4,Villa,146,1973,
+Thoustrupvej 2 7550 Sørvad,2,21000000.0,19-10-2007,Fam.,95022,7,Stuehus,221,1983,
+Udsigten 29 7550 Sørvad,29,1150000.0,11-10-2007,Alm.,7278,5,Villa,158,1972,
+Kirkevangen 9 7550 Sørvad,9,1050000.0,03-10-2007,Alm.,9292,4,Villa,113,1963,
+Grønningen 29 7550 Sørvad,29,268936.0,02-10-2007,Alm.,1804,4,Villa,149,2008,
+Enghavevej 30 7550 Sørvad,30,1550000.0,26-09-2007,Alm.,8563,5,Villa,181,1980,
+Langgade 46 7550 Sørvad,46,1725000.0,13-09-2007,Alm.,5511,7,Villa,313,1929,
+Skovvej 10 7550 Sørvad,10,760000.0,08-09-2007,Alm.,7037,4,Villa,108,1965,
+Løgagervej 23 7550 Sørvad,23,1368586.0,27-06-2007,Fam.,9123,6,Stuehus,150,1885,
+Borupsvej 27 7550 Sørvad,27,1075000.0,30-04-2007,Alm.,7263,4,Villa,148,1973,
+Sigvej 1 7550 Sørvad,1,975000.0,20-03-2007,Fam.,4372,6,Stuehus,223,2009,
+Præstevejen 4 7550 Sørvad,4,1335000.0,19-03-2007,Alm.,9081,7,Villa,147,1942,
+Bakkevej 10 7550 Sørvad,10,595000.0,17-03-2007,Fam.,5129,5,Villa,116,1966,
+Udsigten 14 7550 Sørvad,14,1175000.0,14-03-2007,Alm.,6831,5,Villa,172,1971,
+Jasminvej 5 7550 Sørvad,5,1325000.0,09-03-2007,Alm.,8281,4,Villa,160,1982,
+Grønningen 33 7550 Sørvad,33,282486.0,09-03-2007,Alm.,1712,5,Villa,165,2008,
+Enghavevej 33 7550 Sørvad,33,810000.0,23-02-2007,Alm.,5664,4,Villa,143,1974,
+Jasminvej 7B 7550 Sørvad,0,675000.0,01-02-2007,Alm.,7941,3,Rækkehus,85,1983,-3 %
+Korsbækvej 3 7550 Sørvad,3,4820000.0,01-02-2007,Fam.,30897,5,Stuehus,156,1974,
+Grønningen 32 7550 Sørvad,32,400000.0,02-01-2007,Alm.,2061,5,Villa,194,2007,
+Løgagervej 5 7550 Sørvad,5,4013240.0,21-12-2006,Fam.,22802,7,Stuehus,176,1954,
+Grønningen 23 7550 Sørvad,23,230267.0,15-12-2006,Alm.,1693,5,Villa,136,2007,
+Svenstrupvej 2 7550 Sørvad,2,847500.0,08-12-2006,Alm.,6946,4,Villa,122,1970,
+Åbrinken 42 7550 Sørvad,42,155610.0,27-11-2006,Alm.,774,4,Villa,201,2007,
+Åbrinken 44 7550 Sørvad,44,127410.0,13-11-2006,Alm.,872,5,Villa,146,2007,
+Skolegade 11 7550 Sørvad,11,1038750.0,22-10-2006,Alm.,7018,5,Villa,148,1964,
+Enghavevej 4 7550 Sørvad,4,965000.0,29-09-2006,Alm.,7975,4,Villa,121,1977,
+Baunevej 5 7550 Sørvad,5,775000.0,07-08-2006,Alm.,6512,3,Villa,119,1967,
+Blindkildevej 5 7550 Sørvad,5,1450000.0,01-08-2006,Alm.,5576,8,Villa,260,1911,
+Langgade 1 7550 Sørvad,1,364527.0,31-07-2006,Andet,2660,5,Villa,137,1903,
+Skolegade 3 7550 Sørvad,3,800000.0,14-06-2006,Alm.,6666,5,Villa,120,1962,
+Syrenvej 3 7550 Sørvad,3,875000.0,09-05-2006,Alm.,7291,4,Villa,120,1977,
+Grønningen 46 7550 Sørvad,46,380000.0,12-04-2006,Alm.,1938,5,Villa,196,2008,
+Langgade 20 7550 Sørvad,20,1025000.0,31-03-2006,Alm.,4880,4,Villa,210,1969,
+Grønningen 6 7550 Sørvad,6,1050000.0,22-03-2006,Alm.,7835,4,Villa,134,1999,
+Koldkjærvej 5 7550 Sørvad,5,702000.0,22-03-2006,Alm.,3391,6,Stuehus,207,1983,
+Ramskovvej 20 7550 Sørvad,20,1550000.0,20-03-2006,Alm.,6404,6,Stuehus,242,1907,
+Grønningen 40 7550 Sørvad,40,273917.0,07-03-2006,Alm.,1185,7,Villa,231,2007,
+Jasminvej 2 7550 Sørvad,2,815000.0,30-01-2006,Alm.,7409,3,Villa,110,1981,
+Udsigten 27 7550 Sørvad,27,880000.0,01-01-2006,Alm.,5569,6,Villa,158,1973,
+Udsigten 5 7550 Sørvad,5,700000.0,12-10-2005,Alm.,4242,6,Villa,165,1974,
+Løgagervej 32 7550 Sørvad,32,200000.0,04-10-2005,Alm.,609,6,Villa,328,2006,
+Grønningen 20 7550 Sørvad,20,1750000.0,19-09-2005,Alm.,10057,5,Villa,174,1999,
+Løgagervej 20 7550 Sørvad,20,8200000.0,30-08-2005,Alm.,39234,6,Stuehus,209,1939,
+Grønningen 42 7550 Sørvad,42,255475.0,15-08-2005,Alm.,1366,6,Villa,187,2006,
+Åbrinken 43 7550 Sørvad,43,175000.0,02-08-2005,Alm.,988,6,Villa,177,2006,
+Langgade 65 7550 Sørvad,65,487500.0,31-07-2005,Alm.,4431,5,Villa,110,1946,
+Ribesvej 10 7550 Sørvad,10,800000.0,29-07-2005,Alm.,0,6,Villa,147,1981,
+Åbrinken 61 7550 Sørvad,61,160000.0,30-06-2005,Alm.,993,5,Villa,161,2014,
+Mølletoften 1 7550 Sørvad,1,1410000.0,23-06-2005,Alm.,7921,5,Villa,178,1985,
+Langgade 12 7550 Sørvad,12,775000.0,04-06-2005,Alm.,5961,5,Villa,130,1937,
+Korsbækvej 1 7550 Sørvad,1,950000.0,03-06-2005,Alm.,7786,4,Villa,122,1968,
+Åbrinken 63 7550 Sørvad,63,165000.0,30-05-2005,Alm.,808,5,Villa,204,2006,
+Skolegade 15 7550 Sørvad,15,975000.0,27-05-2005,Alm.,4431,6,Villa,220,1973,
+Langgade 15 7550 Sørvad,15,715000.0,27-04-2005,Alm.,7944,3,Villa,90,1946,
+Møllevangen 16 7550 Sørvad,16,1245000.0,21-04-2005,Alm.,9803,3,Villa,127,1960,
+Åbrinken 45 7550 Sørvad,45,175000.0,16-04-2005,Alm.,994,5,Villa,176,2006,
+Langgade 51 7550 Sørvad,51,1145000.0,10-04-2005,Alm.,4872,6,Villa,235,1925,
+Åbrinken 47 7550 Sørvad,47,175000.0,01-04-2005,Alm.,972,6,Villa,180,2006,
+Gyvelvej 9 7550 Sørvad,9,865000.0,21-03-2005,Alm.,7148,4,Villa,121,1978,
+Grønningen 34 7550 Sørvad,34,246227.0,16-03-2005,Alm.,1483,5,Villa,166,2007,
+Grønningen 30 7550 Sørvad,30,280055.0,16-02-2005,Alm.,1879,3,Villa,149,2006,
+Virkelystvej 13 7550 Sørvad,13,1050000.0,13-01-2005,Alm.,11538,6,Villa,91,1906,
+Løgagervej 6 7550 Sørvad,6,14600000.0,13-01-2005,Fam.,65470,8,Stuehus,223,1948,
+Åbrinken 33 7550 Sørvad,33,198750.0,10-01-2005,Alm.,1122,6,Villa,177,2006,
+Grønningen 38 7550 Sørvad,38,282592.0,03-01-2005,Alm.,1569,5,Villa,180,2006,
+Kvædevej 4 7550 Sørvad,4,700000.0,20-12-2004,Alm.,0,6,Villa,186,1979,
+Skolegade 13 7550 Sørvad,13,665000.0,16-12-2004,Alm.,3243,7,Villa,205,1973,
+Skovvej 13 7550 Sørvad,13,2200000.0,08-12-2004,Alm.,11578,6,Villa,190,2002,
+Åbrinken 49 7550 Sørvad,49,225000.0,29-11-2004,Alm.,1442,6,Villa,156,2010,
+Åbrinken 78 7550 Sørvad,78,1560000.0,29-10-2004,Alm.,8342,8,Villa,187,1995,
+Åbrinken 39 7550 Sørvad,39,182750.0,06-10-2004,Alm.,1114,6,Villa,164,2005,
+Pogagervej 1 7550 Sørvad,1,1060000.0,05-10-2004,Alm.,8412,5,Stuehus,126,1983,
+Åbrinken 65 7550 Sørvad,65,237000.0,10-09-2004,Alm.,1377,6,Villa,172,2008,
+Åbrinken 72 7550 Sørvad,72,123410.0,19-07-2004,Alm.,743,5,Villa,166,2005,
+Borupsvej 23 7550 Sørvad,23,560000.0,02-07-2004,Alm.,4869,4,Villa,115,1973,
+Langgade 22 7550 Sørvad,22,545000.0,28-06-2004,Alm.,0,3,Villa,85,1961,
+Vildbjergvej 7 7550 Sørvad,7,1185000.0,23-06-2004,Alm.,7406,6,Stuehus,160,1912,
+Åbrinken 37 7550 Sørvad,37,182750.0,14-06-2004,Alm.,904,6,Villa,202,2005,
+Præstevejen 10 7550 Sørvad,10,455296.0,23-04-2004,Andet,2474,6,Stuehus,184,1976,
+Præstevejen 9 7550 Sørvad,9,455296.0,23-04-2004,Alm.,2265,7,Villa,201,2000,
+Enghavevej 17 7550 Sørvad,17,710000.0,16-04-2004,Alm.,4176,7,Villa,170,1977,
+Åbrinken 51 7550 Sørvad,51,255000.0,27-02-2004,Alm.,1202,6,Villa,212,2005,
+Langgade 33 7550 Sørvad,33,1550000.0,23-02-2004,Fam.,7045,7,Villa,220,1955,
+Åbrinken 35 7550 Sørvad,35,182750.0,23-01-2004,Alm.,808,6,Villa,226,2006,
+Ribesvej 8 7550 Sørvad,8,875000.0,29-12-2003,Alm.,6835,3,Villa,128,1991,
+Moesgårdvej 2 7550 Sørvad,2,3185000.0,12-11-2003,Alm.,13847,8,Stuehus,230,1930,
+Borupsvej 25 7550 Sørvad,25,468750.0,27-10-2003,Alm.,2773,5,Villa,169,1975,
+Løgagervej 21 7550 Sørvad,21,1735000.0,10-10-2003,Fam.,11722,6,Stuehus,148,1959,
+Agerfeldvej 12 7550 Sørvad,12,2000000.0,07-08-2003,Alm.,8000,11,Stuehus,250,1932,
+Koldkjærvej 7 7550 Sørvad,7,925000.0,03-08-2003,Alm.,0,6,Stuehus,175,1934,
+Agerfeldvej 3 7550 Sørvad,3,895000.0,15-07-2003,Alm.,0,7,Villa,196,1931,
+Blindkildevej 8 7550 Sørvad,8,5151532.0,14-07-2003,Fam.,19890,8,Stuehus,259,1973,
+Aulumvej 4 7550 Sørvad,4,3059047.0,14-07-2003,Fam.,14922,4,Stuehus,205,1884,
+Bakkevej 3 7550 Sørvad,3,465000.0,19-06-2003,Alm.,6118,3,Villa,76,1955,
+Vognstrupvej 52 7550 Sørvad,52,5181000.0,24-04-2003,Alm.,30298,9,Stuehus,171,1893,
+Skolegade 1 7550 Sørvad,1,950000.0,02-04-2003,Alm.,5792,5,Villa,164,1965,
+Langgade 29 7550 Sørvad,29,1250000.0,07-03-2003,Alm.,8064,5,Villa,155,1955,
+Skolegade 2 7550 Sørvad,2,700000.0,27-02-2003,Alm.,5932,4,Villa,118,1969,
+Åbrinken 34 7550 Sørvad,34,210000.0,14-02-2003,Alm.,1111,5,Villa,189,2004,
+Løgagervej 17 7550 Sørvad,17,3550000.0,28-01-2003,Alm.,23986,6,Stuehus,148,1958,
+Udsigten 15 7550 Sørvad,15,610000.0,24-01-2003,Alm.,3765,5,Villa,162,1971,
+Enghavevej 2 7550 Sørvad,2,835000.0,14-01-2003,Alm.,5964,4,Villa,140,1975,
+Svenstrupvej 10 7550 Sørvad,10,1625000.0,16-12-2002,Fam.,10030,7,Stuehus,162,1958,
+Baunevej 1 7550 Sørvad,1,340000.0,28-06-2002,Alm.,0,5,Villa,150,1950,
+Møllevangen 15 7550 Sørvad,15,1181000.0,20-06-2002,Fam.,4840,6,Villa,244,1917,
+Borupsvej 31 7550 Sørvad,31,825000.0,11-06-2002,Alm.,6707,4,Villa,123,1979,
+Sigvej 3 7550 Sørvad,3,535500.0,12-04-2002,Fam.,4738,6,Stuehus,113,1905,
+Borupsvej 10 7550 Sørvad,10,790000.0,01-04-2002,Alm.,4072,8,Villa,194,1971,
+Udsigten 19 7550 Sørvad,19,820000.0,04-03-2002,Alm.,4480,7,Villa,183,1973,
+Borupsvej 3 7550 Sørvad,3,235000.0,07-01-2002,Alm.,3051,3,Villa,77,2005,
+Agerfeldvej 4 7550 Sørvad,4,1041250.0,18-12-2001,Fam.,8263,3,Stuehus,126,1896,
+Åbrinken 59 7550 Sørvad,59,225000.0,13-12-2001,Alm.,1216,5,Villa,185,2002,
+Langgade 28 7550 Sørvad,28,560000.0,08-11-2001,Alm.,7777,4,Villa,72,1951,
+Moesgårdvej 3 7550 Sørvad,3,343923.0,03-09-2001,Andet,1445,9,Villa,238,1986,
+Åbrinken 57 7550 Sørvad,57,195000.0,03-09-2001,Alm.,1031,6,Villa,189,2001,
+Thusholtvej 2 7550 Sørvad,2,6000000.0,06-07-2001,Fam.,22304,8,Stuehus,269,1943,
+Stradevej 8 7550 Sørvad,8,685000.0,25-06-2001,Alm.,3127,8,Villa,219,1916,
+Skovvej 11 7550 Sørvad,11,565000.0,29-05-2001,Alm.,5090,3,Villa,111,1976,
+Kvædevej 8 7550 Sørvad,8,1100000.0,27-04-2001,Alm.,7482,4,Villa,147,1980,
+Engvangen 2 7550 Sørvad,2,825000.0,17-04-2001,Alm.,5092,5,Villa,162,1973,
+Udsigten 35 7550 Sørvad,35,800000.0,10-04-2001,Alm.,5161,5,Villa,155,1971,
+Langgade 73 7550 Sørvad,73,750000.0,09-04-2001,Alm.,6000,4,Villa,125,1935,
+Præstevejen 6 7550 Sørvad,6,716500.0,06-04-2001,Alm.,2755,8,Villa,260,1917,
+Enghavevej 19 7550 Sørvad,19,880000.0,15-03-2001,Alm.,6285,4,Villa,140,1976,
+Vognstrupvej 45 7550 Sørvad,45,3337500.0,06-03-2001,Fam.,12594,9,Stuehus,265,1940,
+Grønningen 8 7550 Sørvad,8,150000.0,05-03-2001,Alm.,833,5,Villa,180,2001,
+Langgade 57 7550 Sørvad,57,509999.0,19-02-2001,Alm.,4636,3,Villa,110,1920,
+Langgade 58 7550 Sørvad,58,655000.0,25-01-2001,Alm.,5413,4,Villa,121,1937,
+Pogagervej 10 7550 Sørvad,10,750000.0,11-12-2000,Alm.,5357,4,Stuehus,140,1875,
+Agerfeldvej 17 7550 Sørvad,17,1736959.0,27-11-2000,Alm.,7895,9,Stuehus,220,1877,
+Løgagervej 7 7550 Sørvad,7,1180000.0,25-11-2000,Alm.,6941,5,Villa,170,1912,
+Vildbjergvej 12 7550 Sørvad,12,2200000.0,24-11-2000,Alm.,13333,6,Stuehus,165,1970,
+Ramskovvej 1 7550 Sørvad,1,1600000.0,20-10-2000,Alm.,7305,7,Stuehus,219,1971,
+Udsigten 23 7550 Sørvad,23,844000.0,07-09-2000,Alm.,5146,6,Villa,164,1972,
+Skovvej 3 7550 Sørvad,3,555000.0,04-09-2000,Alm.,4703,3,Villa,118,1940,
+Skolegade 9 7550 Sørvad,9,490000.0,30-08-2000,Alm.,0,3,Villa,104,1963,
+Sigvej 5 7550 Sørvad,5,5500000.0,10-07-2000,Alm.,30898,8,Stuehus,178,1944,
+Langgade 10 7550 Sørvad,10,700000.0,06-07-2000,Alm.,4895,4,Villa,143,1950,
+Korsbækvej 7 7550 Sørvad,7,2575000.0,04-07-2000,Fam.,13844,5,Stuehus,186,1980,
+Vildbjergvej 9 7550 Sørvad,9,660000.0,27-04-2000,Alm.,0,6,Stuehus,194,1917,
+Thoustrupvej 3 7550 Sørvad,3,1928400.0,29-03-2000,Alm.,9406,6,Stuehus,205,1939,
+Gyvelvej 14 7550 Sørvad,14,875000.0,18-03-2000,Alm.,4888,5,Villa,179,1976,
+Præstevejen 2 7550 Sørvad,2,595000.0,10-03-2000,Alm.,2644,6,Villa,225,1878,
+Langgade 9 7550 Sørvad,9,499750.0,03-02-2000,Alm.,3674,5,Villa,136,1939,
+Horslundvej 12 7550 Sørvad,12,4595000.0,05-01-2000,Alm.,19225,5,Stuehus,239,2014,
+Sigvej 11 7550 Sørvad,11,910000.0,03-01-2000,Alm.,0,6,Villa,243,1914,
+Enghavevej 18 7550 Sørvad,18,750000.0,24-09-1999,Alm.,6521,4,Villa,115,1977,
+Thusholtvej 4 7550 Sørvad,4,1206390.0,06-09-1999,Alm.,0,9,Stuehus,196,1898,
+Koldkjærvej 2 7550 Sørvad,2,1050000.0,07-08-1999,Alm.,0,7,Villa,238,1893,
+Vognstrupvej 3 7550 Sørvad,3,348500.0,05-08-1999,Fam.,3915,4,Villa,89,1965,
+Langgade 27 7550 Sørvad,27,1123000.0,31-07-1999,Alm.,4528,8,Villa,248,1973,
+Præstevejen 20 7550 Sørvad,20,643000.0,08-07-1999,Fam.,0,6,Stuehus,185,1909,
+Vildbjergvej 6 7550 Sørvad,6,2726000.0,14-06-1999,Alm.,18173,7,Stuehus,150,1932,
+Ribesvej 12A 7550 Sørvad,0,550000.0,03-05-1999,Alm.,6790,2,Rækkehus,81,1988,
+Syrenvej 5 7550 Sørvad,5,585000.0,27-04-1999,Alm.,5223,4,Villa,112,1977,
+Engvangen 16 7550 Sørvad,16,830161.0,27-03-1999,Alm.,5765,5,Villa,144,1973,
+Kirkevangen 7 7550 Sørvad,7,499670.0,08-03-1999,Alm.,4758,4,Villa,105,1941,
+Ramskovvej 5 7550 Sørvad,5,1888265.0,09-12-1998,Fam.,11107,6,Stuehus,170,1979,
+Åbrinken 70 7550 Sørvad,70,204220.0,02-11-1998,Alm.,1458,7,Villa,140,2001,
+Baunevej 9 7550 Sørvad,9,840000.0,02-11-1998,Alm.,5915,4,Villa,142,1973,
+Enghavevej 3 7550 Sørvad,3,800000.0,01-10-1998,Alm.,4819,6,Villa,166,1972,
+Åbrinken 68 7550 Sørvad,68,203693.0,25-08-1998,Alm.,1163,6,Villa,175,1999,
+Enghavevej 39 7550 Sørvad,39,800000.0,13-07-1998,Alm.,5594,4,Villa,143,1974,
+Vildbjergvej 1 7550 Sørvad,1,600000.0,22-04-1998,Alm.,0,6,Stuehus,227,1923,
+Digevej 7 7550 Sørvad,7,850248.0,13-04-1998,Alm.,4338,6,Villa,196,1967,
+Langgade 5 7550 Sørvad,5,754800.0,03-04-1998,Alm.,4193,7,Villa,180,1925,
+Langgade 4 7550 Sørvad,4,684000.0,23-03-1998,Alm.,4560,5,Villa,150,1925,
+Grønningen 18 7550 Sørvad,18,73500.0,23-03-1998,Alm.,369,7,Villa,199,1999,
+Enghavevej 28 7550 Sørvad,28,805795.0,23-03-1998,Alm.,4451,7,Villa,181,1975,
+Vognstrupvej 43 7550 Sørvad,43,366855.0,02-03-1998,Alm.,3218,4,Stuehus,114,1927,
+Åbrinken 40 7550 Sørvad,40,120994.0,19-12-1997,Alm.,640,6,Villa,189,2000,
+Grønningen 4 7550 Sørvad,4,997000.0,11-12-1997,Alm.,6559,5,Villa,152,1988,
+Langgade 40 7550 Sørvad,40,900000.0,03-12-1997,Alm.,5769,6,Stuehus,156,1917,
+Borupsvej 19 7550 Sørvad,19,512500.0,10-11-1997,Alm.,5125,3,Villa,100,1975,
+Kvædevej 13 7550 Sørvad,13,760577.0,25-09-1997,Alm.,5850,5,Villa,130,1979,
+Pogagervej 8 7550 Sørvad,8,6825000.0,24-09-1997,Alm.,23534,9,Stuehus,290,1908,
+Bakkevej 2 7550 Sørvad,2,212000.0,03-09-1997,Alm.,0,6,Villa,103,1949,
+Agerfeldvej 16 7550 Sørvad,16,885000.0,11-08-1997,Fam.,6188,5,Stuehus,143,1914,
+Langgade 17 7550 Sørvad,17,344999.0,21-07-1997,Alm.,2674,5,Villa,129,1946,
+Løgagervej 10 7550 Sørvad,10,2295000.0,11-07-1997,Alm.,0,4,Stuehus,230,1912,
+Vognstrupvej 12 7550 Sørvad,12,899000.0,26-06-1997,Alm.,3761,10,Villa,239,1973,
+Udsigten 31 7550 Sørvad,31,675000.0,21-05-1997,Alm.,5192,5,Villa,130,1973,
+Præstevejen 22 7550 Sørvad,22,440350.0,16-05-1997,Alm.,2367,8,Stuehus,186,1939,
+Blindkildevej 1 7550 Sørvad,1,107545.0,30-04-1997,Alm.,614,8,Stuehus,175,1926,
+Ribesvej 2 7550 Sørvad,2,785000.0,28-04-1997,Alm.,5647,4,Villa,139,1985,
+Kvædevej 9 7550 Sørvad,9,110000.0,04-04-1997,Alm.,820,4,Villa,134,1997,
+Åbrinken 28 7550 Sørvad,28,115807.0,03-03-1997,Alm.,798,5,Villa,145,1997,
+Løgagervej 16 7550 Sørvad,16,951294.0,18-01-1997,Alm.,5945,7,Villa,160,1965,
+Vildbjergvej 4 7550 Sørvad,4,725000.0,19-12-1996,Alm.,0,5,Villa,192,1937,
+Enghavevej 6 7550 Sørvad,6,525000.0,08-11-1996,Alm.,4233,4,Villa,124,1975,
+Ramskovvej 18 7550 Sørvad,18,410000.0,14-10-1996,Alm.,3565,5,Villa,115,1917,
+Blindkildevej 7 7550 Sørvad,7,610000.0,19-09-1996,Fam.,0,6,Villa,150,1986,
+Åbrinken 30 7550 Sørvad,30,104788.0,26-08-1996,Alm.,689,5,Villa,152,1998,
+Åbrinken 38 7550 Sørvad,38,80822.0,26-08-1996,Alm.,0,6,Villa,140,1996,
+Stradevej 1 7550 Sørvad,1,3169000.0,21-06-1996,Alm.,15090,6,Stuehus,210,1923,
+Løgagervej 9 7550 Sørvad,9,695000.0,04-03-1996,Alm.,3008,6,Villa,231,1910,
+Ribesvej 1 7550 Sørvad,1,709000.0,04-03-1996,Alm.,5717,4,Villa,124,1986,
+Langgade 24 7550 Sørvad,24,535000.0,27-02-1996,Alm.,6294,3,Villa,85,1947,
+Svenstrupvej 5 7550 Sørvad,5,255000.0,26-01-1996,Fam.,2318,4,Stuehus,110,1900,
+Baunevej 6 7550 Sørvad,6,553000.0,01-11-1995,Alm.,6662,4,Villa,83,1959,
+Langgade 67 7550 Sørvad,67,290000.0,24-10-1995,Alm.,3333,5,Villa,87,1947,
+Kvædevej 3 7550 Sørvad,3,550000.0,17-09-1995,Alm.,4296,4,Villa,128,1978,
+Langgade 11 7550 Sørvad,11,310000.0,11-09-1995,Alm.,2384,5,Villa,130,1951,
+Skovvej 5 7550 Sørvad,5,554000.0,06-07-1995,Alm.,5893,3,Villa,94,1989,
+Langgade 7 7550 Sørvad,7,660000.0,31-05-1995,Alm.,3928,5,Villa,168,1926,
+Præstevejen 14 7550 Sørvad,14,975000.0,31-05-1995,Alm.,4220,8,Villa,231,1973,
+Aulumvej 5 7550 Sørvad,5,680000.0,26-05-1995,Alm.,0,7,Villa,218,1930,
+Enghavevej 36 7550 Sørvad,36,800000.0,08-05-1995,Alm.,3846,8,Villa,208,1974,
+Ramskovvej 24 7550 Sørvad,24,649000.0,01-05-1995,Alm.,4475,5,Villa,145,1916,
+Digevej 3 7550 Sørvad,3,520000.0,08-02-1995,Alm.,4262,4,Villa,122,1970,
+Korsbækvej 5 7550 Sørvad,5,750000.0,06-02-1995,Alm.,4601,6,Stuehus,163,1977,
+Møllevangen 17 7550 Sørvad,17,331000.0,10-11-1994,Alm.,0,8,Villa,158,1904,
+Ribesvej 14B 7550 Sørvad,0,325000.0,09-10-1994,Alm.,3823,3,Rækkehus,85,1981,
+Ramskovvej 3 7550 Sørvad,3,570000.0,07-10-1994,Alm.,0,11,Stuehus,209,1907,
+Langgade 18A 7550 Sørvad,0,200000.0,15-08-1994,Alm.,1379,4,Villa,145,1994,
+Stradevej 4 7550 Sørvad,4,1311000.0,15-08-1994,Alm.,7711,6,Stuehus,170,1894,
+Langgade 60 7550 Sørvad,60,300000.0,26-07-1994,Alm.,2142,4,Villa,140,1962,
+Jasminvej 4 7550 Sørvad,4,725000.0,09-06-1994,Alm.,3519,6,Villa,206,1998,
+Åbrinken 32 7550 Sørvad,32,114810.0,16-05-1994,Alm.,770,4,Villa,149,1994,
+Virkelystvej 4 7550 Sørvad,4,1900000.0,05-05-1994,Alm.,11875,6,Stuehus,160,1900,
+Vildbjergvej 5 7550 Sørvad,5,1340000.0,27-04-1994,Alm.,8375,6,Stuehus,160,1902,
+Gyvelvej 19 7550 Sørvad,19,580000.0,31-03-1994,Alm.,4142,2,Villa,140,1977,
+Virkelystvej 11 7550 Sørvad,11,750000.0,18-02-1994,Alm.,6198,5,Stuehus,121,1907,
+Vognstrupvej 2 7550 Sørvad,2,550000.0,02-02-1994,Alm.,3235,5,Villa,170,1967,
+Syrenvej 1 7550 Sørvad,1,554000.0,01-02-1994,Fam.,4578,4,Villa,121,1986,
+Ramskovvej 8 7550 Sørvad,8,1012000.0,01-02-1994,Fam.,5163,7,Stuehus,196,1939,
+Møllevangen 20 7550 Sørvad,20,350000.0,12-12-1993,Alm.,1340,8,Villa,261,1860,
+Gyvelvej 2 7550 Sørvad,2,575000.0,08-12-1993,Alm.,0,6,Villa,178,1977,
+Blindkildevej 4 7550 Sørvad,4,390000.0,11-10-1993,Alm.,2307,6,Villa,169,1916,
+Udsigten 2 7550 Sørvad,2,565000.0,26-07-1993,Alm.,4829,4,Villa,117,1971,
+Løgagervej 4 7550 Sørvad,4,936000.0,20-07-1993,Fam.,0,7,Stuehus,252,1907,
+Enghavevej 32 7550 Sørvad,32,535000.0,29-06-1993,Alm.,3689,4,Villa,145,1974,
+Langgade 8 7550 Sørvad,8,406000.0,12-05-1993,Alm.,3690,4,Villa,110,1969,
+Sigvej 9 7550 Sørvad,9,780000.0,05-04-1993,Alm.,7878,3,Stuehus,99,1932,
+Præstevejen 15 7550 Sørvad,15,600000.0,29-03-1993,Alm.,4615,6,Villa,130,1968,
+Aulumvej 12 7550 Sørvad,12,770000.0,19-03-1993,Fam.,4812,4,Stuehus,160,1955,
+Grønningen 13 7550 Sørvad,13,220000.0,29-12-1992,Alm.,1692,4,Villa,130,1987,
+Præstevejen 12 7550 Sørvad,12,510000.0,02-12-1992,Alm.,0,7,Stuehus,174,1903,
+Horslundvej 10 7550 Sørvad,10,1500000.0,28-06-1992,Fam.,0,8,Stuehus,249,1964,
+Vildbjergvej 3 7550 Sørvad,3,550000.0,12-06-1992,Alm.,2522,5,Villa,218,1976,
+Kvædevej 11 7550 Sørvad,11,620000.0,25-05-1992,Alm.,3647,6,Villa,170,1978,
+Digevej 6 7550 Sørvad,6,515000.0,18-05-1992,Alm.,3901,4,Villa,132,1972,
+Langgade 56 7550 Sørvad,56,340000.0,06-04-1992,Alm.,2881,5,Villa,118,1942,
+Agerfeldvej 9 7550 Sørvad,9,520000.0,06-04-1992,Alm.,0,6,Villa,205,1916,
+Baunevej 3 7550 Sørvad,3,460000.0,03-04-1992,Alm.,2705,5,Villa,170,1952,
+Vognstrupvej 1 7550 Sørvad,1,275000.0,16-03-1992,Alm.,4910,3,Villa,56,1958,
+Koldkjærvej 9 7550 Sørvad,9,150000.0,08-03-1992,Alm.,0,6,Villa,253,1877,
+Møllevangen 18 7550 Sørvad,18,450000.0,07-03-1992,Alm.,3125,7,Stuehus,144,1913,
+Vognstrupvej 18 7550 Sørvad,18,600000.0,01-02-1992,Alm.,3468,5,Villa,173,1972,
+Gyvelvej 15 7550 Sørvad,15,580000.0,27-01-1992,Alm.,3815,5,Villa,152,1977,

@@ -1,0 +1,362 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Grindstedvej 80 7184 Vandel,80,790000.0,31-03-2017,Alm.,6929,5,Stuehus,114,1911,6 %
+Åstbyvej 30 7184 Vandel,30,570000.0,31-03-2017,Fam.,4384,8,Villa,130,1962,
+Blomstervænget 10 7184 Vandel,10,1062500.0,30-03-2017,Alm.,5902,6,Villa,180,1973,-7 %
+Stationsvej 7 7184 Vandel,7,955000.0,18-03-2017,Alm.,4823,7,Villa,198,1970,-4 %
+Mølleparken 7 7184 Vandel,7,1095000.0,29-11-2016,Alm.,6221,4,Villa,176,1966,0 %
+Dalgasvej 9 7184 Vandel,9,80598.0,27-10-2016,Auktion,500,5,Villa,161,1917,
+Vestbanevej 38 7184 Vandel,38,450000.0,25-10-2016,Alm.,3688,5,Villa,122,1985,
+Solbakken 4 7184 Vandel,4,700000.0,12-10-2016,Alm.,5833,5,Villa,120,1956,
+Mølleparken 49 7184 Vandel,49,2500000.0,12-10-2016,Alm.,10416,7,Villa,240,2010,
+Gl. Stationsvej 22 7184 Vandel,22,387500.0,05-09-2016,Alm.,3875,4,Villa,100,1960,-14 %
+Fasanvej 7 7184 Vandel,7,1100000.0,31-07-2016,Alm.,9821,4,Villa,112,1971,-8 %
+Grindstedvej 45 7184 Vandel,45,355950.0,26-06-2016,Alm.,3235,3,Villa,110,1959,
+Randbølvej 17 7184 Vandel,17,980000.0,15-06-2016,Fam.,9245,4,Villa,106,1963,
+Mølleparken 13 7184 Vandel,13,1232500.0,10-06-2016,Fam.,5135,5,Villa,240,1969,
+Fuglsangvej 5 7184 Vandel,5,570000.0,30-05-2016,Alm.,5377,4,Villa,106,1965,-4 %
+Mølleparken 20 7184 Vandel,20,500000.0,24-05-2016,Alm.,3496,3,Villa,143,1973,
+Randbølvej 21 7184 Vandel,21,1025000.0,11-03-2016,Alm.,11388,2,Villa,90,1956,-10 %
+Gyvelvej 1 7184 Vandel,1,985000.0,22-02-2016,Alm.,6655,5,Villa,148,1977,-1 %
+Åstbyvej 41 7184 Vandel,41,6500000.0,09-02-2016,Andet,29545,5,Villa,220,1916,
+Vestbanevej 40 7184 Vandel,40,1350000.0,08-01-2016,Alm.,5921,5,Villa,228,1979,-3 %
+Vestbanevej 42 7184 Vandel,42,1725000.0,28-12-2015,Alm.,8175,6,Villa,211,1975,-4 %
+Kastanievej 55 7184 Vandel,55,596500.0,17-12-2015,Alm.,3898,6,Stuehus,153,1958,-78 %
+Mølleparken 8 7184 Vandel,8,970000.0,08-12-2015,Alm.,7461,4,Villa,130,1971,
+Gl. Stationsvej 2 7184 Vandel,2,550000.0,09-10-2015,Andet,3125,5,Villa,176,1968,-54 %
+Hyldestien 125 7184 Vandel,125,1775000.0,20-09-2015,Alm.,15707,4,Sommerhus,113,2008,
+Åstbyvej 15 7184 Vandel,15,710000.0,03-08-2015,Alm.,5916,4,Villa,120,1973,-14 %
+"Stationsvej 4, 1 7184 Vandel",1,135316.0,15-07-2015,Alm.,1961,3,Lejlighed,69,1897,
+Gl. Stationsvej 17B 7184 Vandel,0,1235000.0,10-07-2015,Alm.,11650,4,Rækkehus,106,2008,-5 %
+Gl. Stationsvej 9 7184 Vandel,9,445000.0,25-06-2015,Alm.,3560,3,Villa,125,1968,-6 %
+Vestbanevej 44 7184 Vandel,44,1200000.0,18-06-2015,Alm.,6185,7,Villa,194,1976,-7 %
+Randbølvej 14 7184 Vandel,14,100000.0,23-04-2015,Alm.,1219,3,Villa,82,1913,
+Hyldestien 139 7184 Vandel,139,1845000.0,09-04-2015,Alm.,16327,4,Sommerhus,113,2008,-3 %
+Åstbyvej 31 7184 Vandel,31,845000.0,01-03-2015,Alm.,4747,6,Villa,178,1937,
+Hyldestien 105 7184 Vandel,105,1450000.0,23-02-2015,Alm.,20138,2,Sommerhus,72,2008,-5 %
+Hyldestien 11 7184 Vandel,11,1995000.0,16-02-2015,Alm.,16352,4,Sommerhus,122,2009,-16 %
+Fasanvej 21 7184 Vandel,21,1195000.0,02-02-2015,Alm.,8298,4,Villa,144,1973,0 %
+Fasanvej 11 7184 Vandel,11,750000.0,29-12-2014,Alm.,5244,5,Villa,143,1967,-4 %
+Mølleparken 39 7184 Vandel,39,1600000.0,13-12-2014,Alm.,10666,5,Villa,150,2004,-4 %
+Gødsbølvej 34 7184 Vandel,34,300000.0,03-12-2014,Alm.,1428,8,Stuehus,210,1915,
+Grindstedvej 62 7184 Vandel,62,1765000.0,14-11-2014,Alm.,7510,7,Stuehus,235,1922,
+Gødsbølvej 52 7184 Vandel,52,1595000.0,30-10-2014,Alm.,10357,5,Villa,154,1890,0 %
+Gl. Stationsvej 3 7184 Vandel,3,350000.0,21-08-2014,Alm.,2755,5,Villa,127,1926,-11 %
+Gl. Åstvej 6 7184 Vandel,6,300000.0,31-07-2014,Alm.,2912,4,Villa,103,1927,-20 %
+Vestbanevej 24 7184 Vandel,24,382000.0,04-06-2014,Fam.,1919,6,Villa,199,1976,
+Randbølvej 19 7184 Vandel,19,825000.0,15-05-2014,Alm.,5288,5,Villa,156,1958,-11 %
+Hyldestien 51 7184 Vandel,51,1475000.0,12-05-2014,Alm.,26818,2,Sommerhus,55,2009,-13 %
+Vestbanevej 6 7184 Vandel,6,740000.0,09-04-2014,Alm.,5362,4,Villa,138,1967,-7 %
+Hyldestien 27 7184 Vandel,27,1464000.0,07-04-2014,Alm.,12000,4,Sommerhus,122,2009,
+Gødsbølvej 44 7184 Vandel,44,2130000.0,19-03-2014,Alm.,15895,4,Stuehus,134,2007,-3 %
+Grindstedvej 82 7184 Vandel,82,1550000.0,19-03-2014,Alm.,16315,3,Stuehus,95,1925,-22 %
+Hyldestien 35 7184 Vandel,35,1139470.0,09-03-2014,Alm.,9339,4,Sommerhus,122,2009,
+Mølleparken 22 7184 Vandel,22,900000.0,04-03-2014,Alm.,6000,5,Villa,150,1977,
+Grindstedvej 36 7184 Vandel,36,855000.0,27-02-2014,Alm.,3976,5,Villa,215,1952,-2 %
+Gødsbølvej 33 7184 Vandel,33,3392500.0,24-01-2014,Fam.,20314,5,Villa,167,1930,
+Hyldestien 143 7184 Vandel,143,1800000.0,15-12-2013,Alm.,15929,4,Sommerhus,113,2008,-22 %
+Gødsbølvej 65A 7184 Vandel,0,1395053.0,05-12-2013,Auktion,5535,8,Stuehus,252,2008,-30 %
+Mølleparken 33 7184 Vandel,33,265000.0,07-11-2013,Alm.,1802,5,Villa,147,2014,
+Blomstervænget 4 7184 Vandel,4,1570000.0,01-11-2013,Alm.,8177,7,Villa,192,1965,
+Falkevej 11 7184 Vandel,11,1425000.0,21-10-2013,Alm.,9076,5,Villa,157,1992,-5 %
+Fasanvej 17 7184 Vandel,17,645000.0,23-09-2013,Alm.,5078,4,Villa,127,1973,0 %
+Randbølvej 23 7184 Vandel,23,375000.0,22-08-2013,Alm.,4076,3,Villa,92,1959,-24 %
+Hyldestien 121 7184 Vandel,121,1377115.0,08-08-2013,Auktion,19126,2,Sommerhus,72,2008,
+Blomstervænget 26 7184 Vandel,26,1000000.0,24-06-2013,Fam.,9803,3,Villa,102,1964,
+Mølleparken 27 7184 Vandel,27,1995000.0,06-06-2013,Alm.,9193,5,Villa,217,2006,-5 %
+Gl. Stationsvej 18 7184 Vandel,18,270000.0,21-03-2013,Auktion,2195,4,Villa,123,1965,
+Grindstedvej 24 7184 Vandel,24,775000.0,20-03-2013,Alm.,8333,6,Villa,93,1930,-3 %
+Gødsbølvej 50 7184 Vandel,50,3450000.0,06-02-2013,Alm.,16747,4,Stuehus,206,1850,-1 %
+Mørupvej 5 7184 Vandel,5,1575000.0,30-01-2013,Alm.,9051,5,Stuehus,174,1932,
+Grindstedvej 72 7184 Vandel,72,2925000.0,12-01-2013,Alm.,24579,4,Stuehus,119,1914,
+Stationsvej 3 7184 Vandel,3,300000.0,25-09-2012,Auktion,1470,7,Villa,204,1896,-39 %
+Mølleparken 3 7184 Vandel,3,320000.0,10-09-2012,Alm.,4571,5,Villa,70,1955,
+Gl. Stationsvej 17C 7184 Vandel,0,1185000.0,22-08-2012,Alm.,11179,4,Rækkehus,106,2008,-1 %
+Falkevej 4 7184 Vandel,4,550000.0,07-08-2012,Alm.,3618,5,Villa,152,1984,
+Gødsbølvej 54 7184 Vandel,54,860000.0,14-06-2012,Auktion,5119,5,Villa,168,1915,-28 %
+Blomstervænget 3 7184 Vandel,3,800000.0,08-06-2012,Alm.,5161,5,Villa,155,1973,
+Gl. Stationsvej 4 7184 Vandel,4,415000.0,19-04-2012,Alm.,3640,3,Villa,114,1968,
+Gyvelvej 3 7184 Vandel,3,895000.0,06-03-2012,Alm.,7047,5,Villa,127,1977,0 %
+Vestbanevej 22 7184 Vandel,22,1200000.0,02-03-2012,Alm.,6557,8,Villa,183,1977,-14 %
+Åstbyvej 39B 7184 Vandel,0,838500.0,27-12-2011,Alm.,3301,6,Villa,254,1987,
+Fasanvej 5 7184 Vandel,5,1075000.0,21-10-2011,Alm.,7904,4,Villa,136,1971,-17 %
+Gl. Stationsvej 7 7184 Vandel,7,525000.0,05-10-2011,Alm.,8606,3,Anden beboelse,61,1935,
+Ternevej 3 7184 Vandel,3,835000.0,22-09-2011,Alm.,6574,4,Villa,127,1971,-7 %
+Åstbyvej 23 7184 Vandel,23,826642.0,10-08-2011,Andet,3993,7,Villa,207,1928,
+Hyldestien 61 7184 Vandel,61,778500.0,26-05-2011,Fam.,14154,2,Sommerhus,55,2009,
+Hyldestien 71 7184 Vandel,71,1557000.0,18-05-2011,Alm.,28309,2,Sommerhus,55,2009,
+Fasanvej 6 7184 Vandel,6,607000.0,18-04-2011,Alm.,4335,5,Villa,140,1970,
+Solbakken 1 7184 Vandel,1,550000.0,08-04-2011,Alm.,7236,3,Villa,76,1955,-26 %
+"Stationsvej 4, ST 7184 Vandel",0,111659.0,24-03-2011,Auktion,1227,4,Lejlighed,91,1897,
+Randbølvej 28 7184 Vandel,28,900000.0,11-03-2011,Alm.,7964,4,Villa,113,1976,-10 %
+Hyldestien 5 7184 Vandel,5,800000.0,24-01-2011,Alm.,6557,4,Sommerhus,122,2009,
+Hyldestien 57 7184 Vandel,57,1600000.0,15-10-2010,Alm.,29090,2,Sommerhus,55,2009,-3 %
+Østerbyvej 19 7184 Vandel,19,600000.0,27-09-2010,Alm.,4255,4,Villa,141,1912,
+Hyldestien 55 7184 Vandel,55,1535000.0,23-08-2010,Alm.,27909,2,Sommerhus,55,2009,
+Dalgasvej 5 7184 Vandel,5,1375000.0,21-08-2010,Alm.,6707,6,Villa,205,1923,-8 %
+Grindstedvej 10 7184 Vandel,10,845000.0,09-08-2010,Alm.,7041,7,Villa,120,1873,
+Gødsbølvej 51 7184 Vandel,51,380000.0,01-08-2010,Alm.,3518,4,Villa,108,1880,
+Gl. Stationsvej 38 7184 Vandel,38,1065000.0,30-07-2010,Alm.,9181,4,Villa,116,1973,-3 %
+Mølleparken 5 7184 Vandel,5,800000.0,26-07-2010,Alm.,3508,11,Villa,228,1954,-16 %
+Grindstedvej 15 7184 Vandel,15,1300000.0,24-06-2010,Auktion,21666,10,Servicevirksomhed,60,1897,-7 %
+Grindstedvej 76 7184 Vandel,76,997500.0,16-06-2010,Andet,8986,4,Villa,111,1900,
+Hyldestien 59 7184 Vandel,59,1665000.0,24-05-2010,Alm.,30272,2,Sommerhus,55,2009,
+Mølleparken 25 7184 Vandel,25,2395000.0,15-05-2010,Alm.,13455,5,Villa,178,2002,-8 %
+Gøddingvej 6 7184 Vandel,6,2050000.0,12-04-2010,Alm.,10962,6,Villa,187,1963,
+Gødsbølvej 46 7184 Vandel,46,1800000.0,30-03-2010,Alm.,11250,5,Villa,160,2008,-10 %
+Gl. Stationsvej 11 7184 Vandel,11,527500.0,12-03-2010,Alm.,4186,4,Villa,126,1923,
+Grindstedvej 14 7184 Vandel,14,1000000.0,16-02-2010,Alm.,4975,8,Villa,201,1900,-13 %
+Grindstedvej 28 7184 Vandel,28,1295000.0,23-11-2009,Alm.,5967,7,Villa,217,1926,0 %
+Mølleparken 32 7184 Vandel,32,2675000.0,17-08-2009,Alm.,14944,5,Villa,179,2007,0 %
+Åstvej 10 7184 Vandel,10,1200000.0,13-08-2009,Alm.,7407,4,Stuehus,162,1850,-7 %
+Blomstervænget 11 7184 Vandel,11,1111170.0,13-08-2009,Alm.,8749,5,Villa,127,1969,1 %
+Gl. Stationsvej 40 7184 Vandel,40,1300000.0,13-08-2009,Alm.,6435,6,Villa,202,1900,-7 %
+Rylevej 2 7184 Vandel,2,1110000.0,08-08-2009,Alm.,9652,4,Villa,115,1972,-9 %
+Falkevej 12 7184 Vandel,12,1400000.0,20-07-2009,Alm.,10000,5,Villa,140,1997,-12 %
+Randbølvej 16 7184 Vandel,16,1210000.0,14-07-2009,Alm.,10431,4,Villa,116,1965,-5 %
+Hyldestien 15 7184 Vandel,15,2500000.0,17-06-2009,Alm.,20491,4,Sommerhus,122,2009,
+Gl. Stationsvej 36 7184 Vandel,36,1040000.0,13-03-2009,Alm.,7938,4,Villa,131,1974,-13 %
+Grindstedvej 61 7184 Vandel,61,1783687.0,29-01-2009,Alm.,7823,4,Stuehus,228,1936,
+Gl. Stationsvej 17A 7184 Vandel,0,1240000.0,23-12-2008,Alm.,11698,4,Rækkehus,106,2009,
+Mølleparken 47 7184 Vandel,47,496000.0,20-10-2008,Alm.,2396,5,Villa,207,2011,
+Lærkevej 6 7184 Vandel,6,650000.0,28-09-2008,Alm.,5909,6,Villa,110,1960,
+Solbakken 5 7184 Vandel,5,500000.0,28-08-2008,Alm.,6493,4,Villa,77,1954,-22 %
+Randbølvej 26 7184 Vandel,26,725000.0,07-07-2008,Alm.,6304,4,Villa,115,1976,0 %
+Grindstedvej 22 7184 Vandel,22,1025000.0,04-07-2008,Alm.,6029,6,Villa,170,1928,-5 %
+Kastanievej 4 7184 Vandel,4,900000.0,17-06-2008,Fam.,7438,6,Villa,121,1930,
+Ternevej 2 7184 Vandel,2,1025000.0,14-06-2008,Alm.,7945,4,Villa,129,1972,-2 %
+Hyldestien 63 7184 Vandel,63,1495000.0,04-06-2008,Alm.,27181,2,Sommerhus,55,2009,
+Randbølvej 25 7184 Vandel,25,1075000.0,30-05-2008,Alm.,8669,4,Villa,124,1960,-4 %
+Hyldestien 95 7184 Vandel,95,1595000.0,28-05-2008,Alm.,22152,2,Sommerhus,72,2008,
+Dalgasvej 17 7184 Vandel,17,1195000.0,06-05-2008,Alm.,5128,6,Villa,233,1895,
+Mølleparken 30 7184 Vandel,30,1950000.0,23-04-2008,Alm.,13265,5,Villa,147,2006,-1 %
+Blomstervænget 24 7184 Vandel,24,1155000.0,26-03-2008,Alm.,12031,4,Villa,96,1964,-3 %
+Hyldestien 69 7184 Vandel,69,1495000.0,17-03-2008,Alm.,27181,2,Sommerhus,55,2009,
+Vestbanevej 3 7184 Vandel,3,1250000.0,31-01-2008,Alm.,9615,4,Villa,130,1973,0 %
+Kastanievej 53 7184 Vandel,53,3325000.0,22-01-2008,Alm.,14977,5,Stuehus,222,1927,0 %
+Åstbyvej 39A 7184 Vandel,0,150000.0,20-12-2007,Alm.,500,7,Stuehus,300,2008,
+Hyldestien 107 7184 Vandel,107,1595000.0,17-12-2007,Alm.,19451,2,Sommerhus,82,2008,
+Falkevej 14 7184 Vandel,14,1225000.0,14-11-2007,Alm.,10937,4,Villa,112,1992,0 %
+Gyvelvej 5 7184 Vandel,5,1012000.0,13-10-2007,Alm.,7906,5,Villa,128,1976,
+Grindstedvej 12 7184 Vandel,12,878000.0,02-10-2007,Alm.,7196,3,Villa,122,1979,
+Mølleparken 14 7184 Vandel,14,1665000.0,02-10-2007,Alm.,9148,6,Villa,182,1974,-2 %
+Randbølvej 18 7184 Vandel,18,450000.0,18-09-2007,Alm.,4591,5,Villa,98,1964,
+Gødsbølvej 31 7184 Vandel,31,1025000.0,12-09-2007,Fam.,5959,8,Stuehus,172,1925,
+Gl. Stationsvej 8 7184 Vandel,8,1200000.0,23-08-2007,Alm.,6153,9,Villa,195,1897,-7 %
+Vestbanevej 26 7184 Vandel,26,1200000.0,20-08-2007,Alm.,9375,5,Villa,128,1975,
+Grindstedvej 31 7184 Vandel,31,980000.0,13-08-2007,Fam.,5697,4,Villa,172,1897,
+Dalgasvej 7 7184 Vandel,7,945000.0,04-08-2007,Alm.,8750,4,Villa,108,1960,
+Mølleparken 28 7184 Vandel,28,246000.0,21-06-2007,Alm.,1849,4,Villa,133,2008,
+Falkevej 15 7184 Vandel,15,1525000.0,28-05-2007,Alm.,10517,5,Villa,145,1994,-2 %
+Stationsvej 9 7184 Vandel,9,875000.0,27-05-2007,Alm.,6628,5,Villa,132,1931,
+Falkevej 6 7184 Vandel,6,1485000.0,14-05-2007,Alm.,8114,6,Villa,183,1994,0 %
+"Stationsvej 6, 2 7184 Vandel",2,600000.0,12-04-2007,Alm.,4166,4,Lejlighed,144,1897,
+Dalgasvej 11 7184 Vandel,11,925000.0,11-04-2007,Alm.,6954,4,Villa,133,1937,
+Hyldestien 47 7184 Vandel,47,1495000.0,10-04-2007,Alm.,27181,2,Sommerhus,55,2009,
+Hyldestien 3 7184 Vandel,3,2395000.0,09-04-2007,Alm.,19631,4,Sommerhus,122,2009,
+Hyldestien 9 7184 Vandel,9,2395000.0,04-04-2007,Alm.,19631,4,Sommerhus,122,2009,
+Hyldestien 53 7184 Vandel,53,1495000.0,04-04-2007,Alm.,27181,2,Sommerhus,55,2009,
+Hyldestien 141 7184 Vandel,141,2265000.0,04-04-2007,Alm.,20044,4,Sommerhus,113,2008,
+Hyldestien 49 7184 Vandel,49,1495000.0,03-04-2007,Alm.,27181,2,Sommerhus,55,2009,
+Hyldestien 7 7184 Vandel,7,2395000.0,01-04-2007,Alm.,19631,4,Sommerhus,122,2009,
+Hyldestien 13 7184 Vandel,13,2395000.0,01-04-2007,Alm.,19631,4,Sommerhus,122,2009,
+Hyldestien 153 7184 Vandel,153,2265000.0,31-03-2007,Alm.,20044,4,Sommerhus,113,2008,
+Hyldestien 123 7184 Vandel,123,1595000.0,25-03-2007,Alm.,22152,2,Sommerhus,72,2008,
+Hyldestien 21 7184 Vandel,21,2395000.0,25-03-2007,Alm.,19631,4,Sommerhus,122,2009,
+Hyldestien 73 7184 Vandel,73,1495000.0,25-03-2007,Alm.,27181,2,Sommerhus,55,2009,
+Hyldestien 33 7184 Vandel,33,2395000.0,25-03-2007,Alm.,19631,4,Sommerhus,122,2009,
+Hyldestien 31 7184 Vandel,31,2395000.0,25-03-2007,Alm.,19631,4,Sommerhus,122,2009,
+Hyldestien 29 7184 Vandel,29,2395000.0,25-03-2007,Alm.,19631,4,Sommerhus,122,2009,
+Hyldestien 1 7184 Vandel,1,2395000.0,25-03-2007,Alm.,19631,4,Sommerhus,122,2009,
+Hyldestien 65 7184 Vandel,65,1495000.0,25-03-2007,Alm.,27181,2,Sommerhus,55,2009,
+Hyldestien 17 7184 Vandel,17,2395000.0,25-03-2007,Alm.,19631,4,Sommerhus,122,2009,
+Hyldestien 79 7184 Vandel,79,1495000.0,25-03-2007,Alm.,27181,2,Sommerhus,55,2009,
+Hyldestien 19 7184 Vandel,19,2395000.0,25-03-2007,Alm.,19631,4,Sommerhus,122,2009,
+Hyldestien 83 7184 Vandel,83,1495000.0,25-03-2007,Alm.,27181,2,Sommerhus,55,2009,
+Hyldestien 45 7184 Vandel,45,1495000.0,25-03-2007,Alm.,27181,2,Sommerhus,55,2008,
+Hyldestien 43 7184 Vandel,43,2395000.0,25-03-2007,Alm.,19631,4,Sommerhus,122,2009,
+Hyldestien 75 7184 Vandel,75,1495000.0,25-03-2007,Alm.,27181,2,Sommerhus,55,2009,
+Hyldestien 85 7184 Vandel,85,1495000.0,25-03-2007,Alm.,27181,2,Sommerhus,55,2009,
+Hyldestien 81 7184 Vandel,81,1495000.0,25-03-2007,Alm.,27181,2,Sommerhus,55,2009,
+Hyldestien 41 7184 Vandel,41,2395000.0,25-03-2007,Alm.,19631,4,Sommerhus,122,2009,
+Hyldestien 101 7184 Vandel,101,1595000.0,25-03-2007,Alm.,22152,2,Sommerhus,72,2008,
+Hyldestien 117 7184 Vandel,117,1630000.0,25-03-2007,Alm.,22638,2,Sommerhus,72,2008,
+Hyldestien 115 7184 Vandel,115,1595000.0,25-03-2007,Alm.,22152,2,Sommerhus,72,2008,
+Hyldestien 93 7184 Vandel,93,1595000.0,25-03-2007,Alm.,22152,2,Sommerhus,72,2008,
+Hyldestien 127 7184 Vandel,127,2265000.0,25-03-2007,Alm.,20044,4,Sommerhus,113,2008,
+Hyldestien 131 7184 Vandel,131,2265000.0,25-03-2007,Alm.,20044,4,Sommerhus,113,2008,
+Hyldestien 137 7184 Vandel,137,2265000.0,25-03-2007,Alm.,20044,4,Sommerhus,113,2008,
+Hyldestien 151 7184 Vandel,151,2265000.0,25-03-2007,Alm.,20044,4,Sommerhus,113,2008,
+Hyldestien 133 7184 Vandel,133,2265000.0,25-03-2007,Alm.,20044,4,Sommerhus,113,2008,
+Hyldestien 145 7184 Vandel,145,2265000.0,25-03-2007,Alm.,20044,4,Sommerhus,113,2008,
+Hyldestien 149 7184 Vandel,149,2265000.0,25-03-2007,Alm.,20044,4,Sommerhus,113,2008,
+Hyldestien 147 7184 Vandel,147,2265000.0,25-03-2007,Alm.,20044,4,Sommerhus,113,2008,
+Hyldestien 159 7184 Vandel,159,2265000.0,25-03-2007,Alm.,20044,4,Sommerhus,113,2008,
+Hyldestien 129 7184 Vandel,129,2265000.0,25-03-2007,Alm.,20044,4,Sommerhus,113,2008,
+Hyldestien 99 7184 Vandel,99,1595000.0,24-03-2007,Alm.,22152,2,Sommerhus,72,2008,
+Hyldestien 119 7184 Vandel,119,1630000.0,24-03-2007,Alm.,22638,2,Sommerhus,72,2008,
+Hyldestien 23 7184 Vandel,23,2395000.0,24-03-2007,Alm.,19631,4,Sommerhus,122,2009,
+Hyldestien 25 7184 Vandel,25,2395000.0,24-03-2007,Alm.,19631,4,Sommerhus,122,2009,
+Hyldestien 39 7184 Vandel,39,2395000.0,24-03-2007,Alm.,19631,4,Sommerhus,122,2009,
+Hyldestien 77 7184 Vandel,77,1495000.0,24-03-2007,Alm.,27181,2,Sommerhus,55,2009,
+Hyldestien 89 7184 Vandel,89,1595000.0,24-03-2007,Alm.,22152,2,Sommerhus,72,2008,
+Hyldestien 37 7184 Vandel,37,2395000.0,24-03-2007,Alm.,19631,4,Sommerhus,122,2009,
+Hyldestien 87 7184 Vandel,87,1595000.0,24-03-2007,Alm.,22152,2,Sommerhus,72,2008,
+Hyldestien 97 7184 Vandel,97,1595000.0,24-03-2007,Alm.,22152,2,Sommerhus,72,2008,
+Hyldestien 67 7184 Vandel,67,1495000.0,24-03-2007,Alm.,27181,2,Sommerhus,55,2009,
+Hyldestien 91 7184 Vandel,91,1595000.0,24-03-2007,Alm.,22152,2,Sommerhus,72,2008,
+Hyldestien 109 7184 Vandel,109,1595000.0,24-03-2007,Alm.,22152,2,Sommerhus,72,2008,
+Hyldestien 111 7184 Vandel,111,1595000.0,24-03-2007,Alm.,22152,2,Sommerhus,72,2008,
+Hyldestien 113 7184 Vandel,113,1595000.0,24-03-2007,Alm.,22152,2,Sommerhus,72,2008,
+Hyldestien 103 7184 Vandel,103,1595000.0,24-03-2007,Alm.,22152,2,Sommerhus,72,2008,
+Hyldestien 135 7184 Vandel,135,2265000.0,24-03-2007,Alm.,20044,4,Sommerhus,113,2008,
+Hyldestien 157 7184 Vandel,157,2265000.0,24-03-2007,Alm.,20044,4,Sommerhus,113,2008,
+Hyldestien 155 7184 Vandel,155,2265000.0,24-03-2007,Alm.,20044,4,Sommerhus,113,2008,
+Fasanvej 15 7184 Vandel,15,725000.0,21-03-2007,Fam.,6196,4,Villa,117,1973,
+Østerbyvej 21 7184 Vandel,21,3000000.0,08-03-2007,Fam.,18867,6,Stuehus,159,2008,
+Gl. Stationsvej 19 7184 Vandel,19,1025000.0,08-03-2007,Alm.,6972,6,Villa,147,1949,
+Åstbyvej 29 7184 Vandel,29,500000.0,20-02-2007,Alm.,6944,5,BygningTilLager,72,1944,
+Åstvej 4 7184 Vandel,4,1462500.0,01-01-2007,Alm.,6303,7,Villa,232,1920,
+Vestbanevej 28 7184 Vandel,28,1200000.0,14-12-2006,Alm.,8333,6,Villa,144,1976,
+Dalgasvej 1 7184 Vandel,1,1325000.0,01-12-2006,Alm.,9888,3,Villa,134,1777,
+Dalgasvej 14C 7184 Vandel,0,825000.0,17-11-2006,Alm.,6818,4,Villa,121,1979,
+Dalgasvej 4 7184 Vandel,4,615000.0,31-10-2006,Alm.,5590,5,Villa,110,1930,
+Grindstedvej 16 7184 Vandel,16,574911.0,12-10-2006,Alm.,3570,8,Villa,161,1910,
+Dalgasvej 13 7184 Vandel,13,480000.0,30-08-2006,Andet,4067,6,Villa,118,1909,
+Åstbyvej 1 7184 Vandel,1,900000.0,12-06-2006,Alm.,10227,3,Villa,88,1927,
+Kastanievej 2 7184 Vandel,2,615000.0,05-06-2006,Alm.,5590,5,Villa,110,1922,
+Blomstervænget 13 7184 Vandel,13,860000.0,16-03-2006,Alm.,6991,5,Villa,123,1967,
+Mølleparken 19 7184 Vandel,19,1195000.0,21-02-2006,Alm.,6675,5,Villa,179,1974,
+Dalgasvej 15 7184 Vandel,15,450000.0,19-02-2006,Alm.,5000,4,Villa,90,1953,
+Åstbyvej 5 7184 Vandel,5,1050000.0,13-02-2006,Alm.,6213,6,Villa,169,1939,
+Blomstervænget 19 7184 Vandel,19,345153.0,18-10-2005,Andet,2079,4,Villa,166,1963,
+Gl. Stationsvej 6 7184 Vandel,6,700000.0,26-09-2005,Fam.,7777,4,Villa,90,1910,
+Randbølvej 6 7184 Vandel,6,770000.0,21-09-2005,Alm.,5347,4,Villa,144,1944,
+Blomstervænget 12 7184 Vandel,12,1100000.0,12-09-2005,Alm.,6145,6,Villa,179,1972,
+Åstbyvej 21 7184 Vandel,21,595000.0,06-09-2005,Alm.,4250,5,Villa,140,1935,
+Åstbyvej 25 7184 Vandel,25,350000.0,24-08-2005,Alm.,0,7,Villa,217,1926,
+Staghøjvej 10 7184 Vandel,10,400000.0,10-08-2005,Fam.,1724,5,Stuehus,232,1902,
+Dalgasvej 3 7184 Vandel,3,690000.0,21-07-2005,Alm.,3631,8,Villa,190,1960,
+Åstvej 6 7184 Vandel,6,900000.0,13-07-2005,Alm.,4368,8,Villa,206,1877,
+Mølleparken 34 7184 Vandel,34,265000.0,27-06-2005,Alm.,1596,5,Villa,166,2006,
+Fasanvej 8 7184 Vandel,8,963000.0,21-06-2005,Alm.,5041,6,Villa,191,1973,
+Vestbanevej 11 7184 Vandel,11,865000.0,16-06-2005,Alm.,6006,4,Villa,144,1974,
+Fuglsangvej 2 7184 Vandel,2,1210000.0,14-06-2005,Alm.,6205,4,Villa,195,1982,
+Falkevej 10 7184 Vandel,10,1095000.0,13-06-2005,Alm.,8111,5,Villa,135,1997,
+Gl. Stationsvej 30 7184 Vandel,30,950000.0,02-06-2005,Alm.,8189,4,Villa,116,1968,
+Staghøjvej 16 7184 Vandel,16,1100000.0,23-04-2005,Alm.,4761,9,Stuehus,231,1971,
+Randbølvej 7 7184 Vandel,7,625000.0,12-04-2005,Alm.,5165,4,Villa,121,1931,
+Gødsbølvej 66 7184 Vandel,66,500000.0,29-03-2005,Alm.,5050,4,Villa,99,1936,
+Rylevej 4 7184 Vandel,4,600000.0,11-03-2005,Alm.,5714,4,Villa,105,1971,
+Åstvej 8 7184 Vandel,8,1698554.0,24-02-2005,Alm.,5550,10,Stuehus,306,1910,
+Gødsbølvej 64 7184 Vandel,64,501508.0,15-12-2004,Fam.,2558,6,Villa,196,1900,
+Randbølvej 9 7184 Vandel,9,815000.0,14-12-2004,Alm.,5948,5,Villa,137,1971,
+Grindstedvej 5 7184 Vandel,5,865000.0,04-12-2004,Alm.,4805,7,Villa,180,1925,
+Mølleparken 12 7184 Vandel,12,750000.0,09-11-2004,Alm.,5859,4,Villa,128,1974,
+Ternevej 6 7184 Vandel,6,1075000.0,28-10-2004,Alm.,5842,7,Villa,184,1965,
+Fasanvej 9 7184 Vandel,9,772500.0,04-10-2004,Alm.,5184,4,Villa,149,1966,
+Østerbyvej 27 7184 Vandel,27,2865000.0,11-06-2004,Alm.,9581,10,Stuehus,299,1920,
+Falkevej 1 7184 Vandel,1,937029.0,03-06-2004,Alm.,6374,4,Villa,147,1986,
+Gøddingvej 11 7184 Vandel,11,190000.0,11-05-2004,Alm.,3166,3,Villa,60,1847,
+Hedevej 1 7184 Vandel,1,95000.0,25-03-2004,Alm.,730,5,Villa,130,1973,
+Vestbanevej 2 7184 Vandel,2,1120000.0,09-02-2004,Alm.,5258,7,Villa,213,1963,
+Lærkevej 3 7184 Vandel,3,575000.0,11-12-2003,Alm.,7371,4,Villa,78,1964,
+Gl. Stationsvej 23 7184 Vandel,23,575000.0,01-12-2003,Alm.,3685,6,Villa,156,1920,
+Grindstedvej 53 7184 Vandel,53,1050000.0,06-10-2003,Alm.,11538,3,Stuehus,91,1900,
+Gl. Stationsvej 15A 7184 Vandel,0,115000.0,02-10-2003,Alm.,741,6,Lejlighed,155,1935,
+Gl. Stationsvej 20 7184 Vandel,20,540000.0,01-10-2003,Fam.,5142,4,Villa,105,1962,
+Grindstedvej 27 7184 Vandel,27,1500000.0,17-09-2003,Alm.,5660,9,Villa,265,1916,
+Gødsbølvej 47 7184 Vandel,47,550000.0,04-09-2003,Alm.,2941,6,Villa,187,1947,
+Kastanievej 11 7184 Vandel,11,878000.0,01-08-2003,Alm.,3902,5,Stuehus,225,1930,
+Gyvelvej 10 7184 Vandel,10,517500.0,28-07-2003,Alm.,6468,4,Villa,80,1962,
+Grindstedvej 75 7184 Vandel,75,1575000.0,26-06-2003,Alm.,13125,5,Stuehus,120,1976,
+Gl. Stationsvej 34 7184 Vandel,34,380000.0,24-03-2003,Alm.,2021,6,Villa,188,1920,
+Grindstedvej 18 7184 Vandel,18,1400000.0,20-03-2003,Alm.,5283,7,Stuehus,265,1900,
+Gøddingvej 1 7184 Vandel,1,1460000.0,13-03-2003,Alm.,7263,6,Stuehus,201,1939,
+Gl. Stationsvej 10 7184 Vandel,10,600000.0,06-12-2002,Alm.,5660,4,Villa,106,1967,
+Grindstedvej 69 7184 Vandel,69,4400000.0,27-09-2002,Alm.,19130,6,Stuehus,230,1973,
+Gl. Stationsvej 16 7184 Vandel,16,425000.0,03-07-2002,Alm.,4086,4,Villa,104,1966,
+Fuglsangvej 4 7184 Vandel,4,1365000.0,03-06-2002,Alm.,7844,5,Villa,174,1996,
+Randbølvej 27 7184 Vandel,27,620000.0,26-03-2002,Alm.,5040,4,Villa,123,1959,
+Gødsbølvej 48 7184 Vandel,48,1650000.0,08-03-2002,Alm.,0,5,Stuehus,175,1900,
+Grindstedvej 8 7184 Vandel,8,800000.0,06-03-2002,Alm.,6299,4,Villa,127,1980,
+Stationsvej 1 7184 Vandel,1,620000.0,12-02-2002,Alm.,5040,4,Villa,123,1898,
+Gødsbølvej 32 7184 Vandel,32,2275000.0,10-02-2002,Alm.,6444,7,Villa,353,1830,
+Grindstedvej 11 7184 Vandel,11,403500.0,01-01-2002,Alm.,4247,4,Villa,95,1910,
+Gøddingvej 7 7184 Vandel,7,923610.0,17-12-2001,Alm.,6157,6,Stuehus,150,1977,
+Grindstedvej 9 7184 Vandel,9,350000.0,18-10-2001,Andet,6140,2,Villa,57,1956,
+Åstbyvej 34 7184 Vandel,34,60000.0,15-10-2001,Alm.,315,7,Villa,190,2002,
+Randbølvej 4 7184 Vandel,4,705000.0,06-08-2001,Alm.,4298,5,Villa,164,1921,
+Gl. Stationsvej 13 7184 Vandel,13,697000.0,07-06-2001,Alm.,4646,6,Villa,150,1935,
+Dalgasvej 14A 7184 Vandel,0,839153.0,05-05-2001,Alm.,6125,5,Villa,137,1978,
+Fasanvej 20 7184 Vandel,20,700946.0,01-05-2001,Alm.,3689,7,Villa,190,1978,
+Grindstedvej 56 7184 Vandel,56,3546398.0,19-04-2001,Alm.,15091,7,Stuehus,235,1920,
+Åstbyvej 43 7184 Vandel,43,8200000.0,22-02-2001,Alm.,40196,6,Stuehus,204,1927,
+Randbølvej 15 7184 Vandel,15,600000.0,29-05-2000,Alm.,5263,4,Villa,114,1962,
+Grindstedvej 17 7184 Vandel,17,646000.0,29-03-2000,Fam.,1945,18,Villa,332,1964,
+Mølleparken 26 7184 Vandel,26,230000.0,27-03-2000,Alm.,1654,5,Villa,139,2000,
+Vestbanevej 36 7184 Vandel,36,1070000.0,07-03-2000,Alm.,0,6,Villa,192,1975,
+Gl. Åstvej 4 7184 Vandel,4,295000.0,19-02-2000,Alm.,4338,4,Villa,68,1911,
+Skolevej 2 7184 Vandel,2,666479.0,23-12-1999,Alm.,5553,4,Villa,120,1959,
+Vestbanevej 16 7184 Vandel,16,760000.0,21-10-1999,Alm.,5507,4,Villa,138,1976,
+Blomstervænget 7 7184 Vandel,7,831304.0,23-09-1999,Alm.,7044,4,Villa,118,1968,
+Vestbanevej 5 7184 Vandel,5,1055000.0,23-06-1999,Alm.,6512,5,Villa,162,1973,
+Solbakken 6 7184 Vandel,6,1230000.0,14-06-1999,Alm.,6275,8,Villa,196,1973,
+Fasanvej 13 7184 Vandel,13,698000.0,07-06-1999,Alm.,5132,4,Villa,136,1974,
+Gyvelvej 2 7184 Vandel,2,650000.0,23-03-1999,Alm.,5803,4,Villa,112,1972,
+Firhøjevej 3 7184 Vandel,3,840000.0,23-03-1999,Alm.,6043,5,Villa,139,1900,
+Lærkevej 2 7184 Vandel,2,207196.0,08-02-1999,Fam.,1631,4,Villa,127,1954,
+Grindstedvej 64 7184 Vandel,64,1670462.0,08-12-1998,Alm.,11763,5,Stuehus,142,1928,
+Randbølvej 51 7184 Vandel,51,1638381.0,18-11-1998,Alm.,8191,6,Stuehus,200,1910,
+Vestbanevej 8 7184 Vandel,8,790000.0,06-11-1998,Alm.,5895,5,Villa,134,1977,
+Lærkevej 4 7184 Vandel,4,514516.0,31-08-1998,Alm.,6431,3,Villa,80,1960,
+Randbølvej 13 7184 Vandel,13,646719.0,13-07-1998,Alm.,6599,4,Villa,98,1964,
+Falkevej 9 7184 Vandel,9,75000.0,16-06-1998,Alm.,513,5,Villa,146,1998,
+Vestbanevej 1 7184 Vandel,1,700000.0,06-05-1998,Alm.,0,4,Villa,186,1966,
+Vestbanevej 32 7184 Vandel,32,738000.0,29-04-1998,Alm.,4193,6,Villa,176,1974,
+Fasanvej 2 7184 Vandel,2,636438.0,30-03-1998,Alm.,5582,4,Villa,114,1969,
+Solbakken 3 7184 Vandel,3,578000.0,10-03-1998,Alm.,3753,5,Villa,154,1950,
+Vestbanevej 7 7184 Vandel,7,590000.0,09-03-1998,Alm.,4244,4,Villa,139,1973,
+Dalgasvej 16 7184 Vandel,16,610000.0,12-02-1998,Alm.,4841,6,Villa,126,1939,
+Mølleparken 15 7184 Vandel,15,1510000.0,20-10-1997,Alm.,6863,6,Villa,220,1971,
+Åstbyvej 36 7184 Vandel,36,738746.0,08-10-1997,Alm.,0,5,Villa,240,1857,
+Gødsbølvej 56 7184 Vandel,56,76443.0,24-09-1997,Fam.,910,2,Villa,84,1677,
+Åstbyvej 45 7184 Vandel,45,532528.0,05-09-1997,Alm.,3803,5,Villa,140,1900,
+Randbølvej 22 7184 Vandel,22,738262.0,01-08-1997,Alm.,6364,3,Villa,116,1976,
+Vestbanevej 20 7184 Vandel,20,1110000.0,30-05-1997,Alm.,3700,8,Villa,300,1975,
+Mølleparken 23 7184 Vandel,23,243646.0,06-03-1997,Fam.,2030,4,Villa,120,1976,
+"Grindstedvej 40, 1 7184 Vandel",1,400000.0,18-02-1997,Alm.,11428,2,Anden beboelse,35,1954,
+Åstvej 2 7184 Vandel,2,2721000.0,10-09-1996,Alm.,0,10,Stuehus,249,1984,
+Randbølvej 32 7184 Vandel,32,655400.0,12-07-1996,Alm.,4819,4,Villa,136,1977,
+Falkevej 8 7184 Vandel,8,79360.0,12-07-1996,Alm.,640,4,Villa,124,1996,
+Åstbyvej 35 7184 Vandel,35,433196.0,03-07-1996,Alm.,2062,6,Villa,210,1969,
+Fasanvej 23A 7184 Vandel,0,787000.0,24-06-1996,Alm.,5465,5,Villa,144,1979,
+Mølleparken 4A 7184 Vandel,0,295000.0,22-02-1996,Alm.,2438,4,Villa,121,1900,
+Åstbyvej 32 7184 Vandel,32,540000.0,14-02-1996,Alm.,4153,4,Villa,130,1950,
+Åstvej 9 7184 Vandel,9,623221.0,04-02-1996,Alm.,2299,8,Villa,271,2010,
+Gyvelvej 8 7184 Vandel,8,376000.0,17-11-1995,Alm.,2647,6,Villa,142,1927,
+Grindstedvej 51 7184 Vandel,51,725000.0,31-08-1995,Alm.,4367,5,Villa,166,2001,
+Grindstedvej 2 7184 Vandel,2,313480.0,26-07-1995,Alm.,1761,6,Villa,178,1940,
+Vestbanevej 4 7184 Vandel,4,607000.0,16-03-1995,Alm.,3841,5,Villa,158,1967,
+Mølleparken 10 7184 Vandel,10,625000.0,05-03-1995,Alm.,3834,5,Villa,163,1974,
+Grindstedvej 90 7184 Vandel,90,997299.0,23-02-1995,Alm.,5866,5,Villa,170,1996,
+Gødsbølvej 30 7184 Vandel,30,685000.0,19-02-1995,Alm.,6401,4,Stuehus,107,1923,
+Randbølvej 30 7184 Vandel,30,430000.0,22-01-1995,Fam.,2443,7,Villa,176,1976,
+Mølleparken 11B 7184 Vandel,0,582000.0,28-11-1994,Alm.,0,5,Villa,148,1977,
+Gl. Stationsvej 28 7184 Vandel,28,430000.0,06-09-1994,Alm.,3839,4,Villa,112,1968,
+Dalgasvej 19 7184 Vandel,19,357580.0,26-08-1994,Alm.,3341,4,Villa,107,1900,
+Dalgasvej 8 7184 Vandel,8,552000.0,08-06-1994,Alm.,2083,6,Villa,265,1948,
+Fasanvej 1 7184 Vandel,1,429000.0,23-03-1994,Alm.,3605,4,Villa,119,1965,
+Vestbanevej 46 7184 Vandel,46,962500.0,18-03-1994,Alm.,4296,6,Villa,224,1998,
+Vestbanevej 34 7184 Vandel,34,525000.0,04-12-1993,Alm.,3917,5,Villa,134,1976,
+Grindstedvej 74 7184 Vandel,74,776900.0,12-10-1993,Fam.,5471,5,Stuehus,142,1962,
+Gøddingvej 12 7184 Vandel,12,600000.0,10-09-1993,Fam.,2970,7,Stuehus,202,1963,
+Randbølvej 29 7184 Vandel,29,420830.0,10-08-1993,Alm.,2581,6,Villa,163,1953,
+Blomstervænget 1 7184 Vandel,1,585000.0,22-07-1993,Alm.,3656,4,Villa,160,1973,
+Fasanvej 23B 7184 Vandel,0,570000.0,25-02-1993,Alm.,4285,4,Villa,133,1979,
+Blomstervænget 17 7184 Vandel,17,342000.0,14-12-1992,Alm.,3489,4,Villa,98,1964,
+Østerbyvej 15 7184 Vandel,15,325000.0,21-09-1992,Alm.,1946,7,Villa,167,1877,
+Dalgasvej 14B 7184 Vandel,0,490000.0,09-09-1992,Alm.,4336,4,Villa,113,1978,
+Stavnkærvej 4 7184 Vandel,4,78000.0,16-06-1992,Alm.,0,6,Villa,273,1890,
+Stationsvej 5 7184 Vandel,5,493500.0,26-05-1992,Fam.,4935,4,Villa,100,1948,
+Mølleparken 11A 7184 Vandel,0,125000.0,25-04-1992,Alm.,1008,4,Villa,124,1993,
+Kastanievej 51 7184 Vandel,51,590000.0,14-04-1992,Alm.,3172,6,Stuehus,186,1887,

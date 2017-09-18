@@ -1,0 +1,813 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Paradisbakkevejen 6 3740 Svaneke,6,647500.0,08-05-2017,Fam.,2490,10,Stuehus,260,1845,
+Sander Dichsgade 8 3740 Svaneke,8,250000.0,03-05-2017,Fam.,1275,10,Villa,196,1876,
+Bølshavn 20 3740 Svaneke,20,690000.0,27-04-2017,Alm.,5847,6,Villa,118,1948,-5 %
+Gaden 32 3740 Svaneke,32,1775000.0,19-04-2017,Alm.,14915,9,Villa,119,1954,-1 %
+Svanebakken 11 3740 Svaneke,11,3500000.0,18-04-2017,Alm.,29166,5,Sommerhus,120,2001,0 %
+Mosedalsvej 17 3740 Svaneke,17,1465000.0,03-04-2017,Alm.,7961,6,Villa,184,1959,-11 %
+Vestergade 31 3740 Svaneke,31,938320.0,02-04-2017,Alm.,9383,4,Villa,100,1907,
+Lillehøjsvej 3 3740 Svaneke,3,1175000.0,24-03-2017,Alm.,10779,5,Villa,109,1907,-21 %
+Postgade 5 3740 Svaneke,5,1150000.0,08-03-2017,Alm.,11500,3,Villa,100,1875,
+Ahornvej 4 3740 Svaneke,4,1295000.0,07-03-2017,Alm.,10882,5,Villa,119,1898,
+"Borgergade 9, 1 3740 Svaneke",1,1750000.0,23-02-2017,Alm.,21084,3,Fritid,83,1967,-7 %
+Storegade 15 3740 Svaneke,15,1275000.0,22-02-2017,Alm.,11383,3,Villa,112,1818,0 %
+Klippegade 8 3740 Svaneke,8,1010000.0,10-02-2017,Alm.,11222,2,Villa,90,1857,13 %
+Gryneparken 28 3740 Svaneke,28,1560000.0,01-02-2017,Alm.,9341,5,Villa,167,1986,
+Egevej 1 3740 Svaneke,1,885000.0,09-01-2017,Alm.,8271,3,Villa,107,1900,-4 %
+Sander Dichsgade 9 3740 Svaneke,9,2150000.0,06-01-2017,Alm.,14238,6,Villa,151,1800,-1 %
+Strandvejen 12 3740 Svaneke,12,1425000.0,05-01-2017,Alm.,17812,3,Villa,80,1777,
+Gryneparken 3 3740 Svaneke,3,830000.0,05-01-2017,Alm.,5886,4,Villa,141,1980,-12 %
+Østermarievej 13 3740 Svaneke,13,2835000.0,29-12-2016,Alm.,18057,5,Stuehus,157,1832,
+Skolekrogen 10 3740 Svaneke,10,1200000.0,28-12-2016,Alm.,7594,4,Villa,158,1898,0 %
+Hellig Kilde 1 3740 Svaneke,1,470000.0,20-12-2016,Alm.,4392,4,Villa,107,1881,-66 %
+Brugsebakken 9 3740 Svaneke,9,535500.0,30-11-2016,Fam.,11900,2,Sommerhus,45,1850,
+Gaden 19 3740 Svaneke,19,600000.0,24-11-2016,Alm.,5825,2,Villa,103,1923,
+Sander Dichsgade 2 3740 Svaneke,2,3900000.0,21-11-2016,Alm.,19024,7,Villa,205,1857,
+Storegade 34 3740 Svaneke,34,1995000.0,18-11-2016,Alm.,8044,6,Villa,248,1857,0 %
+Henrik Hansensgade 7 3740 Svaneke,7,1075000.0,18-11-2016,Alm.,14333,3,Rækkehus,75,1861,0 %
+Kirkebakken 7 3740 Svaneke,7,263500.0,16-11-2016,Andet,2661,4,Rækkehus,99,1850,
+Gavlegade 2 3740 Svaneke,2,367014.0,14-11-2016,Fam.,2513,6,Villa,146,1727,
+Urmarken 27 3740 Svaneke,27,875000.0,11-11-2016,Alm.,7882,4,Villa,111,1923,-12 %
+Urmarken 1 3740 Svaneke,1,700000.0,08-11-2016,Fam.,7216,4,Villa,97,1890,
+Munken 7 3740 Svaneke,7,1462500.0,05-11-2016,Alm.,11890,6,Rækkehus,123,1834,0 %
+Hellig Kilde 8 3740 Svaneke,8,3875000.0,24-10-2016,Alm.,28079,4,Villa,138,1761,0 %
+Mosedalsvej 12 3740 Svaneke,12,300000.0,23-10-2016,Fam.,5454,3,Villa,55,1827,
+Lindholmsvej 6 3740 Svaneke,6,465000.0,19-10-2016,Alm.,3369,4,Villa,138,1877,-6 %
+Storegade 38 3740 Svaneke,38,500000.0,12-10-2016,Alm.,5813,4,Rækkehus,86,1925,
+Byfogedvej 2 3740 Svaneke,2,800000.0,09-10-2016,Alm.,2614,17,Stuehus,306,1828,
+Gavlegade 3 3740 Svaneke,3,892500.0,03-10-2016,Alm.,8341,5,Villa,107,1877,
+Askelundsvej 13 3740 Svaneke,13,1250000.0,30-09-2016,Alm.,15822,6,Sommerhus,79,1984,0 %
+Bølshavn 16 3740 Svaneke,16,1500000.0,27-09-2016,Alm.,9146,4,Sommerhus,164,1938,-6 %
+Østermarievej 10 3740 Svaneke,10,2000000.0,25-09-2016,Alm.,8333,6,Villa,240,1909,
+Indenmarken 14 3740 Svaneke,14,1250000.0,21-09-2016,Alm.,7668,7,Villa,163,1960,
+Storegade 18 3740 Svaneke,18,1200000.0,15-09-2016,Alm.,4615,6,Villa,260,1911,0 %
+Postgade 8 3740 Svaneke,8,1049000.0,09-09-2016,Alm.,6597,7,Sommerhus,159,1850,
+Reberbanevej 12 3740 Svaneke,12,575000.0,06-09-2016,Fam.,8984,3,Villa,64,1830,
+Hans Thygesensvej 30 3740 Svaneke,30,745000.0,02-09-2016,Alm.,5477,6,Villa,136,1917,0 %
+Hellig Kilde 9 3740 Svaneke,9,2095000.0,24-08-2016,Alm.,17458,4,Villa,120,1856,
+I Bakkerne 27 3740 Svaneke,27,850000.0,23-08-2016,Alm.,7327,4,Villa,116,1967,0 %
+Urmarken 35 3740 Svaneke,35,2500000.0,22-08-2016,Alm.,13888,6,Villa,180,1948,-11 %
+Stengade 1 3740 Svaneke,1,1300000.0,18-08-2016,Alm.,11111,6,Rækkehus,117,1897,-7 %
+Gaden 36 3740 Svaneke,36,1050000.0,15-08-2016,Alm.,8677,4,Villa,121,1951,-9 %
+Klippegade 5 3740 Svaneke,5,925000.0,12-08-2016,Alm.,10882,5,Villa,85,1887,-5 %
+Pælevej 1 3740 Svaneke,1,895000.0,25-07-2016,Alm.,6780,4,Villa,132,1976,0 %
+Korshøje 11 3740 Svaneke,11,1060000.0,21-07-2016,Alm.,8760,5,Villa,121,1800,21 %
+Degnebrovejen 6 3740 Svaneke,6,8270584.0,30-06-2016,Andet,46991,8,Stuehus,176,1868,
+Lille Plads 1 3740 Svaneke,1,1495000.0,29-06-2016,Alm.,13230,4,Rækkehus,113,1827,0 %
+Bølsbakke 6 3740 Svaneke,6,1800000.0,18-06-2016,Alm.,30000,3,Sommerhus,60,1981,0 %
+Tempelvej 4 3740 Svaneke,4,840000.0,17-06-2016,Alm.,9333,3,Villa,90,1867,-6 %
+Storegade 42 3740 Svaneke,42,1050000.0,16-06-2016,Alm.,9633,4,Villa,109,1921,-12 %
+Skarvigen 4 3740 Svaneke,4,745000.0,15-06-2016,Alm.,7376,3,Villa,101,1929,0 %
+Gaden 21 3740 Svaneke,21,1265000.0,03-06-2016,Alm.,6988,5,Villa,181,1770,
+Anders Måns Stræde 1 3740 Svaneke,1,1250000.0,31-05-2016,Alm.,15243,4,Villa,82,1825,
+Anders Måns Stræde 9 3740 Svaneke,9,875000.0,26-05-2016,Alm.,32407,1,Sommerhus,27,1827,0 %
+Mor Markers Gænge 5 3740 Svaneke,5,1400000.0,25-05-2016,Alm.,24137,3,Sommerhus,58,1900,-6 %
+Kirkebakken 5 3740 Svaneke,5,1395000.0,23-05-2016,Alm.,7750,7,Rækkehus,180,1856,
+Bølsbakke 8 3740 Svaneke,8,925000.0,19-05-2016,Alm.,12500,5,Sommerhus,74,1962,-5 %
+Kirkebakken 6 3740 Svaneke,6,3350000.0,13-05-2016,Alm.,12007,3,Villa,279,1830,
+Sortehølsvejen 2 3740 Svaneke,2,675000.0,06-05-2016,Alm.,4218,6,Villa,160,1899,-7 %
+Møllevej 1 3740 Svaneke,1,1255000.0,02-05-2016,Alm.,9365,7,Villa,134,1800,26 %
+Aarsdalevej 43 3740 Svaneke,43,995000.0,02-05-2016,Alm.,15793,3,Sommerhus,63,1950,
+Mosedalsvej 40 3740 Svaneke,40,3150000.0,01-05-2016,Alm.,42567,4,Sommerhus,74,1946,
+Gaden 26 3740 Svaneke,26,1160000.0,24-04-2016,Alm.,4584,6,Villa,253,1922,-17 %
+Askelundsvej 20 3740 Svaneke,20,1025000.0,11-04-2016,Alm.,13486,5,Sommerhus,76,1978,-2 %
+Norre Bakke 10 3740 Svaneke,10,795000.0,11-04-2016,Alm.,7361,4,Villa,108,1967,0 %
+Byfogedbakken 1 3740 Svaneke,1,1850000.0,24-03-2016,Alm.,11077,5,Villa,167,1895,0 %
+Gaden 5 3740 Svaneke,5,825000.0,20-03-2016,Alm.,8088,4,Villa,102,1811,0 %
+Vippebakke 1 3740 Svaneke,1,2495000.0,15-03-2016,Alm.,17206,5,Villa,145,1805,0 %
+Skolebakken 4 3740 Svaneke,4,935000.0,15-03-2016,Fam.,4605,6,Villa,203,1873,
+Urmarken 17 3740 Svaneke,17,2700000.0,15-03-2016,Alm.,19285,6,Villa,140,1930,
+Østermarievej 5 3740 Svaneke,5,350000.0,15-03-2016,Alm.,2413,7,Stuehus,145,1870,
+Ibskervej 35 3740 Svaneke,35,7410576.0,14-03-2016,Fam.,27446,6,Stuehus,270,1887,
+Havnebakken 2 3740 Svaneke,2,1200000.0,09-03-2016,Fam.,5263,9,Villa,228,1853,
+Anders Måns Stræde 5 3740 Svaneke,5,1050000.0,09-03-2016,Alm.,19444,3,Sommerhus,54,1873,6 %
+Bølsbakke 11 3740 Svaneke,11,975000.0,01-03-2016,Fam.,13175,6,Sommerhus,74,1962,
+Byledsbakke 1 3740 Svaneke,1,710000.0,28-02-2016,Alm.,5966,5,Villa,119,1850,-3 %
+Søndergade 17 3740 Svaneke,17,860000.0,22-02-2016,Alm.,8113,4,Rækkehus,106,1825,-4 %
+Skarvigen 7 3740 Svaneke,7,285000.0,08-02-2016,Alm.,2375,4,Villa,120,1827,-5 %
+Madvigsgade 10 3740 Svaneke,10,550000.0,25-01-2016,Auktion,6962,2,Villa,79,1900,
+Åvej 8 3740 Svaneke,8,835000.0,21-01-2016,Alm.,13253,3,Sommerhus,63,1971,-7 %
+Oluf Høstgade 7 3740 Svaneke,7,995000.0,19-01-2016,Alm.,8432,3,Villa,118,1888,
+Vestergade 21 3740 Svaneke,21,350000.0,23-12-2015,Alm.,4117,2,Rækkehus,85,1817,-11 %
+Storegade 8 3740 Svaneke,8,1275000.0,21-12-2015,Alm.,10450,5,Villa,122,1761,
+Askelundsvej 15 3740 Svaneke,15,1150000.0,16-12-2015,Alm.,20175,3,Sommerhus,57,1986,-11 %
+Svinget 4 3740 Svaneke,4,1075000.0,09-12-2015,Alm.,8600,5,Villa,125,1861,0 %
+Strandvejen 27 3740 Svaneke,27,1425000.0,08-12-2015,Alm.,7916,4,Villa,180,1961,-20 %
+Skovstien 11 3740 Svaneke,11,1402500.0,08-12-2015,Fam.,11885,5,Sommerhus,118,1928,
+Stengade 15 3740 Svaneke,15,695000.0,03-12-2015,Alm.,9266,5,Villa,75,1845,0 %
+Hellig Kilde 13 3740 Svaneke,13,1550000.0,26-11-2015,Alm.,14622,4,Villa,106,1897,
+Bølshavn 60 3740 Svaneke,60,1090000.0,25-11-2015,Fam.,9732,4,Sommerhus,112,1800,
+Hans Thygesensvej 29 3740 Svaneke,29,2000000.0,13-11-2015,Alm.,10362,9,Villa,193,1877,
+Duebakken 4 3740 Svaneke,4,300000.0,26-10-2015,Fam.,9375,3,Sommerhus,32,1962,
+Gavlegade 13 3740 Svaneke,13,870000.0,12-10-2015,Alm.,4123,8,Rækkehus,211,1818,0 %
+Oksemyrevejen 3 3740 Svaneke,3,2995000.0,12-10-2015,Alm.,10363,8,Villa,289,1900,0 %
+Elmevej 8 3740 Svaneke,8,1360000.0,28-09-2015,Alm.,12592,3,Villa,108,1880,-3 %
+Norre Bakke 4 3740 Svaneke,4,625000.0,23-09-2015,Alm.,4807,8,Villa,130,1962,-4 %
+Aarsdale Kirkevej 5 3740 Svaneke,5,94900.0,21-09-2015,Alm.,539,8,Stuehus,176,1852,
+Degnebrovejen 12 3740 Svaneke,12,1050000.0,16-09-2015,Alm.,5329,6,Stuehus,197,1978,-5 %
+Brugsebakken 4 3740 Svaneke,4,450000.0,14-09-2015,Alm.,9000,2,Sommerhus,50,1930,0 %
+Hellig Kilde 3 3740 Svaneke,3,762500.0,31-08-2015,Alm.,9531,2,Villa,80,1868,
+Bølshavn 29A 3740 Svaneke,0,850000.0,24-08-2015,Fam.,8762,5,Villa,97,1960,
+Duebakken 12 3740 Svaneke,12,1017000.0,24-08-2015,Alm.,19557,4,Sommerhus,52,1962,
+Norre Næbbe 1 3740 Svaneke,1,1150000.0,19-08-2015,Alm.,10454,3,Villa,110,1912,0 %
+Højevejen 6 3740 Svaneke,6,1000000.0,14-08-2015,Alm.,3401,11,Stuehus,294,1777,
+Madvigsgade 8 3740 Svaneke,8,645000.0,03-08-2015,Alm.,8062,4,Villa,80,1875,-6 %
+Strandstien 10 3740 Svaneke,10,1200000.0,03-08-2015,Alm.,13186,2,Villa,91,1907,-40 %
+Gryneparken 26 3740 Svaneke,26,1700000.0,28-07-2015,Alm.,9659,4,Villa,176,1982,
+Gulehaldstræde 2 3740 Svaneke,2,1226000.0,23-07-2015,Alm.,12510,4,Villa,98,1938,17 %
+Gryneparken 30 3740 Svaneke,30,740000.0,21-07-2015,Alm.,5736,4,Villa,129,1984,-7 %
+Fiskergade 5 3740 Svaneke,5,575000.0,15-07-2015,Alm.,6686,3,Rækkehus,86,1900,-12 %
+Møllebakken 5 3740 Svaneke,5,650000.0,03-07-2015,Andet,3494,5,Villa,186,1977,
+Nansensgade 9 3740 Svaneke,9,995000.0,02-07-2015,Alm.,5527,7,Villa,180,1852,0 %
+Paradisbakkevejen 21 3740 Svaneke,21,1695000.0,30-06-2015,Alm.,13669,3,Stuehus,124,1850,
+Gaden 13 3740 Svaneke,13,1295000.0,30-06-2015,Alm.,10360,3,Villa,125,1886,0 %
+Storegade 11 3740 Svaneke,11,550000.0,29-06-2015,Alm.,0,7,Villa,174,1888,-8 %
+Svinget 6 3740 Svaneke,6,1495000.0,29-06-2015,Alm.,11679,6,Villa,128,1850,0 %
+"Postgade 2B, ST 3740 Svaneke",0,850000.0,24-06-2015,Alm.,6967,3,Lejlighed,122,1877,-5 %
+Bølshavnvej 10 3740 Svaneke,10,625000.0,24-06-2015,Alm.,11363,4,Sommerhus,55,1872,0 %
+Strandstien 22A 3740 Svaneke,0,629000.0,15-06-2015,Alm.,9388,3,Sommerhus,67,1885,
+Svanebakken 4 3740 Svaneke,4,2090000.0,26-05-2015,Andet,17563,5,Sommerhus,119,2001,
+Helgolandsgade 6 3740 Svaneke,6,950000.0,20-05-2015,Alm.,10326,4,Villa,92,1761,
+Madvigsgade 14 3740 Svaneke,14,1385000.0,20-05-2015,Alm.,12366,4,Villa,112,1897,
+Brøddan 5 3740 Svaneke,5,366300.0,16-05-2015,Fam.,4309,4,Sommerhus,85,1850,
+Vigebakke 7 3740 Svaneke,7,1487500.0,16-05-2015,Fam.,6670,7,Villa,223,1843,
+Tempelvej 7C 3740 Svaneke,0,1870000.0,11-05-2015,Fam.,12142,6,Sommerhus,154,1995,
+Aarsdalevej 59 3740 Svaneke,59,1800000.0,05-05-2015,Alm.,9677,7,Villa,186,1870,-10 %
+Lillehøjsvej 1 3740 Svaneke,1,499000.0,30-04-2015,Fam.,6237,3,Villa,80,1969,
+Bølsbakke 3 3740 Svaneke,3,795000.0,30-04-2015,Alm.,18488,2,Sommerhus,43,1964,0 %
+Vestergade 19 3740 Svaneke,19,750000.0,28-04-2015,Alm.,8241,3,Rækkehus,91,1800,-6 %
+Reberbanevej 13 3740 Svaneke,13,500000.0,27-04-2015,Alm.,6097,3,Rækkehus,82,1800,
+Korshøje 22 3740 Svaneke,22,595000.0,27-04-2015,Alm.,3966,5,Villa,150,1924,0 %
+Gaden 28 3740 Svaneke,28,670000.0,26-04-2015,Alm.,7444,5,Villa,90,1870,-4 %
+Skolekrogen 4 3740 Svaneke,4,262500.0,14-04-2015,Alm.,1268,6,Villa,207,1915,
+Søndergade 16 3740 Svaneke,16,600000.0,31-03-2015,Alm.,4137,4,Villa,145,1909,-14 %
+Reberbanevej 8 3740 Svaneke,8,350000.0,25-03-2015,Alm.,4320,2,Villa,81,1815,-22 %
+Egevej 3 3740 Svaneke,3,300000.0,24-03-2015,Alm.,4000,2,Rækkehus,75,1750,-13 %
+Askelundsvej 9 3740 Svaneke,9,675000.0,19-03-2015,Alm.,11440,4,Sommerhus,59,1984,
+Strandvejen 9A 3740 Svaneke,0,510000.0,12-03-2015,Alm.,4766,4,Rækkehus,107,1800,-11 %
+Kirkevej 7 3740 Svaneke,7,600000.0,03-03-2015,Alm.,4026,5,Villa,149,1965,-14 %
+Albret Wolfsensgade 3 3740 Svaneke,3,365000.0,03-03-2015,Alm.,3650,4,Villa,100,1964,-33 %
+Bølsbakke 23 3740 Svaneke,23,500000.0,02-03-2015,Fam.,6250,6,Sommerhus,80,1962,
+Per Jørns Vej 6 3740 Svaneke,6,550000.0,28-02-2015,Alm.,6707,3,Rækkehus,82,1877,0 %
+Duebakken 20 3740 Svaneke,20,518500.0,24-02-2015,Fam.,8500,4,Sommerhus,61,1962,
+Elmevej 1 3740 Svaneke,1,525000.0,14-02-2015,Alm.,4646,3,Villa,113,1850,-19 %
+Svaneke Torv 4 3740 Svaneke,4,750000.0,09-02-2015,Alm.,7352,3,Villa,102,1858,-6 %
+Gulehaldstræde 6 3740 Svaneke,6,1375000.0,08-02-2015,Alm.,9353,4,Villa,147,1926,-18 %
+Højevejen 8 3740 Svaneke,8,800000.0,14-01-2015,Alm.,1869,17,Stuehus,428,1800,
+Albret Wolfsensgade 24 3740 Svaneke,24,695000.0,14-01-2015,Alm.,5791,4,Villa,120,1967,-9 %
+Søndergade 5 3740 Svaneke,5,860000.0,18-12-2014,Andet,8958,4,Villa,96,1839,-4 %
+Storegade 22 3740 Svaneke,22,1100000.0,17-12-2014,Alm.,4824,13,Villa,228,1761,
+Strandvejen 15 3740 Svaneke,15,1125000.0,12-12-2014,Alm.,5569,6,Villa,202,1876,-13 %
+Gryneparken 2B 3740 Svaneke,0,1685000.0,08-12-2014,Alm.,11701,5,Villa,144,2007,
+Skovstien 7 3740 Svaneke,7,900000.0,06-12-2014,Fam.,5263,6,Sommerhus,171,1857,
+Hans Thygesensvej 19 3740 Svaneke,19,1750000.0,28-11-2014,Alm.,8027,7,Villa,218,1848,-30 %
+Skarvigen 16 3740 Svaneke,16,1420000.0,10-11-2014,Alm.,16136,3,Villa,88,1895,
+Norre Næbbe 3 3740 Svaneke,3,500000.0,28-10-2014,Alm.,5813,3,Villa,86,1887,-8 %
+Bølshavn 37 3740 Svaneke,37,1147500.0,28-10-2014,Fam.,18811,3,Sommerhus,61,1971,
+Lyrsbyvej 40 3740 Svaneke,40,18094500.0,21-10-2014,Alm.,75393,9,Stuehus,240,1880,
+Reberbanevej 16 3740 Svaneke,16,500000.0,09-10-2014,Fam.,5494,5,Sommerhus,91,1827,
+Storegade 14 3740 Svaneke,14,1250000.0,09-10-2014,Alm.,6038,5,Villa,207,1850,-15 %
+Postgade 15 3740 Svaneke,15,1450000.0,07-10-2014,Alm.,12608,5,Villa,115,1895,
+Postgade 7 3740 Svaneke,7,1450000.0,06-10-2014,Andet,11328,5,Rækkehus,128,1900,
+Oksemyrevejen 9A 3740 Svaneke,0,1785000.0,03-10-2014,Alm.,6787,7,Villa,263,1825,0 %
+Bølshavn 12 3740 Svaneke,12,319500.0,02-10-2014,Fam.,1868,5,Sommerhus,171,1728,-72 %
+Munken 8 3740 Svaneke,8,650000.0,25-09-2014,Alm.,6632,3,Rækkehus,98,1969,-7 %
+Brugsebakken 14 3740 Svaneke,14,480000.0,17-09-2014,Alm.,4948,2,Villa,97,1860,-3 %
+Pælevej 12 3740 Svaneke,12,880000.0,12-09-2014,Alm.,4631,5,Villa,190,1976,
+Mosedalsvej 6 3740 Svaneke,6,1800000.0,29-08-2014,Alm.,20454,5,Villa,88,1877,-10 %
+Nansensgade 4 3740 Svaneke,4,900000.0,29-08-2014,Alm.,6122,8,Villa,147,1889,-25 %
+Urmarken 21 3740 Svaneke,21,2375000.0,28-08-2014,Alm.,17592,5,Sommerhus,135,1986,-5 %
+Strandvejen 17 3740 Svaneke,17,1450000.0,26-08-2014,Alm.,12393,3,Villa,117,1810,-14 %
+Bølshavn 14A 3740 Svaneke,0,1500000.0,18-08-2014,Alm.,10000,5,Villa,150,1780,-5 %
+Sdr Aarsdalevej 7 3740 Svaneke,7,1200000.0,12-08-2014,Alm.,5940,5,Villa,202,1960,-4 %
+Bølsbakke 14 3740 Svaneke,14,1750000.0,12-08-2014,Alm.,17500,5,Sommerhus,100,1967,0 %
+Åvej 5 3740 Svaneke,5,900000.0,11-08-2014,Alm.,16363,3,Sommerhus,55,1971,-10 %
+Mosedalsvej 27 3740 Svaneke,27,725000.0,04-08-2014,Alm.,7631,4,Villa,95,1947,-12 %
+Skolebakken 1 3740 Svaneke,1,825000.0,31-07-2014,Alm.,15000,3,Villa,55,1827,0 %
+Strandvejen 19 3740 Svaneke,19,1075000.0,21-07-2014,Alm.,9953,4,Rækkehus,108,1860,0 %
+Nansensgade 10 3740 Svaneke,10,300000.0,14-07-2014,Alm.,2500,4,Rækkehus,120,1880,-13 %
+Vestergade 2A 3740 Svaneke,0,1200000.0,07-07-2014,Alm.,5240,6,Villa,229,1976,-4 %
+Skovgade 21 3740 Svaneke,21,1400000.0,04-06-2014,Alm.,11965,5,Villa,117,1904,-11 %
+Vigebakke 1B 3740 Svaneke,0,479000.0,02-06-2014,Auktion,5042,3,Villa,95,1847,-52 %
+Søndergade 28 3740 Svaneke,28,455000.0,26-05-2014,Alm.,4892,3,Rækkehus,93,1851,-13 %
+Albret Wolfsensgade 25B 3740 Svaneke,0,1700000.0,20-05-2014,Alm.,18888,4,Sommerhus,90,1970,0 %
+Ved Parken 7 3740 Svaneke,7,675000.0,13-05-2014,Alm.,3629,6,Villa,186,1980,
+Madvigsgade 4 3740 Svaneke,4,1970000.0,05-05-2014,Alm.,13680,3,Sommerhus,144,1761,
+Skolebakken 5 3740 Svaneke,5,500000.0,02-05-2014,Alm.,8928,23,Servicevirksomhed,56,1902,
+Søndergade 10 3740 Svaneke,10,795000.0,23-04-2014,Alm.,8281,5,Rækkehus,96,1845,-4 %
+Postgade 17 3740 Svaneke,17,450000.0,22-04-2014,Alm.,4205,3,Villa,107,1750,-10 %
+Svanekevej 65 3740 Svaneke,65,525000.0,14-04-2014,Alm.,4233,8,Villa,124,1861,
+Svanekevej 67 3740 Svaneke,67,1300000.0,18-03-2014,Alm.,6403,6,Villa,203,1878,-7 %
+Gaden 38 3740 Svaneke,38,1925000.0,10-03-2014,Alm.,12183,6,Villa,158,1920,-4 %
+Degnebrovejen 13 3740 Svaneke,13,90000.0,10-03-2014,Auktion,947,5,Villa,95,1943,
+Østermarievej 12 3740 Svaneke,12,13835000.0,25-02-2014,Alm.,58622,14,Stuehus,236,1905,
+Ibskervej 47 3740 Svaneke,47,1295000.0,24-02-2014,Alm.,5019,9,Stuehus,258,1800,-6 %
+Reberbanevej 4 3740 Svaneke,4,345000.0,21-02-2014,Alm.,5149,3,Villa,67,1922,0 %
+Urmarken 6 3740 Svaneke,6,600000.0,17-02-2014,Alm.,3636,4,Villa,165,1956,-37 %
+Dyrlæge Jürgensensgade 11 3740 Svaneke,11,663000.0,07-02-2014,Fam.,3662,9,Villa,181,1970,
+Bølshavn 49 3740 Svaneke,49,1200000.0,04-02-2014,Alm.,25000,3,Sommerhus,48,1932,-14 %
+Møllevej 11 3740 Svaneke,11,565000.0,23-01-2014,Alm.,4094,4,Villa,138,1909,-19 %
+I Bakkerne 33 3740 Svaneke,33,500000.0,23-01-2014,Alm.,3759,4,Villa,133,1970,0 %
+Paradisbakkevejen 2 3740 Svaneke,2,231972.0,15-01-2014,Alm.,711,10,Stuehus,326,1852,
+Ibskervej 42 3740 Svaneke,42,108846.0,15-01-2014,Alm.,877,5,Stuehus,124,1913,
+Bølshavn 36 3740 Svaneke,36,200250.0,06-01-2014,Fam.,3080,4,Sommerhus,65,1898,
+Vestergade 16 3740 Svaneke,16,545000.0,02-01-2014,Alm.,5736,3,Villa,95,1827,-8 %
+Bølshavn 15 3740 Svaneke,15,1200000.0,02-01-2014,Fam.,15384,4,Sommerhus,78,1778,
+Søndergade 3 3740 Svaneke,3,580000.0,13-12-2013,Alm.,5742,4,Villa,101,1909,-17 %
+Udsigten 8 3740 Svaneke,8,400000.0,10-12-2013,Alm.,2259,5,Sommerhus,177,2015,
+Brugsebakken 3 3740 Svaneke,3,250000.0,02-12-2013,Alm.,3333,4,Villa,75,1898,
+Veidichstræde 2 3740 Svaneke,2,300000.0,29-11-2013,Alm.,2702,4,Villa,111,1877,-8 %
+Søndergade 14 3740 Svaneke,14,800000.0,18-11-2013,Alm.,4395,6,Villa,182,1861,-33 %
+Vasegårdsvejen 2 3740 Svaneke,2,325000.0,12-11-2013,Alm.,3421,4,Villa,95,1900,0 %
+Mosedalsvej 31 3740 Svaneke,31,816000.0,08-11-2013,Fam.,5333,2,Villa,153,1777,
+Mosedalsvej 10 3740 Svaneke,10,1600000.0,28-10-2013,Alm.,13913,4,Sommerhus,115,1827,-5 %
+Bølshavn 43 3740 Svaneke,43,2850000.0,21-10-2013,Alm.,18387,4,Villa,155,1997,-11 %
+Borgergade 2 3740 Svaneke,2,850000.0,16-10-2013,Alm.,4802,8,Villa,177,1860,-15 %
+Albret Wolfsensgade 22 3740 Svaneke,22,765000.0,07-10-2013,Alm.,7500,4,Villa,102,1967,0 %
+Askelundsvej 18 3740 Svaneke,18,547500.0,26-09-2013,Fam.,10950,3,Sommerhus,50,2004,
+Strandvejen 10 3740 Svaneke,10,1800000.0,24-09-2013,Alm.,14400,4,Villa,125,1906,-8 %
+Oluf Høstgade 5B 3740 Svaneke,0,770000.0,23-09-2013,Alm.,5620,5,Villa,137,1878,-14 %
+Møllebakken 12 3740 Svaneke,12,865000.0,11-09-2013,Alm.,4552,7,Villa,190,1962,-10 %
+Strandvejen 21 3740 Svaneke,21,300000.0,28-08-2013,Alm.,3225,3,Rækkehus,93,1860,-50 %
+Storegade 9 3740 Svaneke,9,750000.0,22-08-2013,Alm.,7978,4,Rækkehus,94,1857,
+Møllevej 4 3740 Svaneke,4,995000.0,22-08-2013,Alm.,7834,6,Villa,127,1827,0 %
+Hans Thygesensvej 16 3740 Svaneke,16,480000.0,22-08-2013,Alm.,3934,4,Villa,122,1916,-3 %
+Bølshavn 47 3740 Svaneke,47,1600000.0,05-08-2013,Alm.,22535,4,Sommerhus,71,1937,-20 %
+Dyrlæge Jürgensensgade 19 3740 Svaneke,19,1550000.0,16-07-2013,Alm.,10333,6,Villa,150,1971,-22 %
+Søndergade 1 3740 Svaneke,1,550000.0,05-07-2013,Alm.,3618,6,Villa,152,1910,-8 %
+Norre Næbbe 2 3740 Svaneke,2,795000.0,02-07-2013,Alm.,6973,4,Villa,114,1956,0 %
+Urmarken 15 3740 Svaneke,15,2000000.0,28-06-2013,Alm.,16129,5,Villa,124,1941,-11 %
+Hullebakke 4 3740 Svaneke,4,1500000.0,26-06-2013,Alm.,12295,6,Villa,122,1891,0 %
+Norre Bakke 6 3740 Svaneke,6,375000.0,21-06-2013,Alm.,3826,4,Villa,98,1965,-12 %
+Ingemannsvej 3 3740 Svaneke,3,900000.0,10-06-2013,Alm.,7894,3,Villa,114,2005,-3 %
+Byledsbakke 4 3740 Svaneke,4,1850000.0,07-06-2013,Alm.,10818,7,Villa,171,1899,
+I Pilene 3 3740 Svaneke,3,268165.0,31-05-2013,Fam.,3154,3,Rækkehus,85,1815,
+Per Jørns Vej 2 3740 Svaneke,2,380000.0,31-05-2013,Alm.,5066,5,Villa,75,1885,-15 %
+Skovgade 20 3740 Svaneke,20,1500000.0,30-05-2013,Alm.,12000,4,Villa,125,1925,-25 %
+Oluf Høstgade 1 3740 Svaneke,1,867500.0,27-05-2013,Alm.,7229,4,Villa,120,1900,-3 %
+Otto Holst Bakke 2 3740 Svaneke,2,850000.0,27-03-2013,Alm.,4250,6,Villa,200,1840,
+Albret Wolfsensgade 5 3740 Svaneke,5,425000.0,18-01-2013,Alm.,3899,4,Villa,109,1967,-23 %
+Strandvejen 8 3740 Svaneke,8,2000000.0,17-01-2013,Alm.,11111,8,Villa,180,1973,-20 %
+Gaden 17 3740 Svaneke,17,1095000.0,17-01-2013,Alm.,4699,6,Villa,233,1900,0 %
+Nørrevang 1 3740 Svaneke,1,585000.0,15-01-2013,Alm.,5467,4,Villa,107,1968,-13 %
+Hans Thygesensvej 23 3740 Svaneke,23,1035000.0,11-01-2013,Alm.,5914,6,Villa,175,1827,-5 %
+Albret Wolfsensgade 17 3740 Svaneke,17,710000.0,11-01-2013,Fam.,6068,3,Villa,117,1968,2 %
+Åvej 2 3740 Svaneke,2,400000.0,21-12-2012,Alm.,3007,5,Villa,133,1951,-33 %
+Lille Plads 6 3740 Svaneke,6,1150000.0,11-12-2012,Alm.,0,5,Sommerhus,80,1761,
+Paradisbakkevejen 11 3740 Svaneke,11,1425000.0,10-12-2012,Fam.,6985,6,Stuehus,204,1798,
+Mor Markers Gænge 11 3740 Svaneke,11,1260000.0,05-12-2012,Fam.,13548,5,Sommerhus,93,1985,
+Postgade 23 3740 Svaneke,23,1200000.0,27-11-2012,Alm.,9230,3,Rækkehus,130,1854,-13 %
+Storegade 4 3740 Svaneke,4,2100000.0,23-11-2012,Alm.,9952,9,Villa,211,1870,-22 %
+Bølshavn 33 3740 Svaneke,33,1020000.0,24-10-2012,Fam.,11860,4,Sommerhus,86,1974,
+Indenmarken 4 3740 Svaneke,4,245000.0,12-10-2012,Alm.,2882,3,Villa,85,1956,-38 %
+Strandstien 22 3740 Svaneke,22,1750000.0,25-09-2012,Andet,11290,5,Villa,155,1880,
+Kristiansens Løkke 4 3740 Svaneke,4,575000.0,24-09-2012,Alm.,7371,3,Villa,78,1961,0 %
+Bølsbakke 1 3740 Svaneke,1,1150000.0,19-09-2012,Alm.,15540,6,Sommerhus,74,1962,
+Gaden 40 3740 Svaneke,40,895000.0,10-09-2012,Alm.,5524,8,Villa,162,1908,-28 %
+Mosedalsvej 34 3740 Svaneke,34,270000.0,10-09-2012,Alm.,8437,3,Sommerhus,32,1935,
+Møllevej 10 3740 Svaneke,10,495000.0,27-08-2012,Alm.,4419,7,Villa,112,1862,
+Albret Wolfsensgade 10 3740 Svaneke,10,895000.0,24-08-2012,Alm.,6485,5,Villa,138,1967,0 %
+Bølshavn 19 3740 Svaneke,19,1850000.0,20-08-2012,Alm.,12937,4,Villa,143,1878,-7 %
+Klippegade 3 3740 Svaneke,3,973000.0,14-08-2012,Alm.,9266,3,Villa,105,1888,-3 %
+Svanebakken 9 3740 Svaneke,9,2750000.0,10-08-2012,Alm.,23913,6,Sommerhus,115,2001,
+Bakken 5 3740 Svaneke,5,1300000.0,30-07-2012,Alm.,12037,2,Sommerhus,108,1827,-7 %
+Oluf Høstgade 12 3740 Svaneke,12,800000.0,07-07-2012,Alm.,8602,4,Rækkehus,93,1898,-20 %
+Oksemyrevejen 2 3740 Svaneke,2,1135000.0,04-07-2012,Alm.,6270,5,Villa,181,1916,-15 %
+Skovgade 13 3740 Svaneke,13,1700000.0,09-05-2012,Alm.,12592,5,Villa,135,1884,
+Askelundsvej 2 3740 Svaneke,2,325000.0,23-04-2012,Alm.,2579,5,Sommerhus,126,2013,
+Aarsdalevej 71A 3740 Svaneke,0,1050000.0,07-04-2012,Alm.,13461,3,Sommerhus,78,1877,-4 %
+Skovgade 4 3740 Svaneke,4,1400000.0,27-02-2012,Alm.,12280,4,Villa,114,1860,
+Vippebakke 3 3740 Svaneke,3,2920000.0,17-02-2012,Alm.,18024,3,Villa,162,1977,-11 %
+Storegade 16 3740 Svaneke,16,1500000.0,17-02-2012,Alm.,8620,7,Villa,174,1893,-12 %
+Byfogedvej 4 3740 Svaneke,4,165000.0,24-01-2012,Alm.,1078,5,Villa,153,1890,-58 %
+Storegade 1B 3740 Svaneke,0,2000000.0,17-01-2012,Alm.,22471,5,Servicevirksomhed,89,1800,
+Ibskervej 44C 3740 Svaneke,0,250000.0,11-11-2011,Alm.,1243,7,Villa,201,1910,
+Munken 5 3740 Svaneke,5,925000.0,09-11-2011,Alm.,7459,6,Villa,124,1880,-23 %
+Kodalsvejen 3 3740 Svaneke,3,850000.0,02-11-2011,Alm.,5902,6,Stuehus,144,1800,
+Aarsdale Kirkevej 1 3740 Svaneke,1,200000.0,28-10-2011,Alm.,2500,2,Villa,80,1949,-32 %
+Urmarken 11 3740 Svaneke,11,2075000.0,27-10-2011,Alm.,14212,5,Villa,146,1937,
+Lillegade 2 3740 Svaneke,2,900000.0,25-10-2011,Alm.,6716,5,Villa,134,1854,-25 %
+Urmarken 13 3740 Svaneke,13,1325000.0,29-09-2011,Alm.,15588,3,Villa,85,1907,-12 %
+Nørrevang 7 3740 Svaneke,7,1325000.0,26-09-2011,Alm.,9013,5,Villa,147,1952,
+Duebakken 15 3740 Svaneke,15,850000.0,14-09-2011,Alm.,26562,3,Sommerhus,32,1962,-11 %
+Svanekevej 61 3740 Svaneke,61,2195000.0,05-09-2011,Alm.,10257,7,Villa,214,1992,0 %
+Aarsdalevej 61 3740 Svaneke,61,895000.0,05-09-2011,Alm.,8287,3,Villa,108,1860,
+Skolekrogen 8 3740 Svaneke,8,850000.0,30-08-2011,Alm.,4594,4,Stuehus,185,1900,-10 %
+Hellig Kilde 11 3740 Svaneke,11,934706.0,23-08-2011,Alm.,7789,5,Sommerhus,120,1954,
+Pælevej 8 3740 Svaneke,8,2150000.0,19-08-2011,Alm.,8333,8,Villa,258,1974,-5 %
+Skovgade 9 3740 Svaneke,9,900000.0,19-08-2011,Alm.,12000,4,Sommerhus,75,1851,
+Strandvejen 20 3740 Svaneke,20,1850000.0,10-08-2011,Alm.,7838,11,Villa,236,1935,-7 %
+Duebakken 10 3740 Svaneke,10,1300000.0,05-08-2011,Alm.,17105,3,Sommerhus,76,1962,-13 %
+Urmarken 9 3740 Svaneke,9,1900000.0,16-06-2011,Alm.,12925,5,Villa,147,1946,
+Degnebrovejen 20 3740 Svaneke,20,1600000.0,14-06-2011,Alm.,8556,6,Villa,187,1988,-3 %
+Bølshavn 25 3740 Svaneke,25,1575000.0,07-06-2011,Alm.,16578,5,Villa,95,1946,0 %
+Nørrevang 4 3740 Svaneke,4,760000.0,01-06-2011,Alm.,4130,6,Villa,184,1970,-24 %
+Bølshavnvej 12 3740 Svaneke,12,600000.0,20-05-2011,Andet,8955,4,Sommerhus,67,1828,
+Klippegade 4 3740 Svaneke,4,475000.0,11-05-2011,Alm.,7196,4,Rækkehus,66,1831,
+Kirkebakken 3 3740 Svaneke,3,1485000.0,04-05-2011,Alm.,11692,5,Villa,127,1848,
+Duebakken 16 3740 Svaneke,16,895000.0,15-03-2011,Alm.,27968,2,Sommerhus,32,1962,0 %
+Urmarken 7 3740 Svaneke,7,850000.0,24-01-2011,Alm.,4857,9,Villa,175,1948,-29 %
+Bølsbakke 15 3740 Svaneke,15,640000.0,30-12-2010,Fam.,8648,2,Sommerhus,74,1962,
+Møllebakken 7A 3740 Svaneke,0,2350000.0,22-12-2010,Alm.,13905,5,Villa,169,2000,6 %
+I Bakkerne 2 3740 Svaneke,2,200000.0,20-12-2010,Fam.,1626,6,Villa,123,1966,
+Oluf Høstgade 14 3740 Svaneke,14,825000.0,30-11-2010,Alm.,8967,3,Rækkehus,92,1898,-17 %
+Stengade 6 3740 Svaneke,6,700000.0,26-11-2010,Alm.,8641,2,Villa,81,1914,-17 %
+Askelundsvej 22 3740 Svaneke,22,995000.0,17-11-2010,Alm.,16048,4,Sommerhus,62,1978,0 %
+Møllevej 2 3740 Svaneke,2,650000.0,15-11-2010,Alm.,6250,3,Villa,104,1900,-10 %
+Kirkevangen 13 3740 Svaneke,13,655300.0,11-11-2010,Fam.,7895,3,Rækkehus,83,1888,
+Lille Plads 5 3740 Svaneke,5,1400000.0,10-11-2010,Alm.,0,3,Rækkehus,105,1854,10 %
+Vigebakke 2 3740 Svaneke,2,1200000.0,08-11-2010,Alm.,0,4,Villa,135,1910,-1 %
+Ved Parken 1 3740 Svaneke,1,440000.0,14-10-2010,Alm.,3464,5,Villa,127,1761,
+Degnebrovejen 11 3740 Svaneke,11,300000.0,06-10-2010,Alm.,3092,4,Sommerhus,97,1937,-33 %
+Byfogedvej 6 3740 Svaneke,6,600000.0,01-10-2010,Fam.,4615,3,Sommerhus,130,1955,
+Tempelvej 9 3740 Svaneke,9,383000.0,28-09-2010,Alm.,7092,2,Villa,54,1818,
+Pælevej 5 3740 Svaneke,5,1845000.0,16-09-2010,Alm.,8463,8,Villa,218,1973,-3 %
+Bølshavn 30 3740 Svaneke,30,700000.0,10-09-2010,Alm.,7000,3,Villa,100,1828,-30 %
+Hans Thygesensvej 24 3740 Svaneke,24,600000.0,27-08-2010,Alm.,5769,3,Rækkehus,104,1897,-7 %
+Bølshavn 53 3740 Svaneke,53,750000.0,26-08-2010,Alm.,6048,5,Sommerhus,124,1920,
+Mosedalsvej 38 3740 Svaneke,38,2310000.0,12-08-2010,Alm.,22647,4,Sommerhus,102,2011,-8 %
+Bølshavnvej 4 3740 Svaneke,4,1000000.0,01-08-2010,Alm.,3533,9,Villa,283,1912,
+Bagergade 3 3740 Svaneke,3,625000.0,30-07-2010,Alm.,6578,4,Rækkehus,95,1870,-10 %
+Dyrlæge Jürgensensgade 23 3740 Svaneke,23,568634.0,21-07-2010,Alm.,3948,5,Villa,144,1973,-52 %
+Skolebakken 2 3740 Svaneke,2,795000.0,20-07-2010,Alm.,0,4,Sommerhus,83,1831,0 %
+Strandvejen 22 3740 Svaneke,22,1100000.0,05-07-2010,Alm.,10280,5,Villa,107,1936,-29 %
+Nansensgade 3 3740 Svaneke,3,170000.0,03-07-2010,Alm.,1619,5,Rækkehus,105,1828,
+Strandvejen 7 3740 Svaneke,7,575000.0,28-06-2010,Auktion,5927,7,Villa,97,1955,
+Veidichstræde 1 3740 Svaneke,1,350000.0,18-06-2010,Alm.,2868,4,Villa,122,1877,
+Vagtbodgade 9 3740 Svaneke,9,575000.0,09-06-2010,Alm.,4600,6,Villa,125,1912,
+Brugsebakken 10 3740 Svaneke,10,1724500.0,18-05-2010,Alm.,17245,4,Villa,100,1923,-1 %
+Aarsdalevej 39 3740 Svaneke,39,1998000.0,17-05-2010,Alm.,12487,7,Villa,160,1936,0 %
+Gryneparken 34 3740 Svaneke,34,485750.0,01-05-2010,Alm.,3765,4,Villa,129,1981,
+Korshøje 18 3740 Svaneke,18,638742.0,26-04-2010,Fam.,4094,7,Stuehus,156,1907,
+Henrik Hansensgade 4 3740 Svaneke,4,1600000.0,16-04-2010,Alm.,13333,4,Villa,120,1863,-10 %
+Korshøje 16 3740 Svaneke,16,1850000.0,14-04-2010,Alm.,10109,10,Villa,183,1892,-7 %
+Aarsdalevej 69 3740 Svaneke,69,1700000.0,23-03-2010,Alm.,8900,5,Villa,191,1930,-15 %
+Brøddan 1 3740 Svaneke,1,150000.0,15-02-2010,Alm.,3409,2,Villa,44,1900,0 %
+Svanekevej 34 3740 Svaneke,34,2500000.0,15-02-2010,Alm.,7739,8,Stuehus,323,1900,
+Skovgade 1A 3740 Svaneke,0,1350000.0,07-01-2010,Alm.,10150,4,Villa,133,1850,-10 %
+Ibskervej 56 3740 Svaneke,56,6212680.0,23-12-2009,Alm.,29584,9,Stuehus,210,1929,
+Brøndstræde 2 3740 Svaneke,2,975000.0,19-12-2009,Alm.,7330,4,Villa,133,1892,0 %
+Svanekevej 32 3740 Svaneke,32,165400.0,28-11-2009,Alm.,578,7,Stuehus,286,1866,
+Svanekevej 59 3740 Svaneke,59,90047.0,28-11-2009,Alm.,307,12,Stuehus,293,1820,
+Vestergade 33 3740 Svaneke,33,2100000.0,25-11-2009,Alm.,10047,6,Villa,209,1897,-16 %
+Tempelvej 8 3740 Svaneke,8,850000.0,07-11-2009,Alm.,9042,5,Villa,94,1834,
+Korshøje 14 3740 Svaneke,14,420000.0,26-10-2009,Andet,2222,7,Stuehus,189,1900,
+Munken 4 3740 Svaneke,4,575000.0,11-10-2009,Alm.,8582,2,Villa,67,1969,
+Bølshavn 6 3740 Svaneke,6,1350000.0,23-09-2009,Alm.,15882,5,Sommerhus,85,1800,-15 %
+Degnebrovejen 18 3740 Svaneke,18,750000.0,21-09-2009,Alm.,5033,6,Villa,149,1880,-16 %
+Vestergade 23 3740 Svaneke,23,1395000.0,14-09-2009,Alm.,11071,2,Rækkehus,126,1790,
+Per Jørns Vej 1 3740 Svaneke,1,1100000.0,12-08-2009,Alm.,8870,5,Villa,124,1843,-8 %
+Laksegade 10 3740 Svaneke,10,1025000.0,10-08-2009,Alm.,7884,3,Rækkehus,130,1881,-36 %
+Hellig Kilde 10 3740 Svaneke,10,210696.0,27-07-2009,Fam.,3830,3,Sommerhus,55,1961,
+Dyrlæge Jürgensensgade 15 3740 Svaneke,15,1450000.0,07-07-2009,Alm.,10357,5,Villa,140,1970,
+Gaden 18 3740 Svaneke,18,725000.0,29-06-2009,Alm.,7323,4,Villa,99,1900,-18 %
+Hans Thygesensvej 5 3740 Svaneke,5,865000.0,29-05-2009,Alm.,7935,6,Villa,109,1898,0 %
+Gaden 12 3740 Svaneke,12,500000.0,26-05-2009,Alm.,5555,3,Villa,90,1900,-7 %
+Bølshavnvej 8 3740 Svaneke,8,697500.0,19-05-2009,Fam.,3770,9,Stuehus,185,1800,
+Ibskervej 54 3740 Svaneke,54,895000.0,30-04-2009,Alm.,7458,10,Sommerhus,120,1947,-5 %
+Lyrsbyvej 42 3740 Svaneke,42,330000.0,27-04-2009,Auktion,1783,4,Villa,185,1934,-58 %
+Urmarken 19 3740 Svaneke,19,1600000.0,24-04-2009,Alm.,16842,2,Sommerhus,95,1930,-10 %
+Korshøje 9 3740 Svaneke,9,465000.0,31-03-2009,Alm.,5961,4,Villa,78,1910,33 %
+I Bakkerne 16A 3740 Svaneke,0,748000.0,23-03-2009,Alm.,8800,3,Villa,85,1986,0 %
+I Bakkerne 22 3740 Svaneke,22,725000.0,26-02-2009,Alm.,6839,3,Villa,106,1969,
+Hans Thygesensvej 9 3740 Svaneke,9,795000.0,25-01-2009,Alm.,6794,3,Villa,117,1915,0 %
+Sander Dichsgade 1 3740 Svaneke,1,1009201.0,12-01-2009,Fam.,7157,6,Villa,141,1850,
+I Bakkerne 12 3740 Svaneke,12,600000.0,07-01-2009,Alm.,5555,4,Villa,108,1965,-20 %
+Gaden 9 3740 Svaneke,9,1195000.0,12-12-2008,Alm.,5334,8,Villa,224,1827,0 %
+Skovgade 28 3740 Svaneke,28,4250000.0,24-11-2008,Alm.,25297,6,Villa,168,1920,
+Tuevej 7 3740 Svaneke,7,2500000.0,10-11-2008,Alm.,9920,6,Stuehus,252,1900,
+Gaden 10 3740 Svaneke,10,447500.0,04-11-2008,Fam.,4917,4,Villa,91,1777,
+Strandvejen 23 3740 Svaneke,23,1795000.0,10-10-2008,Alm.,10084,4,Villa,178,1934,0 %
+Degnebrovejen 7 3740 Svaneke,7,425000.0,03-10-2008,Alm.,3761,4,Villa,113,1932,
+Svanebakken 8 3740 Svaneke,8,2000000.0,01-10-2008,Alm.,18348,5,Sommerhus,109,2001,-16 %
+Byfogedbakken 4B 3740 Svaneke,0,2200000.0,17-09-2008,Alm.,22000,3,Fritid,100,1967,
+Paradisbakkevejen 8 3740 Svaneke,8,650000.0,15-09-2008,Alm.,3233,8,Stuehus,201,1777,-16 %
+Indenmarken 5 3740 Svaneke,5,1232500.0,31-07-2008,Fam.,7951,5,Villa,155,1971,
+Sommervej 4 3740 Svaneke,4,2445000.0,23-07-2008,Alm.,10538,7,Sommerhus,232,1965,-2 %
+Skovgade 22 3740 Svaneke,22,2000000.0,22-07-2008,Alm.,13071,4,Villa,153,1957,-13 %
+Skippergade 10 3740 Svaneke,10,1950000.0,25-06-2008,Alm.,34210,2,Sommerhus,57,1867,
+Aarsdalevej 48 3740 Svaneke,48,739500.0,23-06-2008,Fam.,12325,3,Sommerhus,60,1927,
+Gryneparken 38 3740 Svaneke,38,190000.0,18-06-2008,Alm.,1328,4,Villa,143,2010,
+I Bakkerne 6 3740 Svaneke,6,999000.0,13-06-2008,Alm.,9990,4,Villa,100,1966,0 %
+I Bakkerne 9 3740 Svaneke,9,2490000.0,06-06-2008,Alm.,15276,5,Villa,163,1965,-4 %
+Lille Plads 3 3740 Svaneke,3,1365000.0,26-05-2008,Alm.,0,5,Rækkehus,226,1827,
+Møllebakken 12A 3740 Svaneke,0,925000.0,22-05-2008,Alm.,16517,3,Sommerhus,56,1937,-23 %
+Madvigsgade 1 3740 Svaneke,1,433500.0,05-05-2008,Fam.,8336,3,Villa,52,1761,
+Svanebakken 6 3740 Svaneke,6,2600000.0,05-05-2008,Alm.,23853,5,Sommerhus,109,2001,-4 %
+Postgade 2A 3740 Svaneke,0,1650000.0,04-05-2008,Alm.,11073,4,Villa,149,1967,
+Brugsebakken 18 3740 Svaneke,18,1400000.0,02-04-2008,Alm.,8695,4,Villa,161,1800,
+Søndergade 21 3740 Svaneke,21,750000.0,01-04-2008,Andet,5555,5,Villa,135,1827,
+Munken 12 3740 Svaneke,12,1150000.0,29-03-2008,Alm.,12637,3,Rækkehus,91,1969,
+Dalen 2 3740 Svaneke,2,1045000.0,19-03-2008,Alm.,11611,2,Villa,90,1964,0 %
+Dalen 5 3740 Svaneke,5,550000.0,17-03-2008,Alm.,3873,4,Villa,142,1970,-60 %
+Hans Thygesensvej 21 3740 Svaneke,21,1600000.0,10-03-2008,Alm.,15238,6,Villa,105,1873,
+Lindevej 1 3740 Svaneke,1,1495000.0,09-03-2008,Alm.,17383,3,Villa,86,1863,
+Vagtbodgade 3 3740 Svaneke,3,2475000.0,05-03-2008,Alm.,15184,4,Villa,163,1924,0 %
+Svanekevej 63 3740 Svaneke,63,637000.0,23-02-2008,Andet,1454,14,Stuehus,438,1800,
+Lindholmsvej 8 3740 Svaneke,8,1550000.0,15-02-2008,Alm.,6739,7,Stuehus,230,1900,0 %
+Højevejen 5 3740 Svaneke,5,163600.0,11-02-2008,Alm.,1543,5,Stuehus,106,1860,
+Hans Thygesensvej 14 3740 Svaneke,14,1180000.0,28-01-2008,Alm.,27441,3,Sommerhus,43,1877,-9 %
+Dyrlæge Jürgensensgade 7 3740 Svaneke,7,1765000.0,25-01-2008,Alm.,13682,5,Villa,129,1974,-2 %
+Bølshavn 29B 3740 Svaneke,0,4130000.0,19-12-2007,Alm.,19951,9,Sommerhus,207,1700,
+Bølshavn 68 3740 Svaneke,68,1150000.0,12-12-2007,Andet,11165,7,Sommerhus,103,1953,
+Svanebakken 13 3740 Svaneke,13,3200000.0,04-12-2007,Alm.,29357,5,Sommerhus,109,2001,0 %
+Strandstien 12 3740 Svaneke,12,2650000.0,18-11-2007,Alm.,17666,6,Villa,150,1777,-15 %
+Laksegade 8 3740 Svaneke,8,1195000.0,14-11-2007,Alm.,10669,5,Rækkehus,112,1900,0 %
+Bølshavn 18B 3740 Svaneke,0,1385000.0,04-11-2007,Alm.,27700,2,Sommerhus,50,1983,
+Paradisbakkevejen 7 3740 Svaneke,7,52000.0,23-10-2007,Andet,244,9,Stuehus,213,1926,
+Paradisbakkevejen 5 3740 Svaneke,5,52000.0,23-10-2007,Andet,319,8,Stuehus,163,1923,
+Havnebakken 6 3740 Svaneke,6,1275000.0,19-10-2007,Fam.,8069,6,Sommerhus,158,1850,
+Madvigsgade 4A 3740 Svaneke,0,730000.0,27-09-2007,Fam.,8111,5,Sommerhus,90,1910,
+Postgade 21 3740 Svaneke,21,1247500.0,26-09-2007,Fam.,9822,3,Rækkehus,127,1854,
+Ibskervej 38 3740 Svaneke,38,975000.0,20-09-2007,Alm.,9112,4,Sommerhus,107,1927,-7 %
+Paradisbakkevejen 13 3740 Svaneke,13,883345.0,18-09-2007,Fam.,5662,7,Stuehus,156,1875,
+Trappegangen 1 3740 Svaneke,1,1100000.0,14-09-2007,Alm.,10000,3,Rækkehus,110,1818,
+Strandvejen 3 3740 Svaneke,3,1675000.0,04-09-2007,Alm.,12226,5,Villa,137,1922,
+Ibskervej 49 3740 Svaneke,49,2495000.0,31-08-2007,Alm.,10942,8,Villa,228,1923,0 %
+Kristiansens Løkke 2 3740 Svaneke,2,1400000.0,28-08-2007,Alm.,14141,4,Villa,99,1961,
+I Bakkerne 5 3740 Svaneke,5,2495000.0,14-08-2007,Alm.,13131,6,Villa,190,1962,0 %
+Østergade 3 3740 Svaneke,3,565000.0,13-08-2007,Alm.,5885,4,Villa,96,1876,0 %
+Aarsdalevej 28 3740 Svaneke,28,1650000.0,13-08-2007,Alm.,20121,3,Sommerhus,82,1924,-3 %
+Skarvigen 3 3740 Svaneke,3,495000.0,04-08-2007,Alm.,4024,5,Villa,123,1827,0 %
+Bølshavn 26 3740 Svaneke,26,1400000.0,03-08-2007,Alm.,0,5,Villa,127,1967,-2 %
+Hans Thygesensvej 31 3740 Svaneke,31,425000.0,26-07-2007,Fam.,7727,3,Villa,55,1754,
+Møllevej 13 3740 Svaneke,13,560000.0,16-07-2007,Alm.,7466,4,Villa,75,1869,-6 %
+I Bakkerne 34 3740 Svaneke,34,1095000.0,09-07-2007,Alm.,8111,4,Villa,135,1971,0 %
+Vippebakke 4 3740 Svaneke,4,484500.0,03-07-2007,Fam.,5700,3,Sommerhus,85,1850,
+Vestergade 6 3740 Svaneke,6,850000.0,29-06-2007,Alm.,5279,6,Villa,161,1780,
+Møllevej 12 3740 Svaneke,12,1450000.0,28-06-2007,Alm.,14795,1,Sommerhus,98,1884,
+Strandvejen 2 3740 Svaneke,2,650000.0,26-06-2007,Andet,9027,2,Rækkehus,72,1877,
+Bølshavn 41 3740 Svaneke,41,2325000.0,29-05-2007,Alm.,11923,7,Villa,195,1933,0 %
+Duebakken 1 3740 Svaneke,1,703000.0,07-05-2007,Alm.,13784,4,Sommerhus,51,1962,
+Strandvejen 6 3740 Svaneke,6,2300000.0,24-04-2007,Alm.,14375,5,Villa,160,1895,0 %
+Havnebakken 5 3740 Svaneke,5,2810000.0,20-04-2007,Alm.,19929,5,Villa,141,1867,28 %
+Strandvejen 5 3740 Svaneke,5,1595000.0,17-04-2007,Alm.,11642,5,Villa,137,1931,0 %
+Storegade 30 3740 Svaneke,30,1100000.0,28-03-2007,Alm.,9482,4,Villa,116,1907,-18 %
+Strandstien 9 3740 Svaneke,9,553333.0,25-03-2007,Alm.,4356,2,Villa,127,1900,
+I Bakkerne 29 3740 Svaneke,29,1375000.0,22-03-2007,Alm.,7124,6,Villa,193,1974,
+Vagtbodgade 10 3740 Svaneke,10,3305006.0,15-02-2007,Alm.,13886,5,Villa,238,1957,
+Bølshavn 8C 3740 Svaneke,0,2350000.0,05-02-2007,Alm.,22596,3,Sommerhus,104,2006,-5 %
+Kirkepladsen 1 3740 Svaneke,1,547500.0,28-01-2007,Alm.,4932,3,Rækkehus,111,1790,
+Elmevej 10 3740 Svaneke,10,1200000.0,16-01-2007,Alm.,9448,4,Villa,127,1885,0 %
+Møllebakken 6D 3740 Svaneke,0,650000.0,11-01-2007,Fam.,5963,6,Sommerhus,109,1919,
+Skovgade 27 3740 Svaneke,27,814584.0,31-12-2006,Alm.,7473,5,Sommerhus,109,1923,
+Elverhøj 1 3740 Svaneke,1,60000.0,30-12-2006,Alm.,545,3,Sommerhus,110,2007,
+Søndergade 18 3740 Svaneke,18,310000.0,08-12-2006,Alm.,0,3,Villa,123,1845,
+Bølshavn 64 3740 Svaneke,64,850000.0,03-12-2006,Fam.,6854,5,Villa,124,1932,
+Hullebakke 6 3740 Svaneke,6,998000.0,30-11-2006,Alm.,7560,4,Villa,132,1852,
+I Bakkerne 32 3740 Svaneke,32,995000.0,07-11-2006,Alm.,8432,4,Villa,118,1975,
+Havnebryggen 3 3740 Svaneke,3,3500000.0,20-10-2006,Alm.,19337,6,Villa,181,1828,
+Gryneparken 42 3740 Svaneke,42,160500.0,18-10-2006,Alm.,775,5,Villa,207,2009,
+Vestergade 3 3740 Svaneke,3,1245000.0,04-10-2006,Alm.,12450,4,Rækkehus,100,1830,
+Brugsebakken 11 3740 Svaneke,11,550000.0,14-09-2006,Fam.,4661,4,Villa,118,1830,
+Gryneparken 18 3740 Svaneke,18,330000.0,06-09-2006,Alm.,1520,5,Villa,217,2008,
+Indenmarken 6 3740 Svaneke,6,770000.0,28-08-2006,Alm.,6525,3,Villa,118,1966,
+Åvej 4A 3740 Svaneke,0,2300000.0,27-08-2006,Alm.,24731,4,Sommerhus,93,2004,
+Mosedalsvej 7 3740 Svaneke,7,1875000.0,23-08-2006,Alm.,15889,4,Sommerhus,118,1899,
+Reberbanevej 10 3740 Svaneke,10,1185000.0,01-08-2006,Alm.,14812,3,Villa,80,1818,
+Møllebakken 3 3740 Svaneke,3,2100000.0,27-07-2006,Alm.,15000,5,Villa,140,1944,
+Hans Thygesensvej 40 3740 Svaneke,40,2800000.0,13-07-2006,Alm.,9061,9,Villa,309,1881,
+Søndergade 20 3740 Svaneke,20,1795000.0,10-07-2006,Alm.,9808,6,Villa,183,1858,
+Skolebakken 10 3740 Svaneke,10,910000.0,06-07-2006,Alm.,7459,4,Villa,122,1947,
+Munken 10 3740 Svaneke,10,1125000.0,03-07-2006,Alm.,12362,4,Rækkehus,91,1969,
+Sommervej 2B 3740 Svaneke,0,185705.0,27-06-2006,Fam.,10923,1,Sommerhus,17,1975,
+Åvej 4C 3740 Svaneke,0,1045000.0,26-06-2006,Alm.,18660,3,Sommerhus,56,1969,
+Bølshavn 56 3740 Svaneke,56,714000.0,23-06-2006,Fam.,3818,5,Stuehus,187,2011,
+Vigebakke 3 3740 Svaneke,3,575000.0,20-06-2006,Alm.,7565,3,Villa,76,1851,
+Skolekrogen 1 3740 Svaneke,1,925000.0,14-06-2006,Alm.,5891,5,Villa,157,1935,
+Per Sørens Gade 3 3740 Svaneke,3,1800000.0,06-06-2006,Alm.,12244,4,Villa,147,1925,
+Sdr Aarsdalevej 8 3740 Svaneke,8,1050000.0,02-05-2006,Alm.,6730,6,Stuehus,156,1914,
+Bølshavn 13A 3740 Svaneke,0,2022000.0,02-05-2006,Alm.,9275,10,Villa,218,1955,
+Sander Dichsgade 7 3740 Svaneke,7,795000.0,01-05-2006,Alm.,0,3,Villa,89,1851,
+Møllevej 3 3740 Svaneke,3,1150000.0,24-04-2006,Alm.,13690,4,Villa,84,1850,
+Norre Bakke 13 3740 Svaneke,13,595000.0,11-04-2006,Alm.,6839,4,Sommerhus,87,1950,
+Aarsdalevej 65 3740 Svaneke,65,1400000.0,07-04-2006,Alm.,8860,4,Villa,158,1926,
+Storegade 26 3740 Svaneke,26,995000.0,16-03-2006,Alm.,4402,5,Rækkehus,226,1852,
+Hellig Kilde 2 3740 Svaneke,2,1980000.0,16-03-2006,Alm.,0,5,Sommerhus,197,1852,
+I Bakkerne 7 3740 Svaneke,7,975000.0,16-03-2006,Alm.,8863,3,Villa,110,1966,
+Skolekrogen 2 3740 Svaneke,2,216666.0,08-03-2006,Fam.,658,11,Villa,329,1910,
+Tempelvej 1D 3740 Svaneke,0,995000.0,03-03-2006,Alm.,6378,4,Villa,156,1982,
+Gaden 6 3740 Svaneke,6,795000.0,01-03-2006,Alm.,10192,4,Villa,78,1907,
+Møllebakken 4B 3740 Svaneke,0,925000.0,23-02-2006,Alm.,11280,3,Villa,82,1946,
+Strandstien 40 3740 Svaneke,40,1565000.0,14-02-2006,Alm.,20592,3,Sommerhus,76,1877,
+Indenmarken 8 3740 Svaneke,8,850000.0,01-02-2006,Alm.,7589,3,Villa,112,1979,
+Østermarievej 9 3740 Svaneke,9,835000.0,19-01-2006,Fam.,13916,4,Sommerhus,60,1800,
+Kirkevangen 3 3740 Svaneke,3,1375000.0,17-01-2006,Alm.,9821,6,Rækkehus,140,1761,
+Klippegade 1 3740 Svaneke,1,773500.0,01-01-2006,Fam.,4834,6,Sommerhus,160,1848,
+Urmarken 31 3740 Svaneke,31,2145000.0,23-12-2005,Alm.,17298,3,Villa,124,1981,
+Kristiansens Løkke 3 3740 Svaneke,3,615000.0,20-12-2005,Alm.,8092,3,Villa,76,1962,
+Duebakken 13 3740 Svaneke,13,500000.0,08-12-2005,Alm.,15151,3,Sommerhus,33,1962,
+Pælevej 4 3740 Svaneke,4,155000.0,03-12-2005,Alm.,786,6,Villa,197,2009,
+Postgade 13 3740 Svaneke,13,565000.0,01-12-2005,Alm.,4248,5,Rækkehus,133,1818,
+Borgergade 1B 3740 Svaneke,0,2675000.0,01-12-2005,Alm.,9762,12,Rækkehus,274,1765,
+Strandvejen 13 3740 Svaneke,13,750000.0,20-11-2005,Fam.,6250,3,Villa,120,1951,
+Skovstien 1 3740 Svaneke,1,1240000.0,16-11-2005,Alm.,6231,5,Villa,199,1932,
+Munken 2H 3740 Svaneke,0,985000.0,09-11-2005,Alm.,7242,3,Villa,136,1964,
+Degnebrovejen 10 3740 Svaneke,10,1250000.0,09-11-2005,Alm.,8389,4,Villa,149,1897,
+Helgolandsgade 7A 3740 Svaneke,0,810000.0,20-10-2005,Andet,4792,5,Villa,169,1860,
+Gaden 14 3740 Svaneke,14,645000.0,14-10-2005,Alm.,7865,5,Villa,82,1892,
+Ingemannsvej 4A 3740 Svaneke,0,900000.0,13-10-2005,Alm.,3448,6,Villa,261,1900,
+Svanebakken 12 3740 Svaneke,12,2475000.0,12-10-2005,Alm.,21902,5,Sommerhus,113,2001,
+Laksegade 6 3740 Svaneke,6,875000.0,12-10-2005,Alm.,4353,4,Villa,201,1777,
+Møllebakken 1B 3740 Svaneke,0,1000000.0,03-10-2005,Alm.,0,4,Villa,148,1944,
+Pælevej 10 3740 Svaneke,10,1100000.0,27-09-2005,Alm.,7432,6,Villa,148,1971,
+Tuevej 3 3740 Svaneke,3,650000.0,16-09-2005,Fam.,4062,8,Sommerhus,160,1678,
+Svanebakken 3 3740 Svaneke,3,2100000.0,12-09-2005,Alm.,17647,5,Sommerhus,119,2001,
+Søndergade 27 3740 Svaneke,27,640550.0,24-08-2005,Alm.,3202,8,Villa,200,1916,
+Bølsbakke 20 3740 Svaneke,20,895000.0,23-08-2005,Alm.,16574,3,Sommerhus,54,1987,
+Fiskergade 11 3740 Svaneke,11,900000.0,19-08-2005,Alm.,6293,5,Rækkehus,143,1900,
+Albret Wolfsensgade 8 3740 Svaneke,8,985000.0,19-08-2005,Alm.,6523,6,Villa,151,1965,
+Gryneparken 44 3740 Svaneke,44,175000.0,17-08-2005,Alm.,875,5,Villa,200,2007,
+Strandvejen 29 3740 Svaneke,29,1135000.0,10-08-2005,Alm.,9956,5,Villa,114,1956,
+Storegade 5 3740 Svaneke,5,1206000.0,09-08-2005,Alm.,12060,4,Villa,100,1867,
+Bølshavn 10 3740 Svaneke,10,795000.0,21-07-2005,Alm.,6853,4,Villa,116,1940,
+Broløkke 1 3740 Svaneke,1,1285000.0,20-07-2005,Alm.,6658,6,Villa,193,1981,
+Gryneparken 14 3740 Svaneke,14,995000.0,12-07-2005,Alm.,8504,4,Villa,117,1980,
+Gavlegade 9 3740 Svaneke,9,650000.0,08-07-2005,Alm.,9558,2,Villa,68,1800,
+Nansensgade 1 3740 Svaneke,1,1400000.0,07-07-2005,Alm.,9523,5,Rækkehus,147,1868,
+Bølshavn 39 3740 Svaneke,39,1975000.0,07-07-2005,Alm.,16458,4,Villa,120,1850,
+Gaden 29 3740 Svaneke,29,1295000.0,05-07-2005,Alm.,6573,9,Villa,197,1820,
+Aarsdalevej 75 3740 Svaneke,75,690000.0,01-07-2005,Fam.,3709,3,Villa,186,1915,
+I Bakkerne 10 3740 Svaneke,10,760000.0,30-06-2005,Fam.,6608,4,Villa,115,1966,
+Kirkevangen 1 3740 Svaneke,1,1075000.0,23-06-2005,Alm.,8143,4,Rækkehus,132,1815,
+Vagtbodgade 11 3740 Svaneke,11,1790000.0,20-06-2005,Alm.,14552,8,Villa,123,1926,
+Degnebrovejen 8 3740 Svaneke,8,980000.0,01-06-2005,Fam.,5000,6,Stuehus,196,1800,
+Møllebakken 20 3740 Svaneke,20,816000.0,26-05-2005,Fam.,6181,7,Villa,132,1934,
+Indenmarken 1 3740 Svaneke,1,1295000.0,06-05-2005,Alm.,7993,4,Villa,162,1982,
+I Bakkerne 17 3740 Svaneke,17,1375000.0,03-05-2005,Alm.,11853,3,Villa,116,1967,
+Brøndstræde 1B 3740 Svaneke,0,585000.0,26-04-2005,Alm.,8357,3,Villa,70,1889,
+Møllebakken 21B 3740 Svaneke,0,895000.0,25-04-2005,Andet,10287,4,Sommerhus,87,1962,
+Bølshavn 46 3740 Svaneke,46,1235000.0,14-04-2005,Alm.,10040,5,Villa,123,1911,
+Storegade 13 3740 Svaneke,13,671500.0,12-04-2005,Fam.,5739,5,Villa,117,1929,
+Bølsbakke 9 3740 Svaneke,9,250000.0,28-03-2005,Alm.,3968,3,Sommerhus,63,2015,
+Kristiansens Løkke 1 3740 Svaneke,1,1295000.0,01-03-2005,Alm.,14550,3,Villa,89,1954,
+Møllebakken 18 3740 Svaneke,18,1075000.0,20-02-2005,Alm.,11944,3,Sommerhus,90,1957,
+Albret Wolfsensgade 18 3740 Svaneke,18,605000.0,17-02-2005,Alm.,7289,2,Villa,83,1968,
+Havnebakken 4 3740 Svaneke,4,584682.0,12-01-2005,Andet,3143,7,Villa,186,1877,
+Nørrevang 5 3740 Svaneke,5,1426125.0,30-12-2004,Alm.,8488,5,Villa,168,1972,
+Gaden 2 3740 Svaneke,2,1400000.0,22-12-2004,Alm.,13461,4,Villa,104,1920,
+Laksegade 1 3740 Svaneke,1,400000.0,20-12-2004,Andet,0,3,Rækkehus,138,1900,
+Bølshavnvej 6 3740 Svaneke,6,1317500.0,08-12-2004,Fam.,9278,6,Stuehus,142,1930,
+Byfogedvej 1 3740 Svaneke,1,301000.0,06-12-2004,Auktion,1567,5,Villa,192,1923,
+Møllevej 6 3740 Svaneke,6,680000.0,02-12-2004,Alm.,5230,5,Villa,130,1870,
+Henrik Hansensgade 15 3740 Svaneke,15,1200000.0,02-12-2004,Alm.,10810,4,Villa,111,1858,
+Bølshavn 28 3740 Svaneke,28,688500.0,01-12-2004,Fam.,5834,4,Sommerhus,118,1828,
+Skippergade 3 3740 Svaneke,3,1500000.0,28-10-2004,Alm.,8064,3,Villa,186,1900,
+Gryneparken 2C 3740 Svaneke,0,925000.0,01-10-2004,Alm.,6208,3,Villa,149,1981,
+Bølshavn 18C 3740 Svaneke,0,350000.0,22-09-2004,Fam.,5555,2,Sommerhus,63,2001,
+Paradisbakkevejen 4 3740 Svaneke,4,2212500.0,05-08-2004,Fam.,12429,8,Stuehus,178,1860,
+Askelundsvej 32 3740 Svaneke,32,300000.0,29-07-2004,Fam.,4000,4,Sommerhus,75,1981,
+Byledsbakke 2 3740 Svaneke,2,570000.0,25-07-2004,Alm.,5229,4,Villa,109,1842,
+Kirkevej 11 3740 Svaneke,11,930000.0,25-07-2004,Alm.,0,5,Villa,150,1903,
+Albret Wolfsensgade 19 3740 Svaneke,19,895000.0,15-07-2004,Alm.,6392,6,Villa,140,1967,
+Gaden 25 3740 Svaneke,25,998000.0,15-07-2004,Alm.,4620,11,Villa,216,1877,
+Søndergade 9 3740 Svaneke,9,1185000.0,30-06-2004,Alm.,7645,7,Villa,155,1859,
+Mosedalsvej 13 3740 Svaneke,13,635000.0,26-06-2004,Alm.,6047,3,Villa,105,1896,
+Fiskergade 7 3740 Svaneke,7,698000.0,12-06-2004,Alm.,6176,4,Rækkehus,113,1900,
+Østermarievej 11 3740 Svaneke,11,995000.0,10-06-2004,Alm.,6337,6,Villa,157,1923,
+Svanekevej 69 3740 Svaneke,69,1400000.0,26-05-2004,Alm.,4946,4,Sommerhus,283,1870,
+Pælevej 9 3740 Svaneke,9,995000.0,24-05-2004,Alm.,6141,5,Villa,162,1978,
+Askelundsvej 1 3740 Svaneke,1,995000.0,14-05-2004,Fam.,14850,2,Sommerhus,67,2003,
+Lindevej 2 3740 Svaneke,2,735000.0,13-05-2004,Alm.,7350,3,Villa,100,1867,
+Askelundsvej 23 3740 Svaneke,23,610000.0,01-05-2004,Alm.,10000,4,Sommerhus,61,1980,
+Duebakken 6 3740 Svaneke,6,120000.0,01-05-2004,Fam.,2307,2,Sommerhus,52,1962,
+Bølshavn 4 3740 Svaneke,4,2300000.0,30-04-2004,Alm.,11675,7,Sommerhus,197,1935,
+Gaden 27 3740 Svaneke,27,800000.0,26-04-2004,Alm.,5128,7,Villa,156,1850,
+Oluf Høstgade 6 3740 Svaneke,6,845000.0,26-03-2004,Alm.,10833,4,Villa,78,1899,
+Aarsdalevej 77 3740 Svaneke,77,765200.0,12-03-2004,Alm.,7501,3,Villa,102,1900,
+Bølsbakke 18 3740 Svaneke,18,725000.0,04-03-2004,Alm.,8055,6,Sommerhus,90,1962,
+Gryneparken 6 3740 Svaneke,6,1025000.0,01-03-2004,Alm.,8686,4,Villa,118,1988,
+Bølshavnvej 5 3740 Svaneke,5,837500.0,11-02-2004,Alm.,3101,13,Stuehus,270,1748,
+Dyrlæge Jürgensensgade 5 3740 Svaneke,5,1235000.0,10-02-2004,Alm.,5416,7,Villa,228,1973,
+Vagtbodgade 1A 3740 Svaneke,0,1150000.0,26-01-2004,Alm.,7371,4,Villa,156,1974,
+Østermarievej 7 3740 Svaneke,7,356500.0,22-12-2003,Fam.,4244,4,Villa,84,1911,
+Lillehøjsvej 6 3740 Svaneke,6,977500.0,16-12-2003,Fam.,8078,6,Stuehus,121,1911,
+Østergade 6 3740 Svaneke,6,1247000.0,05-12-2003,Alm.,10658,3,Villa,117,1898,
+Byfogedbakken 4A 3740 Svaneke,0,1020484.0,04-12-2003,Alm.,0,3,Lejlighed,101,1967,
+"Borgergade 7, 1 3740 Svaneke",1,930000.0,28-11-2003,Alm.,0,3,Lejlighed,77,1967,
+"Borgergade 9, ST 3740 Svaneke",0,895000.0,28-11-2003,Alm.,0,3,Lejlighed,88,1967,
+"Borgergade 7, ST 3740 Svaneke",0,995000.0,30-10-2003,Alm.,0,3,Lejlighed,108,1967,
+Gaden 22 3740 Svaneke,22,650000.0,24-10-2003,Alm.,3403,6,Villa,191,1850,
+Svanekevej 38 3740 Svaneke,38,580000.0,10-10-2003,Alm.,2566,6,Villa,226,1921,
+Hans Thygesensvej 3 3740 Svaneke,3,975000.0,07-10-2003,Alm.,11206,2,Rækkehus,87,1907,
+Stengade 7 3740 Svaneke,7,445000.0,25-09-2003,Alm.,6449,4,Rækkehus,69,1898,
+Kirkevangen 19 3740 Svaneke,19,985000.0,09-09-2003,Alm.,8277,4,Villa,119,1986,
+I Bakkerne 15 3740 Svaneke,15,950000.0,28-08-2003,Alm.,8878,5,Villa,107,1980,
+Lille Plads 4 3740 Svaneke,4,399000.0,19-08-2003,Fam.,3381,3,Villa,118,1930,
+Tempelvej 1C 3740 Svaneke,0,775000.0,14-07-2003,Alm.,10064,2,Villa,77,2003,
+Strandvejen 26 3740 Svaneke,26,1000000.0,10-07-2003,Alm.,8547,4,Villa,117,1935,
+Aarsdale Kirkevej 8 3740 Svaneke,8,1650000.0,09-07-2003,Alm.,9763,6,Stuehus,169,1850,
+Hans Thygesensvej 28 3740 Svaneke,28,595000.0,03-07-2003,Alm.,4375,5,Villa,136,1909,
+Hans Thygesensvej 26 3740 Svaneke,26,560000.0,05-05-2003,Alm.,4307,4,Villa,130,1932,
+Reberbanevej 11 3740 Svaneke,11,1185000.0,14-04-2003,Alm.,8464,4,Rækkehus,140,1777,
+Lille Plads 2 3740 Svaneke,2,780000.0,07-04-2003,Alm.,5032,4,Villa,155,1761,
+Aarsdalevej 67 3740 Svaneke,67,910000.0,20-03-2003,Alm.,4789,5,Villa,190,1925,
+Per Jørns Vej 8 3740 Svaneke,8,900000.0,08-03-2003,Alm.,7200,4,Rækkehus,125,1812,
+Gaden 44 3740 Svaneke,44,722500.0,18-02-2003,Fam.,4515,8,Stuehus,160,1877,
+Gaden 8 3740 Svaneke,8,425000.0,07-02-2003,Alm.,2852,5,Villa,149,1890,
+Møllebakken 29 3740 Svaneke,29,695000.0,04-02-2003,Alm.,6096,4,Villa,114,1893,
+Bølshavn 8A 3740 Svaneke,0,725000.0,30-01-2003,Alm.,8430,4,Sommerhus,86,1964,
+Åvej 6 3740 Svaneke,6,107000.0,27-12-2002,Fam.,1244,4,Sommerhus,86,2010,
+Kodalsvejen 2 3740 Svaneke,2,545000.0,16-12-2002,Alm.,3187,6,Villa,171,1863,
+Pælevej 7 3740 Svaneke,7,965000.0,09-12-2002,Alm.,5676,7,Villa,170,1969,
+Mosedalsvej 36 3740 Svaneke,36,825000.0,08-12-2002,Fam.,8593,4,Sommerhus,96,1946,
+Strandvejen 11 3740 Svaneke,11,650000.0,06-12-2002,Fam.,9285,2,Sommerhus,70,1953,
+I Pilene 7 3740 Svaneke,7,824471.0,21-11-2002,Andet,6245,5,Villa,132,1898,
+Mosedalsvej 4 3740 Svaneke,4,945000.0,02-11-2002,Alm.,6517,5,Villa,145,1927,
+Åvej 3 3740 Svaneke,3,150000.0,01-11-2002,Alm.,1875,4,Sommerhus,80,1940,
+Vagtbodgade 15 3740 Svaneke,15,556707.0,29-10-2002,Fam.,6255,4,Villa,89,1959,
+"Svaneke Torv 8, 1 3740 Svaneke",1,1300000.0,21-10-2002,Fam.,5531,6,Lejlighed,235,1880,
+Albret Wolfsensgade 4 3740 Svaneke,4,865000.0,10-10-2002,Alm.,6811,3,Villa,127,1965,
+I Bakkerne 28 3740 Svaneke,28,685000.0,09-10-2002,Alm.,5756,3,Villa,119,1979,
+Reberbanevej 15 3740 Svaneke,15,1065000.0,16-09-2002,Alm.,7661,7,Villa,139,1961,
+Norre Bakke 12 3740 Svaneke,12,660000.0,16-09-2002,Alm.,5196,4,Villa,127,1972,
+Bølshavn 18A 3740 Svaneke,0,637000.0,10-09-2002,Alm.,0,3,Villa,107,1850,
+Brugsebakken 6 3740 Svaneke,6,550000.0,19-08-2002,Alm.,6962,4,Rækkehus,79,1910,
+Møllebakken 7B 3740 Svaneke,0,1425000.0,17-08-2002,Alm.,6884,6,Villa,207,1956,
+Hans Thygesensvej 27 3740 Svaneke,27,200000.0,16-08-2002,Alm.,1709,4,Villa,117,1880,
+Skovstien 3 3740 Svaneke,3,168300.0,08-08-2002,Fam.,2244,3,Sommerhus,75,1870,
+Sander Dichsgade 5 3740 Svaneke,5,950000.0,07-08-2002,Alm.,5654,7,Villa,168,1870,
+Duebakken 17 3740 Svaneke,17,325000.0,09-07-2002,Alm.,10156,3,Sommerhus,32,1962,
+Kirkepladsen 5 3740 Svaneke,5,1200000.0,17-06-2002,Alm.,5911,12,Villa,203,1850,
+Degnebrovejen 1 3740 Svaneke,1,1050000.0,17-06-2002,Fam.,3201,12,Stuehus,328,1877,
+Degnebrovejen 3 3740 Svaneke,3,1000000.0,17-06-2002,Fam.,3968,11,Stuehus,252,1926,
+Aarsdale Kirkevej 6 3740 Svaneke,6,925000.0,17-06-2002,Alm.,7170,4,Villa,129,1821,
+Svanebakken 2 3740 Svaneke,2,1305000.0,10-06-2002,Alm.,11447,5,Sommerhus,114,2001,
+Vestergade 8 3740 Svaneke,8,800000.0,04-06-2002,Alm.,6956,3,Rækkehus,115,1910,
+Hans Thygesensvej 32 3740 Svaneke,32,365000.0,17-05-2002,Alm.,2625,4,Villa,139,1926,
+Norre Næbbe 4 3740 Svaneke,4,95000.0,15-05-2002,Alm.,650,4,Villa,146,2007,
+Brugsebakken 12 3740 Svaneke,12,560000.0,07-05-2002,Alm.,6746,3,Villa,83,1870,
+Elverhøj 2 3740 Svaneke,2,1300000.0,25-04-2002,Alm.,8843,4,Sommerhus,147,1991,
+Gaden 3 3740 Svaneke,3,510000.0,15-04-2002,Alm.,7846,4,Villa,65,1800,
+Bølshavn 5 3740 Svaneke,5,244798.0,13-04-2002,Alm.,4533,2,Sommerhus,54,1938,
+Skarvigen 11 3740 Svaneke,11,1100000.0,11-04-2002,Alm.,8148,5,Villa,135,1827,
+Mosedalsvej 21 3740 Svaneke,21,718663.0,03-04-2002,Alm.,4956,5,Villa,145,1847,
+Kirkevangen 15 3740 Svaneke,15,480000.0,25-03-2002,Alm.,0,3,Villa,108,1800,
+Aarsdalevej 32 3740 Svaneke,32,1075000.0,25-03-2002,Alm.,7904,5,Villa,136,1950,
+Postgade 4 3740 Svaneke,4,1102000.0,02-03-2002,Alm.,5009,5,Villa,220,1900,
+Mosedalsvej 29 3740 Svaneke,29,450000.0,28-01-2002,Alm.,6428,3,Sommerhus,70,1950,
+Hans Thygesensvej 11 3740 Svaneke,11,376000.0,25-01-2002,Alm.,4000,5,Villa,94,1913,
+Oluf Høstgade 16 3740 Svaneke,16,1200000.0,15-01-2002,Alm.,12500,4,Villa,96,1939,
+Askelundsvej 27 3740 Svaneke,27,413660.0,31-12-2001,Alm.,15910,2,Sommerhus,26,2000,
+Højevejen 1 3740 Svaneke,1,450000.0,20-12-2001,Fam.,2054,5,Stuehus,219,2002,
+Møllebakken 21D 3740 Svaneke,0,405000.0,14-12-2001,Alm.,10125,3,Sommerhus,40,1962,
+Gavlegade 4 3740 Svaneke,4,414000.0,10-12-2001,Fam.,5520,4,Sommerhus,75,1727,
+Henrik Hansensgade 5 3740 Svaneke,5,425000.0,10-12-2001,Andet,5519,5,Rækkehus,77,1861,
+Kirkevangen 11 3740 Svaneke,11,500000.0,04-12-2001,Alm.,8771,3,Rækkehus,57,1889,
+Vestergade 14 3740 Svaneke,14,685000.0,29-11-2001,Alm.,5708,5,Villa,120,1862,
+Strandstien 6 3740 Svaneke,6,510000.0,10-11-2001,Fam.,3000,3,Villa,170,1800,
+Aarsdale Kirkevej 3 3740 Svaneke,3,2238467.0,22-10-2001,Alm.,9648,6,Stuehus,232,1827,
+Munken 6 3740 Svaneke,6,645000.0,16-10-2001,Alm.,7087,4,Rækkehus,91,1969,
+Albret Wolfsensgade 15 3740 Svaneke,15,905167.0,01-10-2001,Alm.,6465,4,Villa,140,1967,
+Duebakken 3 3740 Svaneke,3,300000.0,27-09-2001,Alm.,3750,5,Sommerhus,80,1962,
+Indenmarken 2 3740 Svaneke,2,1060000.0,03-09-2001,Alm.,7517,4,Villa,141,1900,
+Bagergade 1 3740 Svaneke,1,615000.0,29-08-2001,Alm.,5540,3,Rækkehus,111,1856,
+Askelundsvej 12 3740 Svaneke,12,138000.0,07-08-2001,Alm.,1725,3,Sommerhus,80,2009,
+Albret Wolfsensgade 13 3740 Svaneke,13,535000.0,23-07-2001,Alm.,5350,4,Villa,100,1966,
+Gavlegade 17 3740 Svaneke,17,1350000.0,12-07-2001,Alm.,7758,5,Villa,174,1890,
+Hans Thygesensvej 1 3740 Svaneke,1,285158.0,27-06-2001,Alm.,2851,5,Rækkehus,100,1907,
+Gaden 37 3740 Svaneke,37,386000.0,21-06-2001,Alm.,3477,3,Villa,111,1890,
+Bølsbakke 19 3740 Svaneke,19,591518.0,04-06-2001,Alm.,7583,3,Sommerhus,78,2005,
+Byfogedbakken 3 3740 Svaneke,3,774445.0,18-05-2001,Alm.,6050,5,Villa,128,1920,
+Dyrlæge Jürgensensgade 14 3740 Svaneke,14,420000.0,14-05-2001,Alm.,7924,3,Sommerhus,53,1958,
+Svanebakken 1 3740 Svaneke,1,1290000.0,24-04-2001,Alm.,11120,6,Sommerhus,116,2001,
+Hans Thygesensvej 7 3740 Svaneke,7,466000.0,20-04-2001,Alm.,4438,4,Villa,105,1914,
+Borgergade 8 3740 Svaneke,8,649520.0,02-04-2001,Alm.,6245,4,Villa,104,1853,
+Svanebakken 7 3740 Svaneke,7,1290000.0,29-03-2001,Alm.,11834,5,Sommerhus,109,2001,
+Svanebakken 5 3740 Svaneke,5,1290000.0,25-03-2001,Alm.,11834,5,Sommerhus,109,2001,
+Sommervej 2C 3740 Svaneke,0,550000.0,18-03-2001,Fam.,6179,4,Sommerhus,89,1967,
+Strandvejen 18 3740 Svaneke,18,850000.0,16-03-2001,Alm.,5345,5,Villa,159,1935,
+Højevejen 2 3740 Svaneke,2,3000000.0,06-02-2001,Alm.,10380,15,Stuehus,289,1765,
+Urmarken 2 3740 Svaneke,2,875000.0,31-01-2001,Alm.,7608,4,Villa,115,1971,
+Vigebakke 6 3740 Svaneke,6,461000.0,11-01-2001,Auktion,3269,4,Villa,141,1896,
+Strandvejen 24 3740 Svaneke,24,400000.0,01-01-2001,Fam.,3703,5,Villa,108,1937,
+Dyrlæge Jürgensensgade 3 3740 Svaneke,3,1122480.0,12-12-2000,Alm.,6414,8,Villa,175,1973,
+Mosedalsvej 1 3740 Svaneke,1,310000.0,08-12-2000,Fam.,3100,3,Rækkehus,100,1700,
+Svanebakken 10 3740 Svaneke,10,1290000.0,27-11-2000,Alm.,11621,5,Sommerhus,111,2001,
+Norre Bakke 16 3740 Svaneke,16,1369684.0,20-11-2000,Alm.,7133,4,Villa,192,1982,
+Østermarievej 6 3740 Svaneke,6,575000.0,16-11-2000,Alm.,2637,10,Villa,218,1707,
+I Bakkerne 13 3740 Svaneke,13,150000.0,23-10-2000,Alm.,949,5,Villa,158,2008,
+Vestergade 25 3740 Svaneke,25,480000.0,02-10-2000,Alm.,7164,2,Rækkehus,67,1791,
+Hellig Kilde 5B 3740 Svaneke,0,350000.0,30-09-2000,Alm.,0,3,Villa,190,1892,
+Bølshavn 7 3740 Svaneke,7,561000.0,29-09-2000,Fam.,7901,3,Sommerhus,71,1920,
+Elmevej 3 3740 Svaneke,3,760000.0,26-09-2000,Alm.,8000,4,Villa,95,1853,
+Askelundsvej 16 3740 Svaneke,16,138000.0,23-09-2000,Alm.,0,2,Sommerhus,41,2001,
+Korshøje 5 3740 Svaneke,5,60000.0,21-09-2000,Alm.,276,8,Stuehus,217,1900,
+Laksegade 12 3740 Svaneke,12,1250000.0,11-09-2000,Alm.,14534,3,Villa,86,1890,
+Gryneparken 16 3740 Svaneke,16,59605.0,08-06-2000,Alm.,441,4,Villa,135,2000,
+Mosedalsvej 18 3740 Svaneke,18,540360.0,15-05-2000,Alm.,4002,5,Rækkehus,135,1847,
+Søndergade 6 3740 Svaneke,6,800000.0,15-05-2000,Alm.,4571,8,Villa,175,1850,
+I Pilene 1 3740 Svaneke,1,325000.0,01-05-2000,Alm.,4850,2,Rækkehus,67,1781,
+Urmarken 33 3740 Svaneke,33,1619000.0,19-04-2000,Alm.,9753,6,Villa,166,1978,
+Klippegade 6 3740 Svaneke,6,250000.0,19-04-2000,Alm.,6250,2,Rækkehus,40,1831,
+Albret Wolfsensgade 14 3740 Svaneke,14,594260.0,03-04-2000,Alm.,5212,4,Villa,114,1966,
+Gryneparken 8 3740 Svaneke,8,60000.0,20-03-2000,Alm.,491,4,Villa,122,2000,
+Tempelvej 5 3740 Svaneke,5,465000.0,16-03-2000,Alm.,3811,3,Villa,122,1905,
+Askelundsvej 10 3740 Svaneke,10,252000.0,13-03-2000,Alm.,0,3,Sommerhus,72,1957,
+Askelundsvej 8 3740 Svaneke,8,264000.0,07-02-2000,Alm.,5866,3,Sommerhus,45,1956,
+Vagtbodgade 13 3740 Svaneke,13,850000.0,03-02-2000,Alm.,5151,7,Villa,165,1915,
+Askelundsvej 14 3740 Svaneke,14,138000.0,24-01-2000,Alm.,1703,3,Sommerhus,81,2001,
+Lakseruten 22 3740 Svaneke,22,246000.0,23-01-2000,Fam.,4315,3,Lejlighed,57,1900,
+Bølshavn 51 3740 Svaneke,51,391000.0,31-12-1999,Alm.,5012,3,Sommerhus,78,1928,
+Bølshavn 50 3740 Svaneke,50,300000.0,17-12-1999,Alm.,2542,7,Sommerhus,118,1930,
+Storegade 20 3740 Svaneke,20,475000.0,13-12-1999,Andet,3598,4,Villa,132,1908,
+Skarvigen 10 3740 Svaneke,10,550000.0,13-12-1999,Alm.,6790,2,Villa,81,1900,
+Askelundsvej 30 3740 Svaneke,30,625000.0,13-12-1999,Alm.,8116,4,Sommerhus,77,1988,
+Byfogedvej 8 3740 Svaneke,8,153000.0,13-12-1999,Fam.,1610,2,Villa,95,1877,
+Strandstien 4 3740 Svaneke,4,500000.0,13-12-1999,Alm.,3703,4,Villa,135,1914,
+Laksegade 18 3740 Svaneke,18,1300000.0,28-11-1999,Alm.,8024,4,Villa,162,1801,
+Laksegade 4 3740 Svaneke,4,221000.0,22-11-1999,Alm.,0,4,Villa,150,1880,
+Møllebakken 2B 3740 Svaneke,0,712000.0,08-11-1999,Alm.,5085,3,Villa,140,1927,
+Møllevej 8 3740 Svaneke,8,900000.0,03-11-1999,Alm.,7964,5,Villa,113,1800,
+Skovgade 1B 3740 Svaneke,0,501500.0,03-11-1999,Fam.,7485,2,Sommerhus,67,1761,
+Gaden 35 3740 Svaneke,35,350000.0,15-10-1999,Alm.,3500,3,Rækkehus,100,1827,
+Østergade 8 3740 Svaneke,8,460000.0,11-10-1999,Alm.,4791,4,Villa,96,1880,
+Gryneparken 32 3740 Svaneke,32,1030000.0,11-10-1999,Alm.,6866,5,Villa,150,1988,
+Emil Andersens Gade 4 3740 Svaneke,4,800000.0,26-09-1999,Alm.,3433,8,Rækkehus,233,1890,
+Bølshavn 38 3740 Svaneke,38,650000.0,25-09-1999,Alm.,7558,3,Sommerhus,86,1778,
+Ibskervej 41 3740 Svaneke,41,960000.0,18-08-1999,Alm.,4229,7,Villa,227,1850,
+Hans Thygesensvej 46 3740 Svaneke,46,585000.0,02-08-1999,Alm.,3145,9,Villa,186,1930,
+Hans Thygesensvej 60 3740 Svaneke,60,250000.0,12-07-1999,Alm.,3246,2,Villa,77,1938,
+Elmevej 2 3740 Svaneke,2,630000.0,21-06-1999,Alm.,4256,6,Villa,148,1904,
+Elmevej 6 3740 Svaneke,6,436600.0,21-06-1999,Alm.,0,4,Villa,109,1878,
+Urmarken 8 3740 Svaneke,8,588000.0,14-06-1999,Alm.,5394,4,Villa,109,1959,
+Askelundsvej 5 3740 Svaneke,5,255000.0,06-06-1999,Fam.,4473,3,Sommerhus,57,1978,
+Vagtbodgade 4 3740 Svaneke,4,429000.0,31-05-1999,Alm.,4766,4,Villa,90,1928,
+Munken 3 3740 Svaneke,3,422000.0,23-04-1999,Alm.,0,4,Villa,159,1875,
+Laksegade 16 3740 Svaneke,16,1214000.0,29-03-1999,Alm.,5079,7,Villa,239,1770,
+Borgergade 6 3740 Svaneke,6,307880.0,10-03-1999,Alm.,3622,3,Villa,85,1800,
+Nørregårdsvejen 2 3740 Svaneke,2,2951728.0,11-02-1999,Alm.,10772,10,Stuehus,274,1800,
+Norre Bakke 5 3740 Svaneke,5,612000.0,08-02-1999,Alm.,6000,5,Villa,102,1962,
+Madvigsgade 12 3740 Svaneke,12,1115000.0,04-02-1999,Alm.,8511,3,Villa,131,1897,
+I Bakkerne 16D 3740 Svaneke,0,713000.0,01-02-1999,Alm.,7350,3,Villa,97,1984,
+Helgolandsgade 3 3740 Svaneke,3,578200.0,15-01-1999,Alm.,6151,3,Villa,94,1916,
+Lakseruten 3 3740 Svaneke,3,379000.0,04-01-1999,Alm.,2493,6,Villa,152,1858,
+Albret Wolfsensgade 1 3740 Svaneke,1,870000.0,04-01-1999,Fam.,4531,7,Villa,192,1965,
+Degnebrovejen 9 3740 Svaneke,9,200000.0,07-12-1998,Alm.,1470,4,Villa,136,1932,
+Bølshavn 29C 3740 Svaneke,0,1181000.0,07-12-1998,Alm.,6634,5,Villa,178,1979,
+Lindholmsvej 4 3740 Svaneke,4,519000.0,23-09-1998,Alm.,3873,3,Stuehus,134,1925,
+Askelundsvej 11 3740 Svaneke,11,505000.0,21-09-1998,Alm.,8145,4,Sommerhus,62,1984,
+Strandstien 20 3740 Svaneke,20,300000.0,07-09-1998,Alm.,5172,3,Sommerhus,58,1960,
+Strandstien 34 3740 Svaneke,34,46000.0,03-08-1998,Fam.,707,5,Sommerhus,65,1850,
+Hellig Kilde 4 3740 Svaneke,4,170000.0,26-06-1998,Alm.,1931,6,Sommerhus,88,1837,
+Brøddan 4 3740 Svaneke,4,100000.0,29-05-1998,Alm.,531,7,Villa,188,1867,
+Mosedalsvej 3 3740 Svaneke,3,590000.0,18-05-1998,Alm.,4503,4,Sommerhus,131,1827,
+Aarsdalevej 79 3740 Svaneke,79,342757.0,11-05-1998,Alm.,3533,3,Villa,97,1900,
+Bølshavn 62 3740 Svaneke,62,285000.0,06-05-1998,Fam.,2261,6,Sommerhus,126,1923,
+Møllebakken 2A 3740 Svaneke,0,910920.0,03-04-1998,Alm.,4769,7,Villa,191,1959,
+Søndergade 23 3740 Svaneke,23,435000.0,02-04-1998,Alm.,0,7,Villa,155,1910,
+Fiskergade 4 3740 Svaneke,4,384120.0,30-03-1998,Alm.,4221,3,Villa,91,1913,
+Ingemannsvej 8 3740 Svaneke,8,535000.0,19-03-1998,Alm.,3933,3,Villa,136,1975,
+Korshøje 3 3740 Svaneke,3,87500.0,02-03-1998,Alm.,3645,1,Sommerhus,24,1947,
+Søndergade 34 3740 Svaneke,34,648000.0,04-01-1998,Alm.,6415,6,Villa,101,1916,
+Elverhøj 3 3740 Svaneke,3,150000.0,29-12-1997,Alm.,1304,5,Sommerhus,115,2007,
+Søndergade 40 3740 Svaneke,40,473000.0,28-12-1997,Alm.,2515,5,Villa,188,1952,
+Bølshavn 31 3740 Svaneke,31,340000.0,22-12-1997,Fam.,3400,6,Sommerhus,100,1957,
+Skovgade 7 3740 Svaneke,7,249500.0,08-12-1997,Alm.,0,4,Villa,120,1850,
+Albret Wolfsensgade 20 3740 Svaneke,20,545000.0,04-11-1997,Alm.,5000,4,Villa,109,1967,
+Korshøje 8 3740 Svaneke,8,250000.0,02-10-1997,Alm.,2016,5,Villa,124,1909,
+Storegade 44 3740 Svaneke,44,563400.0,01-10-1997,Alm.,0,4,Villa,147,1925,
+Storegade 19 3740 Svaneke,19,660000.0,29-09-1997,Alm.,4714,3,Villa,140,1781,
+Helgolandsgade 4 3740 Svaneke,4,670241.0,29-09-1997,Alm.,3269,4,Villa,205,1761,
+Gryneparken 12 3740 Svaneke,12,737000.0,29-09-1997,Alm.,6522,4,Villa,113,1989,
+Aarsdalevej 44 3740 Svaneke,44,672000.0,25-09-1997,Alm.,4634,6,Villa,145,1932,
+Urmarken 23 3740 Svaneke,23,276668.0,02-09-1997,Fam.,0,5,Villa,135,1912,
+Ved Stranden 4 3740 Svaneke,4,412500.0,28-07-1997,Fam.,2825,5,Villa,146,1894,
+Strandvejen 31 3740 Svaneke,31,180000.0,21-06-1997,Alm.,0,4,Rækkehus,78,1935,
+Søndergade 19 3740 Svaneke,19,624175.0,19-06-1997,Alm.,4304,5,Villa,145,1815,
+Gavlegade 1 3740 Svaneke,1,439760.0,15-06-1997,Alm.,5637,6,Villa,78,1881,
+Skarvigen 6 3740 Svaneke,6,496750.0,02-06-1997,Alm.,4071,6,Villa,122,1910,
+Lakseruten 24 3740 Svaneke,24,295000.0,30-05-1997,Alm.,1735,6,Lejlighed,170,1900,
+I Pilene 5 3740 Svaneke,5,478141.0,14-04-1997,Alm.,5197,5,Villa,92,1818,
+Stengade 13 3740 Svaneke,13,220000.0,09-03-1997,Alm.,4888,3,Rækkehus,45,1887,
+Bølshavn 21 3740 Svaneke,21,254500.0,27-02-1997,Fam.,2859,5,Sommerhus,89,1830,
+Oluf Høstgade 2 3740 Svaneke,2,410000.0,06-01-1997,Alm.,2679,6,Villa,153,1862,
+Albret Wolfsensgade 21 3740 Svaneke,21,655000.0,11-12-1996,Fam.,0,6,Villa,156,1969,
+Stengade 5 3740 Svaneke,5,325000.0,09-12-1996,Alm.,3282,5,Villa,99,1898,
+Norre Bakke 1 3740 Svaneke,1,406500.0,09-12-1996,Alm.,2710,4,Villa,150,1959,
+Gaden 4 3740 Svaneke,4,291500.0,27-11-1996,Alm.,2699,4,Rækkehus,108,1920,
+Vestergade 10 3740 Svaneke,10,448000.0,28-10-1996,Alm.,3672,4,Rækkehus,122,1899,
+Skolebakken 13 3740 Svaneke,13,299500.0,24-09-1996,Alm.,3087,3,Villa,97,1952,
+Trappegangen 3 3740 Svaneke,3,340450.0,18-09-1996,Alm.,3700,3,Rækkehus,92,1827,
+Vagtbodgade 1 3740 Svaneke,1,350000.0,12-09-1996,Alm.,4069,3,Sommerhus,86,1938,
+Urmarken 3 3740 Svaneke,3,400000.0,11-09-1996,Alm.,0,7,Villa,148,1936,
+Skolebakken 7 3740 Svaneke,7,320900.0,05-09-1996,Alm.,2865,5,Villa,112,1880,
+Brugsebakken 2 3740 Svaneke,2,98996.0,04-09-1996,Fam.,1178,4,Rækkehus,84,1777,
+Lindholmsvej 1 3740 Svaneke,1,1450000.0,17-07-1996,Alm.,6444,6,Stuehus,225,1750,
+Skolebakken 15 3740 Svaneke,15,255000.0,02-07-1996,Alm.,1875,3,Villa,136,1700,
+Hans Thygesensvej 20 3740 Svaneke,20,195000.0,20-06-1996,Alm.,1695,4,Villa,115,1877,
+Brøndstræde 6 3740 Svaneke,6,185000.0,18-06-1996,Alm.,3363,2,Rækkehus,55,1761,
+Gaden 33 3740 Svaneke,33,265000.0,17-06-1996,Alm.,2623,3,Rækkehus,101,1927,
+Mosedalsvej 20 3740 Svaneke,20,141000.0,03-06-1996,Auktion,0,4,Rækkehus,62,1880,
+Bølshavn 27 3740 Svaneke,27,90000.0,25-05-1996,Alm.,762,5,Sommerhus,118,1999,
+Strandvejen 35 3740 Svaneke,35,830000.0,24-05-1996,Alm.,2881,6,Villa,288,1857,
+Møllevej 14 3740 Svaneke,14,435000.0,24-05-1996,Alm.,5178,3,Villa,84,1909,
+Højevejen 11 3740 Svaneke,11,244883.0,20-05-1996,Fam.,1069,10,Villa,229,1860,
+Strandstien 14 3740 Svaneke,14,10000.0,08-04-1996,Alm.,66,5,Villa,151,2005,
+Strandstien 38 3740 Svaneke,38,250000.0,02-04-1996,Fam.,5208,1,Sommerhus,48,1770,
+Norre Bakke 11 3740 Svaneke,11,495000.0,25-03-1996,Alm.,4267,5,Villa,116,1969,
+Aarsdale Kirkevej 9 3740 Svaneke,9,500000.0,15-03-1996,Alm.,3164,3,Villa,158,1880,
+I Pilene 4 3740 Svaneke,4,170000.0,04-03-1996,Alm.,0,4,Villa,95,1827,
+Reberbanevej 14 3740 Svaneke,14,678000.0,05-02-1996,Alm.,3213,5,Villa,211,1985,
+Svinget 2 3740 Svaneke,2,450000.0,17-01-1996,Alm.,4411,4,Villa,102,1871,
+Albret Wolfsensgade 29 3740 Svaneke,29,77250.0,16-01-1996,Alm.,394,6,Villa,196,1996,

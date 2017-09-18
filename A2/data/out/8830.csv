@@ -1,0 +1,2370 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Tinghøjvej 4 8830 Tjele,4,222500.0,25-04-2017,Alm.,1002,4,Villa,222,1959,-55 %
+Frederiksberg 18 8830 Tjele,18,720000.0,25-04-2017,Alm.,6050,5,Villa,119,1943,-9 %
+Røddingvej 23 8830 Tjele,23,365000.0,10-04-2017,Fam.,2433,4,Villa,150,1966,
+Kirkelund 9 8830 Tjele,9,1300000.0,05-04-2017,Alm.,10833,4,Villa,120,2001,-13 %
+Østergade 79 8830 Tjele,79,775000.0,01-04-2017,Alm.,5065,5,Villa,153,1943,-3 %
+Højmarken 1 8830 Tjele,1,645000.0,31-03-2017,Alm.,5657,4,Villa,114,1943,0 %
+Møllevej 18 8830 Tjele,18,607035.0,31-03-2017,Alm.,3793,4,Villa,160,1953,
+Ingstrupholmvej 1 8830 Tjele,1,170000.0,30-03-2017,Alm.,1024,5,Stuehus,166,1932,
+Bytoften 3 8830 Tjele,3,1700000.0,30-03-2017,Alm.,9941,6,Villa,171,1995,0 %
+Frederiksberg 28 8830 Tjele,28,875000.0,30-03-2017,Alm.,7291,4,Villa,120,1943,-2 %
+Hobrovej 50 8830 Tjele,50,520000.0,27-03-2017,Alm.,5416,3,Villa,96,1906,0 %
+Frederiksberg 2 8830 Tjele,2,653312.0,21-03-2017,Fam.,3266,5,Villa,200,1974,
+Hovedgaden 40 8830 Tjele,40,150000.0,21-03-2017,Fam.,1630,2,Villa,92,1858,
+Fælledvej 6 8830 Tjele,6,965000.0,13-03-2017,Alm.,4849,7,Villa,199,1797,0 %
+Havrebakken 2 8830 Tjele,2,1590000.0,10-03-2017,Alm.,9814,6,Villa,162,1954,-6 %
+Hobro Landevej 98 8830 Tjele,98,125000.0,08-03-2017,Alm.,1644,4,Villa,76,1954,
+Kirkegade 16 8830 Tjele,16,680000.0,08-03-2017,Alm.,4146,5,Villa,164,1914,-14 %
+Overlundvej 13 8830 Tjele,13,890000.0,04-03-2017,Alm.,6312,3,Stuehus,141,1930,-15 %
+Hobro Landevej 150 8830 Tjele,150,80000.0,02-03-2017,Alm.,898,5,Villa,89,1912,
+Degnevænget 33 8830 Tjele,33,995000.0,01-03-2017,Alm.,8361,4,Villa,119,1980,
+Østergade 63B 8830 Tjele,0,1200000.0,28-02-2017,Alm.,14285,3,Villa,84,1900,
+Søndermarksvej 1 8830 Tjele,1,760000.0,28-02-2017,Alm.,6280,5,Villa,121,1946,-3 %
+Haugårdsvej 14 8830 Tjele,14,248468.0,27-02-2017,Andet,2279,3,Villa,109,1960,
+Overgårdsvej 9 8830 Tjele,9,397500.0,23-02-2017,Alm.,1691,6,Stuehus,235,1923,
+Aalborgvej 164 8830 Tjele,164,1429000.0,20-02-2017,Alm.,12318,5,Stuehus,116,1930,
+Hviddingvej 3 8830 Tjele,3,790000.0,19-02-2017,Alm.,4540,5,Villa,174,1928,
+Tindbækvej 2 8830 Tjele,2,750000.0,17-02-2017,Alm.,4838,5,Villa,155,1947,
+Engvej 14 8830 Tjele,14,860000.0,13-02-2017,Alm.,3659,7,Villa,235,1969,-4 %
+Næstegårdvænget 1 8830 Tjele,1,1100000.0,13-02-2017,Alm.,8800,4,Villa,125,1977,-8 %
+Meldgårdsvej 129 8830 Tjele,129,1300000.0,10-02-2017,Alm.,10156,5,Villa,128,1986,-7 %
+Østervangsvej 5 8830 Tjele,5,700000.0,07-02-2017,Alm.,7692,3,Villa,91,2005,
+Tjelevej 37 8830 Tjele,37,995000.0,03-02-2017,Alm.,8155,4,Stuehus,122,1966,
+Catrinevej 7 8830 Tjele,7,340000.0,31-01-2017,Alm.,2266,8,Villa,150,1955,-14 %
+Høndrupvej 17 8830 Tjele,17,1600000.0,30-01-2017,Alm.,8938,6,Villa,179,1905,-6 %
+Sødalvej 33 8830 Tjele,33,1321700.0,27-01-2017,Alm.,5721,7,Stuehus,231,1922,-34 %
+Vorningvej 46 8830 Tjele,46,1610000.0,25-01-2017,Alm.,8256,5,Villa,195,1952,-9 %
+Sødalvej 20 8830 Tjele,20,3200000.0,23-01-2017,Alm.,12749,7,Villa,251,2000,
+Tinggade 8 8830 Tjele,8,610000.0,20-01-2017,Alm.,3388,6,Villa,180,1962,-23 %
+Over Viskumvej 11 8830 Tjele,11,1800000.0,19-01-2017,Alm.,6593,10,Stuehus,273,1956,0 %
+Østervangsvej 15 8830 Tjele,15,35000.0,16-01-2017,Alm.,147,8,Villa,238,1927,
+Østergade 42B 8830 Tjele,0,1250000.0,16-01-2017,Alm.,11904,3,Rækkehus,105,2016,-3 %
+Vibevej 5 8830 Tjele,5,1875000.0,06-01-2017,Alm.,8152,5,Villa,230,1973,-1 %
+Hobro Landevej 14 8830 Tjele,14,1600000.0,04-01-2017,Alm.,15384,4,Villa,104,1875,
+Østergade 14 8830 Tjele,14,1325000.0,02-01-2017,Alm.,9265,5,Villa,143,1989,-11 %
+Hobro Landevej 12 8830 Tjele,12,300000.0,30-12-2016,Alm.,2857,3,Villa,105,1919,
+Erikstoft 3 8830 Tjele,3,1950000.0,30-12-2016,Alm.,11016,6,Villa,177,2001,-2 %
+Overlundvej 20 8830 Tjele,20,2900000.0,30-12-2016,Alm.,11284,6,Villa,257,1895,
+Hørsøvej 1 8830 Tjele,1,700000.0,29-12-2016,Alm.,4964,6,Villa,141,1956,
+Ingstrupholmvej 5 8830 Tjele,5,1800000.0,20-12-2016,Alm.,0,5,Villa,107,1923,0 %
+Tinghøjvej 46 8830 Tjele,46,17700000.0,20-12-2016,Alm.,98333,4,Stuehus,180,1914,
+Haugårdsvej 7 8830 Tjele,7,640000.0,16-12-2016,Alm.,4571,5,Villa,140,1912,
+Møller Andersensvej 7 8830 Tjele,7,1250000.0,16-12-2016,Alm.,9469,4,Villa,132,1971,-3 %
+Tjelevej 22 8830 Tjele,22,4845000.0,15-12-2016,Fam.,27685,7,Stuehus,175,1933,
+Møllevej 5 8830 Tjele,5,1225000.0,12-12-2016,Alm.,9351,2,Villa,131,1996,-5 %
+Tåruphøjvej 5 8830 Tjele,5,350000.0,12-12-2016,Fam.,1977,7,Villa,177,1900,
+Kæpsmarksvej 4 8830 Tjele,4,800000.0,06-12-2016,Alm.,5333,5,Villa,150,1973,-5 %
+Hyldemosevej 18A 8830 Tjele,0,550000.0,05-12-2016,Alm.,5555,4,Rækkehus,99,1968,-4 %
+Velds Møllevej 1 8830 Tjele,1,1277500.0,02-12-2016,Alm.,9678,4,Villa,132,1971,-7 %
+Østergade 45 8830 Tjele,45,1835000.0,30-11-2016,Alm.,9221,6,Villa,199,1907,-16 %
+Fuglebakken 4 8830 Tjele,4,1450000.0,30-11-2016,Alm.,12083,4,Villa,120,2006,-3 %
+Tinggade 27 8830 Tjele,27,500000.0,29-11-2016,Alm.,3731,4,Villa,134,1876,
+Højmarken 16 8830 Tjele,16,4900000.0,29-11-2016,Alm.,21491,8,Stuehus,228,1863,
+Frederiksberg Bakke 7 8830 Tjele,7,700000.0,23-11-2016,Alm.,6363,4,Villa,110,1967,-20 %
+Hobro Landevej 57 8830 Tjele,57,962500.0,21-11-2016,Alm.,3774,8,Villa,255,1919,
+Erikstrupvej 8 8830 Tjele,8,200000.0,15-11-2016,Alm.,1265,9,Villa,158,1919,
+Tinghøjvej 27 8830 Tjele,27,631000.0,14-11-2016,Alm.,4605,4,Villa,137,1931,
+Hobro Landevej 163 8830 Tjele,163,246500.0,14-11-2016,Fam.,2106,3,Villa,117,1904,
+Vingevej 16 8830 Tjele,16,775000.0,12-11-2016,Alm.,5236,6,Villa,148,1975,-6 %
+Løvskal Landevej 204A 8830 Tjele,0,1920000.0,12-11-2016,Alm.,6906,9,Villa,278,1874,
+Skovagervej 120 8830 Tjele,120,1255000.0,08-11-2016,Alm.,8096,6,Villa,155,1990,-10 %
+Toftevænget 5 8830 Tjele,5,940000.0,06-11-2016,Alm.,8703,5,Villa,108,1964,-6 %
+Tjørnevej 25 8830 Tjele,25,2550000.0,27-10-2016,Alm.,13281,6,Villa,192,2002,-9 %
+Drøwten 17 8830 Tjele,17,515000.0,20-10-2016,Alm.,4598,3,Villa,112,1868,-10 %
+Bakkevej 20 8830 Tjele,20,1100000.0,19-10-2016,Alm.,6010,6,Villa,183,1975,-7 %
+Vorningvej 67 8830 Tjele,67,1980000.0,18-10-2016,Alm.,11000,6,Stuehus,180,1915,
+Flarupvej 12 8830 Tjele,12,3400000.0,12-10-2016,Andet,17894,7,Stuehus,190,1966,
+Stien 3 8830 Tjele,3,580000.0,11-10-2016,Alm.,5321,3,Villa,109,1955,-13 %
+Høegsvej 42 8830 Tjele,42,1200000.0,11-10-2016,Alm.,9523,4,Villa,126,2001,0 %
+Nordvang 3 8830 Tjele,3,283000.0,11-10-2016,Fam.,2210,5,Villa,128,1973,
+Egelundsparken 13A 8830 Tjele,0,550000.0,05-10-2016,Fam.,11956,2,Rækkehus,46,1989,
+Østergade 18 8830 Tjele,18,1066000.0,05-10-2016,Alm.,6789,5,Villa,157,1916,
+Holmevej 13 8830 Tjele,13,8450000.0,04-10-2016,Fam.,35062,7,Stuehus,241,1870,
+Pederstrupvej 19 8830 Tjele,19,450000.0,04-10-2016,Alm.,4687,5,Villa,96,1971,
+Stenager 1 8830 Tjele,1,300000.0,04-10-2016,Alm.,1704,6,Villa,176,2017,
+Bøgevej 4 8830 Tjele,4,240000.0,30-09-2016,Alm.,2400,2,Villa,100,1963,
+Brobjergvej 4 8830 Tjele,4,1040000.0,27-09-2016,Alm.,5591,7,Villa,186,1912,-10 %
+Høndrupvej 15 8830 Tjele,15,2390000.0,23-09-2016,Alm.,11773,4,Stuehus,203,1908,-4 %
+Viborgvej 69 8830 Tjele,69,321000.0,22-09-2016,Auktion,1299,9,Villa,247,1914,-46 %
+Tindbæk Byvej 25 8830 Tjele,25,100000.0,14-09-2016,Alm.,800,6,Villa,125,1946,-75 %
+Skibdalvej 47 8830 Tjele,47,235000.0,14-09-2016,Alm.,2175,4,Villa,108,1910,
+Hulbækvej 36 8830 Tjele,36,1850000.0,14-09-2016,Alm.,10277,6,Villa,180,1897,-2 %
+Langsøvej 13 8830 Tjele,13,3995000.0,06-09-2016,Alm.,21830,6,Stuehus,183,1998,-5 %
+Kløvermarken 8 8830 Tjele,8,851429.0,05-09-2016,Fam.,6260,5,Villa,136,2008,
+Lærkevej 3 8830 Tjele,3,1258000.0,01-09-2016,Alm.,7962,4,Villa,158,1974,-6 %
+Egelundsparken 5A 8830 Tjele,0,500915.0,31-08-2016,Alm.,5272,4,Rækkehus,95,1989,
+Vingevej 38 8830 Tjele,38,1175000.0,23-08-2016,Alm.,10879,3,Villa,108,1966,
+Egelundsparken 15A 8830 Tjele,0,500000.0,23-08-2016,Alm.,10869,2,Rækkehus,46,1989,
+Toftevænget 2G 8830 Tjele,0,950000.0,20-08-2016,Alm.,9500,4,Rækkehus,100,2008,-4 %
+Tindbæk Byvej 40 8830 Tjele,40,360000.0,09-08-2016,Fam.,2222,6,Villa,162,1900,
+Søvangen 23 8830 Tjele,23,1195000.0,03-08-2016,Alm.,7422,6,Villa,161,1987,-8 %
+Sønderupvej 8 8830 Tjele,8,51130000.0,02-08-2016,Alm.,162834,9,Stuehus,314,1899,
+Sønderupvej 2 8830 Tjele,2,4040000.0,02-08-2016,Alm.,18035,11,Stuehus,224,1863,
+Kløvermarken 16 8830 Tjele,16,2100000.0,28-07-2016,Alm.,12883,5,Villa,163,2007,
+Drosselvej 10 8830 Tjele,10,1450000.0,14-07-2016,Alm.,9354,3,Villa,155,1972,-3 %
+Havrisvej 15 8830 Tjele,15,11942500.0,11-07-2016,Fam.,53795,9,Stuehus,222,1911,
+Møller Andersensvej 14 8830 Tjele,14,800000.0,06-07-2016,Alm.,5369,5,Villa,149,1972,
+Meldgårdsvej 49 8830 Tjele,49,840000.0,04-07-2016,Alm.,7118,4,Villa,118,1977,-6 %
+Mosevænget 6 8830 Tjele,6,915000.0,01-07-2016,Alm.,8798,3,Villa,104,1986,-3 %
+Viborgvej 22 8830 Tjele,22,1075000.0,30-06-2016,Alm.,6323,7,Villa,170,1956,-2 %
+Præstevænget 3 8830 Tjele,3,1100000.0,27-06-2016,Alm.,10091,3,Villa,109,1981,-8 %
+Bystævnet 9 8830 Tjele,9,2425000.0,26-06-2016,Fam.,17962,6,Stuehus,135,1852,
+Tinggade 17 8830 Tjele,17,700000.0,23-06-2016,Alm.,4605,4,Villa,152,1961,
+Hestehaven 6 8830 Tjele,6,2000000.0,23-06-2016,Alm.,10204,5,Villa,196,2002,-7 %
+Viborgvej 87 8830 Tjele,87,350000.0,22-06-2016,Alm.,2536,6,Villa,138,1920,-21 %
+Nedergårdsvej 8 8830 Tjele,8,1250000.0,22-06-2016,Alm.,5000,8,Villa,250,1876,0 %
+Bøgedalen 17 8830 Tjele,17,1800000.0,21-06-2016,Alm.,11392,4,Villa,158,2009,-4 %
+Åstrupvej 3 8830 Tjele,3,9925000.0,20-06-2016,Alm.,49625,5,Stuehus,200,1912,
+Trekløvervej 5 8830 Tjele,5,2490000.0,20-06-2016,Alm.,11800,7,Villa,211,2010,-2 %
+Veldsparken 15 8830 Tjele,15,800000.0,17-06-2016,Alm.,5228,5,Villa,153,1981,-20 %
+Kistrupvej 1 8830 Tjele,1,2350000.0,17-06-2016,Alm.,16785,5,Stuehus,140,1877,114 %
+Egelundsparken 11B 8830 Tjele,0,440000.0,15-06-2016,Alm.,6769,2,Rækkehus,65,1989,
+Røddingvej 31 8830 Tjele,31,2600000.0,14-06-2016,Alm.,15476,7,Villa,168,1931,-13 %
+Drøwten 28 8830 Tjele,28,795000.0,10-06-2016,Alm.,8457,5,Villa,94,1946,0 %
+Bakkevej 9 8830 Tjele,9,280000.0,09-06-2016,Alm.,2857,5,Villa,98,1963,
+Randersvej 57 8830 Tjele,57,9435000.0,03-06-2016,Fam.,79957,5,Stuehus,118,1927,
+Nørreåvej 19 8830 Tjele,19,17200000.0,31-05-2016,Alm.,81904,5,Stuehus,210,1880,
+Vingevej 19 8830 Tjele,19,655000.0,30-05-2016,Alm.,8506,3,Villa,77,1960,-6 %
+Søndertoft 2 8830 Tjele,2,2375000.0,27-05-2016,Alm.,11934,5,Villa,199,2005,-5 %
+Sødalvej 23 8830 Tjele,23,2250000.0,20-05-2016,Alm.,8587,7,Villa,262,1921,-5 %
+Marie Grubbes Vej 14 8830 Tjele,14,655000.0,17-05-2016,Alm.,3969,6,Villa,165,1979,-10 %
+Meldgårdsvej 123 8830 Tjele,123,1240000.0,17-05-2016,Alm.,7607,6,Villa,163,1985,-4 %
+Hobro Landevej 138 8830 Tjele,138,1247500.0,17-05-2016,Fam.,6930,5,Stuehus,180,1912,
+Præstevænget 16 8830 Tjele,16,845000.0,26-04-2016,Alm.,4246,7,Villa,199,1973,-13 %
+Holmevej 29 8830 Tjele,29,2560000.0,26-04-2016,Alm.,7852,10,Villa,326,1931,-5 %
+Sønderlund 4 8830 Tjele,4,750000.0,26-04-2016,Fam.,4518,5,Villa,166,1999,-62 %
+Lundager 1 8830 Tjele,1,225000.0,21-04-2016,Alm.,1371,6,Villa,164,2017,
+Vesterled 22 8830 Tjele,22,675000.0,15-04-2016,Andet,6308,4,Villa,107,1933,
+Grønhøjvej 22 8830 Tjele,22,400000.0,13-04-2016,Alm.,1990,7,Stuehus,201,1920,-95 %
+Jordkløvervej 1 8830 Tjele,1,426005.0,11-04-2016,Alm.,2491,5,Villa,171,2016,
+Hulbækvej 37 8830 Tjele,37,1300000.0,04-04-2016,Alm.,11818,4,Villa,110,1967,-2 %
+Østervang 7 8830 Tjele,7,650000.0,01-04-2016,Alm.,5078,5,Villa,128,1973,
+Hobrovej 42 8830 Tjele,42,1760893.0,01-04-2016,Fam.,4076,14,Stuehus,432,1907,-41 %
+Meldgårdsvej 107 8830 Tjele,107,1255000.0,26-03-2016,Alm.,8202,7,Villa,153,1983,-3 %
+Toftevej 3 8830 Tjele,3,758000.0,23-03-2016,Alm.,6890,5,Villa,110,1930,-5 %
+Aalborgvej 202 8830 Tjele,202,1590000.0,16-03-2016,Alm.,5824,8,Stuehus,273,1910,-6 %
+Vibevej 17 8830 Tjele,17,775000.0,04-03-2016,Alm.,5698,3,Villa,136,1973,-13 %
+Møller Andersensvej 24 8830 Tjele,24,875000.0,01-03-2016,Alm.,5537,5,Villa,158,1970,-12 %
+Gl. Aalborgvej 3 8830 Tjele,3,1240000.0,29-02-2016,Alm.,8920,6,Villa,139,1939,
+Hyldevænget 20 8830 Tjele,20,1350000.0,23-02-2016,Fam.,6279,7,Villa,215,1973,
+Navntoftvej 3 8830 Tjele,3,499000.0,15-02-2016,Alm.,1941,7,Stuehus,257,1915,
+Vorningvej 109 8830 Tjele,109,12193463.0,08-02-2016,Fam.,79178,7,Stuehus,154,1900,
+Løvelbrovej 13 8830 Tjele,13,5397500.0,08-02-2016,Fam.,31199,7,Stuehus,173,1877,
+Hobrovej 73 8830 Tjele,73,125000.0,28-01-2016,Alm.,1086,3,Stuehus,115,1905,
+Degnevænget 16 8830 Tjele,16,925000.0,27-01-2016,Alm.,6801,5,Villa,136,1980,-7 %
+Viborgvej 12 8830 Tjele,12,320000.0,27-01-2016,Alm.,2666,5,Villa,120,1925,
+Skibdalvej 54 8830 Tjele,54,1670000.0,26-01-2016,Andet,6028,6,Villa,277,1935,-1 %
+Burrehøjvej 41 8830 Tjele,41,6100000.0,21-01-2016,Alm.,24796,6,Stuehus,246,1972,
+Randersvej 58 8830 Tjele,58,254475.0,15-01-2016,Alm.,1957,6,Stuehus,130,1939,
+Kornvænget 17 8830 Tjele,17,575000.0,12-01-2016,Alm.,7187,3,Rækkehus,80,1980,-17 %
+Egelundsparken 13B 8830 Tjele,0,370000.0,12-01-2016,Fam.,8043,2,Rækkehus,46,1989,
+Industrivej 24 8830 Tjele,24,3000000.0,11-01-2016,Alm.,10676,6,Villa,281,2008,
+Hovedgaden 13 8830 Tjele,13,250000.0,11-01-2016,Alm.,1269,6,Villa,197,1957,
+Vestergade 32 8830 Tjele,32,285000.0,08-01-2016,Alm.,1952,5,Villa,146,1939,-52 %
+Præstevænget 12 8830 Tjele,12,1250000.0,06-01-2016,Alm.,9057,5,Villa,138,1973,-3 %
+Rørbæksvej 13 8830 Tjele,13,3800000.0,06-01-2016,Alm.,27941,8,Stuehus,136,1920,
+Tindbæk Fælled 9 8830 Tjele,9,1200000.0,06-01-2016,Alm.,3550,5,Stuehus,338,1923,-14 %
+Veldsvej 5 8830 Tjele,5,800000.0,23-12-2015,Alm.,6504,3,Villa,123,1991,-11 %
+Præstegårdsvej 6 8830 Tjele,6,750000.0,22-12-2015,Alm.,2442,12,Villa,307,1965,
+Bystævnet 4 8830 Tjele,4,6160000.0,17-12-2015,Fam.,24251,8,Stuehus,254,1937,
+Nørremarksvej 29 8830 Tjele,29,1860000.0,15-12-2015,Alm.,8157,7,Villa,228,1982,-5 %
+Søvangen 8 8830 Tjele,8,1150000.0,09-12-2015,Alm.,9663,4,Villa,119,1988,-4 %
+Kvorning Møllevej 14 8830 Tjele,14,7700000.0,09-12-2015,Alm.,33189,9,Stuehus,232,1903,
+Veldsparken 37 8830 Tjele,37,1665000.0,07-12-2015,Alm.,8903,6,Villa,187,1976,-5 %
+Søbakken 35 8830 Tjele,35,1696750.0,03-12-2015,Alm.,11542,6,Villa,147,2002,
+Hobrovej 75B 8830 Tjele,0,675000.0,22-11-2015,Andet,3552,8,Stuehus,190,1900,
+Grønhøjvej 26 8830 Tjele,26,2795000.0,18-11-2015,Alm.,13060,8,Stuehus,214,1977,-13 %
+Lærkevej 28 8830 Tjele,28,600000.0,17-11-2015,Alm.,3550,5,Villa,169,1974,-14 %
+Burrehøjvej 8 8830 Tjele,8,284000.0,09-11-2015,Andet,2427,5,Villa,117,1950,
+Mosevænget 15 8830 Tjele,15,648326.0,06-11-2015,Alm.,4874,6,Villa,133,1981,
+Søndermarksvej 2 8830 Tjele,2,275000.0,06-11-2015,Alm.,3055,3,Villa,90,1945,
+Vorningvej 58 8830 Tjele,58,925000.0,02-11-2015,Alm.,5316,4,Villa,174,1912,-7 %
+Hestehaven 7 8830 Tjele,7,320295.0,01-11-2015,Fam.,1554,7,Villa,206,1999,
+Kirkebakken 5 8830 Tjele,5,495000.0,30-10-2015,Alm.,3721,5,Villa,133,1900,
+Grønhøjvej 4 8830 Tjele,4,360000.0,29-10-2015,Alm.,2727,4,Villa,132,1971,-9 %
+Enghavevej 23 8830 Tjele,23,1050000.0,29-10-2015,Fam.,7954,4,Villa,132,1880,
+Gartnerbakken 7 8830 Tjele,7,440000.0,27-10-2015,Auktion,3666,4,Villa,120,1957,
+Frederiksberg Bakke 5 8830 Tjele,5,930000.0,27-10-2015,Alm.,7153,4,Villa,130,1965,-2 %
+Nørregade 10 8830 Tjele,10,775000.0,20-10-2015,Fam.,4696,7,Villa,165,1946,
+Veldsparken 11 8830 Tjele,11,1225000.0,17-10-2015,Alm.,7080,7,Villa,173,1979,-5 %
+Korsbakken 32 8830 Tjele,32,1075000.0,12-10-2015,Alm.,10336,4,Villa,104,1977,-8 %
+Degnevænget 31 8830 Tjele,31,1350000.0,12-10-2015,Alm.,8083,5,Villa,167,1979,-3 %
+Skibdalvej 24 8830 Tjele,24,90000.0,08-10-2015,Alm.,656,6,Villa,137,1941,
+Grønhøjvej 11 8830 Tjele,11,573726.0,30-09-2015,Fam.,3799,6,Villa,151,1948,
+Vestergade 15 8830 Tjele,15,1350000.0,30-09-2015,Alm.,6852,8,Villa,197,1933,-3 %
+Hobrovej 8 8830 Tjele,8,757816.0,30-09-2015,Alm.,4457,6,Villa,170,1958,
+Vingevej 53 8830 Tjele,53,495000.0,29-09-2015,Alm.,4669,3,Villa,106,1877,
+Bakkestien 5 8830 Tjele,5,865000.0,29-09-2015,Alm.,8650,4,Villa,100,1969,-1 %
+Fælledparken 25 8830 Tjele,25,1965000.0,28-09-2015,Alm.,12515,6,Villa,157,2007,
+Høegsvej 5 8830 Tjele,5,2150000.0,26-09-2015,Alm.,9907,8,Villa,217,1928,-7 %
+Stenager 3 8830 Tjele,3,240000.0,25-09-2015,Alm.,1428,5,Villa,168,2016,-4 %
+Aalborgvej 208 8830 Tjele,208,615000.0,24-09-2015,Alm.,6150,4,Villa,100,1965,-3 %
+Granstien 12 8830 Tjele,12,1495000.0,23-09-2015,Alm.,21357,2,Stuehus,70,1877,0 %
+Skibdalvej 15 8830 Tjele,15,306322.0,23-09-2015,Alm.,1720,8,Villa,178,1931,
+Sdr. Alle 6 8830 Tjele,6,1012500.0,22-09-2015,Alm.,7848,5,Villa,129,1936,-6 %
+Langdyssevej 1 8830 Tjele,1,700000.0,19-09-2015,Alm.,2916,10,Villa,240,1875,
+Bavnehøjvej 12 8830 Tjele,12,640000.0,17-09-2015,Alm.,0,4,Villa,120,1914,-8 %
+Enghavevej 5 8830 Tjele,5,1810000.0,17-09-2015,Alm.,10111,6,Villa,179,1777,-9 %
+Søbakken 9 8830 Tjele,9,1675000.0,11-09-2015,Alm.,12226,4,Villa,137,2001,-6 %
+Skolevangen 16 8830 Tjele,16,850000.0,11-09-2015,Alm.,7727,3,Villa,110,1965,-5 %
+Søskrænten 2 8830 Tjele,2,1760000.0,03-09-2015,Alm.,9361,5,Villa,188,2004,-6 %
+Skibdalvej 51 8830 Tjele,51,2850000.0,02-09-2015,Alm.,15000,5,Stuehus,190,1953,-12 %
+Tindbækvej 95 8830 Tjele,95,175000.0,01-09-2015,Alm.,1750,2,Villa,100,1956,-63 %
+Åstrupvej 4 8830 Tjele,4,1095000.0,31-08-2015,Alm.,10233,3,Villa,107,1907,0 %
+Stadionbakken 3 8830 Tjele,3,311900.0,27-08-2015,Alm.,2051,5,Villa,152,1957,
+Ingstrupvej 17 8830 Tjele,17,820000.0,26-08-2015,Alm.,3904,5,Villa,210,1926,-4 %
+Hovedgaden 12 8830 Tjele,12,895000.0,24-08-2015,Alm.,6884,5,Villa,130,1978,0 %
+Hybenvej 7 8830 Tjele,7,880000.0,23-08-2015,Alm.,6821,5,Villa,129,1945,-2 %
+Hovedgaden 19 8830 Tjele,19,1550000.0,18-08-2015,Alm.,7673,5,Villa,202,1917,4 %
+Hobro Landevej 153 8830 Tjele,153,100000.0,17-08-2015,Alm.,793,3,Villa,126,1914,
+Østervangsvej 41 8830 Tjele,41,450000.0,13-08-2015,Alm.,4245,4,Villa,106,1971,-7 %
+Burrehøjvej 16 8830 Tjele,16,1550000.0,06-08-2015,Alm.,4111,7,Villa,377,1942,4 %
+Tinggade 33 8830 Tjele,33,1350000.0,04-08-2015,Auktion,11538,4,Stuehus,117,1905,
+Holmevej 4 8830 Tjele,4,275000.0,04-08-2015,Alm.,1708,4,Villa,161,1946,0 %
+Høndrupvej 6 8830 Tjele,6,300000.0,31-07-2015,Andet,1666,6,Villa,180,1973,
+Tjørnevej 1 8830 Tjele,1,887500.0,29-07-2015,Alm.,5546,4,Villa,160,1974,-11 %
+Hovedgaden 34 8830 Tjele,34,1150000.0,24-07-2015,Alm.,4307,9,Villa,267,1889,-1 %
+Veldsparken 26 8830 Tjele,26,850000.0,16-07-2015,Alm.,5666,5,Villa,150,1976,-10 %
+Højmarken 10 8830 Tjele,10,1125000.0,08-07-2015,Alm.,5514,5,Villa,204,1976,-29 %
+Stenkløvervej 3 8830 Tjele,3,235700.0,03-07-2015,Alm.,1473,5,Villa,160,2016,
+Høegsvej 18 8830 Tjele,18,1050000.0,29-06-2015,Alm.,6953,5,Villa,151,1990,-12 %
+Veldsparken 33 8830 Tjele,33,875000.0,24-06-2015,Alm.,6433,5,Villa,136,1988,-8 %
+Over Viskumvej 7 8830 Tjele,7,1100000.0,23-06-2015,Alm.,5188,10,Villa,212,1925,-12 %
+"Sølystvej 9, ST. TH 8830 Tjele",0,625000.0,22-06-2015,Alm.,7352,3,Lejlighed,85,2003,-10 %
+Løndalen 27 8830 Tjele,27,1450000.0,19-06-2015,Alm.,8479,5,Villa,171,2006,
+Hyldevænget 13 8830 Tjele,13,1045000.0,12-06-2015,Alm.,8495,4,Villa,123,1973,-5 %
+Østergade 107 8830 Tjele,107,150000.0,09-06-2015,Auktion,684,7,Villa,219,1939,
+Hobro Landevej 128 8830 Tjele,128,250000.0,04-06-2015,Auktion,1388,5,Stuehus,180,1940,-57 %
+Randersvej 44 8830 Tjele,44,4275000.0,03-06-2015,Andet,18037,11,Villa,237,1925,
+Kløvermarken 14 8830 Tjele,14,2280000.0,22-05-2015,Alm.,11573,6,Villa,197,2006,-1 %
+Engblommevej 6 8830 Tjele,6,1495350.0,21-05-2015,Fam.,8448,5,Villa,177,2009,
+Veldsparken 65 8830 Tjele,65,1360000.0,21-05-2015,Alm.,9066,5,Villa,150,1984,-3 %
+Engvej 6 8830 Tjele,6,720000.0,21-05-2015,Alm.,4235,6,Villa,170,1973,-9 %
+Møller Andersensvej 26 8830 Tjele,26,1250000.0,19-05-2015,Alm.,3453,11,Villa,362,1970,-7 %
+Lærkevej 24 8830 Tjele,24,965000.0,19-05-2015,Alm.,6307,4,Villa,153,1973,-3 %
+Hobro Landevej 55 8830 Tjele,55,100000.0,18-05-2015,Alm.,1075,3,Villa,93,1900,
+Vorningvej 40 8830 Tjele,40,1075000.0,18-05-2015,Alm.,6595,4,Stuehus,163,1934,-68 %
+Fuglesangs Alle 14 8830 Tjele,14,900000.0,12-05-2015,Alm.,7627,4,Villa,118,1909,-8 %
+Haugårdsvej 42 8830 Tjele,42,428250.0,12-05-2015,Fam.,2130,6,Stuehus,201,1925,
+Vibevej 13 8830 Tjele,13,885000.0,11-05-2015,Alm.,6604,5,Villa,134,1973,-7 %
+Jordkløvervej 4 8830 Tjele,4,220000.0,11-05-2015,Alm.,1222,5,Villa,180,2016,
+Korreborgvej 55 8830 Tjele,55,8950000.0,06-05-2015,Alm.,35800,6,Stuehus,250,1927,
+Fastrupvej 1 8830 Tjele,1,2972968.0,05-05-2015,Fam.,13213,6,Stuehus,225,1956,
+Viborgvej 28A 8830 Tjele,0,1260000.0,30-04-2015,Alm.,8235,5,Villa,153,1980,
+Østergade 109 8830 Tjele,109,675000.0,30-04-2015,Alm.,6750,4,Stuehus,100,1928,
+Søbakken 47 8830 Tjele,47,1940000.0,22-04-2015,Alm.,13758,6,Villa,141,1996,0 %
+Fædalhøjvej 6 8830 Tjele,6,1750000.0,21-04-2015,Alm.,10057,7,Stuehus,174,1898,-3 %
+Bavnehøjvej 16 8830 Tjele,16,450000.0,21-04-2015,Alm.,3571,3,Villa,126,1936,0 %
+Catrinevej 12 8830 Tjele,12,500000.0,20-04-2015,Alm.,4000,4,Villa,125,1971,-28 %
+Velds Husevej 13 8830 Tjele,13,1623000.0,17-04-2015,Alm.,9169,5,Stuehus,177,1905,-4 %
+Stadionvej 20 8830 Tjele,20,399000.0,16-04-2015,Alm.,5867,3,Villa,68,1945,0 %
+Hobro Landevej 123 8830 Tjele,123,950000.0,15-04-2015,Alm.,11728,3,Villa,81,1966,-5 %
+Overlundvej 8 8830 Tjele,8,12950000.0,15-04-2015,Fam.,74425,5,Stuehus,174,1988,
+Nymarksvej 3 8830 Tjele,3,665000.0,14-04-2015,Alm.,9779,3,Villa,68,1948,
+Egelundsparken 1A 8830 Tjele,0,775000.0,09-04-2015,Alm.,8157,4,Rækkehus,95,1987,-3 %
+Meldgårdsvej 119 8830 Tjele,119,940000.0,31-03-2015,Alm.,7286,4,Villa,129,1985,
+Overgårdsvej 3 8830 Tjele,3,285000.0,30-03-2015,Alm.,2095,4,Villa,136,1946,-28 %
+Tomastoft 6 8830 Tjele,6,1325000.0,30-03-2015,Alm.,10192,5,Villa,130,2000,-11 %
+Viborgvej 88 8830 Tjele,88,161431.0,26-03-2015,Alm.,2017,3,Villa,80,1875,
+Næstegårdvænget 4 8830 Tjele,4,1250000.0,23-03-2015,Alm.,8223,5,Villa,152,1977,-3 %
+Overgårdsvej 21 8830 Tjele,21,4529500.0,18-03-2015,Fam.,27122,8,Stuehus,167,1936,
+Nordvang 18 8830 Tjele,18,1100000.0,18-03-2015,Fam.,7971,4,Villa,138,1973,
+Violvænget 6 8830 Tjele,6,260000.0,15-03-2015,Alm.,1460,6,Villa,178,2015,
+Bavnehøjvej 39 8830 Tjele,39,375000.0,12-03-2015,Auktion,2533,4,Villa,148,1900,
+Østergade 32A 8830 Tjele,0,500000.0,10-03-2015,Alm.,3164,5,Villa,158,1904,
+Stadionbakken 11 8830 Tjele,11,828000.0,10-03-2015,Alm.,5520,5,Villa,150,1962,-17 %
+Aalborgvej 188 8830 Tjele,188,1135000.0,06-03-2015,Alm.,4595,7,Villa,247,1913,-5 %
+Veldsparken 70 8830 Tjele,70,1320000.0,04-03-2015,Alm.,7374,6,Villa,179,1985,-2 %
+Tinggade 31 8830 Tjele,31,1129620.0,24-02-2015,Alm.,7844,3,Villa,144,1895,-13 %
+Veldsparken 64 8830 Tjele,64,773000.0,20-02-2015,Fam.,7578,4,Villa,102,1986,
+Bystævnet 11 8830 Tjele,11,1800000.0,17-02-2015,Auktion,7114,10,Villa,253,1930,-28 %
+Vorningvej 94 8830 Tjele,94,775000.0,12-02-2015,Alm.,5419,4,Villa,143,1870,-3 %
+Ingstrupvej 24 8830 Tjele,24,575000.0,05-02-2015,Alm.,6117,4,Villa,94,1957,
+Løvelbrovej 2 8830 Tjele,2,600000.0,05-02-2015,Alm.,11538,2,Sommerhus,52,1950,
+Grønhøjvej 23 8830 Tjele,23,1000000.0,04-02-2015,Alm.,4901,6,Villa,204,1970,-18 %
+Batum Hedevej 7 8830 Tjele,7,937500.0,04-02-2015,Alm.,7621,3,Villa,123,1877,-15 %
+Kvorning Møllevej 9 8830 Tjele,9,1265000.0,30-01-2015,Alm.,7955,7,Villa,159,1925,-6 %
+Ingstrupvej 20 8830 Tjele,20,1295000.0,26-01-2015,Alm.,10117,4,Villa,128,1971,-13 %
+Stordalvej 5 8830 Tjele,5,2400000.0,23-01-2015,Fam.,21238,4,Stuehus,113,1915,
+Grønhøjvej 33 8830 Tjele,33,1350000.0,22-01-2015,Alm.,10546,5,Villa,128,1940,-10 %
+Drøwten 10 8830 Tjele,10,199000.0,22-01-2015,Alm.,3553,2,Villa,56,1959,0 %
+Østergade 59 8830 Tjele,59,400000.0,19-01-2015,Alm.,5714,2,Villa,70,1885,0 %
+Drøwten 18 8830 Tjele,18,185000.0,19-01-2015,Alm.,1340,4,Villa,138,1942,-8 %
+Egelundsparken 9E 8830 Tjele,0,1570000.0,15-01-2015,Alm.,11376,5,Villa,138,2008,-7 %
+Over Viskumvej 9 8830 Tjele,9,960000.0,02-01-2015,Alm.,5133,7,Villa,187,1900,-4 %
+Stadionvej 41 8830 Tjele,41,1500000.0,20-12-2014,Alm.,6410,6,Villa,234,1914,-9 %
+Vestergade 34 8830 Tjele,34,700000.0,19-12-2014,Alm.,4046,6,Villa,173,1952,
+Overlundvej 12 8830 Tjele,12,1540000.0,19-12-2014,Alm.,17906,3,Villa,86,1870,
+Overlundvej 49 8830 Tjele,49,1400000.0,19-12-2014,Fam.,0,7,Stuehus,247,1987,
+Næstegårdvænget 6 8830 Tjele,6,950000.0,16-12-2014,Alm.,8119,4,Villa,117,1977,-5 %
+Nørremarksvej 16 8830 Tjele,16,1850000.0,16-12-2014,Alm.,10632,6,Stuehus,174,1860,
+Bygmarksvej 4 8830 Tjele,4,800000.0,08-12-2014,Alm.,6060,5,Villa,132,1979,-3 %
+Gillebakken 49 8830 Tjele,49,1100000.0,03-12-2014,Alm.,7857,3,Villa,140,1972,-12 %
+Lyngbakkevej 6 8830 Tjele,6,1975000.0,01-12-2014,Alm.,14522,7,Villa,136,1932,-10 %
+Tinghøjvej 13 8830 Tjele,13,510000.0,28-11-2014,Alm.,6375,3,Villa,80,1955,-7 %
+Vesterled 6 8830 Tjele,6,195000.0,27-11-2014,Alm.,0,6,Villa,211,1890,-44 %
+Tindbæk Byvej 36 8830 Tjele,36,500000.0,26-11-2014,Alm.,6756,3,Villa,74,1877,
+Møllevej 30 8830 Tjele,30,912000.0,21-11-2014,Alm.,9120,3,Villa,100,1972,
+Ingstrup Møllevej 15 8830 Tjele,15,1099000.0,20-11-2014,Alm.,5387,6,Stuehus,204,1974,
+Overgårdsvej 8 8830 Tjele,8,350000.0,20-11-2014,Alm.,3500,3,Villa,100,1966,-12 %
+Over Viskumvej 17 8830 Tjele,17,550000.0,13-11-2014,Alm.,4545,7,Villa,121,1885,
+Tindbæk Fælled 13 8830 Tjele,13,250000.0,12-11-2014,Alm.,1190,7,Stuehus,210,1997,
+P. Andersensvej 8 8830 Tjele,8,478266.0,12-11-2014,Fam.,3826,5,Villa,125,1958,
+Hobro Landevej 62 8830 Tjele,62,2397500.0,06-11-2014,Alm.,11638,7,Stuehus,206,1930,
+Solbakken 8 8830 Tjele,8,2325000.0,05-11-2014,Alm.,11509,5,Villa,202,2008,-7 %
+Røddingvej 25 8830 Tjele,25,2325000.0,04-11-2014,Alm.,10665,6,Villa,218,1923,-5 %
+Præstegårdsvej 2 8830 Tjele,2,10000.0,03-11-2014,Alm.,64,6,Villa,155,1905,
+Norupvej 36 8830 Tjele,36,840000.0,27-10-2014,Alm.,8000,3,Stuehus,105,1900,-6 %
+Kløvermarken 12 8830 Tjele,12,2420000.0,22-10-2014,Alm.,11308,6,Villa,214,2008,-7 %
+Lundager 5 8830 Tjele,5,180000.0,19-10-2014,Alm.,1028,5,Villa,175,2016,
+Søskrænten 3 8830 Tjele,3,957038.0,16-10-2014,Alm.,6985,5,Villa,137,2005,
+Batum Hedevej 12 8830 Tjele,12,1305000.0,15-10-2014,Alm.,10038,3,Villa,130,1899,-4 %
+Firkløvervej 22 8830 Tjele,22,960000.0,14-10-2014,Alm.,5962,5,Villa,161,1978,-4 %
+Præstevænget 9 8830 Tjele,9,525000.0,03-10-2014,Alm.,4565,4,Villa,115,1971,-12 %
+Norupvej 12 8830 Tjele,12,225000.0,03-10-2014,Alm.,1500,7,Villa,150,1890,
+Løndalen 11 8830 Tjele,11,1580000.0,03-10-2014,Alm.,10463,5,Villa,151,2001,-7 %
+Kirkehøj 8 8830 Tjele,8,1995000.0,02-10-2014,Alm.,13389,5,Villa,149,2007,0 %
+Rønnevej 2 8830 Tjele,2,760000.0,01-10-2014,Alm.,6909,3,Villa,110,1966,-2 %
+Catrinevej 13 8830 Tjele,13,760000.0,29-09-2014,Fam.,6031,4,Villa,126,1972,
+Tjele Møllevej 20 8830 Tjele,20,11050000.0,29-09-2014,Fam.,62784,5,Stuehus,176,1923,
+Vorningvej 61 8830 Tjele,61,40000.0,29-09-2014,Alm.,191,5,Villa,209,1922,
+Genvej 4 8830 Tjele,4,510000.0,29-09-2014,Alm.,4903,4,Villa,104,1964,-9 %
+Tindbæk Fælled 11 8830 Tjele,11,1850000.0,18-09-2014,Alm.,6401,6,Villa,289,1900,-4 %
+Højmarken 25 8830 Tjele,25,1650000.0,18-09-2014,Alm.,10714,5,Villa,154,1900,0 %
+Stationen 3 8830 Tjele,3,1210000.0,17-09-2014,Alm.,8768,6,Villa,138,1933,-7 %
+Møllevej 32 8830 Tjele,32,3060000.0,17-09-2014,Fam.,22014,6,Stuehus,139,2004,
+Gartnerbakken 13 8830 Tjele,13,300000.0,15-09-2014,Alm.,4166,4,Villa,72,1959,-33 %
+Catrinevej 3 8830 Tjele,3,600000.0,12-09-2014,Alm.,4411,5,Villa,136,1965,-7 %
+Meldgårdsvej 143 8830 Tjele,143,1190000.0,06-09-2014,Alm.,10000,4,Villa,119,1987,-4 %
+Østervangsvej 73 8830 Tjele,73,350000.0,04-09-2014,Alm.,3977,2,Sommerhus,88,1875,
+Gl. Aalborgvej 28 8830 Tjele,28,865000.0,04-09-2014,Fam.,7090,4,Villa,122,1960,
+Vestergade 5B 8830 Tjele,0,1150000.0,01-09-2014,Alm.,9583,5,Villa,120,1930,
+Vingevej 33 8830 Tjele,33,375000.0,30-08-2014,Alm.,2450,4,Villa,153,1915,-5 %
+Burrehøjvej 10 8830 Tjele,10,325000.0,28-08-2014,Alm.,2480,4,Villa,131,1940,-45 %
+Skibdalvej 6 8830 Tjele,6,484000.0,26-08-2014,Alm.,3337,5,Villa,145,1910,2 %
+Mosevænget 1 8830 Tjele,1,840000.0,25-08-2014,Alm.,5600,5,Villa,150,1980,
+Viborgvej 113 8830 Tjele,113,500000.0,24-08-2014,Alm.,2873,3,Villa,174,1956,-28 %
+Formyrevej 12 8830 Tjele,12,45000.0,17-08-2014,Alm.,228,7,Villa,197,1896,
+Pederstrupvej 16 8830 Tjele,16,1645000.0,14-08-2014,Alm.,10612,5,Stuehus,155,1918,
+Sølystvej 18 8830 Tjele,18,2050000.0,08-08-2014,Alm.,11647,7,Villa,176,2009,-2 %
+Meldgårdsvej 97 8830 Tjele,97,1461667.0,28-07-2014,Alm.,9809,5,Villa,149,1984,-8 %
+Meldgårdsvej 141 8830 Tjele,141,1635000.0,28-07-2014,Alm.,10827,5,Villa,151,1987,-2 %
+Nordvang 24 8830 Tjele,24,550000.0,16-07-2014,Fam.,4135,4,Villa,133,1976,
+Rørbæksvej 12 8830 Tjele,12,1815480.0,15-07-2014,Alm.,6483,8,Stuehus,280,1880,
+Vorningvej 36 8830 Tjele,36,595000.0,04-07-2014,Fam.,4311,3,Villa,138,1900,
+Hobrovej 17 8830 Tjele,17,350000.0,02-07-2014,Fam.,4666,3,Villa,75,1957,
+Veldsparken 21 8830 Tjele,21,535000.0,01-07-2014,Auktion,2675,5,Villa,200,1977,
+Ingstrupvej 19 8830 Tjele,19,600000.0,27-06-2014,Alm.,2586,5,Villa,232,1940,-14 %
+Hyldemosevej 17 8830 Tjele,17,790000.0,27-06-2014,Alm.,6810,4,Villa,116,1970,-12 %
+Lindum Søvej 18 8830 Tjele,18,995000.0,23-06-2014,Alm.,4627,6,Villa,215,2016,0 %
+Marie Grubbes Vej 2 8830 Tjele,2,100000.0,21-06-2014,Alm.,769,4,Villa,130,1875,-33 %
+Bromøllevej 20 8830 Tjele,20,750000.0,20-06-2014,Fam.,4807,4,Stuehus,156,1890,
+Kokholmvej 39 8830 Tjele,39,2495000.0,18-06-2014,Alm.,14676,6,Stuehus,170,1932,0 %
+Toftevænget 9 8830 Tjele,9,290000.0,17-06-2014,Auktion,2843,4,Villa,102,1963,
+Drosselvej 16 8830 Tjele,16,1100000.0,12-06-2014,Alm.,4313,6,Villa,255,1972,-6 %
+Violvænget 8 8830 Tjele,8,260000.0,29-05-2014,Alm.,1397,6,Villa,186,2014,
+Vorningvej 70 8830 Tjele,70,1300000.0,27-05-2014,Auktion,20000,3,Stuehus,65,1951,
+Hovedgaden 35 8830 Tjele,35,450000.0,19-05-2014,Alm.,3284,6,Villa,137,1930,-25 %
+Bystævnet 23 8830 Tjele,23,9400000.0,14-05-2014,Andet,58750,4,Stuehus,160,1975,
+Møller Andersensvej 22 8830 Tjele,22,850000.0,14-05-2014,Alm.,4166,7,Villa,204,1972,-5 %
+Meldgårdsvej 39 8830 Tjele,39,800000.0,13-05-2014,Alm.,7079,4,Villa,113,1978,-6 %
+Højmarken 21 8830 Tjele,21,125000.0,11-05-2014,Alm.,984,4,Stuehus,127,1902,
+Kratvej 1 8830 Tjele,1,275000.0,06-05-2014,Alm.,1950,7,Villa,141,1960,-20 %
+Veldsvej 2 8830 Tjele,2,875000.0,06-05-2014,Alm.,10937,3,Villa,80,1940,-4 %
+Veldsvej 18 8830 Tjele,18,760000.0,03-05-2014,Alm.,5714,4,Villa,133,1971,-20 %
+Søvangen 15C 8830 Tjele,0,475000.0,02-05-2014,Fam.,6250,3,Rækkehus,76,1980,
+Ingstrup Møllevej 17 8830 Tjele,17,2425000.0,28-04-2014,Alm.,10452,7,Villa,232,1875,
+Løvskal Landevej 208 8830 Tjele,208,1022500.0,16-04-2014,Fam.,7463,6,Villa,137,1931,
+Tindbæk Byvej 10 8830 Tjele,10,275000.0,07-04-2014,Alm.,2806,4,Villa,98,1934,0 %
+Kildevej 8 8830 Tjele,8,154500.0,04-04-2014,Auktion,1287,6,Villa,120,1877,
+Høegsvej 30 8830 Tjele,30,1090200.0,03-04-2014,Fam.,6229,6,Villa,175,1998,
+Sølystvej 16 8830 Tjele,16,364170.0,03-04-2014,Alm.,1968,6,Villa,185,2015,0 %
+Nørregade 29 8830 Tjele,29,740000.0,28-03-2014,Alm.,3874,10,Villa,191,1915,-7 %
+Veldsparken 72 8830 Tjele,72,1225000.0,28-03-2014,Alm.,7291,6,Villa,168,1985,-5 %
+Møllevej 3 8830 Tjele,3,700000.0,23-03-2014,Alm.,7000,4,Villa,100,1965,-16 %
+Gl. Tjelevej 21 8830 Tjele,21,530000.0,14-03-2014,Alm.,6883,3,Villa,77,1960,-9 %
+Marie Grubbes Vej 31 8830 Tjele,31,597106.0,11-03-2014,Andet,3554,6,Villa,168,1978,
+Randersvej 38 8830 Tjele,38,595000.0,06-03-2014,Alm.,3718,6,Villa,160,1952,-12 %
+Bjerringholmvej 16 8830 Tjele,16,1715000.0,05-03-2014,Alm.,9581,4,Villa,179,1938,
+Langdyssevej 13 8830 Tjele,13,3859359.0,04-03-2014,Auktion,15624,9,Stuehus,247,1895,
+Bigum Huse 8 8830 Tjele,8,474595.0,25-02-2014,Alm.,2681,7,Stuehus,177,1958,-73 %
+Møllevej 9 8830 Tjele,9,1200000.0,17-02-2014,Fam.,8163,4,Villa,147,1985,
+Fælledparken 9 8830 Tjele,9,1214625.0,17-02-2014,Fam.,6710,5,Villa,181,2006,
+Gl. Aalborgvej 17 8830 Tjele,17,723000.0,13-02-2014,Fam.,6127,9,Villa,118,1954,
+Vorningvej 113 8830 Tjele,113,2070000.0,06-02-2014,Alm.,7263,11,Stuehus,285,1936,-6 %
+Havrisvej 25 8830 Tjele,25,3486500.0,30-01-2014,Fam.,19156,9,Stuehus,182,1877,
+Vingevej 20 8830 Tjele,20,575000.0,23-01-2014,Alm.,4791,3,Villa,120,1963,-14 %
+Veldsparken 6 8830 Tjele,6,1000000.0,22-01-2014,Alm.,6622,6,Villa,151,1979,-9 %
+Kirkebakken 22 8830 Tjele,22,740000.0,20-01-2014,Alm.,6727,4,Villa,110,1960,-7 %
+Egelundsparken 13C 8830 Tjele,0,550000.0,15-01-2014,Fam.,11956,2,Rækkehus,46,1989,
+Tinghøjvej 26 8830 Tjele,26,75000.0,01-01-2014,Alm.,236,10,Stuehus,317,1909,-95 %
+Bavnehøjvej 25 8830 Tjele,25,2498000.0,31-12-2013,Alm.,18367,5,Stuehus,136,1870,
+Digevej 10A 8830 Tjele,0,405000.0,27-12-2013,Fam.,2109,5,Villa,192,1912,
+Haversmosevej 1 8830 Tjele,1,150000.0,19-12-2013,Alm.,2142,2,Villa,70,1938,-40 %
+Sødalvej 10 8830 Tjele,10,750000.0,18-12-2013,Alm.,5474,4,Stuehus,137,1926,
+"Røddingvej 22, 1 8830 Tjele",1,1300000.0,17-12-2013,Alm.,8904,3,Stuehus,146,1927,
+Nørbækvej 18 8830 Tjele,18,1150000.0,12-12-2013,Alm.,3965,10,Stuehus,290,1850,
+Veldsvej 14 8830 Tjele,14,286500.0,11-12-2013,Andet,3114,3,Villa,92,1970,
+Langsøvej 11 8830 Tjele,11,92000.0,10-12-2013,Alm.,920,5,Stuehus,100,1923,
+Sølystvej 6 8830 Tjele,6,1675000.0,07-12-2013,Alm.,12316,6,Villa,136,2007,-4 %
+Fælledvej 26 8830 Tjele,26,500000.0,06-12-2013,Alm.,4347,3,Villa,115,1971,-16 %
+"Nørregade 11, 1. TV 8830 Tjele",0,650000.0,03-12-2013,Alm.,6250,6,Anden beboelse,104,1913,
+Haugårdsvej 3 8830 Tjele,3,350000.0,03-12-2013,Alm.,3181,6,Villa,110,1913,
+Årupvej 18 8830 Tjele,18,100000.0,29-11-2013,Alm.,699,9,Villa,143,1905,
+Kærvangen 3 8830 Tjele,3,1025000.0,23-11-2013,Fam.,7269,10,Villa,141,1958,
+Overlundvej 5 8830 Tjele,5,475000.0,12-11-2013,Alm.,4750,4,Stuehus,100,1922,-4 %
+Veldsparken 25 8830 Tjele,25,960000.0,06-11-2013,Alm.,6666,4,Villa,144,1975,-12 %
+Vingevej 5 8830 Tjele,5,400000.0,05-11-2013,Alm.,2962,4,Villa,135,1929,-33 %
+Hyldevænget 9 8830 Tjele,9,1220000.0,01-11-2013,Alm.,6892,6,Villa,177,1973,-2 %
+Hviddingvej 12 8830 Tjele,12,1360000.0,24-10-2013,Alm.,6181,6,Villa,220,1925,-3 %
+Tindbæk Byvej 54 8830 Tjele,54,160000.0,18-10-2013,Alm.,2857,3,Stuehus,56,1911,
+Tinghøjvej 20 8830 Tjele,20,1775000.0,09-10-2013,Fam.,8294,7,Villa,214,1915,
+Bøgedalen 7 8830 Tjele,7,1600000.0,09-10-2013,Alm.,6400,8,Villa,250,2011,-45 %
+Gillebakken 2A 8830 Tjele,0,1295000.0,06-10-2013,Alm.,7708,6,Villa,168,1976,-7 %
+Hobrovej 4 8830 Tjele,4,600000.0,02-10-2013,Alm.,6000,3,Villa,100,1989,-73 %
+Stadionvej 11 8830 Tjele,11,715000.0,30-09-2013,Alm.,4965,5,Villa,144,1978,-15 %
+Skibdalvej 18 8830 Tjele,18,460000.0,30-09-2013,Alm.,4259,4,Villa,108,1897,-7 %
+Vorningvej 37 8830 Tjele,37,649000.0,24-09-2013,Auktion,3075,7,Villa,211,1915,-41 %
+Iversvej 2 8830 Tjele,2,310000.0,20-09-2013,Alm.,2214,4,Stuehus,140,1870,
+Vorningvej 51 8830 Tjele,51,1040000.0,19-09-2013,Andet,5977,6,Stuehus,174,1932,
+Meldgårdsvej 57 8830 Tjele,57,975000.0,12-09-2013,Fam.,8478,4,Villa,115,1977,0 %
+Egelundsparken 19 8830 Tjele,19,1572500.0,11-09-2013,Fam.,11312,4,Villa,139,2000,
+Veldsparken 17 8830 Tjele,17,930000.0,30-08-2013,Alm.,6888,5,Villa,135,1976,-22 %
+Østergade 64 8830 Tjele,64,3595000.0,30-08-2013,Alm.,26433,4,Stuehus,136,1930,
+Højager 5 8830 Tjele,5,2200000.0,29-08-2013,Alm.,12021,6,Villa,183,2008,-4 %
+Hobrovej 81 8830 Tjele,81,730000.0,27-08-2013,Alm.,7300,3,Villa,100,1920,-3 %
+Viborgvej 16 8830 Tjele,16,1350000.0,22-08-2013,Alm.,6053,8,Villa,223,1898,
+Meldgårdsvej 53 8830 Tjele,53,865000.0,15-08-2013,Alm.,7208,4,Villa,120,1980,-3 %
+Stenager 2 8830 Tjele,2,240000.0,13-08-2013,Alm.,1500,5,Villa,160,2014,
+Præstegårdsvej 4 8830 Tjele,4,250000.0,08-08-2013,Alm.,1838,6,Villa,136,1916,
+Vestervang 2 8830 Tjele,2,620000.0,03-08-2013,Alm.,6595,3,Villa,94,1962,-14 %
+Veldsvej 10 8830 Tjele,10,1165000.0,26-07-2013,Alm.,8961,4,Villa,130,1970,
+Højmarken 20 8830 Tjele,20,1300000.0,26-07-2013,Alm.,6598,7,Villa,197,1800,-10 %
+Nøragervej 2 8830 Tjele,2,500000.0,25-07-2013,Alm.,3333,4,Villa,150,1925,-20 %
+Brudelysvej 7 8830 Tjele,7,300000.0,24-07-2013,Alm.,1829,6,Villa,164,2015,
+Præstevænget 11 8830 Tjele,11,1180000.0,23-07-2013,Alm.,7919,5,Villa,149,1972,-6 %
+Haugårdsvej 41 8830 Tjele,41,2275000.0,17-07-2013,Alm.,11548,6,Stuehus,197,1992,-3 %
+Hovedgaden 8 8830 Tjele,8,670000.0,17-07-2013,Alm.,5677,6,Villa,118,1957,-4 %
+Bøgedalen 4 8830 Tjele,4,200000.0,08-07-2013,Alm.,1250,5,Villa,160,2013,
+Tjørnevej 3 8830 Tjele,3,750000.0,23-06-2013,Alm.,3968,8,Villa,189,1970,-14 %
+Gillebakken 18 8830 Tjele,18,406487.0,21-06-2013,Alm.,3278,7,Villa,124,1955,
+Hybenvej 6 8830 Tjele,6,56001.0,18-06-2013,Auktion,777,3,Villa,72,1889,
+Hyldemosevej 22 8830 Tjele,22,675000.0,14-06-2013,Alm.,5192,4,Villa,130,1966,-3 %
+Nørremarksvej 15 8830 Tjele,15,1180000.0,13-06-2013,Alm.,6941,5,Villa,170,1928,-9 %
+Granstien 4 8830 Tjele,4,1025000.0,12-06-2013,Alm.,6612,5,Villa,155,1977,-2 %
+Østervangsvej 39 8830 Tjele,39,700000.0,04-06-2013,Auktion,3664,4,Villa,191,1954,
+Hyldevænget 3 8830 Tjele,3,512500.0,31-05-2013,Fam.,4380,4,Villa,117,1973,
+Stadionvej 4 8830 Tjele,4,595000.0,24-05-2013,Alm.,2399,5,Villa,248,1854,0 %
+Kæpsmarksvej 3 8830 Tjele,3,725000.0,24-05-2013,Alm.,6359,4,Villa,114,1973,
+Østervangsvej 9 8830 Tjele,9,1165000.0,24-05-2013,Alm.,9549,4,Villa,122,1949,-3 %
+Østergade 43 8830 Tjele,43,1785000.0,24-05-2013,Alm.,6945,7,Villa,257,1877,0 %
+Løndalen 29 8830 Tjele,29,1750000.0,24-05-2013,Alm.,11006,5,Villa,159,2004,-3 %
+Søndermarksvej 23 8830 Tjele,23,1530000.0,23-05-2013,Alm.,8693,5,Villa,176,1951,
+Tværvej 6 8830 Tjele,6,375000.0,16-05-2013,Auktion,2500,4,Villa,150,1959,
+Viborgvej 82 8830 Tjele,82,110000.0,13-05-2013,Alm.,1692,3,Villa,65,1900,
+Burrehøjvej 35 8830 Tjele,35,180000.0,09-05-2013,Alm.,2142,4,Villa,84,1912,-43 %
+Viborgvej 50 8830 Tjele,50,1441500.0,06-05-2013,Fam.,6213,9,Stuehus,232,1907,
+Veldsparken 24 8830 Tjele,24,595000.0,06-05-2013,Fam.,4440,4,Villa,134,1976,-30 %
+Holmevej 21 8830 Tjele,21,630000.0,03-05-2013,Alm.,2218,6,Villa,284,2016,
+Hylde Alle 12 8830 Tjele,12,825000.0,30-04-2013,Alm.,5729,5,Villa,144,1978,-2 %
+Langdyssevej 11 8830 Tjele,11,160000.0,30-04-2013,Alm.,1839,3,Villa,87,1890,
+Birkelundsvej 3 8830 Tjele,3,443500.0,30-04-2013,Alm.,3167,6,Villa,140,1907,
+Flarupvej 16 8830 Tjele,16,1225000.0,22-04-2013,Alm.,7753,2,Villa,158,1900,-18 %
+Veldsvej 16 8830 Tjele,16,775000.0,14-04-2013,Alm.,6200,4,Villa,125,1973,-6 %
+Tinggade 40 8830 Tjele,40,1500000.0,08-04-2013,Alm.,11904,4,Villa,126,2011,-5 %
+Hørsøvej 9 8830 Tjele,9,1756300.0,17-03-2013,Alm.,10331,6,Stuehus,170,1930,
+Kjærgårdsvej 8 8830 Tjele,8,1475000.0,15-03-2013,Alm.,9394,6,Villa,157,1969,0 %
+Nordvang 13 8830 Tjele,13,350000.0,14-03-2013,Alm.,2892,4,Villa,121,1981,-41 %
+Søbakken 3 8830 Tjele,3,995000.0,13-03-2013,Alm.,10364,3,Villa,96,2001,0 %
+Tjele Møllevej 24 8830 Tjele,24,7300000.0,12-03-2013,Alm.,43195,8,Stuehus,169,1875,
+Skovagervej 114 8830 Tjele,114,2161000.0,04-03-2013,Alm.,18791,3,Stuehus,115,1972,
+Toften 24 8830 Tjele,24,1315000.0,01-03-2013,Alm.,8945,5,Villa,147,1982,-1 %
+Drøwten 2 8830 Tjele,2,467500.0,28-02-2013,Fam.,3075,6,Villa,152,1951,
+Vestervang 4 8830 Tjele,4,640000.0,28-02-2013,Alm.,4885,6,Villa,131,1962,-1 %
+Skovagervej 130 8830 Tjele,130,725000.0,28-02-2013,Alm.,9415,2,Villa,77,1875,
+Smedestien 7 8830 Tjele,7,451300.0,27-02-2013,Fam.,2014,7,Villa,224,1971,
+Jordkløvervej 2 8830 Tjele,2,220000.0,18-02-2013,Alm.,1145,5,Villa,192,2013,
+Vingevej 15 8830 Tjele,15,337000.0,11-02-2013,Alm.,2188,7,Stuehus,154,1898,
+Møllevej 34 8830 Tjele,34,192500.0,08-02-2013,Fam.,1365,4,Sommerhus,141,1877,
+Havrisvej 11 8830 Tjele,11,3500000.0,07-02-2013,Alm.,28688,4,Stuehus,122,1960,-5 %
+"Sølystvej 7, ST. TH 8830 Tjele",0,1020000.0,06-02-2013,Alm.,10515,4,Lejlighed,97,2003,3 %
+Nørbækvej 15 8830 Tjele,15,2015000.0,29-01-2013,Alm.,8360,7,Villa,241,1929,-6 %
+Hobro Landevej 22 8830 Tjele,22,905000.0,28-01-2013,Alm.,4268,8,Villa,212,1870,-7 %
+Smedevænget 4 8830 Tjele,4,920000.0,28-01-2013,Alm.,7419,4,Villa,124,1994,-8 %
+Nørrevang 4 8830 Tjele,4,800000.0,20-01-2013,Alm.,7017,4,Villa,114,1877,
+Nørremarksvej 18 8830 Tjele,18,1795000.0,18-01-2013,Alm.,6799,8,Villa,264,1906,0 %
+Nørbækvej 20 8830 Tjele,20,5900000.0,10-01-2013,Auktion,59000,4,Stuehus,100,1895,
+Frederiksberg Bakke 10 8830 Tjele,10,1716000.0,26-12-2012,Alm.,10527,5,Villa,163,2010,
+Nørremarksvej 37 8830 Tjele,37,1050000.0,20-12-2012,Fam.,5614,6,Stuehus,187,1927,
+Østergade 97 8830 Tjele,97,875000.0,18-12-2012,Alm.,7608,5,Villa,115,1946,0 %
+Østervang 4 8830 Tjele,4,750000.0,17-12-2012,Fam.,6048,4,Villa,124,1977,
+Østervangsvej 28 8830 Tjele,28,15455000.0,17-12-2012,Alm.,14961,22,Stuehus,1033,1860,
+Østervangsvej 35 8830 Tjele,35,24900000.0,17-12-2012,Alm.,270652,3,Villa,92,1989,
+Østervangsvej 37 8830 Tjele,37,6450000.0,17-12-2012,Alm.,30714,6,Stuehus,210,1880,
+Smedevænget 1 8830 Tjele,1,545000.0,06-12-2012,Fam.,4067,5,Villa,134,1979,
+Viborgvej 79 8830 Tjele,79,526992.0,29-11-2012,Andet,4319,4,Villa,122,1966,-40 %
+Veldsvej 31 8830 Tjele,31,1200000.0,16-11-2012,Alm.,9230,7,Villa,130,1966,-11 %
+Søbakken 45 8830 Tjele,45,1875000.0,12-11-2012,Alm.,13686,5,Villa,137,1992,-5 %
+Nørremarksvej 17 8830 Tjele,17,1350000.0,29-10-2012,Alm.,8282,4,Villa,163,1930,-10 %
+Tjørnevej 5 8830 Tjele,5,1107000.0,26-10-2012,Alm.,3953,7,Villa,280,1973,-7 %
+Vorningvej 41 8830 Tjele,41,550000.0,25-10-2012,Auktion,3333,6,Stuehus,165,1921,
+Stadionvej 12 8830 Tjele,12,350000.0,16-10-2012,Alm.,4166,4,Villa,84,1959,
+Marie Grubbes Vej 21 8830 Tjele,21,745000.0,09-10-2012,Alm.,5559,4,Villa,134,1974,-6 %
+Tinggade 16 8830 Tjele,16,361131.0,09-10-2012,Auktion,3034,5,Villa,119,1902,
+Hestehaven 5 8830 Tjele,5,2495000.0,25-09-2012,Alm.,12053,7,Villa,207,2006,0 %
+Møller Andersensvej 5C 8830 Tjele,0,1195000.0,19-09-2012,Alm.,7913,5,Villa,151,1977,
+Møller Andersensvej 5B 8830 Tjele,0,635000.0,18-09-2012,Alm.,6978,3,Rækkehus,91,1984,
+Hobrovej 54 8830 Tjele,54,575000.0,11-09-2012,Alm.,3938,7,Villa,146,1928,-3 %
+Nørregade 30 8830 Tjele,30,775000.0,04-09-2012,Alm.,5698,5,Villa,136,1975,-3 %
+Kløvermarken 9B 8830 Tjele,0,960000.0,31-08-2012,Alm.,11034,3,Rækkehus,87,2003,-4 %
+Tinghøjvej 38 8830 Tjele,38,1400000.0,29-08-2012,Alm.,12962,4,Stuehus,108,1914,
+Åkandevej 9 8830 Tjele,9,2220000.0,29-08-2012,Alm.,13536,5,Villa,164,2005,-5 %
+Overgårdsvej 10 8830 Tjele,10,1248000.0,23-08-2012,Alm.,7800,6,Villa,160,1969,0 %
+Højager 2 8830 Tjele,2,2060000.0,15-08-2012,Alm.,11771,6,Villa,175,2008,-6 %
+Lyngbakkevej 14 8830 Tjele,14,573675.0,09-08-2012,Alm.,7354,2,Stuehus,78,1956,-70 %
+Flarupvej 19 8830 Tjele,19,1950000.0,07-08-2012,Alm.,13928,5,Stuehus,140,1938,-5 %
+Søbakken 13 8830 Tjele,13,1315000.0,04-08-2012,Alm.,13697,1,Villa,96,2001,-6 %
+Bavnehøjvej 6 8830 Tjele,6,325000.0,04-08-2012,Alm.,2754,5,Villa,118,1850,
+Hobro Landevej 89 8830 Tjele,89,695000.0,03-08-2012,Alm.,9144,3,Villa,76,1914,0 %
+Østergade 37 8830 Tjele,37,3000000.0,31-07-2012,Alm.,11811,6,Villa,254,1922,
+Degnevænget 7 8830 Tjele,7,1275000.0,31-07-2012,Alm.,10537,4,Villa,121,1972,
+Vråvej 14 8830 Tjele,14,3100000.0,04-07-2012,Alm.,14761,7,Stuehus,210,1900,-11 %
+Nørremarksvej 3 8830 Tjele,3,750000.0,29-06-2012,Alm.,5067,5,Villa,148,1945,-25 %
+Høegsvej 7 8830 Tjele,7,600000.0,27-06-2012,Alm.,4761,5,Villa,126,1982,-14 %
+Erikstoft 1 8830 Tjele,1,1525000.0,26-06-2012,Alm.,10892,5,Villa,140,2002,-13 %
+Stadionvej 46 8830 Tjele,46,782563.0,20-06-2012,Alm.,5081,3,Stuehus,154,1914,
+Høegsvej 21 8830 Tjele,21,900000.0,20-06-2012,Alm.,5263,6,Villa,171,1990,-10 %
+Overlundvej 1A 8830 Tjele,0,1001635.0,18-06-2012,Fam.,7364,5,Villa,136,1912,
+Vorningvej 86 8830 Tjele,86,945000.0,16-06-2012,Alm.,5797,5,Villa,163,1910,-5 %
+Gl. Viborgvej 11 8830 Tjele,11,1380000.0,16-06-2012,Alm.,6865,6,Villa,201,1969,0 %
+Hulbækvej 45 8830 Tjele,45,1000000.0,14-06-2012,Fam.,7352,4,Stuehus,136,1966,
+Rosbjergvej 5 8830 Tjele,5,1055000.0,05-06-2012,Alm.,10047,4,Villa,105,1941,-4 %
+Ingstrup Møllevej 3 8830 Tjele,3,3250000.0,05-06-2012,Alm.,15046,6,Villa,216,1865,-7 %
+Kløvermarken 10 8830 Tjele,10,1975000.0,04-06-2012,Alm.,10972,5,Villa,180,2006,-9 %
+Skolevej 15 8830 Tjele,15,375000.0,01-06-2012,Alm.,4573,4,Villa,82,1960,
+Dunhammervej 5 8830 Tjele,5,396375.0,28-05-2012,Alm.,3196,4,Villa,124,2012,
+Hviddingvej 33 8830 Tjele,33,164249.0,26-05-2012,Fam.,1198,4,Villa,137,2012,
+Solsortevej 10 8830 Tjele,10,775000.0,22-05-2012,Alm.,4967,4,Villa,156,1972,0 %
+Fårdalvej 3 8830 Tjele,3,1750000.0,16-05-2012,Alm.,9162,10,Villa,191,1927,-3 %
+Hylde Alle 13 8830 Tjele,13,1025000.0,12-05-2012,Alm.,6406,6,Villa,160,1977,-5 %
+Lergravsvej 1 8830 Tjele,1,6015000.0,09-05-2012,Alm.,25062,8,Stuehus,240,1906,
+Hviddingvej 19 8830 Tjele,19,727000.0,26-04-2012,Fam.,0,6,Stuehus,169,1921,
+Drøwten 20 8830 Tjele,20,500000.0,26-04-2012,Alm.,3787,6,Villa,132,1939,-28 %
+Flarupvej 28 8830 Tjele,28,950000.0,13-04-2012,Alm.,6934,7,Villa,137,1904,-12 %
+Lindum Søvej 1 8830 Tjele,1,4315000.0,11-04-2012,Fam.,20845,8,Stuehus,207,1913,
+Toften 3 8830 Tjele,3,970000.0,11-04-2012,Alm.,6062,5,Villa,160,1972,-3 %
+Tjørnevej 20 8830 Tjele,20,870000.0,10-04-2012,Alm.,6850,5,Villa,127,1977,-3 %
+Formyrevej 16 8830 Tjele,16,2100000.0,03-04-2012,Alm.,7636,9,Stuehus,275,1979,-8 %
+Meldgårdsvej 133 8830 Tjele,133,600000.0,03-04-2012,Fam.,4724,5,Villa,127,1980,
+Høegsvej 29 8830 Tjele,29,825000.0,25-03-2012,Alm.,5892,5,Villa,140,1978,-8 %
+Kærmysevej 3 8830 Tjele,3,300000.0,24-03-2012,Alm.,1886,5,Villa,159,2013,
+Bøgedalen 13 8830 Tjele,13,190720.0,21-03-2012,Alm.,1083,5,Villa,176,2015,-87 %
+Lindum Søvej 17 8830 Tjele,17,1698000.0,20-03-2012,Alm.,8532,7,Villa,199,1900,0 %
+Vorningvej 91 8830 Tjele,91,725000.0,20-03-2012,Alm.,3756,6,Villa,193,1877,-9 %
+Haugårdsvej 13 8830 Tjele,13,787500.0,19-03-2012,Alm.,6250,4,Villa,126,1930,
+Ingstrupvej 48 8830 Tjele,48,2700000.0,14-03-2012,Alm.,8653,10,Stuehus,312,1804,-7 %
+Røddingvej 20 8830 Tjele,20,12900000.0,08-03-2012,Alm.,58636,9,Stuehus,220,1910,
+Solbakken 6 8830 Tjele,6,1776000.0,07-03-2012,Fam.,9812,6,Villa,181,2010,
+Søvangen 19 8830 Tjele,19,850000.0,06-03-2012,Alm.,9550,4,Villa,89,1988,-15 %
+Tomastoft 10 8830 Tjele,10,1915000.0,29-02-2012,Alm.,11820,5,Villa,162,1997,-12 %
+Kvorning Møllevej 18 8830 Tjele,18,9500000.0,22-02-2012,Alm.,39915,7,Stuehus,238,1955,
+Rosbjergvej 3B 8830 Tjele,0,1265000.0,21-02-2012,Alm.,8433,4,Villa,150,1957,-9 %
+Tindbæk Byvej 28 8830 Tjele,28,670000.0,20-02-2012,Alm.,4962,5,Villa,135,1877,-8 %
+Ingstrupvej 31 8830 Tjele,31,850000.0,20-02-2012,Alm.,5629,4,Villa,151,1976,
+Viborgvej 72 8830 Tjele,72,300000.0,02-02-2012,Alm.,2362,7,Villa,127,1950,-29 %
+Nørregade 8 8830 Tjele,8,375000.0,30-01-2012,Alm.,2516,3,Villa,149,1968,
+Overgårdsvej 29 8830 Tjele,29,1350000.0,02-01-2012,Alm.,9000,8,Stuehus,150,1874,
+Gartnerbakken 9 8830 Tjele,9,750000.0,23-12-2011,Alm.,5357,4,Villa,140,1967,-16 %
+Højager 4 8830 Tjele,4,225000.0,20-12-2011,Alm.,1691,4,Villa,133,2012,
+Næstegårdvænget 22 8830 Tjele,22,510428.0,19-12-2011,Alm.,3725,5,Villa,137,1976,
+Rødkløvervej 6 8830 Tjele,6,2500000.0,09-12-2011,Alm.,10504,8,Villa,238,2008,
+Stenkløvervej 4 8830 Tjele,4,2150000.0,09-12-2011,Alm.,16412,5,Villa,131,2007,
+Vorningvej 93 8830 Tjele,93,280000.0,01-12-2011,Alm.,1546,5,Villa,181,1920,
+Løndalen 7 8830 Tjele,7,945000.0,29-11-2011,Auktion,6428,5,Villa,147,2001,-37 %
+Nymarksvej 19 8830 Tjele,19,2840000.0,23-11-2011,Alm.,9692,9,Stuehus,293,1957,
+Hovedgaden 2 8830 Tjele,2,1225000.0,22-11-2011,Auktion,3780,13,Villa,324,1964,-28 %
+Ingstrupvej 41 8830 Tjele,41,1195000.0,17-11-2011,Alm.,9335,5,Villa,128,1962,-8 %
+Gillebakken 14 8830 Tjele,14,685000.0,10-11-2011,Alm.,4691,4,Villa,146,1955,0 %
+Årupvej 1 8830 Tjele,1,660000.0,09-11-2011,Alm.,3567,7,Villa,185,1880,
+Præstevænget 25 8830 Tjele,25,1050000.0,03-11-2011,Alm.,8750,3,Villa,120,1972,-4 %
+Gl. Aalborgvej 24 8830 Tjele,24,575000.0,03-11-2011,Alm.,4492,5,Villa,128,1939,-17 %
+Nørremarksvej 33 8830 Tjele,33,1575000.0,01-11-2011,Alm.,8377,11,Villa,188,1896,-3 %
+Gillebakken 5 8830 Tjele,5,612000.0,31-10-2011,Alm.,8500,3,Villa,72,1942,
+Ingstrupvej 10 8830 Tjele,10,760000.0,14-10-2011,Alm.,8444,2,Villa,90,1957,-4 %
+Granstien 8 8830 Tjele,8,512500.0,13-10-2011,Fam.,4166,4,Villa,123,1958,
+Meldgårdsvej 145 8830 Tjele,145,825000.0,10-10-2011,Andet,5463,5,Villa,151,1987,
+Hyldevænget 5 8830 Tjele,5,1125000.0,06-10-2011,Fam.,8653,6,Villa,130,1972,
+Løvskal Landevej 209 8830 Tjele,209,600000.0,06-10-2011,Auktion,3571,6,Villa,168,1946,
+Brobjergvej 6 8830 Tjele,6,2050000.0,06-10-2011,Alm.,11141,3,Villa,184,1932,-23 %
+"Østergade 3, 1 8830 Tjele",1,300000.0,03-10-2011,Alm.,1578,6,Lejlighed,190,1930,
+Egelundsparken 15C 8830 Tjele,0,550000.0,30-09-2011,Alm.,11956,2,Rækkehus,46,1989,-8 %
+Degnevænget 23 8830 Tjele,23,1350000.0,27-09-2011,Fam.,8181,7,Villa,165,1980,
+Pileurtvej 10 8830 Tjele,10,2675000.0,27-09-2011,Alm.,14617,4,Villa,183,2010,-11 %
+Overlundvej 17 8830 Tjele,17,723000.0,26-09-2011,Alm.,4408,5,Stuehus,164,1919,-59 %
+Tindbæk Byvej 5 8830 Tjele,5,475000.0,22-09-2011,Alm.,3492,4,Villa,136,1827,-4 %
+Hvidkløvervej 8 8830 Tjele,8,1500000.0,20-09-2011,Alm.,12396,5,Villa,121,1991,
+Norupvej 42 8830 Tjele,42,4660000.0,15-09-2011,Alm.,22512,6,Stuehus,207,1910,
+Bavnehøjvej 7 8830 Tjele,7,2795000.0,12-09-2011,Alm.,13975,9,Stuehus,200,1927,0 %
+Veldsparken 30 8830 Tjele,30,800000.0,02-09-2011,Alm.,6722,4,Villa,119,1976,-5 %
+Hovmosevej 14 8830 Tjele,14,640000.0,29-08-2011,Alm.,0,5,Villa,236,1921,-20 %
+Toftevænget 2F 8830 Tjele,0,1225000.0,29-08-2011,Alm.,13172,3,Rækkehus,93,2008,-4 %
+Hobrovej 21 8830 Tjele,21,700000.0,26-08-2011,Alm.,6730,3,Villa,104,1966,-6 %
+Tinghøjvej 50 8830 Tjele,50,1675000.0,24-08-2011,Alm.,15952,3,Villa,105,1900,0 %
+Korsbakken 11 8830 Tjele,11,1500000.0,19-08-2011,Alm.,9259,6,Villa,162,1977,-12 %
+Mosevænget 17 8830 Tjele,17,1370000.0,16-08-2011,Alm.,9383,4,Villa,146,1987,-7 %
+Hyldemosevej 3 8830 Tjele,3,1095000.0,12-08-2011,Alm.,7398,4,Villa,148,1922,0 %
+"Østergade 1, 1 8830 Tjele",1,300000.0,12-08-2011,Alm.,3000,3,Lejlighed,100,1909,
+Hviddingvej 6 8830 Tjele,6,900000.0,11-08-2011,Alm.,6521,4,Villa,138,1964,-10 %
+Meldgårdsvej 27 8830 Tjele,27,1100000.0,10-08-2011,Alm.,7913,5,Villa,139,1978,-8 %
+Bjerringholmvej 20 8830 Tjele,20,374000.0,09-08-2011,Alm.,2597,7,Stuehus,144,1930,-84 %
+Frederiksberg 16 8830 Tjele,16,396373.0,23-07-2011,Andet,3049,4,Villa,130,1952,
+Nedergårdsvej 26 8830 Tjele,26,846025.0,19-07-2011,Andet,6266,5,Villa,135,2008,-58 %
+Tinggade 48 8830 Tjele,48,1000000.0,15-07-2011,Alm.,9615,4,Villa,104,1962,-16 %
+Hobrovej 16 8830 Tjele,16,1100000.0,07-07-2011,Alm.,6285,7,Stuehus,175,1921,
+Gartnerbakken 10 8830 Tjele,10,450503.0,04-07-2011,Andet,5493,2,Villa,82,1956,
+Erikstrupvej 5 8830 Tjele,5,1350000.0,30-06-2011,Alm.,8490,5,Villa,159,1923,-7 %
+Kildevej 5 8830 Tjele,5,637500.0,30-06-2011,Fam.,4866,6,Villa,131,1905,
+Hyldemosevej 21 8830 Tjele,21,670000.0,14-06-2011,Alm.,5877,3,Villa,114,1970,-10 %
+Høndrupvej 7 8830 Tjele,7,1075000.0,10-06-2011,Alm.,6803,5,Villa,158,1985,-4 %
+Skibdalvej 48 8830 Tjele,48,350000.0,07-06-2011,Alm.,2317,6,Villa,151,1955,
+Jordkløvervej 3 8830 Tjele,3,275000.0,29-05-2011,Alm.,1676,5,Villa,164,2012,
+Meldgårdsvej 69 8830 Tjele,69,1770000.0,17-05-2011,Alm.,11959,6,Villa,148,1984,-1 %
+Stabilvej 5 8830 Tjele,5,275000.0,13-05-2011,Alm.,3055,3,Villa,90,1954,
+Klarisgårdvej 4 8830 Tjele,4,1679850.0,04-05-2011,Andet,9823,5,Stuehus,171,1964,
+Nørregade 4 8830 Tjele,4,485000.0,03-05-2011,Auktion,4409,4,Villa,110,1926,-30 %
+Hovstien 11 8830 Tjele,11,10375000.0,02-05-2011,Fam.,38425,8,Stuehus,270,1991,
+Fælledparken 21 8830 Tjele,21,150000.0,30-04-2011,Alm.,1315,4,Villa,114,2012,
+Burrehøjvej 27 8830 Tjele,27,2100000.0,28-04-2011,Alm.,20192,5,Stuehus,104,1885,-12 %
+Stadionvej 3 8830 Tjele,3,320000.0,12-04-2011,Auktion,2644,5,Villa,121,1895,
+Bavnehøjvej 31 8830 Tjele,31,1200000.0,05-04-2011,Alm.,6185,8,Stuehus,194,1890,
+Viborgvej 18 8830 Tjele,18,620000.0,31-03-2011,Fam.,3668,6,Villa,169,1908,-59 %
+Hobrovej 11 8830 Tjele,11,565000.0,30-03-2011,Alm.,4593,4,Villa,123,1914,-5 %
+Korsbakken 10 8830 Tjele,10,913485.0,24-03-2011,Alm.,4660,9,Villa,196,1979,-54 %
+Hobrovej 22 8830 Tjele,22,436420.0,18-03-2011,Alm.,3667,3,Villa,119,1939,
+Vorningvej 47 8830 Tjele,47,1595000.0,17-03-2011,Alm.,10633,6,Villa,150,1958,-2 %
+Kirkegade 39C 8830 Tjele,0,950000.0,17-03-2011,Auktion,10555,3,Rækkehus,90,2007,
+"Hovedgaden 45A, ST. TH 8830 Tjele",0,1850000.0,10-03-2011,Auktion,20329,3,Lejlighed,91,1915,
+"Hovedgaden 45A, 1. TH 8830 Tjele",0,1850000.0,10-03-2011,Auktion,25694,3,Lejlighed,72,1915,
+"Hovedgaden 45A, ST. TV 8830 Tjele",0,1850000.0,10-03-2011,Auktion,25000,2,Lejlighed,74,1915,
+"Hovedgaden 45A, 1. TV 8830 Tjele",0,1850000.0,10-03-2011,Auktion,23417,3,Lejlighed,79,1915,
+Toftevej 1 8830 Tjele,1,1850000.0,10-03-2011,Auktion,47435,1,Lejlighed,39,1915,
+Hovedgaden 45B 8830 Tjele,0,1850000.0,10-03-2011,Auktion,17788,3,Lejlighed,104,1915,
+Aalborgvej 141 8830 Tjele,141,2658500.0,08-03-2011,Alm.,10676,5,Stuehus,249,2013,77 %
+Veldsparken 45 8830 Tjele,45,950000.0,03-03-2011,Alm.,7983,4,Villa,119,1977,-9 %
+Lergravsvej 3 8830 Tjele,3,920000.0,02-03-2011,Fam.,4600,7,Villa,200,1900,
+Vibevej 1 8830 Tjele,1,1100000.0,01-03-2011,Alm.,6395,7,Villa,172,1972,-8 %
+Årupvej 11 8830 Tjele,11,825000.0,25-02-2011,Alm.,6346,4,Villa,130,1971,-8 %
+Kærvangen 7 8830 Tjele,7,780000.0,22-02-2011,Alm.,9397,3,Villa,83,1959,-4 %
+Nøragervej 16 8830 Tjele,16,650000.0,21-02-2011,Fam.,3250,6,Villa,200,1885,
+Nørreåvej 17 8830 Tjele,17,2300000.0,19-02-2011,Alm.,0,6,Stuehus,164,2001,0 %
+Vingevej 55 8830 Tjele,55,975000.0,05-02-2011,Alm.,6132,3,Stuehus,159,1934,-21 %
+Hobro Landevej 30 8830 Tjele,30,437500.0,27-01-2011,Alm.,2635,5,Villa,166,1902,
+Løvelbrovej 8 8830 Tjele,8,1450000.0,26-01-2011,Alm.,8479,5,Villa,171,2004,-19 %
+Degnevænget 1 8830 Tjele,1,1500000.0,22-01-2011,Alm.,9259,5,Villa,162,1965,-4 %
+Veldsparken 34 8830 Tjele,34,1150000.0,19-01-2011,Alm.,0,5,Villa,125,1988,
+Kjærgårdsvej 9 8830 Tjele,9,646000.0,19-01-2011,Fam.,5474,5,Villa,118,1965,
+Viborgvej 68 8830 Tjele,68,2098000.0,09-01-2011,Fam.,12057,6,Villa,174,1910,
+Toftevej 2 8830 Tjele,2,1075000.0,23-12-2010,Alm.,5748,6,Villa,187,1920,-10 %
+Bigum Huse 5 8830 Tjele,5,169000.0,22-12-2010,Alm.,1469,3,Stuehus,115,1997,
+Kistrupvej 10 8830 Tjele,10,2100000.0,22-12-2010,Fam.,9767,6,Stuehus,215,1916,
+Tindbækvej 79 8830 Tjele,79,650000.0,17-12-2010,Alm.,14772,1,Sommerhus,44,1820,
+Lærkevej 17 8830 Tjele,17,1050000.0,11-12-2010,Alm.,6034,6,Villa,174,1974,-12 %
+Skibdalvej 22 8830 Tjele,22,660720.0,09-12-2010,Fam.,0,5,Villa,136,1952,
+Marie Grubbes Vej 1 8830 Tjele,1,490000.0,30-11-2010,Auktion,3769,5,Villa,130,1974,
+Hviddingvej 24 8830 Tjele,24,1300000.0,26-11-2010,Fam.,6842,8,Stuehus,190,1929,-34 %
+Burrehøjvej 40 8830 Tjele,40,6000000.0,25-11-2010,Andet,29268,6,Villa,205,1920,
+Løvskal Landevej 227 8830 Tjele,227,550000.0,25-11-2010,Auktion,5913,4,Villa,93,1852,
+Vorningvej 62 8830 Tjele,62,1100000.0,17-11-2010,Alm.,5641,5,Villa,195,1912,-4 %
+Skolevangen 21 8830 Tjele,21,1185000.0,08-11-2010,Alm.,12343,3,Villa,96,1968,0 %
+Violvænget 10 8830 Tjele,10,337000.0,04-11-2010,Alm.,2017,5,Villa,167,2013,
+Bakkevej 10 8830 Tjele,10,596453.0,03-11-2010,Alm.,5472,4,Villa,109,1962,4 %
+Gartnerbakken 12 8830 Tjele,12,950000.0,01-11-2010,Alm.,9500,3,Villa,100,1957,-9 %
+Skolevangen 24 8830 Tjele,24,1500000.0,29-10-2010,Alm.,10638,4,Villa,141,1972,-6 %
+Stadionbakken 7 8830 Tjele,7,950000.0,23-10-2010,Alm.,7851,4,Villa,121,1934,-3 %
+Hobro Landevej 11 8830 Tjele,11,1725000.0,11-10-2010,Alm.,11274,7,Stuehus,153,1920,-4 %
+Overlundvej 38 8830 Tjele,38,1250000.0,11-10-2010,Alm.,9259,7,Stuehus,135,1971,-7 %
+Hobro Landevej 161 8830 Tjele,161,725000.0,08-10-2010,Fam.,3295,7,Stuehus,220,1901,
+Aalborgvej 210 8830 Tjele,210,2775000.0,08-10-2010,Alm.,23125,3,Stuehus,120,1975,-7 %
+Engblommevej 14 8830 Tjele,14,2520000.0,06-10-2010,Alm.,17379,5,Villa,145,2007,
+Erikstrupvej 13 8830 Tjele,13,350000.0,01-10-2010,Alm.,4268,2,Villa,82,1905,-21 %
+Meldgårdsvej 89 8830 Tjele,89,1550000.0,30-09-2010,Alm.,9337,5,Villa,166,1985,-5 %
+Degnevænget 12 8830 Tjele,12,1390000.0,29-09-2010,Alm.,9520,5,Villa,146,1978,-4 %
+Stenkløvervej 5 8830 Tjele,5,1400000.0,29-09-2010,Alm.,11475,4,Villa,122,2010,
+Gl. Røddingvej 18 8830 Tjele,18,527000.0,27-09-2010,Fam.,6587,2,Villa,80,1922,
+Stenager 10 8830 Tjele,10,300000.0,27-09-2010,Alm.,1923,4,Villa,156,2011,
+Toftevænget 4 8830 Tjele,4,700000.0,25-09-2010,Alm.,6363,4,Villa,110,1962,-7 %
+Kirkegade 11 8830 Tjele,11,380000.0,21-09-2010,Auktion,3917,4,Villa,97,1936,-55 %
+Bavnehøjvej 19 8830 Tjele,19,1500000.0,18-09-2010,Alm.,10273,4,Villa,146,1910,-6 %
+Engblommevej 1 8830 Tjele,1,280530.0,17-09-2010,Alm.,1630,6,Villa,172,2011,-5 %
+Gl. Aalborgvej 26 8830 Tjele,26,1173985.0,16-09-2010,Alm.,10298,4,Villa,114,1961,
+Østervangsvej 69 8830 Tjele,69,1500000.0,09-09-2010,Alm.,7812,6,Villa,192,1936,0 %
+Lindum Søvej 16 8830 Tjele,16,2900000.0,01-09-2010,Fam.,16860,4,Stuehus,172,1912,
+Nordvang 8 8830 Tjele,8,825000.0,01-09-2010,Alm.,4365,5,Villa,189,1974,0 %
+Vestergade 20 8830 Tjele,20,775000.0,31-08-2010,Alm.,4874,7,Villa,159,1936,
+Tindbæk Byvej 46 8830 Tjele,46,700000.0,27-08-2010,Alm.,6481,3,Villa,108,1965,-22 %
+Kvorning Møllevej 4 8830 Tjele,4,650000.0,27-08-2010,Alm.,5078,4,Villa,128,1974,
+Tindbæk Byvej 58 8830 Tjele,58,790000.0,25-08-2010,Alm.,8061,3,Villa,98,1850,
+Catrinevej 4 8830 Tjele,4,995000.0,20-08-2010,Alm.,7107,5,Villa,140,1947,0 %
+Vorningvej 39 8830 Tjele,39,800000.0,20-08-2010,Alm.,8247,2,Villa,97,1961,-18 %
+Vorningvej 134 8830 Tjele,134,700000.0,19-08-2010,Alm.,4575,6,Villa,153,1880,
+Bøgedalen 2 8830 Tjele,2,200000.0,13-08-2010,Alm.,1428,4,Villa,140,2012,
+Højmarken 7 8830 Tjele,7,1250000.0,12-08-2010,Alm.,6313,6,Villa,198,1907,
+Hobro Landevej 60 8830 Tjele,60,1575000.0,11-08-2010,Alm.,10862,5,Villa,145,2005,-1 %
+Tjele Møllevej 3 8830 Tjele,3,547421.0,11-08-2010,Andet,3625,4,Villa,151,1933,
+Frederiksberg 26 8830 Tjele,26,400000.0,05-08-2010,Auktion,3125,4,Villa,128,1929,
+Veldsvej 6 8830 Tjele,6,1150000.0,05-08-2010,Alm.,9426,5,Villa,122,1973,
+Grønhøjvej 13 8830 Tjele,13,700000.0,12-07-2010,Alm.,7777,3,Villa,90,1945,
+Randersvej 50 8830 Tjele,50,660000.0,08-07-2010,Alm.,4551,5,Stuehus,145,2017,
+Nørregade 57 8830 Tjele,57,816000.0,07-07-2010,Alm.,3813,6,Stuehus,214,1916,-49 %
+Møller Andersensvej 9 8830 Tjele,9,1230000.0,07-07-2010,Alm.,8367,5,Villa,147,1974,-5 %
+Rævebakken 2 8830 Tjele,2,1750000.0,05-07-2010,Alm.,10736,4,Stuehus,163,1877,-8 %
+Løndalen 23 8830 Tjele,23,1050000.0,03-07-2010,Alm.,10500,3,Villa,100,2003,-2 %
+Haugårdsvej 22 8830 Tjele,22,600000.0,01-07-2010,Alm.,2941,10,Villa,204,1905,
+Bavnehøjvej 29 8830 Tjele,29,1700000.0,30-06-2010,Alm.,10179,5,Stuehus,167,1800,-23 %
+Randersvej 52 8830 Tjele,52,10800000.0,29-06-2010,Alm.,39272,7,Stuehus,275,1971,
+Fælledparken 13 8830 Tjele,13,123134.0,21-06-2010,Alm.,634,6,Villa,194,2013,
+Vorningvej 100 8830 Tjele,100,61075.0,21-06-2010,Fam.,0,5,Villa,154,2012,
+Sølandingen 2 8830 Tjele,2,2550000.0,14-06-2010,Alm.,7434,14,Villa,343,1901,-7 %
+Toften 21 8830 Tjele,21,600000.0,13-06-2010,Alm.,3773,5,Villa,159,1979,
+Granstien 3 8830 Tjele,3,1030000.0,07-06-2010,Alm.,10300,3,Villa,100,1968,
+Brudelysvej 3 8830 Tjele,3,400000.0,05-06-2010,Alm.,2380,5,Villa,168,2012,
+Næstegårdvænget 12 8830 Tjele,12,850000.0,01-06-2010,Alm.,6538,4,Villa,130,1976,
+Jernbanegade 6 8830 Tjele,6,1200000.0,27-05-2010,Alm.,0,5,Villa,164,1978,-6 %
+Hobro Landevej 106 8830 Tjele,106,450000.0,21-05-2010,Alm.,4090,3,Villa,110,1933,
+Vesterled 34 8830 Tjele,34,1695000.0,20-05-2010,Fam.,13780,4,Stuehus,123,2001,
+Åkandevej 18 8830 Tjele,18,1960000.0,18-05-2010,Auktion,12894,5,Villa,152,2005,-18 %
+Østergade 31 8830 Tjele,31,1250000.0,12-05-2010,Alm.,5020,9,Villa,249,2001,
+Vandstjernevej 5 8830 Tjele,5,390375.0,12-05-2010,Alm.,2602,6,Villa,150,2011,
+Hyldemosevej 19 8830 Tjele,19,540000.0,11-05-2010,Alm.,0,3,Villa,138,1969,-35 %
+Digevej 24 8830 Tjele,24,985000.0,05-05-2010,Alm.,6700,5,Villa,147,1984,-1 %
+Drosselvej 7 8830 Tjele,7,1325000.0,29-04-2010,Alm.,9814,4,Villa,135,1973,-5 %
+Langdyssevej 10 8830 Tjele,10,2000000.0,26-04-2010,Alm.,11111,6,Stuehus,180,1905,
+Stigsbækvej 4 8830 Tjele,4,1698300.0,23-04-2010,Alm.,8491,11,Stuehus,200,1911,
+Tulipanvænget 2 8830 Tjele,2,1670000.0,23-04-2010,Alm.,11208,5,Villa,149,2009,5 %
+Hobro Landevej 148 8830 Tjele,148,100000.0,22-04-2010,Alm.,666,4,Stuehus,150,1909,
+Hobro Landevej 154 8830 Tjele,154,100000.0,22-04-2010,Alm.,588,4,Stuehus,170,1976,
+Iversvej 1 8830 Tjele,1,125000.0,19-04-2010,Alm.,664,7,Stuehus,188,1874,
+Sødalvej 8 8830 Tjele,8,1207000.0,19-04-2010,Alm.,0,6,Villa,170,1965,
+Fædalhøjvej 7 8830 Tjele,7,55000.0,19-04-2010,Alm.,407,4,Stuehus,135,1912,
+Tinghøjvej 31 8830 Tjele,31,2450000.0,16-04-2010,Alm.,10470,9,Stuehus,234,1927,
+Møller Andersensvej 15 8830 Tjele,15,1050000.0,16-04-2010,Alm.,7241,4,Villa,145,1973,-4 %
+Kjærgårdsvej 7 8830 Tjele,7,1390000.0,09-04-2010,Alm.,8797,6,Villa,158,1965,-4 %
+Korsbakken 13 8830 Tjele,13,1550000.0,08-04-2010,Alm.,9011,6,Villa,172,1980,-3 %
+Sølystvej 13 8830 Tjele,13,162870.0,07-04-2010,Alm.,1522,4,Villa,107,2010,
+Lyngbakkevej 5 8830 Tjele,5,800000.0,24-03-2010,Alm.,5228,3,Stuehus,153,2013,
+Holmevej 28 8830 Tjele,28,299404.0,18-03-2010,Fam.,4403,2,Villa,68,1998,
+Gillebakken 22 8830 Tjele,22,1385000.0,17-03-2010,Alm.,8244,6,Villa,168,1955,-1 %
+Gøgeurtvej 7 8830 Tjele,7,400000.0,16-03-2010,Alm.,2247,6,Villa,178,2011,-33 %
+Gillebakken 39 8830 Tjele,39,1445000.0,15-03-2010,Alm.,8500,7,Villa,170,1971,-3 %
+Nørregade 5 8830 Tjele,5,1595000.0,12-03-2010,Alm.,10159,6,Villa,157,1924,0 %
+Høndrupvej 5 8830 Tjele,5,582500.0,12-03-2010,Alm.,4978,4,Villa,117,1968,-3 %
+Drøwten 40 8830 Tjele,40,650000.0,11-03-2010,Fam.,4113,8,Stuehus,158,1931,
+Randersvej 42 8830 Tjele,42,650000.0,03-03-2010,Alm.,7926,3,Villa,82,1917,-4 %
+Havrebakken 5 8830 Tjele,5,850000.0,01-03-2010,Alm.,8947,2,Villa,95,1957,0 %
+Stabilvej 3 8830 Tjele,3,175000.0,25-02-2010,Alm.,1047,6,Stuehus,167,1870,
+Kildevej 3 8830 Tjele,3,447934.0,25-02-2010,Alm.,3293,5,Villa,136,1925,
+Viskum Skovvej 2 8830 Tjele,2,800000.0,25-02-2010,Auktion,3755,6,Villa,213,1919,
+Stabilvej 2 8830 Tjele,2,11560000.0,25-02-2010,Alm.,55576,8,Villa,208,1927,
+Korsbakken 18 8830 Tjele,18,1365000.0,22-02-2010,Alm.,10263,4,Villa,133,1976,
+Enebærvej 4 8830 Tjele,4,940000.0,17-02-2010,Alm.,7833,4,Villa,120,1970,-6 %
+Aalborgvej 160 8830 Tjele,160,2240000.0,16-02-2010,Alm.,15664,5,Villa,143,1907,-4 %
+Hobrovej 85 8830 Tjele,85,1200000.0,12-02-2010,Alm.,5217,7,Villa,230,2013,
+Bøgedalen 9 8830 Tjele,9,200000.0,11-02-2010,Alm.,1176,5,Villa,170,2010,
+Bavnehøjvej 17 8830 Tjele,17,150000.0,02-02-2010,Alm.,1094,4,Stuehus,137,1900,
+Sødalvej 25 8830 Tjele,25,1050000.0,30-01-2010,Alm.,10937,4,Villa,96,1922,
+Tjele Møllevej 17 8830 Tjele,17,1200000.0,21-01-2010,Alm.,9448,2,Villa,127,1972,-7 %
+Kæpsmarksvej 7 8830 Tjele,7,802000.0,12-01-2010,Alm.,5940,4,Villa,135,1975,3 %
+Overlundvej 36A 8830 Tjele,0,7000000.0,05-01-2010,Auktion,24647,8,Stuehus,284,1986,
+Ingstrup Møllevej 2 8830 Tjele,2,4630000.0,05-01-2010,Auktion,49255,4,Stuehus,94,1929,
+Stenkløvervej 10 8830 Tjele,10,250000.0,21-12-2009,Alm.,1497,7,Villa,167,2010,
+Årupvej 19 8830 Tjele,19,1125000.0,18-12-2009,Alm.,7352,4,Villa,153,1970,-6 %
+Industrivej 1 8830 Tjele,1,799830.0,17-12-2009,Fam.,4789,4,Villa,167,1975,
+Overgårdsvej 13 8830 Tjele,13,150000.0,16-12-2009,Alm.,1013,5,Stuehus,148,1973,
+Engvej 5 8830 Tjele,5,700000.0,08-12-2009,Alm.,8433,3,Villa,83,1965,-6 %
+Ingstrupvej 27B 8830 Tjele,0,1695000.0,07-12-2009,Alm.,11452,5,Villa,148,1986,0 %
+Rosenvænget 1 8830 Tjele,1,1900000.0,28-11-2009,Alm.,12025,5,Villa,158,2007,-5 %
+Hovedgaden 39 8830 Tjele,39,488121.0,24-11-2009,Alm.,4319,3,Villa,113,1929,
+Firkløvervej 6 8830 Tjele,6,825000.0,23-11-2009,Alm.,6875,4,Villa,120,1973,-6 %
+Vansøgårdsvej 17A 8830 Tjele,0,1150000.0,17-11-2009,Alm.,13529,3,Rækkehus,85,2002,
+Vestervang 3 8830 Tjele,3,895000.0,16-11-2009,Alm.,7920,3,Villa,113,1961,0 %
+Kirkehøj 6 8830 Tjele,6,1890000.0,09-11-2009,Fam.,16875,4,Villa,112,2005,
+Åstrupvej 1 8830 Tjele,1,3278198.0,09-11-2009,Fam.,12805,7,Stuehus,256,2013,
+Hovmosevej 3 8830 Tjele,3,2195000.0,09-11-2009,Alm.,13718,6,Stuehus,160,1943,0 %
+Degnevænget 3 8830 Tjele,3,1075000.0,28-10-2009,Alm.,7789,5,Villa,138,1967,-6 %
+Viborgvej 65 8830 Tjele,65,995000.0,24-10-2009,Alm.,8155,5,Villa,122,1930,0 %
+Drøwten 7 8830 Tjele,7,700000.0,23-10-2009,Alm.,4666,5,Villa,150,1978,-12 %
+Skibdalvej 10 8830 Tjele,10,400000.0,22-10-2009,Alm.,4123,4,Villa,97,1932,-27 %
+Vorningvej 89 8830 Tjele,89,1125000.0,21-10-2009,Alm.,7978,6,Villa,141,1946,-6 %
+Søvangen 25 8830 Tjele,25,1045000.0,16-10-2009,Alm.,11741,4,Villa,89,1987,0 %
+Overlundvej 26 8830 Tjele,26,1400000.0,06-10-2009,Alm.,8536,5,Villa,164,1917,-12 %
+Randersvej 23 8830 Tjele,23,1200000.0,30-09-2009,Fam.,5429,7,Villa,221,1948,
+Bakkevej 26 8830 Tjele,26,1000000.0,29-09-2009,Alm.,7692,6,Villa,130,1984,
+Kokholmvej 49 8830 Tjele,49,14563000.0,29-09-2009,Alm.,69679,7,Stuehus,209,1982,
+Hobro Landevej 143 8830 Tjele,143,850000.0,28-09-2009,Alm.,7798,4,Villa,109,1905,-5 %
+Hobrovej 53 8830 Tjele,53,1695000.0,18-09-2009,Alm.,7704,8,Villa,220,1917,0 %
+Nørreåvej 10 8830 Tjele,10,1300000.0,17-09-2009,Alm.,12149,5,Stuehus,107,1912,
+Lindum Søvej 15 8830 Tjele,15,2200000.0,04-09-2009,Alm.,12087,4,Stuehus,182,1907,
+Østervang 2 8830 Tjele,2,725000.0,02-09-2009,Alm.,5753,3,Villa,126,1967,-8 %
+Firkløvervej 18 8830 Tjele,18,700000.0,31-08-2009,Alm.,0,3,Villa,137,1971,-12 %
+Hobro Landevej 125 8830 Tjele,125,1050000.0,17-08-2009,Alm.,8750,3,Stuehus,120,1890,-5 %
+Vorningvej 81 8830 Tjele,81,550000.0,13-08-2009,Alm.,4330,4,Villa,127,1935,-4 %
+Højmarken 3 8830 Tjele,3,600000.0,06-08-2009,Auktion,3773,7,Sommerhus,159,2001,
+Over Viskumvej 2 8830 Tjele,2,43000.0,05-08-2009,Alm.,341,7,Stuehus,126,1895,
+Hovmosevej 6 8830 Tjele,6,800000.0,05-08-2009,Alm.,5031,4,Stuehus,159,1879,
+Vingevej 60 8830 Tjele,60,1200000.0,28-07-2009,Alm.,0,8,Villa,250,1938,-29 %
+Meldgårdsvej 131 8830 Tjele,131,850000.0,20-07-2009,Alm.,9042,4,Villa,94,1980,-22 %
+Vestergade 14 8830 Tjele,14,1420000.0,17-07-2009,Alm.,7845,8,Villa,181,1937,-5 %
+Kjærgårdsvej 6 8830 Tjele,6,601005.0,09-07-2009,Alm.,5136,5,Villa,117,1965,-11 %
+Gl. Tjelevej 23 8830 Tjele,23,605000.0,09-07-2009,Alm.,4763,5,Villa,127,1955,-14 %
+Skolevej 13 8830 Tjele,13,650000.0,03-07-2009,Alm.,7647,3,Villa,85,1937,1 %
+Burrehøjvej 33 8830 Tjele,33,425000.0,02-07-2009,Auktion,3373,4,Villa,126,1909,-29 %
+Hørsøvej 6 8830 Tjele,6,330000.0,02-07-2009,Auktion,2229,6,Villa,148,1877,-53 %
+Fælledparken 23 8830 Tjele,23,600000.0,23-06-2009,Alm.,4000,5,Villa,150,2009,
+Viborgvej 24 8830 Tjele,24,1100000.0,23-06-2009,Alm.,6875,4,Villa,160,1911,-8 %
+Præstevænget 8 8830 Tjele,8,1350000.0,22-06-2009,Alm.,9642,4,Villa,140,1972,-10 %
+Vandstjernevej 9 8830 Tjele,9,300000.0,18-06-2009,Alm.,1948,5,Villa,154,2011,
+Meldgårdsvej 8 8830 Tjele,8,1385000.0,17-06-2009,Alm.,11352,4,Villa,122,1981,-4 %
+Vestergade 13 8830 Tjele,13,1050000.0,07-06-2009,Fam.,7608,6,Villa,138,1962,
+Vorningvej 84 8830 Tjele,84,375000.0,02-06-2009,Alm.,2884,4,Villa,130,1961,
+Hyldevænget 15 8830 Tjele,15,1000000.0,29-05-2009,Fam.,6944,5,Villa,144,1976,
+Østergade 16C 8830 Tjele,0,1445000.0,28-05-2009,Alm.,12787,4,Villa,113,2010,0 %
+Iversvej 7 8830 Tjele,7,125000.0,25-05-2009,Alm.,672,6,Stuehus,186,1900,
+Skibdalvej 56 8830 Tjele,56,680000.0,25-05-2009,Fam.,4857,5,Stuehus,140,1935,
+Østergade 16B 8830 Tjele,0,1445000.0,25-05-2009,Alm.,12787,4,Villa,113,2010,0 %
+Kristiansvej 5 8830 Tjele,5,895000.0,20-05-2009,Alm.,7103,4,Villa,126,1976,0 %
+Vorningvej 104 8830 Tjele,104,825000.0,20-05-2009,Alm.,7638,3,Villa,108,1962,0 %
+Gl. Viborgvej 13 8830 Tjele,13,800000.0,19-05-2009,Auktion,6201,6,Villa,129,1958,
+Overlundvej 28 8830 Tjele,28,5000000.0,18-05-2009,Alm.,26455,6,Stuehus,189,1920,
+Gl. Aalborgvej 20 8830 Tjele,20,1595000.0,13-05-2009,Alm.,11312,6,Villa,141,1937,0 %
+Løvskal Landevej 233 8830 Tjele,233,3900000.0,12-05-2009,Alm.,21428,6,Stuehus,182,1873,
+Overlundvej 21 8830 Tjele,21,725000.0,07-05-2009,Alm.,6250,4,Villa,116,1910,0 %
+Røddingvej 19 8830 Tjele,19,5500000.0,03-05-2009,Alm.,26829,7,Stuehus,205,1900,
+Fælledvej 22 8830 Tjele,22,1475000.0,01-05-2009,Alm.,11174,4,Villa,132,1988,-3 %
+Skolevangen 9 8830 Tjele,9,760000.0,30-04-2009,Alm.,0,6,Villa,185,1970,
+Præstevænget 14 8830 Tjele,14,1975000.0,19-04-2009,Alm.,8195,6,Villa,241,1973,-10 %
+Vingevej 42 8830 Tjele,42,825000.0,18-04-2009,Alm.,7051,4,Villa,117,1968,
+Åkandevej 2 8830 Tjele,2,1750000.0,17-04-2009,Alm.,12500,5,Villa,140,2006,-12 %
+Kirkegade 28 8830 Tjele,28,1200000.0,17-04-2009,Alm.,10714,5,Villa,112,1897,
+Nordvang 9 8830 Tjele,9,750000.0,07-04-2009,Fam.,6000,3,Villa,125,1975,
+Veldsvej 33 8830 Tjele,33,2450000.0,04-04-2009,Alm.,12250,4,Villa,200,1968,-2 %
+Østergade 16A 8830 Tjele,0,1445000.0,03-04-2009,Alm.,12787,4,Villa,113,2010,0 %
+Løvskal Landevej 217 8830 Tjele,217,400000.0,01-04-2009,Andet,2836,5,Villa,141,1949,
+Hobrovej 41 8830 Tjele,41,3400000.0,29-03-2009,Alm.,22666,6,Stuehus,150,1937,-15 %
+Jordkløvervej 7 8830 Tjele,7,800000.0,26-03-2009,Alm.,4000,6,Villa,200,2010,
+Holmevej 22 8830 Tjele,22,1200000.0,26-03-2009,Alm.,8275,4,Stuehus,145,1855,
+Tjelevej 3 8830 Tjele,3,1850000.0,24-03-2009,Alm.,12251,5,Villa,151,1976,-7 %
+Stenkløvervej 1 8830 Tjele,1,208445.0,16-03-2009,Alm.,1102,5,Villa,189,2009,
+Gartnerbakken 11 8830 Tjele,11,875000.0,13-03-2009,Alm.,8027,3,Villa,109,1925,0 %
+Batum Hedevej 11 8830 Tjele,11,2158000.0,05-03-2009,Alm.,10790,6,Villa,200,1900,-14 %
+Veldsparken 28 8830 Tjele,28,1125000.0,02-03-2009,Alm.,9000,4,Villa,125,1977,0 %
+Jernbanegade 24 8830 Tjele,24,835000.0,20-02-2009,Alm.,6374,6,Villa,131,1949,
+Rødkløvervej 10 8830 Tjele,10,1044679.0,13-02-2009,Alm.,5836,6,Villa,179,2006,
+Vorningvej 65 8830 Tjele,65,650000.0,07-02-2009,Alm.,5078,6,Villa,128,1925,
+Hobro Landevej 158 8830 Tjele,158,1338750.0,31-01-2009,Fam.,10796,4,Stuehus,124,1885,
+Vorningvej 63 8830 Tjele,63,287500.0,19-01-2009,Fam.,2904,6,Villa,99,1897,
+Toftevænget 2A 8830 Tjele,0,1200000.0,07-01-2009,Alm.,6779,5,Villa,177,1921,
+Meldgårdsvej 25 8830 Tjele,25,2000000.0,05-01-2009,Alm.,11627,6,Villa,172,1985,
+Bavnehøjvej 14 8830 Tjele,14,739050.0,22-12-2008,Alm.,9238,3,Villa,80,1850,
+Haversmosevej 7 8830 Tjele,7,870000.0,10-12-2008,Andet,7909,3,Villa,110,1964,
+Sødalvej 21 8830 Tjele,21,145000.0,04-12-2008,Alm.,1000,7,Stuehus,145,1924,
+Stenager 8 8830 Tjele,8,335375.0,03-12-2008,Alm.,1852,5,Villa,181,2010,
+Aalborgvej 204 8830 Tjele,204,3450000.0,02-12-2008,Fam.,23469,6,Stuehus,147,1956,
+Løndalen 24 8830 Tjele,24,815000.0,01-12-2008,Alm.,4527,5,Villa,180,1995,
+Sødalvej 6 8830 Tjele,6,3546000.0,27-11-2008,Fam.,23025,8,Stuehus,154,1940,
+Vorningvej 43 8830 Tjele,43,625000.0,27-11-2008,Auktion,5387,4,Villa,116,1877,
+Hviddingvej 39 8830 Tjele,39,1675000.0,23-11-2008,Andet,6673,4,Stuehus,251,1934,
+Burrehøjvej 29 8830 Tjele,29,950000.0,22-11-2008,Alm.,6418,3,Villa,148,1880,-5 %
+Nørreåvej 31 8830 Tjele,31,2600000.0,19-11-2008,Alm.,9961,8,Villa,261,1925,-5 %
+Høegsvej 33 8830 Tjele,33,1445000.0,19-11-2008,Alm.,8757,6,Villa,165,1979,-3 %
+Bakkevej 15 8830 Tjele,15,1600000.0,18-11-2008,Alm.,0,6,Villa,185,1930,-11 %
+Marie Grubbes Vej 29 8830 Tjele,29,1100000.0,29-10-2008,Alm.,4824,5,Villa,228,1974,0 %
+Næstegårdvænget 21 8830 Tjele,21,1640000.0,27-10-2008,Alm.,7922,8,Villa,207,1976,-3 %
+Tinghøjvej 30 8830 Tjele,30,970000.0,26-10-2008,Alm.,9897,3,Villa,98,1955,-9 %
+Søndermarksvej 4 8830 Tjele,4,1110000.0,16-10-2008,Alm.,8809,5,Villa,126,1960,-7 %
+Høegsvej 26 8830 Tjele,26,1550000.0,15-10-2008,Alm.,10992,5,Villa,141,2000,-9 %
+Hviddingvej 27 8830 Tjele,27,1650000.0,12-10-2008,Alm.,8684,7,Stuehus,190,2010,-55 %
+Grøndalsvej 11 8830 Tjele,11,425000.0,10-10-2008,Alm.,4722,4,Villa,90,1880,-19 %
+Skovly 8 8830 Tjele,8,660000.0,07-10-2008,Alm.,6947,4,Villa,95,1948,-5 %
+Vingevej 7 8830 Tjele,7,665000.0,02-10-2008,Alm.,4683,5,Villa,142,1904,-4 %
+Egelundsparken 23 8830 Tjele,23,875000.0,30-09-2008,Andet,6034,6,Villa,145,1997,
+Nørremarksvej 19 8830 Tjele,19,600000.0,22-09-2008,Alm.,3174,5,Stuehus,189,1912,
+Batum Hedevej 1 8830 Tjele,1,65000.0,09-09-2008,Alm.,303,5,Stuehus,214,1927,
+Nørbækvej 25 8830 Tjele,25,625000.0,05-09-2008,Andet,3140,5,Villa,199,1900,
+Kvorning Møllevej 12 8830 Tjele,12,1975000.0,03-09-2008,Alm.,10618,5,Stuehus,186,1918,
+Hyldemosevej 12 8830 Tjele,12,1015000.0,01-09-2008,Alm.,8458,4,Villa,120,1964,-6 %
+Lergravsvej 20 8830 Tjele,20,1195000.0,28-08-2008,Fam.,9053,6,Villa,132,1983,
+"Gl. Tjelevej 4A, 1 8830 Tjele",1,420255.0,27-08-2008,Alm.,4518,3,Lejlighed,93,1922,
+"Gl. Tjelevej 4A, ST 8830 Tjele",0,448470.0,27-08-2008,Alm.,4983,3,Lejlighed,90,1922,
+Gl. Tjelevej 4C 8830 Tjele,0,420255.0,27-08-2008,Alm.,7372,2,Rækkehus,57,1962,
+Gl. Tjelevej 4B 8830 Tjele,0,420255.0,27-08-2008,Alm.,6889,2,Rækkehus,61,1962,
+Gl. Tjelevej 4D 8830 Tjele,0,420255.0,27-08-2008,Alm.,7504,2,Rækkehus,56,1962,
+Gl. Tjelevej 4E 8830 Tjele,0,420255.0,27-08-2008,Alm.,6889,2,Rækkehus,61,1962,
+Jernbanegade 20 8830 Tjele,20,825000.0,26-08-2008,Alm.,7500,5,Villa,110,1934,
+Haugårdsvej 9 8830 Tjele,9,1145000.0,26-08-2008,Alm.,8357,4,Villa,137,1998,
+Tindbækvej 28 8830 Tjele,28,17000000.0,25-08-2008,Alm.,76576,5,Stuehus,222,1928,
+Vorningvej 71 8830 Tjele,71,3620000.0,25-08-2008,Fam.,21939,6,Stuehus,165,1866,
+Velds Husevej 19 8830 Tjele,19,2275000.0,25-08-2008,Alm.,0,5,Stuehus,167,1927,
+Sølystvej 17 8830 Tjele,17,300000.0,23-08-2008,Alm.,2013,6,Villa,149,2010,
+Nørbækvej 11 8830 Tjele,11,995000.0,20-08-2008,Alm.,8361,6,Villa,119,1895,0 %
+Egelundsparken 2 8830 Tjele,2,1195000.0,15-08-2008,Alm.,11715,4,Villa,102,1986,0 %
+Østervangsvej 13 8830 Tjele,13,2500000.0,14-08-2008,Alm.,19083,5,Villa,131,1960,
+Korsbakken 14 8830 Tjele,14,1450000.0,12-08-2008,Alm.,0,7,Villa,200,1976,
+Gerbravej 2 8830 Tjele,2,940000.0,06-08-2008,Alm.,10444,3,Villa,90,1967,
+Vråvej 5 8830 Tjele,5,875000.0,06-08-2008,Alm.,9308,3,Villa,94,1962,0 %
+Nørremarksvej 9 8830 Tjele,9,2200000.0,05-08-2008,Alm.,24444,2,Stuehus,90,1880,0 %
+Tindbæk Byvej 9 8830 Tjele,9,6500000.0,05-08-2008,Alm.,21739,6,Villa,299,1900,
+Kirkehøj 4 8830 Tjele,4,1525000.0,04-08-2008,Alm.,12200,4,Villa,125,2008,
+Fårdalvej 8 8830 Tjele,8,531250.0,01-08-2008,Andet,7378,3,Stuehus,72,1880,
+Hobrovej 47 8830 Tjele,47,1735000.0,01-08-2008,Alm.,11566,5,Villa,150,1923,-3 %
+Vorningvej 83 8830 Tjele,83,765000.0,24-07-2008,Alm.,5976,5,Villa,128,1946,0 %
+Fuglebakken 8 8830 Tjele,8,114375.0,22-07-2008,Alm.,1030,5,Villa,111,2009,
+Viborgvej 74 8830 Tjele,74,895000.0,21-07-2008,Alm.,7920,4,Villa,113,1952,0 %
+Tindbækvej 83 8830 Tjele,83,700000.0,16-07-2008,Alm.,6363,3,Villa,110,1900,-12 %
+Stenkløvervej 8 8830 Tjele,8,1999000.0,16-07-2008,Alm.,13238,5,Villa,151,2008,0 %
+Hyldevænget 12 8830 Tjele,12,1625000.0,12-07-2008,Alm.,10284,5,Villa,158,1973,-3 %
+Lergravsvej 5 8830 Tjele,5,599602.0,11-07-2008,Alm.,5124,6,Villa,117,1875,
+Sølandingen 2B 8830 Tjele,0,600000.0,11-07-2008,Andet,2857,5,Villa,210,2009,
+Vibevej 22 8830 Tjele,22,1500000.0,10-07-2008,Fam.,7575,5,Villa,198,1970,
+Lundager 2 8830 Tjele,2,281250.0,30-06-2008,Alm.,1520,6,Villa,185,2010,
+Randersvej 13C 8830 Tjele,0,965000.0,26-06-2008,Alm.,7423,4,Rækkehus,130,1910,0 %
+Fælledvej 24B 8830 Tjele,0,950000.0,26-06-2008,Alm.,10919,3,Rækkehus,87,1988,-3 %
+Røddingvej 21 8830 Tjele,21,22971628.0,25-06-2008,Andet,104893,8,Stuehus,219,1902,
+Sønderupvej 1 8830 Tjele,1,13010000.0,25-06-2008,Andet,51626,10,Stuehus,252,1918,
+Vansøgårdsvej 29 8830 Tjele,29,11030900.0,25-06-2008,Andet,50600,8,Stuehus,218,1909,
+Skolevangen 19 8830 Tjele,19,780000.0,24-06-2008,Alm.,0,4,Villa,100,1967,-7 %
+Sølystvej 12 8830 Tjele,12,2695000.0,24-06-2008,Alm.,0,5,Villa,219,2008,0 %
+Frederiksberg 11 8830 Tjele,11,266667.0,13-06-2008,Alm.,2539,4,Villa,105,2012,
+Frederiksberg 19 8830 Tjele,19,266666.0,13-06-2008,Alm.,2539,4,Rækkehus,105,2012,
+Frederiksberg 9 8830 Tjele,9,266666.0,13-06-2008,Alm.,2539,4,Rækkehus,105,2012,
+Toften 28 8830 Tjele,28,1250000.0,12-06-2008,Alm.,8445,5,Villa,148,1979,-2 %
+Hovmosevej 4 8830 Tjele,4,1275000.0,09-06-2008,Alm.,8225,5,Stuehus,155,1910,
+Korsbakken 16 8830 Tjele,16,1400000.0,05-06-2008,Alm.,7777,8,Villa,180,1978,-6 %
+Kirkelund 1C 8830 Tjele,0,940000.0,02-06-2008,Alm.,11190,3,Rækkehus,84,2002,-8 %
+Vorningvej 69 8830 Tjele,69,825000.0,02-06-2008,Alm.,10185,4,Villa,81,1906,
+Vandstjernevej 3 8830 Tjele,3,390375.0,27-05-2008,Alm.,3865,4,Villa,101,2009,
+Engvej 12 8830 Tjele,12,1400000.0,26-05-2008,Alm.,8235,6,Villa,170,1968,-3 %
+Løndalen 21 8830 Tjele,21,2052633.0,23-05-2008,Alm.,13242,6,Villa,155,2008,
+Norupvej 20 8830 Tjele,20,402000.0,21-05-2008,Alm.,5360,3,Villa,75,1931,
+Vorningvej 115 8830 Tjele,115,400000.0,19-05-2008,Alm.,5405,2,Villa,74,1960,-6 %
+Gillebakken 37 8830 Tjele,37,1300000.0,15-05-2008,Alm.,0,4,Villa,126,1971,
+Vansøgårdsvej 19A 8830 Tjele,0,1225000.0,15-05-2008,Alm.,14411,3,Rækkehus,85,2002,0 %
+Hyldemosevej 16 8830 Tjele,16,785000.0,14-05-2008,Alm.,6946,4,Villa,113,1970,
+Tjelevej 5 8830 Tjele,5,1700000.0,14-05-2008,Alm.,13934,6,Villa,122,1976,
+Viborgvej 86 8830 Tjele,86,850000.0,13-05-2008,Alm.,4775,6,Villa,178,1930,-11 %
+Toften 13 8830 Tjele,13,1195000.0,08-05-2008,Alm.,9409,4,Villa,127,1978,
+Østergade 90 8830 Tjele,90,780000.0,06-05-2008,Alm.,3035,14,Villa,257,1907,-13 %
+Hobro Landevej 167 8830 Tjele,167,575000.0,25-04-2008,Alm.,4637,5,Villa,124,1921,0 %
+Viborgvej 31 8830 Tjele,31,764000.0,12-04-2008,Alm.,3782,9,Villa,202,1957,
+Vibevej 7 8830 Tjele,7,1400000.0,10-04-2008,Alm.,10218,5,Villa,137,1970,2 %
+Præstevænget 1 8830 Tjele,1,1430000.0,08-04-2008,Alm.,11000,5,Villa,130,1972,-3 %
+Løvelbrovej 21 8830 Tjele,21,2100000.0,31-03-2008,Alm.,8713,8,Stuehus,241,1887,-14 %
+Enebærvej 3 8830 Tjele,3,740000.0,31-03-2008,Alm.,7115,2,Villa,104,1970,-2 %
+Vibevej 24 8830 Tjele,24,1225000.0,28-03-2008,Alm.,7515,4,Villa,163,1972,-12 %
+Søbakken 23 8830 Tjele,23,2015000.0,20-03-2008,Alm.,14190,5,Villa,142,2001,-6 %
+Nedergårdsvej 20 8830 Tjele,20,404978.0,20-03-2008,Fam.,0,9,Stuehus,430,1915,
+Nørremarksvej 27 8830 Tjele,27,2900000.0,12-03-2008,Alm.,13242,7,Stuehus,219,1905,-11 %
+Veldsparken 8 8830 Tjele,8,2160000.0,11-03-2008,Alm.,8640,7,Villa,250,1979,-2 %
+Vesterled 3 8830 Tjele,3,1355000.0,09-03-2008,Alm.,7612,7,Villa,178,1931,0 %
+Højager 1 8830 Tjele,1,280000.0,05-03-2008,Alm.,2333,5,Villa,120,2009,
+Tinggade 42 8830 Tjele,42,950000.0,05-03-2008,Alm.,8962,3,Villa,106,1965,0 %
+Kistrupvej 8 8830 Tjele,8,823320.0,29-02-2008,Alm.,9148,6,Stuehus,90,1960,
+Hyldemosevej 14 8830 Tjele,14,1000000.0,27-02-2008,Alm.,7042,4,Villa,142,1965,-3 %
+Bytoften 1 8830 Tjele,1,1500000.0,26-02-2008,Alm.,7692,7,Villa,195,1986,-3 %
+Tjele Møllevej 19 8830 Tjele,19,1380000.0,24-02-2008,Alm.,5476,7,Villa,252,1973,-4 %
+Rosenvænget 3 8830 Tjele,3,170000.0,22-02-2008,Alm.,1140,6,Villa,149,2009,
+Jordkløvervej 6 8830 Tjele,6,286625.0,20-02-2008,Alm.,1825,7,Villa,157,2009,
+Vorningvej 56 8830 Tjele,56,1150000.0,18-02-2008,Alm.,8041,5,Villa,143,2013,-4 %
+Vorningvej 77 8830 Tjele,77,395000.0,16-02-2008,Alm.,3526,4,Villa,112,1875,0 %
+Gøgeurtvej 6 8830 Tjele,6,595000.0,14-02-2008,Alm.,3966,5,Villa,150,2010,0 %
+Vesterled 30 8830 Tjele,30,470000.0,12-02-2008,Fam.,1934,9,Villa,243,1949,
+Næstegårdvænget 17 8830 Tjele,17,1140000.0,08-02-2008,Alm.,8976,4,Villa,127,1976,-1 %
+Nørregade 33 8830 Tjele,33,424004.0,08-02-2008,Alm.,8480,2,Villa,50,1954,
+Kirkelund 6 8830 Tjele,6,2260000.0,06-02-2008,Alm.,13696,5,Villa,165,2002,-9 %
+Jordkløvervej 5 8830 Tjele,5,275000.0,06-02-2008,Alm.,1091,8,Villa,252,2009,
+Søbakken 1 8830 Tjele,1,1540000.0,05-02-2008,Alm.,14000,3,Villa,110,2002,-3 %
+Nedergårdsvej 10 8830 Tjele,10,7069893.0,01-02-2008,Alm.,23645,11,Stuehus,299,1872,
+Brudelysvej 5 8830 Tjele,5,440375.0,31-01-2008,Alm.,0,7,Villa,182,2009,
+Kistrupvej 4 8830 Tjele,4,2500000.0,29-01-2008,Fam.,9803,8,Stuehus,255,1890,
+Hobro Landevej 51 8830 Tjele,51,50000.0,28-01-2008,Alm.,370,6,Villa,135,1930,
+Toften 7 8830 Tjele,7,1095000.0,23-01-2008,Alm.,8488,5,Villa,129,1974,0 %
+Dunhammervej 8 8830 Tjele,8,477375.0,22-01-2008,Alm.,2580,6,Villa,185,2009,
+Dunhammervej 3 8830 Tjele,3,390375.0,22-01-2008,Alm.,2168,7,Villa,180,2009,
+Vandstjernevej 7 8830 Tjele,7,415375.0,22-01-2008,Alm.,2864,5,Villa,145,2008,
+Hovedgaden 14 8830 Tjele,14,1200000.0,15-01-2008,Alm.,8955,5,Villa,134,1973,0 %
+Toftevænget 2B 8830 Tjele,0,1225000.0,15-01-2008,Alm.,12250,4,Rækkehus,100,2008,
+Nørregade 60 8830 Tjele,60,21700000.0,08-01-2008,Alm.,127647,7,Stuehus,170,1928,
+Fædalhøjvej 5 8830 Tjele,5,14100000.0,02-01-2008,Alm.,122608,4,Stuehus,115,1929,
+Pileurtvej 16 8830 Tjele,16,595000.0,28-12-2007,Alm.,3789,5,Villa,157,2010,0 %
+Solsortevej 6 8830 Tjele,6,1695000.0,27-12-2007,Alm.,11853,6,Villa,143,1972,0 %
+Skovagervej 118 8830 Tjele,118,1600000.0,20-12-2007,Fam.,9039,4,Stuehus,177,1900,
+Lergravsvej 15 8830 Tjele,15,675000.0,12-12-2007,Alm.,4354,5,Villa,155,1898,0 %
+Gøgeurtvej 8 8830 Tjele,8,595000.0,10-12-2007,Alm.,3500,5,Villa,170,2016,0 %
+Soltoften 4 8830 Tjele,4,1745000.0,09-12-2007,Alm.,10086,5,Villa,173,1986,0 %
+Næstegårdvænget 23 8830 Tjele,23,1375000.0,07-12-2007,Alm.,11178,4,Villa,123,1976,0 %
+Kvorning Møllevej 20 8830 Tjele,20,2400000.0,06-12-2007,Fam.,16666,8,Stuehus,144,1900,
+Vorningvej 133 8830 Tjele,133,2100000.0,04-12-2007,Alm.,15909,4,Villa,132,2008,-2 %
+Østergade 74 8830 Tjele,74,895000.0,02-12-2007,Alm.,5524,6,Villa,162,1927,0 %
+Fastrupvej 5 8830 Tjele,5,1000000.0,30-11-2007,Andet,4608,8,Villa,217,1848,
+Vibevej 19 8830 Tjele,19,1950000.0,29-11-2007,Alm.,10714,6,Villa,182,1971,
+Lærkevej 5 8830 Tjele,5,1375000.0,28-11-2007,Alm.,10110,4,Villa,136,1973,
+Rydalsvej 13 8830 Tjele,13,430000.0,27-11-2007,Andet,17200,1,Sommerhus,25,1961,
+Bavnehøjvej 20 8830 Tjele,20,150000.0,27-11-2007,Alm.,704,6,Villa,213,2012,
+Kirkehøj 12 8830 Tjele,12,1668000.0,26-11-2007,Fam.,0,6,Villa,140,2007,
+Veldsparken 53 8830 Tjele,53,2500000.0,23-11-2007,Alm.,11363,6,Villa,220,1981,0 %
+Randersvej 55 8830 Tjele,55,650000.0,22-11-2007,Andet,3779,5,Villa,172,1900,
+Vigstrupvej 49 8830 Tjele,49,3500000.0,20-11-2007,Alm.,27777,4,Stuehus,126,1964,
+Gyvelvej 3 8830 Tjele,3,1775000.0,16-11-2007,Alm.,13446,5,Villa,132,1996,0 %
+P. Andersensvej 5 8830 Tjele,5,1395000.0,14-11-2007,Alm.,11071,4,Villa,126,1953,0 %
+Tinghøjvej 17 8830 Tjele,17,1100000.0,09-11-2007,Alm.,8800,5,Villa,125,1947,
+Fuglesangs Alle 19 8830 Tjele,19,910000.0,07-11-2007,Fam.,3791,7,Villa,240,1900,
+Viborgvej 67 8830 Tjele,67,1035000.0,02-11-2007,Alm.,8483,6,Villa,122,1954,-5 %
+Løvelbrovej 7 8830 Tjele,7,1050000.0,02-11-2007,Alm.,11413,4,Stuehus,92,1934,
+Høegsvej 44 8830 Tjele,44,2600000.0,01-11-2007,Alm.,9629,8,Villa,270,1999,-4 %
+Vesterled 28 8830 Tjele,28,1800000.0,31-10-2007,Alm.,12949,3,Villa,139,1967,
+Hulbækvej 28A 8830 Tjele,0,425000.0,20-10-2007,Fam.,4829,3,Villa,88,1917,
+Gartnerbakken 6 8830 Tjele,6,850000.0,18-10-2007,Alm.,10493,4,Villa,81,1937,
+Østergade 20 8830 Tjele,20,1000000.0,18-10-2007,Fam.,5376,9,Villa,186,1906,
+Hyldemosevej 23 8830 Tjele,23,161500.0,16-10-2007,Alm.,1170,4,Villa,138,2008,
+Kistrupvej 2 8830 Tjele,2,3500000.0,16-10-2007,Alm.,15151,11,Stuehus,231,1928,
+Solbakken 4 8830 Tjele,4,385000.0,15-10-2007,Alm.,2961,3,Villa,130,2008,0 %
+Grønhøjvej 3 8830 Tjele,3,675000.0,12-10-2007,Alm.,6887,3,Villa,98,1961,
+Over Viskumvej 5 8830 Tjele,5,2750000.0,11-10-2007,Alm.,11802,6,Stuehus,233,1910,
+Ingstrupvej 43 8830 Tjele,43,531932.0,08-10-2007,Andet,4289,6,Villa,124,1963,
+Nybrovej 6 8830 Tjele,6,595000.0,07-10-2007,Alm.,4722,3,Villa,126,1960,
+Smedevænget 3 8830 Tjele,3,825000.0,05-10-2007,Alm.,6818,3,Villa,121,1989,-8 %
+Skibdalvej 32 8830 Tjele,32,495000.0,29-09-2007,Alm.,2525,6,Villa,196,1932,0 %
+Hyldemosevej 27 8830 Tjele,27,221259.0,28-09-2007,Andet,1146,6,Villa,193,2009,
+Solbakken 2 8830 Tjele,2,385000.0,28-09-2007,Alm.,2026,6,Villa,190,2009,0 %
+Hobro Landevej 149 8830 Tjele,149,825000.0,25-09-2007,Alm.,7112,3,Villa,116,1903,
+Velds Møllevej 7 8830 Tjele,7,2900000.0,24-09-2007,Alm.,16384,6,Villa,177,1912,-3 %
+Velds Husevej 17 8830 Tjele,17,1600000.0,24-09-2007,Alm.,9580,5,Stuehus,167,2015,
+Toftevænget 2D 8830 Tjele,0,1185000.0,23-09-2007,Alm.,12741,3,Rækkehus,93,2008,
+Randersvej 53 8830 Tjele,53,688108.0,21-09-2007,Fam.,2502,8,Stuehus,275,1918,
+Hyldevænget 10 8830 Tjele,10,777500.0,21-09-2007,Andet,4392,7,Villa,177,1974,
+Sølystvej 4 8830 Tjele,4,1590000.0,21-09-2007,Alm.,12045,5,Villa,132,1996,0 %
+Marie Grubbes Vej 27 8830 Tjele,27,1245000.0,17-09-2007,Alm.,7732,6,Villa,161,1985,
+Tjele Møllevej 29 8830 Tjele,29,19750000.0,17-09-2007,Alm.,62898,9,Stuehus,314,1910,
+Skolevej 17 8830 Tjele,17,985000.0,17-09-2007,Alm.,7880,3,Villa,125,1952,
+Hyldemosevej 11 8830 Tjele,11,1850000.0,13-09-2007,Alm.,5196,12,Villa,356,1902,
+Solsortevej 3 8830 Tjele,3,1045000.0,12-09-2007,Alm.,8855,4,Villa,118,1973,
+Hyldemosevej 25 8830 Tjele,25,157250.0,11-09-2007,Alm.,1164,5,Villa,135,2009,
+Søbakken 12 8830 Tjele,12,2050000.0,07-09-2007,Alm.,15185,5,Villa,135,1999,
+Søparken 2 8830 Tjele,2,3900000.0,06-09-2007,Alm.,0,4,Stuehus,160,1928,
+Bakkevej 22 8830 Tjele,22,1400000.0,31-08-2007,Alm.,10144,5,Villa,138,1980,
+Hobro Landevej 34 8830 Tjele,34,200000.0,30-08-2007,Alm.,1052,9,Villa,190,1905,
+Toftevænget 2C 8830 Tjele,0,1185000.0,25-08-2007,Alm.,12741,3,Rækkehus,93,2008,
+Lyngbakkevej 7 8830 Tjele,7,1520000.0,24-08-2007,Alm.,8941,8,Stuehus,170,1920,
+Tinghøjvej 9 8830 Tjele,9,900000.0,21-08-2007,Alm.,6382,4,Stuehus,141,1907,
+Søbakken 11 8830 Tjele,11,1195000.0,20-08-2007,Alm.,12578,5,Villa,95,2003,0 %
+Tinggade 37 8830 Tjele,37,640000.0,17-08-2007,Alm.,3832,7,Villa,167,1877,
+Præstevænget 4 8830 Tjele,4,1375000.0,17-08-2007,Alm.,8647,5,Villa,159,1971,
+Tindbækvej 87 8830 Tjele,87,578000.0,14-08-2007,Fam.,5207,3,Villa,111,1957,
+Vorningvej 52 8830 Tjele,52,616000.0,14-08-2007,Alm.,3898,6,Stuehus,158,1890,
+Tulipanvænget 1 8830 Tjele,1,242108.0,10-08-2007,Alm.,1551,6,Villa,156,2008,
+Lundager 3 8830 Tjele,3,216620.0,09-08-2007,Alm.,1051,5,Villa,206,2009,
+Catrinevej 8 8830 Tjele,8,400000.0,09-08-2007,Alm.,5000,3,Villa,80,1946,
+Tindbækvej 55 8830 Tjele,55,1675000.0,07-08-2007,Alm.,8769,8,Villa,191,1952,
+Østergade 82 8830 Tjele,82,825000.0,03-08-2007,Alm.,7932,4,Villa,104,1894,
+Haugårdsvej 20 8830 Tjele,20,650000.0,02-08-2007,Alm.,9027,3,Villa,72,1957,
+Burrehøjvej 55 8830 Tjele,55,1475000.0,25-07-2007,Fam.,8575,7,Stuehus,172,1886,
+Tåruphøjvej 11 8830 Tjele,11,4900000.0,20-07-2007,Alm.,24500,5,Stuehus,200,1938,
+Hobrovej 14 8830 Tjele,14,500000.0,19-07-2007,Alm.,5882,3,Villa,85,1957,
+Bigum Huse 2 8830 Tjele,2,2500000.0,18-07-2007,Alm.,13736,7,Stuehus,182,1927,
+Iversvej 9 8830 Tjele,9,1240000.0,17-07-2007,Alm.,4862,10,Villa,255,1980,
+Enghavevej 7 8830 Tjele,7,2400000.0,17-07-2007,Alm.,17142,5,Villa,140,2002,
+Åkandevej 3 8830 Tjele,3,283250.0,12-07-2007,Alm.,1913,6,Villa,148,2008,
+Veldsvej 34 8830 Tjele,34,1625000.0,11-07-2007,Alm.,8507,6,Villa,191,1974,
+Engvej 15 8830 Tjele,15,1335000.0,11-07-2007,Alm.,9888,4,Villa,135,1975,-1 %
+Viborgvej 14A 8830 Tjele,0,1450000.0,05-07-2007,Alm.,0,5,Lejlighed,139,1898,
+Veldsparken 75 8830 Tjele,75,650000.0,04-07-2007,Andet,4088,5,Villa,159,1987,
+Aalborgvej 178 8830 Tjele,178,1995000.0,04-07-2007,Alm.,12314,8,Stuehus,162,1900,0 %
+Møller Andersensvej 16 8830 Tjele,16,945000.0,02-07-2007,Alm.,7809,4,Villa,121,1970,
+Vingevej 49 8830 Tjele,49,2135000.0,29-06-2007,Alm.,0,7,Stuehus,198,1900,-38 %
+Sødalvej 16 8830 Tjele,16,2095000.0,27-06-2007,Alm.,10023,8,Stuehus,209,1924,0 %
+Fædalhøjvej 2 8830 Tjele,2,1700000.0,27-06-2007,Alm.,0,7,Villa,217,1927,
+Overlundvej 31 8830 Tjele,31,2700000.0,27-06-2007,Alm.,0,4,Stuehus,147,1920,
+Hulbækvej 43 8830 Tjele,43,980000.0,26-06-2007,Alm.,6125,3,Villa,160,1800,0 %
+Hestehaven 12 8830 Tjele,12,1544519.0,25-06-2007,Alm.,9417,5,Villa,164,1991,
+Vorningvej 88 8830 Tjele,88,400000.0,22-06-2007,Fam.,4761,3,Villa,84,1900,
+Skolevangen 14 8830 Tjele,14,960000.0,22-06-2007,Alm.,9411,3,Villa,102,1967,
+Østergade 78 8830 Tjele,78,800000.0,20-06-2007,Alm.,6666,4,Villa,120,1890,0 %
+Fælledvej 20B 8830 Tjele,0,935000.0,20-06-2007,Fam.,11402,3,Rækkehus,82,1987,
+Erikstoft 7 8830 Tjele,7,2075000.0,18-06-2007,Alm.,12652,5,Villa,164,2001,
+Gillebakken 23 8830 Tjele,23,816000.0,18-06-2007,Fam.,5164,4,Villa,158,1972,
+Foulumdalvej 2 8830 Tjele,2,930000.0,15-06-2007,Alm.,7209,6,Villa,129,1965,
+Aalborgvej 171 8830 Tjele,171,1625000.0,15-06-2007,Alm.,0,6,Stuehus,157,1923,-4 %
+Præstegårdsvej 15 8830 Tjele,15,825000.0,15-06-2007,Alm.,8418,4,Villa,98,1957,-8 %
+Tulipanvænget 3 8830 Tjele,3,237133.0,14-06-2007,Alm.,1529,3,Villa,155,2010,
+Viborgvej 21 8830 Tjele,21,570000.0,14-06-2007,Alm.,5181,4,Villa,110,1915,
+Østervangsvej 49A 8830 Tjele,0,865000.0,12-06-2007,Alm.,6811,5,Villa,127,1978,
+Randersvej 22 8830 Tjele,22,470000.0,11-06-2007,Alm.,5731,3,Villa,82,1942,
+Norupvej 15 8830 Tjele,15,1170000.0,11-06-2007,Alm.,7697,6,Villa,152,1973,0 %
+Østervangsvej 11 8830 Tjele,11,1185000.0,09-06-2007,Alm.,17686,2,Villa,67,1959,0 %
+Haugårdsvej 12 8830 Tjele,12,1285000.0,08-06-2007,Alm.,6763,9,Villa,190,1960,
+Møller Andersensvej 5A 8830 Tjele,0,775000.0,02-06-2007,Alm.,8516,3,Rækkehus,91,1984,
+Nørregade 43 8830 Tjele,43,1430000.0,30-05-2007,Alm.,8666,4,Villa,165,1973,-1 %
+Østervang 5 8830 Tjele,5,985000.0,30-05-2007,Alm.,7943,4,Villa,124,1972,-1 %
+Bøgedalen 19 8830 Tjele,19,231000.0,24-05-2007,Alm.,1276,6,Villa,181,2008,
+Tjørnevej 7 8830 Tjele,7,1400000.0,21-05-2007,Alm.,8484,4,Villa,165,1973,
+Overgårdsvej 1 8830 Tjele,1,700000.0,18-05-2007,Alm.,7000,5,Villa,100,1967,
+Lundager 10 8830 Tjele,10,169500.0,16-05-2007,Alm.,941,5,Villa,180,2008,
+Hobro Landevej 164 8830 Tjele,164,3770000.0,16-05-2007,Alm.,12566,8,Stuehus,300,1921,
+Hobro Landevej 86 8830 Tjele,86,665000.0,15-05-2007,Alm.,0,5,Villa,155,1939,
+Kirkebakken 27 8830 Tjele,27,720000.0,13-05-2007,Alm.,6315,4,Villa,114,1978,
+Hobrovej 56 8830 Tjele,56,965000.0,09-05-2007,Alm.,9368,4,Villa,103,1927,
+Stævnestedet 4 8830 Tjele,4,670000.0,07-05-2007,Alm.,6700,4,Villa,100,1968,
+Ingstrupvej 29 8830 Tjele,29,750000.0,03-05-2007,Alm.,7812,3,Villa,96,1965,
+Kirkegade 43 8830 Tjele,43,1800000.0,02-05-2007,Alm.,15000,5,Villa,120,1964,
+Erikstrupvej 17 8830 Tjele,17,1081000.0,28-04-2007,Alm.,9318,5,Villa,116,1961,
+Ingstrupvej 12 8830 Tjele,12,1200000.0,27-04-2007,Alm.,8571,6,Villa,140,1950,
+Degnevænget 20A 8830 Tjele,0,590000.0,26-04-2007,Alm.,9076,3,Rækkehus,65,1985,
+"Sølystvej 7, 1. TH 8830 Tjele",0,770000.0,26-04-2007,Alm.,7938,4,Lejlighed,97,2003,
+"Sølystvej 9, 1. TV 8830 Tjele",0,930000.0,26-04-2007,Alm.,9587,4,Lejlighed,97,2003,
+"Sølystvej 9, 1. TH 8830 Tjele",0,810000.0,26-04-2007,Alm.,9529,3,Lejlighed,85,2003,
+Soltoften 2 8830 Tjele,2,1360000.0,20-04-2007,Alm.,6538,7,Villa,208,1930,
+Nørremarksvej 31 8830 Tjele,31,2670000.0,18-04-2007,Alm.,13024,6,Villa,205,1966,
+Skibdalvej 42 8830 Tjele,42,850000.0,17-04-2007,Alm.,5000,4,Villa,170,1935,
+Skibdalvej 60 8830 Tjele,60,965000.0,17-04-2007,Alm.,5421,5,Villa,178,1946,
+Gl. Tjelevej 6 8830 Tjele,6,875000.0,15-04-2007,Alm.,6889,4,Villa,127,1900,
+Korsbakken 2 8830 Tjele,2,1175000.0,13-04-2007,Alm.,10981,4,Villa,107,1980,-2 %
+Lærkevej 22 8830 Tjele,22,1800000.0,11-04-2007,Alm.,0,4,Villa,144,1973,
+Viborgvej 55 8830 Tjele,55,1740000.0,02-04-2007,Alm.,10481,7,Villa,166,1926,-3 %
+Sødalvej 12 8830 Tjele,12,1850000.0,02-04-2007,Alm.,7312,9,Villa,253,1925,
+Kirkegade 7 8830 Tjele,7,1125000.0,02-04-2007,Alm.,11718,3,Villa,96,1970,
+Engblommevej 9 8830 Tjele,9,305000.0,30-03-2007,Alm.,1605,6,Villa,190,2008,
+Hobrovej 35 8830 Tjele,35,2100000.0,27-03-2007,Alm.,16279,4,Stuehus,129,1900,
+Nybrovej 4 8830 Tjele,4,950000.0,27-03-2007,Alm.,6785,5,Villa,140,1974,
+Bavnehøjvej 27 8830 Tjele,27,6615000.0,26-03-2007,Alm.,41867,6,Stuehus,158,1925,
+Østervangsvej 71 8830 Tjele,71,535000.0,24-03-2007,Alm.,7642,3,Villa,70,1961,
+Catrinevej 18 8830 Tjele,18,650000.0,22-03-2007,Fam.,5416,4,Villa,120,1955,
+Egelundsparken 16 8830 Tjele,16,1645000.0,22-03-2007,Alm.,0,6,Villa,188,1997,
+Frederiksberg Bakke 22 8830 Tjele,22,578000.0,20-03-2007,Fam.,4515,3,Villa,128,1968,
+Skibdalvej 20 8830 Tjele,20,580000.0,20-03-2007,Alm.,4142,5,Villa,140,1920,
+Meldgårdsvej 7 8830 Tjele,7,1950000.0,19-03-2007,Alm.,10597,7,Villa,184,1982,
+Over Viskumvej 3 8830 Tjele,3,336142.0,18-03-2007,Andet,0,2,Villa,78,1930,
+Grønhøjvej 7 8830 Tjele,7,376941.0,13-03-2007,Andet,3589,4,Villa,105,1969,
+Hviddingvej 51 8830 Tjele,51,537000.0,09-03-2007,Alm.,6317,3,Villa,85,1958,
+Industrivej 10 8830 Tjele,10,1925000.0,09-03-2007,Alm.,10694,9,Villa,180,1977,
+Løndalen 31 8830 Tjele,31,1295000.0,06-03-2007,Alm.,11880,3,Villa,109,2000,-2 %
+Kirkegade 39E 8830 Tjele,0,1315000.0,05-03-2007,Alm.,14611,3,Rækkehus,90,2007,
+Hyldemosevej 18B 8830 Tjele,0,515000.0,01-03-2007,Alm.,5364,4,Rækkehus,96,1968,-5 %
+Vorningvej 102 8830 Tjele,102,695000.0,22-02-2007,Alm.,8687,2,Villa,80,1962,
+Nørreåvej 23 8830 Tjele,23,3389200.0,21-02-2007,Alm.,26070,3,Villa,130,1933,
+Holmevej 43 8830 Tjele,43,477000.0,17-02-2007,Alm.,5184,3,Villa,92,1952,
+Fuglesangs Alle 11 8830 Tjele,11,710000.0,16-02-2007,Fam.,4303,3,Villa,165,1909,
+Vorningvej 126 8830 Tjele,126,14500000.0,16-02-2007,Alm.,50877,7,Stuehus,285,1882,
+Skovagervej 124 8830 Tjele,124,1700000.0,14-02-2007,Alm.,25757,3,Stuehus,66,1825,
+Præstevænget 17 8830 Tjele,17,1150000.0,08-02-2007,Alm.,8333,3,Villa,138,1969,
+Ingstrupvej 18 8830 Tjele,18,1100000.0,31-01-2007,Alm.,8208,7,Villa,134,1950,
+Vingevej 29 8830 Tjele,29,403869.0,31-01-2007,Fam.,2657,5,Villa,152,1932,
+Viborgvej 85 8830 Tjele,85,825000.0,29-01-2007,Alm.,8684,3,Villa,95,1969,
+Egelundsparken 15D 8830 Tjele,0,465000.0,29-01-2007,Alm.,10108,2,Rækkehus,46,1989,
+Gl. Viborgvej 26 8830 Tjele,26,8675000.0,26-01-2007,Alm.,36145,5,Stuehus,240,1975,
+Lindum Søvej 19 8830 Tjele,19,2700000.0,23-01-2007,Fam.,17763,6,Stuehus,152,1890,
+Tjelevej 12 8830 Tjele,12,745000.0,21-01-2007,Alm.,0,4,Villa,128,1981,
+Overlundvej 44 8830 Tjele,44,346700.0,15-01-2007,Fam.,3688,4,Villa,94,1910,
+Hobrovej 89 8830 Tjele,89,335000.0,14-01-2007,Alm.,1970,5,Villa,170,2010,
+Hestehaven 13 8830 Tjele,13,1840000.0,11-01-2007,Alm.,0,5,Villa,182,1997,
+Østergade 12 8830 Tjele,12,950000.0,11-01-2007,Alm.,5974,6,Villa,159,1917,-4 %
+Østervangsvej 47 8830 Tjele,47,1205000.0,05-01-2007,Alm.,8087,3,Villa,149,1973,
+Stenkløvervej 6 8830 Tjele,6,1800000.0,22-12-2006,Alm.,12857,5,Villa,140,2007,
+Bystævnet 2 8830 Tjele,2,900000.0,21-12-2006,Fam.,5325,5,Villa,169,2016,
+Bystævnet 5 8830 Tjele,5,175000.0,19-12-2006,Alm.,1093,6,Stuehus,160,1909,
+Toften 11 8830 Tjele,11,643750.0,18-12-2006,Andet,4698,4,Villa,137,1973,
+Kristiansvej 6 8830 Tjele,6,695000.0,07-12-2006,Alm.,3777,6,Villa,184,1949,
+Bavnehøjvej 23 8830 Tjele,23,925000.0,07-12-2006,Alm.,0,3,Villa,148,1910,
+Nøragervej 26 8830 Tjele,26,75000.0,04-12-2006,Alm.,604,4,Stuehus,124,1921,
+Tjørnevej 12 8830 Tjele,12,1640000.0,29-11-2006,Alm.,0,9,Villa,216,1976,
+Engblommevej 8 8830 Tjele,8,275000.0,28-11-2006,Alm.,1740,4,Villa,158,2007,
+Hulbækvej 3 8830 Tjele,3,965000.0,28-11-2006,Alm.,4898,5,Villa,197,1965,
+Kirkegade 39A 8830 Tjele,0,997760.0,23-11-2006,Alm.,9878,4,Villa,101,2007,
+Hovedgaden 3 8830 Tjele,3,548546.0,08-11-2006,Fam.,6453,1,Villa,85,1885,
+Grønhøjvej 38 8830 Tjele,38,544000.0,02-11-2006,Fam.,4352,4,Villa,125,1979,
+Møllevej 8 8830 Tjele,8,1195000.0,02-11-2006,Alm.,9637,3,Villa,124,1974,
+Vansøgårdsvej 19B 8830 Tjele,0,915000.0,27-10-2006,Alm.,0,3,Rækkehus,85,2002,
+Meldgårdsvej 87 8830 Tjele,87,1355000.0,23-10-2006,Alm.,6741,7,Villa,201,1979,
+Skibdalvej 3 8830 Tjele,3,331500.0,20-10-2006,Fam.,3683,4,Villa,90,1883,
+Digevej 2 8830 Tjele,2,595000.0,13-10-2006,Alm.,4103,5,Villa,145,1904,
+Toften 38 8830 Tjele,38,1375000.0,10-10-2006,Alm.,6516,8,Villa,211,1987,
+Bavnehøjvej 43 8830 Tjele,43,725000.0,09-10-2006,Alm.,5708,4,Villa,127,2008,
+Grønhøjvej 25 8830 Tjele,25,1275000.0,04-10-2006,Alm.,0,6,Villa,241,1915,
+Høegsvej 16 8830 Tjele,16,1500000.0,29-09-2006,Fam.,9740,7,Villa,154,1989,
+Aalborgvej 147 8830 Tjele,147,2195000.0,26-09-2006,Alm.,9712,7,Villa,226,1877,
+Tindbæk Byvej 56 8830 Tjele,56,210000.0,21-09-2006,Alm.,3333,2,Villa,63,1887,
+Solbakken 9 8830 Tjele,9,350000.0,18-09-2006,Alm.,2095,6,Villa,167,2007,
+Aalborgvej 190 8830 Tjele,190,2800000.0,16-09-2006,Alm.,14070,5,Villa,199,2000,
+Veldsparken 46 8830 Tjele,46,1015000.0,15-09-2006,Alm.,8458,4,Villa,120,1977,
+Vesterled 36 8830 Tjele,36,3023000.0,12-09-2006,Alm.,20153,6,Stuehus,150,1973,
+Toften 15 8830 Tjele,15,1125000.0,05-09-2006,Alm.,6987,4,Villa,161,1976,
+Firkløvervej 14 8830 Tjele,14,750000.0,30-08-2006,Alm.,6097,4,Villa,123,1973,
+Burrehøjvej 13 8830 Tjele,13,985000.0,28-08-2006,Alm.,6793,4,Villa,145,1967,
+Overlundvej 4A 8830 Tjele,0,1250000.0,19-08-2006,Alm.,6756,5,Villa,185,1909,
+Vorningvej 76 8830 Tjele,76,1698000.0,18-08-2006,Alm.,7934,4,Villa,214,1903,
+Stenkløvervej 7 8830 Tjele,7,115100.0,17-08-2006,Alm.,0,6,Villa,162,2008,
+Smedevænget 2 8830 Tjele,2,1235000.0,17-08-2006,Alm.,8019,4,Villa,154,1981,
+Foulumdalvej 10 8830 Tjele,10,750000.0,15-08-2006,Alm.,4189,5,Villa,179,1973,
+Skibdalvej 40 8830 Tjele,40,525000.0,12-08-2006,Alm.,5833,3,Villa,90,1935,
+Hobro Landevej 131 8830 Tjele,131,995000.0,09-08-2006,Alm.,4877,4,Villa,204,1870,
+Hobro Landevej 107 8830 Tjele,107,625000.0,03-08-2006,Alm.,0,6,Villa,140,1956,
+Årupgårde 4 8830 Tjele,4,1300000.0,03-08-2006,Alm.,7926,5,Stuehus,164,1933,
+Hørsøvej 5 8830 Tjele,5,300000.0,01-08-2006,Alm.,4477,5,Villa,67,1944,
+Viborgvej 26 8830 Tjele,26,1150000.0,27-07-2006,Alm.,8518,8,Villa,135,1935,
+Vansøgårdsvej 5 8830 Tjele,5,1325000.0,27-07-2006,Alm.,0,5,Villa,144,1939,
+Holmevej 41 8830 Tjele,41,514792.0,26-07-2006,Alm.,4679,4,Villa,110,1954,
+Tindbæk Byvej 17 8830 Tjele,17,435000.0,25-07-2006,Alm.,3565,4,Villa,122,1936,
+Præstevænget 27 8830 Tjele,27,1050000.0,24-07-2006,Alm.,6562,5,Villa,160,1972,
+Søndermarksvej 6 8830 Tjele,6,911940.0,17-07-2006,Alm.,5960,6,Villa,153,1945,
+Kirkelund 3 8830 Tjele,3,1195000.0,17-07-2006,Alm.,0,5,Villa,172,2004,
+Tinggade 12 8830 Tjele,12,1085000.0,14-07-2006,Alm.,8966,4,Villa,121,1892,
+Hobrovej 91 8830 Tjele,91,696835.0,14-07-2006,Alm.,2659,7,Villa,262,1914,
+Korsbakken 38 8830 Tjele,38,2000000.0,12-07-2006,Alm.,8928,8,Stuehus,224,1882,
+Hørsøvej 4 8830 Tjele,4,725000.0,10-07-2006,Alm.,5620,3,Villa,129,1924,
+Degnevænget 29 8830 Tjele,29,970000.0,06-07-2006,Alm.,8818,5,Villa,110,1987,
+Hybenvej 9 8830 Tjele,9,890000.0,03-07-2006,Alm.,6267,3,Villa,142,1954,
+Nybrovej 10 8830 Tjele,10,570000.0,30-06-2006,Alm.,3031,4,Villa,188,1962,
+Toftevænget 10 8830 Tjele,10,630000.0,27-06-2006,Fam.,6300,4,Villa,100,1963,
+Gillebakken 3 8830 Tjele,3,369000.0,21-06-2006,Andet,8021,2,Villa,46,1953,
+Kirkehøj 10 8830 Tjele,10,1538000.0,20-06-2006,Alm.,10830,4,Villa,142,2008,
+Østervangsvej 77 8830 Tjele,77,362555.0,20-06-2006,Andet,1812,4,Villa,200,1907,
+Åkandevej 12 8830 Tjele,12,2095000.0,20-06-2006,Alm.,11143,5,Villa,188,2006,
+Viborgvej 80 8830 Tjele,80,715000.0,19-06-2006,Alm.,4230,5,Villa,169,1938,
+Høegsvej 14 8830 Tjele,14,1400000.0,19-06-2006,Alm.,8235,5,Villa,170,1988,
+Hobrovej 79 8830 Tjele,79,2200000.0,18-06-2006,Alm.,0,6,Stuehus,154,1988,
+Toften 23 8830 Tjele,23,125510.0,16-06-2006,Alm.,804,5,Villa,156,2009,
+Korreborgvej 51 8830 Tjele,51,1800000.0,15-06-2006,Fam.,7563,7,Stuehus,238,2014,
+Gillebakken 20 8830 Tjele,20,1200000.0,14-06-2006,Alm.,3692,7,Villa,325,1973,
+Marie Grubbes Vej 12 8830 Tjele,12,56550.0,08-06-2006,Alm.,452,4,Villa,125,2009,
+Vansøgårdsvej 31 8830 Tjele,31,1190000.0,07-06-2006,Fam.,11333,3,Stuehus,105,1956,
+Østervangsvej 81 8830 Tjele,81,2554500.0,02-06-2006,Alm.,12836,8,Villa,199,1777,
+Hulbækvej 30 8830 Tjele,30,165258.0,01-06-2006,Fam.,1589,3,Villa,104,1970,
+Flarupvej 13 8830 Tjele,13,1450000.0,30-05-2006,Alm.,4461,9,Stuehus,325,1927,
+Bakkevej 1 8830 Tjele,1,125000.0,26-05-2006,Alm.,886,5,Villa,141,2007,
+Engblommevej 11 8830 Tjele,11,310000.0,20-05-2006,Alm.,1856,5,Villa,167,2006,
+Meldgårdsvej 63 8830 Tjele,63,1275000.0,19-05-2006,Alm.,7680,6,Villa,166,1983,
+Engvej 4 8830 Tjele,4,509625.0,19-05-2006,Fam.,3070,6,Villa,166,1972,
+Drøwten 22 8830 Tjele,22,1195000.0,17-05-2006,Alm.,5106,7,Villa,234,1992,
+Hobrovej 77 8830 Tjele,77,850000.0,11-05-2006,Fam.,7024,4,Stuehus,121,1880,
+Søbakken 10 8830 Tjele,10,1302000.0,10-05-2006,Alm.,0,5,Villa,126,2004,
+Gartnerbakken 16 8830 Tjele,16,1000000.0,05-05-2006,Alm.,8403,4,Villa,119,1965,
+Kirkelund 14 8830 Tjele,14,1490000.0,02-05-2006,Alm.,10875,4,Villa,137,2002,
+P. Andersensvej 10 8830 Tjele,10,625000.0,02-05-2006,Alm.,0,5,Villa,177,1959,
+Korsbakken 39 8830 Tjele,39,975000.0,01-05-2006,Alm.,6724,4,Villa,145,1896,
+Randersvej 32 8830 Tjele,32,350000.0,30-04-2006,Alm.,3125,6,Villa,112,1942,
+Vesterled 20 8830 Tjele,20,510000.0,28-04-2006,Alm.,7083,3,Villa,72,1890,
+Hobro Landevej 170 8830 Tjele,170,850000.0,27-04-2006,Alm.,7264,4,Stuehus,117,1905,
+Meldgårdsvej 95 8830 Tjele,95,1550000.0,25-04-2006,Alm.,8959,6,Villa,173,1984,
+Gl. Røddingvej 13 8830 Tjele,13,4281900.0,25-04-2006,Fam.,21517,6,Stuehus,199,1878,
+Fuglebakken 13 8830 Tjele,13,725000.0,19-04-2006,Alm.,0,5,Villa,146,1955,
+Nørbækvej 5 8830 Tjele,5,911000.0,19-04-2006,Alm.,5390,6,Villa,169,2012,
+Hobrovej 39 8830 Tjele,39,1150000.0,18-04-2006,Alm.,13855,3,Stuehus,83,1919,
+Hvidkløvervej 2A 8830 Tjele,0,850000.0,10-04-2006,Alm.,7727,4,Rækkehus,110,2003,
+Hvidkløvervej 2B 8830 Tjele,0,850000.0,10-04-2006,Alm.,7727,4,Rækkehus,110,2003,
+Hvidkløvervej 4A 8830 Tjele,0,850000.0,10-04-2006,Alm.,7727,4,Rækkehus,110,2003,
+Hvidkløvervej 4B 8830 Tjele,0,850000.0,10-04-2006,Alm.,7727,4,Rækkehus,110,2003,
+Hvidkløvervej 6B 8830 Tjele,0,930000.0,10-04-2006,Alm.,8454,4,Rækkehus,110,2003,
+Hvidkløvervej 6A 8830 Tjele,0,930000.0,10-04-2006,Alm.,8454,4,Rækkehus,110,2003,
+Gillebakken 52 8830 Tjele,52,2285000.0,10-04-2006,Fam.,11901,3,Stuehus,192,1777,
+Veldsvej 26 8830 Tjele,26,900000.0,10-04-2006,Alm.,6716,5,Villa,134,1972,
+Kirkelund 16 8830 Tjele,16,1110000.0,10-04-2006,Alm.,8102,5,Villa,137,2004,
+Kløvermarken 3A 8830 Tjele,0,750000.0,10-04-2006,Alm.,8823,3,Rækkehus,85,2002,
+Kløvermarken 3B 8830 Tjele,0,750000.0,10-04-2006,Alm.,8823,3,Rækkehus,85,2002,
+Kløvermarken 5B 8830 Tjele,0,750000.0,10-04-2006,Alm.,8823,3,Rækkehus,85,2002,
+Kløvermarken 5A 8830 Tjele,0,750000.0,10-04-2006,Alm.,8823,3,Rækkehus,85,2002,
+Kløvermarken 7A 8830 Tjele,0,750000.0,10-04-2006,Alm.,8620,3,Rækkehus,87,2003,
+Kløvermarken 9A 8830 Tjele,0,750000.0,10-04-2006,Alm.,8620,3,Rækkehus,87,2003,
+Kløvermarken 7B 8830 Tjele,0,750000.0,10-04-2006,Alm.,8620,3,Rækkehus,87,2003,
+Korsbakken 40 8830 Tjele,40,1000000.0,07-04-2006,Alm.,4878,10,Stuehus,205,1911,
+Ørum Torv 2 8830 Tjele,2,1095000.0,04-04-2006,Alm.,7019,5,Villa,156,1929,
+Vester Kærvej 7 8830 Tjele,7,484500.0,01-04-2006,Fam.,0,4,Villa,142,1968,
+Østergade 40 8830 Tjele,40,760000.0,30-03-2006,Alm.,8172,3,Villa,93,1957,
+Toftevænget 6 8830 Tjele,6,750000.0,30-03-2006,Alm.,5639,5,Villa,133,1967,
+Meldgårdsvej 71 8830 Tjele,71,2325000.0,29-03-2006,Alm.,11923,2,Villa,195,2001,
+Hobro Landevej 4 8830 Tjele,4,650000.0,29-03-2006,Alm.,5909,3,Villa,110,1930,
+Nøragervej 1 8830 Tjele,1,1200000.0,25-03-2006,Alm.,5263,8,Stuehus,228,1675,
+Ingstrup Møllevej 7B 8830 Tjele,0,6250000.0,23-03-2006,Alm.,40064,8,Stuehus,156,1865,
+Aalborgvej 161 8830 Tjele,161,2185000.0,22-03-2006,Fam.,13656,4,Stuehus,160,1870,
+Engblommevej 4 8830 Tjele,4,177120.0,22-03-2006,Alm.,1165,5,Villa,152,2006,
+Bystævnet 17 8830 Tjele,17,850000.0,20-03-2006,Alm.,5312,6,Villa,160,1900,
+Åkandevej 10 8830 Tjele,10,1783642.0,15-03-2006,Alm.,11360,5,Villa,157,2006,
+Kirkehøj 18 8830 Tjele,18,1475000.0,14-03-2006,Alm.,10925,5,Villa,135,2006,
+Åkandevej 5 8830 Tjele,5,175680.0,14-03-2006,Alm.,1155,4,Villa,152,2007,
+Engblommevej 3 8830 Tjele,3,176800.0,13-03-2006,Alm.,1098,5,Villa,161,2007,
+Kirkehøj 2 8830 Tjele,2,1568367.0,10-03-2006,Alm.,11123,4,Villa,141,2006,
+Over Viskumvej 8 8830 Tjele,8,3250000.0,09-03-2006,Alm.,13948,6,Stuehus,233,1988,
+Rosenvænget 10 8830 Tjele,10,92295.0,07-03-2006,Alm.,576,5,Villa,160,2007,
+Korsbakken 28 8830 Tjele,28,1240000.0,05-03-2006,Alm.,8551,4,Villa,145,1976,
+Engblommevej 10 8830 Tjele,10,170560.0,01-03-2006,Alm.,0,7,Villa,199,2006,
+Rosenvænget 5 8830 Tjele,5,104055.0,27-02-2006,Alm.,562,5,Villa,185,2007,
+Østergade 80 8830 Tjele,80,420000.0,23-02-2006,Alm.,0,5,Villa,122,1926,
+Præstevænget 18 8830 Tjele,18,1145000.0,22-02-2006,Alm.,10223,5,Villa,112,1973,
+Gl. Aalborgvej 1 8830 Tjele,1,930000.0,18-02-2006,Alm.,7750,4,Stuehus,120,1974,
+Veldsvej 32 8830 Tjele,32,1195000.0,13-02-2006,Alm.,7029,5,Villa,170,1973,
+Kornvænget 11 8830 Tjele,11,675000.0,11-02-2006,Alm.,8437,3,Rækkehus,80,1981,
+Vråvej 26 8830 Tjele,26,3550000.0,06-02-2006,Alm.,17839,7,Stuehus,199,1953,
+Gl. Røddingvej 16 8830 Tjele,16,480000.0,06-02-2006,Alm.,4800,4,Villa,100,1932,
+Smedestien 6 8830 Tjele,6,545000.0,03-02-2006,Alm.,7364,5,Villa,74,1944,
+Ingstrup Møllevej 9 8830 Tjele,9,2400000.0,30-01-2006,Alm.,0,11,Stuehus,348,1875,
+Vingevej 36 8830 Tjele,36,870000.0,25-01-2006,Alm.,5878,6,Villa,148,1965,
+Møller Andersensvej 3 8830 Tjele,3,1240000.0,20-01-2006,Alm.,6326,5,Villa,196,1971,
+Enghavevej 42 8830 Tjele,42,6000000.0,19-01-2006,Alm.,36585,7,Stuehus,164,1927,
+Skolevej 8 8830 Tjele,8,550000.0,16-01-2006,Alm.,4435,4,Villa,124,1950,
+Digevej 12 8830 Tjele,12,4370760.0,11-01-2006,Fam.,31219,4,Stuehus,140,1864,
+Østervangsvej 95 8830 Tjele,95,7450000.0,11-01-2006,Fam.,28113,8,Stuehus,265,1998,
+Løvskal Landevej 204 8830 Tjele,204,3000000.0,10-01-2006,Alm.,9966,8,Stuehus,301,1974,
+Kirkelund 5 8830 Tjele,5,1300000.0,09-01-2006,Alm.,8176,5,Villa,159,2004,
+Vorningvej 66 8830 Tjele,66,1275000.0,26-12-2005,Fam.,11383,4,Stuehus,112,1846,
+Fælledparken 15 8830 Tjele,15,82125.0,22-12-2005,Alm.,626,5,Villa,131,2006,
+Åkandevej 20 8830 Tjele,20,867194.0,21-12-2005,Alm.,0,6,Villa,189,2004,
+Bavnehøjvej 22 8830 Tjele,22,730000.0,21-12-2005,Alm.,6134,5,Stuehus,119,1912,
+Røddingvej 29 8830 Tjele,29,1075000.0,19-12-2005,Alm.,8600,4,Villa,125,1942,
+Hyldevænget 18 8830 Tjele,18,975000.0,15-12-2005,Alm.,7500,5,Villa,130,1973,
+Viborgvej 111 8830 Tjele,111,1700000.0,13-12-2005,Alm.,0,6,Stuehus,217,1925,
+Veldsvej 24 8830 Tjele,24,875000.0,13-12-2005,Alm.,4186,6,Villa,209,1969,
+Nordvang 16 8830 Tjele,16,870000.0,10-12-2005,Alm.,7372,4,Villa,118,1973,
+Overlundvej 7 8830 Tjele,7,1627815.0,07-12-2005,Alm.,10570,5,Stuehus,154,1980,
+Viborgvej 62 8830 Tjele,62,1375000.0,01-12-2005,Alm.,8593,6,Stuehus,160,1934,
+Hulbækvej 34 8830 Tjele,34,425000.0,28-11-2005,Alm.,4829,1,Villa,88,1912,
+P. Andersensvej 14 8830 Tjele,14,800000.0,26-11-2005,Alm.,7142,3,Villa,112,1954,
+Søbakken 40 8830 Tjele,40,240000.0,24-11-2005,Alm.,0,6,Villa,170,2001,
+Ingstrup Møllevej 6 8830 Tjele,6,795000.0,24-11-2005,Alm.,6259,4,Villa,127,1917,
+Åkandevej 8 8830 Tjele,8,170880.0,21-11-2005,Alm.,982,5,Villa,174,2006,
+Hviddingvej 41 8830 Tjele,41,2700000.0,21-11-2005,Alm.,16564,5,Villa,163,1906,
+Nørregade 42 8830 Tjele,42,408000.0,17-11-2005,Alm.,4483,4,Villa,91,1915,
+Hobro Landevej 159 8830 Tjele,159,1000000.0,15-11-2005,Fam.,8547,4,Stuehus,117,1850,
+Vingevej 45 8830 Tjele,45,685000.0,10-11-2005,Alm.,4566,5,Villa,150,1900,
+Sølandingen 3 8830 Tjele,3,1298000.0,09-11-2005,Alm.,9205,3,Villa,141,1862,
+Toften 16 8830 Tjele,16,820000.0,09-11-2005,Alm.,6456,4,Villa,127,1975,
+Præstevænget 20 8830 Tjele,20,1175000.0,26-10-2005,Alm.,3694,12,Villa,318,1969,
+Randersvej 59 8830 Tjele,59,3075000.0,24-10-2005,Fam.,21206,4,Stuehus,145,1885,
+Enebærvej 2 8830 Tjele,2,770000.0,24-10-2005,Alm.,6260,4,Villa,123,1971,
+Kornvænget 7 8830 Tjele,7,680000.0,21-10-2005,Alm.,0,5,Rækkehus,119,1981,
+Korsbakken 19 8830 Tjele,19,1050000.0,19-10-2005,Alm.,6441,5,Villa,163,1978,
+Ingstrupvej 23 8830 Tjele,23,1050000.0,18-10-2005,Alm.,4605,10,Villa,228,1900,
+Østergade 49 8830 Tjele,49,900000.0,14-10-2005,Alm.,0,9,Villa,287,1921,
+Høegsvej 25B 8830 Tjele,0,875000.0,30-09-2005,Alm.,9615,3,Rækkehus,91,1985,
+Østergade 62 8830 Tjele,62,1250000.0,29-09-2005,Alm.,7575,5,Villa,165,1900,
+Grønhøjvej 21 8830 Tjele,21,920000.0,26-09-2005,Alm.,5411,6,Villa,170,1937,
+Sødalvej 19 8830 Tjele,19,1330000.0,23-09-2005,Alm.,9637,5,Villa,138,1925,
+Vansøgårdsvej 17B 8830 Tjele,0,875000.0,23-09-2005,Alm.,10294,3,Rækkehus,85,2002,
+Gartnerbakken 8 8830 Tjele,8,885000.0,20-09-2005,Alm.,6020,5,Villa,147,1976,
+Bavnehøjvej 18 8830 Tjele,18,390000.0,20-09-2005,Alm.,3277,4,Stuehus,119,1912,
+Viborgvej 10 8830 Tjele,10,440000.0,15-09-2005,Alm.,2303,8,Villa,191,1895,
+Rosbjergvej 2 8830 Tjele,2,405000.0,14-09-2005,Alm.,0,3,Villa,130,1959,
+Iversvej 5 8830 Tjele,5,945000.0,11-09-2005,Alm.,0,6,Villa,206,1897,
+Nørbækvej 3 8830 Tjele,3,850000.0,09-09-2005,Alm.,5555,8,Villa,153,1947,
+Foulumdalvej 4 8830 Tjele,4,300000.0,09-09-2005,Andet,2040,7,Villa,147,1966,
+Vestergade 54 8830 Tjele,54,1550000.0,08-09-2005,Alm.,0,8,Villa,231,1925,
+Birkelundsvej 1 8830 Tjele,1,560000.0,08-09-2005,Alm.,3500,5,Villa,160,1910,
+Overlundvej 47 8830 Tjele,47,1325000.0,02-09-2005,Alm.,4166,10,Villa,318,1877,
+Lille Årup 1 8830 Tjele,1,775000.0,01-09-2005,Alm.,4725,10,Villa,164,1907,
+Enebærvej 1 8830 Tjele,1,725050.0,31-08-2005,Alm.,5577,5,Villa,130,1969,
+Engvej 13 8830 Tjele,13,995000.0,31-08-2005,Alm.,7653,5,Villa,130,1975,
+Vibevej 4 8830 Tjele,4,441367.0,30-08-2005,Alm.,3740,4,Villa,118,1970,
+Ingstrupvej 15 8830 Tjele,15,800000.0,28-08-2005,Alm.,4651,7,Villa,172,1932,
+Ingstrup Møllevej 1 8830 Tjele,1,1495000.0,23-08-2005,Alm.,7187,5,Villa,208,1910,
+Skolevangen 20 8830 Tjele,20,860000.0,13-08-2005,Alm.,6323,4,Villa,136,1973,
+Gillebakken 7 8830 Tjele,7,820000.0,08-08-2005,Alm.,8282,4,Villa,99,1942,
+Catrinevej 11 8830 Tjele,11,845000.0,03-08-2005,Alm.,6926,4,Villa,122,1972,
+Skibdalvej 53 8830 Tjele,53,990000.0,22-07-2005,Alm.,4323,8,Villa,229,1960,
+Sdr. Alle 4 8830 Tjele,4,230000.0,20-07-2005,Fam.,2875,3,Villa,80,1930,
+Kirkebakken 15 8830 Tjele,15,970000.0,11-07-2005,Alm.,6381,6,Villa,152,1977,
+Jordemodervej 6 8830 Tjele,6,1297000.0,07-07-2005,Alm.,4266,8,Stuehus,304,1966,
+Østergade 19 8830 Tjele,19,430000.0,04-07-2005,Alm.,7166,3,Villa,60,1917,
+Stigsbækvej 2 8830 Tjele,2,217000.0,20-06-2005,Alm.,0,6,Villa,188,1929,
+Solbakken 10 8830 Tjele,10,1478000.0,20-06-2005,Alm.,6779,5,Stuehus,218,1911,
+Skibdalvej 58 8830 Tjele,58,1237500.0,07-06-2005,Alm.,6875,4,Stuehus,180,1925,
+Randersvej 13A 8830 Tjele,0,525000.0,03-06-2005,Alm.,6176,3,Rækkehus,85,1910,
+Egelundsparken 8 8830 Tjele,8,1170000.0,03-06-2005,Alm.,9000,6,Villa,130,1996,
+Sølandingen 6 8830 Tjele,6,540000.0,30-05-2005,Alm.,13500,3,Stuehus,40,1875,
+Vorningvej 124 8830 Tjele,124,855000.0,22-05-2005,Alm.,0,8,Stuehus,171,1943,
+Veldsparken 47 8830 Tjele,47,978000.0,20-05-2005,Alm.,7086,5,Villa,138,1984,
+Egelundsparken 4 8830 Tjele,4,650000.0,13-05-2005,Alm.,4166,5,Villa,156,1998,
+Formyrevej 8 8830 Tjele,8,1650000.0,12-05-2005,Alm.,11785,4,Villa,140,1880,
+Søbakken 14 8830 Tjele,14,1650000.0,12-05-2005,Alm.,10927,6,Villa,151,1995,
+Løvelbrovej 17 8830 Tjele,17,1350000.0,07-05-2005,Alm.,5648,9,Stuehus,239,1912,
+Stadionvej 16 8830 Tjele,16,545000.0,03-05-2005,Alm.,6193,3,Villa,88,1952,
+Stordalvej 2 8830 Tjele,2,1245000.0,03-05-2005,Alm.,0,8,Stuehus,184,1912,
+Nørremarksvej 23 8830 Tjele,23,2230000.0,03-05-2005,Alm.,0,6,Stuehus,230,1924,
+Drosselvej 11 8830 Tjele,11,675000.0,02-05-2005,Alm.,5000,5,Villa,135,1972,
+Søskrænten 5 8830 Tjele,5,295000.0,29-04-2005,Alm.,1755,5,Villa,168,2006,
+Drøwten 36 8830 Tjele,36,695000.0,28-04-2005,Alm.,6747,4,Villa,103,1981,
+Veldsparken 57 8830 Tjele,57,1125000.0,19-04-2005,Alm.,8333,5,Villa,135,1985,
+Hulbækvej 35 8830 Tjele,35,300000.0,18-04-2005,Alm.,1851,6,Stuehus,162,1975,
+Sødalvej 37 8830 Tjele,37,265000.0,15-04-2005,Alm.,1027,7,Stuehus,258,2008,
+Skovagervej 132 8830 Tjele,132,2282905.0,15-04-2005,Alm.,12971,5,Stuehus,176,1903,
+Gillebakken 10 8830 Tjele,10,553577.0,14-04-2005,Andet,6017,3,Villa,92,1939,
+Skolevangen 11 8830 Tjele,11,575000.0,14-04-2005,Alm.,5750,3,Villa,100,1967,
+Søbakken 42 8830 Tjele,42,1650000.0,13-04-2005,Alm.,10927,6,Villa,151,1998,
+Soltoften 3 8830 Tjele,3,550000.0,09-04-2005,Alm.,5500,3,Villa,100,1934,
+Vansøgårdsvej 7 8830 Tjele,7,765000.0,07-04-2005,Alm.,5000,7,Villa,153,1954,
+Frederiksberg 12 8830 Tjele,12,675000.0,06-04-2005,Alm.,2606,6,Villa,259,2005,
+Stien 8 8830 Tjele,8,646500.0,04-04-2005,Alm.,4684,3,Villa,138,1947,
+Nørregade 75 8830 Tjele,75,477177.0,01-04-2005,Alm.,2485,6,Villa,192,1917,
+Lærkevej 15 8830 Tjele,15,855000.0,29-03-2005,Alm.,5700,4,Villa,150,1975,
+Skovagervej 116 8830 Tjele,116,1495000.0,29-03-2005,Alm.,14375,3,Stuehus,104,1910,
+Bavnehøjvej 13 8830 Tjele,13,520000.0,24-03-2005,Alm.,4297,4,Villa,121,1889,
+Løndalen 5 8830 Tjele,5,477825.0,22-03-2005,Alm.,2095,8,Villa,228,1848,
+Åkandevej 24 8830 Tjele,24,1595000.0,18-03-2005,Alm.,9725,5,Villa,164,2005,
+Hobrovej 40 8830 Tjele,40,12300000.0,11-03-2005,Fam.,39549,8,Stuehus,311,1978,
+Tindbækvej 41 8830 Tjele,41,834798.0,04-03-2005,Alm.,4716,5,Villa,177,1927,
+Fuglesangs Alle 18 8830 Tjele,18,1500000.0,04-03-2005,Alm.,8571,4,Stuehus,175,1952,
+Hobro Landevej 157 8830 Tjele,157,12938800.0,03-03-2005,Alm.,51549,9,Stuehus,251,1900,
+Skibdalvej 46 8830 Tjele,46,747000.0,01-03-2005,Alm.,0,7,Villa,310,1954,
+Gl. Viborgvej 22 8830 Tjele,22,2500000.0,25-02-2005,Alm.,0,6,Stuehus,216,1969,
+Gl. Aalborgvej 9 8830 Tjele,9,866315.0,25-02-2005,Alm.,6417,5,Villa,135,1968,
+Hovedgaden 43 8830 Tjele,43,575000.0,20-02-2005,Alm.,4227,4,Villa,136,1930,
+Kirkelund 11 8830 Tjele,11,1185000.0,17-02-2005,Alm.,0,6,Villa,157,2002,
+Langdyssevej 6 8830 Tjele,6,750000.0,15-02-2005,Alm.,5514,4,Villa,136,1927,
+Industrivej 8 8830 Tjele,8,310464.0,15-02-2005,Alm.,1584,6,Stuehus,196,1950,
+Hobro Landevej 1 8830 Tjele,1,895000.0,10-02-2005,Alm.,4430,8,Villa,202,1900,
+Vester Kærvej 4 8830 Tjele,4,815000.0,03-02-2005,Alm.,5544,4,Stuehus,147,2007,
+Fastrupvej 6 8830 Tjele,6,1290000.0,02-02-2005,Alm.,5733,6,Villa,225,1890,
+Vestergade 22 8830 Tjele,22,625000.0,01-02-2005,Alm.,0,4,Villa,130,1960,
+Korsbakken 9 8830 Tjele,9,1050000.0,01-02-2005,Alm.,6907,5,Villa,152,1976,
+Flarupvej 11 8830 Tjele,11,1170000.0,28-01-2005,Alm.,0,7,Villa,230,1924,
+Formyrevej 14 8830 Tjele,14,750000.0,25-01-2005,Alm.,5859,5,Villa,128,1930,
+Tværvej 4 8830 Tjele,4,690000.0,25-01-2005,Alm.,6388,5,Villa,108,1960,
+Kvorning Møllevej 17 8830 Tjele,17,4000000.0,24-01-2005,Alm.,0,7,Stuehus,284,1864,
+Ingstrupvej 5 8830 Tjele,5,1625000.0,19-01-2005,Alm.,8928,6,Villa,182,1827,
+Vingevej 8 8830 Tjele,8,725000.0,15-01-2005,Alm.,9177,3,Villa,79,1944,
+Rosbjergvej 3 8830 Tjele,3,895000.0,11-01-2005,Alm.,0,6,Villa,176,1956,
+Hobro Landevej 168 8830 Tjele,168,460629.0,10-01-2005,Alm.,0,8,Villa,340,1913,
+Overlundvej 25 8830 Tjele,25,50000.0,07-01-2005,Alm.,162,9,Stuehus,308,1935,
+Egelundsparken 11A 8830 Tjele,0,695000.0,07-01-2005,Alm.,8687,3,Rækkehus,80,1989,
+Hviddingvej 23 8830 Tjele,23,1323400.0,06-01-2005,Alm.,6272,6,Stuehus,211,1924,
+Løvelbrovej 11 8830 Tjele,11,2500000.0,05-01-2005,Alm.,0,10,Stuehus,240,1912,
+Kirkegade 15 8830 Tjele,15,665000.0,03-01-2005,Alm.,5037,4,Villa,132,1924,
+Bøgevej 3 8830 Tjele,3,539400.0,23-12-2004,Auktion,3502,4,Villa,154,1939,
+Norupvej 33 8830 Tjele,33,4527500.0,21-12-2004,Alm.,16403,7,Stuehus,276,1985,
+Overlundvej 48 8830 Tjele,48,1100000.0,17-12-2004,Alm.,5365,6,Villa,205,1972,
+Digevej 20 8830 Tjele,20,475000.0,29-11-2004,Alm.,4357,4,Villa,109,1963,
+Hobro Landevej 187 8830 Tjele,187,392000.0,25-11-2004,Alm.,4505,3,Villa,87,1903,
+Vestergade 40 8830 Tjele,40,1062500.0,25-11-2004,Alm.,0,6,Villa,274,1959,
+Gl. Tjelevej 19 8830 Tjele,19,510000.0,24-11-2004,Alm.,4903,4,Villa,104,1960,
+Hulbækvej 28B 8830 Tjele,0,1200000.0,17-11-2004,Fam.,0,9,Stuehus,263,1975,
+Stævnestedet 9 8830 Tjele,9,1550000.0,12-11-2004,Alm.,7311,7,Stuehus,212,1907,
+Hobrovej 52 8830 Tjele,52,3195000.0,12-11-2004,Fam.,10110,5,Stuehus,316,2011,
+Hobrovej 69 8830 Tjele,69,1395000.0,08-11-2004,Alm.,13037,4,Stuehus,107,1900,
+Aalborgvej 182 8830 Tjele,182,8500000.0,05-11-2004,Alm.,32818,7,Stuehus,259,1920,
+Kristiansvej 4 8830 Tjele,4,425000.0,01-11-2004,Alm.,4473,3,Villa,95,1950,
+Toften 14 8830 Tjele,14,645000.0,23-10-2004,Alm.,4961,5,Villa,130,1974,
+Hviddingvej 26 8830 Tjele,26,625000.0,12-10-2004,Alm.,4629,5,Villa,135,1880,
+Løvskal Landevej 225 8830 Tjele,225,5000000.0,07-10-2004,Alm.,10504,12,Stuehus,476,1563,
+Hviddingvej 43 8830 Tjele,43,575000.0,06-10-2004,Alm.,4078,4,Villa,141,1958,
+Hobro Landevej 68 8830 Tjele,68,1100000.0,30-09-2004,Alm.,0,9,Villa,339,1905,
+Kirkegade 6 8830 Tjele,6,355000.0,27-09-2004,Fam.,2320,6,Villa,153,1948,
+Skolevangen 18 8830 Tjele,18,227500.0,20-09-2004,Alm.,1223,5,Villa,186,2006,
+Drøwten 24 8830 Tjele,24,345000.0,18-09-2004,Alm.,4259,4,Villa,81,1931,
+Hobro Landevej 155 8830 Tjele,155,1400000.0,05-09-2004,Alm.,9150,6,Stuehus,153,1918,
+Søvangen 15A 8830 Tjele,0,515000.0,03-09-2004,Alm.,6688,3,Rækkehus,77,1980,
+Norupvej 14 8830 Tjele,14,775000.0,18-08-2004,Alm.,4403,6,Villa,176,1968,
+Tindbæk Byvej 38 8830 Tjele,38,1362000.0,17-08-2004,Alm.,8459,5,Villa,161,1980,
+Sdr. Alle 8 8830 Tjele,8,430000.0,12-08-2004,Alm.,0,6,Villa,184,1875,
+Degnevænget 11 8830 Tjele,11,966000.0,11-08-2004,Alm.,6483,7,Villa,149,1977,
+Bavnehøjvej 10 8830 Tjele,10,1080000.0,04-08-2004,Alm.,0,7,Stuehus,154,1931,
+Bøgevej 9 8830 Tjele,9,775000.0,02-08-2004,Alm.,6739,6,Villa,115,1953,
+Skovagervej 122 8830 Tjele,122,1600000.0,28-07-2004,Alm.,10596,4,Stuehus,151,1860,
+Aalborgvej 192 8830 Tjele,192,980000.0,13-07-2004,Alm.,5568,6,Stuehus,176,1914,
+Søndermarksvej 29 8830 Tjele,29,1850000.0,30-06-2004,Alm.,9068,6,Stuehus,204,1877,
+Nedergårdsvej 24 8830 Tjele,24,2150000.0,29-06-2004,Fam.,12874,6,Villa,167,1905,
+Overlundvej 51 8830 Tjele,51,1375000.0,28-06-2004,Alm.,7392,5,Villa,186,1902,
+Vestergade 23 8830 Tjele,23,715000.0,22-06-2004,Alm.,5296,4,Villa,135,1947,
+Løvskal Landevej 214 8830 Tjele,214,800000.0,22-06-2004,Andet,4678,8,Villa,171,1954,
+Kærvangen 5 8830 Tjele,5,860000.0,21-06-2004,Alm.,7166,4,Villa,120,1963,
+Hobro Landevej 169 8830 Tjele,169,350000.0,20-06-2004,Alm.,3500,3,Villa,100,1902,
+Flarupvej 18A 8830 Tjele,0,100000.0,17-06-2004,Alm.,454,7,Stuehus,220,1929,
+Kirkestien 3 8830 Tjele,3,560000.0,16-06-2004,Alm.,3943,5,Villa,142,1800,
+Langdyssevej 2 8830 Tjele,2,407500.0,13-06-2004,Andet,2680,7,Villa,152,1926,
+Kirkegade 17 8830 Tjele,17,875000.0,11-06-2004,Alm.,4755,8,Villa,184,1924,
+Overgårdsvej 28 8830 Tjele,28,1495000.0,10-06-2004,Alm.,8446,6,Stuehus,177,1934,
+Overlundvej 39 8830 Tjele,39,975000.0,08-06-2004,Alm.,4974,7,Villa,196,1927,
+Kistrupvej 9 8830 Tjele,9,156000.0,02-06-2004,Fam.,1083,5,Stuehus,144,1937,
+Tinggade 9 8830 Tjele,9,675000.0,27-05-2004,Alm.,0,5,Villa,194,1900,
+Hobro Landevej 120 8830 Tjele,120,5550000.0,27-05-2004,Fam.,9250,10,Stuehus,600,1850,
+Holmevej 23 8830 Tjele,23,2275000.0,27-05-2004,Fam.,0,6,Villa,177,1924,
+Lyngbakkevej 22 8830 Tjele,22,2000000.0,27-05-2004,Fam.,15873,2,Villa,126,1900,
+Digevej 1 8830 Tjele,1,380000.0,18-05-2004,Alm.,4935,3,Villa,77,1962,
+Vorningvej 7 8830 Tjele,7,1070000.0,17-05-2004,Alm.,4692,6,Villa,228,1979,
+Gartnerbakken 18 8830 Tjele,18,575000.0,14-05-2004,Alm.,0,4,Villa,120,1967,
+Overgårdsvej 12 8830 Tjele,12,600000.0,14-05-2004,Alm.,4444,4,Villa,135,1972,
+Vibevej 26 8830 Tjele,26,1000000.0,14-05-2004,Alm.,6666,5,Villa,150,1971,
+Haversmosevej 8 8830 Tjele,8,1050000.0,12-05-2004,Alm.,4751,5,Stuehus,221,1857,
+Randersvej 60 8830 Tjele,60,5270000.0,11-05-2004,Fam.,0,11,Stuehus,301,1852,
+Tindbæk Fælled 2 8830 Tjele,2,850000.0,03-05-2004,Fam.,4670,6,Stuehus,182,1857,
+Hybenvej 12 8830 Tjele,12,600000.0,01-05-2004,Alm.,5042,5,Villa,119,1963,
+Viborgvej 83 8830 Tjele,83,525000.0,28-04-2004,Alm.,5250,3,Villa,100,1963,
+Højmarken 11 8830 Tjele,11,500000.0,27-04-2004,Alm.,0,3,Villa,106,1900,
+Østervangsvej 51 8830 Tjele,51,695000.0,23-04-2004,Alm.,5743,4,Villa,121,1976,
+Korsbakken 24 8830 Tjele,24,770000.0,21-04-2004,Alm.,6470,4,Villa,119,1977,
+Viborgvej 116 8830 Tjele,116,860000.0,20-04-2004,Alm.,6466,6,Villa,133,1930,
+Veldsvej 51 8830 Tjele,51,850000.0,15-04-2004,Alm.,6250,3,Villa,136,1923,
+Marie Grubbes Vej 16 8830 Tjele,16,550000.0,14-04-2004,Alm.,3642,5,Villa,151,1974,
+Østervangsvej 93 8830 Tjele,93,440000.0,07-04-2004,Alm.,0,1,Villa,77,1927,
+Tindbækvej 65 8830 Tjele,65,759422.0,06-04-2004,Alm.,6435,4,Villa,118,1973,
+Kistrupvej 11 8830 Tjele,11,1615000.0,06-04-2004,Fam.,8590,6,Stuehus,188,2010,
+Hulbækvej 47 8830 Tjele,47,2670000.0,01-04-2004,Alm.,11762,10,Stuehus,227,1909,
+Lærkevej 18 8830 Tjele,18,1100000.0,31-03-2004,Alm.,0,7,Villa,208,1973,
+Østergade 117 8830 Tjele,117,150000.0,29-03-2004,Alm.,1470,4,Villa,102,1937,
+Frederiksberg Bakke 16 8830 Tjele,16,575000.0,20-03-2004,Alm.,0,4,Villa,110,1986,
+Viborgvej 114 8830 Tjele,114,971250.0,12-03-2004,Alm.,0,6,Stuehus,138,1935,
+Rosbjergvej 1 8830 Tjele,1,539245.0,03-03-2004,Fam.,4993,3,Villa,108,1957,
+Gillebakken 6 8830 Tjele,6,230000.0,01-03-2004,Fam.,2875,3,Villa,80,1940,
+Engvej 10 8830 Tjele,10,580000.0,28-02-2004,Alm.,3866,6,Villa,150,1967,
+Burrehøjvej 11 8830 Tjele,11,525000.0,19-02-2004,Alm.,4861,3,Villa,108,1968,
+Kirkelund 13 8830 Tjele,13,1150000.0,18-02-2004,Alm.,0,6,Villa,160,2004,
+Nørreåvej 13 8830 Tjele,13,430000.0,16-02-2004,Fam.,7166,2,Stuehus,60,1877,
+Tindbækvej 69 8830 Tjele,69,707729.0,15-02-2004,Alm.,4656,4,Villa,152,1957,
+Gerbravej 3 8830 Tjele,3,1150000.0,10-02-2004,Alm.,9200,6,Villa,125,1951,
+Tjele Skovvej 2 8830 Tjele,2,1765000.0,09-02-2004,Alm.,7204,4,Villa,245,1917,
+Havrebakken 7 8830 Tjele,7,535000.0,09-02-2004,Alm.,4385,4,Villa,122,1956,
+Meldgårdsvej 151 8830 Tjele,151,1900000.0,28-01-2004,Alm.,15079,4,Stuehus,126,1900,
+Østergade 39 8830 Tjele,39,1650000.0,27-01-2004,Alm.,11000,6,Stuehus,150,1923,
+Hobro Landevej 126 8830 Tjele,126,1650000.0,14-01-2004,Alm.,0,9,Stuehus,297,1925,
+Tinghøjvej 32 8830 Tjele,32,1100000.0,06-01-2004,Alm.,4230,6,Stuehus,260,2007,
+Ingstrupvej 39 8830 Tjele,39,575000.0,05-01-2004,Alm.,6534,4,Villa,88,1959,
+Vestergade 10 8830 Tjele,10,510000.0,29-12-2003,Alm.,4285,4,Villa,119,1928,
+Meldgårdsvej 23 8830 Tjele,23,1185000.0,23-12-2003,Alm.,6732,5,Villa,176,1979,
+Rønnevej 8 8830 Tjele,8,297500.0,22-12-2003,Fam.,1825,6,Villa,163,1978,
+Iversvej 11 8830 Tjele,11,585000.0,19-12-2003,Alm.,0,3,Villa,71,1877,
+Nedergårdsvej 3 8830 Tjele,3,714000.0,19-12-2003,Alm.,4011,5,Villa,178,1974,
+Tindbæk Byvej 34 8830 Tjele,34,750000.0,15-12-2003,Alm.,5639,6,Villa,133,1777,
+Nørregade 12 8830 Tjele,12,710000.0,05-12-2003,Alm.,0,6,Villa,250,1850,
+Veldsparken 42 8830 Tjele,42,830000.0,25-11-2003,Alm.,0,5,Villa,162,1977,
+Erikstrupvej 9 8830 Tjele,9,3200000.0,20-11-2003,Alm.,20779,3,Stuehus,154,1910,
+Nordvang 6 8830 Tjele,6,750000.0,18-11-2003,Alm.,5395,5,Villa,139,1975,
+Tinghøjvej 24 8830 Tjele,24,100000.0,05-11-2003,Alm.,400,7,Villa,250,2007,
+Meldgårdsvej 105 8830 Tjele,105,1215457.0,22-10-2003,Alm.,6570,7,Villa,185,1986,
+Tjele Møllevej 13 8830 Tjele,13,625000.0,17-10-2003,Alm.,6188,4,Villa,101,1970,
+Veldsparken 7 8830 Tjele,7,1395000.0,15-10-2003,Fam.,7227,7,Villa,193,1980,
+Burrehøjvej 19 8830 Tjele,19,622341.0,13-10-2003,Fam.,3111,5,Villa,200,1900,
+Hobro Landevej 189 8830 Tjele,189,1050000.0,08-10-2003,Alm.,7000,4,Stuehus,150,1910,
+Tjele Møllevej 25 8830 Tjele,25,850000.0,07-10-2003,Fam.,5862,6,Villa,145,1906,
+Tjele Møllevej 7 8830 Tjele,7,930000.0,03-10-2003,Alm.,5602,7,Villa,166,1930,
+Kirkelund 8 8830 Tjele,8,125000.0,25-09-2003,Alm.,1136,4,Villa,110,2004,
+Burrehøjvej 38 8830 Tjele,38,780000.0,18-09-2003,Alm.,0,3,Stuehus,102,1850,
+Hesselholt 30 8830 Tjele,30,537000.0,17-09-2003,Alm.,5966,4,Villa,90,1963,
+Nøragervej 12 8830 Tjele,12,2000000.0,16-09-2003,Alm.,10752,7,Stuehus,186,1900,
+Nøragervej 14 8830 Tjele,14,710000.0,15-09-2003,Alm.,0,6,Villa,218,1900,
+Nordvang 22 8830 Tjele,22,635000.0,10-09-2003,Alm.,4568,4,Villa,139,1979,
+Tindbækvej 25 8830 Tjele,25,260000.0,09-09-2003,Alm.,684,8,Stuehus,380,2003,
+Tindbækvej 29 8830 Tjele,29,260000.0,09-09-2003,Alm.,1065,9,Stuehus,244,1910,
+Nørbækvej 10 8830 Tjele,10,725000.0,07-09-2003,Alm.,5576,5,Stuehus,130,1928,
+Meldgårdsvej 115 8830 Tjele,115,825000.0,22-08-2003,Alm.,6547,4,Villa,126,1984,
+Kirkelund 10 8830 Tjele,10,1350000.0,21-08-2003,Alm.,8333,6,Villa,162,2003,
+Veldsparken 19 8830 Tjele,19,630000.0,14-08-2003,Fam.,5163,5,Villa,122,1976,
+Skolevangen 2A 8830 Tjele,0,965000.0,12-08-2003,Alm.,0,6,Villa,159,1979,
+Hobrovej 57 8830 Tjele,57,850000.0,28-07-2003,Alm.,7943,4,Villa,107,1928,
+Skibdalvej 7 8830 Tjele,7,328905.0,14-07-2003,Alm.,2284,5,Villa,144,1868,
+Viborgvej 94 8830 Tjele,94,370000.0,07-07-2003,Alm.,3557,3,Villa,104,1907,
+Haversmosevej 3 8830 Tjele,3,343303.0,30-06-2003,Fam.,4291,3,Villa,80,1962,
+Søvangen 17 8830 Tjele,17,1100000.0,28-06-2003,Alm.,11111,4,Villa,99,1988,
+Bavnehøjvej 8 8830 Tjele,8,800000.0,24-06-2003,Alm.,0,8,Stuehus,224,1915,
+Hobrovej 63 8830 Tjele,63,730000.0,20-06-2003,Alm.,5488,5,Stuehus,133,1900,
+Vestergade 58 8830 Tjele,58,1875000.0,18-06-2003,Alm.,11718,4,Stuehus,160,1907,
+Hulbækvej 48 8830 Tjele,48,1650000.0,13-06-2003,Alm.,0,9,Stuehus,240,1975,
+Hobro Landevej 152 8830 Tjele,152,1200695.0,12-06-2003,Alm.,5002,8,Stuehus,240,1980,
+Gillebakken 43 8830 Tjele,43,1212000.0,11-06-2003,Alm.,5459,6,Villa,222,1970,
+Gl. Aalborgvej 16 8830 Tjele,16,850000.0,06-06-2003,Alm.,5944,6,Villa,143,1931,
+Randersvej 51 8830 Tjele,51,810000.0,05-06-2003,Alm.,0,7,Villa,141,1954,
+Degnevænget 13 8830 Tjele,13,790000.0,30-05-2003,Alm.,0,9,Villa,216,1977,
+Holmevej 32 8830 Tjele,32,282549.0,26-05-2003,Fam.,2478,4,Villa,114,1962,
+Tindbækvej 67 8830 Tjele,67,525000.0,24-05-2003,Alm.,5000,4,Villa,105,1957,
+Sølystvej 14 8830 Tjele,14,125730.0,22-05-2003,Alm.,1030,4,Villa,122,2003,
+Veldsparken 63 8830 Tjele,63,1250000.0,19-05-2003,Alm.,8680,5,Villa,144,1985,
+Rønnevej 5 8830 Tjele,5,625000.0,15-05-2003,Alm.,0,8,Villa,171,1900,
+Nørregade 52 8830 Tjele,52,500000.0,14-05-2003,Alm.,7142,2,Villa,70,1959,
+Veldsparken 2 8830 Tjele,2,1085000.0,13-05-2003,Alm.,6027,5,Villa,180,1972,
+Høegsvej 50 8830 Tjele,50,101700.0,09-05-2003,Alm.,616,4,Villa,165,2003,
+Søskrænten 8 8830 Tjele,8,193970.0,08-05-2003,Alm.,0,5,Villa,146,2004,
+Ingstrupvej 45A 8830 Tjele,0,880000.0,06-05-2003,Alm.,7040,4,Villa,125,1976,
+Bigum Huse 4 8830 Tjele,4,2100000.0,05-05-2003,Alm.,8400,7,Stuehus,250,2004,
+Østervangsvej 85 8830 Tjele,85,1400000.0,03-05-2003,Alm.,7329,8,Villa,191,1932,
+Ingstrupvej 49 8830 Tjele,49,1330000.0,01-05-2003,Alm.,5495,6,Villa,242,1967,
+Hobrovej 43 8830 Tjele,43,1800000.0,01-05-2003,Alm.,11464,7,Stuehus,157,1924,
+Grønhøjvej 35 8830 Tjele,35,950000.0,26-04-2003,Fam.,6985,5,Stuehus,136,1936,
+Meldgårdsvej 121 8830 Tjele,121,1250000.0,25-04-2003,Alm.,6345,9,Villa,197,1984,
+Korsbakken 6 8830 Tjele,6,780000.0,07-04-2003,Alm.,5200,5,Villa,150,1979,
+Øster Kærvej 4 8830 Tjele,4,1100000.0,28-03-2003,Fam.,7638,5,Villa,144,1961,
+Catrinevej 15 8830 Tjele,15,580000.0,28-03-2003,Fam.,5576,5,Villa,104,1966,
+Bystævnet 8 8830 Tjele,8,690000.0,24-03-2003,Alm.,8117,4,Villa,85,1976,
+Præstevænget 2 8830 Tjele,2,629000.0,22-03-2003,Fam.,4765,5,Villa,132,1972,
+Østergade 96 8830 Tjele,96,3411000.0,21-03-2003,Alm.,15646,8,Stuehus,218,1973,
+Skibdalvej 31 8830 Tjele,31,650000.0,21-03-2003,Andet,2500,6,Stuehus,260,1920,
+Nørremarksvej 24 8830 Tjele,24,1000000.0,19-03-2003,Alm.,5681,6,Stuehus,176,1883,
+Hovedgaden 6 8830 Tjele,6,550000.0,10-03-2003,Fam.,5851,5,Villa,94,1948,
+Vesterled 32 8830 Tjele,32,115843.0,04-03-2003,Alm.,1182,4,Stuehus,98,1937,
+Kirkestien 9 8830 Tjele,9,325000.0,23-02-2003,Alm.,0,3,Villa,89,1900,
+Grønhøjvej 24 8830 Tjele,24,410000.0,18-02-2003,Alm.,3727,4,Stuehus,110,1880,
+Stadionbakken 2 8830 Tjele,2,660000.0,13-02-2003,Alm.,5322,6,Villa,124,1932,
+Langdyssevej 8 8830 Tjele,8,1035387.0,04-02-2003,Alm.,7784,3,Villa,133,1966,
+Veldsparken 32 8830 Tjele,32,1170000.0,31-01-2003,Alm.,7312,5,Villa,160,1977,
+Haugårdsvej 11 8830 Tjele,11,825000.0,29-01-2003,Alm.,5156,6,Villa,160,1906,
+Viborgvej 76 8830 Tjele,76,197158.0,28-01-2003,Alm.,2190,3,Villa,90,1910,
+Viborgvej 52 8830 Tjele,52,525000.0,24-01-2003,Alm.,6250,4,Stuehus,84,1860,
+Søbakken 29 8830 Tjele,29,1650000.0,14-01-2003,Alm.,12222,4,Villa,135,2001,
+Randersvej 18 8830 Tjele,18,370000.0,10-01-2003,Alm.,3057,4,Villa,121,1900,
+Næstegårdvænget 16 8830 Tjele,16,730000.0,30-12-2002,Alm.,5934,5,Villa,123,1976,
+Østergade 65 8830 Tjele,65,400000.0,23-12-2002,Alm.,0,6,Villa,200,1999,
+Nymarksvej 4 8830 Tjele,4,450000.0,20-12-2002,Alm.,3629,3,Villa,124,1928,
+Flarupvej 8 8830 Tjele,8,815000.0,19-12-2002,Alm.,4939,7,Villa,165,1877,
+Nørreåvej 21 8830 Tjele,21,2100000.0,19-12-2002,Fam.,0,7,Stuehus,204,1935,
+Skovagervej 112 8830 Tjele,112,789798.0,12-12-2002,Alm.,0,7,Villa,195,1920,
+Løvskal Landevej 235 8830 Tjele,235,690000.0,05-12-2002,Fam.,2047,8,Stuehus,337,1941,
+Hobro Landevej 9 8830 Tjele,9,2350000.0,30-11-2002,Alm.,13988,5,Stuehus,168,1960,
+Høegsvej 19 8830 Tjele,19,950000.0,06-11-2002,Alm.,7037,4,Villa,135,1988,
+Havrisvej 14 8830 Tjele,14,463000.0,06-11-2002,Fam.,4409,3,Villa,105,1937,
+Veldsparken 4 8830 Tjele,4,1150000.0,31-10-2002,Alm.,4956,8,Villa,232,1974,
+Marie Grubbes Vej 11 8830 Tjele,11,709251.0,30-10-2002,Alm.,0,7,Villa,210,1979,
+Hobro Landevej 25 8830 Tjele,25,600000.0,24-10-2002,Alm.,3208,6,Villa,187,1930,
+Hovmosevej 12 8830 Tjele,12,2866183.0,18-10-2002,Fam.,16472,6,Stuehus,174,1902,
+Tjele Møllevej 5 8830 Tjele,5,850000.0,10-10-2002,Alm.,5704,5,Villa,149,1922,
+Egelundsparken 3B 8830 Tjele,0,670000.0,10-10-2002,Alm.,7052,4,Rækkehus,95,1988,
+Holmevej 17 8830 Tjele,17,211234.0,26-09-2002,Alm.,865,8,Stuehus,244,1925,
+Vorningvej 95 8830 Tjele,95,440000.0,18-09-2002,Alm.,4000,3,Villa,110,1959,
+Meldgårdsvej 67 8830 Tjele,67,1118000.0,17-09-2002,Alm.,7503,5,Villa,149,1984,
+Vingevej 30 8830 Tjele,30,500000.0,17-09-2002,Alm.,0,4,Villa,129,1965,
+Enghavevej 38 8830 Tjele,38,280000.0,15-09-2002,Alm.,0,10,Stuehus,311,2004,
+Østervangsvej 49 8830 Tjele,49,531857.0,05-09-2002,Alm.,3324,6,Villa,160,1973,
+Drøwten 16 8830 Tjele,16,750000.0,05-09-2002,Alm.,6696,4,Villa,112,1986,
+Vorningvej 50 8830 Tjele,50,1150000.0,04-09-2002,Alm.,9583,4,Stuehus,120,1870,
+Vestergade 41 8830 Tjele,41,1249433.0,03-09-2002,Alm.,9053,5,Villa,138,1912,
+Kistrupvej 13 8830 Tjele,13,430000.0,30-08-2002,Alm.,4526,2,Villa,95,1947,
+Hobro Landevej 91 8830 Tjele,91,950000.0,27-08-2002,Andet,15833,3,Stuehus,60,1914,
+Hobro Landevej 95 8830 Tjele,95,6050000.0,27-08-2002,Andet,23449,10,Stuehus,258,1934,
+Margrethevænget 3 8830 Tjele,3,805000.0,27-08-2002,Alm.,5791,5,Villa,139,1978,
+Nørreåvej 27 8830 Tjele,27,6082147.0,26-08-2002,Fam.,17527,8,Stuehus,347,2015,
+Hobrovej 46 8830 Tjele,46,695000.0,23-08-2002,Alm.,6435,4,Stuehus,108,1920,
+Havrisvej 29 8830 Tjele,29,1400000.0,18-08-2002,Alm.,10769,5,Stuehus,130,1937,
+Tjele Møllevej 15 8830 Tjele,15,815000.0,14-08-2002,Alm.,5326,6,Villa,153,1971,
+Søvangen 10 8830 Tjele,10,1290000.0,13-08-2002,Alm.,7633,6,Villa,169,1978,
+Hviddingvej 5 8830 Tjele,5,760000.0,29-07-2002,Alm.,0,6,Villa,171,1963,
+Ingstrup Møllevej 21 8830 Tjele,21,1252528.0,28-07-2002,Alm.,7500,7,Stuehus,167,1880,
+Aalborgvej 186 8830 Tjele,186,1200000.0,25-07-2002,Alm.,7453,6,Villa,161,1961,
+Veldsvej 49 8830 Tjele,49,376260.0,24-07-2002,Alm.,1791,7,Stuehus,210,1912,
+Kirkelund 12 8830 Tjele,12,1140000.0,24-07-2002,Alm.,0,4,Villa,137,2003,
+Catrinevej 10 8830 Tjele,10,500000.0,17-07-2002,Alm.,3968,5,Villa,126,1947,
+Høegsvej 34B 8830 Tjele,0,75000.0,17-07-2002,Alm.,625,4,Villa,120,2003,
+Høndrupvej 2 8830 Tjele,2,412500.0,10-07-2002,Alm.,3928,4,Villa,105,1966,
+Gl. Tjelevej 17 8830 Tjele,17,500000.0,29-06-2002,Alm.,3597,4,Villa,139,1927,
+Korsbakken 30 8830 Tjele,30,495000.0,27-06-2002,Fam.,3322,5,Villa,149,1976,
+Næstegårdvænget 2 8830 Tjele,2,830000.0,26-06-2002,Alm.,7280,4,Villa,114,1979,
+Havrisvej 21 8830 Tjele,21,1100000.0,24-06-2002,Fam.,0,5,Stuehus,136,1942,
+Overgårdsvej 23 8830 Tjele,23,656148.0,21-06-2002,Fam.,6249,4,Stuehus,105,1870,
+Tindbæk Byvej 30 8830 Tjele,30,478817.0,14-06-2002,Alm.,5700,4,Villa,84,1959,
+Degnevænget 19 8830 Tjele,19,650000.0,14-06-2002,Alm.,5701,4,Villa,114,1978,
+Østervang 8 8830 Tjele,8,1165000.0,12-06-2002,Alm.,8825,4,Villa,132,2002,
+Søbakken 43 8830 Tjele,43,1600000.0,11-06-2002,Alm.,10062,5,Villa,159,1998,
+Præstevænget 23 8830 Tjele,23,998000.0,07-06-2002,Alm.,7858,4,Villa,127,1973,
+Tinghøjvej 48 8830 Tjele,48,2300000.0,04-06-2002,Alm.,12299,7,Stuehus,187,1928,
+Tomastoft 4 8830 Tjele,4,74925.0,27-05-2002,Alm.,492,5,Villa,152,2003,
+Veldsparken 68 8830 Tjele,68,1400000.0,23-05-2002,Alm.,8974,6,Villa,156,1984,
+"Sølystvej 9, ST. TV 8830 Tjele",0,885000.0,23-05-2002,Alm.,9123,4,Lejlighed,97,2003,
+Kvorning Møllevej 1 8830 Tjele,1,585000.0,29-04-2002,Alm.,5176,6,Villa,113,1875,
+Brobjergvej 2 8830 Tjele,2,1475000.0,21-04-2002,Alm.,9455,5,Villa,156,2003,
+Lærkevej 4 8830 Tjele,4,1000000.0,18-04-2002,Alm.,0,7,Villa,186,1973,
+Vansøgårdsvej 33 8830 Tjele,33,945000.0,17-04-2002,Alm.,3705,6,Villa,255,1886,
+Hulbækvej 46 8830 Tjele,46,1250000.0,12-04-2002,Alm.,0,7,Villa,217,1850,
+Vorningvej 72 8830 Tjele,72,953187.0,11-04-2002,Alm.,3309,8,Villa,288,1937,
+Ingstrup Møllevej 13 8830 Tjele,13,800000.0,08-04-2002,Alm.,5633,6,Stuehus,142,1910,
+Toften 17 8830 Tjele,17,865000.0,08-04-2002,Alm.,6313,5,Villa,137,1978,
+Hobrovej 67 8830 Tjele,67,50000.0,21-03-2002,Alm.,277,6,Stuehus,180,1911,
+Tindbæk Byvej 26 8830 Tjele,26,670000.0,20-03-2002,Alm.,3743,5,Stuehus,179,1850,
+Hobrovej 87 8830 Tjele,87,182000.0,18-03-2002,Alm.,1290,6,Stuehus,141,1925,
+Hestehaven 2 8830 Tjele,2,160000.0,14-03-2002,Alm.,0,7,Villa,204,2002,
+Batum Hedevej 2 8830 Tjele,2,999999.0,13-03-2002,Alm.,0,8,Stuehus,224,1987,
+Egelundsparken 24 8830 Tjele,24,1125000.0,10-03-2002,Alm.,8272,5,Villa,136,1994,
+Langdyssevej 9 8830 Tjele,9,319901.0,19-02-2002,Fam.,1729,4,Villa,185,1940,
+Vorningvej 136 8830 Tjele,136,1215021.0,19-02-2002,Fam.,8933,6,Villa,136,1931,
+Østergade 77 8830 Tjele,77,1714000.0,18-02-2002,Alm.,6748,7,Villa,254,1927,
+Lindum Søvej 21 8830 Tjele,21,1140000.0,14-02-2002,Alm.,6195,5,Stuehus,184,1989,
+Enebærvej 5 8830 Tjele,5,550000.0,01-02-2002,Alm.,3928,3,Villa,140,1968,
+Søbakken 25 8830 Tjele,25,173660.0,29-01-2002,Alm.,0,5,Villa,193,2003,
+Løvelbrovej 6 8830 Tjele,6,4125000.0,25-01-2002,Alm.,27500,7,Stuehus,150,1915,
+Aalborgvej 166 8830 Tjele,166,180000.0,23-01-2002,Alm.,2000,2,Villa,90,1800,
+Gillebakken 47 8830 Tjele,47,667356.0,21-01-2002,Alm.,0,7,Villa,188,1970,
+Kildevej 1 8830 Tjele,1,427000.0,18-01-2002,Alm.,0,4,Villa,124,1929,
+Kirkelund 18 8830 Tjele,18,1007820.0,10-01-2002,Alm.,0,6,Villa,151,2001,
+Tindbækvej 4 8830 Tjele,4,1700000.0,20-12-2001,Alm.,10625,7,Villa,160,1963,
+Catrinevej 6 8830 Tjele,6,470000.0,19-12-2001,Alm.,4476,4,Villa,105,1955,
+Lergravsvej 11 8830 Tjele,11,3500000.0,19-12-2001,Fam.,18716,7,Stuehus,187,1970,
+Nørregade 38 8830 Tjele,38,650000.0,18-12-2001,Alm.,2124,7,Stuehus,306,1908,
+Høegsvej 36 8830 Tjele,36,58400.0,17-12-2001,Alm.,530,3,Villa,110,2002,
+Holmevej 35 8830 Tjele,35,648345.0,17-12-2001,Alm.,5228,5,Villa,124,1932,
+Vorningvej 96 8830 Tjele,96,38736.0,12-12-2001,Auktion,496,2,Villa,78,1870,
+Grønhøjvej 12 8830 Tjele,12,1150000.0,29-11-2001,Alm.,0,7,Villa,197,1958,
+Enghavevej 21 8830 Tjele,21,700000.0,28-11-2001,Alm.,5737,6,Stuehus,122,1961,
+Tjele Skovvej 4 8830 Tjele,4,1075000.0,27-11-2001,Alm.,7962,4,Villa,135,1973,
+Høegsvej 34A 8830 Tjele,0,75000.0,26-11-2001,Alm.,581,7,Villa,129,2002,
+Viborgvej 97 8830 Tjele,97,300000.0,20-11-2001,Alm.,0,5,Villa,157,1915,
+Hobro Landevej 88 8830 Tjele,88,620000.0,13-11-2001,Alm.,4217,5,Villa,147,2010,
+Søbakken 15 8830 Tjele,15,38775.0,12-11-2001,Alm.,352,4,Villa,110,2002,
+Engvej 2 8830 Tjele,2,771847.0,02-11-2001,Alm.,5250,4,Villa,147,1973,
+Jordemodervej 4 8830 Tjele,4,850000.0,01-11-2001,Fam.,9659,4,Stuehus,88,1890,
+Catrinevej 9 8830 Tjele,9,650000.0,29-10-2001,Alm.,5603,4,Villa,116,1967,
+Vingevej 47 8830 Tjele,47,1400000.0,29-10-2001,Alm.,19178,3,Stuehus,73,1900,
+Nørregade 22 8830 Tjele,22,275000.0,26-10-2001,Alm.,2956,3,Villa,93,1925,
+Overlundvej 30 8830 Tjele,30,685010.0,23-10-2001,Auktion,5708,5,Villa,120,1927,
+Viborgvej 28 8830 Tjele,28,96969.0,22-10-2001,Alm.,515,7,Villa,188,1938,
+Vansøgårdsvej 21 8830 Tjele,21,92025.0,22-10-2001,Alm.,691,5,Villa,133,2002,
+Tinggade 38A 8830 Tjele,0,485000.0,17-10-2001,Alm.,6217,3,Rækkehus,78,1988,
+Formyrevej 4 8830 Tjele,4,425000.0,16-10-2001,Alm.,0,5,Villa,108,1960,
+Meldgårdsvej 153 8830 Tjele,153,3800000.0,16-10-2001,Fam.,17272,9,Stuehus,220,1889,
+Aalborgvej 194 8830 Tjele,194,1088589.0,11-10-2001,Alm.,8373,3,Villa,130,1958,
+Skolevej 22 8830 Tjele,22,475000.0,08-10-2001,Alm.,5523,3,Villa,86,1958,
+Tindbæk Byvej 68 8830 Tjele,68,635000.0,25-09-2001,Alm.,6614,2,Villa,96,1966,
+Vingevej 64 8830 Tjele,64,450000.0,24-09-2001,Alm.,3488,7,Villa,129,1907,
+Veldsparken 18 8830 Tjele,18,511876.0,23-09-2001,Alm.,3028,6,Villa,169,1976,
+Søbakken 39 8830 Tjele,39,115000.0,20-09-2001,Alm.,898,5,Villa,128,2002,
+Nørbækvej 13 8830 Tjele,13,1755000.0,17-09-2001,Alm.,11938,7,Stuehus,147,1862,
+Batum Hedevej 5 8830 Tjele,5,1350000.0,14-09-2001,Alm.,6818,8,Villa,198,1969,
+Industrivej 12 8830 Tjele,12,1500000.0,05-09-2001,Alm.,9933,6,Villa,151,1985,
+Flarupvej 24 8830 Tjele,24,1450000.0,29-08-2001,Alm.,0,5,Stuehus,148,1910,
+Søbakken 37 8830 Tjele,37,69900.0,27-08-2001,Alm.,450,6,Villa,155,2002,
+Sødalvej 7 8830 Tjele,7,600000.0,19-08-2001,Alm.,0,6,Villa,162,1889,
+Østervangsvej 57 8830 Tjele,57,638795.0,16-08-2001,Alm.,4876,3,Villa,131,1960,
+Bavnehøjvej 26 8830 Tjele,26,324960.0,03-08-2001,Alm.,0,7,Villa,191,1873,
+Vingevej 17 8830 Tjele,17,520000.0,02-08-2001,Alm.,5416,4,Villa,96,1957,
+Degnevænget 6 8830 Tjele,6,690000.0,31-07-2001,Alm.,0,4,Villa,162,1973,
+Meldgårdsvej 127 8830 Tjele,127,1100000.0,26-07-2001,Alm.,7382,5,Villa,149,1985,
+Nørreåvej 14 8830 Tjele,14,775000.0,17-07-2001,Alm.,0,9,Stuehus,214,1885,
+Gl. Aalborgvej 12 8830 Tjele,12,983000.0,13-07-2001,Fam.,4915,7,Villa,200,1932,
+Grøndalsvej 5 8830 Tjele,5,650000.0,12-07-2001,Auktion,5416,3,Stuehus,120,1923,
+Soltoften 5 8830 Tjele,5,835038.0,09-07-2001,Alm.,7591,3,Villa,110,1988,
+Lille Årup 2 8830 Tjele,2,995000.0,09-07-2001,Alm.,0,7,Stuehus,215,1850,
+Hobrovej 58 8830 Tjele,58,2190000.0,06-07-2001,Alm.,6656,9,Stuehus,329,1900,
+Skolevangen 4 8830 Tjele,4,1032000.0,02-07-2001,Alm.,4264,5,Villa,242,1910,
+Fælledparken 11 8830 Tjele,11,35100.0,01-07-2001,Alm.,208,5,Villa,168,2002,
+Nymarksvej 2 8830 Tjele,2,385000.0,01-07-2001,Fam.,2789,6,Villa,138,1888,
+Veldsparken 38 8830 Tjele,38,675000.0,27-06-2001,Alm.,5400,4,Villa,125,1976,
+Hobrovej 51 8830 Tjele,51,2300000.0,23-06-2001,Alm.,12299,6,Stuehus,187,2015,
+Hovmosevej 10 8830 Tjele,10,710000.0,22-06-2001,Fam.,0,5,Villa,110,1931,
+Hobrovej 24 8830 Tjele,24,500000.0,18-06-2001,Fam.,6250,4,Villa,80,1958,
+Hobro Landevej 64 8830 Tjele,64,700000.0,16-06-2001,Alm.,6086,6,Villa,115,1875,
+Nørregade 35 8830 Tjele,35,525000.0,13-06-2001,Alm.,4411,5,Villa,119,1952,
+Tinghøjvej 42 8830 Tjele,42,865000.0,29-05-2001,Alm.,4325,5,Villa,200,1910,
+Næstegårdvænget 5 8830 Tjele,5,986234.0,29-05-2001,Alm.,6241,6,Villa,158,1979,
+Tinggade 38B 8830 Tjele,0,475000.0,28-05-2001,Alm.,6089,3,Rækkehus,78,1988,
+Flarupvej 18 8830 Tjele,18,980000.0,15-05-2001,Alm.,7000,3,Stuehus,140,1973,
+Bavnehøjvej 4 8830 Tjele,4,1395000.0,14-05-2001,Alm.,6771,7,Villa,206,1929,
+Ingstrupvej 51 8830 Tjele,51,1299740.0,09-05-2001,Alm.,9283,4,Villa,140,1976,
+Hvidkløvervej 9 8830 Tjele,9,68250.0,04-05-2001,Alm.,385,6,Villa,177,2001,
+Søbakken 7 8830 Tjele,7,73950.0,04-05-2001,Alm.,539,4,Villa,137,2001,
+Vibevej 2 8830 Tjele,2,725483.0,26-04-2001,Alm.,6595,4,Villa,110,1967,
+Hyldemosevej 10 8830 Tjele,10,630000.0,24-04-2001,Alm.,5080,4,Villa,124,1968,
+Vestergade 9 8830 Tjele,9,850000.0,23-04-2001,Alm.,4545,6,Villa,187,1925,
+Jernbanegade 5 8830 Tjele,5,1148658.0,09-04-2001,Alm.,5982,5,Villa,192,1930,
+Fastrupvej 4 8830 Tjele,4,2225000.0,05-04-2001,Alm.,13403,6,Stuehus,166,1700,
+Catrinevej 14 8830 Tjele,14,115000.0,29-03-2001,Alm.,858,4,Villa,134,2001,
+Vansøgårdsvej 11 8830 Tjele,11,765000.0,19-03-2001,Alm.,5666,5,Villa,135,1966,
+Skovagervej 128 8830 Tjele,128,965000.0,01-03-2001,Alm.,0,6,Villa,154,1910,
+Ingstrup Møllevej 23 8830 Tjele,23,895000.0,28-02-2001,Alm.,0,7,Villa,268,1930,
+Søvangen 21 8830 Tjele,21,1079797.0,26-02-2001,Alm.,6791,7,Villa,159,1988,
+Bavnehøjvej 33 8830 Tjele,33,350000.0,21-02-2001,Alm.,0,5,Villa,150,1875,
+Hobro Landevej 171 8830 Tjele,171,1459947.0,19-02-2001,Alm.,6320,9,Villa,231,1900,
+Aalborgvej 172 8830 Tjele,172,377000.0,18-02-2001,Alm.,4284,3,Villa,88,1951,
+Bjerringholmvej 18 8830 Tjele,18,1269000.0,17-02-2001,Alm.,6042,5,Stuehus,210,1902,
+Havrisvej 17 8830 Tjele,17,1231510.0,14-02-2001,Alm.,0,8,Stuehus,286,1919,
+Tværvej 2 8830 Tjele,2,440000.0,05-02-2001,Alm.,0,6,Villa,136,1926,
+Vingevej 32 8830 Tjele,32,425000.0,01-02-2001,Alm.,0,4,Villa,143,1925,
+Skibdalvej 17 8830 Tjele,17,250000.0,30-01-2001,Alm.,3846,2,Villa,65,1972,
+Gyvelvej 4 8830 Tjele,4,228991.0,27-01-2001,Alm.,1100,6,Villa,208,2001,
+Over Viskumvej 18 8830 Tjele,18,905186.0,23-01-2001,Alm.,5657,5,Stuehus,160,1975,
+Randersvej 24 8830 Tjele,24,556248.0,21-12-2000,Alm.,4966,5,Villa,112,1940,
+Hyldevænget 14 8830 Tjele,14,944222.0,20-12-2000,Alm.,6842,4,Villa,138,1974,
+Batum Hedevej 8 8830 Tjele,8,50575.0,20-12-2000,Alm.,243,8,Stuehus,208,1972,
+Tinggade 22 8830 Tjele,22,600000.0,20-12-2000,Alm.,4724,5,Villa,127,1893,
+Årupvej 7 8830 Tjele,7,475313.0,11-12-2000,Alm.,4133,4,Villa,115,1966,
+Høegsvej 13 8830 Tjele,13,940757.0,09-12-2000,Alm.,6817,4,Villa,138,1978,
+Grønhøjvej 37 8830 Tjele,37,720000.0,01-11-2000,Alm.,0,7,Stuehus,167,1912,
+Løvskal Landevej 206 8830 Tjele,206,296807.0,29-10-2000,Alm.,3491,3,Stuehus,85,1880,
+Søbakken 31 8830 Tjele,31,184585.0,27-10-2000,Alm.,913,5,Villa,202,2004,
+Catrinevej 24 8830 Tjele,24,1500000.0,26-10-2000,Alm.,7772,8,Stuehus,193,1932,
+Søbakken 33 8830 Tjele,33,90375.0,24-10-2000,Alm.,659,5,Villa,137,2001,
+Søndertoft 6 8830 Tjele,6,74775.0,24-10-2000,Alm.,488,5,Villa,153,2001,
+Tjelevej 6 8830 Tjele,6,100000.0,23-10-2000,Alm.,952,3,Villa,105,1931,
+Aalborgvej 163 8830 Tjele,163,737408.0,21-10-2000,Alm.,0,8,Stuehus,148,1957,
+Over Viskumvej 19 8830 Tjele,19,4760000.0,18-10-2000,Alm.,45769,6,Stuehus,104,1940,
+Vorningvej 85 8830 Tjele,85,632000.0,17-10-2000,Alm.,4130,4,Villa,153,1933,
+Hviddingvej 49 8830 Tjele,49,660584.0,16-10-2000,Auktion,0,9,Villa,254,1930,
+Veldsparken 1 8830 Tjele,1,1200000.0,16-10-2000,Alm.,5940,8,Villa,202,1972,
+Stordalvej 1 8830 Tjele,1,1088184.0,05-10-2000,Alm.,0,6,Villa,238,1913,
+Overlundvej 43 8830 Tjele,43,159515.0,29-09-2000,Alm.,1595,4,Stuehus,100,1870,
+Vingevej 21 8830 Tjele,21,720000.0,26-09-2000,Alm.,7346,3,Villa,98,1966,
+Overlundvej 2 8830 Tjele,2,605000.0,19-09-2000,Alm.,0,7,Stuehus,192,2003,
+Kirkegade 12 8830 Tjele,12,567389.0,13-09-2000,Alm.,0,9,Villa,235,1918,
+Korsbakken 26 8830 Tjele,26,815000.0,11-09-2000,Alm.,7409,2,Villa,110,1977,
+Tåruphøjvej 10 8830 Tjele,10,2700000.0,11-09-2000,Fam.,15882,7,Stuehus,170,1916,
+Meldgårdsvej 81 8830 Tjele,81,880000.0,07-09-2000,Alm.,6330,5,Villa,139,1978,
+Bakkevej 32 8830 Tjele,32,27000.0,06-09-2000,Alm.,127,7,Villa,212,2001,
+Østergade 93 8830 Tjele,93,480000.0,03-09-2000,Alm.,0,3,Villa,119,1900,
+Bakkevej 14 8830 Tjele,14,1525000.0,23-08-2000,Alm.,8198,5,Villa,186,1997,
+Fælledvej 12 8830 Tjele,12,545000.0,23-08-2000,Alm.,5736,3,Villa,95,1952,
+Hviddingvej 17 8830 Tjele,17,6400000.0,17-08-2000,Alm.,0,6,Stuehus,182,1910,
+Tindbækvej 85 8830 Tjele,85,495000.0,06-08-2000,Alm.,6036,3,Villa,82,1930,
+Viborgvej 63 8830 Tjele,63,1317500.0,01-08-2000,Fam.,0,10,Stuehus,289,1850,
+Skolevangen 22 8830 Tjele,22,603436.0,20-07-2000,Alm.,5157,3,Villa,117,1967,
+Korsbakken 4 8830 Tjele,4,699537.0,18-07-2000,Alm.,6030,4,Villa,116,1974,
+Korsbakken 22 8830 Tjele,22,800000.0,11-07-2000,Alm.,6451,5,Villa,124,1977,
+Løvskal Landevej 211 8830 Tjele,211,534893.0,07-07-2000,Alm.,3638,7,Villa,147,1936,
+Præstegårdsvej 13 8830 Tjele,13,734706.0,05-07-2000,Alm.,6444,4,Villa,114,1976,
+Østervangsvej 26 8830 Tjele,26,930000.0,28-06-2000,Alm.,5314,4,Villa,175,1969,
+Vestergade 56 8830 Tjele,56,1106398.0,26-06-2000,Alm.,5423,6,Villa,204,1930,
+Høegsvej 23 8830 Tjele,23,1393057.0,23-06-2000,Alm.,7180,6,Villa,194,1991,
+Rørbæksvej 3 8830 Tjele,3,774854.0,06-06-2000,Alm.,7108,6,Villa,109,1937,
+Rønnevej 4 8830 Tjele,4,506000.0,05-06-2000,Alm.,5382,4,Villa,94,1967,
+Lyngbakkevej 8 8830 Tjele,8,840762.0,05-06-2000,Alm.,0,5,Stuehus,158,1926,
+Klarisgårdvej 6 8830 Tjele,6,2735000.0,29-05-2000,Alm.,0,11,Stuehus,251,2002,
+Engvej 3 8830 Tjele,3,942190.0,25-05-2000,Alm.,3783,7,Villa,249,1973,
+Norupvej 48 8830 Tjele,48,477500.0,23-05-2000,Fam.,0,6,Stuehus,217,1870,
+Aalborgvej 165 8830 Tjele,165,1025000.0,17-05-2000,Alm.,0,5,Villa,241,1900,
+Iversvej 3 8830 Tjele,3,827556.0,11-05-2000,Alm.,4449,6,Villa,186,1877,
+Højmarken 23 8830 Tjele,23,270000.0,05-05-2000,Alm.,1560,6,Villa,173,2001,
+Bavnehøjvej 15 8830 Tjele,15,265000.0,05-05-2000,Alm.,3785,3,Villa,70,1957,
+Viskum Skovvej 13 8830 Tjele,13,7446468.0,03-05-2000,Andet,20858,10,Villa,357,1900,
+Østervangsvej 87 8830 Tjele,87,1725000.0,01-05-2000,Alm.,10648,6,Stuehus,162,1969,
+Nordvang 20 8830 Tjele,20,569000.0,26-04-2000,Alm.,0,4,Villa,137,1974,
+Hobrovej 12 8830 Tjele,12,550000.0,21-04-2000,Alm.,3985,5,Villa,138,1954,
+Hyldemosevej 9 8830 Tjele,9,685000.0,17-04-2000,Alm.,0,5,Villa,143,1972,
+Vråvej 18 8830 Tjele,18,1000000.0,31-03-2000,Fam.,6666,6,Stuehus,150,1894,
+Kistrupvej 3 8830 Tjele,3,625000.0,30-03-2000,Fam.,4807,4,Stuehus,130,1900,
+Nørbækvej 17 8830 Tjele,17,340000.0,22-03-2000,Fam.,2222,3,Villa,153,1939,
+Skovly 6 8830 Tjele,6,387158.0,21-03-2000,Fam.,3456,7,Villa,112,1960,
+Kokholmvej 37 8830 Tjele,37,820000.0,21-03-2000,Alm.,4019,6,Stuehus,204,2000,
+Hobro Landevej 162 8830 Tjele,162,345138.0,11-03-2000,Alm.,4158,3,Villa,83,1933,
+Fårdalvej 11 8830 Tjele,11,1300000.0,07-03-2000,Alm.,0,13,Villa,477,2006,
+Vestergade 43 8830 Tjele,43,1950000.0,03-03-2000,Fam.,11470,6,Stuehus,170,1880,
+Hobro Landevej 115 8830 Tjele,115,353000.0,01-03-2000,Alm.,4057,5,Villa,87,1912,
+Lindum Søvej 6 8830 Tjele,6,2225000.0,15-02-2000,Fam.,0,6,Stuehus,180,1895,
+Havrebakken 6 8830 Tjele,6,580000.0,02-02-2000,Alm.,7435,3,Villa,78,1957,
+Røddingvej 16 8830 Tjele,16,354690.0,15-01-2000,Alm.,2038,9,Stuehus,174,1877,
+Viborgvej 75 8830 Tjele,75,704000.0,10-01-2000,Fam.,2470,7,Villa,285,1861,
+Nørremarksvej 6 8830 Tjele,6,1137940.0,04-01-2000,Alm.,7156,7,Villa,159,1987,
+Engvej 19 8830 Tjele,19,1165000.0,20-12-1999,Alm.,7373,6,Villa,158,1978,
+Sødalvej 17 8830 Tjele,17,425000.0,20-12-1999,Alm.,5448,3,Stuehus,78,1902,
+Smedestien 4 8830 Tjele,4,910127.0,20-12-1999,Alm.,5417,7,Villa,168,1900,
+Skibdalvej 12 8830 Tjele,12,1037890.0,10-12-1999,Alm.,5462,8,Stuehus,190,1894,
+Kristiansvej 8 8830 Tjele,8,665000.0,03-12-1999,Alm.,4433,4,Villa,150,1955,
+Skolevangsvej 3 8830 Tjele,3,650000.0,29-11-1999,Auktion,3316,6,Villa,196,1920,
+Formyrevej 2 8830 Tjele,2,387049.0,27-10-1999,Alm.,2888,5,Villa,134,1937,
+Tindbæk Byvej 14 8830 Tjele,14,230000.0,12-10-1999,Fam.,2000,7,Villa,115,1850,
+Østergade 26 8830 Tjele,26,1058964.0,11-10-1999,Alm.,5662,4,Villa,187,1913,
+Meldgårdsvej 103 8830 Tjele,103,736715.0,05-10-1999,Alm.,7152,4,Villa,103,1980,
+Rydalsvej 4 8830 Tjele,4,1484765.0,01-10-1999,Alm.,5302,6,Villa,280,1910,
+Batum Hedevej 6 8830 Tjele,6,810000.0,27-09-1999,Alm.,8019,4,Stuehus,101,1897,
+Søndergade 31 8830 Tjele,31,678720.0,25-09-1999,Alm.,7070,4,Stuehus,96,1962,
+Tindbæk Byvej 48 8830 Tjele,48,329000.0,24-09-1999,Alm.,3463,3,Villa,95,1857,
+Kratvej 6 8830 Tjele,6,400000.0,13-09-1999,Alm.,4819,3,Villa,83,1820,
+Hestehaven 11 8830 Tjele,11,210000.0,30-08-1999,Alm.,1160,4,Villa,181,2000,
+Møllevej 6 8830 Tjele,6,500000.0,25-08-1999,Alm.,5494,4,Villa,91,1964,
+Viborgvej 54 8830 Tjele,54,20000.0,18-08-1999,Alm.,125,5,Stuehus,160,1930,
+Vorningvej 120 8830 Tjele,120,2100000.0,10-08-1999,Alm.,9090,10,Stuehus,231,1886,
+Høegsvej 11 8830 Tjele,11,31631.0,09-08-1999,Alm.,222,6,Villa,142,2002,
+Mosevænget 5 8830 Tjele,5,31625.0,09-08-1999,Alm.,272,5,Villa,116,2001,
+Mosevænget 7 8830 Tjele,7,31630.0,09-08-1999,Alm.,272,5,Villa,116,2001,
+Randersvej 2 8830 Tjele,2,450000.0,05-08-1999,Alm.,5769,5,Villa,78,1897,
+Norupvej 18 8830 Tjele,18,340000.0,04-08-1999,Alm.,0,6,Villa,234,1925,
+Nordvang 14 8830 Tjele,14,648188.0,30-07-1999,Alm.,4837,4,Villa,134,1972,
+Havrisvej 16 8830 Tjele,16,114500.0,29-07-1999,Alm.,693,7,Stuehus,165,1968,
+Vestergade 25A 8830 Tjele,0,830000.0,28-07-1999,Alm.,5684,4,Villa,146,1974,
+Stævnestedet 7 8830 Tjele,7,450000.0,26-07-1999,Alm.,4017,4,Villa,112,1957,
+Tindbækvej 71 8830 Tjele,71,391992.0,23-07-1999,Alm.,6222,3,Villa,63,1854,
+Digevej 4 8830 Tjele,4,371083.0,23-07-1999,Alm.,4365,2,Villa,85,1962,
+Viborgvej 11 8830 Tjele,11,485000.0,09-07-1999,Alm.,0,7,Villa,166,1905,
+Sønderupvej 4 8830 Tjele,4,1647758.0,08-07-1999,Alm.,6512,5,Stuehus,253,1870,
+Batum Hedevej 18 8830 Tjele,18,780289.0,07-07-1999,Alm.,0,6,Villa,190,1875,
+Nordvang 4 8830 Tjele,4,757000.0,05-07-1999,Alm.,5046,4,Villa,150,1973,
+Aalborgvej 167 8830 Tjele,167,740000.0,30-06-1999,Alm.,0,6,Stuehus,162,1887,
+Grøndalsvej 5A 8830 Tjele,0,842176.0,25-06-1999,Alm.,4232,9,Villa,199,1974,
+Kirkegade 9 8830 Tjele,9,142000.0,22-06-1999,Alm.,724,6,Villa,196,1999,
+Meldgårdsvej 9 8830 Tjele,9,746087.0,21-06-1999,Alm.,0,5,Villa,132,1981,
+Hobro Landevej 45 8830 Tjele,45,242000.0,14-06-1999,Alm.,5377,3,Villa,45,1868,
+Tinggade 19 8830 Tjele,19,389700.0,10-06-1999,Alm.,0,10,Stuehus,220,1900,
+Stadionbakken 4 8830 Tjele,4,682001.0,07-06-1999,Alm.,6314,4,Villa,108,1950,
+Nørremarksvej 20 8830 Tjele,20,540000.0,27-05-1999,Alm.,0,6,Villa,264,1927,
+Viborgvej 115 8830 Tjele,115,1319031.0,26-05-1999,Alm.,6465,6,Stuehus,204,1925,
+Søbakken 5 8830 Tjele,5,38700.0,25-05-1999,Alm.,342,4,Villa,113,1999,
+Hobro Landevej 108 8830 Tjele,108,674000.0,12-05-1999,Alm.,4212,6,Villa,160,1932,
+Enghavevej 27 8830 Tjele,27,1448000.0,07-05-1999,Alm.,6268,5,Stuehus,231,1914,
+Jernbanegade 26 8830 Tjele,26,886832.0,04-05-1999,Alm.,4667,6,Villa,190,1928,
+Næstegårdvænget 9 8830 Tjele,9,891696.0,26-04-1999,Alm.,5276,7,Villa,169,1977,
+Nørreåvej 25 8830 Tjele,25,645000.0,20-04-1999,Fam.,3932,8,Stuehus,164,1910,
+Mosevænget 4 8830 Tjele,4,785000.0,05-04-1999,Alm.,6330,5,Villa,124,1980,
+Haugårdsvej 43 8830 Tjele,43,355000.0,05-04-1999,Fam.,3380,3,Stuehus,105,1935,
+Soltoften 13 8830 Tjele,13,863750.0,05-04-1999,Alm.,6593,4,Rækkehus,131,1979,
+Tindbæk Byvej 4 8830 Tjele,4,426000.0,09-03-1999,Alm.,4346,2,Villa,98,1954,
+Vorningvej 87 8830 Tjele,87,667645.0,05-03-1999,Alm.,3997,5,Villa,167,1960,
+Hybenvej 2 8830 Tjele,2,20000.0,01-03-1999,Alm.,217,4,Rækkehus,92,2009,
+Gillebakken 41 8830 Tjele,41,835000.0,26-02-1999,Alm.,6278,5,Villa,133,1973,
+Hybenvej 16 8830 Tjele,16,459000.0,25-02-1999,Alm.,3701,6,Villa,124,1956,
+Skolevej 19 8830 Tjele,19,645000.0,24-02-1999,Alm.,4777,4,Villa,135,1966,
+Sødalvej 35 8830 Tjele,35,327500.0,23-02-1999,Alm.,0,9,Stuehus,243,1922,
+Kirkestien 8 8830 Tjele,8,460000.0,17-02-1999,Alm.,2893,4,Villa,159,1928,
+Havrisvej 19 8830 Tjele,19,2788827.0,12-02-1999,Alm.,13280,7,Stuehus,210,1919,
+Fælledvej 10 8830 Tjele,10,480000.0,19-01-1999,Alm.,5217,4,Villa,92,1946,
+Tinghøjvej 7 8830 Tjele,7,415147.0,18-01-1999,Andet,0,6,Villa,144,1930,
+Viborgvej 70 8830 Tjele,70,389303.0,05-01-1999,Alm.,0,4,Villa,137,1935,
+Ingstrupvej 33 8830 Tjele,33,455000.0,18-12-1998,Alm.,4136,4,Villa,110,1960,
+Skolevej 10 8830 Tjele,10,606160.0,16-12-1998,Alm.,6122,4,Villa,99,1950,
+Tjelevej 35 8830 Tjele,35,1500000.0,07-12-1998,Alm.,12500,3,Stuehus,120,1827,
+Hobrovej 61 8830 Tjele,61,1150000.0,02-12-1998,Alm.,8214,4,Stuehus,140,1939,
+Gl. Tjelevej 7 8830 Tjele,7,520000.0,25-11-1998,Alm.,5977,3,Villa,87,1963,
+Søndermarksvej 13 8830 Tjele,13,2470000.0,20-11-1998,Fam.,11176,7,Stuehus,221,1906,
+Bøgevej 1 8830 Tjele,1,275000.0,16-11-1998,Alm.,4104,3,Villa,67,1940,
+Nøragervej 3 8830 Tjele,3,300000.0,16-11-1998,Alm.,2419,4,Villa,124,1900,
+Høegsvej 28 8830 Tjele,28,83625.0,09-11-1998,Alm.,0,10,Villa,211,1999,
+Grønhøjvej 10 8830 Tjele,10,350000.0,03-11-1998,Alm.,3431,3,Villa,102,1961,
+Nørremarksvej 4 8830 Tjele,4,258494.0,28-10-1998,Alm.,0,6,Villa,139,1963,
+Randersvej 33 8830 Tjele,33,1025000.0,23-10-1998,Alm.,4767,7,Villa,215,1930,
+Hviddingvej 11 8830 Tjele,11,775000.0,21-10-1998,Alm.,0,5,Villa,191,1895,
+Hobro Landevej 111 8830 Tjele,111,336000.0,06-10-1998,Alm.,3200,5,Villa,105,1912,
+Bakkevej 4 8830 Tjele,4,500000.0,06-10-1998,Alm.,0,6,Villa,160,1965,
+Tjelevej 43 8830 Tjele,43,989999.0,23-09-1998,Alm.,3897,8,Villa,254,1942,
+Veldsvej 4 8830 Tjele,4,1000000.0,22-09-1998,Alm.,0,9,Villa,231,1942,
+Over Viskumvej 14 8830 Tjele,14,428000.0,16-09-1998,Alm.,4076,3,Villa,105,1823,
+Marie Grubbes Vej 19 8830 Tjele,19,612000.0,15-09-1998,Alm.,0,3,Villa,125,1983,
+Burrehøjvej 53 8830 Tjele,53,1042000.0,14-09-1998,Alm.,5821,7,Villa,179,1939,
+Nørbækvej 12 8830 Tjele,12,804000.0,11-09-1998,Fam.,3177,5,Villa,253,1915,
+Randersvej 62 8830 Tjele,62,102000.0,02-09-1998,Alm.,1619,2,Villa,63,1900,
+Næstegårdvænget 19 8830 Tjele,19,707790.0,17-08-1998,Alm.,5166,4,Villa,137,1976,
+Mellemgade 4 8830 Tjele,4,345000.0,15-08-1998,Alm.,2536,5,Villa,136,1924,
+Soltoften 7 8830 Tjele,7,72000.0,14-08-1998,Alm.,533,5,Villa,135,1999,
+Vorningvej 80 8830 Tjele,80,451590.0,10-08-1998,Alm.,5074,4,Villa,89,1957,
+Egelundsparken 13D 8830 Tjele,0,339430.0,07-08-1998,Alm.,7378,2,Rækkehus,46,1989,
+Vingevej 14 8830 Tjele,14,289455.0,06-08-1998,Alm.,2584,3,Villa,112,1840,
+Degnevænget 8 8830 Tjele,8,625000.0,05-08-1998,Alm.,5165,4,Villa,121,1972,
+Korsbakken 17 8830 Tjele,17,1175000.0,04-08-1998,Alm.,5731,7,Villa,205,1975,
+Østergade 41 8830 Tjele,41,1744000.0,30-07-1998,Alm.,8304,7,Stuehus,210,1902,
+Foulumdalvej 12 8830 Tjele,12,712000.0,24-07-1998,Alm.,4535,4,Villa,157,1980,
+Skolevangen 6 8830 Tjele,6,510000.0,24-07-1998,Fam.,4080,4,Villa,125,1965,
+Skolevej 11 8830 Tjele,11,605000.0,24-07-1998,Alm.,5873,4,Villa,103,1954,
+Burrehøjvej 18 8830 Tjele,18,450000.0,12-07-1998,Alm.,2017,7,Villa,223,1858,
+Østergade 61 8830 Tjele,61,289000.0,09-07-1998,Alm.,3360,4,Stuehus,86,1933,
+Søvangen 15B 8830 Tjele,0,499000.0,09-07-1998,Alm.,6565,3,Rækkehus,76,1980,
+Marie Grubbes Vej 4 8830 Tjele,4,832000.0,29-06-1998,Alm.,4622,4,Villa,180,1974,
+Batum Hedevej 20 8830 Tjele,20,275000.0,23-06-1998,Alm.,2350,3,Villa,117,1897,
+Gl. Røddingvej 12 8830 Tjele,12,1026573.0,23-06-1998,Alm.,0,8,Stuehus,155,1914,
+Klarisgårdvej 2 8830 Tjele,2,1579958.0,18-06-1998,Alm.,0,7,Stuehus,261,1907,
+Hobro Landevej 166 8830 Tjele,166,679000.0,08-06-1998,Alm.,0,5,Villa,140,1910,
+Østervangsvej 59 8830 Tjele,59,180000.0,04-06-1998,Alm.,1500,4,Villa,120,1857,
+Tindbækvej 35 8830 Tjele,35,365000.0,29-05-1998,Fam.,0,4,Villa,173,1885,
+Viborgvej 93 8830 Tjele,93,847200.0,29-05-1998,Alm.,5883,6,Villa,144,1914,
+Bystævnet 27 8830 Tjele,27,1150000.0,29-05-1998,Fam.,7666,6,Stuehus,150,1900,
+Veldsvej 7 8830 Tjele,7,1077000.0,27-05-1998,Alm.,7977,5,Villa,135,1988,
+Fårdalvej 1 8830 Tjele,1,330000.0,18-05-1998,Alm.,3626,3,Villa,91,1800,
+Østergade 73 8830 Tjele,73,1060546.0,14-05-1998,Alm.,6312,4,Stuehus,168,1934,
+Nørrevang 23 8830 Tjele,23,50000.0,13-05-1998,Alm.,0,6,Villa,230,1979,
+Egelundsparken 22 8830 Tjele,22,793000.0,26-04-1998,Alm.,7552,4,Villa,105,1987,
+Kirkestien 5 8830 Tjele,5,233180.0,24-04-1998,Alm.,2590,3,Villa,90,1917,
+Østergade 48 8830 Tjele,48,625000.0,23-04-1998,Alm.,0,6,Villa,148,1955,
+Lergravsvej 33 8830 Tjele,33,431501.0,23-04-1998,Alm.,0,12,Villa,335,1775,
+Årupvej 16 8830 Tjele,16,2800000.0,23-04-1998,Alm.,9210,10,Stuehus,304,1907,
+Rydalsvej 10 8830 Tjele,10,462000.0,22-04-1998,Fam.,0,4,Stuehus,203,1890,
+Grønhøjvej 41 8830 Tjele,41,900000.0,16-04-1998,Alm.,0,6,Villa,203,1933,
+Hobro Landevej 66 8830 Tjele,66,1558437.0,14-04-1998,Alm.,7677,9,Stuehus,203,1931,
+Viskum Skovvej 5 8830 Tjele,5,1120000.0,14-04-1998,Alm.,3612,7,Villa,310,1974,
+Søvangen 7 8830 Tjele,7,885000.0,14-04-1998,Alm.,6145,7,Villa,144,1987,
+Tåruphøjvej 9 8830 Tjele,9,3100000.0,07-04-1998,Alm.,10163,8,Stuehus,305,1980,
+Østervangsvej 55 8830 Tjele,55,690000.0,01-04-1998,Alm.,4928,5,Villa,140,1927,
+Hørsøvej 10 8830 Tjele,10,250000.0,31-03-1998,Alm.,0,8,Villa,226,1907,
+Kildevej 7 8830 Tjele,7,645000.0,28-03-1998,Alm.,4417,6,Villa,146,1925,
+Høegsvej 24 8830 Tjele,24,70350.0,27-03-1998,Alm.,537,4,Villa,131,1999,
+Hobro Landevej 58 8830 Tjele,58,275630.0,25-03-1998,Alm.,2056,6,Villa,134,1907,
+Gillebakken 26 8830 Tjele,26,550000.0,25-03-1998,Alm.,5288,4,Villa,104,1970,
+Søbakken 44 8830 Tjele,44,93600.0,18-03-1998,Alm.,570,5,Villa,164,1999,
+Tindbæk Byvej 19 8830 Tjele,19,855000.0,17-03-1998,Alm.,6240,7,Stuehus,137,1911,
+Præstevænget 6 8830 Tjele,6,810000.0,09-03-1998,Alm.,5472,4,Villa,148,1972,
+Toftevænget 8 8830 Tjele,8,819900.0,19-02-1998,Alm.,4969,4,Villa,165,1963,
+Kornvænget 9 8830 Tjele,9,400000.0,12-02-1998,Alm.,0,3,Rækkehus,120,1981,
+Skibdalvej 8 8830 Tjele,8,474000.0,12-02-1998,Alm.,2771,5,Villa,171,1912,
+Sønderlund 2 8830 Tjele,2,286025.0,12-02-1998,Alm.,1634,5,Villa,175,1999,
+Hybenvej 13 8830 Tjele,13,508000.0,11-02-1998,Alm.,4456,5,Villa,114,1875,
+Vesterled 11 8830 Tjele,11,960720.0,06-02-1998,Alm.,4347,6,Villa,221,1973,
+Korsbakken 8 8830 Tjele,8,629386.0,04-02-1998,Alm.,5116,4,Villa,123,1976,
+Drøwten 8 8830 Tjele,8,120000.0,03-02-1998,Alm.,0,4,Villa,100,1910,
+Velds Husevej 10 8830 Tjele,10,635000.0,03-02-1998,Alm.,4922,5,Villa,129,1920,
+Kvorning Møllevej 8 8830 Tjele,8,340000.0,02-02-1998,Alm.,3777,3,Villa,90,1962,
+Nordre Ringvej 16 8830 Tjele,16,2300000.0,26-01-1998,Fam.,12041,7,Stuehus,191,1972,
+Tinggade 21 8830 Tjele,21,838101.0,22-01-1998,Alm.,0,8,Villa,277,1928,
+Vesterled 1 8830 Tjele,1,656000.0,21-01-1998,Alm.,3123,6,Villa,210,1900,
+Egelundsparken 21 8830 Tjele,21,63600.0,08-01-1998,Alm.,553,4,Villa,115,1999,
+Røddingvej 24 8830 Tjele,24,883543.0,02-01-1998,Fam.,7487,4,Stuehus,118,1943,
+Nybrovej 8 8830 Tjele,8,350000.0,31-12-1997,Alm.,2536,5,Villa,138,1961,
+Højmarken 9 8830 Tjele,9,635000.0,17-12-1997,Fam.,4379,6,Stuehus,145,1912,
+Vorningvej 38 8830 Tjele,38,870000.0,03-12-1997,Alm.,5058,6,Stuehus,172,1936,
+Gl. Røddingvej 14 8830 Tjele,14,815000.0,28-11-1997,Alm.,3313,4,Villa,246,1896,
+Nordvang 28 8830 Tjele,28,625000.0,26-11-1997,Alm.,0,6,Villa,166,1980,
+Veldsparken 5 8830 Tjele,5,800000.0,20-11-1997,Alm.,0,4,Villa,124,1979,
+Sødalvej 1 8830 Tjele,1,1405000.0,20-11-1997,Alm.,13509,4,Villa,104,1860,
+Elmevej 3 8830 Tjele,3,177000.0,13-11-1997,Alm.,1966,2,Villa,90,1870,
+Østergade 68 8830 Tjele,68,595000.0,12-11-1997,Fam.,5509,4,Stuehus,108,1900,
+Hviddingvej 36 8830 Tjele,36,338920.0,03-11-1997,Alm.,3987,4,Villa,85,1950,
+Kirkebakken 13 8830 Tjele,13,659299.0,22-10-1997,Alm.,5274,4,Villa,125,1977,
+Hviddingvej 22 8830 Tjele,22,230470.0,20-10-1997,Alm.,0,5,Villa,153,1850,
+Nymarksvej 6 8830 Tjele,6,2080630.0,20-10-1997,Alm.,12239,6,Stuehus,170,1890,
+Møller Andersensvej 28 8830 Tjele,28,932000.0,18-10-1997,Alm.,0,8,Villa,227,1975,
+Hviddingvej 14 8830 Tjele,14,70950.0,17-10-1997,Alm.,0,10,Stuehus,277,1955,
+Stadionvej 22 8830 Tjele,22,318000.0,15-10-1997,Alm.,0,6,Villa,132,1943,
+Hviddingvej 18 8830 Tjele,18,629960.0,13-10-1997,Alm.,6999,3,Stuehus,90,1929,
+Flarupvej 2 8830 Tjele,2,435000.0,09-10-1997,Alm.,2289,6,Villa,190,1900,
+Kirkebakken 10 8830 Tjele,10,420275.0,07-10-1997,Alm.,0,5,Villa,232,1927,
+Skovagervej 121 8830 Tjele,121,625000.0,03-10-1997,Alm.,4844,5,Villa,129,1915,
+Søvangen 27 8830 Tjele,27,307710.0,01-10-1997,Alm.,0,5,Villa,107,1986,
+Østergade 60 8830 Tjele,60,548000.0,25-09-1997,Alm.,0,7,Villa,180,1860,
+Løvelbrovej 14 8830 Tjele,14,675000.0,24-09-1997,Alm.,4821,5,Villa,140,1893,
+Kirkestien 7 8830 Tjele,7,265410.0,19-09-1997,Alm.,2552,6,Villa,104,1883,
+Bavnehøjvej 9 8830 Tjele,9,1151590.0,11-09-1997,Alm.,0,9,Stuehus,194,1930,
+Hviddingvej 29 8830 Tjele,29,975000.0,11-09-1997,Alm.,9027,4,Stuehus,108,1929,
+Kokholmvej 43 8830 Tjele,43,738000.0,11-09-1997,Alm.,3727,4,Villa,198,1881,
+Sønderlund 3 8830 Tjele,3,205105.0,09-09-1997,Alm.,0,6,Villa,229,1998,
+Veldsvej 3 8830 Tjele,3,594120.0,02-09-1997,Alm.,0,11,Villa,252,1922,
+Østergade 44 8830 Tjele,44,370000.0,01-09-1997,Fam.,3978,4,Villa,93,1939,
+Industrivej 5 8830 Tjele,5,740000.0,01-09-1997,Fam.,4868,4,Villa,152,1976,
+Tindbæk Byvej 12 8830 Tjele,12,149967.0,29-08-1997,Alm.,0,3,Villa,118,1938,
+Bakkestien 1 8830 Tjele,1,510000.0,27-08-1997,Fam.,2500,7,Villa,204,1945,
+Kirkegade 29 8830 Tjele,29,1500000.0,27-08-1997,Alm.,10638,7,Villa,141,1951,
+Vorningvej 82 8830 Tjele,82,360000.0,13-08-1997,Alm.,3750,3,Villa,96,1962,
+Fårdalvej 2 8830 Tjele,2,391000.0,12-08-1997,Alm.,0,6,Villa,141,1900,
+Marie Grubbes Vej 5 8830 Tjele,5,770800.0,11-08-1997,Alm.,4078,7,Villa,189,1975,
+Hovmosevej 2 8830 Tjele,2,675000.0,06-08-1997,Alm.,0,5,Villa,241,1927,
+Tjele Møllevej 31 8830 Tjele,31,382500.0,01-08-1997,Fam.,2250,5,Villa,170,1875,
+Hviddingvej 21 8830 Tjele,21,1000000.0,27-07-1997,Alm.,0,10,Stuehus,230,1930,
+Norupvej 9 8830 Tjele,9,611960.0,22-07-1997,Alm.,4371,5,Villa,140,1973,
+Mosevænget 3 8830 Tjele,3,350000.0,18-07-1997,Alm.,4022,3,Villa,87,1979,
+Bavnehøjvej 35 8830 Tjele,35,343161.0,18-07-1997,Alm.,3537,5,Villa,97,1934,
+Vingevej 11 8830 Tjele,11,300000.0,14-07-1997,Alm.,3529,3,Villa,85,1944,
+Høegsvej 22 8830 Tjele,22,67200.0,08-07-1997,Alm.,505,5,Villa,133,1998,
+Engvej 16 8830 Tjele,16,659000.0,08-07-1997,Alm.,5491,5,Villa,120,1967,
+Tinghøjvej 22 8830 Tjele,22,1370000.0,04-07-1997,Alm.,0,5,Stuehus,203,1882,
+Høegsvej 17 8830 Tjele,17,616000.0,02-07-1997,Alm.,4928,4,Villa,125,1978,
+Lergravsvej 19 8830 Tjele,19,1531320.0,30-06-1997,Alm.,8800,5,Villa,174,1979,
+Søndermarksvej 22 8830 Tjele,22,650000.0,23-06-1997,Alm.,4577,6,Villa,142,1900,
+Søndertoft 7 8830 Tjele,7,74775.0,22-06-1997,Alm.,450,6,Villa,166,1998,
+Vesterled 21 8830 Tjele,21,350000.0,17-06-1997,Alm.,4216,4,Stuehus,83,1881,
+Ingstrupvej 46 8830 Tjele,46,1500000.0,14-06-1997,Alm.,7500,7,Stuehus,200,1910,
+Firkløvervej 12 8830 Tjele,12,510000.0,13-06-1997,Fam.,3750,5,Villa,136,1976,
+Drøwten 46 8830 Tjele,46,1115000.0,13-06-1997,Fam.,5777,7,Stuehus,193,2010,
+Vesterled 26 8830 Tjele,26,898000.0,12-06-1997,Alm.,6236,4,Villa,144,1974,
+Sødalvej 11 8830 Tjele,11,337500.0,11-06-1997,Alm.,4623,4,Villa,73,1909,
+Havrebakken 3 8830 Tjele,3,425000.0,02-06-1997,Alm.,4722,3,Villa,90,1967,
+Mosevænget 11 8830 Tjele,11,89500.0,01-06-1997,Alm.,799,4,Villa,112,1999,
+Hobro Landevej 132 8830 Tjele,132,654000.0,26-05-1997,Fam.,5839,3,Stuehus,112,1916,
+Lergravsvej 29 8830 Tjele,29,75000.0,23-05-1997,Alm.,1250,2,Villa,60,1962,
+Tindbæk Byvej 11 8830 Tjele,11,384000.0,22-05-1997,Alm.,3147,3,Villa,122,1960,
+Lyngbakkevej 24 8830 Tjele,24,1300000.0,06-05-1997,Alm.,0,6,Stuehus,226,1900,
+Vestergade 7 8830 Tjele,7,469880.0,30-04-1997,Alm.,3071,5,Villa,153,1924,
+Viborgvej 98 8830 Tjele,98,317000.0,29-04-1997,Alm.,1981,5,Villa,160,1900,
+Bavnehøjvej 36 8830 Tjele,36,628000.0,14-04-1997,Alm.,0,6,Villa,288,1928,
+Nørrevang 17 8830 Tjele,17,1600000.0,02-04-1997,Alm.,8333,7,Villa,192,1924,
+Gl. Viborgvej 10 8830 Tjele,10,525000.0,02-04-1997,Alm.,4375,5,Villa,120,1961,
+Hovedgaden 30 8830 Tjele,30,749000.0,20-03-1997,Alm.,4770,7,Villa,157,1927,
+Randersvej 28 8830 Tjele,28,345200.0,19-03-1997,Alm.,2198,6,Villa,157,1942,
+Kæpsmarksvej 6 8830 Tjele,6,521072.0,13-03-1997,Alm.,3775,5,Villa,138,1978,
+Kirkebakken 25 8830 Tjele,25,841362.0,06-03-1997,Alm.,5646,6,Villa,149,1978,
+Søvangen 9 8830 Tjele,9,680000.0,06-03-1997,Alm.,6126,4,Villa,111,1986,
+Vestergade 27 8830 Tjele,27,524960.0,21-02-1997,Alm.,4564,4,Villa,115,1946,
+Vingevej 40 8830 Tjele,40,405000.0,10-02-1997,Fam.,3894,3,Villa,104,1966,
+Gartnerbakken 22 8830 Tjele,22,720000.0,10-02-1997,Fam.,4800,5,Villa,150,1974,
+Vesterled 9 8830 Tjele,9,230000.0,07-02-1997,Alm.,3285,3,Villa,70,1880,
+Veldsvej 22 8830 Tjele,22,630000.0,05-02-1997,Alm.,3937,5,Villa,160,1973,
+Fuglesangs Alle 15 8830 Tjele,15,100000.0,30-01-1997,Fam.,833,4,Villa,120,1997,
+Aalborgvej 180 8830 Tjele,180,875000.0,22-01-1997,Alm.,0,6,Stuehus,166,1932,
+Østergade 75 8830 Tjele,75,500000.0,27-12-1996,Fam.,3311,4,Villa,151,1909,
+Fårdalvej 12 8830 Tjele,12,110000.0,18-12-1996,Alm.,423,7,Stuehus,260,1896,
+Egelundsparken 5B 8830 Tjele,0,585000.0,18-12-1996,Alm.,6157,4,Rækkehus,95,1988,
+Hobro Landevej 104 8830 Tjele,104,395000.0,16-12-1996,Alm.,3761,4,Villa,105,1947,
+Hobro Landevej 13 8830 Tjele,13,481285.0,15-12-1996,Alm.,0,7,Villa,183,1873,
+Vester Kærvej 9 8830 Tjele,9,516670.0,05-12-1996,Alm.,5871,3,Villa,88,1890,
+Hobro Landevej 32 8830 Tjele,32,378095.0,04-12-1996,Alm.,2537,6,Stuehus,149,1877,
+Hobrovej 59 8830 Tjele,59,585000.0,02-12-1996,Alm.,4606,6,Stuehus,127,1920,
+Egelundsparken 3A 8830 Tjele,0,545816.0,30-11-1996,Alm.,5745,4,Rækkehus,95,1988,
+Grønhøjvej 31 8830 Tjele,31,352610.0,21-11-1996,Alm.,0,5,Villa,148,1866,
+Hobro Landevej 26 8830 Tjele,26,407180.0,18-11-1996,Alm.,2626,5,Villa,155,1910,
+Præstevænget 7 8830 Tjele,7,615000.0,18-11-1996,Alm.,4767,4,Villa,129,1971,
+Digevej 32 8830 Tjele,32,142278.0,15-11-1996,Alm.,1482,4,Villa,96,1890,
+Bystævnet 1 8830 Tjele,1,256971.0,31-10-1996,Alm.,1835,3,Villa,140,1850,
+Granstien 10 8830 Tjele,10,729000.0,28-10-1996,Alm.,5360,4,Villa,136,1976,
+Nørbækvej 16 8830 Tjele,16,432200.0,24-10-1996,Alm.,1694,9,Villa,255,1877,
+Lergravsvej 21 8830 Tjele,21,267825.0,23-10-1996,Alm.,0,3,Villa,78,1880,
+Nørregade 1 8830 Tjele,1,414000.0,22-10-1996,Alm.,1916,7,Villa,216,1925,
+Hobro Landevej 84 8830 Tjele,84,418600.0,22-10-1996,Alm.,3737,5,Villa,112,1956,
+Jernbanegade 10 8830 Tjele,10,570000.0,10-10-1996,Alm.,3677,5,Villa,155,1965,
+Drosselvej 5 8830 Tjele,5,650500.0,10-10-1996,Alm.,0,4,Villa,164,1973,
+Tinggade 23 8830 Tjele,23,285150.0,10-10-1996,Alm.,1250,10,Villa,228,1914,
+Hobro Landevej 97 8830 Tjele,97,413274.0,07-10-1996,Alm.,3593,3,Villa,115,1948,
+Lunddorpvej 5 8830 Tjele,5,902061.0,06-10-1996,Alm.,4119,8,Villa,219,1894,
+Tinggade 18 8830 Tjele,18,541634.0,04-10-1996,Alm.,4368,5,Villa,124,1887,
+Over Viskumvej 4 8830 Tjele,4,556750.0,02-10-1996,Alm.,3615,3,Villa,154,1920,
+Vorningvej 75 8830 Tjele,75,561000.0,24-09-1996,Fam.,2418,11,Detailhandel,232,1953,
+Klubvænget 5 8830 Tjele,5,540000.0,24-09-1996,Alm.,0,7,Villa,166,1966,
+Meldgårdsvej 55 8830 Tjele,55,90000.0,11-09-1996,Alm.,573,5,Villa,157,1998,
+Norupvej 44 8830 Tjele,44,1955000.0,11-09-1996,Alm.,7214,9,Stuehus,271,1895,
+Rørbæksvej 8 8830 Tjele,8,698000.0,28-08-1996,Alm.,4562,5,Villa,153,1928,
+Viborgvej 1 8830 Tjele,1,400000.0,28-08-1996,Alm.,3361,3,Villa,119,1976,
+Stadionvej 14 8830 Tjele,14,810000.0,23-08-1996,Alm.,3970,7,Villa,204,1905,
+Nørremarksvej 14A 8830 Tjele,0,450000.0,23-08-1996,Alm.,0,8,Villa,264,1950,
+Søndermarksvej 11 8830 Tjele,11,234832.0,14-08-1996,Alm.,853,10,Stuehus,275,1931,
+Søndermarksvej 26 8830 Tjele,26,1470500.0,13-08-1996,Alm.,7739,7,Stuehus,190,1993,
+Høegsvej 37 8830 Tjele,37,900000.0,03-08-1996,Alm.,6040,5,Villa,149,1986,
+Randersvej 40 8830 Tjele,40,765000.0,02-08-1996,Alm.,4026,6,Villa,190,1939,
+Firkløvervej 10 8830 Tjele,10,379000.0,15-07-1996,Alm.,0,5,Villa,141,1973,
+Meldgårdsvej 4 8830 Tjele,4,340000.0,01-07-1996,Alm.,0,7,Villa,162,1936,
+Hobro Landevej 47 8830 Tjele,47,220000.0,01-07-1996,Alm.,2178,3,Villa,101,1875,
+Rydalsvej 8 8830 Tjele,8,156000.0,21-06-1996,Alm.,3627,3,Villa,43,1900,
+Hviddingvej 28 8830 Tjele,28,1333000.0,20-06-1996,Fam.,5846,11,Stuehus,228,1939,
+Hobro Landevej 2 8830 Tjele,2,744902.0,20-06-1996,Alm.,0,4,Villa,165,1885,
+Næstegårdvænget 7 8830 Tjele,7,780000.0,18-06-1996,Alm.,4457,9,Villa,175,1976,
+Viborgvej 7 8830 Tjele,7,365000.0,23-05-1996,Fam.,2765,6,Villa,132,1900,
+Ingstrupholmvej 6 8830 Tjele,6,644174.0,13-05-1996,Alm.,5700,4,Villa,113,1877,
+Hobro Landevej 5 8830 Tjele,5,640000.0,13-05-1996,Alm.,0,8,Villa,295,1895,
+Norupvej 46 8830 Tjele,46,1242580.0,09-05-1996,Alm.,3287,9,Villa,378,1909,
+Nordvang 7 8830 Tjele,7,435000.0,07-05-1996,Alm.,3425,4,Villa,127,1973,
+Fuglebakken 12 8830 Tjele,12,80000.0,06-05-1996,Alm.,536,6,Villa,149,1996,
+Hobro Landevej 109 8830 Tjele,109,160000.0,02-05-1996,Alm.,3265,2,Villa,49,1950,
+Skovvej 2 8830 Tjele,2,637000.0,29-04-1996,Alm.,5221,4,Villa,122,1971,
+Flarupvej 10 8830 Tjele,10,450000.0,27-04-1996,Alm.,3333,4,Villa,135,1920,
+Gillebakken 9 8830 Tjele,9,672000.0,24-04-1996,Alm.,0,8,Villa,163,1972,
+Lindum Søvej 14 8830 Tjele,14,480000.0,11-04-1996,Fam.,3000,5,Stuehus,160,1902,
+Gl. Tjelevej 8 8830 Tjele,8,350000.0,11-04-1996,Alm.,2447,5,Villa,143,1937,
+Vingevej 44 8830 Tjele,44,385000.0,09-04-1996,Alm.,3928,4,Villa,98,1968,
+Norupvej 40 8830 Tjele,40,1503000.0,03-04-1996,Alm.,8168,6,Stuehus,184,1909,
+Aalborgvej 162 8830 Tjele,162,595000.0,01-04-1996,Alm.,0,3,Stuehus,104,1940,
+Hobro Landevej 127 8830 Tjele,127,225000.0,27-03-1996,Alm.,2678,3,Villa,84,1962,
+Ingstrup Møllevej 5 8830 Tjele,5,749500.0,18-03-1996,Alm.,5470,4,Villa,137,1970,
+Skolevej 6 8830 Tjele,6,449000.0,12-03-1996,Alm.,3325,5,Villa,135,1965,
+Næstegårdvænget 10 8830 Tjele,10,583728.0,06-03-1996,Alm.,0,5,Villa,145,1977,
+Bakkestien 8 8830 Tjele,8,700000.0,25-02-1996,Alm.,5833,4,Villa,120,1969,
+Vingevej 43 8830 Tjele,43,215000.0,24-02-1996,Alm.,1272,5,Villa,169,1997,
+Fælledvej 3 8830 Tjele,3,210000.0,23-02-1996,Alm.,0,5,Villa,172,1937,
+Tindbækvej 63 8830 Tjele,63,360000.0,22-02-1996,Alm.,3272,3,Villa,110,1965,
+Høegsvej 9 8830 Tjele,9,849000.0,21-02-1996,Alm.,0,6,Villa,222,1987,
+Batum Hedevej 13 8830 Tjele,13,760300.0,08-02-1996,Alm.,0,14,Villa,276,1907,
+Lærkevej 26 8830 Tjele,26,650400.0,03-02-1996,Alm.,0,4,Villa,152,1975,
+Randersvej 13B 8830 Tjele,0,280000.0,24-01-1996,Alm.,2153,4,Rækkehus,130,1910,
+Nørbækvej 14 8830 Tjele,14,210389.0,16-12-1995,Alm.,0,7,Villa,200,1870,
+Holmevej 25 8830 Tjele,25,450000.0,12-12-1995,Alm.,0,3,Villa,138,1937,
+Tindbæk Byvej 62 8830 Tjele,62,290000.0,11-12-1995,Alm.,2132,4,Stuehus,136,1934,
+Østergade 89 8830 Tjele,89,389000.0,05-12-1995,Alm.,0,5,Stuehus,171,1894,
+Hovedgaden 16 8830 Tjele,16,775000.0,27-11-1995,Alm.,4783,4,Villa,162,1971,
+Overgårdsvej 16 8830 Tjele,16,834520.0,20-11-1995,Alm.,0,6,Villa,196,1800,
+Viborgvej 95 8830 Tjele,95,212500.0,16-11-1995,Alm.,2500,4,Villa,85,1930,
+Skolevej 23 8830 Tjele,23,280000.0,15-11-1995,Fam.,3414,4,Villa,82,1961,
+Industrivej 11 8830 Tjele,11,950000.0,11-11-1995,Alm.,6506,5,Villa,146,1977,
+Egelundsparken 25 8830 Tjele,25,76800.0,03-11-1995,Alm.,590,6,Villa,130,1996,
+Jernbanegade 8 8830 Tjele,8,470000.0,02-11-1995,Alm.,0,4,Villa,113,1959,
+Hobro Landevej 117 8830 Tjele,117,125000.0,30-10-1995,Alm.,710,8,Villa,176,1996,
+Hovedgaden 22 8830 Tjele,22,360000.0,30-10-1995,Alm.,3913,4,Villa,92,1930,
+Hobrovej 93 8830 Tjele,93,610000.0,23-10-1995,Alm.,0,5,Villa,168,1912,
+Viborgvej 96 8830 Tjele,96,590000.0,20-10-1995,Alm.,3430,6,Villa,172,1904,
+Højmarken 27 8830 Tjele,27,390000.0,14-10-1995,Alm.,0,4,Stuehus,150,1900,
+Tåruphøjvej 4 8830 Tjele,4,425000.0,29-09-1995,Alm.,3794,4,Villa,112,1934,
+Fårdalvej 6 8830 Tjele,6,601857.0,12-09-1995,Alm.,4298,6,Stuehus,140,1910,
+Hovedgaden 18 8830 Tjele,18,280000.0,28-08-1995,Alm.,0,3,Villa,104,1954,
+Hyldevænget 7 8830 Tjele,7,500000.0,25-08-1995,Alm.,3846,4,Villa,130,1973,
+Bakkestien 6 8830 Tjele,6,200000.0,21-08-1995,Alm.,0,6,Villa,186,1898,
+Overlundvej 42 8830 Tjele,42,587760.0,18-08-1995,Alm.,0,5,Villa,199,1932,
+Hviddingvej 47 8830 Tjele,47,398000.0,17-08-1995,Alm.,3061,4,Villa,130,1930,
+Vorningvej 60 8830 Tjele,60,325835.0,17-08-1995,Alm.,2989,4,Villa,109,1962,
+Østervang 6 8830 Tjele,6,470000.0,15-08-1995,Alm.,3700,3,Villa,127,1976,
+Vorningvej 68 8830 Tjele,68,625000.0,06-08-1995,Alm.,7812,3,Stuehus,80,1805,
+Vorningvej 127 8830 Tjele,127,955000.0,04-08-1995,Alm.,4340,5,Stuehus,220,1885,
+Vingevej 26 8830 Tjele,26,425000.0,25-07-1995,Alm.,0,5,Villa,136,1943,
+Møllevej 4 8830 Tjele,4,300000.0,10-07-1995,Alm.,3000,4,Villa,100,1964,
+Nymarksvej 23 8830 Tjele,23,327500.0,27-06-1995,Alm.,0,4,Villa,103,1933,
+Meldgårdsvej 99 8830 Tjele,99,877000.0,22-06-1995,Alm.,0,7,Villa,181,1984,
+Engvej 8 8830 Tjele,8,455000.0,21-06-1995,Alm.,0,4,Villa,142,1973,
+Kokholmvej 45A 8830 Tjele,0,555000.0,21-06-1995,Fam.,0,6,Stuehus,146,1965,
+Jernbanegade 18 8830 Tjele,18,550000.0,14-06-1995,Alm.,0,5,Villa,165,1929,
+Drøwten 26 8830 Tjele,26,420000.0,09-06-1995,Alm.,0,5,Villa,160,1919,
+Østervangsvej 67 8830 Tjele,67,395000.0,07-06-1995,Alm.,2484,8,Villa,159,1948,
+Ingstrup Møllevej 4 8830 Tjele,4,240000.0,06-06-1995,Alm.,0,5,Villa,185,1877,
+Vesterled 25 8830 Tjele,25,723030.0,30-05-1995,Alm.,2939,8,Villa,246,1900,
+Mosevænget 13 8830 Tjele,13,88350.0,16-05-1995,Alm.,684,5,Villa,129,1995,
+Østergade 50 8830 Tjele,50,627000.0,13-05-1995,Alm.,0,6,Villa,216,1931,
+Fuglesangs Alle 16 8830 Tjele,16,188198.0,11-05-1995,Alm.,0,8,Villa,351,1902,
+Skolevangen 2 8830 Tjele,2,364270.0,11-05-1995,Alm.,0,7,Villa,160,1905,
+Næstegårdvænget 20 8830 Tjele,20,651000.0,10-05-1995,Alm.,3875,7,Villa,168,1975,
+Tindbæk Byvej 20 8830 Tjele,20,506000.0,05-05-1995,Alm.,3862,5,Villa,131,1967,
+Burrehøjvej 20 8830 Tjele,20,420000.0,02-05-1995,Alm.,0,8,Villa,222,1875,
+Hovedgaden 7 8830 Tjele,7,419000.0,27-04-1995,Alm.,0,7,Villa,135,1949,
+Holmevej 19 8830 Tjele,19,1750000.0,26-04-1995,Alm.,10416,8,Stuehus,168,1900,
+Bavnehøjvej 11 8830 Tjele,11,576240.0,22-04-1995,Alm.,4300,4,Villa,134,1941,
+Østervangsvej 4 8830 Tjele,4,398715.0,20-04-1995,Alm.,2847,7,Villa,140,1934,
+Skovagervej 117 8830 Tjele,117,398000.0,19-04-1995,Alm.,0,6,Villa,187,1904,
+Nørregade 17 8830 Tjele,17,292500.0,12-04-1995,Alm.,2017,4,Villa,145,1938,
+Egelundsparken 18 8830 Tjele,18,62250.0,10-04-1995,Alm.,471,4,Villa,132,1995,
+Gillebakken 45 8830 Tjele,45,415771.0,09-04-1995,Alm.,0,5,Villa,163,1972,
+Vestergade 19 8830 Tjele,19,489220.0,22-03-1995,Fam.,2877,6,Villa,170,1948,
+Egelundsparken 6 8830 Tjele,6,74625.0,22-03-1995,Alm.,0,5,Villa,198,1996,
+Kirkebakken 6 8830 Tjele,6,74912.0,03-03-1995,Andet,585,5,Villa,128,1900,
+Hviddingvej 31 8830 Tjele,31,1500000.0,19-02-1995,Alm.,16666,5,Stuehus,90,1927,
+Hyldemosevej 15 8830 Tjele,15,475000.0,10-02-1995,Alm.,3166,5,Villa,150,1969,
+Røddingvej 14 8830 Tjele,14,1701250.0,09-02-1995,Alm.,0,7,Stuehus,509,1920,
+Søndermarksvej 20 8830 Tjele,20,405900.0,09-02-1995,Fam.,3382,4,Stuehus,120,1900,
+Hobrovej 49 8830 Tjele,49,1562000.0,24-01-1995,Fam.,8629,8,Stuehus,181,1875,
+Løvelbrovej 19 8830 Tjele,19,1353477.0,19-01-1995,Auktion,7869,6,Stuehus,172,1922,
+Gl. Aalborgvej 22 8830 Tjele,22,555000.0,29-12-1994,Alm.,2967,4,Villa,187,1938,
+Lyngbakkevej 4 8830 Tjele,4,350000.0,17-12-1994,Alm.,3181,4,Villa,110,1880,
+Egelundsparken 17 8830 Tjele,17,72150.0,14-12-1994,Alm.,559,5,Villa,129,1995,
+Granstien 1 8830 Tjele,1,230000.0,08-12-1994,Fam.,0,4,Villa,98,1969,
+Veldsparken 58 8830 Tjele,58,809845.0,05-12-1994,Alm.,5784,4,Villa,140,1985,
+Toftevænget 14 8830 Tjele,14,340000.0,02-12-1994,Alm.,3119,3,Villa,109,1963,
+Norupvej 8 8830 Tjele,8,780000.0,01-12-1994,Fam.,3545,7,Stuehus,220,1912,
+Østervangsvej 83 8830 Tjele,83,575000.0,21-11-1994,Alm.,4872,5,Stuehus,118,1911,
+Korsbakken 15 8830 Tjele,15,729816.0,15-11-1994,Alm.,4678,5,Villa,156,1976,
+Fædalhøjvej 1 8830 Tjele,1,475000.0,21-10-1994,Alm.,0,9,Stuehus,298,1877,
+Vingevej 28 8830 Tjele,28,330200.0,17-10-1994,Alm.,0,7,Villa,213,1965,
+Østervangsvej 25 8830 Tjele,25,457021.0,29-09-1994,Alm.,0,12,Villa,329,1882,
+Kvorning Møllevej 11A 8830 Tjele,0,650000.0,28-09-1994,Alm.,4062,4,Stuehus,160,1940,
+Præstevænget 19 8830 Tjele,19,525000.0,24-09-1994,Alm.,0,6,Villa,169,1974,
+Egelundsparken 14 8830 Tjele,14,730000.0,22-09-1994,Alm.,5887,5,Villa,124,1989,
+Nørregade 34 8830 Tjele,34,150000.0,01-09-1994,Alm.,1034,6,Villa,145,1930,
+Kvorning Møllevej 2 8830 Tjele,2,260000.0,12-08-1994,Alm.,2921,3,Villa,89,1969,
+Vestergade 12 8830 Tjele,12,250000.0,04-08-1994,Fam.,2427,5,Villa,103,1930,
+Fædalhøjvej 4 8830 Tjele,4,795000.0,01-08-1994,Alm.,0,6,Stuehus,165,1927,
+Tindbæk Fælled 17 8830 Tjele,17,1837500.0,29-07-1994,Alm.,8546,6,Stuehus,215,1996,
+Kvorning Møllevej 19 8830 Tjele,19,770000.0,25-07-1994,Alm.,0,5,Stuehus,182,1934,
+Bystævnet 21 8830 Tjele,21,1118420.0,16-07-1994,Alm.,3966,12,Villa,282,1923,
+Hobro Landevej 134 8830 Tjele,134,537555.0,14-07-1994,Alm.,0,7,Stuehus,240,1930,
+Østergade 33 8830 Tjele,33,675000.0,12-07-1994,Alm.,0,8,Stuehus,237,1919,
+Skolevej 14 8830 Tjele,14,470000.0,09-07-1994,Alm.,3560,6,Villa,132,1943,
+Tjørnevej 15 8830 Tjele,15,284000.0,06-07-1994,Fam.,1742,7,Villa,163,1977,
+Hulbækvej 24 8830 Tjele,24,250000.0,02-07-1994,Fam.,0,5,Villa,175,1927,
+Østergade 101 8830 Tjele,101,174000.0,23-06-1994,Alm.,1137,5,Villa,153,1917,
+Løvelbrovej 15 8830 Tjele,15,563000.0,19-06-1994,Alm.,3351,10,Stuehus,168,1885,
+Overlundvej 33 8830 Tjele,33,777148.0,18-06-1994,Alm.,0,4,Villa,173,1885,
+Fuglebakken 2 8830 Tjele,2,750000.0,03-06-1994,Alm.,0,8,Villa,231,1989,
+Aalborgvej 145 8830 Tjele,145,515000.0,25-05-1994,Fam.,0,10,Villa,252,1931,
+Toften 19 8830 Tjele,19,595000.0,18-05-1994,Alm.,3838,5,Villa,155,1979,
+Sødalvej 18 8830 Tjele,18,520000.0,13-05-1994,Alm.,5048,3,Stuehus,103,1924,
+Kærvangen 9 8830 Tjele,9,380000.0,27-04-1994,Alm.,5205,2,Villa,73,1959,
+Tjelevej 24 8830 Tjele,24,700800.0,27-04-1994,Alm.,4672,7,Villa,150,1964,
+Haugårdsvej 44 8830 Tjele,44,600000.0,23-04-1994,Alm.,4225,6,Villa,142,1967,
+Hobro Landevej 56 8830 Tjele,56,289750.0,14-04-1994,Alm.,2587,4,Villa,112,1912,
+Korsbakken 20 8830 Tjele,20,480000.0,07-04-1994,Alm.,0,5,Villa,145,1976,
+Hovedgaden 28 8830 Tjele,28,460000.0,28-03-1994,Alm.,0,8,Villa,173,1963,
+Nørregade 48 8830 Tjele,48,335000.0,23-03-1994,Alm.,1772,4,Villa,189,1924,
+Skovvej 4 8830 Tjele,4,225000.0,12-03-1994,Alm.,2205,5,Villa,102,1927,
+Vestergade 50 8830 Tjele,50,660000.0,11-03-1994,Fam.,0,6,Villa,174,1860,
+Søvangen 5 8830 Tjele,5,610000.0,11-03-1994,Fam.,6853,4,Villa,89,1988,
+Tinggade 44 8830 Tjele,44,695580.0,03-03-1994,Alm.,2547,9,Villa,273,1860,
+Nørreåvej 29 8830 Tjele,29,765000.0,25-02-1994,Alm.,0,9,Villa,337,1902,
+Egelundsparken 10 8830 Tjele,10,95775.0,25-02-1994,Alm.,669,5,Villa,143,1994,
+Vestergade 17 8830 Tjele,17,425000.0,24-02-1994,Alm.,2992,4,Villa,142,1964,
+Vesterled 12 8830 Tjele,12,600000.0,21-02-1994,Alm.,3409,8,Villa,176,1930,
+Møller Andersensvej 13 8830 Tjele,13,625000.0,15-02-1994,Alm.,0,9,Villa,324,1972,
+Catrinevej 20 8830 Tjele,20,287500.0,01-02-1994,Alm.,2818,4,Villa,102,1965,
+Bakkevej 2 8830 Tjele,2,400000.0,27-01-1994,Alm.,3076,5,Villa,130,1925,
+Skibdalvej 19 8830 Tjele,19,600000.0,27-01-1994,Alm.,0,9,Stuehus,260,1916,
+Vorningvej 111 8830 Tjele,111,750000.0,27-01-1994,Alm.,4411,6,Stuehus,170,1890,
+Gillebakken 4 8830 Tjele,4,285000.0,25-01-1994,Alm.,0,7,Villa,132,1939,
+Aalborgvej 170 8830 Tjele,170,430000.0,24-12-1993,Alm.,0,8,Stuehus,239,1904,
+Korsbakken 36 8830 Tjele,36,1200000.0,22-12-1993,Alm.,0,7,Stuehus,291,1932,
+Ingstrup Møllevej 11 8830 Tjele,11,520000.0,15-12-1993,Fam.,0,7,Stuehus,175,1955,
+Granstien 6 8830 Tjele,6,460000.0,06-12-1993,Alm.,0,4,Villa,219,1950,
+Vråvej 9 8830 Tjele,9,2954000.0,02-12-1993,Alm.,0,7,Stuehus,337,1904,
+Hestehaven 14 8830 Tjele,14,110000.0,21-11-1993,Alm.,733,5,Villa,150,1996,
+Hulbækvej 42 8830 Tjele,42,950000.0,18-11-1993,Alm.,5523,5,Villa,172,1978,
+Tjelevej 20 8830 Tjele,20,560000.0,15-11-1993,Alm.,0,7,Villa,220,1935,
+Fuglebakken 11 8830 Tjele,11,425000.0,30-10-1993,Alm.,3219,5,Villa,132,1925,
+Lindum Søvej 25 8830 Tjele,25,652573.0,30-10-1993,Alm.,4628,6,Villa,141,1936,
+Sønderupvej 6 8830 Tjele,6,2210000.0,29-10-1993,Fam.,10574,6,Stuehus,209,1909,
+Hobrovej 18 8830 Tjele,18,595000.0,26-10-1993,Alm.,3131,7,Villa,190,1960,
+Østergade 21 8830 Tjele,21,250000.0,26-10-1993,Alm.,2192,5,Villa,114,1890,
+Norupvej 3 8830 Tjele,3,485000.0,18-10-1993,Alm.,3849,4,Villa,126,1973,
+Hviddingvej 37 8830 Tjele,37,550000.0,07-10-1993,Alm.,0,5,Stuehus,110,1952,
+Tjelevej 26 8830 Tjele,26,1160000.0,16-09-1993,Fam.,0,6,Stuehus,196,1971,
+Østervangsvej 53 8830 Tjele,53,100000.0,15-09-1993,Alm.,0,5,Villa,141,1901,
+Fuglebakken 10 8830 Tjele,10,545000.0,08-09-1993,Alm.,0,6,Villa,123,1988,
+Bakkevej 16 8830 Tjele,16,400000.0,25-08-1993,Alm.,3508,4,Villa,114,1977,
+Lergravsvej 2 8830 Tjele,2,1600000.0,19-08-1993,Alm.,14285,4,Stuehus,112,1965,
+Søvangen 13 8830 Tjele,13,960000.0,09-08-1993,Alm.,5303,6,Villa,181,1980,
+Østervangsvej 65 8830 Tjele,65,224000.0,03-08-1993,Alm.,3111,4,Villa,72,1897,
+Skibdalvej 62 8830 Tjele,62,1996600.0,03-08-1993,Fam.,13865,6,Stuehus,144,1967,
+Toften 18 8830 Tjele,18,525000.0,31-07-1993,Alm.,4069,4,Villa,129,1973,
+Løvskal Landevej 216 8830 Tjele,216,245000.0,29-07-1993,Alm.,2552,4,Villa,96,1953,
+Langsøvej 1 8830 Tjele,1,250000.0,22-07-1993,Alm.,0,4,Villa,128,1890,
+Holmevej 5 8830 Tjele,5,2600000.0,20-07-1993,Alm.,11304,6,Stuehus,230,1904,
+Haversmosevej 5 8830 Tjele,5,225000.0,20-07-1993,Alm.,0,9,Villa,283,1935,
+Soltoften 11 8830 Tjele,11,559000.0,05-07-1993,Alm.,4267,4,Rækkehus,131,1979,
+Frederiksberg 30 8830 Tjele,30,250000.0,05-07-1993,Alm.,2427,3,Villa,103,1932,
+Hobro Landevej 69 8830 Tjele,69,215000.0,30-06-1993,Alm.,1791,5,Villa,120,1931,
+Vråvej 7 8830 Tjele,7,686000.0,16-06-1993,Alm.,0,9,Stuehus,260,1875,
+Hviddingvej 7 8830 Tjele,7,360000.0,11-06-1993,Alm.,3214,3,Villa,112,1967,
+Birkevej 1 8830 Tjele,1,455000.0,11-06-1993,Alm.,3956,5,Villa,115,1974,
+Gl. Røddingvej 3 8830 Tjele,3,415543.0,08-06-1993,Fam.,2698,4,Villa,154,1864,
+Veldsparken 12 8830 Tjele,12,620000.0,21-05-1993,Alm.,4397,5,Villa,141,1979,
+Hovedgaden 20 8830 Tjele,20,285000.0,19-05-1993,Alm.,0,5,Villa,121,1932,
+P. Andersensvej 3 8830 Tjele,3,390000.0,13-05-1993,Alm.,4062,3,Villa,96,1958,
+Møller Andersensvej 6 8830 Tjele,6,385000.0,03-05-1993,Fam.,2938,5,Villa,131,1972,
+Veldsparken 22 8830 Tjele,22,596527.0,27-04-1993,Alm.,3976,4,Villa,150,1976,
+Meldgårdsvej 139 8830 Tjele,139,765000.0,12-04-1993,Alm.,5000,6,Villa,153,1987,
+Vibevej 18 8830 Tjele,18,500000.0,01-04-1993,Alm.,3472,5,Villa,144,1972,
+Fædalhøjvej 13 8830 Tjele,13,515000.0,26-03-1993,Fam.,3198,7,Villa,161,1931,
+Vester Kærvej 11 8830 Tjele,11,295500.0,22-03-1993,Alm.,1894,8,Stuehus,156,1900,
+Præstevænget 13 8830 Tjele,13,411000.0,21-03-1993,Alm.,0,4,Villa,128,1970,
+Veldsparken 79 8830 Tjele,79,1026961.0,16-03-1993,Alm.,6801,5,Villa,151,1986,
+Gillebakken 35 8830 Tjele,35,378378.0,15-03-1993,Fam.,0,5,Villa,213,1973,
+Hulbækvej 31 8830 Tjele,31,2200000.0,02-03-1993,Fam.,12429,7,Stuehus,177,2001,
+Vesterled 24 8830 Tjele,24,690000.0,01-03-1993,Fam.,0,7,Stuehus,172,1925,
+Ingstrupvej 25 8830 Tjele,25,415000.0,25-02-1993,Fam.,2219,6,Villa,187,1946,
+Hobro Landevej 102 8830 Tjele,102,140000.0,19-02-1993,Alm.,1818,4,Villa,77,1962,
+Aalborgvej 173 8830 Tjele,173,388680.0,13-02-1993,Alm.,2491,5,Stuehus,156,1912,
+Holmevej 31 8830 Tjele,31,1157000.0,09-02-1993,Fam.,7713,7,Stuehus,150,1931,
+Søndermarksvej 24 8830 Tjele,24,200000.0,09-02-1993,Fam.,1333,6,Stuehus,150,1925,
+Mosevænget 2 8830 Tjele,2,490000.0,02-02-1993,Alm.,3426,5,Villa,143,1984,
+Vingevej 4 8830 Tjele,4,128168.0,15-01-1993,Alm.,0,5,Villa,175,1875,
+Tinghøjvej 5 8830 Tjele,5,340000.0,13-01-1993,Alm.,3400,5,Villa,100,1938,
+Erikstrupvej 7 8830 Tjele,7,1137980.0,21-12-1992,Fam.,0,6,Stuehus,204,1808,
+Vestergade 29 8830 Tjele,29,162411.0,16-12-1992,Alm.,0,6,Villa,174,1953,
+Nørremarksvej 21 8830 Tjele,21,570000.0,13-12-1992,Fam.,5480,4,Stuehus,104,1910,
+Bavnehøjvej 21 8830 Tjele,21,70000.0,30-11-1992,Fam.,0,7,Stuehus,140,1930,
+Tinghøjvej 40 8830 Tjele,40,631702.0,17-11-1992,Alm.,5094,5,Stuehus,124,1937,
+Marie Grubbes Vej 3 8830 Tjele,3,485100.0,10-11-1992,Alm.,3277,6,Villa,148,1985,
+Sødalvej 29 8830 Tjele,29,8900000.0,05-11-1992,Alm.,66417,6,Stuehus,134,1877,
+Langdyssevej 4A 8830 Tjele,0,552635.0,29-10-1992,Alm.,0,10,Villa,275,1915,
+Østergade 4 8830 Tjele,4,300000.0,20-10-1992,Alm.,1734,6,Villa,173,1924,
+Søvangen 15D 8830 Tjele,0,345380.0,15-10-1992,Alm.,4485,3,Rækkehus,77,1980,
+Hobrovej 83 8830 Tjele,83,393454.0,08-10-1992,Alm.,2185,6,Stuehus,180,1909,
+Kokholmvej 41 8830 Tjele,41,1790000.0,05-10-1992,Fam.,0,4,Stuehus,150,1883,
+Østergade 69 8830 Tjele,69,580000.0,04-10-1992,Alm.,4496,3,Stuehus,129,1994,
+Pederstrupvej 18 8830 Tjele,18,446250.0,02-10-1992,Fam.,2916,6,Stuehus,153,1935,
+Skibdalvej 14 8830 Tjele,14,190000.0,16-09-1992,Alm.,1507,4,Villa,126,1898,
+Høegsvej 20 8830 Tjele,20,90552.0,15-09-1992,Alm.,854,3,Villa,106,1993,
+Ingstrupvej 1 8830 Tjele,1,170000.0,09-09-1992,Alm.,2698,2,Villa,63,1877,
+Vorningvej 64 8830 Tjele,64,285000.0,01-09-1992,Alm.,1338,7,Villa,213,1854,
+Sdr. Alle 2 8830 Tjele,2,188135.0,27-08-1992,Alm.,1679,4,Villa,112,1908,
+Høegsvej 27 8830 Tjele,27,765000.0,27-08-1992,Alm.,4473,5,Villa,171,1986,
+Østergade 38 8830 Tjele,38,310000.0,24-08-1992,Alm.,2230,3,Villa,139,1945,
+Fælledvej 20A 8830 Tjele,0,400011.0,21-08-1992,Alm.,5000,3,Rækkehus,80,1987,
+Ingstrupvej 16 8830 Tjele,16,240000.0,07-08-1992,Alm.,3750,2,Villa,64,1948,
+Gl. Aalborgvej 7 8830 Tjele,7,550000.0,27-07-1992,Alm.,3741,6,Villa,147,1935,
+Tinghøjvej 14 8830 Tjele,14,426965.0,12-07-1992,Alm.,3139,5,Villa,136,1927,
+Fælledvej 7 8830 Tjele,7,690000.0,03-07-1992,Alm.,2536,8,Villa,272,1860,
+Erikstrupvej 4 8830 Tjele,4,2030000.0,02-07-1992,Fam.,10463,6,Stuehus,194,1920,
+Aalborgvej 196 8830 Tjele,196,2290000.0,30-06-1992,Fam.,8481,5,Stuehus,270,2003,
+Vibevej 3 8830 Tjele,3,510000.0,25-06-1992,Alm.,2786,6,Villa,183,1973,
+Gillebakken 21 8830 Tjele,21,323000.0,23-06-1992,Fam.,2760,4,Villa,117,1972,
+Kvorning Møllevej 16 8830 Tjele,16,160000.0,18-06-1992,Alm.,0,4,Villa,128,1942,
+Veldsvej 38 8830 Tjele,38,530000.0,17-06-1992,Alm.,3840,4,Villa,138,1974,
+Drosselvej 3 8830 Tjele,3,547500.0,16-06-1992,Alm.,4451,4,Villa,123,1971,
+Digevej 22 8830 Tjele,22,429732.0,09-06-1992,Alm.,0,9,Villa,242,1975,
+Toftevej 4 8830 Tjele,4,197000.0,03-06-1992,Alm.,1551,4,Villa,127,1927,
+Burrehøjvej 25 8830 Tjele,25,525000.0,16-05-1992,Alm.,4772,4,Villa,110,1968,
+Gillebakken 13 8830 Tjele,13,400000.0,14-05-1992,Alm.,2816,4,Villa,142,1972,
+Ingstrupvej 27A 8830 Tjele,0,500000.0,13-05-1992,Alm.,4032,4,Villa,124,1978,
+Gillebakken 12 8830 Tjele,12,420000.0,13-05-1992,Alm.,0,7,Villa,131,1958,
+Nørremarksvej 26 8830 Tjele,26,975000.0,13-05-1992,Alm.,0,11,Villa,238,1930,
+Nordvang 5 8830 Tjele,5,450000.0,08-05-1992,Alm.,3515,4,Villa,128,1974,
+Fælledvej 24A 8830 Tjele,0,395000.0,07-05-1992,Alm.,4540,3,Rækkehus,87,1988,
+Fuglesangs Alle 10 8830 Tjele,10,71544.0,01-04-1992,Alm.,0,6,Stuehus,250,1909,
+Veldsparken 52 8830 Tjele,52,803792.0,24-03-1992,Alm.,3920,6,Villa,205,1984,
+Bigum Huse 3 8830 Tjele,3,245000.0,21-03-1992,Alm.,3550,2,Villa,69,1900,
+Kistrupvej 5 8830 Tjele,5,800000.0,06-03-1992,Alm.,2985,5,Villa,268,1877,
+Hovedgaden 21 8830 Tjele,21,225000.0,04-03-1992,Alm.,2922,4,Villa,77,1945,
+Vingevej 27 8830 Tjele,27,869751.0,03-03-1992,Alm.,3257,11,Villa,267,1825,
+Gartnerbakken 20 8830 Tjele,20,215000.0,21-02-1992,Alm.,1433,5,Villa,150,1976,
+Norupvej 7 8830 Tjele,7,525000.0,14-02-1992,Alm.,3776,5,Villa,139,1973,
+Jordemodervej 1 8830 Tjele,1,189000.0,04-02-1992,Fam.,741,7,Stuehus,255,1976,
+Kirkevej 3 8830 Tjele,3,290000.0,03-02-1992,Alm.,1972,5,Villa,147,1875,
+Østervangsvej 10 8830 Tjele,10,250000.0,16-01-1992,Fam.,0,6,Villa,161,1965,

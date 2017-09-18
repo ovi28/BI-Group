@@ -1,0 +1,979 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Sakskøbingvej 5 4880 Nysted,5,273416.0,09-05-2017,Fam.,2485,3,Villa,110,1943,
+Birkely 87 4880 Nysted,87,977500.0,08-05-2017,Fam.,14589,4,Sommerhus,67,1976,
+Skansevej 25 4880 Nysted,25,315000.0,21-04-2017,Alm.,8076,3,Sommerhus,39,1973,
+Vantorevej 90 4880 Nysted,90,100000.0,21-03-2017,Alm.,1111,4,Villa,90,1904,
+Solgårdsvej 8 4880 Nysted,8,810000.0,21-03-2017,Alm.,5225,4,Villa,155,1900,-2 %
+Kirkestien 2C 4880 Nysted,0,235000.0,18-03-2017,Alm.,2216,4,Rækkehus,106,1979,
+Nysted Skov 3 4880 Nysted,3,325000.0,16-03-2017,Alm.,2600,3,Villa,125,1912,
+Birkely 30 4880 Nysted,30,490000.0,07-03-2017,Fam.,9607,12,Sommerhus,51,1977,
+Kløverrevle 20 4880 Nysted,20,132477.0,01-03-2017,Fam.,1977,3,Sommerhus,67,1982,
+Birkely 82 4880 Nysted,82,485000.0,23-02-2017,Alm.,6928,4,Sommerhus,70,1979,-17 %
+Strandhus Alleen 22 4880 Nysted,22,1000000.0,21-02-2017,Alm.,9523,4,Stuehus,105,1827,
+Solgårdsvej 12 4880 Nysted,12,75000.0,21-02-2017,Alm.,765,4,Villa,98,1913,-21 %
+Sakskøbingvej 32 4880 Nysted,32,210000.0,14-02-2017,Alm.,1400,3,Villa,150,1969,-16 %
+Havnegade 6 4880 Nysted,6,450000.0,13-02-2017,Fam.,5172,2,Villa,87,1957,
+Adelgade 7 4880 Nysted,7,195000.0,01-02-2017,Alm.,2010,4,Rækkehus,97,1900,
+Vantorevej 107 4880 Nysted,107,75000.0,01-02-2017,Alm.,892,4,Villa,84,1880,
+Sakskøbingvej 45 4880 Nysted,45,495000.0,31-01-2017,Alm.,2500,8,Villa,198,1944,0 %
+Tågense Engvej 4 4880 Nysted,4,100000.0,24-01-2017,Alm.,1086,4,Villa,92,1842,
+"Ny Østergade 6, ST. TH 4880 Nysted",0,4600000.0,12-01-2017,Alm.,64788,2,Lejlighed,71,1847,
+Østergade 15 4880 Nysted,15,200000.0,12-01-2017,Alm.,888,8,Rækkehus,225,1855,-32 %
+Strandvejen 55 4880 Nysted,55,286000.0,10-01-2017,Alm.,3487,3,Villa,82,1856,-28 %
+Adelgade 77 4880 Nysted,77,800000.0,19-12-2016,Alm.,5839,4,Rækkehus,137,1925,-24 %
+Sdr Kongemarksvej 3 4880 Nysted,3,756500.0,15-12-2016,Fam.,3782,6,Villa,200,1965,
+Gartnerparken 58 4880 Nysted,58,275000.0,09-12-2016,Alm.,4583,2,Rækkehus,60,1976,
+Skovstræde 19 4880 Nysted,19,345000.0,01-12-2016,Fam.,1316,6,Villa,262,1908,
+Østersvej 4 4880 Nysted,4,1600000.0,01-12-2016,Alm.,13913,5,Sommerhus,115,2007,
+Brydebjergvej 5 4880 Nysted,5,655000.0,30-11-2016,Fam.,4781,5,Villa,137,1962,
+Vognmandsmarken 18 4880 Nysted,18,750000.0,30-11-2016,Alm.,3676,4,Villa,204,1972,-6 %
+Birkely 59 4880 Nysted,59,715000.0,28-11-2016,Alm.,10362,4,Sommerhus,69,1980,-10 %
+Gartnerparken 50 4880 Nysted,50,300000.0,23-11-2016,Alm.,5000,2,Rækkehus,60,1975,
+Adelgade 98A 4880 Nysted,0,450000.0,22-11-2016,Alm.,6164,3,Rækkehus,73,1840,
+Billevej 2A 4880 Nysted,0,50000.0,13-11-2016,Andet,255,5,Villa,196,1880,
+"Adelgade 5, 1 4880 Nysted",1,460171.0,09-11-2016,Auktion,3652,4,Lejlighed,126,1909,
+Bagstræde 1 4880 Nysted,1,300000.0,29-10-2016,Alm.,2068,8,Villa,145,1954,-14 %
+Lille Mussevej 1 4880 Nysted,1,595000.0,28-10-2016,Alm.,2245,7,Villa,265,1912,-8 %
+Birkely 11 4880 Nysted,11,765000.0,13-10-2016,Alm.,11086,3,Sommerhus,69,1998,-7 %
+Rosenvænget 40 4880 Nysted,40,300000.0,11-10-2016,Fam.,2083,3,Villa,144,1975,-45 %
+Wichmandsvej 46 4880 Nysted,46,480000.0,10-10-2016,Alm.,3137,5,Villa,153,1970,-20 %
+Kallehavevej 17 4880 Nysted,17,1100000.0,23-09-2016,Alm.,5820,5,Villa,189,1894,-6 %
+Østergade 45 4880 Nysted,45,140000.0,25-07-2016,Alm.,2857,2,Rækkehus,49,1843,-20 %
+Musse Gade 2 4880 Nysted,2,275000.0,25-07-2016,Alm.,2067,5,Villa,133,1930,-8 %
+Rosenvænget 35 4880 Nysted,35,940000.0,17-07-2016,Alm.,6619,4,Villa,142,2008,-6 %
+Fiskergade 23 4880 Nysted,23,410000.0,14-07-2016,Alm.,3504,3,Villa,117,1965,-17 %
+Egholmvej 10A 4880 Nysted,0,665000.0,12-07-2016,Alm.,4208,4,Villa,158,1973,0 %
+Strandhus Alleen 4 4880 Nysted,4,550000.0,11-07-2016,Fam.,4782,4,Villa,115,1914,
+Vantorevej 67 4880 Nysted,67,266500.0,08-07-2016,Fam.,3331,3,Villa,80,1938,
+Adelgade 71 4880 Nysted,71,114000.0,01-07-2016,Fam.,3562,2,Villa,32,1884,
+Gartnerparken 4 4880 Nysted,4,160000.0,30-06-2016,Alm.,3636,1,Rækkehus,44,1971,-20 %
+Trepilevej 2 4880 Nysted,2,260000.0,28-06-2016,Fam.,3058,3,Villa,85,1921,
+Østvej 4 4880 Nysted,4,17923362.0,14-06-2016,Alm.,81101,7,Stuehus,221,1931,
+Adelgade 82 4880 Nysted,82,730000.0,30-05-2016,Alm.,6576,4,Villa,111,1876,-3 %
+Birkely 12 4880 Nysted,12,100000.0,23-05-2016,Andet,2564,2,Sommerhus,39,1990,
+Skovstræde 4 4880 Nysted,4,128358.0,18-05-2016,Auktion,965,4,Rækkehus,133,1910,-49 %
+Adelgade 34 4880 Nysted,34,695000.0,07-05-2016,Alm.,4512,5,Rækkehus,154,1855,0 %
+Skansevej 28 4880 Nysted,28,1300000.0,26-03-2016,Fam.,9701,5,Villa,134,1915,-18 %
+Tågense Engvej 8 4880 Nysted,8,695000.0,16-03-2016,Alm.,6950,3,Sommerhus,100,1993,0 %
+Mårbækvej 4 4880 Nysted,4,130000.0,15-03-2016,Alm.,1083,3,Villa,120,1962,-33 %
+Birkely 22 4880 Nysted,22,315000.0,14-03-2016,Alm.,7875,3,Sommerhus,40,1976,-10 %
+Bøgely 4 4880 Nysted,4,1110000.0,04-03-2016,Alm.,10571,4,Sommerhus,105,2009,-1 %
+Østerrevle 10 4880 Nysted,10,1330000.0,02-03-2016,Alm.,13168,5,Sommerhus,101,1999,-5 %
+Sønderhavevej 2 4880 Nysted,2,1890000.0,26-02-2016,Alm.,17181,3,Stuehus,110,1921,
+Fiskergade 1A 4880 Nysted,0,200000.0,25-02-2016,Alm.,2500,3,Villa,80,1649,-20 %
+Solsortvej 10 4880 Nysted,10,1650000.0,24-02-2016,Alm.,7857,5,Villa,210,1974,-5 %
+Billevej 9 4880 Nysted,9,437500.0,22-02-2016,Alm.,3240,6,Villa,135,1897,
+Gartnerparken 56 4880 Nysted,56,300000.0,02-02-2016,Alm.,5000,2,Rækkehus,60,1976,
+Østersvej 1 4880 Nysted,1,1385000.0,30-01-2016,Alm.,14734,4,Sommerhus,94,2007,-7 %
+Østerrevle 6 4880 Nysted,6,650000.0,26-01-2016,Fam.,9701,3,Sommerhus,67,1981,
+Adelgade 73 4880 Nysted,73,85000.0,11-01-2016,Alm.,850,5,Rækkehus,100,1761,-15 %
+Søndergade 3 4880 Nysted,3,450000.0,04-01-2016,Alm.,3781,5,Rækkehus,119,1890,-22 %
+Brydebjergvej 3 4880 Nysted,3,274000.0,16-12-2015,Auktion,2000,5,Villa,137,1962,
+Gadeparterne 11 4880 Nysted,11,325000.0,09-12-2015,Auktion,2754,4,Villa,118,1977,-18 %
+Birkely 49 4880 Nysted,49,155000.0,17-11-2015,Alm.,7045,2,Sommerhus,22,1980,
+Østergade 39 4880 Nysted,39,595000.0,13-11-2015,Alm.,7256,2,Rækkehus,82,1840,0 %
+Birkely 7 4880 Nysted,7,480000.0,26-10-2015,Alm.,10666,3,Sommerhus,45,1979,
+Ndr Kongemarksvej 16 4880 Nysted,16,390000.0,25-10-2015,Alm.,4588,3,Rækkehus,85,1974,-21 %
+Musse Gade 6 4880 Nysted,6,125000.0,21-10-2015,Auktion,868,4,Villa,144,1964,
+Vantorevej 96 4880 Nysted,96,420000.0,19-10-2015,Andet,3157,5,Sommerhus,133,1913,
+Vantore Strandvej 1 4880 Nysted,1,50000.0,16-10-2015,Fam.,263,6,Villa,190,1913,
+Lærkevej 2 4880 Nysted,2,800000.0,13-10-2015,Alm.,7142,4,Villa,112,1973,-3 %
+Birkely 74 4880 Nysted,74,500000.0,12-10-2015,Alm.,8064,4,Sommerhus,62,1979,-13 %
+Mallehavevej 3 4880 Nysted,3,400000.0,07-10-2015,Alm.,3738,3,Sommerhus,107,1903,-16 %
+Birkely 80 4880 Nysted,80,650000.0,30-09-2015,Alm.,11403,4,Sommerhus,57,1980,-6 %
+Birkely 40 4880 Nysted,40,250000.0,23-09-2015,Alm.,6578,3,Sommerhus,38,1983,
+Vantorevej 44 4880 Nysted,44,840000.0,17-09-2015,Fam.,3485,5,Villa,241,1912,
+Østerrevle 16 4880 Nysted,16,500000.0,17-09-2015,Alm.,6666,4,Sommerhus,75,1982,-7 %
+Sakskøbingvej 43 4880 Nysted,43,60000.0,16-09-2015,Auktion,722,3,Rækkehus,83,1777,
+Skovstræde 16 4880 Nysted,16,700000.0,08-09-2015,Alm.,3301,5,Villa,212,1900,-18 %
+Drosselvej 3 4880 Nysted,3,480000.0,21-08-2015,Alm.,4173,4,Villa,115,1973,-19 %
+Adelgade 90 4880 Nysted,90,1620000.0,16-08-2015,Alm.,10125,4,Rækkehus,160,1868,-4 %
+Kallehavevej 3 4880 Nysted,3,1089000.0,14-08-2015,Alm.,11112,3,Villa,98,1901,
+Adelgade 14 4880 Nysted,14,850000.0,10-08-2015,Alm.,5592,6,Rækkehus,152,1891,-5 %
+Rosenvænget 1 4880 Nysted,1,1150000.0,01-08-2015,Alm.,7324,5,Villa,157,2006,-8 %
+Gartnerparken 46 4880 Nysted,46,250000.0,15-07-2015,Alm.,4166,2,Rækkehus,60,1975,-9 %
+Byfoged Holcksvej 13 4880 Nysted,13,775000.0,08-07-2015,Alm.,5201,4,Villa,149,1971,-11 %
+Gadeparterne 1 4880 Nysted,1,298319.0,08-07-2015,Andet,2226,5,Villa,134,1978,
+Tågense Engvej 7 4880 Nysted,7,2000000.0,07-07-2015,Alm.,10471,6,Villa,191,1880,-9 %
+Wichmandsvej 50 4880 Nysted,50,400000.0,22-06-2015,Alm.,4210,4,Rækkehus,95,1976,-16 %
+Gartnerparken 10 4880 Nysted,10,200000.0,05-06-2015,Alm.,4545,1,Rækkehus,44,1971,-18 %
+Vantorevej 51 4880 Nysted,51,150000.0,28-05-2015,Auktion,1000,4,Villa,150,1942,-23 %
+Fiskergade 17 4880 Nysted,17,750000.0,26-05-2015,Alm.,8152,3,Rækkehus,92,1911,
+Gartnerparken 32 4880 Nysted,32,225000.0,04-05-2015,Alm.,3750,2,Rækkehus,60,1973,-10 %
+Strandvejen 17 4880 Nysted,17,1500000.0,20-04-2015,Alm.,9375,5,Villa,160,1980,-14 %
+Sakskøbingvej 89 4880 Nysted,89,395000.0,15-04-2015,Alm.,2668,6,Villa,148,1939,-19 %
+Søvej 12 4880 Nysted,12,1545000.0,30-03-2015,Alm.,12070,4,Villa,128,1972,0 %
+Østergade 21 4880 Nysted,21,349000.0,18-03-2015,Alm.,4780,3,Rækkehus,73,1840,0 %
+Sakskøbingvej 70 4880 Nysted,70,275500.0,18-03-2015,Auktion,2152,5,Villa,128,1900,
+Muslingevej 9 4880 Nysted,9,2500000.0,18-03-2015,Alm.,21739,5,Sommerhus,115,2007,-7 %
+Fjordvej 8 4880 Nysted,8,1175000.0,12-03-2015,Alm.,12113,4,Villa,97,1965,-27 %
+Bøgely 1 4880 Nysted,1,695000.0,02-03-2015,Alm.,12192,4,Sommerhus,57,2015,
+Fiskergade 10B 4880 Nysted,0,136994.0,25-02-2015,Auktion,1212,4,Rækkehus,113,1857,
+Vognmandsmarken 2 4880 Nysted,2,725000.0,21-02-2015,Alm.,6092,3,Villa,119,1973,-9 %
+Birkely 25 4880 Nysted,25,800000.0,09-02-2015,Alm.,9638,5,Sommerhus,83,1977,-6 %
+Østerrevle 8 4880 Nysted,8,420000.0,07-02-2015,Alm.,6774,4,Sommerhus,62,1976,-13 %
+Sakskøbingvej 11 4880 Nysted,11,114000.0,21-01-2015,Alm.,1701,4,Villa,67,1935,-33 %
+Tværvej 2 4880 Nysted,2,300000.0,07-01-2015,Alm.,1612,6,Villa,186,1937,0 %
+Sakskøbingvej 103 4880 Nysted,103,35000.0,02-01-2015,Alm.,294,5,Villa,119,1915,
+Gl Torv 15 4880 Nysted,15,560000.0,18-12-2014,Alm.,5137,4,Villa,109,1933,-14 %
+Våsenvej 1A 4880 Nysted,0,5421527.0,09-12-2014,Andet,19362,7,Stuehus,280,1914,
+Kallehavevej 23 4880 Nysted,23,300000.0,25-11-2014,Fam.,2127,4,Villa,141,1941,
+Strandvejen 39 4880 Nysted,39,1450000.0,06-11-2014,Alm.,7712,5,Villa,188,1855,-13 %
+Birkely 60 4880 Nysted,60,570000.0,22-10-2014,Alm.,9500,4,Sommerhus,60,1979,-4 %
+Birkely 96 4880 Nysted,96,915200.0,22-10-2014,Fam.,10895,4,Sommerhus,84,1979,
+Kallehavevej 9 4880 Nysted,9,270000.0,18-10-2014,Alm.,2647,4,Villa,102,1966,-8 %
+Birkely 53 4880 Nysted,53,1200000.0,27-09-2014,Alm.,14117,4,Sommerhus,85,1979,0 %
+Bomstræde 3 4880 Nysted,3,225000.0,26-09-2014,Alm.,2678,2,Rækkehus,84,1860,
+Kirkestien 2B 4880 Nysted,0,420000.0,26-09-2014,Alm.,3962,4,Rækkehus,106,1978,-15 %
+Vantorevej 27B 4880 Nysted,0,500000.0,24-09-2014,Alm.,4545,3,Villa,110,1976,-8 %
+Sakskøbingvej 59A 4880 Nysted,0,195000.0,23-09-2014,Alm.,2191,3,Villa,89,1938,
+Wichmandsvej 48 4880 Nysted,48,550000.0,11-09-2014,Alm.,3846,4,Villa,143,1969,-15 %
+Adelgade 103 4880 Nysted,103,459000.0,02-09-2014,Fam.,5884,4,Villa,78,1834,-7 %
+Birkely 48 4880 Nysted,48,750000.0,28-08-2014,Alm.,9375,4,Sommerhus,80,1985,-12 %
+Fjordvej 23 4880 Nysted,23,1200000.0,18-08-2014,Alm.,8888,4,Villa,135,1970,-4 %
+Sakskøbingvej 72 4880 Nysted,72,120000.0,13-08-2014,Alm.,1052,5,Villa,114,1827,
+Skårupvej 1 4880 Nysted,1,495000.0,10-08-2014,Fam.,2171,7,Stuehus,228,1906,
+Slotsgade 4 4880 Nysted,4,812500.0,28-07-2014,Alm.,6250,4,Villa,130,1891,-18 %
+Ved Havnen 1 4880 Nysted,1,650000.0,30-06-2014,Alm.,6435,3,Villa,101,1900,
+Vognmandsmarken 4 4880 Nysted,4,775000.0,26-06-2014,Alm.,5871,4,Villa,132,1973,-6 %
+Birkely 42 4880 Nysted,42,170000.0,23-06-2014,Alm.,0,3,Sommerhus,60,1978,
+"Adelgade 38, ST 4880 Nysted",0,1000000.0,10-06-2014,Alm.,2688,9,Rækkehus,372,1934,-7 %
+Strandvejen 31 4880 Nysted,31,545000.0,04-06-2014,Alm.,5450,5,Rækkehus,100,1912,-8 %
+Birkely 55 4880 Nysted,55,560000.0,31-05-2014,Alm.,9491,4,Sommerhus,59,1979,-6 %
+Vantorevej 29 4880 Nysted,29,260000.0,28-05-2014,Auktion,935,7,Villa,278,1926,
+Jernbanegade 15 4880 Nysted,15,135000.0,22-05-2014,Alm.,754,6,Villa,179,1912,-46 %
+Birkely 33 4880 Nysted,33,315000.0,14-05-2014,Alm.,6300,3,Sommerhus,50,1976,-16 %
+Solgårdsvej 10 4880 Nysted,10,489000.0,14-05-2014,Alm.,4075,5,Villa,120,1948,0 %
+Kirkestien 6A 4880 Nysted,0,200000.0,08-05-2014,Alm.,1123,7,Villa,178,1917,-38 %
+Musse Gade 14 4880 Nysted,14,58001.0,30-04-2014,Auktion,852,2,Villa,68,1950,
+Holtevej 7 4880 Nysted,7,1150000.0,08-04-2014,Alm.,5227,7,Villa,220,1927,-14 %
+Adelgade 1A 4880 Nysted,0,235000.0,26-03-2014,Auktion,3263,2,Rækkehus,72,1895,
+Skovstræde 2 4880 Nysted,2,216000.0,19-03-2014,Auktion,1588,4,Villa,136,1890,
+Rosenvænget 30 4880 Nysted,30,1125000.0,12-03-2014,Alm.,7075,5,Villa,159,1977,-11 %
+Byfoged Holcksvej 3 4880 Nysted,3,850000.0,07-03-2014,Alm.,5985,3,Villa,142,1972,-3 %
+Adelgade 44 4880 Nysted,44,583500.0,07-03-2014,Alm.,2352,7,Villa,248,1750,
+Smedestræde 5 4880 Nysted,5,450000.0,04-03-2014,Alm.,3214,4,Rækkehus,140,1870,-40 %
+Skovstræde 15 4880 Nysted,15,885000.0,01-03-2014,Alm.,4916,6,Villa,180,1937,-9 %
+Lærkevej 1D 4880 Nysted,0,350000.0,25-02-2014,Alm.,4929,2,Rækkehus,71,1985,-7 %
+Sdr Kongemarksvej 6 4880 Nysted,6,935497.0,17-02-2014,Fam.,2998,7,Villa,312,1927,
+Ved Havnen 14 4880 Nysted,14,1445000.0,16-02-2014,Alm.,5780,7,Villa,250,1971,-19 %
+Byfoged Holcksvej 10 4880 Nysted,10,550000.0,31-01-2014,Fam.,3767,5,Villa,146,1970,
+Kallehavevej 4 4880 Nysted,4,492500.0,27-01-2014,Fam.,4104,5,Villa,120,1904,
+Sakskøbingvej 14 4880 Nysted,14,7966355.0,22-01-2014,Alm.,47138,7,Stuehus,169,1901,
+Østvej 6 4880 Nysted,6,882480.0,08-01-2014,Alm.,3394,6,Stuehus,260,1893,
+Ved Havnen 6B 4880 Nysted,0,875000.0,03-01-2014,Alm.,4861,4,Villa,180,1979,-40 %
+Dalmosevej 1 4880 Nysted,1,380000.0,21-12-2013,Alm.,2968,4,Villa,128,1942,-4 %
+Kirkestien 9 4880 Nysted,9,370000.0,15-12-2013,Fam.,8043,3,Rækkehus,46,1820,
+Sakskøbingvej 6 4880 Nysted,6,650000.0,09-12-2013,Andet,3631,5,Villa,179,1910,
+Brønholtvej 4 4880 Nysted,4,175000.0,05-12-2013,Fam.,0,4,Villa,96,1857,
+Adelgade 12 4880 Nysted,12,462500.0,05-12-2013,Fam.,2267,5,Rækkehus,204,1902,
+Gartnerparken 62 4880 Nysted,62,191000.0,04-12-2013,Auktion,3183,2,Rækkehus,60,1976,-31 %
+Sakskøbingvej 44 4880 Nysted,44,90000.0,20-11-2013,Auktion,671,4,Villa,134,1965,-45 %
+Gartnerparken 6 4880 Nysted,6,180000.0,19-11-2013,Alm.,4090,1,Rækkehus,44,1971,-20 %
+Lærkevej 1A 4880 Nysted,0,450000.0,14-11-2013,Fam.,6338,2,Rækkehus,71,1984,
+Østersøvej 1 4880 Nysted,1,270000.0,12-11-2013,Alm.,5400,3,Sommerhus,50,1966,
+Aarestrupvej 11 4880 Nysted,11,980000.0,01-11-2013,Alm.,8596,4,Villa,114,1973,-2 %
+Skibsbrostræde 4 4880 Nysted,4,1000000.0,28-10-2013,Alm.,8130,4,Villa,123,1968,-9 %
+Ved Havnen 10 4880 Nysted,10,775000.0,13-10-2013,Alm.,4532,4,Villa,171,1972,-6 %
+Fjordvej 13 4880 Nysted,13,890000.0,11-10-2013,Alm.,7739,4,Villa,115,1967,-1 %
+Fiskergade 7 4880 Nysted,7,250000.0,03-10-2013,Alm.,2192,4,Villa,114,1943,0 %
+Lærkevej 1F 4880 Nysted,0,465000.0,20-09-2013,Alm.,6549,2,Rækkehus,71,1985,-3 %
+Skovstræde 3A 4880 Nysted,0,250000.0,19-09-2013,Alm.,2427,6,Villa,103,1938,28 %
+Wichmandsvej 37 4880 Nysted,37,318000.0,06-09-2013,Alm.,2717,4,Villa,117,1936,-36 %
+Kirkestien 12 4880 Nysted,12,537673.0,03-09-2013,Alm.,4135,4,Villa,130,1909,-38 %
+Egholmvej 28 4880 Nysted,28,12500000.0,19-08-2013,Alm.,62814,6,Stuehus,199,1983,
+Adelgade 1F 4880 Nysted,0,150000.0,18-08-2013,Alm.,1181,7,Villa,127,1861,-67 %
+Byfoged Holcksvej 12 4880 Nysted,12,600000.0,16-08-2013,Alm.,5357,4,Villa,112,1970,-14 %
+Kirkestien 8 4880 Nysted,8,900000.0,13-08-2013,Alm.,8823,5,Villa,102,1908,-5 %
+Skansevej 12 4880 Nysted,12,1050000.0,17-07-2013,Alm.,9813,4,Villa,107,1963,-19 %
+Strandvejen 47 4880 Nysted,47,1175000.0,11-07-2013,Alm.,12634,4,Villa,93,1930,-9 %
+Vognmandsmarken 14 4880 Nysted,14,925000.0,11-07-2013,Alm.,6702,4,Villa,138,1972,-7 %
+Kløverrevle 15 4880 Nysted,15,590000.0,30-06-2013,Alm.,9218,3,Sommerhus,64,1979,-15 %
+Lindholmvej 3 4880 Nysted,3,595000.0,21-06-2013,Alm.,3380,5,Villa,176,1976,-14 %
+Kallehavevej 27 4880 Nysted,27,325000.0,12-06-2013,Auktion,2443,4,Villa,133,1850,-64 %
+Gartnerparken 42 4880 Nysted,42,275000.0,04-06-2013,Alm.,4583,2,Rækkehus,60,1975,-15 %
+Skovstræde 10 4880 Nysted,10,115968.0,01-05-2013,Fam.,1159,3,Villa,100,1907,
+Fiskergade 12 4880 Nysted,12,705500.0,10-04-2013,Fam.,7126,4,Rækkehus,99,1761,
+Adelgade 49 4880 Nysted,49,700000.0,10-04-2013,Alm.,5035,6,Rækkehus,139,1908,
+Østergade 17 4880 Nysted,17,250000.0,02-04-2013,Alm.,2232,4,Rækkehus,112,1761,-15 %
+Ndr Kongemarksvej 13 4880 Nysted,13,585000.0,27-02-2013,Auktion,4301,4,Villa,136,1974,-25 %
+Billevej 7 4880 Nysted,7,170000.0,15-02-2013,Alm.,1214,5,Stuehus,140,1850,-42 %
+Søndergade 9 4880 Nysted,9,90500.0,13-02-2013,Auktion,1967,2,Rækkehus,46,1877,
+Lærkevej 1E 4880 Nysted,0,493000.0,10-01-2013,Alm.,7144,2,Rækkehus,69,1985,
+Vestvej 5 4880 Nysted,5,10000.0,09-01-2013,Alm.,100,3,Villa,100,1900,
+Sakskøbingvej 53 4880 Nysted,53,7324035.0,03-01-2013,Alm.,38547,6,Stuehus,190,1877,
+Sakskøbingvej 73 4880 Nysted,73,4516465.0,03-01-2013,Alm.,15791,6,Stuehus,286,1926,
+Vantorevej 65 4880 Nysted,65,500000.0,01-01-2013,Fam.,2702,6,Villa,185,1722,
+Jernbanegade 21 4880 Nysted,21,320000.0,11-12-2012,Alm.,1729,6,Villa,185,1913,-19 %
+Marsvinvej 9 4880 Nysted,9,1237500.0,06-12-2012,Fam.,10760,5,Sommerhus,115,2006,
+Rosenvænget 38 4880 Nysted,38,650000.0,21-11-2012,Alm.,4304,4,Villa,151,1975,-18 %
+Skansevej 16 4880 Nysted,16,1100000.0,14-11-2012,Alm.,10280,4,Villa,107,1961,-21 %
+Vantorevej 69 4880 Nysted,69,605000.0,02-11-2012,Alm.,5817,4,Villa,104,1956,
+Rødstensrevle 4 4880 Nysted,4,675000.0,01-11-2012,Alm.,12272,3,Sommerhus,55,1977,-9 %
+Vantorevej 55 4880 Nysted,55,200000.0,30-10-2012,Alm.,1834,2,Villa,109,1907,-11 %
+Bagstræde 10A 4880 Nysted,0,75000.0,28-09-2012,Alm.,781,4,Villa,96,1900,-17 %
+Birkely 51 4880 Nysted,51,1400000.0,26-09-2012,Alm.,18181,3,Sommerhus,77,1979,
+Sakskøbingvej 33 4880 Nysted,33,285612.0,21-09-2012,Auktion,1763,5,Villa,162,1939,
+Vantorevej 60 4880 Nysted,60,140000.0,18-09-2012,Alm.,2121,3,Villa,66,1910,-20 %
+"Ny Østergade 6, 1. TH 4880 Nysted",0,8962866.0,12-09-2012,Auktion,99587,3,Lejlighed,90,1847,
+"Ny Østergade 6, ST. TV 4880 Nysted",0,8962866.0,12-09-2012,Auktion,113454,3,Lejlighed,79,1847,
+"Ny Østergade 6, 1. TV 4880 Nysted",0,8962866.0,12-09-2012,Auktion,96374,3,Lejlighed,93,1847,
+"Ny Østergade 8, ST. TH 4880 Nysted",0,8962866.0,12-09-2012,Auktion,131806,2,Lejlighed,68,1847,
+"Ny Østergade 8, ST. TV 4880 Nysted",0,8962866.0,12-09-2012,Auktion,106700,3,Lejlighed,84,1847,
+"Ny Østergade 8, 1. TH 4880 Nysted",0,8962866.0,12-09-2012,Auktion,104219,3,Lejlighed,86,1847,
+"Ny Østergade 10, ST. MF 4880 Nysted",0,8962866.0,12-09-2012,Auktion,129896,2,Lejlighed,69,1847,
+"Ny Østergade 10, ST. TV 4880 Nysted",0,8962866.0,12-09-2012,Auktion,126237,2,Lejlighed,71,1847,
+"Ny Østergade 10, 1. MF 4880 Nysted",0,8962866.0,12-09-2012,Auktion,77266,4,Lejlighed,116,1847,
+"Ny Østergade 10, ST. TH 4880 Nysted",0,8962866.0,12-09-2012,Auktion,133774,2,Lejlighed,67,1847,
+"Ny Østergade 8, 1. TV 4880 Nysted",0,8962866.0,12-09-2012,Auktion,103021,3,Lejlighed,87,1847,
+"Ny Østergade 10, 1. TV 4880 Nysted",0,8962866.0,12-09-2012,Auktion,101850,2,Lejlighed,88,1847,
+"Ny Østergade 10, 1. TH 4880 Nysted",0,8962866.0,12-09-2012,Auktion,105445,3,Lejlighed,85,1847,
+"Ny Østergade 12, ST. TH 4880 Nysted",0,8962866.0,12-09-2012,Auktion,100706,3,Lejlighed,89,1847,
+"Ny Østergade 12, 1. TV 4880 Nysted",0,8962866.0,12-09-2012,Auktion,87018,3,Lejlighed,103,1847,
+"Ny Østergade 12, 1. TH 4880 Nysted",0,8962866.0,12-09-2012,Auktion,100706,3,Lejlighed,89,1847,
+"Ny Østergade 12, ST. TV 4880 Nysted",0,8962866.0,12-09-2012,Auktion,87018,3,Lejlighed,103,1847,
+Sælvej 3 4880 Nysted,3,1420000.0,02-09-2012,Alm.,15106,4,Sommerhus,94,2007,-5 %
+Vantorevej 73 4880 Nysted,73,30000.0,29-08-2012,Auktion,254,4,Villa,118,1865,-94 %
+Ved Havnen 6A 4880 Nysted,0,1250000.0,16-08-2012,Alm.,8620,4,Villa,145,1972,-3 %
+Gartnerparken 18 4880 Nysted,18,250000.0,02-08-2012,Auktion,5681,1,Rækkehus,44,1971,
+Gartnerparken 34 4880 Nysted,34,240700.0,02-08-2012,Auktion,4011,2,Rækkehus,60,1973,
+Gartnerparken 48 4880 Nysted,48,245000.0,02-08-2012,Auktion,4083,2,Rækkehus,60,1975,
+Skovstræde 11 4880 Nysted,11,240000.0,25-07-2012,Auktion,2307,4,Villa,104,1883,
+Mallehavevej 8 4880 Nysted,8,15300000.0,03-07-2012,Alm.,54838,7,Stuehus,279,1959,
+Søndergade 4 4880 Nysted,4,725000.0,28-06-2012,Alm.,5894,3,Rækkehus,123,1873,-9 %
+Sakskøbingvej 13 4880 Nysted,13,375000.0,27-06-2012,Andet,2952,3,Villa,127,1817,
+Byfoged Holcksvej 9 4880 Nysted,9,825000.0,25-06-2012,Alm.,4583,6,Villa,180,1970,-15 %
+Østersøvej 12 4880 Nysted,12,250000.0,14-06-2012,Fam.,3571,4,Sommerhus,70,1965,
+Stubberupvej 9 4880 Nysted,9,400000.0,06-06-2012,Auktion,838,8,Villa,477,1897,-73 %
+Stubberupvej 44 4880 Nysted,44,900000.0,06-06-2012,Alm.,8653,5,Villa,104,1827,-10 %
+Wichmandsvej 42 4880 Nysted,42,895000.0,31-05-2012,Alm.,3942,7,Villa,227,1970,-10 %
+Fjordvej 18 4880 Nysted,18,1500000.0,17-04-2012,Alm.,10135,4,Villa,148,1966,-12 %
+Adelgade 39 4880 Nysted,39,225000.0,28-03-2012,Auktion,1008,5,Rækkehus,223,1870,
+Sakskøbingvej 46 4880 Nysted,46,975000.0,23-03-2012,Alm.,3175,8,Villa,307,1900,-1 %
+Aarestrupvej 13 4880 Nysted,13,700000.0,21-03-2012,Alm.,5833,2,Villa,120,1956,-12 %
+Birkely 32 4880 Nysted,32,312500.0,28-02-2012,Alm.,6127,4,Sommerhus,51,1978,
+Vantorevej 98 4880 Nysted,98,650000.0,08-02-2012,Alm.,5416,4,Villa,120,1910,
+Sakskøbingvej 121 4880 Nysted,121,540000.0,08-02-2012,Alm.,6136,4,Villa,88,1921,-9 %
+Bomstræde 5 4880 Nysted,5,60000.0,07-02-2012,Alm.,1000,2,Rækkehus,60,1761,
+Ndr Kongemarksvej 6 4880 Nysted,6,695000.0,03-01-2012,Alm.,7239,3,Rækkehus,96,1973,-7 %
+Strandvejen 77 4880 Nysted,77,1245000.0,29-12-2011,Alm.,11216,3,Villa,111,1884,0 %
+Strandhus Alleen 34 4880 Nysted,34,723500.0,15-11-2011,Fam.,5882,6,Sommerhus,123,1922,
+Jernbanegade 25 4880 Nysted,25,450000.0,15-11-2011,Alm.,3284,4,Villa,137,1914,-18 %
+Ndr Kongemarksvej 10 4880 Nysted,10,510000.0,08-11-2011,Alm.,5368,3,Rækkehus,95,1973,-6 %
+Sakskøbingvej 20 4880 Nysted,20,850000.0,14-10-2011,Alm.,2881,8,Villa,295,1924,-22 %
+Bomstræde 16 4880 Nysted,16,900000.0,23-09-2011,Alm.,7377,3,Villa,122,1948,
+Bramsløkkevej 4 4880 Nysted,4,600000.0,20-09-2011,Fam.,5172,5,Stuehus,116,1921,
+Rosenvænget 20 4880 Nysted,20,925000.0,02-09-2011,Alm.,5640,5,Villa,164,1976,-23 %
+Stubberupvej 19 4880 Nysted,19,50000.0,10-08-2011,Auktion,641,3,Villa,78,1900,-92 %
+Kløverrevle 1 4880 Nysted,1,1000000.0,24-06-2011,Alm.,10416,3,Sommerhus,96,1985,-13 %
+Skovstræde 14 4880 Nysted,14,415000.0,17-06-2011,Alm.,4322,4,Villa,96,1902,
+Solsortvej 5 4880 Nysted,5,1015000.0,10-06-2011,Alm.,5935,4,Villa,171,1974,-12 %
+Søvej 3 4880 Nysted,3,1000000.0,16-05-2011,Alm.,6756,5,Villa,148,1934,-22 %
+Østergade 3 4880 Nysted,3,875000.0,11-04-2011,Alm.,7291,6,Villa,120,1912,-6 %
+Stubberupvej 41 4880 Nysted,41,544000.0,05-04-2011,Fam.,4814,5,Villa,113,1802,
+Adelgade 2C 4880 Nysted,0,925000.0,30-03-2011,Alm.,4743,5,Villa,195,1953,-14 %
+Mårbækvej 2 4880 Nysted,2,600000.0,29-03-2011,Alm.,6741,3,Villa,89,1973,-8 %
+Egholmvej 34 4880 Nysted,34,6250000.0,24-03-2011,Alm.,75301,3,Villa,83,1850,
+Fiskergade 16 4880 Nysted,16,287500.0,21-03-2011,Andet,3230,3,Rækkehus,89,1878,
+Søvej 2 4880 Nysted,2,875000.0,21-03-2011,Alm.,9510,2,Villa,92,1939,-5 %
+Bomstræde 8 4880 Nysted,8,645000.0,10-03-2011,Alm.,6649,4,Rækkehus,97,1895,0 %
+Wichmandsvej 21 4880 Nysted,21,652250.0,09-03-2011,Auktion,5435,4,Villa,120,1968,
+Adelgade 58A 4880 Nysted,0,2300000.0,08-03-2011,Alm.,15131,6,Villa,152,1939,-11 %
+Fiskergade 4 4880 Nysted,4,600000.0,24-02-2011,Alm.,3225,3,Rækkehus,186,1847,
+Gartnerparken 16 4880 Nysted,16,365000.0,18-01-2011,Alm.,8295,1,Rækkehus,44,1971,-3 %
+Holtevej 11 4880 Nysted,11,1375000.0,17-01-2011,Alm.,11088,5,Villa,124,1923,25 %
+Lindholmvej 7 4880 Nysted,7,625000.0,11-01-2011,Auktion,8561,4,Villa,73,1986,-10 %
+Sælvej 6 4880 Nysted,6,1860000.0,10-01-2011,Alm.,16173,5,Sommerhus,115,2007,-7 %
+Adelgade 100 4880 Nysted,100,715000.0,06-01-2011,Alm.,6383,2,Villa,112,1833,
+Svanevangen 2 4880 Nysted,2,400000.0,22-12-2010,Alm.,3669,4,Sommerhus,109,2012,
+Rosenvænget 12 4880 Nysted,12,1330000.0,21-12-2010,Alm.,8260,4,Villa,161,1975,-5 %
+Kirkestien 10 4880 Nysted,10,625000.0,17-12-2010,Alm.,4844,4,Villa,129,1911,-10 %
+Sakskøbingvej 40A 4880 Nysted,0,260000.0,16-12-2010,Alm.,1361,4,Villa,191,1840,-63 %
+Vantorevej 123 4880 Nysted,123,1712358.0,13-12-2010,Fam.,6008,10,Stuehus,285,1917,
+Kløverrevle 14 4880 Nysted,14,900000.0,06-12-2010,Alm.,15254,3,Sommerhus,59,1978,-5 %
+Strandhus Alleen 10 4880 Nysted,10,1500000.0,02-12-2010,Andet,11029,6,Stuehus,136,1914,
+Vantorevej 93 4880 Nysted,93,5002.0,24-11-2010,Auktion,64,2,Villa,77,1892,-99 %
+Jernbanegade 14 4880 Nysted,14,615000.0,17-11-2010,Alm.,6029,5,Rækkehus,102,1912,-2 %
+Stilund 6 4880 Nysted,6,587000.0,15-11-2010,Fam.,4891,4,Sommerhus,120,1852,
+Kallehavevej 19 4880 Nysted,19,925000.0,08-11-2010,Alm.,8409,5,Sommerhus,110,1900,-18 %
+Adelgade 89 4880 Nysted,89,35223.0,01-11-2010,Fam.,457,3,Rækkehus,77,1847,
+Bomstræde 7 4880 Nysted,7,75000.0,27-10-2010,Auktion,1562,1,Rækkehus,48,1761,
+Birkely 35 4880 Nysted,35,850000.0,05-10-2010,Alm.,16666,3,Sommerhus,51,1976,
+Lindholmvej 12 4880 Nysted,12,575000.0,29-09-2010,Alm.,4791,4,Villa,120,1976,-8 %
+Søndergade 12 4880 Nysted,12,430000.0,23-09-2010,Alm.,4387,4,Rækkehus,98,1900,
+Skovstræde 8 4880 Nysted,8,445000.0,17-09-2010,Alm.,3836,5,Rækkehus,116,1910,0 %
+Vinkelvej 1 4880 Nysted,1,463500.0,27-08-2010,Fam.,2726,7,Villa,170,1971,
+Strandhus Alleen 6 4880 Nysted,6,2300000.0,26-08-2010,Alm.,11734,4,Villa,196,1914,15 %
+Vantorevej 22 4880 Nysted,22,577000.0,18-08-2010,Alm.,4579,6,Villa,126,1926,-55 %
+Vantorevej 82 4880 Nysted,82,450000.0,02-06-2010,Auktion,3600,4,Villa,125,1877,
+Vantorevej 24 4880 Nysted,24,550000.0,31-05-2010,Alm.,6875,4,Villa,80,1948,-12 %
+Egholmvej 6 4880 Nysted,6,495000.0,25-05-2010,Alm.,4583,3,Villa,108,1967,
+Vantorevej 46 4880 Nysted,46,600000.0,20-04-2010,Fam.,1600,12,Villa,375,1907,
+Musse Gade 8 4880 Nysted,8,525000.0,05-04-2010,Alm.,4101,4,Villa,128,1962,-9 %
+Wichmandsvej 16 4880 Nysted,16,695000.0,29-03-2010,Alm.,7637,3,Villa,91,1981,0 %
+Rosenvænget 32 4880 Nysted,32,700000.0,17-03-2010,Fam.,5384,4,Villa,130,1976,
+Vantorevej 111 4880 Nysted,111,327294.0,23-02-2010,Alm.,1798,9,Stuehus,182,1952,
+Holtevej 1 4880 Nysted,1,4123000.0,21-12-2009,Fam.,18656,7,Stuehus,221,1916,
+Holtevej 3 4880 Nysted,3,11152000.0,21-12-2009,Fam.,50234,7,Stuehus,222,1890,
+Gartnerparken 8 4880 Nysted,8,350000.0,20-12-2009,Alm.,7954,1,Rækkehus,44,1971,
+Sakskøbingvej 12 4880 Nysted,12,385067.0,24-11-2009,Alm.,2852,5,Villa,135,1900,
+Birkely 18 4880 Nysted,18,782000.0,30-10-2009,Fam.,15959,3,Sommerhus,49,1980,
+Østerrevle 14 4880 Nysted,14,1200000.0,30-10-2009,Alm.,20000,4,Sommerhus,60,2005,-4 %
+Adelgade 93 4880 Nysted,93,475000.0,15-10-2009,Alm.,2987,5,Rækkehus,159,1761,-4 %
+Rosenvænget 2 4880 Nysted,2,1150000.0,01-10-2009,Alm.,9055,4,Villa,127,1976,-2 %
+Våsenvej 11 4880 Nysted,11,900000.0,22-09-2009,Fam.,6666,3,Villa,135,1900,
+Ved Havnen 4 4880 Nysted,4,1200000.0,21-09-2009,Alm.,7407,5,Villa,162,1877,-20 %
+Vantorevej 62 4880 Nysted,62,280000.0,17-09-2009,Alm.,2947,4,Villa,95,1912,-27 %
+Tågense Engvej 6 4880 Nysted,6,5080000.0,03-09-2009,Alm.,23090,6,Stuehus,220,1950,
+Drosselvej 7 4880 Nysted,7,1245000.0,29-06-2009,Alm.,8892,5,Villa,140,1974,0 %
+Drosselvej 8 4880 Nysted,8,1400000.0,24-06-2009,Alm.,6511,4,Villa,215,1974,-5 %
+Birkely 20 4880 Nysted,20,850000.0,17-06-2009,Alm.,11805,4,Sommerhus,72,1977,-4 %
+Ternevangen 5 4880 Nysted,5,350000.0,12-06-2009,Alm.,3723,4,Sommerhus,94,2008,
+Stubberupvej 4 4880 Nysted,4,375000.0,10-06-2009,Alm.,3289,4,Villa,114,1921,0 %
+Gartnerparken 38 4880 Nysted,38,525000.0,03-06-2009,Alm.,8750,2,Rækkehus,60,1973,
+Gartnerparken 60 4880 Nysted,60,560000.0,30-05-2009,Alm.,9333,2,Rækkehus,60,1976,-10 %
+Jernbanegade 12 4880 Nysted,12,910000.0,25-05-2009,Alm.,7583,6,Rækkehus,120,1912,-8 %
+Lille Mussevej 9 4880 Nysted,9,695000.0,15-05-2009,Alm.,7020,3,Villa,99,1877,0 %
+Marsvinvej 3 4880 Nysted,3,1575000.0,05-05-2009,Alm.,16755,4,Sommerhus,94,2006,-5 %
+Sakskøbingvej 29 4880 Nysted,29,800000.0,16-04-2009,Alm.,6153,3,Villa,130,1942,-6 %
+Birkely 75 4880 Nysted,75,950000.0,07-04-2009,Alm.,13194,4,Sommerhus,72,1979,-13 %
+Strandvejen 83 4880 Nysted,83,3145000.0,05-03-2009,Alm.,13614,5,Villa,231,1910,-2 %
+Gl Torv 27 4880 Nysted,27,425000.0,02-03-2009,Alm.,6538,3,Rækkehus,65,1854,0 %
+Gl Torv 8 4880 Nysted,8,600000.0,06-02-2009,Alm.,5504,4,Rækkehus,109,1842,
+Skansevej 15C 4880 Nysted,0,995000.0,20-01-2009,Alm.,6180,5,Villa,161,1979,0 %
+Vantore Strandvej 6 4880 Nysted,6,403750.0,18-01-2009,Andet,3773,4,Sommerhus,107,1908,
+Søvej 6 4880 Nysted,6,1450000.0,20-12-2008,Alm.,17901,2,Villa,81,1941,-9 %
+Bagstræde 12 4880 Nysted,12,1086453.0,19-12-2008,Andet,7195,10,Villa,151,1919,
+Solgårdsvej 9 4880 Nysted,9,33496890.0,19-12-2008,Fam.,151569,8,Stuehus,221,1928,
+Rosenvænget 25 4880 Nysted,25,1450000.0,09-12-2008,Alm.,10661,4,Villa,136,1986,
+Vognmandsmarken 6 4880 Nysted,6,1336500.0,26-11-2008,Alm.,8735,5,Villa,153,1972,
+Strandhustværvej 1 4880 Nysted,1,1495000.0,18-11-2008,Alm.,15904,4,Sommerhus,94,2008,
+Bramsløkkevej 7A 4880 Nysted,0,6630000.0,10-11-2008,Fam.,12010,14,Stuehus,552,1700,
+Fiskergade 14 4880 Nysted,14,700000.0,28-10-2008,Alm.,9859,3,Rækkehus,71,1878,-7 %
+Vantorevej 115 4880 Nysted,115,260000.0,14-10-2008,Alm.,4333,4,Sommerhus,60,1827,
+Vantorevej 50 4880 Nysted,50,4200976.0,13-10-2008,Alm.,12319,10,Stuehus,341,1911,
+Havnegade 4 4880 Nysted,4,2500000.0,10-10-2008,Alm.,20000,5,Villa,125,2007,
+Egholmvej 7 4880 Nysted,7,2500000.0,30-09-2008,Alm.,28089,4,Stuehus,89,1867,
+Vestvej 14 4880 Nysted,14,3570000.0,21-09-2008,Alm.,19833,5,Stuehus,180,1924,
+Musse Gade 11 4880 Nysted,11,1240000.0,17-09-2008,Alm.,7294,5,Villa,170,1902,-11 %
+Stubberupvej 6 4880 Nysted,6,825000.0,26-08-2008,Alm.,7236,5,Villa,114,1935,0 %
+Adelgade 57 4880 Nysted,57,695000.0,30-07-2008,Alm.,10220,3,Rækkehus,68,1777,-5 %
+Vantorevej 30 4880 Nysted,30,770500.0,28-07-2008,Fam.,4939,3,Villa,156,1968,
+Østersvej 9 4880 Nysted,9,3500000.0,25-07-2008,Alm.,30434,5,Sommerhus,115,2007,
+Jernbanegade 19 4880 Nysted,19,1300000.0,21-07-2008,Alm.,9285,4,Villa,140,1913,-7 %
+Gl Torv 13 4880 Nysted,13,1230000.0,18-07-2008,Alm.,6089,7,Villa,202,1882,-11 %
+Skansevej 11 4880 Nysted,11,975000.0,16-07-2008,Alm.,12500,2,Villa,78,1965,-7 %
+Smedepladsen 1 4880 Nysted,1,995000.0,16-07-2008,Alm.,6862,5,Villa,145,1912,-7 %
+Sakskøbingvej 64 4880 Nysted,64,500000.0,16-07-2008,Alm.,5050,3,Villa,99,1930,-8 %
+Wichmandsvej 10 4880 Nysted,10,2450000.0,25-06-2008,Andet,16225,13,Engroshandel,151,1977,
+Brønholtvej 1 4880 Nysted,1,765000.0,21-06-2008,Alm.,7806,5,Villa,98,1908,-10 %
+Egholmvej 12 4880 Nysted,12,675000.0,12-06-2008,Alm.,5672,4,Villa,119,1900,-9 %
+Pilestrædet 4 4880 Nysted,4,1550000.0,30-05-2008,Alm.,9810,3,Villa,158,1857,-3 %
+Muslingevej 4 4880 Nysted,4,1815000.0,13-05-2008,Alm.,19308,4,Sommerhus,94,2007,-4 %
+Vantorevej 109 4880 Nysted,109,834134.0,09-05-2008,Alm.,7795,4,Villa,107,1920,6 %
+Birkely 41 4880 Nysted,41,1320000.0,08-05-2008,Alm.,24444,4,Sommerhus,54,1981,-1 %
+Sakskøbingvej 36 4880 Nysted,36,251249.0,07-05-2008,Andet,3489,2,Villa,72,1907,
+Ndr Kongemarksvej 15 4880 Nysted,15,1900000.0,18-04-2008,Alm.,9134,6,Villa,208,1974,
+Adelgade 2A 4880 Nysted,0,1200000.0,13-04-2008,Alm.,10619,5,Villa,113,1944,
+Muslingevej 2 4880 Nysted,2,1662500.0,11-04-2008,Alm.,17686,3,Sommerhus,94,2007,0 %
+Tåstrupvej 3 4880 Nysted,3,19000000.0,27-03-2008,Alm.,69090,8,Stuehus,275,1887,
+Jernbanegade 10 4880 Nysted,10,1325000.0,27-03-2008,Alm.,10433,6,Villa,127,1924,-5 %
+Gl Torv 11 4880 Nysted,11,1900000.0,27-03-2008,Alm.,11728,5,Villa,162,1850,-4 %
+Kattesundet 9B 4880 Nysted,0,850000.0,24-03-2008,Alm.,7727,3,Villa,110,1974,-5 %
+Ndr Kongemarksvej 14 4880 Nysted,14,885000.0,19-03-2008,Alm.,9619,3,Rækkehus,92,1973,
+Smedepladsen 2 4880 Nysted,2,188559.0,14-03-2008,Fam.,1135,4,Villa,166,1907,
+Ndr Kongemarksvej 9 4880 Nysted,9,1500000.0,03-03-2008,Alm.,8152,4,Villa,184,1974,-3 %
+Sakskøbingvej 28 4880 Nysted,28,970000.0,26-02-2008,Alm.,6466,4,Villa,150,1910,-3 %
+Vantore Strandvej 2 4880 Nysted,2,1675000.0,21-02-2008,Alm.,7545,6,Villa,222,1870,0 %
+Sakskøbingvej 9 4880 Nysted,9,560000.0,30-01-2008,Alm.,5333,4,Villa,105,1934,
+Kallehavevej 6 4880 Nysted,6,260256.0,22-01-2008,Alm.,5103,2,Villa,51,1877,-29 %
+Strandhusvej 1 4880 Nysted,1,1612500.0,21-01-2008,Alm.,17154,4,Sommerhus,94,2008,-3 %
+Våsenvej 9 4880 Nysted,9,1325000.0,16-01-2008,Alm.,9137,4,Villa,145,1908,-5 %
+Ny Østergade 5 4880 Nysted,5,960000.0,15-01-2008,Fam.,4637,7,Villa,207,1902,-28 %
+Holtevej 5 4880 Nysted,5,810000.0,15-01-2008,Fam.,5436,5,Villa,149,1900,
+Aarestrupvej 10 4880 Nysted,10,1075000.0,15-01-2008,Fam.,8269,6,Villa,130,1964,
+Solsortvej 3 4880 Nysted,3,1465000.0,04-01-2008,Alm.,12310,4,Villa,119,1974,
+Pilestrædet 1 4880 Nysted,1,476000.0,03-01-2008,Fam.,3552,3,Villa,134,1930,
+Adelgade 9 4880 Nysted,9,750000.0,21-12-2007,Alm.,7894,3,Rækkehus,95,1882,-6 %
+"Adelgade 51, 1 4880 Nysted",1,493000.0,20-12-2007,Fam.,3792,5,Rækkehus,130,1873,
+Østersvej 5 4880 Nysted,5,2348000.0,19-12-2007,Alm.,20417,5,Sommerhus,115,2007,0 %
+Bomstræde 9 4880 Nysted,9,1220000.0,10-12-2007,Alm.,8413,4,Villa,145,1907,-7 %
+Smedestræde 9 4880 Nysted,9,950000.0,06-12-2007,Alm.,8482,4,Villa,112,1915,-5 %
+Lærkevej 8 4880 Nysted,8,1375000.0,05-12-2007,Alm.,8814,5,Villa,156,1973,-4 %
+Bomstræde 6 4880 Nysted,6,695000.0,19-11-2007,Alm.,6261,5,Rækkehus,111,1895,-16 %
+Egely 17 4880 Nysted,17,399900.0,03-11-2007,Alm.,3845,5,Sommerhus,104,2008,
+Ternevangen 11 4880 Nysted,11,1812500.0,30-10-2007,Alm.,15760,4,Sommerhus,115,2008,4 %
+Fiskergade 9 4880 Nysted,9,850000.0,22-10-2007,Alm.,7327,5,Sommerhus,116,1761,
+Egely 19 4880 Nysted,19,485000.0,21-10-2007,Alm.,4330,4,Sommerhus,112,2008,
+Bøgely 13 4880 Nysted,13,437900.0,14-10-2007,Alm.,3679,4,Sommerhus,119,2013,
+Birkely 79 4880 Nysted,79,575000.0,07-10-2007,Alm.,0,3,Sommerhus,96,1979,6 %
+Tågense Engvej 20 4880 Nysted,20,500000.0,01-10-2007,Alm.,3086,6,Sommerhus,162,1877,
+Stubberupvej 16 4880 Nysted,16,1045000.0,29-09-2007,Alm.,8427,3,Sommerhus,124,1880,
+Østersvej 6 4880 Nysted,6,2348000.0,28-09-2007,Alm.,20417,5,Sommerhus,115,2007,0 %
+Birkely 78 4880 Nysted,78,1425000.0,26-09-2007,Alm.,24152,4,Sommerhus,59,1989,-2 %
+Ternevangen 7 4880 Nysted,7,1812500.0,25-09-2007,Alm.,15760,5,Sommerhus,115,2008,1 %
+Vantorevej 78 4880 Nysted,78,550000.0,13-09-2007,Fam.,3571,7,Villa,154,1905,
+Egholmvej 32 4880 Nysted,32,1275000.0,10-09-2007,Alm.,10897,5,Villa,117,1920,0 %
+Østersvej 10 4880 Nysted,10,2800000.0,31-08-2007,Alm.,24347,5,Sommerhus,115,2007,
+Drosselvej 6 4880 Nysted,6,1490000.0,27-08-2007,Alm.,7760,5,Villa,192,1973,-7 %
+Strandhustværvej 3 4880 Nysted,3,1612500.0,20-08-2007,Alm.,17154,4,Sommerhus,94,2008,
+Adelgade 88 4880 Nysted,88,1250000.0,20-08-2007,Alm.,0,5,Rækkehus,172,1855,0 %
+Ndr Kongemarksvej 12 4880 Nysted,12,800000.0,16-08-2007,Alm.,10000,3,Rækkehus,80,1975,-6 %
+Hvedevænget 2 4880 Nysted,2,215576.0,15-08-2007,Alm.,1507,5,Villa,143,2008,
+Sakskøbingvej 52 4880 Nysted,52,3974300.0,10-08-2007,Fam.,22581,6,Stuehus,176,1877,
+Vantorevej 49 4880 Nysted,49,1050000.0,07-08-2007,Alm.,6176,7,Villa,170,1913,-9 %
+Smedestræde 11 4880 Nysted,11,685000.0,07-08-2007,Alm.,5150,7,Rækkehus,133,1853,-7 %
+Birkely 52 4880 Nysted,52,603500.0,06-08-2007,Alm.,11605,4,Sommerhus,52,1980,
+Strandvejen 59 4880 Nysted,59,1725000.0,03-08-2007,Alm.,9971,7,Rækkehus,173,1913,
+Hvedevænget 19 4880 Nysted,19,217630.0,01-08-2007,Alm.,1554,4,Villa,140,2008,
+Bøgely 2 4880 Nysted,2,429900.0,29-07-2007,Alm.,4573,4,Sommerhus,94,2008,
+Bøgely 6 4880 Nysted,6,399900.0,24-07-2007,Alm.,7405,3,Sommerhus,54,2008,
+Bøgely 8 4880 Nysted,8,399900.0,24-07-2007,Alm.,6555,3,Sommerhus,61,1976,
+Kløverrevle 4 4880 Nysted,4,1500000.0,16-07-2007,Alm.,20000,4,Sommerhus,75,1987,
+Vantorevej 63 4880 Nysted,63,1150000.0,16-07-2007,Alm.,5637,9,Villa,204,1948,0 %
+Ternevangen 1 4880 Nysted,1,1812500.0,09-07-2007,Alm.,15760,5,Sommerhus,115,2007,1 %
+Muslingevej 10 4880 Nysted,10,3200000.0,06-07-2007,Alm.,27826,5,Sommerhus,115,2007,-2 %
+Aarestrupvej 15 4880 Nysted,15,1100000.0,05-07-2007,Alm.,8527,5,Villa,129,1950,-35 %
+Skansevej 8 4880 Nysted,8,1375000.0,02-07-2007,Alm.,10338,4,Villa,133,1908,
+Ternevangen 3 4880 Nysted,3,1612500.0,01-07-2007,Alm.,17154,4,Sommerhus,94,2008,1 %
+Birkely 57 4880 Nysted,57,1395000.0,27-06-2007,Alm.,20217,4,Sommerhus,69,2001,0 %
+Birkely 95 4880 Nysted,95,2500000.0,25-06-2007,Alm.,33333,3,Sommerhus,75,2000,
+Sakskøbingvej 27 4880 Nysted,27,900000.0,25-06-2007,Alm.,5172,7,Villa,174,1943,
+Sakskøbingvej 3 4880 Nysted,3,760000.0,22-06-2007,Alm.,5984,5,Villa,127,1954,-2 %
+Bomstræde 21B 4880 Nysted,0,950000.0,19-06-2007,Alm.,8636,3,Villa,110,1958,
+Stubberupvej 31 4880 Nysted,31,523000.0,12-06-2007,Fam.,8864,2,Villa,59,1777,
+Gl Torv 23 4880 Nysted,23,1337500.0,12-06-2007,Alm.,16930,4,Rækkehus,79,1854,
+Slotsgade 14 4880 Nysted,14,700000.0,24-05-2007,Alm.,6194,4,Villa,113,1807,
+Østerrevle 11 4880 Nysted,11,1645000.0,12-05-2007,Alm.,18693,4,Sommerhus,88,2005,
+Lærkevej 7 4880 Nysted,7,1125000.0,11-05-2007,Alm.,10044,4,Villa,112,1973,
+Østergade 7 4880 Nysted,7,825000.0,08-05-2007,Alm.,8168,4,Villa,101,1877,-6 %
+Rosenvænget 28 4880 Nysted,28,1275000.0,02-05-2007,Alm.,11590,3,Villa,110,1977,0 %
+Gadeparterne 9 4880 Nysted,9,1050000.0,01-05-2007,Alm.,6730,5,Villa,156,1980,
+Fjordvej 29 4880 Nysted,29,1700000.0,20-04-2007,Alm.,11971,6,Villa,142,1967,
+Lille Mussevej 8 4880 Nysted,8,200000.0,12-04-2007,Andet,2352,2,Villa,85,1940,
+Byfoged Holcksvej 11 4880 Nysted,11,1150000.0,11-04-2007,Alm.,8914,5,Villa,129,1970,
+Sakskøbingvej 4 4880 Nysted,4,685000.0,10-04-2007,Alm.,5708,5,Villa,120,1777,
+Vestvej 1 4880 Nysted,1,315000.0,02-04-2007,Andet,3058,2,Villa,103,1926,
+Fjordvej 27 4880 Nysted,27,1060000.0,29-03-2007,Alm.,6424,5,Villa,165,1967,
+Egholmvej 14B 4880 Nysted,0,551399.0,26-03-2007,Alm.,4209,4,Villa,131,1988,
+Bomstræde 4 4880 Nysted,4,600000.0,16-03-2007,Alm.,6382,3,Rækkehus,94,1895,
+Sakskøbingvej 79 4880 Nysted,79,2675000.0,06-03-2007,Alm.,14153,8,Villa,189,1901,-1 %
+Adelgade 4B 4880 Nysted,0,930000.0,26-02-2007,Fam.,7948,2,Rækkehus,117,1872,
+Østersvej 2 4880 Nysted,2,1712500.0,21-02-2007,Alm.,18218,4,Sommerhus,94,2007,
+Valtersvej 4 4880 Nysted,4,1430000.0,20-02-2007,Alm.,10437,6,Villa,137,1918,
+Ternevangen 9 4880 Nysted,9,1812500.0,20-02-2007,Alm.,15760,5,Sommerhus,115,2007,
+Solgårdsvej 2 4880 Nysted,2,1185000.0,12-02-2007,Alm.,5266,6,Villa,225,1850,10 %
+Trepilevej 11 4880 Nysted,11,2002500.0,02-02-2007,Fam.,16149,3,Stuehus,124,1930,
+Fiskergade 11 4880 Nysted,11,1000000.0,29-01-2007,Alm.,8196,5,Rækkehus,122,1857,
+Adelgade 75 4880 Nysted,75,1125000.0,11-01-2007,Alm.,11250,5,Rækkehus,100,1835,
+Pilestrædet 5A 4880 Nysted,0,471500.0,01-01-2007,Alm.,3416,4,Villa,138,1971,
+Strandstræde 4 4880 Nysted,4,1850000.0,11-12-2006,Alm.,10882,5,Villa,170,1833,
+Adelgade 1B 4880 Nysted,0,695000.0,11-12-2006,Alm.,9652,2,Rækkehus,72,1895,
+Skibsbrostræde 2 4880 Nysted,2,470030.0,01-12-2006,Andet,2764,4,Rækkehus,170,1761,
+Muslingevej 6 4880 Nysted,6,2112100.0,13-11-2006,Alm.,22469,4,Sommerhus,94,2007,
+Rosenvænget 34 4880 Nysted,34,1350000.0,31-10-2006,Alm.,9000,5,Villa,150,1976,
+Solgårdsvej 5 4880 Nysted,5,1895000.0,29-10-2006,Alm.,5742,7,Villa,330,1907,
+Fiskergade 24 4880 Nysted,24,2250000.0,26-10-2006,Alm.,12500,7,Rækkehus,180,1908,
+Hvedevænget 17 4880 Nysted,17,1985000.0,24-10-2006,Alm.,13233,4,Villa,150,2006,
+Strandvejen 95 4880 Nysted,95,2345000.0,23-10-2006,Alm.,22766,4,Villa,103,1954,
+Adelgade 79 4880 Nysted,79,1195000.0,23-10-2006,Alm.,9335,6,Rækkehus,128,1928,
+Søndergade 16 4880 Nysted,16,960000.0,20-10-2006,Alm.,7384,5,Rækkehus,130,1900,
+Rosenvænget 10 4880 Nysted,10,1300050.0,18-10-2006,Alm.,8784,5,Villa,148,1975,
+Østergade 10 4880 Nysted,10,675000.0,17-10-2006,Alm.,7105,3,Villa,95,1956,
+Kallehavevej 15 4880 Nysted,15,500000.0,10-10-2006,Alm.,2840,4,Villa,176,1900,
+Adelgade 72 4880 Nysted,72,2400000.0,09-10-2006,Alm.,10909,5,Rækkehus,220,1919,
+Kattesundet 13 4880 Nysted,13,450000.0,06-10-2006,Alm.,2812,6,Rækkehus,160,1874,
+Birkely 88 4880 Nysted,88,2225000.0,04-10-2006,Alm.,26807,4,Sommerhus,83,1976,
+Egholmvej 16 4880 Nysted,16,1145000.0,25-09-2006,Alm.,8297,3,Villa,138,1917,
+Stubberupvej 40 4880 Nysted,40,300000.0,19-09-2006,Alm.,2970,4,Villa,101,1967,
+Østersøvej 21 4880 Nysted,21,750000.0,15-09-2006,Alm.,17857,2,Sommerhus,42,1962,
+Aarestrupvej 7 4880 Nysted,7,745000.0,14-09-2006,Alm.,9933,3,Villa,75,1959,
+Vantorevej 91 4880 Nysted,91,400000.0,10-09-2006,Alm.,4651,3,Villa,86,1850,
+Muslingevej 8 4880 Nysted,8,2426395.0,08-09-2006,Alm.,25812,4,Sommerhus,94,2007,
+Skovstræde 12 4880 Nysted,12,700000.0,06-09-2006,Alm.,5833,7,Industri o.l.,120,1909,
+Birkely 23 4880 Nysted,23,780000.0,28-08-2006,Alm.,15600,3,Sommerhus,50,1976,
+Musse Gade 22 4880 Nysted,22,315982.0,22-08-2006,Andet,3224,4,Villa,98,1880,
+Jernbanegade 17 4880 Nysted,17,850000.0,21-08-2006,Alm.,5743,6,Villa,148,1912,
+Hvedevænget 8 4880 Nysted,8,219684.0,21-08-2006,Alm.,1339,5,Villa,164,2009,
+Tværvej 3 4880 Nysted,3,545000.0,11-08-2006,Alm.,5736,4,Villa,95,1964,
+Rosenvænget 21 4880 Nysted,21,1325000.0,09-08-2006,Alm.,12045,4,Villa,110,1979,
+Tågense Engvej 12 4880 Nysted,12,1250000.0,08-08-2006,Alm.,16891,4,Sommerhus,74,1897,
+Hovbøllevej 4 4880 Nysted,4,1995000.0,04-08-2006,Alm.,6027,11,Villa,331,1921,
+Tågense Engvej 1 4880 Nysted,1,965000.0,21-07-2006,Fam.,8616,3,Stuehus,112,1900,
+Pilestrædet 12 4880 Nysted,12,425000.0,20-07-2006,Alm.,3899,7,Villa,109,1952,
+Østersøvej 14 4880 Nysted,14,1200000.0,17-07-2006,Alm.,19047,5,Sommerhus,63,1965,
+Birkely 45 4880 Nysted,45,330000.0,17-07-2006,Alm.,3586,4,Sommerhus,92,2008,
+Fiskergade 10A 4880 Nysted,0,680000.0,13-07-2006,Alm.,6126,2,Rækkehus,111,1857,
+Slotsgade 16 4880 Nysted,16,799000.0,13-07-2006,Fam.,13775,3,Villa,58,1862,
+Vestvej 9 4880 Nysted,9,6360000.0,13-07-2006,Fam.,16224,6,Stuehus,392,1914,
+Hvedevænget 6 4880 Nysted,6,219526.0,12-07-2006,Alm.,1346,5,Villa,163,2007,
+Østersvej 8 4880 Nysted,8,2698000.0,12-07-2006,Alm.,23460,5,Sommerhus,115,2007,
+Vantorevej 80 4880 Nysted,80,885000.0,09-07-2006,Alm.,9943,4,Sommerhus,89,1872,
+Sakskøbingvej 67 4880 Nysted,67,675000.0,05-07-2006,Alm.,6367,5,Villa,106,1946,
+Rosenvænget 5 4880 Nysted,5,1750000.0,30-06-2006,Alm.,7352,6,Villa,238,1980,
+Østergade 23 4880 Nysted,23,465000.0,28-06-2006,Alm.,10108,2,Villa,46,1840,
+Stubberupvej 5 4880 Nysted,5,785000.0,20-06-2006,Alm.,5946,4,Villa,132,1959,
+Hvedevænget 15 4880 Nysted,15,234175.0,15-06-2006,Alm.,1858,4,Villa,126,2009,
+Muslingevej 3 4880 Nysted,3,2076250.0,14-06-2006,Alm.,18054,5,Sommerhus,115,2007,
+Sakskøbingvej 31 4880 Nysted,31,865000.0,10-06-2006,Alm.,6360,3,Villa,136,1941,
+Muslingevej 7 4880 Nysted,7,2632345.0,07-06-2006,Alm.,22889,5,Sommerhus,115,2007,
+Muslingevej 5 4880 Nysted,5,2322126.0,02-06-2006,Alm.,20192,5,Sommerhus,115,2007,
+Østersvej 3 4880 Nysted,3,2012500.0,02-06-2006,Alm.,17500,5,Sommerhus,115,2007,
+Kirkestien 7 4880 Nysted,7,800000.0,09-05-2006,Alm.,10256,4,Rækkehus,78,1909,
+Aarestrupvej 6 4880 Nysted,6,875000.0,08-05-2006,Alm.,8333,4,Villa,105,1966,
+Sakskøbingvej 84 4880 Nysted,84,475000.0,08-05-2006,Alm.,4241,3,Villa,112,1951,
+Sakskøbingvej 59B 4880 Nysted,0,945250.0,05-05-2006,Alm.,6610,5,Villa,143,1973,
+Sdr Kirkestræde 1 4880 Nysted,1,484000.0,01-05-2006,Fam.,4321,3,Villa,112,1979,
+Adelgade 23 4880 Nysted,23,1250000.0,28-04-2006,Alm.,4545,9,Rækkehus,275,1870,
+Birkely 76 4880 Nysted,76,1150000.0,17-04-2006,Alm.,11500,4,Sommerhus,100,1987,
+Østersvej 7 4880 Nysted,7,2748000.0,14-04-2006,Alm.,23895,5,Sommerhus,115,2007,
+C A Hansensvej 3 4880 Nysted,3,1325000.0,10-04-2006,Alm.,8833,5,Villa,150,1972,
+Aarestrupvej 9 4880 Nysted,9,850000.0,25-03-2006,Alm.,10240,3,Villa,83,1960,
+Skovstræde 9 4880 Nysted,9,1050000.0,14-03-2006,Alm.,7291,5,Villa,144,1924,
+Ndr Kongemarksvej 2A 4880 Nysted,0,375800.0,01-03-2006,Fam.,3955,3,Rækkehus,95,1973,
+Gartnerparken 2 4880 Nysted,2,525000.0,20-02-2006,Alm.,11931,1,Rækkehus,44,1971,
+Rødstensrevle 2 4880 Nysted,2,729000.0,13-02-2006,Fam.,9227,3,Sommerhus,79,1976,
+Kallehavevej 13 4880 Nysted,13,410000.0,05-02-2006,Alm.,6307,3,Villa,65,1969,
+Østergade 14 4880 Nysted,14,1015000.0,04-02-2006,Alm.,7992,6,Villa,127,1925,
+Sælvej 2 4880 Nysted,2,1848000.0,02-02-2006,Alm.,16069,5,Sommerhus,115,2007,
+Musse Gade 26 4880 Nysted,26,502250.0,02-02-2006,Alm.,5022,3,Villa,100,1912,
+Musse Gade 24 4880 Nysted,24,830000.0,01-02-2006,Alm.,6148,5,Villa,135,1900,
+Slotsgade 8 4880 Nysted,8,1400000.0,23-01-2006,Fam.,8235,5,Rækkehus,170,1761,
+Rosenvænget 3 4880 Nysted,3,42562.0,23-01-2006,Alm.,261,4,Villa,163,2009,
+Gartnerparken 24 4880 Nysted,24,555000.0,20-01-2006,Alm.,9250,2,Rækkehus,60,1973,
+Vantorevej 31 4880 Nysted,31,680000.0,17-01-2006,Alm.,8000,3,Rækkehus,85,1880,
+Tværvej 5 4880 Nysted,5,585000.0,16-01-2006,Alm.,7312,3,Villa,80,1963,
+Pilestrædet 3 4880 Nysted,3,340000.0,06-01-2006,Alm.,4250,4,Villa,80,1952,
+Vantorevej 56 4880 Nysted,56,880000.0,30-12-2005,Alm.,5827,4,Villa,151,1860,
+Sælvej 9 4880 Nysted,9,2848000.0,11-12-2005,Alm.,24765,5,Sommerhus,115,2007,
+Lindholmvej 10 4880 Nysted,10,1010000.0,08-12-2005,Alm.,4316,10,Villa,234,1977,
+Stilund 1 4880 Nysted,1,5300000.0,16-11-2005,Alm.,17785,9,Stuehus,298,1925,
+Østersøvej 15 4880 Nysted,15,950000.0,14-11-2005,Alm.,38000,6,Sommerhus,25,1968,
+Sakskøbingvej 71 4880 Nysted,71,1600000.0,14-11-2005,Alm.,1739,19,Villa,920,1979,
+Vestvej 6 4880 Nysted,6,795000.0,14-11-2005,Alm.,3916,3,Villa,203,1948,
+Vestvej 12 4880 Nysted,12,7033000.0,14-11-2005,Alm.,41370,5,Villa,170,1976,
+Marsvinvej 6 4880 Nysted,6,1598000.0,13-11-2005,Alm.,17000,4,Sommerhus,94,2006,
+Sælvej 5 4880 Nysted,5,1998000.0,02-11-2005,Alm.,17373,5,Sommerhus,115,2006,
+Sælvej 4 4880 Nysted,4,1698000.0,28-10-2005,Alm.,18063,4,Sommerhus,94,2006,
+Bomstræde 13 4880 Nysted,13,877000.0,24-10-2005,Alm.,6851,4,Villa,128,1882,
+Strandhus Alleen 26 4880 Nysted,26,1850000.0,23-10-2005,Alm.,10818,6,Villa,171,1956,
+Sælvej 7 4880 Nysted,7,2348000.0,22-10-2005,Alm.,20417,5,Sommerhus,115,2007,
+Sælvej 8 4880 Nysted,8,2348000.0,20-10-2005,Alm.,20417,5,Sommerhus,115,2007,
+Våsenvej 5 4880 Nysted,5,1600000.0,20-10-2005,Alm.,9523,7,Villa,168,1920,
+Marsvinvej 5 4880 Nysted,5,1848000.0,18-10-2005,Alm.,16069,5,Sommerhus,115,2006,
+Sakskøbingvej 115 4880 Nysted,115,925000.0,17-10-2005,Alm.,7007,4,Villa,132,1930,
+Marsvinvej 2 4880 Nysted,2,1548000.0,16-10-2005,Alm.,16468,4,Sommerhus,94,2007,
+Sælvej 10 4880 Nysted,10,2848000.0,16-10-2005,Alm.,24765,5,Sommerhus,115,2007,
+Marsvinvej 4 4880 Nysted,4,1598000.0,15-10-2005,Alm.,17000,4,Sommerhus,94,2005,
+Marsvinvej 10 4880 Nysted,10,2648000.0,15-10-2005,Alm.,23026,5,Sommerhus,115,2006,
+Marsvinvej 1 4880 Nysted,1,1498000.0,15-10-2005,Alm.,15936,4,Sommerhus,94,2006,
+Marsvinvej 8 4880 Nysted,8,2198000.0,15-10-2005,Alm.,19113,5,Sommerhus,115,2005,
+Marsvinvej 7 4880 Nysted,7,1948000.0,15-10-2005,Alm.,20723,4,Sommerhus,94,2007,
+Strandvejen 13 4880 Nysted,13,2960000.0,03-10-2005,Alm.,11699,5,Villa,253,1988,
+Stubberupvej 18 4880 Nysted,18,1095000.0,19-09-2005,Alm.,6083,7,Villa,180,1877,
+Søndergade 6 4880 Nysted,6,724227.0,02-09-2005,Alm.,7623,5,Rækkehus,95,1873,
+Bomstræde 17 4880 Nysted,17,575000.0,29-08-2005,Alm.,6534,4,Villa,88,1905,
+Sakskøbingvej 60 4880 Nysted,60,1235000.0,22-08-2005,Alm.,8576,5,Villa,144,1911,
+Trepilevej 4 4880 Nysted,4,690000.0,09-08-2005,Alm.,6000,6,Villa,115,1921,
+Østerrevle 4 4880 Nysted,4,1462500.0,08-08-2005,Alm.,21828,3,Sommerhus,67,1998,
+Gartnerparken 22 4880 Nysted,22,575000.0,03-08-2005,Alm.,9583,2,Rækkehus,60,1973,
+Skovstræde 20 4880 Nysted,20,1107000.0,01-08-2005,Alm.,8515,8,Stuehus,130,1880,
+Birkely 10 4880 Nysted,10,285000.0,28-07-2005,Alm.,6195,2,Sommerhus,46,2007,
+Stubberupvej 34 4880 Nysted,34,840292.0,26-07-2005,Alm.,5219,6,Villa,161,1968,
+Birkely 34 4880 Nysted,34,740000.0,22-07-2005,Alm.,14509,4,Sommerhus,51,1977,
+Lærkevej 1C 4880 Nysted,0,620000.0,22-07-2005,Alm.,8732,2,Rækkehus,71,1984,
+Kallehavevej 21 4880 Nysted,21,550000.0,19-07-2005,Alm.,4741,3,Villa,116,1877,
+Kirkestien 2A 4880 Nysted,0,715000.0,19-07-2005,Alm.,6745,4,Rækkehus,106,1978,
+Dalmosevej 9 4880 Nysted,9,870000.0,15-07-2005,Alm.,5878,4,Villa,148,1962,
+Våsenvej 7 4880 Nysted,7,2255000.0,09-06-2005,Alm.,0,7,Villa,140,1777,
+Kørsledsvej 4 4880 Nysted,4,300000.0,08-06-2005,Fam.,1666,5,Stuehus,180,1913,
+Søndergade 13 4880 Nysted,13,700000.0,06-06-2005,Alm.,7954,4,Villa,88,1967,
+Kirkestien 5 4880 Nysted,5,320000.0,06-06-2005,Alm.,7111,3,Rækkehus,45,1847,
+Hvedevænget 9 4880 Nysted,9,253207.0,26-05-2005,Alm.,1612,4,Villa,157,2007,
+Bagstræde 8 4880 Nysted,8,668000.0,19-05-2005,Alm.,2891,8,Villa,231,1915,
+Lindholmvej 4 4880 Nysted,4,200000.0,16-05-2005,Alm.,1351,4,Villa,148,2008,
+Hvedevænget 10 4880 Nysted,10,213838.0,12-05-2005,Alm.,1370,6,Villa,156,2009,
+Birkely 19 4880 Nysted,19,1295000.0,28-04-2005,Alm.,12950,5,Sommerhus,100,1988,
+Lille Mussevej 6 4880 Nysted,6,395000.0,20-04-2005,Alm.,2005,6,Stuehus,197,2001,
+Østerrevle 7 4880 Nysted,7,1500000.0,17-04-2005,Alm.,15789,4,Sommerhus,95,1998,
+Bomstræde 11 4880 Nysted,11,270470.0,01-04-2005,Andet,2253,5,Villa,120,1906,
+Vantorevej 59 4880 Nysted,59,620000.0,30-03-2005,Alm.,4305,6,Villa,144,1915,
+Musse Gade 5 4880 Nysted,5,520000.0,21-03-2005,Alm.,3768,5,Villa,138,1910,
+Kirkestien 3 4880 Nysted,3,275000.0,18-03-2005,Alm.,3928,3,Villa,70,1761,
+Vantorevej 89 4880 Nysted,89,965000.0,16-03-2005,Alm.,5391,4,Villa,179,1892,
+Birkely 85 4880 Nysted,85,1400000.0,07-03-2005,Alm.,22580,4,Sommerhus,62,1979,
+Fiskergade 13 4880 Nysted,13,514000.0,21-02-2005,Fam.,5711,3,Rækkehus,90,1835,
+Gl Torv 17 4880 Nysted,17,2000000.0,12-02-2005,Alm.,12195,5,Villa,164,1885,
+Østergade 33 4880 Nysted,33,206801.0,10-02-2005,Fam.,2223,4,Rækkehus,93,1856,
+Adelgade 96 4880 Nysted,96,300000.0,07-02-2005,Fam.,2970,4,Rækkehus,101,1761,
+Østergade 19 4880 Nysted,19,375000.0,04-02-2005,Fam.,4807,3,Rækkehus,78,1761,
+Sakskøbingvej 62 4880 Nysted,62,550000.0,28-01-2005,Alm.,5789,4,Villa,95,1930,
+Strandhus Alleen 12 4880 Nysted,12,2900000.0,20-01-2005,Alm.,12663,3,Villa,229,1890,
+Hvedevænget 7 4880 Nysted,7,251926.0,04-01-2005,Alm.,1625,6,Villa,155,2006,
+Østergade 4 4880 Nysted,4,771275.0,27-12-2004,Alm.,7141,3,Villa,108,1895,
+Gartnerparken 52 4880 Nysted,52,408235.0,06-12-2004,Alm.,6803,2,Rækkehus,60,1976,
+Gl Torv 29 4880 Nysted,29,675000.0,13-11-2004,Alm.,6308,5,Villa,107,1876,
+Birkely 77 4880 Nysted,77,980000.0,09-11-2004,Alm.,19600,3,Sommerhus,50,1979,
+Østersøvej 4 4880 Nysted,4,218263.0,26-10-2004,Andet,3578,3,Sommerhus,61,1967,
+Egholmvej 22 4880 Nysted,22,1000000.0,22-10-2004,Alm.,8333,4,Villa,120,1929,
+Kertevej 12 4880 Nysted,12,450000.0,19-10-2004,Fam.,3214,4,Villa,140,1880,
+Østergade 29 4880 Nysted,29,845000.0,04-10-2004,Alm.,5671,4,Rækkehus,149,1912,
+Vantorevej 35 4880 Nysted,35,515000.0,25-09-2004,Andet,4364,3,Rækkehus,118,1890,
+Birkely 39 4880 Nysted,39,710000.0,14-08-2004,Alm.,17317,3,Sommerhus,41,1976,
+Rosenvænget 45 4880 Nysted,45,33464.0,04-08-2004,Alm.,249,4,Villa,134,2006,
+Kirkestien 15 4880 Nysted,15,750000.0,23-07-2004,Alm.,7731,4,Villa,97,1913,
+Østersøvej 2 4880 Nysted,2,585000.0,16-07-2004,Fam.,8478,4,Sommerhus,69,1967,
+Birkely 2 4880 Nysted,2,895000.0,05-07-2004,Alm.,12260,4,Sommerhus,73,1977,
+Tværvej 7 4880 Nysted,7,297500.0,14-06-2004,Fam.,2729,5,Villa,109,1961,
+Vantorevej 39A 4880 Nysted,0,420000.0,14-06-2004,Alm.,3442,6,Rækkehus,122,1892,
+Østergade 11 4880 Nysted,11,895000.0,12-06-2004,Alm.,3808,9,Rækkehus,235,1875,
+Strandvejen 57 4880 Nysted,57,1150000.0,03-06-2004,Alm.,8273,6,Villa,139,1913,
+Sakskøbingvej 23 4880 Nysted,23,460000.0,25-05-2004,Alm.,7187,2,Villa,64,1946,
+Rosenvænget 37 4880 Nysted,37,26117.0,21-05-2004,Alm.,244,4,Villa,107,2004,
+Gartnerparken 12 4880 Nysted,12,465000.0,18-05-2004,Alm.,10568,1,Rækkehus,44,1971,
+Rosenvænget 27 4880 Nysted,27,38583.0,12-05-2004,Alm.,326,4,Villa,118,2005,
+Birkely 58 4880 Nysted,58,680000.0,12-05-2004,Alm.,10461,4,Sommerhus,65,1980,
+Sakskøbingvej 113 4880 Nysted,113,465000.0,29-04-2004,Alm.,3522,4,Villa,132,1940,
+Vantorevej 74 4880 Nysted,74,260000.0,26-04-2004,Alm.,0,6,Villa,232,1900,
+Søvej 8 4880 Nysted,8,1055000.0,10-04-2004,Alm.,11988,3,Villa,88,1936,
+Vantorevej 42 4880 Nysted,42,750000.0,29-03-2004,Alm.,6355,4,Villa,118,1956,
+Østerrevle 13 4880 Nysted,13,1100000.0,29-03-2004,Fam.,12790,4,Sommerhus,86,2002,
+Adelgade 87 4880 Nysted,87,470000.0,11-03-2004,Alm.,8245,2,Villa,57,1847,
+Østerrevle 15 4880 Nysted,15,1075000.0,16-02-2004,Alm.,14726,4,Sommerhus,73,1997,
+Bramsløkkevej 3 4880 Nysted,3,225000.0,02-02-2004,Alm.,1551,4,Villa,145,1900,
+Sakskøbingvej 25 4880 Nysted,25,595000.0,09-12-2003,Alm.,4440,5,Villa,134,1937,
+Birkely 84 4880 Nysted,84,500000.0,08-12-2003,Alm.,13157,3,Sommerhus,38,1979,
+Strandhus Alleen 8 4880 Nysted,8,700000.0,28-11-2003,Alm.,0,4,Sommerhus,139,1894,
+Østersøvej 13 4880 Nysted,13,450000.0,08-11-2003,Alm.,7258,3,Sommerhus,62,2012,
+Skansevej 18 4880 Nysted,18,800000.0,06-11-2003,Alm.,10389,2,Villa,77,1960,
+Strandvejen 33 4880 Nysted,33,1800000.0,03-11-2003,Alm.,14634,5,Villa,123,1906,
+Adelgade 78 4880 Nysted,78,535000.0,03-11-2003,Alm.,0,4,Rækkehus,107,1885,
+Østerrevle 1 4880 Nysted,1,467500.0,27-10-2003,Fam.,4675,4,Sommerhus,100,2004,
+Strandvejen 79 4880 Nysted,79,1225000.0,10-10-2003,Alm.,8506,3,Villa,144,1908,
+Wichmandsvej 32 4880 Nysted,32,874000.0,27-09-2003,Alm.,6571,4,Villa,133,1973,
+Birkely 63 4880 Nysted,63,425000.0,18-09-2003,Alm.,0,4,Sommerhus,59,1980,
+Pilestrædet 8A 4880 Nysted,0,210000.0,08-09-2003,Alm.,2019,3,Villa,104,1900,
+Byfoged Holcksvej 15 4880 Nysted,15,562195.0,28-08-2003,Alm.,5354,3,Villa,105,1970,
+Fjordvej 3 4880 Nysted,3,745000.0,13-08-2003,Alm.,5960,4,Villa,125,1972,
+Skibsbrostræde 5 4880 Nysted,5,1863000.0,08-08-2003,Alm.,8665,6,Rækkehus,215,1856,
+Gl Torv 3 4880 Nysted,3,380000.0,01-08-2003,Fam.,1630,8,Rækkehus,233,1840,
+Østerrevle 9 4880 Nysted,9,671500.0,21-07-2003,Andet,8500,4,Sommerhus,79,1998,
+Vantorevej 121 4880 Nysted,121,720000.0,10-07-2003,Alm.,0,5,Stuehus,121,1942,
+Søndergade 1 4880 Nysted,1,390000.0,04-07-2003,Alm.,5064,3,Rækkehus,77,1900,
+Birkely 44 4880 Nysted,44,601209.0,03-07-2003,Alm.,8350,4,Sommerhus,72,1978,
+Strandvejen 53 4880 Nysted,53,700000.0,01-07-2003,Alm.,8750,3,Villa,80,1855,
+Egholmvej 26 4880 Nysted,26,725000.0,20-06-2003,Alm.,3502,6,Villa,207,1880,
+Rødstensrevle 8 4880 Nysted,8,595000.0,02-06-2003,Alm.,0,4,Sommerhus,114,1995,
+Hvedevænget 11 4880 Nysted,11,231796.0,02-06-2003,Alm.,2759,4,Villa,84,2004,
+Sakskøbingvej 93 4880 Nysted,93,1175000.0,02-06-2003,Alm.,7298,4,Villa,161,1906,
+Gl Torv 10 4880 Nysted,10,450000.0,26-05-2003,Alm.,2184,6,Rækkehus,206,1868,
+Kallehavevej 11 4880 Nysted,11,550000.0,20-05-2003,Alm.,4166,5,Villa,132,1955,
+Rosenvænget 14 4880 Nysted,14,975000.0,05-05-2003,Alm.,7116,4,Villa,137,1978,
+Rosenvænget 16C 4880 Nysted,0,25108.0,28-04-2003,Alm.,160,4,Villa,156,2004,
+Adelgade 2B 4880 Nysted,0,1250000.0,28-04-2003,Alm.,7812,5,Villa,160,1958,
+Solsortvej 8 4880 Nysted,8,1150000.0,24-04-2003,Alm.,6764,5,Villa,170,1973,
+Strandvejen 89 4880 Nysted,89,1149651.0,07-04-2003,Alm.,9580,3,Villa,120,1912,
+Egholmvej 2 4880 Nysted,2,610653.0,07-04-2003,Alm.,5815,4,Villa,105,1972,
+Rosenvænget 16D 4880 Nysted,0,21873.0,27-03-2003,Alm.,170,4,Villa,128,2004,
+Fiskergade 18 4880 Nysted,18,463608.0,21-03-2003,Fam.,3679,3,Rækkehus,126,1897,
+Skansevej 14 4880 Nysted,14,1186000.0,20-03-2003,Alm.,8656,5,Villa,137,1950,
+Vantorevej 79 4880 Nysted,79,600000.0,18-03-2003,Alm.,5454,5,Sommerhus,110,1887,
+Østvej 3 4880 Nysted,3,3600000.0,27-02-2003,Alm.,18181,7,Stuehus,198,1913,
+Slotsgade 7A 4880 Nysted,0,745000.0,24-02-2003,Alm.,9802,3,Villa,76,1761,
+Hovbøllevej 2 4880 Nysted,2,230000.0,24-02-2003,Fam.,2323,3,Villa,99,1922,
+Vantorevej 40 4880 Nysted,40,721000.0,24-02-2003,Alm.,5041,6,Villa,143,1949,
+Skårupvej 2 4880 Nysted,2,200000.0,07-02-2003,Fam.,2000,5,Sommerhus,100,1877,
+Fjordvej 25 4880 Nysted,25,950000.0,06-02-2003,Alm.,8407,4,Villa,113,1967,
+Wichmandsvej 19 4880 Nysted,19,700000.0,24-01-2003,Alm.,2573,6,Villa,272,1967,
+Stubberupvej 38 4880 Nysted,38,885000.0,13-12-2002,Alm.,5746,6,Villa,154,1970,
+Vantorevej 103 4880 Nysted,103,1183784.0,09-12-2002,Alm.,4871,7,Villa,243,1954,
+Jernbanegade 5 4880 Nysted,5,570000.0,06-12-2002,Alm.,6263,4,Villa,91,1925,
+Adelgade 16 4880 Nysted,16,1650000.0,20-11-2002,Alm.,0,9,Detailhandel,310,1872,
+Vantorevej 119 4880 Nysted,119,699000.0,17-11-2002,Alm.,2330,8,Stuehus,300,1890,
+Musse Gade 4 4880 Nysted,4,525000.0,15-11-2002,Alm.,4487,4,Villa,117,1960,
+Skansevej 7 4880 Nysted,7,540000.0,25-10-2002,Alm.,0,3,Villa,75,1943,
+Strandvejen 43 4880 Nysted,43,999999.0,14-10-2002,Alm.,0,4,Villa,169,1961,
+Sakskøbingvej 51A 4880 Nysted,0,275000.0,14-10-2002,Fam.,3273,3,Rækkehus,84,1900,
+Mårbækvej 1 4880 Nysted,1,535000.0,16-09-2002,Alm.,4179,4,Villa,128,1906,
+Skansevej 9 4880 Nysted,9,785000.0,16-09-2002,Alm.,5413,5,Villa,145,1947,
+Kløverrevle 6 4880 Nysted,6,620000.0,14-09-2002,Alm.,7948,4,Sommerhus,78,1977,
+Rosenvænget 31 4880 Nysted,31,38583.0,03-09-2002,Alm.,277,5,Villa,139,2003,
+Vestvej 3 4880 Nysted,3,1350000.0,03-09-2002,Alm.,6459,6,Villa,209,1906,
+Egholmvej 8 4880 Nysted,8,386990.0,19-08-2002,Alm.,3365,4,Villa,115,1967,
+Østersøvej 5 4880 Nysted,5,360000.0,29-07-2002,Alm.,0,5,Sommerhus,73,1962,
+Vantorevej 86 4880 Nysted,86,210857.0,27-06-2002,Alm.,0,6,Villa,150,1850,
+Kattesundet 7 4880 Nysted,7,555571.0,22-06-2002,Alm.,8170,4,Rækkehus,68,1820,
+Strandvejen 5 4880 Nysted,5,477506.0,27-05-2002,Andet,3673,5,Villa,130,1932,
+Sakskøbingvej 37 4880 Nysted,37,240000.0,17-05-2002,Alm.,0,4,Villa,102,1930,
+Birkely 47 4880 Nysted,47,60000.0,14-05-2002,Fam.,606,2,Sommerhus,99,2007,
+Vestvej 7 4880 Nysted,7,184615.0,09-05-2002,Andet,1079,5,Villa,171,1912,
+Strandvejen 7 4880 Nysted,7,1550000.0,29-04-2002,Fam.,7311,6,Villa,212,1963,
+Gartnerparken 40 4880 Nysted,40,350000.0,13-04-2002,Alm.,5833,2,Rækkehus,60,1975,
+Brydebjergvej 1 4880 Nysted,1,660000.0,12-04-2002,Alm.,1578,4,Villa,418,1952,
+Krogsvej 2 4880 Nysted,2,595000.0,10-04-2002,Alm.,2833,6,Villa,210,1910,
+Hvedevænget 13 4880 Nysted,13,241495.0,08-04-2002,Alm.,2367,3,Villa,102,2003,
+Rosenvang 2 4880 Nysted,2,355000.0,04-03-2002,Alm.,1635,8,Villa,217,1932,
+Byfoged Holcksvej 14 4880 Nysted,14,791000.0,14-02-2002,Alm.,7062,4,Villa,112,1970,
+Birkely 64 4880 Nysted,64,84000.0,23-01-2002,Alm.,903,4,Sommerhus,93,2002,
+Fiskergade 21 4880 Nysted,21,555000.0,21-01-2002,Alm.,0,4,Villa,99,1911,
+Solgårdsvej 4 4880 Nysted,4,505000.0,11-01-2002,Alm.,3482,5,Villa,145,1919,
+Gartnerparken 54 4880 Nysted,54,325000.0,10-12-2001,Alm.,5416,2,Rækkehus,60,1976,
+Vantorevej 75 4880 Nysted,75,3450000.0,07-12-2001,Alm.,0,11,Stuehus,318,1923,
+Østergade 37 4880 Nysted,37,215200.0,11-11-2001,Fam.,3586,2,Rækkehus,60,1908,
+Krogsvej 4 4880 Nysted,4,555000.0,06-11-2001,Alm.,0,8,Villa,251,1914,
+Byfoged Holcksvej 7 4880 Nysted,7,720000.0,03-11-2001,Alm.,6428,3,Villa,112,1971,
+Østergade 27 4880 Nysted,27,376000.0,28-09-2001,Alm.,5449,2,Rækkehus,69,1840,
+Wichmandsvej 35 4880 Nysted,35,720000.0,13-09-2001,Alm.,6428,4,Villa,112,1973,
+Birkely 54 4880 Nysted,54,290000.0,13-09-2001,Alm.,6041,4,Sommerhus,48,1978,
+Skansevej 23 4880 Nysted,23,315000.0,12-09-2001,Alm.,6300,3,Sommerhus,50,1962,
+Vantorevej 68 4880 Nysted,68,392800.0,10-09-2001,Alm.,2654,6,Villa,148,1910,
+Mallehavevej 2 4880 Nysted,2,230000.0,17-08-2001,Alm.,0,5,Villa,136,1954,
+Sakskøbingvej 101 4880 Nysted,101,148867.0,17-08-2001,Auktion,1567,4,Villa,95,1927,
+Kørsledsvej 2 4880 Nysted,2,525000.0,05-07-2001,Alm.,4375,3,Villa,120,1906,
+Sakskøbingvej 69 4880 Nysted,69,230000.0,28-06-2001,Fam.,1691,5,Villa,136,1954,
+Vantorevej 27C 4880 Nysted,0,349709.0,27-06-2001,Fam.,2649,4,Villa,132,1976,
+Adelgade 55 4880 Nysted,55,1373000.0,25-06-2001,Alm.,8124,5,Rækkehus,169,1981,
+Byfoged Holcksvej 1 4880 Nysted,1,1125000.0,20-06-2001,Alm.,0,7,Villa,192,1970,
+Kløverrevle 5 4880 Nysted,5,410000.0,20-06-2001,Alm.,6721,3,Sommerhus,61,1977,
+Østergade 26 4880 Nysted,26,476000.0,18-06-2001,Alm.,5118,3,Villa,93,1870,
+Valtersvej 6 4880 Nysted,6,325000.0,04-06-2001,Alm.,6250,3,Sommerhus,52,1892,
+Søndergade 8 4880 Nysted,8,278000.0,04-06-2001,Fam.,2780,3,Rækkehus,100,1876,
+Sakskøbingvej 91 4880 Nysted,91,330000.0,25-05-2001,Andet,2750,6,Villa,120,1900,
+Kallehavevej 2 4880 Nysted,2,750000.0,24-04-2001,Alm.,3000,9,Villa,250,1912,
+Birkely 90 4880 Nysted,90,300000.0,16-04-2001,Fam.,4687,4,Sommerhus,64,1990,
+Gartnerparken 26 4880 Nysted,26,300000.0,16-04-2001,Alm.,5000,2,Rækkehus,60,1973,
+Birkely 3 4880 Nysted,3,338000.0,01-04-2001,Alm.,8243,3,Sommerhus,41,1984,
+Vantorevej 37 4880 Nysted,37,140000.0,27-03-2001,Fam.,2058,4,Sommerhus,68,1889,
+Kløverrevle 7 4880 Nysted,7,517224.0,25-03-2001,Alm.,0,6,Sommerhus,114,1989,
+Solgårdsvej 1 4880 Nysted,1,166000.0,19-03-2001,Alm.,3254,3,Rækkehus,51,1895,
+Solsortvej 6 4880 Nysted,6,992000.0,05-03-2001,Alm.,6657,4,Villa,149,1974,
+Adelgade 19 4880 Nysted,19,1250000.0,20-02-2001,Alm.,0,10,Lejlighed,206,1901,
+Wichmandsvej 2 4880 Nysted,2,1737474.0,19-02-2001,Alm.,11066,4,Villa,157,1972,
+Skansevej 6 4880 Nysted,6,1030000.0,22-01-2001,Alm.,5659,6,Villa,182,1907,
+Vantorevej 47 4880 Nysted,47,628040.0,22-01-2001,Alm.,3376,7,Villa,186,1910,
+Søndergade 10 4880 Nysted,10,552000.0,30-12-2000,Alm.,4600,4,Rækkehus,120,1877,
+Wichmandsvej 58 4880 Nysted,58,620000.0,14-12-2000,Alm.,6526,3,Rækkehus,95,1978,
+Wichmandsvej 43 4880 Nysted,43,855000.0,12-12-2000,Alm.,5700,4,Villa,150,1972,
+Rosenvænget 9 4880 Nysted,9,800000.0,11-12-2000,Alm.,5194,5,Villa,154,1980,
+Fjordvej 6 4880 Nysted,6,1300000.0,27-10-2000,Alm.,0,4,Villa,144,1971,
+Kirkestien 11 4880 Nysted,11,369130.0,28-09-2000,Andet,2976,5,Rækkehus,124,1870,
+Lindholmvej 2B 4880 Nysted,0,295000.0,24-09-2000,Andet,1482,5,Villa,199,1879,
+Lindholmvej 8 4880 Nysted,8,645500.0,19-09-2000,Andet,4164,5,Villa,155,1976,
+Sakskøbingvej 56 4880 Nysted,56,359200.0,14-09-2000,Alm.,3388,4,Villa,106,1877,
+Billevej 4 4880 Nysted,4,273000.0,05-09-2000,Alm.,1452,7,Villa,188,1850,
+Vantorevej 76 4880 Nysted,76,301500.0,14-08-2000,Alm.,0,8,Villa,166,1908,
+Vantorevej 92 4880 Nysted,92,325000.0,14-08-2000,Alm.,4276,2,Sommerhus,76,1850,
+Gartnerparken 36 4880 Nysted,36,295000.0,10-08-2000,Alm.,4916,2,Rækkehus,60,1973,
+Sakskøbingvej 57 4880 Nysted,57,426500.0,07-08-2000,Alm.,3708,3,Villa,115,1948,
+Adelgade 1G 4880 Nysted,0,950000.0,24-07-2000,Alm.,4634,6,Rækkehus,205,1879,
+Søvej 10 4880 Nysted,10,650000.0,14-07-2000,Alm.,6914,4,Villa,94,1934,
+Munkestien 2 4880 Nysted,2,661000.0,07-07-2000,Alm.,5204,3,Villa,127,1977,
+Fiskergade 5B 4880 Nysted,0,260000.0,30-06-2000,Alm.,3023,4,Rækkehus,86,1860,
+Østersøvej 3 4880 Nysted,3,484000.0,29-06-2000,Alm.,4609,3,Sommerhus,105,1966,
+Pilestrædet 10 4880 Nysted,10,255000.0,24-06-2000,Alm.,2833,4,Villa,90,1892,
+Bomstræde 10 4880 Nysted,10,283500.0,21-06-2000,Alm.,4169,2,Rækkehus,68,1895,
+Valtersvej 2 4880 Nysted,2,913000.0,20-06-2000,Alm.,3126,4,Villa,292,2012,
+Strandvejen 15 4880 Nysted,15,1300000.0,19-06-2000,Alm.,8024,3,Villa,162,1970,
+Sakskøbingvej 18 4880 Nysted,18,175000.0,19-06-2000,Alm.,845,6,Villa,207,1918,
+Slotsgade 10 4880 Nysted,10,590000.0,04-06-2000,Alm.,6344,2,Villa,93,1761,
+Stubberupvej 32 4880 Nysted,32,421561.0,25-05-2000,Alm.,3832,4,Villa,110,1877,
+Skovstræde 5 4880 Nysted,5,155000.0,08-05-2000,Alm.,0,7,Rækkehus,163,1910,
+Trepilevej 13 4880 Nysted,13,539000.0,04-04-2000,Fam.,2764,6,Villa,195,1897,
+Tågense Engvej 5 4880 Nysted,5,700000.0,03-04-2000,Alm.,0,3,Villa,129,1863,
+Adelgade 83 4880 Nysted,83,581260.0,01-04-2000,Alm.,5871,3,Rækkehus,99,1846,
+Fjordvej 5 4880 Nysted,5,969000.0,27-03-2000,Alm.,0,4,Villa,125,1969,
+Sakskøbingvej 39 4880 Nysted,39,180000.0,20-03-2000,Alm.,1978,3,Villa,91,1860,
+Solsortvej 1 4880 Nysted,1,850000.0,18-03-2000,Alm.,5782,5,Villa,147,1973,
+Strandvejen 71 4880 Nysted,71,825000.0,10-03-2000,Alm.,7568,3,Rækkehus,109,1887,
+Jernbanegade 13 4880 Nysted,13,540000.0,06-03-2000,Alm.,4736,4,Villa,114,1912,
+Stubberupvej 23 4880 Nysted,23,815000.0,28-02-2000,Alm.,3381,9,Villa,241,1900,
+Strandvejen 65 4880 Nysted,65,1540000.0,14-02-2000,Alm.,8020,5,Villa,192,1974,
+Wichmandsvej 60 4880 Nysted,60,575054.0,03-02-2000,Alm.,7099,2,Rækkehus,81,1978,
+Vantorevej 53 4880 Nysted,53,200000.0,19-12-1999,Alm.,819,8,Stuehus,244,1915,
+Sakskøbingvej 83A 4880 Nysted,0,463074.0,09-12-1999,Alm.,4327,5,Villa,107,1930,
+Østergade 6 4880 Nysted,6,847000.0,28-10-1999,Alm.,5572,6,Villa,152,1923,
+Strandhus Alleen 14 4880 Nysted,14,1254337.0,25-10-1999,Alm.,6636,5,Villa,189,1920,
+Stubberupvej 21 4880 Nysted,21,255000.0,18-10-1999,Alm.,3642,3,Villa,70,1777,
+Gl Torv 9 4880 Nysted,9,288000.0,05-10-1999,Alm.,3469,3,Villa,83,1874,
+Østersøvej 19 4880 Nysted,19,258850.0,20-09-1999,Alm.,7843,1,Sommerhus,33,1967,
+Sakskøbingvej 58 4880 Nysted,58,125050.0,20-09-1999,Auktion,1488,5,Villa,84,1922,
+Sakskøbingvej 117 4880 Nysted,117,305000.0,10-09-1999,Alm.,2877,4,Villa,106,1933,
+"Adelgade 42, 1 4880 Nysted",1,1381532.0,23-08-1999,Andet,6059,9,Lejlighed,228,1867,
+Søndergade 14 4880 Nysted,14,225000.0,23-08-1999,Alm.,4166,2,Rækkehus,54,1900,
+Adelgade 31 4880 Nysted,31,455000.0,20-08-1999,Alm.,3395,10,Rækkehus,134,1912,
+Sakskøbingvej 34 4880 Nysted,34,439000.0,09-08-1999,Alm.,3113,5,Villa,141,1903,
+Vantorevej 28 4880 Nysted,28,777000.0,24-07-1999,Alm.,5358,5,Villa,145,1967,
+Adelgade 76A 4880 Nysted,0,610477.0,19-07-1999,Alm.,4360,3,Rækkehus,140,1856,
+Kirkestien 17 4880 Nysted,17,525000.0,17-07-1999,Alm.,4200,4,Villa,125,1947,
+Fiskergade 2 4880 Nysted,2,512000.0,11-06-1999,Alm.,4266,4,Rækkehus,120,1855,
+Vantorevej 99 4880 Nysted,99,190000.0,11-06-1999,Alm.,2435,3,Sommerhus,78,1927,
+Fjordvej 9 4880 Nysted,9,750000.0,31-05-1999,Alm.,5725,4,Villa,131,1968,
+Birkely 24 4880 Nysted,24,45000.0,03-05-1999,Alm.,762,3,Sommerhus,59,2002,
+Nysted Skov 7 4880 Nysted,7,360000.0,12-04-1999,Fam.,4931,4,Sommerhus,73,1877,
+Bramsløkkevej 1 4880 Nysted,1,1536000.0,31-03-1999,Alm.,10816,4,Stuehus,142,1900,
+Ndr Kongemarksvej 4 4880 Nysted,4,420000.0,30-03-1999,Alm.,5121,3,Rækkehus,82,1973,
+Adelgade 84 4880 Nysted,84,588000.0,30-03-1999,Alm.,0,6,Rækkehus,170,1860,
+Fjordvej 16 4880 Nysted,16,1090000.0,26-03-1999,Alm.,0,6,Villa,174,1965,
+Sakskøbingvej 54 4880 Nysted,54,245000.0,02-03-1999,Alm.,2552,4,Villa,96,1930,
+Egholmvej 38 4880 Nysted,38,591078.0,19-02-1999,Alm.,2547,7,Villa,232,1922,
+Ndr Kongemarksvej 7 4880 Nysted,7,1061500.0,11-02-1999,Alm.,5103,6,Villa,208,1975,
+"Adelgade 21, 1 4880 Nysted",1,384900.0,09-02-1999,Alm.,3531,3,Lejlighed,109,1847,
+Strandvejen 81 4880 Nysted,81,939665.0,25-01-1999,Alm.,3355,8,Villa,280,1912,
+Egholmvej 18 4880 Nysted,18,1200000.0,05-01-1999,Alm.,8955,6,Stuehus,134,1910,
+Birkely 6 4880 Nysted,6,407680.0,09-11-1998,Alm.,6575,3,Sommerhus,62,1980,
+Stilund 10 4880 Nysted,10,515740.0,09-11-1998,Alm.,3264,5,Villa,158,1777,
+Ny Østergade 3 4880 Nysted,3,461000.0,30-10-1998,Alm.,2881,6,Villa,160,1911,
+Rosenvænget 19 4880 Nysted,19,370000.0,23-10-1998,Alm.,0,4,Villa,93,1978,
+Vantorevej 77 4880 Nysted,77,400000.0,19-10-1998,Alm.,1666,6,Villa,240,1900,
+Krogsvej 6 4880 Nysted,6,454117.0,14-09-1998,Alm.,2390,5,Villa,190,1900,
+Vantorevej 41 4880 Nysted,41,281000.0,31-08-1998,Alm.,0,9,Villa,213,1890,
+Østersøvej 7 4880 Nysted,7,290000.0,31-08-1998,Alm.,3411,3,Sommerhus,85,1963,
+Egholmvej 24 4880 Nysted,24,900000.0,27-08-1998,Alm.,5325,8,Stuehus,169,1885,
+Østerrevle 2 4880 Nysted,2,92000.0,14-08-1998,Alm.,938,4,Sommerhus,98,1999,
+Vantorevej 94 4880 Nysted,94,475000.0,12-08-1998,Alm.,3209,4,Villa,148,1872,
+Slotsgade 9 4880 Nysted,9,1600846.0,26-07-1998,Alm.,9361,5,Villa,171,1832,
+Bomstræde 19 4880 Nysted,19,165000.0,06-07-1998,Alm.,2426,4,Villa,68,1910,
+Musse Mader 5 4880 Nysted,5,130000.0,18-06-1998,Alm.,1226,3,Villa,106,1877,
+Vantorevej 38 4880 Nysted,38,338000.0,27-05-1998,Alm.,1379,6,Villa,245,2001,
+Solsortvej 4 4880 Nysted,4,669000.0,25-05-1998,Alm.,5106,5,Villa,131,1974,
+Aarestrupvej 3 4880 Nysted,3,493000.0,22-05-1998,Alm.,4607,3,Villa,107,1967,
+Birkely 92 4880 Nysted,92,240000.0,06-04-1998,Alm.,4363,3,Sommerhus,55,1977,
+Egholmvej 3 4880 Nysted,3,673000.0,06-04-1998,Alm.,3560,8,Villa,189,1928,
+Mallehavevej 12 4880 Nysted,12,759000.0,02-04-1998,Alm.,5838,5,Villa,130,1911,
+Sakskøbingvej 49 4880 Nysted,49,316000.0,16-03-1998,Alm.,2846,3,Villa,111,1890,
+Stubberupvej 37 4880 Nysted,37,205000.0,09-03-1998,Alm.,1601,4,Villa,128,1877,
+Skovstræde 13 4880 Nysted,13,1232000.0,05-03-1998,Alm.,9058,5,Stuehus,136,1920,
+Sakskøbingvej 42 4880 Nysted,42,245000.0,23-02-1998,Alm.,2401,4,Villa,102,1835,
+Solgårdsvej 3 4880 Nysted,3,279000.0,17-02-1998,Alm.,2469,4,Villa,113,1943,
+Stubberupvej 11 4880 Nysted,11,159270.0,02-02-1998,Alm.,723,6,Stuehus,220,1905,
+Dalmosevej 2 4880 Nysted,2,1461786.0,02-02-1998,Alm.,6328,6,Villa,231,1874,
+Østvej 7 4880 Nysted,7,381000.0,13-01-1998,Alm.,0,5,Villa,235,1912,
+Vantore Strandvej 4 4880 Nysted,4,250000.0,08-12-1997,Alm.,0,3,Villa,103,1909,
+Østerrevle 3 4880 Nysted,3,111000.0,03-11-1997,Alm.,2265,2,Sommerhus,49,1977,
+Sakskøbingvej 26 4880 Nysted,26,240000.0,03-11-1997,Alm.,1678,4,Villa,143,1900,
+Birkely 29 4880 Nysted,29,285000.0,30-10-1997,Alm.,3904,4,Sommerhus,73,1976,
+"Ny Østergade 4, 1 4880 Nysted",1,625000.0,16-09-1997,Alm.,2815,7,Lejlighed,222,1980,
+Strandhus Alleen 2 4880 Nysted,2,387500.0,30-08-1997,Alm.,0,3,Villa,144,1777,
+Egholmvej 13 4880 Nysted,13,200000.0,22-08-1997,Alm.,0,4,Villa,225,1850,
+Byfoged Holcksvej 16 4880 Nysted,16,575000.0,01-08-1997,Alm.,5133,3,Villa,112,1972,
+Birkely 36 4880 Nysted,36,275000.0,12-07-1997,Alm.,6875,3,Sommerhus,40,1976,
+Østersøvej 11 4880 Nysted,11,258000.0,15-06-1997,Alm.,0,2,Sommerhus,42,1962,
+Wichmandsvej 54 4880 Nysted,54,420000.0,10-06-1997,Alm.,0,4,Rækkehus,95,1976,
+Billevej 5 4880 Nysted,5,245000.0,07-06-1997,Alm.,2187,3,Villa,112,1894,
+Sdr Kirkestræde 3 4880 Nysted,3,210687.0,06-06-1997,Alm.,2065,3,Villa,102,1979,
+Lærkevej 6 4880 Nysted,6,702500.0,31-05-1997,Alm.,5281,4,Villa,133,1977,
+Tværvej 1 4880 Nysted,1,135000.0,26-05-1997,Alm.,0,4,Villa,133,1961,
+Tværvej 11 4880 Nysted,11,134000.0,16-05-1997,Alm.,1440,4,Villa,93,1959,
+Fjordvej 12 4880 Nysted,12,900000.0,09-05-1997,Alm.,6923,5,Villa,130,1966,
+Solsortvej 7 4880 Nysted,7,737000.0,17-04-1997,Alm.,0,4,Villa,161,1974,
+Strandvejen 91 4880 Nysted,91,725000.0,16-04-1997,Alm.,5178,6,Villa,140,1953,
+Stubberupvej 26 4880 Nysted,26,1400000.0,15-04-1997,Fam.,9722,6,Stuehus,144,1880,
+Wichmandsvej 52 4880 Nysted,52,400000.0,14-04-1997,Alm.,4938,3,Rækkehus,81,1976,
+Gartnerparken 44 4880 Nysted,44,204000.0,14-04-1997,Fam.,3400,2,Rækkehus,60,1975,
+Stubberupvej 35 4880 Nysted,35,261537.0,14-03-1997,Alm.,1937,5,Rækkehus,135,1900,
+Mallehavevej 5 4880 Nysted,5,206000.0,23-02-1997,Fam.,0,6,Villa,174,1913,
+Gartnerparken 30 4880 Nysted,30,233500.0,22-02-1997,Alm.,3891,2,Rækkehus,60,1973,
+Havnegade 7 4880 Nysted,7,625000.0,17-02-1997,Alm.,4960,6,Villa,126,1898,
+Trepilevej 9 4880 Nysted,9,1292277.0,07-02-1997,Auktion,8615,4,Villa,150,1922,
+Skansevej 15B 4880 Nysted,0,454000.0,25-01-1997,Alm.,2751,5,Villa,165,1900,
+Stubberupvej 3 4880 Nysted,3,744000.0,05-01-1997,Alm.,4960,4,Villa,150,1900,
+Sakskøbingvej 16 4880 Nysted,16,1392000.0,17-12-1996,Fam.,6566,6,Stuehus,212,1929,
+Sdr Kongemarksvej 8 4880 Nysted,8,235000.0,16-12-1996,Alm.,0,8,Villa,204,1915,
+Pilestrædet 9 4880 Nysted,9,194920.0,11-12-1996,Alm.,1740,5,Villa,112,1935,
+Pilestrædet 5B 4880 Nysted,0,300000.0,18-11-1996,Fam.,1648,4,Villa,182,1975,
+Adelgade 8 4880 Nysted,8,375000.0,01-11-1996,Alm.,0,5,Villa,166,1880,
+Birkely 50 4880 Nysted,50,280000.0,18-10-1996,Alm.,4444,3,Sommerhus,63,1976,
+Strandvejen 29 4880 Nysted,29,300000.0,10-10-1996,Fam.,3846,5,Rækkehus,78,1912,
+"Adelgade 48, 1 4880 Nysted",1,856160.0,05-10-1996,Alm.,0,4,Lejlighed,113,1875,
+Vantorevej 48 4880 Nysted,48,683000.0,01-10-1996,Alm.,2732,6,Villa,250,1875,
+Birkely 73 4880 Nysted,73,172040.0,26-09-1996,Alm.,4527,3,Sommerhus,38,1980,
+Kattesundet 11 4880 Nysted,11,165000.0,12-09-1996,Alm.,2088,4,Rækkehus,79,1874,
+Stubberupvej 13 4880 Nysted,13,171000.0,09-09-1996,Alm.,2514,4,Villa,68,1837,
+Gadeparterne 3 4880 Nysted,3,470473.0,04-09-1996,Alm.,3313,4,Villa,142,1979,
+Bomstræde 21A 4880 Nysted,0,235000.0,21-08-1996,Alm.,3219,3,Villa,73,1800,
+Lærkevej 3 4880 Nysted,3,535000.0,29-07-1996,Alm.,0,5,Villa,140,1974,
+Ndr Kongemarksvej 1 4880 Nysted,1,580000.0,10-07-1996,Alm.,3431,5,Villa,169,1967,
+Vestvej 8 4880 Nysted,8,3420500.0,13-06-1996,Fam.,16210,7,Stuehus,211,1880,
+Holtevej 9 4880 Nysted,9,2000000.0,07-06-1996,Fam.,11494,7,Stuehus,174,1910,
+Adelgade 20 4880 Nysted,20,875000.0,08-05-1996,Alm.,2692,8,Rækkehus,325,1872,
+Rosenvænget 8 4880 Nysted,8,557500.0,06-05-1996,Alm.,5068,4,Villa,110,1977,
+Birkely 14 4880 Nysted,14,166600.0,01-05-1996,Alm.,3621,3,Sommerhus,46,1992,
+Skansevej 5 4880 Nysted,5,323000.0,24-04-1996,Alm.,1981,5,Villa,163,1930,
+Tåstrupvej 5 4880 Nysted,5,875000.0,08-04-1996,Alm.,3339,7,Stuehus,262,1777,
+Østergade 25 4880 Nysted,25,160000.0,04-03-1996,Alm.,2424,3,Villa,66,1840,
+Nysted Skov 5 4880 Nysted,5,143384.0,22-02-1996,Fam.,868,8,Villa,165,1924,
+Lindholmvej 6 4880 Nysted,6,530000.0,17-01-1996,Alm.,4140,3,Villa,128,1976,
+Musse Gade 12 4880 Nysted,12,255380.0,04-12-1995,Alm.,3076,2,Villa,83,1949,
+Sakskøbingvej 105 4880 Nysted,105,174000.0,01-12-1995,Alm.,1216,5,Villa,143,1912,
+Vantorevej 95 4880 Nysted,95,275000.0,22-11-1995,Alm.,0,5,Villa,145,1938,
+Østergade 16 4880 Nysted,16,425000.0,15-11-1995,Alm.,4292,4,Villa,99,1912,
+Østergade 31 4880 Nysted,31,378000.0,13-11-1995,Alm.,0,6,Rækkehus,147,1912,
+Byfoged Holcksvej 17 4880 Nysted,17,550000.0,23-10-1995,Alm.,3873,4,Villa,142,1971,
+Holtevej 4 4880 Nysted,4,240000.0,07-10-1995,Alm.,2181,4,Sommerhus,110,2014,
+Adelgade 54 4880 Nysted,54,366400.0,02-10-1995,Alm.,2142,7,Rækkehus,171,1859,
+Adelgade 94 4880 Nysted,94,1335000.0,20-09-1995,Alm.,8190,4,Rækkehus,163,1761,
+Sakskøbingvej 21 4880 Nysted,21,195000.0,05-09-1995,Alm.,2031,4,Villa,96,1931,
+Sakskøbingvej 7 4880 Nysted,7,280000.0,31-08-1995,Alm.,2666,3,Villa,105,1920,
+Fiskergade 5A 4880 Nysted,0,245950.0,25-08-1995,Alm.,3842,2,Rækkehus,64,1860,
+Musse Mader 7 4880 Nysted,7,1943637.0,01-07-1995,Fam.,16063,4,Stuehus,121,1973,
+Tågense Engvej 10 4880 Nysted,10,148750.0,18-06-1995,Alm.,0,5,Villa,200,1877,
+Østersøvej 20 4880 Nysted,20,425000.0,14-06-1995,Alm.,6071,3,Sommerhus,70,1970,
+Adelgade 99 4880 Nysted,99,243000.0,13-06-1995,Alm.,0,7,Rækkehus,179,1777,
+Kløverrevle 12 4880 Nysted,12,145000.0,19-01-1995,Alm.,2013,4,Sommerhus,72,1980,
+Strandvejen 51 4880 Nysted,51,1143000.0,11-01-1995,Alm.,7993,4,Villa,143,1949,
+Slotsgade 7B 4880 Nysted,0,768000.0,21-12-1994,Alm.,5408,4,Villa,142,1969,
+Rosenvænget 39 4880 Nysted,39,585000.0,21-11-1994,Alm.,3774,6,Villa,155,1987,
+Lærkevej 5 4880 Nysted,5,250000.0,25-10-1994,Andet,1851,5,Villa,135,1975,
+Jernbanegade 23 4880 Nysted,23,292980.0,10-10-1994,Alm.,1940,4,Villa,151,1911,
+Byfoged Holcksvej 18 4880 Nysted,18,616397.0,15-08-1994,Alm.,3852,6,Villa,160,1969,
+Østergade 43 4880 Nysted,43,350000.0,26-07-1994,Alm.,4069,4,Rækkehus,86,1825,
+Adelgade 26D 4880 Nysted,0,657112.0,16-07-1994,Alm.,4796,5,Rækkehus,137,1941,
+Vantorevej 34B 4880 Nysted,0,420000.0,14-07-1994,Alm.,2307,7,Villa,182,1777,
+Valtersvej 1 4880 Nysted,1,295000.0,08-07-1994,Alm.,2341,3,Villa,126,1880,
+Østersøvej 6 4880 Nysted,6,203220.0,13-06-1994,Alm.,4618,3,Sommerhus,44,1965,
+Skovstræde 7 4880 Nysted,7,75000.0,10-06-1994,Alm.,1171,3,Rækkehus,64,1921,
+Strandvejen 93 4880 Nysted,93,600000.0,30-05-1994,Alm.,0,5,Villa,148,1953,
+Våsenvej 3A 4880 Nysted,0,209322.0,30-05-1994,Alm.,1852,5,Villa,113,1877,
+Drosselvej 10 4880 Nysted,10,655680.0,17-05-1994,Alm.,3790,6,Villa,173,1973,
+Pilestrædet 2 4880 Nysted,2,100000.0,06-05-1994,Alm.,709,4,Villa,141,1974,
+Birkely 9 4880 Nysted,9,170000.0,24-03-1994,Andet,1888,4,Sommerhus,90,1980,
+Musse Gade 28 4880 Nysted,28,180000.0,01-03-1994,Fam.,1500,4,Villa,120,1942,
+Fiskergade 22 4880 Nysted,22,192000.0,19-01-1994,Alm.,0,5,Villa,116,1830,
+Rosenvænget 6 4880 Nysted,6,413600.0,11-12-1993,Alm.,3760,4,Villa,110,1978,
+Jernbanegade 3 4880 Nysted,3,484820.0,27-11-1993,Alm.,2565,9,Villa,189,1925,
+Fjordvej 19 4880 Nysted,19,470000.0,10-11-1993,Alm.,4196,5,Rækkehus,112,1967,
+Ved Havnen 5 4880 Nysted,5,1500000.0,30-10-1993,Alm.,6122,7,Villa,245,1939,
+Sakskøbingvej 85 4880 Nysted,85,371250.0,09-10-1993,Alm.,2900,5,Villa,128,1909,
+Wichmandsvej 62 4880 Nysted,62,410000.0,30-09-1993,Alm.,2546,5,Villa,161,1977,
+Fjordvej 7 4880 Nysted,7,450000.0,30-09-1993,Alm.,3658,4,Villa,123,1969,
+Østergade 47 4880 Nysted,47,9000.0,28-09-1993,Alm.,62,4,Villa,144,1838,
+Strandvejen 61 4880 Nysted,61,632505.0,27-09-1993,Andet,4161,3,Villa,152,1913,
+Østersøvej 18 4880 Nysted,18,80220.0,27-09-1993,Alm.,853,4,Sommerhus,94,2000,
+Rosenvænget 4 4880 Nysted,4,630000.0,21-09-1993,Alm.,3519,5,Villa,179,1975,
+Adelgade 95 4880 Nysted,95,280500.0,18-07-1993,Fam.,0,7,Rækkehus,188,1842,
+Østvej 1 4880 Nysted,1,310000.0,15-07-1993,Alm.,2183,6,Villa,142,1926,
+Østersøvej 16 4880 Nysted,16,205000.0,09-07-1993,Alm.,3867,4,Sommerhus,53,1968,
+Slotsgade 6 4880 Nysted,6,203000.0,29-06-1993,Alm.,2985,3,Rækkehus,68,1761,
+Ndr Kongemarksvej 8 4880 Nysted,8,332600.0,13-06-1993,Alm.,4056,3,Rækkehus,82,1973,
+Østersøvej 22 4880 Nysted,22,246092.0,13-06-1993,Alm.,0,6,Sommerhus,105,1966,
+Våsenvej 13 4880 Nysted,13,190975.0,01-05-1993,Alm.,2098,3,Villa,91,1860,
+Kløverrevle 16 4880 Nysted,16,246000.0,02-04-1993,Alm.,4920,3,Sommerhus,50,1976,
+Lille Mussevej 7 4880 Nysted,7,34000.0,01-03-1993,Auktion,459,2,Villa,74,1900,
+Østergade 13 4880 Nysted,13,626750.0,14-01-1993,Alm.,2110,9,Rækkehus,297,1876,
+Lille Mussevej 12 4880 Nysted,12,365000.0,23-12-1992,Alm.,3093,3,Villa,118,1926,
+Fiskergade 10C 4880 Nysted,0,310000.0,16-12-1992,Alm.,3974,4,Rækkehus,78,1857,
+Skovstræde 17 4880 Nysted,17,30000.0,19-11-1992,Alm.,141,6,Stuehus,212,1957,
+Strandvejen 3 4880 Nysted,3,40000.0,30-10-1992,Alm.,283,5,Rækkehus,141,1924,
+"Jernbanegade 11, 1 4880 Nysted",1,240000.0,27-10-1992,Alm.,2696,4,Villa,89,1951,
+Byfoged Holcksvej 5 4880 Nysted,5,465000.0,07-10-1992,Alm.,0,3,Villa,118,1973,
+Ved Havnen 8 4880 Nysted,8,570000.0,14-09-1992,Alm.,3800,5,Sommerhus,150,1969,
+Skansevej 30 4880 Nysted,30,495000.0,24-08-1992,Alm.,0,5,Villa,181,1900,
+Østergade 5 4880 Nysted,5,285000.0,02-07-1992,Alm.,3166,4,Villa,90,1922,
+Fjordvej 10 4880 Nysted,10,485000.0,30-06-1992,Alm.,0,4,Villa,142,1965,
+Adelgade 59 4880 Nysted,59,390000.0,22-06-1992,Alm.,3333,4,Rækkehus,117,1848,
+Birkely 62 4880 Nysted,62,270000.0,23-05-1992,Alm.,4500,4,Sommerhus,60,1977,
+Rosenvænget 36 4880 Nysted,36,275000.0,22-05-1992,Alm.,0,5,Villa,147,1980,
+Bomstræde 12 4880 Nysted,12,225000.0,17-04-1992,Alm.,1704,6,Villa,132,1914,
+Billevej 8 4880 Nysted,8,125000.0,06-03-1992,Alm.,1736,2,Villa,72,1902,
+Adelgade 80B 4880 Nysted,0,535991.0,05-03-1992,Alm.,6305,3,Villa,85,1818,
+Fjordvej 31 4880 Nysted,31,110000.0,31-01-1992,Fam.,916,4,Villa,120,1966,

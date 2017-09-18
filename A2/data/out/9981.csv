@@ -1,0 +1,741 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Blåbærvej 8 9981 Jerup,8,575000.0,20-04-2017,Alm.,10849,3,Sommerhus,53,1974,
+Bugten 40 9981 Jerup,40,875000.0,03-04-2017,Alm.,13059,4,Sommerhus,67,1974,-12 %
+Vølundsvej 10 9981 Jerup,10,425000.0,30-03-2017,Alm.,4009,4,Villa,106,1962,
+Milrimvej 41 9981 Jerup,41,295000.0,06-03-2017,Alm.,5900,3,Sommerhus,50,1967,-41 %
+Sindalvej 11 9981 Jerup,11,650000.0,01-03-2017,Alm.,3915,5,Villa,166,1913,-5 %
+Kuskevej 18 9981 Jerup,18,210144.0,21-02-2017,Fam.,4202,3,Sommerhus,50,1970,
+Kippen 22E 9981 Jerup,0,1150000.0,02-02-2017,Alm.,15753,3,Sommerhus,73,1970,-11 %
+Havstokken 5 9981 Jerup,5,1000000.0,02-02-2017,Fam.,8547,4,Sommerhus,117,1965,
+Kvisselvej 12 9981 Jerup,12,870000.0,26-01-2017,Alm.,3799,7,Villa,229,1969,-3 %
+Grusbakken 4 9981 Jerup,4,930000.0,19-01-2017,Alm.,19787,3,Sommerhus,47,1972,-7 %
+Foldenvej 30 9981 Jerup,30,285000.0,17-01-2017,Alm.,8382,2,Sommerhus,34,1961,-19 %
+Strandbyhedevej 25 9981 Jerup,25,650000.0,17-01-2017,Alm.,4961,6,Villa,131,1963,-6 %
+Tyttebærvej 6 9981 Jerup,6,1350000.0,10-01-2017,Alm.,18493,4,Sommerhus,73,1977,-8 %
+Granvej 12 9981 Jerup,12,141100.0,04-01-2017,Auktion,1397,3,Villa,101,1950,-52 %
+Milrimvej 7 9981 Jerup,7,299500.0,02-01-2017,Fam.,2037,3,Villa,147,1980,
+Hirsevej 4 9981 Jerup,4,350000.0,02-01-2017,Alm.,3125,5,Villa,112,1977,-11 %
+Kippen 9 9981 Jerup,9,1275000.0,21-12-2016,Alm.,14825,5,Sommerhus,86,1961,-9 %
+Foldenvej 85 9981 Jerup,85,939000.0,12-12-2016,Alm.,4327,7,Stuehus,217,1900,-53 %
+Sindalvej 30 9981 Jerup,30,330000.0,01-12-2016,Fam.,1987,7,Villa,166,1950,-33 %
+Tyttebærvej 23 9981 Jerup,23,1800000.0,28-11-2016,Alm.,20224,4,Sommerhus,89,1960,-5 %
+Sindalvej 60A 9981 Jerup,0,350000.0,23-11-2016,Alm.,2916,4,Villa,120,1957,
+Nyvangsvej 7 9981 Jerup,7,415000.0,23-11-2016,Alm.,3320,5,Villa,125,1969,-16 %
+Sandbakken 19 9981 Jerup,19,1075000.0,09-11-2016,Alm.,11944,4,Sommerhus,90,1987,-17 %
+Brattenvej 20 9981 Jerup,20,1010000.0,03-11-2016,Alm.,14027,4,Sommerhus,72,1986,
+Foldenvej 15 9981 Jerup,15,200000.0,02-11-2016,Alm.,1250,3,Stuehus,160,1914,
+Foldenvej 38 9981 Jerup,38,185000.0,31-10-2016,Alm.,837,7,Stuehus,221,1923,
+Enebærvej 28 9981 Jerup,28,325834.0,25-10-2016,Fam.,3580,4,Sommerhus,91,2011,
+Skagensvej 484 9981 Jerup,484,2096333.0,21-10-2016,Alm.,8662,8,Stuehus,242,1900,
+Kandeborgvej 12 9981 Jerup,12,1575000.0,17-10-2016,Alm.,15594,4,Sommerhus,101,1997,-1 %
+Sandbakken 14 9981 Jerup,14,1020000.0,07-10-2016,Alm.,11086,6,Sommerhus,92,1973,
+Råsigvej 101 9981 Jerup,101,1600000.0,21-09-2016,Fam.,10191,5,Villa,157,2009,
+Snedkervej 2 9981 Jerup,2,1100000.0,21-09-2016,Alm.,14473,4,Sommerhus,76,1970,-2 %
+Klemmen 28 9981 Jerup,28,1450000.0,05-09-2016,Alm.,17901,4,Sommerhus,81,1986,-3 %
+Gyvelvej 2 9981 Jerup,2,180000.0,03-09-2016,Fam.,1636,3,Villa,110,1957,
+Kandeborgvej 19 9981 Jerup,19,1225000.0,31-08-2016,Alm.,15506,4,Sommerhus,79,1990,-5 %
+Skagensvej 480 9981 Jerup,480,500000.0,24-08-2016,Alm.,2604,7,Stuehus,192,1950,
+Tranebærvej 5 9981 Jerup,5,885000.0,11-08-2016,Alm.,14047,3,Sommerhus,63,1977,-1 %
+Engdraget 14 9981 Jerup,14,545000.0,18-07-2016,Alm.,9083,4,Sommerhus,60,1974,-22 %
+Enebærvej 17 9981 Jerup,17,475000.0,05-07-2016,Alm.,4130,4,Sommerhus,115,1976,-4 %
+Klemmen 4 9981 Jerup,4,670000.0,13-06-2016,Alm.,12181,4,Sommerhus,55,1968,
+Kandeborgvej 1 9981 Jerup,1,1200000.0,09-06-2016,Alm.,14457,4,Sommerhus,83,1985,-7 %
+Brattenvej 23 9981 Jerup,23,1350000.0,01-06-2016,Alm.,14210,4,Sommerhus,95,1987,-3 %
+Skagensvej 575 9981 Jerup,575,538333.0,20-05-2016,Fam.,2161,6,Stuehus,249,1980,
+Klemmen 24 9981 Jerup,24,870000.0,19-05-2016,Alm.,11600,4,Sommerhus,75,1985,-13 %
+Sindalvej 70 9981 Jerup,70,1500000.0,10-05-2016,Alm.,7731,4,Stuehus,194,1933,
+Kuskevej 34 9981 Jerup,34,1970000.0,02-05-2016,Alm.,13221,4,Sommerhus,149,2007,
+Sandbakken 9 9981 Jerup,9,785000.0,26-04-2016,Alm.,9691,4,Sommerhus,81,1972,-1 %
+Tolshavevej 5 9981 Jerup,5,1080000.0,21-04-2016,Alm.,8852,5,Stuehus,122,1925,-10 %
+Kandeborgvej 13 9981 Jerup,13,975000.0,19-04-2016,Alm.,11079,4,Sommerhus,88,1986,-11 %
+Multebærvej 33 9981 Jerup,33,825000.0,14-04-2016,Alm.,11000,4,Sommerhus,75,1981,-8 %
+Himmerigsvej 40 9981 Jerup,40,485000.0,11-04-2016,Alm.,6554,3,Stuehus,74,1911,
+Kalmervej 32 9981 Jerup,32,250000.0,07-04-2016,Alm.,2032,5,Villa,123,1976,-9 %
+Kvisselvej 10 9981 Jerup,10,395000.0,07-04-2016,Alm.,2532,5,Villa,156,1959,-17 %
+Bugten 24 9981 Jerup,24,825000.0,15-02-2016,Alm.,11301,3,Sommerhus,73,1978,-8 %
+Skagensvej 393 9981 Jerup,393,220000.0,27-01-2016,Alm.,1309,6,Villa,168,1968,-44 %
+Åmarksvej 48 9981 Jerup,48,1100000.0,26-01-2016,Alm.,7006,4,Villa,157,1998,-8 %
+Napstjertvej 1 9981 Jerup,1,2297690.0,22-01-2016,Alm.,5701,7,Stuehus,403,1871,
+Skagensvej 388 9981 Jerup,388,1550000.0,12-01-2016,Alm.,6981,7,Stuehus,222,1860,
+Krøgen 31 9981 Jerup,31,649100.0,22-12-2015,Fam.,10303,3,Sommerhus,63,1979,
+Musbakken 19 9981 Jerup,19,413500.0,05-12-2015,Fam.,6891,3,Sommerhus,60,1971,
+Revlen 9 9981 Jerup,9,462500.0,30-11-2015,Fam.,6166,4,Sommerhus,75,1985,
+Tranebærvej 1 9981 Jerup,1,570000.0,30-11-2015,Alm.,8028,4,Sommerhus,71,1976,-4 %
+Kandeborgvej 10 9981 Jerup,10,1062500.0,27-11-2015,Fam.,12073,4,Sommerhus,88,1995,
+Grusbakken 16 9981 Jerup,16,970000.0,20-11-2015,Alm.,11022,5,Sommerhus,88,1960,-3 %
+Kandeborgvej 32 9981 Jerup,32,990000.0,04-11-2015,Alm.,16779,4,Sommerhus,59,1965,-10 %
+Skagensvej 321A 9981 Jerup,0,145000.0,27-10-2015,Alm.,0,4,Sommerhus,76,1927,
+Bugten 46 9981 Jerup,46,600000.0,26-10-2015,Alm.,11320,4,Sommerhus,53,1972,-14 %
+Skagensvej 409 9981 Jerup,409,35000.0,14-10-2015,Alm.,343,6,Villa,102,1902,-65 %
+Snedkervej 8 9981 Jerup,8,215000.0,07-10-2015,Fam.,2986,4,Sommerhus,72,1972,
+Klemmen 9 9981 Jerup,9,602075.0,05-10-2015,Auktion,8725,3,Sommerhus,69,1965,
+Sandbakken 23 9981 Jerup,23,935000.0,02-10-2015,Fam.,12302,3,Sommerhus,76,1989,
+Bugten 28 9981 Jerup,28,600000.0,23-09-2015,Alm.,10169,4,Sommerhus,59,1974,-14 %
+Kalmervej 4 9981 Jerup,4,400000.0,11-09-2015,Alm.,3539,4,Villa,113,1965,
+Bjørnsvej 3 9981 Jerup,3,225000.0,09-09-2015,Alm.,1607,4,Villa,140,1950,
+Tyttebærvej 14 9981 Jerup,14,1500000.0,08-09-2015,Fam.,16483,5,Sommerhus,91,1974,
+Tranebærvej 8 9981 Jerup,8,865000.0,04-09-2015,Alm.,11233,4,Sommerhus,77,1974,
+Kandeborgvej 33 9981 Jerup,33,561000.0,31-08-2015,Andet,7285,4,Sommerhus,77,1975,
+Skagensvej 585 9981 Jerup,585,1086595.0,25-08-2015,Alm.,4527,5,Stuehus,240,1927,
+Tranebærvej 3 9981 Jerup,3,575000.0,18-08-2015,Alm.,8098,4,Sommerhus,71,1976,-3 %
+Napstjert Mose Vej 6 9981 Jerup,6,345245.0,17-08-2015,Alm.,2030,6,Villa,170,1900,
+Sindalvej 3 9981 Jerup,3,265000.0,12-08-2015,Alm.,3312,3,Villa,80,1910,0 %
+Lyngtoften 7 9981 Jerup,7,340000.0,11-07-2015,Alm.,2635,5,Villa,129,1947,-38 %
+Brattenvej 37 9981 Jerup,37,340000.0,10-07-2015,Alm.,3736,4,Sommerhus,91,2016,
+Granvej 3 9981 Jerup,3,463800.0,07-07-2015,Alm.,3865,4,Villa,120,1961,
+Napstjertvej 75 9981 Jerup,75,54965.0,03-07-2015,Alm.,194,10,Stuehus,282,1877,
+Krøgen 3 9981 Jerup,3,1775000.0,03-07-2015,Alm.,15990,5,Sommerhus,111,2000,
+Granvej 29 9981 Jerup,29,350000.0,29-06-2015,Auktion,2734,4,Villa,128,1973,
+Kippen 16 9981 Jerup,16,2045000.0,04-06-2015,Alm.,14006,5,Sommerhus,146,2010,0 %
+Åmarksvej 42 9981 Jerup,42,600000.0,02-06-2015,Alm.,4580,5,Villa,131,1986,
+Brattenvej 30 9981 Jerup,30,680000.0,21-05-2015,Alm.,6126,5,Sommerhus,111,1971,
+Kippen 34 9981 Jerup,34,1241000.0,11-05-2015,Fam.,23865,4,Sommerhus,52,1968,-35 %
+Milrimvej 88 9981 Jerup,88,2675000.0,09-04-2015,Alm.,18576,4,Stuehus,144,2007,-11 %
+Bugten 17 9981 Jerup,17,1235000.0,09-04-2015,Alm.,13571,5,Sommerhus,91,1994,
+Schmidtsvej 1 9981 Jerup,1,220000.0,08-04-2015,Alm.,2528,4,Villa,87,1857,-10 %
+Koglevej 3 9981 Jerup,3,990000.0,07-04-2015,Alm.,8250,5,Sommerhus,120,2016,-1 %
+Sandbakken 39 9981 Jerup,39,955000.0,03-04-2015,Alm.,7022,5,Sommerhus,136,1972,
+Skagensvej 316 9981 Jerup,316,535000.0,29-03-2015,Alm.,3905,4,Villa,137,1954,0 %
+Klemmen 18 9981 Jerup,18,1100000.0,25-03-2015,Alm.,11956,4,Sommerhus,92,1981,
+Tranebærvej 7 9981 Jerup,7,975000.0,18-03-2015,Alm.,15234,3,Sommerhus,64,1985,
+Kippen 13 9981 Jerup,13,920000.0,12-03-2015,Alm.,18400,2,Sommerhus,50,1973,-3 %
+Bugten 38 9981 Jerup,38,915000.0,25-02-2015,Alm.,14076,4,Sommerhus,65,1974,-8 %
+Napstjert Mose Vej 10 9981 Jerup,10,585000.0,09-01-2015,Fam.,6573,3,Villa,89,1922,
+Milrimvej 85 9981 Jerup,85,5763000.0,04-01-2015,Alm.,20956,7,Stuehus,275,1870,
+Tyttebærvej 19B 9981 Jerup,0,576200.0,10-12-2014,Fam.,6942,3,Sommerhus,83,1950,
+Foldenvej 40 9981 Jerup,40,120000.0,21-11-2014,Alm.,902,4,Stuehus,133,1900,
+Brattenvej 14 9981 Jerup,14,206125.0,19-11-2014,Fam.,2483,4,Sommerhus,83,1950,
+Musbakken 6 9981 Jerup,6,700000.0,17-11-2014,Alm.,7954,4,Sommerhus,88,1972,
+Kuskevej 6 9981 Jerup,6,530000.0,13-11-2014,Alm.,7571,4,Sommerhus,70,1974,
+Søndergårdsvej 3 9981 Jerup,3,150000.0,28-10-2014,Alm.,2142,2,Villa,70,1907,-3 %
+Skagensvej 451 9981 Jerup,451,190000.0,27-10-2014,Auktion,2405,3,Villa,79,1954,-48 %
+Tyttebærvej 13 9981 Jerup,13,380000.0,24-10-2014,Alm.,8444,3,Sommerhus,45,1938,
+Slåenvej 10 9981 Jerup,10,400000.0,13-10-2014,Alm.,8000,3,Sommerhus,50,1973,
+Musbakken 14 9981 Jerup,14,870000.0,04-10-2014,Alm.,10481,3,Sommerhus,83,1971,-3 %
+Milrimvej 106 9981 Jerup,106,191200.0,26-09-2014,Alm.,1426,5,Sommerhus,134,1920,
+Brattenvej 44 9981 Jerup,44,1125000.0,03-09-2014,Fam.,18750,3,Sommerhus,60,1963,
+Doppen 2 9981 Jerup,2,1075000.0,02-09-2014,Alm.,0,4,Sommerhus,84,1988,-2 %
+Skagensvej 483 9981 Jerup,483,1549500.0,28-08-2014,Alm.,10261,5,Stuehus,151,1947,
+Kvisselvej 23 9981 Jerup,23,180000.0,28-08-2014,Alm.,2068,5,Villa,87,1877,-20 %
+Kippen 26 9981 Jerup,26,700000.0,18-08-2014,Alm.,7692,3,Sommerhus,91,2016,-22 %
+Bugten 36 9981 Jerup,36,910000.0,06-08-2014,Alm.,11973,4,Sommerhus,76,1984,-9 %
+Brattenvej 60 9981 Jerup,60,3040000.0,08-07-2014,Alm.,44705,3,Sommerhus,68,1965,
+Himmerigsvej 16 9981 Jerup,16,796987.0,04-07-2014,Fam.,3759,7,Villa,212,1964,
+Nyvangsvej 1 9981 Jerup,1,364985.0,04-07-2014,Fam.,2607,6,Villa,140,1967,
+Skagensvej 454 9981 Jerup,454,1000000.0,01-07-2014,Alm.,6578,4,Stuehus,152,1857,
+Jennetvej 27 9981 Jerup,27,2495000.0,22-06-2014,Alm.,12230,5,Stuehus,204,1924,
+Engdraget 18 9981 Jerup,18,474622.0,18-06-2014,Fam.,8789,3,Sommerhus,54,1980,-57 %
+Skagensvej 310 9981 Jerup,310,395000.0,12-06-2014,Alm.,2244,7,Villa,176,1959,-20 %
+Engsigen 22 9981 Jerup,22,750000.0,11-06-2014,Fam.,10416,3,Sommerhus,72,1950,
+Engsigen 24 9981 Jerup,24,750000.0,11-06-2014,Fam.,10000,4,Sommerhus,75,1950,
+Tyttebærvej 35B 9981 Jerup,0,1200000.0,10-06-2014,Alm.,21052,5,Sommerhus,57,1984,
+Tyttebærvej 29 9981 Jerup,29,1800000.0,31-05-2014,Fam.,25714,4,Sommerhus,70,1983,
+Kandeborgvej 11 9981 Jerup,11,1815000.0,10-05-2014,Alm.,14877,5,Sommerhus,122,1992,-4 %
+Tyttebærvej 25A 9981 Jerup,0,1369000.0,30-04-2014,Andet,15556,4,Sommerhus,88,1994,
+Kippen 17 9981 Jerup,17,977500.0,25-04-2014,Fam.,11777,4,Sommerhus,83,1975,
+Multebærvej 25A 9981 Jerup,0,965000.0,23-04-2014,Alm.,18207,4,Sommerhus,53,1970,-31 %
+Skagensvej 424 9981 Jerup,424,205000.0,12-03-2014,Auktion,971,10,Villa,211,1924,
+Havstokken 28 9981 Jerup,28,1266000.0,13-02-2014,Fam.,16880,3,Sommerhus,75,1966,
+Kuskevej 36 9981 Jerup,36,1925000.0,08-02-2014,Alm.,12261,5,Sommerhus,157,2007,
+Fårebakken 1 9981 Jerup,1,950000.0,01-02-2014,Alm.,10919,4,Sommerhus,87,1970,
+Sindalvej 19 9981 Jerup,19,750000.0,30-01-2014,Alm.,5067,4,Villa,148,1965,-6 %
+Kippen 7 9981 Jerup,7,1320000.0,23-01-2014,Alm.,16097,5,Sommerhus,82,1985,
+Sindalvej 37 9981 Jerup,37,510000.0,09-01-2014,Alm.,4857,4,Villa,105,1947,
+Granvej 20 9981 Jerup,20,535000.0,19-12-2013,Alm.,4776,4,Villa,112,1959,-2 %
+Bugten 56 9981 Jerup,56,739500.0,13-12-2013,Fam.,5963,4,Sommerhus,124,2015,
+Brattenvej 54 9981 Jerup,54,902600.0,07-12-2013,Fam.,18052,3,Sommerhus,50,1967,
+Ledetsvej 9A 9981 Jerup,0,1080000.0,15-11-2013,Alm.,4251,8,Villa,254,1974,-10 %
+Kandeborgvej 29 9981 Jerup,29,237500.0,15-11-2013,Fam.,0,5,Sommerhus,88,1979,
+Engsigen 26 9981 Jerup,26,147420.0,04-10-2013,Fam.,1198,4,Sommerhus,123,2000,
+Foldenvej 18 9981 Jerup,18,500000.0,04-10-2013,Alm.,9615,3,Sommerhus,52,1969,
+Multebærvej 27B 9981 Jerup,0,1075000.0,02-10-2013,Alm.,0,3,Sommerhus,85,1983,-14 %
+Skagensvej 400 9981 Jerup,400,3925000.0,27-09-2013,Fam.,17367,8,Stuehus,226,1939,
+Multebærvej 21 9981 Jerup,21,1880000.0,11-09-2013,Alm.,24415,4,Sommerhus,77,1976,-1 %
+Brattenvej 39 9981 Jerup,39,1350000.0,29-08-2013,Alm.,0,4,Sommerhus,93,1998,
+Snedkervej 14 9981 Jerup,14,900000.0,16-07-2013,Alm.,10843,4,Sommerhus,83,1973,
+Nordvangsvej 1 9981 Jerup,1,500000.0,11-07-2013,Alm.,4166,4,Villa,120,1965,-28 %
+Skagensvej 421 9981 Jerup,421,47000.0,02-07-2013,Auktion,340,5,Villa,138,1937,
+Kuskevej 25 9981 Jerup,25,1285000.0,02-07-2013,Alm.,10798,5,Sommerhus,119,1992,-14 %
+Depotvej 35 9981 Jerup,35,895000.0,06-06-2013,Alm.,7336,5,Villa,122,1963,0 %
+Skagensvej 384 9981 Jerup,384,7500000.0,21-05-2013,Alm.,31779,5,Stuehus,236,1940,
+Multebærvej 51 9981 Jerup,51,517500.0,16-05-2013,Alm.,12621,3,Sommerhus,41,1978,
+Grusbakken 14 9981 Jerup,14,350000.0,24-04-2013,Fam.,4375,4,Sommerhus,80,1970,
+Kandeborgvej 9 9981 Jerup,9,1000000.0,13-04-2013,Alm.,8333,5,Sommerhus,120,1992,-17 %
+Sindalvej 26 9981 Jerup,26,350000.0,27-03-2013,Alm.,2134,5,Villa,164,1950,-21 %
+Kvisselvej 9 9981 Jerup,9,570000.0,19-03-2013,Alm.,2850,5,Villa,200,1944,
+Kuskevej 28 9981 Jerup,28,2017378.0,04-03-2013,Alm.,13449,5,Sommerhus,150,2008,
+Kalmervej 15B 9981 Jerup,0,520961.0,28-02-2013,Alm.,3046,6,Villa,171,1976,
+Fårebakken 6 9981 Jerup,6,1375000.0,21-02-2013,Alm.,14945,4,Sommerhus,92,1974,
+Skagensvej 403 9981 Jerup,403,205000.0,12-02-2013,Alm.,1198,6,Villa,171,1950,-18 %
+Multebærvej 17B 9981 Jerup,0,950000.0,01-02-2013,Alm.,0,5,Sommerhus,82,1978,
+Klemmen 8 9981 Jerup,8,700000.0,09-11-2012,Fam.,9722,3,Sommerhus,72,1960,
+Revlen 16 9981 Jerup,16,2195000.0,07-11-2012,Alm.,15243,5,Sommerhus,144,2006,10 %
+Multebærvej 19 9981 Jerup,19,850000.0,30-10-2012,Fam.,14655,4,Sommerhus,58,1986,
+Lyngtoften 10 9981 Jerup,10,225000.0,08-10-2012,Alm.,1744,5,Villa,129,1947,
+Løvvej 2 9981 Jerup,2,195000.0,05-10-2012,Alm.,1857,4,Villa,105,1947,
+Lyngtoften 2 9981 Jerup,2,145000.0,03-10-2012,Alm.,1124,4,Villa,129,1947,
+Lyngtoften 4 9981 Jerup,4,175000.0,03-10-2012,Alm.,1356,5,Villa,129,1947,
+Lyngtoften 12 9981 Jerup,12,195000.0,03-10-2012,Alm.,1511,5,Villa,129,1947,
+Kuskevej 20 9981 Jerup,20,1045000.0,10-09-2012,Alm.,15144,4,Sommerhus,69,1982,-5 %
+Granvej 10 9981 Jerup,10,250000.0,31-08-2012,Alm.,2873,4,Villa,87,1949,-28 %
+Lyngtoften 8 9981 Jerup,8,195000.0,22-08-2012,Alm.,1511,5,Villa,129,1947,
+Lyngtoften 14 9981 Jerup,14,245000.0,22-08-2012,Alm.,1899,5,Villa,129,1947,
+Kippen 38 9981 Jerup,38,470000.0,08-08-2012,Alm.,11750,3,Sommerhus,40,1980,
+Kalmervej 4A 9981 Jerup,0,1095000.0,02-08-2012,Alm.,6759,4,Villa,162,1979,0 %
+Lyngtoften 1 9981 Jerup,1,250000.0,01-08-2012,Alm.,2380,4,Villa,105,1947,
+Lyngtoften 9 9981 Jerup,9,195000.0,01-08-2012,Alm.,1511,5,Villa,129,1947,
+Kandeborgvej 15 9981 Jerup,15,765000.0,18-07-2012,Alm.,11769,4,Sommerhus,65,1981,
+Lyngtoften 3 9981 Jerup,3,145000.0,12-07-2012,Alm.,1380,4,Villa,105,1947,
+Lyngtoften 6 9981 Jerup,6,160000.0,12-07-2012,Alm.,1240,5,Villa,129,1947,
+Lyngtoften 18 9981 Jerup,18,462100.0,10-07-2012,Alm.,4125,5,Villa,112,1958,
+Brattenvej 19 9981 Jerup,19,500000.0,10-07-2012,Alm.,8620,3,Sommerhus,58,1978,
+Lyngtoften 5 9981 Jerup,5,527000.0,09-07-2012,Alm.,3513,5,Villa,150,1939,
+Lyngtoften 16 9981 Jerup,16,300000.0,06-07-2012,Alm.,2000,6,Villa,150,1939,
+Bugten 50 9981 Jerup,50,800000.0,27-06-2012,Alm.,13114,3,Sommerhus,61,1970,
+Bådhusvej 3 9981 Jerup,3,330000.0,11-06-2012,Alm.,3300,5,Villa,100,1949,-13 %
+Kippen 5 9981 Jerup,5,637000.0,08-06-2012,Alm.,12740,3,Sommerhus,50,1965,
+Sandbakken 11 9981 Jerup,11,397500.0,06-06-2012,Alm.,6022,2,Sommerhus,66,2013,
+Kandeborgvej 26 9981 Jerup,26,1350000.0,10-05-2012,Alm.,19852,3,Sommerhus,68,1992,-10 %
+Kuskevej 32 9981 Jerup,32,2000000.0,02-05-2012,Fam.,13888,5,Sommerhus,144,2007,
+Krøgen 19 9981 Jerup,19,1600000.0,06-03-2012,Alm.,18604,5,Sommerhus,86,1960,-8 %
+Doppen 12 9981 Jerup,12,2390000.0,16-02-2012,Alm.,16040,5,Sommerhus,149,2000,-3 %
+Hirsevej 7 9981 Jerup,7,800000.0,07-02-2012,Auktion,4469,5,Villa,179,1978,
+Koglevej 5 9981 Jerup,5,1175000.0,02-02-2012,Fam.,13202,4,Sommerhus,89,1965,
+Milrimvej 13 9981 Jerup,13,180000.0,06-01-2012,Fam.,1216,5,Villa,148,1975,
+Slåenvej 6 9981 Jerup,6,637500.0,21-12-2011,Fam.,11383,3,Sommerhus,56,1968,
+Kippen 12 9981 Jerup,12,1197500.0,16-12-2011,Fam.,7983,4,Sommerhus,150,2003,
+Tranebærvej 17 9981 Jerup,17,2000000.0,13-12-2011,Fam.,15625,4,Sommerhus,128,2002,
+Åmarksvej 40 9981 Jerup,40,316490.0,11-12-2011,Alm.,2361,6,Villa,134,1976,
+Skagensvej 313 9981 Jerup,313,160001.0,29-11-2011,Auktion,1185,5,Villa,135,1909,
+Kuskevej 24 9981 Jerup,24,1915000.0,17-11-2011,Alm.,13298,5,Sommerhus,144,2007,-22 %
+Nyvangsvej 4 9981 Jerup,4,435000.0,04-11-2011,Alm.,3480,4,Villa,125,1957,-12 %
+Bjørnsvej 2 9981 Jerup,2,725000.0,30-10-2011,Alm.,5000,4,Villa,145,1957,-9 %
+Grusbakken 5 9981 Jerup,5,1009000.0,23-09-2011,Alm.,10090,4,Sommerhus,100,1970,-16 %
+Granvej 17 9981 Jerup,17,600000.0,14-09-2011,Alm.,4958,4,Villa,121,1893,-9 %
+Kippen 19 9981 Jerup,19,1175000.0,29-08-2011,Alm.,0,5,Sommerhus,101,1975,
+Revlen 7 9981 Jerup,7,1495000.0,29-08-2011,Alm.,13971,4,Sommerhus,107,1999,-6 %
+Granvej 23 9981 Jerup,23,220000.0,10-08-2011,Auktion,2244,4,Villa,98,1963,
+Kuskevej 26 9981 Jerup,26,2000000.0,10-08-2011,Alm.,13888,5,Sommerhus,144,2007,-16 %
+Skagensvej 438B 9981 Jerup,0,900000.0,06-08-2011,Alm.,6428,4,Stuehus,140,1863,
+Krøgen 7 9981 Jerup,7,1500000.0,21-07-2011,Alm.,0,4,Sommerhus,97,1962,-6 %
+Bugten 29 9981 Jerup,29,812500.0,15-07-2011,Alm.,7190,5,Sommerhus,113,1969,
+Bugten 44 9981 Jerup,44,325000.0,16-06-2011,Alm.,5803,4,Sommerhus,56,1969,
+Kuskevej 55 9981 Jerup,55,985000.0,26-05-2011,Alm.,17909,3,Sommerhus,55,1965,-5 %
+Tranebærvej 2 9981 Jerup,2,737480.0,07-05-2011,Alm.,6094,4,Sommerhus,121,1977,
+Engsig Bækvej 4 9981 Jerup,4,200000.0,25-03-2011,Alm.,2105,5,Sommerhus,95,2013,
+Schmidtsvej 8 9981 Jerup,8,608000.0,13-03-2011,Alm.,4750,3,Villa,128,1970,
+Kippen 10 9981 Jerup,10,800000.0,11-03-2011,Fam.,16000,3,Sommerhus,50,1969,
+Åmarksvej 56 9981 Jerup,56,375000.0,08-03-2011,Auktion,3947,3,Villa,95,1984,
+Himmerigsvej 6 9981 Jerup,6,125000.0,08-03-2011,Alm.,822,3,Stuehus,152,1931,
+Milrimvej 12 9981 Jerup,12,1425000.0,25-02-2011,Alm.,5987,7,Villa,238,1974,
+Vølundsvej 8 9981 Jerup,8,530000.0,23-02-2011,Alm.,5888,3,Villa,90,1962,-11 %
+Engsigen 4 9981 Jerup,4,1565000.0,17-02-2011,Alm.,13041,5,Sommerhus,120,2004,-13 %
+Klemmen 14 9981 Jerup,14,850000.0,11-02-2011,Alm.,13492,4,Sommerhus,63,1981,
+Tyttebærvej 22 9981 Jerup,22,1325000.0,22-01-2011,Alm.,22083,4,Sommerhus,60,1974,-11 %
+Hirsevej 10 9981 Jerup,10,300000.0,16-01-2011,Alm.,2702,4,Villa,111,1977,
+Kippen 20B 9981 Jerup,0,710000.0,11-01-2011,Alm.,6893,5,Sommerhus,103,2012,
+Brattenvej 35 9981 Jerup,35,1355000.0,03-12-2010,Alm.,13155,5,Sommerhus,103,1993,-6 %
+Revlen 8 9981 Jerup,8,650000.0,02-12-2010,Alm.,7142,4,Sommerhus,91,1979,-40 %
+Blåbærvej 29 9981 Jerup,29,675000.0,29-10-2010,Alm.,7941,5,Sommerhus,85,2016,-3 %
+Kippen 14 9981 Jerup,14,800000.0,22-10-2010,Fam.,15686,4,Sommerhus,51,1961,
+Løvvej 3 9981 Jerup,3,500000.0,21-10-2010,Fam.,4716,4,Villa,106,1947,
+Schmidtsvej 9 9981 Jerup,9,565000.0,25-09-2010,Alm.,6569,3,Villa,86,1952,-10 %
+Blåbærvej 10 9981 Jerup,10,985000.0,21-09-2010,Alm.,17589,3,Sommerhus,56,1978,0 %
+Blåbærvej 21 9981 Jerup,21,1250000.0,14-09-2010,Alm.,18939,4,Sommerhus,66,1985,
+Sindalvej 56 9981 Jerup,56,408000.0,09-09-2010,Fam.,5746,2,Villa,71,1945,
+Snedkervej 1 9981 Jerup,1,202000.0,02-09-2010,Fam.,2126,5,Sommerhus,95,1973,
+Sindalvej 1 9981 Jerup,1,770000.0,23-08-2010,Alm.,6160,4,Villa,125,1940,0 %
+Kandeborgvej 16 9981 Jerup,16,1400000.0,17-08-2010,Alm.,10769,5,Sommerhus,130,1995,-6 %
+Engblommen 4 9981 Jerup,4,685000.0,13-08-2010,Alm.,14891,3,Sommerhus,46,1969,-1 %
+Revlen 5 9981 Jerup,5,411250.0,11-08-2010,Alm.,3671,5,Sommerhus,112,2001,
+Åmarksvej 41 9981 Jerup,41,685000.0,19-07-2010,Alm.,5708,4,Villa,120,1974,-4 %
+Grusbakken 7 9981 Jerup,7,340000.0,02-07-2010,Fam.,5312,4,Sommerhus,64,1983,
+Kippen 20C 9981 Jerup,0,725000.0,29-06-2010,Alm.,5370,5,Sommerhus,135,2011,-15 %
+Engdraget 10 9981 Jerup,10,700000.0,28-06-2010,Alm.,17500,3,Sommerhus,40,1971,-6 %
+Kippen 18 9981 Jerup,18,950000.0,17-06-2010,Fam.,11875,5,Sommerhus,80,1968,-5 %
+Hirsevej 13 9981 Jerup,13,1378000.0,13-06-2010,Fam.,6500,8,Villa,212,1979,
+Engsigen 6 9981 Jerup,6,810000.0,11-06-2010,Alm.,7043,5,Sommerhus,115,2000,
+Klemmen 5 9981 Jerup,5,870000.0,26-05-2010,Alm.,17755,3,Sommerhus,49,1969,-1 %
+Skagensvej 458A 9981 Jerup,0,25000.0,25-05-2010,Auktion,227,4,Rækkehus,110,1937,
+Brattenvej 45 9981 Jerup,45,850000.0,20-05-2010,Fam.,10625,5,Sommerhus,80,1975,
+Ved Kirken 1 9981 Jerup,1,200000.0,18-05-2010,Auktion,2127,4,Villa,94,1954,
+Skagensvej 429 9981 Jerup,429,297054.0,13-05-2010,Alm.,2106,4,Villa,141,1890,
+Engsig Bækvej 27 9981 Jerup,27,510000.0,25-04-2010,Alm.,2947,4,Sommerhus,173,2013,
+Himmerigsvej 50 9981 Jerup,50,1709325.0,15-04-2010,Alm.,21366,3,Stuehus,80,1900,-14 %
+Skagensvej 329 9981 Jerup,329,200000.0,13-04-2010,Auktion,913,6,Villa,219,1928,
+Sandbakken 18 9981 Jerup,18,1495000.0,07-04-2010,Auktion,9900,5,Sommerhus,151,2004,-40 %
+Enebærvej 27 9981 Jerup,27,775000.0,20-03-2010,Alm.,6250,4,Sommerhus,124,2011,-16 %
+Skagensvej 383 9981 Jerup,383,100000.0,09-03-2010,Auktion,671,6,Villa,149,1952,
+Sindalvej 39 9981 Jerup,39,710000.0,19-02-2010,Alm.,6698,4,Villa,106,1947,
+Fårebakken 3 9981 Jerup,3,732600.0,01-02-2010,Fam.,11100,4,Sommerhus,66,1962,
+Granvej 4 9981 Jerup,4,835000.0,19-01-2010,Fam.,5529,5,Villa,151,1949,
+Brattenvej 49 9981 Jerup,49,1140000.0,07-01-2010,Alm.,13103,4,Sommerhus,87,1965,-12 %
+Kvisselvej 29 9981 Jerup,29,315000.0,21-12-2009,Alm.,3461,3,Villa,91,1960,-9 %
+Koglevej 4 9981 Jerup,4,995000.0,17-12-2009,Alm.,19900,3,Sommerhus,50,1964,0 %
+Kandeborgvej 7 9981 Jerup,7,1500000.0,14-12-2009,Alm.,11363,5,Sommerhus,132,1992,-10 %
+Amalievej 5 9981 Jerup,5,450000.0,08-12-2009,Alm.,5625,2,Villa,80,1904,
+Skagensvej 413 9981 Jerup,413,310000.0,27-11-2009,Alm.,5535,3,Villa,56,1939,-17 %
+Musbakken 2 9981 Jerup,2,603500.0,25-11-2009,Fam.,15087,3,Sommerhus,40,1977,
+Råsigvej 20 9981 Jerup,20,885000.0,09-11-2009,Alm.,4425,5,Stuehus,200,1907,-73 %
+Tranebærvej 19 9981 Jerup,19,1275000.0,04-11-2009,Alm.,16139,4,Sommerhus,79,1992,-7 %
+Tranebærvej 6 9981 Jerup,6,855800.0,27-10-2009,Fam.,9404,4,Sommerhus,91,1975,
+Klemmen 22 9981 Jerup,22,1510000.0,29-09-2009,Alm.,16593,4,Sommerhus,91,1983,-5 %
+Bugten 8 9981 Jerup,8,1050000.0,22-09-2009,Alm.,13291,4,Sommerhus,79,1975,-19 %
+Milrimvej 8 9981 Jerup,8,475000.0,08-09-2009,Auktion,5588,4,Villa,85,1969,-2 %
+Multebærvej 31 9981 Jerup,31,1370000.0,13-08-2009,Alm.,19027,3,Sommerhus,72,2002,-2 %
+Kandeborgvej 34 9981 Jerup,34,1900000.0,06-08-2009,Alm.,15447,5,Sommerhus,123,2007,-22 %
+Kvisselvej 3 9981 Jerup,3,390000.0,03-08-2009,Alm.,2954,4,Villa,132,1956,
+Sandbakken 8 9981 Jerup,8,750000.0,28-07-2009,Alm.,0,4,Sommerhus,101,1975,-11 %
+Tyttebærvej 35A 9981 Jerup,0,740000.0,13-07-2009,Fam.,20000,3,Sommerhus,37,1961,
+Kuskevej 16 9981 Jerup,16,1150000.0,02-07-2009,Alm.,18548,3,Sommerhus,62,1984,-4 %
+Brattenvej 34 9981 Jerup,34,403500.0,16-06-2009,Fam.,4385,5,Sommerhus,92,1998,
+Sandbakken 31 9981 Jerup,31,1095000.0,08-06-2009,Alm.,20660,3,Sommerhus,53,1976,0 %
+Milrimvej 15A 9981 Jerup,0,177500.0,15-05-2009,Alm.,1420,5,Villa,125,1973,
+Kandeborgvej 25 9981 Jerup,25,1080000.0,13-05-2009,Alm.,12705,4,Sommerhus,85,1975,-6 %
+Sindalvej 24 9981 Jerup,24,495000.0,30-01-2009,Alm.,3113,5,Villa,159,1949,-17 %
+Vølundsvej 3 9981 Jerup,3,240000.0,19-12-2008,Alm.,2727,3,Villa,88,1960,
+Kuskevej 30 9981 Jerup,30,2000000.0,22-10-2008,Alm.,13888,5,Sommerhus,144,2007,
+Kuskevej 38 9981 Jerup,38,2025000.0,22-10-2008,Alm.,13590,4,Sommerhus,149,2007,
+Nyvangsvej 8 9981 Jerup,8,550000.0,15-10-2008,Alm.,3055,7,Villa,180,1969,-21 %
+Blåbærvej 2 9981 Jerup,2,807500.0,15-10-2008,Alm.,11875,4,Sommerhus,68,1972,
+Bugten 60 9981 Jerup,60,540000.0,14-10-2008,Alm.,20000,2,Sommerhus,27,1973,
+Multebærvej 43 9981 Jerup,43,850000.0,11-10-2008,Fam.,10625,4,Sommerhus,80,1977,
+Vølundsvej 5 9981 Jerup,5,840000.0,07-10-2008,Alm.,6562,4,Villa,128,1963,-6 %
+Skagensvej 470 9981 Jerup,470,1265000.0,25-09-2008,Alm.,7529,3,Villa,168,1922,0 %
+Skagensvej 605 9981 Jerup,605,2275000.0,22-09-2008,Alm.,19782,4,Stuehus,115,1890,-5 %
+Napstjert Mose Vej 11 9981 Jerup,11,3350000.0,18-09-2008,Alm.,22635,4,Stuehus,148,1972,
+Sindalvej 7 9981 Jerup,7,475000.0,10-09-2008,Alm.,3830,4,Villa,124,1932,-17 %
+Skagensvej 312 9981 Jerup,312,370000.0,03-09-2008,Alm.,6851,2,Villa,54,1942,-6 %
+Napstjertvej 12 9981 Jerup,12,569500.0,01-09-2008,Alm.,0,5,Villa,151,1977,
+Kuskevej 29 9981 Jerup,29,1275000.0,29-08-2008,Alm.,13010,4,Sommerhus,98,1980,-9 %
+Brattenvej 69 9981 Jerup,69,2775000.0,26-08-2008,Alm.,21679,5,Sommerhus,128,2009,
+Foldenvej 16 9981 Jerup,16,600000.0,24-08-2008,Fam.,18750,3,Sommerhus,32,1966,
+Skagensvej 306 9981 Jerup,306,350000.0,11-08-2008,Alm.,2800,4,Villa,125,1908,-12 %
+Skagensvej 415 9981 Jerup,415,675000.0,05-08-2008,Alm.,5192,6,Villa,130,1958,-15 %
+Engsig Bækvej 3 9981 Jerup,3,495000.0,31-07-2008,Alm.,3193,5,Sommerhus,155,2010,
+Milrimvej 89 9981 Jerup,89,2100000.0,25-07-2008,Alm.,0,5,Stuehus,200,1939,
+Tyttebærvej 34 9981 Jerup,34,1275000.0,07-07-2008,Alm.,14166,4,Sommerhus,90,2005,
+Napstjert Mose Vej 8 9981 Jerup,8,2025000.0,03-07-2008,Alm.,11705,5,Stuehus,173,1927,2 %
+Tyttebærvej 10 9981 Jerup,10,1750000.0,20-06-2008,Alm.,24305,4,Sommerhus,72,1974,
+Multebærvej 37 9981 Jerup,37,1500000.0,05-06-2008,Fam.,23437,4,Sommerhus,64,1965,
+Sandbakken 12 9981 Jerup,12,880000.0,04-06-2008,Alm.,15714,4,Sommerhus,56,1976,1 %
+Skagensvej 449 9981 Jerup,449,380000.0,21-05-2008,Auktion,3193,4,Villa,119,1954,
+Brattenvej 29 9981 Jerup,29,532000.0,16-05-2008,Fam.,6567,4,Sommerhus,81,1988,-60 %
+Kvisselvej 4 9981 Jerup,4,680000.0,14-05-2008,Alm.,5811,5,Villa,117,1934,-11 %
+Bugten 32 9981 Jerup,32,675000.0,09-05-2008,Alm.,13500,3,Sommerhus,50,1969,
+Vølundsvej 9 9981 Jerup,9,625000.0,05-05-2008,Alm.,7352,4,Villa,85,1962,-7 %
+Kippen 11 9981 Jerup,11,274060.0,01-05-2008,Fam.,4567,5,Sommerhus,60,1972,
+Schmidtsvej 4 9981 Jerup,4,780000.0,30-04-2008,Alm.,7222,4,Villa,108,1925,0 %
+Blåbærvej 4 9981 Jerup,4,2100000.0,27-04-2008,Alm.,24705,3,Sommerhus,85,1969,
+Multebærvej 45 9981 Jerup,45,1950000.0,24-04-2008,Alm.,27857,4,Sommerhus,70,1982,-17 %
+Tyttebærvej 20 9981 Jerup,20,1495000.0,10-04-2008,Alm.,28207,4,Sommerhus,53,1975,
+Havstokken 6 9981 Jerup,6,1200000.0,07-04-2008,Alm.,18181,4,Sommerhus,66,1981,-4 %
+Engdraget 16 9981 Jerup,16,1195000.0,24-03-2008,Alm.,17573,4,Sommerhus,68,1974,0 %
+Skagensvej 531 9981 Jerup,531,2000000.0,15-02-2008,Alm.,10362,6,Stuehus,193,1930,-16 %
+Engblommen 6 9981 Jerup,6,990000.0,11-02-2008,Alm.,15967,3,Sommerhus,62,1976,
+Multebærvej 39 9981 Jerup,39,1020000.0,29-01-2008,Alm.,9807,5,Sommerhus,104,1976,
+Engblommen 5 9981 Jerup,5,1600000.0,29-01-2008,Alm.,17021,5,Sommerhus,94,1969,
+Sindalvej 90 9981 Jerup,90,5550000.0,26-01-2008,Alm.,0,7,Stuehus,275,1900,-4 %
+Åmarksvej 43 9981 Jerup,43,422500.0,22-01-2008,Fam.,3580,4,Villa,118,1976,
+Åmarksvej 38 9981 Jerup,38,1085000.0,16-01-2008,Alm.,7750,6,Villa,140,1984,
+Doppen 16 9981 Jerup,16,1970000.0,15-01-2008,Alm.,15760,4,Sommerhus,125,1997,1 %
+Sindalvej 15 9981 Jerup,15,995000.0,04-01-2008,Alm.,3783,9,Villa,263,1973,-3 %
+Kalmervej 12 9981 Jerup,12,650000.0,17-12-2007,Alm.,3513,5,Villa,185,1968,
+Kuskevej 11 9981 Jerup,11,492500.0,11-12-2007,Fam.,0,5,Sommerhus,99,1968,
+Kippen 20A 9981 Jerup,0,1140000.0,22-11-2007,Alm.,14430,4,Sommerhus,79,1969,
+Åsvinget 10 9981 Jerup,10,1600000.0,14-11-2007,Alm.,17391,2,Rækkehus,92,2004,
+Revlingevej 32 9981 Jerup,32,1800000.0,07-11-2007,Alm.,12587,6,Sommerhus,143,1991,-8 %
+Mælkevejen 4 9981 Jerup,4,1100000.0,06-11-2007,Alm.,5188,5,Villa,212,1972,-6 %
+Kandeborgvej 24 9981 Jerup,24,990000.0,04-10-2007,Alm.,21063,3,Sommerhus,47,1985,
+Sandbakken 4 9981 Jerup,4,1075000.0,02-10-2007,Alm.,18859,3,Sommerhus,57,1986,
+Skagensvej 307 9981 Jerup,307,375000.0,28-09-2007,Andet,2862,4,Villa,131,1974,
+Napstjert Mose Vej 9 9981 Jerup,9,2600000.0,24-09-2007,Alm.,16666,7,Stuehus,156,1923,
+Kvisselvej 21 9981 Jerup,21,975000.0,24-09-2007,Alm.,5769,4,Villa,169,1888,
+Krøgen 34 9981 Jerup,34,2400000.0,18-09-2007,Alm.,16551,5,Sommerhus,145,1971,
+Åsvinget 6 9981 Jerup,6,1930000.0,13-09-2007,Alm.,20978,2,Rækkehus,92,2004,
+Skagensvej 401 9981 Jerup,401,290000.0,10-09-2007,Alm.,0,6,Villa,139,1905,
+Søndergårdsvej 16 9981 Jerup,16,806000.0,24-08-2007,Alm.,7196,4,Villa,112,1875,25 %
+Engdraget 22 9981 Jerup,22,1020000.0,13-08-2007,Alm.,16451,4,Sommerhus,62,1976,-7 %
+Sindalvej 34 9981 Jerup,34,395000.0,09-08-2007,Alm.,4388,4,Villa,90,1941,
+Skagensvej 344 9981 Jerup,344,1300000.0,31-07-2007,Fam.,7558,5,Stuehus,172,1877,
+Kuskevej 23 9981 Jerup,23,1300000.0,25-07-2007,Alm.,13402,5,Sommerhus,97,1966,-7 %
+Åsvinget 4 9981 Jerup,4,915000.0,25-07-2007,Alm.,9945,2,Rækkehus,92,2004,
+Sandbakken 22 9981 Jerup,22,1575000.0,19-07-2007,Alm.,16935,4,Sommerhus,93,2003,
+Søndergårdsvej 25 9981 Jerup,25,500000.0,08-07-2007,Alm.,2631,6,Villa,190,1924,
+Vølundsvej 6 9981 Jerup,6,650000.0,05-07-2007,Alm.,6250,3,Villa,104,1959,-6 %
+Multebærvej 41 9981 Jerup,41,935000.0,23-06-2007,Fam.,11687,4,Sommerhus,80,1977,
+Skagensvej 397 9981 Jerup,397,650000.0,18-06-2007,Alm.,6770,3,Stuehus,96,1887,
+Brattenvej 31 9981 Jerup,31,1275000.0,12-06-2007,Alm.,19921,4,Sommerhus,64,1987,
+Kandeborgvej 20 9981 Jerup,20,1550000.0,21-05-2007,Alm.,19375,4,Sommerhus,80,1998,-6 %
+Krøgen 5 9981 Jerup,5,1500000.0,21-05-2007,Alm.,21739,3,Sommerhus,69,1958,0 %
+Tranebærvej 4 9981 Jerup,4,1155000.0,18-05-2007,Alm.,19250,4,Sommerhus,60,1977,
+Skagensvej 392 9981 Jerup,392,180000.0,16-05-2007,Alm.,3000,3,Stuehus,60,1903,
+Åsvinget 8 9981 Jerup,8,775000.0,08-05-2007,Alm.,8423,3,Rækkehus,92,2004,
+Engdraget 20 9981 Jerup,20,864045.0,01-05-2007,Alm.,13293,4,Sommerhus,65,1969,-3 %
+Milrimvej 93 9981 Jerup,93,1875000.0,26-04-2007,Alm.,0,5,Stuehus,219,1906,
+Snedkervej 6 9981 Jerup,6,1120000.0,19-04-2007,Alm.,10370,4,Sommerhus,108,1968,
+Skagensvej 541 9981 Jerup,541,675000.0,30-03-2007,Alm.,0,5,Villa,114,1927,
+Granvej 14 9981 Jerup,14,350000.0,19-03-2007,Alm.,3465,4,Villa,101,1950,
+Snedkervej 10 9981 Jerup,10,1300000.0,16-03-2007,Alm.,16883,3,Sommerhus,77,1970,
+Grusbakken 12A 9981 Jerup,0,1985000.0,21-02-2007,Alm.,20894,4,Sommerhus,95,2007,
+Milrimvej 9 9981 Jerup,9,795000.0,02-02-2007,Alm.,6162,5,Villa,129,1980,0 %
+Havstokken 20 9981 Jerup,20,58650.0,14-01-2007,Alm.,558,4,Sommerhus,105,2008,
+Sandbakken 7 9981 Jerup,7,838600.0,27-12-2006,Alm.,10226,4,Sommerhus,82,1972,
+Vølundsvej 1 9981 Jerup,1,185000.0,10-12-2006,Alm.,2569,3,Villa,72,1917,
+Kandeborgvej 5 9981 Jerup,5,1150000.0,05-12-2006,Alm.,0,4,Sommerhus,100,1991,
+Sindalvej 62 9981 Jerup,62,1275000.0,10-11-2006,Alm.,8388,5,Villa,152,1960,
+Engsigen 16 9981 Jerup,16,400000.0,23-10-2006,Fam.,4819,4,Sommerhus,83,1972,
+Kvisselvej 20 9981 Jerup,20,385000.0,09-10-2006,Alm.,3888,4,Villa,99,1962,
+Sindalvej 12 9981 Jerup,12,400000.0,21-08-2006,Alm.,4651,3,Villa,86,1917,
+Sindalvej 45 9981 Jerup,45,495000.0,21-08-2006,Alm.,4159,7,Villa,119,1947,
+Sandbakken 1 9981 Jerup,1,1299000.0,19-08-2006,Alm.,9083,6,Sommerhus,143,1989,
+Foldenvej 12 9981 Jerup,12,865000.0,18-08-2006,Alm.,0,3,Sommerhus,71,1959,
+Skagensvej 490 9981 Jerup,490,1175000.0,10-08-2006,Alm.,4433,6,Villa,265,1949,
+Brattenvej 58 9981 Jerup,58,900000.0,20-07-2006,Fam.,12500,4,Sommerhus,72,1967,
+Tyttebærvej 3 9981 Jerup,3,1020000.0,05-07-2006,Fam.,10736,4,Sommerhus,95,1968,
+Skagensvej 304 9981 Jerup,304,300000.0,29-06-2006,Alm.,2500,4,Villa,120,1935,
+Schmidtsvej 7 9981 Jerup,7,525000.0,22-06-2006,Alm.,4303,4,Villa,122,2008,
+Napstjertvej 45 9981 Jerup,45,130000.0,13-06-2006,Alm.,0,2,Villa,79,1905,
+Tyttebærvej 17 9981 Jerup,17,166000.0,31-05-2006,Fam.,2477,4,Sommerhus,67,1939,
+Doppen 22 9981 Jerup,22,244375.0,25-05-2006,Fam.,0,4,Sommerhus,91,1996,
+Fårebakken 5 9981 Jerup,5,1125000.0,18-05-2006,Alm.,14062,5,Sommerhus,80,1969,
+Sindalvej 84 9981 Jerup,84,600000.0,10-05-2006,Alm.,6666,4,Stuehus,90,1897,
+Brattenvej 63 9981 Jerup,63,1295000.0,02-05-2006,Alm.,17739,4,Sommerhus,73,1977,
+Tranebærvej 9 9981 Jerup,9,800000.0,28-04-2006,Alm.,11267,4,Sommerhus,71,1974,
+Tranebærvej 11 9981 Jerup,11,800000.0,28-04-2006,Alm.,11267,4,Sommerhus,71,1973,
+Snedkervej 4 9981 Jerup,4,400000.0,08-04-2006,Alm.,7547,3,Sommerhus,53,1970,
+Bugten 30 9981 Jerup,30,895000.0,19-03-2006,Alm.,16574,3,Sommerhus,54,1984,
+Kuskevej 51 9981 Jerup,51,1130500.0,13-03-2006,Alm.,0,4,Sommerhus,106,1972,
+Krøgen 26A 9981 Jerup,0,2553000.0,11-03-2006,Alm.,16261,7,Sommerhus,157,1986,
+Milrimvej 17 9981 Jerup,17,271167.0,06-03-2006,Fam.,1514,5,Villa,179,1972,
+Kvisselvej 8 9981 Jerup,8,560000.0,28-02-2006,Alm.,10980,4,Villa,51,1947,
+Skagensvej 476A 9981 Jerup,0,200000.0,27-02-2006,Alm.,938,6,Stuehus,213,1979,
+Kuskevej 53 9981 Jerup,53,1700000.0,26-02-2006,Alm.,0,5,Sommerhus,147,1968,
+Skagensvej 611 9981 Jerup,611,2500000.0,04-01-2006,Alm.,11961,5,Villa,209,1925,
+Krøgen 36 9981 Jerup,36,1270000.0,19-12-2005,Fam.,18955,4,Sommerhus,67,1974,
+Gyvelvej 8 9981 Jerup,8,965000.0,13-12-2005,Alm.,7975,5,Villa,121,1987,
+Foldenvej 50 9981 Jerup,50,510000.0,30-11-2005,Fam.,9272,3,Sommerhus,55,2009,
+Kuskevej 3 9981 Jerup,3,425000.0,30-11-2005,Fam.,9444,3,Sommerhus,45,1973,
+Fasanstien 4 9981 Jerup,4,955000.0,30-11-2005,Alm.,12243,3,Sommerhus,78,1964,
+Kalmervej 30 9981 Jerup,30,970000.0,29-11-2005,Fam.,5639,6,Villa,172,1977,
+Kuskevej 1 9981 Jerup,1,425000.0,21-11-2005,Fam.,5666,4,Sommerhus,75,2009,
+Råsigvej 91 9981 Jerup,91,1036155.0,03-11-2005,Alm.,4246,5,Stuehus,244,2011,
+Tyttebærvej 12 9981 Jerup,12,1800000.0,28-10-2005,Alm.,25714,4,Sommerhus,70,1974,
+Råsigvej 64 9981 Jerup,64,1595000.0,05-10-2005,Alm.,0,5,Villa,241,1974,
+Skagensvej 410C 9981 Jerup,0,395000.0,22-09-2005,Alm.,4388,3,Villa,90,1948,
+Blåbærvej 12 9981 Jerup,12,296000.0,22-09-2005,Fam.,0,4,Sommerhus,75,1963,
+Skagensvej 389B 9981 Jerup,0,465000.0,21-09-2005,Alm.,5406,3,Villa,86,1952,
+Blåbærvej 9 9981 Jerup,9,1685000.0,04-09-2005,Alm.,14780,5,Sommerhus,114,2001,
+Sindalvej 36 9981 Jerup,36,550000.0,17-08-2005,Alm.,0,5,Villa,158,1941,
+Krøgen 12 9981 Jerup,12,800000.0,27-07-2005,Alm.,0,5,Sommerhus,101,1967,
+Engsigen 10 9981 Jerup,10,850000.0,17-07-2005,Alm.,12878,3,Sommerhus,66,1973,
+Musbakken 4 9981 Jerup,4,280942.0,14-06-2005,Fam.,4193,4,Sommerhus,67,1977,
+Hirsevej 18 9981 Jerup,18,575000.0,01-06-2005,Alm.,6250,3,Villa,92,1978,
+Kippen 6 9981 Jerup,6,547000.0,30-05-2005,Alm.,7814,4,Sommerhus,70,1973,
+Napstjert Mose Vej 12 9981 Jerup,12,410000.0,29-04-2005,Fam.,11714,2,Stuehus,35,1827,
+Sindalvej 49 9981 Jerup,49,350000.0,18-04-2005,Alm.,5303,3,Villa,66,1947,
+Kippen 28 9981 Jerup,28,1925000.0,14-04-2005,Alm.,12500,6,Sommerhus,154,1988,
+Sindalvej 27 9981 Jerup,27,450000.0,11-04-2005,Alm.,5625,3,Villa,80,1960,
+Sandbakken 27 9981 Jerup,27,1235000.0,01-04-2005,Alm.,12864,4,Sommerhus,96,1985,
+Skagensvej 406 9981 Jerup,406,1060000.0,27-03-2005,Alm.,5520,5,Stuehus,192,1876,
+Blåbærvej 28 9981 Jerup,28,1598000.0,20-03-2005,Alm.,17369,4,Sommerhus,92,2006,
+Amalievej 3 9981 Jerup,3,895000.0,16-03-2005,Alm.,5233,6,Villa,171,1933,
+Blåbærvej 26 9981 Jerup,26,800000.0,14-02-2005,Alm.,11267,4,Sommerhus,71,1963,
+Trinkærvej 8 9981 Jerup,8,484500.0,10-02-2005,Fam.,5767,3,Stuehus,84,1961,
+Kuskevej 12 9981 Jerup,12,881000.0,08-02-2005,Alm.,11905,3,Sommerhus,74,1978,
+Kandeborgvej 3 9981 Jerup,3,885000.0,20-01-2005,Alm.,10172,4,Sommerhus,87,1968,
+Råsigvej 40 9981 Jerup,40,1350000.0,18-01-2005,Alm.,18243,3,Stuehus,74,1930,
+Bugten 22 9981 Jerup,22,800000.0,13-12-2004,Alm.,0,3,Sommerhus,60,1978,
+Depotvej 20 9981 Jerup,20,841500.0,29-11-2004,Alm.,4293,7,Stuehus,196,1910,
+Skagensvej 375A 9981 Jerup,0,3062500.0,26-11-2004,Alm.,16203,6,Stuehus,189,1913,
+Tyttebærvej 33 9981 Jerup,33,977500.0,24-11-2004,Alm.,9583,4,Sommerhus,102,1962,
+Musbakken 7 9981 Jerup,7,352000.0,22-11-2004,Alm.,6518,4,Sommerhus,54,1984,
+Skagensvej 280 9981 Jerup,280,1283000.0,06-11-2004,Fam.,8848,5,Stuehus,145,1900,
+Blåbærvej 23 9981 Jerup,23,875000.0,02-11-2004,Alm.,0,5,Sommerhus,86,1977,
+Bugten 58 9981 Jerup,58,700000.0,13-10-2004,Alm.,0,4,Sommerhus,77,1975,
+Kandeborgvej 28 9981 Jerup,28,995000.0,04-10-2004,Alm.,8963,4,Sommerhus,111,1984,
+Kalmervej 5B 9981 Jerup,0,1165000.0,02-10-2004,Alm.,5087,6,Villa,229,1979,
+Skagensvej 463 9981 Jerup,463,127500.0,18-08-2004,Alm.,965,3,Villa,132,1934,
+Havstokken 9 9981 Jerup,9,365500.0,01-08-2004,Alm.,2768,5,Sommerhus,132,2005,
+Revlen 4 9981 Jerup,4,765000.0,30-07-2004,Alm.,8052,4,Sommerhus,95,1974,
+Skagensvej 615 9981 Jerup,615,82671.0,21-07-2004,Alm.,631,4,Stuehus,131,1900,
+Brattenvej 17 9981 Jerup,17,795000.0,14-07-2004,Alm.,8457,5,Villa,94,1875,
+Krøgen 21 9981 Jerup,21,150000.0,05-07-2004,Fam.,0,3,Sommerhus,40,1963,
+Amalievej 2 9981 Jerup,2,390000.0,28-06-2004,Fam.,4588,3,Villa,85,1932,
+Klemmen 20 9981 Jerup,20,645000.0,28-05-2004,Alm.,6789,4,Sommerhus,95,2016,
+Kippen 32 9981 Jerup,32,1700000.0,26-05-2004,Alm.,11038,6,Sommerhus,154,1988,
+Engsigen 12 9981 Jerup,12,775000.0,15-05-2004,Alm.,11567,4,Sommerhus,67,1978,
+Bjørnsvej 4 9981 Jerup,4,400000.0,13-05-2004,Alm.,3669,4,Villa,109,1967,
+Milrimvej 11 9981 Jerup,11,700000.0,27-04-2004,Alm.,5035,5,Villa,139,1974,
+Hirsevej 17 9981 Jerup,17,650000.0,27-04-2004,Alm.,6701,4,Villa,97,1982,
+Skagensvej 319 9981 Jerup,319,275000.0,22-04-2004,Alm.,1809,5,Villa,152,1904,
+Kandeborgvej 35 9981 Jerup,35,960000.0,31-03-2004,Alm.,9896,5,Sommerhus,97,1964,
+Tranebærvej 21 9981 Jerup,21,620000.0,23-03-2004,Alm.,8857,4,Sommerhus,70,1979,
+Fasanstien 1 9981 Jerup,1,1095000.0,09-03-2004,Alm.,16102,4,Sommerhus,68,1994,
+Blåbærvej 19 9981 Jerup,19,806000.0,08-03-2004,Alm.,6773,3,Sommerhus,119,1964,
+Revlen 1A 9981 Jerup,0,820000.0,25-02-2004,Alm.,12424,4,Sommerhus,66,1980,
+Sandbakken 6 9981 Jerup,6,1195000.0,19-02-2004,Alm.,12070,4,Sommerhus,99,2003,
+Multebærvej 25B 9981 Jerup,0,340000.0,28-01-2004,Alm.,3333,3,Sommerhus,102,2011,
+Skagensvej 593 9981 Jerup,593,425000.0,26-01-2004,Alm.,4569,5,Villa,93,1877,
+Engblommen 3 9981 Jerup,3,400000.0,22-01-2004,Alm.,0,3,Sommerhus,99,1973,
+Klemmen 11 9981 Jerup,11,699000.0,22-01-2004,Alm.,0,5,Sommerhus,82,1968,
+Engblommen 10 9981 Jerup,10,895000.0,14-01-2004,Alm.,8287,4,Sommerhus,108,1973,
+Engsigen 15 9981 Jerup,15,395000.0,09-01-2004,Alm.,4030,4,Sommerhus,98,2005,
+Slåenvej 5 9981 Jerup,5,890000.0,27-12-2003,Alm.,10348,4,Sommerhus,86,1972,
+Bugten 11 9981 Jerup,11,612000.0,20-12-2003,Fam.,0,7,Sommerhus,130,1969,
+Kuskevej 10 9981 Jerup,10,516000.0,19-12-2003,Fam.,8190,3,Sommerhus,63,1980,
+Bugten 34 9981 Jerup,34,620500.0,21-11-2003,Fam.,7215,4,Sommerhus,86,1980,
+Sandbakken 3 9981 Jerup,3,1050000.0,19-11-2003,Alm.,7291,5,Sommerhus,144,1988,
+Skagensvej 389A 9981 Jerup,0,510000.0,05-11-2003,Alm.,5862,4,Villa,87,1946,
+Snedkervej 17 9981 Jerup,17,685000.0,31-10-2003,Alm.,8670,4,Sommerhus,79,1970,
+Revlen 2 9981 Jerup,2,645000.0,30-10-2003,Alm.,12169,3,Sommerhus,53,1969,
+Sandbakken 21 9981 Jerup,21,393578.0,22-10-2003,Alm.,5318,4,Sommerhus,74,1970,
+Blåbærvej 18 9981 Jerup,18,610000.0,20-10-2003,Alm.,0,4,Sommerhus,100,1964,
+Kandeborgvej 30 9981 Jerup,30,575000.0,06-10-2003,Alm.,13372,3,Sommerhus,43,1969,
+Doppen 9 9981 Jerup,9,550000.0,26-09-2003,Alm.,0,5,Sommerhus,107,1967,
+Krøgen 17 9981 Jerup,17,700000.0,19-09-2003,Alm.,0,5,Sommerhus,83,1950,
+Slåenvej 9 9981 Jerup,9,445000.0,15-09-2003,Alm.,0,4,Sommerhus,90,1965,
+Kvisselvej 24 9981 Jerup,24,350000.0,26-08-2003,Alm.,4117,4,Villa,85,1931,
+Havstokken 14 9981 Jerup,14,391000.0,15-08-2003,Fam.,0,4,Sommerhus,126,1969,
+Doppen 1 9981 Jerup,1,1060000.0,25-07-2003,Alm.,12470,4,Sommerhus,85,1997,
+Kippen 22C 9981 Jerup,0,860000.0,23-07-2003,Alm.,10617,5,Sommerhus,81,1986,
+Råsigvej 74 9981 Jerup,74,500000.0,09-07-2003,Alm.,3378,6,Stuehus,148,2008,
+Grusbakken 20 9981 Jerup,20,433500.0,01-07-2003,Fam.,3737,4,Sommerhus,116,2005,
+Sindalvej 41 9981 Jerup,41,176000.0,21-06-2003,Alm.,1676,4,Villa,105,1947,
+Skagensvej 446 9981 Jerup,446,330000.0,18-06-2003,Alm.,3837,3,Villa,86,1907,
+Skagensvej 321B 9981 Jerup,0,275000.0,26-05-2003,Fam.,2200,3,Villa,125,1927,
+Sindalvej 35 9981 Jerup,35,450000.0,22-05-2003,Alm.,3461,6,Villa,130,1960,
+Depotvej 40 9981 Jerup,40,1085000.0,01-05-2003,Alm.,14276,4,Villa,76,1900,
+Bugten 18 9981 Jerup,18,460000.0,23-03-2003,Alm.,7301,4,Sommerhus,63,1976,
+Multebærvej 15 9981 Jerup,15,1145000.0,19-03-2003,Alm.,10700,6,Sommerhus,107,1968,
+Havstokken 10 9981 Jerup,10,442000.0,14-03-2003,Fam.,8185,3,Sommerhus,54,1975,
+Engblommen 11 9981 Jerup,11,350000.0,27-02-2003,Alm.,3125,3,Sommerhus,112,2014,
+Trinkærvej 2 9981 Jerup,2,1097722.0,21-02-2003,Alm.,9224,5,Stuehus,119,1892,
+Ledetsvej 4 9981 Jerup,4,695000.0,30-01-2003,Alm.,6261,5,Villa,111,1956,
+Søndergårdsvej 9 9981 Jerup,9,450000.0,29-01-2003,Alm.,3543,5,Villa,127,1959,
+Kuskevej 27 9981 Jerup,27,272000.0,14-01-2003,Alm.,4945,3,Sommerhus,55,1964,
+Tranebærvej 10 9981 Jerup,10,1035000.0,02-12-2002,Alm.,13441,4,Sommerhus,77,2002,
+Gyvelvej 4 9981 Jerup,4,650000.0,08-11-2002,Alm.,5158,3,Villa,126,1961,
+Tyttebærvej 5 9981 Jerup,5,257000.0,09-10-2002,Fam.,2357,4,Sommerhus,109,2008,
+Kuskevej 14 9981 Jerup,14,535000.0,04-10-2002,Alm.,5752,4,Sommerhus,93,2014,
+Skagensvej 341 9981 Jerup,341,1170000.0,04-10-2002,Alm.,5820,7,Villa,201,1924,
+Blåbærvej 5 9981 Jerup,5,625000.0,19-09-2002,Alm.,0,7,Sommerhus,110,1972,
+Skagensvej 436 9981 Jerup,436,580000.0,18-09-2002,Fam.,3717,5,Villa,156,1965,
+Napstjertvej 40 9981 Jerup,40,210000.0,11-09-2002,Alm.,1693,3,Villa,124,1900,
+Kippen 3 9981 Jerup,3,625000.0,03-09-2002,Alm.,10964,3,Sommerhus,57,1973,
+Tyttebærvej 9 9981 Jerup,9,1150000.0,30-07-2002,Fam.,0,7,Sommerhus,183,1957,
+Kalmervej 23 9981 Jerup,23,750000.0,27-07-2002,Alm.,5555,5,Villa,135,1978,
+Kippen 8 9981 Jerup,8,520000.0,11-07-2002,Andet,0,4,Sommerhus,86,1968,
+Revlen 11 9981 Jerup,11,120000.0,10-07-2002,Fam.,1090,4,Sommerhus,110,2004,
+Enebærvej 35 9981 Jerup,35,580000.0,01-07-2002,Fam.,10357,4,Sommerhus,56,1981,
+Sindalvej 23 9981 Jerup,23,515000.0,11-06-2002,Alm.,4768,4,Villa,108,1967,
+Tyttebærvej 32 9981 Jerup,32,1300000.0,05-06-2002,Alm.,12037,5,Sommerhus,108,1997,
+Krøgen 11 9981 Jerup,11,555000.0,30-05-2002,Alm.,0,3,Sommerhus,82,1968,
+Ledetsvej 2 9981 Jerup,2,440269.0,24-05-2002,Alm.,6031,3,Villa,73,1955,
+Blåbærvej 17 9981 Jerup,17,740000.0,14-05-2002,Alm.,0,3,Sommerhus,68,1967,
+Kvisselvej 33 9981 Jerup,33,1240000.0,25-04-2002,Fam.,3444,10,Stuehus,360,1972,
+Bugten 54 9981 Jerup,54,575000.0,22-04-2002,Alm.,7098,4,Sommerhus,81,1969,
+Fårebakken 4 9981 Jerup,4,525000.0,13-03-2002,Alm.,6818,4,Sommerhus,77,1970,
+Bugten 19 9981 Jerup,19,433500.0,11-03-2002,Alm.,6669,4,Sommerhus,65,1972,
+Skagensvej 466 9981 Jerup,466,100000.0,02-03-2002,Alm.,781,3,Villa,128,1961,
+Napstjertvej 41 9981 Jerup,41,295000.0,28-02-2002,Alm.,0,4,Villa,135,1887,
+Ledetsvej 3 9981 Jerup,3,480000.0,13-02-2002,Alm.,3636,5,Villa,132,1956,
+Granvej 25 9981 Jerup,25,600000.0,11-02-2002,Alm.,3076,6,Villa,195,1972,
+Tyttebærvej 27 9981 Jerup,27,272500.0,28-01-2002,Alm.,0,5,Sommerhus,104,1960,
+Kippen 22A 9981 Jerup,0,750000.0,09-01-2002,Alm.,11904,4,Sommerhus,63,1969,
+Kuskevej 19 9981 Jerup,19,550000.0,28-12-2001,Alm.,8461,3,Sommerhus,65,1977,
+Havstokken 7 9981 Jerup,7,1275000.0,19-12-2001,Alm.,8614,9,Sommerhus,148,1992,
+Musbakken 11 9981 Jerup,11,125000.0,17-12-2001,Alm.,1116,4,Sommerhus,112,2006,
+Engdraget 4 9981 Jerup,4,586500.0,10-12-2001,Alm.,6239,4,Sommerhus,94,1971,
+Kippen 15 9981 Jerup,15,555000.0,26-11-2001,Alm.,0,5,Sommerhus,126,1968,
+Skagensvej 308 9981 Jerup,308,597931.0,24-11-2001,Alm.,4822,5,Villa,124,1910,
+Krøgen 4 9981 Jerup,4,323000.0,13-10-2001,Fam.,4486,4,Sommerhus,72,1962,
+Sindalvej 14B 9981 Jerup,0,650000.0,01-10-2001,Fam.,3333,6,Villa,195,1917,
+Bugten 2 9981 Jerup,2,650000.0,03-09-2001,Alm.,0,3,Sommerhus,75,1981,
+Foldenvej 24 9981 Jerup,24,695000.0,28-08-2001,Alm.,10692,4,Sommerhus,65,1952,
+Sandbakken 25 9981 Jerup,25,600000.0,24-08-2001,Fam.,4958,5,Sommerhus,121,2004,
+Tyttebærvej 7 9981 Jerup,7,600000.0,21-08-2001,Alm.,5714,4,Sommerhus,105,2015,
+Tranebærvej 15 9981 Jerup,15,305300.0,13-07-2001,Alm.,3816,4,Sommerhus,80,2001,
+Kippen 22F 9981 Jerup,0,1217500.0,29-06-2001,Alm.,11068,6,Sommerhus,110,1960,
+Klemmen 26 9981 Jerup,26,650000.0,26-06-2001,Fam.,0,6,Sommerhus,104,1978,
+Granvej 7 9981 Jerup,7,575000.0,06-06-2001,Alm.,0,3,Villa,120,1959,
+Kvisselvej 25 9981 Jerup,25,564000.0,20-05-2001,Alm.,4904,3,Villa,115,1957,
+Skagensvej 402 9981 Jerup,402,1815000.0,15-05-2001,Alm.,11000,6,Stuehus,165,1906,
+Brattenvej 40 9981 Jerup,40,600000.0,05-04-2001,Alm.,8955,4,Sommerhus,67,1975,
+Engblommen 8 9981 Jerup,8,540000.0,29-03-2001,Alm.,0,3,Sommerhus,89,1974,
+Sandbakken 29 9981 Jerup,29,850182.0,20-02-2001,Alm.,11974,4,Sommerhus,71,1991,
+Foldenvej 8 9981 Jerup,8,500000.0,01-02-2001,Alm.,9090,3,Sommerhus,55,1968,
+Tranebærvej 12 9981 Jerup,12,238000.0,01-02-2001,Alm.,5409,3,Sommerhus,44,2008,
+Blåbærvej 11 9981 Jerup,11,930000.0,23-01-2001,Alm.,0,4,Sommerhus,81,1974,
+Kalmervej 7 9981 Jerup,7,455000.0,17-01-2001,Alm.,3791,4,Villa,120,1949,
+Blåbærvej 3 9981 Jerup,3,255000.0,31-12-2000,Fam.,0,4,Sommerhus,85,1973,
+Sindalvej 48 9981 Jerup,48,495000.0,23-10-2000,Alm.,3300,6,Villa,150,1947,
+Kalmervej 34 9981 Jerup,34,25000.0,17-10-2000,Alm.,154,5,Villa,162,2001,
+Skagensvej 460 9981 Jerup,460,461000.0,22-09-2000,Alm.,3389,4,Villa,136,1827,
+Krøgen 24 9981 Jerup,24,1100000.0,06-08-2000,Alm.,11224,6,Sommerhus,98,1979,
+Milrimvej 95 9981 Jerup,95,1250000.0,27-07-2000,Alm.,10416,4,Stuehus,120,1882,
+Brattenvej 38 9981 Jerup,38,442500.0,27-07-2000,Alm.,0,4,Sommerhus,75,1956,
+Musbakken 10 9981 Jerup,10,510000.0,22-06-2000,Alm.,7727,4,Sommerhus,66,1973,
+Skagensvej 317C 9981 Jerup,0,8000.0,22-06-2000,Alm.,380,1,Anden beboelse,21,1951,
+Engblommen 9 9981 Jerup,9,365000.0,20-06-2000,Alm.,0,4,Sommerhus,100,1969,
+Kalmervej 21 9981 Jerup,21,673000.0,13-06-2000,Alm.,0,4,Villa,145,1977,
+Doppen 8 9981 Jerup,8,1015000.0,30-05-2000,Alm.,8055,5,Sommerhus,126,1987,
+Blåbærvej 7 9981 Jerup,7,614000.0,25-05-2000,Alm.,8647,4,Sommerhus,71,1976,
+Bugten 42 9981 Jerup,42,440000.0,03-05-2000,Alm.,0,3,Sommerhus,106,1969,
+Foldenvej 6 9981 Jerup,6,400000.0,24-03-2000,Alm.,3603,4,Sommerhus,111,2013,
+Kandeborgvej 22 9981 Jerup,22,548000.0,17-02-2000,Alm.,9133,3,Sommerhus,60,1991,
+Sindalvej 60B 9981 Jerup,0,899000.0,09-02-2000,Alm.,6157,5,Villa,146,1986,
+Tyttebærvej 24 9981 Jerup,24,816000.0,20-12-1999,Fam.,12553,4,Sommerhus,65,1973,
+Tyttebærvej 36 9981 Jerup,36,600000.0,07-12-1999,Andet,0,4,Sommerhus,121,1982,
+Sindalvej 38 9981 Jerup,38,389530.0,12-11-1999,Alm.,4328,4,Villa,90,1941,
+Schmidtsvej 6A 9981 Jerup,0,825000.0,10-11-1999,Alm.,4411,5,Villa,187,1977,
+Bugten 10 9981 Jerup,10,533000.0,27-10-1999,Alm.,8737,3,Sommerhus,61,1980,
+Hirsevej 6 9981 Jerup,6,611105.0,17-09-1999,Alm.,3772,5,Villa,162,1978,
+Råsigvej 12 9981 Jerup,12,745000.0,05-08-1999,Alm.,0,5,Stuehus,208,1877,
+Tyttebærvej 21 9981 Jerup,21,480000.0,02-08-1999,Fam.,7619,4,Sommerhus,63,1974,
+Kandeborgvej 8 9981 Jerup,8,804600.0,07-07-1999,Alm.,0,4,Sommerhus,86,1998,
+Ledetsvej 5 9981 Jerup,5,350000.0,06-07-1999,Alm.,3723,4,Villa,94,1956,
+Musbakken 12 9981 Jerup,12,610000.0,09-06-1999,Alm.,0,4,Sommerhus,73,1977,
+Krøgen 8 9981 Jerup,8,290000.0,01-06-1999,Alm.,7073,3,Sommerhus,41,1967,
+Engdraget 24 9981 Jerup,24,554788.0,08-05-1999,Alm.,6765,4,Sommerhus,82,1978,
+Engsigen 2 9981 Jerup,2,500000.0,03-05-1999,Alm.,6250,3,Sommerhus,80,1973,
+Krøgen 15 9981 Jerup,15,400000.0,27-04-1999,Fam.,6153,4,Sommerhus,65,1962,
+Kippen 24 9981 Jerup,24,992897.0,31-03-1999,Alm.,9026,5,Sommerhus,110,1961,
+Brattenvej 32 9981 Jerup,32,526000.0,26-03-1999,Alm.,8766,4,Sommerhus,60,1984,
+Snedkervej 3 9981 Jerup,3,125000.0,10-03-1999,Alm.,0,3,Sommerhus,81,2004,
+Ledetsvej 7 9981 Jerup,7,687902.0,11-02-1999,Alm.,0,4,Villa,135,1957,
+Slåenvej 4 9981 Jerup,4,460000.0,31-01-1999,Alm.,6388,4,Sommerhus,72,1959,
+Kalmervej 8 9981 Jerup,8,895000.0,14-01-1999,Alm.,4837,7,Villa,185,1968,
+Nyvangsvej 3 9981 Jerup,3,510000.0,13-01-1999,Alm.,3923,6,Villa,130,1969,
+Multebærvej 53 9981 Jerup,53,499544.0,08-12-1998,Alm.,8612,3,Sommerhus,58,1979,
+Granvej 5 9981 Jerup,5,420000.0,01-12-1998,Fam.,0,6,Villa,137,1959,
+Tranebærvej 14 9981 Jerup,14,340000.0,07-11-1998,Fam.,4857,4,Sommerhus,70,1974,
+Tranebærvej 23 9981 Jerup,23,340000.0,07-11-1998,Alm.,4857,4,Sommerhus,70,1976,
+Tranebærvej 16 9981 Jerup,16,340000.0,07-11-1998,Fam.,4000,4,Sommerhus,85,1973,
+Kvisselvej 13 9981 Jerup,13,374658.0,14-09-1998,Alm.,2859,5,Villa,131,1989,
+Skagensvej 364 9981 Jerup,364,312594.0,10-09-1998,Alm.,2043,5,Stuehus,153,1981,
+Tyttebærvej 8 9981 Jerup,8,774000.0,18-08-1998,Alm.,7371,5,Sommerhus,105,1963,
+Brattenvej 61 9981 Jerup,61,148750.0,18-08-1998,Alm.,3233,3,Sommerhus,46,1968,
+Engblommen 7 9981 Jerup,7,900000.0,06-08-1998,Alm.,5521,5,Sommerhus,163,1988,
+Musbakken 9 9981 Jerup,9,120000.0,04-08-1998,Alm.,1043,4,Sommerhus,115,2004,
+Brattenvej 59 9981 Jerup,59,717110.0,30-07-1998,Alm.,6129,4,Sommerhus,117,1971,
+Engsigen 28 9981 Jerup,28,456837.0,28-07-1998,Fam.,6818,3,Sommerhus,67,1947,
+Schmidtsvej 3 9981 Jerup,3,410000.0,24-07-1998,Fam.,5694,3,Villa,72,1970,
+Skagensvej 442 9981 Jerup,442,340000.0,06-07-1998,Alm.,2344,5,Villa,145,1971,
+Bugten 1 9981 Jerup,1,285000.0,30-06-1998,Alm.,6195,2,Sommerhus,46,1957,
+Skagensvej 305 9981 Jerup,305,500000.0,25-06-1998,Alm.,4065,4,Villa,123,1973,
+Krøgen 28 9981 Jerup,28,700000.0,19-06-1998,Alm.,8333,5,Sommerhus,84,1976,
+Sindalvej 32 9981 Jerup,32,595000.0,14-06-1998,Alm.,3888,4,Villa,153,1950,
+Kalmervej 24 9981 Jerup,24,895000.0,29-05-1998,Alm.,5028,5,Villa,178,1976,
+Kalmervej 5A 9981 Jerup,0,841000.0,15-05-1998,Alm.,4004,5,Villa,210,1975,
+Blåbærvej 24 9981 Jerup,24,395000.0,30-04-1998,Alm.,6370,2,Sommerhus,62,1964,
+Klemmen 7 9981 Jerup,7,485000.0,17-04-1998,Alm.,8818,4,Sommerhus,55,1968,
+Brattenvej 46 9981 Jerup,46,280000.0,14-04-1998,Alm.,3146,4,Sommerhus,89,1998,
+Sandbakken 5 9981 Jerup,5,560000.0,02-03-1998,Alm.,8888,3,Sommerhus,63,1991,
+Doppen 20 9981 Jerup,20,728000.0,04-02-1998,Alm.,8878,4,Sommerhus,82,1996,
+Musbakken 18 9981 Jerup,18,125000.0,07-01-1998,Alm.,1404,4,Sommerhus,89,1999,
+Sindalvej 21 9981 Jerup,21,625000.0,24-11-1997,Alm.,4882,4,Villa,128,1965,
+Gyvelvej 1 9981 Jerup,1,290000.0,21-11-1997,Alm.,2056,4,Villa,141,1949,
+Engdraget 25 9981 Jerup,25,153000.0,03-11-1997,Alm.,2593,3,Sommerhus,59,1937,
+Musbakken 8 9981 Jerup,8,350000.0,06-10-1997,Alm.,0,4,Sommerhus,63,1970,
+Skagensvej 411A 9981 Jerup,0,525000.0,16-09-1997,Alm.,0,9,Villa,263,1902,
+Napstjertvej 65 9981 Jerup,65,510000.0,12-08-1997,Fam.,3333,5,Villa,153,1924,
+Brattenvej 27 9981 Jerup,27,115000.0,31-07-1997,Alm.,1074,4,Sommerhus,107,2000,
+Søndergårdsvej 7 9981 Jerup,7,415000.0,17-07-1997,Alm.,3487,5,Villa,119,1959,
+Skagensvej 301 9981 Jerup,301,552014.0,24-04-1997,Alm.,4213,6,Villa,131,1956,
+Hirsevej 2 9981 Jerup,2,560000.0,14-04-1997,Alm.,2962,5,Villa,189,1977,
+Brattenvej 47 9981 Jerup,47,429000.0,09-04-1997,Alm.,7800,4,Sommerhus,55,1971,
+Brattenvej 22 9981 Jerup,22,140000.0,21-03-1997,Alm.,1772,4,Sommerhus,79,1997,
+Kuskevej 9 9981 Jerup,9,245000.0,09-03-1997,Alm.,3101,3,Sommerhus,79,1968,
+Granvej 1 9981 Jerup,1,303000.0,03-03-1997,Alm.,2970,4,Villa,102,1950,
+Skagensvej 412 9981 Jerup,412,491000.0,28-02-1997,Alm.,3959,5,Villa,124,1959,
+Foldenvej 49 9981 Jerup,49,650000.0,12-02-1997,Alm.,5416,4,Stuehus,120,1889,
+Bådhusvej 1 9981 Jerup,1,250000.0,17-01-1997,Alm.,0,3,Villa,119,1935,
+Brattenvej 51 9981 Jerup,51,370000.0,16-01-1997,Alm.,6166,4,Sommerhus,60,1966,
+Foldenvej 10 9981 Jerup,10,306000.0,31-12-1996,Fam.,6652,3,Sommerhus,46,1965,
+Råsigvej 84 9981 Jerup,84,595000.0,17-12-1996,Fam.,6134,3,Stuehus,97,1900,
+Tolshavevej 30 9981 Jerup,30,524100.0,27-11-1996,Alm.,0,7,Stuehus,243,1892,
+Engdraget 8 9981 Jerup,8,120000.0,27-10-1996,Fam.,1558,4,Sommerhus,77,1981,
+Havstokken 4 9981 Jerup,4,160000.0,16-10-1996,Alm.,0,4,Sommerhus,132,1982,
+Milrimvej 15B 9981 Jerup,0,180000.0,03-10-1996,Fam.,1525,5,Stuehus,118,1920,
+Revlingevej 29 9981 Jerup,29,195000.0,19-09-1996,Alm.,3250,4,Sommerhus,60,1957,
+Granvej 13 9981 Jerup,13,330631.0,10-08-1996,Fam.,2624,5,Villa,126,1951,
+Bugten 25 9981 Jerup,25,416000.0,07-08-1996,Alm.,0,4,Sommerhus,111,1979,
+Krøgen 26B 9981 Jerup,0,310000.0,26-07-1996,Alm.,3131,7,Sommerhus,99,1947,
+Skagensvej 318 9981 Jerup,318,465000.0,16-07-1996,Alm.,3690,3,Villa,126,1961,
+Tyttebærvej 18 9981 Jerup,18,659000.0,12-07-1996,Alm.,0,5,Sommerhus,146,1979,
+Havstokken 18 9981 Jerup,18,487000.0,25-06-1996,Alm.,7378,4,Sommerhus,66,1977,
+Granvej 6 9981 Jerup,6,437000.0,13-06-1996,Alm.,4326,3,Villa,101,1949,
+Bugten 5 9981 Jerup,5,100000.0,06-06-1996,Alm.,0,3,Sommerhus,65,1962,
+Milrimvej 101 9981 Jerup,101,1350000.0,04-06-1996,Alm.,6887,7,Stuehus,196,1850,
+Foldenvej 80 9981 Jerup,80,969000.0,01-06-1996,Fam.,3726,7,Stuehus,260,1913,
+Tyttebærvej 30 9981 Jerup,30,157500.0,14-05-1996,Fam.,1831,5,Sommerhus,86,1996,
+Sandbakken 37 9981 Jerup,37,528090.0,13-05-1996,Fam.,6362,4,Sommerhus,83,1978,
+Kalmervej 6 9981 Jerup,6,595000.0,22-03-1996,Alm.,3520,6,Villa,169,1965,
+Bugten 27 9981 Jerup,27,210000.0,23-01-1996,Auktion,0,4,Sommerhus,90,1968,
+Skagensvej 464 9981 Jerup,464,436400.0,06-01-1996,Fam.,2182,8,Stuehus,200,2013,
+Skagensvej 414 9981 Jerup,414,380000.0,27-10-1995,Alm.,2405,4,Villa,158,1951,
+Brattenvej 13 9981 Jerup,13,120000.0,03-10-1995,Alm.,727,5,Stuehus,165,1888,
+Grusbakken 10 9981 Jerup,10,186667.0,17-09-1995,Fam.,0,3,Sommerhus,65,1969,
+Tyttebærvej 11 9981 Jerup,11,80000.0,15-09-1995,Alm.,800,6,Sommerhus,100,1995,
+Skagensvej 494 9981 Jerup,494,565250.0,07-09-1995,Fam.,2078,7,Stuehus,272,1970,
+Sindalvej 51 9981 Jerup,51,375000.0,28-08-1995,Alm.,3605,3,Villa,104,1959,
+Sindalvej 58 9981 Jerup,58,165000.0,25-08-1995,Alm.,1486,4,Villa,111,1948,
+Revlen 13 9981 Jerup,13,425000.0,24-08-1995,Alm.,6854,4,Sommerhus,62,1984,
+Skagensvej 396 9981 Jerup,396,205000.0,09-08-1995,Fam.,2411,2,Villa,85,1950,
+Bugten 4 9981 Jerup,4,250000.0,07-07-1995,Alm.,4901,3,Sommerhus,51,1968,
+Klemmen 10 9981 Jerup,10,235000.0,03-07-1995,Alm.,0,3,Sommerhus,90,1968,
+Skagensvej 314 9981 Jerup,314,437000.0,30-06-1995,Alm.,3099,4,Villa,141,1947,
+Havstokken 22 9981 Jerup,22,544000.0,03-06-1995,Alm.,0,6,Sommerhus,129,1981,
+Kalmervej 25 9981 Jerup,25,530000.0,26-04-1995,Alm.,0,6,Villa,171,1978,
+Bugten 12 9981 Jerup,12,477000.0,14-04-1995,Alm.,8517,4,Sommerhus,56,1985,
+Skagensvej 453 9981 Jerup,453,330000.0,13-04-1995,Alm.,0,3,Villa,69,1964,
+Himmerigsvej 51 9981 Jerup,51,600000.0,07-04-1995,Alm.,3333,4,Stuehus,180,1877,
+Kuskevej 33 9981 Jerup,33,70000.0,20-02-1995,Fam.,804,4,Sommerhus,87,1996,
+Skagensvej 408 9981 Jerup,408,710000.0,08-02-1995,Alm.,0,7,Erhverv,115,1956,
+Skagensvej 440 9981 Jerup,440,395000.0,04-02-1995,Alm.,0,5,Villa,153,1971,
+Granvej 31 9981 Jerup,31,475000.0,27-11-1994,Alm.,4059,4,Villa,117,1973,
+Tyttebærvej 39 9981 Jerup,39,332000.0,21-11-1994,Fam.,8300,3,Sommerhus,40,1970,
+Enebærvej 31 9981 Jerup,31,456940.0,10-11-1994,Alm.,0,5,Sommerhus,112,1983,
+Kippen 1 9981 Jerup,1,595000.0,04-11-1994,Alm.,5891,4,Villa,101,1964,
+Granvej 15 9981 Jerup,15,445000.0,13-09-1994,Alm.,2870,4,Villa,155,1951,
+Sindalvej 43 9981 Jerup,43,187000.0,13-08-1994,Alm.,1989,4,Villa,94,1946,
+Multebærvej 35 9981 Jerup,35,450000.0,22-06-1994,Alm.,7031,3,Sommerhus,64,1985,
+Revlen 1B 9981 Jerup,0,290000.0,15-04-1994,Alm.,6744,2,Sommerhus,43,1983,
+Klemmen 6 9981 Jerup,6,344000.0,23-03-1994,Alm.,8000,3,Sommerhus,43,1971,
+Hirsevej 15 9981 Jerup,15,690000.0,13-03-1994,Alm.,3026,7,Villa,228,1977,
+Doppen 5 9981 Jerup,5,105000.0,09-03-1994,Alm.,1250,3,Sommerhus,84,1996,
+Sandbakken 16 9981 Jerup,16,23252.0,21-02-1994,Andet,223,5,Stuehus,104,1852,
+Doppen 7 9981 Jerup,7,110000.0,18-01-1994,Alm.,0,5,Sommerhus,120,1994,
+Engsigen 19 9981 Jerup,19,155000.0,25-12-1993,Fam.,0,3,Sommerhus,98,1968,
+Blåbærvej 20 9981 Jerup,20,182750.0,07-12-1993,Fam.,0,2,Sommerhus,119,1980,
+Enebærvej 25 9981 Jerup,25,625000.0,04-11-1993,Alm.,9328,4,Sommerhus,67,1983,
+Nyvangsvej 6 9981 Jerup,6,360000.0,06-10-1993,Alm.,2748,4,Villa,131,1965,
+Milrimvej 80 9981 Jerup,80,51441.0,01-10-1993,Auktion,0,4,Villa,95,1857,
+Skagensvej 560 9981 Jerup,560,114750.0,28-09-1993,Fam.,712,4,Villa,161,1900,
+Skagensvej 404 9981 Jerup,404,800000.0,21-09-1993,Alm.,0,5,Stuehus,169,1979,
+Hirsevej 12 9981 Jerup,12,510000.0,14-09-1993,Alm.,0,5,Villa,129,1978,
+Bugten 52 9981 Jerup,52,320000.0,06-09-1993,Alm.,4637,4,Sommerhus,69,1969,
+Vølundsvej 12 9981 Jerup,12,365000.0,31-08-1993,Alm.,2943,4,Villa,124,1967,
+Skagensvej 443 9981 Jerup,443,345000.0,04-08-1993,Alm.,2716,4,Villa,127,1952,
+Skagensvej 385 9981 Jerup,385,275000.0,27-07-1993,Alm.,3481,2,Villa,79,1948,
+Skagensvej 479 9981 Jerup,479,575000.0,27-07-1993,Alm.,3285,6,Villa,175,1877,
+Multebærvej 47 9981 Jerup,47,911947.0,18-06-1993,Alm.,0,5,Sommerhus,150,1980,
+Kvisselvej 14 9981 Jerup,14,257500.0,07-06-1993,Alm.,2829,3,Villa,91,1955,
+Krøgen 14 9981 Jerup,14,300000.0,16-04-1993,Alm.,0,3,Sommerhus,76,1960,
+Granvej 9 9981 Jerup,9,300000.0,05-03-1993,Alm.,3000,3,Villa,100,1959,
+Multebærvej 29 9981 Jerup,29,575000.0,20-11-1992,Alm.,7098,4,Sommerhus,81,1986,
+Multebærvej 9 9981 Jerup,9,306850.0,17-09-1992,Alm.,13341,1,Sommerhus,23,1960,
+Snedkervej 16 9981 Jerup,16,300000.0,24-08-1992,Alm.,0,4,Sommerhus,85,1971,
+Kandeborgvej 14 9981 Jerup,14,110000.0,19-08-1992,Alm.,1145,4,Sommerhus,96,1993,
+Multebærvej 7 9981 Jerup,7,391000.0,03-07-1992,Fam.,0,3,Sommerhus,96,1977,
+Engdraget 12 9981 Jerup,12,480000.0,29-06-1992,Alm.,6666,4,Sommerhus,72,1981,
+Råsigvej 24 9981 Jerup,24,395000.0,26-06-1992,Alm.,4114,4,Sommerhus,96,1965,
+Milrimvej 16C 9981 Jerup,0,515000.0,17-06-1992,Alm.,3843,4,Villa,134,1976,
+Engdraget 26A 9981 Jerup,0,600000.0,09-06-1992,Alm.,6976,4,Sommerhus,86,1989,
+Tyttebærvej 38 9981 Jerup,38,500000.0,01-06-1992,Fam.,5882,5,Sommerhus,85,1962,
+Revlen 3 9981 Jerup,3,80000.0,29-05-1992,Alm.,533,6,Sommerhus,150,1994,
+Milrimvej 105 9981 Jerup,105,395000.0,24-05-1992,Alm.,3160,4,Stuehus,125,1996,
+Åmarksvej 44 9981 Jerup,44,515000.0,01-05-1992,Alm.,3652,5,Villa,141,1976,
+Kuskevej 13 9981 Jerup,13,475000.0,09-03-1992,Fam.,0,5,Sommerhus,96,1980,
+Råsigvej 60 9981 Jerup,60,525000.0,09-02-1992,Alm.,3453,6,Villa,152,1964,

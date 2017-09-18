@@ -1,0 +1,604 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Sneppevej 16 6980 Tim,16,658829.0,11-05-2017,Fam.,4169,6,Villa,158,1971,
+Hovedgaden 15 6980 Tim,15,874000.0,15-04-2017,Alm.,6154,6,Lejlighed,142,1909,-2 %
+Fasanvej 15 6980 Tim,15,125000.0,12-04-2017,Alm.,1315,3,Rækkehus,95,1989,
+Mejlbyvej 1 6980 Tim,1,675000.0,05-04-2017,Alm.,3770,5,Villa,179,1850,
+Tim Kirkevej 35 6980 Tim,35,698000.0,04-04-2017,Alm.,1758,9,Villa,397,1830,0 %
+Tim Kirkevej 6 6980 Tim,6,1770000.0,26-03-2017,Alm.,8232,6,Villa,215,1850,-1 %
+Hovedgaden 4 6980 Tim,4,400000.0,21-03-2017,Alm.,3149,3,Villa,127,1970,-30 %
+Østerbyvej 18 6980 Tim,18,170210.0,14-03-2017,Alm.,956,4,Stuehus,178,1952,
+Nørre Espvej 7 6980 Tim,7,54830.0,14-03-2017,Andet,174,9,Stuehus,314,1999,
+Nørre Espvej 10 6980 Tim,10,54830.0,14-03-2017,Andet,285,4,Stuehus,192,1958,
+Skannerupvej 8 6980 Tim,8,230000.0,10-03-2017,Alm.,2613,4,Villa,88,1950,
+Hjejlevej 7 6980 Tim,7,1225000.0,24-01-2017,Alm.,7608,5,Villa,161,1973,-5 %
+Sneppevej 12 6980 Tim,12,335000.0,19-01-2017,Alm.,2310,5,Villa,145,1972,
+Trøstrupvej 35 6980 Tim,35,325000.0,17-01-2017,Alm.,4513,2,Villa,72,2006,-7 %
+Åvænget 5 6980 Tim,5,8100000.0,21-12-2016,Alm.,35682,5,Villa,227,1906,
+Trøstrupvej 20 6980 Tim,20,272500.0,05-12-2016,Fam.,2309,4,Villa,118,1970,-45 %
+Fabriksvej 8 6980 Tim,8,285000.0,05-12-2016,Alm.,2050,6,Villa,139,1964,
+Torstedvej 30 6980 Tim,30,1075000.0,28-11-2016,Alm.,8600,5,Villa,125,2014,
+Torstedvej 24 6980 Tim,24,80000.0,21-11-2016,Alm.,404,6,Villa,198,1966,
+Tim Kirkevej 13 6980 Tim,13,12500000.0,16-11-2016,Fam.,51020,11,Stuehus,245,1777,
+Hovedgaden 50 6980 Tim,50,300000.0,31-10-2016,Alm.,4838,9,Detailhandel,62,1918,
+Fresiavej 24 6980 Tim,24,1655000.0,24-10-2016,Alm.,8358,7,Villa,198,1998,-5 %
+Søgårdvej 8 6980 Tim,8,525000.0,20-10-2016,Fam.,3201,3,Stuehus,164,1974,
+Fresiavej 14 6980 Tim,14,921921.0,03-10-2016,Fam.,7259,4,Villa,127,1983,
+Torstedvej 76 6980 Tim,76,800000.0,15-09-2016,Fam.,4419,6,Villa,181,2016,
+Skannerupvej 10C 6980 Tim,0,500000.0,14-09-2016,Alm.,6329,3,Rækkehus,79,1979,
+Stadiløvej 11 6980 Tim,11,52000.0,07-09-2016,Alm.,456,4,Villa,114,1000,
+Elmevej 11 6980 Tim,11,370000.0,23-08-2016,Alm.,2761,5,Villa,134,1910,
+Sneppevej 4 6980 Tim,4,565000.0,16-08-2016,Alm.,4484,2,Villa,126,1971,-10 %
+Spættevej 14 6980 Tim,14,725000.0,30-05-2016,Alm.,4367,6,Villa,166,1977,
+Mølgaardsvej 9 6980 Tim,9,390000.0,10-05-2016,Alm.,3823,3,Villa,102,1960,-1 %
+Torstedvej 86 6980 Tim,86,982500.0,04-05-2016,Alm.,5038,6,Stuehus,195,1952,
+Skannerupvej 1 6980 Tim,1,1250000.0,01-05-2016,Alm.,8561,3,Villa,146,1946,
+Spættevej 2 6980 Tim,2,500000.0,27-04-2016,Alm.,3086,4,Villa,162,1976,-28 %
+Alrum 9 6980 Tim,9,680000.0,19-04-2016,Alm.,8192,5,Sommerhus,83,1977,
+Grønnevej 4 6980 Tim,4,725000.0,18-04-2016,Alm.,4865,4,Villa,149,1972,
+Torstedvej 59 6980 Tim,59,500000.0,21-03-2016,Alm.,4761,4,Villa,105,1963,-9 %
+Hjejlevej 8 6980 Tim,8,945000.0,16-03-2016,Alm.,6847,3,Villa,138,1973,-5 %
+Alrum 29 6980 Tim,29,395000.0,09-03-2016,Alm.,6076,4,Sommerhus,65,1979,0 %
+Skannerupvej 17 6980 Tim,17,550000.0,23-11-2015,Alm.,5339,6,Villa,103,1967,-8 %
+Mejlbyvej 26 6980 Tim,26,2295000.0,16-10-2015,Alm.,9683,8,Stuehus,237,1932,56 %
+Torstedvej 32 6980 Tim,32,75000.0,31-08-2015,Alm.,757,3,Villa,99,1913,
+Bjerregårdvej 5 6980 Tim,5,100000.0,21-08-2015,Alm.,884,4,Villa,113,1949,-50 %
+Stadilvej 58 6980 Tim,58,140000.0,13-08-2015,Alm.,1489,4,Villa,94,1000,-7 %
+Møllebyvej 14 6980 Tim,14,4515000.0,30-07-2015,Fam.,22024,9,Stuehus,205,1843,
+Alrum 34 6980 Tim,34,275000.0,12-07-2015,Alm.,5092,3,Sommerhus,54,1983,-7 %
+Nybovej 15 6980 Tim,15,450000.0,24-06-2015,Alm.,3688,4,Villa,122,1981,
+Pradsgaardsvej 4 6980 Tim,4,710000.0,23-06-2015,Alm.,4409,4,Villa,161,1970,-14 %
+Torstedvej 58 6980 Tim,58,400000.0,12-06-2015,Alm.,3333,4,Villa,120,1959,-24 %
+Grønbjergvej 3 6980 Tim,3,400000.0,05-06-2015,Alm.,2531,6,Stuehus,158,1938,-16 %
+Stadiløvej 5 6980 Tim,5,6725000.0,23-05-2015,Alm.,23030,9,Stuehus,292,1979,
+Nybovej 14 6980 Tim,14,350000.0,08-05-2015,Alm.,2800,4,Villa,125,1978,-22 %
+Opstrupvej 7 6980 Tim,7,760000.0,29-04-2015,Alm.,4342,6,Stuehus,175,1934,
+Kogsgårdsvej 9 6980 Tim,9,630000.0,28-04-2015,Alm.,4064,5,Villa,155,1972,
+Skovduevej 8 6980 Tim,8,650000.0,12-04-2015,Fam.,6632,4,Villa,98,1986,
+Lindholmvej 3 6980 Tim,3,1200000.0,09-04-2015,Alm.,6315,4,Stuehus,190,1929,
+Hovedgaden 76 6980 Tim,76,610799.0,30-03-2015,Alm.,4458,4,Villa,137,1935,
+Skelmosevej 17 6980 Tim,17,15400000.0,05-03-2015,Alm.,60629,9,Stuehus,254,1977,
+Høbrovej 7 6980 Tim,7,500000.0,26-02-2015,Alm.,3333,4,Villa,150,1968,-8 %
+Nybovej 13 6980 Tim,13,575000.0,05-02-2015,Alm.,3859,5,Villa,149,1978,-7 %
+Nørre Espvej 12 6980 Tim,12,450000.0,04-01-2015,Alm.,2054,5,Stuehus,219,1928,
+Nørre Espvej 15 6980 Tim,15,450000.0,04-01-2015,Alm.,2054,7,Stuehus,219,1931,
+Trøstrupvej 33 6980 Tim,33,235000.0,10-12-2014,Alm.,3916,3,Villa,60,1990,
+Møllegade 9 6980 Tim,9,140000.0,10-11-2014,Alm.,1473,5,Villa,95,1956,
+Skelmosevej 71 6980 Tim,71,300000.0,19-10-2014,Alm.,3125,4,Villa,96,1964,
+Torstedvej 35 6980 Tim,35,17425.0,15-10-2014,Fam.,193,5,Villa,90,1950,
+Stadilvej 29 6980 Tim,29,1056000.0,24-09-2014,Alm.,4061,9,Stuehus,260,1921,-25 %
+Skovduevej 6 6980 Tim,6,1000000.0,29-07-2014,Alm.,7518,5,Villa,133,1987,-4 %
+Fresiavej 7 6980 Tim,7,730000.0,24-06-2014,Alm.,5367,5,Villa,136,1988,-14 %
+Vestervej 15 6980 Tim,15,16500000.0,13-06-2014,Auktion,103125,6,Stuehus,160,1908,
+Skelmosevej 15 6980 Tim,15,230000.0,12-06-2014,Alm.,1854,5,Villa,124,1920,-39 %
+Solsortevej 14 6980 Tim,14,505000.0,10-06-2014,Alm.,4764,4,Villa,106,1977,
+Hovedgaden 34 6980 Tim,34,611388.0,07-05-2014,Andet,4776,6,Villa,128,1877,
+Nøderupvej 3A 6980 Tim,0,935000.0,16-04-2014,Alm.,3462,7,Villa,270,1974,
+Fresiavej 22 6980 Tim,22,835000.0,27-03-2014,Alm.,6574,4,Villa,127,1991,
+Nøderupvej 14 6980 Tim,14,50000.0,20-03-2014,Alm.,510,4,Villa,98,1984,
+Fasanvej 6 6980 Tim,6,407792.0,18-03-2014,Andet,3546,4,Villa,115,1966,-49 %
+Tim Åparken 17 6980 Tim,17,210000.0,03-03-2014,Alm.,1082,7,Villa,194,2015,
+Fresiavej 20 6980 Tim,20,910000.0,26-02-2014,Alm.,6691,4,Villa,136,1992,
+Torstedvej 57B 6980 Tim,0,135000.0,10-02-2014,Alm.,1985,2,Villa,68,1880,-54 %
+Hovedgaden 82 6980 Tim,82,540000.0,16-01-2014,Alm.,5242,4,Villa,103,1964,-6 %
+Holstebrovej 109 6980 Tim,109,1850000.0,02-01-2014,Alm.,12585,6,Stuehus,147,1870,
+Hovedgaden 27 6980 Tim,27,375000.0,17-12-2013,Fam.,2840,5,Villa,132,1914,
+Sneppevej 9 6980 Tim,9,532116.0,17-12-2013,Fam.,5542,3,Villa,96,1972,
+Sørupvej 5 6980 Tim,5,2505000.0,16-12-2013,Alm.,21228,5,Stuehus,118,1955,0 %
+Torstedvej 87 6980 Tim,87,160000.0,19-11-2013,Alm.,1523,3,Villa,105,1897,-36 %
+Tim Kirkevej 34 6980 Tim,34,300000.0,10-10-2013,Alm.,3333,4,Villa,90,1965,-8 %
+Bjerregårdvej 32B 6980 Tim,0,375000.0,02-09-2013,Fam.,2155,6,Stuehus,174,1900,
+Præstevej 3 6980 Tim,3,1790000.0,28-08-2013,Fam.,25571,3,Stuehus,70,1898,
+Lergravvej 9 6980 Tim,9,300000.0,13-08-2013,Alm.,3488,5,Villa,86,1900,-45 %
+Lergravvej 7 6980 Tim,7,395000.0,12-08-2013,Alm.,5266,4,Villa,75,1853,0 %
+Alrum 30 6980 Tim,30,460000.0,18-07-2013,Alm.,8846,3,Sommerhus,52,1995,-7 %
+Stadilvej 17 6980 Tim,17,800000.0,02-07-2013,Alm.,5673,4,Stuehus,141,2015,-20 %
+Elmevej 9 6980 Tim,9,125000.0,19-06-2013,Alm.,2232,2,Villa,56,1894,-36 %
+Solsortevej 8 6980 Tim,8,545997.0,28-05-2013,Fam.,4333,4,Villa,126,1979,
+Stadilvej 60 6980 Tim,60,215000.0,13-05-2013,Alm.,1592,6,Villa,135,1952,-14 %
+Tim Kirkevej 3 6980 Tim,3,265000.0,03-05-2013,Auktion,2103,5,Villa,126,1952,
+Stadiløvej 7 6980 Tim,7,150000.0,03-05-2013,Auktion,1666,2,Sommerhus,90,1834,-78 %
+Grønnevej 12 6980 Tim,12,600000.0,14-04-2013,Fam.,3370,6,Villa,178,1998,
+Torstedvej 98 6980 Tim,98,1925000.0,25-03-2013,Alm.,9390,7,Stuehus,205,1989,-4 %
+Stadilvej 25 6980 Tim,25,1200000.0,15-03-2013,Alm.,0,5,Villa,179,2008,-25 %
+Tranevej 11 6980 Tim,11,582500.0,13-03-2013,Alm.,4550,4,Villa,128,1974,-2 %
+Høbrovej 13 6980 Tim,13,14750000.0,22-02-2013,Alm.,46238,15,Stuehus,319,1916,
+Møllegade 12 6980 Tim,12,385000.0,22-01-2013,Alm.,4812,2,Villa,80,1957,-1 %
+Rylevej 9 6980 Tim,9,810000.0,14-01-2013,Alm.,5192,5,Villa,156,1977,-9 %
+Torstedvej 85 6980 Tim,85,2000000.0,31-12-2012,Alm.,16666,5,Stuehus,120,1936,
+Høbrovej 8 6980 Tim,8,469049.0,29-11-2012,Andet,3608,5,Villa,130,1971,
+Høbrovej 11A 6980 Tim,0,695750.0,21-11-2012,Alm.,2863,6,Stuehus,243,1935,
+Møllegade 20 6980 Tim,20,353000.0,26-09-2012,Andet,3151,5,Villa,112,1975,
+Torstedvej 70 6980 Tim,70,350000.0,15-09-2012,Alm.,2822,5,Stuehus,124,1929,
+Høbrovej 14 6980 Tim,14,2167500.0,16-08-2012,Fam.,10783,6,Stuehus,201,1927,
+Hovedgaden 32 6980 Tim,32,170000.0,03-08-2012,Auktion,1428,4,Villa,119,1950,-74 %
+Rylevej 3 6980 Tim,3,600000.0,21-06-2012,Alm.,3947,5,Villa,152,1965,-7 %
+Skannerupvej 6 6980 Tim,6,350000.0,12-06-2012,Alm.,3500,3,Villa,100,1958,
+Skelmosevej 73 6980 Tim,73,380000.0,06-06-2012,Alm.,3584,4,Villa,106,1963,
+Holstebrovej 127 6980 Tim,127,1400000.0,30-05-2012,Andet,7526,5,Stuehus,186,1995,
+Holstebrovej 115 6980 Tim,115,1500000.0,25-05-2012,Andet,5136,8,Stuehus,292,2011,
+Hovedgaden 74 6980 Tim,74,150000.0,09-05-2012,Alm.,2054,3,Villa,73,1957,-33 %
+Torstedvej 97 6980 Tim,97,1075000.0,12-04-2012,Alm.,6718,5,Villa,160,1936,
+Brinkvej 4 6980 Tim,4,1637500.0,15-03-2012,Alm.,8618,9,Stuehus,190,1928,
+Skovduevej 4 6980 Tim,4,117956.0,08-02-2012,Alm.,802,4,Villa,147,2014,
+Bjerregårdvej 6 6980 Tim,6,540000.0,23-01-2012,Andet,3461,5,Villa,156,1922,
+"Bjerregårdvej 12, 1 6980 Tim",1,720000.0,23-01-2012,Andet,7826,4,Lejlighed,92,1960,
+Tim Kirkevej 17 6980 Tim,17,407500.0,09-01-2012,Alm.,4794,4,Villa,85,1936,2 %
+Åvænget 4 6980 Tim,4,390000.0,29-12-2011,Alm.,2031,7,Villa,192,2014,
+Elmevej 17 6980 Tim,17,1300000.0,16-12-2011,Alm.,9154,6,Villa,142,1924,-3 %
+Høbrovej 11B 6980 Tim,0,810000.0,13-12-2011,Alm.,11571,3,Sommerhus,70,1968,
+Opstrupvej 8 6980 Tim,8,470000.0,07-12-2011,Alm.,5222,3,Sommerhus,90,1900,-6 %
+Skelmosevej 18 6980 Tim,18,16001.0,25-11-2011,Auktion,225,2,Villa,71,1876,
+Alrum 17 6980 Tim,17,550000.0,12-10-2011,Alm.,12222,3,Sommerhus,45,1977,
+Sneppevej 6 6980 Tim,6,735000.0,11-10-2011,Alm.,6336,4,Villa,116,1971,-8 %
+Stadilvej 48 6980 Tim,48,500000.0,07-10-2011,Alm.,4347,4,Villa,115,1970,-8 %
+Mølgaardsvej 3 6980 Tim,3,322282.0,23-09-2011,Alm.,4131,4,Villa,78,1956,
+Opstrupvej 4 6980 Tim,4,1400000.0,19-09-2011,Alm.,5982,9,Villa,234,1927,-3 %
+Stadilvej 46 6980 Tim,46,339000.0,22-08-2011,Alm.,4346,3,Villa,78,1950,-3 %
+Alrum 26 6980 Tim,26,245000.0,28-07-2011,Alm.,3024,4,Sommerhus,81,2015,-8 %
+Skelmosevej 38 6980 Tim,38,375000.0,18-07-2011,Alm.,2516,6,Villa,149,1934,-25 %
+Østerbyvej 13 6980 Tim,13,336326.0,14-07-2011,Alm.,1966,5,Anden beboelse,171,1954,
+Stadilvej 28 6980 Tim,28,545000.0,30-06-2011,Alm.,3323,4,Villa,164,1946,-16 %
+Lathyrusvej 5 6980 Tim,5,915000.0,22-06-2011,Alm.,5648,4,Villa,162,1964,-3 %
+Hovedgaden 63 6980 Tim,63,1490000.0,22-06-2011,Alm.,7967,8,Villa,187,1902,-7 %
+Tim Kirkevej 62 6980 Tim,62,106776.0,21-06-2011,Alm.,567,6,Stuehus,188,1911,
+Hovedgaden 60 6980 Tim,60,415000.0,13-03-2011,Alm.,4510,2,Villa,92,1920,-13 %
+Møllebyvej 6 6980 Tim,6,660000.0,26-01-2011,Alm.,4125,7,Stuehus,160,1872,
+Mølgaardsvej 6 6980 Tim,6,700000.0,22-12-2010,Alm.,4117,6,Villa,170,1941,
+Svingelvej 17 6980 Tim,17,550000.0,29-11-2010,Alm.,1903,11,Villa,289,1919,-15 %
+Bjerregårdvej 17 6980 Tim,17,3253900.0,26-11-2010,Fam.,19028,7,Stuehus,171,1906,
+Skelmosevej 11 6980 Tim,11,1262000.0,23-11-2010,Fam.,8194,5,Stuehus,154,1800,
+Opstrupvej 6 6980 Tim,6,5729900.0,23-11-2010,Fam.,22038,8,Stuehus,260,1990,
+Nybovej 5 6980 Tim,5,400000.0,20-11-2010,Fam.,3571,3,Villa,112,1977,
+Skelmosevej 63 6980 Tim,63,330000.0,12-11-2010,Alm.,0,5,Villa,115,1949,-12 %
+Tim Kirkevej 11 6980 Tim,11,3735000.0,01-11-2010,Alm.,22100,3,Stuehus,169,1935,
+Holstebrovej 139 6980 Tim,139,900000.0,25-10-2010,Alm.,4545,5,Stuehus,198,1870,
+Nørre Espvej 5 6980 Tim,5,1400000.0,21-10-2010,Fam.,0,4,Stuehus,169,1930,
+Tim Kirkevej 80 6980 Tim,80,1650000.0,15-10-2010,Alm.,9705,6,Stuehus,170,1952,-8 %
+Elmevej 15 6980 Tim,15,320000.0,03-10-2010,Andet,2025,4,Villa,158,1908,
+Klydevej 8 6980 Tim,8,1065000.0,16-09-2010,Alm.,7447,5,Villa,143,1979,-7 %
+Østerbyvej 3 6980 Tim,3,2195000.0,11-09-2010,Alm.,11801,8,Stuehus,186,1924,
+Fresiavej 8 6980 Tim,8,1200000.0,09-09-2010,Alm.,8450,5,Villa,142,1995,
+Nøderupvej 4 6980 Tim,4,660000.0,04-09-2010,Alm.,5689,4,Villa,116,1970,
+Hovedgaden 20 6980 Tim,20,410000.0,03-09-2010,Alm.,1744,5,Villa,235,1908,-14 %
+Bjerregårdvej 20 6980 Tim,20,150000.0,16-08-2010,Alm.,2083,2,Villa,72,1949,-49 %
+Mellemvej 6 6980 Tim,6,879000.0,12-08-2010,Alm.,7449,4,Villa,118,1918,-1 %
+Vandmøllevej 6 6980 Tim,6,1257500.0,12-08-2010,Alm.,21313,3,Villa,59,2016,-10 %
+Grønnevej 18 6980 Tim,18,575000.0,12-08-2010,Alm.,4197,4,Villa,137,1973,0 %
+Trøstrupvej 16 6980 Tim,16,675000.0,11-08-2010,Alm.,5357,4,Villa,126,1977,
+Holstebrovej 136 6980 Tim,136,440572.0,11-08-2010,Alm.,3263,3,Villa,135,1874,
+Gejlvej 6 6980 Tim,6,2495000.0,09-08-2010,Alm.,12475,6,Stuehus,200,1939,0 %
+Trine Rahbeks Vej 16 6980 Tim,16,195000.0,05-08-2010,Alm.,2785,3,Villa,70,1956,
+Tim Kirkevej 50 6980 Tim,50,170000.0,04-08-2010,Alm.,1133,5,Villa,150,1933,
+Spættevej 9 6980 Tim,9,850000.0,15-07-2010,Alm.,3846,6,Villa,221,1977,
+Mejlbyvej 22 6980 Tim,22,570000.0,13-07-2010,Alm.,3562,5,Villa,160,1904,-23 %
+Svingelvej 28 6980 Tim,28,148748.0,13-07-2010,Alm.,1260,6,Villa,118,1923,
+Solsortevej 10 6980 Tim,10,1010000.0,08-07-2010,Alm.,8145,3,Villa,124,1977,-3 %
+Tim Kirkevej 82 6980 Tim,82,1800000.0,16-06-2010,Alm.,15517,4,Stuehus,116,1929,
+Stationsvej 4 6980 Tim,4,720000.0,16-06-2010,Alm.,5000,5,Rækkehus,144,1894,-3 %
+Nørre Espvej 6 6980 Tim,6,1498000.0,12-03-2010,Alm.,8322,6,Stuehus,180,1924,0 %
+Svingelvej 30 6980 Tim,30,215000.0,15-02-2010,Alm.,1762,5,Villa,122,1943,-35 %
+Hovedgaden 66 6980 Tim,66,325000.0,28-01-2010,Alm.,2056,6,Stuehus,158,1908,-18 %
+Skannerupvej 5 6980 Tim,5,675000.0,21-12-2009,Alm.,6490,2,Villa,104,1962,
+Skannerupvej 10A 6980 Tim,0,400000.0,21-12-2009,Alm.,5063,3,Rækkehus,79,1979,
+Grønnevej 2 6980 Tim,2,1200000.0,15-12-2009,Alm.,6666,7,Villa,180,1971,-7 %
+Torstedvej 67 6980 Tim,67,356084.0,16-11-2009,Alm.,1502,4,Villa,237,1935,
+Tranevej 6 6980 Tim,6,1100000.0,13-11-2009,Alm.,5789,7,Villa,190,1974,-21 %
+Grønbjergvej 8 6980 Tim,8,530000.0,12-11-2009,Alm.,6022,4,Stuehus,88,2013,-23 %
+Fasanvej 8 6980 Tim,8,710000.0,04-11-2009,Alm.,7977,3,Villa,89,1966,-5 %
+Grønnevej 10 6980 Tim,10,900000.0,09-10-2009,Alm.,6000,5,Villa,150,1977,
+Torstedvej 84 6980 Tim,84,337500.0,30-09-2009,Alm.,2428,7,Villa,139,1932,
+Stadiløvej 17 6980 Tim,17,825000.0,25-09-2009,Alm.,6297,4,Stuehus,131,1000,-2 %
+Svingelvej 20 6980 Tim,20,305000.0,11-09-2009,Auktion,1763,5,Villa,173,1910,
+Stadiløvej 10 6980 Tim,10,110000.0,03-09-2009,Auktion,916,4,Villa,120,1900,
+Møllegade 15 6980 Tim,15,130000.0,27-07-2009,Fam.,2321,3,Villa,56,1948,
+Skelmosevej 65 6980 Tim,65,325000.0,20-07-2009,Alm.,2579,6,Villa,126,1950,-13 %
+Møllebyvej 3 6980 Tim,3,880000.0,02-07-2009,Alm.,2359,8,Villa,373,1900,
+Sneppevej 18 6980 Tim,18,850000.0,15-06-2009,Alm.,6071,3,Villa,140,1972,-5 %
+Holstebrovej 135 6980 Tim,135,950000.0,29-05-2009,Alm.,6333,4,Stuehus,150,1870,-21 %
+Skelmosevej 67 6980 Tim,67,250000.0,13-05-2009,Alm.,2173,4,Villa,115,1969,
+Svensgaardvej 14 6980 Tim,14,99000.0,09-05-2009,Alm.,603,6,Villa,164,2010,
+Torstedvej 56 6980 Tim,56,562500.0,01-05-2009,Alm.,5357,3,Villa,105,1958,-5 %
+Søgårdvej 9 6980 Tim,9,250000.0,08-04-2009,Alm.,2500,4,Stuehus,100,1852,-44 %
+Bjerregårdvej 26 6980 Tim,26,45000.0,26-03-2009,Alm.,260,5,Stuehus,173,1963,
+Nøderupvej 5 6980 Tim,5,500000.0,09-03-2009,Alm.,0,6,Villa,152,1907,-20 %
+Grønbjergvej 14 6980 Tim,14,690000.0,12-02-2009,Alm.,4964,6,Stuehus,139,1964,-1 %
+Torstedvej 26 6980 Tim,26,7269000.0,02-02-2009,Fam.,34287,5,Stuehus,212,1908,
+Torstedvej 78 6980 Tim,78,49936.0,31-01-2009,Alm.,169,9,Stuehus,294,1973,
+Stadilvej 16 6980 Tim,16,1700000.0,30-01-2009,Fam.,8212,7,Stuehus,207,1989,
+Skelmosevej 4 6980 Tim,4,1530000.0,26-01-2009,Fam.,4751,7,Stuehus,322,2013,
+Stadiløvej 6 6980 Tim,6,330000.0,31-12-2008,Andet,4342,3,Villa,76,1877,
+Søruphusvej 2 6980 Tim,2,2265920.0,18-12-2008,Alm.,12588,4,Stuehus,180,1915,
+Halkærvej 6 6980 Tim,6,925000.0,18-12-2008,Alm.,7708,4,Stuehus,120,1904,-16 %
+Spættevej 16 6980 Tim,16,475000.0,15-12-2008,Alm.,4947,3,Villa,96,1977,0 %
+Nørremarksvej 4 6980 Tim,4,447000.0,11-12-2008,Fam.,11175,1,Sommerhus,40,1957,
+Holstebrovej 129 6980 Tim,129,325000.0,28-11-2008,Alm.,2519,4,Villa,129,1948,-7 %
+Svingelvej 1 6980 Tim,1,850000.0,30-10-2008,Andet,3794,6,Villa,224,1968,
+Torstedvej 54 6980 Tim,54,560000.0,13-10-2008,Alm.,5833,3,Villa,96,1934,-1 %
+Nøderupvej 2 6980 Tim,2,1040000.0,19-09-2008,Alm.,4351,7,Villa,239,1974,-9 %
+Torstedvej 68 6980 Tim,68,8315805.0,15-09-2008,Alm.,43767,6,Stuehus,190,1939,
+Trøstrupvej 10 6980 Tim,10,620000.0,10-09-2008,Alm.,4769,4,Villa,130,1972,
+Fasanvej 10 6980 Tim,10,315000.0,28-07-2008,Fam.,3000,4,Villa,105,1967,
+Skovduevej 9 6980 Tim,9,141360.0,30-06-2008,Alm.,851,6,Villa,166,2009,
+Vestervej 5 6980 Tim,5,620500.0,26-06-2008,Fam.,3715,5,Sommerhus,167,1850,
+Solsortevej 7 6980 Tim,7,569500.0,27-05-2008,Fam.,5084,4,Villa,112,1978,
+Trine Rahbeks Vej 1 6980 Tim,1,635000.0,21-05-2008,Alm.,6350,4,Villa,100,1967,-12 %
+Skelmosevej 14 6980 Tim,14,1400000.0,09-05-2008,Alm.,5555,5,Sommerhus,252,1996,-17 %
+Vestervej 3 6980 Tim,3,2385000.0,05-05-2008,Fam.,23850,4,Stuehus,100,1906,
+Mejlbyvej 14 6980 Tim,14,727000.0,14-04-2008,Fam.,6377,4,Stuehus,114,1850,
+Fasanvej 7 6980 Tim,7,520000.0,04-04-2008,Alm.,5909,4,Villa,88,1962,-10 %
+Hovedgaden 78 6980 Tim,78,600000.0,03-04-2008,Alm.,6250,3,Villa,96,1976,-11 %
+Hovedgaden 10 6980 Tim,10,560000.0,28-03-2008,Alm.,5185,4,Villa,108,1955,
+Opstrupvej 2 6980 Tim,2,2830000.0,17-03-2008,Alm.,10884,9,Stuehus,260,1869,
+Tim Kirkevej 4 6980 Tim,4,115700.0,17-03-2008,Alm.,503,9,Stuehus,230,1911,
+Holstebrovej 144 6980 Tim,144,785000.0,11-03-2008,Alm.,6085,4,Villa,129,1955,0 %
+Vestervej 13A 6980 Tim,0,1200000.0,04-03-2008,Alm.,6666,6,Stuehus,180,2000,-7 %
+Lathyrusvej 7 6980 Tim,7,780000.0,03-03-2008,Alm.,4062,5,Villa,192,1918,-5 %
+Stadilvej 52 6980 Tim,52,600000.0,24-02-2008,Fam.,4444,4,Villa,135,1951,
+Klausievej 6 6980 Tim,6,70800.0,01-02-2008,Alm.,536,6,Stuehus,132,1935,
+Torstedvej 66 6980 Tim,66,70800.0,01-02-2008,Alm.,544,5,Stuehus,130,1922,
+Nørre Espvej 1 6980 Tim,1,6500000.0,29-01-2008,Fam.,26530,10,Stuehus,245,1933,
+Hjejlevej 6 6980 Tim,6,1090000.0,04-01-2008,Alm.,8074,2,Villa,135,1973,-1 %
+Torstedvej 38 6980 Tim,38,137275.0,31-12-2007,Alm.,567,8,Villa,242,1872,
+Torstedvej 45 6980 Tim,45,510000.0,05-12-2007,Alm.,5312,3,Villa,96,1943,-6 %
+Gejlvej 4 6980 Tim,4,950000.0,03-12-2007,Alm.,8796,4,Stuehus,108,1956,
+Hovedgaden 21 6980 Tim,21,483861.0,04-11-2007,Fam.,2481,6,Villa,195,1955,
+Valmuevej 2 6980 Tim,2,750000.0,26-10-2007,Alm.,5813,4,Villa,129,1981,-10 %
+Holstebrovej 131 6980 Tim,131,700000.0,25-10-2007,Alm.,2777,8,Stuehus,252,1924,
+Torstedvej 77 6980 Tim,77,625000.0,22-10-2007,Alm.,4222,3,Villa,148,1948,0 %
+Hovedgaden 38 6980 Tim,38,425000.0,04-10-2007,Alm.,4250,3,Rækkehus,100,1900,-12 %
+Skelmosevej 12 6980 Tim,12,391000.0,27-09-2007,Fam.,2812,5,Sommerhus,139,1926,
+Bjerregårdvej 13 6980 Tim,13,875000.0,20-09-2007,Alm.,4943,8,Stuehus,177,1868,
+Torstedvej 60 6980 Tim,60,595000.0,17-09-2007,Alm.,3562,5,Villa,167,1961,0 %
+Svingelvej 26 6980 Tim,26,600000.0,14-09-2007,Alm.,2898,5,Villa,207,1950,
+Skelmosevej 7 6980 Tim,7,275000.0,10-09-2007,Andet,2669,6,Villa,103,1929,
+Trøstrupvej 23 6980 Tim,23,137275.0,06-09-2007,Alm.,679,7,Villa,202,2009,
+Pradsgaardsvej 8 6980 Tim,8,1500000.0,22-08-2007,Alm.,8064,7,Villa,186,1973,
+Gejlvej 1 6980 Tim,1,445185.0,22-08-2007,Alm.,2765,5,Stuehus,161,1956,
+Torstedvej 37 6980 Tim,37,375000.0,21-08-2007,Alm.,0,3,Fritid,102,1918,
+Hovedgaden 25 6980 Tim,25,780000.0,10-08-2007,Alm.,4756,7,Villa,164,1925,-11 %
+Skolesvinget 1B 6980 Tim,0,300000.0,10-08-2007,Alm.,3260,4,Villa,92,1913,
+Brinkvej 1 6980 Tim,1,1080000.0,06-08-2007,Alm.,9000,5,Stuehus,120,1000,
+Hovedgaden 28 6980 Tim,28,510000.0,01-08-2007,Alm.,0,6,Rækkehus,128,1890,0 %
+Nybovej 2 6980 Tim,2,740000.0,30-07-2007,Alm.,3756,7,Villa,197,1972,
+Skannerupvej 12 6980 Tim,12,880000.0,12-07-2007,Alm.,4835,4,Villa,182,1921,
+Skovduevej 16 6980 Tim,16,90960.0,11-07-2007,Alm.,891,3,Villa,102,2008,
+Stadilvej 7 6980 Tim,7,4450000.0,10-07-2007,Fam.,22029,7,Stuehus,202,1878,
+Skelmosevej 51 6980 Tim,51,515000.0,06-07-2007,Alm.,5150,4,Villa,100,1968,-2 %
+Svingelvej 19 6980 Tim,19,750000.0,06-07-2007,Alm.,3750,6,Stuehus,200,1907,0 %
+Bjerregårdvej 21 6980 Tim,21,175000.0,06-07-2007,Alm.,994,6,Stuehus,176,2008,
+Lathyrusvej 3 6980 Tim,3,873000.0,05-07-2007,Alm.,6147,5,Villa,142,1969,2 %
+Møllebyvej 10 6980 Tim,10,1250000.0,18-06-2007,Alm.,12376,5,Sommerhus,101,1800,
+Tim Kirkevej 24 6980 Tim,24,300000.0,15-06-2007,Alm.,0,7,Villa,122,1953,
+Klydevej 12 6980 Tim,12,645000.0,15-06-2007,Alm.,5657,3,Villa,114,1980,-4 %
+Torstedvej 51 6980 Tim,51,555000.0,01-06-2007,Alm.,4625,4,Villa,120,1929,-3 %
+Sneppevej 3 6980 Tim,3,700000.0,18-05-2007,Alm.,6422,4,Villa,109,1966,-5 %
+Hjejlevej 10 6980 Tim,10,760000.0,08-05-2007,Alm.,4903,5,Villa,155,1973,-4 %
+Svingelvej 8 6980 Tim,8,410000.0,07-05-2007,Alm.,6406,2,Villa,64,1906,
+Møllegade 18 6980 Tim,18,306844.0,23-04-2007,Alm.,2416,4,Villa,127,1976,
+Kogsgårdsvej 3 6980 Tim,3,710000.0,23-04-2007,Alm.,5546,5,Villa,128,1973,2 %
+Nybovej 3 6980 Tim,3,450000.0,22-04-2007,Alm.,3125,4,Villa,144,1973,
+Grønnevej 11 6980 Tim,11,740000.0,23-03-2007,Alm.,5323,6,Villa,139,1985,-7 %
+Mejlbyvej 12 6980 Tim,12,196730.0,20-03-2007,Fam.,941,8,Stuehus,209,1800,
+Torstedvej 64 6980 Tim,64,375000.0,20-02-2007,Alm.,3099,6,Villa,121,1923,
+Hovedgaden 35 6980 Tim,35,285000.0,29-12-2006,Alm.,1357,6,Villa,210,1900,
+Mølgaardsvej 2 6980 Tim,2,460000.0,20-12-2006,Alm.,2222,6,Villa,207,2008,
+Solsortevej 6 6980 Tim,6,1175000.0,08-12-2006,Alm.,8453,5,Villa,139,1977,
+Østerbyvej 16 6980 Tim,16,2415000.0,20-11-2006,Fam.,17007,4,Stuehus,142,1898,
+Nybovej 16 6980 Tim,16,600000.0,30-10-2006,Alm.,5555,3,Villa,108,1974,
+Skovduevej 14 6980 Tim,14,1200000.0,23-10-2006,Alm.,9677,4,Villa,124,1999,
+Trøstrupvej 25 6980 Tim,25,160000.0,20-09-2006,Alm.,563,9,Villa,284,2009,
+Tim Kirkevej 68B 6980 Tim,0,365000.0,11-09-2006,Alm.,3967,3,Villa,92,1954,
+Lathyrusvej 6 6980 Tim,6,129000.0,31-08-2006,Alm.,724,6,Villa,178,2008,
+Skelmosevej 1 6980 Tim,1,2160000.0,28-08-2006,Fam.,18000,5,Stuehus,120,1965,
+Stadiløvej 4 6980 Tim,4,90000.0,28-08-2006,Fam.,450,5,Stuehus,200,1974,
+Tim Kirkevej 54 6980 Tim,54,550000.0,25-08-2006,Alm.,5729,3,Villa,96,1911,
+Skannerupvej 16 6980 Tim,16,192000.0,24-07-2006,Alm.,1900,3,Villa,101,1954,
+Skelmosevej 40 6980 Tim,40,320000.0,05-07-2006,Alm.,2285,5,Villa,140,1935,
+Hovedgaden 57 6980 Tim,57,395000.0,28-06-2006,Alm.,2992,5,Villa,132,1959,
+Trøstrupvej 24 6980 Tim,24,630000.0,22-06-2006,Andet,4500,5,Villa,140,1977,
+Torstedvej 61 6980 Tim,61,390000.0,22-06-2006,Andet,3979,4,Villa,98,1961,
+Trøstrupvej 22 6980 Tim,22,590000.0,16-06-2006,Alm.,7283,4,Villa,81,1973,
+Torstedvej 82 6980 Tim,82,1190000.0,07-06-2006,Alm.,7125,5,Stuehus,167,1952,
+Skovduevej 24 6980 Tim,24,91580.0,26-05-2006,Alm.,511,5,Villa,179,2007,
+Tim Kirkevej 46 6980 Tim,46,550000.0,22-05-2006,Alm.,3353,5,Villa,164,1954,
+Grønbjergvej 7 6980 Tim,7,995000.0,09-05-2006,Alm.,5102,6,Stuehus,195,1929,
+Hovedgaden 7 6980 Tim,7,345000.0,04-05-2006,Alm.,2827,9,Villa,122,1951,
+Søgårdvej 5 6980 Tim,5,945000.0,22-04-2006,Alm.,5591,7,Villa,169,1892,
+Hjejlevej 5 6980 Tim,5,865000.0,18-03-2006,Alm.,0,5,Villa,164,1973,
+Mejlbyvej 16 6980 Tim,16,1280000.0,17-03-2006,Alm.,0,11,Villa,358,1800,
+Solsortevej 16 6980 Tim,16,664000.0,13-02-2006,Alm.,5824,4,Villa,114,1980,
+Møllegade 21 6980 Tim,21,150000.0,02-01-2006,Alm.,617,7,Villa,243,2008,
+Nybovej 4 6980 Tim,4,320000.0,02-01-2006,Alm.,3200,3,Villa,100,1970,
+Skelmosevej 53 6980 Tim,53,750000.0,28-12-2005,Fam.,5033,5,Villa,149,1987,
+Møllebyvej 5 6980 Tim,5,1125000.0,22-12-2005,Alm.,3892,8,Villa,289,1878,
+Skannerupvej 22 6980 Tim,22,859801.0,22-12-2005,Fam.,5057,5,Villa,170,1987,
+Bjerregårdvej 3 6980 Tim,3,420000.0,16-12-2005,Alm.,3888,4,Villa,108,1963,
+Nybovej 18 6980 Tim,18,432500.0,14-12-2005,Alm.,5210,3,Villa,83,1993,
+Torstedvej 49 6980 Tim,49,595000.0,07-12-2005,Alm.,4877,4,Villa,122,1939,
+Alrum 7 6980 Tim,7,126500.0,30-11-2005,Alm.,7906,1,Sommerhus,16,2016,
+Lathyrusvej 9 6980 Tim,9,258300.0,22-11-2005,Alm.,1247,6,Villa,207,2007,
+Skelmosevej 61 6980 Tim,61,220000.0,02-11-2005,Alm.,1549,5,Villa,142,1946,
+Lergravvej 3 6980 Tim,3,380000.0,31-10-2005,Andet,3551,4,Villa,107,1880,
+Torstedvej 50 6980 Tim,50,470000.0,25-10-2005,Fam.,2216,8,Villa,212,1864,
+Skelmosevej 83 6980 Tim,83,385000.0,21-10-2005,Alm.,5500,3,Villa,70,1932,
+Valmuevej 9 6980 Tim,9,1030000.0,30-09-2005,Alm.,7744,6,Villa,133,1988,
+Tim Kirkevej 10 6980 Tim,10,525000.0,15-09-2005,Alm.,5585,5,Stuehus,94,1000,
+Torstedvej 92 6980 Tim,92,5170000.0,15-09-2005,Alm.,28097,5,Stuehus,184,1914,
+Stadilvej 42 6980 Tim,42,445000.0,13-09-2005,Alm.,3345,4,Villa,133,1932,
+Møllebyvej 18 6980 Tim,18,780000.0,27-07-2005,Alm.,0,5,Villa,180,1969,
+Tranevej 5 6980 Tim,5,650000.0,04-07-2005,Alm.,4421,4,Villa,147,1974,
+Grønnevej 6 6980 Tim,6,540000.0,30-06-2005,Alm.,4500,5,Villa,120,1967,
+Fresiavej 16 6980 Tim,16,75000.0,26-06-2005,Alm.,543,5,Villa,138,2006,
+Skovduevej 20 6980 Tim,20,132430.0,16-06-2005,Alm.,802,5,Villa,165,2006,
+Grønnevej 1 6980 Tim,1,575000.0,09-05-2005,Alm.,6388,3,Villa,90,1965,
+Skelmosevej 42 6980 Tim,42,220000.0,14-04-2005,Alm.,2291,4,Villa,96,1935,
+Lathyrusvej 1 6980 Tim,1,498500.0,29-03-2005,Alm.,5192,3,Villa,96,1975,
+Skelmosevej 20 6980 Tim,20,865000.0,21-03-2005,Alm.,3649,9,Villa,237,1942,
+Skelmosevej 5 6980 Tim,5,625000.0,16-02-2005,Alm.,3633,6,Villa,172,1906,
+Lindholmvej 1 6980 Tim,1,760000.0,08-02-2005,Alm.,5629,5,Villa,135,1941,
+Torstedvej 80 6980 Tim,80,220000.0,27-01-2005,Alm.,1666,5,Villa,132,1924,
+Nøderupvej 8 6980 Tim,8,475000.0,21-01-2005,Alm.,4025,4,Villa,118,1944,
+Torstedvej 81 6980 Tim,81,825000.0,13-01-2005,Alm.,8418,4,Villa,98,1915,
+Torstedvej 52 6980 Tim,52,180000.0,03-01-2005,Alm.,0,3,Villa,103,1958,
+Møllegade 3 6980 Tim,3,155000.0,30-12-2004,Fam.,3039,2,Anden beboelse,51,1932,
+Svingelvej 3B 6980 Tim,0,525000.0,29-11-2004,Alm.,4687,4,Villa,112,1969,
+Trøstrupvej 26 6980 Tim,26,649474.0,29-11-2004,Fam.,3473,7,Villa,187,1975,
+Hovedgaden 62 6980 Tim,62,510000.0,13-11-2004,Alm.,5666,3,Villa,90,1959,
+Stadiløvej 12 6980 Tim,12,810000.0,10-11-2004,Auktion,0,10,Villa,279,1934,
+Nørre Espvej 11B 6980 Tim,0,476000.0,23-10-2004,Fam.,5950,3,Sommerhus,80,1964,
+Kogsgårdsvej 7 6980 Tim,7,822900.0,18-10-2004,Andet,4472,3,Villa,184,1972,
+Møllebyvej 2 6980 Tim,2,470000.0,13-10-2004,Alm.,3032,7,Villa,155,1850,
+Spættevej 3 6980 Tim,3,705000.0,07-10-2004,Alm.,5071,5,Villa,139,1978,
+Møllebyvej 1 6980 Tim,1,1080000.0,01-10-2004,Alm.,6545,6,Stuehus,165,1890,
+Solsortevej 12 6980 Tim,12,610000.0,30-09-2004,Alm.,5980,3,Villa,102,1977,
+Halkærvej 4 6980 Tim,4,669000.0,30-08-2004,Alm.,2908,7,Industri o.l.,230,1868,
+Brinkvej 6 6980 Tim,6,4329150.0,17-08-2004,Fam.,22905,6,Stuehus,189,1905,
+Stadilvej 56 6980 Tim,56,392143.0,02-07-2004,Alm.,5159,4,Villa,76,1950,
+Skelmosevej 49 6980 Tim,49,760000.0,18-06-2004,Alm.,5135,5,Villa,148,1977,
+Opstrupvej 1 6980 Tim,1,2800000.0,08-06-2004,Alm.,13930,8,Villa,201,1927,
+Torstedvej 28 6980 Tim,28,243666.0,28-05-2004,Fam.,729,10,Stuehus,334,1890,
+Høbrovej 10E 6980 Tim,0,1500000.0,28-05-2004,Alm.,9375,5,Stuehus,160,2001,
+Torstedvej 94 6980 Tim,94,675000.0,16-05-2004,Fam.,4166,4,Stuehus,162,1957,
+Skelmosevej 19 6980 Tim,19,670000.0,13-05-2004,Alm.,6090,4,Villa,110,1897,
+Skovduevej 3 6980 Tim,3,93575.0,12-05-2004,Alm.,668,5,Villa,140,2005,
+Nørre Espvej 14 6980 Tim,14,1020000.0,09-04-2004,Fam.,4903,7,Stuehus,208,1914,
+Svingelvej 22 6980 Tim,22,334000.0,23-03-2004,Alm.,1795,5,Villa,186,1917,
+Alrum 35 6980 Tim,35,590000.0,12-03-2004,Alm.,7375,5,Sommerhus,80,1988,
+Stadilvej 54 6980 Tim,54,385000.0,03-02-2004,Alm.,3564,4,Villa,108,1951,
+Søgårdvej 7 6980 Tim,7,500000.0,27-01-2004,Fam.,3401,5,Villa,147,2007,
+Klydevej 4 6980 Tim,4,730000.0,21-01-2004,Alm.,5703,4,Villa,128,1979,
+Lindholmvej 5 6980 Tim,5,6000000.0,08-01-2004,Fam.,18237,8,Stuehus,329,2009,
+Tim Kirkevej 58 6980 Tim,58,262784.0,12-12-2003,Alm.,2005,6,Villa,131,1927,
+Sneppevej 2 6980 Tim,2,350000.0,19-11-2003,Alm.,2692,4,Villa,130,1967,
+Elmevej 7 6980 Tim,7,320000.0,11-11-2003,Alm.,3265,5,Villa,98,1894,
+Vægermosevej 1 6980 Tim,1,225000.0,05-11-2003,Alm.,2393,4,Villa,94,1952,
+Grønbjergvej 4 6980 Tim,4,5000000.0,31-10-2003,Alm.,23041,6,Stuehus,217,1918,
+Alrum 6 6980 Tim,6,375000.0,28-10-2003,Alm.,0,5,Sommerhus,98,1976,
+Tim Kirkevej 28B 6980 Tim,0,530000.0,10-10-2003,Alm.,824,6,Villa,643,1953,
+Grønnevej 3 6980 Tim,3,600000.0,09-10-2003,Alm.,2790,6,Villa,215,1967,
+Skovduevej 5 6980 Tim,5,94240.0,02-10-2003,Alm.,682,4,Villa,138,2004,
+Holstebrovej 148 6980 Tim,148,3500000.0,02-09-2003,Alm.,15350,4,Villa,228,1960,
+Kogsgårdsvej 5 6980 Tim,5,722500.0,30-07-2003,Alm.,0,4,Villa,118,1972,
+Møllebyvej 16 6980 Tim,16,945000.0,25-06-2003,Alm.,3841,6,Stuehus,246,1870,
+Møllebyvej 8 6980 Tim,8,14241000.0,19-05-2003,Fam.,43818,12,Stuehus,325,1727,
+Høbrovej 10F 6980 Tim,0,4230000.0,13-05-2003,Alm.,22380,7,Stuehus,189,1939,
+Høbrovej 12 6980 Tim,12,1000000.0,13-05-2003,Alm.,5847,5,Stuehus,171,1800,
+Nøderupvej 6 6980 Tim,6,810000.0,09-05-2003,Alm.,5094,4,Villa,159,1970,
+Vestervej 6 6980 Tim,6,935000.0,30-04-2003,Alm.,5843,6,Stuehus,160,1900,
+Fasanvej 2 6980 Tim,2,425000.0,28-04-2003,Alm.,4250,4,Villa,100,1964,
+Tim Kirkevej 88 6980 Tim,88,1495000.0,11-04-2003,Alm.,5397,6,Stuehus,277,1903,
+Nørremarksvej 3 6980 Tim,3,880000.0,22-03-2003,Alm.,6567,5,Stuehus,134,1959,
+Skelmosevej 8 6980 Tim,8,222000.0,14-03-2003,Alm.,1156,6,Stuehus,192,1875,
+Solsortevej 1 6980 Tim,1,64540.0,24-01-2003,Alm.,419,5,Villa,154,2003,
+Solsortevej 4 6980 Tim,4,840000.0,24-01-2003,Alm.,3733,8,Villa,225,1977,
+Grønbjergvej 6 6980 Tim,6,3030000.0,16-12-2002,Alm.,15150,8,Stuehus,200,1953,
+Sigvej 2 6980 Tim,2,4750000.0,03-12-2002,Alm.,38934,6,Stuehus,122,1929,
+Bjerregårdvej 28 6980 Tim,28,725000.0,07-10-2002,Alm.,3698,7,Villa,196,1918,
+Svingelvej 16 6980 Tim,16,189396.0,20-09-2002,Andet,1691,4,Villa,112,1971,
+Møllegade 5 6980 Tim,5,295000.0,15-08-2002,Alm.,3277,3,Villa,90,1948,
+Skelmosevej 85 6980 Tim,85,200000.0,05-08-2002,Alm.,2272,3,Villa,88,1930,
+Stadilvej 13 6980 Tim,13,475000.0,06-07-2002,Alm.,2074,7,Villa,229,2006,
+Tim Kirkevej 8 6980 Tim,8,313185.0,28-06-2002,Alm.,1361,6,Stuehus,230,1852,
+Fabriksvej 6 6980 Tim,6,535000.0,09-06-2002,Alm.,7535,3,Villa,71,1963,
+Tim Kirkevej 9 6980 Tim,9,415000.0,07-06-2002,Alm.,5928,3,Villa,70,1947,
+Svensgaardvej 2 6980 Tim,2,600000.0,31-05-2002,Alm.,5172,4,Villa,116,1967,
+Stadilvej 32 6980 Tim,32,300000.0,21-05-2002,Alm.,3370,4,Villa,89,2004,
+Rylevej 2 6980 Tim,2,1000000.0,03-05-2002,Alm.,6993,4,Villa,143,2002,
+Tim Kirkevej 41 6980 Tim,41,760000.0,30-04-2002,Alm.,3551,6,Villa,214,1880,
+Solsortevej 9 6980 Tim,9,750000.0,02-04-2002,Alm.,0,6,Villa,163,1979,
+Holstebrovej 133 6980 Tim,133,350000.0,24-02-2002,Alm.,3608,4,Villa,97,1957,
+Hjejlevej 3 6980 Tim,3,611139.0,20-02-2002,Alm.,4244,5,Villa,144,1973,
+Østerbyvej 5 6980 Tim,5,850000.0,17-12-2001,Alm.,4857,5,Villa,175,1878,
+Halkærvej 8 6980 Tim,8,100000.0,05-12-2001,Alm.,628,5,Villa,159,2005,
+Nørremarksvej 1C 6980 Tim,0,3785000.0,03-12-2001,Alm.,36047,3,Stuehus,105,1957,
+Mejlbyvej 3 6980 Tim,3,365000.0,12-11-2001,Alm.,3041,5,Sommerhus,120,1918,
+Valmuevej 1 6980 Tim,1,795000.0,07-11-2001,Alm.,0,4,Villa,155,1980,
+Tim Kirkevej 74 6980 Tim,74,490000.0,30-10-2001,Alm.,4083,4,Villa,120,1911,
+Pradsgaardsvej 5 6980 Tim,5,625000.0,29-10-2001,Alm.,0,5,Villa,159,1968,
+Spættevej 11 6980 Tim,11,1300000.0,22-10-2001,Alm.,9352,5,Villa,139,1977,
+Nøderupvej 10 6980 Tim,10,350000.0,15-10-2001,Fam.,5555,3,Villa,63,1954,
+Møllegade 10 6980 Tim,10,250000.0,25-09-2001,Alm.,3571,3,Villa,70,1938,
+Torstedvej 39 6980 Tim,39,350000.0,10-09-2001,Alm.,2592,5,Stuehus,135,1913,
+Tranevej 12 6980 Tim,12,550000.0,30-08-2001,Alm.,4741,2,Villa,116,1973,
+Sneppevej 5 6980 Tim,5,620000.0,18-07-2001,Alm.,5535,4,Villa,112,1968,
+Skannerupvej 21 6980 Tim,21,185000.0,05-07-2001,Alm.,1321,4,Villa,140,2003,
+Tim Kirkevej 68A 6980 Tim,0,1010000.0,01-07-2001,Alm.,6917,4,Stuehus,146,1918,
+Østerbyvej 6 6980 Tim,6,582538.0,27-06-2001,Alm.,4347,6,Villa,134,1933,
+Svingelvej 7 6980 Tim,7,2938400.0,14-06-2001,Fam.,18365,4,Stuehus,160,1913,
+Møllebyvej 9 6980 Tim,9,3110000.0,24-04-2001,Fam.,10724,10,Stuehus,290,1896,
+Bjerregårdvej 14 6980 Tim,14,300000.0,23-04-2001,Fam.,3157,4,Villa,95,1951,
+Torstedvej 41 6980 Tim,41,660000.0,09-04-2001,Alm.,4230,6,Villa,156,1973,
+Trøstrupvej 18 6980 Tim,18,465000.0,02-04-2001,Alm.,4151,4,Villa,112,1968,
+Østerbyvej 20 6980 Tim,20,800000.0,01-04-2001,Fam.,6250,6,Stuehus,128,1925,
+Skelmosevej 75 6980 Tim,75,345000.0,09-03-2001,Alm.,3450,4,Villa,100,1962,
+Tim Kirkevej 7 6980 Tim,7,480000.0,01-03-2001,Alm.,3116,4,Villa,154,2010,
+Stadilvej 14 6980 Tim,14,738740.0,24-01-2001,Alm.,3788,8,Stuehus,195,1960,
+Stadiløvej 2 6980 Tim,2,581917.0,28-12-2000,Alm.,5819,3,Sommerhus,100,1848,
+Torstedvej 72 6980 Tim,72,1100000.0,04-12-2000,Alm.,9016,3,Stuehus,122,1927,
+Skelmosevej 25 6980 Tim,25,50000.0,27-11-2000,Alm.,303,5,Villa,165,2001,
+Tim Kirkevej 21 6980 Tim,21,222000.0,23-11-2000,Alm.,1067,7,Villa,208,1853,
+Nørre Espvej 11A 6980 Tim,0,798214.0,21-11-2000,Alm.,5251,6,Villa,152,1935,
+Grønbjergvej 10 6980 Tim,10,840000.0,26-10-2000,Alm.,5714,4,Stuehus,147,1956,
+Stadilvej 63 6980 Tim,63,520000.0,18-10-2000,Alm.,3561,4,Villa,146,1879,
+Tranevej 2 6980 Tim,2,576000.0,24-08-2000,Alm.,4571,4,Villa,126,1972,
+Mejlbyvej 18 6980 Tim,18,2116500.0,18-08-2000,Fam.,15117,6,Stuehus,140,1837,
+Torstedvej 95 6980 Tim,95,495000.0,14-07-2000,Alm.,4500,4,Villa,110,1942,
+Tim Kirkevej 38 6980 Tim,38,1240000.0,14-07-2000,Alm.,14252,7,Døgninstitution,87,1981,
+Hovedgaden 6 6980 Tim,6,830000.0,14-06-2000,Alm.,4662,5,Villa,178,1961,
+Alrum 24 6980 Tim,24,330000.0,23-05-2000,Alm.,7173,3,Sommerhus,46,1976,
+Tim Kirkevej 16 6980 Tim,16,255000.0,17-05-2000,Alm.,0,5,Villa,123,1948,
+Stadilvej 19 6980 Tim,19,1310000.0,08-05-2000,Fam.,8618,7,Stuehus,152,1870,
+Vestervej 10 6980 Tim,10,811288.0,12-04-2000,Alm.,4269,10,Stuehus,190,1830,
+Grønnevej 13 6980 Tim,13,920000.0,31-03-2000,Alm.,4919,7,Villa,187,1986,
+Bjerregårdvej 15 6980 Tim,15,409800.0,25-03-2000,Alm.,3902,4,Stuehus,105,1939,
+Stadilvej 35 6980 Tim,35,440000.0,09-03-2000,Alm.,4400,5,Villa,100,1850,
+Stadilvej 21 6980 Tim,21,2100000.0,08-03-2000,Alm.,14000,6,Stuehus,150,1956,
+Sneppevej 10 6980 Tim,10,830000.0,04-02-2000,Alm.,4438,5,Villa,187,1972,
+Tim Kirkevej 84 6980 Tim,84,4400000.0,25-01-2000,Alm.,24175,8,Stuehus,182,1898,
+Vestervej 7 6980 Tim,7,390000.0,24-01-2000,Alm.,2228,7,Stuehus,175,1865,
+Stadiløvej 3 6980 Tim,3,910000.0,20-12-1999,Fam.,4550,5,Stuehus,200,1893,
+Stadiløvej 1 6980 Tim,1,2848000.0,20-12-1999,Fam.,11483,8,Stuehus,248,1977,
+Skelmosevej 16 6980 Tim,16,635000.0,13-12-1999,Alm.,0,10,Stuehus,232,1941,
+Tim Kirkevej 33 6980 Tim,33,568958.0,17-11-1999,Alm.,5367,4,Sommerhus,106,1877,
+Vestervej 14 6980 Tim,14,860000.0,14-10-1999,Alm.,4455,5,Stuehus,193,1860,
+Stadilvej 23 6980 Tim,23,8033600.0,30-09-1999,Fam.,24871,14,Stuehus,323,1973,
+Nørre Espvej 9 6980 Tim,9,1375000.0,30-09-1999,Fam.,0,7,Stuehus,267,1908,
+Præstevej 1 6980 Tim,1,3450000.0,28-09-1999,Alm.,19060,7,Stuehus,181,1922,
+Holstebrovej 138 6980 Tim,138,220000.0,27-09-1999,Alm.,0,5,Villa,179,1967,
+Rylevej 7 6980 Tim,7,419802.0,20-09-1999,Alm.,3887,4,Villa,108,1966,
+Hovedgaden 26 6980 Tim,26,487239.0,31-08-1999,Alm.,2816,5,Rækkehus,173,1928,
+Valmuevej 7 6980 Tim,7,156192.0,27-08-1999,Fam.,913,4,Stuehus,171,1900,
+Tim Kirkevej 14 6980 Tim,14,728000.0,23-08-1999,Alm.,3551,6,Stuehus,205,1914,
+Tim Kirkevej 32 6980 Tim,32,321987.0,23-08-1999,Alm.,3833,3,Villa,84,1963,
+Tim Kirkevej 86 6980 Tim,86,925000.0,30-07-1999,Alm.,4147,7,Stuehus,223,1875,
+Trøstrupvej 14 6980 Tim,14,400000.0,29-07-1999,Alm.,3846,3,Villa,104,1968,
+Bjerregårdvej 7 6980 Tim,7,495000.0,01-07-1999,Alm.,3173,5,Villa,156,1946,
+Spættevej 1 6980 Tim,1,510000.0,30-06-1999,Fam.,3984,4,Villa,128,1975,
+Holstebrovej 142 6980 Tim,142,135000.0,25-06-1999,Alm.,912,5,Villa,148,2000,
+Skovduevej 2 6980 Tim,2,160000.0,18-06-1999,Alm.,1103,4,Villa,145,2001,
+Tim Kirkevej 5 6980 Tim,5,800000.0,17-06-1999,Alm.,4347,6,Villa,184,1958,
+Tranevej 3 6980 Tim,3,225000.0,15-06-1999,Fam.,1630,4,Villa,138,1975,
+Alrum 1 6980 Tim,1,65000.0,07-06-1999,Alm.,541,4,Sommerhus,120,2004,
+Østerbyvej 12 6980 Tim,12,3500000.0,22-04-1999,Fam.,14893,9,Stuehus,235,1967,
+Torstedvej 83 6980 Tim,83,1800000.0,06-03-1999,Alm.,4186,9,Stuehus,430,1950,
+Høbrovej 5 6980 Tim,5,843780.0,25-01-1999,Alm.,0,6,Villa,181,1970,
+Alrum 5 6980 Tim,5,45000.0,19-01-1999,Alm.,1666,2,Sommerhus,27,2001,
+Stadilvej 22 6980 Tim,22,292700.0,07-01-1999,Alm.,1888,4,Stuehus,155,1850,
+Vestervej 11 6980 Tim,11,137500.0,01-12-1998,Alm.,954,6,Stuehus,144,1895,
+Møllegade 11 6980 Tim,11,474998.0,04-11-1998,Alm.,4481,4,Villa,106,1977,
+Mejlbyvej 8 6980 Tim,8,3633007.0,30-09-1998,Alm.,16513,8,Villa,220,1984,
+Skannerupvej 26 6980 Tim,26,400001.0,02-09-1998,Alm.,0,3,Villa,150,1952,
+Mejlbyvej 4 6980 Tim,4,195500.0,03-08-1998,Fam.,1074,5,Villa,182,1939,
+Pradsgaardsvej 6 6980 Tim,6,825000.0,28-07-1998,Alm.,4342,7,Villa,190,1970,
+Skannerupvej 18 6980 Tim,18,517418.0,23-07-1998,Alm.,5334,4,Villa,97,1961,
+Alrum 36 6980 Tim,36,365000.0,30-06-1998,Alm.,5530,4,Sommerhus,66,1980,
+Trøstrupvej 1 6980 Tim,1,103155.0,19-06-1998,Alm.,515,5,Villa,200,1999,
+Stadiløvej 19 6980 Tim,19,543708.0,17-06-1998,Alm.,5330,5,Stuehus,102,1000,
+Torstedvej 22 6980 Tim,22,300000.0,18-05-1998,Alm.,2439,4,Villa,123,1945,
+Torstedvej 34 6980 Tim,34,330000.0,08-05-1998,Alm.,2598,3,Villa,127,1890,
+Møllebyvej 15 6980 Tim,15,2529000.0,24-04-1998,Fam.,9652,6,Stuehus,262,2012,
+Holstebrovej 123 6980 Tim,123,850000.0,24-04-1998,Fam.,3971,6,Stuehus,214,1896,
+Gejlvej 2 6980 Tim,2,350000.0,15-04-1998,Fam.,1620,7,Villa,216,1900,
+Torstedvej 57A 6980 Tim,0,420000.0,06-04-1998,Fam.,4516,9,Anden beboelse,93,1924,
+Bjerregårdvej 18 6980 Tim,18,235000.0,01-04-1998,Alm.,1598,4,Villa,147,1951,
+Spættevej 10 6980 Tim,10,449999.0,31-03-1998,Alm.,4245,4,Villa,106,1977,
+Svingelvej 5 6980 Tim,5,2640000.0,24-03-1998,Alm.,21290,4,Stuehus,124,1975,
+Bjerregårdvej 16 6980 Tim,16,625908.0,22-03-1998,Alm.,3911,4,Villa,160,1950,
+Mejlbyvej 24 6980 Tim,24,282500.0,12-03-1998,Alm.,2690,5,Villa,105,1790,
+Tim Kirkevej 28A 6980 Tim,0,242000.0,11-02-1998,Alm.,1110,4,Villa,218,1915,
+Stadilvej 12 6980 Tim,12,976000.0,19-01-1998,Alm.,3873,13,Stuehus,252,1843,
+Torstedvej 47 6980 Tim,47,175000.0,16-01-1998,Alm.,0,4,Villa,105,1939,
+Spættevej 13 6980 Tim,13,695000.0,13-11-1997,Alm.,4727,5,Villa,147,1977,
+Bjerregårdvej 11 6980 Tim,11,540000.0,28-10-1997,Alm.,4736,4,Stuehus,114,1928,
+Alrum 32 6980 Tim,32,73000.0,09-10-1997,Alm.,1520,3,Sommerhus,48,1999,
+Grønnevej 17 6980 Tim,17,475000.0,17-09-1997,Alm.,4059,4,Villa,117,1972,
+Tranevej 7 6980 Tim,7,750000.0,15-09-1997,Alm.,4629,5,Villa,162,1974,
+Tim Kirkevej 90 6980 Tim,90,525000.0,11-09-1997,Alm.,0,8,Stuehus,250,1912,
+Skelmosevej 31B 6980 Tim,0,561000.0,25-08-1997,Alm.,5724,4,Villa,98,1878,
+Tim Kirkevej 25 6980 Tim,25,400000.0,25-08-1997,Alm.,2010,5,Stuehus,199,1877,
+Fabriksvej 10 6980 Tim,10,80000.0,15-08-1997,Alm.,484,6,Villa,165,1998,
+Skannerupvej 15 6980 Tim,15,300000.0,29-07-1997,Alm.,0,4,Villa,114,1967,
+Hjejlevej 9 6980 Tim,9,650000.0,03-07-1997,Alm.,4012,5,Villa,162,1973,
+Svensgaardvej 9A 6980 Tim,0,2900000.0,19-06-1997,Alm.,0,5,Detailhandel,165,1977,
+Hovedgaden 58 6980 Tim,58,170000.0,18-06-1997,Alm.,1452,2,Villa,117,1908,
+Trine Rahbeks Vej 10 6980 Tim,10,425000.0,22-04-1997,Alm.,4427,2,Villa,96,1971,
+Grønnevej 16 6980 Tim,16,586000.0,29-03-1997,Alm.,3488,6,Villa,168,1971,
+Møllegade 8A 6980 Tim,0,659000.0,19-03-1997,Alm.,4170,6,Villa,158,1906,
+Holstebrovej 117 6980 Tim,117,599000.0,19-03-1997,Alm.,2559,8,Stuehus,234,1901,
+Skelmosevej 6 6980 Tim,6,465000.0,26-02-1997,Alm.,7750,5,Stuehus,60,1880,
+Torstedvej 63 6980 Tim,63,207000.0,07-02-1997,Alm.,2352,4,Villa,88,1951,
+Fasanvej 11 6980 Tim,11,509000.0,31-01-1997,Alm.,5357,3,Rækkehus,95,1989,
+Klydevej 10 6980 Tim,10,500000.0,17-01-1997,Alm.,0,5,Villa,120,1980,
+Skelmosevej 28 6980 Tim,28,310000.0,06-11-1996,Alm.,2152,5,Villa,144,1942,
+Hjejlevej 1 6980 Tim,1,495070.0,23-10-1996,Alm.,3667,4,Villa,135,1973,
+Østerbyvej 9 6980 Tim,9,195000.0,16-10-1996,Alm.,2867,2,Villa,68,1938,
+Stadilvej 26 6980 Tim,26,446000.0,19-09-1996,Alm.,2973,3,Villa,150,1858,
+Søruphusvej 1 6980 Tim,1,695000.0,12-09-1996,Alm.,5265,4,Villa,132,1903,
+Stadilvej 66 6980 Tim,66,310000.0,11-09-1996,Alm.,1623,7,Villa,191,1924,
+Svensgaardvej 3 6980 Tim,3,950000.0,01-07-1996,Alm.,0,5,Anden beboelse,239,1967,
+Skannerupvej 13 6980 Tim,13,434000.0,22-05-1996,Fam.,3709,4,Villa,117,1971,
+Alrum 4 6980 Tim,4,356708.0,12-04-1996,Alm.,4100,4,Sommerhus,87,1977,
+Fasanvej 17 6980 Tim,17,155000.0,01-04-1996,Alm.,0,3,Villa,169,1950,
+Fabriksvej 2 6980 Tim,2,600000.0,19-02-1996,Alm.,5217,4,Rækkehus,115,1960,
+Holstebrovej 141 6980 Tim,141,69960.0,04-02-1996,Alm.,1590,3,Sommerhus,44,1967,
+Tranevej 8 6980 Tim,8,455000.0,22-01-1996,Alm.,3640,4,Villa,125,1972,
+Møllegade 14 6980 Tim,14,204000.0,21-12-1995,Fam.,2266,3,Villa,90,1959,
+Svingelvej 14 6980 Tim,14,676000.0,14-11-1995,Alm.,3755,6,Villa,180,1973,
+Nøderupvej 12 6980 Tim,12,529000.0,09-11-1995,Alm.,5627,4,Villa,94,1983,
+Østerbyvej 11 6980 Tim,11,690000.0,07-08-1995,Fam.,0,7,Stuehus,162,1965,
+Holstebrovej 128 6980 Tim,128,617500.0,26-06-1995,Alm.,0,7,Stuehus,150,1915,
+Tim Kirkevej 18 6980 Tim,18,325000.0,25-06-1995,Alm.,1692,6,Villa,192,1890,
+Skovduevej 7 6980 Tim,7,730000.0,21-06-1995,Alm.,5934,4,Villa,123,1988,
+Skelmosevej 32 6980 Tim,32,570000.0,10-06-1995,Alm.,4042,10,Stuehus,141,1869,
+Grønnevej 9 6980 Tim,9,233100.0,02-06-1995,Alm.,2241,5,Villa,104,1967,
+Svingelvej 4 6980 Tim,4,920000.0,30-05-1995,Alm.,6571,5,Stuehus,140,1971,
+Grønbjergvej 9 6980 Tim,9,459000.0,10-05-1995,Alm.,2833,4,Stuehus,162,1926,
+Svingelvej 15 6980 Tim,15,238000.0,23-03-1995,Fam.,2767,3,Stuehus,86,1000,
+Skelmosevej 9 6980 Tim,9,10000.0,24-02-1995,Alm.,35,6,Stuehus,282,1827,
+Mejlbyvej 5 6980 Tim,5,10000.0,24-02-1995,Alm.,62,4,Stuehus,160,1720,
+Mejlbyvej 28 6980 Tim,28,86021.0,10-02-1995,Alm.,377,8,Stuehus,228,1827,
+Tim Kirkevej 70 6980 Tim,70,203234.0,10-02-1995,Alm.,0,5,Villa,140,1952,
+Holstebrovej 152B 6980 Tim,0,1350000.0,10-02-1995,Alm.,9642,4,Stuehus,140,1914,
+Opstrupvej 5 6980 Tim,5,55935.0,31-01-1995,Alm.,221,8,Stuehus,252,1993,
+Kogsgårdsvej 1 6980 Tim,1,626000.0,31-10-1994,Alm.,3639,6,Villa,172,1974,
+Møllegade 22 6980 Tim,22,420000.0,21-10-1994,Alm.,0,6,Villa,165,1975,
+Elmevej 21 6980 Tim,21,380000.0,21-10-1994,Alm.,0,6,Villa,187,1945,
+Hovedgaden 72 6980 Tim,72,615000.0,13-10-1994,Alm.,3236,7,Villa,190,1958,
+Stadilvej 50B 6980 Tim,0,155000.0,19-09-1994,Alm.,2924,3,Villa,53,1984,
+Hovedgaden 56 6980 Tim,56,96328.0,29-06-1994,Fam.,0,6,Villa,152,1896,
+Brinkvej 8 6980 Tim,8,675000.0,20-06-1994,Alm.,0,6,Stuehus,202,1828,
+Opstrupvej 3 6980 Tim,3,185000.0,25-05-1994,Alm.,1250,3,Villa,148,1904,
+Skelmosevej 13 6980 Tim,13,430000.0,16-05-1994,Alm.,3553,7,Villa,121,1929,
+Nybovej 1 6980 Tim,1,444015.0,15-05-1994,Alm.,0,4,Villa,163,1971,
+Skannerupvej 10B 6980 Tim,0,305000.0,03-05-1994,Alm.,3860,3,Rækkehus,79,1979,
+Skelmosevej 43 6980 Tim,43,325000.0,13-04-1994,Alm.,3823,3,Villa,85,1976,
+"Torstedvej 62, ST. TH 6980 Tim",0,500000.0,01-02-1994,Alm.,3521,8,Lejlighed,142,1934,
+Bjerregårdvej 9 6980 Tim,9,130000.0,13-01-1994,Alm.,1529,5,Villa,85,1938,
+Tim Kirkevej 56 6980 Tim,56,65000.0,11-01-1994,Alm.,0,4,Villa,138,1911,
+Klydevej 6 6980 Tim,6,541601.0,07-01-1994,Alm.,4011,5,Villa,135,1986,
+Høbrovej 3 6980 Tim,3,525000.0,02-12-1993,Alm.,2853,8,Villa,184,1995,
+Tim Kirkevej 43 6980 Tim,43,950000.0,09-11-1993,Fam.,6375,5,Stuehus,149,2010,
+Mejlbyvej 2 6980 Tim,2,226526.0,29-10-1993,Fam.,997,7,Villa,227,1850,
+Stadilvej 65 6980 Tim,65,300000.0,28-10-1993,Alm.,2830,8,Villa,106,1969,
+Stationsvej 6 6980 Tim,6,310250.0,16-09-1993,Fam.,0,4,Anden beboelse,110,1930,
+Solsortevej 2 6980 Tim,2,465000.0,09-09-1993,Alm.,0,4,Villa,136,1979,
+Spættevej 6 6980 Tim,6,545000.0,25-08-1993,Alm.,3920,5,Villa,139,1979,
+Fabriksvej 11 6980 Tim,11,350000.0,30-06-1993,Alm.,2046,7,Villa,171,1965,
+Skolesvinget 3 6980 Tim,3,290000.0,29-03-1993,Alm.,2612,5,Villa,111,1900,
+Tim Kirkevej 26 6980 Tim,26,230000.0,12-02-1993,Alm.,2090,4,Villa,110,1911,
+Nørre Espvej 4 6980 Tim,4,175000.0,04-01-1993,Alm.,1215,5,Stuehus,144,1894,
+Sørupvej 3 6980 Tim,3,600000.0,15-12-1992,Alm.,5128,4,Stuehus,117,1000,
+Stadilvej 27 6980 Tim,27,210000.0,29-10-1992,Alm.,0,8,Stuehus,180,1914,
+Svingelvej 12 6980 Tim,12,208886.0,11-09-1992,Auktion,2428,4,Villa,86,1960,
+Halkærvej 10 6980 Tim,10,650000.0,19-08-1992,Alm.,2653,8,Villa,245,1878,
+Klydevej 7 6980 Tim,7,440000.0,03-07-1992,Fam.,3928,5,Villa,112,1984,
+Østerbyvej 15 6980 Tim,15,150000.0,25-06-1992,Fam.,2142,2,Villa,70,1939,
+Holstebrovej 125 6980 Tim,125,350000.0,24-06-1992,Alm.,3431,3,Stuehus,102,1905,
+Torstedvej 93 6980 Tim,93,288000.0,17-06-1992,Alm.,2851,3,Villa,101,1957,
+Trine Rahbeks Vej 8 6980 Tim,8,480000.0,16-05-1992,Fam.,3779,5,Villa,127,1974,
+Fasanvej 14 6980 Tim,14,255000.0,27-04-1992,Alm.,2198,6,Villa,116,1948,
+Nybovej 7 6980 Tim,7,400000.0,27-04-1992,Alm.,2777,5,Villa,144,1974,
+Mellemvej 3 6980 Tim,3,130000.0,30-03-1992,Fam.,1604,4,Villa,81,1910,
+Møllegade 7 6980 Tim,7,172000.0,14-03-1992,Alm.,2356,3,Villa,73,1956,
+Bjerregårdvej 36 6980 Tim,36,117261.0,04-03-1992,Alm.,647,7,Stuehus,181,1917,
+Hovedgaden 42 6980 Tim,42,275000.0,30-01-1992,Alm.,2131,4,Rækkehus,129,1905,

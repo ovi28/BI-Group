@@ -1,0 +1,481 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Vestergade 67 6051 Almind,67,566666.0,01-05-2017,Fam.,1940,8,Villa,292,1910,
+Persillevej 1 6051 Almind,1,291050.0,25-04-2017,Alm.,1966,6,Villa,148,1888,
+Fyrrelunden 30 6051 Almind,30,625000.0,20-02-2017,Andet,5040,4,Rækkehus,124,1974,
+"Sysselbjergvej 3, ST 6051 Almind",0,1265000.0,10-01-2017,Alm.,13315,3,Lejlighed,95,2011,-2 %
+Egevænget 68 6051 Almind,68,2350000.0,05-01-2017,Alm.,15259,5,Villa,154,1998,
+Søvej 55 6051 Almind,55,1100000.0,19-12-2016,Alm.,8800,4,Sommerhus,125,1864,-8 %
+Egevænget 39 6051 Almind,39,1670000.0,19-08-2016,Alm.,13149,5,Villa,127,1995,-1 %
+Fyrrelunden 10 6051 Almind,10,641500.0,17-08-2016,Alm.,7636,3,Rækkehus,84,1974,8 %
+Vestergaardsvej 30 6051 Almind,30,1200000.0,28-07-2016,Alm.,8759,4,Villa,137,1986,-11 %
+Vejlevej 500 6051 Almind,500,465000.0,09-07-2016,Fam.,4386,4,Villa,106,1908,
+Fyrrelunden 32 6051 Almind,32,690000.0,21-06-2016,Alm.,8214,3,Rækkehus,84,1974,-8 %
+Gl. Landevej 9 6051 Almind,9,1050000.0,12-05-2016,Alm.,8677,4,Villa,121,1965,
+Stagebjerg Alle 29 6051 Almind,29,1420000.0,19-04-2016,Andet,8068,6,Villa,176,2015,
+Stagebjerg Alle 23 6051 Almind,23,2520000.0,18-04-2016,Alm.,16470,5,Villa,153,2008,-2 %
+Egeparken 3 6051 Almind,3,1560000.0,31-03-2016,Alm.,7839,6,Villa,199,1973,-5 %
+Stagebjergparken 25 6051 Almind,25,2250000.0,23-02-2016,Alm.,16187,5,Villa,139,2005,
+Egevej 1 6051 Almind,1,725000.0,19-02-2016,Andet,4965,6,Villa,146,1966,
+Toftevej 65 6051 Almind,65,421190.0,19-02-2016,Alm.,2789,5,Villa,151,2016,-29 %
+Stagebjergparken 24 6051 Almind,24,1845000.0,03-02-2016,Alm.,17083,4,Villa,108,2003,-3 %
+Hedevej 128 6051 Almind,128,3430000.0,28-01-2016,Alm.,16813,9,Stuehus,204,1800,
+Stagebjergparken 57 6051 Almind,57,2200000.0,12-01-2016,Alm.,12643,5,Villa,174,2005,-6 %
+Toftevej 2 6051 Almind,2,1440000.0,30-12-2015,Alm.,12743,4,Villa,113,1966,
+Almind Østergade 9 6051 Almind,9,1975000.0,28-12-2015,Alm.,10076,5,Villa,196,1905,-6 %
+Stagebjergparken 95 6051 Almind,95,2080000.0,09-12-2015,Alm.,16000,4,Villa,130,2004,-3 %
+Sysselbjergvej 50 6051 Almind,50,348000.0,10-11-2015,Alm.,2718,5,Villa,128,2016,
+Egevej 7 6051 Almind,7,1195000.0,30-10-2015,Alm.,11273,4,Villa,106,1967,
+Lilballevej 161 6051 Almind,161,1575000.0,06-10-2015,Alm.,6589,7,Villa,239,1902,-12 %
+Sysselbjergvej 14 6051 Almind,14,1260000.0,05-10-2015,Alm.,11052,4,Villa,114,1969,-10 %
+Toftevej 71 6051 Almind,71,2195000.0,04-10-2015,Alm.,14633,4,Villa,150,2009,-8 %
+Stagebjerg Alle 41 6051 Almind,41,1138376.0,11-09-2015,Alm.,7204,5,Villa,158,2011,
+Stagebjergparken 9 6051 Almind,9,2250000.0,03-09-2015,Alm.,16423,5,Villa,137,2003,-2 %
+Eltangvej 130 6051 Almind,130,300000.0,04-08-2015,Alm.,1657,5,Villa,181,1878,
+Fyrrelunden 20 6051 Almind,20,850000.0,23-07-2015,Fam.,10119,3,Rækkehus,84,1974,-15 %
+Nr. Stenderupvej 83 6051 Almind,83,1100000.0,10-06-2015,Fam.,7482,3,Villa,147,1850,
+Egevænget 26 6051 Almind,26,818750.0,21-05-2015,Fam.,6202,5,Villa,132,1989,
+Vestergaardsvej 2 6051 Almind,2,2070000.0,19-05-2015,Alm.,12937,5,Villa,160,1977,-5 %
+Almind Østergade 12 6051 Almind,12,840000.0,13-05-2015,Alm.,4941,6,Villa,170,1910,-58 %
+Egeparken 57 6051 Almind,57,1500000.0,07-05-2015,Alm.,7211,5,Villa,208,1976,-12 %
+Stagebjergparken 71 6051 Almind,71,1925000.0,30-04-2015,Alm.,16041,4,Villa,120,2004,-4 %
+Stagebjergparken 91 6051 Almind,91,3300000.0,22-04-2015,Alm.,14864,6,Villa,222,2006,-8 %
+Granhøj 2 6051 Almind,2,1400000.0,09-04-2015,Alm.,9589,6,Villa,146,1969,-3 %
+Egevænget 69 6051 Almind,69,2025000.0,01-04-2015,Alm.,14464,5,Villa,140,1998,-3 %
+Stagebjergparken 29 6051 Almind,29,2250000.0,31-03-2015,Alm.,16071,6,Villa,140,2004,0 %
+Egeparken 43 6051 Almind,43,1710000.0,23-03-2015,Alm.,13053,4,Villa,131,1976,-2 %
+Egeparken 5 6051 Almind,5,1400000.0,11-03-2015,Alm.,9589,5,Villa,146,1973,-5 %
+Almind Hule 2 6051 Almind,2,515000.0,27-02-2015,Alm.,3705,4,Villa,139,1900,3 %
+Stagebjergparken 51 6051 Almind,51,2295000.0,13-02-2015,Alm.,15937,5,Villa,144,2005,0 %
+Toftevej 6 6051 Almind,6,945000.0,05-02-2015,Alm.,8831,4,Villa,107,1965,-5 %
+Egevænget 23 6051 Almind,23,1075000.0,30-01-2015,Alm.,9110,4,Villa,118,1981,-9 %
+Toftevej 18 6051 Almind,18,712500.0,22-01-2015,Fam.,5089,5,Villa,140,1969,
+Sysselbjergvej 44 6051 Almind,44,348000.0,09-01-2015,Alm.,2320,6,Villa,150,2016,
+Møsvråvej 34 6051 Almind,34,6513300.0,19-12-2014,Alm.,21425,10,Stuehus,304,1900,
+Vestergaardsvej 15 6051 Almind,15,740000.0,17-12-2014,Andet,4868,4,Villa,152,1972,
+Sysselbjergvej 46 6051 Almind,46,625000.0,27-11-2014,Alm.,2717,8,Villa,230,2016,
+Egevænget 53 6051 Almind,53,781469.0,27-10-2014,Andet,5244,5,Villa,149,1996,-58 %
+Stagebjerg Alle 2 6051 Almind,2,550000.0,21-10-2014,Alm.,3437,5,Villa,160,2016,-12 %
+Lindevej 1 6051 Almind,1,1675000.0,14-10-2014,Alm.,11019,4,Villa,152,1967,-4 %
+Vestergade 46 6051 Almind,46,350000.0,07-10-2014,Alm.,3645,3,Villa,96,1943,-50 %
+Stagebjerg Alle 39 6051 Almind,39,625000.0,27-08-2014,Alm.,4111,5,Villa,152,2015,0 %
+Fyrrelunden 6 6051 Almind,6,925000.0,18-07-2014,Alm.,11011,3,Rækkehus,84,1974,
+Stagebjergparken 85 6051 Almind,85,750000.0,10-06-2014,Fam.,4545,5,Villa,165,2003,
+Stagebjerg Alle 14 6051 Almind,14,3500000.0,23-05-2014,Alm.,18229,5,Villa,192,2010,-3 %
+Egevænget 1 6051 Almind,1,1830000.0,22-05-2014,Alm.,11582,4,Villa,158,1987,-2 %
+Vestergade 140 6051 Almind,140,2915000.0,24-04-2014,Alm.,15261,7,Stuehus,191,1986,-3 %
+Sysselhaven 6A 6051 Almind,0,1760000.0,07-04-2014,Alm.,10114,5,Villa,174,1978,-2 %
+Egevænget 34 6051 Almind,34,1595000.0,21-03-2014,Alm.,11902,5,Villa,134,1996,0 %
+Egevej 17 6051 Almind,17,2500000.0,19-02-2014,Alm.,14792,7,Villa,169,1984,0 %
+Granhøj 5 6051 Almind,5,900000.0,03-02-2014,Fam.,7258,5,Villa,124,1968,-25 %
+Nr. Stenderupvej 91 6051 Almind,91,2900000.0,21-01-2014,Alm.,21804,6,Stuehus,133,1935,
+Stagebjerg Alle 27 6051 Almind,27,550000.0,17-01-2014,Alm.,3503,5,Villa,157,2014,-12 %
+Stagebjerg Alle 43 6051 Almind,43,550000.0,19-12-2013,Alm.,3767,5,Villa,146,2014,-12 %
+Vejlevej 493 6051 Almind,493,530000.0,03-12-2013,Alm.,4108,3,Villa,129,1872,-11 %
+Stagebjerg Alle 47 6051 Almind,47,535000.0,11-11-2013,Alm.,3767,5,Villa,142,2014,-14 %
+Granhøj 4 6051 Almind,4,1000000.0,24-10-2013,Alm.,6802,5,Villa,147,1968,
+Lilballevej 156 6051 Almind,156,2750000.0,04-10-2013,Alm.,11702,8,Stuehus,235,1823,
+Stagebjergparken 12 6051 Almind,12,2300000.0,02-09-2013,Alm.,15032,6,Villa,153,2001,-5 %
+Stagebjerg Alle 35 6051 Almind,35,550000.0,21-08-2013,Alm.,2879,5,Villa,191,2016,-12 %
+Egeparken 22 6051 Almind,22,1512500.0,18-07-2013,Alm.,11203,4,Villa,135,1976,0 %
+Møsvråvej 89 6051 Almind,89,2075000.0,16-07-2013,Alm.,7685,9,Stuehus,270,1914,-17 %
+Toftevej 33 6051 Almind,33,587959.0,10-06-2013,Andet,5068,4,Villa,116,1970,
+Egevænget 15 6051 Almind,15,1600000.0,07-06-2013,Alm.,10958,5,Villa,146,1981,-4 %
+Toftevej 19 6051 Almind,19,850000.0,06-06-2013,Alm.,8947,4,Villa,95,1971,-15 %
+Stagebjerg Alle 3 6051 Almind,3,458750.0,03-06-2013,Alm.,2606,4,Villa,176,2014,
+Egeparken 34 6051 Almind,34,812500.0,02-04-2013,Alm.,6500,6,Villa,125,1975,
+Egeparken 14 6051 Almind,14,1200000.0,22-01-2013,Auktion,9523,4,Villa,126,1980,
+Hedevej 100 6051 Almind,100,2260000.0,18-01-2013,Fam.,15804,5,Stuehus,143,1983,
+Stagebjergparken 138 6051 Almind,138,1330000.0,23-12-2012,Alm.,7471,5,Villa,178,2005,
+Stagebjergparken 101 6051 Almind,101,899975.0,11-12-2012,Fam.,6337,5,Villa,142,2004,
+"Almind Kirkesti 1, 1 6051 Almind",1,278917.0,08-10-2012,Fam.,5810,2,Villa,48,1905,
+Hedevej 86 6051 Almind,86,1860000.0,13-09-2012,Auktion,8340,7,Stuehus,223,1828,-38 %
+Stagebjergparken 67 6051 Almind,67,2335000.0,30-08-2012,Alm.,15261,5,Villa,153,2004,-2 %
+Hedevej 159 6051 Almind,159,925000.0,30-06-2012,Alm.,4262,6,Villa,217,1925,-7 %
+Egevænget 4 6051 Almind,4,722500.0,07-06-2012,Alm.,4544,5,Villa,159,1981,-50 %
+Almind Østergade 8 6051 Almind,8,812500.0,31-05-2012,Auktion,3779,8,Villa,215,1909,-32 %
+Stagebjergparken 2 6051 Almind,2,1895000.0,14-05-2012,Alm.,14037,5,Villa,135,2005,-3 %
+Sysselhaven 10 6051 Almind,10,1110000.0,20-02-2012,Alm.,9652,4,Villa,115,1976,-7 %
+Egevej 6 6051 Almind,6,1800000.0,03-12-2011,Alm.,12162,5,Villa,148,1967,-2 %
+Gl. Landevej 6 6051 Almind,6,1350000.0,04-11-2011,Alm.,10305,4,Villa,131,1963,
+Egeparken 35 6051 Almind,35,2150000.0,06-10-2011,Alm.,13782,5,Villa,156,1978,-6 %
+Egevænget 16 6051 Almind,16,1200000.0,29-09-2011,Alm.,10810,4,Villa,111,1981,-4 %
+Søvej 43 6051 Almind,43,325000.0,30-08-2011,Andet,9027,2,Sommerhus,36,1952,
+Stagebjergparken 100 6051 Almind,100,2260000.0,25-08-2011,Alm.,15694,5,Villa,144,2005,-4 %
+Toftevej 25 6051 Almind,25,1100000.0,10-08-2011,Alm.,9166,4,Villa,120,1969,-8 %
+Egevænget 21 6051 Almind,21,1425000.0,30-07-2011,Alm.,12284,4,Villa,116,1986,-9 %
+Vestergade 44 6051 Almind,44,350000.0,12-07-2011,Alm.,4605,3,Villa,76,2012,
+Vestergade 42 6051 Almind,42,350000.0,12-07-2011,Alm.,4605,3,Villa,76,2012,
+Almind Stationsvej 3 6051 Almind,3,2100000.0,19-05-2011,Alm.,13125,4,Villa,160,1900,-8 %
+Vestergade 26 6051 Almind,26,1850000.0,17-04-2011,Alm.,11280,4,Villa,164,1965,-7 %
+Stagebjergparken 45 6051 Almind,45,2445000.0,04-03-2011,Alm.,16862,5,Villa,145,2005,-2 %
+Egeparken 39 6051 Almind,39,1600000.0,22-02-2011,Alm.,12698,4,Villa,126,1977,-6 %
+Stagebjerg Alle 33 6051 Almind,33,710000.0,30-12-2010,Alm.,4465,5,Villa,159,2011,0 %
+Vestergade 22 6051 Almind,22,800000.0,23-12-2010,Alm.,2649,9,Villa,302,1936,
+Stagebjerg Alle 1 6051 Almind,1,615000.0,25-11-2010,Alm.,4100,6,Villa,150,2011,-7 %
+Sysselhaven 3 6051 Almind,3,1365000.0,19-11-2010,Alm.,11097,4,Villa,123,1976,-8 %
+Stagebjergparken 5 6051 Almind,5,1075000.0,15-09-2010,Fam.,4842,7,Villa,222,2003,
+Stagebjerg Alle 16 6051 Almind,16,704250.0,24-08-2010,Alm.,3806,8,Villa,185,2011,-5 %
+Sysselbjergvej 1 6051 Almind,1,1300000.0,23-06-2010,Alm.,10833,4,Villa,120,1930,
+Vestergade 31 6051 Almind,31,1225000.0,07-06-2010,Alm.,10470,4,Villa,117,1963,
+Stagebjerg Alle 25 6051 Almind,25,1370000.0,28-05-2010,Alm.,7611,5,Villa,180,2009,
+Vestergaardsvej 28 6051 Almind,28,1700000.0,25-05-2010,Alm.,13281,4,Villa,128,1986,-3 %
+Gl. Landevej 4 6051 Almind,4,945000.0,21-05-2010,Alm.,8669,3,Villa,109,1965,-1 %
+Vestergaardsvej 4 6051 Almind,4,1700000.0,22-04-2010,Alm.,10691,5,Villa,159,1972,-5 %
+Vestergade 27 6051 Almind,27,3245000.0,05-03-2010,Alm.,10400,11,Stuehus,312,1866,-3 %
+Stagebjerg Alle 31 6051 Almind,31,675000.0,11-01-2010,Alm.,3729,5,Villa,181,2012,-17 %
+Egevænget 12 6051 Almind,12,1500000.0,29-12-2009,Alm.,12295,5,Villa,122,1981,-21 %
+Møsvråvej 25 6051 Almind,25,527500.0,04-12-2009,Alm.,3878,5,Villa,136,1850,
+Almind Kirkesti 8 6051 Almind,8,706423.0,03-12-2009,Alm.,5434,5,Villa,130,1827,
+Stagebjergparken 124 6051 Almind,124,2550000.0,26-11-2009,Alm.,15548,6,Villa,164,2004,-5 %
+Almind Østergade 3 6051 Almind,3,619628.0,25-11-2009,Alm.,4917,4,Villa,126,1905,
+Stagebjergparken 31 6051 Almind,31,846000.0,30-10-2009,Andet,5602,4,Villa,151,2004,-63 %
+Stagebjergparken 46 6051 Almind,46,1089350.0,28-10-2009,Alm.,5187,8,Villa,210,2003,-64 %
+Stagebjergparken 8 6051 Almind,8,2000000.0,27-10-2009,Alm.,14598,5,Villa,137,2001,-5 %
+Stagebjergparken 39 6051 Almind,39,2535000.0,20-10-2009,Alm.,15843,5,Villa,160,2003,-2 %
+Toftevej 21 6051 Almind,21,1000000.0,23-09-2009,Alm.,8620,4,Villa,116,1970,-9 %
+Gl. Landevej 8 6051 Almind,8,1100000.0,21-09-2009,Alm.,8730,5,Villa,126,1962,-4 %
+Stagebjergparken 142 6051 Almind,142,1175000.0,08-09-2009,Andet,7532,5,Villa,156,2003,-54 %
+Fyrrelunden 25 6051 Almind,25,995000.0,17-08-2009,Alm.,11845,3,Rækkehus,84,1974,0 %
+Fyrrelunden 7 6051 Almind,7,820000.0,10-08-2009,Alm.,9761,3,Rækkehus,84,1974,-8 %
+Egeparken 33 6051 Almind,33,1650000.0,29-07-2009,Alm.,12992,5,Villa,127,1974,-6 %
+Egevænget 38 6051 Almind,38,1760000.0,13-07-2009,Alm.,14308,5,Villa,123,1987,-7 %
+Stagebjergparken 122 6051 Almind,122,3108000.0,06-07-2009,Alm.,19425,5,Villa,160,2007,-3 %
+Landerupvej 19 6051 Almind,19,1050000.0,26-06-2009,Alm.,7954,4,Villa,132,1896,-12 %
+Stagebjerg Alle 49 6051 Almind,49,600000.0,10-06-2009,Alm.,3351,5,Villa,179,2010,
+Fyrrelunden 12 6051 Almind,12,1250000.0,09-06-2009,Alm.,10000,4,Rækkehus,125,1974,
+Stagebjergparken 53 6051 Almind,53,2200000.0,05-06-2009,Alm.,14864,5,Villa,148,2004,-4 %
+Stagebjergparken 69 6051 Almind,69,2300000.0,12-04-2009,Alm.,14935,5,Villa,154,2005,-7 %
+Vestergade 95 6051 Almind,95,1700000.0,25-03-2009,Fam.,12318,5,Villa,138,1924,
+Persillevej 16 6051 Almind,16,3300000.0,18-03-2009,Alm.,25984,7,Stuehus,127,1900,-6 %
+Lindevej 3 6051 Almind,3,575500.0,03-03-2009,Alm.,3288,4,Villa,175,1967,
+Fyrrelunden 19 6051 Almind,19,1350000.0,19-02-2009,Alm.,10800,4,Rækkehus,125,1974,-3 %
+Toftevej 59 6051 Almind,59,850000.0,08-12-2008,Alm.,5151,6,Villa,165,1969,
+Lindevej 10 6051 Almind,10,1395000.0,10-09-2008,Fam.,14381,3,Villa,97,1967,
+Gl. Landevej 11 6051 Almind,11,1245000.0,05-09-2008,Alm.,11116,5,Villa,112,1965,-4 %
+Toftevej 67 6051 Almind,67,917144.0,26-08-2008,Alm.,6458,4,Villa,142,1971,
+Stagebjerg Alle 4 6051 Almind,4,800000.0,22-08-2008,Alm.,4301,7,Villa,186,2009,0 %
+Dons Byvej 26 6051 Almind,26,825000.0,12-08-2008,Alm.,6111,3,Villa,135,1934,-17 %
+Rødmosevej 15 6051 Almind,15,1450422.0,28-07-2008,Alm.,6333,8,Stuehus,229,1880,
+Stagebjergparken 96 6051 Almind,96,3275000.0,17-07-2008,Alm.,21833,4,Villa,150,2003,-6 %
+Stagebjergparken 48 6051 Almind,48,1213913.0,26-06-2008,Alm.,6781,5,Villa,179,2003,-62 %
+Dons Byvej 6 6051 Almind,6,1900000.0,02-06-2008,Alm.,21111,2,Villa,90,1931,0 %
+Egevænget 56 6051 Almind,56,2225000.0,28-04-2008,Alm.,15559,5,Villa,143,1996,-1 %
+Stagebjergparken 134 6051 Almind,134,2305000.0,21-04-2008,Alm.,18293,4,Villa,126,2004,-2 %
+Stagebjerg Alle 37 6051 Almind,37,785000.0,01-04-2008,Alm.,5000,5,Villa,157,2008,0 %
+Møsvråvej 90 6051 Almind,90,13629160.0,01-04-2008,Alm.,78781,10,Stuehus,173,1890,
+Stagebjerg Alle 12 6051 Almind,12,825000.0,01-04-2008,Alm.,4558,6,Villa,181,2010,
+Egevej 2 6051 Almind,2,1150000.0,30-03-2008,Alm.,0,5,Villa,129,1966,
+Stagebjerg Alle 21 6051 Almind,21,800000.0,19-03-2008,Alm.,6666,4,Villa,120,2011,
+Dons Byvej 55 6051 Almind,55,2500000.0,06-03-2008,Alm.,10638,6,Villa,235,1900,
+Vestergade 18 6051 Almind,18,2150000.0,28-02-2008,Alm.,15248,5,Villa,141,1848,-2 %
+Egeparken 20 6051 Almind,20,1425000.0,28-02-2008,Alm.,12500,4,Villa,114,1974,-3 %
+Egevænget 5 6051 Almind,5,2040000.0,27-02-2008,Alm.,12750,6,Villa,160,1985,-3 %
+Stagebjerg Alle 6 6051 Almind,6,815000.0,25-02-2008,Alm.,5000,5,Villa,163,2010,0 %
+Stagebjerg Alle 45 6051 Almind,45,840000.0,24-01-2008,Alm.,3925,6,Villa,214,2008,
+Stagebjergparken 154 6051 Almind,154,2540000.0,14-01-2008,Alm.,18540,5,Villa,137,2004,-5 %
+Dons Byvej 57 6051 Almind,57,975000.0,28-12-2007,Alm.,13000,2,Villa,75,1999,
+Persillevej 2A 6051 Almind,0,1288000.0,17-12-2007,Alm.,10644,4,Villa,121,1912,0 %
+Egevænget 14 6051 Almind,14,1725000.0,05-12-2007,Alm.,14375,4,Villa,120,1985,0 %
+Stagebjergparken 156 6051 Almind,156,2875000.0,23-11-2007,Alm.,17857,5,Villa,161,2004,-4 %
+Toftevej 45 6051 Almind,45,645000.0,22-10-2007,Fam.,4640,4,Villa,139,1969,
+Persillevej 8 6051 Almind,8,90609.0,22-10-2007,Alm.,676,6,Stuehus,134,1927,
+Stagebjerg Alle 10 6051 Almind,10,815000.0,17-10-2007,Alm.,5093,5,Villa,160,2008,
+Gl. Landevej 10 6051 Almind,10,1525000.0,17-10-2007,Alm.,0,7,Villa,221,1939,-4 %
+Stagebjerg Alle 8 6051 Almind,8,815000.0,17-10-2007,Alm.,5292,5,Villa,154,2009,
+Egevænget 20 6051 Almind,20,1380000.0,09-10-2007,Alm.,12545,4,Villa,110,1981,-8 %
+Egevænget 67 6051 Almind,67,2485000.0,19-09-2007,Alm.,15929,5,Villa,156,1998,
+Lindevej 7 6051 Almind,7,975000.0,07-08-2007,Fam.,6290,6,Villa,155,1965,
+Egevej 12 6051 Almind,12,1750000.0,26-07-2007,Alm.,10000,6,Villa,175,1970,-8 %
+Persillevej 4 6051 Almind,4,850000.0,13-07-2007,Alm.,9139,3,Villa,93,1961,0 %
+Fyrrelunden 1 6051 Almind,1,1235000.0,25-06-2007,Alm.,9880,4,Rækkehus,125,1974,
+Vestergade 45 6051 Almind,45,3000000.0,14-06-2007,Alm.,8426,11,Stuehus,356,1908,
+Vestergade 21 6051 Almind,21,1800000.0,11-06-2007,Alm.,13432,4,Villa,134,1993,
+Møsvråvej 12 6051 Almind,12,100000.0,11-06-2007,Alm.,833,6,Stuehus,120,1904,
+Stagebjergparken 33 6051 Almind,33,3150000.0,05-05-2007,Alm.,0,8,Villa,212,2004,
+Egeparken 53 6051 Almind,53,1770000.0,03-05-2007,Alm.,14160,5,Villa,125,1976,
+Stagebjergparken 4 6051 Almind,4,2345000.0,30-04-2007,Alm.,16061,5,Villa,146,2001,0 %
+Stagebjergparken 104 6051 Almind,104,2675000.0,30-04-2007,Alm.,19244,4,Villa,139,2005,
+Egevænget 71 6051 Almind,71,3145000.0,09-04-2007,Alm.,16908,5,Villa,186,1997,
+Stagebjergparken 50 6051 Almind,50,3456000.0,04-04-2007,Alm.,13606,5,Villa,254,2004,-1 %
+Stagebjergparken 23 6051 Almind,23,2150000.0,29-03-2007,Alm.,17063,4,Villa,126,2003,
+Stagebjergparken 47 6051 Almind,47,2950000.0,18-03-2007,Alm.,17455,5,Villa,169,2004,
+Fyrrelunden 13 6051 Almind,13,900000.0,05-01-2007,Alm.,10714,3,Rækkehus,84,1974,-5 %
+Stagebjergparken 37 6051 Almind,37,2975000.0,22-12-2006,Alm.,16807,6,Villa,177,2002,
+Hedevej 45 6051 Almind,45,8175000.0,19-12-2006,Fam.,36824,9,Stuehus,222,1898,
+Stagebjergparken 98 6051 Almind,98,2550000.0,11-12-2006,Alm.,15000,6,Villa,170,2005,
+Egevænget 49 6051 Almind,49,1650000.0,09-11-2006,Fam.,10576,6,Villa,156,1996,
+Stagebjergparken 30 6051 Almind,30,2525000.0,31-10-2006,Alm.,17413,5,Villa,145,2003,
+Vestergade 181 6051 Almind,181,1395000.0,23-09-2006,Alm.,9362,4,Villa,149,1949,
+Egeparken 37 6051 Almind,37,850000.0,20-09-2006,Fam.,6692,5,Villa,127,1975,
+Dons Byvej 46 6051 Almind,46,1200000.0,11-09-2006,Alm.,10169,4,Villa,118,1964,
+Vestergaardsvej 39 6051 Almind,39,1650000.0,06-09-2006,Alm.,13414,5,Villa,123,1971,
+Vestergaardsvej 45 6051 Almind,45,1855000.0,05-09-2006,Alm.,12284,5,Villa,151,1979,
+Fyrrelunden 23 6051 Almind,23,1282500.0,24-08-2006,Alm.,10260,4,Rækkehus,125,1974,
+Stagebjergparken 144 6051 Almind,144,2545000.0,05-08-2006,Alm.,18178,4,Villa,140,2005,
+Landerupvej 15 6051 Almind,15,1245000.0,17-07-2006,Alm.,9087,5,Villa,137,1898,
+Fyrrelunden 18 6051 Almind,18,945000.0,12-07-2006,Alm.,11250,3,Rækkehus,84,1974,
+Stagebjergparken 19 6051 Almind,19,2250000.0,23-06-2006,Alm.,15845,5,Villa,142,2001,
+Fyrrelunden 17 6051 Almind,17,900000.0,20-06-2006,Alm.,10714,3,Rækkehus,84,1974,
+Gl. Landevej 3 6051 Almind,3,1150000.0,14-06-2006,Alm.,8984,3,Villa,128,1979,
+Sysselbjergvej 27 6051 Almind,27,2300000.0,12-06-2006,Alm.,9200,6,Stuehus,250,2010,
+Stagebjergparken 1 6051 Almind,1,580000.0,08-06-2006,Alm.,3602,4,Villa,161,2007,
+Toftevej 23 6051 Almind,23,162500.0,23-05-2006,Alm.,984,5,Villa,165,1969,
+Vestergaardsvej 1 6051 Almind,1,1495000.0,04-05-2006,Alm.,8037,6,Villa,186,2011,
+Toftevej 73 6051 Almind,73,980000.0,01-05-2006,Alm.,4900,6,Villa,200,1890,
+Egevej 5 6051 Almind,5,965000.0,27-04-2006,Andet,9103,4,Villa,106,1967,
+Landerupvej 27 6051 Almind,27,1240000.0,19-04-2006,Alm.,7898,6,Villa,157,1900,
+Stagebjergparken 118 6051 Almind,118,2595000.0,07-04-2006,Alm.,17416,5,Villa,149,2005,
+Fyrrelunden 9 6051 Almind,9,1173000.0,29-03-2006,Alm.,9384,4,Rækkehus,125,1974,
+Egevænget 59 6051 Almind,59,1850000.0,18-03-2006,Alm.,13909,5,Villa,133,1996,
+Hovedvejen 2 6051 Almind,2,2795000.0,09-03-2006,Alm.,19545,5,Stuehus,143,1901,
+Egevænget 28 6051 Almind,28,747499.0,21-02-2006,Andet,5377,4,Villa,139,1986,
+Egevænget 66 6051 Almind,66,1855000.0,13-02-2006,Alm.,15458,3,Villa,120,1997,
+Møsvråvej 45 6051 Almind,45,103267.0,27-01-2006,Alm.,580,7,Stuehus,178,1856,
+Stagebjergparken 11 6051 Almind,11,2485000.0,26-01-2006,Alm.,17377,5,Villa,143,2004,
+Vestergaardsvej 17 6051 Almind,17,1395000.0,04-01-2006,Alm.,10730,4,Villa,130,1973,
+Vestergaardsvej 26 6051 Almind,26,1237500.0,28-12-2005,Alm.,0,4,Villa,153,1979,
+Sysselhaven 20 6051 Almind,20,1405000.0,21-12-2005,Alm.,10407,5,Villa,135,1977,
+Egevej 16 6051 Almind,16,1750000.0,09-11-2005,Alm.,10174,7,Villa,172,1968,
+Egevænget 50 6051 Almind,50,1751800.0,26-09-2005,Alm.,12081,5,Villa,145,1997,
+Egeparken 17 6051 Almind,17,1440000.0,23-09-2005,Alm.,10992,4,Villa,131,1975,
+Sysselhaven 11 6051 Almind,11,1350000.0,19-09-2005,Alm.,8653,7,Villa,156,1977,
+Møsvråvej 17 6051 Almind,17,1465000.0,07-09-2005,Alm.,9701,7,Villa,151,1950,
+Sysselbjergvej 18 6051 Almind,18,1050000.0,27-08-2005,Alm.,8400,4,Villa,125,1970,
+Fyrrelunden 8 6051 Almind,8,540471.0,26-07-2005,Alm.,4323,4,Rækkehus,125,1974,
+Egevænget 11 6051 Almind,11,1095000.0,26-06-2005,Alm.,11173,4,Villa,98,1981,
+Almind Østergade 14 6051 Almind,14,75000.0,17-06-2005,Alm.,781,4,Villa,96,1931,
+Egeparken 23 6051 Almind,23,2125000.0,20-05-2005,Alm.,6558,6,Villa,324,1977,
+Møsvråvej 7 6051 Almind,7,860000.0,15-04-2005,Alm.,9148,4,Villa,94,1955,
+Vestergade 126 6051 Almind,126,1510000.0,08-03-2005,Andet,8206,10,Villa,184,1935,
+Fyrrelunden 3 6051 Almind,3,710000.0,07-02-2005,Alm.,8452,3,Rækkehus,84,1974,
+Almind Østergade 13 6051 Almind,13,655000.0,10-01-2005,Alm.,5695,4,Villa,115,1964,
+Stagebjergparken 17 6051 Almind,17,360000.0,28-12-2004,Alm.,1730,6,Villa,208,2005,
+Stagebjergparken 103 6051 Almind,103,1945000.0,20-12-2004,Alm.,11114,4,Villa,175,2003,
+Egevej 11 6051 Almind,11,1425000.0,02-12-2004,Alm.,6390,5,Villa,223,1969,
+Egeparken 7 6051 Almind,7,1635000.0,30-11-2004,Alm.,8515,5,Villa,192,1972,
+Egevænget 37 6051 Almind,37,1500000.0,14-11-2004,Alm.,9933,5,Villa,151,1988,
+Stagebjergparken 110 6051 Almind,110,490000.0,01-11-2004,Alm.,2737,5,Villa,179,2005,
+Sysselbjergvej 64 6051 Almind,64,591889.0,27-10-2004,Alm.,0,5,Villa,107,1928,
+Rødmosevej 30 6051 Almind,30,1700000.0,13-08-2004,Alm.,8500,7,Stuehus,200,1915,
+Egeparken 19 6051 Almind,19,519288.0,27-07-2004,Alm.,3485,5,Villa,149,1974,
+Stagebjergparken 59 6051 Almind,59,425000.0,22-07-2004,Alm.,2442,5,Villa,174,2005,
+Stagebjergparken 102 6051 Almind,102,390000.0,19-07-2004,Alm.,1797,5,Villa,217,2005,
+Stagebjergparken 83 6051 Almind,83,370000.0,09-07-2004,Alm.,2483,6,Villa,149,2005,
+Stagebjergparken 55 6051 Almind,55,390000.0,01-07-2004,Alm.,2635,5,Villa,148,2005,
+Stagebjergparken 61 6051 Almind,61,390000.0,01-07-2004,Alm.,2203,5,Villa,177,2005,
+Stagebjergparken 49 6051 Almind,49,390000.0,30-06-2004,Alm.,2785,4,Villa,140,2005,
+Stagebjergparken 89 6051 Almind,89,370000.0,30-06-2004,Alm.,2781,5,Villa,133,2005,
+Stagebjergparken 130 6051 Almind,130,370000.0,30-06-2004,Alm.,1978,6,Villa,187,2007,
+Stagebjergparken 126 6051 Almind,126,370000.0,28-06-2004,Alm.,2215,5,Villa,167,2005,
+Stagebjergparken 112 6051 Almind,112,390000.0,24-06-2004,Alm.,2166,5,Villa,180,2005,
+Stagebjergparken 65 6051 Almind,65,390000.0,17-06-2004,Alm.,2600,5,Villa,150,2005,
+Stagebjergparken 120 6051 Almind,120,390000.0,14-06-2004,Alm.,2484,6,Villa,157,2004,
+Stagebjergparken 116 6051 Almind,116,390000.0,09-06-2004,Alm.,2392,6,Villa,163,2004,
+Stagebjergparken 148 6051 Almind,148,370000.0,07-06-2004,Alm.,2700,5,Villa,137,2004,
+Vestergaardsvej 10 6051 Almind,10,1385000.0,02-06-2004,Alm.,9421,4,Villa,147,1973,
+Stagebjergparken 75 6051 Almind,75,370000.0,25-05-2004,Alm.,2114,6,Villa,175,2005,
+Stagebjergparken 79 6051 Almind,79,370000.0,25-05-2004,Alm.,2569,5,Villa,144,2004,
+Stagebjergparken 108 6051 Almind,108,390000.0,24-05-2004,Alm.,1830,5,Villa,213,2005,
+Vestergaardsvej 31 6051 Almind,31,1085000.0,17-05-2004,Alm.,8680,4,Villa,125,1973,
+Stagebjergparken 93 6051 Almind,93,370000.0,17-05-2004,Alm.,1947,6,Villa,190,2005,
+Stagebjergparken 136 6051 Almind,136,370000.0,13-05-2004,Alm.,2569,5,Villa,144,2005,
+Stagebjergparken 146 6051 Almind,146,370000.0,03-05-2004,Alm.,2681,4,Villa,138,2005,
+Sysselhaven 14 6051 Almind,14,1395000.0,23-04-2004,Alm.,7881,6,Villa,177,1976,
+Fyrrelunden 15 6051 Almind,15,950000.0,16-04-2004,Alm.,7600,4,Rækkehus,125,1974,
+Stagebjergparken 22 6051 Almind,22,1348000.0,21-03-2004,Alm.,12035,4,Villa,112,2004,
+Stagebjergparken 77 6051 Almind,77,370000.0,19-03-2004,Alm.,2517,5,Villa,147,2005,
+Stagebjergparken 106 6051 Almind,106,390000.0,15-03-2004,Alm.,1940,7,Villa,201,2006,
+Toftevej 3 6051 Almind,3,1295000.0,09-03-2004,Alm.,7000,6,Villa,185,1964,
+Stagebjergparken 73 6051 Almind,73,370000.0,13-02-2004,Alm.,2312,5,Villa,160,2006,
+Hedevej 70 6051 Almind,70,1100000.0,06-02-2004,Alm.,6214,5,Villa,177,1913,
+Stagebjergparken 81 6051 Almind,81,370000.0,15-01-2004,Alm.,2534,5,Villa,146,2004,
+Stagebjergparken 63 6051 Almind,63,390000.0,03-12-2003,Alm.,2254,5,Villa,173,2005,
+Stagebjergparken 150 6051 Almind,150,370000.0,21-10-2003,Alm.,2418,5,Villa,153,2004,
+Stagebjergparken 26 6051 Almind,26,330000.0,24-09-2003,Alm.,2323,5,Villa,142,2004,
+Stagebjergparken 28 6051 Almind,28,330000.0,24-09-2003,Alm.,2156,5,Villa,153,2004,
+Stagebjergparken 32 6051 Almind,32,330000.0,28-08-2003,Alm.,2357,4,Villa,140,2003,
+Møsvråvej 88 6051 Almind,88,2700000.0,06-07-2003,Alm.,10975,9,Villa,246,1878,
+Stagebjergparken 34 6051 Almind,34,330000.0,29-06-2003,Alm.,2156,5,Villa,153,2004,
+Egeparken 45 6051 Almind,45,1250000.0,25-06-2003,Alm.,7485,5,Villa,167,1973,
+Gl. Landevej 7 6051 Almind,7,950000.0,13-06-2003,Alm.,7539,5,Villa,126,1964,
+Egeparken 15 6051 Almind,15,1020000.0,12-06-2003,Alm.,6986,3,Villa,146,1973,
+Stagebjergparken 42 6051 Almind,42,330000.0,20-05-2003,Alm.,2426,5,Villa,136,2004,
+Nr. Stenderupvej 86 6051 Almind,86,1800000.0,02-05-2003,Alm.,8571,5,Villa,210,1935,
+Stagebjergparken 99 6051 Almind,99,330000.0,25-04-2003,Alm.,2142,5,Villa,154,2003,
+Sysselbjergvej 38 6051 Almind,38,1230000.0,13-04-2003,Alm.,6150,6,Villa,200,1912,
+Vestergaardsvej 13 6051 Almind,13,1550000.0,12-04-2003,Alm.,7451,7,Villa,208,1973,
+Stagebjergparken 3 6051 Almind,3,275000.0,06-04-2003,Alm.,1729,5,Villa,159,2004,
+Toftevej 51 6051 Almind,51,1179722.0,25-03-2003,Alm.,8080,6,Villa,146,1971,
+Stagebjergparken 38 6051 Almind,38,330000.0,21-03-2003,Alm.,2214,5,Villa,149,2003,
+Fyrrelunden 22 6051 Almind,22,760000.0,20-03-2003,Alm.,6080,4,Rækkehus,125,1974,
+Stagebjergparken 41 6051 Almind,41,330000.0,14-03-2003,Alm.,2291,5,Villa,144,2003,
+Stagebjergparken 40 6051 Almind,40,330000.0,03-03-2003,Alm.,2340,5,Villa,141,2003,
+Stagebjergparken 87 6051 Almind,87,330000.0,07-02-2003,Alm.,2426,4,Villa,136,2003,
+Toftevej 1 6051 Almind,1,820240.0,04-02-2003,Alm.,8915,3,Villa,92,1961,
+Egevænget 73 6051 Almind,73,1960831.0,31-01-2003,Alm.,11269,6,Villa,174,1997,
+Søvej 23 6051 Almind,23,265000.0,22-01-2003,Alm.,4416,3,Sommerhus,60,1960,
+Sysselbjergvej 29 6051 Almind,29,2250000.0,10-01-2003,Alm.,14062,4,Stuehus,160,1920,
+Stagebjergparken 44 6051 Almind,44,330000.0,07-01-2003,Alm.,1952,5,Villa,169,2004,
+Toftevej 17 6051 Almind,17,1040000.0,18-12-2002,Alm.,7591,5,Villa,137,1971,
+Sysselhaven 21 6051 Almind,21,900000.0,12-11-2002,Alm.,7500,4,Villa,120,1977,
+Stagebjergparken 94 6051 Almind,94,330000.0,11-11-2002,Alm.,1929,5,Villa,171,2003,
+Vestergaardsvej 47 6051 Almind,47,1045000.0,05-11-2002,Alm.,8360,4,Villa,125,1979,
+Lindevej 8 6051 Almind,8,825000.0,01-11-2002,Alm.,7432,4,Villa,111,1967,
+Vestergaardsvej 41 6051 Almind,41,885000.0,27-10-2002,Alm.,7023,4,Villa,126,1979,
+Almind Hule 3 6051 Almind,3,798000.0,23-10-2002,Alm.,6234,4,Villa,128,1900,
+Vestergaardsvej 7 6051 Almind,7,954936.0,14-10-2002,Alm.,7179,4,Villa,133,1972,
+Vestergade 130 6051 Almind,130,1475567.0,23-09-2002,Alm.,5269,7,Villa,280,1877,
+Lindevej 2 6051 Almind,2,935000.0,29-08-2002,Alm.,7857,4,Villa,119,1985,
+Fyrrelunden 4 6051 Almind,4,725000.0,21-08-2002,Alm.,5800,4,Rækkehus,125,1974,
+Sysselhaven 2 6051 Almind,2,1390000.0,14-08-2002,Alm.,6096,6,Villa,228,1978,
+Vestergade 24 6051 Almind,24,608000.0,05-07-2002,Alm.,3514,6,Villa,173,2008,
+Egevænget 64 6051 Almind,64,800000.0,26-06-2002,Alm.,4968,5,Villa,161,1997,
+Egeparken 6 6051 Almind,6,970000.0,01-06-2002,Alm.,6736,5,Villa,144,1973,
+Stagebjergparken 27 6051 Almind,27,330000.0,28-05-2002,Alm.,1864,7,Villa,177,2002,
+Stagebjergparken 97 6051 Almind,97,330000.0,22-05-2002,Alm.,2142,5,Villa,154,2002,
+Nr. Stenderupvej 94 6051 Almind,94,498701.0,01-05-2002,Fam.,3136,4,Villa,159,1935,
+Dons Byvej 53 6051 Almind,53,740000.0,15-04-2002,Fam.,0,5,Villa,208,1907,
+Møsvråvej 50 6051 Almind,50,475000.0,15-03-2002,Alm.,3253,5,Villa,146,1900,
+Stagebjergparken 7 6051 Almind,7,275000.0,11-03-2002,Alm.,1553,6,Villa,177,2002,
+Sysselbjergvej 16 6051 Almind,16,850000.0,15-02-2002,Alm.,6910,4,Villa,123,1968,
+Fyrrelunden 34 6051 Almind,34,727225.0,09-02-2002,Alm.,5817,4,Rækkehus,125,1974,
+Stagebjergparken 152 6051 Almind,152,330000.0,03-01-2002,Alm.,1601,6,Villa,206,2003,
+Stagebjergparken 43 6051 Almind,43,330000.0,14-12-2001,Alm.,1987,5,Villa,166,2004,
+Dons Byvej 32 6051 Almind,32,866691.0,10-12-2001,Fam.,3993,8,Villa,217,1932,
+Stagebjergparken 140 6051 Almind,140,330000.0,16-10-2001,Alm.,0,6,Villa,171,2002,
+Stagebjergparken 20 6051 Almind,20,298000.0,22-08-2001,Alm.,2013,5,Villa,148,2002,
+Hedevej 94 6051 Almind,94,1050000.0,17-08-2001,Alm.,6363,6,Stuehus,165,1828,
+Stagebjergparken 18 6051 Almind,18,298000.0,09-08-2001,Alm.,2191,5,Villa,136,2001,
+Stagebjergparken 6 6051 Almind,6,320000.0,05-07-2001,Alm.,2335,5,Villa,137,2002,
+Landerupvej 10 6051 Almind,10,658121.0,26-06-2001,Alm.,7929,3,Villa,83,1940,
+Stagebjergparken 15 6051 Almind,15,298000.0,12-06-2001,Alm.,2525,4,Villa,118,2002,
+Vestergaardsvej 18 6051 Almind,18,775000.0,05-06-2001,Alm.,8244,4,Villa,94,1980,
+Stagebjergparken 36 6051 Almind,36,330000.0,03-05-2001,Alm.,2012,5,Villa,164,2002,
+Egeparken 24 6051 Almind,24,860000.0,01-05-2001,Alm.,7166,4,Villa,120,1974,
+Stagebjergparken 35 6051 Almind,35,330000.0,11-04-2001,Alm.,2012,5,Villa,164,2003,
+Stagebjergparken 10 6051 Almind,10,298000.0,30-03-2001,Alm.,2055,5,Villa,145,2001,
+Stagebjergparken 13 6051 Almind,13,298000.0,14-03-2001,Alm.,1973,5,Villa,151,2001,
+Møsvråvej 21 6051 Almind,21,1869000.0,07-03-2001,Alm.,9072,5,Stuehus,206,2001,
+Egevænget 42 6051 Almind,42,1425000.0,24-02-2001,Alm.,8142,6,Villa,175,1996,
+Almind Østergade 16 6051 Almind,16,835000.0,03-02-2001,Alm.,6185,5,Villa,135,1930,
+Stagebjergparken 16 6051 Almind,16,298000.0,31-01-2001,Alm.,2292,4,Villa,130,2001,
+Egeparken 38 6051 Almind,38,1541461.0,09-01-2001,Alm.,8659,4,Villa,178,1977,
+Fyrrelunden 2 6051 Almind,2,356440.0,16-10-2000,Andet,1738,6,Villa,205,1964,
+Stagebjergparken 14 6051 Almind,14,298000.0,27-09-2000,Alm.,0,6,Villa,162,2001,
+Dons Byvej 30 6051 Almind,30,890000.0,13-09-2000,Alm.,4101,7,Villa,217,1900,
+Almind Østergade 4 6051 Almind,4,148000.0,01-08-2000,Alm.,967,5,Villa,153,2001,
+Egevænget 47 6051 Almind,47,1530000.0,31-07-2000,Alm.,9870,5,Villa,155,1997,
+Egeparken 2 6051 Almind,2,970000.0,31-07-2000,Alm.,7822,4,Villa,124,1972,
+Gl. Landevej 1 6051 Almind,1,1166500.0,15-06-2000,Alm.,6943,6,Villa,168,1935,
+Almind Kirkesti 4 6051 Almind,4,1018980.0,30-03-2000,Alm.,0,7,Villa,242,1850,
+Dons Byvej 34 6051 Almind,34,425000.0,25-02-2000,Andet,2833,4,Villa,150,1912,
+Egevænget 25 6051 Almind,25,1190487.0,24-02-2000,Alm.,9157,5,Villa,130,1986,
+Vestergade 187 6051 Almind,187,759000.0,29-01-2000,Alm.,4362,5,Villa,174,1800,
+Vestergaardsvej 19 6051 Almind,19,885000.0,28-01-2000,Alm.,4758,3,Villa,186,1974,
+Sysselbjergvej 13 6051 Almind,13,925000.0,04-01-2000,Alm.,4534,4,Villa,204,1947,
+Egevænget 31 6051 Almind,31,1313000.0,30-12-1999,Alm.,8753,5,Villa,150,1987,
+Hedevej 129 6051 Almind,129,1325000.0,07-12-1999,Fam.,5000,5,Villa,265,1900,
+Sysselbjergvej 9 6051 Almind,9,710000.0,26-11-1999,Fam.,4797,3,Villa,148,1916,
+Egevej 18 6051 Almind,18,1375000.0,15-11-1999,Alm.,5522,11,Villa,249,1967,
+Egevej 8 6051 Almind,8,767000.0,06-05-1999,Alm.,0,5,Villa,130,1967,
+Egevej 4 6051 Almind,4,663935.0,29-04-1999,Alm.,6639,4,Villa,100,1965,
+Almind Kirkesti 7 6051 Almind,7,819681.0,18-02-1999,Alm.,4579,5,Villa,179,1910,
+Nr. Stenderupvej 112 6051 Almind,112,1240000.0,01-02-1999,Alm.,8920,5,Stuehus,139,1948,
+Egevænget 54 6051 Almind,54,1150000.0,27-01-1999,Andet,8041,5,Villa,143,1996,
+Almind Kirkesti 3 6051 Almind,3,929737.0,05-12-1998,Alm.,5437,4,Villa,171,1898,
+Almind Østergade 20 6051 Almind,20,1043918.0,20-10-1998,Alm.,4260,6,Villa,245,1934,
+Sysselbjergvej 15 6051 Almind,15,1267000.0,04-10-1998,Alm.,6961,6,Villa,182,1974,
+Fyrrelunden 28 6051 Almind,28,599688.0,11-09-1998,Alm.,7139,3,Rækkehus,84,1974,
+Vestergade 152 6051 Almind,152,1850000.0,08-09-1998,Alm.,13909,4,Villa,133,1850,
+Møsvråvej 86 6051 Almind,86,362000.0,18-06-1998,Alm.,0,5,Villa,176,1907,
+Møsvråvej 48 6051 Almind,48,472010.0,14-04-1998,Alm.,4866,4,Villa,97,1968,
+Toftevej 37 6051 Almind,37,1100000.0,19-03-1998,Alm.,6395,5,Villa,172,1972,
+Egevænget 57 6051 Almind,57,118400.0,03-03-1998,Alm.,877,4,Villa,135,1998,
+Egevænget 63 6051 Almind,63,1437000.0,27-02-1998,Alm.,0,6,Villa,166,1998,
+Egevænget 52 6051 Almind,52,1306000.0,15-02-1998,Alm.,9328,5,Villa,140,1996,
+Stagebjergparken 132 6051 Almind,132,370000.0,10-02-1998,Alm.,2700,5,Villa,137,2005,
+Egevænget 30 6051 Almind,30,937410.0,22-12-1997,Alm.,0,6,Villa,176,1986,
+Egeparken 11 6051 Almind,11,1082530.0,03-11-1997,Alm.,7169,5,Villa,151,1973,
+Hedevej 134 6051 Almind,134,540000.0,03-10-1997,Alm.,2571,8,Villa,210,1998,
+Almind Østergade 6 6051 Almind,6,433725.0,15-09-1997,Alm.,3285,6,Villa,132,1929,
+Møsvråvej 22 6051 Almind,22,668060.0,29-08-1997,Alm.,0,6,Villa,210,1930,
+Vestergaardsvej 33 6051 Almind,33,964000.0,21-08-1997,Alm.,5878,4,Villa,164,1973,
+Egevænget 60 6051 Almind,60,215000.0,31-07-1997,Alm.,1378,5,Villa,156,1997,
+Egevej 15 6051 Almind,15,1035000.0,30-06-1997,Alm.,5750,6,Villa,180,1968,
+Egevænget 62 6051 Almind,62,215000.0,20-06-1997,Alm.,1168,5,Villa,184,1997,
+Lindevej 5 6051 Almind,5,799000.0,17-06-1997,Alm.,0,5,Villa,181,1965,
+Vestergaardsvej 9 6051 Almind,9,739000.0,11-06-1997,Alm.,5241,4,Villa,141,1973,
+Egevænget 58 6051 Almind,58,215000.0,29-05-1997,Alm.,0,5,Villa,166,1998,
+Persillevej 2B 6051 Almind,0,416000.0,28-04-1997,Alm.,3200,5,Villa,130,1930,
+Egevænget 65 6051 Almind,65,215000.0,23-04-1997,Alm.,0,6,Villa,164,1998,
+Dons Tværvej 3 6051 Almind,3,734500.0,14-03-1997,Alm.,6995,4,Villa,105,1907,
+Egevænget 7 6051 Almind,7,1038000.0,10-03-1997,Alm.,7688,5,Villa,135,1984,
+Egevænget 17 6051 Almind,17,745000.0,05-03-1997,Alm.,0,9,Villa,180,1981,
+Egevænget 75 6051 Almind,75,248000.0,10-02-1997,Alm.,0,7,Villa,240,1999,
+Egevænget 46 6051 Almind,46,1018000.0,13-01-1997,Alm.,0,4,Villa,146,1997,
+Egevænget 51 6051 Almind,51,1281000.0,06-11-1996,Alm.,8006,6,Villa,160,1996,
+Møsvråvej 82 6051 Almind,82,1024131.0,28-10-1996,Alm.,4719,7,Villa,217,1860,
+Rødmosevej 20 6051 Almind,20,100000.0,29-09-1996,Alm.,390,8,Stuehus,256,1909,
+Almind Østergade 2 6051 Almind,2,455000.0,18-09-1996,Alm.,0,6,Villa,263,1935,
+Egevænget 70 6051 Almind,70,273000.0,02-09-1996,Alm.,1500,5,Villa,182,1997,
+Møsvråvej 15 6051 Almind,15,285000.0,31-07-1996,Alm.,1500,5,Stuehus,190,1948,
+Almind Østergade 18 6051 Almind,18,585000.0,12-07-1996,Alm.,0,5,Villa,153,1933,
+Vestergaardsvej 21 6051 Almind,21,649000.0,19-06-1996,Fam.,0,7,Villa,160,1972,
+Toftevej 29 6051 Almind,29,721000.0,14-06-1996,Alm.,0,6,Villa,156,1969,
+Vestergade 29 6051 Almind,29,496000.0,18-05-1996,Alm.,0,5,Villa,175,1964,
+Sysselbjergvej 20 6051 Almind,20,525000.0,15-04-1996,Fam.,0,4,Villa,150,1967,
+Sysselhaven 16 6051 Almind,16,789565.0,25-03-1996,Alm.,0,5,Villa,150,1977,
+Vestergaardsvej 8 6051 Almind,8,875000.0,14-03-1996,Alm.,4971,7,Villa,176,1973,
+Vestergade 23 6051 Almind,23,675300.0,08-03-1996,Alm.,4893,4,Villa,138,1941,
+Toftevej 12 6051 Almind,12,430000.0,01-03-1996,Fam.,3644,4,Villa,118,1969,
+Egevænget 40 6051 Almind,40,1230000.0,09-02-1996,Alm.,0,6,Villa,160,1996,
+Egevænget 19 6051 Almind,19,570000.0,12-01-1996,Alm.,5181,4,Villa,110,1981,
+Egevænget 48 6051 Almind,48,117024.0,02-01-1996,Alm.,668,5,Villa,175,1997,
+Vestergaardsvej 35 6051 Almind,35,842000.0,15-12-1995,Alm.,5806,5,Villa,145,1974,
+Almind Stationsvej 2 6051 Almind,2,625000.0,17-11-1995,Alm.,3063,9,Villa,204,1929,
+Sysselhaven 17 6051 Almind,17,790000.0,16-10-1995,Alm.,5808,5,Villa,136,1977,
+Toftevej 61 6051 Almind,61,696408.0,22-09-1995,Alm.,5356,3,Villa,130,1969,
+Egevænget 44 6051 Almind,44,118928.0,28-08-1995,Alm.,825,6,Villa,144,1995,
+Hedevej 157 6051 Almind,157,1430000.0,21-08-1995,Alm.,6033,8,Stuehus,237,1900,
+Fyrrelunden 24 6051 Almind,24,440000.0,27-07-1995,Alm.,5238,3,Rækkehus,84,1974,
+Egevænget 61 6051 Almind,61,120664.0,17-07-1995,Alm.,726,6,Villa,166,1995,
+Egevænget 55 6051 Almind,55,118424.0,27-06-1995,Alm.,811,5,Villa,146,1995,
+Nørresøvej 30 6051 Almind,30,1450000.0,15-06-1995,Alm.,0,7,Stuehus,331,1928,
+Egevænget 45 6051 Almind,45,120216.0,08-06-1995,Alm.,775,6,Villa,155,1995,
+Egevænget 22 6051 Almind,22,113440.0,18-05-1995,Alm.,761,5,Villa,149,1995,
+Bavnevej 11 6051 Almind,11,397400.0,05-04-1995,Alm.,0,5,Villa,212,1930,
+Egeparken 21 6051 Almind,21,395000.0,20-02-1995,Alm.,2801,4,Villa,141,1973,
+Møsvråvej 59 6051 Almind,59,580000.0,03-02-1995,Alm.,0,12,Villa,264,1860,
+Toftevej 5 6051 Almind,5,450000.0,03-02-1995,Alm.,3000,4,Villa,150,1966,
+Almind Hule 10 6051 Almind,10,375000.0,30-01-1995,Alm.,2483,6,Villa,151,1860,
+Vestergaardsvej 23 6051 Almind,23,520000.0,05-10-1994,Fam.,4193,4,Villa,124,1972,
+Søvej 57 6051 Almind,57,125000.0,04-08-1994,Alm.,2976,1,Sommerhus,42,1936,
+Granhøj 6 6051 Almind,6,550000.0,05-07-1994,Alm.,4824,4,Villa,114,1968,
+Vestergaardsvej 24 6051 Almind,24,672600.0,20-06-1994,Alm.,5424,5,Villa,124,1978,
+Egeparken 29 6051 Almind,29,710774.0,14-06-1994,Alm.,0,6,Villa,185,1976,
+Egevej 10 6051 Almind,10,625000.0,19-05-1994,Alm.,0,6,Villa,146,1968,
+Almind Hule 6 6051 Almind,6,1065000.0,29-03-1994,Alm.,6120,7,Villa,174,1945,
+Hedevej 61 6051 Almind,61,110000.0,29-03-1994,Alm.,1341,5,Villa,82,1875,
+Fyrrelunden 11 6051 Almind,11,227724.0,17-03-1994,Alm.,2711,3,Rækkehus,84,1974,
+Egevænget 6 6051 Almind,6,763169.0,07-03-1994,Alm.,5121,5,Villa,149,1981,
+Vestergade 166 6051 Almind,166,766680.0,10-01-1994,Alm.,6666,6,Stuehus,115,1910,
+Sysselbjergvej 11 6051 Almind,11,375220.0,03-11-1993,Alm.,0,5,Villa,157,1933,
+Egeparken 25 6051 Almind,25,650373.0,26-10-1993,Alm.,4712,4,Villa,138,1977,
+Almind Stationsvej 1 6051 Almind,1,590000.0,29-09-1993,Alm.,3687,8,Villa,160,1962,
+Vestergaardsvej 49 6051 Almind,49,635000.0,25-08-1993,Alm.,0,6,Villa,171,1978,
+Møsvråvej 3 6051 Almind,3,525000.0,09-07-1993,Alm.,0,4,Villa,136,1948,
+Dons Byvej 4 6051 Almind,4,385000.0,30-06-1993,Alm.,0,4,Villa,154,1820,
+Egeparken 28 6051 Almind,28,460000.0,01-06-1993,Alm.,3801,4,Villa,121,1974,
+Hedevej 110 6051 Almind,110,596250.0,15-05-1993,Alm.,0,9,Villa,252,1820,
+Toftevej 15 6051 Almind,15,500000.0,15-05-1993,Alm.,0,5,Villa,143,1970,
+Sysselhaven 19 6051 Almind,19,650000.0,21-04-1993,Alm.,4140,5,Villa,157,1977,
+Fyrrelunden 36 6051 Almind,36,194999.0,20-10-1992,Alm.,2321,3,Rækkehus,84,1974,
+Almind Hule 8 6051 Almind,8,390000.0,28-08-1992,Alm.,2031,7,Villa,192,1907,
+Egeparken 61 6051 Almind,61,704000.0,18-07-1992,Alm.,3955,5,Villa,178,1977,
+Vejlevej 481 6051 Almind,481,420000.0,14-07-1992,Alm.,0,5,Villa,211,1890,
+Egeparken 27 6051 Almind,27,506000.0,03-07-1992,Alm.,4080,4,Villa,124,1974,
+Prangervej 16 6051 Almind,16,260000.0,26-06-1992,Alm.,1666,4,Villa,156,1999,
+Toftevej 53 6051 Almind,53,650000.0,25-06-1992,Alm.,3155,6,Villa,206,1970,
+Egeparken 31 6051 Almind,31,650000.0,24-02-1992,Alm.,4248,5,Villa,153,1975,
+Sysselhaven 4 6051 Almind,4,790000.0,25-01-1992,Fam.,0,5,Villa,137,1990,
+Vestergade 3 6051 Almind,3,342000.0,06-01-1992,Alm.,0,2,Fritid,0,1973,

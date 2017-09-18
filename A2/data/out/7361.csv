@@ -1,0 +1,833 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Hjøllundvej 10 7361 Ejstrupholm,10,320000.0,07-04-2017,Alm.,2335,5,Villa,137,1925,
+Smedevænget 9 7361 Ejstrupholm,9,645000.0,29-03-2017,Alm.,5286,3,Villa,122,1946,0 %
+Ahornvej 37 7361 Ejstrupholm,37,2500000.0,03-02-2017,Alm.,13812,5,Villa,181,2009,-4 %
+Nørrevang 11 7361 Ejstrupholm,11,420000.0,15-01-2017,Fam.,7000,2,Villa,60,1958,
+Lindevænget 10 7361 Ejstrupholm,10,775000.0,06-01-2017,Alm.,2818,13,Villa,275,1973,
+Dyringhavevej 5 7361 Ejstrupholm,5,1300000.0,23-12-2016,Alm.,7222,4,Villa,180,1910,-7 %
+Ikastvej 47 7361 Ejstrupholm,47,140000.0,12-12-2016,Alm.,1772,2,Villa,79,1947,
+Bøgevænget 10 7361 Ejstrupholm,10,310000.0,07-12-2016,Alm.,3195,3,Villa,97,1949,1140 %
+Lærkevej 18 7361 Ejstrupholm,18,444700.0,02-12-2016,Auktion,4632,3,Villa,96,1966,-48 %
+Stationsvej 18 7361 Ejstrupholm,18,580000.0,21-11-2016,Alm.,7073,4,Villa,82,1957,-14 %
+Rørbæksøvej 10 7361 Ejstrupholm,10,860000.0,16-11-2016,Alm.,9148,3,Sommerhus,94,2009,
+Holmevej 5 7361 Ejstrupholm,5,900000.0,01-11-2016,Alm.,3896,7,Villa,231,1975,
+Birkevej 98 7361 Ejstrupholm,98,1530000.0,31-10-2016,Alm.,11086,6,Villa,138,2004,-4 %
+Enghavevej 48 7361 Ejstrupholm,48,1200000.0,30-10-2016,Alm.,6593,5,Villa,182,1900,-7 %
+Smedebækvej 29 7361 Ejstrupholm,29,1200000.0,29-10-2016,Alm.,5020,6,Villa,239,1978,0 %
+Givevej 50 7361 Ejstrupholm,50,2200000.0,24-10-2016,Alm.,11282,4,Villa,195,1887,
+Lunden 1 7361 Ejstrupholm,1,2100000.0,21-10-2016,Alm.,13291,6,Villa,158,2005,0 %
+Stationsvej 41 7361 Ejstrupholm,41,1150000.0,21-10-2016,Alm.,9426,5,Villa,122,1930,
+Søndergade 13 7361 Ejstrupholm,13,1000000.0,04-10-2016,Alm.,7462,3,Villa,134,1910,-9 %
+Gyvelvej 16 7361 Ejstrupholm,16,1110000.0,23-09-2016,Alm.,6981,5,Villa,159,1973,-7 %
+Rørbæksøvej 22 7361 Ejstrupholm,22,1125000.0,15-09-2016,Alm.,11138,4,Sommerhus,101,2007,-6 %
+Munkhøjvej 8 7361 Ejstrupholm,8,1050000.0,11-09-2016,Fam.,4708,7,Stuehus,223,1960,
+Gyvelvej 9 7361 Ejstrupholm,9,290000.0,29-08-2016,Alm.,4833,2,Rækkehus,60,1972,
+Søndergade 10 7361 Ejstrupholm,10,335000.0,29-08-2016,Alm.,1861,6,Villa,180,1920,-32 %
+Nørrevang 27 7361 Ejstrupholm,27,1340000.0,18-08-2016,Alm.,14888,3,Villa,90,1955,-4 %
+Hjøllundvej 28 7361 Ejstrupholm,28,1000000.0,15-08-2016,Alm.,5494,7,Villa,182,1953,1 %
+Ahornvej 5 7361 Ejstrupholm,5,7400000.0,07-07-2016,Alm.,154166,2,Rækkehus,48,1967,
+Ahornvej 23 7361 Ejstrupholm,23,775000.0,07-07-2016,Alm.,6798,4,Villa,114,1976,-13 %
+Ved Bækken 7 7361 Ejstrupholm,7,1970000.0,27-06-2016,Alm.,13133,4,Villa,150,2007,-1 %
+Dyringhavevej 3 7361 Ejstrupholm,3,16537500.0,24-06-2016,Alm.,110250,6,Stuehus,150,1918,
+Ikastvej 51 7361 Ejstrupholm,51,120000.0,14-06-2016,Alm.,740,6,Villa,162,1934,-59 %
+Gyvelvej 51 7361 Ejstrupholm,51,1165000.0,07-06-2016,Alm.,6657,6,Villa,175,1974,
+Søndergade 8 7361 Ejstrupholm,8,850000.0,03-06-2016,Alm.,4146,5,Villa,205,1930,
+Brandevej 53 7361 Ejstrupholm,53,356736.0,01-06-2016,Alm.,2050,6,Stuehus,174,1938,
+Lindevænget 7 7361 Ejstrupholm,7,700000.0,30-05-2016,Alm.,4666,4,Villa,150,1971,0 %
+Thyregodvej 63 7361 Ejstrupholm,63,4070000.0,26-05-2016,Alm.,19380,5,Stuehus,210,1910,
+Bøgevej 9 7361 Ejstrupholm,9,775000.0,10-05-2016,Alm.,6054,4,Villa,128,1968,-6 %
+Vestervang 3 7361 Ejstrupholm,3,475000.0,29-04-2016,Alm.,4094,4,Villa,116,1967,-13 %
+Tværvej 4 7361 Ejstrupholm,4,690000.0,29-04-2016,Alm.,5348,3,Villa,129,1948,-7 %
+Hygildvej 3 7361 Ejstrupholm,3,725000.0,19-04-2016,Alm.,7967,4,Stuehus,91,1888,
+Vestergade 57 7361 Ejstrupholm,57,950000.0,18-03-2016,Alm.,8189,4,Villa,116,1986,-5 %
+Stationsvej 17B 7361 Ejstrupholm,0,800000.0,16-03-2016,Alm.,7142,5,Rækkehus,112,1988,-11 %
+Rørbækvej 52D 7361 Ejstrupholm,0,1000000.0,08-03-2016,Alm.,10000,5,Sommerhus,100,2009,-9 %
+Egevej 3 7361 Ejstrupholm,3,765000.0,02-03-2016,Fam.,4903,5,Villa,156,1973,
+Ikastvej 36 7361 Ejstrupholm,36,400000.0,01-03-2016,Andet,3636,5,Villa,110,1937,
+Ahornvej 18 7361 Ejstrupholm,18,563500.0,25-02-2016,Alm.,2762,7,Villa,204,1977,
+Nørrevang 13 7361 Ejstrupholm,13,375000.0,22-02-2016,Alm.,4411,3,Villa,85,1945,-17 %
+Engbækparken 34 7361 Ejstrupholm,34,300000.0,10-02-2016,Alm.,2343,4,Villa,128,2017,
+Jernbanegade 13 7361 Ejstrupholm,13,550000.0,28-01-2016,Alm.,3525,5,Villa,156,1917,-8 %
+Brandevej 39 7361 Ejstrupholm,39,319000.0,13-01-2016,Alm.,2981,4,Villa,107,1932,-9 %
+Ikastvej 67 7361 Ejstrupholm,67,80000.0,09-01-2016,Auktion,761,5,Villa,105,1953,
+Ikastvej 39 7361 Ejstrupholm,39,200000.0,14-12-2015,Fam.,2020,5,Villa,99,1901,
+Fasterholtvej 22 7361 Ejstrupholm,22,1500000.0,11-12-2015,Alm.,11111,5,Villa,135,1970,
+Hygildvej 7 7361 Ejstrupholm,7,960000.0,07-12-2015,Alm.,17142,3,Sommerhus,56,1968,-2 %
+Kirkegade 10 7361 Ejstrupholm,10,700000.0,19-11-2015,Alm.,7526,3,Villa,93,1958,-7 %
+Fasterholtvej 24 7361 Ejstrupholm,24,442000.0,16-11-2015,Fam.,6500,4,Sommerhus,68,1971,
+Lindevænget 25 7361 Ejstrupholm,25,825000.0,30-10-2015,Alm.,7300,4,Villa,113,1978,-8 %
+Møllevejen 4 7361 Ejstrupholm,4,475000.0,01-10-2015,Alm.,6985,4,Villa,68,1959,-4 %
+Storgårdvej 6 7361 Ejstrupholm,6,18051636.0,25-09-2015,Auktion,85149,10,Stuehus,212,1885,
+Vestervang 21 7361 Ejstrupholm,21,550000.0,17-09-2015,Andet,4044,5,Villa,136,1974,
+Møllevejen 8 7361 Ejstrupholm,8,500000.0,15-09-2015,Alm.,5617,3,Villa,89,1964,-15 %
+Søbrinken 4 7361 Ejstrupholm,4,530000.0,04-09-2015,Alm.,5698,3,Villa,93,1963,-11 %
+Birkevej 16 7361 Ejstrupholm,16,1100000.0,27-08-2015,Alm.,7432,5,Villa,148,1991,-8 %
+Hedegårdvej 36 7361 Ejstrupholm,36,1495000.0,21-08-2015,Alm.,25775,3,Sommerhus,58,1983,0 %
+Ahornvej 20 7361 Ejstrupholm,20,875000.0,20-08-2015,Alm.,6034,5,Villa,145,1980,-16 %
+Birkevej 21 7361 Ejstrupholm,21,947500.0,20-08-2015,Fam.,5606,6,Villa,169,1997,
+Ikastvej 6 7361 Ejstrupholm,6,1125000.0,31-07-2015,Fam.,5890,6,Villa,191,1927,
+Birkevej 110 7361 Ejstrupholm,110,987500.0,27-07-2015,Alm.,5143,7,Villa,192,2004,
+Møllevejen 17 7361 Ejstrupholm,17,237500.0,27-07-2015,Alm.,2305,4,Villa,103,1882,
+Enghavevej 49 7361 Ejstrupholm,49,2300000.0,08-07-2015,Alm.,12299,9,Villa,187,1914,
+Ikastvej 81 7361 Ejstrupholm,81,1250000.0,08-07-2015,Alm.,9259,2,Villa,135,1923,
+Lærkevej 14 7361 Ejstrupholm,14,850000.0,03-07-2015,Alm.,7727,3,Villa,110,1964,0 %
+Hedegårdvej 26 7361 Ejstrupholm,26,13700000.0,03-07-2015,Alm.,64319,9,Stuehus,213,1925,
+Krejbjergvej 14 7361 Ejstrupholm,14,750000.0,03-07-2015,Alm.,6696,4,Villa,112,1950,
+Hallundbækvej 7 7361 Ejstrupholm,7,210000.0,22-06-2015,Alm.,1242,6,Villa,169,1905,-65 %
+Krejbjergvej 1 7361 Ejstrupholm,1,100000.0,17-06-2015,Alm.,1136,3,Villa,88,1930,-64 %
+Brandevej 35 7361 Ejstrupholm,35,158020.0,15-06-2015,Alm.,868,12,Stuehus,182,1902,
+Vestervang 5 7361 Ejstrupholm,5,880000.0,08-06-2015,Alm.,4782,6,Villa,184,1970,-12 %
+Jernbanegade 3 7361 Ejstrupholm,3,850000.0,08-06-2015,Fam.,5985,5,Villa,142,1939,
+Ikastvej 64 7361 Ejstrupholm,64,1280000.0,30-05-2015,Alm.,10240,5,Villa,125,1973,-8 %
+Birkevej 23 7361 Ejstrupholm,23,1360000.0,22-05-2015,Alm.,9189,5,Villa,148,1988,-9 %
+Lindevænget 32 7361 Ejstrupholm,32,1250000.0,11-05-2015,Alm.,8169,5,Villa,153,1979,-2 %
+Byvej 9 7361 Ejstrupholm,9,130000.0,27-04-2015,Alm.,2166,3,Villa,60,1945,
+Hjøllundvej 12 7361 Ejstrupholm,12,860000.0,10-04-2015,Alm.,5931,4,Villa,145,1926,
+Elmevænget 2 7361 Ejstrupholm,2,1490000.0,21-02-2015,Alm.,10492,5,Villa,142,2010,0 %
+Bøgevej 11 7361 Ejstrupholm,11,700000.0,31-01-2015,Alm.,7954,4,Villa,88,1968,-17 %
+Ikastvej 5 7361 Ejstrupholm,5,2200000.0,28-01-2015,Alm.,15714,4,Stuehus,140,1980,-25 %
+Grønningen 26 7361 Ejstrupholm,26,550000.0,16-01-2015,Alm.,5612,4,Villa,98,1960,-8 %
+Søbrinken 5 7361 Ejstrupholm,5,453331.0,13-01-2015,Fam.,2060,6,Villa,220,1948,
+Thyregodvej 61 7361 Ejstrupholm,61,5388000.0,12-01-2015,Alm.,36161,4,Stuehus,149,1906,
+Gyvelvej 53 7361 Ejstrupholm,53,636897.0,14-12-2014,Andet,4975,4,Villa,128,1973,
+Jernbanegade 19 7361 Ejstrupholm,19,600000.0,01-12-2014,Alm.,4838,5,Villa,124,1954,-8 %
+Hedegårdvej 5 7361 Ejstrupholm,5,3573505.0,22-11-2014,Alm.,17603,6,Villa,203,2014,
+Smedebækvej 21 7361 Ejstrupholm,21,525000.0,14-11-2014,Alm.,4166,4,Villa,126,1928,-12 %
+Vestbanen 25 7361 Ejstrupholm,25,250000.0,27-10-2014,Alm.,2155,3,Villa,116,2015,
+Enghavevej 12 7361 Ejstrupholm,12,340000.0,13-10-2014,Alm.,3820,3,Rækkehus,89,1968,-14 %
+Stationsvej 17A 7361 Ejstrupholm,0,837500.0,26-09-2014,Alm.,7477,5,Rækkehus,112,1988,-4 %
+Syrenvej 5 7361 Ejstrupholm,5,1100000.0,23-09-2014,Alm.,4867,8,Villa,226,1972,-15 %
+Smedebækvej 36 7361 Ejstrupholm,36,4690000.0,18-09-2014,Alm.,26348,6,Stuehus,178,1951,
+Stationsvej 29 7361 Ejstrupholm,29,1604000.0,17-09-2014,Alm.,8486,6,Villa,189,1917,
+Lunden 4 7361 Ejstrupholm,4,2250000.0,16-09-2014,Alm.,6410,8,Villa,351,2000,
+Birkevej 120 7361 Ejstrupholm,120,1550000.0,16-09-2014,Alm.,9226,6,Villa,168,2000,-9 %
+Stationsvej 25 7361 Ejstrupholm,25,195000.0,15-09-2014,Alm.,2785,3,Villa,70,1943,0 %
+Malmkærvej 11 7361 Ejstrupholm,11,1350000.0,12-09-2014,Alm.,6650,8,Villa,203,1928,-15 %
+Lærkevej 21 7361 Ejstrupholm,21,700000.0,04-09-2014,Alm.,7865,4,Villa,89,1966,
+Ahornvej 60 7361 Ejstrupholm,60,850000.0,04-08-2014,Alm.,6746,4,Villa,126,1986,
+Ahornvej 76 7361 Ejstrupholm,76,870000.0,01-08-2014,Alm.,7909,5,Villa,110,1987,-13 %
+Ahornvej 14 7361 Ejstrupholm,14,750000.0,17-07-2014,Alm.,5952,4,Villa,126,1980,-16 %
+Kirkegade 8 7361 Ejstrupholm,8,825000.0,10-07-2014,Alm.,6297,4,Villa,131,1916,-8 %
+Hedegårdvej 19 7361 Ejstrupholm,19,700000.0,06-07-2014,Alm.,3888,4,Villa,180,1868,
+Vestergade 11 7361 Ejstrupholm,11,596764.0,02-07-2014,Andet,3429,7,Villa,174,1926,-54 %
+Grønningen 32 7361 Ejstrupholm,32,850000.0,30-06-2014,Fam.,6538,4,Villa,130,1967,-8 %
+Ikastvej 50 7361 Ejstrupholm,50,50000.0,23-06-2014,Alm.,393,5,Villa,127,1902,
+Thorlundvej 26 7361 Ejstrupholm,26,2085000.0,04-06-2014,Alm.,17974,4,Stuehus,116,1963,
+Byvej 13 7361 Ejstrupholm,13,141678.0,02-06-2014,Fam.,2361,3,Villa,60,1908,
+Lærkevej 22 7361 Ejstrupholm,22,875000.0,27-05-2014,Alm.,7415,3,Villa,118,1965,
+Grønningen 20 7361 Ejstrupholm,20,470000.0,08-05-2014,Alm.,4519,2,Villa,104,1963,-10 %
+Bakkedraget 10 7361 Ejstrupholm,10,1100000.0,16-04-2014,Alm.,6547,5,Villa,168,1972,
+Engbækparken 20 7361 Ejstrupholm,20,375000.0,10-03-2014,Alm.,2259,5,Villa,166,2014,
+Østergade 38 7361 Ejstrupholm,38,400000.0,08-03-2014,Alm.,3539,5,Villa,113,1950,-36 %
+Enghavevej 47 7361 Ejstrupholm,47,1500000.0,25-02-2014,Fam.,7978,6,Stuehus,188,1912,
+Rørbækvej 21 7361 Ejstrupholm,21,1325000.0,25-02-2014,Alm.,8548,3,Villa,155,1877,-11 %
+Bøgevænget 14 7361 Ejstrupholm,14,600000.0,17-02-2014,Alm.,5825,4,Villa,103,1966,-12 %
+Østergade 36 7361 Ejstrupholm,36,725000.0,07-02-2014,Alm.,4447,5,Villa,163,1931,-9 %
+Kirkegade 6 7361 Ejstrupholm,6,690000.0,05-02-2014,Alm.,6272,4,Villa,110,1963,
+Birkevej 15 7361 Ejstrupholm,15,1350000.0,04-02-2014,Fam.,9642,6,Villa,140,1998,
+Lærkevej 23 7361 Ejstrupholm,23,735000.0,13-01-2014,Alm.,6562,4,Villa,112,1964,-5 %
+Rønslundevej 10 7361 Ejstrupholm,10,833800.0,22-12-2013,Alm.,6514,3,Sommerhus,128,1981,
+Gyvelvej 2 7361 Ejstrupholm,2,1750000.0,19-12-2013,Alm.,11666,6,Villa,150,1987,
+St Nørlundvej 18 7361 Ejstrupholm,18,2190000.0,06-12-2013,Alm.,8295,8,Stuehus,264,2009,-5 %
+Bøgevænget 15 7361 Ejstrupholm,15,450000.0,27-11-2013,Andet,2710,7,Villa,166,1923,
+Byvej 20 7361 Ejstrupholm,20,3200000.0,25-11-2013,Fam.,23529,7,Stuehus,136,1927,
+Vestbanen 37 7361 Ejstrupholm,37,350000.0,22-11-2013,Alm.,1988,5,Villa,176,2014,
+Grønningen 12 7361 Ejstrupholm,12,2150000.0,02-11-2013,Alm.,11748,6,Villa,183,1962,
+Hygildvej 32 7361 Ejstrupholm,32,2150000.0,02-11-2013,Alm.,8269,7,Stuehus,260,1964,0 %
+Søbrinken 24 7361 Ejstrupholm,24,675000.0,31-10-2013,Alm.,15340,1,Sommerhus,44,1926,-15 %
+Hastrup Møllevej 8 7361 Ejstrupholm,8,1500000.0,25-10-2013,Alm.,17045,4,Stuehus,88,1913,-12 %
+Vandværksvej 16 7361 Ejstrupholm,16,700000.0,11-10-2013,Fam.,7777,3,Villa,90,1969,
+Engbækparken 6 7361 Ejstrupholm,6,280800.0,06-10-2013,Alm.,1350,7,Villa,208,2014,
+Ikastvej 53 7361 Ejstrupholm,53,400000.0,03-10-2013,Alm.,2857,6,Villa,140,1966,
+Østergade 54 7361 Ejstrupholm,54,800000.0,25-09-2013,Alm.,8988,3,Rækkehus,89,1984,
+Rørbækvej 52N 7361 Ejstrupholm,0,250000.0,23-09-2013,Alm.,1479,7,Sommerhus,169,2015,
+Krejbjergvej 11 7361 Ejstrupholm,11,3630000.0,13-09-2013,Alm.,30250,3,Stuehus,120,1880,-32 %
+Præstegårdsvej 3 7361 Ejstrupholm,3,700000.0,10-09-2013,Andet,6481,4,Villa,108,1939,
+Kejlstrupvej 14 7361 Ejstrupholm,14,20800000.0,02-09-2013,Alm.,100970,11,Stuehus,206,1951,
+Brandevej 54 7361 Ejstrupholm,54,650000.0,22-08-2013,Alm.,7065,3,Villa,92,1916,
+Ved Bækken 3 7361 Ejstrupholm,3,1850000.0,19-08-2013,Alm.,13909,4,Villa,133,2004,0 %
+Nørretoften 5 7361 Ejstrupholm,5,375000.0,05-08-2013,Alm.,2005,7,Villa,187,2014,
+Østergade 44 7361 Ejstrupholm,44,562762.0,15-07-2013,Andet,4980,2,Villa,113,1965,-37 %
+Åbrinken 1 7361 Ejstrupholm,1,785000.0,08-07-2013,Alm.,5233,5,Villa,150,1974,
+Ikastvej 15 7361 Ejstrupholm,15,150000.0,02-07-2013,Fam.,643,6,Stuehus,233,2015,
+Isenbjergvej 7 7361 Ejstrupholm,7,710000.0,25-06-2013,Andet,4965,4,Villa,143,1920,
+Engbækparken 38 7361 Ejstrupholm,38,240000.0,19-06-2013,Alm.,1132,6,Villa,212,2014,
+Lærkevej 28 7361 Ejstrupholm,28,900000.0,12-06-2013,Fam.,7258,4,Villa,124,1966,
+Bøgevænget 24 7361 Ejstrupholm,24,158400.0,07-06-2013,Alm.,2030,4,Villa,78,1944,
+Østergade 30 7361 Ejstrupholm,30,535000.0,29-05-2013,Alm.,5944,4,Villa,90,1900,
+Jernbanegade 15 7361 Ejstrupholm,15,660000.0,02-05-2013,Alm.,4583,5,Villa,144,1916,-5 %
+Rørbæksøvej 7 7361 Ejstrupholm,7,440000.0,01-05-2013,Alm.,2603,4,Sommerhus,169,2013,
+Vestergade 46 7361 Ejstrupholm,46,935000.0,01-05-2013,Fam.,6493,5,Villa,144,1941,
+Engbækparken 10 7361 Ejstrupholm,10,260000.0,01-05-2013,Alm.,1556,5,Villa,167,2013,
+"Vestergade 21A, 1 7361 Ejstrupholm",1,900000.0,17-04-2013,Alm.,13846,2,Lejlighed,65,1947,
+Østergade 16 7361 Ejstrupholm,16,375000.0,16-04-2013,Alm.,2419,5,Villa,155,1892,
+Løvbjergvej 23 7361 Ejstrupholm,23,1400000.0,12-04-2013,Alm.,5185,9,Villa,270,1972,
+Lærkevej 36 7361 Ejstrupholm,36,875000.0,03-04-2013,Alm.,6481,5,Villa,135,1966,0 %
+Krejbjergvej 16 7361 Ejstrupholm,16,875000.0,27-03-2013,Alm.,6628,5,Villa,132,1950,-5 %
+Brandevej 57 7361 Ejstrupholm,57,1000000.0,22-03-2013,Fam.,5050,6,Stuehus,198,1952,
+Hjøllundvej 23 7361 Ejstrupholm,23,400000.0,21-03-2013,Alm.,3200,5,Villa,125,1969,-68 %
+Thyregodvej 88 7361 Ejstrupholm,88,4300000.0,20-03-2013,Alm.,48863,3,Stuehus,88,1930,
+Birkevej 100 7361 Ejstrupholm,100,1550000.0,20-03-2013,Alm.,12301,5,Villa,126,2003,-13 %
+Birkevænget 10 7361 Ejstrupholm,10,895000.0,06-03-2013,Alm.,6215,5,Villa,144,1973,0 %
+Enghavevej 10 7361 Ejstrupholm,10,1595000.0,27-02-2013,Alm.,10777,5,Villa,148,1967,
+Hygildvej 6 7361 Ejstrupholm,6,2900000.0,26-02-2013,Alm.,19463,5,Stuehus,149,1944,-19 %
+Brandevej 50 7361 Ejstrupholm,50,500000.0,23-02-2013,Alm.,2631,5,Stuehus,190,2002,
+Ahornvej 17 7361 Ejstrupholm,17,683666.0,22-02-2013,Auktion,4354,5,Villa,157,1976,-38 %
+Syrenvej 6 7361 Ejstrupholm,6,597714.0,11-02-2013,Andet,4394,5,Villa,136,1973,
+St Nørlundvej 14 7361 Ejstrupholm,14,1795000.0,08-01-2013,Alm.,14246,4,Stuehus,126,1940,
+Enghavevej 33 7361 Ejstrupholm,33,2200000.0,18-12-2012,Alm.,12790,5,Stuehus,172,1937,-18 %
+Rørbækvej 31 7361 Ejstrupholm,31,225000.0,15-12-2012,Alm.,3515,2,Sommerhus,64,1981,
+Østergade 56 7361 Ejstrupholm,56,280000.0,07-12-2012,Auktion,1806,5,Villa,155,1933,-49 %
+Ahornvej 62 7361 Ejstrupholm,62,1230000.0,07-12-2012,Alm.,9389,5,Villa,131,1984,-5 %
+Stationsvej 43 7361 Ejstrupholm,43,575000.0,12-11-2012,Alm.,5373,3,Villa,107,1958,-28 %
+Jernbanegade 12 7361 Ejstrupholm,12,1950000.0,23-10-2012,Alm.,12187,5,Villa,160,1944,
+Birkevænget 4 7361 Ejstrupholm,4,512500.0,15-10-2012,Alm.,4270,4,Villa,120,1971,-18 %
+Krejbjergvej 8 7361 Ejstrupholm,8,185000.0,12-10-2012,Alm.,2151,3,Villa,86,1950,-47 %
+Lindevænget 34 7361 Ejstrupholm,34,865000.0,09-10-2012,Alm.,8737,3,Villa,99,1978,-3 %
+Brogade 11 7361 Ejstrupholm,11,750000.0,05-10-2012,Auktion,3623,6,Villa,207,1946,
+Engbækparken 22 7361 Ejstrupholm,22,375000.0,02-10-2012,Alm.,2106,6,Villa,178,2013,
+Smedebækvej 16 7361 Ejstrupholm,16,860000.0,01-10-2012,Alm.,4699,6,Villa,183,1922,-4 %
+Fasterholtvej 2 7361 Ejstrupholm,2,1806250.0,18-09-2012,Fam.,6143,10,Villa,294,2013,
+Løvbjergvej 10 7361 Ejstrupholm,10,3200000.0,10-09-2012,Fam.,10774,10,Stuehus,297,1909,
+Rønne Alle 13 7361 Ejstrupholm,13,800000.0,06-09-2012,Alm.,5128,4,Villa,156,1967,-20 %
+Engbækparken 26 7361 Ejstrupholm,26,400000.0,05-09-2012,Alm.,2197,6,Villa,182,2012,
+Gyvelvej 20 7361 Ejstrupholm,20,925000.0,01-08-2012,Alm.,7708,4,Villa,120,1974,
+Engbækparken 4 7361 Ejstrupholm,4,280800.0,29-07-2012,Alm.,1294,6,Villa,217,2014,
+Vestergade 25 7361 Ejstrupholm,25,460000.0,23-07-2012,Alm.,5411,3,Villa,85,1954,
+Vestergade 13 7361 Ejstrupholm,13,450000.0,19-07-2012,Alm.,2432,5,Villa,185,1917,-31 %
+Enghavevej 43 7361 Ejstrupholm,43,510000.0,10-07-2012,Alm.,3445,4,Villa,148,1930,
+Vestergade 14 7361 Ejstrupholm,14,915000.0,06-07-2012,Alm.,6984,4,Rækkehus,131,1900,
+Rørbækvej 44 7361 Ejstrupholm,44,2325000.0,05-07-2012,Alm.,9082,8,Stuehus,256,1917,-7 %
+Hedegårdvej 7 7361 Ejstrupholm,7,1800000.0,05-07-2012,Alm.,0,6,Villa,177,1948,-10 %
+Storgårdvej 5 7361 Ejstrupholm,5,490000.0,15-05-2012,Alm.,2367,6,Villa,207,2013,
+Ahornvej 32 7361 Ejstrupholm,32,1175000.0,30-04-2012,Alm.,9791,6,Villa,120,1986,
+Birkevej 40 7361 Ejstrupholm,40,317500.0,17-04-2012,Alm.,1603,6,Villa,198,2012,
+Møllevejen 9 7361 Ejstrupholm,9,750000.0,13-04-2012,Alm.,11029,2,Villa,68,1958,-6 %
+Brandevej 30 7361 Ejstrupholm,30,1152880.0,03-04-2012,Alm.,4400,7,Stuehus,262,1924,
+Stationsvej 7 7361 Ejstrupholm,7,700000.0,18-03-2012,Alm.,5882,5,Villa,119,1943,
+Thorlundvej 27 7361 Ejstrupholm,27,3500000.0,14-03-2012,Alm.,13779,6,Stuehus,254,1910,
+Bøgevænget 17 7361 Ejstrupholm,17,825000.0,14-03-2012,Alm.,8333,3,Villa,99,1950,-8 %
+Tykskovvej 26 7361 Ejstrupholm,26,15750000.0,11-03-2012,Alm.,88483,9,Villa,178,1898,
+Ikastvej 65 7361 Ejstrupholm,65,405000.0,27-02-2012,Alm.,3461,6,Villa,117,1953,-5 %
+Rønslundevej 4 7361 Ejstrupholm,4,775000.0,23-02-2012,Alm.,7175,4,Villa,108,1910,
+Smedebækvej 20 7361 Ejstrupholm,20,170000.0,08-02-2012,Alm.,1717,4,Villa,99,1962,-43 %
+Søndergade 22 7361 Ejstrupholm,22,562500.0,31-01-2012,Fam.,3493,5,Villa,161,1941,
+Østergade 11 7361 Ejstrupholm,11,780000.0,31-01-2012,Alm.,5131,5,Lejlighed,152,1919,
+Birkevej 14 7361 Ejstrupholm,14,1450000.0,21-12-2011,Alm.,10820,5,Villa,134,1969,-15 %
+Enghavevej 25 7361 Ejstrupholm,25,1200000.0,09-12-2011,Alm.,7692,5,Villa,156,1969,-7 %
+Storgårdvej 9 7361 Ejstrupholm,9,2890000.0,02-12-2011,Alm.,21250,5,Stuehus,136,1910,-6 %
+Vestervang 12 7361 Ejstrupholm,12,600000.0,17-11-2011,Andet,4285,5,Villa,140,1973,
+Fasterholtvej 3 7361 Ejstrupholm,3,100000.0,16-11-2011,Alm.,320,7,Stuehus,312,1919,
+Krejbjergvej 26 7361 Ejstrupholm,26,452900.0,11-11-2011,Alm.,3774,4,Villa,120,1911,
+Rønne Alle 8 7361 Ejstrupholm,8,1165000.0,03-11-2011,Alm.,9173,3,Villa,127,1948,-10 %
+Tykskovvej 13 7361 Ejstrupholm,13,2925000.0,06-10-2011,Alm.,23975,5,Stuehus,122,1937,-10 %
+Hjøllundvej 31A 7361 Ejstrupholm,0,2625000.0,01-10-2011,Alm.,10802,6,Villa,243,1925,-8 %
+Bøgevej 6 7361 Ejstrupholm,6,890000.0,22-09-2011,Alm.,6641,4,Villa,134,1973,
+Hjøllundvej 11 7361 Ejstrupholm,11,650000.0,14-09-2011,Alm.,4676,5,Villa,139,1952,0 %
+Møllebakken 1 7361 Ejstrupholm,1,1500000.0,06-09-2011,Alm.,8823,3,Villa,170,1950,
+Smedebækvej 15 7361 Ejstrupholm,15,325000.0,22-08-2011,Alm.,0,3,Villa,104,1944,
+Lærkevej 15 7361 Ejstrupholm,15,950000.0,22-07-2011,Alm.,10439,3,Villa,91,1966,-10 %
+Smedebækvej 10 7361 Ejstrupholm,10,400000.0,03-07-2011,Alm.,2500,5,Villa,160,1922,
+Gludstedgårdvej 1 7361 Ejstrupholm,1,309349.0,20-06-2011,Alm.,1809,7,Villa,171,2012,
+Lærkevej 16 7361 Ejstrupholm,16,930000.0,11-06-2011,Alm.,6118,6,Villa,152,1967,-22 %
+Hallundbækvej 5 7361 Ejstrupholm,5,1000000.0,04-05-2011,Alm.,6666,5,Stuehus,150,1930,
+Engvej 7 7361 Ejstrupholm,7,1485000.0,01-05-2011,Alm.,10531,6,Villa,141,1938,
+Lærkevej 24 7361 Ejstrupholm,24,1225000.0,18-04-2011,Alm.,8506,4,Villa,144,1965,
+Fasterholtvej 10 7361 Ejstrupholm,10,918052.0,14-03-2011,Alm.,0,8,Stuehus,202,1910,
+Bøgevej 7 7361 Ejstrupholm,7,1500000.0,23-02-2011,Alm.,10714,4,Villa,140,1969,-3 %
+Søndergade 20 7361 Ejstrupholm,20,780000.0,21-02-2011,Alm.,4285,5,Villa,182,1930,-5 %
+Østergade 20 7361 Ejstrupholm,20,1075000.0,31-01-2011,Alm.,7465,6,Villa,144,1900,-10 %
+Fasterholtvej 19 7361 Ejstrupholm,19,2000000.0,21-01-2011,Alm.,11494,5,Stuehus,174,2005,-7 %
+Hedegårdvej 3 7361 Ejstrupholm,3,400000.0,17-01-2011,Fam.,2395,6,Villa,167,1966,-68 %
+Præstegårdsvej 11 7361 Ejstrupholm,11,475000.0,07-01-2011,Auktion,3166,3,Villa,150,1915,
+Rørbæksøvej 54 7361 Ejstrupholm,54,240000.0,29-12-2010,Alm.,2790,3,Sommerhus,86,2012,
+Rønne Alle 12 7361 Ejstrupholm,12,725000.0,23-12-2010,Fam.,4239,9,Villa,171,1950,
+Engbækparken 36 7361 Ejstrupholm,36,379780.0,23-12-2010,Alm.,2548,6,Villa,149,2011,
+Ahornvej 43 7361 Ejstrupholm,43,250000.0,09-12-2010,Alm.,1322,6,Villa,189,2012,
+Løvbjergvej 5 7361 Ejstrupholm,5,428748.0,01-12-2010,Alm.,3572,4,Villa,120,1942,
+Åbrinken 8 7361 Ejstrupholm,8,1050000.0,17-11-2010,Alm.,5250,4,Villa,200,2015,
+Egevej 8 7361 Ejstrupholm,8,1000000.0,08-11-2010,Alm.,6756,5,Villa,148,1970,-13 %
+Søndergade 40 7361 Ejstrupholm,40,850000.0,27-10-2010,Alm.,6967,4,Villa,122,1936,
+Vestbanen 15 7361 Ejstrupholm,15,150000.0,21-10-2010,Alm.,1293,4,Villa,116,2011,
+Ahornvej 48 7361 Ejstrupholm,48,1135000.0,15-10-2010,Alm.,8867,4,Villa,128,1986,-3 %
+Givevej 44 7361 Ejstrupholm,44,2900000.0,08-10-2010,Alm.,15934,6,Villa,182,1884,
+Vestergade 15 7361 Ejstrupholm,15,675000.0,15-09-2010,Alm.,4354,4,Villa,155,1939,-15 %
+Vandværksvej 13 7361 Ejstrupholm,13,525000.0,07-09-2010,Alm.,6562,4,Villa,80,1958,-12 %
+Vestbanen 23 7361 Ejstrupholm,23,200000.0,20-08-2010,Alm.,1709,3,Villa,117,2011,
+Ahornvej 30 7361 Ejstrupholm,30,717622.0,20-08-2010,Fam.,4816,7,Villa,149,1987,
+Vestergade 29 7361 Ejstrupholm,29,735000.0,12-08-2010,Alm.,7500,4,Villa,98,1957,0 %
+Enghavevej 36 7361 Ejstrupholm,36,1700000.0,12-08-2010,Andet,8212,6,Villa,207,2005,
+Jernbanegade 23 7361 Ejstrupholm,23,615000.0,16-07-2010,Alm.,5000,4,Villa,123,1954,-21 %
+Østergårdsvej 4 7361 Ejstrupholm,4,1225000.0,14-07-2010,Alm.,9423,3,Villa,130,1995,
+Enghavevej 24 7361 Ejstrupholm,24,1755500.0,09-07-2010,Alm.,9540,6,Villa,184,1970,
+Østergade 37 7361 Ejstrupholm,37,1000000.0,02-07-2010,Alm.,6493,5,Villa,154,1943,-6 %
+Ahornvej 29 7361 Ejstrupholm,29,1329000.0,25-06-2010,Alm.,7262,6,Villa,183,1974,-1 %
+St Nørlundvej 19 7361 Ejstrupholm,19,1225000.0,18-06-2010,Alm.,5946,5,Villa,206,1930,-4 %
+Gyvelvej 14 7361 Ejstrupholm,14,1025000.0,10-06-2010,Alm.,6972,5,Villa,147,1974,-6 %
+Vestbanen 19 7361 Ejstrupholm,19,200000.0,10-06-2010,Alm.,1754,3,Villa,114,2012,
+Rørbækvej 52B 7361 Ejstrupholm,0,325000.0,07-06-2010,Alm.,3611,6,Sommerhus,90,2011,
+Rønslundevej 23 7361 Ejstrupholm,23,805000.0,31-05-2010,Alm.,5750,6,Villa,140,1912,-5 %
+Ahornvej 50 7361 Ejstrupholm,50,1145000.0,28-05-2010,Alm.,8945,3,Villa,128,1987,-8 %
+Vestervang 7 7361 Ejstrupholm,7,625000.0,10-05-2010,Alm.,4595,4,Villa,136,1970,
+Smedebækvej 9 7361 Ejstrupholm,9,81100.0,10-05-2010,Alm.,540,5,Villa,150,2011,
+Nørretoften 4 7361 Ejstrupholm,4,369095.0,06-05-2010,Alm.,1873,6,Villa,197,2012,
+Hallundbækvej 8 7361 Ejstrupholm,8,1600000.0,03-05-2010,Fam.,5925,10,Stuehus,270,1900,
+Enghavevej 46 7361 Ejstrupholm,46,2000000.0,30-04-2010,Alm.,9216,6,Villa,217,1910,-11 %
+Tykskovvej 32 7361 Ejstrupholm,32,75000.0,15-04-2010,Alm.,382,6,Stuehus,196,1900,
+Stationsvej 12 7361 Ejstrupholm,12,1045000.0,01-04-2010,Alm.,7683,4,Villa,136,1933,
+Lindevænget 23 7361 Ejstrupholm,23,740149.0,17-03-2010,Fam.,4597,6,Villa,161,1978,
+Brandevej 51 7361 Ejstrupholm,51,750000.0,05-03-2010,Alm.,5597,5,Villa,134,1910,
+Vestergade 17 7361 Ejstrupholm,17,745000.0,02-03-2010,Alm.,8277,4,Villa,90,1934,-5 %
+Sigvej 5 7361 Ejstrupholm,5,430000.0,26-02-2010,Auktion,2388,8,Villa,180,1920,
+Vestbanen 17 7361 Ejstrupholm,17,150000.0,25-02-2010,Alm.,1056,4,Villa,142,2010,
+Stationsvej 16 7361 Ejstrupholm,16,775000.0,18-02-2010,Alm.,9226,3,Villa,84,1927,
+Engtoften 2 7361 Ejstrupholm,2,900000.0,01-02-2010,Alm.,6923,4,Villa,130,1969,-10 %
+Møllevejen 15 7361 Ejstrupholm,15,1350000.0,27-01-2010,Alm.,4530,10,Villa,298,1906,-11 %
+Rørbækvej 52E 7361 Ejstrupholm,0,425000.0,20-01-2010,Alm.,3571,5,Sommerhus,119,2010,
+St Nørlundvej 24 7361 Ejstrupholm,24,1100000.0,30-12-2009,Alm.,8461,4,Villa,130,1917,-12 %
+Lærkevej 29 7361 Ejstrupholm,29,1100000.0,22-12-2009,Alm.,8029,6,Villa,137,1964,-8 %
+Engtoften 5 7361 Ejstrupholm,5,2100000.0,17-12-2009,Alm.,13291,5,Villa,158,2000,
+Engbækparken 8 7361 Ejstrupholm,8,452080.0,10-12-2009,Alm.,2404,6,Villa,188,2011,
+Vestervang 16 7361 Ejstrupholm,16,1240000.0,30-11-2009,Alm.,8266,4,Villa,150,1973,-3 %
+Stationsvej 10 7361 Ejstrupholm,10,710000.0,30-11-2009,Alm.,5071,5,Villa,140,1925,
+Birkevej 106 7361 Ejstrupholm,106,1350000.0,25-11-2009,Alm.,5947,6,Villa,227,2000,
+Lærkevej 30 7361 Ejstrupholm,30,425000.0,17-11-2009,Fam.,3828,4,Villa,111,1965,
+Birkevej 20 7361 Ejstrupholm,20,850000.0,16-11-2009,Andet,5214,6,Villa,163,2007,
+Lærkevej 31 7361 Ejstrupholm,31,1125000.0,04-11-2009,Alm.,10416,4,Villa,108,1964,-6 %
+Birkevej 28 7361 Ejstrupholm,28,2525000.0,13-10-2009,Alm.,14766,6,Villa,171,2006,
+Hedegårdvej 17 7361 Ejstrupholm,17,1274000.0,08-10-2009,Alm.,14155,4,Villa,90,1965,
+Bakkedraget 6 7361 Ejstrupholm,6,1560000.0,28-09-2009,Alm.,9017,5,Villa,173,1973,-2 %
+Holmevej 9 7361 Ejstrupholm,9,1850000.0,25-08-2009,Alm.,9343,6,Villa,198,1974,-6 %
+Brandevej 62 7361 Ejstrupholm,62,2325000.0,03-07-2009,Alm.,13285,5,Villa,175,1923,-5 %
+Grønningen 18 7361 Ejstrupholm,18,1050000.0,26-06-2009,Alm.,10937,4,Villa,96,1960,
+Ahornvej 41 7361 Ejstrupholm,41,300000.0,26-06-2009,Alm.,1442,7,Villa,208,2010,
+Stationsvej 14 7361 Ejstrupholm,14,675000.0,22-06-2009,Alm.,4066,5,Villa,166,1944,0 %
+Enghavevej 50 7361 Ejstrupholm,50,1550000.0,15-06-2009,Fam.,11923,7,Villa,130,1890,
+Østergade 48 7361 Ejstrupholm,48,900000.0,15-06-2009,Alm.,10112,3,Rækkehus,89,1984,-5 %
+Fasterholtvej 4 7361 Ejstrupholm,4,1650000.0,09-06-2009,Fam.,7971,6,Stuehus,207,1949,
+Nørholmvej 9B 7361 Ejstrupholm,0,150000.0,07-06-2009,Alm.,773,5,Villa,194,2012,
+Bøgevej 13 7361 Ejstrupholm,13,1500000.0,27-05-2009,Fam.,17045,4,Villa,88,1941,
+Mælkevejen 9 7361 Ejstrupholm,9,1000000.0,04-05-2009,Alm.,10204,4,Villa,98,1988,
+Birkevej 42 7361 Ejstrupholm,42,375000.0,01-05-2009,Alm.,1856,5,Villa,202,2010,
+Engbækparken 32 7361 Ejstrupholm,32,351280.0,27-04-2009,Alm.,2181,6,Villa,161,2009,
+Rørbækvej 52K 7361 Ejstrupholm,0,420000.0,23-04-2009,Alm.,3750,4,Sommerhus,112,2015,-12 %
+Tykskovvej 16 7361 Ejstrupholm,16,4500000.0,21-04-2009,Fam.,19313,7,Villa,233,1980,
+Ikastvej 20 7361 Ejstrupholm,20,400000.0,13-04-2009,Alm.,3883,3,Villa,103,1925,-6 %
+Hedegårdvej 21 7361 Ejstrupholm,21,625000.0,06-04-2009,Alm.,3930,6,Villa,159,1950,-26 %
+Smedebækvej 40 7361 Ejstrupholm,40,1355000.0,05-04-2009,Alm.,6421,4,Villa,211,1900,-9 %
+Vestergade 33 7361 Ejstrupholm,33,515000.0,02-04-2009,Alm.,3140,5,Villa,164,1930,-13 %
+Thorlundvej 11 7361 Ejstrupholm,11,2100000.0,27-03-2009,Alm.,12883,6,Villa,163,1937,-8 %
+Jagtvej 1 7361 Ejstrupholm,1,1025000.0,12-03-2009,Fam.,6487,6,Stuehus,158,1920,
+Vestergade 24 7361 Ejstrupholm,24,750000.0,27-02-2009,Alm.,5033,6,Villa,149,1917,
+Rørbæksøvej 16 7361 Ejstrupholm,16,1475000.0,10-02-2009,Alm.,13409,4,Sommerhus,110,2006,
+Søndergade 31 7361 Ejstrupholm,31,670000.0,24-01-2009,Alm.,5447,3,Villa,123,1900,
+Fasterholtvej 17 7361 Ejstrupholm,17,7000000.0,17-01-2009,Alm.,58333,5,Stuehus,120,1900,
+Hallundbækvej 10 7361 Ejstrupholm,10,400000.0,05-01-2009,Alm.,5194,2,Villa,77,1938,
+Hjøllundvej 3 7361 Ejstrupholm,3,1245000.0,22-12-2008,Alm.,5928,4,Villa,210,1934,
+Hjøllundvej 16 7361 Ejstrupholm,16,460500.0,15-12-2008,Fam.,2878,5,Villa,160,1930,
+Kejlstrupvej 11 7361 Ejstrupholm,11,239375.0,12-12-2008,Fam.,1375,7,Villa,174,1934,
+Møllebakken 16 7361 Ejstrupholm,16,1350000.0,12-12-2008,Alm.,7377,9,Stuehus,183,1920,
+St Nørlundvej 10 7361 Ejstrupholm,10,585000.0,10-12-2008,Alm.,3196,5,Villa,183,2015,
+Isenbjergvej 13 7361 Ejstrupholm,13,22236518.0,08-12-2008,Fam.,63351,10,Stuehus,351,1928,
+Ikastvej 75 7361 Ejstrupholm,75,475000.0,01-12-2008,Alm.,5937,3,Villa,80,1938,0 %
+Rørbæksøvej 42 7361 Ejstrupholm,42,500000.0,30-11-2008,Fam.,7042,4,Sommerhus,71,2007,
+Østergade 26 7361 Ejstrupholm,26,444500.0,25-11-2008,Fam.,5848,3,Villa,76,1900,
+Søbrinken 32 7361 Ejstrupholm,32,340000.0,23-11-2008,Fam.,24285,1,Sommerhus,14,1984,
+Gludstedgårdvej 4 7361 Ejstrupholm,4,297700.0,19-11-2008,Alm.,1323,5,Villa,225,2010,
+Nørretoften 16 7361 Ejstrupholm,16,490000.0,17-11-2008,Alm.,2322,6,Villa,211,2010,
+Søbrinken 2 7361 Ejstrupholm,2,1395000.0,07-11-2008,Alm.,8718,6,Villa,160,1954,-3 %
+Brandevej 49 7361 Ejstrupholm,49,525000.0,14-10-2008,Alm.,5468,4,Villa,96,1869,0 %
+Ikastvej 37 7361 Ejstrupholm,37,430000.0,09-10-2008,Fam.,4526,3,Villa,95,1946,
+Søbrinken 8 7361 Ejstrupholm,8,665500.0,22-09-2008,Fam.,3109,6,Villa,214,1973,
+Smedebækvej 22 7361 Ejstrupholm,22,685000.0,11-09-2008,Alm.,5189,5,Villa,132,1962,-19 %
+Rørbæksøvej 32 7361 Ejstrupholm,32,212237.0,25-08-2008,Fam.,1632,6,Sommerhus,130,2011,
+Østergade 19 7361 Ejstrupholm,19,1025000.0,21-08-2008,Alm.,6446,5,Rækkehus,159,1895,
+Ikastvej 35 7361 Ejstrupholm,35,895000.0,15-08-2008,Alm.,6937,6,Villa,129,1943,-6 %
+Hygildvej 22 7361 Ejstrupholm,22,1730000.0,07-08-2008,Alm.,10359,9,Stuehus,167,1911,
+Rørbækvej 35 7361 Ejstrupholm,35,725000.0,02-08-2008,Alm.,14795,2,Sommerhus,49,1950,
+Vestervang 11 7361 Ejstrupholm,11,1375000.0,07-07-2008,Alm.,11458,3,Villa,120,1973,
+Bøgevænget 22 7361 Ejstrupholm,22,443285.0,30-06-2008,Fam.,2975,5,Villa,149,1925,
+Stationsvej 49 7361 Ejstrupholm,49,595000.0,17-06-2008,Alm.,4722,5,Villa,126,1912,
+Vestervang 14 7361 Ejstrupholm,14,1615800.0,10-06-2008,Alm.,7694,6,Villa,210,1974,
+Birkevej 38 7361 Ejstrupholm,38,260000.0,09-06-2008,Alm.,1405,5,Villa,185,2009,
+Nørretoften 6 7361 Ejstrupholm,6,484999.0,29-05-2008,Alm.,2579,6,Villa,188,2011,
+Rørbæksøvej 40 7361 Ejstrupholm,40,370000.0,26-05-2008,Alm.,3457,3,Sommerhus,107,2011,
+Åbrinken 4 7361 Ejstrupholm,4,2800000.0,20-05-2008,Alm.,10937,8,Villa,256,1979,
+Gyvelvej 11 7361 Ejstrupholm,11,430000.0,20-05-2008,Alm.,7166,2,Rækkehus,60,1972,0 %
+Stationsvej 20 7361 Ejstrupholm,20,1050000.0,13-05-2008,Alm.,7000,4,Villa,150,1957,-4 %
+Givevej 53 7361 Ejstrupholm,53,550000.0,07-05-2008,Alm.,1839,7,Stuehus,299,2010,
+Hybenvej 7 7361 Ejstrupholm,7,1195000.0,06-05-2008,Alm.,9192,6,Villa,130,1976,
+Gludstedgårdvej 2 7361 Ejstrupholm,2,252052.0,28-04-2008,Alm.,1312,5,Villa,192,2009,
+Smedebækvej 3 7361 Ejstrupholm,3,470000.0,24-04-2008,Alm.,5529,3,Villa,85,1912,0 %
+Smedebækvej 8 7361 Ejstrupholm,8,350000.0,21-04-2008,Alm.,4166,3,Villa,84,1940,
+Smedevænget 5 7361 Ejstrupholm,5,750000.0,11-04-2008,Alm.,0,10,Villa,202,1932,
+Rørbæksøvej 3 7361 Ejstrupholm,3,1412500.0,02-04-2008,Alm.,12840,4,Sommerhus,110,2006,-4 %
+St Nørlundvej 7 7361 Ejstrupholm,7,6043719.0,27-03-2008,Fam.,28374,11,Stuehus,213,1928,
+Nørretoften 9 7361 Ejstrupholm,9,284227.0,09-03-2008,Alm.,1691,5,Villa,168,2009,
+Pilevænget 3B 7361 Ejstrupholm,0,605000.0,01-03-2008,Alm.,7960,3,Rækkehus,76,1980,
+Søndergade 15 7361 Ejstrupholm,15,550000.0,01-03-2008,Fam.,3055,5,Villa,180,1922,
+Birkevej 92 7361 Ejstrupholm,92,2100000.0,28-02-2008,Alm.,13725,7,Villa,153,2007,
+Birkevej 88 7361 Ejstrupholm,88,1968000.0,24-02-2008,Alm.,12862,7,Villa,153,2007,
+Østergade 58 7361 Ejstrupholm,58,535500.0,17-02-2008,Fam.,3825,5,Villa,140,1937,
+Tykskovvej 8 7361 Ejstrupholm,8,436000.0,15-02-2008,Fam.,4152,4,Villa,105,1968,
+Lindevænget 40 7361 Ejstrupholm,40,925000.0,09-02-2008,Fam.,7520,6,Villa,123,1979,
+Vestervang 17 7361 Ejstrupholm,17,1410000.0,07-02-2008,Alm.,9657,4,Villa,146,1973,-1 %
+Smedebækvej 34 7361 Ejstrupholm,34,8230000.0,06-02-2008,Alm.,46497,5,Stuehus,177,1870,
+Smedebækvej 39 7361 Ejstrupholm,39,347983.0,31-01-2008,Alm.,1414,9,Stuehus,246,1882,
+Malmkærvej 5 7361 Ejstrupholm,5,555000.0,28-01-2008,Auktion,3226,4,Villa,172,1930,
+Rørbækvej 52L 7361 Ejstrupholm,0,380000.0,15-01-2008,Alm.,3193,4,Sommerhus,119,2009,
+Birkevej 60 7361 Ejstrupholm,60,2550000.0,08-01-2008,Alm.,15000,5,Villa,170,2007,-3 %
+Lærkevej 9 7361 Ejstrupholm,9,1020000.0,21-12-2007,Alm.,14166,5,Villa,72,1964,
+Stationsvej 30 7361 Ejstrupholm,30,2355270.0,19-12-2007,Alm.,30195,3,Villa,78,1965,
+Givevej 49 7361 Ejstrupholm,49,3200000.0,18-12-2007,Alm.,12451,8,Stuehus,257,2012,
+Brandevej 34 7361 Ejstrupholm,34,1700000.0,14-12-2007,Alm.,7906,6,Villa,215,1871,-3 %
+Vestervang 19 7361 Ejstrupholm,19,1317500.0,14-12-2007,Alm.,8555,5,Villa,154,1972,-1 %
+Østergade 15 7361 Ejstrupholm,15,550000.0,03-12-2007,Alm.,3741,6,Villa,147,1904,
+Stationsvej 37 7361 Ejstrupholm,37,625000.0,30-11-2007,Andet,4280,5,Villa,146,1938,
+Smedebækvej 19 7361 Ejstrupholm,19,775000.0,29-11-2007,Alm.,3875,6,Villa,200,1951,-5 %
+Skovvænget 2 7361 Ejstrupholm,2,1160000.0,19-11-2007,Alm.,8169,4,Villa,142,1942,
+Malmkærvej 9 7361 Ejstrupholm,9,19000000.0,19-11-2007,Alm.,130136,4,Stuehus,146,1975,
+Birkevej 68 7361 Ejstrupholm,68,160380.0,05-11-2007,Alm.,996,6,Villa,161,2009,
+Ved Bækken 11 7361 Ejstrupholm,11,240000.0,23-10-2007,Alm.,1589,5,Villa,151,2008,
+Malmkærvej 6 7361 Ejstrupholm,6,1050000.0,22-10-2007,Alm.,6774,6,Villa,155,1926,-4 %
+Enghavevej 31 7361 Ejstrupholm,31,6430000.0,11-10-2007,Alm.,44965,4,Villa,143,1981,122 %
+Birkevej 64 7361 Ejstrupholm,64,160380.0,09-10-2007,Alm.,853,6,Villa,188,2008,
+Kejlstrupvej 13 7361 Ejstrupholm,13,430247.0,05-10-2007,Fam.,2623,6,Villa,164,1877,
+Vestergade 47 7361 Ejstrupholm,47,740469.0,30-09-2007,Fam.,2435,11,Villa,304,1948,
+Vestergade 19 7361 Ejstrupholm,19,1325000.0,01-08-2007,Alm.,7240,6,Villa,183,1946,0 %
+Østergårdsvej 10 7361 Ejstrupholm,10,1550000.0,29-07-2007,Alm.,9935,7,Villa,156,1998,
+Kejlstrupvej 16 7361 Ejstrupholm,16,2422500.0,29-07-2007,Fam.,9073,7,Stuehus,267,2007,
+Birkevej 4 7361 Ejstrupholm,4,840000.0,19-07-2007,Alm.,8400,4,Villa,100,1969,-3 %
+Ikastvej 73 7361 Ejstrupholm,73,600000.0,15-07-2007,Alm.,4444,5,Villa,135,1912,
+Brandevej 25 7361 Ejstrupholm,25,204263.0,04-07-2007,Alm.,1621,4,Stuehus,126,1892,
+Thyregodvej 114 7361 Ejstrupholm,114,1785000.0,02-07-2007,Alm.,10028,5,Stuehus,178,1940,
+Møllevejen 1 7361 Ejstrupholm,1,1080000.0,26-06-2007,Alm.,10285,4,Villa,105,1963,
+Isenbjergvej 10 7361 Ejstrupholm,10,647175.0,12-06-2007,Alm.,5095,4,Stuehus,127,1927,
+Vestergade 22 7361 Ejstrupholm,22,750000.0,08-06-2007,Alm.,8620,3,Villa,87,1898,0 %
+Nørholmvej 21 7361 Ejstrupholm,21,2500000.0,06-06-2007,Alm.,9191,8,Villa,272,1927,-4 %
+Nørrevang 22 7361 Ejstrupholm,22,1275000.0,25-05-2007,Alm.,15178,3,Villa,84,1958,
+Givevej 42 7361 Ejstrupholm,42,1500000.0,25-05-2007,Alm.,6637,7,Stuehus,226,2009,
+Østergårdsvej 12 7361 Ejstrupholm,12,2000000.0,24-05-2007,Alm.,12500,5,Villa,160,1999,-2 %
+Ahornvej 70 7361 Ejstrupholm,70,1185000.0,21-05-2007,Alm.,10304,5,Villa,115,1987,-3 %
+Hjøllundvej 20 7361 Ejstrupholm,20,965000.0,18-05-2007,Alm.,9368,4,Villa,103,1950,2 %
+Hjøllundvej 29 7361 Ejstrupholm,29,915753.0,15-05-2007,Alm.,6541,5,Stuehus,140,1900,
+Ahornvej 46 7361 Ejstrupholm,46,825000.0,13-05-2007,Alm.,8505,3,Villa,97,1981,-6 %
+Østergade 8 7361 Ejstrupholm,8,835000.0,06-05-2007,Alm.,5122,7,Villa,163,1902,0 %
+Enghavevej 22 7361 Ejstrupholm,22,1400000.0,21-04-2007,Alm.,11864,3,Villa,118,1968,0 %
+Ikastvej 58 7361 Ejstrupholm,58,183643.0,20-04-2007,Andet,2018,3,Villa,91,1934,
+Møllebakken 8 7361 Ejstrupholm,8,416500.0,19-04-2007,Fam.,2687,5,Villa,155,1922,
+Brandevej 55 7361 Ejstrupholm,55,1535000.0,09-03-2007,Alm.,8252,6,Villa,186,1946,-3 %
+Smedebækvej 26 7361 Ejstrupholm,26,71170.0,08-03-2007,Fam.,359,7,Villa,198,1921,
+Hygildvej 4 7361 Ejstrupholm,4,1465000.0,19-02-2007,Alm.,8049,5,Villa,182,1917,-5 %
+Hjøllundvej 17 7361 Ejstrupholm,17,225000.0,08-02-2007,Fam.,1704,7,Villa,132,1959,
+Hjøllundvej 26 7361 Ejstrupholm,26,780000.0,07-02-2007,Alm.,5416,6,Villa,144,1985,-11 %
+Fasterholtvej 26 7361 Ejstrupholm,26,8585000.0,05-02-2007,Fam.,245285,2,Stuehus,35,1964,
+Søndergade 43 7361 Ejstrupholm,43,580000.0,30-01-2007,Alm.,0,4,Villa,134,1932,
+Søndergade 51 7361 Ejstrupholm,51,650000.0,25-01-2007,Alm.,3779,6,Villa,172,1907,0 %
+Rørbækvej 52J 7361 Ejstrupholm,0,2150000.0,05-01-2007,Alm.,17063,4,Sommerhus,126,2006,
+Enghavevej 32 7361 Ejstrupholm,32,450000.0,20-12-2006,Alm.,6081,3,Villa,74,1961,
+Birkevej 32 7361 Ejstrupholm,32,156600.0,19-12-2006,Alm.,811,6,Villa,193,2008,
+Møllebakken 18 7361 Ejstrupholm,18,666129.0,19-12-2006,Fam.,4216,4,Stuehus,158,2010,
+Enghavevej 34 7361 Ejstrupholm,34,24900000.0,08-12-2006,Alm.,133870,7,Stuehus,186,1892,
+Ikastvej 32 7361 Ejstrupholm,32,675000.0,17-11-2006,Alm.,6081,3,Villa,111,1932,
+Ved Bækken 9 7361 Ejstrupholm,9,140000.0,31-10-2006,Alm.,939,5,Villa,149,2007,
+Ejstrupvej 23 7361 Ejstrupholm,23,7600000.0,20-10-2006,Fam.,25165,10,Stuehus,302,1974,
+Birkevej 2 7361 Ejstrupholm,2,800000.0,29-09-2006,Alm.,5882,4,Villa,136,1968,
+Isenbjergvej 17 7361 Ejstrupholm,17,1700000.0,25-09-2006,Alm.,8900,5,Villa,191,1918,
+Bøgevænget 20 7361 Ejstrupholm,20,400000.0,23-09-2006,Alm.,7272,2,Villa,55,1920,
+Thorlundvej 35 7361 Ejstrupholm,35,1750000.0,12-09-2006,Alm.,9162,6,Villa,191,1890,
+Stationsvej 6 7361 Ejstrupholm,6,590000.0,07-09-2006,Alm.,5619,4,Villa,105,1917,
+Enghavevej 5 7361 Ejstrupholm,5,1345000.0,17-08-2006,Alm.,3457,10,Villa,389,1970,
+Krejbjergvej 15 7361 Ejstrupholm,15,1375000.0,16-08-2006,Alm.,7947,6,Villa,173,1850,
+Birkevej 96 7361 Ejstrupholm,96,1600000.0,19-07-2006,Alm.,11267,6,Villa,142,2004,
+Engvej 4 7361 Ejstrupholm,4,300000.0,18-07-2006,Alm.,1265,9,Villa,237,2008,
+Brandevej 58 7361 Ejstrupholm,58,940000.0,07-07-2006,Alm.,8545,5,Villa,110,1927,
+Ejstrupvej 21 7361 Ejstrupholm,21,9500000.0,07-07-2006,Alm.,45238,6,Stuehus,210,1931,
+Jagtvej 2 7361 Ejstrupholm,2,3320000.0,05-07-2006,Fam.,17754,6,Stuehus,187,1973,
+Vestbanen 16 7361 Ejstrupholm,16,150000.0,30-06-2006,Alm.,1327,6,Villa,113,2007,
+Søbrinken 22 7361 Ejstrupholm,22,510000.0,16-06-2006,Alm.,3695,4,Sommerhus,138,2010,
+Ved Bækken 1 7361 Ejstrupholm,1,250000.0,07-06-2006,Alm.,1543,4,Villa,162,2007,
+Engtoften 120 7361 Ejstrupholm,120,78000.0,31-05-2006,Alm.,757,4,Rækkehus,103,2006,
+Stationsvej 51A 7361 Ejstrupholm,0,300000.0,18-05-2006,Alm.,2586,4,Lejlighed,116,1930,
+Rørbæksøvej 9 7361 Ejstrupholm,9,390000.0,01-05-2006,Alm.,3577,4,Sommerhus,109,2011,
+Ikastvej 91 7361 Ejstrupholm,91,250000.0,20-04-2006,Fam.,1602,4,Stuehus,156,1974,
+Krejbjergvej 20 7361 Ejstrupholm,20,900000.0,10-04-2006,Fam.,4918,5,Stuehus,183,2014,
+Rørbæksøvej 30 7361 Ejstrupholm,30,392000.0,09-04-2006,Alm.,4041,4,Sommerhus,97,2011,
+Birkevej 86 7361 Ejstrupholm,86,141750.0,05-04-2006,Alm.,977,6,Villa,145,2007,
+Rørbæksøvej 28 7361 Ejstrupholm,28,365000.0,04-04-2006,Alm.,2920,5,Sommerhus,125,2007,
+Birkevej 62 7361 Ejstrupholm,62,174015.0,29-03-2006,Alm.,961,7,Villa,181,2007,
+Engtoften 122 7361 Ejstrupholm,122,78000.0,29-03-2006,Alm.,715,4,Rækkehus,109,2006,
+Birkevej 70 7361 Ejstrupholm,70,160380.0,27-03-2006,Alm.,0,6,Villa,179,2007,
+Stationsvej 21A 7361 Ejstrupholm,0,875000.0,24-03-2006,Alm.,6205,5,Rækkehus,141,1917,
+Rørbæksøvej 5 7361 Ejstrupholm,5,380000.0,18-03-2006,Alm.,3040,5,Sommerhus,125,2011,
+Vestergade 21B 7361 Ejstrupholm,0,1050000.0,04-03-2006,Alm.,8606,5,Villa,122,1988,
+Rørbækvej 52I 7361 Ejstrupholm,0,405000.0,04-03-2006,Alm.,3214,4,Sommerhus,126,2007,
+Birkevej 26 7361 Ejstrupholm,26,160300.0,01-03-2006,Alm.,852,6,Villa,188,2006,
+Birkevej 34 7361 Ejstrupholm,34,132975.0,23-02-2006,Alm.,852,5,Villa,156,2006,
+Smedebækvej 23 7361 Ejstrupholm,23,660000.0,07-02-2006,Alm.,4074,6,Villa,162,1927,
+Lindevænget 31 7361 Ejstrupholm,31,1150000.0,03-02-2006,Alm.,9126,4,Villa,126,1979,
+Krejbjergvej 28 7361 Ejstrupholm,28,5357905.0,30-01-2006,Alm.,31892,4,Stuehus,168,1892,
+Rørbæksøvej 50 7361 Ejstrupholm,50,360000.0,08-01-2006,Alm.,5217,3,Sommerhus,69,2006,
+Søndergade 28 7361 Ejstrupholm,28,1050000.0,02-01-2006,Alm.,6250,5,Villa,168,1917,
+Østergade 5A 7361 Ejstrupholm,0,1100000.0,02-01-2006,Alm.,8396,3,Lejlighed,131,1914,
+Enghavevej 39 7361 Ejstrupholm,39,750000.0,01-01-2006,Alm.,3378,7,Stuehus,222,2007,
+Ikastvej 18A 7361 Ejstrupholm,0,1400000.0,31-12-2005,Alm.,6542,6,Rækkehus,214,1928,
+Grønningen 16 7361 Ejstrupholm,16,580000.0,23-12-2005,Alm.,5631,4,Villa,103,1960,
+Lunden 2 7361 Ejstrupholm,2,233521.0,15-12-2005,Alm.,1167,5,Villa,200,2006,
+Givevej 47 7361 Ejstrupholm,47,550000.0,06-12-2005,Alm.,4435,5,Villa,124,1903,
+Fasterholtvej 6 7361 Ejstrupholm,6,2200000.0,04-12-2005,Alm.,13580,5,Stuehus,162,1920,
+Rørbækvej 52O 7361 Ejstrupholm,0,393000.0,15-11-2005,Alm.,4180,4,Sommerhus,94,2011,
+Birkevej 58 7361 Ejstrupholm,58,165000.0,01-11-2005,Alm.,877,6,Villa,188,2010,
+Vestergade 59 7361 Ejstrupholm,59,600000.0,28-10-2005,Alm.,3571,5,Villa,168,1951,
+Brandevej 37 7361 Ejstrupholm,37,1150000.0,24-10-2005,Alm.,10087,5,Villa,114,1917,
+Thorlundvej 20 7361 Ejstrupholm,20,1350000.0,13-10-2005,Alm.,7458,7,Stuehus,181,1892,
+Rørbækvej 62 7361 Ejstrupholm,62,362000.0,12-10-2005,Alm.,1392,6,Stuehus,260,1943,
+Ikastvej 49 7361 Ejstrupholm,49,475000.0,29-09-2005,Alm.,4203,5,Villa,113,1927,
+Lunden 5 7361 Ejstrupholm,5,234522.0,29-09-2005,Alm.,965,7,Villa,243,2008,
+Pilevænget 3A 7361 Ejstrupholm,0,475000.0,28-09-2005,Alm.,6250,3,Rækkehus,76,1981,
+Holmevej 10 7361 Ejstrupholm,10,1560000.0,26-09-2005,Alm.,5473,8,Villa,285,1973,
+Lindevænget 42 7361 Ejstrupholm,42,955000.0,02-09-2005,Alm.,7074,5,Villa,135,1978,
+Møllebakken 10 7361 Ejstrupholm,10,700000.0,14-08-2005,Fam.,5426,4,Villa,129,1940,
+Thorlundvej 25 7361 Ejstrupholm,25,11000000.0,20-07-2005,Alm.,55000,6,Stuehus,200,1977,
+Rønslundevej 14 7361 Ejstrupholm,14,1150000.0,02-07-2005,Alm.,8518,6,Stuehus,135,1946,
+Bøgevænget 18 7361 Ejstrupholm,18,400000.0,22-06-2005,Alm.,5063,4,Villa,79,1920,
+Birkevej 30 7361 Ejstrupholm,30,140100.0,08-06-2005,Alm.,654,7,Villa,214,2007,
+Lærkevej 34 7361 Ejstrupholm,34,575000.0,07-06-2005,Alm.,5043,4,Villa,114,1965,
+Ågade 11 7361 Ejstrupholm,11,895000.0,03-06-2005,Alm.,9421,4,Villa,95,1955,
+Isenbjergvej 11 7361 Ejstrupholm,11,1195000.0,25-05-2005,Alm.,7113,10,Villa,168,1940,
+Sigvej 19 7361 Ejstrupholm,19,1345000.0,23-05-2005,Alm.,9817,6,Stuehus,137,1916,
+Ahornvej 26 7361 Ejstrupholm,26,359455.0,04-05-2005,Fam.,2496,4,Villa,144,1985,
+Birkevænget 5 7361 Ejstrupholm,5,795000.0,03-05-2005,Alm.,6022,5,Villa,132,1972,
+Åbrinken 12 7361 Ejstrupholm,12,1275000.0,27-04-2005,Alm.,4722,7,Villa,270,1974,
+Hjøllundvej 6B 7361 Ejstrupholm,0,675000.0,23-04-2005,Alm.,2636,6,Villa,256,2009,
+Brogade 8 7361 Ejstrupholm,8,475000.0,20-04-2005,Alm.,10106,2,Villa,47,1957,
+Bakkedraget 5 7361 Ejstrupholm,5,1075000.0,23-03-2005,Alm.,6515,4,Villa,165,1969,
+Hjøllundvej 7 7361 Ejstrupholm,7,500000.0,22-03-2005,Alm.,4347,5,Villa,115,1917,
+Smedebækvej 4 7361 Ejstrupholm,4,320000.0,15-03-2005,Fam.,4383,3,Villa,73,1950,
+Syrenvej 10 7361 Ejstrupholm,10,1075000.0,25-02-2005,Alm.,6073,8,Villa,177,1971,
+Thyregodvej 81 7361 Ejstrupholm,81,815000.0,18-02-2005,Alm.,7836,6,Villa,104,1900,
+Østergårdsvej 14 7361 Ejstrupholm,14,970000.0,11-02-2005,Alm.,8738,3,Villa,111,1996,
+Præstegårdsvej 6 7361 Ejstrupholm,6,480000.0,10-02-2005,Alm.,2696,5,Villa,178,1940,
+Lærkevej 1 7361 Ejstrupholm,1,825000.0,30-01-2005,Alm.,0,7,Villa,209,1964,
+Hedegårdvej 32 7361 Ejstrupholm,32,4800000.0,30-01-2005,Fam.,22966,7,Stuehus,209,1912,
+Jernbanegade 17 7361 Ejstrupholm,17,374000.0,10-01-2005,Fam.,2968,5,Villa,126,1952,
+Ikastvej 12 7361 Ejstrupholm,12,830460.0,16-12-2004,Alm.,7159,3,Stuehus,116,1930,
+Birkevej 116 7361 Ejstrupholm,116,1500000.0,08-12-2004,Alm.,9146,6,Villa,164,1998,
+Hedegårdvej 8 7361 Ejstrupholm,8,1060000.0,23-11-2004,Alm.,7571,5,Stuehus,140,1967,
+Mælkevejen 5 7361 Ejstrupholm,5,625000.0,22-11-2004,Alm.,7440,4,Villa,84,1989,
+Birkevej 74 7361 Ejstrupholm,74,75114.0,22-11-2004,Alm.,521,6,Villa,144,2006,
+Stationsvej 19 7361 Ejstrupholm,19,700000.0,15-11-2004,Alm.,0,7,Villa,303,1920,
+Søndergade 61 7361 Ejstrupholm,61,750000.0,12-11-2004,Alm.,3472,5,Villa,216,1974,
+Hedegårdvej 20 7361 Ejstrupholm,20,410000.0,10-11-2004,Alm.,1924,7,Villa,213,1946,
+Lærkevej 26 7361 Ejstrupholm,26,635000.0,02-11-2004,Alm.,7215,3,Villa,88,1964,
+Østergade 42 7361 Ejstrupholm,42,800000.0,22-10-2004,Alm.,6400,4,Villa,125,1952,
+Birkevej 84 7361 Ejstrupholm,84,119760.0,11-10-2004,Alm.,965,4,Villa,124,2005,
+Byvej 15 7361 Ejstrupholm,15,336083.0,08-10-2004,Andet,2848,6,Villa,118,1897,
+Birkevej 24 7361 Ejstrupholm,24,125235.0,27-09-2004,Alm.,669,6,Villa,187,2005,
+Isenbjergvej 5 7361 Ejstrupholm,5,785000.0,30-08-2004,Alm.,4906,5,Villa,160,1929,
+Birkevej 94 7361 Ejstrupholm,94,1545000.0,27-08-2004,Alm.,9596,7,Villa,161,2004,
+Engtoften 114 7361 Ejstrupholm,114,600000.0,27-08-2004,Alm.,7058,3,Rækkehus,85,1979,
+Thyregodvej 108 7361 Ejstrupholm,108,1325000.0,17-08-2004,Alm.,5995,10,Stuehus,221,1942,
+Givevej 46 7361 Ejstrupholm,46,1250000.0,29-07-2004,Alm.,11574,4,Villa,108,1867,
+Rønslundevej 5 7361 Ejstrupholm,5,51715.0,27-07-2004,Alm.,307,8,Stuehus,168,1858,
+Ikastvej 14 7361 Ejstrupholm,14,441000.0,09-07-2004,Alm.,1995,5,Villa,221,1927,
+Birkevej 19 7361 Ejstrupholm,19,1535861.0,09-07-2004,Alm.,8826,6,Villa,174,2003,
+Nyholmvej 11 7361 Ejstrupholm,11,2000000.0,01-07-2004,Fam.,7042,6,Stuehus,284,1930,
+Østergade 39B 7361 Ejstrupholm,0,965000.0,27-06-2004,Alm.,7539,4,Villa,128,1989,
+Søndergade 17 7361 Ejstrupholm,17,995000.0,25-06-2004,Alm.,5922,7,Villa,168,1920,
+Brandevej 28B 7361 Ejstrupholm,0,236671.0,22-06-2004,Fam.,1434,5,Villa,165,2010,
+Hygildvej 11 7361 Ejstrupholm,11,450000.0,20-06-2004,Alm.,3214,6,Villa,140,1892,
+Løvbjergvej 3 7361 Ejstrupholm,3,578000.0,04-06-2004,Andet,5452,4,Villa,106,1949,
+Vandværksvej 6 7361 Ejstrupholm,6,775000.0,04-06-2004,Alm.,7908,3,Villa,98,1975,
+Hedegårdvej 4 7361 Ejstrupholm,4,1600000.0,12-05-2004,Fam.,12403,5,Stuehus,129,1939,
+Hvillumvej 7 7361 Ejstrupholm,7,550000.0,28-04-2004,Fam.,2849,5,Stuehus,193,2005,
+Birkevej 76 7361 Ejstrupholm,76,115920.0,23-04-2004,Alm.,647,6,Villa,179,2005,
+Søbrinken 28 7361 Ejstrupholm,28,370000.0,19-03-2004,Alm.,1561,6,Sommerhus,237,2006,
+Lærkevej 32 7361 Ejstrupholm,32,600000.0,12-03-2004,Alm.,5555,4,Villa,108,1967,
+Ikastvej 42 7361 Ejstrupholm,42,8100000.0,25-02-2004,Alm.,26470,11,Stuehus,306,1900,
+Birkevej 80 7361 Ejstrupholm,80,141680.0,23-02-2004,Alm.,626,6,Villa,226,2008,
+Birkevej 118 7361 Ejstrupholm,118,1400000.0,17-02-2004,Alm.,9032,5,Villa,155,2001,
+Birkevej 22 7361 Ejstrupholm,22,113850.0,03-02-2004,Alm.,677,6,Villa,168,2004,
+Birkevej 18 7361 Ejstrupholm,18,145820.0,30-01-2004,Alm.,878,6,Villa,166,2003,
+Birkevej 78 7361 Ejstrupholm,78,118220.0,13-01-2004,Alm.,820,6,Villa,144,2003,
+Kejlstrupvej 9 7361 Ejstrupholm,9,1800000.0,18-12-2003,Alm.,10588,8,Stuehus,170,1908,
+Egevej 2 7361 Ejstrupholm,2,761000.0,16-12-2003,Alm.,7927,3,Villa,96,1972,
+Rønne Alle 7 7361 Ejstrupholm,7,320000.0,11-12-2003,Alm.,4324,2,Villa,74,1960,
+Krejbjergvej 24 7361 Ejstrupholm,24,750000.0,07-12-2003,Alm.,4385,7,Stuehus,171,1908,
+Gyvelvej 22 7361 Ejstrupholm,22,890000.0,07-11-2003,Fam.,4450,6,Villa,200,1973,
+Vestervang 18 7361 Ejstrupholm,18,1175000.0,30-10-2003,Alm.,4625,6,Villa,254,1973,
+Hygildvej 16 7361 Ejstrupholm,16,5500000.0,02-10-2003,Alm.,68750,3,Sommerhus,80,2005,
+Lindevænget 16 7361 Ejstrupholm,16,1300000.0,26-09-2003,Alm.,9154,4,Villa,142,1979,
+Søbrinken 20 7361 Ejstrupholm,20,550000.0,12-09-2003,Alm.,8088,4,Sommerhus,68,1949,
+Ved Bækken 5 7361 Ejstrupholm,5,250000.0,12-09-2003,Alm.,1644,5,Villa,152,2004,
+Kejlstrupvej 12 7361 Ejstrupholm,12,1350000.0,26-08-2003,Alm.,6783,7,Villa,199,1850,
+Smedebækvej 31 7361 Ejstrupholm,31,187683.0,21-08-2003,Alm.,1660,5,Villa,113,1892,
+Thorlundvej 23 7361 Ejstrupholm,23,1400000.0,20-08-2003,Alm.,8805,5,Stuehus,159,1927,
+Lindevænget 1 7361 Ejstrupholm,1,560000.0,07-07-2003,Alm.,4590,4,Villa,122,1967,
+Rønslundevej 13 7361 Ejstrupholm,13,1705000.0,03-07-2003,Fam.,12819,5,Stuehus,133,1905,
+Ahornvej 64 7361 Ejstrupholm,64,1075000.0,24-06-2003,Alm.,7846,5,Villa,137,1986,
+Hygildvej 24 7361 Ejstrupholm,24,542500.0,12-06-2003,Alm.,3013,6,Stuehus,180,1920,
+Hjøllundvej 6A 7361 Ejstrupholm,0,217000.0,10-06-2003,Alm.,0,4,Lejlighed,123,1954,
+Brandevej 28A 7361 Ejstrupholm,0,55000.0,28-05-2003,Alm.,343,7,Stuehus,160,1951,
+Storgårdvej 7 7361 Ejstrupholm,7,720000.0,28-04-2003,Alm.,4337,5,Stuehus,166,1928,
+Enghavevej 28 7361 Ejstrupholm,28,1275000.0,24-04-2003,Alm.,6967,6,Villa,183,1972,
+Ikastvej 25 7361 Ejstrupholm,25,475000.0,24-04-2003,Alm.,3800,5,Villa,125,1909,
+Rørbækvej 42 7361 Ejstrupholm,42,3360000.0,01-04-2003,Fam.,28000,4,Stuehus,120,1904,
+Kirkegade 4 7361 Ejstrupholm,4,475000.0,01-04-2003,Alm.,4750,3,Rækkehus,100,1934,
+Mælkevejen 1 7361 Ejstrupholm,1,450000.0,31-03-2003,Alm.,5844,3,Rækkehus,77,1989,
+Mælkevejen 3 7361 Ejstrupholm,3,450000.0,31-03-2003,Alm.,5844,3,Rækkehus,77,1989,
+Hjøllundvej 15 7361 Ejstrupholm,15,400000.0,21-03-2003,Alm.,4000,5,Villa,100,1933,
+Ikastvej 52 7361 Ejstrupholm,52,370000.0,20-03-2003,Auktion,2720,4,Villa,136,1930,
+Hygildvej 8 7361 Ejstrupholm,8,1185000.0,10-03-2003,Alm.,6440,6,Stuehus,184,1940,
+Sigvej 17 7361 Ejstrupholm,17,300000.0,14-02-2003,Alm.,1648,8,Villa,182,2005,
+Hjøllundvej 27 7361 Ejstrupholm,27,300000.0,04-02-2003,Fam.,4166,4,Villa,72,1944,
+"Vestergade 26, 1 7361 Ejstrupholm",1,710000.0,29-01-2003,Alm.,10142,3,Lejlighed,70,1927,
+Grønningen 6 7361 Ejstrupholm,6,501500.0,24-01-2003,Fam.,0,7,Villa,189,1962,
+Stationsvej 17C 7361 Ejstrupholm,0,663000.0,07-01-2003,Fam.,5919,5,Rækkehus,112,1988,
+Vestergade 18 7361 Ejstrupholm,18,575000.0,13-12-2002,Alm.,4791,6,Rækkehus,120,1924,
+Rønslundevej 15 7361 Ejstrupholm,15,1725000.0,07-12-2002,Alm.,7532,8,Stuehus,229,1992,
+Ikastvej 93 7361 Ejstrupholm,93,3040000.0,06-12-2002,Fam.,10935,10,Stuehus,278,1884,
+"Østergade 12, 1. TH 7361 Ejstrupholm",0,2400000.0,09-11-2002,Alm.,16783,7,Lejlighed,143,1979,
+Enghavevej 15 7361 Ejstrupholm,15,820000.0,02-10-2002,Alm.,6833,5,Villa,120,1966,
+Sigvej 9 7361 Ejstrupholm,9,960000.0,01-10-2002,Alm.,0,8,Villa,254,1948,
+Grønningen 4 7361 Ejstrupholm,4,1025000.0,01-10-2002,Fam.,7481,6,Villa,137,1958,
+Rørbækvej 46 7361 Ejstrupholm,46,492500.0,29-08-2002,Alm.,8491,2,Sommerhus,58,1963,
+Birkevej 104 7361 Ejstrupholm,104,110630.0,02-08-2002,Alm.,0,7,Villa,205,2003,
+Hjøllundvej 39 7361 Ejstrupholm,39,2010000.0,02-07-2002,Alm.,23928,3,Stuehus,84,1912,
+Fasterholtvej 18 7361 Ejstrupholm,18,2550000.0,01-07-2002,Alm.,14912,5,Stuehus,171,1999,
+Byvej 7 7361 Ejstrupholm,7,707607.0,15-06-2002,Alm.,5615,5,Villa,126,1956,
+Lindevænget 36 7361 Ejstrupholm,36,701188.0,14-06-2002,Andet,5193,5,Villa,135,1979,
+Bakkedraget 4 7361 Ejstrupholm,4,1025000.0,14-06-2002,Alm.,6655,5,Villa,154,1973,
+Engvej 6 7361 Ejstrupholm,6,1675000.0,04-06-2002,Alm.,12593,3,Stuehus,133,2010,
+Ahornvej 72 7361 Ejstrupholm,72,870000.0,24-05-2002,Alm.,7767,5,Villa,112,1988,
+Nørrevang 26 7361 Ejstrupholm,26,817483.0,15-05-2002,Alm.,5839,5,Villa,140,1997,
+Vestergade 42 7361 Ejstrupholm,42,619545.0,22-04-2002,Alm.,4272,4,Villa,145,1939,
+Østergade 9A 7361 Ejstrupholm,0,691036.0,22-04-2002,Fam.,5484,6,Villa,126,1923,
+Pilevænget 4 7361 Ejstrupholm,4,893585.0,10-04-2002,Alm.,6078,5,Villa,147,1979,
+Søbrinken 10 7361 Ejstrupholm,10,123333.0,31-03-2002,Fam.,3627,1,Sommerhus,34,1932,
+Hallundbækvej 2 7361 Ejstrupholm,2,1000000.0,23-03-2002,Fam.,0,12,Villa,344,1917,
+Elmevænget 6 7361 Ejstrupholm,6,1290000.0,22-03-2002,Alm.,0,5,Villa,144,1998,
+Storgårdvej 8 7361 Ejstrupholm,8,560000.0,06-03-2002,Fam.,3478,5,Villa,161,1900,
+Gyvelvej 19 7361 Ejstrupholm,19,300000.0,01-02-2002,Alm.,5000,2,Rækkehus,60,1972,
+Lindevænget 38 7361 Ejstrupholm,38,731133.0,25-01-2002,Andet,2812,7,Villa,260,1979,
+Fasterholtvej 11 7361 Ejstrupholm,11,675000.0,25-01-2002,Alm.,3169,6,Stuehus,213,2007,
+Birkevej 17 7361 Ejstrupholm,17,1050000.0,25-01-2002,Alm.,7046,6,Villa,149,1989,
+Vestergade 31 7361 Ejstrupholm,31,365000.0,14-01-2002,Andet,1607,6,Villa,227,1920,
+St Nørlundvej 4 7361 Ejstrupholm,4,1125000.0,10-12-2001,Alm.,5306,7,Stuehus,212,1935,
+Hybenvej 5 7361 Ejstrupholm,5,900000.0,26-10-2001,Alm.,6000,5,Villa,150,1976,
+Rønslundevej 7 7361 Ejstrupholm,7,77125.0,25-10-2001,Alm.,504,5,Stuehus,153,1918,
+Pilevænget 5 7361 Ejstrupholm,5,575000.0,15-09-2001,Alm.,0,5,Villa,142,1983,
+Poppelvej 3 7361 Ejstrupholm,3,920000.0,17-08-2001,Alm.,6344,5,Villa,145,1973,
+Østergårdsvej 6 7361 Ejstrupholm,6,150000.0,03-08-2001,Alm.,1327,5,Villa,113,2001,
+Gyvelvej 27 7361 Ejstrupholm,27,375000.0,16-07-2001,Alm.,6250,2,Rækkehus,60,1972,
+Vestergade 20 7361 Ejstrupholm,20,370000.0,05-07-2001,Alm.,0,3,Villa,119,1890,
+Østergade 40 7361 Ejstrupholm,40,500000.0,29-06-2001,Alm.,0,5,Villa,153,1950,
+Østergårdsvej 8 7361 Ejstrupholm,8,150000.0,29-06-2001,Alm.,1339,4,Villa,112,2001,
+Enghavevej 19 7361 Ejstrupholm,19,650000.0,31-05-2001,Fam.,6132,4,Villa,106,1969,
+Søndergade 30 7361 Ejstrupholm,30,522118.0,16-05-2001,Alm.,3368,5,Villa,155,1877,
+Lunden 8 7361 Ejstrupholm,8,151572.0,09-05-2001,Alm.,881,8,Villa,172,2002,
+Thyregodvej 79 7361 Ejstrupholm,79,1657500.0,18-04-2001,Fam.,13698,5,Stuehus,121,1877,
+Engtoften 92 7361 Ejstrupholm,92,645000.0,12-04-2001,Alm.,6323,3,Rækkehus,102,1979,
+Ikastvej 9 7361 Ejstrupholm,9,488856.0,03-04-2001,Alm.,4526,5,Villa,108,1958,
+Enghavevej 44 7361 Ejstrupholm,44,1900000.0,16-03-2001,Alm.,13768,5,Stuehus,138,1917,
+Engtoften 9 7361 Ejstrupholm,9,945000.0,14-03-2001,Alm.,6300,5,Villa,150,1970,
+Givevej 51 7361 Ejstrupholm,51,342000.0,09-03-2001,Alm.,0,5,Villa,186,1958,
+Nørrevang 28 7361 Ejstrupholm,28,1000000.0,23-02-2001,Alm.,4716,6,Villa,212,1963,
+Stationsvej 51C 7361 Ejstrupholm,0,285141.0,06-02-2001,Alm.,3564,3,Lejlighed,80,1930,
+Stationsvej 51B 7361 Ejstrupholm,0,225000.0,30-01-2001,Alm.,2184,3,Lejlighed,103,1930,
+Bøgevænget 6 7361 Ejstrupholm,6,250000.0,10-11-2000,Alm.,3731,4,Villa,67,1950,
+Østergade 39A 7361 Ejstrupholm,0,415000.0,02-11-2000,Alm.,0,7,Villa,138,1936,
+Møllebakken 12 7361 Ejstrupholm,12,1050000.0,08-10-2000,Alm.,7954,4,Villa,132,1998,
+Hedegårdvej 12 7361 Ejstrupholm,12,875000.0,05-10-2000,Alm.,5208,7,Villa,168,1914,
+Krejbjergvej 7 7361 Ejstrupholm,7,960000.0,10-09-2000,Alm.,3356,7,Villa,286,1959,
+Birkevænget 6 7361 Ejstrupholm,6,525000.0,11-08-2000,Alm.,3500,4,Villa,150,1973,
+Brandevej 47 7361 Ejstrupholm,47,740000.0,20-07-2000,Alm.,5401,5,Villa,137,1930,
+Gyvelvej 23 7361 Ejstrupholm,23,250000.0,29-06-2000,Alm.,4166,2,Rækkehus,60,1972,
+Møllevejen 3 7361 Ejstrupholm,3,598000.0,18-06-2000,Alm.,4530,5,Villa,132,1963,
+Vestervang 10 7361 Ejstrupholm,10,910000.0,02-06-2000,Alm.,6066,4,Villa,150,1974,
+Munkhøjvej 12 7361 Ejstrupholm,12,605911.0,21-03-2000,Alm.,2096,7,Villa,289,1910,
+Østergade 41 7361 Ejstrupholm,41,550000.0,10-03-2000,Alm.,6875,3,Villa,80,1960,
+Malmkærvej 8 7361 Ejstrupholm,8,862000.0,03-03-2000,Alm.,6580,5,Villa,131,1937,
+Vestergade 55 7361 Ejstrupholm,55,950000.0,22-02-2000,Alm.,0,6,Villa,161,1987,
+Byvej 5 7361 Ejstrupholm,5,40000.0,14-02-2000,Alm.,175,7,Villa,228,2001,
+Brandevej 56 7361 Ejstrupholm,56,1190000.0,14-01-2000,Fam.,7579,7,Stuehus,157,1860,
+Rørbækvej 56 7361 Ejstrupholm,56,300000.0,10-01-2000,Alm.,1127,4,Villa,266,2004,
+Lunden 6 7361 Ejstrupholm,6,269769.0,28-12-1999,Alm.,1686,6,Villa,160,2002,
+Hygildvej 5 7361 Ejstrupholm,5,3500000.0,28-12-1999,Alm.,11666,9,Villa,300,1900,
+Rønne Alle 6 7361 Ejstrupholm,6,493082.0,28-12-1999,Alm.,0,4,Villa,130,1948,
+Enghavevej 38 7361 Ejstrupholm,38,875000.0,16-12-1999,Alm.,3500,9,Villa,250,1900,
+Byvej 10 7361 Ejstrupholm,10,682375.0,14-12-1999,Fam.,3877,5,Villa,176,1929,
+Byvej 11 7361 Ejstrupholm,11,465000.0,13-12-1999,Alm.,3549,5,Villa,131,1938,
+Stationsvej 15 7361 Ejstrupholm,15,776000.0,03-12-1999,Alm.,5834,5,Villa,133,1934,
+Møllebakken 9 7361 Ejstrupholm,9,190000.0,18-11-1999,Alm.,1151,6,Villa,165,2006,
+Ikastvej 89 7361 Ejstrupholm,89,4700000.0,04-11-1999,Alm.,20171,12,Stuehus,233,1960,
+Brogade 13 7361 Ejstrupholm,13,380000.0,07-10-1999,Alm.,2753,3,Villa,138,1947,
+Stationsvej 13 7361 Ejstrupholm,13,306027.0,22-09-1999,Alm.,2409,5,Villa,127,1965,
+Smedebækvej 35 7361 Ejstrupholm,35,428000.0,17-09-1999,Alm.,3890,4,Villa,110,1954,
+Skovvænget 5 7361 Ejstrupholm,5,280000.0,06-09-1999,Fam.,3414,3,Villa,82,1949,
+Engvej 3 7361 Ejstrupholm,3,193161.0,06-09-1999,Auktion,2170,4,Villa,89,1957,
+Lunden 3 7361 Ejstrupholm,3,290218.0,11-08-1999,Alm.,0,9,Villa,204,2000,
+Ikastvej 59 7361 Ejstrupholm,59,375000.0,06-08-1999,Alm.,3260,4,Villa,115,1935,
+Bøgevænget 7 7361 Ejstrupholm,7,400000.0,30-07-1999,Alm.,4081,4,Villa,98,1954,
+Østergade 66 7361 Ejstrupholm,66,1607450.0,21-06-1999,Andet,7691,6,Rækkehus,209,1964,
+Østergade 27 7361 Ejstrupholm,27,635000.0,15-06-1999,Alm.,5381,4,Villa,118,1930,
+Grønningen 30 7361 Ejstrupholm,30,382500.0,31-05-1999,Alm.,0,3,Villa,110,1960,
+Lærkevej 25 7361 Ejstrupholm,25,540000.0,21-05-1999,Alm.,6000,3,Villa,90,1969,
+Rørbækvej 27 7361 Ejstrupholm,27,204000.0,17-05-1999,Fam.,2615,4,Sommerhus,78,1969,
+Isenbjergvej 9 7361 Ejstrupholm,9,575000.0,27-04-1999,Alm.,4914,4,Villa,117,1966,
+Smedebækvej 17 7361 Ejstrupholm,17,346129.0,26-04-1999,Alm.,3845,3,Villa,90,1945,
+Birkevej 108 7361 Ejstrupholm,108,158510.0,07-04-1999,Alm.,644,8,Villa,246,2000,
+Birkevej 112 7361 Ejstrupholm,112,121500.0,06-04-1999,Alm.,759,5,Villa,160,1999,
+Hybenvej 2 7361 Ejstrupholm,2,620000.0,30-03-1999,Fam.,4626,4,Villa,134,1973,
+Smedevænget 7 7361 Ejstrupholm,7,611000.0,23-03-1999,Alm.,4811,5,Villa,127,1948,
+Ikastvej 63 7361 Ejstrupholm,63,353000.0,23-03-1999,Alm.,4011,3,Villa,88,1952,
+Møllevejen 13 7361 Ejstrupholm,13,410626.0,22-03-1999,Fam.,2851,7,Villa,144,1964,
+Hjøllundvej 18 7361 Ejstrupholm,18,450000.0,08-03-1999,Alm.,0,5,Villa,99,1934,
+Ågade 1A 7361 Ejstrupholm,0,872245.0,04-03-1999,Alm.,7519,4,Villa,116,1990,
+Enghavevej 6 7361 Ejstrupholm,6,2641590.0,19-01-1999,Alm.,19567,6,Villa,135,1967,
+Møllevejen 5 7361 Ejstrupholm,5,485000.0,29-12-1998,Alm.,4532,4,Villa,107,1962,
+Rørbækvej 60 7361 Ejstrupholm,60,331000.0,17-12-1998,Alm.,2546,4,Villa,130,1967,
+Lærkevej 13 7361 Ejstrupholm,13,780000.0,13-11-1998,Alm.,6093,4,Villa,128,1965,
+Stationsvej 9 7361 Ejstrupholm,9,528000.0,12-11-1998,Alm.,3320,7,Villa,159,1963,
+Østergade 52 7361 Ejstrupholm,52,618000.0,30-10-1998,Alm.,6943,3,Rækkehus,89,1984,
+Rønslundevej 12 7361 Ejstrupholm,12,591578.0,30-10-1998,Alm.,0,5,Villa,165,1927,
+Bøgevænget 3 7361 Ejstrupholm,3,550000.0,29-10-1998,Fam.,3179,5,Villa,173,1937,
+Fasterholtvej 5 7361 Ejstrupholm,5,1451000.0,13-10-1998,Alm.,6748,5,Stuehus,215,1949,
+Ågade 5 7361 Ejstrupholm,5,545000.0,02-10-1998,Alm.,5093,3,Villa,107,1957,
+Stationsvej 23 7361 Ejstrupholm,23,295000.0,07-09-1998,Alm.,2836,3,Villa,104,1943,
+Bakkedraget 7 7361 Ejstrupholm,7,783860.0,01-08-1998,Alm.,4354,5,Villa,180,1972,
+Birkevej 114 7361 Ejstrupholm,114,114950.0,29-07-1998,Alm.,692,5,Villa,166,1999,
+Jernbanegade 9 7361 Ejstrupholm,9,958950.0,10-07-1998,Alm.,5543,7,Villa,173,1921,
+Enghavevej 16 7361 Ejstrupholm,16,538980.0,07-07-1998,Alm.,6055,3,Rækkehus,89,1968,
+Østergade 50 7361 Ejstrupholm,50,1076000.0,29-06-1998,Alm.,6941,5,Villa,155,1984,
+Ikastvej 31 7361 Ejstrupholm,31,633560.0,26-06-1998,Alm.,4399,5,Villa,144,1969,
+Birkevej 102 7361 Ejstrupholm,102,106260.0,23-06-1998,Alm.,593,7,Villa,179,1999,
+Søbrinken 34 7361 Ejstrupholm,34,170000.0,20-06-1998,Alm.,12142,2,Sommerhus,14,1946,
+Kirkegade 2 7361 Ejstrupholm,2,220000.0,12-06-1998,Alm.,2391,4,Rækkehus,92,1917,
+Hjøllundvej 37 7361 Ejstrupholm,37,1100000.0,04-06-1998,Alm.,4803,6,Stuehus,229,2006,
+Møllebakken 15 7361 Ejstrupholm,15,950000.0,28-05-1998,Fam.,4797,7,Stuehus,198,1965,
+Lærkevej 33 7361 Ejstrupholm,33,1240500.0,26-05-1998,Alm.,8735,5,Villa,142,1998,
+Østergade 18 7361 Ejstrupholm,18,168127.0,19-05-1998,Alm.,680,5,Villa,247,1905,
+Nyholmvej 2B 7361 Ejstrupholm,0,7846160.0,27-04-1998,Alm.,60355,4,Villa,130,1990,
+Lærkevej 5 7361 Ejstrupholm,5,492500.0,23-04-1998,Alm.,4209,5,Villa,117,1967,
+Gyvelvej 31 7361 Ejstrupholm,31,305000.0,07-04-1998,Alm.,5083,2,Rækkehus,60,1972,
+Pilevænget 2 7361 Ejstrupholm,2,51168.0,03-04-1998,Alm.,355,6,Villa,144,1998,
+Lindevænget 20 7361 Ejstrupholm,20,720000.0,27-02-1998,Fam.,4705,4,Villa,153,1979,
+Rønslundevej 3 7361 Ejstrupholm,3,2000000.0,27-02-1998,Alm.,8849,9,Stuehus,226,1853,
+Stationsvej 17E 7361 Ejstrupholm,0,782000.0,20-02-1998,Alm.,6982,5,Rækkehus,112,1989,
+Møllevejen 6 7361 Ejstrupholm,6,522000.0,30-01-1998,Alm.,0,3,Villa,116,1962,
+Ikastvej 66 7361 Ejstrupholm,66,1100000.0,11-12-1997,Alm.,6395,6,Stuehus,172,1998,
+Isenbjergvej 16B 7361 Ejstrupholm,0,561000.0,01-12-1997,Alm.,6097,3,Stuehus,92,1870,
+Søndergade 36 7361 Ejstrupholm,36,550000.0,23-11-1997,Alm.,5000,4,Villa,110,1953,
+Rørbækvej 33 7361 Ejstrupholm,33,15000.0,05-11-1997,Fam.,0,2,Sommerhus,56,1950,
+Hybenvej 3 7361 Ejstrupholm,3,799890.0,28-10-1997,Alm.,5713,5,Villa,140,1974,
+Givevej 57 7361 Ejstrupholm,57,900000.0,18-10-1997,Alm.,6081,4,Villa,148,1877,
+Lærkevej 27 7361 Ejstrupholm,27,223266.0,09-10-1997,Alm.,1860,5,Villa,120,1964,
+Hedegårdvej 13 7361 Ejstrupholm,13,572119.0,26-09-1997,Alm.,3365,5,Industri o.l.,170,1914,
+Løvbjergvej 15 7361 Ejstrupholm,15,1400000.0,25-09-1997,Fam.,8750,6,Stuehus,160,1911,
+Bjerregårdvej 1 7361 Ejstrupholm,1,3500000.0,08-09-1997,Fam.,12500,10,Stuehus,280,1980,
+Søbrinken 26 7361 Ejstrupholm,26,287483.0,01-09-1997,Alm.,0,3,Sommerhus,106,1990,
+Søndergade 38 7361 Ejstrupholm,38,375000.0,29-08-1997,Alm.,0,6,Villa,208,1945,
+Rønne Alle 10 7361 Ejstrupholm,10,330000.0,03-07-1997,Alm.,2275,4,Villa,145,1948,
+Syrenvej 4 7361 Ejstrupholm,4,834000.0,25-06-1997,Alm.,5346,5,Villa,156,1971,
+Bøgevænget 1 7361 Ejstrupholm,1,517970.0,30-05-1997,Alm.,4110,5,Villa,126,1969,
+Hybenvej 9 7361 Ejstrupholm,9,900000.0,24-05-1997,Alm.,4568,6,Villa,197,1973,
+Smedebækvej 38 7361 Ejstrupholm,38,177110.0,04-05-1997,Andet,0,4,Villa,127,1920,
+Thyregodvej 73 7361 Ejstrupholm,73,550000.0,30-04-1997,Alm.,3666,4,Stuehus,150,2013,
+Givevej 45 7361 Ejstrupholm,45,557840.0,30-04-1997,Alm.,0,6,Villa,173,1875,
+Malmkærvej 13 7361 Ejstrupholm,13,840000.0,18-04-1997,Alm.,6562,4,Stuehus,128,1872,
+Hjøllundvej 8B 7361 Ejstrupholm,0,454385.0,11-04-1997,Alm.,2839,5,Villa,160,1973,
+Byvej 1 7361 Ejstrupholm,1,737500.0,06-02-1997,Alm.,2543,9,Stuehus,290,1980,
+Rønslundevej 25 7361 Ejstrupholm,25,1150000.0,15-01-1997,Fam.,4339,10,Stuehus,265,1877,
+Storgårdvej 2 7361 Ejstrupholm,2,462500.0,02-01-1997,Alm.,1927,7,Stuehus,240,1934,
+Thorlundvej 1 7361 Ejstrupholm,1,270000.0,29-11-1996,Alm.,1800,5,Villa,150,1966,
+Ahornvej 78 7361 Ejstrupholm,78,883000.0,10-10-1996,Alm.,6792,5,Villa,130,1991,
+Brandevej 64 7361 Ejstrupholm,64,1800000.0,01-10-1996,Alm.,12857,3,Stuehus,140,1973,
+Vestergade 48 7361 Ejstrupholm,48,190000.0,16-08-1996,Fam.,2209,4,Villa,86,1950,
+Hjøllundvej 13 7361 Ejstrupholm,13,225000.0,08-08-1996,Alm.,1906,5,Villa,118,1930,
+St Nørlundvej 3 7361 Ejstrupholm,3,270000.0,07-08-1996,Fam.,3000,3,Villa,90,1924,
+St Nørlundvej 1 7361 Ejstrupholm,1,5125000.0,07-08-1996,Fam.,37683,8,Stuehus,136,1940,
+Holmevej 12A 7361 Ejstrupholm,0,1153000.0,31-07-1996,Alm.,5823,5,Villa,198,1976,
+Ikastvej 54 7361 Ejstrupholm,54,255000.0,25-07-1996,Alm.,0,7,Villa,148,1917,
+Hvillumvej 9 7361 Ejstrupholm,9,490000.0,05-07-1996,Alm.,2500,6,Villa,196,1918,
+Vestergade 9 7361 Ejstrupholm,9,455000.0,01-07-1996,Alm.,3345,5,Villa,136,1949,
+Birkevej 90 7361 Ejstrupholm,90,44494.0,28-06-1996,Alm.,254,5,Villa,175,2000,
+Birkevej 72 7361 Ejstrupholm,72,51611.0,26-06-1996,Alm.,294,5,Villa,175,1997,
+Grønningen 22 7361 Ejstrupholm,22,725783.0,25-06-1996,Alm.,4100,8,Villa,177,1976,
+Storgårdvej 3 7361 Ejstrupholm,3,1100000.0,25-06-1996,Alm.,4583,7,Villa,240,1909,
+Hallundbækvej 3 7361 Ejstrupholm,3,750000.0,18-06-1996,Alm.,0,4,Villa,181,1909,
+Rønne Alle 5 7361 Ejstrupholm,5,470000.0,30-05-1996,Alm.,6527,2,Villa,72,1963,
+Birkevænget 9 7361 Ejstrupholm,9,543000.0,18-04-1996,Alm.,3797,4,Villa,143,1972,
+Smedebækvej 13 7361 Ejstrupholm,13,466400.0,22-03-1996,Alm.,4091,5,Villa,114,1946,
+Østergade 21 7361 Ejstrupholm,21,260000.0,22-03-1996,Alm.,2476,5,Rækkehus,105,1900,
+Åbrinken 7 7361 Ejstrupholm,7,755000.0,31-12-1995,Alm.,4718,4,Villa,160,1974,
+Thyregodvej 78 7361 Ejstrupholm,78,573000.0,09-12-1995,Alm.,3312,5,Villa,173,1979,
+Lindevænget 44 7361 Ejstrupholm,44,525000.0,28-11-1995,Alm.,2916,7,Villa,180,1978,
+Ikastvej 77 7361 Ejstrupholm,77,210000.0,15-11-1995,Alm.,1242,5,Villa,169,1930,
+Givevej 48 7361 Ejstrupholm,48,650000.0,26-10-1995,Alm.,3611,7,Villa,180,1916,
+Engvej 8 7361 Ejstrupholm,8,664000.0,29-09-1995,Alm.,2778,6,Stuehus,239,2005,
+Lærkevej 12 7361 Ejstrupholm,12,580000.0,13-09-1995,Alm.,3866,4,Villa,150,1972,
+Søndergade 11 7361 Ejstrupholm,11,538981.0,13-07-1995,Alm.,2603,6,Rækkehus,207,1915,
+Mælkevejen 4 7361 Ejstrupholm,4,450000.0,09-06-1995,Alm.,4591,4,Villa,98,1988,
+Ikastvej 4 7361 Ejstrupholm,4,921000.0,08-06-1995,Alm.,3952,8,Stuehus,233,1977,
+Vandværksvej 11 7361 Ejstrupholm,11,240000.0,02-06-1995,Alm.,3157,4,Villa,76,1958,
+Ikastvej 60 7361 Ejstrupholm,60,400250.0,23-05-1995,Alm.,2187,6,Stuehus,183,2005,
+Vestergade 43 7361 Ejstrupholm,43,750000.0,28-04-1995,Alm.,3750,7,Villa,200,1972,
+Søbrinken 6 7361 Ejstrupholm,6,600000.0,15-03-1995,Fam.,3658,6,Villa,164,1975,
+Smedebækvej 25 7361 Ejstrupholm,25,315000.0,29-01-1995,Alm.,0,6,Villa,144,1965,
+Smedebækvej 6 7361 Ejstrupholm,6,100000.0,02-12-1994,Alm.,1428,3,Villa,70,1937,
+Fasterholtvej 16 7361 Ejstrupholm,16,757000.0,22-11-1994,Alm.,0,4,Stuehus,170,1907,
+Søbrinken 3 7361 Ejstrupholm,3,200000.0,14-11-1994,Fam.,1226,5,Villa,163,1953,
+Bøgevænget 12 7361 Ejstrupholm,12,35000.0,01-11-1994,Alm.,507,3,Villa,69,1943,
+Gyvelvej 18 7361 Ejstrupholm,18,515000.0,07-10-1994,Alm.,4153,4,Villa,124,1974,
+Brandevej 27 7361 Ejstrupholm,27,390595.0,04-09-1994,Alm.,2789,5,Villa,140,1964,
+Thorlundvej 16 7361 Ejstrupholm,16,900000.0,08-08-1994,Alm.,0,5,Stuehus,159,2008,
+Tykskovvej 30 7361 Ejstrupholm,30,1020000.0,28-06-1994,Fam.,0,7,Stuehus,212,1875,
+Lindevænget 8 7361 Ejstrupholm,8,665000.0,23-06-1994,Alm.,3410,7,Villa,195,1974,
+Østergade 9B 7361 Ejstrupholm,0,325000.0,15-05-1994,Fam.,0,12,Villa,314,1910,
+Holmegårdsvej 10 7361 Ejstrupholm,10,232067.0,10-05-1994,Fam.,1008,8,Villa,230,1892,
+Smedebækvej 1 7361 Ejstrupholm,1,120000.0,03-05-1994,Alm.,1142,5,Villa,105,1892,
+Smedebækvej 7 7361 Ejstrupholm,7,115000.0,19-04-1994,Alm.,0,5,Villa,162,1923,
+Poppelvej 6 7361 Ejstrupholm,6,520000.0,22-03-1994,Alm.,3909,5,Villa,133,1975,
+Lindevænget 58 7361 Ejstrupholm,58,740000.0,13-03-1994,Alm.,3627,5,Villa,204,1976,
+Lindevænget 21 7361 Ejstrupholm,21,500000.0,25-02-1994,Alm.,3521,4,Villa,142,1979,
+Enghavevej 45 7361 Ejstrupholm,45,1270000.0,15-02-1994,Alm.,8466,4,Stuehus,150,1972,
+Byvej 19 7361 Ejstrupholm,19,150000.0,07-02-1994,Fam.,1250,5,Villa,120,1931,
+Østergade 23 7361 Ejstrupholm,23,200000.0,24-01-1994,Alm.,1459,3,Villa,137,1912,
+Givevej 40 7361 Ejstrupholm,40,235000.0,14-12-1993,Alm.,1487,5,Villa,158,1960,
+Bøgevænget 16 7361 Ejstrupholm,16,355000.0,25-11-1993,Alm.,2649,4,Villa,134,2012,
+Lærkevej 3 7361 Ejstrupholm,3,321000.0,29-10-1993,Fam.,0,6,Villa,178,1967,
+Isenbjergvej 21 7361 Ejstrupholm,21,400000.0,28-10-1993,Auktion,1754,7,Stuehus,228,1998,
+Nørrevang 17 7361 Ejstrupholm,17,45000.0,16-09-1993,Fam.,1551,3,Sommerhus,29,1962,
+Jernbanegade 8 7361 Ejstrupholm,8,420000.0,10-09-1993,Alm.,2896,4,Villa,145,1955,
+Lærkevej 7 7361 Ejstrupholm,7,433000.0,26-08-1993,Alm.,3936,4,Villa,110,1969,
+Krejbjergvej 9 7361 Ejstrupholm,9,700000.0,26-08-1993,Auktion,0,6,Stuehus,184,1913,
+Ikastvej 33 7361 Ejstrupholm,33,226858.0,16-07-1993,Alm.,4537,3,Villa,50,1947,
+Tykskovvej 12 7361 Ejstrupholm,12,70000.0,01-06-1993,Fam.,2000,2,Villa,35,1956,
+Enghavevej 2 7361 Ejstrupholm,2,578000.0,21-04-1993,Alm.,0,5,Villa,151,1979,
+Hedegårdvej 6 7361 Ejstrupholm,6,390000.0,26-03-1993,Alm.,3095,5,Villa,126,1877,
+"Østergade 1, 1 7361 Ejstrupholm",1,2325000.0,12-03-1993,Alm.,0,8,Lejlighed,305,1940,
+Hygildvej 13 7361 Ejstrupholm,13,793000.0,11-03-1993,Alm.,0,6,Stuehus,184,1885,
+Østergårdsvej 2 7361 Ejstrupholm,2,530000.0,29-01-1993,Alm.,3758,4,Villa,141,1992,
+Hallundbækvej 14 7361 Ejstrupholm,14,1675000.0,12-01-1993,Alm.,7477,9,Stuehus,224,1850,
+Rønne Alle 1 7361 Ejstrupholm,1,387500.0,31-12-1992,Alm.,2105,6,Villa,184,1941,
+Tykskovvej 19 7361 Ejstrupholm,19,399000.0,21-12-1992,Alm.,0,7,Villa,247,1900,
+Smedebækvej 27 7361 Ejstrupholm,27,275000.0,28-10-1992,Alm.,2619,4,Villa,105,1960,
+Hedegårdvej 30 7361 Ejstrupholm,30,550000.0,24-09-1992,Alm.,6875,2,Villa,80,1942,
+Søndergade 14 7361 Ejstrupholm,14,595000.0,18-09-1992,Fam.,2874,9,Villa,207,1898,
+Thorlundvej 12 7361 Ejstrupholm,12,180000.0,08-09-1992,Andet,1894,5,Villa,95,1948,
+Ikastvej 48 7361 Ejstrupholm,48,175000.0,08-09-1992,Alm.,0,4,Villa,115,1930,
+Østergade 34 7361 Ejstrupholm,34,600000.0,28-08-1992,Fam.,2158,9,Villa,278,1924,
+Ågade 3 7361 Ejstrupholm,3,220000.0,09-07-1992,Alm.,2820,4,Villa,78,1959,
+Ikastvej 71 7361 Ejstrupholm,71,200000.0,01-06-1992,Alm.,1428,4,Villa,140,1928,
+Nørrevang 25 7361 Ejstrupholm,25,450000.0,22-05-1992,Fam.,3515,6,Villa,128,1972,
+Kirkegade 12 7361 Ejstrupholm,12,400000.0,18-05-1992,Alm.,3636,4,Villa,110,1947,
+Vestergade 40 7361 Ejstrupholm,40,430000.0,14-05-1992,Alm.,4479,4,Villa,96,1952,
+Rønne Alle 14 7361 Ejstrupholm,14,320000.0,12-05-1992,Alm.,4210,2,Villa,76,1947,
+Vestervang 9 7361 Ejstrupholm,9,535000.0,28-04-1992,Fam.,4314,3,Villa,124,1973,
+Brogade 3 7361 Ejstrupholm,3,290134.0,19-04-1992,Fam.,0,4,Villa,172,1942,
+Lindevænget 26 7361 Ejstrupholm,26,550000.0,12-04-1992,Alm.,0,5,Villa,139,1979,
+Ikastvej 61 7361 Ejstrupholm,61,410000.0,11-04-1992,Alm.,0,9,Villa,206,1939,
+Møllebakken 13 7361 Ejstrupholm,13,456986.0,05-03-1992,Fam.,2803,7,Stuehus,163,1908,
+Holmevej 3 7361 Ejstrupholm,3,950000.0,04-02-1992,Alm.,3584,7,Villa,265,1972,
+Fasterholtvej 15 7361 Ejstrupholm,15,1600000.0,03-01-1992,Fam.,9248,5,Stuehus,173,1915,

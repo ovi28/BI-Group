@@ -1,0 +1,356 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Solvej 46 3330 Gørløse,46,2995000.0,05-04-2017,Alm.,20655,6,Villa,145,2003,
+Lystrupvej 25 3330 Gørløse,25,231799.0,29-03-2017,Andet,1063,8,Stuehus,218,1875,
+Engvej 21 3330 Gørløse,21,231799.0,29-03-2017,Andet,836,6,Stuehus,277,1800,
+Granbakken 8 3330 Gørløse,8,1354209.0,28-03-2017,Fam.,10106,4,Rækkehus,134,1955,
+Gørløsegårdsvej 26 3330 Gørløse,26,2045000.0,20-03-2017,Alm.,12781,5,Villa,160,2017,
+Kurreholmvej 43 3330 Gørløse,43,1966886.0,15-03-2017,Fam.,10352,8,Stuehus,190,1900,
+Åkærvej 2 3330 Gørløse,2,3700000.0,12-02-2017,Alm.,19371,6,Villa,191,1998,
+Kurreholmvej 9 3330 Gørløse,9,1645000.0,19-01-2017,Alm.,11750,6,Villa,140,1962,0 %
+Kurreholmvej 45 3330 Gørløse,45,4400000.0,13-01-2017,Alm.,30136,5,Villa,146,1934,-6 %
+Skolestrædet 1 3330 Gørløse,1,1100000.0,21-12-2016,Alm.,7333,5,Villa,150,1956,-19 %
+Stationsvej 13 3330 Gørløse,13,1650000.0,16-11-2016,Alm.,11619,5,Villa,142,1952,0 %
+Kurreholmvej 38 3330 Gørløse,38,1640000.0,17-10-2016,Alm.,15619,4,Stuehus,105,1875,
+Gadekærsvej 12 3330 Gørløse,12,1695000.0,25-09-2016,Alm.,15000,4,Rækkehus,113,1985,0 %
+Hovedvejen 27 3330 Gørløse,27,1550000.0,05-09-2016,Alm.,16666,4,Villa,93,1937,-3 %
+Rosenvej 4 3330 Gørløse,4,1400000.0,16-08-2016,Alm.,10144,3,Villa,138,1963,-17 %
+Anemonevej 8 3330 Gørløse,8,2725000.0,15-08-2016,Alm.,11260,7,Villa,242,1972,-1 %
+Kurreholmvej 32 3330 Gørløse,32,4025000.0,12-08-2016,Alm.,28956,5,Stuehus,139,1968,-4 %
+Thomasmindevej 2 3330 Gørløse,2,2700000.0,10-06-2016,Alm.,17088,6,Villa,158,1900,-3 %
+Gørløsegårdsvej 11 3330 Gørløse,11,845000.0,26-05-2016,Alm.,5992,6,Villa,141,2016,
+Gørløsegårdsvej 3 3330 Gørløse,3,845000.0,23-05-2016,Alm.,4668,6,Villa,181,2017,
+Rosenkildeparken 11 3330 Gørløse,11,1390000.0,20-05-2016,Alm.,16746,3,Rækkehus,83,1985,-9 %
+Solvej 6 3330 Gørløse,6,2595000.0,04-05-2016,Alm.,19961,5,Villa,130,2005,0 %
+Hovedvejen 13 3330 Gørløse,13,722300.0,03-05-2016,Auktion,7081,4,Villa,102,1877,
+Hovedvejen 10F 3330 Gørløse,0,1195000.0,20-04-2016,Alm.,18384,2,Rækkehus,65,1983,-8 %
+Damgårdsvej 2 3330 Gørløse,2,2350000.0,31-03-2016,Alm.,18650,4,Villa,126,1970,-6 %
+Gørløsegårdsvej 4 3330 Gørløse,4,895000.0,14-03-2016,Alm.,5774,5,Villa,155,2016,
+Gammel Engvej 6A 3330 Gørløse,0,2570000.0,10-03-2016,Alm.,16369,6,Villa,157,1938,-8 %
+Solvej 27 3330 Gørløse,27,1795000.0,14-02-2016,Alm.,17427,4,Rækkehus,103,2003,
+Solvej 40 3330 Gørløse,40,2120000.0,11-02-2016,Alm.,15251,5,Villa,139,1999,-11 %
+Lystrupvej 31 3330 Gørløse,31,4950000.0,08-02-2016,Alm.,20286,10,Stuehus,244,1909,
+Gørløsegårdsvej 6 3330 Gørløse,6,895000.0,21-01-2016,Alm.,6392,5,Villa,140,2017,
+Gadekærsvej 6 3330 Gørløse,6,1450000.0,29-12-2015,Alm.,12831,4,Rækkehus,113,1985,-3 %
+Kurreholmvej 21 3330 Gørløse,21,2250000.0,11-12-2015,Alm.,15202,5,Villa,148,1970,-6 %
+Damgårdsvej 4 3330 Gørløse,4,2150000.0,30-11-2015,Fam.,12647,8,Villa,170,1969,
+Gørløsegårdsvej 37 3330 Gørløse,37,845000.0,24-11-2015,Alm.,5487,6,Villa,154,2017,
+Rosenkildeparken 4 3330 Gørløse,4,1400000.0,22-11-2015,Alm.,14736,4,Rækkehus,95,1985,-6 %
+Engvej 47 3330 Gørløse,47,2550000.0,20-11-2015,Alm.,15454,5,Villa,165,1992,-9 %
+Solvej 33 3330 Gørløse,33,1765000.0,19-11-2015,Alm.,17135,4,Rækkehus,103,2003,-2 %
+Amalievej 10 3330 Gørløse,10,1795000.0,19-11-2015,Alm.,12046,5,Villa,149,1966,0 %
+Gørløsegårdsvej 12 3330 Gørløse,12,895000.0,03-11-2015,Alm.,5490,5,Villa,163,2016,
+Gørløsegårdsvej 28 3330 Gørløse,28,732000.0,28-10-2015,Alm.,7320,2,Villa,100,2016,
+Gørløsegårdsvej 13 3330 Gørløse,13,845000.0,05-10-2015,Alm.,5633,6,Villa,150,2016,
+Strøvej 99 3330 Gørløse,99,3600000.0,28-09-2015,Alm.,15319,7,Stuehus,235,1924,-10 %
+Åkærvej 4 3330 Gørløse,4,6000000.0,14-09-2015,Alm.,25104,8,Stuehus,239,1923,
+Hovedvejen 1C 3330 Gørløse,0,75720.0,31-08-2015,Alm.,322,13,Stuehus,235,1948,
+Th. Petersens Vej 25 3330 Gørløse,25,2700000.0,26-08-2015,Alm.,15428,7,Villa,175,2006,-3 %
+Vinkelvænget 19 3330 Gørløse,19,1000000.0,24-08-2015,Alm.,8620,4,Villa,116,1943,
+Hovedvejen 6 3330 Gørløse,6,1900000.0,21-08-2015,Alm.,21348,3,Villa,89,1952,
+Th. Petersens Vej 3 3330 Gørløse,3,840443.0,15-08-2015,Andet,6225,4,Rækkehus,135,2007,
+Kurreholmvej 8 3330 Gørløse,8,1400000.0,13-08-2015,Alm.,14583,4,Villa,96,1962,-6 %
+Langebjergvej 4 3330 Gørløse,4,1200000.0,17-07-2015,Fam.,5504,6,Villa,218,1982,
+Gørløsegårdsvej 22 3330 Gørløse,22,895000.0,02-07-2015,Alm.,5327,5,Villa,168,2016,
+Stationsvej 3 3330 Gørløse,3,1795000.0,24-06-2015,Alm.,13102,5,Villa,137,1952,0 %
+Solvej 48 3330 Gørløse,48,2695000.0,16-06-2015,Alm.,17614,6,Villa,153,2004,0 %
+Borupvej 71 3330 Gørløse,71,5075000.0,11-06-2015,Alm.,23173,6,Stuehus,219,1877,-4 %
+Skolestrædet 6 3330 Gørløse,6,1595000.0,23-05-2015,Alm.,16789,4,Villa,95,1939,-6 %
+Amalievej 7 3330 Gørløse,7,2100000.0,01-04-2015,Alm.,13907,6,Villa,151,1966,-7 %
+Kurreholmvej 1 3330 Gørløse,1,1235000.0,30-03-2015,Alm.,11435,4,Villa,108,1961,-5 %
+Kurreholmvej 25 3330 Gørløse,25,1200000.0,29-03-2015,Alm.,8333,4,Villa,144,1976,21 %
+Damgårdsvej 11 3330 Gørløse,11,1700000.0,11-03-2015,Alm.,14655,5,Villa,116,1970,-3 %
+Solvej 74 3330 Gørløse,74,2200000.0,25-02-2015,Alm.,18803,5,Villa,117,2003,-4 %
+Lystrupvej 5 3330 Gørløse,5,800000.0,22-01-2015,Alm.,8888,5,Rækkehus,90,1876,-11 %
+Gørløsegårdsvej 18 3330 Gørløse,18,850000.0,05-01-2015,Alm.,4696,5,Villa,181,2016,
+Gørløsegårdsvej 31 3330 Gørløse,31,800000.0,05-01-2015,Alm.,3375,7,Villa,237,2015,
+Gørløsegårdsvej 20 3330 Gørløse,20,850000.0,12-12-2014,Alm.,4521,6,Villa,188,2016,
+Gørløsegårdsvej 35 3330 Gørløse,35,800000.0,12-12-2014,Alm.,6153,5,Villa,130,2016,
+Borupvej 72 3330 Gørløse,72,1408477.0,01-12-2014,Alm.,5633,6,Stuehus,250,2012,
+Vinkelvænget 9 3330 Gørløse,9,865592.0,30-10-2014,Alm.,6607,6,Villa,131,1997,-62 %
+Kurreholmvej 42 3330 Gørløse,42,2500000.0,22-10-2014,Alm.,20000,4,Stuehus,125,1972,
+Roskildevej 209 3330 Gørløse,209,2295000.0,16-09-2014,Alm.,12893,4,Villa,178,1930,-4 %
+Solvej 45 3330 Gørløse,45,1735000.0,04-09-2014,Alm.,16682,3,Rækkehus,104,2003,
+Kurreholmvej 10 3330 Gørløse,10,1575000.0,19-08-2014,Alm.,7954,8,Villa,198,1971,-10 %
+Erantisvej 9 3330 Gørløse,9,1950000.0,10-07-2014,Alm.,12187,5,Villa,160,1967,-11 %
+Borupvej 70 3330 Gørløse,70,1385000.0,04-07-2014,Alm.,6266,6,Villa,221,1900,-7 %
+Th. Petersens Vej 15 3330 Gørløse,15,1050000.0,19-06-2014,Alm.,7608,4,Rækkehus,138,2007,
+Solvej 30 3330 Gørløse,30,2605000.0,29-04-2014,Alm.,15884,6,Villa,164,2005,-3 %
+Gadekærsvej 10 3330 Gørløse,10,1625000.0,24-04-2014,Alm.,14380,4,Rækkehus,113,1985,0 %
+Granbakken 6 3330 Gørløse,6,1300000.0,10-04-2014,Alm.,9774,3,Rækkehus,133,1955,-28 %
+Violvej 3 3330 Gørløse,3,2000000.0,07-02-2014,Alm.,13793,5,Villa,145,1970,-5 %
+Th. Petersens Vej 9 3330 Gørløse,9,2250000.0,15-12-2013,Alm.,15202,5,Rækkehus,148,2007,-4 %
+Granbakken 10 3330 Gørløse,10,1400000.0,23-10-2013,Alm.,10447,4,Rækkehus,134,1955,-14 %
+Solvej 52 3330 Gørløse,52,2295000.0,10-10-2013,Alm.,14806,6,Villa,155,2003,0 %
+Amalievej 25 3330 Gørløse,25,1500000.0,10-09-2013,Alm.,9090,6,Villa,165,1966,-12 %
+Amalievej 19 3330 Gørløse,19,1520000.0,27-08-2013,Alm.,10133,6,Villa,150,1966,-10 %
+Gadekærsvej 1 3330 Gørløse,1,2555000.0,16-08-2013,Alm.,17620,4,Villa,145,1998,-5 %
+Stationsvej 17 3330 Gørløse,17,1075000.0,01-08-2013,Alm.,11197,4,Villa,96,1953,-7 %
+Gadekærsvej 4 3330 Gørløse,4,1395000.0,17-07-2013,Alm.,12345,4,Rækkehus,113,1985,0 %
+Solvej 23 3330 Gørløse,23,1640000.0,12-07-2013,Alm.,15769,4,Rækkehus,104,2003,
+Kurreholmvej 20 3330 Gørløse,20,2185000.0,11-07-2013,Alm.,12206,5,Villa,179,1977,-5 %
+Gammel Kurreholmvej 1A 3330 Gørløse,0,716000.0,19-06-2013,Alm.,10228,3,Villa,70,1964,-15 %
+Kurreholmvej 30 3330 Gørløse,30,3295000.0,14-06-2013,Alm.,14977,6,Villa,220,1968,-3 %
+Rosenvej 2 3330 Gørløse,2,698000.0,13-06-2013,Auktion,2457,10,Villa,284,1963,-30 %
+Granbakken 12 3330 Gørløse,12,1625000.0,10-06-2013,Alm.,12126,4,Rækkehus,134,1955,-6 %
+Granbakken 4 3330 Gørløse,4,1850000.0,22-05-2013,Alm.,13805,4,Rækkehus,134,1955,-5 %
+Lystrupvej 20 3330 Gørløse,20,10925000.0,24-04-2013,Alm.,52023,5,Stuehus,210,1922,
+Gadekærsvej 3A 3330 Gørløse,0,1350000.0,22-04-2013,Alm.,9507,5,Villa,142,1970,-9 %
+Solvej 44 3330 Gørløse,44,2450000.0,27-03-2013,Alm.,14244,6,Villa,172,2003,
+Hovedvejen 1B 3330 Gørløse,0,3100000.0,27-03-2013,Alm.,30392,3,Stuehus,102,1973,-6 %
+Hovedvejen 39 3330 Gørløse,39,870000.0,14-11-2012,Alm.,9062,3,Villa,96,1936,-3 %
+Solvej 51 3330 Gørløse,51,1575000.0,11-10-2012,Alm.,15291,4,Rækkehus,103,2003,
+Solvej 39 3330 Gørløse,39,1550000.0,26-09-2012,Alm.,14903,4,Rækkehus,104,2003,-3 %
+Gammel Kurreholmvej 3 3330 Gørløse,3,1350000.0,25-09-2012,Alm.,7068,5,Villa,191,2014,
+Th. Petersens Vej 18 3330 Gørløse,18,2450000.0,21-09-2012,Alm.,15217,5,Villa,161,2006,-2 %
+Violvej 6 3330 Gørløse,6,1450000.0,24-08-2012,Alm.,10984,4,Villa,132,1971,-12 %
+Borupvej 76 3330 Gørløse,76,921462.0,17-08-2012,Alm.,8775,4,Villa,105,1877,
+Strøvej 88 3330 Gørløse,88,3500000.0,19-06-2012,Alm.,14462,6,Stuehus,242,1900,0 %
+Amalievej 18 3330 Gørløse,18,1200000.0,22-05-2012,Alm.,12000,4,Villa,100,1967,-9 %
+Kurreholmvej 41 3330 Gørløse,41,4875000.0,14-05-2012,Alm.,22159,5,Villa,220,1968,-6 %
+Vinkelvænget 10 3330 Gørløse,10,750000.0,01-05-2012,Alm.,7500,4,Villa,100,1946,
+Gammel Engvej 12 3330 Gørløse,12,850000.0,29-04-2012,Andet,7870,3,Villa,108,1961,
+Stationsvej 7 3330 Gørløse,7,1020000.0,23-02-2012,Auktion,8571,4,Villa,119,1951,
+Lystrupvej 15 3330 Gørløse,15,985000.0,15-02-2012,Alm.,10154,4,Villa,97,1960,-1 %
+Th. Petersens Vej 24 3330 Gørløse,24,2450000.0,06-01-2012,Alm.,15217,5,Villa,161,2007,-2 %
+Gadekærsvej 5 3330 Gørløse,5,1495000.0,14-11-2011,Alm.,7910,6,Villa,189,1967,0 %
+Gammel Engvej 18 3330 Gørløse,18,1400000.0,28-10-2011,Alm.,10294,4,Villa,136,1968,
+Th. Petersens Vej 20 3330 Gørløse,20,2845000.0,27-10-2011,Alm.,17670,5,Villa,161,2006,
+Gammel Kurreholmvej 1 3330 Gørløse,1,2425000.0,26-10-2011,Alm.,16958,5,Villa,143,1997,
+Solvej 56 3330 Gørløse,56,2850000.0,19-10-2011,Alm.,19256,5,Villa,148,2003,-5 %
+Stationsvej 5 3330 Gørløse,5,1274000.0,03-10-2011,Alm.,12490,4,Villa,102,1952,-15 %
+Th. Petersens Vej 2 3330 Gørløse,2,2075000.0,21-09-2011,Alm.,11857,7,Villa,175,2006,4 %
+Vinkelvænget 17 3330 Gørløse,17,1110000.0,01-07-2011,Alm.,14230,4,Villa,78,1943,
+Strøvej 100 3330 Gørløse,100,1300000.0,10-05-2011,Auktion,8074,5,Villa,161,1969,
+Strøvej 109 3330 Gørløse,109,2100000.0,06-05-2011,Alm.,14893,4,Villa,141,2016,-4 %
+Engvej 25 3330 Gørløse,25,1455000.0,26-04-2011,Auktion,9267,4,Villa,157,1975,
+Rosenvej 3 3330 Gørløse,3,1195000.0,18-04-2011,Alm.,12849,3,Villa,93,1961,0 %
+Engvej 37 3330 Gørløse,37,1760000.0,12-04-2011,Auktion,8461,7,Rækkehus,208,1969,
+Rosenkildeparken 12 3330 Gørløse,12,1345000.0,11-04-2011,Alm.,16011,3,Rækkehus,84,1985,0 %
+Borupvej 75 3330 Gørløse,75,779000.0,19-03-2011,Fam.,6182,5,Villa,126,1971,-57 %
+Egholm 4 3330 Gørløse,4,2315000.0,11-03-2011,Alm.,19786,4,Stuehus,117,1800,
+Granstien 3 3330 Gørløse,3,1650000.0,09-02-2011,Auktion,11785,4,Rækkehus,140,1964,
+Roskildevej 211 3330 Gørløse,211,1939336.0,28-01-2011,Andet,14259,6,Villa,136,1876,
+Borupvej 94 3330 Gørløse,94,607400.0,27-01-2011,Alm.,0,0,Grund,0,0,-13 %
+Borupvej 96 3330 Gørløse,96,605100.0,27-01-2011,Alm.,0,0,Grund,0,0,-13 %
+Irisvej 4 3330 Gørløse,4,1179982.0,24-01-2011,Fam.,8550,5,Villa,138,1962,
+Solvej 76 3330 Gørløse,76,2645000.0,15-12-2010,Alm.,18241,6,Villa,145,2003,-4 %
+Kurreholmvej 12 3330 Gørløse,12,1400000.0,15-12-2010,Auktion,10606,5,Villa,132,1967,
+Solvej 72 3330 Gørløse,72,1175000.0,08-12-2010,Fam.,8103,6,Villa,145,2003,
+Amalievej 5 3330 Gørløse,5,1445000.0,27-10-2010,Alm.,14450,3,Villa,100,1967,-6 %
+Violvej 7 3330 Gørløse,7,2295000.0,15-07-2010,Alm.,12405,5,Villa,185,1971,0 %
+Hovedvejen 50 3330 Gørløse,50,1505000.0,29-06-2010,Alm.,8801,6,Villa,171,2012,-16 %
+Solvej 66 3330 Gørløse,66,2225000.0,06-05-2010,Alm.,17115,5,Villa,130,2004,-7 %
+Løngangen 4 3330 Gørløse,4,1000000.0,02-05-2010,Alm.,12345,3,Villa,81,1950,
+Borupvej 80A 3330 Gørløse,0,4000000.0,26-03-2010,Alm.,34188,4,Villa,117,1967,
+Rosenkildeparken 2 3330 Gørløse,2,1550000.0,22-03-2010,Alm.,16315,4,Rækkehus,95,1985,-9 %
+Lystrupvej 21 3330 Gørløse,21,600000.0,03-03-2010,Fam.,3191,8,Villa,188,1955,
+Granbakken 1 3330 Gørløse,1,4200000.0,02-03-2010,Alm.,21000,5,Stuehus,200,1867,-7 %
+Strøvej 112 3330 Gørløse,112,570000.0,03-02-2010,Auktion,4913,5,Villa,116,1827,
+Th. Petersens Vej 10 3330 Gørløse,10,2400000.0,26-01-2010,Alm.,16438,5,Villa,146,2006,
+Strøvej 97 3330 Gørløse,97,1595000.0,22-01-2010,Alm.,0,10,Villa,220,1920,0 %
+Solvej 12 3330 Gørløse,12,275000.0,10-11-2009,Andet,2052,5,Villa,134,2005,-90 %
+Bakkegårdsvej 1 3330 Gørløse,1,7000000.0,03-11-2009,Alm.,33333,7,Stuehus,210,1925,-29 %
+Solvej 20 3330 Gørløse,20,2900000.0,03-11-2009,Alm.,17682,5,Villa,164,2006,-3 %
+Solvej 25 3330 Gørløse,25,1645000.0,03-11-2009,Alm.,15970,3,Rækkehus,103,2003,0 %
+Rosenkildeparken 9 3330 Gørløse,9,1570000.0,23-09-2009,Alm.,16526,4,Rækkehus,95,1985,-5 %
+Gammel Engvej 15B 3330 Gørløse,0,1500000.0,12-08-2009,Auktion,7614,6,Villa,197,2005,
+Gammel Engvej 13 3330 Gørløse,13,1447000.0,04-08-2009,Auktion,10718,4,Villa,135,1976,
+Gammel Engvej 4 3330 Gørløse,4,1725000.0,07-07-2009,Alm.,12321,5,Villa,140,1980,-4 %
+Vinkelvænget 3 3330 Gørløse,3,976262.0,01-07-2009,Fam.,13750,3,Villa,71,1945,
+"Hovedvejen 20, 1 3330 Gørløse",1,1360000.0,26-05-2009,Auktion,0,2,Lejlighed,65,1877,
+Gadekærsvej 7 3330 Gørløse,7,1700000.0,30-04-2009,Alm.,12686,4,Villa,134,2001,-5 %
+Hovedvejen 10A 3330 Gørløse,0,1457566.0,03-02-2009,Auktion,6779,8,Villa,215,1800,-34 %
+Th. Petersens Vej 8 3330 Gørløse,8,2500000.0,26-01-2009,Alm.,14450,8,Villa,173,2006,-17 %
+Roskildevej 104 3330 Gørløse,104,1400000.0,27-10-2008,Andet,7692,6,Stuehus,182,1855,
+Engvej 32 3330 Gørløse,32,2895000.0,13-10-2008,Alm.,18439,5,Villa,157,1971,
+Solvej 29 3330 Gørløse,29,2040000.0,24-09-2008,Alm.,19615,4,Rækkehus,104,2003,-7 %
+Hovedvejen 4 3330 Gørløse,4,1350000.0,25-08-2008,Alm.,15168,3,Villa,89,1960,
+Amalievej 13 3330 Gørløse,13,2245000.0,31-07-2008,Alm.,22450,4,Villa,100,1967,0 %
+Lystrupvej 4 3330 Gørløse,4,2400000.0,12-06-2008,Alm.,18181,5,Villa,132,1936,-8 %
+Gammel Kurreholmvej 4 3330 Gørløse,4,3300000.0,04-06-2008,Alm.,27500,6,Villa,120,1915,-17 %
+Strøvej 116 3330 Gørløse,116,1620000.0,20-04-2008,Alm.,18620,3,Villa,87,1887,-10 %
+Skolestrædet 10 3330 Gørløse,10,1230000.0,08-04-2008,Alm.,12300,3,Villa,100,1850,-17 %
+Amalievej 15 3330 Gørløse,15,2300000.0,25-02-2008,Alm.,23000,4,Villa,100,1967,-2 %
+Kurreholmvej 24 3330 Gørløse,24,3900000.0,11-02-2008,Alm.,27083,8,Villa,144,1973,-2 %
+Gadekærsvej 9 3330 Gørløse,9,3000000.0,16-01-2008,Alm.,20689,4,Villa,145,2002,
+Strøvej 98 3330 Gørløse,98,2495000.0,14-12-2007,Alm.,17206,4,Villa,145,1969,0 %
+Lystrupvej 18 3330 Gørløse,18,2310000.0,27-09-2007,Alm.,25108,3,Villa,92,1946,
+Gammel Engvej 9 3330 Gørløse,9,1700000.0,25-09-2007,Alm.,19318,3,Villa,88,1950,-15 %
+Lystrupvej 7 3330 Gørløse,7,297500.0,21-09-2007,Fam.,2253,4,Rækkehus,132,1880,
+Hovedvejen 2B 3330 Gørløse,0,707943.0,18-09-2007,Fam.,3292,6,Villa,215,1961,
+Strøvej 94 3330 Gørløse,94,8500000.0,31-08-2007,Alm.,46961,5,Stuehus,181,1924,-3 %
+Hovedvejen 16 3330 Gørløse,16,2250000.0,30-08-2007,Alm.,17045,4,Villa,132,1930,
+Hovedvejen 3 3330 Gørløse,3,533511.0,06-08-2007,Andet,5081,4,Villa,105,1952,
+Hovedvejen 37 3330 Gørløse,37,1995000.0,24-06-2007,Alm.,24629,3,Villa,81,1952,
+Solvej 24 3330 Gørløse,24,1615000.0,10-05-2007,Fam.,9176,5,Villa,176,2000,
+Kurreholmvej 49 3330 Gørløse,49,2850000.0,27-04-2007,Alm.,22983,5,Stuehus,124,1910,
+Ved Kirken 2 3330 Gørløse,2,3300000.0,01-04-2007,Alm.,32352,3,Villa,102,1961,
+Damgårdsvej 13 3330 Gørløse,13,2650000.0,03-12-2006,Alm.,21900,5,Villa,121,1974,
+Amalievej 24 3330 Gørløse,24,1550000.0,23-11-2006,Andet,8857,5,Villa,175,1966,
+Roskildevej 201 3330 Gørløse,201,5100000.0,06-11-2006,Alm.,27717,7,Stuehus,184,1910,
+Egholm 10 3330 Gørløse,10,6100000.0,23-10-2006,Alm.,33152,4,Stuehus,184,1947,
+Hovedvejen 28B 3330 Gørløse,0,850000.0,18-10-2006,Alm.,14166,3,Lejlighed,60,1961,
+Hovedvejen 12 3330 Gørløse,12,3535000.0,29-09-2006,Alm.,20794,6,Villa,170,1946,
+Amalievej 8 3330 Gørløse,8,2522500.0,14-09-2006,Alm.,18278,6,Villa,138,1967,
+Stationsvej 15 3330 Gørløse,15,1160000.0,03-09-2006,Andet,13181,3,Villa,88,1953,
+Vinkelvænget 11 3330 Gørløse,11,1350000.0,14-08-2006,Alm.,16666,5,Villa,81,2008,
+Vinkelvænget 15 3330 Gørløse,15,2500000.0,10-08-2006,Alm.,18656,4,Villa,134,1951,
+Lystrupvej 35 3330 Gørløse,35,651408.0,07-07-2006,Alm.,2605,6,Stuehus,250,1870,
+Amalievej 21 3330 Gørløse,21,2245000.0,29-06-2006,Alm.,22450,4,Villa,100,1966,
+Lystrupvej 24 3330 Gørløse,24,3500000.0,18-05-2006,Fam.,30701,5,Stuehus,114,1864,
+Lystrupvej 12 3330 Gørløse,12,2085000.0,11-05-2006,Alm.,14280,5,Villa,146,1943,
+Lystrupvej 8 3330 Gørløse,8,2425000.0,04-05-2006,Alm.,20041,5,Villa,121,1941,
+Th. Petersens Vej 22 3330 Gørløse,22,2950000.0,01-04-2006,Alm.,18322,5,Villa,161,2006,
+Th. Petersens Vej 4 3330 Gørløse,4,2930000.0,23-03-2006,Alm.,16936,7,Villa,173,2006,
+Hovedvejen 10B 3330 Gørløse,0,1535000.0,16-01-2006,Alm.,23257,2,Rækkehus,66,1983,
+Th. Petersens Vej 19 3330 Gørløse,19,2445000.0,22-12-2005,Alm.,17717,4,Rækkehus,138,2007,
+Th. Petersens Vej 13 3330 Gørløse,13,2445000.0,15-12-2005,Alm.,17717,4,Rækkehus,138,2007,
+Kurreholmvej 28 3330 Gørløse,28,1715000.0,14-12-2005,Alm.,23175,3,Villa,74,1980,
+Anemonevej 6 3330 Gørløse,6,2695000.0,28-11-2005,Alm.,15578,7,Villa,173,1973,
+Th. Petersens Vej 1 3330 Gørløse,1,2445000.0,07-11-2005,Alm.,17717,4,Rækkehus,138,2007,
+Th. Petersens Vej 17 3330 Gørløse,17,2445000.0,04-11-2005,Alm.,17717,4,Rækkehus,138,2007,
+Th. Petersens Vej 23 3330 Gørløse,23,1300000.0,21-10-2005,Alm.,1710,23,Villa,760,2006,
+Th. Petersens Vej 11 3330 Gørløse,11,2445000.0,17-10-2005,Alm.,17717,4,Rækkehus,138,2007,
+Th. Petersens Vej 5 3330 Gørløse,5,2445000.0,11-10-2005,Alm.,15281,5,Rækkehus,160,2007,
+Th. Petersens Vej 7 3330 Gørløse,7,2445000.0,29-09-2005,Alm.,17717,4,Rækkehus,138,2007,
+Th. Petersens Vej 12 3330 Gørløse,12,2950000.0,29-09-2005,Alm.,18322,5,Villa,161,2006,
+Th. Petersens Vej 6 3330 Gørløse,6,2795000.0,23-09-2005,Alm.,17253,7,Villa,162,2006,
+Gadekærsvej 14 3330 Gørløse,14,1840000.0,30-08-2005,Alm.,16283,4,Rækkehus,113,1985,
+Th. Petersens Vej 14 3330 Gørløse,14,2950000.0,29-08-2005,Alm.,18322,5,Villa,161,2006,
+Th. Petersens Vej 16 3330 Gørløse,16,2750000.0,15-07-2005,Alm.,18835,5,Villa,146,2006,
+Lystrupvej 11 3330 Gørløse,11,400000.0,11-07-2005,Fam.,3846,4,Villa,104,1955,
+Th. Petersens Vej 26 3330 Gørløse,26,2945150.0,08-07-2005,Alm.,16829,7,Villa,175,2006,
+Gammel Engvej 15 3330 Gørløse,15,1900000.0,30-05-2005,Alm.,9090,7,Villa,209,1936,
+Kurreholmvej 4 3330 Gørløse,4,1625000.0,09-05-2005,Alm.,12500,4,Villa,130,1961,
+Borupvej 86 3330 Gørløse,86,1785000.0,09-05-2005,Alm.,11442,5,Villa,156,1964,
+Solvej 4 3330 Gørløse,4,775000.0,01-04-2005,Alm.,4725,7,Villa,164,2006,
+Solvej 10 3330 Gørløse,10,795000.0,01-04-2005,Alm.,4847,6,Villa,164,2005,
+Solvej 8 3330 Gørløse,8,795000.0,18-03-2005,Alm.,5598,6,Villa,142,2006,
+Solvej 16 3330 Gørløse,16,795000.0,18-03-2005,Alm.,5482,6,Villa,145,2005,
+Solvej 22 3330 Gørløse,22,745000.0,18-03-2005,Alm.,4331,6,Villa,172,2005,
+Solvej 18 3330 Gørløse,18,795000.0,17-03-2005,Alm.,6115,5,Villa,130,2005,
+Solvej 34 3330 Gørløse,34,745000.0,28-02-2005,Alm.,4570,6,Villa,163,2005,
+Solvej 32 3330 Gørløse,32,775000.0,28-02-2005,Alm.,4725,6,Villa,164,2005,
+Gammel Engvej 1 3330 Gørløse,1,1100000.0,28-02-2005,Alm.,20000,2,Villa,55,1956,
+Solvej 2 3330 Gørløse,2,775000.0,28-02-2005,Alm.,5961,5,Villa,130,2005,
+Solvej 14 3330 Gørløse,14,795000.0,28-02-2005,Alm.,4847,6,Villa,164,2005,
+Solvej 28 3330 Gørløse,28,795000.0,28-02-2005,Alm.,4847,6,Villa,164,2005,
+Rosenkildeparken 6 3330 Gørløse,6,1595000.0,19-02-2005,Alm.,16789,4,Rækkehus,95,1985,
+Amalievej 26 3330 Gørløse,26,1999000.0,14-02-2005,Alm.,14177,4,Villa,141,1966,
+Damgårdsvej 6 3330 Gørløse,6,1624000.0,27-01-2005,Alm.,8638,6,Villa,188,1975,
+Vinkelvænget 8 3330 Gørløse,8,2075000.0,05-12-2004,Alm.,10807,6,Villa,192,1949,
+Borupvej 77 3330 Gørløse,77,1840000.0,16-11-2004,Alm.,8761,7,Villa,210,1955,
+Damgårdsvej 9 3330 Gørløse,9,1725000.0,04-08-2004,Alm.,12777,4,Villa,135,1968,
+Ved Kirken 6 3330 Gørløse,6,900000.0,08-06-2004,Alm.,5263,4,Villa,171,1875,
+Kurreholmvej 2 3330 Gørløse,2,1295000.0,03-05-2004,Alm.,14388,3,Villa,90,1957,
+Stationsvej 9 3330 Gørløse,9,1275000.0,05-03-2004,Alm.,13144,3,Villa,97,1951,
+Amalievej 1 3330 Gørløse,1,1395000.0,17-02-2004,Alm.,13950,4,Villa,100,1967,
+Strøvej 104 3330 Gørløse,104,1525000.0,19-01-2004,Alm.,11730,6,Villa,130,1940,
+Erantisvej 10 3330 Gørløse,10,1400000.0,28-11-2003,Alm.,10000,5,Villa,140,1967,
+Langebjergvej 9 3330 Gørløse,9,2345000.0,20-11-2003,Alm.,13713,6,Villa,171,1928,
+Erantisvej 1 3330 Gørløse,1,1625000.0,14-11-2003,Alm.,11607,5,Villa,140,1962,
+Solvej 36 3330 Gørløse,36,2629483.0,04-11-2003,Alm.,15377,7,Villa,171,2000,
+Amalievej 4 3330 Gørløse,4,1175000.0,12-10-2003,Alm.,11750,4,Villa,100,1966,
+Solvej 47 3330 Gørløse,47,1746420.0,14-09-2003,Alm.,16792,4,Rækkehus,104,2003,
+Hovedvejen 46 3330 Gørløse,46,1291338.0,27-08-2003,Alm.,10761,5,Villa,120,1949,
+Solvej 35 3330 Gørløse,35,1479737.0,05-08-2003,Alm.,14366,3,Rækkehus,103,2003,
+Solvej 37 3330 Gørløse,37,1603007.0,30-07-2003,Alm.,15413,3,Rækkehus,104,2003,
+Solvej 31 3330 Gørløse,31,1527718.0,30-07-2003,Alm.,14689,3,Rækkehus,104,2003,
+Solvej 41 3330 Gørløse,41,1466226.0,29-07-2003,Alm.,14235,3,Rækkehus,103,2003,
+Solvej 43 3330 Gørløse,43,1477881.0,29-07-2003,Alm.,14348,4,Rækkehus,103,2003,
+Hovedvejen 10G 3330 Gørløse,0,1150000.0,28-06-2003,Alm.,17424,2,Rækkehus,66,1983,
+Plantagevej 4 3330 Gørløse,4,2992942.0,25-06-2003,Alm.,18705,6,Stuehus,160,1925,
+Solvej 49 3330 Gørløse,49,1471575.0,10-06-2003,Alm.,14287,4,Rækkehus,103,2003,
+Solvej 53 3330 Gørløse,53,1635883.0,10-06-2003,Alm.,15729,4,Rækkehus,104,2003,
+Rosenvej 8 3330 Gørløse,8,1153952.0,04-06-2003,Alm.,13263,4,Villa,87,1960,
+Strøvej 90 3330 Gørløse,90,2650000.0,30-05-2003,Alm.,22083,4,Stuehus,120,1913,
+Amalievej 3 3330 Gørløse,3,1650000.0,21-04-2003,Alm.,11379,5,Villa,145,1967,
+Skolestrædet 14 3330 Gørløse,14,750000.0,19-03-2003,Alm.,9036,3,Villa,83,1923,
+Gammel Engvej 5 3330 Gørløse,5,1105000.0,17-03-2003,Fam.,5390,7,Villa,205,1888,
+Vinkelvænget 5 3330 Gørløse,5,1285000.0,13-01-2003,Alm.,11681,5,Villa,110,1948,
+Stationsvej 11 3330 Gørløse,11,1550000.0,10-01-2003,Alm.,9627,5,Villa,161,1952,
+Violvej 2 3330 Gørløse,2,1725000.0,08-01-2003,Alm.,11896,4,Villa,145,1970,
+Skolestrædet 3 3330 Gørløse,3,180000.0,19-12-2002,Fam.,2250,3,Villa,80,1947,
+Solvej 58 3330 Gørløse,58,525000.0,20-11-2002,Alm.,4487,5,Villa,117,2003,
+Solvej 70 3330 Gørløse,70,525000.0,13-11-2002,Alm.,4038,5,Villa,130,2003,
+Rosenkildeparken 5 3330 Gørløse,5,125000.0,11-11-2002,Alm.,1506,3,Rækkehus,83,1985,
+Solvej 54 3330 Gørløse,54,595000.0,08-11-2002,Alm.,4160,6,Villa,143,2003,
+Solvej 60 3330 Gørløse,60,525000.0,01-11-2002,Alm.,3620,6,Villa,145,2003,
+Solvej 62 3330 Gørløse,62,525000.0,01-11-2002,Alm.,3547,5,Villa,148,2003,
+Solvej 68 3330 Gørløse,68,525000.0,01-11-2002,Alm.,3645,6,Villa,144,2003,
+Solvej 64 3330 Gørløse,64,525000.0,31-10-2002,Alm.,3595,6,Villa,146,2003,
+Solvej 50 3330 Gørløse,50,525000.0,31-10-2002,Alm.,3240,6,Villa,162,2003,
+Amalievej 27 3330 Gørløse,27,468865.0,03-10-2002,Alm.,4688,4,Villa,100,1967,
+Hovedvejen 10D 3330 Gørløse,0,942000.0,15-04-2002,Alm.,14492,2,Rækkehus,65,1983,
+Gammel Kurreholmvej 8 3330 Gørløse,8,2000000.0,02-04-2002,Alm.,13157,5,Stuehus,152,1900,
+Gammel Engvej 19 3330 Gørløse,19,1275000.0,01-03-2002,Alm.,9375,3,Villa,136,1877,
+Maglekærvej 8 3330 Gørløse,8,2730000.0,21-11-2001,Alm.,17062,5,Stuehus,160,1852,
+Lillevej 2 3330 Gørløse,2,1020000.0,03-10-2001,Alm.,6845,4,Villa,149,1900,
+Hovedvejen 10E 3330 Gørløse,0,942336.0,14-09-2001,Alm.,14497,2,Rækkehus,65,1983,
+Hovedvejen 1D 3330 Gørløse,0,1616854.0,22-05-2001,Alm.,0,6,Villa,196,1947,
+Engvej 38 3330 Gørløse,38,1215306.0,19-04-2001,Alm.,9348,4,Villa,130,1975,
+Kurreholmvej 44 3330 Gørløse,44,1136735.0,25-03-2001,Alm.,6686,4,Villa,170,1900,
+Granstien 5 3330 Gørløse,5,1315000.0,22-03-2001,Alm.,0,8,Rækkehus,176,1962,
+Gammel Engvej 6B 3330 Gørløse,0,190000.0,13-12-2000,Fam.,1809,3,Villa,105,2002,
+Roskildevej 100 3330 Gørløse,100,3020440.0,06-11-2000,Alm.,15731,5,Stuehus,192,1912,
+Granbakken 2 3330 Gørløse,2,1381200.0,24-10-2000,Alm.,10384,4,Rækkehus,133,1955,
+Engvej 33 3330 Gørløse,33,4500000.0,17-10-2000,Alm.,31250,4,Villa,144,1972,
+Gammel Kurreholmvej 2 3330 Gørløse,2,1146004.0,15-09-2000,Alm.,0,2,Villa,140,1962,
+Hovedvejen 14 3330 Gørløse,14,1425320.0,07-08-2000,Alm.,10180,6,Villa,140,1916,
+Bakkegårdsvej 4 3330 Gørløse,4,250000.0,16-07-2000,Alm.,1262,5,Villa,198,2001,
+Rosenkildeparken 7 3330 Gørløse,7,1100340.0,07-07-2000,Alm.,11582,4,Rækkehus,95,1985,
+Rosenkildeparken 3 3330 Gørløse,3,1113137.0,26-06-2000,Alm.,11717,4,Rækkehus,95,1985,
+Strøvej 113 3330 Gørløse,113,1210000.0,19-06-2000,Alm.,7076,4,Villa,171,1980,
+Løngangen 1 3330 Gørløse,1,1256708.0,04-06-2000,Alm.,9378,4,Villa,134,1955,
+Løngangen 3 3330 Gørløse,3,1215000.0,09-05-2000,Alm.,10848,5,Villa,112,1953,
+Strøvej 92 3330 Gørløse,92,1700000.0,28-04-2000,Fam.,11564,4,Stuehus,147,1923,
+Bellisvej 9 3330 Gørløse,9,915000.0,25-02-2000,Alm.,0,6,Villa,134,1959,
+Engvej 34 3330 Gørløse,34,1336835.0,23-02-2000,Alm.,9481,4,Villa,141,1971,
+Rosenkildeparken 1 3330 Gørløse,1,995000.0,02-12-1999,Alm.,11987,3,Rækkehus,83,1985,
+Erantisvej 4 3330 Gørløse,4,1211055.0,05-11-1999,Alm.,9688,4,Villa,125,1966,
+Solvej 26 3330 Gørløse,26,350000.0,02-08-1999,Alm.,2611,4,Villa,134,2000,
+Anemonevej 14 3330 Gørløse,14,1153822.0,13-07-1999,Alm.,10988,4,Villa,105,1973,
+Solvej 38 3330 Gørløse,38,450000.0,07-06-1999,Alm.,0,7,Villa,185,1999,
+Vinkelvænget 16 3330 Gørløse,16,817194.0,27-05-1999,Alm.,4278,6,Villa,191,1943,
+Borupvej 78 3330 Gørløse,78,2000000.0,21-04-1999,Fam.,8032,7,Stuehus,249,1880,
+Solvej 42 3330 Gørløse,42,365000.0,12-03-1999,Alm.,2683,6,Villa,136,2000,
+Rosenkildeparken 8 3330 Gørløse,8,1069682.0,17-02-1999,Alm.,11259,4,Rækkehus,95,1985,
+Hovedvejen 52 3330 Gørløse,52,971321.0,12-01-1999,Alm.,6070,6,Villa,160,1908,
+Gammel Engvej 8A 3330 Gørløse,0,290000.0,16-11-1998,Alm.,1986,5,Villa,146,1999,
+Damgårdsvej 10 3330 Gørløse,10,1041800.0,31-10-1998,Alm.,0,4,Villa,127,1969,
+Kurreholmvej 35 3330 Gørløse,35,1378000.0,18-09-1998,Alm.,17666,3,Stuehus,78,1900,
+Violvej 4 3330 Gørløse,4,1148258.0,22-08-1998,Alm.,9411,4,Villa,122,1972,
+Lystrupvej 10 3330 Gørløse,10,830837.0,20-07-1998,Alm.,8308,4,Villa,100,1942,
+Maglekærvej 1 3330 Gørløse,1,1149600.0,21-04-1998,Alm.,10644,4,Villa,108,1949,
+Erantisvej 6 3330 Gørløse,6,1135569.0,20-04-1998,Alm.,10323,4,Villa,110,1967,
+Lystrupvej 3 3330 Gørløse,3,1349158.0,12-02-1998,Alm.,7026,7,Villa,192,1958,
+Bakkegårdsvej 3 3330 Gørløse,3,1337804.0,21-01-1998,Alm.,8361,5,Villa,160,1988,
+Hovedvejen 8 3330 Gørløse,8,1199104.0,08-08-1997,Alm.,5682,8,Villa,211,1946,
+Borupvej 74 3330 Gørløse,74,1295000.0,31-07-1997,Alm.,9452,6,Stuehus,137,1925,
+Gammel Engvej 11 3330 Gørløse,11,723922.0,08-07-1997,Alm.,0,7,Villa,134,1852,
+Lystrupvej 16 3330 Gørløse,16,726625.0,06-06-1997,Alm.,0,6,Villa,160,1946,
+Amalievej 9 3330 Gørløse,9,1025590.0,31-03-1997,Alm.,6574,5,Villa,156,1967,
+Kurreholmvej 22 3330 Gørløse,22,1110000.0,27-12-1996,Alm.,4743,5,Stuehus,234,1917,
+Amalievej 29 3330 Gørløse,29,681000.0,14-06-1996,Alm.,6742,3,Villa,101,1967,
+Amalievej 12 3330 Gørløse,12,704242.0,22-05-1996,Alm.,0,4,Villa,122,1967,
+Lystrupvej 29 3330 Gørløse,29,657000.0,22-01-1996,Alm.,6027,3,Villa,109,1877,
+Irisvej 3 3330 Gørløse,3,710000.0,14-11-1995,Alm.,4610,5,Villa,154,1962,
+Egholm 1A 3330 Gørløse,0,950490.0,24-10-1995,Alm.,6838,5,Villa,139,1946,
+Gammel Engvej 16 3330 Gørløse,16,912911.0,13-08-1995,Alm.,0,6,Villa,180,1961,
+Gammel Engvej 10 3330 Gørløse,10,294490.0,20-07-1995,Fam.,2778,6,Villa,106,1961,
+Bellisvej 6 3330 Gørløse,6,636130.0,22-05-1995,Alm.,4609,5,Villa,138,1955,
+Erantisvej 2 3330 Gørløse,2,741078.0,29-09-1994,Alm.,5976,4,Villa,124,1971,
+Egholm 12 3330 Gørløse,12,1200000.0,11-09-1994,Alm.,10000,4,Stuehus,120,1970,
+Roskildevej 205 3330 Gørløse,205,489733.0,16-06-1994,Alm.,2690,4,Stuehus,182,1980,
+Plantagevej 6 3330 Gørløse,6,1854000.0,09-06-1994,Alm.,8167,6,Stuehus,227,1864,
+Kurreholmvej 31A 3330 Gørløse,0,1825000.0,31-01-1994,Alm.,0,8,Stuehus,234,1900,
+Hovedvejen 25 3330 Gørløse,25,485000.0,22-08-1993,Alm.,5511,4,Villa,88,1936,
+Strøvej 95 3330 Gørløse,95,600000.0,16-07-1993,Alm.,4545,5,Villa,132,1918,
+Amalievej 6 3330 Gørløse,6,860000.0,11-06-1993,Alm.,0,7,Villa,169,1968,
+Anemonevej 10 3330 Gørløse,10,557400.0,10-06-1993,Andet,4495,4,Villa,124,1972,
+Rosenkildeparken 10 3330 Gørløse,10,302212.0,12-05-1993,Fam.,3181,4,Rækkehus,95,1985,
+Engvej 41 3330 Gørløse,41,1585000.0,16-03-1993,Andet,11402,5,Villa,139,1967,
+Lillevej 3 3330 Gørløse,3,479250.0,12-03-1993,Alm.,5098,4,Villa,94,1960,
+Damgårdsvej 3 3330 Gørløse,3,637749.0,18-01-1993,Fam.,5497,3,Villa,116,1973,
+Lystrupvej 33 3330 Gørløse,33,778300.0,01-12-1992,Alm.,4774,8,Villa,163,1892,
+Kurreholmvej 27 3330 Gørløse,27,710000.0,20-05-1992,Alm.,6698,4,Villa,106,1973,

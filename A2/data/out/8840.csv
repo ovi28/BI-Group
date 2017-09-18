@@ -1,0 +1,632 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Vandet Mosevej 3 8840 Rødkærsbro,3,1625000.0,03-04-2017,Alm.,16927,5,Stuehus,96,1910,-9 %
+Vindumvej 172 8840 Rødkærsbro,172,2400000.0,28-02-2017,Alm.,11320,5,Villa,212,1975,-8 %
+Klosterhøj 25 8840 Rødkærsbro,25,930000.0,23-02-2017,Alm.,7322,4,Villa,127,1978,-7 %
+Elsborgvej 65 8840 Rødkærsbro,65,1400000.0,15-02-2017,Alm.,7291,6,Villa,192,1922,-6 %
+Bjerrevej 43 8840 Rødkærsbro,43,300000.0,10-02-2017,Alm.,2500,4,Villa,120,1959,-24 %
+Søndergade 39 8840 Rødkærsbro,39,400000.0,21-12-2016,Alm.,5555,3,Villa,72,1900,-19 %
+Vindumvej 148 8840 Rødkærsbro,148,1737500.0,17-12-2016,Alm.,8119,8,Stuehus,214,1924,-42 %
+Palstrupvej 15 8840 Rødkærsbro,15,5965000.0,08-12-2016,Alm.,29825,4,Stuehus,200,1961,
+Valmuevej 1 8840 Rødkærsbro,1,650000.0,31-10-2016,Alm.,3987,5,Villa,163,1962,-6 %
+Frederiksgade 6 8840 Rødkærsbro,6,545000.0,28-10-2016,Fam.,4954,6,Villa,110,1910,
+Bredmosevej 7 8840 Rødkærsbro,7,225000.0,05-10-2016,Alm.,1165,6,Villa,193,1905,
+Bjerrevej 49 8840 Rødkærsbro,49,1670000.0,30-09-2016,Alm.,8520,5,Villa,196,1987,-6 %
+Valmuevej 7 8840 Rødkærsbro,7,1045000.0,29-09-2016,Alm.,4427,8,Villa,236,1969,-5 %
+Brandstrup Søvej 1 8840 Rødkærsbro,1,18242000.0,26-09-2016,Alm.,120013,5,Stuehus,152,1937,
+Bjerrevej 17 8840 Rødkærsbro,17,200000.0,14-09-2016,Alm.,1408,5,Villa,142,1932,
+Frederiksgade 9 8840 Rødkærsbro,9,600000.0,14-09-2016,Alm.,4651,6,Villa,129,1934,
+Århusvej 10 8840 Rødkærsbro,10,200000.0,14-09-2016,Alm.,1666,3,Villa,120,1927,
+Frederiks Alle 9 8840 Rødkærsbro,9,125000.0,23-08-2016,Alm.,714,3,Villa,175,1989,
+Liljevej 6 8840 Rødkærsbro,6,575000.0,22-08-2016,Alm.,4197,4,Villa,137,1975,-21 %
+Kornvangen 7 8840 Rødkærsbro,7,1195000.0,22-08-2016,Alm.,10482,4,Villa,114,1973,
+Vindumvej 127 8840 Rødkærsbro,127,1695000.0,26-07-2016,Alm.,7062,7,Stuehus,240,1912,-5 %
+Tværvej 3 8840 Rødkærsbro,3,850000.0,12-07-2016,Fam.,6538,5,Villa,130,1965,
+Klosterhøj 13 8840 Rødkærsbro,13,1150000.0,29-06-2016,Alm.,8041,5,Villa,143,1980,-18 %
+Kornvangen 15 8840 Rødkærsbro,15,1125000.0,29-06-2016,Alm.,7653,6,Villa,147,1973,-6 %
+Jens Birks Vej 2B 8840 Rødkærsbro,0,680000.0,28-06-2016,Fam.,8000,4,Rækkehus,85,1990,-15 %
+Brandstrup Søvej 15 8840 Rødkærsbro,15,1100000.0,15-06-2016,Alm.,8148,6,Stuehus,135,1922,
+Bjerrevej 37 8840 Rødkærsbro,37,580000.0,09-06-2016,Alm.,5132,4,Villa,113,1964,-3 %
+Viborgvej 14 8840 Rødkærsbro,14,622285.0,02-06-2016,Fam.,5411,4,Stuehus,115,1925,
+Røverhøjvej 6 8840 Rødkærsbro,6,1905000.0,26-05-2016,Alm.,12056,2,Stuehus,158,1909,1 %
+Hindbærvej 3 8840 Rødkærsbro,3,1300000.0,19-05-2016,Alm.,8333,4,Villa,156,1999,-7 %
+Liljevej 5 8840 Rødkærsbro,5,450000.0,12-05-2016,Alm.,3629,4,Villa,124,1976,
+Vindumvej 115 8840 Rødkærsbro,115,1642000.0,12-05-2016,Alm.,13915,5,Stuehus,118,1906,
+Højbjerg Huse 3 8840 Rødkærsbro,3,300000.0,12-04-2016,Alm.,2255,3,Villa,133,1915,-40 %
+Højbjerg Huse 17 8840 Rødkærsbro,17,800000.0,23-03-2016,Fam.,4102,6,Stuehus,195,1905,
+Hindbærvej 10 8840 Rødkærsbro,10,1715000.0,20-03-2016,Alm.,12077,6,Villa,142,2003,1 %
+Frederiks Alle 13 8840 Rødkærsbro,13,686770.0,03-03-2016,Fam.,3270,5,Villa,210,1980,
+Brandstrupvej 69 8840 Rødkærsbro,69,510000.0,29-02-2016,Alm.,5795,3,Villa,88,1927,
+Klosterhøj 29 8840 Rødkærsbro,29,1850000.0,22-02-2016,Alm.,5138,9,Villa,360,1980,-2 %
+Valmuevej 5 8840 Rødkærsbro,5,645000.0,03-02-2016,Alm.,5608,4,Villa,115,1965,-14 %
+Klostervej 2 8840 Rødkærsbro,2,450000.0,01-02-2016,Alm.,4368,3,Villa,103,1967,
+Duelundvej 14 8840 Rødkærsbro,14,1300000.0,26-01-2016,Alm.,3963,6,Villa,328,1900,-7 %
+Klostervej 9 8840 Rødkærsbro,9,819580.0,22-12-2015,Andet,4878,5,Villa,168,1969,
+Bjerrevej 11 8840 Rødkærsbro,11,263951.0,17-12-2015,Andet,2666,4,Villa,99,1932,
+Østervang 21 8840 Rødkærsbro,21,1200000.0,08-12-2015,Fam.,8571,5,Villa,140,1964,
+Viborgvej 15 8840 Rødkærsbro,15,1075000.0,21-11-2015,Alm.,5972,5,Stuehus,180,1934,
+Kornvangen 3 8840 Rødkærsbro,3,596228.0,26-10-2015,Alm.,4001,5,Villa,149,1973,
+N. P. Hansens Vej 5 8840 Rødkærsbro,5,720000.0,19-10-2015,Alm.,6486,5,Rækkehus,111,1980,-8 %
+Bygvej 3 8840 Rødkærsbro,3,1025000.0,04-09-2015,Alm.,7321,4,Villa,140,1972,-7 %
+Havevej 8 8840 Rødkærsbro,8,620000.0,03-09-2015,Alm.,7126,3,Villa,87,1960,
+Højbjerg Huse 44 8840 Rødkærsbro,44,1775000.0,25-07-2015,Alm.,10823,5,Villa,164,1926,-4 %
+Syrenvej 8 8840 Rødkærsbro,8,710000.0,24-07-2015,Alm.,5819,4,Villa,122,1972,-9 %
+"Nørre Langgade 9, 1 8840 Rødkærsbro",1,1100000.0,15-07-2015,Alm.,8943,4,Lejlighed,123,1937,
+Bjerrevej 40 8840 Rødkærsbro,40,800000.0,03-07-2015,Alm.,5333,4,Villa,150,1978,-9 %
+Brombærvej 5 8840 Rødkærsbro,5,2000000.0,01-07-2015,Fam.,8620,5,Villa,232,1996,
+Klosterhøj 35 8840 Rødkærsbro,35,1510000.0,18-06-2015,Alm.,11984,4,Villa,126,1978,2 %
+N. P. Hansens Vej 10 8840 Rødkærsbro,10,975000.0,27-05-2015,Alm.,8783,5,Rækkehus,111,1980,-11 %
+Skovbærvej 24 8840 Rødkærsbro,24,240000.0,24-04-2015,Alm.,1325,6,Villa,181,2016,
+Brandstrupvej 110 8840 Rødkærsbro,110,2482500.0,16-04-2015,Alm.,9930,8,Stuehus,250,1980,-4 %
+Vindumvej 162 8840 Rødkærsbro,162,430636.0,13-04-2015,Fam.,2142,6,Villa,201,1910,
+Valmuevej 9 8840 Rødkærsbro,9,745000.0,09-04-2015,Alm.,4966,5,Villa,150,1972,-6 %
+Vindelsbækvej 6 8840 Rødkærsbro,6,2000000.0,07-04-2015,Alm.,10989,4,Villa,182,1966,
+Kjellerupvej 32 8840 Rødkærsbro,32,1000000.0,31-03-2015,Alm.,5586,5,Villa,179,1909,
+Faldborgvej 12 8840 Rødkærsbro,12,1200000.0,11-03-2015,Fam.,6382,7,Stuehus,188,1906,
+Jens Birks Vej 19 8840 Rødkærsbro,19,1035000.0,04-03-2015,Alm.,10781,4,Rækkehus,96,1999,
+Højbjerg Huse 12 8840 Rødkærsbro,12,380000.0,19-02-2015,Alm.,2714,4,Villa,140,1825,-24 %
+Østervang 1 8840 Rødkærsbro,1,412500.0,09-02-2015,Alm.,5156,4,Villa,80,1955,-15 %
+Højbjerg Huse 41 8840 Rødkærsbro,41,550000.0,20-01-2015,Auktion,2956,6,Villa,186,1866,-39 %
+Højbjerg Byvej 25 8840 Rødkærsbro,25,340000.0,20-01-2015,Auktion,2698,6,Villa,126,1934,
+Vindumvej 140 8840 Rødkærsbro,140,1550000.0,15-01-2015,Alm.,7598,6,Stuehus,204,1929,
+Klosterhøj 10 8840 Rødkærsbro,10,930000.0,13-01-2015,Alm.,6838,5,Villa,136,1977,-7 %
+Østervang 11 8840 Rødkærsbro,11,1035000.0,03-12-2014,Alm.,6388,7,Villa,162,1960,-8 %
+Klostervænget 10 8840 Rødkærsbro,10,995000.0,04-11-2014,Alm.,6218,5,Villa,160,1966,0 %
+Mimosevej 2 8840 Rødkærsbro,2,825000.0,27-10-2014,Alm.,8593,3,Villa,96,1966,
+Kjellerupvej 75 8840 Rødkærsbro,75,1100000.0,09-10-2014,Alm.,6250,5,Villa,176,1920,-15 %
+Bredmosevej 12 8840 Rødkærsbro,12,1850000.0,03-10-2014,Alm.,14566,5,Stuehus,127,1880,
+Århusvej 17 8840 Rødkærsbro,17,200000.0,24-09-2014,Alm.,1612,4,Stuehus,124,1936,
+Vindumvej 130 8840 Rødkærsbro,130,850000.0,17-09-2014,Alm.,6115,6,Stuehus,139,1924,
+Klosterhøj 5 8840 Rødkærsbro,5,1255000.0,12-09-2014,Alm.,7843,4,Villa,160,1978,-10 %
+Brandstrupvej 109 8840 Rødkærsbro,109,2600000.0,11-09-2014,Alm.,14525,4,Stuehus,179,1978,-13 %
+Brandstrupvej 101 8840 Rødkærsbro,101,840000.0,21-08-2014,Alm.,8484,3,Villa,99,1906,
+Vandet Mosevej 9 8840 Rødkærsbro,9,11485000.0,16-07-2014,Alm.,112598,4,Stuehus,102,1900,
+Stadionvej 9 8840 Rødkærsbro,9,526700.0,27-06-2014,Fam.,4922,4,Villa,107,1959,
+Skovbærvej 18 8840 Rødkærsbro,18,1066929.0,24-06-2014,Fam.,0,7,Villa,172,2009,
+Elsborgvej 81 8840 Rødkærsbro,81,1475000.0,20-06-2014,Alm.,6385,8,Stuehus,231,1936,
+Jens Birks Vej 17 8840 Rødkærsbro,17,990000.0,11-06-2014,Alm.,10312,4,Rækkehus,96,1999,-4 %
+Kjellerupvej 70 8840 Rødkærsbro,70,70000.0,10-06-2014,Auktion,1000,2,Villa,70,1897,
+Tjørnevej 4 8840 Rødkærsbro,4,550000.0,03-04-2014,Alm.,6179,4,Villa,89,1949,-8 %
+Frederiks Alle 10B 8840 Rødkærsbro,0,91000.0,28-03-2014,Andet,287,6,Villa,317,2016,
+Dybdal 3 8840 Rødkærsbro,3,200000.0,17-03-2014,Alm.,1333,6,Stuehus,150,1901,
+Østervang 34 8840 Rødkærsbro,34,825000.0,18-02-2014,Alm.,6818,4,Villa,121,1969,-8 %
+Fårupvej 32 8840 Rødkærsbro,32,8480000.0,07-02-2014,Alm.,45347,9,Stuehus,187,1910,
+Højbjerg Møllevej 22 8840 Rødkærsbro,22,510000.0,23-12-2013,Alm.,4047,4,Stuehus,126,1962,-18 %
+Vindumvej 152 8840 Rødkærsbro,152,2225000.0,22-11-2013,Alm.,0,4,Stuehus,171,1900,-3 %
+Klosterhøj 11 8840 Rødkærsbro,11,1115000.0,21-11-2013,Alm.,9065,4,Villa,123,1979,-5 %
+Vindumvej 131 8840 Rødkærsbro,131,320000.0,05-11-2013,Alm.,2285,4,Villa,140,2016,
+Vindumvej 138 8840 Rødkærsbro,138,2550000.0,30-10-2013,Alm.,14739,6,Stuehus,173,1965,
+Bjerrevej 2 8840 Rødkærsbro,2,525000.0,19-10-2013,Andet,6481,3,Villa,81,1962,
+Valmuevej 21 8840 Rødkærsbro,21,455000.0,10-10-2013,Alm.,4136,4,Villa,110,1971,
+Kjellerupvej 52 8840 Rødkærsbro,52,1300000.0,16-08-2013,Alm.,6914,7,Villa,188,1905,
+Brandstrupvej 20 8840 Rødkærsbro,20,700000.0,14-08-2013,Alm.,6363,4,Villa,110,1932,-12 %
+Lerskrænten 9 8840 Rødkærsbro,9,2250000.0,08-08-2013,Alm.,14516,6,Villa,155,2009,13 %
+Klosterhøj 28 8840 Rødkærsbro,28,1360000.0,18-04-2013,Alm.,8192,3,Villa,166,1977,-5 %
+Bjerrevej 23 8840 Rødkærsbro,23,585000.0,08-04-2013,Alm.,7597,3,Villa,77,1950,-10 %
+Vindumvej 166 8840 Rødkærsbro,166,572000.0,18-03-2013,Alm.,3091,7,Stuehus,185,1974,
+Bygvej 5 8840 Rødkærsbro,5,964000.0,22-02-2013,Alm.,7590,5,Villa,127,1972,-7 %
+Duelundvej 1 8840 Rødkærsbro,1,475000.0,22-02-2013,Alm.,2423,4,Villa,196,1880,-20 %
+Østerled 25 8840 Rødkærsbro,25,675000.0,19-12-2012,Alm.,7758,4,Villa,87,1982,0 %
+Højbjerg Møllevej 79 8840 Rødkærsbro,79,1135000.0,20-11-2012,Alm.,7322,6,Villa,155,1973,-12 %
+Stadionvej 1 8840 Rødkærsbro,1,724500.0,01-11-2012,Alm.,2863,7,Villa,253,1957,-50 %
+Jernbanegade 8 8840 Rødkærsbro,8,375000.0,30-10-2012,Alm.,4629,2,Villa,81,1902,-24 %
+Brandstrupvej 19 8840 Rødkærsbro,19,750000.0,25-10-2012,Alm.,7352,4,Villa,102,1962,-12 %
+Brandstrupvej 79 8840 Rødkærsbro,79,240000.0,23-10-2012,Auktion,1751,4,Villa,137,1877,-73 %
+Kjellerupvej 26 8840 Rødkærsbro,26,765584.0,17-10-2012,Andet,4876,5,Villa,157,1910,
+Kornvangen 13 8840 Rødkærsbro,13,500000.0,19-09-2012,Alm.,4098,4,Villa,122,1973,-33 %
+Hindbærvej 2 8840 Rødkærsbro,2,1218000.0,13-09-2012,Alm.,3980,8,Villa,306,2004,-58 %
+Hindbærvej 13 8840 Rødkærsbro,13,906500.0,02-09-2012,Alm.,6714,5,Villa,135,2005,
+Klostervej 6 8840 Rødkærsbro,6,1100000.0,01-08-2012,Alm.,10000,4,Villa,110,1968,-8 %
+Bjerrevej 6 8840 Rødkærsbro,6,450000.0,18-06-2012,Alm.,5555,3,Villa,81,1954,-18 %
+Højbjerg Møllevej 37 8840 Rødkærsbro,37,456602.0,14-06-2012,Alm.,3003,5,Villa,152,1877,
+Liljevej 8 8840 Rødkærsbro,8,850000.0,26-05-2012,Alm.,6439,5,Villa,132,1976,-15 %
+Bygvej 12 8840 Rødkærsbro,12,800000.0,22-05-2012,Alm.,7272,4,Villa,110,1971,-5 %
+Havevej 21 8840 Rødkærsbro,21,2500000.0,30-04-2012,Andet,8865,6,Villa,282,1964,
+Træholtvej 19 8840 Rødkærsbro,19,350000.0,26-04-2012,Alm.,3211,4,Villa,109,1910,-39 %
+Svingelvej 2 8840 Rødkærsbro,2,612000.0,23-04-2012,Alm.,5321,5,Villa,115,1905,-12 %
+Kjellerupvej 34 8840 Rødkærsbro,34,370000.0,10-04-2012,Alm.,3978,3,Villa,93,1962,-26 %
+Fårupvej 13 8840 Rødkærsbro,13,725000.0,05-04-2012,Alm.,6196,5,Rækkehus,117,1948,
+Brandstrupvej 63 8840 Rødkærsbro,63,625000.0,05-04-2012,Alm.,5681,4,Villa,110,1965,-14 %
+Klosterhøj 16 8840 Rødkærsbro,16,1295000.0,03-04-2012,Alm.,10117,5,Villa,128,1977,0 %
+Palstrupvej 19 8840 Rødkærsbro,19,2395000.0,02-04-2012,Fam.,15352,6,Stuehus,156,1912,
+Stadionvej 7 8840 Rødkærsbro,7,550000.0,15-03-2012,Alm.,2849,7,Villa,193,1965,
+Havrevej 4 8840 Rødkærsbro,4,1150000.0,07-03-2012,Alm.,8712,4,Villa,132,1975,-8 %
+Bjerrevej 82 8840 Rødkærsbro,82,700000.0,27-02-2012,Alm.,6603,4,Villa,106,1897,
+Hindbærvej 5 8840 Rødkærsbro,5,916000.0,24-12-2011,Alm.,0,7,Villa,187,2006,
+Brandstrupvej 12 8840 Rødkærsbro,12,690000.0,13-12-2011,Alm.,4791,4,Villa,144,1908,-1 %
+Kjellerupvej 1D 8840 Rødkærsbro,0,662500.0,30-11-2011,Fam.,4981,4,Villa,133,1990,-51 %
+Højbjerg Møllevej 55 8840 Rødkærsbro,55,925000.0,29-11-2011,Alm.,8409,4,Villa,110,1974,
+Århusvej 8 8840 Rødkærsbro,8,487500.0,24-11-2011,Fam.,4028,4,Villa,121,1943,
+Duelundvej 3 8840 Rødkærsbro,3,275000.0,21-11-2011,Alm.,2330,5,Villa,118,1937,0 %
+N. P. Hansens Vej 4 8840 Rødkærsbro,4,1060000.0,07-11-2011,Alm.,9549,5,Rækkehus,111,1981,
+Søndergade 45 8840 Rødkærsbro,45,625000.0,01-11-2011,Andet,3906,7,Villa,160,1934,-49 %
+Skovbærvej 2 8840 Rødkærsbro,2,275000.0,12-10-2011,Alm.,1883,5,Villa,146,2012,
+Vindumvej 145 8840 Rødkærsbro,145,1525000.0,23-09-2011,Alm.,9591,4,Villa,159,1937,
+Skovbærvej 19 8840 Rødkærsbro,19,375000.0,22-09-2011,Alm.,2329,5,Villa,161,2012,
+Nørre Langgade 77 8840 Rødkærsbro,77,550000.0,20-09-2011,Auktion,0,4,Villa,113,1897,
+Søndergade 17 8840 Rødkærsbro,17,300000.0,13-09-2011,Auktion,2678,3,Villa,112,1900,-39 %
+Tværvej 1 8840 Rødkærsbro,1,629000.0,11-08-2011,Fam.,8736,4,Villa,72,1965,
+Bjerrevej 12 8840 Rødkærsbro,12,650000.0,10-08-2011,Alm.,5963,3,Villa,109,1965,-18 %
+Lupinvej 1 8840 Rødkærsbro,1,1812500.0,22-07-2011,Alm.,10599,7,Villa,171,1973,
+Højbjerg Byvej 17 8840 Rødkærsbro,17,245000.0,11-07-2011,Alm.,2041,3,Villa,120,1907,-11 %
+Kjellerupvej 58 8840 Rødkærsbro,58,550000.0,29-06-2011,Alm.,4365,6,Villa,126,1907,-21 %
+Faldborgvej 2 8840 Rødkærsbro,2,892147.0,09-06-2011,Alm.,5947,4,Villa,150,1922,
+Højbjerg Huse 22 8840 Rødkærsbro,22,1995000.0,01-06-2011,Alm.,8673,7,Stuehus,230,1864,0 %
+Hvedevej 9 8840 Rødkærsbro,9,1165000.0,31-05-2011,Alm.,8694,4,Villa,134,1973,
+Skovbærvej 30 8840 Rødkærsbro,30,300000.0,29-05-2011,Alm.,1657,5,Villa,181,2012,
+Vindumvej 157 8840 Rødkærsbro,157,886270.0,15-04-2011,Alm.,6154,5,Villa,144,1937,-55 %
+Nyvej 6 8840 Rødkærsbro,6,750000.0,06-04-2011,Alm.,7009,4,Villa,107,1976,
+Skovbærvej 11 8840 Rødkærsbro,11,304000.0,29-03-2011,Alm.,1527,5,Villa,199,2013,
+Nørre Langgade 20 8840 Rødkærsbro,20,500000.0,18-03-2011,Alm.,5000,4,Villa,100,1910,
+Hindbærvej 23 8840 Rødkærsbro,23,363600.0,16-03-2011,Alm.,1944,6,Villa,187,2011,
+Faldborgvej 10 8840 Rødkærsbro,10,950000.0,28-02-2011,Alm.,5828,5,Villa,163,1928,-21 %
+Østervandetvej 23 8840 Rødkærsbro,23,710000.0,25-01-2011,Alm.,6396,3,Villa,111,1890,-5 %
+Klostervej 22 8840 Rødkærsbro,22,1050000.0,07-01-2011,Alm.,7954,4,Villa,132,1977,0 %
+Rugvej 13 8840 Rødkærsbro,13,1480000.0,10-12-2010,Alm.,8457,6,Villa,175,1974,-1 %
+Brandstrup Søvej 8 8840 Rødkærsbro,8,832133.0,30-10-2010,Alm.,4810,8,Villa,173,1925,
+Brandstrupvej 92 8840 Rødkærsbro,92,755500.0,29-10-2010,Alm.,3530,7,Villa,214,1937,
+Østervang 7 8840 Rødkærsbro,7,687500.0,27-10-2010,Fam.,4523,5,Villa,152,1986,
+Duelundvej 13 8840 Rødkærsbro,13,1375000.0,04-10-2010,Fam.,10576,5,Stuehus,130,1930,
+Træholtvej 24 8840 Rødkærsbro,24,1175000.0,23-09-2010,Alm.,8392,6,Stuehus,140,1904,-2 %
+Tange Søvej 66 8840 Rødkærsbro,66,1100000.0,16-09-2010,Alm.,17460,3,Sommerhus,63,1962,-12 %
+Tjørnevej 1 8840 Rødkærsbro,1,550000.0,15-09-2010,Alm.,4400,3,Villa,125,1965,-12 %
+Duelundvej 7 8840 Rødkærsbro,7,2335000.0,06-09-2010,Alm.,0,9,Stuehus,252,1929,-6 %
+"Højbjerg Huse 7, 1 8840 Rødkærsbro",1,2900000.0,27-08-2010,Alm.,44615,2,Lejlighed,65,1944,
+Mimosevej 3 8840 Rødkærsbro,3,985000.0,14-08-2010,Alm.,8954,4,Villa,110,1969,-10 %
+Havevej 15 8840 Rødkærsbro,15,1050000.0,26-07-2010,Alm.,12209,3,Villa,86,1964,-5 %
+Højbjerg Byvej 2 8840 Rødkærsbro,2,1000000.0,27-05-2010,Alm.,8695,4,Villa,115,1909,-5 %
+Højbjerg Byvej 4 8840 Rødkærsbro,4,620000.0,21-05-2010,Alm.,7750,4,Villa,80,1957,-9 %
+Frederiks Alle 4 8840 Rødkærsbro,4,1125000.0,28-04-2010,Alm.,9533,4,Villa,118,1904,-6 %
+Brandstrup Søvej 5 8840 Rødkærsbro,5,1100000.0,12-04-2010,Alm.,5555,7,Villa,198,2009,
+Nørre Langgade 28 8840 Rødkærsbro,28,840000.0,29-03-2010,Alm.,0,8,Villa,223,1957,-22 %
+Liljevej 11 8840 Rødkærsbro,11,950000.0,25-03-2010,Alm.,0,6,Villa,158,1975,-4 %
+Vindumvej 128 8840 Rødkærsbro,128,697500.0,25-03-2010,Fam.,0,9,Stuehus,200,1930,
+Syrenvej 6 8840 Rødkærsbro,6,835000.0,19-03-2010,Alm.,12279,2,Villa,68,1947,
+Lupinvej 3 8840 Rødkærsbro,3,1440000.0,25-02-2010,Alm.,8089,6,Villa,178,1973,
+N. P. Hansens Vej 12 8840 Rødkærsbro,12,1035000.0,25-02-2010,Alm.,9324,5,Rækkehus,111,1980,-8 %
+N. P. Hansens Vej 14 8840 Rødkærsbro,14,950000.0,08-02-2010,Alm.,8558,5,Rækkehus,111,1981,-5 %
+Højbjerg Huse 47 8840 Rødkærsbro,47,327500.0,14-01-2010,Alm.,4678,2,Villa,70,1877,-11 %
+Brandstrupvej 15 8840 Rødkærsbro,15,850000.0,15-12-2009,Alm.,7203,5,Villa,118,1929,-5 %
+Vindelsbækvej 1 8840 Rødkærsbro,1,2070000.0,20-11-2009,Alm.,12176,4,Villa,170,1941,-1 %
+Nørre Langgade 79 8840 Rødkærsbro,79,1635000.0,20-11-2009,Alm.,9849,6,Villa,166,1949,-9 %
+Højbjerg Møllevej 39 8840 Rødkærsbro,39,200000.0,18-11-2009,Alm.,2857,3,Villa,70,1877,
+Østervang 15 8840 Rødkærsbro,15,1100000.0,15-11-2009,Alm.,6321,6,Villa,174,1973,-15 %
+Havevej 4 8840 Rødkærsbro,4,1100000.0,12-11-2009,Alm.,8800,5,Villa,125,1923,
+Nørre Langgade 89 8840 Rødkærsbro,89,1047000.0,29-09-2009,Alm.,9694,4,Stuehus,108,1957,
+Vindumvej 121 8840 Rødkærsbro,121,700000.0,20-08-2009,Alm.,0,7,Villa,177,1923,-20 %
+Elsborgvej 68 8840 Rødkærsbro,68,1250000.0,11-08-2009,Fam.,0,5,Stuehus,202,1917,
+Kjellerupvej 65 8840 Rødkærsbro,65,685000.0,14-07-2009,Alm.,5351,6,Villa,128,1910,-23 %
+Jens Birks Vej 6 8840 Rødkærsbro,6,1285000.0,13-07-2009,Alm.,7301,8,Villa,176,1989,-14 %
+Brombærvej 7 8840 Rødkærsbro,7,912000.0,19-06-2009,Alm.,4653,5,Villa,196,1998,
+Brandstrupvej 108 8840 Rødkærsbro,108,2667000.0,18-06-2009,Alm.,7286,9,Villa,366,1922,-1 %
+Klostervænget 5 8840 Rødkærsbro,5,1062500.0,04-06-2009,Fam.,9159,4,Villa,116,1967,
+Klostervænget 1 8840 Rødkærsbro,1,650000.0,02-06-2009,Fam.,5555,3,Villa,117,1966,
+Borgergade 11 8840 Rødkærsbro,11,775000.0,06-03-2009,Alm.,9567,3,Villa,81,1956,-12 %
+Bjerrevej 84 8840 Rødkærsbro,84,200000.0,04-03-2009,Alm.,2409,3,Villa,83,1898,
+Fårupvej 7 8840 Rødkærsbro,7,144700.0,06-02-2009,Alm.,472,9,Stuehus,306,1936,
+Vindumvej 137 8840 Rødkærsbro,137,850000.0,23-01-2009,Fam.,5089,6,Villa,167,1902,
+Brandstrupvej 50 8840 Rødkærsbro,50,1588000.0,20-01-2009,Fam.,13457,5,Stuehus,118,1906,
+Bredmosevej 17 8840 Rødkærsbro,17,250000.0,16-01-2009,Alm.,915,6,Villa,273,2012,
+Bygvej 10 8840 Rødkærsbro,10,1265000.0,04-12-2008,Alm.,10284,5,Villa,123,1973,-5 %
+Bjerrevej 13 8840 Rødkærsbro,13,800000.0,23-11-2008,Alm.,8080,4,Villa,99,1962,-5 %
+Vandet Mosevej 19 8840 Rødkærsbro,19,1200000.0,19-11-2008,Alm.,17647,4,Villa,68,1880,-8 %
+Højbjerg Huse 4 8840 Rødkærsbro,4,549131.0,26-10-2008,Andet,4733,4,Villa,116,1916,-57 %
+Bjerrevej 39 8840 Rødkærsbro,39,890000.0,23-10-2008,Alm.,12361,2,Villa,72,1963,
+Skovbærvej 22 8840 Rødkærsbro,22,300000.0,21-10-2008,Alm.,1775,6,Villa,169,2009,
+Hindbærvej 24 8840 Rødkærsbro,24,364400.0,19-09-2008,Alm.,2277,6,Villa,160,2009,
+Klostervej 14 8840 Rødkærsbro,14,1665000.0,29-08-2008,Alm.,11100,6,Villa,150,1967,0 %
+Ansvej 47 8840 Rødkærsbro,47,800000.0,28-08-2008,Auktion,2816,13,Villa,284,1931,
+Bjerrevej 35 8840 Rødkærsbro,35,1100000.0,21-08-2008,Alm.,10000,5,Villa,110,1963,
+Fårupvej 41 8840 Rødkærsbro,41,500000.0,15-08-2008,Fam.,2450,4,Stuehus,204,1912,
+Højbjerg Byvej 31 8840 Rødkærsbro,31,1060000.0,28-07-2008,Alm.,9217,4,Villa,115,1970,-1 %
+Nørre Langgade 24A 8840 Rødkærsbro,0,607518.0,10-07-2008,Andet,3727,6,Villa,163,1962,
+Ansvej 43 8840 Rødkærsbro,43,1850000.0,10-07-2008,Alm.,16086,3,Stuehus,115,1909,
+Rugvej 10 8840 Rødkærsbro,10,1298000.0,30-06-2008,Alm.,10467,5,Villa,124,1972,
+Skovbærvej 15 8840 Rødkærsbro,15,361240.0,26-06-2008,Alm.,2100,6,Villa,172,2008,
+N. P. Hansens Vej 1 8840 Rødkærsbro,1,1065000.0,21-05-2008,Alm.,9594,5,Rækkehus,111,1979,
+Klosterhøj 21 8840 Rødkærsbro,21,1600000.0,25-04-2008,Alm.,10256,6,Villa,156,1979,
+Svingelvej 5 8840 Rødkærsbro,5,1245000.0,23-04-2008,Alm.,6766,7,Villa,184,1889,
+Erantisvej 10 8840 Rødkærsbro,10,1168000.0,09-04-2008,Alm.,8916,6,Villa,131,1977,-3 %
+Brandstrupvej 98 8840 Rødkærsbro,98,130000.0,04-04-2008,Alm.,670,6,Villa,194,2011,0 %
+Tjørnevej 6 8840 Rødkærsbro,6,780000.0,29-03-2008,Alm.,13928,3,Villa,56,1943,-2 %
+Skovbærvej 21 8840 Rødkærsbro,21,300000.0,28-03-2008,Alm.,2127,4,Villa,141,2009,
+Hindbærvej 11 8840 Rødkærsbro,11,396800.0,27-03-2008,Alm.,2077,6,Villa,191,2008,
+Røverhøjvej 8 8840 Rødkærsbro,8,1065000.0,25-03-2008,Alm.,7100,6,Stuehus,150,1930,
+Viborgvej 1 8840 Rødkærsbro,1,1490000.0,24-03-2008,Alm.,8922,5,Stuehus,167,1907,-7 %
+Højbjerg Huse 1D 8840 Rødkærsbro,0,995000.0,13-03-2008,Alm.,5320,4,Villa,187,1904,0 %
+Kjellerupvej 2 8840 Rødkærsbro,2,885000.0,22-02-2008,Alm.,4116,5,Villa,215,1917,0 %
+Højbjerg Møllevej 27 8840 Rødkærsbro,27,750000.0,20-02-2008,Alm.,8823,4,Villa,85,1956,
+Fårupvej 14 8840 Rødkærsbro,14,500000.0,11-02-2008,Alm.,0,6,Rækkehus,165,1947,-5 %
+Ansvej 39 8840 Rødkærsbro,39,2000000.0,06-02-2008,Alm.,10152,8,Villa,197,1878,-13 %
+Østervang 23 8840 Rødkærsbro,23,1475000.0,04-02-2008,Alm.,5717,7,Villa,258,1969,
+Vindumvej 142 8840 Rødkærsbro,142,3100000.0,25-01-2008,Fam.,22142,5,Stuehus,140,1911,
+Kjellerupvej 56 8840 Rødkærsbro,56,2250000.0,19-01-2008,Alm.,14331,6,Villa,157,2006,-6 %
+Østerled 27 8840 Rødkærsbro,27,1150000.0,20-12-2007,Alm.,10952,4,Villa,105,1981,-4 %
+Erantisvej 4 8840 Rødkærsbro,4,1450000.0,13-12-2007,Alm.,6621,6,Villa,219,2015,-3 %
+Kjellerupvej 36 8840 Rødkærsbro,36,705000.0,12-12-2007,Alm.,0,5,Villa,118,1777,-3 %
+Klostervej 25 8840 Rødkærsbro,25,1600000.0,07-12-2007,Alm.,10000,6,Villa,160,1974,-4 %
+Havevej 12 8840 Rødkærsbro,12,990000.0,30-11-2007,Fam.,7071,6,Villa,140,1923,
+Østervænget 28 8840 Rødkærsbro,28,1095000.0,31-10-2007,Alm.,0,4,Rækkehus,103,1982,0 %
+Nørre Langgade 5 8840 Rødkærsbro,5,760000.0,22-10-2007,Alm.,7600,4,Villa,100,1962,-4 %
+Brandstrupvej 119 8840 Rødkærsbro,119,900000.0,17-10-2007,Alm.,0,8,Stuehus,216,1969,
+Borgergade 17 8840 Rødkærsbro,17,728507.0,08-10-2007,Alm.,4362,6,Villa,167,1900,
+Nørre Langgade 37 8840 Rødkærsbro,37,930000.0,05-10-2007,Alm.,9687,3,Villa,96,1911,
+Mørksvej 7 8840 Rødkærsbro,7,780000.0,25-09-2007,Alm.,0,7,Villa,172,1912,
+Faldborgvej 8 8840 Rødkærsbro,8,100000.0,01-09-2007,Alm.,344,8,Stuehus,290,1915,
+Kjellerupvej 10 8840 Rødkærsbro,10,1600000.0,13-08-2007,Alm.,7441,6,Villa,215,1902,-6 %
+Brandstrupvej 113 8840 Rødkærsbro,113,2000000.0,10-08-2007,Alm.,0,6,Villa,187,1901,-3 %
+Træholtvej 32 8840 Rødkærsbro,32,1700000.0,25-07-2007,Alm.,8947,8,Villa,190,1949,-2 %
+Hindbærvej 15 8840 Rødkærsbro,15,310800.0,17-07-2007,Alm.,1736,6,Villa,179,2008,
+Hindbærvej 7 8840 Rødkærsbro,7,300000.0,10-07-2007,Alm.,1898,6,Villa,158,2008,
+Højbjerg Møllevej 42 8840 Rødkærsbro,42,800000.0,06-07-2007,Alm.,6722,3,Villa,119,1969,-4 %
+Elsborgvej 80 8840 Rødkærsbro,80,1913000.0,05-07-2007,Alm.,10510,6,Stuehus,182,1912,-2 %
+Klostervej 15 8840 Rødkærsbro,15,885000.0,04-07-2007,Alm.,7763,4,Villa,114,1966,0 %
+Kjellerupvej 67 8840 Rødkærsbro,67,770000.0,28-06-2007,Alm.,6581,3,Villa,117,1900,
+Nørre Langgade 27 8840 Rødkærsbro,27,525000.0,27-06-2007,Alm.,5965,4,Villa,88,1852,-19 %
+Brombærvej 6 8840 Rødkærsbro,6,1645000.0,25-06-2007,Alm.,11584,5,Villa,142,1998,
+N. P. Hansens Vej 6 8840 Rødkærsbro,6,968750.0,25-06-2007,Fam.,8727,5,Rækkehus,111,1980,
+Bjerrevej 93 8840 Rødkærsbro,93,7419000.0,20-06-2007,Fam.,37281,6,Stuehus,199,1910,
+Bjerrevej 14 8840 Rødkærsbro,14,1400000.0,19-06-2007,Alm.,11864,4,Villa,118,1952,-2 %
+Klostervej 12 8840 Rødkærsbro,12,1300000.0,08-06-2007,Alm.,6565,8,Villa,198,1966,-4 %
+Århusvej 6 8840 Rødkærsbro,6,90000.0,26-05-2007,Alm.,642,4,Villa,140,2008,
+Lerskrænten 7 8840 Rødkærsbro,7,171800.0,23-05-2007,Alm.,1022,7,Villa,168,2008,
+Havrevej 6 8840 Rødkærsbro,6,550000.0,07-05-2007,Andet,3437,6,Villa,160,1976,
+Håndværkervej 4 8840 Rødkærsbro,4,3000000.0,20-04-2007,Alm.,14354,7,Villa,209,1974,
+Kornvangen 12 8840 Rødkærsbro,12,1200000.0,28-03-2007,Alm.,7741,5,Villa,155,1974,
+Røverhøjvej 1B 8840 Rødkærsbro,0,1850000.0,27-03-2007,Alm.,8185,8,Villa,226,1920,
+Brandstrupvej 94 8840 Rødkærsbro,94,5124616.0,22-03-2007,Alm.,21352,10,Villa,240,2009,
+Århusvej 7 8840 Rødkærsbro,7,1560000.0,15-03-2007,Alm.,6500,8,Villa,240,1947,0 %
+Ansvej 41 8840 Rødkærsbro,41,1500000.0,09-03-2007,Alm.,8333,5,Stuehus,180,1890,8 %
+Valmuevej 17 8840 Rødkærsbro,17,1195000.0,08-03-2007,Alm.,7029,7,Villa,170,1972,
+Træholtvej 5 8840 Rødkærsbro,5,348500.0,23-02-2007,Fam.,3004,4,Stuehus,116,1900,
+Havrevej 1 8840 Rødkærsbro,1,1395000.0,19-02-2007,Alm.,9893,5,Villa,141,1975,
+Vindelsbækvej 13 8840 Rødkærsbro,13,1050000.0,31-01-2007,Alm.,0,7,Villa,226,1964,
+Østervænget 4 8840 Rødkærsbro,4,785000.0,23-01-2007,Alm.,8626,4,Villa,91,1902,-9 %
+Havrevej 5 8840 Rødkærsbro,5,1325000.0,18-01-2007,Alm.,7047,8,Villa,188,1974,
+Krokusvej 5 8840 Rødkærsbro,5,463380.0,04-01-2007,Andet,4455,3,Villa,104,1980,
+Brandstrupvej 13A 8840 Rødkærsbro,0,715246.0,04-01-2007,Alm.,4282,6,Villa,167,1988,
+Skovbærvej 17 8840 Rødkærsbro,17,347000.0,02-01-2007,Alm.,2393,4,Villa,145,2007,
+Æghøjvej 1 8840 Rødkærsbro,1,1500000.0,29-12-2006,Fam.,9677,5,Stuehus,155,1877,
+Søndergade 20 8840 Rødkærsbro,20,657500.0,21-12-2006,Alm.,5870,3,Villa,112,1904,
+Brandstrupvej 93 8840 Rødkærsbro,93,550000.0,12-12-2006,Alm.,3985,6,Villa,138,1900,
+Rugvej 8 8840 Rødkærsbro,8,1298000.0,08-12-2006,Alm.,8320,6,Villa,156,1973,
+Tjørnevej 3 8840 Rødkærsbro,3,400000.0,05-12-2006,Fam.,5555,5,Villa,72,1945,
+Palstrupvej 4 8840 Rødkærsbro,4,515000.0,02-12-2006,Fam.,5049,5,Sommerhus,102,1939,
+Stadionvej 15 8840 Rødkærsbro,15,5361501.0,01-12-2006,Alm.,71486,2,Stuehus,75,1907,
+Vandet Mosevej 4 8840 Rødkærsbro,4,2050000.0,29-11-2006,Alm.,0,5,Villa,223,1896,
+Brandstrupvej 96 8840 Rødkærsbro,96,1275000.0,28-10-2006,Alm.,8225,5,Villa,155,1922,
+Jens Birks Vej 2A 8840 Rødkærsbro,0,955000.0,27-10-2006,Alm.,6366,5,Villa,150,1930,
+Bjerrevej 10 8840 Rødkærsbro,10,1086000.0,09-10-2006,Alm.,12776,4,Villa,85,1960,
+Brandstrupvej 86 8840 Rødkærsbro,86,790000.0,12-09-2006,Alm.,4202,6,Villa,188,1917,
+Havevej 16 8840 Rødkærsbro,16,715000.0,12-09-2006,Alm.,6745,4,Villa,106,1966,
+Østervandetvej 30 8840 Rødkærsbro,30,2550000.0,07-09-2006,Alm.,12085,8,Stuehus,211,1914,
+Tange Søvej 71 8840 Rødkærsbro,71,1475000.0,07-09-2006,Alm.,21071,3,Sommerhus,70,1900,
+Svingelvej 6 8840 Rødkærsbro,6,956000.0,05-09-2006,Alm.,6248,6,Villa,153,1905,
+Århusvej 28 8840 Rødkærsbro,28,485000.0,18-08-2006,Alm.,7950,3,Villa,61,1877,
+Krokusvej 7 8840 Rødkærsbro,7,550000.0,17-08-2006,Alm.,0,5,Villa,133,1965,
+Århusvej 16 8840 Rødkærsbro,16,520000.0,10-08-2006,Alm.,6117,2,Villa,85,1956,
+Vindelsbækvej 28 8840 Rødkærsbro,28,850000.0,22-06-2006,Alm.,9883,3,Villa,86,1957,
+Højbjerg Møllevej 38 8840 Rødkærsbro,38,386481.0,20-06-2006,Fam.,3646,4,Villa,106,1777,
+Søndergade 16 8840 Rødkærsbro,16,710000.0,19-06-2006,Alm.,6454,4,Rækkehus,110,1880,
+Nørre Langgade 18 8840 Rødkærsbro,18,450000.0,16-06-2006,Alm.,4687,4,Villa,96,1929,
+Kornvangen 16 8840 Rødkærsbro,16,1340000.0,15-06-2006,Alm.,6836,6,Villa,196,1973,
+Krokusvej 9 8840 Rødkærsbro,9,1035000.0,13-06-2006,Alm.,8483,5,Villa,122,1965,
+Klostervej 5 8840 Rødkærsbro,5,1200000.0,07-06-2006,Alm.,6315,6,Villa,190,1971,
+Højbjerg Møllevej 34 8840 Rødkærsbro,34,720000.0,19-05-2006,Alm.,5581,5,Villa,129,1900,
+Mimosevej 1 8840 Rødkærsbro,1,1025000.0,15-05-2006,Alm.,7765,4,Villa,132,1967,
+Klostervej 20 8840 Rødkærsbro,20,960000.0,09-05-2006,Fam.,5106,8,Villa,188,1974,
+Vindumvej 168 8840 Rødkærsbro,168,1000000.0,21-04-2006,Alm.,6849,3,Stuehus,146,2010,
+Hindbærvej 17 8840 Rødkærsbro,17,230000.0,02-04-2006,Alm.,1270,6,Villa,181,2006,
+Århusvej 10A 8840 Rødkærsbro,0,725000.0,20-03-2006,Alm.,11153,3,Villa,65,1960,
+Klostervænget 6 8840 Rødkærsbro,6,965000.0,18-03-2006,Alm.,7366,4,Villa,131,1967,
+Jens Birks Vej 12 8840 Rødkærsbro,12,835000.0,07-02-2006,Alm.,9823,4,Rækkehus,85,1989,
+Frederiks Alle 12 8840 Rødkærsbro,12,400000.0,01-01-2006,Andet,1739,6,Villa,230,1964,
+Nørre Langgade 43 8840 Rødkærsbro,43,770000.0,06-12-2005,Alm.,6416,4,Villa,120,1958,
+Brandstrupvej 3 8840 Rødkærsbro,3,730000.0,28-11-2005,Alm.,6576,3,Villa,111,1960,
+Palstrupvej 17 8840 Rødkærsbro,17,1300000.0,24-11-2005,Alm.,8843,5,Villa,147,1900,
+Hindbærvej 14 8840 Rødkærsbro,14,230000.0,23-11-2005,Alm.,0,8,Villa,242,2006,
+Rugvej 16 8840 Rødkærsbro,16,1165117.0,02-11-2005,Alm.,5087,8,Villa,229,1973,
+Ansvej 41A 8840 Rødkærsbro,0,820000.0,27-10-2005,Alm.,4685,4,Stuehus,175,2008,
+Vindumvej 158 8840 Rødkærsbro,158,495000.0,26-09-2005,Alm.,1443,8,Villa,343,2008,
+Højbjerg Huse 30 8840 Rødkærsbro,30,950000.0,22-09-2005,Alm.,0,7,Villa,273,1930,
+Hindbærvej 8 8840 Rødkærsbro,8,250000.0,16-09-2005,Alm.,1524,5,Villa,164,2006,
+Højbjerg Møllevej 49 8840 Rødkærsbro,49,1530000.0,27-07-2005,Alm.,7149,5,Villa,214,1958,
+Krovej 2 8840 Rødkærsbro,2,1350000.0,27-07-2005,Alm.,2641,10,Villa,511,1940,
+Voldvej 6 8840 Rødkærsbro,6,800000.0,21-07-2005,Alm.,8421,3,Villa,95,1900,
+Søndergade 37 8840 Rødkærsbro,37,2500000.0,13-07-2005,Alm.,12886,9,Villa,194,1900,
+Bjerrevej 33 8840 Rødkærsbro,33,1203504.0,11-07-2005,Fam.,7569,5,Villa,159,1972,
+Højbjerg Byvej 10 8840 Rødkærsbro,10,625000.0,11-07-2005,Alm.,4166,5,Villa,150,1931,
+Jens Birks Vej 15 8840 Rødkærsbro,15,875000.0,09-07-2005,Alm.,9114,4,Rækkehus,96,2000,
+Østervænget 30 8840 Rødkærsbro,30,740000.0,07-07-2005,Alm.,7184,4,Rækkehus,103,1983,
+Nyvej 3 8840 Rødkærsbro,3,1050000.0,24-06-2005,Alm.,4085,7,Villa,257,1933,
+Vindelsbækvej 16 8840 Rødkærsbro,16,1095000.0,21-06-2005,Alm.,7203,5,Villa,152,1900,
+Møllegårdsvej 19 8840 Rødkærsbro,19,15235311.0,21-06-2005,Fam.,55401,10,Stuehus,275,1930,
+Møllegårdsvej 15 8840 Rødkærsbro,15,5676754.0,20-06-2005,Fam.,26651,4,Stuehus,213,1946,
+Bredmosevej 18 8840 Rødkærsbro,18,772500.0,14-06-2005,Alm.,4798,5,Villa,161,1945,
+Voldvej 2 8840 Rødkærsbro,2,480000.0,01-06-2005,Alm.,3478,4,Villa,138,1900,
+Træholtvej 11 8840 Rødkærsbro,11,2245000.0,15-05-2005,Alm.,0,7,Stuehus,222,1927,
+Elsborgvej 82 8840 Rødkærsbro,82,734000.0,21-04-2005,Alm.,3020,7,Villa,243,2012,
+Fårupvej 18 8840 Rødkærsbro,18,470000.0,19-04-2005,Alm.,2685,5,Villa,175,1900,
+Brandstrupvej 67 8840 Rødkærsbro,67,465000.0,13-04-2005,Alm.,2627,6,Villa,177,1931,
+Bjerrevej 19A 8840 Rødkærsbro,0,1075000.0,07-04-2005,Alm.,9347,4,Villa,115,1941,
+Klostervænget 13 8840 Rødkærsbro,13,1040000.0,04-04-2005,Alm.,8000,5,Villa,130,1978,
+Klostervej 10 8840 Rødkærsbro,10,700000.0,25-02-2005,Alm.,6306,3,Villa,111,1967,
+Østervang 9 8840 Rødkærsbro,9,772138.0,10-02-2005,Alm.,4981,4,Villa,155,1963,
+N. P. Hansens Vej 7 8840 Rødkærsbro,7,735000.0,23-12-2004,Alm.,6621,5,Rækkehus,111,1980,
+Højbjerg Møllevej 53 8840 Rødkærsbro,53,636698.0,17-12-2004,Fam.,2053,5,Villa,310,1976,
+Vindumvej 132 8840 Rødkærsbro,132,1588149.0,14-12-2004,Fam.,8271,5,Stuehus,192,2000,
+Frederiksgade 12 8840 Rødkærsbro,12,825000.0,13-12-2004,Alm.,5188,6,Villa,159,1894,
+Elsborgvej 60 8840 Rødkærsbro,60,410160.0,28-11-2004,Andet,2470,6,Villa,166,1910,
+Bredmosevej 23 8840 Rødkærsbro,23,374770.0,25-11-2004,Alm.,3569,4,Stuehus,105,1882,
+Vindumvej 134 8840 Rødkærsbro,134,522780.0,23-11-2004,Andet,3815,3,Stuehus,137,1900,
+Træholtvej 16 8840 Rødkærsbro,16,150000.0,22-11-2004,Alm.,490,8,Stuehus,306,1981,
+Brandstrupvej 14 8840 Rødkærsbro,14,465000.0,30-09-2004,Alm.,4266,5,Villa,109,1912,
+Liljevej 7 8840 Rødkærsbro,7,795984.0,06-08-2004,Alm.,0,6,Villa,137,1975,
+Træholtvej 13 8840 Rødkærsbro,13,482906.0,23-07-2004,Alm.,0,5,Stuehus,209,1920,
+Bærhøjen 12 8840 Rødkærsbro,12,1676467.0,08-07-2004,Alm.,0,4,Villa,200,1935,
+Bjerrevej 29 8840 Rødkærsbro,29,885000.0,01-06-2004,Alm.,6145,5,Villa,144,1963,
+Kjellerupvej 1C 8840 Rødkærsbro,0,1040000.0,29-05-2004,Alm.,8455,4,Villa,123,1989,
+Kornvangen 5 8840 Rødkærsbro,5,951834.0,12-05-2004,Fam.,6475,5,Villa,147,1972,
+Møllegårdsvej 10 8840 Rødkærsbro,10,1535000.0,10-04-2004,Alm.,6914,6,Stuehus,222,1837,
+Brandstrupvej 11 8840 Rødkærsbro,11,565000.0,07-04-2004,Alm.,4448,5,Villa,127,1932,
+Brandstrupvej 83 8840 Rødkærsbro,83,3000000.0,04-12-2003,Alm.,22727,4,Stuehus,132,1884,
+Havevej 7 8840 Rødkærsbro,7,655000.0,04-11-2003,Alm.,6550,4,Villa,100,1960,
+Frederiks Alle 2 8840 Rødkærsbro,2,477500.0,07-10-2003,Alm.,3701,5,Villa,129,1900,
+Mimosevej 6 8840 Rødkærsbro,6,557629.0,27-09-2003,Alm.,7744,3,Villa,72,1962,
+Ansvej 16 8840 Rødkærsbro,16,1100000.0,24-09-2003,Alm.,7333,4,Stuehus,150,1862,
+Højbjerg Huse 26 8840 Rødkærsbro,26,700000.0,19-09-2003,Fam.,5147,5,Villa,136,1896,
+Syrenvej 4 8840 Rødkærsbro,4,675000.0,18-09-2003,Alm.,5113,4,Villa,132,1948,
+Klosterhøj 14 8840 Rødkærsbro,14,1185000.0,16-09-2003,Alm.,5337,7,Villa,222,1979,
+Erantisvej 6 8840 Rødkærsbro,6,770000.0,10-09-2003,Alm.,5661,5,Villa,136,1977,
+Røverhøjvej 6B 8840 Rødkærsbro,0,2200000.0,04-09-2003,Alm.,0,0,Landbrugsgrund,0,0,
+Mimosevej 5 8840 Rødkærsbro,5,885988.0,29-08-2003,Alm.,5034,7,Villa,176,1969,
+Vandet Mosevej 15 8840 Rødkærsbro,15,141673.0,26-08-2003,Alm.,3632,3,Sommerhus,39,1850,
+Århusvej 12 8840 Rødkærsbro,12,675000.0,07-08-2003,Alm.,0,7,Villa,136,1951,
+Bredmosevej 19 8840 Rødkærsbro,19,1692000.0,06-08-2003,Alm.,10192,6,Stuehus,166,1896,
+Vindumvej 136 8840 Rødkærsbro,136,606285.0,04-08-2003,Andet,4663,4,Stuehus,130,1955,
+Højbjerg Møllevej 35 8840 Rødkærsbro,35,814962.0,15-07-2003,Alm.,5326,5,Villa,153,1928,
+Brandstrupvej 105 8840 Rødkærsbro,105,410000.0,04-07-2003,Alm.,0,6,Villa,126,1909,
+Kjellerupvej 33 8840 Rødkærsbro,33,9800000.0,25-06-2003,Alm.,43362,10,Stuehus,226,1914,
+Højbjerg Byvej 39 8840 Rødkærsbro,39,1150000.0,04-06-2003,Alm.,7467,4,Villa,154,1852,
+Østervang 3 8840 Rødkærsbro,3,915000.0,22-05-2003,Alm.,6100,6,Villa,150,1947,
+Viborgvej 12 8840 Rødkærsbro,12,475000.0,14-05-2003,Alm.,0,6,Stuehus,167,1926,
+Nørre Langgade 21 8840 Rødkærsbro,21,535589.0,14-04-2003,Alm.,3594,4,Villa,149,1929,
+Vandet Mosevej 5 8840 Rødkærsbro,5,1000000.0,12-04-2003,Alm.,8928,2,Stuehus,112,1907,
+Tange Søvej 75 8840 Rødkærsbro,75,1623000.0,09-04-2003,Alm.,13088,4,Villa,124,1963,
+Nørremosevej 21 8840 Rødkærsbro,21,1287751.0,27-03-2003,Alm.,8202,4,Stuehus,157,1910,
+Bygvej 8 8840 Rødkærsbro,8,745000.0,10-03-2003,Alm.,6535,4,Villa,114,1973,
+Røverhøjvej 10 8840 Rødkærsbro,10,1756003.0,20-02-2003,Alm.,8913,4,Villa,197,1970,
+Østervandetvej 28 8840 Rødkærsbro,28,1150000.0,26-11-2002,Alm.,10267,4,Villa,112,1880,
+Røverhøjvej 5 8840 Rødkærsbro,5,1400000.0,25-11-2002,Alm.,11666,6,Stuehus,120,1963,
+Brandstrupvej 2 8840 Rødkærsbro,2,357000.0,12-11-2002,Fam.,3275,7,Industri o.l.,109,1948,
+Nørre Langgade 14 8840 Rødkærsbro,14,548000.0,23-10-2002,Alm.,4683,5,Villa,117,1925,
+Århusvej 14 8840 Rødkærsbro,14,645000.0,15-10-2002,Alm.,0,5,Villa,131,1954,
+Kornvangen 2 8840 Rødkærsbro,2,895000.0,07-10-2002,Alm.,6438,4,Villa,139,1973,
+Østervænget 48 8840 Rødkærsbro,48,450000.0,30-09-2002,Alm.,5357,3,Villa,84,1948,
+Højbjerg Huse 35 8840 Rødkærsbro,35,465000.0,18-09-2002,Alm.,0,4,Villa,112,1954,
+Frederiks Alle 11 8840 Rødkærsbro,11,300000.0,14-08-2002,Alm.,4225,4,Villa,71,1955,
+Erhvervsvej 15 8840 Rødkærsbro,15,625000.0,07-08-2002,Fam.,2323,9,Villa,269,1981,
+Bredmosevej 15 8840 Rødkærsbro,15,1265000.0,10-07-2002,Alm.,11500,3,Stuehus,110,1946,
+Nørre Langgade 35 8840 Rødkærsbro,35,400000.0,09-07-2002,Alm.,2684,6,Villa,149,1906,
+Palstrupvej 10 8840 Rødkærsbro,10,1425000.0,19-06-2002,Alm.,0,5,Stuehus,176,1928,
+Dybdal 5 8840 Rødkærsbro,5,1150000.0,30-05-2002,Alm.,4339,5,Stuehus,265,1870,
+Kjellerupvej 8 8840 Rødkærsbro,8,1207000.0,26-05-2002,Alm.,9503,5,Villa,127,1915,
+Krokusvej 3 8840 Rødkærsbro,3,605000.0,20-04-2002,Alm.,5931,3,Villa,102,1964,
+Nørre Langgade 24B 8840 Rødkærsbro,0,850000.0,15-04-2002,Fam.,6439,4,Villa,132,1975,
+Faldborgvej 1 8840 Rødkærsbro,1,371859.0,11-04-2002,Alm.,2734,4,Villa,136,1870,
+Østervang 17 8840 Rødkærsbro,17,455000.0,18-03-2002,Auktion,3611,5,Villa,126,1969,
+Tange Søvej 70 8840 Rødkærsbro,70,1895000.0,20-02-2002,Alm.,11347,4,Villa,167,1966,
+Træholtvej 14 8840 Rødkærsbro,14,771000.0,18-02-2002,Alm.,7558,4,Villa,102,1865,
+Kjellerupvej 5 8840 Rødkærsbro,5,1350000.0,13-02-2002,Alm.,6308,7,Villa,214,1937,
+Hindbærvej 1 8840 Rødkærsbro,1,200000.0,08-02-2002,Alm.,1183,6,Villa,169,2003,
+Nørre Langgade 93 8840 Rødkærsbro,93,775000.0,18-01-2002,Alm.,6739,3,Stuehus,115,2009,
+Bjerrevej 81 8840 Rødkærsbro,81,1200000.0,13-12-2001,Alm.,6818,4,Stuehus,176,1902,
+Brandstrupvej 32 8840 Rødkærsbro,32,745000.0,10-12-2001,Alm.,7163,4,Villa,104,1962,
+Højbjerg Huse 24 8840 Rødkærsbro,24,575000.0,26-11-2001,Alm.,5750,2,Villa,100,1875,
+Vindumvej 147 8840 Rødkærsbro,147,435000.0,19-11-2001,Alm.,0,5,Villa,135,1875,
+Brandstrupvej 21 8840 Rødkærsbro,21,425000.0,18-10-2001,Fam.,3373,5,Villa,126,1963,
+Brombærvej 3 8840 Rødkærsbro,3,35200.0,10-09-2001,Fam.,84,5,Villa,416,1997,
+Valmuevej 8 8840 Rødkærsbro,8,750000.0,02-08-2001,Andet,5434,4,Villa,138,1971,
+Brandstrupvej 102 8840 Rødkærsbro,102,1574751.0,12-07-2001,Alm.,11494,4,Stuehus,137,1912,
+Fårupvej 5 8840 Rødkærsbro,5,300000.0,20-06-2001,Alm.,1960,5,Villa,153,1924,
+Bakkevænget 2 8840 Rødkærsbro,2,457500.0,13-06-2001,Fam.,3574,5,Villa,128,1961,
+Røverhøjvej 2 8840 Rødkærsbro,2,475000.0,31-05-2001,Alm.,4523,4,Villa,105,1900,
+Klosterhøj 22 8840 Rødkærsbro,22,1240000.0,18-05-2001,Alm.,5904,5,Villa,210,1977,
+Vindumvej 159 8840 Rødkærsbro,159,9300000.0,12-05-2001,Alm.,76229,4,Stuehus,122,1969,
+Vindumvej 146 8840 Rødkærsbro,146,529802.0,03-05-2001,Alm.,3010,5,Stuehus,176,1900,
+Ansvej 37 8840 Rødkærsbro,37,420000.0,24-04-2001,Alm.,0,6,Villa,118,1920,
+Klostervej 28 8840 Rødkærsbro,28,1057395.0,28-03-2001,Alm.,6911,5,Villa,153,1973,
+Bjerrevej 24 8840 Rødkærsbro,24,810000.0,26-02-2001,Alm.,4939,8,Villa,164,1950,
+Brandstrupvej 39 8840 Rødkærsbro,39,659051.0,30-01-2001,Alm.,5446,4,Stuehus,121,1900,
+Århusvej 2 8840 Rødkærsbro,2,486360.0,15-01-2001,Alm.,3576,5,Villa,136,1908,
+Nørre Langgade 6C 8840 Rødkærsbro,0,950000.0,20-12-2000,Alm.,0,8,Villa,191,1970,
+Højbjerg Huse 32 8840 Rødkærsbro,32,624000.0,13-12-2000,Alm.,0,5,Villa,174,1910,
+Bredmosevej 14 8840 Rødkærsbro,14,437000.0,04-12-2000,Alm.,0,5,Villa,160,1885,
+Jens Birks Vej 5 8840 Rødkærsbro,5,775000.0,22-11-2000,Alm.,7673,3,Villa,101,1990,
+Mimosevej 9 8840 Rødkærsbro,9,767959.0,21-11-2000,Alm.,5774,5,Villa,133,1971,
+Højbjerg Møllevej 23 8840 Rødkærsbro,23,200000.0,20-11-2000,Fam.,1960,3,Villa,102,1937,
+Kjellerupvej 80 8840 Rødkærsbro,80,337558.0,26-10-2000,Alm.,0,5,Villa,158,1877,
+Højbjerg Møllevej 59 8840 Rødkærsbro,59,626744.0,19-10-2000,Alm.,6812,4,Villa,92,1964,
+Træholtvej 12 8840 Rødkærsbro,12,975000.0,19-10-2000,Alm.,5327,6,Stuehus,183,1892,
+Højbjerg Byvej 12 8840 Rødkærsbro,12,3171717.0,21-09-2000,Fam.,9383,8,Stuehus,338,1831,
+Elsborgvej 34 8840 Rødkærsbro,34,70000.0,30-08-2000,Alm.,406,8,Stuehus,172,1914,
+Bakkevænget 3 8840 Rødkærsbro,3,735000.0,16-08-2000,Alm.,4932,7,Villa,149,1964,
+Brandstrupvej 88 8840 Rødkærsbro,88,836781.0,15-08-2000,Alm.,5363,5,Villa,156,1951,
+Bredmosevej 33 8840 Rødkærsbro,33,966000.0,25-07-2000,Fam.,6192,6,Stuehus,156,1927,
+Brandstrupvej 104 8840 Rødkærsbro,104,531500.0,13-07-2000,Andet,2985,6,Stuehus,178,1935,
+Havevej 10 8840 Rødkærsbro,10,570000.0,30-06-2000,Alm.,5428,3,Villa,105,1930,
+Vindelsbækvej 21 8840 Rødkærsbro,21,710000.0,22-06-2000,Alm.,6339,4,Villa,112,1887,
+Tjørnevej 2 8840 Rødkærsbro,2,750000.0,19-06-2000,Alm.,6521,5,Villa,115,1962,
+Bjerrevej 31 8840 Rødkærsbro,31,554000.0,20-05-2000,Alm.,5431,3,Villa,102,1957,
+Viborgvej 8 8840 Rødkærsbro,8,940000.0,12-05-2000,Alm.,0,8,Stuehus,234,1953,
+Vindelsbækvej 22 8840 Rødkærsbro,22,795224.0,03-05-2000,Alm.,4229,8,Villa,188,1941,
+Jens Birks Vej 13 8840 Rødkærsbro,13,825000.0,28-03-2000,Alm.,8593,4,Rækkehus,96,2000,
+Nørre Langgade 81 8840 Rødkærsbro,81,700000.0,21-03-2000,Alm.,5035,6,Stuehus,139,2003,
+Frederiks Alle 7 8840 Rødkærsbro,7,440000.0,07-03-2000,Andet,2875,5,Villa,153,1909,
+Brombærvej 8 8840 Rødkærsbro,8,1285000.0,03-03-2000,Alm.,8986,5,Villa,143,1997,
+Højbjerg Huse 40 8840 Rødkærsbro,40,2594000.0,25-02-2000,Alm.,18934,5,Stuehus,137,1847,
+Røverhøjvej 3 8840 Rødkærsbro,3,860000.0,14-02-2000,Alm.,5477,5,Villa,157,1910,
+Møllegårdsvej 11 8840 Rødkærsbro,11,500000.0,03-02-2000,Alm.,2369,5,Villa,211,1877,
+Røverhøjvej 4 8840 Rødkærsbro,4,7500000.0,31-01-2000,Alm.,37500,5,Stuehus,200,1892,
+Frederiksgade 8 8840 Rødkærsbro,8,345000.0,20-01-2000,Alm.,4312,3,Villa,80,1947,
+Vindumvej 126 8840 Rødkærsbro,126,180000.0,03-01-2000,Alm.,1384,4,Stuehus,130,1945,
+Nørre Langgade 73 8840 Rødkærsbro,73,1318000.0,21-12-1999,Alm.,11981,4,Stuehus,110,1868,
+Vindelsbækvej 20 8840 Rødkærsbro,20,930000.0,16-12-1999,Fam.,5109,6,Villa,182,1977,
+Jens Birks Vej 11 8840 Rødkærsbro,11,825000.0,13-12-1999,Alm.,8593,4,Rækkehus,96,2000,
+Brandstrupvej 81 8840 Rødkærsbro,81,565000.0,16-11-1999,Alm.,2797,7,Villa,202,1950,
+Kjellerupvej 57 8840 Rødkærsbro,57,588849.0,11-10-1999,Alm.,4495,6,Villa,131,1900,
+Elsborgvej 58 8840 Rødkærsbro,58,400000.0,23-09-1999,Alm.,0,6,Villa,262,1924,
+Brandstrupvej 52 8840 Rødkærsbro,52,752000.0,21-09-1999,Fam.,0,6,Stuehus,177,1900,
+Højbjerg Huse 1A 8840 Rødkærsbro,0,800000.0,19-08-1999,Alm.,7407,4,Stuehus,108,1934,
+Fårupvej 11 8840 Rødkærsbro,11,1010000.0,05-07-1999,Alm.,3672,9,Stuehus,275,1932,
+Vindelsbækvej 18 8840 Rødkærsbro,18,1422522.0,02-07-1999,Alm.,13547,4,Stuehus,105,1910,
+Kjellerupvej 25 8840 Rødkærsbro,25,698000.0,28-05-1999,Alm.,5132,4,Villa,136,1900,
+Østervang 19 8840 Rødkærsbro,19,449000.0,27-05-1999,Alm.,0,5,Villa,126,1962,
+Valmuevej 10 8840 Rødkærsbro,10,846000.0,17-05-1999,Alm.,6130,4,Villa,138,1971,
+Ansvej 49 8840 Rødkærsbro,49,1335800.0,15-05-1999,Alm.,4452,10,Villa,300,1920,
+Nørre Langgade 31 8840 Rødkærsbro,31,588965.0,06-05-1999,Alm.,3365,7,Villa,175,1925,
+Vindumvej 141 8840 Rødkærsbro,141,345000.0,30-03-1999,Alm.,3450,3,Villa,100,1827,
+Klosterhøj 7 8840 Rødkærsbro,7,784519.0,29-03-1999,Alm.,0,6,Villa,201,1979,
+Erantisvej 11 8840 Rødkærsbro,11,884200.0,22-03-1999,Alm.,6361,5,Villa,139,1977,
+Bygvej 1 8840 Rødkærsbro,1,1065000.0,18-03-1999,Alm.,5433,6,Villa,196,1972,
+Højbjerg Møllevej 63 8840 Rødkærsbro,63,925000.0,12-03-1999,Alm.,6379,4,Villa,145,1973,
+Svingelvej 8 8840 Rødkærsbro,8,900000.0,14-02-1999,Alm.,0,9,Villa,225,1927,
+Kjellerupvej 1A 8840 Rødkærsbro,0,884000.0,29-01-1999,Alm.,0,4,Villa,110,1989,
+Hindbærvej 9 8840 Rødkærsbro,9,200000.0,21-01-1999,Alm.,1086,5,Villa,184,1999,
+Højbjerg Huse 36 8840 Rødkærsbro,36,527000.0,20-01-1999,Fam.,3136,3,Stuehus,168,2000,
+Højbjerg Huse 8 8840 Rødkærsbro,8,215000.0,31-12-1998,Alm.,2263,5,Villa,95,1924,
+Nørre Langgade 57 8840 Rødkærsbro,57,346002.0,17-12-1998,Fam.,2661,5,Villa,130,1949,
+Havevej 2 8840 Rødkærsbro,2,550000.0,10-12-1998,Alm.,0,3,Villa,94,1969,
+Borgergade 4 8840 Rødkærsbro,4,440000.0,15-10-1998,Auktion,2588,8,Villa,170,1901,
+Højbjerg Huse 46 8840 Rødkærsbro,46,1965750.0,29-09-1998,Alm.,15121,4,Stuehus,130,1962,
+Vindumvej 153 8840 Rødkærsbro,153,2350000.0,28-09-1998,Alm.,14329,7,Stuehus,164,1964,
+Nørre Langgade 46 8840 Rødkærsbro,46,350000.0,25-09-1998,Alm.,2692,5,Villa,130,1922,
+Klostervej 13 8840 Rødkærsbro,13,1135000.0,12-09-1998,Alm.,5563,10,Villa,204,1967,
+Søndergade 29 8840 Rødkærsbro,29,585000.0,03-09-1998,Alm.,3750,5,Villa,156,1869,
+Faldborgvej 6 8840 Rødkærsbro,6,1525000.0,26-08-1998,Fam.,8288,6,Stuehus,184,1922,
+Dybdal 6 8840 Rødkærsbro,6,572000.0,20-08-1998,Alm.,0,4,Stuehus,167,1932,
+Mimosevej 8 8840 Rødkærsbro,8,703049.0,20-08-1998,Fam.,5624,3,Villa,125,1966,
+Kornvangen 6 8840 Rødkærsbro,6,358885.0,07-08-1998,Andet,2475,6,Villa,145,1974,
+Bjerrevej 38 8840 Rødkærsbro,38,965295.0,15-07-1998,Alm.,6522,5,Villa,148,1973,
+Kjellerupvej 43 8840 Rødkærsbro,43,808904.0,09-07-1998,Alm.,6576,3,Villa,123,1946,
+Bjerrevej 34 8840 Rødkærsbro,34,410000.0,22-06-1998,Fam.,0,6,Villa,134,1949,
+Elsborgvej 73 8840 Rødkærsbro,73,1192878.0,20-05-1998,Alm.,7229,5,Stuehus,165,1961,
+Søndergade 18 8840 Rødkærsbro,18,743278.0,29-04-1998,Alm.,4616,5,Villa,161,1932,
+Klosterhøj 20 8840 Rødkærsbro,20,795000.0,27-04-1998,Alm.,6411,4,Villa,124,1978,
+Svingelvej 10 8840 Rødkærsbro,10,1072444.0,07-04-1998,Alm.,4172,6,Villa,257,1897,
+Klostervej 24 8840 Rødkærsbro,24,1086320.0,01-04-1998,Alm.,7389,4,Villa,147,1980,
+Vindelsbækvej 4 8840 Rødkærsbro,4,1098000.0,27-03-1998,Alm.,12620,4,Stuehus,87,1945,
+Højbjerg Huse 5 8840 Rødkærsbro,5,282959.0,19-03-1998,Fam.,1589,5,Villa,178,1887,
+Brandstrupvej 61 8840 Rødkærsbro,61,327944.0,16-03-1998,Andet,0,5,Villa,144,1970,
+Viborgvej 13 8840 Rødkærsbro,13,777724.0,20-02-1998,Alm.,5555,5,Stuehus,140,1928,
+Jernbanegade 11 8840 Rødkærsbro,11,663070.0,18-02-1998,Alm.,4911,4,Villa,135,1933,
+Vindumvej 111 8840 Rødkærsbro,111,1500000.0,11-02-1998,Alm.,8196,4,Stuehus,183,1933,
+Frederiks Alle 5 8840 Rødkærsbro,5,804100.0,26-01-1998,Alm.,4621,6,Villa,174,1911,
+Højbjerg Møllevej 36 8840 Rødkærsbro,36,3022380.0,09-01-1998,Andet,10315,7,Villa,293,1979,
+Brandstrupvej 115 8840 Rødkærsbro,115,70000.0,26-11-1997,Alm.,445,5,Stuehus,157,1900,
+Klostervej 17 8840 Rødkærsbro,17,849000.0,10-11-1997,Alm.,6530,4,Villa,130,1966,
+Bjerrevej 1 8840 Rødkærsbro,1,506980.0,24-10-1997,Alm.,3496,5,Villa,145,1950,
+Brombærvej 9 8840 Rødkærsbro,9,181400.0,23-10-1997,Alm.,0,6,Villa,217,1998,
+Søndergade 41 8840 Rødkærsbro,41,664000.0,21-10-1997,Alm.,5533,5,Villa,120,1915,
+Vindelsbækvej 9 8840 Rødkærsbro,9,440000.0,10-10-1997,Alm.,0,4,Villa,123,1948,
+Faldborgvej 3 8840 Rødkærsbro,3,695550.0,03-10-1997,Alm.,0,5,Villa,157,1875,
+Røverhøjvej 1A 8840 Rødkærsbro,0,45000.0,29-09-1997,Alm.,292,4,Villa,154,2005,
+Nørre Langgade 22 8840 Rødkærsbro,22,314000.0,29-09-1997,Fam.,0,9,Villa,223,1915,
+Århusvej 4 8840 Rødkærsbro,4,645000.0,25-09-1997,Alm.,4777,5,Villa,135,1887,
+Bjerrevej 30 8840 Rødkærsbro,30,247611.0,05-09-1997,Andet,0,3,Villa,110,1953,
+Kjellerupvej 76 8840 Rødkærsbro,76,463000.0,18-08-1997,Alm.,3795,7,Villa,122,1925,
+Tange Søvej 83 8840 Rødkærsbro,83,4000000.0,13-08-1997,Alm.,0,11,Stuehus,379,1870,
+Hvedevej 6 8840 Rødkærsbro,6,794876.0,08-08-1997,Alm.,5128,6,Villa,155,1972,
+Nørre Langgade 17 8840 Rødkærsbro,17,809509.0,21-07-1997,Alm.,5396,5,Villa,150,1916,
+Stadionvej 5 8840 Rødkærsbro,5,383000.0,24-04-1997,Alm.,0,3,Villa,99,1960,
+Fårupvej 25 8840 Rødkærsbro,25,1122190.0,01-04-1997,Alm.,7792,7,Stuehus,144,1841,
+Kjellerupvej 54 8840 Rødkærsbro,54,1550000.0,26-03-1997,Alm.,10763,4,Villa,144,1880,
+Højbjerg Byvej 21 8840 Rødkærsbro,21,960000.0,20-03-1997,Alm.,5000,5,Stuehus,192,1935,
+Brombærvej 13 8840 Rødkærsbro,13,184780.0,16-02-1997,Alm.,1338,5,Villa,138,1997,
+Nyvej 2 8840 Rødkærsbro,2,645000.0,13-01-1997,Fam.,5119,4,Villa,126,1980,
+Vindumvej 124 8840 Rødkærsbro,124,1099600.0,07-01-1997,Alm.,0,11,Stuehus,188,1904,
+Østervænget 38 8840 Rødkærsbro,38,515866.0,12-12-1996,Alm.,0,4,Rækkehus,103,1981,
+Træholtvej 28 8840 Rødkærsbro,28,550000.0,09-12-1996,Alm.,0,5,Stuehus,155,1913,
+Østervænget 17 8840 Rødkærsbro,17,293698.0,13-11-1996,Alm.,1945,4,Villa,151,1867,
+Højbjerg Møllevej 47 8840 Rødkærsbro,47,627443.0,02-11-1996,Alm.,4022,6,Villa,156,1887,
+Højbjerg Huse 19 8840 Rødkærsbro,19,50000.0,26-09-1996,Alm.,344,5,Villa,145,2012,
+Brandstrupvej 84 8840 Rødkærsbro,84,261000.0,31-08-1996,Alm.,2965,3,Villa,88,1965,
+Møllegårdsvej 9 8840 Rødkærsbro,9,155000.0,13-08-1996,Alm.,2583,2,Villa,60,1859,
+Kjellerupvej 78 8840 Rødkærsbro,78,50000.0,10-08-1996,Alm.,396,4,Villa,126,1910,
+Fårupvej 16 8840 Rødkærsbro,16,390000.0,23-07-1996,Alm.,4382,3,Rækkehus,89,1947,
+Søndergade 31 8840 Rødkærsbro,31,396000.0,20-07-1996,Alm.,2224,6,Villa,178,1900,
+Kjellerupvej 27 8840 Rødkærsbro,27,199750.0,02-07-1996,Fam.,1203,6,Stuehus,166,1962,
+Kjellerupvej 3A 8840 Rødkærsbro,0,564000.0,14-05-1996,Alm.,5035,6,Villa,112,1960,
+Vindumvej 109 8840 Rødkærsbro,109,657886.0,15-04-1996,Alm.,0,10,Stuehus,203,1930,
+Højbjerg Møllevej 45 8840 Rødkærsbro,45,45000.0,23-02-1996,Alm.,918,2,Villa,49,1900,
+Klosterhøj 17 8840 Rødkærsbro,17,738390.0,05-02-1996,Alm.,0,6,Villa,166,1978,
+Højbjerg Huse 34 8840 Rødkærsbro,34,874000.0,30-01-1996,Alm.,4181,5,Stuehus,209,1900,
+Ansvej 45 8840 Rødkærsbro,45,625000.0,28-11-1995,Alm.,5580,4,Stuehus,112,1920,
+Vindumvej 117 8840 Rødkærsbro,117,725000.0,09-11-1995,Alm.,0,7,Stuehus,198,1908,
+Borgergade 7 8840 Rødkærsbro,7,285000.0,07-11-1995,Alm.,0,3,Villa,80,1965,
+Kjellerupvej 74 8840 Rødkærsbro,74,180255.0,18-10-1995,Alm.,1287,4,Villa,140,1880,
+Frederiks Alle 3 8840 Rødkærsbro,3,664000.0,16-09-1995,Alm.,4024,6,Villa,165,1906,
+Klostervej 19 8840 Rødkærsbro,19,780000.0,07-09-1995,Alm.,4561,7,Villa,171,1975,
+Brombærvej 4 8840 Rødkærsbro,4,153840.0,04-09-1995,Alm.,1012,5,Villa,152,1995,
+Brombærvej 1 8840 Rødkærsbro,1,149577.0,15-08-1995,Alm.,0,5,Villa,278,1997,
+Løvhegnet 4 8840 Rødkærsbro,4,25000.0,29-05-1995,Alm.,178,7,Stuehus,140,1910,
+Århusvej 20 8840 Rødkærsbro,20,486000.0,11-05-1995,Alm.,4860,3,Villa,100,1961,
+Bjerrevej 15 8840 Rødkærsbro,15,570000.0,01-05-1995,Alm.,2676,7,Villa,213,1963,
+Bredmosevej 5 8840 Rødkærsbro,5,563000.0,22-03-1995,Alm.,4170,4,Villa,135,1980,
+Højbjerg Møllevej 40 8840 Rødkærsbro,40,465000.0,15-03-1995,Alm.,4696,3,Villa,99,1979,
+Ansvej 14 8840 Rødkærsbro,14,1243000.0,15-03-1995,Alm.,8753,5,Stuehus,142,1943,
+Elsborgvej 38 8840 Rødkærsbro,38,398000.0,20-02-1995,Alm.,4326,3,Stuehus,92,1850,
+Klostervej 16 8840 Rødkærsbro,16,235518.0,06-02-1995,Alm.,2047,2,Villa,115,1966,
+Havevej 3 8840 Rødkærsbro,3,535000.0,22-12-1994,Alm.,0,6,Villa,154,1930,
+Højbjerg Huse 31 8840 Rødkærsbro,31,365000.0,23-11-1994,Alm.,1533,7,Villa,238,1907,
+Fårupvej 19A 8840 Rødkærsbro,0,1650000.0,18-11-1994,Alm.,7971,5,Villa,207,1877,
+Højbjerg Byvej 3 8840 Rødkærsbro,3,370000.0,09-11-1994,Alm.,3457,5,Villa,107,1930,
+Bjerrevej 8 8840 Rødkærsbro,8,517000.0,28-10-1994,Alm.,3446,5,Villa,150,1971,
+Elsborgvej 50 8840 Rødkærsbro,50,1423571.0,03-10-1994,Alm.,7908,7,Stuehus,180,1930,
+Klostervej 3 8840 Rødkærsbro,3,650000.0,25-08-1994,Alm.,4779,5,Villa,136,1971,
+Nørremosevej 27 8840 Rødkærsbro,27,473960.0,14-08-1994,Alm.,0,4,Villa,110,1966,
+Højbjerg Byvej 27 8840 Rødkærsbro,27,280000.0,20-07-1994,Alm.,3783,3,Villa,74,1923,
+Havevej 5 8840 Rødkærsbro,5,405000.0,03-07-1994,Alm.,0,6,Villa,156,1938,
+Brandstrupvej 54 8840 Rødkærsbro,54,525000.0,27-06-1994,Alm.,4565,5,Stuehus,115,1917,
+Liljevej 3 8840 Rødkærsbro,3,415000.0,22-06-1994,Alm.,4234,3,Villa,98,1976,
+Vindumvej 119 8840 Rødkærsbro,119,320000.0,16-06-1994,Alm.,2962,4,Villa,108,1900,
+Skovsborgvej 2 8840 Rødkærsbro,2,1825000.0,25-05-1994,Alm.,7635,8,Stuehus,239,1949,
+Bygvej 7 8840 Rødkærsbro,7,695000.0,05-05-1994,Alm.,4793,4,Villa,145,1975,
+Nørre Langgade 38B 8840 Rødkærsbro,0,3200000.0,28-04-1994,Alm.,33333,3,Lejlighed,96,1940,
+Klostervej 18 8840 Rødkærsbro,18,325000.0,12-04-1994,Fam.,2210,6,Villa,147,1970,
+Viborgvej 3 8840 Rødkærsbro,3,3232000.0,04-04-1994,Alm.,10195,12,Stuehus,317,1922,
+Elsborgvej 32 8840 Rødkærsbro,32,675000.0,25-03-1994,Alm.,3082,6,Stuehus,219,1926,
+Mimosevej 4 8840 Rødkærsbro,4,325000.0,19-03-1994,Alm.,2850,3,Villa,114,1966,
+Nørremosevej 25 8840 Rødkærsbro,25,230000.0,18-03-1994,Alm.,1437,5,Villa,160,1910,
+Æghøjvej 8 8840 Rødkærsbro,8,392300.0,19-01-1994,Alm.,1807,10,Villa,217,1877,
+Valmuevej 4 8840 Rødkærsbro,4,600000.0,14-12-1993,Alm.,0,6,Villa,243,1966,
+Højbjerg Huse 21 8840 Rødkærsbro,21,390000.0,09-12-1993,Alm.,0,4,Villa,153,1907,
+Håndværkervej 8 8840 Rødkærsbro,8,870000.0,29-11-1993,Fam.,3782,8,Villa,230,1986,
+Havevej 19 8840 Rødkærsbro,19,540000.0,27-11-1993,Alm.,1914,10,Villa,282,1940,
+Faldborgvej 14 8840 Rødkærsbro,14,475000.0,24-11-1993,Alm.,2500,7,Villa,190,1930,
+Træholtvej 6 8840 Rødkærsbro,6,600000.0,27-10-1993,Fam.,3225,5,Stuehus,186,1927,
+Vindelsbækvej 23 8840 Rødkærsbro,23,325000.0,15-10-1993,Alm.,0,6,Villa,164,1910,
+Hvedevej 8 8840 Rødkærsbro,8,600000.0,29-09-1993,Alm.,4109,4,Villa,146,1972,
+Højbjerg Byvej 35 8840 Rødkærsbro,35,3246000.0,27-09-1993,Alm.,20287,6,Stuehus,160,1890,
+Havevej 17 8840 Rødkærsbro,17,383600.0,10-09-1993,Alm.,3196,3,Villa,120,1930,
+Højbjerg Huse 33 8840 Rødkærsbro,33,640000.0,16-06-1993,Alm.,0,6,Stuehus,161,1990,
+Højbjerg Møllevej 57 8840 Rødkærsbro,57,246900.0,14-06-1993,Alm.,0,3,Villa,78,1962,
+Brandstrup Søvej 7 8840 Rødkærsbro,7,400000.0,20-05-1993,Alm.,2739,5,Villa,146,1915,
+Kjellerupvej 37 8840 Rødkærsbro,37,570000.0,19-04-1993,Alm.,0,6,Villa,235,1920,
+Højbjerg Huse 29 8840 Rødkærsbro,29,225000.0,04-03-1993,Alm.,0,7,Villa,166,1924,
+Duelundvej 2 8840 Rødkærsbro,2,240000.0,01-03-1993,Alm.,3037,3,Villa,79,1949,
+Højbjerg Huse 15 8840 Rødkærsbro,15,595000.0,23-02-1993,Alm.,3718,5,Villa,160,2016,
+Træholtvej 22 8840 Rødkærsbro,22,605000.0,07-12-1992,Alm.,3167,5,Stuehus,191,1917,
+Bjerrevej 25 8840 Rødkærsbro,25,270000.0,01-12-1992,Alm.,3506,3,Villa,77,1950,
+Bjerrevej 104 8840 Rødkærsbro,104,385000.0,29-09-1992,Alm.,3437,3,Villa,112,1947,
+Brandstrup Søvej 6 8840 Rødkærsbro,6,135000.0,14-08-1992,Fam.,0,2,Villa,90,1918,
+Nørre Langgade 45 8840 Rødkærsbro,45,260000.0,21-07-1992,Alm.,0,4,Villa,157,1909,
+Vandet Mosevej 2 8840 Rødkærsbro,2,845000.0,27-05-1992,Alm.,3200,7,Stuehus,264,1898,
+Vindumvej 164 8840 Rødkærsbro,164,435000.0,25-05-1992,Alm.,3883,4,Villa,112,1884,
+Klostervej 23 8840 Rødkærsbro,23,725000.0,25-05-1992,Fam.,0,6,Villa,180,1973,
+Nørremosevej 18 8840 Rødkærsbro,18,600000.0,18-05-1992,Alm.,6666,3,Stuehus,90,1900,
+Kjellerupvej 40 8840 Rødkærsbro,40,625000.0,14-04-1992,Alm.,3765,4,Villa,166,1897,
+Århusvej 24 8840 Rødkærsbro,24,350000.0,03-04-1992,Alm.,0,4,Villa,143,1870,
+Bredmosevej 21 8840 Rødkærsbro,21,385000.0,03-02-1992,Alm.,0,4,Stuehus,122,1912,
+Østerled 29 8840 Rødkærsbro,29,448800.0,14-01-1992,Alm.,4724,4,Villa,95,1992,
+Rugvej 9 8840 Rødkærsbro,9,922000.0,14-01-1992,Fam.,3857,8,Villa,239,1973,
+Frederiks Alle 6 8840 Rødkærsbro,6,200000.0,07-01-1992,Alm.,1282,5,Villa,156,1997,

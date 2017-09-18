@@ -1,0 +1,946 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Parkvangen 11 8355 Solbjerg,11,2245000.0,22-03-2017,Alm.,16879,5,Villa,133,1966,0 %
+Hasselvangen 103 8355 Solbjerg,103,2335000.0,14-03-2017,Alm.,17425,4,Rækkehus,134,2013,0 %
+Møddebro Parkvej 115 8355 Solbjerg,115,2886516.0,23-02-2017,Alm.,18990,5,Villa,152,2017,
+Tisetvej 19 8355 Solbjerg,19,1675000.0,21-02-2017,Alm.,17447,5,Villa,96,1970,-9 %
+Hasselvangen 46 8355 Solbjerg,46,3060000.0,02-02-2017,Alm.,20536,5,Villa,149,2008,-1 %
+Møddebro Parkvej 25 8355 Solbjerg,25,3650000.0,27-01-2017,Alm.,22121,5,Villa,165,2012,-1 %
+Solbjerg Hedevej 48 8355 Solbjerg,48,2150000.0,19-01-2017,Alm.,11315,6,Villa,190,1971,-6 %
+Møddebrovej 16 8355 Solbjerg,16,1834800.0,13-01-2017,Alm.,13900,4,Villa,132,1969,
+Østergårdsvej 245 8355 Solbjerg,245,2748000.0,13-01-2017,Alm.,16858,5,Villa,163,2000,2 %
+Dalmosevej 4 8355 Solbjerg,4,930000.0,28-12-2016,Andet,6283,7,Villa,148,1966,
+Solbjerg Have 9 8355 Solbjerg,9,1665000.0,20-12-2016,Alm.,17712,4,Rækkehus,94,1995,
+Hasselvangen 111 8355 Solbjerg,111,2100000.0,08-12-2016,Alm.,18103,4,Rækkehus,116,2013,-3 %
+Hasselvangen 231 8355 Solbjerg,231,1513582.0,07-12-2016,Fam.,9892,5,Villa,153,2008,
+Elleskovvej 1 8355 Solbjerg,1,1500000.0,08-11-2016,Alm.,8620,6,Villa,174,1963,-6 %
+Solbjerg Hedevej 79 8355 Solbjerg,79,2825000.0,01-11-2016,Alm.,15960,5,Villa,177,2007,-6 %
+Trolddalsvej 4 8355 Solbjerg,4,3700000.0,01-11-2016,Alm.,15163,5,Villa,244,1910,
+Bakketoppen 10 8355 Solbjerg,10,1850000.0,24-10-2016,Alm.,14015,5,Villa,132,1965,-7 %
+Højlundsparken 67 8355 Solbjerg,67,1750000.0,21-10-2016,Alm.,13888,5,Villa,126,1967,-8 %
+Tisetvej 16 8355 Solbjerg,16,3600000.0,13-10-2016,Alm.,17142,5,Stuehus,210,1960,-10 %
+Bøgevangen 13 8355 Solbjerg,13,2023000.0,09-10-2016,Alm.,11830,6,Villa,171,1971,0 %
+Vestervangsparken 2 8355 Solbjerg,2,3200000.0,07-10-2016,Alm.,15609,6,Villa,205,1971,-2 %
+Fastrupvej 21 8355 Solbjerg,21,409838.0,04-10-2016,Fam.,3177,4,Villa,129,1928,
+Møddebrovej 6 8355 Solbjerg,6,2300000.0,23-09-2016,Alm.,18253,4,Villa,126,1977,-4 %
+Lystenlund 17 8355 Solbjerg,17,2830000.0,22-09-2016,Alm.,18376,5,Villa,154,1986,1 %
+Elleskovvej 7F 8355 Solbjerg,0,1698000.0,21-09-2016,Alm.,16647,3,Rækkehus,102,2010,0 %
+Ravnholtvej 8 8355 Solbjerg,8,1900000.0,20-09-2016,Alm.,11111,5,Villa,171,1980,-5 %
+Højlundsparken 23 8355 Solbjerg,23,1300000.0,15-09-2016,Fam.,12264,4,Villa,106,1969,
+Fastrupvej 51 8355 Solbjerg,51,2500000.0,12-09-2016,Alm.,13297,6,Villa,188,1970,-2 %
+Bøgevangen 4 8355 Solbjerg,4,2025000.0,08-09-2016,Alm.,12198,5,Villa,166,1970,-2 %
+Hasselvangen 245 8355 Solbjerg,245,3860000.0,07-09-2016,Alm.,19494,6,Villa,198,2008,-1 %
+Møddebro Parkvej 117 8355 Solbjerg,117,924800.0,07-09-2016,Alm.,4511,4,Villa,205,2017,0 %
+Egevangen 11 8355 Solbjerg,11,2450000.0,03-09-2016,Alm.,17013,5,Villa,144,1999,-2 %
+Birkevangen 53 8355 Solbjerg,53,3560000.0,02-09-2016,Alm.,21190,4,Villa,168,2003,-4 %
+Kannevej 10 8355 Solbjerg,10,80000.0,26-08-2016,Alm.,301,10,Stuehus,265,1911,
+Hvilstedvej 7 8355 Solbjerg,7,2550000.0,25-08-2016,Alm.,14166,5,Villa,180,2002,-15 %
+Højlundsparken 19B 8355 Solbjerg,0,1499000.0,18-08-2016,Alm.,16655,4,Rækkehus,90,1985,
+Dalmosevej 7 8355 Solbjerg,7,2525000.0,10-08-2016,Alm.,13082,6,Villa,193,1966,-1 %
+Møddebro Parkvej 16 8355 Solbjerg,16,737500.0,10-08-2016,Alm.,4052,5,Villa,182,2017,
+Møddebro Parkvej 135 8355 Solbjerg,135,733988.0,26-07-2016,Alm.,4959,4,Villa,148,2017,0 %
+Vestervangsparken 1C 8355 Solbjerg,0,3750000.0,17-07-2016,Alm.,21929,5,Villa,171,2015,3 %
+Kærgårdsvej 96 8355 Solbjerg,96,1875000.0,14-07-2016,Alm.,10245,6,Villa,183,1965,-6 %
+Tisetvej 31 8355 Solbjerg,31,2345000.0,14-07-2016,Alm.,13027,5,Stuehus,180,1865,-2 %
+Mustrupvej 26 8355 Solbjerg,26,4750000.0,06-07-2016,Alm.,17592,7,Villa,270,2005,-5 %
+Hvilstedvej 19A 8355 Solbjerg,0,1500000.0,30-06-2016,Alm.,7317,5,Stuehus,205,1900,
+Møllegårdsparken 11 8355 Solbjerg,11,2300000.0,29-06-2016,Alm.,12568,7,Villa,183,1970,-4 %
+Solbjerg Hovedgade 70 8355 Solbjerg,70,575000.0,28-06-2016,Alm.,5476,4,Villa,105,1890,
+Møddebro Parkvej 109 8355 Solbjerg,109,932325.0,21-06-2016,Alm.,5039,5,Villa,185,2017,0 %
+Solbjerg Hovedgade 46 8355 Solbjerg,46,1700000.0,16-06-2016,Alm.,12878,5,Villa,132,1929,-5 %
+Nordvejen 22 8355 Solbjerg,22,1350000.0,16-06-2016,Alm.,10074,4,Villa,134,1880,-3 %
+Møddebro Parkvej 73 8355 Solbjerg,73,771300.0,09-06-2016,Alm.,4563,5,Villa,169,2016,0 %
+Møddebro Parkvej 101 8355 Solbjerg,101,858375.0,07-06-2016,Alm.,4990,5,Villa,172,2016,0 %
+Højlundsparken 16 8355 Solbjerg,16,2200000.0,03-06-2016,Alm.,11000,8,Villa,200,1969,-4 %
+Møddebro Parkvej 103 8355 Solbjerg,103,851750.0,03-06-2016,Alm.,5566,4,Villa,153,2016,0 %
+Hasselvangen 277 8355 Solbjerg,277,1325000.0,01-06-2016,Fam.,8660,5,Villa,153,2008,
+Møddebro Parkvej 105 8355 Solbjerg,105,906175.0,20-05-2016,Alm.,4719,5,Villa,192,2017,0 %
+Lystenlund 79 8355 Solbjerg,79,2385000.0,19-05-2016,Alm.,16114,5,Villa,148,1989,-3 %
+Kærgårdsparken 41 8355 Solbjerg,41,1650000.0,04-05-2016,Alm.,15714,3,Villa,105,1984,
+Tisetvej 56 8355 Solbjerg,56,650000.0,03-05-2016,Alm.,5241,3,Stuehus,124,1900,-26 %
+Højlundsparken 91 8355 Solbjerg,91,2200000.0,26-04-2016,Alm.,17187,4,Villa,128,1969,-2 %
+Højlundsparken 57 8355 Solbjerg,57,1900000.0,24-04-2016,Alm.,14179,6,Villa,134,1967,-5 %
+Østergårdsvej 282 8355 Solbjerg,282,1450000.0,10-04-2016,Alm.,9863,5,Villa,147,1977,-3 %
+Fastrupvej 30 8355 Solbjerg,30,2473000.0,05-04-2016,Alm.,14897,6,Villa,166,1969,-1 %
+Møddebro Parkvej 121 8355 Solbjerg,121,948000.0,22-03-2016,Alm.,5152,5,Villa,184,2017,0 %
+Hasselvangen 87 8355 Solbjerg,87,2200000.0,18-03-2016,Alm.,16417,4,Rækkehus,134,2010,-2 %
+Solbjerg Hedevej 87 8355 Solbjerg,87,3450000.0,13-03-2016,Alm.,17164,5,Villa,201,2007,-1 %
+Møddebro Parkvej 65 8355 Solbjerg,65,699300.0,11-03-2016,Alm.,4789,5,Villa,146,2016,0 %
+Møddebro Parkvej 93 8355 Solbjerg,93,776125.0,09-03-2016,Alm.,4850,5,Villa,160,2016,0 %
+Bøgevangen 55 8355 Solbjerg,55,3080000.0,03-03-2016,Alm.,15876,7,Villa,194,1972,-3 %
+Kærgårdsparken 67 8355 Solbjerg,67,2099000.0,01-03-2016,Alm.,16146,4,Villa,130,1980,0 %
+Østergårdsvej 283 8355 Solbjerg,283,1400000.0,29-02-2016,Alm.,16279,3,Villa,86,1950,-5 %
+Bøgevangen 65 8355 Solbjerg,65,1760000.0,22-02-2016,Alm.,14915,3,Villa,118,1971,-7 %
+Hasselvangen 281 8355 Solbjerg,281,1100000.0,05-02-2016,Alm.,6748,3,Villa,163,2008,-19 %
+Birkevangen 3 8355 Solbjerg,3,2925000.0,02-02-2016,Alm.,16714,6,Villa,175,2004,-2 %
+Møddebro Parkvej 107 8355 Solbjerg,107,908000.0,22-01-2016,Alm.,4855,6,Villa,187,2016,0 %
+Balskildevej 23 8355 Solbjerg,23,479200.0,05-01-2016,Auktion,4889,3,Villa,98,1868,-63 %
+Fastrupvej 57 8355 Solbjerg,57,825000.0,04-01-2016,Alm.,5935,6,Villa,139,1969,
+Møddebro Parkvej 67 8355 Solbjerg,67,713175.0,17-12-2015,Alm.,5022,5,Villa,142,2016,0 %
+Hasselvangen 83 8355 Solbjerg,83,1940000.0,14-12-2015,Alm.,14477,4,Rækkehus,134,2010,
+Solbjerg Hovedgade 96 8355 Solbjerg,96,2150000.0,06-12-2015,Alm.,12427,7,Villa,173,1963,
+Hasselvangen 26 8355 Solbjerg,26,3200000.0,05-12-2015,Alm.,17486,5,Villa,183,2008,-3 %
+Hasselvangen 91 8355 Solbjerg,91,2210000.0,26-11-2015,Alm.,16492,4,Rækkehus,134,2010,
+Bakketoppen 13 8355 Solbjerg,13,1910000.0,24-11-2015,Alm.,14469,5,Villa,132,1966,-4 %
+Møddebro Parkvej 37 8355 Solbjerg,37,840350.0,19-11-2015,Alm.,4469,6,Villa,188,2016,0 %
+Møddebro Parkvej 91 8355 Solbjerg,91,756900.0,10-11-2015,Alm.,3656,5,Villa,207,2016,0 %
+Kærgårdsparken 87 8355 Solbjerg,87,2350000.0,06-11-2015,Alm.,13276,5,Villa,177,1986,-6 %
+Balskildevej 1 8355 Solbjerg,1,645000.0,06-11-2015,Alm.,7166,3,Villa,90,1956,-57 %
+Drammelstrupvej 306 8355 Solbjerg,306,2300000.0,08-10-2015,Alm.,10132,7,Villa,227,1923,-8 %
+Kærgårdsparken 29 8355 Solbjerg,29,2474500.0,02-10-2015,Alm.,15465,6,Villa,160,1980,3 %
+Trolddalsvej 13 8355 Solbjerg,13,2200000.0,01-10-2015,Alm.,24444,4,Stuehus,90,1900,
+Haldshavevej 3 8355 Solbjerg,3,3175000.0,30-09-2015,Alm.,12906,7,Villa,246,1960,
+Bøgeskovvej 7 8355 Solbjerg,7,995000.0,28-09-2015,Alm.,9851,5,Villa,101,1887,0 %
+Solbjerg Hovedgade 81 8355 Solbjerg,81,1100000.0,28-09-2015,Alm.,7236,5,Villa,152,1960,-15 %
+Lykkegårdsvej 20 8355 Solbjerg,20,11550000.0,28-09-2015,Alm.,53720,7,Villa,215,1995,
+Elleskovvej 8 8355 Solbjerg,8,1399000.0,24-09-2015,Alm.,12718,3,Villa,110,1967,
+Højlundsparken 73 8355 Solbjerg,73,2595000.0,18-09-2015,Alm.,14497,5,Villa,179,1969,0 %
+Solbjerg Hovedgade 103 8355 Solbjerg,103,612165.0,15-09-2015,Auktion,9275,3,Rækkehus,66,1982,-44 %
+Egevangen 35 8355 Solbjerg,35,2415000.0,14-09-2015,Alm.,16541,5,Villa,146,1997,-3 %
+Søvangsvej 17B 8355 Solbjerg,0,5250000.0,19-08-2015,Alm.,26515,5,Villa,198,2016,0 %
+Søvangsvej 17C 8355 Solbjerg,0,5250000.0,19-08-2015,Alm.,26515,5,Villa,198,2015,0 %
+Torrildvej 7 8355 Solbjerg,7,800000.0,11-08-2015,Auktion,0,6,Stuehus,244,1909,
+Onstedvej 3 8355 Solbjerg,3,1795000.0,13-07-2015,Alm.,15341,6,Villa,117,1951,-4 %
+Hasselvangen 32 8355 Solbjerg,32,1395000.0,03-07-2015,Andet,8773,5,Villa,159,2008,
+Østergårdsvej 251 8355 Solbjerg,251,1070000.0,29-06-2015,Alm.,13048,2,Villa,82,1962,-3 %
+Hasselvangen 107 8355 Solbjerg,107,1900000.0,28-06-2015,Alm.,16379,4,Rækkehus,116,2013,
+Solbjerg Hovedgade 57B 8355 Solbjerg,0,2365000.0,17-06-2015,Alm.,16198,5,Villa,146,1996,-1 %
+Østergårdsvej 258 8355 Solbjerg,258,1850000.0,17-06-2015,Alm.,10571,4,Villa,175,1871,-7 %
+Torrildvej 9 8355 Solbjerg,9,780500.0,11-06-2015,Alm.,3770,5,Villa,207,1964,
+Østergårdsvej 278C 8355 Solbjerg,0,1300000.0,10-06-2015,Alm.,11403,2,Villa,114,1983,-4 %
+Lystenlund 19 8355 Solbjerg,19,1200000.0,04-06-2015,Andet,7894,5,Villa,152,1986,
+Kærgårdsparken 105 8355 Solbjerg,105,2200000.0,02-06-2015,Alm.,14193,5,Villa,155,1984,-4 %
+Solbjerg Hovedgade 163 8355 Solbjerg,163,320000.0,26-05-2015,Auktion,2560,4,Villa,125,1931,-68 %
+Søvangsvej 31 8355 Solbjerg,31,4800000.0,13-05-2015,Alm.,18604,5,Villa,258,1999,-1 %
+Solbjerg Have 7 8355 Solbjerg,7,1920000.0,12-05-2015,Alm.,15360,5,Villa,125,2002,-9 %
+Solbjerg Hovedgade 99 8355 Solbjerg,99,580000.0,28-04-2015,Auktion,8787,3,Rækkehus,66,1982,
+Solbjerg Hedevej 38 8355 Solbjerg,38,2222000.0,28-04-2015,Alm.,16218,6,Villa,137,1971,-3 %
+Lykkegårdsvej 22 8355 Solbjerg,22,1345000.0,21-04-2015,Auktion,10426,4,Villa,129,1967,4 %
+Højlundsparken 38 8355 Solbjerg,38,1320000.0,17-04-2015,Alm.,11478,2,Villa,115,1971,-6 %
+Nordvejen 19 8355 Solbjerg,19,810000.0,12-04-2015,Andet,7363,5,Villa,110,1857,
+Hasselvangen 62 8355 Solbjerg,62,3195000.0,08-04-2015,Alm.,18684,4,Villa,171,2010,0 %
+Bøgevangen 83 8355 Solbjerg,83,1950000.0,01-04-2015,Alm.,15476,4,Villa,126,1989,-2 %
+Solbjerg Hovedgade 8 8355 Solbjerg,8,2700000.0,31-03-2015,Alm.,13636,7,Villa,198,1970,-10 %
+Hasselvangen 251 8355 Solbjerg,251,3400000.0,23-03-2015,Alm.,17989,4,Villa,189,2009,-3 %
+Møddebrovej 7 8355 Solbjerg,7,1500000.0,16-03-2015,Alm.,11904,5,Villa,126,1963,-6 %
+Lystenlund 73 8355 Solbjerg,73,1200000.0,13-03-2015,Fam.,7947,5,Villa,151,1988,
+Solbjerg Hovedgade 48C 8355 Solbjerg,0,1750000.0,23-02-2015,Alm.,16666,4,Rækkehus,105,2013,-3 %
+Solbjerg Hovedgade 48F 8355 Solbjerg,0,1700000.0,20-02-2015,Alm.,16190,4,Rækkehus,105,2013,-6 %
+Solbjerg Hedevej 113 8355 Solbjerg,113,2675000.0,05-02-2015,Alm.,18706,5,Villa,143,2007,-3 %
+Birkevangen 28 8355 Solbjerg,28,2675000.0,26-01-2015,Alm.,18838,5,Villa,142,1999,2 %
+Møddebro Parkvej 29 8355 Solbjerg,29,1750000.0,25-01-2015,Alm.,9358,6,Villa,187,2012,
+Bøgevangen 3 8355 Solbjerg,3,1285000.0,24-01-2015,Alm.,14120,4,Villa,91,1967,-1 %
+Fastrupvej 47 8355 Solbjerg,47,1825000.0,22-01-2015,Alm.,13224,5,Villa,138,1971,-8 %
+Egevangen 33 8355 Solbjerg,33,2250000.0,17-01-2015,Alm.,18000,5,Villa,125,1997,-2 %
+Birkevangen 1 8355 Solbjerg,1,3400000.0,09-01-2015,Alm.,20987,5,Villa,162,2005,-1 %
+Søvangsvej 13 8355 Solbjerg,13,725000.0,23-12-2014,Alm.,5253,3,Villa,138,2017,
+Solbjerg Hedevej 44 8355 Solbjerg,44,2100000.0,07-12-2014,Alm.,14482,4,Villa,145,1970,-5 %
+Vestervangsparken 1A 8355 Solbjerg,0,450000.0,05-12-2014,Alm.,2500,6,Villa,180,2016,0 %
+Møddebro Parkvej 131 8355 Solbjerg,131,747250.0,03-12-2014,Alm.,4948,5,Villa,151,2015,0 %
+Højlundsparken 28 8355 Solbjerg,28,1742500.0,28-11-2014,Alm.,10959,4,Villa,159,1967,-5 %
+Kærgårdsparken 97 8355 Solbjerg,97,2050000.0,27-11-2014,Alm.,9951,7,Villa,206,1980,-13 %
+Solbjerg Hedevej 10 8355 Solbjerg,10,1950000.0,13-11-2014,Alm.,11016,5,Villa,177,1970,-2 %
+Solbjerg Hedevej 63 8355 Solbjerg,63,2685000.0,12-11-2014,Alm.,18645,5,Villa,144,2008,-4 %
+Østergårdsvej 232A 8355 Solbjerg,0,1635000.0,11-11-2014,Alm.,10548,5,Villa,155,1925,-6 %
+Fastrupvej 52 8355 Solbjerg,52,3200000.0,09-11-2014,Alm.,20915,7,Villa,153,1973,-9 %
+Hasselvangen 85 8355 Solbjerg,85,2150000.0,31-10-2014,Alm.,16044,4,Rækkehus,134,2010,-2 %
+Kærgårdsvej 69 8355 Solbjerg,69,1550000.0,30-10-2014,Alm.,11071,4,Villa,140,1966,-8 %
+Parkvangen 22 8355 Solbjerg,22,749054.0,29-10-2014,Alm.,6347,4,Villa,118,1965,
+Balskildevej 13 8355 Solbjerg,13,1250000.0,29-10-2014,Alm.,0,7,Villa,226,1890,-7 %
+Højlundsparken 37 8355 Solbjerg,37,1625000.0,27-10-2014,Alm.,15476,4,Villa,105,1969,-4 %
+Højlundsparken 31 8355 Solbjerg,31,650000.0,14-10-2014,Alm.,3439,4,Villa,189,2015,-7 %
+Fastrupvej 10 8355 Solbjerg,10,1625000.0,10-10-2014,Alm.,8783,7,Villa,185,1962,-4 %
+Hasselvangen 14 8355 Solbjerg,14,2700000.0,07-10-2014,Alm.,16875,4,Villa,160,2008,-7 %
+Solbjerg Hedevej 32 8355 Solbjerg,32,1550000.0,27-09-2014,Alm.,13135,5,Villa,118,1972,-3 %
+Kærgårdsvej 81 8355 Solbjerg,81,1900000.0,18-09-2014,Alm.,12258,5,Villa,155,1967,-5 %
+Vestervangsparken 14 8355 Solbjerg,14,1550000.0,27-08-2014,Alm.,9935,5,Villa,156,1975,-14 %
+Østergårdsvej 280 8355 Solbjerg,280,1400000.0,21-08-2014,Alm.,9090,6,Villa,154,1958,-3 %
+Birkevangen 29 8355 Solbjerg,29,2500000.0,17-08-2014,Alm.,16891,5,Villa,148,2003,-1 %
+Solbjerg Hedevej 69 8355 Solbjerg,69,3100000.0,06-08-2014,Alm.,20000,5,Villa,155,2007,-2 %
+Hasselvangen 66 8355 Solbjerg,66,1400000.0,02-08-2014,Andet,8536,5,Villa,164,2008,
+Møddebro Parkvej 129 8355 Solbjerg,129,590400.0,23-07-2014,Alm.,3412,6,Villa,173,2015,-20 %
+Møddebro Parkvej 89 8355 Solbjerg,89,639100.0,22-07-2014,Alm.,3694,5,Villa,173,2015,-20 %
+Kærgårdsparken 22 8355 Solbjerg,22,1810000.0,17-07-2014,Alm.,14596,4,Villa,124,1985,-4 %
+Højlundsparken 35 8355 Solbjerg,35,650000.0,16-07-2014,Alm.,3591,6,Villa,181,2015,0 %
+Solbjerg Hedevej 107 8355 Solbjerg,107,3800000.0,14-07-2014,Alm.,17117,5,Villa,222,2008,
+Møddebro Parkvej 63 8355 Solbjerg,63,3165000.0,08-07-2014,Alm.,18401,5,Villa,172,2013,-1 %
+Møddebro Parkvej 61 8355 Solbjerg,61,565480.0,27-06-2014,Alm.,3769,5,Villa,150,2015,-20 %
+Højlundsparken 87 8355 Solbjerg,87,2098000.0,24-06-2014,Alm.,16919,4,Villa,124,1974,0 %
+Søvangsvej 29 8355 Solbjerg,29,4725000.0,23-06-2014,Alm.,27312,5,Villa,173,1998,-5 %
+Søvangsvej 1B 8355 Solbjerg,0,5623461.0,17-06-2014,Auktion,22493,5,Villa,250,2010,
+Højlundsparken 63 8355 Solbjerg,63,1515000.0,28-05-2014,Alm.,11139,4,Villa,136,1970,-5 %
+Møddebro Parkvej 87 8355 Solbjerg,87,2525000.0,23-05-2014,Alm.,15119,5,Villa,167,2014,-3 %
+Østergårdsvej 248 8355 Solbjerg,248,1350000.0,15-05-2014,Alm.,8709,4,Villa,155,1900,-3 %
+Solbjerg Hovedgade 48D 8355 Solbjerg,0,1845000.0,15-05-2014,Alm.,17571,4,Rækkehus,105,2013,
+Egevangen 41 8355 Solbjerg,41,2240000.0,10-05-2014,Alm.,17500,4,Villa,128,1998,
+Fastrupvej 6 8355 Solbjerg,6,1650000.0,08-05-2014,Alm.,12222,4,Villa,135,1969,0 %
+Fastrupvej 53 8355 Solbjerg,53,1915000.0,24-04-2014,Alm.,12766,4,Villa,150,1973,-4 %
+Hasselvangen 58 8355 Solbjerg,58,2525198.0,22-04-2014,Auktion,13951,5,Villa,181,2008,-23 %
+Mustrupvej 8 8355 Solbjerg,8,1585000.0,02-04-2014,Alm.,12192,6,Stuehus,130,1890,-9 %
+Fastrupvej 4 8355 Solbjerg,4,1200000.0,19-03-2014,Alm.,7272,4,Villa,165,1962,-20 %
+Lystenlund 59 8355 Solbjerg,59,2475000.0,18-03-2014,Alm.,13674,7,Villa,181,1989,-3 %
+Kærgårdsparken 88 8355 Solbjerg,88,1825000.0,17-03-2014,Alm.,14717,4,Villa,124,1986,-9 %
+Hvilstedvej 5B 8355 Solbjerg,0,596500.0,04-03-2014,Fam.,5965,3,Villa,100,1975,
+Kærgårdsvej 72 8355 Solbjerg,72,1400000.0,24-02-2014,Alm.,11666,4,Villa,120,1983,-4 %
+Kærgårdsparken 77 8355 Solbjerg,77,932000.0,18-02-2014,Andet,7169,5,Villa,130,1981,
+Solbjerg Hovedgade 48G 8355 Solbjerg,0,1899000.0,14-02-2014,Alm.,18085,4,Rækkehus,105,2012,0 %
+Solbjerg Hovedgade 48H 8355 Solbjerg,0,1870000.0,07-02-2014,Alm.,17809,4,Rækkehus,105,2013,
+Birkevangen 37 8355 Solbjerg,37,2900000.0,21-01-2014,Alm.,14500,7,Villa,200,2004,-3 %
+Bøgevangen 53 8355 Solbjerg,53,1150000.0,26-12-2013,Fam.,10267,4,Villa,112,1970,
+Møddebro Parkvej 127 8355 Solbjerg,127,605520.0,20-12-2013,Alm.,3308,4,Villa,183,2015,
+Vestervangsparken 4 8355 Solbjerg,4,1580000.0,18-12-2013,Alm.,12153,5,Villa,130,1971,-4 %
+Solbjerg Hovedgade 40 8355 Solbjerg,40,2300000.0,10-12-2013,Alm.,14935,4,Villa,154,1927,-2 %
+Kannevej 7 8355 Solbjerg,7,3750000.0,06-12-2013,Alm.,19132,6,Villa,196,2004,-6 %
+Bøgevangen 31 8355 Solbjerg,31,1925000.0,21-11-2013,Alm.,15524,5,Villa,124,1967,0 %
+Solbjerg Søvej 43 8355 Solbjerg,43,1399000.0,17-11-2013,Alm.,12718,4,Villa,110,1965,0 %
+Solbjerg Hovedgade 148 8355 Solbjerg,148,2150000.0,12-10-2013,Alm.,14144,5,Villa,152,1977,0 %
+Sødalen 2 8355 Solbjerg,2,900000.0,10-10-2013,Alm.,6923,4,Villa,130,1930,-10 %
+Torrildvej 1A 8355 Solbjerg,0,498000.0,08-10-2013,Auktion,4184,5,Villa,119,1870,-50 %
+Pilevangen 134 8355 Solbjerg,134,12200000.0,30-09-2013,Alm.,100000,4,Rækkehus,122,2013,
+Søvangsvej 25 8355 Solbjerg,25,1875000.0,29-09-2013,Alm.,18939,3,Villa,99,1994,-6 %
+Solbjerg Hovedgade 62C 8355 Solbjerg,0,1600000.0,24-09-2013,Alm.,10958,5,Villa,146,1886,-3 %
+Dalmosevej 22 8355 Solbjerg,22,1750000.0,23-09-2013,Alm.,12773,3,Villa,137,1968,-8 %
+Klemivej 12 8355 Solbjerg,12,2300000.0,22-09-2013,Alm.,10849,6,Villa,212,1971,-4 %
+Møddebro Parkvej 119 8355 Solbjerg,119,779940.0,20-09-2013,Alm.,3610,6,Villa,216,2014,
+Vestervangsparken 1B 8355 Solbjerg,0,1500000.0,09-09-2013,Alm.,4966,8,Villa,302,1965,-17 %
+Møddebro Parkvej 33 8355 Solbjerg,33,3195000.0,04-09-2013,Alm.,17949,5,Villa,178,2013,
+Egevangen 9 8355 Solbjerg,9,2290000.0,26-08-2013,Alm.,17218,5,Villa,133,1997,-2 %
+Vestervangsparken 33 8355 Solbjerg,33,2430000.0,19-08-2013,Alm.,16418,5,Villa,148,1975,-9 %
+Møllegårdsparken 14 8355 Solbjerg,14,1595000.0,06-08-2013,Alm.,12269,4,Villa,130,1970,0 %
+Tisetvej 11 8355 Solbjerg,11,1920000.0,30-07-2013,Alm.,12800,5,Villa,150,1991,-4 %
+Hasselvangen 273 8355 Solbjerg,273,2660000.0,18-07-2013,Alm.,17161,5,Villa,155,2008,-1 %
+Lystenlund 41 8355 Solbjerg,41,743750.0,12-07-2013,Alm.,5677,4,Villa,131,1988,
+Egevangen 5 8355 Solbjerg,5,2179000.0,09-07-2013,Alm.,16507,5,Villa,132,1998,-5 %
+Solbjerg Hovedgade 78 8355 Solbjerg,78,995000.0,04-07-2013,Alm.,7653,4,Villa,130,1908,0 %
+Hasselvangen 60 8355 Solbjerg,60,3125000.0,02-07-2013,Alm.,17755,5,Villa,176,2008,-5 %
+Kærgårdsparken 78 8355 Solbjerg,78,1665000.0,25-06-2013,Alm.,13875,4,Villa,120,1986,-2 %
+Østergårdsvej 230 8355 Solbjerg,230,800000.0,24-06-2013,Alm.,0,3,Villa,153,1962,
+Nordvejen 12 8355 Solbjerg,12,4000000.0,24-06-2013,Alm.,27777,6,Stuehus,144,1887,-6 %
+Møddebro Parkvej 99 8355 Solbjerg,99,668500.0,24-06-2013,Alm.,3693,4,Villa,181,2014,
+Hasselvangen 16 8355 Solbjerg,16,3030000.0,06-06-2013,Alm.,19423,4,Villa,156,2009,-5 %
+Solbjerg Hovedgade 48B 8355 Solbjerg,0,1845000.0,30-05-2013,Alm.,17571,4,Rækkehus,105,2013,
+Møddebro Parkvej 83 8355 Solbjerg,83,666540.0,29-05-2013,Alm.,3682,4,Villa,181,2015,
+Solbjerg Hovedgade 48L 8355 Solbjerg,0,1845000.0,21-05-2013,Alm.,17571,4,Rækkehus,105,2013,
+Møddebro Parkvej 85 8355 Solbjerg,85,688160.0,14-05-2013,Alm.,4096,6,Villa,168,2014,
+Solbjerg Hovedgade 48A 8355 Solbjerg,0,1845000.0,08-05-2013,Alm.,17571,4,Rækkehus,105,2013,
+Kærgårdsparken 35 8355 Solbjerg,35,1750000.0,03-05-2013,Alm.,14583,5,Villa,120,1979,-3 %
+Birkevangen 43 8355 Solbjerg,43,2070000.0,01-05-2013,Alm.,16693,4,Villa,124,2002,-4 %
+Solbjerg Hedevej 51 8355 Solbjerg,51,105280.0,30-04-2013,Alm.,526,8,Stuehus,200,1875,
+Østergårdsvej 257 8355 Solbjerg,257,975000.0,22-04-2013,Alm.,9750,3,Villa,100,1960,-11 %
+Højlundsparken 61 8355 Solbjerg,61,2100000.0,09-04-2013,Alm.,9952,8,Villa,211,1970,
+Hasselvangen 279 8355 Solbjerg,279,1250000.0,04-04-2013,Fam.,8278,5,Villa,151,2008,-55 %
+Møddebro Parkvej 39 8355 Solbjerg,39,703160.0,03-04-2013,Alm.,3624,5,Villa,194,2014,
+Bakketoppen 17 8355 Solbjerg,17,2000000.0,02-04-2013,Fam.,14598,3,Villa,137,1965,
+Fastrupvej 105 8355 Solbjerg,105,10350000.0,02-04-2013,Auktion,64687,7,Stuehus,160,1867,
+Kærgårdsvej 78 8355 Solbjerg,78,1550000.0,01-04-2013,Alm.,10689,6,Villa,145,1965,-9 %
+Solbjerg Hovedgade 48E 8355 Solbjerg,0,1845000.0,31-03-2013,Alm.,17571,4,Rækkehus,105,2013,
+Gammel Horsensvej 71 8355 Solbjerg,71,1675000.0,25-03-2013,Alm.,13400,5,Villa,125,1948,-7 %
+Solbjerg Hedevej 105 8355 Solbjerg,105,3550000.0,24-03-2013,Alm.,18983,5,Villa,187,2009,-7 %
+Mustrupvej 9 8355 Solbjerg,9,1250000.0,21-03-2013,Alm.,4595,8,Stuehus,272,1926,-10 %
+Elleskovvej 7E 8355 Solbjerg,0,1550000.0,26-02-2013,Alm.,15196,3,Rækkehus,102,2010,-3 %
+Møddebro Parkvej 1 8355 Solbjerg,1,587200.0,25-02-2013,Alm.,2995,5,Villa,196,2013,
+Kærgårdsvej 94 8355 Solbjerg,94,1900000.0,22-02-2013,Alm.,12337,6,Villa,154,1970,-2 %
+Hasselvangen 40 8355 Solbjerg,40,3800000.0,07-02-2013,Alm.,20879,5,Villa,182,2010,
+Kærgårdsvej 84 8355 Solbjerg,84,1405000.0,17-01-2013,Alm.,11708,4,Villa,120,1967,-6 %
+Møddebro Parkvej 5 8355 Solbjerg,5,3175000.0,14-01-2013,Alm.,19968,4,Villa,159,2013,
+Højlundsparken 32 8355 Solbjerg,32,1900000.0,11-01-2013,Alm.,10919,5,Villa,174,1969,-5 %
+Tisetvej 14 8355 Solbjerg,14,7200000.0,03-01-2013,Alm.,41860,5,Stuehus,172,1934,
+Rantzausgavevej 4 8355 Solbjerg,4,2608406.0,16-12-2012,Alm.,7286,14,Villa,358,1912,
+Kærgårdsvej 30 8355 Solbjerg,30,1650000.0,22-11-2012,Alm.,13414,4,Villa,123,1967,-8 %
+Højlundsparken 39 8355 Solbjerg,39,1875000.0,14-11-2012,Alm.,13111,4,Villa,143,1970,-6 %
+Parkvangen 18 8355 Solbjerg,18,1995000.0,29-10-2012,Alm.,13571,6,Villa,147,1962,0 %
+Solbjerg Hovedgade 69 8355 Solbjerg,69,1515000.0,26-10-2012,Alm.,9126,9,Villa,166,1929,-11 %
+Lethenborgvej 22 8355 Solbjerg,22,680000.0,25-10-2012,Alm.,5573,5,Stuehus,122,1941,-68 %
+Søvangsvej 23 8355 Solbjerg,23,1650000.0,23-10-2012,Alm.,11379,5,Villa,145,2016,-15 %
+Kærgårdsvej 70 8355 Solbjerg,70,1450000.0,18-10-2012,Alm.,10820,5,Villa,134,1983,-8 %
+Dalmosevej 6 8355 Solbjerg,6,1125000.0,24-09-2012,Alm.,10817,4,Villa,104,1966,-6 %
+Kærgårdsvej 43 8355 Solbjerg,43,1450000.0,18-09-2012,Alm.,11885,5,Villa,122,1967,-3 %
+Kærgårdsvej 86 8355 Solbjerg,86,1750000.0,17-09-2012,Alm.,12589,4,Villa,139,1967,-3 %
+Møddebro Parkvej 41 8355 Solbjerg,41,614960.0,16-08-2012,Alm.,3967,5,Villa,155,2013,
+Møllegårdsparken 39 8355 Solbjerg,39,4600000.0,02-08-2012,Alm.,30872,4,Villa,149,1972,-8 %
+Solbjerg Søvej 35 8355 Solbjerg,35,4100000.0,31-07-2012,Alm.,16465,8,Villa,249,1911,
+Hvilstedvej 18 8355 Solbjerg,18,2250000.0,31-07-2012,Alm.,14900,6,Stuehus,151,1920,-10 %
+Fastrupvej 55 8355 Solbjerg,55,1550000.0,18-07-2012,Alm.,14622,4,Villa,106,1971,-3 %
+Solbjerg Have 11 8355 Solbjerg,11,1695000.0,17-07-2012,Alm.,18031,3,Rækkehus,94,1995,0 %
+Højlundsparken 25A 8355 Solbjerg,0,800000.0,13-07-2012,Alm.,5369,5,Villa,149,2013,-6 %
+Møddebro Parkvej 3 8355 Solbjerg,3,592840.0,04-07-2012,Alm.,4116,5,Villa,144,2013,
+Solbjerg Hedevej 71 8355 Solbjerg,71,2600000.0,01-07-2012,Alm.,17449,5,Villa,149,2007,-6 %
+Møddebro Parkvej 35 8355 Solbjerg,35,701080.0,05-06-2012,Alm.,3938,5,Villa,178,2013,
+Hasselvangen 93 8355 Solbjerg,93,1935000.0,14-05-2012,Alm.,14440,4,Rækkehus,134,2011,-8 %
+Hasselvangen 101 8355 Solbjerg,101,1949053.0,03-05-2012,Alm.,14545,4,Rækkehus,134,2013,
+Kærgårdsvej 17 8355 Solbjerg,17,1550000.0,29-04-2012,Alm.,14622,3,Villa,106,1965,-3 %
+Pilevangen 148 8355 Solbjerg,148,2082000.0,24-04-2012,Alm.,17065,4,Rækkehus,122,2012,
+Hasselvangen 239 8355 Solbjerg,239,2775000.0,21-04-2012,Alm.,17675,5,Villa,157,2008,-4 %
+Kærgårdsvej 23 8355 Solbjerg,23,1856994.0,26-03-2012,Fam.,12217,5,Villa,152,1965,
+Vestervangsparken 47 8355 Solbjerg,47,2750000.0,23-03-2012,Alm.,14705,6,Villa,187,1970,-14 %
+Nordvejen 1 8355 Solbjerg,1,17650290.0,20-03-2012,Alm.,106327,6,Stuehus,166,1910,
+Mustrupvej 4 8355 Solbjerg,4,80000.0,14-03-2012,Alm.,500,5,Stuehus,160,1885,
+Møddebro Parkvej 15 8355 Solbjerg,15,726120.0,13-03-2012,Alm.,4454,5,Villa,163,2012,
+Hasselvangen 97 8355 Solbjerg,97,1940000.0,01-03-2012,Alm.,14477,4,Rækkehus,134,2012,-3 %
+Møddebro Parkvej 9 8355 Solbjerg,9,671520.0,24-02-2012,Alm.,4223,5,Villa,159,2012,
+Møddebro Parkvej 43 8355 Solbjerg,43,652280.0,20-02-2012,Alm.,3545,4,Villa,184,2013,
+Solbjerg Hedevej 85 8355 Solbjerg,85,3395000.0,16-02-2012,Alm.,21218,5,Villa,160,2008,-3 %
+Højlundsparken 81 8355 Solbjerg,81,762500.0,14-02-2012,Alm.,4459,4,Villa,171,1970,
+Kærgårdsparken 95 8355 Solbjerg,95,1850000.0,09-02-2012,Alm.,15163,4,Villa,122,1985,-2 %
+Møddebro Parkvej 11 8355 Solbjerg,11,638760.0,12-01-2012,Alm.,3871,5,Villa,165,2012,
+Kærgårdsparken 45 8355 Solbjerg,45,2125000.0,10-01-2012,Alm.,14554,4,Villa,146,1979,-9 %
+Kærgårdsvej 13 8355 Solbjerg,13,1342500.0,22-12-2011,Alm.,13984,4,Villa,96,1967,-7 %
+Tisetvej 29 8355 Solbjerg,29,4500000.0,14-12-2011,Alm.,26470,6,Stuehus,170,1973,
+Solbjerg Hedevej 14 8355 Solbjerg,14,1950000.0,05-12-2011,Alm.,15234,5,Villa,128,1970,-5 %
+Tisetvej 64 8355 Solbjerg,64,700000.0,29-11-2011,Alm.,5147,5,Villa,136,1935,-30 %
+Elleskovvej 4 8355 Solbjerg,4,1150000.0,18-11-2011,Alm.,3066,12,Villa,375,1969,
+Møddebro Parkvej 19 8355 Solbjerg,19,640080.0,15-11-2011,Alm.,3721,5,Villa,172,2012,
+"Møddebro Parkvej 17, ST 8355 Solbjerg",0,680040.0,15-11-2011,Alm.,4197,5,Villa,162,2012,
+Møddebro Parkvej 13 8355 Solbjerg,13,645440.0,15-11-2011,Alm.,4274,5,Villa,151,2013,
+Møddebro Parkvej 21 8355 Solbjerg,21,660000.0,15-11-2011,Alm.,3492,5,Villa,189,2013,
+Møddebro Parkvej 7 8355 Solbjerg,7,677035.0,15-11-2011,Alm.,4128,5,Villa,164,2013,
+Møddebro Parkvej 23 8355 Solbjerg,23,641880.0,15-11-2011,Alm.,3710,7,Villa,173,2013,
+Møddebro Parkvej 27 8355 Solbjerg,27,648482.0,15-11-2011,Alm.,3467,6,Villa,187,2012,
+Møddebro Parkvej 31 8355 Solbjerg,31,633600.0,15-11-2011,Alm.,3462,4,Villa,183,2012,
+Klemivej 10 8355 Solbjerg,10,1875000.0,10-11-2011,Alm.,8802,6,Villa,213,1969,-6 %
+Hasselvangen 99 8355 Solbjerg,99,1940000.0,08-11-2011,Alm.,14477,4,Rækkehus,134,2012,
+Parkvangen 10 8355 Solbjerg,10,2600000.0,02-11-2011,Alm.,16666,6,Villa,156,1964,-7 %
+Møllegårdsparken 9 8355 Solbjerg,9,1837500.0,02-11-2011,Alm.,0,6,Villa,179,1969,-7 %
+Solbjerg Hovedgade 101 8355 Solbjerg,101,1010000.0,02-11-2011,Alm.,16290,3,Rækkehus,62,1982,-8 %
+Østergårdsvej 223 8355 Solbjerg,223,800000.0,29-10-2011,Alm.,1556,12,Stuehus,514,1770,
+Hasselvangen 3 8355 Solbjerg,3,2625000.0,13-10-2011,Alm.,17617,5,Villa,149,2007,-3 %
+Solbjerg Hovedgade 1 8355 Solbjerg,1,2100000.0,27-09-2011,Fam.,11931,8,Stuehus,176,1882,
+Østergårdsvej 285 8355 Solbjerg,285,1100000.0,27-09-2011,Fam.,11827,4,Villa,93,1953,
+Kærgårdsparken 131 8355 Solbjerg,131,634669.0,26-09-2011,Fam.,5518,4,Villa,115,1986,
+Kærgårdsparken 52 8355 Solbjerg,52,2175000.0,14-09-2011,Alm.,15209,4,Villa,143,1986,-5 %
+Solbjerg Hovedgade 63 8355 Solbjerg,63,1300000.0,06-09-2011,Alm.,9848,3,Villa,132,1983,-13 %
+Hasselvangen 48 8355 Solbjerg,48,3110000.0,03-09-2011,Alm.,18187,5,Villa,171,2008,-7 %
+Birkevangen 21 8355 Solbjerg,21,2495000.0,26-08-2011,Alm.,18901,4,Villa,132,2003,0 %
+Hasselvangen 11 8355 Solbjerg,11,2640000.0,23-08-2011,Alm.,17483,5,Villa,151,2007,-5 %
+Hasselvangen 249 8355 Solbjerg,249,1195500.0,17-08-2011,Andet,6870,5,Villa,174,2008,
+Vestervangsparken 3B 8355 Solbjerg,0,1995000.0,14-08-2011,Alm.,17347,4,Villa,115,1986,-9 %
+Kærgårdsparken 46 8355 Solbjerg,46,335175.0,02-08-2011,Alm.,2234,5,Villa,150,1987,
+Søvangsvej 3 8355 Solbjerg,3,4700000.0,21-07-2011,Alm.,26256,5,Villa,179,1968,-24 %
+Højlundsparken 33 8355 Solbjerg,33,720000.0,07-07-2011,Alm.,4500,4,Villa,160,2013,
+Birkevangen 24 8355 Solbjerg,24,2300000.0,06-07-2011,Alm.,14110,6,Villa,163,2002,-4 %
+Højlundsparken 29 8355 Solbjerg,29,670000.0,30-06-2011,Alm.,4135,5,Villa,162,2012,
+Kærgårdsvej 71 8355 Solbjerg,71,1975000.0,28-06-2011,Alm.,14208,5,Villa,139,1966,-6 %
+Højlundsparken 25B 8355 Solbjerg,0,790000.0,23-06-2011,Alm.,5374,4,Villa,147,2012,
+Solbjerg Hovedgade 25 8355 Solbjerg,25,1680000.0,22-06-2011,Alm.,13023,4,Villa,129,1948,-6 %
+Kærgårdsparken 62 8355 Solbjerg,62,2550000.0,21-06-2011,Alm.,15178,6,Villa,168,1985,-4 %
+Tisetvej 27 8355 Solbjerg,27,4050000.0,21-06-2011,Alm.,14944,10,Stuehus,271,1911,-5 %
+Birkevangen 26 8355 Solbjerg,26,2280000.0,31-05-2011,Alm.,18095,5,Villa,126,2000,-3 %
+Højlundsparken 69 8355 Solbjerg,69,2160000.0,16-05-2011,Alm.,13935,4,Villa,155,1968,-2 %
+Lykkegårdsvej 24 8355 Solbjerg,24,2625000.0,05-05-2011,Alm.,12152,4,Villa,216,1981,-3 %
+Østergårdsvej 253 8355 Solbjerg,253,2350000.0,28-04-2011,Alm.,8639,7,Villa,272,1970,-22 %
+Solbjerg Hovedgade 18B 8355 Solbjerg,0,1175000.0,19-04-2011,Alm.,6527,7,Villa,180,1952,-8 %
+Bøgeskovvej 14 8355 Solbjerg,14,2400000.0,25-03-2011,Alm.,8219,5,Villa,292,1889,-4 %
+Solbjerg Hovedgade 48K 8355 Solbjerg,0,1795000.0,04-03-2011,Alm.,17095,4,Rækkehus,105,2011,
+Solbjerg Hovedgade 49 8355 Solbjerg,49,820000.0,20-02-2011,Alm.,5899,6,Villa,139,1927,
+Hasselvangen 1 8355 Solbjerg,1,2665000.0,28-01-2011,Alm.,17885,5,Villa,149,2007,0 %
+Fastrupvej 42 8355 Solbjerg,42,1500000.0,18-12-2010,Alm.,7246,7,Villa,207,1900,
+Egevangen 31 8355 Solbjerg,31,2425000.0,08-12-2010,Alm.,17446,5,Villa,139,2001,-3 %
+Hasselvangen 10 8355 Solbjerg,10,4500000.0,23-11-2010,Alm.,20089,5,Villa,224,2009,
+Dalmosevej 18 8355 Solbjerg,18,2200000.0,22-11-2010,Fam.,17886,4,Villa,123,1966,
+Hasselvangen 18 8355 Solbjerg,18,635900.0,20-11-2010,Alm.,4050,5,Villa,157,2011,
+Bøgevangen 20 8355 Solbjerg,20,2075000.0,18-11-2010,Alm.,13833,5,Villa,150,1979,-5 %
+Parkvangen 6 8355 Solbjerg,6,2495000.0,09-11-2010,Alm.,0,8,Villa,207,1966,0 %
+Solbjerg Hovedgade 72B 8355 Solbjerg,0,1540000.0,26-10-2010,Auktion,10335,5,Villa,149,1998,
+Egevangen 7 8355 Solbjerg,7,1750000.0,14-10-2010,Alm.,17326,4,Villa,101,1997,-7 %
+Højlundsparken 93 8355 Solbjerg,93,1650000.0,12-10-2010,Alm.,15277,4,Villa,108,1970,-2 %
+Hasselvangen 95 8355 Solbjerg,95,1995000.0,08-10-2010,Alm.,14888,4,Rækkehus,134,2011,0 %
+Nordvejen 9 8355 Solbjerg,9,2850000.0,05-10-2010,Alm.,8610,10,Stuehus,331,1919,-5 %
+Hasselvangen 237 8355 Solbjerg,237,2830000.0,04-10-2010,Alm.,18866,5,Villa,150,2008,-2 %
+Hasselvangen 269 8355 Solbjerg,269,3398000.0,27-09-2010,Alm.,17884,5,Villa,190,2007,0 %
+Mustrupvej 16 8355 Solbjerg,16,2500000.0,23-09-2010,Alm.,19083,3,Stuehus,131,1925,0 %
+Birkevangen 46 8355 Solbjerg,46,2635000.0,21-09-2010,Auktion,15778,4,Villa,167,2007,
+Hvilstedvej 12 8355 Solbjerg,12,1495000.0,07-09-2010,Alm.,10239,6,Villa,146,1905,-4 %
+Kærgårdsvej 25 8355 Solbjerg,25,1995000.0,06-09-2010,Alm.,14250,5,Villa,140,1967,0 %
+Østergårdsvej 244 8355 Solbjerg,244,1650000.0,01-09-2010,Alm.,13095,4,Villa,126,1900,-3 %
+Kærgårdsvej 59 8355 Solbjerg,59,1750000.0,29-08-2010,Alm.,14583,5,Villa,120,1966,-4 %
+Fastrupvej 32 8355 Solbjerg,32,2050000.0,02-08-2010,Alm.,14539,5,Villa,141,1966,-2 %
+Hasselvangen 267 8355 Solbjerg,267,2940000.0,20-07-2010,Alm.,15638,5,Villa,188,2008,-8 %
+Sødalen 12 8355 Solbjerg,12,1473000.0,19-07-2010,Alm.,16931,3,Rækkehus,87,1985,-2 %
+Lystenlund 81 8355 Solbjerg,81,1860000.0,17-07-2010,Alm.,14307,5,Villa,130,1989,-15 %
+Hvilstedvej 2 8355 Solbjerg,2,1800000.0,09-07-2010,Fam.,9944,8,Villa,181,1852,-28 %
+Solbjerg Hedevej 54 8355 Solbjerg,54,2000000.0,29-06-2010,Alm.,11904,6,Villa,168,1970,-2 %
+Bøgevangen 51 8355 Solbjerg,51,2450000.0,24-06-2010,Alm.,14670,6,Villa,167,1972,-6 %
+Højlundsparken 43 8355 Solbjerg,43,1275000.0,14-06-2010,Alm.,10897,4,Villa,117,1970,-12 %
+Nordgårdsvej 6 8355 Solbjerg,6,3000000.0,11-06-2010,Alm.,10714,8,Stuehus,280,1900,
+Solbjerg Hovedgade 16A 8355 Solbjerg,0,1700000.0,01-06-2010,Alm.,14166,4,Villa,120,1987,-6 %
+Solbjerg Hedevej 103 8355 Solbjerg,103,3150000.0,26-05-2010,Alm.,18975,5,Villa,166,2008,-4 %
+Dalmosevej 19 8355 Solbjerg,19,1021250.0,23-05-2010,Fam.,6588,5,Villa,155,1966,
+Trolddalsvej 16 8355 Solbjerg,16,2500000.0,18-05-2010,Alm.,13966,6,Stuehus,179,1912,-10 %
+Hasselvangen 23 8355 Solbjerg,23,2850000.0,17-05-2010,Alm.,15573,5,Villa,183,2008,
+Hasselvangen 68 8355 Solbjerg,68,804000.0,11-05-2010,Alm.,5254,5,Villa,153,2011,1 %
+Østergårdsvej 286 8355 Solbjerg,286,20364000.0,10-05-2010,Alm.,161619,5,Rækkehus,126,2008,
+Østergårdsvej 284 8355 Solbjerg,284,20364000.0,10-05-2010,Alm.,157860,5,Rækkehus,129,2008,
+Østergårdsvej 288 8355 Solbjerg,288,20364000.0,10-05-2010,Alm.,161619,5,Rækkehus,126,2008,
+Østergårdsvej 298 8355 Solbjerg,298,20364000.0,10-05-2010,Alm.,161619,5,Rækkehus,126,2008,
+Østergårdsvej 292 8355 Solbjerg,292,20364000.0,10-05-2010,Alm.,143408,5,Rækkehus,142,2008,
+Østergårdsvej 296 8355 Solbjerg,296,20364000.0,10-05-2010,Alm.,161619,5,Rækkehus,126,2008,
+Østergårdsvej 294 8355 Solbjerg,294,20364000.0,10-05-2010,Alm.,161619,5,Rækkehus,126,2008,
+Østergårdsvej 300 8355 Solbjerg,300,20364000.0,10-05-2010,Alm.,157860,5,Rækkehus,129,2008,
+Østergårdsvej 290 8355 Solbjerg,290,20364000.0,10-05-2010,Alm.,143408,5,Rækkehus,142,2008,
+Hasselvangen 17 8355 Solbjerg,17,1300000.0,10-05-2010,Alm.,7514,5,Villa,173,2010,
+Gammel Horsensvej 73 8355 Solbjerg,73,2450000.0,28-04-2010,Alm.,10652,8,Villa,230,1897,-18 %
+Hasselvangen 89 8355 Solbjerg,89,1900000.0,15-04-2010,Alm.,14179,4,Rækkehus,134,2010,
+Birkevangen 33 8355 Solbjerg,33,1250000.0,09-04-2010,Fam.,8865,5,Villa,141,2002,
+Fastrupvej 46 8355 Solbjerg,46,1375000.0,31-03-2010,Alm.,11270,6,Villa,122,1972,-8 %
+Kærgårdsvej 3 8355 Solbjerg,3,1025000.0,24-03-2010,Alm.,10250,3,Villa,100,1962,-20 %
+Tisetvej 58 8355 Solbjerg,58,4000000.0,04-03-2010,Alm.,16877,7,Stuehus,237,1877,4 %
+Kærgårdsparken 113 8355 Solbjerg,113,2800000.0,14-02-2010,Alm.,14583,7,Villa,192,1980,-2 %
+Tisetvej 34 8355 Solbjerg,34,2295000.0,12-02-2010,Alm.,11649,5,Stuehus,197,2009,
+Østergårdsvej 234 8355 Solbjerg,234,1667500.0,10-02-2010,Fam.,7511,10,Villa,222,1860,-57 %
+Sødalen 3 8355 Solbjerg,3,1250000.0,14-01-2010,Alm.,16025,2,Rækkehus,78,1984,-4 %
+Nordvejen 4 8355 Solbjerg,4,3050000.0,13-01-2010,Alm.,14523,6,Stuehus,210,1848,-5 %
+Hasselvangen 28 8355 Solbjerg,28,804000.0,06-01-2010,Alm.,0,7,Villa,230,2011,
+Kærgårdsparken 71 8355 Solbjerg,71,2295000.0,05-01-2010,Alm.,15000,6,Villa,153,1979,0 %
+Mustrupvej 6 8355 Solbjerg,6,220000.0,26-12-2009,Alm.,1222,7,Stuehus,180,1922,
+Kærgårdsvej 20 8355 Solbjerg,20,1965000.0,03-12-2009,Alm.,13838,6,Villa,142,1966,-2 %
+Solbjerg Hedevej 56 8355 Solbjerg,56,1075000.0,03-12-2009,Alm.,6847,5,Villa,157,1971,
+Hasselvangen 227 8355 Solbjerg,227,1370490.0,27-11-2009,Alm.,8619,5,Villa,159,2008,
+Hasselvangen 50 8355 Solbjerg,50,800000.0,24-11-2009,Alm.,4705,4,Villa,170,2010,
+Hasselvangen 2 8355 Solbjerg,2,3150000.0,20-11-2009,Alm.,15671,5,Villa,201,2008,-10 %
+Bøgeskovvej 4 8355 Solbjerg,4,2772837.0,11-11-2009,Alm.,5534,12,Stuehus,501,1878,
+Lethenborgvej 16 8355 Solbjerg,16,1200000.0,10-11-2009,Alm.,13043,2,Villa,92,1927,-4 %
+Hasselvangen 259 8355 Solbjerg,259,2470000.0,06-11-2009,Alm.,15833,5,Villa,156,2007,-5 %
+Elleskovvej 10 8355 Solbjerg,10,1750000.0,29-10-2009,Alm.,12867,5,Villa,136,1969,-4 %
+Hasselvangen 261 8355 Solbjerg,261,2850000.0,20-10-2009,Alm.,15079,6,Villa,189,2007,-8 %
+Hasselvangen 15 8355 Solbjerg,15,2900000.0,20-10-2009,Alm.,17261,5,Villa,168,2008,-8 %
+Højlundsparken 4 8355 Solbjerg,4,1000000.0,10-10-2009,Fam.,6756,6,Villa,148,1969,
+Solbjerg Hedevej 67 8355 Solbjerg,67,2750000.0,08-10-2009,Alm.,16871,5,Villa,163,2008,1 %
+Hasselvangen 81 8355 Solbjerg,81,1840000.0,06-10-2009,Alm.,13731,4,Rækkehus,134,2008,-8 %
+Hasselvangen 265 8355 Solbjerg,265,2950000.0,29-09-2009,Alm.,16208,5,Villa,182,2008,-2 %
+"Tisetvej 18, ST. TV 8355 Solbjerg",0,1700000.0,29-09-2009,Auktion,10365,4,Rækkehus,164,1892,-39 %
+Østergårdsvej 267 8355 Solbjerg,267,1850000.0,13-09-2009,Alm.,9946,7,Villa,186,1900,-7 %
+Højlundsparken 17B 8355 Solbjerg,0,2000000.0,18-08-2009,Alm.,8403,7,Villa,238,2006,
+Vestervangsparken 7 8355 Solbjerg,7,1250000.0,07-07-2009,Andet,7812,5,Villa,160,1972,
+Møddebrovej 5 8355 Solbjerg,5,2100000.0,06-07-2009,Alm.,9375,6,Villa,224,1963,-16 %
+Kærgårdsparken 47 8355 Solbjerg,47,2000000.0,15-06-2009,Alm.,16000,4,Villa,125,1984,-9 %
+Solbjerg Hedevej 20 8355 Solbjerg,20,1550000.0,12-06-2009,Alm.,14090,3,Villa,110,1969,-9 %
+Kærgårdsparken 27 8355 Solbjerg,27,1610000.0,28-05-2009,Alm.,13416,4,Villa,120,1981,1 %
+Ravnholtvej 16 8355 Solbjerg,16,1100000.0,24-02-2009,Alm.,13095,1,Villa,84,1992,-15 %
+Kærgårdsparken 61 8355 Solbjerg,61,1950000.0,13-02-2009,Alm.,13732,4,Villa,142,1979,-9 %
+Egevangen 3 8355 Solbjerg,3,2595000.0,11-02-2009,Alm.,18146,5,Villa,143,1997,0 %
+Trolddalsvej 5 8355 Solbjerg,5,1600000.0,22-12-2008,Alm.,8791,6,Villa,182,1877,
+Kærgårdsparken 59 8355 Solbjerg,59,1850000.0,03-12-2008,Alm.,0,6,Villa,182,1979,
+Kærgårdsvej 2 8355 Solbjerg,2,1825000.0,24-10-2008,Alm.,12006,5,Villa,152,1965,-3 %
+Solbjerg Hedevej 65 8355 Solbjerg,65,3400000.0,14-10-2008,Alm.,18681,5,Villa,182,2008,-6 %
+Birkevangen 40 8355 Solbjerg,40,2650000.0,07-10-2008,Alm.,17785,6,Villa,149,2003,-3 %
+Tisetvej 64A 8355 Solbjerg,0,950000.0,29-09-2008,Alm.,6012,5,Villa,158,1989,
+Egevangen 27 8355 Solbjerg,27,2125000.0,19-07-2008,Alm.,16732,4,Villa,127,1997,-8 %
+Solbjerg Hedevej 78 8355 Solbjerg,78,1370000.0,15-07-2008,Auktion,12232,4,Villa,112,1970,-19 %
+Trolddalsvej 3 8355 Solbjerg,3,2200000.0,27-06-2008,Alm.,13333,3,Stuehus,165,1890,
+Østergårdsvej 281 8355 Solbjerg,281,1845000.0,26-06-2008,Alm.,23062,3,Villa,80,1952,
+Østergårdsvej 266 8355 Solbjerg,266,2510000.0,23-06-2008,Alm.,10818,7,Stuehus,232,1860,2 %
+Solbjerg Hedevej 75 8355 Solbjerg,75,3175000.0,09-06-2008,Alm.,18898,5,Villa,168,2007,-4 %
+Elleskovvej 3 8355 Solbjerg,3,1900000.0,02-06-2008,Alm.,6551,6,Villa,290,1968,
+Solbjerg Søvej 40 8355 Solbjerg,40,7000000.0,02-06-2008,Alm.,0,5,Stuehus,199,1974,
+Bøgeskovvej 1 8355 Solbjerg,1,5600000.0,26-05-2008,Alm.,20071,6,Stuehus,279,1876,-7 %
+Hasselvangen 7 8355 Solbjerg,7,3200000.0,20-05-2008,Alm.,18823,5,Villa,170,2007,
+Balskildevej 3 8355 Solbjerg,3,1124000.0,15-05-2008,Fam.,0,8,Villa,244,1850,
+Haldshavevej 2 8355 Solbjerg,2,3000000.0,07-05-2008,Alm.,18750,4,Stuehus,160,1975,
+Fastrupvej 101 8355 Solbjerg,101,1895000.0,01-05-2008,Alm.,13933,4,Villa,136,1965,-5 %
+Birkevangen 19 8355 Solbjerg,19,2740000.0,25-04-2008,Alm.,19571,5,Villa,140,2003,-2 %
+Solbjerg Hovedgade 82 8355 Solbjerg,82,1600000.0,30-03-2008,Alm.,15094,4,Villa,106,1895,
+Fastrupvej 8 8355 Solbjerg,8,2355000.0,26-03-2008,Alm.,11108,6,Villa,212,1962,-2 %
+Solbjerg Hedevej 83 8355 Solbjerg,83,1800000.0,21-03-2008,Andet,9045,7,Villa,199,2007,-55 %
+Bøgeskovvej 2 8355 Solbjerg,2,968050.0,01-03-2008,Alm.,4208,8,Stuehus,230,1889,
+Kærgårdsvej 54 8355 Solbjerg,54,800000.0,18-02-2008,Alm.,4761,5,Villa,168,2009,
+Solbjerg Hedevej 73 8355 Solbjerg,73,2995000.0,11-02-2008,Alm.,17934,5,Villa,167,2008,-11 %
+Hasselvangen 263 8355 Solbjerg,263,782800.0,06-02-2008,Alm.,4473,5,Villa,175,2008,
+Bøgevangen 22 8355 Solbjerg,22,935000.0,31-01-2008,Fam.,3961,6,Villa,236,1968,
+Solbjerg Hedevej 208 8355 Solbjerg,208,285544.0,17-01-2008,Alm.,1179,6,Stuehus,242,1886,
+Lystenlund 5 8355 Solbjerg,5,2087500.0,17-12-2007,Alm.,16567,4,Villa,126,1988,-5 %
+Egevangen 13 8355 Solbjerg,13,1925000.0,16-12-2007,Alm.,19059,4,Villa,101,1996,-4 %
+Parkvangen 4 8355 Solbjerg,4,2585000.0,11-12-2007,Alm.,15205,6,Villa,170,1965,-4 %
+Bøgevangen 25 8355 Solbjerg,25,2450000.0,11-12-2007,Alm.,11290,6,Villa,217,1972,-6 %
+Hasselvangen 271 8355 Solbjerg,271,2595000.0,07-12-2007,Alm.,17896,5,Villa,145,2008,0 %
+Onstedvej 5 8355 Solbjerg,5,1134661.0,23-11-2007,Alm.,4911,7,Villa,231,1877,
+Solbjerg Hedevej 22 8355 Solbjerg,22,2100000.0,22-10-2007,Alm.,18103,4,Villa,116,1971,
+Birkevangen 8 8355 Solbjerg,8,2795000.0,15-10-2007,Alm.,20253,5,Villa,138,2001,
+Lystenlund 3 8355 Solbjerg,3,2098000.0,10-10-2007,Alm.,17483,4,Villa,120,1989,-12 %
+Kærgårdsparken 84 8355 Solbjerg,84,2415000.0,16-08-2007,Alm.,15993,5,Villa,151,1987,-3 %
+Møddebrovej 10 8355 Solbjerg,10,1890000.0,08-08-2007,Alm.,15750,5,Villa,120,1972,0 %
+Møddebrovej 3 8355 Solbjerg,3,1150000.0,31-07-2007,Alm.,14375,3,Villa,80,1961,
+Solbjerg Hedevej 64 8355 Solbjerg,64,1850000.0,24-07-2007,Alm.,12500,6,Villa,148,1972,
+Dalmosevej 9 8355 Solbjerg,9,2100000.0,18-07-2007,Alm.,14482,5,Villa,145,1967,-4 %
+Birkevangen 20 8355 Solbjerg,20,3125000.0,13-07-2007,Alm.,0,5,Villa,177,2003,
+Højlundsparken 21 8355 Solbjerg,21,1945000.0,06-07-2007,Alm.,18523,4,Villa,105,1969,0 %
+Hasselvangen 44 8355 Solbjerg,44,2773000.0,05-07-2007,Alm.,18124,5,Villa,153,2007,
+Hasselvangen 36 8355 Solbjerg,36,1096500.0,04-07-2007,Alm.,4439,6,Villa,247,2011,
+Kærgårdsparken 135 8355 Solbjerg,135,2170000.0,26-06-2007,Alm.,14370,4,Villa,151,1980,
+Mustrupvej 11 8355 Solbjerg,11,1965000.0,25-06-2007,Alm.,0,7,Villa,363,1750,-2 %
+Bøgevangen 16 8355 Solbjerg,16,2395000.0,24-06-2007,Alm.,17355,5,Villa,138,1968,-1 %
+Østergårdsvej 233 8355 Solbjerg,233,1845000.0,21-06-2007,Alm.,10603,5,Villa,174,1948,
+Hasselvangen 257 8355 Solbjerg,257,771000.0,14-06-2007,Alm.,4307,5,Villa,179,2008,
+Hasselvangen 30 8355 Solbjerg,30,802085.0,13-06-2007,Alm.,4663,5,Villa,172,2010,
+Hasselvangen 255 8355 Solbjerg,255,891500.0,12-06-2007,Alm.,5943,5,Villa,150,2009,
+Nordvejen 10 8355 Solbjerg,10,3670000.0,07-06-2007,Alm.,15617,8,Stuehus,235,1900,
+Hasselvangen 42 8355 Solbjerg,42,856999.0,31-05-2007,Alm.,5131,5,Villa,167,2008,
+Balskildevej 21 8355 Solbjerg,21,350000.0,23-05-2007,Alm.,1750,6,Villa,200,1904,
+Hasselvangen 52 8355 Solbjerg,52,852257.0,16-05-2007,Alm.,4370,5,Villa,195,2008,
+Hasselvangen 253 8355 Solbjerg,253,715000.0,16-05-2007,Alm.,3325,6,Villa,215,2009,
+Hasselvangen 241 8355 Solbjerg,241,708246.0,16-05-2007,Alm.,3309,6,Villa,214,2008,
+Hasselvangen 247 8355 Solbjerg,247,728100.0,16-05-2007,Alm.,4233,6,Villa,172,2008,
+Hasselvangen 229 8355 Solbjerg,229,792000.0,16-05-2007,Alm.,3960,6,Villa,200,2008,
+Hasselvangen 275 8355 Solbjerg,275,609000.0,16-05-2007,Alm.,4087,5,Villa,149,2008,
+Hasselvangen 233 8355 Solbjerg,233,806500.0,16-05-2007,Alm.,4887,5,Villa,165,2008,
+Solbjerg Hedevej 101 8355 Solbjerg,101,645900.0,16-05-2007,Alm.,5085,4,Villa,127,2008,
+Hasselvangen 243 8355 Solbjerg,243,857000.0,16-05-2007,Alm.,5193,5,Villa,165,2008,
+Hasselvangen 225 8355 Solbjerg,225,712500.0,16-05-2007,Alm.,3914,6,Villa,182,2008,
+Lystenlund 63 8355 Solbjerg,63,2365000.0,15-05-2007,Alm.,16538,4,Villa,143,1988,
+Kærgårdsparken 119 8355 Solbjerg,119,2425000.0,10-05-2007,Alm.,16059,5,Villa,151,1984,-3 %
+Hasselvangen 38 8355 Solbjerg,38,2437670.0,13-04-2007,Alm.,19501,4,Villa,125,2008,
+Hasselvangen 5 8355 Solbjerg,5,2568625.0,13-04-2007,Alm.,17837,5,Villa,144,2007,
+Hvilstedvej 4 8355 Solbjerg,4,850000.0,02-04-2007,Alm.,5629,5,Villa,151,2012,
+Kærgårdsvej 62 8355 Solbjerg,62,1935000.0,30-03-2007,Alm.,18428,4,Villa,105,1984,-1 %
+Nordvejen 11 8355 Solbjerg,11,1425000.0,13-03-2007,Alm.,4781,8,Villa,298,1922,
+Egevangen 21 8355 Solbjerg,21,2825000.0,08-03-2007,Alm.,17767,5,Villa,159,1997,
+Hasselvangen 56 8355 Solbjerg,56,821070.0,06-03-2007,Alm.,3947,6,Villa,208,2008,
+Birkevangen 34 8355 Solbjerg,34,2740000.0,05-03-2007,Alm.,19855,5,Villa,138,2002,
+Solbjerg Hovedgade 17 8355 Solbjerg,17,2000000.0,19-02-2007,Alm.,10152,5,Villa,197,1980,
+Lethenborgvej 2 8355 Solbjerg,2,1900000.0,15-02-2007,Fam.,11046,4,Stuehus,172,1987,
+Hasselvangen 235 8355 Solbjerg,235,721000.0,06-02-2007,Alm.,4343,5,Villa,166,2008,
+Hasselvangen 54 8355 Solbjerg,54,712251.0,04-02-2007,Alm.,3892,5,Villa,183,2008,
+Solbjerg Hedevej 111 8355 Solbjerg,111,602357.0,31-01-2007,Alm.,4302,4,Villa,140,2008,
+Møddebrovej 18 8355 Solbjerg,18,1800000.0,22-01-2007,Fam.,12857,4,Villa,140,1969,
+Hvilstedvej 16 8355 Solbjerg,16,495678.0,15-01-2007,Alm.,1822,17,Villa,272,1909,
+Hasselvangen 9 8355 Solbjerg,9,2898000.0,15-01-2007,Alm.,18000,5,Villa,161,2007,
+Solbjerg Hedevej 95 8355 Solbjerg,95,2699000.0,05-01-2007,Alm.,18114,5,Villa,149,2007,
+Højlundsparken 12 8355 Solbjerg,12,2298000.0,17-12-2006,Alm.,10788,7,Villa,213,1971,
+Møddebrovej 24 8355 Solbjerg,24,700000.0,17-12-2006,Andet,8536,3,Rækkehus,82,1981,
+Hasselvangen 64 8355 Solbjerg,64,802607.0,13-12-2006,Alm.,4777,5,Villa,168,2008,
+Hasselvangen 22 8355 Solbjerg,22,912000.0,13-12-2006,Alm.,5493,5,Villa,166,2008,
+Hasselvangen 34 8355 Solbjerg,34,927000.0,13-12-2006,Alm.,5830,6,Villa,159,2007,
+Solbjerg Hedevej 109 8355 Solbjerg,109,851001.0,13-12-2006,Alm.,5005,5,Villa,170,2008,
+Hasselvangen 24 8355 Solbjerg,24,671250.0,13-12-2006,Alm.,4302,5,Villa,156,2009,
+Hasselvangen 20 8355 Solbjerg,20,907000.0,12-12-2006,Alm.,5067,7,Villa,179,2007,
+Hasselvangen 12 8355 Solbjerg,12,1035000.0,11-12-2006,Alm.,5335,5,Villa,194,2011,
+Solbjerg Hedevej 81 8355 Solbjerg,81,926815.0,10-12-2006,Alm.,6220,5,Villa,149,2008,
+Hasselvangen 19 8355 Solbjerg,19,900500.0,05-12-2006,Alm.,5266,5,Villa,171,2008,
+Hasselvangen 8 8355 Solbjerg,8,870100.0,03-12-2006,Alm.,6744,4,Villa,129,2008,
+Hasselvangen 4 8355 Solbjerg,4,808117.0,03-12-2006,Alm.,5535,4,Villa,146,2008,
+Hasselvangen 6 8355 Solbjerg,6,802300.0,30-11-2006,Alm.,5110,5,Villa,157,2008,
+Solbjerg Hedevej 115 8355 Solbjerg,115,605000.0,22-11-2006,Alm.,4143,3,Villa,146,2008,
+Birkevangen 42 8355 Solbjerg,42,2935000.0,17-11-2006,Alm.,0,6,Villa,178,2002,
+Hvilstedvej 3 8355 Solbjerg,3,1150000.0,13-10-2006,Alm.,0,4,Villa,117,1852,
+Onstedvej 21 8355 Solbjerg,21,100000.0,10-10-2006,Alm.,625,4,Stuehus,160,1900,
+Solbjerg Hovedgade 97 8355 Solbjerg,97,1198000.0,09-10-2006,Alm.,18151,2,Rækkehus,66,1985,
+Solbjerg Hovedgade 42 8355 Solbjerg,42,2495000.0,17-09-2006,Alm.,23990,4,Villa,104,1925,
+Bøgeskovvej 20 8355 Solbjerg,20,1845000.0,08-09-2006,Alm.,15504,3,Stuehus,119,1778,
+Solbjerg Hedevej 89 8355 Solbjerg,89,872500.0,27-07-2006,Alm.,4957,5,Villa,176,2007,
+Solbjerg Hedevej 61 8355 Solbjerg,61,857020.0,25-07-2006,Alm.,5601,5,Villa,153,2007,
+Solbjerg Hedevej 97 8355 Solbjerg,97,852501.0,25-07-2006,Alm.,5721,5,Villa,149,2007,
+Birkevangen 49 8355 Solbjerg,49,2950000.0,18-07-2006,Alm.,21071,5,Villa,140,2002,
+Østergårdsvej 215 8355 Solbjerg,215,998000.0,07-07-2006,Alm.,9596,3,Villa,104,1893,
+Solbjerg Hedevej 77 8355 Solbjerg,77,805000.0,06-07-2006,Alm.,5062,6,Villa,159,2007,
+Solbjerg Hovedgade 43 8355 Solbjerg,43,1200000.0,06-07-2006,Alm.,13043,3,Villa,92,1926,
+Solbjerg Hedevej 91 8355 Solbjerg,91,1058000.0,06-07-2006,Alm.,5453,5,Villa,194,2007,
+Solbjerg Hedevej 93 8355 Solbjerg,93,867150.0,06-07-2006,Alm.,5012,5,Villa,173,2007,
+Hasselvangen 21 8355 Solbjerg,21,988010.0,04-07-2006,Alm.,5398,5,Villa,183,2008,
+Tisetvej 22 8355 Solbjerg,22,1144762.0,22-06-2006,Fam.,5203,6,Villa,220,1935,
+Solbjerg Hedevej 99 8355 Solbjerg,99,2827098.0,21-06-2006,Alm.,16063,5,Villa,176,2007,
+Højlundsparken 46 8355 Solbjerg,46,2260000.0,20-06-2006,Alm.,13294,6,Villa,170,1968,
+Hasselvangen 13 8355 Solbjerg,13,851000.0,15-06-2006,Alm.,5635,5,Villa,151,2007,
+Bøgeskovvej 22 8355 Solbjerg,22,1056300.0,05-06-2006,Alm.,8125,4,Villa,130,1863,
+Lystenlund 15 8355 Solbjerg,15,975000.0,02-06-2006,Fam.,6210,5,Villa,157,1986,
+Dalmosevej 12 8355 Solbjerg,12,2098000.0,02-06-2006,Alm.,16138,3,Villa,130,1965,
+Fastrupvej 28 8355 Solbjerg,28,1980000.0,30-05-2006,Alm.,16229,4,Villa,122,1970,
+Gammel Horsensvej 81 8355 Solbjerg,81,1425000.0,16-05-2006,Andet,0,6,Stuehus,187,1862,
+Kærgårdsparken 91 8355 Solbjerg,91,1999000.0,18-04-2006,Alm.,0,8,Villa,214,1985,
+Dalmosevej 10 8355 Solbjerg,10,1623000.0,11-03-2006,Alm.,16230,4,Villa,100,1965,
+Drammelstrupvej 296 8355 Solbjerg,296,2585000.0,04-03-2006,Alm.,14361,6,Stuehus,180,1885,
+Kærgårdsvej 74 8355 Solbjerg,74,2787688.0,03-03-2006,Alm.,20348,5,Villa,137,1983,
+Ravnholtvej 14 8355 Solbjerg,14,1560000.0,19-02-2006,Alm.,14181,4,Villa,110,1967,
+Solbjerg Hedevej 30 8355 Solbjerg,30,2285000.0,14-02-2006,Alm.,13284,6,Villa,172,1971,
+Østergårdsvej 275 8355 Solbjerg,275,3697500.0,08-02-2006,Fam.,14221,9,Stuehus,260,1880,
+Fastrupvej 40 8355 Solbjerg,40,1995000.0,03-02-2006,Alm.,13211,4,Villa,151,1969,
+Østergårdsvej 246 8355 Solbjerg,246,1675000.0,23-01-2006,Alm.,20937,4,Villa,80,1890,
+Tisetvej 26A 8355 Solbjerg,0,1675000.0,18-01-2006,Alm.,15509,4,Villa,108,1967,
+Lystenlund 67 8355 Solbjerg,67,2070000.0,13-01-2006,Alm.,0,5,Villa,153,1988,
+Drammelstrupvej 271 8355 Solbjerg,271,2671000.0,11-01-2006,Alm.,16487,5,Villa,162,1877,
+Møllegårdsparken 19 8355 Solbjerg,19,1420000.0,03-12-2005,Fam.,10364,5,Villa,137,1972,
+Kærgårdsvej 73 8355 Solbjerg,73,1850000.0,30-11-2005,Alm.,13805,5,Villa,134,1967,
+Mustrupvej 3 8355 Solbjerg,3,2850000.0,29-11-2005,Alm.,17812,5,Villa,160,1978,
+Møllegårdsparken 16 8355 Solbjerg,16,2825000.0,28-11-2005,Alm.,13848,6,Villa,204,1972,
+Hvilstedvej 8 8355 Solbjerg,8,1885000.0,25-11-2005,Alm.,13181,4,Villa,143,1932,
+Hvilstedvej 5 8355 Solbjerg,5,950000.0,03-11-2005,Alm.,7421,6,Villa,128,1925,
+Bakketoppen 6 8355 Solbjerg,6,937500.0,24-10-2005,Andet,8445,4,Villa,111,1966,
+Tisetvej 68 8355 Solbjerg,68,700000.0,20-10-2005,Fam.,3763,7,Stuehus,186,1859,
+Bøgeskovvej 24 8355 Solbjerg,24,3000000.0,18-10-2005,Alm.,0,7,Villa,304,1878,
+Søvangsvej 19B 8355 Solbjerg,0,1137500.0,16-10-2005,Alm.,17500,2,Rækkehus,65,1988,
+Søvangsvej 1 8355 Solbjerg,1,1525000.0,11-10-2005,Alm.,12298,4,Villa,124,1962,
+Torrildvej 1 8355 Solbjerg,1,1020000.0,23-09-2005,Alm.,8360,3,Villa,122,1840,
+Rantzausgavevej 3 8355 Solbjerg,3,2625000.0,14-09-2005,Alm.,24532,4,Stuehus,107,1911,
+Lystenlund 65 8355 Solbjerg,65,2282000.0,07-08-2005,Alm.,16417,5,Villa,139,1994,
+Birkevangen 54 8355 Solbjerg,54,2370000.0,30-07-2005,Alm.,13941,6,Villa,170,2004,
+Dalmosevej 5 8355 Solbjerg,5,1815000.0,14-07-2005,Alm.,19308,4,Villa,94,1967,
+Bøgevangen 35 8355 Solbjerg,35,1887053.0,03-07-2005,Alm.,11794,6,Villa,160,1970,
+Kærgårdsparken 123 8355 Solbjerg,123,1000000.0,29-06-2005,Fam.,0,5,Villa,164,1984,
+Bøgevangen 21 8355 Solbjerg,21,1845000.0,13-06-2005,Alm.,10423,6,Villa,177,1971,
+Solbjerg Hedevej 6 8355 Solbjerg,6,1700000.0,08-06-2005,Alm.,12318,5,Villa,138,1970,
+Onstedvej 2 8355 Solbjerg,2,1425000.0,01-06-2005,Alm.,9500,9,Stuehus,150,1900,
+Tisetvej 20 8355 Solbjerg,20,370000.0,31-05-2005,Alm.,1567,6,Villa,236,2006,
+Solbjerg Hovedgade 31 8355 Solbjerg,31,1375000.0,24-05-2005,Fam.,9105,6,Villa,151,1943,
+Blegindvej 110 8355 Solbjerg,110,1825000.0,20-05-2005,Alm.,8333,7,Villa,219,1933,
+Kærgårdsparken 94 8355 Solbjerg,94,2355000.0,18-05-2005,Alm.,12015,6,Villa,196,1986,
+Bøgevangen 18 8355 Solbjerg,18,1775000.0,13-05-2005,Alm.,11833,5,Villa,150,1969,
+Lystenlund 49 8355 Solbjerg,49,1475000.0,07-05-2005,Alm.,9516,6,Villa,155,1988,
+Birkevangen 45 8355 Solbjerg,45,1945000.0,11-04-2005,Alm.,12156,6,Villa,160,2002,
+Tisetvej 70 8355 Solbjerg,70,1274000.0,04-04-2005,Alm.,14988,4,Villa,85,1953,
+Rasborgvej 3 8355 Solbjerg,3,4925000.0,03-03-2005,Fam.,27060,6,Stuehus,182,1895,
+Kærgårdsvej 15 8355 Solbjerg,15,714000.0,28-02-2005,Fam.,7515,3,Villa,95,1965,
+Birkevangen 15 8355 Solbjerg,15,1975000.0,18-02-2005,Alm.,14522,5,Villa,136,2003,
+Solbjerg Hovedgade 16 8355 Solbjerg,16,1425000.0,10-02-2005,Alm.,9313,5,Villa,153,1947,
+Kærgårdsvej 68 8355 Solbjerg,68,1335000.0,10-02-2005,Alm.,0,7,Villa,165,1983,
+Birkevangen 47 8355 Solbjerg,47,1980000.0,01-02-2005,Alm.,12375,5,Villa,160,2001,
+Kærgårdsparken 133 8355 Solbjerg,133,2300000.0,17-01-2005,Alm.,12707,6,Villa,181,1985,
+Solbjerg Hovedgade 68 8355 Solbjerg,68,1149000.0,14-01-2005,Alm.,11490,3,Villa,100,1918,
+Østergårdsvej 242 8355 Solbjerg,242,1250000.0,14-01-2005,Alm.,9615,4,Villa,130,1877,
+Birkevangen 11 8355 Solbjerg,11,2300000.0,11-01-2005,Alm.,14935,5,Villa,154,2003,
+Kærgårdsparken 101 8355 Solbjerg,101,1485000.0,14-11-2004,Alm.,11785,5,Villa,126,1981,
+Solbjerg Hovedgade 60 8355 Solbjerg,60,985000.0,05-11-2004,Alm.,8208,4,Villa,120,1906,
+Østergårdsvej 254 8355 Solbjerg,254,1750000.0,17-10-2004,Alm.,10355,4,Villa,169,1999,
+Birkevangen 9 8355 Solbjerg,9,1925000.0,15-10-2004,Alm.,14694,5,Villa,131,2003,
+Mustrupvej 7 8355 Solbjerg,7,1130000.0,14-10-2004,Alm.,9186,3,Villa,123,1864,
+Søvangsvej 2 8355 Solbjerg,2,1376000.0,06-09-2004,Alm.,5192,8,Villa,265,1775,
+Østergårdsvej 219 8355 Solbjerg,219,1880000.0,05-09-2004,Alm.,11604,7,Stuehus,162,1890,
+Solbjerg Hedevej 70 8355 Solbjerg,70,1495000.0,02-09-2004,Alm.,9966,5,Villa,150,1972,
+Kærgårdsparken 54 8355 Solbjerg,54,1799000.0,31-08-2004,Alm.,10398,5,Villa,173,1986,
+Onstedvej 9A 8355 Solbjerg,0,1425000.0,05-08-2004,Alm.,9076,6,Villa,157,1900,
+Solbjerg Hovedgade 66 8355 Solbjerg,66,1325000.0,27-07-2004,Alm.,10192,4,Villa,130,1898,
+Møllegårdsparken 3 8355 Solbjerg,3,1500000.0,23-07-2004,Alm.,10714,5,Villa,140,1967,
+Solbjerg Hovedgade 65 8355 Solbjerg,65,10000.0,15-07-2004,Auktion,94,6,Villa,106,1908,
+Balskildevej 8 8355 Solbjerg,8,1760000.0,01-07-2004,Alm.,8148,7,Stuehus,216,1850,
+Højlundsparken 17 8355 Solbjerg,17,1750000.0,22-06-2004,Alm.,9308,9,Stuehus,188,1880,
+Mustrupvej 14 8355 Solbjerg,14,1575000.0,20-06-2004,Alm.,9843,6,Villa,160,1924,
+Møllegårdsparken 33 8355 Solbjerg,33,2025000.0,14-06-2004,Alm.,13322,6,Villa,152,1973,
+Møddebrovej 11 8355 Solbjerg,11,975000.0,25-05-2004,Alm.,8863,4,Villa,110,1966,
+Kærgårdsvej 65 8355 Solbjerg,65,1050000.0,18-05-2004,Alm.,11052,3,Villa,95,1967,
+Kærgårdsvej 42 8355 Solbjerg,42,1560000.0,10-05-2004,Alm.,10064,6,Villa,155,1982,
+Lystenlund 51 8355 Solbjerg,51,1435000.0,05-05-2004,Alm.,7396,8,Villa,194,1989,
+Fastrupvej 26 8355 Solbjerg,26,1483000.0,26-04-2004,Alm.,10088,4,Villa,147,1974,
+Bøgeskovvej 11 8355 Solbjerg,11,1450000.0,21-04-2004,Alm.,6041,6,Villa,240,1891,
+Fastrupvej 7 8355 Solbjerg,7,946258.0,13-04-2004,Alm.,11828,3,Villa,80,1963,
+Birkevangen 50 8355 Solbjerg,50,2625000.0,29-03-2004,Alm.,14423,5,Villa,182,2002,
+Onstedvej 13 8355 Solbjerg,13,900000.0,28-03-2004,Alm.,12500,2,Villa,72,1963,
+Bakketoppen 3 8355 Solbjerg,3,1270000.0,15-03-2004,Alm.,10495,4,Villa,121,1966,
+Klemivej 24 8355 Solbjerg,24,1440000.0,04-03-2004,Alm.,10069,5,Villa,143,1974,
+Rantzausgavevej 5 8355 Solbjerg,5,600000.0,19-02-2004,Alm.,3508,4,Villa,171,1935,
+Kærgårdsvej 79 8355 Solbjerg,79,1306092.0,10-02-2004,Alm.,8481,7,Villa,154,1968,
+Højlundsparken 14 8355 Solbjerg,14,1200000.0,05-02-2004,Alm.,9230,3,Villa,130,1967,
+Solbjerg Hedevej 74 8355 Solbjerg,74,1450000.0,23-01-2004,Alm.,8630,7,Villa,168,1969,
+Onstedvej 11 8355 Solbjerg,11,1750000.0,14-01-2004,Alm.,11744,6,Stuehus,149,1900,
+Kærgårdsvej 9 8355 Solbjerg,9,1165000.0,08-12-2003,Alm.,11421,4,Villa,102,1964,
+Lystenlund 61 8355 Solbjerg,61,1475000.0,18-10-2003,Alm.,9899,5,Villa,149,1994,
+Fastrupvej 22 8355 Solbjerg,22,860000.0,01-10-2003,Alm.,10000,3,Villa,86,1962,
+Bakketoppen 18 8355 Solbjerg,18,1550000.0,30-09-2003,Alm.,7175,7,Villa,216,1966,
+Solbjerg Hedevej 18 8355 Solbjerg,18,668250.0,11-09-2003,Andet,4842,6,Villa,138,1970,
+Tisetvej 66 8355 Solbjerg,66,865000.0,10-09-2003,Alm.,14416,3,Villa,60,1931,
+Kærgårdsparken 50 8355 Solbjerg,50,1479910.0,25-08-2003,Alm.,11561,4,Villa,128,1988,
+Bøgevangen 17 8355 Solbjerg,17,1226000.0,20-08-2003,Alm.,10568,4,Villa,116,1969,
+Bøgeskovvej 8 8355 Solbjerg,8,1080000.0,06-08-2003,Alm.,10485,4,Villa,103,1951,
+Nordvejen 2 8355 Solbjerg,2,1050000.0,24-07-2003,Alm.,9633,5,Stuehus,109,1890,
+Højlundsparken 19A 8355 Solbjerg,0,995000.0,21-07-2003,Alm.,11055,4,Rækkehus,90,1985,
+Kærgårdsparken 63 8355 Solbjerg,63,1230000.0,16-07-2003,Alm.,8978,5,Villa,137,1981,
+Kærgårdsparken 107 8355 Solbjerg,107,1715588.0,11-07-2003,Alm.,13835,4,Villa,124,1984,
+Kærgårdsvej 58 8355 Solbjerg,58,380000.0,17-06-2003,Alm.,2620,5,Villa,145,2004,
+Solbjerg Hovedgade 154 8355 Solbjerg,154,2395000.0,13-06-2003,Alm.,9003,11,Stuehus,266,1890,
+Højlundsparken 42 8355 Solbjerg,42,1205000.0,27-05-2003,Alm.,7675,5,Villa,157,1970,
+Solbjerg Hovedgade 54 8355 Solbjerg,54,1250000.0,27-05-2003,Alm.,0,4,Villa,189,1927,
+Drammelstrupvej 284 8355 Solbjerg,284,1595000.0,26-05-2003,Alm.,9968,7,Stuehus,160,1800,
+Egevangen 47 8355 Solbjerg,47,255000.0,17-05-2003,Alm.,1634,5,Villa,156,2003,
+Bøgevangen 67 8355 Solbjerg,67,1245000.0,04-05-2003,Alm.,7980,5,Villa,156,1969,
+Birkevangen 22 8355 Solbjerg,22,367350.0,30-04-2003,Alm.,2533,5,Villa,145,2003,
+Vestervangsparken 45 8355 Solbjerg,45,1150000.0,28-04-2003,Alm.,7931,4,Villa,145,1973,
+Solbjerg Hovedgade 150 8355 Solbjerg,150,590915.0,30-03-2003,Alm.,4652,4,Stuehus,127,1860,
+Vestervangsparken 19 8355 Solbjerg,19,1465000.0,17-03-2003,Alm.,10103,4,Villa,145,1972,
+Hvilstedvej 5A 8355 Solbjerg,0,975000.0,11-03-2003,Alm.,8125,5,Villa,120,1968,
+Østergårdsvej 249A 8355 Solbjerg,0,1011885.0,20-02-2003,Alm.,0,7,Stuehus,244,1908,
+Dalmosevej 3 8355 Solbjerg,3,1490000.0,16-02-2003,Alm.,7061,8,Villa,211,1966,
+Lystenlund 9 8355 Solbjerg,9,565701.0,06-02-2003,Andet,5286,4,Villa,107,1991,
+Birkevangen 5 8355 Solbjerg,5,334800.0,05-02-2003,Alm.,2188,5,Villa,153,2004,
+Fastrupvej 48 8355 Solbjerg,48,1076565.0,23-01-2003,Alm.,8971,5,Villa,120,1967,
+Dalmosevej 8 8355 Solbjerg,8,995000.0,17-01-2003,Alm.,7425,4,Villa,134,1966,
+Kærgårdsparken 121 8355 Solbjerg,121,1410000.0,15-12-2002,Alm.,10143,6,Villa,139,1980,
+Møllegårdsparken 31 8355 Solbjerg,31,3150000.0,03-12-2002,Alm.,0,12,Villa,190,1969,
+Lethenborgvej 20 8355 Solbjerg,20,330834.0,01-12-2002,Alm.,3519,5,Villa,94,1931,
+Møddebrovej 26 8355 Solbjerg,26,835000.0,25-11-2002,Alm.,10182,3,Rækkehus,82,1981,
+Fastrupvej 5 8355 Solbjerg,5,1090000.0,15-11-2002,Alm.,8014,4,Rækkehus,136,1966,
+Birkevangen 27 8355 Solbjerg,27,372750.0,08-11-2002,Alm.,2701,5,Villa,138,2003,
+Bøgevangen 73 8355 Solbjerg,73,1419950.0,06-11-2002,Andet,9792,5,Villa,145,1993,
+Solbjerg Hovedgade 94 8355 Solbjerg,94,1012509.0,26-10-2002,Alm.,0,7,Villa,182,1910,
+Birkevangen 7 8355 Solbjerg,7,336600.0,20-10-2002,Alm.,2185,6,Villa,154,2003,
+Bøgevangen 19 8355 Solbjerg,19,1295000.0,09-10-2002,Alm.,8248,7,Villa,157,1967,
+Birkevangen 13 8355 Solbjerg,13,330300.0,06-10-2002,Alm.,2410,5,Villa,137,2003,
+Birkevangen 17 8355 Solbjerg,17,329850.0,30-09-2002,Alm.,2184,4,Villa,151,2003,
+Solbjerg Hovedgade 76 8355 Solbjerg,76,1301462.0,24-08-2002,Alm.,9230,7,Villa,141,1959,
+Kærgårdsvej 46 8355 Solbjerg,46,1523491.0,15-07-2002,Alm.,10156,5,Villa,150,1979,
+Solbjerg Søvej 31 8355 Solbjerg,31,1995000.0,13-07-2002,Alm.,6584,5,Stuehus,303,2016,
+Fastrupvej 1 8355 Solbjerg,1,380999.0,26-06-2002,Alm.,3174,4,Villa,120,1962,
+Trolddalsvej 11 8355 Solbjerg,11,1817500.0,18-06-2002,Alm.,10326,6,Stuehus,176,1892,
+Mustrupvej 13 8355 Solbjerg,13,5600000.0,17-06-2002,Alm.,46666,5,Stuehus,120,1780,
+Østergårdsvej 256 8355 Solbjerg,256,845000.0,08-06-2002,Alm.,5827,5,Villa,145,1908,
+Østergårdsvej 228 8355 Solbjerg,228,1195000.0,04-06-2002,Alm.,0,5,Villa,176,1912,
+Birkevangen 25 8355 Solbjerg,25,361800.0,30-05-2002,Alm.,2275,6,Villa,159,2003,
+Birkevangen 23 8355 Solbjerg,23,330300.0,28-05-2002,Alm.,0,5,Villa,168,2003,
+Kærgårdsvej 92 8355 Solbjerg,92,1303480.0,17-05-2002,Alm.,8989,5,Villa,145,1965,
+Bøgevangen 57 8355 Solbjerg,57,847098.0,16-05-2002,Fam.,5609,5,Villa,151,1995,
+Birkevangen 44 8355 Solbjerg,44,338400.0,16-05-2002,Alm.,2366,4,Villa,143,2002,
+Trolddalsvej 14 8355 Solbjerg,14,895000.0,08-05-2002,Alm.,4182,8,Villa,214,2003,
+Kærgårdsvej 48 8355 Solbjerg,48,1400000.0,06-05-2002,Alm.,8641,5,Villa,162,1980,
+Birkevangen 32 8355 Solbjerg,32,1675000.0,01-05-2002,Alm.,0,6,Villa,157,2000,
+Fastrupvej 59 8355 Solbjerg,59,935000.0,29-04-2002,Fam.,6775,5,Villa,138,1971,
+Bøgevangen 8 8355 Solbjerg,8,1165000.0,20-04-2002,Alm.,10043,4,Villa,116,1970,
+Møllegårdsparken 26 8355 Solbjerg,26,1795000.0,07-04-2002,Alm.,8930,4,Villa,201,1969,
+Birkevangen 35 8355 Solbjerg,35,345600.0,04-04-2002,Alm.,0,5,Villa,195,2002,
+Birkevangen 41 8355 Solbjerg,41,342900.0,04-04-2002,Alm.,2078,6,Villa,165,2002,
+Østergårdsvej 226 8355 Solbjerg,226,1239414.0,02-04-2002,Alm.,7746,7,Villa,160,1860,
+Solbjerg Have 10 8355 Solbjerg,10,1095000.0,17-03-2002,Alm.,11648,4,Rækkehus,94,1995,
+Kærgårdsparken 64 8355 Solbjerg,64,920000.0,25-01-2002,Alm.,8761,4,Villa,105,1981,
+Birkevangen 39 8355 Solbjerg,39,358650.0,26-11-2001,Alm.,0,3,Villa,201,2002,
+Højlundsparken 107 8355 Solbjerg,107,1398000.0,05-11-2001,Alm.,8683,7,Villa,161,1971,
+Højlundsparken 105 8355 Solbjerg,105,1440000.0,29-10-2001,Alm.,12000,4,Villa,120,1971,
+Birkevangen 48 8355 Solbjerg,48,365250.0,08-10-2001,Alm.,2326,6,Villa,157,2002,
+Fastrupvej 4B 8355 Solbjerg,0,998000.0,03-10-2001,Alm.,0,4,Villa,148,1972,
+Birkevangen 38 8355 Solbjerg,38,338400.0,03-10-2001,Alm.,2488,5,Villa,136,2002,
+Lystenlund 55 8355 Solbjerg,55,1250000.0,13-09-2001,Alm.,10775,4,Villa,116,1987,
+Møllegårdsparken 13 8355 Solbjerg,13,318750.0,25-08-2001,Alm.,2153,6,Villa,148,1969,
+Nordvejen 21 8355 Solbjerg,21,1492157.0,19-08-2001,Alm.,8988,7,Villa,166,1910,
+Birkevangen 51 8355 Solbjerg,51,342900.0,16-08-2001,Alm.,2198,6,Villa,156,2002,
+Birkevangen 16 8355 Solbjerg,16,364050.0,04-08-2001,Alm.,0,7,Villa,246,2002,
+Birkevangen 52 8355 Solbjerg,52,363000.0,02-08-2001,Alm.,1900,6,Villa,191,2002,
+Møddebrovej 8 8355 Solbjerg,8,1125000.0,27-07-2001,Alm.,8152,4,Villa,138,1969,
+Rasborgvej 14 8355 Solbjerg,14,760000.0,27-07-2001,Alm.,8837,4,Villa,86,1900,
+Solbjerg Hovedgade 24 8355 Solbjerg,24,2725000.0,28-06-2001,Alm.,16925,9,Industri o.l.,161,1932,
+Kærgårdsparken 33 8355 Solbjerg,33,950000.0,18-06-2001,Fam.,7916,5,Villa,120,1980,
+Hvilstedvej 10 8355 Solbjerg,10,1420000.0,14-06-2001,Alm.,8114,5,Villa,175,1907,
+Lethenborgvej 24 8355 Solbjerg,24,1440000.0,06-06-2001,Alm.,6605,8,Stuehus,218,1900,
+Fastrupvej 37 8355 Solbjerg,37,550000.0,23-05-2001,Fam.,3793,5,Villa,145,1971,
+Bakketoppen 4 8355 Solbjerg,4,1325000.0,21-05-2001,Alm.,8660,4,Villa,153,1966,
+Egevangen 29 8355 Solbjerg,29,1495000.0,10-05-2001,Alm.,11240,4,Villa,133,2001,
+Birkevangen 30 8355 Solbjerg,30,361500.0,29-04-2001,Alm.,2362,4,Villa,153,2001,
+Birkevangen 36 8355 Solbjerg,36,338400.0,26-04-2001,Alm.,2707,5,Villa,125,2002,
+Rasborgvej 16 8355 Solbjerg,16,1177000.0,23-04-2001,Alm.,7692,6,Stuehus,153,1900,
+Lystenlund 7 8355 Solbjerg,7,1502600.0,17-04-2001,Alm.,9885,5,Villa,152,1986,
+Kærgårdsvej 1 8355 Solbjerg,1,750000.0,29-03-2001,Alm.,0,7,Villa,219,1962,
+Kærgårdsparken 86 8355 Solbjerg,86,1300000.0,16-02-2001,Alm.,10743,4,Villa,121,1987,
+Søvangsvej 9A 8355 Solbjerg,0,563000.0,06-02-2001,Alm.,8661,3,Sommerhus,65,1950,
+Lystenlund 35 8355 Solbjerg,35,1448000.0,07-01-2001,Alm.,9783,5,Villa,148,1986,
+Nordgårdsvej 5 8355 Solbjerg,5,1050000.0,20-12-2000,Alm.,11538,4,Stuehus,91,1900,
+Klemivej 22 8355 Solbjerg,22,1465000.0,14-11-2000,Alm.,8184,6,Villa,179,1977,
+Birkevangen 14 8355 Solbjerg,14,363000.0,20-10-2000,Alm.,2770,5,Villa,131,2001,
+Bøgevangen 71 8355 Solbjerg,71,1464087.0,16-10-2000,Alm.,10027,5,Villa,146,1988,
+Hvilstedvej 7A 8355 Solbjerg,0,1115000.0,13-10-2000,Alm.,9529,4,Villa,117,1975,
+Birkevangen 18 8355 Solbjerg,18,373050.0,09-10-2000,Alm.,0,5,Villa,190,2001,
+Balskildevej 6 8355 Solbjerg,6,841030.0,16-09-2000,Alm.,6276,4,Villa,134,1880,
+Solbjerg Hedevej 36 8355 Solbjerg,36,1381831.0,01-09-2000,Alm.,8690,6,Villa,159,1972,
+Østergårdsvej 255 8355 Solbjerg,255,1166000.0,24-07-2000,Alm.,6010,4,Villa,194,1964,
+Fastrupvej 4A 8355 Solbjerg,0,1027797.0,17-07-2000,Alm.,9516,4,Villa,108,1967,
+Onstedvej 15 8355 Solbjerg,15,1100000.0,05-07-2000,Alm.,6395,5,Villa,172,1966,
+Højlundsparken 103 8355 Solbjerg,103,1156000.0,19-06-2000,Alm.,9880,4,Villa,117,1971,
+Bakketoppen 9 8355 Solbjerg,9,1200000.0,28-05-2000,Alm.,8571,4,Villa,140,1964,
+Birkevangen 12 8355 Solbjerg,12,363150.0,25-04-2000,Alm.,2269,6,Villa,160,2000,
+Parkvangen 8 8355 Solbjerg,8,1550000.0,17-04-2000,Alm.,10000,5,Villa,155,1964,
+Bøgevangen 2 8355 Solbjerg,2,880000.0,14-03-2000,Alm.,7586,4,Villa,116,1968,
+Kærgårdsparken 21 8355 Solbjerg,21,288942.0,08-03-2000,Andet,2222,4,Villa,130,1980,
+Sødalen 1 8355 Solbjerg,1,775000.0,01-03-2000,Alm.,9935,3,Rækkehus,78,1984,
+Solbjerg Hovedgade 62B 8355 Solbjerg,0,951000.0,14-02-2000,Alm.,9704,4,Rækkehus,98,1988,
+Hvilstedvej 19B 8355 Solbjerg,0,23000.0,11-02-2000,Alm.,136,6,Villa,168,2001,
+Lethenborgvej 1 8355 Solbjerg,1,950000.0,09-02-2000,Alm.,5588,3,Villa,170,1903,
+Klemivej 8 8355 Solbjerg,8,1075000.0,01-02-2000,Alm.,6475,6,Villa,166,1969,
+Egevangen 23 8355 Solbjerg,23,1470000.0,24-01-2000,Alm.,11307,5,Villa,130,1999,
+Bøgeskovvej 6 8355 Solbjerg,6,1322681.0,19-01-2000,Alm.,8164,6,Villa,162,1888,
+Sødalen 6 8355 Solbjerg,6,976000.0,17-12-1999,Alm.,9760,4,Rækkehus,100,1984,
+Østergårdsvej 243 8355 Solbjerg,243,250000.0,14-12-1999,Alm.,1515,5,Villa,165,2001,
+Solbjerg Hedevej 42 8355 Solbjerg,42,1212000.0,05-12-1999,Alm.,6770,5,Villa,179,2013,
+Lethenborgvej 9 8355 Solbjerg,9,1799221.0,22-11-1999,Alm.,7559,8,Stuehus,238,1840,
+Kærgårdsvej 75 8355 Solbjerg,75,1180000.0,04-11-1999,Alm.,7375,5,Villa,160,1967,
+Kærgårdsparken 92 8355 Solbjerg,92,1454720.0,29-10-1999,Alm.,10317,6,Villa,141,1986,
+Østergårdsvej 239 8355 Solbjerg,239,1300000.0,28-10-1999,Fam.,8783,7,Villa,148,1902,
+Møddebrovej 17 8355 Solbjerg,17,907360.0,30-09-1999,Alm.,8641,4,Villa,105,1965,
+Bøgevangen 39 8355 Solbjerg,39,1303000.0,20-09-1999,Alm.,8686,6,Villa,150,1970,
+Lethenborgvej 8 8355 Solbjerg,8,6620000.0,03-09-1999,Alm.,33948,8,Stuehus,195,1900,
+Tisetvej 12 8355 Solbjerg,12,1937000.0,27-08-1999,Alm.,3357,11,Villa,577,1974,
+Fastrupvej 56 8355 Solbjerg,56,2500000.0,19-08-1999,Alm.,9881,6,Stuehus,253,2001,
+Birkevangen 6 8355 Solbjerg,6,337500.0,12-08-1999,Alm.,2163,5,Villa,156,2000,
+Solbjerg Hovedgade 83 8355 Solbjerg,83,660000.0,09-08-1999,Alm.,8800,2,Villa,75,1825,
+Kærgårdsvej 28 8355 Solbjerg,28,1279000.0,26-07-1999,Alm.,9838,4,Villa,130,1965,
+Solbjerg Hovedgade 95 8355 Solbjerg,95,738610.0,22-07-1999,Alm.,11913,2,Rækkehus,62,1985,
+Gammel Horsensvej 83 8355 Solbjerg,83,643032.0,30-06-1999,Alm.,4728,5,Stuehus,136,1920,
+Højlundsparken 79 8355 Solbjerg,79,1259000.0,11-06-1999,Alm.,9992,4,Villa,126,1972,
+Bakketoppen 16 8355 Solbjerg,16,1400000.0,28-05-1999,Alm.,7821,5,Villa,179,1965,
+Drammelstrupvej 256 8355 Solbjerg,256,3100000.0,27-05-1999,Fam.,17816,7,Stuehus,174,1935,
+Solbjerg Hovedgade 41 8355 Solbjerg,41,777177.0,18-05-1999,Alm.,7001,5,Villa,111,1930,
+Balskildevej 12 8355 Solbjerg,12,602314.0,10-05-1999,Alm.,3885,7,Villa,155,1900,
+Lethenborgvej 18 8355 Solbjerg,18,640000.0,06-05-1999,Alm.,4444,5,Villa,144,1880,
+Bakketoppen 7 8355 Solbjerg,7,1220280.0,05-05-1999,Alm.,6933,5,Villa,176,1968,
+Solbjerg Have 8 8355 Solbjerg,8,1055000.0,27-04-1999,Alm.,11223,4,Rækkehus,94,1995,
+Nordvejen 28 8355 Solbjerg,28,715000.0,21-04-1999,Alm.,6441,4,Villa,111,1928,
+Rantzausgavevej 7 8355 Solbjerg,7,271441.0,15-04-1999,Alm.,2857,3,Villa,95,1940,
+Lethenborgvej 5 8355 Solbjerg,5,710000.0,12-04-1999,Alm.,0,9,Villa,219,1869,
+Lethenborgvej 4 8355 Solbjerg,4,714000.0,06-04-1999,Alm.,7360,3,Villa,97,1800,
+Nordvejen 7 8355 Solbjerg,7,512500.0,15-03-1999,Andet,0,5,Villa,174,1912,
+Kannevej 8 8355 Solbjerg,8,731000.0,14-03-1999,Alm.,0,10,Stuehus,217,1912,
+Egevangen 39 8355 Solbjerg,39,1521000.0,21-02-1999,Alm.,11610,4,Villa,131,1999,
+Tisetvej 32 8355 Solbjerg,32,1287107.0,04-02-1999,Alm.,5296,8,Stuehus,243,2008,
+Mustrupvej 1 8355 Solbjerg,1,150000.0,17-12-1998,Alm.,750,5,Stuehus,200,1870,
+Fastrupvej 38 8355 Solbjerg,38,1391000.0,17-12-1998,Alm.,7814,5,Villa,178,1967,
+Lystenlund 53 8355 Solbjerg,53,1422618.0,10-08-1998,Alm.,9061,5,Villa,157,1986,
+Tisetvej 44 8355 Solbjerg,44,1080000.0,23-07-1998,Alm.,10000,4,Villa,108,1960,
+Birkevangen 10 8355 Solbjerg,10,345600.0,09-07-1998,Alm.,2522,5,Villa,137,1999,
+Lykkegårdsvej 21 8355 Solbjerg,21,2225000.0,30-06-1998,Fam.,11014,6,Stuehus,202,1877,
+Lystenlund 37 8355 Solbjerg,37,1257524.0,12-06-1998,Alm.,8554,7,Villa,147,1986,
+Rasborgvej 31 8355 Solbjerg,31,477883.0,02-06-1998,Alm.,2212,7,Stuehus,216,1998,
+Parkvangen 15 8355 Solbjerg,15,800000.0,07-05-1998,Alm.,6779,4,Villa,118,1966,
+Lykkegårdsvej 35 8355 Solbjerg,35,1350000.0,12-04-1998,Fam.,6716,7,Stuehus,201,1900,
+Bøgevangen 12 8355 Solbjerg,12,1095000.0,01-04-1998,Alm.,7934,5,Villa,138,1968,
+Fastrupvej 35 8355 Solbjerg,35,778000.0,30-03-1998,Alm.,8549,4,Villa,91,1965,
+Solbjerg Hovedgade 91 8355 Solbjerg,91,706500.0,05-03-1998,Alm.,10704,2,Rækkehus,66,1985,
+Møddebrovej 2 8355 Solbjerg,2,1550000.0,03-03-1998,Alm.,9627,5,Villa,161,1956,
+Klemivej 30 8355 Solbjerg,30,1129000.0,02-03-1998,Alm.,7145,7,Villa,158,1969,
+Solbjerg Hovedgade 37 8355 Solbjerg,37,880800.0,20-02-1998,Alm.,8551,3,Villa,103,1965,
+Lykkegårdsvej 19 8355 Solbjerg,19,600000.0,19-02-1998,Alm.,4379,7,Stuehus,137,1910,
+Kærgårdsvej 26 8355 Solbjerg,26,773500.0,15-02-1998,Fam.,5226,7,Villa,148,1964,
+Fastrupvej 24 8355 Solbjerg,24,1127000.0,12-02-1998,Alm.,12118,3,Villa,93,1917,
+Gammel Horsensvej 79 8355 Solbjerg,79,1898000.0,04-02-1998,Alm.,14828,13,Stuehus,128,1993,
+Kærgårdsparken 51 8355 Solbjerg,51,1090000.0,22-01-1998,Alm.,6193,4,Villa,176,1980,
+Søvangsvej 19A 8355 Solbjerg,0,623000.0,02-01-1998,Alm.,9584,3,Rækkehus,65,1988,
+Sødalen 4 8355 Solbjerg,4,788000.0,09-12-1997,Alm.,7880,4,Rækkehus,100,1984,
+Kærgårdsparken 76 8355 Solbjerg,76,1166500.0,08-12-1997,Alm.,10509,4,Villa,111,1985,
+Trolddalsvej 2A 8355 Solbjerg,0,150000.0,25-11-1997,Alm.,3947,1,Sommerhus,38,1953,
+Bøgeskovvej 3 8355 Solbjerg,3,1388134.0,07-11-1997,Alm.,6804,6,Villa,204,1883,
+Lystenlund 57 8355 Solbjerg,57,1407925.0,05-10-1997,Alm.,9202,7,Villa,153,1986,
+Lystenlund 45 8355 Solbjerg,45,1421000.0,26-09-1997,Alm.,10765,4,Villa,132,1987,
+Fastrupvej 27 8355 Solbjerg,27,537711.0,26-09-1997,Alm.,5377,3,Villa,100,1962,
+Kærgårdsparken 55 8355 Solbjerg,55,1097354.0,22-09-1997,Alm.,0,4,Villa,125,1979,
+Solbjerg Hedevej 52 8355 Solbjerg,52,962950.0,05-09-1997,Alm.,6927,5,Villa,139,1972,
+Solbjerg Have 6 8355 Solbjerg,6,963000.0,29-08-1997,Alm.,10244,4,Rækkehus,94,1995,
+Vestervangsparken 5 8355 Solbjerg,5,420000.0,11-08-1997,Alm.,2800,4,Villa,150,1972,
+Parkvangen 21 8355 Solbjerg,21,900000.0,06-08-1997,Alm.,3571,6,Villa,252,1962,
+Egevangen 45 8355 Solbjerg,45,151800.0,27-07-1997,Alm.,1195,4,Villa,127,1998,
+Egevangen 19 8355 Solbjerg,19,1386000.0,20-07-1997,Alm.,9760,5,Villa,142,1997,
+Tisetvej 46 8355 Solbjerg,46,976000.0,20-07-1997,Alm.,0,4,Stuehus,309,1888,
+Egevangen 25 8355 Solbjerg,25,164100.0,05-07-1997,Alm.,1312,4,Villa,125,1997,
+Sødalen 10 8355 Solbjerg,10,761564.0,25-06-1997,Alm.,8753,3,Rækkehus,87,1985,
+Solbjerg Hovedgade 12 8355 Solbjerg,12,1073000.0,19-06-1997,Alm.,6834,7,Villa,157,1946,
+Drammelstrupvej 234 8355 Solbjerg,234,1801300.0,18-05-1997,Alm.,7697,7,Stuehus,234,1909,
+Solbjerg Hedevej 24 8355 Solbjerg,24,1119000.0,16-04-1997,Alm.,8288,6,Villa,135,1970,
+Egevangen 37 8355 Solbjerg,37,160500.0,15-04-1997,Alm.,1206,5,Villa,133,1997,
+Østergårdsvej 238 8355 Solbjerg,238,1110255.0,11-04-1997,Alm.,7604,5,Villa,146,1979,
+Søvangsvej 9B 8355 Solbjerg,0,400000.0,03-04-1997,Fam.,0,5,Villa,235,1979,
+Lykkegårdsvej 23 8355 Solbjerg,23,1300000.0,25-03-1997,Fam.,6565,6,Stuehus,198,1997,
+Kærgårdsparken 26 8355 Solbjerg,26,1198000.0,19-03-1997,Alm.,9900,4,Villa,121,1987,
+Fastrupvej 50 8355 Solbjerg,50,799000.0,06-03-1997,Fam.,5362,4,Villa,149,1969,
+Egevangen 43 8355 Solbjerg,43,165000.0,12-02-1997,Alm.,1187,5,Villa,139,1998,
+Kærgårdsparken 42 8355 Solbjerg,42,1196000.0,04-02-1997,Alm.,0,6,Villa,171,1987,
+Onstedvej 19A 8355 Solbjerg,0,399477.0,28-01-1997,Andet,3598,4,Villa,111,1969,
+Egevangen 15 8355 Solbjerg,15,1350000.0,19-01-1997,Alm.,9926,5,Villa,136,1995,
+Fastrupvej 45 8355 Solbjerg,45,175000.0,13-01-1997,Alm.,1029,6,Villa,170,1912,
+Vestervangsparken 31 8355 Solbjerg,31,1600000.0,04-01-1997,Alm.,8839,6,Villa,181,1972,
+Højlundsparken 89 8355 Solbjerg,89,1125000.0,11-12-1996,Alm.,7352,5,Villa,153,1970,
+Hvilstedvej 21 8355 Solbjerg,21,1444600.0,04-12-1996,Alm.,5778,9,Villa,250,1872,
+Kærgårdsparken 24 8355 Solbjerg,24,1040000.0,02-12-1996,Alm.,8888,4,Villa,117,1985,
+Møddebrovej 22 8355 Solbjerg,22,729440.0,28-11-1996,Alm.,8895,3,Rækkehus,82,1980,
+Kærgårdsparken 23 8355 Solbjerg,23,1008220.0,24-11-1996,Alm.,7001,5,Villa,144,1979,
+Bøgevangen 43 8355 Solbjerg,43,425000.0,20-11-1996,Fam.,2777,5,Villa,153,1970,
+Tisetvej 21 8355 Solbjerg,21,505000.0,15-11-1996,Alm.,4316,7,Villa,117,1902,
+Nordvejen 14 8355 Solbjerg,14,421050.0,08-11-1996,Alm.,4210,5,Stuehus,100,1907,
+Egevangen 1 8355 Solbjerg,1,190900.0,06-11-1996,Alm.,0,6,Villa,202,1997,
+Solbjerg Hovedgade 93 8355 Solbjerg,93,650000.0,23-10-1996,Alm.,10483,2,Rækkehus,62,1985,
+Trolddalsvej 12 8355 Solbjerg,12,380246.0,06-09-1996,Alm.,4224,4,Stuehus,90,1887,
+Højlundsparken 47 8355 Solbjerg,47,1089000.0,05-08-1996,Alm.,6806,5,Villa,160,1969,
+Solbjerg Hedevej 8 8355 Solbjerg,8,810000.0,01-08-1996,Alm.,5436,6,Villa,149,1971,
+Tisetvej 36 8355 Solbjerg,36,118535.0,29-07-1996,Alm.,541,5,Stuehus,219,1877,
+Vestervangsparken 20 8355 Solbjerg,20,950000.0,25-07-1996,Alm.,5688,7,Villa,167,1971,
+Lystenlund 29 8355 Solbjerg,29,941100.0,22-07-1996,Alm.,9136,4,Villa,103,1986,
+Ravnholtvej 4 8355 Solbjerg,4,623000.0,16-07-1996,Alm.,6922,3,Villa,90,1963,
+Tisetvej 38 8355 Solbjerg,38,1250000.0,11-07-1996,Alm.,6345,5,Stuehus,197,1897,
+Kærgårdsparken 85 8355 Solbjerg,85,670000.0,30-06-1996,Fam.,5275,4,Villa,127,1979,
+Lystenlund 69 8355 Solbjerg,69,1134000.0,28-06-1996,Alm.,8723,4,Villa,130,1988,
+Trolddalsvej 2 8355 Solbjerg,2,361875.0,28-06-1996,Andet,2445,6,Villa,148,1955,
+Lystenlund 43 8355 Solbjerg,43,1316000.0,18-06-1996,Alm.,7833,5,Villa,168,1987,
+Bakketoppen 14 8355 Solbjerg,14,904000.0,10-06-1996,Alm.,6457,4,Villa,140,1967,
+Solbjerg Hovedgade 57C 8355 Solbjerg,0,1182260.0,04-06-1996,Alm.,4192,9,Villa,282,1900,
+Bøgevangen 6 8355 Solbjerg,6,1010000.0,30-05-1996,Alm.,6047,5,Villa,167,1969,
+Parkvangen 16 8355 Solbjerg,16,725000.0,08-05-1996,Alm.,6590,4,Villa,110,1962,
+Tisetvej 52 8355 Solbjerg,52,1104000.0,08-05-1996,Alm.,6987,5,Villa,158,1877,
+Lystenlund 77 8355 Solbjerg,77,975000.0,28-03-1996,Alm.,6170,6,Villa,158,1986,
+Egevangen 17 8355 Solbjerg,17,181700.0,27-03-1996,Alm.,1408,4,Villa,129,1996,
+Dalmosevej 20 8355 Solbjerg,20,1125000.0,27-02-1996,Alm.,0,5,Villa,212,1965,
+Lykkegårdsvej 32 8355 Solbjerg,32,546302.0,19-01-1996,Fam.,2295,8,Villa,238,1967,
+Solbjerg Hovedgade 28 8355 Solbjerg,28,796000.0,19-12-1995,Alm.,6170,5,Villa,129,1937,
+Balskildevej 15 8355 Solbjerg,15,1047320.0,06-12-1995,Alm.,0,7,Stuehus,177,1890,
+Fastrupvej 29 8355 Solbjerg,29,742752.0,27-09-1995,Alm.,8162,4,Villa,91,1964,
+Rasborgvej 1 8355 Solbjerg,1,405000.0,22-09-1995,Alm.,3091,4,Villa,131,1909,
+Kærgårdsparken 36 8355 Solbjerg,36,792000.0,17-09-1995,Alm.,0,6,Villa,159,1985,
+Kærgårdsvej 34 8355 Solbjerg,34,965000.0,13-09-1995,Alm.,7095,5,Villa,136,1966,
+Møllegårdsparken 27 8355 Solbjerg,27,977000.0,08-09-1995,Alm.,6513,5,Villa,150,1980,
+Solbjerg Hovedgade 82B 8355 Solbjerg,0,100000.0,05-09-1995,Alm.,0,4,Villa,153,2000,
+Solbjerg Hovedgade 51 8355 Solbjerg,51,450000.0,30-08-1995,Alm.,0,6,Villa,199,1937,
+Lethenborgvej 14 8355 Solbjerg,14,115000.0,20-08-1995,Alm.,1642,2,Villa,70,1920,
+Drammelstrupvej 310 8355 Solbjerg,310,600000.0,21-07-1995,Alm.,4285,7,Stuehus,140,1922,
+Kærgårdsparken 58 8355 Solbjerg,58,840000.0,20-07-1995,Alm.,0,7,Villa,166,1986,
+Solbjerg Have 12 8355 Solbjerg,12,699000.0,19-06-1995,Alm.,7436,4,Rækkehus,94,1995,
+Kærgårdsparken 80 8355 Solbjerg,80,790000.0,08-06-1995,Alm.,0,5,Villa,140,1986,
+Solbjerg Hovedgade 62A 8355 Solbjerg,0,633000.0,30-05-1995,Alm.,6459,4,Rækkehus,98,1988,
+Østergårdsvej 235C 8355 Solbjerg,0,125000.0,25-05-1995,Alm.,625,6,Villa,200,1996,
+Nordvejen 6 8355 Solbjerg,6,766000.0,23-05-1995,Fam.,6778,5,Stuehus,113,1913,
+Hvilstedvej 2A 8355 Solbjerg,0,996000.0,18-05-1995,Alm.,3816,10,Villa,261,1986,
+Søvangsvej 1A 8355 Solbjerg,0,395000.0,08-05-1995,Alm.,1618,7,Villa,244,1997,
+Solbjerg Hedevej 16 8355 Solbjerg,16,913000.0,28-04-1995,Alm.,6713,5,Villa,136,1970,
+Kærgårdsparken 129 8355 Solbjerg,129,959000.0,20-04-1995,Alm.,0,5,Villa,187,1986,
+Højlundsparken 49 8355 Solbjerg,49,1037240.0,31-03-1995,Alm.,5186,4,Villa,200,1969,
+Kærgårdsparken 60 8355 Solbjerg,60,1222000.0,29-03-1995,Alm.,7935,6,Villa,154,1987,
+Østergårdsvej 261D 8355 Solbjerg,0,377111.0,30-01-1995,Alm.,4598,3,Stuehus,82,1900,
+Solbjerg Søvej 49 8355 Solbjerg,49,1100000.0,26-01-1995,Alm.,7913,5,Stuehus,139,1874,
+Sødalen 14 8355 Solbjerg,14,565000.0,29-12-1994,Alm.,6494,3,Rækkehus,87,1985,
+Dalmosevej 13 8355 Solbjerg,13,856000.0,25-10-1994,Alm.,4458,6,Villa,192,1966,
+Kærgårdsvej 38 8355 Solbjerg,38,805000.0,11-10-1994,Alm.,0,6,Villa,163,1980,
+Fastrupvej 18 8355 Solbjerg,18,595000.0,13-09-1994,Alm.,7437,4,Villa,80,1964,
+Tisetvej 15 8355 Solbjerg,15,450000.0,12-09-1994,Alm.,4500,3,Villa,100,1927,
+Trolddalsvej 15 8355 Solbjerg,15,800000.0,26-08-1994,Alm.,0,5,Stuehus,144,1932,
+Kærgårdsparken 73 8355 Solbjerg,73,670000.0,15-08-1994,Fam.,5075,5,Villa,132,1979,
+Kærgårdsparken 56 8355 Solbjerg,56,1106000.0,12-07-1994,Alm.,0,6,Villa,179,1985,
+Balskildevej 10 8355 Solbjerg,10,691721.0,30-06-1994,Alm.,4611,4,Stuehus,150,1850,
+Kannevej 2 8355 Solbjerg,2,935000.0,06-05-1994,Alm.,3568,7,Stuehus,262,1911,
+Lystenlund 39 8355 Solbjerg,39,1045400.0,27-04-1994,Alm.,7467,6,Villa,140,1987,
+Solbjerg Hovedgade 47B 8355 Solbjerg,0,885000.0,07-04-1994,Alm.,6755,5,Villa,131,1994,
+Højlundsparken 48 8355 Solbjerg,48,603000.0,29-03-1994,Alm.,3722,4,Villa,162,1968,
+Solbjerg Hedevej 202 8355 Solbjerg,202,490070.0,02-03-1994,Alm.,0,7,Stuehus,201,1902,
+Møllegårdsparken 17 8355 Solbjerg,17,1078679.0,23-02-1994,Alm.,6658,6,Villa,162,1970,
+Parkvangen 19 8355 Solbjerg,19,675000.0,05-01-1994,Alm.,6136,4,Villa,110,1964,
+Solbjerg Hedevej 80 8355 Solbjerg,80,861000.0,27-11-1993,Alm.,5554,5,Villa,155,1970,
+Solbjerg Hovedgade 57A 8355 Solbjerg,0,550000.0,15-11-1993,Alm.,3716,5,Villa,148,1967,
+Lystenlund 75 8355 Solbjerg,75,981410.0,10-11-1993,Alm.,6863,5,Villa,143,1992,
+Kærgårdsparken 125 8355 Solbjerg,125,1040000.0,29-10-1993,Alm.,7536,4,Villa,138,1984,
+Bøgevangen 85 8355 Solbjerg,85,1060000.0,28-10-1993,Alm.,7571,5,Villa,140,1987,
+Lystenlund 27 8355 Solbjerg,27,193900.0,13-10-1993,Alm.,0,6,Villa,170,1994,
+Nordvejen 30 8355 Solbjerg,30,395000.0,24-09-1993,Alm.,0,4,Villa,104,1931,
+Hvilstedvej 14 8355 Solbjerg,14,833774.0,07-09-1993,Alm.,7511,4,Stuehus,111,1887,
+Solbjerg Søvej 41 8355 Solbjerg,41,558000.0,02-09-1993,Alm.,3321,4,Villa,168,1965,
+Lervejen 29 8355 Solbjerg,29,1050000.0,30-06-1993,Alm.,0,7,Stuehus,214,1852,
+Solbjerg Hovedgade 27 8355 Solbjerg,27,339218.0,27-06-1993,Fam.,2629,4,Villa,129,1949,
+Bøgevangen 47 8355 Solbjerg,47,935000.0,25-06-1993,Alm.,6631,5,Villa,141,1969,
+Balskildevej 9 8355 Solbjerg,9,22000.0,14-06-1993,Auktion,366,2,Villa,60,1920,
+Fastrupvej 54 8355 Solbjerg,54,958720.0,11-06-1993,Alm.,3913,5,Villa,245,1974,
+Tisetvej 72 8355 Solbjerg,72,511000.0,07-05-1993,Alm.,3173,6,Stuehus,161,1867,
+Vestervangsparken 11 8355 Solbjerg,11,487040.0,13-04-1993,Alm.,0,5,Villa,157,1972,
+Rantzausgavevej 6 8355 Solbjerg,6,830000.0,12-04-1993,Alm.,6384,5,Stuehus,130,1913,
+Kærgårdsvej 24 8355 Solbjerg,24,470000.0,24-03-1993,Alm.,4351,4,Villa,108,1966,
+Søvangsvej 27 8355 Solbjerg,27,540000.0,16-03-1993,Alm.,7500,3,Villa,72,1930,
+Kærgårdsvej 44 8355 Solbjerg,44,879006.0,08-03-1993,Fam.,0,4,Villa,161,1981,
+Bøgevangen 29 8355 Solbjerg,29,465000.0,24-02-1993,Alm.,4008,4,Villa,116,1970,
+Solbjerg Hovedgade 55 8355 Solbjerg,55,510000.0,21-02-1993,Alm.,4636,4,Villa,110,1940,
+Fastrupvej 63 8355 Solbjerg,63,982585.0,10-02-1993,Alm.,5458,5,Villa,180,1976,
+Solbjerg Hovedgade 71 8355 Solbjerg,71,450000.0,11-01-1993,Alm.,2884,8,Villa,156,1934,
+Møddebrovej 13 8355 Solbjerg,13,88732.0,08-01-1993,Andet,887,6,Villa,100,1962,
+Kærgårdsparken 53 8355 Solbjerg,53,494694.0,18-12-1992,Alm.,0,6,Villa,159,1979,
+Solbjerg Hovedgade 164 8355 Solbjerg,164,119430.0,19-11-1992,Alm.,0,7,Stuehus,175,1880,
+Søvangsvej 15 8355 Solbjerg,15,295000.0,01-10-1992,Alm.,4916,3,Villa,60,1927,
+Fastrupvej 16 8355 Solbjerg,16,905000.0,11-09-1992,Alm.,3605,7,Villa,251,1968,
+Parkvangen 7 8355 Solbjerg,7,418000.0,29-07-1992,Alm.,0,7,Villa,157,1963,
+Bøgeskovvej 12 8355 Solbjerg,12,685000.0,20-07-1992,Alm.,3058,8,Villa,224,1936,
+Drammelstrupvej 228 8355 Solbjerg,228,355000.0,03-07-1992,Fam.,0,10,Stuehus,292,1903,
+Fastrupvej 39 8355 Solbjerg,39,530000.0,01-07-1992,Alm.,4818,4,Villa,110,1964,
+Mustrupvej 2 8355 Solbjerg,2,710000.0,28-06-1992,Alm.,0,9,Stuehus,239,1800,
+Vestervangsparken 13 8355 Solbjerg,13,672000.0,12-06-1992,Fam.,5169,4,Villa,130,1972,
+Kærgårdsvej 50 8355 Solbjerg,50,250000.0,03-04-1992,Alm.,1811,4,Villa,138,1992,
+Møllegårdsparken 35 8355 Solbjerg,35,845000.0,15-03-1992,Alm.,6167,5,Villa,137,1972,
+Kærgårdsvej 82 8355 Solbjerg,82,750000.0,31-01-1992,Fam.,4629,7,Villa,162,1967,

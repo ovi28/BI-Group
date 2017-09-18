@@ -1,0 +1,810 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Testrupvej 2 8732 Hovedgård,2,61128.0,27-04-2017,Alm.,108,8,Stuehus,562,2012,
+Katrinelundsvej 19 8732 Hovedgård,19,1650000.0,21-04-2017,Alm.,12500,4,Rækkehus,132,2009,
+Bakkevej 12 8732 Hovedgård,12,1395000.0,25-01-2017,Alm.,8017,5,Villa,174,1912,0 %
+Tornbjerg 102 8732 Hovedgård,102,1400000.0,20-01-2017,Alm.,9523,6,Villa,147,1978,-6 %
+Kirkevej 55 8732 Hovedgård,55,1000000.0,07-01-2017,Alm.,8333,3,Stuehus,120,1940,
+Sogneskellet 14 8732 Hovedgård,14,1109500.0,06-01-2017,Andet,5778,5,Villa,192,1997,
+Fruenshave 48 8732 Hovedgård,48,616500.0,05-01-2017,Fam.,3691,6,Villa,167,1974,
+Ørskovbæk Parken 12 8732 Hovedgård,12,2350000.0,16-12-2016,Alm.,15562,5,Villa,151,2016,-2 %
+Vinthervej 13 8732 Hovedgård,13,2400000.0,13-12-2016,Alm.,15483,5,Villa,155,2007,-8 %
+Nylandsvej 14A 8732 Hovedgård,0,925000.0,11-12-2016,Alm.,8894,3,Rækkehus,104,1987,-7 %
+Grumstrupvej 61 8732 Hovedgård,61,1525000.0,05-12-2016,Alm.,10517,5,Villa,145,1930,-4 %
+Frydsvej 7 8732 Hovedgård,7,755000.0,24-11-2016,Alm.,9679,3,Villa,78,1952,0 %
+Sogneskellet 55 8732 Hovedgård,55,1375000.0,07-11-2016,Alm.,9353,5,Villa,147,1986,-1 %
+Vestergade 45 8732 Hovedgård,45,1000000.0,31-10-2016,Alm.,6493,4,Villa,154,1920,-17 %
+Gl Kattrupvej 27 8732 Hovedgård,27,1170000.0,30-10-2016,Alm.,8125,6,Villa,144,1949,-10 %
+Tornbjerg 1B 8732 Hovedgård,0,800000.0,06-10-2016,Fam.,9756,3,Rækkehus,82,1981,
+N P Danmarksvej 67 8732 Hovedgård,67,1500000.0,25-09-2016,Alm.,13888,4,Villa,108,2009,-2 %
+N P Danmarksvej 73 8732 Hovedgård,73,1975000.0,20-09-2016,Alm.,15192,4,Rækkehus,130,2009,-6 %
+Ørskovbæk Parken 10 8732 Hovedgård,10,2450000.0,16-09-2016,Alm.,15217,5,Villa,161,2016,-2 %
+Lundgårdevej 6 8732 Hovedgård,6,1300000.0,15-09-2016,Alm.,7784,6,Villa,167,1953,-7 %
+Horsensvej 42 8732 Hovedgård,42,1045000.0,09-09-2016,Alm.,7307,5,Villa,143,1969,-13 %
+Østergade 10 8732 Hovedgård,10,735000.0,15-08-2016,Andet,6681,3,Rækkehus,110,1909,
+Præstevænget 11 8732 Hovedgård,11,875000.0,02-08-2016,Alm.,4834,7,Villa,181,1973,-17 %
+N P Danmarksvej 32 8732 Hovedgård,32,2275000.0,11-07-2016,Alm.,14398,5,Villa,158,2008,-1 %
+Overby Skovvej 4 8732 Hovedgård,4,2262500.0,01-07-2016,Alm.,11484,5,Villa,197,1827,
+Engmarksvej 35 8732 Hovedgård,35,975000.0,09-06-2016,Alm.,6964,5,Stuehus,140,1908,-8 %
+N P Danmarksvej 63 8732 Hovedgård,63,1975000.0,06-06-2016,Alm.,15192,4,Villa,130,2009,-6 %
+Elbjergvej 41 8732 Hovedgård,41,1340000.0,04-06-2016,Alm.,8023,6,Villa,167,1877,-3 %
+Grumstrupvej 29 8732 Hovedgård,29,275000.0,02-06-2016,Alm.,3873,3,Villa,71,1877,-7 %
+N P Danmarksvej 35 8732 Hovedgård,35,2094000.0,23-05-2016,Alm.,14053,6,Villa,149,2007,0 %
+Gl Tebstrupvej 2A 8732 Hovedgård,0,1040000.0,17-05-2016,Fam.,8062,4,Villa,129,1976,
+N P Danmarksvej 75 8732 Hovedgård,75,1495000.0,28-04-2016,Alm.,13842,3,Rækkehus,108,2009,-3 %
+Bakkevej 18 8732 Hovedgård,18,1050000.0,26-04-2016,Alm.,10937,4,Villa,96,1963,-4 %
+Hadrupvej 80 8732 Hovedgård,80,20425000.0,24-04-2016,Andet,77661,10,Stuehus,263,1897,
+Horsensvej 30 8732 Hovedgård,30,2450000.0,21-04-2016,Alm.,17253,5,Villa,142,1918,-7 %
+Vedsletvej 2 8732 Hovedgård,2,380000.0,06-04-2016,Alm.,5277,3,Villa,72,1950,-23 %
+Vinthervej 1 8732 Hovedgård,1,2150000.0,21-03-2016,Alm.,15140,5,Villa,142,2008,-4 %
+Gl Kattrupvej 64 8732 Hovedgård,64,1070000.0,14-03-2016,Alm.,7985,4,Villa,134,1962,
+Grumstrupvej 27 8732 Hovedgård,27,1125000.0,25-02-2016,Alm.,7653,5,Villa,147,1880,-6 %
+Tvilhøj 8 8732 Hovedgård,8,1990000.0,22-02-2016,Alm.,13266,5,Villa,150,2011,0 %
+Grumstrupvej 39 8732 Hovedgård,39,1275000.0,20-02-2016,Alm.,6071,6,Villa,210,1780,-6 %
+Horsensvej 23 8732 Hovedgård,23,1050000.0,16-02-2016,Alm.,7291,4,Villa,144,1900,-8 %
+Kærsholmvej 2B 8732 Hovedgård,0,1548000.0,04-02-2016,Alm.,12093,5,Villa,128,2005,0 %
+Gl Århusvej 50 8732 Hovedgård,50,860456.0,20-01-2016,Andet,3911,6,Villa,220,1900,
+Tornbjerg 92 8732 Hovedgård,92,1950000.0,11-01-2016,Alm.,8441,5,Villa,231,1978,-11 %
+"Gl Kattrupvej 24, 1 8732 Hovedgård",1,525000.0,08-01-2016,Alm.,6562,4,Lejlighed,80,1888,
+N P Danmarksvej 71 8732 Hovedgård,71,1499000.0,30-12-2015,Alm.,13879,4,Villa,108,2009,0 %
+Bakkevej 6 8732 Hovedgård,6,825000.0,09-12-2015,Alm.,8168,3,Villa,101,1963,0 %
+Tornbjerg 87 8732 Hovedgård,87,1150000.0,04-12-2015,Fam.,9055,5,Villa,127,1974,-11 %
+Østergade 15 8732 Hovedgård,15,1175000.0,01-12-2015,Alm.,15064,5,Villa,78,1950,-2 %
+Heilesenvænget 14A 8732 Hovedgård,0,1370000.0,26-11-2015,Fam.,13838,4,Villa,99,2001,
+Hadrupvej 77 8732 Hovedgård,77,575000.0,25-11-2015,Alm.,4423,8,Villa,130,1900,-16 %
+Lundgårdevej 13 8732 Hovedgård,13,6059000.0,23-11-2015,Alm.,38106,5,Stuehus,159,1895,
+Tornbjerg 42 8732 Hovedgård,42,1950000.0,20-10-2015,Alm.,12037,4,Villa,162,1976,0 %
+Vestergade 38 8732 Hovedgård,38,760000.0,20-09-2015,Alm.,4318,5,Villa,176,1914,-4 %
+Tornbjerg 85 8732 Hovedgård,85,1640000.0,16-09-2015,Alm.,11714,4,Villa,140,1976,-3 %
+Vestergade 52 8732 Hovedgård,52,1475000.0,15-09-2015,Alm.,8194,7,Villa,180,1900,-1 %
+Grumstrupvej 13B 8732 Hovedgård,0,790000.0,08-09-2015,Alm.,7745,4,Villa,102,1727,-12 %
+Hadrupvej 74 8732 Hovedgård,74,1100000.0,04-09-2015,Fam.,6214,4,Villa,177,1920,
+Nørregade 3 8732 Hovedgård,3,925000.0,03-09-2015,Alm.,8409,4,Villa,110,1951,-3 %
+Gl Kattrupvej 22 8732 Hovedgård,22,3835000.0,25-08-2015,Alm.,13551,7,Villa,283,1900,-18 %
+Elbækvej 5 8732 Hovedgård,5,720000.0,21-08-2015,Fam.,6101,5,Villa,118,1902,
+Ørskovbæk Parken 15 8732 Hovedgård,15,725000.0,18-08-2015,Alm.,4190,6,Villa,173,2016,
+Frydsvej 10 8732 Hovedgård,10,945000.0,17-08-2015,Alm.,6300,6,Villa,150,1927,-5 %
+Grønnegade 2 8732 Hovedgård,2,718500.0,24-07-2015,Alm.,4726,7,Villa,152,1915,
+Vestergade 40 8732 Hovedgård,40,950000.0,22-07-2015,Alm.,7251,4,Villa,131,1924,-5 %
+Sogneskellet 39 8732 Hovedgård,39,1747500.0,10-07-2015,Alm.,14809,3,Villa,118,1996,-3 %
+N P Danmarksvej 115 8732 Hovedgård,115,2700000.0,10-07-2015,Alm.,15428,5,Villa,175,2012,-3 %
+Ørskovbæk Parken 6 8732 Hovedgård,6,595000.0,07-07-2015,Alm.,3500,5,Villa,170,2016,
+Gl Kattrupvej 48 8732 Hovedgård,48,430000.0,26-06-2015,Andet,3093,5,Villa,139,1912,
+Søndervænget 57A 8732 Hovedgård,0,650000.0,17-06-2015,Alm.,5000,5,Villa,130,1974,-27 %
+Katrinelundsvej 3 8732 Hovedgård,3,485000.0,17-06-2015,Alm.,3344,5,Villa,145,2016,-75 %
+Sogneskellet 53A 8732 Hovedgård,0,945000.0,15-06-2015,Alm.,10988,3,Rækkehus,86,1986,0 %
+Vestergade 51 8732 Hovedgård,51,2000000.0,11-06-2015,Alm.,14285,5,Villa,140,1920,
+Lundgårdevej 18 8732 Hovedgård,18,1350000.0,10-06-2015,Alm.,11440,4,Villa,118,1897,0 %
+Stationsvej 2 8732 Hovedgård,2,1300000.0,04-06-2015,Alm.,6467,9,Engroshandel,201,1900,
+N P Danmarksvej 9 8732 Hovedgård,9,2700000.0,02-06-2015,Alm.,14835,5,Villa,182,2007,-4 %
+Katrinelundsvej 5 8732 Hovedgård,5,2338000.0,29-05-2015,Alm.,14343,6,Villa,163,2008,-2 %
+N P Danmarksvej 61 8732 Hovedgård,61,1670000.0,29-05-2015,Alm.,12846,4,Villa,130,2009,-1 %
+Heilesenvænget 16B 8732 Hovedgård,0,1175000.0,27-05-2015,Alm.,15666,2,Villa,75,2001,
+Østergade 12 8732 Hovedgård,12,750000.0,16-04-2015,Alm.,8064,4,Rækkehus,93,1908,-6 %
+Horsensvej 24A 8732 Hovedgård,0,835000.0,15-04-2015,Alm.,3711,5,Villa,225,2016,
+Møllevej 1A 8732 Hovedgård,0,1800000.0,30-03-2015,Alm.,11920,4,Villa,151,2008,
+Nylandsvej 7 8732 Hovedgård,7,953238.0,30-03-2015,Alm.,11484,4,Villa,83,1963,
+Tornbjerg 4 8732 Hovedgård,4,749265.0,27-03-2015,Alm.,5853,4,Villa,128,1976,-49 %
+Fruenshave 4 8732 Hovedgård,4,1700000.0,19-03-2015,Alm.,8673,7,Villa,196,1976,-3 %
+Gl Tebstrupvej 9 8732 Hovedgård,9,12550000.0,11-03-2015,Alm.,48269,10,Stuehus,260,1870,
+Grumstrupvej 23 8732 Hovedgård,23,720000.0,11-03-2015,Alm.,5853,3,Villa,123,1892,-10 %
+Søndervænget 5 8732 Hovedgård,5,1550000.0,24-02-2015,Alm.,15500,4,Villa,100,1964,
+Gl Kattrupvej 34 8732 Hovedgård,34,675000.0,19-02-2015,Alm.,7336,4,Villa,92,1968,-23 %
+Troldkirkevej 7 8732 Hovedgård,7,6000000.0,18-02-2015,Alm.,16304,10,Stuehus,368,1935,
+Overbyvej 7 8732 Hovedgård,7,7264500.0,17-02-2015,Fam.,31584,10,Stuehus,230,1896,
+N P Danmarksvej 145 8732 Hovedgård,145,2150000.0,16-02-2015,Alm.,15034,4,Villa,143,2010,-2 %
+Vestergade 48 8732 Hovedgård,48,700000.0,13-02-2015,Alm.,6796,3,Villa,103,1963,-17 %
+Hovedgårdvej 2 8732 Hovedgård,2,1065000.0,09-01-2015,Alm.,10240,3,Villa,104,1947,-7 %
+Grumstrupvej 44 8732 Hovedgård,44,737500.0,29-12-2014,Andet,5267,5,Villa,140,1987,
+Elbjergvej 33 8732 Hovedgård,33,448357.0,23-12-2014,Fam.,4352,4,Villa,103,1900,
+Søndervænget 57 8732 Hovedgård,57,672160.0,13-12-2014,Alm.,5794,5,Villa,116,1967,
+Præstevænget 21 8732 Hovedgård,21,1950000.0,10-12-2014,Alm.,10597,6,Villa,184,1976,-2 %
+Kærsholmvej 2C 8732 Hovedgård,0,1940000.0,23-10-2014,Alm.,12516,5,Villa,155,2005,-3 %
+Grumstrupvej 88 8732 Hovedgård,88,685000.0,21-10-2014,Alm.,8782,3,Villa,78,1949,-7 %
+Vinthervej 7 8732 Hovedgård,7,2930000.0,12-09-2014,Alm.,17440,4,Villa,168,2009,-2 %
+N P Danmarksvej 65 8732 Hovedgård,65,1735000.0,03-09-2014,Alm.,13346,3,Villa,130,2009,-3 %
+Præstevænget 23 8732 Hovedgård,23,641371.0,28-08-2014,Alm.,5010,4,Villa,128,1976,
+Snareskovvej 8 8732 Hovedgård,8,695000.0,28-08-2014,Alm.,6950,4,Stuehus,100,1939,
+Gl Århusvej 57 8732 Hovedgård,57,571000.0,19-08-2014,Alm.,5653,4,Villa,101,1946,
+Præstevænget 30 8732 Hovedgård,30,880000.0,04-08-2014,Alm.,7040,5,Villa,125,1966,-2 %
+Tornbjerg 3A 8732 Hovedgård,0,1500000.0,15-07-2014,Alm.,10489,5,Villa,143,1990,-12 %
+Vestergade 26 8732 Hovedgård,26,730000.0,17-06-2014,Alm.,6952,4,Villa,105,1908,-6 %
+Søndervænget 75 8732 Hovedgård,75,795000.0,13-06-2014,Alm.,7361,4,Villa,108,1967,0 %
+Gl Kattrupvej 29 8732 Hovedgård,29,799000.0,22-05-2014,Alm.,5918,4,Villa,135,1947,
+N P Danmarksvej 45 8732 Hovedgård,45,1900000.0,21-05-2014,Alm.,13286,5,Villa,143,2007,-5 %
+Vinthervej 20 8732 Hovedgård,20,2200000.0,14-05-2014,Alm.,12790,6,Villa,172,2008,
+Elbækvej 9 8732 Hovedgård,9,530000.0,02-05-2014,Auktion,3045,5,Villa,174,1926,
+Søndervænget 46 8732 Hovedgård,46,1150000.0,18-04-2014,Alm.,9913,5,Villa,116,1966,-4 %
+Søndervænget 41 8732 Hovedgård,41,1095000.0,09-04-2014,Alm.,9439,5,Villa,116,1966,0 %
+Krøruplundvej 19 8732 Hovedgård,19,495000.0,03-04-2014,Alm.,3074,5,Villa,161,1900,0 %
+Hadrupvej 66 8732 Hovedgård,66,1200000.0,25-03-2014,Alm.,7692,8,Stuehus,156,1910,
+Søndervænget 29 8732 Hovedgård,29,995000.0,01-03-2014,Alm.,11306,4,Villa,88,1965,0 %
+Grumstrupvej 47 8732 Hovedgård,47,640000.0,09-02-2014,Alm.,6213,4,Villa,103,1877,-5 %
+N P Danmarksvej 17 8732 Hovedgård,17,2415000.0,22-01-2014,Alm.,15580,5,Villa,155,2007,-3 %
+Krøruplundvej 8 8732 Hovedgård,8,1375000.0,09-01-2014,Alm.,6840,7,Villa,201,1922,
+N P Danmarksvej 23 8732 Hovedgård,23,1017685.0,26-11-2013,Fam.,5986,5,Villa,170,2008,
+Fruenshave 8 8732 Hovedgård,8,1395000.0,21-11-2013,Alm.,4744,9,Villa,294,1972,0 %
+Vestergade 19 8732 Hovedgård,19,600000.0,13-11-2013,Alm.,4347,5,Villa,138,1907,
+Lundgårdevej 7B 8732 Hovedgård,0,750000.0,12-11-2013,Fam.,4901,3,Villa,153,1988,
+Hedemølle Kirkevej 1 8732 Hovedgård,1,2270213.0,24-10-2013,Alm.,15134,4,Stuehus,150,1969,-13 %
+Tornbjerg 79 8732 Hovedgård,79,1790000.0,08-10-2013,Alm.,8950,5,Villa,200,1976,-6 %
+Tornbjerg 83 8732 Hovedgård,83,1300000.0,26-08-2013,Alm.,7142,6,Villa,182,1973,-5 %
+Vestergade 30 8732 Hovedgård,30,995000.0,15-08-2013,Alm.,7056,5,Villa,141,1916,-9 %
+Gl Kattrupvej 59 8732 Hovedgård,59,1225000.0,04-08-2013,Alm.,7802,5,Villa,157,1900,0 %
+Bakkevej 11 8732 Hovedgård,11,1912000.0,13-07-2013,Alm.,8770,5,Villa,218,1960,-3 %
+Engvangen 8 8732 Hovedgård,8,1395000.0,27-06-2013,Alm.,13413,3,Villa,104,1984,0 %
+Tornbjerg 30 8732 Hovedgård,30,950000.0,25-06-2013,Andet,5135,7,Villa,185,1977,-52 %
+Fruenshave 11 8732 Hovedgård,11,950000.0,25-06-2013,Alm.,8796,4,Villa,108,1973,-4 %
+Espevej 11 8732 Hovedgård,11,2600000.0,24-06-2013,Alm.,11353,8,Villa,229,1850,-4 %
+Kattrupmade 7 8732 Hovedgård,7,1400000.0,22-06-2013,Alm.,7035,9,Villa,199,1897,-6 %
+Kærsholmvej 19 8732 Hovedgård,19,875000.0,22-06-2013,Alm.,5057,8,Villa,173,1970,-7 %
+Oudrupgårdsvej 20 8732 Hovedgård,20,775000.0,17-06-2013,Alm.,5065,5,Villa,153,1909,-3 %
+Fruenshave 6 8732 Hovedgård,6,800000.0,15-06-2013,Alm.,5882,4,Villa,136,1970,-20 %
+Søndervænget 38 8732 Hovedgård,38,1275000.0,17-05-2013,Alm.,12623,4,Villa,101,1965,-2 %
+Præstevænget 3 8732 Hovedgård,3,1440000.0,10-05-2013,Alm.,12307,4,Villa,117,1969,-4 %
+Elbjergvej 53A 8732 Hovedgård,0,2850000.0,10-05-2013,Alm.,11974,5,Villa,238,2010,-5 %
+Vestergade 13A 8732 Hovedgård,0,1200000.0,08-04-2013,Alm.,10810,2,Lejlighed,111,1920,
+Katrinelundsvej 19A 8732 Hovedgård,0,1650000.0,05-04-2013,Andet,12500,4,Rækkehus,132,2010,
+Tornbjerg 52 8732 Hovedgård,52,1495000.0,26-03-2013,Alm.,8591,7,Villa,174,1974,-5 %
+Langdammen 6 8732 Hovedgård,6,1585000.0,22-03-2013,Alm.,9378,5,Villa,169,2004,-1 %
+Østergade 18 8732 Hovedgård,18,639000.0,14-03-2013,Alm.,1901,8,Villa,336,1920,
+Tornbjerg 6 8732 Hovedgård,6,1230000.0,28-02-2013,Alm.,7321,6,Villa,168,1978,-2 %
+Gl Århusvej 56 8732 Hovedgård,56,2415000.0,22-02-2013,Auktion,5805,10,Stuehus,416,1918,
+Katrinelundsvej 7 8732 Hovedgård,7,412500.0,27-12-2012,Alm.,3248,4,Villa,127,2013,-7 %
+Katrinelundsvej 1 8732 Hovedgård,1,387500.0,31-10-2012,Alm.,2437,5,Villa,159,2014,
+N P Danmarksvej 137 8732 Hovedgård,137,580000.0,30-10-2012,Alm.,2543,7,Villa,228,2014,-14 %
+Katrinelundsvej 17 8732 Hovedgård,17,440000.0,15-10-2012,Alm.,2913,5,Villa,151,2013,
+Lundgårdevej 26 8732 Hovedgård,26,3000000.0,10-10-2012,Alm.,12875,6,Villa,233,1967,-2 %
+Gammeltoftevej 2 8732 Hovedgård,2,1650000.0,10-09-2012,Alm.,7051,6,Stuehus,234,1870,
+N P Danmarksvej 69 8732 Hovedgård,69,1850000.0,10-09-2012,Alm.,14230,4,Villa,130,2009,
+Fruenshave 38 8732 Hovedgård,38,1250000.0,19-08-2012,Alm.,8992,4,Villa,139,1973,-10 %
+Krøruplundvej 10 8732 Hovedgård,10,2900000.0,31-07-2012,Alm.,9446,6,Villa,307,1997,
+Assendrupvej 2 8732 Hovedgård,2,1800000.0,10-07-2012,Alm.,10000,5,Villa,180,1914,-18 %
+Sogneskellet 61 8732 Hovedgård,61,1915000.0,21-06-2012,Alm.,12939,5,Villa,148,1998,-4 %
+Søndervænget 59A 8732 Hovedgård,0,1260000.0,21-06-2012,Alm.,11150,4,Villa,113,1967,-10 %
+Kærsholmvej 2A 8732 Hovedgård,0,1220000.0,23-05-2012,Alm.,11509,4,Villa,106,1976,-2 %
+Bakkevej 16 8732 Hovedgård,16,975000.0,16-05-2012,Alm.,6132,6,Villa,159,1960,-11 %
+Søndervænget 67 8732 Hovedgård,67,1500000.0,25-04-2012,Alm.,12096,5,Villa,124,1966,-6 %
+N P Danmarksvej 37 8732 Hovedgård,37,535000.0,25-04-2012,Alm.,3039,5,Villa,176,2014,-7 %
+Assendrupvej 2A 8732 Hovedgård,0,1700000.0,24-04-2012,Alm.,12230,5,Villa,139,2009,0 %
+Tornbjerg 40 8732 Hovedgård,40,1450000.0,23-03-2012,Alm.,8238,6,Villa,176,1974,
+Gl Kattrupvej 83 8732 Hovedgård,83,2200000.0,21-03-2012,Alm.,15827,3,Villa,139,1907,-8 %
+Elbækvej 7B 8732 Hovedgård,0,1000000.0,20-03-2012,Alm.,10000,4,Villa,100,1964,
+N P Danmarksvej 41 8732 Hovedgård,41,2320000.0,15-03-2012,Alm.,15570,5,Villa,149,2007,-1 %
+Grumstrupvej 63 8732 Hovedgård,63,345000.0,02-03-2012,Fam.,3670,3,Villa,94,1926,
+N P Danmarksvej 99 8732 Hovedgård,99,650000.0,09-01-2012,Alm.,3494,4,Villa,186,2012,-6 %
+Krogstrupvej 168 8732 Hovedgård,168,1400000.0,05-01-2012,Fam.,6862,5,Villa,204,1952,
+Søndervænget 7 8732 Hovedgård,7,880000.0,04-01-2012,Alm.,7787,4,Villa,113,1965,-12 %
+N P Danmarksvej 139 8732 Hovedgård,139,590000.0,26-11-2011,Alm.,3619,5,Villa,163,2012,
+Brørupvej 76 8732 Hovedgård,76,2125000.0,14-11-2011,Alm.,15625,7,Stuehus,136,1827,-49 %
+Birkevænget 3 8732 Hovedgård,3,430000.0,01-11-2011,Alm.,2654,5,Villa,162,2012,
+Birkevænget 10 8732 Hovedgård,10,4250000.0,25-10-2011,Alm.,16798,6,Villa,253,2008,-8 %
+Katrinelundsvej 15 8732 Hovedgård,15,452000.0,23-09-2011,Alm.,2973,4,Villa,152,2012,
+Grumstrupvej 58 8732 Hovedgård,58,1175000.0,20-09-2011,Alm.,10879,4,Villa,108,1938,-9 %
+Horsensvej 20 8732 Hovedgård,20,893376.0,15-09-2011,Fam.,7836,4,Villa,114,1937,-55 %
+Gl Kattrupvej 32 8732 Hovedgård,32,775000.0,15-09-2011,Alm.,0,4,Villa,137,1971,-3 %
+Søndervænget 15 8732 Hovedgård,15,800000.0,22-08-2011,Alm.,8333,4,Villa,96,1963,
+Birkevænget 1 8732 Hovedgård,1,500000.0,22-08-2011,Alm.,3289,4,Villa,152,2012,-5 %
+Vinthervej 14 8732 Hovedgård,14,2325000.0,05-08-2011,Alm.,16034,5,Villa,145,2007,-5 %
+Birkevænget 2 8732 Hovedgård,2,500000.0,02-07-2011,Alm.,3289,4,Villa,152,2012,-22 %
+Tornbjerg 62 8732 Hovedgård,62,639000.0,01-07-2011,Alm.,4698,4,Villa,136,1977,
+P C Jensensvej 4 8732 Hovedgård,4,575000.0,27-06-2011,Alm.,6250,5,Villa,92,1960,-28 %
+Horsensvej 17 8732 Hovedgård,17,1780000.0,16-06-2011,Alm.,9417,9,Villa,189,1922,-15 %
+Vestergade 47 8732 Hovedgård,47,1500000.0,31-05-2011,Alm.,13274,3,Villa,113,1934,-5 %
+Krøruplundvej 6 8732 Hovedgård,6,770000.0,12-05-2011,Alm.,9277,3,Villa,83,1967,-14 %
+Katrinelundsvej 30 8732 Hovedgård,30,566500.0,04-05-2011,Alm.,3412,6,Villa,166,2000,
+Vinthervej 22 8732 Hovedgård,22,2500000.0,21-04-2011,Alm.,14880,5,Villa,168,2006,-11 %
+Horsensvej 16 8732 Hovedgård,16,1000000.0,01-04-2011,Alm.,7692,4,Rækkehus,130,1940,
+Grumstrupvej 22 8732 Hovedgård,22,2500000.0,09-03-2011,Alm.,13888,5,Villa,180,2006,-4 %
+Elbjergvej 35 8732 Hovedgård,35,700000.0,07-03-2011,Alm.,5147,4,Villa,136,1775,-20 %
+Vestergade 50 8732 Hovedgård,50,2600000.0,25-02-2011,Alm.,8873,12,Villa,293,1908,-4 %
+N P Danmarksvej 133 8732 Hovedgård,133,2220000.0,14-02-2011,Alm.,15971,4,Villa,139,2008,-3 %
+Sogneskellet 51 8732 Hovedgård,51,2050000.0,02-02-2011,Alm.,14137,5,Villa,145,1996,-2 %
+Elbjergvej 29 8732 Hovedgård,29,1110000.0,24-01-2011,Alm.,8809,4,Villa,126,1934,-5 %
+Sogneskellet 8 8732 Hovedgård,8,873075.0,27-12-2010,Fam.,5422,5,Villa,161,1997,
+N P Danmarksvej 135 8732 Hovedgård,135,600000.0,21-12-2010,Alm.,3550,4,Villa,169,2012,-11 %
+Vestergade 59 8732 Hovedgård,59,970000.0,18-12-2010,Alm.,7950,4,Villa,122,1949,-3 %
+N P Danmarksvej 1 8732 Hovedgård,1,400000.0,15-12-2010,Alm.,1970,5,Villa,203,2011,-30 %
+Vestergade 28 8732 Hovedgård,28,1150000.0,03-12-2010,Alm.,10952,4,Villa,105,1908,-4 %
+Tornbjerg 8 8732 Hovedgård,8,860500.0,02-12-2010,Alm.,5516,5,Villa,156,1974,
+N P Danmarksvej 111 8732 Hovedgård,111,690000.0,15-11-2010,Alm.,3650,6,Villa,189,2011,
+Gl Kattrupvej 25 8732 Hovedgård,25,1600000.0,06-11-2010,Alm.,9815,4,Villa,163,1946,-4 %
+N P Danmarksvej 22 8732 Hovedgård,22,515000.0,24-10-2010,Alm.,3410,5,Villa,151,2011,-6 %
+Hadrupvej 86 8732 Hovedgård,86,1295000.0,20-10-2010,Alm.,13350,4,Villa,97,1969,0 %
+N P Danmarksvej 19 8732 Hovedgård,19,603300.0,14-10-2010,Alm.,3142,5,Villa,192,2011,
+Kirkevej 46 8732 Hovedgård,46,17954000.0,11-10-2010,Alm.,28772,12,Stuehus,624,2010,
+Gl Århusvej 48 8732 Hovedgård,48,1700000.0,10-10-2010,Alm.,12592,6,Stuehus,135,1877,-19 %
+N P Danmarksvej 77 8732 Hovedgård,77,1769000.0,06-10-2010,Alm.,13607,4,Rækkehus,130,2009,0 %
+N P Danmarksvej 101 8732 Hovedgård,101,2350000.0,05-10-2010,Alm.,13276,6,Villa,177,2008,-6 %
+Gl Kattrupvej 33 8732 Hovedgård,33,1050000.0,23-09-2010,Alm.,9813,4,Villa,107,1954,-12 %
+Horsensvej 20A 8732 Hovedgård,0,1425000.0,22-09-2010,Alm.,11491,4,Villa,124,1986,-8 %
+Krogstrupvej 169 8732 Hovedgård,169,822381.0,08-09-2010,Alm.,7614,6,Villa,108,1931,-55 %
+Kirkevej 45 8732 Hovedgård,45,10125000.0,03-09-2010,Alm.,38352,9,Stuehus,264,1910,
+Gl Kattrupvej 20 8732 Hovedgård,20,1113491.0,02-09-2010,Alm.,6627,5,Stuehus,168,1862,
+Vestergade 29 8732 Hovedgård,29,1140000.0,02-09-2010,Alm.,10555,4,Rækkehus,108,1931,-3 %
+Gl Kattrupvej 50 8732 Hovedgård,50,2250000.0,01-09-2010,Alm.,13803,6,Villa,163,1908,-2 %
+Søndervænget 89 8732 Hovedgård,89,1650000.0,19-08-2010,Alm.,11000,4,Villa,150,1965,-6 %
+N P Danmarksvej 57 8732 Hovedgård,57,550000.0,15-08-2010,Alm.,3666,5,Villa,150,2011,-4 %
+Frydsvej 5 8732 Hovedgård,5,803496.0,13-08-2010,Auktion,7580,4,Villa,106,1964,
+N P Danmarksvej 125 8732 Hovedgård,125,525000.0,08-08-2010,Alm.,3125,6,Villa,168,2011,-38 %
+Kirkedalsvej 15 8732 Hovedgård,15,2450000.0,05-08-2010,Alm.,10606,7,Villa,231,1877,-2 %
+Lundgårdevej 20 8732 Hovedgård,20,1750000.0,30-07-2010,Alm.,19444,3,Stuehus,90,1880,
+Søndervænget 11 8732 Hovedgård,11,980000.0,05-07-2010,Alm.,10208,4,Villa,96,1964,-7 %
+Fruenshave 25 8732 Hovedgård,25,1380000.0,05-07-2010,Alm.,9857,3,Villa,140,1974,-11 %
+Grumstrupvej 21 8732 Hovedgård,21,1600000.0,01-07-2010,Fam.,11678,3,Villa,137,1900,
+Fruenshave 26 8732 Hovedgård,26,1750000.0,01-07-2010,Alm.,9020,6,Villa,194,1972,-12 %
+N P Danmarksvej 93 8732 Hovedgård,93,575000.0,24-06-2010,Alm.,2426,10,Villa,237,2011,-3 %
+Troldkirkevej 6 8732 Hovedgård,6,2650000.0,21-06-2010,Alm.,14247,5,Villa,186,1900,
+Sogneskellet 27 8732 Hovedgård,27,1850000.0,17-06-2010,Alm.,12251,6,Villa,151,1986,-7 %
+Tornbjerg 106 8732 Hovedgård,106,1650000.0,15-06-2010,Fam.,8730,7,Villa,189,1978,
+Vinthervej 36 8732 Hovedgård,36,3250000.0,21-05-2010,Alm.,17379,5,Villa,187,2009,-4 %
+N P Danmarksvej 81 8732 Hovedgård,81,1900000.0,18-05-2010,Alm.,14615,4,Rækkehus,130,2011,0 %
+N P Danmarksvej 95 8732 Hovedgård,95,575000.0,17-05-2010,Alm.,2875,6,Villa,200,2011,0 %
+Ørridslevvej 1A 8732 Hovedgård,0,2250000.0,06-05-2010,Alm.,12640,5,Villa,178,1975,-2 %
+Gl Tebstrupvej 1 8732 Hovedgård,1,2330000.0,03-05-2010,Alm.,16293,6,Villa,143,1924,-3 %
+Søndervænget 60 8732 Hovedgård,60,985000.0,23-04-2010,Alm.,9752,3,Villa,101,1968,-10 %
+Tornbjerg 41 8732 Hovedgård,41,1825000.0,18-04-2010,Alm.,11850,7,Villa,154,1988,-9 %
+N P Danmarksvej 91A 8732 Hovedgård,0,1519773.0,12-04-2010,Alm.,14071,3,Rækkehus,108,2010,
+N P Danmarksvej 143 8732 Hovedgård,143,575000.0,30-03-2010,Alm.,4049,5,Villa,142,2011,0 %
+Gl Århusvej 42 8732 Hovedgård,42,2000000.0,24-03-2010,Alm.,10000,9,Stuehus,200,1920,
+N P Danmarksvej 91B 8732 Hovedgård,0,1498000.0,28-02-2010,Alm.,12588,4,Rækkehus,119,2010,
+Elbjergvej 43A 8732 Hovedgård,0,160000.0,24-02-2010,Alm.,958,5,Villa,167,2011,
+Nylandsvej 11 8732 Hovedgård,11,275000.0,23-02-2010,Alm.,4583,2,Villa,60,1940,-54 %
+Vestergade 57 8732 Hovedgård,57,1325000.0,05-02-2010,Alm.,10772,5,Villa,123,1949,-7 %
+N P Danmarksvej 97 8732 Hovedgård,97,415000.0,21-01-2010,Alm.,2804,5,Villa,148,2011,-41 %
+N P Danmarksvej 34 8732 Hovedgård,34,515000.0,19-01-2010,Alm.,2994,7,Villa,172,2011,-21 %
+Gl Kattrupvej 26 8732 Hovedgård,26,370000.0,14-01-2010,Fam.,3057,4,Villa,121,1934,
+Kattrupmade 3 8732 Hovedgård,3,525000.0,14-12-2009,Alm.,7835,2,Villa,67,1960,-25 %
+N P Danmarksvej 127 8732 Hovedgård,127,575000.0,21-11-2009,Alm.,3343,4,Villa,172,2011,-4 %
+Krøruplundvej 13 8732 Hovedgård,13,1450000.0,16-11-2009,Alm.,5555,11,Stuehus,261,1932,
+Katrinelundsvej 9 8732 Hovedgård,9,2150000.0,10-11-2009,Alm.,16538,6,Villa,130,2007,-2 %
+N P Danmarksvej 10 8732 Hovedgård,10,450000.0,28-10-2009,Alm.,2694,5,Villa,167,2010,-9 %
+N P Danmarksvej 91 8732 Hovedgård,91,1720000.0,23-10-2009,Alm.,14453,4,Rækkehus,119,2010,
+Vestergade 27 8732 Hovedgård,27,880000.0,18-09-2009,Auktion,4378,7,Villa,201,1910,
+Gl Tebstrupvej 7 8732 Hovedgård,7,1500000.0,17-09-2009,Alm.,7853,4,Villa,191,1870,-6 %
+Espevej 6 8732 Hovedgård,6,1400000.0,11-09-2009,Alm.,7179,8,Stuehus,195,1877,
+Snareskovvej 4 8732 Hovedgård,4,1915000.0,09-09-2009,Alm.,13776,6,Villa,139,1940,-3 %
+Vinthervej 34 8732 Hovedgård,34,2350000.0,31-08-2009,Alm.,10129,7,Villa,232,2009,-11 %
+Sogneskellet 26 8732 Hovedgård,26,1525000.0,12-08-2009,Alm.,12200,4,Villa,125,1978,-10 %
+Hadrupvej 78 8732 Hovedgård,78,1200000.0,29-07-2009,Alm.,6629,7,Stuehus,181,1850,-20 %
+Søndervænget 35 8732 Hovedgård,35,970000.0,16-07-2009,Alm.,11022,4,Villa,88,1965,-3 %
+Grumstrupvej 43 8732 Hovedgård,43,590000.0,10-07-2009,Auktion,3782,5,Villa,156,1875,
+Tornbjerg 72 8732 Hovedgård,72,1100000.0,29-06-2009,Alm.,9401,4,Rækkehus,117,1974,-15 %
+Gl Kattrupvej 61 8732 Hovedgård,61,985000.0,10-06-2009,Alm.,11726,3,Villa,84,1900,
+Tornbjerg 78 8732 Hovedgård,78,1070000.0,29-05-2009,Alm.,7588,6,Rækkehus,141,1974,-10 %
+Søndervænget 87 8732 Hovedgård,87,1370000.0,21-05-2009,Alm.,10148,5,Villa,135,1967,-2 %
+Gl Kattrupvej 21 8732 Hovedgård,21,3300000.0,14-05-2009,Alm.,11111,10,Stuehus,297,1927,3 %
+N P Danmarksvej 16 8732 Hovedgård,16,575000.0,03-05-2009,Alm.,3616,5,Villa,159,2010,-12 %
+N P Danmarksvej 119 8732 Hovedgård,119,610000.0,24-04-2009,Alm.,3388,4,Villa,180,2010,
+Vinthervej 26 8732 Hovedgård,26,2600000.0,30-03-2009,Alm.,11206,7,Villa,232,2009,-9 %
+Fruenshave 22 8732 Hovedgård,22,1450000.0,21-03-2009,Alm.,10661,5,Villa,136,1971,-3 %
+N P Danmarksvej 59 8732 Hovedgård,59,515000.0,12-03-2009,Alm.,3322,5,Villa,155,2011,
+Kirkedalsvej 4 8732 Hovedgård,4,1470000.0,23-02-2009,Fam.,6099,5,Villa,241,1856,-53 %
+Tvilhøj 30 8732 Hovedgård,30,1998000.0,19-02-2009,Alm.,13231,5,Villa,151,2008,0 %
+Sogneskellet 49 8732 Hovedgård,49,875000.0,16-02-2009,Andet,6835,4,Villa,128,1997,
+Tornbjerg 51 8732 Hovedgård,51,1220000.0,03-02-2009,Alm.,8840,4,Villa,138,1973,-6 %
+Østergade 14 8732 Hovedgård,14,1200000.0,29-01-2009,Alm.,13043,3,Rækkehus,92,1900,-4 %
+N P Danmarksvej 131 8732 Hovedgård,131,625000.0,10-01-2009,Alm.,2840,5,Villa,220,2009,
+Søndervænget 16 8732 Hovedgård,16,1000000.0,21-12-2008,Alm.,12500,3,Villa,80,1965,-9 %
+Vinthervej 5 8732 Hovedgård,5,850000.0,07-12-2008,Fam.,5592,5,Villa,152,2006,
+Elbjergvej 30 8732 Hovedgård,30,300000.0,28-11-2008,Auktion,3750,5,Rækkehus,80,1777,-39 %
+Katrinelundsvej 13 8732 Hovedgård,13,575000.0,24-11-2008,Alm.,4166,5,Villa,138,2009,-73 %
+Møllevej 1B 8732 Hovedgård,0,2800000.0,11-11-2008,Alm.,18543,4,Villa,151,2008,
+Industriområdet 2 8732 Hovedgård,2,2800000.0,08-10-2008,Alm.,12785,6,Villa,219,1972,-14 %
+Overbyvej 5 8732 Hovedgård,5,900000.0,06-10-2008,Alm.,4972,7,Villa,181,1725,
+Ørridslevvej 19A 8732 Hovedgård,0,6691300.0,24-09-2008,Andet,57190,2,Dobbelthus,117,2000,
+N P Danmarksvej 28 8732 Hovedgård,28,600000.0,09-09-2008,Alm.,4000,5,Villa,150,2009,
+Fruenshave 36 8732 Hovedgård,36,1575000.0,03-09-2008,Alm.,11013,4,Villa,143,1971,-4 %
+N P Danmarksvej 129 8732 Hovedgård,129,2500000.0,29-08-2008,Alm.,15060,4,Villa,166,2008,
+N P Danmarksvej 121 8732 Hovedgård,121,700000.0,17-08-2008,Alm.,3381,5,Villa,207,2009,
+Overby Skovvej 3 8732 Hovedgård,3,1956500.0,14-07-2008,Alm.,13400,7,Stuehus,146,1931,
+Sogneskellet 34 8732 Hovedgård,34,2075000.0,11-07-2008,Alm.,15961,5,Villa,130,1997,-6 %
+N P Danmarksvej 117 8732 Hovedgård,117,2707321.0,03-07-2008,Alm.,15559,5,Villa,174,2008,
+Elbjergvej 28 8732 Hovedgård,28,1550000.0,26-06-2008,Alm.,10839,5,Villa,143,1972,-3 %
+Fruenshave 66 8732 Hovedgård,66,1540000.0,20-06-2008,Alm.,12941,5,Villa,119,1973,
+Tvilhøj 20 8732 Hovedgård,20,732000.0,19-06-2008,Alm.,3660,4,Villa,200,2011,5 %
+Elbjergvej 39 8732 Hovedgård,39,950000.0,16-06-2008,Alm.,8636,5,Villa,110,1880,-5 %
+N P Danmarksvej 113 8732 Hovedgård,113,650000.0,05-06-2008,Alm.,3571,5,Villa,182,2009,
+N P Danmarksvej 79 8732 Hovedgård,79,1602608.0,03-06-2008,Alm.,14838,3,Rækkehus,108,2009,3 %
+N P Danmarksvej 105 8732 Hovedgård,105,600000.0,29-05-2008,Alm.,4166,5,Villa,144,2009,
+Engmarksvej 46 8732 Hovedgård,46,7200000.0,24-05-2008,Alm.,53731,5,Stuehus,134,1930,
+Horsensvej 24 8732 Hovedgård,24,2800000.0,20-05-2008,Alm.,9722,11,Villa,288,1881,-2 %
+Grumstrupvej 19 8732 Hovedgård,19,1450000.0,18-05-2008,Alm.,11885,4,Villa,122,1937,-3 %
+Lundgårdevej 1 8732 Hovedgård,1,1920000.0,28-04-2008,Alm.,7804,7,Villa,246,1886,-4 %
+Elbjergvej 45 8732 Hovedgård,45,1745000.0,26-04-2008,Alm.,14914,4,Villa,117,1968,-2 %
+Østergade 6A 8732 Hovedgård,0,725000.0,14-04-2008,Alm.,3356,8,Villa,216,1897,
+Bakkevej 10 8732 Hovedgård,10,558000.0,03-04-2008,Alm.,7750,2,Villa,72,1961,
+Søndervænget 65 8732 Hovedgård,65,1450000.0,31-03-2008,Alm.,0,7,Villa,164,1965,-3 %
+Langdammen 1 8732 Hovedgård,1,1774000.0,19-03-2008,Alm.,10435,7,Villa,170,1784,-16 %
+N P Danmarksvej 103 8732 Hovedgård,103,550000.0,09-03-2008,Alm.,3125,5,Villa,176,2008,
+Søkærvej 12 8732 Hovedgård,12,127310.0,25-02-2008,Alm.,603,10,Stuehus,211,1933,
+Grumstrupvej 59 8732 Hovedgård,59,1300000.0,25-02-2008,Alm.,5349,6,Villa,243,1952,-7 %
+Tornbjerg 69 8732 Hovedgård,69,2200000.0,09-02-2008,Alm.,9777,8,Villa,225,1975,-6 %
+N P Danmarksvej 26 8732 Hovedgård,26,550000.0,05-02-2008,Alm.,4044,4,Villa,136,2008,
+Katrinelundsvej 24 8732 Hovedgård,24,1960000.0,21-01-2008,Alm.,14000,5,Villa,140,2001,-4 %
+Grumstrupvej 10 8732 Hovedgård,10,1450000.0,05-01-2008,Alm.,9477,6,Villa,153,2010,
+Vinthervej 4 8732 Hovedgård,4,590000.0,02-01-2008,Alm.,3881,5,Villa,152,2008,-2 %
+Tornbjerg 93 8732 Hovedgård,93,1948000.0,30-12-2007,Alm.,14218,5,Villa,137,1974,0 %
+Oudrupgårdsvej 23 8732 Hovedgård,23,1595000.0,21-12-2007,Alm.,7595,8,Villa,210,1877,
+Engvangen 3 8732 Hovedgård,3,850000.0,17-12-2007,Andet,6250,6,Villa,136,1967,
+Møllevej 1C 8732 Hovedgård,0,2180000.0,05-12-2007,Alm.,20961,3,Villa,104,2008,
+N P Danmarksvej 24 8732 Hovedgård,24,475000.0,21-11-2007,Alm.,2950,5,Villa,161,2009,
+Fruenshave 50 8732 Hovedgård,50,1750000.0,19-11-2007,Alm.,12681,5,Villa,138,1972,-3 %
+Nørregade 4 8732 Hovedgård,4,1295000.0,01-11-2007,Alm.,11359,4,Villa,114,1909,0 %
+N P Danmarksvej 107 8732 Hovedgård,107,600000.0,28-10-2007,Alm.,3508,6,Villa,171,2008,
+N P Danmarksvej 89 8732 Hovedgård,89,2665000.0,24-10-2007,Alm.,24675,3,Rækkehus,108,2012,
+N P Danmarksvej 83 8732 Hovedgård,83,2665000.0,24-10-2007,Alm.,24675,3,Rækkehus,108,2011,
+Tornbjerg 3B 8732 Hovedgård,0,1970000.0,19-10-2007,Alm.,13873,5,Villa,142,1990,
+Vestergade 55 8732 Hovedgård,55,1850000.0,12-10-2007,Alm.,7974,6,Villa,232,1979,
+Stationsvej 8 8732 Hovedgård,8,1100000.0,06-10-2007,Alm.,10377,4,Rækkehus,106,1908,-2 %
+Oudrupgårdsvej 16 8732 Hovedgård,16,1350000.0,05-10-2007,Alm.,9060,5,Villa,149,1935,-2 %
+Søndervænget 91 8732 Hovedgård,91,1699000.0,03-10-2007,Alm.,12585,6,Villa,135,1967,
+Skråvej 1 8732 Hovedgård,1,920000.0,26-09-2007,Alm.,10823,2,Villa,85,1827,-2 %
+Kirkevej 52 8732 Hovedgård,52,575867.0,25-09-2007,Andet,4297,4,Villa,134,1907,
+Søndervænget 50 8732 Hovedgård,50,1026000.0,21-09-2007,Alm.,9679,4,Villa,106,1966,3 %
+Fruenshave 20 8732 Hovedgård,20,1865000.0,16-09-2007,Alm.,13917,4,Villa,134,1971,-2 %
+Elbjergvej 34 8732 Hovedgård,34,347963.0,15-09-2007,Alm.,4970,2,Rækkehus,70,1887,
+Birkevænget 5 8732 Hovedgård,5,575000.0,11-09-2007,Alm.,4078,5,Villa,141,2009,
+Kirkevej 53 8732 Hovedgård,53,744475.0,29-08-2007,Fam.,4303,6,Villa,173,1900,
+Fruenshave 39 8732 Hovedgård,39,2299000.0,20-08-2007,Alm.,12164,6,Villa,189,1974,
+Fruenshave 18A 8732 Hovedgård,0,3125000.0,15-08-2007,Alm.,12254,8,Villa,255,1924,
+Søndervænget 77 8732 Hovedgård,77,1600000.0,02-08-2007,Alm.,15094,4,Villa,106,1967,-4 %
+Grumstrupvej 67 8732 Hovedgård,67,1695000.0,01-08-2007,Alm.,11078,4,Villa,153,1966,0 %
+N P Danmarksvej 30 8732 Hovedgård,30,625000.0,28-07-2007,Alm.,3551,6,Villa,176,2008,
+N P Danmarksvej 109 8732 Hovedgård,109,700000.0,13-07-2007,Alm.,4216,5,Villa,166,2008,
+Fruenshave 60 8732 Hovedgård,60,1700000.0,10-07-2007,Alm.,10559,7,Villa,161,1973,
+Sogneskellet 29 8732 Hovedgård,29,2475000.0,27-06-2007,Alm.,17187,5,Villa,144,1997,
+Krøruplundvej 12 8732 Hovedgård,12,1975000.0,27-06-2007,Alm.,14007,4,Villa,141,1975,0 %
+Søndervænget 85 8732 Hovedgård,85,1202000.0,26-06-2007,Alm.,11027,4,Villa,109,1967,10 %
+N P Danmarksvej 8 8732 Hovedgård,8,550000.0,25-06-2007,Alm.,4330,5,Villa,127,2008,
+Tornbjerg 64 8732 Hovedgård,64,1240000.0,01-06-2007,Alm.,0,7,Villa,188,1975,
+Tornbjerg 1A 8732 Hovedgård,0,1275000.0,31-05-2007,Alm.,14166,4,Rækkehus,90,1981,
+Gl Kattrupvej 42 8732 Hovedgård,42,1540000.0,24-05-2007,Alm.,9746,5,Villa,158,1927,
+Kærsholmvej 7 8732 Hovedgård,7,1275000.0,21-05-2007,Alm.,10991,4,Villa,116,1974,
+Tornbjerg 80 8732 Hovedgård,80,1295000.0,09-05-2007,Alm.,9316,6,Rækkehus,139,1974,
+N P Danmarksvej 20 8732 Hovedgård,20,540000.0,07-05-2007,Alm.,3176,6,Villa,170,2008,
+N P Danmarksvej 53 8732 Hovedgård,53,600000.0,30-04-2007,Alm.,3750,5,Villa,160,2008,
+Horsensvej 34 8732 Hovedgård,34,75000.0,20-04-2007,Andet,394,4,Villa,190,1919,
+Tvilhøj 16 8732 Hovedgård,16,425000.0,10-04-2007,Alm.,1831,5,Villa,232,2008,
+N P Danmarksvej 15 8732 Hovedgård,15,550000.0,03-04-2007,Alm.,3767,5,Villa,146,2008,
+Ballebovej 3 8732 Hovedgård,3,1737500.0,24-03-2007,Andet,9652,7,Villa,180,1972,
+Tornbjerg 82 8732 Hovedgård,82,1350000.0,02-03-2007,Alm.,11538,5,Rækkehus,117,1974,-7 %
+N P Danmarksvej 141 8732 Hovedgård,141,650000.0,21-02-2007,Alm.,3457,7,Villa,188,2008,
+Fruenshave 32 8732 Hovedgård,32,1745000.0,09-02-2007,Fam.,15173,4,Villa,115,1972,
+N P Danmarksvej 55 8732 Hovedgård,55,600000.0,02-02-2007,Alm.,3750,5,Villa,160,2008,
+N P Danmarksvej 151 8732 Hovedgård,151,600000.0,02-02-2007,Alm.,4195,5,Villa,143,2007,
+N P Danmarksvej 149 8732 Hovedgård,149,600000.0,02-02-2007,Alm.,4444,4,Villa,135,2008,
+N P Danmarksvej 12 8732 Hovedgård,12,550000.0,02-02-2007,Alm.,3548,5,Villa,155,2008,
+N P Danmarksvej 11 8732 Hovedgård,11,575000.0,02-02-2007,Alm.,3108,5,Villa,185,2008,
+N P Danmarksvej 51 8732 Hovedgård,51,600000.0,10-01-2007,Alm.,3846,5,Villa,156,2008,
+Birkevænget 6 8732 Hovedgård,6,450000.0,10-01-2007,Alm.,2238,11,Villa,201,2008,
+Tornbjerg 81 8732 Hovedgård,81,3150000.0,04-01-2007,Alm.,18750,5,Villa,168,1997,-2 %
+Kirkevej 60 8732 Hovedgård,60,650000.0,13-12-2006,Alm.,2927,7,Stuehus,222,1877,
+N P Danmarksvej 7 8732 Hovedgård,7,575000.0,13-12-2006,Alm.,3159,6,Villa,182,2007,
+N P Danmarksvej 33 8732 Hovedgård,33,555000.0,13-12-2006,Alm.,2890,6,Villa,192,2007,
+Grumstrupvej 11 8732 Hovedgård,11,2200000.0,08-12-2006,Fam.,12571,5,Stuehus,175,1827,
+Tornbjerg 89 8732 Hovedgård,89,2225000.0,07-12-2006,Alm.,12092,7,Villa,184,1976,
+Oudrupgårdsvej 11 8732 Hovedgård,11,1018813.0,06-12-2006,Fam.,5507,5,Villa,185,1931,
+Katrinelundsvej 20 8732 Hovedgård,20,2750000.0,04-12-2006,Alm.,16871,5,Villa,163,2001,
+N P Danmarksvej 2 8732 Hovedgård,2,575000.0,20-11-2006,Alm.,2578,7,Villa,223,2007,
+N P Danmarksvej 18 8732 Hovedgård,18,600000.0,06-11-2006,Alm.,4511,5,Villa,133,2007,
+N P Danmarksvej 43 8732 Hovedgård,43,550000.0,06-11-2006,Alm.,3459,5,Villa,159,2007,
+N P Danmarksvej 6 8732 Hovedgård,6,525000.0,06-11-2006,Alm.,4200,5,Villa,125,2008,
+N P Danmarksvej 13 8732 Hovedgård,13,575000.0,06-11-2006,Alm.,3549,5,Villa,162,2007,
+N P Danmarksvej 21 8732 Hovedgård,21,575000.0,06-11-2006,Alm.,3382,5,Villa,170,2008,
+N P Danmarksvej 31 8732 Hovedgård,31,400000.0,06-11-2006,Alm.,2424,6,Villa,165,2008,
+Søndervænget 59 8732 Hovedgård,59,2125000.0,01-11-2006,Alm.,11805,6,Villa,180,1966,
+Møllevej 12 8732 Hovedgård,12,1475000.0,30-10-2006,Alm.,11434,4,Villa,129,1968,
+Elbjergvej 57A 8732 Hovedgård,0,975000.0,05-10-2006,Alm.,7169,5,Villa,136,1907,
+Kirkevej 47A 8732 Hovedgård,0,300000.0,25-09-2006,Alm.,1960,6,Villa,153,2008,
+Kærsholmvej 21 8732 Hovedgård,21,9000000.0,22-09-2006,Alm.,30716,10,Stuehus,293,1880,
+Fruenshave 27 8732 Hovedgård,27,1400000.0,18-09-2006,Alm.,10526,4,Villa,133,1973,
+Tvilhøj 26 8732 Hovedgård,26,599000.0,14-09-2006,Alm.,3442,5,Villa,174,2007,
+Hovedgårdvej 3 8732 Hovedgård,3,600000.0,30-08-2006,Alm.,4687,5,Villa,128,1932,
+Gl Kattrupvej 38 8732 Hovedgård,38,1340000.0,23-08-2006,Alm.,9370,4,Villa,143,1961,
+Hedemølle Kirkevej 5 8732 Hovedgård,5,220160.0,12-08-2006,Alm.,1850,5,Stuehus,119,1890,
+Oudrupgårdsvej 27 8732 Hovedgård,27,18415000.0,02-08-2006,Alm.,67702,5,Stuehus,272,1850,
+Vestergade 18 8732 Hovedgård,18,1000000.0,24-07-2006,Alm.,7042,5,Villa,142,1911,
+Horsensvej 21 8732 Hovedgård,21,999000.0,12-07-2006,Alm.,6529,5,Villa,153,1935,
+Horsensvej 40 8732 Hovedgård,40,1695000.0,10-07-2006,Alm.,12649,4,Villa,134,1930,
+Gl Århusvej 35 8732 Hovedgård,35,1135000.0,07-07-2006,Alm.,11581,4,Villa,98,1890,
+Troldkirkevej 4 8732 Hovedgård,4,3798000.0,16-06-2006,Alm.,18709,6,Villa,203,1900,
+Vandværksvej 4 8732 Hovedgård,4,1010000.0,14-06-2006,Alm.,6196,6,Villa,163,1899,
+Østergade 22 8732 Hovedgård,22,1295000.0,07-06-2006,Alm.,12950,4,Villa,100,1948,
+Fruenshave 62 8732 Hovedgård,62,1875000.0,04-06-2006,Alm.,13586,6,Villa,138,1972,
+Katrinelundsvej 11 8732 Hovedgård,11,550000.0,30-05-2006,Alm.,3437,5,Villa,160,2008,
+Fruenshave 35 8732 Hovedgård,35,1660025.0,26-05-2006,Alm.,13387,5,Villa,124,1974,
+Fruenshave 37 8732 Hovedgård,37,2198000.0,11-05-2006,Alm.,13402,4,Villa,164,1973,
+Lundgårdevej 10 8732 Hovedgård,10,3865000.0,04-05-2006,Alm.,15097,6,Stuehus,256,2010,
+Søndervænget 3 8732 Hovedgård,3,1299000.0,27-04-2006,Alm.,13121,3,Villa,99,1965,
+Krøruplundvej 17 8732 Hovedgård,17,1750000.0,27-04-2006,Fam.,11744,4,Stuehus,149,1920,
+Gl Kattrupvej 37 8732 Hovedgård,37,1285000.0,25-04-2006,Alm.,12122,4,Villa,106,1951,
+Tvilhøj 22 8732 Hovedgård,22,599000.0,10-04-2006,Alm.,2852,6,Villa,210,2007,
+Tornbjerg 20 8732 Hovedgård,20,1385000.0,05-04-2006,Alm.,11080,4,Villa,125,1975,
+Fruenshave 30 8732 Hovedgård,30,1200000.0,05-04-2006,Fam.,7058,5,Villa,170,1973,
+Krogstrupvej 167 8732 Hovedgård,167,1150000.0,30-03-2006,Alm.,6318,6,Villa,182,1930,
+Søndervænget 27 8732 Hovedgård,27,845000.0,06-03-2006,Alm.,7412,4,Villa,114,1964,
+Søndervænget 1 8732 Hovedgård,1,1210000.0,24-02-2006,Alm.,6685,6,Villa,181,1964,
+Tvilhøj 12 8732 Hovedgård,12,399000.0,16-02-2006,Alm.,3594,4,Villa,111,2007,
+Vestergade 35 8732 Hovedgård,35,1055000.0,16-02-2006,Alm.,12710,2,Villa,83,1997,
+Grumstrupvej 92 8732 Hovedgård,92,1135000.0,14-02-2006,Alm.,10809,4,Villa,105,1976,
+Nørregade 1 8732 Hovedgård,1,1186500.0,10-02-2006,Alm.,11519,3,Villa,103,1915,
+Grumstrupvej 94 8732 Hovedgård,94,1280000.0,10-02-2006,Alm.,9624,5,Villa,133,1937,
+Horsensvej 21A 8732 Hovedgård,0,1775000.0,09-02-2006,Alm.,9491,5,Villa,187,1967,
+Vinthervej 27 8732 Hovedgård,27,420000.0,06-02-2006,Alm.,2608,5,Villa,161,2007,
+Heilesenvænget 12 8732 Hovedgård,12,369000.0,06-02-2006,Alm.,2476,5,Villa,149,2007,
+Vinthervej 28 8732 Hovedgård,28,425000.0,02-02-2006,Alm.,2759,5,Villa,154,2008,
+Vedsletvej 9 8732 Hovedgård,9,3850000.0,02-02-2006,Alm.,15277,7,Stuehus,252,1992,
+Assendrupvej 1 8732 Hovedgård,1,1160000.0,01-02-2006,Alm.,9206,4,Villa,126,1927,
+Vinthervej 2 8732 Hovedgård,2,440000.0,31-01-2006,Alm.,3098,5,Villa,142,2007,
+Vedsletvej 1 8732 Hovedgård,1,1400000.0,26-01-2006,Alm.,8045,5,Villa,174,1947,
+Tornbjerg 71 8732 Hovedgård,71,2695000.0,20-01-2006,Alm.,13820,4,Villa,195,1997,
+Vinthervej 25 8732 Hovedgård,25,380000.0,19-01-2006,Alm.,2435,5,Villa,156,2006,
+Grumstrupvej 71 8732 Hovedgård,71,700000.0,16-01-2006,Alm.,5882,4,Villa,119,1962,
+Søkærvej 9A 8732 Hovedgård,0,570000.0,16-01-2006,Alm.,6333,2,Villa,90,1905,
+Horsensvej 18 8732 Hovedgård,18,1200000.0,11-01-2006,Alm.,15584,3,Villa,77,1877,
+Katrinelundsvej 28 8732 Hovedgård,28,2295000.0,11-01-2006,Alm.,15612,5,Villa,147,2001,
+Gl Kattrupvej 44 8732 Hovedgård,44,1035000.0,10-01-2006,Alm.,8085,4,Villa,128,1973,
+Kirkedalsvej 3 8732 Hovedgård,3,1475000.0,29-12-2005,Alm.,7763,5,Villa,190,1910,
+Vinthervej 24 8732 Hovedgård,24,425000.0,25-12-2005,Alm.,2871,5,Villa,148,2007,
+Vinthervej 30 8732 Hovedgård,30,450000.0,25-12-2005,Alm.,2830,5,Villa,159,2007,
+Vinthervej 6 8732 Hovedgård,6,445000.0,25-12-2005,Alm.,2472,5,Villa,180,2007,
+Vinthervej 15 8732 Hovedgård,15,495000.0,25-12-2005,Alm.,2911,6,Villa,170,2007,
+Møllevej 10 8732 Hovedgård,10,640000.0,22-12-2005,Fam.,6736,4,Villa,95,1967,
+Overby Skovvej 1 8732 Hovedgård,1,2000000.0,17-12-2005,Fam.,16528,6,Stuehus,121,1932,
+Vinthervej 23 8732 Hovedgård,23,395000.0,15-12-2005,Alm.,2687,5,Villa,147,2007,
+Heilesenvænget 18A 8732 Hovedgård,0,924183.0,14-12-2005,Andet,9527,3,Rækkehus,97,2001,
+Heilesenvænget 18B 8732 Hovedgård,0,772103.0,14-12-2005,Andet,10576,2,Rækkehus,73,2001,
+Heilesenvænget 20A 8732 Hovedgård,0,924183.0,14-12-2005,Andet,9527,3,Rækkehus,97,2001,
+Heilesenvænget 20B 8732 Hovedgård,0,772103.0,14-12-2005,Andet,10576,2,Rækkehus,73,2001,
+Sogneskellet 25 8732 Hovedgård,25,1950000.0,12-12-2005,Alm.,11890,5,Villa,164,1987,
+Søndervænget 32 8732 Hovedgård,32,950000.0,09-12-2005,Alm.,9134,4,Villa,104,1964,
+Bakkevej 14 8732 Hovedgård,14,775000.0,09-12-2005,Alm.,9117,3,Villa,85,1961,
+Edelsmindevej 2 8732 Hovedgård,2,1450000.0,06-12-2005,Fam.,6041,7,Villa,240,1874,
+Vinthervej 9 8732 Hovedgård,9,460000.0,23-11-2005,Alm.,2738,5,Villa,168,2006,
+Gl Århusvej 40 8732 Hovedgård,40,390000.0,22-11-2005,Alm.,5342,2,Villa,73,1000,
+Gl Århusvej 38 8732 Hovedgård,38,30740.0,17-11-2005,Alm.,132,5,Stuehus,232,1877,
+Tornbjerg 66 8732 Hovedgård,66,478371.0,14-11-2005,Andet,3826,5,Villa,125,1973,
+Vinthervej 18 8732 Hovedgård,18,450000.0,13-11-2005,Alm.,2368,6,Villa,190,2006,
+Vinthervej 16 8732 Hovedgård,16,450000.0,13-11-2005,Alm.,3000,5,Villa,150,2007,
+Skovbrynet 11 8732 Hovedgård,11,1220000.0,01-11-2005,Alm.,0,6,Villa,194,1962,
+P C Jensensvej 5 8732 Hovedgård,5,1625000.0,31-10-2005,Alm.,17287,4,Villa,94,1924,
+Søndervænget 79 8732 Hovedgård,79,1375000.0,28-10-2005,Alm.,10576,4,Villa,130,1969,
+Vinthervej 29 8732 Hovedgård,29,395000.0,25-10-2005,Alm.,2484,5,Villa,159,2006,
+Vinthervej 21 8732 Hovedgård,21,420000.0,22-10-2005,Alm.,2763,5,Villa,152,2007,
+Engmarksvej 48 8732 Hovedgård,48,1630000.0,05-10-2005,Alm.,8489,6,Stuehus,192,1900,
+Søndervænget 83 8732 Hovedgård,83,1575000.0,29-09-2005,Alm.,10570,4,Villa,149,1968,
+Tornbjerg 100 8732 Hovedgård,100,1765000.0,22-09-2005,Alm.,8364,8,Villa,211,1977,
+Vinthervej 17 8732 Hovedgård,17,410000.0,22-09-2005,Alm.,2484,6,Villa,165,2007,
+Vinthervej 32 8732 Hovedgård,32,420000.0,22-09-2005,Alm.,1810,7,Villa,232,2009,
+Søndervænget 31 8732 Hovedgård,31,1575000.0,19-09-2005,Alm.,11413,5,Villa,138,1964,
+Vinthervej 19 8732 Hovedgård,19,420000.0,12-09-2005,Alm.,2763,5,Villa,152,2006,
+Vinthervej 12 8732 Hovedgård,12,450000.0,12-09-2005,Alm.,2694,5,Villa,167,2006,
+Vinthervej 38 8732 Hovedgård,38,440000.0,12-09-2005,Alm.,2514,5,Villa,175,2009,
+Vinthervej 8 8732 Hovedgård,8,450000.0,12-09-2005,Alm.,2662,4,Villa,169,2006,
+Vinthervej 3 8732 Hovedgård,3,460000.0,12-09-2005,Alm.,2569,5,Villa,179,2006,
+Vinthervej 10 8732 Hovedgård,10,450000.0,12-09-2005,Alm.,3191,5,Villa,141,2006,
+Vinthervej 40 8732 Hovedgård,40,420000.0,12-09-2005,Alm.,3255,3,Villa,129,2007,
+Vinthervej 11 8732 Hovedgård,11,495000.0,12-09-2005,Alm.,2270,5,Villa,218,2007,
+Tornbjerg 7 8732 Hovedgård,7,1450000.0,27-08-2005,Alm.,10000,5,Villa,145,1974,
+Industriområdet 13 8732 Hovedgård,13,1260000.0,15-08-2005,Auktion,4405,9,Villa,286,1974,
+Søndervænget 12 8732 Hovedgård,12,925000.0,04-08-2005,Alm.,11280,3,Villa,82,1964,
+Vestergade 12 8732 Hovedgård,12,750000.0,02-08-2005,Alm.,4335,6,Villa,173,1900,
+Præstevænget 24 8732 Hovedgård,24,1115000.0,31-07-2005,Alm.,9867,4,Villa,113,1977,
+Heilesenvænget 10 8732 Hovedgård,10,224000.0,29-07-2005,Alm.,1635,4,Villa,137,2007,
+Elbjergvej 37 8732 Hovedgård,37,1145000.0,08-07-2005,Alm.,10132,7,Villa,113,1927,
+Elbjergvej 26 8732 Hovedgård,26,1475000.0,05-07-2005,Alm.,8625,5,Villa,171,1890,
+Vedsletvej 8 8732 Hovedgård,8,775000.0,29-06-2005,Alm.,8333,4,Villa,93,1852,
+Fruenshave 44 8732 Hovedgård,44,1860000.0,29-06-2005,Alm.,10054,5,Villa,185,1970,
+Overby Skovvej 11 8732 Hovedgård,11,465000.0,28-06-2005,Alm.,2767,6,Villa,168,1827,
+Tornbjerg 33 8732 Hovedgård,33,1150000.0,17-06-2005,Alm.,8984,4,Villa,128,1976,
+Tornbjerg 10 8732 Hovedgård,10,1213750.0,01-06-2005,Alm.,7311,6,Villa,166,1977,
+Søndervænget 21 8732 Hovedgård,21,960000.0,23-05-2005,Alm.,8571,4,Villa,112,1966,
+Søndervænget 36 8732 Hovedgård,36,880000.0,11-05-2005,Alm.,8380,5,Villa,105,1967,
+Søndervænget 8 8732 Hovedgård,8,1150000.0,28-04-2005,Alm.,0,5,Villa,103,1963,
+Hadrupvej 70 8732 Hovedgård,70,345000.0,08-03-2005,Fam.,3108,4,Villa,111,1932,
+Grumstrupvej 35 8732 Hovedgård,35,1050000.0,28-02-2005,Alm.,4794,8,Villa,219,1800,
+Møllevej 14 8732 Hovedgård,14,1285000.0,27-02-2005,Alm.,6908,7,Villa,186,1964,
+Heilesenvænget 2 8732 Hovedgård,2,207000.0,06-12-2004,Alm.,1389,5,Villa,149,2007,
+Katrinelundsvej 22 8732 Hovedgård,22,285000.0,23-11-2004,Alm.,1716,5,Villa,166,2005,
+Kirkevej 47 8732 Hovedgård,47,336250.0,05-11-2004,Alm.,0,6,Villa,214,1900,
+Kærsholmvej 2D 8732 Hovedgård,0,1277500.0,26-10-2004,Alm.,8996,5,Villa,142,2005,
+Snareskovvej 5 8732 Hovedgård,5,2795000.0,24-09-2004,Alm.,17360,5,Stuehus,161,1931,
+Ballebovej 11 8732 Hovedgård,11,4845666.0,23-09-2004,Alm.,23637,9,Stuehus,205,1835,
+Krøruplundvej 3 8732 Hovedgård,3,1299000.0,21-09-2004,Alm.,7596,7,Villa,171,1850,
+Grumstrupvej 90 8732 Hovedgård,90,665000.0,09-09-2004,Alm.,7000,3,Villa,95,1955,
+Heilesenvænget 4 8732 Hovedgård,4,205000.0,08-09-2004,Alm.,1453,5,Villa,141,2007,
+Langdammen 5 8732 Hovedgård,5,270000.0,04-08-2004,Alm.,931,9,Villa,290,2005,
+Grumstrupvej 41 8732 Hovedgård,41,750000.0,19-07-2004,Fam.,5281,5,Villa,142,1750,
+Oudrupgårdsvej 13 8732 Hovedgård,13,165424.0,02-07-2004,Fam.,551,15,Stuehus,300,1885,
+Grumstrupvej 53 8732 Hovedgård,53,818635.0,26-06-2004,Alm.,4651,6,Villa,176,1972,
+Langdammen 7 8732 Hovedgård,7,150000.0,24-06-2004,Alm.,847,5,Villa,177,2005,
+Ørridslevvej 6 8732 Hovedgård,6,1025000.0,03-06-2004,Alm.,8134,4,Villa,126,1971,
+Overby Skovvej 2 8732 Hovedgård,2,1450000.0,26-05-2004,Alm.,9539,4,Villa,152,1995,
+Møllevej 5 8732 Hovedgård,5,755000.0,22-04-2004,Alm.,8483,3,Villa,89,1964,
+Fruenshave 16 8732 Hovedgård,16,1242500.0,30-03-2004,Alm.,7576,5,Villa,164,1969,
+Ørridslevvej 2 8732 Hovedgård,2,840000.0,22-03-2004,Alm.,7304,4,Villa,115,1974,
+Kirkevej 51 8732 Hovedgård,51,525000.0,11-03-2004,Alm.,0,4,Villa,120,1877,
+Kærsholmvej 15 8732 Hovedgård,15,999000.0,11-03-2004,Alm.,8612,4,Villa,116,1972,
+Tornbjerg 67 8732 Hovedgård,67,1850000.0,02-03-2004,Alm.,10511,4,Villa,176,1996,
+Horsensvej 25 8732 Hovedgård,25,985000.0,20-02-2004,Alm.,7695,5,Villa,128,1900,
+Grumstrupvej 56 8732 Hovedgård,56,657901.0,18-02-2004,Alm.,8223,3,Villa,80,1963,
+Vinkelvej 4 8732 Hovedgård,4,580000.0,03-02-2004,Alm.,0,3,Villa,89,1935,
+Tornbjerg 50 8732 Hovedgård,50,1140000.0,03-02-2004,Alm.,7125,5,Villa,160,1975,
+Hadrupvej 62 8732 Hovedgård,62,1050000.0,02-02-2004,Alm.,0,6,Døgninstitution,536,1877,
+Elbjergvej 22 8732 Hovedgård,22,650000.0,19-01-2004,Alm.,5909,3,Villa,110,1777,
+Grumstrupvej 28 8732 Hovedgård,28,700000.0,15-01-2004,Alm.,8536,3,Villa,82,1900,
+Søndervænget 44 8732 Hovedgård,44,1175000.0,18-12-2003,Fam.,7035,6,Villa,167,1966,
+Gl Kattrupvej 87 8732 Hovedgård,87,2400000.0,15-12-2003,Alm.,0,6,Stuehus,183,1924,
+Krøruplundvej 1 8732 Hovedgård,1,8900000.0,13-12-2003,Alm.,38695,9,Stuehus,230,1913,
+Grumstrupvej 49 8732 Hovedgård,49,400000.0,02-12-2003,Alm.,5555,2,Villa,72,1900,
+Grumstrupvej 38 8732 Hovedgård,38,1295000.0,26-11-2003,Alm.,7400,4,Villa,175,2010,
+Grumstrupvej 6 8732 Hovedgård,6,570000.0,25-11-2003,Fam.,0,4,Villa,140,1870,
+Grumstrupvej 51 8732 Hovedgård,51,2260700.0,25-11-2003,Fam.,8628,8,Stuehus,262,1777,
+Horsensvej 11 8732 Hovedgård,11,2725000.0,14-11-2003,Alm.,10728,6,Villa,254,1913,
+Assendrupvej 4 8732 Hovedgård,4,805508.0,05-11-2003,Alm.,3835,8,Villa,210,1887,
+Hadrupvej 63 8732 Hovedgård,63,165000.0,25-09-2003,Andet,1269,5,Villa,130,1947,
+Hadrupvej 61 8732 Hovedgård,61,223360.0,21-09-2003,Alm.,1163,6,Stuehus,192,1857,
+Grumstrupvej 24 8732 Hovedgård,24,765000.0,15-09-2003,Alm.,4273,6,Villa,179,1877,
+Snareskovvej 9 8732 Hovedgård,9,1550000.0,15-09-2003,Alm.,9687,5,Stuehus,160,2004,
+Fruenshave 54A 8732 Hovedgård,0,225000.0,01-09-2003,Alm.,775,7,Villa,290,2007,
+Lundgårdevej 32 8732 Hovedgård,32,750000.0,04-07-2003,Alm.,5859,4,Villa,128,1827,
+Tornbjerg 53 8732 Hovedgård,53,678251.0,01-07-2003,Alm.,4521,5,Villa,150,2017,
+Kirkevej 36 8732 Hovedgård,36,550000.0,27-06-2003,Alm.,5140,4,Villa,107,1937,
+Gl Kattrupvej 31 8732 Hovedgård,31,450000.0,23-06-2003,Fam.,4500,3,Villa,100,1946,
+Kærsholmvej 1 8732 Hovedgård,1,2050000.0,23-06-2003,Alm.,11918,4,Villa,172,1910,
+Kærsholmvej 5 8732 Hovedgård,5,1000000.0,19-06-2003,Alm.,8771,4,Villa,114,1970,
+Heilesenvænget 16A 8732 Hovedgård,0,950000.0,18-06-2003,Alm.,9595,3,Villa,99,2001,
+Overby Skovvej 9 8732 Hovedgård,9,690000.0,16-06-2003,Alm.,0,7,Stuehus,215,2005,
+Søndervænget 22 8732 Hovedgård,22,840000.0,13-06-2003,Alm.,0,3,Villa,132,1964,
+Søkærvej 8 8732 Hovedgård,8,1800000.0,28-05-2003,Alm.,16363,4,Stuehus,110,1880,
+Fruenshave 29 8732 Hovedgård,29,1095000.0,11-04-2003,Alm.,6636,6,Villa,165,1973,
+Sogneskellet 22 8732 Hovedgård,22,840000.0,01-04-2003,Alm.,6942,4,Villa,121,1979,
+Lundgårdevej 28 8732 Hovedgård,28,2380000.0,28-03-2003,Fam.,13370,6,Stuehus,178,1890,
+Præstevænget 20 8732 Hovedgård,20,850000.0,26-03-2003,Alm.,7522,4,Villa,113,1969,
+Gl Kattrupvej 81 8732 Hovedgård,81,1200000.0,15-03-2003,Alm.,9160,5,Stuehus,131,2007,
+Fruenshave 34 8732 Hovedgård,34,783482.0,26-02-2003,Alm.,6120,4,Villa,128,1972,
+Gl Tebstrupvej 4 8732 Hovedgård,4,306000.0,27-01-2003,Fam.,4371,2,Villa,70,1927,
+Sogneskellet 12A 8732 Hovedgård,0,700000.0,23-12-2002,Alm.,9210,3,Rækkehus,76,1990,
+Heilesenvænget 6 8732 Hovedgård,6,238000.0,10-12-2002,Alm.,1442,5,Villa,165,2003,
+Præstevænget 10 8732 Hovedgård,10,1160000.0,29-11-2002,Alm.,6666,6,Villa,174,1970,
+Sogneskellet 53B 8732 Hovedgård,0,700000.0,22-10-2002,Alm.,8139,3,Rækkehus,86,1986,
+Søndervænget 26 8732 Hovedgård,26,860000.0,21-10-2002,Alm.,5695,5,Villa,151,1964,
+Overby Skovvej 15 8732 Hovedgård,15,775000.0,25-09-2002,Alm.,0,8,Villa,295,1926,
+Vestergade 15 8732 Hovedgård,15,395000.0,05-09-2002,Alm.,3950,5,Engroshandel,100,1903,
+Elbækvej 3 8732 Hovedgård,3,1389000.0,03-09-2002,Alm.,6256,6,Villa,222,1877,
+Grumstrupvej 77 8732 Hovedgård,77,910000.0,16-08-2002,Alm.,5796,5,Villa,157,1934,
+Grumstrupvej 30 8732 Hovedgård,30,995000.0,05-07-2002,Alm.,0,10,Stuehus,290,1896,
+Elbækvej 7 8732 Hovedgård,7,9150000.0,26-06-2002,Alm.,49728,5,Stuehus,184,1994,
+Søndervænget 61 8732 Hovedgård,61,875000.0,28-05-2002,Alm.,7000,5,Villa,125,1970,
+Tornbjerg 61 8732 Hovedgård,61,1153263.0,16-05-2002,Alm.,5766,7,Villa,200,1974,
+Kattrupmade 11 8732 Hovedgård,11,301101.0,14-05-2002,Alm.,1420,8,Villa,212,2004,
+Lundgårdevej 5 8732 Hovedgård,5,850000.0,02-05-2002,Alm.,4722,6,Villa,180,1827,
+Nylandsvej 2 8732 Hovedgård,2,820000.0,30-04-2002,Alm.,6259,4,Villa,131,1937,
+Horsensvej 9 8732 Hovedgård,9,600000.0,29-04-2002,Alm.,7500,3,Villa,80,1963,
+Grumstrupvej 62 8732 Hovedgård,62,990000.0,27-04-2002,Alm.,4040,10,Villa,245,1932,
+Skråvej 5 8732 Hovedgård,5,1600000.0,17-04-2002,Fam.,5714,8,Stuehus,280,1855,
+Vestergade 23 8732 Hovedgård,23,323729.0,21-03-2002,Alm.,1961,5,Villa,165,1900,
+Møllevej 2 8732 Hovedgård,2,635000.0,19-03-2002,Alm.,5381,3,Villa,118,1908,
+Sogneskellet 10 8732 Hovedgård,10,1050000.0,18-03-2002,Alm.,6818,6,Villa,154,1980,
+Grumstrupvej 45 8732 Hovedgård,45,819561.0,17-03-2002,Alm.,0,5,Villa,132,1877,
+Elbjergvej 43 8732 Hovedgård,43,775000.0,27-02-2002,Alm.,7380,4,Villa,105,1912,
+Oudrupgårdsvej 30 8732 Hovedgård,30,1122904.0,22-02-2002,Alm.,5174,6,Villa,217,1827,
+Grumstrupvej 15 8732 Hovedgård,15,2646000.0,22-02-2002,Fam.,13230,7,Stuehus,200,1880,
+Oudrupgårdsvej 21 8732 Hovedgård,21,890000.0,08-02-2002,Alm.,4784,5,Villa,186,1850,
+Søndervænget 37 8732 Hovedgård,37,1140000.0,07-02-2002,Alm.,6368,6,Villa,179,1966,
+Østergade 8 8732 Hovedgård,8,360000.0,24-01-2002,Alm.,3000,4,Rækkehus,120,1907,
+Nylandsvej 3 8732 Hovedgård,3,554814.0,09-12-2001,Alm.,8040,2,Villa,69,1946,
+Bakkevej 5 8732 Hovedgård,5,840000.0,04-12-2001,Alm.,10000,3,Villa,84,1954,
+Skovbrynet 13 8732 Hovedgård,13,643000.0,30-10-2001,Alm.,7476,3,Villa,86,1964,
+Grumstrupvej 33 8732 Hovedgård,33,455000.0,17-10-2001,Alm.,5352,3,Villa,85,1900,
+Tornbjerg 5 8732 Hovedgård,5,965000.0,12-10-2001,Alm.,6655,5,Villa,145,1973,
+Horsensvej 19 8732 Hovedgård,19,1610000.0,04-10-2001,Alm.,7488,8,Villa,215,1931,
+Lundgårdevej 24 8732 Hovedgård,24,1257669.0,06-09-2001,Alm.,9316,5,Stuehus,135,1913,
+Grumstrupvej 74 8732 Hovedgård,74,510000.0,04-09-2001,Alm.,5425,4,Villa,94,1927,
+Vestergade 60 8732 Hovedgård,60,1900000.0,30-08-2001,Alm.,11309,8,Villa,168,1868,
+Tornbjerg 22 8732 Hovedgård,22,1029184.0,20-08-2001,Alm.,7351,4,Villa,140,1976,
+Grønnegade 3 8732 Hovedgård,3,1094000.0,17-08-2001,Alm.,7597,5,Villa,144,1932,
+Oudrupgårdsvej 14 8732 Hovedgård,14,339000.0,17-08-2001,Alm.,5650,2,Villa,60,1930,
+Tornbjerg 19 8732 Hovedgård,19,845000.0,02-08-2001,Alm.,5827,5,Villa,145,1975,
+Ørridslevvej 92 8732 Hovedgård,92,600000.0,03-07-2001,Alm.,3243,4,Rækkehus,185,1900,
+Grumstrupvej 46 8732 Hovedgård,46,735000.0,05-04-2001,Alm.,5250,4,Villa,140,1923,
+Præstevænget 12 8732 Hovedgård,12,843842.0,16-03-2001,Alm.,5444,5,Villa,155,1969,
+Søndervænget 73 8732 Hovedgård,73,347720.0,13-03-2001,Fam.,1986,6,Villa,175,1969,
+Espevej 2 8732 Hovedgård,2,1922800.0,07-03-2001,Fam.,7540,10,Stuehus,255,1893,
+Vestergade 63 8732 Hovedgård,63,800000.0,01-03-2001,Alm.,8000,3,Villa,100,1966,
+Gl Kattrupvej 89 8732 Hovedgård,89,1500000.0,19-02-2001,Fam.,7177,5,Villa,209,1915,
+Krøruplundvej 4 8732 Hovedgård,4,2055000.0,02-02-2001,Fam.,0,8,Stuehus,197,1920,
+Gl Kattrupvej 55 8732 Hovedgård,55,856653.0,19-01-2001,Alm.,5827,5,Villa,147,1877,
+Heilesenvænget 14B 8732 Hovedgård,0,1014876.0,15-01-2001,Alm.,10251,4,Villa,99,2001,
+Søndervænget 42 8732 Hovedgård,42,900000.0,11-01-2001,Alm.,7826,5,Villa,115,1967,
+Tornbjerg 68 8732 Hovedgård,68,875000.0,09-01-2001,Alm.,6433,4,Villa,136,1974,
+Katrinelundsvej 26 8732 Hovedgård,26,1400000.0,01-01-2001,Alm.,10852,4,Villa,129,2001,
+Elbjergvej 20 8732 Hovedgård,20,1375000.0,17-12-2000,Alm.,5705,7,Villa,241,2006,
+Engvangen 6B 8732 Hovedgård,0,1720804.0,14-12-2000,Alm.,7449,7,Villa,231,1992,
+Gl Århusvej 32 8732 Hovedgård,32,600000.0,12-12-2000,Fam.,2083,5,Villa,288,1802,
+Grumstrupvej 60 8732 Hovedgård,60,410381.0,27-11-2000,Alm.,0,3,Villa,112,1890,
+Lundgårdevej 15 8732 Hovedgård,15,2800000.0,20-11-2000,Alm.,12334,7,Stuehus,227,1993,
+Horsensvej 22 8732 Hovedgård,22,1000000.0,03-10-2000,Alm.,4545,6,Villa,220,1905,
+Horsensvej 28 8732 Hovedgård,28,1450000.0,27-09-2000,Alm.,8529,4,Villa,170,1919,
+Elbækvej 10 8732 Hovedgård,10,966000.0,19-09-2000,Alm.,8186,4,Villa,118,1962,
+Kirkevej 54 8732 Hovedgård,54,1899881.0,15-09-2000,Alm.,6354,8,Villa,299,1891,
+Oudrupgårdsvej 19 8732 Hovedgård,19,990000.0,30-08-2000,Auktion,5210,6,Villa,190,1920,
+Grumstrupvej 68 8732 Hovedgård,68,836000.0,21-08-2000,Alm.,6966,4,Villa,120,1913,
+Elbjergvej 55 8732 Hovedgård,55,90000.0,11-08-2000,Alm.,1836,2,Villa,49,1777,
+Gl Kattrupvej 85 8732 Hovedgård,85,670000.0,29-06-2000,Alm.,3582,5,Villa,187,1958,
+Gl Århusvej 46 8732 Hovedgård,46,818929.0,22-06-2000,Alm.,4094,8,Stuehus,200,1871,
+Præstevænget 15 8732 Hovedgård,15,928593.0,19-06-2000,Alm.,8928,4,Villa,104,1981,
+Ørridslevvej 4 8732 Hovedgård,4,895000.0,13-06-2000,Alm.,7991,4,Villa,112,1977,
+Vestergade 22 8732 Hovedgård,22,1045253.0,20-05-2000,Alm.,5743,9,Villa,182,1911,
+Engmosevej 5 8732 Hovedgård,5,579708.0,10-05-2000,Alm.,3293,8,Stuehus,176,1882,
+Grumstrupvej 8 8732 Hovedgård,8,1095000.0,14-04-2000,Alm.,4932,6,Villa,222,1877,
+Tornbjerg 60 8732 Hovedgård,60,1160000.0,16-03-2000,Alm.,6553,7,Villa,177,1977,
+Søndervænget 62 8732 Hovedgård,62,635000.0,08-03-2000,Alm.,7743,3,Villa,82,1968,
+Skråvej 3 8732 Hovedgård,3,501500.0,03-03-2000,Fam.,6348,3,Villa,79,1952,
+Industriområdet 6 8732 Hovedgård,6,3900000.0,11-02-2000,Alm.,102631,5,Industri o.l.,38,1987,
+Nylandsvej 1 8732 Hovedgård,1,278818.0,24-01-2000,Fam.,2323,4,Villa,120,1946,
+Gl Kattrupvej 54 8732 Hovedgård,54,2509000.0,12-01-2000,Fam.,12482,9,Stuehus,201,1936,
+Vandværksvej 3 8732 Hovedgård,3,720000.0,21-12-1999,Fam.,7200,3,Villa,100,1927,
+Horsensvej 13 8732 Hovedgård,13,935000.0,15-12-1999,Alm.,4155,6,Villa,225,1912,
+Gl Århusvej 31 8732 Hovedgård,31,1349406.0,23-11-1999,Alm.,5766,7,Villa,234,1870,
+Fruenshave 64 8732 Hovedgård,64,740000.0,05-11-1999,Alm.,6218,4,Villa,119,1972,
+Bakkevej 9 8732 Hovedgård,9,822398.0,01-11-1999,Alm.,7408,4,Villa,111,1957,
+Præstevænget 7 8732 Hovedgård,7,915499.0,23-09-1999,Alm.,8101,4,Villa,113,1971,
+Sogneskellet 24 8732 Hovedgård,24,832893.0,17-09-1999,Alm.,6663,4,Villa,125,1979,
+Troldkirkevej 5 8732 Hovedgård,5,425000.0,16-09-1999,Alm.,6071,2,Villa,70,1777,
+Grumstrupvej 64 8732 Hovedgård,64,485000.0,08-09-1999,Alm.,0,6,Villa,168,1900,
+Søndervænget 43 8732 Hovedgård,43,730000.0,01-09-1999,Alm.,0,4,Villa,115,1965,
+Tornbjerg 55 8732 Hovedgård,55,890000.0,01-09-1999,Alm.,6496,4,Villa,137,1974,
+Kattrupmade 13 8732 Hovedgård,13,775000.0,26-08-1999,Alm.,5871,2,Villa,132,1850,
+Tornbjerg 84 8732 Hovedgård,84,1212497.0,26-07-1999,Alm.,6154,7,Villa,197,1974,
+Hadrupvej 84 8732 Hovedgård,84,305000.0,05-07-1999,Alm.,2652,4,Villa,115,1827,
+Bakkevej 2 8732 Hovedgård,2,800000.0,07-06-1999,Alm.,0,6,Villa,200,1938,
+Vestergade 43 8732 Hovedgård,43,464350.0,16-05-1999,Alm.,2780,5,Villa,167,2008,
+Bakkevej 1 8732 Hovedgård,1,712000.0,09-05-1999,Alm.,3869,5,Villa,184,1938,
+Elbækvej 18 8732 Hovedgård,18,568097.0,04-05-1999,Alm.,5462,4,Villa,104,1900,
+Overby Skovvej 13 8732 Hovedgård,13,1150000.0,23-03-1999,Alm.,5693,5,Villa,202,2001,
+Præstevænget 34 8732 Hovedgård,34,1025435.0,12-03-1999,Alm.,5696,6,Villa,180,1974,
+Fruenshave 23 8732 Hovedgård,23,870383.0,17-01-1999,Alm.,6086,5,Villa,143,1973,
+Snareskovvej 7 8732 Hovedgård,7,220000.0,04-01-1999,Alm.,0,4,Villa,135,1780,
+Søndervænget 30 8732 Hovedgård,30,646936.0,16-12-1998,Alm.,7889,3,Villa,82,1964,
+Elbækvej 2 8732 Hovedgård,2,333285.0,09-12-1998,Fam.,0,6,Villa,168,1900,
+Tornbjerg 91 8732 Hovedgård,91,975000.0,09-11-1998,Alm.,5213,5,Villa,187,1974,
+Gl Kattrupvej 63 8732 Hovedgård,63,538200.0,27-10-1998,Alm.,0,8,Villa,277,1993,
+Sogneskellet 32 8732 Hovedgård,32,95000.0,20-10-1998,Alm.,693,4,Villa,137,1999,
+Elbjergvej 31 8732 Hovedgård,31,531647.0,23-09-1998,Alm.,4430,4,Villa,120,1907,
+Søndervænget 49 8732 Hovedgård,49,817004.0,31-08-1998,Alm.,0,4,Villa,131,1966,
+Troldkirkevej 1 8732 Hovedgård,1,1200000.0,18-08-1998,Alm.,6521,9,Villa,184,1850,
+Grumstrupvej 34 8732 Hovedgård,34,390000.0,12-08-1998,Alm.,0,3,Villa,101,1928,
+Gl Tebstrupvej 5 8732 Hovedgård,5,881820.0,06-08-1998,Alm.,6731,5,Villa,131,1912,
+Grumstrupvej 52 8732 Hovedgård,52,617000.0,16-07-1998,Alm.,0,5,Villa,163,1777,
+Elbjergvej 53 8732 Hovedgård,53,350000.0,30-06-1998,Fam.,3465,5,Villa,101,1935,
+Sogneskellet 19 8732 Hovedgård,19,32500.0,01-06-1998,Alm.,277,4,Villa,117,1999,
+Hedemølle Kirkevej 3 8732 Hovedgård,3,850000.0,29-05-1998,Alm.,4545,6,Stuehus,187,1911,
+Elbjergvej 24 8732 Hovedgård,24,860000.0,27-05-1998,Alm.,3822,7,Villa,225,1900,
+Tornbjerg 28 8732 Hovedgård,28,1072303.0,19-05-1998,Alm.,0,6,Villa,242,1976,
+Tornbjerg 77 8732 Hovedgård,77,1160000.0,23-04-1998,Alm.,3866,7,Villa,300,1974,
+Kærsholmvej 13 8732 Hovedgård,13,60000.0,20-04-1998,Alm.,392,3,Villa,153,2000,
+Kattrupmade 5 8732 Hovedgård,5,951305.0,25-03-1998,Alm.,0,10,Villa,247,1941,
+Elbækvej 13 8732 Hovedgård,13,513000.0,23-03-1998,Alm.,3946,11,Villa,130,1902,
+Elbjergvej 23 8732 Hovedgård,23,843000.0,15-03-1998,Alm.,0,5,Villa,167,1986,
+Tornbjerg 35 8732 Hovedgård,35,851655.0,23-02-1998,Alm.,0,5,Villa,161,1975,
+Hadrupvej 82 8732 Hovedgård,82,254575.0,16-01-1998,Alm.,0,6,Villa,242,1850,
+Espevej 10 8732 Hovedgård,10,1256383.0,18-12-1997,Alm.,0,6,Villa,206,1977,
+Sogneskellet 12B 8732 Hovedgård,0,683117.0,27-10-1997,Alm.,8988,3,Rækkehus,76,1990,
+Vestergade 65 8732 Hovedgård,65,850000.0,23-10-1997,Alm.,4250,7,Villa,200,1969,
+Elbækvej 1 8732 Hovedgård,1,1191000.0,20-10-1997,Alm.,5866,8,Villa,203,1877,
+Sogneskellet 28 8732 Hovedgård,28,703122.0,10-10-1997,Alm.,0,5,Villa,133,1980,
+Præstevænget 1 8732 Hovedgård,1,1050000.0,02-10-1997,Alm.,6000,6,Villa,175,1969,
+Vestergade 46 8732 Hovedgård,46,767120.0,26-09-1997,Alm.,4824,6,Villa,159,1912,
+Engmarksvej 50 8732 Hovedgård,50,1233197.0,16-09-1997,Alm.,5292,5,Villa,233,1869,
+Tornbjerg 58 8732 Hovedgård,58,175000.0,16-09-1997,Alm.,1223,5,Villa,143,1998,
+Fruenshave 12 8732 Hovedgård,12,1035211.0,04-08-1997,Alm.,5535,7,Villa,187,1970,
+Tornbjerg 57 8732 Hovedgård,57,993000.0,31-07-1997,Alm.,5516,6,Villa,180,1974,
+Grumstrupvej 66 8732 Hovedgård,66,498059.0,25-07-1997,Alm.,0,6,Villa,162,1900,
+Oudrupgårdsvej 10 8732 Hovedgård,10,839000.0,04-07-1997,Alm.,0,5,Villa,152,1955,
+Sogneskellet 59 8732 Hovedgård,59,10000.0,03-07-1997,Alm.,60,5,Villa,166,1998,
+Sogneskellet 20 8732 Hovedgård,20,110000.0,01-07-1997,Alm.,601,4,Villa,183,1997,
+Sogneskellet 57 8732 Hovedgård,57,60000.0,27-06-1997,Alm.,348,6,Villa,172,1998,
+Troldkirkevej 3 8732 Hovedgård,3,700000.0,13-06-1997,Fam.,6666,3,Stuehus,105,1911,
+Sogneskellet 17 8732 Hovedgård,17,67500.0,09-06-1997,Alm.,548,4,Villa,123,1998,
+Kattrupmade 2 8732 Hovedgård,2,450000.0,30-05-1997,Alm.,5844,3,Villa,77,1850,
+Vandværksvej 1 8732 Hovedgård,1,304900.0,21-05-1997,Alm.,0,3,Villa,85,1882,
+Sogneskellet 38 8732 Hovedgård,38,90000.0,12-05-1997,Alm.,502,4,Villa,179,2003,
+Elbækvej 16 8732 Hovedgård,16,4250000.0,18-04-1997,Fam.,0,10,Stuehus,357,1897,
+Tornbjerg 2 8732 Hovedgård,2,921000.0,17-04-1997,Alm.,5449,4,Villa,169,1974,
+Kråsigvej 15 8732 Hovedgård,15,1680000.0,31-03-1997,Fam.,10306,4,Stuehus,163,1867,
+Elbjergvej 32 8732 Hovedgård,32,45000.0,27-03-1997,Alm.,1000,2,Rækkehus,45,1777,
+Tornbjerg 94 8732 Hovedgård,94,930500.0,11-03-1997,Alm.,4561,6,Villa,204,1975,
+Horsensvej 1 8732 Hovedgård,1,578050.0,19-02-1997,Alm.,3753,4,Villa,154,1895,
+Østergade 16 8732 Hovedgård,16,418200.0,13-02-1997,Alm.,2788,6,Villa,150,1918,
+Tornbjerg 70 8732 Hovedgård,70,970000.0,12-02-1997,Alm.,6643,5,Villa,146,1987,
+Horsensvej 3 8732 Hovedgård,3,827000.0,07-02-1997,Alm.,6361,5,Villa,130,1924,
+Fruenshave 13 8732 Hovedgård,13,975000.0,06-02-1997,Alm.,4239,6,Villa,230,1973,
+Grumstrupvej 80 8732 Hovedgård,80,275000.0,14-01-1997,Alm.,0,5,Villa,112,1910,
+Gl Kattrupvej 39 8732 Hovedgård,39,798000.0,13-01-1997,Alm.,0,6,Villa,178,1917,
+Sogneskellet 2 8732 Hovedgård,2,110000.0,03-01-1997,Alm.,723,5,Villa,152,1998,
+Sogneskellet 6 8732 Hovedgård,6,120000.0,03-01-1997,Alm.,839,5,Villa,143,1997,
+Sogneskellet 43 8732 Hovedgård,43,105000.0,05-11-1996,Alm.,0,5,Villa,148,1997,
+Vedsletvej 11 8732 Hovedgård,11,625000.0,09-10-1996,Alm.,0,6,Villa,178,1914,
+Lundgårdevej 2 8732 Hovedgård,2,550000.0,06-09-1996,Alm.,3928,7,Villa,140,1934,
+Tornbjerg 14 8732 Hovedgård,14,781545.0,30-08-1996,Alm.,4854,4,Villa,161,1974,
+Kirkedalsvej 19 8732 Hovedgård,19,400000.0,27-08-1996,Fam.,0,7,Villa,229,1800,
+Horsensvej 7 8732 Hovedgård,7,453000.0,26-08-1996,Alm.,0,6,Villa,205,1910,
+Vestergade 31 8732 Hovedgård,31,296132.0,23-08-1996,Alm.,0,5,Villa,144,1900,
+Elbjergvej 51 8732 Hovedgård,51,601000.0,01-08-1996,Alm.,5834,3,Villa,103,1756,
+Bakkevej 7 8732 Hovedgård,7,375000.0,28-06-1996,Alm.,5514,2,Villa,68,1958,
+Søndervænget 17 8732 Hovedgård,17,740000.0,24-06-1996,Alm.,5481,5,Villa,135,1964,
+Sogneskellet 3 8732 Hovedgård,3,235000.0,18-06-1996,Alm.,0,6,Villa,201,1997,
+Tornbjerg 47 8732 Hovedgård,47,926000.0,29-05-1996,Alm.,5291,6,Villa,175,1974,
+Stationsvej 12 8732 Hovedgård,12,580000.0,22-04-1996,Alm.,3473,5,Villa,167,1964,
+Kirkevej 62 8732 Hovedgård,62,350000.0,11-04-1996,Alm.,2413,4,Villa,145,1907,
+Krøruplundvej 7 8732 Hovedgård,7,450000.0,05-03-1996,Alm.,2008,6,Villa,224,2002,
+Tornbjerg 13 8732 Hovedgård,13,547749.0,29-01-1996,Fam.,3777,5,Villa,145,1973,
+Frydsvej 11 8732 Hovedgård,11,35535.0,08-12-1995,Alm.,0,7,Villa,243,1996,
+Søndervænget 23 8732 Hovedgård,23,740500.0,07-12-1995,Alm.,5609,4,Villa,132,1966,
+Kirkedalsvej 6 8732 Hovedgård,6,500000.0,04-12-1995,Alm.,0,5,Villa,176,1910,
+Kirkedalsvej 2 8732 Hovedgård,2,1167000.0,01-09-1995,Alm.,0,8,Villa,220,1852,
+Kattrupmade 15 8732 Hovedgård,15,915000.0,31-08-1995,Alm.,7204,5,Stuehus,127,1917,
+Sogneskellet 21 8732 Hovedgård,21,621000.0,14-08-1995,Alm.,4704,5,Villa,132,1986,
+Kattrupmade 9 8732 Hovedgård,9,1369000.0,09-08-1995,Alm.,8100,5,Stuehus,169,1929,
+Skolebakken 2 8732 Hovedgård,2,450000.0,03-07-1995,Alm.,0,8,Villa,220,1900,
+Tornbjerg 44 8732 Hovedgård,44,840000.0,20-06-1995,Alm.,2896,8,Villa,290,1977,
+Grumstrupvej 12 8732 Hovedgård,12,510337.0,12-06-1995,Fam.,3189,4,Villa,160,1777,
+Hedemøllevej 19 8732 Hovedgård,19,1095000.0,30-05-1995,Alm.,8051,5,Stuehus,136,1951,
+Ørridslevvej 23 8732 Hovedgård,23,80250.0,06-04-1995,Alm.,565,5,Villa,142,1996,
+Grumstrupvej 78 8732 Hovedgård,78,250000.0,20-03-1995,Alm.,2427,5,Villa,103,1926,
+Vestergade 49 8732 Hovedgård,49,629000.0,13-03-1995,Alm.,2953,6,Villa,213,1948,
+Søndervænget 13 8732 Hovedgård,13,280500.0,02-01-1995,Fam.,0,5,Villa,138,1965,
+Krøruplundvej 15 8732 Hovedgård,15,435000.0,27-12-1994,Alm.,3041,5,Villa,143,1975,
+Gl Kattrupvej 62 8732 Hovedgård,62,255000.0,20-12-1994,Alm.,1961,4,Villa,130,1966,
+Fruenshave 10 8732 Hovedgård,10,788000.0,25-11-1994,Alm.,4329,6,Villa,182,1971,
+Tornbjerg 76 8732 Hovedgård,76,360000.0,17-10-1994,Alm.,3076,5,Rækkehus,117,1974,
+Tornbjerg 18 8732 Hovedgård,18,495000.0,01-10-1994,Alm.,0,5,Villa,128,1975,
+Gl Kattrupvej 60 8732 Hovedgård,60,235000.0,21-07-1994,Alm.,0,3,Villa,149,1965,
+Krogstrupvej 165 8732 Hovedgård,165,387773.0,18-06-1994,Alm.,2084,6,Villa,186,2012,
+Ballebovej 9 8732 Hovedgård,9,190000.0,03-06-1994,Alm.,2638,2,Villa,72,1912,
+Horsensvej 14 8732 Hovedgård,14,240000.0,18-05-1994,Alm.,2123,4,Rækkehus,113,1952,
+Lundgårdevej 4 8732 Hovedgård,4,635000.0,12-05-1994,Alm.,3175,6,Villa,200,1827,
+Præstevænget 36 8732 Hovedgård,36,600000.0,07-05-1994,Alm.,4081,5,Villa,147,1978,
+Tornbjerg 39 8732 Hovedgård,39,463360.0,27-04-1994,Fam.,4412,4,Villa,105,1975,
+Fruenshave 33 8732 Hovedgård,33,745000.0,04-04-1994,Alm.,4382,7,Villa,170,1973,
+Kirkedalsvej 14 8732 Hovedgård,14,819000.0,02-04-1994,Alm.,0,9,Villa,322,1852,
+Espevej 8 8732 Hovedgård,8,895000.0,12-03-1994,Alm.,3254,8,Villa,275,1820,
+Elbjergvej 49 8732 Hovedgård,49,300000.0,28-02-1994,Alm.,0,3,Villa,131,1969,
+Grumstrupvej 82 8732 Hovedgård,82,390000.0,10-02-1994,Alm.,3333,5,Villa,117,1906,
+Vestergade 16 8732 Hovedgård,16,288750.0,15-01-1994,Alm.,1159,11,Villa,249,1907,
+Tornbjerg 65 8732 Hovedgård,65,735362.0,09-12-1993,Alm.,3830,6,Villa,192,1979,
+Kirkevej 43 8732 Hovedgård,43,650000.0,15-11-1993,Alm.,0,7,Villa,195,1870,
+Tornbjerg 56 8732 Hovedgård,56,505000.0,29-10-1993,Alm.,3914,4,Villa,129,1974,
+Elbjergvej 25 8732 Hovedgård,25,549454.0,15-10-1993,Fam.,5183,4,Villa,106,1751,
+Gl Århusvej 53 8732 Hovedgård,53,200000.0,14-10-1993,Alm.,3030,4,Villa,66,1900,
+Tornbjerg 1C 8732 Hovedgård,0,460000.0,05-10-1993,Alm.,5111,4,Rækkehus,90,1981,
+Engvangen 1 8732 Hovedgård,1,345315.0,28-09-1993,Alm.,0,5,Villa,162,1908,
+Horsensvej 1A 8732 Hovedgård,0,560947.0,08-09-1993,Alm.,3714,5,Villa,151,1978,
+Vestergade 44 8732 Hovedgård,44,390000.0,17-08-1993,Alm.,2468,5,Villa,158,1900,
+Fruenshave 21 8732 Hovedgård,21,564000.0,13-08-1993,Alm.,4440,5,Villa,127,1973,
+Tornbjerg 26 8732 Hovedgård,26,619000.0,28-07-1993,Alm.,4126,5,Villa,150,1973,
+Tornbjerg 63 8732 Hovedgård,63,590200.0,02-07-1993,Alm.,3073,7,Villa,192,1974,
+Søndervænget 58 8732 Hovedgård,58,449600.0,24-06-1993,Alm.,0,4,Villa,169,1968,
+Grumstrupvej 16 8732 Hovedgård,16,240000.0,21-06-1993,Fam.,2580,3,Villa,93,1930,
+Tornbjerg 73 8732 Hovedgård,73,665234.0,21-06-1993,Alm.,3801,6,Villa,175,1974,
+Grumstrupvej 13 8732 Hovedgård,13,500000.0,12-02-1993,Alm.,2293,7,Stuehus,218,2006,
+Fruenshave 28 8732 Hovedgård,28,685445.0,22-12-1992,Alm.,3939,5,Villa,174,1972,
+Præstevænget 5 8732 Hovedgård,5,460000.0,18-12-1992,Alm.,0,5,Villa,128,1977,
+Vestergade 54 8732 Hovedgård,54,490000.0,11-11-1992,Alm.,2258,7,Villa,217,1920,
+Gl Kattrupvej 46 8732 Hovedgård,46,102629.0,14-09-1992,Alm.,0,5,Villa,111,1908,
+Kirkevej 56 8732 Hovedgård,56,269656.0,07-09-1992,Alm.,1634,5,Villa,165,1954,
+P C Jensensvej 2 8732 Hovedgård,2,301108.0,26-08-1992,Alm.,2230,5,Villa,135,1920,
+Gl Kattrupvej 58 8732 Hovedgård,58,430000.0,09-07-1992,Alm.,3771,3,Villa,114,1964,
+Præstevænget 38 8732 Hovedgård,38,511500.0,12-06-1992,Alm.,3706,5,Villa,138,1973,
+Vinkelvej 8 8732 Hovedgård,8,570000.0,09-06-1992,Alm.,0,7,Villa,226,1922,
+Grumstrupvej 57 8732 Hovedgård,57,25000.0,10-05-1992,Alm.,164,6,Villa,152,1992,
+Gl Kattrupvej 69 8732 Hovedgård,69,575000.0,03-05-1992,Alm.,4674,7,Villa,123,1915,
+Elbækvej 20 8732 Hovedgård,20,330000.0,24-04-1992,Alm.,0,7,Villa,191,1910,
+Overby Skovvej 7 8732 Hovedgård,7,443000.0,13-04-1992,Alm.,0,7,Villa,225,1850,
+Grumstrupvej 32 8732 Hovedgård,32,1641500.0,01-04-1992,Fam.,9119,7,Stuehus,180,1852,
+Sogneskellet 4 8732 Hovedgård,4,710000.0,17-03-1992,Alm.,6826,4,Villa,104,1987,
+Tornbjerg 17 8732 Hovedgård,17,598000.0,23-02-1992,Alm.,4124,5,Villa,145,1974,
+Ballebovej 4 8732 Hovedgård,4,735000.0,18-02-1992,Alm.,0,8,Stuehus,285,1897,
+Engvangen 6A 8732 Hovedgård,0,1025000.0,05-02-1992,Alm.,0,8,Villa,252,1987,
+Søndervænget 69 8732 Hovedgård,69,710000.0,16-01-1992,Alm.,4965,5,Villa,143,1972,

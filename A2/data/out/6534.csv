@@ -1,0 +1,479 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Bovvej 20 6534 Agerskov,20,895000.0,10-05-2017,Alm.,3729,5,Stuehus,240,1923,
+Snedvej 1 6534 Agerskov,1,315000.0,10-04-2017,Alm.,3214,4,Villa,98,1949,-20 %
+Boldershøj 32 6534 Agerskov,32,597500.0,22-03-2017,Alm.,4064,6,Villa,147,1969,-14 %
+Bispelunden 6 6534 Agerskov,6,550000.0,02-03-2017,Alm.,3666,6,Villa,150,1981,-8 %
+Byggebjerg 23 6534 Agerskov,23,830000.0,26-01-2017,Alm.,5187,6,Villa,160,1979,
+Vestagervej 7 6534 Agerskov,7,3000000.0,13-12-2016,Fam.,11673,6,Stuehus,257,1980,
+Boldershøj 13 6534 Agerskov,13,335000.0,21-10-2016,Alm.,3350,5,Villa,100,1965,-15 %
+Goldbækvej 4 6534 Agerskov,4,1025000.0,19-10-2016,Alm.,4253,6,Villa,241,1980,-21 %
+Nitriskærvej 9 6534 Agerskov,9,3998980.0,13-10-2016,Alm.,16662,6,Stuehus,240,1928,
+Hovedgaden 4 6534 Agerskov,4,760000.0,03-10-2016,Alm.,3015,12,Villa,252,1952,-4 %
+Engeriis 7 6534 Agerskov,7,799000.0,25-09-2016,Alm.,7263,3,Villa,110,1975,0 %
+Bjørnskovvej 2 6534 Agerskov,2,1150000.0,22-09-2016,Alm.,7232,7,Villa,159,1938,-4 %
+Horsbygvej 3 6534 Agerskov,3,1075000.0,18-09-2016,Alm.,5598,5,Villa,192,1900,-2 %
+Bytoften 11 6534 Agerskov,11,475000.0,05-09-2016,Alm.,4318,4,Villa,110,1970,-13 %
+Nørregade 8 6534 Agerskov,8,675000.0,28-08-2016,Alm.,4500,4,Villa,150,1938,-3 %
+Bytoften 9 6534 Agerskov,9,400000.0,24-08-2016,Alm.,3333,4,Villa,120,1969,
+Sønderbyen 19 6534 Agerskov,19,300000.0,20-07-2016,Alm.,2608,4,Villa,115,1969,
+Bytoften 22 6534 Agerskov,22,425000.0,19-07-2016,Alm.,3035,4,Villa,140,1969,-6 %
+Gammel Agerskovvej 6 6534 Agerskov,6,516000.0,07-07-2016,Alm.,3969,4,Villa,130,1965,
+Bovlund Bjergvej 41 6534 Agerskov,41,1555000.0,24-06-2016,Alm.,9040,7,Villa,172,1929,-3 %
+Gammelskovvej 6 6534 Agerskov,6,1325000.0,21-06-2016,Alm.,5862,6,Villa,226,1948,-7 %
+Bovvej 18 6534 Agerskov,18,4500000.0,15-06-2016,Alm.,28846,5,Villa,156,1800,
+Bytoften 28 6534 Agerskov,28,460000.0,23-05-2016,Alm.,3484,5,Villa,132,1969,-23 %
+Gammel Tøndervej 17 6534 Agerskov,17,1325000.0,11-05-2016,Alm.,6162,5,Stuehus,215,1787,-11 %
+Lillebjergvej 4 6534 Agerskov,4,200000.0,10-05-2016,Alm.,833,8,Stuehus,240,1951,-90 %
+Vesterhedevej 13 6534 Agerskov,13,85000.0,10-05-2016,Alm.,696,3,Villa,122,1877,
+Hovedgaden 7 6534 Agerskov,7,585000.0,04-05-2016,Alm.,2896,8,BygningTilHandel,202,1927,
+Gammel Tøndervej 25A 6534 Agerskov,0,550000.0,02-05-2016,Alm.,1923,6,Villa,286,1900,-19 %
+Østergårdvej 3 6534 Agerskov,3,15900000.0,19-04-2016,Alm.,58888,6,Stuehus,270,1977,
+Bjørnskovvej 1 6534 Agerskov,1,106000.0,13-04-2016,Fam.,634,5,Stuehus,167,1963,
+Engeriis 54 6534 Agerskov,54,985000.0,11-04-2016,Alm.,7242,5,Villa,136,1973,-1 %
+Åbakken 13 6534 Agerskov,13,650000.0,26-02-2016,Alm.,4012,5,Villa,162,1975,-6 %
+Engeriis 49 6534 Agerskov,49,700000.0,05-02-2016,Alm.,4516,5,Villa,155,1974,-3 %
+Vesterhedevej 3 6534 Agerskov,3,2200000.0,12-01-2016,Alm.,11000,7,Villa,200,2007,-2 %
+Kirkevej 9 6534 Agerskov,9,245000.0,22-12-2015,Alm.,2552,4,Villa,96,1940,-17 %
+Gammel Tøndervej 19 6534 Agerskov,19,656083.0,18-12-2015,Alm.,4000,6,Stuehus,164,1870,
+Oksgårdvej 1 6534 Agerskov,1,44955000.0,09-11-2015,Auktion,149850,11,Stuehus,300,1856,
+Vellerupvej 5 6534 Agerskov,5,393000.0,05-10-2015,Alm.,2787,5,Villa,141,1902,
+Åbakken 17 6534 Agerskov,17,650000.0,17-09-2015,Alm.,4887,4,Villa,133,1976,-4 %
+Vellerupvej 54 6534 Agerskov,54,1346000.0,15-09-2015,Alm.,5427,8,Stuehus,248,1980,-10 %
+Gammel Tøndervej 26 6534 Agerskov,26,1195000.0,04-09-2015,Alm.,5975,9,Stuehus,200,1969,
+Nitriskærvej 13 6534 Agerskov,13,411576.0,16-08-2015,Fam.,2655,6,Stuehus,155,1951,
+Bytoften 14 6534 Agerskov,14,475000.0,10-07-2015,Alm.,3682,4,Villa,129,1973,-10 %
+Dalgårdsvej 1 6534 Agerskov,1,1800000.0,02-07-2015,Alm.,9375,5,Stuehus,192,1937,-10 %
+Nitriskærvej 7 6534 Agerskov,7,788732.0,01-07-2015,Fam.,6309,4,Stuehus,125,1925,
+Vellerupvej 26 6534 Agerskov,26,480000.0,25-06-2015,Alm.,2774,6,Villa,173,2016,
+Nørregade 29 6534 Agerskov,29,453281.0,24-06-2015,Fam.,2780,5,Villa,163,1941,
+Engtoften 13 6534 Agerskov,13,960000.0,17-06-2015,Alm.,7328,4,Villa,131,1973,
+Engeriis 58 6534 Agerskov,58,460000.0,22-05-2015,Alm.,3833,4,Villa,120,1976,-7 %
+Vestagervej 6 6534 Agerskov,6,169493.0,21-05-2015,Fam.,634,9,Villa,267,1804,
+Engeriis 12C 6534 Agerskov,0,1325000.0,19-05-2015,Alm.,7240,8,Villa,183,1987,-14 %
+Møllevang 15 6534 Agerskov,15,235000.0,16-03-2015,Alm.,3263,2,Villa,72,1980,-15 %
+Rangstrupvej 13 6534 Agerskov,13,862500.0,09-03-2015,Alm.,4312,6,Stuehus,200,1938,
+Gammelskovvej 14 6534 Agerskov,14,7055000.0,06-03-2015,Alm.,23055,8,Stuehus,306,1910,-41 %
+Lille Oksgårdvej 3 6534 Agerskov,3,2298376.0,26-02-2015,Alm.,20161,4,Stuehus,114,1932,
+Nørregade 23 6534 Agerskov,23,433500.0,22-02-2015,Fam.,2851,4,Villa,152,1948,
+Nørregade 21 6534 Agerskov,21,520000.0,08-02-2015,Alm.,5416,3,Villa,96,1963,-10 %
+Sønderbyen 10 6534 Agerskov,10,77582.0,29-01-2015,Alm.,698,2,Villa,111,2016,
+Gammel Tøndervej 36 6534 Agerskov,36,2830000.0,20-11-2014,Alm.,12198,9,Stuehus,232,1899,
+Mellerupvej 13 6534 Agerskov,13,220000.0,20-11-2014,Alm.,2291,4,Villa,96,1962,-25 %
+Mellerupvej 17 6534 Agerskov,17,447500.0,30-10-2014,Alm.,2983,6,Villa,150,1946,
+Bovlund Nymarksvej 6 6534 Agerskov,6,2040000.0,25-09-2014,Fam.,17894,4,Stuehus,114,1904,
+Åbakken 20 6534 Agerskov,20,870000.0,02-09-2014,Alm.,6590,4,Villa,132,1974,-3 %
+Åbakken 38 6534 Agerskov,38,400000.0,25-08-2014,Fam.,2500,6,Villa,160,1974,
+Rangstrupvej 20 6534 Agerskov,20,1090000.0,19-08-2014,Alm.,4739,6,Stuehus,230,1905,
+Sønderbyen 17 6534 Agerskov,17,990000.0,31-07-2014,Alm.,5928,7,Villa,167,1954,0 %
+Vellerupvej 21 6534 Agerskov,21,690000.0,10-06-2014,Alm.,8313,3,Villa,83,1946,-4 %
+Nitriskærvej 18 6534 Agerskov,18,2150000.0,02-06-2014,Fam.,16796,4,Stuehus,128,1930,
+Engtoften 6 6534 Agerskov,6,705000.0,27-05-2014,Alm.,5183,5,Villa,136,1972,-11 %
+Nørregade 14 6534 Agerskov,14,300000.0,26-05-2014,Fam.,2500,4,Villa,120,1963,
+Sønderbyen 15 6534 Agerskov,15,450000.0,30-04-2014,Alm.,2601,6,Villa,173,1946,-5 %
+Engtoften 2 6534 Agerskov,2,940000.0,23-03-2014,Alm.,5402,6,Villa,174,1972,-3 %
+Hovedgaden 47 6534 Agerskov,47,775000.0,24-02-2014,Alm.,5457,5,Villa,142,1877,
+Hyrupvej 34 6534 Agerskov,34,725000.0,29-01-2014,Fam.,3419,7,Stuehus,212,1939,
+Gammel Tøndervej 30 6534 Agerskov,30,3985000.0,16-01-2014,Alm.,56928,3,Stuehus,70,1850,
+Vellerupvej 15 6534 Agerskov,15,1085000.0,14-01-2014,Alm.,5864,6,Villa,185,1969,-4 %
+Strandelhjørnvej 7 6534 Agerskov,7,95000.0,10-01-2014,Alm.,855,4,Villa,111,1942,-62 %
+Engeriis 29 6534 Agerskov,29,387070.0,04-12-2013,Alm.,2846,4,Villa,136,1973,
+Branderupvej 11 6534 Agerskov,11,695000.0,18-10-2013,Alm.,4483,5,Villa,155,1939,0 %
+Bovvej 42 6534 Agerskov,42,125000.0,02-10-2013,Alm.,675,7,Stuehus,185,1914,
+Bovlund Bjergvej 49 6534 Agerskov,49,66000.0,01-10-2013,Alm.,532,3,Villa,124,1900,
+Engeriis 40 6534 Agerskov,40,950000.0,27-09-2013,Alm.,5621,5,Villa,169,1973,-13 %
+Branderupvej 25 6534 Agerskov,25,330000.0,09-09-2013,Alm.,2619,3,Villa,126,1943,-12 %
+Vesterhedevej 9 6534 Agerskov,9,1550000.0,19-08-2013,Alm.,5308,10,Villa,292,1980,-9 %
+Boldershøj 1 6534 Agerskov,1,200000.0,19-08-2013,Alm.,1886,4,Villa,106,1963,-48 %
+Nørregade 13 6534 Agerskov,13,320000.0,06-08-2013,Alm.,3333,5,Villa,96,1959,-19 %
+Gammelskovvej 9 6534 Agerskov,9,14999150.0,01-08-2013,Alm.,49831,9,Stuehus,301,1926,
+Bispelunden 31 6534 Agerskov,31,48450.0,04-07-2013,Alm.,336,5,Villa,144,2013,
+Sønderbyen 18 6534 Agerskov,18,645000.0,06-05-2013,Alm.,3839,6,Villa,168,1972,-7 %
+Bovvej 26 6534 Agerskov,26,1247000.0,03-05-2013,Alm.,8425,4,Stuehus,148,1951,
+Nørregade 24 6534 Agerskov,24,250000.0,10-04-2013,Alm.,2272,4,Villa,110,1966,
+Boldershøj 2 6534 Agerskov,2,300000.0,09-04-2013,Auktion,2380,4,Villa,126,1961,-37 %
+Boldershøj 22 6534 Agerskov,22,380000.0,07-04-2013,Alm.,3958,3,Villa,96,1965,-15 %
+Tinghøjvej 3 6534 Agerskov,3,70000.0,03-02-2013,Alm.,760,3,Villa,92,1878,
+Engeriis 13 6534 Agerskov,13,750000.0,18-12-2012,Alm.,6000,4,Villa,125,1978,
+Horsbygvej 18 6534 Agerskov,18,3091000.0,11-10-2012,Alm.,16268,8,Stuehus,190,1877,
+Branderupvej 23 6534 Agerskov,23,750000.0,05-10-2012,Alm.,5769,4,Villa,130,1941,-6 %
+Åbakken 2 6534 Agerskov,2,700000.0,05-10-2012,Alm.,5147,4,Villa,136,1976,-12 %
+Mellerupvej 12 6534 Agerskov,12,165000.0,05-10-2012,Alm.,825,8,Stuehus,200,1973,
+Mellerupvej 31 6534 Agerskov,31,900000.0,02-10-2012,Alm.,3383,8,Villa,266,1817,-8 %
+Boldershøj 6 6534 Agerskov,6,420000.0,03-09-2012,Alm.,4200,4,Villa,100,1966,-6 %
+Lerskovvej 2 6534 Agerskov,2,756000.0,23-08-2012,Alm.,6247,4,Stuehus,121,1911,
+Snedvej 6 6534 Agerskov,6,325000.0,20-08-2012,Auktion,1728,5,Villa,188,1949,-25 %
+Rangstrupvej 30 6534 Agerskov,30,9500000.0,15-08-2012,Alm.,57228,5,Stuehus,166,1946,
+Åbakken 11 6534 Agerskov,11,545000.0,06-08-2012,Alm.,3892,5,Villa,140,1976,0 %
+Vesterhedevej 5 6534 Agerskov,5,275000.0,17-07-2012,Alm.,1697,5,Villa,162,2013,
+Mellerupvej 18 6534 Agerskov,18,750000.0,16-05-2012,Alm.,4807,6,Villa,156,1954,-6 %
+Branderupvej 29 6534 Agerskov,29,625000.0,19-03-2012,Alm.,4921,4,Villa,127,1943,0 %
+Bytoften 26 6534 Agerskov,26,788253.0,01-03-2012,Alm.,5436,6,Villa,145,1968,
+Tingbjerg 5 6534 Agerskov,5,76000.0,17-01-2012,Alm.,365,5,Villa,208,2012,
+Bovvej 32 6534 Agerskov,32,3490000.0,05-01-2012,Alm.,26439,4,Stuehus,132,1850,
+Lillebjergvej 1A 6534 Agerskov,0,9288750.0,22-12-2011,Fam.,39695,8,Stuehus,234,2000,
+Nitriskærvej 1B 6534 Agerskov,0,6260000.0,16-11-2011,Alm.,42013,4,Villa,149,2014,
+Bovvej 27 6534 Agerskov,27,710000.0,08-11-2011,Alm.,4765,3,Stuehus,149,1952,
+Højsetvej 5 6534 Agerskov,5,78435.0,04-10-2011,Alm.,509,5,Villa,154,1933,
+Højsetvej 6 6534 Agerskov,6,86565.0,04-10-2011,Alm.,308,7,Stuehus,281,1938,
+Hovedgaden 11 6534 Agerskov,11,650000.0,28-09-2011,Alm.,3023,5,Villa,215,2013,-18 %
+Bispelunden 5 6534 Agerskov,5,1000000.0,25-09-2011,Alm.,5847,5,Villa,171,1980,-16 %
+Lille Oksgårdvej 1 6534 Agerskov,1,675000.0,05-07-2011,Alm.,4591,5,Stuehus,147,1932,
+Boldershøj 15 6534 Agerskov,15,467500.0,17-05-2011,Fam.,4174,4,Villa,112,1965,
+Højsetvej 7 6534 Agerskov,7,1600000.0,09-05-2011,Alm.,3883,8,Villa,412,1933,
+Engtoften 10A 6534 Agerskov,0,440000.0,29-04-2011,Alm.,2716,4,Villa,162,1977,
+Bjørnskovvej 9 6534 Agerskov,9,669869.0,15-04-2011,Alm.,3452,7,Villa,194,1877,
+Boldershøj 7 6534 Agerskov,7,337500.0,09-03-2011,Alm.,2743,4,Villa,123,1966,-51 %
+Gammel Oksevej 1 6534 Agerskov,1,2000000.0,08-03-2011,Alm.,21052,4,Stuehus,95,1870,
+Jørgensbyvej 22 6534 Agerskov,22,1645000.0,08-02-2011,Alm.,6970,6,Stuehus,236,1920,-6 %
+Snedvej 7 6534 Agerskov,7,480000.0,04-02-2011,Alm.,4752,4,Rækkehus,101,1976,-9 %
+Hyrupvej 36 6534 Agerskov,36,800000.0,23-12-2010,Alm.,0,8,Villa,231,1957,-6 %
+Bispelunden 1 6534 Agerskov,1,573500.0,21-12-2010,Andet,3475,5,Villa,165,1980,
+Hovedgaden 48 6534 Agerskov,48,375000.0,21-10-2010,Auktion,1973,8,Villa,190,1910,
+Vellerupvej 14 6534 Agerskov,14,725515.0,05-10-2010,Alm.,7328,5,Villa,99,1957,
+Branderupvej 18 6534 Agerskov,18,250000.0,30-08-2010,Alm.,1666,4,Villa,150,1955,-37 %
+Tværgade 4 6534 Agerskov,4,1275000.0,28-08-2010,Alm.,3984,9,Villa,320,1971,7 %
+Hovedgaden 17 6534 Agerskov,17,230000.0,26-08-2010,Auktion,1586,4,Villa,145,1900,-54 %
+Bytoften 10 6534 Agerskov,10,560000.0,24-08-2010,Fam.,7368,4,Villa,76,1968,
+Bytoften 18 6534 Agerskov,18,895000.0,03-08-2010,Alm.,4589,6,Villa,195,1969,-8 %
+Sønderbyen 16 6534 Agerskov,16,635000.0,24-06-2010,Alm.,4669,5,Villa,136,1974,-2 %
+Bovvej 19 6534 Agerskov,19,458500.0,07-06-2010,Andet,4495,4,Villa,102,1934,
+Nørregade 34 6534 Agerskov,34,590000.0,05-05-2010,Alm.,5900,4,Villa,100,1962,-9 %
+Gammelskovvej 3 6534 Agerskov,3,186210.0,19-04-2010,Alm.,782,6,Stuehus,238,1952,
+Tingbjerg 11 6534 Agerskov,11,90000.0,22-03-2010,Alm.,443,5,Villa,203,2012,
+Østergårdvej 2 6534 Agerskov,2,669171.0,21-03-2010,Alm.,2698,7,Stuehus,248,1988,
+Bedstedvej 4 6534 Agerskov,4,598000.0,20-03-2010,Alm.,4271,5,Stuehus,140,1877,
+Jørgensbyvej 3 6534 Agerskov,3,320000.0,01-03-2010,Fam.,2831,4,Villa,113,1962,
+Engeriis 38 6534 Agerskov,38,795000.0,24-02-2010,Alm.,6022,4,Villa,132,1973,-4 %
+Gammel Tøndervej 5 6534 Agerskov,5,430000.0,19-02-2010,Alm.,6142,3,Villa,70,1955,-4 %
+Åbakken 15 6534 Agerskov,15,685000.0,27-01-2010,Alm.,5111,3,Villa,134,1975,-8 %
+Horsbygvej 1 6534 Agerskov,1,382500.0,27-01-2010,Fam.,3187,4,Villa,120,1973,
+Gammel Oksevej 4 6534 Agerskov,4,3250000.0,27-01-2010,Alm.,11168,7,Villa,291,2004,0 %
+Mellerupvej 9 6534 Agerskov,9,625000.0,14-12-2009,Fam.,5296,4,Villa,118,1962,
+Sønderbyen 27 6534 Agerskov,27,1200000.0,05-12-2009,Alm.,4444,7,Villa,270,1923,-16 %
+Goldbækvej 1 6534 Agerskov,1,1970000.0,18-11-2009,Alm.,7786,9,Stuehus,253,1971,-1 %
+Bispelunden 10 6534 Agerskov,10,1095000.0,06-11-2009,Alm.,6186,5,Villa,177,1978,-8 %
+Engeriis 12B 6534 Agerskov,0,1075000.0,02-11-2009,Alm.,7312,5,Villa,147,1986,-4 %
+Vellerupvej 33 6534 Agerskov,33,2000000.0,14-10-2009,Alm.,9302,8,Stuehus,215,1954,43 %
+Bedstedvej 8 6534 Agerskov,8,1208021.0,30-09-2009,Alm.,6637,7,Stuehus,182,1929,
+Horsbygvej 20 6534 Agerskov,20,145000.0,28-09-2009,Auktion,906,5,Villa,160,1956,
+Vellerupvej 4 6534 Agerskov,4,147000.0,17-08-2009,Auktion,1597,2,Villa,92,1875,
+Gammel Agerskovvej 7 6534 Agerskov,7,950000.0,25-06-2009,Fam.,5792,6,Villa,164,1983,
+Nørregade 30 6534 Agerskov,30,970000.0,05-05-2009,Alm.,6466,6,Villa,150,1963,-3 %
+Engeriis 37 6534 Agerskov,37,410000.0,27-04-2009,Auktion,2992,6,Villa,137,1974,
+Engeriis 5 6534 Agerskov,5,1295000.0,10-04-2009,Alm.,7848,5,Villa,165,1973,-4 %
+Mellerupvej 3 6534 Agerskov,3,572000.0,05-04-2009,Alm.,5607,5,Villa,102,1946,0 %
+Engeriis 51 6534 Agerskov,51,734000.0,19-03-2009,Alm.,4860,4,Villa,151,1979,-11 %
+Engtoften 20 6534 Agerskov,20,1008000.0,02-03-2009,Fam.,5727,6,Villa,176,1973,
+Gammel Tøndervej 6 6534 Agerskov,6,270978.0,04-02-2009,Alm.,2945,4,Villa,92,1947,-19 %
+Sønderbyen 42 6534 Agerskov,42,635000.0,22-01-2009,Alm.,4319,4,Villa,147,1970,-9 %
+Lillebjergvej 1B 6534 Agerskov,0,357000.0,04-01-2009,Fam.,4462,3,Villa,80,1897,
+Over Jerstalvej 227 6534 Agerskov,227,260000.0,22-12-2008,Alm.,1300,6,Villa,200,1827,-67 %
+Lerskovvej 4 6534 Agerskov,4,750000.0,19-12-2008,Alm.,3232,4,Villa,232,2012,
+Vesterhedevej 7A 6534 Agerskov,0,275000.0,24-11-2008,Alm.,1617,5,Villa,170,2011,
+Gammelskovvej 16 6534 Agerskov,16,1700000.0,15-10-2008,Alm.,6227,7,Villa,273,1890,-8 %
+Gammel Tøndervej 10 6534 Agerskov,10,325000.0,12-10-2008,Alm.,2777,5,Villa,117,1912,-13 %
+Hovedgaden 57 6534 Agerskov,57,411511.0,02-10-2008,Alm.,2939,4,Villa,140,1940,
+Boldershøj 11 6534 Agerskov,11,600000.0,18-09-2008,Fam.,4347,5,Villa,138,1964,
+Lille Jørgensbyvej 10 6534 Agerskov,10,750000.0,18-09-2008,Alm.,5555,6,Villa,135,1964,-2 %
+Bispelunden 7 6534 Agerskov,7,975000.0,08-09-2008,Alm.,6055,5,Villa,161,1980,-9 %
+Hovedgaden 15A 6534 Agerskov,0,635000.0,29-07-2008,Alm.,5772,4,Villa,110,1967,-9 %
+Vellerupvej 34 6534 Agerskov,34,815000.0,28-07-2008,Alm.,6791,4,Villa,120,1972,
+Muspøtvej 2 6534 Agerskov,2,800000.0,20-07-2008,Fam.,8333,4,Villa,96,1937,
+Nørregade 33 6534 Agerskov,33,765000.0,15-07-2008,Alm.,4841,4,Villa,158,1934,-4 %
+Præstegårdsvej 20 6534 Agerskov,20,262420.0,02-06-2008,Alm.,827,10,Villa,317,1750,
+Bedstedvej 3 6534 Agerskov,3,598000.0,29-05-2008,Alm.,4124,5,Stuehus,145,1917,
+Snedvej 11 6534 Agerskov,11,600000.0,15-05-2008,Alm.,5607,4,Rækkehus,107,1976,-2 %
+Åbakken 6 6534 Agerskov,6,825000.0,06-05-2008,Alm.,5536,4,Villa,149,1974,-3 %
+Tværgade 2 6534 Agerskov,2,1150000.0,09-04-2008,Alm.,7666,5,Villa,150,1968,
+Gammel Tøndervej 29 6534 Agerskov,29,34500000.0,28-03-2008,Alm.,73248,15,Stuehus,471,1932,
+Gammel Tøndervej 32 6534 Agerskov,32,34500000.0,28-03-2008,Alm.,265384,6,Villa,130,1937,
+Engeriis 44 6534 Agerskov,44,865000.0,25-03-2008,Alm.,7393,4,Villa,117,1973,
+Sønderbyen 9 6534 Agerskov,9,850000.0,25-03-2008,Alm.,4802,6,Villa,177,1906,
+Boldershøj 3 6534 Agerskov,3,670000.0,19-03-2008,Alm.,5537,4,Villa,121,1966,-4 %
+Over Jerstalvej 234 6534 Agerskov,234,420000.0,14-03-2008,Alm.,2625,4,Villa,160,1955,-6 %
+Rangstrupvej 1B 6534 Agerskov,0,665000.0,24-01-2008,Alm.,4889,5,Villa,136,1955,
+Nørregade 7 6534 Agerskov,7,340000.0,23-01-2008,Fam.,2635,5,Villa,129,1938,
+Nørregade 12 6534 Agerskov,12,610000.0,21-01-2008,Alm.,4841,5,Villa,126,1960,-8 %
+Strandelhjørnvej 1 6534 Agerskov,1,381000.0,21-01-2008,Auktion,3527,5,Villa,108,1940,
+Strandelhjørnvej 5 6534 Agerskov,5,1200000.0,03-01-2008,Alm.,3582,8,Villa,335,1940,0 %
+Rangstrupvej 22 6534 Agerskov,22,1885000.0,03-01-2008,Alm.,7540,7,Stuehus,250,1927,
+Engtoften 4 6534 Agerskov,4,795000.0,22-12-2007,Alm.,5371,6,Villa,148,1972,0 %
+Gammelskovvej 1 6534 Agerskov,1,1400000.0,21-12-2007,Alm.,9090,6,Stuehus,154,1952,-7 %
+Hovedgaden 55 6534 Agerskov,55,400000.0,20-12-2007,Alm.,4444,4,Villa,90,1938,
+Vesterhedevej 7B 6534 Agerskov,0,300000.0,20-12-2007,Alm.,1345,5,Villa,223,2010,
+Bispelunden 2 6534 Agerskov,2,71442.0,19-12-2007,Alm.,408,4,Villa,175,2009,
+Bispelunden 8 6534 Agerskov,8,950000.0,13-11-2007,Alm.,6506,6,Villa,146,1979,
+Horsbygvej 5 6534 Agerskov,5,1050000.0,06-11-2007,Fam.,6907,6,Stuehus,152,1938,
+Vestagervej 9 6534 Agerskov,9,1030000.0,20-10-2007,Alm.,9363,5,Stuehus,110,1877,
+Rangstrupvej 15 6534 Agerskov,15,1235000.0,07-10-2007,Alm.,8071,6,Villa,153,1958,-5 %
+Vellerupvej 13 6534 Agerskov,13,755000.0,14-09-2007,Alm.,5392,5,Villa,140,1946,0 %
+Hovedgaden 2 6534 Agerskov,2,1220000.0,07-09-2007,Alm.,5837,7,Villa,209,1958,
+Engeriis 32 6534 Agerskov,32,463532.0,16-08-2007,Andet,2618,6,Villa,177,1974,
+Vellerupvej 6 6534 Agerskov,6,825000.0,18-07-2007,Alm.,6762,3,Villa,122,1925,-6 %
+Snedvej 4 6534 Agerskov,4,460000.0,06-07-2007,Alm.,4693,4,Villa,98,1956,-7 %
+Hovedgaden 22A 6534 Agerskov,0,700000.0,02-07-2007,Alm.,3626,5,Villa,193,1900,
+Bjørnskovvej 6 6534 Agerskov,6,995000.0,31-05-2007,Alm.,4671,8,Villa,213,1864,0 %
+Snedvej 5 6534 Agerskov,5,477000.0,04-03-2007,Fam.,4258,4,Villa,112,1956,
+Boldershøj 27 6534 Agerskov,27,670000.0,20-02-2007,Alm.,5317,4,Villa,126,1969,-14 %
+Boldershøj 30 6534 Agerskov,30,550000.0,19-02-2007,Alm.,5000,4,Villa,110,1970,-6 %
+Bytoften 14A 6534 Agerskov,0,264766.0,17-02-2007,Andet,2068,4,Villa,128,1973,
+Hovedgaden 39 6534 Agerskov,39,265000.0,12-02-2007,Fam.,1531,6,Villa,173,1903,
+Engeriis 24 6534 Agerskov,24,850000.0,08-02-2007,Alm.,6204,4,Villa,137,1973,-4 %
+Bovlund Bjergvej 45 6534 Agerskov,45,1325000.0,08-02-2007,Fam.,6625,4,Stuehus,200,1932,
+Engtoften 11 6534 Agerskov,11,1250000.0,10-12-2006,Alm.,6906,5,Villa,181,1973,
+Tingbjerg 13 6534 Agerskov,13,99138.0,30-10-2006,Alm.,635,4,Villa,156,2007,
+Møllevang 19 6534 Agerskov,19,350000.0,16-06-2006,Alm.,4794,2,Rækkehus,73,1980,
+Lille Jørgensbyvej 2 6534 Agerskov,2,800000.0,23-05-2006,Alm.,6504,3,Villa,123,1949,
+Jørgensbyvej 13 6534 Agerskov,13,527176.0,19-04-2006,Andet,2374,8,Stuehus,222,1880,
+Gårdelykkevej 6 6534 Agerskov,6,697000.0,04-04-2006,Fam.,3030,8,Villa,230,1900,
+Engeriis 14 6534 Agerskov,14,792500.0,24-03-2006,Alm.,5465,3,Villa,145,1974,
+Rangstrupvej 5 6534 Agerskov,5,925930.0,07-03-2006,Alm.,6012,6,Stuehus,154,1935,
+Møllevang 4A 6534 Agerskov,0,350000.0,01-03-2006,Alm.,5833,2,Rækkehus,60,1970,
+Bovvej 23 6534 Agerskov,23,710000.0,06-02-2006,Alm.,4551,8,Stuehus,156,1972,
+Over Jerstalvej 240A 6534 Agerskov,0,700000.0,20-12-2005,Alm.,4794,5,Villa,146,1977,
+Kirkevej 5 6534 Agerskov,5,400000.0,13-12-2005,Fam.,4444,4,Villa,90,1938,
+Branderupvej 14 6534 Agerskov,14,590000.0,26-11-2005,Alm.,4306,4,Villa,137,1969,
+Hovedgaden 29A 6534 Agerskov,0,719000.0,24-11-2005,Fam.,2797,7,Villa,257,1975,
+Engeriis 30 6534 Agerskov,30,1000000.0,13-11-2005,Alm.,4807,6,Villa,208,1974,
+Sønderbyen 36 6534 Agerskov,36,810000.0,03-11-2005,Alm.,5400,4,Villa,150,1977,
+Horsbygvej 9 6534 Agerskov,9,1600000.0,07-10-2005,Alm.,6956,6,Stuehus,230,1935,
+Hovedgaden 25 6534 Agerskov,25,450000.0,19-09-2005,Alm.,2250,6,Villa,200,1887,
+Nørregade 1 6534 Agerskov,1,325000.0,15-09-2005,Alm.,2272,6,Villa,143,1934,
+Hovedgaden 41A 6534 Agerskov,0,255400.0,20-07-2005,Alm.,4053,2,Rækkehus,63,1982,
+Boldershøj 10 6534 Agerskov,10,470000.0,08-07-2005,Alm.,3821,4,Villa,123,1966,
+Hovedgaden 50 6534 Agerskov,50,425000.0,03-07-2005,Alm.,4009,3,Villa,106,1898,
+Hovedgaden 41B 6534 Agerskov,0,176000.0,01-07-2005,Alm.,2838,2,Rækkehus,62,1982,
+Branderupvej 13 6534 Agerskov,13,600000.0,30-06-2005,Alm.,5454,5,Villa,110,1938,
+Præstegårdsvej 14 6534 Agerskov,14,795000.0,10-06-2005,Alm.,4344,7,Villa,183,1923,
+Boldershøj 19 6534 Agerskov,19,449000.0,07-06-2005,Alm.,4081,4,Villa,110,1965,
+Sønderbyen 7 6534 Agerskov,7,950000.0,30-05-2005,Alm.,3392,7,Villa,280,1940,
+Vellerupvej 37 6534 Agerskov,37,1125000.0,24-05-2005,Alm.,6987,5,Stuehus,161,1938,
+Gammel Tøndervej 8 6534 Agerskov,8,548252.0,09-05-2005,Alm.,3150,7,Villa,174,1914,
+Engeriis 25 6534 Agerskov,25,530000.0,15-04-2005,Alm.,2789,8,Villa,190,1977,
+Vesterhedevej 2 6534 Agerskov,2,117104.0,13-04-2005,Alm.,496,7,Villa,236,2006,
+Nørregade 5 6534 Agerskov,5,198821.0,09-04-2005,Alm.,1840,4,Villa,108,1962,
+Over Jerstalvej 229 6534 Agerskov,229,400000.0,18-03-2005,Alm.,1666,8,Villa,240,1930,
+Bytoften 24 6534 Agerskov,24,560000.0,14-03-2005,Alm.,4444,5,Villa,126,1969,
+Engeriis 26 6534 Agerskov,26,875000.0,06-03-2005,Alm.,5177,5,Villa,169,1973,
+Boldershøj 18 6534 Agerskov,18,425000.0,22-02-2005,Alm.,3728,4,Villa,114,1965,
+Engeriis 47 6534 Agerskov,47,765000.0,22-02-2005,Alm.,5100,4,Villa,150,1973,
+Engeriis 45 6534 Agerskov,45,830000.0,22-02-2005,Alm.,6434,5,Villa,129,1973,
+Bytoften 3 6534 Agerskov,3,435000.0,21-02-2005,Alm.,1812,8,Villa,240,1967,
+Gammel Tøndervej 34 6534 Agerskov,34,11442946.0,15-02-2005,Fam.,30843,15,Stuehus,371,1877,
+Jørgensbyvej 11 6534 Agerskov,11,900000.0,28-01-2005,Alm.,5555,5,Villa,162,1907,
+Engtoften 10B 6534 Agerskov,0,635000.0,20-01-2005,Alm.,4738,4,Villa,134,1980,
+Branderupvej 5 6534 Agerskov,5,275000.0,14-01-2005,Alm.,3819,2,Villa,72,1953,
+Sønderbyen 3 6534 Agerskov,3,250000.0,29-12-2004,Alm.,1196,7,Villa,209,1892,
+Engeriis 39 6534 Agerskov,39,650000.0,09-12-2004,Fam.,4166,4,Villa,156,1973,
+Højsetvej 11 6534 Agerskov,11,500000.0,12-11-2004,Alm.,3759,4,Villa,133,1827,
+Hyrupvej 61 6534 Agerskov,61,1402500.0,29-10-2004,Fam.,9226,5,Stuehus,152,1954,
+Vellerupvej 52 6534 Agerskov,52,231390.0,17-10-2004,Alm.,948,5,Villa,244,2005,
+Rangstrupvej 14 6534 Agerskov,14,375000.0,06-10-2004,Alm.,3472,3,Villa,108,1947,
+Bispelunden 43 6534 Agerskov,43,825000.0,05-10-2004,Alm.,6932,5,Villa,119,1980,
+Tingvej 35 6534 Agerskov,35,601792.0,05-10-2004,Alm.,7079,4,Stuehus,85,1897,
+Gårdelykkevej 4 6534 Agerskov,4,410000.0,04-10-2004,Alm.,3942,4,Stuehus,104,1890,
+Engeriis 31 6534 Agerskov,31,850000.0,17-09-2004,Alm.,4722,6,Villa,180,1973,
+Branderupvej 31 6534 Agerskov,31,525000.0,07-09-2004,Alm.,0,7,Villa,227,1944,
+Vellerupvej 43 6534 Agerskov,43,1175000.0,02-08-2004,Alm.,5934,7,Stuehus,198,2007,
+Vellerupvej 39 6534 Agerskov,39,975000.0,04-06-2004,Alm.,7169,5,Villa,136,2004,
+Horsbygvej 6 6534 Agerskov,6,240000.0,03-06-2004,Alm.,1875,4,Villa,128,1963,
+Fårhusvej 2 6534 Agerskov,2,246108.0,28-05-2004,Fam.,2278,4,Villa,108,1935,
+Bispelunden 20 6534 Agerskov,20,635000.0,17-05-2004,Alm.,4018,5,Villa,158,1979,
+Møllevang 2A 6534 Agerskov,0,1145455.0,02-05-2004,Alm.,19090,2,Rækkehus,60,1970,
+Vestagervej 4 6534 Agerskov,4,750000.0,15-04-2004,Alm.,3424,6,Stuehus,219,1915,
+Bispelunden 4 6534 Agerskov,4,720000.0,06-03-2004,Alm.,5034,5,Villa,143,1978,
+Vesterhedevej 1 6534 Agerskov,1,179604.0,27-02-2004,Alm.,1101,6,Villa,163,2004,
+Byggebjerg 3 6534 Agerskov,3,330427.0,17-02-2004,Andet,1909,6,Villa,173,1980,
+Gammelskovvej 10 6534 Agerskov,10,14550000.0,17-02-2004,Alm.,45754,9,Stuehus,318,1880,
+Jørgensbyvej 15 6534 Agerskov,15,420000.0,09-02-2004,Alm.,0,8,Villa,192,1880,
+Gammel Agerskovvej 4 6534 Agerskov,4,320000.0,05-02-2004,Alm.,2666,5,Villa,120,1920,
+Åbakken 9 6534 Agerskov,9,530000.0,20-12-2003,Alm.,4308,4,Villa,123,1974,
+Gammelskovvej 5 6534 Agerskov,5,600000.0,14-12-2003,Alm.,0,4,Villa,172,1900,
+Gårdelykkevej 2 6534 Agerskov,2,650000.0,11-12-2003,Alm.,3532,10,Ukendt,184,1912,
+Nørregade 31 6534 Agerskov,31,435000.0,29-11-2003,Fam.,3152,5,Villa,138,1969,
+Sønderbyen 12 6534 Agerskov,12,458100.0,15-10-2003,Alm.,4979,3,Villa,92,1963,
+Gårdelykkevej 7 6534 Agerskov,7,300026.0,10-10-2003,Alm.,2054,4,Villa,146,1926,
+Elvej 2 6534 Agerskov,2,300000.0,09-10-2003,Alm.,3260,4,Villa,92,1938,
+Sønderbyen 1 6534 Agerskov,1,775000.0,04-10-2003,Alm.,5236,4,Villa,148,1966,
+Mellerupvej 4 6534 Agerskov,4,1500000.0,17-09-2003,Alm.,7075,7,Stuehus,212,1920,
+Gammel Agerskovvej 1 6534 Agerskov,1,426195.0,26-08-2003,Alm.,2552,4,Villa,167,1903,
+Branderupvej 20 6534 Agerskov,20,280000.0,13-08-2003,Alm.,3888,2,Villa,72,1947,
+Nørregade 25 6534 Agerskov,25,300000.0,07-07-2003,Alm.,4477,2,Villa,67,1957,
+Rågevej 3 6534 Agerskov,3,247265.0,04-07-2003,Alm.,1463,4,Villa,169,1946,
+Boldershøj 26 6534 Agerskov,26,375000.0,27-06-2003,Alm.,3750,3,Villa,100,1964,
+Branderupvej 2 6534 Agerskov,2,306228.0,25-06-2003,Alm.,3780,2,Villa,81,1938,
+Åbakken 12 6534 Agerskov,12,450000.0,23-06-2003,Alm.,3571,4,Villa,126,1974,
+Østergårdvej 6 6534 Agerskov,6,1044000.0,23-05-2003,Alm.,4855,5,Stuehus,215,1900,
+Muspøtvej 3 6534 Agerskov,3,1493874.0,06-05-2003,Alm.,9828,5,Stuehus,152,1857,
+Bispelunden 44 6534 Agerskov,44,542936.0,12-02-2003,Alm.,3351,3,Villa,162,1986,
+Branderupvej 22 6534 Agerskov,22,3500000.0,13-01-2003,Auktion,17326,5,Stuehus,202,1976,
+Branderupvej 9 6534 Agerskov,9,435000.0,10-01-2003,Alm.,3717,4,Villa,117,1943,
+Bovlund Bjergvej 44 6534 Agerskov,44,115000.0,20-11-2002,Alm.,898,5,Stuehus,128,1906,
+Bispelunden 15 6534 Agerskov,15,759000.0,14-11-2002,Alm.,5622,4,Villa,135,1978,
+"Hovedgaden 37, 1 6534 Agerskov",1,310601.0,29-09-2002,Alm.,2484,3,Lejlighed,125,1903,
+Gammel Agerskovvej 9 6534 Agerskov,9,400000.0,29-09-2002,Alm.,0,4,Villa,108,1931,
+Åbakken 27 6534 Agerskov,27,500000.0,27-09-2002,Alm.,4065,4,Villa,123,1977,
+Gammelskovvej 19 6534 Agerskov,19,895000.0,27-09-2002,Alm.,5203,4,Villa,172,1850,
+Gammelskovvej 15 6534 Agerskov,15,7150000.0,20-09-2002,Alm.,37434,8,Stuehus,191,1900,
+Nitriskærvej 10 6534 Agerskov,10,285000.0,23-08-2002,Alm.,1759,5,Villa,162,1939,
+Gammel Tøndervej 13 6534 Agerskov,13,350000.0,06-08-2002,Alm.,2517,5,Villa,139,1956,
+Agerskov Kådner 3 6534 Agerskov,3,232340.0,20-06-2002,Alm.,2904,3,Villa,80,1730,
+Vellerupvej 58 6534 Agerskov,58,705000.0,17-06-2002,Alm.,5381,5,Villa,131,1934,
+Vellerupvej 8 6534 Agerskov,8,972000.0,21-05-2002,Alm.,5785,4,Villa,168,1927,
+Boldershøj 17 6534 Agerskov,17,440000.0,22-04-2002,Alm.,2156,6,Villa,204,1966,
+Mellerupvej 8 6534 Agerskov,8,140000.0,16-04-2002,Alm.,1750,4,Villa,80,1897,
+Boldershøj 20 6534 Agerskov,20,435000.0,22-03-2002,Alm.,4065,4,Villa,107,1963,
+Engeriis 22 6534 Agerskov,22,780335.0,19-03-2002,Alm.,5100,5,Villa,153,1973,
+Bispelunden 19 6534 Agerskov,19,710000.0,08-03-2002,Alm.,4733,5,Villa,150,1985,
+Nitriskærvej 11 6534 Agerskov,11,650000.0,01-03-2002,Alm.,4012,6,Stuehus,162,1950,
+Åbakken 1 6534 Agerskov,1,725000.0,20-02-2002,Alm.,4647,5,Villa,156,1977,
+Vellerupvej 18 6534 Agerskov,18,357000.0,02-01-2002,Fam.,3051,3,Villa,117,1969,
+Over Jerstalvej 242 6534 Agerskov,242,465000.0,19-12-2001,Alm.,3780,6,Villa,123,1932,
+Rågevej 5 6534 Agerskov,5,150000.0,14-12-2001,Alm.,1515,3,Villa,99,1948,
+Sindetvej 4 6534 Agerskov,4,300000.0,10-12-2001,Fam.,2238,3,Villa,134,1962,
+Vesterhedevej 8 6534 Agerskov,8,260673.0,21-11-2001,Alm.,742,10,Villa,351,2005,
+Rågevej 1 6534 Agerskov,1,440000.0,26-10-2001,Alm.,3259,4,Villa,135,1946,
+Lillebjergvej 2 6534 Agerskov,2,1000000.0,31-08-2001,Alm.,5319,6,Stuehus,188,1983,
+Engeriis 3 6534 Agerskov,3,425000.0,08-08-2001,Alm.,3455,5,Villa,123,1972,
+Rangstrupvej 34 6534 Agerskov,34,280000.0,16-07-2001,Alm.,1320,7,Stuehus,212,1897,
+Sønderbyen 32 6534 Agerskov,32,600000.0,06-06-2001,Fam.,4800,4,Villa,125,1978,
+Goldbækvej 6 6534 Agerskov,6,187000.0,20-03-2001,Fam.,1335,6,Villa,140,1930,
+Horsbygvej 2 6534 Agerskov,2,250000.0,06-03-2001,Alm.,1785,6,Villa,140,1953,
+Bytoften 8 6534 Agerskov,8,420000.0,19-12-2000,Alm.,3500,4,Villa,120,1967,
+Boldershøj 5 6534 Agerskov,5,520000.0,12-12-2000,Fam.,4000,4,Villa,130,1966,
+Sønderbyen 28 6534 Agerskov,28,380000.0,12-12-2000,Fam.,3838,3,Villa,99,1954,
+Sindetvej 2 6534 Agerskov,2,3466716.0,14-11-2000,Fam.,15072,10,Stuehus,230,1840,
+Bytoften 16 6534 Agerskov,16,625000.0,10-10-2000,Alm.,5681,4,Villa,110,1969,
+Hovedgaden 49 6534 Agerskov,49,350000.0,22-09-2000,Alm.,0,5,Villa,199,1877,
+Åbakken 3 6534 Agerskov,3,560006.0,17-09-2000,Alm.,4242,4,Villa,132,1974,
+Vellerupvej 28 6534 Agerskov,28,320000.0,29-08-2000,Alm.,0,7,Villa,216,1946,
+Hovedgaden 19 6534 Agerskov,19,594000.0,22-08-2000,Alm.,2357,5,Villa,252,1900,
+Engeriis 18 6534 Agerskov,18,914000.0,05-07-2000,Alm.,5252,5,Villa,174,1973,
+Sindetvej 14 6534 Agerskov,14,800000.0,27-06-2000,Fam.,8163,3,Stuehus,98,1800,
+Højsetvej 14 6534 Agerskov,14,180000.0,19-06-2000,Auktion,1267,5,Villa,142,1959,
+Rangstrupvej 16 6534 Agerskov,16,310000.0,22-05-2000,Alm.,2421,5,Villa,128,1949,
+Bovlund Bjergvej 46 6534 Agerskov,46,825000.0,08-05-2000,Alm.,3699,6,Villa,223,1905,
+Hovedgaden 27 6534 Agerskov,27,622000.0,22-04-2000,Alm.,0,7,Villa,227,1898,
+Vellerupvej 1 6534 Agerskov,1,177500.0,21-03-2000,Alm.,1584,7,Villa,112,1903,
+Strandelhjørnvej 3 6534 Agerskov,3,380000.0,19-03-2000,Alm.,3584,4,Villa,106,1955,
+Hovedgaden 56 6534 Agerskov,56,394810.0,06-03-2000,Fam.,2122,7,Villa,186,1935,
+Elvej 5 6534 Agerskov,5,2500000.0,28-01-2000,Alm.,15527,5,Villa,161,1900,
+Hovedgaden 54 6534 Agerskov,54,350000.0,21-01-2000,Alm.,0,6,Villa,174,1936,
+Vellerupvej 31 6534 Agerskov,31,490000.0,21-01-2000,Alm.,3161,4,Villa,155,1974,
+Nitriskærvej 2 6534 Agerskov,2,285000.0,21-01-2000,Alm.,0,7,Villa,251,1954,
+Gammel Tøndervej 9 6534 Agerskov,9,250000.0,05-01-2000,Alm.,2336,3,Villa,107,1900,
+Branderupvej 4 6534 Agerskov,4,390000.0,14-12-1999,Fam.,0,7,Villa,210,1943,
+Boldershøj 28 6534 Agerskov,28,433500.0,13-12-1999,Fam.,3052,4,Villa,142,1969,
+Snedvej 13 6534 Agerskov,13,323000.0,18-11-1999,Alm.,3230,3,Rækkehus,100,1976,
+Over Jerstalvej 225 6534 Agerskov,225,246362.0,05-11-1999,Alm.,2123,4,Villa,116,1934,
+Sønderbyen 24A 6534 Agerskov,0,335000.0,09-10-1999,Alm.,5677,2,Rækkehus,59,1984,
+Snedvej 21 6534 Agerskov,21,274650.0,26-08-1999,Alm.,4359,2,Rækkehus,63,1976,
+Gårdelykkevej 5 6534 Agerskov,5,340000.0,19-08-1999,Alm.,2344,5,Villa,145,1940,
+Præstegårdsvej 18 6534 Agerskov,18,650000.0,05-07-1999,Alm.,0,6,Villa,217,1925,
+Vellerupvej 12 6534 Agerskov,12,385000.0,02-07-1999,Alm.,3130,7,Villa,123,1937,
+Kirkevej 3 6534 Agerskov,3,635000.0,18-06-1999,Alm.,4471,7,Villa,142,1908,
+Bovlund Nymarksvej 5 6534 Agerskov,5,332539.0,16-06-1999,Alm.,2216,4,Villa,150,1870,
+Bispelunden 9 6534 Agerskov,9,600000.0,05-05-1999,Fam.,0,5,Villa,144,1977,
+Hovedgaden 53 6534 Agerskov,53,296500.0,27-04-1999,Alm.,2430,4,Villa,122,1935,
+Bovlund Bjergvej 51 6534 Agerskov,51,3617000.0,21-04-1999,Alm.,18740,7,Stuehus,193,1854,
+Bovlund Bjergvej 42 6534 Agerskov,42,690000.0,16-03-1999,Alm.,3631,7,Stuehus,190,1854,
+Kirkevej 13 6534 Agerskov,13,365000.0,05-03-1999,Alm.,3613,3,Villa,101,1969,
+Rangstrupvej 9 6534 Agerskov,9,1010000.0,04-03-1999,Alm.,4549,7,Stuehus,222,1850,
+Rangstrupvej 1C 6534 Agerskov,0,530000.0,24-02-1999,Alm.,4076,6,Villa,130,1972,
+Gammel Tøndervej 27 6534 Agerskov,27,935000.0,22-02-1999,Fam.,4065,6,Stuehus,230,1899,
+Gammelskovvej 2 6534 Agerskov,2,1021000.0,03-02-1999,Alm.,3084,8,Stuehus,331,2004,
+Dalgårdsvej 9 6534 Agerskov,9,925671.0,28-12-1998,Alm.,4169,10,Stuehus,222,1928,
+Over Jerstalvej 226 6534 Agerskov,226,160000.0,18-12-1998,Alm.,1904,4,Villa,84,1957,
+Åbakken 29 6534 Agerskov,29,611000.0,25-11-1998,Alm.,4927,4,Villa,124,1977,
+Åbakken 23 6534 Agerskov,23,250000.0,20-11-1998,Alm.,1879,4,Villa,133,1977,
+Tingbjerg 3 6534 Agerskov,3,49088.0,09-11-1998,Alm.,277,6,Villa,177,1999,
+Snedvej 9 6534 Agerskov,9,323500.0,26-10-1998,Alm.,3718,3,Rækkehus,87,1976,
+Rangstrupvej 1A 6534 Agerskov,0,500000.0,22-10-1998,Alm.,3125,5,Villa,160,1954,
+Fårhusvej 4 6534 Agerskov,4,1185000.0,21-09-1998,Alm.,3714,8,Villa,319,1975,
+Boldershøj 4 6534 Agerskov,4,400000.0,28-08-1998,Alm.,3305,4,Villa,121,1966,
+Gammel Oksevej 2 6534 Agerskov,2,31200.0,25-08-1998,Alm.,262,3,Villa,119,1935,
+Bovvej 13 6534 Agerskov,13,5081000.0,26-06-1998,Alm.,25661,6,Stuehus,198,1973,
+Sønderbyen 21 6534 Agerskov,21,175000.0,14-06-1998,Alm.,2108,4,Villa,83,1877,
+Engeriis 36 6534 Agerskov,36,613559.0,05-05-1998,Alm.,4010,4,Villa,153,1975,
+Bovvej 24 6534 Agerskov,24,1470481.0,29-04-1998,Alm.,9306,6,Stuehus,158,1981,
+Tingbjerg 1 6534 Agerskov,1,62868.0,18-03-1998,Alm.,442,4,Villa,142,1998,
+Byggebjerg 5 6534 Agerskov,5,555000.0,12-03-1998,Alm.,3135,5,Villa,177,1973,
+Sønderbyen 48 6534 Agerskov,48,405000.0,16-02-1998,Fam.,2852,3,Villa,142,1959,
+Jørgensbyvej 18 6534 Agerskov,18,490000.0,27-01-1998,Alm.,0,5,Stuehus,298,1900,
+Sønderbyen 4 6534 Agerskov,4,190000.0,14-01-1998,Alm.,1233,5,Villa,154,2007,
+Lillebjergvej 3 6534 Agerskov,3,3731500.0,02-12-1997,Fam.,13820,9,Stuehus,270,1877,
+Over Jerstalvej 238 6534 Agerskov,238,284000.0,26-11-1997,Alm.,2218,4,Villa,128,1922,
+Åbakken 7 6534 Agerskov,7,525000.0,24-10-1997,Alm.,0,5,Villa,144,1977,
+Mellerupvej 21 6534 Agerskov,21,600000.0,28-09-1997,Alm.,4285,5,Villa,140,1947,
+Over Jerstalvej 235 6534 Agerskov,235,162650.0,10-09-1997,Alm.,1035,5,Villa,157,1931,
+Boldershøj 12 6534 Agerskov,12,415000.0,08-09-1997,Alm.,3167,4,Villa,131,1963,
+Hovedgaden 52 6534 Agerskov,52,187000.0,04-08-1997,Fam.,2174,3,Villa,86,1914,
+Vellerupvej 24 6534 Agerskov,24,250000.0,01-08-1997,Alm.,1785,5,Villa,140,1946,
+Engeriis 46 6534 Agerskov,46,422750.0,21-07-1997,Alm.,3522,3,Villa,120,1973,
+Rangstrupvej 11 6534 Agerskov,11,175000.0,30-06-1997,Alm.,1650,3,Villa,106,1877,
+Højsetvej 9 6534 Agerskov,9,243650.0,13-05-1997,Alm.,1791,4,Villa,136,1920,
+Bytoften 12 6534 Agerskov,12,740000.0,06-05-1997,Alm.,4352,6,Villa,170,1973,
+Nørregade 26 6534 Agerskov,26,315000.0,29-04-1997,Alm.,2943,4,Villa,107,1964,
+Horsbygvej 4 6534 Agerskov,4,513000.0,21-04-1997,Alm.,3017,4,Villa,170,1969,
+Hovedgaden 29 6534 Agerskov,29,450000.0,21-03-1997,Alm.,3214,6,Villa,140,1898,
+Rangstrupvej 32 6534 Agerskov,32,656000.0,03-02-1997,Fam.,3526,4,Stuehus,186,1840,
+Præstegårdsvej 22 6534 Agerskov,22,275000.0,21-11-1996,Alm.,2115,4,Villa,130,1887,
+Bovvej 17 6534 Agerskov,17,135000.0,06-11-1996,Alm.,1500,4,Villa,90,1935,
+Østergårdvej 8 6534 Agerskov,8,148319.0,23-10-1996,Andet,579,10,Villa,256,1887,
+Sønderbyen 22 6534 Agerskov,22,560000.0,11-10-1996,Alm.,4000,5,Villa,140,1978,
+Sønderbyen 11 6534 Agerskov,11,77500.0,18-09-1996,Alm.,487,5,Villa,159,1996,
+Vellerupvej 35 6534 Agerskov,35,1250000.0,08-08-1996,Fam.,6038,7,Stuehus,207,1930,
+Branderupvej 27 6534 Agerskov,27,285000.0,26-07-1996,Alm.,1686,6,Villa,169,1943,
+Sønderbyen 13 6534 Agerskov,13,250000.0,22-07-1996,Alm.,1838,3,Villa,136,1941,
+Kirkevej 6 6534 Agerskov,6,450000.0,02-07-1996,Alm.,2848,6,Villa,158,1934,
+Vesterhedevej 12 6534 Agerskov,12,420000.0,22-06-1996,Alm.,0,4,Stuehus,143,1930,
+Præstegårdsvej 16 6534 Agerskov,16,482500.0,30-05-1996,Alm.,3769,6,Villa,128,1924,
+Agerskov Kådner 7 6534 Agerskov,7,500000.0,27-05-1996,Alm.,0,5,Villa,187,1939,
+Branderupvej 8 6534 Agerskov,8,600000.0,21-05-1996,Alm.,0,8,Villa,287,1938,
+Sønderbyen 34 6534 Agerskov,34,675000.0,01-05-1996,Alm.,4687,4,Villa,144,1979,
+Rangstrupvej 3 6534 Agerskov,3,535000.0,25-04-1996,Alm.,3905,4,Villa,137,1971,
+Nitriskærvej 1A 6534 Agerskov,0,1325000.0,01-04-1996,Alm.,7528,6,Stuehus,176,1880,
+Bjørnskovvej 4 6534 Agerskov,4,684942.0,27-03-1996,Fam.,2634,7,Stuehus,260,1900,
+Gammel Tøndervej 15 6534 Agerskov,15,258000.0,04-01-1996,Alm.,2263,3,Villa,114,1950,
+Engtoften 1 6534 Agerskov,1,400000.0,18-11-1995,Alm.,2777,5,Villa,144,1972,
+Gammel Tøndervej 14 6534 Agerskov,14,290000.0,02-11-1995,Alm.,2761,4,Villa,105,1964,
+Gammel Tøndervej 12 6534 Agerskov,12,250000.0,16-08-1995,Alm.,1968,3,Villa,127,1952,
+Engeriis 11 6534 Agerskov,11,350000.0,31-07-1995,Fam.,2822,4,Villa,124,1973,
+Goldbækvej 10 6534 Agerskov,10,4356000.0,26-07-1995,Alm.,16500,8,Stuehus,264,1900,
+Boldershøj 21 6534 Agerskov,21,300000.0,29-06-1995,Alm.,2727,3,Villa,110,1966,
+Hovedgaden 20 6534 Agerskov,20,390000.0,05-06-1995,Alm.,2437,4,Villa,160,1933,
+Vellerupvej 16 6534 Agerskov,16,360000.0,18-05-1995,Alm.,0,7,Villa,180,1968,
+Mellerupvej 2 6534 Agerskov,2,325000.0,10-04-1995,Alm.,0,4,Villa,135,1827,
+Kirkevej 11 6534 Agerskov,11,395000.0,08-03-1995,Alm.,2015,5,Villa,196,1934,
+Nørregade 11 6534 Agerskov,11,180000.0,13-01-1995,Alm.,1764,4,Villa,102,1938,
+Engeriis 6 6534 Agerskov,6,452000.0,07-09-1994,Alm.,3013,4,Villa,150,1971,
+Sønderbyen 54 6534 Agerskov,54,200000.0,16-08-1994,Alm.,0,4,Villa,120,1946,
+Bispelunden 40 6534 Agerskov,40,595000.0,15-08-1994,Alm.,0,6,Villa,150,1980,
+Tingvej 39 6534 Agerskov,39,300000.0,26-06-1994,Alm.,3797,3,Villa,79,1916,
+Engtoften 8 6534 Agerskov,8,570000.0,10-05-1994,Alm.,3238,6,Villa,176,1977,
+Engeriis 34 6534 Agerskov,34,425000.0,02-04-1994,Alm.,3794,4,Villa,112,1973,
+Højsetvej 12 6534 Agerskov,12,1365000.0,30-03-1994,Alm.,10500,5,Stuehus,130,1727,
+Mellerupvej 11 6534 Agerskov,11,108000.0,22-03-1994,Alm.,418,9,Stuehus,258,1951,
+Rangstrupvej 28 6534 Agerskov,28,260000.0,27-02-1994,Alm.,1405,8,Villa,185,1847,
+Hovedgaden 51 6534 Agerskov,51,250000.0,11-02-1994,Alm.,1488,5,Villa,168,1940,
+Mellerupvej 35 6534 Agerskov,35,100000.0,10-02-1994,Alm.,740,8,Stuehus,135,1907,
+Lille Oksgårdvej 2 6534 Agerskov,2,200000.0,19-11-1993,Alm.,0,5,Stuehus,225,1932,
+Gammel Tøndervej 25 6534 Agerskov,25,500000.0,15-11-1993,Alm.,1968,6,Stuehus,254,1970,
+Snedvej 19 6534 Agerskov,19,200000.0,30-10-1993,Alm.,2631,2,Rækkehus,76,1976,
+Gammelskovvej 17 6534 Agerskov,17,250000.0,29-10-1993,Alm.,2083,4,Villa,120,1910,
+Vellerupvej 17 6534 Agerskov,17,300000.0,28-10-1993,Alm.,2142,6,Villa,140,1962,
+Dalgårdsvej 5 6534 Agerskov,5,126272.0,29-09-1993,Alm.,864,6,Villa,146,2013,
+Mellerupvej 5 6534 Agerskov,5,200000.0,27-09-1993,Alm.,1886,4,Villa,106,1940,
+Bytoften 30 6534 Agerskov,30,490000.0,24-07-1993,Alm.,3161,5,Villa,155,1969,
+Gammelskovvej 13 6534 Agerskov,13,355000.0,12-07-1993,Alm.,0,8,Villa,277,1952,
+Engeriis 52 6534 Agerskov,52,560000.0,10-06-1993,Alm.,3783,5,Villa,148,1974,
+Boldershøj 16 6534 Agerskov,16,240000.0,21-05-1993,Alm.,0,3,Villa,110,1963,
+Bytoften 15 6534 Agerskov,15,550000.0,15-04-1993,Alm.,2972,7,Villa,185,1967,
+Engeriis 4 6534 Agerskov,4,225000.0,18-01-1993,Andet,1222,5,Villa,184,1972,
+Bispelunden 41 6534 Agerskov,41,344595.0,15-01-1993,Alm.,2895,6,Villa,119,1980,
+Gammel Agerskovvej 5 6534 Agerskov,5,400000.0,18-11-1992,Alm.,3200,4,Villa,125,1971,
+Branderupvej 1 6534 Agerskov,1,255000.0,31-08-1992,Alm.,2550,3,Villa,100,1961,
+Nørregade 28 6534 Agerskov,28,357500.0,17-07-1992,Alm.,2590,4,Villa,138,1963,
+Bytoften 5 6534 Agerskov,5,420000.0,15-04-1992,Fam.,2896,5,Villa,145,1968,
+Bytoften 6 6534 Agerskov,6,355000.0,08-04-1992,Alm.,3086,3,Villa,115,1967,
+Gårdelykkevej 8 6534 Agerskov,8,325000.0,28-02-1992,Alm.,1766,4,Villa,184,2013,

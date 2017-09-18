@@ -1,0 +1,519 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Svenstrupvej 8 8570 Trustrup,8,800000.0,24-03-2017,Alm.,5555,4,Villa,144,1915,-5 %
+Århusvej 202 8570 Trustrup,202,350000.0,17-03-2017,Alm.,4430,2,Villa,79,1938,-11 %
+Albøgevej 8 8570 Trustrup,8,650000.0,28-01-2017,Alm.,5416,4,Villa,120,1918,
+Århusvej 184 8570 Trustrup,184,1450000.0,16-01-2017,Alm.,7323,5,Villa,198,1900,
+Århusvej 153 8570 Trustrup,153,600000.0,31-12-2016,Fam.,3448,6,Villa,174,1948,
+Dæmningen 42A 8570 Trustrup,0,22940000.0,29-12-2016,Fam.,107196,7,Stuehus,214,1900,
+Revnvej 35 8570 Trustrup,35,1375000.0,29-11-2016,Andet,8757,4,Villa,157,1922,
+Stationsgade 19 8570 Trustrup,19,290000.0,22-11-2016,Alm.,3580,4,Villa,81,1969,-16 %
+Århusvej 290 8570 Trustrup,290,23678006.0,10-11-2016,Alm.,29821,23,Stuehus,794,1925,
+Østerbro 26 8570 Trustrup,26,670000.0,04-11-2016,Alm.,4785,4,Villa,140,1966,-4 %
+Park Allé 9 8570 Trustrup,9,1020000.0,12-10-2016,Alm.,7555,4,Villa,135,1985,-11 %
+Hallendrupvej 41 8570 Trustrup,41,5590000.0,07-10-2016,Alm.,90161,3,Stuehus,62,1915,
+Allelev Sund 10A 8570 Trustrup,0,450000.0,07-10-2016,Alm.,3600,3,Villa,125,1930,0 %
+Solhøjvej 18 8570 Trustrup,18,967000.0,05-10-2016,Alm.,5198,5,Villa,186,2006,
+Andkærvej 3 8570 Trustrup,3,1725000.0,30-09-2016,Andet,6686,7,Stuehus,258,1912,
+Tjørnegårdsparken 29 8570 Trustrup,29,830000.0,27-09-2016,Alm.,5886,4,Villa,141,1979,-7 %
+Stationsgade 5 8570 Trustrup,5,400000.0,13-09-2016,Alm.,2500,5,Villa,160,1900,-19 %
+Allelev Sund 1 8570 Trustrup,1,400000.0,02-09-2016,Alm.,2325,5,Villa,172,1909,
+Elmevej 2 8570 Trustrup,2,425000.0,17-08-2016,Alm.,4336,3,Villa,98,1963,-14 %
+Mølletoften 14F 8570 Trustrup,0,655615.0,10-07-2016,Alm.,4149,6,Villa,158,2008,
+Søbyvej 29 8570 Trustrup,29,75000.0,08-07-2016,Alm.,572,5,Villa,131,1877,
+Søndervang 12 8570 Trustrup,12,995000.0,07-07-2016,Alm.,6546,5,Villa,152,1976,0 %
+Saldrupvej 3 8570 Trustrup,3,19600000.0,07-07-2016,Alm.,108888,5,Stuehus,180,1906,
+Albøgevej 18 8570 Trustrup,18,193000.0,01-07-2016,Alm.,3271,3,Villa,59,1917,-3 %
+Fævejlevej 11A 8570 Trustrup,0,96700.0,15-06-2016,Auktion,732,4,Villa,132,1892,
+Ballevej 1 8570 Trustrup,1,295000.0,13-06-2016,Alm.,3831,3,Villa,77,1950,0 %
+Fuglebækvej 11A 8570 Trustrup,0,318500.0,01-06-2016,Andet,3185,4,Villa,100,1860,
+Elmevej 13 8570 Trustrup,13,840000.0,24-05-2016,Alm.,8484,4,Villa,99,1974,-1 %
+Nordbakken 17 8570 Trustrup,17,1775000.0,21-04-2016,Alm.,10142,5,Villa,175,2010,-4 %
+Nygårdsvej 14 8570 Trustrup,14,475000.0,17-04-2016,Alm.,4130,3,Villa,115,1865,-14 %
+Andkærvej 13 8570 Trustrup,13,475000.0,06-02-2016,Alm.,2473,5,Villa,192,1900,0 %
+Solhøjvej 5B 8570 Trustrup,0,1475000.0,02-02-2016,Alm.,9577,4,Villa,154,2007,-1 %
+Solhøjvej 33 8570 Trustrup,33,1245000.0,22-11-2015,Alm.,9222,4,Villa,135,2007,-7 %
+Stationsgade 14 8570 Trustrup,14,450000.0,20-11-2015,Alm.,3146,4,Villa,143,1956,-25 %
+Fuglebækvej 36 8570 Trustrup,36,45000.0,30-10-2015,Alm.,616,2,Villa,73,1906,0 %
+Lyngbyvej 73 8570 Trustrup,73,750000.0,28-10-2015,Alm.,5859,6,Villa,128,1948,0 %
+Lyngbyvej 16 8570 Trustrup,16,985000.0,26-10-2015,Alm.,5863,7,Villa,168,1939,-10 %
+Mølletoften 14B 8570 Trustrup,0,1193550.0,21-10-2015,Auktion,5938,5,Villa,201,2008,
+Østerbro 7 8570 Trustrup,7,435000.0,19-10-2015,Alm.,4065,3,Villa,107,1967,-8 %
+Ballevej 4 8570 Trustrup,4,315000.0,07-10-2015,Alm.,3423,3,Villa,92,1920,-10 %
+Tjørnegårdsparken 3 8570 Trustrup,3,825000.0,06-10-2015,Alm.,5030,5,Villa,164,1977,-11 %
+Elmevej 5 8570 Trustrup,5,300000.0,29-09-2015,Alm.,2777,4,Villa,108,1965,-24 %
+Linde Allé 1 8570 Trustrup,1,210000.0,14-09-2015,Alm.,2000,4,Villa,105,1958,-47 %
+Mølletoften 17 8570 Trustrup,17,96582.0,29-08-2015,Alm.,1557,2,Villa,62,1867,
+Nygårdsvej 48 8570 Trustrup,48,1697300.0,24-07-2015,Alm.,5354,4,Stuehus,317,1900,-29 %
+Svenstrupvej 1 8570 Trustrup,1,1635000.0,21-07-2015,Alm.,8605,6,Stuehus,190,1924,-14 %
+Århusvej 161 8570 Trustrup,161,477000.0,13-05-2015,Auktion,1590,9,Villa,300,1939,-31 %
+Tjørnegårdsparken 7 8570 Trustrup,7,1175000.0,12-05-2015,Alm.,8639,5,Villa,136,1976,-2 %
+Nygårdsvej 33 8570 Trustrup,33,300000.0,06-05-2015,Auktion,2884,3,Villa,104,1827,-52 %
+Århusvej 252 8570 Trustrup,252,1656000.0,10-04-2015,Fam.,8117,5,Villa,204,1900,
+Abildgårdsvej 24 8570 Trustrup,24,545000.0,01-04-2015,Alm.,5618,1,Villa,97,1925,0 %
+Østerbro 16 8570 Trustrup,16,750000.0,12-03-2015,Alm.,4010,6,Villa,187,1966,-6 %
+Askhøjvej 5 8570 Trustrup,5,391572.0,25-02-2015,Auktion,1919,7,Villa,204,1906,
+Nygårdsvej 49 8570 Trustrup,49,700000.0,22-02-2015,Alm.,2215,6,Stuehus,316,2009,
+Albøgevej 4 8570 Trustrup,4,700000.0,22-02-2015,Alm.,6306,3,Villa,111,1915,
+Lykkesholmvej 16 8570 Trustrup,16,550000.0,29-01-2015,Alm.,4782,4,Villa,115,1974,-8 %
+Tjørnegårdsparken 24 8570 Trustrup,24,650000.0,27-01-2015,Alm.,5241,4,Villa,124,1976,-7 %
+Diverhøjvej 1 8570 Trustrup,1,500000.0,09-01-2015,Alm.,4065,4,Stuehus,123,1912,-64 %
+Århusvej 155 8570 Trustrup,155,185000.0,07-01-2015,Auktion,1581,5,Villa,117,1943,-53 %
+Århusvej 223 8570 Trustrup,223,675000.0,15-12-2014,Alm.,4218,5,Villa,160,1928,-25 %
+Vesterbro 9 8570 Trustrup,9,116500.0,10-12-2014,Auktion,903,3,Villa,129,1959,
+Nygårdsvej 21 8570 Trustrup,21,500000.0,13-10-2014,Alm.,4672,5,Villa,107,1906,-5 %
+Mølletoften 31 8570 Trustrup,31,600000.0,12-09-2014,Alm.,5714,4,Villa,105,1974,-7 %
+Askhøjvej 9 8570 Trustrup,9,465000.0,25-08-2014,Alm.,3940,5,Villa,118,1964,
+Lykkesholmvej 3 8570 Trustrup,3,1200000.0,12-08-2014,Alm.,6060,6,Villa,198,1964,-4 %
+Tjørnegårdsparken 4 8570 Trustrup,4,1925000.0,12-08-2014,Alm.,12339,5,Villa,156,2004,-4 %
+Petersborgvej 13 8570 Trustrup,13,560000.0,11-08-2014,Alm.,4375,5,Villa,128,1952,-6 %
+Tjørnegårdsparken 8 8570 Trustrup,8,820000.0,06-08-2014,Alm.,5655,6,Villa,145,1976,-3 %
+Solhøjvej 5A 8570 Trustrup,0,1150000.0,09-07-2014,Alm.,8455,4,Villa,136,2007,-11 %
+Vesterbro 20 8570 Trustrup,20,375000.0,01-07-2014,Alm.,3906,3,Villa,96,1963,
+Hallendrupvej 52 8570 Trustrup,52,475000.0,10-05-2014,Alm.,4481,5,Villa,106,1964,-10 %
+Søbyvej 28 8570 Trustrup,28,175000.0,08-05-2014,Alm.,1483,5,Villa,118,1890,-30 %
+Askhøjvej 68 8570 Trustrup,68,275000.0,29-04-2014,Alm.,2148,4,Villa,128,1900,-15 %
+Kastanie Allé 17 8570 Trustrup,17,575000.0,08-04-2014,Alm.,3662,5,Villa,157,1973,
+Tjørnegårdsparken 32 8570 Trustrup,32,900000.0,28-03-2014,Alm.,6428,5,Villa,140,1977,-10 %
+Lyngbyvej 12 8570 Trustrup,12,375000.0,18-03-2014,Alm.,2952,5,Stuehus,127,1939,-24 %
+Petersborgvej 38 8570 Trustrup,38,125000.0,10-03-2014,Alm.,1008,4,Villa,124,1880,-14 %
+Vesterbro 14 8570 Trustrup,14,900000.0,20-02-2014,Alm.,6976,5,Villa,129,1956,-10 %
+Ballevej 5 8570 Trustrup,5,1000000.0,11-02-2014,Alm.,6369,5,Villa,157,1972,-9 %
+Nygårdsvej 47 8570 Trustrup,47,41000000.0,03-02-2014,Alm.,149090,8,Stuehus,275,1887,
+Århusvej 280 8570 Trustrup,280,100000.0,18-01-2014,Alm.,1041,4,Villa,96,1850,-58 %
+Lykkesholmvej 2A 8570 Trustrup,0,850000.0,17-01-2014,Alm.,2414,7,Stuehus,352,1850,0 %
+Lykkesholmvej 17 8570 Trustrup,17,250000.0,10-12-2013,Alm.,2212,4,Villa,113,1963,-16 %
+Århusvej 282 8570 Trustrup,282,710000.0,03-12-2013,Alm.,5916,4,Villa,120,1902,
+Tjørnegårdsparken 6 8570 Trustrup,6,595000.0,02-12-2013,Alm.,2945,9,Villa,202,1963,-14 %
+Kastanie Allé 11 8570 Trustrup,11,345000.0,08-11-2013,Alm.,1173,6,Villa,294,1900,
+Fævejlevej 17 8570 Trustrup,17,810000.0,22-10-2013,Alm.,4736,4,Villa,171,1932,
+Fuglebækvej 32 8570 Trustrup,32,350000.0,21-10-2013,Alm.,3240,4,Villa,108,1908,-7 %
+Søbyvej 8 8570 Trustrup,8,875000.0,14-10-2013,Alm.,8578,4,Villa,102,1970,
+Lyngbyvej 97 8570 Trustrup,97,126500.0,25-09-2013,Auktion,1150,4,Villa,110,1868,-68 %
+Lyngbyvej 30 8570 Trustrup,30,650000.0,24-09-2013,Alm.,4850,5,Villa,134,1966,-6 %
+Allelev Sund 6 8570 Trustrup,6,850000.0,09-08-2013,Alm.,6854,4,Villa,124,1904,-11 %
+Nygårdsvej 44 8570 Trustrup,44,2548500.0,23-07-2013,Alm.,15539,6,Stuehus,164,1897,2 %
+Lyngbyvej 85 8570 Trustrup,85,180000.0,15-07-2013,Alm.,1487,4,Villa,121,1897,-18 %
+Albøgevej 2 8570 Trustrup,2,700000.0,06-06-2013,Alm.,5600,4,Villa,125,1918,
+Århusvej 127 8570 Trustrup,127,230000.0,24-05-2013,Alm.,2473,3,Villa,93,1917,-52 %
+Skolegade 3 8570 Trustrup,3,438985.0,15-05-2013,Andet,2850,6,Villa,154,1958,
+Albøgevej 16 8570 Trustrup,16,700000.0,10-05-2013,Alm.,6481,4,Villa,108,1932,-39 %
+Århusvej 286 8570 Trustrup,286,1525000.0,01-05-2013,Alm.,16944,3,Stuehus,90,1918,-24 %
+Elmevej 6 8570 Trustrup,6,595000.0,29-04-2013,Alm.,6263,3,Villa,95,1964,-8 %
+Fladstrupvej 27 8570 Trustrup,27,753500.0,19-04-2013,Alm.,5023,8,Villa,150,1865,
+Lyngbyvej 22 8570 Trustrup,22,100000.0,18-04-2013,Alm.,442,6,Stuehus,226,1927,
+Fladstrupvej 50 8570 Trustrup,50,775000.0,16-04-2013,Alm.,5098,5,Villa,152,1924,-3 %
+Vesterbro 10 8570 Trustrup,10,350000.0,15-03-2013,Alm.,3017,4,Villa,116,1952,-11 %
+Holtbakkevej 4 8570 Trustrup,4,95000.0,08-03-2013,Alm.,1233,4,Villa,77,1900,
+Petersborgvej 15 8570 Trustrup,15,300000.0,15-02-2013,Alm.,2830,4,Villa,106,1952,-37 %
+Århusvej 205 8570 Trustrup,205,525000.0,15-02-2013,Alm.,2853,8,Villa,184,1903,-34 %
+Århusvej 121 8570 Trustrup,121,297500.0,07-02-2013,Fam.,3814,3,Villa,78,1954,
+Tinghøjvej 5 8570 Trustrup,5,1125000.0,18-01-2013,Alm.,4046,8,Villa,278,1930,-6 %
+Århusvej 163 8570 Trustrup,163,725000.0,28-11-2012,Auktion,5410,5,Villa,134,1907,
+Søndervang 5 8570 Trustrup,5,875000.0,15-11-2012,Alm.,8254,4,Villa,106,1966,-8 %
+Petersborgvej 14 8570 Trustrup,14,750000.0,14-11-2012,Alm.,7142,4,Villa,105,1890,-6 %
+Fladstrupvej 44 8570 Trustrup,44,500000.0,17-10-2012,Alm.,4854,4,Villa,103,1963,-17 %
+Lykkesholmvej 8 8570 Trustrup,8,850000.0,05-10-2012,Alm.,5592,5,Villa,152,1963,-11 %
+Kastanie Allé 12 8570 Trustrup,12,600000.0,14-09-2012,Alm.,6896,4,Villa,87,1963,-7 %
+Hallendrupvej 2 8570 Trustrup,2,7021000.0,10-09-2012,Fam.,76315,3,Villa,92,1827,
+Lykkesholmvej 2B 8570 Trustrup,0,290000.0,31-08-2012,Alm.,3295,4,Villa,88,1921,-23 %
+Lyngbyvej 95 8570 Trustrup,95,500000.0,15-08-2012,Alm.,3816,4,Villa,131,1867,-20 %
+Ellegårdvej 9 8570 Trustrup,9,1655000.0,24-07-2012,Alm.,7355,6,Villa,225,1880,-7 %
+Abildgårdsvej 5 8570 Trustrup,5,747500.0,16-07-2012,Alm.,2403,12,Villa,311,1987,
+Linde Allé 12 8570 Trustrup,12,1500000.0,13-07-2012,Alm.,13043,4,Villa,115,2008,
+Søbyvej 30 8570 Trustrup,30,1120000.0,27-06-2012,Alm.,5773,5,Villa,194,1881,-2 %
+Holtbakkevej 2 8570 Trustrup,2,110000.0,30-04-2012,Alm.,2750,2,Villa,40,1847,-44 %
+Lykkesholmvej 13 8570 Trustrup,13,829475.0,29-04-2012,Andet,4608,7,Villa,180,1970,
+Århusvej 219 8570 Trustrup,219,656605.0,26-04-2012,Alm.,3082,6,Stuehus,213,1937,
+Petersborgvej 1 8570 Trustrup,1,400000.0,19-04-2012,Alm.,2380,6,Villa,168,1890,-11 %
+Askhøjvej 40 8570 Trustrup,40,1210000.0,18-04-2012,Alm.,8832,5,Villa,137,1937,-7 %
+Nygårdsvej 25 8570 Trustrup,25,305000.0,16-04-2012,Alm.,4357,3,Villa,70,1939,
+Petersborgvej 20 8570 Trustrup,20,750000.0,20-03-2012,Alm.,4545,7,Villa,165,1900,
+Elmevej 7 8570 Trustrup,7,525000.0,16-02-2012,Fam.,4268,4,Villa,123,1964,
+Obdrupvej 4 8570 Trustrup,4,425000.0,08-02-2012,Auktion,4569,2,Villa,93,1878,-15 %
+Hallendrupvej 44 8570 Trustrup,44,1310000.0,23-01-2012,Alm.,3922,10,Villa,334,1927,-12 %
+Århusvej 117 8570 Trustrup,117,1100000.0,23-12-2011,Alm.,8208,5,Villa,134,1875,-3 %
+Århusvej 171 8570 Trustrup,171,230000.0,14-12-2011,Auktion,1597,7,Villa,144,1911,
+Århusvej 231 8570 Trustrup,231,4792900.0,28-11-2011,Alm.,19805,9,Stuehus,242,1928,-20 %
+Askhøjvej 13 8570 Trustrup,13,272500.0,16-11-2011,Andet,1735,5,Villa,157,1906,
+Tinghøjvej 13 8570 Trustrup,13,12240000.0,16-10-2011,Alm.,42206,9,Stuehus,290,1896,
+Østerbro 14 8570 Trustrup,14,560000.0,08-09-2011,Alm.,3393,5,Villa,165,1971,
+Skolegade 4 8570 Trustrup,4,310000.0,19-08-2011,Alm.,2348,9,Villa,132,1950,-22 %
+Århusvej 221B 8570 Trustrup,0,814107.0,19-08-2011,Alm.,6262,4,Stuehus,130,1928,
+Elmevej 11 8570 Trustrup,11,1498000.0,09-08-2011,Alm.,10700,6,Villa,140,1974,0 %
+Tjørnegårdsparken 35 8570 Trustrup,35,940000.0,28-07-2011,Alm.,7460,4,Villa,126,1976,-5 %
+Århusvej 196 8570 Trustrup,196,663024.0,05-07-2011,Alm.,3365,6,Villa,197,1927,
+Holtbakkevej 6 8570 Trustrup,6,443251.0,04-07-2011,Alm.,4029,3,Villa,110,1932,
+Nygårdsvej 42 8570 Trustrup,42,1055000.0,06-06-2011,Alm.,5582,5,Villa,189,1947,
+Lyngbyvej 71 8570 Trustrup,71,1247500.0,25-05-2011,Alm.,8603,4,Villa,145,1957,-4 %
+Østerbro 9 8570 Trustrup,9,850000.0,14-04-2011,Alm.,6538,4,Villa,130,1972,-8 %
+Ellegårdvej 5 8570 Trustrup,5,42730.0,01-03-2011,Alm.,534,2,Villa,80,1900,
+Petersborgvej 17 8570 Trustrup,17,345000.0,16-02-2011,Alm.,0,2,Villa,77,1918,-13 %
+Stationsgade 9 8570 Trustrup,9,333200.0,16-02-2011,Auktion,2221,5,Villa,150,1900,
+Østerbro 6 8570 Trustrup,6,960000.0,11-02-2011,Alm.,7058,6,Villa,136,1970,-4 %
+Nygårdsvej 7 8570 Trustrup,7,740146.0,04-02-2011,Alm.,4458,5,Villa,166,1907,-54 %
+Vesterbro 1D 8570 Trustrup,0,435000.0,01-02-2011,Alm.,6304,3,Villa,69,1957,-8 %
+Århusvej 187 8570 Trustrup,187,850000.0,05-01-2011,Auktion,6589,4,Villa,129,1956,
+Vestersmindevej 13 8570 Trustrup,13,735000.0,03-01-2011,Alm.,7989,3,Villa,92,1910,
+Søndervang 13 8570 Trustrup,13,851180.0,15-12-2010,Alm.,4891,7,Villa,174,1979,
+Solhøjvej 32 8570 Trustrup,32,1050753.0,15-12-2010,Alm.,5805,6,Villa,181,2006,
+Lyngbyvej 14 8570 Trustrup,14,956523.0,11-11-2010,Alm.,6551,6,Stuehus,146,1939,-54 %
+Ballevej 36 8570 Trustrup,36,630000.0,08-11-2010,Alm.,6000,4,Villa,105,1905,-9 %
+Århusvej 200 8570 Trustrup,200,675000.0,08-10-2010,Alm.,6081,2,Villa,111,1943,-3 %
+Askhøjvej 42 8570 Trustrup,42,1600000.0,23-09-2010,Alm.,8602,5,Stuehus,186,1933,
+Allelevvej 22 8570 Trustrup,22,1245000.0,10-09-2010,Alm.,9726,3,Villa,128,1845,0 %
+Tjørnegårdsparken 17 8570 Trustrup,17,1035000.0,09-09-2010,Alm.,6764,5,Villa,153,1975,-6 %
+Petersborgvej 9 8570 Trustrup,9,580000.0,03-06-2010,Alm.,4873,5,Villa,119,1957,-10 %
+Fladstrupvej 18 8570 Trustrup,18,200000.0,12-05-2010,Alm.,823,10,Stuehus,243,1911,
+Park Allé 3 8570 Trustrup,3,475000.0,12-05-2010,Auktion,6333,3,Villa,75,1901,-32 %
+Fuglebækvej 6 8570 Trustrup,6,10190000.0,07-05-2010,Alm.,60654,5,Stuehus,168,1850,527 %
+Lyngbyvej 48 8570 Trustrup,48,1000000.0,20-04-2010,Alm.,4878,6,Stuehus,205,1934,
+Fuglebækvej 30 8570 Trustrup,30,775000.0,31-03-2010,Alm.,8611,3,Stuehus,90,1906,-22 %
+Solhøjvej 22 8570 Trustrup,22,1850000.0,23-03-2010,Alm.,11212,5,Villa,165,2007,-7 %
+Østerbro 3 8570 Trustrup,3,800000.0,03-03-2010,Alm.,8000,4,Villa,100,1966,-11 %
+Elmevej 1 8570 Trustrup,1,588500.0,02-03-2010,Fam.,4823,4,Villa,122,1966,
+Askhøjvej 41 8570 Trustrup,41,950000.0,22-12-2009,Alm.,4523,7,Villa,210,1826,
+Århusvej 270 8570 Trustrup,270,600000.0,21-12-2009,Alm.,4651,6,Villa,129,1898,
+Sønder Homåvej 2 8570 Trustrup,2,950000.0,14-12-2009,Alm.,8482,4,Villa,112,1927,-4 %
+Vesterbro 7 8570 Trustrup,7,760000.0,06-11-2009,Alm.,7037,5,Villa,108,1961,
+Mølletoften 7 8570 Trustrup,7,715596.0,27-10-2009,Andet,5300,2,Villa,135,1852,
+Vesterbro 16 8570 Trustrup,16,550000.0,07-10-2009,Alm.,6111,4,Villa,90,1955,-15 %
+Vestersmindevej 24 8570 Trustrup,24,395000.0,24-09-2009,Alm.,4593,4,Villa,86,1890,0 %
+Lyngbyvej 106 8570 Trustrup,106,750000.0,03-09-2009,Alm.,6355,5,Villa,118,1965,-6 %
+Albøgevej 14 8570 Trustrup,14,3200000.0,12-08-2009,Alm.,12800,6,Villa,250,1907,
+Nygårdsvej 4 8570 Trustrup,4,2000000.0,06-08-2009,Fam.,7843,9,Stuehus,255,1898,
+Albøgevej 12 8570 Trustrup,12,1650000.0,04-08-2009,Alm.,10576,7,Stuehus,156,1945,
+Skolegade 1 8570 Trustrup,1,530000.0,03-04-2009,Alm.,7571,2,Villa,70,1912,
+Tjørnegårdsparken 13 8570 Trustrup,13,1220000.0,01-04-2009,Alm.,7625,6,Villa,160,1976,-6 %
+Obdrupvej 6 8570 Trustrup,6,592958.0,06-02-2009,Alm.,5068,4,Villa,117,1965,
+Allelevvej 13 8570 Trustrup,13,5061570.0,04-02-2009,Fam.,25435,7,Stuehus,199,1953,
+Århusvej 147 8570 Trustrup,147,950000.0,02-02-2009,Alm.,10000,4,Villa,95,1946,-5 %
+Askhøjvej 35 8570 Trustrup,35,11930939.0,20-01-2009,Fam.,50986,4,Stuehus,234,1984,
+Askhøjvej 50 8570 Trustrup,50,297500.0,20-01-2009,Fam.,2833,4,Villa,105,1968,
+Fladstrupvej 4 8570 Trustrup,4,1615000.0,20-01-2009,Fam.,20187,4,Stuehus,80,1952,
+Lyngbyvej 87 8570 Trustrup,87,600000.0,03-12-2008,Andet,4444,4,Villa,135,1897,
+Abildgårdsvej 23 8570 Trustrup,23,1700000.0,13-11-2008,Alm.,16831,7,Villa,101,1928,
+Ballevej 7 8570 Trustrup,7,1175000.0,15-10-2008,Alm.,7532,4,Villa,156,1965,-6 %
+Skolegade 2 8570 Trustrup,2,775000.0,08-10-2008,Alm.,13596,9,Industri o.l.,57,1922,
+Søbyvej 15 8570 Trustrup,15,600000.0,02-10-2008,Alm.,6000,3,Villa,100,1964,-18 %
+Fuglebækvej 15 8570 Trustrup,15,1430000.0,22-09-2008,Alm.,6085,6,Villa,235,1859,-28 %
+Diverhøjvej 2 8570 Trustrup,2,4100000.0,11-09-2008,Alm.,37614,3,Stuehus,109,1917,
+Abildgårdsvej 33 8570 Trustrup,33,4100000.0,11-09-2008,Alm.,20398,8,Stuehus,201,1929,
+Allelevvej 8 8570 Trustrup,8,315000.0,06-09-2008,Alm.,2250,5,Villa,140,1877,
+Solhøjvej 35 8570 Trustrup,35,2395000.0,05-08-2008,Alm.,14693,5,Villa,163,2008,0 %
+Fævejlevej 2 8570 Trustrup,2,1025000.0,02-08-2008,Alm.,6406,9,Stuehus,160,1907,-20 %
+Abildgårdsvej 6 8570 Trustrup,6,588000.0,08-07-2008,Fam.,4140,5,Villa,142,1973,
+Fuglebækvej 16 8570 Trustrup,16,610272.0,27-06-2008,Alm.,3721,6,Villa,164,2003,
+Petersborgvej 10 8570 Trustrup,10,548000.0,11-06-2008,Alm.,9133,2,Villa,60,1900,0 %
+Vesterbro 18 8570 Trustrup,18,1200000.0,26-05-2008,Alm.,9836,4,Villa,122,1957,
+Linde Allé 16 8570 Trustrup,16,1781000.0,19-05-2008,Alm.,15486,4,Villa,115,2008,5 %
+Revnvej 38 8570 Trustrup,38,1514000.0,16-05-2008,Alm.,9895,5,Villa,153,1941,
+Linde Allé 14 8570 Trustrup,14,1760000.0,22-04-2008,Alm.,15304,4,Villa,115,2007,4 %
+Askhøjvej 19 8570 Trustrup,19,8120000.0,21-04-2008,Alm.,35304,11,Stuehus,230,1937,
+Søbyvej 31 8570 Trustrup,31,6600000.0,15-04-2008,Alm.,34196,8,Stuehus,193,1912,
+Svenstrupvej 2 8570 Trustrup,2,1305994.0,11-04-2008,Alm.,6278,8,Stuehus,208,1890,
+Århusvej 225 8570 Trustrup,225,850000.0,10-04-2008,Alm.,12142,4,Villa,70,1927,
+Tjørnegårdsparken 30 8570 Trustrup,30,653789.0,03-04-2008,Alm.,3143,7,Villa,208,1977,
+Allelev Sund 5B 8570 Trustrup,0,6000000.0,27-03-2008,Alm.,31914,11,Stuehus,188,1969,
+Solhøjvej 10 8570 Trustrup,10,1475000.0,17-03-2008,Alm.,14182,4,Villa,104,2006,0 %
+Solhøjvej 6 8570 Trustrup,6,2000000.0,16-03-2008,Alm.,14285,4,Villa,140,2006,
+Søndervang 3 8570 Trustrup,3,392000.0,10-02-2008,Andet,4355,3,Villa,90,1962,
+Århusvej 216 8570 Trustrup,216,1485000.0,11-12-2007,Alm.,6659,8,Villa,223,1895,-3 %
+Århusvej 226 8570 Trustrup,226,850000.0,03-12-2007,Alm.,7943,4,Villa,107,1959,
+Petersborgvej 7 8570 Trustrup,7,190000.0,03-12-2007,Alm.,1496,4,Villa,127,2008,
+Fladstrupvej 31 8570 Trustrup,31,1625000.0,12-11-2007,Alm.,7593,7,Villa,214,1900,-3 %
+Park Allé 2 8570 Trustrup,2,1000000.0,11-11-2007,Alm.,5882,11,Ukendt,170,1927,
+Egehøjvej 5 8570 Trustrup,5,1435000.0,28-08-2007,Alm.,13045,4,Villa,110,1940,0 %
+Tjørnegårdsparken 1 8570 Trustrup,1,1425000.0,16-08-2007,Alm.,5035,10,Villa,283,1977,
+Solhøjvej 7 8570 Trustrup,7,1495000.0,25-07-2007,Alm.,13000,4,Villa,115,2007,0 %
+Vesterbro 36 8570 Trustrup,36,975000.0,05-07-2007,Alm.,8405,4,Villa,116,1973,
+Lyngbyvej 104 8570 Trustrup,104,815000.0,22-06-2007,Alm.,5544,5,Villa,147,1946,
+Fuglebækvej 10 8570 Trustrup,10,116280.0,21-06-2007,Alm.,848,4,Villa,137,1906,
+Fladstrupvej 56 8570 Trustrup,56,830000.0,20-06-2007,Alm.,6194,4,Villa,134,1888,-1 %
+Fladstrupvej 41 8570 Trustrup,41,700000.0,17-06-2007,Alm.,7608,4,Villa,92,1907,
+Århusvej 198 8570 Trustrup,198,635000.0,15-06-2007,Alm.,4568,3,Villa,139,1944,
+Nordbakken 1 8570 Trustrup,1,317000.0,14-06-2007,Alm.,1832,5,Villa,173,2017,
+Vesterbro 5 8570 Trustrup,5,397000.0,13-06-2007,Andet,5089,3,Villa,78,1954,
+Abildgårdsvej 22 8570 Trustrup,22,925000.0,06-06-2007,Alm.,6751,5,Stuehus,137,1925,
+Elmevej 4 8570 Trustrup,4,820000.0,04-06-2007,Alm.,8723,3,Villa,94,1963,
+Århusvej 229 8570 Trustrup,229,1150000.0,03-06-2007,Alm.,11274,2,Villa,102,1929,
+Vesterbro 1C 8570 Trustrup,0,620000.0,01-06-2007,Fam.,6391,5,Villa,97,1953,
+Fævejlevej 27 8570 Trustrup,27,3200000.0,28-05-2007,Alm.,0,0,Andre vurderinger,0,0,
+Nygårdsvej 40 8570 Trustrup,40,350000.0,02-05-2007,Fam.,3977,3,Villa,88,1900,
+Svinget 2 8570 Trustrup,2,1155000.0,25-04-2007,Alm.,5833,8,Villa,198,1915,-2 %
+Vesterbro 8 8570 Trustrup,8,535000.0,19-04-2007,Alm.,5691,3,Villa,94,1948,0 %
+Andkærvej 15 8570 Trustrup,15,475000.0,02-04-2007,Alm.,5277,3,Villa,90,1893,
+Lykkesholmvej 5 8570 Trustrup,5,475000.0,08-02-2007,Alm.,8333,2,Villa,57,1903,
+Fladstrupvej 29 8570 Trustrup,29,3002500.0,22-01-2007,Fam.,28595,4,Stuehus,105,1920,
+Harestien 2 8570 Trustrup,2,925000.0,11-01-2007,Alm.,7581,4,Villa,122,1969,-3 %
+Revnvej 29 8570 Trustrup,29,2515011.0,03-01-2007,Alm.,14209,6,Villa,177,1900,
+Petersborgvej 11 8570 Trustrup,11,1085000.0,02-01-2007,Alm.,10850,4,Villa,100,1953,
+Lyngbyvej 52 8570 Trustrup,52,1350000.0,29-12-2006,Fam.,6428,4,Stuehus,210,1920,
+Tjørnegårdsparken 16 8570 Trustrup,16,1150000.0,12-12-2006,Alm.,9745,4,Villa,118,1975,
+Søbyvej 17 8570 Trustrup,17,3300000.0,05-12-2006,Alm.,8684,9,Villa,380,1877,
+Grønlandsvej 19 8570 Trustrup,19,1640000.0,01-12-2006,Alm.,9590,6,Stuehus,171,1913,
+Petersborgvej 8 8570 Trustrup,8,410000.0,28-11-2006,Alm.,3942,3,Villa,104,1877,
+Lyngbyvej 28 8570 Trustrup,28,150440.0,28-11-2006,Alm.,1131,4,Stuehus,133,1868,
+Århusvej 276 8570 Trustrup,276,775000.0,09-11-2006,Alm.,4696,4,Villa,165,1877,
+Århusvej 224 8570 Trustrup,224,1065000.0,05-11-2006,Alm.,8068,3,Villa,132,1927,
+Skolegade 13 8570 Trustrup,13,1650000.0,18-10-2006,Alm.,6680,7,Anden beboelse,247,1898,
+Holtbakkevej 7 8570 Trustrup,7,785000.0,06-10-2006,Alm.,5233,6,Villa,150,1897,
+Lyngbyvej 89 8570 Trustrup,89,815000.0,19-09-2006,Alm.,6735,5,Villa,121,1929,
+Lyngbyvej 10 8570 Trustrup,10,360000.0,18-09-2006,Alm.,2627,4,Villa,137,1939,
+Askhøjvej 53 8570 Trustrup,53,350000.0,11-09-2006,Alm.,3977,3,Villa,88,1877,
+Petersborgvej 24C 8570 Trustrup,0,680000.0,11-09-2006,Alm.,9066,3,Lejlighed,75,1973,
+Nygårdsvej 12 8570 Trustrup,12,637500.0,08-09-2006,Fam.,4086,5,Villa,156,1827,
+Århusvej 131 8570 Trustrup,131,675000.0,25-08-2006,Alm.,4687,4,Villa,144,1903,
+Vesterbro 1B 8570 Trustrup,0,90000.0,23-08-2006,Alm.,562,5,Villa,160,2008,
+Allelevvej 10 8570 Trustrup,10,415000.0,05-08-2006,Alm.,0,10,Villa,282,1902,
+Østerbro 8 8570 Trustrup,8,1200000.0,12-07-2006,Alm.,9375,4,Villa,128,1973,
+Fævejlevej 6B 8570 Trustrup,0,762500.0,10-07-2006,Alm.,3596,6,Villa,212,1979,
+Fladstrupvej 53 8570 Trustrup,53,400000.0,05-07-2006,Alm.,1509,10,Villa,265,1842,
+Århusvej 123 8570 Trustrup,123,430000.0,29-06-2006,Fam.,5058,3,Villa,85,1890,
+Revnvej 44 8570 Trustrup,44,613366.0,28-06-2006,Fam.,3672,6,Villa,167,1887,
+Askhøjvej 51 8570 Trustrup,51,48583.0,25-06-2006,Andet,607,3,Villa,80,1907,
+Askhøjvej 49 8570 Trustrup,49,86465.0,25-06-2006,Andet,1394,3,Villa,62,1907,
+Lyngbyvej 109 8570 Trustrup,109,1540000.0,08-06-2006,Alm.,11079,4,Villa,139,1939,
+Solhøjvej 14 8570 Trustrup,14,1250000.0,29-05-2006,Alm.,8928,5,Villa,140,1998,
+Fladstrupvej 33 8570 Trustrup,33,1320000.0,09-05-2006,Alm.,4888,8,Villa,270,1875,
+Svenstrupvej 4 8570 Trustrup,4,290214.0,02-05-2006,Alm.,1667,4,Villa,174,2016,
+Nygårdsvej 31A 8570 Trustrup,0,420000.0,17-04-2006,Alm.,0,8,Villa,269,2008,
+Østerbro 5 8570 Trustrup,5,1000000.0,12-04-2006,Alm.,5263,6,Villa,190,1967,
+Fuglebækvej 8 8570 Trustrup,8,1350000.0,10-04-2006,Alm.,6783,6,Villa,199,1902,
+Nygårdsvej 13 8570 Trustrup,13,1195000.0,06-04-2006,Alm.,6289,6,Villa,190,1972,
+Revnvej 36 8570 Trustrup,36,575000.0,28-03-2006,Fam.,3807,4,Villa,151,1940,
+Askhøjvej 78 8570 Trustrup,78,745000.0,27-03-2006,Alm.,6367,4,Villa,117,1827,
+Petersborgvej 36 8570 Trustrup,36,550000.0,17-03-2006,Alm.,6111,3,Villa,90,1900,
+Fladstrupvej 17 8570 Trustrup,17,475000.0,14-03-2006,Alm.,2178,5,Stuehus,218,2016,
+Elmevej 12 8570 Trustrup,12,995000.0,08-03-2006,Alm.,8223,3,Villa,121,1965,
+Nygårdsvej 23 8570 Trustrup,23,3000000.0,07-03-2006,Alm.,20833,6,Stuehus,144,1850,
+Ballevej 25 8570 Trustrup,25,900000.0,03-03-2006,Alm.,8035,4,Stuehus,112,1900,
+Andkærvej 9 8570 Trustrup,9,580000.0,23-02-2006,Alm.,2829,9,Villa,205,1905,
+Abildgårdsvej 20 8570 Trustrup,20,2750000.0,10-02-2006,Alm.,12114,7,Stuehus,227,1954,
+Arkesvej 4 8570 Trustrup,4,2400000.0,10-01-2006,Alm.,55813,2,Rækkehus,43,1992,
+Fladstrupvej 21 8570 Trustrup,21,2000000.0,19-12-2005,Alm.,8333,7,Stuehus,240,1890,
+Solhøjvej 20 8570 Trustrup,20,54925.0,09-12-2005,Alm.,341,5,Villa,161,2007,
+Århusvej 173 8570 Trustrup,173,695000.0,28-11-2005,Alm.,4316,7,Villa,161,1927,
+Vesterbro 34 8570 Trustrup,34,1125000.0,21-11-2005,Alm.,8928,4,Villa,126,1973,
+Grønlandsvej 7 8570 Trustrup,7,219707.0,09-11-2005,Andet,3230,2,Villa,68,1910,
+Solhøjvej 12 8570 Trustrup,12,34710.0,08-11-2005,Alm.,333,4,Villa,104,2006,
+Petersborgvej 6 8570 Trustrup,6,310670.0,31-10-2005,Fam.,2157,6,Villa,144,1907,
+Østerbro 18 8570 Trustrup,18,995000.0,25-10-2005,Alm.,5437,8,Villa,183,1970,
+Abildgårdsvej 25 8570 Trustrup,25,595000.0,25-10-2005,Alm.,3940,4,Villa,151,1927,
+Petersborgvej 26 8570 Trustrup,26,745000.0,24-10-2005,Alm.,7450,4,Villa,100,1964,
+Petersborgvej 5 8570 Trustrup,5,595000.0,04-10-2005,Alm.,0,5,Villa,148,1850,
+Revnvej 42 8570 Trustrup,42,1090000.0,14-09-2005,Alm.,7956,6,Villa,137,1912,
+Vesterbro 30 8570 Trustrup,30,1065000.0,01-09-2005,Alm.,5461,6,Villa,195,1976,
+Fladstrupvej 35 8570 Trustrup,35,1495000.0,10-08-2005,Alm.,7746,7,Stuehus,193,1975,
+Fladstrupvej 30 8570 Trustrup,30,462737.0,08-08-2005,Andet,3004,5,Villa,154,1937,
+Svinget 10 8570 Trustrup,10,185000.0,04-08-2005,Alm.,2846,2,Villa,65,1888,
+Tjørnegårdsparken 36 8570 Trustrup,36,1012286.0,27-07-2005,Alm.,5011,7,Villa,202,1977,
+Fuglebækvej 14 8570 Trustrup,14,1300000.0,26-07-2005,Alm.,8666,4,Villa,150,1952,
+Ballevej 34 8570 Trustrup,34,425000.0,21-07-2005,Alm.,4885,4,Villa,87,1906,
+Fævejlevej 1 8570 Trustrup,1,468000.0,16-06-2005,Alm.,4254,4,Villa,110,1992,
+Århusvej 238 8570 Trustrup,238,485113.0,26-05-2005,Alm.,4182,4,Villa,116,1936,
+Petersborgvej 24A 8570 Trustrup,0,398000.0,20-05-2005,Alm.,5685,3,Lejlighed,70,1973,
+Lykkesholmvej 19 8570 Trustrup,19,695000.0,12-05-2005,Alm.,5560,4,Villa,125,1950,
+Tjørnegårdsparken 9 8570 Trustrup,9,915000.0,10-05-2005,Alm.,7379,5,Villa,124,1976,
+Nygårdsvej 22 8570 Trustrup,22,725000.0,23-04-2005,Alm.,5846,4,Villa,124,1934,
+Søbyvej 27 8570 Trustrup,27,245774.0,19-04-2005,Alm.,3191,2,Villa,77,1936,
+Linde Allé 3 8570 Trustrup,3,725000.0,14-04-2005,Alm.,5708,3,Villa,127,1958,
+Lyngbyvej 100 8570 Trustrup,100,745000.0,12-04-2005,Alm.,4806,5,Villa,155,1900,
+Vænget 2 8570 Trustrup,2,600000.0,06-04-2005,Alm.,4411,3,Villa,136,1964,
+Abildgårdsvej 27 8570 Trustrup,27,1495000.0,05-04-2005,Alm.,10602,5,Villa,141,1900,
+Vesterbro 17 8570 Trustrup,17,820000.0,25-02-2005,Alm.,6074,5,Villa,135,1975,
+Århusvej 227 8570 Trustrup,227,900620.0,24-02-2005,Alm.,4690,3,Villa,192,1928,
+Lykkesholmvej 9 8570 Trustrup,9,540000.0,11-02-2005,Alm.,4090,6,Villa,132,1918,
+Askhøjvej 60 8570 Trustrup,60,500000.0,29-12-2004,Alm.,1724,11,Villa,290,1880,
+Vesterbro 15 8570 Trustrup,15,337500.0,16-12-2004,Fam.,3068,4,Villa,110,1975,
+Vesterbro 19 8570 Trustrup,19,925000.0,16-11-2004,Alm.,6085,4,Villa,152,1974,
+Abildgårdsvej 35 8570 Trustrup,35,1100000.0,04-11-2004,Alm.,9909,4,Villa,111,1930,
+Stationsgade 15 8570 Trustrup,15,875000.0,04-11-2004,Alm.,6433,4,Villa,136,1915,
+Holtbakkevej 13 8570 Trustrup,13,1100000.0,20-10-2004,Alm.,4400,8,Stuehus,250,1877,
+Allelev Sund 12 8570 Trustrup,12,1055000.0,03-10-2004,Alm.,7589,6,Villa,139,1926,
+Lyngbyvej 116 8570 Trustrup,116,400000.0,10-08-2004,Alm.,4545,4,Villa,88,1895,
+Diverhøjvej 4 8570 Trustrup,4,1085000.0,15-07-2004,Alm.,7695,4,Villa,141,1912,
+Lyngbyvej 118 8570 Trustrup,118,963000.0,30-06-2004,Alm.,5291,5,Villa,182,1900,
+Askhøjvej 31 8570 Trustrup,31,1395000.0,22-06-2004,Alm.,7750,4,Villa,180,1907,
+Søndervang 11 8570 Trustrup,11,851065.0,13-06-2004,Alm.,6863,4,Villa,124,1976,
+Ballevej 38 8570 Trustrup,38,580000.0,09-06-2004,Alm.,4142,3,Villa,140,1897,
+Vestersmindevej 22 8570 Trustrup,22,350170.0,27-05-2004,Alm.,4668,3,Villa,75,1777,
+Fævejlevej 13 8570 Trustrup,13,28000.0,18-05-2004,Alm.,250,4,Stuehus,112,1932,
+Lyngbyvej 23 8570 Trustrup,23,724000.0,10-05-2004,Alm.,5362,4,Villa,135,1964,
+Århusvej 206 8570 Trustrup,206,499000.0,06-05-2004,Alm.,5091,4,Villa,98,1951,
+Skolegade 5 8570 Trustrup,5,439401.0,03-05-2004,Fam.,2929,5,Villa,150,1900,
+Lyngbyvej 108 8570 Trustrup,108,725000.0,30-04-2004,Alm.,3295,7,Villa,220,1977,
+Holtbakkevej 10 8570 Trustrup,10,63000.0,05-04-2004,Auktion,759,3,Villa,83,1877,
+Tjørnegårdsparken 26 8570 Trustrup,26,790000.0,15-03-2004,Alm.,4906,5,Villa,161,1989,
+Sundet 1 8570 Trustrup,1,500000.0,01-03-2004,Auktion,4237,4,Villa,118,1928,
+Grønlandsvej 2 8570 Trustrup,2,1530000.0,19-12-2003,Alm.,11333,4,Stuehus,135,1919,
+Tjørnegårdsparken 25 8570 Trustrup,25,905000.0,28-11-2003,Alm.,5764,5,Villa,157,1976,
+Lyngbyvej 111 8570 Trustrup,111,5322767.0,19-11-2003,Fam.,26091,8,Stuehus,204,1934,
+Obdrupvej 25 8570 Trustrup,25,1050101.0,06-11-2003,Alm.,5224,6,Villa,201,1961,
+Abildgårdsvej 10 8570 Trustrup,10,2250000.0,23-09-2003,Alm.,21634,4,Villa,104,1962,
+Lyngbyvej 60 8570 Trustrup,60,1418575.0,26-08-2003,Fam.,0,4,Stuehus,166,1920,
+Petersborgvej 34 8570 Trustrup,34,550000.0,04-08-2003,Alm.,5140,4,Villa,107,1908,
+Egehøjvej 3 8570 Trustrup,3,215000.0,01-08-2003,Alm.,5375,3,Sommerhus,40,1970,
+Askhøjvej 70 8570 Trustrup,70,245000.0,28-07-2003,Alm.,3500,2,Rækkehus,70,1897,
+Vestersmindevej 4 8570 Trustrup,4,336840.0,25-07-2003,Alm.,5263,3,Villa,64,1893,
+Diverhøjvej 9 8570 Trustrup,9,7011000.0,14-07-2003,Fam.,21978,9,Stuehus,319,1960,
+Søbyvej 10 8570 Trustrup,10,65000.0,09-07-2003,Fam.,422,5,Villa,154,2004,
+Lyngbyvej 83 8570 Trustrup,83,285000.0,25-06-2003,Alm.,4750,2,Villa,60,1900,
+Holtbakkevej 9 8570 Trustrup,9,750000.0,13-06-2003,Alm.,9375,3,Stuehus,80,1890,
+Fuglebækvej 3 8570 Trustrup,3,550000.0,20-05-2003,Alm.,5500,3,Villa,100,1910,
+Århusvej 135 8570 Trustrup,135,699000.0,01-04-2003,Alm.,5923,5,Villa,118,1894,
+Albøgevej 6 8570 Trustrup,6,520000.0,21-01-2003,Alm.,3969,4,Villa,131,1916,
+Århusvej 145 8570 Trustrup,145,529916.0,07-01-2003,Alm.,6161,3,Villa,86,1954,
+Stationsgade 11B 8570 Trustrup,0,430000.0,10-12-2002,Alm.,3115,6,Villa,138,1900,
+Lykkesholmvej 6 8570 Trustrup,6,610000.0,07-12-2002,Alm.,5809,4,Villa,105,1935,
+Park Allé 4 8570 Trustrup,4,780000.0,05-12-2002,Fam.,5454,5,Villa,143,1900,
+Århusvej 191B 8570 Trustrup,0,750000.0,26-11-2002,Alm.,3456,5,Villa,217,1934,
+Lyngbyvej 77 8570 Trustrup,77,420000.0,04-10-2002,Fam.,4000,3,Villa,105,1950,
+Abildgårdsvej 4 8570 Trustrup,4,1114324.0,01-10-2002,Alm.,7235,6,Villa,154,1986,
+Petersborgvej 39 8570 Trustrup,39,1655000.0,26-09-2002,Alm.,0,6,Stuehus,233,1946,
+Allelev Sund 3 8570 Trustrup,3,201000.0,16-09-2002,Auktion,1675,6,Villa,120,1907,
+Århusvej 180 8570 Trustrup,180,651843.0,13-09-2002,Andet,5342,4,Villa,122,1986,
+Lykkesholmvej 11 8570 Trustrup,11,750000.0,24-07-2002,Alm.,7653,4,Villa,98,1950,
+Århusvej 233 8570 Trustrup,233,13575000.0,13-06-2002,Alm.,34280,9,Stuehus,396,1866,
+Revnvej 54 8570 Trustrup,54,550000.0,07-05-2002,Alm.,3055,10,Villa,180,1852,
+Århusvej 143 8570 Trustrup,143,495000.0,14-04-2002,Alm.,4805,4,Villa,103,1957,
+Allelevvej 11 8570 Trustrup,11,5089365.0,26-03-2002,Fam.,22619,11,Stuehus,225,1846,
+Tjørnegårdsparken 15 8570 Trustrup,15,904000.0,24-03-2002,Alm.,6457,4,Villa,140,1976,
+Kastanie Allé 14 8570 Trustrup,14,470000.0,06-03-2002,Alm.,5222,3,Villa,90,1963,
+Århusvej 195 8570 Trustrup,195,767276.0,28-02-2002,Alm.,3619,6,Villa,212,1926,
+Abildgårdsvej 12 8570 Trustrup,12,1301308.0,24-01-2002,Alm.,8133,6,Villa,160,1967,
+Søndervang 9 8570 Trustrup,9,458000.0,15-01-2002,Alm.,4320,4,Villa,106,1967,
+Fladstrupvej 20 8570 Trustrup,20,929400.0,17-12-2001,Alm.,4112,6,Stuehus,226,1917,
+Fladstrupvej 22 8570 Trustrup,22,4650902.0,17-12-2001,Fam.,20579,7,Stuehus,226,1900,
+Obdrupvej 2 8570 Trustrup,2,210000.0,14-12-2001,Alm.,1510,6,Villa,139,1900,
+Askhøjvej 1 8570 Trustrup,1,272000.0,28-11-2001,Fam.,3532,3,Villa,77,1900,
+Lyngbyvej 98 8570 Trustrup,98,540000.0,08-11-2001,Alm.,5192,2,Villa,104,1958,
+Fladstrupvej 39 8570 Trustrup,39,500000.0,31-10-2001,Alm.,2392,9,Villa,209,1880,
+Revnvej 46 8570 Trustrup,46,390000.0,31-10-2001,Alm.,4333,2,Villa,90,1900,
+Tjørnegårdsparken 34 8570 Trustrup,34,824529.0,19-10-2001,Alm.,5460,5,Villa,151,1977,
+Harestien 4 8570 Trustrup,4,330960.0,08-10-2001,Andet,2018,6,Villa,164,1976,
+Park Allé 1 8570 Trustrup,1,294587.0,24-09-2001,Alm.,3927,4,Villa,75,1905,
+Århusvej 218 8570 Trustrup,218,450000.0,06-09-2001,Alm.,3461,4,Villa,130,1920,
+Mølletoften 29 8570 Trustrup,29,645000.0,17-08-2001,Alm.,4417,6,Villa,146,1968,
+Grønlandsvej 1 8570 Trustrup,1,760000.0,31-05-2001,Alm.,5352,5,Stuehus,142,1910,
+Vesterbro 3 8570 Trustrup,3,350000.0,24-04-2001,Alm.,1923,3,Villa,182,1967,
+Lyngbyvej 41 8570 Trustrup,41,1049755.0,01-04-2001,Alm.,4707,7,Villa,223,1968,
+Fladstrupvej 25 8570 Trustrup,25,850000.0,30-03-2001,Alm.,5821,5,Villa,146,1890,
+Diverhøjvej 7 8570 Trustrup,7,950000.0,29-03-2001,Fam.,6785,5,Villa,140,1974,
+Tinghøjvej 11 8570 Trustrup,11,664797.0,09-02-2001,Alm.,3291,9,Villa,202,1880,
+Søndervang 7 8570 Trustrup,7,665000.0,05-02-2001,Alm.,4375,4,Villa,152,1966,
+Grønlandsvej 13 8570 Trustrup,13,480000.0,14-01-2001,Alm.,4285,4,Villa,112,1911,
+Fladstrupvej 43 8570 Trustrup,43,2270000.0,04-01-2001,Alm.,11350,7,Stuehus,200,1915,
+Lyngbyvej 61 8570 Trustrup,61,497055.0,15-11-2000,Alm.,5648,3,Villa,88,1962,
+Mølletoften 27 8570 Trustrup,27,699360.0,01-11-2000,Alm.,4693,5,Villa,149,1974,
+Askhøjvej 18 8570 Trustrup,18,526000.0,29-09-2000,Alm.,3287,5,Villa,160,1899,
+Holtbakkevej 18 8570 Trustrup,18,2525000.0,03-08-2000,Alm.,14511,7,Stuehus,174,1911,
+Hallendrupvej 42 8570 Trustrup,42,325042.0,30-05-2000,Alm.,1923,3,Villa,169,1915,
+Grønlandsvej 17 8570 Trustrup,17,1157000.0,26-05-2000,Alm.,5142,4,Villa,225,1910,
+Lykkesholmvej 7 8570 Trustrup,7,680725.0,23-05-2000,Alm.,4568,5,Villa,149,1910,
+Tjørnegårdsparken 28 8570 Trustrup,28,640000.0,24-03-2000,Alm.,5333,5,Villa,120,1977,
+Grønlandsvej 15 8570 Trustrup,15,524263.0,14-03-2000,Alm.,0,5,Villa,241,1910,
+Fladstrupvej 23 8570 Trustrup,23,60000.0,01-02-2000,Alm.,923,2,Villa,65,1910,
+Lyngbyvej 93 8570 Trustrup,93,110000.0,04-12-1999,Alm.,982,4,Rækkehus,112,1777,
+Lyngbyvej 91 8570 Trustrup,91,125000.0,02-12-1999,Alm.,1116,4,Rækkehus,112,1870,
+Nygårdsvej 19 8570 Trustrup,19,440593.0,09-10-1999,Alm.,4156,3,Villa,106,1956,
+Søbyvej 5 8570 Trustrup,5,505000.0,25-08-1999,Fam.,4353,3,Villa,116,1954,
+Arkesvej 1 8570 Trustrup,1,375000.0,04-05-1999,Alm.,2343,5,Villa,160,1894,
+Fladstrupvej 58 8570 Trustrup,58,107267.0,10-03-1999,Andet,1489,3,Villa,72,1964,
+Fladstrupvej 34 8570 Trustrup,34,601000.0,04-02-1999,Alm.,4518,4,Villa,133,1973,
+Søndervang 15 8570 Trustrup,15,1027000.0,01-02-1999,Alm.,4961,6,Villa,207,1988,
+Lyngbyvej 120 8570 Trustrup,120,545000.0,26-01-1999,Alm.,4739,4,Villa,115,1907,
+Svinget 8 8570 Trustrup,8,368000.0,02-12-1998,Alm.,3092,3,Rækkehus,119,1900,
+Askhøjvej 8 8570 Trustrup,8,688432.0,11-11-1998,Alm.,3476,6,Villa,198,1900,
+Petersborgvej 3 8570 Trustrup,3,556000.0,28-10-1998,Alm.,5054,4,Villa,110,1942,
+Lykkesholmvej 15 8570 Trustrup,15,612000.0,13-10-1998,Alm.,5513,5,Villa,111,1955,
+Århusvej 278 8570 Trustrup,278,1317500.0,23-09-1998,Fam.,7750,6,Stuehus,170,1904,
+Tjørnegårdsparken 46 8570 Trustrup,46,847000.0,26-08-1998,Alm.,5360,5,Villa,158,1976,
+Fuglebækvej 28 8570 Trustrup,28,476000.0,07-08-1998,Alm.,0,5,Villa,171,1905,
+Fårvadvej 8 8570 Trustrup,8,7180050.0,30-07-1998,Alm.,53582,7,Stuehus,134,1912,
+Tinghøjvej 9 8570 Trustrup,9,1548000.0,19-06-1998,Alm.,8147,7,Stuehus,190,1896,
+Århusvej 288 8570 Trustrup,288,548000.0,25-05-1998,Alm.,3558,4,Villa,154,1777,
+Fladstrupvej 42 8570 Trustrup,42,420000.0,29-04-1998,Alm.,4158,4,Villa,101,1964,
+Fuglebækvej 12 8570 Trustrup,12,373000.0,29-04-1998,Alm.,3730,4,Villa,100,1964,
+Mølletoften 13A 8570 Trustrup,0,238000.0,30-03-1998,Alm.,2615,3,Villa,91,1900,
+Fladstrupvej 13 8570 Trustrup,13,350000.0,27-01-1998,Alm.,0,6,Villa,110,1899,
+Tinghøjvej 2 8570 Trustrup,2,493924.0,14-01-1998,Fam.,4410,4,Stuehus,112,1907,
+Århusvej 133 8570 Trustrup,133,341000.0,05-01-1998,Alm.,2131,7,Villa,160,1907,
+Stationsgade 20 8570 Trustrup,20,662440.0,11-12-1997,Alm.,2481,11,Villa,267,1905,
+Tinghøjvej 1 8570 Trustrup,1,610000.0,11-12-1997,Alm.,3812,7,Villa,160,1927,
+Tjørnegårdsparken 22 8570 Trustrup,22,599628.0,05-11-1997,Alm.,4835,4,Villa,124,1976,
+Århusvej 217 8570 Trustrup,217,10000.0,05-11-1997,Alm.,172,1,Villa,58,1840,
+Hallendrupvej 50 8570 Trustrup,50,1321404.0,03-11-1997,Alm.,8008,7,Stuehus,165,1980,
+Skolegade 8 8570 Trustrup,8,295000.0,09-10-1997,Alm.,2836,4,Villa,104,1914,
+Fladstrupvej 2 8570 Trustrup,2,563000.0,24-09-1997,Alm.,4265,4,Villa,132,1952,
+Tjørnegårdsparken 33 8570 Trustrup,33,672000.0,06-09-1997,Alm.,5090,4,Villa,132,1977,
+Lykkesholmvej 4 8570 Trustrup,4,650000.0,27-08-1997,Alm.,3987,5,Villa,163,1991,
+Skolegade 11 8570 Trustrup,11,735000.0,09-06-1997,Alm.,5444,7,Villa,135,1949,
+Vestersmindevej 15 8570 Trustrup,15,760870.0,08-03-1997,Alm.,4755,6,Villa,160,1931,
+Skolegade 12 8570 Trustrup,12,368250.0,26-02-1997,Alm.,2557,4,Villa,144,1904,
+Ellegårdvej 1 8570 Trustrup,1,123213.0,24-02-1997,Alm.,751,5,Villa,164,1894,
+Askhøjvej 80 8570 Trustrup,80,535000.0,09-01-1997,Alm.,3110,5,Villa,172,1910,
+Revnvej 33 8570 Trustrup,33,410000.0,19-12-1996,Alm.,3360,4,Villa,122,1973,
+Allelevvej 14 8570 Trustrup,14,544000.0,18-12-1996,Fam.,2720,5,Villa,200,1938,
+Lyngbyvej 1 8570 Trustrup,1,331418.0,22-11-1996,Fam.,1578,7,Villa,210,1877,
+Ellegårdvej 7 8570 Trustrup,7,419000.0,13-11-1996,Alm.,0,6,Villa,280,1880,
+Århusvej 194 8570 Trustrup,194,750000.0,06-11-1996,Alm.,3289,9,Villa,228,1967,
+Diverhøjvej 3 8570 Trustrup,3,600000.0,28-10-1996,Alm.,0,8,Villa,197,1877,
+Århusvej 207 8570 Trustrup,207,455000.0,24-07-1996,Alm.,0,5,Villa,150,1900,
+Fladstrupvej 36 8570 Trustrup,36,500000.0,16-07-1996,Alm.,0,5,Villa,145,1974,
+Fladstrupvej 6 8570 Trustrup,6,895141.0,12-07-1996,Fam.,7459,5,Stuehus,120,1900,
+Egehøjvej 4 8570 Trustrup,4,1267553.0,28-06-1996,Fam.,9750,5,Stuehus,130,1920,
+Solhøjvej 37 8570 Trustrup,37,72505.0,19-06-1996,Alm.,625,4,Villa,116,1997,
+Saldrupvej 2 8570 Trustrup,2,669879.0,12-05-1996,Alm.,0,7,Villa,176,1978,
+Abildgårdsvej 28 8570 Trustrup,28,918000.0,06-05-1996,Alm.,7982,4,Villa,115,1904,
+Askhøjvej 20 8570 Trustrup,20,465191.0,28-03-1996,Alm.,3578,4,Villa,130,1904,
+Obdrupvej 32 8570 Trustrup,32,694000.0,25-03-1996,Alm.,3652,6,Villa,190,1967,
+Petersborgvej 24B 8570 Trustrup,0,334000.0,04-03-1996,Alm.,4513,3,Lejlighed,74,1973,
+Vænget 1 8570 Trustrup,1,345000.0,22-02-1996,Alm.,3415,3,Villa,101,1955,
+Århusvej 214 8570 Trustrup,214,658847.0,08-02-1996,Alm.,3229,6,Villa,204,1973,
+Søbyvej 41 8570 Trustrup,41,801212.0,06-02-1996,Fam.,2743,7,Villa,292,1976,
+Mølletoften 1 8570 Trustrup,1,540000.0,18-12-1995,Fam.,2213,8,Villa,244,1965,
+Skolegade 20 8570 Trustrup,20,894558.0,30-10-1995,Alm.,11927,3,Rækkehus,75,1992,
+Lyngbyvej 36 8570 Trustrup,36,640000.0,16-10-1995,Alm.,3404,6,Villa,188,1962,
+Ballevej 3 8570 Trustrup,3,255000.0,09-09-1995,Alm.,1976,4,Villa,129,1967,
+Banevej 2 8570 Trustrup,2,245000.0,28-08-1995,Alm.,2848,3,Villa,86,1877,
+Askhøjvej 7 8570 Trustrup,7,290000.0,22-08-1995,Alm.,1959,5,Villa,148,1877,
+Nygårdsvej 11B 8570 Trustrup,0,672575.0,01-08-1995,Alm.,4873,4,Villa,138,1980,
+Århusvej 234 8570 Trustrup,234,190000.0,25-07-1995,Alm.,1484,6,Villa,128,1902,
+Nygårdsvej 8 8570 Trustrup,8,460000.0,03-07-1995,Alm.,2000,7,Villa,230,1877,
+Lyngbyvej 37 8570 Trustrup,37,650000.0,27-06-1995,Alm.,4062,6,Stuehus,160,1965,
+Østerbro 40 8570 Trustrup,40,533000.0,26-06-1995,Alm.,4758,4,Villa,112,1966,
+Århusvej 151 8570 Trustrup,151,320000.0,23-06-1995,Fam.,2000,4,Villa,160,1955,
+Søndervang 1 8570 Trustrup,1,708200.0,20-06-1995,Alm.,4292,5,Villa,165,1980,
+Vænget 4 8570 Trustrup,4,860000.0,28-03-1995,Alm.,5733,4,Villa,150,1989,
+Nygårdsvej 2 8570 Trustrup,2,650000.0,23-02-1995,Alm.,5000,4,Industri o.l.,130,1885,
+Fævejlevej 11 8570 Trustrup,11,4900000.0,20-02-1995,Alm.,20416,14,Stuehus,240,1885,
+Århusvej 179 8570 Trustrup,179,321524.0,07-02-1995,Fam.,820,11,Detailhandel,392,1966,
+Fladstrupvej 37 8570 Trustrup,37,1055000.0,30-11-1994,Fam.,8115,4,Stuehus,130,1898,
+Allelevvej 2 8570 Trustrup,2,150000.0,16-09-1994,Alm.,1530,3,Villa,98,1927,
+Fævejlevej 4 8570 Trustrup,4,150000.0,22-08-1994,Alm.,1807,4,Villa,83,1880,
+Nygårdsvej 37 8570 Trustrup,37,420000.0,27-04-1994,Alm.,3255,4,Villa,129,1971,
+Petersborgvej 4 8570 Trustrup,4,540000.0,17-04-1994,Alm.,4000,5,Villa,135,1964,
+Linde Allé 10 8570 Trustrup,10,100000.0,28-10-1993,Fam.,1369,4,Villa,73,1933,
+Lyngbyvej 67 8570 Trustrup,67,391056.0,12-10-1993,Alm.,0,6,Villa,143,1870,
+Lyngbyvej 75 8570 Trustrup,75,270000.0,05-10-1993,Alm.,2347,4,Villa,115,1933,
+Skolegade 7 8570 Trustrup,7,460000.0,11-08-1993,Alm.,2967,5,Villa,155,1907,
+Frederiksdalsvej 6 8570 Trustrup,6,4710000.0,03-08-1993,Fam.,21409,22,Stuehus,220,1902,
+Linde Allé 8 8570 Trustrup,8,288000.0,02-08-1993,Alm.,2440,4,Villa,118,1921,
+Århusvej 240 8570 Trustrup,240,675000.0,20-07-1993,Alm.,2700,8,Villa,250,1892,
+Obdrupvej 1 8570 Trustrup,1,223500.0,02-07-1993,Alm.,0,4,Villa,198,1840,
+Fuglebækvej 4 8570 Trustrup,4,500000.0,01-06-1993,Alm.,0,6,Villa,159,1854,
+Tjørnegårdsparken 18 8570 Trustrup,18,199099.0,25-02-1993,Fam.,1292,5,Villa,154,1975,
+Søndervang 10 8570 Trustrup,10,790000.0,04-02-1993,Alm.,3989,5,Villa,198,1976,
+Tinghøjvej 3 8570 Trustrup,3,1400000.0,14-01-1993,Alm.,6603,5,Stuehus,212,1922,
+Lykkesholmvej 12 8570 Trustrup,12,490000.0,26-10-1992,Alm.,3602,3,Villa,136,1920,
+Århusvej 183 8570 Trustrup,183,320000.0,17-10-1992,Alm.,3200,4,Villa,100,1943,
+Ballevej 8 8570 Trustrup,8,400000.0,17-09-1992,Alm.,0,7,Villa,178,1930,
+Askhøjvej 69 8570 Trustrup,69,1175000.0,26-08-1992,Alm.,5759,3,Stuehus,204,1864,
+Askhøjvej 64 8570 Trustrup,64,225000.0,24-07-1992,Alm.,2045,3,Villa,110,1905,
+Fuglebækvej 5 8570 Trustrup,5,430000.0,24-07-1992,Alm.,3071,5,Villa,140,1850,
+Ellegårdvej 11 8570 Trustrup,11,733000.0,30-06-1992,Alm.,0,7,Stuehus,193,1912,
+Svinget 14 8570 Trustrup,14,398891.0,21-04-1992,Alm.,1829,8,Villa,218,1900,
+Grønlandsvej 5 8570 Trustrup,5,442000.0,25-03-1992,Fam.,3202,7,Villa,138,1910,
+Søndervang 4 8570 Trustrup,4,700000.0,03-03-1992,Fam.,4861,5,Villa,144,1976,
+Lyngbyvej 96 8570 Trustrup,96,244000.0,17-02-1992,Alm.,3050,5,Villa,80,1900,
+Askhøjvej 6 8570 Trustrup,6,330000.0,27-01-1992,Alm.,2291,6,Villa,144,1930,

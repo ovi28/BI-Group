@@ -1,0 +1,833 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Hedegårdsvej 2 7755 Bedsted Thy,7755,631073.0,16-03-2017,Alm.,2755,5,Villa,229,1850,
+Morup Møllevej 55 7755 Bedsted Thy,7755,8275000.0,28-02-2017,Alm.,32968,6,Stuehus,251,1902,
+Lyngbyvej 24 7755 Bedsted Thy,7755,200000.0,27-02-2017,Alm.,1904,4,Villa,105,1904,
+Morup Møllevej 116 7755 Bedsted Thy,7755,10000.0,20-02-2017,Alm.,129,3,Villa,77,1914,
+Oddesundvej 222 7755 Bedsted Thy,7755,125000.0,03-02-2017,Alm.,1785,4,Villa,70,1926,0 %
+Iruplundvej 10 7755 Bedsted Thy,7755,80000.0,30-01-2017,Alm.,800,3,Sommerhus,100,1900,
+Rønheden 41 7755 Bedsted Thy,7755,1950000.0,30-01-2017,Alm.,8986,5,Villa,217,2005,
+Åkandevej 16 7755 Bedsted Thy,7755,200000.0,26-01-2017,Alm.,1709,4,Villa,117,1974,
+Hvidbjerggårdsvej 12 7755 Bedsted Thy,7755,9912500.0,19-01-2017,Fam.,51627,6,Stuehus,192,1908,
+Thybovej 8 7755 Bedsted Thy,7755,256965.0,19-01-2017,Fam.,1596,5,Villa,161,1877,
+Lyngbyvej 40 7755 Bedsted Thy,7755,560000.0,22-12-2016,Alm.,9333,4,Villa,60,1923,-35 %
+Gundgårdsvej 9 7755 Bedsted Thy,7755,270000.0,11-12-2016,Alm.,1525,7,Villa,177,1975,
+Hunskjærvej 3 7755 Bedsted Thy,7755,429446.0,06-12-2016,Auktion,2862,5,Stuehus,150,1970,
+Morup Møllevej 98 7755 Bedsted Thy,7755,700000.0,15-11-2016,Alm.,3196,7,Villa,219,1896,
+Skolegade 28 7755 Bedsted Thy,7755,545000.0,11-11-2016,Alm.,4037,4,Villa,135,1979,0 %
+"Nordvejen 1, 1 7755 Bedsted Thy",7755,50001.0,08-11-2016,Auktion,555,4,Villa,90,1939,
+Hedegårdsvej 27 7755 Bedsted Thy,7755,90000.0,26-10-2016,Alm.,789,6,Villa,114,1922,-5 %
+Grurupvej 9 7755 Bedsted Thy,7755,295000.0,14-10-2016,Alm.,2048,7,Villa,144,1877,0 %
+Rishøjvej 15 7755 Bedsted Thy,7755,1315000.0,13-10-2016,Alm.,6414,6,Villa,205,1939,
+Bakkevej 9A 7755 Bedsted Thy,7755,340000.0,12-10-2016,Alm.,2956,4,Villa,115,1966,
+Skovbrynet 12 7755 Bedsted Thy,7755,260628.0,29-09-2016,Fam.,2714,4,Villa,96,1965,
+Skolegade 9 7755 Bedsted Thy,7755,212500.0,26-09-2016,Alm.,1328,6,Villa,160,1967,
+Villerslevvej 18 7755 Bedsted Thy,7755,50000.0,16-09-2016,Alm.,595,4,Villa,84,1900,
+Hvidbjerggårdsvej 9 7755 Bedsted Thy,7755,350000.0,13-09-2016,Alm.,5833,3,Sommerhus,60,1968,-4 %
+Vestervigvej 129 7755 Bedsted Thy,7755,516673.0,09-09-2016,Andet,2227,9,Stuehus,232,1912,
+Vestervigvej 42 7755 Bedsted Thy,7755,300000.0,22-08-2016,Alm.,2459,5,Villa,122,1927,-8 %
+Hedegårdsvej 26 7755 Bedsted Thy,7755,285000.0,09-08-2016,Alm.,4750,4,Villa,60,1890,-3 %
+Kjallerupvej 3 7755 Bedsted Thy,7755,1940000.0,02-08-2016,Auktion,16302,4,Villa,119,1900,
+Rønheden 43 7755 Bedsted Thy,7755,1745000.0,25-07-2016,Alm.,12375,5,Villa,141,2009,-8 %
+Istrupvej 48 7755 Bedsted Thy,7755,260000.0,22-07-2016,Alm.,2600,3,Villa,100,1827,-55 %
+Svankærvej 11 7755 Bedsted Thy,7755,150000.0,14-07-2016,Alm.,1442,5,Villa,104,1938,-23 %
+Nordre Redningsvej 4 7755 Bedsted Thy,7755,2650000.0,07-07-2016,Alm.,24090,4,Sommerhus,110,1972,
+Vestervigvej 158 7755 Bedsted Thy,7755,700000.0,30-06-2016,Alm.,3743,4,Stuehus,187,1935,
+Åbrovej 9 7755 Bedsted Thy,7755,250000.0,30-06-2016,Alm.,1428,6,Stuehus,175,1975,
+Nordre Redningsvej 21 7755 Bedsted Thy,7755,1900000.0,30-06-2016,Alm.,30645,3,Sommerhus,62,1978,-3 %
+Skellebjergvej 15 7755 Bedsted Thy,7755,95000.0,29-06-2016,Alm.,678,4,Villa,140,1917,0 %
+Skovbrynet 6 7755 Bedsted Thy,7755,655000.0,27-06-2016,Alm.,8506,3,Villa,77,2013,-6 %
+Oddesundvej 240 7755 Bedsted Thy,7755,765000.0,27-06-2016,Alm.,5100,5,Stuehus,150,1902,
+Villerslevvej 11 7755 Bedsted Thy,7755,295000.0,24-06-2016,Alm.,4609,3,Villa,64,1892,0 %
+Oddesundvej 236 7755 Bedsted Thy,7755,995000.0,24-06-2016,Alm.,6030,8,Villa,165,1923,0 %
+Vestervigvej 65 7755 Bedsted Thy,7755,75000.0,31-05-2016,Alm.,663,6,Villa,113,1904,
+Vestervigvej 111 7755 Bedsted Thy,7755,71000.0,31-05-2016,Auktion,887,3,Stuehus,80,1873,
+Astavej 1 7755 Bedsted Thy,7755,900000.0,30-05-2016,Alm.,5960,7,Sommerhus,151,1920,-10 %
+Vestervigvej 34 7755 Bedsted Thy,7755,325000.0,27-05-2016,Alm.,2166,6,Villa,150,1916,0 %
+Møllestræde 5 7755 Bedsted Thy,7755,575000.0,12-05-2016,Alm.,10648,2,Villa,54,1910,-11 %
+Kystvejen 64 7755 Bedsted Thy,7755,1270000.0,10-05-2016,Alm.,5427,7,Villa,234,1927,-2 %
+Udsigten 4 7755 Bedsted Thy,7755,150000.0,20-04-2016,Alm.,2205,3,Villa,68,1971,-14 %
+Grurupvej 30 7755 Bedsted Thy,7755,61371.0,05-04-2016,Auktion,461,5,Villa,133,1900,
+Vestervigvej 33 7755 Bedsted Thy,7755,92000.0,29-03-2016,Auktion,1095,3,Villa,84,1925,
+Villerslevvej 45 7755 Bedsted Thy,7755,495000.0,26-03-2016,Alm.,3300,7,Villa,150,1918,0 %
+Thybovej 5 7755 Bedsted Thy,7755,250000.0,23-03-2016,Alm.,2272,4,Villa,110,1933,
+Stormgade 15 7755 Bedsted Thy,7755,105000.0,22-03-2016,Alm.,394,10,Villa,266,1970,
+Skyumvej 138 7755 Bedsted Thy,7755,3975000.0,17-03-2016,Alm.,23382,6,Stuehus,170,1862,
+Vestervigvej 160 7755 Bedsted Thy,7755,50000.0,11-03-2016,Alm.,694,4,Villa,72,1931,
+Grurupvej 7 7755 Bedsted Thy,7755,450000.0,09-03-2016,Alm.,2368,10,Stuehus,190,1913,
+Thylandsgade 33 7755 Bedsted Thy,7755,225000.0,25-02-2016,Alm.,1679,4,Villa,134,1973,-18 %
+Vestervigvej 103 7755 Bedsted Thy,7755,712500.0,12-02-2016,Alm.,5163,4,Villa,138,1967,-18 %
+Stenskærvej 10 7755 Bedsted Thy,7755,2982000.0,03-02-2016,Alm.,16566,6,Stuehus,180,1887,-17 %
+Fruegårdsvej 7 7755 Bedsted Thy,7755,1895000.0,22-01-2016,Alm.,9973,6,Villa,190,1908,-5 %
+Nordvejen 3 7755 Bedsted Thy,7755,95000.0,15-01-2016,Alm.,500,6,Villa,190,1939,0 %
+Thybovej 6 7755 Bedsted Thy,7755,650000.0,14-01-2016,Alm.,2765,6,Villa,235,1917,-4 %
+Højbogårdsvej 3 7755 Bedsted Thy,7755,150000.0,08-01-2016,Fam.,1530,4,Villa,98,1912,
+Nordre Redningsvej 13 7755 Bedsted Thy,7755,942200.0,27-12-2015,Fam.,14721,4,Sommerhus,64,1961,
+Gl. Bedstedvej 12 7755 Bedsted Thy,7755,2825000.0,11-12-2015,Alm.,30706,2,Villa,92,1920,
+Ringvej 11 7755 Bedsted Thy,7755,350000.0,13-11-2015,Alm.,3888,4,Villa,90,1966,0 %
+Gl. Bedstedvej 15 7755 Bedsted Thy,7755,200000.0,11-11-2015,Andet,3030,3,Villa,66,1913,
+Lyngbyvej 62 7755 Bedsted Thy,7755,462750.0,05-11-2015,Andet,3989,6,Sommerhus,116,1918,
+Vestervigvej 100 7755 Bedsted Thy,7755,2242700.0,04-11-2015,Andet,13038,8,Villa,172,1970,
+Astavej 18 7755 Bedsted Thy,7755,1900000.0,23-10-2015,Alm.,22352,8,Sommerhus,85,1976,-13 %
+Hedegårdsvej 10 7755 Bedsted Thy,7755,275000.0,19-10-2015,Alm.,2310,2,Villa,119,1954,-20 %
+Visbyvej 4 7755 Bedsted Thy,7755,460000.0,12-10-2015,Alm.,3865,4,Villa,119,1968,-4 %
+Syrenvej 7 7755 Bedsted Thy,7755,275000.0,09-10-2015,Alm.,1656,6,Villa,166,1965,-15 %
+Vestervigvej 142 7755 Bedsted Thy,7755,465170.0,11-09-2015,Andet,2258,6,Stuehus,206,1914,
+Ingersmindevej 2 7755 Bedsted Thy,7755,160000.0,17-08-2015,Alm.,1333,5,Villa,120,1957,-9 %
+Frederiksvej 3 7755 Bedsted Thy,7755,256702.0,27-07-2015,Andet,2399,3,Villa,107,1916,
+Brydbjergvej 7 7755 Bedsted Thy,7755,2097000.0,02-07-2015,Alm.,13106,6,Stuehus,160,1929,
+Gl. Bedstedvej 1B 7755 Bedsted Thy,7755,466500.0,29-06-2015,Alm.,5553,4,Villa,84,1913,
+Villerslevvej 20 7755 Bedsted Thy,7755,485000.0,28-06-2015,Alm.,2852,6,Villa,170,1918,0 %
+Vestervigvej 174 7755 Bedsted Thy,7755,1290000.0,24-06-2015,Alm.,9280,4,Stuehus,139,1915,-14 %
+Villerslevvej 10 7755 Bedsted Thy,7755,130000.0,24-06-2015,Auktion,1326,6,Villa,98,1953,
+Astavej 5 7755 Bedsted Thy,7755,1000000.0,23-06-2015,Fam.,4405,8,Sommerhus,227,1918,
+Lyngbyvej 28 7755 Bedsted Thy,7755,625000.0,22-06-2015,Alm.,5122,5,Villa,122,1888,-17 %
+Hvidbjerggårdsvej 6 7755 Bedsted Thy,7755,630000.0,03-06-2015,Alm.,2943,8,Villa,214,1979,-26 %
+Oddesundvej 242 7755 Bedsted Thy,7755,150100.0,03-06-2015,Auktion,1293,3,Villa,116,1989,
+Vestervigvej 125 7755 Bedsted Thy,7755,400000.0,02-06-2015,Fam.,4597,5,Villa,87,1923,
+Brydbjergvej 5 7755 Bedsted Thy,7755,795000.0,15-05-2015,Alm.,6309,4,Villa,126,1900,-11 %
+Rosenvænget 10 7755 Bedsted Thy,7755,740000.0,12-05-2015,Alm.,4378,5,Villa,169,1973,-1 %
+Morup Møllevej 108 7755 Bedsted Thy,7755,495000.0,07-03-2015,Alm.,2302,14,Industri o.l.,215,1934,0 %
+Gyvelvænget 14 7755 Bedsted Thy,7755,580000.0,03-03-2015,Alm.,4873,4,Villa,119,1975,-3 %
+Svindborgvej 9 7755 Bedsted Thy,7755,2920000.0,03-03-2015,Alm.,13333,7,Villa,219,1940,-1 %
+Højbogårdsvej 10 7755 Bedsted Thy,7755,287000.0,24-02-2015,Alm.,3986,5,Villa,72,1910,
+Morup Møllevej 124 7755 Bedsted Thy,7755,495000.0,23-02-2015,Alm.,3132,5,Villa,158,1915,0 %
+Morup Møllevej 8 7755 Bedsted Thy,7755,130000.0,22-02-2015,Alm.,1140,5,Villa,114,1916,-35 %
+Højbogårdsvej 11 7755 Bedsted Thy,7755,516200.0,18-02-2015,Fam.,2660,8,Stuehus,194,1900,
+Højbogårdsvej 2 7755 Bedsted Thy,7755,565000.0,21-01-2015,Fam.,4124,4,Villa,137,1873,-12 %
+Dalgårdvej 1 7755 Bedsted Thy,7755,325000.0,21-01-2015,Alm.,2708,4,Villa,120,1950,
+Vestervigvej 55 7755 Bedsted Thy,7755,250000.0,31-12-2014,Alm.,1190,6,Villa,210,1984,
+Kystvejen 85 7755 Bedsted Thy,7755,525000.0,11-12-2014,Alm.,2807,6,Stuehus,187,1930,-32 %
+Vestervigvej 47 7755 Bedsted Thy,7755,1200000.0,02-12-2014,Alm.,8823,4,Villa,136,2014,
+Hedegårdsvej 43 7755 Bedsted Thy,7755,1824711.0,01-12-2014,Fam.,8294,6,Villa,220,1915,
+Morup Møllevej 40 7755 Bedsted Thy,7755,1470000.0,27-11-2014,Alm.,5568,7,Villa,264,1956,-2 %
+Morup Møllevej 96 7755 Bedsted Thy,7755,110000.0,25-11-2014,Alm.,797,6,Villa,138,1928,
+Stormgade 31 7755 Bedsted Thy,7755,395000.0,13-11-2014,Alm.,3405,4,Villa,116,1977,-28 %
+Morup Møllevej 3 7755 Bedsted Thy,7755,590000.0,11-11-2014,Alm.,3881,6,Villa,152,1927,-5 %
+Tinghøjvej 6 7755 Bedsted Thy,7755,1300000.0,06-11-2014,Alm.,6372,5,Stuehus,204,1917,
+Rosenvænget 8 7755 Bedsted Thy,7755,225000.0,03-11-2014,Alm.,2556,3,Villa,88,1972,0 %
+Nordre Redningsvej 11 7755 Bedsted Thy,7755,1205000.0,12-10-2014,Alm.,15855,3,Sommerhus,76,1978,-10 %
+Nordre Redningsvej 5 7755 Bedsted Thy,7755,1350000.0,09-10-2014,Alm.,19285,4,Villa,70,2015,
+Lyngbyvej 51 7755 Bedsted Thy,7755,300000.0,02-10-2014,Fam.,4761,4,Sommerhus,63,1977,
+Morup Møllevej 104 7755 Bedsted Thy,7755,185000.0,19-09-2014,Alm.,1681,4,Villa,110,1964,-5 %
+Vestervigvej 60B 7755 Bedsted Thy,7755,180000.0,09-09-2014,Alm.,1551,4,Villa,116,1974,-27 %
+Skovlyvej 11 7755 Bedsted Thy,7755,1075000.0,01-09-2014,Alm.,12356,5,Sommerhus,87,1989,-2 %
+Skovvej 2 7755 Bedsted Thy,7755,390000.0,29-08-2014,Alm.,5571,4,Villa,70,1964,-1 %
+Villerslevvej 7 7755 Bedsted Thy,7755,207000.0,25-08-2014,Fam.,2875,3,Villa,72,1962,
+Vittrupvej 18 7755 Bedsted Thy,7755,775000.0,22-08-2014,Alm.,4305,5,Stuehus,180,1925,
+Horsfeldvej 12 7755 Bedsted Thy,7755,865000.0,20-08-2014,Alm.,3405,9,Villa,254,1977,0 %
+Lyngbyvej 26 7755 Bedsted Thy,7755,540000.0,04-08-2014,Fam.,4615,7,Sommerhus,117,1932,
+Villerslevvej 22 7755 Bedsted Thy,7755,410000.0,01-08-2014,Alm.,3388,5,Villa,121,1962,-10 %
+Visbyvej 5 7755 Bedsted Thy,7755,1075000.0,11-07-2014,Alm.,5972,5,Stuehus,180,1910,0 %
+Skolegade 3 7755 Bedsted Thy,7755,1347000.0,10-07-2014,Alm.,8418,5,Stuehus,160,1900,-13 %
+Horsfeldvej 6 7755 Bedsted Thy,7755,1200000.0,08-07-2014,Alm.,8450,5,Stuehus,142,1937,-3 %
+Grurupvej 13 7755 Bedsted Thy,7755,545000.0,17-04-2014,Alm.,7171,5,Villa,76,1920,0 %
+Visbyvej 7 7755 Bedsted Thy,7755,1375000.0,01-04-2014,Alm.,6138,6,Stuehus,224,1920,
+Thylandsgade 46 7755 Bedsted Thy,7755,400000.0,27-03-2014,Alm.,4444,3,Villa,90,1910,-10 %
+Ingersmindevej 3 7755 Bedsted Thy,7755,1210000.0,24-03-2014,Alm.,5000,10,Stuehus,242,1900,-7 %
+Hedegårdsvej 33 7755 Bedsted Thy,7755,440000.0,17-03-2014,Alm.,3235,5,Villa,136,1900,-19 %
+Hedegårdsvej 56 7755 Bedsted Thy,7755,670000.0,11-03-2014,Alm.,5075,5,Villa,132,1960,-16 %
+Vestervigvej 108 7755 Bedsted Thy,7755,172500.0,03-03-2014,Alm.,1487,4,Villa,116,1940,-23 %
+Udsigten 12 7755 Bedsted Thy,7755,400000.0,28-02-2014,Alm.,1619,7,Villa,247,1980,-6 %
+Skolegade 2B 7755 Bedsted Thy,7755,330000.0,20-02-2014,Alm.,2558,4,Villa,129,1978,-10 %
+Madstedvej 10 7755 Bedsted Thy,7755,4296000.0,28-01-2014,Alm.,26850,5,Stuehus,160,1930,
+Vestervigvej 84 7755 Bedsted Thy,7755,275000.0,22-01-2014,Auktion,1267,5,Erhverv,217,1917,
+Skellebjergvej 3 7755 Bedsted Thy,7755,1375000.0,20-01-2014,Alm.,6773,7,Villa,203,1942,-4 %
+Tandrupvej 2 7755 Bedsted Thy,7755,800000.0,20-12-2013,Alm.,5000,5,Stuehus,160,1908,
+Skovvej 6 7755 Bedsted Thy,7755,760000.0,07-12-2013,Alm.,3917,6,Villa,194,1975,-32 %
+Stormgade 23 7755 Bedsted Thy,7755,440000.0,29-11-2013,Alm.,3728,4,Villa,118,1979,-7 %
+Harregårdsvej 1 7755 Bedsted Thy,7755,1334000.0,19-11-2013,Alm.,6119,9,Stuehus,218,1953,-4 %
+Irisvej 13 7755 Bedsted Thy,7755,236640.0,17-11-2013,Alm.,2885,3,Villa,82,1972,-11 %
+Lyngholmvej 3 7755 Bedsted Thy,7755,495000.0,14-11-2013,Alm.,4419,4,Stuehus,112,1934,
+Madstedvej 4 7755 Bedsted Thy,7755,257000.0,29-10-2013,Alm.,1103,5,Stuehus,233,1923,
+Brydbjergvej 4 7755 Bedsted Thy,7755,325000.0,25-10-2013,Alm.,1836,6,Villa,177,1930,-13 %
+Iruplundvej 21 7755 Bedsted Thy,7755,160000.0,08-10-2013,Alm.,1777,5,Villa,90,1900,
+Gartnervænget 1 7755 Bedsted Thy,7755,370000.0,27-09-2013,Alm.,2936,3,Villa,126,1976,-3 %
+Syrenvej 9 7755 Bedsted Thy,7755,50000.0,11-09-2013,Auktion,420,4,Villa,119,1966,
+Oddesundvej 232 7755 Bedsted Thy,7755,606896.0,05-09-2013,Alm.,4045,5,Stuehus,150,1912,
+Stormgade 9 7755 Bedsted Thy,7755,63000.0,04-09-2013,Auktion,642,4,Villa,98,1957,-82 %
+Stormgade 53 7755 Bedsted Thy,7755,305000.0,02-09-2013,Andet,2210,5,Villa,138,1979,
+Morup Møllevej 67 7755 Bedsted Thy,7755,2300000.0,01-09-2013,Alm.,19166,5,Stuehus,120,1915,
+Frederiksvej 12 7755 Bedsted Thy,7755,427500.0,30-08-2013,Alm.,3392,5,Villa,126,1965,-5 %
+Østergårdvej 3 7755 Bedsted Thy,7755,700000.0,29-08-2013,Alm.,4166,7,Villa,168,1890,-10 %
+Stormgade 29 7755 Bedsted Thy,7755,360000.0,27-08-2013,Alm.,3750,3,Villa,96,1979,
+Villerupvej 7 7755 Bedsted Thy,7755,290000.0,14-08-2013,Alm.,2301,3,Villa,126,1900,
+Rosenvænget 5 7755 Bedsted Thy,7755,300000.0,08-08-2013,Alm.,2112,5,Villa,142,1974,-24 %
+Stormgade 42 7755 Bedsted Thy,7755,180000.0,07-08-2013,Alm.,3000,3,Rækkehus,60,1975,
+Lyngbyvej 61 7755 Bedsted Thy,7755,850000.0,12-07-2013,Alm.,11805,4,Villa,72,1924,-29 %
+Thylandsgade 44 7755 Bedsted Thy,7755,395000.0,27-06-2013,Alm.,2925,7,Villa,135,1918,-11 %
+Skellebjergvej 2 7755 Bedsted Thy,7755,10300000.0,24-06-2013,Andet,37318,7,Stuehus,276,1860,
+Morup Møllevej 56 7755 Bedsted Thy,7755,800000.0,24-06-2013,Andet,5128,6,Stuehus,156,1910,
+Oddesundvej 248 7755 Bedsted Thy,7755,345000.0,14-06-2013,Alm.,2331,7,Villa,148,1960,0 %
+Rønheden 2 7755 Bedsted Thy,7755,1200000.0,10-06-2013,Alm.,7361,4,Villa,163,2002,-13 %
+Hedegårdsvej 49 7755 Bedsted Thy,7755,245000.0,31-05-2013,Alm.,2041,5,Villa,120,1932,0 %
+Rønheden 21 7755 Bedsted Thy,7755,1250000.0,28-05-2013,Alm.,8865,4,Villa,141,2005,-3 %
+Åkandevej 2 7755 Bedsted Thy,7755,250000.0,27-05-2013,Alm.,2083,4,Villa,120,1975,-15 %
+Nordre Redningsvej 15 7755 Bedsted Thy,7755,1200000.0,24-05-2013,Alm.,14117,3,Sommerhus,85,2014,
+Villerslevvej 23 7755 Bedsted Thy,7755,275000.0,21-05-2013,Alm.,2182,6,Villa,126,1920,0 %
+Irisvej 3 7755 Bedsted Thy,7755,150000.0,14-05-2013,Alm.,1851,4,Villa,81,1972,-39 %
+Morup Møllevej 84 7755 Bedsted Thy,7755,575000.0,06-05-2013,Alm.,4049,6,Villa,142,1924,0 %
+Højensvej 4 7755 Bedsted Thy,7755,1100000.0,19-04-2013,Alm.,7432,7,Villa,148,1916,0 %
+Thylandsgade 52 7755 Bedsted Thy,7755,710000.0,16-04-2013,Alm.,4201,8,Villa,169,1958,-5 %
+Kildedal 10 7755 Bedsted Thy,7755,100000.0,15-04-2013,Fam.,1388,4,Villa,72,1877,
+Syrenvej 10 7755 Bedsted Thy,7755,188000.0,10-04-2013,Auktion,1790,4,Villa,105,1968,-52 %
+Rosenvænget 9 7755 Bedsted Thy,7755,340000.0,08-04-2013,Alm.,1942,5,Villa,175,1970,-14 %
+Kystvejen 72 7755 Bedsted Thy,7755,4562500.0,25-03-2013,Fam.,30416,6,Stuehus,150,1918,
+Vilhelmsmindevej 9 7755 Bedsted Thy,7755,350000.0,25-03-2013,Alm.,2734,3,Stuehus,128,1924,0 %
+Skyumvej 139 7755 Bedsted Thy,7755,460595.0,23-03-2013,Fam.,2631,7,Villa,175,1923,
+Skyumvej 141 7755 Bedsted Thy,7755,1350000.0,10-03-2013,Alm.,9121,7,Stuehus,148,1909,-3 %
+Villerslevvej 83 7755 Bedsted Thy,7755,975000.0,09-03-2013,Alm.,4620,5,Stuehus,211,1907,-39 %
+Blomstervænget 2 7755 Bedsted Thy,7755,30000.0,22-02-2013,Alm.,243,4,Villa,123,1961,
+Visbyvej 8 7755 Bedsted Thy,7755,350000.0,21-02-2013,Alm.,2500,5,Villa,140,1971,-39 %
+Gartnervænget 13 7755 Bedsted Thy,7755,300000.0,21-01-2013,Alm.,2542,4,Villa,118,1975,-24 %
+Østergade 25 7755 Bedsted Thy,7755,350000.0,16-01-2013,Auktion,2380,4,Villa,147,1933,
+Villerupvej 11 7755 Bedsted Thy,7755,8000000.0,11-01-2013,Alm.,47058,4,Stuehus,170,1933,
+Kystvejen 61 7755 Bedsted Thy,7755,1571676.0,10-01-2013,Fam.,10205,5,Stuehus,154,1998,
+Skovlyvej 22 7755 Bedsted Thy,7755,470100.0,14-12-2012,Fam.,4701,5,Sommerhus,100,1975,
+Vestervigvej 67 7755 Bedsted Thy,7755,87500.0,08-12-2012,Alm.,875,4,Villa,100,1904,0 %
+Skellebjergvej 6 7755 Bedsted Thy,7755,300000.0,05-12-2012,Alm.,2419,5,Villa,124,1884,-25 %
+Åkærsvej 1 7755 Bedsted Thy,7755,402593.0,29-11-2012,Alm.,4025,4,Sommerhus,100,1875,
+Gyvelvænget 15 7755 Bedsted Thy,7755,450000.0,24-11-2012,Alm.,3750,3,Villa,120,1977,
+Vestervigvej 9 7755 Bedsted Thy,7755,395000.0,07-11-2012,Alm.,4157,3,Villa,95,1870,-7 %
+Lyngbyvej 47 7755 Bedsted Thy,7755,1030000.0,30-10-2012,Alm.,9716,5,Sommerhus,106,1918,
+Vestervigvej 106 7755 Bedsted Thy,7755,50000.0,29-10-2012,Alm.,340,6,Villa,147,1950,
+Stormgade 35 7755 Bedsted Thy,7755,450000.0,18-10-2012,Alm.,4687,3,Villa,96,1980,-5 %
+Syrenvej 8 7755 Bedsted Thy,7755,250000.0,08-10-2012,Alm.,2941,4,Villa,85,1966,-9 %
+Ingersmindevej 8 7755 Bedsted Thy,7755,38234.0,03-10-2012,Auktion,101,15,Døgninstitution,375,1895,
+Kjærgaardsvej 4 7755 Bedsted Thy,7755,365410.0,27-08-2012,Alm.,2706,6,Villa,135,1962,
+Villerslevvej 4 7755 Bedsted Thy,7755,1012500.0,07-08-2012,Alm.,3894,7,Villa,260,1973,-6 %
+Vestervigvej 61 7755 Bedsted Thy,7755,150000.0,25-07-2012,Auktion,2678,2,Villa,56,1927,
+Gartnervænget 20 7755 Bedsted Thy,7755,535000.0,24-07-2012,Alm.,3715,4,Villa,144,1976,-2 %
+Villerslevvej 61 7755 Bedsted Thy,7755,205000.0,02-07-2012,Alm.,2050,5,Villa,100,1968,-9 %
+Morup Møllevej 71 7755 Bedsted Thy,7755,387500.0,27-06-2012,Auktion,4843,10,Servicevirksomhed,80,1864,
+Ørum Kirkevej 3 7755 Bedsted Thy,7755,600000.0,22-06-2012,Alm.,3973,4,Villa,151,1880,-14 %
+Vestervigvej 48 7755 Bedsted Thy,7755,375000.0,14-06-2012,Alm.,2388,6,Villa,157,1945,-41 %
+Brydbjergvej 10 7755 Bedsted Thy,7755,400000.0,14-06-2012,Alm.,4347,5,Stuehus,92,1898,
+Gyvelvænget 17 7755 Bedsted Thy,7755,325000.0,16-05-2012,Alm.,2754,3,Villa,118,1975,
+Grurupvej 19A 7755 Bedsted Thy,7755,92500.0,08-05-2012,Alm.,1850,3,Sommerhus,50,1950,
+Vestervigvej 107 7755 Bedsted Thy,7755,325000.0,27-04-2012,Alm.,2500,6,Villa,130,1958,0 %
+Svankærvej 7 7755 Bedsted Thy,7755,438913.0,15-02-2012,Fam.,1986,7,Villa,221,1927,
+Hedegårdsvej 29 7755 Bedsted Thy,7755,40000.0,08-02-2012,Alm.,261,6,Villa,153,1907,
+Gyvelvænget 16 7755 Bedsted Thy,7755,835000.0,07-02-2012,Alm.,3568,9,Villa,234,1975,-1 %
+Morup Møllevej 6 7755 Bedsted Thy,7755,195000.0,24-01-2012,Alm.,1822,5,Villa,107,1913,
+Østergade 8 7755 Bedsted Thy,7755,250000.0,13-01-2012,Alm.,2380,10,Industri o.l.,105,1912,
+Villerslevvej 60 7755 Bedsted Thy,7755,695000.0,07-01-2012,Alm.,4793,3,Villa,145,1872,-7 %
+Rosenvænget 12 7755 Bedsted Thy,7755,270000.0,05-01-2012,Auktion,2030,6,Villa,133,1972,-45 %
+Lyngholmvej 2 7755 Bedsted Thy,7755,240000.0,19-12-2011,Alm.,2526,3,Villa,95,1931,-9 %
+Højbogårdsvej 7 7755 Bedsted Thy,7755,480000.0,12-12-2011,Andet,3356,5,Villa,143,1930,
+Stationsvej 5 7755 Bedsted Thy,7755,260000.0,02-12-2011,Alm.,2476,3,Villa,105,1955,
+Villerslevvej 49 7755 Bedsted Thy,7755,535000.0,24-11-2011,Alm.,3639,6,Villa,147,1958,
+Vestervigvej 139 7755 Bedsted Thy,7755,575000.0,23-11-2011,Auktion,3506,10,Villa,164,1955,
+Kjallerupvej 5 7755 Bedsted Thy,7755,1730000.0,16-11-2011,Alm.,10484,6,Stuehus,165,1877,-1 %
+Jordemodervej 1 7755 Bedsted Thy,7755,1070000.0,25-10-2011,Alm.,6772,4,Villa,158,1906,
+Kjærgaardsvej 3 7755 Bedsted Thy,7755,175000.0,25-10-2011,Alm.,1750,4,Villa,100,1962,
+Vestervigvej 72 7755 Bedsted Thy,7755,225000.0,24-10-2011,Alm.,3214,5,Lejlighed,70,1900,0 %
+Villerslevvej 17 7755 Bedsted Thy,7755,200000.0,20-10-2011,Alm.,1886,6,Villa,106,1939,
+Morup Møllevej 76 7755 Bedsted Thy,7755,100000.0,17-10-2011,Alm.,666,4,Villa,150,1900,-47 %
+Lethsvej 1 7755 Bedsted Thy,7755,1105302.0,13-10-2011,Alm.,4764,6,Villa,232,2011,
+Stationsvej 6 7755 Bedsted Thy,7755,250000.0,12-10-2011,Auktion,1785,4,Villa,140,1934,-69 %
+Rønheden 8 7755 Bedsted Thy,7755,1680000.0,03-10-2011,Alm.,10500,5,Villa,160,1999,
+Morup Møllevej 23 7755 Bedsted Thy,7755,80476.0,21-09-2011,Auktion,804,4,Villa,100,1950,
+Skovbrynet 5 7755 Bedsted Thy,7755,410000.0,20-09-2011,Alm.,4659,4,Sommerhus,88,1887,
+Østergade 20 7755 Bedsted Thy,7755,350000.0,06-09-2011,Andet,2095,8,Villa,167,1913,-11 %
+Istrupvej 41 7755 Bedsted Thy,7755,672296.0,06-09-2011,Fam.,5378,5,Stuehus,125,1914,
+Stenskærvej 6 7755 Bedsted Thy,7755,1295000.0,31-08-2011,Alm.,7848,7,Villa,165,1875,0 %
+Kjallerupvej 1 7755 Bedsted Thy,7755,135000.0,31-08-2011,Alm.,725,4,Villa,186,2015,
+Dalgårdvej 3 7755 Bedsted Thy,7755,1995000.0,30-08-2011,Alm.,7823,6,Villa,255,1895,0 %
+Storkærvej 4 7755 Bedsted Thy,7755,1525000.0,30-08-2011,Alm.,0,5,Stuehus,258,1889,-4 %
+Stormgade 43 7755 Bedsted Thy,7755,950000.0,30-08-2011,Alm.,6168,5,Villa,154,1978,
+Stormgade 40 7755 Bedsted Thy,7755,175000.0,01-08-2011,Alm.,2916,3,Rækkehus,60,1975,-20 %
+Hvidbjerggårdsvej 19 7755 Bedsted Thy,7755,300000.0,08-07-2011,Alm.,3896,2,Sommerhus,77,2015,
+Gl. Bedstedvej 6 7755 Bedsted Thy,7755,553394.0,29-06-2011,Auktion,0,4,Villa,129,1935,
+Villerslevvej 21 7755 Bedsted Thy,7755,55000.0,29-06-2011,Auktion,447,3,Villa,123,1902,0 %
+Thylandsgade 4C 7755 Bedsted Thy,7755,47655.0,29-06-2011,Auktion,257,3,Rækkehus,185,1932,
+Brogårdsvej 2 7755 Bedsted Thy,7755,875000.0,31-05-2011,Alm.,3586,5,Villa,244,1907,-12 %
+Vestervigvej 28 7755 Bedsted Thy,7755,385326.0,11-05-2011,Auktion,3350,4,Villa,115,1880,
+Brogårdsvej 9 7755 Bedsted Thy,7755,1200000.0,05-05-2011,Alm.,4918,5,Stuehus,244,1965,
+Hedegårdsvej 34 7755 Bedsted Thy,7755,1215340.0,29-04-2011,Alm.,3739,9,Stuehus,325,1900,
+Kystvejen 78 7755 Bedsted Thy,7755,15890000.0,20-04-2011,Alm.,56548,10,Stuehus,281,1873,
+Morup Møllevej 106 7755 Bedsted Thy,7755,600000.0,06-04-2011,Alm.,3508,4,Villa,171,1964,-23 %
+Lodbjergvej 43 7755 Bedsted Thy,7755,270000.0,02-04-2011,Alm.,2842,4,Stuehus,95,1887,-5 %
+Vestervigvej 27 7755 Bedsted Thy,7755,250000.0,28-03-2011,Alm.,2777,5,Stuehus,90,1930,-68 %
+Kirkebakken 6 7755 Bedsted Thy,7755,125000.0,25-01-2011,Andet,912,5,Villa,137,1900,
+Gartnervænget 6 7755 Bedsted Thy,7755,275000.0,24-01-2011,Alm.,3395,3,Rækkehus,81,1977,-7 %
+Gudnæsvej 24 7755 Bedsted Thy,7755,1295000.0,22-12-2010,Alm.,7617,8,Villa,170,1961,
+Morup Møllevej 57 7755 Bedsted Thy,7755,1575000.0,22-12-2010,Alm.,6589,8,Villa,239,1913,-20 %
+Hedegårdsvej 16 7755 Bedsted Thy,7755,425000.0,21-12-2010,Alm.,5120,4,Villa,83,1907,-5 %
+Lyngbyvej 31 7755 Bedsted Thy,7755,1070000.0,19-12-2010,Fam.,6645,6,Villa,161,1908,
+Morup Møllevej 92 7755 Bedsted Thy,7755,150000.0,06-10-2010,Alm.,819,6,Stuehus,183,1932,
+Vestervigvej 44 7755 Bedsted Thy,7755,425000.0,30-09-2010,Alm.,3320,4,Villa,128,1955,0 %
+Stormgade 13 7755 Bedsted Thy,7755,395000.0,30-08-2010,Alm.,3291,6,Villa,120,1961,0 %
+Morup Møllevej 16 7755 Bedsted Thy,7755,900000.0,24-08-2010,Alm.,5844,3,Villa,154,1960,
+Lyngbyvej 49 7755 Bedsted Thy,7755,1625000.0,11-08-2010,Alm.,15931,6,Sommerhus,102,1935,-3 %
+Stormgade 5 7755 Bedsted Thy,7755,404103.0,01-07-2010,Fam.,3367,5,Villa,120,1952,
+Vestervigvej 1F 7755 Bedsted Thy,7755,1400000.0,26-06-2010,Alm.,7070,8,Stuehus,198,1908,-6 %
+Højensvej 2 7755 Bedsted Thy,7755,775000.0,19-05-2010,Alm.,4725,5,Villa,164,1928,
+Åkandevej 12 7755 Bedsted Thy,7755,555000.0,14-05-2010,Alm.,4021,4,Villa,138,1975,-17 %
+Gundgårdsvej 13 7755 Bedsted Thy,7755,646004.0,30-04-2010,Andet,2037,10,Stuehus,317,1927,
+Lyngbyvej 39 7755 Bedsted Thy,7755,861250.0,28-04-2010,Alm.,5666,5,Villa,152,1924,
+Balsbyvej 4 7755 Bedsted Thy,7755,302500.0,26-04-2010,Alm.,2700,4,Villa,112,1964,6 %
+Lodbjergvej 54 7755 Bedsted Thy,7755,1700000.0,16-04-2010,Alm.,9139,5,Villa,186,1930,
+Svindborgvej 7 7755 Bedsted Thy,7755,637500.0,12-04-2010,Fam.,4553,6,Sommerhus,140,1897,
+Nordvejen 9 7755 Bedsted Thy,7755,390000.0,22-03-2010,Alm.,3095,4,Villa,126,1955,-16 %
+Stenskærvej 8 7755 Bedsted Thy,7755,1340000.0,13-03-2010,Alm.,5560,11,Villa,241,1941,-3 %
+Stormgade 2 7755 Bedsted Thy,7755,825000.0,11-03-2010,Alm.,8593,3,Villa,96,1974,0 %
+Gundgårdsvej 18 7755 Bedsted Thy,7755,1450000.0,05-03-2010,Alm.,7880,5,Villa,184,1880,
+Skovlyvej 7 7755 Bedsted Thy,7755,1537500.0,05-03-2010,Alm.,13727,5,Sommerhus,112,2004,-2 %
+Horsfeldvej 10 7755 Bedsted Thy,7755,975000.0,19-02-2010,Alm.,6093,6,Villa,160,1880,0 %
+Ringvej 6 7755 Bedsted Thy,7755,325000.0,08-02-2010,Alm.,4220,4,Villa,77,1933,
+Sølystvej 9 7755 Bedsted Thy,7755,100000.0,04-02-2010,Auktion,588,6,Villa,170,1939,
+Skolegade 13 7755 Bedsted Thy,7755,625000.0,15-01-2010,Alm.,4310,5,Villa,145,1967,-7 %
+Vestervigvej 143 7755 Bedsted Thy,7755,470000.0,07-01-2010,Auktion,4700,4,Villa,100,1956,-27 %
+Vittrupvej 5 7755 Bedsted Thy,7755,950000.0,28-12-2009,Alm.,4589,5,Stuehus,207,1977,-5 %
+Vestervigvej 64 7755 Bedsted Thy,7755,100000.0,09-11-2009,Fam.,456,6,Villa,219,1918,
+Lodbjergvej 45 7755 Bedsted Thy,7755,850000.0,19-10-2009,Alm.,5312,6,Villa,160,1898,-10 %
+Hvidbjerggårdsvej 16 7755 Bedsted Thy,7755,1422616.0,14-10-2009,Fam.,10460,5,Stuehus,136,1877,
+Hedegårdsvej 12 7755 Bedsted Thy,7755,560000.0,20-09-2009,Alm.,5656,4,Villa,99,1930,-4 %
+Istrupvej 46 7755 Bedsted Thy,7755,1297500.0,16-09-2009,Alm.,0,5,Villa,234,1852,
+Præstegårdsvænget 9 7755 Bedsted Thy,7755,825000.0,14-09-2009,Alm.,0,4,Villa,148,1908,10 %
+Thylandsgade 24 7755 Bedsted Thy,7755,545000.0,10-09-2009,Alm.,4780,3,Villa,114,1907,0 %
+Rønheden 10 7755 Bedsted Thy,7755,920000.0,10-09-2009,Alm.,6764,5,Villa,136,1984,-2 %
+Rosenvænget 6 7755 Bedsted Thy,7755,660000.0,03-09-2009,Alm.,4489,6,Villa,147,1969,
+Kirkebakken 2 7755 Bedsted Thy,7755,375000.0,18-08-2009,Alm.,2678,6,Villa,140,1880,-6 %
+Nørgårdsvej 8 7755 Bedsted Thy,7755,500000.0,14-08-2009,Alm.,3048,7,Villa,164,1960,
+Skovlyvej 37 7755 Bedsted Thy,7755,800000.0,14-08-2009,Alm.,9411,4,Sommerhus,85,1972,0 %
+Østermarksvej 3 7755 Bedsted Thy,7755,240000.0,10-07-2009,Alm.,0,5,Villa,128,1944,
+Spolumvej 6 7755 Bedsted Thy,7755,11700000.0,18-06-2009,Andet,45000,7,Stuehus,260,1976,
+Spolumvej 8 7755 Bedsted Thy,7755,39764000.0,08-06-2009,Andet,121231,8,Stuehus,328,1912,
+Vestervigvej 29 7755 Bedsted Thy,7755,7412082.0,07-05-2009,Alm.,39217,7,Villa,189,1919,
+Vestervigvej 50 7755 Bedsted Thy,7755,101000.0,06-05-2009,Auktion,789,3,Villa,128,1917,
+Nordvejen 6 7755 Bedsted Thy,7755,450000.0,30-04-2009,Alm.,3461,5,Villa,130,1921,0 %
+Bakgårdsvej 1 7755 Bedsted Thy,7755,525000.0,20-03-2009,Alm.,3476,8,Villa,151,1955,-16 %
+Gyvelvænget 6 7755 Bedsted Thy,7755,790000.0,13-03-2009,Alm.,6124,5,Villa,129,1973,
+Østergade 5 7755 Bedsted Thy,7755,2200000.0,13-03-2009,Alm.,15602,6,Industri o.l.,141,1930,
+Ringvej 3 7755 Bedsted Thy,7755,475000.0,03-03-2009,Alm.,3769,5,Villa,126,1932,-2 %
+Villerslevvej 58 7755 Bedsted Thy,7755,7406980.0,13-02-2009,Fam.,31519,5,Stuehus,235,1900,
+Gudnæsvej 3 7755 Bedsted Thy,7755,2800000.0,02-02-2009,Alm.,10218,6,Villa,274,1999,-3 %
+Åbrovej 23 7755 Bedsted Thy,7755,700000.0,31-01-2009,Alm.,4545,4,Villa,154,1921,-11 %
+Hedegårdsvej 55 7755 Bedsted Thy,7755,609730.0,13-01-2009,Alm.,3586,6,Stuehus,170,1911,
+Lodbjergvej 64 7755 Bedsted Thy,7755,387800.0,04-01-2009,Alm.,0,7,Stuehus,244,1928,
+Nedergårdsvej 1 7755 Bedsted Thy,7755,600000.0,15-12-2008,Fam.,3703,7,Villa,162,1931,
+Møllestræde 11 7755 Bedsted Thy,7755,595000.0,17-11-2008,Alm.,8380,3,Villa,71,1877,0 %
+Højbogårdsvej 13 7755 Bedsted Thy,7755,2175000.0,03-11-2008,Alm.,10767,4,Stuehus,202,1975,
+Skolegade 6 7755 Bedsted Thy,7755,550000.0,28-10-2008,Alm.,5445,3,Villa,101,1961,-8 %
+Vestervigvej 22 7755 Bedsted Thy,7755,348500.0,22-10-2008,Fam.,5361,3,Villa,65,1922,
+Villerslevvej 1 7755 Bedsted Thy,7755,520000.0,22-09-2008,Alm.,3661,5,Villa,142,1967,0 %
+Astavej 10 7755 Bedsted Thy,7755,3000000.0,20-09-2008,Alm.,44776,4,Sommerhus,67,1979,
+Skyumvej 147 7755 Bedsted Thy,7755,915000.0,19-09-2008,Andet,3812,6,Stuehus,240,1923,
+Gartnervænget 5 7755 Bedsted Thy,7755,450000.0,19-09-2008,Alm.,3191,6,Villa,141,1976,-3 %
+Ringvej 9 7755 Bedsted Thy,7755,365000.0,17-09-2008,Alm.,4866,3,Villa,75,1968,-14 %
+Villerslevvej 27 7755 Bedsted Thy,7755,435000.0,14-09-2008,Alm.,3020,5,Villa,144,1877,
+Thylandsgade 23 7755 Bedsted Thy,7755,260000.0,08-09-2008,Alm.,2080,4,Villa,125,1902,
+Vittrupvej 16 7755 Bedsted Thy,7755,140000.0,02-09-2008,Alm.,1772,3,Villa,79,1877,
+Iruplundvej 8 7755 Bedsted Thy,7755,2510000.0,17-08-2008,Alm.,11728,5,Stuehus,214,1963,-5 %
+Visbyvej 1 7755 Bedsted Thy,7755,475000.0,12-08-2008,Alm.,4241,4,Villa,112,1934,-4 %
+Morup Møllevej 7 7755 Bedsted Thy,7755,200000.0,11-08-2008,Auktion,1724,4,Villa,116,1917,
+Lyngbyvej 15 7755 Bedsted Thy,7755,400000.0,30-07-2008,Fam.,3636,3,Sommerhus,110,1961,
+Stationsvej 2 7755 Bedsted Thy,7755,320000.0,27-07-2008,Alm.,3440,3,Villa,93,1962,
+Kjærgaardsvej 6 7755 Bedsted Thy,7755,770000.0,23-07-2008,Alm.,5347,6,Villa,144,1966,
+Stormgade 55 7755 Bedsted Thy,7755,650000.0,13-07-2008,Alm.,4710,5,Villa,138,1978,-6 %
+Åkandevej 18 7755 Bedsted Thy,7755,745000.0,24-06-2008,Alm.,5730,4,Villa,130,1973,0 %
+Gyvelvænget 10 7755 Bedsted Thy,7755,332914.0,09-06-2008,Andet,2219,5,Villa,150,1973,
+Gartnervænget 22 7755 Bedsted Thy,7755,650000.0,29-05-2008,Alm.,7647,3,Villa,85,1977,0 %
+Skyumvej 155 7755 Bedsted Thy,7755,150000.0,21-05-2008,Alm.,1000,6,Villa,150,1857,
+Hedegårdsvej 23 7755 Bedsted Thy,7755,75000.0,09-05-2008,Alm.,416,5,Stuehus,180,1877,
+Morup Møllevej 26 7755 Bedsted Thy,7755,735000.0,28-04-2008,Alm.,4106,7,Villa,179,1958,-5 %
+Stenskærvej 3 7755 Bedsted Thy,7755,255581.0,14-04-2008,Alm.,1452,6,Villa,176,1872,-7 %
+Stormgade 60 7755 Bedsted Thy,7755,295000.0,02-04-2008,Alm.,4916,3,Rækkehus,60,1975,
+Østergårdvej 1 7755 Bedsted Thy,7755,905000.0,02-04-2008,Alm.,3415,9,Villa,265,1965,
+Gyvelvænget 12 7755 Bedsted Thy,7755,745000.0,26-03-2008,Alm.,4656,6,Villa,160,1975,
+Galgebakkevej 7 7755 Bedsted Thy,7755,1050000.0,24-03-2008,Fam.,5198,5,Stuehus,202,1938,
+Nordre Redningsvej 17 7755 Bedsted Thy,7755,2750000.0,22-03-2008,Alm.,43650,2,Sommerhus,63,2005,
+Lyngbyvej 17 7755 Bedsted Thy,7755,1550000.0,18-03-2008,Alm.,18674,4,Sommerhus,83,1880,0 %
+Lyngbyvej 21 7755 Bedsted Thy,7755,3250000.0,13-03-2008,Alm.,20569,6,Villa,158,1927,
+Visbyvej 17 7755 Bedsted Thy,7755,965000.0,13-03-2008,Alm.,5132,8,Villa,188,1922,0 %
+Svankærvej 4 7755 Bedsted Thy,7755,350000.0,11-03-2008,Alm.,2916,4,Villa,120,1932,-7 %
+Dalgårdvej 16 7755 Bedsted Thy,7755,610000.0,07-03-2008,Alm.,4265,2,Villa,143,1887,
+Østergade 7 7755 Bedsted Thy,7755,726000.0,01-03-2008,Alm.,4033,6,Villa,180,1924,
+Visbyvej 25 7755 Bedsted Thy,7755,1795000.0,28-02-2008,Alm.,7907,9,Stuehus,227,1906,0 %
+Vestervigvej 24 7755 Bedsted Thy,7755,765700.0,25-02-2008,Alm.,6276,3,Villa,122,1912,-55 %
+Skovvej 3 7755 Bedsted Thy,7755,483581.0,22-02-2008,Andet,4740,3,Villa,102,1956,
+Vestervigvej 149 7755 Bedsted Thy,7755,200500.0,20-02-2008,Andet,1245,4,Villa,161,1919,
+Rishøjvej 1 7755 Bedsted Thy,7755,278987.0,12-02-2008,Fam.,2268,3,Villa,123,1900,
+Lyngbyvej 19 7755 Bedsted Thy,7755,1200000.0,07-02-2008,Alm.,0,4,Villa,166,1924,
+Svankærvej 13 7755 Bedsted Thy,7755,560000.0,25-01-2008,Alm.,6153,4,Villa,91,1938,-3 %
+Hedegårdsvej 54 7755 Bedsted Thy,7755,495000.0,21-01-2008,Alm.,5051,3,Villa,98,1977,0 %
+Thylandsgade 18 7755 Bedsted Thy,7755,770000.0,21-01-2008,Alm.,5065,7,Villa,152,1934,-3 %
+Rønheden 6 7755 Bedsted Thy,7755,104610.0,21-01-2008,Alm.,864,5,Villa,121,2008,
+Stormgade 7 7755 Bedsted Thy,7755,570000.0,16-01-2008,Alm.,4596,4,Villa,124,1953,-4 %
+Bakkevej 6 7755 Bedsted Thy,7755,450000.0,15-01-2008,Alm.,2812,6,Villa,160,1966,-5 %
+Østergade 10 7755 Bedsted Thy,7755,555000.0,08-01-2008,Alm.,4236,5,Villa,131,1962,
+Gudnæsvej 8 7755 Bedsted Thy,7755,1567500.0,04-01-2008,Alm.,13062,4,Villa,120,1944,
+Morup Møllevej 120 7755 Bedsted Thy,7755,445000.0,20-12-2007,Alm.,3272,7,Villa,136,1913,
+Skovvej 9 7755 Bedsted Thy,7755,850000.0,18-12-2007,Alm.,5029,7,Stuehus,169,1907,
+Morup Møllevej 60 7755 Bedsted Thy,7755,430000.0,17-12-2007,Fam.,4777,3,Villa,90,1963,
+Lyngbyvej 12 7755 Bedsted Thy,7755,462157.0,16-12-2007,Fam.,9243,3,Villa,50,1967,
+Thylandsgade 3 7755 Bedsted Thy,7755,525000.0,28-11-2007,Alm.,2419,6,Villa,217,1904,-2 %
+Kirkebakken 8 7755 Bedsted Thy,7755,465000.0,27-11-2007,Alm.,3100,5,Villa,150,1924,-5 %
+Villerslevvej 41 7755 Bedsted Thy,7755,415000.0,24-11-2007,Alm.,2441,6,Villa,170,1955,0 %
+Galgebakkevej 1 7755 Bedsted Thy,7755,1275000.0,09-11-2007,Alm.,7919,6,Stuehus,161,1908,
+Tværgade 1 7755 Bedsted Thy,7755,300000.0,06-11-2007,Alm.,2631,3,Villa,114,1933,-8 %
+Kjallerupvej 2 7755 Bedsted Thy,7755,670000.0,22-10-2007,Fam.,3366,7,Villa,199,1875,
+Østergade 15 7755 Bedsted Thy,7755,435000.0,18-10-2007,Alm.,3595,8,Villa,121,1915,0 %
+Fruegårdsvej 3 7755 Bedsted Thy,7755,1750000.0,09-10-2007,Alm.,7743,6,Stuehus,226,1959,-1 %
+Gudnæsvej 14 7755 Bedsted Thy,7755,1200000.0,04-10-2007,Alm.,7741,5,Sommerhus,155,2011,0 %
+Brydbjergvej 6 7755 Bedsted Thy,7755,545000.0,25-09-2007,Alm.,3811,5,Stuehus,143,1852,0 %
+Bakkevej 3 7755 Bedsted Thy,7755,445000.0,10-09-2007,Alm.,0,9,Villa,185,1960,0 %
+Gudnæsvej 26 7755 Bedsted Thy,7755,1075000.0,06-09-2007,Alm.,6178,4,Villa,174,1900,
+Morup Møllevej 83 7755 Bedsted Thy,7755,1030974.0,28-08-2007,Alm.,4242,8,Villa,243,1983,
+Morup Møllevej 19A 7755 Bedsted Thy,7755,355000.0,28-08-2007,Alm.,3413,2,Villa,104,1949,-8 %
+Bakkevej 4 7755 Bedsted Thy,7755,795000.0,28-08-2007,Alm.,5063,5,Villa,157,1962,0 %
+Vestervigvej 105 7755 Bedsted Thy,7755,395000.0,20-08-2007,Alm.,4157,3,Villa,95,1958,
+Kystvejen 62 7755 Bedsted Thy,7755,650000.0,08-08-2007,Alm.,2372,8,Villa,274,1880,
+Brydbjergvej 8 7755 Bedsted Thy,7755,1580000.0,31-07-2007,Alm.,5163,8,Stuehus,306,2008,
+Skovlyvej 12 7755 Bedsted Thy,7755,795000.0,28-07-2007,Alm.,0,7,Sommerhus,138,1974,
+Vestervigvej 66 7755 Bedsted Thy,7755,340000.0,13-07-2007,Alm.,3777,5,Villa,90,1908,-14 %
+Grurupvej 15 7755 Bedsted Thy,7755,740000.0,10-07-2007,Alm.,8043,5,Stuehus,92,1900,-3 %
+Thylandsgade 31 7755 Bedsted Thy,7755,675000.0,05-07-2007,Alm.,5192,7,Villa,130,1976,0 %
+Redningsvej 7 7755 Bedsted Thy,7755,1550000.0,28-06-2007,Alm.,31000,3,Sommerhus,50,1965,0 %
+Valmuevej 1 7755 Bedsted Thy,7755,585000.0,23-06-2007,Alm.,4642,4,Villa,126,1972,
+Brogårdsvej 7 7755 Bedsted Thy,7755,2875000.0,15-06-2007,Alm.,10687,8,Stuehus,269,1915,
+Skellebjergvej 11 7755 Bedsted Thy,7755,30000.0,13-06-2007,Alm.,340,4,Villa,88,1907,
+Villerslevvej 43 7755 Bedsted Thy,7755,475000.0,13-06-2007,Alm.,5459,3,Villa,87,1950,
+Stormgade 54 7755 Bedsted Thy,7755,330000.0,12-06-2007,Alm.,5500,3,Rækkehus,60,1976,
+Skovlyvej 16 7755 Bedsted Thy,7755,416500.0,07-06-2007,Fam.,6941,4,Sommerhus,60,1972,
+Skovbrynet 10 7755 Bedsted Thy,7755,420000.0,31-05-2007,Alm.,8400,3,Sommerhus,50,1910,-20 %
+Rosenvænget 13 7755 Bedsted Thy,7755,335000.0,30-05-2007,Alm.,2791,5,Villa,120,1968,0 %
+Astrupvej 2 7755 Bedsted Thy,7755,10126363.0,28-05-2007,Alm.,112515,5,Stuehus,90,1929,
+Skolegade 15 7755 Bedsted Thy,7755,625000.0,25-05-2007,Alm.,4340,6,Villa,144,1967,
+Stormgade 19 7755 Bedsted Thy,7755,670000.0,16-05-2007,Alm.,5677,4,Villa,118,1987,-4 %
+Ringvej 10 7755 Bedsted Thy,7755,250000.0,09-05-2007,Alm.,2232,3,Villa,112,1921,
+Syrenvej 6 7755 Bedsted Thy,7755,545000.0,07-05-2007,Alm.,5677,4,Villa,96,1965,
+Morup Møllevej 78 7755 Bedsted Thy,7755,295000.0,07-05-2007,Alm.,2950,4,Villa,100,1909,0 %
+Vestervigvej 102 7755 Bedsted Thy,7755,240000.0,16-04-2007,Alm.,1832,6,Villa,131,1943,-20 %
+Frederiksvej 10 7755 Bedsted Thy,7755,435000.0,12-04-2007,Fam.,2543,4,Villa,171,1907,
+Rønheden 16 7755 Bedsted Thy,7755,550000.0,02-03-2007,Alm.,4230,3,Villa,130,1981,-4 %
+Rønheden 24 7755 Bedsted Thy,7755,94194.0,15-02-2007,Alm.,455,5,Villa,207,2009,
+Kjærgaardsvej 2 7755 Bedsted Thy,7755,210000.0,08-02-2007,Alm.,2916,3,Villa,72,1962,
+Morup Møllevej 12 7755 Bedsted Thy,7755,275000.0,02-02-2007,Alm.,1909,5,Villa,144,1930,-20 %
+Østermarksvej 5 7755 Bedsted Thy,7755,295000.0,31-01-2007,Alm.,2107,5,Villa,140,1946,0 %
+Spangbjergvej 1 7755 Bedsted Thy,7755,2130000.0,23-01-2007,Alm.,15661,4,Stuehus,136,1922,10 %
+Foldagervej 3 7755 Bedsted Thy,7755,3300000.0,15-12-2006,Andet,25781,4,Villa,128,1949,
+Gl. Bedstedvej 2 7755 Bedsted Thy,7755,165000.0,07-12-2006,Alm.,3055,2,Villa,54,1920,
+Kjærgaardsvej 1 7755 Bedsted Thy,7755,500000.0,04-12-2006,Fam.,5000,5,Villa,100,1961,
+Vestervigvej 46 7755 Bedsted Thy,7755,435600.0,01-12-2006,Alm.,3723,4,Villa,117,1890,
+Thylandsgade 14 7755 Bedsted Thy,7755,411439.0,22-11-2006,Alm.,2671,3,Villa,154,1912,
+Lilbjergvej 2 7755 Bedsted Thy,7755,4298000.0,21-11-2006,Alm.,35816,3,Stuehus,120,1941,
+Vestervigvej 10 7755 Bedsted Thy,7755,5914545.0,17-11-2006,Alm.,32858,8,Stuehus,180,1973,
+Morup Møllevej 30 7755 Bedsted Thy,7755,525000.0,31-10-2006,Alm.,5833,3,Villa,90,1956,
+Gundgårdsvej 6 7755 Bedsted Thy,7755,320000.0,30-10-2006,Fam.,2560,4,Villa,125,1934,
+Vestervigvej 104 7755 Bedsted Thy,7755,745000.0,13-10-2006,Alm.,4487,5,Villa,166,1953,
+Tværgade 4 7755 Bedsted Thy,7755,606276.0,20-09-2006,Alm.,3031,6,Villa,200,1917,
+Vestervigvej 90 7755 Bedsted Thy,7755,250000.0,20-09-2006,Alm.,3906,3,Villa,64,1934,
+Åbrovej 13 7755 Bedsted Thy,7755,3300000.0,19-09-2006,Alm.,34375,4,Villa,96,1956,
+Vilhelmsmindevej 1 7755 Bedsted Thy,7755,450000.0,15-09-2006,Alm.,3688,4,Stuehus,122,1924,
+Rønheden 39 7755 Bedsted Thy,7755,470000.0,08-09-2006,Alm.,7580,2,Rækkehus,62,1989,
+Morup Møllevej 58 7755 Bedsted Thy,7755,425000.0,25-08-2006,Alm.,5312,2,Villa,80,1900,
+Vestervigvej 41 7755 Bedsted Thy,7755,370000.0,24-08-2006,Alm.,2387,5,Villa,155,1950,
+Oddesundvej 195 7755 Bedsted Thy,7755,150000.0,17-08-2006,Alm.,1875,3,Villa,80,1896,
+Morup Møllevej 126 7755 Bedsted Thy,7755,250000.0,31-07-2006,Alm.,1937,4,Villa,129,1931,
+Kystvejen 67 7755 Bedsted Thy,7755,150000.0,31-07-2006,Alm.,1315,5,Villa,114,2012,
+Rosen Alle 1 7755 Bedsted Thy,7755,415000.0,26-05-2006,Alm.,3705,5,Villa,112,1925,
+Morup Møllevej 69 7755 Bedsted Thy,7755,295000.0,24-04-2006,Alm.,2950,3,Villa,100,1908,
+Skolegade 22 7755 Bedsted Thy,7755,805000.0,29-03-2006,Alm.,6338,4,Villa,127,1965,
+Grurupvej 23 7755 Bedsted Thy,7755,1850000.0,14-03-2006,Fam.,18500,4,Stuehus,100,1895,
+Nordvejen 10 7755 Bedsted Thy,7755,415000.0,09-03-2006,Alm.,3458,8,Villa,120,1972,
+Stormgade 44 7755 Bedsted Thy,7755,300000.0,03-03-2006,Alm.,5000,3,Rækkehus,60,1974,
+Thylandsgade 42 7755 Bedsted Thy,7755,200000.0,24-02-2006,Alm.,2352,3,Villa,85,1918,
+Hedegårdsvej 47 7755 Bedsted Thy,7755,545000.0,20-01-2006,Alm.,5343,4,Villa,102,1927,
+Astrupvej 4 7755 Bedsted Thy,7755,1025000.0,17-01-2006,Alm.,4880,6,Villa,210,1983,
+Vestervigvej 162 7755 Bedsted Thy,7755,385000.0,13-01-2006,Fam.,1726,4,Villa,223,1927,
+Balsbyvej 6 7755 Bedsted Thy,7755,450000.0,07-01-2006,Alm.,4166,4,Villa,108,1963,
+Skovlyvej 18 7755 Bedsted Thy,7755,770000.0,26-12-2005,Alm.,12031,4,Sommerhus,64,1978,
+Kystvejen 76 7755 Bedsted Thy,7755,1399745.0,14-12-2005,Fam.,7525,7,Stuehus,186,1928,
+Vittrupvej 14 7755 Bedsted Thy,7755,6097805.0,14-12-2005,Fam.,45848,5,Stuehus,133,1961,
+Hedegårdsvej 37 7755 Bedsted Thy,7755,295000.0,01-11-2005,Alm.,4275,3,Villa,69,1852,
+Grurup Kirkevej 2 7755 Bedsted Thy,7755,302876.0,31-10-2005,Alm.,1442,5,Stuehus,210,1913,
+Morup Møllevej 27 7755 Bedsted Thy,7755,910000.0,30-09-2005,Alm.,4619,6,Villa,197,1969,
+Vestervigvej 39 7755 Bedsted Thy,7755,420000.0,13-09-2005,Alm.,4200,3,Villa,100,1952,
+Udsigten 1 7755 Bedsted Thy,7755,400000.0,02-09-2005,Alm.,4347,4,Villa,92,1971,
+Tandrupvej 1 7755 Bedsted Thy,7755,1275000.0,01-09-2005,Alm.,7005,6,Villa,182,1928,
+Villerupvej 10 7755 Bedsted Thy,7755,150000.0,01-09-2005,Alm.,1648,4,Villa,91,1910,
+Rønheden 42 7755 Bedsted Thy,7755,1855000.0,31-08-2005,Alm.,9763,5,Villa,190,2002,
+Spolumvej 2 7755 Bedsted Thy,7755,970000.0,29-08-2005,Fam.,5159,4,Villa,188,1957,
+Gyvelvænget 7 7755 Bedsted Thy,7755,365000.0,25-08-2005,Alm.,5615,2,Villa,65,1975,
+Stormgade 56 7755 Bedsted Thy,7755,245000.0,23-07-2005,Alm.,4083,3,Rækkehus,60,1975,
+Lodbjergvej 56 7755 Bedsted Thy,7755,1735000.0,05-07-2005,Alm.,8301,4,Villa,209,1996,
+Lyngbyvej 30 7755 Bedsted Thy,7755,60000.0,27-06-2005,Fam.,357,7,Villa,168,1864,
+Skovlyvej 35 7755 Bedsted Thy,7755,775000.0,22-06-2005,Alm.,9337,4,Sommerhus,83,1975,
+Lodbjergvej 66 7755 Bedsted Thy,7755,525000.0,09-06-2005,Alm.,4007,6,Stuehus,131,1900,
+Dalgårdvej 12 7755 Bedsted Thy,7755,665000.0,13-05-2005,Alm.,3778,5,Stuehus,176,1927,
+Ringvej 4 7755 Bedsted Thy,7755,330000.0,21-04-2005,Fam.,5500,3,Villa,60,1942,
+Stormgade 57 7755 Bedsted Thy,7755,585000.0,16-04-2005,Alm.,4957,4,Villa,118,1979,
+Hvidbjerggårdsvej 15 7755 Bedsted Thy,7755,600000.0,08-04-2005,Fam.,9230,3,Villa,65,1877,
+Stenskærvej 4 7755 Bedsted Thy,7755,4400000.0,29-03-2005,Alm.,19555,9,Stuehus,225,1970,
+Storkærvej 8 7755 Bedsted Thy,7755,214500.0,24-03-2005,Fam.,3698,5,Sommerhus,58,1966,
+Nordre Redningsvej 25 7755 Bedsted Thy,7755,561000.0,22-03-2005,Fam.,8500,4,Sommerhus,66,1967,
+Vestervigvej 101 7755 Bedsted Thy,7755,305000.0,21-03-2005,Alm.,3588,3,Villa,85,1960,
+Skovbrynet 3 7755 Bedsted Thy,7755,50000.0,16-03-2005,Alm.,476,4,Villa,105,2007,
+Thylandsgade 29 7755 Bedsted Thy,7755,170000.0,14-03-2005,Auktion,1717,4,Villa,99,1900,
+Frederiksvej 5 7755 Bedsted Thy,7755,275000.0,11-03-2005,Alm.,3437,5,Villa,80,1913,
+Hvidbjerggårdsvej 24 7755 Bedsted Thy,7755,925000.0,07-03-2005,Alm.,10882,3,Sommerhus,85,1997,
+Astrupvej 9 7755 Bedsted Thy,7755,3545000.0,24-02-2005,Alm.,16040,9,Stuehus,221,1860,
+Skolegade 32 7755 Bedsted Thy,7755,610000.0,18-02-2005,Alm.,5258,4,Villa,116,1977,
+Horsfeldvej 5 7755 Bedsted Thy,7755,7785783.0,16-02-2005,Fam.,57672,6,Stuehus,135,1930,
+Skyumvej 153 7755 Bedsted Thy,7755,3175000.0,15-02-2005,Alm.,16536,8,Stuehus,192,1920,
+Stationsvej 1 7755 Bedsted Thy,7755,410000.0,25-01-2005,Alm.,3727,3,Villa,110,1957,
+Vestervigvej 81 7755 Bedsted Thy,7755,700000.0,06-01-2005,Alm.,7777,7,Engroshandel,90,1963,
+Åkandevej 1 7755 Bedsted Thy,7755,475000.0,23-12-2004,Alm.,4947,3,Villa,96,1974,
+Thybovej 10 7755 Bedsted Thy,7755,4700000.0,17-12-2004,Alm.,16095,8,Villa,292,2009,
+Thylandsgade 38 7755 Bedsted Thy,7755,235324.0,15-12-2004,Alm.,1705,6,Villa,138,1918,
+Skyumvej 144 7755 Bedsted Thy,7755,520000.0,09-12-2004,Alm.,3250,5,Villa,160,1917,
+Oddesundvej 246 7755 Bedsted Thy,7755,650000.0,06-12-2004,Alm.,3801,7,Villa,171,1949,
+Gl. Bedstedvej 7 7755 Bedsted Thy,7755,275462.0,03-12-2004,Alm.,1610,6,Villa,171,1924,
+Astrupvej 7 7755 Bedsted Thy,7755,260000.0,12-11-2004,Alm.,1604,7,Stuehus,162,1938,
+Vestervigvej 152 7755 Bedsted Thy,7755,82535.0,08-11-2004,Alm.,376,9,Villa,219,1965,
+Vestervigvej 12 7755 Bedsted Thy,7755,450000.0,05-11-2004,Alm.,3461,4,Villa,130,1910,
+Stormgade 33 7755 Bedsted Thy,7755,15000.0,21-10-2004,Alm.,59,9,Villa,251,1977,
+Åbrovej 7 7755 Bedsted Thy,7755,85000.0,01-10-2004,Fam.,1416,3,Villa,60,1873,
+Højensvej 1 7755 Bedsted Thy,7755,1950000.0,24-09-2004,Alm.,13448,7,Sommerhus,145,1900,
+Gartnervænget 4 7755 Bedsted Thy,7755,280000.0,20-09-2004,Alm.,3456,3,Rækkehus,81,1977,
+Vestervigvej 121 7755 Bedsted Thy,7755,3292210.0,14-09-2004,Alm.,22244,6,Stuehus,148,1906,
+Villerupvej 9 7755 Bedsted Thy,7755,315000.0,12-08-2004,Andet,2058,6,Villa,153,1911,
+Skellebjergvej 7 7755 Bedsted Thy,7755,295000.0,06-07-2004,Alm.,1766,5,Villa,167,1911,
+Tværgade 3 7755 Bedsted Thy,7755,534474.0,25-06-2004,Fam.,5685,3,Villa,94,1937,
+Svankærvej 6 7755 Bedsted Thy,7755,135000.0,20-06-2004,Alm.,0,6,Villa,177,1905,
+Åkandevej 7 7755 Bedsted Thy,7755,415000.0,07-06-2004,Alm.,4234,3,Villa,98,1976,
+Kirkebakken 1 7755 Bedsted Thy,7755,245000.0,25-05-2004,Alm.,3500,4,Villa,70,1897,
+Hvidbjerggårdsvej 3 7755 Bedsted Thy,7755,550000.0,24-05-2004,Alm.,6111,5,Villa,90,1944,
+Brydbjergvej 2 7755 Bedsted Thy,7755,525000.0,24-05-2004,Alm.,6562,4,Stuehus,80,1777,
+Skovlyvej 21 7755 Bedsted Thy,7755,115000.0,19-05-2004,Alm.,1116,4,Sommerhus,103,2006,
+Vestervigvej 154 7755 Bedsted Thy,7755,400000.0,10-05-2004,Fam.,0,5,Villa,148,1967,
+Morup Møllevej 110 7755 Bedsted Thy,7755,200000.0,06-04-2004,Alm.,1666,4,Villa,120,1915,
+Lyngbyvej 29 7755 Bedsted Thy,7755,620502.0,30-03-2004,Fam.,3607,6,Sommerhus,172,1922,
+Gudnæsvej 22 7755 Bedsted Thy,7755,1650000.0,23-03-2004,Fam.,4230,5,Stuehus,390,1935,
+Oddesundvej 230 7755 Bedsted Thy,7755,225000.0,22-03-2004,Alm.,2250,4,Villa,100,1913,
+Morup Møllevej 112 7755 Bedsted Thy,7755,280000.0,15-03-2004,Alm.,1581,5,Villa,177,1920,
+Vestervigvej 56 7755 Bedsted Thy,7755,2075000.0,05-03-2004,Alm.,8469,7,Villa,245,1976,
+Højbogårdsvej 8 7755 Bedsted Thy,7755,11243756.0,26-02-2004,Fam.,55116,8,Stuehus,204,1929,
+Dalgårdvej 10 7755 Bedsted Thy,7755,800000.0,10-02-2004,Alm.,3883,7,Stuehus,206,1870,
+Galgebakkevej 5 7755 Bedsted Thy,7755,250000.0,03-02-2004,Alm.,2604,4,Villa,96,1903,
+Irisvej 9 7755 Bedsted Thy,7755,310000.0,21-01-2004,Alm.,3875,3,Rækkehus,80,1972,
+Nedergårdsvej 3 7755 Bedsted Thy,7755,400000.0,05-12-2003,Fam.,3225,4,Stuehus,124,1912,
+Lyngbyvej 42 7755 Bedsted Thy,7755,1000000.0,20-11-2003,Alm.,7518,4,Sommerhus,133,1974,
+Tandrupvej 6 7755 Bedsted Thy,7755,610000.0,20-11-2003,Alm.,3426,5,Stuehus,178,1929,
+Vestervigvej 109 7755 Bedsted Thy,7755,495000.0,05-11-2003,Alm.,4950,4,Villa,100,1955,
+Stormgade 37 7755 Bedsted Thy,7755,645000.0,15-10-2003,Alm.,4961,5,Villa,130,1979,
+Lodbjergvej 47 7755 Bedsted Thy,7755,60000.0,13-10-2003,Alm.,857,4,Villa,70,1887,
+Hunskjærvej 1 7755 Bedsted Thy,7755,12700000.0,06-10-2003,Alm.,61650,5,Stuehus,206,1919,
+Irisvej 5 7755 Bedsted Thy,7755,330000.0,25-09-2003,Alm.,4074,3,Rækkehus,81,1972,
+Iruplundvej 6 7755 Bedsted Thy,7755,325000.0,17-09-2003,Alm.,2056,6,Villa,158,1939,
+Villerupvej 5 7755 Bedsted Thy,7755,1400000.0,06-08-2003,Alm.,5761,8,Stuehus,243,1873,
+Gyvelvænget 11 7755 Bedsted Thy,7755,737302.0,05-08-2003,Alm.,2633,11,Villa,280,1973,
+Villerslevvej 34 7755 Bedsted Thy,7755,370000.0,05-08-2003,Alm.,2387,5,Villa,155,1927,
+Skovlyvej 2 7755 Bedsted Thy,7755,1335098.0,30-07-2003,Alm.,5779,3,Villa,231,1930,
+Lodbjergvej 41 7755 Bedsted Thy,7755,400000.0,11-07-2003,Alm.,3809,4,Stuehus,105,1890,
+Hedegårdsvej 19 7755 Bedsted Thy,7755,700000.0,07-07-2003,Alm.,0,11,Villa,354,1897,
+Lyngbyvej 12B 7755 Bedsted Thy,7755,475000.0,05-07-2003,Alm.,67857,1,Fritid,7,1985,
+Gundgårdsvej 1 7755 Bedsted Thy,7755,234736.0,10-06-2003,Alm.,3260,3,Villa,72,1900,
+Lyngbyvej 63 7755 Bedsted Thy,7755,25000.0,07-06-2003,Alm.,247,4,Villa,101,1933,
+Astavej 22 7755 Bedsted Thy,7755,900000.0,07-06-2003,Alm.,5294,7,Sommerhus,170,2005,
+Astavej 16 7755 Bedsted Thy,7755,2300000.0,30-05-2003,Alm.,12299,5,Sommerhus,187,1968,
+Ågårdsvej 2 7755 Bedsted Thy,7755,435625.0,25-05-2003,Alm.,2847,5,Villa,153,1900,
+Lindagergårdvej 2 7755 Bedsted Thy,7755,1154700.0,19-05-2003,Alm.,5921,7,Stuehus,195,1886,
+Villerslevvej 35 7755 Bedsted Thy,7755,307500.0,21-04-2003,Alm.,3660,3,Villa,84,1968,
+Astrupvej 1 7755 Bedsted Thy,7755,245000.0,04-04-2003,Alm.,2525,3,Stuehus,97,1928,
+Rishøjvej 4 7755 Bedsted Thy,7755,7706250.0,29-03-2003,Fam.,26757,8,Stuehus,288,1917,
+Morup Møllevej 128 7755 Bedsted Thy,7755,230000.0,17-01-2003,Alm.,2169,4,Villa,106,1965,
+Rishøjvej 5 7755 Bedsted Thy,7755,300000.0,11-01-2003,Alm.,2500,4,Sommerhus,120,1870,
+Gartnervænget 8 7755 Bedsted Thy,7755,290000.0,10-01-2003,Alm.,3536,3,Rækkehus,82,1977,
+Kjallerupvej 6 7755 Bedsted Thy,7755,245000.0,05-01-2003,Alm.,0,8,Stuehus,179,1910,
+Lyngbyvej 5 7755 Bedsted Thy,7755,850000.0,31-12-2002,Fam.,9340,2,Sommerhus,91,2016,
+Irisvej 11 7755 Bedsted Thy,7755,315000.0,31-12-2002,Fam.,3888,3,Rækkehus,81,1972,
+Grurup Kirkevej 3 7755 Bedsted Thy,7755,500000.0,12-12-2002,Alm.,0,6,Villa,250,1888,
+Stormgade 52 7755 Bedsted Thy,7755,250000.0,09-11-2002,Alm.,4166,3,Rækkehus,60,1975,
+Harregårdsvej 3 7755 Bedsted Thy,7755,425000.0,18-10-2002,Alm.,2759,6,Stuehus,154,1912,
+Nedergårdsvej 5 7755 Bedsted Thy,7755,458241.0,11-10-2002,Alm.,7512,3,Sommerhus,61,1971,
+Vestervigvej 57 7755 Bedsted Thy,7755,450000.0,27-09-2002,Alm.,4326,4,Villa,104,1959,
+Gl. Bedstedvej 10 7755 Bedsted Thy,7755,623925.0,25-09-2002,Alm.,2293,7,Stuehus,272,1922,
+Morup Møllevej 54 7755 Bedsted Thy,7755,1350000.0,09-08-2002,Alm.,6887,8,Stuehus,196,1920,
+Hedegårdsvej 18 7755 Bedsted Thy,7755,255000.0,01-08-2002,Alm.,951,7,Villa,268,1907,
+Vestervigvej 15 7755 Bedsted Thy,7755,473000.0,25-07-2002,Fam.,4300,3,Stuehus,110,1927,
+Lyngbyvej 25 7755 Bedsted Thy,7755,480000.0,15-07-2002,Alm.,4363,5,Sommerhus,110,1921,
+Stormgade 48 7755 Bedsted Thy,7755,265000.0,13-06-2002,Alm.,4344,2,Rækkehus,61,1975,
+Morup Møllevej 59 7755 Bedsted Thy,7755,260000.0,09-06-2002,Alm.,2166,3,Villa,120,1907,
+Spangbjergvej 6 7755 Bedsted Thy,7755,450000.0,30-05-2002,Fam.,2571,5,Stuehus,175,1922,
+Istrupvej 35 7755 Bedsted Thy,7755,405000.0,19-04-2002,Alm.,0,5,Sommerhus,144,1967,
+Gundgårdsvej 14 7755 Bedsted Thy,7755,370000.0,17-04-2002,Alm.,3490,4,Stuehus,106,1880,
+Gudnæsvej 9 7755 Bedsted Thy,7755,1225000.0,27-03-2002,Alm.,8750,7,Stuehus,140,1940,
+Villerslevvej 16 7755 Bedsted Thy,7755,320000.0,25-03-2002,Andet,2689,5,Villa,119,1902,
+Udsigten 7 7755 Bedsted Thy,7755,550000.0,08-03-2002,Alm.,2412,8,Villa,228,1970,
+Stormgade 21 7755 Bedsted Thy,7755,57194.0,06-03-2002,Alm.,468,3,Villa,122,2002,
+Irisvej 7 7755 Bedsted Thy,7755,326608.0,25-02-2002,Alm.,4082,4,Rækkehus,80,1972,
+Gyvelvænget 8 7755 Bedsted Thy,7755,800000.0,21-02-2002,Alm.,5405,5,Villa,148,1973,
+Skolegade 7 7755 Bedsted Thy,7755,400000.0,15-02-2002,Alm.,4000,3,Villa,100,1970,
+Hedegårdsvej 36 7755 Bedsted Thy,7755,397601.0,13-02-2002,Alm.,2598,4,Villa,153,1903,
+Brydbjergvej 1 7755 Bedsted Thy,7755,870000.0,08-02-2002,Alm.,5649,8,Stuehus,154,1914,
+Villerslevvej 47 7755 Bedsted Thy,7755,300000.0,24-01-2002,Alm.,1785,4,Villa,168,1958,
+Villerslevvej 85 7755 Bedsted Thy,7755,395000.0,23-01-2002,Alm.,1357,9,Villa,291,1900,
+Rishøjvej 20 7755 Bedsted Thy,7755,360000.0,12-01-2002,Alm.,5538,3,Stuehus,65,1920,
+Villerslevvej 30 7755 Bedsted Thy,7755,393286.0,09-01-2002,Alm.,3710,5,Villa,106,1939,
+Morup Møllevej 52 7755 Bedsted Thy,7755,2692500.0,03-01-2002,Fam.,12238,6,Stuehus,220,1857,
+Lyngbyvej 11 7755 Bedsted Thy,7755,160000.0,27-12-2001,Fam.,1797,5,Sommerhus,89,1963,
+Skellebjergvej 5 7755 Bedsted Thy,7755,660000.0,18-12-2001,Alm.,3837,4,Stuehus,172,1912,
+Astavej 14 7755 Bedsted Thy,7755,301750.0,10-12-2001,Fam.,4310,3,Sommerhus,70,1966,
+Østergade 11 7755 Bedsted Thy,7755,227500.0,13-11-2001,Alm.,2068,4,Villa,110,1937,
+Gyvelvænget 13 7755 Bedsted Thy,7755,645000.0,12-11-2001,Alm.,4607,5,Villa,140,1974,
+Harregårdsvej 2 7755 Bedsted Thy,7755,345000.0,10-11-2001,Alm.,3317,4,Stuehus,104,1951,
+Stormgade 27 7755 Bedsted Thy,7755,617805.0,07-11-2001,Alm.,5235,4,Villa,118,1979,
+Vestervigvej 91 7755 Bedsted Thy,7755,430000.0,01-11-2001,Alm.,3028,4,Villa,142,1956,
+Iruplundvej 18 7755 Bedsted Thy,7755,574563.0,28-10-2001,Alm.,4560,4,Villa,126,1928,
+Præstegårdsvænget 7 7755 Bedsted Thy,7755,625000.0,12-10-2001,Alm.,4084,4,Villa,153,2007,
+Irisvej 15 7755 Bedsted Thy,7755,350000.0,09-10-2001,Alm.,3846,3,Villa,91,1961,
+Vestervigvej 51 7755 Bedsted Thy,7755,200000.0,02-10-2001,Auktion,1680,6,Villa,119,1934,
+Grurupvej 11 7755 Bedsted Thy,7755,337846.0,30-07-2001,Alm.,2598,4,Villa,130,1907,
+Lyngbyvej 35 7755 Bedsted Thy,7755,560000.0,23-07-2001,Alm.,4666,5,Sommerhus,120,1897,
+Rishøjvej 3 7755 Bedsted Thy,7755,150000.0,19-07-2001,Alm.,3488,1,Sommerhus,43,1893,
+Østermarksvej 4 7755 Bedsted Thy,7755,250000.0,19-06-2001,Alm.,2403,5,Villa,104,1900,
+Lyngbyvej 53 7755 Bedsted Thy,7755,925000.0,15-06-2001,Alm.,5000,6,Villa,185,1890,
+Svindborgvej 11 7755 Bedsted Thy,7755,1300000.0,13-06-2001,Fam.,10833,4,Stuehus,120,1964,
+Dalgårdvej 8 7755 Bedsted Thy,7755,390580.0,12-06-2001,Alm.,4489,5,Stuehus,87,1827,
+Lyngbyvej 57 7755 Bedsted Thy,7755,300000.0,10-05-2001,Alm.,2000,4,Villa,150,2008,
+Storkærvej 6 7755 Bedsted Thy,7755,2757500.0,30-04-2001,Fam.,16814,7,Stuehus,164,1943,
+Svindborgvej 1 7755 Bedsted Thy,7755,1735400.0,25-04-2001,Fam.,15776,5,Stuehus,110,1911,
+Vestervigvej 26 7755 Bedsted Thy,7755,313398.0,17-04-2001,Alm.,2590,4,Stuehus,121,1907,
+Ørum Kirkevej 5 7755 Bedsted Thy,7755,206926.0,15-02-2001,Fam.,0,5,Stuehus,197,1875,
+Sølystvej 2 7755 Bedsted Thy,7755,704227.0,14-02-2001,Alm.,3215,9,Stuehus,219,1927,
+Rønheden 4 7755 Bedsted Thy,7755,692000.0,06-02-2001,Alm.,3760,5,Villa,184,1983,
+Skellebjergvej 1 7755 Bedsted Thy,7755,4653000.0,01-02-2001,Fam.,20230,6,Stuehus,230,1987,
+Åbrovej 1 7755 Bedsted Thy,7755,525000.0,29-01-2001,Alm.,3201,7,Villa,164,1915,
+Horsfeldvej 7 7755 Bedsted Thy,7755,600000.0,26-01-2001,Alm.,3448,6,Stuehus,174,1930,
+Lodbjergvej 62 7755 Bedsted Thy,7755,365500.0,25-01-2001,Fam.,3045,4,Villa,120,1973,
+Kystvejen 74 7755 Bedsted Thy,7755,2017000.0,18-01-2001,Fam.,8068,8,Stuehus,250,1978,
+Horsfeldvej 2 7755 Bedsted Thy,7755,476025.0,29-12-2000,Alm.,0,11,Stuehus,322,1892,
+Morup Møllevej 88 7755 Bedsted Thy,7755,1992598.0,11-12-2000,Fam.,8302,9,Stuehus,240,1850,
+Rishøjvej 19 7755 Bedsted Thy,7755,1150000.0,11-12-2000,Fam.,0,7,Villa,180,1973,
+Hedegårdsvej 13 7755 Bedsted Thy,7755,395000.0,11-12-2000,Alm.,4293,3,Villa,92,1926,
+Spangbjergvej 2 7755 Bedsted Thy,7755,2181000.0,03-11-2000,Alm.,13298,6,Stuehus,164,1922,
+Kildedal 8 7755 Bedsted Thy,7755,395000.0,18-09-2000,Alm.,1975,8,Villa,200,1860,
+Gudnæsvej 6 7755 Bedsted Thy,7755,395715.0,15-09-2000,Alm.,2826,4,Villa,140,1936,
+Vestervigvej 18 7755 Bedsted Thy,7755,150000.0,07-09-2000,Alm.,2727,2,Villa,55,1927,
+Villerslevvej 81 7755 Bedsted Thy,7755,521000.0,11-08-2000,Alm.,3695,5,Villa,141,1914,
+Skovlyvej 14 7755 Bedsted Thy,7755,490000.0,11-08-2000,Alm.,9245,3,Sommerhus,53,1976,
+Nørgårdsvej 6 7755 Bedsted Thy,7755,938000.0,10-08-2000,Fam.,4466,6,Stuehus,210,1980,
+Morup Møllevej 21 7755 Bedsted Thy,7755,210000.0,01-08-2000,Alm.,0,7,Villa,152,1910,
+Storkærvej 1 7755 Bedsted Thy,7755,1600000.0,06-07-2000,Alm.,9467,7,Stuehus,169,1942,
+Vilhelmsmindevej 4 7755 Bedsted Thy,7755,390000.0,05-07-2000,Alm.,2321,6,Stuehus,168,1924,
+Ingersmindevej 4 7755 Bedsted Thy,7755,93384.0,01-07-2000,Fam.,1167,3,Villa,80,1961,
+Kystvejen 82 7755 Bedsted Thy,7755,7335044.0,15-06-2000,Alm.,26010,8,Stuehus,282,1735,
+Madstedvej 8 7755 Bedsted Thy,7755,1300000.0,18-05-2000,Alm.,10833,3,Stuehus,120,1934,
+Hedegårdsvej 1 7755 Bedsted Thy,7755,2350000.0,28-04-2000,Alm.,10000,8,Stuehus,235,1900,
+Skovlyvej 29 7755 Bedsted Thy,7755,255000.0,27-04-2000,Fam.,4180,3,Sommerhus,61,1977,
+Stormgade 62 7755 Bedsted Thy,7755,279730.0,26-04-2000,Alm.,4370,3,Rækkehus,64,1975,
+Nordvejen 8 7755 Bedsted Thy,7755,525000.0,15-04-2000,Alm.,1422,12,Villa,369,1907,
+Vestervigvej 153 7755 Bedsted Thy,7755,286495.0,08-04-2000,Alm.,2557,4,Villa,112,1936,
+Højbogårdsvej 9 7755 Bedsted Thy,7755,35000.0,28-03-2000,Alm.,286,5,Villa,122,1872,
+Kystvejen 81 7755 Bedsted Thy,7755,825000.0,08-03-2000,Alm.,4459,8,Villa,185,1900,
+Skolegade 2A 7755 Bedsted Thy,7755,510000.0,21-02-2000,Alm.,3642,4,Villa,140,1970,
+Gundgårdsvej 10 7755 Bedsted Thy,7755,270000.0,12-11-1999,Alm.,2454,4,Villa,110,1954,
+Hedegårdsvej 35 7755 Bedsted Thy,7755,195000.0,08-10-1999,Alm.,1893,3,Villa,103,1925,
+Vestervigvej 49 7755 Bedsted Thy,7755,610200.0,02-10-1999,Alm.,4622,5,Villa,132,1949,
+Lyngbyvej 41 7755 Bedsted Thy,7755,246500.0,01-09-1999,Andet,2465,4,Villa,100,1971,
+Tinghøjvej 1 7755 Bedsted Thy,7755,868901.0,26-08-1999,Alm.,3794,7,Villa,229,1956,
+Møllestræde 7 7755 Bedsted Thy,7755,324696.0,23-08-1999,Alm.,2925,5,Sommerhus,111,1910,
+Brogårdsvej 4 7755 Bedsted Thy,7755,2540543.0,13-08-1999,Fam.,9771,5,Stuehus,260,1917,
+Villerslevvej 52 7755 Bedsted Thy,7755,3763332.0,28-07-1999,Fam.,22808,6,Stuehus,165,1870,
+Skovlyvej 33 7755 Bedsted Thy,7755,385000.0,26-07-1999,Fam.,5347,4,Sommerhus,72,1978,
+Thylandsgade 30 7755 Bedsted Thy,7755,135000.0,23-07-1999,Alm.,1097,6,Villa,123,1906,
+Lyngbyvej 33 7755 Bedsted Thy,7755,686930.0,04-07-1999,Alm.,0,7,Stuehus,250,1908,
+Skolegade 17 7755 Bedsted Thy,7755,702959.0,23-06-1999,Alm.,5623,3,Villa,125,1880,
+Vittrupvej 2 7755 Bedsted Thy,7755,65400.0,14-06-1999,Alm.,333,5,Stuehus,196,1854,
+Lethsvej 2 7755 Bedsted Thy,7755,732000.0,27-05-1999,Alm.,4784,6,Stuehus,153,1895,
+Hedegårdsvej 57 7755 Bedsted Thy,7755,200000.0,06-05-1999,Alm.,1769,4,Stuehus,113,1927,
+Rishøjvej 24 7755 Bedsted Thy,7755,750000.0,21-04-1999,Alm.,4143,6,Villa,181,1915,
+Villerupvej 12 7755 Bedsted Thy,7755,410000.0,16-04-1999,Alm.,2751,4,Villa,149,1924,
+Åkandevej 4 7755 Bedsted Thy,7755,474000.0,08-04-1999,Alm.,3590,5,Villa,132,1976,
+Højbogårdsvej 1 7755 Bedsted Thy,7755,985000.0,30-03-1999,Alm.,4339,4,Villa,227,1976,
+Rishøjvej 11 7755 Bedsted Thy,7755,385000.0,07-03-1999,Alm.,3850,4,Stuehus,100,1957,
+Bakkevej 11 7755 Bedsted Thy,7755,450000.0,05-03-1999,Alm.,3191,6,Villa,141,1964,
+Villerslevvej 39 7755 Bedsted Thy,7755,307000.0,04-03-1999,Alm.,1519,5,Villa,202,1900,
+Hedegårdsvej 51 7755 Bedsted Thy,7755,190044.0,24-02-1999,Fam.,3016,3,Stuehus,63,1900,
+Vestervigvej 97 7755 Bedsted Thy,7755,625000.0,09-02-1999,Alm.,3765,4,Villa,166,1956,
+Hedegårdsvej 14 7755 Bedsted Thy,7755,125000.0,08-02-1999,Alm.,1420,3,Villa,88,1911,
+Lyngbyvej 16 7755 Bedsted Thy,7755,161500.0,29-01-1999,Fam.,1794,3,Villa,90,1919,
+Vestervigvej 30 7755 Bedsted Thy,7755,595000.0,22-12-1998,Fam.,4473,4,Stuehus,133,1900,
+Villerslevvej 24 7755 Bedsted Thy,7755,225000.0,22-12-1998,Alm.,2205,5,Villa,102,1917,
+Villerslevvej 33 7755 Bedsted Thy,7755,205000.0,19-12-1998,Alm.,2733,3,Villa,75,1947,
+Skolegade 16 7755 Bedsted Thy,7755,560000.0,16-12-1998,Alm.,3200,6,Villa,175,1962,
+Hedegårdsvej 31 7755 Bedsted Thy,7755,372000.0,11-12-1998,Alm.,3049,4,Villa,122,1910,
+Morup Møllevej 10 7755 Bedsted Thy,7755,344655.0,03-12-1998,Alm.,1665,6,Villa,207,1920,
+Højbogårdsvej 6 7755 Bedsted Thy,7755,730000.0,16-11-1998,Alm.,4219,5,Villa,173,1900,
+Nordvejen 12 7755 Bedsted Thy,7755,340000.0,13-11-1998,Alm.,2857,4,Villa,119,1977,
+Sølystvej 3 7755 Bedsted Thy,7755,2600000.0,06-11-1998,Alm.,15853,5,Stuehus,164,1916,
+Vittrupvej 6 7755 Bedsted Thy,7755,361467.0,21-10-1998,Alm.,1844,7,Stuehus,196,1880,
+Hedegårdsvej 5 7755 Bedsted Thy,7755,319500.0,16-10-1998,Alm.,1521,6,Stuehus,210,1851,
+Galgebakkevej 2 7755 Bedsted Thy,7755,3900000.0,23-09-1998,Alm.,18932,7,Stuehus,206,1962,
+Gartnervænget 3 7755 Bedsted Thy,7755,613907.0,21-09-1998,Alm.,4686,4,Villa,131,1978,
+Brogårdsvej 13 7755 Bedsted Thy,7755,110000.0,18-09-1998,Alm.,859,5,Stuehus,128,1939,
+Rønheden 40 7755 Bedsted Thy,7755,188388.0,04-09-1998,Alm.,1082,6,Villa,174,1999,
+Skovlyvej 15 7755 Bedsted Thy,7755,93000.0,31-08-1998,Alm.,1162,4,Sommerhus,80,2001,
+Redningsvej 3 7755 Bedsted Thy,7755,371034.0,06-08-1998,Alm.,2992,6,Villa,124,1931,
+Villerupvej 1 7755 Bedsted Thy,7755,862720.0,15-06-1998,Alm.,2575,8,Villa,335,1903,
+Åkandevej 9 7755 Bedsted Thy,7755,499000.0,10-06-1998,Alm.,4228,4,Villa,118,1975,
+Vittrupvej 7 7755 Bedsted Thy,7755,1923199.0,26-05-1998,Alm.,9615,9,Stuehus,200,1867,
+Åkandevej 3 7755 Bedsted Thy,7755,625000.0,13-05-1998,Alm.,4844,4,Villa,129,1975,
+Åkandevej 10 7755 Bedsted Thy,7755,567540.0,09-05-1998,Alm.,3170,7,Villa,179,1975,
+Horsfeldvej 16 7755 Bedsted Thy,7755,2742611.0,05-05-1998,Fam.,13122,5,Stuehus,209,1900,
+Udsigten 13 7755 Bedsted Thy,7755,459000.0,01-05-1998,Alm.,2980,6,Villa,154,1972,
+Hvidbjerggårdsvej 18 7755 Bedsted Thy,7755,842500.0,29-04-1998,Alm.,4841,6,Sommerhus,174,1976,
+Vittrupvej 4 7755 Bedsted Thy,7755,1440000.0,23-04-1998,Alm.,7783,7,Stuehus,185,1866,
+Åbrovej 11 7755 Bedsted Thy,7755,1205000.0,13-04-1998,Alm.,6443,7,Villa,187,1913,
+Kirkebakken 4 7755 Bedsted Thy,7755,520000.0,06-04-1998,Alm.,2639,6,Villa,197,1979,
+Hedegårdsvej 21 7755 Bedsted Thy,7755,474000.0,31-03-1998,Alm.,0,7,Villa,112,1947,
+Åbrovej 25 7755 Bedsted Thy,7755,289245.0,24-03-1998,Alm.,1546,4,Villa,187,1928,
+Grurupvej 21 7755 Bedsted Thy,7755,507080.0,17-03-1998,Alm.,3497,4,Stuehus,145,1917,
+Kjærgaardsvej 10 7755 Bedsted Thy,7755,400000.0,04-03-1998,Alm.,1777,7,Villa,225,1999,
+Villerupvej 8 7755 Bedsted Thy,7755,753341.0,25-02-1998,Alm.,4431,6,Stuehus,170,1920,
+Rosenvænget 3 7755 Bedsted Thy,7755,350000.0,20-02-1998,Alm.,3645,4,Villa,96,1975,
+Thylandsgade 28 7755 Bedsted Thy,7755,212370.0,14-01-1998,Fam.,1406,4,Villa,151,1908,
+Villerupvej 4 7755 Bedsted Thy,7755,711613.0,13-01-1998,Alm.,3997,6,Villa,178,1927,
+Iruplundvej 13B 7755 Bedsted Thy,7755,69400.0,18-12-1997,Alm.,963,3,Villa,72,1897,
+Villerupvej 13 7755 Bedsted Thy,7755,106500.0,17-12-1997,Andet,0,5,Villa,150,1888,
+Horsfeldvej 1 7755 Bedsted Thy,7755,295000.0,16-12-1997,Alm.,1282,9,Villa,230,1919,
+Sølystvej 5 7755 Bedsted Thy,7755,544000.0,11-12-1997,Alm.,3378,4,Villa,161,1927,
+Gyvelvænget 9 7755 Bedsted Thy,7755,800000.0,29-11-1997,Alm.,4678,5,Villa,171,1980,
+Præstegårdsvænget 3 7755 Bedsted Thy,7755,475000.0,27-11-1997,Alm.,3467,9,Villa,137,1965,
+Tandrupvej 5 7755 Bedsted Thy,7755,284973.0,13-11-1997,Fam.,2456,5,Villa,116,1915,
+Nedergårdsvej 4 7755 Bedsted Thy,7755,734000.0,03-11-1997,Alm.,4194,6,Stuehus,175,2012,
+Astavej 3 7755 Bedsted Thy,7755,525000.0,27-10-1997,Alm.,0,8,Villa,195,1923,
+Horsfeldvej 9 7755 Bedsted Thy,7755,529735.0,16-10-1997,Alm.,2198,10,Stuehus,241,1906,
+Thylandsgade 12A 7755 Bedsted Thy,7755,250000.0,13-10-1997,Fam.,2066,6,Villa,121,1924,
+Morup Møllevej 51 7755 Bedsted Thy,7755,225000.0,08-10-1997,Fam.,1451,6,Villa,155,1929,
+Hedegårdsvej 30B 7755 Bedsted Thy,7755,180000.0,06-10-1997,Alm.,1978,3,Villa,91,1907,
+Gundgårdsvej 8 7755 Bedsted Thy,7755,165000.0,20-09-1997,Alm.,1683,5,Villa,98,1951,
+Lyngbyvej 36 7755 Bedsted Thy,7755,623279.0,17-09-1997,Alm.,0,5,Villa,140,1915,
+Ørum Kirkevej 2 7755 Bedsted Thy,7755,925000.0,26-08-1997,Fam.,0,5,Stuehus,140,1907,
+Gundgårdsvej 7 7755 Bedsted Thy,7755,150000.0,05-08-1997,Alm.,1200,5,Villa,125,1944,
+Rishøjvej 10 7755 Bedsted Thy,7755,876000.0,02-07-1997,Alm.,7300,4,Stuehus,120,1900,
+Dalgårdvej 18 7755 Bedsted Thy,7755,238000.0,27-06-1997,Fam.,1586,6,Villa,150,1870,
+Stormgade 4 7755 Bedsted Thy,7755,760000.0,13-06-1997,Fam.,5170,5,Villa,147,1990,
+Vestervigvej 99 7755 Bedsted Thy,7755,458784.0,10-04-1997,Alm.,4133,4,Villa,111,1960,
+Tandrupvej 4 7755 Bedsted Thy,7755,1426902.0,18-03-1997,Fam.,6231,5,Stuehus,229,1967,
+Skovbrynet 14 7755 Bedsted Thy,7755,200000.0,27-01-1997,Fam.,0,3,Sommerhus,70,1968,
+Astavej 11 7755 Bedsted Thy,7755,300000.0,16-01-1997,Alm.,2970,4,Sommerhus,101,2003,
+Kystvejen 83 7755 Bedsted Thy,7755,1400763.0,15-01-1997,Alm.,10775,5,Villa,130,1900,
+Svankærvej 1 7755 Bedsted Thy,7755,105000.0,12-12-1996,Alm.,889,4,Villa,118,1930,
+Skovlyvej 23 7755 Bedsted Thy,7755,500000.0,02-12-1996,Alm.,6756,4,Sommerhus,74,1985,
+Stationsvej 3 7755 Bedsted Thy,7755,225000.0,18-11-1996,Alm.,1654,6,Villa,136,1936,
+Gyvelvænget 3 7755 Bedsted Thy,7755,440000.0,31-10-1996,Alm.,3142,4,Villa,140,1973,
+Morup Møllevej 64 7755 Bedsted Thy,7755,54000.0,14-10-1996,Alm.,432,4,Villa,125,1954,
+Astrupvej 5 7755 Bedsted Thy,7755,800000.0,02-10-1996,Alm.,3333,5,Stuehus,240,1947,
+Villerslevvej 5 7755 Bedsted Thy,7755,352000.0,24-09-1996,Fam.,2496,5,Villa,141,1966,
+Hunskjærvej 5 7755 Bedsted Thy,7755,175000.0,21-09-1996,Alm.,683,8,Villa,256,1918,
+Stormgade 11 7755 Bedsted Thy,7755,419700.0,09-09-1996,Alm.,3357,5,Villa,125,1954,
+Visbyvej 10 7755 Bedsted Thy,7755,603500.0,05-09-1996,Fam.,3725,5,Stuehus,162,1915,
+Redningsvej 1 7755 Bedsted Thy,7755,350000.0,30-08-1996,Fam.,2611,6,Villa,134,1924,
+Gudnæsvej 10 7755 Bedsted Thy,7755,1000000.0,29-08-1996,Alm.,3690,9,Villa,271,1984,
+Skolegade 19 7755 Bedsted Thy,7755,200000.0,23-08-1996,Alm.,2352,3,Villa,85,1954,
+Kystvejen 71 7755 Bedsted Thy,7755,467500.0,08-08-1996,Fam.,3995,5,Stuehus,117,1913,
+Astrupvej 3 7755 Bedsted Thy,7755,735000.0,22-07-1996,Alm.,2940,8,Stuehus,250,1930,
+Storkærvej 2 7755 Bedsted Thy,7755,3885800.0,26-06-1996,Fam.,21468,7,Stuehus,181,1907,
+Villerslevvej 9 7755 Bedsted Thy,7755,230000.0,14-06-1996,Alm.,2000,4,Villa,115,1951,
+Lethsvej 7 7755 Bedsted Thy,7755,1450000.0,13-06-1996,Alm.,6444,7,Stuehus,225,1987,
+Horsfeldvej 8 7755 Bedsted Thy,7755,450000.0,12-06-1996,Alm.,1764,11,Stuehus,255,1912,
+Svindborgvej 2 7755 Bedsted Thy,7755,350000.0,07-06-1996,Alm.,3500,4,Villa,100,1827,
+Ørum Kirkevej 1 7755 Bedsted Thy,7755,212500.0,04-06-1996,Fam.,1353,6,Stuehus,157,1941,
+Morup Møllevej 28 7755 Bedsted Thy,7755,210000.0,30-05-1996,Fam.,2333,5,Villa,90,1956,
+Balsbyvej 1 7755 Bedsted Thy,7755,355000.0,28-05-1996,Alm.,1868,7,Villa,190,1953,
+Pilevej 2 7755 Bedsted Thy,7755,137000.0,24-05-1996,Alm.,872,3,Villa,157,1999,
+Astavej 8 7755 Bedsted Thy,7755,758000.0,12-05-1996,Alm.,9475,3,Sommerhus,80,1972,
+Stormgade 45 7755 Bedsted Thy,7755,450000.0,08-05-1996,Fam.,2036,7,Villa,221,1979,
+Gl. Bedstedvej 4 7755 Bedsted Thy,7755,360000.0,07-05-1996,Alm.,3000,4,Villa,120,1964,
+Rønheden 46 7755 Bedsted Thy,7755,485000.0,29-04-1996,Alm.,4110,4,Villa,118,1987,
+Villerslevvej 38 7755 Bedsted Thy,7755,350000.0,21-04-1996,Alm.,2800,6,Villa,125,1953,
+Oddesundvej 175 7755 Bedsted Thy,7755,525000.0,17-04-1996,Alm.,2560,5,Villa,205,1914,
+Stormgade 1 7755 Bedsted Thy,7755,175000.0,08-03-1996,Alm.,1346,5,Villa,130,1951,
+Gartnervænget 2 7755 Bedsted Thy,7755,244000.0,20-12-1995,Alm.,2870,3,Rækkehus,85,1976,
+Åkandevej 11 7755 Bedsted Thy,7755,510850.0,05-12-1995,Alm.,4119,4,Villa,124,1976,
+Astavej 6A 7755 Bedsted Thy,7755,575000.0,10-11-1995,Alm.,9745,3,Sommerhus,59,1961,
+Gartnervænget 7B 7755 Bedsted Thy,7755,394500.0,04-11-1995,Alm.,4641,3,Rækkehus,85,1990,
+Gudnæsvej 7 7755 Bedsted Thy,7755,50000.0,17-10-1995,Fam.,357,4,Villa,140,1910,
+Skolegade 44 7755 Bedsted Thy,7755,93720.0,29-09-1995,Alm.,561,5,Villa,167,1996,
+Oddesundvej 224 7755 Bedsted Thy,7755,585000.0,29-09-1995,Alm.,4570,5,Stuehus,128,1963,
+Hedegårdsvej 9 7755 Bedsted Thy,7755,263800.0,05-09-1995,Alm.,2093,4,Villa,126,1900,
+Villerslevvej 87 7755 Bedsted Thy,7755,1921400.0,02-09-1995,Alm.,11369,6,Stuehus,169,1903,
+Lyngholmvej 4 7755 Bedsted Thy,7755,205000.0,31-08-1995,Alm.,3014,3,Villa,68,1954,
+Grurup Kirkevej 4 7755 Bedsted Thy,7755,425000.0,23-08-1995,Alm.,2361,10,Villa,180,1900,
+Morup Møllevej 20 7755 Bedsted Thy,7755,195000.0,17-08-1995,Alm.,2074,5,Villa,94,1946,
+Rishøjvej 14 7755 Bedsted Thy,7755,926000.0,16-08-1995,Alm.,0,6,Villa,225,1939,
+Rønheden 35 7755 Bedsted Thy,7755,285000.0,03-07-1995,Alm.,3352,3,Rækkehus,85,1989,
+Kystvejen 69 7755 Bedsted Thy,7755,215000.0,30-06-1995,Alm.,1131,7,Villa,190,1954,
+Oddesundvej 197 7755 Bedsted Thy,7755,480800.0,26-06-1995,Alm.,3005,5,Sommerhus,160,1860,
+Skovvej 5 7755 Bedsted Thy,7755,395000.0,08-06-1995,Alm.,2532,5,Villa,156,1930,
+Lyngbyvej 14 7755 Bedsted Thy,7755,410000.0,26-05-1995,Alm.,3059,6,Sommerhus,134,1968,
+Thylandsgade 6 7755 Bedsted Thy,7755,298000.0,23-05-1995,Alm.,1216,7,Villa,245,1870,
+Hedegårdsvej 25 7755 Bedsted Thy,7755,125355.0,22-05-1995,Fam.,1193,3,Villa,105,1904,
+Thylandsgade 26 7755 Bedsted Thy,7755,252500.0,28-04-1995,Alm.,2104,6,Villa,120,1921,
+Vittrupvej 9 7755 Bedsted Thy,7755,245000.0,28-04-1995,Alm.,1503,8,Villa,163,1880,
+Nordvejen 14 7755 Bedsted Thy,7755,350000.0,12-04-1995,Alm.,3500,4,Villa,100,1922,
+Istrupvej 27 7755 Bedsted Thy,7755,1950000.0,29-03-1995,Alm.,6678,8,Stuehus,292,1917,
+Morup Møllevej 18 7755 Bedsted Thy,7755,420000.0,27-03-1995,Alm.,5121,4,Villa,82,1954,
+Skyumvej 140 7755 Bedsted Thy,7755,791110.0,10-03-1995,Fam.,5239,5,Stuehus,151,1975,
+Irisvej 12 7755 Bedsted Thy,7755,150000.0,16-02-1995,Alm.,2083,3,Villa,72,1970,
+Præstegårdsvænget 5 7755 Bedsted Thy,7755,460000.0,06-02-1995,Alm.,0,4,Villa,171,1893,
+Rønheden 37 7755 Bedsted Thy,7755,285000.0,29-01-1995,Alm.,3352,3,Rækkehus,85,1989,
+Frederiksvej 9 7755 Bedsted Thy,7755,237239.0,24-01-1995,Alm.,2965,3,Villa,80,1960,
+Linnetsgade 7 7755 Bedsted Thy,7755,39085.0,20-12-1994,Alm.,244,7,Villa,160,1900,
+Oddesundvej 181 7755 Bedsted Thy,7755,280000.0,11-10-1994,Alm.,2314,4,Villa,121,1890,
+Brogårdsvej 11 7755 Bedsted Thy,7755,50340.0,15-07-1994,Alm.,370,5,Villa,136,1930,
+Villerslevvej 28 7755 Bedsted Thy,7755,150000.0,11-07-1994,Alm.,1685,3,Villa,89,1930,
+Fruegårdsvej 5 7755 Bedsted Thy,7755,425000.0,09-07-1994,Alm.,0,8,Stuehus,310,1922,
+Villerslevvej 63 7755 Bedsted Thy,7755,300000.0,04-07-1994,Alm.,2857,3,Villa,105,1910,
+Irisvej 10 7755 Bedsted Thy,7755,240000.0,16-06-1994,Alm.,0,8,Villa,173,1967,
+Horsfeldvej 14 7755 Bedsted Thy,7755,420862.0,15-06-1994,Alm.,1829,5,Villa,230,1920,
+Morup Møllevej 86 7755 Bedsted Thy,7755,190000.0,10-06-1994,Alm.,1283,4,Villa,148,1900,
+Villerslevvej 12 7755 Bedsted Thy,7755,282500.0,04-06-1994,Alm.,2077,4,Villa,136,1900,
+Gundgårdsvej 11 7755 Bedsted Thy,7755,540000.0,30-05-1994,Alm.,3375,6,Stuehus,160,1911,
+Balsbyvej 2 7755 Bedsted Thy,7755,380000.0,30-05-1994,Alm.,3064,4,Villa,124,1961,
+Vestervigvej 85 7755 Bedsted Thy,7755,200000.0,15-05-1994,Alm.,1111,5,Villa,180,1890,
+Horsfeldvej 18 7755 Bedsted Thy,7755,300000.0,14-04-1994,Fam.,2970,3,Villa,101,1983,
+Gundgårdsvej 16 7755 Bedsted Thy,7755,3627500.0,30-03-1994,Alm.,13435,8,Stuehus,270,1888,
+Dalgårdvej 14 7755 Bedsted Thy,7755,295000.0,24-03-1994,Alm.,1657,8,Stuehus,178,1915,
+Østergade 9 7755 Bedsted Thy,7755,325000.0,23-02-1994,Alm.,2355,6,Villa,138,1933,
+Svindborgvej 13 7755 Bedsted Thy,7755,620000.0,12-02-1994,Alm.,3875,4,Stuehus,160,1900,
+Dalgårdvej 6 7755 Bedsted Thy,7755,875000.0,17-01-1994,Alm.,0,6,Stuehus,261,1929,
+Skolegade 5 7755 Bedsted Thy,7755,584000.0,14-01-1994,Alm.,3073,5,Villa,190,1973,
+Hedegårdsvej 38 7755 Bedsted Thy,7755,675000.0,25-10-1993,Alm.,0,9,Stuehus,243,1898,
+Kirkebakken 10 7755 Bedsted Thy,7755,540000.0,22-10-1993,Alm.,2887,7,Villa,187,1978,
+Stenskærvej 1 7755 Bedsted Thy,7755,850000.0,04-10-1993,Alm.,7727,3,Stuehus,110,1964,
+Visbyvej 12 7755 Bedsted Thy,7755,90000.0,01-10-1993,Alm.,1022,3,Villa,88,1919,
+Gyvelvænget 4 7755 Bedsted Thy,7755,425000.0,24-09-1993,Alm.,3541,4,Villa,120,1972,
+Jordemodervej 4 7755 Bedsted Thy,7755,160000.0,15-09-1993,Alm.,1000,4,Villa,160,1900,
+Gyvelvænget 5 7755 Bedsted Thy,7755,535000.0,31-08-1993,Alm.,3496,5,Villa,153,1973,
+Åbrovej 21 7755 Bedsted Thy,7755,585000.0,26-08-1993,Fam.,5318,5,Stuehus,110,1912,
+Kystvejen 75 7755 Bedsted Thy,7755,480000.0,16-06-1993,Fam.,3720,3,Stuehus,129,2003,
+Bakkevej 9 7755 Bedsted Thy,7755,310000.0,18-05-1993,Alm.,3100,4,Villa,100,1964,
+Oddesundvej 250 7755 Bedsted Thy,7755,710000.0,29-04-1993,Alm.,4671,4,Stuehus,152,1902,
+Svankærvej 3 7755 Bedsted Thy,7755,200000.0,27-04-1993,Fam.,1818,5,Villa,110,1976,
+Vestervigvej 155 7755 Bedsted Thy,7755,155000.0,26-04-1993,Alm.,1291,4,Villa,120,1928,
+Vestervigvej 123 7755 Bedsted Thy,7755,347500.0,23-04-1993,Alm.,3994,3,Villa,87,1925,
+Villerupvej 15 7755 Bedsted Thy,7755,355000.0,29-03-1993,Alm.,0,8,Stuehus,226,1930,
+Grurupvej 32 7755 Bedsted Thy,7755,639828.0,03-03-1993,Alm.,2908,8,Stuehus,220,1914,
+"Thylandsgade 16B, ST 7755 Bedsted Thy",7755,25000.0,22-02-1993,Alm.,446,2,Lejlighed,56,1929,
+Sølystvej 1 7755 Bedsted Thy,7755,415000.0,18-02-1993,Alm.,2561,8,Villa,162,1927,
+Vestervigvej 11 7755 Bedsted Thy,7755,119000.0,01-02-1993,Fam.,1053,4,Stuehus,113,1916,
+Lyngbyvej 46 7755 Bedsted Thy,7755,382000.0,02-01-1993,Alm.,2122,6,Villa,180,1934,
+Højbogårdsvej 5 7755 Bedsted Thy,7755,180000.0,05-12-1992,Alm.,983,8,Stuehus,183,1929,
+Vestervigvej 21 7755 Bedsted Thy,7755,334852.0,08-11-1992,Alm.,3348,4,Villa,100,1920,
+Stormgade 41 7755 Bedsted Thy,7755,439500.0,12-10-1992,Alm.,2989,4,Villa,147,1980,
+Nordvejen 4 7755 Bedsted Thy,7755,290000.0,28-08-1992,Alm.,1534,7,Villa,189,1907,
+Lyngbyvej 3 7755 Bedsted Thy,7755,455000.0,03-08-1992,Alm.,4062,6,Stuehus,112,1911,
+Vestervigvej 62 7755 Bedsted Thy,7755,100000.0,23-07-1992,Alm.,2000,3,Villa,50,1923,
+Hedegårdsvej 7 7755 Bedsted Thy,7755,300000.0,09-07-1992,Fam.,1229,10,Stuehus,244,1906,
+Gudnæsvej 28 7755 Bedsted Thy,7755,1225000.0,04-07-1992,Alm.,4939,6,Stuehus,248,1897,
+Vestervigvej 141 7755 Bedsted Thy,7755,135000.0,25-05-1992,Alm.,0,6,Villa,187,1922,
+Nørgårdsvej 3 7755 Bedsted Thy,7755,391000.0,13-05-1992,Alm.,3258,4,Stuehus,120,1912,
+Vestervigvej 137 7755 Bedsted Thy,7755,95000.0,04-05-1992,Alm.,0,8,Villa,246,1887,
+Svindborgvej 4 7755 Bedsted Thy,7755,350000.0,27-04-1992,Fam.,2258,7,Villa,155,1907,
+Gartnervænget 9 7755 Bedsted Thy,7755,512500.0,24-04-1992,Alm.,4270,4,Villa,120,1976,
+Vestervigvej 31 7755 Bedsted Thy,7755,320000.0,02-03-1992,Alm.,2909,4,Villa,110,1969,
+Vestervigvej 135 7755 Bedsted Thy,7755,290000.0,18-02-1992,Alm.,1959,5,Villa,148,1918,
+Morup Møllevej 87 7755 Bedsted Thy,7755,190000.0,06-02-1992,Alm.,954,6,Stuehus,199,1932,
+Morup Møllevej 4 7755 Bedsted Thy,7755,275000.0,28-01-1992,Alm.,2500,5,Villa,110,1922,
+Kystvejen 89 7755 Bedsted Thy,7755,530000.0,22-01-1992,Alm.,3397,6,Stuehus,156,1925,
+Skovlyvej 25 7755 Bedsted Thy,7755,125000.0,22-01-1992,Alm.,1666,4,Sommerhus,75,1994,

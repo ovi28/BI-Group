@@ -1,0 +1,2135 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Østerbækvej 6 6893 Hemmet,6,495000.0,17-05-2017,Alm.,4459,4,Villa,111,1964,
+Kirkehøjvej 36A 6893 Hemmet,0,525000.0,08-05-2017,Alm.,10096,3,Sommerhus,52,1992,
+Lærkevænget 13 6893 Hemmet,13,1030000.0,08-05-2017,Alm.,12875,4,Sommerhus,80,2000,-5 %
+Kirkehøjvej 42A 6893 Hemmet,0,1625000.0,08-05-2017,Alm.,12126,5,Sommerhus,134,2009,
+Galgebjergevej 11 6893 Hemmet,11,325000.0,03-05-2017,Alm.,2138,5,Villa,152,1943,-18 %
+Spurvevænget 10 6893 Hemmet,10,950000.0,03-05-2017,Alm.,11309,4,Sommerhus,84,1998,-7 %
+Bork Hytteby 63 6893 Hemmet,63,500000.0,03-05-2017,Alm.,10000,3,Sommerhus,50,2001,-15 %
+Strandvænget 42 6893 Hemmet,42,1000000.0,03-05-2017,Alm.,10526,4,Sommerhus,95,1996,-7 %
+Bork Hytteby 43 6893 Hemmet,43,500000.0,01-05-2017,Alm.,10000,3,Sommerhus,50,1997,-5 %
+Vester Fælled 62 6893 Hemmet,62,460000.0,01-05-2017,Alm.,10222,3,Sommerhus,45,1979,-8 %
+Klydevænget 5 6893 Hemmet,5,825000.0,28-04-2017,Alm.,8967,4,Sommerhus,92,2003,
+Bork Hytteby 190 6893 Hemmet,190,275000.0,26-04-2017,Alm.,9166,3,Sommerhus,30,1984,
+Tinghedevej 1 6893 Hemmet,1,450000.0,23-04-2017,Alm.,2153,6,Stuehus,209,1957,
+Strandvænget 15 6893 Hemmet,15,790000.0,17-04-2017,Alm.,7821,5,Sommerhus,101,1980,-4 %
+Rylevænget 36 6893 Hemmet,36,212734.0,11-04-2017,Fam.,3487,4,Sommerhus,61,1973,
+Vestergade 10 6893 Hemmet,10,190000.0,04-04-2017,Alm.,2500,3,Villa,76,1957,-17 %
+Vejrupsøvej 5 6893 Hemmet,5,3145000.0,04-04-2017,Fam.,18609,5,Stuehus,169,1900,
+Tarmvej 89 6893 Hemmet,89,230000.0,03-04-2017,Alm.,3194,3,Villa,72,1959,
+Kornblomstvænget 6 6893 Hemmet,6,1180000.0,27-03-2017,Alm.,9915,4,Sommerhus,119,2016,-12 %
+Borbjergvej 4 6893 Hemmet,4,596160.0,24-03-2017,Alm.,3821,4,Villa,156,1900,
+Klydevænget 2 6893 Hemmet,2,925000.0,24-03-2017,Alm.,11419,4,Sommerhus,81,2003,-2 %
+Kosigvænget 30 6893 Hemmet,30,175000.0,21-03-2017,Alm.,2187,4,Sommerhus,80,1975,
+Husfold 51 6893 Hemmet,51,820000.0,21-03-2017,Alm.,9111,4,Sommerhus,90,1976,-9 %
+Vester Fælled 65 6893 Hemmet,65,820000.0,20-03-2017,Fam.,13015,5,Sommerhus,63,1977,
+Tarmvej 103 6893 Hemmet,103,510000.0,19-03-2017,Alm.,2487,7,Stuehus,205,1921,
+Bork Hytteby 235 6893 Hemmet,235,530000.0,18-03-2017,Alm.,10816,3,Sommerhus,49,2000,-5 %
+Lærkevænget 23 6893 Hemmet,23,1035000.0,15-03-2017,Alm.,11250,4,Sommerhus,92,2006,
+Strandvænget 34 6893 Hemmet,34,1070000.0,08-03-2017,Alm.,12738,4,Sommerhus,84,2001,-2 %
+Kirkehøjvej 38G 6893 Hemmet,0,400000.0,07-03-2017,Alm.,7692,3,Sommerhus,52,1980,0 %
+Ranunkelvænget 6 6893 Hemmet,6,750000.0,03-03-2017,Alm.,10000,4,Sommerhus,75,2006,
+Lappedykkervænget 25 6893 Hemmet,25,475000.0,21-02-2017,Alm.,5523,4,Sommerhus,86,1973,-4 %
+Stensagervej 12 6893 Hemmet,12,1325000.0,17-02-2017,Alm.,10114,5,Villa,131,1904,-4 %
+Tarmvej 163 6893 Hemmet,163,300000.0,16-02-2017,Alm.,3448,3,Villa,87,1963,-8 %
+Bork Hytteby 258 6893 Hemmet,258,540000.0,16-02-2017,Alm.,10800,3,Sommerhus,50,1984,-9 %
+Blomstervænget 18 6893 Hemmet,18,1165000.0,15-02-2017,Alm.,13238,4,Sommerhus,88,2007,-3 %
+Svanevænget 24 6893 Hemmet,24,900000.0,14-02-2017,Alm.,11688,4,Sommerhus,77,1976,1 %
+Mågevænget 5 6893 Hemmet,5,640000.0,13-02-2017,Alm.,7441,5,Sommerhus,86,1973,-8 %
+Bork Hytteby 126 6893 Hemmet,126,465000.0,12-02-2017,Alm.,9300,3,Sommerhus,50,1995,-3 %
+Bork Hytteby 47 6893 Hemmet,47,510000.0,10-02-2017,Alm.,10200,3,Sommerhus,50,1998,-5 %
+Kornblomstvænget 24 6893 Hemmet,24,1150000.0,25-01-2017,Alm.,9126,5,Sommerhus,126,2011,-6 %
+Horsfold 16 6893 Hemmet,16,950000.0,21-01-2017,Alm.,11445,4,Sommerhus,83,1994,-5 %
+Mosevænget 19 6893 Hemmet,19,850000.0,13-01-2017,Alm.,10493,5,Sommerhus,81,1975,-5 %
+Kirkehøjvej 36Q 6893 Hemmet,0,330000.0,12-01-2017,Alm.,6346,3,Sommerhus,52,1980,-16 %
+Horsfold 32 6893 Hemmet,32,325000.0,11-01-2017,Fam.,3282,4,Sommerhus,99,2017,
+Vibevænget 12 6893 Hemmet,12,875000.0,08-01-2017,Alm.,11666,4,Sommerhus,75,2000,-8 %
+Kærvej 2 6893 Hemmet,2,5756625.0,06-01-2017,Andet,31116,6,Stuehus,185,1900,
+Tarmvej 164 6893 Hemmet,164,2990000.0,05-01-2017,Alm.,24916,5,Stuehus,120,1915,
+Rævekrogen 70 6893 Hemmet,70,603500.0,04-01-2017,Fam.,7359,5,Sommerhus,82,1974,
+Nordmarken 51 6893 Hemmet,51,975000.0,28-12-2016,Alm.,11470,4,Sommerhus,85,2010,-7 %
+Træskoen 7 6893 Hemmet,7,425000.0,23-12-2016,Alm.,7870,4,Sommerhus,54,1970,-4 %
+Vester Fælled 184 6893 Hemmet,184,325000.0,21-12-2016,Alm.,7386,3,Sommerhus,44,1979,0 %
+Horsfold 108 6893 Hemmet,108,540000.0,18-12-2016,Alm.,10384,4,Sommerhus,52,1986,-9 %
+Lappedykkervænget 24 6893 Hemmet,24,555000.0,08-12-2016,Alm.,6937,4,Sommerhus,80,1974,-10 %
+Sydmarken 7 6893 Hemmet,7,865000.0,04-12-2016,Alm.,10421,4,Sommerhus,83,2006,-13 %
+Lappedykkervænget 13 6893 Hemmet,13,501500.0,29-11-2016,Fam.,7598,4,Sommerhus,66,1973,
+Kirkehøjvej 42D 6893 Hemmet,0,1585000.0,28-11-2016,Alm.,11485,5,Sommerhus,138,2009,-1 %
+Sønderbyvej 11 6893 Hemmet,11,947000.0,23-11-2016,Alm.,3834,5,Villa,247,1920,-14 %
+Toftegårdsvej 10 6893 Hemmet,10,1700000.0,21-11-2016,Alm.,5519,11,Villa,308,1800,-5 %
+Gl. Landevej 31 6893 Hemmet,31,80000.0,20-11-2016,Alm.,1052,4,Villa,76,1897,
+Vibevænget 4 6893 Hemmet,4,390769.0,18-11-2016,Alm.,4884,4,Sommerhus,80,2000,
+Horsfold 52 6893 Hemmet,52,840000.0,07-11-2016,Alm.,11052,4,Sommerhus,76,1994,-6 %
+Esbølvej 27 6893 Hemmet,27,95000.0,06-11-2016,Alm.,1397,3,Villa,68,1960,
+Vester Fælled 54 6893 Hemmet,54,740000.0,06-11-2016,Alm.,9487,5,Sommerhus,78,1977,-7 %
+Vester Fælled 162 6893 Hemmet,162,355000.0,04-11-2016,Alm.,8068,3,Sommerhus,44,1979,-5 %
+Vagtelvænget 8 6893 Hemmet,8,555000.0,01-11-2016,Alm.,7400,4,Sommerhus,75,1973,-7 %
+Bork Hytteby 151 6893 Hemmet,151,630000.0,31-10-2016,Alm.,13404,3,Sommerhus,47,1998,
+Vejrupsøvej 3 6893 Hemmet,3,375000.0,28-10-2016,Alm.,4076,4,Villa,92,1930,-12 %
+Mågevænget 13 6893 Hemmet,13,565000.0,27-10-2016,Alm.,9416,3,Sommerhus,60,1973,-5 %
+Vester Fælled 180 6893 Hemmet,180,400000.0,24-10-2016,Alm.,9090,3,Sommerhus,44,1979,-6 %
+Esbølvej 35 6893 Hemmet,35,160000.0,22-10-2016,Alm.,1467,3,Villa,109,1965,-18 %
+Hejrevænget 32 6893 Hemmet,32,650000.0,19-10-2016,Alm.,9420,4,Sommerhus,69,1972,-7 %
+Gl. Landevej 44 6893 Hemmet,44,225000.0,13-10-2016,Alm.,1844,4,Villa,122,1900,0 %
+Hejrevænget 40 6893 Hemmet,40,640000.0,12-10-2016,Alm.,10666,4,Villa,60,1972,-8 %
+Midtbyvej 3 6893 Hemmet,3,75000.0,10-10-2016,Alm.,1086,2,Villa,69,1775,-40 %
+Sydmarken 53 6893 Hemmet,53,1060000.0,07-10-2016,Alm.,9724,5,Sommerhus,109,2006,-3 %
+Sivskoen 9 6893 Hemmet,9,1395000.0,06-10-2016,Alm.,18600,4,Sommerhus,75,1967,0 %
+Rævekrogen 32 6893 Hemmet,32,915000.0,01-10-2016,Alm.,13260,4,Sommerhus,69,1974,-8 %
+Stensagervej 10 6893 Hemmet,10,250000.0,29-09-2016,Alm.,2747,3,Villa,91,1920,
+Horsfold 88 6893 Hemmet,88,820000.0,29-09-2016,Alm.,13666,4,Sommerhus,60,1985,
+Vestervang 7 6893 Hemmet,7,460000.0,29-09-2016,Alm.,4035,5,Villa,114,1954,-8 %
+Rylevænget 23 6893 Hemmet,23,775000.0,26-09-2016,Alm.,9011,3,Sommerhus,86,1978,-6 %
+Gl. Landevej 54 6893 Hemmet,54,1850000.0,22-09-2016,Andet,15040,4,Villa,123,1900,
+Nordmarken 57 6893 Hemmet,57,960000.0,16-09-2016,Alm.,11294,4,Sommerhus,85,2005,-12 %
+Bork Hytteby 52 6893 Hemmet,52,500000.0,15-09-2016,Alm.,10000,3,Sommerhus,50,1995,
+Mosevænget 9 6893 Hemmet,9,735000.0,14-09-2016,Alm.,8546,6,Sommerhus,86,1975,-5 %
+Tues Drøwt 68 6893 Hemmet,68,650000.0,12-09-2016,Alm.,13000,3,Sommerhus,50,1978,-6 %
+Bækager 10 6893 Hemmet,10,375000.0,09-09-2016,Alm.,3024,4,Villa,124,1978,-25 %
+Gundesbølvej 2 6893 Hemmet,2,380000.0,08-09-2016,Alm.,3114,4,Villa,122,1900,-4 %
+Rylevænget 19 6893 Hemmet,19,595000.0,05-09-2016,Alm.,14875,3,Sommerhus,40,1974,0 %
+Mosevænget 20 6893 Hemmet,20,630000.0,05-09-2016,Alm.,11886,3,Sommerhus,53,1975,-3 %
+Vester Fælled 59 6893 Hemmet,59,1000000.0,05-09-2016,Alm.,15873,5,Sommerhus,63,1977,-9 %
+Duevænget 23 6893 Hemmet,23,995000.0,03-09-2016,Alm.,12437,4,Sommerhus,80,2005,0 %
+Baunshøjvej 6 6893 Hemmet,6,400000.0,31-08-2016,Fam.,1869,7,Villa,214,1973,
+Rævekrogen 47 6893 Hemmet,47,425000.0,31-08-2016,Alm.,8333,4,Sommerhus,51,1971,0 %
+Sydmarken 37 6893 Hemmet,37,110000.0,28-08-2016,Alm.,1067,5,Sommerhus,103,2016,
+Kirkehøjvej 38W 6893 Hemmet,0,355000.0,26-08-2016,Alm.,6960,3,Sommerhus,51,1980,-3 %
+Tranevænget 17 6893 Hemmet,17,525000.0,25-08-2016,Alm.,6645,4,Sommerhus,79,1974,-12 %
+Duevænget 43 6893 Hemmet,43,1200000.0,25-08-2016,Alm.,10909,4,Sommerhus,110,2013,-1 %
+Ildervej 6 6893 Hemmet,6,515000.0,19-08-2016,Alm.,8728,3,Sommerhus,59,1987,-6 %
+Bork Hytteby 24A 6893 Hemmet,0,480000.0,16-08-2016,Alm.,8275,4,Sommerhus,58,1989,-4 %
+Kosigvænget 65 6893 Hemmet,65,460000.0,05-08-2016,Alm.,9200,3,Sommerhus,50,1983,-7 %
+Sønderbyvej 17 6893 Hemmet,17,460000.0,03-08-2016,Alm.,4380,3,Villa,105,1969,-7 %
+Husfold 35 6893 Hemmet,35,760000.0,01-08-2016,Alm.,7238,4,Sommerhus,105,1973,-18 %
+Egernvej 16 6893 Hemmet,16,100000.0,29-07-2016,Andet,1587,4,Sommerhus,63,1987,
+Vester Fælled 74 6893 Hemmet,74,410000.0,28-07-2016,Alm.,9318,3,Sommerhus,44,1979,-8 %
+Tues Drøwt 64 6893 Hemmet,64,765000.0,27-07-2016,Alm.,9683,4,Sommerhus,79,1980,-7 %
+Kosigvænget 80 6893 Hemmet,80,690000.0,25-07-2016,Alm.,10781,4,Sommerhus,64,1974,-5 %
+Lukkebjerg 4 6893 Hemmet,4,480000.0,21-07-2016,Alm.,8275,3,Sommerhus,58,1968,-3 %
+Bellisvænget 10 6893 Hemmet,10,815000.0,20-07-2016,Alm.,10866,4,Sommerhus,75,2006,-4 %
+Tarmvej 174 6893 Hemmet,174,200000.0,15-07-2016,Alm.,2298,4,Villa,87,1865,
+Lyngbyvej 1 6893 Hemmet,1,460000.0,15-07-2016,Alm.,2987,5,Villa,154,1969,-3 %
+Tarmvej 242 6893 Hemmet,242,425000.0,12-07-2016,Alm.,2833,4,Villa,150,1930,-14 %
+Svanevænget 15 6893 Hemmet,15,485000.0,11-07-2016,Alm.,8362,3,Sommerhus,58,1973,-2 %
+Bork Hytteby 104 6893 Hemmet,104,525000.0,10-07-2016,Alm.,10714,4,Sommerhus,49,1985,-4 %
+Svanevænget 2 6893 Hemmet,2,400000.0,07-07-2016,Alm.,5128,5,Sommerhus,78,1972,-19 %
+Vester Fælled 16 6893 Hemmet,16,1175000.0,06-07-2016,Alm.,18650,5,Sommerhus,63,1977,-2 %
+Midtbyvej 33 6893 Hemmet,33,140000.0,06-07-2016,Alm.,1007,3,Villa,139,1918,-28 %
+Tues Drøwt 25 6893 Hemmet,25,538500.0,01-07-2016,Fam.,6731,4,Sommerhus,80,1980,
+Midtbyvej 14 6893 Hemmet,14,102189.0,01-07-2016,Auktion,590,6,Villa,173,1880,
+Mosegårdsvej 12 6893 Hemmet,12,275000.0,30-06-2016,Alm.,887,12,Villa,310,1877,0 %
+Viumgårdsvej 2 6893 Hemmet,2,11900000.0,29-06-2016,Alm.,27107,10,Stuehus,439,1868,
+Bork Hytteby 161B 6893 Hemmet,0,540000.0,29-06-2016,Alm.,10800,3,Sommerhus,50,1998,-17 %
+Tarmvej 161 6893 Hemmet,161,164236.0,17-06-2016,Auktion,1148,5,Villa,143,1940,-76 %
+Klydevænget 8 6893 Hemmet,8,970000.0,16-06-2016,Alm.,9897,4,Sommerhus,98,2001,
+Linningvej 22 6893 Hemmet,22,375000.0,14-06-2016,Alm.,6944,4,Sommerhus,54,1974,-12 %
+Bork Hytteby 179 6893 Hemmet,179,81000.0,10-06-2016,Fam.,1620,1,Sommerhus,50,2001,
+Kirkehøjvej 38F 6893 Hemmet,0,192500.0,10-06-2016,Fam.,3701,3,Sommerhus,52,1980,
+Mågevænget 8 6893 Hemmet,8,525000.0,10-06-2016,Alm.,5412,5,Sommerhus,97,1974,0 %
+Sivskoen 1 6893 Hemmet,1,1265000.0,02-06-2016,Alm.,12650,6,Sommerhus,100,1967,-10 %
+Tues Drøwt 52 6893 Hemmet,52,775000.0,28-05-2016,Alm.,13135,2,Sommerhus,59,1994,-6 %
+Vikingevej 5 6893 Hemmet,5,690000.0,25-05-2016,Alm.,6052,4,Villa,114,1970,
+Horsfold 102 6893 Hemmet,102,720000.0,25-05-2016,Alm.,10434,4,Sommerhus,69,1978,-9 %
+Klydevænget 6 6893 Hemmet,6,982000.0,25-05-2016,Alm.,10446,4,Sommerhus,94,2001,-1 %
+Bandsbølvej 31 6893 Hemmet,31,552000.0,23-05-2016,Alm.,4380,4,Villa,126,1965,
+Tues Drøwt 13 6893 Hemmet,13,750000.0,23-05-2016,Alm.,9375,4,Sommerhus,80,1979,-3 %
+Bork Hytteby 186 6893 Hemmet,186,350000.0,19-05-2016,Alm.,11666,3,Sommerhus,30,1985,-11 %
+Lyngbyvej 2 6893 Hemmet,2,300000.0,13-05-2016,Andet,3409,4,Villa,88,1883,
+Bryggen 13 6893 Hemmet,13,1650000.0,04-05-2016,Alm.,15865,3,Detailhandel,104,1980,
+Kirkehøjvej 36D 6893 Hemmet,0,400000.0,28-04-2016,Alm.,7843,3,Sommerhus,51,1992,
+Galochen 5 6893 Hemmet,5,472000.0,28-04-2016,Alm.,7866,4,Sommerhus,60,1969,-14 %
+Mosevænget 43 6893 Hemmet,43,600000.0,27-04-2016,Alm.,6666,4,Sommerhus,90,1974,-14 %
+Bork Hytteby 254 6893 Hemmet,254,520000.0,26-04-2016,Alm.,10400,4,Sommerhus,50,1984,-6 %
+Bork Hytteby 72 6893 Hemmet,72,485000.0,25-04-2016,Alm.,9700,3,Sommerhus,50,1995,-12 %
+Bork Hytteby 18 6893 Hemmet,18,520000.0,24-04-2016,Alm.,10400,3,Sommerhus,50,1984,-5 %
+Hejrevænget 16 6893 Hemmet,16,490000.0,24-04-2016,Alm.,8166,4,Sommerhus,60,1972,-7 %
+Rævekrogen 82 6893 Hemmet,82,775000.0,21-04-2016,Alm.,11742,3,Sommerhus,66,1972,-9 %
+Horsfold 121 6893 Hemmet,121,650000.0,15-04-2016,Alm.,7386,6,Sommerhus,88,1990,-18 %
+Træskoen 2 6893 Hemmet,2,450000.0,13-04-2016,Alm.,7627,4,Sommerhus,59,1974,-24 %
+Kosigvænget 34 6893 Hemmet,34,695000.0,12-04-2016,Alm.,10692,3,Sommerhus,65,1978,0 %
+Strandvænget 18 6893 Hemmet,18,800000.0,06-04-2016,Alm.,10810,4,Sommerhus,74,1998,-18 %
+Lukkebjerg 21 6893 Hemmet,21,1100000.0,01-04-2016,Alm.,11458,4,Sommerhus,96,1968,
+Gundesbølvej 12 6893 Hemmet,12,2050000.0,27-03-2016,Alm.,13576,5,Stuehus,151,1958,
+Møllegårdsvej 18 6893 Hemmet,18,460000.0,26-03-2016,Alm.,2857,5,Villa,161,1966,-7 %
+Kirkestrædet 1 6893 Hemmet,1,100000.0,25-03-2016,Alm.,751,5,Villa,133,1926,
+Midtbyvej 4 6893 Hemmet,4,100000.0,21-03-2016,Alm.,769,4,Villa,130,1935,-66 %
+Tranevænget 9 6893 Hemmet,9,310000.0,18-03-2016,Alm.,4626,5,Sommerhus,67,1972,-36 %
+Kirkehøjvej 42F 6893 Hemmet,0,1550000.0,18-03-2016,Alm.,11231,5,Sommerhus,138,2009,-31 %
+Bork Hytteby 92 6893 Hemmet,92,555000.0,17-03-2016,Alm.,11100,3,Sommerhus,50,1995,
+Nordenåvej 8 6893 Hemmet,8,1350000.0,15-03-2016,Alm.,5443,6,Villa,248,1976,-10 %
+Husfold 4 6893 Hemmet,4,1000000.0,06-03-2016,Alm.,12345,4,Sommerhus,81,1996,-7 %
+Sydmarken 29 6893 Hemmet,29,1275000.0,06-03-2016,Alm.,12878,5,Sommerhus,99,2012,-2 %
+Blomstervænget 44 6893 Hemmet,44,1170000.0,04-03-2016,Alm.,10636,5,Sommerhus,110,2006,-6 %
+Lynevej 3 6893 Hemmet,3,184000.0,04-03-2016,Alm.,1614,4,Villa,114,1961,
+Tues Drøwt 11 6893 Hemmet,11,790500.0,03-03-2016,Fam.,9524,4,Sommerhus,83,1994,
+Nordmarken 42 6893 Hemmet,42,1115000.0,26-02-2016,Alm.,12252,4,Sommerhus,91,2007,-3 %
+Tarmvej 198 6893 Hemmet,198,600000.0,24-02-2016,Alm.,2830,10,Engroshandel,212,1905,-14 %
+Strandvænget 25 6893 Hemmet,25,1140000.0,10-02-2016,Alm.,14430,4,Sommerhus,79,1996,-3 %
+Horsfold 20 6893 Hemmet,20,475000.0,05-02-2016,Alm.,7539,4,Sommerhus,63,1986,-4 %
+Fladhøjvej 1 6893 Hemmet,1,550000.0,01-02-2016,Alm.,3254,6,Stuehus,169,1876,
+Vester Fælled 41 6893 Hemmet,41,435000.0,29-01-2016,Andet,4677,5,Sommerhus,93,1977,
+Kosigvænget 24 6893 Hemmet,24,510000.0,26-01-2016,Alm.,9622,3,Sommerhus,53,1978,-3 %
+Svanevænget 23 6893 Hemmet,23,525000.0,15-01-2016,Alm.,5898,4,Sommerhus,89,1975,-12 %
+Vester Fælled 114 6893 Hemmet,114,360000.0,13-01-2016,Alm.,8181,3,Sommerhus,44,1979,-10 %
+Tarmvej 126 6893 Hemmet,126,1100000.0,11-01-2016,Alm.,6707,5,Stuehus,164,2011,
+Horsfold 10 6893 Hemmet,10,650000.0,07-01-2016,Fam.,10833,3,Sommerhus,60,1979,
+Nordmarken 67 6893 Hemmet,67,632500.0,04-01-2016,Andet,6325,4,Sommerhus,100,2006,
+Ranunkelvænget 4 6893 Hemmet,4,960000.0,04-01-2016,Alm.,12631,4,Sommerhus,76,2006,-4 %
+Kosigvænget 53 6893 Hemmet,53,285000.0,29-12-2015,Fam.,4672,4,Sommerhus,61,1974,
+Mågevænget 1 6893 Hemmet,1,500000.0,27-12-2015,Alm.,7575,4,Sommerhus,66,1972,-9 %
+Vagtelvænget 14 6893 Hemmet,14,270000.0,17-12-2015,Fam.,5094,3,Sommerhus,53,1972,
+Vester Fælled 186 6893 Hemmet,186,209603.0,15-12-2015,Andet,4763,3,Sommerhus,44,1979,
+Tarmvej 135 6893 Hemmet,135,116431.0,15-12-2015,Andet,0,4,Villa,208,1971,
+Rylevænget 6 6893 Hemmet,6,780000.0,14-12-2015,Alm.,9069,4,Sommerhus,86,1973,-13 %
+Midtbyvej 35 6893 Hemmet,35,70000.0,14-12-2015,Alm.,736,3,Villa,95,1902,
+Kosigvænget 68 6893 Hemmet,68,850000.0,01-12-2015,Alm.,9139,7,Sommerhus,93,1983,-5 %
+Svanevænget 4 6893 Hemmet,4,815000.0,30-11-2015,Alm.,9476,4,Sommerhus,86,1974,-4 %
+Sydmarken 21 6893 Hemmet,21,100000.0,24-11-2015,Alm.,1075,4,Sommerhus,93,2016,
+Vester Fælled 32 6893 Hemmet,32,558450.0,22-11-2015,Fam.,8864,5,Sommerhus,63,1977,
+Anerbjergevej 7 6893 Hemmet,7,610000.0,13-11-2015,Alm.,3388,4,Villa,180,1973,-4 %
+Bork Hytteby 268 6893 Hemmet,268,485000.0,13-11-2015,Alm.,16166,3,Sommerhus,30,1984,-3 %
+Sønderbyvej 1 6893 Hemmet,1,225000.0,11-11-2015,Alm.,2710,3,Villa,83,1960,-21 %
+Horsfold 190 6893 Hemmet,190,650000.0,11-11-2015,Fam.,10317,4,Sommerhus,63,1977,
+Rylevænget 22 6893 Hemmet,22,525000.0,10-11-2015,Alm.,8333,4,Sommerhus,63,1974,0 %
+Strandvænget 46 6893 Hemmet,46,640168.0,02-11-2015,Fam.,6599,4,Sommerhus,97,2000,
+Vester Fælled 55 6893 Hemmet,55,1095000.0,29-10-2015,Alm.,17380,5,Sommerhus,63,1977,0 %
+Bork Hytteby 198 6893 Hemmet,198,475000.0,23-10-2015,Alm.,9500,3,Sommerhus,50,2002,-20 %
+Strandvænget 36 6893 Hemmet,36,675000.0,21-10-2015,Alm.,7670,4,Sommerhus,88,1997,
+Tranevænget 2 6893 Hemmet,2,651000.0,16-10-2015,Alm.,7843,4,Sommerhus,83,1975,0 %
+Ildervej 32 6893 Hemmet,32,609725.0,14-10-2015,Fam.,6700,4,Sommerhus,91,2006,
+Nordmarken 73 6893 Hemmet,73,750000.0,12-10-2015,Alm.,11538,3,Sommerhus,65,2005,-6 %
+Horsfold 45 6893 Hemmet,45,565000.0,07-10-2015,Alm.,9912,4,Sommerhus,57,1977,-5 %
+Bork Hytteby 183 6893 Hemmet,183,650000.0,05-10-2015,Alm.,13000,3,Sommerhus,50,2002,-4 %
+Horsfold 166 6893 Hemmet,166,915000.0,02-10-2015,Alm.,12364,4,Sommerhus,74,1989,-10 %
+Rævekrogen 20 6893 Hemmet,20,325000.0,17-09-2015,Fam.,3869,5,Sommerhus,84,1976,
+Horsfold 3 6893 Hemmet,3,595000.0,15-09-2015,Alm.,11018,3,Sommerhus,54,1990,0 %
+Bork Hytteby 24B 6893 Hemmet,0,480000.0,15-09-2015,Alm.,9600,3,Sommerhus,50,1988,
+Bork Hytteby 155 6893 Hemmet,155,300000.0,14-09-2015,Alm.,6000,3,Sommerhus,50,1997,
+Husfold 22 6893 Hemmet,22,850000.0,02-09-2015,Alm.,7264,6,Sommerhus,117,1971,-4 %
+Fasanvænget 22 6893 Hemmet,22,940000.0,02-09-2015,Alm.,10804,4,Sommerhus,87,2004,-6 %
+Sutskoen 12 6893 Hemmet,12,350000.0,29-08-2015,Alm.,6862,3,Sommerhus,51,1968,-11 %
+Bork Hytteby 76 6893 Hemmet,76,475000.0,28-08-2015,Alm.,9500,3,Sommerhus,50,1985,-4 %
+Horsfold 165 6893 Hemmet,165,945000.0,28-08-2015,Alm.,10053,4,Sommerhus,94,1977,-5 %
+Tarmvej 212 6893 Hemmet,212,225000.0,27-08-2015,Alm.,1730,4,Villa,130,1926,0 %
+Bork Hytteby 26G 6893 Hemmet,0,940000.0,18-08-2015,Alm.,15666,3,Sommerhus,60,2000,-4 %
+Horsfold 86 6893 Hemmet,86,545000.0,17-08-2015,Alm.,11122,3,Sommerhus,49,1989,-7 %
+Egernvej 26 6893 Hemmet,26,470000.0,14-08-2015,Alm.,7833,3,Sommerhus,60,1987,-5 %
+Tues Drøwt 29 6893 Hemmet,29,660000.0,11-08-2015,Alm.,8571,4,Sommerhus,77,1980,
+Gl. Landevej 20 6893 Hemmet,20,600000.0,31-07-2015,Alm.,3314,7,Villa,181,1913,
+Kirkehøjvej 18 6893 Hemmet,18,1246000.0,30-07-2015,Alm.,8964,6,Stuehus,139,1930,
+Svinkvej 3 6893 Hemmet,3,291000.0,30-07-2015,Alm.,1392,5,Stuehus,209,1900,
+Duevænget 41 6893 Hemmet,41,960000.0,24-07-2015,Alm.,10909,4,Sommerhus,88,2005,-7 %
+Vester Fælled 39 6893 Hemmet,39,600000.0,22-07-2015,Alm.,10000,5,Sommerhus,60,1977,-6 %
+Anerbjergevej 36 6893 Hemmet,36,105000.0,14-07-2015,Alm.,739,5,Villa,142,1800,
+Bork Hytteby 249 6893 Hemmet,249,650000.0,14-07-2015,Alm.,13000,3,Sommerhus,50,1998,-6 %
+Bork Hytteby 213 6893 Hemmet,213,600000.0,10-07-2015,Alm.,12000,3,Sommerhus,50,1998,-7 %
+Vester Fælled 130 6893 Hemmet,130,480000.0,08-07-2015,Alm.,10909,3,Sommerhus,44,1979,-4 %
+Tarmvej 105 6893 Hemmet,105,4053250.0,02-07-2015,Alm.,28951,4,Stuehus,140,1955,
+Galgebjergevej 14 6893 Hemmet,14,4053250.0,02-07-2015,Alm.,13556,9,Stuehus,299,1868,
+Bandsbølvej 35 6893 Hemmet,35,260000.0,01-07-2015,Alm.,2795,3,Villa,93,1860,
+Vester Fælled 100 6893 Hemmet,100,480000.0,01-07-2015,Alm.,10909,3,Sommerhus,44,1979,-3 %
+Husfold 45 6893 Hemmet,45,483300.0,27-06-2015,Fam.,9118,3,Sommerhus,53,1969,
+Esbølvej 1 6893 Hemmet,1,900000.0,27-06-2015,Alm.,3947,10,Villa,228,1960,-10 %
+Horsfold 50 6893 Hemmet,50,780000.0,26-06-2015,Fam.,10833,4,Sommerhus,72,1990,
+Egernvej 10 6893 Hemmet,10,824500.0,25-06-2015,Fam.,10054,4,Sommerhus,82,2006,
+Kirkehøjvej 38A 6893 Hemmet,0,445000.0,21-06-2015,Alm.,8557,3,Sommerhus,52,1980,-8 %
+Mågevænget 21 6893 Hemmet,21,665000.0,19-06-2015,Alm.,9366,4,Sommerhus,71,1973,-1 %
+Gl. Skolevej 7 6893 Hemmet,7,570000.0,17-06-2015,Alm.,4160,5,Villa,137,1994,-24 %
+Horsfold 28 6893 Hemmet,28,718224.0,16-06-2015,Fam.,9576,4,Sommerhus,75,1978,3 %
+Vester Fælled 37 6893 Hemmet,37,268222.0,14-06-2015,Fam.,4470,5,Sommerhus,60,1977,-64 %
+Sydmarken 3 6893 Hemmet,3,552500.0,07-06-2015,Fam.,4491,4,Sommerhus,123,2010,
+Brosbølvej 15 6893 Hemmet,15,1300000.0,04-06-2015,Alm.,3058,8,Stuehus,425,1955,-24 %
+Esbølvej 13 6893 Hemmet,13,140000.0,01-06-2015,Alm.,897,6,Villa,156,1900,
+Tarmvej 194 6893 Hemmet,194,575000.0,01-06-2015,Fam.,4323,3,Stuehus,133,1882,
+Klydevænget 1 6893 Hemmet,1,1050000.0,01-06-2015,Alm.,4268,6,Sommerhus,246,2014,
+Grævlingevej 16 6893 Hemmet,16,405000.0,28-05-2015,Alm.,6428,3,Sommerhus,63,1970,-18 %
+Mosegårdsvej 8 6893 Hemmet,8,1195000.0,28-05-2015,Alm.,7759,5,Stuehus,154,1850,0 %
+Møllegårdsvej 4 6893 Hemmet,4,100000.0,22-05-2015,Auktion,1063,4,Villa,94,1937,
+Gl. Houmvej 4 6893 Hemmet,4,1720000.0,18-05-2015,Alm.,11241,6,Stuehus,153,1800,-8 %
+Grævlingevej 11 6893 Hemmet,11,795000.0,14-05-2015,Alm.,9578,5,Sommerhus,83,1975,
+Bork Hytteby 91 6893 Hemmet,91,510000.0,14-05-2015,Alm.,10200,3,Sommerhus,50,2002,-7 %
+Delta 5 6893 Hemmet,5,435000.0,08-05-2015,Fam.,6904,4,Sommerhus,63,1972,
+Kirkehøjvej 36B 6893 Hemmet,0,470000.0,05-05-2015,Alm.,9215,3,Sommerhus,51,1992,-10 %
+Kirkehøjvej 40K 6893 Hemmet,0,400000.0,05-05-2015,Alm.,7692,3,Sommerhus,52,1980,-19 %
+Kirkehøjvej 36H 6893 Hemmet,0,545000.0,04-05-2015,Alm.,10480,3,Sommerhus,52,1980,
+Bork Hytteby 215 6893 Hemmet,215,575000.0,29-04-2015,Alm.,12234,3,Sommerhus,47,1997,-3 %
+Mosevænget 4 6893 Hemmet,4,505000.0,28-04-2015,Alm.,8416,4,Sommerhus,60,1974,-11 %
+Husfold 57 6893 Hemmet,57,690000.0,27-04-2015,Alm.,10000,2,Sommerhus,69,1966,
+Esbølvej 32 6893 Hemmet,32,120000.0,27-04-2015,Alm.,1153,3,Villa,104,1880,
+Vester Fælled 124 6893 Hemmet,124,400000.0,23-04-2015,Alm.,9090,3,Sommerhus,44,1979,
+Tues Drøwt 5 6893 Hemmet,5,925000.0,20-04-2015,Alm.,11858,4,Sommerhus,78,1994,
+Sivskoen 4 6893 Hemmet,4,750000.0,19-04-2015,Alm.,12500,3,Sommerhus,60,1967,-6 %
+Kirkehøjvej 3 6893 Hemmet,3,1100000.0,10-04-2015,Alm.,7333,6,Stuehus,150,1890,0 %
+Lærkevænget 28 6893 Hemmet,28,340000.0,09-04-2015,Fam.,3736,4,Sommerhus,91,2003,
+Horsfold 1 6893 Hemmet,1,600000.0,23-03-2015,Alm.,9677,4,Sommerhus,62,1980,-8 %
+Horsfold 99 6893 Hemmet,99,550000.0,22-03-2015,Alm.,9166,4,Sommerhus,60,1987,-8 %
+Prammen 8 6893 Hemmet,8,1475000.0,18-03-2015,Alm.,13169,5,Villa,112,1993,-1 %
+Fasanvænget 7 6893 Hemmet,7,1000000.0,17-03-2015,Fam.,9009,4,Sommerhus,111,2007,-41 %
+Rylevænget 34 6893 Hemmet,34,900000.0,17-03-2015,Alm.,9375,3,Sommerhus,96,1975,-10 %
+Nissengårdevej 4 6893 Hemmet,4,50000.0,05-03-2015,Alm.,735,4,Villa,68,1924,
+Vibevænget 24 6893 Hemmet,24,326770.0,04-03-2015,Fam.,4476,4,Sommerhus,73,2000,-64 %
+"Egernvej 19, ST 6893 Hemmet",0,600000.0,02-03-2015,Alm.,8571,3,Sommerhus,70,2010,-14 %
+Mågevænget 9 6893 Hemmet,9,836000.0,28-02-2015,Alm.,10857,4,Sommerhus,77,1973,-4 %
+Esbølvej 7 6893 Hemmet,7,380000.0,23-02-2015,Alm.,2467,6,Villa,154,1966,-15 %
+Husfold 46 6893 Hemmet,46,885500.0,20-02-2015,Fam.,11806,3,Sommerhus,75,1973,
+Husfold 55 6893 Hemmet,55,800000.0,17-02-2015,Alm.,9302,5,Sommerhus,86,1979,-2 %
+Bork Hytteby 8 6893 Hemmet,8,475000.0,17-02-2015,Alm.,9500,2,Sommerhus,50,1997,
+Kosigvænget 28 6893 Hemmet,28,640000.0,15-02-2015,Alm.,9411,4,Sommerhus,68,1974,-8 %
+Hejrevænget 17 6893 Hemmet,17,350000.0,13-02-2015,Alm.,4605,4,Sommerhus,76,1972,-11 %
+Rævekrogen 7 6893 Hemmet,7,585000.0,11-02-2015,Alm.,9140,4,Sommerhus,64,1977,-10 %
+Esbølvej 30 6893 Hemmet,30,120000.0,08-02-2015,Alm.,612,7,Villa,196,1912,
+Nr. Lydumvej 6 6893 Hemmet,6,294525.0,03-02-2015,Andet,1280,9,Stuehus,230,1932,
+Lynevej 1 6893 Hemmet,1,300000.0,25-01-2015,Alm.,2803,2,Villa,107,1900,
+Niels Jensensvej 1 6893 Hemmet,1,31000.0,24-01-2015,Alm.,584,2,Villa,53,1960,
+Nordmarken 77 6893 Hemmet,77,494500.0,20-01-2015,Andet,4155,5,Sommerhus,119,2011,-67 %
+Bork Hytteby 142 6893 Hemmet,142,650000.0,08-01-2015,Alm.,9848,5,Sommerhus,66,1986,-6 %
+Egernvej 12 6893 Hemmet,12,549314.0,07-01-2015,Andet,10364,3,Sommerhus,53,2000,
+Vester Fælled 210 6893 Hemmet,210,450000.0,30-12-2014,Fam.,10227,3,Sommerhus,44,1979,-9 %
+Lærkevænget 18 6893 Hemmet,18,1050000.0,30-12-2014,Alm.,12962,4,Sommerhus,81,2004,0 %
+Kosigvænget 1 6893 Hemmet,1,535500.0,17-12-2014,Fam.,9394,3,Sommerhus,57,1986,
+Bork Hytteby 290 6893 Hemmet,290,350000.0,10-12-2014,Alm.,11666,3,Sommerhus,30,1984,-18 %
+Tarmvej 180 6893 Hemmet,180,130000.0,01-12-2014,Alm.,1150,4,Villa,113,1951,
+Nordmarken 25 6893 Hemmet,25,1450000.0,30-11-2014,Alm.,12288,4,Sommerhus,118,2011,-3 %
+Nordenåvej 4 6893 Hemmet,4,391000.0,23-11-2014,Alm.,1039,8,Stuehus,376,1980,
+Midtbyvej 25 6893 Hemmet,25,325000.0,21-11-2014,Alm.,2708,4,Villa,120,1890,-13 %
+Tarmvej 165 6893 Hemmet,165,220000.0,14-11-2014,Auktion,2222,5,Villa,99,1913,-44 %
+Kirkehøjvej 40C 6893 Hemmet,0,425000.0,31-10-2014,Alm.,8333,3,Sommerhus,51,1980,-11 %
+Esbølvej 23 6893 Hemmet,23,105000.0,22-10-2014,Alm.,1060,4,Villa,99,1946,
+Rylevænget 32 6893 Hemmet,32,130000.0,22-10-2014,Fam.,2708,3,Sommerhus,48,1973,
+Nordmarken 26 6893 Hemmet,26,1100000.0,22-10-2014,Alm.,12643,4,Sommerhus,87,2005,-8 %
+Vestervang 13 6893 Hemmet,13,550000.0,18-10-2014,Alm.,5392,3,Villa,102,1992,-8 %
+Langagervej 3 6893 Hemmet,3,285000.0,17-10-2014,Alm.,1706,7,Stuehus,167,1830,
+Hejrevænget 1 6893 Hemmet,1,800000.0,17-10-2014,Alm.,10526,4,Sommerhus,76,1973,-9 %
+Skuldbølvej 11 6893 Hemmet,11,655000.0,13-10-2014,Fam.,9225,4,Sommerhus,71,1992,
+Gl. Landevej 33 6893 Hemmet,33,275000.0,06-10-2014,Alm.,2165,5,Rækkehus,127,1900,0 %
+Horsfold 137 6893 Hemmet,137,752000.0,03-10-2014,Alm.,10301,4,Sommerhus,73,1977,-2 %
+Tues Drøwt 8 6893 Hemmet,8,544000.0,27-09-2014,Fam.,9714,4,Sommerhus,56,1980,
+Anerbjergevej 36A 6893 Hemmet,0,20000.0,12-09-2014,Auktion,155,3,Villa,129,1890,-90 %
+Kirkehøjvej 36G 6893 Hemmet,0,560000.0,09-09-2014,Alm.,10769,3,Sommerhus,52,1992,-7 %
+Sønderbyvej 13 6893 Hemmet,13,300000.0,05-09-2014,Alm.,2752,4,Villa,109,1890,-20 %
+Bork Hytteby 19 6893 Hemmet,19,685000.0,05-09-2014,Alm.,13700,3,Sommerhus,50,2005,-6 %
+Horsfold 129 6893 Hemmet,129,595000.0,02-09-2014,Alm.,8500,4,Sommerhus,70,1979,-14 %
+Galgebjergevej 4 6893 Hemmet,4,100000.0,01-09-2014,Alm.,1265,3,Villa,79,1914,
+Horsfold 23 6893 Hemmet,23,550000.0,28-08-2014,Alm.,12222,3,Sommerhus,45,1990,-8 %
+Husfold 18 6893 Hemmet,18,765000.0,27-08-2014,Alm.,10337,4,Sommerhus,74,1977,-8 %
+Kirkehøjvej 38R 6893 Hemmet,0,450000.0,26-08-2014,Alm.,8823,3,Sommerhus,51,1980,0 %
+Horsfold 94 6893 Hemmet,94,545000.0,25-08-2014,Alm.,8134,4,Sommerhus,67,1979,-9 %
+Esbølvej 36 6893 Hemmet,36,150000.0,24-08-2014,Alm.,993,6,Villa,151,1961,-48 %
+Anerbjergevej 13 6893 Hemmet,13,225000.0,22-08-2014,Alm.,1844,4,Villa,122,1970,-18 %
+Lundsgårdsvej 5 6893 Hemmet,5,1785000.0,21-08-2014,Fam.,12841,5,Stuehus,139,1958,
+Nordmarken 6 6893 Hemmet,6,975000.0,12-08-2014,Alm.,9750,4,Sommerhus,100,2006,-2 %
+Egernvej 6 6893 Hemmet,6,655000.0,08-08-2014,Alm.,8618,4,Sommerhus,76,1996,-6 %
+Møllegårdsvej 16 6893 Hemmet,16,175000.0,08-08-2014,Alm.,1388,4,Villa,126,1969,0 %
+Horsfold 79 6893 Hemmet,79,875000.0,04-08-2014,Alm.,11986,4,Sommerhus,73,1996,-2 %
+Tues Drøwt 30 6893 Hemmet,30,1080000.0,02-08-2014,Alm.,11134,5,Sommerhus,97,1994,-10 %
+Bryggen 20 6893 Hemmet,20,500000.0,25-07-2014,Alm.,4716,3,Lejlighed,106,1980,-37 %
+Tinghedevej 5 6893 Hemmet,5,1180000.0,24-07-2014,Alm.,6592,7,Stuehus,179,1957,-6 %
+Kirkehøjvej 42B 6893 Hemmet,0,1750000.0,15-07-2014,Alm.,13059,5,Sommerhus,134,2009,
+Delta 4 6893 Hemmet,4,540000.0,09-07-2014,Alm.,8059,5,Sommerhus,67,1973,-9 %
+Vester Vejrupvej 3 6893 Hemmet,3,485000.0,04-07-2014,Andet,3344,4,Villa,145,1911,
+Linningvej 28 6893 Hemmet,28,450000.0,01-07-2014,Alm.,8823,4,Sommerhus,51,1973,
+Blomstervænget 2 6893 Hemmet,2,185000.0,30-06-2014,Alm.,1761,4,Sommerhus,105,2015,-21 %
+Tranevænget 7 6893 Hemmet,7,790000.0,27-06-2014,Alm.,7669,5,Sommerhus,103,1973,-6 %
+Vester Fælled 13 6893 Hemmet,13,620000.0,24-06-2014,Alm.,12156,3,Sommerhus,51,1979,-5 %
+Baunshøjvej 4A 6893 Hemmet,0,370000.0,20-06-2014,Alm.,4157,4,Villa,89,1985,-4 %
+Bork Hytteby 55 6893 Hemmet,55,500000.0,19-06-2014,Alm.,10000,5,Sommerhus,50,2007,-8 %
+Galochen 6 6893 Hemmet,6,985000.0,19-06-2014,Alm.,14275,4,Sommerhus,69,1972,
+Vester Fælled 188 6893 Hemmet,188,238000.0,18-06-2014,Fam.,5409,3,Sommerhus,44,1979,
+Nissengårdevej 6 6893 Hemmet,6,125000.0,16-06-2014,Alm.,1488,3,Villa,84,1910,-29 %
+Fasanvænget 41 6893 Hemmet,41,940000.0,14-06-2014,Alm.,13428,4,Sommerhus,70,2004,-10 %
+Vester Fælled 78 6893 Hemmet,78,460000.0,10-06-2014,Alm.,10222,3,Sommerhus,45,1979,-7 %
+Horsfold 152 6893 Hemmet,152,998000.0,03-06-2014,Alm.,11880,5,Sommerhus,84,1978,-6 %
+Gundesbølvej 10 6893 Hemmet,10,1800000.0,02-06-2014,Alm.,8490,9,Stuehus,212,1900,
+Nordmarken 43 6893 Hemmet,43,1365000.0,31-05-2014,Alm.,11375,5,Sommerhus,120,2006,-2 %
+Tarmvej 150 6893 Hemmet,150,110000.0,30-05-2014,Alm.,1222,3,Villa,90,1955,-21 %
+Mosevænget 28 6893 Hemmet,28,500000.0,30-05-2014,Alm.,8620,4,Sommerhus,58,1974,-9 %
+Sydmarken 23 6893 Hemmet,23,1050000.0,26-05-2014,Alm.,11797,4,Sommerhus,89,2008,-12 %
+Bork Hytteby 121 6893 Hemmet,121,675000.0,18-05-2014,Alm.,13500,3,Sommerhus,50,2001,-3 %
+Lappedykkervænget 10 6893 Hemmet,10,725000.0,14-05-2014,Alm.,11328,4,Sommerhus,64,1972,-6 %
+Anerbjergevej 28 6893 Hemmet,28,160000.0,09-05-2014,Auktion,1259,4,Villa,127,1972,
+Vester Fælled 158 6893 Hemmet,158,485000.0,08-05-2014,Alm.,10777,3,Sommerhus,45,1979,-2 %
+Lærkevænget 22 6893 Hemmet,22,1100000.0,06-05-2014,Alm.,12222,4,Sommerhus,90,2002,-4 %
+Mosegårdsvej 2 6893 Hemmet,2,180000.0,06-05-2014,Alm.,1875,3,Villa,96,1865,-8 %
+Bork Hytteby 102 6893 Hemmet,102,440000.0,03-05-2014,Alm.,11891,2,Sommerhus,37,1985,-7 %
+Bowleren 1 6893 Hemmet,1,575200.0,01-05-2014,Alm.,5991,6,Sommerhus,96,1971,
+Bryggen 3 6893 Hemmet,3,1700000.0,19-04-2014,Andet,15740,7,Engroshandel,108,2001,
+Bellisvænget 9 6893 Hemmet,9,100000.0,11-04-2014,Alm.,833,6,Sommerhus,120,2015,
+Tues Drøwt 20 6893 Hemmet,20,662500.0,04-04-2014,Alm.,9201,4,Sommerhus,72,1979,-2 %
+Bork Hytteby 248 6893 Hemmet,248,575000.0,01-04-2014,Andet,15131,1,Sommerhus,38,1991,
+Bork Hytteby 200 6893 Hemmet,200,347500.0,17-03-2014,Fam.,6950,3,Sommerhus,50,1995,
+Mågevænget 31 6893 Hemmet,31,835000.0,13-03-2014,Alm.,12279,3,Sommerhus,68,1974,-7 %
+Bork Hytteby 136 6893 Hemmet,136,323000.0,11-03-2014,Fam.,7878,3,Sommerhus,41,1994,
+Vestergade 3 6893 Hemmet,3,530000.0,06-03-2014,Alm.,4140,4,Villa,128,1913,
+Gl. Skolevej 3 6893 Hemmet,3,130000.0,06-03-2014,Alm.,1150,5,Villa,113,1935,-56 %
+Esbølvej 8 6893 Hemmet,8,270000.0,25-02-2014,Alm.,1970,5,Villa,137,1933,-8 %
+Vibevænget 23 6893 Hemmet,23,870000.0,17-02-2014,Alm.,12794,3,Sommerhus,68,2003,-3 %
+Midtbyvej 17 6893 Hemmet,17,310000.0,06-02-2014,Alm.,2561,5,Villa,121,1941,
+Bork Hytteby 37 6893 Hemmet,37,650000.0,29-01-2014,Alm.,13000,3,Sommerhus,50,1997,-6 %
+Hejrevænget 36 6893 Hemmet,36,625000.0,27-01-2014,Fam.,11792,3,Sommerhus,53,1972,
+Houmvej 8 6893 Hemmet,8,3400000.0,23-01-2014,Alm.,14166,7,Stuehus,240,1908,
+Horsfold 75 6893 Hemmet,75,415000.0,09-01-2014,Fam.,5763,4,Sommerhus,72,1977,
+Rylevænget 1 6893 Hemmet,1,325000.0,01-01-2014,Fam.,5508,4,Sommerhus,59,1973,
+Bork Hytteby 67 6893 Hemmet,67,578000.0,22-12-2013,Fam.,11560,3,Sommerhus,50,2004,
+Bork Hytteby 64 6893 Hemmet,64,500000.0,21-12-2013,Alm.,10000,3,Sommerhus,50,1995,-16 %
+Grævlingevej 20 6893 Hemmet,20,664600.0,17-12-2013,Fam.,10719,2,Sommerhus,62,1971,
+Beta 9 6893 Hemmet,9,800000.0,17-12-2013,Alm.,11594,4,Sommerhus,69,1976,
+Ildervej 10 6893 Hemmet,10,1195000.0,17-12-2013,Alm.,12578,4,Sommerhus,95,1985,0 %
+Lærkevænget 6 6893 Hemmet,6,750000.0,06-12-2013,Auktion,8241,4,Sommerhus,91,2001,
+Bork Hytteby 130 6893 Hemmet,130,500000.0,29-11-2013,Fam.,12195,3,Sommerhus,41,1989,
+Houmvej 2 6893 Hemmet,2,1800000.0,27-11-2013,Fam.,16513,4,Stuehus,109,1924,
+Esbølvej 43 6893 Hemmet,43,300000.0,22-11-2013,Alm.,1986,6,Stuehus,151,1933,-13 %
+Fasanvænget 8 6893 Hemmet,8,1125000.0,14-11-2013,Alm.,12228,4,Sommerhus,92,2005,-4 %
+Hejrevænget 12 6893 Hemmet,12,800000.0,06-11-2013,Alm.,8602,4,Sommerhus,93,1993,-11 %
+Vester Fælled 70 6893 Hemmet,70,570000.0,01-11-2013,Alm.,12954,3,Sommerhus,44,1979,-4 %
+Bork Hytteby 182 6893 Hemmet,182,467500.0,21-10-2013,Fam.,9350,4,Sommerhus,50,1984,
+Husfold 3 6893 Hemmet,3,365000.0,14-10-2013,Fam.,9605,2,Sommerhus,38,1969,
+Kosigvænget 98 6893 Hemmet,98,816000.0,08-10-2013,Fam.,9379,4,Sommerhus,87,1999,
+Bandsbølvej 43 6893 Hemmet,43,404000.0,03-10-2013,Alm.,5855,3,Villa,69,1800,
+Prammen 2 6893 Hemmet,2,1000000.0,18-09-2013,Alm.,8264,6,Villa,121,1991,
+Vester Fælled 86 6893 Hemmet,86,495000.0,29-08-2013,Alm.,11250,3,Sommerhus,44,1979,0 %
+Oblingvej 1 6893 Hemmet,1,305000.0,28-08-2013,Alm.,4552,3,Villa,67,1910,
+Rævekrogen 46 6893 Hemmet,46,775000.0,27-08-2013,Alm.,10472,4,Sommerhus,74,1969,-13 %
+Ranunkelvænget 8 6893 Hemmet,8,1230000.0,27-08-2013,Alm.,13516,4,Sommerhus,91,2007,-2 %
+Bork Hytteby 237 6893 Hemmet,237,700000.0,21-08-2013,Alm.,16666,3,Sommerhus,42,2012,-3 %
+Rævekrogen 26 6893 Hemmet,26,550000.0,19-08-2013,Alm.,12790,3,Sommerhus,43,1967,-8 %
+Husfold 75 6893 Hemmet,75,800000.0,15-08-2013,Alm.,0,4,Sommerhus,81,1972,
+Vester Fælled 53 6893 Hemmet,53,950000.0,14-08-2013,Alm.,12837,5,Sommerhus,74,1977,-5 %
+Horsfold 138 6893 Hemmet,138,485150.0,13-08-2013,Alm.,7134,6,Sommerhus,68,1979,-12 %
+Tranevænget 10 6893 Hemmet,10,350000.0,09-08-2013,Auktion,5833,4,Sommerhus,60,1972,
+Horsfold 40 6893 Hemmet,40,535000.0,06-08-2013,Alm.,6149,5,Sommerhus,87,1981,-18 %
+Vibevænget 1 6893 Hemmet,1,1102000.0,30-07-2013,Alm.,10699,5,Sommerhus,103,1999,-12 %
+"Nr. Lydumvej 2, 1 6893 Hemmet",1,570570.0,30-07-2013,Alm.,8151,3,Lejlighed,70,1889,
+Mosevænget 31 6893 Hemmet,31,825000.0,26-07-2013,Alm.,9705,6,Sommerhus,85,1973,-8 %
+Lærkevænget 16 6893 Hemmet,16,903000.0,25-07-2013,Alm.,11012,4,Sommerhus,82,2001,-4 %
+Lukkebjerg 7B 6893 Hemmet,0,1687500.0,23-07-2013,Alm.,14062,5,Sommerhus,120,2007,-6 %
+Horsfold 179 6893 Hemmet,179,630000.0,15-07-2013,Alm.,11454,4,Sommerhus,55,1977,-7 %
+Horsfold 141 6893 Hemmet,141,762500.0,09-07-2013,Alm.,9775,4,Sommerhus,78,1978,
+Bork Hytteby 284 6893 Hemmet,284,300000.0,08-07-2013,Alm.,6000,4,Sommerhus,50,1983,-39 %
+Horsfold 174 6893 Hemmet,174,950000.0,05-07-2013,Alm.,12179,5,Sommerhus,78,1980,-5 %
+Mosevænget 8 6893 Hemmet,8,325000.0,01-07-2013,Fam.,5000,4,Sommerhus,65,1977,
+Kosigvænget 63 6893 Hemmet,63,780000.0,26-06-2013,Alm.,12786,4,Sommerhus,61,1973,-2 %
+Stråhatten 6 6893 Hemmet,6,530000.0,21-06-2013,Alm.,11521,3,Sommerhus,46,1969,-11 %
+Horsfold 159 6893 Hemmet,159,850000.0,20-06-2013,Alm.,10625,4,Sommerhus,80,1977,-11 %
+Bork Hytteby 1 6893 Hemmet,1,422500.0,18-06-2013,Alm.,8450,4,Sommerhus,50,1996,-8 %
+Vagtelvænget 10 6893 Hemmet,10,630000.0,18-06-2013,Alm.,11666,3,Sommerhus,54,1972,-8 %
+Galochen 7 6893 Hemmet,7,456000.0,17-06-2013,Alm.,10363,4,Sommerhus,44,1969,-8 %
+Vester Fælled 204 6893 Hemmet,204,479000.0,13-06-2013,Alm.,10644,3,Sommerhus,45,1979,-4 %
+Esbølvej 21 6893 Hemmet,21,446002.0,07-05-2013,Alm.,4795,3,Villa,93,1924,
+Tues Drøwt 70 6893 Hemmet,70,1070000.0,07-05-2013,Alm.,12298,4,Sommerhus,87,1979,
+Vester Fælled 154 6893 Hemmet,154,490000.0,19-04-2013,Alm.,11136,3,Sommerhus,44,1979,-2 %
+Enggårdsvej 7 6893 Hemmet,7,350000.0,16-04-2013,Alm.,2134,4,Stuehus,164,1961,
+Gl. Landevej 37 6893 Hemmet,37,1250000.0,06-04-2013,Alm.,7575,6,Villa,165,1950,
+Rævekrogen 27 6893 Hemmet,27,40000.0,26-03-2013,Fam.,360,7,Sommerhus,111,1968,
+Horsfold 25 6893 Hemmet,25,710000.0,15-03-2013,Alm.,10142,4,Sommerhus,70,1979,-11 %
+Horsfold 70 6893 Hemmet,70,890000.0,07-03-2013,Alm.,12361,3,Sommerhus,72,1992,-6 %
+Kirkehøjvej 20 6893 Hemmet,20,425000.0,28-02-2013,Fam.,4941,3,Villa,86,1955,
+Vester Fælled 72 6893 Hemmet,72,400000.0,28-02-2013,Alm.,9090,3,Sommerhus,44,1979,-19 %
+Horsfold 30 6893 Hemmet,30,900000.0,08-02-2013,Alm.,10344,5,Sommerhus,87,1995,0 %
+Egernvej 3 6893 Hemmet,3,935000.0,06-02-2013,Alm.,11402,5,Sommerhus,82,1993,-4 %
+Mågevænget 18 6893 Hemmet,18,392300.0,05-02-2013,Fam.,11208,2,Sommerhus,35,1972,
+Kosigvænget 56 6893 Hemmet,56,150000.0,01-02-2013,Alm.,3750,2,Sommerhus,40,1982,
+Baunshøjvej 10 6893 Hemmet,10,700000.0,28-01-2013,Alm.,4320,6,Villa,162,1977,
+Delta 1 6893 Hemmet,1,795000.0,23-01-2013,Alm.,15900,3,Sommerhus,50,1973,0 %
+Esbølvej 42 6893 Hemmet,42,310000.0,21-12-2012,Alm.,2460,6,Villa,126,1908,-9 %
+Gamma 2 6893 Hemmet,2,612000.0,16-12-2012,Fam.,9415,4,Sommerhus,65,1972,
+Bork Hytteby 132 6893 Hemmet,132,510000.0,11-12-2012,Fam.,10200,2,Sommerhus,50,1993,
+Tranevænget 4 6893 Hemmet,4,700000.0,07-12-2012,Alm.,7692,6,Sommerhus,91,1978,-7 %
+Tarmvej 124 6893 Hemmet,124,1275000.0,06-12-2012,Alm.,8916,5,Villa,143,1930,
+Linningvej 24 6893 Hemmet,24,525000.0,04-12-2012,Alm.,6645,4,Sommerhus,79,1970,
+Duevænget 36 6893 Hemmet,36,1300000.0,28-11-2012,Alm.,13541,4,Sommerhus,96,2006,
+Duevænget 1 6893 Hemmet,1,1095000.0,19-11-2012,Alm.,12166,4,Sommerhus,90,2005,0 %
+Horsfold 173 6893 Hemmet,173,259000.0,16-11-2012,Fam.,4245,4,Sommerhus,61,1977,
+Nordmarken 1 6893 Hemmet,1,546500.0,15-11-2012,Fam.,5576,4,Sommerhus,98,2006,
+Sydmarken 11 6893 Hemmet,11,490000.0,07-11-2012,Alm.,4900,4,Sommerhus,100,2012,
+Rævekrogen 80 6893 Hemmet,80,450000.0,02-11-2012,Alm.,6164,5,Sommerhus,73,1970,-9 %
+Hærmandsgårdevej 6 6893 Hemmet,6,249000.0,29-10-2012,Alm.,1158,5,Stuehus,215,1850,-79 %
+Bork Hytteby 270 6893 Hemmet,270,480000.0,26-10-2012,Auktion,9795,4,Sommerhus,49,1984,
+Vester Fælled 42 6893 Hemmet,42,900000.0,22-10-2012,Alm.,9890,4,Sommerhus,91,1977,-10 %
+Fasanvænget 23 6893 Hemmet,23,1030000.0,18-10-2012,Alm.,12117,4,Sommerhus,85,2004,-4 %
+Mågevænget 2 6893 Hemmet,2,725000.0,17-10-2012,Alm.,7397,4,Sommerhus,98,1989,-5 %
+Midtbyvej 45 6893 Hemmet,45,325000.0,08-10-2012,Alm.,2480,2,Villa,131,1925,0 %
+Sandalen 5 6893 Hemmet,5,470000.0,25-09-2012,Andet,7580,3,Sommerhus,62,1970,
+Enggårdsvej 1 6893 Hemmet,1,400000.0,24-09-2012,Alm.,1754,5,Stuehus,228,1923,
+Horsfold 26 6893 Hemmet,26,900000.0,24-09-2012,Alm.,9183,5,Sommerhus,98,2001,
+Sandalen 2 6893 Hemmet,2,900000.0,21-09-2012,Alm.,15517,3,Villa,58,1971,-10 %
+Tarmvej 148 6893 Hemmet,148,200000.0,15-09-2012,Alm.,2150,4,Villa,93,1955,
+Toftumvej 1 6893 Hemmet,1,1200000.0,10-09-2012,Alm.,5529,4,Villa,217,1934,
+Nordmarken 34 6893 Hemmet,34,1325000.0,10-09-2012,Alm.,11422,5,Sommerhus,116,2005,-4 %
+Bork Hytteby 107 6893 Hemmet,107,750000.0,06-09-2012,Alm.,15000,3,Sommerhus,50,1999,-6 %
+Horsfold 47 6893 Hemmet,47,775000.0,05-09-2012,Alm.,11071,4,Sommerhus,70,1978,-3 %
+Tues Drøwt 23 6893 Hemmet,23,301750.0,31-08-2012,Alm.,4190,4,Sommerhus,72,1980,
+Rævekrogen 64 6893 Hemmet,64,725000.0,24-08-2012,Alm.,14795,3,Sommerhus,49,1973,-9 %
+Kirkehøjvej 36C 6893 Hemmet,0,620000.0,22-08-2012,Alm.,12156,3,Sommerhus,51,1992,-11 %
+Anerbjergevej 44 6893 Hemmet,44,1560000.0,21-08-2012,Alm.,9397,6,Stuehus,166,1929,
+Hejrevænget 15 6893 Hemmet,15,325000.0,21-08-2012,Fam.,6018,3,Sommerhus,54,1972,
+Vagtelvænget 18 6893 Hemmet,18,467500.0,21-08-2012,Fam.,9739,3,Sommerhus,48,1972,
+Bork Hytteby 278 6893 Hemmet,278,835000.0,20-08-2012,Alm.,16700,3,Sommerhus,50,1984,
+Vestergårdsvej 4 6893 Hemmet,4,340000.0,16-08-2012,Fam.,1717,6,Villa,198,1917,
+Vester Vejrupvej 2 6893 Hemmet,2,1325549.0,09-08-2012,Fam.,6903,7,Stuehus,192,1957,
+Lukkebjerg 9 6893 Hemmet,9,1145000.0,08-08-2012,Alm.,13313,4,Sommerhus,86,1969,-4 %
+Sydmarken 8 6893 Hemmet,8,1295000.0,02-08-2012,Alm.,13776,4,Sommerhus,94,2009,-7 %
+Tarmvej 200 6893 Hemmet,200,615000.0,02-08-2012,Alm.,4842,4,Villa,127,1949,-5 %
+Bork Hytteby 184 6893 Hemmet,184,720000.0,28-07-2012,Alm.,14400,4,Sommerhus,50,1984,-4 %
+Bork Hytteby 233 6893 Hemmet,233,900000.0,25-07-2012,Alm.,18000,3,Sommerhus,50,2004,
+Mosevænget 22 6893 Hemmet,22,600000.0,19-07-2012,Alm.,12000,3,Sommerhus,50,1978,-7 %
+Bork Hytteby 167 6893 Hemmet,167,860000.0,16-07-2012,Alm.,17200,3,Sommerhus,50,2003,-2 %
+Kosigvænget 15 6893 Hemmet,15,575000.0,13-07-2012,Alm.,6686,3,Sommerhus,86,1974,0 %
+Sutskoen 8 6893 Hemmet,8,600000.0,03-07-2012,Alm.,10344,3,Sommerhus,58,1973,-14 %
+Østerhedevej 16 6893 Hemmet,16,2300000.0,03-07-2012,Alm.,9200,8,Villa,250,1956,
+Blomstervænget 6 6893 Hemmet,6,150000.0,03-07-2012,Alm.,1250,4,Sommerhus,120,2016,-40 %
+Kosigvænget 16 6893 Hemmet,16,850000.0,02-07-2012,Alm.,10119,4,Sommerhus,84,2006,
+Sønderbyvej 23 6893 Hemmet,23,3640000.0,29-06-2012,Alm.,18291,6,Stuehus,199,1878,
+Tues Drøwt 50 6893 Hemmet,50,800000.0,29-06-2012,Alm.,0,4,Sommerhus,67,1978,-8 %
+Husfold 39 6893 Hemmet,39,890000.0,27-06-2012,Alm.,14833,3,Sommerhus,60,1973,-11 %
+Mågevænget 17 6893 Hemmet,17,550000.0,22-06-2012,Alm.,9482,3,Sommerhus,58,1973,-15 %
+Gl. Landevej 48 6893 Hemmet,48,390000.0,21-06-2012,Alm.,3046,5,Villa,128,1900,
+Østerbækvej 5 6893 Hemmet,5,845000.0,20-06-2012,Alm.,6123,6,Villa,138,1958,-6 %
+Damgårdsvej 10 6893 Hemmet,10,940000.0,19-06-2012,Alm.,6911,3,Villa,136,1977,
+Duevænget 2 6893 Hemmet,2,1135000.0,17-06-2012,Alm.,13045,4,Sommerhus,87,2004,-5 %
+Vester Fælled 68 6893 Hemmet,68,480000.0,15-06-2012,Alm.,10909,3,Sommerhus,44,1979,-3 %
+Kirkestrædet 4 6893 Hemmet,4,1395000.0,14-06-2012,Alm.,9058,5,Villa,154,1913,
+Vibevænget 13 6893 Hemmet,13,995000.0,14-06-2012,Alm.,11569,4,Sommerhus,86,2000,0 %
+Bork Hytteby 38 6893 Hemmet,38,770000.0,09-06-2012,Alm.,15400,3,Sommerhus,50,1996,-4 %
+Bork Hytteby 224 6893 Hemmet,224,675000.0,02-06-2012,Alm.,13500,4,Sommerhus,50,1984,-3 %
+Bork Hytteby 26F 6893 Hemmet,0,1000000.0,01-06-2012,Fam.,16666,2,Sommerhus,60,2005,
+Bork Hytteby 197 6893 Hemmet,197,650000.0,29-05-2012,Alm.,15476,3,Sommerhus,42,2011,-5 %
+Fyrrevej 5 6893 Hemmet,5,715000.0,25-05-2012,Fam.,5674,5,Villa,126,1977,
+Blomstervænget 50 6893 Hemmet,50,1055000.0,21-05-2012,Alm.,13525,4,Sommerhus,78,2009,-1 %
+Anerbjergevej 24 6893 Hemmet,24,500000.0,25-04-2012,Alm.,2941,5,Villa,170,1939,
+Svanevænget 40 6893 Hemmet,40,640000.0,25-04-2012,Fam.,6808,6,Sommerhus,94,1972,
+Rævekrogen 50 6893 Hemmet,50,1295000.0,23-04-2012,Alm.,9810,5,Sommerhus,132,1975,0 %
+Horsfold 41 6893 Hemmet,41,1100000.0,20-04-2012,Alm.,13750,4,Sommerhus,80,2005,-4 %
+Spurvevænget 7 6893 Hemmet,7,795000.0,20-04-2012,Alm.,14722,3,Sommerhus,54,1998,-8 %
+Horsfold 42 6893 Hemmet,42,875000.0,04-04-2012,Alm.,14583,4,Sommerhus,60,1986,-2 %
+Rævekrogen 38 6893 Hemmet,38,625000.0,02-04-2012,Alm.,10964,3,Sommerhus,57,1969,-10 %
+Fasanvænget 10 6893 Hemmet,10,1215000.0,27-03-2012,Alm.,13965,4,Sommerhus,87,2004,-5 %
+Fjordnær Hovedvej 4 6893 Hemmet,4,585000.0,26-03-2012,Alm.,9750,4,Sommerhus,60,1972,
+Vester Fælled 128 6893 Hemmet,128,475000.0,20-03-2012,Alm.,10795,3,Sommerhus,44,1979,-21 %
+Oblingvej 2 6893 Hemmet,2,1150000.0,10-03-2012,Alm.,7718,4,Villa,149,1882,-11 %
+Bork Hytteby 59 6893 Hemmet,59,820000.0,05-03-2012,Alm.,16400,3,Sommerhus,50,2005,-6 %
+Anerbjergevej 25 6893 Hemmet,25,550000.0,10-02-2012,Auktion,2722,5,Villa,202,1889,
+Svanevænget 21 6893 Hemmet,21,700000.0,10-02-2012,Alm.,9459,5,Sommerhus,74,1972,-12 %
+Grævlingevej 4 6893 Hemmet,4,695000.0,07-02-2012,Alm.,8687,4,Villa,80,1976,-5 %
+Bork Hytteby 148 6893 Hemmet,148,790000.0,05-02-2012,Alm.,15800,3,Sommerhus,50,1998,-4 %
+Strandvænget 50 6893 Hemmet,50,1320000.0,02-02-2012,Alm.,13200,4,Sommerhus,100,1996,-4 %
+Duevænget 29 6893 Hemmet,29,246200.0,30-01-2012,Alm.,2218,5,Sommerhus,111,2012,
+Horsfold 7 6893 Hemmet,7,810000.0,23-01-2012,Alm.,10125,4,Sommerhus,80,1980,-7 %
+Rævekrogen 54 6893 Hemmet,54,630000.0,22-01-2012,Alm.,12352,3,Sommerhus,51,1970,
+Nordmarken 11 6893 Hemmet,11,1415000.0,20-01-2012,Alm.,11598,5,Sommerhus,122,2006,-11 %
+Rævekrogen 14 6893 Hemmet,14,905000.0,19-01-2012,Alm.,11907,5,Sommerhus,76,1980,-1 %
+Oblingvej 4 6893 Hemmet,4,290000.0,13-01-2012,Auktion,1534,8,Villa,189,1929,
+Bryggen 5 6893 Hemmet,5,1475000.0,09-01-2012,Fam.,13657,3,Lejlighed,108,2009,
+Svinkvej 1 6893 Hemmet,1,204665.0,04-01-2012,Alm.,1827,6,Stuehus,112,1924,
+Tarmvej 234A 6893 Hemmet,0,995000.0,02-01-2012,Alm.,9045,3,Villa,110,1890,
+Tues Drøwt 34 6893 Hemmet,34,510000.0,30-12-2011,Fam.,5543,4,Sommerhus,92,1981,
+Stråhatten 4 6893 Hemmet,4,800000.0,22-12-2011,Alm.,12698,4,Sommerhus,63,1972,-11 %
+Bork Hytteby 294 6893 Hemmet,294,560000.0,19-12-2011,Alm.,11200,4,Sommerhus,50,1986,-12 %
+Mosevænget 17 6893 Hemmet,17,700000.0,19-12-2011,Alm.,9210,3,Sommerhus,76,1975,-12 %
+Midtbyvej 13 6893 Hemmet,13,535000.0,19-12-2011,Alm.,0,4,Villa,110,1911,
+Bandsbølvej 2 6893 Hemmet,2,400000.0,18-12-2011,Fam.,2105,5,Villa,190,1923,
+"Bryggen 7, 1 6893 Hemmet",1,1500000.0,18-12-2011,Alm.,30000,3,Rækkehus,50,1980,
+Horsfold 95 6893 Hemmet,95,812000.0,07-12-2011,Alm.,12303,3,Sommerhus,66,1977,-4 %
+Brosbølvej 6 6893 Hemmet,6,680000.0,02-12-2011,Alm.,2775,11,Villa,245,1957,
+Bork Hytteby 217 6893 Hemmet,217,810000.0,20-11-2011,Alm.,16530,3,Sommerhus,49,1999,-4 %
+Tranevænget 22 6893 Hemmet,22,400000.0,17-11-2011,Alm.,5714,3,Sommerhus,70,1973,
+Bork Hytteby 210 6893 Hemmet,210,825000.0,16-11-2011,Alm.,13306,4,Sommerhus,62,1984,-2 %
+Anerbjergevej 4 6893 Hemmet,4,475000.0,14-11-2011,Fam.,4398,4,Villa,108,1933,
+Tarmvej 153 6893 Hemmet,153,2058000.0,14-11-2011,Alm.,9800,5,Villa,210,2009,15 %
+Bork Hytteby 11 6893 Hemmet,11,515000.0,11-11-2011,Alm.,10300,3,Sommerhus,50,1996,-14 %
+Sydmarken 41 6893 Hemmet,41,750000.0,04-11-2011,Auktion,5769,6,Sommerhus,130,2011,
+Østerbækvej 3 6893 Hemmet,3,1899250.0,03-11-2011,Alm.,13281,7,Stuehus,143,1957,-17 %
+Sydmarken 47 6893 Hemmet,47,232500.0,23-10-2011,Alm.,2612,4,Sommerhus,89,2013,-15 %
+Rævekrogen 2 6893 Hemmet,2,185112.0,21-10-2011,Fam.,3305,3,Sommerhus,56,1971,
+Kornblomstvænget 32 6893 Hemmet,32,280000.0,21-10-2011,Alm.,2592,5,Sommerhus,108,2014,-3 %
+Kornblomstvænget 16 6893 Hemmet,16,271220.0,19-10-2011,Alm.,2916,4,Sommerhus,93,2012,
+Esbølvej 50 6893 Hemmet,50,4590000.0,13-10-2011,Alm.,26686,6,Stuehus,172,1964,
+Kornblomstvænget 26 6893 Hemmet,26,941204.0,07-10-2011,Auktion,8044,4,Sommerhus,117,2007,
+Strandvænget 44 6893 Hemmet,44,1100000.0,30-09-2011,Alm.,14285,4,Sommerhus,77,2000,-4 %
+Anerbjergevej 22 6893 Hemmet,22,158500.0,26-09-2011,Alm.,1093,5,Villa,145,1865,
+Kornblomstvænget 12 6893 Hemmet,12,1295000.0,25-09-2011,Alm.,14230,4,Sommerhus,91,2007,-4 %
+Tarmvej 141 6893 Hemmet,141,750000.0,23-09-2011,Alm.,4032,6,Stuehus,186,1917,-6 %
+Støvlen 3 6893 Hemmet,3,625000.0,23-09-2011,Alm.,9765,3,Sommerhus,64,1971,0 %
+Bork Hytteby 17 6893 Hemmet,17,675000.0,21-09-2011,Alm.,13500,3,Sommerhus,50,1996,
+Bork Hytteby 40 6893 Hemmet,40,813000.0,20-09-2011,Alm.,16591,3,Sommerhus,49,1999,-6 %
+Brosbølvej 8 6893 Hemmet,8,698840.0,20-09-2011,Alm.,5027,5,Stuehus,139,1956,
+Vester Fælled 49 6893 Hemmet,49,433793.0,18-09-2011,Andet,0,5,Sommerhus,75,1977,
+"Vibevænget 3, ST 6893 Hemmet",0,240000.0,16-09-2011,Alm.,2376,4,Sommerhus,101,2014,
+Bork Hytteby 218 6893 Hemmet,218,734000.0,15-09-2011,Alm.,10637,5,Sommerhus,69,1989,
+Nordmarken 83 6893 Hemmet,83,1200000.0,14-09-2011,Alm.,16000,3,Sommerhus,75,2011,
+Egernvej 11 6893 Hemmet,11,100000.0,14-09-2011,Alm.,1204,3,Sommerhus,83,2016,
+Horsfold 118 6893 Hemmet,118,1100000.0,12-09-2011,Alm.,13414,5,Sommerhus,82,1984,
+Bork Hytteby 118 6893 Hemmet,118,750000.0,12-09-2011,Alm.,11904,6,Sommerhus,63,1986,-12 %
+Mågevænget 29 6893 Hemmet,29,450000.0,09-09-2011,Alm.,6250,3,Sommerhus,72,1972,
+Kosigvænget 73 6893 Hemmet,73,257013.0,07-09-2011,Fam.,4283,4,Sommerhus,60,1978,-71 %
+Vibevænget 9 6893 Hemmet,9,1010000.0,02-09-2011,Alm.,13289,4,Sommerhus,76,2000,-4 %
+Svanevænget 7 6893 Hemmet,7,660000.0,31-08-2011,Alm.,10153,4,Sommerhus,65,1973,-5 %
+Jollen 4 6893 Hemmet,4,650000.0,30-08-2011,Alm.,6565,4,Villa,99,1994,
+Horsfold 126 6893 Hemmet,126,1100000.0,30-08-2011,Alm.,16666,3,Sommerhus,66,2005,-2 %
+Bork Hytteby 156 6893 Hemmet,156,670000.0,25-08-2011,Alm.,13400,4,Sommerhus,50,1984,-8 %
+Bork Hytteby 2A 6893 Hemmet,0,595000.0,22-08-2011,Alm.,11900,2,Sommerhus,50,1999,-8 %
+Husfold 16 6893 Hemmet,16,500000.0,19-08-2011,Alm.,0,3,Sommerhus,64,1972,-5 %
+Lærkevænget 10 6893 Hemmet,10,950000.0,16-08-2011,Alm.,11046,4,Sommerhus,86,2004,-5 %
+Tarmvej 160 6893 Hemmet,160,548158.0,21-07-2011,Alm.,4152,5,Villa,132,1949,
+Kirkehøjvej 42E 6893 Hemmet,0,2600000.0,16-07-2011,Alm.,18840,5,Sommerhus,138,2009,0 %
+Lappedykkervænget 16 6893 Hemmet,16,685000.0,15-07-2011,Alm.,11416,4,Sommerhus,60,1972,-9 %
+Gl. Skuldbølvej 6 6893 Hemmet,6,5250000.0,11-07-2011,Alm.,37769,5,Stuehus,139,1915,
+Bork Hytteby 304 6893 Hemmet,304,562500.0,11-07-2011,Alm.,11968,5,Sommerhus,47,1983,-5 %
+Gl. Landevej 47 6893 Hemmet,47,525000.0,08-07-2011,Alm.,2692,5,Villa,195,1937,0 %
+Bjerregårdsvej 5 6893 Hemmet,5,18161000.0,07-07-2011,Alm.,134525,5,Stuehus,135,1955,
+Bjerregårdsvej 6 6893 Hemmet,6,6066000.0,07-07-2011,Alm.,54160,5,Stuehus,112,1955,
+Anerbjergevej 40 6893 Hemmet,40,4648241.0,01-07-2011,Fam.,17946,8,Stuehus,259,1922,
+Grævlingevej 2 6893 Hemmet,2,700000.0,29-06-2011,Alm.,10000,4,Sommerhus,70,1971,-10 %
+Bækager 19 6893 Hemmet,19,650000.0,23-06-2011,Alm.,3551,5,Villa,183,2000,
+Kirkehøjvej 38V 6893 Hemmet,0,635000.0,20-06-2011,Alm.,12450,3,Sommerhus,51,1980,-2 %
+Tarmvej 101 6893 Hemmet,101,1800000.0,14-06-2011,Alm.,3921,8,Stuehus,459,2013,-5 %
+Bork Hytteby 225 6893 Hemmet,225,675000.0,08-06-2011,Alm.,13500,3,Sommerhus,50,1999,-9 %
+Nordmarken 32 6893 Hemmet,32,1215000.0,08-06-2011,Alm.,11911,4,Sommerhus,102,2005,-5 %
+Horsfold 146 6893 Hemmet,146,400000.0,06-06-2011,Fam.,5633,4,Sommerhus,71,1988,-55 %
+Niels Jensensvej 8 6893 Hemmet,8,340000.0,31-05-2011,Alm.,2881,4,Villa,118,1929,-9 %
+Lærkevænget 4 6893 Hemmet,4,950000.0,29-05-2011,Alm.,10795,4,Sommerhus,88,1999,-3 %
+Oblingvej 3 6893 Hemmet,3,71000.0,27-05-2011,Auktion,529,4,Villa,134,1929,
+Fyrrevej 11 6893 Hemmet,11,525000.0,26-05-2011,Alm.,5048,3,Villa,104,1985,-20 %
+Østerhedevej 9 6893 Hemmet,9,1792000.0,16-05-2011,Fam.,12273,5,Stuehus,146,1956,
+Horsfold 177 6893 Hemmet,177,775000.0,08-05-2011,Alm.,14622,3,Sommerhus,53,1977,-8 %
+Horsfold 175 6893 Hemmet,175,400000.0,02-05-2011,Alm.,5333,4,Sommerhus,75,1977,
+Bork Hytteby 133 6893 Hemmet,133,737500.0,01-05-2011,Alm.,14750,3,Sommerhus,50,1998,
+Esbølvej 14 6893 Hemmet,14,450000.0,28-04-2011,Alm.,3688,4,Villa,122,1974,
+Horsfold 83 6893 Hemmet,83,860000.0,20-04-2011,Alm.,14333,4,Sommerhus,60,1978,-4 %
+Møllegårdsvej 2 6893 Hemmet,2,370000.0,18-04-2011,Alm.,3490,5,Villa,106,1957,
+Kirkehøjvej 38U 6893 Hemmet,0,582500.0,17-04-2011,Alm.,11421,3,Sommerhus,51,1980,-2 %
+Rævekrogen 68 6893 Hemmet,68,1120000.0,11-04-2011,Alm.,13658,4,Sommerhus,82,1990,-1 %
+Jollen 2B 6893 Hemmet,0,1200000.0,07-04-2011,Alm.,12765,3,Lejlighed,94,2014,
+Blomstervænget 24 6893 Hemmet,24,709475.0,18-03-2011,Auktion,8249,4,Sommerhus,86,2010,
+Nordmarken 41 6893 Hemmet,41,270000.0,17-03-2011,Alm.,2347,4,Sommerhus,115,2012,
+Husfold 53 6893 Hemmet,53,477600.0,10-03-2011,Fam.,6921,4,Sommerhus,69,1972,
+Lynevej 9 6893 Hemmet,9,1650000.0,07-03-2011,Alm.,6496,9,Stuehus,254,2013,
+Tranevænget 24 6893 Hemmet,24,800000.0,07-03-2011,Alm.,8602,3,Sommerhus,93,1974,-9 %
+Lappedykkervænget 26 6893 Hemmet,26,895000.0,04-03-2011,Alm.,13358,3,Sommerhus,67,1972,-7 %
+Nordmarken 28 6893 Hemmet,28,235000.0,03-03-2011,Alm.,2196,5,Sommerhus,107,2011,-8 %
+Bork Hytteby 61 6893 Hemmet,61,725000.0,02-03-2011,Alm.,14500,3,Sommerhus,50,1999,0 %
+Bork Hytteby 2C 6893 Hemmet,0,800000.0,01-03-2011,Fam.,16000,3,Sommerhus,50,1997,-11 %
+Grævlingevej 1 6893 Hemmet,1,570000.0,21-02-2011,Alm.,11632,3,Sommerhus,49,1980,
+Horsfold 65 6893 Hemmet,65,800000.0,21-02-2011,Alm.,16000,3,Sommerhus,50,1978,-5 %
+Grævlingevej 15 6893 Hemmet,15,525000.0,19-02-2011,Fam.,4375,4,Sommerhus,120,1969,
+Strandvænget 8 6893 Hemmet,8,1300000.0,18-02-2011,Alm.,11818,5,Sommerhus,110,2000,
+Ildervej 18 6893 Hemmet,18,850000.0,16-02-2011,Alm.,13492,4,Sommerhus,63,1987,
+Blomstervænget 34 6893 Hemmet,34,980000.0,16-02-2011,Alm.,13424,4,Sommerhus,73,2006,-3 %
+Skuldbølvej 4 6893 Hemmet,4,12800000.0,15-02-2011,Alm.,53781,10,Stuehus,238,1973,
+Grævlingevej 14 6893 Hemmet,14,475000.0,11-02-2011,Fam.,9313,3,Sommerhus,51,1969,
+Niels Jensensvej 4 6893 Hemmet,4,283333.0,09-02-2011,Alm.,2266,6,Villa,125,1938,
+Horsfold 56 6893 Hemmet,56,700000.0,28-01-2011,Alm.,10606,4,Sommerhus,66,1984,-12 %
+Kirkehøjvej 40L 6893 Hemmet,0,600000.0,28-01-2011,Alm.,11764,3,Sommerhus,51,1980,-10 %
+Tues Drøwt 3 6893 Hemmet,3,1075000.0,15-01-2011,Alm.,13109,4,Sommerhus,82,1997,-9 %
+Vester Fælled 206 6893 Hemmet,206,517500.0,30-12-2010,Alm.,11761,3,Sommerhus,44,1979,-5 %
+Tranevænget 16 6893 Hemmet,16,1015000.0,28-12-2010,Alm.,12228,3,Sommerhus,83,2002,-4 %
+Nordmarken 2 6893 Hemmet,2,975000.0,27-12-2010,Alm.,10955,4,Sommerhus,89,2006,-22 %
+Fasanvænget 4 6893 Hemmet,4,1370000.0,16-12-2010,Alm.,14574,4,Sommerhus,94,2004,
+Bork Hytteby 189 6893 Hemmet,189,665000.0,16-12-2010,Alm.,13300,2,Sommerhus,50,1998,-4 %
+Bandsbølvej 39 6893 Hemmet,39,498716.0,14-12-2010,Fam.,2409,6,Villa,207,1921,
+Vester Fælled 40 6893 Hemmet,40,625000.0,14-12-2010,Fam.,0,5,Sommerhus,76,1977,
+Hejrevænget 21 6893 Hemmet,21,875000.0,14-12-2010,Alm.,10542,4,Sommerhus,83,1972,0 %
+Blomstervænget 40 6893 Hemmet,40,1385000.0,13-12-2010,Alm.,12590,4,Sommerhus,110,2011,0 %
+Blomstervænget 46 6893 Hemmet,46,1200000.0,03-12-2010,Alm.,10256,5,Sommerhus,117,2007,-7 %
+Bork Hytteby 163 6893 Hemmet,163,725000.0,29-11-2010,Alm.,14500,3,Sommerhus,50,1997,
+Jollen 1 6893 Hemmet,1,1630000.0,24-11-2010,Alm.,9157,8,Villa,178,1981,-11 %
+Bellisvænget 2 6893 Hemmet,2,1255000.0,18-11-2010,Alm.,13210,4,Sommerhus,95,2007,-2 %
+Nørredige 26 6893 Hemmet,26,550000.0,11-11-2010,Fam.,5092,3,Villa,108,1979,
+Bork Hytteby 199 6893 Hemmet,199,850000.0,09-11-2010,Alm.,17000,2,Sommerhus,50,2004,0 %
+Esbølvej 20 6893 Hemmet,20,270000.0,05-11-2010,Alm.,2571,4,Villa,105,1905,-8 %
+Vester Fælled 36 6893 Hemmet,36,1685000.0,22-10-2010,Alm.,14525,7,Sommerhus,116,1977,-15 %
+Rævekrogen 39 6893 Hemmet,39,880000.0,15-10-2010,Alm.,11578,4,Sommerhus,76,1971,-2 %
+Nordmarken 16 6893 Hemmet,16,1350000.0,15-10-2010,Alm.,11538,5,Sommerhus,117,2006,-3 %
+Bork Hytteby 27 6893 Hemmet,27,895000.0,11-10-2010,Alm.,17900,3,Sommerhus,50,2008,0 %
+Grævlingevej 8 6893 Hemmet,8,400000.0,08-10-2010,Andet,8888,3,Sommerhus,45,1971,
+Bork Hytteby 165 6893 Hemmet,165,750000.0,06-10-2010,Alm.,15000,3,Sommerhus,50,1997,
+Sydmarken 45 6893 Hemmet,45,1280000.0,04-10-2010,Alm.,11636,4,Sommerhus,110,2010,
+Mosevænget 11 6893 Hemmet,11,775000.0,27-09-2010,Alm.,12916,3,Sommerhus,60,1974,0 %
+Sydmarken 1 6893 Hemmet,1,1220000.0,24-09-2010,Alm.,13555,4,Sommerhus,90,2008,-6 %
+Sutskoen 4 6893 Hemmet,4,775000.0,23-09-2010,Alm.,10333,5,Sommerhus,75,1966,-3 %
+Beta 10 6893 Hemmet,10,895000.0,20-09-2010,Alm.,12260,4,Sommerhus,73,1973,0 %
+Bork Hytteby 298 6893 Hemmet,298,585000.0,19-09-2010,Alm.,0,4,Sommerhus,48,1984,0 %
+Tarmvej 170 6893 Hemmet,170,6060000.0,17-09-2010,Alm.,84166,4,Villa,72,1956,
+Bork Hytteby 116 6893 Hemmet,116,710000.0,17-09-2010,Alm.,15434,3,Sommerhus,46,1987,
+Tarmvej 109 6893 Hemmet,109,827269.0,15-09-2010,Andet,3349,7,Villa,247,1905,
+Spurvevænget 11 6893 Hemmet,11,1250000.0,14-09-2010,Alm.,12019,4,Sommerhus,104,2002,-10 %
+Ildervej 34 6893 Hemmet,34,550000.0,10-09-2010,Auktion,5913,4,Sommerhus,93,2012,
+Egernvej 49 6893 Hemmet,49,665000.0,08-09-2010,Alm.,9109,3,Sommerhus,73,1987,-5 %
+Midtbyvej 7 6893 Hemmet,7,795000.0,07-09-2010,Alm.,6115,5,Villa,130,1969,0 %
+Tarmvej 129 6893 Hemmet,129,330000.0,02-09-2010,Alm.,2750,7,Villa,120,1948,-14 %
+Galochen 8 6893 Hemmet,8,400000.0,01-09-2010,Fam.,7692,3,Sommerhus,52,1970,
+Nordmarken 47 6893 Hemmet,47,300000.0,01-09-2010,Alm.,3409,4,Sommerhus,88,2011,5 %
+Egernvej 1 6893 Hemmet,1,733333.0,26-08-2010,Fam.,8333,5,Sommerhus,88,1997,
+Nr. Lydumvej 9 6893 Hemmet,9,1185000.0,24-08-2010,Alm.,4856,6,Villa,244,1900,-5 %
+Tranevænget 14 6893 Hemmet,14,199500.0,20-08-2010,Alm.,3069,4,Sommerhus,65,1972,
+Tranevænget 36 6893 Hemmet,36,705000.0,19-08-2010,Alm.,14687,3,Sommerhus,48,1973,-3 %
+Tarmvej 171 6893 Hemmet,171,415000.0,18-08-2010,Alm.,3097,5,Villa,134,1962,-28 %
+Grævlingevej 24 6893 Hemmet,24,645000.0,16-08-2010,Alm.,6323,5,Sommerhus,102,2012,
+Bork Hytteby 71 6893 Hemmet,71,690000.0,16-08-2010,Alm.,13800,3,Sommerhus,50,2000,-1 %
+Horsfold 21 6893 Hemmet,21,850000.0,14-08-2010,Alm.,12318,4,Sommerhus,69,1979,
+Rævekrogen 51 6893 Hemmet,51,535000.0,13-08-2010,Alm.,13717,3,Sommerhus,39,1971,0 %
+Egernvej 47 6893 Hemmet,47,795000.0,09-08-2010,Alm.,15288,3,Sommerhus,52,1987,0 %
+Linningvej 17 6893 Hemmet,17,991000.0,01-08-2010,Alm.,17696,3,Sommerhus,56,1974,-9 %
+Bork Hytteby 250 6893 Hemmet,250,670000.0,30-07-2010,Alm.,13400,3,Sommerhus,50,1995,-4 %
+Sydmarken 55 6893 Hemmet,55,1000000.0,26-07-2010,Alm.,15151,3,Sommerhus,66,2006,-7 %
+Prammen 3 6893 Hemmet,3,1400000.0,23-07-2010,Alm.,14285,4,Villa,98,1994,
+Horsfold 54 6893 Hemmet,54,745000.0,19-07-2010,Alm.,13070,4,Sommerhus,57,1979,
+Mosevænget 37 6893 Hemmet,37,885000.0,15-07-2010,Alm.,14274,4,Sommerhus,62,1978,-1 %
+Sydmarken 31 6893 Hemmet,31,1360000.0,08-07-2010,Alm.,16585,4,Sommerhus,82,2008,-2 %
+Bork Hytteby 214 6893 Hemmet,214,625000.0,05-07-2010,Alm.,13586,3,Sommerhus,46,1984,-7 %
+Sydmarken 25 6893 Hemmet,25,271220.0,05-07-2010,Alm.,4109,3,Sommerhus,66,2010,
+Lukkebjerg 10 6893 Hemmet,10,1030000.0,30-06-2010,Alm.,15606,4,Sommerhus,66,1971,-6 %
+Bandsbølvej 30 6893 Hemmet,30,180000.0,25-06-2010,Auktion,2278,2,Villa,79,1956,
+Nordmarken 13 6893 Hemmet,13,1600000.0,24-06-2010,Alm.,13114,5,Sommerhus,122,2006,-4 %
+Tranevænget 34 6893 Hemmet,34,305000.0,19-06-2010,Fam.,4841,4,Sommerhus,63,1973,
+Kosigvænget 9 6893 Hemmet,9,815000.0,13-06-2010,Alm.,9702,5,Sommerhus,84,1972,-9 %
+Blomstervænget 26 6893 Hemmet,26,1435000.0,03-06-2010,Alm.,13045,4,Sommerhus,110,2009,-3 %
+Vester Fælled 3 6893 Hemmet,3,607000.0,02-06-2010,Alm.,8797,3,Sommerhus,69,1984,
+Mosevænget 34 6893 Hemmet,34,595000.0,02-06-2010,Alm.,9596,4,Sommerhus,62,1974,0 %
+Sydmarken 15 6893 Hemmet,15,245000.0,26-05-2010,Alm.,2378,5,Sommerhus,103,2013,-18 %
+Vestergårdsvej 6 6893 Hemmet,6,30200000.0,19-05-2010,Alm.,93498,9,Stuehus,323,1978,
+Tinghøjvej 8 6893 Hemmet,8,1495000.0,17-05-2010,Alm.,6334,7,Villa,236,1956,
+Kosigvænget 69 6893 Hemmet,69,692000.0,14-05-2010,Alm.,14416,3,Sommerhus,48,1973,-5 %
+Horsfold 68 6893 Hemmet,68,925000.0,11-05-2010,Alm.,12500,4,Sommerhus,74,1994,
+Duevænget 20 6893 Hemmet,20,1130000.0,10-05-2010,Alm.,12840,4,Sommerhus,88,2005,-13 %
+Strandvænget 30 6893 Hemmet,30,1325000.0,09-05-2010,Alm.,13383,4,Sommerhus,99,1996,-5 %
+Horsfold 60 6893 Hemmet,60,945000.0,07-05-2010,Alm.,12945,4,Sommerhus,73,1980,-4 %
+Lærkevænget 1 6893 Hemmet,1,450000.0,05-05-2010,Fam.,5769,4,Sommerhus,78,1997,
+Sydmarken 39 6893 Hemmet,39,1342000.0,05-05-2010,Alm.,13693,3,Sommerhus,98,2011,1 %
+Mosevænget 33 6893 Hemmet,33,775000.0,29-04-2010,Alm.,14903,4,Sommerhus,52,1977,0 %
+Tarmvej 206 6893 Hemmet,206,585000.0,26-04-2010,Alm.,5270,4,Villa,111,1935,-8 %
+Nissengårdevej 8 6893 Hemmet,8,805245.0,25-04-2010,Alm.,3208,8,Villa,251,1929,
+Tranevænget 3 6893 Hemmet,3,868000.0,25-04-2010,Alm.,12579,4,Sommerhus,69,1972,-3 %
+Spurvevænget 14 6893 Hemmet,14,1075000.0,23-04-2010,Alm.,14527,3,Sommerhus,74,1998,-4 %
+Horsfold 66 6893 Hemmet,66,810000.0,20-04-2010,Alm.,15000,3,Sommerhus,54,1980,-6 %
+Tues Drøwt 76 6893 Hemmet,76,890000.0,19-04-2010,Alm.,10595,4,Sommerhus,84,1979,
+Kirkehøjvej 36S 6893 Hemmet,0,240000.0,18-04-2010,Fam.,4705,3,Sommerhus,51,1980,
+Lærkevænget 11 6893 Hemmet,11,1385000.0,18-04-2010,Alm.,12590,4,Sommerhus,110,2003,-4 %
+Kirkehøjvej 36E 6893 Hemmet,0,595000.0,13-04-2010,Alm.,11666,3,Sommerhus,51,1992,-6 %
+Bork Hytteby 220 6893 Hemmet,220,715000.0,12-04-2010,Alm.,14300,2,Sommerhus,50,1998,-7 %
+Duevænget 24 6893 Hemmet,24,665000.0,08-04-2010,Alm.,6717,4,Sommerhus,99,2010,
+Holmvej 4 6893 Hemmet,4,3924000.0,26-03-2010,Alm.,0,5,Lejlighed,179,1900,
+Husfold 32 6893 Hemmet,32,634950.0,17-03-2010,Alm.,0,4,Sommerhus,113,1970,
+Gl. Landevej 1 6893 Hemmet,1,500000.0,16-03-2010,Alm.,3355,5,Villa,149,1922,-7 %
+Lukkebjerg 7 6893 Hemmet,7,925000.0,16-03-2010,Alm.,9635,5,Sommerhus,96,1972,-7 %
+Blomstervænget 38 6893 Hemmet,38,1070000.0,11-03-2010,Alm.,13896,4,Sommerhus,77,2008,-3 %
+Gl. Landevej 29 6893 Hemmet,29,140000.0,15-02-2010,Alm.,1609,2,Villa,87,1890,-15 %
+Esbølvej 54 6893 Hemmet,54,2825800.0,14-02-2010,Fam.,18349,5,Stuehus,154,1896,
+Vester Fælled 23 6893 Hemmet,23,910000.0,23-01-2010,Alm.,12638,4,Sommerhus,72,1980,-5 %
+Nordenåvej 3 6893 Hemmet,3,790000.0,22-01-2010,Auktion,4619,5,Villa,171,1830,-12 %
+Horsfold 131 6893 Hemmet,131,520000.0,22-01-2010,Alm.,7761,4,Sommerhus,67,1995,
+Tues Drøwt 7 6893 Hemmet,7,531250.0,21-01-2010,Fam.,5902,5,Sommerhus,90,1995,
+Mosevænget 24 6893 Hemmet,24,237500.0,21-01-2010,Fam.,2638,4,Sommerhus,90,1984,
+Tues Drøwt 27 6893 Hemmet,27,1242500.0,12-01-2010,Alm.,14969,4,Sommerhus,83,1996,-4 %
+Rylevænget 13 6893 Hemmet,13,875000.0,05-01-2010,Alm.,11075,4,Sommerhus,79,1989,-7 %
+Fasanvænget 9 6893 Hemmet,9,325000.0,28-12-2009,Fam.,2708,4,Sommerhus,120,2011,
+Bork Hytteby 21 6893 Hemmet,21,690000.0,20-12-2009,Alm.,13800,3,Sommerhus,50,1997,-8 %
+Svanevænget 36 6893 Hemmet,36,715000.0,18-12-2009,Alm.,11349,4,Sommerhus,63,1975,
+Husfold 27 6893 Hemmet,27,1087500.0,13-12-2009,Alm.,14123,3,Sommerhus,77,1971,-3 %
+Svanevænget 13 6893 Hemmet,13,310000.0,11-12-2009,Alm.,4246,4,Sommerhus,73,1973,
+Vester Fælled 30 6893 Hemmet,30,1350000.0,10-12-2009,Alm.,16666,5,Sommerhus,81,1977,-9 %
+Nordmarken 33 6893 Hemmet,33,1175000.0,07-12-2009,Fam.,13662,4,Sommerhus,86,2006,0 %
+Sydmarken 17 6893 Hemmet,17,1100000.0,01-12-2009,Alm.,13580,4,Sommerhus,81,2006,-8 %
+Spurvevænget 8 6893 Hemmet,8,1000000.0,14-11-2009,Alm.,14705,4,Sommerhus,68,1998,-8 %
+Tarmvej 97 6893 Hemmet,97,545000.0,11-11-2009,Alm.,5736,3,Villa,95,1962,0 %
+Rylevænget 18 6893 Hemmet,18,805000.0,10-11-2009,Alm.,12777,3,Sommerhus,63,1973,-5 %
+Strandvænget 19 6893 Hemmet,19,1050000.0,02-11-2009,Alm.,12068,4,Sommerhus,87,1996,-12 %
+Tarmvej 127 6893 Hemmet,127,740000.0,30-10-2009,Alm.,4683,7,Villa,158,1929,
+Brosbølvej 10 6893 Hemmet,10,900000.0,27-10-2009,Alm.,3557,7,Villa,253,1956,
+Ranunkelvænget 13 6893 Hemmet,13,1485000.0,23-10-2009,Alm.,14558,4,Sommerhus,102,2009,-1 %
+Sønderbyvej 26 6893 Hemmet,26,645000.0,21-10-2009,Alm.,4923,5,Villa,131,1936,0 %
+Bork Hytteby 13 6893 Hemmet,13,700000.0,19-10-2009,Alm.,14000,3,Sommerhus,50,1996,-16 %
+Kirkehøjvej 36U 6893 Hemmet,0,635000.0,13-10-2009,Alm.,12450,3,Sommerhus,51,1980,0 %
+Jollen 5 6893 Hemmet,5,1105000.0,08-10-2009,Andet,7727,4,Villa,143,1993,
+Blomstervænget 52 6893 Hemmet,52,1265000.0,28-09-2009,Alm.,12047,4,Sommerhus,105,2009,-4 %
+Svanevænget 20 6893 Hemmet,20,900000.0,24-09-2009,Alm.,13636,3,Sommerhus,66,2008,-9 %
+Sivskoen 12 6893 Hemmet,12,870000.0,22-09-2009,Alm.,0,4,Sommerhus,77,1966,-8 %
+Vibevænget 16 6893 Hemmet,16,1400000.0,17-09-2009,Alm.,13725,4,Sommerhus,102,2005,-5 %
+Kirkehøjvej 38J 6893 Hemmet,0,550000.0,13-09-2009,Alm.,10784,3,Sommerhus,51,1980,-8 %
+Svanevænget 34 6893 Hemmet,34,825000.0,12-09-2009,Alm.,11000,4,Sommerhus,75,1980,-6 %
+Bellisvænget 15 6893 Hemmet,15,306220.0,10-09-2009,Alm.,3689,4,Sommerhus,83,2010,
+Strandvænget 40 6893 Hemmet,40,1500000.0,01-09-2009,Alm.,16129,4,Sommerhus,93,2004,-6 %
+Kirkehøjvej 42G 6893 Hemmet,0,2142500.0,01-09-2009,Alm.,15525,5,Sommerhus,138,2009,-17 %
+Kirkehøjvej 42H 6893 Hemmet,0,2200000.0,01-09-2009,Alm.,15942,4,Sommerhus,138,2009,
+Kirkehøjvej 42C 6893 Hemmet,0,2150000.0,01-09-2009,Alm.,12951,5,Sommerhus,166,2009,-17 %
+Bork Hytteby 45 6893 Hemmet,45,750000.0,24-08-2009,Alm.,15000,3,Sommerhus,50,1999,-6 %
+Egernvej 20 6893 Hemmet,20,975000.0,19-08-2009,Alm.,15476,4,Sommerhus,63,1987,-7 %
+"Sønderbyvej 5, ST. TV 6893 Hemmet",0,1100000.0,12-08-2009,Alm.,9166,4,Rækkehus,120,1913,
+Bork Hytteby 3 6893 Hemmet,3,785000.0,07-08-2009,Alm.,15700,3,Sommerhus,50,1997,0 %
+Lynevej 2 6893 Hemmet,2,500000.0,05-08-2009,Alm.,3875,3,Villa,129,1913,-28 %
+Delta 10 6893 Hemmet,10,428900.0,01-08-2009,Fam.,6917,4,Sommerhus,62,1972,
+Vandmøllevej 11 6893 Hemmet,11,700000.0,16-07-2009,Alm.,5691,4,Villa,123,1970,-10 %
+Fasanvænget 36 6893 Hemmet,36,1190000.0,16-07-2009,Alm.,12395,4,Sommerhus,96,2006,-3 %
+Kirkehøjvej 38H 6893 Hemmet,0,575000.0,15-07-2009,Alm.,11274,3,Sommerhus,51,1980,-12 %
+Bork Hytteby 57 6893 Hemmet,57,650000.0,15-07-2009,Alm.,13000,3,Sommerhus,50,1997,-10 %
+Rævekrogen 62 6893 Hemmet,62,695000.0,13-07-2009,Alm.,15795,2,Sommerhus,44,1969,0 %
+Kirkehøjvej 38D 6893 Hemmet,0,600000.0,06-07-2009,Alm.,11764,3,Sommerhus,51,1980,-4 %
+Bandsbølvej 17 6893 Hemmet,17,1210000.0,26-06-2009,Alm.,9453,4,Villa,128,1999,-3 %
+Galgebjergevej 1 6893 Hemmet,1,660000.0,19-06-2009,Alm.,5945,4,Villa,111,1918,
+Nr. Lydumvej 1 6893 Hemmet,1,281500.0,18-06-2009,Alm.,3198,3,Villa,88,1968,
+Duevænget 49 6893 Hemmet,49,1320000.0,07-06-2009,Alm.,11891,5,Sommerhus,111,2005,-2 %
+Nordmarken 37 6893 Hemmet,37,1190000.0,28-05-2009,Alm.,11553,5,Sommerhus,103,2005,-4 %
+Tranevænget 8 6893 Hemmet,8,630000.0,21-05-2009,Alm.,10500,4,Sommerhus,60,1972,-8 %
+Tues Drøwt 17 6893 Hemmet,17,1050000.0,20-05-2009,Alm.,13125,4,Sommerhus,80,1994,-4 %
+Vester Fælled 2 6893 Hemmet,2,1550000.0,18-05-2009,Alm.,18452,6,Sommerhus,84,1977,-3 %
+Nordmarken 29 6893 Hemmet,29,1075000.0,14-05-2009,Alm.,13109,4,Sommerhus,82,2006,0 %
+Sandalen 1 6893 Hemmet,1,670000.0,13-05-2009,Alm.,12641,4,Sommerhus,53,1971,-1 %
+Spurvevænget 12 6893 Hemmet,12,1025000.0,10-05-2009,Alm.,13486,4,Sommerhus,76,1998,-6 %
+Galgebjergevej 25 6893 Hemmet,25,240000.0,06-05-2009,Alm.,2448,2,Villa,98,1825,-4 %
+Oblingvej 11 6893 Hemmet,11,480000.0,27-04-2009,Alm.,5714,4,Sommerhus,84,1951,-26 %
+Fasanvænget 1 6893 Hemmet,1,1130000.0,22-04-2009,Alm.,12417,4,Sommerhus,91,2006,0 %
+Kirkehøjvej 22 6893 Hemmet,22,1207000.0,19-04-2009,Fam.,4714,9,Stuehus,256,1914,
+Oblingvej 12 6893 Hemmet,12,825742.0,15-04-2009,Alm.,4665,4,Stuehus,177,1857,
+Jollen 8 6893 Hemmet,8,1550000.0,15-04-2009,Alm.,11151,5,Villa,139,1994,-9 %
+Anevej 5 6893 Hemmet,5,650000.0,14-04-2009,Alm.,13000,3,Sommerhus,50,1971,-6 %
+Rylevænget 17 6893 Hemmet,17,600000.0,08-04-2009,Alm.,8450,4,Sommerhus,71,1973,-7 %
+Husfold 9 6893 Hemmet,9,1250000.0,07-04-2009,Alm.,10964,5,Sommerhus,114,1971,-11 %
+Træskoen 4 6893 Hemmet,4,485000.0,06-04-2009,Alm.,0,3,Sommerhus,57,1969,0 %
+Øster Vejrupvej 19 6893 Hemmet,19,400000.0,19-03-2009,Alm.,3278,3,Stuehus,122,2016,
+Bork Hytteby 75 6893 Hemmet,75,805000.0,16-03-2009,Alm.,16100,3,Sommerhus,50,2003,-4 %
+Damgårdsvej 4 6893 Hemmet,4,975000.0,12-03-2009,Alm.,6818,6,Villa,143,1976,
+Gl. Skolevej 16 6893 Hemmet,16,350000.0,07-03-2009,Alm.,5072,3,Rækkehus,69,1981,-18 %
+Tarmvej 216 6893 Hemmet,216,575000.0,23-02-2009,Fam.,3304,6,Villa,174,1931,
+Vester Fælled 92 6893 Hemmet,92,56000.0,19-02-2009,Fam.,1272,3,Sommerhus,44,1979,
+Toftumvej 4 6893 Hemmet,4,7275000.0,18-02-2009,Fam.,49489,4,Stuehus,147,1933,
+Rylevænget 24 6893 Hemmet,24,595000.0,13-02-2009,Alm.,12395,3,Sommerhus,48,1973,-9 %
+Horsfold 59 6893 Hemmet,59,760000.0,13-02-2009,Alm.,12258,4,Sommerhus,62,1977,-8 %
+Blomstervænget 10 6893 Hemmet,10,985000.0,12-02-2009,Alm.,13493,4,Sommerhus,73,2006,-1 %
+Mågevænget 26 6893 Hemmet,26,800000.0,09-02-2009,Alm.,11594,3,Sommerhus,69,1974,-11 %
+Egernvej 35 6893 Hemmet,35,995000.0,09-02-2009,Alm.,10364,4,Sommerhus,96,2008,-3 %
+Kosigvænget 10 6893 Hemmet,10,920000.0,02-02-2009,Alm.,12432,4,Sommerhus,74,1988,-8 %
+Vester Fælled 218 6893 Hemmet,218,538000.0,30-01-2009,Alm.,11955,3,Sommerhus,45,1979,
+Nordmarken 23 6893 Hemmet,23,630472.0,30-01-2009,Alm.,5837,4,Sommerhus,108,2008,
+Fladhøjvej 4 6893 Hemmet,4,1250000.0,22-01-2009,Fam.,4251,8,Villa,294,1856,
+Skuldbølvej 7B 6893 Hemmet,0,1100000.0,14-01-2009,Alm.,7746,4,Villa,142,1986,-8 %
+Nordmarken 53 6893 Hemmet,53,1165000.0,30-12-2008,Alm.,12393,4,Sommerhus,94,2005,-3 %
+Husfold 71 6893 Hemmet,71,1110000.0,19-12-2008,Alm.,14415,5,Sommerhus,77,1969,
+Gl. Landevej 15 6893 Hemmet,15,353231.0,09-12-2008,Andet,3182,4,Villa,111,1910,
+Grævlingevej 7 6893 Hemmet,7,311500.0,02-12-2008,Fam.,5877,3,Sommerhus,53,1971,
+Bandsbølvej 13 6893 Hemmet,13,775000.0,18-11-2008,Alm.,3326,5,Villa,233,1939,-1 %
+Spurvevænget 6 6893 Hemmet,6,875000.0,15-11-2008,Alm.,0,5,Sommerhus,91,1998,-8 %
+Rylevænget 4 6893 Hemmet,4,825000.0,11-11-2008,Alm.,11785,4,Sommerhus,70,1972,-8 %
+Toftumvej 6 6893 Hemmet,6,2435000.0,11-11-2008,Andet,14408,7,Stuehus,169,1929,
+Nørredige 28 6893 Hemmet,28,63294.0,22-10-2008,Alm.,383,5,Villa,165,2010,
+Nørredige 4 6893 Hemmet,4,1295000.0,15-10-2008,Alm.,10443,4,Villa,124,1976,
+Bork Hytteby 9 6893 Hemmet,9,860000.0,14-10-2008,Alm.,17200,3,Sommerhus,50,1996,
+Lukkebjerg 15 6893 Hemmet,15,875000.0,03-10-2008,Alm.,16826,3,Sommerhus,52,1970,-5 %
+Bork Hytteby 30 6893 Hemmet,30,544000.0,01-10-2008,Fam.,11102,2,Sommerhus,49,1995,
+Bækager 9 6893 Hemmet,9,356130.0,27-09-2008,Andet,3237,5,Villa,110,1923,
+Horsfold 9 6893 Hemmet,9,445000.0,22-09-2008,Alm.,6846,4,Sommerhus,65,1985,
+Egernvej 2 6893 Hemmet,2,590000.0,18-09-2008,Andet,6781,5,Sommerhus,87,1998,
+Horsfold 142 6893 Hemmet,142,557101.0,15-09-2008,Alm.,6330,4,Sommerhus,88,1994,
+Oblingvej 13 6893 Hemmet,13,300000.0,09-09-2008,Alm.,4166,3,Sommerhus,72,2011,
+Fladhøjvej 12 6893 Hemmet,12,1250000.0,30-08-2008,Alm.,9259,6,Villa,135,1953,0 %
+Bandsbølvej 27 6893 Hemmet,27,885000.0,29-08-2008,Alm.,5601,4,Villa,158,1947,0 %
+Tues Drøwt 84 6893 Hemmet,84,860000.0,18-08-2008,Alm.,12463,4,Sommerhus,69,1986,-7 %
+Vester Fælled 98 6893 Hemmet,98,620000.0,15-08-2008,Alm.,14090,3,Sommerhus,44,1979,-7 %
+Gl. Landevej 10 6893 Hemmet,10,870000.0,14-08-2008,Alm.,5612,6,Villa,155,1905,-3 %
+Houmvej 6 6893 Hemmet,6,750000.0,06-08-2008,Alm.,3521,7,Stuehus,213,1879,-6 %
+Kosigvænget 47 6893 Hemmet,47,1060000.0,28-07-2008,Alm.,10495,4,Sommerhus,101,1991,-3 %
+Kosigvænget 92 6893 Hemmet,92,429534.0,28-07-2008,Andet,6410,4,Sommerhus,67,1974,-52 %
+Granvej 37 6893 Hemmet,37,810000.0,14-07-2008,Alm.,4175,7,Villa,194,1980,-2 %
+Horsfold 104 6893 Hemmet,104,950000.0,14-07-2008,Alm.,12337,5,Sommerhus,77,1979,-3 %
+Skuldbølvej 12 6893 Hemmet,12,3045500.0,05-07-2008,Fam.,20859,5,Stuehus,146,1870,
+Sydvesten 5 6893 Hemmet,5,1072000.0,02-07-2008,Alm.,12915,6,Sommerhus,83,1970,-4 %
+Husfold 23 6893 Hemmet,23,765000.0,25-06-2008,Fam.,11417,4,Sommerhus,67,1988,
+Kirkehøjvej 36N 6893 Hemmet,0,685000.0,25-06-2008,Alm.,13431,3,Sommerhus,51,1980,0 %
+Lundsgårdsvej 6 6893 Hemmet,6,1000000.0,20-06-2008,Alm.,11627,4,Stuehus,86,1942,-9 %
+Kosigvænget 52 6893 Hemmet,52,840000.0,18-06-2008,Alm.,9882,5,Sommerhus,85,1977,-1 %
+Alpehuen 3 6893 Hemmet,3,825000.0,17-06-2008,Alm.,10576,3,Sommerhus,78,1969,-8 %
+Duevænget 52 6893 Hemmet,52,1325000.0,14-06-2008,Alm.,11521,4,Sommerhus,115,2006,-5 %
+Horsfold 97 6893 Hemmet,97,710000.0,09-06-2008,Alm.,0,3,Sommerhus,55,1978,-10 %
+Hejrevænget 22 6893 Hemmet,22,1023000.0,09-06-2008,Alm.,13640,4,Sommerhus,75,1973,-2 %
+Nordmarken 65 6893 Hemmet,65,1260000.0,06-06-2008,Alm.,16363,3,Sommerhus,77,2005,-2 %
+Horsfold 67 6893 Hemmet,67,157368.0,05-06-2008,Fam.,1942,4,Sommerhus,81,1979,
+Magårdevej 1 6893 Hemmet,1,637500.0,04-06-2008,Andet,5100,6,Villa,125,1871,
+Vester Fælled 56 6893 Hemmet,56,1020000.0,02-06-2008,Alm.,16190,5,Sommerhus,63,1977,-7 %
+Strandvænget 5 6893 Hemmet,5,1155000.0,30-05-2008,Alm.,16041,4,Sommerhus,72,1996,-3 %
+Delta 9 6893 Hemmet,9,1074000.0,28-05-2008,Alm.,19178,4,Sommerhus,56,1973,-2 %
+Bellisvænget 11 6893 Hemmet,11,1395000.0,24-05-2008,Alm.,14684,4,Sommerhus,95,2007,0 %
+Svanevænget 1 6893 Hemmet,1,750000.0,19-05-2008,Alm.,11194,5,Sommerhus,67,1972,0 %
+Støvlen 2 6893 Hemmet,2,595000.0,19-05-2008,Alm.,10258,3,Sommerhus,58,1972,0 %
+Kornblomstvænget 11 6893 Hemmet,11,310000.0,16-05-2008,Alm.,3444,4,Sommerhus,90,2010,0 %
+Vibevænget 10 6893 Hemmet,10,1475000.0,14-05-2008,Alm.,16032,4,Sommerhus,92,2005,-1 %
+Bork Hytteby 98 6893 Hemmet,98,760000.0,12-05-2008,Alm.,15200,3,Sommerhus,50,1996,-4 %
+Sydmarken 2 6893 Hemmet,2,1375000.0,03-05-2008,Alm.,12061,5,Sommerhus,114,2006,-8 %
+Horsfold 61 6893 Hemmet,61,890000.0,29-04-2008,Alm.,13692,4,Sommerhus,65,1977,-1 %
+Fasanvænget 19 6893 Hemmet,19,1225000.0,28-04-2008,Alm.,13031,5,Sommerhus,94,2004,-1 %
+Ranunkelvænget 11 6893 Hemmet,11,1325000.0,22-04-2008,Alm.,14887,4,Sommerhus,89,2005,-1 %
+Strandvænget 16 6893 Hemmet,16,850000.0,16-04-2008,Alm.,14655,3,Sommerhus,58,1996,0 %
+Vester Vejrupvej 8 6893 Hemmet,8,3640000.0,15-04-2008,Alm.,30847,5,Stuehus,118,1860,
+Sydmarken 6 6893 Hemmet,6,1480000.0,14-04-2008,Alm.,12131,5,Sommerhus,122,2008,-1 %
+Strandvænget 37 6893 Hemmet,37,1380000.0,13-04-2008,Alm.,15681,4,Sommerhus,88,1997,0 %
+Egernvej 5 6893 Hemmet,5,725000.0,04-04-2008,Alm.,11507,4,Sommerhus,63,1987,-3 %
+Kornblomstvænget 7 6893 Hemmet,7,306220.0,31-03-2008,Alm.,1578,4,Sommerhus,194,2009,
+Bork Hytteby 5 6893 Hemmet,5,870000.0,29-03-2008,Alm.,19333,3,Sommerhus,45,1998,-1 %
+Strandvænget 35 6893 Hemmet,35,1125000.0,23-03-2008,Alm.,14240,4,Sommerhus,79,1996,-2 %
+Damgårdsvej 2 6893 Hemmet,2,343798.0,18-03-2008,Alm.,1514,15,Villa,227,1972,
+Oblingvej 30 6893 Hemmet,30,950000.0,11-03-2008,Alm.,6643,5,Villa,143,1953,0 %
+Duevænget 38 6893 Hemmet,38,1380000.0,09-03-2008,Alm.,15505,4,Sommerhus,89,2005,-1 %
+Østerhedevej 3 6893 Hemmet,3,1245000.0,05-03-2008,Alm.,9291,4,Stuehus,134,1957,0 %
+Gl. Landevej 4 6893 Hemmet,4,450000.0,26-02-2008,Alm.,5000,4,Villa,90,1960,
+Lukkebjerg 19 6893 Hemmet,19,266852.0,19-02-2008,Alm.,2565,5,Sommerhus,104,1973,
+Gl. Landevej 36 6893 Hemmet,36,797977.0,07-02-2008,Fam.,6540,3,Villa,122,1998,
+Bork Hytteby 170 6893 Hemmet,170,195500.0,31-01-2008,Fam.,4250,3,Sommerhus,46,1988,
+Bork Hytteby 169 6893 Hemmet,169,790000.0,30-01-2008,Alm.,15800,3,Sommerhus,50,2007,
+Midtbyvej 6 6893 Hemmet,6,500000.0,17-01-2008,Alm.,4545,4,Villa,110,1953,0 %
+Brosbølvej 17 6893 Hemmet,17,945000.0,17-01-2008,Alm.,9947,4,Stuehus,95,1956,-2 %
+Esbølvej 48 6893 Hemmet,48,840000.0,14-01-2008,Alm.,5833,6,Stuehus,144,1951,
+Bellisvænget 8 6893 Hemmet,8,1190000.0,11-01-2008,Alm.,12142,5,Sommerhus,98,2006,-3 %
+Nordmarken 10 6893 Hemmet,10,1775040.0,02-01-2008,Alm.,13549,6,Sommerhus,131,2008,
+Enggårdsvej 8 6893 Hemmet,8,355000.0,01-01-2008,Alm.,4610,3,Villa,77,1952,-8 %
+Vester Fælled 170 6893 Hemmet,170,625000.0,31-12-2007,Alm.,14204,3,Sommerhus,44,1979,-6 %
+Strandvænget 47 6893 Hemmet,47,1350000.0,28-12-2007,Alm.,15517,4,Sommerhus,87,1998,-1 %
+Kosigvænget 26 6893 Hemmet,26,645000.0,10-12-2007,Alm.,11120,3,Villa,58,1974,-7 %
+Lappedykkervænget 20 6893 Hemmet,20,357000.0,30-11-2007,Fam.,8302,3,Sommerhus,43,1972,
+Tues Drøwt 12 6893 Hemmet,12,880000.0,26-11-2007,Alm.,14426,4,Sommerhus,61,1978,
+Duevænget 13 6893 Hemmet,13,1011000.0,26-11-2007,Alm.,9815,4,Sommerhus,103,2010,
+Gl. Landevej 40 6893 Hemmet,40,500000.0,24-11-2007,Alm.,5376,3,Villa,93,1925,
+Midtbyvej 24 6893 Hemmet,24,865000.0,23-11-2007,Alm.,6178,6,Villa,140,1902,0 %
+Bork Hytteby 4 6893 Hemmet,4,199750.0,22-11-2007,Fam.,3995,2,Sommerhus,50,1984,
+Bjerregårdsvej 3 6893 Hemmet,3,200400.0,21-11-2007,Andet,1495,3,Stuehus,134,1954,
+Gl. Skolevej 8 6893 Hemmet,8,440070.0,21-11-2007,Alm.,6377,3,Rækkehus,69,1980,
+Tues Drøwt 2 6893 Hemmet,2,1000000.0,19-11-2007,Alm.,12820,4,Sommerhus,78,1978,-7 %
+Duevænget 15 6893 Hemmet,15,1175000.0,19-11-2007,Alm.,11750,4,Sommerhus,100,2006,
+Kornblomstvænget 2 6893 Hemmet,2,1430000.0,19-11-2007,Alm.,12222,4,Sommerhus,117,2007,-4 %
+Vester Fælled 194 6893 Hemmet,194,625000.0,15-11-2007,Alm.,14204,3,Sommerhus,44,1979,
+Ranunkelvænget 3 6893 Hemmet,3,1075000.0,12-11-2007,Alm.,14726,4,Sommerhus,73,2007,0 %
+Bellisvænget 13 6893 Hemmet,13,1072500.0,11-11-2007,Alm.,13928,3,Sommerhus,77,2006,
+Vejrupsøvej 6 6893 Hemmet,6,7900000.0,08-11-2007,Alm.,33474,6,Stuehus,236,2011,
+Bellisvænget 3 6893 Hemmet,3,1400000.0,05-11-2007,Alm.,13461,5,Sommerhus,104,2006,0 %
+Duevænget 21 6893 Hemmet,21,320000.0,29-10-2007,Fam.,3516,4,Sommerhus,91,2011,-9 %
+Ildervej 26 6893 Hemmet,26,955000.0,27-10-2007,Alm.,12905,4,Sommerhus,74,2004,-1 %
+Bork Hytteby 39 6893 Hemmet,39,895000.0,25-10-2007,Alm.,17900,3,Sommerhus,50,1997,
+Rævekrogen 41 6893 Hemmet,41,870000.0,21-10-2007,Alm.,14032,3,Sommerhus,62,1972,-3 %
+Lappedykkervænget 7 6893 Hemmet,7,995000.0,15-10-2007,Alm.,13092,3,Sommerhus,76,1972,-5 %
+Duevænget 9 6893 Hemmet,9,1449000.0,15-10-2007,Alm.,12491,4,Sommerhus,116,2006,0 %
+Fasanvænget 2 6893 Hemmet,2,1280000.0,12-10-2007,Alm.,14712,4,Sommerhus,87,2004,
+Magårdevej 4 6893 Hemmet,4,1145000.0,11-10-2007,Alm.,5350,8,Villa,214,1870,0 %
+Fasanvænget 21 6893 Hemmet,21,1220000.0,08-10-2007,Alm.,13406,4,Sommerhus,91,2004,
+Sydmarken 43 6893 Hemmet,43,1300000.0,08-10-2007,Alm.,12380,4,Sommerhus,105,2007,-4 %
+Fasanvænget 34 6893 Hemmet,34,573750.0,01-10-2007,Fam.,4946,4,Sommerhus,116,2007,
+Horsfold 128 6893 Hemmet,128,1175000.0,28-09-2007,Alm.,14506,4,Sommerhus,81,2000,-2 %
+Sønderbyvej 18 6893 Hemmet,18,322500.0,27-09-2007,Fam.,3042,4,Villa,106,1970,
+Nissengårdevej 2 6893 Hemmet,2,300000.0,25-09-2007,Alm.,4225,2,Villa,71,1880,
+Ovesensvej 3 6893 Hemmet,3,450000.0,25-09-2007,Alm.,0,7,Villa,167,1933,-3 %
+Toftegårdsvej 6 6893 Hemmet,6,895000.0,24-09-2007,Alm.,4566,7,Villa,196,1870,0 %
+Mosevænget 14 6893 Hemmet,14,778000.0,21-09-2007,Alm.,10373,3,Sommerhus,75,1975,
+Horsfold 82 6893 Hemmet,82,855000.0,19-09-2007,Alm.,10687,4,Sommerhus,80,1982,-4 %
+Husfold 69 6893 Hemmet,69,646000.0,13-09-2007,Fam.,7783,6,Sommerhus,83,1969,
+Vester Fælled 148 6893 Hemmet,148,685000.0,12-09-2007,Alm.,15568,3,Sommerhus,44,1979,0 %
+Tarmvej 93 6893 Hemmet,93,410000.0,12-09-2007,Alm.,4555,4,Villa,90,1956,
+Duevænget 25 6893 Hemmet,25,1512000.0,10-09-2007,Alm.,13745,4,Sommerhus,110,2006,
+Vestervang 3 6893 Hemmet,3,440000.0,06-09-2007,Alm.,4190,4,Villa,105,1922,6 %
+Bork Hytteby 203 6893 Hemmet,203,900000.0,31-08-2007,Fam.,18000,3,Sommerhus,50,1997,
+Bork Hytteby 245 6893 Hemmet,245,795000.0,31-08-2007,Alm.,15900,3,Sommerhus,50,1997,-3 %
+Bork Hytteby 114 6893 Hemmet,114,945000.0,29-08-2007,Alm.,18900,3,Sommerhus,50,2000,0 %
+Nordmarken 21 6893 Hemmet,21,250000.0,28-08-2007,Alm.,2252,4,Sommerhus,111,2008,
+Duevænget 12 6893 Hemmet,12,1288000.0,20-08-2007,Alm.,13416,4,Sommerhus,96,2005,
+Tues Drøwt 66 6893 Hemmet,66,1060000.0,18-08-2007,Alm.,15142,4,Sommerhus,70,1986,-3 %
+Granvej 39 6893 Hemmet,39,420000.0,15-08-2007,Alm.,4516,3,Villa,93,1953,
+Sydmarken 35 6893 Hemmet,35,330000.0,11-08-2007,Alm.,4285,4,Sommerhus,77,2011,
+Duevænget 28 6893 Hemmet,28,108000.0,10-08-2007,Alm.,1227,4,Sommerhus,88,2010,
+Nordmarken 71 6893 Hemmet,71,1150000.0,10-08-2007,Alm.,14024,4,Sommerhus,82,2005,0 %
+Lærkevænget 25 6893 Hemmet,25,220000.0,07-08-2007,Alm.,2588,4,Sommerhus,85,2008,
+Fasanvænget 32 6893 Hemmet,32,1210000.0,06-08-2007,Alm.,13750,4,Sommerhus,88,2005,-6 %
+Kosigvænget 43 6893 Hemmet,43,980000.0,04-08-2007,Alm.,13243,4,Sommerhus,74,1977,-2 %
+Blomstervænget 54 6893 Hemmet,54,1345000.0,01-08-2007,Alm.,11302,4,Sommerhus,119,2007,
+Rævekrogen 52 6893 Hemmet,52,487500.0,31-07-2007,Alm.,3293,7,Sommerhus,148,1975,
+Bandsbølvej 25 6893 Hemmet,25,1200000.0,30-07-2007,Alm.,5263,6,Stuehus,228,1780,
+Nørredige 2 6893 Hemmet,2,55918.0,20-07-2007,Alm.,332,6,Villa,168,2011,
+Bandsbølvej 15 6893 Hemmet,15,695000.0,13-07-2007,Alm.,4826,5,Villa,144,1942,
+Bork Hytteby 85 6893 Hemmet,85,950000.0,09-07-2007,Alm.,19000,3,Sommerhus,50,2006,0 %
+Svanevænget 32 6893 Hemmet,32,665000.0,09-07-2007,Alm.,10725,4,Sommerhus,62,1975,-1 %
+Bork Hytteby 7 6893 Hemmet,7,885000.0,06-07-2007,Alm.,17700,3,Sommerhus,50,1997,-1 %
+Mågevænget 23 6893 Hemmet,23,950000.0,03-07-2007,Alm.,9223,6,Sommerhus,103,1973,
+Bowleren 2 6893 Hemmet,2,795000.0,03-07-2007,Alm.,13706,3,Sommerhus,58,1969,-6 %
+Gl. Landevej 2 6893 Hemmet,2,775000.0,01-07-2007,Alm.,7524,4,Villa,103,1960,
+Brosbølvej 5 6893 Hemmet,5,9500000.0,30-06-2007,Alm.,67375,5,Stuehus,141,1823,
+Egernvej 4 6893 Hemmet,4,810000.0,29-06-2007,Alm.,14727,3,Sommerhus,55,1991,-3 %
+Lyngbyvej 5 6893 Hemmet,5,284695.0,28-06-2007,Alm.,2454,3,Villa,116,1873,
+Kosigvænget 5 6893 Hemmet,5,1150000.0,25-06-2007,Alm.,15131,4,Sommerhus,76,1992,-2 %
+Husfold 28 6893 Hemmet,28,800000.0,18-06-2007,Alm.,10810,4,Sommerhus,74,1975,
+Lærkevænget 21 6893 Hemmet,21,1820000.0,18-06-2007,Alm.,15964,4,Sommerhus,114,2007,
+Strandvænget 22 6893 Hemmet,22,1250000.0,16-06-2007,Alm.,15060,4,Sommerhus,83,1998,-3 %
+Tarmvej 238 6893 Hemmet,238,325000.0,06-06-2007,Alm.,3350,3,Villa,97,1913,
+Grævlingevej 3 6893 Hemmet,3,650000.0,05-06-2007,Alm.,8227,4,Villa,79,1976,
+Østerhedevej 1 6893 Hemmet,1,1010000.0,01-06-2007,Alm.,4633,8,Stuehus,218,1957,-10 %
+Bork Hytteby 51 6893 Hemmet,51,835000.0,31-05-2007,Alm.,16700,3,Sommerhus,50,2005,-2 %
+Tarmvej 134 6893 Hemmet,134,600000.0,30-05-2007,Alm.,4615,4,Villa,130,1971,-4 %
+Gl. Skolevej 14 6893 Hemmet,14,300000.0,23-05-2007,Alm.,4347,3,Rækkehus,69,1980,
+Esbølvej 15 6893 Hemmet,15,400000.0,21-05-2007,Alm.,2857,5,Villa,140,1914,0 %
+Gamma 4 6893 Hemmet,4,930000.0,21-05-2007,Alm.,12236,4,Sommerhus,76,1973,-5 %
+Vagtelvænget 26 6893 Hemmet,26,650000.0,14-05-2007,Fam.,11818,3,Sommerhus,55,1972,
+Horsfold 168 6893 Hemmet,168,1020000.0,08-05-2007,Alm.,13246,4,Sommerhus,77,1979,-14 %
+Tarmvej 107 6893 Hemmet,107,739470.0,07-05-2007,Alm.,3811,7,Stuehus,194,1968,
+Strandvænget 9 6893 Hemmet,9,745000.0,07-05-2007,Alm.,13070,3,Sommerhus,57,1988,
+Sydmarken 27 6893 Hemmet,27,1106365.0,27-04-2007,Alm.,9143,4,Sommerhus,121,2008,
+Sydmarken 33 6893 Hemmet,33,1050075.0,24-04-2007,Alm.,9546,5,Sommerhus,110,2008,
+Bork Hytteby 149 6893 Hemmet,149,805000.0,24-04-2007,Alm.,16100,3,Sommerhus,50,2000,-2 %
+Horsfold 81 6893 Hemmet,81,925000.0,20-04-2007,Alm.,15163,4,Sommerhus,61,1990,
+Bork Hytteby 65 6893 Hemmet,65,765000.0,18-04-2007,Alm.,15300,3,Sommerhus,50,2000,0 %
+Horsfold 154 6893 Hemmet,154,910000.0,07-04-2007,Alm.,11973,5,Sommerhus,76,1977,-3 %
+Tranevænget 5 6893 Hemmet,5,965000.0,30-03-2007,Alm.,0,3,Sommerhus,69,1973,-2 %
+Bork Hytteby 87 6893 Hemmet,87,665000.0,25-03-2007,Alm.,13300,3,Sommerhus,50,1998,
+Saffelvej 5 6893 Hemmet,5,11228340.0,20-03-2007,Alm.,0,5,Stuehus,340,1900,
+Vestervang 29 6893 Hemmet,29,665000.0,08-03-2007,Alm.,5037,5,Villa,132,1973,-1 %
+Tarmvej 189 6893 Hemmet,189,1100000.0,06-03-2007,Fam.,5164,6,Stuehus,213,1904,
+Duevænget 46 6893 Hemmet,46,1295000.0,26-02-2007,Alm.,14076,4,Sommerhus,92,2006,
+Nordmarken 30 6893 Hemmet,30,250000.0,23-02-2007,Alm.,2631,4,Sommerhus,95,2008,
+Sydmarken 19 6893 Hemmet,19,1240000.0,15-02-2007,Alm.,15308,4,Sommerhus,81,2006,-1 %
+Øster Vejrupvej 4 6893 Hemmet,4,300000.0,14-02-2007,Alm.,1604,8,Villa,187,1936,
+Blomstervænget 14 6893 Hemmet,14,1350000.0,10-02-2007,Alm.,12857,5,Sommerhus,105,2006,-3 %
+Nørredige 32 6893 Hemmet,32,51920.0,09-02-2007,Alm.,393,5,Villa,132,2008,
+Vejrupsøvej 9 6893 Hemmet,9,1440000.0,08-02-2007,Fam.,14117,4,Stuehus,102,1912,
+Tangsigvej 1 6893 Hemmet,1,245000.0,06-02-2007,Fam.,1655,4,Stuehus,148,1919,
+Galgebjergevej 16 6893 Hemmet,16,4200000.0,06-02-2007,Fam.,25609,5,Stuehus,164,1940,
+Vester Fælled 90 6893 Hemmet,90,685730.0,06-02-2007,Fam.,15238,3,Sommerhus,45,1979,
+Strandvænget 14 6893 Hemmet,14,1145000.0,05-02-2007,Alm.,16838,4,Sommerhus,68,1996,-4 %
+Esbølvej 2 6893 Hemmet,2,465000.0,22-01-2007,Alm.,4043,4,Villa,115,1966,
+Rævekrogen 76 6893 Hemmet,76,535500.0,20-01-2007,Alm.,8778,2,Sommerhus,61,1973,
+Tues Drøwt 19 6893 Hemmet,19,838000.0,09-01-2007,Alm.,16760,3,Sommerhus,50,1979,
+Gl. Skolevej 20 6893 Hemmet,20,1110000.0,08-01-2007,Alm.,8102,4,Villa,137,1972,
+Kosigvænget 88 6893 Hemmet,88,700000.0,04-01-2007,Alm.,10769,4,Sommerhus,65,1972,-8 %
+Mosevænget 32 6893 Hemmet,32,625000.0,28-12-2006,Alm.,9765,4,Sommerhus,64,1978,
+Lyngbyvej 7 6893 Hemmet,7,600000.0,22-12-2006,Alm.,6593,4,Villa,91,1963,
+Vester Fælled 61 6893 Hemmet,61,1400000.0,21-12-2006,Fam.,0,5,Sommerhus,63,1977,
+Tarmvej 145 6893 Hemmet,145,597000.0,19-12-2006,Alm.,4557,4,Villa,131,1850,
+Horsfold 53 6893 Hemmet,53,798000.0,16-12-2006,Alm.,9388,3,Sommerhus,85,1994,
+Kosigvænget 78 6893 Hemmet,78,775000.0,13-12-2006,Alm.,12500,4,Sommerhus,62,1974,
+Anerbjergevej 42 6893 Hemmet,42,650000.0,11-12-2006,Alm.,5652,4,Villa,115,1870,
+Bork Hytteby 6 6893 Hemmet,6,190000.0,11-12-2006,Fam.,3958,3,Sommerhus,48,2009,
+Horsfold 123 6893 Hemmet,123,810000.0,11-12-2006,Alm.,12656,4,Sommerhus,64,1977,
+Rævekrogen 45 6893 Hemmet,45,995000.0,08-12-2006,Alm.,16311,4,Sommerhus,61,1974,
+Strandvænget 43 6893 Hemmet,43,1282000.0,07-12-2006,Alm.,17805,4,Sommerhus,72,2003,
+Ildervej 7 6893 Hemmet,7,550000.0,27-11-2006,Alm.,6395,4,Sommerhus,86,2002,
+Vejrupsøvej 4 6893 Hemmet,4,1013500.0,16-11-2006,Fam.,6455,6,Stuehus,157,1909,
+Sdr. Viumvej 4 6893 Hemmet,4,1025000.0,10-11-2006,Alm.,3700,7,Villa,277,1957,
+Esbølvej 41 6893 Hemmet,41,730000.0,02-11-2006,Alm.,3244,6,Villa,225,1940,
+Ildervej 12 6893 Hemmet,12,670000.0,01-11-2006,Alm.,9710,4,Sommerhus,69,1985,
+Ildervej 20 6893 Hemmet,20,1075000.0,24-10-2006,Alm.,13782,4,Sommerhus,78,2003,
+Mosevænget 25 6893 Hemmet,25,1050000.0,19-10-2006,Alm.,12352,4,Sommerhus,85,1980,
+Bellisvænget 5 6893 Hemmet,5,1380000.0,18-10-2006,Alm.,14226,4,Sommerhus,97,2006,
+Husfold 40 6893 Hemmet,40,675000.0,17-10-2006,Fam.,8035,4,Sommerhus,84,1968,
+Bork Hytteby 69 6893 Hemmet,69,730000.0,16-10-2006,Alm.,14600,3,Sommerhus,50,2002,
+Kornblomstvænget 14 6893 Hemmet,14,300000.0,08-10-2006,Alm.,3614,4,Sommerhus,83,2007,
+Esbølvej 25 6893 Hemmet,25,805000.0,05-10-2006,Alm.,7318,4,Villa,110,2003,
+Kornblomstvænget 3 6893 Hemmet,3,1300000.0,25-09-2006,Alm.,11111,4,Sommerhus,117,2007,
+Oblingvej 14 6893 Hemmet,14,694000.0,22-09-2006,Alm.,4155,4,Stuehus,167,1855,
+Blomstervænget 16 6893 Hemmet,16,290000.0,21-09-2006,Alm.,2900,4,Sommerhus,100,2008,
+Rylevænget 7 6893 Hemmet,7,980000.0,20-09-2006,Alm.,13611,4,Sommerhus,72,1972,
+Vester Fælled 176 6893 Hemmet,176,625000.0,11-09-2006,Alm.,13888,3,Sommerhus,45,1979,
+Vester Fælled 21 6893 Hemmet,21,1145000.0,09-09-2006,Alm.,14135,4,Sommerhus,81,1994,
+Horsfold 178 6893 Hemmet,178,1030000.0,08-09-2006,Alm.,16093,4,Sommerhus,64,1992,
+Rævekrogen 37 6893 Hemmet,37,768000.0,07-09-2006,Alm.,0,5,Sommerhus,98,1972,
+Lynevej 10 6893 Hemmet,10,566000.0,01-09-2006,Alm.,4131,5,Villa,137,1956,
+Tues Drøwt 38 6893 Hemmet,38,885000.0,30-08-2006,Alm.,13828,5,Sommerhus,64,1979,
+Østerhedevej 12 6893 Hemmet,12,645000.0,28-08-2006,Alm.,4813,4,Villa,134,1956,
+Fasanvænget 28 6893 Hemmet,28,600000.0,25-08-2006,Alm.,6250,4,Sommerhus,96,2005,
+Bork Hytteby 161A 6893 Hemmet,0,925000.0,24-08-2006,Alm.,18500,3,Sommerhus,50,1999,
+Vestergade 8 6893 Hemmet,8,1060000.0,21-08-2006,Alm.,2488,9,Villa,426,1930,
+Bork Hytteby 25 6893 Hemmet,25,680000.0,16-08-2006,Alm.,13600,4,Sommerhus,50,1996,
+Esbølvej 33 6893 Hemmet,33,361000.0,12-08-2006,Alm.,2865,5,Villa,126,1943,
+Linningvej 6 6893 Hemmet,6,585000.0,11-08-2006,Alm.,0,6,Sommerhus,74,1973,
+Gl. Landevej 42 6893 Hemmet,42,285000.0,11-08-2006,Alm.,2908,4,Villa,98,1918,
+Bork Hytteby 226 6893 Hemmet,226,745000.0,02-08-2006,Alm.,14900,4,Sommerhus,50,1984,
+Spurvevænget 1 6893 Hemmet,1,1090000.0,01-08-2006,Alm.,10792,4,Sommerhus,101,1998,
+Fasanvænget 17 6893 Hemmet,17,1295000.0,01-08-2006,Alm.,13080,5,Sommerhus,99,2005,
+Sdr. Viumvej 10 6893 Hemmet,10,665000.0,29-07-2006,Alm.,6855,4,Stuehus,97,1954,
+Horsfold 33 6893 Hemmet,33,865000.0,27-07-2006,Alm.,14661,4,Sommerhus,59,1989,
+Tarmvej 123 6893 Hemmet,123,200000.0,24-07-2006,Alm.,2469,3,Villa,81,1959,
+Nordmarken 20 6893 Hemmet,20,1170000.0,23-07-2006,Alm.,11037,5,Sommerhus,106,2005,
+Vester Fælled 24 6893 Hemmet,24,1348000.0,22-07-2006,Alm.,0,5,Sommerhus,87,1977,
+Kornblomstvænget 18 6893 Hemmet,18,1389000.0,14-07-2006,Alm.,11672,5,Sommerhus,119,2006,
+Esbølvej 28 6893 Hemmet,28,350000.0,13-07-2006,Fam.,4268,3,Villa,82,1948,
+Bork Hytteby 236 6893 Hemmet,236,320000.0,11-07-2006,Alm.,6400,3,Sommerhus,50,1996,
+Oblingvej 10 6893 Hemmet,10,1975000.0,10-07-2006,Alm.,7481,7,Stuehus,264,1976,
+Bellisvænget 12 6893 Hemmet,12,296220.0,07-07-2006,Alm.,3118,4,Sommerhus,95,2007,
+Husfold 10 6893 Hemmet,10,262000.0,06-07-2006,Alm.,2701,4,Sommerhus,97,2009,
+Fasanvænget 20 6893 Hemmet,20,82500.0,30-06-2006,Alm.,681,5,Sommerhus,121,2007,
+Horsfold 170 6893 Hemmet,170,1030000.0,29-06-2006,Alm.,10510,4,Sommerhus,98,1986,
+Tarmvej 162 6893 Hemmet,162,895000.0,28-06-2006,Alm.,6302,5,Villa,142,1918,
+Vester Fælled 126 6893 Hemmet,126,625000.0,24-06-2006,Alm.,14204,3,Sommerhus,44,1979,
+Stensagervej 4 6893 Hemmet,4,3200000.0,23-06-2006,Fam.,20382,5,Stuehus,157,1780,
+Duevænget 26 6893 Hemmet,26,290000.0,18-06-2006,Alm.,8285,2,Sommerhus,35,2011,
+Oblingvej 6 6893 Hemmet,6,2600000.0,16-06-2006,Fam.,22413,3,Stuehus,116,1878,
+Sønderbyvej 27 6893 Hemmet,27,1400000.0,16-06-2006,Alm.,6730,6,Villa,208,1880,
+Rævekrogen 43 6893 Hemmet,43,970000.0,14-06-2006,Alm.,15901,4,Sommerhus,61,1973,
+Midtbyvej 2 6893 Hemmet,2,885000.0,13-06-2006,Alm.,6459,5,Villa,137,1960,
+Duevænget 35 6893 Hemmet,35,1445000.0,12-06-2006,Alm.,12041,5,Sommerhus,120,2006,
+Bork Hytteby 147 6893 Hemmet,147,625000.0,12-06-2006,Alm.,12500,5,Sommerhus,50,2003,
+Strandvænget 33 6893 Hemmet,33,1200000.0,08-06-2006,Alm.,13043,3,Sommerhus,92,1996,
+Tues Drøwt 36 6893 Hemmet,36,770000.0,04-06-2006,Alm.,7938,5,Sommerhus,97,1978,
+Stråhatten 1 6893 Hemmet,1,220000.0,02-06-2006,Alm.,2222,4,Sommerhus,99,2012,
+Tarmvej 132 6893 Hemmet,132,1298000.0,02-06-2006,Alm.,7963,6,Stuehus,163,1900,
+Rævekrogen 58 6893 Hemmet,58,420000.0,02-06-2006,Alm.,6000,5,Sommerhus,70,1970,
+Tarmvej 178 6893 Hemmet,178,500000.0,01-06-2006,Alm.,3246,4,Villa,154,1930,
+Vester Fælled 88 6893 Hemmet,88,625000.0,01-06-2006,Alm.,13888,3,Sommerhus,45,1979,
+Blomstervænget 42 6893 Hemmet,42,225000.0,30-05-2006,Alm.,3409,3,Sommerhus,66,2008,
+Bork Hytteby 112 6893 Hemmet,112,445000.0,29-05-2006,Alm.,8725,2,Sommerhus,51,1995,
+Linningvej 3 6893 Hemmet,3,750000.0,23-05-2006,Alm.,11904,3,Sommerhus,63,1982,
+Møllegårdsvej 8 6893 Hemmet,8,460000.0,22-05-2006,Alm.,0,5,Villa,156,1950,
+Anerbjergevej 19 6893 Hemmet,19,480000.0,21-05-2006,Alm.,0,7,Stuehus,249,1885,
+Nordmarken 85 6893 Hemmet,85,1030000.0,19-05-2006,Alm.,11195,4,Sommerhus,92,2006,
+Kirkestrædet 6 6893 Hemmet,6,488329.0,18-05-2006,Fam.,3590,5,Villa,136,1960,
+Duevænget 37 6893 Hemmet,37,1340000.0,18-05-2006,Alm.,13958,4,Sommerhus,96,2005,
+Bork Hytteby 150 6893 Hemmet,150,700000.0,18-05-2006,Alm.,14000,3,Sommerhus,50,1984,
+Kosigvænget 71 6893 Hemmet,71,800000.0,16-05-2006,Alm.,9195,4,Sommerhus,87,1981,
+Bork Hytteby 117 6893 Hemmet,117,850000.0,16-05-2006,Alm.,17000,3,Sommerhus,50,2006,
+Lukkebjerg 11 6893 Hemmet,11,900000.0,14-05-2006,Alm.,8333,4,Sommerhus,108,2013,
+Husfold 5 6893 Hemmet,5,600000.0,11-05-2006,Alm.,6896,5,Sommerhus,87,1971,
+Anevej 3 6893 Hemmet,3,850000.0,08-05-2006,Alm.,11184,4,Sommerhus,76,1971,
+Horsfold 35 6893 Hemmet,35,1150000.0,04-05-2006,Alm.,13529,4,Sommerhus,85,1999,
+Vibevænget 21 6893 Hemmet,21,1190000.0,03-05-2006,Alm.,13678,4,Sommerhus,87,1999,
+Kirkehøjvej 16 6893 Hemmet,16,7860000.0,03-05-2006,Alm.,35727,5,Stuehus,220,1926,
+Kasketten 3 6893 Hemmet,3,900000.0,02-05-2006,Alm.,11250,5,Sommerhus,80,1971,
+Kirkehøjvej 38X 6893 Hemmet,0,620000.0,02-05-2006,Alm.,12156,3,Sommerhus,51,1980,
+Lukkebjerg 1 6893 Hemmet,1,476000.0,02-05-2006,Fam.,8654,3,Sommerhus,55,1969,
+Gl. Landevej 8 6893 Hemmet,8,340000.0,02-05-2006,Alm.,4594,3,Villa,74,1935,
+Strandvænget 39 6893 Hemmet,39,1485000.0,29-04-2006,Alm.,12478,5,Sommerhus,119,1996,
+Duevænget 34 6893 Hemmet,34,1242500.0,26-04-2006,Alm.,13653,4,Sommerhus,91,2006,
+Bellisvænget 14 6893 Hemmet,14,1043000.0,24-04-2006,Alm.,14486,4,Sommerhus,72,2007,
+Nordmarken 8 6893 Hemmet,8,1060000.0,22-04-2006,Alm.,14324,4,Sommerhus,74,2005,
+Bækager 4 6893 Hemmet,4,850000.0,20-04-2006,Alm.,4857,7,Villa,175,1979,
+Kornblomstvænget 4 6893 Hemmet,4,286220.0,20-04-2006,Alm.,3252,4,Sommerhus,88,2007,
+Bork Hytteby 111 6893 Hemmet,111,740000.0,19-04-2006,Alm.,14800,3,Sommerhus,50,1999,
+Kærvej 1 6893 Hemmet,1,1497320.0,12-04-2006,Alm.,9358,4,Stuehus,160,1850,
+Vester Fælled 140 6893 Hemmet,140,416500.0,10-04-2006,Fam.,9255,3,Sommerhus,45,1979,
+Lukkebjerg 20 6893 Hemmet,20,940000.0,09-04-2006,Alm.,0,3,Sommerhus,95,1969,
+Ranunkelvænget 10 6893 Hemmet,10,250000.0,05-04-2006,Alm.,3472,4,Sommerhus,72,2006,
+Vibevænget 18 6893 Hemmet,18,350000.0,04-04-2006,Alm.,3181,4,Sommerhus,110,2007,
+Ranunkelvænget 12 6893 Hemmet,12,895000.0,03-04-2006,Alm.,12430,4,Sommerhus,72,2006,
+Vester Fælled 18 6893 Hemmet,18,1000000.0,01-04-2006,Andet,0,5,Sommerhus,63,1977,
+Tinghøjvej 7 6893 Hemmet,7,760000.0,01-04-2006,Alm.,0,7,Villa,231,1957,
+Vester Fælled 198 6893 Hemmet,198,595000.0,31-03-2006,Alm.,13522,3,Sommerhus,44,1979,
+Nordenåvej 1 6893 Hemmet,1,9460000.0,30-03-2006,Alm.,47777,6,Stuehus,198,1981,
+Lundsgårdsvej 1 6893 Hemmet,1,2100000.0,28-03-2006,Alm.,10294,7,Stuehus,204,1969,
+Vester Fælled 136 6893 Hemmet,136,660000.0,28-03-2006,Alm.,15000,3,Sommerhus,44,1979,
+Kornblomstvænget 22 6893 Hemmet,22,1000000.0,27-03-2006,Alm.,13888,4,Sommerhus,72,2006,
+Husfold 17 6893 Hemmet,17,720000.0,24-03-2006,Alm.,12000,3,Sommerhus,60,1971,
+Bork Hytteby 208 6893 Hemmet,208,685000.0,23-03-2006,Alm.,13700,3,Sommerhus,50,1984,
+Tues Drøwt 22 6893 Hemmet,22,890000.0,23-03-2006,Alm.,12898,4,Sommerhus,69,1979,
+Nordmarken 75 6893 Hemmet,75,940000.0,21-03-2006,Alm.,14461,3,Sommerhus,65,2005,
+Bellisvænget 4 6893 Hemmet,4,1045000.0,20-03-2006,Alm.,14513,4,Sommerhus,72,2006,
+Duevænget 10 6893 Hemmet,10,1400000.0,20-03-2006,Alm.,13207,5,Sommerhus,106,2006,
+Vester Fælled 144 6893 Hemmet,144,600000.0,20-03-2006,Alm.,13636,3,Sommerhus,44,1979,
+Horsfold 17 6893 Hemmet,17,842500.0,16-03-2006,Alm.,11541,4,Sommerhus,73,1979,
+Bork Hytteby 94 6893 Hemmet,94,740000.0,15-03-2006,Alm.,14800,3,Sommerhus,50,1998,
+Sivskoen 2 6893 Hemmet,2,865000.0,12-03-2006,Alm.,16018,4,Sommerhus,54,1969,
+Esbølvej 18 6893 Hemmet,18,1110000.0,11-03-2006,Alm.,4977,7,Villa,223,1888,
+Tues Drøwt 86 6893 Hemmet,86,1399000.0,10-03-2006,Alm.,13990,6,Sommerhus,100,1979,
+Svanevænget 16 6893 Hemmet,16,695000.0,10-03-2006,Alm.,13113,3,Sommerhus,53,1973,
+Galgebjergevej 12 6893 Hemmet,12,10975000.0,08-03-2006,Alm.,71266,5,Stuehus,154,1908,
+Anevej 9 6893 Hemmet,9,675000.0,24-02-2006,Alm.,10887,3,Sommerhus,62,1971,
+Bork Hytteby 32 6893 Hemmet,32,1025000.0,20-02-2006,Alm.,20500,3,Sommerhus,50,1991,
+Bork Hytteby 272 6893 Hemmet,272,625000.0,18-02-2006,Alm.,12500,4,Sommerhus,50,1984,
+Stråhatten 3 6893 Hemmet,3,675000.0,17-02-2006,Alm.,8333,3,Sommerhus,81,1968,
+Kirkehøjvej 36M 6893 Hemmet,0,615000.0,15-02-2006,Alm.,12058,3,Sommerhus,51,1980,
+Bork Hytteby 14 6893 Hemmet,14,676000.0,15-02-2006,Alm.,14382,3,Sommerhus,47,1984,
+Tranevænget 13 6893 Hemmet,13,705000.0,15-02-2006,Alm.,12589,4,Sommerhus,56,1973,
+Vester Fælled 69 6893 Hemmet,69,1348000.0,13-02-2006,Alm.,13346,5,Sommerhus,101,1977,
+Bork Hytteby 158 6893 Hemmet,158,721650.0,06-02-2006,Alm.,14433,4,Sommerhus,50,1984,
+Lyngbyvej 3 6893 Hemmet,3,495000.0,03-02-2006,Alm.,7388,2,Villa,67,1941,
+Gl. Skolevej 2 6893 Hemmet,2,300000.0,27-01-2006,Alm.,3333,4,Villa,90,1966,
+Fasanvænget 35 6893 Hemmet,35,1150000.0,23-01-2006,Alm.,13529,4,Sommerhus,85,2006,
+Kosigvænget 84 6893 Hemmet,84,900000.0,18-01-2006,Alm.,13636,4,Sommerhus,66,1977,
+Bandsbølvej 24 6893 Hemmet,24,2600000.0,13-01-2006,Alm.,10878,6,Stuehus,239,1926,
+Lappedykkervænget 19 6893 Hemmet,19,770000.0,12-01-2006,Alm.,11323,3,Sommerhus,68,1972,
+Bork Hytteby 223 6893 Hemmet,223,135800.0,05-01-2006,Alm.,2716,3,Sommerhus,50,2006,
+Vester Vejrupvej 6 6893 Hemmet,6,515000.0,03-01-2006,Alm.,3759,4,Stuehus,137,1842,
+Bork Hytteby 23 6893 Hemmet,23,665000.0,26-12-2005,Alm.,13300,3,Sommerhus,50,1998,
+Skuldbølvej 2 6893 Hemmet,2,1150000.0,20-12-2005,Alm.,5778,7,Villa,199,1915,
+Beta 6 6893 Hemmet,6,433500.0,17-12-2005,Fam.,6568,4,Sommerhus,66,1975,
+Mosevænget 29 6893 Hemmet,29,550000.0,16-12-2005,Fam.,10000,3,Sommerhus,55,1975,
+Østerhedevej 4 6893 Hemmet,4,8168000.0,13-12-2005,Fam.,71026,5,Stuehus,115,1958,
+Bork Hytteby 175 6893 Hemmet,175,790000.0,30-11-2005,Alm.,15800,4,Sommerhus,50,1999,
+Oblingvej 24 6893 Hemmet,24,1095000.0,30-11-2005,Alm.,4719,8,Villa,232,1860,
+Horsfold 2 6893 Hemmet,2,690000.0,25-11-2005,Alm.,0,4,Sommerhus,100,1979,
+Horsfold 117 6893 Hemmet,117,880000.0,24-11-2005,Alm.,12054,4,Sommerhus,73,1980,
+Anerbjergevej 39 6893 Hemmet,39,5154000.0,22-11-2005,Fam.,26295,6,Stuehus,196,1890,
+Klydevænget 7 6893 Hemmet,7,1100000.0,22-11-2005,Alm.,11702,4,Sommerhus,94,2001,
+Fælledvej 3 6893 Hemmet,3,350000.0,21-11-2005,Alm.,1707,7,Stuehus,205,1924,
+Granvej 33 6893 Hemmet,33,550000.0,18-11-2005,Alm.,4230,4,Villa,130,1979,
+Tarmvej 226 6893 Hemmet,226,150000.0,17-11-2005,Alm.,1595,3,Rækkehus,94,1908,
+Damgårdsvej 6 6893 Hemmet,6,940000.0,11-11-2005,Alm.,3671,8,Villa,256,1973,
+Rævekrogen 18 6893 Hemmet,18,1100000.0,10-11-2005,Alm.,10576,5,Sommerhus,104,1985,
+Horsfold 8 6893 Hemmet,8,475000.0,20-10-2005,Alm.,0,5,Sommerhus,73,1995,
+Bork Hytteby 204 6893 Hemmet,204,685000.0,16-10-2005,Alm.,14891,4,Sommerhus,46,1997,
+Egernvej 31 6893 Hemmet,31,1075000.0,13-10-2005,Alm.,12500,4,Sommerhus,86,2002,
+Bork Hytteby 141 6893 Hemmet,141,810000.0,13-10-2005,Alm.,16200,3,Sommerhus,50,2005,
+Møllegårdsvej 6 6893 Hemmet,6,225000.0,12-10-2005,Alm.,2419,4,Villa,93,1950,
+Bork Hytteby 125 6893 Hemmet,125,675000.0,12-10-2005,Alm.,13500,3,Sommerhus,50,1997,
+Bork Hytteby 159 6893 Hemmet,159,750000.0,10-10-2005,Alm.,15000,3,Sommerhus,50,2002,
+Mågevænget 7 6893 Hemmet,7,745000.0,08-10-2005,Alm.,11287,4,Sommerhus,66,1972,
+Rævekrogen 72 6893 Hemmet,72,795000.0,03-10-2005,Alm.,13474,3,Sommerhus,59,1975,
+Lærkevænget 17 6893 Hemmet,17,280000.0,28-09-2005,Alm.,2616,5,Sommerhus,107,2006,
+Vester Fælled 112 6893 Hemmet,112,565000.0,28-09-2005,Alm.,12840,3,Sommerhus,44,1979,
+Vester Fælled 196 6893 Hemmet,196,587000.0,21-09-2005,Alm.,13340,3,Sommerhus,44,1979,
+Toftegårdsvej 4 6893 Hemmet,4,125000.0,16-09-2005,Alm.,838,6,Stuehus,149,1800,
+Tues Drøwt 28 6893 Hemmet,28,350000.0,12-09-2005,Andet,5000,4,Sommerhus,70,1985,
+Mosevænget 3 6893 Hemmet,3,675000.0,10-09-2005,Alm.,10384,4,Sommerhus,65,1974,
+Horsfold 69 6893 Hemmet,69,780000.0,05-09-2005,Alm.,10400,4,Sommerhus,75,1978,
+Bellisvænget 16 6893 Hemmet,16,285000.0,04-09-2005,Alm.,3166,4,Sommerhus,90,2009,
+Lappedykkervænget 22 6893 Hemmet,22,476000.0,01-09-2005,Fam.,5288,4,Sommerhus,90,2014,
+Fasanvænget 14 6893 Hemmet,14,220000.0,28-08-2005,Alm.,2200,4,Sommerhus,100,2011,
+Oblingvej 5 6893 Hemmet,5,625689.0,19-08-2005,Alm.,4812,3,Villa,130,1921,
+Bork Hytteby 207 6893 Hemmet,207,730000.0,18-08-2005,Alm.,14600,3,Sommerhus,50,1998,
+Anerbjergevej 26 6893 Hemmet,26,375000.0,18-08-2005,Alm.,4076,3,Villa,92,1951,
+Nørredige 16 6893 Hemmet,16,1506472.0,17-08-2005,Alm.,7608,6,Villa,198,1998,
+Bork Hytteby 88 6893 Hemmet,88,655000.0,09-08-2005,Alm.,13100,3,Sommerhus,50,1996,
+Fladhøjvej 10 6893 Hemmet,10,650000.0,04-08-2005,Alm.,3051,8,Villa,213,1875,
+Nordmarken 39 6893 Hemmet,39,1412000.0,04-08-2005,Alm.,13576,5,Sommerhus,104,2006,
+Tues Drøwt 14 6893 Hemmet,14,840000.0,25-07-2005,Alm.,0,5,Sommerhus,103,1979,
+Vestergade 7 6893 Hemmet,7,285000.0,15-07-2005,Alm.,3202,4,Villa,89,1988,
+Mågevænget 32 6893 Hemmet,32,925000.0,12-07-2005,Alm.,0,6,Sommerhus,122,1973,
+Skuldbølvej 8 6893 Hemmet,8,600000.0,12-07-2005,Alm.,3030,6,Villa,198,1900,
+Tarmvej 176 6893 Hemmet,176,380000.0,11-07-2005,Alm.,2714,5,Villa,140,1910,
+Lappedykkervænget 8 6893 Hemmet,8,788000.0,06-07-2005,Alm.,12709,4,Sommerhus,62,1972,
+Fælledvej 2 6893 Hemmet,2,362500.0,29-06-2005,Alm.,3737,3,Villa,97,1900,
+Strandvænget 12 6893 Hemmet,12,1455000.0,29-06-2005,Alm.,13857,5,Sommerhus,105,2002,
+Duevænget 40 6893 Hemmet,40,1398000.0,29-06-2005,Alm.,15886,4,Sommerhus,88,2005,
+Vester Fælled 120 6893 Hemmet,120,555000.0,29-06-2005,Alm.,12333,3,Sommerhus,45,1979,
+Bork Hytteby 166 6893 Hemmet,166,560000.0,29-06-2005,Alm.,11200,3,Sommerhus,50,1997,
+Svanevænget 8 6893 Hemmet,8,675000.0,26-06-2005,Alm.,10714,4,Sommerhus,63,1974,
+Tranevænget 6 6893 Hemmet,6,825000.0,25-06-2005,Alm.,8168,4,Sommerhus,101,1977,
+Husfold 8 6893 Hemmet,8,860000.0,24-06-2005,Alm.,7478,4,Sommerhus,115,1973,
+Duevænget 22 6893 Hemmet,22,296220.0,23-06-2005,Alm.,3022,5,Sommerhus,98,2006,
+Sydmarken 4 6893 Hemmet,4,248420.0,23-06-2005,Alm.,2791,4,Sommerhus,89,2006,
+Sydvesten 9 6893 Hemmet,9,510000.0,20-06-2005,Fam.,10851,3,Sommerhus,47,1970,
+Bandsbølvej 11 6893 Hemmet,11,350000.0,17-06-2005,Alm.,3431,5,Villa,102,1935,
+Tues Drøwt 58 6893 Hemmet,58,475000.0,16-06-2005,Alm.,4947,4,Sommerhus,96,1984,
+Tues Drøwt 72 6893 Hemmet,72,1100000.0,15-06-2005,Alm.,11458,4,Sommerhus,96,1995,
+Rævekrogen 31 6893 Hemmet,31,900000.0,09-06-2005,Alm.,10843,5,Sommerhus,83,1968,
+Horsfold 160 6893 Hemmet,160,1095000.0,06-06-2005,Alm.,11526,6,Sommerhus,95,1980,
+Tarmvej 151 6893 Hemmet,151,800000.0,03-06-2005,Alm.,5442,7,Villa,147,1900,
+Blomstervænget 12 6893 Hemmet,12,266220.0,01-06-2005,Alm.,2802,4,Sommerhus,95,2005,
+Tues Drøwt 44 6893 Hemmet,44,825000.0,01-06-2005,Alm.,12692,3,Sommerhus,65,1982,
+Duevænget 30 6893 Hemmet,30,1295000.0,01-06-2005,Alm.,14715,4,Sommerhus,88,2005,
+Anevej 1 6893 Hemmet,1,850000.0,30-05-2005,Alm.,10897,4,Sommerhus,78,1972,
+Bork Hytteby 188 6893 Hemmet,188,575000.0,27-05-2005,Alm.,11500,3,Sommerhus,50,1985,
+Bork Hytteby 26A 6893 Hemmet,0,895000.0,26-05-2005,Alm.,14916,2,Sommerhus,60,2005,
+Østerhedevej 6 6893 Hemmet,6,360000.0,26-05-2005,Alm.,2352,4,Stuehus,153,1956,
+Duevænget 33 6893 Hemmet,33,275000.0,23-05-2005,Alm.,2925,4,Sommerhus,94,2008,
+Bellisvænget 6 6893 Hemmet,6,266220.0,21-05-2005,Alm.,3858,4,Sommerhus,69,2006,
+Husfold 20 6893 Hemmet,20,895000.0,19-05-2005,Alm.,8950,4,Sommerhus,100,1977,
+Sønderbyvej 3 6893 Hemmet,3,305000.0,19-05-2005,Alm.,4765,2,Villa,64,1953,
+Horsfold 130 6893 Hemmet,130,625000.0,18-05-2005,Alm.,12019,3,Sommerhus,52,1977,
+Vagtelvænget 2 6893 Hemmet,2,795000.0,17-05-2005,Alm.,12421,4,Sommerhus,64,1972,
+Lærkevænget 14 6893 Hemmet,14,895000.0,14-05-2005,Alm.,14206,3,Sommerhus,63,1997,
+Hejrevænget 19 6893 Hemmet,19,575000.0,14-05-2005,Alm.,6117,6,Sommerhus,94,1972,
+Mågevænget 24 6893 Hemmet,24,775000.0,13-05-2005,Alm.,6798,8,Sommerhus,114,1977,
+Ildervej 4 6893 Hemmet,4,650000.0,12-05-2005,Alm.,6842,6,Sommerhus,95,1987,
+Beta 7 6893 Hemmet,7,549375.0,10-05-2005,Fam.,0,7,Sommerhus,97,1973,
+Gl. Landevej 39A 6893 Hemmet,0,450000.0,09-05-2005,Alm.,2777,2,Lejlighed,162,1913,
+Kirkehøjvej 38T 6893 Hemmet,0,575000.0,08-05-2005,Alm.,11274,3,Sommerhus,51,1980,
+Vester Fælled 164 6893 Hemmet,164,570000.0,08-05-2005,Alm.,12954,3,Sommerhus,44,1979,
+Vester Fælled 60 6893 Hemmet,60,795000.0,04-05-2005,Alm.,12619,5,Sommerhus,63,1977,
+Ildervej 5 6893 Hemmet,5,763000.0,03-05-2005,Alm.,13625,3,Sommerhus,56,2002,
+Horsfold 147 6893 Hemmet,147,795000.0,03-05-2005,Alm.,14454,3,Sommerhus,55,1993,
+Fasanvænget 6 6893 Hemmet,6,1265000.0,02-05-2005,Alm.,12281,4,Sommerhus,103,2004,
+Vibevænget 7 6893 Hemmet,7,895000.0,29-04-2005,Alm.,12260,4,Sommerhus,73,2004,
+Strandvænget 41 6893 Hemmet,41,1080000.0,28-04-2005,Alm.,14594,4,Sommerhus,74,1999,
+Nordmarken 40 6893 Hemmet,40,1245000.0,26-04-2005,Alm.,13244,4,Sommerhus,94,2005,
+Duevænget 14 6893 Hemmet,14,279220.0,25-04-2005,Alm.,2908,4,Sommerhus,96,2010,
+Husfold 24 6893 Hemmet,24,880000.0,23-04-2005,Alm.,12054,4,Sommerhus,73,1971,
+Gl. Landevej 7 6893 Hemmet,7,460000.0,21-04-2005,Alm.,3194,6,Villa,144,1916,
+Vester Fælled 168 6893 Hemmet,168,520000.0,21-04-2005,Alm.,11818,3,Sommerhus,44,1979,
+Vester Fælled 34 6893 Hemmet,34,770000.0,18-04-2005,Alm.,12222,5,Sommerhus,63,1977,
+Fasanvænget 3 6893 Hemmet,3,1200000.0,17-04-2005,Alm.,12121,4,Sommerhus,99,2005,
+Tranevænget 19 6893 Hemmet,19,650000.0,17-04-2005,Alm.,0,3,Sommerhus,69,1973,
+Bork Hytteby 41 6893 Hemmet,41,650000.0,14-04-2005,Alm.,13000,3,Sommerhus,50,1997,
+Vester Fælled 202 6893 Hemmet,202,555000.0,10-04-2005,Fam.,12333,3,Sommerhus,45,1979,
+Bork Hytteby 2E 6893 Hemmet,0,675000.0,08-04-2005,Alm.,13500,2,Sommerhus,50,1995,
+Rylevænget 10 6893 Hemmet,10,680000.0,04-04-2005,Alm.,10149,5,Sommerhus,67,1973,
+Horsfold 132 6893 Hemmet,132,895000.0,04-04-2005,Alm.,13984,3,Sommerhus,64,1989,
+Anerbjergevej 17 6893 Hemmet,17,375000.0,29-03-2005,Fam.,3640,4,Villa,103,1960,
+Bork Hytteby 97 6893 Hemmet,97,575000.0,29-03-2005,Alm.,11500,3,Sommerhus,50,1998,
+Østerhedevej 5 6893 Hemmet,5,925000.0,29-03-2005,Alm.,3530,9,Stuehus,262,1956,
+Blomstervænget 30 6893 Hemmet,30,200000.0,28-03-2005,Alm.,1869,4,Sommerhus,107,2006,
+Tarmvej 131 6893 Hemmet,131,440000.0,27-03-2005,Fam.,3492,5,Villa,126,1956,
+Bork Hytteby 131 6893 Hemmet,131,670000.0,27-03-2005,Alm.,13400,3,Sommerhus,50,1998,
+Bork Hytteby 53 6893 Hemmet,53,675000.0,23-03-2005,Alm.,13500,3,Sommerhus,50,1999,
+Bandsbølvej 45 6893 Hemmet,45,2475000.0,21-03-2005,Alm.,17068,6,Stuehus,145,1850,
+Rævekrogen 25 6893 Hemmet,25,950000.0,20-03-2005,Alm.,15833,4,Sommerhus,60,1978,
+Duevænget 5 6893 Hemmet,5,1300000.0,18-03-2005,Alm.,13131,5,Sommerhus,99,2005,
+Kirkehøjvej 40M 6893 Hemmet,0,545000.0,12-03-2005,Alm.,10686,3,Sommerhus,51,1980,
+Svanevænget 11 6893 Hemmet,11,610000.0,10-03-2005,Alm.,7922,4,Sommerhus,77,1972,
+Kornblomstvænget 1 6893 Hemmet,1,245000.0,09-03-2005,Alm.,3141,4,Sommerhus,78,2007,
+Gl. Landevej 45 6893 Hemmet,45,420000.0,07-03-2005,Alm.,2485,6,Villa,169,1930,
+Vibevænget 19 6893 Hemmet,19,995000.0,02-03-2005,Alm.,11306,4,Sommerhus,88,2002,
+Kornblomstvænget 9 6893 Hemmet,9,201420.0,01-03-2005,Alm.,2342,4,Sommerhus,86,2006,
+Nr. Lydumvej 11 6893 Hemmet,11,277000.0,25-02-2005,Alm.,2429,3,Villa,114,1865,
+Jollen 3 6893 Hemmet,3,1500000.0,21-02-2005,Alm.,9316,4,Villa,161,1996,
+Lærkevænget 9 6893 Hemmet,9,870000.0,21-02-2005,Alm.,13809,3,Sommerhus,63,1998,
+Tues Drøwt 24 6893 Hemmet,24,300000.0,20-02-2005,Alm.,3000,4,Sommerhus,100,2006,
+Lærkevænget 2 6893 Hemmet,2,895000.0,20-02-2005,Alm.,11933,3,Sommerhus,75,2000,
+Kosigvænget 64 6893 Hemmet,64,895000.0,18-02-2005,Alm.,9944,4,Sommerhus,90,1977,
+Vester Fælled 190 6893 Hemmet,190,530000.0,17-02-2005,Alm.,11777,3,Sommerhus,45,1979,
+Bork Hytteby 12 6893 Hemmet,12,495000.0,16-02-2005,Alm.,9900,4,Sommerhus,50,1983,
+Duevænget 16 6893 Hemmet,16,192000.0,16-02-2005,Alm.,1215,5,Sommerhus,158,2005,
+Ranunkelvænget 14 6893 Hemmet,14,275000.0,15-02-2005,Alm.,3125,4,Sommerhus,88,2011,
+Kirkehøjvej 38C 6893 Hemmet,0,560000.0,11-02-2005,Alm.,10980,3,Sommerhus,51,1980,
+Tues Drøwt 9 6893 Hemmet,9,460000.0,08-02-2005,Andet,6666,4,Sommerhus,69,1979,
+Duevænget 19 6893 Hemmet,19,221420.0,03-02-2005,Alm.,2259,5,Sommerhus,98,2005,
+Vester Fælled 44 6893 Hemmet,44,800000.0,03-02-2005,Alm.,0,5,Sommerhus,70,1977,
+Øster Vejrupvej 10 6893 Hemmet,10,330000.0,02-02-2005,Alm.,1416,8,Stuehus,233,1939,
+Lappedykkervænget 33 6893 Hemmet,33,593000.0,27-01-2005,Alm.,12354,3,Sommerhus,48,1972,
+Delta 7 6893 Hemmet,7,362500.0,26-01-2005,Andet,4965,5,Sommerhus,73,1973,
+Nordmarken 36 6893 Hemmet,36,190000.0,24-01-2005,Alm.,1696,4,Sommerhus,112,2005,
+Husfold 47 6893 Hemmet,47,950000.0,21-01-2005,Alm.,13194,4,Sommerhus,72,1970,
+Ranunkelvænget 5 6893 Hemmet,5,220000.0,18-01-2005,Alm.,2291,4,Sommerhus,96,2006,
+Vester Fælled 146 6893 Hemmet,146,545000.0,14-01-2005,Alm.,12386,3,Sommerhus,44,1979,
+Toftegårdsvej 8 6893 Hemmet,8,740000.0,08-01-2005,Alm.,4567,7,Villa,162,1930,
+Vejrupsøvej 1 6893 Hemmet,1,1200000.0,05-01-2005,Alm.,0,7,Stuehus,362,1946,
+Kirkehøjvej 28 6893 Hemmet,28,140000.0,03-01-2005,Alm.,725,7,Villa,193,1977,
+Fasanvænget 29 6893 Hemmet,29,47855.0,28-12-2004,Fam.,543,4,Sommerhus,88,2006,
+Sydvesten 2 6893 Hemmet,2,1000000.0,18-12-2004,Alm.,14084,4,Sommerhus,71,1966,
+Tarmvej 166 6893 Hemmet,166,330000.0,17-12-2004,Alm.,4400,3,Villa,75,1955,
+Møllegårdsvej 3 6893 Hemmet,3,950000.0,17-12-2004,Alm.,4094,7,Villa,232,1975,
+Vester Fælled 182 6893 Hemmet,182,552418.0,17-12-2004,Alm.,12554,3,Sommerhus,44,1979,
+Vejrupsøvej 8 6893 Hemmet,8,3600000.0,15-12-2004,Alm.,21301,5,Stuehus,169,1931,
+Midtbyvej 9 6893 Hemmet,9,295000.0,14-12-2004,Alm.,3933,3,Villa,75,1955,
+Kirkehøjvej 38S 6893 Hemmet,0,500000.0,10-12-2004,Alm.,9803,3,Sommerhus,51,1980,
+Tarmvej 254 6893 Hemmet,254,1250000.0,09-12-2004,Alm.,7575,5,Villa,165,2001,
+Bandsbølvej 1 6893 Hemmet,1,725000.0,08-12-2004,Alm.,3553,5,Villa,204,1850,
+Esbølvej 17 6893 Hemmet,17,405000.0,08-12-2004,Alm.,0,4,Villa,136,1923,
+Fasanvænget 15 6893 Hemmet,15,1375000.0,08-12-2004,Alm.,12731,4,Sommerhus,108,2004,
+Bork Hytteby 115 6893 Hemmet,115,635000.0,28-11-2004,Alm.,12700,3,Sommerhus,50,2001,
+Skuldbølvej 1 6893 Hemmet,1,5900000.0,28-11-2004,Alm.,34911,5,Stuehus,169,1914,
+Kirkehøjvej 38E 6893 Hemmet,0,530000.0,27-11-2004,Alm.,10392,3,Sommerhus,51,1980,
+Bork Hytteby 256 6893 Hemmet,256,477000.0,23-11-2004,Alm.,10600,4,Sommerhus,45,1984,
+Mågevænget 30 6893 Hemmet,30,400000.0,21-11-2004,Fam.,7407,4,Sommerhus,54,1974,
+Kosigvænget 22 6893 Hemmet,22,715000.0,14-11-2004,Alm.,10214,4,Sommerhus,70,1974,
+Kirkehøjvej 36K 6893 Hemmet,0,550000.0,13-11-2004,Alm.,10784,3,Sommerhus,51,1980,
+Vester Fælled 80 6893 Hemmet,80,533000.0,11-11-2004,Alm.,12113,3,Sommerhus,44,1979,
+Bork Hytteby 211 6893 Hemmet,211,638000.0,05-11-2004,Alm.,12760,3,Sommerhus,50,1997,
+Bork Hytteby 231 6893 Hemmet,231,749900.0,02-11-2004,Alm.,15304,3,Sommerhus,49,1997,
+Duevænget 54 6893 Hemmet,54,200000.0,31-10-2004,Alm.,2222,4,Sommerhus,90,2005,
+Nordmarken 12 6893 Hemmet,12,17500.0,23-10-2004,Fam.,175,4,Sommerhus,100,2005,
+Gamma 1 6893 Hemmet,1,475000.0,19-10-2004,Alm.,7661,4,Sommerhus,62,1972,
+Bork Hytteby 185 6893 Hemmet,185,130000.0,18-10-2004,Alm.,2954,2,Sommerhus,44,2006,
+Vestervang 19 6893 Hemmet,19,635000.0,12-10-2004,Alm.,4535,4,Villa,140,1974,
+Bjerregårdsvej 4 6893 Hemmet,4,1180000.0,12-10-2004,Alm.,6082,4,Villa,194,1956,
+Gl. Landevej 28 6893 Hemmet,28,470000.0,11-10-2004,Alm.,3533,4,Villa,133,1971,
+Nordmarken 14 6893 Hemmet,14,190000.0,08-10-2004,Alm.,1532,4,Sommerhus,124,2007,
+Lærkevænget 24 6893 Hemmet,24,1144000.0,01-10-2004,Alm.,14857,4,Sommerhus,77,2000,
+Vester Fælled 52 6893 Hemmet,52,598000.0,25-09-2004,Alm.,9492,5,Sommerhus,63,1977,
+Strandvænget 17 6893 Hemmet,17,1095000.0,16-09-2004,Alm.,12443,5,Sommerhus,88,1996,
+Bækager 6 6893 Hemmet,6,700000.0,25-08-2004,Alm.,5343,5,Villa,131,1979,
+Tinghøjvej 6 6893 Hemmet,6,458285.0,19-08-2004,Alm.,3394,6,Stuehus,135,1956,
+Rævekrogen 66 6893 Hemmet,66,750000.0,18-08-2004,Alm.,10714,4,Sommerhus,70,1973,
+Bork Hytteby 195 6893 Hemmet,195,595000.0,13-08-2004,Alm.,11900,3,Sommerhus,50,1998,
+Kosigvænget 45 6893 Hemmet,45,550000.0,12-08-2004,Alm.,8333,4,Sommerhus,66,1974,
+Vester Fælled 104 6893 Hemmet,104,315000.0,12-08-2004,Fam.,7000,3,Sommerhus,45,1979,
+Kirkehøjvej 40E 6893 Hemmet,0,540000.0,10-08-2004,Alm.,10588,3,Sommerhus,51,1980,
+Horsfold 163 6893 Hemmet,163,707355.0,10-08-2004,Alm.,13346,3,Sommerhus,53,1977,
+Kirkehøjvej 40J 6893 Hemmet,0,540000.0,03-08-2004,Alm.,10384,3,Sommerhus,52,1980,
+Bork Hytteby 58 6893 Hemmet,58,500000.0,03-08-2004,Alm.,10000,3,Sommerhus,50,1985,
+Bork Hytteby 26E 6893 Hemmet,0,300000.0,26-07-2004,Alm.,5000,2,Sommerhus,60,2005,
+Kosigvænget 100 6893 Hemmet,100,900000.0,25-07-2004,Alm.,8256,4,Sommerhus,109,1997,
+Bork Hytteby 178 6893 Hemmet,178,465000.0,22-07-2004,Alm.,9300,4,Sommerhus,50,1984,
+Bork Hytteby 240 6893 Hemmet,240,495000.0,20-07-2004,Alm.,11000,4,Sommerhus,45,1984,
+Vibevænget 5 6893 Hemmet,5,1200000.0,16-07-2004,Alm.,11009,5,Sommerhus,109,2000,
+Kirkehøjvej 15 6893 Hemmet,15,1080000.0,15-07-2004,Alm.,7152,6,Villa,151,1977,
+Rævekrogen 56 6893 Hemmet,56,450000.0,15-07-2004,Alm.,4368,8,Sommerhus,103,1970,
+Kasketten 1 6893 Hemmet,1,767893.0,08-07-2004,Alm.,8256,6,Sommerhus,93,1972,
+Kosigvænget 60 6893 Hemmet,60,998000.0,04-07-2004,Fam.,11471,4,Sommerhus,87,1996,
+Kosigvænget 67 6893 Hemmet,67,500000.0,04-07-2004,Alm.,9803,3,Sommerhus,51,1973,
+Fasanvænget 18 6893 Hemmet,18,1200000.0,29-06-2004,Alm.,12500,4,Sommerhus,96,2004,
+Borbjergvej 2 6893 Hemmet,2,745000.0,27-06-2004,Alm.,4005,5,Villa,186,1922,
+Kosigvænget 74 6893 Hemmet,74,775000.0,24-06-2004,Alm.,8707,4,Sommerhus,89,1977,
+Linningvej 12 6893 Hemmet,12,176495.0,23-06-2004,Alm.,2451,4,Sommerhus,72,1973,
+Gl. Skolevej 6 6893 Hemmet,6,295000.0,22-06-2004,Alm.,3206,3,Villa,92,1952,
+Fasanvænget 12 6893 Hemmet,12,191420.0,18-06-2004,Alm.,2518,4,Sommerhus,76,2004,
+Kosigvænget 37 6893 Hemmet,37,550000.0,17-06-2004,Alm.,8593,4,Sommerhus,64,1980,
+Ildervej 2 6893 Hemmet,2,595000.0,17-06-2004,Alm.,11900,3,Sommerhus,50,1996,
+Bork Hytteby 68 6893 Hemmet,68,300000.0,14-06-2004,Alm.,7692,2,Sommerhus,39,1985,
+Kosigvænget 19 6893 Hemmet,19,535000.0,09-06-2004,Alm.,7133,5,Sommerhus,75,1975,
+Mågevænget 27 6893 Hemmet,27,1075000.0,09-06-2004,Alm.,12951,4,Sommerhus,83,1999,
+Bork Hytteby 26D 6893 Hemmet,0,300000.0,09-06-2004,Alm.,5000,2,Sommerhus,60,2004,
+Vagtelvænget 4 6893 Hemmet,4,575000.0,09-06-2004,Alm.,8846,3,Sommerhus,65,1972,
+Horsfold 34 6893 Hemmet,34,880000.0,07-06-2004,Alm.,10602,4,Sommerhus,83,1984,
+Husfold 49 6893 Hemmet,49,375000.0,04-06-2004,Alm.,3865,4,Sommerhus,97,2004,
+Duevænget 27 6893 Hemmet,27,170000.0,03-06-2004,Alm.,1666,4,Sommerhus,102,2005,
+Bork Hytteby 229 6893 Hemmet,229,580000.0,02-06-2004,Alm.,11600,3,Sommerhus,50,1997,
+Strandvænget 10 6893 Hemmet,10,995000.0,02-06-2004,Alm.,12134,3,Sommerhus,82,1996,
+Møgelgårdvej 1 6893 Hemmet,1,665000.0,02-06-2004,Alm.,5833,4,Villa,114,1900,
+Bork Hytteby 60 6893 Hemmet,60,535000.0,02-06-2004,Alm.,10700,3,Sommerhus,50,1996,
+Duevænget 31 6893 Hemmet,31,178000.0,01-06-2004,Alm.,1575,4,Sommerhus,113,2005,
+Bork Hytteby 95 6893 Hemmet,95,575000.0,01-06-2004,Alm.,11500,3,Sommerhus,50,1999,
+Esbølvej 11 6893 Hemmet,11,169000.0,31-05-2004,Auktion,1625,5,Villa,104,1936,
+Nordmarken 63 6893 Hemmet,63,190000.0,30-05-2004,Alm.,1979,4,Sommerhus,96,2005,
+Kasketten 2 6893 Hemmet,2,585000.0,28-05-2004,Alm.,0,4,Sommerhus,96,1972,
+Lappedykkervænget 31 6893 Hemmet,31,495000.0,15-05-2004,Alm.,8250,3,Sommerhus,60,1972,
+Horsfold 113 6893 Hemmet,113,685000.0,14-05-2004,Alm.,12685,3,Sommerhus,54,1977,
+Fjordnær Hovedvej 2 6893 Hemmet,2,485000.0,13-05-2004,Alm.,8508,4,Sommerhus,57,1972,
+Rævekrogen 19 6893 Hemmet,19,292500.0,12-05-2004,Alm.,4239,4,Sommerhus,69,1969,
+Horsfold 43 6893 Hemmet,43,810000.0,08-05-2004,Alm.,10519,4,Sommerhus,77,1992,
+Nordmarken 24 6893 Hemmet,24,170000.0,07-05-2004,Alm.,1910,4,Sommerhus,89,2006,
+Kirkehøjvej 38Y 6893 Hemmet,0,525000.0,05-05-2004,Alm.,10294,3,Sommerhus,51,1980,
+Rævekrogen 86 6893 Hemmet,86,565000.0,05-05-2004,Alm.,7635,3,Sommerhus,74,1970,
+Bork Hytteby 113 6893 Hemmet,113,530000.0,04-05-2004,Alm.,10600,3,Sommerhus,50,2004,
+Vester Fælled 106 6893 Hemmet,106,485000.0,30-04-2004,Alm.,10777,3,Sommerhus,45,1979,
+Bork Hytteby 247 6893 Hemmet,247,595000.0,29-04-2004,Alm.,11900,3,Sommerhus,50,1998,
+Vester Vejrupvej 7 6893 Hemmet,7,80000.0,29-04-2004,Alm.,346,8,Stuehus,231,1872,
+Egernvej 21 6893 Hemmet,21,68000.0,27-04-2004,Alm.,918,4,Sommerhus,74,2009,
+Bandsbølvej 19 6893 Hemmet,19,218500.0,26-04-2004,Fam.,1693,5,Villa,129,1900,
+Fasanvænget 39 6893 Hemmet,39,171420.0,26-04-2004,Alm.,2197,4,Sommerhus,78,2004,
+Kosigvænget 33 6893 Hemmet,33,895000.0,25-04-2004,Alm.,11329,5,Sommerhus,79,1979,
+Bork Hytteby 82 6893 Hemmet,82,495000.0,23-04-2004,Alm.,10531,3,Sommerhus,47,1996,
+Støvlen 7 6893 Hemmet,7,290011.0,20-04-2004,Alm.,5000,3,Sommerhus,58,1969,
+Duevænget 47 6893 Hemmet,47,165000.0,12-04-2004,Alm.,2088,4,Sommerhus,79,2008,
+Kosigvænget 61 6893 Hemmet,61,810000.0,10-04-2004,Alm.,8437,4,Sommerhus,96,1977,
+Duevænget 18 6893 Hemmet,18,178000.0,09-04-2004,Alm.,1679,5,Sommerhus,106,2006,
+Rævekrogen 29 6893 Hemmet,29,255000.0,07-04-2004,Fam.,2524,5,Sommerhus,101,1970,
+Lærkevænget 26 6893 Hemmet,26,185290.0,05-04-2004,Alm.,1798,5,Sommerhus,103,2011,
+Horsfold 48 6893 Hemmet,48,200000.0,05-04-2004,Alm.,2597,4,Sommerhus,77,2004,
+Bork Hytteby 191 6893 Hemmet,191,495000.0,05-04-2004,Alm.,9900,3,Sommerhus,50,1998,
+Bækager 5 6893 Hemmet,5,775000.0,31-03-2004,Alm.,3817,8,Villa,203,1980,
+Spurvevænget 17 6893 Hemmet,17,798000.0,31-03-2004,Alm.,10931,4,Sommerhus,73,1998,
+Bækager 1 6893 Hemmet,1,565000.0,29-03-2004,Alm.,3192,6,Villa,177,1942,
+Mågevænget 19 6893 Hemmet,19,525000.0,27-03-2004,Alm.,8750,4,Sommerhus,60,1973,
+Bork Hytteby 176 6893 Hemmet,176,475000.0,24-03-2004,Alm.,9500,3,Sommerhus,50,1986,
+Duevænget 3 6893 Hemmet,3,165000.0,23-03-2004,Alm.,1755,4,Sommerhus,94,2005,
+Midtbyvej 1 6893 Hemmet,1,580000.0,23-03-2004,Alm.,3005,8,Villa,193,1956,
+Tranevænget 1 6893 Hemmet,1,870000.0,21-03-2004,Alm.,10609,4,Sommerhus,82,2002,
+Bork Hytteby 181 6893 Hemmet,181,563000.0,17-03-2004,Alm.,11260,3,Sommerhus,50,1998,
+Horsfold 171 6893 Hemmet,171,200000.0,15-03-2004,Fam.,3333,4,Sommerhus,60,1977,
+Duevænget 11 6893 Hemmet,11,165000.0,10-03-2004,Alm.,1755,4,Sommerhus,94,2006,
+Stråhatten 10 6893 Hemmet,10,550000.0,10-03-2004,Alm.,7971,4,Sommerhus,69,1969,
+Esbølvej 40 6893 Hemmet,40,733500.0,08-03-2004,Alm.,5963,4,Villa,123,1942,
+Mosegårdsvej 3 6893 Hemmet,3,900000.0,08-03-2004,Alm.,6870,5,Stuehus,131,1928,
+Kosigvænget 25 6893 Hemmet,25,485000.0,07-03-2004,Alm.,7698,4,Sommerhus,63,1973,
+Duevænget 17 6893 Hemmet,17,165000.0,07-03-2004,Alm.,1259,5,Sommerhus,131,2005,
+Fasanvænget 27 6893 Hemmet,27,145000.0,03-03-2004,Alm.,1380,5,Sommerhus,105,2006,
+Holmvej 2 6893 Hemmet,2,985000.0,26-02-2004,Alm.,5564,6,Villa,177,1870,
+Fasanvænget 5 6893 Hemmet,5,150000.0,24-02-2004,Alm.,1595,4,Sommerhus,94,2005,
+Fasanvænget 16 6893 Hemmet,16,150000.0,24-02-2004,Alm.,1764,4,Sommerhus,85,2005,
+Fasanvænget 24 6893 Hemmet,24,150000.0,24-02-2004,Alm.,2054,3,Sommerhus,73,2005,
+Fasanvænget 26 6893 Hemmet,26,150000.0,24-02-2004,Alm.,1293,4,Sommerhus,116,2006,
+Fasanvænget 31 6893 Hemmet,31,100000.0,24-02-2004,Alm.,1098,4,Sommerhus,91,2006,
+Fasanvænget 33 6893 Hemmet,33,150000.0,24-02-2004,Alm.,1000,6,Sommerhus,150,2005,
+Vester Fælled 216 6893 Hemmet,216,485000.0,22-02-2004,Alm.,11022,3,Sommerhus,44,1979,
+Duevænget 7 6893 Hemmet,7,165000.0,19-02-2004,Alm.,1683,5,Sommerhus,98,2004,
+Kosigvænget 38 6893 Hemmet,38,500000.0,16-02-2004,Alm.,7246,3,Sommerhus,69,1977,
+Tarmvej 183A 6893 Hemmet,0,568000.0,16-02-2004,Alm.,4086,4,Villa,139,1915,
+Strandvænget 32 6893 Hemmet,32,1195000.0,16-02-2004,Alm.,12070,4,Sommerhus,99,2002,
+Husfold 7 6893 Hemmet,7,550000.0,12-02-2004,Alm.,6626,4,Sommerhus,83,1978,
+Vester Fælled 14 6893 Hemmet,14,680000.0,09-02-2004,Alm.,0,5,Sommerhus,82,1977,
+Duevænget 39 6893 Hemmet,39,165000.0,06-02-2004,Alm.,1833,4,Sommerhus,90,2005,
+Mågevænget 11 6893 Hemmet,11,600000.0,05-02-2004,Alm.,9523,3,Sommerhus,63,1973,
+Oblingvej 18 6893 Hemmet,18,670000.0,03-02-2004,Alm.,4187,3,Villa,160,1826,
+Mosevænget 35 6893 Hemmet,35,440000.0,03-02-2004,Alm.,8148,4,Sommerhus,54,1973,
+Sivskoen 7 6893 Hemmet,7,1600000.0,28-01-2004,Alm.,16326,5,Sommerhus,98,1997,
+Bandsbølvej 9 6893 Hemmet,9,525000.0,22-01-2004,Fam.,4565,4,Villa,115,1969,
+Kosigvænget 13 6893 Hemmet,13,430000.0,22-01-2004,Alm.,8958,3,Sommerhus,48,1973,
+Vester Vejrupvej 1 6893 Hemmet,1,900000.0,16-01-2004,Alm.,4639,6,Villa,194,1919,
+Bjerregårdsvej 9 6893 Hemmet,9,7813976.0,14-01-2004,Andet,48234,4,Stuehus,162,1954,
+Tinghøjvej 13 6893 Hemmet,13,14211414.0,14-01-2004,Andet,103732,5,Stuehus,137,1955,
+Lærkevænget 15 6893 Hemmet,15,800000.0,13-01-2004,Alm.,10389,4,Sommerhus,77,2000,
+Horsfold 107 6893 Hemmet,107,615000.0,12-01-2004,Alm.,10423,4,Sommerhus,59,1989,
+Lærkevænget 3 6893 Hemmet,3,690000.0,01-01-2004,Alm.,10000,3,Sommerhus,69,2003,
+Rævekrogen 88 6893 Hemmet,88,660000.0,29-12-2003,Alm.,7252,4,Sommerhus,91,1991,
+Horsfold 38 6893 Hemmet,38,170000.0,22-12-2003,Alm.,1700,4,Sommerhus,100,2006,
+Vester Fælled 46 6893 Hemmet,46,600000.0,19-12-2003,Alm.,0,6,Sommerhus,82,1977,
+Houmvej 1 6893 Hemmet,1,510000.0,15-12-2003,Alm.,0,8,Villa,213,1870,
+Gundesbølvej 11 6893 Hemmet,11,1100000.0,10-12-2003,Fam.,9090,3,Stuehus,121,1924,
+Tues Drøwt 48 6893 Hemmet,48,550000.0,05-12-2003,Alm.,7142,4,Sommerhus,77,1979,
+Lærkevænget 34 6893 Hemmet,34,1035000.0,05-12-2003,Alm.,8414,4,Sommerhus,123,2004,
+Rævekrogen 78 6893 Hemmet,78,250000.0,01-12-2003,Fam.,3571,4,Sommerhus,70,1975,
+Egernvej 23 6893 Hemmet,23,761000.0,27-11-2003,Alm.,7927,4,Sommerhus,96,1994,
+Tranevænget 23 6893 Hemmet,23,385000.0,27-11-2003,Alm.,3104,5,Sommerhus,124,2005,
+Delta 16 6893 Hemmet,16,450000.0,25-11-2003,Fam.,5357,4,Sommerhus,84,1974,
+Bjerregårdsvej 1 6893 Hemmet,1,5300000.0,13-11-2003,Alm.,27894,7,Stuehus,190,1970,
+Husfold 15 6893 Hemmet,15,375000.0,07-11-2003,Alm.,5067,3,Sommerhus,74,1971,
+Bork Hytteby 230 6893 Hemmet,230,152576.0,07-11-2003,Andet,3051,4,Sommerhus,50,1984,
+Lærkevænget 7 6893 Hemmet,7,660000.0,05-11-2003,Alm.,0,3,Sommerhus,75,1997,
+Bryggen 16 6893 Hemmet,16,900000.0,04-11-2003,Fam.,10000,7,Detailhandel,90,1980,
+Horsfold 73 6893 Hemmet,73,500000.0,30-10-2003,Alm.,7142,4,Sommerhus,70,1977,
+Vibevænget 17 6893 Hemmet,17,155000.0,28-10-2003,Alm.,1504,3,Sommerhus,103,2004,
+Horsfold 36 6893 Hemmet,36,675000.0,20-10-2003,Alm.,9507,4,Sommerhus,71,1984,
+Hejrevænget 2 6893 Hemmet,2,490000.0,16-10-2003,Alm.,7000,4,Sommerhus,70,1972,
+Ildervej 30 6893 Hemmet,30,450586.0,03-10-2003,Alm.,7152,4,Sommerhus,63,1987,
+Mosevænget 13 6893 Hemmet,13,400000.0,03-10-2003,Alm.,6349,4,Sommerhus,63,1974,
+Midtbyvej 23 6893 Hemmet,23,313388.0,03-10-2003,Alm.,2487,4,Villa,126,1912,
+Lappedykkervænget 11 6893 Hemmet,11,485000.0,30-09-2003,Alm.,7461,3,Sommerhus,65,1972,
+Bork Hytteby 212 6893 Hemmet,212,515000.0,28-09-2003,Alm.,10300,3,Sommerhus,50,1984,
+Svanevænget 6 6893 Hemmet,6,350000.0,28-09-2003,Fam.,0,4,Sommerhus,70,1973,
+Strandvænget 6 6893 Hemmet,6,220000.0,25-09-2003,Alm.,1705,4,Sommerhus,129,2005,
+Rylevænget 15 6893 Hemmet,15,530000.0,21-09-2003,Alm.,7681,4,Sommerhus,69,1975,
+Horsfold 78 6893 Hemmet,78,735000.0,21-09-2003,Alm.,9932,4,Sommerhus,74,1994,
+Horsfold 57 6893 Hemmet,57,525000.0,20-09-2003,Alm.,8203,4,Sommerhus,64,1977,
+Kirkehøjvej 40D 6893 Hemmet,0,450000.0,12-09-2003,Alm.,8823,3,Sommerhus,51,1980,
+Vibevænget 11 6893 Hemmet,11,155000.0,11-09-2003,Alm.,1230,5,Sommerhus,126,2005,
+Sønderbyvej 6 6893 Hemmet,6,555000.0,10-09-2003,Alm.,3881,5,Villa,143,1927,
+Oblingvej 26 6893 Hemmet,26,959882.0,31-08-2003,Alm.,3477,8,Stuehus,276,1911,
+Vester Fælled 47 6893 Hemmet,47,586500.0,29-08-2003,Alm.,6046,6,Sommerhus,97,1977,
+Horsfold 133 6893 Hemmet,133,630000.0,20-08-2003,Alm.,7241,6,Sommerhus,87,1978,
+Bork Hytteby 127 6893 Hemmet,127,535000.0,11-08-2003,Alm.,10700,3,Sommerhus,50,2001,
+Bandsbølvej 32 6893 Hemmet,32,1770000.0,06-08-2003,Fam.,12642,5,Stuehus,140,1800,
+Hejrevænget 44 6893 Hemmet,44,545000.0,04-08-2003,Alm.,6193,4,Sommerhus,88,1972,
+Vester Fælled 10 6893 Hemmet,10,751606.0,30-07-2003,Alm.,11930,5,Sommerhus,63,1977,
+Bork Hytteby 26B 6893 Hemmet,0,875000.0,24-07-2003,Alm.,14583,2,Sommerhus,60,2004,
+Fyrrevej 7 6893 Hemmet,7,530000.0,21-07-2003,Fam.,3897,4,Villa,136,1972,
+Vester Fælled 108 6893 Hemmet,108,425000.0,15-07-2003,Alm.,9659,3,Sommerhus,44,1979,
+Strandvænget 2 6893 Hemmet,2,200000.0,09-07-2003,Alm.,1459,4,Sommerhus,137,2006,
+Lærkevænget 30 6893 Hemmet,30,165290.0,03-07-2003,Alm.,1899,4,Sommerhus,87,2005,
+Vester Fælled 214 6893 Hemmet,214,448000.0,01-07-2003,Alm.,10181,3,Sommerhus,44,1979,
+Bryggen 11 6893 Hemmet,11,955000.0,29-06-2003,Alm.,8681,5,Lejlighed,110,1980,
+Rylevænget 2 6893 Hemmet,2,515000.0,26-06-2003,Alm.,8879,3,Sommerhus,58,1973,
+Lappedykkervænget 12 6893 Hemmet,12,460000.0,26-06-2003,Alm.,7076,3,Sommerhus,65,1972,
+Linningvej 9 6893 Hemmet,9,445000.0,26-06-2003,Alm.,0,3,Sommerhus,90,1973,
+Kosigvænget 102 6893 Hemmet,102,450000.0,22-06-2003,Alm.,5921,4,Sommerhus,76,1977,
+Horsfold 49 6893 Hemmet,49,430000.0,17-06-2003,Alm.,5375,3,Sommerhus,80,1979,
+Lyngbyvej 8 6893 Hemmet,8,700000.0,16-06-2003,Alm.,5737,6,Stuehus,122,2000,
+Kosigvænget 4 6893 Hemmet,4,427000.0,14-06-2003,Alm.,8895,4,Sommerhus,48,1973,
+Fælledvej 6 6893 Hemmet,6,1150000.0,10-06-2003,Alm.,0,5,Stuehus,396,1950,
+Mågevænget 34 6893 Hemmet,34,535000.0,05-06-2003,Alm.,6604,5,Sommerhus,81,1973,
+Kosigvænget 70 6893 Hemmet,70,650000.0,01-06-2003,Alm.,8552,4,Sommerhus,76,1997,
+Esbølvej 12 6893 Hemmet,12,315000.0,31-05-2003,Alm.,2560,5,Villa,123,1924,
+Sutskoen 6 6893 Hemmet,6,790607.0,29-05-2003,Alm.,8883,4,Sommerhus,89,1969,
+Tranevænget 11 6893 Hemmet,11,420000.0,27-05-2003,Alm.,5384,4,Sommerhus,78,1973,
+Sutskoen 9 6893 Hemmet,9,350000.0,25-05-2003,Alm.,6603,4,Sommerhus,53,1969,
+Rylevænget 9 6893 Hemmet,9,510000.0,19-05-2003,Alm.,8360,4,Sommerhus,61,1973,
+Alfa 9 6893 Hemmet,9,442500.0,02-05-2003,Alm.,0,4,Sommerhus,114,1972,
+Rylevænget 31 6893 Hemmet,31,380000.0,28-04-2003,Alm.,7307,3,Sommerhus,52,1972,
+Anerbjergevej 11 6893 Hemmet,11,450000.0,23-04-2003,Alm.,2195,6,Villa,205,1914,
+Tarmvej 184 6893 Hemmet,184,400000.0,23-04-2003,Fam.,2836,4,Villa,141,1926,
+Husfold 31 6893 Hemmet,31,470000.0,23-04-2003,Alm.,7230,4,Sommerhus,65,1973,
+Midtbyvej 10 6893 Hemmet,10,155542.0,23-04-2003,Alm.,1143,5,Villa,136,1918,
+Tues Drøwt 6 6893 Hemmet,6,630000.0,13-04-2003,Alm.,7682,4,Sommerhus,82,1978,
+Rylevænget 20 6893 Hemmet,20,564000.0,11-04-2003,Alm.,7050,4,Sommerhus,80,1974,
+Bork Hytteby 286 6893 Hemmet,286,172875.0,07-04-2003,Andet,3601,3,Sommerhus,48,1984,
+Lærkevænget 5 6893 Hemmet,5,150000.0,02-04-2003,Alm.,1562,3,Sommerhus,96,2004,
+Bork Hytteby 73 6893 Hemmet,73,532595.0,30-03-2003,Alm.,10651,3,Sommerhus,50,1999,
+Østerbækvej 7 6893 Hemmet,7,687500.0,20-03-2003,Alm.,6193,5,Stuehus,111,1958,
+Horsfold 172 6893 Hemmet,172,535000.0,11-03-2003,Alm.,10700,3,Sommerhus,50,1989,
+Bork Hytteby 2B 6893 Hemmet,0,375000.0,10-03-2003,Alm.,7500,3,Sommerhus,50,1997,
+Tues Drøwt 37 6893 Hemmet,37,250000.0,06-03-2003,Fam.,0,4,Sommerhus,91,1979,
+Tinghøjvej 10 6893 Hemmet,10,374000.0,06-03-2003,Fam.,4452,4,Villa,84,1956,
+Strandvænget 48 6893 Hemmet,48,205290.0,28-02-2003,Alm.,1866,5,Sommerhus,110,2006,
+Sønderbyvej 4 6893 Hemmet,4,892500.0,21-02-2003,Fam.,8113,6,Stuehus,110,1916,
+Lappedykkervænget 28 6893 Hemmet,28,460000.0,21-02-2003,Alm.,8214,3,Sommerhus,56,1972,
+Vester Fælled 122 6893 Hemmet,122,407097.0,14-02-2003,Alm.,9252,3,Sommerhus,44,1979,
+Bryggen 10 6893 Hemmet,10,1700000.0,13-02-2003,Alm.,9139,4,Detailhandel,186,1980,
+Mågevænget 16 6893 Hemmet,16,500000.0,12-02-2003,Alm.,6944,4,Sommerhus,72,1974,
+Fyrrevej 3 6893 Hemmet,3,725000.0,05-02-2003,Alm.,5291,6,Villa,137,1971,
+Husfold 34 6893 Hemmet,34,590000.0,03-02-2003,Alm.,9076,3,Sommerhus,65,1971,
+Fyrrevej 21 6893 Hemmet,21,590000.0,31-01-2003,Alm.,5175,3,Villa,114,1973,
+Østerhedevej 7 6893 Hemmet,7,748000.0,29-01-2003,Alm.,0,7,Stuehus,213,1957,
+Kirkehøjvej 7 6893 Hemmet,7,812260.0,28-01-2003,Alm.,5843,5,Villa,139,1905,
+Hejrevænget 5 6893 Hemmet,5,525000.0,24-01-2003,Alm.,5833,6,Sommerhus,90,1981,
+Esbølvej 19 6893 Hemmet,19,475000.0,23-01-2003,Alm.,3064,5,Villa,155,1926,
+Kirkehøjvej 38Z 6893 Hemmet,0,365000.0,21-01-2003,Alm.,7019,3,Sommerhus,52,1980,
+Hærmandsgårdevej 4 6893 Hemmet,4,520000.0,19-12-2002,Alm.,4369,6,Stuehus,119,1955,
+Kirkehøjvej 36P 6893 Hemmet,0,400000.0,13-12-2002,Fam.,7692,3,Sommerhus,52,1980,
+Svanevænget 12 6893 Hemmet,12,400000.0,12-12-2002,Alm.,5405,5,Sommerhus,74,1973,
+Mågevænget 15 6893 Hemmet,15,350000.0,12-12-2002,Alm.,0,4,Sommerhus,83,1972,
+Horsfold 31 6893 Hemmet,31,560000.0,10-12-2002,Alm.,9333,4,Sommerhus,60,1979,
+Kosigvænget 46 6893 Hemmet,46,440000.0,03-12-2002,Alm.,6470,3,Sommerhus,68,1977,
+Vester Vejrupvej 10 6893 Hemmet,10,660000.0,03-12-2002,Fam.,6168,4,Villa,107,1923,
+Vester Fælled 200 6893 Hemmet,200,400000.0,02-12-2002,Alm.,9090,3,Sommerhus,44,1979,
+Vestergade 1 6893 Hemmet,1,610000.0,20-11-2002,Alm.,3144,6,Villa,194,1950,
+Egernvej 7 6893 Hemmet,7,490000.0,18-11-2002,Alm.,6901,4,Sommerhus,71,1987,
+Vester Fælled 132 6893 Hemmet,132,362500.0,18-11-2002,Alm.,8238,3,Sommerhus,44,1979,
+Vester Fælled 142 6893 Hemmet,142,399302.0,12-11-2002,Alm.,9075,3,Sommerhus,44,1979,
+Lappedykkervænget 32 6893 Hemmet,32,465000.0,08-11-2002,Alm.,4650,4,Sommerhus,100,1974,
+Strandvænget 1 6893 Hemmet,1,400699.0,08-11-2002,Alm.,5414,4,Sommerhus,74,1999,
+Tranevænget 26 6893 Hemmet,26,662500.0,31-10-2002,Alm.,10351,4,Sommerhus,64,1974,
+Østerhedevej 14 6893 Hemmet,14,1215000.0,25-10-2002,Alm.,9274,5,Stuehus,131,1956,
+Bork Hytteby 232 6893 Hemmet,232,385000.0,22-10-2002,Alm.,7700,4,Sommerhus,50,1984,
+Bork Hytteby 96 6893 Hemmet,96,360000.0,18-10-2002,Fam.,0,3,Sommerhus,50,1987,
+Ildervej 24 6893 Hemmet,24,73000.0,15-10-2002,Alm.,1042,4,Sommerhus,70,2003,
+Horsfold 164 6893 Hemmet,164,798000.0,01-10-2002,Alm.,9851,4,Sommerhus,81,1995,
+Gl. Skuldbølvej 4 6893 Hemmet,4,250000.0,20-09-2002,Alm.,2475,3,Villa,101,1840,
+Sutskoen 7 6893 Hemmet,7,395000.0,17-09-2002,Alm.,8061,3,Sommerhus,49,1969,
+Sivskoen 5 6893 Hemmet,5,840000.0,13-09-2002,Alm.,16470,3,Sommerhus,51,1971,
+Vibevænget 22 6893 Hemmet,22,175000.0,12-09-2002,Alm.,1682,4,Sommerhus,104,2005,
+Mosevænget 2 6893 Hemmet,2,514305.0,08-09-2002,Alm.,0,6,Sommerhus,73,1974,
+Bork Hytteby 152 6893 Hemmet,152,415000.0,05-09-2002,Alm.,8829,5,Sommerhus,47,1984,
+Horsfold 120 6893 Hemmet,120,660000.0,04-09-2002,Alm.,8684,4,Sommerhus,76,1994,
+Linningvej 26 6893 Hemmet,26,375000.0,01-09-2002,Fam.,5952,3,Sommerhus,63,1971,
+Horsfold 149 6893 Hemmet,149,440000.0,14-08-2002,Alm.,8461,3,Sommerhus,52,1977,
+Midtbyvej 11 6893 Hemmet,11,276000.0,07-08-2002,Alm.,1985,3,Villa,139,1920,
+Husfold 33 6893 Hemmet,33,800000.0,03-08-2002,Alm.,11111,4,Sommerhus,72,1985,
+Brosbølvej 19 6893 Hemmet,19,1000000.0,01-08-2002,Alm.,4016,8,Stuehus,249,1955,
+Kosigvænget 11 6893 Hemmet,11,640000.0,30-07-2002,Alm.,8421,4,Sommerhus,76,1979,
+Gl. Landevej 49 6893 Hemmet,49,175106.0,22-07-2002,Alm.,1400,4,Villa,125,1951,
+Husfold 65 6893 Hemmet,65,650000.0,16-07-2002,Alm.,0,5,Sommerhus,106,1971,
+Vester Fælled 64 6893 Hemmet,64,421417.0,10-07-2002,Alm.,9577,3,Sommerhus,44,1979,
+Horsfold 22 6893 Hemmet,22,425000.0,01-07-2002,Alm.,0,5,Sommerhus,100,1987,
+Vagtelvænget 16 6893 Hemmet,16,445000.0,30-06-2002,Alm.,8900,3,Sommerhus,50,1972,
+Møllegårdsvej 10 6893 Hemmet,10,440000.0,21-06-2002,Alm.,3410,5,Villa,129,1965,
+Bork Hytteby 288 6893 Hemmet,288,300000.0,12-06-2002,Alm.,10000,3,Sommerhus,30,1984,
+Vibevænget 14 6893 Hemmet,14,165000.0,12-06-2002,Alm.,1513,4,Sommerhus,109,2004,
+Rævekrogen 3 6893 Hemmet,3,494000.0,08-06-2002,Alm.,8821,4,Sommerhus,56,1973,
+Husfold 19 6893 Hemmet,19,465000.0,31-05-2002,Alm.,0,4,Sommerhus,75,1973,
+Tarmvej 210 6893 Hemmet,210,320000.0,29-05-2002,Fam.,2191,3,Villa,146,1909,
+Tues Drøwt 1 6893 Hemmet,1,475000.0,18-05-2002,Alm.,6333,4,Sommerhus,75,1979,
+Horsfold 24 6893 Hemmet,24,455000.0,13-05-2002,Alm.,0,4,Sommerhus,74,1987,
+Horsfold 63 6893 Hemmet,63,530000.0,12-05-2002,Alm.,7681,4,Sommerhus,69,1979,
+Horsfold 14 6893 Hemmet,14,600000.0,07-05-2002,Alm.,8571,4,Sommerhus,70,1991,
+Bandsbølvej 8 6893 Hemmet,8,406647.0,02-05-2002,Alm.,5647,3,Villa,72,1948,
+Hejrevænget 6 6893 Hemmet,6,450000.0,02-05-2002,Alm.,6250,4,Sommerhus,72,1972,
+Mågevænget 14 6893 Hemmet,14,535000.0,01-05-2002,Alm.,8230,4,Sommerhus,65,1973,
+Bork Hytteby 216 6893 Hemmet,216,375000.0,26-04-2002,Alm.,0,3,Sommerhus,50,1984,
+Rylevænget 16 6893 Hemmet,16,500000.0,26-04-2002,Alm.,0,4,Sommerhus,80,1978,
+Rylevænget 21 6893 Hemmet,21,565000.0,25-04-2002,Alm.,6569,6,Sommerhus,86,1973,
+Horsfold 157 6893 Hemmet,157,485000.0,22-04-2002,Alm.,0,5,Sommerhus,75,1977,
+Vester Fælled 38 6893 Hemmet,38,435000.0,17-04-2002,Alm.,0,7,Sommerhus,93,1977,
+Vester Fælled 96 6893 Hemmet,96,380000.0,17-04-2002,Alm.,8636,3,Sommerhus,44,1979,
+Vester Fælled 45 6893 Hemmet,45,413700.0,12-04-2002,Alm.,0,6,Sommerhus,88,1977,
+Kirkehøjvej 38B 6893 Hemmet,0,361822.0,10-04-2002,Alm.,7094,3,Sommerhus,51,1980,
+Kirkehøjvej 36T 6893 Hemmet,0,433075.0,08-04-2002,Alm.,8491,3,Sommerhus,51,1980,
+Svanevænget 26 6893 Hemmet,26,590000.0,29-03-2002,Alm.,6860,4,Sommerhus,86,1975,
+Bandsbølvej 6 6893 Hemmet,6,300000.0,26-03-2002,Fam.,2803,4,Villa,107,1930,
+Svanevænget 5 6893 Hemmet,5,575000.0,08-03-2002,Alm.,6182,4,Sommerhus,93,1974,
+Tinghedevej 9 6893 Hemmet,9,481711.0,03-03-2002,Alm.,0,6,Stuehus,222,1958,
+Kosigvænget 48 6893 Hemmet,48,348201.0,22-02-2002,Alm.,6696,3,Sommerhus,52,1974,
+"Vestergade 13, 1. TV 6893 Hemmet",0,332750.0,06-02-2002,Alm.,5281,3,Lejlighed,63,1988,
+Spurvevænget 9 6893 Hemmet,9,58300.0,02-02-2002,Fam.,594,4,Sommerhus,98,2002,
+Horsfold 77 6893 Hemmet,77,480000.0,01-02-2002,Alm.,8000,4,Sommerhus,60,1978,
+Tranevænget 25 6893 Hemmet,25,570000.0,31-01-2002,Alm.,6404,4,Sommerhus,89,1974,
+Østerbækvej 1 6893 Hemmet,1,770000.0,29-01-2002,Alm.,0,6,Villa,180,1957,
+Kirkehøjvej 38P 6893 Hemmet,0,341250.0,25-01-2002,Alm.,6562,3,Sommerhus,52,1980,
+Træskoen 9 6893 Hemmet,9,415000.0,24-01-2002,Alm.,9222,3,Sommerhus,45,1969,
+Bork Hytteby 243 6893 Hemmet,243,467500.0,08-01-2002,Alm.,9350,3,Sommerhus,50,1997,
+Rylevænget 35 6893 Hemmet,35,480000.0,08-01-2002,Alm.,8000,4,Sommerhus,60,1973,
+Rævekrogen 22 6893 Hemmet,22,450500.0,14-12-2001,Fam.,5927,4,Sommerhus,76,1971,
+Bandsbølvej 14 6893 Hemmet,14,350000.0,12-12-2001,Alm.,3500,3,Villa,100,1970,
+Brosbølvej 9 6893 Hemmet,9,540000.0,16-11-2001,Alm.,4060,4,Stuehus,133,1890,
+Lappedykkervænget 35 6893 Hemmet,35,450000.0,11-11-2001,Alm.,7894,4,Sommerhus,57,1972,
+Vestervang 1C 6893 Hemmet,0,240000.0,08-11-2001,Alm.,2352,5,Villa,102,1913,
+Bork Hytteby 122 6893 Hemmet,122,465000.0,05-11-2001,Alm.,9300,3,Sommerhus,50,1999,
+Fyrrevej 17 6893 Hemmet,17,635000.0,02-11-2001,Alm.,0,7,Villa,221,1974,
+Vestervang 14 6893 Hemmet,14,704836.0,30-10-2001,Alm.,4350,5,Villa,162,1974,
+Husfold 13 6893 Hemmet,13,470000.0,27-10-2001,Alm.,6714,5,Sommerhus,70,1969,
+Tarmvej 208 6893 Hemmet,208,275000.0,19-10-2001,Alm.,2722,5,Villa,101,1942,
+Vestervang 21 6893 Hemmet,21,775000.0,12-10-2001,Alm.,5496,5,Villa,141,1975,
+Bork Hytteby 120 6893 Hemmet,120,510000.0,10-10-2001,Alm.,10408,2,Sommerhus,49,1995,
+Fælledvej 1 6893 Hemmet,1,925000.0,30-09-2001,Alm.,6085,5,Villa,152,1946,
+Galochen 10 6893 Hemmet,10,255000.0,10-09-2001,Fam.,5100,3,Sommerhus,50,1967,
+Toftegårdsvej 2 6893 Hemmet,2,665000.0,05-09-2001,Alm.,0,7,Villa,292,1877,
+Horsfold 103 6893 Hemmet,103,547900.0,04-09-2001,Alm.,9286,4,Sommerhus,59,1988,
+Linningvej 15 6893 Hemmet,15,665364.0,31-08-2001,Alm.,9505,4,Sommerhus,70,1973,
+Vester Fælled 51 6893 Hemmet,51,572183.0,31-08-2001,Alm.,8292,5,Sommerhus,69,1977,
+Bækager 13 6893 Hemmet,13,790000.0,29-08-2001,Alm.,3761,8,Villa,210,1979,
+Bork Hytteby 81 6893 Hemmet,81,82000.0,29-08-2001,Alm.,1640,2,Sommerhus,50,2010,
+Hejrevænget 38 6893 Hemmet,38,518700.0,22-08-2001,Alm.,9100,3,Sommerhus,57,1972,
+Ildervej 1 6893 Hemmet,1,65000.0,20-08-2001,Alm.,684,4,Sommerhus,95,2006,
+Vestergårdsvej 1 6893 Hemmet,1,385000.0,19-08-2001,Alm.,0,6,Villa,199,1890,
+Lynevej 12 6893 Hemmet,12,127500.0,08-08-2001,Fam.,1202,5,Villa,106,1961,
+Husfold 43 6893 Hemmet,43,543416.0,06-08-2001,Alm.,0,4,Sommerhus,91,1974,
+Tarmvej 146 6893 Hemmet,146,350000.0,25-07-2001,Alm.,2734,4,Villa,128,1968,
+Horsfold 4 6893 Hemmet,4,408000.0,25-07-2001,Fam.,5513,4,Sommerhus,74,1979,
+Lappedykkervænget 5 6893 Hemmet,5,640000.0,16-07-2001,Alm.,10158,3,Sommerhus,63,1972,
+Bækager 25 6893 Hemmet,25,77000.0,16-07-2001,Alm.,472,5,Villa,163,2003,
+Kirkehøjvej 40H 6893 Hemmet,0,350478.0,05-07-2001,Alm.,6872,3,Sommerhus,51,1980,
+Lynevej 16 6893 Hemmet,16,292672.0,02-07-2001,Alm.,1134,6,Stuehus,258,1928,
+Bork Hytteby 292 6893 Hemmet,292,338000.0,29-06-2001,Alm.,9135,4,Sommerhus,37,1984,
+Vestergade 2 6893 Hemmet,2,475000.0,28-06-2001,Andet,3893,5,Villa,122,1925,
+Midtbyvej 12 6893 Hemmet,12,950000.0,28-06-2001,Andet,7539,6,Villa,126,1890,
+Vester Fælled 15 6893 Hemmet,15,517000.0,11-06-2001,Alm.,7602,4,Sommerhus,68,1979,
+Sandalen 4 6893 Hemmet,4,370000.0,23-05-2001,Alm.,4868,5,Sommerhus,76,1970,
+Horsfold 167 6893 Hemmet,167,505000.0,19-05-2001,Alm.,8706,4,Sommerhus,58,1977,
+Kirkehøjvej 38L 6893 Hemmet,0,171000.0,08-05-2001,Andet,3352,3,Sommerhus,51,1980,
+Bork Hytteby 302 6893 Hemmet,302,225000.0,30-04-2001,Alm.,7500,3,Sommerhus,30,1983,
+Egernvej 41 6893 Hemmet,41,360000.0,27-04-2001,Alm.,5714,4,Sommerhus,63,1987,
+Vester Fælled 77 6893 Hemmet,77,550000.0,27-04-2001,Alm.,0,5,Sommerhus,96,1977,
+Kosigvænget 62 6893 Hemmet,62,416500.0,24-04-2001,Alm.,8166,3,Sommerhus,51,1974,
+Linningvej 30 6893 Hemmet,30,595000.0,21-04-2001,Alm.,7828,5,Sommerhus,76,1971,
+Stensagervej 6 6893 Hemmet,6,330000.0,06-04-2001,Fam.,2444,4,Villa,135,1938,
+Mosevænget 18 6893 Hemmet,18,658000.0,02-04-2001,Alm.,7741,4,Sommerhus,85,1974,
+Spurvevænget 19 6893 Hemmet,19,160000.0,01-04-2001,Alm.,1367,5,Sommerhus,117,2007,
+Vestervang 31 6893 Hemmet,31,485000.0,28-03-2001,Alm.,4181,4,Villa,116,1973,
+Horsfold 27 6893 Hemmet,27,750000.0,26-03-2001,Alm.,8823,4,Sommerhus,85,1993,
+Kirkehøjvej 36L 6893 Hemmet,0,394710.0,26-03-2001,Alm.,7739,3,Sommerhus,51,1980,
+Strandvænget 28 6893 Hemmet,28,950000.0,26-03-2001,Alm.,10215,5,Sommerhus,93,2000,
+Alfa 2 6893 Hemmet,2,570000.0,22-03-2001,Alm.,9500,4,Sommerhus,60,1972,
+Horsfold 148 6893 Hemmet,148,365000.0,20-03-2001,Alm.,6886,4,Sommerhus,53,1979,
+Grævlingevej 13 6893 Hemmet,13,210000.0,12-03-2001,Fam.,2500,4,Sommerhus,84,1970,
+Gundesbølvej 1 6893 Hemmet,1,1240000.0,12-03-2001,Alm.,5876,5,Stuehus,211,2007,
+Bork Hytteby 242 6893 Hemmet,242,250000.0,12-03-2001,Alm.,8333,3,Sommerhus,30,1984,
+Klydevænget 4 6893 Hemmet,4,185000.0,10-03-2001,Alm.,1968,4,Sommerhus,94,2001,
+Kosigvænget 59 6893 Hemmet,59,498930.0,01-03-2001,Alm.,5801,3,Sommerhus,86,2014,
+Delta 8 6893 Hemmet,8,425000.0,20-02-2001,Fam.,0,4,Sommerhus,108,1972,
+Gl. Landevej 12 6893 Hemmet,12,445000.0,16-02-2001,Alm.,3869,4,Villa,115,1968,
+Stensagervej 2 6893 Hemmet,2,685000.0,04-02-2001,Alm.,4536,4,Villa,151,1859,
+Kosigvænget 36 6893 Hemmet,36,341768.0,01-02-2001,Alm.,5178,4,Sommerhus,66,1978,
+Nordenåvej 6 6893 Hemmet,6,525000.0,14-01-2001,Alm.,2807,7,Villa,187,1900,
+Tinghedevej 4 6893 Hemmet,4,315000.0,12-01-2001,Alm.,0,6,Villa,198,1958,
+Prammen 6 6893 Hemmet,6,880000.0,11-01-2001,Alm.,8888,4,Villa,99,1992,
+Bork Hytteby 266 6893 Hemmet,266,329366.0,03-01-2001,Alm.,7485,4,Sommerhus,44,1984,
+Esbølvej 29 6893 Hemmet,29,300932.0,28-12-2000,Alm.,2786,3,Villa,108,1951,
+Strandvænget 11 6893 Hemmet,11,300000.0,10-12-2000,Fam.,9090,2,Sommerhus,33,1977,
+Kirkehøjvej 36W 6893 Hemmet,0,390000.0,29-11-2000,Alm.,7500,3,Sommerhus,52,1980,
+Tues Drøwt 16 6893 Hemmet,16,575000.0,20-11-2000,Alm.,5324,5,Sommerhus,108,1979,
+Bork Hytteby 244 6893 Hemmet,244,300000.0,13-11-2000,Alm.,6000,4,Sommerhus,50,1984,
+Damgårdsvej 8 6893 Hemmet,8,812278.0,31-10-2000,Alm.,0,7,Villa,211,1974,
+Spurvevænget 3 6893 Hemmet,3,110000.0,31-10-2000,Alm.,1028,5,Sommerhus,107,2004,
+Sivskoen 6 6893 Hemmet,6,458000.0,29-10-2000,Fam.,6450,4,Sommerhus,71,1967,
+Esbølvej 26 6893 Hemmet,26,576000.0,23-10-2000,Alm.,2796,8,Villa,206,1913,
+Egernvej 8 6893 Hemmet,8,67000.0,21-10-2000,Alm.,572,5,Sommerhus,117,2002,
+Vibevænget 6 6893 Hemmet,6,773316.0,15-10-2000,Alm.,10593,3,Sommerhus,73,2000,
+Møllegårdsvej 22 6893 Hemmet,22,122472.0,13-10-2000,Alm.,294,15,Villa,416,2001,
+Enggårdsvej 2 6893 Hemmet,2,900000.0,12-10-2000,Alm.,4035,7,Villa,223,1875,
+Bork Hytteby 144 6893 Hemmet,144,166499.0,09-10-2000,Alm.,2685,5,Sommerhus,62,1985,
+Rævekrogen 16 6893 Hemmet,16,405000.0,14-09-2000,Alm.,8100,3,Sommerhus,50,1969,
+Bork Hytteby 119 6893 Hemmet,119,75000.0,14-09-2000,Alm.,1595,3,Sommerhus,47,2001,
+Grævlingevej 23 6893 Hemmet,23,600000.0,11-09-2000,Alm.,9836,4,Sommerhus,61,1973,
+Bork Hytteby 29 6893 Hemmet,29,515000.0,07-09-2000,Alm.,10300,3,Sommerhus,50,1996,
+Tarmvej 179 6893 Hemmet,179,465000.0,01-09-2000,Alm.,5886,3,Villa,79,1932,
+Tarmvej 147 6893 Hemmet,147,416800.0,31-08-2000,Alm.,4683,2,Villa,89,1927,
+Træskoen 5 6893 Hemmet,5,427968.0,28-08-2000,Alm.,7508,3,Sommerhus,57,1967,
+Tarmvej 214 6893 Hemmet,214,457149.0,28-08-2000,Alm.,4010,5,Villa,114,1961,
+Galgebjergevej 10 6893 Hemmet,10,533000.0,21-08-2000,Alm.,4555,4,Villa,117,1900,
+Husfold 63 6893 Hemmet,63,795000.0,14-08-2000,Alm.,0,5,Sommerhus,106,1972,
+Egernvej 43 6893 Hemmet,43,450000.0,03-08-2000,Fam.,9782,3,Sommerhus,46,1987,
+Bork Hytteby 172 6893 Hemmet,172,400000.0,31-07-2000,Alm.,8510,3,Sommerhus,47,1995,
+Bork Hytteby 56 6893 Hemmet,56,403649.0,10-07-2000,Alm.,8072,3,Sommerhus,50,1984,
+Kirkehøjvej 40G 6893 Hemmet,0,385000.0,04-07-2000,Alm.,7549,3,Sommerhus,51,1980,
+Vester Fælled 63 6893 Hemmet,63,550000.0,30-06-2000,Alm.,0,5,Sommerhus,69,1977,
+Hejrevænget 23 6893 Hemmet,23,225000.0,30-06-2000,Alm.,4411,4,Sommerhus,51,1972,
+Anerbjergevej 3 6893 Hemmet,3,420000.0,28-06-2000,Fam.,2709,5,Villa,155,1920,
+Rævekrogen 1 6893 Hemmet,1,541715.0,27-06-2000,Alm.,8207,4,Sommerhus,66,1975,
+Kosigvænget 57 6893 Hemmet,57,399998.0,26-06-2000,Alm.,5479,4,Sommerhus,73,1983,
+Bork Hytteby 171 6893 Hemmet,171,525000.0,20-06-2000,Alm.,10500,3,Sommerhus,50,1997,
+Kosigvænget 90 6893 Hemmet,90,475000.0,19-05-2000,Alm.,0,5,Sommerhus,87,1974,
+Bork Hytteby 106 6893 Hemmet,106,65000.0,17-05-2000,Alm.,1300,3,Sommerhus,50,2007,
+Rævekrogen 48 6893 Hemmet,48,146667.0,09-05-2000,Alm.,2528,3,Sommerhus,58,1971,
+Horsfold 12 6893 Hemmet,12,405000.0,05-05-2000,Alm.,6230,4,Sommerhus,65,1979,
+Rylevænget 11 6893 Hemmet,11,405000.0,02-05-2000,Alm.,3932,4,Sommerhus,103,2008,
+Vagtelvænget 30 6893 Hemmet,30,425000.0,26-04-2000,Alm.,5120,4,Sommerhus,83,1972,
+Lærkevænget 20 6893 Hemmet,20,135000.0,26-04-2000,Alm.,1250,4,Sommerhus,108,2006,
+Vester Fælled 192 6893 Hemmet,192,375000.0,10-04-2000,Alm.,8333,3,Sommerhus,45,1979,
+Kosigvænget 58 6893 Hemmet,58,450000.0,03-04-2000,Alm.,7377,3,Sommerhus,61,1973,
+Saffelvej 3 6893 Hemmet,3,293488.0,29-03-2000,Alm.,0,4,Villa,189,1929,
+Lærkevænget 12 6893 Hemmet,12,635000.0,27-03-2000,Alm.,10079,3,Sommerhus,63,1998,
+Bork Hytteby 93 6893 Hemmet,93,450000.0,15-03-2000,Alm.,9000,3,Sommerhus,50,1999,
+Spurvevænget 5 6893 Hemmet,5,70000.0,14-03-2000,Alm.,714,5,Sommerhus,98,2001,
+Strandvænget 7 6893 Hemmet,7,450000.0,07-03-2000,Alm.,6521,4,Sommerhus,69,1974,
+Bork Hytteby 80 6893 Hemmet,80,411382.0,04-03-2000,Alm.,8227,3,Sommerhus,50,1996,
+Klydevænget 3 6893 Hemmet,3,165000.0,01-03-2000,Alm.,0,4,Sommerhus,326,1972,
+Hejrevænget 42 6893 Hemmet,42,437000.0,27-02-2000,Alm.,6426,4,Sommerhus,68,1973,
+Vester Fælled 160 6893 Hemmet,160,365000.0,09-02-2000,Alm.,8111,3,Sommerhus,45,1979,
+Oblingvej 20 6893 Hemmet,20,150000.0,07-02-2000,Alm.,1048,4,Villa,143,1860,
+Møllegårdsvej 24 6893 Hemmet,24,61500.0,19-01-2000,Alm.,323,4,Villa,190,2002,
+Møllegårdsvej 26 6893 Hemmet,26,45000.0,19-01-2000,Alm.,384,3,Villa,117,2002,
+Sivskoen 8 6893 Hemmet,8,350000.0,04-01-2000,Alm.,7608,3,Sommerhus,46,1967,
+Lappedykkervænget 29 6893 Hemmet,29,212500.0,22-12-1999,Alm.,3373,3,Sommerhus,63,1972,
+Linningvej 14 6893 Hemmet,14,590000.0,21-12-1999,Alm.,8428,4,Sommerhus,70,1987,
+Lukkebjerg 5 6893 Hemmet,5,260000.0,20-12-1999,Fam.,6046,3,Sommerhus,43,1970,
+Lukkebjerg 8 6893 Hemmet,8,559107.0,07-12-1999,Fam.,9165,3,Sommerhus,61,1969,
+Egevænget 12 6893 Hemmet,12,125000.0,02-12-1999,Alm.,0,7,Villa,240,2000,
+Ildervej 28 6893 Hemmet,28,391265.0,01-12-1999,Alm.,6210,4,Sommerhus,63,1987,
+Horsfold 84 6893 Hemmet,84,595000.0,03-11-1999,Alm.,5950,5,Sommerhus,100,1993,
+Niels Jensensvej 6 6893 Hemmet,6,230000.0,18-10-1999,Alm.,2555,3,Villa,90,1932,
+Bork Hytteby 193 6893 Hemmet,193,150000.0,15-10-1999,Alm.,3000,3,Sommerhus,50,2001,
+Kosigvænget 72 6893 Hemmet,72,385000.0,13-10-1999,Alm.,7403,3,Sommerhus,52,1974,
+Bowleren 4 6893 Hemmet,4,337000.0,10-10-1999,Alm.,6240,4,Sommerhus,54,1969,
+Tranevænget 27 6893 Hemmet,27,390000.0,06-10-1999,Alm.,0,4,Sommerhus,70,1972,
+Anevej 13 6893 Hemmet,13,451000.0,28-09-1999,Alm.,9020,3,Sommerhus,50,1971,
+Horsfold 145 6893 Hemmet,145,320000.0,24-09-1999,Alm.,8000,3,Sommerhus,40,1977,
+Tues Drøwt 39 6893 Hemmet,39,680000.0,14-09-1999,Alm.,13600,3,Sommerhus,50,1978,
+Spurvevænget 13 6893 Hemmet,13,125000.0,11-09-1999,Alm.,1213,5,Sommerhus,103,2000,
+Vibevænget 8 6893 Hemmet,8,100000.0,09-09-1999,Alm.,970,5,Sommerhus,103,2000,
+Horsfold 85 6893 Hemmet,85,425000.0,06-09-1999,Alm.,0,5,Sommerhus,64,1985,
+Bækager 22 6893 Hemmet,22,682468.0,03-09-1999,Alm.,4909,5,Villa,139,1995,
+Kirkehøjvej 2 6893 Hemmet,2,256080.0,26-08-1999,Alm.,0,5,Villa,146,1887,
+Niels Jensensvej 12 6893 Hemmet,12,175000.0,26-08-1999,Alm.,3723,8,Servicevirksomhed,47,1913,
+Lappedykkervænget 3 6893 Hemmet,3,530000.0,24-08-1999,Alm.,8688,4,Sommerhus,61,1972,
+Kirkehøjvej 19 6893 Hemmet,19,1330000.0,18-08-1999,Alm.,0,4,Anden handel/transport,116,1924,
+Bork Hytteby 49 6893 Hemmet,49,67000.0,12-08-1999,Alm.,1340,3,Sommerhus,50,2005,
+Vester Fælled 19 6893 Hemmet,19,560000.0,31-07-1999,Alm.,8888,4,Sommerhus,63,1979,
+Horsfold 114 6893 Hemmet,114,465000.0,03-07-1999,Alm.,7881,4,Sommerhus,59,1977,
+Horsfold 46 6893 Hemmet,46,445000.0,01-07-1999,Alm.,8725,4,Sommerhus,51,1978,
+Møllegårdsvej 1 6893 Hemmet,1,249451.0,01-07-1999,Fam.,2900,3,Villa,86,1935,
+Lappedykkervænget 17 6893 Hemmet,17,420000.0,24-06-1999,Alm.,0,4,Sommerhus,73,1972,
+Egevænget 5 6893 Hemmet,5,85000.0,24-06-1999,Alm.,0,7,Villa,267,2000,
+Lundsgårdsvej 12 6893 Hemmet,12,4490000.0,23-06-1999,Alm.,29539,4,Stuehus,152,1958,
+Tues Drøwt 62 6893 Hemmet,62,798000.0,14-06-1999,Alm.,9851,4,Sommerhus,81,1996,
+Vestergårdsvej 2 6893 Hemmet,2,341000.0,14-06-1999,Alm.,1785,7,Villa,191,1899,
+Beta 5 6893 Hemmet,5,495000.0,09-06-1999,Alm.,8250,4,Sommerhus,60,1975,
+Linningvej 16 6893 Hemmet,16,190000.0,05-06-1999,Alm.,2134,4,Sommerhus,89,2001,
+Bork Hytteby 28 6893 Hemmet,28,300000.0,01-06-1999,Alm.,0,3,Sommerhus,50,1991,
+Kosigvænget 23 6893 Hemmet,23,385000.0,31-05-1999,Fam.,6754,4,Sommerhus,57,1988,
+Horsfold 122 6893 Hemmet,122,435000.0,27-05-1999,Alm.,6397,4,Sommerhus,68,1979,
+Horsfold 155 6893 Hemmet,155,550999.0,27-05-1999,Alm.,8609,4,Sommerhus,64,1977,
+Egernvej 37 6893 Hemmet,37,330000.0,25-05-1999,Alm.,5238,4,Sommerhus,63,1987,
+Vibevænget 15 6893 Hemmet,15,130000.0,21-05-1999,Alm.,1805,4,Sommerhus,72,2000,
+Vester Fælled 94 6893 Hemmet,94,381126.0,12-05-1999,Alm.,8661,3,Sommerhus,44,1979,
+Bork Hytteby 153 6893 Hemmet,153,65000.0,11-05-1999,Alm.,1300,3,Sommerhus,50,2001,
+Strandvænget 49 6893 Hemmet,49,110600.0,28-04-1999,Alm.,1301,3,Sommerhus,85,2000,
+Kirkehøjvej 38K 6893 Hemmet,0,390354.0,22-04-1999,Alm.,7654,3,Sommerhus,51,1980,
+Lundsgårdsvej 3 6893 Hemmet,3,1790000.0,19-04-1999,Fam.,9226,6,Stuehus,194,1958,
+Strandvænget 38 6893 Hemmet,38,946900.0,19-04-1999,Alm.,8933,4,Sommerhus,106,1997,
+Enggårdsvej 6 6893 Hemmet,6,130000.0,16-04-1999,Alm.,1203,4,Villa,108,1860,
+Vibevænget 20 6893 Hemmet,20,135000.0,15-04-1999,Alm.,0,4,Sommerhus,89,1999,
+Hejrevænget 9 6893 Hemmet,9,425000.0,09-04-1999,Alm.,6746,3,Sommerhus,63,1972,
+Vester Fælled 20 6893 Hemmet,20,552500.0,07-04-1999,Alm.,8769,5,Sommerhus,63,1977,
+Hærmandsgårdevej 2 6893 Hemmet,2,2000000.0,06-04-1999,Alm.,9852,7,Stuehus,203,1934,
+Strandvænget 21 6893 Hemmet,21,825000.0,04-04-1999,Alm.,0,5,Sommerhus,99,1996,
+Horsfold 135 6893 Hemmet,135,538000.0,31-03-1999,Alm.,7911,4,Sommerhus,68,1978,
+Hejrevænget 3 6893 Hemmet,3,385000.0,27-03-1999,Alm.,6416,4,Sommerhus,60,1972,
+Bork Hytteby 135 6893 Hemmet,135,65000.0,14-03-1999,Alm.,1300,3,Sommerhus,50,1999,
+Bork Hytteby 205 6893 Hemmet,205,426000.0,11-03-1999,Alm.,10650,3,Sommerhus,40,1996,
+Kosigvænget 21 6893 Hemmet,21,360000.0,10-03-1999,Alm.,6428,4,Sommerhus,56,1974,
+Tues Drøwt 31 6893 Hemmet,31,575000.0,07-03-1999,Alm.,8098,3,Sommerhus,71,1991,
+Strandvænget 27 6893 Hemmet,27,910500.0,07-03-1999,Alm.,10465,4,Sommerhus,87,1999,
+Horsfold 158 6893 Hemmet,158,597300.0,06-03-1999,Alm.,9791,3,Sommerhus,61,1981,
+Sutskoen 1 6893 Hemmet,1,230000.0,03-03-1999,Alm.,4259,3,Sommerhus,54,1967,
+Spurvevænget 4 6893 Hemmet,4,115000.0,01-03-1999,Alm.,1402,4,Sommerhus,82,2001,
+Ildervej 22 6893 Hemmet,22,343000.0,28-02-1999,Alm.,0,3,Sommerhus,71,1988,
+Vester Fælled 43 6893 Hemmet,43,442286.0,22-02-1999,Alm.,0,5,Sommerhus,78,1977,
+Rævekrogen 23 6893 Hemmet,23,393537.0,13-02-1999,Alm.,8373,4,Sommerhus,47,1970,
+Bandsbølvej 18 6893 Hemmet,18,400000.0,05-02-1999,Alm.,3809,4,Villa,105,1965,
+Kosigvænget 35 6893 Hemmet,35,471734.0,03-02-1999,Alm.,7995,4,Sommerhus,59,1977,
+Enggårdsvej 9 6893 Hemmet,9,219922.0,16-01-1999,Alm.,1062,7,Stuehus,207,1890,
+Tarmvej 168 6893 Hemmet,168,435165.0,09-01-1999,Alm.,2559,5,Villa,170,1946,
+Støvlen 6 6893 Hemmet,6,470000.0,04-01-1999,Alm.,8245,3,Sommerhus,57,1970,
+Bork Hytteby 10 6893 Hemmet,10,353438.0,08-12-1998,Alm.,10710,3,Sommerhus,33,1983,
+Toftumvej 2 6893 Hemmet,2,695000.0,08-12-1998,Alm.,4826,6,Stuehus,144,1920,
+Bork Hytteby 219 6893 Hemmet,219,65700.0,19-11-1998,Alm.,1314,3,Sommerhus,50,1999,
+Bork Hytteby 62 6893 Hemmet,62,287725.0,13-11-1998,Alm.,0,4,Sommerhus,50,1985,
+Vester Fælled 28 6893 Hemmet,28,570615.0,06-11-1998,Alm.,0,5,Sommerhus,68,1977,
+Kirkehøjvej 40B 6893 Hemmet,0,370000.0,23-10-1998,Alm.,7254,3,Sommerhus,51,1980,
+Vester Fælled 48 6893 Hemmet,48,415000.0,23-10-1998,Alm.,6587,5,Sommerhus,63,1977,
+Mågevænget 38 6893 Hemmet,38,419430.0,19-10-1998,Alm.,7358,4,Sommerhus,57,1972,
+Bork Hytteby 196 6893 Hemmet,196,365000.0,10-10-1998,Alm.,7300,4,Sommerhus,50,1985,
+Bork Hytteby 101 6893 Hemmet,101,65710.0,07-10-1998,Alm.,1314,3,Sommerhus,50,2010,
+Mosevænget 5 6893 Hemmet,5,515000.0,06-10-1998,Fam.,6602,4,Sommerhus,78,1988,
+Bork Hytteby 89 6893 Hemmet,89,65710.0,05-10-1998,Alm.,1368,3,Sommerhus,48,2000,
+Ovesensvej 1 6893 Hemmet,1,499000.0,01-10-1998,Alm.,2711,6,Villa,184,1924,
+Vagtelvænget 32 6893 Hemmet,32,585000.0,16-09-1998,Alm.,7800,3,Sommerhus,75,1973,
+Tarmvej 111 6893 Hemmet,111,243000.0,11-09-1998,Alm.,2641,3,Villa,92,1880,
+Horsfold 106 6893 Hemmet,106,352298.0,04-09-1998,Alm.,6907,3,Sommerhus,51,1978,
+Kosigvænget 17 6893 Hemmet,17,575000.0,02-09-1998,Alm.,8984,4,Sommerhus,64,1974,
+Sutskoen 3 6893 Hemmet,3,406227.0,24-08-1998,Alm.,0,4,Sommerhus,88,1969,
+Holmvej 10 6893 Hemmet,10,1708275.0,17-08-1998,Alm.,0,5,Stuehus,132,1973,
+Brosbølvej 4 6893 Hemmet,4,450000.0,07-08-1998,Alm.,2694,5,Villa,167,1960,
+Bork Hytteby 276 6893 Hemmet,276,349593.0,29-07-1998,Alm.,9448,4,Sommerhus,37,1984,
+Bork Hytteby 77 6893 Hemmet,77,55710.0,27-07-1998,Alm.,1114,1,Sommerhus,50,2014,
+Nr. Lydumvej 5 6893 Hemmet,5,260000.0,21-07-1998,Alm.,3095,4,Villa,84,1960,
+Kosigvænget 20 6893 Hemmet,20,185000.0,30-06-1998,Fam.,3700,4,Sommerhus,50,1984,
+Bork Hytteby 234 6893 Hemmet,234,295000.0,27-06-1998,Alm.,0,4,Sommerhus,50,1984,
+Spurvevænget 15 6893 Hemmet,15,125000.0,18-06-1998,Alm.,1315,4,Sommerhus,95,2002,
+Rylevænget 8 6893 Hemmet,8,610960.0,15-06-1998,Alm.,8854,4,Sommerhus,69,1973,
+Husfold 11 6893 Hemmet,11,506620.0,09-06-1998,Alm.,8443,4,Sommerhus,60,1970,
+Horsfold 58 6893 Hemmet,58,275000.0,09-06-1998,Alm.,3571,4,Sommerhus,77,1981,
+Vester Fælled 22 6893 Hemmet,22,450000.0,04-06-1998,Fam.,0,5,Sommerhus,73,1977,
+Horsfold 124 6893 Hemmet,124,575401.0,03-06-1998,Alm.,8461,4,Sommerhus,68,1979,
+Ildervej 14 6893 Hemmet,14,404000.0,26-05-1998,Alm.,6622,4,Sommerhus,61,1987,
+Træskoen 6 6893 Hemmet,6,388533.0,06-05-1998,Alm.,0,3,Sommerhus,69,1969,
+Rævekrogen 28 6893 Hemmet,28,325000.0,30-04-1998,Alm.,0,4,Sommerhus,67,1969,
+Mosevænget 36 6893 Hemmet,36,466762.0,30-04-1998,Alm.,9335,3,Sommerhus,50,1978,
+Kirkehøjvej 36V 6893 Hemmet,0,360073.0,27-04-1998,Alm.,7060,3,Sommerhus,51,1980,
+Tarmvej 234B 6893 Hemmet,0,7150000.0,27-04-1998,Alm.,32352,6,Stuehus,221,1932,
+Vester Fælled 156 6893 Hemmet,156,369363.0,27-04-1998,Alm.,8394,3,Sommerhus,44,1979,
+Bork Hytteby 238 6893 Hemmet,238,374000.0,25-04-1998,Alm.,7480,4,Sommerhus,50,1984,
+Bork Hytteby 90 6893 Hemmet,90,420000.0,24-04-1998,Alm.,8400,3,Sommerhus,50,1996,
+Spurvevænget 2 6893 Hemmet,2,515890.0,18-04-1998,Alm.,0,6,Sommerhus,120,1998,
+Lærkevænget 32 6893 Hemmet,32,37250.0,06-04-1998,Andet,305,5,Sommerhus,122,1999,
+Anerbjergevej 4A 6893 Hemmet,0,928663.0,03-04-1998,Alm.,3085,9,Villa,301,1975,
+Lærkevænget 8 6893 Hemmet,8,128000.0,28-03-1998,Alm.,1488,4,Sommerhus,86,2001,
+Støvlen 5 6893 Hemmet,5,300000.0,23-03-1998,Fam.,4000,3,Sommerhus,75,1971,
+Vester Fælled 82 6893 Hemmet,82,353435.0,27-02-1998,Alm.,8032,3,Sommerhus,44,1979,
+Gamma 7 6893 Hemmet,7,298000.0,26-02-1998,Alm.,3772,4,Sommerhus,79,1983,
+Bork Hytteby 280 6893 Hemmet,280,330162.0,23-02-1998,Alm.,7177,3,Sommerhus,46,1984,
+Tarmvej 181A 6893 Hemmet,0,800000.0,21-02-1998,Alm.,0,6,Stuehus,273,1998,
+Bork Hytteby 79 6893 Hemmet,79,55710.0,17-02-1998,Alm.,1114,3,Sommerhus,50,1999,
+Tues Drøwt 40 6893 Hemmet,40,432000.0,16-02-1998,Alm.,8000,3,Sommerhus,54,1978,
+Strandvænget 24 6893 Hemmet,24,145290.0,16-02-1998,Alm.,2017,4,Sommerhus,72,1998,
+Kosigvænget 29 6893 Hemmet,29,480374.0,06-02-1998,Alm.,6004,5,Sommerhus,80,1981,
+Øster Vejrupvej 12 6893 Hemmet,12,525000.0,05-02-1998,Alm.,3832,4,Stuehus,137,1966,
+Nr. Lydumvej 8 6893 Hemmet,8,500000.0,04-02-1998,Alm.,0,7,Villa,200,1900,
+Lundsgårdsvej 8 6893 Hemmet,8,632500.0,04-02-1998,Alm.,2997,8,Villa,211,1940,
+Delta 12 6893 Hemmet,12,143239.0,14-01-1998,Fam.,2702,3,Sommerhus,53,1975,
+Vester Fælled 110 6893 Hemmet,110,340000.0,13-01-1998,Alm.,7727,3,Sommerhus,44,1979,
+Skuldbølvej 5 6893 Hemmet,5,405625.0,05-01-1998,Andet,1287,5,Stuehus,315,1780,
+Strandvænget 23 6893 Hemmet,23,810000.0,13-12-1997,Alm.,9529,4,Sommerhus,85,1996,
+Grævlingevej 5 6893 Hemmet,5,393800.0,07-12-1997,Alm.,8751,3,Sommerhus,45,1971,
+Kosigvænget 44 6893 Hemmet,44,380000.0,01-12-1997,Alm.,4810,4,Sommerhus,79,1977,
+Vester Fælled 71 6893 Hemmet,71,440000.0,01-12-1997,Alm.,5301,5,Sommerhus,83,1977,
+Galgebjergevej 2 6893 Hemmet,2,550000.0,14-11-1997,Alm.,3038,7,Villa,181,1918,
+Lærkevænget 36 6893 Hemmet,36,130000.0,01-11-1997,Alm.,1460,5,Sommerhus,89,1998,
+Rævekrogen 9 6893 Hemmet,9,355000.0,09-10-1997,Alm.,3169,3,Sommerhus,112,2014,
+Bork Hytteby 15 6893 Hemmet,15,329000.0,02-10-1997,Fam.,6580,3,Sommerhus,50,1996,
+Bork Hytteby 99 6893 Hemmet,99,55710.0,21-09-1997,Alm.,1114,3,Sommerhus,50,1999,
+Grævlingevej 18 6893 Hemmet,18,120000.0,04-09-1997,Fam.,2307,3,Sommerhus,52,1971,
+Tarmvej 149 6893 Hemmet,149,600000.0,26-08-1997,Alm.,3896,5,Villa,154,1857,
+Galgebjergevej 9 6893 Hemmet,9,202000.0,11-08-1997,Alm.,1463,3,Villa,138,1930,
+Horsfold 90 6893 Hemmet,90,458038.0,11-08-1997,Alm.,6451,4,Sommerhus,71,1979,
+Kirkehøjvej 32 6893 Hemmet,32,450000.0,08-08-1997,Alm.,0,7,Villa,220,1920,
+Rylevænget 29 6893 Hemmet,29,399361.0,07-08-1997,Alm.,7006,4,Sommerhus,57,1976,
+Bork Hytteby 260 6893 Hemmet,260,385000.0,02-08-1997,Alm.,9625,3,Sommerhus,40,1990,
+Kosigvænget 49 6893 Hemmet,49,356673.0,21-07-1997,Alm.,5573,4,Sommerhus,64,1974,
+Prammen 4 6893 Hemmet,4,796384.0,14-07-1997,Alm.,7239,5,Villa,110,1993,
+Svanevænget 38 6893 Hemmet,38,408000.0,07-07-1997,Alm.,0,5,Sommerhus,75,1973,
+Midtbyvej 27 6893 Hemmet,27,540000.0,26-06-1997,Alm.,4354,6,Villa,124,1920,
+Mågevænget 4 6893 Hemmet,4,250000.0,24-06-1997,Fam.,3424,3,Sommerhus,73,1973,
+Rævekrogen 34 6893 Hemmet,34,115000.0,20-06-1997,Fam.,3026,2,Sommerhus,38,1977,
+Horsfold 134 6893 Hemmet,134,507063.0,17-06-1997,Alm.,6852,4,Sommerhus,74,1979,
+Tarmvej 152 6893 Hemmet,152,213000.0,16-06-1997,Alm.,0,6,Villa,182,1929,
+Svanevænget 9 6893 Hemmet,9,360000.0,28-05-1997,Alm.,5538,4,Sommerhus,65,1974,
+Vagtelvænget 20 6893 Hemmet,20,375057.0,27-05-1997,Alm.,5000,4,Sommerhus,75,1972,
+Egernvej 24 6893 Hemmet,24,353500.0,15-05-1997,Alm.,5276,4,Sommerhus,67,1987,
+Linningvej 18 6893 Hemmet,18,525000.0,09-05-1997,Alm.,6481,4,Sommerhus,81,1973,
+Tarmvej 143 6893 Hemmet,143,290000.0,07-05-1997,Alm.,2636,4,Villa,110,1923,
+Midtbyvej 26 6893 Hemmet,26,100000.0,07-05-1997,Fam.,0,7,Villa,239,1896,
+Vestervang 18 6893 Hemmet,18,495000.0,21-04-1997,Alm.,3750,5,Villa,132,1973,
+Bækager 16 6893 Hemmet,16,775000.0,21-04-1997,Alm.,4015,8,Villa,193,1982,
+Vestergade 9 6893 Hemmet,9,450000.0,18-04-1997,Alm.,2678,5,Anden beboelse,168,1832,
+Mosevænget 10 6893 Hemmet,10,285000.0,18-04-1997,Alm.,0,5,Sommerhus,83,1977,
+Mosevænget 41 6893 Hemmet,41,115000.0,17-04-1997,Alm.,1742,4,Sommerhus,66,1997,
+Husfold 38 6893 Hemmet,38,545986.0,14-04-1997,Alm.,7279,4,Sommerhus,75,1973,
+Støvlen 8 6893 Hemmet,8,378046.0,09-04-1997,Alm.,7132,3,Sommerhus,53,1970,
+Horsfold 150 6893 Hemmet,150,493718.0,07-04-1997,Alm.,6582,4,Sommerhus,75,1979,
+Lærkevænget 19 6893 Hemmet,19,125000.0,21-03-1997,Alm.,1157,4,Sommerhus,108,1998,
+Lerpøtvej 1 6893 Hemmet,1,347562.0,11-03-1997,Alm.,0,6,Villa,121,1880,
+Bandsbølvej 12 6893 Hemmet,12,400000.0,04-03-1997,Alm.,2352,7,Villa,170,1960,
+Vester Fælled 208 6893 Hemmet,208,365533.0,03-03-1997,Alm.,8307,3,Sommerhus,44,1979,
+Tues Drøwt 80 6893 Hemmet,80,500000.0,25-02-1997,Alm.,6666,4,Sommerhus,75,1991,
+Mosevænget 1 6893 Hemmet,1,390000.0,25-02-1997,Alm.,6000,4,Sommerhus,65,1976,
+Tinghedevej 3 6893 Hemmet,3,532779.0,25-02-1997,Alm.,0,5,Villa,169,1957,
+Kirkehøjvej 38M 6893 Hemmet,0,325000.0,18-02-1997,Alm.,6372,3,Sommerhus,51,1980,
+Sydvesten 7 6893 Hemmet,7,314789.0,12-02-1997,Alm.,6697,3,Sommerhus,47,1968,
+Bork Hytteby 78 6893 Hemmet,78,46000.0,06-02-1997,Alm.,920,3,Sommerhus,50,1998,
+Hejrevænget 10 6893 Hemmet,10,415000.0,29-01-1997,Alm.,5060,5,Sommerhus,82,1972,
+Nørredige 30 6893 Hemmet,30,51920.0,28-01-1997,Alm.,370,5,Villa,140,1997,
+Kirkehøjvej 40P 6893 Hemmet,0,352526.0,20-01-1997,Alm.,6779,3,Sommerhus,52,1980,
+Bork Hytteby 202 6893 Hemmet,202,285000.0,02-01-1997,Alm.,5700,5,Sommerhus,50,1984,
+Strandvænget 31 6893 Hemmet,31,132200.0,10-12-1996,Alm.,1612,4,Sommerhus,82,1997,
+Nørredige 34 6893 Hemmet,34,51920.0,03-12-1996,Alm.,307,5,Villa,169,1998,
+Kosigvænget 50 6893 Hemmet,50,598000.0,20-11-1996,Alm.,5805,5,Sommerhus,103,1974,
+Horsfold 80 6893 Hemmet,80,449414.0,14-11-1996,Alm.,8812,3,Sommerhus,51,1991,
+Baunshøjvej 2A 6893 Hemmet,0,426115.0,11-11-1996,Fam.,1495,11,Villa,285,1975,
+Bandsbølvej 16 6893 Hemmet,16,380000.0,08-11-1996,Alm.,2900,4,Villa,131,1971,
+Beta 4 6893 Hemmet,4,350000.0,07-11-1996,Alm.,5000,4,Sommerhus,70,1980,
+Kirkehøjvej 36J 6893 Hemmet,0,285000.0,01-11-1996,Alm.,5588,3,Sommerhus,51,1980,
+Kirkehøjvej 36F 6893 Hemmet,0,332000.0,28-10-1996,Alm.,6509,3,Sommerhus,51,1992,
+Linningvej 5 6893 Hemmet,5,495000.0,23-10-1996,Alm.,7857,3,Sommerhus,63,1975,
+Kirkehøjvej 40F 6893 Hemmet,0,285000.0,22-10-1996,Alm.,5588,3,Sommerhus,51,1980,
+Alfa 1 6893 Hemmet,1,285000.0,22-10-1996,Alm.,0,4,Sommerhus,75,1973,
+Prammen 7 6893 Hemmet,7,750000.0,20-10-1996,Alm.,8928,4,Villa,84,1987,
+Anerbjergevej 34 6893 Hemmet,34,445000.0,15-10-1996,Alm.,4587,3,Villa,97,1865,
+Kirkehøjvej 38N 6893 Hemmet,0,285000.0,15-10-1996,Alm.,5588,3,Sommerhus,51,1980,
+Kirkehøjvej 40N 6893 Hemmet,0,255000.0,14-10-1996,Alm.,5000,3,Sommerhus,51,1980,
+Kirkehøjvej 38Q 6893 Hemmet,0,285000.0,13-10-1996,Alm.,5480,3,Sommerhus,52,1980,
+Kirkehøjvej 40A 6893 Hemmet,0,278000.0,09-10-1996,Alm.,5560,3,Sommerhus,50,1980,
+Kirkehøjvej 36R 6893 Hemmet,0,278000.0,08-10-1996,Alm.,5450,3,Sommerhus,51,1980,
+Vester Fælled 35 6893 Hemmet,35,383000.0,04-10-1996,Alm.,4910,6,Sommerhus,78,1977,
+Grævlingevej 10 6893 Hemmet,10,356000.0,02-10-1996,Alm.,7416,3,Sommerhus,48,1970,
+Tarmvej 204 6893 Hemmet,204,210672.0,02-10-1996,Alm.,1276,5,Villa,165,1946,
+Tues Drøwt 46 6893 Hemmet,46,495000.0,01-10-1996,Alm.,7173,4,Sommerhus,69,1986,
+Horsfold 87 6893 Hemmet,87,420000.0,26-09-1996,Alm.,5833,4,Sommerhus,72,1977,
+Galochen 3 6893 Hemmet,3,320000.0,23-09-1996,Alm.,5245,4,Sommerhus,61,1967,
+Kosigvænget 39 6893 Hemmet,39,535000.0,15-09-1996,Alm.,7133,5,Sommerhus,75,1991,
+Bork Hytteby 35 6893 Hemmet,35,44000.0,14-09-1996,Alm.,880,3,Sommerhus,50,1997,
+Gl. Landevej 14 6893 Hemmet,14,136516.0,12-09-1996,Alm.,2068,4,Villa,66,1906,
+Bork Hytteby 201 6893 Hemmet,201,44000.0,05-09-1996,Alm.,880,3,Sommerhus,50,1997,
+Beta 2 6893 Hemmet,2,288182.0,28-08-1996,Alm.,5146,4,Sommerhus,56,1972,
+Bork Hytteby 157 6893 Hemmet,157,44000.0,25-08-1996,Alm.,880,3,Sommerhus,50,1999,
+Vester Fælled 150 6893 Hemmet,150,357000.0,16-08-1996,Alm.,8113,3,Sommerhus,44,1979,
+Linningvej 4 6893 Hemmet,4,245000.0,13-08-1996,Fam.,4375,4,Sommerhus,56,1971,
+Vester Fælled 102 6893 Hemmet,102,365000.0,13-08-1996,Alm.,8295,3,Sommerhus,44,1979,
+Sydvesten 3 6893 Hemmet,3,366000.0,13-07-1996,Alm.,6654,3,Sommerhus,55,1970,
+Anerbjergevej 16 6893 Hemmet,16,6000.0,12-07-1996,Alm.,0,7,Stuehus,239,1850,
+Skrumsagervej 1 6893 Hemmet,1,6000.0,11-07-1996,Alm.,15,8,Stuehus,391,1873,
+Bork Hytteby 36 6893 Hemmet,36,315000.0,03-07-1996,Alm.,6300,3,Sommerhus,50,1985,
+Vester Fælled 152 6893 Hemmet,152,350000.0,02-07-1996,Alm.,7954,3,Sommerhus,44,1979,
+Egernvej 27 6893 Hemmet,27,590000.0,01-07-1996,Alm.,7763,4,Sommerhus,76,1993,
+Vagtelvænget 28 6893 Hemmet,28,425000.0,28-06-1996,Alm.,7456,3,Sommerhus,57,1973,
+Hejrevænget 28 6893 Hemmet,28,385000.0,28-06-1996,Alm.,7264,3,Sommerhus,53,1972,
+Kirkehøjvej 10 6893 Hemmet,10,280000.0,19-06-1996,Alm.,0,7,Villa,217,1890,
+Rævekrogen 84 6893 Hemmet,84,175000.0,19-06-1996,Alm.,0,3,Sommerhus,83,1971,
+Tarmvej 246 6893 Hemmet,246,487000.0,17-06-1996,Alm.,2435,4,Villa,200,1924,
+Horsfold 100 6893 Hemmet,100,300000.0,14-06-1996,Alm.,5454,3,Sommerhus,55,1979,
+Bork Hytteby 209 6893 Hemmet,209,44000.0,11-06-1996,Alm.,880,3,Sommerhus,50,1997,
+Tinghedevej 7 6893 Hemmet,7,950000.0,31-05-1996,Alm.,5248,8,Stuehus,181,1957,
+Tues Drøwt 56 6893 Hemmet,56,345000.0,25-05-1996,Alm.,5390,4,Sommerhus,64,1979,
+Mågevænget 25 6893 Hemmet,25,314000.0,20-05-1996,Alm.,0,4,Sommerhus,83,1977,
+Egernvej 9 6893 Hemmet,9,280000.0,15-05-1996,Alm.,4444,4,Sommerhus,63,1987,
+Bork Hytteby 177 6893 Hemmet,177,44000.0,09-05-1996,Alm.,880,3,Sommerhus,50,1997,
+Vester Fælled 116 6893 Hemmet,116,243000.0,06-05-1996,Alm.,5400,3,Sommerhus,45,1979,
+Bork Hytteby 154 6893 Hemmet,154,240000.0,01-05-1996,Alm.,5000,4,Sommerhus,48,1984,
+Bork Hytteby 239 6893 Hemmet,239,381478.0,30-04-1996,Alm.,7785,3,Sommerhus,49,1996,
+Vester Fælled 76 6893 Hemmet,76,285000.0,29-04-1996,Alm.,6333,3,Sommerhus,45,1979,
+Strandvænget 45 6893 Hemmet,45,100000.0,02-04-1996,Alm.,800,5,Sommerhus,125,1996,
+Nørredige 22 6893 Hemmet,22,71250.0,01-04-1996,Fam.,398,7,Villa,179,1979,
+Vester Fælled 134 6893 Hemmet,134,232000.0,01-04-1996,Alm.,5272,3,Sommerhus,44,1979,
+Vester Fælled 166 6893 Hemmet,166,295000.0,01-04-1996,Alm.,6704,3,Sommerhus,44,1979,
+Vester Fælled 172 6893 Hemmet,172,232000.0,01-04-1996,Alm.,5272,3,Sommerhus,44,1979,
+Rævekrogen 15 6893 Hemmet,15,365000.0,29-03-1996,Alm.,3762,7,Sommerhus,97,1971,
+Vester Fælled 84 6893 Hemmet,84,285000.0,29-03-1996,Alm.,6477,3,Sommerhus,44,1979,
+Vester Fælled 178 6893 Hemmet,178,285000.0,29-03-1996,Alm.,6477,3,Sommerhus,44,1979,
+Vester Fælled 212 6893 Hemmet,212,285000.0,28-03-1996,Alm.,6477,3,Sommerhus,44,1979,
+Vester Fælled 174 6893 Hemmet,174,225000.0,27-03-1996,Alm.,5000,3,Sommerhus,45,1979,
+Bork Hytteby 222 6893 Hemmet,222,355000.0,26-03-1996,Fam.,7100,3,Sommerhus,50,1996,
+Vester Fælled 75 6893 Hemmet,75,425000.0,24-03-1996,Alm.,6746,5,Sommerhus,63,1977,
+Gamma 8 6893 Hemmet,8,498000.0,23-03-1996,Alm.,5858,5,Sommerhus,85,1976,
+Vester Fælled 138 6893 Hemmet,138,232000.0,22-03-1996,Alm.,5155,3,Sommerhus,45,1979,
+Strandvænget 3 6893 Hemmet,3,790000.0,21-03-1996,Alm.,8315,4,Sommerhus,95,1996,
+Tues Drøwt 21 6893 Hemmet,21,392900.0,19-03-1996,Alm.,6139,4,Sommerhus,64,1979,
+Vester Fælled 66 6893 Hemmet,66,285000.0,19-03-1996,Alm.,6477,3,Sommerhus,44,1979,
+Kirkestrædet 2 6893 Hemmet,2,440000.0,06-03-1996,Alm.,3548,4,Villa,124,1972,
+Gl. Landevej 22 6893 Hemmet,22,20000.0,02-03-1996,Alm.,140,5,Stuehus,142,1918,
+Brosbølvej 2 6893 Hemmet,2,185000.0,14-02-1996,Alm.,1761,3,Villa,105,1953,
+Grævlingevej 19 6893 Hemmet,19,390000.0,12-02-1996,Alm.,6290,3,Sommerhus,62,1969,
+Tarmvej 95 6893 Hemmet,95,400000.0,08-02-1996,Alm.,3125,4,Villa,128,1956,
+Hejrevænget 24 6893 Hemmet,24,375000.0,02-02-1996,Alm.,5514,4,Sommerhus,68,1972,
+Horsfold 143 6893 Hemmet,143,547000.0,29-01-1996,Alm.,7293,4,Sommerhus,75,1993,
+Rylevænget 3 6893 Hemmet,3,360000.0,25-01-1996,Alm.,7200,3,Sommerhus,50,1974,
+Mosegårdsvej 14 6893 Hemmet,14,5150000.0,03-01-1996,Alm.,39312,4,Stuehus,131,1864,
+Ildervej 16 6893 Hemmet,16,298000.0,28-12-1995,Alm.,4257,4,Sommerhus,70,1985,
+Bækvej 1 6893 Hemmet,1,400000.0,27-12-1995,Alm.,2127,7,Villa,188,1843,
+Bork Hytteby 33 6893 Hemmet,33,39800.0,21-12-1995,Alm.,796,3,Sommerhus,50,1996,
+Mosegårdsvej 1 6893 Hemmet,1,380000.0,12-12-1995,Alm.,3040,4,Villa,125,1964,
+Horsfold 91 6893 Hemmet,91,475000.0,06-12-1995,Alm.,8050,4,Sommerhus,59,1989,
+Bork Hytteby 50 6893 Hemmet,50,120000.0,30-11-1995,Alm.,2400,3,Sommerhus,50,1994,
+Brosbølvej 11 6893 Hemmet,11,392000.0,24-11-1995,Fam.,0,8,Villa,206,1880,
+Stråhatten 8 6893 Hemmet,8,388500.0,03-11-1995,Alm.,5550,4,Sommerhus,70,1968,
+Gl. Skolevej 18 6893 Hemmet,18,320000.0,27-10-1995,Alm.,4637,3,Rækkehus,69,1981,
+Bork Hytteby 173 6893 Hemmet,173,39800.0,27-10-1995,Alm.,796,3,Sommerhus,50,1997,
+Sutskoen 2 6893 Hemmet,2,340000.0,23-10-1995,Alm.,7234,3,Sommerhus,47,1972,
+Sønderbyvej 30 6893 Hemmet,30,1275000.0,16-10-1995,Alm.,10897,4,Villa,117,1900,
+Sønderbyvej 28 6893 Hemmet,28,185000.0,13-10-1995,Alm.,0,6,Villa,140,1953,
+Horsfold 186 6893 Hemmet,186,315000.0,11-10-1995,Alm.,4315,4,Sommerhus,73,1979,
+Nørredige 20 6893 Hemmet,20,755000.0,02-10-1995,Alm.,4441,5,Villa,170,1983,
+Hejrevænget 34 6893 Hemmet,34,375000.0,02-10-1995,Alm.,0,5,Sommerhus,95,1972,
+Beta 8 6893 Hemmet,8,356000.0,28-09-1995,Alm.,4746,4,Sommerhus,75,1978,
+Tues Drøwt 74 6893 Hemmet,74,736940.0,27-09-1995,Alm.,8374,5,Sommerhus,88,1994,
+Lukkebjerg 12 6893 Hemmet,12,278500.0,24-09-1995,Fam.,3868,3,Sommerhus,72,1968,
+Strandvænget 20 6893 Hemmet,20,112200.0,13-09-1995,Alm.,1536,4,Sommerhus,73,1996,
+Bork Hytteby 300 6893 Hemmet,300,170000.0,29-08-1995,Alm.,3617,3,Sommerhus,47,1987,
+Esbølvej 4 6893 Hemmet,4,310000.0,28-08-1995,Alm.,2818,4,Villa,110,1966,
+Husfold 42 6893 Hemmet,42,300000.0,25-08-1995,Alm.,0,4,Sommerhus,109,1939,
+Horsfold 136 6893 Hemmet,136,431000.0,25-08-1995,Alm.,5824,4,Sommerhus,74,1986,
+Bjerregårdsvej 2 6893 Hemmet,2,260000.0,21-08-1995,Alm.,0,7,Villa,284,1955,
+Vester Fælled 73 6893 Hemmet,73,402294.0,29-07-1995,Alm.,0,5,Sommerhus,69,1977,
+Østerbækvej 8 6893 Hemmet,8,546575.0,24-07-1995,Alm.,0,5,Stuehus,128,1957,
+Bork Hytteby 124 6893 Hemmet,124,39800.0,10-07-1995,Alm.,796,3,Sommerhus,50,1999,
+Bork Hytteby 128 6893 Hemmet,128,39800.0,08-07-1995,Alm.,796,3,Sommerhus,50,1997,
+Bork Hytteby 168 6893 Hemmet,168,39800.0,05-07-1995,Alm.,812,4,Sommerhus,49,2004,
+Rævekrogen 12 6893 Hemmet,12,290000.0,27-06-1995,Alm.,4027,4,Sommerhus,72,1972,
+Anevej 11 6893 Hemmet,11,76500.0,26-06-1995,Fam.,1366,4,Sommerhus,56,1971,
+Husfold 6 6893 Hemmet,6,204000.0,25-06-1995,Fam.,3090,4,Sommerhus,66,1977,
+Vester Fælled 17 6893 Hemmet,17,545188.0,18-06-1995,Alm.,6125,4,Sommerhus,89,1981,
+Bork Hytteby 192 6893 Hemmet,192,39800.0,16-06-1995,Alm.,812,3,Sommerhus,49,2002,
+Sønderbyvej 29 6893 Hemmet,29,125838.0,15-06-1995,Alm.,740,5,Stuehus,170,1861,
+Rævekrogen 21 6893 Hemmet,21,300000.0,05-06-1995,Alm.,0,5,Sommerhus,78,1971,
+Tranevænget 15 6893 Hemmet,15,335840.0,02-06-1995,Alm.,0,3,Sommerhus,74,1977,
+Egernvej 53 6893 Hemmet,53,121410.0,01-06-1995,Alm.,1927,4,Sommerhus,63,1987,
+Mågevænget 42 6893 Hemmet,42,345000.0,15-05-1995,Alm.,6272,3,Sommerhus,55,1974,
+Vestervang 23 6893 Hemmet,23,453000.0,10-05-1995,Alm.,3431,5,Villa,132,1974,
+Strandvænget 29 6893 Hemmet,29,98000.0,09-05-1995,Alm.,1031,4,Sommerhus,95,2000,
+Linningvej 20 6893 Hemmet,20,379066.0,24-04-1995,Alm.,5743,4,Sommerhus,66,1970,
+Borbjergvej 3 6893 Hemmet,3,931750.0,22-04-1995,Alm.,2920,9,Stuehus,319,2010,
+Kosigvænget 82 6893 Hemmet,82,375000.0,04-04-1995,Alm.,5067,4,Villa,74,1975,
+Oblingvej 8 6893 Hemmet,8,420000.0,03-04-1995,Alm.,2641,8,Stuehus,159,1926,
+Rylevænget 12 6893 Hemmet,12,352360.0,30-03-1995,Alm.,5259,5,Sommerhus,67,1974,
+Horsfold 110 6893 Hemmet,110,395000.0,25-03-1995,Alm.,0,4,Sommerhus,57,1984,
+Kosigvænget 41 6893 Hemmet,41,315000.0,23-03-1995,Alm.,0,4,Sommerhus,70,1974,
+Bork Hytteby 264 6893 Hemmet,264,197375.0,11-03-1995,Alm.,4199,5,Sommerhus,47,1984,
+Tangsigvej 2 6893 Hemmet,2,350000.0,03-03-1995,Alm.,1851,6,Stuehus,189,1896,
+Alpehuen 1 6893 Hemmet,1,270000.0,22-02-1995,Alm.,4736,4,Sommerhus,57,1972,
+Rævekrogen 8 6893 Hemmet,8,300000.0,08-02-1995,Alm.,6000,3,Sommerhus,50,1973,
+Nørredige 10 6893 Hemmet,10,595000.0,02-02-1995,Alm.,0,7,Villa,183,1991,
+Delta 14 6893 Hemmet,14,372000.0,31-01-1995,Alm.,0,5,Sommerhus,67,1972,
+Mågevænget 10 6893 Hemmet,10,171959.0,26-01-1995,Fam.,2645,5,Sommerhus,65,1975,
+Bandsbølvej 33 6893 Hemmet,33,86260.0,25-01-1995,Fam.,0,7,Stuehus,183,1860,
+Rævekrogen 21A 6893 Hemmet,0,157250.0,25-01-1995,Fam.,1894,4,Sommerhus,83,1988,
+Horsfold 72 6893 Hemmet,72,265000.0,24-01-1995,Alm.,4491,4,Sommerhus,59,1977,
+Bork Hytteby 246 6893 Hemmet,246,256000.0,02-01-1995,Alm.,8533,3,Sommerhus,30,1984,
+Rylevænget 25 6893 Hemmet,25,312034.0,21-12-1994,Alm.,5115,4,Sommerhus,61,1973,
+Tarmvej 230 6893 Hemmet,230,427000.0,21-12-1994,Alm.,2497,7,Villa,171,1906,
+Tarmvej 244 6893 Hemmet,244,186456.0,21-12-1994,Alm.,1065,8,Villa,175,1912,
+Stensagervej 8 6893 Hemmet,8,100000.0,18-11-1994,Alm.,862,3,Villa,116,1875,
+Bork Hytteby 146 6893 Hemmet,146,201000.0,11-11-1994,Alm.,4020,4,Sommerhus,50,1985,
+Vester Fælled 57 6893 Hemmet,57,385000.0,13-10-1994,Alm.,0,5,Sommerhus,82,1977,
+Tarmvej 218 6893 Hemmet,218,285000.0,21-09-1994,Alm.,2244,5,Villa,127,1923,
+Bandsbølvej 4 6893 Hemmet,4,129000.0,12-09-1994,Alm.,1015,4,Villa,127,1931,
+Midtbyvej 5 6893 Hemmet,5,330000.0,09-09-1994,Alm.,0,9,Villa,204,1939,
+Vester Vejrupvej 12 6893 Hemmet,12,850000.0,11-08-1994,Alm.,2823,9,Stuehus,301,2004,
+Anerbjergevej 48 6893 Hemmet,48,121670.0,08-08-1994,Alm.,822,5,Stuehus,148,1863,
+Rævekrogen 90 6893 Hemmet,90,210000.0,08-08-1994,Alm.,2916,5,Sommerhus,72,1972,
+Bork Hytteby 164 6893 Hemmet,164,36300.0,19-07-1994,Alm.,789,3,Sommerhus,46,1996,
+Horsfold 188 6893 Hemmet,188,413500.0,28-06-1994,Alm.,5992,4,Sommerhus,69,1979,
+Lappedykkervænget 4 6893 Hemmet,4,300000.0,06-06-1994,Alm.,3370,3,Sommerhus,89,2002,
+Lappedykkervænget 6 6893 Hemmet,6,345000.0,31-05-1994,Alm.,0,4,Sommerhus,76,1972,
+Granvej 29 6893 Hemmet,29,300000.0,30-05-1994,Alm.,3191,3,Villa,94,1981,
+Esbølvej 38 6893 Hemmet,38,135000.0,25-05-1994,Alm.,1500,3,Villa,90,1939,
+Østerhedevej 8 6893 Hemmet,8,595000.0,09-05-1994,Alm.,3863,5,Stuehus,154,1956,
+Kosigvænget 96 6893 Hemmet,96,358400.0,05-05-1994,Alm.,4266,4,Sommerhus,84,1974,
+Rylevænget 14 6893 Hemmet,14,375000.0,05-05-1994,Alm.,5597,4,Sommerhus,67,1976,
+Henningsgårdsvej 1 6893 Hemmet,1,413515.0,28-04-1994,Alm.,2323,7,Stuehus,178,1910,
+Hejrevænget 14 6893 Hemmet,14,318840.0,25-04-1994,Alm.,6015,3,Sommerhus,53,1972,
+Kosigvænget 8 6893 Hemmet,8,285000.0,21-04-1994,Alm.,5588,3,Sommerhus,51,1977,
+Bork Hytteby 100 6893 Hemmet,100,210000.0,15-04-1994,Alm.,4200,2,Sommerhus,50,1992,
+Galgebjergevej 3 6893 Hemmet,3,214535.0,14-04-1994,Auktion,1577,4,Villa,136,1904,
+Kosigvænget 86 6893 Hemmet,86,205000.0,11-04-1994,Alm.,3534,4,Sommerhus,58,1974,
+Bork Hytteby 180 6893 Hemmet,180,234880.0,08-04-1994,Alm.,5728,3,Sommerhus,41,1984,
+Østerhedevej 10 6893 Hemmet,10,500000.0,02-04-1994,Alm.,3731,4,Stuehus,134,1957,
+Bork Hytteby 66 6893 Hemmet,66,260000.0,14-03-1994,Alm.,0,3,Sommerhus,40,1985,
+Støvlen 4 6893 Hemmet,4,306000.0,28-02-1994,Alm.,0,6,Sommerhus,93,1972,
+Lundsgårdsvej 4 6893 Hemmet,4,741220.0,25-02-1994,Alm.,4164,7,Stuehus,178,1920,
+Prammen 5 6893 Hemmet,5,880000.0,16-02-1994,Alm.,8301,4,Villa,106,1993,
+Sdr. Viumvej 2 6893 Hemmet,2,200000.0,09-02-1994,Alm.,1818,4,Villa,110,1960,
+Kosigvænget 18 6893 Hemmet,18,246000.0,09-02-1994,Alm.,4169,4,Sommerhus,59,1973,
+Svanevænget 22 6893 Hemmet,22,87500.0,07-02-1994,Alm.,795,4,Sommerhus,110,1994,
+Tues Drøwt 35 6893 Hemmet,35,417280.0,02-02-1994,Alm.,7194,4,Sommerhus,58,1985,
+Magårdevej 2 6893 Hemmet,2,975000.0,02-02-1994,Alm.,5241,6,Stuehus,186,1874,
+Esbølvej 6 6893 Hemmet,6,195000.0,06-01-1994,Alm.,1710,3,Villa,114,1959,
+Sønderbyvej 8 6893 Hemmet,8,230000.0,21-12-1993,Alm.,0,5,Villa,165,1932,
+Kosigvænget 27 6893 Hemmet,27,250000.0,17-12-1993,Alm.,0,4,Sommerhus,112,1974,
+Fyrrevej 19 6893 Hemmet,19,400000.0,17-12-1993,Alm.,3389,5,Villa,118,1974,
+Rævekrogen 4 6893 Hemmet,4,233000.0,30-11-1993,Alm.,3883,3,Sommerhus,60,1971,
+Anevej 7 6893 Hemmet,7,275000.0,24-11-1993,Alm.,4166,3,Sommerhus,66,1970,
+Bandsbølvej 10 6893 Hemmet,10,289000.0,19-11-1993,Alm.,2330,5,Villa,124,1955,
+Kasketten 4 6893 Hemmet,4,275000.0,05-11-1993,Alm.,4661,4,Sommerhus,59,1971,
+Nr. Lydumvej 3 6893 Hemmet,3,310000.0,29-10-1993,Fam.,3369,4,Villa,92,1959,
+Tarmvej 167 6893 Hemmet,167,127500.0,22-10-1993,Fam.,1356,4,Villa,94,1890,
+Lukkebjerg 17 6893 Hemmet,17,255000.0,18-10-1993,Alm.,0,5,Sommerhus,116,1970,
+Træskoen 1 6893 Hemmet,1,250000.0,12-10-1993,Alm.,0,4,Sommerhus,109,1973,
+Lappedykkervænget 30 6893 Hemmet,30,275000.0,12-10-1993,Alm.,0,4,Sommerhus,90,1973,
+Tues Drøwt 41 6893 Hemmet,41,90000.0,06-10-1993,Alm.,1184,4,Sommerhus,76,1994,
+Husfold 12 6893 Hemmet,12,300000.0,20-09-1993,Alm.,0,4,Villa,106,1973,
+Mågevænget 22 6893 Hemmet,22,295360.0,06-08-1993,Alm.,4219,4,Sommerhus,70,1972,
+Grævlingevej 9 6893 Hemmet,9,84824.0,26-06-1993,Alm.,1767,3,Sommerhus,48,1968,
+Møllegårdsvej 30 6893 Hemmet,30,1000000.0,25-06-1993,Alm.,3012,10,Villa,332,1971,
+Galgebjergevej 15 6893 Hemmet,15,300000.0,17-06-1993,Alm.,0,5,Villa,449,1870,
+Hejrevænget 26 6893 Hemmet,26,250000.0,14-05-1993,Fam.,4716,4,Sommerhus,53,1972,
+Lynevej 8 6893 Hemmet,8,100000.0,06-05-1993,Alm.,0,6,Villa,156,1959,
+Kærvej 6 6893 Hemmet,6,972000.0,07-04-1993,Auktion,5340,7,Stuehus,182,1914,
+Mosevænget 26 6893 Hemmet,26,295000.0,07-04-1993,Alm.,4836,4,Sommerhus,61,1974,
+Tarmvej 142 6893 Hemmet,142,285000.0,31-03-1993,Alm.,4596,3,Villa,62,1944,
+Hejrevænget 13 6893 Hemmet,13,325000.0,30-03-1993,Alm.,4924,4,Sommerhus,66,1972,
+Bandsbølvej 20 6893 Hemmet,20,195000.0,12-03-1993,Alm.,0,3,Villa,98,1950,
+Rævekrogen 24 6893 Hemmet,24,140000.0,26-02-1993,Fam.,3684,3,Sommerhus,38,1970,
+Gl. Landevej 5 6893 Hemmet,5,68000.0,26-02-1993,Fam.,561,4,Villa,121,1931,
+Horsfold 74 6893 Hemmet,74,65000.0,14-02-1993,Alm.,783,4,Sommerhus,83,1994,
+Horsfold 15 6893 Hemmet,15,350000.0,08-02-1993,Alm.,6250,3,Sommerhus,56,1977,
+Bandsbølvej 41 6893 Hemmet,41,602000.0,07-01-1993,Fam.,2205,7,Stuehus,273,1858,
+Prammen 1 6893 Hemmet,1,391507.0,06-01-1993,Fam.,1882,7,Villa,208,1981,
+Sønderbyvej 21 6893 Hemmet,21,276870.0,15-12-1992,Alm.,1821,5,Villa,152,1960,
+Gl. Landevej 3 6893 Hemmet,3,245000.0,27-11-1992,Alm.,2552,3,Villa,96,1905,
+Horsfold 125 6893 Hemmet,125,310000.0,26-10-1992,Alm.,0,3,Sommerhus,87,1977,
+Sønderbyvej 16 6893 Hemmet,16,385000.0,06-10-1992,Alm.,3208,3,Villa,120,1971,
+Horsfold 116 6893 Hemmet,116,282000.0,06-10-1992,Alm.,5035,4,Sommerhus,56,1977,
+Lukkebjerg 3 6893 Hemmet,3,380000.0,16-09-1992,Alm.,5000,4,Sommerhus,76,1974,
+Delta 6 6893 Hemmet,6,85000.0,14-09-1992,Alm.,934,3,Sommerhus,91,1995,
+Jollen 7 6893 Hemmet,7,45000.0,03-09-1992,Alm.,387,4,Villa,116,2001,
+Egernvej 51 6893 Hemmet,51,188000.0,30-08-1992,Alm.,4086,3,Sommerhus,46,1987,
+Brosbølvej 7 6893 Hemmet,7,768000.0,21-08-1992,Andet,0,4,Stuehus,166,1912,
+Bork Hytteby 134 6893 Hemmet,134,50000.0,05-08-1992,Alm.,1000,4,Sommerhus,50,1995,
+Rylevænget 33 6893 Hemmet,33,320000.0,06-06-1992,Alm.,4266,4,Sommerhus,75,1972,
+Østerbækvej 2 6893 Hemmet,2,525000.0,22-05-1992,Fam.,0,11,Stuehus,457,1956,
+Vester Fælled 26 6893 Hemmet,26,360000.0,29-04-1992,Alm.,0,5,Sommerhus,142,1977,
+Grævlingevej 22 6893 Hemmet,22,220000.0,06-04-1992,Alm.,3384,3,Sommerhus,65,1969,
+Linningvej 10 6893 Hemmet,10,305000.0,14-03-1992,Alm.,4485,4,Sommerhus,68,1974,
+Ildervej 8 6893 Hemmet,8,208724.0,10-03-1992,Alm.,0,3,Sommerhus,68,1987,
+Tarmvej 140 6893 Hemmet,140,160000.0,02-03-1992,Fam.,0,5,Villa,153,1952,
+Baunshøjvej 4B 6893 Hemmet,0,286240.0,02-03-1992,Alm.,3216,4,Villa,89,1985,
+Hejrevænget 8 6893 Hemmet,8,258000.0,01-03-1992,Alm.,0,4,Sommerhus,83,1972,
+Vester Fælled 5 6893 Hemmet,5,412500.0,11-02-1992,Alm.,0,5,Sommerhus,99,1979,
+Gundesbølvej 13 6893 Hemmet,13,410000.0,30-01-1992,Fam.,3037,5,Stuehus,135,1954,
+Gl. Landevej 26 6893 Hemmet,26,210000.0,30-01-1992,Fam.,1578,6,Villa,133,1905,

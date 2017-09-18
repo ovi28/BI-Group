@@ -1,0 +1,896 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Bøgevej 2 8653 Them,2,1200000.0,01-05-2017,Alm.,9230,5,Villa,130,1976,-7 %
+Rodelundvej 13 8653 Them,13,750000.0,30-04-2017,Alm.,6000,5,Villa,125,1924,
+Syrenvej 6 8653 Them,6,2045000.0,08-04-2017,Alm.,14006,5,Villa,146,2009,-3 %
+Dyrehaven 8 8653 Them,8,2275000.0,30-03-2017,Alm.,16250,5,Villa,140,1998,-3 %
+Toftegårdsparken 26 8653 Them,26,1360000.0,29-03-2017,Alm.,12952,4,Villa,105,1978,-3 %
+Ansøvej 18 8653 Them,18,295000.0,20-03-2017,Alm.,2006,5,Stuehus,147,1870,
+Højmarkvej 5 8653 Them,5,100000.0,20-03-2017,Alm.,531,5,Stuehus,188,1910,
+Smedebakken 5 8653 Them,5,675000.0,18-03-2017,Alm.,5273,6,Villa,128,1930,-13 %
+Sepstrupvej 47 8653 Them,47,1049589.0,15-03-2017,Alm.,6685,6,Villa,157,2006,
+Ryvej 11 8653 Them,11,5000000.0,09-03-2017,Alm.,21645,7,Stuehus,231,1884,-16 %
+Silkeborgvej 12 8653 Them,12,1650000.0,07-03-2017,Alm.,9593,6,Villa,172,1947,-3 %
+Toftegårds Allé 18 8653 Them,18,1440000.0,03-03-2017,Alm.,12307,4,Villa,117,1979,-4 %
+Bellisvej 9 8653 Them,9,1835000.0,26-02-2017,Alm.,14224,4,Villa,129,2007,-3 %
+Præstemarken 33 8653 Them,33,735000.0,06-02-2017,Alm.,7500,4,Rækkehus,98,1977,-8 %
+Rodelundvej 8B 8653 Them,0,240500.0,14-01-2017,Alm.,1088,6,Stuehus,221,1981,
+Lyngkrogvej 2 8653 Them,2,1555000.0,11-01-2017,Alm.,10874,4,Stuehus,143,1929,4 %
+Hjortevej 8 8653 Them,8,2495000.0,09-01-2017,Alm.,16744,5,Villa,149,2006,-4 %
+Silkeborgvej 2A 8653 Them,0,2700000.0,07-01-2017,Alm.,15000,7,Villa,180,1978,
+Møllevej 17 8653 Them,17,1550000.0,30-12-2016,Alm.,9117,7,Villa,170,1972,-9 %
+Mosestien 1 8653 Them,1,800000.0,22-12-2016,Alm.,7207,5,Villa,111,1962,-11 %
+Them Skovvej 16 8653 Them,16,2200000.0,16-12-2016,Fam.,13017,6,Stuehus,169,1955,
+Tømmerbyvej 16 8653 Them,16,1690271.0,15-12-2016,Alm.,10121,4,Stuehus,167,1928,
+Højagervej 11 8653 Them,11,1650000.0,13-12-2016,Alm.,11785,5,Villa,140,1973,-2 %
+Toftegårdsparken 49 8653 Them,49,977500.0,13-12-2016,Fam.,8650,4,Villa,113,1979,
+Kirkemindevej 7 8653 Them,7,1050000.0,12-12-2016,Alm.,8536,5,Villa,123,1900,-9 %
+Bellisvej 7 8653 Them,7,1900000.0,02-12-2016,Alm.,13970,4,Villa,136,2006,-5 %
+Tjørnevej 14B 8653 Them,0,995000.0,18-11-2016,Alm.,10934,4,Rækkehus,91,1983,0 %
+Præstemarken 15D 8653 Them,0,580000.0,16-11-2016,Alm.,11836,1,Lejlighed,49,1974,-10 %
+Toftegårds Allé 14 8653 Them,14,1495000.0,10-11-2016,Alm.,13842,4,Villa,108,1980,0 %
+Tømmerbyvej 17 8653 Them,17,703500.0,06-11-2016,Alm.,4721,6,Stuehus,149,1908,-58 %
+Harevej 1 8653 Them,1,2975000.0,27-10-2016,Alm.,15994,6,Villa,186,2008,0 %
+Birkevej 2 8653 Them,2,1100000.0,26-10-2016,Fam.,8148,5,Villa,135,1973,
+Odinsvej 17 8653 Them,17,2195000.0,20-10-2016,Alm.,14161,6,Villa,155,2005,-2 %
+Løvsvinget 20 8653 Them,20,1775000.0,19-10-2016,Alm.,10142,6,Villa,175,1976,-4 %
+Møllevænget 10 8653 Them,10,985000.0,10-10-2016,Alm.,6840,6,Villa,144,1971,
+Silkeborgvej 1A 8653 Them,0,1525000.0,07-10-2016,Alm.,9131,5,Villa,167,1931,-5 %
+Tømmerbyvej 31 8653 Them,31,1680000.0,01-10-2016,Alm.,10700,5,Villa,157,1907,-6 %
+Silkeborgvej 1B 8653 Them,0,1450000.0,29-09-2016,Alm.,12500,4,Villa,116,2007,-3 %
+Silkeborgvej 70 8653 Them,70,1600000.0,23-09-2016,Alm.,10526,3,Villa,152,1940,
+Lyngkrogvej 1 8653 Them,1,1110000.0,20-09-2016,Alm.,9652,3,Villa,115,1867,-7 %
+Dyrehaven 2 8653 Them,2,2550000.0,15-09-2016,Alm.,14571,7,Villa,175,1998,-5 %
+Liljevej 1 8653 Them,1,890000.0,15-09-2016,Alm.,10987,3,Rækkehus,81,1982,-6 %
+Slåenvej 16 8653 Them,16,675000.0,13-09-2016,Alm.,7417,4,Rækkehus,91,1986,-15 %
+Sepstrupvej 71 8653 Them,71,5500000.0,12-09-2016,Alm.,18771,6,Stuehus,293,2004,-15 %
+Horsensvej 15 8653 Them,15,300000.0,06-09-2016,Alm.,1463,6,Villa,205,1906,
+Sepstrupvej 6 8653 Them,6,550000.0,30-08-2016,Fam.,3873,3,Villa,142,1921,
+Horsensvej 32 8653 Them,32,483200.0,23-08-2016,Auktion,4646,4,Villa,104,1977,
+Præstemarken 34 8653 Them,34,1180000.0,22-08-2016,Alm.,10172,4,Villa,116,1976,-9 %
+Them Skovvej 18 8653 Them,18,331250.0,15-08-2016,Alm.,2528,4,Stuehus,131,1987,
+Bøgevej 1 8653 Them,1,1745000.0,10-08-2016,Alm.,9858,6,Villa,177,1974,-6 %
+Smedebakken 18 8653 Them,18,1550000.0,19-07-2016,Alm.,11231,5,Villa,138,1961,-3 %
+Slåenvej 6 8653 Them,6,650000.0,24-06-2016,Alm.,7142,4,Rækkehus,91,1984,-13 %
+Møllehøjsvej 1 8653 Them,1,1350000.0,21-06-2016,Alm.,8437,6,Villa,160,1969,-3 %
+Mølledraget 6 8653 Them,6,2000000.0,13-06-2016,Alm.,13605,6,Villa,147,1996,-5 %
+Bødskovgårdvej 16 8653 Them,16,90000.0,31-05-2016,Alm.,629,5,Stuehus,143,1938,
+Frisholmvej 4 8653 Them,4,1500000.0,18-05-2016,Alm.,12820,4,Villa,117,1939,16 %
+Saltenvej 16 8653 Them,16,2475000.0,17-05-2016,Fam.,11565,6,Stuehus,214,2013,
+Toftevænget 24 8653 Them,24,1450000.0,03-05-2016,Alm.,10661,4,Villa,136,1973,-3 %
+Them Østergård 23 8653 Them,23,2300000.0,20-04-2016,Alm.,14110,4,Villa,163,2007,-2 %
+Toftegårdsparken 66 8653 Them,66,1480000.0,20-04-2016,Alm.,9250,6,Villa,160,1980,-7 %
+Slåenvej 27 8653 Them,27,1360000.0,14-04-2016,Alm.,9645,5,Villa,141,1986,-3 %
+Elmevej 5 8653 Them,5,1000000.0,04-04-2016,Alm.,5813,6,Villa,172,1972,-28 %
+Præstemarken 30 8653 Them,30,900000.0,30-03-2016,Fam.,6923,4,Villa,130,1977,-10 %
+Sepstrupvej 9 8653 Them,9,1750000.0,23-03-2016,Alm.,8974,6,Villa,195,1924,-3 %
+Toftegårdsparken 5 8653 Them,5,1500000.0,22-03-2016,Alm.,10714,4,Villa,140,1979,-9 %
+Møllevænget 5 8653 Them,5,1125000.0,21-03-2016,Alm.,9375,4,Villa,120,1965,-6 %
+Slåenvej 8 8653 Them,8,780000.0,17-03-2016,Alm.,8571,4,Rækkehus,91,1984,-5 %
+Frisholmparken 41 8653 Them,41,374000.0,15-03-2016,Alm.,2460,6,Villa,152,2016,
+Frisholmparken 11 8653 Them,11,327000.0,09-03-2016,Alm.,2151,7,Villa,152,2017,0 %
+Rodelundvej 21 8653 Them,21,2700000.0,03-03-2016,Alm.,15789,6,Stuehus,171,1928,
+Hørrelundvej 6 8653 Them,6,2896000.0,26-02-2016,Alm.,18928,8,Villa,153,1936,
+Højagervej 10 8653 Them,10,650000.0,25-02-2016,Alm.,5508,4,Villa,118,1973,-27 %
+Odinsvej 3 8653 Them,3,1550000.0,12-02-2016,Alm.,11313,5,Villa,137,2003,-9 %
+Pårupvej 3 8653 Them,3,2612500.0,10-02-2016,Alm.,12265,6,Stuehus,213,1885,-12 %
+Toftevænget 21 8653 Them,21,2000000.0,10-02-2016,Alm.,10204,7,Villa,196,1972,-5 %
+Ligustervej 8 8653 Them,8,1715000.0,18-01-2016,Alm.,13192,5,Villa,130,2005,-4 %
+Salten Skovvej 9 8653 Them,9,2200000.0,13-01-2016,Alm.,17886,4,Villa,123,1945,-12 %
+Frisholmparken 19 8653 Them,19,444000.0,07-01-2016,Alm.,2439,6,Villa,182,2017,
+Toftbjerg Bakke 1A 8653 Them,0,393837.0,01-01-2016,Andet,3076,6,Rækkehus,128,1959,
+Knudlundvej 13 8653 Them,13,1225000.0,19-11-2015,Alm.,0,4,Lejlighed,197,1970,
+Toftevænget 35 8653 Them,35,1400000.0,18-11-2015,Alm.,9459,6,Villa,148,1972,-9 %
+Ryvej 10 8653 Them,10,2850000.0,13-11-2015,Alm.,17484,4,Stuehus,163,1820,-7 %
+Silkeborgvej 42B 8653 Them,0,1150000.0,06-11-2015,Alm.,6969,6,Rækkehus,165,1900,-4 %
+Ahornvej 5 8653 Them,5,1345000.0,30-10-2015,Alm.,11208,5,Villa,120,1974,-9 %
+Toftegårdsparken 4 8653 Them,4,1350000.0,28-10-2015,Alm.,8231,5,Villa,164,1978,-8 %
+Toftevænget 6 8653 Them,6,865000.0,09-10-2015,Fam.,5924,4,Villa,146,1973,
+Præstemarken 31 8653 Them,31,1265000.0,07-10-2015,Alm.,12908,4,Rækkehus,98,1977,-2 %
+Ligustervej 12 8653 Them,12,1875000.0,06-10-2015,Alm.,12500,4,Villa,150,2000,-4 %
+Odinsvej 48 8653 Them,48,1337000.0,30-09-2015,Alm.,12980,3,Villa,103,2005,-4 %
+Ansøvej 17 8653 Them,17,714000.0,28-09-2015,Fam.,5100,4,Villa,140,1935,
+Højagervej 6 8653 Them,6,1065000.0,16-09-2015,Alm.,10867,3,Villa,98,1975,-7 %
+Esperlundvej 12 8653 Them,12,2000000.0,10-09-2015,Alm.,19801,7,Industri o.l.,101,1983,
+Ryvej 5 8653 Them,5,1300000.0,09-09-2015,Alm.,6018,5,Stuehus,216,1907,-7 %
+Kærmindevej 12 8653 Them,12,1625000.0,03-09-2015,Alm.,7004,6,Villa,232,1974,-4 %
+Elmevej 14 8653 Them,14,735000.0,28-08-2015,Alm.,6282,4,Villa,117,1973,-18 %
+Skovbrynet 5 8653 Them,5,1040000.0,28-08-2015,Alm.,8888,4,Villa,117,1964,-5 %
+Bakbjergvej 4 8653 Them,4,2100000.0,24-08-2015,Alm.,8713,8,Villa,241,1875,-4 %
+Frisholmparken 23 8653 Them,23,280800.0,20-08-2015,Alm.,1651,5,Villa,170,2016,
+Kaldæavej 2 8653 Them,2,988000.0,18-08-2015,Andet,5458,6,Villa,181,2006,
+Horsbjergvej 2 8653 Them,2,3615000.0,11-08-2015,Alm.,18350,6,Stuehus,197,1892,-10 %
+Liljevej 3 8653 Them,3,560983.0,12-07-2015,Alm.,6925,3,Rækkehus,81,1982,
+Horsensvej 34 8653 Them,34,1400000.0,01-07-2015,Alm.,13207,4,Villa,106,1940,-3 %
+Mølleengen 6 8653 Them,6,920500.0,30-06-2015,Alm.,6304,4,Villa,146,1973,
+Tømmerbyvej 24 8653 Them,24,58600.0,26-06-2015,Alm.,363,6,Stuehus,161,1928,
+Frisholmparken 9 8653 Them,9,278457.0,24-06-2015,Alm.,1974,5,Villa,141,2016,
+Thorsvej 6 8653 Them,6,1550000.0,23-06-2015,Alm.,10763,4,Villa,144,2000,-3 %
+Thorsvej 3 8653 Them,3,1575000.0,04-06-2015,Alm.,12401,5,Villa,127,2000,-1 %
+Pårupvej 8 8653 Them,8,17398570.0,03-06-2015,Alm.,58978,7,Stuehus,295,1887,
+Toftegårdsparken 19 8653 Them,19,767000.0,29-05-2015,Alm.,6787,4,Villa,113,1980,-49 %
+Ansøvej 12 8653 Them,12,1300000.0,27-05-2015,Alm.,9352,5,Villa,139,1938,
+Silkeborgvej 13 8653 Them,13,650000.0,21-05-2015,Alm.,3869,5,Villa,168,1910,-13 %
+Tjørnevej 12 8653 Them,12,930000.0,21-05-2015,Alm.,10689,3,Villa,87,1982,-3 %
+Toftegårdsparken 31 8653 Them,31,1350000.0,17-05-2015,Alm.,12053,4,Villa,112,1980,-7 %
+Knudlundvej 10A 8653 Them,0,1026732.0,13-05-2015,Andet,5672,5,Villa,181,1870,-59 %
+Jasminvej 10 8653 Them,10,2445000.0,08-05-2015,Alm.,15186,5,Villa,161,2006,-2 %
+Ryvej 19 8653 Them,19,2150000.0,07-05-2015,Alm.,11197,5,Stuehus,192,1930,-52 %
+Toftevænget 43 8653 Them,43,1230000.0,04-05-2015,Alm.,9461,4,Villa,130,1973,-1 %
+Bellisvej 5 8653 Them,5,1550000.0,30-04-2015,Andet,10402,5,Villa,149,2006,
+Gl Skolevej 4 8653 Them,4,600000.0,26-04-2015,Fam.,2230,7,Villa,269,1902,
+Frisholmparken 25 8653 Them,25,268000.0,22-04-2015,Alm.,1798,5,Villa,149,2015,-20 %
+Silkeborgvej 18 8653 Them,18,1650000.0,19-04-2015,Alm.,12222,6,Villa,135,1947,-3 %
+Frisholmparken 35 8653 Them,35,302400.0,13-04-2015,Alm.,1989,6,Villa,152,2015,
+Jasminvej 3 8653 Them,3,2235000.0,09-04-2015,Alm.,9675,9,Villa,231,1997,-6 %
+Hjortevej 9 8653 Them,9,2200000.0,16-03-2015,Alm.,14012,5,Villa,157,2006,-8 %
+Slåenvej 12 8653 Them,12,630000.0,05-03-2015,Alm.,6923,4,Rækkehus,91,1985,
+Them Skovvej 9 8653 Them,9,375000.0,18-02-2015,Fam.,2259,5,Stuehus,166,2015,
+Poppelvej 7 8653 Them,7,885000.0,17-02-2015,Alm.,6366,4,Villa,139,1974,-11 %
+Kærmindevej 7 8653 Them,7,2010000.0,11-02-2015,Alm.,10923,6,Villa,184,1974,-4 %
+Hybenvej 4 8653 Them,4,850000.0,31-01-2015,Alm.,9340,3,Villa,91,1984,0 %
+Syrenvej 2 8653 Them,2,2240000.0,20-01-2015,Alm.,11487,6,Villa,195,2007,-6 %
+Rugvænget 5 8653 Them,5,1700000.0,30-12-2014,Alm.,11643,6,Villa,146,1972,-3 %
+Horsensvej 23 8653 Them,23,740000.0,12-12-2014,Alm.,5362,5,Villa,138,1921,-15 %
+Bakbjergvej 16A 8653 Them,0,978000.0,10-12-2014,Alm.,5891,5,Villa,166,1920,
+Højmarkvej 4 8653 Them,4,4250000.0,28-11-2014,Alm.,19859,5,Stuehus,214,1972,
+Toftevænget 11 8653 Them,11,825000.0,20-11-2014,Alm.,6600,4,Villa,125,1972,
+Mølleløkken 4 8653 Them,4,935000.0,09-11-2014,Alm.,5436,6,Villa,172,1972,
+Frisholmparken 37 8653 Them,37,307200.0,21-10-2014,Alm.,1839,7,Villa,167,2015,
+Tømmerbyvej 29 8653 Them,29,13000000.0,07-10-2014,Alm.,53719,8,Stuehus,242,1931,
+Slåenvej 4 8653 Them,4,775000.0,02-10-2014,Alm.,8516,4,Rækkehus,91,1984,-3 %
+Kærmindevej 21 8653 Them,21,1395000.0,07-09-2014,Alm.,11625,4,Villa,120,1975,-5 %
+Bødskovgårdvej 30 8653 Them,30,2582000.0,06-09-2014,Alm.,12719,4,Stuehus,203,1916,-9 %
+Museumsvej 7 8653 Them,7,1000000.0,26-08-2014,Alm.,8333,4,Villa,120,1880,-4 %
+Toftevænget 7 8653 Them,7,603535.0,26-08-2014,Andet,3079,8,Villa,196,1975,
+Ålhøjvej 2 8653 Them,2,180000.0,16-08-2014,Alm.,2117,3,Villa,85,1960,-49 %
+Silkeborgvej 72 8653 Them,72,1325000.0,12-08-2014,Alm.,10114,4,Villa,131,1979,
+Møllevænget 11 8653 Them,11,1300000.0,23-07-2014,Alm.,10000,5,Villa,130,1971,-7 %
+Mosestien 5 8653 Them,5,750000.0,21-07-2014,Alm.,5000,6,Villa,150,1972,-6 %
+Toftevænget 31 8653 Them,31,1825000.0,30-06-2014,Alm.,8410,10,Villa,217,1973,-8 %
+Mandsdalvej 1 8653 Them,1,2025000.0,24-06-2014,Alm.,12423,5,Stuehus,163,1892,
+Hjortevej 4 8653 Them,4,2900000.0,20-06-2014,Alm.,14009,5,Villa,207,2006,-3 %
+Gl. Ryvej 3 8653 Them,3,1435000.0,19-06-2014,Alm.,9198,6,Villa,156,1944,-4 %
+Ryvej 27 8653 Them,27,1610000.0,25-05-2014,Alm.,8385,5,Stuehus,192,1897,-10 %
+Ålhøjvej 6 8653 Them,6,2362000.0,23-05-2014,Alm.,8879,7,Stuehus,266,1877,-41 %
+Frisholmparken 39 8653 Them,39,380000.0,19-05-2014,Alm.,2275,6,Villa,167,2015,
+Tjørnevej 6 8653 Them,6,1750000.0,16-05-2014,Alm.,8838,7,Villa,198,1980,-10 %
+Hjortevej 39 8653 Them,39,2900000.0,12-05-2014,Alm.,11462,7,Villa,253,2007,-6 %
+Ligustervej 4 8653 Them,4,1550000.0,07-05-2014,Alm.,15500,4,Villa,100,2005,-3 %
+Sepstrupvej 55 8653 Them,55,24696200.0,23-04-2014,Alm.,73065,8,Stuehus,338,1994,
+Sepstrupvej 40 8653 Them,40,700000.0,26-03-2014,Alm.,4375,7,Villa,160,1895,
+Bødskovgårdvej 1 8653 Them,1,400000.0,25-03-2014,Alm.,2259,4,Stuehus,177,1910,
+Frisholmparken 43 8653 Them,43,377000.0,24-03-2014,Alm.,2401,6,Villa,157,2015,
+Harbohøjvej 12 8653 Them,12,2150000.0,07-03-2014,Alm.,14333,5,Villa,150,2001,-6 %
+Toftevænget 37 8653 Them,37,1525000.0,04-03-2014,Alm.,10166,5,Villa,150,1975,-9 %
+Them Skovvej 1 8653 Them,1,2000000.0,27-02-2014,Alm.,10810,4,Stuehus,185,2014,
+Bakbjergvej 18 8653 Them,18,480000.0,24-02-2014,Alm.,2790,7,Villa,172,2016,-12 %
+Jævndalvej 3 8653 Them,3,5700000.0,19-02-2014,Alm.,17484,9,Stuehus,326,1913,-5 %
+Jasminvej 14 8653 Them,14,2300000.0,02-02-2014,Alm.,14649,7,Villa,157,2005,-6 %
+Frisholmparken 29 8653 Them,29,435000.0,23-01-2014,Alm.,2051,6,Villa,212,2017,
+Jasminvej 2 8653 Them,2,200000.0,10-01-2014,Fam.,970,8,Villa,206,2003,
+Frisholmparken 31 8653 Them,31,503000.0,13-12-2013,Alm.,2502,7,Villa,201,2014,
+Horsensvej 14 8653 Them,14,650000.0,05-12-2013,Auktion,5241,5,Villa,124,1927,
+Højagervej 13 8653 Them,13,900000.0,28-11-2013,Alm.,7142,4,Villa,126,1975,-10 %
+Smedebakken 34 8653 Them,34,1450000.0,27-11-2013,Alm.,5942,6,Villa,244,1975,-3 %
+Klokbjerghegnet 11 8653 Them,11,1575000.0,15-11-2013,Alm.,8606,6,Villa,183,1988,-7 %
+Thorsvej 1 8653 Them,1,910000.0,31-10-2013,Auktion,5141,6,Villa,177,1996,
+Højagervej 15 8653 Them,15,1105000.0,29-10-2013,Alm.,9525,4,Villa,116,1975,-8 %
+Toftegårdsparken 24 8653 Them,24,900000.0,21-10-2013,Alm.,8571,4,Villa,105,1978,-10 %
+Harevej 3 8653 Them,3,2650000.0,08-10-2013,Alm.,11572,6,Villa,229,2007,
+Højagervej 25 8653 Them,25,1409000.0,27-09-2013,Alm.,8051,5,Villa,175,1975,-4 %
+Hybenvej 2 8653 Them,2,1175000.0,23-09-2013,Alm.,10398,4,Villa,113,1983,-2 %
+Horsensvej 1 8653 Them,1,1100000.0,20-09-2013,Alm.,4330,10,Villa,254,1979,-33 %
+Tømmerbyvej 20 8653 Them,20,490000.0,02-09-2013,Fam.,4537,2,Villa,108,1902,
+Saltenvej 22 8653 Them,22,975000.0,25-07-2013,Alm.,7862,4,Villa,124,1932,-2 %
+Kærmindevej 17 8653 Them,17,1300000.0,24-06-2013,Alm.,10483,4,Villa,124,1975,-7 %
+Mølleløkken 2 8653 Them,2,1370000.0,22-06-2013,Alm.,10378,5,Villa,132,1970,-2 %
+Salten Skovvej 15 8653 Them,15,1580000.0,15-06-2013,Alm.,11285,3,Villa,140,1827,-7 %
+Hasselvej 4 8653 Them,4,1325000.0,04-06-2013,Alm.,11324,4,Villa,117,1979,-5 %
+Gran Allé 2 8653 Them,2,445800.0,03-06-2013,Auktion,4548,5,Villa,98,1935,
+Lokesvej 4 8653 Them,4,1625000.0,28-05-2013,Alm.,11948,5,Villa,136,1997,-4 %
+Frisholmvej 6 8653 Them,6,870000.0,03-05-2013,Alm.,6744,5,Villa,129,1939,-3 %
+Hjortevej 19 8653 Them,19,2475000.0,29-04-2013,Alm.,15184,5,Villa,163,2007,-6 %
+Sepstrupvej 25 8653 Them,25,2250000.0,27-03-2013,Alm.,18145,4,Stuehus,124,1925,
+Silkeborgvej 5 8653 Them,5,1650000.0,18-03-2013,Alm.,10855,6,Villa,152,1958,
+Smedebakken 30 8653 Them,30,1745000.0,15-03-2013,Fam.,10204,7,Villa,171,1988,
+Klokbjerghegnet 6 8653 Them,6,975000.0,04-03-2013,Alm.,11337,3,Villa,86,1987,-7 %
+Elmevej 7 8653 Them,7,1000000.0,26-02-2013,Alm.,7352,5,Villa,136,1973,0 %
+Askevej 7 8653 Them,7,1740000.0,04-02-2013,Alm.,11917,5,Villa,146,1989,-8 %
+Kaldæavej 7 8653 Them,7,2740000.0,23-01-2013,Alm.,15838,5,Villa,173,2006,
+Klintevej 1 8653 Them,1,1400000.0,14-01-2013,Alm.,8235,8,Villa,170,1978,-15 %
+Ryvej 30 8653 Them,30,498846.0,21-12-2012,Alm.,2247,7,Villa,222,1907,-64 %
+Rugvænget 16 8653 Them,16,1104000.0,20-12-2012,Alm.,6571,5,Villa,168,1974,
+Bødskovgårdvej 5 8653 Them,5,2150000.0,19-12-2012,Alm.,11559,6,Villa,186,1900,-6 %
+Salten Skovvej 1A 8653 Them,0,1700000.0,07-12-2012,Alm.,9444,9,Villa,180,1930,-8 %
+Ansøvej 19 8653 Them,19,280000.0,14-11-2012,Alm.,1465,6,Stuehus,191,1927,
+Elmevej 15 8653 Them,15,1675000.0,12-11-2012,Alm.,9852,5,Villa,170,1972,-4 %
+Ryvej 26 8653 Them,26,696886.0,12-11-2012,Alm.,4275,6,Engroshandel,163,1924,
+Bellisvej 11 8653 Them,11,1650000.0,30-10-2012,Fam.,11073,5,Villa,149,2006,
+Stenhulevej 3 8653 Them,3,2400000.0,29-10-2012,Alm.,11822,6,Stuehus,203,2014,
+Smedebakken 6 8653 Them,6,500000.0,22-10-2012,Fam.,2747,3,Villa,182,1948,
+Syrenvej 14 8653 Them,14,2450000.0,13-10-2012,Alm.,11395,7,Villa,215,2007,-6 %
+Bakbjergvej 16G 8653 Them,0,2100000.0,04-10-2012,Alm.,14383,4,Rækkehus,146,1965,
+Løvsvinget 6 8653 Them,6,725000.0,18-09-2012,Fam.,4475,5,Villa,162,1976,
+Ryvej 31 8653 Them,31,189590.0,26-08-2012,Alm.,783,7,Stuehus,242,1870,
+Harevej 2 8653 Them,2,2425000.0,16-08-2012,Alm.,15348,5,Villa,158,2007,-7 %
+Saltenvej 20 8653 Them,20,1250000.0,01-08-2012,Alm.,15625,4,Villa,80,1923,-3 %
+Harbohøjvej 9 8653 Them,9,2900000.0,28-06-2012,Alm.,11934,6,Villa,243,2007,-9 %
+Rodelundvej 12 8653 Them,12,155000.0,15-05-2012,Auktion,1107,4,Villa,140,1913,
+Ansøvej 24 8653 Them,24,300000.0,06-05-2012,Alm.,2752,3,Stuehus,109,1920,
+Ansøvej 8 8653 Them,8,2490000.0,01-05-2012,Alm.,18444,6,Stuehus,135,1914,
+Ryvej 25 8653 Them,25,1280000.0,27-04-2012,Alm.,8311,5,Villa,154,1946,-14 %
+Engetvedvej 11 8653 Them,11,6294000.0,24-04-2012,Alm.,16873,10,Stuehus,373,1986,
+Dyrehaven 20 8653 Them,20,2350000.0,23-04-2012,Alm.,10491,8,Villa,224,1998,-6 %
+Jasminvej 28 8653 Them,28,2150000.0,17-04-2012,Alm.,14726,5,Villa,146,2005,-4 %
+Odinsvej 11 8653 Them,11,2175000.0,29-03-2012,Alm.,14597,5,Villa,149,2005,-3 %
+Ryvej 9 8653 Them,9,9111660.0,22-03-2012,Alm.,30171,9,Stuehus,302,1974,
+Hjortevej 23 8653 Them,23,2350000.0,21-03-2012,Alm.,17028,5,Villa,138,2006,-9 %
+Ryvej 8 8653 Them,8,500000.0,15-03-2012,Alm.,2994,6,Stuehus,167,1905,
+Rugvænget 22 8653 Them,22,1100000.0,13-03-2012,Alm.,10476,4,Villa,105,1979,
+Ryvej 28 8653 Them,28,460000.0,13-03-2012,Auktion,3865,3,Villa,119,1930,-34 %
+Højagervej 18 8653 Them,18,1650000.0,02-03-2012,Alm.,12132,5,Villa,136,2009,-6 %
+Rodelundvej 18 8653 Them,18,300000.0,23-02-2012,Auktion,2803,3,Villa,107,1942,
+Tømmerbyvej 14 8653 Them,14,120000.0,21-02-2012,Alm.,512,6,Stuehus,234,1908,
+Kaldæavej 3 8653 Them,3,2040000.0,15-02-2012,Alm.,12515,5,Villa,163,2007,-7 %
+Toftegårdsparken 45 8653 Them,45,1295000.0,06-02-2012,Alm.,13776,4,Villa,94,1981,0 %
+Gran Allé 3 8653 Them,3,610000.0,23-12-2011,Alm.,4485,5,Villa,136,1850,-19 %
+Præstemarken 44 8653 Them,44,1200000.0,20-12-2011,Alm.,12244,4,Villa,98,1978,-14 %
+Silkeborgvej 11 8653 Them,11,1750000.0,20-12-2011,Fam.,11437,5,Villa,153,1937,
+Toftegårdsparken 43 8653 Them,43,1400000.0,19-12-2011,Alm.,11864,4,Villa,118,1980,-6 %
+Ansøvej 4 8653 Them,4,1795000.0,21-11-2011,Alm.,6930,8,Villa,259,2015,0 %
+Rugvænget 8 8653 Them,8,1725000.0,07-11-2011,Alm.,9583,4,Villa,180,1972,-9 %
+Toftegårdsparken 39 8653 Them,39,1645000.0,02-11-2011,Alm.,13373,4,Villa,123,1980,-2 %
+Horsbjergvej 6 8653 Them,6,1487500.0,10-10-2011,Alm.,11100,4,Stuehus,134,1897,
+Ryvej 7A 8653 Them,0,3701250.0,21-09-2011,Alm.,9184,14,Anden beboelse,403,1852,
+Ryvej 29 8653 Them,29,1825000.0,21-09-2011,Alm.,12943,5,Villa,141,1947,-9 %
+Syrenvej 8 8653 Them,8,2075000.0,13-09-2011,Alm.,15145,5,Villa,137,2007,-10 %
+Horsensvej 7 8653 Them,7,445000.0,02-09-2011,Auktion,3178,9,Villa,140,1898,-41 %
+Museumsvej 19 8653 Them,19,2450000.0,10-08-2011,Alm.,21120,4,Stuehus,116,1873,
+Gårdstedvej 4 8653 Them,4,2600000.0,05-08-2011,Alm.,16993,3,Villa,153,1991,
+Hedehusvej 9 8653 Them,9,2475000.0,17-07-2011,Alm.,22916,4,Stuehus,108,1880,
+Toftevænget 22 8653 Them,22,1470000.0,14-07-2011,Alm.,12457,4,Villa,118,1973,-2 %
+Højmarkvej 7 8653 Them,7,3200000.0,30-06-2011,Alm.,20779,5,Stuehus,154,1931,
+Bakbjergvej 24 8653 Them,24,1150000.0,28-06-2011,Alm.,8518,4,Villa,135,1900,-14 %
+Horsensvej 4 8653 Them,4,1400000.0,14-06-2011,Alm.,7106,5,Villa,197,1907,
+Ryvej 18 8653 Them,18,1681500.0,20-05-2011,Fam.,5222,13,Villa,322,1999,
+Toftegårdsparken 44 8653 Them,44,885000.0,10-05-2011,Alm.,4916,5,Villa,180,1980,
+Hjortevej 5 8653 Them,5,2286000.0,19-04-2011,Alm.,15986,5,Villa,143,2006,-5 %
+Egernvej 2 8653 Them,2,1800000.0,31-03-2011,Alm.,10843,6,Villa,166,2007,-25 %
+Bødskovgårdvej 20 8653 Them,20,2825000.0,30-03-2011,Alm.,22070,2,Stuehus,128,1938,-6 %
+Toftevænget 27 8653 Them,27,1500000.0,28-03-2011,Alm.,12396,4,Villa,121,1972,-3 %
+Møllevænget 15 8653 Them,15,2250000.0,08-03-2011,Alm.,15306,6,Villa,147,2000,-2 %
+Rygesmindevej 6 8653 Them,6,2500000.0,20-02-2011,Fam.,10638,6,Villa,235,1973,
+Poppelvej 4 8653 Them,4,1385000.0,15-02-2011,Alm.,7251,7,Villa,191,1978,-1 %
+Rygesmindevej 3 8653 Them,3,2575000.0,29-01-2011,Alm.,11651,5,Villa,221,1987,0 %
+Bellisvej 1 8653 Them,1,1900000.0,20-01-2011,Alm.,12101,5,Villa,157,2007,-5 %
+Harbohøjvej 21 8653 Them,21,2175000.0,19-01-2011,Alm.,14897,6,Villa,146,2004,-4 %
+Silkeborgvej 35 8653 Them,35,593000.0,19-01-2011,Andet,5490,5,Villa,108,1934,-50 %
+Præsteengen 8 8653 Them,8,608710.0,11-01-2011,Auktion,3237,4,Villa,188,1889,
+"Knudlundvej 10, 1 8653 Them",1,13200000.0,22-12-2010,Alm.,151724,2,Lejlighed,87,1870,
+Mølledraget 3 8653 Them,3,1695000.0,09-12-2010,Alm.,8228,10,Villa,206,1971,0 %
+Slåenvej 23 8653 Them,23,1100000.0,07-12-2010,Alm.,10576,1,Villa,104,1986,-8 %
+Tjørnevej 9 8653 Them,9,1000000.0,03-12-2010,Andet,9615,4,Villa,104,1981,
+Stenhulevej 5 8653 Them,5,435100.0,26-11-2010,Fam.,3175,6,Villa,137,1934,
+Klokbjerghøjen 2 8653 Them,2,945000.0,22-11-2010,Alm.,10271,4,Rækkehus,92,1989,
+Præsteengen 2 8653 Them,2,1370000.0,20-11-2010,Alm.,8058,6,Villa,170,1847,-2 %
+Gothenborgvej 2 8653 Them,2,90000.0,14-10-2010,Andet,400,8,Stuehus,225,1910,
+Hørrelundvej 2 8653 Them,2,2650000.0,28-09-2010,Alm.,16666,7,Stuehus,159,1928,
+Pårupvej 7 8653 Them,7,2600000.0,24-09-2010,Alm.,14772,5,Stuehus,176,1857,-4 %
+Præstemarken 17 8653 Them,17,1010000.0,20-09-2010,Alm.,10306,4,Rækkehus,98,1976,-8 %
+Rønnevej 3 8653 Them,3,1890000.0,16-09-2010,Andet,13216,5,Villa,143,1965,
+Horsensvej 9 8653 Them,9,120000.0,10-09-2010,Alm.,1043,4,Villa,115,2012,
+Sepstrupvej 13 8653 Them,13,2950000.0,02-09-2010,Alm.,8727,10,Stuehus,338,1900,-7 %
+Kaldæavej 8 8653 Them,8,1660000.0,24-08-2010,Alm.,13719,5,Villa,121,2006,-1 %
+Møllevænget 7 8653 Them,7,1650000.0,23-08-2010,Alm.,9939,4,Villa,166,1967,
+Møllesvinget 12 8653 Them,12,1530000.0,12-08-2010,Alm.,7927,5,Villa,193,1974,-10 %
+Præstemarken 26 8653 Them,26,880000.0,05-08-2010,Auktion,4334,6,Villa,203,1978,
+Horsensvej 13 8653 Them,13,1400000.0,13-07-2010,Alm.,9790,6,Villa,143,1955,-6 %
+Rustrupvej 2 8653 Them,2,750000.0,21-06-2010,Alm.,6944,5,Villa,108,1912,-12 %
+Them Østergård 7 8653 Them,7,2695000.0,18-06-2010,Alm.,17966,5,Villa,150,2007,
+Magnolievej 3 8653 Them,3,2625000.0,10-06-2010,Alm.,15625,7,Villa,168,2006,-3 %
+Højagervej 8 8653 Them,8,1895000.0,02-06-2010,Alm.,11770,5,Villa,161,1974,0 %
+Grævlingevej 9 8653 Them,9,3175000.0,21-05-2010,Alm.,14631,6,Villa,217,2005,-4 %
+Toftevænget 8 8653 Them,8,740000.0,04-05-2010,Alm.,5441,4,Villa,136,1973,
+Toftegårdsparken 50 8653 Them,50,1635000.0,03-05-2010,Alm.,12773,4,Villa,128,1979,-4 %
+Knudlundvej 12 8653 Them,12,775000.0,26-04-2010,Alm.,4428,6,Villa,175,1932,-9 %
+Sugebækvej 3 8653 Them,3,2300000.0,06-04-2010,Alm.,14197,6,Stuehus,162,1932,-8 %
+Kirkemindevej 3 8653 Them,3,1325000.0,29-03-2010,Alm.,10037,4,Villa,132,1949,-11 %
+Toftegårdsparken 16 8653 Them,16,1440000.0,19-03-2010,Alm.,12100,4,Villa,119,1978,-4 %
+Ansøvej 26 8653 Them,26,231039.0,17-03-2010,Fam.,1627,5,Villa,142,1955,
+Præstemarken 27 8653 Them,27,750000.0,10-02-2010,Alm.,7653,4,Rækkehus,98,1976,
+Bødskovgårdvej 18 8653 Them,18,3500000.0,06-02-2010,Alm.,19021,5,Stuehus,184,2010,
+Odinsvej 7 8653 Them,7,1049797.0,26-01-2010,Alm.,8075,4,Villa,130,2003,
+Skovbrynet 21 8653 Them,21,675000.0,08-01-2010,Andet,5000,4,Villa,135,1969,
+Præstemarken 21 8653 Them,21,895000.0,07-01-2010,Alm.,9132,4,Rækkehus,98,1976,-10 %
+Enebærvej 4 8653 Them,4,1313000.0,06-01-2010,Alm.,12625,4,Villa,104,1986,
+Hasselvej 5 8653 Them,5,1317500.0,29-12-2009,Alm.,11260,4,Villa,117,1978,2 %
+Them Østergård 27 8653 Them,27,2330000.0,19-12-2009,Alm.,15533,5,Villa,150,2009,-10 %
+Ahornvej 1 8653 Them,1,1402500.0,08-12-2009,Fam.,9288,4,Villa,151,1974,-12 %
+Silkeborgvej 8 8653 Them,8,1065000.0,24-11-2009,Alm.,6915,8,Villa,154,1961,0 %
+Sepstrupvej 10 8653 Them,10,2200000.0,05-11-2009,Alm.,15942,4,Stuehus,138,1982,-3 %
+Silkeborgvej 76 8653 Them,76,773500.0,29-10-2009,Alm.,5191,6,Villa,149,1955,
+Them Skovvej 6 8653 Them,6,1330000.0,28-10-2009,Fam.,7687,6,Villa,173,1727,
+Sepstrupvej 30B 8653 Them,0,275000.0,13-10-2009,Alm.,3160,2,Anden beboelse,87,2015,
+Toftevænget 15 8653 Them,15,750000.0,08-10-2009,Alm.,3787,8,Villa,198,1973,
+Gran Allé 4 8653 Them,4,950000.0,16-09-2009,Alm.,10326,3,Villa,92,1964,-5 %
+Tjørnevej 10 8653 Them,10,1200000.0,15-09-2009,Alm.,13953,3,Villa,86,1982,-4 %
+Museumsvej 11 8653 Them,11,1225000.0,05-08-2009,Alm.,8750,6,Villa,140,1969,-5 %
+Dyrehaven 24 8653 Them,24,2650000.0,17-07-2009,Alm.,15229,6,Villa,174,1997,0 %
+Them Skovvej 7 8653 Them,7,2000000.0,08-07-2009,Alm.,11428,6,Villa,175,1882,-33 %
+Silkeborgvej 28 8653 Them,28,1070000.0,05-07-2009,Alm.,9304,5,Villa,115,1956,-5 %
+Them Østergård 1 8653 Them,1,2085000.0,05-07-2009,Alm.,14892,5,Villa,140,2008,-5 %
+Hørrelundvej 4 8653 Them,4,1600000.0,03-07-2009,Alm.,6274,6,Stuehus,255,2010,
+Them Østergård 10 8653 Them,10,552000.0,28-06-2009,Alm.,3285,6,Villa,168,2010,
+Saltenvej 13 8653 Them,13,40000.0,15-05-2009,Alm.,233,4,Villa,171,1912,
+Harbohøjvej 15 8653 Them,15,2250000.0,24-04-2009,Alm.,14516,5,Villa,155,2004,
+Industrivej 9A 8653 Them,0,1500000.0,08-04-2009,Alm.,9933,7,Villa,151,1973,
+Tømmerbyvej 12 8653 Them,12,100000.0,25-03-2009,Alm.,546,6,Stuehus,183,2007,
+Ryvej 16 8653 Them,16,1100000.0,12-03-2009,Alm.,0,4,Stuehus,100,1910,
+Toftegårdsparken 7 8653 Them,7,1250000.0,23-02-2009,Alm.,10683,4,Villa,117,1979,
+Sepstrupvej 69 8653 Them,69,18000000.0,26-01-2009,Alm.,75000,15,Stuehus,240,1911,
+Toftegårdsparken 22 8653 Them,22,1900000.0,19-01-2009,Alm.,12582,6,Villa,151,1979,-13 %
+Bakbjergvej 3 8653 Them,3,1620000.0,17-01-2009,Alm.,8019,6,Villa,202,1875,-10 %
+Sepstrupvej 16 8653 Them,16,3850000.0,10-01-2009,Fam.,16244,5,Stuehus,237,1877,
+Smedebakken 20 8653 Them,20,443114.0,20-12-2008,Andet,4220,5,Villa,105,1945,
+Møllesvinget 3 8653 Them,3,1360000.0,18-12-2008,Alm.,9251,5,Villa,147,1970,
+Rustrupvej 11 8653 Them,11,1230000.0,16-12-2008,Alm.,15000,4,Villa,82,1922,-9 %
+Præstemarken 15A 8653 Them,0,640000.0,05-12-2008,Alm.,13061,1,Lejlighed,49,1974,
+Sepstrupvej 49 8653 Them,49,531250.0,28-11-2008,Fam.,2887,5,Villa,184,1929,
+Præstemarken 18 8653 Them,18,1575000.0,12-11-2008,Alm.,7954,5,Villa,198,1978,-5 %
+Them Østergård 31 8653 Them,31,2850000.0,10-11-2008,Alm.,15405,7,Villa,185,2007,-5 %
+Horsbjergvej 4 8653 Them,4,850000.0,04-11-2008,Andet,7456,5,Stuehus,114,1900,
+Ryvej 12 8653 Them,12,700000.0,14-10-2008,Alm.,7692,4,Villa,91,1929,-3 %
+Toftevænget 47 8653 Them,47,1625000.0,09-10-2008,Alm.,11948,3,Villa,136,1972,
+Ansøvej 23 8653 Them,23,1550000.0,29-09-2008,Alm.,9117,5,Stuehus,170,1857,
+Toftegårdsparken 10 8653 Them,10,2200000.0,28-09-2008,Alm.,12500,6,Villa,176,1978,-4 %
+Elmevej 6 8653 Them,6,555000.0,18-09-2008,Alm.,4743,4,Villa,117,1972,
+Gl Skolevej 3 8653 Them,3,800000.0,16-07-2008,Alm.,11594,5,Biograf o.l.,69,1934,-32 %
+Harbohøjvej 18 8653 Them,18,2550000.0,11-07-2008,Alm.,16346,5,Villa,156,2000,-4 %
+Tømmerbyvej 9 8653 Them,9,1600000.0,10-07-2008,Alm.,12903,5,Villa,124,1953,
+Mølleskoven 2 8653 Them,2,1950000.0,08-07-2008,Alm.,9198,5,Villa,212,1972,-2 %
+Klokbjerghegnet 5 8653 Them,5,1250000.0,19-06-2008,Alm.,12135,4,Villa,103,1989,-9 %
+Silkeborgvej 86 8653 Them,86,1000000.0,16-06-2008,Alm.,11904,3,Villa,84,1960,-4 %
+Gran Allé 5 8653 Them,5,1780000.0,10-06-2008,Alm.,14833,5,Villa,120,1890,-4 %
+Harbohøjvej 17 8653 Them,17,2560000.0,30-05-2008,Alm.,12800,7,Villa,200,2004,-1 %
+Præstemarken 9 8653 Them,9,1998000.0,21-05-2008,Alm.,12487,4,Villa,160,1976,0 %
+Præstemarken 35 8653 Them,35,444670.0,16-05-2008,Andet,4537,4,Rækkehus,98,1977,
+Odinsvej 9 8653 Them,9,2900000.0,19-04-2008,Alm.,17682,6,Villa,164,2005,-1 %
+Brandevej 23 8653 Them,23,1018536.0,07-04-2008,Andet,4174,7,Stuehus,244,1916,
+Klokbjerghegnet 3B 8653 Them,0,1125000.0,28-03-2008,Alm.,14423,3,Rækkehus,78,1988,
+Asklevvej 9 8653 Them,9,1995000.0,28-03-2008,Fam.,8243,6,Stuehus,242,2009,
+Sepstrupvej 31 8653 Them,31,1650000.0,25-03-2008,Alm.,10312,5,Villa,160,1944,
+Mosestien 6 8653 Them,6,1150000.0,12-03-2008,Alm.,11057,4,Villa,104,1965,
+Grævlingevej 6 8653 Them,6,2600000.0,06-03-2008,Alm.,15294,7,Villa,170,2006,
+Præstemarken 7 8653 Them,7,1600000.0,25-02-2008,Fam.,13793,4,Villa,116,1976,
+Præstemarken 20 8653 Them,20,1325000.0,22-02-2008,Alm.,10192,5,Villa,130,1978,0 %
+Klokbjerghegnet 13 8653 Them,13,1640000.0,14-02-2008,Alm.,11468,5,Villa,143,1988,-9 %
+Kamillevej 5 8653 Them,5,541580.0,08-02-2008,Fam.,3223,6,Villa,168,1987,
+Rugvænget 2 8653 Them,2,1420000.0,30-01-2008,Alm.,10923,5,Villa,130,1972,
+Mølleløkken 3 8653 Them,3,1500000.0,05-01-2008,Alm.,11811,4,Villa,127,1972,-6 %
+Toftevænget 40 8653 Them,40,1675000.0,04-01-2008,Alm.,10668,5,Villa,157,1972,-1 %
+Toftevænget 32 8653 Them,32,765000.0,21-12-2007,Fam.,6120,4,Villa,125,1973,
+Kastanievej 3 8653 Them,3,1030339.0,01-12-2007,Alm.,4240,7,Villa,243,1893,
+Rugvænget 26 8653 Them,26,1230000.0,05-11-2007,Alm.,13516,4,Villa,91,1985,
+Toftegårdsparken 51 8653 Them,51,800000.0,18-10-2007,Andet,5063,6,Villa,158,1981,
+Syrenvej 4 8653 Them,4,2475000.0,11-10-2007,Alm.,17553,4,Villa,141,2007,-1 %
+Toftegårds Allé 16 8653 Them,16,1320000.0,10-09-2007,Alm.,11282,4,Villa,117,1980,
+Tømmerbyvej 10 8653 Them,10,11016569.0,05-09-2007,Fam.,41415,4,Stuehus,266,1956,
+Birkevej 14 8653 Them,14,1200000.0,04-09-2007,Fam.,5555,6,Villa,216,1969,
+Præstemarken 28 8653 Them,28,550000.0,29-08-2007,Fam.,4741,4,Villa,116,1976,
+Slåenvej 25 8653 Them,25,1455000.0,24-08-2007,Alm.,13990,4,Villa,104,1986,-2 %
+Syrenvej 20 8653 Them,20,2650000.0,26-07-2007,Alm.,15588,5,Villa,170,2007,
+Hybenvej 5 8653 Them,5,1395000.0,14-07-2007,Alm.,12345,5,Villa,113,1983,-3 %
+Mandsdalvej 5 8653 Them,5,270000.0,14-07-2007,Alm.,1875,6,Stuehus,144,1848,
+Skovbrynet 7 8653 Them,7,1875000.0,12-07-2007,Alm.,11363,6,Villa,165,1978,-17 %
+Præstemarken 16 8653 Them,16,1305000.0,05-07-2007,Alm.,5825,8,Villa,224,1976,
+Møllevej 2 8653 Them,2,1390000.0,26-06-2007,Alm.,10944,4,Villa,127,1965,0 %
+Rugvænget 3 8653 Them,3,850000.0,25-06-2007,Fam.,8095,4,Villa,105,1973,
+Hjortevej 3 8653 Them,3,3000000.0,15-06-2007,Alm.,18072,5,Villa,166,2006,
+Toftevænget 30 8653 Them,30,749698.0,31-05-2007,Alm.,4436,6,Villa,169,1974,
+Sepstrupvej 27 8653 Them,27,1300000.0,14-05-2007,Alm.,6666,7,Stuehus,195,2008,
+Horsbjergvej 3 8653 Them,3,1610000.0,02-05-2007,Alm.,19876,5,Sommerhus,81,1925,
+Silkeborgvej 84 8653 Them,84,1550000.0,26-04-2007,Alm.,8072,4,Villa,192,1969,
+Ryvej 33 8653 Them,33,2900000.0,26-04-2007,Alm.,13122,6,Stuehus,221,1916,
+Rustrupvej 10 8653 Them,10,554000.0,17-04-2007,Fam.,4362,5,Villa,127,1961,
+Præstemarken 15B 8653 Them,0,625000.0,17-04-2007,Alm.,12755,1,Lejlighed,49,1974,
+Them Østergård 19 8653 Them,19,2525000.0,10-04-2007,Alm.,15981,5,Villa,158,2007,
+Them Østergård 15 8653 Them,15,2495000.0,30-03-2007,Alm.,15791,5,Villa,158,2007,
+Toftevænget 18 8653 Them,18,1905000.0,27-03-2007,Alm.,11832,5,Villa,161,1975,
+Kirkemindevej 1 8653 Them,1,1325000.0,19-03-2007,Alm.,10351,6,Villa,128,1941,
+Silkeborgvej 42A 8653 Them,0,1105000.0,12-03-2007,Alm.,9608,3,Rækkehus,115,1900,
+Industrivej 3 8653 Them,3,1250000.0,09-03-2007,Alm.,9191,8,Industri o.l.,136,1973,
+Harbohøjvej 25 8653 Them,25,1171866.0,27-02-2007,Andet,7324,6,Villa,160,2002,
+Bellisvej 22 8653 Them,22,1425000.0,27-02-2007,Alm.,14250,4,Rækkehus,100,1987,
+Bødskovgårdvej 7 8653 Them,7,6425000.0,19-02-2007,Alm.,0,7,Stuehus,255,1938,
+Hjortevej 2 8653 Them,2,2380000.0,07-02-2007,Alm.,14601,6,Villa,163,2007,
+Tømmerbyvej 5 8653 Them,5,1275000.0,02-02-2007,Alm.,7412,6,Villa,172,1937,
+Saltenvej 24 8653 Them,24,1125000.0,29-01-2007,Alm.,8928,5,Villa,126,1923,-6 %
+Bellisvej 3 8653 Them,3,2315000.0,22-01-2007,Alm.,16076,5,Villa,144,2006,
+Toftegårdsparken 59 8653 Them,59,1355000.0,08-01-2007,Alm.,11991,4,Villa,113,1980,
+Saltenvej 9 8653 Them,9,2495000.0,07-01-2007,Alm.,9379,6,Villa,266,1907,
+Rugvænget 14 8653 Them,14,1895000.0,05-12-2006,Alm.,10767,6,Villa,176,1974,
+Salten Skovvej 18 8653 Them,18,7465000.0,28-11-2006,Alm.,33475,6,Stuehus,223,1920,
+Toftegårdsparken 37 8653 Them,37,1575000.0,13-11-2006,Alm.,11666,4,Villa,135,1980,
+Sepstrupvej 38 8653 Them,38,665000.0,09-11-2006,Fam.,5937,4,Villa,112,1974,
+Egevej 1 8653 Them,1,1350000.0,29-10-2006,Alm.,11250,4,Villa,120,1973,
+Tjørnevej 3 8653 Them,3,1200000.0,27-10-2006,Alm.,11538,4,Villa,104,1980,
+Toftevænget 12 8653 Them,12,1485000.0,26-10-2006,Alm.,10384,4,Villa,143,1972,
+Grævlingevej 1 8653 Them,1,813112.0,13-10-2006,Alm.,4700,6,Villa,173,2007,
+Syrenvej 10 8653 Them,10,2550000.0,10-10-2006,Alm.,12878,7,Villa,198,2006,
+Faurholtvej 22 8653 Them,22,2163525.0,29-09-2006,Alm.,7512,9,Stuehus,288,1877,
+Harbohøjvej 29 8653 Them,29,3075000.0,28-09-2006,Alm.,14105,7,Villa,218,2002,
+Tømmerbyvej 22 8653 Them,22,2040000.0,19-09-2006,Alm.,8395,6,Stuehus,243,1914,
+Horsensvej 18 8653 Them,18,745600.0,31-08-2006,Alm.,5142,5,Villa,145,1933,
+Horsensvej 17 8653 Them,17,1365000.0,25-08-2006,Alm.,12297,7,Detailhandel,111,1900,
+Tømmerbyvej 11 8653 Them,11,2025000.0,21-08-2006,Alm.,6795,6,Villa,298,1887,
+Museumsvej 3 8653 Them,3,1210000.0,18-08-2006,Alm.,12100,5,Rækkehus,100,1876,
+Bødskovgårdvej 12 8653 Them,12,306000.0,15-08-2006,Alm.,3477,3,Stuehus,88,1875,
+Hjortevej 6 8653 Them,6,360000.0,12-08-2006,Alm.,2322,5,Villa,155,2007,
+Ansøvej 14 8653 Them,14,550000.0,08-08-2006,Auktion,3235,5,Villa,170,1944,
+Them Østergård 2 8653 Them,2,330000.0,31-07-2006,Alm.,2481,5,Villa,133,2007,
+Toftbjerg Bakke 5 8653 Them,5,1900000.0,27-07-2006,Alm.,9793,6,Villa,194,1966,
+Rustrupvej 6 8653 Them,6,845000.0,21-07-2006,Alm.,8450,4,Villa,100,1877,
+Salten Skovvej 17 8653 Them,17,50000.0,17-07-2006,Alm.,235,6,Villa,212,2008,
+Elmevej 13 8653 Them,13,1250000.0,17-07-2006,Alm.,9615,4,Villa,130,1972,
+Ansøvej 3 8653 Them,3,20000.0,13-07-2006,Alm.,118,4,Stuehus,169,1900,
+Ansøvej 6 8653 Them,6,100000.0,13-07-2006,Alm.,595,6,Stuehus,168,1957,
+Them Østergård 29 8653 Them,29,511000.0,07-07-2006,Alm.,2202,6,Villa,232,2008,
+Silkeborgvej 10 8653 Them,10,950000.0,06-07-2006,Alm.,10215,3,Villa,93,1955,
+Præstemarken 15C 8653 Them,0,665000.0,06-07-2006,Alm.,13571,1,Lejlighed,49,1974,
+Esperlundvej 14 8653 Them,14,860000.0,01-07-2006,Alm.,11025,3,Villa,78,1989,
+Toftegårds Allé 6 8653 Them,6,1595000.0,28-06-2006,Alm.,13516,4,Villa,118,1982,
+Harevej 6 8653 Them,6,544000.0,18-06-2006,Alm.,2893,5,Villa,188,2008,
+Them Østergård 6 8653 Them,6,389000.0,06-06-2006,Alm.,2357,6,Villa,165,2007,
+Them Skovvej 14 8653 Them,14,55000.0,05-06-2006,Andet,226,6,Stuehus,243,1926,
+Sepstrupvej 48 8653 Them,48,3600000.0,02-06-2006,Alm.,22929,6,Stuehus,157,1880,
+Jasminvej 13 8653 Them,13,1980000.0,31-05-2006,Alm.,14042,6,Villa,141,1998,
+Smedebakken 14A 8653 Them,0,1750000.0,24-05-2006,Alm.,8838,8,Villa,198,1840,
+Them Østergård 25 8653 Them,25,420000.0,18-05-2006,Alm.,2745,5,Villa,153,2007,
+Egernvej 1 8653 Them,1,351000.0,18-05-2006,Alm.,2040,6,Villa,172,2007,
+Egernvej 3 8653 Them,3,446000.0,18-05-2006,Alm.,2639,7,Villa,169,2008,
+Egernvej 6 8653 Them,6,595500.0,18-05-2006,Alm.,2782,6,Villa,214,2009,
+Egernvej 5 8653 Them,5,511000.0,18-05-2006,Alm.,3096,5,Villa,165,2007,
+Them Østergård 3 8653 Them,3,301000.0,18-05-2006,Alm.,1846,6,Villa,163,2009,
+Them Østergård 13 8653 Them,13,341000.0,18-05-2006,Alm.,2258,6,Villa,151,2008,
+Harevej 4 8653 Them,4,498000.0,18-05-2006,Alm.,3276,5,Villa,152,2007,
+Them Østergård 8 8653 Them,8,499000.0,18-05-2006,Alm.,2114,7,Villa,236,2008,
+Them Østergård 4 8653 Them,4,400000.0,18-05-2006,Alm.,2684,6,Villa,149,2007,
+Them Østergård 11 8653 Them,11,363000.0,18-05-2006,Alm.,2630,6,Villa,138,2008,
+Harevej 5 8653 Them,5,556225.0,18-05-2006,Alm.,3611,6,Villa,154,2007,
+Them Østergård 9 8653 Them,9,402375.0,18-05-2006,Alm.,2682,6,Villa,150,2007,
+Them Østergård 17 8653 Them,17,376100.0,18-05-2006,Alm.,2490,6,Villa,151,2007,
+Egernvej 7 8653 Them,7,530302.0,18-05-2006,Alm.,3253,5,Villa,163,2007,
+Egernvej 4 8653 Them,4,426100.0,18-05-2006,Alm.,2491,5,Villa,171,2007,
+Grævlingevej 4 8653 Them,4,300000.0,11-05-2006,Alm.,1986,5,Villa,151,2007,
+Salten Skovvej 16 8653 Them,16,1639770.0,11-05-2006,Alm.,5733,6,Stuehus,286,2008,
+Høgdalvej 1 8653 Them,1,1565000.0,10-05-2006,Alm.,20324,1,Villa,77,1747,
+Præstemarken 40 8653 Them,40,1395000.0,05-05-2006,Alm.,11434,4,Villa,122,1978,
+Toftegårdsparken 56 8653 Them,56,1495000.0,01-05-2006,Alm.,0,6,Villa,195,1978,
+Præstemarken 25 8653 Them,25,1025000.0,27-04-2006,Alm.,10459,4,Rækkehus,98,1977,
+Sepstrupvej 28 8653 Them,28,1050000.0,31-03-2006,Alm.,7894,4,Villa,133,1878,
+Kærmindevej 10 8653 Them,10,1480000.0,30-03-2006,Alm.,11562,3,Villa,128,1974,
+Saltenvej 18 8653 Them,18,495840.0,27-03-2006,Andet,4427,4,Villa,112,1946,
+Kastanievej 9 8653 Them,9,1295000.0,18-03-2006,Alm.,13350,4,Stuehus,97,1945,
+Toftevænget 9 8653 Them,9,1503000.0,10-03-2006,Alm.,11928,4,Villa,126,1973,
+Mølleskoven 1 8653 Them,1,1350000.0,21-02-2006,Alm.,8282,5,Villa,163,1972,
+Kastanievej 8 8653 Them,8,1195000.0,10-02-2006,Alm.,8074,5,Villa,148,1885,
+Rustrupvej 4 8653 Them,4,1195000.0,09-02-2006,Alm.,5717,5,Villa,209,1913,
+Grævlingevej 5 8653 Them,5,340000.0,09-02-2006,Alm.,2179,5,Villa,156,2007,
+Engetvedvej 1 8653 Them,1,995000.0,02-02-2006,Alm.,5467,7,Villa,182,1877,
+Salten Skovvej 12 8653 Them,12,2100000.0,12-01-2006,Alm.,10447,8,Villa,201,1896,
+Syrenvej 16 8653 Them,16,350000.0,09-01-2006,Alm.,2147,6,Villa,163,2007,
+Odinsvej 50 8653 Them,50,125000.0,05-01-2006,Alm.,0,6,Villa,183,2006,
+Løvsvinget 10 8653 Them,10,1335000.0,03-01-2006,Alm.,11313,4,Villa,118,1974,
+Klokbjerghøjen 8A 8653 Them,0,800000.0,30-12-2005,Alm.,9876,3,Rækkehus,81,1988,
+Rugvænget 6 8653 Them,6,900000.0,30-12-2005,Alm.,6617,6,Villa,136,1972,
+Rodelundvej 28 8653 Them,28,650000.0,20-12-2005,Alm.,9285,2,Villa,70,1905,
+Vorretvej 6 8653 Them,6,1442918.0,20-12-2005,Fam.,9619,4,Stuehus,150,1864,
+Hjortevej 29 8653 Them,29,360000.0,19-12-2005,Alm.,2057,5,Villa,175,2009,
+Toftegårdsparken 48 8653 Them,48,1300000.0,15-12-2005,Alm.,9154,4,Villa,142,1978,
+Syrenvej 12 8653 Them,12,353100.0,06-12-2005,Alm.,1401,9,Villa,252,2007,
+Syrenvej 18 8653 Them,18,330000.0,06-12-2005,Alm.,2088,5,Villa,158,2007,
+Magnolievej 1 8653 Them,1,270000.0,06-12-2005,Alm.,1800,5,Villa,150,2007,
+Løvsvinget 19 8653 Them,19,1495000.0,29-11-2005,Alm.,8398,7,Villa,178,1974,
+Præstemarken 48 8653 Them,48,1140000.0,23-11-2005,Alm.,11632,4,Villa,98,1978,
+Kaldæavej 4 8653 Them,4,213300.0,22-11-2005,Alm.,1316,5,Villa,162,2007,
+Rodelundvej 19 8653 Them,19,1036491.0,18-11-2005,Andet,5991,5,Stuehus,173,1929,
+Ahornvej 2 8653 Them,2,895000.0,04-11-2005,Alm.,8063,4,Villa,111,1942,
+Møllesvinget 4 8653 Them,4,1285000.0,02-11-2005,Alm.,6945,4,Villa,185,1970,
+Hjortevej 15 8653 Them,15,340000.0,25-10-2005,Alm.,1942,7,Villa,175,2006,
+Sepstrupvej 1 8653 Them,1,1950000.0,20-10-2005,Alm.,8515,7,Stuehus,229,1907,
+Hjortevej 1 8653 Them,1,300000.0,17-10-2005,Alm.,2307,5,Villa,130,2007,
+Kirkemindevej 10 8653 Them,10,700000.0,17-10-2005,Alm.,6306,4,Villa,111,1936,
+Hjortevej 7 8653 Them,7,250000.0,04-10-2005,Alm.,1760,6,Villa,142,2007,
+Hjortevej 27 8653 Them,27,300000.0,04-10-2005,Alm.,1829,6,Villa,164,2008,
+Hjortevej 11 8653 Them,11,280000.0,04-10-2005,Alm.,1806,5,Villa,155,2007,
+Hjortevej 25 8653 Them,25,290000.0,04-10-2005,Alm.,1510,5,Villa,192,2007,
+Hjortevej 35 8653 Them,35,401000.0,04-10-2005,Alm.,2005,6,Villa,200,2007,
+Hjortevej 33 8653 Them,33,451000.0,04-10-2005,Alm.,2013,5,Villa,224,2007,
+Hjortevej 17 8653 Them,17,280000.0,04-10-2005,Alm.,2014,5,Villa,139,2006,
+Hjortevej 37 8653 Them,37,305000.0,04-10-2005,Alm.,0,6,Villa,168,2006,
+Hjortevej 13 8653 Them,13,390000.0,04-10-2005,Alm.,1940,7,Villa,201,2007,
+Hjortevej 21 8653 Them,21,285000.0,04-10-2005,Alm.,1716,5,Villa,166,2008,
+Hjortevej 31 8653 Them,31,290000.0,04-10-2005,Alm.,1559,8,Villa,186,2007,
+Hjortevej 41 8653 Them,41,350000.0,04-10-2005,Alm.,1813,5,Villa,193,2007,
+Toftegårdsparken 36 8653 Them,36,1295000.0,01-10-2005,Alm.,9736,4,Villa,133,1978,
+Salten Skovvej 10 8653 Them,10,1175000.0,16-09-2005,Alm.,6025,6,Villa,195,1900,
+Toftbjerg Bakke 3 8653 Them,3,1575000.0,06-09-2005,Alm.,8203,7,Villa,192,1961,
+Møllesvinget 9 8653 Them,9,1245000.0,04-09-2005,Alm.,8412,5,Villa,148,1971,
+Museumsvej 13 8653 Them,13,1545000.0,03-09-2005,Alm.,6602,8,Villa,234,1870,
+Møllevænget 16 8653 Them,16,765000.0,01-09-2005,Alm.,8406,4,Rækkehus,91,1988,
+Slåenvej 10 8653 Them,10,750000.0,10-08-2005,Alm.,8241,4,Rækkehus,91,1985,
+Rønnevej 1 8653 Them,1,1065000.0,10-08-2005,Alm.,10047,4,Villa,106,1981,
+Gl. Ryvej 1 8653 Them,1,1300000.0,25-07-2005,Alm.,7428,6,Villa,175,1937,
+Lokesvej 2 8653 Them,2,1410000.0,22-07-2005,Alm.,10000,4,Villa,141,1989,
+Sepstrupvej 65 8653 Them,65,765000.0,20-07-2005,Alm.,6270,4,Villa,122,1959,
+Tjørnevej 11B 8653 Them,0,750000.0,08-07-2005,Alm.,9036,3,Rækkehus,83,1983,
+Toftevænget 2 8653 Them,2,1250000.0,07-07-2005,Alm.,8445,5,Villa,148,1973,
+Gl. Ryvej 5 8653 Them,5,75000.0,04-07-2005,Alm.,392,6,Villa,191,2006,
+Gl. Ryvej 7 8653 Them,7,75000.0,04-07-2005,Alm.,392,6,Villa,191,2006,
+Ligustervej 2 8653 Them,2,110000.0,27-06-2005,Alm.,1100,4,Villa,100,2007,
+Grævlingevej 2 8653 Them,2,300000.0,23-06-2005,Alm.,1595,5,Villa,188,2006,
+Grævlingevej 8 8653 Them,8,315000.0,21-06-2005,Alm.,1521,6,Villa,207,2006,
+Mølledraget 11 8653 Them,11,1300000.0,14-06-2005,Fam.,6220,7,Villa,209,1972,
+Grævlingevej 7 8653 Them,7,356000.0,13-06-2005,Alm.,1736,8,Villa,205,2006,
+Grævlingevej 3 8653 Them,3,350000.0,09-06-2005,Alm.,2517,6,Villa,139,2006,
+Smedebakken 15 8653 Them,15,1200000.0,31-05-2005,Alm.,6896,6,Villa,174,1943,
+Smedebakken 13 8653 Them,13,1345000.0,23-05-2005,Alm.,9087,5,Villa,148,1945,
+Klokbjerghegnet 9A 8653 Them,0,764000.0,23-05-2005,Alm.,9432,3,Rækkehus,81,1988,
+Kaldæavej 5 8653 Them,5,293300.0,19-05-2005,Alm.,1451,6,Villa,202,2007,
+Toftevænget 49 8653 Them,49,415000.0,10-05-2005,Andet,3346,4,Villa,124,1972,
+Kaldæavej 9 8653 Them,9,283300.0,06-05-2005,Alm.,1940,4,Villa,146,2006,
+Toftevænget 29 8653 Them,29,995000.0,21-04-2005,Alm.,6461,5,Villa,154,1972,
+Kaldæavej 10 8653 Them,10,223300.0,29-03-2005,Alm.,1691,5,Villa,132,2007,
+Silkeborgvej 30 8653 Them,30,970000.0,23-03-2005,Alm.,9417,3,Villa,103,1941,
+Pårupvej 6 8653 Them,6,2705000.0,21-03-2005,Alm.,10207,8,Villa,265,2007,
+Silkeborgvej 20 8653 Them,20,1140000.0,20-03-2005,Alm.,8321,4,Villa,137,1927,
+Grævlingevej 10 8653 Them,10,335000.0,18-03-2005,Alm.,1726,6,Villa,194,2007,
+Ligustervej 6 8653 Them,6,110000.0,09-03-2005,Alm.,820,5,Villa,134,2005,
+Harbohøjvej 13 8653 Them,13,314800.0,07-03-2005,Alm.,1992,6,Villa,158,2006,
+Toftegårdsparken 18 8653 Them,18,825000.0,04-03-2005,Alm.,8418,4,Villa,98,1979,
+Højagervej 23 8653 Them,23,400000.0,02-03-2005,Fam.,3333,4,Villa,120,1976,
+Jasminvej 20 8653 Them,20,1875000.0,27-02-2005,Alm.,10026,5,Villa,187,2002,
+Kaldæavej 6 8653 Them,6,223300.0,23-02-2005,Alm.,1629,6,Villa,137,2006,
+Tjørnevej 8 8653 Them,8,795000.0,16-02-2005,Alm.,9244,3,Villa,86,1982,
+"Silkeborgvej 54, 1 8653 Them",1,775000.0,02-02-2005,Alm.,11071,2,Lejlighed,70,1980,
+Jasminvej 12 8653 Them,12,214500.0,31-01-2005,Alm.,1532,6,Villa,140,2006,
+Jasminvej 26 8653 Them,26,1645000.0,31-01-2005,Alm.,11344,5,Villa,145,2000,
+Harbohøjvej 4 8653 Them,4,205000.0,09-12-2004,Alm.,1322,6,Villa,155,2007,
+Klokbjerghegnet 8B 8653 Them,0,765000.0,29-11-2004,Alm.,9807,3,Rækkehus,78,1988,
+Silkeborgvej 7 8653 Them,7,960000.0,29-11-2004,Alm.,9142,4,Villa,105,1953,
+Møllevej 12 8653 Them,12,1350000.0,29-11-2004,Alm.,6650,6,Villa,203,1972,
+Odinsvej 13 8653 Them,13,110000.0,29-11-2004,Alm.,666,5,Villa,165,2007,
+Toftevænget 1 8653 Them,1,1065000.0,12-11-2004,Alm.,8588,3,Villa,124,1972,
+Odinsvej 1 8653 Them,1,105000.0,11-11-2004,Alm.,739,6,Villa,142,2006,
+Sepstrupvej 63 8653 Them,63,445000.0,30-10-2004,Alm.,4635,4,Villa,96,1930,
+Mølleløkken 10 8653 Them,10,1165000.0,29-10-2004,Alm.,7103,6,Villa,164,1972,
+Møllevænget 12 8653 Them,12,829000.0,20-10-2004,Alm.,6007,4,Villa,138,1970,
+Odinsvej 46 8653 Them,46,1052740.0,17-09-2004,Alm.,10220,4,Villa,103,2004,
+Sepstrupvej 8 8653 Them,8,1103710.0,02-09-2004,Alm.,7358,9,Stuehus,150,1932,
+Odinsvej 15 8653 Them,15,110000.0,02-08-2004,Alm.,909,5,Villa,121,2005,
+Sepstrupvej 30A 8653 Them,0,3250000.0,29-07-2004,Alm.,20312,5,Stuehus,160,1910,
+Slåenvej 14 8653 Them,14,695000.0,01-07-2004,Alm.,7637,4,Rækkehus,91,1986,
+Toftevænget 19 8653 Them,19,684698.0,24-06-2004,Alm.,4626,5,Villa,148,1973,
+Jasminvej 16 8653 Them,16,226600.0,18-06-2004,Alm.,1381,5,Villa,164,2005,
+Rodelundvej 8C 8653 Them,0,2207500.0,10-06-2004,Fam.,11932,5,Villa,185,2012,
+Mølledraget 9 8653 Them,9,1650000.0,19-05-2004,Alm.,6547,5,Villa,252,1972,
+Silkeborgvej 9 8653 Them,9,875000.0,19-05-2004,Alm.,6340,5,Villa,138,1942,
+Dyrehaven 3 8653 Them,3,1600000.0,04-05-2004,Alm.,9039,7,Villa,177,1998,
+Dyrehaven 4 8653 Them,4,616430.0,23-04-2004,Andet,3876,5,Villa,159,1999,
+Harbohøjvej 5 8653 Them,5,314563.0,22-04-2004,Alm.,2069,6,Villa,152,2005,
+Højagervej 2 8653 Them,2,1148000.0,14-04-2004,Alm.,6635,4,Villa,173,1976,
+Ansøvej 21 8653 Them,21,825000.0,31-03-2004,Alm.,4508,4,Villa,183,1900,
+Harbohøjvej 11 8653 Them,11,270000.0,23-03-2004,Alm.,1687,6,Villa,160,2005,
+Sepstrupvej 19 8653 Them,19,995000.0,15-03-2004,Alm.,4326,5,Villa,230,2005,
+Silkeborgvej 74 8653 Them,74,1162500.0,05-02-2004,Alm.,8186,5,Villa,142,1943,
+Jasminvej 22 8653 Them,22,242144.0,04-02-2004,Alm.,1476,6,Villa,164,2004,
+Jasminvej 24 8653 Them,24,251896.0,22-01-2004,Alm.,1384,7,Villa,182,2004,
+Præstemarken 41 8653 Them,41,830000.0,10-01-2004,Alm.,7904,4,Villa,105,1978,
+Højagervej 16 8653 Them,16,265000.0,12-12-2003,Alm.,2284,5,Villa,116,2004,
+Møllesvinget 1 8653 Them,1,1200000.0,02-12-2003,Alm.,7500,5,Villa,160,1970,
+Rustrupvej 13 8653 Them,13,910000.0,02-12-2003,Alm.,6066,4,Villa,150,1877,
+Møllevej 7 8653 Them,7,1095000.0,26-11-2003,Alm.,8171,3,Villa,134,1967,
+Klokbjerghøjen 4A 8653 Them,0,758000.0,14-11-2003,Alm.,8516,4,Rækkehus,89,1989,
+Hørrelundvej 1 8653 Them,1,240000.0,09-11-2003,Alm.,2666,3,Villa,90,1870,
+Præstemarken 29 8653 Them,29,816000.0,04-11-2003,Alm.,8326,4,Rækkehus,98,1977,
+Harbohøjvej 7 8653 Them,7,280000.0,29-10-2003,Alm.,1272,6,Villa,220,2004,
+Sepstrupvej 26 8653 Them,26,2525000.0,27-10-2003,Alm.,15029,5,Stuehus,168,1969,
+Harbohøjvej 3 8653 Them,3,225000.0,23-10-2003,Alm.,1293,7,Villa,174,2004,
+Præsteengen 6 8653 Them,6,1085000.0,16-10-2003,Alm.,8611,5,Villa,126,1927,
+Toftegårdsparken 68 8653 Them,68,1295000.0,04-09-2003,Alm.,8633,5,Villa,150,1980,
+Sepstrupvej 37 8653 Them,37,815000.0,28-08-2003,Auktion,7688,4,Villa,106,1877,
+Rodelundvej 2 8653 Them,2,1570000.0,15-08-2003,Alm.,8674,5,Stuehus,181,1929,
+Klokbjerghegnet 3A 8653 Them,0,650000.0,04-08-2003,Alm.,8333,3,Rækkehus,78,1988,
+Mølleløkken 1A 8653 Them,0,1060000.0,12-07-2003,Alm.,0,6,Villa,197,1973,
+Voldbygårdvej 5 8653 Them,5,7500000.0,02-07-2003,Alm.,0,9,Villa,270,1981,
+Præstemarken 43 8653 Them,43,750000.0,17-06-2003,Alm.,5769,4,Villa,130,1979,
+Toftegårdsparken 42 8653 Them,42,1324500.0,19-05-2003,Alm.,6460,8,Villa,205,1979,
+Sepstrupvej 45 8653 Them,45,7150000.0,15-05-2003,Alm.,49310,5,Stuehus,145,1974,
+Rodelundvej 26 8653 Them,26,550000.0,02-04-2003,Alm.,3846,6,Villa,143,1875,
+Møllesvinget 7 8653 Them,7,1100000.0,27-03-2003,Alm.,5699,6,Villa,193,1972,
+Silkeborgvej 2B 8653 Them,0,5350000.0,27-02-2003,Alm.,28157,6,Anden handel/transport,190,1948,
+Thorsvej 10 8653 Them,10,1444000.0,16-01-2003,Alm.,0,8,Villa,153,1995,
+Lokesvej 6 8653 Them,6,1295000.0,07-01-2003,Alm.,9592,5,Villa,135,1997,
+Gothenborgvej 10 8653 Them,10,1300000.0,20-12-2002,Alm.,7558,5,Stuehus,172,1926,
+Smedebakken 22 8653 Them,22,750000.0,11-12-2002,Fam.,7500,4,Villa,100,1950,
+Tømmerbyvej 39 8653 Them,39,730000.0,20-10-2002,Alm.,3492,7,Villa,209,1930,
+Toftegårdsparken 6 8653 Them,6,400000.0,18-10-2002,Alm.,3361,4,Villa,119,1978,
+Tømmerbyvej 19 8653 Them,19,820000.0,12-10-2002,Alm.,3166,7,Villa,259,1936,
+Toftbjerg Bakke 9 8653 Them,9,940000.0,30-09-2002,Fam.,5802,6,Villa,162,1962,
+Præstemarken 47 8653 Them,47,865000.0,25-09-2002,Alm.,8564,3,Villa,101,1978,
+Toftegårdsparken 12 8653 Them,12,720000.0,12-09-2002,Alm.,6050,4,Villa,119,1978,
+Kastanievej 2 8653 Them,2,935000.0,23-08-2002,Alm.,7991,5,Villa,117,1986,
+Silkeborgvej 22 8653 Them,22,965000.0,08-08-2002,Alm.,6795,3,Villa,142,1943,
+Jasminvej 18 8653 Them,18,208472.0,06-08-2002,Alm.,1722,5,Villa,121,2003,
+Møllevej 4 8653 Them,4,785000.0,31-07-2002,Alm.,4537,6,Villa,173,1967,
+Silkeborgvej 39 8653 Them,39,665000.0,31-07-2002,Alm.,5320,5,Villa,125,1948,
+Klokbjerg Allé 3 8653 Them,3,950000.0,25-07-2002,Alm.,0,6,Stuehus,178,1905,
+Gothenborgvej 5 8653 Them,5,1025000.0,23-07-2002,Alm.,0,5,Stuehus,229,1890,
+Møllesvinget 20 8653 Them,20,1125000.0,18-07-2002,Alm.,6048,5,Villa,186,1972,
+Rugvænget 18 8653 Them,18,1110000.0,26-06-2002,Alm.,7655,6,Villa,145,1976,
+Klokbjerghegnet 8A 8653 Them,0,430000.0,20-06-2002,Alm.,5512,3,Rækkehus,78,1988,
+Toftevænget 13 8653 Them,13,665000.0,19-06-2002,Alm.,5635,4,Villa,118,1973,
+Kærmindevej 11 8653 Them,11,1203504.0,29-04-2002,Alm.,7163,5,Villa,168,1973,
+Præstemarken 52 8653 Them,52,795000.0,24-04-2002,Alm.,8112,4,Villa,98,1977,
+Toftegårdsparken 1 8653 Them,1,575000.0,04-04-2002,Andet,3549,7,Villa,162,1978,
+Jasminvej 17 8653 Them,17,236072.0,27-02-2002,Alm.,1639,6,Villa,144,2002,
+Harbohøjvej 19 8653 Them,19,225000.0,31-01-2002,Alm.,1102,6,Villa,204,2002,
+Toftbjerg Bakke 1B 8653 Them,0,665000.0,31-01-2002,Alm.,0,7,Rækkehus,167,1959,
+Silkeborgvej 6 8653 Them,6,665510.0,11-12-2001,Alm.,5942,5,Villa,112,1960,
+Sugebækvej 1 8653 Them,1,1775000.0,05-12-2001,Alm.,10201,6,Stuehus,174,1912,
+Præstemarken 42 8653 Them,42,780000.0,16-11-2001,Alm.,7959,4,Villa,98,1978,
+Egevej 4 8653 Them,4,882000.0,25-10-2001,Alm.,6582,3,Villa,134,1973,
+Rustrupvej 24 8653 Them,24,850000.0,09-10-2001,Alm.,7589,2,Villa,112,1890,
+Løvsvinget 14 8653 Them,14,1060000.0,04-10-2001,Alm.,7260,5,Villa,146,1976,
+Ålhøjvej 4 8653 Them,4,996822.0,24-09-2001,Fam.,6389,4,Stuehus,156,1968,
+Høgdalvej 3 8653 Them,3,395430.0,24-09-2001,Andet,5135,3,Villa,77,1965,
+Birkevej 6 8653 Them,6,1039999.0,21-09-2001,Alm.,7999,4,Villa,130,1973,
+Ligustervej 3 8653 Them,3,711991.0,21-09-2001,Andet,0,5,Villa,210,1996,
+Esperlundvej 3 8653 Them,3,290000.0,17-09-2001,Alm.,3372,6,Engroshandel,86,2002,
+Thorsvej 2 8653 Them,2,125000.0,29-08-2001,Alm.,801,6,Villa,156,2002,
+Rodelundvej 10 8653 Them,10,875000.0,28-08-2001,Alm.,5239,5,Villa,167,1925,
+Bakbjergvej 20 8653 Them,20,400000.0,27-08-2001,Alm.,0,6,Villa,183,2002,
+Gl Skolevej 8 8653 Them,8,755000.0,09-08-2001,Alm.,5676,6,Stuehus,133,1827,
+Smedebakken 26 8653 Them,26,400000.0,08-08-2001,Fam.,3669,5,Villa,109,1926,
+Smedebakken 1 8653 Them,1,736390.0,01-08-2001,Andet,3681,5,Villa,200,1911,
+Kastanievej 1 8653 Them,1,872000.0,05-07-2001,Alm.,6759,4,Villa,129,1900,
+Them Skovvej 5 8653 Them,5,1160000.0,04-07-2001,Alm.,8854,3,Villa,131,1925,
+Højagervej 26 8653 Them,26,965000.0,27-06-2001,Alm.,6892,5,Villa,140,1974,
+Toftegårdsparken 54 8653 Them,54,1107700.0,11-06-2001,Alm.,5377,6,Villa,206,1978,
+Harbohøjvej 23 8653 Them,23,225000.0,07-06-2001,Alm.,1433,6,Villa,157,2002,
+Saltenvej 5 8653 Them,5,2600000.0,21-05-2001,Fam.,14689,6,Stuehus,177,1939,
+Asklevvej 8 8653 Them,8,550000.0,17-05-2001,Alm.,5092,5,Villa,108,1948,
+Bellisvej 26 8653 Them,26,870000.0,05-05-2001,Alm.,7131,4,Rækkehus,122,1986,
+Dyrehaven 7 8653 Them,7,1350000.0,26-04-2001,Alm.,9642,6,Villa,140,1998,
+Knudlundvej 18 8653 Them,18,2300000.0,23-04-2001,Alm.,15333,5,Villa,150,1976,
+Engetvedvej 4 8653 Them,4,977500.0,26-03-2001,Fam.,8727,5,Stuehus,112,1911,
+Møllesvinget 14 8653 Them,14,1140000.0,16-03-2001,Alm.,4042,6,Villa,282,1972,
+Tjørnevej 5 8653 Them,5,857410.0,06-03-2001,Alm.,8244,4,Villa,104,1981,
+Gårdstedvej 1 8653 Them,1,670101.0,27-02-2001,Alm.,7283,3,Villa,92,1931,
+Jasminvej 4 8653 Them,4,214912.0,19-02-2001,Alm.,0,7,Villa,183,2001,
+Sepstrupvej 11 8653 Them,11,723716.0,14-01-2001,Alm.,5567,5,Stuehus,130,1949,
+Harbohøjvej 27 8653 Them,27,280000.0,19-12-2000,Alm.,1866,4,Villa,150,2001,
+Rodelundvej 30 8653 Them,30,780931.0,06-12-2000,Alm.,4566,5,Villa,171,1887,
+Harbohøjvej 31 8653 Them,31,285000.0,25-11-2000,Alm.,1344,8,Villa,212,2003,
+Esperlundvej 2 8653 Them,2,358020.0,24-11-2000,Alm.,2237,5,Villa,160,1979,
+Silkeborgvej 37 8653 Them,37,694118.0,03-11-2000,Alm.,6548,4,Villa,106,1944,
+Tømmerbyvej 18 8653 Them,18,1647936.0,20-10-2000,Alm.,3295,12,Villa,500,1938,
+Ahornvej 4 8653 Them,4,237500.0,10-10-2000,Alm.,2083,4,Villa,114,1966,
+Rønnevej 7 8653 Them,7,255000.0,04-10-2000,Alm.,1847,5,Villa,138,2001,
+Ryvej 32A 8653 Them,0,875000.0,30-09-2000,Alm.,5794,4,Villa,151,1977,
+Jasminvej 15 8653 Them,15,1652000.0,27-09-2000,Alm.,9604,6,Villa,172,1998,
+Sepstrupvej 34 8653 Them,34,659000.0,29-08-2000,Alm.,3723,5,Villa,177,1864,
+Møllevænget 6 8653 Them,6,983643.0,04-08-2000,Alm.,6225,5,Villa,158,1971,
+Egevej 7 8653 Them,7,963012.0,11-07-2000,Fam.,7080,4,Villa,136,1972,
+Bakbjergvej 12 8653 Them,12,1615000.0,20-06-2000,Fam.,13803,4,Stuehus,117,1890,
+Stenhulevej 1 8653 Them,1,650000.0,15-06-2000,Alm.,2539,9,Stuehus,256,2006,
+Slåenvej 33 8653 Them,33,850000.0,06-06-2000,Alm.,0,5,Villa,142,1987,
+Klokbjerghøjen 4B 8653 Them,0,616000.0,31-05-2000,Alm.,6695,4,Rækkehus,92,1989,
+Rodelundvej 17 8653 Them,17,1331918.0,30-05-2000,Alm.,0,8,Stuehus,253,1928,
+Sepstrupvej 32 8653 Them,32,262500.0,29-05-2000,Andet,2100,4,Villa,125,1920,
+Ansøvej 1 8653 Them,1,715001.0,18-05-2000,Auktion,6163,4,Villa,116,1952,
+Skovbrynet 4 8653 Them,4,600000.0,15-05-2000,Alm.,5769,3,Villa,104,1968,
+Harbohøjvej 1 8653 Them,1,195000.0,06-04-2000,Alm.,1274,5,Villa,153,2000,
+Løvsvinget 1 8653 Them,1,666000.0,03-04-2000,Alm.,5370,4,Villa,124,1975,
+Silkeborgvej 32 8653 Them,32,799000.0,30-03-2000,Alm.,11750,3,Villa,68,1958,
+Harbohøjvej 6 8653 Them,6,200000.0,16-03-2000,Alm.,1600,4,Villa,125,2001,
+Harbohøjvej 14 8653 Them,14,230000.0,08-03-2000,Alm.,1631,5,Villa,141,2000,
+Sepstrupvej 2 8653 Them,2,1300000.0,28-02-2000,Alm.,9352,4,Stuehus,139,1927,
+Gothenborgvej 3 8653 Them,3,96000.0,07-01-2000,Alm.,492,8,Stuehus,195,1914,
+Rodelundvej 15 8653 Them,15,1150234.0,13-12-1999,Fam.,4694,7,Villa,245,1988,
+Toftevænget 25 8653 Them,25,1059600.0,13-10-1999,Alm.,7307,5,Villa,145,1974,
+Harbohøjvej 8 8653 Them,8,210000.0,21-09-1999,Alm.,1468,6,Villa,143,2000,
+Harbohøjvej 10 8653 Them,10,254300.0,21-09-1999,Alm.,1956,6,Villa,130,2000,
+Harbohøjvej 20 8653 Them,20,275000.0,21-09-1999,Alm.,1486,6,Villa,185,2000,
+Møllevænget 9 8653 Them,9,820024.0,20-09-1999,Alm.,6406,4,Villa,128,1969,
+Jasminvej 6 8653 Them,6,1650000.0,15-09-1999,Alm.,8375,7,Villa,197,2000,
+Ligustervej 1 8653 Them,1,1079625.0,09-09-1999,Alm.,7938,5,Villa,136,1988,
+Ansøvej 22 8653 Them,22,1106500.0,31-08-1999,Alm.,0,5,Stuehus,182,1880,
+Sepstrupvej 17 8653 Them,17,1925000.0,27-08-1999,Alm.,16739,3,Stuehus,115,1920,
+Museumsvej 12 8653 Them,12,931612.0,26-08-1999,Alm.,0,5,Stuehus,225,1857,
+Gothenborgvej 9 8653 Them,9,540000.0,22-07-1999,Alm.,2559,6,Stuehus,211,2000,
+Salten Skovvej 19 8653 Them,19,774978.0,21-07-1999,Alm.,5656,4,Villa,137,1962,
+Toftbjerg Bakke 7 8653 Them,7,700000.0,12-07-1999,Alm.,2904,7,Villa,241,1964,
+Kastanievej 10 8653 Them,10,585000.0,01-07-1999,Alm.,3656,5,Villa,160,1900,
+Rugvænget 20 8653 Them,20,1150406.0,14-06-1999,Alm.,7933,6,Villa,145,1977,
+Bødskovgårdvej 22 8653 Them,22,334000.0,08-06-1999,Alm.,3976,3,Villa,84,1915,
+Rønnevej 5 8653 Them,5,1499578.0,08-06-1999,Alm.,8284,6,Villa,181,1982,
+Rustrupvej 17 8653 Them,17,1900000.0,25-05-1999,Alm.,9452,5,Stuehus,201,1934,
+Ålhøjvej 11 8653 Them,11,859424.0,21-05-1999,Alm.,5055,7,Stuehus,170,1798,
+Højagervej 31 8653 Them,31,1040000.0,27-04-1999,Alm.,7938,4,Villa,131,1977,
+Højagervej 21 8653 Them,21,930000.0,23-04-1999,Alm.,7440,5,Villa,125,1974,
+Elmevej 3 8653 Them,3,872267.0,15-04-1999,Alm.,0,5,Villa,166,1973,
+Rugvænget 4 8653 Them,4,693000.0,06-04-1999,Alm.,6663,5,Villa,104,1972,
+Birkevej 7 8653 Them,7,1084741.0,23-03-1999,Alm.,3930,7,Villa,276,1970,
+Odinsvej 5 8653 Them,5,1075000.0,23-03-1999,Alm.,7570,6,Villa,142,1989,
+Bødskovgårdvej 14 8653 Them,14,3000000.0,13-03-1999,Alm.,24390,5,Stuehus,123,1890,
+Sepstrupvej 12 8653 Them,12,830616.0,12-03-1999,Fam.,6698,4,Stuehus,124,1926,
+Jasminvej 19 8653 Them,19,235888.0,10-03-1999,Alm.,1572,5,Villa,150,1999,
+Ryvej 34 8653 Them,34,600000.0,05-03-1999,Fam.,5405,3,Stuehus,111,1863,
+Ålhøjvej 1 8653 Them,1,1345000.0,25-01-1999,Alm.,6691,12,Villa,201,1897,
+Gl Skolevej 1 8653 Them,1,1131351.0,21-01-1999,Alm.,5801,5,Villa,195,1945,
+Toftevænget 3 8653 Them,3,945408.0,03-12-1998,Alm.,5528,4,Villa,171,1972,
+Klokbjerghegnet 7B 8653 Them,0,258000.0,30-11-1998,Alm.,4229,2,Rækkehus,61,1988,
+Klokbjerghegnet 9B 8653 Them,0,258000.0,30-11-1998,Alm.,4229,2,Rækkehus,61,1988,
+Klokbjerghøjen 8B 8653 Them,0,258000.0,30-11-1998,Fam.,4229,2,Rækkehus,61,1988,
+Horsensvej 20 8653 Them,20,825000.0,24-11-1998,Fam.,6021,6,Villa,137,1936,
+Kastanievej 12 8653 Them,12,655000.0,11-11-1998,Alm.,6121,4,Villa,107,1934,
+Møllehøjsvej 2 8653 Them,2,1027835.0,08-11-1998,Alm.,5244,5,Villa,196,1972,
+Ryvej 24 8653 Them,24,557000.0,26-10-1998,Alm.,7957,3,Villa,70,1945,
+Birkevej 10 8653 Them,10,815000.0,19-10-1998,Alm.,3543,6,Villa,230,1973,
+Tjørnevej 2 8653 Them,2,710196.0,08-10-1998,Alm.,8258,3,Villa,86,1982,
+Smedebakken 16 8653 Them,16,350000.0,11-09-1998,Alm.,5384,3,Villa,65,1947,
+Højagervej 27 8653 Them,27,928406.0,11-09-1998,Alm.,0,5,Villa,152,1973,
+Horsbjergvej 9 8653 Them,9,3500000.0,07-09-1998,Alm.,13059,4,Stuehus,268,1972,
+Løvsvinget 7 8653 Them,7,1355865.0,28-08-1998,Alm.,5794,8,Villa,234,1974,
+Klokbjerghegnet 7A 8653 Them,0,714160.0,20-08-1998,Alm.,8816,3,Rækkehus,81,1988,
+Tjørnevej 13 8653 Them,13,975000.0,20-08-1998,Alm.,0,6,Villa,200,1979,
+Toftegårds Allé 4 8653 Them,4,865058.0,26-07-1998,Alm.,7793,4,Villa,111,1979,
+Ansøvej 2 8653 Them,2,900000.0,01-07-1998,Fam.,5806,5,Stuehus,155,1963,
+Sepstrupvej 50 8653 Them,50,735286.0,18-05-1998,Alm.,0,5,Stuehus,205,1927,
+Dyrehaven 6 8653 Them,6,240000.0,20-04-1998,Alm.,1500,6,Villa,160,1998,
+Horsbjergvej 1 8653 Them,1,75722.0,20-04-1998,Alm.,357,9,Stuehus,212,1885,
+Askevej 8 8653 Them,8,140000.0,16-04-1998,Alm.,985,5,Villa,142,1998,
+Hasselvej 6 8653 Them,6,934408.0,23-03-1998,Alm.,5249,4,Villa,178,1977,
+Rodelundvej 20 8653 Them,20,467035.0,16-03-1998,Alm.,4026,4,Villa,116,1897,
+Jasminvej 7 8653 Them,7,148000.0,20-02-1998,Alm.,973,6,Villa,152,1998,
+Engetvedvej 12 8653 Them,12,860000.0,15-02-1998,Fam.,5308,5,Stuehus,162,1902,
+Frisholmvej 8 8653 Them,8,855918.0,02-02-1998,Alm.,6686,5,Villa,128,1939,
+Jasminvej 9 8653 Them,9,1300000.0,27-01-1998,Alm.,8552,6,Villa,152,1997,
+Tjørnevej 14A 8653 Them,0,573066.0,09-01-1998,Alm.,6297,4,Rækkehus,91,1983,
+Bakbjergvej 5 8653 Them,5,450000.0,09-01-1998,Fam.,3409,4,Stuehus,132,1835,
+Jasminvej 11 8653 Them,11,148000.0,05-01-1998,Alm.,902,7,Villa,164,1998,
+Dyrehaven 10 8653 Them,10,240000.0,16-12-1997,Alm.,1256,9,Villa,191,1998,
+Bøgevej 4 8653 Them,4,838106.0,11-12-1997,Alm.,5271,5,Villa,159,1974,
+Dyrehaven 18 8653 Them,18,240000.0,10-12-1997,Alm.,1600,6,Villa,150,1998,
+Sugebækvej 5 8653 Them,5,3565000.0,05-12-1997,Fam.,12641,7,Stuehus,282,2008,
+Egevej 2 8653 Them,2,560000.0,12-11-1997,Alm.,0,6,Villa,177,1975,
+Pårupvej 1 8653 Them,1,4106167.0,05-11-1997,Alm.,23735,6,Stuehus,173,1925,
+Pilevej 1 8653 Them,1,940000.0,04-11-1997,Alm.,6714,4,Villa,140,1969,
+Toftegårds Allé 8 8653 Them,8,794931.0,19-10-1997,Alm.,6462,4,Villa,123,1979,
+Horsensvej 36 8653 Them,36,709000.0,07-10-1997,Alm.,0,6,Villa,164,1946,
+Ansøvej 9 8653 Them,9,428132.0,17-09-1997,Alm.,0,9,Villa,237,1930,
+Præstemarken 58 8653 Them,58,501220.0,14-09-1997,Fam.,4475,4,Villa,112,1976,
+Elmevej 2 8653 Them,2,904749.0,11-09-1997,Alm.,5550,5,Villa,163,1972,
+Salten Skovvej 20 8653 Them,20,750000.0,09-09-1997,Alm.,5952,4,Villa,126,1954,
+Kirkemindevej 16 8653 Them,16,409876.0,10-08-1997,Alm.,2499,6,Villa,164,1928,
+Dyrehaven 22 8653 Them,22,255000.0,30-07-1997,Alm.,1328,7,Villa,192,1998,
+Sepstrupvej 24 8653 Them,24,935000.0,22-07-1997,Fam.,6824,5,Stuehus,137,1956,
+Løvsvinget 21 8653 Them,21,1475320.0,30-06-1997,Alm.,6096,5,Villa,242,1984,
+Mosestien 2 8653 Them,2,560000.0,22-05-1997,Alm.,6363,3,Villa,88,1934,
+Mølledraget 4 8653 Them,4,663000.0,01-05-1997,Fam.,5304,4,Villa,125,1971,
+Dyrehaven 12 8653 Them,12,240000.0,17-04-1997,Alm.,1437,6,Villa,167,1997,
+Rustrupvej 20 8653 Them,20,385000.0,11-04-1997,Alm.,1807,4,Stuehus,213,1900,
+"Silkeborgvej 27, 1. TV 8653 Them",0,398732.0,04-04-1997,Alm.,6431,2,Lejlighed,62,1988,
+Sepstrupvej 36 8653 Them,36,738020.0,25-03-1997,Alm.,3280,8,Stuehus,225,1907,
+Egevej 6 8653 Them,6,692504.0,17-03-1997,Alm.,5868,4,Villa,118,1975,
+Dyrehaven 16 8653 Them,16,240000.0,27-02-1997,Alm.,1500,6,Villa,160,1997,
+Sepstrupvej 35 8653 Them,35,1175000.0,25-02-1997,Alm.,4936,6,Stuehus,238,1890,
+Jasminvej 5 8653 Them,5,148000.0,18-02-1997,Alm.,925,5,Villa,160,1997,
+Højagervej 39 8653 Them,39,920072.0,13-02-1997,Alm.,5679,4,Villa,162,1975,
+Elkærvej 3 8653 Them,3,625000.0,10-02-1997,Alm.,3591,3,Villa,174,1952,
+Jasminvej 1 8653 Them,1,148000.0,10-02-1997,Alm.,646,7,Villa,229,1999,
+Toftevænget 46 8653 Them,46,354744.0,04-02-1997,Andet,2608,4,Villa,136,1973,
+Dyrehaven 26 8653 Them,26,145000.0,22-01-1997,Alm.,878,6,Villa,165,1998,
+Thorsvej 5 8653 Them,5,70000.0,30-12-1996,Alm.,411,6,Villa,170,1998,
+Højkolvej 2 8653 Them,2,501500.0,27-12-1996,Fam.,4044,3,Villa,124,1920,
+Møllesvinget 15 8653 Them,15,1158000.0,02-12-1996,Alm.,4886,6,Villa,237,1971,
+Dyrehaven 5 8653 Them,5,145000.0,01-12-1996,Alm.,1028,5,Villa,141,1997,
+Dyrehaven 14 8653 Them,14,240000.0,25-11-1996,Alm.,1379,6,Villa,174,1997,
+Smedebakken 36 8653 Them,36,635000.0,20-11-1996,Alm.,0,6,Villa,153,1968,
+Præstemarken 19 8653 Them,19,552000.0,19-11-1996,Alm.,5632,3,Rækkehus,98,1976,
+"Silkeborgvej 27, ST. TV 8653 Them",0,384000.0,11-11-1996,Alm.,4860,3,Lejlighed,79,1988,
+"Silkeborgvej 27, ST. TH 8653 Them",0,485000.0,11-11-1996,Alm.,6139,3,Lejlighed,79,1988,
+"Silkeborgvej 27, 1. TH 8653 Them",0,306000.0,11-11-1996,Alm.,4935,2,Lejlighed,62,1988,
+Præstemarken 3 8653 Them,3,775000.0,05-11-1996,Alm.,6739,4,Villa,115,1977,
+Gårdstedvej 2 8653 Them,2,889000.0,08-10-1996,Alm.,4512,4,Stuehus,197,1938,
+Vorretvej 29 8653 Them,29,473480.0,03-10-1996,Alm.,3642,4,Stuehus,130,1920,
+Klokbjerghøjen 6 8653 Them,6,251909.0,29-09-1996,Fam.,2445,4,Villa,103,1989,
+Elmevej 10 8653 Them,10,900000.0,28-08-1996,Alm.,3862,7,Villa,233,1973,
+Rustrupvej 22 8653 Them,22,1600000.0,16-08-1996,Alm.,10884,5,Stuehus,147,1974,
+Silkeborgvej 3 8653 Them,3,1039000.0,10-08-1996,Alm.,6111,9,Villa,170,1957,
+Mølleengen 2 8653 Them,2,791000.0,08-08-1996,Alm.,5493,5,Villa,144,1973,
+Frisholmvej 7 8653 Them,7,1302000.0,29-06-1996,Alm.,5636,9,Villa,231,1967,
+Bødskovgårdvej 32 8653 Them,32,700000.0,15-05-1996,Fam.,3684,5,Stuehus,190,1914,
+Hasselvej 3 8653 Them,3,615938.0,21-04-1996,Alm.,5264,4,Villa,117,1978,
+Ligustervej 9 8653 Them,9,70000.0,11-04-1996,Alm.,510,6,Villa,137,1997,
+Slåenvej 31 8653 Them,31,580000.0,02-04-1996,Alm.,6744,3,Villa,86,1987,
+Ryvej 23 8653 Them,23,355000.0,29-03-1996,Alm.,3480,4,Villa,102,1921,
+Asklevvej 3 8653 Them,3,296000.0,26-03-1996,Alm.,0,6,Villa,172,1947,
+Frisholmvej 1 8653 Them,1,415250.0,17-03-1996,Alm.,2595,4,Villa,160,1930,
+Toftbjerg Bakke 6 8653 Them,6,614000.0,11-03-1996,Alm.,5581,5,Villa,110,1963,
+Toftegårdsparken 53 8653 Them,53,763000.0,20-02-1996,Alm.,0,8,Villa,195,1979,
+Højagervej 47 8653 Them,47,796220.0,03-02-1996,Alm.,0,6,Villa,183,1976,
+Rustrupvej 25 8653 Them,25,250000.0,25-01-1996,Fam.,1213,5,Stuehus,206,1907,
+Bellisvej 20 8653 Them,20,548000.0,02-12-1995,Alm.,5480,4,Rækkehus,100,1987,
+Hybenvej 6 8653 Them,6,567000.0,27-11-1995,Alm.,6300,4,Villa,90,1985,
+Møllesvinget 2 8653 Them,2,800000.0,06-11-1995,Alm.,5128,5,Villa,156,1971,
+Kamillevej 3 8653 Them,3,698000.0,08-10-1995,Alm.,0,7,Villa,196,1986,
+Slåenvej 2 8653 Them,2,435894.0,21-09-1995,Alm.,4790,4,Rækkehus,91,1984,
+Skovbrynet 3 8653 Them,3,697000.0,23-08-1995,Alm.,4773,4,Villa,146,1963,
+Sepstrupvej 67 8653 Them,67,538660.0,14-08-1995,Alm.,1923,6,Villa,280,1977,
+Askevej 5 8653 Them,5,710000.0,01-08-1995,Alm.,6339,4,Villa,112,1989,
+Ligustervej 7 8653 Them,7,70000.0,28-07-1995,Alm.,0,5,Villa,155,1996,
+Askevej 1 8653 Them,1,140000.0,12-07-1995,Alm.,0,7,Villa,196,1996,
+Bøgevej 3 8653 Them,3,725000.0,27-06-1995,Alm.,5410,3,Villa,134,1973,
+Horsensvej 19 8653 Them,19,450000.0,17-06-1995,Alm.,3214,5,Villa,140,1909,
+Birkevej 4 8653 Them,4,602000.0,31-05-1995,Alm.,0,4,Villa,142,1973,
+Toftevænget 51 8653 Them,51,770000.0,24-05-1995,Alm.,3989,5,Villa,193,1974,
+Højagervej 22 8653 Them,22,570000.0,19-05-1995,Alm.,0,6,Villa,175,1975,
+Bødskovgårdvej 3 8653 Them,3,1175000.0,27-04-1995,Alm.,6831,5,Stuehus,172,1931,
+Asklevvej 4 8653 Them,4,550000.0,10-04-1995,Fam.,3767,3,Stuehus,146,1933,
+Rustrupvej 7 8653 Them,7,513000.0,07-03-1995,Alm.,3537,4,Villa,145,1917,
+Højagervej 35 8653 Them,35,625000.0,18-02-1995,Alm.,0,6,Villa,161,1974,
+Museumsvej 5 8653 Them,5,410000.0,08-02-1995,Alm.,3474,3,Rækkehus,118,1999,
+Ligustervej 13 8653 Them,13,70000.0,06-02-1995,Alm.,0,6,Villa,160,1996,
+Toftegårdsparken 60 8653 Them,60,620000.0,08-12-1994,Alm.,5210,5,Villa,119,1980,
+Museumsvej 9 8653 Them,9,578232.0,05-12-1994,Alm.,5256,5,Villa,110,1918,
+Rugvænget 11 8653 Them,11,520000.0,04-10-1994,Alm.,0,5,Villa,131,1978,
+Præsteengen 4 8653 Them,4,465000.0,12-09-1994,Alm.,3720,3,Villa,125,1938,
+Ansøvej 20 8653 Them,20,1375000.0,08-09-1994,Alm.,0,8,Stuehus,291,1930,
+Toftevænget 16 8653 Them,16,575000.0,21-08-1994,Alm.,4356,4,Villa,132,1972,
+Silkeborgvej 40 8653 Them,40,620000.0,05-07-1994,Alm.,6888,11,Industri o.l.,90,1912,
+Brandevej 20 8653 Them,20,226000.0,30-06-1994,Auktion,0,7,Stuehus,364,1928,
+Løvsvinget 23 8653 Them,23,742000.0,26-05-1994,Alm.,2921,8,Villa,254,1980,
+Gl. Ryvej 2 8653 Them,2,61200.0,11-05-1994,Alm.,0,9,Villa,195,1924,
+Bellisvej 24 8653 Them,24,465000.0,06-05-1994,Alm.,3811,4,Rækkehus,122,1986,
+Møllevej 6 8653 Them,6,785000.0,05-05-1994,Alm.,5376,5,Villa,146,1966,
+Vorretvej 9 8653 Them,9,1150000.0,25-04-1994,Alm.,7986,5,Stuehus,144,1961,
+Silkeborgvej 34 8653 Them,34,500000.0,24-03-1994,Alm.,4464,3,Villa,112,1931,
+Møllesvinget 6 8653 Them,6,690000.0,20-02-1994,Alm.,3854,7,Villa,179,1971,
+Saltenvej 11 8653 Them,11,385000.0,17-02-1994,Alm.,3737,3,Villa,103,1938,
+Præstemarken 32 8653 Them,32,610000.0,04-02-1994,Alm.,5304,4,Villa,115,1976,
+Højagervej 1 8653 Them,1,650000.0,29-01-1994,Alm.,0,5,Villa,153,1977,
+Toftegårdsparken 47 8653 Them,47,640000.0,10-01-1994,Alm.,5245,4,Villa,122,1979,
+Poppelvej 3 8653 Them,3,530000.0,30-10-1993,Alm.,3581,5,Villa,148,1975,
+Toftbjerg Bakke 11 8653 Them,11,480000.0,27-10-1993,Alm.,3902,4,Villa,123,1963,
+Smedebakken 32 8653 Them,32,585000.0,18-10-1993,Alm.,4333,5,Villa,135,1973,
+Møllesvinget 18 8653 Them,18,560000.0,28-09-1993,Alm.,3888,5,Villa,144,1971,
+Rodelundvej 6 8653 Them,6,594176.0,26-09-1993,Alm.,0,4,Villa,191,1964,
+Præstemarken 1 8653 Them,1,477000.0,10-09-1993,Alm.,4770,3,Villa,100,1977,
+Toftegårdsparken 38 8653 Them,38,557500.0,31-07-1993,Alm.,4890,5,Villa,114,1978,
+Silkeborgvej 88 8653 Them,88,435000.0,15-07-1993,Alm.,3625,4,Villa,120,1961,
+Gl Skolevej 2 8653 Them,2,1000000.0,07-07-1993,Alm.,4273,6,Villa,234,1950,
+Asklevvej 6 8653 Them,6,340135.0,19-05-1993,Fam.,0,6,Stuehus,180,1987,
+Knudlundvej 19 8653 Them,19,1450000.0,17-05-1993,Alm.,9666,4,Villa,150,1977,
+Højagervej 14 8653 Them,14,391000.0,12-05-1993,Alm.,2678,5,Villa,146,1975,
+Kastanievej 15 8653 Them,15,525000.0,16-04-1993,Alm.,3220,7,Villa,163,1951,
+Silkeborgvej 41 8653 Them,41,540000.0,11-02-1993,Alm.,4537,4,Villa,119,1930,
+Horsbjergvej 5 8653 Them,5,800000.0,15-10-1992,Alm.,4848,3,Villa,165,1907,
+Kamillevej 10 8653 Them,10,332377.0,03-09-1992,Alm.,0,4,Villa,91,1985,
+Rustrupvej 3 8653 Them,3,380000.0,20-08-1992,Alm.,0,4,Villa,157,1888,
+Rugvænget 28 8653 Them,28,382850.0,07-07-1992,Alm.,0,6,Villa,157,1985,
+Toftegårdsparken 64 8653 Them,64,423757.0,02-07-1992,Alm.,3783,4,Villa,112,1981,
+Sepstrupvej 39 8653 Them,39,750000.0,11-06-1992,Fam.,6097,5,Stuehus,123,1880,
+Sepstrupvej 3 8653 Them,3,700000.0,22-05-1992,Fam.,5737,5,Stuehus,122,1930,
+Møllevej 19 8653 Them,19,750000.0,04-05-1992,Alm.,5474,5,Villa,137,1972,
+Sepstrupvej 53 8653 Them,53,1525000.0,29-04-1992,Fam.,8198,6,Stuehus,186,1939,
+Løvsvinget 12 8653 Them,12,720000.0,22-04-1992,Fam.,3913,5,Villa,184,1973,
+Rustrupvej 8 8653 Them,8,340000.0,20-03-1992,Alm.,1920,6,Villa,177,1877,
+Smedebakken 3 8653 Them,3,940000.0,20-03-1992,Alm.,4331,8,Villa,217,1932,
+Kirkemindevej 14 8653 Them,14,167000.0,17-03-1992,Alm.,0,5,Villa,137,1934,
+Asklevvej 1 8653 Them,1,916441.0,25-02-1992,Alm.,0,4,Stuehus,161,1910,
+Engetvedvej 3 8653 Them,3,1450000.0,29-01-1992,Alm.,6531,7,Stuehus,222,1932,
+Toftevænget 20 8653 Them,20,280000.0,10-01-1992,Fam.,2000,4,Villa,140,1974,
+Toftevænget 28 8653 Them,28,577000.0,08-01-1992,Fam.,3223,7,Villa,179,1972,
+Salten Skovvej 3 8653 Them,3,64000.0,06-01-1992,Alm.,361,7,Stuehus,177,1941,

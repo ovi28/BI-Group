@@ -1,0 +1,656 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Nødebjerg 53 4960 Holeby,53,725000.0,28-04-2017,Alm.,5991,4,Villa,121,1980,
+Nyvej 11 4960 Holeby,11,80000.0,19-04-2017,Alm.,733,3,Rækkehus,109,1913,
+Magasinvej 9 4960 Holeby,9,275000.0,10-04-2017,Alm.,1636,7,Villa,168,1910,-27 %
+Vestervej 21 4960 Holeby,21,72500.0,10-04-2017,Alm.,941,3,Rækkehus,77,1900,
+Højbygårdvej 23 4960 Holeby,23,110000.0,19-03-2017,Alm.,887,3,Villa,124,1900,-12 %
+Alsøvej 30 4960 Holeby,30,565000.0,16-03-2017,Fam.,7533,3,Sommerhus,75,1827,
+Gl. Holebyvej 17 4960 Holeby,17,70000.0,12-03-2017,Alm.,744,6,Villa,94,1827,
+Sønderhøj 16 4960 Holeby,16,695000.0,09-03-2017,Alm.,5225,4,Villa,133,1974,0 %
+Gartnervej 8 4960 Holeby,8,1590000.0,05-03-2017,Alm.,12519,5,Villa,127,1900,-16 %
+Tuekærvej 34 4960 Holeby,34,348000.0,10-02-2017,Alm.,3378,3,Villa,103,1966,-12 %
+Alsøvej 36 4960 Holeby,36,12600000.0,20-01-2017,Alm.,50806,9,Stuehus,248,1869,
+Skottemarkevej 15 4960 Holeby,15,4840000.0,20-01-2017,Alm.,24200,5,Stuehus,200,1974,596 %
+Sønderhøj 19 4960 Holeby,19,495000.0,09-01-2017,Alm.,4380,3,Villa,113,1974,0 %
+Alsøvej 10 4960 Holeby,10,500000.0,04-01-2017,Alm.,2314,4,Stuehus,216,1890,
+Vestervej 23 4960 Holeby,23,75000.0,23-12-2016,Alm.,872,3,Rækkehus,86,1930,
+Magasinvej 10 4960 Holeby,10,105000.0,12-12-2016,Alm.,889,6,Villa,118,1917,-47 %
+Smedebyvej 3 4960 Holeby,3,36001.0,07-12-2016,Auktion,300,5,Villa,120,1850,
+Fuglsevej 21 4960 Holeby,21,1125000.0,06-12-2016,Alm.,3308,11,Villa,340,1900,-13 %
+Hillestolpevej 6 4960 Holeby,6,150000.0,04-12-2016,Alm.,2000,3,Rækkehus,75,1930,-14 %
+Hillestolpevej 16 4960 Holeby,16,150000.0,04-12-2016,Alm.,1102,4,Villa,136,1953,-23 %
+Vestervej 51 4960 Holeby,51,175000.0,30-11-2016,Alm.,1495,5,Villa,117,1908,-10 %
+Nørrevej 26 4960 Holeby,26,180000.0,04-11-2016,Alm.,1978,3,Villa,91,1941,-37 %
+Madsensvej 13 4960 Holeby,13,300000.0,16-10-2016,Alm.,2127,5,Villa,141,1958,-14 %
+Fuglsevej 49 4960 Holeby,49,100000.0,14-10-2016,Fam.,1250,3,Villa,80,1900,
+Præstevejen 11 4960 Holeby,11,200000.0,14-10-2016,Alm.,1626,5,Villa,123,1961,-27 %
+Vestervej 85 4960 Holeby,85,180000.0,28-09-2016,Alm.,1538,3,Villa,117,1935,-35 %
+Nørrevej 9 4960 Holeby,9,388300.0,28-09-2016,Auktion,2588,5,Villa,150,1934,-14 %
+Alsøvej 11 4960 Holeby,11,350000.0,23-09-2016,Alm.,2302,5,Villa,152,1967,-29 %
+Bagskovvej 12 4960 Holeby,12,30000.0,12-09-2016,Alm.,254,4,Sommerhus,118,1875,
+Hans Jørgensens Allé 3 4960 Holeby,3,225000.0,30-08-2016,Alm.,2142,4,Villa,105,1931,-10 %
+Maglemose 23 4960 Holeby,23,670000.0,15-08-2016,Alm.,3621,4,Villa,185,1973,-33 %
+Ellemosevej 14 4960 Holeby,14,575000.0,09-08-2016,Alm.,4323,4,Villa,133,1972,-3 %
+Hillestolpevej 36 4960 Holeby,36,645301.0,03-08-2016,Fam.,2633,6,Villa,245,1890,
+Fuglsevej 38 4960 Holeby,38,887000.0,16-07-2016,Alm.,3285,10,Stuehus,270,1913,-26 %
+Rennebæksvej 4 4960 Holeby,4,280000.0,11-07-2016,Alm.,2916,3,Villa,96,1965,-19 %
+Østervej 42 4960 Holeby,42,336134.0,01-07-2016,Andet,4604,3,Villa,73,1900,
+Fuglsevej 1 4960 Holeby,1,600000.0,09-06-2016,Alm.,3448,8,Villa,174,1900,-14 %
+Tamrodsvej 14 4960 Holeby,14,200000.0,19-04-2016,Alm.,2061,4,Stuehus,97,1933,
+Fuglsevej 40 4960 Holeby,40,30000.0,01-04-2016,Fam.,352,3,Villa,85,1900,
+Fuglsevej 16 4960 Holeby,16,40000.0,11-03-2016,Alm.,555,2,Villa,72,1903,
+Maribovej 6 4960 Holeby,6,225000.0,04-03-2016,Fam.,1196,6,Villa,188,1883,
+Vestervej 64 4960 Holeby,64,100000.0,02-03-2016,Alm.,1666,2,Rækkehus,60,1850,-23 %
+Alsøvej 28 4960 Holeby,28,495000.0,23-02-2016,Alm.,3437,3,Villa,144,1900,0 %
+Tjørnevej 4 4960 Holeby,4,293750.0,17-02-2016,Auktion,2719,4,Villa,108,1968,
+Tuekærvej 13 4960 Holeby,13,200000.0,15-02-2016,Alm.,1000,7,Villa,200,1973,-60 %
+Flaarupvej 17 4960 Holeby,17,30000.0,29-01-2016,Alm.,461,3,Villa,65,1892,
+Skottemarkevej 1 4960 Holeby,1,975000.0,28-01-2016,Alm.,4352,6,Villa,224,1827,-1 %
+Maribovej 32 4960 Holeby,32,200000.0,07-01-2016,Alm.,2000,3,Villa,100,1854,-20 %
+Tamrodsvej 50 4960 Holeby,50,535000.0,06-01-2016,Alm.,3057,5,Villa,175,1870,-7 %
+Møllevej 27 4960 Holeby,27,4968000.0,04-01-2016,Alm.,27600,4,Stuehus,180,1875,
+Tjørnevej 20 4960 Holeby,20,250000.0,20-12-2015,Alm.,2049,3,Villa,122,1973,
+Møllevej 14 4960 Holeby,14,80000.0,16-12-2015,Alm.,909,5,Villa,88,1941,-60 %
+Nyvej 12 4960 Holeby,12,225000.0,07-12-2015,Alm.,1991,3,Rækkehus,113,1936,0 %
+Dunmosevej 11 4960 Holeby,11,329000.0,06-12-2015,Alm.,3133,4,Villa,105,1969,0 %
+Havebyen 6 4960 Holeby,6,90000.0,30-11-2015,Alm.,989,4,Rækkehus,91,1875,-28 %
+Madsensvej 11 4960 Holeby,11,180000.0,05-11-2015,Alm.,1764,4,Villa,102,1953,-39 %
+Tamrodsvej 20 4960 Holeby,20,203991.0,28-10-2015,Alm.,2549,3,Villa,80,1907,
+Nørrevej 29 4960 Holeby,29,160000.0,21-10-2015,Alm.,1649,4,Villa,97,1934,-42 %
+Vestervej 110 4960 Holeby,110,580000.0,15-10-2015,Fam.,4360,4,Villa,133,1956,
+Havebyen 29 4960 Holeby,29,84500.0,14-10-2015,Auktion,971,3,Rækkehus,87,1872,
+Tuekærvej 28 4960 Holeby,28,275000.0,02-10-2015,Alm.,2864,3,Villa,96,1961,
+Fuglsevej 3 4960 Holeby,3,170000.0,29-09-2015,Alm.,1931,3,Villa,88,1958,-28 %
+Bjørnevej 2 4960 Holeby,2,150000.0,25-09-2015,Alm.,1530,5,Villa,98,1953,-15 %
+Tjørnevej 16 4960 Holeby,16,350000.0,21-09-2015,Alm.,2592,4,Villa,135,1967,
+Nyvej 17 4960 Holeby,17,285000.0,08-09-2015,Alm.,3352,4,Rækkehus,85,1936,0 %
+Præstevejen 7 4960 Holeby,7,290000.0,27-08-2015,Alm.,2357,5,Villa,123,1961,-16 %
+Nødebjerg 41 4960 Holeby,41,1795000.0,25-08-2015,Andet,9972,6,Villa,180,1982,
+Vestervej 84 4960 Holeby,84,150000.0,10-08-2015,Alm.,882,5,Villa,170,1914,-40 %
+Havebyen 36 4960 Holeby,36,200000.0,31-07-2015,Alm.,2857,4,Rækkehus,70,1873,
+Vestervej 111 4960 Holeby,111,258273.0,29-07-2015,Auktion,1844,4,Villa,140,1931,
+Hans Jørgensens Allé 5 4960 Holeby,5,495000.0,17-07-2015,Alm.,5380,3,Villa,92,1961,-10 %
+Nødebjerg 33 4960 Holeby,33,775000.0,16-07-2015,Fam.,4428,4,Villa,175,2004,
+Hillestolpevej 21 4960 Holeby,21,62500.0,06-07-2015,Alm.,568,4,Sommerhus,110,1928,
+Tuekærvej 27 4960 Holeby,27,240000.0,26-06-2015,Alm.,2086,3,Villa,115,1963,-19 %
+Fuglsevej 48 4960 Holeby,48,800000.0,26-05-2015,Alm.,2941,8,Stuehus,272,1898,1 %
+Torslundevej 29 4960 Holeby,29,250000.0,21-05-2015,Alm.,2500,3,Villa,100,1959,
+Frederiksmindevej 11 4960 Holeby,11,17787432.0,18-05-2015,Fam.,25704,14,Stuehus,692,1915,
+Maglemose 7 4960 Holeby,7,425000.0,27-04-2015,Alm.,3346,4,Villa,127,1974,-14 %
+Måhavevej 1 4960 Holeby,1,501500.0,20-04-2015,Fam.,5015,2,Villa,100,1926,
+Fuglsevej 33 4960 Holeby,33,250000.0,09-04-2015,Alm.,1562,5,Villa,160,1960,-15 %
+Maribovej 38 4960 Holeby,38,540000.0,07-04-2015,Fam.,5510,5,Sommerhus,98,1937,
+Frederiksmindevej 9 4960 Holeby,9,1050000.0,27-03-2015,Alm.,3750,9,Villa,280,1930,
+Nyvej 18 4960 Holeby,18,246900.0,25-03-2015,Auktion,1928,5,Rækkehus,128,1939,
+Skottemarkevej 25 4960 Holeby,25,440000.0,17-03-2015,Andet,3826,6,Villa,115,1912,
+Vestervej 31 4960 Holeby,31,260000.0,11-03-2015,Alm.,2113,5,Villa,123,1906,-34 %
+Tuekærvej 16 4960 Holeby,16,80000.0,03-03-2015,Alm.,597,6,Villa,134,1966,0 %
+Præstevejen 9 4960 Holeby,9,135000.0,09-02-2015,Alm.,1097,5,Villa,123,1961,-45 %
+Tuekærvej 6 4960 Holeby,6,214154.0,05-02-2015,Fam.,2001,4,Villa,107,1958,
+Måhavevej 3 4960 Holeby,3,300000.0,04-02-2015,Auktion,1515,4,Villa,198,1927,
+Nystedvej 11 4960 Holeby,11,185000.0,02-02-2015,Alm.,1468,4,Villa,126,1897,0 %
+Havebyen 7 4960 Holeby,7,20000.0,27-01-2015,Alm.,229,4,Rækkehus,87,1873,
+Skottemarkevej 31 4960 Holeby,31,395000.0,26-01-2015,Alm.,1854,6,Villa,213,1927,0 %
+Madsensvej 4 4960 Holeby,4,190000.0,23-01-2015,Alm.,2345,4,Rækkehus,81,1928,
+Nørrevej 10 4960 Holeby,10,145000.0,21-01-2015,Alm.,2196,3,Rækkehus,66,1914,
+Madsensvej 9 4960 Holeby,9,125000.0,15-01-2015,Alm.,954,5,Villa,131,1953,-55 %
+Vestervej 7 4960 Holeby,7,300000.0,13-01-2015,Alm.,1923,8,Villa,156,1910,-14 %
+Tamrodsvej 30 4960 Holeby,30,150000.0,12-01-2015,Alm.,1079,5,Villa,139,1913,
+Måhavevej 18A 4960 Holeby,0,75000.0,07-01-2015,Auktion,815,3,Villa,92,1931,-69 %
+Magasinvej 12 4960 Holeby,12,295000.0,06-01-2015,Alm.,2731,4,Villa,108,1929,-21 %
+Maribovej 14 4960 Holeby,14,15001.0,26-11-2014,Auktion,90,6,Villa,166,1877,-95 %
+Sønderhøj 32 4960 Holeby,32,795000.0,26-09-2014,Alm.,5031,5,Villa,158,1977,0 %
+Torslundevej 35 4960 Holeby,35,70000.0,19-09-2014,Alm.,693,4,Villa,101,1870,
+Maribovej 30 4960 Holeby,30,165000.0,17-09-2014,Alm.,1434,5,Villa,115,1951,0 %
+Vestervej 6 4960 Holeby,6,70000.0,16-09-2014,Alm.,598,4,Rækkehus,117,1870,-26 %
+Nødebjerg 58 4960 Holeby,58,385000.0,11-09-2014,Alm.,3208,4,Villa,120,1985,-30 %
+Ellemosevej 51 4960 Holeby,51,237500.0,01-09-2014,Alm.,2219,4,Villa,107,1972,-14 %
+Gl. Holebyvej 13 4960 Holeby,13,120000.0,29-08-2014,Alm.,952,4,Villa,126,1857,
+Tuekærvej 24 4960 Holeby,24,146200.0,27-08-2014,Auktion,1419,4,Villa,103,1960,-35 %
+Flaarupvej 2 4960 Holeby,2,1925000.0,19-08-2014,Alm.,18509,3,Stuehus,104,1890,
+Nødebjerg 47 4960 Holeby,47,250000.0,06-08-2014,Auktion,2293,4,Villa,109,1984,
+Rennebæksvej 12 4960 Holeby,12,214096.0,29-07-2014,Fam.,2039,4,Villa,105,1966,
+Rennebæksvej 13 4960 Holeby,13,299055.0,29-07-2014,Fam.,2769,3,Villa,108,1963,
+Vestervej 45 4960 Holeby,45,305000.0,15-07-2014,Andet,2060,5,Villa,148,1951,
+Fuglsevej 9 4960 Holeby,9,80100.0,02-07-2014,Auktion,640,4,Villa,125,1938,
+Vindtoftvej 3 4960 Holeby,3,525000.0,22-05-2014,Alm.,3201,6,Villa,164,1973,6 %
+Nørrevej 17 4960 Holeby,17,71000.0,23-04-2014,Auktion,731,4,Villa,97,1906,-64 %
+Tjørnevej 10 4960 Holeby,10,275000.0,28-03-2014,Alm.,2894,4,Villa,95,1967,-27 %
+Torslundevej 16 4960 Holeby,16,130000.0,23-03-2014,Alm.,1300,3,Villa,100,1940,-33 %
+Vestervej 71 4960 Holeby,71,100000.0,18-03-2014,Alm.,1136,3,Villa,88,1912,-43 %
+Fuglsevej 53 4960 Holeby,53,275000.0,07-03-2014,Alm.,1617,4,Villa,170,1877,0 %
+Havebyen 2 4960 Holeby,2,170000.0,12-02-2014,Alm.,1328,4,Villa,128,1877,-13 %
+Vestervej 80 4960 Holeby,80,149000.0,12-02-2014,Auktion,1773,3,Villa,84,1916,
+Nystedvej 13 4960 Holeby,13,80000.0,10-02-2014,Alm.,1111,3,Villa,72,1905,-38 %
+Præstevejen 14 4960 Holeby,14,99000.0,05-02-2014,Alm.,738,5,Villa,134,1870,-21 %
+Torslundevej 30 4960 Holeby,30,94202.0,05-02-2014,Auktion,682,4,Villa,138,1910,
+Maglemose 15 4960 Holeby,15,450000.0,04-02-2014,Alm.,2459,6,Villa,183,1976,-9 %
+Fabriksvej 11 4960 Holeby,11,564864.0,26-01-2014,Alm.,7432,3,Villa,76,1956,
+Møllevej 4 4960 Holeby,4,280000.0,20-01-2014,Alm.,3544,2,Villa,79,1884,-19 %
+Hillestolpevej 7 4960 Holeby,7,230000.0,06-12-2013,Alm.,1179,5,Villa,195,1928,-8 %
+Havebyen 10 4960 Holeby,10,140000.0,28-11-2013,Alm.,1414,4,Rækkehus,99,1874,
+Vestervej 98 4960 Holeby,98,200000.0,11-11-2013,Alm.,2500,3,Rækkehus,80,1925,
+Maribovej 20 4960 Holeby,20,1500000.0,24-10-2013,Alm.,5905,10,Villa,254,1930,
+Jersievej 5 4960 Holeby,5,279408.0,09-10-2013,Auktion,2587,4,Villa,108,1969,
+Møllevej 17 4960 Holeby,17,279700.0,18-09-2013,Auktion,2350,4,Villa,119,1989,
+Nødebjerg 51 4960 Holeby,51,409446.0,04-09-2013,Alm.,2711,5,Villa,151,1979,
+Maribovej 7 4960 Holeby,7,293187.0,27-08-2013,Andet,2008,5,Villa,146,1930,
+Nørrevej 19 4960 Holeby,19,120000.0,27-08-2013,Alm.,1764,2,Rækkehus,68,1900,
+Nyvej 19 4960 Holeby,19,320000.0,14-08-2013,Auktion,4155,3,Rækkehus,77,1936,
+Alsøvej 8 4960 Holeby,8,72001.0,14-08-2013,Auktion,672,3,Villa,107,1840,
+Madsensvej 1 4960 Holeby,1,28000.0,07-08-2013,Auktion,247,4,Villa,113,1904,
+Højbygårdvej 10B 4960 Holeby,0,60000.0,02-08-2013,Alm.,230,11,Villa,260,1875,-70 %
+Maglemose 8 4960 Holeby,8,645000.0,29-07-2013,Alm.,4961,6,Villa,130,1974,-7 %
+Charlottenlundvej 2 4960 Holeby,2,1200000.0,20-06-2013,Fam.,7692,5,Stuehus,156,1943,
+Fuglsevej 6 4960 Holeby,6,180000.0,22-05-2013,Auktion,1800,3,Villa,100,1967,
+Ryttervej 19 4960 Holeby,19,600000.0,03-05-2013,Alm.,4761,4,Villa,126,1970,-8 %
+Præstevejen 4 4960 Holeby,4,622000.0,25-04-2013,Alm.,2893,6,Villa,215,1882,
+Tuekærvej 38 4960 Holeby,38,100000.0,16-04-2013,Alm.,952,4,Villa,105,1963,-50 %
+Tjørnevej 7 4960 Holeby,7,300000.0,02-04-2013,Alm.,2097,5,Villa,143,1966,-43 %
+Jersievej 8 4960 Holeby,8,420000.0,12-03-2013,Alm.,3181,4,Villa,132,1967,-15 %
+Maglemose 2 4960 Holeby,2,295000.0,26-02-2013,Fam.,2185,4,Villa,135,1975,
+Fuglsevej 37 4960 Holeby,37,554435.0,21-02-2013,Fam.,5775,4,Villa,96,1940,
+Skottemarkevej 29 4960 Holeby,29,290871.0,19-02-2013,Alm.,2423,6,Sommerhus,120,1770,
+Torslundevej 3 4960 Holeby,3,10000.0,18-02-2013,Alm.,83,5,Villa,120,1935,-94 %
+Tuekærvej 3 4960 Holeby,3,150000.0,13-02-2013,Auktion,1595,4,Villa,94,1959,-49 %
+Flaarupvej 21 4960 Holeby,21,199000.0,21-01-2013,Alm.,1617,3,Villa,123,1900,0 %
+Nyvej 10 4960 Holeby,10,40000.0,19-12-2012,Auktion,380,3,Rækkehus,105,1938,
+Hillestolpevej 4 4960 Holeby,4,142000.0,17-12-2012,Alm.,1868,3,Rækkehus,76,1942,-19 %
+Madsensvej 7 4960 Holeby,7,100000.0,30-11-2012,Alm.,746,4,Villa,134,1917,-56 %
+Alsøvej 34 4960 Holeby,34,390000.0,30-11-2012,Alm.,3451,3,Villa,113,1910,-28 %
+Vestervej 53 4960 Holeby,53,150000.0,21-11-2012,Alm.,1415,5,Villa,106,1915,-25 %
+Madsensvej 2 4960 Holeby,2,250000.0,09-11-2012,Alm.,3246,3,Rækkehus,77,1906,
+Bjørnevej 5 4960 Holeby,5,225000.0,12-10-2012,Alm.,1829,5,Villa,123,1950,-31 %
+Flaarupvej 20 4960 Holeby,20,60000.0,25-08-2012,Alm.,714,3,Villa,84,1860,
+Tamrodsvej 3 4960 Holeby,3,90000.0,22-08-2012,Fam.,1111,4,Sommerhus,81,1777,-60 %
+Tuekærvej 29 4960 Holeby,29,584625.0,20-08-2012,Alm.,6643,3,Villa,88,1964,-13 %
+Møllevej 34 4960 Holeby,34,600000.0,23-07-2012,Alm.,6250,5,Villa,96,1905,
+Havebyen 18 4960 Holeby,18,10000.0,11-07-2012,Auktion,93,6,Rækkehus,107,1875,
+Vestervej 63 4960 Holeby,63,120000.0,04-07-2012,Alm.,1395,3,Villa,86,1900,-45 %
+Vestervej 87 4960 Holeby,87,156346.0,25-04-2012,Auktion,1954,3,Villa,80,1959,
+Højbygårdvej 3 4960 Holeby,3,15000.0,11-04-2012,Auktion,154,4,Villa,97,1947,
+Vestervej 14 4960 Holeby,14,335000.0,04-04-2012,Alm.,2445,6,Villa,137,1903,-15 %
+Skovvej 3 4960 Holeby,3,120000.0,27-02-2012,Alm.,1875,2,Rækkehus,64,1870,
+Tjørnevej 13 4960 Holeby,13,670000.0,22-12-2011,Alm.,6442,4,Villa,104,1966,-8 %
+Jersievej 7 4960 Holeby,7,400000.0,04-11-2011,Fam.,2919,4,Villa,137,1969,
+Fuglsevej 55 4960 Holeby,55,288000.0,01-11-2011,Alm.,2938,4,Villa,98,1935,-4 %
+Nyvej 7 4960 Holeby,7,175000.0,19-10-2011,Alm.,2108,3,Rækkehus,83,1900,-12 %
+Nørrevej 22 4960 Holeby,22,500000.0,14-10-2011,Alm.,5434,4,Villa,92,1953,-23 %
+Nørrevej 11 4960 Holeby,11,560000.0,06-10-2011,Alm.,4242,4,Villa,132,1912,-6 %
+Vesterbyvej 9 4960 Holeby,9,135000.0,28-09-2011,Alm.,551,6,Villa,245,1926,-31 %
+Østervej 47 4960 Holeby,47,300000.0,22-08-2011,Alm.,3296,5,Villa,91,1937,0 %
+Kalvehavevej 2 4960 Holeby,2,100000.0,03-08-2011,Auktion,649,5,Villa,154,1850,-73 %
+Sortevej 8 4960 Holeby,8,598000.0,25-07-2011,Alm.,3497,4,Villa,171,1875,0 %
+Torslundevej 7 4960 Holeby,7,590000.0,15-07-2011,Alm.,6082,3,Villa,97,1953,-2 %
+Hillestolpevej 10 4960 Holeby,10,18000.0,06-07-2011,Auktion,191,3,Villa,94,1957,
+Havebyen 27 4960 Holeby,27,325000.0,23-06-2011,Alm.,1946,4,Rækkehus,167,1873,-34 %
+Vestervej 82 4960 Holeby,82,550000.0,27-05-2011,Alm.,4545,3,Villa,121,1920,-3 %
+Nyvej 4 4960 Holeby,4,400000.0,12-05-2011,Alm.,4210,3,Villa,95,1938,-25 %
+Tuekærvej 37 4960 Holeby,37,191345.0,13-04-2011,Fam.,1932,3,Villa,99,1964,
+Østervej 27 4960 Holeby,27,997912.0,13-04-2011,Andet,8456,6,Villa,118,1900,
+Østervej 20 4960 Holeby,20,425000.0,12-04-2011,Alm.,3244,5,Rækkehus,131,1954,-25 %
+Tjørnevej 5 4960 Holeby,5,225000.0,06-04-2011,Auktion,1757,4,Villa,128,1965,
+Tamrodsvej 44 4960 Holeby,44,460000.0,28-03-2011,Alm.,3650,6,Stuehus,126,1850,
+Jersievej 4 4960 Holeby,4,800000.0,25-03-2011,Alm.,5839,6,Villa,137,1968,-4 %
+Bagskovvej 10 4960 Holeby,10,305000.0,09-03-2011,Auktion,2541,5,Stuehus,120,1939,
+Magasinvej 19 4960 Holeby,19,400000.0,24-02-2011,Alm.,5333,4,Rækkehus,75,1930,
+Maribovej 8 4960 Holeby,8,364000.0,21-02-2011,Alm.,4333,3,Rækkehus,84,1936,
+Vestervej 107 4960 Holeby,107,100000.0,05-01-2011,Auktion,800,2,Villa,125,1931,
+Møllevej 31 4960 Holeby,31,8146856.0,27-12-2010,Fam.,28092,12,Stuehus,290,1917,
+Møllevej 22 4960 Holeby,22,737800.0,25-11-2010,Alm.,3945,6,Villa,187,1890,-8 %
+Rennebæksvej 2 4960 Holeby,2,370000.0,20-11-2010,Alm.,3083,4,Villa,120,1968,
+Østervej 50 4960 Holeby,50,241300.0,12-11-2010,Fam.,2413,3,Villa,100,1910,
+Vestervej 40 4960 Holeby,40,10000.0,10-11-2010,Auktion,47,7,Villa,209,1938,
+Alsøvej 26 4960 Holeby,26,907000.0,20-10-2010,Auktion,4339,6,Villa,209,1900,-35 %
+Vestervej 26 4960 Holeby,26,650000.0,28-09-2010,Alm.,4333,6,Villa,150,1900,-27 %
+Sortevej 2 4960 Holeby,2,800000.0,03-09-2010,Alm.,3493,4,Villa,229,1880,-11 %
+Kildevænget 6 4960 Holeby,6,585000.0,25-08-2010,Alm.,5735,3,Villa,102,1986,0 %
+Raahavevej 2 4960 Holeby,2,155000.0,04-08-2010,Auktion,1210,4,Villa,128,1870,
+Havebyen 14 4960 Holeby,14,250000.0,07-07-2010,Auktion,2380,4,Rækkehus,105,1872,
+Nørrevej 21 4960 Holeby,21,300000.0,30-06-2010,Auktion,3157,4,Rækkehus,95,1909,-24 %
+Vindtoftvej 11 4960 Holeby,11,660000.0,24-06-2010,Alm.,4888,4,Villa,135,1972,-14 %
+Fuglsevej 11 4960 Holeby,11,230000.0,24-06-2010,Alm.,3066,4,Villa,75,1800,-10 %
+Højbygårdvej 15 4960 Holeby,15,195000.0,03-06-2010,Auktion,1500,5,Villa,130,1900,-44 %
+Vestervej 103 4960 Holeby,103,250000.0,03-06-2010,Auktion,2840,3,Villa,88,1934,
+Havebyen 4 4960 Holeby,4,391000.0,25-05-2010,Fam.,2459,4,Rækkehus,159,1873,
+Østervej 4 4960 Holeby,4,824500.0,25-05-2010,Fam.,4021,8,Villa,205,1944,
+Nødebjerg 34 4960 Holeby,34,430000.0,20-05-2010,Alm.,3282,3,Villa,131,1979,
+Tuekærvej 31 4960 Holeby,31,650000.0,12-05-2010,Alm.,4513,5,Villa,144,1963,-6 %
+Nødebjerg 32 4960 Holeby,32,318470.0,11-03-2010,Alm.,3387,4,Villa,94,1980,
+Tamrodsvej 18 4960 Holeby,18,327481.0,20-01-2010,Andet,2183,6,Villa,150,1900,
+Torslundevej 45 4960 Holeby,45,225000.0,02-12-2009,Auktion,2500,3,Villa,90,1877,
+Vestervej 50 4960 Holeby,50,870000.0,01-12-2009,Alm.,6041,3,Villa,144,1929,-2 %
+Østervej 40 4960 Holeby,40,230000.0,04-11-2009,Auktion,2323,4,Rækkehus,99,1907,-67 %
+Sønderhøj 52 4960 Holeby,52,925000.0,10-08-2009,Alm.,6607,5,Villa,140,1976,-10 %
+Vestervej 15 4960 Holeby,15,1025000.0,05-08-2009,Andet,13666,6,Detailhandel,75,1891,
+Nystedvej 10 4960 Holeby,10,132935.0,03-08-2009,Auktion,1726,2,Villa,77,1895,
+Østervej 49 4960 Holeby,49,1075000.0,22-07-2009,Alm.,9188,4,Villa,117,1936,
+Møllevej 8 4960 Holeby,8,795000.0,15-06-2009,Alm.,5598,5,Villa,142,1900,0 %
+Maglemose 12 4960 Holeby,12,800000.0,08-06-2009,Alm.,5517,5,Villa,145,1975,-17 %
+Sønderhøj 10 4960 Holeby,10,890000.0,04-06-2009,Alm.,6223,3,Villa,143,1974,-4 %
+Nørrevej 7 4960 Holeby,7,425000.0,04-06-2009,Auktion,3935,4,Villa,108,1937,
+Magasinvej 3 4960 Holeby,3,550000.0,02-06-2009,Alm.,3691,3,Villa,149,1906,
+Jersievej 6 4960 Holeby,6,620000.0,18-05-2009,Alm.,5535,3,Villa,112,1968,-5 %
+Vestervej 38 4960 Holeby,38,525000.0,15-05-2009,Alm.,4007,5,Villa,131,1924,-5 %
+Nørrevej 18 4960 Holeby,18,995000.0,27-04-2009,Alm.,8652,4,Villa,115,1938,0 %
+Skottemarkevej 13 4960 Holeby,13,412500.0,22-04-2009,Alm.,3966,3,Villa,104,1930,-39 %
+Torslundevej 26 4960 Holeby,26,100000.0,08-04-2009,Auktion,833,4,Villa,120,1918,
+Flaarupvej 8 4960 Holeby,8,450000.0,28-03-2009,Alm.,5056,4,Villa,89,1899,-9 %
+Sønderhøj 12 4960 Holeby,12,1295000.0,19-03-2009,Alm.,8576,5,Villa,151,1974,0 %
+Ll. Fuglelodden 2 4960 Holeby,2,140000.0,07-03-2009,Alm.,2692,3,Rækkehus,52,1900,-53 %
+Torslundevej 38 4960 Holeby,38,200000.0,26-02-2009,Alm.,628,11,Stuehus,318,1929,
+Skottemarkevej 2 4960 Holeby,2,350000.0,29-12-2008,Alm.,2187,6,Villa,160,1864,
+Vesterbyvej 3 4960 Holeby,3,940000.0,26-11-2008,Alm.,5280,3,Villa,178,1927,-6 %
+Møllevej 11A 4960 Holeby,0,50000.0,03-11-2008,Fam.,357,4,Villa,140,1976,
+Flaarupvej 18 4960 Holeby,18,1500000.0,23-10-2008,Alm.,7042,5,Stuehus,213,1800,
+Maglemose 21 4960 Holeby,21,468362.0,01-10-2008,Andet,4037,4,Villa,116,1976,-55 %
+Nørrevej 16 4960 Holeby,16,625000.0,19-09-2008,Alm.,5165,2,Villa,121,1892,-4 %
+Fuglsevej 52 4960 Holeby,52,1185000.0,21-08-2008,Alm.,5954,6,Villa,199,1919,0 %
+Fuglsevej 47 4960 Holeby,47,675000.0,14-08-2008,Alm.,6428,5,Villa,105,1900,
+Møllevej 20 4960 Holeby,20,985000.0,13-08-2008,Alm.,7189,4,Villa,137,1969,-10 %
+Vestervej 100 4960 Holeby,100,499000.0,13-08-2008,Alm.,4455,3,Rækkehus,112,1936,
+Tuekærvej 5 4960 Holeby,5,815000.0,12-08-2008,Alm.,7342,4,Villa,111,1958,-2 %
+Vestervej 66 4960 Holeby,66,420000.0,12-08-2008,Alm.,5060,2,Rækkehus,83,1870,-15 %
+"Østervej 11, 1 4960 Holeby",1,675000.0,08-08-2008,Alm.,7031,3,Lejlighed,96,1875,-7 %
+Skottemarkevej 6 4960 Holeby,6,107388.0,06-08-2008,Auktion,1789,3,Villa,60,1867,
+Alsøvej 20 4960 Holeby,20,850000.0,19-06-2008,Fam.,0,4,Villa,174,1900,
+Ryttervej 15 4960 Holeby,15,780000.0,10-06-2008,Alm.,5131,5,Villa,152,1971,-16 %
+Madsensvej 14 4960 Holeby,14,645000.0,29-05-2008,Alm.,6386,3,Villa,101,1949,0 %
+Dunmosevej 4 4960 Holeby,4,925000.0,27-04-2008,Alm.,8726,3,Villa,106,1968,0 %
+Torslundevej 55 4960 Holeby,55,525000.0,08-04-2008,Alm.,2916,7,Villa,180,1890,-9 %
+Torslundevej 6 4960 Holeby,6,945000.0,28-03-2008,Alm.,5906,6,Villa,160,1935,-5 %
+Tamrodsvej 42 4960 Holeby,42,425000.0,03-03-2008,Alm.,5312,2,Villa,80,1911,0 %
+Præstevejen 17 4960 Holeby,17,306000.0,21-01-2008,Fam.,1700,4,Villa,180,1968,
+Flaarupvej 24 4960 Holeby,24,100000.0,15-01-2008,Alm.,1041,4,Sommerhus,96,1900,
+Vestervej 88 4960 Holeby,88,875000.0,19-12-2007,Alm.,5756,6,Villa,152,1900,0 %
+Tamrodsvej 7 4960 Holeby,7,28150.0,21-11-2007,Alm.,502,5,Villa,56,1895,
+Fuglsevej 51 4960 Holeby,51,390000.0,19-11-2007,Alm.,4642,3,Villa,84,1935,
+Skottemarkevej 24 4960 Holeby,24,666800.0,19-11-2007,Alm.,3334,8,Stuehus,200,1888,
+Flintebjerg 3 4960 Holeby,3,184172.0,19-11-2007,Alm.,1136,6,Villa,162,2009,
+Havebyen 34 4960 Holeby,34,539000.0,17-11-2007,Alm.,5182,3,Rækkehus,104,1875,
+Frederiksmindevej 13 4960 Holeby,13,350000.0,17-11-2007,Alm.,3500,5,Villa,100,1820,
+Nødebjerg 23 4960 Holeby,23,1100000.0,16-11-2007,Alm.,7586,4,Villa,145,1979,0 %
+Frandsensvej 1 4960 Holeby,1,750000.0,10-11-2007,Alm.,5281,4,Villa,142,1857,-6 %
+Møllevej 33 4960 Holeby,33,379332.0,03-11-2007,Alm.,3870,4,Villa,98,1918,
+Nødebjerg 7 4960 Holeby,7,1200000.0,31-10-2007,Alm.,9160,4,Villa,131,1978,-2 %
+Ryttervej 17 4960 Holeby,17,1385000.0,29-10-2007,Alm.,8993,5,Villa,154,1970,0 %
+Flaarupvej 1 4960 Holeby,1,350000.0,29-10-2007,Auktion,2173,3,Villa,161,1875,
+Torslundevej 11 4960 Holeby,11,510000.0,16-10-2007,Alm.,4636,4,Villa,110,1935,-3 %
+Maglemose 50 4960 Holeby,50,1200000.0,09-10-2007,Alm.,9230,5,Villa,130,1976,-4 %
+Østervej 32 4960 Holeby,32,396414.0,01-10-2007,Alm.,2086,6,Villa,190,1890,-57 %
+Tuekærvej 23 4960 Holeby,23,1070000.0,28-09-2007,Alm.,6331,5,Villa,169,1960,0 %
+Østervej 25 4960 Holeby,25,575000.0,23-09-2007,Alm.,4259,7,Villa,135,1927,-8 %
+Tjørnevej 1 4960 Holeby,1,1090000.0,20-09-2007,Fam.,6264,6,Villa,174,1969,-4 %
+Hans Jørgensens Allé 2A 4960 Holeby,0,845000.0,04-09-2007,Alm.,6213,4,Villa,136,1977,-15 %
+Fuglsevej 22 4960 Holeby,22,850000.0,02-09-2007,Alm.,8585,4,Villa,99,1870,0 %
+Møllevej 37 4960 Holeby,37,305000.0,30-08-2007,Alm.,3080,3,Sommerhus,99,1882,15 %
+Flaarupvej 3 4960 Holeby,3,665000.0,29-08-2007,Alm.,6650,6,Villa,100,1870,0 %
+Ryttervej 14 4960 Holeby,14,825000.0,09-08-2007,Alm.,6445,4,Villa,128,1969,-8 %
+Tamrodsvej 26 4960 Holeby,26,575000.0,06-08-2007,Alm.,5324,4,Villa,108,1900,0 %
+Møllevej 18 4960 Holeby,18,795000.0,31-07-2007,Alm.,6259,3,Villa,127,1950,0 %
+Gammelhøjvej 1 4960 Holeby,1,1145000.0,27-07-2007,Alm.,7156,5,Villa,160,1877,
+Erhard Frederiksensvej 4B 4960 Holeby,0,1495000.0,25-07-2007,Alm.,10755,7,Anden beboelse,139,1987,
+Torslundevej 39 4960 Holeby,39,482922.0,11-07-2007,Alm.,3958,4,Villa,122,1880,
+Tjørnevej 17 4960 Holeby,17,1275000.0,06-07-2007,Alm.,9042,4,Villa,141,1973,
+Ellemosevej 35 4960 Holeby,35,1300000.0,25-06-2007,Alm.,6806,5,Villa,191,1972,
+Højbygårdvej 27 4960 Holeby,27,398000.0,23-06-2007,Alm.,8291,2,Villa,48,1900,0 %
+Kirkevej 2 4960 Holeby,2,500000.0,18-06-2007,Alm.,1524,9,Villa,328,1879,
+Vestervej 76 4960 Holeby,76,525000.0,11-06-2007,Alm.,6176,2,Villa,85,1920,
+Ll. Fuglelodden 6 4960 Holeby,6,250000.0,05-06-2007,Andet,2049,4,Villa,122,1677,
+Præstevejen 3 4960 Holeby,3,675000.0,08-05-2007,Alm.,3229,5,Rækkehus,209,1896,0 %
+Magasinvej 15B 4960 Holeby,0,800000.0,23-04-2007,Alm.,4761,6,Villa,168,1922,
+Maglemose 4 4960 Holeby,4,1100000.0,23-04-2007,Alm.,3548,9,Villa,310,1976,
+Nørrevej 28 4960 Holeby,28,450000.0,29-03-2007,Alm.,6716,2,Villa,67,1955,0 %
+Maribovej 24 4960 Holeby,24,540000.0,02-02-2007,Alm.,6279,3,Villa,86,1955,3 %
+Nødebjerg 62 4960 Holeby,62,820000.0,22-01-2007,Alm.,8541,3,Villa,96,1979,0 %
+Tamrodsvej 48 4960 Holeby,48,288674.0,22-01-2007,Auktion,3954,4,Villa,73,1830,
+Nødebjerg 63 4960 Holeby,63,950000.0,03-01-2007,Alm.,7916,4,Villa,120,1980,
+Fuglsevej 56 4960 Holeby,56,685000.0,01-01-2007,Alm.,6342,5,Villa,108,1928,
+Vestervej 72 4960 Holeby,72,625000.0,25-12-2006,Alm.,5081,6,Villa,123,1905,
+Ryttervej 10 4960 Holeby,10,1050000.0,20-12-2006,Alm.,7291,4,Villa,144,1969,
+Vestervej 119 4960 Holeby,119,815000.0,19-12-2006,Alm.,5506,6,Villa,148,1900,
+Præstevejen 6 4960 Holeby,6,615000.0,22-11-2006,Alm.,6029,4,Villa,102,1875,
+Præstevejen 15 4960 Holeby,15,300000.0,17-11-2006,Alm.,2727,3,Villa,110,1895,
+Nødebjerg 55 4960 Holeby,55,1100000.0,13-11-2006,Alm.,9166,2,Villa,120,1978,
+Fuglelodden 11 4960 Holeby,11,296593.0,13-11-2006,Alm.,2180,4,Villa,136,1876,
+Bjørnevej 4 4960 Holeby,4,525000.0,06-11-2006,Alm.,4816,4,Villa,109,1952,
+Møllevej 5 4960 Holeby,5,650000.0,31-10-2006,Alm.,6701,4,Villa,97,1930,
+Raahavevej 4 4960 Holeby,4,425000.0,09-10-2006,Alm.,2871,7,Villa,148,1962,
+Hillestolpevej 8 4960 Holeby,8,895000.0,05-10-2006,Alm.,5114,6,Villa,175,1915,
+Sønderhøj 5 4960 Holeby,5,1125000.0,25-09-2006,Alm.,8653,5,Villa,130,1976,
+Maribovej 36 4960 Holeby,36,1095000.0,11-09-2006,Alm.,7448,5,Villa,147,1945,
+Højbygårdvej 1A 4960 Holeby,0,250000.0,07-08-2006,Fam.,2777,5,Villa,90,1959,
+Ellemosevej 18 4960 Holeby,18,1109000.0,07-08-2006,Alm.,5110,6,Villa,217,1972,
+Vestervej 94 4960 Holeby,94,718886.0,02-08-2006,Alm.,7567,3,Rækkehus,95,1922,
+Skottemarkevej 20 4960 Holeby,20,549000.0,01-08-2006,Alm.,5602,4,Villa,98,1935,
+Gl. Holebyvej 12 4960 Holeby,12,2000000.0,29-07-2006,Fam.,5263,8,Stuehus,380,1730,
+Møllevej 43 4960 Holeby,43,545000.0,28-07-2006,Alm.,7785,4,Sommerhus,70,1850,
+Fuglsevej 17 4960 Holeby,17,595000.0,20-07-2006,Alm.,5000,4,Villa,119,1897,
+Gl. Holebyvej 9 4960 Holeby,9,795000.0,19-07-2006,Alm.,5096,4,Villa,156,1900,
+Charlottenlundvej 4 4960 Holeby,4,1650000.0,18-07-2006,Alm.,7112,6,Villa,232,1907,
+Bøsserupvej 5 4960 Holeby,5,1795000.0,17-07-2006,Alm.,10198,5,Villa,176,1926,
+Hillestolpevej 5 4960 Holeby,5,620000.0,09-07-2006,Alm.,4732,5,Villa,131,1934,
+Sønderhøj 30 4960 Holeby,30,1630000.0,01-07-2006,Alm.,7581,5,Villa,215,1979,
+Torslundevej 18 4960 Holeby,18,550000.0,01-07-2006,Alm.,5000,4,Villa,110,1935,
+Ll. Fuglelodden 4 4960 Holeby,4,255000.0,29-06-2006,Alm.,5100,3,Sommerhus,50,1877,
+Havebyen 23 4960 Holeby,23,251273.0,19-06-2006,Andet,2617,3,Rækkehus,96,1872,
+Nørrevej 24 4960 Holeby,24,640000.0,17-06-2006,Alm.,5161,3,Villa,124,1966,
+Skolevej 4 4960 Holeby,4,675000.0,16-06-2006,Alm.,4753,6,Villa,142,1900,
+Hans Jørgensens Allé 8 4960 Holeby,8,1370000.0,14-06-2006,Alm.,4756,5,Villa,288,1956,
+Møllevej 35 4960 Holeby,35,640000.0,13-06-2006,Alm.,8000,4,Villa,80,1900,
+Vestervej 60 4960 Holeby,60,595000.0,30-05-2006,Alm.,4958,5,Villa,120,1909,
+Skottemarkevej 4 4960 Holeby,4,635000.0,22-05-2006,Alm.,5381,3,Villa,118,1942,
+Maribovej 34 4960 Holeby,34,575000.0,10-05-2006,Alm.,2385,5,Villa,241,1914,
+Nyvej 16 4960 Holeby,16,535000.0,09-05-2006,Alm.,5815,3,Rækkehus,92,1936,
+Tamrodsvej 36 4960 Holeby,36,795000.0,02-05-2006,Alm.,5063,6,Villa,157,1857,
+Tuekærvej 14 4960 Holeby,14,995000.0,01-05-2006,Alm.,8291,4,Villa,120,1962,
+Bagskovvej 8 4960 Holeby,8,2500000.0,01-05-2006,Alm.,21739,5,Stuehus,115,1963,
+Sønderhøj 11 4960 Holeby,11,339000.0,11-04-2006,Alm.,2067,5,Villa,164,1973,
+Østervej 37 4960 Holeby,37,360500.0,05-04-2006,Alm.,4806,3,Rækkehus,75,1882,
+Tjørnevej 3 4960 Holeby,3,725000.0,25-03-2006,Alm.,5894,5,Villa,123,1966,
+Kildevænget 4 4960 Holeby,4,985000.0,24-03-2006,Alm.,6523,4,Villa,151,1985,
+Torslundevej 5 4960 Holeby,5,462000.0,24-03-2006,Alm.,7000,4,Villa,66,1952,
+Tjørnevej 8 4960 Holeby,8,895000.0,18-03-2006,Alm.,6580,4,Villa,136,1968,
+Industrivej 4 4960 Holeby,4,950000.0,14-03-2006,Alm.,6375,4,Villa,149,1976,
+Hans Jørgensens Allé 4 4960 Holeby,4,995000.0,08-03-2006,Alm.,7316,6,Villa,136,1952,
+Nødebjerg 5 4960 Holeby,5,1150000.0,30-01-2006,Alm.,7098,4,Villa,162,1979,
+Nødebjerg 18 4960 Holeby,18,925000.0,17-01-2006,Alm.,7974,3,Villa,116,1978,
+Ellemosevej 3 4960 Holeby,3,1035000.0,09-01-2006,Alm.,6993,6,Villa,148,1972,
+Rennebæksvej 22 4960 Holeby,22,475000.0,12-12-2005,Fam.,3467,4,Villa,137,1973,
+Flintebjerg 1 4960 Holeby,1,184696.0,28-11-2005,Alm.,1147,6,Villa,161,2007,
+Vestervej 99 4960 Holeby,99,495685.0,21-11-2005,Auktion,4273,4,Villa,116,1936,
+Dunmosevej 8 4960 Holeby,8,1245500.0,14-11-2005,Alm.,5125,9,Villa,243,1970,
+Vestervej 105 4960 Holeby,105,370000.0,07-11-2005,Alm.,5362,2,Villa,69,1932,
+Tjørnevej 11 4960 Holeby,11,750000.0,11-10-2005,Alm.,5813,5,Villa,129,1966,
+Rennebæksvej 19 4960 Holeby,19,840000.0,11-09-2005,Alm.,5793,5,Villa,145,1974,
+Vestervej 37 4960 Holeby,37,278092.0,22-08-2005,Andet,1598,4,Villa,174,1959,
+Bagskovvej 4 4960 Holeby,4,450000.0,22-08-2005,Alm.,4017,4,Villa,112,1910,
+Vestervej 59 4960 Holeby,59,250000.0,17-08-2005,Alm.,3333,5,Rækkehus,75,1908,
+Nyvej 22 4960 Holeby,22,415000.0,01-08-2005,Alm.,4150,4,Rækkehus,100,1936,
+Tuekærvej 25 4960 Holeby,25,433333.0,28-07-2005,Alm.,3009,5,Villa,144,1963,
+Hillestolpevej 3 4960 Holeby,3,845000.0,16-07-2005,Alm.,7347,5,Villa,115,1935,
+Sønderhøj 24 4960 Holeby,24,995000.0,11-07-2005,Alm.,5378,4,Villa,185,1974,
+Skottemarkevej 11 4960 Holeby,11,130000.0,05-07-2005,Auktion,802,7,Villa,162,1920,
+Nystedvej 15 4960 Holeby,15,221000.0,04-07-2005,Fam.,3745,2,Villa,59,1886,
+Vestervej 24 4960 Holeby,24,425000.0,04-07-2005,Alm.,3663,4,Villa,116,1907,
+Flaarupvej 15 4960 Holeby,15,219882.0,04-07-2005,Fam.,2134,5,Villa,103,1935,
+Alsøvej 5 4960 Holeby,5,359000.0,29-06-2005,Alm.,5983,2,Rækkehus,60,1850,
+Vesterbyvej 6 4960 Holeby,6,520000.0,27-06-2005,Alm.,3151,5,Villa,165,1925,
+Mosevej 1 4960 Holeby,1,150000.0,08-06-2005,Alm.,1500,3,Sommerhus,100,1840,
+Keldskovvej 3 4960 Holeby,3,975000.0,26-05-2005,Alm.,15000,4,Sommerhus,65,1860,
+Maribovej 2 4960 Holeby,2,650000.0,23-05-2005,Alm.,3735,7,Villa,174,1935,
+Maglemose 14 4960 Holeby,14,895000.0,20-05-2005,Alm.,6532,5,Villa,137,1974,
+Nøbbøllevej 8 4960 Holeby,8,885000.0,17-05-2005,Alm.,7695,4,Stuehus,115,1830,
+Østervej 46 4960 Holeby,46,415000.0,27-04-2005,Alm.,4940,3,Villa,84,1895,
+Bagskovvej 14 4960 Holeby,14,162500.0,13-04-2005,Fam.,1022,6,Villa,159,1875,
+Frederiksmindevej 6 4960 Holeby,6,775000.0,11-04-2005,Alm.,5000,5,Villa,155,1937,
+Vestervej 77 4960 Holeby,77,495000.0,11-04-2005,Alm.,5380,4,Villa,92,1936,
+Vesterbyvej 8 4960 Holeby,8,293907.0,07-04-2005,Alm.,1825,3,Villa,161,1927,
+Rennebæksvej 3 4960 Holeby,3,845000.0,19-03-2005,Alm.,8450,4,Villa,100,1964,
+Østervej 3 4960 Holeby,3,450000.0,14-03-2005,Alm.,2760,9,Villa,163,1895,
+Hillestolpevej 32 4960 Holeby,32,325000.0,14-03-2005,Alm.,4062,4,Sommerhus,80,1827,
+Alsøvej 25 4960 Holeby,25,9100000.0,10-03-2005,Alm.,52906,6,Stuehus,172,1991,
+Flaarupvej 12 4960 Holeby,12,2620000.0,03-03-2005,Alm.,16794,5,Villa,156,1870,
+Vestervej 95 4960 Holeby,95,550000.0,02-03-2005,Alm.,4583,6,Villa,120,1956,
+Vestervej 121 4960 Holeby,121,220000.0,28-02-2005,Alm.,3928,4,Villa,56,1907,
+Torslundevej 49 4960 Holeby,49,560000.0,07-02-2005,Alm.,4552,4,Villa,123,1900,
+Tjørnevej 9 4960 Holeby,9,800000.0,24-01-2005,Alm.,6015,4,Villa,133,1966,
+Skottemarkevej 18 4960 Holeby,18,395000.0,24-01-2005,Alm.,4388,3,Villa,90,1938,
+Alsøvej 1 4960 Holeby,1,715000.0,12-01-2005,Alm.,6941,3,Villa,103,1946,
+Bagskovvej 5 4960 Holeby,5,495158.0,03-01-2005,Alm.,4058,2,Villa,122,1960,
+Torslundevej 23 4960 Holeby,23,90000.0,03-01-2005,Auktion,865,4,Villa,104,1897,
+Frederiksmindevej 1 4960 Holeby,1,3696000.0,06-12-2004,Alm.,19870,5,Stuehus,186,1941,
+Flaarupvej 22 4960 Holeby,22,275000.0,04-12-2004,Alm.,3928,3,Villa,70,1879,
+Vestervej 34 4960 Holeby,34,750000.0,04-11-2004,Alm.,4285,5,Villa,175,1934,
+Tjørnevej 14 4960 Holeby,14,810000.0,01-11-2004,Fam.,5912,4,Villa,137,1967,
+Jernbanevej 2 4960 Holeby,2,425000.0,26-10-2004,Alm.,4619,3,Villa,92,1945,
+Tamrodsvej 5 4960 Holeby,5,100000.0,25-10-2004,Alm.,1562,4,Sommerhus,64,1850,
+Møllevej 46 4960 Holeby,46,310000.0,23-10-2004,Alm.,4769,2,Villa,65,1939,
+Torslundevej 57 4960 Holeby,57,550000.0,06-10-2004,Alm.,2682,4,Villa,205,1898,
+Vestervej 12 4960 Holeby,12,545261.0,06-10-2004,Alm.,4327,5,Villa,126,1900,
+"Vestervej 10, 1 4960 Holeby",1,700000.0,17-09-2004,Alm.,3932,5,Lejlighed,178,1900,
+Østervej 38 4960 Holeby,38,395000.0,03-09-2004,Alm.,2244,4,Rækkehus,176,1897,
+Magasinvej 17 4960 Holeby,17,380000.0,13-08-2004,Alm.,5066,4,Rækkehus,75,1930,
+Tamrodsvej 12 4960 Holeby,12,115000.0,02-08-2004,Alm.,1949,3,Villa,59,1827,
+Ellemosevej 2 4960 Holeby,2,895000.0,21-06-2004,Alm.,7160,4,Villa,125,1973,
+Jersievej 9 4960 Holeby,9,430000.0,14-06-2004,Alm.,4095,4,Villa,105,1968,
+Nødebjerg 24 4960 Holeby,24,815000.0,14-06-2004,Alm.,6468,5,Villa,126,1986,
+Fuglsevej 54 4960 Holeby,54,795000.0,14-06-2004,Alm.,3382,9,Villa,235,1900,
+Vestervej 91 4960 Holeby,91,550000.0,19-05-2004,Alm.,4867,3,Villa,113,1957,
+Torslundevej 53A 4960 Holeby,0,235000.0,01-05-2004,Fam.,1525,6,Villa,154,1870,
+Vestervej 79 4960 Holeby,79,400000.0,29-04-2004,Alm.,3333,3,Villa,120,1935,
+Tuekærvej 7 4960 Holeby,7,545000.0,26-04-2004,Alm.,5190,5,Villa,105,1965,
+Vestervej 120 4960 Holeby,120,535000.0,15-03-2004,Alm.,3496,5,Villa,153,1931,
+Dunmosevej 2 4960 Holeby,2,775000.0,08-12-2003,Fam.,3799,3,Villa,204,1969,
+Ellemosevej 20 4960 Holeby,20,699000.0,08-12-2003,Alm.,6241,5,Villa,112,1972,
+Vestervej 56 4960 Holeby,56,325000.0,18-11-2003,Alm.,3963,4,Rækkehus,82,1906,
+Fabriksvej 13 4960 Holeby,13,875000.0,31-10-2003,Alm.,5645,6,Villa,155,1953,
+Errindlevvej 55 4960 Holeby,55,685000.0,27-10-2003,Alm.,3142,6,Villa,218,1970,
+Magasinvej 6 4960 Holeby,6,347500.0,21-10-2003,Fam.,2895,5,Villa,120,1902,
+Magasinvej 5 4960 Holeby,5,850000.0,21-10-2003,Fam.,4166,5,Villa,204,1906,
+Vestervej 55 4960 Holeby,55,275000.0,21-10-2003,Alm.,3928,4,Rækkehus,70,1908,
+Møllevej 60 4960 Holeby,60,400000.0,30-09-2003,Fam.,2597,4,Villa,154,1827,
+Madsensvej 6 4960 Holeby,6,400000.0,18-08-2003,Alm.,3883,3,Villa,103,1900,
+Vestervej 22 4960 Holeby,22,420000.0,18-08-2003,Alm.,4941,3,Villa,85,1907,
+Fuglelodden 2 4960 Holeby,2,245000.0,12-08-2003,Alm.,1484,4,Villa,165,1900,
+Vestervej 101 4960 Holeby,101,560000.0,01-08-2003,Alm.,5600,3,Villa,100,1935,
+Frederiksmindevej 7 4960 Holeby,7,375000.0,30-07-2003,Alm.,2976,2,Villa,126,1927,
+Bagskovvej 6 4960 Holeby,6,535000.0,07-07-2003,Alm.,2891,5,Villa,185,1850,
+Rennebæksvej 1 4960 Holeby,1,605000.0,06-06-2003,Alm.,4201,6,Villa,144,1964,
+Fuglsevej 39 4960 Holeby,39,550000.0,23-05-2003,Alm.,3395,5,Villa,162,1936,
+Madsensvej 12 4960 Holeby,12,176359.0,15-05-2003,Fam.,1457,3,Villa,121,1924,
+Torslundevej 41 4960 Holeby,41,108923.0,29-04-2003,Alm.,1210,2,Villa,90,1900,
+Ryttervej 2 4960 Holeby,2,895000.0,31-03-2003,Alm.,6392,4,Villa,140,1970,
+Nødebjerg 15 4960 Holeby,15,925000.0,31-03-2003,Alm.,5929,6,Villa,156,1983,
+Smedebyvej 2 4960 Holeby,2,165000.0,24-03-2003,Alm.,1941,3,Villa,85,1897,
+Maglemose 18 4960 Holeby,18,803900.0,07-03-2003,Alm.,5701,4,Villa,141,1975,
+Torpevej 5 4960 Holeby,5,5397500.0,11-02-2003,Fam.,25702,9,Stuehus,210,1827,
+Frederiksmindevej 2 4960 Holeby,2,668300.0,09-02-2003,Alm.,5569,3,Villa,120,1800,
+Rennebæksvej 15 4960 Holeby,15,632000.0,23-01-2003,Alm.,5495,4,Villa,115,1972,
+Fuglsevej 5 4960 Holeby,5,610000.0,23-01-2003,Alm.,4206,4,Villa,145,1955,
+Østervej 14 4960 Holeby,14,188000.0,13-01-2003,Auktion,1773,4,Rækkehus,106,1900,
+Præstevejen 8 4960 Holeby,8,280000.0,11-01-2003,Alm.,2477,3,Villa,113,1900,
+Nødebjerg 28 4960 Holeby,28,1074764.0,18-12-2002,Alm.,4264,5,Villa,252,1980,
+Alsøvej 14 4960 Holeby,14,280000.0,09-12-2002,Alm.,3373,3,Villa,83,1917,
+Bjørnevej 9 4960 Holeby,9,530000.0,09-12-2002,Alm.,5760,3,Villa,92,1954,
+Tuekærvej 35 4960 Holeby,35,840000.0,30-11-2002,Alm.,5526,4,Villa,152,1965,
+Alsøvej 21 4960 Holeby,21,195500.0,27-11-2002,Fam.,2273,3,Sommerhus,86,1942,
+Gl. Holebyvej 8 4960 Holeby,8,3725000.0,07-11-2002,Alm.,22172,3,Stuehus,168,1875,
+Møllevej 19 4960 Holeby,19,174000.0,31-10-2002,Andet,2175,2,Villa,80,1897,
+Højbygårdvej 10A 4960 Holeby,0,265000.0,16-10-2002,Alm.,2154,3,Villa,123,1870,
+Torslundevej 19 4960 Holeby,19,650000.0,01-10-2002,Alm.,3023,5,Villa,215,1951,
+Måhavevej 10 4960 Holeby,10,580000.0,23-09-2002,Alm.,2577,7,Villa,225,1870,
+Vestervej 118 4960 Holeby,118,365000.0,12-09-2002,Alm.,3476,2,Rækkehus,105,1951,
+Møllevej 41 4960 Holeby,41,380000.0,15-08-2002,Alm.,3958,3,Villa,96,1964,
+Vestervej 78 4960 Holeby,78,345000.0,12-08-2002,Alm.,2974,3,Villa,116,1921,
+Vestervej 112 4960 Holeby,112,450000.0,28-06-2002,Alm.,2393,5,Villa,188,1951,
+Havebyen 9 4960 Holeby,9,415000.0,27-06-2002,Alm.,2712,4,Rækkehus,153,1873,
+Havebyen 13 4960 Holeby,13,449217.0,26-06-2002,Alm.,5686,2,Rækkehus,79,1986,
+Tamrodsvej 40 4960 Holeby,40,300000.0,24-06-2002,Fam.,1785,7,Villa,168,1880,
+Havebyen 12 4960 Holeby,12,225000.0,06-05-2002,Alm.,2343,2,Rækkehus,96,1872,
+Magasinvej 8 4960 Holeby,8,325000.0,06-05-2002,Alm.,4012,5,Villa,81,1907,
+Østervej 43 4960 Holeby,43,520000.0,06-05-2002,Alm.,4160,6,Villa,125,1900,
+Alsøvej 19 4960 Holeby,19,1700000.0,28-04-2002,Alm.,5862,8,Villa,290,1850,
+Vestervej 8 4960 Holeby,8,415000.0,08-04-2002,Alm.,3772,4,Rækkehus,110,1892,
+Præstevejen 2 4960 Holeby,2,500000.0,06-04-2002,Alm.,6756,2,Villa,74,1827,
+Havebyen 28 4960 Holeby,28,375000.0,21-03-2002,Alm.,3989,3,Rækkehus,94,1873,
+Nørrevej 13 4960 Holeby,13,373000.0,18-03-2002,Alm.,4098,4,Rækkehus,91,1870,
+Torslundevej 25 4960 Holeby,25,329280.0,07-03-2002,Alm.,4015,3,Villa,82,1930,
+Møllevej 32 4960 Holeby,32,339000.0,28-02-2002,Alm.,2627,4,Villa,129,1906,
+Østervej 33 4960 Holeby,33,435033.0,19-01-2002,Alm.,4350,4,Rækkehus,100,1890,
+Måhavevej 14 4960 Holeby,14,545000.0,10-01-2002,Alm.,3323,4,Villa,164,1867,
+Hillestolpevej 34 4960 Holeby,34,304000.0,01-01-2002,Alm.,1293,6,Villa,235,1864,
+Dunmosevej 7 4960 Holeby,7,600000.0,02-12-2001,Alm.,3973,5,Villa,151,1971,
+Gl. Holebyvej 2 4960 Holeby,2,172000.0,26-11-2001,Alm.,1638,3,Villa,105,1897,
+Nyvej 3 4960 Holeby,3,360000.0,06-11-2001,Alm.,4137,3,Rækkehus,87,1900,
+Nørrevej 25 4960 Holeby,25,588220.0,05-11-2001,Alm.,6535,3,Villa,90,1956,
+Præstevejen 1 4960 Holeby,1,635000.0,05-11-2001,Alm.,3628,6,Rækkehus,175,1896,
+Alsøvej 15 4960 Holeby,15,562000.0,01-11-2001,Alm.,3797,5,Villa,148,1900,
+Højbygårdvej 29 4960 Holeby,29,700000.0,25-10-2001,Alm.,2380,13,Villa,294,1951,
+Tamrodsvej 38 4960 Holeby,38,212500.0,26-09-2001,Andet,965,6,Villa,220,1915,
+Måhavevej 6 4960 Holeby,6,340000.0,10-09-2001,Alm.,4047,3,Villa,84,1952,
+Hillestolpevej 9 4960 Holeby,9,310000.0,03-09-2001,Alm.,3039,5,Villa,102,1904,
+Havebyen 25 4960 Holeby,25,194089.0,30-07-2001,Alm.,2310,3,Rækkehus,84,1873,
+Nødebjerg 11 4960 Holeby,11,795000.0,30-07-2001,Alm.,5678,4,Villa,140,1980,
+Sønderhøj 40 4960 Holeby,40,775000.0,30-07-2001,Alm.,4329,5,Villa,179,1976,
+Møllevej 40 4960 Holeby,40,369317.0,21-07-2001,Alm.,6155,3,Rækkehus,60,1900,
+Nødebjerg 37 4960 Holeby,37,95380.0,09-07-2001,Alm.,368,7,Villa,259,2002,
+Hillestolpevej 28 4960 Holeby,28,495000.0,22-06-2001,Alm.,4304,5,Villa,115,1927,
+Nystedvej 12 4960 Holeby,12,247500.0,14-06-2001,Alm.,1695,7,Villa,146,1908,
+Torslundevej 15 4960 Holeby,15,164070.0,12-06-2001,Alm.,2646,3,Villa,62,1931,
+Vestervej 9 4960 Holeby,9,560000.0,11-06-2001,Alm.,1493,7,Villa,375,1922,
+Rennebæksvej 14 4960 Holeby,14,575000.0,09-06-2001,Alm.,4600,4,Villa,125,1966,
+Vestervej 54 4960 Holeby,54,430000.0,08-06-2001,Alm.,3071,6,Villa,140,1900,
+Møllevej 64 4960 Holeby,64,697243.0,01-05-2001,Alm.,7662,2,Villa,91,1900,
+Maglemose 32 4960 Holeby,32,811500.0,02-04-2001,Alm.,5483,5,Villa,148,1973,
+Skottemarkevej 3 4960 Holeby,3,55000.0,02-04-2001,Auktion,578,2,Villa,95,1850,
+Vestervej 29 4960 Holeby,29,150000.0,07-12-2000,Alm.,1363,5,Villa,110,1906,
+Møllevej 38 4960 Holeby,38,980315.0,05-12-2000,Alm.,4668,9,Villa,210,1900,
+Nyvej 14 4960 Holeby,14,435000.0,24-11-2000,Alm.,4677,4,Villa,93,1938,
+Frandsensvej 3 4960 Holeby,3,795000.0,20-11-2000,Alm.,4392,4,Villa,181,1831,
+Fuglsevej 4 4960 Holeby,4,312000.0,20-11-2000,Alm.,3120,4,Villa,100,1965,
+Torslundevej 24 4960 Holeby,24,321530.0,27-10-2000,Alm.,2724,4,Villa,118,1907,
+Havebyen 31 4960 Holeby,31,354000.0,25-10-2000,Alm.,1427,7,Villa,248,1877,
+Højbygårdvej 19 4960 Holeby,19,396000.0,15-10-2000,Alm.,3666,4,Villa,108,1887,
+Keldskovvej 1 4960 Holeby,1,205353.0,25-09-2000,Alm.,2053,2,Villa,100,1887,
+Nørrevej 15 4960 Holeby,15,315000.0,21-08-2000,Alm.,2669,3,Rækkehus,118,1916,
+Nørrevej 12 4960 Holeby,12,140000.0,17-08-2000,Andet,1333,4,Villa,105,1900,
+Vindtoftvej 7 4960 Holeby,7,695000.0,11-08-2000,Alm.,4894,4,Villa,142,1973,
+Vestervej 96 4960 Holeby,96,250000.0,08-08-2000,Alm.,3012,3,Villa,83,1922,
+Sønderhøj 14 4960 Holeby,14,650000.0,31-07-2000,Alm.,4452,4,Villa,146,1973,
+Ellemosevej 16 4960 Holeby,16,488000.0,31-07-2000,Alm.,3873,4,Villa,126,1971,
+Jersievej 1 4960 Holeby,1,626657.0,15-07-2000,Alm.,5053,4,Villa,124,1969,
+Rennebæksvej 9 4960 Holeby,9,565000.0,19-06-2000,Alm.,5044,4,Villa,112,1965,
+Møllevej 28 4960 Holeby,28,205000.0,29-05-2000,Alm.,0,3,Villa,131,1877,
+Ellemosevej 26 4960 Holeby,26,362500.0,23-05-2000,Alm.,2788,4,Villa,130,1974,
+Havebyen 32 4960 Holeby,32,278000.0,17-04-2000,Alm.,1695,6,Rækkehus,164,1875,
+Nødebjerg 17 4960 Holeby,17,560000.0,03-04-2000,Alm.,5714,3,Villa,98,1988,
+Gl. Holebyvej 23 4960 Holeby,23,190000.0,20-03-2000,Alm.,3392,3,Villa,56,1827,
+Havebyen 3 4960 Holeby,3,195118.0,20-03-2000,Alm.,1840,3,Rækkehus,106,1873,
+Errindlevvej 57 4960 Holeby,57,273629.0,16-03-2000,Alm.,2104,4,Villa,130,1897,
+Vestervej 43 4960 Holeby,43,500659.0,28-02-2000,Alm.,3337,6,Villa,150,1916,
+Vesterbyvej 2 4960 Holeby,2,239660.0,28-02-2000,Alm.,2445,4,Villa,98,1890,
+Højbygårdvej 1B 4960 Holeby,0,353000.0,08-02-2000,Alm.,3922,4,Villa,90,1938,
+Møllevej 16 4960 Holeby,16,410000.0,25-01-2000,Alm.,3228,6,Villa,127,1952,
+Vestervej 68 4960 Holeby,68,549000.0,11-01-2000,Alm.,4463,4,Villa,123,1938,
+Vestervej 89 4960 Holeby,89,270000.0,22-11-1999,Fam.,2045,4,Villa,132,1938,
+Vestervej 39 4960 Holeby,39,384686.0,20-10-1999,Alm.,3846,6,Villa,100,1949,
+Rennebæksvej 18 4960 Holeby,18,815000.0,08-10-1999,Alm.,5361,4,Villa,152,1973,
+Fuglsevej 29 4960 Holeby,29,262540.0,06-09-1999,Alm.,2651,4,Villa,99,1942,
+Torslundevej 51 4960 Holeby,51,680000.0,23-08-1999,Alm.,2402,8,Villa,283,1900,
+Flaarupvej 9 4960 Holeby,9,218000.0,23-08-1999,Alm.,2945,2,Sommerhus,74,1860,
+Nyvej 20 4960 Holeby,20,363000.0,17-08-1999,Alm.,3184,4,Rækkehus,114,1937,
+"Østervej 1, 1 4960 Holeby",1,391824.0,09-08-1999,Alm.,3211,4,Lejlighed,122,1939,
+Bjørnevej 3 4960 Holeby,3,367500.0,09-08-1999,Alm.,4651,3,Villa,79,1950,
+Vestervej 81 4960 Holeby,81,422755.0,19-07-1999,Alm.,3774,4,Villa,112,1940,
+Hillestolpevej 12 4960 Holeby,12,330000.0,12-07-1999,Alm.,3300,4,Villa,100,1870,
+Højbygårdvej 9 4960 Holeby,9,736640.0,28-05-1999,Alm.,3836,4,Villa,192,1959,
+Kærstrupvej 1 4960 Holeby,1,350000.0,24-05-1999,Alm.,1944,6,Villa,180,1886,
+Måhavevej 22 4960 Holeby,22,827281.0,31-03-1999,Alm.,6618,5,Villa,125,1926,
+Skovvej 5 4960 Holeby,5,264978.0,19-03-1999,Alm.,0,5,Villa,174,1970,
+Maglemose 46 4960 Holeby,46,625000.0,08-03-1999,Alm.,4528,4,Villa,138,1976,
+Kærstrupvej 14 4960 Holeby,14,118897.0,08-03-1999,Alm.,819,6,Villa,145,1907,
+Tamrodsvej 16 4960 Holeby,16,271571.0,03-02-1999,Alm.,2263,4,Villa,120,1890,
+Tamrodsvej 24A 4960 Holeby,0,70000.0,11-01-1999,Alm.,795,3,Villa,88,1770,
+Møllevej 39 4960 Holeby,39,4150000.0,05-01-1999,Alm.,21842,6,Stuehus,190,1900,
+Vindtoftvej 8 4960 Holeby,8,660000.0,01-12-1998,Alm.,4459,5,Villa,148,1973,
+Torslundevej 17 4960 Holeby,17,219921.0,02-11-1998,Alm.,2199,5,Villa,100,1912,
+Gl. Holebyvej 5 4960 Holeby,5,240000.0,02-11-1998,Alm.,2424,4,Villa,99,1909,
+Vestervej 106 4960 Holeby,106,372180.0,31-10-1998,Alm.,2798,5,Villa,133,1952,
+Vestervej 17 4960 Holeby,17,262103.0,30-10-1998,Alm.,2299,3,Villa,114,1901,
+Torslundevej 9 4960 Holeby,9,362700.0,05-10-1998,Alm.,3126,3,Villa,116,1956,
+Møllevej 2 4960 Holeby,2,155000.0,01-09-1998,Alm.,2279,2,Villa,68,1910,
+Bøsserupvej 7 4960 Holeby,7,484000.0,03-08-1998,Alm.,2420,6,Villa,200,1926,
+Bagskovvej 9 4960 Holeby,9,210000.0,19-07-1998,Fam.,2142,2,Villa,98,1936,
+Møllevej 52 4960 Holeby,52,60000.0,18-05-1998,Alm.,714,4,Sommerhus,84,1900,
+Nørrevej 3 4960 Holeby,3,245000.0,01-05-1998,Alm.,3602,4,Villa,68,1916,
+Nødebjerg 30 4960 Holeby,30,650000.0,29-04-1998,Alm.,4850,5,Villa,134,1984,
+Fuglsevej 58 4960 Holeby,58,238788.0,28-04-1998,Alm.,1380,5,Villa,173,1777,
+Alsøvej 6 4960 Holeby,6,392722.0,13-04-1998,Alm.,2517,5,Villa,156,1917,
+Torslundevej 22 4960 Holeby,22,185000.0,07-04-1998,Alm.,1401,4,Villa,132,1974,
+Torslundevej 33 4960 Holeby,33,360000.0,07-04-1998,Alm.,2142,9,Villa,168,1966,
+Fuglsevej 12 4960 Holeby,12,140000.0,16-03-1998,Alm.,933,5,Villa,150,1873,
+Fuglsevej 46 4960 Holeby,46,762000.0,16-02-1998,Alm.,2419,9,Villa,315,1907,
+Maglemose 56 4960 Holeby,56,440000.0,18-12-1997,Alm.,4271,4,Villa,103,1977,
+Alsøvej 9 4960 Holeby,9,897000.0,09-12-1997,Alm.,5276,5,Villa,170,1770,
+Møllevej 56 4960 Holeby,56,395000.0,20-10-1997,Alm.,3291,4,Villa,120,1924,
+Ellemosevej 4 4960 Holeby,4,70028.0,20-10-1997,Alm.,482,5,Villa,145,1974,
+Vestervej 109 4960 Holeby,109,403400.0,15-10-1997,Alm.,3538,3,Villa,114,1928,
+Nyvej 6 4960 Holeby,6,320000.0,29-09-1997,Alm.,3232,5,Rækkehus,99,1934,
+Vestervej 41 4960 Holeby,41,363000.0,29-09-1997,Alm.,2904,5,Villa,125,1916,
+Sortevej 6 4960 Holeby,6,45000.0,29-08-1997,Alm.,368,3,Sommerhus,122,2005,
+Sønderhøj 26 4960 Holeby,26,660000.0,28-07-1997,Alm.,4583,4,Villa,144,1976,
+Alsøvej 22 4960 Holeby,22,180000.0,28-07-1997,Alm.,2000,3,Villa,90,1902,
+Vesterbyvej 7 4960 Holeby,7,1965088.0,18-07-1997,Alm.,13646,4,Villa,144,1930,
+Hillestolpevej 22 4960 Holeby,22,125000.0,01-06-1997,Fam.,1420,3,Rækkehus,88,1910,
+Vestervej 97 4960 Holeby,97,282000.0,22-05-1997,Alm.,2711,3,Villa,104,1956,
+Gl. Holebyvej 29 4960 Holeby,29,175000.0,12-05-1997,Alm.,1785,3,Villa,98,1827,
+Skovvej 9 4960 Holeby,9,129479.0,12-05-1997,Fam.,1233,3,Villa,105,1872,
+Vestervej 108 4960 Holeby,108,325000.0,16-03-1997,Alm.,3963,4,Villa,82,1952,
+Bøsserupvej 9 4960 Holeby,9,237918.0,11-03-1997,Alm.,2379,4,Villa,100,1926,
+Møllevej 10 4960 Holeby,10,570609.0,27-01-1997,Alm.,5005,4,Villa,114,1984,
+Vestervej 86 4960 Holeby,86,245000.0,18-11-1996,Alm.,2450,4,Villa,100,1906,
+Møllevej 12 4960 Holeby,12,287300.0,31-10-1996,Alm.,1578,6,Villa,182,1911,
+Højbygårdvej 17 4960 Holeby,17,125000.0,14-10-1996,Alm.,1543,4,Villa,81,1900,
+Tuekærvej 17 4960 Holeby,17,346000.0,09-09-1996,Alm.,3567,3,Villa,97,1963,
+Nyvej 13 4960 Holeby,13,180000.0,09-09-1996,Alm.,1914,3,Rækkehus,94,1900,
+Errindlevvej 60 4960 Holeby,60,425000.0,24-08-1996,Alm.,3035,7,Villa,140,1916,
+Måhavevej 4 4960 Holeby,4,190000.0,19-08-1996,Alm.,2134,5,Villa,89,1934,
+Havebyen 38 4960 Holeby,38,160000.0,06-06-1996,Alm.,1269,4,Villa,126,1872,
+Nødebjerg 22 4960 Holeby,22,588000.0,27-05-1996,Alm.,4859,4,Villa,121,1979,
+Vindtoftvej 6 4960 Holeby,6,621290.0,26-04-1996,Alm.,3932,4,Villa,158,1973,
+Vestervej 104 4960 Holeby,104,100000.0,08-04-1996,Alm.,1000,4,Rækkehus,100,1925,
+Vestervej 102 4960 Holeby,102,185000.0,02-03-1996,Alm.,2681,2,Rækkehus,69,1925,
+Vesterbyvej 5 4960 Holeby,5,240000.0,06-02-1996,Alm.,1714,4,Villa,140,1928,
+Fuglsevej 57 4960 Holeby,57,207400.0,08-12-1995,Alm.,1787,4,Villa,116,1938,
+Vestervej 49 4960 Holeby,49,192000.0,25-09-1995,Alm.,2206,3,Villa,87,1914,
+Vestervej 93 4960 Holeby,93,181000.0,15-09-1995,Alm.,2056,4,Villa,88,1957,
+Fuglsevej 45 4960 Holeby,45,215000.0,01-09-1995,Alm.,2986,2,Villa,72,1900,
+Fuglsevej 15 4960 Holeby,15,95778.0,31-07-1995,Fam.,862,3,Villa,111,1870,
+Nyvej 9 4960 Holeby,9,165000.0,28-07-1995,Alm.,1987,4,Rækkehus,83,1907,
+Fuglsevej 27 4960 Holeby,27,223270.0,17-07-1995,Alm.,1786,6,Villa,125,1942,
+Havebyen 20 4960 Holeby,20,230200.0,01-06-1995,Alm.,1886,4,Rækkehus,122,1877,
+Tuekærvej 12 4960 Holeby,12,300000.0,23-04-1995,Alm.,2083,4,Villa,144,1961,
+Ellemosevej 43 4960 Holeby,43,586190.0,10-04-1995,Alm.,4042,4,Villa,145,1971,
+Måhavevej 5 4960 Holeby,5,359000.0,22-03-1995,Alm.,0,5,Villa,111,1926,
+Tjørnevej 2 4960 Holeby,2,440000.0,02-03-1995,Alm.,3437,4,Villa,128,1968,
+Møllevej 25 4960 Holeby,25,175000.0,20-02-1995,Alm.,1715,2,Villa,102,1892,
+Gl. Holebyvej 19 4960 Holeby,19,125000.0,25-11-1994,Alm.,0,6,Villa,120,1800,
+Havebyen 35 4960 Holeby,35,195533.0,22-11-1994,Alm.,2413,3,Rækkehus,81,1872,
+Hillestolpevej 30 4960 Holeby,30,280000.0,03-10-1994,Alm.,1314,5,Villa,213,1830,
+Nørrevej 6 4960 Holeby,6,190000.0,03-10-1994,Alm.,2021,3,Villa,94,1900,
+Hans Jørgensens Allé 1 4960 Holeby,1,373000.0,05-09-1994,Alm.,2470,4,Villa,151,1920,
+Havebyen 33 4960 Holeby,33,190000.0,10-08-1994,Alm.,1652,4,Rækkehus,115,1870,
+Nødebjerg 49 4960 Holeby,49,395000.0,18-07-1994,Alm.,4388,3,Villa,90,1985,
+Skottemarkevej 21 4960 Holeby,21,95000.0,11-07-1994,Fam.,904,3,Villa,105,1967,
+Torslundevej 31 4960 Holeby,31,493000.0,27-06-1994,Fam.,5477,4,Stuehus,90,1934,
+Vestervej 25 4960 Holeby,25,95420.0,06-06-1994,Auktion,574,5,Villa,166,1900,
+Gl. Holebyvej 14 4960 Holeby,14,270000.0,18-04-1994,Alm.,1862,5,Villa,145,1927,
+Torslundevej 13 4960 Holeby,13,240000.0,06-04-1994,Alm.,3076,4,Villa,78,1936,
+Flaarupvej 16 4960 Holeby,16,3525000.0,02-04-1994,Alm.,17028,5,Stuehus,207,1915,
+Bagskovvej 1 4960 Holeby,1,345000.0,26-03-1994,Alm.,2875,4,Villa,120,1910,
+Nødebjerg 52 4960 Holeby,52,380000.0,22-03-1994,Alm.,3958,3,Villa,96,1983,
+Industrivej 2 4960 Holeby,2,455000.0,22-01-1994,Alm.,2058,8,Villa,221,1971,
+Dunmosevej 5 4960 Holeby,5,400000.0,11-01-1994,Alm.,2352,4,Villa,170,1971,
+Torslundevej 37 4960 Holeby,37,200000.0,22-11-1993,Alm.,2857,3,Villa,70,1874,
+Skottemarkevej 27 4960 Holeby,27,637500.0,18-11-1993,Alm.,3622,6,Villa,176,1974,
+Maglemose 3 4960 Holeby,3,525000.0,11-11-1993,Alm.,0,7,Villa,181,1973,
+Tuekærvej 1 4960 Holeby,1,400000.0,30-10-1993,Alm.,4000,5,Villa,100,1960,
+Smedebyvej 7 4960 Holeby,7,40000.0,29-10-1993,Alm.,425,4,Villa,94,1860,
+Vestervej 52 4960 Holeby,52,92000.0,25-10-1993,Auktion,779,5,Villa,118,1911,
+Torslundevej 12 4960 Holeby,12,295000.0,25-10-1993,Andet,2757,4,Villa,107,1900,
+Vestervej 117 4960 Holeby,117,460000.0,05-10-1993,Alm.,3833,6,Villa,120,1912,
+Hillestolpevej 18 4960 Holeby,18,550000.0,09-08-1993,Alm.,2864,5,Villa,192,1975,
+Magasinvej 7 4960 Holeby,7,280000.0,27-07-1993,Alm.,2500,4,Villa,112,1917,
+Maglemose 44 4960 Holeby,44,475000.0,24-06-1993,Alm.,3442,5,Villa,138,1975,
+Maribovej 40 4960 Holeby,40,212500.0,21-06-1993,Fam.,1831,4,Villa,116,1900,
+Torslundevej 40 4960 Holeby,40,80000.0,27-04-1993,Alm.,1066,2,Villa,75,1877,
+Torslundevej 20 4960 Holeby,20,180000.0,07-02-1993,Alm.,2022,4,Villa,89,1938,
+Vestervej 42 4960 Holeby,42,401000.0,07-12-1992,Alm.,1965,7,Villa,204,1952,
+Sønderhøj 15 4960 Holeby,15,411500.0,15-09-1992,Alm.,0,6,Villa,182,1976,
+Østervej 35 4960 Holeby,35,220000.0,29-07-1992,Alm.,2200,4,Rækkehus,100,1890,
+Møllevej 6 4960 Holeby,6,235000.0,31-05-1992,Alm.,1821,5,Villa,129,1900,
+Gl. Holebyvej 3 4960 Holeby,3,345000.0,30-04-1992,Alm.,1927,7,Villa,179,1964,
+Vestervej 75 4960 Holeby,75,225000.0,13-02-1992,Alm.,1991,4,Villa,113,1934,
+Vestervej 11 4960 Holeby,11,425000.0,07-02-1992,Fam.,2168,5,Villa,196,1927,
+Vesterbyvej 10 4960 Holeby,10,285000.0,10-01-1992,Alm.,1363,9,Villa,209,1927,

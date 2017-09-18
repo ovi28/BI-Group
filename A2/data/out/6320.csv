@@ -1,0 +1,540 @@
+address,zip_code,price,sell_date,sell_type,price_per_sq_m,no_rooms,housing_type,size_in_sq_m,year_of_construction,price_change_in_pct
+Bredmaj 60 6320 Egernsund,60,967228.0,05-03-2017,Fam.,11653,5,Sommerhus,83,1975,
+Damvej 4 6320 Egernsund,4,390000.0,01-03-2017,Alm.,3120,5,Villa,125,1955,
+Lågmajvej 16 6320 Egernsund,16,720000.0,27-02-2017,Alm.,5496,5,Villa,131,1965,-4 %
+Solbakken 6E 6320 Egernsund,0,775000.0,23-02-2017,Alm.,6300,4,Rækkehus,123,1986,-1 %
+Teglbakken 78 6320 Egernsund,78,500000.0,24-01-2017,Alm.,7575,4,Sommerhus,66,1978,-16 %
+Teglbakken 93 6320 Egernsund,93,600000.0,18-01-2017,Alm.,6896,4,Sommerhus,87,1980,-7 %
+Teglbakken 30 6320 Egernsund,30,642000.0,05-12-2016,Fam.,7925,3,Sommerhus,81,1978,
+Engvej 15 6320 Egernsund,15,595000.0,17-11-2016,Alm.,4407,4,Villa,135,1961,0 %
+Marinavej 25 6320 Egernsund,25,1450000.0,28-10-2016,Fam.,13302,4,Sommerhus,109,2005,-23 %
+Teglbakken 16 6320 Egernsund,16,1100000.0,27-10-2016,Alm.,14473,4,Sommerhus,76,1974,-8 %
+"Sundgade 38, 1 6320 Egernsund",1,1400000.0,24-10-2016,Alm.,9589,5,Lejlighed,146,1977,-17 %
+Marinavej 44 6320 Egernsund,44,1550000.0,17-10-2016,Alm.,13135,3,Sommerhus,118,2007,-3 %
+Bredmaj 24 6320 Egernsund,24,995000.0,17-10-2016,Alm.,12437,4,Sommerhus,80,1974,0 %
+Bredmaj 7 6320 Egernsund,7,845000.0,30-09-2016,Alm.,13629,3,Sommerhus,62,1995,-6 %
+Benediktesvej 88 6320 Egernsund,88,975000.0,28-09-2016,Alm.,7617,4,Villa,128,1973,-2 %
+Sundgade 57 6320 Egernsund,57,430000.0,14-09-2016,Fam.,3981,6,Villa,108,1952,
+Havnevej 27 6320 Egernsund,27,2095000.0,10-08-2016,Alm.,12180,5,Villa,172,1992,0 %
+Bredmaj 16 6320 Egernsund,16,680000.0,12-07-2016,Fam.,10625,4,Sommerhus,64,1980,
+Bredmaj 38 6320 Egernsund,38,755000.0,06-07-2016,Alm.,13981,4,Sommerhus,54,1974,
+Teglparken 78 6320 Egernsund,78,398500.0,04-07-2016,Andet,2786,5,Villa,143,1979,
+Strandvej 11 6320 Egernsund,11,600000.0,23-06-2016,Alm.,7500,3,Villa,80,1961,-14 %
+Reefslagervænget 24 6320 Egernsund,24,1650000.0,26-05-2016,Alm.,8461,5,Villa,195,2010,-8 %
+Damvej 9 6320 Egernsund,9,1667000.0,19-05-2016,Alm.,8820,5,Villa,189,1964,
+Teglparken 66 6320 Egernsund,66,1495000.0,19-05-2016,Alm.,7952,6,Villa,188,1979,
+Bredmaj 62 6320 Egernsund,62,2195000.0,18-05-2016,Alm.,27784,4,Sommerhus,79,1994,0 %
+Benediktesvej 92 6320 Egernsund,92,995000.0,12-05-2016,Alm.,6909,5,Villa,144,1973,-5 %
+Teglparken 90 6320 Egernsund,90,1900000.0,20-04-2016,Alm.,9644,6,Villa,197,2004,-5 %
+Fyrtårnsvej 6 6320 Egernsund,6,625000.0,15-02-2016,Alm.,5530,5,Villa,113,1963,0 %
+Bredmaj 72 6320 Egernsund,72,675000.0,15-02-2016,Alm.,7670,3,Sommerhus,88,2017,-10 %
+Teglbakken 26 6320 Egernsund,26,1525000.0,25-01-2016,Alm.,13260,4,Sommerhus,115,1992,-4 %
+Reefslagervænget 22 6320 Egernsund,22,897500.0,18-01-2016,Fam.,5279,6,Villa,170,2008,
+Havnevej 122 6320 Egernsund,122,3070000.0,08-01-2016,Alm.,13464,4,Rækkehus,228,2008,
+Teglbakken 67 6320 Egernsund,67,550000.0,22-12-2015,Fam.,8461,4,Sommerhus,65,1976,
+Benediktesvej 22 6320 Egernsund,22,880000.0,18-11-2015,Alm.,6285,5,Villa,140,1970,-7 %
+Solbakken 6D 6320 Egernsund,0,1100000.0,12-11-2015,Alm.,8943,4,Rækkehus,123,1986,
+Sundgade 11 6320 Egernsund,11,390000.0,31-10-2015,Alm.,3333,4,Villa,117,1920,-13 %
+Havnevej 126 6320 Egernsund,126,2430000.0,30-10-2015,Alm.,13425,4,Rækkehus,181,2009,
+Fjordvej 19 6320 Egernsund,19,2000000.0,27-10-2015,Alm.,15151,4,Villa,132,1890,-9 %
+Bredmaj 25 6320 Egernsund,25,1200000.0,01-10-2015,Fam.,13043,4,Sommerhus,92,2003,
+Bredmaj 31 6320 Egernsund,31,950000.0,26-09-2015,Fam.,13768,3,Sommerhus,69,1993,
+Benediktesvej 50 6320 Egernsund,50,590000.0,25-09-2015,Andet,3959,5,Villa,149,1972,
+Island 5 6320 Egernsund,5,1097500.0,17-09-2015,Fam.,7173,8,Villa,153,2011,
+Teglbakken 94 6320 Egernsund,94,700000.0,11-09-2015,Alm.,10000,4,Sommerhus,70,1978,-7 %
+Havnevej 124 6320 Egernsund,124,2150000.0,09-09-2015,Alm.,12356,4,Rækkehus,174,2009,-6 %
+Teglbakken 47 6320 Egernsund,47,695000.0,04-09-2015,Fam.,9266,4,Sommerhus,75,1980,
+Mindevej 10 6320 Egernsund,10,1950000.0,25-08-2015,Andet,8863,7,Villa,220,1992,
+Teglbakken 72 6320 Egernsund,72,697000.0,21-08-2015,Fam.,8500,4,Sommerhus,82,1976,
+Sundgade 14B 6320 Egernsund,0,5150000.0,22-07-2015,Alm.,24178,8,Villa,213,1996,-6 %
+Teglbakken 88 6320 Egernsund,88,850000.0,17-07-2015,Fam.,9883,5,Sommerhus,86,1993,
+Benediktesvej 80 6320 Egernsund,80,394556.0,10-07-2015,Fam.,2513,4,Villa,157,1973,
+Teglbakken 58 6320 Egernsund,58,550000.0,24-06-2015,Alm.,9821,3,Sommerhus,56,1978,-8 %
+Bredmaj 6 6320 Egernsund,6,850000.0,18-06-2015,Alm.,11038,4,Sommerhus,77,1974,-5 %
+Teglparken 30 6320 Egernsund,30,885000.0,03-06-2015,Alm.,6968,4,Villa,127,1980,-15 %
+Teglbakken 86 6320 Egernsund,86,770000.0,26-05-2015,Alm.,8555,4,Sommerhus,90,1974,-8 %
+Benediktesvej 42 6320 Egernsund,42,845000.0,17-05-2015,Alm.,6167,5,Villa,137,1971,
+Benediktesvej 96 6320 Egernsund,96,1000000.0,15-05-2015,Alm.,6849,5,Villa,146,1972,-9 %
+Marinavej 43 6320 Egernsund,43,950000.0,13-05-2015,Alm.,8050,4,Sommerhus,118,2007,
+Æblehaven 4 6320 Egernsund,4,467808.0,30-04-2015,Andet,4678,4,Villa,100,1983,
+Bredmaj 69 6320 Egernsund,69,935000.0,30-03-2015,Fam.,11130,4,Sommerhus,84,1994,
+Havnevej 34 6320 Egernsund,34,995000.0,27-03-2015,Alm.,4975,6,Villa,200,2017,0 %
+Bredmaj 81 6320 Egernsund,81,1050000.0,19-03-2015,Alm.,12352,4,Sommerhus,85,1996,-4 %
+Engvej 25 6320 Egernsund,25,845000.0,01-03-2015,Alm.,8125,3,Villa,104,1962,-3 %
+Benediktesvej 106 6320 Egernsund,106,1100000.0,17-02-2015,Alm.,6790,7,Villa,162,1972,0 %
+Æblehaven 24 6320 Egernsund,24,700000.0,10-02-2015,Alm.,5511,4,Villa,127,1983,-24 %
+Marinavej 38 6320 Egernsund,38,1750000.0,22-01-2015,Alm.,14830,4,Sommerhus,118,2007,-4 %
+Teglparken 58 6320 Egernsund,58,430000.0,15-01-2015,Fam.,3161,4,Villa,136,1978,-57 %
+Fjordvej 33 6320 Egernsund,33,218986.0,06-01-2015,Alm.,3084,3,Villa,71,1999,
+Reefslagervænget 5 6320 Egernsund,5,1437500.0,17-12-2014,Alm.,7116,3,Villa,202,1986,-7 %
+Æblehaven 18 6320 Egernsund,18,650000.0,16-12-2014,Alm.,5416,4,Villa,120,1983,
+Fyrtårnsvej 4 6320 Egernsund,4,532500.0,17-11-2014,Andet,3886,4,Villa,137,1960,
+Sundgade 6 6320 Egernsund,6,2453000.0,04-11-2014,Alm.,11409,6,Villa,215,1906,23 %
+Lågmajvej 39 6320 Egernsund,39,1350000.0,27-10-2014,Alm.,11157,4,Villa,121,1893,
+Havnevej 11 6320 Egernsund,11,1500000.0,15-10-2014,Alm.,13888,4,Villa,108,1947,-15 %
+Sundgade 16 6320 Egernsund,16,700000.0,25-09-2014,Auktion,4729,4,Villa,148,1923,
+Teglbakken 18 6320 Egernsund,18,950000.0,22-09-2014,Alm.,12837,3,Sommerhus,74,1974,-5 %
+Nyvej 6 6320 Egernsund,6,960000.0,17-09-2014,Alm.,6808,5,Villa,141,1981,-20 %
+Bredmaj 36 6320 Egernsund,36,795000.0,11-09-2014,Alm.,11197,4,Sommerhus,71,1979,
+Bredmaj 49 6320 Egernsund,49,840000.0,11-09-2014,Alm.,10370,4,Sommerhus,81,1977,-4 %
+Lågmajvej 31 6320 Egernsund,31,900000.0,01-09-2014,Alm.,10227,4,Rækkehus,88,1870,
+Søvej 6 6320 Egernsund,6,525000.0,29-08-2014,Alm.,4906,5,Villa,107,1965,-5 %
+Solbakken 6G 6320 Egernsund,0,1920000.0,22-08-2014,Alm.,15609,4,Rækkehus,123,1986,0 %
+Fjordvej 10 6320 Egernsund,10,2395000.0,14-07-2014,Alm.,0,4,Villa,123,1951,
+Bredmaj 87 6320 Egernsund,87,920000.0,07-07-2014,Alm.,10823,4,Sommerhus,85,1974,-12 %
+Bredmaj 51 6320 Egernsund,51,800000.0,26-05-2014,Alm.,10256,4,Sommerhus,78,1987,-6 %
+Benediktesvej 82 6320 Egernsund,82,725000.0,20-05-2014,Alm.,6590,5,Villa,110,1973,-9 %
+Bredmaj 32 6320 Egernsund,32,1500000.0,09-05-2014,Alm.,16483,4,Sommerhus,91,2009,-14 %
+Bredmaj 29 6320 Egernsund,29,945000.0,09-05-2014,Alm.,12945,4,Sommerhus,73,1983,-5 %
+Teglbakken 79 6320 Egernsund,79,535000.0,01-05-2014,Alm.,7985,4,Sommerhus,67,1975,-23 %
+Teglparken 48 6320 Egernsund,48,830000.0,14-04-2014,Alm.,5646,5,Villa,147,1979,-7 %
+Rendbjergvej 6 6320 Egernsund,6,2672500.0,07-03-2014,Alm.,12546,6,Villa,213,1864,-1 %
+Skovgade 14 6320 Egernsund,14,535000.0,24-02-2014,Alm.,5350,3,Villa,100,1951,0 %
+Bredmaj 42 6320 Egernsund,42,836400.0,10-02-2014,Fam.,10455,4,Sommerhus,80,1983,
+Kystvej 5 6320 Egernsund,5,950000.0,18-12-2013,Alm.,6597,5,Villa,144,1962,-5 %
+Bredmaj 68 6320 Egernsund,68,960000.0,16-12-2013,Alm.,13714,4,Sommerhus,70,1976,-4 %
+Kystvej 12 6320 Egernsund,12,345000.0,09-12-2013,Andet,3450,4,Villa,100,1963,
+Brillevej 3A 6320 Egernsund,0,1725000.0,08-11-2013,Alm.,10391,6,Villa,166,1983,-5 %
+Bredmaj 4 6320 Egernsund,4,595000.0,07-09-2013,Alm.,8500,4,Sommerhus,70,1974,-25 %
+Marinavej 30 6320 Egernsund,30,1860000.0,27-08-2013,Alm.,17064,4,Sommerhus,109,2005,-11 %
+Bredmaj 67 6320 Egernsund,67,1475000.0,26-08-2013,Alm.,23046,4,Sommerhus,64,1986,
+Kystvej 10 6320 Egernsund,10,695000.0,15-08-2013,Alm.,5696,5,Villa,122,1963,0 %
+Benediktesvej 56 6320 Egernsund,56,570000.0,13-08-2013,Alm.,3630,8,Villa,157,1972,-4 %
+Bredmaj 14 6320 Egernsund,14,1075000.0,30-07-2013,Alm.,14333,4,Sommerhus,75,1998,-2 %
+Teglbakken 55 6320 Egernsund,55,1275000.0,17-07-2013,Alm.,15548,4,Sommerhus,82,1996,-2 %
+Teglbakken 19 6320 Egernsund,19,735000.0,03-07-2013,Alm.,10970,3,Sommerhus,67,1974,-6 %
+Teglbakken 22 6320 Egernsund,22,495000.0,20-06-2013,Alm.,7983,3,Sommerhus,62,1977,0 %
+Teglbakken 85 6320 Egernsund,85,655000.0,20-06-2013,Alm.,8972,4,Sommerhus,73,1975,-6 %
+"Møllegården 24, 1 6320 Egernsund",1,1475000.0,24-05-2013,Alm.,16388,4,Lejlighed,90,1992,
+Marinavej 32 6320 Egernsund,32,1810000.0,24-05-2013,Alm.,16605,4,Sommerhus,109,2005,-4 %
+Skovgade 30 6320 Egernsund,30,498500.0,17-04-2013,Andet,2967,6,Villa,168,1900,
+Møllegården 14 6320 Egernsund,14,1200000.0,12-04-2013,Alm.,11111,4,Lejlighed,108,1979,
+Gartnerparken 4 6320 Egernsund,4,1300000.0,27-03-2013,Alm.,5963,8,Rækkehus,218,1980,
+Bredmaj 34 6320 Egernsund,34,731000.0,26-03-2013,Fam.,14620,3,Sommerhus,50,1973,
+Engvej 23 6320 Egernsund,23,300000.0,20-03-2013,Alm.,2884,4,Villa,104,1961,-14 %
+Damvej 5 6320 Egernsund,5,776150.0,07-02-2013,Alm.,4975,3,Villa,156,1955,
+Bredmaj 53 6320 Egernsund,53,1535000.0,25-01-2013,Alm.,16868,4,Anden beboelse,91,1998,-4 %
+Søvej 2 6320 Egernsund,2,960000.0,21-12-2012,Alm.,4897,6,Villa,196,1963,-4 %
+Bredmaj 66 6320 Egernsund,66,2495000.0,21-11-2012,Alm.,18345,5,Sommerhus,136,1979,0 %
+Teglbakken 11 6320 Egernsund,11,675000.0,03-09-2012,Alm.,11842,4,Sommerhus,57,1976,-15 %
+Teglbakken 33 6320 Egernsund,33,975000.0,22-08-2012,Alm.,13000,4,Sommerhus,75,1977,-2 %
+Rødegade 5 6320 Egernsund,5,400000.0,14-08-2012,Alm.,3883,5,Villa,103,1877,
+Bredmaj 88 6320 Egernsund,88,690000.0,24-05-2012,Alm.,11311,3,Sommerhus,61,1982,
+Marinavej 27 6320 Egernsund,27,2475000.0,15-05-2012,Alm.,22706,4,Sommerhus,109,2005,
+Sundgade 62 6320 Egernsund,62,1500000.0,08-05-2012,Alm.,5747,6,Rækkehus,261,2015,
+Kystvej 3 6320 Egernsund,3,425000.0,02-04-2012,Alm.,2910,4,Villa,146,1963,-29 %
+Sundgade 25 6320 Egernsund,25,1150000.0,02-04-2012,Alm.,8778,3,Villa,131,1957,
+Teglbakken 80 6320 Egernsund,80,752000.0,26-03-2012,Alm.,11223,4,Sommerhus,67,1976,-11 %
+Solbakken 6F 6320 Egernsund,0,1495000.0,08-03-2012,Alm.,12154,4,Rækkehus,123,1986,0 %
+Sundgade 96 6320 Egernsund,96,650000.0,13-02-2012,Alm.,4062,5,Villa,160,1900,-6 %
+Mindevej 8 6320 Egernsund,8,1150000.0,30-01-2012,Alm.,9913,4,Villa,116,1989,-11 %
+Benediktesvej 16 6320 Egernsund,16,1275000.0,04-10-2011,Alm.,8121,5,Villa,157,1972,-2 %
+Skippergade 1 6320 Egernsund,1,540000.0,16-09-2011,Alm.,3857,5,Villa,140,1904,
+Mindevej 1 6320 Egernsund,1,1150000.0,26-08-2011,Alm.,8156,5,Villa,141,1964,-4 %
+Teglparken 68 6320 Egernsund,68,940000.0,18-08-2011,Alm.,4653,6,Villa,202,1979,-4 %
+Skovgade 10 6320 Egernsund,10,1005000.0,14-08-2011,Alm.,6700,5,Villa,150,1953,
+Skovgade 31 6320 Egernsund,31,900000.0,28-07-2011,Alm.,6818,5,Villa,132,1972,
+Sundgade 30 6320 Egernsund,30,1232500.0,25-07-2011,Fam.,12325,5,Villa,100,1907,
+Bredmaj 73 6320 Egernsund,73,1000000.0,12-07-2011,Alm.,13157,5,Sommerhus,76,1976,1 %
+Bredmaj 92 6320 Egernsund,92,250000.0,04-07-2011,Alm.,3846,4,Sommerhus,65,1973,
+Engvej 7 6320 Egernsund,7,400000.0,24-06-2011,Alm.,4444,4,Villa,90,1961,-11 %
+Teglbakken 28 6320 Egernsund,28,875000.0,25-05-2011,Alm.,10802,4,Sommerhus,81,1979,
+Skovgade 32 6320 Egernsund,32,930000.0,24-05-2011,Alm.,4769,9,Villa,195,1900,-1 %
+Island 12 6320 Egernsund,12,195000.0,06-05-2011,Alm.,1250,4,Villa,156,2011,0 %
+Skippergade 2 6320 Egernsund,2,770000.0,19-04-2011,Alm.,4812,4,Villa,160,1905,-3 %
+Teglbakken 81 6320 Egernsund,81,800000.0,21-03-2011,Alm.,15094,4,Sommerhus,53,1976,-6 %
+Solbakken 3 6320 Egernsund,3,1491600.0,10-03-2011,Andet,5919,7,Villa,252,1921,
+Svinget 2B 6320 Egernsund,0,1020000.0,07-03-2011,Alm.,7285,5,Villa,140,1984,-7 %
+Benediktesvej 102 6320 Egernsund,102,850000.0,04-03-2011,Alm.,5743,6,Villa,148,1972,-8 %
+Skovgade 46 6320 Egernsund,46,611153.0,10-02-2011,Alm.,4428,6,Villa,138,1878,
+Møllegården 20 6320 Egernsund,20,1345000.0,09-02-2011,Alm.,12688,4,Lejlighed,106,1979,0 %
+Bredmaj 76 6320 Egernsund,76,1500000.0,24-01-2011,Alm.,17441,4,Sommerhus,86,1975,-6 %
+Lågmajvej 35 6320 Egernsund,35,2000000.0,18-01-2011,Alm.,7547,6,Villa,265,2012,-20 %
+Reefslagervænget 18 6320 Egernsund,18,1580000.0,09-12-2010,Alm.,9132,6,Villa,173,2000,-7 %
+Teglparken 12 6320 Egernsund,12,1160000.0,25-11-2010,Alm.,6270,6,Villa,185,1979,-1 %
+Island 10 6320 Egernsund,10,195000.0,23-11-2010,Alm.,1218,5,Villa,160,2011,0 %
+Mosevej 6 6320 Egernsund,6,390000.0,11-11-2010,Fam.,3070,4,Villa,127,1967,
+Bredmaj 61 6320 Egernsund,61,1350000.0,20-10-2010,Alm.,17532,4,Sommerhus,77,1986,-2 %
+Skovgade 34 6320 Egernsund,34,300000.0,12-10-2010,Alm.,3000,4,Villa,100,1860,
+Brillevej 7 6320 Egernsund,7,1050000.0,24-09-2010,Alm.,6730,2,Villa,156,1935,-8 %
+Engvej 1 6320 Egernsund,1,490000.0,30-08-2010,Alm.,5903,2,Villa,83,1957,0 %
+Svinget 5A 6320 Egernsund,0,1600000.0,03-08-2010,Alm.,10322,5,Villa,155,1983,-3 %
+Engvej 27 6320 Egernsund,27,725000.0,15-07-2010,Alm.,4931,5,Villa,147,1961,
+Skovgade 40 6320 Egernsund,40,885000.0,23-06-2010,Alm.,0,6,Villa,194,1880,-1 %
+Bredmaj 3 6320 Egernsund,3,1085000.0,23-06-2010,Alm.,15955,4,Sommerhus,68,1995,-4 %
+Teglbakken 46 6320 Egernsund,46,830000.0,11-06-2010,Alm.,11066,4,Sommerhus,75,1977,-17 %
+Marinavej 36 6320 Egernsund,36,1850000.0,11-06-2010,Alm.,15677,4,Sommerhus,118,2007,-7 %
+Æblehaven 17 6320 Egernsund,17,1432000.0,31-05-2010,Fam.,7955,7,Villa,180,1983,
+Bredmaj 47 6320 Egernsund,47,875000.0,11-05-2010,Alm.,15625,4,Sommerhus,56,1976,
+Engvej 18 6320 Egernsund,18,635000.0,07-01-2010,Alm.,6614,3,Villa,96,1960,-9 %
+Benediktesvej 48 6320 Egernsund,48,1000000.0,11-12-2009,Fam.,6250,6,Villa,160,1971,
+Lågmajvej 14 6320 Egernsund,14,194917.0,18-11-2009,Alm.,1382,5,Villa,141,1964,
+Teglbakken 25 6320 Egernsund,25,825000.0,27-10-2009,Alm.,12313,4,Sommerhus,67,1974,-6 %
+Benediktesvej 26 6320 Egernsund,26,935000.0,15-10-2009,Alm.,7304,4,Villa,128,1971,-4 %
+"Møllegården 6, 1 6320 Egernsund",1,905000.0,11-09-2009,Alm.,10773,3,Lejlighed,84,1992,-5 %
+Marinavej 17 6320 Egernsund,17,2500000.0,08-09-2009,Alm.,22935,4,Sommerhus,109,2005,-11 %
+Teglbakken 27 6320 Egernsund,27,975000.0,01-09-2009,Alm.,15000,4,Sommerhus,65,1974,0 %
+Island 6 6320 Egernsund,6,200000.0,27-08-2009,Alm.,1290,4,Villa,155,2010,-11 %
+Lågmajvej 5 6320 Egernsund,5,995000.0,20-08-2009,Alm.,7158,6,Villa,139,1952,0 %
+Engvej 6 6320 Egernsund,6,610000.0,18-08-2009,Alm.,5545,4,Villa,110,1958,-12 %
+Bredmaj 23 6320 Egernsund,23,870000.0,08-08-2009,Alm.,11153,4,Sommerhus,78,1974,-7 %
+Teglbakken 64 6320 Egernsund,64,900000.0,04-08-2009,Alm.,13432,4,Sommerhus,67,1989,-5 %
+Bredmaj 12 6320 Egernsund,12,910000.0,03-08-2009,Alm.,13000,4,Sommerhus,70,1979,-9 %
+Mosevej 4 6320 Egernsund,4,825000.0,30-07-2009,Alm.,6395,4,Villa,129,1965,-6 %
+Teglbakken 50 6320 Egernsund,50,531250.0,22-07-2009,Fam.,7589,4,Sommerhus,70,1972,
+Marinavej 34 6320 Egernsund,34,1975000.0,05-07-2009,Alm.,16737,4,Sommerhus,118,2007,-6 %
+"Møllegården 22, 1 6320 Egernsund",1,1300000.0,02-07-2009,Alm.,14444,4,Lejlighed,90,1992,0 %
+Sundgade 80 6320 Egernsund,80,1295000.0,23-06-2009,Alm.,6744,6,Villa,192,1800,0 %
+Bredmaj 77 6320 Egernsund,77,684037.0,09-06-2009,Alm.,8241,5,Sommerhus,83,1974,
+Mindevej 5 6320 Egernsund,5,1290000.0,06-06-2009,Alm.,9347,5,Villa,138,1967,-8 %
+Fjordvej 9 6320 Egernsund,9,1278000.0,05-06-2009,Alm.,9128,5,Villa,140,1962,
+Firkløvervej 3 6320 Egernsund,3,2995000.0,07-05-2009,Alm.,16920,5,Villa,177,1968,0 %
+Sundgade 58 6320 Egernsund,58,2780000.0,06-05-2009,Alm.,19440,5,Villa,143,2007,-3 %
+Teglbakken 82 6320 Egernsund,82,890000.0,05-04-2009,Alm.,14354,3,Sommerhus,62,1977,-19 %
+Marinavej 16 6320 Egernsund,16,2575000.0,01-04-2009,Alm.,23623,4,Sommerhus,109,2005,-6 %
+Skovgade 4 6320 Egernsund,4,746042.0,15-03-2009,Alm.,6376,6,Villa,117,1952,
+Fyrtårnsvej 9 6320 Egernsund,9,550000.0,10-03-2009,Alm.,4400,4,Villa,125,1963,-8 %
+Havnevej 21 6320 Egernsund,21,1600000.0,03-03-2009,Alm.,9937,4,Villa,161,2010,-6 %
+Marinavej 37 6320 Egernsund,37,1150000.0,02-03-2009,Alm.,9745,4,Sommerhus,118,2007,
+Fyrtårnsvej 11 6320 Egernsund,11,500000.0,13-01-2009,Alm.,4098,4,Villa,122,1961,-17 %
+Sundgade 10 6320 Egernsund,10,1742500.0,27-12-2008,Fam.,8297,7,Villa,210,1900,
+Reefslagervænget 12 6320 Egernsund,12,1147500.0,08-12-2008,Fam.,10527,4,Villa,109,1985,
+Bredmaj 44 6320 Egernsund,44,900000.0,25-11-2008,Alm.,11688,4,Sommerhus,77,1974,-18 %
+Marinavej 42 6320 Egernsund,42,1910000.0,05-11-2008,Alm.,16186,4,Sommerhus,118,2007,-9 %
+Skovgade 12 6320 Egernsund,12,600000.0,01-11-2008,Alm.,4109,5,Villa,146,1900,4 %
+Teglparken 34 6320 Egernsund,34,900000.0,01-11-2008,Alm.,7317,4,Villa,123,1978,-22 %
+Sundgade 70 6320 Egernsund,70,3265000.0,29-10-2008,Alm.,17094,7,Villa,191,1890,11 %
+Teglbakken 36 6320 Egernsund,36,1670000.0,29-09-2008,Alm.,20365,4,Sommerhus,82,2003,-1 %
+"Møllegården 8, 1 6320 Egernsund",1,795000.0,29-08-2008,Alm.,9464,3,Lejlighed,84,1992,0 %
+Benediktesvej 20 6320 Egernsund,20,1360000.0,01-08-2008,Alm.,9066,4,Villa,150,1974,-9 %
+Sundgade 24 6320 Egernsund,24,2135000.0,24-07-2008,Alm.,10675,9,Villa,200,1895,
+Kystvej 20 6320 Egernsund,20,820000.0,20-07-2008,Alm.,7592,4,Villa,108,1962,-4 %
+Fjordvej 14 6320 Egernsund,14,4245000.0,09-07-2008,Alm.,24119,5,Villa,176,1983,6 %
+Skovgade 29 6320 Egernsund,29,1200000.0,07-07-2008,Alm.,8108,6,Villa,148,1877,0 %
+Havnevej 19 6320 Egernsund,19,2107000.0,19-06-2008,Alm.,14838,3,Villa,142,1875,-4 %
+Damvej 11 6320 Egernsund,11,1100000.0,29-05-2008,Alm.,0,6,Villa,192,1966,
+Fjordvej 27 6320 Egernsund,27,2109995.0,22-05-2008,Alm.,11163,4,Villa,189,2011,6 %
+Strandvej 4 6320 Egernsund,4,21000.0,22-05-2008,Fam.,238,4,Villa,88,1962,
+Island 25 6320 Egernsund,25,2350000.0,16-05-2008,Alm.,14596,4,Villa,161,2008,-4 %
+Fjordvej 23 6320 Egernsund,23,1020000.0,13-05-2008,Fam.,13600,4,Villa,75,1900,
+Solbakken 6N 6320 Egernsund,0,1000000.0,15-04-2008,Alm.,8333,4,Rækkehus,120,1986,
+Benediktesvej 72 6320 Egernsund,72,1350000.0,14-04-2008,Alm.,7627,5,Villa,177,1972,-3 %
+Engvej 5 6320 Egernsund,5,875000.0,12-04-2008,Alm.,7478,4,Villa,117,1962,0 %
+Teglbakken 65 6320 Egernsund,65,1425000.0,01-04-2008,Alm.,19791,4,Sommerhus,72,1977,
+Møllegården 18 6320 Egernsund,18,722500.0,30-03-2008,Alm.,7225,4,Lejlighed,100,1979,
+Engvej 21 6320 Egernsund,21,845000.0,12-03-2008,Alm.,8894,4,Villa,95,1963,0 %
+Svinget 9 6320 Egernsund,9,975000.0,23-02-2008,Alm.,9375,4,Villa,104,1964,
+Benediktesvej 8 6320 Egernsund,8,885000.0,30-01-2008,Alm.,7137,4,Villa,124,1971,-7 %
+Havnevej 20 6320 Egernsund,20,1995000.0,28-01-2008,Alm.,8673,8,Villa,230,1870,0 %
+Sundgade 76 6320 Egernsund,76,711550.0,31-12-2007,Alm.,3162,6,Villa,225,1929,
+Sundgade 40 6320 Egernsund,40,1567500.0,30-11-2007,Andet,6997,8,Villa,224,1917,
+Marinavej 23 6320 Egernsund,23,1000000.0,26-11-2007,Alm.,9174,4,Sommerhus,109,2005,
+Bredmaj 91 6320 Egernsund,91,995000.0,22-11-2007,Alm.,0,4,Sommerhus,80,1973,-10 %
+Teglbakken 1 6320 Egernsund,1,1450000.0,08-11-2007,Alm.,19594,3,Sommerhus,74,1995,-3 %
+Fjordvej 7 6320 Egernsund,7,800000.0,12-10-2007,Alm.,7619,3,Villa,105,1958,-6 %
+Sundgade 37 6320 Egernsund,37,1650000.0,12-10-2007,Alm.,0,7,Villa,250,1906,
+Teglbakken 84 6320 Egernsund,84,1045000.0,05-10-2007,Alm.,16328,3,Sommerhus,64,1974,
+Lågmajvej 25 6320 Egernsund,25,2412500.0,29-09-2007,Alm.,15665,3,Villa,154,1907,-3 %
+Lågmajvej 29 6320 Egernsund,29,2900000.0,28-09-2007,Alm.,13181,5,Villa,220,1900,-3 %
+Teglbakken 3 6320 Egernsund,3,985000.0,23-09-2007,Alm.,13680,4,Sommerhus,72,1978,
+Brovej 39 6320 Egernsund,39,1125000.0,22-09-2007,Alm.,7705,5,Villa,146,1949,
+"Møllegården 4, 1 6320 Egernsund",1,820000.0,14-08-2007,Alm.,10512,3,Lejlighed,78,1992,
+Bredmaj 50 6320 Egernsund,50,800000.0,06-08-2007,Alm.,9411,3,Sommerhus,85,1984,
+Svinget 17 6320 Egernsund,17,950000.0,25-07-2007,Alm.,7307,4,Villa,130,1969,
+Teglbakken 59 6320 Egernsund,59,703768.0,16-07-2007,Alm.,9510,4,Sommerhus,74,1974,
+Teglparken 4 6320 Egernsund,4,1262000.0,06-07-2007,Alm.,8469,5,Villa,149,1979,
+Teglparken 14 6320 Egernsund,14,1345000.0,23-06-2007,Alm.,10189,5,Villa,132,1978,
+Marinavej 31 6320 Egernsund,31,1995000.0,13-06-2007,Alm.,18302,4,Sommerhus,109,2005,
+Teglparken 54 6320 Egernsund,54,1225000.0,08-06-2007,Alm.,9722,5,Villa,126,1979,
+Havnevej 194 6320 Egernsund,194,1450000.0,01-06-2007,Alm.,0,3,Rækkehus,217,1850,
+Teglparken 22 6320 Egernsund,22,1240000.0,31-05-2007,Alm.,6666,7,Villa,186,1978,
+Reefslagervænget 6 6320 Egernsund,6,1875000.0,28-05-2007,Alm.,10714,5,Villa,175,1986,
+"Møllegården 2, 1 6320 Egernsund",1,770000.0,21-05-2007,Alm.,9166,4,Lejlighed,84,1992,
+Gartnerparken 6 6320 Egernsund,6,1195000.0,11-05-2007,Alm.,5195,8,Villa,230,1930,
+Kystvej 2 6320 Egernsund,2,1250000.0,07-05-2007,Alm.,9920,4,Villa,126,1977,
+Teglparken 82 6320 Egernsund,82,1435000.0,07-05-2007,Alm.,7321,8,Villa,196,1979,
+Havnevej 14 6320 Egernsund,14,1730000.0,24-04-2007,Alm.,8963,5,Villa,193,1973,
+Bredmaj 48 6320 Egernsund,48,875000.0,23-04-2007,Alm.,12323,3,Sommerhus,71,1975,
+Benediktesvej 90 6320 Egernsund,90,1395000.0,20-04-2007,Alm.,10648,4,Villa,131,1972,
+Havnevej 66 6320 Egernsund,66,1900000.0,16-04-2007,Alm.,10326,7,Villa,184,1926,
+Bredmaj 70 6320 Egernsund,70,1445000.0,11-04-2007,Alm.,19013,4,Sommerhus,76,1986,
+Teglbakken 7 6320 Egernsund,7,1170000.0,09-04-2007,Alm.,13295,4,Sommerhus,88,1976,
+Firkløvervej 1 6320 Egernsund,1,1125000.0,15-03-2007,Fam.,6181,5,Villa,182,2008,
+Skovgade 44 6320 Egernsund,44,570000.0,05-03-2007,Alm.,4453,3,Villa,128,1850,
+Kystvej 16 6320 Egernsund,16,1245000.0,04-03-2007,Alm.,8032,5,Villa,155,1963,
+Brillevej 9 6320 Egernsund,9,662000.0,21-02-2007,Alm.,5171,5,Villa,128,1900,
+Teglparken 18 6320 Egernsund,18,904399.0,20-02-2007,Alm.,7121,4,Villa,127,1979,
+Svinget 8 6320 Egernsund,8,510000.0,27-12-2006,Fam.,3893,4,Villa,131,1950,
+Engvej 19 6320 Egernsund,19,536000.0,21-12-2006,Alm.,5583,3,Villa,96,1962,
+Teglbakken 48 6320 Egernsund,48,650000.0,11-12-2006,Andet,4642,5,Sommerhus,140,1969,
+Marinavej 46 6320 Egernsund,46,1695000.0,06-11-2006,Alm.,14364,4,Sommerhus,118,2006,
+Teglbakken 52 6320 Egernsund,52,975000.0,27-10-2006,Alm.,0,3,Sommerhus,73,1987,
+Marinavej 35 6320 Egernsund,35,1995000.0,24-10-2006,Alm.,16906,4,Sommerhus,118,2007,
+Lågmajvej 37 6320 Egernsund,37,1300000.0,23-10-2006,Alm.,8227,4,Villa,158,2007,
+Marinavej 33 6320 Egernsund,33,2195000.0,01-10-2006,Alm.,18601,4,Sommerhus,118,2007,
+Marinavej 41 6320 Egernsund,41,2195000.0,01-10-2006,Alm.,18601,4,Sommerhus,118,2007,
+Lågmajvej 26 6320 Egernsund,26,1570000.0,21-09-2006,Alm.,14811,2,Villa,106,2009,
+Teglbakken 8 6320 Egernsund,8,1050000.0,13-09-2006,Alm.,13461,4,Sommerhus,78,1973,
+Sundgade 74 6320 Egernsund,74,695000.0,29-08-2006,Alm.,7239,3,Villa,96,1973,
+Reefslagervænget 9 6320 Egernsund,9,800302.0,16-08-2006,Alm.,5300,5,Villa,151,2004,
+Fjordvej 39 6320 Egernsund,39,415000.0,07-08-2006,Fam.,5928,4,Sommerhus,70,1943,
+Benediktesvej 94 6320 Egernsund,94,481446.0,01-08-2006,Alm.,3488,3,Villa,138,1973,
+Teglbakken 90 6320 Egernsund,90,1180000.0,21-07-2006,Alm.,14750,3,Sommerhus,80,1992,
+Sundgade 14 6320 Egernsund,14,2535000.0,21-07-2006,Alm.,10833,6,Villa,234,1920,
+Marinavej 45 6320 Egernsund,45,1995000.0,26-06-2006,Alm.,16906,4,Sommerhus,118,2007,
+Solbakken 6H 6320 Egernsund,0,950000.0,31-05-2006,Alm.,7723,4,Rækkehus,123,1986,
+Marinavej 40 6320 Egernsund,40,1995000.0,29-05-2006,Alm.,16906,4,Sommerhus,118,2007,
+Bredmaj 52 6320 Egernsund,52,1450000.0,28-05-2006,Alm.,13063,6,Sommerhus,111,1974,
+Teglbakken 69 6320 Egernsund,69,1200000.0,26-05-2006,Fam.,15000,4,Sommerhus,80,1974,
+Bredmaj 80 6320 Egernsund,80,890000.0,23-05-2006,Alm.,9368,4,Sommerhus,95,1975,
+Marinavej 29 6320 Egernsund,29,2160000.0,23-05-2006,Alm.,19816,4,Sommerhus,109,2005,
+Marinavej 39 6320 Egernsund,39,2295000.0,22-05-2006,Alm.,19449,4,Sommerhus,118,2007,
+Kystvej 22 6320 Egernsund,22,1195000.0,29-04-2006,Alm.,8298,3,Villa,144,1962,
+Rendbjergvej 17 6320 Egernsund,17,920000.0,20-04-2006,Andet,5380,5,Villa,171,1864,
+Bredmaj 59 6320 Egernsund,59,1820000.0,10-04-2006,Alm.,0,3,Sommerhus,113,1974,
+Bredmaj 74 6320 Egernsund,74,850000.0,07-04-2006,Alm.,9444,4,Sommerhus,90,2013,
+Benediktesvej 108 6320 Egernsund,108,1100000.0,31-03-2006,Alm.,6790,5,Villa,162,1971,
+Reefslagervænget 8 6320 Egernsund,8,1225000.0,02-03-2006,Alm.,6282,6,Villa,195,1984,
+Bredmaj 58 6320 Egernsund,58,1400000.0,16-01-2006,Alm.,17948,4,Sommerhus,78,1979,
+Teglbakken 71 6320 Egernsund,71,1295000.0,23-12-2005,Alm.,19044,4,Sommerhus,68,1974,
+Teglparken 62 6320 Egernsund,62,1105000.0,12-12-2005,Alm.,7129,8,Villa,155,1979,
+Sundgade 56 6320 Egernsund,56,1925000.0,12-12-2005,Alm.,13275,4,Villa,145,2017,
+Benediktesvej 110 6320 Egernsund,110,1010000.0,05-12-2005,Alm.,6516,5,Villa,155,1971,
+Fjordvej 31 6320 Egernsund,31,1325000.0,07-11-2005,Alm.,17666,2,Villa,75,2007,
+Marinavej 24 6320 Egernsund,24,1995000.0,06-11-2005,Alm.,18302,4,Sommerhus,109,2005,
+Brillevej 1A 6320 Egernsund,0,1400000.0,24-10-2005,Alm.,10370,3,Villa,135,1983,
+Havnevej 96 6320 Egernsund,96,1695000.0,18-10-2005,Alm.,9416,4,Villa,180,1931,
+Marinavej 21 6320 Egernsund,21,1995000.0,14-10-2005,Alm.,18302,4,Sommerhus,109,2005,
+Benediktesvej 52 6320 Egernsund,52,695000.0,23-09-2005,Alm.,5743,5,Villa,121,1971,
+Reefslagervænget 7 6320 Egernsund,7,1250000.0,22-09-2005,Alm.,6756,6,Villa,185,1986,
+Engvej 10 6320 Egernsund,10,750000.0,12-09-2005,Alm.,5952,3,Villa,126,1957,
+Bredmaj 43 6320 Egernsund,43,2270000.0,06-09-2005,Alm.,21018,5,Sommerhus,108,1974,
+Reefslagervænget 28 6320 Egernsund,28,1545000.0,27-08-2005,Alm.,7322,7,Villa,211,1986,
+Marinavej 22 6320 Egernsund,22,1995000.0,26-08-2005,Alm.,18302,4,Sommerhus,109,2005,
+Marinavej 11 6320 Egernsund,11,2595000.0,21-08-2005,Alm.,23807,4,Sommerhus,109,2005,
+Marinavej 28 6320 Egernsund,28,2695000.0,21-08-2005,Alm.,24724,4,Sommerhus,109,2005,
+Sundgade 67 6320 Egernsund,67,675000.0,19-08-2005,Alm.,4530,5,Villa,149,1945,
+Sundgade 8 6320 Egernsund,8,1147500.0,08-08-2005,Fam.,7806,5,Villa,147,1905,
+Gartnerparken 5 6320 Egernsund,5,795000.0,05-08-2005,Alm.,5845,4,Rækkehus,136,1980,
+Marinavej 26 6320 Egernsund,26,1995000.0,18-07-2005,Alm.,18302,4,Sommerhus,109,2005,
+Benediktesvej 38 6320 Egernsund,38,845000.0,11-07-2005,Alm.,7347,4,Villa,115,1971,
+Svinget 11 6320 Egernsund,11,495000.0,09-07-2005,Alm.,5000,4,Villa,99,1954,
+Teglparken 50 6320 Egernsund,50,1200000.0,08-07-2005,Alm.,7594,5,Villa,158,1979,
+Teglparken 70 6320 Egernsund,70,995000.0,01-07-2005,Alm.,5467,5,Villa,182,1978,
+Marinavej 12 6320 Egernsund,12,2595000.0,19-06-2005,Alm.,23807,4,Sommerhus,109,2005,
+Marinavej 15 6320 Egernsund,15,2595000.0,17-06-2005,Alm.,23807,4,Sommerhus,109,2005,
+Æblehaven 14 6320 Egernsund,14,825000.0,06-06-2005,Alm.,8870,3,Villa,93,1987,
+Svinget 2C 6320 Egernsund,0,1125000.0,31-05-2005,Alm.,7305,5,Villa,154,1984,
+Benediktesvej 14 6320 Egernsund,14,1090000.0,27-05-2005,Alm.,5165,9,Villa,211,1973,
+Fjordvej 4 6320 Egernsund,4,816000.0,23-05-2005,Fam.,7418,3,Villa,110,1955,
+Sundgade 4 6320 Egernsund,4,3400000.0,18-05-2005,Alm.,15454,7,Villa,220,1942,
+Møllegården 16 6320 Egernsund,16,1030000.0,06-05-2005,Alm.,10300,4,Lejlighed,100,1979,
+Bredmaj 89 6320 Egernsund,89,860000.0,04-05-2005,Alm.,7288,5,Sommerhus,118,1977,
+Kystvej 4 6320 Egernsund,4,843565.0,21-04-2005,Alm.,3589,7,Villa,235,1962,
+Marinavej 14 6320 Egernsund,14,2755000.0,16-04-2005,Alm.,25275,4,Sommerhus,109,2005,
+Marinavej 18 6320 Egernsund,18,2595000.0,16-04-2005,Alm.,23807,4,Sommerhus,109,2005,
+Marinavej 19 6320 Egernsund,19,2595000.0,16-04-2005,Alm.,23807,4,Sommerhus,109,2005,
+Marinavej 20 6320 Egernsund,20,2695000.0,15-04-2005,Alm.,24724,4,Sommerhus,109,2005,
+Marinavej 13 6320 Egernsund,13,2595000.0,12-04-2005,Alm.,23807,4,Sommerhus,109,2005,
+Bredmaj 20 6320 Egernsund,20,920500.0,07-04-2005,Alm.,11651,4,Sommerhus,79,1978,
+Strandvej 1 6320 Egernsund,1,634000.0,02-04-2005,Alm.,5816,3,Villa,109,1962,
+Bredmaj 63 6320 Egernsund,63,345000.0,22-02-2005,Fam.,4726,6,Sommerhus,73,1980,
+Sundgade 47 6320 Egernsund,47,475000.0,21-01-2005,Alm.,3298,6,Villa,144,1924,
+Bredmaj 37 6320 Egernsund,37,870000.0,09-01-2005,Alm.,10609,3,Sommerhus,82,1977,
+Teglbakken 74 6320 Egernsund,74,850000.0,29-11-2004,Alm.,9139,3,Sommerhus,93,1975,
+Benediktesvej 68 6320 Egernsund,68,1200000.0,01-11-2004,Alm.,7317,5,Villa,164,1972,
+"Møllegården 10, 1 6320 Egernsund",1,375000.0,25-10-2004,Fam.,4464,3,Lejlighed,84,1992,
+Benediktesvej 112 6320 Egernsund,112,725000.0,18-10-2004,Alm.,7107,3,Villa,102,1972,
+Sundgade 21C 6320 Egernsund,0,75000.0,23-09-2004,Alm.,609,3,Villa,123,2007,
+Mindevej 12 6320 Egernsund,12,1780000.0,20-08-2004,Alm.,7982,7,Villa,223,1986,
+Benediktesvej 62 6320 Egernsund,62,800000.0,17-06-2004,Alm.,5333,6,Villa,150,1973,
+Kystvej 11 6320 Egernsund,11,625000.0,16-06-2004,Alm.,3342,5,Villa,187,1964,
+Bredmaj 57 6320 Egernsund,57,1195000.0,07-06-2004,Alm.,13579,5,Sommerhus,88,1984,
+Teglbakken 29 6320 Egernsund,29,1295000.0,13-04-2004,Alm.,14550,4,Sommerhus,89,2007,
+Bredmaj 64 6320 Egernsund,64,560000.0,12-04-2004,Andet,9180,4,Sommerhus,61,1978,
+Teglbakken 37 6320 Egernsund,37,560000.0,12-04-2004,Andet,8888,4,Sommerhus,63,1971,
+Benediktesvej 6 6320 Egernsund,6,1085000.0,21-02-2004,Alm.,7919,4,Villa,137,1971,
+Sundgade 23 6320 Egernsund,23,845000.0,20-02-2004,Alm.,0,4,Villa,141,1951,
+Bredmaj 85 6320 Egernsund,85,745000.0,06-02-2004,Alm.,0,7,Sommerhus,121,1977,
+Benediktesvej 4 6320 Egernsund,4,993900.0,30-01-2004,Andet,0,6,Villa,195,1971,
+Havnevej 62 6320 Egernsund,62,1550000.0,09-12-2003,Alm.,8659,5,Villa,179,1997,
+Bredmaj 78 6320 Egernsund,78,525000.0,08-12-2003,Fam.,6481,6,Sommerhus,81,1978,
+Kystvej 8 6320 Egernsund,8,322500.0,24-11-2003,Alm.,3193,4,Villa,101,1963,
+Æblehaven 10 6320 Egernsund,10,825000.0,22-11-2003,Alm.,6547,4,Villa,126,1877,
+Teglbakken 70 6320 Egernsund,70,850000.0,22-11-2003,Alm.,11333,3,Sommerhus,75,1996,
+Lågmajvej 2 6320 Egernsund,2,1050000.0,20-10-2003,Alm.,5675,6,Villa,185,1963,
+Havnevej 92 6320 Egernsund,92,575000.0,20-10-2003,Fam.,4872,5,Villa,118,1960,
+Søvej 4 6320 Egernsund,4,835000.0,14-10-2003,Alm.,7455,3,Villa,112,1966,
+Skovgade 58 6320 Egernsund,58,500000.0,23-09-2003,Alm.,2824,6,Villa,177,1886,
+Fjordvej 13 6320 Egernsund,13,1600000.0,20-09-2003,Alm.,7017,8,Villa,228,1960,
+Sundgade 34 6320 Egernsund,34,1500000.0,10-09-2003,Alm.,10344,4,Villa,145,1905,
+Reefslagervænget 3 6320 Egernsund,3,1700000.0,08-09-2003,Alm.,8212,6,Villa,207,1953,
+Æblehaven 12 6320 Egernsund,12,1070000.0,22-08-2003,Alm.,7642,4,Villa,140,1985,
+Sundgade 5 6320 Egernsund,5,1500000.0,10-07-2003,Alm.,4870,7,Villa,308,1953,
+Teglbakken 45 6320 Egernsund,45,690000.0,23-06-2003,Alm.,0,4,Sommerhus,76,1974,
+Sundgade 14A 6320 Egernsund,0,2400000.0,19-06-2003,Alm.,13714,7,Villa,175,1995,
+Bredmaj 8 6320 Egernsund,8,1085000.0,08-05-2003,Alm.,13231,4,Sommerhus,82,1999,
+Teglbakken 6 6320 Egernsund,6,825000.0,07-04-2003,Alm.,8870,4,Sommerhus,93,1976,
+Fyrtårnsvej 1 6320 Egernsund,1,655000.0,27-12-2002,Alm.,7277,3,Villa,90,1961,
+Engvej 12 6320 Egernsund,12,592392.0,10-12-2002,Alm.,0,4,Villa,158,1959,
+Damvej 10 6320 Egernsund,10,710000.0,19-11-2002,Alm.,6635,5,Villa,107,1963,
+Teglparken 92 6320 Egernsund,92,1365000.0,28-10-2002,Alm.,7936,4,Villa,172,1998,
+Svinget 13 6320 Egernsund,13,745000.0,17-09-2002,Alm.,7163,4,Villa,104,1964,
+Teglbakken 89 6320 Egernsund,89,845000.0,02-09-2002,Alm.,10696,4,Sommerhus,79,1996,
+Sundgade 73 6320 Egernsund,73,385000.0,22-08-2002,Fam.,2961,6,Villa,130,1951,
+Teglbakken 2 6320 Egernsund,2,574000.0,11-07-2002,Alm.,8567,3,Sommerhus,67,1974,
+Egeskovvej 28 6320 Egernsund,28,650000.0,08-07-2002,Alm.,13000,2,Sommerhus,50,2006,
+Solbakken 4 6320 Egernsund,4,2790000.0,12-06-2002,Alm.,16508,5,Villa,169,1908,
+Benediktesvej 86 6320 Egernsund,86,840000.0,03-06-2002,Alm.,6720,4,Villa,125,1972,
+Havnevej 29 6320 Egernsund,29,2143713.0,16-04-2002,Alm.,11282,4,Villa,190,1927,
+Strandvej 2 6320 Egernsund,2,840000.0,10-04-2002,Alm.,5915,5,Villa,142,1963,
+Fjordvej 37 6320 Egernsund,37,663000.0,18-03-2002,Fam.,7534,3,Villa,88,2007,
+Teglbakken 15 6320 Egernsund,15,730000.0,25-02-2002,Alm.,9125,4,Sommerhus,80,1980,
+Kystvej 6A 6320 Egernsund,0,1475000.0,20-02-2002,Alm.,8016,7,Villa,184,1963,
+Fjordvej 13A 6320 Egernsund,0,200000.0,11-02-2002,Alm.,1342,5,Villa,149,2005,
+Solbakken 5 6320 Egernsund,5,2110000.0,05-01-2002,Alm.,9055,8,Villa,233,1930,
+Havnevej 32 6320 Egernsund,32,975000.0,29-11-2001,Alm.,5131,7,Villa,190,1935,
+Sundgade 21B 6320 Egernsund,0,789369.0,28-11-2001,Alm.,9286,3,Villa,85,2001,
+Damvej 8 6320 Egernsund,8,695000.0,08-10-2001,Alm.,5991,7,Villa,116,1960,
+Teglbakken 91 6320 Egernsund,91,595000.0,08-09-2001,Alm.,13522,3,Sommerhus,44,1975,
+Solbakken 6M 6320 Egernsund,0,885009.0,01-09-2001,Alm.,7375,4,Rækkehus,120,1986,
+Firkløvervej 2 6320 Egernsund,2,850000.0,27-08-2001,Fam.,0,4,Villa,225,1965,
+Teglparken 40 6320 Egernsund,40,870000.0,25-07-2001,Alm.,5686,6,Villa,153,1978,
+Bredmaj 21 6320 Egernsund,21,500000.0,23-07-2001,Alm.,7692,4,Sommerhus,65,1973,
+Skovgade 42 6320 Egernsund,42,435000.0,10-07-2001,Alm.,2377,6,Villa,183,1875,
+Rødegade 3 6320 Egernsund,3,1199766.0,14-06-2001,Alm.,6628,6,Villa,181,1890,
+Kystvej 15 6320 Egernsund,15,600000.0,01-06-2001,Alm.,7058,3,Villa,85,1964,
+Lågmajvej 33 6320 Egernsund,33,747249.0,31-05-2001,Alm.,6227,3,Rækkehus,120,1877,
+Skovgade 36 6320 Egernsund,36,487707.0,21-05-2001,Alm.,2040,8,Villa,239,1857,
+Lågmajvej 10 6320 Egernsund,10,690000.0,12-02-2001,Alm.,7840,3,Villa,88,1965,
+Nyvej 5 6320 Egernsund,5,1100000.0,09-02-2001,Fam.,7857,4,Rækkehus,140,1961,
+"Rendbjergvej 19, ST. TH 6320 Egernsund",0,1050000.0,25-01-2001,Alm.,6402,3,Lejlighed,164,1875,
+Æblehaven 16 6320 Egernsund,16,776324.0,23-01-2001,Alm.,6750,3,Villa,115,1987,
+Teglbakken 62 6320 Egernsund,62,580000.0,17-01-2001,Alm.,7435,3,Sommerhus,78,1973,
+Mindevej 2 6320 Egernsund,2,696658.0,14-12-2000,Alm.,5529,3,Villa,126,1905,
+Bredmaj 75 6320 Egernsund,75,1040000.0,30-11-2000,Alm.,14857,4,Sommerhus,70,1977,
+Rødegade 13 6320 Egernsund,13,427000.0,06-11-2000,Fam.,2124,4,Villa,201,2002,
+Benediktesvej 100 6320 Egernsund,100,977748.0,09-09-2000,Alm.,7242,4,Villa,135,1972,
+Benediktesvej 34 6320 Egernsund,34,820000.0,04-09-2000,Alm.,6507,5,Villa,126,1972,
+Mosevej 2 6320 Egernsund,2,323000.0,07-08-2000,Alm.,2307,4,Villa,140,1964,
+Æblehaven 8 6320 Egernsund,8,961000.0,19-06-2000,Alm.,7118,4,Villa,135,1984,
+Teglbakken 23 6320 Egernsund,23,775000.0,12-06-2000,Alm.,7750,4,Sommerhus,100,1975,
+Fyrtårnsvej 12 6320 Egernsund,12,596197.0,03-05-2000,Alm.,6551,4,Villa,91,1963,
+Teglbakken 5 6320 Egernsund,5,484500.0,30-03-2000,Fam.,6056,3,Sommerhus,80,1980,
+Nyvej 2 6320 Egernsund,2,430494.0,07-03-2000,Alm.,4484,6,Villa,96,1942,
+Sundgade 29 6320 Egernsund,29,750415.0,06-03-2000,Alm.,4215,6,Villa,178,1908,
+Teglbakken 24 6320 Egernsund,24,205757.0,21-02-2000,Alm.,2540,4,Sommerhus,81,2000,
+Bredmaj 22 6320 Egernsund,22,1150000.0,01-12-1999,Alm.,13690,4,Sommerhus,84,1999,
+"Møllegården 12, 1 6320 Egernsund",1,419000.0,18-10-1999,Alm.,4988,3,Lejlighed,84,1992,
+Engvej 3 6320 Egernsund,3,565000.0,15-10-1999,Alm.,0,4,Villa,181,1958,
+Teglbakken 53 6320 Egernsund,53,630000.0,06-09-1999,Alm.,10000,4,Sommerhus,63,1973,
+Solbakken 6C 6320 Egernsund,0,640000.0,03-09-1999,Alm.,5470,3,Rækkehus,117,1986,
+Solbakken 6K 6320 Egernsund,0,1090000.0,24-08-1999,Alm.,7517,6,Rækkehus,145,1986,
+Damvej 7 6320 Egernsund,7,485000.0,19-08-1999,Alm.,4008,6,Villa,121,1964,
+Reefslagervænget 10 6320 Egernsund,10,959130.0,26-07-1999,Alm.,7734,5,Villa,124,1984,
+Teglparken 56 6320 Egernsund,56,1095000.0,26-07-1999,Alm.,7203,6,Villa,152,1979,
+Teglparken 20 6320 Egernsund,20,552500.0,01-07-1999,Alm.,3784,4,Villa,146,1978,
+Kystvej 14 6320 Egernsund,14,695000.0,25-06-1999,Alm.,0,5,Villa,136,1962,
+Damvej 1 6320 Egernsund,1,425000.0,14-06-1999,Alm.,3400,3,Villa,125,1957,
+Damvej 2 6320 Egernsund,2,790000.0,14-06-1999,Alm.,0,5,Villa,176,1956,
+Skovgade 24 6320 Egernsund,24,440000.0,10-05-1999,Fam.,0,3,Villa,93,1777,
+"Rendbjergvej 19, ST. MF 6320 Egernsund",0,1285000.0,05-04-1999,Alm.,6119,3,Lejlighed,210,1875,
+Brovej 42 6320 Egernsund,42,850000.0,05-04-1999,Alm.,5345,4,Villa,159,1944,
+Sundgade 59 6320 Egernsund,59,807000.0,01-04-1999,Alm.,4292,5,Villa,188,1930,
+Fjordvej 21 6320 Egernsund,21,1200000.0,29-11-1998,Alm.,9917,4,Villa,121,1900,
+Teglbakken 38A 6320 Egernsund,0,255000.0,25-11-1998,Fam.,3805,2,Sommerhus,67,1977,
+Reefslagervænget 11 6320 Egernsund,11,36200.0,16-11-1998,Alm.,301,3,Villa,120,2000,
+"Sundgade 61, 1 6320 Egernsund",1,820000.0,20-10-1998,Alm.,2594,9,Lejlighed,316,1933,
+Teglbakken 63 6320 Egernsund,63,563105.0,12-10-1998,Alm.,7313,4,Sommerhus,77,1973,
+Sundgade 7 6320 Egernsund,7,504640.0,12-10-1998,Alm.,5046,4,Villa,100,1936,
+Havnevej 38 6320 Egernsund,38,841500.0,25-09-1998,Fam.,3393,6,Villa,248,1931,
+Skovgade 22 6320 Egernsund,22,408780.0,17-07-1998,Alm.,4047,3,Villa,101,1777,
+Bjerget 1 6320 Egernsund,1,772000.0,19-06-1998,Alm.,3015,5,Villa,256,1800,
+Sundgade 13 6320 Egernsund,13,235358.0,20-04-1998,Alm.,2082,5,Villa,113,1920,
+Teglparken 60 6320 Egernsund,60,862340.0,15-04-1998,Alm.,6340,5,Villa,136,1978,
+Fyrtårnsvej 2 6320 Egernsund,2,720453.0,01-04-1998,Alm.,6319,4,Villa,114,1960,
+Brovej 41 6320 Egernsund,41,613000.0,02-03-1998,Alm.,5377,4,Villa,114,1951,
+Engvej 15A 6320 Egernsund,0,530000.0,18-02-1998,Alm.,5000,3,Villa,106,1965,
+Mosevej 3 6320 Egernsund,3,763679.0,17-02-1998,Alm.,5266,5,Villa,145,1966,
+Bredmaj 33 6320 Egernsund,33,520000.0,05-02-1998,Alm.,5714,4,Sommerhus,91,1979,
+Engvej 2 6320 Egernsund,2,480000.0,31-10-1997,Alm.,7619,3,Villa,63,1957,
+Teglparken 76 6320 Egernsund,76,873000.0,29-10-1997,Alm.,5105,6,Villa,171,1979,
+Fjordvej 12 6320 Egernsund,12,1962000.0,15-09-1997,Alm.,0,5,Villa,208,1970,
+Sundgade 44 6320 Egernsund,44,760000.0,08-08-1997,Fam.,0,5,Villa,125,1869,
+Skovgade 48 6320 Egernsund,48,385000.0,23-07-1997,Alm.,3888,4,Villa,99,1890,
+Teglbakken 38 6320 Egernsund,38,1042000.0,08-07-1997,Alm.,5853,5,Villa,178,1977,
+Firkløvervej 4 6320 Egernsund,4,2094620.0,02-07-1997,Alm.,6484,5,Villa,323,1966,
+Sundgade 53 6320 Egernsund,53,520000.0,24-06-1997,Alm.,4905,4,Villa,106,1927,
+Bredmaj 9 6320 Egernsund,9,460000.0,06-06-1997,Alm.,6764,8,Sommerhus,68,1980,
+Lågmajvej 3 6320 Egernsund,3,545000.0,21-04-1997,Alm.,0,3,Villa,77,1951,
+Benediktesvej 2 6320 Egernsund,2,520000.0,26-03-1997,Alm.,4521,4,Villa,115,1968,
+Teglbakken 34B 6320 Egernsund,0,256032.0,15-03-1997,Alm.,3084,5,Sommerhus,83,1995,
+Bredmaj 40 6320 Egernsund,40,210000.0,06-03-1997,Alm.,1858,5,Sommerhus,113,2001,
+Fjordvej 25 6320 Egernsund,25,570000.0,24-02-1997,Alm.,0,4,Villa,102,1900,
+Svinget 2A 6320 Egernsund,0,1381720.0,30-01-1997,Alm.,0,6,Villa,232,1984,
+Benediktesvej 70 6320 Egernsund,70,640000.0,30-12-1996,Alm.,4571,5,Villa,140,1973,
+Bredmaj 2 6320 Egernsund,2,150500.0,10-12-1996,Alm.,1881,4,Sommerhus,80,1997,
+Skovgade 8 6320 Egernsund,8,438650.0,07-12-1996,Alm.,6266,3,Villa,70,1957,
+Sundgade 15 6320 Egernsund,15,380520.0,25-11-1996,Alm.,0,5,Villa,153,1907,
+Skovgade 20 6320 Egernsund,20,625000.0,13-11-1996,Alm.,4194,5,Villa,149,1850,
+Lågmajvej 1 6320 Egernsund,1,630000.0,29-10-1996,Alm.,5338,5,Villa,118,1950,
+Sundgade 86 6320 Egernsund,86,809742.0,26-09-1996,Alm.,0,5,Villa,128,1961,
+Fjordvej 17 6320 Egernsund,17,467500.0,09-09-1996,Fam.,0,2,Sommerhus,50,1900,
+Teglparken 80 6320 Egernsund,80,586900.0,12-07-1996,Alm.,5643,3,Villa,104,1979,
+Sundgade 77 6320 Egernsund,77,420000.0,25-06-1996,Fam.,3000,7,Villa,140,1959,
+Teglbakken 20 6320 Egernsund,20,489000.0,24-04-1996,Alm.,6791,4,Sommerhus,72,1976,
+Solbakken 10 6320 Egernsund,10,2275000.0,12-04-1996,Alm.,8125,8,Villa,280,1973,
+Sundgade 54 6320 Egernsund,54,490000.0,03-04-1996,Alm.,3576,4,Villa,137,1998,
+Solbakken 1 6320 Egernsund,1,1960000.0,15-03-1996,Alm.,10594,5,Villa,185,1952,
+Bredmaj 71 6320 Egernsund,71,385000.0,26-02-1996,Fam.,6311,4,Sommerhus,61,1974,
+Teglparken 84 6320 Egernsund,84,794579.0,23-02-1996,Alm.,4116,5,Villa,193,1979,
+Lågmajvej 23 6320 Egernsund,23,666000.0,15-02-1996,Alm.,0,5,Villa,185,1870,
+Lågmajvej 18 6320 Egernsund,18,477186.0,09-02-1996,Fam.,3268,6,Villa,146,1965,
+Teglbakken 54 6320 Egernsund,54,471862.0,16-10-1995,Alm.,6939,3,Sommerhus,68,1977,
+Teglbakken 32 6320 Egernsund,32,500000.0,18-09-1995,Alm.,0,4,Sommerhus,64,1973,
+Sundgade 39 6320 Egernsund,39,390000.0,18-09-1995,Alm.,0,6,Villa,220,1942,
+Rendbjergvej 23 6320 Egernsund,23,408000.0,01-09-1995,Alm.,0,4,Villa,153,1965,
+Reefslagervænget 1 6320 Egernsund,1,78900.0,12-06-1995,Alm.,584,3,Villa,135,1996,
+Teglbakken 34A 6320 Egernsund,0,90000.0,12-06-1995,Alm.,1551,3,Sommerhus,58,1995,
+Mindevej 6 6320 Egernsund,6,1250000.0,12-06-1995,Alm.,7716,5,Villa,162,1989,
+Benediktesvej 78 6320 Egernsund,78,595000.0,05-06-1995,Alm.,3966,5,Villa,150,1972,
+Engvej 11 6320 Egernsund,11,410000.0,07-03-1995,Alm.,3565,4,Villa,115,1959,
+Engvej 20 6320 Egernsund,20,400000.0,12-12-1994,Alm.,4444,3,Villa,90,1962,
+Havnevej 36 6320 Egernsund,36,855000.0,18-11-1994,Alm.,4970,4,Villa,172,1930,
+Teglbakken 14 6320 Egernsund,14,400000.0,03-11-1994,Alm.,0,5,Sommerhus,82,1973,
+Sundgade 49 6320 Egernsund,49,640000.0,20-10-1994,Alm.,3742,4,Villa,171,1926,
+Lågmajvej 8 6320 Egernsund,8,362500.0,03-10-1994,Alm.,4073,3,Villa,89,1965,
+Teglbakken 42 6320 Egernsund,42,384512.0,02-09-1994,Alm.,0,3,Sommerhus,70,1965,
+Sundgade 48 6320 Egernsund,48,1000000.0,29-08-1994,Alm.,5555,6,Villa,180,1882,
+Teglbakken 75 6320 Egernsund,75,500000.0,09-08-1994,Alm.,6578,4,Sommerhus,76,1974,
+Sundgade 59A 6320 Egernsund,0,201558.0,02-08-1994,Alm.,1380,5,Villa,146,1966,
+Fyrtårnsvej 3 6320 Egernsund,3,419210.0,31-05-1994,Fam.,0,4,Villa,114,1963,
+Svinget 24 6320 Egernsund,24,545000.0,25-02-1994,Alm.,3114,8,Villa,175,1981,
+Teglbakken 34 6320 Egernsund,34,300000.0,24-01-1994,Alm.,4285,4,Sommerhus,70,1967,
+Teglbakken 43 6320 Egernsund,43,350000.0,09-01-1994,Alm.,0,7,Sommerhus,145,1965,
+Rendbjergvej 21 6320 Egernsund,21,1450000.0,07-01-1994,Alm.,5105,6,Villa,284,1887,
+Fyrtårnsvej 10 6320 Egernsund,10,410000.0,03-01-1994,Alm.,0,6,Villa,169,1964,
+Teglbakken 61 6320 Egernsund,61,443000.0,14-12-1993,Alm.,7383,3,Sommerhus,60,1978,
+Havnevej 6 6320 Egernsund,6,355000.0,03-12-1993,Alm.,0,6,Villa,229,1864,
+Bredmaj 10 6320 Egernsund,10,290100.0,04-10-1993,Alm.,5802,3,Sommerhus,50,1978,
+Svinget 2 6320 Egernsund,2,975000.0,04-10-1993,Alm.,0,7,Villa,222,1925,
+Benediktesvej 28 6320 Egernsund,28,550000.0,20-09-1993,Alm.,3142,6,Villa,175,1970,
+Teglbakken 9 6320 Egernsund,9,455000.0,19-07-1993,Alm.,6500,3,Sommerhus,70,1973,
+Sundgade 88 6320 Egernsund,88,650000.0,31-05-1993,Alm.,2850,7,Villa,228,1943,
+Bredmaj 41 6320 Egernsund,41,370000.0,26-05-1993,Alm.,0,5,Sommerhus,106,1977,
+Teglbakken 31 6320 Egernsund,31,390000.0,06-05-1993,Alm.,0,6,Sommerhus,71,1976,
+Benediktesvej 66 6320 Egernsund,66,690000.0,05-05-1993,Alm.,4726,5,Villa,146,1972,
+Reefslagervænget 16 6320 Egernsund,16,735000.0,19-04-1993,Alm.,3602,9,Villa,204,1985,
+Teglbakken 4 6320 Egernsund,4,150000.0,26-01-1993,Andet,2238,3,Sommerhus,67,2008,
+Sundgade 35 6320 Egernsund,35,472700.0,23-11-1992,Alm.,0,6,Villa,243,1908,
+Teglparken 42 6320 Egernsund,42,380000.0,19-11-1992,Alm.,2533,3,Villa,150,1979,
+Teglbakken 35 6320 Egernsund,35,380000.0,21-10-1992,Andet,3877,4,Sommerhus,98,1969,
+Kystvej 7 6320 Egernsund,7,1150000.0,02-09-1992,Fam.,4423,6,Rækkehus,260,1962,
+"Rendbjergvej 19, ST. TV 6320 Egernsund",0,930000.0,13-08-1992,Alm.,0,2,Lejlighed,65,1875,
+Teglparken 64 6320 Egernsund,64,690000.0,22-07-1992,Alm.,3670,7,Villa,188,1978,
+Æblehaven 13 6320 Egernsund,13,765000.0,22-05-1992,Alm.,4026,5,Villa,190,1981,
+Sundgade 59B 6320 Egernsund,0,270543.0,01-05-1992,Alm.,1545,6,Villa,175,1850,
+Teglparken 46 6320 Egernsund,46,950000.0,08-04-1992,Alm.,5864,6,Villa,162,1978,
+Fjordvej 5 6320 Egernsund,5,495000.0,28-03-1992,Alm.,0,4,Villa,120,1959,
+Benediktesvej 10 6320 Egernsund,10,725000.0,27-03-1992,Alm.,4769,5,Villa,152,1972,
+Teglparken 8 6320 Egernsund,8,630000.0,03-02-1992,Alm.,4468,5,Villa,141,1979,
